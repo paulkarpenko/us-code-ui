@@ -93,12 +93,9 @@ In paragraph (3), before subparagraph (A), the words “directly or indirectly�
 
 (1) that is not greater than $100,000; or
 
-(2) for the acquisition of commercial items (as defined in [section 103 of this title](./chapter-001-chapter-1.md#section-103)).
+(2) for the acquisition of commercial products or commercial services (as defined in sections 103 and 103a, respectively, of this title).
 
 ### Statutory Notes
-
-#### Amendment of Subsection (d)(2)
-Pub. L. 115–232, div. A, title VIII, § 836(b)(20), (h), Aug. 13, 2018, 132 Stat. 1864, 1874, provided that, effective Jan. 1, 2020, subject to a savings provision, subsection (d)(2) of this section is amended by striking “commercial items (as defined in [section 103 of this title](./chapter-001-chapter-1.md#section-103))” and inserting “commercial products or commercial services (as defined in sections 103 and 103a, respectively, of this title)”. See 2018 Amendment note below.
 
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
@@ -121,12 +118,9 @@ Amendment by Pub. L. 115–232 effective Jan. 1, 2020, subject to a savings prov
 ## § 8704. Inspection authority
 **(a) In General.—** To ascertain whether there has been a violation of [section 8702 of this title](./chapter-087-kickbacks.md#section-8702) with respect to a prime contract, the Comptroller General and the inspector general of the contracting agency, or a representative of the contracting agency designated by the head of the agency if the agency does not have an inspector general, shall have access to and may inspect the facilities and audit the books and records, including electronic data or records, of a prime contractor or subcontractor under a prime contract awarded by the agency.
 
-**(b) Exception.—** This section does not apply to a prime contract for the acquisition of commercial items (as defined in [section 103 of this title](./chapter-001-chapter-1.md#section-103)).
+**(b) Exception.—** This section does not apply to a prime contract for the acquisition of commercial products or commercial services (as defined in sections 103 and 103a, respectively, of this title).
 
 ### Statutory Notes
-
-#### Amendment of Subsection (b)
-Pub. L. 115–232, div. A, title VIII, § 836(b)(20), (h), Aug. 13, 2018, 132 Stat. 1864, 1874, provided that, effective Jan. 1, 2020, subject to a savings provision, subsection (b) of this section is amended by striking “commercial items (as defined in [section 103 of this title](./chapter-001-chapter-1.md#section-103))” and inserting “commercial products or commercial services (as defined in sections 103 and 103a, respectively, of this title)”. See 2018 Amendment note below.
 
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |

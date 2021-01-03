@@ -2,7 +2,7 @@
 title: 42
 chapter: 6A
 heading: PUBLIC HEALTH SERVICE
-section_count: 1439
+section_count: 1463
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42&num=0&edition=prelim
 ---
@@ -118,7 +118,7 @@ Coast and Geodetic Survey consolidated with Weather Bureau to form a new agency 
 Pub. L. 106–310, div. A, title XXIX, § 2901, Oct. 17, 2000, 114 Stat. 1168, provided that: “This division [see Tables for classification] and the amendments made by this division take effect October 1, 2000, or upon the date of the enactment of this Act [Oct. 17, 2000], whichever occurs later.”
 
 #### Effective Date of 1993 Amendment
-Section 2101 of Pub. L. 103–43 provided that: “Subject to section 203(c) [enacting provisions set out as a note under [section 283c of this title](./chapter-6a-public-health-service.md#section-283c)], this Act [see Short Title of 1993 Amendment note below] and the amendments made by this Act take effect upon the date of the enactment of this Act [June 10, 1993].”
+Pub. L. 103–43, title XXI, § 2101, June 10, 1993, 107 Stat. 219, provided that: “Subject to section 203(c) [enacting provisions set out as a note under [section 283c of this title](./chapter-6a-public-health-service.md#section-283c)], this Act [see Short Title of 1993 Amendment note below] and the amendments made by this Act take effect upon the date of the enactment of this Act [June 10, 1993].”
 
 #### Effective Date of 1981 Amendment
 Amendment by section 902(d)(5) of Pub. L. 97–35 effective Oct. 1, 1981, see section 902(h) of Pub. L. 97–35, set out as a note under section 238l of this title.
@@ -129,15 +129,29 @@ Amendment by section 986(a) of Pub. L. 97–35 effective Oct. 1, 1981, see secti
 Amendment by Pub. L. 96–79 effective Oct. 1, 1979, see section 204 of Pub. L. 96–79, set out as a note under [section 300q of this title](./chapter-6a-public-health-service.md#section-300q).
 
 #### Effective Date of 1970 Amendment
-Section 12(b) of Pub. L. 91–212 provided that: “The amendments made by sections 10(d) and 11 [amending this section and sections 276, 277, 278, 280, 280a–1, 280b–2 to 280b–9, and 280b–11 of this title] shall take effect on the date of enactment of this Act [Mar. 13, 1970].”
+Pub. L. 91–212, § 12(b), Mar. 16, 1970, 84 Stat. 67, provided that: “The amendments made by sections 10(d) and 11 [amending this section and sections 276, 277, 278, 280, 280a–1, 280b–2 to 280b–9, and 280b–11 of this title] shall take effect on the date of enactment of this Act [Mar. 13, 1970].”
 
 #### Effective Date of 1960 Amendment
-Section 47(f) of Pub. L. 86–624 provided that: “The amendments made by subsection (c), paragraphs (3) and (4) of subsection (b), and paragraph (4) of subsection (d) of section 14 [amending sections 15i, 15jj, 15ggg, 244, and 645 of Title 20, Education], by section 20(a) [amending [section 41 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section41&num=0&edition=prelim), Labor], by section 23(b) [amending [section 466j of Title 33](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section466j&num=0&edition=prelim), Navigation and Navigable Waters], by subsections (a), (b), and (c), and paragraph (4) of subsection (d), of section 29 [amending this section and sections 255, 264, and 291i of this title], and by subsection (d), and paragraph (2) of subsection (c), of section 30 [amending sections 410 and 1301 of this title] shall become effective on August 21, 1959.”
+Pub. L. 86–624, § 47(f), July 12, 1960, 74 Stat. 423, provided that: “The amendments made by subsection (c), paragraphs (3) and (4) of subsection (b), and paragraph (4) of subsection (d) of section 14 [amending sections 15i, 15jj, 15ggg, 244, and 645 of Title 20, Education], by section 20(a) [amending [section 41 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section41&num=0&edition=prelim), Labor], by section 23(b) [amending [section 466j of Title 33](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section466j&num=0&edition=prelim), Navigation and Navigable Waters], by subsections (a), (b), and (c), and paragraph (4) of subsection (d), of section 29 [amending this section and sections 255, 264, and 291i of this title], and by subsection (d), and paragraph (2) of subsection (c), of section 30 [amending sections 410 and 1301 of this title] shall become effective on August 21, 1959.”
 
 #### Effective Date of 1959 Amendment
 Amendment by Pub. L. 86–70 effective Jan. 3, 1959, see section 47(d) of Pub. L. 86–70.
 
+#### Short Title of 2021 Amendment
+Pub. L. 116–324, § 1, Jan. 5, 2021, 134 Stat. 5085, provided that: “This Act [amending sections 300ii–3 and 300ii–4 of this title] may be cited as the ‘Lifespan Respite Care Reauthorization Act of 2020’.”
+
+Pub. L. 116–292, § 1, Jan. 5, 2021, 134 Stat. 4896, provided that: “This Act [amending [section 280g of this title](./chapter-6a-public-health-service.md#section-280g)] may be cited as the ‘School-Based Allergies and Asthma Management Program Act’.”
+
+#### Short Title of 2020 Amendment
+Pub. L. 116–273, § 1, Dec. 31, 2020, 134 Stat. 3352, provided that: “This Act [enacting sections 300c–11 and 300c–14 of this title] may be cited as the ‘Scarlett’s Sunshine on Sudden Unexpected Death Act’.”
+
+Pub. L. 116–260, div. BB, title I, § 101, Dec. 27, 2020, 134 Stat. 2758, provided that: “This title [see Tables for classification] may be cited as the ‘No Surprises Act’.”
+
+Pub. L. 116–136, div. A, title III, § 3001, Mar. 27, 2020, 134 Stat. 360, provided that: “This subtitle [subtitle A (§§ 3001–3404) of title III of div. A of Pub. L. 116–136, see Tables for classification] may be cited as the ‘Coronavirus Aid, Relief, and Economic Security Act’.”
+
 #### Short Title of 2019 Amendment
+Pub. L. 116–94, div. N, title I, § 404(a), Dec. 20, 2019, 133 Stat. 3116, provided that: “This section [enacting sections 247b–23 and 300hh–32 of this title] may be cited as the ‘Kay Hagan Tick Act’.”
+
 Pub. L. 116–60, § 1, Sept. 30, 2019, 133 Stat. 1110, provided that: “This Act [amending sections 280i to 280i–4 and 284g of this title] may be cited as the ‘Autism Collaboration, Accountability, Research, Education, and Support Act of 2019’ or the ‘Autism CARES Act of 2019’.”
 
 Pub. L. 116–49, § 1, Aug. 22, 2019, 133 Stat. 1072, provided that: “This Act [amending [section 300w–9 of this title](./chapter-6a-public-health-service.md#section-300w-9)] may be cited as the ‘Emergency Medical Services for Children Program Reauthorization Act of 2019’.”
@@ -642,11 +656,11 @@ Pub. L. 95–559, § 1(a), Nov. 1, 1978, 92 Stat. 2131, provided that: “This A
 #### Short Title of 1977 Amendments
 Pub. L. 95–190, § 1, Nov. 16, 1977, 91 Stat. 1393, provided that: “This Act [enacting sections 300j–10 and 7625a of this title, amending sections 300f, 300g–1, 300g–3, 300g–5, 300h, 300h–1, 300j to 300j–2, 300j–4, 300j–6, 300j–8, 7410, 7411, 7413, 7414, 7416, 7419, 7420, 7426, 7472 to 7475, 7478, 7479, 7502, 7503, 7506, 7521, 7522, 7525, 7541, 7545, 7549, 7602, 7604, 7607, 7623, and 7626 of this title, enacting provisions set out as notes under [section 300f of this title](./chapter-6a-public-health-service.md#section-300f), and [section 5108 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5108&num=0&edition=prelim), Government Organization and Employees, and amending provisions set out as notes under sections 300f, 7401, and 7502 of this title] may be cited as the ‘Safe Drinking Water Amendments of 1977’.”
 
-Section 101 of title I of Pub. L. 95–83 provided that: “This title [amending this section and sections 242m, 300e–8, 300k–3, 300l to 300l–5, 300m, 300m–2, 300m–4, 300m–5, 300n–3, 300n–5, 300o–1 to 300o–3, 300p, 300p–3, 300q, 300q–2, 300r, 300s–3, 300t, and 1396b of this title, and enacting provisions set out as a note under [section 1396b of this title](./chapter-007-social-security.md#section-1396b)] may be cited as the ‘Health Planning and Health Services Research and Statistics Extension Act of 1977’.”
+Pub. L. 95–83, title I, § 101, Aug. 1, 1977, 91 Stat. 383, provided that: “This title [amending this section and sections 242m, 300e–8, 300k–3, 300l to 300l–5, 300m, 300m–2, 300m–4, 300m–5, 300n–3, 300n–5, 300o–1 to 300o–3, 300p, 300p–3, 300q, 300q–2, 300r, 300s–3, 300t, and 1396b of this title, and enacting provisions set out as a note under [section 1396b of this title](./chapter-007-social-security.md#section-1396b)] may be cited as the ‘Health Planning and Health Services Research and Statistics Extension Act of 1977’.”
 
-Section 201 of title II of Pub. L. 95–83 provided that: “This title [amending sections 280b, 286b, 286c, 286d, 286f, 286g, 287c, 287d, 287f, 287h, 287i, and 289l–1 of this title] may be cited as the ‘Biomedical Research Extension Act of 1977’.”
+Pub. L. 95–83, title II, § 201, Aug. 1, 1977, 91 Stat. 386, provided that: “This title [amending sections 280b, 286b, 286c, 286d, 286f, 286g, 287c, 287d, 287f, 287h, 287i, and 289l–1 of this title] may be cited as the ‘Biomedical Research Extension Act of 1977’.”
 
-Section 301 of title III of Pub. L. 95–83 provided that: “This title [enacting [section 294y–1 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section294y–1&num=0&edition=prelim), amending sections 210, 246, 247d, 254c, 292g, 292h, 293a, 294d, 294e, 294h, 294i, 294j, 294n, 294r, 294s, 294w, 294z, 295f–1, 295g–1, 295g–9, 295h–5, 295h–5c, 296e, 296m, 297, 300, 300a–1, 300a–2, 300a–3, 300c–11, 300c–21, 300c–22, 701, 2689a to 2689e, 2689h, 2689p, 2689q, 4572, 4573, and 4577 of this title, sections 1101 and 1182 of Title 8, Aliens and Nationality, sections 1112 and 1176 of Title 21, Food and Drugs, and [section 1614 of Title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section1614&num=0&edition=prelim), Indians, enacting provisions set out as notes under sections 242b, 242l, 294d, 294i, 294n, 294r, 294t, 294y–1, 294z, 295f–1, 295g–1, 295h–5, and 296m of this title and sections 1101 and 1182 of Title 8, and amending provisions set out as notes under sections 289k–2, 1395x, and 1396b of this title] may be cited as the ‘Health Services Extension Act of 1977’.”
+Pub. L. 95–83, title III, § 301, Aug. 1, 1977, 91 Stat. 387, provided that: “This title [enacting [section 294y–1 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section294y–1&num=0&edition=prelim), amending sections 210, 246, 247d, 254c, 292g, 292h, 293a, 294d, 294e, 294h, 294i, 294j, 294n, 294r, 294s, 294w, 294z, 295f–1, 295g–1, 295g–9, 295h–5, 295h–5c, 296e, 296m, 297, 300, 300a–1, 300a–2, 300a–3, 300c–11, 300c–21, 300c–22, 701, 2689a to 2689e, 2689h, 2689p, 2689q, 4572, 4573, and 4577 of this title, sections 1101 and 1182 of Title 8, Aliens and Nationality, sections 1112 and 1176 of Title 21, Food and Drugs, and [section 1614 of Title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section1614&num=0&edition=prelim), Indians, enacting provisions set out as notes under sections 242b, 242l, 294d, 294i, 294n, 294r, 294t, 294y–1, 294z, 295f–1, 295g–1, 295h–5, and 296m of this title and sections 1101 and 1182 of Title 8, and amending provisions set out as notes under sections 289k–2, 1395x, and 1396b of this title] may be cited as the ‘Health Services Extension Act of 1977’.”
 
 #### Short Title of 1976 Amendments
 Pub. L. 94–573, § 1(a), Oct. 21, 1976, 90 Stat. 2709, provided that: “This Act [enacting [section 300d–21 of this title](./chapter-6a-public-health-service.md#section-300d-21), amending sections 295f–6 and 300d to 300d–9 of this title, enacting provisions set out as notes under sections 242b, 300d, 300d–7, and 300d–9 of this title, and amending provisions set out as notes under sections 218, 289c–1, and 289l–1 of this title] may be cited as the ‘Emergency Medical Services Amendments of 1976’.”
@@ -1010,7 +1024,7 @@ By virtue of the authority vested in me by [Section 301 of Title 3](https://usco
 
 Section 1. The Secretary of Health and Human Services is hereby authorized and empowered, without the approval, ratification, or other action of the President, to perform the following-described functions vested in the President under the Public Health Service Act (58 Stat. 682), as amended [[42 U.S.C. 201](./chapter-6a-public-health-service.md#section-201) et seq.]:
 
-(a) The authority under Section 203 ([42 U.S.C. 204](./chapter-6a-public-health-service.md#section-204)): to appoint commissioned officers of the Reserve Corps.
+(a) The authority under Section 203 ([42 U.S.C. 204](./chapter-6a-public-health-service.md#section-204)): to appoint commissioned officers of the Reserve Corps [now Ready Reserve Corps].
 
 (b) The authority under Section 206(b) ([42 U.S.C. 207(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section207/b&num=0&edition=prelim)) to prescribe titles, appropriate to the several grades, for commissioned officers of the Public Health Service other than medical officers.
 
@@ -1024,7 +1038,7 @@ Section 1. The Secretary of Health and Human Services is hereby authorized and e
 
 (g) The authority under Sections 321(a) and 364(a) ([42 U.S.C. 248(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section248/a&num=0&edition=prelim) and 267(a)) to approve the selection of suitable sites for and the establishment of additional institutions, hospitals, stations, grounds, and anchorages; subject, however, to the approval of the Director of the Office of Management and Budget, except as he may otherwise provide.
 
-Sec. 2. The Surgeon General is hereby authorized and empowered, without the approval, ratification, or other action of the President, to perform the function vested in the President by Sections 203 and 207(a)(2) of the Public Health Service Act (58 Stat. 683, 685), as amended ([42 U.S.C. 204](./chapter-6a-public-health-service.md#section-204) and 209(a)(2)), or otherwise, of accepting voluntary resignations of commissioned officers of the Regular Corps or the Reserve Corps.
+Sec. 2. The Surgeon General is hereby authorized and empowered, without the approval, ratification, or other action of the President, to perform the function vested in the President by Sections 203 and 207(a)(2) of the Public Health Service Act (58 Stat. 683, 685), as amended ([42 U.S.C. 204](./chapter-6a-public-health-service.md#section-204) and 209(a)(2)), or otherwise, of accepting voluntary resignations of commissioned officers of the Regular Corps or the Reserve Corps [now Ready Reserve Corps].
 
 Sec. 3. The Secretary of Health and Human Services is hereby authorized and empowered, without the approval, ratification, or other action of the President, to exercise the authority vested in the President by [Section 704 of Title 37](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section704&num=0&edition=prelim) of the United States Code to prescribe regulations.
 
@@ -1065,7 +1079,7 @@ Functions of Federal Security Administrator transferred to Secretary of Health, 
 ## § 204a. Commissioned Corps and Ready Reserve Corps
 **(a) Establishment**
 
-(1) **In general** — There shall be in the Service a commissioned Regular Corps and a Ready Reserve Corps for service in time of national emergency.
+(1) **In general** — There shall be in the Service a commissioned Regular Corps and, for service in time of a public health or national emergency, a Ready Reserve Corps.
 
 (2) **Requirement** — All commissioned officers shall be citizens of the United States and shall be appointed without regard to the civil-service laws and compensated without regard to the Classification Act of 1923, as amended.
 
@@ -1077,19 +1091,21 @@ Functions of Federal Security Administrator transferred to Secretary of Health, 
 
 **(b) Assimilating Reserve Corps officers into the Regular Corps** Effective on March 23, 2010, all individuals classified as officers in the Reserve Corps under this section (as such section existed on the day before March 23, 2010) and serving on active duty shall be deemed to be commissioned officers of the Regular Corps.
 
-**(c) Purpose and use of Ready Reserve**
+**(c) Purpose and use of Ready Reserve Corps**
 
-(1) **Purpose** — The purpose of the Ready Reserve Corps is to fulfill the need to have additional Commissioned Corps personnel available on short notice (similar to the uniformed service’s reserve program) to assist regular Commissioned Corps personnel to meet both routine public health and emergency response missions.
+(1) **Purpose** — The purpose of the Ready Reserve Corps is to fulfill the need to have additional Commissioned Corps personnel available on short notice (similar to the uniformed service’s reserve program) to assist regular Commissioned Corps personnel to meet both routine public health and emergency response missions during public health or national emergencies.
 
-(2) **Uses** — The Ready Reserve Corps shall—
+(2) **Uses** — The Ready Reserve Corps shall, consistent with paragraph (1)—
 
   (A) participate in routine training to meet the general and specific needs of the Commissioned Corps;
 
   (B) be available and ready for involuntary calls to active duty during national emergencies and public health crises, similar to the uniformed service reserve personnel;
 
-  (C) be available for backfilling critical positions left vacant during deployment of active duty Commissioned Corps members, as well as for deployment to respond to public health emergencies, both foreign and domestic; and
+  (C) be available for backfilling critical positions left vacant during deployment of active duty Commissioned Corps members during such emergencies, as well as for deployment to respond to public health emergencies, both foreign and domestic; and
 
-  (D) be available for service assignment in isolated, hardship, and medically underserved communities (as defined in [section 295p of this title](./chapter-6a-public-health-service.md#section-295p)) to improve access to health services.
+  (D) be available for service assignment in isolated, hardship, and medically underserved communities (as defined in [section 295p of this title](./chapter-6a-public-health-service.md#section-295p)) to improve access to health services, consistent with subparagraph (C).
+
+(3) **Statutory references to reserve** — A reference in any Federal statute, except in the case of subsection (b), to the “Reserve Corps” of the Public Health Service or to the “reserve” of the Public Health Service shall be deemed to be a reference to the Ready Reserve Corps.
 
 **(d) Funding** For the purpose of carrying out the duties and responsibilities of the Commissioned Corps under this section, there are authorized to be appropriated $5,000,000 for each of fiscal years 2010 through 2014 for recruitment and training and $12,500,000 for each of fiscal years 2010 through 2014 for the Ready Reserve Corps.
 
@@ -1099,6 +1115,20 @@ Functions of Federal Security Administrator transferred to Secretary of Health, 
 The Classification Act of 1923, as amended, referred to in subsec. (a)(2), is act Mar. 4, 1923, ch. 265, 42 Stat. 1488, which was classified to section 661 et seq. of former Title 5, Executive Departments and Government Officers and Employees, and was repealed by act Oct. 28, 1949, ch. 782, title XII, § 1202, 63 Stat. 972.
 
 #### Amendments
+2020—Subsec. (a)(1). Pub. L. 116–136, § 3214(a)(1), substituted “, for service in time of a public health or national emergency, a Ready Reserve Corps” for “a Ready Reserve Corps for service in time of national emergency”.
+
+Subsec. (c). Pub. L. 116–136, § 3214(a)(2)(A), substituted “Reserve Corps” for “Research” in heading.
+
+Subsec. (c)(1). Pub. L. 116–136, § 3214(a)(2)(B), inserted “during public health or national emergencies” before period at end.
+
+Subsec. (c)(2). Pub. L. 116–136, § 3214(a)(2)(C)(i), inserted “, consistent with paragraph (1)” after “shall” in introductory provisions.
+
+Subsec. (c)(2)(C). Pub. L. 116–136, § 3214(a)(2)(C)(ii), inserted “during such emergencies” after “members”.
+
+Subsec. (c)(2)(D). Pub. L. 116–136, § 3214(a)(2)(C)(iii), inserted “, consistent with subparagraph (C)” before period at end.
+
+Subsec. (c)(3). Pub. L. 116–136, § 3214(a)(2)(D), added par. (3).
+
 2012—Subsec. (a)(3). Pub. L. 112–166 struck out “with the advice and consent of the Senate” before period at end.
 
 2010—Pub. L. 111–148 inserted section catchline and amended text generally. Prior to amendment, text read as follows: “There shall be in the Service a commissioned Regular Corps and, for the purpose of securing a reserve for duty in the Service in time of national emergency, a Reserve Corps. All commissioned officers shall be citizens and shall be appointed without regard to the civil-service laws and compensated without regard to chapter 51 and subchapter III of chapter 53 of title 5. Commissioned officers of the Reserve Corps shall be appointed by the President and commissioned officers of the Regular Corps shall be appointed by him by and with the advice and consent of the Senate. Commissioned officers of the Reserve Corps shall at all times be subject to call to active duty by the Surgeon General, including active duty for the purpose of training and active duty for the purpose of determining their fitness for appointment in the Regular Corps. Warrant officers may be appointed to the Service for the purpose of providing support to the health and delivery systems maintained by the Service and any warrant officer appointed to the Service shall be considered for purposes of this chapter and title 37 to be a commissioned officer within the commissioned corps of the Service.”
@@ -1108,6 +1138,9 @@ The Classification Act of 1923, as amended, referred to in subsec. (a)(2), is ac
 1949—Act Oct. 28, 1949, substituted “Classification Act of 1949” for “Classification Act of 1923”.
 
 1948—Act Feb. 28, 1948, struck out provision that all active service in Reserve Corps, as well as service in Regular Corps, shall be credited for purpose of promotion in Regular Corps.
+
+#### Change of Name
+Reference in any Federal statute, except in the case of subsec. (b) of this section, to “Reserve Corps” of the Public Health Service or to the “reserve” of the Public Health Service deemed to be a reference to the Ready Reserve Corps, see subsec. (c)(3) of this section.
 
 #### Effective Date of 2012 Amendment
 Amendment by Pub. L. 112–166 effective 60 days after Aug. 10, 2012, and applicable to appointments made on and after that effective date, including any nomination pending in the Senate on that date, see section 6(a) of Pub. L. 112–166, set out as a note under [section 113 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section113&num=0&edition=prelim), Domestic Security.
@@ -1155,7 +1188,7 @@ Barack Obama.
 
   (A) Active duty Regular Corps.
 
-  (B) Active Reserves.
+  (B) Ready Reserve Corps.
 
 (2) **Annual assessment of members** — The Secretary shall annually determine whether each member of the Corps meets the applicable readiness requirements established under paragraph (1).
 
@@ -1206,6 +1239,9 @@ The National Emergencies Act, referred to in subsec. (a)(5)(A), is Pub. L. 94–
 
 The Robert T. Stafford Disaster Relief and Emergency Assistance Act, referred to in subsec. (a)(5)(B), is Pub. L. 93–288, May 22, 1974, 88 Stat. 143, as amended, which is classified principally to chapter 68 (§ 5121 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 5121 of this title](./chapter-068-disaster-relief.md#section-5121) and Tables.
 
+#### Amendments
+2020—Subsec. (a)(1)(B). Pub. L. 116–136 substituted “Ready Reserve Corps” for “Active Reserves”.
+
 #### Purpose
 Pub. L. 109–417, title II, § 206(a), Dec. 19, 2006, 120 Stat. 2851, provided that: “It is the purpose of this section [enacting this section and amending sections 215 and 254d of this title] to improve the force management and readiness of the Commissioned Corps to accomplish the following objectives: “(1) To ensure the Corps is ready to respond rapidly to urgent or emergency public health care needs and challenges. “(2) To ensure the availability of the Corps for assignments that address clinical and public health needs in isolated, hardship, and hazardous duty positions, and, when required, to address needs related to the well-being, security, and defense of the United States. “(3) To establish the Corps as a resource available to Federal and State Government agencies for assistance in meeting public health leadership and service roles.”
 
@@ -1213,11 +1249,13 @@ Pub. L. 109–417, title II, § 206(a), Dec. 19, 2006, 120 Stat. 2851, provided 
 <a id="section-206"></a>
 ## § 206. Appointment and tenure of office of Surgeon General; reversion in rank
 
-The Surgeon General shall be appointed from the Regular Corps for a four-year term by the President by and with the advice and consent of the Senate. The Surgeon General shall be appointed from individuals who (1) are members of the Regular Corps, and (2) have specialized training or significant experience in public health programs. Upon the expiration of such term the Surgeon General, unless reappointed, shall revert to the grade and number in the Regular or Reserve Corps that he would have occupied had he not served as Surgeon General.
+The Surgeon General shall be appointed from the Regular Corps for a four-year term by the President by and with the advice and consent of the Senate. The Surgeon General shall be appointed from individuals who (1) are members of the Regular Corps, and (2) have specialized training or significant experience in public health programs. Upon the expiration of such term the Surgeon General, unless reappointed, shall revert to the grade and number in the Regular Corps or Ready Reserve Corps that he would have occupied had he not served as Surgeon General.
 
 ### Statutory Notes
 
 #### Amendments
+2020—Pub. L. 116–136 substituted “Regular Corps or Ready Reserve Corps” for “Regular or Reserve Corps”.
+
 1981—Pub. L. 97–35 inserted reference to Reserve Corps and substituted provisions relating to appointment of an individual from the Regular Corps and with specialized training and significant experience, for provisions relating to appointment of an individual sixty-four years of age or older.
 
 Pub. L. 97–25 inserted provision that the President may appoint to office of Surgeon General an individual who is sixty-four years of age or older.
@@ -1234,15 +1272,17 @@ Office of Surgeon General abolished by section 3 of Reorg. Plan No. 3 of 1966, e
 
 **(c) Creation of temporary positions as Assistant Surgeons General**
 
-(1) The Surgeon General, with the approval of the Secretary, is authorized to create special temporary positions in the grade of Assistant Surgeons General when necessary for the proper staffing of the Service. The Surgeon General may assign officers of either the Regular Corps or the Reserve Corps to any such temporary position, and while so serving they shall each have the title of Assistant Surgeon General.
+(1) The Surgeon General, with the approval of the Secretary, is authorized to create special temporary positions in the grade of Assistant Surgeons General when necessary for the proper staffing of the Service. The Surgeon General may assign officers of either the Regular Corps or the Ready Reserve Corps to any such temporary position, and while so serving they shall each have the title of Assistant Surgeon General.
 
-(2) Except as provided in this paragraph, the number of special temporary positions created by the Surgeon General under paragraph (1) shall not on any day exceed 1 per centum of the highest number, during the ninety days preceding such day, of officers of the Regular Corps on active duty and officers of the Reserve Corps on active duty for more than thirty days. If on any day the number of such special temporary positions exceeds such 1 per centum limitation, for a period of not more than one year after such day, the number of such special temporary positions shall be reduced for purposes of complying with such 1 per centum limitation only by the resignation, retirement, death, or transfer to a position of a lower grade, of any officer holding any such temporary position.
+(2) Except as provided in this paragraph, the number of special temporary positions created by the Surgeon General under paragraph (1) shall not on any day exceed 1 per centum of the highest number, during the ninety days preceding such day, of officers of the Regular Corps on active duty and officers of the Ready Reserve Corps on active duty for more than thirty days. If on any day the number of such special temporary positions exceeds such 1 per centum limitation, for a period of not more than one year after such day, the number of such special temporary positions shall be reduced for purposes of complying with such 1 per centum limitation only by the resignation, retirement, death, or transfer to a position of a lower grade, of any officer holding any such temporary position.
 
 **(d) Designation of Assistant Surgeon General with respect to absence, disability, or vacancy in offices of Surgeon General and Deputy Surgeon General** The Surgeon General shall designate the Assistant Surgeon General who shall serve as Surgeon General in case of absence or disability, or vacancy in the offices, of both the Surgeon General and the Deputy Surgeon General.
 
 ### Statutory Notes
 
 #### Amendments
+2020—Subsec. (c). Pub. L. 116–136 substituted “Ready Reserve Corps” for “Reserve Corps” in pars. (1) and (2).
+
 1979—Subsec. (b). Pub. L. 96–76, § 302(b), inserted provisions relating to assignment of Chief Nurse Officer and Chief Pharmacist Officer, and substituted “eight” for “six”.
 
 Subsec. (c). Pub. L. 96–76, § 303, designated existing provisions as par. (1), struck out provisions relating to maximum number of special temporary positions, and added par. (2).
@@ -1286,7 +1326,7 @@ Functions of Federal Security Administrator transferred to Secretary of Health, 
 
 (10) Warrant officers of (W–1) grade—warrant officer (W–1).
 
-**(b) Titles of medical officers** The titles of medical officers of the foregoing grades shall be respectively (1) medical director, (2) senior surgeon, (3) surgeon, (4) senior assistant surgeon, (5) assistant surgeon, and (6) junior assistant surgeon. The President is authorized to prescribe titles, appropriate to the several grades, for commissioned officers of the Service other than medical officers. All titles of the officers of the Reserve Corps shall have the suffix “Reserve”.
+**(b) Titles of medical officers** The titles of medical officers of the foregoing grades shall be respectively (1) medical director, (2) senior surgeon, (3) surgeon, (4) senior assistant surgeon, (5) assistant surgeon, and (6) junior assistant surgeon. The President is authorized to prescribe titles, appropriate to the several grades, for commissioned officers of the Service other than medical officers. All titles of the officers of the Ready Reserve Corps shall have the suffix “Reserve”.
 
 **(c) Repealed. Pub. L. 96–76, title III, § 304(b), Sept. 29, 1979, 93 Stat. 584**
 
@@ -1299,6 +1339,8 @@ Functions of Federal Security Administrator transferred to Secretary of Health, 
 ### Statutory Notes
 
 #### Amendments
+2020—Subsec. (b). Pub. L. 116–136, which directed amendment of subsec. (c) by substituting “Ready Reserve Corps” for “Reserve Corps”, was executed by making the substitution in subsec. (b) to reflect the probable intent of Congress.
+
 1996—Subsec. (f). Pub. L. 104–201 added subsec. (f).
 
 1990—Subsec. (a). Pub. L. 101–502 inserted after first sentence “During the period of appointment to the position of Assistant Secretary for Health, a commissioned officer of the Public Health Service shall have the grade corresponding to the grade of General of the Army.”
@@ -1355,13 +1397,13 @@ Section, act July 1, 1944, ch. 373, title II, § 207, 58 Stat. 685, related to e
 
 <a id="section-209a-209b"></a>
 ## § 209a, 209b. Appointment of personnel
-**(a) Original appointments to Regular and Reserve Corps; limitation on appointment and call to active duty**
+**(a) Original appointments to Regular and Ready Reserve Corps; limitation on appointment and call to active duty**
 
 (1) Except as provided in subsections (b) and (e) of this section, original appointments to the Regular Corps may be made only in the warrant officer (W–1), chief warrant officer (W–2), chief warrant officer (W–3), chief warrant officer (W–4), junior assistant, assistant, and senior assistant grades and original appointments to a grade above junior assistant shall be made only after passage of an examination, given in accordance with regulations of the President, in one or more of the several branches of medicine, dentistry, hygiene, sanitary engineering, pharmacy, psychology, nursing, or related scientific specialties in the field of public health.
 
-(2) Original appointments to the Reserve Corps may be made to any grade up to and including the director grade but only after passage of an examination given in accordance with regulations of the President. Reserve commissions shall be for an indefinite period and may be terminated at any time, as the President may direct.
+(2) Original appointments to the Ready Reserve Corps may be made to any grade up to and including the director grade but only after passage of an examination given in accordance with regulations of the President. Reserve commissions shall be for an indefinite period and may be terminated at any time, as the President may direct.
 
-(3) No individual who has attained the age of forty-four shall be appointed to the Regular Corps, or called to active duty in the Reserve Corps for a period in excess of one year, unless (A) he has had a number of years of active service (as defined in [section 212(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section212/d&num=0&edition=prelim)) equal to the number of years by which his age exceeds forty-four, or (B) the Surgeon General determines that he possesses exceptional qualifications, not readily available elsewhere in the Commissioned Corps of the Public Health Service, for the performance of special duties with the Service, or (C) in the case of an officer of the Reserve Corps, the Commissioned Corps of the Service has been declared by the President to be a military service.
+(3) No individual who has attained the age of forty-four shall be appointed to the Regular Corps, or called to active duty in the Ready Reserve Corps for a period in excess of one year, unless (A) he has had a number of years of active service (as defined in [section 212(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section212/d&num=0&edition=prelim)) equal to the number of years by which his age exceeds forty-four, or (B) the Surgeon General determines that he possesses exceptional qualifications, not readily available elsewhere in the Commissioned Corps of the Public Health Service, for the performance of special duties with the Service, or (C) in the case of an officer of the Ready Reserve Corps, the Commissioned Corps of the Service has been declared by the President to be a military service.
 
 **(b) Grade and number of original appointments**
 
@@ -1371,13 +1413,13 @@ Section, act July 1, 1944, ch. 373, title II, § 207, 58 Stat. 685, related to e
 
   (A)
 
-    (i) was on active duty in the Reserve Corps on July 1, 1960, (ii) was on such active duty continuously for not less than one year immediately prior to such date, and (iii) applies for appointment to the Regular Corps prior to July 1, 1962; or
+    (i) was on active duty in the Ready Reserve Corps on July 1, 1960, (ii) was on such active duty continuously for not less than one year immediately prior to such date, and (iii) applies for appointment to the Regular Corps prior to July 1, 1962; or
 
-  (B) does not come within clause (A)(i) and (ii) but was on active duty in the Reserve Corps continuously for not less than one year immediately prior to his appointment to the Regular Corps and has not served on active duty continuously for a period, occurring after June 30, 1960, of more than three and one-half years prior to applying for such appointment.
+  (B) does not come within clause (A)(i) and (ii) but was on active duty in the Ready Reserve Corps continuously for not less than one year immediately prior to his appointment to the Regular Corps and has not served on active duty continuously for a period, occurring after June 30, 1960, of more than three and one-half years prior to applying for such appointment.
 
-(3) No person shall be appointed pursuant to this subsection unless he meets standards established in accordance with regulations of the President.
+(3) No person shall be appointed pursuant to this subsection unless he meets standards established in accordance with regulat1ions of the President.
 
-**(c) Issuance of commissions** Commissions evidencing the appointment by the President of officers of the Regular or Reserve Corps shall be issued by the Secretary under the seal of the Department of Health and Human Services.
+**(c) Issuance of commissions** Commissions evidencing the appointment by the President of officers of the Regular Corps or Ready Reserve Corps shall be issued by the Secretary under the seal of the Department of Health and Human Services.
 
 **(d) Date of appointment; credit for service**
 
@@ -1385,9 +1427,9 @@ Section, act July 1, 1944, ch. 373, title II, § 207, 58 Stat. 685, related to e
 
 (2) For purposes of basic pay, any person appointed under subsection (a) to the grade of senior assistant in the Regular Corps, and any person appointed under subsection (b), shall, in lieu of the credit provided in paragraph (1) of this subsection, be credited with the service for which he is entitled to credit under any other provision of law if such service exceeds that to which he would be entitled under such paragraph.
 
-(3) For purposes of promotion, any person originally appointed in the Regular Corps to the senior assistant grade or above who has had active service in the Reserve Corps shall be considered as having had on the date of appointment the length of service provided for in paragraph (1) of this subsection, plus whichever of the following is greater: (A) The excess of his total active service in the Reserve Corps (above the grade of junior assistant) over the length of service provided in such paragraph, to the extent that such excess is on account of service in the Reserve Corps in or above the grade to which he is appointed in the Regular Corps or (B) his active service in the same or any higher grade in the Reserve Corps after the first day on which, under regulations in effect on the date of his appointment to the Regular Corps, he would have had the training and experience necessary for such appointment.
+(3) For purposes of promotion, any person originally appointed in the Regular Corps to the senior assistant grade or above who has had active service in the Ready Reserve Corps shall be considered as having had on the date of appointment the length of service provided for in paragraph (1) of this subsection, plus whichever of the following is greater: (A) The excess of his total active service in the Ready Reserve Corps (above the grade of junior assistant) over the length of service provided in such paragraph, to the extent that such excess is on account of service in the Ready Reserve Corps in or above the grade to which he is appointed in the Regular Corps or (B) his active service in the same or any higher grade in the Ready Reserve Corps after the first day on which, under regulations in effect on the date of his appointment to the Regular Corps, he would have had the training and experience necessary for such appointment.
 
-(4) For purposes of promotion, any person whose original appointment is to the assistant grade in the Regular Corps shall be considered as having had on the date of appointment service equal to his total active service in the Reserve Corps in and above the assistant grade.
+(4) For purposes of promotion, any person whose original appointment is to the assistant grade in the Regular Corps shall be considered as having had on the date of appointment service equal to his total active service in the Ready Reserve Corps in and above the assistant grade.
 
 **(e) Reappointment; credit for service**
 
@@ -1416,6 +1458,12 @@ In subsec. (h), the references to subsections (f) and (g) of this section were, 
 A prior section 207 of act July 1, 1944, was classified to [section 208 of this title](./chapter-6a-public-health-service.md#section-208), prior to repeal by act Feb. 28, 1948, ch. 83, § 5(a), 62 Stat. 40.
 
 #### Amendments
+2020—Subsecs. (a), (b). Pub. L. 116–136, § 3214(e)(3), substituted “Ready Reserve Corps” for “Reserve Corps” wherever appearing.
+
+Subsec. (c). Pub. L. 116–136, § 3214(e)(1), substituted “Regular Corps or Ready Reserve Corps” for “Regular or Reserve Corps”.
+
+Subsec. (d). Pub. L. 116–136, § 3214(e)(3), substituted “Ready Reserve Corps” for “Reserve Corps” wherever appearing.
+
 1983—Subsec. (a)(1). Pub. L. 97–414 inserted “psychology,” after “pharmacy,”.
 
 1981—Subsec. (b)(1). Pub. L. 97–35 inserted provisions relating to exception for an appointment under [section 205 of this title](./chapter-6a-public-health-service.md#section-205).
@@ -1537,7 +1585,7 @@ Functions of Federal Security Administrator transferred to Secretary of Health, 
 
 <a id="section-210a"></a>
 ## § 210a. Annual and sick leave
-**(a) Regulations** In accordance with regulations of the President, commissioned officers of the Regular Corps and officers of the Reserve Corps on active duty may be granted annual leave and sick leave without any deductions from their pay and allowances: Provided, That such regulations shall not authorize annual leave to be accumulated in excess of sixty days.
+**(a) Regulations** In accordance with regulations of the President, commissioned officers of the Regular Corps and officers of the Ready Reserve Corps on active duty may be granted annual leave and sick leave without any deductions from their pay and allowances: Provided, That such regulations shall not authorize annual leave to be accumulated in excess of sixty days.
 
 **(b) Repealed. Pub. L. 87–649, § 14b, Sept. 7, 1962, 76 Stat. 499**
 
@@ -1548,6 +1596,8 @@ Functions of Federal Security Administrator transferred to Secretary of Health, 
 ### Statutory Notes
 
 #### Amendments
+2020—Subsec. (a). Pub. L. 116–136 substituted “Ready Reserve Corps” for “Reserve Corps”.
+
 1979—Subsec. (c). Pub. L. 96–76, repealed subsec. (c) which set forth limitations on granting of annual leave under subsec. (a) of this section.
 
 1962—Subsec. (b). Pub. L. 87–649 repealed subsec. (b) which required forfeiture of all pay and allowances of an officer absent without leave. See [section 503 of Title 37](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section503&num=0&edition=prelim), Pay and Allowances of the Uniformed Services.
@@ -1565,17 +1615,20 @@ Section effective July 1, 1950, see section 3(a) of act Aug. 9, 1950, set out as
 #### Transfer of Functions
 Functions of Public Health Service, of Surgeon General of Public Health Service, and all other officers and employees of Public Health Service, and functions of all agencies of or in Public Health Service transferred to Secretary of Health, Education, and Welfare by Reorg. Plan No. 3 of 1966, eff. June 25, 1966, 31 F.R. 8855, 80 Stat. 1610, set out as a note under [section 202 of this title](./chapter-6a-public-health-service.md#section-202). Secretary of Health, Education, and Welfare redesignated Secretary of Health and Human Services by section 509(b) of Pub. L. 96–88 which is classified to [section 3508(b) of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section3508/b&num=0&edition=prelim), Education.
 
-#### Delegation of Functions
-Functions of President delegated to Secretary of Health and Human Services, see Ex. Ord. No. 11140, Jan. 30, 1964, 29 F.R. 1637, as amended, set out as a note under [section 202 of this title](./chapter-6a-public-health-service.md#section-202).
+#### Authorization To Accumulate Excess Annual Leave
+Pub. L. 116–159, div. C, title I, § 2106, Oct. 1, 2020, 134 Stat. 729, provided that: “(a) In General.—Notwithstanding section 219 of the Public Health Service Act ([42 U.S.C. 210–1](./chapter-6a-public-health-service.md#section-210-1)), a commissioned officer of the Public Health Service who, except for this section, would lose at the end of the fiscal year 2020 accumulated annual leave in excess of 60 days, may retain such amounts of accumulated annual leave in excess of 60 days. “(b) Use of Excess Leave.—Annual leave retained pursuant to subsection (a) shall be lost unless it is used by the officer no later than September 30, 2023. “(c) Applicability.—This section shall not apply to an officer on terminal leave preceding separation, retirement, or release from active duty, as of the effective date specified in subsection (d). “(d) Effective Date.—This section shall become effective on the earlier of—“(1) the date of the enactment of this Act [Oct. 1, 2020]; or “(2) September 30, 2020.”
 
 #### Compensation for Prior Accumulated and Accrued Leave; Limitation; Inapplicable to Officers on Terminal Leave Prior to July 1, 1950
-Section 3(b), (c) of act Aug. 9, 1950, provided that any officer credited with more than sixty days of accumulated and accrued leave on June 30, 1949, be compensated for so much of such leave as exceeds sixty days, that such compensation be due and payable on July 1, 1950, and that the provisions of this Act not apply to any officer on terminal leave preceding separation, retirement, or release from active duty.
+Act Aug. 9, 1950, ch. 654, § 3(b), (c), 64 Stat. 426, 427, provided that any officer credited with more than sixty days of accumulated and accrued leave on June 30, 1949, be compensated for so much of such leave as exceeds sixty days, that such compensation be due and payable on July 1, 1950, and that the provisions of this Act not apply to any officer on terminal leave preceding separation, retirement, or release from active duty.
 
 #### Availability of Funds
-Section 4 of act Aug. 9, 1950, provided for the availability of funds for payment of compensation for prior accumulated and accrued leave for any officer under section 3 of this Act.
+Act Aug. 9, 1950, ch. 654, § 4, 64 Stat. 427, provided for the availability of funds for payment of compensation for prior accumulated and accrued leave for any officer under section 3 of this Act.
 
 #### Leave Regulations
 Act Aug. 9, 1950, ch. 654, § 5, 64 Stat. 427, provided that: “Except insofar as the provisions of this Act [enacting this section, amending [section 210 of this title](./chapter-6a-public-health-service.md#section-210), and enacting provisions set out as notes under this section and [section 210 of this title](./chapter-6a-public-health-service.md#section-210)] are inconsistent therewith, leave regulations adopted prior to the enactment of this Act [Aug. 9, 1950], pursuant to the Public Health Service Act [[42 U.S.C. 201](./chapter-6a-public-health-service.md#section-201) et seq.], shall remain in effect until repealed, amended, or superseded.”
+
+#### Delegation of Functions
+Functions of President delegated to Secretary of Health and Human Services, see Ex. Ord. No. 11140, Jan. 30, 1964, 29 F.R. 1637, as amended, set out as a note under [section 202 of this title](./chapter-6a-public-health-service.md#section-202).
 
 
 <a id="section-210b"></a>
@@ -1588,11 +1641,11 @@ Section, act Feb. 28, 1948, ch. 83, § 5(e), (f), 62 Stat. 41, related to servic
 
 <a id="section-210-1"></a>
 ## § 210–1. Pay and allowances
-**(a) Commissioned officers of Regular and Reserve Corps; special pay for active duty; incentive special pay for Public Health Service nurses**
+**(a) Commissioned officers of Regular Corps and Ready Reserve Corps; special pay for active duty; incentive special pay for Public Health Service nurses**
 
-(1) Commissioned officers of the Regular and Reserve Corps shall be entitled to receive such pay and allowances as are now or may hereafter be authorized by law.
+(1) Commissioned officers of the Regular Corps and Ready Reserve Corps shall be entitled to receive such pay and allowances as are now or may hereafter be authorized by law.
 
-(2) For provisions relating to the receipt of special pay by commissioned officers of the Regular and Reserve Corps while on active duty, see section 303a(b) or 373 of title 37.
+(2) For provisions relating to the receipt of special pay by commissioned officers of the Regular Corps and Ready Reserve Corps while on active duty, see section 303a(b) or 373 of title 37.
 
 **(b) Purchase of supplies** Commissioned officers on active duty and retired officers entitled to retired pay pursuant to section 211(g)(3), 212, or 213a(a) of this title, shall be permitted to purchase supplies from the Army, Navy, Air Force, and Marine Corps at the same price as is charged officers thereof.
 
@@ -1615,6 +1668,8 @@ Classified civil service, referred to in subsec. (g), as meaning “competitive 
 A prior section 208 of act July 1, 1944, was renumbered section 207 and is classified to [section 209 of this title](./chapter-6a-public-health-service.md#section-209).
 
 #### Amendments
+2020—Subsec. (a). Pub. L. 116–136 substituted “Regular Corps and Ready Reserve Corps” for “Regular and Reserve Corps” wherever appearing.
+
 2017—Subsec. (a)(2). Pub. L. 115–91 inserted “or 373” after “section 303a(b)”.
 
 2000—Subsec. (a)(2). Pub. L. 106–398 added par. (2) and struck out former par. (2) which read as follows:
@@ -1633,7 +1688,7 @@ Subsec. (e). Pub. L. 99–272, § 17002(b), amended subsec. (e) generally. Prior
 
 1985—Subsec. (a)(2). Pub. L. 99–117 substituted “(A) Except as provided in subparagraph (B), commissioned” for “Commissioned”, and added subpar. (B).
 
-1980—Subsec. (a). Pub. L. 96–398 redesignated existing provisions as par. (1) and added par. (2).
+1980—Subsec. (a). Pub. L. 96–398 designated existing provisions as par. (1) and added par. (2).
 
 1979—Subsec. (c). Pub. L. 96–32 substituted “[section 5703 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5703&num=0&edition=prelim)” for “[section 5703(b) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5703/b&num=0&edition=prelim)”.
 
@@ -1833,13 +1888,13 @@ Functions of Federal Security Administrator transferred to Secretary of Health, 
 
 (1) The order of seniority of officers in a grade in the Regular Corps shall be determined, subject to the provisions of paragraph (2) of this subsection, by the relative length of time spent in active service after the effective date of each such officer’s original appointment or permanent promotion to that grade. When permanent promotions of two or more officers to the same grade are effective on the same day, their relative seniority shall be the same as it was in the grade from which promoted. In all other cases of original appointments or permanent promotions (or both) to the same grade effective on the same day, relative seniority shall be determined in accordance with regulations of the President.
 
-(2) In the case of an officer originally appointed in the Regular Corps to the grade of assistant or above, his seniority in the grade to which appointed shall be determined after inclusion, as service in such grade, of any active service in such grade or in any higher grade in the Reserve Corps, but (if the appointment is to the grade of senior assistant or above) only to the extent of whichever of the following is greater: (A) His active service in such grade or any higher grade in the Reserve Corps after the first day on which, under regulations in effect on the date of his appointment to the Regular Corps, he had the training and experience necessary for such appointment, or (B) the excess of his total active service in the Reserve Corps (above the grade of junior assistant) over three years if his appointment in the Regular Corps is to the senior assistant grade, over ten years if the appointment is to the full grade, or over seventeen years if the appointment is to the senior grade.
+(2) In the case of an officer originally appointed in the Regular Corps to the grade of assistant or above, his seniority in the grade to which appointed shall be determined after inclusion, as service in such grade, of any active service in such grade or in any higher grade in the Ready Reserve Corps, but (if the appointment is to the grade of senior assistant or above) only to the extent of whichever of the following is greater: (A) His active service in such grade or any higher grade in the Ready Reserve Corps after the first day on which, under regulations in effect on the date of his appointment to the Regular Corps, he had the training and experience necessary for such appointment, or (B) the excess of his total active service in the Ready Reserve Corps (above the grade of junior assistant) over three years if his appointment in the Regular Corps is to the senior assistant grade, over ten years if the appointment is to the full grade, or over seventeen years if the appointment is to the senior grade.
 
 **(k) Temporary promotions; fill vacancy in higher grade; war or national emergency; selection of officers; termination of appointment** Any commissioned officer of the Regular Corps in any grade in any professional category may be recommended to the President for temporary promotion to fill a vacancy in any higher grade in such category, up to and including the director grade. In time of war, or of national emergency proclaimed by the President, any commissioned officer of the Regular Corps in any grade in any professional category may be recommended to the President for promotion to any higher grade in such category, up to and including the director grade, whether or not a vacancy exists in such grade. The selection of officers to be recommended for temporary promotions shall be made in accordance with regulations of the President. Promotion of an officer recommended pursuant to this subsection may be made without regard to length of service, without examination, and without vacating his permanent appointment, and shall carry with it the pay and allowances of the grade to which promoted. Such promotions may be terminated at any time, as may be directed by the President.
 
-**(l) Determination of requirements of Service by Secretary; assignment of Reserve Officers to professional categories; temporary promotions; termination of temporary promotions** Whenever the number of officers of the Regular Corps on active duty, plus the number of officers of the Reserve Corps who have been on active duty for thirty days or more, exceeds the authorized strength of the Regular Corps, the Secretary shall determine the requirements of the Service in each grade in each category, based upon the total number of officers so serving on active duty and the tasks being performed by the Service; and the Surgeon General shall thereupon assign each officer of the Reserve Corps on active duty to a professional category. If the Secretary finds that the number of officers fixed under [section 210b(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section210b/c&num=0&edition=prelim) for any grade and category (or the number of officers, including officers of the Reserve Corps, on active duty in such grade in such category, if such number is greater than the number fixed under [section 210b(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section210b/c&num=0&edition=prelim)) is insufficient to meet such requirements of the Service, officers of either the Regular Corps or the Reserve Corps may be recommended for temporary promotion to such grade in such category. Any such promotion may be terminated at any time, as may be directed by the President.
+**(l) Determination of requirements of Service by Secretary; assignment of Reserve Officers to professional categories; temporary promotions; termination of temporary promotions** Whenever the number of officers of the Regular Corps on active duty, plus the number of officers of the Ready Reserve Corps who have been on active duty for thirty days or more, exceeds the authorized strength of the Regular Corps, the Secretary shall determine the requirements of the Service in each grade in each category, based upon the total number of officers so serving on active duty and the tasks being performed by the Service; and the Surgeon General shall thereupon assign each officer of the Ready Reserve Corps on active duty to a professional category. If the Secretary finds that the number of officers fixed under [section 210b(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section210b/c&num=0&edition=prelim) for any grade and category (or the number of officers, including officers of the Ready Reserve Corps, on active duty in such grade in such category, if such number is greater than the number fixed under [section 210b(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section210b/c&num=0&edition=prelim)) is insufficient to meet such requirements of the Service, officers of either the Regular Corps or the Ready Reserve Corps may be recommended for temporary promotion to such grade in such category. Any such promotion may be terminated at any time, as may be directed by the President.
 
-**(m) Acceptance of promotion; oath and affidavit** Any officer of the Regular Corps, or any officer of the Reserve Corps on active duty, who is promoted to a higher grade shall, unless he expressly declines such promotion, be deemed for all purposes to have accepted such promotion; and shall not be required to renew his oath of office, or to execute a new affidavit as required by [section 3332 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section3332&num=0&edition=prelim).
+**(m) Acceptance of promotion; oath and affidavit** Any officer of the Regular Corps, or any officer of the Ready Reserve Corps on active duty, who is promoted to a higher grade shall, unless he expressly declines such promotion, be deemed for all purposes to have accepted such promotion; and shall not be required to renew his oath of office, or to execute a new affidavit as required by [section 3332 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section3332&num=0&edition=prelim).
 
 ### Statutory Notes
 
@@ -1847,6 +1902,8 @@ Functions of Federal Security Administrator transferred to Secretary of Health, 
 In subsec. (m), “[section 3332 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section3332&num=0&edition=prelim)” substituted for “the Act of December 11, 1926, as amended ([5 U.S.C. 21a](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section21a&num=0&edition=prelim))” on authority of Pub. L. 89–554, § 7(b), Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5, Government Organization and Employees.
 
 #### Amendments
+2020—Subsecs. (j)(2), (l), (m). Pub. L. 116–136 substituted “Ready Reserve Corps” for “Reserve Corps” wherever appearing.
+
 2012—Subsec. (a). Pub. L. 112–166 struck out “, by and with the advice and consent of the Senate” after “Permanent promotions shall be made by the President”.
 
 1986—Subsec. (g)(3). Pub. L. 99–348 added subpars. (A) and (B) and struck out former subpars. (A) and (B) which read as follows:
@@ -1936,22 +1993,22 @@ Functions of Public Health Service, Surgeon General of Public Health Service, an
 ## § 212a. Retirement of commissioned officers
 **(a) Age; voluntariness; length of service; computation of retired pay**
 
-(1) A commissioned officer of the Service shall, if he applies for retirement, be retired on or after the first day of the month following the month in which he attains the age of sixty-four years. This paragraph does not permit or require the involuntary retirement of any individual because of the age of the individual.
+(1) A commissioned officer of the Regular Corps shall, if he applies for retirement, be retired on or after the first day of the month following the month in which he attains the age of sixty-four years. This paragraph does not permit or require the involuntary retirement of any individual because of the age of the individual.
 
-(2) A commissioned officer of the Service may be retired by the Secretary, and shall be retired if he applies for retirement, on the first day of any month after completion of thirty years of active service.
+(2) A commissioned officer of the Regular Corps may be retired by the Secretary, and shall be retired if he applies for retirement, on the first day of any month after completion of thirty years of active service.
 
-(3) Any commissioned officer of the Service who has had less than thirty years of active service may be retired by the Secretary, with or without application by the officer, on the first day of any month after completion of twenty or more years of active service of which not less than ten are years of active commissioned service in any of the uniformed services.
+(3) Any commissioned officer of the Regular Corps who has had less than thirty years of active service may be retired by the Secretary, with or without application by the officer, on the first day of any month after completion of twenty or more years of active service of which not less than ten are years of active commissioned service in any of the uniformed services.
 
-(4) Except as provided in paragraph (6), a commissioned officer retired pursuant to paragraph (1), (2), or (3) who was (in the case of an officer in the Reserve Corps) on active duty with the Service on the day preceding such retirement shall be entitled to receive retired pay calculated by multiplying the retired pay base determined under [section 1406 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1406&num=0&edition=prelim) by the retired pay multiplier determined under section 1409 of such title for the numbers of years of service credited to the officer under this paragraph and in which, in the case of a temporary promotion to such grade, he has performed active duty for not less than six months, (A) for each year of active service, or (B) if it results in higher retired pay, for each of the following years:
+(4) Except as provided in paragraph (6), a commissioned officer retired pursuant to paragraph (1), (2), or (3) who was on active duty with the Regular Corps on the day preceding such retirement shall be entitled to receive retired pay calculated by multiplying the retired pay base determined under [section 1406 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1406&num=0&edition=prelim) by the retired pay multiplier determined under section 1409 of such title for the numbers of years of service credited to the officer under this paragraph and in which, in the case of a temporary promotion to such grade, he has performed active duty for not less than six months, (A) for each year of active service, or (B) if it results in higher retired pay, for each of the following years:
 
   (i) his years of active service (determined without regard to subsection (d)) as a member of a uniformed service; plus
 
   (ii) in the case of a medical or dental officer, four years and, in the case of a medical officer, who has completed one year of medical internship or the equivalent thereof, one additional year, the four years and the one year to be reduced by the period of active service performed during such officer’s attendance at medical school or dental school or during his medical internship; plus
 
   (iii) the number of years of service with which he was entitled to be credited for purposes of basic pay on May 31, 1958, or (if higher) on any date prior thereto, reduced by any such year included under clause (i) and further reduced by any such year with which he was entitled to be credited under paragraphs (7) and (8) of [section 205(a) of title 37](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section205/a&num=0&edition=prelim) on any date before June 1, 1958;
-  except that (C) in the case of any officer whose retired pay, so computed, is less than 50 per centum of such basic pay, who retires pursuant to paragraph (1) of this subsection, who has not less than twelve whole years of active service (computed without the application of subsection (e)), and who does not use, for purposes of a retirement annuity under subchapter III of chapter 83 of title 5, any service which is also creditable in computing his retired pay from the Service, it shall, instead, be 50 per centum of such pay, (D) the retired pay of an officer shall in no case be more than 75 per centum of such basic pay, and (E) in the case of any officer who participates in the modernized retirement system by reason of [section 1409(b) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1409/b&num=0&edition=prelim) (including pursuant to an election under subparagraph (B) of that section), subparagraph (C) shall be applied by substituting “40 per centum” for “50 per centum” each place the term appears.
+  except that (C) in the case of any officer whose retired pay, so computed, is less than 50 per centum of such basic pay, who retires pursuant to paragraph (1) of this subsection, who has not less than twelve whole years of active service (computed without the application of subsection (e)), and who does not use, for purposes of a retirement annuity under subchapter III of chapter 83 of title 5, any service which is also creditable in computing his retired pay from the Regular Corps, it shall, instead, be 50 per centum of such pay, (D) the retired pay of an officer shall in no case be more than 75 per centum of such basic pay, and (E) in the case of any officer who participates in the modernized retirement system by reason of [section 1409(b) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1409/b&num=0&edition=prelim) (including pursuant to an election under subparagraph (B) of that section), subparagraph (C) shall be applied by substituting “40 per centum” for “50 per centum” each place the term appears.
 
-(5) With the approval of the President, a commissioned officer whose service as Surgeon General, Deputy Surgeon General, or Assistant Surgeon General has totaled four years or more and who has had not less than twenty-five years of active service in the Service may retire voluntarily at any time; and except as provided in paragraph (6), his retired pay shall be at the rate of 75 per centum of the basic pay of the highest grade held by him as such officer.
+(5) With the approval of the President, a commissioned officer whose service as Surgeon General, Deputy Surgeon General, or Assistant Surgeon General has totaled four years or more and who has had not less than twenty-five years of active service in the Regular Corps may retire voluntarily at any time; and except as provided in paragraph (6), his retired pay shall be at the rate of 75 per centum of the basic pay of the highest grade held by him as such officer.
 
 (6) The retired pay of a commissioned officer retired under this subsection who first became a member of a uniformed service after September 7, 1980, is determined by multiplying—
 
@@ -1963,13 +2020,13 @@ Functions of Public Health Service, Surgeon General of Public Health Service, an
 
 **(b) Basic pay of highest temporary grade** For purposes of subsection (a), the basic pay of the highest grade to which a commissioned officer has received a temporary promotion means the basic pay to which he would be entitled if serving on active duty in such grade on the date of his retirement.
 
-**(c) Recall to active duty** A commissioned officer, retired for reasons other than for failure of promotion to the senior grade, may (1) if an officer of the Regular Corps or an officer of the Reserve Corps entitled to retired pay under subsection (a), be involuntarily recalled to active duty during such times as the Commissioned Corps constitutes a branch of the land or naval forces of the United States, and (2) if an officer of either the Regular or Reserve Corps, be recalled to active duty at any time with his consent.
+**(c) Recall to active duty** A commissioned officer, retired for reasons other than for failure of promotion to the senior grade, may (1) if an officer of the Regular Corps entitled to retired pay under subsection (a) or under [section 213a(a)(19) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section213a/a/19&num=0&edition=prelim), be involuntarily recalled to active duty during such times as the Commissioned Corps constitutes a branch of the land or naval forces of the United States, and (2) if an officer of either the Regular Corps or Ready Reserve Corps, be recalled to active duty at any time with his consent.
 
 **(d) “Active service” defined** The term “active service”, as used in subsection (a), includes:
 
 (1) all active service in any of the uniformed services;
 
-(2) active service with the Public Health Service, other than as a commissioned officer, which the Surgeon General determines is comparable to service performed by commissioned officers of the Service, except that, if there are more than five years of such service only the last five years thereof may be in­cluded;
+(2) active service with the Public Health Service, other than as a commissioned officer, which the Surgeon General determines is comparable to service performed by commissioned officers of the Regular Corps, except that, if there are more than five years of such service only the last five years thereof may be in­cluded;
 
 (3) all active service (other than service included under the preceding provisions of this subsection) which is creditable for retirement purposes under laws governing the retirement of members of any of the uniformed services; and
 
@@ -1977,7 +2034,7 @@ Functions of Public Health Service, Surgeon General of Public Health Service, an
 
 **(e) Crediting of part of year** For the purpose of determining the number of years by which a percentage of the basic pay of an officer is to be multiplied in computing the amount of his retired pay pursuant to [section 211(g)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section211/g/3&num=0&edition=prelim) or paragraph (4) of subsection (a) of this section, each full month of service that is in addition to the number of full years of service credited to an officer is counted as one-twelfth of a year and any remaining fractional part of a month is dis­regarded.
 
-**(f) Retirement or separation for physical disability** For purposes of retirement or separation for physical disability under chapter 61 of title 10, a commissioned officer of the Service shall be credited, in addition to the service described in section 1208(a)(2) of that title, with active service with the Public Health Service, other than as a commissioned officer, which the Surgeon General determines is comparable to service performed by commissioned officers of the Service, except that, if there are more than five years of such service, only the last five years thereof may be so credited. For such purposes, such section 1208(a)(2) shall be applicable to officers of the Regular or Reserve Corps of the Service.
+**(f) Retirement or separation for physical disability** For purposes of retirement or separation for physical disability under chapter 61 of title 10, a commissioned officer of the Regular Corps shall be credited, in addition to the service described in section 1208(a)(2) of that title, with active service with the Public Health Service, other than as a commissioned officer, which the Surgeon General determines is comparable to service performed by commissioned officers of the Regular Corps, except that, if there are more than five years of such service, only the last five years thereof may be so credited. For such purposes, such section 1208(a)(2) shall be applicable to officers of the Regular Corps.
 
 ### Statutory Notes
 
@@ -1985,6 +2042,16 @@ Functions of Public Health Service, Surgeon General of Public Health Service, an
 In subsec. (a)(4), “subchapter III of chapter 83 of title 5” substituted for “the Civil Service Retirement Act” on authority of Pub. L. 89–554, § 7(b), Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5, Government Organization and Employees.
 
 #### Amendments
+2020—Pub. L. 116–136, § 3214(c)(1), substituted “the Regular Corps” for “the Service” wherever appearing except in subsec. (c)(1), where “the Regular Corps” already appeared.
+
+Subsec. (a)(4). Pub. L. 116–136, § 3214(c)(2), struck out “(in the case of an officer in the Reserve Corps)” after “who was” in introductory provisions.
+
+Subsec. (c)(1). Pub. L. 116–136, § 3214(c)(3)(A), struck out “or an officer of the Reserve Corps” after “Regular Corps” and inserted “or under [section 213a(a)(19) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section213a/a/19&num=0&edition=prelim)” after “subsection (a)”.
+
+Subsec. (c)(2). Pub. L. 116–136, § 3214(c)(3)(B), substituted “Regular Corps or Ready Reserve Corps” for “Regular or Reserve Corps”.
+
+Subsec. (f). Pub. L. 116–136, § 3214(c)(4), struck out “the Regular or Reserve Corps of” after “applicable to officers of”.
+
 2015—Subsec. (a)(4). Pub. L. 114–92, § 631(c)(4)(A), substituted “calculated by multiplying the retired pay base determined under [section 1406 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1406&num=0&edition=prelim) by the retired pay multiplier determined under section 1409 of such title for the numbers of years of service credited to the officer under this paragraph” for “at the rate of 2½ per centum of the basic pay of the highest grade held by him as such officer”.
 
 Subsec. (a)(4)(E). Pub. L. 114–92, § 631(c)(4)(B), added subpar. (E).
@@ -2171,7 +2238,7 @@ George Bush.
 
 (2) Chapter 61, Retirement or Separation for Physical Disability, except that sections 1201, 1202, and 1203 do not apply to commissioned officers of the Public Health Service who have been ordered to active duty for training for a period of more than 30 days.
 
-(3) Chapter 69, Retired Grade, except sections 1370, 1374,11 See References in Text note below. 1375 and 1376(a).1
+(3) Chapter 69, Retired Grade, except sections 1370,11 See References in Text note below. 1374,1 1375 and 1376(a).1
 
 (4) Chapter 71, Computation of Retired Pay, except formula No. 3 of section 1401.1
 
@@ -2203,11 +2270,25 @@ George Bush.
 
 (18) Section 1034, Protected Communications; Prohibition of Retaliatory Personnel Actions.
 
-**(b)** The authority vested by title 10 in the “military departments”, “the Secretary concerned”, or “the Secretary of Defense” with respect to the rights, privileges, immunities, and benefits referred to in subsection (a) shall be exercised, with respect to commissioned officers of the Service, by the Secretary of Health and Human Services or his designee. For purposes of paragraph (18) of subsection (a), the term “Inspector General” in section 1034 of such title 10 shall mean the Inspector General of the Department of Health and Human Services.
+(19) Chapter 1223, Retired Pay for Non-Regular Service.
+
+(20) Section 12601, Compensation: Reserve on active duty accepting from any person.
+
+(21) Section 12684, Reserves: separation for absence without authority or sentence to imprisonment.
+
+**(b)**
+
+(1) The authority vested by title 10 in the “military departments”, “the Secretary concerned”, or “the Secretary of Defense” with respect to the rights, privileges, immunities, and benefits referred to in subsection (a) shall be exercised, with respect to commissioned officers of the Service, by the Secretary of Health and Human Services or the designee of such Secretary.
+
+(2) For purposes of paragraph (18) of subsection (a), the term “Inspector General” in section 1034 of such title 10 shall mean the Inspector General of the Department of Health and Human Services.
+
+(3) For purposes of paragraph (19) of subsection (a), the terms “Military department”, “Secretary concerned”, and “Armed forces” in such title 10 shall be deemed to include, respectively, the Department of Health and Human Services, the Secretary of Health and Human Services, and the Commissioned Corps.
 
 ### Statutory Notes
 
 #### References in Text
+[Section 1370 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1370&num=0&edition=prelim), referred to in subsec. (a)(3), was repealed and new sections 1370 and 1370a of Title 10, Armed Forces, were enacted by Pub. L. 116–283, div. A, title V, § 508(a)(1), Jan. 1, 2021, 134 Stat. 3580. For provisions stating that in determining retired grade of certain commissioned officers of the Armed Forces who retire after Jan. 1, 2021, any reference to [section 1370 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1370&num=0&edition=prelim) in such determination with respect to such officers is deemed to be a reference to [section 1370a of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1370a&num=0&edition=prelim), see section 508(c) of Pub. L. 116–283, set out as a note under [section 1370 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1370&num=0&edition=prelim).
+
 Sections 1374 and 1376(a) of title 10, referred to in subsec. (a)(3), were repealed by Pub. L. 103–337, div. A, title XVI, § 1662(k)(2), (3)(A)(i), Oct. 5, 1994, 108 Stat. 3006. See sections 12771 to 12774 of Title 10, Armed Forces.
 
 Formula No. 3 of [section 1401 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1401&num=0&edition=prelim), referred to in subsec. (a)(4), was struck from the table set forth in [section 1401(a) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1401/a&num=0&edition=prelim) by Pub. L. 103–337, div. A, title XVI, § 1662(j)(2), Oct. 5, 1994, 108 Stat. 3004.
@@ -2216,6 +2297,12 @@ Formula No. 3 of [section 1401 of title 10](https://uscode.house.gov/view.xhtml?
 Section was formerly classified to [section 316 of title 37](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section316&num=0&edition=prelim) prior to the general revision and enactment of Title 37, Pay and Allowances of the Uniformed Services, by Pub. L. 87–649, § 1, Sept. 7, 1962, 76 Stat. 451.
 
 #### Amendments
+2020—Subsec. (a)(19) to (21). Pub. L. 116–136, § 3214(d)(1), added pars. (19) to (21).
+
+Subsec. (b). Pub. L. 116–136, § 3214(d)(2)(B)–(D), designated first and second sentences as pars. (1) and (2), respectively, and added par. (3).
+
+Pub. L. 116–136, § 3214(d)(2)(A), substituted “Secretary of Health and Human Services or the designee of such Secretary” for “Secretary of Health, Education, and Welfare or his designee”.
+
 2012—Subsec. (a)(18). Pub. L. 112–144, § 1129(a), added par. (18).
 
 Subsec. (b). Pub. L. 112–144, § 1129(b), inserted at end “For purposes of paragraph (18) of subsection (a), the term ‘Inspector General’ in section 1034 of such title 10 shall mean the Inspector General of the Department of Health and Human Services.”
@@ -2715,7 +2802,7 @@ Section, act July 1, 1944, ch. 373, title VII, § 706, formerly title VI, § 606
 <a id="section-232"></a>
 ## § 232. Service and supply fund; uses; reimbursement
 
-A service and supply fund of $250,000 is established, without fiscal year limitation, for the payment of salaries, travel, and other expenses necessary to the maintenance and operation of (1) a supply service for the purchase, storage, handling, issuance, packing, or shipping of stationery, supplies, materials, equipment, and blank forms, for which stocks may be maintained to meet, in whole or in part, requirements of the Public Health Service and requisitions of other Government Offices, and (2) such other services as the Surgeon General, with the approval of the Secretary of Health and Human Services, determines may be performed more advantageously as central services; said fund to be reimbursed from applicable appropriations or funds available when services are performed or stock furnished, or in advance, on a basis of rates which shall include estimated or actual charges for personal services, materials, equipment (including maintenance, repairs, and depreciation), and other expenses.
+A service and supply fund of $250,000 is established, without fiscal year limitation, for the payment of salaries, travel, and other expenses necessary to the maintenance and operation of (1) a supply service for the purchase, storage, handling, issuance, packing, or shipping of stationery, supplies, materials, equipment, and blank forms, for which stocks may be maintained to meet, in whole or in part, requirements of the Public Health Service and requisitions of other Government Offices, and (2) such other services as the Surgeon General, with the approval of the Secretary of Health and Human Services, determines may be performed more advantageously as central services; 11 See HHS Services and Supply Fund note below. said fund to be reimbursed from applicable appropriations or funds available when services are performed or stock furnished, or in advance, on a basis of rates which shall include estimated or actual charges for personal services, materials, equipment (including maintenance, repairs, and depreciation), and other expenses.
 
 ### Statutory Notes
 
@@ -2729,6 +2816,9 @@ Section is from the Federal Security Appropriation Act, 1946, act July 3, 1945, 
 Functions of Public Health Service, Surgeon General of Public Health Service, and all other officers and employees of Public Health Service, and functions of all agencies of or in Public Health Service transferred to Secretary of Health, Education, and Welfare by Reorg. Plan No. 3 of 1966, eff. June 25, 1966, 31 F.R. 8855, 80 Stat. 1610, set out as a note under [section 202 of this title](./chapter-6a-public-health-service.md#section-202). Secretary of Health, Education, and Welfare redesignated Secretary of Health and Human Services by section 509(b) of Pub. L. 96–88 which is classified to [section 3508(b) of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section3508/b&num=0&edition=prelim), Education.
 
 Functions of Federal Security Administrator transferred to Secretary of Health, Education, and Welfare and all agencies of Federal Security Agency transferred to Department of Health, Education, and Welfare by section 5 of Reorg. Plan No. 1 of 1953, set out as a note under [section 3501 of this title](./chapter-043-department-of-health-and-human-services.md#section-3501). Federal Security Agency and office of Administrator abolished by section 8 of Reorg. Plan No. 1 of 1953. Secretary and Department of Health, Education, and Welfare redesignated Secretary and Department of Health and Human Services by section 509(b) of Pub. L. 96–88 which is classified to [section 3508(b) of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section3508/b&num=0&edition=prelim).
+
+#### HHS Services and Supply Fund
+Pub. L. 116–159, div. C, title I, § 2107, Oct. 1, 2020, 134 Stat. 730, provided that: “Effective as if included in the enactment of the paragraph beginning with ‘Service and supply fund:’ under the heading ‘Public Health Service’ in the Federal Security Agency Appropriation Act, 1946 ([42 U.S.C. 231](./chapter-6a-public-health-service.md#section-231)), such paragraph shall be applied with respect to any fiscal year as though the phrase ‘central services’ referred to central services for any Federal agency.”
 
 
 <a id="section-233"></a>
@@ -3318,7 +3408,7 @@ Pub. L. 104–73, § 5(c), Dec. 26, 1995, 109 Stat. 779, provided that: “If, o
 Pub. L. 102–501, § 6, Oct. 24, 1992, 106 Stat. 3272, provided that: “The amendments made by this Act [amending this section] shall take effect on the date of the enactment of this Act [Oct. 24, 1992].”
 
 #### Report on Risk Exposure of Covered Entities
-Pub. L. 102–501, § 5, Oct. 24, 1992, 106 Stat. 3271, provided that: “(a) In General.—Not later than April 1, 1995, the Attorney General, in consultation with the Secretary of Health and Human Services (hereafter referred to as the ‘Secretary’), shall submit a report to Congress on the medical malpractice liability claims experience of entities subject to section 224(g) of the Public Health Service Act [[42 U.S.C. 233(g)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section233/g&num=0&edition=prelim)] (as added by section 2(a)) and the risk exposure associated with such entities. “(b) Effect of Liability Protections on Costs Incurred by Covered Entities.—The Attorney General’s report under subsection (a) shall include an analysis by the Secretary comparing—“(1) the Secretary’s estimate of the aggregate amounts that such entities (together with the officers, employees, and contractors of such entities who are subject to section 224(g) of such Act) would have directly or indirectly paid to obtain medical malpractice liability insurance coverage had section 224(g) of the Public Health Service Act not been enacted into law, with “(2) the aggregate amounts by which the grants received by such entities under the Public Health Service Act [[42 U.S.C. 201](./chapter-6a-public-health-service.md#section-201) et seq.] were reduced as a result of the enactment of section 224(k)(2) of such Act [[42 U.S.C. 233(k)(2)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section233/k/2&num=0&edition=prelim)].”
+Pub. L. 102–501, § 5, Oct. 24, 1992, 106 Stat. 3271, provided that the Attorney General, by Apr. 1, 1995, and in consultation with the Secretary of Health and Human Services, was to submit a report to Congress on the medical malpractice liability claims experience of entities subject to subsec. (g) of this section, including their risk exposure and the effect of liability protections on costs incurred.
 
 
 <a id="section-235"></a>
@@ -3371,6 +3461,9 @@ The Volunteer Protection Act of 1997, referred to in subsec. (b), is Pub. L. 105
 
 #### Prior Provisions
 A former section 234, act July 1, 1944, ch. 373, title II, § 225, as added Oct. 27, 1972, Pub. L. 92–585, § 5, 86 Stat. 1293; amended Aug. 23, 1974, Pub. L. 93–385, § 1, 88 Stat. 741; Apr. 22, 1976, Pub. L. 94–278, title IX, § 901, 90 Stat. 415; Sept. 30, 1976, Pub. L. 94–437, title I, § 104, 90 Stat. 1403; Oct. 12, 1976, Pub. L. 94–484, title I, § 101(t), 90 Stat. 2246, related to Public Health and National Health Service Corps Scholarship Training program, prior to repeal by Pub. L. 94–484, title IV, § 408(b)(1), Oct. 12, 1976, 90 Stat. 2281, effective Oct. 1, 1977.
+
+#### Limitation on Liability for Volunteer Health Care Professionals During COVID–19 Emergency Response
+Pub. L. 116–136, div. A, title III, § 3215, Mar. 27, 2020, 134 Stat. 374, provided that: “(a) Limitation on Liability.—Except as provided in subsection (b), a health care professional shall not be liable under Federal or State law for any harm caused by an act or omission of the professional in the provision of health care services during the public health emergency with respect to COVID–19 declared by the Secretary of Health and Human Services (referred to in this section as the ‘Secretary’) under section 319 of the Public Health Service Act ([42 U.S.C. 247d](./chapter-6a-public-health-service.md#section-247d)) on January 31, 2020, if—“(1) the professional is providing health care services in response to such public health emergency, as a volunteer; and “(2) the act or omission occurs—“(A) in the course of providing health care services; “(B) in the health care professional’s capacity as a volunteer; “(C) in the course of providing health care services that—“(i) are within the scope of the license, registration, or certification of the volunteer, as defined by the State of licensure, registration, or certification; and “(ii) do not exceed the scope of license, registration, or certification of a substantially similar health professional in the State in which such act or omission occurs; and “(D) in a good faith belief that the individual being treated is in need of health care services. “(b) Exceptions.—Subsection (a) does not apply if—“(1) the harm was caused by an act or omission constituting willful or criminal misconduct, gross negligence, reckless misconduct, or a conscious flagrant indifference to the rights or safety of the individual harmed by the health care professional; or “(2) the health care professional rendered the health care services under the influence (as determined pursuant to applicable State law) of alcohol or an intoxicating drug. “(c) Preemption.—“(1) In general.—This section preempts the laws of a State or any political subdivision of a State to the extent that such laws are inconsistent with this section, unless such laws provide greater protection from liability. “(2) Volunteer protection act.—Protections afforded by this section are in addition to those provided by the Volunteer Protection Act of 1997 (Public Law 105–19) [[42 U.S.C. 14501](./chapter-139-volunteer-protection.md#section-14501) et seq.]. “(d) Definitions.—In this section—“(1) the term ‘harm’ includes physical, nonphysical, economic, and noneconomic losses; “(2) the term ‘health care professional’ means an individual who is licensed, registered, or certified under Federal or State law to provide health care services; “(3) the term ‘health care services’ means any services provided by a health care professional, or by any individual working under the supervision of a health care professional that relate to—“(A) the diagnosis, prevention, or treatment of COVID–19; or “(B) the assessment or care of the health of a human being related to an actual or suspected case of COVID–19; and “(4) the term ‘volunteer’ means a health care professional who, with respect to the health care services rendered, does not receive compensation or any other thing of value in lieu of compensation, which compensation—“(A) includes a payment under any insurance policy or health plan, or under any Federal or State health benefits program; and “(B) excludes—“(i) receipt of items to be used exclusively for rendering health care services in the health care professional’s capacity as a volunteer described in subsection (a)(1); and “(ii) any reimbursement for travel to the site where the volunteer services are rendered and any payments in cash or kind to cover room and board, if services are being rendered more than 75 miles from the volunteer’s principal place of residence. “(e) Effective Date.—This section shall take effect upon the date of enactment of this Act [Mar. 27, 2020], and applies to a claim for harm only if the act or omission that caused such harm occurred on or after the date of enactment. “(f) Sunset.—This section shall be in effect only for the length of the public health emergency declared by the Secretary of Health and Human Services (referred to in this section as the ‘Secretary’) under section 319 of the Public Health Service Act ([42 U.S.C. 247d](./chapter-6a-public-health-service.md#section-247d)) on January 31, 2020 with respect to COVID–19.”
 
 
 <a id="section-236"></a>
@@ -3755,7 +3848,7 @@ Pub. L. 103–43, title XX, § 2004, June 10, 1993, 107 Stat. 209, as amended by
 [Pub. L. 105–392, title IV, § 416(c), Nov. 13, 1998, 112 Stat. 3591, provided that: “This section [amending section 2004 of Pub. L. 103–43, set out above] is deemed to have taken effect immediately after the enactment of Public Law 103–43 [June 10, 1993].” ]
 
 #### Availability of Appropriations for Active Commissioned Officers and Other Expenses
-Pub. L. 102–394, title II, § 202, Oct. 6, 1992, 106 Stat. 1810, as amended by Pub. L. 111–8, div. F, title II, § 222, Mar. 11, 2009, 123 Stat. 784; Pub. L. 111–148, title V, § 5209, Mar. 23, 2010, 124 Stat. 613, provided that: “Appropriations in this or any other Act or subsequent Departments of Labor, Health and Human Services, and Education, and Related Agencies Appropriations Acts shall be available for expenses for active commissioned officers in the Public Health Service Reserve Corps and for commissioned officers in the Regular Corps; expenses incident to the dissemination of health information in foreign countries through exhibits and other appropriate means; advances of funds for compensation, travel, and subsistence expenses (or per diem in lieu thereof) for persons coming from abroad to participate in health or scientific activities of the Department pursuant to law; expenses of primary and secondary schooling of dependents in foreign countries, of Public Health Service commissioned officers stationed in foreign countries, at costs for any given area not in excess of those of the Department of Defense for the same area, when it is determined by the Secretary that the schools available in the locality are unable to provide adequately for the education of such dependents, and for the transportation of such dependents, between such schools and their places of residence when the schools are not accessible to such dependents by regular means of transportation; expenses for medical care for civilian and commissioned employees of the Public Health Service and their dependents assigned abroad on a permanent basis in accordance with such regulations as the Secretary may provide; rental or lease of living quarters (for periods not exceeding five years), and provision of heat, fuel, and light and maintenance, improvement, and repair of such quarters, and advance payments therefor, for civilian officers and employees of the Public Health Service who are United States citizens and who have a permanent station in a foreign country; purchase, erection, and maintenance of temporary or portable structures; and for the payment of compensation to consultants or individual scientists appointed for limited periods of time pursuant to section 207(f) or section 207(g) of the Public Health Service Act [[42 U.S.C. 209(f)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section209/f&num=0&edition=prelim), (g)], at rates established by the Assistant Secretary for Health, or the Secretary where such action is required by statute, not to exceed the per diem rate equivalent to the maximum rate payable for senior-level positions under [5 U.S.C. 5376](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5376&num=0&edition=prelim).”
+Pub. L. 102–394, title II, § 202, Oct. 6, 1992, 106 Stat. 1810, as amended by Pub. L. 111–8, div. F, title II, § 222, Mar. 11, 2009, 123 Stat. 784; Pub. L. 111–148, title V, § 5209, Mar. 23, 2010, 124 Stat. 613, provided that: “Appropriations in this or any other Act or subsequent Departments of Labor, Health and Human Services, and Education, and Related Agencies Appropriations Acts shall be available for expenses for active commissioned officers in the Public Health Service Reserve Corps [now Ready Reserve Corps] and for commissioned officers in the Regular Corps; expenses incident to the dissemination of health information in foreign countries through exhibits and other appropriate means; advances of funds for compensation, travel, and subsistence expenses (or per diem in lieu thereof) for persons coming from abroad to participate in health or scientific activities of the Department pursuant to law; expenses of primary and secondary schooling of dependents in foreign countries, of Public Health Service commissioned officers stationed in foreign countries, at costs for any given area not in excess of those of the Department of Defense for the same area, when it is determined by the Secretary that the schools available in the locality are unable to provide adequately for the education of such dependents, and for the transportation of such dependents, between such schools and their places of residence when the schools are not accessible to such dependents by regular means of transportation; expenses for medical care for civilian and commissioned employees of the Public Health Service and their dependents assigned abroad on a permanent basis in accordance with such regulations as the Secretary may provide; rental or lease of living quarters (for periods not exceeding five years), and provision of heat, fuel, and light and maintenance, improvement, and repair of such quarters, and advance payments therefor, for civilian officers and employees of the Public Health Service who are United States citizens and who have a permanent station in a foreign country; purchase, erection, and maintenance of temporary or portable structures; and for the payment of compensation to consultants or individual scientists appointed for limited periods of time pursuant to section 207(f) or section 207(g) of the Public Health Service Act [[42 U.S.C. 209(f)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section209/f&num=0&edition=prelim), (g)], at rates established by the Assistant Secretary for Health, or the Secretary where such action is required by statute, not to exceed the per diem rate equivalent to the maximum rate payable for senior-level positions under [5 U.S.C. 5376](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5376&num=0&edition=prelim).”
 
 [Pub. L. 111–148, § 5209, which directed amendment of Pub. L. 102–394, § 202, set out above, by striking out “not to exceed 2,800”, was executed by striking out “not to exceed 4,000” before “commissioned officers in the Regular Corps”, to reflect the probable intent of Congress.]
 
@@ -5582,7 +5675,7 @@ Pub. L. 100–177, title I, § 106(c), Dec. 1, 1987, 101 Stat. 989, provided tha
 Pub. L. 95–623, § 10, Nov. 9, 1978, 92 Stat. 3455, as amended by S. Res. 30, Mar. 7, 1979; H. Res. 549, Mar. 25, 1980, required the Secretary, acting through the National Center for Health Services Research, to arrange for the conduct of a study to evaluate the impact upon the utilization of health services by and the health status of members of the United Mine Workers and their dependents as a result of changes in the United Mine Workers’ collective-bargaining agreements of Mar. 1978 with a report to be submitted to the Secretary and specific committees of the Senate and House of Representatives within 30 months after Nov. 9, 1978.
 
 #### Authorization of Appropriations for Fiscal Year Ending June 30, 1977
-Pub. L. 93–353, title I, § 107(b), July 23, 1974, 88 Stat. 371, provided that: “The authorizations of appropriations provided by section 308(i) of the Public Health Service Act [[42 U.S.C. 242m(i)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section242m/i&num=0&edition=prelim)] is extended for the fiscal year ending June 30, 1977, in the amounts authorized for the preceding fiscal year unless before June 30, 1976, Congress has passed legislation repealing this subsection.”
+Pub. L. 93–353, title I, § 107(b), July 23, 1974, 88 Stat. 371, provided that the authorizations provided by subsec. (i) of this section would be extended for the fiscal year ending June 30, 1977, unless before June 30, 1976, Congress passed legislation repealing the extension.
 
 
 <a id="section-242n"></a>
@@ -6009,49 +6102,59 @@ Pub. L. 94–484, title V, § 503(c), Oct. 12, 1976, 90 Stat. 2300, provided tha
 
 
 <a id="section-245"></a>
-## § 245. Public access defibrillation demonstration projects
-**(a) In general** The Secretary shall award grants to political subdivisions of States, Indian tribes, and tribal organizations to develop and implement innovative, comprehensive, community-based public access defibrillation demonstration projects that—
+## § 245. Public awareness campaign on the importance of vaccinations
+**(a) In general** The Secretary, acting through the Director of the Centers for Disease Control and Prevention and in coordination with other offices and agencies, as appropriate, shall award competitive grants or contracts to one or more public or private entities to carry out a national, evidence-based campaign to increase awareness and knowledge of the safety and effectiveness of vaccines for the prevention and control of diseases, combat misinformation about vaccines, and disseminate scientific and evidence-based vaccine-related information, with the goal of increasing rates of vaccination across all ages, as applicable, particularly in communities with low rates of vaccination, to reduce and eliminate vaccine-preventable diseases.
 
-(1) provide cardiopulmonary resuscitation and automated external defibrillation to cardiac arrest victims in unique settings;
+**(b) Consultation** In carrying out the campaign under this section, the Secretary shall consult with appropriate public health and medical experts, including the National Academy of Medicine and medical and public health associations and nonprofit organizations, in the development, implementation, and evaluation of the evidence-based public awareness campaign.
 
-(2) provide training to community members in cardiopulmonary resuscitation and automated external defibrillation; and
+**(c) Requirements** The campaign under this section shall—
 
-(3) maximize community access to automated external defibrillators.
+(1) be a nationwide, evidence-based media and public engagement initiative;
 
-**(b) Use of funds** A recipient of a grant under subsection (a) shall use the funds provided through the grant to—
+(2) include the development of resources for communities with low rates of vaccination, including culturally and linguistically appropriate resources, as applicable;
 
-(1) purchase automated external defibrillators that have been approved, or cleared for marketing, by the Food and Drug Administration;
+(3) include the dissemination of vaccine information and communication resources to public health departments, health care providers, and health care facilities, including such providers and facilities that provide prenatal and pediatric care;
 
-(2) provide basic life training in automated external defibrillator usage through nationally recognized courses;
+(4) be complementary to, and coordinated with, any other Federal, State, local, or Tribal efforts, as appropriate; and
 
-(3) provide information to community members about the public access defibrillation demonstration project to be funded with the grant;
+(5) assess the effectiveness of communication strategies to increase rates of vaccination.
 
-(4) provide information to the local emergency medical services system regarding the placement of automated external defibrillators in the unique settings; and
+**(d) Additional activities** The campaign under this section may—
 
-(5) further develop strategies to improve access to automated external defibrillators in public places.
+(1) include the use of television, radio, the internet, and other media and telecommunications technologies;
 
-**(c) Application**
+(2) include the use of in-person activities;
 
-(1) **In general** — To be eligible to receive a grant under subsection (a), a political subdivision of a State, Indian tribe, or tribal organization shall prepare and submit an application to the Secretary at such time, in such manner, and containing such information as the Secretary may reasonably require.
+(3) be focused to address specific needs of communities and populations with low rates of vaccination; and
 
-(2) **Contents** — An application submitted under paragraph (1) may—
+(4) include the dissemination of scientific and evidence-based vaccine-related information, such as—
 
-  (A) describe the innovative, comprehensive, community-based public access defibrillation demonstration project to be funded with the grant;
+  (A) advancements in evidence-based research related to diseases that may be prevented by vaccines and vaccine development;
 
-  (B) explain how such public access defibrillation demonstration project represents innovation in providing public access to automated external defibrillation; and
+  (B) information on vaccinations for individuals and communities, including individuals for whom vaccines are not recommended by the Advisory Committee for Immunization Practices, and the effects of low vaccination rates within a community on such individuals;
 
-  (C) provide for the collection of data regarding the effectiveness of the demonstration project to be funded with the grant in—
+  (C) information on diseases that may be prevented by vaccines; and
 
-    (i) providing emergency cardiopulmonary resuscitation and automated external defibrillation to cardiac arrest victims in the setting served by the demonstration project; and
+  (D) information on vaccine safety and the systems in place to monitor vaccine safety.
 
-    (ii) affecting the cardiac arrest survival rate in the setting served by the demonstration project.
+**(e) Evaluation** The Secretary shall—
 
-**(d) Authorization of appropriations** There is authorized to be appropriated to carry out this section $5,000,000 for each of fiscal years 2002 through 2006. Not more than 10 percent of amounts received under a grant awarded under this section may be used for administrative expenses.
+(1) establish benchmarks and metrics to quantitatively measure and evaluate the awareness campaign under this section;
+
+(2) conduct qualitative assessments regarding the awareness campaign under this section; and
+
+(3) prepare and submit to the Committee on Health, Education, Labor, and Pensions of the Senate and Committee on Energy and Commerce of the House of Representatives an evaluation of the awareness campaign under this section.
+
+**(f) Supplement not supplant** Funds appropriated under this section shall be used to supplement and not supplant other Federal, State, and local public funds provided for activities described in this section.
+
+**(g) Authorization of appropriations** There are authorized to be appropriated to carry out this section and subsections (k) and (n) of [section 247b of this title](./chapter-6a-public-health-service.md#section-247b), $15,000,000 for each of fiscal years 2021 through 2025.
 
 ### Statutory Notes
 
 #### Prior Provisions
-A prior section 245, acts July 1, 1944, ch. 373, title III, § 313, 58 Stat. 693; Oct. 30, 1970, Pub. L. 91–515, title II, § 282, 84 Stat. 1308, provided for collection of vital statistics, prior to repeal by Pub. L. 93–353, title I, § 102(a), July 23, 1974, 88 Stat. 362. See [section 242k(g) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section242k/g&num=0&edition=prelim).
+A prior section 245, act July 1, 1944, ch. 373, title III, § 313, as added Pub. L. 107–188, title I, § 159(c), June 12, 2002, 116 Stat. 636, provided for public access defibrillation demonstration projects, prior to repeal by Pub. L. 116–260, div. BB, title III, § 311(a), Dec. 27, 2020, 134 Stat. 2923.
+
+Another prior section 245, acts July 1, 1944, ch. 373, title III, § 313, 58 Stat. 693; Oct. 30, 1970, Pub. L. 91–515, title II, § 282, 84 Stat. 1308, provided for collection of vital statistics, prior to repeal by Pub. L. 93–353, title I, § 102(a), July 23, 1974, 88 Stat. 362. See [section 242k(g) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section242k/g&num=0&edition=prelim).
 
 A prior section 313 of act July 1, 1944, was classified to [section 245a of this title](./chapter-6a-public-health-service.md#section-245a) prior to repeal by Pub. L. 94–484.
 
@@ -6486,9 +6589,25 @@ when the furnishing of such supplies or equipment or the detail of such an offic
 
   (B) demonstration projects for the prevention and control of such diseases;
 
-  (C) public information and education programs for the prevention and control of such diseases; and
+  (C) public information and education programs for the prevention and control of such diseases;
 
-  (D) education, training, and clinical skills improvement activities in the prevention and control of such diseases for health professionals (including allied health personnel).
+  (D) education, training, and clinical skills improvement activities in the prevention and control of such diseases for health professionals (including allied health personnel);
+
+  (E) planning, implementation, and evaluation of activities to address vaccine-preventable diseases, including activities to—
+
+    (i) identify communities at high risk of outbreaks related to vaccine-preventable diseases, including through improved data collection and analysis;
+
+    (ii) pilot innovative approaches to improve vaccination rates in communities and among populations with low rates of vaccination;
+
+    (iii) reduce barriers to accessing vaccines and evidence-based information about the health effects of vaccines;
+
+    (iv) partner with community organizations and health care providers to develop and deliver evidence-based interventions, including culturally and linguistically appropriate interventions, to increase vaccination rates;
+
+    (v) improve delivery of evidence-based vaccine-related information to parents and others; and
+
+    (vi) improve the ability of State, local, Tribal, and territorial public health departments to engage communities at high risk for outbreaks related to vaccine-preventable diseases, including, as appropriate, with local educational agencies, as defined in [section 7801 of title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section7801&num=0&edition=prelim); and
+
+  (F) research related to strategies for improving awareness of scientific and evidence-based vaccine-related information, including for communities with low rates of vaccination, in order to understand barriers to vaccination, improve vaccination rates, and assess the public health outcomes of such strategies.
 
 (2) The Secretary may make grants to States, political subdivisions of States, and other public and nonprofit private entities for—
 
@@ -6544,6 +6663,8 @@ when the furnishing of such supplies or equipment or the detail of such an offic
 
 (7) **Authorization of appropriations** — There is authorized to be appropriated to carry out this subsection, such sums as may be necessary for each of fiscal years 2010 through 2014.
 
+**(n) Vaccination data** The Secretary, acting through the Director of the Centers for Disease Control and Prevention, shall expand and enhance, and, as appropriate, establish and improve, programs and conduct activities to collect, monitor, and analyze vaccination coverage data to assess levels of protection from vaccine-preventable diseases, including by assessing factors contributing to underutilization of vaccines and variations of such factors, and identifying communities at high risk of outbreaks associated with vaccine-preventable diseases.
+
 ### Statutory Notes
 
 #### References in Text
@@ -6554,6 +6675,10 @@ when the furnishing of such supplies or equipment or the detail of such an offic
 March 23, 2010, referred to in subsec. (m)(6), was in the original “the date of enactment of the Affordable Health Choices Act”, and was translated as meaning the date of enactment of the Patient Protection and Affordable Care Act, Pub. L. 111–148, to reflect the probable intent of Congress. No act named the “Affordable Health Choices Act” has been enacted.
 
 #### Amendments
+2020—Subsec. (k)(1)(E), (F). Pub. L. 116–260, § 311(b)(1), added subpars. (E) and (F).
+
+Subsec. (n). Pub. L. 116–260, § 311(b)(2), added subsec. (n).
+
 2010—Subsec. (j)(1). Pub. L. 111–148, § 4204(c)(1), struck out “for each of the fiscal years 1998 through 2005” after “necessary”.
 
 Subsec. (j)(2). Pub. L. 111–148, § 4204(c)(2), struck out “after October 1, 1997,” after “routine use,”.
@@ -7672,6 +7797,55 @@ Subsec. (f)(3). Pub. L. 116–22, § 607(a)(3)(C), substituted “2019” for �
 **(b) Authorization of appropriations** There are authorized to be appropriated such sums as may be necessary for each of fiscal years 2009 through 2013 to carry out this section.
 
 
+<a id="section-247b-23"></a>
+## § 247b–23. National strategy and regional centers of excellence in vector-borne diseases
+**(a) In general** The Secretary shall—
+
+(1)
+
+  (A) ensure the development and implementation of a national strategy to address vector-borne diseases, including tick-borne diseases, that—
+
+    (i) identifies and assesses gaps and any unnecessary duplication in federally-funded programs; and
+
+    (ii) identifies strategic goals to address such diseases and appropriate benchmarks to measure progress toward achieving such goals; and
+
+  (B) update such strategy, as appropriate; and
+
+(2) coordinate programs and activities, including related to data collection, research, and the development of diagnostics, treatments, vaccines, and other related activities, to address vector-borne diseases, including tick-borne diseases, across the Department of Health and Human Services and with other Federal agencies or departments, as appropriate.
+
+**(b) Consultation** In carrying out subsection (a)(1), the Secretary shall consult with the Tick-Borne Disease Working Group established under [section 284s of this title](./chapter-6a-public-health-service.md#section-284s) and other individuals, as appropriate, such as—
+
+(1) epidemiologists with experience in vector-borne diseases;
+
+(2) representatives of patient advocacy and research organizations that focus on vector-borne diseases, including such organizations that have demonstrated experience in related research, public health, data collection, or patient access to care;
+
+(3) health information technology experts or other information management specialists;
+
+(4) clinicians, entomologists, vector management professionals, public health professionals, and others with expertise in vector-borne diseases; and
+
+(5) researchers, including researchers with experience conducting translational research.
+
+**(c) Centers of excellence** The Secretary, in coordination with the Director of the Centers for Disease Control and Prevention, shall award grants, contracts, or cooperative agreements to institutions of higher education for the establishment or continued support of regional centers of excellence in vector-borne diseases to address vector-borne diseases, including tick-borne diseases, by—
+
+(1) facilitating collaboration between academia and public health organizations for public health surveillance, prevention, and response activities related to vector-borne diseases, including tick-borne diseases;
+
+(2) providing training for public health entomologists and other health care professionals, as appropriate, to address vector-borne diseases, including tick-borne diseases;
+
+(3) conducting research to develop and validate prevention and control tools and methods, including evidence-based and innovative, evidence-informed tools and methods to anticipate and respond to disease outbreaks; or
+
+(4) preparing for and responding to outbreaks of vector-borne diseases, including tick-borne diseases.
+
+**(d) Eligibility** To be eligible to receive a grant, contract, or cooperative agreement under subsection (c), an entity shall submit to the Secretary an application at such time, in such manner, and containing such information as the Secretary may require, including a description of how the entity will conduct the activities described in such subsection.
+
+**(e) Reports**
+
+(1) **Program summary** — An entity receiving an award under subsection (c) shall, not later than one year after receiving such award, and annually thereafter, submit to the Secretary a summary of programs and activities funded under the award.
+
+(2) **Progress report** — Not later than 4 years after December 20, 2019, the Secretary shall submit to the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Energy and Commerce of the House of Representatives, a report on the progress made in addressing vector-borne diseases, including tick-borne diseases, through activities carried out under this section.
+
+**(f) Authorization of appropriations** For the purpose of carrying out this section, there are authorized to be appropriated $10,000,000 for each of fiscal years 2021 through 2025.
+
+
 <a id="section-247b-3"></a>
 ## § 247b–3. Education, technology assessment, and epidemiology regarding lead poisoning
 **(a) Prevention**
@@ -8408,7 +8582,7 @@ Pub. L. 93–641, § 6, Jan. 4, 1975, 88 Stat. 2275, set out as a note under [se
 
 Subsec. (a)(2)(B). Pub. L. 116–22, § 301(c)(1)(B), substituted “2 years” for “3 years”.
 
-Subsec. (c). Pub. L. 116–22, § 301(c)(2), designated existing provisions as par. (1), inserted heading, substituted “For the purpose of carrying out this section, except as described in paragraph (2)” for “ For the purpose of carrying out this section”, and added par. (2).
+Subsec. (c). Pub. L. 116–22, § 301(c)(2), designated existing provisions as par. (1), inserted heading, substituted “For the purpose of carrying out this section, except as described in paragraph (2)” for “For the purpose of carrying out this section”, and added par. (2).
 
 1998—Subsec. (a)(1). Pub. L. 105–392, § 406(1), substituted “$35,000” for “$20,000”.
 
@@ -8933,9 +9107,6 @@ A prior section 247d, act July 1, 1944, ch. 373, title III, § 319, as added Pub
 
 Another prior section 247d, act July 1, 1944, ch. 373, title III, § 319, formerly § 310, as added Sept. 25, 1962, Pub. L. 87–692, 76 Stat. 592, and amended and renumbered, which related to migrant health centers, was renumbered section 329 of act July 1, 1944, by Pub. L. 95–626, title I, § 102(a), Nov. 10, 1978, 92 Stat. 3551, and transferred to [section 254b of this title](./chapter-6a-public-health-service.md#section-254b), prior to being omitted in the general amendment of subpart I (§ 254b et seq.) of part D of this subchapter by Pub. L. 104–299, § 2.
 
-#### Change of Name
-Committee on Commerce of House of Representatives changed to Committee on Energy and Commerce of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred to Committee on Financial Services of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
-
 #### Amendments
 2019—Subsec. (b)(1). Pub. L. 116–22, § 206(1)(A), substituted “under such subsection or if the Secretary determines there is the significant potential for a public health emergency, to allow the Secretary to rapidly respond to the immediate needs resulting from such public health emergency or potential public health emergency. The Secretary shall plan for the expedited distribution of funds to appropriate agencies and entities.” for “under such subsection.”
 
@@ -8957,8 +9128,17 @@ Pub. L. 107–188, § 144(a), inserted at end of concluding provisions “Any su
 
 Subsec. (d). Pub. L. 107–188, § 141, added subsec. (d).
 
+#### Change of Name
+Committee on Commerce of House of Representatives changed to Committee on Energy and Commerce of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred to Committee on Financial Services of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
+
 #### Effective Date of 2002 Amendment
 Pub. L. 107–188, title I, § 144(b), June 12, 2002, 116 Stat. 630, provided that: “The amendment made by subsection (a) [amending this section] applies to any public health emergency under section 319(a) of the Public Health Service Act [[42 U.S.C. 247d(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section247d/a&num=0&edition=prelim)], including any such emergency that was in effect as of the day before the date of the enactment of this Act [June 12, 2002]. In the case of such an emergency that was in effect as of such day, the 90-day period described in such section with respect to the termination of the emergency is deemed to begin on such date of enactment.”
+
+#### Importance of the Blood Supply
+Pub. L. 116–136, div. A, title III, § 3226, Mar. 27, 2020, 134 Stat. 383, provided that: “(a) In General.—The Secretary of Health and Human Services (referred to in this section as the ‘Secretary’) shall carry out a national campaign to improve awareness of, and support outreach to the public and health care providers about the importance and safety of blood donation and the need for donations for the blood supply during the public health emergency declared by the Secretary under section 319 of the Public Health Service Act ([42 U.S.C. 247d](./chapter-6a-public-health-service.md#section-247d)) with respect to COVID–19. “(b) Awareness Campaign.—In carrying out subsection (a), the Secretary may enter into contracts with one or more public or private nonprofit entities, to establish a national blood donation awareness campaign that may include television, radio, internet, and newspaper public service announcements, and other activities to provide for public and professional awareness and education. “(c) Consultation.—In carrying out subsection (a), the Secretary shall consult with the Commissioner of Food and Drugs, the Assistant Secretary for Health, the Director of the Centers for Disease Control and Prevention, the Director of the National Institutes of Health, and the heads of other relevant Federal agencies, and relevant accrediting bodies and representative organizations. “(d) Report to Congress.—Not later than 2 years after the date of enactment of this Act [Mar. 27, 2020], the Secretary shall submit to the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Energy and Commerce of the House of Representatives, a report that shall include—“(1) a description of the activities carried out under subsection (a); “(2) a description of trends in blood supply donations; and “(3) an evaluation of the impact of the public awareness campaign, including any geographic or population variations.”
+
+#### Reporting by Laboratories of Results of Tests To Detect SARS–CoV–2 or To Diagnose COVID–19
+Pub. L. 116–136, div. B, title VIII, § 18115(a)–(c), Mar. 27, 2020, 134 Stat. 574, provided that: “(a) In General.—Every laboratory that performs or analyzes a test that is intended to detect SARS–CoV–2 or to diagnose a possible case of COVID–19 shall report the results from each such test, to the Secretary of Health and Human Services in such form and manner, and at such timing and frequency, as the Secretary may prescribe until the end of the Secretary’s Public Health Emergency declaration with respect to COVID–19 or any extension of such declaration. “(b) Laboratories Covered.—The Secretary may prescribe which laboratories must submit reports pursuant to this section. “(c) Implementation.—The Secretary may make prescriptions under this section by regulation, including by interim final rule, or by guidance, and may issue such regulations or guidance without regard to the procedures otherwise required by [section 553 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section553&num=0&edition=prelim), United States Code.”
 
 
 <a id="section-247d-1"></a>
@@ -9026,6 +9206,64 @@ Section 264(c) of the Health Insurance Portability and Accountability Act of 199
 
 #### Codification
 Section was enacted as part of the Substance Use–Disorder Prevention that Promotes Opioid Recovery and Treatment for Patients and Communities Act, also known as the SUPPORT for Patients and Communities Act, and not as part of the Public Health Service Act which comprises this chapter.
+
+
+<a id="section-247d-11"></a>
+## § 247d–11. State All Payer Claims Databases
+**(a) In general** The Secretary shall make one-time grants to eligible States for the purposes described in subsection (b).
+
+**(b) Uses** A State may use a grant received under subsection (a) for one of the following purposes:
+
+(1) To establish a State All Payer Claims Database.
+
+(2) To improve an 11 So in original. existing State All Payer Claims Databases.1
+
+**(c) Eligibility** To be eligible to receive a grant under subsection (a), a State shall submit to the Secretary an application at such time, in such manner, and containing such information as the Secretary specifies, including, with respect to a State All Payer Claims Database, at least specifics on how the State will ensure uniform data collection and the privacy and security of such data.
+
+**(d) Grant period and amount** Grants awarded under this section shall be for a period of 3-years,22 So in original. Probably should be “3 years,”. and in an amount of $2,500,000, of which $1,000,000 shall be made available to the State for each of the first 2 years of the grant period, and $500,000 shall be made available to the State for the third year of the grant period.
+
+**(e) Authorized users**
+
+(1) **Application** — An entity desiring authorization for access to a State All Payer Claims Database that has received a grant under this section shall submit to the State All Payer Claims Database an application for such access, which shall include—
+
+  (A) in the case of an entity requesting access for research purposes—
+
+    (i) a description of the uses and methodologies for evaluating health system performance using such data; and
+
+    (ii) documentation of approval of the research by an institutional review board, if applicable for a particular plan of research; or
+
+  (B) in the case of an entity such as an employer, health insurance issuer, third-party administrator, or health care provider, requesting access for the purpose of quality improvement or cost-containment, a description of the intended uses for such data.
+
+(2) **Requirements**
+
+  (A) *Access for research purposes* — Upon approval of an application for research purposes under paragraph (1)(A), the authorized user shall enter into a data use and confidentiality agreement with the State All Payer Claims Database that has received a grant under this subsection, which shall include a prohibition on attempts to reidentify and disclose individually identifiable health information and proprietary financial information.
+
+  (B) *Customized reports* — Employers and employer organizations may request customized reports from a State All Payer Claims Database that has received a grant under this section, at cost, subject to the requirements of this section with respect to privacy, security, and proprietary financial information.
+
+  (C) *Non-customized reports* — A State All Payer Claims Database that has received a grant under this section shall make available to all authorized users aggregate data sets available through the State All Payer Claims Database, free of charge.
+
+(3) **Waivers** — The Secretary may waive the requirements of this subsection of a State All Payer Claims Database to provide access of entities to such database if such State All Payer Claims Database is substantially in compliance with this subsection.
+
+**(f) Expanded access**
+
+(1) **Multi-State applications** — The Secretary may prioritize applications submitted by a State whose application demonstrates that the State will work with other State All Payer Claims Databases to establish a single application for access to data by authorized users across multiple States.
+
+(2) **Expansion of data sets** — The Secretary may prioritize applications submitted by a State whose application demonstrates that the State will implement the reporting format for self-insured group health plans described in [section 1191d of title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1191d&num=0&edition=prelim).
+
+**(g) Definitions** In this section—
+
+(1) the term “individually identifiable health information” has the meaning given such term in [section 1320d(6) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1320d/6&num=0&edition=prelim);
+
+(2) the term “proprietary financial information” means data that would disclose the terms of a specific contract between an individual health care provider or facility and a specific group health plan, managed care entity (as defined in [section 1396u–2(a)(1)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1396u–2/a/1/B&num=0&edition=prelim)) or other managed care organization, or health insurance issuer offering group or individual health insurance coverage; and
+
+(3) the term “State All Payer Claims Database” means, with respect to a State, a database that may include medical claims, pharmacy claims, dental claims, and eligibility and provider files, which are collected from private and public payers.
+
+**(h) Authorization of appropriations** To carry out this section, there is authorized to be appropriated $50,000,000 for each of fiscal years 2022 and 2023, and $25,000,000 for fiscal year 2024, to remain available until expended.
+
+### Statutory Notes
+
+#### Codification
+Section 115(a) of div. BB of Pub. L. 116–260, which directed that section 320B (this section) be added at the end of part B of title III of the Public Health Service Act, was executed as directed, notwithstanding that section 320 of the Public Health Service Act ([section 247e of this title](./chapter-6a-public-health-service.md#section-247e)) appears in part C of title III of the Act, resulting in section 320B of the Act preceding section 320.
 
 
 <a id="section-247d-2-247d-3"></a>
@@ -9841,9 +10079,9 @@ Subsec. (c)(1). Pub. L. 116–22, § 205(a)(4)(A), substituted “The Secretary�
 
 Subsec. (c)(2). Pub. L. 116–22, § 205(a)(4)(B), amended par. (2) generally. Prior to amendment, par. (2) related to a coordinated strategy and an accompanying implementation plan.
 
-Subsec. (c)(3). Pub. L. 116–22, § 205(a)(4)(C), designated existing provisions as subpar. (A) and inserted heading; redesignated former subpars. (A) to (E) as cls. (i) to (v), respectively, and realigned margins; in cl. (iv), inserted “immunization information systems,” after “poison control,” and substituted “, clinical laboratories, and public environmental health agencies” for “and clinical laboratories”; and added subpar. (B).
+Subsec. (c)(3). Pub. L. 116–22, § 205(a)(4)(C), designated existing provisions as subpar. (A) and inserted heading; redesignated former subpars. (A) to (E) as cls. (i) to (v), respectively, of subpar. (A) and realigned margins; in cl. (iv), inserted “immunization information systems,” after “poison control,” and substituted “, clinical laboratories, and public environmental health agencies” for “and clinical laboratories”; and added subpar. (B).
 
-Subsec. (c)(5)(A). Pub. L. 116–22, § 205(a)(4)(D)(i), (ii), designated existing provisions as subpar. (A), inserted heading, redesignated former subpars. (A) to (D) as (i) to (iv), respectively, and realigned margins.
+Subsec. (c)(5)(A). Pub. L. 116–22, § 205(a)(4)(D)(i), (ii), designated existing provisions as subpar. (A), inserted heading, redesignated former subpars. (A) to (D) as (i) to (iv), respectively, of subpar. (A) and realigned margins.
 
 Subsec. (c)(5)(A)(i). Pub. L. 116–22, § 205(a)(4)(D)(iv)(I), substituted “as adopted” for “as determined” and inserted “and the National Institute of Standards and Technology” after “Office of the National Coordinator for Health Information Technology”.
 
@@ -9941,6 +10179,9 @@ The PHS Act, referred to in text, means the Public Health Service Act, act July 
 
 #### Codification
 Section was enacted as part of the Departments of Labor, Health and Human Services, and Education, and Related Agencies Appropriations Act, 2019, and not as part of the Public Health Service Act which comprises this chapter.
+
+#### Reports Required
+Pub. L. 116–136, div. B, title VIII, Mar. 27, 2020, 134 Stat. 555, provided in part: “That the Secretary of Health and Human Services, in consultation with the Director of the CDC [Centers for Disease Control and Prevention], shall provide a report to the Committees on Appropriations of the House of Representatives and the Senate every 14 days, for one year from the date from any such declaration or determination described in the third proviso of section 231 of division B of Public Law 115–245 [[42 U.S.C. 247d–4a](./chapter-6a-public-health-service.md#section-247d-4a)], that details commitment and obligation information for the [Infectious Diseases Rapid Response] Reserve Fund during the prior two weeks, as long as such report would detail obligations in excess of $5,000,000, and upon the request by such Committees”.
 
 
 <a id="section-247d-4b"></a>
@@ -10225,6 +10466,29 @@ Term of Presidential Advisory Council on Combating Antibiotic-Resistant Bacteria
 Previous extension of term of Presidential Advisory Council on Combating Antibiotic-Resistant Bacteria was contained in the following prior Executive Order:
 
 Ex. Ord. No. 13708, Sept. 30, 2015, 80 F.R. 60271, extended term until Sept. 30, 2017.
+
+#### Delegation of Authority to Re-establish the Presidential Advisory Council on Combating Antibiotic-Resistant Bacteria
+Memorandum of President of the United States, Mar. 3, 2020, 85 F.R. 13469, provided:
+
+Memorandum for the Secretary of Health and Human Services
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, including [section 301 of title 3](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title3-section301&num=0&edition=prelim), United States Code, it is hereby ordered as follows:
+
+Section 1. Delegation of Re-establishment Authority. The Secretary of Health and Human Services is delegated the authority under section 9(a)(1) of the Federal Advisory Committee Act, as amended (5 U.S.C. App.), to re-establish the Presidential Advisory Council on Combating Antibiotic-Resistant Bacteria (Council). In exercising this authority, the Secretary may direct the Council to perform duties consistent with those assigned to the Council in section 505(b) of Public Law 116–22 [[22 U.S.C. 247d–5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section247d–5&num=0&edition=prelim) note], and may, at the Secretary’s discretion, specify the membership of the Council, consistent with the requirements of the Federal Advisory Committee Act, as amended (5 U.S.C. App.).
+
+Sec. 2. General Provisions. (a) Nothing in this memorandum shall be construed to impair or otherwise affect:
+
+(i) the authority granted by law to an executive department or agency, or the head thereof; or
+
+(ii) the functions of the Director of the Office of Management and Budget relating to budgetary, administrative, or legislative proposals.
+
+(b) This memorandum shall be implemented consistent with applicable law and subject to the availability of appropriations.
+
+(c) This memorandum is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+
+(d) You are hereby authorized and directed to publish this memorandum in the Federal Register.
+
+Donald J. Trump.
 
 
 <a id="section-247d-5a"></a>
@@ -10645,7 +10909,7 @@ Pub. L. 108–276, § 8, July 21, 2004, 118 Stat. 863, provided that: “(a) Ens
 ## § 247d–6b. Strategic National Stockpile and security countermeasure procurements
 **(a) Strategic National Stockpile**
 
-(1) **In general** — The Secretary, in collaboration with the Assistant Secretary for Preparedness and Response and the Director of the Centers for Disease Control and Prevention, and in coordination with the Secretary of Homeland Security (referred to in this section as the “Homeland Security Secretary”), shall maintain a stockpile or stockpiles of drugs, vaccines and other biological products, medical devices, and other supplies in such numbers, types, and amounts as are determined consistent with [section 300hh–10 of this title](./chapter-6a-public-health-service.md#section-300hh-10) by the Secretary to be appropriate and practicable, taking into account other available sources, to provide for and optimize the emergency health security of the United States, including the emergency health security of children and other vulnerable populations, in the event of a bioterrorist attack or other public health emergency and, as informed by existing recommendations of, or consultations with, the Public Health Emergency Medical Countermeasure Enterprise established under [section 300hh–10a of this title](./chapter-6a-public-health-service.md#section-300hh-10a), make necessary additions or modifications to the contents of such stockpile or stockpiles based on the review conducted under paragraph (2).
+(1) **In general** — The Secretary, in collaboration with the Assistant Secretary for Preparedness and Response and the Director of the Centers for Disease Control and Prevention, and in coordination with the Secretary of Homeland Security (referred to in this section as the “Homeland Security Secretary”), shall maintain a stockpile or stockpiles of drugs, vaccines and other biological products, medical devices, and other supplies (including personal protective equipment, ancillary medical supplies, and other applicable supplies required for the administration of drugs, vaccines and other biological products, medical devices, and diagnostic tests in the stockpile) in such numbers, types, and amounts as are determined consistent with [section 300hh–10 of this title](./chapter-6a-public-health-service.md#section-300hh-10) by the Secretary to be appropriate and practicable, taking into account other available sources, to provide for and optimize the emergency health security of the United States, including the emergency health security of children and other vulnerable populations, in the event of a bioterrorist attack or other public health emergency and, as informed by existing recommendations of, or consultations with, the Public Health Emergency Medical Countermeasure Enterprise established under [section 300hh–10a of this title](./chapter-6a-public-health-service.md#section-300hh-10a), make necessary additions or modifications to the contents of such stockpile or stockpiles based on the review conducted under paragraph (2).
 
 (2) **Threat-based review**
 
@@ -10990,6 +11254,8 @@ In subsec. (c)(7)(B)(vii), “[section 3306(a)(1)(B) of title 41](https://uscode
 Section was formerly classified to [section 300hh–12 of this title](./chapter-6a-public-health-service.md#section-300hh-12) prior to renumbering by Pub. L. 108–276.
 
 #### Amendments
+2020—Subsec. (a)(1). Pub. L. 116–136 inserted “(including personal protective equipment, ancillary medical supplies, and other applicable supplies required for the administration of drugs, vaccines and other biological products, medical devices, and diagnostic tests in the stockpile)” after “other supplies”.
+
 2019—Subsec. (a)(1). Pub. L. 116–22, § 403(a)(2), inserted “the Assistant Secretary for Preparedness and Response and” after “collaboration with”, “and optimize” after “provide for” and “and, as informed by existing recommendations of, or consultations with, the Public Health Emergency Medical Countermeasure Enterprise established under [section 300hh–10a of this title](./chapter-6a-public-health-service.md#section-300hh-10a), make necessary additions or modifications to the contents of such stockpile or stockpiles based on the review conducted under paragraph (2)” after “public health emergency”, and struck out at end “The Secretary shall conduct an annual review (taking into account at-risk individuals) of the contents of the stockpile, including non-pharmaceutical supplies, and make necessary additions or modifications to the contents based on such review and shall submit such review annually to the appropriate congressional committees of jurisdiction to the extent that disclosure of such information does not compromise national security.”
 
 Subsec. (a)(2). Pub. L. 116–22, § 403(a)(3), added par. (2). Former par. (2) redesignated (3).
@@ -11108,9 +11374,6 @@ Subsec. (c)(8)(A). Pub. L. 109–417, § 406(2)(G), inserted at end “Such agre
 
 Subsecs. (a)(2), (b)(1). Pub. L. 107–296, § 1705(a)(2), inserted “of Health and Human Services” after “Secretary” wherever appearing.
 
-#### Change of Name
-Committee on Government Reform of House of Representatives changed to Committee on Oversight and Government Reform of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007. Committee on Oversight and Government Reform of House of Representatives changed to Committee on Oversight and Reform of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
-
 #### Effective Date of 2002 Amendment
 Pub. L. 107–296, title XVII, § 1705(b), Nov. 25, 2002, 116 Stat. 2316, provided that: “The amendments made by this section [amending this section] shall take effect on the date of transfer of the Strategic National Stockpile of the Department of Health and Human Services to the Department [of Homeland Security].”
 
@@ -11136,6 +11399,151 @@ Pub. L. 107–188, title I, § 127, June 12, 2002, 116 Stat. 615, provided that:
 [In the performance of such functions the Chairman and the Director should consult each other and the Secretaries of Health and Human Services, Energy, and Homeland Security, as appropriate.
 
 [The Director is authorized and directed to publish this memorandum in the Federal Register.]
+
+#### Ex. Ord. No. 13944. Combating Public Health Emergencies and Strengthening National Security by Ensuring Essential Medicines, Medical Countermeasures, and Critical Inputs Are Made in the United States
+Ex. Ord. No. 13944, Aug. 6, 2020, 85 F.R. 49929, provided:
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered as follows:
+
+Section 1. Policy. The United States must protect our citizens, critical infrastructure, military forces, and economy against outbreaks of emerging infectious diseases and chemical, biological, radiological, and nuclear (CBRN) threats. To achieve this, the United States must have a strong Public Health Industrial Base with resilient domestic supply chains for Essential Medicines, Medical Countermeasures, and Critical Inputs deemed necessary for the United States. These domestic supply chains must be capable of meeting national security requirements for responding to threats arising from CBRN threats and public health emergencies, including emerging infectious diseases such as COVID–19. It is critical that we reduce our dependence on foreign manufacturers for Essential Medicines, Medical Countermeasures, and Critical Inputs to ensure sufficient and reliable long-term domestic production of these products, to minimize potential shortages, and to mobilize our Nation’s Public Health Industrial Base to respond to these threats. It is therefore the policy of the United States to:
+
+(a) accelerate the development of cost-effective and efficient domestic production of Essential Medicines and Medical Countermeasures and have adequate redundancy built into the domestic supply chain for Essential Medicines, Medical Countermeasures, and Critical Inputs;
+
+(b) ensure long-term demand for Essential Medicines, Medical Countermeasures, and Critical Inputs that are produced in the United States;
+
+(c) create, maintain, and maximize domestic production capabilities for Critical Inputs, Finished Drug Products, and Finished Devices that are essential to protect public safety and human health and to provide for the national defense; and
+
+(d) combat the trafficking of counterfeit Essential Medicines, Medical Countermeasures, and Critical Inputs over e-commerce platforms and from third-party online sellers involved in the government procurement process.
+
+I am therefore directing each executive department and agency involved in the procurement of Essential Medicines, Medical Countermeasures, and Critical Inputs (agency) to consider a variety of actions to increase their domestic procurement of Essential Medicines, Medical Countermeasures, and Critical Inputs, and to identify vulnerabilities in our Nation’s supply chains for these products. Under this order, agencies will have the necessary flexibility to increase their domestic procurement in appropriate and responsible ways, while protecting our Nation’s service members, veterans, and their families from increases in drug prices and without interfering with our Nation’s ability to respond to the spread of COVID–19.
+
+Sec. 2. Maximizing Domestic Production in Procurement. (a) Agencies shall, as appropriate, to the maximum extent permitted by applicable law, and in consultation with the Commissioner of Food and Drugs (FDA Commissioner) with respect to Critical Inputs, use their respective authorities under [section 2304(c) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2304/c&num=0&edition=prelim), United States Code; [section 3304(a) of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section3304/a&num=0&edition=prelim), United States Code; and subpart 6.3 of the Federal Acquisition Regulation, title 48, Code of Federal Regulations, to conduct the procurement of Essential Medicines, Medical Countermeasures, and Critical Inputs by:
+
+(i) using procedures to limit competition to only those Essential Medicines, Medical Countermeasures, and Critical Inputs that are produced in the United States; and
+
+(ii) dividing procurement requirements among two or more manufacturers located in the United States, as appropriate.
+
+(b) Within 90 days of the date of this order [Aug. 6, 2020], the Director of the Office of Management and Budget (OMB), in consultation with appropriate agency heads, shall:
+
+(i) review the authority of each agency to limit the online procurement of Essential Medicines and Medical Countermeasures to e-commerce platforms that have:
+
+(A) adopted, and certified their compliance with, the applicable best practices published by the Department of Homeland Security in its Report to the President on “Combating Trafficking in Counterfeit and Pirated Goods,” dated January 24, 2020; and
+
+(B) agreed to permit the Department of Homeland Security’s National Intellectual Property Rights Coordination Center to evaluate and confirm their compliance with such best practices; and
+
+(ii) report its findings to the President.
+
+(c) Within 90 days of the date of this order, the head of each agency shall, in consultation with the FDA Commissioner, develop and implement procurement strategies, including long-term contracts, consistent with law, to strengthen and mobilize the Public Health Industrial Base in order to increase the manufacture of Essential Medicines, Medical Countermeasures, and Critical Inputs in the United States.
+
+(d) No later than 30 days after the FDA Commissioner has identified, pursuant to section 3(c) of this order, the initial list of Essential Medicines, Medical Countermeasures, and Critical Inputs, the United States Trade Representative shall, to the extent permitted by law, take all appropriate action to modify United States Federal procurement product coverage under all relevant Free Trade Agreements and the World Trade Organization Agreement on Government Procurement to exclude coverage of Essential Medicines, Medical Countermeasures, and Critical Inputs. The United States Trade Representative shall further modify United States Federal procurement product coverage, as appropriate, to reflect updates by the FDA Commissioner. After the modifications to United States Federal procurement coverage take effect, the United States Trade Representative shall make any necessary, corresponding modifications of existing waivers under section 301 of the Trade Agreements Act of 1979 [[19 U.S.C. 2511](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section2511&num=0&edition=prelim)]. The United States Trade Representative shall notify the President, through the Director of OMB, once it has taken the actions described in this subsection.
+
+(e) No later than 60 days after the FDA Commissioner has identified, pursuant to section 3(c) of this order, the initial list of Essential Medicines, Medical Countermeasures, and Critical Inputs, and notwithstanding the public interest exception in subsection (f)(i)(1) of this section, the Secretary of Defense shall, to the maximum extent permitted by applicable law, use his authority under section 225.872–-1(c) of the Defense Federal Acquisition Regulation Supplement to restrict the procurement of Essential Medicines, Medical Countermeasures, and Critical Inputs to domestic sources and to reject otherwise acceptable offers of such products from sources in Qualifying Countries in instances where considered necessary for national defense reasons.
+
+(f) Subsections (a), (d), and (e) of this section shall not apply:
+
+(i) where the head of the agency determines in writing, with respect to a specific contract or order, that (1) their application would be inconsistent with the public interest; (2) the relevant Essential Medicines, Medical Countermeasures, and Critical Inputs are not produced in the United States in sufficient and reasonably available commercial quantities and of a satisfactory quality; or (3) their application would cause the cost of the procurement to increase by more than 25 percent, unless applicable law requires a higher percentage, in which case such higher percentage shall apply;
+
+(ii) with respect to the procurement of items that are necessary to respond to any public health emergency declared under section 319 of the Public Health Service Act ([42 U.S.C. 247d](./chapter-6a-public-health-service.md#section-247d)), any major disaster or emergency declared under the Stafford Disaster Relief and Emergency Assistance Act ([42 U.S.C. 5121](./chapter-068-disaster-relief.md#section-5121) et seq.), or any national emergency declared under the National Emergencies Act ([50 U.S.C. 1601](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1601&num=0&edition=prelim) et seq.).
+
+(g) To the maximum extent permitted by law, any public interest determination made pursuant to section 2(f)(i)(1) of this order shall be construed to maximize the procurement and use of Essential Medicines and Medical Countermeasures produced in the United States.
+
+(h) The head of an agency who makes any determination pursuant to section 2(f)(i) of this order shall submit an annual report to the President, through the Director of OMB and the Assistant to the President for Trade and Manufacturing Policy, describing the justification for each such determination.
+
+Sec. 3. Identifying Vulnerabilities in Supply Chains. (a) Within 180 days of the date of this order, the Secretary of Health and Human Services, through the FDA Commissioner and in consultation with the Director of OMB, shall take all necessary and appropriate action, consistent with law, to identify vulnerabilities in the supply chain for Essential Medicines, Medical Countermeasures, and Critical Inputs and to mitigate those vulnerabilities, including by:
+
+(i) considering proposing regulations or revising guidance on the collection of the following information from manufacturers of Essential Medicines and Medical Countermeasures as part of the application and regulatory approval process:
+
+(A) the sources of Finished Drug Products, Finished Devices, and Critical Inputs;
+
+(B) the use of any scarce Critical Inputs; and
+
+(C) the date of the last FDA inspection of the manufacturer’s regulated facilities and the results of such inspection;
+
+(ii) entering into written agreements, pursuant to section 20.85 of title 21, Code of Federal Regulations, with the National Security Council, Department of State, Department of Defense, Department of Veterans Affairs, and other interested agencies, as appropriate, to disclose records regarding the security and vulnerabilities of the supply chains for Essential Medicines, Medical Countermeasures, and Critical Inputs;
+
+(iii) recommending to the President any changes in applicable law that may be necessary to accomplish the objectives of this subsection; and
+
+(iv) reviewing FDA regulations to determine whether any of those regulations may be a barrier to domestic production of Essential Medicines, Medical Countermeasures, and Critical Inputs, and by advising the President whether such regulations should be repealed or amended.
+
+(b) The Secretary of Health and Human Services, through the FDA Commissioner, shall take all appropriate action, consistent with applicable law, to:
+
+(i) accelerate FDA approval or clearance, as appropriate, for domestic producers of Essential Medicines, Medical Countermeasures, and Critical Inputs, including those needed for infectious disease and CBRN threat preparedness and response;
+
+(ii) issue guidance with recommendations regarding the development of Advanced Manufacturing techniques;
+
+(iii) negotiate with countries to increase site inspections and increase the number of unannounced inspections of regulated facilities manufacturing Essential Medicines, Medical Countermeasures, and Critical Inputs; and
+
+(iv) refuse admission, as appropriate, to imports of Essential Medicines, Medical Countermeasures, and Critical Inputs if the facilities in which they are produced refuse or unreasonably delay an inspection.
+
+(c) Within 90 days of the date of this order, and periodically updated as appropriate, the FDA Commissioner, in consultation with the Director of OMB, the Assistant Secretary for Preparedness and Response in the Department of Health and Human Services, the Assistant to the President for Economic Policy, and the Director of the Office of Trade and Manufacturing Policy, shall identify the list of Essential Medicines, Medical Countermeasures, and their Critical Inputs that are medically necessary to have available at all times in an amount adequate to serve patient needs and in the appropriate dosage forms.
+
+(d) Within 180 days of the date of this order, the Secretary of Defense, in consultation with the Director of OMB, shall take all necessary and appropriate action, consistent with law, to identify vulnerabilities in the supply chain for Essential Medicines, Medical Countermeasures, and Critical Inputs necessary to meet the unique needs of the United States Armed Forces and to mitigate the vulnerabilities identified in subsection (a) of this section. The Secretary of Defense shall provide to the Secretary of Health and Human Services, the FDA Commissioner, the Director of OMB, and the Director of the Office of Trade and Manufacturing Policy a list of defense-specific Essential Medicines, Medical Countermeasures, and Critical Inputs that are medically necessary to have available for defense use in adequate amounts and in appropriate dosage forms. The Secretary of Defense shall, as appropriate, periodically update this list.
+
+Sec. 4. Streamlining Regulatory Requirements. Consistent with law, the Administrator of the Environmental Protection Agency shall take all appropriate action to identify relevant requirements and guidance documents that can be streamlined to provide for the development of Advanced Manufacturing facilities and the expeditious domestic production of Critical Inputs, including by accelerating siting and permitting approvals.
+
+Sec. 5. Priorities and Allocation of Essential Medicines, Medical Countermeasures, and Critical Inputs. The Secretary of Health and Human Services shall, as appropriate and in accordance with the delegation of authority under Executive Order 13603 of March 16, 2012 (National Defense Resources Preparedness) [[50 U.S.C. 4553](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4553&num=0&edition=prelim) note], use the authority under section 101 of the Defense Production Act of 1950, as amended ([50 U.S.C. 4511](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4511&num=0&edition=prelim)), to prioritize the performance of Federal Government contracts or orders for Essential Medicines, Medical Countermeasures, or Critical Inputs over performance of any other contracts or orders, and to allocate such materials, services, and facilities as the Secretary deems necessary or appropriate to promote the national defense.
+
+Sec. 6. Reporting. (a) No later than December 15, 2021, and annually thereafter, the head of each agency shall submit a report to the President, through the Director of OMB and the Assistant to the President for Trade and Manufacturing Policy, detailing, for the preceding three fiscal years:
+
+(i) the Essential Medicines, Medical Countermeasures, and Critical Inputs procured by the agency;
+
+(ii) the agency’s annual itemized and aggregated expenditures for all Essential Medicines, Medical Countermeasures, and Critical Inputs;
+
+(iii) the sources of these products and inputs; and
+
+(iv) the agency’s plan to support domestic production of such products and inputs in the next fiscal year.
+
+(b) Within 180 days of the date of this order, the Secretary of Commerce shall submit a report to the Director of OMB, the Assistant to the President for National Security Affairs, the Director of the National Economic Council, and the Director of the Office of Trade and Manufacturing Policy, describing any change in the status of the Public Health Industrial Base and recommending initiatives to strengthen the Public Health Industrial Base.
+
+(c) To the maximum extent permitted by law, and with the redaction of any information protected by law from disclosure, each agency’s report shall be published in the Federal Register and on each agency’s official website.
+
+Sec. 7. Definitions. As used in this order:
+
+(a) “Active Pharmaceutical Ingredient” has the meaning set forth in section 207.1 of title 21, Code of Federal Regulations.
+
+(b) “Advanced Manufacturing” means any new medical product manufacturing technology that can improve drug quality, address shortages of medicines, and speed time to market, including continuous manufacturing and 3D printing.
+
+(c) “API Starting Material” means a raw or intermediate material that is used in the manufacturing of an API, that is incorporated as a significant structural fragment into the structure of the API, and that is determined by the FDA Commissioner to be relevant in assessing the safety and effectiveness of Essential Medicines and Medical Countermeasures.
+
+(d) “Critical Inputs” means API, API Starting Material, and other ingredients of drugs and components of medical devices that the FDA Commissioner determines to be critical in assessing the safety and effectiveness of Essential Medicines and Medical Countermeasures.
+
+(e) “Essential Medicines” are those Essential Medicines deemed necessary for the United States pursuant to section 3(c) of this order.
+
+(f) “Finished Device” has the meaning set forth in section 820.3(l) of title 21, Code of Federal Regulations.
+
+(g) “Finished Drug Product” has the meaning set forth in section 207.1 of title 21, Code of Federal Regulations.
+
+(h) “Healthcare and Public Health Sector” means the critical infrastructure sector identified in Presidential Policy Directive 21 of February 12, 2013 (Critical Infrastructure Security and Resilience), and the National Infrastructure Protection Plan of 2013.
+
+(i) An Essential Medicine or Medical Countermeasure is “produced in the United States” if the Critical Inputs used to produce the Essential Medicine or Medical Countermeasures are produced in the United States and if the Finished Drug Product or Finished Device, are manufactured, prepared, propagated, compounded, or processed, as those terms are defined in [section 360(a)(1) of title 21](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section360/a/1&num=0&edition=prelim), United States Code, in the United States.
+
+(j) “Medical Countermeasures” means items that meet the definition of “qualified countermeasure” in [section 247d–6a(a)(2)(A) of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section247d–6a/a/2/A&num=0&edition=prelim), United States Code; “qualified pandemic or epidemic product” in [section 247d–6d(i)(7) of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section247d–6d/i/7&num=0&edition=prelim), United States Code; “security countermeasure” in [section 247d–6b(c)(1)(B) of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section247d–6b/c/1/B&num=0&edition=prelim), United States Code; or personal protective equipment described in part 1910 of title 29, Code of Federal Regulations.
+
+(k) “Public Health Industrial Base” means the facilities and associated workforces within the United States, including research and development facilities, that help produce Essential Medicines, Medical Countermeasures, and Critical Inputs for the Healthcare and Public Health Sector.
+
+(l) “Qualifying Countries” has the meaning set forth in section 225.003, Defense Federal Acquisition Regulation Supplement.
+
+Sec. 8. Rule of Construction. Nothing in this order shall be construed to impair or otherwise affect:
+
+(a) the ability of State, local, tribal, or territorial governments to timely procure necessary resources to respond to any public health emergency declared under section 319 of the Public Health Service Act ([42 U.S.C. 247d](./chapter-6a-public-health-service.md#section-247d)), any major disaster or emergency declared under the Stafford Act ([42 U.S.C. 5121](./chapter-068-disaster-relief.md#section-5121) et seq.), or any national emergency declared under the National Emergencies Act ([50 U.S.C. 1601](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1601&num=0&edition=prelim) et seq.);
+
+(b) the ability or authority of any agency to respond to the spread of COVID–19; or
+
+(c) the authority of the Secretary of Veterans Affairs to take all necessary steps, including those necessary to implement the policy set forth in section 1 of this order, to ensure that service members, veterans, and their families continue to have full access to Essential Medicines at reasonable and affordable prices.
+
+Sec. 9. Severability. If any provision of this order, or the application of any provision to any person or circumstance, is held to be invalid, the remainder of this order and the application of any of its other provisions to any other persons or circumstances shall not be affected thereby.
+
+Sec. 10. General Provisions. (a) Nothing in this order shall be construed to impair or otherwise affect:
+
+(i) the authority granted by law to an executive department or agency, or the head thereof; or
+
+(ii) the functions of the Director of OMB relating to budgetary, administrative, or legislative proposals.
+
+(b) This order shall be implemented consistent with applicable law and subject to the availability of appropriations.
+
+(c) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+
+Donald J. Trump.
 
 #### Designation and Authorization To Perform Functions Under Section 319F–2 of the Public Health Service Act
 Memorandum of President of the United States, Oct. 21, 2004, 69 F.R. 70349, provided:
@@ -11393,9 +11801,11 @@ Section, Pub. L. 108–276, § 5, July 21, 2004, 118 Stat. 860, related to repor
 
   (A) a qualified pandemic or epidemic product (as defined in paragraph (7));
 
-  (B) a security countermeasure (as defined in [section 247d–6b(c)(1)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section247d–6b/c/1/B&num=0&edition=prelim)); or
+  (B) a security countermeasure (as defined in [section 247d–6b(c)(1)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section247d–6b/c/1/B&num=0&edition=prelim));
 
-  (C) a drug (as such term is defined in section 201(g)(1) of the Federal Food, Drug, and Cosmetic Act ([21 U.S.C. 321(g)(1)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section321/g/1&num=0&edition=prelim)), biological product (as such term is defined by [section 262(i) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section262/i&num=0&edition=prelim)), or device (as such term is defined by section 201(h) of the Federal Food, Drug and Cosmetic Act ([21 U.S.C. 321(h)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section321/h&num=0&edition=prelim)) that is authorized for emergency use in accordance with section 564, 564A, or 564B of the Federal Food, Drug, and Cosmetic Act [[21 U.S.C. 360bbb–3](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section360bbb–3&num=0&edition=prelim), 360bbb–3a, 360bbb–3b].
+  (C) a drug (as such term is defined in section 201(g)(1) of the Federal Food, Drug, and Cosmetic Act ([21 U.S.C. 321(g)(1)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section321/g/1&num=0&edition=prelim)), biological product (as such term is defined by [section 262(i) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section262/i&num=0&edition=prelim)), or device (as such term is defined by section 201(h) of the Federal Food, Drug and Cosmetic Act ([21 U.S.C. 321(h)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section321/h&num=0&edition=prelim)) that is authorized for emergency use in accordance with section 564, 564A, or 564B of the Federal Food, Drug, and Cosmetic Act [[21 U.S.C. 360bbb–3](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section360bbb–3&num=0&edition=prelim), 360bbb–3a, 360bbb–3b]; or
+
+  (D) a respiratory protective device that is approved by the National Institute for Occupational Safety and Health under part 84 of title 42, Code of Federal Regulations (or any successor regulations), and that the Secretary determines to be a priority for use during a public health emergency declared under [section 247d of this title](./chapter-6a-public-health-service.md#section-247d).
 
 (2) **Covered person** — The term “covered person”, when used with respect to the administration or use of a covered countermeasure, means—
 
@@ -11475,6 +11885,16 @@ The Federal Rules of Civil Procedure, referred to in subsec. (e)(6)(B), (9), are
 The Public Readiness and Emergency Preparedness Act, referred to in subsec. (h), is div. C of Pub. L. 109–148, Dec. 30, 2005, 119 Stat. 2818, which enacted this section, [section 247d–6e of this title](./chapter-6a-public-health-service.md#section-247d-6e), and provisions set out as a note under [section 201 of this title](./chapter-6a-public-health-service.md#section-201). For complete classification of this Act to the Code, see Short Title of 2005 Amendment note set out under [section 201 of this title](./chapter-6a-public-health-service.md#section-201) and Tables.
 
 #### Amendments
+2020—Subsec. (i)(1)(D). Pub. L. 116–136 amended subpar. (D) generally. Prior to amendment, subpar. (D) read as follows: “a personal respiratory protective device that is—
+
+“(i) approved by the National Institute for Occupational Safety and Health under part 84 of title 42, Code of Federal Regulations (or successor regulations);
+
+“(ii) subject to the emergency use authorization issued by the Secretary on March 2, 2020, or subsequent emergency use authorizations, pursuant to section 564 of the Federal Food, Drug, and Cosmetic Act [[21 U.S.C. 360bbb–3](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section360bbb–3&num=0&edition=prelim)] (authorizing emergency use of personal respiratory protective devices during the COVID–19 outbreak); and
+
+“(iii) used during the period beginning on January 27, 2020, and ending on October 1, 2024, in response to the public health emergency declared on January 31, 2020, pursuant to [section 247d of this title](./chapter-6a-public-health-service.md#section-247d) as a result of confirmed cases of 2019 Novel Coronavirus (2019-nCoV).”
+
+Pub. L. 116–127 added subpar. (D).
+
 2013—Subsec. (i)(1)(C). Pub. L. 113–5, § 402(g)(3)(A), inserted “, 564A, or 564B” after “564”.
 
 Subsec. (i)(7)(A)(iii). Pub. L. 113–5, § 402(g)(2), added cl. (iii).
@@ -11861,7 +12281,13 @@ Subsecs. (d) to (k). Pub. L. 109–417, § 303(b)(1), (4), (5), added subsecs. (
 
       (II) *Written determinations required* — The authority of this subparagraph may be exercised for a project that is expected to cost the Department of Health and Human Services in excess of $100,000,000 only upon a written determination by the Assistant Secretary for Financial Resources, that the use of such authority is essential to promoting the success of the project. The authority of the Assistant Secretary for Financial Resources under this subclause may not be delegated.
 
-    (iii) *Guidelines* — The Secretary shall establish guidelines regarding the use of the authority under clause (i). Such guidelines shall include auditing requirements.
+    (iii) *Authority during a public health emergency*
+
+      (I) *In general* — Notwithstanding clause (ii), the Secretary, shall, to the maximum extent practicable, use competitive procedures when entering into transactions to carry out projects under this subsection for purposes of a public health emergency declared by the Secretary under [section 247d of this title](./chapter-6a-public-health-service.md#section-247d). Any such transactions entered into during such public health emergency shall not be terminated solely due to the expiration of such public health emergency, if such public health emergency ends before the completion of the terms of such agreement.
+
+      (II) *Report* — After the expiration of the public health emergency declared by the Secretary under [section 247d of this title](./chapter-6a-public-health-service.md#section-247d), the Secretary shall provide a report to the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Energy and Commerce of the House of Representatives regarding the use of any funds pursuant to the authority under subclause (I), including any outcomes, benefits, and risks associated with the use of such funds, and a description of the reasons for the use of such authority for the project or projects.
+
+    (iv) *Guidelines* — The Secretary shall establish guidelines regarding the use of the authority under clause (i). Such guidelines shall include auditing requirements.
 
   (B) *Expedited authorities*
 
@@ -11963,13 +12389,13 @@ The Federal Tort Claims Act, referred to in subsec. (c)(5)(B)(ii), is title IV o
 Section 14 of the Federal Advisory Committee Act, referred to in subsec. (e)(2), is section 14 of Pub. L. 92–463, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Codification
-In subsec. (c)(5)(A)(ii)(II), “[section 1702(c) of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section1702/c&num=0&edition=prelim)” substituted for “section 16(c) of the Office of Federal Procurement Policy Act ([41 U.S.C. 414(c)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section414/c&num=0&edition=prelim))” on authority of Pub. L. 111–350, § 6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
-
 In subsec. (c)(5)(C), “[section 6101 of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section6101&num=0&edition=prelim)” substituted for “section 3709 of the Revised Statutes of the United States ([41 U.S.C. 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section5&num=0&edition=prelim))” on authority of Pub. L. 111–350, § 6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
 In subsec. (c)(5)(F), “[section 3304(a)(3) of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section3304/a/3&num=0&edition=prelim)” substituted for “section 303(c)(3) of the Federal Property and Administrative Services Act of 1949 ([41 U.S.C. 253(c)(3)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section253/c/3&num=0&edition=prelim))” on authority of Pub. L. 111–350, § 6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
 #### Amendments
+2020—Subsec. (c)(5)(A)(iii), (iv). Pub. L. 116–136 added cl. (iii) and redesignated former cl. (iii) as (iv).
+
 2019—Subsec. (a)(3). Pub. L. 116–22, § 602(1), struck out “, such as the Secretary of Defense may enter into under [section 2371 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2371&num=0&edition=prelim)” before period at end.
 
 Subsec. (c)(4)(A)(iii). Pub. L. 116–22, § 701(e)(2)(B), substituted “[section 247d–7f of this title](./chapter-6a-public-health-service.md#section-247d-7f)” for “section 405 of the Pandemic and All-Hazards Preparedness Act”.
@@ -11984,7 +12410,7 @@ Subsec. (c)(5)(A)(i). Pub. L. 116–22, § 602(2)(A), substituted “(as defined
 
 Subsec. (c)(5)(A)(ii)(I). Pub. L. 116–22, § 602(2)(B)(i), amended subcl. (I) generally. Prior to amendment, text read as follows: “Subsections (b), (c), and (h) of section 845 of the National Defense Authorization Act for Fiscal Year 1994 ([10 U.S.C. 2371](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2371&num=0&edition=prelim) note) shall apply to other transactions under this subparagraph as if such transactions were for prototype projects described by subsection (a) of such section 845.”
 
-Subsec. (c)(5)(A)(ii)(II). Pub. L. 116–22, § 602(2)(B)(ii), substituted “$100,000,000” for “$20,000,000”, “Assistant Secretary for Financial Resources” for “senior procurement executive for the Department (as designated for purpose of [section 1702(c) of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section1702/c&num=0&edition=prelim))”, and “Assistant Secretary for Financial Resources under” for “senior procurement executive under”.
+Subsec. (c)(5)(A)(ii)(II). Pub. L. 116–22, § 602(2)(B)(ii), substituted “$100,000,000” for “$20,000,000”, “Assistant Secretary for Financial Resources” for “senior procurement executive for the Department (as designated for purpose of section 16(c) of the Office of Federal Procurement Policy Act ([41 U.S.C. 414(c)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section414/c&num=0&edition=prelim)))”, and “Assistant Secretary for Financial Resources under” for “senior procurement executive under”.
 
 Subsec. (c)(6). Pub. L. 116–22, § 303(b), substituted “older adults” for “elderly” and inserted “with relevant characteristics that warrant consideration during the process of researching and developing such countermeasures and products” before period at end.
 
@@ -12153,7 +12579,7 @@ Donald J. Trump.
 
 
 <a id="section-247d-7f"></a>
-## § 247d–7f. Collaboration and Coordination
+## § 247d–7f. Collaboration and coordination
 **(a) Limited antitrust exemption**
 
 (1) **Meetings and consultations to discuss security countermeasures, qualified countermeasures, or qualified pandemic or epidemic product development**
@@ -12665,6 +13091,10 @@ Section was formerly classified to [section 341h of title 5](https://uscode.hous
 #### Prior Provisions
 Provisions similar to those in this section were contained in the following prior appropriation acts:
 
+Pub. L. 116–93, div. B, title II, Dec. 20, 2019, 133 Stat. 2402.
+
+Pub. L. 116–6, div. C, title II, Feb. 15, 2019, 133 Stat. 107.
+
 Pub. L. 115–141, div. B, title II, Mar. 23, 2018, 132 Stat. 415.
 
 Pub. L. 115–31, div. B, title II, May 5, 2017, 131 Stat. 198.
@@ -12855,12 +13285,12 @@ For abolition of Immigration and Naturalization Service, transfer of functions, 
 
 (2) commissioned officers, ships’ officers, and members of the crews of vessels of the National Oceanic and Atmospheric Administration on active duty, including those on shore duty and those on detached duty; and
 
-(3) commissioned officers of the Regular or Reserve Corps of the Public Health Service on active duty;
+(3) commissioned officers of the Regular or Reserve Corps 11 See Change of Name note below. of the Public Health Service on active duty;
 shall be entitled to medical, surgical, and dental treatment and hospitalization by the Service. The Surgeon General may detail commissioned officers for duty aboard vessels of the Coast Guard or the National Oceanic and Atmospheric Administration.
 
 **(b) Health care for involuntarily separated officers and dependents**
 
-(1) The Secretary may provide health care for an officer of the Regular or Reserve Corps involuntarily separated from the Service, and for any dependent of such officer, if—
+(1) The Secretary may provide health care for an officer of the Regular or Reserve Corps 1 involuntarily separated from the Service, and for any dependent of such officer, if—
 
   (A) the officer or dependent was receiving health care at the expense of the Service at the time of separation; and
 
@@ -12884,6 +13314,8 @@ Subsec. (c). Pub. L. 88–71, § 2(b), inserted “or Coast and Geodetic Survey�
 1956—Subsec. (b). Act June 7, 1956, repealed subsec. (b) except insofar as it related to dependent members of families of ships’ officers and members of crews of vessels of Coast and Geodetic Survey.
 
 #### Change of Name
+Reference to Reserve Corps of the Public Health Service deemed to be a reference to the Ready Reserve Corps, see [section 402(c)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section402/c/3&num=0&edition=prelim).
+
 Coast and Geodetic Survey consolidated with Weather Bureau to form a new agency in Department of Commerce to be known as Environmental Science Services Administration, and commissioned officers of Survey transferred to ESSA, by Reorg. Plan No. 2 of 1965, eff. July 13, 1965, 30 F.R. 8819, 79 Stat. 1318, set out in the Appendix to Title 5, Government Organization and Employees. Reorg. Plan No. 4 of 1970, eff. Oct. 3, 1970, 35 F.R. 15627, 84 Stat. 2090, abolished Environmental Science Services Administration, established National Oceanic and Atmospheric Administration, and redesignated Commissioned Officer Corps of ESSA as Commissioned Officer Corps of NOAA. For further details, see Transfer of Functions note set out under [section 851 of Title 33](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section851&num=0&edition=prelim), Navigation and Navigable Waters.
 
 #### Effective Date of 1956 Amendment
@@ -13207,9 +13639,11 @@ Pub. L. 97–377, title I, § 101(e)(1) [title II, § 205], Dec. 21, 1982, 96 St
 
   (E) expanding the use of telehealth and technology-enabled collaborative learning and capacity building models;
 
-  (F) care integration, including integration of behavioral health, mental health, or substance use disorder services; and
+  (F) care integration, including integration of behavioral health, mental health, or substance use disorder services;
 
-  (G) addressing emerging public health or substance use disorder issues to meet the health needs of the population served by the health center.
+  (G) addressing emerging public health or substance use disorder issues to meet the health needs of the population served by the health center; and
+
+  (H) improving access to recommended immunizations.
 
 (2) **Sustainability** — In making supplemental awards under this subsection, the Secretary may consider whether the health center involved has submitted a plan for continuing the activities funded under this subsection after supplemental funding is expended.
 
@@ -13593,6 +14027,8 @@ Pub. L. 97–377, title I, § 101(e)(1) [title II, § 205], Dec. 21, 1982, 96 St
 
 (5) **Funding for participation of health centers in All of Us Research Program** — In addition to any amounts made available pursuant to paragraph (1) of this subsection, [section 282a of this title](./chapter-6a-public-health-service.md#section-282a), or [section 254b–2 of this title](./chapter-6a-public-health-service.md#section-254b-2), there is authorized to be appropriated, and there is appropriated, out of any monies in the Treasury not otherwise appropriated, to the Secretary $25,000,000 for fiscal year 2018 to support the participation of health centers in the All of Us Research Program under the Precision Medicine Initiative under [section 289g–5 of this title](./chapter-6a-public-health-service.md#section-289g-5).
 
+(6) **Additional amounts for supplemental awards** — In addition to any amounts made available pursuant to this subsection, [section 282a of this title](./chapter-6a-public-health-service.md#section-282a), or section 254b—2 of this title, there is authorized to be appropriated, and there is appropriated, out of any monies in the Treasury not otherwise appropriated, $1,320,000,000 for fiscal year 2020 for supplemental awards under subsection (d) for the detection of SARS–CoV–2 or the prevention, diagnosis, and treatment of COVID–19.
+
 ### Statutory Notes
 
 #### References in Text
@@ -13612,6 +14048,10 @@ Another prior section 254b, act July 1, 1944, ch. 373, title III, § 329, as add
 A prior section 330 of act July 1, 1944, was classified to [section 254c of this title](./chapter-6a-public-health-service.md#section-254c) prior to the general amendment of this subpart by Pub. L. 104–299.
 
 #### Amendments
+2020—Subsec. (d)(1)(H). Pub. L. 116–260 added subpar. (H).
+
+Subsec. (r)(6). Pub. L. 116–136 added par. (6).
+
 2018—Subsec. (b)(1)(A)(ii), (2)(A). Pub. L. 115–123, § 50901(b)(1), (2), substituted “use disorder” for “abuse”.
 
 Subsec. (c)(1). Pub. L. 115–123, § 50901(b)(3), substituted “Centers” for “In general” in heading, struck out subpar. (A) designation and heading, redesignated cls. (i) to (v) of former subpar. (A) as subpars. (A) to (E), respectively, realigned margins, and struck out former subpars. (B) to (D) which related to managed care networks and plans, practice management networks, and use of funds, respectively.
@@ -13833,13 +14273,46 @@ Pub. L. 111–148, title V, § 5602, Mar. 23, 2010, 124 Stat. 677, provided that
 Pub. L. 110–355, § 2(b)(1)–(3), Oct. 8, 2008, 122 Stat. 3988, 3989, provided that: “(1) Definitions.—For purposes of this subsection—“(A) the term ‘community health center’ means a health center receiving assistance under section 330 of the Public Health Service Act ([42 U.S.C. 254b](./chapter-6a-public-health-service.md#section-254b)); and “(B) the term ‘medically underserved population’ has the meaning given that term in such section 330. “(2) School-based health center study.—“(A) In general.—Not later than 2 years after the date of enactment of this Act [Oct. 8, 2008], the Comptroller General of the United States shall issue a study of the economic costs and benefits of school-based health centers and the impact on the health of students of these centers. “(B) Content.—In conducting the study under subparagraph (A), the Comptroller General of the United States shall analyze—“(i) the impact that Federal funding could have on the operation of school-based health centers; “(ii) any cost savings to other Federal programs derived from providing health services in school-based health centers; “(iii) the effect on the Federal Budget and the health of students of providing Federal funds to school-based health centers and clinics, including the result of providing disease prevention and nutrition information; “(iv) the impact of access to health care from school-based health centers in rural or underserved areas; and “(v) other sources of Federal funding for school-based health centers. “(3) Health care quality study.—“(A) In general.—Not later than 1 year after the date of enactment of this Act [Oct. 8, 2008], the Secretary of Health and Human Services (referred to in this Act [see Short Title of 2008 Amendment note set out under [section 201 of this title](./chapter-6a-public-health-service.md#section-201)] as the ‘Secretary’), acting through the Administrator of the Health Resources and Services Administration, and in collaboration with the Agency for Healthcare Research and Quality, shall prepare and submit to the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Energy and Commerce of the House of Representatives a report that describes agency efforts to expand and accelerate quality improvement activities in community health centers. “(B) Content.—The report under subparagraph (A) shall focus on—“(i) Federal efforts, as of the date of enactment of this Act, regarding health care quality in community health centers, including quality data collection, analysis, and reporting requirements; “(ii) identification of effective models for quality improvement in community health centers, which may include models that—“(I) incorporate care coordination, disease management, and other services demonstrated to improve care; “(II) are designed to address multiple, co-occurring diseases and conditions; “(III) improve access to providers through non-traditional means, such as the use of remote monitoring equipment; “(IV) target various medically underserved populations, including uninsured patient populations; “(V) increase access to specialty care, including referrals and diagnostic testing; and “(VI) enhance the use of electronic health records to improve quality; “(iii) efforts to determine how effective quality improvement models may be adapted for implementation by community health centers that vary by size, budget, staffing, services offered, populations served, and other characteristics determined appropriate by the Secretary; “(iv) types of technical assistance and resources provided to community health centers that may facilitate the implementation of quality improvement interventions; “(v) proposed or adopted methodologies for community health center evaluations of quality improvement interventions, including any development of new measures that are tailored to safety-net, community-based providers; “(vi) successful strategies for sustaining quality improvement interventions in the long-term; and “(vii) partnerships with other Federal agencies and private organizations or networks as appropriate, to enhance health care quality in community health centers. “(C) Dissemination.—The Administrator of the Health Resources and Services Administration shall establish a formal mechanism or mechanisms for the ongoing dissemination of agency initiatives, best practices, and other information that may assist health care quality improvement efforts in community health centers.”
 
 #### Guarantee Study
-Pub. L. 107–251, title V, § 501, Oct. 26, 2002, 116 Stat. 1664, as amended by Pub. L. 108–163, § 2(n)(2), Dec. 6, 2003, 117 Stat. 2023, provided that: “The Secretary of Health and Human Services shall conduct a study regarding the ability of the Department of Health and Human Services to provide for guarantees of solvency for managed care networks or plans involving health centers receiving funding under section 330 of the Public Health Service Act [[42 U.S.C. 254b](./chapter-6a-public-health-service.md#section-254b)]. The Secretary shall prepare and submit a report to the appropriate Committees of Congress regarding such ability not later than 2 years after the date of enactment of the Health Care Safety Net Amendments of 2002 [Oct. 26, 2002].”
+Pub. L. 107–251, title V, § 501, Oct. 26, 2002, 116 Stat. 1664, as amended by Pub. L. 108–163, § 2(n)(2), Dec. 6, 2003, 117 Stat. 2023, required the Secretary of Health and Human Services to conduct a study regarding the ability of the Department of Health and Human Services to provide for guarantees of solvency for managed care networks or plans involving health centers receiving funding under this section and to prepare and submit a report to Congress regarding such ability by 2 years after Oct. 26, 2002.
 
 #### Reference to Community, Migrant, Public Housing, or Homeless Health Center Considered Reference to Health Center
 Pub. L. 104–299, § 4(c), Oct. 11, 1996, 110 Stat. 3645, provided that: “Whenever any reference is made in any provision of law, regulation, rule, record, or document to a community health center, migrant health center, public housing health center, or homeless health center, such reference shall be considered a reference to a health center.”
 
 #### Legislative Proposal for Changes Conforming to Pub. L. 104–299
 Pub. L. 104–299, § 4(e), Oct. 11, 1996, 110 Stat. 3645, provided that: “After consultation with the appropriate committees of the Congress, the Secretary of Health and Human Services shall prepare and submit to the Congress a legislative proposal in the form of an implementing bill containing technical and conforming amendments to reflect the changes made by this Act [see Short Title of 1996 Amendments note set out under [section 201 of this title](./chapter-6a-public-health-service.md#section-201)].”
+
+#### Ex. Ord. No. 13937. Access to Affordable Life-Saving Medications
+Ex. Ord. No. 13937, July 24, 2020, 85 F.R. 45755, provided:
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered as follows:
+
+Section 1. Purpose. Insulin is a critical and life-saving medication that approximately 8 million Americans rely on to manage diabetes. Likewise, injectable epinephrine is a life-saving medication used to stop severe allergic reactions.
+
+The price of insulin in the United States has risen dramatically over the past decade. The list price for a single vial of insulin today is often more than $250 and most patients use at least two vials per month. As for injectable epinephrine, recent increased competition is helping to drive prices down. Nevertheless, the price for some types of injectable epinephrine remains more than $600 per kit. While Americans with diabetes and severe allergic reactions may have access to affordable insulin and injectable epinephrine through commercial insurance or Federal programs such as Medicare and Medicaid, many Americans still struggle to purchase these products.
+
+Federally Qualified Health Centers (FQHCs), as defined in section 1905(l)(2)(B)(i) and (ii) of the Social Security Act, as amended, [42 U.S.C. 1396d(l)(2)(B)(i)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1396d/l/2/B/i&num=0&edition=prelim) and (ii), receive discounted prices through the 340B Prescription Drug Program on prescription drugs. Due to the sharp increases in list prices for many insulins and some types of injectable epinephrine in recent years, many of these products may be subject to the “penny pricing” policy when distributed to FQHCs, meaning FQHCs may purchase the drug at a price of one penny per unit of measure. These steep discounts, however, are not always passed through to low-income Americans at the point of sale. Those with low-incomes can be exposed to high insulin and injectable epinephrine prices, as they often do not benefit from discounts negotiated by insurers or the Federal or State governments.
+
+Sec. 2. Policy. It is the policy of the United States to enable Americans without access to affordable insulin and injectable epinephrine through commercial insurance or Federal programs, such as Medicare and Medicaid, to purchase these pharmaceuticals from an FQHC at a price that aligns with the cost at which the FQHC acquired the medication.
+
+Sec. 3. Improving the Availability of Insulin and Injectable Epinephrine for the Uninsured. To the extent permitted by law, the Secretary of Health and Human Services shall take action to ensure future grants available under section 330(e) of the Public Health Service Act, as amended, [42 U.S.C. 254b(e)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section254b/e&num=0&edition=prelim), are conditioned upon FQHCs’ having established practices to make insulin and injectable epinephrine available at the discounted price paid by the FQHC grantee or sub-grantee under the 340B Prescription Drug Program (plus a minimal administration fee) to individuals with low incomes, as determined by the Secretary, who:
+
+(a) have a high cost sharing requirement for either insulin or injectable epinephrine;
+
+(b) have a high unmet deductible; or
+
+(c) have no health care insurance.
+
+Sec. 4. General Provisions. (a) Nothing in this order shall be construed to impair or otherwise affect:
+
+(i) the authority granted by law to an executive department or agency, or the head thereof;
+
+(ii) the functions of the Director of the Office of Management and Budget relating to budgetary, administrative, or legislative proposals.
+
+(b) This order shall be implemented consistent with applicable law and subject to the availability of appropriations.
+
+(c) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+
+Donald J. Trump.
 
 #### Medicare Demonstration To Test Medical Homes in Federally Qualified Health Centers
 Memorandum of President of the United States, Dec. 9, 2009, 74 F.R. 66207, provided:
@@ -13896,7 +14369,7 @@ Section was enacted as part of the Patient Protection and Affordable Care Act, a
 
   (E) $3,600,000,000 for each of fiscal years 2015 through 2017; and
 
-  (F) $3,800,000,000 for fiscal year 2018, $4,000,000,000 for fiscal year 2019, and $887,671,223 for the period beginning on October 1, 2019, and ending on December 20, 2019; and
+  (F) $3,800,000,000 for fiscal year 2018 and $4,000,000,000 for each of fiscal years 2019 through 2023; and
 
 (2) to be transferred to the Secretary of Health and Human Services to provide enhanced funding for the National Health Service Corps—
 
@@ -13910,9 +14383,11 @@ Section was enacted as part of the Patient Protection and Affordable Care Act, a
 
   (E) $310,000,000 for each of fiscal years 2015 through 2017;
 
-  (F) $310,000,000 for each of fiscal years 2018 and 2019; and
+  (F) $310,000,000 for each of fiscal years 2018 and 2019;
 
-  (G) $68,794,521 for the period beginning on October 1, 2019, and ending on December 20, 2019.
+  (G) $310,000,000 for fiscal year 2020; and
+
+  (H) $310,000,000 for each of fiscal years 2021 through 2023.
 
 **(c) Construction** There is authorized to be appropriated, and there is appropriated, out of any monies in the Treasury not otherwise appropriated, $1,500,000,000 to be available for fiscal years 2011 through 2015 to be used by the Secretary of Health and Human Services for the construction and renovation of community health centers.
 
@@ -13926,11 +14401,33 @@ Section was enacted as part of the Patient Protection and Affordable Care Act, a
 Section was enacted as part of the Patient Protection and Affordable Care Act, and not as part of the Public Health Service Act which comprises this chapter.
 
 #### Amendments
-2019—Subsec. (b)(1)(F). Pub. L. 116–69, § 1101(a), substituted “$887,671,223” for “$569,863,014” and “December 20, 2019” for “November 21, 2019”.
+2020—Subsec. (b)(1)(F). Pub. L. 116–260, § 301(a), substituted “and $4,000,000,000 for each of fiscal years 2019 through 2023” for “, $4,000,000,000 for fiscal year 2019, $4,000,000,000 for fiscal year 2020, and $865,753,425 for the period beginning on October 1, 2020, and ending on December 18, 2020”.
+
+Pub. L. 116–215, § 1201(a), substituted “$865,753,425” for “$789,041,096” and “December 18, 2020” for “December 11, 2020”.
+
+Pub. L. 116–159, § 2101(a), substituted “$789,041,096” for “$668,493,151” and “December 11, 2020” for “November 30, 2020”.
+
+Pub. L. 116–136, § 3831(a), substituted “$4,000,000,000 for fiscal year 2020, and $668,493,151 for the period beginning on October 1, 2020, and ending on November 30, 2020” for “and $2,575,342,466 for the period beginning on October 1, 2019, and ending on May 22, 2020”.
+
+Subsec. (b)(2)(G). Pub. L. 116–136, § 3831(b), added subpar. (G) and struck out former subpar. (G) which read as follows: “$199,589,041 for the period beginning on October 1, 2019, and ending on May 22, 2020.”
+
+Subsec. (b)(2)(H). Pub. L. 116–260, § 301(b), substituted “$310,000,000 for each of fiscal years 2021 through 2023” for “$67,095,890 for the period beginning on October 1, 2020, and ending on December 18, 2020”.
+
+Pub. L. 116–215, § 1201(b), substituted “$67,095,890” for ‘$61,150,685” and “December 18, 2020” for “December 11, 2020”.
+
+Pub. L. 116–159, § 2101(b), substituted “$61,150,685” for “$51,808,219” and “December 11, 2020” for “November 30, 2020”.
+
+Pub. L. 116–136, § 3831(b), added subpar. (H).
+
+2019—Subsec. (b)(1)(F). Pub. L. 116–94, § 401(a), substituted “$2,575,342,466” for “$887,671,223” and “May 22, 2020” for “December 20, 2019”.
+
+Pub. L. 116–69, § 1101(a), substituted “$887,671,223” for “$569,863,014” and “December 20, 2019” for “November 21, 2019”.
 
 Pub. L. 116–59, § 1101(a), substituted “2018, $4,000,000,000 for fiscal year 2019, and $569,863,014 for the period beginning on October 1, 2019, and ending on November 21, 2019; and” for “2018 and $4,000,000,000 for fiscal year 2019.”
 
-Subsec. (b)(2)(G). Pub. L. 116–69, § 1101(a), substituted “$887,671,223” for “$569,863,014” and “December 20, 2019” for “November 21, 2019”.
+Subsec. (b)(2)(G). Pub. L. 116–94, § 401(b), substituted “$199,589,041” for “$68,794,521” and “May 22, 2020” for “December 20, 2019”.
+
+Pub. L. 116–69, § 1101(a), substituted “$887,671,223” for “$569,863,014” and “December 20, 2019” for “November 21, 2019”.
 
 Pub. L. 116–59, § 1101(b), added subpar. (G).
 
@@ -13979,31 +14476,31 @@ Subsec. (b)(1)(E). Pub. L. 111–152, § 2303(5), substituted “3,600,000,000�
 
 (2) **Grants**
 
-  (A) *In general* — In carrying out the programs described in paragraph (1), the Director may award grants under subsections (e), (f), and (g) to expand access to, coordinate, and improve the quality of essential health care services, and enhance the delivery of health care, in rural areas.
+  (A) *In general* — In carrying out the programs described in paragraph (1), the Director may award grants under subsections (e), (f), and (g) to expand access to, coordinate, and improve the quality of basic health care services, and enhance the delivery of health care, in rural areas.
 
-  (B) *Types of grants* — The Director may award the grants—
+  (B) *Types of grants* — The Director may award the grants to—
 
-    (i) to promote expanded delivery of health care services in rural areas under subsection (e);
+    (i) promote expanded delivery of health care services in rural areas under subsection (e);
 
-    (ii) to provide for the planning and implementation of integrated health care networks in rural areas under subsection (f); and
+    (ii) provide for the planning and implementation of integrated health care networks in rural areas under subsection (f); and
 
-    (iii) to provide for the planning and implementation of small health care provider quality improvement activities under subsection (g).
+    (iii) provide for the planning and implementation of small health care provider quality improvement activities under subsection (g).
 
 **(e) Rural health care services outreach grants**
 
-(1) **Grants** — The Director may award grants to eligible entities to promote rural health care services outreach by expanding the delivery of health care services to include new and enhanced services in rural areas. The Director may award the grants for periods of not more than 3 years.
+(1) **Grants** — The Director may award grants to eligible entities to promote rural health care services outreach by improving and expanding the delivery of health care services to include new and enhanced services in rural areas, through community engagement and evidence-based or innovative, evidence-informed models. The Director may award the grants for periods of not more than 5 years.
 
-(2) **Eligibility** — To be eligible to receive a grant under this subsection for a project, an entity—
+(2) **Eligibility** — To be eligible to receive a grant under this subsection for a project, an entity shall—
 
-  (A) shall be a rural public or rural nonprofit private entity;
+  (A) be an entity with demonstrated experience serving, or the capacity to serve, rural underserved populations;
 
-  (B) shall represent a consortium composed of members—
+  (B) represent a consortium composed of members that—
 
-    (i) that include 3 or more health care providers; and
+    (i) include 3 or more health care providers; and
 
-    (ii) that may be nonprofit or for-profit entities; and
+    (ii) may be nonprofit or for-profit entities; and
 
-  (C) shall not previously have received a grant under this subsection for the same or a similar project, unless the entity is proposing to expand the scope of the project or the area that will be served through the project.
+  (C) not previously have received a grant under this subsection for the same or a similar project, unless the entity is proposing to expand the scope of the project or the area that will be served through the project.
 
 (3) **Applications** — To be eligible to receive a grant under this subsection, an eligible entity, in consultation with the appropriate State office of rural health or another appropriate State entity, shall prepare and submit to the Secretary an application, at such time, in such manner, and containing such information as the Secretary may require, including—
 
@@ -14011,7 +14508,7 @@ Subsec. (b)(1)(E). Pub. L. 111–152, § 2303(5), substituted “3,600,000,000�
 
   (B) a description of the manner in which the project funded under the grant will meet the health care needs of rural underserved populations in the local community or region to be served;
 
-  (C) a description of how the local community or region to be served will be involved in the development and ongoing operations of the project;
+  (C) a description of how the rural underserved populations in the local community or region to be served will be involved in the development and ongoing operations of the project;
 
   (D) a plan for sustaining the project after Federal support for the project has ended;
 
@@ -14023,27 +14520,27 @@ Subsec. (b)(1)(E). Pub. L. 111–152, § 2303(5), substituted “3,600,000,000�
 
 (1) **Grants**
 
-  (A) *In general* — The Director may award rural health network development grants to eligible entities to promote, through planning and implementation, the development of integrated health care networks that have combined the functions of the entities participating in the networks in order to—
+  (A) *In general* — The Director may award rural health network development grants to eligible entities to plan, develop, and implement integrated health care networks that collaborate in order to—
 
     (i) achieve efficiencies;
 
-    (ii) expand access to, coordinate, and improve the quality of essential health care services; and
+    (ii) expand access to, coordinate, and improve the quality of basic health care services and associated health outcomes; and
 
     (iii) strengthen the rural health care system as a whole.
 
-  (B) *Grant periods* — The Director may award such a rural health network development grant for implementation activities for a period of 3 years. The Director may also award such a rural health network development grant for planning activities for a period of 1 year, to assist in the development of an integrated health care network, if the proposed participants in the network do not have a history of collaborative efforts and a 3-year grant would be inappropriate.
+  (B) *Grant periods* — The Director may award grants under this subsection for periods of not more than 5 years.
 
-(2) **Eligibility** — To be eligible to receive a grant under this subsection, an entity—
+(2) **Eligibility** — To be eligible to receive a grant under this subsection, an entity shall—
 
-  (A) shall be a rural public or rural nonprofit private entity;
+  (A) be an entity with demonstrated experience serving, or the capacity to serve, rural underserved populations;
 
-  (B) shall represent a network composed of participants—
+  (B) represent a network composed of participants that—
 
-    (i) that include 3 or more health care providers; and
+    (i) include 3 or more health care providers; and
 
-    (ii) that may be nonprofit or for-profit entities; and
+    (ii) may be nonprofit or for-profit entities; and
 
-  (C) shall not previously have received a grant under this subsection (other than a grant for planning activities) for the same or a similar project.
+  (C) not previously have received a grant under this subsection (other than a grant for planning activities) for the same or a similar project.
 
 (3) **Applications** — To be eligible to receive a grant under this subsection, an eligible entity, in consultation with the appropriate State office of rural health or another appropriate State entity, shall prepare and submit to the Secretary an application, at such time, in such manner, and containing such information as the Secretary may require, including—
 
@@ -14057,9 +14554,9 @@ Subsec. (b)(1)(E). Pub. L. 111–152, § 2303(5), substituted “3,600,000,000�
 
     (ii) the degree to which the participants are ready to integrate their functions; and
 
-    (iii) how the local community or region to be served will benefit from and be involved in the activities carried out by the network;
+    (iii) how the rural underserved populations in the local community or region to be served will benefit from and be involved in the development and ongoing operations of the network;
 
-  (D) a description of how the local community or region to be served will experience increased access to quality health care services across the continuum of care as a result of the integration activities carried out by the network;
+  (D) a description of how the rural underserved populations in the local community or region to be served will experience increased access to quality health care services across the continuum of care as a result of the integration activities carried out by the network;
 
   (E) a plan for sustaining the project after Federal support for the project has ended;
 
@@ -14069,17 +14566,17 @@ Subsec. (b)(1)(E). Pub. L. 111–152, § 2303(5), substituted “3,600,000,000�
 
 **(g) Small health care provider quality improvement grants**
 
-(1) **Grants** — The Director may award grants to provide for the planning and implementation of small health care provider quality improvement activities. The Director may award the grants for periods of 1 to 3 years.
+(1) **Grants** — The Director may award grants to provide for the planning and implementation of small health care provider quality improvement activities, including activities related to increasing care coordination, enhancing chronic disease management, and improving patient health outcomes. The Director may award the grants for periods of 1 to 5 years.
 
-(2) **Eligibility** — To be eligible for a grant under this subsection, an entity—
+(2) **Eligibility** — To be eligible for a grant under this subsection, an entity shall—
 
   (A)
 
-    (i) shall be a rural public or rural nonprofit private health care provider or provider of health care services, such as a critical access hospital or a rural health clinic; or
+    (i) be a rural public or rural nonprofit private health care provider or provider of health care services, such as a critical access hospital or a rural health clinic; or
 
-    (ii) shall be another rural provider or network of small rural providers identified by the Secretary as a key source of local care; and
+    (ii) be another rural provider or network of small rural providers identified by the Secretary as a key source of local or regional care; and
 
-  (B) shall not previously have received a grant under this subsection for the same or a similar project.
+  (B) not previously have received a grant under this subsection for the same or a similar project.
 
 (3) **Applications** — To be eligible to receive a grant under this subsection, an eligible entity, in consultation with the appropriate State office of rural health or another appropriate State entity shall prepare and submit to the Secretary an application, at such time, in such manner, and containing such information as the Secretary may require, including—
 
@@ -14089,7 +14586,7 @@ Subsec. (b)(1)(E). Pub. L. 111–152, § 2303(5), substituted “3,600,000,000�
 
   (C) a description of the manner in which the project funded under the grant will assure continuous quality improvement in the provision of services by the entity;
 
-  (D) a description of how the local community or region to be served will experience increased access to quality health care services across the continuum of care as a result of the activities carried out by the entity;
+  (D) a description of how the rural underserved populations in the local community or region to be served will experience increased access to quality health care services across the continuum of care as a result of the activities carried out by the entity;
 
   (E) a plan for sustaining the project after Federal support for the project has ended;
 
@@ -14109,15 +14606,15 @@ Subsec. (b)(1)(E). Pub. L. 111–152, § 2303(5), substituted “3,600,000,000�
 
 (2) **Coordination with other agencies** — The Secretary shall coordinate activities carried out under grant programs described in this section, to the extent practicable, with Federal and State agencies and nonprofit organizations that are operating similar grant programs, to maximize the effect of public dollars in funding meritorious proposals.
 
-(3) **Preference** — In awarding grants under this section, the Secretary shall give preference to entities that—
+(3) **Preference** — In awarding grants under this section, the Secretary, as appropriate, shall give preference to entities that—
 
   (A) are located in health professional shortage areas or medically underserved communities, or serve medically underserved populations; or
 
   (B) propose to develop projects with a focus on primary care, and wellness and prevention strategies.
 
-**(i) Report** Not later than September 30, 2005, the Secretary shall prepare and submit to the appropriate committees of Congress a report on the progress and accomplishments of the grant programs described in subsections (e), (f), and (g).
+**(i) Report** Not later than 4 years after March 27, 2020, and every 5 years thereafter, the Secretary shall prepare and submit to the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Energy and Commerce of the House of Representatives a report on the activities and outcomes of the grant programs under subsections (e), (f), and (g), including the impact of projects funded under such programs on the health status of rural residents with chronic conditions.
 
-**(j) Authorization of appropriations** There are authorized to be appropriated to carry out this section $45,000,000 for each of fiscal years 2008 through 2012.
+**(j) Authorization of appropriations** There are authorized to be appropriated to carry out this section $79,500,000 for each of fiscal years 2021 through 2025.
 
 ### Statutory Notes
 
@@ -14125,6 +14622,56 @@ Subsec. (b)(1)(E). Pub. L. 111–152, § 2303(5), substituted “3,600,000,000�
 A prior section 254c, act July 1, 1944, ch. 373, title III, § 330, as added July 29, 1975, Pub. L. 94–63, title V, § 501(a), 89 Stat. 342; amended Apr. 22, 1976, Pub. L. 94–278, title VIII, § 801(b), 90 Stat. 415; Aug. 1, 1977, Pub. L. 95–83, title III, § 304, 91 Stat. 388; Nov. 10, 1978, Pub. L. 95–626, title I, § 104(a)–(d)(3)(B), (4), (5), (e), (f), 92 Stat. 3556–3559; July 10, 1979, Pub. L. 96–32, §§ 6(b)–(d), 7(c), 93 Stat. 83, 84; Oct. 17, 1979, Pub. L. 96–88, title V, § 509(b), 93 Stat. 695; Oct. 19, 1980, Pub. L. 96–470, title I, § 106(e), 94 Stat. 2238; Aug. 13, 1981, Pub. L. 97–35, title IX, §§ 903(a), 905, 906, 95 Stat. 561, 562; Jan. 4, 1983, Pub. L. 97–414, § 8(e), 96 Stat. 2060; Apr. 24, 1986, Pub. L. 99–280, §§ 2–4, 100 Stat. 399, 400; Aug. 10, 1988, Pub. L. 100–386, §§ 3, 4, 102 Stat. 921, 923; Nov. 4, 1988, Pub. L. 100–607, title I, § 163(3), 102 Stat. 3062; Dec. 19, 1989, Pub. L. 101–239, title VI, § 6103(e)(5), 103 Stat. 2207; Nov. 6, 1990, Pub. L. 101–527, § 9(a), 104 Stat. 2332; Oct. 27, 1992, Pub. L. 102–531, title III, § 309(b), 106 Stat. 3500, related to community health centers, prior to the general amendment of this subpart by Pub. L. 104–299, § 2.
 
 #### Amendments
+2020—Subsec. (d)(2)(A). Pub. L. 116–136, § 3213(1)(A), substituted “basic” for “essential”.
+
+Subsec. (d)(2)(B). Pub. L. 116–136, § 3213(1)(B), inserted “to” after “grants” in introductory provisions and struck out “to” at beginning of cls. (i) to (iii).
+
+Subsec. (e)(1). Pub. L. 116–136, § 3213(2)(A), inserted “improving and” after “outreach by” and “, through community engagement and evidence-based or innovative, evidence-informed models” after “rural areas” and substituted “5 years” for “3 years”.
+
+Subsec. (e)(2). Pub. L. 116–136, § 3213(2)(B)(i), inserted “shall” after “entity” in introductory provisions.
+
+Subsec. (e)(2)(A). Pub. L. 116–136, § 3213(2)(B)(ii), substituted “be an entity with demonstrated experience serving, or the capacity to serve, rural underserved populations” for “shall be a rural public or rural nonprofit private entity”.
+
+Subsec. (e)(2)(B). Pub. L. 116–136, § 3213(2)(B)(iii), (iv), struck out “shall” before “represent” and inserted “that” after “members” in introductory provisions and struck out “that” at beginning of cls. (i) and (ii).
+
+Subsec. (e)(2)(C). Pub. L. 116–136, § 3213(2)(B)(iii), struck out “shall” before “not previously”.
+
+Subsec. (e)(3)(C). Pub. L. 116–136, § 3213(2)(C), substituted “the rural underserved populations in the local community or region” for “the local community or region”.
+
+Subsec. (f)(1)(A). Pub. L. 116–136, § 3213(3)(A)(i)(I), substituted “plan, develop, and implement integrated health care networks that collaborate” for “promote, through planning and implementation, the development of integrated health care networks that have combined the functions of the entities participating in the networks” in introductory provisions.
+
+Subsec. (f)(1)(A)(ii). Pub. L. 116–136, § 3213(3)(A)(i)(II), substituted “basic health care services and associated health outcomes” for “essential health care services”.
+
+Subsec. (f)(1)(B). Pub. L. 116–136, § 3213(3)(A)(ii), amended subpar. (B) generally. Prior to amendment, text read as follows: “The Director may award such a rural health network development grant for implementation activities for a period of 3 years. The Director may also award such a rural health network development grant for planning activities for a period of 1 year, to assist in the development of an integrated health care network, if the proposed participants in the network do not have a history of collaborative efforts and a 3-year grant would be inappropriate.”
+
+Subsec. (f)(2). Pub. L. 116–136, § 3213(3)(B)(i), inserted “shall” after “entity” in introductory provisions.
+
+Subsec. (f)(2)(A). Pub. L. 116–136, § (3)(B)(ii), substituted “be an entity with demonstrated experience serving, or the capacity to serve, rural underserved populations” for “shall be a rural public or rural nonprofit private entity”.
+
+Subsec. (f)(2)(B). Pub. L. 116–136, § 3213(3)(B)(iii), struck out “shall” before “represent” and inserted “that” after “participants” in introductory provisions and struck out “that” at beginning of cls. (i) and (ii).
+
+Subsec. (f)(2)(C). Pub. L. 116–136, § 3213(3)(B)(iv), struck out “shall” before “not previously”.
+
+Subsec. (f)(3)(C)(iii). Pub. L. 116–136, § 3213(3)(C)(i), amended cl. (iii) generally. Prior to amendment, cl. (iii) read as follows: “how the local community or region to be served will benefit from and be involved in the activities carried out by the network;”.
+
+Subsec. (f)(3)(D). Pub. L. 116–136, § 3213(3)(C)(ii), substituted “the rural underserved populations in the local community or region” for “the local community or region”.
+
+Subsec. (g)(1). Pub. L. 116–136, § 3213(4)(A), inserted “, including activities related to increasing care coordination, enhancing chronic disease management, and improving patient health outcomes” after “quality improvement activities” and substituted “5 years” for “3 years”.
+
+Subsec. (g)(2). Pub. L. 116–136, § 3213(4)(B)(i), inserted “shall” after “entity” in introductory provisions.
+
+Subsec. (g)(2)(A). Pub. L. 116–136, § 3213(4)(B)(ii), (iii), struck out “shall” at beginning of cls. (i) and (ii), and inserted “or regional” after “local” in cl. (ii).
+
+Subsec. (g)(2)(B). Pub. L. 116–136, § 3213(4)(B)(ii), struck out “shall” before “not previously”.
+
+Subsec. (g)(3)(D). Pub. L. 116–136, § 3213(4)(C), substituted “the rural underserved populations in the local community or region” for “the local community or region”.
+
+Subsec. (h)(3). Pub. L. 116–136, § 3213(5), inserted “, as appropriate,” after “the Secretary” in introductory provisions.
+
+Subsec. (i). Pub. L. 116–136, § 3213(6), amended subsec. (i) generally. Prior to amendment, text read as follows: “Not later than September 30, 2005, the Secretary shall prepare and submit to the appropriate committees of Congress a report on the progress and accomplishments of the grant programs described in subsections (e), (f), and (g).”
+
+Subsec. (j). Pub. L. 116–136, § 3213(7), substituted “$79,500,000 for each of fiscal years 2021 through 2025” for “$45,000,000 for each of fiscal years 2008 through 2012”.
+
 2008—Subsec. (j). Pub. L. 110–355 substituted “$45,000,000 for each of fiscal years 2008 through 2012.” for “$40,000,000 for fiscal year 2002, and such sums as may be necessary for each of fiscal years 2003 through 2006.”
 
 2003—Subsec. (b)(4). Pub. L. 108–163 substituted “section 295p(6)” for “section 295p”.
@@ -14142,6 +14689,51 @@ Pub. L. 106–505, title IV, subtitle B, Nov. 13, 2000, 114 Stat. 2340, provided
 
 #### Report on Telemedicine
 Pub. L. 106–129, § 6, Dec. 6, 1999, 113 Stat. 1675, provided that: “Not later than January 10, 2001, the Secretary of Health and Human Services shall submit to the Congress a report that— “(1) identifies any factors that inhibit the expansion and accessibility of telemedicine services, including factors relating to telemedicine networks; “(2) identifies any factors that, in addition to geographical isolation, should be used to determine which patients need or require access to telemedicine care; “(3) determines the extent to which—“(A) patients receiving telemedicine service have benefited from the services, and are satisfied with the treatment received pursuant to the services; and “(B) the medical outcomes for such patients would have differed if telemedicine services had not been available to the patients; “(4) determines the extent to which physicians involved with telemedicine services have been satisfied with the medical aspects of the services; “(5) determines the extent to which primary care physicians are enhancing their medical knowledge and experience through the interaction with specialists provided by telemedicine consultations; and “(6) identifies legal and medical issues relating to State licensing of health professionals that are presented by telemedicine services, and provides any recommendations of the Secretary for responding to such issues.”
+
+#### Ex. Ord. No. 13941. Improving Rural Health and Telehealth Access
+Ex. Ord. No. 13941, Aug. 3, 2020, 85 F.R. 47881, provided:
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered as follows:
+
+Section 1. Purpose. My Administration is committed to improving the health of all Americans by improving access to better care, including for the approximately 57 million Americans living in rural communities. Americans living in rural communities face unique challenges when seeking healthcare services, such as limited transportation opportunities, shortages of healthcare workers, and an inability to fully benefit from technological and care-delivery innovations. These factors have contributed to financial insecurity and impaired health outcomes for rural Americans, who are more likely to die from five leading causes, many of which are preventable, than their urban counterparts. That gap widened from 2010 to 2017 for cancer, heart disease, and chronic lower respiratory disease.
+
+Since 2010, the year the [Patient Protection and] Affordable Care Act [Pub. L. 111–148] was passed, 129 rural hospitals in the United States have closed. Predictably, financial distress is the strongest driver for risk of closure, and many rural hospitals lack sufficient patient volume to be sustainable under traditional healthcare-reimbursement mechanisms. From 2015 to 2017, the average occupancy rate of a hospital that closed was only 22 percent. When hospitals close, the patient population around them carries an increased risk of mortality due to increased travel time and decreased access.
+
+During the COVID–19 public health emergency (PHE), hospitals curtailed elective medical procedures and access to in-person clinical care was limited. To help patients better access healthcare providers, my Administration implemented new flexibility regarding what services may be provided via telehealth, who may provide them, and in what circumstances, and the use of telehealth increased dramatically across the Nation. Internal analysis by the Centers for Medicare and Medicaid Services (CMS) of the Department of Health and Human Services (HHS) showed a weekly jump in virtual visits for CMS beneficiaries, from approximately 14,000 pre-PHE to almost 1.7 million in the last week of April. Additionally, a recent report by HHS shows that nearly half (43.5 percent) of Medicare fee-for-service primary care visits were provided through telehealth in April, compared with far less than one percent (0.1 percent) in February before the PHE. Importantly, the report finds that telehealth visits continued to be frequent even after in-person primary care visits resumed in May, indicating that the expansion of telehealth services is likely to be a more permanent feature of the healthcare delivery system.
+
+Rural healthcare providers, in particular, need these types of flexibilities to provide continuous care to patients in their communities. It is the purpose of this order to increase access to, improve the quality of, and improve the financial economics of rural healthcare, including by increasing access to high-quality care through telehealth.
+
+Sec. 2. Launching an Innovative Payment Model to Enable Rural Healthcare Transformation. Within 30 days of the date of this order [Aug. 3, 2020], the Secretary of HHS (Secretary) will announce a new model, pursuant to section 1115A of the Social Security Act ([42 U.S.C. 1315a](./chapter-007-social-security.md#section-1315a)), to test innovative payment mechanisms in order to ensure that rural healthcare providers are able to provide the necessary level and quality of care. This model should give rural providers flexibilities from existing Medicare rules, establish predictable financial payments, and encourage the movement into high-quality, value-based care.
+
+Sec. 3. Investments in Physical and Communications Infrastructure. Within 30 days of the date of this order, the Secretary and the Secretary of Agriculture shall, consistent with applicable law and subject to the availability of appropriations, and in coordination with the Federal Communications Commission and other executive departments and agencies, as appropriate, develop and implement a strategy to improve rural health by improving the physical and communications healthcare infrastructure available to rural Americans.
+
+Sec. 4. Improving the Health of Rural Americans. Within 30 days of the date of this order, the Secretary shall submit a report to the President, through the Assistant to the President for Domestic Policy and the Assistant to the President for Economic Policy, regarding existing and upcoming policy initiatives to:
+
+(a) increase rural access to healthcare by eliminating regulatory burdens that limit the availability of clinical professionals;
+
+(b) prevent disease and mortality by developing rural-specific efforts to drive improved health outcomes;
+
+(c) reduce maternal mortality and morbidity; and
+
+(d) improve mental health in rural communities.
+
+Sec. 5. Expanding Flexibilities Beyond the Public Health Emergency. Within 60 days of the date of this order, the Secretary shall review the following temporary measures put in place during the PHE, and shall propose a regulation to extend these measures, as appropriate, beyond the duration of the PHE:
+
+(a) the additional telehealth services offered to Medicare beneficiaries; and
+
+(b) the services, reporting, staffing, and supervision flexibilities offered to Medicare providers in rural areas.
+
+Sec. 6. General Provisions. (a) Nothing in this order shall be construed to impair or otherwise affect:
+
+(i) the authority granted by law to an executive department or agency, or the head thereof; or
+
+(ii) the functions of the Director of the Office of Management and Budget relating to budgetary, administrative, or legislative proposals.
+
+(b) This order shall be implemented consistent with applicable law and subject to the availability of appropriations.
+
+(c) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+
+Donald J. Trump.
 
 
 <a id="section-254c-1"></a>
@@ -14297,63 +14889,53 @@ Section was enacted as part of the Lupus Research and Care Amendments of 2000, a
 
 **(d) Grants**
 
-(1) **Telehealth network grants** — The Director may, in carrying out the telehealth network grant program referred to in subsection (b), award grants to eligible entities for projects to demonstrate how telehealth technologies can be used through telehealth networks in rural areas, frontier communities, and medically underserved areas, and for medically underserved populations, to—
+(1) **Telehealth network grants** — The Director may, in carrying out the telehealth network grant program referred to in subsection (b), award grants to eligible entities for evidence-based projects that utilize telehealth technologies through telehealth networks in rural areas, frontier communities, and medically underserved areas, and for medically underserved populations, to—
 
-  (A) expand access to, coordinate, and improve the quality of health care services;
+  (A) expand access to, coordinate, and improve access to, and the quality of, health care services; and
 
-  (B) improve and expand the training of health care providers; and
+  (B) expand and improve the quality of health information available to health care providers,,11 So in original. patients, and their families.
 
-  (C) expand and improve the quality of health information available to health care providers, and patients and their families, for decisionmaking.
+(2) **Telehealth resource centers grants** — The Director may, in carrying out the telehealth resource centers grant program referred to in subsection (b), award grants to eligible entities for projects to support initiatives that utilize telehealth technologies in the areas and communities, and for the populations, described in paragraph (1).
 
-(2) **Telehealth resource centers grants** — The Director may, in carrying out the telehealth resource centers grant program referred to in subsection (b), award grants to eligible entities for projects to demonstrate how telehealth technologies can be used in the areas and communities, and for the populations, described in paragraph (1), to establish telehealth resource centers.
-
-**(e) Grant periods** The Director may award grants under this section for periods of not more than 4 years.
+**(e) Grant periods** The Director may award grants under this section for periods of not more than 5 years.
 
 **(f) Eligible entities**
 
-(1) **Telehealth network grants**
+(1) **In general** — To be eligible to receive a grant under subsection (d)(1), an entity shall demonstrate that the entity will provide services through a telehealth network.
 
-  (A) *Grant recipient* — To be eligible to receive a grant under subsection (d)(1), an entity shall be a nonprofit entity.
+(2) **Nature of entities** — Each entity participating in the telehealth network may be a nonprofit or for-profit entity.
 
-  (B) *Telehealth networks*
+(3) **Composition of network** — The telehealth network shall include at least 2 of the following entities (at least 1 of which shall be a community-based health care provider):
 
-    (i) *In general* — To be eligible to receive a grant under subsection (d)(1), an entity shall demonstrate that the entity will provide services through a telehealth network.
+  (A) Community or migrant health centers or other Federally qualified health centers.
 
-    (ii) *Nature of entities* — Each entity participating in the telehealth network may be a nonprofit or for-profit entity.
+  (B) Health care providers, including pharmacists, in private practice.
 
-    (iii) *Composition of network* — The telehealth network shall include at least 2 of the following entities (at least 1 of which shall be a community-based health care provider):
+  (C) Entities operating clinics, including rural health clinics.
 
-      (I) Community or migrant health centers or other Federally qualified health centers.
+  (D) Local health departments.
 
-      (II) Health care providers, including pharmacists, in private practice.
+  (E) Nonprofit hospitals, including community access hospitals.
 
-      (III) Entities operating clinics, including rural health clinics.
+  (F) Other publicly funded health or social service agencies.
 
-      (IV) Local health departments.
+  (G) Long-term care providers.
 
-      (V) Nonprofit hospitals, including community access hospitals.
+  (H) Providers of health care services in the home.
 
-      (VI) Other publicly funded health or social service agencies.
+  (I) Providers of outpatient mental health and substance use disorder services and entities operating outpatient mental health and substance use disorder facilities.
 
-      (VII) Long-term care providers.
+  (J) Local or regional emergency health care providers.
 
-      (VIII) Providers of health care services in the home.
+  (K) Institutions of higher education.
 
-      (IX) Providers of outpatient mental health services and entities operating outpatient mental health facilities.
-
-      (X) Local or regional emergency health care providers.
-
-      (XI) Institutions of higher education.
-
-      (XII) Entities operating dental clinics.
-
-(2) **Telehealth resource centers grants** — To be eligible to receive a grant under subsection (d)(2), an entity shall be a nonprofit entity.
+  (L) Entities operating dental clinics.
 
 **(g) Applications** To be eligible to receive a grant under subsection (d), an eligible entity, in consultation with the appropriate State office of rural health or another appropriate State entity, shall prepare and submit to the Secretary an application, at such time, in such manner, and containing such information as the Secretary may require, including—
 
 (1) a description of the project that the eligible entity will carry out using the funds provided under the grant;
 
-(2) a description of the manner in which the project funded under the grant will meet the health care needs of rural or other populations to be served through the project, or improve the access to services of, and the quality of the services received by, those populations;
+(2) a description of the manner in which the project funded under the grant will meet the health care needs of rural or other populations to be served through the project, and improve the access to services of, and the quality of the services received by, those populations;
 
 (3) evidence of local support for the project, and a description of how the areas, communities, or populations to be served will be involved in the development and ongoing operations of the project;
 
@@ -14367,15 +14949,13 @@ Section was enacted as part of the Lupus Research and Care Amendments of 2000, a
 
 (8) other such information as the Secretary determines to be appropriate.
 
-**(h) Terms; conditions; maximum amount of assistance** The Secretary shall establish the terms and conditions of each grant program described in subsection (b) and the maximum amount of a grant to be awarded to an individual recipient for each fiscal year under this section. The Secretary shall publish, in a publication of the Health Resources and Services Administration, notice of the application requirements for each grant program described in subsection (b) for each fiscal year.
-
-**(i) Preferences**
+**(h) Preferences**
 
 (1) **Telehealth networks** — In awarding grants under subsection (d)(1) for projects involving telehealth networks, the Secretary shall give preference to an eligible entity that meets at least 1 of the following requirements:
 
   (A) *Organization* — The eligible entity is a rural community-based organization or another community-based organization.
 
-  (B) *Services* — The eligible entity proposes to use Federal funds made available through such a grant to develop plans for, or to establish, telehealth networks that provide mental health, public health, long-term care, home care, preventive, case management services, or prenatal care for high-risk pregnancies.
+  (B) *Services* — The eligible entity proposes to use Federal funds made available through such a grant to develop plans for, or to establish, telehealth networks that provide mental health care, public health services, long-term care, home care, preventive care, case management services, or prenatal care for high-risk pregnancies.
 
   (C) *Coordination* — The eligible entity demonstrates how the project to be carried out under the grant will be coordinated with other relevant federally funded projects in the areas, communities, and populations to be served through the grant.
 
@@ -14391,13 +14971,11 @@ Section was enacted as part of the Lupus Research and Care Amendments of 2000, a
 
       (III) a local government entity.
 
-  (E) *Connectivity* — The eligible entity proposes a project that promotes local connectivity within areas, communities, or populations to be served through the project.
-
-  (F) *Integration* — The eligible entity demonstrates that health care information has been integrated into the project.
+  (E) *Connectivity* — The eligible entity proposes a project that promotes local and regional connectivity within areas, communities, or populations to be served through the project.
 
 (2) **Telehealth resource centers** — In awarding grants under subsection (d)(2) for projects involving telehealth resource centers, the Secretary shall give preference to an eligible entity that meets at least 1 of the following requirements:
 
-  (A) *Provision of services* — The eligible entity has a record of success in the provision of telehealth services to medically underserved areas or medically underserved populations.
+  (A) *Provision of services* — The eligible entity has a record of success in the provision of telehealth services to rural areas, medically underserved areas, or medically underserved populations.
 
   (B) *Collaboration and sharing of expertise* — The eligible entity has a demonstrated record of collaborating and sharing expertise with providers of telehealth services at the national, regional, State, and local levels.
 
@@ -14411,23 +14989,19 @@ Section was enacted as part of the Lupus Research and Care Amendments of 2000, a
 
     (iv) rural residency support programs.
 
-**(j) Distribution of funds**
+**(i) Distribution of funds**
 
 (1) **In general** — In awarding grants under this section, the Director shall ensure, to the greatest extent possible, that such grants are equitably distributed among the geographical regions of the United States.
 
-(2) **Telehealth networks** — In awarding grants under subsection (d)(1) for a fiscal year, the Director shall ensure that—
+(2) **Telehealth networks** — In awarding grants under subsection (d)(1) for a fiscal year, the Director shall ensure that not less than 50 percent of the funds awarded shall be awarded for projects in rural areas.
 
-  (A) not less than 50 percent of the funds awarded shall be awarded for projects in rural areas; and
-
-  (B) the total amount of funds awarded for such projects for that fiscal year shall be not less than the total amount of funds awarded for such projects for fiscal year 2001 under [section 254c of this title](./chapter-6a-public-health-service.md#section-254c) (as in effect on the day before October 26, 2002).
-
-**(k) Use of funds**
+**(j) Use of funds**
 
 (1) **Telehealth network program** — The recipient of a grant under subsection (d)(1) may use funds received through such grant for salaries, equipment, and operating or other costs, including the cost of—
 
   (A) developing and delivering clinical telehealth services that enhance access to community-based health care services in rural areas, frontier communities, or medically underserved areas, or for medically underserved populations;
 
-  (B) developing and acquiring, through lease or purchase, computer hardware and software, audio and video equipment, computer network equipment, interactive equipment, data terminal equipment, and other equipment that furthers the objectives of the telehealth network grant program;
+  (B) developing and acquiring, through lease or purchase, equipment that furthers the objectives of the telehealth network grant program;
 
   (C)
 
@@ -14461,17 +15035,17 @@ Section was enacted as part of the Lupus Research and Care Amendments of 2000, a
 
   (E) promoting the integration of the technologies used in clinical information systems with other telehealth technologies;
 
-  (F) fostering the use of telehealth technologies to provide health care information and education for health care providers and consumers in a more effective manner; and
+  (F) fostering the use of telehealth technologies to provide health care information and education for consumers in a more effective manner; and
 
   (G) implementing special projects or studies under the direction of the Office.
 
-**(l) Prohibited uses of funds** An entity that receives a grant under this section may not use funds made available through the grant—
+**(k) Prohibited uses of funds** An entity that receives a grant under this section may not use funds made available through the grant—
 
 (1) to acquire real property;
 
-(2) for expenditures to purchase or lease equipment, to the extent that the expenditures would exceed 40 percent of the total grant funds;
+(2) for expenditures to purchase or lease equipment, to the extent that the expenditures would exceed 20 percent of the total grant funds;
 
-(3) in the case of a project involving a telehealth network, to purchase or install transmission equipment (such as laying cable or telephone lines, or purchasing or installing microwave towers, satellite dishes, amplifiers, or digital switching equipment);
+(3) in the case of a project involving a telehealth network, to purchase or install transmission equipment;
 
 (4) to pay for any equipment or transmission costs not directly related to the purposes for which the grant is awarded;
 
@@ -14481,7 +15055,7 @@ Section was enacted as part of the Lupus Research and Care Amendments of 2000, a
 
 (7) for expenditures for indirect costs (as determined by the Secretary), to the extent that the expenditures would exceed 15 percent of the total grant funds.
 
-**(m) Collaboration** In providing services under this section, an eligible entity shall collaborate, if feasible, with entities that—
+**(l) Collaboration** In providing services under this section, an eligible entity shall collaborate, if feasible, with entities that—
 
 (1)
 
@@ -14491,25 +15065,83 @@ Section was enacted as part of the Lupus Research and Care Amendments of 2000, a
 
 (2) provide telehealth services or related activities.
 
-**(n) Coordination with other agencies** The Secretary shall coordinate activities carried out under grant programs described in subsection (b), to the extent practicable, with Federal and State agencies and nonprofit organizations that are operating similar programs, to maximize the effect of public dollars in funding meritorious proposals.
+**(m) Coordination with other agencies** The Secretary shall coordinate activities carried out under grant programs described in subsection (b), to the extent practicable, with Federal and State agencies and nonprofit organizations that are operating similar programs, to maximize the effect of public dollars in funding meritorious proposals.
 
-**(o) Outreach activities** The Secretary shall establish and implement procedures to carry out outreach activities to advise potential end users of telehealth services in rural areas, frontier communities, medically underserved areas, and medically underserved populations in each State about the grant programs described in subsection (b).
+**(n) Outreach activities** The Secretary shall establish and implement procedures to carry out outreach activities to advise potential end users of telehealth services in rural areas, frontier communities, medically underserved areas, and medically underserved populations in each State about the grant programs described in subsection (b).
 
-**(p) Telehealth** It is the sense of Congress that, for purposes of this section, States should develop reciprocity agreements so that a provider of services under this section who is a licensed or otherwise authorized health care provider under the law of 1 or more States, and who, through telehealth technology, consults with a licensed or otherwise authorized health care provider in another State, is exempt, with respect to such consultation, from any State law of the other State that prohibits such consultation on the basis that the first health care provider is not a licensed or authorized health care provider under the law of that State.
+**(o) Telehealth** It is the sense of Congress that, for purposes of this section, States should develop reciprocity agreements so that a provider of services under this section who is a licensed or otherwise authorized health care provider under the law of 1 or more States, and who, through telehealth technology, consults with a licensed or otherwise authorized health care provider in another State, is exempt, with respect to such consultation, from any State law of the other State that prohibits such consultation on the basis that the first health care provider is not a licensed or authorized health care provider under the law of that State.
 
-**(q) Report** Not later than September 30, 2005, the Secretary shall prepare and submit to the appropriate committees of Congress a report on the progress and accomplishments of the grant programs described in subsection (b).
+**(p) Report** Not later than 4 years after March 27, 2020, and every 5 years thereafter, the Secretary shall prepare and submit to the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Energy and Commerce of the House of Representatives a report on the activities and outcomes of the grant programs under subsection (b).
 
-**(r) Regulations** The Secretary shall issue regulations specifying, for purposes of this section, a definition of the term “frontier area”. The definition shall be based on factors that include population density, travel distance in miles to the nearest medical facility, travel time in minutes to the nearest medical facility, and such other factors as the Secretary determines to be appropriate. The Secretary shall develop the definition in consultation with the Director of the Bureau of the Census and the Administrator of the Economic Research Service of the Department of Agriculture.
-
-**(s) Authorization of appropriations** There are authorized to be appropriated to carry out this section—
-
-(1) for grants under subsection (d)(1), $40,000,000 for fiscal year 2002, and such sums as may be necessary for each of fiscal years 2003 through 2006; and
-
-(2) for grants under subsection (d)(2), $20,000,000 for fiscal year 2002, and such sums as may be necessary for each of fiscal years 2003 through 2006.
+**(q) Authorization of appropriations** There are authorized to be appropriated to carry out this section $29,000,000 for each of fiscal years 2021 through 2025.
 
 ### Statutory Notes
 
 #### Amendments
+2020—Subsec. (d)(1). Pub. L. 116–136, § 3212(1)(A)(i), substituted “evidence-based projects that utilize telehealth technologies through telehealth networks” for “projects to demonstrate how telehealth technologies can be used through telehealth networks” in introductory provisions.
+
+Subsec. (d)(1)(A). Pub. L. 116–136, § 3212(1)(A)(ii), substituted “access to, and the quality of,” for “the quality of” and inserted “and” after semicolon.
+
+Subsec. (d)(1)(B). Pub. L. 116–136, § 3212(1)(A)(iii)–(v), redesignated subpar. (C) as (B), substituted “, patients, and their families” for “and patients and their families, for decisionmaking”, and struck out former subpar. (B) which read as follows: “improve and expand the training of health care providers; and”.
+
+Subsec. (d)(2). Pub. L. 116–136, § 3212(1)(B), substituted “support initiatives that utilize telehealth technologies” for “demonstrate how telehealth technologies can be used” and struck out “, to establish telehealth resource centers” before period at end.
+
+Subsec. (e). Pub. L. 116–136, § 3212(2), substituted “5 years” for “4 years”.
+
+Subsec. (f). Pub. L. 116–136, § 3212(3)(B), redesignated cls. (i) to (iii) of par. (1)(B) as pars. (1) to (3), respectively, and realigned margins; in par. (3), redesignated subcls. (I) to (XII) as subpars. (A) to (L), respectively, and realigned margins; and struck out heading of former par. (1), headings of former subpars. (A) and (B) of former par. (1), and text of former subpar. (A) which read as follows: “To be eligible to receive a grant under subsection (d)(1), an entity shall be a nonprofit entity.”
+
+Subsec. (f)(2). Pub. L. 116–136, § 3212(3)(A), struck out par. (2). Text read as follows: “To be eligible to receive a grant under subsection (d)(2), an entity shall be a nonprofit entity.”
+
+Subsec. (f)(3)(I). Pub. L. 116–136, § 3212(3)(C), inserted “and substance use disorder” after “mental health” in two places.
+
+Subsec. (g)(2). Pub. L. 116–136, § 3212(4), substituted “and improve” for “or improve”.
+
+Subsec. (h). Pub. L. 116–136, § 3212(5), (6), redesignated subsec. (i) as (h) and struck out former subsec. (h). Prior to amendment, text of subsec. (h) read as follows: “The Secretary shall establish the terms and conditions of each grant program described in subsection (b) and the maximum amount of a grant to be awarded to an individual recipient for each fiscal year under this section. The Secretary shall publish, in a publication of the Health Resources and Services Administration, notice of the application requirements for each grant program described in subsection (b) for each fiscal year.”
+
+Subsec. (h)(1)(B). Pub. L. 116–136, § 3212(7)(A)(i), substituted “mental health care, public health services, long-term care, home care, preventive care” for “mental health, public health, long-term care, home care, preventive”.
+
+Subsec. (h)(1)(E). Pub. L. 116–136, § 3212(7)(A)(ii), inserted “and regional” after “local”.
+
+Subsec. (h)(1)(F). Pub. L. 116–136, § 3212(7)(A)(iii), struck out subpar. (F). Text read as follows: “The eligible entity demonstrates that health care information has been integrated into the project.”
+
+Subsec. (h)(2)(A). Pub. L. 116–136, § 3212(7)(B), substituted “rural areas, medically underserved areas, or” for “medically underserved areas or”.
+
+Subsec. (i). Pub. L. 116–136, § 3212(6), redesignated subsec. (j) as (i). Former subsec. (i) redesignated (h).
+
+Subsec. (i)(2). Pub. L. 116–136, § 3212(8), substituted “ensure that not less than 50 percent of the funds awarded shall be awarded for projects in rural areas.” for “ensure that—
+
+“(A) not less than 50 percent of the funds awarded shall be awarded for projects in rural areas; and
+
+“(B) the total amount of funds awarded for such projects for that fiscal year shall be not less than the total amount of funds awarded for such projects for fiscal year 2001 under [section 254c of this title](./chapter-6a-public-health-service.md#section-254c) (as in effect on the day before October 26, 2002).”
+
+Subsec. (j). Pub. L. 116–136, § 3212(6), redesignated subsec. (k) as (j). Former subsec. (j) redesignated (i).
+
+Subsec. (j)(1)(B). Pub. L. 116–136, § 3212(9)(A), struck out “computer hardware and software, audio and video equipment, computer network equipment, interactive equipment, data terminal equipment, and other” before “equipment that furthers the objectives”.
+
+Subsec. (j)(2)(F). Pub. L. 116–136, § 3212(9)(B), struck out “health care providers and” before “consumers”.
+
+Subsec. (k). Pub. L. 116–136, § 3212(6), redesignated subsec. (l) as (k). Former subsec. (k) redesignated (j).
+
+Subsec. (k)(2). Pub. L. 116–136, § 3212(10)(A), substituted “20 percent” for “40 percent”.
+
+Subsec. (k)(3). Pub. L. 116–136, § 3212(10)(B), struck out “(such as laying cable or telephone lines, or purchasing or installing microwave towers, satellite dishes, amplifiers, or digital switching equipment)” before semicolon at end.
+
+Subsecs. (l) to (o). Pub. L. 116–136, § 3212(6), redesignated subsecs. (m) to (p) as (l) to (o), respectively. Former subsec. (l) redesignated (k).
+
+Subsec. (p). Pub. L. 116–136, § 3212(11), added subsec. (p).
+
+Subsec. (q). Pub. L. 116–136, § 3212(13), substituted “this section $29,000,000 for each of fiscal years 2021 through 2025.” for “this section—
+
+“(1) for grants under subsection (d)(1), $40,000,000 for fiscal year 2002, and such sums as may be necessary for each of fiscal years 2003 through 2006; and
+
+“(2) for grants under subsection (d)(2), $20,000,000 for fiscal year 2002, and such sums as may be necessary for each of fiscal years 2003 through 2006.”
+
+Pub. L. 116–136, § 3212(11), (12), redesignated subsec. (s) as (q) and struck out former subsec. (q). Prior to amendment, text of subsec. (q) read as follows: “Not later than September 30, 2005, the Secretary shall prepare and submit to the appropriate committees of Congress a report on the progress and accomplishments of the grant programs described in subsection (b).”
+
+Subsec. (r). Pub. L. 116–136, § 3212(11), struck out subsec. (r). Text read as follows: “The Secretary shall issue regulations specifying, for purposes of this section, a definition of the term “frontier area”. The definition shall be based on factors that include population density, travel distance in miles to the nearest medical facility, travel time in minutes to the nearest medical facility, and such other factors as the Secretary determines to be appropriate. The Secretary shall develop the definition in consultation with the Director of the Bureau of the Census and the Administrator of the Economic Research Service of the Department of Agriculture.”
+
+Subsec. (s). Pub. L. 116–136, § 3212(12), redesignated subsec. (s) as (q).
+
 2013—Subsec. (i)(1)(B). Pub. L. 113–55 substituted “case management services, or prenatal care for high-risk pregnancies” for “or case management services”.
 
 2003—Subsec. (a)(4). Pub. L. 108–163, § 2(c)(1), substituted “section 295p(6)” for “section 295p”.
@@ -14782,12 +15414,22 @@ Pub. L. 111–148, title V, § 5208(a), Mar. 23, 2010, 124 Stat. 612, provided t
 
   (C) $150,000,000 for each of fiscal years 2004 through 2017; and
 
-  (D) $150,000,000 for each of fiscal years 2018 and 2019, and $33,287,671 for the period beginning on October 1, 2019, and ending on December 20, 2019, to remain available until expended.
+  (D) $150,000,000 for each of fiscal years 2018 through 2023, to remain available until expended.
 
 ### Statutory Notes
 
 #### Amendments
-2019—Subsec. (b)(2)(D). Pub. L. 116–69 substituted “$33,287,671” for “$21,369,863” and “December 20, 2019” for “November 21, 2019”.
+2020—Subsec. (b)(2)(D). Pub. L. 116–260 substituted “2023” for “2020, and $32,465,753 for the period beginning on October 1, 2020, and ending on December 18, 2020”.
+
+Pub. L. 116–215 substituted “$32,465,753” for “$29,589,042” and “December 18, 2020” for “December 11, 2020”.
+
+Pub. L. 116–159 substituted “$29,589,042” for “$25,068,493” and “December 11, 2020” for “November 30, 2020”.
+
+Pub. L. 116–136 substituted “through 2020, and $25,068,493 for the period beginning on October 1, 2020, and ending on November 30, 2020” for “and 2019, and $96,575,342 for the period beginning on October 1, 2019, and ending on May 22, 2020”.
+
+2019—Subsec. (b)(2)(D). Pub. L. 116–94 substituted “$96,575,342” for “$33,287,671” and “May 22, 2020” for “December 20, 2019”.
+
+Pub. L. 116–69 substituted “$33,287,671” for “$21,369,863” and “December 20, 2019” for “November 21, 2019”.
 
 Pub. L. 116–59 inserted “and $21,369,863 for the period beginning on October 1, 2019, and ending on November 21, 2019,” before “to remain available”.
 
@@ -14826,6 +15468,71 @@ Pub. L. 105–33, title IV, § 4923, Aug. 5, 1997, 111 Stat. 574, as amended by 
 [Pub. L. 110–275, § 303(c), which directed amendment of section 4923(b) of Pub. L. 105–33 by substituting “a second interim report” for “a final report” in par. (2) and by adding par. (3) at end to read “a report on such evaluation not later than January 1, 2011.”, could not be executed because of prior repeal.]
 
 
+<a id="section-254c-20"></a>
+## § 254c–20. Expanding capacity for health outcomes
+**(a) Definitions** In this section:
+
+(1) **Eligible entity** — The term “eligible entity” means an entity that provides, or supports the provision of, health care services in rural areas, frontier areas, health professional shortage areas, or medically underserved areas, or to medically underserved populations or Native Americans, including Indian Tribes, Tribal organizations, and urban Indian organizations, and which may include entities leading, or capable of leading, a technology-enabled collaborative learning and capacity building model or engaging in technology-enabled collaborative training of participants in such model.
+
+(2) **Health professional shortage area** — The term “health professional shortage area” means a health professional shortage area designated under [section 254e of this title](./chapter-6a-public-health-service.md#section-254e).
+
+(3) **Indian Tribe** — The terms “Indian Tribe” and “Tribal organization” have the meanings given the terms “Indian tribe” and “tribal organization” in [section 5304 of title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5304&num=0&edition=prelim).
+
+(4) **Medically underserved population** — The term “medically underserved population” has the meaning given the term in [section 254b(b)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section254b/b/3&num=0&edition=prelim).
+
+(5) **Native Americans** — The term “Native Americans” has the meaning given the term in [section 293 of this title](./chapter-6a-public-health-service.md#section-293) and includes Indian Tribes and Tribal organizations.
+
+(6) **Technology-enabled collaborative learning and capacity building model** — The term “technology-enabled collaborative learning and capacity building model” means a distance health education model that connects health care professionals, and particularly specialists, with multiple other health care professionals through simultaneous interactive videoconferencing for the purpose of facilitating case-based learning, disseminating best practices, and evaluating outcomes.
+
+(7) **Urban Indian organization** — The term “urban Indian organization” has the meaning given the term in [section 1603 of title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section1603&num=0&edition=prelim).
+
+**(b) Program established** The Secretary shall, as appropriate, award grants to evaluate, develop, and, as appropriate, expand the use of technology-enabled collaborative learning and capacity building models, to improve retention of health care providers and increase access to health care services, such as those to address chronic diseases and conditions, infectious diseases, mental health, substance use disorders, prenatal and maternal health, pediatric care, pain management, palliative care, and other specialty care in rural areas, frontier areas, health professional shortage areas, or medically underserved areas and for medically underserved populations or Native Americans.
+
+**(c) Use of funds**
+
+(1) **In general** — Grants awarded under subsection (b) shall be used for—
+
+  (A) the development and acquisition of instructional programming, and the training of health care providers and other professionals that provide or assist in the provision of services through models described in subsection (b), such as training on best practices for data collection and leading or participating in such technology-enabled activities consistent with technology-enabled collaborative learning and capacity-building models;
+
+  (B) information collection and evaluation activities to study the impact of such models on patient outcomes and health care providers, and to identify best practices for the expansion and use of such models; or
+
+  (C) other activities consistent with achieving the objectives of the grants awarded under this section, as determined by the Secretary.
+
+(2) **Other uses** — In addition to any of the uses under paragraph (1), grants awarded under subsection (b) may be used for—
+
+  (A) equipment to support the use and expansion of technology-enabled collaborative learning and capacity building models, including for hardware and software that enables distance learning, health care provider support, and the secure exchange of electronic health information; or
+
+  (B) support for health care providers and other professionals that provide or assist in the provision of services through such models.
+
+**(d) Length of grants** Grants awarded under subsection (b) shall be for a period of up to 5 years.
+
+**(e) Grant requirements** The Secretary may require entities awarded a grant under this section to collect information on the effect of the use of technology-enabled collaborative learning and capacity building models, such as on health outcomes, access to health care services, quality of care, and provider retention in areas and populations described in subsection (b). The Secretary may award a grant or contract to assist in the coordination of such models, including to assess outcomes associated with the use of such models in grants awarded under subsection (b), including for the purpose described in subsection (c)(1)(B).
+
+**(f) Application** An eligible entity that seeks to receive a grant under subsection (b) shall submit to the Secretary an application, at such time, in such manner, and containing such information as the Secretary may require. Such application shall include plans to assess the effect of technology-enabled collaborative learning and capacity building models on patient outcomes and health care providers.
+
+**(g) Access to broadband** In administering grants under this section, the Secretary may coordinate with other agencies to ensure that funding opportunities are available to support access to reliable, high-speed internet for grantees.
+
+**(h) Technical assistance** The Secretary shall provide (either directly through the Department of Health and Human Services or by contract) technical assistance to eligible entities, including recipients of grants under subsection (b), on the development, use, and evaluation of technology-enabled collaborative learning and capacity building models in order to expand access to health care services provided by such entities, including for medically underserved areas and to medically underserved populations or Native Americans.
+
+**(i) Research and evaluation** The Secretary, in consultation with stakeholders with appropriate expertise in such models, shall develop a strategic plan to research and evaluate the evidence for such models. The Secretary shall use such plan to inform the activities carried out under this section.
+
+**(j) Report by Secretary** Not later than 4 years after December 27, 2020, the Secretary shall prepare and submit to the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Energy and Commerce of the House of Representatives, and post on the internet website of the Department of Health and Human Services, a report including, at minimum—
+
+(1) a description of any new and continuing grants awarded to entities under subsection (b) and the specific purpose and amounts of such grants;
+
+(2) an overview of—
+
+  (A) the evaluations conducted under subsections (b);
+
+  (B) technical assistance provided under subsection (h); and
+
+  (C) activities conducted by entities awarded grants under subsection (b); and
+
+(3) a description of any significant findings or developments related to patient outcomes or health care providers and best practices for eligible entities expanding, using, or evaluating technology-enabled collaborative learning and capacity building models, including through the activities described in subsection (h).
+
+**(k) Authorization of appropriations** There are authorized to be appropriated to carry out this section $10,000,000 for each of fiscal years 2022 through 2026.
+
+
 <a id="section-254c-3"></a>
 ## § 254c–3. Special diabetes programs for Indians
 **(a) In general** The Secretary shall make grants for providing services for the prevention and treatment of diabetes in accordance with subsection (b).
@@ -14850,7 +15557,7 @@ Pub. L. 105–33, title IV, § 4923, Aug. 5, 1997, 111 Stat. 574, as amended by 
 
   (C) $150,000,000 for each of fiscal years 2004 through 2017; and
 
-  (D) $150,000,000 for each of fiscal years 2018 and 2019, and $33,287,671 for the period beginning on October 1, 2019, and ending on December 20, 2019, to remain available until expended.
+  (D) $150,000,000 for each of fiscal years 2018 through 2023, to remain available until expended.
 
 ### Statutory Notes
 
@@ -14860,7 +15567,17 @@ The Indian Self-Determination Act, referred to in subsec. (b)(2), is title I of 
 The Indian Health Care Improvement Act, referred to in subsec. (b)(3), is Pub. L. 94–437, Sept. 30, 1976, 90 Stat. 1400, as amended. Title V of the Act is classified generally to subchapter IV (§ 1651 et seq.) of chapter 18 of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under [section 1601 of Title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section1601&num=0&edition=prelim) and Tables.
 
 #### Amendments
-2019—Subsec. (c)(2)(D). Pub. L. 116–69 substituted “$33,287,671” for “$21,369,863” and “December 20, 2019” for “November 21, 2019”.
+2020—Subsec. (c)(2)(D). Pub. L. 116–260 substituted “2023” for “2020, and $32,465,753 for the period beginning on October 1, 2020, and ending on December 18, 2020”.
+
+Pub. L. 116–215 substituted “$32,465,753” for “$29,589,042” and “December 18, 2020” for “December 11, 2020”.
+
+Pub. L. 116–159 substituted “$29,589,042” for “$25,068,493” and “December 11, 2020” for “November 30, 2020”.
+
+Pub. L. 116–136 substituted “through 2020, and $25,068,493 for the period beginning on October 1, 2020, and ending on November 30, 2020” for “and 2019, and $96,575,342 for the period beginning on October 1, 2019, and ending on May 22, 2020”.
+
+2019—Subsec. (c)(2)(D). Pub. L. 116–94 substituted “$96,575,342” for “$33,287,671” and “May 22, 2020” for “December 20, 2019”.
+
+Pub. L. 116–69 substituted “$33,287,671” for “$21,369,863” and “December 20, 2019” for “November 21, 2019”.
 
 Pub. L. 116–59 inserted “and $21,369,863 for the period beginning on October 1, 2019, and ending on November 21, 2019,” before “to remain available”.
 
@@ -15064,43 +15781,75 @@ Pub. L. 108–7, div. F, title II, Feb. 20, 2003, 117 Stat. 261, provided in par
 ## § 254c–8. Healthy start for infants
 **(a) In general**
 
-(1) **Continuation and expansion of program** — The Secretary, acting through the Administrator of the Health Resources and Services Administration, Maternal and Child Health Bureau, shall under authority of this section continue in effect the Healthy Start Initiative and may, during fiscal year 2001 and subsequent years, carry out such program on a national basis.
+(1) **Continuation and expansion of program** — The Secretary, acting through the Administrator of the Health Resources and Services Administration, Maternal and Child Health Bureau, shall under authority of this section continue in effect the Healthy Start Initiative and may carry out such program on a national basis.
 
-(2) **Definition** — For purposes of paragraph (1), the term “Healthy Start Initiative” is a reference to the program that, as an initiative to reduce the rate of infant mortality and improve perinatal outcomes, makes grants for project areas with high annual rates of infant mortality and that, prior to the effective date of this section, was a demonstration program carried out under [section 241 of this title](./chapter-6a-public-health-service.md#section-241).
+(2) **Definition** — For purposes of paragraph (1), the term “Healthy Start Initiative” is a reference to the program that, as an initiative to reduce the rate of infant mortality and improve perinatal outcomes, makes grants for project areas with high or increasing above the national average annual rates of infant mortality and that, prior to the effective date of this section, was a demonstration program carried out under [section 241 of this title](./chapter-6a-public-health-service.md#section-241).
 
 **(b) Considerations in making grants**
 
-(1) **Requirements** — In making grants under subsection (a), the Secretary shall require that applicants (in addition to meeting all eligibility criteria established by the Secretary) establish, for project areas under such subsection, community-based consortia of individuals and organizations (including agencies responsible for administering block grant programs under title V of the Social Security Act [[42 U.S.C. 701](./chapter-007-social-security.md#section-701) et seq.], consumers of project services, public health departments, hospitals, health centers under [section 254b of this title](./chapter-6a-public-health-service.md#section-254b), and other significant sources of health care services) that are appropriate for participation in projects under subsection (a).
+(1) **Requirements** — In making grants under subsection (a), the Secretary shall require that applicants (in addition to meeting all eligibility criteria established by the Secretary) establish, for project areas under such subsection, community-based consortia of individuals and organizations (including agencies responsible for administering block grant programs under title V of the Social Security Act [[42 U.S.C. 701](./chapter-007-social-security.md#section-701) et seq.], participants and former participants of project services, public health departments, hospitals, health centers under [section 254b of this title](./chapter-6a-public-health-service.md#section-254b), State substance abuse agencies, and other significant sources of health care services) that are appropriate for participation in projects under subsection (a).
 
 (2) **Other considerations** — In making grants under subsection (a), the Secretary shall take into consideration the following:
 
-  (A) Factors that contribute to infant mortality, such as low birthweight.
+  (A) Factors that contribute to infant mortality, including poor birth outcomes (such as low birthweight and preterm birth) and social determinants of health.
 
-  (B) The extent to which applicants for such grants facilitate—
+  (B) Communities with—
 
-    (i) a community-based approach to the delivery of services; and
+    (i) high rates of infant mortality or poor perinatal outcomes; or
 
-    (ii) a comprehensive approach to women’s health care to improve perinatal outcomes.
+    (ii) high rates of infant mortality or poor perinatal outcomes in specific subpopulations within the community.
+
+  (C) The extent to which applicants for such grants facilitate—
+
+    (i) collaboration with the local community in the development of the project;
+
+    (ii) a community-based approach to the delivery of services;
+
+    (iii) a comprehensive approach to women’s health care to improve perinatal outcomes; and
+
+    (iv) the use and collection of data demonstrating the effectiveness of such program in decreasing infant mortality rates and improving perinatal outcomes, as applicable, or the process by which new applicants plan to collect this data.
 
 (3) **Special projects** — Nothing in paragraph (2) shall be construed to prevent the Secretary from awarding grants under subsection (a) for special projects that are intended to address significant disparities in perinatal health indicators in communities along the United States-Mexico border or in Alaska or Hawaii.
 
-**(c) Coordination** Recipients of grants under subsection (a) shall coordinate their services and activities with the State agency or agencies that administer block grant programs under title V of the Social Security Act [[42 U.S.C. 701](./chapter-007-social-security.md#section-701) et seq.] in order to promote cooperation, integration, and dissemination of information with Statewide systems and with other community services funded under the Maternal and Child Health Block Grant.
+**(c) Coordination**
+
+(1) **In general** — Recipients of grants under subsection (a) shall coordinate their services and activities with the State agency or agencies that administer block grant programs under title V of the Social Security Act [[42 U.S.C. 701](./chapter-007-social-security.md#section-701) et seq.] in order to promote cooperation, integration, and dissemination of information with Statewide systems and with other community services funded under the Maternal and Child Health Block Grant.
+
+(2) **Other programs** — The Secretary shall ensure coordination of the program carried out pursuant to this section with other programs and activities related to the reduction of the rate of infant mortality and improved perinatal and infant health outcomes supported by the Department.
 
 **(d) Rule of construction** Except to the extent inconsistent with this section, this section may not be construed as affecting the authority of the Secretary to make modifications in the program carried out under subsection (a).
 
 **(e) Funding**
 
-(1) **Authorization of appropriations** — For the purpose of carrying out this section, there are authorized to be appropriated—
-
-  (A) $120,000,000 for fiscal year 2008; and
-
-  (B) for each of fiscal years 2009 through 2013, the amount authorized for the preceding fiscal year increased by the percentage increase in the Consumer Price Index for all urban consumers for such year.
+(1) **Authorization of appropriations** — For the purpose of carrying out this section, there are authorized to be appropriated $125,500,000 for each of fiscal years 2021 through 2025.
 
 (2) **Allocation**
 
   (A) *Program administration* — Of the amounts appropriated under paragraph (1) for a fiscal year, the Secretary may reserve up to 5 percent for coordination, dissemination, technical assistance, and data activities that are determined by the Secretary to be appropriate for carrying out the program under this section.
 
-  (B) *Evaluation* — Of the amounts appropriated under paragraph (1) for a fiscal year, the Secretary may reserve up to 1 percent for evaluations of projects carried out under subsection (a). Each such evaluation shall include a determination of whether such projects have been effective in reducing the disparity in health status between the general population and individuals who are members of racial or ethnic minority groups.
+  (B) *Evaluation* — Of the amounts appropriated under paragraph (1) for a fiscal year, the Secretary may reserve up to 1 percent for evaluations of projects carried out under subsection (a). Each such evaluation shall include a determination of whether such projects have been effective in reducing the disparity in health status between the general population and individuals who are members of racial or ethnic minority groups. Evaluations may also include, to the extent practicable, information related to—
+
+    (i) progress toward achieving any grant metrics or outcomes related to reducing infant mortality rates, improving perinatal outcomes, or reducing the disparity in health status;
+
+    (ii) recommendations on potential improvements that may assist with addressing gaps, as applicable and appropriate; and
+
+    (iii) the extent to which the grantee coordinated with the community in which the grantee is located in the development of the project and delivery of services, including with respect to technical assistance and mentorship programs.
+
+**(f) GAO report**
+
+(1) **In general** — Not later than 4 years after March 27, 2020, the Comptroller General of the United States shall conduct an independent evaluation, and submit to the appropriate Committees of Congress a report, concerning the Healthy Start program under this section.
+
+(2) **Evaluation** — In conducting the evaluation under paragraph (1), the Comptroller General shall consider, as applicable and appropriate, information from the evaluations under subsection (e)(2)(B).
+
+(3) **Report** — The report described in paragraph (1) shall review, assess, and provide recommendations, as appropriate, on the following:
+
+  (A) The allocation of Healthy Start program grants by the Health Resources and Services Administration, including considerations made by such Administration regarding disparities in infant mortality or perinatal outcomes among urban and rural areas in making such awards.
+
+  (B) Trends in the progress made toward meeting the evaluation criteria pursuant to subsection (e)(2)(B), including programs which decrease infant mortality rates and improve perinatal outcomes, programs that have not decreased infant mortality rates or improved perinatal outcomes, and programs that have made an impact on disparities in infant mortality or perinatal outcomes.
+
+  (C) The ability of grantees to improve health outcomes for project participants, promote the awareness of the Healthy Start program services, incorporate and promote family participation, facilitate coordination with the community in which the grantee is located, and increase grantee accountability through quality improvement, performance monitoring, evaluation, and the effect such metrics may have toward decreasing the rate of infant mortality and improving perinatal outcomes.
+
+  (D) The extent to which such Federal programs are coordinated across agencies and the identification of opportunities for improved coordination in such Federal programs and activities.
 
 ### Statutory Notes
 
@@ -15110,6 +15859,32 @@ The effective date of this section, referred to in subsec. (a)(2), is the date o
 The Social Security Act, referred to in subsecs. (b)(1) and (c), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Title V of the Act is classified generally to subchapter V (§ 701 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see [section 1305 of this title](./chapter-007-social-security.md#section-1305) and Tables.
 
 #### Amendments
+2020—Subsec. (a)(1). Pub. L. 116–136, § 3225(1)(A), struck out “, during fiscal year 2001 and subsequent years,” after “and may”.
+
+Subsec. (a)(2). Pub. L. 116–136, § 3225(1)(B), inserted “or increasing above the national average” after “areas with high”.
+
+Subsec. (b)(1). Pub. L. 116–136, § 3225(2)(A), substituted “participants and former participants of project services, public health departments, hospitals, health centers under [section 254b of this title](./chapter-6a-public-health-service.md#section-254b), State substance abuse agencies” for “consumers of project services, public health departments, hospitals, health centers under [section 254b of this title](./chapter-6a-public-health-service.md#section-254b)”.
+
+Subsec. (b)(2)(A). Pub. L. 116–136, § 3225(2)(B)(i), substituted “including poor birth outcomes (such as low birthweight and preterm birth) and social determinants of health” for “such as low birthweight”.
+
+Subsec. (b)(2)(B). Pub. L. 116–136, § 3225(2)(B)(iii), added subpar. (B). Former subpar. (B) redesignated (C).
+
+Subsec. (b)(2)(C). Pub. L. 116–136, § 3225(2)(B)(iv), added cl. (i), redesignated former cls. (i) and (ii) as (ii) and (iii), respectively, and added cl. (iv).
+
+Pub. L. 116–136, § 3225(2)(B)(ii), redesignated subpar. (B) as (C).
+
+Subsec. (c). Pub. L. 116–136, § 3225(3), designated existing provisions as par. (1), inserted heading, and added par. (2).
+
+Subsec. (e)(1). Pub. L. 116–136, § 3225(4)(A), substituted “appropriated $125,500,000 for each of fiscal years 2021 through 2025.” for “appropriated—
+
+“(A) $120,000,000 for fiscal year 2008; and
+
+“(B) for each of fiscal years 2009 through 2013, the amount authorized for the preceding fiscal year increased by the percentage increase in the Consumer Price Index for all urban consumers for such year.”
+
+Subsec. (e)(2)(B). Pub. L. 116–136, § 3225(4)(B), inserted at end “Evaluations may also include, to the extent practicable, information related to—” and added cls. (i) to (iii).
+
+Subsec. (f). Pub. L. 116–136, § 3225(5), added subsec. (f).
+
 2008—Subsec. (a)(3). Pub. L. 110–339, § 2(b)(1), struck out par. (3). Text read as follows: “Effective upon increased funding beyond fiscal year 1999 for such Initiative, additional grants may be made to States to assist communities with technical assistance, replication of successful projects, and State policy formation to reduce infant and maternal mortality and morbidity.”
 
 Subsec. (b). Pub. L. 110–339, § 2(a), substituted “Considerations in making grants” for “Requirements for making grants” in heading, designated existing provisions as par. (1), inserted par. heading, and added pars. (2) and (3).
@@ -15149,7 +15924,7 @@ Section was enacted as part of the Lupus Research and Care Amendments of 2000, a
 
 (1) For the purpose of eliminating health manpower shortages in health professional shortage areas, there is established, within the Service, the National Health Service Corps, which shall consist of—
 
-  (A) such officers of the Regular and Reserve Corps of the Service as the Secretary may designate,
+  (A) such officers of the Regular and Reserve Corps 11 See Change of Name note below. of the Service as the Secretary may designate,
 
   (B) such civilian employees of the United States as the Secretary may appoint, and
 
@@ -15195,7 +15970,7 @@ Section was enacted as part of the Lupus Research and Care Amendments of 2000, a
 
   (B) During the period beginning upon the expiration of the 36 months referred to in subparagraph (A) and ending with the month in which the member’s monthly pay and allowances are equal to or exceed the monthly income he received for the last of such 36 months, the member may receive in addition to his monthly pay and allowances an amount which when added to such monthly pay and allowances equals the monthly income he received for such last month.
 
-  (C) For each month in which a member is directly engaged in the delivery of health services in a health professional shortage area in accordance with an agreement with the Secretary entered into under section 294n(f)(1)(C) 11 See References in Text note below. of this title, under which the Secretary is obligated to make payments in accordance with section 294n(f)(2) 1 of this title, the amount of any monthly increase under subparagraph (A) or (B) with respect to such member shall be decreased by an amount equal to one-twelfth of the amount which the Secretary is obligated to pay upon the completion of the year of practice in which such month occurs.
+  (C) For each month in which a member is directly engaged in the delivery of health services in a health professional shortage area in accordance with an agreement with the Secretary entered into under section 294n(f)(1)(C) 22 See References in Text note below. of this title, under which the Secretary is obligated to make payments in accordance with section 294n(f)(2) 2 of this title, the amount of any monthly increase under subparagraph (A) or (B) with respect to such member shall be decreased by an amount equal to one-twelfth of the amount which the Secretary is obligated to pay upon the completion of the year of practice in which such month occurs.
   For purposes of subparagraphs (A) and (B), the term “monthly pay” includes special pay received under chapter 5 of title 37.
 
 (2) In the case of a member of the Corps who is directly engaged in the delivery of health services in a health professional shortage area in accordance with a service obligation incurred under the Scholarship Program or the Loan Repayment Program, the adjustment in pay authorized by paragraph (1) may be made for such a member only upon satisfactory completion of such service obligation, and the first 36 months of such member’s being so engaged in the delivery of health services shall, for purposes of paragraph (1)(A), be deemed to begin upon such satisfactory completion.
@@ -15204,11 +15979,11 @@ Section was enacted as part of the Lupus Research and Care Amendments of 2000, a
 
 **(e) Employment ceiling of Department not affected by Corps members** Corps members assigned under [section 254f of this title](./chapter-6a-public-health-service.md#section-254f) to provide health services in health professional shortage areas shall not be counted against any employment ceiling affecting the Department.
 
-**(f) Assignment of personnel provisions inapplicable to members whose service obligation incurred under Scholarship Program or Loan Repayment Program** Sections 215 and 217 of this title shall not apply to members of the National Health Service Corps during their period of obligated service under the Scholarship Program or the Loan Repayment Program, except when such members are Commissioned Corps officers who entered into a contract with 22 So in original. The word “the” probably should appear. Secretary under section 254l or 254l–1 of this title after December 31, 2006 and when the Secretary determines that exercising the authority provided under section 215 or 217 of this title with respect to any such officer to 33 So in original. would not cause unreasonable disruption to health care services provided in the community in which such officer is providing health care services.
+**(f) Assignment of personnel provisions inapplicable to members whose service obligation incurred under Scholarship Program or Loan Repayment Program** Sections 215 and 217 of this title shall not apply to members of the National Health Service Corps during their period of obligated service under the Scholarship Program or the Loan Repayment Program, except when such members are Commissioned Corps officers who entered into a contract with 33 So in original. The word “the” probably should appear. Secretary under section 254l or 254l–1 of this title after December 31, 2006 and when the Secretary determines that exercising the authority provided under section 215 or 217 of this title with respect to any such officer to 44 So in original. would not cause unreasonable disruption to health care services provided in the community in which such officer is providing health care services.
 
 **(g) Conversion from Corps member to commissioned officer; retirement credits**
 
-(1) The Secretary shall, by rule, prescribe conversion provisions applicable to any individual who, within a year after completion of service as a member of the Corps described in subsection (a)(1)(C), becomes a commissioned officer in the Regular or Reserve Corps of the Service.
+(1) The Secretary shall, by rule, prescribe conversion provisions applicable to any individual who, within a year after completion of service as a member of the Corps described in subsection (a)(1)(C), becomes a commissioned officer in the Regular or Reserve Corps 1 of the Service.
 
 (2) The rules prescribed under paragraph (1) shall provide that in applying the appropriate provisions of this chapter which relate to retirement, any individual who becomes such an officer shall be entitled to have credit for any period of service as a member of the Corps described in subsection (a)(1)(C).
 
@@ -15339,6 +16114,9 @@ Subsec. (d). Pub. L. 97–35, § 2701(d), in par. (1) inserted reference to memb
 Subsec. (g). Pub. L. 97–35, § 2701(e), substituted provisions relating to conversion from Corps member to commissioned officer and retirement credits, for provisions relating to school participation in development of administrative guidelines.
 
 Subsec. (h). Pub. L. 97–35, § 2701(f), in par. (1) substituted “Health and Human Services” for “Health, Education, and Welfare”, in par. (2) substituted “254l” for “294t”, and in par. (3) inserted reference to Commonwealth with respect to the Northern Mariana Islands.
+
+#### Change of Name
+Reference to Reserve Corps of the Public Health Service deemed to be a reference to the Ready Reserve Corps, see [section 402(c)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section402/c/3&num=0&edition=prelim).
 
 #### Effective Date of 1990 Amendment
 Pub. L. 101–597, title V, § 501, Nov. 16, 1990, 104 Stat. 3036, provided that: “This Act and the amendments made by this Act [enacting sections 254f–1, 254o–1, and 254r of this title, amending this section, sections 242a, 254e to 254i, 254k, 254l to 254q–1, 254s, 294h, 294n, 294aa, 295g–1, 296m, 1320c–5, 1395l, 1395u, 1395x, 3505d, and 9840 of this title, and [section 2123 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2123&num=0&edition=prelim), Armed Forces, and enacting provisions set out as notes under sections 201, 254l–1, and 254o of this title] shall take effect October 1, 1990, or upon the date of the enactment of this Act [Nov. 16, 1990], whichever occurs later.”
@@ -15565,7 +16343,7 @@ Pub. L. 107–251, title III, § 302(b), Oct. 26, 2002, 116 Stat. 1644, which re
 Pub. L. 107–251, title III, § 302(d)(1), Oct. 26, 2002, 116 Stat. 1644, provided that: “The Administrator of the Health Resources and Services Administration, in consultation with the Association of State and Territorial Dental Directors, dental societies, and other interested parties, shall revise the criteria on which the designations of dental health professional shortage areas are based so that such criteria provide a more accurate reflection of oral health care need, particularly in rural areas.”
 
 #### GAO Study
-Pub. L. 107–251, title III, § 302(e), Oct. 26, 2002, 116 Stat. 1645, provided that: “Not later than February 1, 2005, the Comptroller General of the United States shall submit to the Congress a report on the appropriateness of the criteria, including but not limited to infant mortality rates, access to health services taking into account the distance to primary health services, the rate of poverty and ability to pay for health services, and low birth rates, established by the Secretary of Health and Human Services for the designation of health professional shortage areas and whether the deeming of federally qualified health centers and rural health clinics as such areas is appropriate and necessary.”
+Pub. L. 107–251, title III, § 302(e), Oct. 26, 2002, 116 Stat. 1645, required the Comptroller General, no later than Feb. 1, 2005, to submit to Congress a report on the appropriateness of certain criteria established by the Secretary of Health and Human Services for the designation of health professional shortage areas and whether federally qualified health centers and rural health clinics should be deemed as such areas.
 
 #### Reference to Community, Migrant, Public Housing, or Homeless Health Center Considered Reference to Health Center
 Reference to community health center, migrant health center, public housing health center, or homeless health center, considered reference to health center, see section 4(c) of Pub. L. 104–299, set out as a note under [section 254b of this title](./chapter-6a-public-health-service.md#section-254b).
@@ -15722,6 +16500,9 @@ Amendment by Pub. L. 108–163 deemed to have taken effect immediately after the
 
 #### Effective Date of 1981 Amendment
 Pub. L. 97–35, title XXVII, § 2703(d), Aug. 13, 1981, 95 Stat. 905, provided that the amendment made by that section is effective Oct. 1, 1981.
+
+#### Flexibility for Members of National Health Service Corps During Emergency Period
+Pub. L. 116–136, div. A, title III, § 3216, Mar. 27, 2020, 134 Stat. 375, provided that: “During the public health emergency declared by the Secretary of Health and Human Services under section 319 of the Public Health Service Act ([42 U.S.C. 247d](./chapter-6a-public-health-service.md#section-247d)) on January 31, 2020, with respect to COVID–19, the Secretary may, notwithstanding section 333 of the Public Health Service Act ([42 U.S.C. 254f](./chapter-6a-public-health-service.md#section-254f)), assign members of the National Health Service Corps, with the voluntary agreement of such corps members, to provide such health services at such places, and for such number of hours, as the Secretary determines necessary to respond to such emergency, provided that such places are within a reasonable distance of the site to which such members were originally assigned, and the total number of hours required are the same as were required of such members prior to the date of enactment of this Act [Mar. 27, 2020].”
 
 
 <a id="section-254f-1"></a>
@@ -16134,7 +16915,7 @@ Subsec. (b). Pub. L. 97–35, § 2708(b), substituted reference to sections 254d
 
 (1) be accepted for enrollment, or be enrolled, as a full-time student (A) in an accredited (as determined by the Secretary) educational institution in a State and (B) in a course of study or program, offered by such institution and approved by the Secretary, leading to a degree in medicine, osteopathic medicine, dentistry, or other health profession, or an appropriate degree from a graduate program of behavioral and mental health;
 
-(2) be eligible for, or hold, an appointment as a commissioned officer in the Regular or Reserve Corps of the Service or be eligible for selection for civilian service in the Corps;
+(2) be eligible for, or hold, an appointment as a commissioned officer in the Regular or Reserve Corps 11 See Change of Name note below. of the Service or be eligible for selection for civilian service in the Corps;
 
 (3) submit an application to participate in the Scholarship Program; and
 
@@ -16170,11 +16951,11 @@ Subsec. (b). Pub. L. 97–35, § 2708(b), substituted reference to sections 254d
 
   (B) the Secretary, in considering applications from individuals accepted for enrollment or enrolled in dental school, shall consider applications from all individuals accepted for enrollment or enrolled in any accredited dental school in a State; and
 
-  (C) may 11 So in original. consider such other factors regarding the applicants as the Secretary determines to be relevant to selecting qualified individuals to participate in such Program.
+  (C) may 22 So in original. consider such other factors regarding the applicants as the Secretary determines to be relevant to selecting qualified individuals to participate in such Program.
 
 (2) In providing contracts under the Scholarship Program, the Secretary shall give priority—
 
-  (A) first, to any application for such a contract submitted by an individual who has previously received a scholarship under this section or under section 294z 22 See References in Text note below. of this title;
+  (A) first, to any application for such a contract submitted by an individual who has previously received a scholarship under this section or under section 294z 33 See References in Text note below. of this title;
 
   (B) second, to any application for such a contract submitted by an individual who has characteristics that increase the probability that the individual will continue to serve in a health professional shortage area after the period of obligated service pursuant to subsection (f) is completed; and
 
@@ -16320,6 +17101,9 @@ Subsec. (i). Pub. L. 95–623 substituted March 1 for December 1 as the date for
 
 1977—Subsec. (d)(2). Pub. L. 95–215 substituted provisions relating to the school years beginning in calendar years 1978 and 1979 for provisions relating to the school year ending in the fiscal year beginning Oct. 1, 1977.
 
+#### Change of Name
+Reference to Reserve Corps of the Public Health Service deemed to be a reference to the Ready Reserve Corps, see [section 402(c)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section402/c/3&num=0&edition=prelim).
+
 #### Effective Date of 2003 Amendment
 Amendment by Pub. L. 108–163 deemed to have taken effect immediately after the enactment of Pub. L. 107–251, see section 3 of Pub. L. 108–163, set out as a note under [section 233 of this title](./chapter-6a-public-health-service.md#section-233).
 
@@ -16364,7 +17148,7 @@ Pub. L. 107–251, title III, § 302(c), Oct. 26, 2002, 116 Stat. 1644, provided
 
     (ii) in the final year of a course of a study or program, offered by such institution and approved by the Secretary, leading to a degree in medicine, osteopathic medicine, dentistry, or other health profession;
 
-(2) be eligible for, or hold, an appointment as a commissioned officer in the Regular or Reserve Corps of the Service or be eligible for selection for civilian service in the Corps; and
+(2) be eligible for, or hold, an appointment as a commissioned officer in the Regular or Reserve Corps 11 See Change of Name note below. of the Service or be eligible for selection for civilian service in the Corps; and
 
 (3) submit to the Secretary an application for a contract described in subsection (f) (relating to the payment by the Secretary of the educational loans of the individual in consideration of the individual serving for a period of obligated service).
 
@@ -16574,6 +17358,9 @@ Pub. L. 101–597, § 202(h), amended subsec. (i) generally. Prior to amendment,
 
 1988—Subsec. (b)(1). Pub. L. 100–607 substituted “osteopathic medicine” for “osteopathy” wherever appearing.
 
+#### Change of Name
+Reference to Reserve Corps of the Public Health Service deemed to be a reference to the Ready Reserve Corps, see [section 402(c)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section402/c/3&num=0&edition=prelim).
+
 #### Effective Date of 2003 Amendment
 Amendment by Pub. L. 108–163 deemed to have taken effect immediately after the enactment of Pub. L. 107–251, see section 3 of Pub. L. 108–163, set out as a note under [section 233 of this title](./chapter-6a-public-health-service.md#section-233).
 
@@ -16595,12 +17382,12 @@ Pub. L. 114–255, div. B, title IX, § 9023, Dec. 13, 2016, 130 Stat. 1253, pro
 
 (1) If an individual is required under subsection (a) to provide service as specified in section 254l(f)(1)(B)(v) or 254l–1(f)(1)(B)(iv) of this title (hereinafter in this subsection referred to as “obligated service”), the Secretary shall, not later than ninety days before the date described in paragraph (5), determine if the individual shall provide such service—
 
-  (A) as a member of the Corps who is a commissioned officer in the Regular or Reserve Corps of the Service or who is a civilian employee of the United States, or
+  (A) as a member of the Corps who is a commissioned officer in the Regular or Reserve Corps 11 See Change of Name note below. of the Service or who is a civilian employee of the United States, or
 
   (B) as a member of the Corps who is not such an officer or employee,
   and shall notify such individual of such determination.
 
-(2) If the Secretary determines that an individual shall provide obligated service as a member of the Corps who is a commissioned officer in the Service or a civilian employee of the United States, the Secretary shall, not later than sixty days before the date described in paragraph (5), provide such individual with sufficient information regarding the advantages and disadvantages of service as such a commissioned officer or civilian employee to enable the individual to make a decision on an informed basis. To be eligible to provide obligated service as a commissioned officer in the Service, an individual shall notify the Secretary, not later than thirty days before the date described in paragraph (5), of the individual’s desire to provide such service as such an officer. If an individual qualifies for an appointment as such an officer, the Secretary shall, as soon as possible after the date described in paragraph (5), appoint the individual as a commissioned officer of the Regular or Reserve Corps of the Service and shall designate the individual as a member of the Corps.
+(2) If the Secretary determines that an individual shall provide obligated service as a member of the Corps who is a commissioned officer in the Service or a civilian employee of the United States, the Secretary shall, not later than sixty days before the date described in paragraph (5), provide such individual with sufficient information regarding the advantages and disadvantages of service as such a commissioned officer or civilian employee to enable the individual to make a decision on an informed basis. To be eligible to provide obligated service as a commissioned officer in the Service, an individual shall notify the Secretary, not later than thirty days before the date described in paragraph (5), of the individual’s desire to provide such service as such an officer. If an individual qualifies for an appointment as such an officer, the Secretary shall, as soon as possible after the date described in paragraph (5), appoint the individual as a commissioned officer of the Regular or Reserve Corps 1 of the Service and shall designate the individual as a member of the Corps.
 
 (3) If an individual provided notice by the Secretary under paragraph (2) does not qualify for appointment as a commissioned officer in the Service, the Secretary shall, as soon as possible after the date described in paragraph (5), appoint such individual as a civilian employee of the United States and designate the individual as a member of the Corps.
 
@@ -16626,7 +17413,7 @@ Pub. L. 114–255, div. B, title IX, § 9023, Dec. 13, 2016, 130 Stat. 1253, pro
 
 **(c) Obligated service period; commencement** An individual shall be considered to have begun serving a period of obligated service—
 
-(1) on the date such individual is appointed as an officer in a Regular or Reserve Corps of the Service or is designated as a member of the Corps under subsection (b)(3) or (b)(4), or
+(1) on the date such individual is appointed as an officer in a Regular or Reserve Corps 1 of the Service or is designated as a member of the Corps under subsection (b)(3) or (b)(4), or
 
 (2) in the case of an individual who has entered into an agreement with the Secretary under [section 254n of this title](./chapter-6a-public-health-service.md#section-254n), on the date specified in such agreement,
 whichever is earlier.
@@ -16699,6 +17486,9 @@ Subsec. (e). Pub. L. 97–35, § 2709(c)(6), substituted provisions respecting m
 Subsec. (b)(5)(B). Pub. L. 96–76, § 202(b)(3), substituted “referred to in subparagraph (A)” for “of medicine, osteopathy, or dentistry”.
 
 1978—Subsec. (d). Pub. L. 95–626 substituted “subpart II of part D” for “subpart II of part C”.
+
+#### Change of Name
+Reference to Reserve Corps of the Public Health Service deemed to be a reference to the Ready Reserve Corps, see [section 402(c)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section402/c/3&num=0&edition=prelim).
 
 #### Effective Date of 1981 Amendment
 Pub. L. 97–35, title XXVII, § 2709(h), Aug. 13, 1981, 95 Stat. 912, provided that: “The amendments made by paragraphs (2), (3), and (5)(B) of subsection (c) [amending this section] shall apply with respect to contracts entered into under the National Health Service Corps scholarship program under subpart III of part C of title VII of the Public Health Service Act [[42 U.S.C. 294r](./chapter-6a-public-health-service.md#section-294r) et seq.] after the date of the enactment of this Act [Aug. 13, 1981]. An individual who before such date has entered into such a contract and who has not begun the period of obligated service required under such contract shall be given the opportunity to revise such contract to permit the individual to serve such period as a member of the National Health Service Corps who is not an employee of the United States.”
@@ -18279,6 +19069,9 @@ Pub. L. 111–148, title II, § 2501(f)(2), Mar. 23, 2010, 124 Stat. 310, provid
 
 Pub. L. 111–148, title VII, § 7101(e), Mar. 23, 2010, 124 Stat. 823, provided that: “(1) In general.—The amendments made by this section [amending this section] and section 7102 [amending this section] shall take effect on January 1, 2010, and shall apply to drugs purchased on or after January 1, 2010. “(2) Effectiveness.—The amendments made by this section and section 7102 shall be effective and shall be taken into account in determining whether a manufacturer is deemed to meet the requirements of section 340B(a) of the Public Health Service Act ([42 U.S.C. 256b(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section256b/a&num=0&edition=prelim)), notwithstanding any other provision of law.”
 
+#### Pricing of Diagnostic Testing
+Pub. L. 116–136, div. A, title III, § 3202, Mar. 27, 2020, 134 Stat. 367, provided that: “(a) Reimbursement Rates.—A group health plan or a health insurance issuer providing coverage of items and services described in section 6001(a) of division F of the Families First Coronavirus Response Act (Public Law 116–127) [[42 U.S.C. 1320b–5](./chapter-007-social-security.md#section-1320b-5) note] with respect to an enrollee shall reimburse the provider of the diagnostic testing as follows:“(1) If the health plan or issuer has a negotiated rate with such provider in effect before the public health emergency declared under section 319 of the Public Health Service Act ([42 U.S.C. 247d](./chapter-6a-public-health-service.md#section-247d)), such negotiated rate shall apply throughout the period of such declaration. “(2) If the health plan or issuer does not have a negotiated rate with such provider, such plan or issuer shall reimburse the provider in an amount that equals the cash price for such service as listed by the provider on a public internet website, or such plan or issuer may negotiate a rate with such provider for less than such cash price. “(b) Requirement to Publicize Cash Price for Diagnostic Testing for COVID–19.—“(1) In general.—During the emergency period declared under section 319 of the Public Health Service Act ([42 U.S.C. 247d](./chapter-6a-public-health-service.md#section-247d)), each provider of a diagnostic test for COVID–19 shall make public the cash price for such test on a public internet website of such provider. “(2) Civil monetary penalties.—The Secretary of Health and Human Services may impose a civil monetary penalty on any provider of a diagnostic test for COVID–19 that is not in compliance with paragraph (1) and has not completed a corrective action plan to comply with the requirements of such paragraph, in an amount not to exceed $300 per day that the violation is ongoing.”
+
 #### Study of Treatment of Certain Clinics as Covered Entities Eligible for Prescription Drug Discounts
 Pub. L. 102–585, title VI, § 602(b), Nov. 4, 1992, 106 Stat. 4970, directed Secretary of Health and Human Services to conduct a study of feasibility and desirability of including specified entities receiving funds from a State as covered entities eligible for limitations on prices of covered outpatient drugs under [42 U.S.C. 256b(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section256b/a&num=0&edition=prelim) and, not later than 1 year after Nov. 4, 1992, to submit a report to Congress on the study, including in the report a description of the entities that were the subject of the study, an analysis of the extent to which such entities procured prescription drugs, and an analysis of the impact of the inclusion of such entities as covered entities on the quality of care provided to and the health status of the patients of such entities.
 
@@ -18830,7 +19623,7 @@ Subsec. (f). Pub. L. 115–302, § 3(2), substituted “$13,903,000 for each of 
 
 **(g) Funding**
 
-(1) **In general** — To carry out this section, there are appropriated such sums as may be necessary, not to exceed $230,000,000, for the period of fiscal years 2011 through 2015, $60,000,000 for each of fiscal years 2016 and 2017, $126,500,000 for each of fiscal years 2018 and 2019, and $28,072,603 for the period beginning on October 1, 2019, and ending on December 20, 2019, to remain available until expended.
+(1) **In general** — To carry out this section, there are appropriated such sums as may be necessary, not to exceed $230,000,000, for the period of fiscal years 2011 through 2015, $60,000,000 for each of fiscal years 2016 and 2017, and $126,500,000 for each of fiscal years 2018 through 2023, to remain available until expended.
 
 (2) **Administrative expenses** — Of the amount made available to carry out this section for any fiscal year, the Secretary may not use more than 5 percent of such amount for the expenses of administering this section.
 
@@ -18903,7 +19696,17 @@ Section 4410 of the Balanced Budget Act of 1997, referred to in subsec. (c)(2)(A
 Another section 340H of act July 1, 1944, was renumbered section 340I and is classified to [section 256i of this title](./chapter-6a-public-health-service.md#section-256i).
 
 #### Amendments
-2019—Subsec. (g)(1). Pub. L. 116–69 substituted “$28,072,603” for “$18,021,918” and “December 20, 2019” for “November 21, 2019”.
+2020—Subsec. (g)(1). Pub. L. 116–260 inserted “and” after “2017,” and substituted “2023” for “fiscal year 2020, and $27,379,452 for the period beginning on October 1, 2020, and ending on December 18, 2020”.
+
+Pub. L. 116–215 substituted “$27,379,452” for “$24,953,425” and “December 18, 2020” for “December 11, 2020”.
+
+Pub. L. 116–159 substituted “$24,953,425” for “$21,141,096” and “December 11, 2020” for “November 30, 2020”.
+
+Pub. L. 116–136 substituted “through fiscal year 2020, and $21,141,096 for the period beginning on October 1, 2020, and ending on November 30, 2020” for “and 2019, and $81,445,205 for the period beginning on October 1, 2019, and ending on May 22, 2020”.
+
+2019—Subsec. (g)(1). Pub. L. 116–94 substituted “$81,445,205” for “$28,072,603” and “May 22, 2020” for “December 20, 2019”.
+
+Pub. L. 116–69 substituted “$28,072,603” for “$18,021,918” and “December 20, 2019” for “November 21, 2019”.
 
 Pub. L. 116–59 struck out “and” before “$126,500,000” and inserted “and $18,021,918 for the period beginning on October 1, 2019, and ending on November 21, 2019,” before “to remain available”.
 
@@ -19110,7 +19913,7 @@ shall be subject to no restriction on the export of the product under this chapt
 
 **(i) “Biological product” defined** In this section:
 
-(1) The term “biological product” means a virus, therapeutic serum, toxin, antitoxin, vaccine, blood, blood component or derivative, allergenic product, protein (except any chemically synthesized polypeptide), or analogous product, or arsphenamine or derivative of arsphenamine (or any other trivalent organic arsenic compound), applicable to the prevention, treatment, or cure of a disease or condition of human beings.
+(1) The term “biological product” means a virus, therapeutic serum, toxin, antitoxin, vaccine, blood, blood component or derivative, allergenic product, protein, or analogous product, or arsphenamine or derivative of arsphenamine (or any other trivalent organic arsenic compound), applicable to the prevention, treatment, or cure of a disease or condition of human beings.
 
 (2) The term “biosimilar” or “biosimilarity”, in reference to a biological product that is the subject of an application under subsection (k), means—
 
@@ -19154,9 +19957,11 @@ shall be subject to no restriction on the export of the product under this chapt
 
     (iii) *Additional information* — An application submitted under this subsection—
 
-      (I) shall include publicly-available information regarding the Secretary’s previous determination that the reference product is safe, pure, and potent; and
+      (I) shall include publicly-available information regarding the Secretary’s previous determination that the reference product is safe, pure, and potent;
 
-      (II) may include any additional information in support of the application, including publicly-available information with respect to the reference product or another biological product.
+      (II) may include any additional information in support of the application, including publicly-available information with respect to the reference product or another biological product; and
+
+      (III) may include information to show that the conditions of use prescribed, recommended, or suggested in the labeling proposed for the biological product have been previously approved for the reference product.
 
   (B) *Interchangeability* — An application (or a supplement to an application) submitted under this subsection may include information demonstrating that the biological product meets the standards described in paragraph (4).
 
@@ -19221,6 +20026,14 @@ shall be subject to no restriction on the export of the product under this chapt
 
       (II) a modification to the structure of the biological product that does not result in a change in safety, purity, or potency.
 
+  (D) *Deemed licenses*
+
+    (i) *No additional exclusivity through deeming* — An approved application that is deemed to be a license for a biological product under this section pursuant to section 7002(e)(4) of the Biologics Price Competition and Innovation Act of 2009 shall not be treated as having been first licensed under subsection (a) for purposes of subparagraphs (A) and (B).
+
+    (ii) *Application of limitations on exclusivity* — Subparagraph (C) shall apply with respect to a reference product referred to in such subparagraph that was the subject of an approved application that was deemed to be a license pursuant to section 7002(e)(4) of the Biologics Price Competition and Innovation Act of 2009.
+
+    (iii) *Applicability* — The exclusivity periods described in section 527, section 505A(b)(1)(A)(ii), and section 505A(c)(1)(A)(ii) of the Federal Food, Drug, and Cosmetic Act [[21 U.S.C. 360cc](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section360cc&num=0&edition=prelim) and 355a(b)(1)(A)(ii), (c)(1)(A)(ii)] shall continue to apply to a biological product after an approved application for the biological product is deemed to be a license for the biological product under subsection (a) pursuant to section 7002(e)(4) of the Biologics Price Competition and Innovation Act of 2009.
+
 (8) **Guidance documents**
 
   (A) *In general* — The Secretary may, after opportunity for public comment, issue guidance in accordance, except as provided in subparagraph (B)(i), with section 701(h) of the Federal Food, Drug, and Cosmetic Act [[21 U.S.C. 371(h)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section371/h&num=0&edition=prelim)] with respect to the licensure of a biological product under this subsection. Any such guidance may be general or specific.
@@ -19246,6 +20059,30 @@ shall be subject to no restriction on the export of the product under this chapt
     (ii) *Modification or reversal* — The Secretary may issue a subsequent guidance document under subparagraph (A) to modify or reverse a guidance document under clause (i).
 
     (iii) *No effect on ability to deny license* — Clause (i) shall not be construed to require the Secretary to approve a product with respect to which the Secretary has not indicated in a guidance document that the science and experience, as described in clause (i), does not allow approval of such an application.
+
+(9) **Public listing**
+
+  (A) *In general*
+
+    (i) *Initial publication* — Not later than 180 days after December 27, 2020, the Secretary shall publish and make available to the public in a searchable, electronic format—
+
+      (I) a list of each biological product, by nonproprietary name (proper name), for which, as of December 27, 2020, a biologics license under subsection (a) or this subsection is in effect, or that, as of such date of enactment, is deemed to be licensed under this section pursuant to section 7002(e)(4) of the Biologics Price Competition and Innovation Act of 2009;
+
+      (II) the date of licensure of the marketing application and the application number; and
+
+      (III) with respect to each biological product described in subclause (I), the licensure status, and, as available, the marketing status.
+
+    (ii) *Revisions* — Every 30 days after the publication of the first list under clause (i), the Secretary shall revise the list to include each biological product which has been licensed under subsection (a) or this subsection during the 30-day period or deemed licensed under this section pursuant to section 7002(e)(4) of the Biologics Price Competition and Innovation Act of 2009.
+
+    (iii) *Patent information* — Not later than 30 days after a list of patents under subsection (l)(3)(A), or a supplement to such list under subsection (l)(7), has been provided by the reference product sponsor to the subsection (k) applicant respecting a biological product included on the list published under this subparagraph, the reference product sponsor shall provide such list of patents (or supplement thereto) and their corresponding expiry dates to the Secretary, and the Secretary shall, in revisions made under clause (ii), include such information for such biological product. Within 30 days of providing any subsequent or supplemental list of patents to any subsequent subsection (k) applicant under subsection (l)(3)(A) or (l)(7), the reference product sponsor shall update the information provided to the Secretary under this clause with any additional patents from such subsequent or supplemental list and their corresponding expiry dates.
+
+    (iv) *Listing of exclusivities* — For each biological product included on the list published under this subparagraph, the Secretary shall specify each exclusivity period under paragraph (6) or paragraph (7) for which the Secretary has determined such biological product to be eligible and that has not concluded.
+
+  (B) *Revocation or suspension of license* — If the license of a biological product is determined by the Secretary to have been revoked or suspended for safety, purity, or potency reasons, it may not be published in the list under subparagraph (A). If such revocation or suspension occurred after inclusion of such biological product in the list published under subparagraph (A), the reference product sponsor shall notify the Secretary that—
+
+    (i) the biological product shall be immediately removed from such list for the same period as the revocation or suspension; and
+
+    (ii) a notice of the removal shall be published in the Federal Register.
 
 **(l) Patents**
 
@@ -19411,11 +20248,21 @@ The effective date of this paragraph, referred to in subsec. (d)(2), is the effe
 
 The Federal Food, Drug, and Cosmetic Act, referred to in subsecs. (g), (h), (j), and (k)(5)(C), is act June 25, 1938, ch. 675, 52 Stat. 1040, which is classified generally to chapter 9 (§ 301 et seq.) of Title 21, Food and Drugs. For complete classification of this Act to the Code, see [section 301 of Title 21](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section301&num=0&edition=prelim) and Tables.
 
+Section 7002(e)(4) of the Biologics Price Competition and Innovation Act of 2009, referred to in subsec. (k)(7)(D), (9)(A)(i)(I), (ii), is section 7002(e)(4) of Pub. L. 111–148, which is set out as a note under this section.
+
 Sections 526, 527(a), and 505A(d)(4), referred to in subsec. (m)(2)(B), (3)(B), (4), probably mean sections 526, 527(a), and 505A(d)(4) of the Federal Food, Drug, and Cosmetic Act, act June 25, 1938, ch. 675, which are classified to sections 360bb, 360cc(a), and 355a(d)(4), respectively, of Title 21, Food and Drugs.
 
 The Controlled Substances Act, referred to in subsec. (n)(1), is title II of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1242, which is classified principally to subchapter I (§ 801 et seq.) of chapter 13 of Title 21, Food and Drugs. For complete classification of this Act to the Code, see Short Title note set out under [section 801 of Title 21](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section801&num=0&edition=prelim) and Tables.
 
 #### Amendments
+2020—Subsec. (k)(2)(A)(iii)(III). Pub. L. 116–260, § 322, added subcl. (III).
+
+Subsec. (k)(9). Pub. L. 116–260, § 325(a), added par. (9).
+
+2019—Subsec. (i)(1). Pub. L. 116–94, § 605, struck out “(except any chemically synthesized polypeptide)” after “protein”.
+
+Subsec. (k)(7)(D). Pub. L. 116–94, § 606, added subpar. (D).
+
 2017—Subsec. (m)(2) to (4). Pub. L. 115–52 substituted “section 505A(d)(4)” for “section 505A(d)(3)”.
 
 2016—Subsec. (a)(2)(E). Pub. L. 114–255 added subpar. (E).
@@ -19484,7 +20331,7 @@ Functions of Public Health Service, Surgeon General of Public Health Service, an
 References to Secretary and Department of Health, Education, and Welfare substituted for references to Federal Security Administrator and Federal Security Agency, respectively, pursuant to Reorg. Plan No. 1 of 1953, § 5, set out as a note under [section 3501 of this title](./chapter-043-department-of-health-and-human-services.md#section-3501), which transferred all functions of Federal Security Administrator to Secretary of Health, Education, and Welfare and all agencies of Federal Security Agency to Department of Health, Education, and Welfare. Federal Security Agency and office of Administrator abolished by section 8 of Reorg. Plan No. 1 of 1953. Secretary and Department of Health, Education, and Welfare redesignated Secretary and Department of Health and Human Services by section 509(b) of Pub. L. 96–88 which is classified to [section 3508(b) of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section3508/b&num=0&edition=prelim).
 
 #### Products Previously Approved Under the Federal Food, Drug, and Cosmetic Act
-Pub. L. 111–148, title VII, § 7002(e), Mar. 23, 2010, 124 Stat. 817, provided that: “(1) Requirement to follow section 351.—Except as provided in paragraph (2), an application for a biological product shall be submitted under section 351 of the Public Health Service Act ([42 U.S.C. 262](./chapter-6a-public-health-service.md#section-262)) (as amended by this Act). “(2) Exception.—An application for a biological product may be submitted under section 505 of the Federal Food, Drug, and Cosmetic Act ([21 U.S.C. 355](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section355&num=0&edition=prelim)) if—“(A) such biological product is in a product class for which a biological product in such product class is the subject of an application approved under such section 505 not later than the date of enactment of this Act [Mar. 23, 2010]; and “(B) such application—“(i) has been submitted to the Secretary of Health and Human Services (referred to in this subtitle [subtitle A (§§ 7001–7003) of title VII of Pub. L. 111–148, see Short Title of 2010 Amendment note under [section 201 of this title](./chapter-6a-public-health-service.md#section-201)] as the ‘Secretary’) before the date of enactment of this Act; or “(ii) is submitted to the Secretary not later than the date that is 10 years after the date of enactment of this Act. “(3) Limitation.—Notwithstanding paragraph (2), an application for a biological product may not be submitted under section 505 of the Federal Food, Drug, and Cosmetic Act ([21 U.S.C. 355](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section355&num=0&edition=prelim)) if there is another biological product approved under subsection (a) of section 351 of the Public Health Service Act [[42 U.S.C. 262](./chapter-6a-public-health-service.md#section-262)] that could be a reference product with respect to such application (within the meaning of such section 351) if such application were submitted under subsection (k) of such section 351. “(4) Deemed approved under section 351.—An approved application for a biological product under section 505 of the Federal Food, Drug, and Cosmetic Act ([21 U.S.C. 355](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section355&num=0&edition=prelim)) shall be deemed to be a license for the biological product under such section 351 on the date that is 10 years after the date of enactment of this Act. “(5) Definitions.—For purposes of this subsection, the term ‘biological product’ has the meaning given such term under section 351 of the Public Health Service Act ([42 U.S.C. 262](./chapter-6a-public-health-service.md#section-262)) (as amended by this Act).”
+Pub. L. 111–148, title VII, § 7002(e), Mar. 23, 2010, 124 Stat. 817, as amended by Pub. L. 116–94, div. N, title I, § 607, Dec. 20, 2019, 133 Stat. 3127, provided that: “(1) Requirement to follow section 351.—Except as provided in paragraph (2), an application for a biological product shall be submitted under section 351 of the Public Health Service Act ([42 U.S.C. 262](./chapter-6a-public-health-service.md#section-262)) (as amended by this Act). “(2) Exception.—An application for a biological product may be submitted under section 505 of the Federal Food, Drug, and Cosmetic Act ([21 U.S.C. 355](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section355&num=0&edition=prelim)) if—“(A) such biological product is in a product class for which a biological product in such product class is the subject of an application approved under such section 505 not later than the date of enactment of this Act [Mar. 23, 2010]; and “(B) such application—“(i) has been submitted to the Secretary of Health and Human Services (referred to in this subtitle [subtitle A (§§ 7001–7003) of title VII of Pub. L. 111–148, see Short Title of 2010 Amendment note under [section 201 of this title](./chapter-6a-public-health-service.md#section-201)] as the ‘Secretary’) before the date of enactment of this Act; or “(ii) is submitted to the Secretary not later than the date that is 10 years after the date of enactment of this Act. “(3) Limitation.—Notwithstanding paragraph (2), an application for a biological product may not be submitted under section 505 of the Federal Food, Drug, and Cosmetic Act ([21 U.S.C. 355](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section355&num=0&edition=prelim)) if there is another biological product approved under subsection (a) of section 351 of the Public Health Service Act [[42 U.S.C. 262](./chapter-6a-public-health-service.md#section-262)] that could be a reference product with respect to such application (within the meaning of such section 351) if such application were submitted under subsection (k) of such section 351. “(4) Deemed approved under section 351.—“(A) In general.—An approved application for a biological product under section 505 of the Federal Food, Drug, and Cosmetic Act ([21 U.S.C. 355](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section355&num=0&edition=prelim)) shall be deemed to be a license for the biological product under such section 351 on the date that is 10 years after the date of enactment of this Act. “(B) Treatment of certain applications.—“(i) In general.—With respect to an application for a biological product submitted under subsection (b) or (j) of section 505 of the Federal Food, Drug, and Cosmetic Act ([21 U.S.C. 355](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section355&num=0&edition=prelim)) that is filed not later than March 23, 2019, and is not approved as of March 23, 2020, the Secretary shall continue to review such application under such section 505 after March 23, 2020. “(ii) Effect on listed drugs.—Only for purposes of carrying out clause (i), with respect to any applicable listed drug with respect to such application, the following shall apply:“(I) Any drug that is a biological product that has been deemed licensed under section 351 of the Public Health Service Act ([42 U.S.C. 262](./chapter-6a-public-health-service.md#section-262)) pursuant to subparagraph (A) and that is referenced in an application described in clause (i), shall continue to be identified as a listed drug on the list published pursuant to section 505(j)(7) of the Federal Food, Drug, and Cosmetic Act, and the information for such drug on such list shall not be revised after March 20, 2020, until— “(aa) such drug is removed from such list in accordance with subclause (III) or subparagraph (C) of such section 505(j)(7); or “(bb) this subparagraph no longer has force or effect. “(II) Any drug that is a biological product that has been deemed licensed under section 351 of the Public Health Service Act ([42 U.S.C. 262](./chapter-6a-public-health-service.md#section-262)) pursuant to subparagraph (A) and that is referenced in an application described in clause (i) shall be subject only to requirements applicable to biological products licensed under such section. “(III) Upon approval under subsection (c) or (j) of section 505 of the Federal Food, Drug, and Cosmetic Act of an application described in clause (i), the Secretary shall remove from the list published pursuant to section 505(j)(7) of the Federal Food, Drug, and Cosmetic Act any listed drug that is a biological product that has been deemed licensed under section 351 of the Public Health Service Act pursuant to subparagraph (A) and that is referenced in such approved application, unless such listed drug is referenced in one or more additional applications described in clause (i). “(iii) Deemed licensure.—Upon approval of an application described in clause (i), such approved application shall be deemed to be a license for the biological product under section 351 of the Public Health Service Act. “(iv) Rule of construction.—“(I) Application of certain provisions.— “(aa) Patent certification or statement.—An application described in clause (i) shall contain a patent certification or statement described in, as applicable, section 505(b)(2) of the Federal Food, Drug, and Cosmetic Act or clauses (vii) and (viii) of section 505(j)(2)(A) of such Act and, with respect to any listed drug referenced in such application, comply with related requirements concerning any timely filed patent information listed pursuant to section 505(j)(7) of such Act. “(bb) Date of approval.—The earliest possible date on which any pending application described in clause (i) may be approved shall be determined based on—“(AA) the last expiration date of any applicable period of exclusivity that would prevent such approval and that is described in section 505(c)(3)(E), 505(j)(5)(B)(iv), 505(j)(5)(F), 505A [[21 U.S.C. 355a](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section355a&num=0&edition=prelim)], 505E [[21 U.S.C. 355f](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section355f&num=0&edition=prelim)], or 527 [[21 U.S.C. 360cc](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section360cc&num=0&edition=prelim)] of the Federal Food, Drug, and Cosmetic Act; and “(BB) if the application was submitted pursuant to section 505(b)(2) of the Federal Food, Drug, and Cosmetic Act and references any listed drug, the last applicable date determined under subparagraph (A), (B), or (C) of section 505(c)(3) of such Act, or, if the application was submitted under section 505(j) of such Act, the last applicable date determined under clause (i), (ii), or (iii) of section 505(j)(5)(B) of such Act. “(II) Exclusivity.—Nothing in this subparagraph shall be construed to affect section 351(k)(7)(D) of the Public Health Service Act. “(v) Listing.—The Secretary may continue to review an application after March 23, 2020, pursuant to clause (i), and continue to identify any applicable listed drug pursuant to clause (ii) on the list published pursuant to section 505(j)(7) of the Federal Food, Drug, and Cosmetic Act, even if such review or listing may reveal the existence of such application and the identity of any listed drug for which the investigations described in section 505(b)(1)(A) of the Federal Food, Drug, and Cosmetic Act are relied upon by the applicant for approval of the pending application. Nothing in this subparagraph shall be construed as authorizing the Secretary to disclose any other information that is a trade secret or confidential information described in [section 552(b)(4) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section552/b/4&num=0&edition=prelim), United States Code. “(vi) Sunset.—Beginning on October 1, 2022, this subparagraph shall have no force or effect and any applications described in clause (i) that have not been approved shall be deemed withdrawn. “(5) Definitions.—For purposes of this subsection, the term ‘biological product’ has the meaning given such term under section 351 of the Public Health Service Act ([42 U.S.C. 262](./chapter-6a-public-health-service.md#section-262)) (as amended by this Act).”
 
 #### Costs of Reviewing Biosimilar Biological Product Applications
 Pub. L. 111–148, title VII, § 7002(f)(3)(B), (C), Mar. 23, 2010, 124 Stat. 818, 819, provided that: “(B) Evaluation of costs of reviewing biosimilar biological product applications.—During the period beginning on the date of enactment of this Act [Mar. 23, 2010] and ending on October 1, 2010, the Secretary [of Health and Human Services] shall collect and evaluate data regarding the costs of reviewing applications for biological products submitted under section 351(k) of the Public Health Service Act [[42 U.S.C. 262(k)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section262/k&num=0&edition=prelim)] (as added by this Act) during such period. “(C) Audit.—“(i) In general.—On the date that is 2 years after first receiving a user fee applicable to an application for a biological product under section 351(k) of the Public Health Service Act [[42 U.S.C. 262(k)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section262/k&num=0&edition=prelim)] (as added by this Act), and on a biennial basis thereafter until October 1, 2013, the Secretary shall perform an audit of the costs of reviewing such applications under such section 351(k). Such an audit shall compare—“(I) the costs of reviewing such applications under such section 351(k) to the amount of the user fee applicable to such applications; and “(II)(aa) such ratio determined under subclause (I); to “(bb) the ratio of the costs of reviewing applications for biological products under section 351(a) of such Act [[42 U.S.C. 262(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section262/a&num=0&edition=prelim)] (as amended by this Act) to the amount of the user fee applicable to such applications under such section 351(a). “(ii) Alteration of user fee.—If the audit performed under clause (i) indicates that the ratios compared under subclause (II) of such clause differ by more than 5 percent, then the Secretary shall alter the user fee applicable to applications submitted under such section 351(k) [[42 U.S.C. 262(k)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section262/k&num=0&edition=prelim)] to more appropriately account for the costs of reviewing such applications. “(iii) Accounting standards.—The Secretary shall perform an audit under clause (i) in conformance with the accounting principles, standards, and requirements prescribed by the Comptroller General of the United States under [section 3511 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section3511&num=0&edition=prelim), United State Code, to ensure the validity of any potential variability.”
@@ -21175,6 +22022,9 @@ Office of Surgeon General abolished by section 3 of Reorg. Plan No. 3 of 1966, e
 
 Functions of Federal Security Administrator transferred to Secretary of Health, Education, and Welfare and all agencies of Federal Security Agency transferred to Department of Health, Education, and Welfare by section 5 of Reorg. Plan No. 1 of 1953, set out as a note under [section 3501 of this title](./chapter-043-department-of-health-and-human-services.md#section-3501). Federal Security Agency and office of Administrator abolished by section 8 of Reorg. Plan No. 1 of 1953. Secretary and Department of Health, Education, and Welfare redesignated Secretary and Department of Health and Human Services by section 509(b) of Pub. L. 96–88 which is classified to [section 3508(b) of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section3508/b&num=0&edition=prelim).
 
+#### Extension of Eviction Moratorium
+Pub. L. 116–260, div. N, title V, § 502, Dec. 27, 2020, 134 Stat. 2078, provided that: “The order issued by the Centers for Disease Control and Prevention under section 361 of the Public Health Service Act ([42 U.S.C. 264](./chapter-6a-public-health-service.md#section-264)), entitled ‘Temporary Halt in Residential Evictions To Prevent the Further Spread of COVID–19’ (85 Fed. Reg. 55292 (September 4, 2020)[)] is extended through January 31, 2021, notwithstanding the effective dates specified in such Order.”
+
 #### Evaluation of Public Health Authorities
 Pub. L. 110–392, title I, § 121, Oct. 13, 2008, 122 Stat. 4200, provided that: “(a) In General.—Not later than 180 days after the date of enactment of the Comprehensive Tuberculosis Elimination Act of 2008 [Oct. 13, 2008], the Secretary of Health and Human Services shall prepare and submit to the appropriate committees of Congress a report that evaluates and provides recommendations on changes needed to Federal and State public health authorities to address current disease containment challenges such as isolation and quarantine. “(b) Contents of Evaluation.—The report described in subsection (a) shall include—“(1) an evaluation of the effectiveness of current policies to detain patients with active tuberculosis; “(2) an evaluation of whether Federal laws should be strengthened to expressly address the movement of individuals with active tuberculosis; and “(3) specific legislative recommendations for changes to Federal laws, if any. “(c) Update of Quarantine Regulations.—Not later than 240 days after the date of enactment of this Act [Oct. 13, 2008], the Secretary of Health and Human Services shall promulgate regulations to update the current interstate and foreign quarantine regulations found in parts 70 and 71 of title 42, Code of Federal Regulations.”
 
@@ -21510,7 +22360,7 @@ Pub. L. 101–616, title III, § 301, Nov. 16, 1990, 104 Stat. 3286, provided th
 Pub. L. 106–505, title VII, § 701(b), Nov. 13, 2000, 114 Stat. 2346, and Pub. L. 106–554, § 1(a)(1) [title II, § 219(a)], Dec. 21, 2000, 114 Stat. 2763, 2763A–28, provided that: “Congress makes the following findings: “(1) Organ procurement organizations play an important role in the effort to increase organ donation in the United States. “(2) The current process for the certification and recertification of organ procurement organizations conducted by the Department of Health and Human Services has created a level of uncertainty that is interfering with the effectiveness of organ procurement organizations in raising the level of organ donation. “(3) The General Accounting Office [now Government Accountability Office], the Institute of Medicine, and the Harvard School of Public Health have identified substantial limitations in the organ procurement organization certification and recertification process and have recommended changes in that process. “(4) The limitations in the recertification process include:“(A) An exclusive reliance on population-based measures of performance that do not account for the potential in the population for organ donation and do not permit consideration of other outcome and process standards that would more accurately reflect the relative capability and performance of each organ procurement organization. “(B) A lack of due process to appeal to the Secretary of Health and Human Services for recertification on either substantive or procedural grounds. “(5) The Secretary of Health and Human Services has the authority under section 1138(b)(1)(A)(i) of the Social Security Act ([42 U.S.C. 1320b–8(b)(1)(A)(i)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1320b–8/b/1/A/i&num=0&edition=prelim)) to extend the period for recertification of an organ procurement organization from 2 to 4 years on the basis of its past practices in order to avoid the inappropriate disruption of the nation’s organ system. “(6) The Secretary of Health and Human Services can use the extended period described in paragraph (5) for recertification of all organ procurement organizations to—“(A) develop improved performance measures that would reflect organ donor potential and interim outcomes, and to test these measures to ensure that they accurately measure performance differences among the organ procurement organizations; and “(B) improve the overall certification process by incorporating process as well as outcome performance measures, and developing equitable processes for appeals.”
 
 #### Study Regarding Immunosuppressive Drugs
-Pub. L. 106–310, div. A, title XXI, § 2101(b), Oct. 17, 2000, 114 Stat. 1156, provided that: “(1) In general.—The Secretary of Health and Human Services (referred to in this subsection as the ‘Secretary’) shall provide for a study to determine the costs of immunosuppressive drugs that are provided to children pursuant to organ transplants and to determine the extent to which health plans and health insurance cover such costs. The Secretary may carry out the study directly or through a grant to the Institute of Medicine (or other public or nonprofit private entity). “(2) Recommendations regarding certain issues.—The Secretary shall ensure that, in addition to making determinations under paragraph (1), the study under such paragraph makes recommendations regarding the following issues:“(A) The costs of immunosuppressive drugs that are provided to children pursuant to organ transplants and to determine the extent to which health plans, health insurance and government programs cover such costs. “(B) The extent of denial of organs to be released for transplant by coroners and medical examiners. “(C) The special growth and developmental issues that children have pre- and post-organ transplantation. “(D) Other issues that are particular to the special health and transplantation needs of children. “(3) Report.—The Secretary shall ensure that, not later than December 31, 2001, the study under paragraph (1) is completed and a report describing the findings of the study is submitted to the Congress.”
+Pub. L. 106–310, div. A, title XXI, § 2101(b), Oct. 17, 2000, 114 Stat. 1156, required the Secretary of Health and Human Services to provide for a study to determine the costs of immunosuppressive drugs provided to children pursuant to organ transplants and to determine the extent to which health plans and health insurance covered such costs, and related issues, and to submit the report to Congress by Dec. 31, 2001.
 
 #### Study on Hospital Agreements With Organ Procurement Agencies
 Pub. L. 103–432, title I, § 155(b), Oct. 31, 1994, 108 Stat. 4439, directed Office of Technology Assessment to conduct study to determine efficacy and fairness of requiring a hospital to enter into agreement under subsec. (b)(3)(A) of this section with organ procurement agency for service area in which such hospital is located and impact of such requirement on efficacy and fairness of organ procurement and distribution, and to submit to Congress, not later than 2 years after Oct. 31, 1994, report containing findings of such study and implications of such findings with respect to policies affecting organ procurement and distribution.
@@ -24292,13 +25142,33 @@ Pub. L. 105–392, title IV, § 419(b), (c), Nov. 13, 1998, 112 Stat. 3591, 3592
 
   (E) *Maintenance of information* — The State must require that information described in subparagraphs (A)(iii) and (A)(iv) be kept on file at the student’s school in a location easily accessible in the event of an asthma or anaphylaxis emergency.
 
-  (F) *School personnel administration of epinephrine* — In determining the preference (if any) to be given to a State under this subsection, the Secretary shall give additional preference to a State that provides to the Secretary the certification described in subparagraph (G) and that requires that each public elementary school and secondary school in the State—
+  (F) *School personnel administration of epinephrine or school comprehensive allergies and asthma management program*
 
-    (i) permits trained personnel of the school to administer epinephrine to any student of the school reasonably believed to be having an anaphylactic reaction;
+    (i) *In general* — In determining the preference (if any) to be given to a State under this subsection, the Secretary shall give additional preference to a State that provides to the Secretary the certification described in subparagraph (G) and that requires that each public elementary school and secondary school in the State satisfy the criteria described in clause (ii) or clause (iii).
 
-    (ii) maintains a supply of epinephrine in a secure location that is easily accessible to trained personnel of the school for the purpose of administration to any student of the school reasonably believed to be having an anaphylactic reaction; and
+    (ii) *Criteria for school personnel administration of epinephrine* — For purposes of clause (i), the criteria described in this clause, with respect to each public elementary school and secondary school in the State, are that each such school—
 
-    (iii) has in place a plan for having on the premises of the school during all operating hours of the school one or more individuals who are trained personnel of the school.
+      (I) permits trained personnel of the school to administer epinephrine to any student of the school reasonably believed to be having an anaphylactic reaction;
+
+      (II) maintains a supply of epinephrine in a secure location that is easily accessible to trained personnel of the school for the purpose of administration to any student of the school reasonably believed to be having an anaphylactic reaction; and
+
+      (III) has in place a plan for having on the premises of the school during all operating hours of the school one or more individuals who are trained personnel of the school.
+
+    (iii) *Criteria for school comprehensive allergies and asthma management program* — For purposes of clause (i), the criteria described in this clause, with respect to each public elementary school and secondary school in the State, are that each such school—
+
+      (I) has in place a plan for having on the premises of the school during all operating hours of the school a school nurse or one or more other individuals who are designated by the principal (or other appropriate administrative staff) of the school to direct and apply the program described in subclause (II) on a voluntary basis outside their scope of employment; and
+
+      (II) has in place, under the direction of a school nurse or other individual designated under subclause (I), a comprehensive school-based allergies and asthma management program that includes—
+
+        (aa) a method to identify all students of such school with a diagnosis of allergies and asthma;
+
+        (bb) an individual student allergies and asthma action plan for each student of such school with a diagnosis of allergies and asthma;
+
+        (cc) allergies and asthma education for school staff who are directly responsible for students who have been identified as having allergies or asthma, such as education regarding basics, management, trigger management, and comprehensive emergency responses with respect to allergies and asthma;
+
+        (dd) efforts to reduce the presence of environmental triggers of allergies and asthma; and
+
+        (ee) a system to support students with a diagnosis of allergies or asthma through coordination with family members of such students, primary care providers of such students, primary asthma or allergy care providers of such students, and others as necessary.
 
   (G) *Civil liability protection law* — The certification required in subparagraph (F) shall be a certification made by the State attorney general that the State has reviewed any applicable civil liability protection law to determine the application of such law with regard to elementary and secondary school trained personnel who may administer epinephrine to a student reasonably believed to be having an anaphylactic reaction and has concluded that such law provides adequate civil liability protection applicable to such trained personnel. For purposes of the previous sentence, the term “civil liability protection law” means a State law offering legal protection to individuals who give aid on a voluntary basis in an emergency to an individual who is ill, in peril, or otherwise incapacitated.
 
@@ -24314,9 +25184,9 @@ Pub. L. 105–392, title IV, § 419(b), (c), Nov. 13, 1998, 112 Stat. 3591, 3592
 
   (D) The term “self-administration” means a student’s discretionary use of his or her prescribed asthma or anaphylaxis medication, pursuant to a prescription or written direction from a health care practitioner.
 
-  (E) The term “trained personnel” means, with respect to an elementary or secondary school, an individual—
+  (E) The term “trained personnel” means, with respect to an elementary or secondary school, an individual, such as the school nurse—
 
-    (i) who has been designated by the principal (or other appropriate administrative staff) of the school to administer epinephrine on a voluntary basis outside their scope of employment;
+    (i) who has been designated by the school nurse or principal (or other appropriate administrative staff) of the school to administer epinephrine on a voluntary basis outside their scope of employment;
 
     (ii) who has received training in the administration of epinephrine; and
 
@@ -24335,6 +25205,12 @@ The Head Start Act, referred to in subsec. (b)(2)(B), is subchapter B (§§ 635�
 A prior section 399L of act July 1, 1944, was renumbered section 399F and is classified to [section 280e–4 of this title](./chapter-6a-public-health-service.md#section-280e-4).
 
 #### Amendments
+2021—Subsec. (d)(1)(F). Pub. L. 116–292, § 2(1)(B), inserted “or school comprehensive allergies and asthma management program” after “epinephrine” in heading; designated introductory provisions as cl. (i), inserted heading, and substituted “in the State satisfy the criteria described in clause (ii) or clause (iii).” for “in the State—”; inserted cl. (ii) heading and introductory provisions; redesignated former cls. (i) to (iii) as subcls. (I) to (III), respectively, of cl. (ii); added cl. (iii); and realigned margins.
+
+Subsec. (d)(3)(E). Pub. L. 116–292, § 2(2)(A), inserted “, such as the school nurse” after “individual” in introductory provisions.
+
+Subsec. (d)(3)(E)(i). Pub. L. 116–292, § 2(2)(B), inserted “school nurse or” before “principal”.
+
 2015—Subsec. (d)(3)(A). Pub. L. 114–95 made technical amendment to reference in original act which appears in text as reference to [section 7801 of title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section7801&num=0&edition=prelim).
 
 2013—Subsec. (d)(1)(F), (G). Pub. L. 113–48, § 2(1), added subpars. (F) and (G).
@@ -26105,6 +26981,9 @@ Another section 399W of act July 1, 1944, was renumbered section 399V–1 and is
 
 ### Statutory Notes
 
+#### Guide on Evidence-Based Strategies for Public Health Department Obesity Prevention Programs
+Pub. L. 116–260, div. BB, title III, § 312, Dec. 27, 2020, 134 Stat. 2925, provided that: “(a) Development and Dissemination of an Evidence-based Strategies Guide.—The Secretary of Health and Human Services (referred to in this section as the ‘Secretary’), acting through the Director of the Centers for Disease Control and Prevention, not later than 2 years after the date of enactment of this Act [Dec. 27, 2020], may—“(1) develop a guide on evidence-based strategies for State, territorial, and local health departments to use to build and maintain effective obesity prevention and reduction programs, and, in consultation with Indian Tribes, Tribal organizations, and urban Indian organizations, a guide on such evidence-based strategies with respect to Indian Tribes and Tribal organizations for such Indian Tribes and Tribal organizations to use for such purpose, both of which guides shall—“(A) describe an integrated program structure for implementing interventions proven to be effective in preventing and reducing the incidence of obesity; and “(B) recommend—“(i) optimal resources, including staffing and infrastructure, for promoting nutrition and obesity prevention and reduction; and “(ii) strategies for effective obesity prevention programs for State, territorial, and local health departments, Indian Tribes, and Tribal organizations, including strategies related to— “(I) the application of evidence-based and evidence-informed practices to prevent and reduce obesity rates; “(II) the development, implementation, and evaluation of obesity prevention and reduction strategies for specific communities and populations; “(III) demonstrated knowledge of obesity prevention practices that reduce associated preventable diseases, health conditions, death, and health care costs; “(IV) best practices for the coordination of efforts to prevent and reduce obesity and related chronic diseases; “(V) addressing the underlying risk factors and social determinants of health that impact obesity rates; and “(VI) interdisciplinary coordination between relevant public health officials specializing in fields such as nutrition, physical activity, epidemiology, communications, and policy implementation, and collaboration between public health officials, community-based organizations, and others, as appropriate; and “(2) disseminate the guides and current research, evidence-based practices, tools, and educational materials related to obesity prevention, consistent with the guides, to State, territorial, and local health departments, Indian Tribes, and Tribal organizations. “(b) Technical Assistance.—The Secretary, acting through the Director of the Centers for Disease Control and Prevention, shall provide technical assistance to State, territorial, and local health departments, Indian Tribes, and Tribal organizations to support such health departments in implementing the guide developed under subsection (a)(1). “(c) Indian Tribes; Tribal Organizations; Urban Indian Organizations.—In this section—“(1) the terms ‘Indian Tribe’ and ‘Tribal organization’ have the meanings given the terms ‘Indian tribe’ and ‘tribal organization’, respectively, in section 4 of the Indian Self-Determination and Education Assistance Act ([25 U.S.C. 5304](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5304&num=0&edition=prelim)); and “(2) the term ‘urban Indian organization’ has the meaning given such term in section 4 of the Indian Health Care Improvement Act ([25 U.S.C. 1603](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section1603&num=0&edition=prelim)).”
+
 #### Education and Training on Eating Disorders
 Pub. L. 114–255, div. B, title XIII, § 13006, Dec. 13, 2016, 130 Stat. 1287, provided that: “The Secretary of Health and Human Services may facilitate the identification of model programs and materials for educating and training health professionals in effective strategies to— “(1) identify individuals with eating disorders; “(2) provide early intervention services for individuals with eating disorders; “(3) refer patients with eating disorders for appropriate treatment; “(4) prevent the development of eating disorders; and “(5) provide appropriate treatment services for individuals with eating disorders.”
 
@@ -26250,7 +27129,7 @@ Section was enacted as part of the Patient Protection and Affordable Care Act, a
 
 **(k) Parental consent** An eligible entity receiving funds under this section shall not provide services through a 1 SBHC funded under this section to an individual without the consent of the parent or guardian of such individual if such individual is considered a minor under applicable State law.
 
-**(l) Authorization of appropriations** For purposes of carrying out this section, there are authorized to be appropriated such sums as may be necessary for each of the fiscal years 2010 through 2014.
+**(l) Authorization of appropriations** For purposes of carrying out this section, there are authorized to be appropriated such sums as may be necessary for each of the fiscal years 2022 through 2026.
 
 ### Statutory Notes
 
@@ -26258,6 +27137,8 @@ Section was enacted as part of the Patient Protection and Affordable Care Act, a
 The Health Insurance Portability and Accountability Act of 1996, referred to in subsec. (c)(2)(C)(vi), is Pub. L. 104–191, Aug. 21, 1996, 110 Stat. 1936. For complete classification of this Act to the Code, see Short Title of 1996 Amendments note set out under [section 201 of this title](./chapter-6a-public-health-service.md#section-201) and Tables.
 
 #### Amendments
+2020—Subsec. (l). Pub. L. 116–260 substituted “2022 through 2026” for “2010 through 2014”.
+
 2010—Subsec. (a)(1)(A). Pub. L. 111–148, § 10402(a), inserted “and vision” after “oral”.
 
 
@@ -27381,11 +28262,13 @@ Notwithstanding any other provision of this part, any recommendations, data, or 
 
 **(g) Definition** In this section, the term “young women” means women 15 to 44 years of age.
 
-**(h) Authorization of appropriations** To carry out subsections (a), (b), (c)(1), and (d), there are authorized to be appropriated $4,900,000 for each of fiscal years 2015 through 2019.
+**(h) Authorization of appropriations** To carry out subsections (a), (b), (c)(1), and (d), there are authorized to be appropriated $9,000,000 for each of fiscal years 2022 through 2026.
 
 ### Statutory Notes
 
 #### Amendments
+2020—Subsec. (h). Pub. L. 116–260 substituted “$9,000,000 for each of fiscal years 2022 through 2026” for “$4,900,000 for each of fiscal years 2015 through 2019”.
+
 2014—Subsec. (h). Pub. L. 113–265 substituted “$4,900,000 for each of fiscal years 2015 through 2019” for “$9,000,000 for each of the fiscal years 2010 through 2014”.
 
 
@@ -28870,7 +29753,7 @@ Section applicable only with respect to amounts appropriated for fiscal year 200
 
 (2) for students described in paragraph (1), the average time between the beginning of graduate study and the receipt of a doctoral degree.
 
-(3) **11 So in original. Probably should be “(b)”. Provision of information to applicants** — Each institution described in subsection (a) shall provide to each student submitting an application for a program of graduate study at such institution the information described in paragraphs (1) and (2) of such subsection with respect to the program or programs to which such student has applied.
+**(3) 11 So in original. Probably should be “(b)”. Provision of information to applicants** Each institution described in subsection (a) shall provide to each student submitting an application for a program of graduate study at such institution the information described in paragraphs (1) and (2) of such subsection with respect to the program or programs to which such student has applied.
 
 ### Statutory Notes
 
@@ -31574,7 +32457,7 @@ Section was enacted as part of the Childhood Cancer Survivorship, Treatment, Acc
 
   (A) submit such framework to the Committee on Energy and Commerce and Committee on Appropriations of the House of Representatives, and the Committee on Health, Education, Labor, and Pensions and Committee on Appropriations of the Senate; and
 
-  (B) make such framework publically 11 So in original. Probably should be “publicly”. available on the Internet website of the Department of Health and Human Services.
+  (B) make such framework publically available on the Internet website of the Department of Health and Human Services.
 
 **(b) Identification of recalcitrant cancer**
 
@@ -32279,7 +33162,7 @@ The general purpose of the National Institute of Diabetes and Digestive and Kidn
 Pub. L. 106–310, div. A, title XXVIII, § 2802, Oct. 17, 2000, 114 Stat. 1167, provided that: “(a) In General.—The Secretary of Health and Human Services (in this section referred to as the ‘Secretary’) shall, in consultation with relevant experts or through the Institute of Medicine, study issues related to treatment of PKU and other metabolic disorders for children, adolescents, and adults, and mechanisms to assure access to effective treatment, including special diets, for children and others with PKU and other metabolic disorders. Such mechanisms shall be evidence-based and reflect the best scientific knowledge regarding effective treatment and prevention of disease progression. “(b) Dissemination of Results.—Upon completion of the study referred to in subsection (a), the Secretary shall disseminate and otherwise make available the results of the study to interested groups and organizations, including insurance commissioners, employers, private insurers, health care professionals, State and local public health agencies, and State agencies that carry out the Medicaid program under title XIX of the Social Security Act [[42 U.S.C. 1396](./chapter-007-social-security.md#section-1396) et seq.] or the State children’s health insurance program under title XXI of such Act [[42 U.S.C. 1397aa](./chapter-007-social-security.md#section-1397aa) et seq.]. “(c) Authorization of Appropriations.—There are authorized to be appropriated to carry out this section such sums as may be necessary for each of the fiscal years 2001 through 2003.”
 
 #### Review of Disease Research Programs of the National Institute of Diabetes and Digestive and Kidney Diseases
-Pub. L. 99–158, § 10, Nov. 20, 1985, 99 Stat. 883, provided that: “The Secretary of Health and Human Services shall conduct an administrative review of the disease research programs of the National Institute of Diabetes and Digestive and Kidney Diseases to determine if any of such programs could be more effectively and efficiently managed by other national research institutes. The Secretary shall complete such review within the one-year period beginning on the date of enactment of this Act [Nov. 20, 1985].”
+Pub. L. 99–158, § 10, Nov. 20, 1985, 99 Stat. 883, required the Secretary of Health and Human Services to review the efficiency of the disease research programs of the National Institute of Diabetes and Digestive and Kidney Diseases, to be completed within one year of Nov. 20, 1985.
 
 
 <a id="section-285c-1"></a>
@@ -34972,9 +35855,9 @@ Amendment by Pub. L. 109–482 applicable only with respect to amounts appropria
 
 (1) **In general** — The Director of the Institute may carry out a program to facilitate minority health disparities research and other health disparities research by providing for research endowments—
 
-(1) 11 So in original. Probably should be “(A)”. at centers of excellence under [section 293 of this title](./chapter-6a-public-health-service.md#section-293); and
+  (1) 11 So in original. Probably should be “(A)”. at centers of excellence under [section 293 of this title](./chapter-6a-public-health-service.md#section-293); and
 
-(2) 22 So in original. Probably should be “(B)”. at centers of excellence under [section 285t–1 of this title](./chapter-6a-public-health-service.md#section-285t-1).
+  (2) 22 So in original. Probably should be “(B)”. at centers of excellence under [section 285t–1 of this title](./chapter-6a-public-health-service.md#section-285t-1).
 
 (2) **Eligibility** — The Director of the Institute may provide for a research endowment under paragraph (1) only if the institution involved meets the following conditions:
 
@@ -37956,6 +38839,59 @@ Pub. L. 98–24, § 3, Apr. 26, 1983, 97 Stat. 182, directed Secretary of Health
 Act July 8, 1947, ch. 210, title II, § 201, 61 Stat. 269, provided: “That as of June 30, 1947, and the end of each fiscal year thereafter any balances in the ‘Working capital fund, narcotic hospitals,’ in excess of $150,000 shall be transferred to the surplus fund of the Treasury.”
 
 [Section 201 of act July 8, 1947, set out above, was formerly classified to [section 258a of this title](./chapter-6a-public-health-service.md#section-258a).]
+
+#### Ex. Ord. No. 13954. Saving Lives Through Increased Support for Mental- and Behavioral-Health Needs
+Ex. Ord. No. 13954, Oct. 3, 2020, 85 F.R. 63977, provided:
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered as follows:
+
+Section 1. Purpose. My Administration is committed to preventing the tragedy of suicide, ending the opioid crisis, and improving mental and behavioral health. Before the COVID–19 pandemic, these urgent issues were prioritized through significant initiatives, including the President’s Roadmap to Empower Veterans and End a National Tragedy of Suicide (PREVENTS), expanded access to medication-assisted treatment and life-saving naloxone, and budget requests for significant investments in the funding of evidence-based treatment for mental- and behavioral-health needs.
+
+During the COVID–19 pandemic, the Federal Government has dedicated billions of dollars and thousands of hours in resources to help Americans, including approximately $425 million in emergency funds to address mental and substance use disorders through the Substance Abuse and Mental Health Services Administration. The pandemic has also exacerbated mental- and behavioral-health conditions as a result of stress from prolonged lockdown orders, lost employment, and social isolation. Survey data from the Centers for Disease Control and Prevention show that during the last week of June, 40.9 percent of Americans struggled with mental-health or substance-abuse issues and 10.7 percent reported seriously considering suicide. We must enhance the ability of the Federal Government, as well as its State, local, and Tribal partners, to appropriately address these ongoing mental- and behavioral-health concerns.
+
+Sec. 2. Policy. It is the policy of the United States to prevent suicides, drug-related deaths, and poor behavioral-health outcomes, particularly those that are induced or made worse by prolonged State and local COVID–19 shutdown orders. I am therefore issuing a national call to action to:
+
+(a) Engage the resources of the Federal Government to address the mental- and behavioral-health needs of vulnerable Americans, including by:
+
+(i) providing crisis-intervention services to treat those in immediate life-threatening situations; and
+
+(ii) increasing the availability of and access to quality continuing care following initial crisis resolution to improve behavioral-health outcomes;
+
+(b) Permit and encourage safe in-person mentorship programs; support-group participation; and attendance at communal facilities, including schools, civic centers, and houses of worship;
+
+(c) Increase the availability of telehealth and online mental-health and substance-use tools and services; and
+
+(d) Marshal public and private resources to address deteriorating mental health, such as factors that contribute to prolonged unemployment and social isolation.
+
+Sec. 3. Establishment of a Coronavirus Mental Health Working Group. The Coronavirus Mental Health Working Group (Working Group) is hereby established to facilitate an “all-of-government” response to the mental-health conditions induced or exacerbated by the pandemic, including issues related to suicide prevention. The Working Group will be co-chaired by the Secretary of Health and Human Services, or his designee, and the Assistant to the President for Domestic Policy, or her designee. The Working Group shall be composed of representatives from the Department of Defense, the Department of Justice, the Department of Agriculture, the Department of Labor, the Department of Housing and Urban Development, the Department of Education, the Department of Veterans Affairs, the Small Business Administration, the Office of National Drug Control Policy, the Office of Management and Budget (OMB), and such representatives of other executive departments, agencies, and offices as the Co-Chairs may, from time to time, designate with the concurrence of the head of the department, agency, or office concerned. All members of the Working Group shall be full-time, or permanent part-time, officers or employees of the Federal Government.
+
+Sec. 4. Responsibilities of the Coronavirus Mental Health Working Group. (a) As part of the Working Group’s efforts, it shall consider the mental- and behavioral-health conditions of those vulnerable populations affected by the pandemic, including: minorities, seniors, veterans, small business owners, children, and individuals potentially affected by domestic violence or physical abuse; those living with disabilities; and those with a substance use disorder. The Working Group shall examine existing protocols and evidence-based programs that may serve as models to better support these at-risk groups, including implementation and broader application of the PREVENTS, and the Department of Labor’s Employer Assistance and Resource Network on Disability Inclusion’s Mental Health Toolkit and Centralized Accommodation Programs.
+
+(b) Within 45 days of the date of this order [Oct. 3, 2020], the Working Group shall develop and submit to the President a report that outlines a plan for improved service coordination between all relevant public and private stakeholders and executive departments and agencies (agencies) to assist individuals in crisis so that they receive effective treatment and recovery services.
+
+Sec. 5. Grant Funding for States and Organizations that Permit In-Person Treatment and Recovery Support Activities for Mental and Behavioral Health. The heads of agencies, in consultation with the Director of OMB, shall:
+
+(a) Examine their existing grant programs that fund mental-health, medical, or related services and, consistent with applicable law, take steps to encourage grantees to consider adopting policies, where appropriate, that have been shown to improve mental health and reduce suicide risk, including the following:
+
+(i) Safe in-person and telehealth participation in support groups for people in recovery from substance use disorders, mental-health issues, or other ailments that benefit from communal support; and peer-to-peer services that support underserved communities;
+
+(ii) Safe face-to-face therapeutic services, including group therapy, to remediate poor behavioral health; and
+
+(iii) Safe participation in communal support—both faith-based and secular—including educational programs, civic activities, and in-person religious services.
+
+(b) Maximize use of existing agency authorities to award contracts or grants to community organizations or other local entities to enhance mental-health and suicide-prevention services, such as outreach, education, and case management, to vulnerable Americans.
+
+Sec. 6. General Provisions. (a) Nothing in this order shall be construed to impair or otherwise affect:
+
+(i) the authority granted by law to an executive department or agency, or the head thereof; or
+
+(ii) the functions of the Director of the Office of Management and Budget relating to budgetary, administrative, or legislative proposals.
+
+(b) This order shall be implemented consistent with applicable law and subject to the availability of appropriations.
+
+(c) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+
+Donald J. Trump.
 
 
 <a id="section-290aa-0"></a>
@@ -40948,6 +41884,8 @@ Section, act July 1, 1944, ch. 373, title V, § 520D, as added Pub. L. 106–310
 
 (3) **Consideration** — In awarding grants under this section, the Secretary shall take into consideration the extent of the need of the applicant, including the incidence and prevalence of suicide in the State and among the populations of focus, including rates of suicide determined by the Centers for Disease Control and Prevention for the State or population of focus.
 
+(4) **Consultation** — An entity described in paragraph (1)(A) or (1)(B) that applies for a grant or cooperative agreement under this section shall agree to consult or confer with entities described in paragraph (1)(C) and Native Hawaiian Health Care Systems, as applicable, in the applicable State with respect to the development and implementation of a statewide early intervention strategy.
+
 **(c) Preference** In providing assistance under a grant or cooperative agreement under this section, an eligible entity shall give preference to public organizations, private nonprofit organizations, political subdivisions, institutions of higher education, and tribal organizations actively involved with the State-sponsored statewide or tribal youth suicide early intervention and prevention strategy that—
 
 (1) provide early intervention and assessment services, including screening programs, to youth who are at risk for mental or emotional disorders that may lead to a suicide attempt, and that are integrated with school systems, educational institutions, juvenile justice systems, substance use disorder programs, mental health programs, foster care systems, and other child and youth support organizations;
@@ -41065,6 +42003,8 @@ The No Child Left Behind Act of 2001, referred to in subsec. (k), is Pub. L. 107
 A prior section 290bb–36, act July 1, 1944, ch. 373, title V, § 520E, as added Pub. L. 106–310, div. B, title XXXI, § 3111, Oct. 17, 2000, 114 Stat. 1186, and amended, which related to suicide prevention for children and adolescents, was renumbered section 520E–1 of act July 1, 1944, by Pub. L. 108–355, § 3(b)(2), Oct. 21, 2004, 118 Stat. 1409, and transferred to [section 290bb–36a of this title](./chapter-6a-public-health-service.md#section-290bb-36a).
 
 #### Amendments
+2020—Subsec. (b)(4). Pub. L. 116–260 added par. (4).
+
 2016—Subsec. (a). Pub. L. 114–255, § 6001(c)(1), substituted “Assistant Secretary for Mental Health and Substance Use” for “Administrator of the Substance Abuse and Mental Health Services Administration” in introductory provisions.
 
 Subsec. (a)(1). Pub. L. 114–255, § 9008(b)(1), substituted “substance use disorder” for “substance abuse”.
@@ -42659,11 +43599,19 @@ Amendment by Pub. L. 102–321 effective Oct. 1, 1992, with provision for progra
 
 <a id="section-290dd-2"></a>
 ## § 290dd–2. Confidentiality of records
-**(a) Requirement** Records of the identity, diagnosis, prognosis, or treatment of any patient which are maintained in connection with the performance of any program or activity relating to substance abuse education, prevention, training, treatment, rehabilitation, or research, which is conducted, regulated, or directly or indirectly assisted by any department or agency of the United States shall, except as provided in subsection (e), be confidential and be disclosed only for the purposes and under the circumstances expressly authorized under subsection (b).
+**(a) Requirement** Records of the identity, diagnosis, prognosis, or treatment of any patient which are maintained in connection with the performance of any program or activity relating to substance use disorder education, prevention, training, treatment, rehabilitation, or research, which is conducted, regulated, or directly or indirectly assisted by any department or agency of the United States shall, except as provided in subsection (e), be confidential and be disclosed only for the purposes and under the circumstances expressly authorized under subsection (b).
 
 **(b) Permitted disclosure**
 
-(1) **Consent** — The content of any record referred to in subsection (a) may be disclosed in accordance with the prior written consent of the patient with respect to whom such record is maintained, but only to such extent, under such circumstances, and for such purposes as may be allowed under regulations prescribed pursuant to subsection (g).
+(1) **Consent** — The following shall apply with respect to the contents of any record referred to in subsection (a):
+
+  (A) Such contents may be used or disclosed in accordance with the prior written consent of the patient with respect to whom such record is maintained.
+
+  (B) Once prior written consent of the patient has been obtained, such contents may be used or disclosed by a covered entity, business associate, or a program subject to this section for purposes of treatment, payment, and health care operations as permitted by the HIPAA regulations. Any information so disclosed may then be redisclosed in accordance with the HIPAA regulations. [Section 17935(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section17935/c&num=0&edition=prelim) shall apply to all disclosures pursuant to subsection (b)(1) of this section.
+
+  (C) It shall be permissible for a patient’s prior written consent to be given once for all such future uses or disclosures for purposes of treatment, payment, and health care operations, until such time as the patient revokes such consent in writing.
+
+  (D) [Section 17935(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section17935/a&num=0&edition=prelim) shall apply to all disclosures pursuant to subsection (b)(1) of this section.
 
 (2) **Method for disclosure** — Whether or not the patient, with respect to whom any given record referred to in subsection (a) is maintained, gives written consent, the content of such record may be disclosed as follows:
 
@@ -42673,7 +43621,17 @@ Amendment by Pub. L. 102–321 effective Oct. 1, 1992, with provision for progra
 
   (C) If authorized by an appropriate order of a court of competent jurisdiction granted after application showing good cause therefor, including the need to avert a substantial risk of death or serious bodily harm. In assessing good cause the court shall weigh the public interest and the need for disclosure against the injury to the patient, to the physician-patient relationship, and to the treatment services. Upon the granting of such order, the court, in determining the extent to which any disclosure of all or any part of any record is necessary, shall impose appropriate safeguards against unauthorized disclosure.
 
-**(c) Use of records in criminal proceedings** Except as authorized by a court order granted under subsection (b)(2)(C), no record referred to in subsection (a) may be used to initiate or substantiate any criminal charges against a patient or to conduct any investigation of a patient.
+  (D) To a public health authority, so long as such content meets the standards established in section 164.514(b) of title 45, Code of Federal Regulations (or successor regulations) for creating de-identified information.
+
+**(c) Use of records in criminal, civil, or administrative contexts** Except as otherwise authorized by a court order under subsection (b)(2)(C) or by the consent of the patient, a record referred to in subsection (a), or testimony relaying the information contained therein, may not be disclosed or used in any civil, criminal, administrative, or legislative proceedings conducted by any Federal, State, or local authority, against a patient, including with respect to the following activities:
+
+(1) Such record or testimony shall not be entered into evidence in any criminal prosecution or civil action before a Federal or State court.
+
+(2) Such record or testimony shall not form part of the record for decision or otherwise be taken into account in any proceeding before a Federal, State, or local agency.
+
+(3) Such record or testimony shall not be used by any Federal, State, or local agency for a law enforcement purpose or to conduct any law enforcement investigation.
+
+(4) Such record or testimony shall not be used in any application for a warrant.
 
 **(d) Application** The prohibitions of this section continue to apply to records concerning any individual who has been a patient, irrespective of whether or when such individual ceases to be a patient.
 
@@ -42684,18 +43642,88 @@ Amendment by Pub. L. 102–321 effective Oct. 1, 1992, with provision for progra
 (2) between such components and the Uniformed Services.
 The prohibitions of this section do not apply to the reporting under State law of incidents of suspected child abuse and neglect to the appropriate State or local authorities.
 
-**(f) Penalties** Any person who violates any provision of this section or any regulation issued pursuant to this section shall be fined in accordance with title 18.
+**(f) Penalties** The provisions of sections 1176 and 1177 of the Social Security Act [[42 U.S.C. 1320d–5](./chapter-007-social-security.md#section-1320d-5), 1320d–6] shall apply to a violation of this section to the extent and in the same manner as such provisions apply to a violation of part C of title XI of such Act [[42 U.S.C. 1320d](./chapter-007-social-security.md#section-1320d) et seq.]. In applying the previous sentence—
+
+(1) the reference to “this subsection” in subsection (a)(2) of such section 1176 shall be treated as a reference to “this subsection (including as applied pursuant to [section 290dd–2(f) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section290dd–2/f&num=0&edition=prelim))”; and
+
+(2) in subsection (b) of such section 1176—
+
+  (A) each reference to “a penalty imposed under subsection (a)” shall be treated as a reference to “a penalty imposed under subsection (a) (including as applied pursuant to [section 290dd–2(f) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section290dd–2/f&num=0&edition=prelim))”; and
+
+  (B) each reference to “no damages obtained under subsection (d)” shall be treated as a reference to “no damages obtained under subsection (d) (including as applied pursuant to [section 290dd–2(f) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section290dd–2/f&num=0&edition=prelim))”.
 
 **(g) Regulations** Except as provided in subsection (h), the Secretary shall prescribe regulations to carry out the purposes of this section. Such regulations may contain such definitions, and may provide for such safeguards and procedures, including procedures and criteria for the issuance and scope of orders under subsection (b)(2)(C), as in the judgment of the Secretary are necessary or proper to effectuate the purposes of this section, to prevent circumvention or evasion thereof, or to facilitate compliance therewith.
 
-**(h) Application to Department of Veterans Affairs** The Secretary of Veterans Affairs, acting through the Under Secretary for Health, shall, to the maximum feasible extent consistent with their responsibilities under title 38, prescribe regulations making applicable the regulations prescribed by the Secretary of Health and Human Services under subsection (g) to records maintained in connection with the provision of hospital care, nursing home care, domiciliary care, and medical services under such title 38 to veterans suffering from substance abuse. In prescribing and implementing regulations pursuant to this subsection, the Secretary of Veterans Affairs shall, from time to time, consult with the Secretary of Health and Human Services in order to achieve the maximum possible coordination of the regulations, and the implementation thereof, which they each prescribe.
+**(h) Application to Department of Veterans Affairs** The Secretary of Veterans Affairs, acting through the Under Secretary for Health, shall, to the maximum feasible extent consistent with their responsibilities under title 38, prescribe regulations making applicable the regulations prescribed by the Secretary of Health and Human Services under subsection (g) to records maintained in connection with the provision of hospital care, nursing home care, domiciliary care, and medical services under such title 38 to veterans suffering from substance use disorder. In prescribing and implementing regulations pursuant to this subsection, the Secretary of Veterans Affairs shall, from time to time, consult with the Secretary of Health and Human Services in order to achieve the maximum possible coordination of the regulations, and the implementation thereof, which they each prescribe.
+
+**(i) Antidiscrimination**
+
+(1) **In general** — No entity shall discriminate against an individual on the basis of information received by such entity pursuant to an inadvertent or intentional disclosure of records, or information contained in records, described in subsection (a) in—
+
+  (A) admission, access to, or treatment for health care;
+
+  (B) hiring, firing, or terms of employment, or receipt of worker’s compensation;
+
+  (C) the sale, rental, or continued rental of housing;
+
+  (D) access to Federal, State, or local courts; or
+
+  (E) access to, approval of, or maintenance of social services and benefits provided or funded by Federal, State, or local governments.
+
+(2) **Recipients of Federal funds** — No recipient of Federal funds shall discriminate against an individual on the basis of information received by such recipient pursuant to an intentional or inadvertent disclosure of such records or information contained in records described in subsection (a) in affording access to the services provided with such funds.
+
+**(j) Notification in case of breach** The provisions of [section 17932 of this title](./chapter-156-health-information-technology.md#section-17932) shall apply to a program or activity described in subsection (a), in case of a breach of records described in subsection (a), to the same extent and in the same manner as such provisions apply to a covered entity in the case of a breach of unsecured protected health information.
+
+**(k) Definitions** For purposes of this section:
+
+(1) **Breach** — The term “breach” has the meaning given such term for purposes of the HIPAA regulations.
+
+(2) **Business associate** — The term “business associate” has the meaning given such term for purposes of the HIPAA regulations.
+
+(3) **Covered entity** — The term “covered entity” has the meaning given such term for purposes of the HIPAA regulations.
+
+(4) **Health care operations** — The term “health care operations” has the meaning given such term for purposes of the HIPAA regulations.
+
+(5) **HIPAA regulations** — The term “HIPAA regulations” has the meaning given such term for purposes of parts 160 and 164 of title 45, Code of Federal Regulations.
+
+(6) **Payment** — The term “payment” has the meaning given such term for purposes of the HIPAA regulations.
+
+(7) **Public health authority** — The term “public health authority” has the meaning given such term for purposes of the HIPAA regulations.
+
+(8) **Treatment** — The term “treatment” has the meaning given such term for purposes of the HIPAA regulations.
+
+(9) **Unsecured protected health information** — The term “unprotected 11 So in original. health information” has the meaning given such term for purposes of the HIPAA regulations.
 
 ### Statutory Notes
+
+#### Applicability of Amendment
+Amendments by Pub. L. 116–136 to be applicable with respect to uses and disclosures of information occurring on or after the date that is 12 months after Mar. 27, 2020, based on required revisions to implementing regulations, see 2020 Amendment notes and Regulations note set out below.
+
+#### References in Text
+The Social Security Act, referred to in subsec. (f), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Part C of title XI of the Act is classified generally to part C (§ 1320d et seq.) of subchapter XI of chapter 7 of this title. For complete classification of this Act to the Code, see [section 1305 of this title](./chapter-007-social-security.md#section-1305) and Tables.
 
 #### Codification
 Section was formerly classified to [section 4581 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4581&num=0&edition=prelim) prior to renumbering by Pub. L. 98–24.
 
 #### Amendments
+2020—Subsec. (a). Pub. L. 116–136, § 3221(a), substituted “substance use disorder” for “substance abuse”.
+
+Subsec. (b)(1). Pub. L. 116–136, § 3221(b), amended par. (1) generally. Prior to amendment, text read as follows: “The content of any record referred to in subsection (a) may be disclosed in accordance with the prior written consent of the patient with respect to whom such record is maintained, but only to such extent, under such circumstances, and for such purposes as may be allowed under regulations prescribed pursuant to subsection (g).”
+
+Subsec. (b)(2)(D). Pub. L. 116–136, § 3221(c), added subpar. (D).
+
+Subsec. (c). Pub. L. 116–136, § 3221(e), amended subsec. (c) generally. Prior to amendment, text read as follows: “Except as authorized by a court order granted under subsection (b)(2)(C), no record referred to in subsection (a) may be used to initiate or substantiate any criminal charges against a patient or to conduct any investigation of a patient.”
+
+Subsec. (f). Pub. L. 116–136, § 3221(f), amended subsec. (f) generally. Prior to amendment, text read as follows: “Any person who violates any provision of this section or any regulation issued pursuant to this section shall be fined in accordance with title 18.”
+
+Subsec. (h). Pub. L. 116–136, § 3221(a), substituted “substance use disorder” for “substance abuse”.
+
+Subsec. (i). Pub. L. 116–136, § 3221(g), added subsec. (i).
+
+Subsec. (j). Pub. L. 116–136, § 3221(h), added subsec. (j).
+
+Subsec. (k). Pub. L. 116–136, § 3221(d), added subsec. (k).
+
 1998—Subsec. (e)(1), (2). Pub. L. 105–392 substituted “Uniformed Services” for “Armed Forces”.
 
 1992—Pub. L. 102–405 substituted “Under Secretary for Health” for “Chief Medical Director” in subsec. (h).
@@ -42721,6 +43749,12 @@ Amendment by Pub. L. 102–321 effective Oct. 1, 1992, with provision for progra
 
 #### Effective Date of 1976 Amendment
 Amendment by Pub. L. 94–581 effective Oct. 21, 1976, see section 211 of Pub. L. 94–581, set out as a note under [section 111 of Title 38](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section111&num=0&edition=prelim), Veterans’ Benefits.
+
+#### Regulations
+Pub. L. 116–136, div. A, title III, § 3221(i), Mar. 27, 2020, 134 Stat. 378, provided that: “(1) In general.—The Secretary of Health and Human Services, in consultation with appropriate Federal agencies, shall make such revisions to regulations as may be necessary for implementing and enforcing the amendments made by this section [amending this section], such that such amendments shall apply with respect to uses and disclosures of information occurring on or after the date that is 12 months after the date of enactment of this Act [Mar. 27, 2020]. “(2) Easily understandable notice of privacy practices.—Not later than 1 year after the date of enactment of this Act, the Secretary of Health and Human Services, in consultation with appropriate legal, clinical, privacy, and civil rights experts, shall update section 164.520 of title 45, Code of Federal Regulations, so that covered entities and entities creating or maintaining the records described in subsection (a) provide notice, written in plain language, of privacy practices regarding patient records referred to in section 543(a) of the Public Health Service Act ([42 U.S.C. 290dd–2(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section290dd–2/a&num=0&edition=prelim)), including—“(A) a statement of the patient’s rights, including self-pay patients, with respect to protected health information and a brief description of how the individual may exercise these rights (as required by subsection (b)(1)(iv) of such section 164.520); and “(B) a description of each purpose for which the covered entity is permitted or required to use or disclose protected health information without the patient’s written authorization (as required by subsection (b)(2) of such section 164.520).”
+
+#### Construction of 2020 Amendment
+Pub. L. 116–136, div. A, title III, § 3221(j), Mar. 27, 2020, 134 Stat. 379, provided that: “Nothing in this Act [div. A of Pub. L. 116–136, see Tables for Classification] or the amendments made by this Act shall be construed to limit— “(1) a patient’s right, as described in section 164.522 of title 45, Code of Federal Regulations, or any successor regulation, to request a restriction on the use or disclosure of a record referred to in section 543(a) of the Public Health Service Act ([42 U.S.C. 290dd–2(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section290dd–2/a&num=0&edition=prelim)) for purposes of treatment, payment, or health care operations; or “(2) a covered entity’s choice, as described in section 164.506 of title 45, Code of Federal Regulations, or any successor regulation, to obtain the consent of the individual to use or disclose a record referred to in such section 543(a) to carry out treatment, payment, or health care operation.”
 
 #### Jessie’s Law
 Pub. L. 115–271, title VII, §§ 7051–7053, Oct. 24, 2018, 132 Stat. 4017, 4018, provided that: “SEC. 7051. INCLUSION OF OPIOID ADDICTION HISTORY IN PATIENT RECORDS.“(a) Best Practices.—“(1) In general.—Not later than 1 year after the date of enactment of this Act [Oct. 24, 2018], the Secretary of Health and Human Services (in this section referred to as the ‘Secretary’), in consultation with appropriate stakeholders, including a patient with a history of opioid use disorder, an expert in electronic health records, an expert in the confidentiality of patient health information and records, and a health care provider, shall identify or facilitate the development of best practices regarding—“(A) the circumstances under which information that a patient has provided to a health care provider regarding such patient’s history of opioid use disorder should, only at the patient’s request, be prominently displayed in the medical records (including electronic health records) of such patient; “(B) what constitutes the patient’s request for the purpose described in subparagraph (A); and “(C) the process and methods by which the information should be so displayed. “(2) Dissemination.—The Secretary shall disseminate the best practices developed under paragraph (1) to health care providers and State agencies. “(b) Requirements.—In identifying or facilitating the development of best practices under subsection (a), as applicable, the Secretary, in consultation with appropriate stakeholders, shall consider the following:“(1) The potential for addiction relapse or overdose, including overdose death, when opioid medications are prescribed to a patient recovering from opioid use disorder. “(2) The benefits of displaying information about a patient’s opioid use disorder history in a manner similar to other potentially lethal medical concerns, including drug allergies and contraindications. “(3) The importance of prominently displaying information about a patient’s opioid use disorder when a physician or medical professional is prescribing medication, including methods for avoiding alert fatigue in providers. “(4) The importance of a variety of appropriate medical professionals, including physicians, nurses, and pharmacists, having access to information described in this section when prescribing or dispensing opioid medication, consistent with Federal and State laws and regulations. “(5) The importance of protecting patient privacy, including the requirements related to consent for disclosure of substance use disorder information under all applicable laws and regulations. “(6) All applicable Federal and State laws and regulations. “SEC. 7052. COMMUNICATION WITH FAMILIES DURING EMERGENCIES.“(a) Promoting Awareness of Authorized Disclosures During Emergencies.—The Secretary of Health and Human Services shall annually notify health care providers regarding permitted disclosures under Federal health care privacy law during emergencies, including overdoses, of certain health information to families, caregivers, and health care providers. “(b) Use of Material.—For the purposes of carrying out subsection (a), the Secretary of Health and Human Services may use material produced under section 7053 of this Act or section 11004 of the 21st Century Cures Act ([42 U.S.C. 1320d–2](./chapter-007-social-security.md#section-1320d-2) note). “SEC. 7053. DEVELOPMENT AND DISSEMINATION OF MODEL TRAINING PROGRAMS FOR SUBSTANCE USE DISORDER PATIENT RECORDS.“(a) Initial Programs and Materials.—Not later than 1 year after the date of the enactment of this Act [Oct. 24, 2018], the Secretary of Health and Human Services (in this section referred to as the ‘Secretary’), in consultation with appropriate experts, shall identify the following model programs and materials (or if no such programs or materials exist, recognize private or public entities to develop and disseminate such programs and materials):“(1) Model programs and materials for training health care providers (including physicians, emergency medical personnel, psychiatrists, psychologists, counselors, therapists, nurse practitioners, physician assistants, behavioral health facilities and clinics, care managers, and hospitals, including individuals such as general counsels or regulatory compliance staff who are responsible for establishing provider privacy policies) concerning the permitted uses and disclosures, consistent with the standards and regulations governing the privacy and security of substance use disorder patient records promulgated by the Secretary under section 543 of the Public Health Service Act ([42 U.S.C. 290dd–2](./chapter-6a-public-health-service.md#section-290dd-2)) for the confidentiality of patient records. “(2) Model programs and materials for training patients and their families regarding their rights to protect and obtain information under the standards and regulations described in paragraph (1). “(b) Requirements.—The model programs and materials described in paragraphs (1) and (2) of subsection (a) shall address circumstances under which disclosure of substance use disorder patient records is needed to—“(1) facilitate communication between substance use disorder treatment providers and other health care providers to promote and provide the best possible integrated care; “(2) avoid inappropriate prescribing that can lead to dangerous drug interactions, overdose, or relapse; and “(3) notify and involve families and caregivers when individuals experience an overdose. “(c) Periodic Updates.—The Secretary shall—“(1) periodically review and update the model program and materials identified or developed under subsection (a); and “(2) disseminate such updated programs and materials to the individuals described in subsection (a)(1). “(d) Input of Certain Entities.—In identifying, reviewing, or updating the model programs and materials under this section, the Secretary shall solicit the input of relevant stakeholders. “(e) Authorization of Appropriations.—There is authorized to be appropriated to carry out this section—“(1) $4,000,000 for fiscal year 2019; “(2) $2,000,000 for each of fiscal years 2020 and 2021; and “(3) $1,000,000 for each of fiscal years 2022 and 2023.”
@@ -46736,11 +47770,7 @@ Pub. L. 102–531, title III, § 313(c), Oct. 27, 1992, 106 Stat. 3507, provided
 
   (B) *Use of Federal funds* — With respect to any Federal amounts received by a center of excellence and available for carrying out activities for which a grant under this part is authorized to be expended, the center shall, before expending the grant, expend the Federal amounts obtained from sources other than the grant, unless given prior approval from the Secretary.
 
-**(i) Authorization of appropriations** There are authorized to be appropriated to carry out this section—
-
-(1) $50,000,000 for each of the fiscal years 2010 through 2015; and
-
-(2) and 2 such sums as are necessary for each subsequent fiscal year.
+**(i) Authorization of appropriations** To carry out this section, there is authorized to be appropriated $23,711,000 for each of fiscal years 2021 through 2025.
 
 ### Statutory Notes
 
@@ -46755,6 +47785,12 @@ Another prior section 293, act July 1, 1944, ch. 373, title VII, § 720, as adde
 A prior section 736 of act July 1, 1944, was classified to [section 294i of this title](./chapter-6a-public-health-service.md#section-294i) prior to the general revision of this subchapter by Pub. L. 102–408.
 
 #### Amendments
+2020—Subsec. (i). Pub. L. 116–136 added subsec. (i) and struck out former subsec. (i). Text read as follows: “There are authorized to be appropriated to carry out this section—
+
+“(1) $50,000,000 for each of the fiscal years 2010 through 2015; and
+
+“(2) and such sums as are necessary for each subsequent fiscal year.”
+
 2010—Subsecs. (h), (i). Pub. L. 111–148 added subsecs. (h) and (i) and struck out former subsec. (h) which related to authorization of appropriations for fiscal years 1998 through 2002 and allocations of amounts.
 
 #### Savings Provision
@@ -46939,13 +47975,13 @@ A prior section 739 of act July 1, 1944, was classified to section 294l of this 
 
 <a id="section-293d"></a>
 ## § 293d. Authorization of appropriation
-**(a) Scholarships** There are authorized to be appropriated to carry out [section 293a of this title](./chapter-6a-public-health-service.md#section-293a), $51,000,000 for fiscal year 2010, and such sums as may be necessary for each of the fiscal years 2011 through 2014. Of the amount appropriated in any fiscal year, the Secretary shall ensure that not less than 16 percent shall be distributed to schools of nursing.
+**(a) Scholarships** There are authorized to be appropriated to carry out [section 293a of this title](./chapter-6a-public-health-service.md#section-293a), $51,470,000 for each of fiscal years 2021 through 2025. Of the amount appropriated in any fiscal year, the Secretary shall ensure that not less than 16 percent shall be distributed to schools of nursing.
 
-**(b) Loan repayments and fellowships** For the purpose of carrying out [section 293b of this title](./chapter-6a-public-health-service.md#section-293b), there is authorized to be appropriated, $5,000,000 for each of the fiscal years 2010 through 2014.
+**(b) Loan repayments and fellowships** For the purpose of carrying out [section 293b of this title](./chapter-6a-public-health-service.md#section-293b), there is authorized to be appropriated, $1,190,000 for each of fiscal years 2021 through 2025.
 
-**(c) Educational assistance in health professions regarding individuals from disadvantaged backgrounds** For the purpose of grants and contracts under [section 293c(a)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section293c/a/1&num=0&edition=prelim), there is authorized to be appropriated $60,000,000 for fiscal year 2010 and such sums as may be necessary for each of the fiscal years 2011 through 2014. The Secretary may use not to exceed 20 percent of the amount appropriated for a fiscal year under this subsection to provide scholarships under [section 293c(a)(2)(F) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section293c/a/2/F&num=0&edition=prelim).
+**(c) Educational assistance in health professions regarding individuals from disadvantaged backgrounds** For the purpose of grants and contracts under [section 293c(a)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section293c/a/1&num=0&edition=prelim), there is authorized to be appropriated $15,000,000 for each of fiscal years 2021 through 2025. The Secretary may use not to exceed 20 percent of the amount appropriated for a fiscal year under this subsection to provide scholarships under [section 293c(a)(2)(F) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section293c/a/2/F&num=0&edition=prelim).
 
-**(d) Report** Not later than 6 months after November 13, 1998, the Secretary shall prepare and submit to the appropriate committees of Congress a report concerning the efforts of the Secretary to address the need for a representative mix of individuals from historically minority health professions schools, or from institutions or other entities that historically or by geographic location have a demonstrated record of training or educating underrepresented minorities, within various health professions disciplines, on peer review councils.
+**(d) Report** Not later than September 30, 2025, and every five years thereafter, the Secretary shall prepare and submit to the Committee on Health, Education, Labor, and Pensions of the Senate, and the Committee on Energy and Commerce of the House of Representatives, a report concerning the efforts of the Secretary to address the need for a representative mix of individuals from historically minority health professions schools, or from institutions or other entities that historically or by geographic location have a demonstrated record of training or educating underrepresented minorities, within various health professions disciplines, on peer review councils.
 
 ### Statutory Notes
 
@@ -46959,6 +47995,14 @@ Another prior section 293d, act July 1, 1944, ch. 373, title VII, § 701, former
 A prior section 740 of act July 1, 1944, was classified to [section 294m of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section294m&num=0&edition=prelim) prior to the general revision of this subchapter by Pub. L. 102–408.
 
 #### Amendments
+2020—Subsec. (a). Pub. L. 116–136, § 3401(2)(A), substituted “$51,470,000 for each of fiscal years 2021 through 2025” for “$51,000,000 for fiscal year 2010, and such sums as may be necessary for each of the fiscal years 2011 through 2014”.
+
+Subsec. (b). Pub. L. 116–136, § 3401(2)(B), substituted “$1,190,000 for each of fiscal years 2021 through 2025” for “$5,000,000 for each of the fiscal years 2010 through 2014”.
+
+Subsec. (c). Pub. L. 116–136, § 3401(2)(C), substituted “$15,000,000 for each of fiscal years 2021 through 2025” for “$60,000,000 for fiscal year 2010 and such sums as may be necessary for each of the fiscal years 2011 through 2014”.
+
+Subsec. (d). Pub. L. 116–136, § 3401(2)(D), which directed substitution of “Not later than September 30, 2025, and every five years thereafter, the Secretary shall prepare and submit to the Committee on Health, Education, Labor, and Pensions of the Senate, and the Committee on Energy and Commerce of the House of Representatives,” for “Not Later than 6 months after November 13, 1998, the Secretary shall prepare and submit to the appropriate committees of Congress”, was executed by making the substitution for “Not later than 6 months after November 13, 1998, the Secretary shall prepare and submit to the appropriate committees of Congress”, to reflect the probable intent of Congress.
+
 2010—Subsec. (a). Pub. L. 111–148, § 5402(b), substituted “$51,000,000 for fiscal year 2010, and such sums as may be necessary for each of the fiscal years 2011 through 2014” for “$37,000,000 for fiscal year 1998, and such sums as may be necessary for each of the fiscal years 1999 through 2002”.
 
 Subsec. (b). Pub. L. 111–148, § 5402(c), substituted “appropriated, $5,000,000 for each of the fiscal years 2010 through 2014” for “appropriated $1,100,000 for fiscal year 1998, and such sums as may be necessary for each of the fiscal years 1999 through 2002”.
@@ -47040,7 +48084,7 @@ A prior section 746 of act July 1, 1944, was classified to [section 294q–2 of 
 
   (F) to plan, develop, and operate a physician assistant education program, and for the training of individuals who will teach in programs to provide such training;
 
-  (G) to plan, develop, and operate a demonstration program that provides training in new competencies, as recommended by the Advisory Committee on Training in Primary Care Medicine and Dentistry and the National Health Care Workforce Commission established in [section 294q of this title](./chapter-6a-public-health-service.md#section-294q), which may include—
+  (G) to plan, develop, and operate a program that identifies or develops innovative models of providing care, and trains primary care physicians on such models and in new competencies, as recommended by the Advisory Committee on Training in Primary Care Medicine and Dentistry and the National Health Care Workforce Commission established in [section 294q of this title](./chapter-6a-public-health-service.md#section-294q), which may include—
 
     (i) providing training to primary care physicians relevant to providing care through patient-centered medical homes (as defined by the Secretary for purposes of this section);
 
@@ -47051,6 +48095,8 @@ A prior section 746 of act July 1, 1944, was classified to [section 294q–2 of 
   (H) to plan, develop, and operate joint degree programs to provide interdisciplinary and interprofessional graduate training in public health and other health professions to provide training in environmental health, infectious disease control, disease prevention and health promotion, epidemiological studies and injury control.
 
 (2) **Duration of awards** — The period during which payments are made to an entity from an award of a grant or contract under this subsection shall be 5 years.
+
+(3) **Priorities in making awards** — In awarding grants or contracts under paragraph (1), the Secretary may give priority to qualified applicants that train residents in rural areas, including for Tribes or Tribal Organizations in such areas.
 
 **(b) Capacity building in primary care**
 
@@ -47076,7 +48122,7 @@ A prior section 746 of act July 1, 1944, was classified to [section 294q–2 of 
 
   (D) have a record of training individuals who are from underrepresented minority groups or from a rural or disadvantaged background;
 
-  (E) provide training in the care of vulnerable populations such as children, older adults, homeless individuals, victims of abuse or trauma, individuals with mental health or substance-related disorders, individuals with HIV/AIDS, and individuals with disabilities;
+  (E) provide training in the care of vulnerable populations such as children, older adults, homeless individuals, victims of abuse or trauma, individuals with mental health or substance use disorders, individuals with HIV/AIDS, and individuals with disabilities;
 
   (F) establish formal relationships and submit joint applications with federally qualified health centers, rural health clinics, area health education centers, or clinics located in underserved areas or that serve underserved populations;
 
@@ -47090,7 +48136,7 @@ A prior section 746 of act July 1, 1944, was classified to [section 294q–2 of 
 
 **(c) Authorization of appropriations**
 
-(1) **In general** — For purposes of carrying out this section (other than subsection (b)(1)(B)), there are authorized to be appropriated $125,000,000 for fiscal year 2010, and such sums as may be necessary for each of fiscal years 2011 through 2014.
+(1) **In general** — For purposes of carrying out this section (other than subsection (b)(1)(B)), there are authorized to be appropriated $48,924,000 for each of fiscal years 2021 through 2025.
 
 (2) **Training programs** — Fifteen percent of the amount appropriated pursuant to paragraph (1) in each such fiscal year shall be allocated to the physician assistant training programs described in subsection (a)(1)(F), which prepare students for practice in primary care.
 
@@ -47107,6 +48153,15 @@ A prior section 293k, act July 1, 1944, ch. 373, title VII, § 747, as added Pub
 A prior section 747 of act July 1, 1944, was classified to [section 294q–3 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section294q–3&num=0&edition=prelim) prior to the general revision of this subchapter by Pub. L. 102–408.
 
 Another prior section 747 of act July 1, 1944, was classified to [section 294g of this title](./chapter-6a-public-health-service.md#section-294g) prior to repeal by Pub. L. 94–484.
+
+#### Amendments
+2020—Subsec. (a)(1)(G). Pub. L. 116–136, § 3401(3)(A)(i), substituted “to plan, develop, and operate a program that identifies or develops innovative models of providing care, and trains primary care physicians on such models and” for “to plan, develop, and operate a demonstration program that provides training” in introductory provisions.
+
+Subsec. (a)(3). Pub. L. 116–136, § 3401(3)(A)(ii), added par. (3).
+
+Subsec. (b)(3)(E). Pub. L. 116–136, § 3401(3)(B), substituted “substance use disorders” for “substance-related disorders”.
+
+Subsec. (c)(1). Pub. L. 116–136, § 3401(3)(C), substituted “$48,924,000 for each of fiscal years 2021 through 2025” for “$125,000,000 for fiscal year 2010, and such sums as may be necessary for each of fiscal years 2011 through 2014”.
 
 
 <a id="section-293k-1"></a>
@@ -47178,7 +48233,7 @@ Another prior section 747 of act July 1, 1944, was classified to [section 294g o
 
 (4) Qualified applicants that establish formal relationships with Federally qualified health centers, rural health centers, or accredited teaching facilities and that conduct training of students, residents, fellows, or faculty at the center or facility.
 
-(5) Qualified applicants that conduct teaching programs targeting vulnerable populations such as older adults, homeless individuals, victims of abuse or trauma, individuals with mental health or substance-related disorders, individuals with disabilities, and individuals with HIV/AIDS, and in the risk-based clinical disease management of all populations.
+(5) Qualified applicants that conduct teaching programs targeting vulnerable populations such as older adults, homeless individuals, victims of abuse or trauma, individuals with mental health or substance use disorders, individuals with disabilities, and individuals with HIV/AIDS, and in the risk-based clinical disease management of all populations.
 
 (6) Qualified applicants that include educational activities in cultural competency and health literacy.
 
@@ -47190,7 +48245,7 @@ Another prior section 747 of act July 1, 1944, was classified to [section 294g o
 
 **(e) Duration of award** The period during which payments are made to an entity from an award of a grant or contract under subsection (a) shall be 5 years. The provision of such payments shall be subject to annual approval by the Secretary and subject to the availability of appropriations for the fiscal year involved to make the payments.
 
-**(f) Authorizations of appropriations** For the purpose of carrying out subsections (a) and (b), there is authorized to be appropriated $30,000,000 for fiscal year 2010 and such sums as may be necessary for each of fiscal years 2011 through 2015.
+**(f) Authorizations of appropriations** For the purpose of carrying out subsections (a) and (b), there is authorized to be appropriated $28,531,000 for each of fiscal years 2021 through 2025.
 
 **(g) Carryover funds** An entity that receives an award under this section may carry over funds from 1 fiscal year to another without obtaining approval from the Secretary. In no case may any funds be carried over pursuant to the preceding sentence for more than 3 years.
 
@@ -47202,6 +48257,11 @@ A prior section 748 of act July 1, 1944, was renumbered section 749 and is class
 Another prior section 748 of act July 1, 1944, was classified to section 293l of this title prior to repeal by Pub. L. 105–392.
 
 Another prior section 748 of act July 1, 1944, was classified to [section 294r of this title](./chapter-6a-public-health-service.md#section-294r) prior to renumbering by Pub. L. 97–35.
+
+#### Amendments
+2020—Subsec. (c)(5). Pub. L. 116–136, § 3401(4)(A), substituted “substance use disorders” for “substance-related disorders”.
+
+Subsec. (f). Pub. L. 116–136, § 3401(4)(B), substituted “$28,531,000 for each of fiscal years 2021 through 2025” for “$30,000,000 for fiscal year 2010 and such sums as may be necessary for each of fiscal years 2011 through 2015”.
 
 
 <a id="section-293l"></a>
@@ -47236,7 +48296,7 @@ Another prior section 748 of act July 1, 1944, was classified to [section 294r o
 
 (1) provide advice and recommendations to the Secretary concerning policy and program development and other matters of significance concerning the activities under [section 293k of this title](./chapter-6a-public-health-service.md#section-293k);
 
-(2) not later than 3 years after November 13, 1998, and annually thereafter, prepare and submit to the Secretary, and the Committee on Labor and Human Resources of the Senate, and the Committee on Commerce of the House of Representatives, a report describing the activities of the Committee, including findings and recommendations made by the Committee concerning the activities under [section 293k of this title](./chapter-6a-public-health-service.md#section-293k);
+(2) not later than 3 years after November 13, 1998, and annually thereafter, prepare and submit to the Secretary, and the Committee on Health, Education, Labor, and Pensions of the Senate, and the Committee on Energy and Commerce of the House of Representatives, a report describing the activities of the Committee, including findings and recommendations made by the Committee concerning the activities under [section 293k of this title](./chapter-6a-public-health-service.md#section-293k);
 
 (3) develop, publish, and implement performance measures for programs under this part;
 
@@ -47274,12 +48334,9 @@ A prior section 749 of act July 1, 1944, was classified to [section 293m of this
 Another prior section 749 of act July 1, 1944, was classified to [section 294s of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section294s&num=0&edition=prelim) prior to renumbering by Pub. L. 97–35.
 
 #### Amendments
+2020—Subsec. (d)(2). Pub. L. 116–136 substituted “Committee on Health, Education, Labor, and Pensions of the Senate, and the Committee on Energy and Commerce of the House of Representatives” for “Committee on Labor and Human Resources of the Senate, and the Committee on Commerce of the House of Representatives”.
+
 2010—Subsec. (d)(3) to (5). Pub. L. 111–148, § 5103(d)(1), added pars. (3) to (5).
-
-#### Change of Name
-Committee on Commerce of House of Representatives changed to Committee on Energy and Commerce of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred to Committee on Financial Services of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
-
-Committee on Labor and Human Resources of Senate changed to Committee on Health, Education, Labor, and Pensions of Senate by Senate Resolution No. 20, One Hundred Sixth Congress, Jan. 19, 1999.
 
 #### Termination of Advisory Committees
 Pub. L. 93–641, § 6, Jan. 4, 1975, 88 Stat. 2275, set out as a note under [section 217a of this title](./chapter-6a-public-health-service.md#section-217a), provided that an advisory committee established pursuant to the Public Health Service Act shall terminate at such time as may be specifically prescribed by an Act of Congress enacted after Jan. 4, 1975.
@@ -47532,7 +48589,7 @@ A prior section 750 of act July 1, 1944, was classified to [section 293n of this
 
 **(j) Authorization of appropriations**
 
-(1) **In general** — There is authorized to be appropriated to carry out this section $125,000,000 for each of the fiscal years 2010 through 2014.
+(1) **In general** — There is authorized to be appropriated to carry out this section $41,250,000 for each of fiscal years 2021 through 2025.
 
 (2) **Requirements** — Of the amounts appropriated for a fiscal year under paragraph (1)—
 
@@ -47564,6 +48621,8 @@ Another prior section 751 of act July 1, 1944, was classified to [section 294r o
 Another prior section 751 of act July 1, 1944, was classified to [section 294t of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section294t&num=0&edition=prelim) prior to renumbering by Pub. L. 97–35.
 
 #### Amendments
+2020—Subsec. (j)(1). Pub. L. 116–136 substituted “$41,250,000 for each of fiscal years 2021 through 2025” for “$125,000,000 for each of the fiscal years 2010 through 2014”.
+
 2014—Subsec. (c)(1)(A). Pub. L. 113–128 substituted “the applicable one-stop delivery system under [section 3151(e) of title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3151/e&num=0&edition=prelim),” for “the applicable one-stop delivery system under [section 2864(c) of title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2864/c&num=0&edition=prelim),”.
 
 2010—Pub. L. 111–148 amended section generally. Prior to amendment, section consisted of subsecs. (a) to (c) which related to authority for provision of financial assistance, requirements for centers, and allocations and costs.
@@ -47572,9 +48631,13 @@ Another prior section 751 of act July 1, 1944, was classified to [section 294t o
 Amendment by Pub. L. 113–128 effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as an Effective Date note under [section 3101 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3101&num=0&edition=prelim), Labor.
 
 #### Waiver of Requirements
-Pub. L. 115–245, div. B, title II, Sept. 28, 2018, 132 Stat. 3068, provided in part: “That for any program operating under section 751 of the PHS [Public Health Service] Act [[42 U.S.C. 294a](./chapter-6a-public-health-service.md#section-294a)] on or before January 1, 2009, the Secretary of Health and Human Services (referred to in this title as the ‘Secretary’) may hereafter waive any of the requirements contained in sections 751(d)(2)(A) and 751(d)(2)(B) of such Act for the full project period of a grant under such section”.
+Pub. L. 116–260, div. H, title II, Dec. 27, 2020, 134 Stat. 1567, provided in part: “That for any program operating under section 751 of the PHS [Public Health Service] Act [[42 U.S.C. 294a](./chapter-6a-public-health-service.md#section-294a)] on or before January 1, 2009, the Secretary of Health and Human Services (referred to in this title as the ‘Secretary’) may hereafter waive any of the requirements contained in sections 751(d)(2)(A) and 751(d)(2)(B) of such Act for the full project period of a grant under such section”.
 
 Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 116–94, div. A, title II, Dec. 20, 2019, 133 Stat. 2556.
+
+Pub. L. 115–245, div. B, title II, Sept. 28, 2018, 132 Stat. 3068.
 
 Pub. L. 115–141, div. H, title II, Mar. 23, 2018, 132 Stat. 715.
 
@@ -47617,151 +48680,113 @@ Another prior section 752 of act July 1, 1944, was classified to [section 294u o
 
 <a id="section-294c"></a>
 ## § 294c. Education and training relating to geriatrics
-**(a) Geriatric education centers**
+**(a) Geriatrics Workforce Enhancement Program**
 
-(1) **In general** — The Secretary shall award grants or contracts under this section to entities described in paragraphs 11 So in original. Probably should be “paragraph”. (1), (3), or (4) of [section 295p of this title](./chapter-6a-public-health-service.md#section-295p), and [section 296(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section296/2&num=0&edition=prelim), for the establishment or operation of geriatric education centers.
+(1) **In general** — The Secretary shall award grants, contracts, or cooperative agreements under this subsection to entities described in paragraph (1), (3), or (4) of [section 295p of this title](./chapter-6a-public-health-service.md#section-295p), [section 296(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section296/2&num=0&edition=prelim), or [section 298(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section298/d&num=0&edition=prelim), or other health professions schools or programs approved by the Secretary, for the establishment or operation of Geriatrics Workforce Enhancement Programs that meet the requirements of paragraph (2).
 
-(2) **Requirements** — A geriatric education center is a program that—
+(2) **Requirements**
 
-  (A) improves the training of health professionals in geriatrics, including geriatric residencies, traineeships, or fellowships;
+  (A) *In general* — A Geriatrics Workforce Enhancement Program receiving an award under this section shall support the training of health professionals in geriatrics, including traineeships or fellowships. Such programs shall emphasize, as appropriate, patient and family engagement, integration of geriatrics with primary care and other appropriate specialties, and collaboration with community partners to address gaps in health care for older adults.
 
-  (B) develops and disseminates curricula relating to the treatment of the health problems of elderly individuals;
+  (B) *Activities* — Activities conducted by a program under this section may include the following:
 
-  (C) supports the training and retraining of faculty to provide instruction in geriatrics;
+    (i) Clinical training on providing integrated geriatrics and primary care delivery services.
 
-  (D) supports continuing education of health professionals who provide geriatric care; and
+    (ii) Interprofessional training to practitioners from multiple disciplines and specialties, including training on the provision of care to older adults.
 
-  (E) provides students with clinical training in geriatrics in nursing homes, chronic and acute disease hospitals, ambulatory care centers, and senior centers.
+    (iii) Establishing or maintaining training-related community-based programs for older adults and caregivers to improve health outcomes for older adults.
 
-**(b) Geriatric training regarding physicians and dentists**
+    (iv) Providing education on Alzheimer’s disease and related dementias to families and caregivers of older adults, direct care workers, and health professions students, faculty, and providers.
 
-(1) **In general** — The Secretary may make grants to, and enter into contracts with, schools of medicine, schools of osteopathic medicine, teaching hospitals, and graduate medical education programs, for the purpose of providing support (including residencies, traineeships, and fellowships) for geriatric training projects to train physicians, dentists and behavioral and mental health professionals who plan to teach geriatric medicine, geriatric behavioral or mental health, or geriatric dentistry.
+(3) **Duration** — Each grant, contract, or cooperative agreement or contract awarded under paragraph (1) shall be for a period not to exceed 5 years.
 
-(2) **Requirements** — Each project for which a grant or contract is made under this subsection shall—
+(4) **Applications** — To be eligible to receive a grant, contract, or cooperative agreement under paragraph (1), an entity described in such paragraph shall submit to the Secretary an application at such time, in such manner, and containing such information as the Secretary may require.
 
-  (A) be staffed by full-time teaching physicians who have experience or training in geriatric medicine or geriatric behavioral or mental health;
+(5) **Program requirements**
 
-  (B) be staffed, or enter into an agreement with an institution staffed by full-time or part-time teaching dentists who have experience or training in geriatric dentistry;
+  (A) *In general* — In awarding grants, contracts, and cooperative agreements under paragraph (1), the Secretary—
 
-  (C) be staffed, or enter into an agreement with an institution staffed by full-time or part-time teaching behavioral mental health professionals who have experience or training in geriatric behavioral or mental health;
+    (i) shall give priority to programs that demonstrate coordination with another Federal or State program or another public or private entity;
 
-  (D) be based in a graduate medical education program in internal medicine or family medicine or in a department of geriatrics or behavioral or mental health;
+    (ii) shall give priority to applicants with programs or activities that are expected to substantially benefit rural or medically underserved populations of older adults, or serve older adults in Indian Tribes or Tribal organizations; and
 
-  (E) provide training in geriatrics and exposure to the physical and mental disabilities of elderly individuals through a variety of service rotations, such as geriatric consultation services, acute care services, dental services, geriatric behavioral or mental health units, day and home care programs, rehabilitation services, extended care facilities, geriatric ambulatory care and comprehensive evaluation units, and community care programs for elderly individuals with intellectual disabilities; and
+    (iii) may give priority to any program that—
 
-  (F) provide training in geriatrics through one or both of the training options described in subparagraphs (A) and (B) of paragraph (3).
+      (I) integrates geriatrics into primary care practice;
 
-(3) **Training options** — The training options referred to in subparagraph (F) of paragraph (2) shall be as follows:
+      (II) provides training to integrate geriatric care into other specialties across care settings, including practicing clinical specialists, health care administrators, faculty without backgrounds in geriatrics, and students from all health professions;
 
-  (A) A 1-year retraining program in geriatrics for—
+      (III) emphasizes integration of geriatric care into existing service delivery locations and care across settings, including primary care clinics, medical homes, Federally qualified health centers, ambulatory care clinics, critical access hospitals, emergency care, assisted living and nursing facilities, and home- and community-based services, which may include adult daycare;
 
-    (i) physicians who are faculty members in departments of internal medicine, family medicine, gynecology, geriatrics, and behavioral or mental health at schools of medicine and osteopathic medicine;
+      (IV) supports the training and retraining of faculty, primary care providers, other direct care providers, and other appropriate professionals on geriatrics;
 
-    (ii) dentists who are faculty members at schools of dentistry or at hospital departments of dentistry; and
+      (V) emphasizes education and engagement of family caregivers on disease management and strategies to meet the needs of caregivers of older adults; or
 
-    (iii) behavioral or mental health professionals who are faculty members in departments of behavioral or mental health; and
+      (VI) proposes to conduct outreach to communities that have a shortage of geriatric workforce professionals.
 
-  (B) A 2-year internal medicine or family medicine fellowship program providing emphasis in geriatrics, which shall be designed to provide training in clinical geriatrics and geriatrics research for—
+  (B) *Special consideration* — In awarding grants, contracts, and cooperative agreements under this section, the Secretary shall give special consideration to entities that provide services in areas with a shortage of geriatric workforce professionals.
 
-    (i) physicians who have completed graduate medical education programs in internal medicine, family medicine, behavioral or mental health, neurology, gynecology, or rehabilitation medicine;
+(6) **Priority** — The Secretary may provide awardees with additional support for activities in areas of demonstrated need, which may include education and training for home health workers, family caregivers, and direct care workers on care for older adults.
 
-    (ii) dentists who have demonstrated a commitment to an academic career and who have completed postdoctoral dental training, including postdoctoral dental education programs or who have relevant advanced training or experience; and
+(7) **Reporting**
 
-    (iii) behavioral or mental health professionals who have completed graduate medical education programs in behavioral or mental health.
+  (A) *Reports from entities* — Each entity awarded a grant, contract, or cooperative agreement under this section shall submit an annual report to the Secretary on the activities conducted under such grant, contract, or cooperative agreement, which may include information on the number of trainees, the number of professions and disciplines, the number of partnerships with health care delivery sites, the number of faculty and practicing professionals who participated in such programs, and other information, as the Secretary may require.
 
-(4) **Definitions** — For purposes of this subsection:
+  (B) *Report to Congress* — Not later than 4 years after March 27, 2020, and every 5 years thereafter, the Secretary shall submit to the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Energy and Commerce of the House of Representatives a report that provides a summary of the activities and outcomes associated with grants, contracts, and cooperative agreements made under this section. Such reports shall include—
 
-  (A) The term “graduate medical education program” means a program sponsored by a school of medicine, a school of osteopathic medicine, a hospital, or a public or private institution that—
+    (i) information on the number of trainees, faculty, and professionals who participated in programs under this section;
 
-    (i) offers postgraduate medical training in the specialties and subspecialties of medicine; and
+    (ii) information on the impact of the program conducted under this section on the health status of older adults, including in areas with a shortage of health professionals; and
 
-    (ii) has been accredited by the Accreditation Council for Graduate Medical Education or the American Osteopathic Association through its Committee on Postdoctoral Training.
+    (iii) information on outreach and education provided under this section to families and caregivers of older adults.
 
-  (B) The term “post-doctoral dental education program” means a program sponsored by a school of dentistry, a hospital, or a public or private institution that—
+  (C) *Public availability* — The Secretary shall make reports submitted under paragraph (B) publically available on the internet website of the Department of Health and Human Services.
 
-    (i) offers post-doctoral training in the specialties of dentistry, advanced education in general dentistry, or a dental general practice residency; and
+**(b) Geriatric academic career awards**
 
-    (ii) has been accredited by the Commission on Dental Accreditation.
+(1) **Establishment of program** — The Secretary shall, as appropriate, establish or maintain a program to provide geriatric academic career awards to eligible entities applying on behalf of eligible individuals to promote the career development of such individuals as academic geriatricians or other academic geriatrics health professionals.
 
-**(c) Geriatric faculty fellowships**
+(2) **Eligibility**
 
-(1) **Establishment of program** — The Secretary shall establish a program to provide Geriatric Academic Career Awards to eligible individuals to promote the career development of such individuals as academic geriatricians.
+  (A) *Eligible entity* — For purposes of this subsection, the term “eligible entity” means—
 
-(2) **Eligible individuals** — To be eligible to receive an Award under paragraph (1), an individual shall—
+    (i) an entity described in paragraph (1), (3), or (4) of [section 295p of this title](./chapter-6a-public-health-service.md#section-295p) or [section 296(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section296/2&num=0&edition=prelim); or
 
-  (A) be board certified or board eligible in internal medicine, family practice, psychiatry, or licensed dentistry, or have completed any required training in a discipline and employed in an accredited health professions school that is approved by the Secretary;
+    (ii) another accredited health professions school or graduate program approved by the Secretary.
 
-  (B) have completed an approved fellowship program in geriatrics or have completed specialty training in geriatrics as required by the discipline and any addition 22 So in original. Probably should be “additional”. geriatrics training as required by the Secretary; and
+  (B) *Eligible individual* — For purposes of this subsection, the term “eligible individual” means an individual who—
 
-  (C) have a junior (non-tenured) faculty appointment at an accredited (as determined by the Secretary) school of medicine, osteopathic medicine, nursing, social work, psychology, dentistry, pharmacy, or other allied health disciplines in an accredited health professions school that is approved by the Secretary.
+    (i)
 
-(3) **Limitations** — No Award under paragraph (1) may be made to an eligible individual unless the individual—
+      (I) is board certified or board eligible in internal medicine, family practice, psychiatry, or licensed dentistry, or has completed required training in a discipline and is employed in an accredited health professions school or graduate program that is approved by the Secretary; or
 
-  (A) has submitted to the Secretary an application, at such time, in such manner, and containing such information as the Secretary may require, and the Secretary has approved such application;
+      (II) has completed an approved fellowship program in geriatrics, or has completed specialty training in geriatrics as required by the discipline and any additional geriatrics training as required by the Secretary; and
 
-  (B) provides, in such form and manner as the Secretary may require, assurances that the individual will meet the service requirement described in paragraph (6); and
+    (ii) has a junior, nontenured, faculty appointment at an accredited health professions school or graduate program in geriatrics or a geriatrics health profession.
 
-  (C) provides, in such form and manner as the Secretary may require, assurances that the individual has a full-time faculty appointment in a health professions institution and documented commitment from such institution to spend 75 percent of the total time of such individual on teaching and developing skills in interdisciplinary education in geriatrics.
+  (C) *Clarification* — If an eligible individual is promoted during the period of an award under this subsection and thereby no longer meets the criteria of subparagraph (B)(ii), the individual shall continue to be treated as an eligible individual through the term of the award.
 
-(4) **Maintenance of effort** — An eligible individual that receives an Award under paragraph (1) shall provide assurances to the Secretary that funds provided to the eligible individual under this subsection will be used only to supplement, not to supplant, the amount of Federal, State, and local funds otherwise expended by the eligible individual.
+(3) **Application requirements** — In order to receive an award under paragraph (1), an eligible entity, on behalf of an eligible individual, shall—
 
-(5) **Amount and term**
+  (A) submit to the Secretary an application, at such time, in such manner, and containing such information as the Secretary may require;
 
-  (A) *Amount* — The amount of an Award under this section for individuals who are physicians shall equal $50,000 for fiscal year 1998, adjusted for subsequent fiscal years to reflect the increase in the Consumer Price Index. The Secretary shall determine the amount of an Award under this section for individuals who are not physicians.
+  (B) provide, in such form and manner as the Secretary may require, assurances that the eligible individual will meet the service requirement described in paragraph (6); and
 
-  (B) *Term* — The term of any Award made under this subsection shall not exceed 5 years.
+  (C) provide, in such form and manner as the Secretary may require, assurances that the individual has a full-time faculty appointment in a health professions institution and documented commitment from such eligible entity that the individual will spend 75 percent of the individual’s time that is supported by the award on teaching and developing skills in interdisciplinary education in geriatrics.
 
-  (C) *Payment to institution* — The Secretary shall make payments to institutions which include schools of medicine, osteopathic medicine, nursing, social work, psychology, dentistry, and pharmacy, or other allied health discipline in an accredited health professions school that is approved by the Secretary.
+(4) **Equitable distribution** — In making awards under this subsection, the Secretary shall seek to ensure geographical distribution among award recipients, including among rural or medically underserved areas of the United States.
 
-(6) **Service requirement** — An individual who receives an Award under this subsection shall provide training in clinical geriatrics, including the training of interdisciplinary teams of health care professionals. The provision of such training shall constitute at least 75 percent of the obligations of such individual under the Award.
+(5) **Amount and duration**
 
-**(d) Geriatric workforce development**
+  (A) *Amount* — The amount of an award under this subsection shall be at least $75,000 for fiscal year 2021, adjusted for subsequent years in accordance with the consumer price index. The Secretary shall determine the amount of an award under this subsection for individuals who are not physicians.
 
-(1) **In general** — The Secretary shall award grants or contracts under this subsection to entities that operate a geriatric education center pursuant to subsection (a)(1).
+  (B) *Duration* — The Secretary shall make awards under paragraph (1) for a period not to exceed 5 years.
 
-(2) **Application** — To be eligible for an award under paragraph (1), an entity described in such paragraph shall submit to the Secretary an application at such time, in such manner, and containing such information as the Secretary may require.
+(6) **Service requirement** — An individual who receives an award under this subsection shall provide training in clinical geriatrics, including the training of interprofessional teams of health care professionals. The provision of such training shall constitute at least 75 percent of the obligations of such individual under the award.
 
-(3) **Use of funds** — Amounts awarded under a grant or contract under paragraph (1) shall be used to—
+**(c) Nonapplicability of provision** Notwithstanding any other provision of this subchapter, [section 295j(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section295j/a&num=0&edition=prelim) shall not apply to awards made under this section.
 
-  (A) carry out the fellowship program described in paragraph (4); and
-
-  (B) carry out 1 of the 2 activities described in paragraph (5).
-
-(4) **Fellowship program**
-
-  (A) *In general* — Pursuant to paragraph (3), a geriatric education center that receives an award under this subsection shall use such funds to offer short-term intensive courses (referred to in this subsection as a “fellowship”) that focus on geriatrics, chronic care management, and long-term care that provide supplemental training for faculty members in medical schools and other health professions schools with programs in psychology, pharmacy, nursing, social work, dentistry, public health, allied health, or other health disciplines, as approved by the Secretary. Such a fellowship shall be open to current faculty, and appropriately credentialed volunteer faculty and practitioners, who do not have formal training in geriatrics, to upgrade their knowledge and clinical skills for the care of older adults and adults with functional limitations and to enhance their interdisciplinary teaching skills.
-
-  (B) *Location* — A fellowship shall be offered either at the geriatric education center that is sponsoring the course, in collaboration with other geriatric education centers, or at medical schools, schools of dentistry, schools of nursing, schools of pharmacy, schools of social work, graduate programs in psychology, or allied health and other health professions schools approved by the Secretary with which the geriatric education centers are affiliated.
-
-  (C) *CME credit* — Participation in a fellowship under this paragraph shall be accepted with respect to complying with continuing health profession education requirements. As a condition of such acceptance, the recipient shall agree to subsequently provide a minimum of 18 hours of voluntary instructional support through a geriatric education center that is providing clinical training to students or trainees in long-term care settings.
-
-(5) **Additional required activities described** — Pursuant to paragraph (3), a geriatric education center that receives an award under this subsection shall use such funds to carry out 1 of the following 2 activities.
-
-  (A) *Family caregiver and direct care provider training* — A geriatric education center that receives an award under this subsection shall offer at least 2 courses each year, at no charge or nominal cost, to family caregivers and direct care providers that are designed to provide practical training for supporting frail elders and individuals with disabilities. The Secretary shall require such Centers to work with appropriate community partners to develop training program content and to publicize the availability of training courses in their service areas. All family caregiver and direct care provider training programs shall include instruction on the management of psychological and behavioral aspects of dementia, communication techniques for working with individuals who have dementia, and the appropriate, safe, and effective use of medications for older adults.
-
-  (B) *Incorporation of best practices* — A geriatric education center that receives an award under this subsection shall develop and include material on depression and other mental disorders common among older adults, medication safety issues for older adults, and management of the psychological and behavioral aspects of dementia and communication techniques with individuals who have dementia in all training courses, where appropriate.
-
-(6) **Targets** — A geriatric education center that receives an award under this subsection shall meet targets approved by the Secretary for providing geriatric training to a certain number of faculty or practitioners during the term of the award, as well as other parameters established by the Secretary.
-
-(7) **Amount of award** — An award under this subsection shall be in an amount of $150,000. Not more than 24 geriatric education centers may receive an award under this subsection.
-
-(8) **Maintenance of effort** — A geriatric education center that receives an award under this subsection shall provide assurances to the Secretary that funds provided to the geriatric education center under this subsection will be used only to supplement, not to supplant, the amount of Federal, State, and local funds otherwise expended by the geriatric education center.
-
-(9) **Authorization of appropriations** — In addition to any other funding available to carry out this section, there is authorized to be appropriated to carry out this subsection, $10,800,000 for the period of fiscal year 2011 through 2014.
-
-**(e) Geriatric career incentive awards**
-
-(1) **In general** — The Secretary shall award grants or contracts under this section to individuals described in paragraph (2) to foster greater interest among a variety of health professionals in entering the field of geriatrics, long-term care, and chronic care management.
-
-(2) **Eligible individuals** — To be eligible to received an award under paragraph (1), an individual shall—
-
-  (A) be an advanced practice nurse, a clinical social worker, a pharmacist, or student of psychology who is pursuing a doctorate or other advanced degree in geriatrics or related fields in an accredited health professions school; and
-
-  (B) submit to the Secretary an application at such time, in such manner, and containing such information as the Secretary may require.
-
-(3) **Condition of award** — As a condition of receiving an award under this subsection, an individual shall agree that, following completion of the award period, the individual will teach or practice in the field of geriatrics, long-term care, or chronic care management for a minimum of 5 years under guidelines set by the Secretary.
-
-(4) **Authorization of appropriations** — There is authorized to be appropriated to carry out this subsection, $10,000,000 for the period of fiscal years 2011 through 2013.
+**(d) Authorization of appropriations** There is authorized to be appropriated $40,737,000 for each of fiscal years 2021 through 2025 for purposes of carrying out this section.
 
 ### Statutory Notes
 
@@ -47773,6 +48798,10 @@ Another prior section 294c, act July 1, 1944, ch. 373, title VII, § 730, as add
 Another prior section 294c, act July 1, 1944, ch. 373, title VII, § 743, as added Sept. 24, 1963, Pub. L. 88–129, § 2(b), 77 Stat. 172; amended Oct. 22, 1965, Pub. L. 89–290, § 4(d), 79 Stat. 1057; Nov. 3, 1966, Pub. L. 89–751, § 5(c)(2), (3), 80 Stat. 1233; Aug. 16, 1968, Pub. L. 90–490, title I, § 121(c), 82 Stat. 778; July 9, 1971, Pub. L. 92–52, § 1(b), 85 Stat. 144; Nov. 18, 1971, Pub. L. 92–157, title I, § 105(e)(2), (f)(2), 85 Stat. 451; Oct. 12, 1976, Pub. L. 94–484, title IV, §§ 405, 406(e), 90 Stat. 2267, 2268, which related to the distribution of assets from loan funds, was transferred to [section 294p of this title](./chapter-6a-public-health-service.md#section-294p).
 
 #### Amendments
+2020—Pub. L. 116–136 amended section generally. Prior to amendment, section consisted of subsecs. (a) to (e) which related to geriatric education centers, geriatric training regarding physicians and dentists, geriatric faculty fellowships, geriatric workforce development, and geriatric career incentive awards, respectively.
+
+Subsec. (a)(7)(B). Pub. L. 116–260, in introductory provisions, substituted “Coronavirus Aid, Relief, and Economic Security Act” for “Title VII Health Care Workforce Reauthorization Act of 2019” in the original, and accordingly, “the date of enactment of the Coronavirus Aid, Relief, and Economic Security Act” was translated to “March 27, 2020”. The Coronavirus Aid, Relief, and Economic Security Act, Pub. L. 116–136, was approved Mar. 27, 2020.
+
 2010—Subsec. (b)(2)(E). Pub. L. 111–256 substituted “elderly individuals with intellectual disabilities” for “elderly mentally retarded individuals”.
 
 Subsec. (c)(2) to (4). Pub. L. 111–148, § 5305(b)(2), added pars. (2) to (4) and struck out former pars. (2) and (3) which described eligible individuals and limitations for Geriatric Academic Career Awards. Former par. (4) redesignated (5).
@@ -47789,6 +48818,9 @@ Subsecs. (d), (e). Pub. L. 111–148, § 5305(a), added subsecs. (d) and (e).
 
 2002—Subsec. (a)(1). Pub. L. 107–205 substituted “, and [section 296(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section296/2&num=0&edition=prelim),” for “, and [section 298b(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section298b/2&num=0&edition=prelim),”.
 
+#### Effective Date of 2020 Amendment
+Pub. L. 116–260, div. BB, title III, § 331(d), Dec. 27, 2020, 134 Stat. 2938, provided that: “The amendments made by subsections (a), (b), and (c) [amending this section and sections 297n–1 and 297t of this title] shall take effect as if included in the enactment of the Coronavirus Aid, Relief, and Economic Security Act (Public Law 116–136).”
+
 #### Definitions
 For meaning of references to an intellectual disability and to individuals with intellectual disabilities in provisions amended by section 2 of Pub. L. 111–256, see section 2(k) of Pub. L. 111–256, set out as a note under [section 1400 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1400&num=0&edition=prelim), Education.
 
@@ -47801,7 +48833,7 @@ For meaning of references to an intellectual disability and to individuals with 
 
 (1) **In general** — Amounts provided under subsection (a) shall be used by the recipients to fund interdisciplinary training projects designed to—
 
-  (A) use new and innovative methods to train health care practitioners to provide services in rural areas;
+  (A) use innovative or evidence-based methods to train health care practitioners to provide services in rural areas;
 
   (B) demonstrate and evaluate innovative interdisciplinary methods and models designed to provide access to cost-effective comprehensive health care;
 
@@ -47849,6 +48881,9 @@ Another prior section 294d, act July 1, 1944, ch. 373, title VII, § 731, as add
 
 Another prior section 294d, act July 1, 1944, ch. 373, title VII, § 744, as added Sept. 24, 1963, Pub. L. 88–129, § 2(b), 77 Stat. 173; amended Oct. 22, 1965, Pub. L. 89–290, § 4(e), 79 Stat. 1057; Nov. 3, 1966, Pub. L. 89–751, § 5(a), 80 Stat. 1230; Aug. 16, 1968, Pub. L. 90–490, title I, § 121(d), 82 Stat. 778; July 9, 1971, Pub. L. 92–52, § 1(c), 85 Stat. 144; Nov. 18, 1971, Pub. L. 92–157, title I, § 105(e)(3), (f)(2), 85 Stat. 451, provided for loans to schools to capitalize health professions student loan funds, prior to repeal by Pub. L. 94–484, title IV, § 406(a)(1), Oct. 12, 1976, 90 Stat. 2268.
 
+#### Amendments
+2020—Subsec. (b)(1)(A). Pub. L. 116–136 substituted “innovative or evidence-based” for “new and innovative”.
+
 
 <a id="section-294e"></a>
 ## § 294e. Allied health and other disciplines
@@ -47858,7 +48893,7 @@ Another prior section 294d, act July 1, 1944, ch. 373, title VII, § 744, as add
 
 (1) Assisting entities in meeting the costs associated with expanding or establishing programs that will increase the number of individuals trained in allied health professions. Programs and activities funded under this paragraph may include—
 
-  (A) those that expand enrollments in allied health professions with the greatest shortages or whose services are most needed by the elderly;
+  (A) those that expand enrollments in allied health professions with the greatest shortages or whose services are most needed by geriatric populations or for maternal and child health;
 
   (B) those that provide rapid transition training programs in allied health fields to individuals who have baccalaureate degrees in health-related sciences;
 
@@ -47895,6 +48930,9 @@ A prior section 294e, act July 1, 1944, ch. 373, title VII, § 767, as added Pub
 Another prior section 294e, act July 1, 1944, ch. 373, title VII, § 732, as added Oct. 12, 1976, Pub. L. 94–484, title IV, § 401(b)(3), 90 Stat. 2260; amended Aug. 1, 1977, Pub. L. 95–83, title III, § 307(c)(3), (4), 91 Stat. 390; Dec. 19, 1977, Pub. L. 95–215, § 4(e)(8), (9), 91 Stat. 1506; Aug. 13, 1981, Pub. L. 97–35, title XXVII, § 2729, 95 Stat. 918; Oct. 22, 1985, Pub. L. 99–129, title II, § 208(e), 99 Stat. 531; Nov. 4, 1988, Pub. L. 100–607, title VI, § 602(g), 102 Stat. 3123, related to certificates of loan insurance, prior to the general amendment of this subchapter by Pub. L. 102–408. See [section 292e of this title](./chapter-6a-public-health-service.md#section-292e).
 
 Another prior section 294e, act July 1, 1944, ch. 373, title VII, § 744, formerly § 745, as added Sept. 24, 1963, Pub. L. 88–129, § 2(b), 77 Stat. 173; amended Nov. 18, 1971, Pub. L. 92–157, title I, § 105(f)(2), 85 Stat. 451; renumbered § 744, Oct. 12, 1976, Pub. L. 94–484, title IV, § 406(a)(2), 90 Stat. 2268, which related to administrative provisions, was transferred to [section 294q of this title](./chapter-6a-public-health-service.md#section-294q).
+
+#### Amendments
+2020—Subsec. (b)(1)(A). Pub. L. 116–136 substituted “geriatric populations or for maternal and child health” for “the elderly”.
 
 
 <a id="section-294e-1"></a>
@@ -48417,7 +49455,7 @@ Section 294m, act July 1, 1944, ch. 373, title VII, § 740, as added Sept. 24, 1
 
 (1) **In general**
 
-  (A) *National Center* — To carry out subsection (b), there are authorized to be appropriated $7,500,000 for each of fiscal years 2010 through 2014.
+  (A) *National Center* — To carry out subsection (b), there are authorized to be appropriated $5,663,000 for each of fiscal years 2021 through 2025.
 
   (B) *State and regional Centers* — To carry out subsection (c), there are authorized to be appropriated $4,500,000 for each of fiscal years 2010 through 2014.
 
@@ -48443,11 +49481,15 @@ Another prior section 761 of act July 1, 1944, was classified to [section 295 of
 Another prior section 761 of act July 1, 1944, was classified to [section 295 of this title](./chapter-6a-public-health-service.md#section-295) prior to the general amendment of part D of this subchapter by Pub. L. 91–696.
 
 #### Amendments
+2020—Subsec. (e)(1)(A). Pub. L. 116–136, § 3401(9)(A), substituted “$5,663,000 for each of fiscal years 2021 through 2025” for “$7,500,000 for each of fiscal years 2010 through 2014”.
+
+Subsec. (e)(2). Pub. L. 116–136, § 3401(9)(B), substituted “paragraph (1)” for “subsection (a)”.
+
 2010—Subsecs. (b) to (e). Pub. L. 111–148, § 5103(a)(1), (2), added subsecs. (b) to (d), redesignated former subsec. (c) as (e), and struck out former subsec. (b) which related to award of grants or contracts.
 
 Subsec. (e)(1). Pub. L. 111–148, § 5103(a)(3)(A), added par. (1) and struck out former par. (1). Prior to amendment, text read as follows: “There are authorized to be appropriated to carry out this section, $750,000 for fiscal year 1998, and such sums as may be necessary for each of the fiscal years 1999 through 2002.”
 
-Subsec. (e)(2). Pub. L. 111–148, § 5103(a)(4), which directed amendment of “paragraph (2)”, without specifying the subsec. to be amended, by substituting “paragraph (1)” for “subsection (a)”, was executed by making the substitution in par. (2) of subsec. (e), to reflect the probable intent of Congress.
+Subsec. (e)(2). Pub. L. 111–148, § 5103(a)(4), which directed amendment of “paragraph (2)”, without specifying the subsec. to be amended, by substituting “paragraph (1)” for “subsection (a)”, could not be executed.
 
 #### Transfer of Functions
 Pub. L. 111–148, title V, § 5103(b), Mar. 23, 2010, 124 Stat. 605, provided that: “Not later than 180 days after the date of enactment of this Act [Mar. 23, 2010], the responsibilities and resources of the National Center for Health Workforce Analysis, as in effect on the date before the date of enactment of this Act, shall be transferred to the National Center for Health Care Workforce Analysis established under section 761 of the Public Health Service Act [[42 U.S.C. 294n](./chapter-6a-public-health-service.md#section-294n)], as amended by subsection (a).”
@@ -48457,7 +49499,7 @@ Pub. L. 111–148, title V, § 5103(b), Mar. 23, 2010, 124 Stat. 605, provided t
 ## § 294o. Advisory Council on Graduate Medical Education
 **(a) Establishment; duties** There is established the Council on Graduate Medical Education (in this section referred to as the “Council”). The Council shall—
 
-(1) make recommendations to the Secretary of Health and Human Services (in this section referred to as the “Secretary”), and to the Committee on Labor and Human Resources of the Senate, and the Committee on Energy and Commerce of the House of Representatives, with respect to—
+(1) make recommendations to the Secretary of Health and Human Services (in this section referred to as the “Secretary”), and to the Committee on Health, Education, Labor, and Pensions of the Senate, and the Committee on Energy and Commerce of the House of Representatives, with respect to—
 
   (A) the supply and distribution of physicians in the United States;
 
@@ -48483,15 +49525,17 @@ Pub. L. 111–148, title V, § 5103(b), Mar. 23, 2010, 124 Stat. 605, provided t
 
 (1) the Assistant Secretary for Health or the designee of the Assistant Secretary;
 
-(2) the Administrator of the Health Care Financing Administration;
+(2) the Administrator of the Centers for Medicare & Medicaid Services;
 
 (3) the Chief Medical Director of the Department of Veterans Affairs;
 
-(4) 6 members appointed by the Secretary to include representatives of practicing primary care physicians, national and specialty physician organizations, foreign medical graduates, and medical student and house staff associations;
+(4) the Administrator of the Health Resources and Services Administration;
 
-(5) 4 members appointed by the Secretary to include representatives of schools of medicine and osteopathic medicine and public and private teaching hospitals; and
+(5) 6 members appointed by the Secretary to include representatives of practicing primary care physicians, national and specialty physician organizations, foreign medical graduates, and medical student and house staff associations;
 
-(6) 4 members appointed by the Secretary to include representatives of health insurers, business, and labor.
+(6) 4 members appointed by the Secretary to include representatives of schools of medicine and osteopathic medicine and public and private teaching hospitals; and
+
+(7) 4 members appointed by the Secretary to include representatives of health insurers, business, and labor.
 
 **(c) Terms of appointed members**
 
@@ -48517,13 +49561,9 @@ Pub. L. 111–148, title V, § 5103(b), Mar. 23, 2010, 124 Stat. 605, provided t
 
 (2) **Coordination of activities** — The Council shall coordinate its activities with the activities of the Secretary under [section 295k of this title](./chapter-6a-public-health-service.md#section-295k). The Secretary shall, in cooperation with the Council and pursuant to the recommendations of the Council, take such steps as are practicable to eliminate deficiencies in the data base established under [section 295k of this title](./chapter-6a-public-health-service.md#section-295k) and shall make available in its reports such comprehensive data sets as are developed pursuant to this section.
 
-**(i) Requirement regarding reports** In the reports required under subsection (a), the Council shall specify its activities during the period for which the report is made.
+**(i) Reports** Not later than September 30, 2023, and not less than every 5 years thereafter, the Council shall submit to the Secretary, and to the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Energy and Commerce of the House of Representatives, a report on the recommendations described in subsection (a).
 
-**(j) Final report** Not later than April 1, 2002, the Council shall submit a final report under subsection (a).
-
-**(k) Termination** The Council shall terminate September 30, 2003.
-
-**(l) Funding** Amounts otherwise appropriated under this subchapter may be utilized by the Secretary to support the activities of the Council.
+**(j) Funding** Amounts otherwise appropriated under this subchapter may be utilized by the Secretary to support the activities of the Council.
 
 ### Statutory Notes
 
@@ -48540,6 +49580,14 @@ A prior section 762 of act July 1, 1944, was classified to [section 295a of this
 Another prior section 762 of act July 1, 1944, was classified to [section 295a of this title](./chapter-6a-public-health-service.md#section-295a) prior to the general amendment of part D of this subchapter by Pub. L. 91–696.
 
 #### Amendments
+2020—Subsec. (a)(1). Pub. L. 116–136, § 3401(10)(A), substituted “Committee on Health, Education, Labor, and Pensions” for “Committee on Labor and Human Resources” in introductory provisions.
+
+Subsec. (b)(2). Pub. L. 116–136, § 3401(10)(B)(i), substituted “Centers for Medicare & Medicaid Services” for “Health Care Financing Administration”.
+
+Subsec. (b)(4) to (7). Pub. L. 116–136, § 3401(10)(B)(ii), (iii), added par. (4) and redesignated former pars. (4) to (6) as (5) to (7), respectively.
+
+Subsecs. (i) to (l). Pub. L. 116–136, § 3401(10)(C), (D), added subsec. (i), redesignated subsec. (l) as (j), and struck out former subsecs. (i) to (k) which related to requirement regarding reports, final report, and termination of the Council, respectively.
+
 2010—Subsec. (a)(3) to (5). Pub. L. 111–148 added pars. (3) to (5).
 
 2002—Subsec. (k). Pub. L. 107–251 substituted “2003” for “2002”.
@@ -48553,8 +49601,6 @@ Subsec. (l). Pub. L. 105–392, § 104(b)(3), added subsec. (l).
 1992—Subsec. (a)(2). Pub. L. 102–531 substituted “voluntarily” for “voluntary”.
 
 #### Change of Name
-Committee on Labor and Human Resources of Senate changed to Committee on Health, Education, Labor, and Pensions of Senate by Senate Resolution No. 20, One Hundred Sixth Congress, Jan. 19, 1999.
-
 Committee on Energy and Commerce of House of Representatives treated as referring to Committee on Commerce of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding [section 21 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section21&num=0&edition=prelim), The Congress. Committee on Commerce of House of Representatives changed to Committee on Energy and Commerce of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred to Committee on Financial Services of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
 
 Reference to Chief Medical Director of Department of Veterans Affairs deemed to refer to Under Secretary for Health of Department of Veterans Affairs pursuant to section 302(e) of Pub. L. 102–405, set out as a note under [section 305 of Title 38](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section305&num=0&edition=prelim), Veterans’ Benefits.
@@ -49112,7 +50158,7 @@ Another prior section 765 of act July 1, 1944, was classified to [section 295d o
 
 **(b) Eligible entities**
 
-(1) **In general** — A public health training center shall be an accredited school of public health, or another public or nonprofit private institution accredited for the provision of graduate or specialized training in public health, that plans, develops, operates, and evaluates projects that are in furtherance of the goals established by the Secretary for the year 2000 in the areas of preventive medicine, health promotion and disease prevention, or improving access to and quality of health services in medically underserved communities.
+(1) **In general** — A public health training center shall be an accredited school of public health, or another public or nonprofit private institution accredited for the provision of graduate or specialized training in public health, that plans, develops, operates, and evaluates projects to improve preventive medicine, health promotion and disease prevention, or access to and quality of health care services in rural or medically underserved communities.
 
 (2) **Preference** — In awarding grants or contracts under this section the Secretary shall give preference to accredited schools of public health.
 
@@ -49140,6 +50186,9 @@ A prior section 766 of act July 1, 1944, was classified to [section 294d of this
 Another prior section 766 of act July 1, 1944, was classified to [section 295d–1 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section295d–1&num=0&edition=prelim) prior to repeal by Pub. L. 99–129.
 
 Another prior section 766 of act July 1, 1944, was classified to [section 295d–1 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section295d–1&num=0&edition=prelim) prior to the general amendment of part D of this subchapter by Pub. L. 91–696.
+
+#### Amendments
+2020—Subsec. (b)(1). Pub. L. 116–136 substituted “that plans, develops, operates, and evaluates projects to improve preventive medicine, health promotion and disease prevention, or access to and quality of health care services in rural or medically underserved communities.” for “that plans, develops, operates, and evaluates projects that are in furtherance of the goals established by the Secretary for the year 2000 in the areas of preventive medicine, health promotion and disease prevention, or improving access to and quality of health services in medically underserved communities.”
 
 
 <a id="section-295b"></a>
@@ -49249,7 +50298,7 @@ Section 295d–2, act July 1, 1944, ch. 373, title VII, § 767, as added Dec. 25
 
 <a id="section-295e"></a>
 ## § 295e. Authorization of appropriations
-**(a) In general** For the purpose of carrying out this subpart, there is authorized to be appropriated $43,000,000 for fiscal year 2011, and such sums as may be necessary for each of the fiscal years 2012 through 2015.
+**(a) In general** For the purpose of carrying out this subpart, there is authorized to be appropriated $17,000,000 for each of fiscal years 2021 through 2025.
 
 **(b) Limitation regarding certain program** In obligating amounts appropriated under subsection (a), the Secretary may not obligate more than 30 percent for carrying out [section 295b of this title](./chapter-6a-public-health-service.md#section-295b).
 
@@ -49273,6 +50322,8 @@ Section 295e–4, act July 1, 1944, ch. 373, title VII, § 769A, as added Nov. 1
 Section 295e–5, act July 1, 1944, ch. 373, title VII, § 769B, as added Nov. 18, 1971, Pub. L. 92–157, title I, § 107(b), 85 Stat. 460, required applications for grants and approval of grants by Secretary and set forth payment limitations.
 
 #### Amendments
+2020—Subsec. (a). Pub. L. 116–136 substituted “$17,000,000 for each of fiscal years 2021 through 2025” for “$43,000,000 for fiscal year 2011, and such sums as may be necessary for each of the fiscal years 2012 through 2015”.
+
 2010—Subsec. (a). Pub. L. 111–148 amended subsec. (a) generally. Prior to amendment, text read as follows: “For the purpose of carrying out this subpart, there is authorized to be appropriated $9,100,000 for fiscal year 1998, and such sums as may be necessary for each of the fiscal years 1999 through 2002.”
 
 
@@ -49324,7 +50375,7 @@ Section 295e–5, act July 1, 1944, ch. 373, title VII, § 769B, as added Nov. 1
 
 (3) demonstrate financial need.
 
-**(e) Authorization of appropriations** There is authorized to be appropriated $30,000,000 for each of fiscal years 2010 through 2014 to carry out subsection (c)(1)(A) and $20,000,000 for each of fiscal years 2010 through 2013 to carry out subsection (c)(1)(B).
+**(e) Authorization of appropriations** There is authorized to be appropriated such sums as may be necessary for each of fiscal years 2021 through 2025.
 
 ### Statutory Notes
 
@@ -49335,6 +50386,9 @@ The calendar year in which this section is enacted, referred to in subsec. (c)(1
 A prior section 295f, act July 1, 1944, ch. 373, title VII, § 770, as added Oct. 22, 1965, Pub. L. 89–290, § 2(a), 79 Stat. 1052; amended Aug. 16, 1968, Pub. L. 90–490, title I, § 111(a), 82 Stat. 774; Nov. 18, 1971, Pub. L. 92–157, title I, § 104(a), 85 Stat. 437; Oct. 12, 1976, Pub. L. 94–484, title I, § 101(k), title V, § 501(a)–(c), 90 Stat. 2245, 2290, 2291; Aug. 13, 1981, Pub. L. 97–35, title XXVII, § 2746(a)(1), 95 Stat. 927; Oct. 22, 1985, Pub. L. 99–129, title II, § 211(a)(1), 99 Stat. 537; Nov. 4, 1988, Pub. L. 100–607, title VI, § 606(a), 102 Stat. 3127, related to capitation grants for schools of public health, prior to repeal by act July 1, 1944, ch. 373, title VII, § 773, as added Nov. 4, 1988, Pub. L. 100–607, title VI, § 606(b), 102 Stat. 3127, effective Oct. 1, 1990.
 
 A prior section 775 of act July 1, 1944, was renumbered section 772 by Pub. L. 94–484, and was classified to [section 295f–2 of this title](./chapter-6a-public-health-service.md#section-295f-2) prior to repeal by act July 1, 1944, ch. 373, title VII, § 773, as added Nov. 4, 1988, Pub. L. 100–607, title VI, § 606(b), 102 Stat. 3127.
+
+#### Amendments
+2020—Subsec. (e). Pub. L. 116–136 substituted “such sums as may be necessary for each of fiscal years 2021 through 2025.” for “$30,000,000 for each of fiscal years 2010 through 2014 to carry out subsection (c)(1)(A) and $20,000,000 for each of fiscal years 2010 through 2013 to carry out subsection (c)(1)(B).”
 
 
 <a id="section-295f-1"></a>
@@ -50159,6 +51213,8 @@ As used in this subchapter:
 
 (17) **Bridge or degree completion program** — The term “bridge or degree completion program” means a program of education in professional nursing offered by an accredited school of nursing, as defined in paragraph (2), that leads to a baccalaureate degree in nursing. Such programs may include, Registered Nurse (RN) to Bachelor’s of Science of Nursing (BSN) programs, RN to MSN (Master of Science of Nursing) programs, or BSN to Doctoral programs.
 
+(18) **Nurse managed health clinic** — The term “nurse managed health clinic” means a nurse-practice arrangement, managed by advanced practice nurses, that provides primary care or wellness services to underserved or vulnerable populations and that is associated with a school, college, university or department of nursing, federally qualified health center, or independent nonprofit health or social services agency.
+
 ### Statutory Notes
 
 #### References in Text
@@ -50168,6 +51224,8 @@ The Social Security Act, referred to in par. (9), is act Aug. 14, 1935, ch. 531,
 A prior section 296, act July 1, 1944, ch. 373, title VIII, § 801 as added Sept. 4, 1964, Pub. L. 88–581, § 2, 78 Stat. 908; amended Nov. 3, 1966, Pub. L. 89–751, § 8(a), 80 Stat. 1236; Aug. 16, 1968, Pub. L. 90–490, title II, § 201(a), 82 Stat. 780; Nov. 18, 1971, Pub. L. 92–158, § 2(a), 85 Stat. 465; July 29, 1975, Pub. L. 94–63, title IX, §§ 902(a), 910(a)(1), 89 Stat. 354, 355; Sept. 29, 1979, Pub. L. 96–76, title I, § 102, 93 Stat. 579, authorized appropriations for construction grants, prior to repeal by Pub. L. 99–92, §§ 9(a)(1), 10(a), Aug. 16, 1985, 99 Stat. 400, 402, effective Oct. 1, 1985.
 
 #### Amendments
+2020—Par. (18). Pub. L. 116–136 added par. (18).
+
 2010—Par. (2). Pub. L. 111–148, § 5002(c)(1), substituted “means an accredited (as defined in paragraph 6) collegiate, associate degree, or diploma school of nursing in a State where graduates are—” for “means a collegiate, associate degree, or diploma school of nursing in a State.” and added subpars. (A) and (B).
 
 Pars. (16), (17). Pub. L. 111–148, § 5002(c)(2), added pars. (16) and (17).
@@ -50196,7 +51254,7 @@ Pub. L. 94–63, title IX, § 951, July 29, 1975, 89 Stat. 367, as amended by Pu
 
 **(b) Plan** An application submitted under this section shall contain the plan of the applicant for carrying out a project with amounts received under this subchapter. Such plan shall be consistent with relevant Federal, State, or regional program plans.
 
-**(c) Performance outcome standards** An application submitted under this section shall contain a specification by the applicant entity of performance outcome standards that the project to be funded under the grant or contract will be measured against. Such standards shall address relevant national nursing needs that the project will meet. The recipient of a grant or contract under this section shall meet the standards set forth in the grant or contract application.
+**(c) Performance outcome standards** An application submitted under this section shall contain a specification by the applicant entity of performance outcome standards that the project to be funded under the grant or contract will be measured against. Such standards shall address relevant national nursing needs that the project will meet, and how such project aligns with the goals in [section 296e(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section296e/a&num=0&edition=prelim). The recipient of a grant or contract under this section shall meet the standards set forth in the grant or contract application.
 
 **(d) Linkages** An application submitted under this section shall contain a description of the linkages with relevant educational and health care entities, including training programs for other health professionals as appropriate, that the project to be funded under the grant or contract will establish.
 
@@ -50205,17 +51263,23 @@ Pub. L. 94–63, title IX, § 951, July 29, 1975, 89 Stat. 367, as amended by Pu
 #### Prior Provisions
 A prior section 296a, act July 1, 1944, ch. 373, title VIII, § 802, as added Sept. 4, 1964, Pub. L. 88–581, § 2, 78 Stat. 909; amended Aug. 16, 1968, Pub. L. 90–490, title II, § 201(b), 82 Stat. 780; Nov. 18, 1971, Pub. L. 92–158, §§ 2(d)(3), (e), (f), 13, 85 Stat. 468, 480; July 29, 1975, Pub. L. 94–63, title IX, §§ 910(a)(2), 941(a), 89 Stat. 355, 363, related to time of submission, determinations, etc., respecting applications for construction grants, prior to repeal by Pub. L. 99–92, §§ 9(a)(1), 10(a), Aug. 16, 1985, 99 Stat. 400, 402, effective Oct. 1, 1985.
 
+#### Amendments
+2020—Subsec. (c). Pub. L. 116–136 inserted “, and how such project aligns with the goals in [section 296e(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section296e/a&num=0&edition=prelim)” after “project will meet”.
+
 
 <a id="section-296b"></a>
 ## § 296b. Use of funds
 **(a) In general** Amounts provided under a grant or contract awarded under this subchapter may be used for training program development and support, faculty development, model demonstrations, trainee support including tuition, books, program fees and reasonable living expenses during the period of training, technical assistance, workforce analysis, and dissemination of information, as appropriate to meet recognized nursing objectives, in accordance with this subchapter.
 
-**(b) Maintenance of effort** With respect to activities for which a grant awarded under this subchapter is to be expended, the entity shall agree to maintain expenditures of non-Federal amounts for such activities at a level that is not less than the level of such expenditures maintained by the entity for the fiscal year preceding the fiscal year for which the entity receives such a grant.
+**(b) Maintenance of effort** With respect to activities for which a grant awarded under this subchapter is to be expended, the entity shall agree to maintain expenditures of non-Federal amounts for such activities at a level that is not less than the level of such expenditures maintained by the entity for the fiscal year preceding the fiscal year for which the entity receives such a grant. Such Federal funds are intended to supplement, not supplant, existing non-Federal expenditures for such activities.
 
 ### Statutory Notes
 
 #### Prior Provisions
 A prior section 296b, act July 1, 1944, ch. 373, title VIII, § 803, as added Sept. 4, 1964, Pub. L. 88–581, § 2, 78 Stat. 911; amended Aug. 16, 1968, Pub. L. 90–490, title II, § 202, 82 Stat. 780; Nov. 18, 1971, Pub. L. 92–158, §§ 2(b), 13, 85 Stat. 465, 480; July 29, 1975, Pub. L. 94–63, title IX, § 941(b), 89 Stat. 364, set forth provisions relating to amount of construction grant, prior to repeal by Pub. L. 99–92, §§ 9(a)(1), 10(a), Aug. 16, 1985, 99 Stat. 400, 402, effective Oct. 1, 1985.
+
+#### Amendments
+2020—Subsec. (b). Pub. L. 116–136 inserted at end “Such Federal funds are intended to supplement, not supplant, existing non-Federal expenditures for such activities.”
 
 
 <a id="section-296c"></a>
@@ -50244,13 +51308,20 @@ Another prior section 296d, act July 1, 1944, ch. 373, title VIII, § 805, as ad
 
 <a id="section-296e"></a>
 ## § 296e. Generally applicable provisions
-**(a) Awarding of grants and contracts** The Secretary shall ensure that grants and contracts under this subchapter are awarded on a competitive basis, as appropriate, to carry out innovative demonstration projects or provide for strategic workforce supplementation activities as needed to meet national nursing service goals and in accordance with this subchapter. Contracts may be entered into under this subchapter with public or private entities as determined necessary by the Secretary.
+**(a) Awarding of grants and contracts** The Secretary shall ensure that grants and contracts under this subchapter are awarded on a competitive basis, as appropriate, to carry out innovative demonstration projects or provide for strategic workforce supplementation activities as needed to address national nursing needs, including—
+
+(1) addressing challenges, including through supporting training and education of nursing students, related to the distribution of the nursing workforce and existing or projected nursing workforce shortages in geographic areas that have been identified as having, or that are projected to have, a nursing shortage;
+
+(2) increasing access to and the quality of health care services, including by supporting the training of professional registered nurses, advanced practice registered nurses, and advanced education nurses within community based settings and in a variety of health delivery system settings; or
+
+(3) addressing the strategic goals and priorities identified by the Secretary and that are in accordance with this subchapter.
+Contracts may be entered into under this subchapter with public or private entities as determined necessary by the Secretary.
 
 **(b) Information requirements**
 
 (1) **In general** — Recipients of grants and contracts under this subchapter shall meet information requirements as specified by the Secretary.
 
-(2) **Evaluations** — The Secretary shall establish procedures to ensure the annual evaluation of programs and projects operated by recipients of grants under this subchapter. Such procedures shall ensure that continued funding for such programs and projects will be conditioned upon a demonstration that satisfactory progress has been made by the program or project in meeting the objectives of the program or project.
+(2) **Evaluations** — The Secretary shall establish procedures to ensure the annual evaluation of programs and projects operated by recipients of grants under this subchapter. Such procedures shall ensure that continued funding for such programs and projects will be conditioned upon the reporting of data and information demonstrating that satisfactory progress has been made by the program or project in meeting the performance outcome standards (as described in [section 296a of this title](./chapter-6a-public-health-service.md#section-296a)) of such program or project.
 
 **(c) Training programs** Training programs conducted with amounts received under this subchapter shall meet applicable accreditation and quality standards.
 
@@ -50264,7 +51335,7 @@ Another prior section 296d, act July 1, 1944, ch. 373, title VIII, § 805, as ad
 
 (1) **In general** — Each application for a grant under this subchapter, except advanced nurse traineeship grants under [section 296j(a)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section296j/a/2&num=0&edition=prelim), shall be submitted to a peer review group for an evaluation of the merits of the proposals made in the application. The Secretary may not approve such an application unless a peer review group has recommended the application for approval.
 
-(2) **Composition** — Each peer review group under this subsection shall be composed principally of individuals who are not officers or employees of the Federal Government. In providing for the establishment of peer review groups and procedures, the Secretary shall, except as otherwise provided, ensure sex, racial, ethnic, and geographic representation among the membership of such groups.
+(2) **Composition** — Each peer review group under this subsection shall be composed principally of individuals who are not officers or employees of the Federal Government, and have relevant expertise and experience. In providing for the establishment of peer review groups and procedures, the Secretary shall, except as otherwise provided, ensure sex, racial, ethnic, and geographic representation among the membership of such groups.
 
 (3) **Administration** — This subsection shall be carried out by the Secretary acting through the Administrator of the Health Resources and Services Administration.
 
@@ -50288,10 +51359,21 @@ Another prior section 296d, act July 1, 1944, ch. 373, title VIII, § 805, as ad
 
 (2) **For-profit entities** — Notwithstanding paragraph (1), a for-profit entity may be eligible for a grant or contract under this subchapter as determined appropriate by the Secretary.
 
+**(i) Biennial report on nursing workforce program improvements** Not later than September 30, 2020, and biennially thereafter, the Secretary shall submit to the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Energy and Commerce of the House of Representatives, a report that contains an assessment of the programs and activities of the Department of Health and Human Services related to enhancing the nursing workforce, including the extent to which programs and activities under this subchapter meet the identified goals and performance measures developed for the respective programs and activities, and the extent to which the Department coordinates with other Federal departments regarding programs designed to improve the nursing workforce.
+
 ### Statutory Notes
 
 #### Prior Provisions
 A prior section 296e, act July 1, 1944, ch. 373, title VIII, § 810, formerly § 806, as added Sept. 4, 1964, Pub. L. 88–581, § 2, 78 Stat. 912; amended Dec. 5, 1967, Pub. L. 90–174, § 12(a), 81 Stat. 541; Aug. 16, 1968, Pub. L. 90–490, title II, § 211, 82 Stat. 781; Nov. 18, 1971, Pub. L. 92–158, § 4(a), 85 Stat. 470; renumbered § 810 and amended July 29, 1975, Pub. L. 94–63, title IX, §§ 902(b), 915(a)–(c), 916(a), (b), 941(e), 89 Stat. 354, 356, 358, 365; Aug. 1, 1977, Pub. L. 95–83, title III, § 307(o)(1)–(4), 91 Stat. 393; Sept. 29, 1979, Pub. L. 96–76, title I, § 104, 93 Stat. 579, set forth provisions relating to computation, requirements, etc., respecting grants for institutional support, prior to repeal by Pub. L. 99–92, §§ 9(a)(1), 10(a), Aug. 16, 1985, 99 Stat. 400, 402, effective Oct. 1, 1985.
+
+#### Amendments
+2020—Subsec. (a). Pub. L. 116–136, § 3404(a)(4)(A), substituted “as needed to address national nursing needs, including—”, pars. (1) to (3), and concluding provisions for “as needed to meet national nursing service goals and in accordance with this subchapter. Contracts may be entered into under this subchapter with public or private entities as determined necessary by the Secretary.”
+
+Subsec. (b)(2). Pub. L. 116–136, § 3404(a)(4)(B), substituted “the reporting of data and information demonstrating that satisfactory progress has been made by the program or project in meeting the performance outcome standards (as described in [section 296a of this title](./chapter-6a-public-health-service.md#section-296a)) of such program or project.” for “a demonstration that satisfactory progress has been made by the program or project in meeting the objectives of the program or project.”
+
+Subsec. (e)(2). Pub. L. 116–136, § 3404(a)(4)(C), inserted “, and have relevant expertise and experience” before period at end of first sentence.
+
+Subsec. (i). Pub. L. 116–136, § 3404(a)(4)(D), added subsec. (i).
 
 
 <a id="section-296e-1"></a>
@@ -50356,7 +51438,7 @@ A prior section 296i, act July 1, 1944, ch. 373, title VIII, § 810, as added No
 
 (2) traineeships for individuals in advanced nursing education programs.
 
-**(b) Definition of advanced education nurses** For purposes of this section, the term “advanced education nurses” means individuals trained in advanced degree programs including individuals in combined R.N./Master’s degree programs, post-nursing master’s certificate programs, or, in the case of nurse midwives, in certificate programs in existence on the date that is one day prior to November 13, 1998, to serve as nurse practitioners, clinical nurse specialists, nurse midwives, nurse anesthetists, nurse educators, nurse administrators, or public health nurses, or in other nurse specialties determined by the Secretary to require advanced education.
+**(b) Definition of advanced education nurses** For purposes of this section, the term “advanced education nurses” means individuals trained in advanced degree programs including individuals in combined R.N./graduate degree programs, post-nursing master’s certificate programs, or, in the case of nurse midwives, in certificate programs in existence on the date that is one day prior to November 13, 1998, to serve as nurse practitioners, clinical nurse specialists, nurse midwives, nurse anesthetists, nurse educators, nurse administrators, clinical nurse leaders, or public health nurses, or in other nurse specialties determined by the Secretary to require advanced education.
 
 **(c) Authorized nurse practitioner** Nurse practitioner programs eligible for support under this section are educational programs for registered nurses (irrespective of the type of school of nursing in which the nurses received their training) that—
 
@@ -50376,9 +51458,15 @@ A prior section 296i, act July 1, 1944, ch. 373, title VIII, § 810, as added No
 
 (2) are accredited by the Council on Accreditation of Nurse Anesthesia Educational Programs.
 
-**(f) Other authorized educational programs** The Secretary shall prescribe guidelines as appropriate for other advanced nurse education programs eligible for support under this section.
+**(f) Authorized clinical nurse specialist programs** Clinical nurse specialist programs eligible for support under this section are education programs that—
 
-**(g) Traineeships**
+(1) provide registered nurses with full-time clinical nurse specialist education; and
+
+(2) have as their objective the education of clinical nurse specialists who will, upon completion of such a program, be qualified to effectively provide care through the wellness and illness continuum to inpatients and outpatients experiencing acute and chronic illness.
+
+**(g) Other authorized educational programs** The Secretary shall prescribe guidelines as appropriate for other advanced nurse education programs eligible for support under this section.
+
+**(h) Traineeships**
 
 (1) **In general** — The Secretary may not award a grant to an applicant under subsection (a) unless the applicant involved agrees that traineeships provided with the grant will only pay all or part of the costs of—
 
@@ -50394,6 +51482,10 @@ A prior section 296i, act July 1, 1944, ch. 373, title VIII, § 810, as added No
 A prior section 296j, act July 1, 1944, ch. 373, title VIII, § 815, as added July 29, 1975, Pub. L. 94–63, title IX, § 921, 89 Stat. 358; amended Aug. 13, 1981, Pub. L. 97–35, title XXVII, § 2752, 95 Stat. 929, set forth provisions relating to authorization, terms and conditions, etc., respecting grants for operational costs or meeting accreditation requirements, prior to repeal by Pub. L. 99–92, §§ 9(a)(1), 10(a), Aug. 16, 1985, 99 Stat. 400, 402, effective Oct. 1, 1985.
 
 #### Amendments
+2020—Subsec. (b). Pub. L. 116–136, § 3404(a)(5)(A), substituted “R.N./graduate” for “R.N./Master’s” and inserted “clinical nurse leaders,” after “nurse administrators,”.
+
+Subsecs. (f) to (h). Pub. L. 116–136, § 3404(a)(5)(B), (C), added subsec. (f) and redesignated former subsecs. (f) and (g) as (g) and (h), respectively.
+
 2010—Subsec. (c). Pub. L. 111–148, § 5308(1), struck out “and nurse midwifery programs” after “practitioner” in heading and “and nurse midwifery” after “practitioner” in introductory provisions.
 
 Subsecs. (d), (e). Pub. L. 111–148, § 5308(3), (4), added subsec. (d) and redesignated former subsec. (d) as (e). Former subsec. (e) redesignated (f).
@@ -50507,7 +51599,7 @@ Subsec. (b). Pub. L. 111–148, § 5404(2), substituted “National Advisory Cou
 
 
 <a id="section-296p"></a>
-## § 296p. Nurse education, practice, and quality grants
+## § 296p. Nurse education, practice, quality, and retention grants
 **(a) Education priority areas** The Secretary may award grants to or enter into contracts with eligible entities for—
 
 (1) expanding the enrollment in baccalaureate nursing programs; or
@@ -50518,7 +51610,7 @@ Subsec. (b). Pub. L. 111–148, § 5404(2), substituted “National Advisory Cou
 
 (1) establishing or expanding nursing practice arrangements in noninstitutional settings to demonstrate methods to improve access to primary health care in medically underserved communities;
 
-(2) providing care for underserved populations and other high-risk groups such as the elderly, individuals with HIV/AIDS, substance abusers, the homeless, and victims of domestic violence;
+(2) providing care for underserved populations and high risk groups, such as the elderly, individuals with HIV/AIDS, individuals with mental health or substance use disorders, individuals who are homeless, and survivors of domestic violence;
 
 (3) providing coordinated care, and other skills needed to practice in existing and emerging organized health care systems; or
 
@@ -50528,9 +51620,15 @@ Subsec. (b). Pub. L. 111–148, § 5404(2), substituted “National Advisory Cou
 
 (1) **Grants for career ladder programs** — The Secretary may award grants to and enter into contracts with eligible entities for programs—
 
-  (A) to promote career advancement for nursing personnel in a variety of training settings, cross training or specialty training among diverse population groups, and the advancement of individuals including to become professional nurses, advanced education nurses, licensed practical nurses, certified nurse assistants, and home health aides; and
+  (A) to promote career advancement for—
 
-  (B) to assist individuals in obtaining education and training required to enter the nursing profession and advance within such profession, such as by providing career counseling and mentoring.
+    (i) nursing in a variety of training settings, cross training or specialty training among diverse population groups, and the advancement of individuals including to become professional registered nurses, advanced practice registered nurses, and nurses with graduate nursing education; and
+
+    (ii) individuals including licensed practical nurses, licensed vocational nurses, certified nurse assistants, home health aides, diploma degree or associate degree nurses, and other health professionals, such as health aides or community health practitioners certified under the Community Health Aide Program of the Indian Health Service, to become registered nurses with baccalaureate degrees or nurses with graduate nursing education;
+
+  (B) to assist individuals in obtaining education and training required to enter the nursing profession and advance within such profession, such as by providing career counseling and mentoring; and
+
+  (C) developing and implementing internships, accredited fellowships, and accredited residency programs in collaboration with one or more accredited schools of nursing, to encourage the mentoring and development of specialties.
 
 (2) **Enhancing patient care delivery systems**
 
@@ -50542,13 +51640,9 @@ Subsec. (b). Pub. L. 111–148, § 5404(2), substituted “National Advisory Cou
 
 **(d) Other priority areas** The Secretary may award grants to or enter into contracts with eligible entities to address other areas that are of high priority to nurse education, practice, and retention, as determined by the Secretary.
 
-**(e) Preference** For purposes of any amount of funds appropriated to carry out this section for fiscal year 2003, 2004, or 2005 that is in excess of the amount of funds appropriated to carry out this section for fiscal year 2002, the Secretary shall give preference to awarding grants or entering into contracts under subsections (a)(2) and (c).
+**(e) Report** As part of the report on nursing workforce programs described in [section 296e(i) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section296e/i&num=0&edition=prelim), the Secretary shall include a report on the grants awarded and the contracts entered into under this section. Each such report shall identify the overall number of such grants and contracts and provide an explanation of why each such grant or contract will meet the priority need of the nursing workforce.
 
-**(f) Report** The Secretary shall submit to the Congress before the end of each fiscal year a report on the grants awarded and the contracts entered into under this section. Each such report shall identify the overall number of such grants and contracts and provide an explanation of why each such grant or contract will meet the priority need of the nursing workforce.
-
-**(g) Eligible entity** For purposes of this section, the term “eligible entity” includes a school of nursing, as defined in [section 296(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section296/2&num=0&edition=prelim),,11 So in original. a health care facility, or a partnership of such a school and facility.
-
-**(h) Authorization of appropriations** There are authorized to be appropriated to carry out this section such sums as may be necessary for each of fiscal years 2010 through 2014.
+**(f) Eligible entity** For purposes of this section, the term “eligible entity” includes an accredited school of nursing, as defined in [section 296(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section296/2&num=0&edition=prelim), a health care facility, including federally qualified health centers or nurse-managed health clinics, or a partnership of such a school and facility a health care facility, or a partnership of such a school and facility.11 So in original.
 
 ### Statutory Notes
 
@@ -50556,6 +51650,30 @@ Subsec. (b). Pub. L. 111–148, § 5404(2), substituted “National Advisory Cou
 A prior section 831 of act July 1, 1944, was classified to [section 297–1 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section297–1&num=0&edition=prelim) prior to repeal by Pub. L. 105–392.
 
 #### Amendments
+2020—Pub. L. 116–136, § 3404(a)(6)(A), substituted “quality, and retention grants” for “and quality grants” in section catchline.
+
+Subsec. (b)(2). Pub. L. 116–136, § 3404(a)(6)(B), substituted “high risk groups, such as the elderly, individuals with HIV/AIDS, individuals with mental health or substance use disorders, individuals who are homeless, and survivors” for “other high-risk groups such as the elderly, individuals with HIV/AIDS, substance abusers, the homeless, and victims”.
+
+Subsec. (c)(1)(A). Pub. L. 116–136, § 3404(a)(6)(C)(i)(I), substituted “advancement for—” for “advancement for nursing personnel” and inserted “(i) nursing” before “in a variety”.
+
+Subsec. (c)(1)(A)(i). Pub. L. 116–136, § 3404(a)(6)(C)(i)(II), substituted “professional registered nurses, advanced practice registered nurses, and nurses with graduate nursing education” for “professional nurses, advanced education nurses, licensed practical nurses, certified nurse assistants, and home health aides”.
+
+Subsec. (c)(1)(A)(ii). Pub. L. 116–136, § 3404(a)(6)(C)(i)(III), added cl. (ii).
+
+Subsec. (c)(1)(C). Pub. L. 116–136, § 3404(a)(6)(C)(ii), (iii), added subpar. (C).
+
+Subsec. (e). Pub. L. 116–136, § 3404(a)(6)(F), substituted “As part of the report on nursing workforce programs described in [section 296e(i) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section296e/i&num=0&edition=prelim), the Secretary shall include” for “The Secretary shall submit to the Congress before the end of each fiscal year”.
+
+Pub. L. 116–136, § 3404(a)(6)(D), (E), redesignated subsec. (f) as (e) and struck out former subsec. (e). Prior to amendment, text of subsec. (e) read as follows: “For purposes of any amount of funds appropriated to carry out this section for fiscal year 2003, 2004, or 2005 that is in excess of the amount of funds appropriated to carry out this section for fiscal year 2002, the Secretary shall give preference to awarding grants or entering into contracts under subsections (a)(2) and (c).”
+
+Subsec. (f). Pub. L. 116–136, § 3404(a)(6)(G), substituted “an accredited school of nursing, as defined in [section 296(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section296/2&num=0&edition=prelim), a health care facility, including federally qualified health centers or nurse-managed health clinics, or a partnership of such a school and facility” for “a school of nursing, as defined in [section 296(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section296/2&num=0&edition=prelim),,”.
+
+Pub. L. 116–136, § 3404(a)(6)(E), redesignated subsec. (g) as (f). Former subsec. (f) redesignated (e).
+
+Subsec. (g). Pub. L. 116–136, § 3404(a)(6)(E), redesignated subsec. (g) as (f).
+
+Subsec. (h). Pub. L. 116–136, § 3404(a)(6)(D), struck out subsec. (h). Text read as follows: “There are authorized to be appropriated to carry out this section such sums as may be necessary for each of fiscal years 2010 through 2014.”
+
 2010—Pub. L. 111–148, § 5309(a)(1), substituted “quality” for “retention” in section catchline.
 
 Subsec. (a). Pub. L. 111–148, § 5309(a)(2), in par. (1), inserted “or” at end, redesignated par. (3) as (2), and struck out former par. (2) which read as follows: “developing and implementing internship and residency programs to encourage mentoring and the development of specialties; or”.
@@ -50590,36 +51708,12 @@ Subsec. (h). Pub. L. 111–148, § 5309(a)(5), substituted “2010 through 2014�
 
 
 <a id="section-296p-1"></a>
-## § 296p–1. Nurse retention grants
-**(a) Retention priority areas** The Secretary may award grants to, and enter into contracts with, eligible entities to enhance the nursing workforce by initiating and maintaining nurse retention programs pursuant to subsection (b) or (c).
-
-**(b) Grants for career ladder program** The Secretary may award grants to, and enter into contracts with, eligible entities for programs—
-
-(1) to promote career advancement for individuals including licensed practical nurses, licensed vocational nurses, certified nurse assistants, home health aides,11 So in original. The word “and” probably should appear. diploma degree or associate degree nurses, to become baccalaureate prepared registered nurses or advanced education nurses in order to meet the needs of the registered nurse workforce;
-
-(2) developing and implementing internships and residency programs in collaboration with an accredited school of nursing, as defined by [section 296(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section296/2&num=0&edition=prelim), to encourage mentoring and the development of specialties; or
-
-(3) to assist individuals in obtaining education and training required to enter the nursing profession and advance within such profession.
-
-**(c) Enhancing patient care delivery systems**
-
-(1) **Grants** — The Secretary may award grants to eligible entities to improve the retention of nurses and enhance patient care that is directly related to nursing activities by enhancing collaboration and communication among nurses and other health care professionals, and by promoting nurse involvement in the organizational and clinical decision-making processes of a health care facility.
-
-(2) **Priority** — In making awards of grants under this subsection, the Secretary shall give preference to applicants that have not previously received an award under this subsection (or [section 296p(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section296p/c&num=0&edition=prelim) as such section existed on the day before March 23, 2010).
-
-(3) **Continuation of an award** — The Secretary shall make continuation of any award under this subsection beyond the second year of such award contingent on the recipient of such award having demonstrated to the Secretary measurable and substantive improvement in nurse retention or patient care.
-
-**(d) Other priority areas** The Secretary may award grants to, or enter into contracts with, eligible entities to address other areas that are of high priority to nurse retention, as determined by the Secretary.
-
-**(e) Report** The Secretary shall submit to the Congress before the end of each fiscal year a report on the grants awarded and the contracts entered into under this section. Each such report shall identify the overall number of such grants and contracts and provide an explanation of why each such grant or contract will meet the priority need of the nursing workforce.
-
-**(f) Eligible entity** For purposes of this section, the term “eligible entity” includes an accredited school of nursing, as defined by [section 296(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section296/2&num=0&edition=prelim), a health care facility, or a partnership of such a school and facility.
-
-**(g) Authorization of appropriations** There are authorized to be appropriated to carry out this section such sums as may be necessary for each of fiscal years 2010 through 2012.
+## § 296p–1. Repealed. Pub. L. 116–136, div. A, title III, § 3404(a)(7), Mar. 27, 2020, 134 Stat. 394
 
 ### Statutory Notes
 
-#### Prior Provisions
+Section, act July 1, 1944, ch. 373, title VIII, § 831A, as added Pub. L. 111–148, title V, § 5309(b), Mar. 23, 2010, 124 Stat. 630, authorized the Secretary to award nurse retention grants to eligible entities.
+
 Prior sections 296r, 297, and 297–1 were repealed by Pub. L. 105–392, title I, § 123(1), Nov. 13, 1998, 112 Stat. 3562.
 
 Section 296r, act July 1, 1944, ch. 373, title VIII, § 827, as added Pub. L. 100–607, title VII, § 701(a)(3), Nov. 4, 1988, 102 Stat. 3153; amended Pub. L. 102–408, title II, § 205, Oct. 13, 1992, 106 Stat. 2073, authorized grants and contracts for special projects to increase nursing education opportunities for individuals from disadvantaged backgrounds.
@@ -51151,11 +52245,11 @@ Section effective Oct. 1, 1985, see section 10(a) of Pub. L. 99–92, set out as
 (2) who obtained (A) one or more loans from a loan fund established under subpart II,11 See References in Text note below. or (B) any other educational loan for nurse training costs; and
 
 (3) who enters into an agreement with the Secretary to serve as nurse for a period of not less than two years at a health care facility with a critical shortage of nurses, or in a 22 So in original. Probably should be “an”. accredited school of nursing, as defined by [section 296(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section296/2&num=0&edition=prelim), as nurse faculty;
-the Secretary shall make payments in accordance with subsection (b), for and on behalf of that individual, on the principal of and interest on any loan of that individual described in paragraph (2) of this subsection which is outstanding on the date the individual begins the service specified in the agreement described in paragraph (3) of this subsection. After fiscal year 2007, the Secretary may not, pursuant to any agreement entered into under this subsection, assign a nurse to any private entity unless that entity is nonprofit.
+the Secretary shall make payments in accordance with subsection (b), for and on behalf of that individual, on the principal of and interest on any loan of that individual described in paragraph (2) of this subsection which is outstanding on the date the individual begins the service specified in the agreement described in paragraph (3) of this subsection.
 
 **(b) Manner of payments** The payments described in subsection (a) shall be made by the Secretary as follows:
 
-(1) Upon completion by the individual for whom the payments are to be made of the first year of the service specified in the agreement entered into with the Secretary under subsection (a), the Secretary shall pay 30 percent of the principal of, and the interest on each loan of such individual described in subsection (a)(2) which is outstanding on the date he began such practice.
+(1) Upon completion by the individual for whom the payments are to be made of the first year of the service specified in the agreement entered into with the Secretary under subsection (a), the Secretary shall pay 30 percent of the principal of, and the interest on each loan of such individual described in subsection (a)(2) which is outstanding on the date the individual began such practice.
 
 (2) Upon completion by that individual of the second year of such service, the Secretary shall pay another 30 percent of the principal of, and the interest on each such loan.
 
@@ -51229,11 +52323,7 @@ the Secretary shall make payments in accordance with subsection (b), for and on 
 
 (11) an evaluation of the overall costs and benefits of the programs.
 
-**(i) Funding**
-
-(1) **Authorization of appropriations** — For the purpose of payments under agreements entered into under subsection (a) or (d), there are authorized to be appropriated such sums as may be necessary for each of fiscal years 2003 through 2007.
-
-(2) **Allocations** — Of the amounts appropriated under paragraph (1), the Secretary may, as determined appropriate by the Secretary, allocate amounts between the program under subsection (a) and the program under subsection (d).
+**(i) Allocations** Of the amounts appropriated under [section 298d(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section298d/b&num=0&edition=prelim),,33 So in original. the Secretary may, as determined appropriate by the Secretary, allocate amounts between the program under subsection (a) and the program under subsection (d).
 
 ### Statutory Notes
 
@@ -51248,6 +52338,12 @@ A prior section 297n, act July 1, 1944, ch. 373, title VIII, § 847, as added No
 A prior section 846 of act July 1, 1944, was classified to [section 297k of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section297k&num=0&edition=prelim) and was repealed by Pub. L. 97–35.
 
 #### Amendments
+2020—Subsec. (a). Pub. L. 116–136, § 3404(a)(8)(A), struck out at end of concluding provisions “After fiscal year 2007, the Secretary may not, pursuant to any agreement entered into under this subsection, assign a nurse to any private entity unless that entity is nonprofit.”
+
+Subsec. (b)(1). Pub. L. 116–136, § 3404(a)(8)(B), substituted “the individual began such practice” for “he began such practice”.
+
+Subsec. (i). Pub. L. 116–136, § 3404(a)(8)(C), substituted “Allocations” for “Funding” in subsec. (i) heading and substituted “Of the amounts appropriated under [section 298d(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section298d/b&num=0&edition=prelim),” for the following: par. (1) heading, par. (1) text which read “For the purpose of payments under agreements entered into under subsection (a) or (d), there are authorized to be appropriated such sums as may be necessary for each of fiscal years 2003 through 2007.”, par. (2) heading, and “Of the amounts appropriated under paragraph (1)”.
+
 2010—Subsec. (a)(3). Pub. L. 111–148 inserted “, or in a accredited school of nursing, as defined by [section 296(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section296/2&num=0&edition=prelim), as nurse faculty” before semicolon at end.
 
 2002—Pub. L. 107–205, § 103(b)(1), substituted “Loan repayment and scholarship programs” for “Loan repayment program” in section catchline.
@@ -51336,11 +52432,11 @@ Reference to community health center, migrant health center, public housing heal
 
 **(e) Review by Secretary** At the request of the individual involved, the Secretary may review any determination by an accredited school of nursing under subsection (c)(6)(B).
 
-**(f) Authorization of appropriations** There are authorized to be appropriated to carry out this section such sums as may be necessary for each of fiscal years 2010 through 2014.
-
 ### Statutory Notes
 
 #### Amendments
+2020—Subsec. (f). Pub. L. 116–136, § 3404(a)(9), as amended by Pub. L. 116–260, § 331(c), struck out subsec. (f). Text read as follows: “There are authorized to be appropriated to carry out this section such sums as may be necessary for each of fiscal years 2010 through 2014.”
+
 2010—Subsec. (a). Pub. L. 111–148, § 5311(a)(1), substituted “School of nursing student loan fund” for “Establishment” in heading and inserted “accredited” before “school” in text.
 
 Subsec. (c)(2). Pub. L. 111–148, § 5311(a)(2)(A), substituted “$35,500, during fiscal years 2010 and 2011 fiscal years (after fiscal year 2011, such amounts shall be adjusted to provide for a cost-of-attendance increase for the yearly loan rate and the aggregate loan;” for “$30,000, plus any amount determined by the Secretary on an annual basis to reflect inflation;”.
@@ -51350,6 +52446,9 @@ Subsec. (c)(3)(A). Pub. L. 111–148, § 5311(a)(2)(B), inserted “an accredite
 Subsec. (e). Pub. L. 111–148, § 5311(a)(3), substituted “an accredited school” for “a school”.
 
 Subsec. (f). Pub. L. 111–148, § 5311(a)(4), substituted “2010 through 2014” for “2003 through 2007”.
+
+#### Effective Date of 2020 Amendment
+Amendment by Pub. L. 116–260 effective as if included in the enactment of Pub. L. 116–136, see section 331(d) of div. BB of Pub. L. 116–260, set out as a note under [section 294c of this title](./chapter-6a-public-health-service.md#section-294c).
 
 
 <a id="section-297o"></a>
@@ -51398,14 +52497,15 @@ Subsec. (f). Pub. L. 111–148, § 5311(a)(4), substituted “2010 through 2014�
 
 **(f) Priority** For the purposes of this section and [section 297n–1 of this title](./chapter-6a-public-health-service.md#section-297n-1), funding priority will be awarded to School of Nursing Student Loans 22 So in original. Probably should not be capitalized. that support doctoral nursing students or Individual Student Loan Repayment 33 So in original. Probably should be “individual student loan repayments”. that support doctoral nursing students.
 
-**(g) Authorization of appropriations** There are authorized to be appropriated to carry out this section such sums as may be necessary for each of fiscal years 2010 through 2014.
-
 ### Statutory Notes
 
 #### Prior Provisions
 A prior section 847 of act July 1, 1944, was classified to [section 297n of this title](./chapter-6a-public-health-service.md#section-297n) prior to repeal by Pub. L. 102–408.
 
 A prior section 297q, act July 1, 1944, ch. 373, title VIII, § 841, as added Pub. L. 105–392, title I, § 123(5), Nov. 13, 1998, 112 Stat. 3569, was renumbered section 871 of act July 1, 1944, and amended by Pub. L. 111–148, title V, §§ 5310(b)(7), 5312, Mar. 23, 2010, 124 Stat. 631, 633, and transferred to [section 298d of this title](./chapter-6a-public-health-service.md#section-298d).
+
+#### Amendments
+2020—Subsec. (g). Pub. L. 116–136 struck out subsec. (g). Text read as follows: “There are authorized to be appropriated to carry out this section such sums as may be necessary for each of fiscal years 2010 through 2014.”
 
 
 <a id="section-297t"></a>
@@ -51424,7 +52524,7 @@ A prior section 297q, act July 1, 1944, ch. 373, title VIII, § 841, as added Pu
 
     (iii) 2 shall be selected from practicing professional nurses; and
 
-    (iv) 9 shall be selected from among the leading authorities in the various fields of nursing, higher, secondary education, and associate degree schools of nursing, and from representatives of advanced education nursing groups (such as nurse practitioners, nurse midwives, and nurse anesthetists), hospitals, and other institutions and organizations which provide nursing services; and
+    (iv) 9 shall be selected from among the leading authorities in the various fields of nursing, higher, secondary education, and associate degree schools of nursing, and from representatives of advanced education nursing groups (such as nurse practitioners, nurse midwives, nurse anesthetists, and clinical nurse specialists), hospitals, and other institutions and organizations which provide nursing services; and
 
   (B) the Secretary (or the delegate of the Secretary (who shall be an ex officio member and shall serve as the Chairperson)).
 
@@ -51444,7 +52544,7 @@ A prior section 297q, act July 1, 1944, ch. 373, title VIII, § 841, as added Pu
 
 (2) provide advice to the Secretary and Congress in the preparation of general regulations and with respect to policy matters arising in the administration of this subchapter, including the range of issues relating to nurse supply, education and practice improvement; and
 
-(3) not later than 3 years after November 13, 1998, and annually thereafter, prepare and submit to the Secretary, the Committee on Labor and Human Resources of the Senate, and the Committee on Commerce of the House of Representatives, a report describing the activities of the Council, including findings and recommendations made by the Council concerning the activities under this subchapter.
+(3) not later than 2 years after March 27, 2020, and annually thereafter, prepare and submit to the Secretary, the Committee on Health, Education, Labor, and Pensions of the Senate, and the Committee on Energy and Commerce of the House of Representatives, a report describing the activities of the Council, including findings and recommendations made by the Council concerning the activities under this subchapter.
 
 **(e) Meetings and documents**
 
@@ -51458,7 +52558,7 @@ A prior section 297q, act July 1, 1944, ch. 373, title VIII, § 841, as added Pu
 
 (2) **Expenses** — The members of the Advisory Council shall be allowed travel expenses, including per diem in lieu of subsistence, at rates authorized for employees of agencies under subchapter I of chapter 57 of title 5 while away from their homes or regular places of business in the performance of services for the Council.
 
-**(g) Funding** Amounts appropriated under this subchapter may be utilized by the Secretary to support the nurse education and practice activities of the Council.
+**(g) Funding** Amounts appropriated for carrying out parts B, C, and D may be utilized by the Secretary to support the nurse education and practice activities of the Council.
 
 **(h) FACA** The Federal Advisory Committee Act shall apply to the Advisory Committee under this section only to the extent that the provisions of such Act do not conflict with the requirements of this section.
 
@@ -51471,58 +52571,39 @@ The Federal Advisory Committee Act, referred to in subsec. (h), is Pub. L. 92–
 November 13, 1998, referred to in subsec. (b)(2), was in the original “the date of enactment of this Act”, which was translated as meaning the date of enactment of Pub. L. 105–392, which enacted this part, to reflect the probable intent of Congress.
 
 #### Prior Provisions
-A prior section 851 of act July 1, 1944, was renumbered section 861 and is classified to [section 297w of this title](./chapter-6a-public-health-service.md#section-297w).
+A prior section 851 of act July 1, 1944, was renumbered section 861 and classified to [section 297w of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section297w&num=0&edition=prelim), prior to repeal by Pub. L. 116–136.
 
 Another prior section 851 of act July 1, 1944, was classified to [section 298 of this title](./chapter-6a-public-health-service.md#section-298), prior to repeal by Pub. L. 105–392.
 
-#### Change of Name
-Committee on Commerce of House of Representatives changed to Committee on Energy and Commerce of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred to Committee on Financial Services of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
+#### Amendments
+2020—Subsec. (b)(1)(A)(iv). Pub. L. 116–136, § 3404(a)(11)(A), substituted “nurse anesthetists, and clinical nurse specialists” for “and nurse anesthetists”.
 
-Committee on Labor and Human Resources of Senate changed to Committee on Health, Education, Labor, and Pensions of Senate by Senate Resolution No. 20, One Hundred Sixth Congress, Jan. 19, 1999.
+Subsec. (d)(3). Pub. L. 116–260 substituted “Coronavirus Aid, Relief, and Economic Security Act” for “Title VIII Nursing Reauthorization Act” in the original, and accordingly, “the date of enactment of the Coronavirus Aid, Relief, and Economic Security Act” was translated to “March 27, 2020”. The Coronavirus Aid, Relief, and Economic Security Act, Pub. L. 116–136, was approved Mar. 27, 2020.
+
+Pub. L. 116–136, § 3404(a)(11)(B), substituted “2 years after the date of enactment of the Title VIII Nursing Reauthorization Act” for “3 years after November 13, 1998” and “Health, Education, Labor, and Pensions” for “Labor and Human Resources” and inserted “Energy and” before “Commerce”.
+
+Subsec. (g). Pub. L. 116–136, § 3404(a)(11)(C), substituted “for carrying out parts B, C, and D” for “under this subchapter”.
 
 #### Termination of Advisory Committees
 Pub. L. 93–641, § 6, Jan. 4, 1975, 88 Stat. 2275, set out as a note under [section 217a of this title](./chapter-6a-public-health-service.md#section-217a), provided that an advisory committee established pursuant to the Public Health Service Act shall terminate at such time as may be specifically prescribed by an Act of Congress enacted after Jan. 4, 1975.
 
+#### Effective Date of 2020 Amendment
+Amendment by Pub. L. 116–260 effective as if included in the enactment of Pub. L. 116–136, see section 331(d) of div. BB of Pub. L. 116–260, set out as a note under [section 294c of this title](./chapter-6a-public-health-service.md#section-294c).
 
-<a id="section-297w"></a>
-## § 297w. Public service announcements
-**(a) In general** The Secretary shall develop and issue public service announcements that advertise and promote the nursing profession, highlight the advantages and rewards of nursing, and encourage individuals to enter the nursing profession.
 
-**(b) Method** The public service announcements described in subsection (a) shall be broadcast through appropriate media outlets, including television or radio, in a manner intended to reach as wide and diverse an audience as possible.
-
-**(c) Authorization of appropriations** There are authorized to be appropriated to carry out this section such sums as may be necessary for each of fiscal years 2003 through 2007.
+<a id="section-297w-297x"></a>
+## § 297w, 297x. Repealed. Pub. L. 116–136, div. A, title III, § 3404(a)(12), Mar. 27, 2020, 134 Stat. 394
 
 ### Statutory Notes
 
-#### Prior Provisions
+Section 297w, act July 1, 1944, ch. 373, title VIII, § 861, formerly § 851, as added Pub. L. 107–205, title I, § 102, Aug. 1, 2002, 116 Stat. 812; renumbered § 861, Pub. L. 111–148, title V, § 5310(b)(9)(A), Mar. 23, 2010, 124 Stat. 631, related to public service announcements by the Secretary to promote the nursing profession.
+
+Section 297x, act July 1, 1944, ch. 373, title VIII, § 862, formerly § 852, as added Pub. L. 107–205, title I, § 102, Aug. 1, 2002, 116 Stat. 812; renumbered § 862, Pub. L. 111–148, title V, § 5310(b)(9)(A), Mar. 23, 2010, 124 Stat. 631, related to State and local public service announcements to promote the nursing profession.
+
 A prior section 861 of act July 1, 1944, was classified to [section 298c of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section298c&num=0&edition=prelim), prior to the reorganization and amendment of this subchapter by Pub. L. 90–490.
 
 Another prior section 861 of act July 1, 1944, was classified to [section 298c–1 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section298c–1&num=0&edition=prelim), prior to renumbering as section 846 by Pub. L. 94–63, transfer to [section 297k of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section297k&num=0&edition=prelim), and subsequent repeal.
 
-
-<a id="section-297x"></a>
-## § 297x. State and local public service announcements
-**(a) In general** The Secretary may award grants to eligible entities to support State and local advertising campaigns through appropriate media outlets to promote the nursing profession, highlight the advantages and rewards of nursing, and encourage individuals from disadvantaged backgrounds to enter the nursing profession.
-
-**(b) Use of funds** An eligible entity that receives a grant under subsection (a) shall use funds received through such grant to acquire local television and radio time, place advertisements in local newspapers, or post information on billboards or on the Internet in a manner intended to reach as wide and diverse an audience as possible, in order to—
-
-(1) advertise and promote the nursing profession;
-
-(2) promote nursing education programs;
-
-(3) inform the public of financial assistance regarding such education programs;
-
-(4) highlight individuals in the community who are practicing nursing in order to recruit new nurses; or
-
-(5) provide any other information to recruit individuals for the nursing profession.
-
-**(c) Limitation** An eligible entity that receives a grant under subsection (a) shall not use funds received through such grant to advertise particular employment opportunities.
-
-**(d) Authorization of appropriations** There are authorized to be appropriated to carry out this section such sums as may be necessary for each of fiscal years 2003 through 2007.
-
-### Statutory Notes
-
-#### Prior Provisions
 A prior section 862 of act July 1, 1944, was classified to [section 298c–1 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section298c–1&num=0&edition=prelim), prior to the reorganization and amendment of this subchapter by Pub. L. 90–490.
 
 
@@ -51609,8 +52690,9 @@ Subsec. (e). Pub. L. 111–148, § 5305(c)(2), substituted “2010 through 2014�
 
 <a id="section-298d"></a>
 ## § 298d. Authorization of appropriations
+**(a) In general** For the purpose of carrying out parts B, C, and D (subject to [section 297t(g) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section297t/g&num=0&edition=prelim)), there are authorized to be appropriated $137,837,000 for each of fiscal years 2021 through 2025.
 
-For the purpose of carrying out parts B, C, and D (subject to [section 297t(g) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section297t/g&num=0&edition=prelim)), there are authorized to be appropriated $338,000,000 for fiscal year 2010, and such sums as may be necessary for each of the fiscal years 2011 through 2016.
+**(b) Part E** For the purpose of carrying out part E, there are authorized to be appropriated $117,135,000 for each of the fiscal years 2021 through 2025.
 
 ### Statutory Notes
 
@@ -51618,6 +52700,8 @@ For the purpose of carrying out parts B, C, and D (subject to [section 297t(g) o
 Section was classified to [section 297q of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section297q&num=0&edition=prelim) prior to renumbering by Pub. L. 111–148.
 
 #### Amendments
+2020—Pub. L. 116–136 designated existing provisions as subsec. (a) and inserted heading, substituted “$137,837,000 for each of fiscal years 2021 through 2025” for “$338,000,000 for fiscal year 2010, and such sums as may be necessary for each of the fiscal years 2011 through 2016”, and added subsec. (b).
+
 2010—Pub. L. 111–148, § 5312, amended section generally. Prior to amendment, section related to authorization of appropriations for fiscal years 1998 through 2002, allocations of amounts, and use of methodology.
 
 
@@ -56667,9 +57751,11 @@ Sec. 4. General Provisions. (a) Notwithstanding the provisions of any other Exec
 William J. Clinton.
 
 #### Extension of Term of Presidential Advisory Council on HIV/AIDS
-Term of Presidential Advisory Council on HIV/AIDS extended until Sept. 30, 2019, by Ex. Ord. No. 13811, Sept. 29, 2017, 82 F.R. 46363, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
+Term of Presidential Advisory Council on HIV/AIDS extended until Sept. 30, 2021, by Ex. Ord. No. 13889, Sept. 27, 2019, 84 F.R. 52743, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
 
 Previous extension of term of Presidential Advisory Council on HIV/AIDS was contained in the following prior Executive Order:
+
+Ex. Ord. No. 13811, Sept. 29, 2017, 82 F.R. 46363, extended term until Sept. 30, 2019.
 
 Ex. Ord. No. 13708, Sept. 30, 2015, 80 F.R. 60271, extended term until Sept. 30, 2017.
 
@@ -57905,14 +58991,63 @@ For purposes of this subchapter:
 
 
 <a id="section-300c-11"></a>
-## § 300c–11. Repealed. Pub. L. 97–35, title XXI, § 2193(b)(1), Aug. 13, 1981, 95 Stat. 827
+## § 300c–11. Addressing sudden unexpected infant death and sudden unexpected death in childhood
+**(a) In general** The Secretary may develop, support, or maintain programs or activities to address sudden unexpected infant death and sudden unexpected death in childhood, including by—
+
+(1) continuing to support the Sudden Unexpected Infant Death and Sudden Death in the Young Case Registry of the Centers for Disease Control and Prevention and other fatality case reporting systems that include data pertaining to sudden unexpected infant death and sudden unexpected death in childhood, as appropriate, including such systems supported by the Health Resources and Services Administration, in order to—
+
+  (A) increase the number of States and jurisdictions participating in such registries or systems; and
+
+  (B) improve the utility of such registries or systems, which may include—
+
+    (i) making summary data available to the public in a timely manner on the internet website of the Department of Health and Human Services, in a manner that, at a minimum, protects personal privacy to the extent required by applicable Federal and State law; and
+
+    (ii) making the data submitted to such registries or systems available to researchers, in a manner that, at a minimum, protects personal privacy to the extent required by applicable Federal and State law; and
+
+(2) awarding grants or cooperative agreements to States, Indian Tribes, and Tribal organizations for purposes of—
+
+  (A) supporting fetal and infant mortality and child death review programs for sudden unexpected infant death and sudden unexpected death in childhood, including by establishing such programs at the local level;
+
+  (B) improving data collection related to sudden unexpected infant death and sudden unexpected death in childhood, including by—
+
+    (i) improving the completion of death scene investigations and comprehensive autopsies that include a review of clinical history and circumstances of death with appropriate ancillary testing; and
+
+    (ii) training medical examiners, coroners, death scene investigators, law enforcement personnel, emergency medical technicians, paramedics, emergency department personnel, and others who perform death scene investigations with respect to the deaths of infants and children, as appropriate;
+
+  (C) identifying, developing, and implementing best practices to reduce or prevent sudden unexpected infant death and sudden unexpected death in childhood, including practices to reduce sleep-related infant deaths;
+
+  (D) increasing the voluntary inclusion, in registries established for the purpose of conducting research on sudden unexpected infant death and sudden unexpected death in childhood, of samples of tissues or genetic materials from autopsies that have been collected pursuant to Federal or State law and for which the parent or guardian has provided informed consent for inclusion in such registries;
+
+  (E) disseminating information and materials to health care professionals and the public on risk factors that contribute to sudden unexpected infant death and sudden unexpected death in childhood, which may include information on risk factors that contribute to sleep-related sudden unexpected infant death or sudden unexpected death in childhood; or
+
+  (F) providing information, referrals, or peer or follow-up support services to families who have experienced sudden unexpected infant death or sudden unexpected death in childhood.
+
+**(b) Application** To be eligible to receive a grant or cooperative agreement under subsection (a)(2), a State, Indian Tribe, or Tribal organization shall submit to the Secretary an application at such time, in such manner, and containing such information as the Secretary may require, including information on how such State will ensure activities conducted under this section are coordinated with other federally-funded programs to reduce infant and child mortality, as appropriate.
+
+**(c) Technical assistance** The Secretary shall provide technical assistance to States, Tribes, and Tribal organizations receiving a grant or cooperative agreement under subsection (a)(2) for purposes of carrying out the program in accordance with this section.
+
+**(d) Reporting forms**
+
+(1) **In general** — The Secretary shall, as appropriate, encourage the use of sudden unexpected infant death and sudden unexpected death in childhood reporting forms developed in collaboration with the Centers for Disease Control and Prevention to improve the quality of data submitted to the Sudden Unexpected Infant Death and Sudden Death in the Young Case Registry, and other fatality case reporting systems that include data pertaining to sudden unexpected infant death and sudden unexpected death in childhood.
+
+(2) **Update of forms** — The Secretary shall assess whether updates are needed to the sudden unexpected infant death investigation reporting form used by the Centers for Disease Control and Prevention in order to improve the use of such form with other fatality case reporting systems supported by the Department of Health and Human Services, and shall make such updates as appropriate.
+
+**(e) Definitions** In this section:
+
+(1) **Sudden infant death syndrome** — The term “sudden infant death syndrome” means a sudden unexpected infant death that remains unexplained after a thorough case investigation.
+
+(2) **Sudden unexpected infant death** — The term “sudden unexpected infant death” means the sudden death of an infant under 1 year of age that when first discovered did not have an obvious cause. Such term includes such deaths that are explained, as well as deaths that remain unexplained (which are known as sudden infant death syndrome).
+
+(3) **Sudden unexpected death in childhood** — The term “sudden unexpected death in childhood” means the sudden death of a child who is at least 1 year of age but not more than 17 years of age that, when first discovered, did not have an obvious cause. Such term includes such deaths that are explained, as well as deaths that remain unexplained (which are known as sudden unexplained death in childhood).
+
+(4) **Sudden unexplained death in childhood** — The term “sudden unexplained death in childhood” means a sudden unexpected death in childhood that remains unexplained after a thorough case investigation.
+
+**(f) Authorization of appropriations** For the purpose of carrying out this section, there is authorized to be appropriated $12,000,000 for each of fiscal years 2022 through 2026.
 
 ### Statutory Notes
 
-Section, act July 1, 1944, ch. 373, title XI, § 1121, as added Apr. 22, 1974, Pub. L. 93–270, § 3(a), 88 Stat. 91; amended Apr. 22, 1976, Pub. L. 94–278, title IV, § 403(b)(1), 90 Stat. 409; S. Res. 4, Feb. 4, 1977; Aug. 1, 1977, Pub. L. 95–83, title III, § 306(a), 91 Stat. 389; Dec. 19, 1977, Pub. L. 95–215, § 8(a), 91 Stat. 1507; Nov. 8, 1978, Pub. L. 95–613, § 2, 92 Stat. 3094; Dec. 12, 1979, Pub. L. 96–142, title II, § 202, 93 Stat. 1070; H. Res. 549, Mar. 25, 1980; Aug. 13, 1981, Pub. L. 97–35, title XXI, § 2193(a)(1)(C), 95 Stat. 827, related to sudden infant death syndrome counseling, information, educational, and statistical programs.
-
-#### Effective Date of 1981 Amendment and Repeal, Savings, and Transitional Provisions
-For effective date, savings, and transitional provisions relating to the amendment and repeal of this section by Pub. L. 97–35, see section 2194 of Pub. L. 97–35, set out as a note under [section 701 of this title](./chapter-007-social-security.md#section-701).
+#### Prior Provisions
+A prior section 300c–11, July 1, 1944, ch. 373, title XI, § 1121, as added Apr. 22, 1974, Pub. L. 93–270, § 3(a), 88 Stat. 91; amended Apr. 22, 1976, Pub. L. 94–278, title IV, § 403(b)(1), 90 Stat. 409; S. Res. 4, Feb. 4, 1977; Aug. 1, 1977, Pub. L. 95–83, title III, § 306(a), 91 Stat. 389; Dec. 19, 1977, Pub. L. 95–215, § 8(a), 91 Stat. 1507; Nov. 8, 1978, Pub. L. 95–613, § 2, 92 Stat. 3094; Dec. 12, 1979, Pub. L. 96–142, title II, § 202, 93 Stat. 1070; H. Res. 549, Mar. 25, 1980; Aug. 13, 1981, Pub. L. 97–35, title XXI, § 2193(a)(1)(C), 95 Stat. 827, related to sudden infant death syndrome counseling, information, educational, and statistical programs, prior to repeal by Pub. L. 97–35, title XXI, § 2193(b)(1), Aug. 13, 1981, 95 Stat. 827. For effective date, savings, and transitional provisions relating to the amendment and repeal of prior section by Pub. L. 97–35, see section 2194 of Pub. L. 97–35, set out as a note under [section 701 of this title](./chapter-007-social-security.md#section-701).
 
 
 <a id="section-300c-12"></a>
@@ -57954,6 +59089,30 @@ Amendment by Pub. L. 109–482 applicable only with respect to amounts appropria
 
 #### Codification
 Section was enacted as part of the Sudden Unexpected Death Data Enhancement and Awareness Act, and not as part of the Public Health Service Act which comprises this chapter.
+
+
+<a id="section-300c-14"></a>
+## § 300c–14. Report to Congress
+**(a) In general** Not later than 2 years after December 31, 2020, and biennially thereafter, the Secretary of Health and Human Services shall submit to the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Energy and Commerce of the House of Representatives a report that contains, with respect to the reporting period—
+
+(1) information regarding the incidence and number of sudden unexpected infant death and sudden unexpected death in childhood (including the number of such infant and child deaths that remain unexplained after investigation), including, to the extent practicable—
+
+  (A) a summary of such information by racial and ethnic group, and by State;
+
+  (B) aggregate information obtained from death scene investigations and autopsies; and
+
+  (C) recommendations for reducing the incidence of sudden unexpected infant death and sudden unexpected death in childhood;
+
+(2) an assessment of the extent to which various approaches of reducing and preventing sudden unexpected infant death and sudden unexpected death in childhood have been effective; and
+
+(3) a description of the activities carried out under [section 300c–11 of this title](./chapter-6a-public-health-service.md#section-300c-11).
+
+**(b) Definitions** In this section, the terms ‘sudden unexpected infant death’ and ‘sudden unexpected death in childhood’ have the meanings given such terms in 300c–11 of this title.
+
+### Statutory Notes
+
+#### Codification
+Section was enacted as part of the Scarlett’s Sunshine on Sudden Unexpected Death Act, and not as part of the Public Health Service Act which comprises this chapter.
 
 
 <a id="section-300c-21"></a>
@@ -59595,14 +60754,28 @@ Pub. L. 104–166, § 4, July 29, 1996, 110 Stat. 1448, as amended by Pub. L. 10
 
 
 <a id="section-300d-71"></a>
-## § 300d–71. Maintenance of the national toll-free number
-**(a) In general** The Secretary shall provide coordination and assistance to poison control centers for the establishment of a nationwide toll-free phone number, and the maintenance of such number, to be used to access such centers.
+## § 300d–71. Maintenance of the national toll-free number and other communication capabilities
+**(a) In general** The Secretary—
 
-**(b) Authorization of appropriations** There is authorized to be appropriated to carry out this section, $700,000 for each of fiscal years 2015 through 2019 for the maintenance of the nationwide toll free phone number under subsection (a).
+(1) shall provide coordination and assistance to poison control centers for the establishment and maintenance of a nationwide toll-free phone number, to be used to access such centers; and
+
+(2) may provide coordination and assistance to poison control centers and consult with professional organizations for the establishment, implementation, and maintenance of other communication technologies to be used to access such centers.
+
+**(b) Routing contacts with poison control centers** Not later than 18 months after December 20, 2019, the Secretary shall coordinate with the Chairman of the Federal Communications Commission, to the extent technically and economically feasible, to ensure that communications with the national toll-free number are routed to the appropriate poison control center based on the physical location of the contact rather than the area code of the contact device.
+
+**(c) Authorization of appropriations** There is authorized to be appropriated to carry out this section, $700,000 for each of fiscal years 2020 through 2024 for the establishment, implementation, and maintenance activities carried out under subsections (a) and (b).
 
 ### Statutory Notes
 
 #### Amendments
+2019—Pub. L. 116–94, § 403(a)(1), inserted “and other communication capabilities” after “toll-free number” in section catchline.
+
+Subsec. (a). Pub. L. 116–94, § 403(a)(2), added subsec. (a) and struck out former subsec. (a). Prior to amendment, text read as follows: “The Secretary shall provide coordination and assistance to poison control centers for the establishment of a nationwide toll-free phone number, and the maintenance of such number, to be used to access such centers.”
+
+Subsec. (b). Pub. L. 116–94, § 403(a)(4), added subsec. (b). Former subsec. (b) redesignated (c).
+
+Subsec. (c). Pub. L. 116–94, § 403(a)(3), (5), redesignated subsec. (b) as (c) and substituted “2020 through 2024” for “2015 through 2019” and “establishment, implementation, and maintenance activities carried out under subsections (a) and (b)” for “maintenance of the nationwide toll free phone number under subsection (a)”.
+
 2014—Subsec. (b). Pub. L. 113–77 added subsec. (b) and struck out former subsec. (b). Prior to amendment, text read as follows: “There is authorized to be appropriated $2,000,000 for fiscal year 2009 to carry out this section, and $700,000 for each of fiscal years 2010 through 2014 for the maintenance of the nationwide toll free phone number under subsection (a).”
 
 2008—Pub. L. 110–377 amended section generally. Prior to amendment, section required the Secretary to coordinate and assist in establishment of nationwide poison control center toll-free phone number, allowed for establishment and continued operation of privately funded nationwide toll-free numbers, and authorized appropriations for fiscal years 2000 through 2009.
@@ -59614,28 +60787,36 @@ Pub. L. 108–194, § 2, Dec. 19, 2003, 117 Stat. 2888, provided that: “The Co
 
 
 <a id="section-300d-72"></a>
-## § 300d–72. Nationwide media campaign to promote poison control center utilization
-**(a) In general** The Secretary shall carry out, and expand upon, a national media campaign to educate the public and health care providers about poison prevention and the availability of poison control center resources in local communities and to conduct advertising campaigns concerning the nationwide toll-free number established under [section 300d–71(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section300d–71/a&num=0&edition=prelim).
+## § 300d–72. Promoting poison control center utilization
+**(a) In general** The Secretary shall carry out, and expand upon, a national media campaign to educate and support outreach to the public and health care providers about poisoning and toxic exposure prevention and the availability of poison control center resources in local communities and to conduct advertising campaigns concerning the nationwide toll-free number and other available communication technologies established, implemented, or maintained under [section 300d–71(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section300d–71/a&num=0&edition=prelim).
 
-**(b) Contract with entity** The Secretary may carry out subsection (a) by entering into contracts with one or more public or private entities, including nationally recognized organizations in the field of poison control and national media firms, for the development and implementation of a nationwide poison prevention and poison control center awareness campaign, which may include—
+**(b) Contract with entity** The Secretary may carry out subsection (a) by entering into contracts with one or more public or private entities, including nationally recognized organizations in the field of poison control and national media firms, for the development and implementation of a nationwide poisoning and toxic exposure prevention and poison control center awareness campaign, which may include—
 
-(1) the development and distribution of poison prevention and poison control center awareness materials;
+(1) the development and distribution of poisoning and toxic exposure prevention awareness materials, applicable public health emergency preparedness and response information, and poison control center awareness materials;
 
 (2) television, radio, Internet, and newspaper public service announcements; and
 
 (3) other activities to provide for public and professional awareness and education.
 
-**(c) Evaluation** The Secretary shall—
-
-(1) establish baseline measures and benchmarks to quantitatively evaluate the impact of the nationwide media campaign carried out under this section; and
-
-(2) on an annual basis, prepare and submit to the appropriate committees of Congress an evaluation of the nationwide media campaign.
-
-**(d) Authorization of appropriations** There is authorized to be appropriated to carry out this section, $800,000 for each of fiscal years 2015 through 2019.
+**(c) Authorization of appropriations** There is authorized to be appropriated to carry out this section, $800,000 for each of fiscal years 2020 through 2024.
 
 ### Statutory Notes
 
 #### Amendments
+2019—Pub. L. 116–94, § 403(b)(1), substituted “Promoting” for “Nationwide media campaign to promote” in section catchline.
+
+Subsec. (a). Pub. L. 116–94, § 403(b)(2), inserted “and support outreach to” after “educate”, and substituted “poisoning and toxic exposure prevention” for “poison prevention” and “and other available communication technologies established, implemented, or maintained under” for “established under”.
+
+Subsec. (b). Pub. L. 116–94, § 403(b)(3)(A), substituted “nationwide poisoning and toxic exposure prevention” for “nationwide poison prevention” in introductory provisions.
+
+Subsec. (b)(1). Pub. L. 116–94, § 403(b)(3)(B), substituted “poisoning and toxic exposure prevention awareness materials, applicable public health emergency preparedness and response information, and poison control center” for “poison prevention and poison control center”.
+
+Subsecs. (c), (d). Pub. L. 116–94, § 403(b)(4)–(6), redesignated subsec. (d) as (c), substituted “2020 through 2024” for “2015 through 2019”, and struck out former subsec. (c). Prior to amendment, text of subsec. (c) read as follows: “The Secretary shall—
+
+“(1) establish baseline measures and benchmarks to quantitatively evaluate the impact of the nationwide media campaign carried out under this section; and
+
+“(2) on an annual basis, prepare and submit to the appropriate committees of Congress an evaluation of the nationwide media campaign.”
+
 2014—Subsec. (c)(2). Pub. L. 113–77, § 3(1), struck out comma after “Congress”.
 
 Subsec. (d). Pub. L. 113–77, § 3(2), added subsec. (d) and struck out former subsec. (d). Prior to amendment, text read as follows: “There is authorized to be appropriated to carry out this section, such sums as may be necessary for fiscal year 2009, and $800,000 for each of fiscal years 2010 through 2014.”
@@ -59648,15 +60829,15 @@ Pub. L. 110–377, § 4(b), Oct. 8, 2008, 122 Stat. 4065, provided that: “The 
 
 <a id="section-300d-73"></a>
 ## § 300d–73. Maintenance of the poison control center grant program
-**(a) Authorization of program** The Secretary shall award grants to poison control centers accredited under subsection (c) (or granted a waiver under subsection (d)) and professional organizations in the field of poison control for the purposes of preventing, and providing treatment recommendations for, poisonings and complying with the operational requirements needed to sustain the accreditation of the center under subsection (c).
+**(a) Authorization of program** The Secretary shall award grants to poison control centers accredited under subsection (c) (or granted a waiver under subsection (d)) and professional organizations in the field of poison control for the purposes of preventing, and providing treatment recommendations for, poisonings and toxic exposures and complying with the operational requirements needed to sustain the accreditation of the center under subsection (c).
 
 **(b) Additional uses of funds** In addition to the purposes described in subsection (a), a poison center or professional organization awarded a grant, contract, or cooperative agreement under such subsection may also use amounts received under such grant, contract, or cooperative agreement—
 
-(1) to research, establish, implement, and evaluate best practices in the United States for poison prevention, poison control center outreach, and emergency and preparedness programs;
+(1) to research, establish, implement, and evaluate best practices in the United States for poisoning and toxic exposure prevention, poison control center outreach, and emergency preparedness and response programs;
 
 (2) to research, develop, implement, revise, and communicate standard patient management guidelines for commonly encountered toxic exposures;
 
-(3) to improve national toxic exposure surveillance by enhancing cooperative activities between poison control centers in the United States and the Centers for Disease Control and Prevention;
+(3) to improve national toxic exposure surveillance by enhancing cooperative activities between poison control centers in the United States, the Centers for Disease Control and Prevention, and other government agencies as determined to be appropriate and nonduplicative by the Secretary;
 
 (4) to research, improve, and enhance the communications and response capability and capacity of the nation’s network of poison control centers to facilitate increased access to the centers through the integration and modernization of the current poison control centers communications and data system, including enhancing the network’s telephony, Internet, data and social networking technologies;
 
@@ -59666,7 +60847,7 @@ Pub. L. 110–377, § 4(b), Oct. 8, 2008, 122 Stat. 4065, provided that: “The 
 
 (7) to support and expand the toxicologic expertise within poison control centers; and
 
-(8) to improve the capacity of poison control centers to answer high volumes of calls and Internet communications, and to sustain and enhance the poison control center’s network capability to respond during times of national crisis or other public health emergencies.
+(8) to improve the capacity of poison control centers to answer high volumes of contacts and Internet communications, and to sustain and enhance the poison control center’s network capability to respond during times of national crisis or other public health emergencies.
 
 **(c) Accreditation** Except as provided in subsection (d), the Secretary may award a grant to a poison control center under subsection (a) only if—
 
@@ -59680,21 +60861,57 @@ Pub. L. 110–377, § 4(b), Oct. 8, 2008, 122 Stat. 4065, provided that: “The 
 
 (2) **Renewal** — The Secretary may renew a waiver under paragraph (1).
 
-(3) **Limitation** — In no case may the sum of the number of years for a waiver under paragraph (1) and a renewal under paragraph (2) exceed—
+(3) **Limitation**
 
-  (A) 5 years; or
+  (A) *In general* — The sum of the number of years for a waiver under paragraph (1) and a renewal under paragraph (2) may not exceed 5 years.
 
-  (B) in the case of a nonaccredited poison control center operating pursuant to a waiver under this subsection as of October 1, 2014, 6 years.
+  (B) *Public health emergency* — Notwithstanding any previous waivers, in the case of a poison control center whose accreditation is affected by a public health emergency declared pursuant to [section 247d of this title](./chapter-6a-public-health-service.md#section-247d), the Secretary may, as the circumstances of the emergency reasonably require, provide a waiver under paragraph (1) or a renewal under paragraph (2), not to exceed 2 years. The Secretary may require quarterly reports and other information related to such a waiver or renewal under this paragraph.
 
 **(e) Supplement not supplant** Amounts made available to a poison control center under this section shall be used to supplement and not supplant other Federal, State or local funds provided for such center.
 
-**(f) Maintenance of effort** A poison control center, in utilizing the proceeds of a grant under this section, shall maintain the expenditures of the center for its activities at a level that is not less than the level of expenditures maintained by the center for the fiscal year preceding the fiscal year for which the grant is received.
+**(f) Maintenance of effort** With respect to activities for which a grant is awarded under this section, the Secretary may require that poison control centers agree to maintain the expenditures of the center for such activities at a level that is not less than the level of expenditures maintained by the center for the fiscal year preceding the fiscal year for which the grant is received.
 
-**(g) Authorization of appropriations** There is authorized to be appropriated to carry out this section, $28,600,000 for each of fiscal years 2015 through 2019. The Secretary may utilize an amount not to exceed 6 percent of the amount appropriated under this preceding sentence in each fiscal year for coordination, dissemination, technical assistance, program evaluation, data activities, and other program administration functions, which are determined by the Secretary to be appropriate for carrying out the program under this section.
+**(g) Authorization of appropriations** There is authorized to be appropriated to carry out this section, $28,600,000 for each of fiscal years 2020 through 2024. The Secretary may utilize an amount not to exceed 6 percent of the amount appropriated under this preceding sentence in each fiscal year for coordination, dissemination, technical assistance, program evaluation, data activities, and other program administration functions, which are determined by the Secretary to be appropriate for carrying out the program under this section.
+
+**(h) Biennial report to Congress** Not later than 2 years after December 20, 2019, and every 2 years thereafter, the Secretary shall submit to the Committee on Health, Education, Labor, and Pensions of the Senate and Committee on Energy and Commerce of the House of Representatives a report concerning the operations of, and trends identified by, the Poison Control Network. Such report shall include—
+
+(1) descriptions of the activities carried out pursuant to sections 300d–71, 300d–72, and 300d–73 of this title, and the alignment of such activities with the purposes provided under subsection (a);
+
+(2) a description of trends in volume of contacts to poison control centers;
+
+(3) a description of trends in poisonings and toxic exposures reported to poison control centers, as applicable and appropriate;
+
+(4) an assessment of the impact of the public awareness campaign, including any geographic variations;
+
+(5) a description of barriers, if any, preventing poison control centers from achieving the purposes and programs under this section and sections 300d–71 and 300d–72 of this title;
+
+(6) a description of the standards for accreditation described in subsection (c), including any variations in those standards, and any efforts to create and maintain consistent standards across organizations that accredit poison control centers; and
+
+(7) the number of and reason for any waivers provided under subsection (d).
 
 ### Statutory Notes
 
 #### Amendments
+2019—Subsec. (a). Pub. L. 116–94, § 403(c)(1), inserted “and toxic exposures” after “poisonings”.
+
+Subsec. (b)(1). Pub. L. 116–94, § 403(c)(2)(A), substituted “for poisoning and toxic exposure” for “for poison” and “preparedness and response” for “and preparedness”.
+
+Subsec. (b)(3). Pub. L. 116–94, § 403(c)(2)(B), substituted “United States,” for “United States and” and inserted “, and other government agencies as determined to be appropriate and nonduplicative by the Secretary” before semicolon at end.
+
+Subsec. (b)(8). Pub. L. 116–94, § 403(c)(2)(C), substituted “contacts” for “calls”.
+
+Subsec. (d)(3). Pub. L. 116–94, § 403(c)(3), added par. (3) and struck out former par. (3). Prior to amendment, text read as follows: “In no case may the sum of the number of years for a waiver under paragraph (1) and a renewal under paragraph (2) exceed—
+
+“(A) 5 years; or
+
+“(B) in the case of a nonaccredited poison control center operating pursuant to a waiver under this subsection as of October 1, 2014, 6 years.”
+
+Subsec. (f). Pub. L. 116–94, § 403(c)(4), added subsec. (f) and struck out former subsec. (f). Prior to amendment, text read as follows: “A poison control center, in utilizing the proceeds of a grant under this section, shall maintain the expenditures of the center for its activities at a level that is not less than the level of expenditures maintained by the center for the fiscal year preceding the fiscal year for which the grant is received.”
+
+Subsec. (g). Pub. L. 116–94, § 403(c)(5), substituted “2020 through 2024” for “2015 through 2019”.
+
+Subsec. (h). Pub. L. 116–94, § 403(c)(6), added subsec. (h).
+
 2014—Subsec. (a). Pub. L. 113–77, § 4(a)(1), substituted “accredited” for “certified” and “accreditation” for “certification”.
 
 Subsec. (b)(1). Pub. L. 113–77, § 4(a)(2)(A), substituted “research, establish, implement,” for “establish”.
@@ -60146,7 +61363,7 @@ Section was enacted as part of the AIDS Amendments of 1988 and as part of the He
 1992—Pub. L. 102–531 substituted “Centers for Disease Control and Prevention” for “Centers for Disease Control”.
 
 #### Requirement of Study With Respect to Minority Health and Acquired Immune Deficiency Syndrome
-Section 251 of Pub. L. 100–607, as amended by Pub. L. 100–690, title II, § 2602(b), Nov. 18, 1988, 102 Stat. 4234, provided that: “(a) In General.—The Secretary of Health and Human Services, acting through the Director of the Office of Minority Health, shall conduct a study for the purpose of determining—“(1) the level of knowledge within minority communities concerning acquired immune deficiency syndrome, the risks of the transmission of the etiologic agent for such syndrome, and the means of reducing such risk; and “(2) the effectiveness of Federal, State, and local prevention programs with respect to acquired immune deficiency syndrome in minority communities. “(b) Report.—The Secretary shall, not later than 12 months after the date of the enactment of this title [Nov. 4, 1988], complete the study required in subsection (a) and submit to the Congress a report describing the findings made as a result of the study.”
+Pub. L. 100–607, title II, § 251, Nov. 4, 1988, 102 Stat. 3108, as amended by Pub. L. 100–690, title II, § 2602(b), Nov. 18, 1988, 102 Stat. 4234, required the Secretary of Health and Human Services, acting through the Director of the Office of Minority Health, to conduct a Study With Respect to Minority Health and Acquired Immune Deficiency Syndrome and report to Congress on the findings no later than 12 months after Nov. 4, 1988.
 
 
 <a id="section-300ee-13"></a>
@@ -61753,7 +62970,7 @@ Pub. L. 104–182, § 2(c), Aug. 6, 1996, 110 Stat. 1614, provided that: “Exce
 Pub. L. 104–182, § 3, Aug. 6, 1996, 110 Stat. 1614, provided that: “The Congress finds that— “(1) safe drinking water is essential to the protection of public health; “(2) because the requirements of the Safe Drinking Water Act ([42 U.S.C. 300f](./chapter-6a-public-health-service.md#section-300f) et seq.) now exceed the financial and technical capacity of some public water systems, especially many small public water systems, the Federal Government needs to provide assistance to communities to help the communities meet Federal drinking water requirements; “(3) the Federal Government commits to maintaining and improving its partnership with the States in the administration and implementation of the Safe Drinking Water Act; “(4) States play a central role in the implementation of safe drinking water programs, and States need increased financial resources and appropriate flexibility to ensure the prompt and effective development and implementation of drinking water programs; “(5) the existing process for the assessment and selection of additional drinking water contaminants needs to be revised and improved to ensure that there is a sound scientific basis for setting priorities in establishing drinking water regulations; “(6) procedures for assessing the health effects of contaminants establishing drinking water standards should be revised to provide greater opportunity for public education and participation; “(7) in considering the appropriate level of regulation for contaminants in drinking water, risk assessment, based on sound and objective science, and benefit-cost analysis are important analytical tools for improving the efficiency and effectiveness of drinking water regulations to protect human health; “(8) more effective protection of public health requires—“(A) a Federal commitment to set priorities that will allow scarce Federal, State, and local resources to be targeted toward the drinking water problems of greatest public health concern; “(B) maximizing the value of the different and complementary strengths and responsibilities of the Federal and State governments in those States that have primary enforcement responsibility for the Safe Drinking Water Act; and “(C) prevention of drinking water contamination through well-trained system operators, water systems with adequate managerial, technical, and financial capacity, and enhanced protection of source waters of public water systems; “(9) compliance with the requirements of the Safe Drinking Water Act continues to be a concern at public water systems experiencing technical and financial limitations, and Federal, State, and local governments need more resources and more effective authority to attain the objectives of the Safe Drinking Water Act; and “(10) consumers served by public water systems should be provided with information on the source of the water they are drinking and its quality and safety, as well as prompt notification of any violation of drinking water regulations.”
 
 #### GAO Study
-Pub. L. 104–182, title I, § 101(b)(2), Aug. 6, 1996, 110 Stat. 1617, provided that: “The Comptroller General of the United States shall undertake a study to—“(A) ascertain the numbers and locations of individuals and households relying for their residential water needs, including drinking, bathing, and cooking (or other similar uses) on irrigation water systems, mining water systems, industrial water systems, or other water systems covered by section 1401(4)(B) of the Safe Drinking Water Act [[42 U.S.C. 300f(4)(B)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section300f/4/B&num=0&edition=prelim)] that are not public water systems subject to the Safe Drinking Water Act [[42 U.S.C. 300f](./chapter-6a-public-health-service.md#section-300f) et seq.]; “(B) determine the sources and costs and affordability (to users and systems) of water used by such populations for their residential water needs; and “(C) review State and water system compliance with the exclusion provisions of section 1401(4)(B) of such Act. The Comptroller General shall submit a report to the Congress within 3 years after the date of enactment of this Act [Aug. 6, 1996] containing the results of such study.”
+Pub. L. 104–182, title I, § 101(b)(2), Aug. 6, 1996, 110 Stat. 1617, required the Comptroller General to study the reliance for residential water on various nonpublic water systems and to submit a report on the results of the study to Congress within 3 years after Aug. 6, 1996.
 
 #### Safe Drinking Water Amendments of 1977 Restrictions on Appropriations for Research
 Pub. L. 95–190, § 2(e), Nov. 16, 1977, 91 Stat. 1393, provided that: “Nothing in this Act [see Short Title of 1977 Amendment note set out under [section 201 of this title](./chapter-6a-public-health-service.md#section-201)] shall be construed to authorize the appropriation of any amount for research under title XIV of the Public Health Service Act [[42 U.S.C. 300f](./chapter-6a-public-health-service.md#section-300f) et seq.] (relating to safe drinking water).”
@@ -66595,6 +67812,877 @@ Another prior section 2711 of act July 1, 1944, was successively renumbered by s
 Pub. L. 111–148, title I, § 1004, Mar. 23, 2010, 124 Stat. 140, provided that: “(a) In General.—Except as provided for in subsection (b), this subtitle [subtitle A (§§ 1001–1004) of title I of Pub. L. 111–148, enacting this section and sections 300gg–12 to 300gg–15, 300gg–16 to 300gg–19, 300gg–93, and 300gg–94 of this title, amending former sections 300gg–11 and 300gg–12 of this title and sections 300gg–21 to 300gg–23 of this title, and transferring [section 300gg–13 of this title](./chapter-6a-public-health-service.md#section-300gg-13) to [section 300gg–9 of this title](./chapter-6a-public-health-service.md#section-300gg-9) and sections 300gg–4 to 300gg–7 of this title to sections 300gg–25 to 300gg–28 of this title, respectively] (and the amendments made by this subtitle) shall become effective for plan years beginning on or after the date that is 6 months after the date of enactment of this Act [Mar. 23, 2010], except that the amendments made by sections 1002 and 1003 [enacting sections 300gg–93 and 300gg–94 of this title] shall become effective for fiscal years beginning with fiscal year 2010. “(b) Special Rule.—The amendments made by sections 1002 and 1003 [enacting sections 300gg–93 and 300gg–94 of this title] shall take effect on the date of enactment of this Act [Mar. 23, 2010].”
 
 
+<a id="section-300gg-111"></a>
+## § 300gg–111. Preventing surprise medical bills
+**(a) Coverage of emergency services**
+
+(1) **In general** — If a group health plan, or a health insurance issuer offering group or individual health insurance coverage, provides or covers any benefits with respect to services in an emergency department of a hospital or with respect to emergency services in an independent freestanding emergency department (as defined in paragraph (3)(D)), the plan or issuer shall cover emergency services (as defined in paragraph (3)(C))—
+
+  (A) without the need for any prior authorization determination;
+
+  (B) whether the health care provider furnishing such services is a participating provider or a participating emergency facility, as applicable, with respect to such services;
+
+  (C) in a manner so that, if such services are provided to a participant, beneficiary, or enrollee by a nonparticipating provider or a nonparticipating emergency facility—
+
+    (i) such services will be provided without imposing any requirement under the plan or coverage for prior authorization of services or any limitation on coverage that is more restrictive than the requirements or limitations that apply to emergency services received from participating providers and participating emergency facilities with respect to such plan or coverage, respectively;
+
+    (ii) the cost-sharing requirement is not greater than the requirement that would apply if such services were provided by a participating provider or a participating emergency facility;
+
+    (iii) such cost-sharing requirement is calculated as if the total amount that would have been charged for such services by such participating provider or participating emergency facility were equal to the recognized amount (as defined in paragraph (3)(H)) for such services, plan or coverage, and year;
+
+    (iv) the group health plan or health insurance issuer, respectively—
+
+      (I) not later than 30 calendar days after the bill for such services is transmitted by such provider or facility, sends to the provider or facility, as applicable, an initial payment or notice of denial of payment; and
+
+      (II) pays a total plan or coverage payment directly to such provider or facility, respectively (in accordance, if applicable, with the timing requirement described in subsection (c)(6)) that is, with application of any initial payment under subclause (I), equal to the amount by which the out-of-network rate (as defined in paragraph (3)(K)) for such services exceeds the cost-sharing amount for such services (as determined in accordance with clauses (ii) and (iii)) and year; and
+
+    (v) any cost-sharing payments made by the participant, beneficiary, or enrollee with respect to such emergency services so furnished shall be counted toward any in-network deductible or out-of-pocket maximums applied under the plan or coverage, respectively (and such in-network deductible and out-of-pocket maximums shall be applied) in the same manner as if such cost-sharing payments were made with respect to emergency services furnished by a participating provider or a participating emergency facility; and
+
+  (D) without regard to any other term or condition of such coverage (other than exclusion or coordination of benefits, or an affiliation or waiting period, permitted under [section 300gg–3 of this title](./chapter-6a-public-health-service.md#section-300gg-3), including as incorporated pursuant to [section 1185d of title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1185d&num=0&edition=prelim) and [section 9815 of title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section9815&num=0&edition=prelim), and other than applicable cost-sharing).
+
+(2) **Audit process and regulations for qualifying payment amounts**
+
+  (A) *Audit process*
+
+    (i) *In general* — Not later than October 1, 2021, the Secretary, in consultation with the Secretary of Labor and the Secretary of the Treasury, shall establish through rulemaking a process, in accordance with clause (ii), under which group health plans and health insurance issuers offering group or individual health insurance coverage are audited by the Secretary or applicable State authority to ensure that—
+
+      (I) such plans and coverage are in compliance with the requirement of applying a qualifying payment amount under this section; and
+
+      (II) such qualifying payment amount so applied satisfies the definition under paragraph (3)(E) with respect to the year involved, including with respect to a group health plan or health insurance issuer described in clause (ii) of such paragraph (3)(E).
+
+    (ii) *Audit samples* — Under the process established pursuant to clause (i), the Secretary—
+
+      (I) shall conduct audits described in such clause, with respect to a year (beginning with 2022), of a sample with respect to such year of claims data from not more than 25 group health plans and health insurance issuers offering group or individual health insurance coverage; and
+
+      (II) may audit any group health plan or health insurance issuer offering group or individual health insurance coverage if the Secretary has received any complaint or other information about such plan or coverage, respectively, that involves the compliance of the plan or coverage, respectively, with either of the requirements described in subclauses (I) and (II) of such clause.
+
+    (iii) *Reports* — Beginning for 2022, the Secretary shall annually submit to Congress a report on the number of plans and issuers with respect to which audits were conducted during such year pursuant to this subparagraph.
+
+  (B) *Rulemaking* — Not later than July 1, 2021, the Secretary, in consultation with the Secretary of Labor and the Secretary of the Treasury, shall establish through rulemaking—
+
+    (i) the methodology the group health plan or health insurance issuer offering group or individual health insurance coverage shall use to determine the qualifying payment amount, differentiating by individual market, large group market, and small group market;
+
+    (ii) the information such plan or issuer, respectively, shall share with the nonparticipating provider or nonparticipating facility, as applicable, when making such a determination;
+
+    (iii) the geographic regions applied for purposes of this subparagraph, taking into account access to items and services in rural and underserved areas, including health professional shortage areas, as defined in [section 254e of this title](./chapter-6a-public-health-service.md#section-254e); and
+
+    (iv) a process to receive complaints of violations of the requirements described in subclauses (I) and (II) of subparagraph (A)(i) by group health plans and health insurance issuers offering group or individual health insurance coverage.
+    Such rulemaking shall take into account payments that are made by such plan or issuer, respectively, that are not on a fee-for-service basis. Such methodology may account for relevant payment adjustments that take into account quality or facility type (including higher acuity settings and the case-mix of various facility types) that are otherwise taken into account for purposes of determining payment amounts with respect to participating facilities. In carrying out clause (iii), the Secretary shall consult with the National Association of Insurance Commissioners to establish the geographic regions under such clause and shall periodically update such regions, as appropriate, taking into account the findings of the report submitted under section 109(a) of the No Surprises Act.
+
+(3) **Definitions** — In this part and part E:
+
+  (A) *Emergency department of a hospital* — The term “emergency department of a hospital” includes a hospital outpatient department that provides emergency services (as defined in subparagraph (C)(i)).
+
+  (B) *Emergency medical condition* — The term “emergency medical condition” means a medical condition manifesting itself by acute symptoms of sufficient severity (including severe pain) such that a prudent layperson, who possesses an average knowledge of health and medicine, could reasonably expect the absence of immediate medical attention to result in a condition described in clause (i), (ii), or (iii) of section 1867(e)(1)(A) of the Social Security Act [[42 U.S.C. 1395dd(e)(1)(A)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395dd/e/1/A&num=0&edition=prelim)].
+
+  (C) *Emergency services*
+
+    (i) *In general* — The term “emergency services”, with respect to an emergency medical condition, means—
+
+      (I) a medical screening examination (as required under section 1867 of the Social Security Act [[42 U.S.C. 1395dd](./chapter-007-social-security.md#section-1395dd)], or as would be required under such section if such section applied to an independent freestanding emergency department) that is within the capability of the emergency department of a hospital or of an independent freestanding emergency department, as applicable, including ancillary services routinely available to the emergency department to evaluate such emergency medical condition; and
+
+      (II) within the capabilities of the staff and facilities available at the hospital or the independent freestanding emergency department, as applicable, such further medical examination and treatment as are required under [section 1395dd of this title](./chapter-007-social-security.md#section-1395dd), or as would be required under such section if such section applied to an independent freestanding emergency department, to stabilize the patient (regardless of the department of the hospital in which such further examination or treatment is furnished).
+
+    (ii) *Inclusion of additional services*
+
+      (I) *In general* — For purposes of this subsection and [section 300gg–131 of this title](./chapter-6a-public-health-service.md#section-300gg-131), in the case of a participant, beneficiary, or enrollee who is enrolled in a group health plan or group or individual health insurance coverage offered by a health insurance issuer and who is furnished services described in clause (i) with respect to an emergency medical condition, the term “emergency services” shall include, unless each of the conditions described in subclause (II) are met, in addition to the items and services described in clause (i), items and services—
+
+        (aa) for which benefits are provided or covered under the plan or coverage, respectively; and
+
+        (bb) that are furnished by a nonparticipating provider or nonparticipating emergency facility (regardless of the department of the hospital in which such items or services are furnished) after the participant, beneficiary, or enrollee is stabilized and as part of outpatient observation or an inpatient or outpatient stay with respect to the visit in which the services described in clause (i) are furnished.
+
+      (II) *Conditions* — For purposes of subclause (I), the conditions described in this subclause, with respect to a participant, beneficiary, or enrollee who is stabilized and furnished additional items and services described in subclause (I) after such stabilization by a provider or facility described in subclause (I), are the following;
+
+        (aa) Such provider or facility determines such individual is able to travel using nonmedical transportation or nonemergency medical transportation.
+
+        (bb) Such provider furnishing such additional items and services satisfies the notice and consent criteria of [section 300gg–132(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section300gg–132/d&num=0&edition=prelim) with respect to such items and services.
+
+        (cc) Such individual is in a condition to receive (as determined in accordance with guidelines issued by the Secretary pursuant to rulemaking) the information described in [section 300gg–132 of this title](./chapter-6a-public-health-service.md#section-300gg-132) and to provide informed consent under such section, in accordance with applicable State law.
+
+        (dd) Such other conditions, as specified by the Secretary, such as conditions relating to coordinating care transitions to participating providers and facilities.
+
+  (D) *Independent freestanding emergency department* — The term “independent freestanding emergency department” means a health care facility that—
+
+    (i) is geographically separate and distinct and licensed separately from a hospital under applicable State law; and
+
+    (ii) provides any of the emergency services (as defined in subparagraph (C)(i)).
+
+  (E) *Qualifying payment amount*
+
+    (i) *In general* — The term “qualifying payment amount” means, subject to clauses (ii) and (iii), with respect to a sponsor of a group health plan and health insurance issuer offering group or individual health insurance coverage—
+
+      (I) for an item or service furnished during 2022, the median of the contracted rates recognized by the plan or issuer, respectively (determined with respect to all such plans of such sponsor or all such coverage offered by such issuer that are offered within the same insurance market (specified in subclause (I), (II), (III), or (IV) of clause (iv)) as the plan or coverage) as the total maximum payment (including the cost-sharing amount imposed for such item or service and the amount to be paid by the plan or issuer, respectively) under such plans or coverage, respectively, on January 31, 2019, for the same or a similar item or service that is provided by a provider in the same or similar specialty and provided in the geographic region in which the item or service is furnished, consistent with the methodology established by the Secretary under paragraph (2)(B), increased by the percentage increase in the consumer price index for all urban consumers (United States city average) over 2019, such percentage increase over 2020, and such percentage increase over 2021; and
+
+      (II) for an item or service furnished during 2023 or a subsequent year, the qualifying payment amount determined under this clause for such an item or service furnished in the previous year, increased by the percentage increase in the consumer price index for all urban consumers (United States city average) over such previous year.
+
+    (ii) *New plans and coverage* — The term “qualifying payment amount” means, with respect to a sponsor of a group health plan or health insurance issuer offering group or individual health insurance coverage in a geographic region in which such sponsor or issuer, respectively, did not offer any group health plan or health insurance coverage during 2019—
+
+      (I) for the first year in which such group health plan, group health insurance coverage, or individual health insurance coverage, respectively, is offered in such region, a rate (determined in accordance with a methodology established by the Secretary) for items and services that are covered by such plan or coverage and furnished during such first year; and
+
+      (II) for each subsequent year such group health plan, group health insurance coverage, or individual health insurance coverage, respectively, is offered in such region, the qualifying payment amount determined under this clause for such items and services furnished in the previous year, increased by the percentage increase in the consumer price index for all urban consumers (United States city average) over such previous year.
+
+    (iii) *Insufficient information; newly covered items and services* — In the case of a sponsor of a group health plan or health insurance issuer offering group or individual health insurance coverage that does not have sufficient information to calculate the median of the contracted rates described in clause (i)(I) in 2019 (or, in the case of a newly covered item or service (as defined in clause (v)(III)), in the first coverage year (as defined in clause (v)(I)) for such item or service with respect to such plan or coverage) for an item or service (including with respect to provider type, or amount, of claims for items or services (as determined by the Secretary) provided in a particular geographic region (other than in a case with respect to which clause (ii) applies)) the term “qualifying payment amount”—
+
+      (I) for an item or service furnished during 2022 (or, in the case of a newly covered item or service, during the first coverage year for such item or service with respect to such plan or coverage), means such rate for such item or service determined by the sponsor or issuer, respectively, through use of any database that is determined, in accordance with rulemaking described in paragraph (2)(B), to not have any conflicts of interest and to have sufficient information reflecting allowed amounts paid to a health care provider or facility for relevant services furnished in the applicable geographic region (such as a State all-payer claims database);
+
+      (II) for an item or service furnished in a subsequent year (before the first sufficient information year (as defined in clause (v)(II)) for such item or service with respect to such plan or coverage), means the rate determined under subclause (I) or this subclause, as applicable, for such item or service for the year previous to such subsequent year, increased by the percentage increase in the consumer price index for all urban consumers (United States city average) over such previous year;
+
+      (III) for an item or service furnished in the first sufficient information year for such item or service with respect to such plan or coverage, has the meaning given the term qualifying payment amount in clause (i)(I), except that in applying such clause to such item or service, the reference to “furnished during 2022” shall be treated as a reference to furnished during such first sufficient information year, the reference to “in 2019” 11 See References in Text note below. shall be treated as a reference to such sufficient information year, and the increase described in such clause shall not be applied; and
+
+      (IV) for an item or service furnished in any year subsequent to the first sufficient information year for such item or service with respect to such plan or coverage, has the meaning given such term in clause (i)(II), except that in applying such clause to such item or service, the reference to “furnished during 2023 or a subsequent year” shall be treated as a reference to furnished during the year after such first sufficient information year or a subsequent year.
+
+    (iv) *Insurance market* — For purposes of clause (i)(I), a health insurance market specified in this clause is one of the following:
+
+      (I) The individual market.
+
+      (II) The large group market (other than plans described in subclause (IV)).
+
+      (III) The small group market (other than plans described in subclause (IV)).
+
+      (IV) In the case of a self-insured group health plan, other self-insured group health plans.
+
+    (v) *Definitions* — For purposes of this subparagraph:
+
+      (I) *First coverage year* — The term “first coverage year” means, with respect to a group health plan or group or individual health insurance coverage offered by a health insurance issuer and an item or service for which coverage is not offered in 2019 under such plan or coverage, the first year after 2019 for which coverage for such item or service is offered under such plan or health insurance coverage.
+
+      (II) *First sufficient information year* — The term “first sufficient information year” means, with respect to a group health plan or group or individual health insurance coverage offered by a health insurance issuer—
+
+        (aa) in the case of an item or service for which the plan or coverage does not have sufficient information to calculate the median of the contracted rates described in clause (i)(I) in 2019, the first year subsequent to 2022 for which the sponsor or issuer has such sufficient information to calculate the median of such contracted rates in the year previous to such first subsequent year; and
+
+        (bb) in the case of a newly covered item or service, the first year subsequent to the first coverage year for such item or service with respect to such plan or coverage for which the sponsor or issuer has sufficient information to calculate the median of the contracted rates described in clause (i)(I) in the year previous to such first subsequent year.
+
+      (III) *Newly covered item or service* — The term “newly covered item or service” means, with respect to a group health plan or group or individual health insurance issuer offering health insurance coverage, an item or service for which coverage was not offered in 2019 under such plan or coverage, but is offered under such plan or coverage in a year after 2019.
+
+  (F) *Nonparticipating emergency facility; participating emergency facility*
+
+    (i) *Nonparticipating emergency facility* — The term “nonparticipating emergency facility” means, with respect to an item or service and a group health plan or group or individual health insurance coverage offered by a health insurance issuer, an emergency department of a hospital, or an independent freestanding emergency department, that does not have a contractual relationship directly or indirectly with the plan or issuer, respectively, for furnishing such item or service under the plan or coverage, respectively.
+
+    (ii) *Participating emergency facility* — The term “participating emergency facility” means, with respect to an item or service and a group health plan or group or individual health insurance coverage offered by a health insurance issuer, an emergency department of a hospital, or an independent freestanding emergency department, that has a contractual relationship directly or indirectly with the plan or issuer, respectively, with respect to the furnishing of such an item or service at such facility.
+
+  (G) *Nonparticipating providers; participating providers*
+
+    (i) *Nonparticipating provider* — The term “nonparticipating provider” means, with respect to an item or service and a group health plan or group or individual health insurance coverage offered by a health insurance issuer, a physician or other health care provider who is acting within the scope of practice of that provider’s license or certification under applicable State law and who does not have a contractual relationship with the plan or issuer, respectively, for furnishing such item or service under the plan or coverage, respectively.
+
+    (ii) *Participating provider* — The term “participating provider” means, with respect to an item or service and a group health plan or group or individual health insurance coverage offered by a health insurance issuer, a physician or other health care provider who is acting within the scope of practice of that provider’s license or certification under applicable State law and who has a contractual relationship with the plan or issuer, respectively, for furnishing such item or service under the plan or coverage, respectively.
+
+  (H) *Recognized amount* — The term “recognized amount” means, with respect to an item or service furnished by a nonparticipating provider or nonparticipating emergency facility during a year and a group health plan or group or individual health insurance coverage offered by a health insurance issuer—
+
+    (i) subject to clause (iii), in the case of such item or service furnished in a State that has in effect a specified State law with respect to such plan, coverage, or issuer, respectively; such a nonparticipating provider or nonparticipating emergency facility; and such an item or service, the amount determined in accordance with such law;
+
+    (ii) subject to clause (iii), in the case of such item or service furnished in a State that does not have in effect a specified State law, with respect to such plan, coverage, or issuer, respectively; such a nonparticipating provider or nonparticipating emergency facility; and such an item or service, the amount that is the qualifying payment amount (as defined in subparagraph (E)) for such year and determined in accordance with rulemaking described in paragraph (2)(B)) for such item or service; or
+
+    (iii) in the case of such item or service furnished in a State with an All-Payer Model Agreement under section 1115A of the Social Security Act [[42 U.S.C. 1315a](./chapter-007-social-security.md#section-1315a)], the amount that the State approves under such system for such item or service so furnished.
+
+  (I) *Specified State law* — The term “specified State law” means, with respect to a State, an item or service furnished by a nonparticipating provider or nonparticipating emergency facility during a year and a group health plan or group or individual health insurance coverage offered by a health insurance issuer, a State law that provides for a method for determining the total amount payable under such a plan, coverage, or issuer, respectively (to the extent such State law applies to such plan, coverage, or issuer, subject to [section 1144 of title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1144&num=0&edition=prelim)) in the case of a participant, beneficiary, or enrollee covered under such plan or coverage and receiving such item or service from such a nonparticipating provider or nonparticipating emergency facility.
+
+  (J) *Stabilize* — The term “to stabilize”, with respect to an emergency medical condition (as defined in subparagraph (B)), has the meaning give in section 1867(e)(3) of the Social Security Act ([42 U.S.C. 1395dd(e)(3)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395dd/e/3&num=0&edition=prelim)).
+
+  (K) *Out-of-network rate* — The term “out-of-network rate” means, with respect to an item or service furnished in a State during a year to a participant, beneficiary, or enrollee of a group health plan or group or individual health insurance coverage offered by a health insurance issuer receiving such item or service from a nonparticipating provider or nonparticipating emergency facility—
+
+    (i) subject to clause (iii), in the case of such item or service furnished in a State that has in effect a specified State law with respect to such plan, coverage, or issuer, respectively; such a nonparticipating provider or nonparticipating emergency facility; and such an item or service, the amount determined in accordance with such law;
+
+    (ii) subject to clause (iii), in the case such State does not have in effect such a law with respect to such item or service, plan, and provider or facility—
+
+      (I) subject to subclause (II), if the provider or facility (as applicable) and such plan or coverage agree on an amount of payment (including if such agreed on amount is the initial payment sent by the plan under subsection (a)(1)(C)(iv)(I), subsection (b)(1)(C), or [section 300gg–112(a)(3)(A) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section300gg–112/a/3/A&num=0&edition=prelim), as applicable, or is agreed on through open negotiations under subsection (c)(1)) with respect to such item or service, such agreed on amount; or
+
+      (II) if such provider or facility (as applicable) and such plan or coverage enter the independent dispute resolution process under subsection (c) and do not so agree before the date on which a certified IDR entity (as defined in paragraph (4) of such subsection) makes a determination with respect to such item or service under such subsection, the amount of such determination; or
+
+    (iii) in the case such State has an All-Payer Model Agreement under section 1115A of the Social Security Act [[42 U.S.C. 1315a](./chapter-007-social-security.md#section-1315a)], the amount that the State approves under such system for such item or service so furnished.
+
+  (L) *Cost-sharing* — The term “cost-sharing” includes copayments, coinsurance, and deductibles.
+
+**(b) Coverage of non-emergency services performed by nonparticipating providers at certain participating facilities**
+
+(1) **In general** — In the case of items or services (other than emergency services to which subsection (a) applies) for which any benefits are provided or covered by a group health plan or health insurance issuer offering group or individual health insurance coverage furnished to a participant, beneficiary, or enrollee of such plan or coverage by a nonparticipating provider (as defined in subsection (a)(3)(G)(i)) (and who, with respect to such items and services, has not satisfied the notice and consent criteria of [section 300gg–132(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section300gg–132/d&num=0&edition=prelim)) with respect to a visit (as defined by the Secretary in accordance with paragraph (2)(B)) at a participating health care facility (as defined in paragraph (2)(A)), with respect to such plan or coverage, respectively, the plan or coverage, respectively—
+
+  (A) shall not impose on such participant, beneficiary, or enrollee a cost-sharing requirement for such items and services so furnished that is greater than the cost-sharing requirement that would apply under such plan or coverage, respectively, had such items or services been furnished by a participating provider (as defined in subsection (a)(3)(G)(ii));
+
+  (B) shall calculate such cost-sharing requirement as if the total amount that would have been charged for such items and services by such participating provider were equal to the recognized amount (as defined in subsection (a)(3)(H)) for such items and services, plan or coverage, and year;
+
+  (C) not later than 30 calendar days after the bill for such services is transmitted by such provider, shall send to the provider an initial payment or notice of denial of payment;
+
+  (D) shall pay a total plan or coverage payment directly, in accordance, if applicable, with the timing requirement described in subsection (c)(6), to such provider furnishing such items and services to such participant, beneficiary, or enrollee that is, with application of any initial payment under subparagraph (C), equal to the amount by which the out-of-network rate (as defined in subsection (a)(3)(K)) for such items and services involved exceeds the cost-sharing amount imposed under the plan or coverage, respectively, for such items and services (as determined in accordance with subparagraphs (A) and (B)) and year; and
+
+  (E) shall count toward any in-network deductible and in-network out-of-pocket maximums (as applicable) applied under the plan or coverage, respectively, any cost-sharing payments made by the participant, beneficiary, or enrollee (and such in-network deductible and out-of-pocket maximums shall be applied) with respect to such items and services so furnished in the same manner as if such cost-sharing payments were with respect to items and services furnished by a participating provider.
+
+(2) **Definitions** — In this section:
+
+  (A) *Participating health care facility*
+
+    (i) *In general* — The term “participating health care facility” means, with respect to an item or service and a group health plan or health insurance issuer offering group or individual health insurance coverage, a health care facility described in clause (ii) that has a direct or indirect contractual relationship with the plan or issuer, respectively, with respect to the furnishing of such an item or service at the facility.
+
+    (ii) *Health care facility described* — A health care facility described in this clause, with respect to a group health plan or group or individual health insurance coverage, is each of the following:
+
+      (I) A hospital (as defined in 1861(e) of the Social Security Act [[42 U.S.C. 1395x(e)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395x/e&num=0&edition=prelim)]).
+
+      (II) A hospital outpatient department.
+
+      (III) A critical access hospital (as defined in section 1861(mm)(1) of such Act [[42 U.S.C. 1395x(mm)(1)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395x/mm/1&num=0&edition=prelim)]).
+
+      (IV) An ambulatory surgical center described in section 1833(i)(1)(A) of such Act [[42 U.S.C. 1395](./chapter-007-social-security.md#section-1395)l(i)(1)(A)].
+
+      (V) Any other facility, specified by the Secretary, that provides items or services for which coverage is provided under the plan or coverage, respectively.
+
+  (B) *Visit* — The term “visit” shall, with respect to items and services furnished to an individual at a health care facility, include equipment and devices, telemedicine services, imaging services, laboratory services, preoperative and postoperative services, and such other items and services as the Secretary may specify, regardless of whether or not the provider furnishing such items or services is at the facility.
+
+**(c) Determination of out-of-network rates to be paid by health plans; independent dispute resolution process**
+
+(1) **Determination through open negotiation**
+
+  (A) *In general* — With respect to an item or service furnished in a year by a nonparticipating provider or a nonparticipating facility, with respect to a group health plan or health insurance issuer offering group or individual health insurance coverage, in a State described in subsection (a)(3)(K)(ii) with respect to such plan or coverage and provider or facility, and for which a payment is required to be made by the plan or coverage pursuant to subsection (a)(1) or (b)(1), the provider or facility (as applicable) or plan or coverage may, during the 30-day period beginning on the day the provider or facility receives an initial payment or a notice of denial of payment from the plan or coverage regarding a claim for payment for such item or service, initiate open negotiations under this paragraph between such provider or facility and plan or coverage for purposes of determining, during the open negotiation period, an amount agreed on by such provider or facility, respectively, and such plan or coverage for payment (including any cost-sharing) for such item or service. For purposes of this subsection, the open negotiation period, with respect to an item or service, is the 30-day period beginning on the date of initiation of the negotiations with respect to such item or service.
+
+  (B) *Accessing independent dispute resolution process in case of failed negotiations* — In the case of open negotiations pursuant to subparagraph (A), with respect to an item or service, that do not result in a determination of an amount of payment for such item or service by the last day of the open negotiation period described in such subparagraph with respect to such item or service, the provider or facility (as applicable) or group health plan or health insurance issuer offering group or individual health insurance coverage that was party to such negotiations may, during the 4-day period beginning on the day after such open negotiation period, initiate the independent dispute resolution process under paragraph (2) with respect to such item or service. The independent dispute resolution process shall be initiated by a party pursuant to the previous sentence by submission to the other party and to the Secretary of a notification (containing such information as specified by the Secretary) and for purposes of this subsection, the date of initiation of such process shall be the date of such submission or such other date specified by the Secretary pursuant to regulations that is not later than the date of receipt of such notification by both the other party and the Secretary.
+
+(2) **Independent dispute resolution process available in case of failed open negotiations**
+
+  (A) *Establishment* — Not later than 1 year after December 27, 2020, the Secretary, jointly with the Secretary of Labor and the Secretary of the Treasury, shall establish by regulation one independent dispute resolution process (referred to in this subsection as the “IDR process”) under which, in the case of an item or service with respect to which a provider or facility (as applicable) or group health plan or health insurance issuer offering group or individual health insurance coverage submits a notification under paragraph (1)(B) (in this subsection referred to as a “qualified IDR item or service”), a certified IDR entity under paragraph (4) determines, subject to subparagraph (B) and in accordance with the succeeding provisions of this subsection, the amount of payment under the plan or coverage for such item or service furnished by such provider or facility.
+
+  (B) *Authority to continue negotiations* — Under the independent dispute resolution process, in the case that the parties to a determination for a qualified IDR item or service agree on a payment amount for such item or service during such process but before the date on which the entity selected with respect to such determination under paragraph (4) makes such determination under paragraph (5), such amount shall be treated for purposes of subsection (a)(3)(K)(ii) as the amount agreed to by such parties for such item or service. In the case of an agreement described in the previous sentence, the independent dispute resolution process shall provide for a method to determine how to allocate between the parties to such determination the payment of the compensation of the entity selected with respect to such determination.
+
+  (C) *Clarification* — A nonparticipating provider may not, with respect to an item or service furnished by such provider, submit a notification under paragraph (1)(B) if such provider is exempt from the requirement under subsection (a) of [section 300gg–132 of this title](./chapter-6a-public-health-service.md#section-300gg-132) with respect to such item or service pursuant to subsection (b) of such section.
+
+(3) **Treatment of batching of items and services**
+
+  (A) *In general* — Under the IDR process, the Secretary shall specify criteria under which multiple qualified IDR dispute items and services are permitted to be considered jointly as part of a single determination by an entity for purposes of encouraging the efficiency (including minimizing costs) of the IDR process. Such items and services may be so considered only if—
+
+    (i) such items and services to be included in such determination are furnished by the same provider or facility;
+
+    (ii) payment for such items and services is required to be made by the same group health plan or health insurance issuer;
+
+    (iii) such items and services are related to the treatment of a similar condition; and
+
+    (iv) such items and services were furnished during the 30 day 22 So in original. Probably should be “30-day”. period following the date on which the first item or service included with respect to such determination was furnished or an alternative period as determined by the Secretary, for use in limited situations, such as by the consent of the parties or in the case of low-volume items and services, to encourage procedural efficiency and minimize health plan and provider administrative costs.
+
+  (B) *Treatment of bundled payments* — In carrying out subparagraph (A), the Secretary shall provide that, in the case of items and services which are included by a provider or facility as part of a bundled payment, such items and services included in such bundled payment may be part of a single determination under this subsection.
+
+(4) **Certification and selection of IDR entities**
+
+  (A) *In general* — The Secretary, in consultation with the Secretary of Labor and Secretary of the Treasury, shall establish a process to certify (including to recertify) entities under this paragraph. Such process shall ensure that an entity so certified—
+
+    (i) has (directly or through contracts or other arrangements) sufficient medical, legal, and other expertise and sufficient staffing to make determinations described in paragraph (5) on a timely basis;
+
+    (ii) is not—
+
+      (I) a group health plan or health insurance issuer offering group or individual health insurance coverage, provider, or facility;
+
+      (II) an affiliate or a subsidiary of such a group health plan or health insurance issuer, provider, or facility; or
+
+      (III) an affiliate or subsidiary of a professional or trade association of such group health plans or health insurance issuers or of providers or facilities;
+
+    (iii) carries out the responsibilities of such an entity in accordance with this subsection;
+
+    (iv) meets appropriate indicators of fiscal integrity;
+
+    (v) maintains the confidentiality (in accordance with regulations promulgated by the Secretary) of individually identifiable health information obtained in the course of conducting such determinations;
+
+    (vi) does not under the IDR process carry out any determination with respect to which the entity would not pursuant to subclause (I), (II), or (III) of subparagraph (F)(i) be eligible for selection; and
+
+    (vii) meets such other requirements as determined appropriate by the Secretary.
+
+  (B) *Period of certification* — Subject to subparagraph (C), each certification (including a recertification) of an entity under the process described in subparagraph (A) shall be for a 5-year period.
+
+  (C) *Revocation* — A certification of an entity under this paragraph may be revoked under the process described in subparagraph (A) if the entity has a pattern or practice of noncompliance with any of the requirements described in such subparagraph.
+
+  (D) *Petition for denial or withdrawal* — The process described in subparagraph (A) shall ensure that an individual, provider, facility, or group health plan or health insurance issuer offering group or individual health insurance coverage may petition for a denial of a certification or a revocation of a certification with respect to an entity under this paragraph for failure of meeting a requirement of this subsection.
+
+  (E) *Sufficient number of entities* — The process described in subparagraph (A) shall ensure that a sufficient number of entities are certified under this paragraph to ensure the timely and efficient provision of determinations described in paragraph (5).
+
+  (F) *Selection of certified IDR entity* — The Secretary shall, with respect to the determination of the amount of payment under this subsection of an item or service, provide for a method—
+
+    (i) that allows for the group health plan or health insurance issuer offering group or individual health insurance coverage and the nonparticipating provider or the nonparticipating emergency facility (as applicable) involved in a notification under paragraph (1)(B) to jointly select, not later than the last day of the 3-business day period following the date of the initiation of the process with respect to such item or service, for purposes of making such determination, an entity certified under this paragraph that—
+
+      (I) is not a party to such determination or an employee or agent of such a party;
+
+      (II) does not have a material familial, financial, or professional relationship with such a party; and
+
+      (III) does not otherwise have a conflict of interest with such a party (as determined by the Secretary); and
+
+    (ii) that requires, in the case such parties do not make such selection by such last day, the Secretary to, not later than 6 business days after such date of initiation—
+
+      (I) select such an entity that satisfies subclauses (I) through (III) of clause (i)); and
+
+      (II) provide notification of such selection to the provider or facility (as applicable) and the plan or issuer (as applicable) party to such determination.
+An entity selected pursuant to the previous sentence to make a determination described in such sentence shall be referred to in this subsection as the “certified IDR entity” with respect to such determination.
+
+(5) **Payment determination**
+
+  (A) *In general* — Not later than 30 days after the date of selection of the certified IDR entity with respect to a determination for a qualified IDR item or service, the certified IDR entity shall—
+
+    (i) taking into account the considerations specified in subparagraph (C), select one of the offers submitted under subparagraph (B) to be the amount of payment for such item or service determined under this subsection for purposes of subsection (a)(1) or (b)(1), as applicable; and
+
+    (ii) notify the provider or facility and the group health plan or health insurance issuer offering group or individual health insurance coverage party to such determination of the offer selected under clause (i).
+
+  (B) *Submission of offers* — Not later than 10 days after the date of selection of the certified IDR entity with respect to a determination for a qualified IDR item or service, the provider or facility and the group health plan or health insurance issuer offering group or individual health insurance coverage party to such determination—
+
+    (i) shall each submit to the certified IDR entity with respect to such determination—
+
+      (I) an offer for a payment amount for such item or service furnished by such provider or facility; and
+
+      (II) such information as requested by the certified IDR entity relating to such offer; and
+
+    (ii) may each submit to the certified IDR entity with respect to such determination any information relating to such offer submitted by either party, including information relating to any circumstance described in subparagraph (C)(ii).
+
+  (C) *Considerations in determination*
+
+    (i) *In general* — In determining which offer is the payment to be applied pursuant to this paragraph, the certified IDR entity, with respect to the determination for a qualified IDR item or service shall consider—
+
+      (I) the qualifying payment amounts (as defined in subsection (a)(3)(E)) for the applicable year for items or services that are comparable to the qualified IDR item or service and that are furnished in the same geographic region (as defined by the Secretary for purposes of such subsection) as such qualified IDR item or service; and
+
+      (II) subject to subparagraph (D), information on any circumstance described in clause (ii), such information as requested in subparagraph (B)(i)(II), and any additional information provided in subparagraph (B)(ii).
+
+    (ii) *Additional circumstances* — For purposes of clause (i)(II), the circumstances described in this clause are, with respect to a qualified IDR item or service of a nonparticipating provider, nonparticipating emergency facility, group health plan, or health insurance issuer of group or individual health insurance coverage the following:
+
+      (I) The level of training, experience, and quality and outcomes measurements of the provider or facility that furnished such item or service (such as those endorsed by the consensus-based entity authorized in section 1890 of the Social Security Act [[42 U.S.C. 1395aaa](./chapter-007-social-security.md#section-1395aaa)]).
+
+      (II) The market share held by the nonparticipating provider or facility or that of the plan or issuer in the geographic region in which the item or service was provided.
+
+      (III) The acuity of the individual receiving such item or service or the complexity of furnishing such item or service to such individual.
+
+      (IV) The teaching status, case mix, and scope of services of the nonparticipating facility that furnished such item or service.
+
+      (V) Demonstrations of good faith efforts (or lack of good faith efforts) made by the nonparticipating provider or nonparticipating facility or the plan or issuer to enter into network agreements and, if applicable, contracted rates between the provider or facility, as applicable, and the plan or issuer, as applicable, during the previous 4 plan years.
+
+  (D) *Prohibition on consideration of certain factors* — In determining which offer is the payment to be applied with respect to qualified IDR items and services furnished by a provider or facility, the certified IDR entity with respect to a determination shall not consider usual and customary charges, the amount that would have been billed by such provider or facility with respect to such items and services had the provisions of section 300gg–131 or 300gg–132 of this title (as applicable) not applied, or the payment or reimbursement rate for such items and services furnished by such provider or facility payable by a public payor, including under the Medicare program under title XVIII of the Social Security Act [[42 U.S.C. 1395](./chapter-007-social-security.md#section-1395) et seq.], under the Medicaid program under title XIX of such Act [[42 U.S.C. 1396](./chapter-007-social-security.md#section-1396) et seq.], under the Children’s Health Insurance Program under title XXI of such Act [[42 U.S.C. 1397aa](./chapter-007-social-security.md#section-1397aa) et seq.], under the TRICARE program under chapter 55 of title 10, or under chapter 17 of title 38.
+
+  (E) *Effects of determination*
+
+    (i) *In general* — A determination of a certified IDR entity under subparagraph (A)—
+
+      (I) shall be binding upon the parties involved, in the absence of a fraudulent claim or evidence of misrepresentation of facts presented to the IDR entity involved regarding such claim; and
+
+      (II) shall not be subject to judicial review, except in a case described in any of paragraphs (1) through (4) of [section 10(a) of title 9](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title9-section10/a&num=0&edition=prelim).
+
+    (ii) *Suspension of certain subsequent IDR requests* — In the case of a determination of a certified IDR entity under subparagraph (A), with respect to an initial notification submitted under paragraph (1)(B) with respect to qualified IDR items and services and the two parties involved with such notification, the party that submitted such notification may not submit during the 90-day period following such determination a subsequent notification under such paragraph involving the same other party to such notification with respect to such an item or service that was the subject of such initial notification.
+
+    (iii) *Subsequent submission of requests permitted* — In the case of a notification that pursuant to clause (ii) is not permitted to be submitted under paragraph (1)(B) during a 90-day period specified in such clause, if the end of the open negotiation period specified in paragraph (1)(A), that but for this clause would otherwise apply with respect to such notification, occurs during such 90-day period, such paragraph (1)(B) shall be applied as if the reference in such paragraph to the 4-day period beginning on the day after such open negotiation period were instead a reference to the 30-day period beginning on the day after the last day of such 90-day period.
+
+    (iv) *Reports* — The Secretary, jointly with the Secretary of Labor and the Secretary of the Treasury, shall examine the impact of the application of clause (ii) and whether the application of such clause delays payment determinations or impacts early, alternative resolution of claims (such as through open negotiations), and shall submit to Congress, not later than 2 years after the date of implementation of such clause an interim report (and not later than 4 years after such date of implementation, a final report) on whether any group health plans or health insurance issuers offering group or individual health insurance coverage or types of such plans or coverage have a pattern or practice of routine denial, low payment, or down-coding of claims, or otherwise abuse the 90-day period described in such clause, including recommendations on ways to discourage such a pattern or practice.
+
+  (F) *Costs of independent dispute resolution process* — In the case of a notification under paragraph (1)(B) submitted by a nonparticipating provider, nonparticipating emergency facility, group health plan, or health insurance issuer offering group or individual health insurance coverage and submitted to a certified IDR entity—
+
+    (i) if such entity makes a determination with respect to such notification under subparagraph (A), the party whose offer is not chosen under such subparagraph shall be responsible for paying all fees charged by such entity; and
+
+    (ii) if the parties reach a settlement with respect to such notification prior to such a determination, each party shall pay half of all fees charged by such entity, unless the parties otherwise agree.
+
+(6) **Timing of payment** — The total plan or coverage payment required pursuant to subsection (a)(1) or (b)(1), with respect to a qualified IDR item or service for which a determination is made under paragraph (5)(A) or with respect to an item or service for which a payment amount is determined under open negotiations under paragraph (1), shall be made directly to the nonparticipating provider or facility not later than 30 days after the date on which such determination is made.
+
+(7) **Publication of information relating to the IDR process**
+
+  (A) *Publication of information* — For each calendar quarter in 2022 and each calendar quarter in a subsequent year, the Secretary shall make available on the public website of the Department of Health and Human Services—
+
+    (i) the number of notifications submitted under paragraph (1)(B) during such calendar quarter;
+
+    (ii) the size of the provider practices and the size of the facilities submitting notifications under paragraph (1)(B) during such calendar quarter;
+
+    (iii) the number of such notifications with respect to which a determination was made under paragraph (5)(A);
+
+    (iv) the information described in subparagraph (B) with respect to each notification with respect to which such a determination was so made;
+
+    (v) the number of times the payment amount determined (or agreed to) under this subsection exceeds the qualifying payment amount, specified by items and services;
+
+    (vi) the amount of expenditures made by the Secretary during such calendar quarter to carry out the IDR process;
+
+    (vii) the total amount of fees paid under paragraph (8) during such calendar quarter; and
+
+    (viii) the total amount of compensation paid to certified IDR entities under paragraph (5)(F) during such calendar quarter.
+
+  (B) *Information* — For purposes of subparagraph (A), the information described in this subparagraph is, with respect to a notification under paragraph (1)(B) by a nonparticipating provider, nonparticipating emergency facility, group health plan, or health insurance issuer offering group or individual health insurance coverage—
+
+    (i) a description of each item and service included with respect to such notification;
+
+    (ii) the geography in which the items and services with respect to such notification were provided;
+
+    (iii) the amount of the offer submitted under paragraph (5)(B) by the group health plan or health insurance issuer (as applicable) and by the nonparticipating provider or nonparticipating emergency facility (as applicable) expressed as a percentage of the qualifying payment amount;
+
+    (iv) whether the offer selected by the certified IDR entity under paragraph (5) to be the payment applied was the offer submitted by such plan or issuer (as applicable) or by such provider or facility (as applicable) and the amount of such offer so selected expressed as a percentage of the qualifying payment amount;
+
+    (v) the category and practice specialty of each such provider or facility involved in furnishing such items and services;
+
+    (vi) the identity of the health plan or health insurance issuer, provider, or facility, with respect to the notification;
+
+    (vii) the length of time in making each determination;
+
+    (viii) the compensation paid to the certified IDR entity with respect to the settlement or determination; and
+
+    (ix) any other information specified by the Secretary.
+
+  (C) *IDR entity requirements* — For 2022 and each subsequent year, an IDR entity, as a condition of certification as an IDR entity, shall submit to the Secretary such information as the Secretary determines necessary to carry out the provisions of this subsection.
+
+  (D) *Clarification* — The Secretary shall ensure the public reporting under this paragraph does not contain information that would disclose privileged or confidential information of a group health plan or health insurance issuer offering group or individual health insurance coverage or of a provider or facility.
+
+(8) **Administrative fee**
+
+  (A) *In general* — Each party to a determination under paragraph (5) to which an entity is selected under paragraph (3) 33 So in original. Probably should be “paragraph (4)”. in a year shall pay to the Secretary, at such time and in such manner as specified by the Secretary, a fee for participating in the IDR process with respect to such determination in an amount described in subparagraph (B) for such year.
+
+  (B) *Amount of fee* — The amount described in this subparagraph for a year is an amount established by the Secretary in a manner such that the total amount of fees paid under this paragraph for such year is estimated to be equal to the amount of expenditures estimated to be made by the Secretary for such year in carrying out the IDR process.
+
+(9) **Waiver authority** — The Secretary may modify any deadline or other timing requirement specified under this subsection (other than the establishment date for the IDR process under paragraph (2)(A) and other than under paragraph (6)) in cases of extenuating circumstances, as specified by the Secretary, or to ensure that all claims that occur during a 90-day period described in paragraph (5)(E)(ii), but with respect to which a notification is not permitted by reason of such paragraph to be submitted under paragraph (1)(B) during such period, are eligible for the IDR process.
+
+**(d) Certain access fees to certain databases** In the case of a sponsor of a group health plan or health insurance issuer offering group or individual health insurance coverage that, pursuant to subsection (a)(3)(E)(iii), uses a database described in such subsection to determine a rate to apply under such subsection for an item or service by reason of having insufficient information described in such subsection with respect to such item or service, such sponsor or issuer shall cover the cost for access to such database.
+
+**(e) Transparency regarding in-network and out-of-network deductibles and out-of-pocket limitations** A group health plan or a health insurance issuer offering group or individual health insurance coverage and providing or covering any benefit with respect to items or services shall include, in clear writing, on any physical or electronic plan or insurance identification card issued to the participants, beneficiaries, or enrollees in the plan or coverage the following:
+
+(1) Any deductible applicable to such plan or coverage.
+
+(2) Any out-of-pocket maximum limitation applicable to such plan or coverage.
+
+(3) A telephone number and Internet website address through which such individual may seek consumer assistance information, such as information related to hospitals and urgent care facilities that have in effect a contractual relationship with such plan or coverage for furnishing items and services under such plan or coverage 44 So in original. Probably should be followed by a period.
+
+**(f) Advanced explanation of benefits**
+
+(1) **In general** — For plan years beginning on or after January 1, 2022, each group health plan, or a health insurance issuer offering group or individual health insurance coverage shall, with respect to a notification submitted under [section 300gg–136 of this title](./chapter-6a-public-health-service.md#section-300gg-136) by a health care provider or health care facility to the plan or issuer for a participant, beneficiary, or enrollee under plan or coverage scheduled to receive an item or service from the provider or facility (or authorized representative of such participant, beneficiary, or enrollee), not later than 1 business day (or, in the case such item or service was so scheduled at least 10 business days before such item or service is to be furnished (or in the case of a request made to such plan or coverage by such participant, beneficiary, or enrollee), 3 business days) after the date on which the plan or coverage receives such notification (or such request), provide to the participant, beneficiary, or enrollee (through mail or electronic means, as requested by the participant, beneficiary, or enrollee) a notification (in clear and understandable language) including the following:
+
+  (A) Whether or not the provider or facility is a participating provider or a participating facility with respect to the plan or coverage with respect to the furnishing of such item or service and—
+
+    (i) in the case the provider or facility is a participating provider or facility with respect to the plan or coverage with respect to the furnishing of such item or service, the contracted rate under such plan or coverage for such item or service (based on the billing and diagnostic codes provided by such provider or facility); and
+
+    (ii) in the case the provider or facility is a nonparticipating provider or facility with respect to such plan or coverage, a description of how such individual may obtain information on providers and facilities that, with respect to such plan or coverage, are participating providers and facilities, if any.
+
+  (B) The good faith estimate included in the notification received from the provider or facility (if applicable) based on such codes.
+
+  (C) A good faith estimate of the amount the plan or coverage is responsible for paying for items and services included in the estimate described in subparagraph (B).
+
+  (D) A good faith estimate of the amount of any cost-sharing for which the participant, beneficiary, or enrollee would be responsible for such item or service (as of the date of such notification).
+
+  (E) A good faith estimate of the amount that the participant, beneficiary, or enrollee has incurred toward meeting the limit of the financial responsibility (including with respect to deductibles and out-of-pocket maximums) under the plan or coverage (as of the date of such notification).
+
+  (F) In the case such item or service is subject to a medical management technique (including concurrent review, prior authorization, and step-therapy or fail-first protocols) for coverage under the plan or coverage, a disclaimer that coverage for such item or service is subject to such medical management technique.
+
+  (G) A disclaimer that the information provided in the notification is only an estimate based on the items and services reasonably expected, at the time of scheduling (or requesting) the item or service, to be furnished and is subject to change.
+
+  (H) Any other information or disclaimer the plan or coverage determines appropriate that is consistent with information and disclaimers required under this section.
+
+(2) **Authority to modify timing requirements in the case of specified items and services**
+
+  (A) *In general* — In the case of a participant, beneficiary, or enrollee scheduled to receive an item or service that is a specified item or service (as defined in subparagraph (B)), the Secretary may modify any timing requirements relating to the provision of the notification described in paragraph (1) to such participant, beneficiary, or enrollee with respect to such item or service. Any modification made by the Secretary pursuant to the previous sentence may not result in the provision of such notification after such participant, beneficiary, or enrollee has been furnished such item or service.
+
+  (B) *Specified item or service defined* — For purposes of subparagraph (A), the term “specified item or service” means an item or service that has low utilization or significant variation in costs (such as when furnished as part of a complex treatment), as specified by the Secretary.
+
+### Statutory Notes
+
+#### Applicability of Amendment
+Amendment of section by section 107(a) of div. BB of Pub. L. 116–260 applicable with respect to plan years beginning on or after Jan. 1, 2022. See 2020 Amendment note below.
+
+#### References in Text
+Section 109(a) of the No Surprises Act, referred to in subsec. (a)(2)(B), is section 109(a) of Pub. L. 116–260, div. BB, title I, Dec. 27, 2020, 134 Stat. 2859, which is not classified to the Code.
+
+The phrase “in 2019”, referred to in subsec. (a)(3)(E)(iii)(III), does not appear in cl. (i)(I) of subsec. (a)(3)(E). However, subsec. (a)(3)(E)(iii)(III) of [section 9816 of Title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section9816&num=0&edition=prelim), Internal Revenue Code, which contains text similar to that in this subclause, refers to the phrase “on January 31, 2019”, which does appear in cl. (i)(I).
+
+The Social Security Act, referred to in subsec. (c)(5)(D), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Titles XVIII, XIX, and XXI of the Act are classified generally to subchapters XVIII (§ 1395 et seq.), XIX (§ 1396 et seq.), and XXI (§ 1397aa et seq.), respectively, of chapter 7 of this title. For complete classification of this Act to the Code, see [section 1305 of this title](./chapter-007-social-security.md#section-1305) and Tables.
+
+#### Amendments
+2020—Subsecs. (c), (d). Pub. L. 116–260, § 103(a), added subsec. (c) and redesignated former subsec. (c) as (d).
+
+Subsec. (e). Pub. L. 116–260, § 107(a), added subsec. (e).
+
+Subsec. (f). Pub. L. 116–260, § 111(a), added subsec. (f).
+
+#### Effective Date of 2020 Amendment
+Amendment by section 107(a) of div. BB of Pub. L. 116–260 applicable with respect to plan years beginning on or after Jan. 1, 2022, see section 107(d) of div. BB of Pub. L. 116–260, set out as a note under [section 9816 of Title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section9816&num=0&edition=prelim), Internal Revenue Code.
+
+#### Effective Date
+Section applicable with respect to plan years beginning on or after Jan. 1, 2022, see section 102(e) of div. BB of Pub. L. 116–260, set out as an Effective Date of 2020 Amendment note under [section 8902 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section8902&num=0&edition=prelim), Government Organization and Employees.
+
+
+<a id="section-300gg-112"></a>
+## § 300gg–112. Ending surprise air ambulance bills
+**(a) In general** In the case of a participant, beneficiary, or enrollee who is in a group health plan or group or individual health insurance coverage offered by a health insurance issuer and who receives air ambulance services from a nonparticipating provider (as defined in [section 300gg–111(a)(3)(G) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section300gg–111/a/3/G&num=0&edition=prelim)) with respect to such plan or coverage, if such services would be covered if provided by a participating provider (as defined in such section) with respect to such plan or coverage—
+
+(1) the cost-sharing requirement with respect to such services shall be the same requirement that would apply if such services were provided by such a participating provider, and any coinsurance or deductible shall be based on rates that would apply for such services if they were furnished by such a participating provider;
+
+(2) such cost-sharing amounts shall be counted towards the in-network deductible and in-network out-of-pocket maximum amount under the plan or coverage for the plan year (and such in-network deductible shall be applied) with respect to such items and services so furnished in the same manner as if such cost-sharing payments were with respect to items and services furnished by a participating provider; and
+
+(3) the group health plan or health insurance issuer, respectively, shall—
+
+  (A) not later than 30 calendar days after the bill for such services is transmitted by such provider, send to the provider, an initial payment or notice of denial of payment; and
+
+  (B) pay a total plan or coverage payment, in accordance with, if applicable, subsection (b)(6), directly to such provider furnishing such services to such participant, beneficiary, or enrollee that is, with application of any initial payment under subparagraph (A), equal to the amount by which the out-of-network rate (as defined in [section 300gg–111(a)(3)(K) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section300gg–111/a/3/K&num=0&edition=prelim)) for such services and year involved exceeds the cost-sharing amount imposed under the plan or coverage, respectively, for such services (as determined in accordance with paragraphs (1) and (2)).
+
+**(b) Determination of out-of-network rates to be paid by health plans; independent dispute resolution process**
+
+(1) **Determination through open negotiation**
+
+  (A) *In general* — With respect to air ambulance services furnished in a year by a nonparticipating provider, with respect to a group health plan or health insurance issuer offering group or individual health insurance coverage, and for which a payment is required to be made by the plan or coverage pursuant to subsection (a)(3), the provider or plan or coverage may, during the 30-day period beginning on the day the provider receives an initial payment or a notice of denial of payment from the plan or coverage regarding a claim for payment for such service, initiate open negotiations under this paragraph between such provider and plan or coverage for purposes of determining, during the open negotiation period, an amount agreed on by such provider, and such plan or coverage for payment (including any cost-sharing) for such service. For purposes of this subsection, the open negotiation period, with respect to air ambulance services, is the 30-day period beginning on the date of initiation of the negotiations with respect to such services.
+
+  (B) *Accessing independent dispute resolution process in case of failed negotiations* — In the case of open negotiations pursuant to subparagraph (A), with respect to air ambulance services, that do not result in a determination of an amount of payment for such services by the last day of the open negotiation period described in such subparagraph with respect to such services, the provider or group health plan or health insurance issuer offering group or individual health insurance coverage that was party to such negotiations may, during the 4-day period beginning on the day after such open negotiation period, initiate the independent dispute resolution process under paragraph (2) with respect to such item or service. The independent dispute resolution process shall be initiated by a party pursuant to the previous sentence by submission to the other party and to the Secretary of a notification (containing such information as specified by the Secretary) and for purposes of this subsection, the date of initiation of such process shall be the date of such submission or such other date specified by the Secretary pursuant to regulations that is not later than the date of receipt of such notification by both the other party and the Secretary.
+
+(2) **Independent dispute resolution process available in case of failed open negotiations**
+
+  (A) *Establishment* — Not later than 1 year after December 27, 2020, the Secretary, jointly with the Secretary of Labor and the Secretary of the Treasury, shall establish by regulation one independent dispute resolution process (referred to in this subsection as the “IDR process”) under which, in the case of air ambulance services with respect to which a provider or group health plan or health insurance issuer offering group or individual health insurance coverage submits a notification under paragraph (1)(B) (in this subsection referred to as a “qualified IDR air ambulance services”), a certified IDR entity under paragraph (4) determines, subject to subparagraph (B) and in accordance with the succeeding provisions of this subsection, the amount of payment under the plan or coverage for such services furnished by such provider.
+
+  (B) *Authority to continue negotiations* — Under the independent dispute resolution process, in the case that the parties to a determination for qualified IDR air ambulance services agree on a payment amount for such services during such process but before the date on which the entity selected with respect to such determination under paragraph (4) makes such determination under paragraph (5), such amount shall be treated for purposes of [section 300gg–111(a)(3)(K)(ii) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section300gg–111/a/3/K/ii&num=0&edition=prelim) as the amount agreed to by such parties for such services. In the case of an agreement described in the previous sentence, the independent dispute resolution process shall provide for a method to determine how to allocate between the parties to such determination the payment of the compensation of the entity selected with respect to such determination.
+
+  (C) *Clarification* — A nonparticipating provider may not, with respect to an item or service furnished by such provider, submit a notification under paragraph (1)(B) if such provider is exempt from the requirement under subsection (a) of [section 300gg–132 of this title](./chapter-6a-public-health-service.md#section-300gg-132) with respect to such item or service pursuant to subsection (b) of such section.
+
+(3) **Treatment of batching of services** — The provisions of [section 300gg–111(c)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section300gg–111/c/3&num=0&edition=prelim) shall apply with respect to a notification submitted under this subsection with respect to air ambulance services in the same manner and to the same extent such provisions apply with respect to a notification submitted under [section 300gg–111(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section300gg–111/c&num=0&edition=prelim) with respect to items and services described in such section.
+
+(4) **IDR entities**
+
+  (A) *Eligibility* — An IDR entity certified under this subsection is an IDR entity certified under [section 300gg–111(c)(4) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section300gg–111/c/4&num=0&edition=prelim).
+
+  (B) *Selection of certified IDR entity* — The provisions of subparagraph (F) of [section 300gg–111(c)(4) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section300gg–111/c/4&num=0&edition=prelim) shall apply with respect to selecting an IDR entity certified pursuant to subparagraph (A) with respect to the determination of the amount of payment under this subsection of air ambulance services in the same manner as such provisions apply with respect to selecting an IDR entity certified under such section with respect to the determination of the amount of payment under [section 300gg–111(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section300gg–111/c&num=0&edition=prelim) of an item or service. An entity selected pursuant to the previous sentence to make a determination described in such sentence shall be referred to in this subsection as the “certified IDR entity” with respect to such determination.
+
+(5) **Payment determination**
+
+  (A) *In general* — Not later than 30 days after the date of selection of the certified IDR entity with respect to a determination for qualified IDR ambulance services, the certified IDR entity shall—
+
+    (i) taking into account the considerations specified in subparagraph (C), select one of the offers submitted under subparagraph (B) to be the amount of payment for such services determined under this subsection for purposes of subsection (a)(3); and
+
+    (ii) notify the provider or facility and the group health plan or health insurance issuer offering group or individual health insurance coverage party to such determination of the offer selected under clause (i).
+
+  (B) *Submission of offers* — Not later than 10 days after the date of selection of the certified IDR entity with respect to a determination for qualified IDR air ambulance services, the provider and the group health plan or health insurance issuer offering group or individual health insurance coverage party to such determination—
+
+    (i) shall each submit to the certified IDR entity with respect to such determination—
+
+      (I) an offer for a payment amount for such services furnished by such provider; and
+
+      (II) such information as requested by the certified IDR entity relating to such offer; and
+
+    (ii) may each submit to the certified IDR entity with respect to such determination any information relating to such offer submitted by either party, including information relating to any circumstance described in subparagraph (C)(ii).
+
+  (C) *Considerations in determination*
+
+    (i) *In general* — In determining which offer is the payment to be applied pursuant to this paragraph, the certified IDR entity, with respect to the determination for a qualified IDR air ambulance service shall consider—
+
+      (I) the qualifying payment amounts (as defined in [section 300gg–111(a)(3)(E) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section300gg–111/a/3/E&num=0&edition=prelim)) for the applicable year for items or services that are comparable to the qualified IDR air ambulance service and that are furnished in the same geographic region (as defined by the Secretary for purposes of such subsection) as such qualified IDR air ambulance service; and
+
+      (II) subject to clause (iii), information on any circumstance described in clause (ii), such information as requested in subparagraph (B)(i)(II), and any additional information provided in subparagraph (B)(ii).
+
+    (ii) *Additional circumstances* — For purposes of clause (i)(II), the circumstances described in this clause are, with respect to air ambulance services included in the notification submitted under paragraph (1)(B) of a nonparticipating provider, group health plan, or health insurance issuer the following:
+
+      (I) The quality and outcomes measurements of the provider that furnished such services.
+
+      (II) The acuity of the individual receiving such services or the complexity of furnishing such services to such individual.
+
+      (III) The training, experience, and quality of the medical personnel that furnished such services.
+
+      (IV) Ambulance vehicle type, including the clinical capability level of such vehicle.
+
+      (V) Population density of the pick up location (such as urban, suburban, rural, or frontier).
+
+      (VI) Demonstrations of good faith efforts (or lack of good faith efforts) made by the nonparticipating provider or nonparticipating facility or the plan or issuer to enter into network agreements and, if applicable, contracted rates between the provider and the plan or issuer, as applicable, during the previous 4 plan years.
+
+    (iii) *Prohibition on consideration of certain factors* — In determining which offer is the payment amount to be applied with respect to qualified IDR air ambulance services furnished by a provider, the certified IDR entity with respect to such determination shall not consider usual and customary charges, the amount that would have been billed by such provider with respect to such services had the provisions of [section 300gg–135 of this title](./chapter-6a-public-health-service.md#section-300gg-135) not applied, or the payment or reimbursement rate for such services furnished by such provider payable by a public payor, including under the Medicare program under title XVIII of the Social Security Act [[42 U.S.C. 1395](./chapter-007-social-security.md#section-1395) et seq.], under the Medicaid program under title XIX of such Act [[42 U.S.C. 1396](./chapter-007-social-security.md#section-1396) et seq.], under the Children’s Health Insurance Program under title XXI of such Act [[42 U.S.C. 1397aa](./chapter-007-social-security.md#section-1397aa) et seq.], under the TRICARE program under chapter 55 of title 10, or under chapter 17 of title 38.
+
+  (D) *Effects of determination* — The provisions of [section 300gg–111(c)(5)(E) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section300gg–111/c/5/E&num=0&edition=prelim) shall apply with respect to a determination of a certified IDR entity under subparagraph (A), the notification submitted with respect to such determination, the services with respect to such notification, and the parties to such notification in the same manner as such provisions apply with respect to a determination of a certified IDR entity under [section 300gg–111(c)(5)(E) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section300gg–111/c/5/E&num=0&edition=prelim), the notification submitted with respect to such determination, the items and services with respect to such notification, and the parties to such notification.
+
+  (E) *Costs of independent dispute resolution process* — The provisions of [section 300gg–111(c)(5)(F) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section300gg–111/c/5/F&num=0&edition=prelim) shall apply to a notification made under this subsection, the parties to such notification, and a determination under subparagraph (A) in the same manner and to the same extent such provisions apply to a notification under [section 300gg–111(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section300gg–111/c&num=0&edition=prelim), the parties to such notification and a determination made under [section 300gg–111(c)(5)(A) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section300gg–111/c/5/A&num=0&edition=prelim).
+
+(6) **Timing of payment** — The total plan or coverage payment required pursuant to subsection (a)(3), with respect to qualified IDR air ambulance services for which a determination is made under paragraph (5)(A) or with respect to an air ambulance service for which a payment amount is determined under open negotiations under paragraph (1), shall be made directly to the nonparticipating provider not later than 30 days after the date on which such determination is made.
+
+(7) **Publication of information relating to the IDR process**
+
+  (A) *In general* — For each calendar quarter in 2022 and each calendar quarter in a subsequent year, the Secretary shall publish on the public website of the Department of Health and Human Services—
+
+    (i) the number of notifications submitted under the IDR process during such calendar quarter;
+
+    (ii) the number of such notifications with respect to which a final determination was made under paragraph (5)(A);
+
+    (iii) the information described in subparagraph (B) with respect to each notification with respect to which such a determination was so made.11 So in original. The period probably should be a semicolon.
+
+    (iv) the number of times the payment amount determined (or agreed to) under this subsection exceeds the qualifying payment amount;
+
+    (v) the amount of expenditures made by the Secretary during such calendar quarter to carry out the IDR process;
+
+    (vi) the total amount of fees paid under paragraph (8) during such calendar quarter; and
+
+    (vii) the total amount of compensation paid to certified IDR entities under paragraph (5)(E) during such calendar quarter.
+
+  (B) *Information with respect to requests* — For purposes of subparagraph (A), the information described in this subparagraph is, with respect to a notification under the IDR process of a nonparticipating provider, group health plan, or health insurance issuer offering group or individual health insurance coverage—
+
+    (i) a description of each air ambulance service included in such notification;
+
+    (ii) the geography in which the services included in such notification were provided;
+
+    (iii) the amount of the offer submitted under paragraph (2) by the group health plan or health insurance issuer (as applicable) and by the nonparticipating provider expressed as a percentage of the qualifying payment amount;
+
+    (iv) whether the offer selected by the certified IDR entity under paragraph (5) to be the payment applied was the offer submitted by such plan or issuer (as applicable) or by such provider and the amount of such offer so selected expressed as a percentage of the qualifying payment amount;
+
+    (v) ambulance vehicle type, including the clinical capability level of such vehicle;
+
+    (vi) the identity of the group health plan or health insurance issuer or air ambulance provider with respect to such notification;
+
+    (vii) the length of time in making each determination;
+
+    (viii) the compensation paid to the certified IDR entity with respect to the settlement or determination; and
+
+    (ix) any other information specified by the Secretary.
+
+  (C) *IDR entity requirements* — For 2022 and each subsequent year, an IDR entity, as a condition of certification as an IDR entity, shall submit to the Secretary such information as the Secretary determines necessary for the Secretary to carry out the provisions of this paragraph.
+
+  (D) *Clarification* — The Secretary shall ensure the public reporting under this paragraph does not contain information that would disclose privileged or confidential information of a group health plan or health insurance issuer offering group or individual health insurance coverage or of a provider or facility.
+
+(8) **Administrative fee**
+
+  (A) *In general* — Each party to a determination under paragraph (5) to which an entity is selected under paragraph (4) in a year shall pay to the Secretary, at such time and in such manner as specified by the Secretary, a fee for participating in the IDR process with respect to such determination in an amount described in subparagraph (B) for such year.
+
+  (B) *Amount of fee* — The amount described in this subparagraph for a year is an amount established by the Secretary in a manner such that the total amount of fees paid under this paragraph for such year is estimated to be equal to the amount of expenditures estimated to be made by the Secretary for such year in carrying out the IDR process.
+
+(9) **Waiver authority** — The Secretary may modify any deadline or other timing requirement specified under this subsection (other than the establishment date for the IDR process under paragraph (2)(A) and other than under paragraph (6)) in cases of extenuating circumstances, as specified by the Secretary, or to ensure that all claims that occur during a 90-day period applied through paragraph (5)(D), but with respect to which a notification is not permitted by reason of such paragraph to be submitted under paragraph (1)(B) during such period, are eligible for the IDR process.
+
+**(c) Definitions** For purposes of this section:
+
+(1) **Air ambulance service** — The term “air ambulance service” means medical transport by helicopter or airplane for patients.
+
+(2) **Qualifying payment amount** — The term “qualifying payment amount” has the meaning given such term in [section 300gg–111(a)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section300gg–111/a/3&num=0&edition=prelim).
+
+(3) **Nonparticipating provider** — The term “nonparticipating provider” has the meaning given such term in [section 300gg–111(a)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section300gg–111/a/3&num=0&edition=prelim).
+
+### Statutory Notes
+
+#### References in Text
+The Social Security Act, referred to in subsec. (b)(5)(C)(iii), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Titles XVIII, XIX, and XXI of the Act are classified generally to subchapters XVIII (§ 1395 et seq.), XIX (§ 1396 et seq.), and XXI (§ 1397aa et seq.), respectively, of chapter 7 of this title. For complete classification of this Act to the Code, see [section 1305 of this title](./chapter-007-social-security.md#section-1305) and Tables.
+
+#### Effective Date
+Section applicable with respect to plan years beginning on or after Jan. 1, 2022, see section 105(a)(4) of div. BB of Pub. L. 116–260, set out as a note under [section 9817 of Title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section9817&num=0&edition=prelim), Internal Revenue Code.
+
+
+<a id="section-300gg-113"></a>
+## § 300gg–113. Continuity of care
+**(a) Ensuring continuity of care with respect to terminations of certain contractual relationships resulting in changes in provider network status**
+
+(1) **In general** — In the case of an individual with benefits under a group health plan or group or individual health insurance coverage offered by a health insurance issuer and with respect to a health care provider or facility that has a contractual relationship with such plan or such issuer (as applicable) for furnishing items and services under such plan or such coverage, if, while such individual is a continuing care patient (as defined in subsection (b)) with respect to such provider or facility—
+
+  (A) such contractual relationship is terminated (as defined in subsection (b));
+
+  (B) benefits provided under such plan or such health insurance coverage with respect to such provider or facility are terminated because of a change in the terms of the participation of such provider or facility in such plan or coverage; or
+
+  (C) a contract between such group health plan and a health insurance issuer offering health insurance coverage in connection with such plan is terminated, resulting in a loss of benefits provided under such plan with respect to such provider or facility;
+  the plan or issuer, respectively, shall meet the requirements of paragraph (2) with respect to such individual.
+
+(2) **Requirements** — The requirements of this paragraph are that the plan or issuer—
+
+  (A) notify each individual enrolled under such plan or coverage who is a continuing care patient with respect to a provider or facility at the time of a termination described in paragraph (1) affecting such provider or facility on a timely basis of such termination and such individual’s right to elect continued transitional care from such provider or facility under this section;
+
+  (B) provide such individual with an opportunity to notify the plan or issuer of the individual’s need for transitional care; and
+
+  (C) permit the patient to elect to continue to have benefits provided under such plan or such coverage, under the same terms and conditions as would have applied and with respect to such items and services as would have been covered under such plan or coverage had such termination not occurred, with respect to the course of treatment furnished by such provider or facility relating to such individual’s status as a continuing care patient during the period beginning on the date on which the notice under subparagraph (A) is provided and ending on the earlier of—
+
+    (i) the 90-day period beginning on such date; or
+
+    (ii) the date on which such individual is no longer a continuing care patient with respect to such provider or facility.
+
+**(b) Definitions** In this section:
+
+(1) **Continuing care patient** — The term “continuing care patient” means an individual who, with respect to a provider or facility—
+
+  (A) is undergoing a course of treatment for a serious and complex condition from the provider or facility;
+
+  (B) is undergoing a course of institutional or inpatient care from the provider or facility;
+
+  (C) is scheduled to undergo nonelective surgery from the provider, including receipt of postoperative care from such provider or facility with respect to such a surgery;
+
+  (D) is pregnant and undergoing a course of treatment for the pregnancy from the provider or facility; or
+
+  (E) is or was determined to be terminally ill (as determined under [section 1395x(dd)(3)(A) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395x/dd/3/A&num=0&edition=prelim)) and is receiving treatment for such illness from such provider or facility.
+
+(2) **Serious and complex condition** — The term “serious and complex condition” means, with respect to a participant, beneficiary, or enrollee under a group health plan or group or individual health insurance coverage—
+
+  (A) in the case of an acute illness, a condition that is serious enough to require specialized medical treatment to avoid the reasonable possibility of death or permanent harm; or
+
+  (B) in the case of a chronic illness or condition, a condition that is— 11 So in original. Probably should be “a condition that—”.
+
+    (i) is life-threatening, degenerative, potentially disabling, or congenital; and
+
+    (ii) requires specialized medical care over a prolonged period of time.
+
+(3) **Terminated** — The term “terminated” includes, with respect to a contract, the expiration or nonrenewal of the contract, but does not include a termination of the contract for failure to meet applicable quality standards or for fraud.
+
+### Statutory Notes
+
+#### Effective Date
+Section applicable with respect to plan years beginning on or after Jan. 1, 2022, see section 113(e) of div. BB of Pub. L. 116–260, set out as a note under [section 9818 of Title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section9818&num=0&edition=prelim), Internal Revenue Code.
+
+
+<a id="section-300gg-114"></a>
+## § 300gg–114. Maintenance of price comparison tool
+
+A group health plan or a health insurance issuer offering group or individual health insurance coverage shall offer price comparison guidance by telephone and make available on the Internet website of the plan or issuer a price comparison tool that (to the extent practicable) allows an individual enrolled under such plan or coverage, with respect to such plan year, such geographic region, and participating providers with respect to such plan or coverage, to compare the amount of cost-sharing that the individual would be responsible for paying under such plan or coverage with respect to the furnishing of a specific item or service by any such provider.
+
+### Statutory Notes
+
+#### Effective Date
+Section applicable with respect to plan years beginning on or after Jan. 1, 2022, see section 114(d) of div. BB of Pub. L. 116–260, set out as a note under [section 9819 of Title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section9819&num=0&edition=prelim), Internal Revenue Code.
+
+
+<a id="section-300gg-115"></a>
+## § 300gg–115. Protecting patients and improving the accuracy of provider directory information
+**(a) Provider directory information requirements**
+
+(1) **In general** — For plan years beginning on or after January 1, 2022, each group health plan and health insurance issuer offering group or individual health insurance coverage shall—
+
+  (A) establish the verification process described in paragraph (2);
+
+  (B) establish the response protocol described in paragraph (3);
+
+  (C) establish the database described in paragraph (4); and
+
+  (D) include in any directory (other than the database described in subparagraph (C)) containing provider directory information with respect to such plan or such coverage the information described in paragraph (5).
+
+(2) **Verification process** — The verification process described in this paragraph is, with respect to a group health plan or a health insurance issuer offering group or individual health insurance coverage, a process—
+
+  (A) under which, not less frequently than once every 90 days, such plan or such issuer (as applicable) verifies and updates the provider directory information included on the database described in paragraph (4) of such plan or issuer of each health care provider and health care facility included in such database;
+
+  (B) that establishes a procedure for the removal of such a provider or facility with respect to which such plan or issuer has been unable to verify such information during a period specified by the plan or issuer; and
+
+  (C) that provides for the update of such database within 2 business days of such plan or issuer receiving from such a provider or facility information pursuant to [section 300gg–139 of this title](./chapter-6a-public-health-service.md#section-300gg-139).
+
+(3) **Response protocol** — The response protocol described in this paragraph is, in the case of an individual enrolled under a group health plan or group or individual health insurance coverage offered by a health insurance issuer who requests information through a telephone call or electronic, web-based, or Internet-based means on whether a health care provider or health care facility has a contractual relationship to furnish items and services under such plan or such coverage, a protocol under which such plan or such issuer (as applicable), in the case such request is made through a telephone call—
+
+  (A) responds to such individual as soon as practicable and in no case later than 1 business day after such call is received, through a written electronic or print (as requested by such individual) communication; and
+
+  (B) retains such communication in such individual’s file for at least 2 years following such response.
+
+(4) **Database** — The database described in this paragraph is, with respect to a group health plan or health insurance issuer offering group or individual health insurance coverage, a database on the public website of such plan or issuer that contains—
+
+  (A) a list of each health care provider and health care facility with which such plan or such issuer has a direct or indirect contractual relationship for furnishing items and services under such plan or such coverage; and
+
+  (B) provider directory information with respect to each such provider and facility.
+
+(5) **Information** — The information described in this paragraph is, with respect to a print directory containing provider directory information with respect to a group health plan or individual or group health insurance coverage offered by a health insurance issuer, a notification that such information contained in such directory was accurate as of the date of publication of such directory and that an individual enrolled under such plan or such coverage should consult the database described in paragraph (4) with respect to such plan or such coverage or contact such plan or the issuer of such coverage to obtain the most current provider directory information with respect to such plan or such coverage.
+
+(6) **Definition** — For purposes of this subsection, the term “provider directory information” includes, with respect to a group health plan and a health insurance issuer offering group or individual health insurance coverage, the name, address, specialty, telephone number, and digital contact information of each health care provider or health care facility with which such plan or such issuer has a contractual relationship for furnishing items and services under such plan or such coverage.
+
+(7) **Rule of construction** — Nothing in this section shall be construed to preempt any provision of State law relating to health care provider directories.
+
+**(b) Cost-sharing for services provided based on reliance on incorrect provider network information**
+
+(1) **In general** — For plan years beginning on or after January 1, 2022, in the case of an item or service furnished to a participant, beneficiary, or enrollee of a group health plan or group or individual health insurance coverage offered by a health insurance issuer by a nonparticipating provider or a nonparticipating facility, if such item or service would otherwise be covered under such plan or coverage if furnished by a participating provider or participating facility and if either of the criteria described in paragraph (2) applies with respect to such participant, beneficiary, or enrollee and item or service, the plan or coverage—
+
+  (A) shall not impose on such participant, beneficiary, or enrollee a cost-sharing amount for such item or service so furnished that is greater than the cost-sharing amount that would apply under such plan or coverage had such item or service been furnished by a participating provider; and
+
+  (B) shall apply the deductible or out-of-pocket maximum, if any, that would apply if such services were furnished by a participating provider or a participating facility.
+
+(2) **Criteria described** — For purposes of paragraph (1), the criteria described in this paragraph, with respect to an item or service furnished to a participant, beneficiary, or enrollee of a group health plan or group or individual health insurance coverage offered by a health insurance issuer by a nonparticipating provider or a nonparticipating facility, are the following:
+
+  (A) The participant, beneficiary, or enrollee received through a database, provider directory, or response protocol described in subsection (a) information with respect to such item and service to be furnished and such information provided that the provider was a participating provider or facility was a participating facility, with respect to the plan for furnishing such item or service.
+
+  (B) The information was not provided, in accordance with subsection (a), to the participant, beneficiary, or enrollee and the participant, beneficiary, or enrollee requested through the response protocol described in subsection (a)(3) of the plan or coverage information on whether the provider was a participating provider or facility was a participating facility with respect to the plan for furnishing such item or service and was informed through such protocol that the provider was such a participating provider or facility was such a participating facility.
+
+**(c) Disclosure on patient protections against balance billing** For plan years beginning on or after January 1, 2022, each group health plan and health insurance issuer offering group or individual health insurance coverage shall make publicly available, post on a public website of such plan or issuer, and include on each explanation of benefits for an item or service with respect to which the requirements under [section 300gg–111 of this title](./chapter-6a-public-health-service.md#section-300gg-111) applies—
+
+(1) information in plain language on—
+
+  (A) the requirements and prohibitions applied under sections 300gg–131 and 300gg–132 of this title (relating to prohibitions on balance billing in certain circumstances);
+
+  (B) if provided for under applicable State law, any other requirements on providers and facilities regarding the amounts such providers and facilities may, with respect to an item or service, charge a participant, beneficiary, or enrollee of such plan or coverage with respect to which such a provider or facility does not have a contractual relationship for furnishing such item or service under the plan or coverage after receiving payment from the plan or coverage for such item or service and any applicable cost sharing payment from such participant, beneficiary, or enrollee; and
+
+  (C) the requirements applied under [section 300gg–111 of this title](./chapter-6a-public-health-service.md#section-300gg-111); and
+
+(2) information on contacting appropriate State and Federal agencies in the case that an individual believes that such a provider or facility has violated any requirement described in paragraph (1) with respect to such individual.
+
+
+<a id="section-300gg-117"></a>
+## § 300gg–117. Other patient protections
+**(a) Choice of health care professional** If a group health plan, or a health insurance issuer offering group or individual health insurance coverage, requires or provides for designation by a participant, beneficiary, or enrollee of a participating primary care provider, then the plan or issuer shall permit each participant, beneficiary, and enrollee to designate any participating primary care provider who is available to accept such individual.
+
+**(b) Access to pediatric care**
+
+(1) **Pediatric care** — In the case of a person who has a child who is a participant, beneficiary, or enrollee under a group health plan, or group or individual health insurance coverage offered by a health insurance issuer, if the plan or issuer requires or provides for the designation of a participating primary care provider for the child, the plan or issuer shall permit such person to designate a physician (allopathic or osteopathic) who specializes in pediatrics as the child’s primary care provider if such provider participates in the network of the plan or issuer.
+
+(2) **Construction** — Nothing in paragraph (1) shall be construed to waive any exclusions of coverage under the terms and conditions of the plan or health insurance coverage with respect to coverage of pediatric care.
+
+**(c) Patient access to obstetrical and gynecological care**
+
+(1) **General rights**
+
+  (A) *Direct access* — A group health plan, or health insurance issuer offering group or individual health insurance coverage, described in paragraph (2) may not require authorization or referral by the plan, issuer, or any person (including a primary care provider described in paragraph (2)(B)) in the case of a female participant, beneficiary, or enrollee who seeks coverage for obstetrical or gynecological care provided by a participating health care professional who specializes in obstetrics or gynecology. Such professional shall agree to otherwise adhere to such plan’s or issuer’s policies and procedures, including procedures regarding referrals and obtaining prior authorization and providing services pursuant to a treatment plan (if any) approved by the plan or issuer.
+
+  (B) *Obstetrical and gynecological care* — A group health plan or health insurance issuer described in paragraph (2) shall treat the provision of obstetrical and gynecological care, and the ordering of related obstetrical and gynecological items and services, pursuant to the direct access described under subparagraph (A), by a participating health care professional who specializes in obstetrics or gynecology as the authorization of the primary care provider.
+
+(2) **Application of paragraph** — A group health plan, or health insurance issuer offering group or individual health insurance coverage, described in this paragraph is a group health plan or health insurance coverage that—
+
+  (A) provides coverage for obstetric or gynecologic care; and
+
+  (B) requires the designation by a participant, beneficiary, or enrollee of a participating primary care provider.
+
+(3) **Construction** — Nothing in paragraph (1) shall be construed to—
+
+  (A) waive any exclusions of coverage under the terms and conditions of the plan or health insurance coverage with respect to coverage of obstetrical or gynecological care; or
+
+  (B) preclude the group health plan or health insurance issuer involved from requiring that the obstetrical or gynecological provider notify the primary care health care professional or the plan or issuer of treatment decisions.
+
+### Statutory Notes
+
+#### Effective Date
+Section applicable with respect to plan years beginning on or after Jan. 1, 2022, see section 102(e) of Pub. L. 116–260, set out as an Effective Date of 2020 Amendment note under [section 8902 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section8902&num=0&edition=prelim), Government Organization and Employees.
+
+
+<a id="section-300gg-118"></a>
+## § 300gg–118. Air ambulance report requirements
+**(a) In general** Each group health plan and health insurance issuer offering group or individual health insurance coverage shall submit to the Secretary, jointly with the Secretary of Labor and the Secretary of the Treasury—
+
+(1) not later than the date that is 90 days after the last day of the first calendar year beginning on or after the date on which a final rule is promulgated pursuant to the rulemaking described in section 106(d) of the No Surprises Act, the information described in subsection (b) with respect to such plan year; and
+
+(2) not later than the date that is 90 days after the last day of the calendar year immediately succeeding the plan year described in paragraph (1), such information with respect to such immediately succeeding plan year.
+
+**(b) Information described** For purposes of subsection (a), information described in this subsection, with respect to a group health plan or a health insurance issuer offering group or individual health insurance coverage, is each of the following:
+
+(1) Claims data for air ambulance services furnished by providers of such services, disaggregated by each of the following factors:
+
+  (A) Whether such services were furnished on an emergent or nonemergent basis.
+
+  (B) Whether the provider of such services is part of a hospital-owned or sponsored program, municipality-sponsored program, hospital independent partnership (hybrid) program, independent program, or tribally operated program in Alaska.
+
+  (C) Whether the transport in which the services were furnished originated in a rural or urban area.
+
+  (D) The type of aircraft (such as rotor transport or fixed wing transport) used to furnish such services.
+
+  (E) Whether the provider of such services has a contract with the plan or issuer, as applicable, to furnish such services under the plan or coverage, respectively.
+
+(2) Such other information regarding providers of air ambulance services as the Secretary may specify.
+
+### Statutory Notes
+
+#### References in Text
+Section 106(d) of the No Surprises Act, referred to in subsec. (a)(1), is section 106(d) of div. BB of Pub. L. 116–260, which is set out as a note below.
+
+#### Reporting Requirements Regarding Air Ambulance Services
+Pub. L. 116–260, div. BB, title I, § 106, Dec. 27, 2020, 134 Stat. 2851, provided that: “(a) Reporting Requirements for Providers of Air Ambulance Services.—“(1) In general.—A provider of air ambulance services shall submit to the Secretary of Health and Human Services and the Secretary of Transportation—“(A) not later than the date that is 90 days after the last day of the first calendar year beginning on or after the date on which a final rule is promulgated pursuant to the rulemaking described in subsection (d), the information described in paragraph (2) with respect to such plan year; and “(B) not later than the date that is 90 days after the last day of the plan year immediately succeeding the plan year described in subparagraph (A), such information with respect to such immediately succeeding plan year. “(2) Information described.—For purposes of paragraph (1), information described in this paragraph, with respect to a provider of air ambulance services, is each of the following:“(A) Cost data, as determined appropriate by the Secretary of Health and Human Services, in consultation with the Secretary of Transportation, for air ambulance services furnished by such provider, separated to the maximum extent possible by air transportation costs associated with furnishing such air ambulance services and costs of medical services and supplies associated with furnishing such air ambulance services. “(B) The number and location of all air ambulance bases operated by such provider. “(C) The number and type of aircraft operated by such provider. “(D) The number of air ambulance transports, disaggregated by payor mix, including—“(i)(I) group health plans; “(II) health insurance issuers; and “(III) State and Federal Government payors; and “(ii) uninsured individuals. “(E) The number of claims of such provider that have been denied payment by a group health plan or health insurance issuer and the reasons for any such denials. “(F) The number of emergency and nonemergency air ambulance transports, disaggregated by air ambulance base and type of aircraft. “(G) Such other information regarding air ambulance services as the Secretary of Health and Human Services may specify. “(b) Reporting Requirements for Group Health Plans and Health Insurance Issuers.—“(1) PHSA.— [Enacted this section.] “(2) ERISA.—“(A) In general.— [Enacted section 1185l of Title 29, Labor.] “(B) Clerical amendment.— [Amended table of contents of the Employee Retirement Income Security Act of 1974.] “(3) IRC.—“(A) In general.— [Enacted [section 9823 of Title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section9823&num=0&edition=prelim), Internal Revenue Code.] “(B) Clerical amendment.— [Amended analysis preceding [section 9811 of Title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section9811&num=0&edition=prelim), Internal Revenue Code.] “(c) Publication of Comprehensive Report.—“(1) In general.—Not later than the date that is one year after the date described in subsection (a)(2) of section 2799A–8 of the Public Health Service Act [[42 U.S.C. 300gg–118](./chapter-6a-public-health-service.md#section-300gg-118)], of section 723 of the Employee Retirement Income Security Act of 1974 [[29 U.S.C. 1185](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1185&num=0&edition=prelim)l], and of section 9823 of the Internal Revenue Code of 1986 [[26 U.S.C. 9823](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section9823&num=0&edition=prelim)], as such sections are added by subsection (b), the Secretary of Health and Human Services, in consultation with the Secretary of Transportation (referred to in this section as the ‘Secretaries’), shall develop, and make publicly available (subject to paragraph (3)), a comprehensive report summarizing the information submitted under subsection (a) and the amendments made by subsection (b) and including each of the following:“(A) The percentage of providers of air ambulance services that are part of a hospital-owned or sponsored program, municipality-sponsored program, hospital-independent partnership (hybrid) program, or independent program. “(B) An assessment of the extent of competition among providers of air ambulance services on the basis of price and services offered, and any changes in such competition over time. “(C) An assessment of the average charges for air ambulance services, amounts paid by group health plans and health insurance issuers offering group or individual health insurance coverage to providers of air ambulance services for furnishing such services, and amounts paid out-of-pocket by consumers, and any changes in such amounts paid over time. “(D) An assessment of the presence of air ambulance bases in, or with the capability to serve, rural areas, and the relative growth in air ambulance bases in rural and urban areas over time. “(E) Any evidence of gaps in rural access to providers of air ambulance services. “(F) The percentage of providers of air ambulance services that have contracts with group health plans or health insurance issuers offering group or individual health insurance coverage to furnish such services under such plans or coverage, respectively. “(G) An assessment of whether there are instances of unfair, deceptive, or predatory practices by providers of air ambulance services in collecting payments from patients to whom such services are furnished, such as referral of such patients to collections, lawsuits, and liens or wage garnishment actions. “(H) An assessment of whether there are, within the air ambulance industry, instances of unreasonable industry concentration, excessive market domination, or other conditions that would allow at least one provider of air ambulance services to unreasonably increase prices or exclude competition in air ambulance services in a given geographic region. “(I) An assessment of the frequency of patient balance billing, patient referrals to collections, lawsuits to collect balance bills, and liens or wage garnishment actions by providers of air ambulance services as part of a collections process across hospital-owned or sponsored programs, municipality-sponsored programs, hospital-independent partnership (hybrid) programs, tribally operated programs in Alaska, or independent programs, providers of air ambulance services operated by public agencies (such as a State or county health department), and other independent providers of air ambulance services. “(J) An assessment of the frequency of claims appeals made by providers of air ambulance services to group health plans or health insurance issuers offering group or individual health insurance coverage with respect to air ambulance services furnished to enrollees of such plans or coverage, respectively. “(K) Any other cost, quality, or other data relating to air ambulance services or the air ambulance industry, as determined necessary and appropriate by the Secretaries. “(2) Other sources of information.—The Secretaries may incorporate information from independent experts or third-party sources in developing the comprehensive report required under paragraph (1). “(3) Protection of proprietary information.—The Secretaries may not make publicly available under this subsection any proprietary information. “(d) Rulemaking.—Not later than the date that is one year after the date of the enactment of this Act [Dec. 27, 2020], the Secretary of Health and Human Services, in consultation with the Secretary of Transportation, shall, through notice and comment rulemaking, specify the form and manner in which reports described in subsection (a) and in the amendments made by subsection (b) shall be submitted to such Secretaries, taking into consideration (as applicable and to the extent feasible) any recommendations included in the report submitted by the Advisory Committee on Air Ambulance and Patient Billing under section 418(e) of the FAA Reauthorization Act of 2018 (Public Law 115–254; [49 U.S.C. 42301](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section42301&num=0&edition=prelim) note prec.). “(e) Civil Money Penalties.—“(1) In general.—Subject to paragraph (2), a provider of air ambulance services who fails to submit all information required under subsection (a)(2) by the date described in subparagraph (A) or (B) of subsection (a)(1), as applicable, shall be subject to a civil money penalty of not more than $10,000. “(2) Exception.—In the case of a provider of air ambulance services that submits only some of the information required under subsection (a)(2) by the date described in subparagraph (A) or (B) of subsection (a)(1), as applicable, the Secretary of Health and Human Services may waive the civil money penalty imposed under paragraph (1) if such provider demonstrates a good faith effort (as defined by the Secretary pursuant to regulation) in working with the Secretary to submit the remaining information required under subsection (a)(2). “(3) Procedure.—The provisions of section 1128A of the Social Security Act ([42 U.S.C. 1320a–7a](./chapter-007-social-security.md#section-1320a-7a)), other than subsections (a) and (b) and the first sentence of subsection (c)(1), shall apply to civil money penalties under this subsection in the same manner as such provisions apply to a penalty or proceeding under such section. “(f) Unfair and Deceptive Practices and Unfair Methods of Competition.—The Secretary of Transportation may use any information submitted under subsection (a) in determining whether a provider of air ambulance services has violated [section 41712(a) of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section41712/a&num=0&edition=prelim), United States Code. “(g) Advisory Committee on Air Ambulance Quality and Patient Safety.—“(1) Establishment.—Not later than the date that is 60 days after the date of the enactment of this Act [Dec. 27, 2020], the Secretary of Health and Human Services and the Secretary of Transportation, shall establish an Advisory Committee on Air Ambulance Quality and Patient Safety (referred to in this subsection as the ‘Committee’) for the purpose of reviewing options to establish quality, patient safety, and clinical capability standards for each clinical capability level of air ambulances. “(2) Membership.—The Committee shall be composed of the following members:“(A) The Secretary of Health and Human Services, or a designee of the Secretary, who shall serve as the Chair of the Committee. “(B) The Secretary of Transportation, or a designee of the Secretary. “(C) One representative, to be appointed by the Secretary of Health and Human Services, of each of the following:“(i) State health insurance regulators. “(ii) Health care providers. “(iii) Group health plans and health insurance issuers offering group or individual health insurance coverage. “(iv) Patient advocacy groups. “(v) Accrediting bodies with experience in quality measures. “(D) Three representatives of the air ambulance industry, to be appointed by the Secretary of Transportation. “(E) Additional three representatives not covered under subparagraphs (A) through (D), as determined necessary and appropriate by the Secretary of Health and Human Services and Secretary of Transportation. “(3) First meeting.—Not later than the date that is 90 days after the date of the enactment of this Act, the Committee shall hold its first meeting. “(4) Duties.—The Committee shall study and make recommendations, as appropriate, to Congress regarding each of the following with respect to air ambulance services:“(A) Qualifications of different clinical capability levels and tiering of such levels. “(B) Patient safety and quality standards. “(C) Options for improving service reliability during poor weather, night conditions, or other adverse conditions. “(D) Differences between air ambulance vehicle types, services, and technologies, and other flight capability standards, and the impact of such differences on patient safety. “(E) Clinical triage criteria for air ambulances. “(5) Report.—Not later than the date that is 180 days after the date of the first meeting of the Committee, the Committee, in consultation with relevant experts and stakeholders, as appropriate, shall develop and make publicly available a report on any recommendations submitted to Congress under paragraph (4). The Committee may update such report, as determined appropriate by the Committee. “(h) Definitions.—In this section, the terms ‘group health plan’, ‘health insurance coverage’, ‘individual health insurance coverage’, ‘group health insurance coverage’, and ‘health insurance issuer’ have the meanings given such terms in section 2791 of the Public Health Service Act ([42 U.S.C. 300gg–91](./chapter-6a-public-health-service.md#section-300gg-91)).”
+
+
+<a id="section-300gg-119"></a>
+## § 300gg–119. Increasing transparency by removing gag clauses on price and quality information
+**(a) 11 So in original. There is no subsec. (b). Increasing price and quality transparency for plan sponsors and group and individual market consumers**
+
+(1) **Group health plans** — A group health plan or health insurance issuer offering group health insurance coverage may not enter into an agreement with a health care provider, network or association of providers, third-party administrator, or other service provider offering access to a network of providers that would directly or indirectly restrict a group health plan or health insurance issuer offering such coverage from—
+
+  (A) providing provider-specific cost or quality of care information or data, through a consumer engagement tool or any other means, to referring providers, the plan sponsor, enrollees, or individuals eligible to become enrollees of the plan or coverage;
+
+  (B) electronically accessing de-identified claims and encounter information or data for each enrollee in the plan or coverage, upon request and consistent with the privacy regulations promulgated pursuant to section 264(c) of the Health Insurance Portability and Accountability Act of 1996, the amendments made by the Genetic Information Nondiscrimination Act of 2008, and the Americans with Disabilities Act of 1990 [[42 U.S.C. 12101](./chapter-126-equal-opportunity-for-individuals-with-disabilities.md#section-12101) et seq.], including, on a per claim basis—
+
+    (i) financial information, such as the allowed amount, or any other claim-related financial obligations included in the provider contract;
+
+    (ii) provider information, including name and clinical designation;
+
+    (iii) service codes; or
+
+    (iv) any other data element included in claim or encounter transactions; or
+
+  (C) sharing information or data described in subparagraph (A) or (B), or directing that such data be shared, with a business associate as defined in section 160.103 of title 45, Code of Federal Regulations (or successor regulations), consistent with the privacy regulations promulgated pursuant to section 264(c) of the Health Insurance Portability and Accountability Act of 1996, the amendments made by the Genetic Information Nondiscrimination Act of 2008, and the Americans with Disabilities Act of 1990 [[42 U.S.C. 12101](./chapter-126-equal-opportunity-for-individuals-with-disabilities.md#section-12101) et seq.].
+
+(2) **Individual health insurance coverage** — A health insurance issuer offering individual health insurance coverage may not enter into an agreement with a health care provider, network or association of providers, or other service provider offering access to a network of providers that would directly or indirectly restrict the health insurance issuer from—
+
+  (A) providing provider-specific price or quality of care information, through a consumer engagement tool or any other means, to referring providers, enrollees, or individuals eligible to become enrollees of the plan or coverage; or
+
+  (B) sharing, for plan design, plan administration, and plan, financial, legal, and quality improvement activities, data described in subparagraph (A) with a business associate as defined in section 160.103 of title 45, Code of Federal Regulations (or successor regulations), consistent with the privacy regulations promulgated pursuant to section 264(c) of the Health Insurance Portability and Accountability Act of 1996, the amendments made by the Genetic Information Nondiscrimination Act of 2008, and the Americans with Disabilities Act of 1990 [[42 U.S.C. 12101](./chapter-126-equal-opportunity-for-individuals-with-disabilities.md#section-12101) et seq.].
+
+(3) **Clarification regarding public disclosure of information** — Nothing in paragraph (1)(A) or (2)(A) prevents a health care provider, network or association of providers, or other service provider from placing reasonable restrictions on the public disclosure of the information described in such paragraphs (1) and (2).
+
+(4) **Attestation** — A group health plan or a health insurance issuer offering group or individual health insurance coverage shall annually submit to the Secretary an attestation that such plan or issuer of such coverage is in compliance with the requirements of this subsection.
+
+(5) **Rules of construction** — Nothing in this section shall be construed to modify or eliminate existing privacy protections and standards under State and Federal law. Nothing in this subsection shall be construed to otherwise limit access by a group health plan, plan sponsor, or health insurance issuer to data as permitted under the privacy regulations promulgated pursuant to section 264(c) of the Health Insurance Portability and Accountability Act of 1996, the amendments made by the Genetic Information Nondiscrimination Act of 2008, and the Americans with Disabilities Act of 1990 [[42 U.S.C. 12101](./chapter-126-equal-opportunity-for-individuals-with-disabilities.md#section-12101) et seq.].
+
+### Statutory Notes
+
+#### References in Text
+Section 264(c) of the Health Insurance Portability and Accountability Act of 1996, referred to in subsec. (a)(1)(B), (C), (2)(B), (5), is section 264 of Pub. L. 104–191, which is set out as a note under [section 1320d–2 of this title](./chapter-007-social-security.md#section-1320d-2).
+
+The Genetic Information Nondiscrimination Act of 2008, referred to in subsec. (a)(1)(B), (C), (2)(B), (5), is Pub. L. 110–233, May 21, 2008, 122 Stat. 881. For complete classification of this Act to the Code, see Short Title note set out under [section 2000ff of this title](./chapter-21f-prohibiting-employment-discrimination-on-the-basis-of-genetic-information.md#section-2000ff) and Tables.
+
+The Americans with Disabilities Act of 1990, referred to in subsec. (a)(1)(B), (C), (2)(B), (5), is Pub. L. 101–336, July 26, 1990, 104 Stat. 327, which is classified principally to chapter 126 (§ 12101 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 12101 of this title](./chapter-126-equal-opportunity-for-individuals-with-disabilities.md#section-12101) and Tables.
+
+
 <a id="section-300gg-12"></a>
 ## § 300gg–12. Prohibition on rescissions
 
@@ -66612,6 +68700,59 @@ Another prior section 2712 of act July 1, 1944, was successively renumbered by s
 
 #### Effective Date
 Section effective for plan years beginning on or after the date that is 6 months after Mar. 23, 2010, see section 1004 of Pub. L. 111–148, set out as a note under [section 300gg–11 of this title](./chapter-6a-public-health-service.md#section-300gg-11).
+
+
+<a id="section-300gg-120"></a>
+## § 300gg–120. Reporting on pharmacy benefits and drug costs
+**(a) In general** Not later than 1 year after December 27, 2020, and not later than June 1 of each year thereafter, a group health plan or health insurance issuer offering group or individual health insurance coverage (except for a church plan) shall submit to the Secretary, the Secretary of Labor, and the Secretary of the Treasury the following information with respect to the health plan or coverage in the previous plan year:
+
+(1) The beginning and end dates of the plan year.
+
+(2) The number of enrollees.
+
+(3) Each State in which the plan or coverage is offered.
+
+(4) The 50 brand prescription drugs most frequently dispensed by pharmacies for claims paid by the plan or coverage, and the total number of paid claims for each such drug.
+
+(5) The 50 most costly prescription drugs with respect to the plan or coverage by total annual spending, and the annual amount spent by the plan or coverage for each such drug.
+
+(6) The 50 prescription drugs with the greatest increase in plan expenditures over the plan year preceding the plan year that is the subject of the report, and, for each such drug, the change in amounts expended by the plan or coverage in each such plan year.
+
+(7) Total spending on health care services by such group health plan or health insurance coverage, broken down by—
+
+  (A) the type of costs, including—
+
+    (i) hospital costs;
+
+    (ii) health care provider and clinical service costs, for primary care and specialty care separately;
+
+    (iii) costs for prescription drugs; and
+
+    (iv) other medical costs, including wellness services; and
+
+  (B) spending on prescription drugs by—
+
+    (i) the health plan or coverage; and
+
+    (ii) the enrollees.
+
+(8) The average monthly premium—
+
+  (A) paid by employers on behalf of enrollees, as applicable; and
+
+  (B) paid by enrollees.
+
+(9) Any impact on premiums by rebates, fees, and any other remuneration paid by drug manufacturers to the plan or coverage or its administrators or service providers, with respect to prescription drugs prescribed to enrollees in the plan or coverage, including—
+
+  (A) the amounts so paid for each therapeutic class of drugs; and
+
+  (B) the amounts so paid for each of the 25 drugs that yielded the highest amount of rebates and other remuneration under the plan or coverage from drug manufacturers during the plan year.
+
+(10) Any reduction in premiums and out-of-pocket costs associated with rebates, fees, or other remuneration described in paragraph (9).
+
+**(b) Report** Not later than 18 months after the date on which the first report is required under subsection (a) and biannually thereafter, the Secretary, acting through the Assistant Secretary of Planning and Evaluation and in coordination with the Inspector General of the Department of Health and Human Services, shall make available on the internet website of the Department of Health and Human Services a report on prescription drug reimbursements under group health plans and group and individual health insurance coverage, prescription drug pricing trends, and the role of prescription drug costs in contributing to premium increases or decreases under such plans or coverage, aggregated in such a way as no drug or plan specific information will be made public.
+
+**(c) Privacy protections** No confidential or trade secret information submitted to the Secretary under subsection (a) shall be included in the report under subsection (b).
 
 
 <a id="section-300gg-13"></a>
@@ -66646,6 +68787,217 @@ Another prior section 2713 of act July 1, 1944, was successively renumbered by s
 
 #### Effective Date
 Section effective for plan years beginning on or after the date that is 6 months after Mar. 23, 2010, see section 1004 of Pub. L. 111–148, set out as a note under [section 300gg–11 of this title](./chapter-6a-public-health-service.md#section-300gg-11).
+
+#### Rapid Coverage of Preventive Services and Vaccines for Coronavirus
+Pub. L. 116–136, div. A, title III, § 3203, Mar. 27, 2020, 134 Stat. 367, provided that: “(a) In General.—Notwithstanding [section] 2713(b) of the Public Health Service Act ([42 U.S.C. 300gg–13](./chapter-6a-public-health-service.md#section-300gg-13)[(b)]), the Secretary of Health and Human Services, the Secretary of Labor, and the Secretary of the Treasury shall require group health plans and health insurance issuers offering group or individual health insurance to cover (without cost-sharing) any qualifying coronavirus preventive service, pursuant to section 2713(a) of the Public Health Service Act ([42 U.S.C. 300gg–13(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section300gg–13/a&num=0&edition=prelim)) (including the regulations under sections 2590.715–2713 of title 29, Code of Federal Regulations, section 54.9815–2713 of title 26, Code of Federal Regulations, and section 147.130 of title 45, Code of Federal Regulations (or any successor regulations)). The requirement described in this subsection shall take effect with respect to a qualifying coronavirus preventive service on the specified date described in subsection (b)(2). “(b) Definitions.—For purposes of this section:“(1) Qualifying coronavirus preventive service.—The term ‘qualifying coronavirus preventive service’ means an item, service, or immunization that is intended to prevent or mitigate coronavirus disease 2019 and that is—“(A) an evidence-based item or service that has in effect a rating of ‘A’ or ‘B’ in the current recommendations of the United States Preventive Services Task Force; or “(B) an immunization that has in effect a recommendation from the Advisory Committee on Immunization Practices of the Centers for Disease Control and Prevention with respect to the individual involved. “(2) Specified date.—The term ‘specified date’ means the date that is 15 business days after the date on which a recommendation is made relating to the qualifying coronavirus preventive service as described in such paragraph. “(3) Additional terms.—In this section, the terms ‘group health plan’, ‘health insurance issuer’, ‘group health insurance coverage’, and ‘individual health insurance coverage’ have the meanings given such terms in section 2791 of the Public Health Service Act ([42 U.S.C. 300gg–91](./chapter-6a-public-health-service.md#section-300gg-91)), section 733 of the Employee Retirement Income Security Act of 1974 ([29 U.S.C. 1191b](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1191b&num=0&edition=prelim)), and section 9832 of the Internal Revenue Code [[26 U.S.C. 9832](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section9832&num=0&edition=prelim)], as applicable.”
+
+
+<a id="section-300gg-131"></a>
+## § 300gg–131. Balance billing in cases of emergency services
+**(a) In general** In the case of a participant, beneficiary, or enrollee with benefits under a group health plan or group or individual health insurance coverage offered by a health insurance issuer and who is furnished during a plan year beginning on or after January 1, 2022, emergency services (for which benefits are provided under the plan or coverage) with respect to an emergency medical condition with respect to a visit at an emergency department of a hospital or an independent freestanding emergency department—
+
+(1) in the case that the hospital or independent freestanding emergency department is a nonparticipating emergency facility, the emergency department of a hospital or independent freestanding emergency department shall not bill, and shall not hold liable, the participant, beneficiary, or enrollee for a payment amount for such emergency services so furnished that is more than the cost-sharing requirement for such services (as determined in accordance with clauses (ii) and (iii) of [section 300gg–111(a)(1)(C) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section300gg–111/a/1/C&num=0&edition=prelim), of [section 9816(a)(1)(C) of title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section9816/a/1/C&num=0&edition=prelim), and of [section 1185e(a)(1)(C) of title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1185e/a/1/C&num=0&edition=prelim), as applicable); and
+
+(2) in the case that such services are furnished by a nonparticipating provider, the health care provider shall not bill, and shall not hold liable, such participant, beneficiary, or enrollee for a payment amount for an emergency service furnished to such individual by such provider with respect to such emergency medical condition and visit for which the individual receives emergency services at the hospital or emergency department that is more than the cost-sharing requirement for such services furnished by the provider (as determined in accordance with clauses (ii) and (iii) of [section 300gg–111(a)(1)(C) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section300gg–111/a/1/C&num=0&edition=prelim), of [section 9816(a)(1)(C) of title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section9816/a/1/C&num=0&edition=prelim), and of [section 1185e(a)(1)(C) of title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1185e/a/1/C&num=0&edition=prelim), as applicable).
+
+**(b) Definition** In this section, the term “visit” shall have such meaning as applied to such term for purposes of [section 300gg–111(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section300gg–111/b&num=0&edition=prelim).
+
+
+<a id="section-300gg-132"></a>
+## § 300gg–132. Balance billing in cases of non-emergency services performed by nonparticipating providers at certain participating facilities
+**(a) In general** Subject to subsection (b), in the case of a participant, beneficiary, or enrollee with benefits under a group health plan or group or individual health insurance coverage offered by a health insurance issuer and who is furnished during a plan year beginning on or after January 1, 2022, items or services (other than emergency services to which [section 300gg–131 of this title](./chapter-6a-public-health-service.md#section-300gg-131) applies) for which benefits are provided under the plan or coverage at a participating health care facility by a nonparticipating provider, such provider shall not bill, and shall not hold liable, such participant, beneficiary, or enrollee for a payment amount for such an item or service furnished by such provider with respect to a visit at such facility that is more than the cost-sharing requirement for such item or service (as determined in accordance with subparagraphs (A) and (B) of [section 300gg–111(b)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section300gg–111/b/1&num=0&edition=prelim) 11 So in original. Probably should be followed by a comma. of [section 9816(b)(1) of title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section9816/b/1&num=0&edition=prelim), and of [section 1185e(b)(1) of title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1185e/b/1&num=0&edition=prelim), as applicable).
+
+**(b) Exception**
+
+(1) **In general** — Subsection (a) shall not apply with respect to items or services (other than ancillary services described in paragraph (2)) furnished by a nonparticipating provider to a participant, beneficiary, or enrollee of a group health plan or group or individual health insurance coverage offered by a health insurance issuer, if the provider satisfies the notice and consent criteria of subsection (d).
+
+(2) **Ancillary services described** — For purposes of paragraph (1), ancillary services described in this paragraph are, with respect to a participating health care facility—
+
+  (A) subject to paragraph (3), items and services related to emergency medicine, anesthesiology, pathology, radiology, and neonatology, whether or not provided by a physician or non-physician practitioner, and items and services provided by assistant surgeons, hospitalists, and intensivists;
+
+  (B) subject to paragraph (3), diagnostic services (including radiology and laboratory services);
+
+  (C) items and services provided by such other specialty practitioners, as the Secretary specifies through rulemaking; and
+
+  (D) items and services provided by a nonparticipating provider if there is no participating provider who can furnish such item or service at such facility.
+
+(3) **Exception** — The Secretary may, through rulemaking, establish a list (and update such list periodically) of advanced diagnostic laboratory tests, which shall not be included as an ancillary service described in paragraph (2) and with respect to which subsection (a) would apply.
+
+**(c) Clarification** In the case of a nonparticipating provider that satisfies the notice and consent criteria of subsection (d) with respect to an item or service (referred to in this subsection as a “covered item or service”), such notice and consent criteria may not be construed as applying with respect to any item or service that is furnished as a result of unforeseen, urgent medical needs that arise at the time such covered item or service is furnished. For purposes of the previous sentence, a covered item or service shall not include an ancillary service described in subsection (b)(2).
+
+**(d) Notice and consent to be treated by a nonparticipating provider or nonparticipating facility**
+
+(1) **In general** — A nonparticipating provider or nonparticipating facility satisfies the notice and consent criteria of this subsection, with respect to items or services furnished by the provider or facility to a participant, beneficiary, or enrollee of a group health plan or group or individual health insurance coverage offered by a health insurance issuer, if the provider (or, if applicable, the participating health care facility on behalf of such provider) or nonparticipating facility—
+
+  (A) in the case that the participant, beneficiary, or enrollee makes an appointment to be furnished such items or services at least 72 hours prior to the date on which the individual is to be furnished such items or services, provides to the participant, beneficiary, or enrollee (or to an authorized representative of the participant, beneficiary, or enrollee) not later than 72 hours prior to the date on which the individual is furnished such items or services (or, in the case that the participant, beneficiary, or enrollee makes such an appointment within 72 hours of when such items or services are to be furnished, provides to the participant, beneficiary, or enrollee (or to an authorized representative of the participant, beneficiary, or enrollee) on such date the appointment is made), a written notice in paper or electronic form, as selected by the participant, beneficiary, or enrollee, (and including electronic notification, as practicable) specified by the Secretary, not later than July 1, 2021, through guidance (which shall be updated as determined necessary by the Secretary) that—
+
+    (i) contains the information required under paragraph (2);
+
+    (ii) clearly states that consent to receive such items and services from such nonparticipating provider or nonparticipating facility is optional and that the participant, beneficiary, or enrollee may instead seek care from a participating provider or at a participating facility, with respect to such plan or coverage, as applicable, in which case the cost-sharing responsibility of the participant, beneficiary, or enrollee would not exceed such responsibility that would apply with respect to such an item or service that is furnished by a participating provider or participating facility, as applicable with respect to such plan; and
+
+    (iii) is available in the 15 most common languages in the geographic region of the applicable facility;
+
+  (B) obtains from the participant, beneficiary, or enrollee (or from such an authorized representative) the consent described in paragraph (3) to be treated by a nonparticipating provider or nonparticipating facility; and
+
+  (C) provides a signed copy of such consent to the participant, beneficiary, or enrollee through mail or email (as selected by the participant, beneficiary, or enrollee).
+
+(2) **Information required under written notice** — For purposes of paragraph (1)(A)(i), the information described in this paragraph, with respect to a nonparticipating provider or nonparticipating facility and a participant, beneficiary, or enrollee of a group health plan or group or individual health insurance coverage offered by a health insurance issuer, is each of the following:
+
+  (A) Notification, as applicable, that the health care provider is a nonparticipating provider with respect to the health plan or the health care facility is a nonparticipating facility with respect to the health plan.
+
+  (B) Notification of the good faith estimated amount that such provider or facility may charge the participant, beneficiary, or enrollee for such items and services involved, including a notification that the provision of such estimate or consent to be treated under paragraph (3) does not constitute a contract with respect to the charges estimated for such items and services.
+
+  (C) In the case of a participating facility and a nonparticipating provider, a list of any participating providers at the facility who are able to furnish such items and services involved and notification that the participant, beneficiary, or enrollee may be referred, at their option, to such a participating provider.
+
+  (D) Information about whether prior authorization or other care management limitations may be required in advance of receiving such items or services at the facility
+
+(3) **Consent described to be treated by a nonparticipating provider or nonparticipating facility** — For purposes of paragraph (1)(B), the consent described in this paragraph, with respect to a participant, beneficiary, or enrollee of a group health plan or group or individual health insurance coverage offered by a health insurance issuer who is to be furnished items or services by a nonparticipating provider or nonparticipating facility, is a document specified by the Secretary, in consultation with the Secretary of Labor, through guidance that shall be signed by the participant, beneficiary, or enrollee before such items or services are furnished and that—
+
+  (A) acknowledges (in clear and understandable language) that the participant, beneficiary, or enrollee has been—
+
+    (i) provided with the written notice under paragraph (1)(A);
+
+    (ii) informed that the payment of such charge by the participant, beneficiary, or enrollee may not accrue toward meeting any limitation that the plan or coverage places on cost-sharing, including an explanation that such payment may not apply to an in-network deductible applied under the plan or coverage; and
+
+    (iii) provided the opportunity to receive the written notice under paragraph (1)(A) in the form selected by the participant, beneficiary or enrollee; and
+
+  (B) documents the date on which the participant, beneficiary, or enrollee received the written notice under paragraph (1)(A) and the date on which the individual signed such consent to be furnished such items or services by such provider or facility.
+
+(4) **Rule of construction** — The consent described in paragraph (3), with respect to a participant, beneficiary, or enrollee of a group health plan or group or individual health insurance coverage offered by a health insurance issuer, shall constitute only consent to the receipt of the information provided pursuant to this subsection and shall not constitute a contractual agreement of the participant, beneficiary, or enrollee to any estimated charge or amount included in such information.
+
+**(e) Retention of certain documents** A nonparticipating facility (with respect to such facility or any nonparticipating provider at such facility) or a participating facility (with respect to nonparticipating providers at such facility) that obtains from a participant, beneficiary, or enrollee of a group health plan or group or individual health insurance coverage offered by a health insurance issuer (or an authorized representative of such participant, beneficiary, or enrollee) a written notice in accordance with subsection (d)(1)(B), with respect to furnishing an item or service to such participant, beneficiary, or enrollee, shall retain such notice for at least a 7-year period after the date on which such item or service is so furnished.
+
+**(f) Definitions** In this section:
+
+(1) The terms “nonparticipating provider” and “participating provider” have the meanings given such terms, respectively, in subsection (a)(3) of [section 300gg–111 of this title](./chapter-6a-public-health-service.md#section-300gg-111).
+
+(2) The term “participating health care facility” has the meaning given such term in subsection (b)(2) of [section 300gg–111 of this title](./chapter-6a-public-health-service.md#section-300gg-111).
+
+(3) The term “nonparticipating facility” means—
+
+  (A) with respect to emergency services (as defined in [section 300gg–111(a)(3)(C)(i) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section300gg–111/a/3/C/i&num=0&edition=prelim)) and a group health plan or group or individual health insurance coverage offered by a health insurance issuer, an emergency department of a hospital, or an independent freestanding emergency department, that does not have a contractual relationship with the plan or issuer, respectively, with respect to the furnishing of such services under the plan or coverage, respectively; and
+
+  (B) with respect to services described in [section 300gg–111(a)(3)(C)(ii) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section300gg–111/a/3/C/ii&num=0&edition=prelim) and a group health plan or group or individual health insurance coverage offered by a health insurance issuer, a hospital or an independent freestanding emergency department, that does not have a contractual relationship with the plan or issuer, respectively, with respect to the furnishing of such services under the plan or coverage, respectively.
+
+(4) The term “participating facility” means—
+
+  (A) with respect to emergency services (as defined in clause (i) of [section 300gg–111(a)(3)(C) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section300gg–111/a/3/C&num=0&edition=prelim)) that are not described in clause (ii) of such section and a group health plan or group or individual health insurance coverage offered by a health insurance issuer, an emergency department of a hospital, or an independent freestanding emergency department, that has a direct or indirect contractual relationship with the plan or issuer, respectively, with respect to the furnishing of such services under the plan or coverage, respectively; and
+
+  (B) with respect to services that pursuant to clause (ii) of [section 300gg–111(a)(3)(C) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section300gg–111/a/3/C&num=0&edition=prelim), of [section 9816(a)(3) of title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section9816/a/3&num=0&edition=prelim), and of [section 1185e(a)(3) of title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1185e/a/3&num=0&edition=prelim), as applicable are included as emergency services (as defined in clause (i) of such section and a group health plan or group or individual health insurance coverage offered by a health insurance issuer, a hospital or an independent freestanding emergency department, that has a contractual relationship with the plan or coverage, respectively, with respect to the furnishing of such services under the plan or coverage, respectively.
+
+
+<a id="section-300gg-133"></a>
+## § 300gg–133. Provider requirements with respect to disclosure on patient protections against balance billing
+
+Beginning not later than January 1, 2022, each health care provider and health care facility shall make publicly available, and (if applicable) post on a public website of such provider or facility and provide to individuals who are participants, beneficiaries, or enrollees of a group health plan or group or individual health insurance coverage offered by a health insurance issuer a one-page notice (either postal or electronic mail, as specified by the participant, beneficiary, or enrollee) in clear and understandable language containing information on—
+
+(1) the requirements and prohibitions of such provider or facility under sections 300gg–131 and 300gg–132 of this title (relating to prohibitions on balance billing in certain circumstances);
+
+(2) any other applicable State law requirements on such provider or facility regarding the amounts such provider or facility may, with respect to an item or service, charge a participant, beneficiary, or enrollee of a group health plan or group or individual health insurance coverage offered by a health insurance issuer with respect to which such provider or facility does not have a contractual relationship for furnishing such item or service under the plan or coverage, respectively, after receiving payment from the plan or coverage, respectively, for such item or service and any applicable cost-sharing payment from such participant, beneficiary, or enrollee; and
+
+(3) information on contacting appropriate State and Federal agencies in the case that an individual believes that such provider or facility has violated any requirement described in paragraph (1) or (2) with respect to such individual.
+
+
+<a id="section-300gg-134"></a>
+## § 300gg–134. Enforcement
+**(a) State enforcement**
+
+(1) **State authority** — Each State may require a provider or health care facility (including a provider of air ambulance services) subject to the requirements of this part to satisfy such requirements applicable to the provider or facility.
+
+(2) **Failure to implement requirements** — In the case of a determination by the Secretary that a State has failed to substantially enforce the requirements to which paragraph (1) applies with respect to applicable providers and facilities in the State, the Secretary shall enforce such requirements under subsection (b) insofar as they relate to violations of such requirements occurring in such State.
+
+(3) **Notification of applicable secretary** — A State may notify the Secretary of Labor, Secretary of Health and Human Services, or the Secretary of the Treasury, as applicable, of instances of violations of sections 300gg–131, 300gg–132, or 300gg–135 of this title with respect to participants, beneficiaries, or enrollees under a group health plan or group or individual health insurance coverage, as applicable offered by a health insurance issuer and any enforcement actions taken against providers or facilities as a result of such violations, including the disposition of any such enforcement actions.
+
+**(b) Secretarial enforcement authority**
+
+(1) **In general** — If a provider or facility is found by the Secretary to be in violation of a requirement to which subsection (a)(1) applies, the Secretary may apply a civil monetary penalty with respect to such provider or facility (including, as applicable, a provider of air ambulance services) in an amount not to exceed $10,000 per violation. The provisions of subsections (c) (with the exception of the first sentence of paragraph (1) of such subsection), (d), (e), (g), (h), (k), and (l) of section 1320a—7a of this title shall apply to a civil monetary penalty or assessment under this subsection in the same manner as such provisions apply to a penalty, assessment, or proceeding under subsection (a) of such section.
+
+(2) **Limitation** — The provisions of paragraph (1) shall apply to enforcement of a provision (or provisions) specified in subsection (a)(1) only as provided under subsection (a)(2).
+
+(3) **Complaint process** — The Secretary shall, through rulemaking, establish a process to receive consumer complaints of violations of such provisions and provide a response to such complaints within 60 days of receipt of such complaints.
+
+(4) **Exception** — The Secretary shall waive the penalties described under paragraph (1) with respect to a facility or provider (including a provider of air ambulance services) who does not knowingly violate, and should not have reasonably known it violated, section 300gg–131 or 300gg–132 of this title (or, in the case of a provider of air ambulance services, [section 300gg–135 of this title](./chapter-6a-public-health-service.md#section-300gg-135)) with respect to a participant, beneficiary, or enrollee, if such facility or provider, within 30 days of the violation, withdraws the bill that was in violation of such provision and reimburses the health plan or enrollee, as applicable, in an amount equal to the difference between the amount billed and the amount allowed to be billed under the provision, plus interest, at an interest rate determined by the Secretary.
+
+(5) **Hardship exemption** — The Secretary may establish a hardship exemption to the penalties under this subsection.
+
+**(c) Continued applicability of State law** The sections specified in subsection (a)(1) 11 So in original. Subsec. (a)(1) specifies “this part”, but does not specify individual sections. shall not be construed to supersede any provision of State law which establishes, implements, or continues in effect any requirement or prohibition except to the extent that such requirement or prohibition prevents the application of a requirement or prohibition of such a section.
+
+
+<a id="section-300gg-135"></a>
+## § 300gg–135. Air ambulance services
+
+In the case of a participant, beneficiary, or enrollee with benefits under a group health plan or group or individual health insurance coverage offered by a health insurance issuer and who is furnished in a plan year beginning on or after January 1, 2022, air ambulance services (for which benefits are available under such plan or coverage) from a nonparticipating provider (as defined in [section 300gg–111(a)(3)(G) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section300gg–111/a/3/G&num=0&edition=prelim)) with respect to such plan or coverage, such provider shall not bill, and shall not hold liable, such participant, beneficiary, or enrollee for a payment amount for such service furnished by such provider that is more than the cost-sharing amount for such service (as determined in accordance with paragraphs (1) and (2) of [section 300gg–112(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section300gg–112/a&num=0&edition=prelim), [section 1185f(a) of title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1185f/a&num=0&edition=prelim), or [section 9817(a) of title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section9817/a&num=0&edition=prelim), as applicable).
+
+
+<a id="section-300gg-136"></a>
+## § 300gg–136. Provision of information upon request and for scheduled appointments
+
+Each health care provider and health care facility shall, beginning January 1, 2022, in the case of an individual who schedules an item or service to be furnished to such individual by such provider or facility at least 3 business days before the date such item or service is to be so furnished, not later than 1 business day after the date of such scheduling (or, in the case of such an item or service scheduled at least 10 business days before the date such item or service is to be so furnished (or if requested by the individual), not later than 3 business days after the date of such scheduling or such request)—
+
+(1) inquire if such individual is enrolled in a group health plan, group or individual health insurance coverage offered by a health insurance issuer, or a Federal health care program (and if is so enrolled in such plan or coverage, seeking to have a claim for such item or service submitted to such plan or coverage); and
+
+(2) provide a notification (in clear and understandable language) of the good faith estimate of the expected charges for furnishing such item or service (including any item or service that is reasonably expected to be provided in conjunction with such scheduled item or service and such an item or service reasonably expected to be so provided by another health care provider or health care facility), with the expected billing and diagnostic codes for any such item or service, to—
+
+  (A) in the case the individual is enrolled in such a plan or such coverage (and is seeking to have a claim for such item or service submitted to such plan or coverage), such plan or issuer of such coverage; and
+
+  (B) in the case the individual is not described in subparagraph (A) and not enrolled in a Federal health care program, the individual.
+
+
+<a id="section-300gg-137"></a>
+## § 300gg–137. Patient-provider dispute resolution
+**(a) In general** Not later than January 1, 2022, the Secretary shall establish a process (in this subsection referred to as the “patient-provider dispute resolution process”) under which an uninsured individual, with respect to an item or service, who received, pursuant to [section 300gg–136 of this title](./chapter-6a-public-health-service.md#section-300gg-136), from a health care provider or health care facility a good-faith estimate of the expected charges for furnishing such item or service to such individual and who after being furnished such item or service by such provider or facility is billed by such provider or facility for such item or service for charges that are substantially in excess of such estimate, may seek a determination from a selected dispute resolution entity for the charges to be paid by such individual (in lieu of such amount so billed) to such provider or facility for such item or service. For purposes of this subsection, the term “uninsured individual” means, with respect to an item or service, an individual who does not have benefits for such item or service under a group health plan, group or individual health insurance coverage offered by a health insurance issuer, Federal health care program (as defined in [section 1320a–7b(f) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1320a–7b/f&num=0&edition=prelim)), or a health benefits plan under chapter 89 of title 5 (or an individual who has benefits for such item or service under a group health plan or individual or group health insurance coverage offered by a health insurance issuer, but who does not seek to have a claim for such item or service submitted to such plan or coverage).
+
+**(b) Selection of entities** Under the patient-provider dispute resolution process, the Secretary shall, with respect to a determination sought by an individual under subsection (a), with respect to charges to be paid by such individual to a health care provider or health care facility described in such paragraph for an item or service furnished to such individual by such provider or facility, provide for—
+
+(1) a method to select to make such determination an entity certified under subsection (d) that—
+
+  (A) is not a party to such determination or an employee or agent of such party;
+
+  (B) does not have a material familial, financial, or professional relationship with such a party; and
+
+  (C) does not otherwise have a conflict of interest with such a party (as determined by the Secretary); and
+
+(2) the provision of a notification of such selection to the individual and the provider or facility (as applicable) party to such determination.
+An entity selected pursuant to the previous sentence to make a determination described in such sentence shall be referred to in this subsection as the “selected dispute resolution entity” with respect to such determination.
+
+**(c) Administrative fee** The Secretary shall establish a fee to participate in the patient-provider dispute resolution process in such a manner as to not create a barrier to an uninsured individual’s access to such process.
+
+**(d) Certification** The Secretary shall establish or recognize a process to certify entities under this subparagraph.11 So in original. Such process shall ensure that an entity so certified satisfies at least the criteria specified in [section 300gg–111(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section300gg–111/c&num=0&edition=prelim).
+
+
+<a id="section-300gg-138"></a>
+## § 300gg–138. Continuity of care
+
+A health care provider or health care facility shall, in the case of an individual furnished items and services by such provider or facility for which coverage is provided under a group health plan or group or individual health insurance coverage pursuant to [section 300gg–113 of this title](./chapter-6a-public-health-service.md#section-300gg-113), [section 9818 of title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section9818&num=0&edition=prelim), or [section 1185g of title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1185g&num=0&edition=prelim)—
+
+(1) accept payment from such plan or such issuer (as applicable) (and cost-sharing from such individual, if applicable, in accordance with subsection (a)(2)(C) of such [section 300gg–113 of this title](./chapter-6a-public-health-service.md#section-300gg-113), 9818 of title 26, or 1185g of title 29) for such items and services as payment in full for such items and services; and
+
+(2) continue to adhere to all policies, procedures, and quality standards imposed by such plan or issuer with respect to such individual and such items and services in the same manner as if such termination had not occurred.
+
+
+<a id="section-300gg-139"></a>
+## § 300gg–139. Provider requirements to protect patients and improve the accuracy of provider directory information
+**(a) Provider business processes** Beginning not later than January 1, 2022, each health care provider and each health care facility shall have in place business processes to ensure the timely provision of provider directory information to a group health plan or a health insurance issuer offering group or individual health insurance coverage to support compliance by such plans or issuers with [section 300gg–115(a)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section300gg–115/a/1&num=0&edition=prelim), [section 1185i(a)(1) of title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1185i/a/1&num=0&edition=prelim), or [section 9820(a)(1) of title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section9820/a/1&num=0&edition=prelim), as applicable. Such providers shall submit provider directory information to a plan or issuers, at a minimum—
+
+(1) when the provider or facility begins a network agreement with a plan or with an issuer with respect to certain coverage;
+
+(2) when the provider or facility terminates a network agreement with a plan or with an issuer with respect to certain coverage;
+
+(3) when there are material changes to the content of provider directory information of the provider or facility described in [section 300gg–115(a)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section300gg–115/a/1&num=0&edition=prelim), [section 1185i(a)(1) of title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1185i/a/1&num=0&edition=prelim), or [section 9820(a)(1) of title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section9820/a/1&num=0&edition=prelim), as applicable; and
+
+(4) at any other time (including upon the request of such issuer or plan) determined appropriate by the provider, facility, or the Secretary.
+
+**(b) Refunds to enrollees** If a health care provider submits a bill to an enrollee based on cost-sharing for treatment or services provided by the health care provider that is in excess of the normal cost-sharing applied for such treatment or services provided in-network, as prohibited under [section 300gg–115(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section300gg–115/b&num=0&edition=prelim), [section 1185i(b) of title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1185i/b&num=0&edition=prelim), or [section 9820(b) of title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section9820/b&num=0&edition=prelim), as applicable, and the enrollee pays such bill, the provider shall reimburse the enrollee for the full amount paid by the enrollee in excess of the in-network cost-sharing amount for the treatment or services involved, plus interest, at an interest rate determined by the Secretary.
+
+**(c) Limitation** Nothing in this section shall prohibit a provider from requiring in the terms of a contract, or contract termination, with a group health plan or health insurance issuer—
+
+(1) that the plan or issuer remove, at the time of termination of such contract, the provider from a directory of the plan or issuer described in [section 300gg–115(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section300gg–115/a&num=0&edition=prelim), [section 1185i(a) of title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1185i/a&num=0&edition=prelim), or [section 9820(a) of title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section9820/a&num=0&edition=prelim), as applicable; or
+
+(2) that the plan or issuer bear financial responsibility, including under [section 300gg–115(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section300gg–115/b&num=0&edition=prelim), [section 1185i(b) of title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1185i/b&num=0&edition=prelim), or [section 9820(b) of title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section9820/b&num=0&edition=prelim), as applicable, for providing inaccurate network status information to an enrollee.
+
+**(d) Definition** For purposes of this section, the term “provider directory information” includes the names, addresses, specialty, telephone numbers, and digital contact information of individual health care providers, and the names, addresses, telephone numbers, and digital contact information of each medical group, clinic, or facility contracted to participate in any of the networks of the group health plan or health insurance coverage involved.
+
+**(e) Rule of construction** Nothing in this section shall be construed to preempt any provision of State law relating to health care provider directories.
 
 
 <a id="section-300gg-14"></a>
@@ -66958,6 +69310,9 @@ Section effective for plan years beginning on or after the date that is 6 months
 #### Effective Date
 Section effective for plan years beginning on or after the date that is 6 months after Mar. 23, 2010, see section 1004 of Pub. L. 111–148, set out as a note under [section 300gg–11 of this title](./chapter-6a-public-health-service.md#section-300gg-11).
 
+#### Consumer Protections Through Application of Health Plan External Review in Cases of Certain Surprise Medical Bills
+Pub. L. 116–260, div. BB, title I, § 110, Dec. 27, 2020, 134 Stat. 2861, provided that: “(a) In General.—In applying the provisions of section 2719(b) of the Public Health Service Act ([42 U.S.C. 300gg–19(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section300gg–19/b&num=0&edition=prelim)) to group health plans and health insurance issuers offering group or individual health insurance coverage, the Secretary of Health and Human Services, Secretary of Labor, and Secretary of the Treasury, shall require, beginning not later than January 1, 2022, the external review process described in paragraph (1) of such section to apply with respect to any adverse determination by such a plan or issuer under section 2799A–1 or 2799A–2 [probably means section 2799A–1 or 2799A–2 of the Public Health Service Act, [42 U.S.C. 300gg–111](./chapter-6a-public-health-service.md#section-300gg-111), 300gg–112], section 716 or 717 of the Employee Retirement Income Security Act of 1974 [[29 U.S.C. 1185e](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1185e&num=0&edition=prelim), 1185f], or section 9816 or 9817 of the Internal Revenue Code of 1986 [[26 U.S.C. 9816](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section9816&num=0&edition=prelim), 9817], including with respect to whether an item or service that is the subject to such a determination is an item or service to which such respective section applies. “(b) Definitions.—The terms ‘group health plan’; ‘health insurance issuer’; ‘group health insurance coverage’, and ‘individual health insurance coverage’ have the meanings given such terms in section 2791 of the Public Health Service Act ([42 U.S.C. 300gg–91](./chapter-6a-public-health-service.md#section-300gg-91)), section 733 of the Employee Retirement Income Security Act ([29 U.S.C. 1191b](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1191b&num=0&edition=prelim)), and section 9832 of the Internal Revenue Code [[26 U.S.C. 9832](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section9832&num=0&edition=prelim)], as applicable.”
+
 
 <a id="section-300gg-19a"></a>
 ## § 300gg–19a. Patient protections
@@ -67021,13 +69376,24 @@ Section effective for plan years beginning on or after the date that is 6 months
 
   (B) preclude the group health plan or health insurance issuer involved from requiring that the obstetrical or gynecological provider notify the primary care health care professional or the plan or issuer of treatment decisions.
 
+**(e) Application** The provisions of this section shall not apply with respect to a group health plan, health insurance issuers, or group or individual health insurance coverage with respect to plan years beginning on or on 55 So in original. January 1, 2022.
+
 ### Statutory Notes
+
+#### Applicability of Amendment
+Amendment of section by section 102(a)(3)(A) of div. BB of Pub. L. 116–260 applicable with respect to plan years beginning on or after Jan. 1, 2022. See 2020 Amendment note below.
 
 #### References in Text
 Section 2701 of this Act, referred to in subsec. (b)(1)(D), is a reference to section 2701 of act July 1, 1944. Section 2701, which was classified to [section 300gg of this title](./chapter-6a-public-health-service.md#section-300gg), was renumbered section 2704, effective for plan years beginning on or after Jan. 1, 2014, with certain exceptions, and amended, by Pub. L. 111–148, title I, §§ 1201(2), 1563(c)(1), formerly § 1562(c)(1), title X, § 10107(b)(1), Mar. 23, 2010, 124 Stat. 154, 264, 911, and was transferred to [section 300gg–3 of this title](./chapter-6a-public-health-service.md#section-300gg-3). A new section 2701 of act July 1, 1944, related to fair health insurance premiums, was added, effective for plan years beginning on or after Jan. 1, 2014, and amended, by Pub. L. 111–148, title I, § 1201(4), title X, § 10103(a), Mar. 23, 2010, 124 Stat. 155, 892, and is classified to [section 300gg of this title](./chapter-6a-public-health-service.md#section-300gg).
 
 #### Codification
 Pub. L. 111–148, which directed amendment of subpart II of part A of “title XVIII” of act July 1, 1944, by inserting section 2719A after section 2719, was executed by making the insertion in subpart II of part A of title XXVII of the Act, to reflect the probable intent of Congress.
+
+#### Amendments
+2020—Subsec. (e). Pub. L. 116–260 added subsec. (e).
+
+#### Effective Date of 2020 Amendment
+Amendment by Pub. L. 116–260 applicable with respect to plan years beginning on or after Jan. 1, 2022, see section 102(e) of div. BB of Pub. L. 116–260, set out as a note under [section 8902 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section8902&num=0&edition=prelim), Government Organization and Employees.
 
 
 <a id="section-300gg-19b"></a>
@@ -67109,7 +69475,7 @@ Section effective for plan years beginning on or after Jan. 1, 2014, see section
 ## § 300gg–21. Exclusion of certain plans
 **(a) Limitation on application of provisions relating to group health plans**
 
-(1) **In general** — The requirements of subparts 1 and 2 11 See References in Text note below. shall apply with respect to group health plans only—
+(1) **In general** — The requirements of subparts 1 and 2 11 See References in Text note below. and part D shall apply with respect to group health plans only—
 
   (A) subject to paragraph (2), in the case of a plan that is a nonfederal governmental plan, and
 
@@ -67136,17 +69502,17 @@ Section effective for plan years beginning on or after Jan. 1, 2014, see section
 
   (E) *Election not applicable* — The election described in subparagraph (A) shall not be available with respect to the provisions of subparts I and II.
 
-**(b) Exception for certain benefits** The requirements of subparts 1 and 2 1 shall not apply to any individual coverage or any group health plan (or group health insurance coverage) in relation to its provision of excepted benefits described in [section 300gg–91(c)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section300gg–91/c/1&num=0&edition=prelim).
+**(b) Exception for certain benefits** The requirements of subparts 1 and 2 1 and part D shall not apply to any individual coverage or any group health plan (or group health insurance coverage) in relation to its provision of excepted benefits described in [section 300gg–91(c)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section300gg–91/c/1&num=0&edition=prelim).
 
 **(c) Exception for certain benefits if certain conditions met**
 
-(1) **Limited, excepted benefits** — The requirements of subparts 1 and 2 1 shall not apply to any individual coverage or any group health plan (and group health insurance coverage offered in connection with a group health plan) in relation to its provision of excepted benefits described in [section 300gg–91(c)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section300gg–91/c/2&num=0&edition=prelim) if the benefits—
+(1) **Limited, excepted benefits** — The requirements of subparts 1 and 2 1 and part D shall not apply to any individual coverage or any group health plan (and group health insurance coverage offered in connection with a group health plan) in relation to its provision of excepted benefits described in [section 300gg–91(c)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section300gg–91/c/2&num=0&edition=prelim) if the benefits—
 
   (A) are provided under a separate policy, certificate, or contract of insurance; or
 
   (B) are otherwise not an integral part of the plan.
 
-(2) **Noncoordinated, excepted benefits** — The requirements of subparts 1 and 2 1 shall not apply to any individual coverage or any group health plan (and group health insurance coverage offered in connection with a group health plan) in relation to its provision of excepted benefits described in [section 300gg–91(c)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section300gg–91/c/3&num=0&edition=prelim) if all of the following conditions are met:
+(2) **Noncoordinated, excepted benefits** — The requirements of subparts 1 and 2 1 and part D shall not apply to any individual coverage or any group health plan (and group health insurance coverage offered in connection with a group health plan) in relation to its provision of excepted benefits described in [section 300gg–91(c)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section300gg–91/c/3&num=0&edition=prelim) if all of the following conditions are met:
 
   (A) The benefits are provided under a separate policy, certificate, or contract of insurance.
 
@@ -67154,9 +69520,9 @@ Section effective for plan years beginning on or after Jan. 1, 2014, see section
 
   (C) Such benefits are paid with respect to an event without regard to whether benefits are provided with respect to such an event under any group health plan maintained by the same plan sponsor or, with respect to individual coverage, under any health insurance coverage maintained by the same health insurance issuer.
 
-(3) **Supplemental excepted benefits** — The requirements of this part shall not apply to any individual coverage or any group health plan (and group health insurance coverage) in relation to its provision of excepted benefits described in section 300gg–91(c)(4) 1 of this title if the benefits are provided under a separate policy, certificate, or contract of insurance.
+(3) **Supplemental excepted benefits** — The requirements of this part and part D shall not apply to any individual coverage or any group health plan (and group health insurance coverage) in relation to its provision of excepted benefits described in section 300gg–91(c)(4) 1 of this title if the benefits are provided under a separate policy, certificate, or contract of insurance.
 
-**(d) Treatment of partnerships** For purposes of this part—
+**(d) Treatment of partnerships** For purposes of this part and part D—
 
 (1) **Treatment as a group health plan** — Any plan, fund, or program which would not be (but for this subsection) an employee welfare benefit plan and which is established or maintained by a partnership, to the extent that such plan, fund, or program provides medical care (including items and services paid for as medical care) to present or former partners in the partnership or to their dependents (as defined under the terms of the plan, fund, or program), directly or through insurance, reimbursement, or otherwise, shall be treated (subject to paragraph (2)) as an employee welfare benefit plan which is a group health plan.
 
@@ -67171,6 +69537,9 @@ Section effective for plan years beginning on or after Jan. 1, 2014, see section
 
 ### Statutory Notes
 
+#### Applicability of Amendment
+Amendment of section by section 102(a)(3)(B) of div. BB of Pub. L. 116–260 applicable with respect to plan years beginning on or after Jan. 1, 2022. See 2020 Amendment notes below.
+
 #### References in Text
 Subparts 1 and 2, referred to in subsecs. (a)(1), (2)(A), (b), and (c)(1), (2), were amended by Pub. L. 111–148, title I, §§ 1001(5), 1201(1), 1563(c)(2), (11), formerly § 1562(c)(2), (11), title X, § 10107(b)(1), Mar. 23, 2010, 124 Stat. 130, 154, 265, 268, 911. The subpart 1 designation and heading “portability, access, and renewability requirements” were struck out and a new subpart I designation and heading “general reform” were enacted preceding [section 300gg of this title](./chapter-6a-public-health-service.md#section-300gg), effective for plan years beginning on or after Jan. 1, 2014. A new subpart II designation and heading “improving coverage” were enacted preceding [section 300gg–11 of this title](./chapter-6a-public-health-service.md#section-300gg-11). The subpart 2 designation and heading “other requirements” were struck out preceding [section 300gg–4 of this title](./chapter-6a-public-health-service.md#section-300gg-4), and subpart 4 was redesignated as subpart 2 “exclusion of plans; enforcement; preemption” preceding [section 300gg–21 of this title](./chapter-6a-public-health-service.md#section-300gg-21).
 
@@ -67184,6 +69553,10 @@ Section 2702, referred to in subsec. (a)(2)(D), is a reference to section 2702 o
 A prior section 2722 of act July 1, 1944, was renumbered section 2723 and is classified to [section 300gg–22 of this title](./chapter-6a-public-health-service.md#section-300gg-22).
 
 #### Amendments
+2020—Subsecs. (a)(1), (b), (c)(1), (2). Pub. L. 116–260, § 102(a)(3)(B)(i)–(iv), inserted “and part D” after “subparts 1 and 2” in introductory provisions of subsecs. (a)(1) and (c)(1), (2) and in subsec. (b).
+
+Subsecs. (c)(3), (d). Pub. L. 116–260, § 102(a)(3)(B)(v), (vi), inserted “and part D” after “this part” in subsec. (c)(3) and in introductory provisions of subsec. (d).
+
 2010—Pub. L. 111–148, § 1563(c)(12)(B), formerly § 1562(c)(12)(B), as renumbered by Pub. L. 111–148, § 10107(b)(1), which directed amendment of section by substituting “subpart 1” for “subparts 1 through 3” wherever appearing, could not be executed because the words “subparts 1 through 3” did not appear subsequent to amendments by section 1563(a)(2)(A), (B)(ii), (3), (4)(A), (B)(i) of Pub. L. 111–148. See below.
 
 Subsec. (a). Pub. L. 111–148, § 1563(c)(12)(C), formerly § 1562(c)(12)(C), as renumbered by Pub. L. 111–148, § 10107(b)(1), redesignated subsec. (b) as (a).
@@ -67226,6 +69599,9 @@ Subsec. (b)(2)(D). Pub. L. 110–233, § 102(c)(2), added subpar. (D).
 
 Subsec. (b) to (d). Pub. L. 104–204, § 604(b)(1)(B), substituted “subparts 1 through 3” for “subparts 1 and 2” wherever appearing.
 
+#### Effective Date of 2020 Amendment
+Amendment by Pub. L. 116–260 applicable with respect to plan years beginning on or after Jan. 1, 2022, see section 102(e) of div. BB of Pub. L. 116–260, set out as a note under [section 8902 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section8902&num=0&edition=prelim), Government Organization and Employees.
+
 #### Effective Date of 2008 Amendment
 Pub. L. 110–233, title I, § 102(d)(2), May 21, 2008, 122 Stat. 895, provided that: “The amendments made by this section [enacting [section 300gg–53 of this title](./chapter-6a-public-health-service.md#section-300gg-53) and amending this section and sections 300gg–1, 300gg–22, 300gg–61, and 300gg–91 of this title] shall apply— “(A) with respect to group health plans, and health insurance coverage offered in connection with group health plans, for plan years beginning after the date that is 1 year after the date of enactment of this Act [May 21, 2008]; and “(B) with respect to health insurance coverage offered, sold, issued, renewed, in effect, or operated in the individual market after the date that is 1 year after the date of enactment of this Act.”
 
@@ -67246,13 +69622,13 @@ Pub. L. 110–233, title I, § 106, May 21, 2008, 122 Stat. 905, provided that: 
 ## § 300gg–22. Enforcement
 **(a) State enforcement**
 
-(1) **State authority** — Subject to section 300gg–23 11 See References in Text note below. of this title, each State may require that health insurance issuers that issue, sell, renew, or offer health insurance coverage in the State in the individual or group market meet the requirements of this part with respect to such issuers.
+(1) **State authority** — Subject to section 300gg–23 11 See References in Text note below. of this title, each State may require that health insurance issuers that issue, sell, renew, or offer health insurance coverage in the State in the individual or group market meet the requirements of this part and part D with respect to such issuers.
 
-(2) **Failure to implement provisions** — In the case of a determination by the Secretary that a State has failed to substantially enforce a provision (or provisions) in this part with respect to health insurance issuers in the State, the Secretary shall enforce such provision (or provisions) under subsection (b) insofar as they relate to the issuance, sale, renewal, and offering of health insurance coverage in connection with group health plans or individual health insurance coverage in such State.
+(2) **Failure to implement provisions** — In the case of a determination by the Secretary that a State has failed to substantially enforce a provision (or provisions) in this part or part D with respect to health insurance issuers in the State, the Secretary shall enforce such provision (or provisions) under subsection (b) insofar as they relate to the issuance, sale, renewal, and offering of health insurance coverage in connection with group health plans or individual health insurance coverage in such State.
 
 **(b) Secretarial enforcement authority**
 
-(1) **Limitation** — The provisions of this subsection shall apply to enforcement of a provision (or provisions) of this part only—
+(1) **Limitation** — The provisions of this subsection shall apply to enforcement of a provision (or provisions) of this part or part D only—
 
   (A) as provided under subsection (a)(2); and
 
@@ -67260,7 +69636,7 @@ Pub. L. 110–233, title I, § 106, May 21, 2008, 122 Stat. 905, provided that: 
 
 (2) **Imposition of penalties** — In the cases described in paragraph (1)—
 
-  (A) *In general* — Subject to the succeeding provisions of this subsection, any non-Federal governmental plan that is a group health plan and any health insurance issuer that fails to meet a provision of this part applicable to such plan or issuer is subject to a civil money penalty under this subsection.
+  (A) *In general* — Subject to the succeeding provisions of this subsection, any non-Federal governmental plan that is a group health plan and any health insurance issuer that fails to meet a provision of this part or part D applicable to such plan or issuer is subject to a civil money penalty under this subsection.
 
   (B) *Liability for penalty* — In the case of a failure by—
 
@@ -67276,7 +69652,7 @@ Pub. L. 110–233, title I, § 106, May 21, 2008, 122 Stat. 905, provided that: 
 
     (i) *In general* — The maximum amount of penalty imposed under this paragraph is $100 for each day for each individual with respect to which such a failure occurs.
 
-    (ii) *Considerations in imposition* — In determining the amount of any penalty to be assessed under this paragraph, the Secretary shall take into account the previous record of compliance of the entity being assessed with the applicable provisions of this part and the gravity of the violation.
+    (ii) *Considerations in imposition* — In determining the amount of any penalty to be assessed under this paragraph, the Secretary shall take into account the previous record of compliance of the entity being assessed with the applicable provisions of this part and part D and the gravity of the violation.
 
     (iii) *Limitations*
 
@@ -67353,6 +69729,9 @@ Pub. L. 110–233, title I, § 106, May 21, 2008, 122 Stat. 905, provided that: 
 
 ### Statutory Notes
 
+#### Applicability of Amendment
+Amendment of section by section 102(a)(3)(C) of div. BB of Pub. L. 116–260 applicable with respect to plan years beginning on or after Jan. 1, 2022. See 2020 Amendment notes below.
+
 #### References in Text
 [Section 300gg–23 of this title](./chapter-6a-public-health-service.md#section-300gg-23), referred to in subsec. (a)(1), was in the original section “2723”, and was translated as meaning section 2724 of act July 1, 1944, to reflect the probable intent of Congress and the renumbering of section 2723 as 2724 by Pub. L. 111–148, title I, §§ 1001(4), 1563(c)(14)(B), formerly § 1562(c)(14)(B), title X, § 10107(b)(1), Mar. 23, 2010, 124 Stat. 130, 269, 911.
 
@@ -67364,6 +69743,12 @@ Section 2701, referred to in subsec. (b)(3)(A), is a reference to section 2701 o
 A prior section 2723 of act July 1, 1944, was renumbered section 2724 and is classified to [section 300gg–23 of this title](./chapter-6a-public-health-service.md#section-300gg-23).
 
 #### Amendments
+2020—Subsec. (a)(1). Pub. L. 116–260, § 102(a)(3)(C)(i), inserted “and part D” after “this part”.
+
+Subsecs. (a)(2), (b)(1), (2)(A). Pub. L. 116–260, § 102(a)(3)(C)(ii)–(iv), inserted “or part D” after “this part” in subsecs. (a)(2) and (b)(2)(A) and in introductory provisions of subsec. (b)(1).
+
+Subsec. (b)(2)(C)(ii). Pub. L. 116–260, § 102(a)(3)(C)(v), inserted “and part D” after “this part”.
+
 2010—Subsec. (a)(1). Pub. L. 111–148, § 1563(c)(13)(A)(i), formerly § 1562(c)(13)(A)(i), as renumbered by Pub. L. 111–148, § 10107(b)(1), substituted “individual or group market” for “small or large group markets”.
 
 Subsec. (a)(2). Pub. L. 111–148, § 1563(c)(13)(a)(ii), formerly § 1562(c)(13)(A)(ii), as renumbered by Pub. L. 111–148, § 10107(b)(1), inserted “or individual health insurance coverage” after “group health plans”.
@@ -67371,6 +69756,9 @@ Subsec. (a)(2). Pub. L. 111–148, § 1563(c)(13)(a)(ii), formerly § 1562(c)(13
 Subsec. (b)(1)(B). Pub. L. 111–148, § 1563(c)(13)(B), formerly § 1562(c)(13)(B), as renumbered by Pub. L. 111–148, § 10107(b)(1), inserted “individual health insurance coverage or” after “with respect to”.
 
 2008—Subsec. (b)(3). Pub. L. 110–233 added par. (3).
+
+#### Effective Date of 2020 Amendment
+Amendment by Pub. L. 116–260 applicable with respect to plan years beginning on or after Jan. 1, 2022, see section 102(e) of div. BB of Pub. L. 116–260, set out as a note under [section 8902 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section8902&num=0&edition=prelim), Government Organization and Employees.
 
 #### Effective Date of 2008 Amendment
 Amendment by Pub. L. 110–233 applicable, with respect to group health plans and health insurance coverage offered in connection with group health plans, for plan years beginning after the date that is one year after May 21, 2008, and, with respect to health insurance coverage offered, sold, issued, renewed, in effect, or operated in the individual market, after the date that is one year after May 21, 2008, see section 102(d)(2) of Pub. L. 110–233, set out as a note under [section 300gg–21 of this title](./chapter-6a-public-health-service.md#section-300gg-21).
@@ -67383,9 +69771,9 @@ Section applicable with respect to group health plans, and health insurance cove
 ## § 300gg–23. Preemption; State flexibility; construction
 **(a) Continued applicability of State law with respect to health insurance issuers**
 
-(1) **In general** — Subject to paragraph (2) and except as provided in subsection (b), this part and part C insofar as it relates to this part shall not be construed to supersede any provision of State law which establishes, implements, or continues in effect any standard or requirement solely relating to health insurance issuers in connection with individual or group health insurance coverage except to the extent that such standard or requirement prevents the application of a requirement of this part.
+(1) **In general** — Subject to paragraph (2) and except as provided in subsection (b), this part, part D, and part C insofar as it relates to this part or part D shall not be construed to supersede any provision of State law which establishes, implements, or continues in effect any standard or requirement solely relating to health insurance issuers in connection with individual or group health insurance coverage except to the extent that such standard or requirement prevents the application of a requirement of this part or part D.
 
-(2) **Continued preemption with respect to group health plans** — Nothing in this part shall be construed to affect or modify the provisions of [section 1144 of title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1144&num=0&edition=prelim) with respect to group health plans.
+(2) **Continued preemption with respect to group health plans** — Nothing in this part or part D shall be construed to affect or modify the provisions of [section 1144 of title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1144&num=0&edition=prelim) with respect to group health plans.
 
 **(b) Special rules in case of portability requirements**
 
@@ -67407,7 +69795,7 @@ Section applicable with respect to group health plans, and health insurance cove
 
   (vii) reduces the maximum period permitted in an affiliation period under section 2701(g)(1)(B) 1.
 
-**(c) Rules of construction** Nothing in this part (other than section 2704) 1 shall be construed as requiring a group health plan or health insurance coverage to provide specific benefits under the terms of such plan or coverage.
+**(c) Rules of construction** Nothing in this part (other than section 2704) 1 or part D shall be construed as requiring a group health plan or health insurance coverage to provide specific benefits under the terms of such plan or coverage.
 
 **(d) Definitions** For purposes of this section—
 
@@ -67417,6 +69805,9 @@ Section applicable with respect to group health plans, and health insurance cove
 
 ### Statutory Notes
 
+#### Applicability of Amendment
+Amendment of section by section 102(a)(3)(D) of div. BB of Pub. L. 116–260 applicable with respect to plan years beginning on or after Jan. 1, 2022. See 2020 Amendment notes below.
+
 #### References in Text
 Section 2701, referred to in subsec. (b), is a reference to section 2701 of act July 1, 1944. Section 2701, which was classified to [section 300gg of this title](./chapter-6a-public-health-service.md#section-300gg), was renumbered section 2704, effective for plan years beginning on or after Jan. 1, 2014, with certain exceptions, and amended, by Pub. L. 111–148, title I, §§ 1201(2), 1563(c)(1), formerly § 1562(c)(1), title X, § 10107(b)(1), Mar. 23, 2010, 124 Stat. 154, 264, 911, and was transferred to [section 300gg–3 of this title](./chapter-6a-public-health-service.md#section-300gg-3). A new section 2701 of act July 1, 1944, related to fair health insurance premiums, was added, effective for plan years beginning on or after Jan. 1, 2014, and amended, by Pub. L. 111–148, title I, § 1201(4), title X, § 10103(a), Mar. 23, 2010, 124 Stat. 155, 892, and is classified to [section 300gg of this title](./chapter-6a-public-health-service.md#section-300gg).
 
@@ -67425,9 +69816,18 @@ Section 701, referred to in subsec. (b)(1), probably means “section 2701” of
 Section 2704, referred to in subsec. (c), is a reference to section 2704 of act July 1, 1944. Section 2704, which was classified to [section 300gg–4 of this title](./chapter-6a-public-health-service.md#section-300gg-4), was renumbered section 2725, and amended by Pub. L. 111–148, title I, §§ 1001(2), 1563(c)(3), formerly § 1562(c)(3), title X, § 10107(b)(1), Mar. 23, 2010, 124 Stat. 130, 265, 911, and was transferred to [section 300gg–25 of this title](./chapter-6a-public-health-service.md#section-300gg-25). A new section 2704 of act July 1, 1944, related to prohibition of preexisting condition exclusions or other discrimination based on health status, was added, effective for plan years beginning on or after Jan. 1, 2014, with certain exceptions, and amended, by Pub. L. 111–148, title I, §§ 1201(2), 1563(c)(1), formerly § 1562(c)(1), title X, § 10107(b)(1), Mar. 23, 2010, 124 Stat. 154, 264, 911, and is classified to [section 300gg–3 of this title](./chapter-6a-public-health-service.md#section-300gg-3).
 
 #### Amendments
+2020—Subsec. (a)(1). Pub. L. 116–260, § 102(a)(3)(D)(i), substituted “this part, part D, and part C insofar as it relates to this part or part D” for “this part and part C insofar as it relates to this part” and inserted “or part D” before period at end.
+
+Subsec. (a)(2). Pub. L. 116–260, § 102(a)(3)(D)(ii), inserted “or part D” after “this part”.
+
+Subsec. (c). Pub. L. 116–260, § 102(a)(3)(D)(iii), inserted “or part D” after “this part (other than section 2704)”.
+
 2010—Subsec. (a)(1). Pub. L. 111–148, § 1563(c)(14)(A), formerly § 1562(c)(14)(A), as renumbered by Pub. L. 111–148, § 10107(b)(1), inserted “individual or” before “group health insurance”.
 
 1996—Subsec. (c). Pub. L. 104–204 inserted “(other than section 2704)” after “part”.
+
+#### Effective Date of 2020 Amendment
+Amendment by Pub. L. 116–260 applicable with respect to plan years beginning on or after Jan. 1, 2022, see section 102(e) of div. BB of Pub. L. 116–260, set out as a note under [section 8902 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section8902&num=0&edition=prelim), Government Organization and Employees.
 
 #### Effective Date of 1996 Amendment
 Amendment by Pub. L. 104–204 applicable with respect to group health plans for plan years beginning on or after Jan. 1, 1998, see section 604(c) of Pub. L. 104–204 set out as an Effective Date note under [section 300gg–25 of this title](./chapter-6a-public-health-service.md#section-300gg-25).
@@ -67640,6 +70040,56 @@ Pub. L. 104–204, title VI, § 602, Sept. 26, 1996, 110 Stat. 2935, provided th
 
   (D) *Public comment* — Prior to issuing any final guidance under this paragraph, the Secretary shall provide a public comment period of not less than 60 days during which any member of the public may provide comments on a draft of the guidance.
 
+(8) **Compliance requirements**
+
+  (A) *Nonquantitative treatment limitation (NQTL) requirements* — In the case of a group health plan or a health insurance issuer offering group or individual health insurance coverage that provides both medical and surgical benefits and mental health or substance use disorder benefits and that imposes nonquantitative treatment limitations (referred to in this section as “NQTLs”) on mental health or substance use disorder benefits, such plan or issuer shall perform and document comparative analyses of the design and application of NQTLs and, beginning 45 days after December 27, 2020, make available to the applicable State authority (or, as applicable, to the Secretary of Labor or the Secretary of Health and Human Services), upon request, the comparative analyses and the following information:
+
+    (i) The specific plan or coverage terms or other relevant terms regarding the NQTLs and a description of all mental health or substance use disorder and medical or surgical benefits to which each such term applies in each respective benefits classification.
+
+    (ii) The factors used to determine that the NQTLs will apply to mental health or substance use disorder benefits and medical or surgical benefits.
+
+    (iii) The evidentiary standards used for the factors identified in clause (ii), when applicable, provided that every factor shall be defined, and any other source or evidence relied upon to design and apply the NQTLs to mental health or substance use disorder benefits and medical or surgical benefits.
+
+    (iv) The comparative analyses demonstrating that the processes, strategies, evidentiary standards, and other factors used to apply the NQTLs to mental health or substance use disorder benefits, as written and in operation, are comparable to, and are applied no more stringently than, the processes, strategies, evidentiary standards, and other factors used to apply the NQTLs to medical or surgical benefits in the benefits classification.
+
+    (v) The specific findings and conclusions reached by the group health plan or health insurance issuer with respect to the health insurance coverage, including any results of the analyses described in this subparagraph that indicate that the plan or coverage is or is not in compliance with this section.
+
+  (B) *Secretary request process*
+
+    (i) *Submission upon request* — The Secretary shall request that a group health plan or a health insurance issuer offering group or individual health insurance coverage submit the comparative analyses described in subparagraph (A) for plans that involve potential violations of this section or complaints regarding noncompliance with this section that concern NQTLs and any other instances in which the Secretary determines appropriate. The Secretary shall request not fewer than 20 such analyses per year.
+
+    (ii) *Additional information* — In instances in which the Secretary has concluded that the group health plan or health insurance issuer with respect to health insurance coverage has not submitted sufficient information for the Secretary to review the comparative analyses described in subparagraph (A), as requested under clause (i), the Secretary shall specify to the plan or issuer the information the plan or issuer must submit to be responsive to the request under clause (i) for the Secretary to review the comparative analyses described in subparagraph (A) for compliance with this section. Nothing in this paragraph shall require the Secretary to conclude that a group health plan or health insurance issuer is in compliance with this section solely based upon the inspection of the comparative analyses described in subparagraph (A), as requested under clause (i).
+
+    (iii) *Required action*
+
+      (I) *In general* — In instances in which the Secretary has reviewed the comparative analyses described in subparagraph (A), as requested under clause (i), and determined that the group health plan or health insurance issuer is not in compliance with this section, the plan or issuer—
+
+        (aa) shall specify to the Secretary the actions the plan or issuer will take to be in compliance with this section and provide to the Secretary additional comparative analyses described in subparagraph (A) that demonstrate compliance with this section not later than 45 days after the initial determination by the Secretary that the plan or issuer is not in compliance; and
+
+        (bb) following the 45-day corrective action period under item (aa), if the Secretary makes a final determination that the plan or issuer still is not in compliance with this section, not later than 7 days after such determination, shall notify all individuals enrolled in the plan or applicable health insurance coverage offered by the issuer that the plan or issuer, with respect to such coverage, has been determined to be not in compliance with this section.
+
+      (II) *Exemption from disclosure* — Documents or communications produced in connection with the Secretary’s recommendations to a group health plan or health insurance issuer shall not be subject to disclosure pursuant to [section 552 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section552&num=0&edition=prelim).
+
+    (iv) *Report* — Not later than 1 year after December 27, 2020, and not later than October 1 of each year thereafter, the Secretary shall submit to Congress, and make publicly available, a report that contains—
+
+      (I) a summary of the comparative analyses requested under clause (i), including the identity of each group health plan or health insurance issuer, with respect to particular health insurance coverage that is determined to be not in compliance after the final determination by the Secretary described in clause (iii)(I)(bb);
+
+      (II) the Secretary’s conclusions as to whether each group health plan or health insurance issuer submitted sufficient information for the Secretary to review the comparative analyses requested under clause (i) for compliance with this section;
+
+      (III) for each group health plan or health insurance issuer that did submit sufficient information for the Secretary to review the comparative analyses requested under clause (i), the Secretary’s conclusions as to whether and why the plan or issuer is in compliance with the requirements under this section;
+
+      (IV) the Secretary’s specifications described in clause (ii) for each group health plan or health insurance issuer that the Secretary determined did not submit sufficient information for the Secretary to review the comparative analyses requested under clause (i) for compliance with this section; and
+
+      (V) the Secretary’s specifications described in clause (iii) of the actions each group health plan or health insurance issuer that the Secretary determined is not in compliance with this section must take to be in compliance with this section, including the reason why the Secretary determined the plan or issuer is not in compliance.
+
+  (C) *Compliance program guidance document update process*
+
+    (i) *In general* — The Secretary shall include instances of noncompliance that the Secretary discovers upon reviewing the comparative analyses requested under subparagraph (B)(i) in the compliance program guidance document described in paragraph (6), as it is updated every 2 years, except that such instances shall not disclose any protected health information or individually identifiable information.
+
+    (ii) *Guidance and regulations* — Not later than 18 months after December 27, 2020, the Secretary shall finalize any draft or interim guidance and regulations relating to mental health parity under this section. Such draft guidance shall include guidance to clarify the process and timeline for current and potential participants and beneficiaries (and authorized representatives and health care providers of such participants and beneficiaries) with respect to plans to file complaints of such plans or issuers being in violation of this section, including guidance, by plan type, on the relevant State, regional, or national office with which such complaints should be filed.
+
+    (iii) *State* — The Secretary shall share information on findings of compliance and noncompliance discovered upon reviewing the comparative analyses requested under subparagraph (B)(i) shall be shared with the State where the group health plan is located or the State where the health insurance issuer is licensed to do business for coverage offered by a health insurance issuer in the group market, in accordance with paragraph (6)(B)(iii)(II).
+
 **(b) Construction** Nothing in this section shall be construed—
 
 (1) as requiring a group health plan or a health insurance issuer offering group or individual health insurance coverage to provide any mental health or substance use disorder benefits; or
@@ -67704,6 +70154,8 @@ Pub. L. 104–204, title VI, § 602, Sept. 26, 1996, 110 Stat. 2935, provided th
 Section was formerly classified to [section 300gg–5 of this title](./chapter-6a-public-health-service.md#section-300gg-5) prior to renumbering by Pub. L. 111–148.
 
 #### Amendments
+2020—Subsec. (a)(8). Pub. L. 116–260 added par. (8).
+
 2016—Subsec. (a)(6), (7). Pub. L. 114–255 added pars. (6) and (7).
 
 2010—Subsecs. (a), (b). Pub. L. 111–148, § 1563(c)(4)(A), (B), formerly § 1562(c)(4)(A), (B), as renumbered by Pub. L. 111–148, § 10107(b)(1), substituted “or a health insurance issuer offering group or individual health insurance coverage” for “(or health insurance coverage offered in connection with such a plan)” wherever appearing.
@@ -68722,6 +71174,26 @@ Section applicable with respect to health insurance coverage offered, sold, issu
 Nothing in the amendments made by title II of Pub. L. 107–210, other than provisions relating to COBRA continuation coverage and reporting requirements, to be construed as creating a new mandate on any party regarding health insurance coverage, see section 203(f) of Pub. L. 107–210, set out as a note under [section 35 of Title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section35&num=0&edition=prelim), Internal Revenue Code.
 
 
+<a id="section-300gg-46"></a>
+## § 300gg–46. Disclosure to enrollees of individual market coverage
+**(a) In general** A health insurance issuer offering individual health insurance coverage or a health insurance issuer offering short-term limited duration insurance coverage shall make disclosures to enrollees in such coverage, as described in subsection (b), and reports to the Secretary, as described in subsection (c), regarding direct or indirect compensation provided by the issuer to an agent or broker associated with enrolling individuals in such coverage.
+
+**(b) Disclosure** A health insurance issuer described in subsection (a) shall disclose to an enrollee the amount of direct or indirect compensation provided to an agent or broker for services provided by such agent or broker associated with plan selection and enrollment. Such disclosure shall be—
+
+(1) made prior to the individual finalizing plan selection; and
+
+(2) included on any documentation confirming the individual’s enrollment.
+
+**(c) Reporting** A health insurance issuer described in subsection (a) shall annually report to the Secretary, prior to the beginning of open enrollment, any direct or indirect compensation provided to an agent or broker associated with enrolling individuals in such coverage.
+
+**(d) Rulemaking** Not later than 1 year after December 27, 2020, the Secretary shall finalize, through notice-and-comment rulemaking, the timing, form, and manner in which issuers described in subsection (a) are required to make the disclosures described in subsection (b) and the reports described in subsection (c). Such rulemaking may also include adjustments to notice requirements to reflect the different processes for plan renewals, in order to provide enrollees with full, timely information.
+
+### Statutory Notes
+
+#### Effective Date
+Section applicable beginning 1 year after Dec. 27, 2020, see section 202(e) of div. BB of Pub. L. 116–260, set out as an Effective Date of 2020 Amendment note under [section 1108 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1108&num=0&edition=prelim), Labor.
+
+
 <a id="section-300gg-5"></a>
 ## § 300gg–5. Non-discrimination in health care
 **(a) Providers** A group health plan and a health insurance issuer offering group or individual health insurance coverage shall not discriminate with respect to participation under the plan or coverage against any health care provider who is acting within the scope of that provider’s license or certification under applicable State law. This section shall not require that a group health plan or health insurance issuer contract with any health care provider willing to abide by the terms and conditions for participation established by the plan or issuer. Nothing in this section shall be construed as preventing a group health plan, a health insurance issuer, or the Secretary from establishing varying reimbursement rates based on quality or performance measures.
@@ -68742,6 +71214,9 @@ Another prior section 2706 of act July 1, 1944, was successively renumbered by s
 
 #### Effective Date
 Section effective for plan years beginning on or after Jan. 1, 2014, see section 1255 of Pub. L. 111–148, set out as a note under [section 300gg of this title](./chapter-6a-public-health-service.md#section-300gg).
+
+#### Implementing Protections Against Provider Discrimination
+Pub. L. 116–260, div. BB, title I, § 108, Dec. 27, 2020, 134 Stat. 2859, provided that: “Not later than January 1, 2022, the Secretary of Health and Human Services, the Secretary of Labor, and the Secretary of the Treasury shall issue a proposed rule implementing the protections of section 2706(a) of the Public Health Service Act ([42 U.S.C. 300gg–5(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section300gg–5/a&num=0&edition=prelim)). The Secretaries shall accept and consider public comments on any proposed rule issued pursuant to this subsection for a period of 60 days after the date of such issuance. Not later than 6 months after the date of the conclusion of the comment period, the Secretaries shall issue a final rule implementing the protections of section 2706(a) of the Public Health Service Act ([42 U.S.C. 300gg–5(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section300gg–5/a&num=0&edition=prelim)).”
 
 
 <a id="section-300gg-51"></a>
@@ -70386,12 +72861,12 @@ Subsec. (g). Pub. L. 99–339, § 102(d), added subsec. (g).
 
   (A) A State which has primary enforcement responsibility for public water systems may grant one or more variances from an applicable national primary drinking water regulation to one or more public water systems within its jurisdiction which, because of characteristics of the raw water sources which are reasonably available to the systems, cannot meet the requirements respecting the maximum contaminant levels of such drinking water regulation. A variance may be issued to a system on condition that the system install the best technology, treatment techniques, or other means, which the Administrator finds are available (taking costs into consideration), and based upon an evaluation satisfactory to the State that indicates that alternative sources of water are not reasonably available to the system. The Administrator shall propose and promulgate his finding of the best available technology, treatment techniques or other means available for each contaminant for purposes of this subsection at the time he proposes and promulgates a maximum contaminant level for each such contaminant. The Administrator’s finding of best available technology, treatment techniques or other means for purposes of this subsection may vary depending on the number of persons served by the system or for other physical conditions related to engineering feasibility and costs of compliance with maximum contaminant levels as considered appropriate by the Administrator. Before a State may grant a variance under this subparagraph, the State must find that the variance will not result in an unreasonable risk to health. If a State grants a public water system a variance under this subparagraph, the State shall prescribe at the the 11 So in original. time the variance is granted, a schedule for—
 
-    (i) compliance (including increments of progress) by the public water system with each containment level requirement with respect to which the variance was granted, and
+    (i) compliance (including increments of progress) by the public water system with each contaminant level requirement with respect to which the variance was granted, and
 
     (ii) implementation by the public water system of such additional control measures as the State may require for each contaminant, subject to such contaminant level requirement, during the period ending on the date compliance with such requirement is required.
     Before a schedule prescribed by a State pursuant to this subparagraph may take effect, the State shall provide notice and opportunity for a public hearing on the schedule. A notice given pursuant to the preceding sentence may cover the prescribing of more than one such schedule and a hearing held pursuant to such notice shall include each of the schedules covered by the notice. A schedule prescribed pursuant to this subparagraph for a public water system granted a variance shall require compliance by the system with each contaminant level requirement with respect to which the variance was granted as expeditiously as practicable (as the State may reasonably determine).
 
-  (B) A State which has primary enforcement responsibility for public water systems may grant to one or more public water systems within its jurisdiction one or more variances from any provision of the national primary drinking water regulation which requires the use of a specified treatment technique with respect to a contaminant if the public water system applying for the variance demonstrates to the satisfaction of the State that such treatment technique is not necessary to protect the health of persons because of the nature of the raw water source of such system. A variance granted under this subparagraph shall be conditioned on such monitoring and other requirements as the Administrator may prescribe.
+  (B) A State which has primary enforcement responsibility for public water systems may grant to one or more public water systems within its jurisdiction one or more variances from any provision of a national primary drinking water regulation which requires the use of a specified treatment technique with respect to a contaminant if the public water system applying for the variance demonstrates to the satisfaction of the State that such treatment technique is not necessary to protect the health of persons because of the nature of the raw water source of such system. A variance granted under this subparagraph shall be conditioned on such monitoring and other requirements as the Administrator may prescribe.
 
   (C) Before a variance proposed to be granted by a State under subparagraph (A) or (B) may take effect, such State shall provide notice and opportunity for public hearing on the proposed variance. A notice given pursuant to the preceding sentence may cover the granting of more than one variance and a hearing held pursuant to such notice shall include each of the variances covered by the notice. The State shall promptly notify the Administrator of all variances granted by it. Such notification shall contain the reason for the variance (and in the case of a variance under subparagraph (A), the basis for the finding required by that subparagraph before the granting of the variance) and documentation of the need for the variance.
 
@@ -70413,7 +72888,7 @@ Subsec. (g). Pub. L. 99–339, § 102(d), added subsec. (g).
 
     (ii) The Administrator shall provide reasonable notice and public hearing on the provisions of each notice given pursuant to clause (i) of this subparagraph. After a hearing on a notice pursuant to such clause, the Administrator shall (I) rescind the finding for which the notice was given and promptly notify the State of such rescission, or (II) promulgate (with such modifications as he deems appropriate) such variance revocations and revised schedules or other requirements proposed in such notice as he deems appropriate. Not later than 180 days after the date a notice is given pursuant to clause (i) of this subparagraph, the Administrator shall complete the hearing on the notice and take the action required by the preceding sentence.
 
-    (iii) If a State is notified under clause (i) of this subparagraph of a finding of the Administrator made with respect to a variance granted a public water system within that State or to a schedule or other requirement for a variance and if, before a revocation of such variance or a revision of such schedule or other requirement promulgated by the Administrator takes effect, the State takes corrective action with respect to such variance or schedule or other requirement which the Administrator determines makes his finding inapplicable to such variance or schedule or other requirement, the Administrator shall rescind the application of his finding to that variance on schedule or other requirement. No variance revocation or revised schedule or other requirement may take effect before the expiration of 90 days following the date of the notice in which the revocation or revised schedule or other requirement was proposed.
+    (iii) If a State is notified under clause (i) of this subparagraph of a finding of the Administrator made with respect to a variance granted a public water system within that State or to a schedule or other requirement for a variance and if, before a revocation of such variance or a revision of such schedule or other requirement promulgated by the Administrator takes effect, the State takes corrective action with respect to such variance or schedule or other requirement which the Administrator determines makes his finding inapplicable to such variance or schedule or other requirement, the Administrator shall rescind the application of his finding to that variance or schedule or other requirement. No variance revocation or revised schedule or other requirement may take effect before the expiration of 90 days following the date of the notice in which the revocation or revised schedule or other requirement was proposed.
 
 (2) If a State does not have primary enforcement responsibility for public water systems, the Administrator shall have the same authority to grant variances in such State as the State would have under paragraph (1) if it had primary enforcement responsibility.
 
@@ -71426,7 +73901,7 @@ Subsec. (b)(7). Pub. L. 116–22, § 501(1), substituted “March 15” for “M
 
 Subsec. (b)(7)(A)(iii) to (v). Pub. L. 116–22, § 501(2), added cls. (iii) to (v) and struck out former cl. (iii) which read as follows: “procurement, stockpiling, maintenance, and replenishment of all products in the Strategic National Stockpile;”.
 
-Subsec. (b)(7)(D) to (F). Pub. L. 116–22, § 501(3), (4), added subpar. (D) and redesignated formers subpars. (D) and (E) as (E) and (F), respectively.
+Subsec. (b)(7)(D) to (F). Pub. L. 116–22, § 501(3), (4), added subpar. (D) and redesignated former subpars. (D) and (E) as (E) and (F), respectively.
 
 Subsec. (d)(1). Pub. L. 116–22, § 402(b)(1), substituted “Not later than March 15, 2020, and biennially thereafter” for “Not later than 180 days after March 13, 2013, and every year thereafter” and “Public Health Emergency Medical Countermeasures Enterprise established under [section 300hh–10a of this title](./chapter-6a-public-health-service.md#section-300hh-10a)” for “Director of the Biomedical Advanced Research and Development Authority, the Director of the National Institutes of Health, the Director of the Centers for Disease Control and Prevention, and the Commissioner of Food and Drugs”.
 
@@ -71813,7 +74288,7 @@ Subsec. (g). Pub. L. 116–22, § 305(a)(4), (6), redesignated subsec. (f) as (g
 
 (4) **Limitation** — An intermittent disaster-response appointee shall not be deemed an employee of the Department of Health and Human Services for purposes other than those specifically set forth in this section.
 
-**(e) Rule of construction regarding use of commissioned corps** If the Secretary assigns commissioned officers of the Regular or Reserve Corps to serve with the National Disaster Medical System, such assignments do not affect the terms and conditions of their appointments as commissioned officers of the Regular or Reserve Corps, respectively (including with respect to pay and allowances, retirement, benefits, rights, privileges, and immunities).
+**(e) Rule of construction regarding use of commissioned corps** If the Secretary assigns commissioned officers of the Regular or Reserve Corps 33 See Change of Name note below. to serve with the National Disaster Medical System, such assignments do not affect the terms and conditions of their appointments as commissioned officers of the Regular or Reserve Corps, respectively (including with respect to pay and allowances, retirement, benefits, rights, privileges, and immunities).
 
 **(f) Definition** For purposes of this section, the term “auxiliary services” includes mortuary services, veterinary services, and other services that are determined by the Secretary to be appropriate with respect to the needs referred to in subsection (a)(3)(A).
 
@@ -71822,7 +74297,7 @@ Subsec. (g). Pub. L. 116–22, § 305(a)(4), (6), redesignated subsec. (f) as (g
 ### Statutory Notes
 
 #### Amendment of Section
-For termination of amendment by section 301(d)(1) of Pub. L. 116–22, see Termination Date of 2019 Amendment note below.
+For termination of amendment by section 301(d)(3) of Pub. L. 116–22, see Termination Date of 2019 Amendment note below.
 
 #### References in Text
 The Omnibus Crime Control and Safe Streets Act of 1968, referred to in subsec. (c)(5), is Pub. L. 90–351, June 19, 1968, 82 Stat. 197. Part L of title I of the Act is classified generally to subchapter XI (§ 10281 et seq.) of chapter 101 of Title 34, Crime Control and Law Enforcement. For complete classification of this Act to the Code, see Short Title of 1968 Act note set out under [section 10101 of Title 34](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section10101&num=0&edition=prelim) and Tables.
@@ -71889,6 +74364,9 @@ Pub. L. 109–417, § 301(a)(3), redesignated subsec. (h) as (g). Former subsec.
 Subsec. (h). Pub. L. 109–417, § 301(a)(3), redesignated subsec. (h) as (g).
 
 Pub. L. 109–417, § 102(a)(4), substituted “Assistant Secretary for Preparedness and Response” for “Assistant Secretary for Public Health Emergency Preparedness”.
+
+#### Change of Name
+Reference to Reserve Corps of the Public Health Service deemed to be a reference to the Ready Reserve Corps, see [section 402(c)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section402/c/3&num=0&edition=prelim).
 
 #### Termination Date of 2019 Amendment
 Amendment by section 301(d)(1) of Pub. L. 116–22 to cease to have force or effect on Oct. 1, 2021, see section 301(d)(3) of Pub. L. 116–22, set out as a note under [section 10284 of Title 34](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section10284&num=0&edition=prelim), Crime Control and Law Enforcement.
@@ -72310,6 +74788,102 @@ The Secretary, acting through Administrator 11 So in original. Probably should b
 2019—Subsec. (a)(1). Pub. L. 116–22, § 607(b)(1), inserted “, including mosquito and other vector-borne diseases,” after “infectious diseases”.
 
 Subsec. (b). Pub. L. 116–22, § 607(b)(2), substituted “2019 through 2023” for “2010 through 2013” in introductory provisions.
+
+
+<a id="section-300hh-32"></a>
+## § 300hh–32. Enhanced support to assist health departments in addressing vector-borne diseases
+**(a) In general** The Secretary, acting through the Director of the Centers for Disease Control and Prevention, may enter into cooperative agreements with health departments of States, political subdivisions of States, and Indian Tribes and Tribal organizations in areas at high risk of vector-borne diseases in order to increase capacity to identify, report, prevent, and respond to such diseases and related outbreaks.
+
+**(b) Eligibility** To be eligible to enter into a cooperative agreement under this section, an entity described in subsection (a) shall prepare and submit to the Secretary an application at such time, in such manner, and containing such information as the Secretary may require, including a plan that describes—
+
+(1) how the applicant proposes to develop or expand programs to address vector-borne disease risks, including through—
+
+  (A) related training and workforce development;
+
+  (B) programmatic efforts to improve capacity to identify, report, prevent, and respond to such disease and related outbreaks; and
+
+  (C) other relevant activities identified by the Director of the Centers for Disease Control and Prevention, as appropriate;
+
+(2) the manner in which the applicant will coordinate with other Federal, Tribal, and State agencies and programs, as applicable, related to vector-borne diseases, as well as other relevant public and private organizations or agencies; and
+
+(3) the manner in which the applicant will evaluate the effectiveness of any program carried out under the cooperative agreement.
+
+**(c) Authorization of appropriations** For the purposes of carrying out this section, there are authorized to be appropriated $20,000,000 for each of fiscal years 2021 through 2025.
+
+
+<a id="section-300hh-33"></a>
+## § 300hh–33. Public health data system modernization
+**(a) Expanding CDC and public health department capabilities**
+
+(1) **In general** — The Secretary, acting through the Director of the Centers for Disease Control and Prevention, shall—
+
+  (A) conduct activities to expand, modernize, improve, and sustain applicable public health data systems used by the Centers for Disease Control and Prevention, including with respect to the interoperability and improvement of such systems (including as it relates to preparedness for, prevention and detection of, and response to public health emergencies); and
+
+  (B) award grants or cooperative agreements to State, local, Tribal, or territorial public health departments for the expansion and modernization of public health data systems, to assist public health departments and public health laboratories in—
+
+    (i) assessing current data infrastructure capabilities and gaps to—
+
+      (I) improve and increase consistency in data collection, storage, and analysis; and
+
+      (II) as appropriate, improve dissemination of public health-related information;
+
+    (ii) improving secure public health data collection, transmission, exchange, maintenance, and analysis, including with respect to demographic data, as appropriate;
+
+    (iii) improving the secure exchange of data between the Centers for Disease Control and Prevention, State, local, Tribal, and territorial public health departments, public health laboratories, public health organizations, and health care providers, including by public health officials in multiple jurisdictions within such State, as appropriate, and by simplifying and supporting reporting by health care providers, as applicable, pursuant to State law, including through the use of health information technology;
+
+    (iv) enhancing the interoperability of public health data systems (including systems created or accessed by public health departments) with health information technology, including with health information technology certified under [section 300jj–11(c)(5) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section300jj–11/c/5&num=0&edition=prelim);
+
+    (v) supporting and training data systems, data science, and informatics personnel;
+
+    (vi) supporting earlier disease and health condition detection, such as through near real-time data monitoring, to support rapid public health responses;
+
+    (vii) supporting activities within the applicable jurisdiction related to the expansion and modernization of electronic case reporting; and
+
+    (viii) developing and disseminating information related to the use and importance of public health data.
+
+(2) **Data standards** — In carrying out paragraph (1), the Secretary, acting through the Director of the Centers for Disease Control and Prevention, shall, as appropriate and in consultation with the Office of the National Coordinator for Health Information Technology, designate data and technology standards (including standards for interoperability) for public health data systems, with deference given to standards published by consensus-based standards development organizations with public input and voluntary consensus-based standards bodies.
+
+(3) **Public-private partnerships** — The Secretary may develop and utilize public-private partnerships for technical assistance, training, and related implementation support for State, local, Tribal, and territorial public health departments, and the Centers for Disease Control and Prevention, on the expansion and modernization of electronic case reporting and public health data systems, as applicable.
+
+**(b) Requirements**
+
+(1) **Health information technology standards** — The Secretary may not award a grant or cooperative agreement under subsection (a)(1)(B) unless the applicant uses or agrees to use standards endorsed by the National Coordinator for Health Information Technology pursuant to [section 300jj–11(c)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section300jj–11/c/1&num=0&edition=prelim) or adopted by the Secretary under [section 300jj–14 of this title](./chapter-6a-public-health-service.md#section-300jj-14).
+
+(2) **Waiver** — The Secretary may waive the requirement under paragraph (1) with respect to an applicant if the Secretary determines that the activities under subsection (a)(1)(B) cannot otherwise be carried out within the applicable jurisdiction.
+
+(3) **Application** — A State, local, Tribal, or territorial health department applying for a grant or cooperative agreement under this section shall submit an application to the Secretary at such time and in such manner as the Secretary may require. Such application shall include information describing—
+
+  (A) the activities that will be supported by the grant or cooperative agreement; and
+
+  (B) how the modernization of the public health data systems involved will support or impact the public health infrastructure of the health department, including a description of remaining gaps, if any, and the actions needed to address such gaps.
+
+**(c) Strategy and implementation plan** Not later than 180 days after December 27, 2020, the Secretary, acting through the Director of the Centers for Disease Control and Prevention, shall submit to the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Energy and Commerce of the House of Representatives a coordinated strategy and an accompanying implementation plan that identifies and demonstrates the measures the Secretary will utilize to—
+
+(1) update and improve applicable public health data systems used by the Centers for Disease Control and Prevention; and
+
+(2) carry out the activities described in this section to support the improvement of State, local, Tribal, and territorial public health data systems.
+
+**(d) Consultation** The Secretary, acting through the Director of the Centers for Disease Control and Prevention, shall consult with State, local, Tribal, and territorial health departments, professional medical and public health associations, associations representing hospitals or other health care entities, health information technology experts, and other appropriate public or private entities regarding the plan and grant program to modernize public health data systems pursuant to this section. Activities under this subsection may include the provision of technical assistance and training related to the exchange of information by such public health data systems used by relevant health care and public health entities at the local, State, Federal, Tribal, and territorial levels, and the development and utilization of public-private partnerships for implementation support applicable to this section.
+
+**(e) Report to Congress** Not later than 1 year after December 27, 2020, the Secretary shall submit a report to the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Energy and Commerce of the House of Representatives that includes—
+
+(1) a description of any barriers to—
+
+  (A) public health authorities implementing interoperable public health data systems and electronic case reporting;
+
+  (B) the exchange of information pursuant to electronic case reporting;
+
+  (C) reporting by health care providers using such public health data systems, as appropriate, and pursuant to State law; or
+
+  (D) improving demographic data collection or analysis;
+
+(2) an assessment of the potential public health impact of implementing electronic case reporting and interoperable public health data systems; and
+
+(3) a description of the activities carried out pursuant to this section.
+
+**(f) Electronic case reporting** In this section, the term “electronic case reporting” means the automated identification, generation, and bilateral exchange of reports of health events among electronic health record or health information technology systems and public health authorities.
+
+**(g) Authorization of appropriations** To carry out this section, there are authorized to be appropriated $100,000,000 for each of fiscal years 2021 through 2025.
 
 
 <a id="section-300h-1"></a>
@@ -72913,31 +75487,40 @@ The Social Security Act, referred to in par. (4)(A), is act Aug. 14, 1935, ch. 5
 
 
 <a id="section-300ii-3"></a>
-## § 300ii–3. Report
+## § 300ii–3. Data collection and reporting
+**(a) In general** Each State agency awarded a grant or cooperative agreement under [section 300ii–1 of this title](./chapter-6a-public-health-service.md#section-300ii-1) shall report such data, information, and metrics as the Secretary may require for purposes of—
 
-Not later than January 1, 2009, the Secretary shall report to the Congress on the activities undertaken under this subchapter. Such report shall evaluate—
+(1) evaluating State programs and activities funded pursuant to such grant or cooperative agreement, including any results pursuant to [section 300ii–1(d)(2)(B)(xii) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section300ii–1/d/2/B/xii&num=0&edition=prelim); and
 
-(1) the number of States that have lifespan respite care programs;
+(2) identifying effective programs and activities funded pursuant to [section 300ii–1 of this title](./chapter-6a-public-health-service.md#section-300ii-1).
 
-(2) the demographics of the caregivers receiving respite care services through grants or cooperative agreements under this subchapter; and
+**(b) Report** Not later than October 1, 2023, the Secretary shall submit a report to the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Energy and Commerce of the House of Representatives regarding the outcomes of the programs and activities funded pursuant to [section 300ii–1 of this title](./chapter-6a-public-health-service.md#section-300ii-1), including any effective programs and activities identified.
 
-(3) the effectiveness of entities receiving grants or cooperative agreements under this subchapter.
+### Statutory Notes
+
+#### Amendments
+2021—Pub. L. 116–324 amended section generally. Prior to amendment, section required the Secretary to report to Congress by Jan. 1, 2009, on the activities undertaken under this subchapter.
 
 
 <a id="section-300ii-4"></a>
 ## § 300ii–4. Authorization of appropriations
 
-There are authorized to be appropriated to carry out this subchapter—
+There are authorized to be appropriated to carry out this subchapter, $10,000,000 for each of fiscal years 2020 through fiscal year 2024.
 
-(1) $30,000,000 for fiscal year 2007;
+### Statutory Notes
 
-(2) $40,000,000 for fiscal year 2008;
+#### Amendments
+2021—Pub. L. 116–324 substituted “subchapter, $10,000,000 for each of fiscal years 2020 through fiscal year 2024.” for “subchapter—
 
-(3) $53,330,000 for fiscal year 2009;
+“(1) $30,000,000 for fiscal year 2007;
 
-(4) $71,110,000 for fiscal year 2010; and
+“(2) $40,000,000 for fiscal year 2008;
 
-(5) $94,810,000 for fiscal year 2011.
+“(3) $53,330,000 for fiscal year 2009;
+
+“(4) $71,110,000 for fiscal year 2010; and
+
+“(5) $94,810,000 for fiscal year 2011.”
 
 
 <a id="section-300i-1"></a>
@@ -73281,6 +75864,8 @@ Gerald R. Ford.
 
   (B) *Limitation on liability* — If a health care provider or health information technology developer makes information available based on a good faith reliance on consultations with the Office for Civil Rights of the Department of Health and Human Services pursuant to a referral under subparagraph (A), with respect to such information, the health care provider or developer shall not be liable for such disclosure or disclosures made pursuant to subparagraph (A).
 
+(4) **Application of authorities under inspector general act of 1978** — In carrying out this subsection, the Inspector General shall have the same authorities as provided under section 6 of the Inspector General Act of 1978 (5 U.S.C. App.).
+
 **(c) Identifying barriers to exchange of certified health information technology**
 
 (1) **Trusted exchange defined** — In this section, the term “trusted exchange” with respect to certified electronic health records means that the certified electronic health record technology has the technical capability to enable secure health information exchange between users and multiple certified electronic health record technology systems.
@@ -73320,6 +75905,14 @@ Gerald R. Ford.
 #### References in Text
 Section 264(c) of the Health Insurance Portability and Accountability Act of 1996, referred to in subsec. (b)(3)(A), is section 264(c) of Pub. L. 104–191, which is set out as a note under [section 1320d–2 of this title](./chapter-007-social-security.md#section-1320d-2).
 
+Section 6 of the Inspector General Act of 1978, referred to in subsec. (b)(4), is section 6 of Pub. L. 95–452, which is set out in the Appendix to Title 5, Government Organization and Employees.
+
+#### Amendments
+2021—Subsec. (b)(4). Pub. L. 116–321 added par. (4).
+
+#### Effective Date of 2021 Amendment
+Pub. L. 116–321, § 2(b), Jan. 5, 2021, 134 Stat. 5073, provided that: “The amendment made by subsection (a) [amending this section] shall take effect as if included in the enactment of the 21st Century Cures Act (Public Law 114–255).”
+
 
 <a id="section-300jj-11"></a>
 ## § 300jj–11. Definitions
@@ -73358,7 +75951,7 @@ In this subchapter:
 
 (13) **Qualified electronic health record** — The term “qualified electronic health record” means an electronic record of health-related information on an individual that—
 
-  (A) includes patient demographic and clinical health information, such as medical history and problem lists; and
+  (A) includes patient demographic and clinical health information, such as medical history and problem lists;
 
   (B) has the capacity—
 
@@ -73368,7 +75961,9 @@ In this subchapter:
 
     (iii) to capture and query information relevant to health care quality; and
 
-    (iv) to exchange electronic health information with, and integrate such information from other sources.
+    (iv) to exchange electronic health information with, and integrate such information from other sources; and
+
+  (C) includes, or is capable of including, a real-time benefit tool that conveys patient-specific real-time cost and coverage information with respect to prescription drugs that, with respect to any health information technology certified for electronic prescribing, the technology shall be capable of incorporating the information described in clauses (i) through (iii) of paragraph (2)(B) of section 1395w–104(o) of this title at a time specified by the Secretary but not before the Secretary adopts a standard for such tools as described in paragraph (1) of such section.
 
 (15) **44 So in original. There is no par. (14). State** — The term “State” means each of the several States, the District of Columbia, Puerto Rico, the Virgin Islands, Guam, American Samoa, and the Northern Mariana Islands.
 
@@ -73378,6 +75973,8 @@ In this subchapter:
 The Indian Self-Determination and Education Assistance Act, referred to in par. (3), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which is classified principally to chapter 46 (§ 5301 et seq.) of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under [section 5301 of Title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5301&num=0&edition=prelim) and Tables.
 
 #### Amendments
+2020—Par. (13)(C). Pub. L. 116–260 added subpar. (C).
+
 2016—Par. (7). Pub. L. 114–255, § 4003(e)(2)(B), added par. (7) and struck out former par. (7). Prior to amendment, text read as follows: “The term ‘HIT Policy Committee’ means such Committee established under [section 300jj–12(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section300jj–12/a&num=0&edition=prelim).”
 
 Par. (8). Pub. L. 114–255, § 4003(e)(2)(B)(i), redesignated par. (9) as (8) and struck out former par. (8). Prior to amendment, text of par. (8) read as follows: “The term ‘HIT Standards Committee’ means such Committee established under [section 300jj–13(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section300jj–13/a&num=0&edition=prelim).”
@@ -74821,7 +77418,7 @@ Pub. L. 104–182, title II, § 202, Aug. 6, 1996, 110 Stat. 1682, provided that
 Pub. L. 104–182, title II, § 203, Aug. 6, 1996, 110 Stat. 1683, provided that: “The Administrator of the Environmental Protection Agency, acting through the Robert S. Kerr Environmental Research Laboratory, is authorized to reestablish a partnership between the Laboratory and the National Center for Ground Water Research, a university consortium, to conduct research, training, and technology transfer for ground water quality protection and restoration. No funds are authorized by this section.”
 
 #### Comparative Health Effects Assessment
-Pub. L. 99–339, title III, § 304(b), June 19, 1986, 100 Stat. 667, provided that: “The Administrator of the Environmental Protection Agency shall conduct a comparative health effects assessment, using available data, to compare the public health effects (both positive and negative) associated with water treatment chemicals and their byproducts to the public health effects associated with contaminants found in public water supplies. Not later than 18 months after the date of the enactment of this Act [June 19, 1986], the Administrator shall submit a report to the Congress setting forth the results of such assessment.”
+Pub. L. 99–339, title III, § 304(b), June 19, 1986, 100 Stat. 667, required the Administrator of the Environmental Protection Agency to conduct an assessment comparing the public health effects associated with water treatment chemicals and their byproducts to the public health effects associated with contaminants found in public water supplies and to submit a report to Congress on the assessment no later than 18 months after June 19, 1986.
 
 
 <a id="section-300j-10"></a>
@@ -74910,6 +77507,22 @@ References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rat
   (E) *Acquisition of real property* — The funds under this section shall not be used for the acquisition of real property or interests therein, unless the acquisition is integral to a project authorized by this paragraph and the purchase is from a willing seller.
 
   (F) *Loan assistance* — Of the amount credited to any State loan fund established under this section in any fiscal year, 15 percent shall be available solely for providing loan assistance to public water systems which regularly serve fewer than 10,000 persons to the extent such funds can be obligated for eligible projects of public water systems.
+
+  (G) *Emerging contaminants*
+
+    (i) *In general* — Notwithstanding any other provision of law and subject to clause (ii), amounts deposited under subsection (t) in a State loan fund established under this section may only be used to provide grants for the purpose of addressing emerging contaminants, with a focus on perfluoroalkyl and polyfluoroalkyl substances.
+
+    (ii) *Requirements*
+
+      (I) *Small and disadvantaged communities* — Not less than 25 percent of the amounts described in clause (i) shall be used to provide grants to—
+
+        (aa) disadvantaged communities (as defined in subsection (d)(3)); or
+
+        (bb) public water systems serving fewer than 25,000 persons.
+
+      (II) *Priorities* — In selecting the recipient of a grant using amounts described in clause (i), a State shall use the priorities described in subsection (b)(3)(A).
+
+    (iii) *No increased bonding authority* — The amounts deposited in the State loan fund of a State under subsection (t) may not be used as a source of payment of, or security for (directly or indirectly), in whole or in part, any obligation the interest on which is exempt from the tax imposed under chapter 1 of the Internal Revenue Code of 1986.
 
 (3) **Limitation**
 
@@ -75156,7 +77769,7 @@ References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rat
 
 **(m) Authorization of appropriations**
 
-(1) There are authorized to be appropriated to carry out the purposes of this section—
+(1) There are authorized to be appropriated to carry out the purposes of this section, except for subsections (a)(2)(G) and (t)—
 
   (A) $1,174,000,000 for fiscal year 2019;
 
@@ -75202,12 +77815,26 @@ References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rat
 
 (3) periodically update such best practices, as appropriate.
 
+**(t) Emerging contaminants**
+
+(1) **In general** — Amounts made available under this subsection shall be allotted to a State as if allotted under subsection (a)(1)(D) as a capitalization grant, for deposit into the State loan fund of the State, for the purposes described in subsection (a)(2)(G).
+
+(2) **Authorization of appropriations** — There is authorized to be appropriated to carry out this subsection $100,000,000 for each of fiscal years 2020 through 2024, to remain available until expended.
+
 ### Statutory Notes
 
 #### References in Text
+The Internal Revenue Code of 1986, referred to in subsec. (a)(2)(G)(iii), is classified generally to Title 26, Internal Revenue Code.
+
 The Safe Drinking Water Act Amendments of 1996, referred to in subsec. (n), is Pub. L. 104–182, Aug. 6, 1996, 110 Stat. 1613. For complete classification of this Act to the Code, see Short Title of 1996 Amendment note set out under [section 201 of this title](./chapter-6a-public-health-service.md#section-201) and Tables.
 
 #### Amendments
+2019—Subsec. (a)(2)(G). Pub. L. 116–92, § 7312(1), added subpar. (G).
+
+Subsec. (m)(1). Pub. L. 116–92, § 7312(2), substituted “this section, except for subsections (a)(2)(G) and (t)” for “this section” in introductory provisions.
+
+Subsec. (t). Pub. L. 116–92, § 7312(3), added subsec. (t).
+
 2018—Subsec. (a)(2)(B). Pub. L. 115–270, § 2015(a), substituted “(including expenditures for planning, design, siting, and associated preconstruction activities, or for replacing or rehabilitating aging treatment, storage, or distribution facilities of public water systems, but not” for “(including expenditures for planning, design, and associated preconstruction activities, including activities relating to the siting of the facility, but not”.
 
 Subsec. (a)(4)(A). Pub. L. 115–270, § 2022, substituted “fiscal years 2019 through 2023” for “fiscal year 2017”.
@@ -76455,6 +79082,9 @@ The Federal Advisory Committee Act, referred to in subsec. (c)(4), is Pub. L. 92
 
 #### Codification
 Section was enacted as part of the Water and Waste Act of 2016, and also as part of the Water Infrastructure Improvements for the Nation Act, also known as the WIIN Act, and not as part of the Public Health Service Act which comprises this chapter.
+
+#### Change of Name
+Committee on Education and the Workforce of House of Representatives changed to Committee on Education and Labor of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
 
 
 <a id="section-300j-3"></a>
@@ -79797,9 +82427,11 @@ Sec. 6. General Provisions. (a) Insofar as the Federal Advisory Committee Act, a
 [Ex. Ord. No. 13824, § 1, revoked Ex. Ord. No. 13545, which had amended Ex. Ord. No. 13265, set out above.]
 
 #### Extension of Term of President’s Council on Fitness, Sports, and Nutrition
-Term of President’s Council on Fitness, Sports, and Nutrition (renamed President’s Council on Sports, Fitness, and Nutrition) extended until Sept. 30, 2019, by Ex. Ord. No. 13811, Sept. 29, 2017, 82 F.R. 46363, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
+Term of President’s Council on Fitness, Sports, and Nutrition (renamed President’s Council on Sports, Fitness, and Nutrition) extended until Sept. 30, 2021, by Ex. Ord. No. 13889, Sept. 27, 2019, 84 F.R. 52743, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
 
 Previous extensions of term of President’s Council on Fitness, Sports, and Nutrition, formerly President’s Council on Physical Fitness and Sports, were contained in the following prior Executive Orders:
+
+Ex. Ord. No. 13811, Sept. 29, 2017, 82 F.R. 46363, extended term until Sept. 30, 2019.
 
 Ex. Ord. No. 13708, Sept. 30, 2015, 80 F.R. 60271, extended term until Sept. 30, 2017.
 
@@ -82133,44 +84765,72 @@ Subsec. (a). Pub. L. 114–255, § 8002(d)(2), substituted “persons in recover
 
 
 <a id="section-300x-26"></a>
-## § 300x–26. State law regarding sale of tobacco products to individuals under age of 18
-**(a) Relevant law**
+## § 300x–26. Sale of tobacco products to individuals under age of 21
+**(a) In general** A funding agreement for a grant under [section 300x–21 of this title](./chapter-6a-public-health-service.md#section-300x-21) is that the State involved will—
 
-(1) **In general** — Subject to paragraph (2), for fiscal year 1994 and subsequent fiscal years, the Secretary may make a grant under [section 300x–21 of this title](./chapter-6a-public-health-service.md#section-300x-21) only if the State involved has in effect a law providing that it is unlawful for any manufacturer, retailer, or distributor of tobacco products to sell or distribute any such product to any individual under the age of 18.
+(1) annually conduct random, unannounced inspections to ensure that retailers do not sell tobacco products to individuals under the age of 21; and
 
-(2) **Delayed applicability for certain States** — In the case of a State whose legislature does not convene a regular session in fiscal year 1993, and in the case of a State whose legislature does not convene a regular session in fiscal year 1994, the requirement described in paragraph (1) as a condition of a receipt of a grant under [section 300x–21 of this title](./chapter-6a-public-health-service.md#section-300x-21) shall apply only for fiscal year 1995 and subsequent fiscal years.
+(2) annually submit to the Secretary a report describing—
 
-**(b) Enforcement**
+  (A) the activities carried out by the State to ensure that retailers do not sell tobacco products to individuals under the age of 21;
 
-(1) **In general** — For the first applicable fiscal year and for subsequent fiscal years, a funding agreement for a grant under [section 300x–21 of this title](./chapter-6a-public-health-service.md#section-300x-21) is that the State involved will enforce the law described in subsection (a) in a manner that can reasonably be expected to reduce the extent to which tobacco products are available to individuals under the age of 18.
+  (B) the extent of success the State has achieved in ensuring that retailers do not sell tobacco products to individuals under the age of 21; and
 
-(2) **Activities and reports regarding enforcement** — For the first applicable fiscal year and for subsequent fiscal years, a funding agreement for a grant under [section 300x–21 of this title](./chapter-6a-public-health-service.md#section-300x-21) is that the State involved will—
+  (C) the strategies to be utilized by the State to ensure that retailers do not sell tobacco products to individuals under the age of 21 during the fiscal year for which the grant is sought.
 
-  (A) annually conduct random, unannounced inspections to ensure compliance with the law described in subsection (a); and
+**(b) Noncompliance of State**
 
-  (B) annually submit to the Secretary a report describing—
+(1) **In general** — Before making a grant under [section 300x–21 of this title](./chapter-6a-public-health-service.md#section-300x-21) to a State, the Secretary shall make a determination of whether the State has maintained compliance with subsection (a). If, after notice to the State and an opportunity for a hearing, the Secretary determines that the State is not in compliance with such subsections, the Secretary shall reduce the amount of the allotment under such section for the State for the fiscal year involved by an amount up to 10 percent of the amount determined under [section 300x–33 of this title](./chapter-6a-public-health-service.md#section-300x-33) for the State for the applicable fiscal year.
 
-    (i) the activities carried out by the State to enforce such law during the fiscal year preceding the fiscal year for which the State is seeking the grant;
+(2) **Limitation**
 
-    (ii) the extent of success the State has achieved in reducing the availability of tobacco products to individuals under the age of 18; and
+  (A) *In general* — A State shall not have funds withheld pursuant to paragraph (1) if such State for which the Secretary has made a determination of noncompliance under such paragraph—
 
-    (iii) the strategies to be utilized by the State for enforcing such law during the fiscal year for which the grant is sought.
+    (i) certifies to the Secretary by May 1 of the fiscal year for which the funds are appropriated, consistent with subparagraph (B), that the State will commit additional State funds, in accordance with paragraph (1), to ensure that retailers do not sell tobacco products to individuals under 21 years of age;
 
-**(c) Noncompliance of State** Before making a grant under [section 300x–21 of this title](./chapter-6a-public-health-service.md#section-300x-21) to a State for the first applicable fiscal year or any subsequent fiscal year, the Secretary shall make a determination of whether the State has maintained compliance with subsections (a) and (b). If, after notice to the State and an opportunity for a hearing, the Secretary determines that the State is not in compliance with such subsections, the Secretary shall reduce the amount of the allotment under such section for the State for the fiscal year involved by an amount equal to—
+    (ii) agrees to comply with a negotiated agreement for a corrective action plan that is approved by the Secretary and carried out in accordance with guidelines issued by the Secretary; or
 
-(1) in the case of the first applicable fiscal year, 10 percent of the amount determined under [section 300x–33 of this title](./chapter-6a-public-health-service.md#section-300x-33) for the State for the fiscal year;
+    (iii) is a territory that receives less than $1,000,000 for a fiscal year under [section 300x–21 of this title](./chapter-6a-public-health-service.md#section-300x-21).
 
-(2) in the case of the first fiscal year following such applicable fiscal year, 20 percent of the amount determined under [section 300x–33 of this title](./chapter-6a-public-health-service.md#section-300x-33) for the State for the fiscal year;
+  (B) *Certification*
 
-(3) in the case of the second such fiscal year, 30 percent of the amount determined under [section 300x–33 of this title](./chapter-6a-public-health-service.md#section-300x-33) for the State for the fiscal year; and
+    (i) *In general* — The amount of funds to be committed by a State pursuant to subparagraph (A)(i) shall be equal to 1 percent of such State’s substance abuse allocation determined under [section 300x–33 of this title](./chapter-6a-public-health-service.md#section-300x-33) for each percentage point by which the State misses the retailer compliance rate goal established by the Secretary.
 
-(4) in the case of the third such fiscal year or any subsequent fiscal year, 40 percent of the amount determined under [section 300x–33 of this title](./chapter-6a-public-health-service.md#section-300x-33) for the State for the fiscal year.
+    (ii) *State expenditures* — For a fiscal year in which a State commits funds as described in clause (i), such State shall maintain State expenditures for tobacco prevention programs and for compliance activities at a level that is not less than the level of such expenditures maintained by the State for the preceding fiscal year, plus the additional funds for tobacco compliance activities required under clause (i). The State shall submit a report to the Secretary on all State obligations of funds for such fiscal year and all State expenditures for the preceding fiscal year for tobacco prevention and compliance activities by program activity by July 31 of such fiscal year.
 
-**(d) “First applicable fiscal year” defined** For purposes of this section, the term “first applicable fiscal year” means—
+    (iii) *Discretion* — The Secretary shall exercise discretion in enforcing the timing of the State obligation of the additional funds required by the certification described in subparagraph (A)(i) as late as July 31 of such fiscal year.
 
-(1) fiscal year 1995, in the case of any State described in subsection (a)(2); and
+  (C) *Failure to certify* — If a State described in subparagraph (A) fails to certify to the Secretary pursuant to subparagraph (A)(i) or enter into, or comply with, a negotiated agreement under subparagraph (A)(ii), the Secretary may take action pursuant to paragraph (1).
 
-(2) fiscal year 1994, in the case of any other State.
+**(c) Implementation of reporting requirements**
+
+(1) **Transition period** — The Secretary shall—
+
+  (A) not withhold amounts under subsection (b) for the 3-year period immediately following December 20, 2019; and
+
+  (B) use discretion in exercising its authority under subsection (b) during the 2-year period immediately following the 3-year period described in subparagraph (A), to allow for a transition period for implementation of the reporting requirements under subsection (a)(2).
+
+(2) **Regulations or guidance** — Not later than 180 days after December 20, 2019, the Secretary shall update regulations under part 96 of title 45, Code of Federal Regulations 11 So in original. Probably should be followed by a comma. or guidance on the retailer compliance rate goal under subsection (b), the use of funds provided under [section 300x–21 of this title](./chapter-6a-public-health-service.md#section-300x-21) for purposes of meeting the requirements of this section, and reporting requirements under subsection (a)(2).
+
+(3) **Coordination** — The Secretary shall ensure the Assistant Secretary for Mental Health and Substance Use coordinates, as appropriate, with the Commissioner of Food and Drugs to ensure that the technical assistance provided to States under subsection (e) is consistent with applicable regulations for retailers issued under part 1140 of title 21, Code of Federal Regulations.
+
+**(d) Transitional grants**
+
+(1) **In general** — The Secretary shall award grants under this subsection to each State that receives funding under [section 300x–21 of this title](./chapter-6a-public-health-service.md#section-300x-21) to ensure compliance of each such State with this section.
+
+(2) **Use of funds** — A State receiving a grant under this subsection—
+
+  (A) shall use amounts received under such grant for activities to plan for or ensure compliance in the State with subsection (a); and
+
+  (B) in the case of a State for which the Secretary has made a determination under subsection (b) that the State is prepared to meet, or has met, the requirements of subsection (a), may use such funds for tobacco cessation activities, strategies to prevent the use of tobacco products by individuals under the age of 21, or allowable uses under [section 300x–21 of this title](./chapter-6a-public-health-service.md#section-300x-21).
+
+(3) **Supplement not supplant** — Grants under this subsection shall be used to supplement and not supplant other Federal, State, and local public funds provided for activities under paragraph (2).
+
+(4) **Authorization of appropriations** — To carry out this subsection, there are authorized to be appropriated $18,580,790 for each of fiscal years 2020 through 2024.
+
+(5) **Sunset** — This subsection shall have no force or effect after September 30, 2024.
+
+**(e) Technical assistance** The Secretary shall provide technical assistance to States related to the activities required under this section.
 
 ### Statutory Notes
 
@@ -82179,23 +84839,30 @@ A prior section 1926 of act July 1, 1944, was classified to [section 300x–12 o
 
 Another prior section 1926 of act July 1, 1944, was classified to [section 300y–5 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section300y–5&num=0&edition=prelim) prior to repeal by Pub. L. 99–280.
 
+#### Amendments
+2019—Pub. L. 116–94, § 604(a)(1), struck out “State law regarding” before “sale” and substituted “21” for “18” in section catchline.
+
+Subsec. (a). Pub. L. 116–94, § 604(a)(3), (4), redesignated subsec. (b) as (a) and amended subsec. (a) generally. Prior to amendment, subsec. (a) related to the requirement of State enforcement of law in a manner that can reasonably be expected to reduce the extent to which tobacco products are available to individuals under the age of 18 in order to qualify for funding agreements for grants under [section 300x–21 of this title](./chapter-6a-public-health-service.md#section-300x-21), and activities and reports regarding such enforcement.
+
+Pub. L. 116–94, § 604(a)(2), struck out subsec. (a), which required grants under [section 300x–21 of this title](./chapter-6a-public-health-service.md#section-300x-21) for fiscal year 1994 and subsequent fiscal years to be based on the existence of State law forbidding sale or distribution of tobacco products to any individual under the age of 18, and providing delayed applicability of requirement for certain States.
+
+Subsec. (b). Pub. L. 116–94, § 604(a)(5), designated introductory provisions as par. (1), inserted par. heading, struck out “for the first applicable fiscal year or any subsequent fiscal year” after “a State”, substituted “subsection (a)” for “subsections (a) and (b)” and “up to 10 percent of the amount determined under [section 300x–33 of this title](./chapter-6a-public-health-service.md#section-300x-33) for the State for the applicable fiscal year.” for “equal to—”, added par. (2), and struck out former pars. (1) to (4), which related to allotment reductions for first applicable fiscal years and three following fiscal years.
+
+Pub. L. 116–94, § 604(a)(3), redesignated subsec. (c) as (b). Former subsec. (b) redesignated (a).
+
+Subsec. (c). Pub. L. 116–94, § 604(a)(6), added subsec. (c). Former subsec. (c) redesignated (b).
+
+Subsec. (d). Pub. L. 116–94, § 604(a)(2), (6), added subsec. (d) and struck out former subsec. (d) which defined “first applicable fiscal year”.
+
+Subsec. (e). Pub. L. 116–94, § 604(a)(6), added subsec. (e).
+
 
 <a id="section-300x-26a"></a>
-## § 300x–26a. Withholding of substance abuse funding under section 300x–26
-**(a) No withholding from States committing additional funds for tobacco sale compliance** Except as provided by subsection (e) none of the funds appropriated for fiscal year 2010 or any subsequent fiscal year by this or any subsequent appropriations Act may be used to withhold substance abuse funding from a State pursuant to [section 300x–26 of this title](./chapter-6a-public-health-service.md#section-300x-26) if such State certifies to the Secretary of Health and Human Services by May 1 of the fiscal year for which the funds are appropriated, that the State will commit additional State funds, in accordance with subsection (b), to ensure compliance with State laws prohibiting the sale of tobacco products to individuals under 18 years of age.
-
-**(b) Amount to be committed** The amount of funds to be committed by a State under subsection (a) shall be equal to 1 percent of such State’s substance abuse block grant allocation for each percentage point by which the State misses the retailer compliance rate goal established by the Secretary under [section 300x–26 of this title](./chapter-6a-public-health-service.md#section-300x-26).
-
-**(c) Maintenance of expenditures for tobacco prevention programs and compliance activities** The State is to maintain State expenditures in such fiscal year for tobacco prevention programs and for compliance activities at a level that is not less than the level of such expenditures maintained by the State for the preceding fiscal year, and adding to that level the additional funds for tobacco compliance activities required under subsection (a). The State is to submit a report to the Secretary on all State obligations of funds for such fiscal year and all State expenditures for the preceding fiscal year for tobacco prevention and compliance activities by program activity by July 31 of such fiscal year.
-
-**(d) Timing of State obligation of additional funds** The Secretary shall exercise discretion in enforcing the timing of the State obligation of the additional funds required by the certification described in subsection (a) as late as July 31 of such fiscal year.
-
-**(e) Withholding from territories** None of the funds appropriated by this or any subsequent appropriations Act may be used to withhold substance abuse funding pursuant to [section 300x–26 of this title](./chapter-6a-public-health-service.md#section-300x-26) from a territory that receives less than $1,000,000.
+## § 300x–26a. Repealed. Pub. L. 116–94, div. N, title I, § 604(c), Dec. 20, 2019, 133 Stat. 3127
 
 ### Statutory Notes
 
-#### Codification
-Section was enacted as part of the Department of Health and Human Services Appropriations Act, 2010, and also as part of the Departments of Labor, Health and Human Services, and Education, and Related Agencies Appropriations Act, 2010, and the Consolidated Appropriations Act, 2010, and not as part of the Public Health Service Act which comprises this chapter.
+Section, Pub. L. 111–117, div. D, title II, § 212, Dec. 16, 2009, 123 Stat. 3257, related to withholding of substance abuse funding under [section 300x–26 of this title](./chapter-6a-public-health-service.md#section-300x-26).
 
 
 <a id="section-300x-27"></a>

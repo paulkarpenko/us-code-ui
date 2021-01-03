@@ -62,6 +62,8 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
 (3) for each such carrier air wing, the Navy maintains a dedicated and fully staffed headquarters.
 
+**(f)** A nuclear powered aircraft carrier may not be retired before its first refueling.
+
 ### Statutory Notes
 
 | Historical and Revision Notes |  |  |
@@ -73,6 +75,8 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 A prior section 8062 was renumbered [section 9062 of this title](./chapter-907-the-air-force.md#section-9062).
 
 #### Amendments
+2021—Subsec. (f). Pub. L. 116–283 added subsec. (f).
+
 2018—Pub. L. 115–232 renumbered [section 5062 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section5062&num=0&edition=prelim) as this section.
 
 2016—Subsec. (e). Pub. L. 114–328 added subsec. (e).
@@ -113,7 +117,7 @@ A prior section 8066, acts Aug. 10, 1956, ch. 1041, 70A Stat. 494; Sept. 2, 1958
 
 A prior section 8067 was renumbered [section 9067 of this title](./chapter-907-the-air-force.md#section-9067).
 
-A prior section 8069 was renumbered [section 9069 of this title](./chapter-907-the-air-force.md#section-9069).
+A prior section 8069 was renumbered [section 9069 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section9069&num=0&edition=prelim).
 
 #### Amendments
 2018—Pub. L. 115–232 renumbered [section 5063 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section5063&num=0&edition=prelim) as this section.

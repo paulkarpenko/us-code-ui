@@ -2,7 +2,7 @@
 title: 31
 chapter: '3'
 heading: DEPARTMENT OF THE TREASURY
-section_count: 28
+section_count: 29
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31&num=0&edition=prelim
 ---
@@ -100,9 +100,6 @@ Amendment by Pub. L. 110–49 applicable after the end of the 90-day period begi
 #### Short Title of 2010 Amendment
 Pub. L. 111–203, title V, § 501, July 21, 2010, 124 Stat. 1580, provided that: “This subtitle [subtitle A (§§ 501, 502) of title V of Pub. L. 111–203, enacting sections 313 and 314 of this title, amending [section 321 of this title](./chapter-003-department-of-the-treasury.md#section-321), and renumbering former sections 312 and 313 of this title as sections 315 and 312, respectively] may be cited as the ‘Federal Insurance Office Act of 2010’.”
 
-#### Order of Succession
-For order of succession during any period when both Secretary and Deputy Secretary of the Treasury are unable to perform functions and duties of office of Secretary, see Ex. Ord. No. 13246, Dec. 18, 2001, 66 F.R. 66270, listed in a table under [section 3345 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section3345&num=0&edition=prelim), Government Organization and Employees.
-
 #### Office of Secretary of the Treasury; Compensation
 Pub. L. 105–61, title I, § 116, Oct. 10, 1997, 111 Stat. 1284, provided that: “(a)(1) Effective beginning on the date determined under paragraph (2), the compensation and other emoluments attached to the Office of Secretary of the Treasury shall be those that would then apply if Public Law 103–2 (107 Stat. 4; [31 U.S.C. 301](./chapter-003-department-of-the-treasury.md#section-301) note) had never been enacted. “(2) Paragraph (1) shall become effective on the later of—“(A) the day after the date on which the individual holding the Office of Secretary of the Treasury on January 1, 1997, ceases to hold that office; or “(B) the date of the enactment of this Act [Oct. 10, 1997]. “(3) Nothing in this subsection shall be considered to affect the compensation or emoluments due to any individual in connection with any period preceding the date determined under paragraph (2). “(b) Subsection (b) of the first section of the public law referred to in subsection (a)(1) of this section shall not apply in the case of any appointment the consent of the Senate to which occurs on or after the date of the enactment of this Act. “(c) This section shall not be limited (for purposes of determining whether a provision of this section applies or continues to apply) to fiscal year 1998.”
 
@@ -116,6 +113,9 @@ Pub. L. 103–2, Jan. 19, 1993, 107 Stat. 4, provided: “That (a) the compensat
 
 #### Duties and Functions of Department of the Treasury
 Nothing in Pub. L. 101–576 [see Short Title of 1990 Amendment note set out under [section 501 of this title](./chapter-005-office-of-management-and-budget.md#section-501)] to be construed to interfere with exercise of functions, duties, and responsibilities of Department of the Treasury, as in effect immediately before Nov. 15, 1990, see section 204 of Pub. L. 101–576, set out as a note under [section 501 of this title](./chapter-005-office-of-management-and-budget.md#section-501).
+
+#### Order of Succession
+For order of succession during any period when both Secretary and Deputy Secretary of the Treasury are unable to perform functions and duties of office of Secretary, see Ex. Ord. No. 13246, Dec. 18, 2001, 66 F.R. 66270, listed in a table under [section 3345 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section3345&num=0&edition=prelim), Government Organization and Employees.
 
 
 <a id="section-302"></a>
@@ -328,7 +328,7 @@ Office of Thrift Supervision abolished and functions transferred to the Board of
 
   (C) Analyze and disseminate the available data in accordance with applicable legal requirements and policies and guidelines established by the Secretary of the Treasury and the Under Secretary of the Treasury for Enforcement to—
 
-    (i) identify possible criminal activity to appropriate Federal, State, local, and foreign law enforcement agencies;
+    (i) identify possible criminal activity to appropriate Federal, State, local, Tribal, and foreign law enforcement agencies;
 
     (ii) support ongoing criminal financial investigations and prosecutions and related proceedings, including civil and criminal tax and forfeiture proceedings;
 
@@ -338,15 +338,15 @@ Office of Thrift Supervision abolished and functions transferred to the Board of
 
     (v) determine emerging trends and methods in money laundering and other financial crimes;
 
-    (vi) support the conduct of intelligence or counterintelligence activities, including analysis, to protect against international terrorism; and
+    (vi) support the conduct of intelligence or counterintelligence activities, including analysis, to protect against terrorism; and
 
     (vii) support government initiatives against money laundering.
 
   (D) Establish and maintain a financial crimes communications center to furnish law enforcement authorities with intelligence information related to emerging or ongoing investigations and undercover operations.
 
-  (E) Furnish research, analytical, and informational services to financial institutions, appropriate Federal regulatory agencies with regard to financial institutions, and appropriate Federal, State, local, and foreign law enforcement authorities, in accordance with policies and guidelines established by the Secretary of the Treasury or the Under Secretary of the Treasury for Enforcement, in the interest of detection, prevention, and prosecution of terrorism, organized crime, money laundering, and other financial crimes.
+  (E) Furnish research, analytical, and informational services to financial institutions, appropriate Federal regulatory agencies with regard to financial institutions, and appropriate Federal, State, local, Tribal, and foreign law enforcement authorities, in accordance with policies and guidelines established by the Secretary of the Treasury or the Under Secretary of the Treasury for Enforcement, in the interest of detection, prevention, and prosecution of terrorism, organized crime, money laundering, and other financial crimes.
 
-  (F) Assist Federal, State, local, and foreign law enforcement and regulatory authorities in combatting the use of informal, nonbank networks and payment and barter system mechanisms that permit the transfer of funds or the equivalent of funds without records and without compliance with criminal and tax laws.
+  (F) Assist Federal, State, local, Tribal, and foreign law enforcement and regulatory authorities in combatting the use of informal, nonbank networks and payment and barter system mechanisms that permit the transfer of funds or the equivalent of funds without records and without compliance with criminal and tax laws.
 
   (G) Provide computer and data support and data analysis to the Secretary of the Treasury for tracking and controlling foreign assets.
 
@@ -354,7 +354,17 @@ Office of Thrift Supervision abolished and functions transferred to the Board of
 
   (I) Administer the requirements of subchapter II of chapter 53 of this title, chapter 2 of title I of Public Law 91–508, and section 21 of the Federal Deposit Insurance Act, to the extent delegated such authority by the Secretary of the Treasury.
 
-  (J) Such other duties and powers as the Secretary of the Treasury may delegate or prescribe.
+  (J) Promulgate regulations under section 5318(h)(4)(D), as appropriate, to implement the government-wide anti-money laundering and countering the financing of terrorism priorities established by the Secretary of the Treasury under section 5318(h)(4)(A).
+
+  (K) Communicate regularly with financial institutions and Federal functional regulators that examine financial institutions for compliance with subchapter II of chapter 53 and regulations promulgated under that subchapter and law enforcement authorities to explain the United States Government’s anti-money laundering and countering the financing of terrorism priorities.
+
+  (L) Give and receive feedback to and from financial institutions, State bank supervisors, and State credit union supervisors (as those terms are defined in section 6003 of the Anti-Money Laundering Act of 2020) regarding the matters addressed in subchapter II of chapter 53 and regulations promulgated under that subchapter.
+
+  (M) Maintain money laundering and terrorist financing investigation financial experts capable of identifying, tracking, and analyzing financial crime networks and identifying emerging threats to support Federal civil and criminal investigations.
+
+  (N) Maintain emerging technology experts to encourage the development of and identify emerging technologies that can assist the United States Government or financial institutions in countering money laundering and the financing of terrorism.
+
+  (O) Such other duties and powers as the Secretary of the Treasury may delegate or prescribe.
 
 **(c) Requirements Relating to Maintenance and Use of Data Banks.—** The Secretary of the Treasury shall establish and maintain operating procedures with respect to the government-wide data access service and the financial crimes communications center maintained by FinCEN which provide—
 
@@ -374,9 +384,221 @@ Office of Thrift Supervision abolished and functions transferred to the Board of
 
   (C) how information about activities or relationships which involve or are closely associated with the exercise of constitutional rights is to be screened out of the data maintenance system.
 
-**(d) Authorization of Appropriations.—**
+**(d) FinCEN Exchange.—**
 
-(1) **In general.—** — There are authorized to be appropriated for FinCEN $100,419,000 for fiscal year 2011 and such sums as may be necessary for each of the fiscal years 2012 and 2013.
+(1) **Establishment.—** — The FinCEN Exchange is hereby established within FinCEN.
+
+(2) **Purpose.—** — The FinCEN Exchange shall facilitate a voluntary public-private information sharing partnership among law enforcement agencies, national security agencies, financial institutions, and FinCEN to—
+
+  (A) effectively and efficiently combat money laundering, terrorism financing, organized crime, and other financial crimes, including by promoting innovation and technical advances in reporting—
+
+    (i) under subchapter II of chapter 53 and the regulations promulgated under that subchapter; and
+
+    (ii) with respect to other anti-money laundering requirements;
+
+  (B) protect the financial system from illicit use; and
+
+  (C) promote national security.
+
+(3) **Report.—**
+
+  (A) *In general.—* — Not later than 1 year after the date of enactment of this subsection, and once every 2 years thereafter for the next 5 years, the Secretary of the Treasury shall submit to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives a report containing—
+
+    (i) an analysis of the efforts undertaken by the FinCEN Exchange, which shall include an analysis of—
+
+      (I) the results of those efforts; and
+
+      (II) the extent and effectiveness of those efforts, including any benefits realized by law enforcement agencies from partnering with financial institutions, which shall be consistent with standards protecting sensitive information; and
+
+    (ii) any legislative, administrative, or other recommendations the Secretary may have to strengthen the efforts of the FinCEN Exchange.
+
+  (B) *Classified annex.—* — Each report under subparagraph (A) may include a classified annex.
+
+(4) **Information sharing requirement.—** — Information shared under this subsection shall be shared—
+
+  (A) in compliance with all other applicable Federal laws and regulations;
+
+  (B) in such a manner as to ensure the appropriate confidentiality of personal information; and
+
+  (C) at the discretion of the Director, with the appropriate Federal functional regulator, as defined in section 6003 of the Anti-Money Laundering Act of 2020.
+
+(5) **Protection of shared information.—**
+
+  (A) *Regulations.—* — FinCEN shall, as appropriate, promulgate regulations that establish procedures for the protection of information shared and exchanged between FinCEN and the private sector in accordance with this section, consistent with the capacity, size, and nature of the financial institution to which the particular procedures apply.
+
+  (B) *Use of information.—* — Information received by a financial institution pursuant to this section shall not be used for any purpose other than identifying and reporting on activities that may involve the financing of terrorism, money laundering, proliferation financing, or other financial crimes.
+
+(6) **Rule of construction.—** — Nothing in this subsection may be construed to create new information sharing authorities or requirements relating to the Bank Secrecy Act.
+
+**(e) Special Hiring Authority.—**
+
+(1) **In general.—** — The Secretary of the Treasury may appoint, without regard to the provisions of sections 3309 through 3318 of title 5, candidates directly to positions in the competitive service, as defined in section 2102 of that title, in FinCEN.
+
+(2) **Primary responsibilities.—** — The primary responsibility of candidates appointed under paragraph (1) shall be to provide substantive support in support of the duties described in subparagraphs (A) through (O) of subsection (b)(2).
+
+**(f) FinCEN Domestic Liaisons.—**
+
+(1) **Establishment of office.—** — There is established in FinCEN an Office of Domestic Liaison, which shall be headed by the Chief Domestic Liaison.
+
+(2) **Location.—** — The Office of the Domestic Liaison shall be located in the District of Columbia.
+
+**(g) Chief Domestic Liaison.—**
+
+(1) **In general.—** — The Chief Domestic Liaison, shall—
+
+  (A) report directly to the Director; and
+
+  (B) be appointed by the Director, from among individuals with experience or familiarity with anti-money laundering program examinations, supervision, and enforcement.
+
+(2) **Compensation.—** — The annual rate of pay for the Chief Domestic Liaison shall be equal to the highest rate of annual pay for similarly situated senior executives who report to the Director.
+
+(3) **Staff of office.—** — The Chief Domestic Liaison, with the concurrence of the Director, may retain or employ counsel, research staff, and service staff, as the Liaison determines necessary to carry out the functions, powers, and duties under this subsection.
+
+(4) **Domestic liaisons.—** — The Chief Domestic Liaison, with the concurrence of the Director, shall appoint not fewer than 6 senior FinCEN employees as FinCEN Domestic Liaisons, who shall—
+
+  (A) report to the Chief Domestic Liaison;
+
+  (B) each be assigned to focus on a specific region of the United States; and
+
+  (C) be located at an office in such region or co-located at an office of the Board of Governors of the Federal Reserve System in such region.
+
+(5) **Functions of the domestic liaisons.—**
+
+  (A) *In general.—* — Each Domestic Liaison shall—
+
+    (i) in coordination with relevant Federal functional regulators, perform outreach to BSA officers at financial institutions, including nonbank financial institutions, and persons that are not financial institutions, especially with respect to actions taken by FinCEN that require specific actions by, or have specific effects on, such institutions or persons, as determined by the Director;
+
+    (ii) in accordance with applicable agreements, receive feedback from financial institutions and examiners of Federal functional regulators regarding their examinations under the Bank Secrecy Act and communicate that feedback to FinCEN, the Federal functional regulators, and State bank supervisors;
+
+    (iii) promote coordination and consistency of supervisory guidance from FinCEN, the Federal functional regulators, State bank supervisors, and State credit union supervisors regarding the Bank Secrecy Act;
+
+    (iv) act as a liaison between financial institutions and their Federal functional regulators, State bank supervisors, and State credit union supervisors with respect to information sharing matters involving the Bank Secrecy Act and regulations promulgated thereunder;
+
+    (v) establish safeguards to maintain the confidentiality of communications between the persons described in clause (ii) and the Office of Domestic Liaison;
+
+    (vi) to the extent practicable, periodically propose to the Director changes in the regulations, guidance, or orders of FinCEN, including any legislative or administrative changes that may be appropriate to ensure improved coordination and expand information sharing under this paragraph; and
+
+    (vii) perform such other duties as the Director determines to be appropriate.
+
+  (B) *Rule of construction.—* — Nothing in this paragraph may be construed to permit the Domestic Liaisons to have authority over supervision, examination, or enforcement processes.
+
+(6) **Access to documents.—** — FinCEN, to the extent practicable and consistent with appropriate safeguards for sensitive enforcement-related, pre-decisional, or deliberative information, shall ensure that the Domestic Liaisons have full access to the documents of FinCEN, as necessary to carry out the functions of the Office of Domestic Liaison.
+
+(7) **Annual reports.—**
+
+  (A) *In general.—* — Not later than 1 year after the date of enactment of this subsection and every 2 years thereafter for 5 years, the Director shall submit to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives a report on the objectives of the Office of Domestic Liaison for the following fiscal year and the activities of the Office during the immediately preceding fiscal year.
+
+  (B) *Contents.—* — Each report required under subparagraph (A) shall include—
+
+    (i) appropriate statistical information and full and substantive analysis;
+
+    (ii) information on steps that the Office of Domestic Liaison has taken during the reporting period to address feedback received by financial institutions and examiners of Federal functional regulators relating to examinations under the Bank Secrecy Act;
+
+    (iii) recommendations to the Director for such administrative and legislative actions as may be appropriate to address information sharing and coordination issues encountered by financial institutions or examiners of Federal functional regulators; and
+
+    (iv) any other information, as determined appropriate by the Director.
+
+  (C) *Sensitive information.—* — Notwithstanding subparagraph (D), FinCEN shall review each report required under subparagraph (A) before the report is submitted to ensure the report does not disclose sensitive information.
+
+  (D) *Independence.—*
+
+    (i) *In general.—* — Each report required under subparagraph (A) shall be provided directly to the committees listed in that subparagraph, except that a relevant Federal functional regulator, State bank supervisor, Office of Management and Budget, or State credit union supervisor shall have an opportunity for review and comment before the submission of the report.
+
+    (ii) *Rule of construction.—* — Nothing in clause (i) may be construed to preclude FinCEN or any other department or agency from reviewing a report required under subparagraph (A) for the sole purpose of protecting—
+
+      (I) sensitive information obtained by a law enforcement agency; and
+
+      (II) classified information.
+
+  (E) *Classified information.—* — No report required under subparagraph (A) may contain classified information.
+
+(8) **Definition.—** — In this subsection, the term “Federal functional regulator” has the meaning given the term in section 6003 of the Anti-Money Laundering Act of 2020.
+
+**(h) FinCEN Foreign Financial Intelligence Unit Liaisons.—**
+
+(1) **In general.—** — The Director of FinCEN shall appoint not fewer than 6 Foreign Financial Intelligence Unit Liaisons, who shall—
+
+  (A) be knowledgeable about domestic or international anti-money laundering or countering the financing of terrorism laws and regulations;
+
+  (B) possess a technical understanding of the Bank Secrecy Act, the protocols of the Egmont Group of Financial Intelligence Units, and the Financial Action Task Force and the recommendations issued by that Task Force;
+
+  (C) be co-located in a United States embassy, a similar United States Government facility, or a foreign government facility, as appropriate;
+
+  (D) facilitate capacity building and perform outreach with respect to anti-money laundering and countering the financing of terrorism regulatory and analytical frameworks;
+
+  (E) establish and maintain relationships with officials from foreign intelligence units, regulatory authorities, ministries of finance, central banks, law enforcement agencies, and other competent authorities;
+
+  (F) participate in industry outreach engagements with foreign financial institutions and other commercial actors on anti-money laundering and countering the financing of terrorism issues;
+
+  (G) coordinate with representatives of the Department of Justice at United States Embassies who perform similar functions on behalf of the United States Government; and
+
+  (H) perform such other duties as the Director determines to be appropriate.
+
+(2) **Compensation.—** — Each Foreign Financial Intelligence Unit Liaison appointed under paragraph (1) shall receive compensation at the higher of—
+
+  (A) the rate of compensation paid to a Foreign Service officer at a comparable career level serving at the same embassy or facility, as applicable; or
+
+  (B) the rate of compensation that the Liaison would have otherwise received.
+
+**(i) Protection of Information Obtained by Foreign Law Enforcement and Financial Intelligence Units; Freedom of Information Act.—**
+
+(1) **Definitions.—** — In this subsection:
+
+  (A) *Foreign anti-money laundering and countering the financing of terrorism authority.—* — The term “foreign anti-money laundering and countering the financing of terrorism authority” means any foreign agency or authority that is empowered under foreign law to regulate or supervise foreign financial institutions (or designated non-financial businesses and professions) with respect to laws concerning anti-money laundering and countering the financing of terrorism and proliferation.
+
+  (B) *Foreign financial intelligence unit.—* — The term “foreign financial intelligence unit” means any foreign agency or authority, including a foreign financial intelligence unit that is a member of the Egmont Group of Financial Intelligence Units, that is empowered under foreign law as a jurisdiction’s national center for—
+
+    (i) receipt and analysis of suspicious transaction reports and other information relevant to money laundering, associated predicate offenses, and the financing of terrorism; and
+
+    (ii) the dissemination of the results of the analysis described in clause (i).
+
+  (C) *Foreign law enforcement authority.—* — The term “foreign law enforcement authority” means any foreign agency or authority that is empowered under foreign law to detect, investigate, or prosecute potential violations of law.
+
+(2) **Information exchanged with foreign law enforcement authorities, foreign financial intelligence units, and foreign anti-money laundering and countering the financing of terrorism authorities.—**
+
+  (A) *In general.—* — The Department of the Treasury may not be compelled to search for or disclose information exchanged with a foreign law enforcement authority, foreign financial intelligence unit, or foreign anti-money laundering and countering the financing of terrorism authority.
+
+  (B) *Inapplicability of freedom of information act.—*
+
+    (i) *In general.—* — [Section 552(a)(3) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section552/a/3&num=0&edition=prelim) (commonly known as the “Freedom of Information Act”) shall not apply to any request for records or information exchanged between the Department of the Treasury and a foreign law enforcement authority, foreign financial intelligence unit, or foreign anti-money laundering and countering the financing of terrorism authority.
+
+    (ii) *Specifically exempted by statute.—* — For purposes of [section 552 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section552&num=0&edition=prelim), this paragraph shall be considered a statute described in subsection (b)(3)(B) of that section.
+
+  (C) *Clarification on information limitations and protections.—*
+
+    (i) *In general.—* — The provisions of this paragraph shall apply only to information necessary to exercise the duties and powers described under subsection (b).
+
+    (ii) *Appropriate confidentiality, classification, and data security requirements.—* — The Secretary, in consultation with the Director, shall ensure that information provided to a foreign law enforcement authority, foreign financial intelligence unit, or foreign anti-money laundering and countering the financing of terrorism authority, is subject to appropriate confidentiality, classification, and data security requirements.
+
+(3) **Savings provision.—** — Nothing in this section shall authorize the Department of the Treasury to withhold information from Congress, decline to carry out a search for information requested by Congress, or prevent the Department of the Treasury from complying with an order of a court of the United States in an action commenced by the United States.
+
+**(j) Analytical Experts.—**
+
+(1) **In general.—** — FinCEN shall maintain financial experts capable of identifying, tracking, and tracing money laundering and terrorist-financing networks in order to conduct and support civil and criminal anti-money laundering and countering the financing of terrorism investigations conducted by the United States Government.
+
+(2) **FinCEN analytical hub.—** — FinCEN, upon a reasonable request from a Federal agency, shall, in collaboration with the requesting agency and the appropriate Federal functional regulator, analyze the potential anti-money laundering and countering the financing of terrorism activity that prompted the request.
+
+**(k) Definitions.—** In this section:
+
+(1) **Bank secrecy act.—** — The term “Bank Secrecy Act” has the meaning given the term in section 6003 of the Anti-Money Laundering Act of 2020.
+
+(2) **Federal functional regulator.—** — The term “Federal functional regulator” has the meaning given the term in section 509 of the Gramm-Leach-Bliley Act ([15 U.S.C. 6809](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section6809&num=0&edition=prelim)).
+
+(3) **Financial institution.—** — The term “financial institution” has the meaning given the term in [section 5312 of this title](./chapter-053-monetary-transactions.md#section-5312).
+
+(4) **State bank supervisor.—** — The term “State bank supervisor” has the meaning given the term in section 3 of the Federal Deposit Insurance Act ([12 U.S.C. 1813](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1813&num=0&edition=prelim)).
+
+(5) **State credit union supervisor.—** — The term “State credit union supervisor” means a State official described in section 107A(e) of the Federal Credit Union Act ([12 U.S.C. 1757a(e)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1757a/e&num=0&edition=prelim)).
+
+**(l) Authorization of Appropriations.—**
+
+(1) **In general.—** — There are authorized to be appropriated to FinCEN to carry out this section, to remain available until expended—
+
+  (A) $136,000,000 for fiscal year 2021;
+
+  (B) $60,000,000 for fiscal year 2022; and
+
+  (C) $35,000,000 for each of fiscal years 2023 through 2026.
 
 (2) **Authorization for funding key technological improvements in mission-critical fincen systems.—** — There are authorized to be appropriated for fiscal year 2005 the following amounts, which are authorized to remain available until expended:
 
@@ -397,14 +619,42 @@ Chapter 2 of title I of Public Law 91–508, referred to in subsec. (b)(2)(B)(i)
 
 Section 21 of the Federal Deposit Insurance Act, referred to in subsec. (b)(2)(B)(i), (C)(iii), (I), is classified to [section 1829b of Title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1829b&num=0&edition=prelim), Banks and Banking.
 
+Section 6003 of the Anti-Money Laundering Act of 2020, referred to in subsecs. (b)(2)(L), (d)(4)(C), (g)(8), and (k)(1), is section 6003 of Pub. L. 116–283, which is set out as a note under [section 5311 of this title](./chapter-053-monetary-transactions.md#section-5311).
+
 The Right to Financial Privacy Act of 1978, referred to in subsec. (c)(2), is title XI of Pub. L. 95–630, Nov. 10, 1978, 92 Stat. 3697, which is classified generally to chapter 35 (§ 3401 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, see Short Title note set out under [section 3401 of Title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section3401&num=0&edition=prelim) and Tables.
 
 Section 362 of Public Law 107–56, referred to in subsec. (d)(2)(A), is set out as a note below.
+
+The date of enactment of this subsection, referred to in subsecs. (d)(3)(A) and (g)(7)(A), is the date of enactment of Pub. L. 116–283, which was approved Jan. 1, 2021.
 
 #### Prior Provisions
 A prior section 310 was renumbered [section 315 of this title](./chapter-003-department-of-the-treasury.md#section-315).
 
 #### Amendments
+2021—Subsec. (b)(2)(C)(i). Pub. L. 116–283, § 6102(b)(1), inserted “Tribal,” after “local,”.
+
+Subsec. (b)(2)(C)(iv). Pub. L. 116–283, § 6102(b)(2), struck out “international” before “terrorism”.
+
+Subsec. (b)(2)(E), (F). Pub. L. 116–283, § 6102(b)(1), inserted “Tribal,” after “local,”.
+
+Subsec. (b)(2)(J) to (O). Pub. L. 116–283, § 6101(c), added subpars. (J) to (N) and redesignated former subpar. (J) as (O).
+
+Subsec. (d). Pub. L. 116–283, § 6103(2), added subsec. (d). Former subsec. (d) redesignated (l).
+
+Subsec. (e). Pub. L. 116–283, § 6105(a), added subsec. (e).
+
+Subsecs. (f), (g). Pub. L. 116–283, § 6107, added subsecs. (f) and (g).
+
+Subsec. (h). Pub. L. 116–283, § 6108, added subsec. (h).
+
+Subsec. (i). Pub. L. 116–283, § 6109(a), added subsec. (i).
+
+Subsecs. (j), (k). Pub. L. 116–283, § 6304, added subsecs. (j) and (k).
+
+Subsec. (l). Pub. L. 116–283, § 6103(1), redesignated former subsec. (d) as (l).
+
+Subsec. (l)(1). Pub. L. 116–283, § 6509(a), added par. (1) and struck out former par. (1). Prior to amendment, text read as follows: “There are authorized to be appropriated for FinCEN $100,419,000 for fiscal year 2011 and such sums as may be necessary for each of the fiscal years 2012 and 2013.”
+
 2010—Subsec. (d)(1). Pub. L. 111–195 substituted “$100,419,000 for fiscal year 2011 and such sums as may be necessary for each of the fiscal years 2012 and 2013” for “such sums as may be necessary for fiscal years 2002, 2003, 2004, and 2005”.
 
 2004—Subsec. (c)(1), (2)(A). Pub. L. 108–458, § 6203(a), substituted “FinCEN” for “the Network”.
@@ -413,6 +663,11 @@ Subsec. (d). Pub. L. 108–458, § 6101, designated existing provisions as par. 
 
 #### Effective Date of 2004 Amendment
 Amendment by section 6203(a) of Pub. L. 108–458 effective as if included in Pub. L. 107–56, as of the date of enactment of such Act, and no amendment made by Pub. L. 107–56 that is inconsistent with such amendment to be deemed to have taken effect, see section 6205 of Pub. L. 108–458, set out as a note under [section 1828 of Title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1828&num=0&edition=prelim), Banks and Banking.
+
+#### Assessment of Bank Secrecy act No-action Letters
+Pub. L. 116–283, div. F, title LXIII, § 6305, Jan. 1, 2021, 134 Stat. 4587, provided that: “(a) Assessment.—“(1) In general.—The Director [probably means Director of FinCEN], in consultation with the Attorney General, the Federal functional regulators, State bank supervisors, State credit union supervisors, and other Federal agencies, as appropriate, shall conduct an assessment on whether to establish a process for the issuance of no-action letters by FinCEN [Financial Crimes Enforcement Network of the Department of the Treasury] in response to inquiries from persons concerning the application of the Bank Secrecy Act, the USA PATRIOT Act (Public Law 107–56; 115 Stat. 272), section 8(s) of the Federal Deposit Insurance Act ([12 U.S.C. 1818(s)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1818/s&num=0&edition=prelim)), or any other anti-money laundering or countering the financing of terrorism law (including regulations) to specific conduct, including a request for a statement as to whether FinCEN or any relevant Federal functional regulator intends to take an enforcement action against the person with respect to such conduct. “(2) Analysis.—The assessment required under paragraph (1) shall include an analysis of—“(A) a timeline for the process used to reach a final determination by FinCEN, in consultation with the relevant Federal functional regulators, in response to a request by a person for a no-action letter; “(B) whether improvements in current processes are necessary; “(C) whether a formal no-action letter process would help to mitigate or accentuate illicit finance risks in the United States; and “(D) any other matter the Secretary determines is appropriate. “(b) Report and Rulemakings.—Not later than 180 days after the date of enactment of this Act [Jan. 1, 2021], the Secretary [of the Treasury], in coordination with the Director of the Federal Bureau of Investigation, the Attorney General, the Secretary of Homeland Security, and the Federal functional regulators, shall—“(1) submit to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives a report that contains all findings and determinations made in carrying out the assessment required under subsection (a); and “(2) propose rulemakings, if appropriate, to implement the findings and determinations described in paragraph (1).”
+
+[For definition of “Federal functional regulator” as used in section 6305 of Pub. L. 116–283, set out above, see section 6003 of Pub. L. 116–283, set out as a Definitions note under [section 5311 of this title](./chapter-053-monetary-transactions.md#section-5311).]
 
 #### Establishment of Highly Secure Network
 Pub. L. 107–56, title III, § 362, Oct. 26, 2001, 115 Stat. 332, as amended by Pub. L. 108–458, title VI, § 6202(m), Dec. 17, 2004, 118 Stat. 3746, provided that: “(a) In General.—The Secretary [of the Treasury] shall establish a highly secure network in the Financial Crimes Enforcement Network that—“(1) allows financial institutions to file reports required under subchapter II of chapter 53 of title 31, United States Code, chapter 2 of Public Law 91–508 [probably means chapter 2 (§§ 121 to 129) of title I of Pub. L. 91–508 ([12 U.S.C. 1951](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1951&num=0&edition=prelim) et seq.)], or section 21 of the Federal Deposit Insurance Act [[12 U.S.C. 1829b](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1829b&num=0&edition=prelim)] through the secure network; and “(2) provides financial institutions with alerts and other information regarding suspicious activities that warrant immediate and enhanced scrutiny. “(b) Expedited Development.—The Secretary shall take such action as may be necessary to ensure that the secure network required under subsection (a) is fully operational before the end of the 9-month period beginning on the date of enactment of this Act [Oct. 26, 2001].”
@@ -477,11 +732,13 @@ Pub. L. 108–177, title I, § 105(b), Dec. 13, 2003, 117 Stat. 2603, as amended
 
   (D) combating financial crimes, including money laundering, counterfeiting, and other offenses threatening the integrity of the banking and financial systems;
 
-  (E) other enforcement matters;
+  (E) combating illicit financing relating to human trafficking;
 
-  (F) those intelligence analysis and coordination functions described in subsection (b); and
+  (F) other enforcement matters;
 
-  (G) the security functions and programs of the Department of the Treasury.
+  (G) those intelligence analysis and coordination functions described in subsection (b); and
+
+  (H) the security functions and programs of the Department of the Treasury.
 
 (5) **Reports to congress on proposed measures.—** — The Undersecretary for Terrorism and Financial Crimes and the Assistant Secretary for Terrorist Financing shall report to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives not later than 72 hours after proposing by rule, regulation, order, or otherwise, any measure to reorganize the structure of the Department for combatting money laundering and terrorist financing, before any such proposal becomes effective.
 
@@ -504,6 +761,20 @@ Pub. L. 108–177, title I, § 105(b), Dec. 13, 2003, 117 Stat. 2603, as amended
   (A) *Reporting to undersecretary.—* — The Financial Crimes Enforcement Network (in this section referred to as “FinCEN”), a bureau of the Department of the Treasury, shall report to the Undersecretary for Terrorism and Financial Crimes. The Undersecretary for Terrorism and Financial Crimes may not redelegate its reporting authority over FinCEN.
 
   (B) *Office of compliance.—* — There is established within FinCEN, an Office of Compliance.
+
+(8) **Interagency coordination.—** — The Secretary of the Treasury, after consultation with the Undersecretary for Terrorism and Financial Crimes, shall designate an office within the OTFI that shall coordinate efforts to combat the illicit financing of human trafficking with—
+
+  (A) other offices of the Department of the Treasury;
+
+  (B) other Federal agencies, including—
+
+    (i) the Office to Monitor and Combat Trafficking in Persons of the Department of State; and
+
+    (ii) the Interagency Task Force to Monitor and Combat Trafficking;
+
+  (C) State and local law enforcement agencies; and
+
+  (D) foreign governments.
 
 **(b) Office of Intelligence and Analysis.—**
 
@@ -535,6 +806,14 @@ Pub. L. 108–177, title I, § 105(b), Dec. 13, 2003, 117 Stat. 2603, as amended
 
 **(f) References.—** References in this section to the “Secretary”, “Undersecretary”, “Deputy Secretary”, “Deputy Assistant Secretary”, “Office”, “Assistant Secretary”, and “Department” are references to positions and offices of the Department of the Treasury, unless otherwise specified.
 
+**(g) Special Hiring Authority.—**
+
+(1) **In general.—** — The Secretary of the Treasury may appoint, without regard to the provisions of sections 3309 through 3318 of title 5, candidates directly to positions in the competitive service, as defined in section 2102 of that title, in the OTFI.
+
+(2) **Primary responsibilities.—** — The primary responsibility of candidates appointed under paragraph (1) shall be to provide substantive support in support of the duties described in subparagraphs (A) through (G) of subsection (a)(4).
+
+**(h) Deployment of Staff.—** The Secretary of the Treasury may detail, without regard to the provisions of section 300.301 of title 5, Code of Federal Regulations, any employee in the OTFI to any position in the OTFI for which the Secretary has determined there is a need.
+
 ### Statutory Notes
 
 #### References in Text
@@ -548,6 +827,12 @@ Section 105 of the Intelligence Authorization Act for Fiscal Year 2004, referred
 A prior section 312 was renumbered [section 315 of this title](./chapter-003-department-of-the-treasury.md#section-315).
 
 #### Amendments
+2021—Subsecs. (g), (h). Pub. L. 116–283 added subsecs. (g) and (h).
+
+2019—Subsec. (a)(4)(E) to (H). Pub. L. 116–92, § 7153(a), added subpar. (E) and redesignated former subpars. (E) to (G) as (F) to (H), respectively.
+
+Subsec. (a)(8). Pub. L. 116–92, § 7153(b), added par. (8).
+
 2015—Subsec. (d). Pub. L. 114–22 substituted “section 9705” for “section 9703”.
 
 2010—Pub. L. 111–203 renumbered [section 313 of this title](./chapter-003-department-of-the-treasury.md#section-313) as this section.
@@ -879,6 +1164,44 @@ In the section, the words “When the term of office . . . ends” are substitut
 Amendment by Pub. L. 111–203 effective 1 day after July 21, 2010, except as otherwise provided, see section 4 of Pub. L. 111–203, set out as an Effective Date note under [section 5301 of Title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section5301&num=0&edition=prelim), Banks and Banking.
 
 
+<a id="section-316"></a>
+## § 316. Treasury Attaché Program
+**(a) In General.—** There is established the Treasury Financial Attaché Program, under which the Secretary of the Treasury shall appoint employees of the Department of the Treasury as a Treasury Financial Attaché, who shall—
+
+(1) further the work of the Department of the Treasury in developing and executing the financial and economic policy of the United States Government and the international fight against terrorism, money laundering, and other illicit finance;
+
+(2) be co-located in a United States Embassy, a similar United States Government facility, or a foreign government facility, as the Secretary determines is appropriate;
+
+(3) establish and maintain relationships with foreign counterparts, including employees of ministries of finance, central banks, international financial institutions, and other relevant official entities;
+
+(4) conduct outreach to local and foreign financial institutions and other commercial actors;
+
+(5) coordinate with representatives of the Department of Justice at United States Embassies who perform similar functions on behalf of the United States Government; and
+
+(6) perform such other actions as the Secretary determines are appropriate.
+
+**(b) Number of Attachés.—**
+
+(1) **In general.—** — The number of Treasury Financial Attachés appointed under this section at any one time shall be not fewer than 6 more employees than the number of employees of the Department of the Treasury serving as Treasury attachés on the date of enactment of this section.
+
+(2) **Additional posts.—** — The Secretary of the Treasury may establish additional posts subject to the availability of appropriations.
+
+**(c) Compensation.—**
+
+(1) **In general.—** — Each Treasury Financial Attaché appointed under this section and located at a United States Embassy shall receive compensation, including allowances, at the higher of—
+
+  (A) the rate of compensation, including allowances, provided to a Foreign Service officer serving at the same embassy; and
+
+  (B) the rate of compensation, including allowances, the Treasury Financial Attaché would otherwise have received, absent the application of this subsection.
+
+(2) **Phase in.—** — The compensation described in paragraph (1) shall be phased in over 2 years.
+
+### Statutory Notes
+
+#### References in Text
+The date of enactment of this section, referred to in subsecs. (b)(1), is the date of enactment of Pub. L. 116–283, which was approved Jan. 1, 2021.
+
+
 <a id="section-321"></a>
 ## § 321. General authority of the Secretary
 **(a)** The Secretary of the Treasury shall—
@@ -1023,11 +1346,11 @@ Amendment by section 378(1) of Pub. L. 111–203 effective on the transfer date,
 
 Amendment by section 502(b) of Pub. L. 111–203 effective 1 day after July 21, 2010, except as otherwise provided, see section 4 of Pub. L. 111–203, set out as an Effective Date note under [section 5301 of Title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section5301&num=0&edition=prelim), Banks and Banking.
 
-#### Emergency Preparedness Functions
-For assignment of certain emergency preparedness functions to Secretary of the Treasury, see Parts 1, 2, and 15 of Ex. Ord. No. 12656, Nov. 18, 1988, 53 F.R. 47491, set out as a note under [section 5195 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5195&num=0&edition=prelim), The Public Health and Welfare.
-
 #### Use of Aircraft in Emergency Law Enforcement Support
 Pub. L. 104–52, title I, § 107, Nov. 19, 1995, 109 Stat. 476, provided that: “The Secretary of the Treasury is authorized in fiscal year 1996 and hereafter, to use Treasury Department aircraft, with or without reimbursement, to assist bureaus within the Department of the Treasury or other Federal agencies, Departments or offices outside of the Department of the Treasury to provide emergency law enforcement support to protect human life, property, public health, or safety.”
+
+#### Emergency Preparedness Functions
+For assignment of certain emergency preparedness functions to Secretary of the Treasury, see Parts 1, 2, and 15 of Ex. Ord. No. 12656, Nov. 18, 1988, 53 F.R. 47491, set out as a note under [section 5195 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5195&num=0&edition=prelim), The Public Health and Welfare.
 
 
 <a id="section-322"></a>
@@ -1559,4 +1882,4 @@ in a manner which could reasonably be interpreted or construed as conveying the 
 Pub. L. 103–296, title III, § 312(m), Aug. 15, 1994, 108 Stat. 1530, provided that: “(1) In general.—Except as provided in paragraph (2), the amendments made by this section [enacting this section and amending [section 1320b–10 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1320b–10&num=0&edition=prelim), The Public Health and Welfare] shall apply with respect to violations occurring after March 31, 1995. “(2) Prohibition of misuse of department of the treasury names, symbols, etc.—Subsection (l)(3) [enacting provisions set out below] shall take effect on the date of the enactment of this Act [Aug. 15, 1994], and the amendments made by paragraphs (1) and (2) of subsection (l) [enacting this section] shall apply with respect to violations occurring after such date.”
 
 #### Report on Implementation of Section
-Pub. L. 103–296, title III, § 312(l)(3), Aug. 15, 1994, 108 Stat. 1530, provided that: “Not later than May 1, 1996, the Secretary of the Treasury shall submit a report to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate on the implementation of the amendments made by this section [enacting this section and amending [section 1320b–10 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1320b–10&num=0&edition=prelim), The Public Health and Welfare]. Such report shall include the number of cases in which the Secretary has notified persons of violations of [section 333 of title 31](./chapter-003-department-of-the-treasury.md#section-333), United States Code (as added by subsection (a)[(l)(1)]), the number of prosecutions commenced under such section, and the total amount of the penalties collected in such prosecutions.”
+Pub. L. 103–296, title III, § 312(l)(3), Aug. 15, 1994, 108 Stat. 1530, required the Secretary of the Treasury to submit a report to Congress by May 1, 1996, on the implementation of the amendments made by section 312 of Pub. L. 103–296 (enacting this section and amending [section 1320b–10 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1320b–10&num=0&edition=prelim)), with such report to include the number of cases in which the Secretary has notified persons of violations of this section, the number of prosecutions commenced under such section, and the total amount of the penalties collected in such prosecutions.

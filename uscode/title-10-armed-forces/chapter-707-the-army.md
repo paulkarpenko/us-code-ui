@@ -74,7 +74,7 @@ In subsection (c)(2), the words “or inducted” are omitted as covered by the 
 In subsection (d), 10:20i (8th through 38th words) is omitted as surplusage. The words “consists of all” are substituted for the words “shall include all of”. The words “members of the Army” are substituted for the word “personnel”.
 
 #### Amendments
-2018—Pub. L. 115–232 renumbered [section 3062 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section3062&num=0&edition=prelim) as this section.
+2018—Pub. L. 115–232 renumbered [section 3062 of this title](./chapter-203-general-matters.md#section-3062) as this section.
 
 2006—Subsec. (a)(1). Pub. L. 109–163 substituted “Commonwealths and possessions” for “Territories, Commonwealths, and possessions”.
 
@@ -131,29 +131,18 @@ In subsection (b), the words “enumerated in this subsection” are omitted as 
 
 In subsection (c), the words “and commissioned” are omitted as covered by the word “appointed”. The words “specified in subsection (b) of this section” are omitted as surplusage. The word “commissioned” is inserted before the word “officer”, for clarity.
 
-#### Amendment of Subsection (a)
-Pub. L. 115–91, div. A, title V, § 582, Dec. 12, 2017, 131 Stat. 1415, provided that, effective Oct. 1, 2020, but only if the report required by paragraph (2) of section 582(b) of Pub. L. 115–91, set out below, is not submitted before Sept. 30, 2020, subsection (a) of this section is amended as follows:
-
-(1) in paragraph (12), by striking “and”;
-
-(2) by redesignating paragraph (13) as paragraph (14); and
-
-(3) by inserting after paragraph (12) the following new paragraph (13):
-
-“(13) Explosive Ordnance Disposal Corps; and”.
-
-See 2017 Amendment note and Effective Date and Condition on Execution of 2017 Amendment note below.
-
 #### Amendments
-2018—Pub. L. 115–232 renumbered [section 3063 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section3063&num=0&edition=prelim) as this section.
+2018—Pub. L. 115–232 renumbered [section 3063 of this title](./chapter-203-general-matters.md#section-3063) as this section.
 
-2017—Subsec. (a)(13), (14). Pub. L. 115–91 added par. (13) and redesignated former par. (13) as (14).
+2017—Subsec. (a)(13), (14). Pub. L. 115–91, which directed the redesignation of par. (13) as (14) and the addition of a new par. (13) “Explosive Ordnance Disposal Corps; and”, was not executed pursuant to section 582(b) of Pub. L. 115–91, set out as an Effective Date and Condition on Execution of 2017 Amendment note below.
 
 #### Effective Date of 2018 Amendment
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
 
 #### Effective Date and Condition on Execution of 2017 Amendment
-Pub. L. 115–91, div. A, title V, § 582(b), Dec. 12, 2017, 131 Stat. 1415, provided that: “(1) Effective date.—The amendments made by subsection (a) [amending this section] shall take effect on October 1, 2020, but only if the report required by paragraph (2) is not submitted before that date as required by such paragraph. “(2) Reporting requirement.—Not later than September 30, 2020, the Secretary of the Army shall submit to the Committees on Armed Services of the Senate and the House of Representatives a report containing certifications that the following actions have occurred as of that date:“(A) The defense budget materials display funding requirements for explosive ordnance disposal separately and a program of record is established and maintained for explosive ordnance disposal. “(B) A process has been established to ensure that, by not later than five years after the date of the enactment of this Act [Dec. 12, 2017], there is, and will continue to be, at least one general officer in the Army qualified regarding issues involving explosive ordnance disposal to ensure officer professional development and upward mobility. “(C) The Ordnance Personnel Proponency Office is, and will continue to be, manned with an explosive ordnance disposal officer to oversee explosive ordnance disposal officer and enlisted personnel proponency. “(D) Explosive ordnance disposal officer education has been included in a basic officer leadership course, a captains career course, and a policy and planning course specific to explosive ordnance disposal as part of intermediate level education and pre-command courses. “(E) The office of the Army Deputy Chief of Staff, G8, and the office of the Army Deputy Chief of Staff, G3, have, and will continue to be, manned with explosive ordnance disposal officers responsible for the decision management decision packages, ammunition organizational integration, and force modernization related to explosive ordnance disposal. “(F) The Army has established and maintained explosive ordnance disposal cells at the Army Forces Command, Army Service Component Commands, Army Special Operations Command, Army Training and Doctrine Command, and the Army Capability and Integration Center. “(3) Notice of report.—The Secretary of the Army shall notify the Law Revision Counsel of the House of Representatives of the submission of the report under paragraph (2) so that the Law Revision Counsel does not execute the amendments made by subsection (a).”
+Pub. L. 115–91, div. A, title V, § 582(b), Dec. 12, 2017, 131 Stat. 1415, as amended by Pub. L. 116–283, div. A, title V, § 593, Jan. 1, 2021, 134 Stat. 3666, provided that: “(1) Effective date.—The amendments made by subsection (a) [amending this section] shall take effect on October 1, 2025, but only if the report required by paragraph (2) is not submitted before that date as required by such paragraph. “(2) Reporting requirement.—Not later than September 30, 2025, the Secretary of the Army shall submit to the Committees on Armed Services of the Senate and the House of Representatives a report containing certifications that the following actions have occurred as of that date:“(A) The defense budget materials display funding requirements for explosive ordnance disposal separately and a program of record is established and maintained for explosive ordnance disposal. “(B) A process has been established to ensure that, by not later than five years after the date of the enactment of this Act [Dec. 12, 2017], there is, and will continue to be, at least one general officer in the Army, the explosive ordnance disposal commandant (chief of explosive ordnance disposal), qualified regarding issues involving explosive ordnance disposal to ensure officer professional development and upward mobility. “(C) The Ordnance Personnel Proponency Office is, and will continue to be, manned with an explosive ordnance disposal officer to oversee explosive ordnance disposal officer and enlisted personnel proponency. “(D) Explosive ordnance disposal officer education has been included in a basic officer leadership course, a captains career course, and a policy and planning course specific to explosive ordnance disposal as part of intermediate level education and pre-command courses. “(E) The office of the Army Deputy Chief of Staff, G8, and the office of the Army Deputy Chief of Staff, G3, have, and will continue to be, manned with explosive ordnance disposal officers responsible for the decision management decision packages, ammunition organizational integration, and force modernization related to explosive ordnance disposal. “(F) The Army has established and maintained explosive ordnance disposal cells at the Army Forces Command, Army Service Component Commands, Army Special Operations Command, Army Training and Doctrine Command, and the Army Capability and Integration Center. “(G) The explosive ordnance disposal commandant (chief of explosive ordnance disposal) has determined whether explosive ordnance disposal soldiers have the appropriate skills necessary to support missions of special operations forces (as identified in [section 167(j) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section167/j&num=0&edition=prelim), United States Code). Such skills may include airborne, air assault, combat diver, fast roping insertion and extraction, helocasting, military free-fall, and off-road driving. “(3) Notice of report.—The Secretary of the Army shall notify the Law Revision Counsel of the House of Representatives of the submission of the report under paragraph (2) so that the Law Revision Counsel does not execute the amendments made by subsection (a).”
+
+[The report required by section 582(b)(2) of Pub. L. 115–91, set out above, was submitted to Congress on Sept. 17, 2020.]
 
 #### Philippine Scouts
 Act Aug. 10, 1956, ch. 1041, § 42, 70A Stat. 636, provided that: “The President is authorized to form the Philippine Scouts into such branches and tactical units as he may deem expedient, within the limit of strength prescribed by law, organized similarly to those of the Regular Army.”
@@ -188,7 +177,7 @@ In subsection (a), the words “The special branches of the Army” are substitu
 In subsection (b), the words “who has been appointed and commissioned in some other special branch, or * * * without specification of branch” are omitted as surplusage.
 
 #### Amendments
-2018—Pub. L. 115–232 renumbered [section 3064 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section3064&num=0&edition=prelim) as this section.
+2018—Pub. L. 115–232 renumbered [section 3064 of this title](./chapter-203-general-matters.md#section-3064) as this section.
 
 1981—Subsec. (b). Pub. L. 97–22, § 5(a)(1), substituted “may assign commissioned officers (other than officers of the Regular Army) and members to such branches” for “may appoint commissioned officers in, and may assign members to, such branches”.
 
@@ -238,7 +227,7 @@ In subsection (d), the words “basic or special branch” are substituted for t
 In subsection (e), the words “No officer * * * may be * * * unless he is” are substituted for the words “officers of the Army * * * shall * * * possess”. The last 16 words of the first sentence are substituted for the Act of June 28, 1950, ch. 383, Title IV, § 404(e), 64 Stat. 274. The last sentence is substituted for 10:1g(f) (1st 9 words).
 
 #### Amendments
-2018—Pub. L. 115–232 renumbered [section 3065 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section3065&num=0&edition=prelim) as this section.
+2018—Pub. L. 115–232 renumbered [section 3065 of this title](./chapter-203-general-matters.md#section-3065) as this section.
 
 #### Effective Date of 2018 Amendment
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
@@ -273,7 +262,7 @@ There is an Army Medical Department in the Army. The Army Medical Department con
 | Revised section | Source (U.S. Code) | Source (Statutes at Large) |
 | 3067 | 10:81–1 (less last sentence). | June 28, 1950, ch. 383, § 307 (less last sentence), 64 Stat. 270. |
 
-The words “authorized by sections 21f and 21h, respectively, of this title” are omitted as surplusage. 10:81–1 (2d sentence) is omitted as covered by [section 3064 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section3064&num=0&edition=prelim).
+The words “authorized by sections 21f and 21h, respectively, of this title” are omitted as surplusage. 10:81–1 (2d sentence) is omitted as covered by [section 3064 of this title](./chapter-203-general-matters.md#section-3064).
 
 | 1958 Act |  |  |
 | --- | --- | --- |
@@ -281,7 +270,7 @@ The words “authorized by sections 21f and 21h, respectively, of this title” 
 | 3067(8) | 10 App.:81–1. | Aug. 9, 1955, ch. 654, § 3(a), 69 Stat. 579. |
 
 #### Amendments
-2018—Pub. L. 115–232 renumbered [section 3067 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section3067&num=0&edition=prelim) as this section.
+2018—Pub. L. 115–232 renumbered [section 3067 of this title](./chapter-203-general-matters.md#section-3067) as this section.
 
 1968—Pub. L. 90–329 substituted “Army Medical Department” for “Army Medical Service”.
 
@@ -327,14 +316,14 @@ There is a Medical Service Corps in the Army. The Medical Service Corps consists
 | 3068(a) | 10:81–1 (last sentence, less 5th through 14th words). 10:156a (less 2d sentence). | June 28, 1950, ch. 383, § 307 (last sentence, less 5th through 14th words), 64 Stat. 270. |
 | 3068(b) 3068(c) | 10:156b. 10:156d. | Aug. 4, 1947, ch. 459, §§ 101 (less 2d sentence), 102(a), (b), 61 Stat. 734, 735; Mar. 23, 1954, ch. 103, 68 Stat. 30. |
 
-In subsection (a), 10:156a (1st 20 words) is omitted as superseded by [section 3067 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section3067&num=0&edition=prelim), which establishes the Medical Service Corps in the Army Medical Service. 10:156a (last 16 words of 1st sentence) is omitted as superseded by [section 3012(e) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section3012/e&num=0&edition=prelim), which authorizes the Secretary of the Army to prescribe the duties of members of the Army. 10:81–1 (last sentence, less 5th through 14th words) is omitted as surplusage.
+In subsection (a), 10:156a (1st 20 words) is omitted as superseded by [section 3067 of this title](./chapter-203-general-matters.md#section-3067), which establishes the Medical Service Corps in the Army Medical Service. 10:156a (last 16 words of 1st sentence) is omitted as superseded by [section 3012(e) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section3012/e&num=0&edition=prelim), which authorizes the Secretary of the Army to prescribe the duties of members of the Army. 10:81–1 (last sentence, less 5th through 14th words) is omitted as surplusage.
 
 In subsection (b), the words “of the Regular Army in that corps whose regular grade is above captain” are substituted for the words “commissioned in the Medical Service Corps, Regular Army, in the permanent grade of major or above”. The words “If he holds a lower regular grade” are substituted for the words “if commissioned in permanent grade below colonel”. The words “is entitled” are substituted for the words “shall * * * have”. The words “ranks above” are substituted for the words “shall be superior in rank”.
 
 In subsection (c), the words “is the Surgeon General’s consultant” are substituted for the words “who shall be consultants to him”.
 
 #### Amendments
-2018—Pub. L. 115–232 renumbered [section 3068 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section3068&num=0&edition=prelim) as this section.
+2018—Pub. L. 115–232 renumbered [section 3068 of this title](./chapter-203-general-matters.md#section-3068) as this section.
 
 2011—Par. (5)(A). Pub. L. 111–383, § 594(1), substituted “Administrative Health Services” for “Pharmacy, Supply, and Administration”.
 
@@ -366,7 +355,7 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 The words “officers of the Regular Army in that corps” are substituted for the words “officers permanently commissioned in such Army Nurse Corps”. The words “but not for more than” are substituted for the words “for a term not to exceed”, in 10:166(a). The words “vacating her regular grade” are substituted for the words “vacation of her permanent grade”.
 
 #### Amendments
-2018—Pub. L. 115–232 renumbered [section 3069 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section3069&num=0&edition=prelim) as this section.
+2018—Pub. L. 115–232 renumbered [section 3069 of this title](./chapter-203-general-matters.md#section-3069) as this section.
 
 2016—Subsec. (b). Pub. L. 114–328 struck out second sentence which read as follows: “An appointee who holds a lower regular grade shall be appointed in the regular grade of major general.”
 
@@ -425,12 +414,12 @@ Pub. L. 85–155, title I, § 104, Aug. 21, 1957, 71 Stat. 380, provided that: �
 | 3070(a) | 10:81–1 (9th through 14th words of last sentence). 10:166a(a) (less 2d sentence; and less last sentence, as applicable to strength). | June 28, 1950, ch. 383, § 307 (9th through 14th words of last sentence), 64 Stat. 270. Apr. 16, 1947, ch. 38, §§ 102(a) (less 2d sentence; and less last sentence, as applicable to strength), 102(b), 61 Stat. 42. |
 | 3070(b) | 10:166a(b). |  |
 
-In subsection (a), 10:166a(a) (1st 20 words of 1st sentence) is omitted as superseded by [section 3067 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section3067&num=0&edition=prelim), which establishes the Women’s Medical Specialist Corps in the Army Medical Service. 10:166a(a) (last 16 words of 1st sentence) is omitted as superseded by [section 3012(e) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section3012/e&num=0&edition=prelim), which authorizes the Secretary of the Army to prescribe the duties of members of the Army.
+In subsection (a), 10:166a(a) (1st 20 words of 1st sentence) is omitted as superseded by [section 3067 of this title](./chapter-203-general-matters.md#section-3067), which establishes the Women’s Medical Specialist Corps in the Army Medical Service. 10:166a(a) (last 16 words of 1st sentence) is omitted as superseded by [section 3012(e) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section3012/e&num=0&edition=prelim), which authorizes the Secretary of the Army to prescribe the duties of members of the Army.
 
 In subsection (b), the words “officers of the Regular Army in that corps” are substituted for the words “officers permanently commissioned in such Women’s Medical Specialist Corps”. The words “vacating her regular grade” are substituted for the words “vacation of her permanent grade”.
 
 #### Amendments
-2018—Pub. L. 115–232 renumbered [section 3070 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section3070&num=0&edition=prelim) as this section.
+2018—Pub. L. 115–232 renumbered [section 3070 of this title](./chapter-203-general-matters.md#section-3070) as this section.
 
 2016—Pub. L. 114–328, § 502(p)(2), amended section catchline generally, substituting “Army Medical Specialist Corps: organization; Chief” for “Army Medical Specialist Corps: organization; Chief and assistant chiefs”.
 
@@ -506,10 +495,10 @@ There is a Judge Advocate General’s Corps in the Army. The Judge Advocate Gene
 | Revised section | Source (U.S. Code) | Source (Statutes at Large) |
 | 3072 | 10:61–1 (1st sentence, less applicability to strength). | June 28, 1950, ch. 383, § 308 (1st sentence, less applicability to strength), 64 Stat. 270. |
 
-The words “authorized by sections 21f and 21h, respectively, of this title” are omitted as surplusage. The word “grade” is substituted for the word “rank”. The words “but the Secretary shall not assign to the Judge Advocate General’s Corps any officer who has been appointed and commissioned in some other special branch or in the Regular Army without specification of branch” are omitted as covered by [section 3064 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section3064&num=0&edition=prelim).
+The words “authorized by sections 21f and 21h, respectively, of this title” are omitted as surplusage. The word “grade” is substituted for the word “rank”. The words “but the Secretary shall not assign to the Judge Advocate General’s Corps any officer who has been appointed and commissioned in some other special branch or in the Regular Army without specification of branch” are omitted as covered by [section 3064 of this title](./chapter-203-general-matters.md#section-3064).
 
 #### Amendments
-2018—Pub. L. 115–232 renumbered [section 3072 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section3072&num=0&edition=prelim) as this section.
+2018—Pub. L. 115–232 renumbered [section 3072 of this title](./chapter-203-general-matters.md#section-3072) as this section.
 
 2016—Pars. (3) to (5). Pub. L. 114–328 redesignated pars. (4) and (5) as (3) and (4), respectively, and struck out former par. (3) which read as follows: “three officers in the grade of brigadier general;”.
 
@@ -623,7 +612,7 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 (3) serve as the adviser to the Office of the Surgeon General on all matters relating directly to dentistry.
 
-**(d)** Under such regulations as the Secretary of the Army may prescribe, dental and dental auxiliary personnel throughout the Army shall be organized into units commanded by a designated Dental Corps Officer. Such officer will be directly responsible to the commander of installations, organizations, and activities for all professional and technical matters and such administrative matters as may be prescribed by regulation.
+**(d)** Under such regulations as the Secretary of the Army may prescribe, dental and dental auxiliary personnel throughout the Army shall be organized into units commanded by a designated commissioned officer of the Army Medical Department. Such officer will be directly responsible to the commander of installations, organizations, and activities for all professional and technical matters and such administrative matters as may be prescribed by regulation.
 
 ### Statutory Notes
 
@@ -634,6 +623,8 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 A prior section 7081 was renumbered [section 8581 of this title](./chapter-857-retirement-of-civilian-members-of-the-teaching-staffs-of-the-united-states-naval-academy-and-united-states-naval-postgraduate-school.md#section-8581).
 
 #### Amendments
+2019—Subsec. (d). Pub. L. 116–92 substituted “commissioned officer of the Army Medical Department” for “Dental Corps Officer”.
+
 2018—Pub. L. 115–232 renumbered [section 3081 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section3081&num=0&edition=prelim) as this section.
 
 1986—Subsec. (a). Pub. L. 99–433 substituted “section 3039” for “section 3040”.

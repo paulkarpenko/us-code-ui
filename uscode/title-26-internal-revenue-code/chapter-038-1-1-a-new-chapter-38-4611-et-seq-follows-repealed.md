@@ -72,7 +72,7 @@ source: >-
 
 (1) **In general** — Except as provided in paragraph (2), the Oil Spill Liability Trust Fund financing rate under subsection (c) shall apply on and after April 1, 2006, or if later, the date which is 30 days after the last day of any calendar quarter for which the Secretary estimates that, as of the close of that quarter, the unobligated balance in the Oil Spill Liability Trust Fund is less than $2,000,000,000.
 
-(2) **Termination** — The Oil Spill Liability Trust Fund financing rate shall not apply after December 31, 2018.
+(2) **Termination** — The Oil Spill Liability Trust Fund financing rate shall not apply after December 31, 2025.
 
 ### Statutory Notes
 
@@ -80,6 +80,10 @@ source: >-
 Amendments by Pub. L. 99–509, title VIII, § 8031(a), (b), and (d)(1), Oct. 21, 1986, 100 Stat. 1955, to subsecs. (a) to (e) of this section were not executed to text pursuant to Pub. L. 99–509, title VIII, § 8031(e)(2), which provided that the amendments made by section 8031 shall not take effect if the Superfund Amendments and Reauthorization Act of 1986 is enacted. The Superfund Amendments and Reauthorization Act of 1986 was enacted as Pub. L. 99–499, approved Oct. 17, 1986.
 
 #### Amendments
+2020—Subsec. (f)(2). Pub. L. 116–260 substituted “December 31, 2025” for “December 31, 2020”.
+
+2019—Subsec. (f)(2). Pub. L. 116–94 substituted “December 31, 2020” for “December 31, 2018”.
+
 2018—Subsec. (f)(2). Pub. L. 115–123 substituted “December 31, 2018” for “December 31, 2017”.
 
 2014—Subsec. (e)(2)(B). Pub. L. 113–295, § 221(a)(12)(I)(i), substituted “this section” for “section 59A, this section,”.
@@ -143,6 +147,12 @@ Pub. L. 99–499, §§ 511(a), 512(b), amended subsec. (d) generally and redesig
 then no tax shall be imposed by this section during the first calendar year beginning after the date referred to in paragraph (1).”
 
 Subsec. (f). Pub. L. 99–509, § 8032(c)(2), added subsec. (f).
+
+#### Effective Date of 2020 Amendment
+Pub. L. 116–260, div. EE, title I, § 117(b), Dec. 27, 2020, 134 Stat. 3051, provided that: “The amendment made by this section [amending this section] shall apply on and after January 1, 2021.”
+
+#### Effective Date of 2019 Amendment
+Pub. L. 116–94, div. Q, title I, § 134(b), Dec. 20, 2019, 133 Stat. 3234, provided that: “The amendment made by this section [amending this section] shall apply on and after the first day of the first calendar month beginning after the date of the enactment of this Act [Dec. 20, 2019].”
 
 #### Effective Date of 2018 Amendment
 Pub. L. 115–123, div. D, title I, § 40416(b), Feb. 9, 2018, 132 Stat. 152, provided that: “The amendment made by this section [amending this section] shall apply on and after the first day of the first calendar month beginning after the date of the enactment of this Act [Feb. 9, 2018].”

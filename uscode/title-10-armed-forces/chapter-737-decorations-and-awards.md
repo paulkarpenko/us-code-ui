@@ -34,6 +34,11 @@ The words “That the provisions of existing law relating to the award of medals
 #### Effective Date of 2018 Amendment
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
 
+#### Review of World War I Valor Medals
+Pub. L. 116–92, div. A, title V, § 584, Dec. 20, 2019, 133 Stat. 1412, as amended by Pub. L. 116–283, div. A, title V, § 561(a), Jan. 1, 2021, 134 Stat. 3639, provided that: “(a) Review Required.—Each Secretary concerned shall review the service records of World War I veterans described in subsection (b) under the jurisdiction of such Secretary in order to determine whether any such veteran should be awarded the Medal of Honor for valor during World War I. “(b) Covered World War I Veterans.—The World War I veterans whose service records may be reviewed under subsection (a) are the following:“(1) African American war veterans, Asian American war veterans, Hispanic American war veterans, Jewish American war veterans, and Native American war veterans who were awarded the Distinguished Service Cross or the Navy Cross for an action that occurred between April 6, 1917, and November 11, 1918. “(2) African American war veterans, Asian American war veterans, Hispanic American war veterans, Jewish American war veterans, and Native American war veterans who were awarded the Croix de Guerre with Palm (that is, awarded at the Army level or above) by the Government of France for an action that occurred between April 6, 1917, and November 11, 1918. “(3) African American war veterans, Asian American war veterans, Hispanic American war veterans, Jewish American war veterans, and Native American war veterans who were recommended for a Medal of Honor for actions that occurred from April 6, 1917, to November 11, 1918, if the Department of Defense possesses or receives records relating to such recommendation. “(c) Recommendation Based on Review.—If a Secretary concerned determines, based upon the review under subsection (a), that the award of the Medal of Honor to a covered World War I veteran is warranted, such Secretary shall submit to the President a recommendation that the President award the Medal of Honor to that veteran. “(d) Authority To Award Medal of Honor.—The Medal of Honor may be awarded to a World War I veteran in accordance with a recommendation of a Secretary concerned under subsection (c). “(e) Waiver of Time Limitations.—An award of the Medal of Honor may be made under subsection (d) without regard to—“(1) section 7274 or 8298 of title 10, United States Code, as applicable; and “(2) any regulation or other administrative restriction on—“(A) the time for awarding the Medal of Honor; or “(B) the awarding of the Medal of Honor for service for which a Distinguished Service Cross or Navy Cross has been awarded. “(f) Deadline.—The review under subsection (a) shall terminate not later than six years after the date of the enactment of this Act [Dec. 20, 2019]. “(g) Definitions.—“(1) In general.—In this section:“(A) African american war veteran.—The term ‘African American war veteran’ means any person who served in the United States Armed Forces between April 6, 1917, and November 11, 1918, and who identified himself as of African descent on his military personnel records. “(B) Asian american war veteran.—The term ‘Asian American war veteran’ means any person who served in the United States Armed Forces between April 6, 1917, and November 11, 1918, and who identified himself racially, nationally, or ethnically as originating from a country in Asia on his military personnel records. “(C) Hispanic american war veteran.—The term ‘Hispanic American war veteran’ means any person who served in the United States Armed Forces between April 6, 1917, and November 11, 1918, and who identified himself racially, nationally, or ethnically as originating from a country where Spanish is an official language on his military personnel records. “(D) Jewish american war veteran.—The term ‘Jewish American war veteran’ mean any person who served in the United States Armed Forces between April 6, 1917, and November 11, 1918, and who identified himself as Jewish on his military personnel records. “(E) Native american war veteran.—The term ‘Native American war veteran’ means any person who served in the United States Armed Forces between April 6, 1917, and November 11, 1918, and who identified himself as a member of a federally recognized tribe within the modern territory of the United States on his military personnel records. “(F) Secretary concerned.—The term ‘Secretary concerned’ means—“(i) the Secretary of the Army, in the case of members of the Armed Forces who served in the Army between April 6, 1917, and November 11, 1918; and “(ii) the Secretary of the Navy, in the case of members of the Armed Forces who served in the Navy or the Marine Corps between April 6, 1917, and November 11, 1918. “(2) Application of definitions of origin.—If the military personnel records of a person do not reflect the person’s membership in one of the groups identified in subparagraphs (B) through (F) of paragraph (1) but historical evidence exists that demonstrates the person’s Jewish faith held at the time of service, or that the person identified himself as of African, Asian, Hispanic, or Native American descent, the person may be treated as being a member of the applicable group by the Secretary concerned for purposes of this section.”
+
+[Pub. L. 116–283, div. A, title V, § 561(b), Jan. 1, 2021, 134 Stat. 3639, provided that: “The amendment made by subsection (a) [amending section 584 of Pub. L. 116–92, set out above] shall take effect as if enacted on the date of the enactment of the National Defense Authorization Act for Fiscal Year 2020 [Dec. 20, 2019] (Public Law 116–92; 133 Stat. 1281 [1198]).” ]
+
 #### Review Regarding Award of Medal of Honor to Certain Asian American and Native American Pacific Islander War Veterans
 Pub. L. 114–328, div. A, title V, § 586, Dec. 23, 2016, 130 Stat. 2151, as amended by Pub. L. 115–232, div. A, title VIII, § 809(b)(6), Aug. 13, 2018, 132 Stat. 1840, provided that: “(a) Review Required.—The Secretary of each military department shall review the service records of each Asian American and Native American Pacific Islander war veteran described in subsection (b) to determine whether that veteran should be awarded the Medal of Honor. “(b) Covered Veterans.—The Asian American and Native American Pacific Islander war veterans whose service records are to be reviewed under subsection (a) are any former members of the Armed Forces whose service records identify them as an Asian American or Native American Pacific Islander war veteran who was awarded the Distinguished-Service Cross, the Navy Cross, or the Air Force Cross during the Korean War or the Vietnam War. “(c) Consultations.—In carrying out the review under subsection (a), the Secretary of each military department shall consult with such veterans service organizations as the Secretary considers appropriate. “(d) Recommendations Based on Review.—If the Secretary concerned determines, based upon the review under subsection (a) of the service records of any Asian American or Native American Pacific Islander war veteran, that the award of the Medal of Honor to that veteran is warranted, the Secretary shall submit to the President a recommendation that the President award the Medal of Honor to that veteran. “(e) Authority to Award Medal of Honor.—A Medal of Honor may be awarded to an Asian American or Native American Pacific Islander war veteran in accordance with a recommendation of the Secretary concerned under subsection (d). “(f) Congressional Notification.—No Medal of Honor may be awarded pursuant to subsection (e) until the Secretary of Defense submits to the Committees on Armed Services of the Senate and the House of Representatives notice of the recommendations under subsection (d), including the name of each Asian American or Native American Pacific Islander war veteran recommended to be awarded a Medal of Honor and the rationale for such recommendation. “(g) Waiver of Time Limitations.—An award of the Medal of Honor may be made under subsection (e) without regard to—“(1) section 7274, 8296, or 9274 of title 10, United States Code, as applicable; and “(2) any regulation or other administrative restriction on—“(A) the time for awarding the Medal of Honor; or “(B) the awarding of the Medal of Honor for service for which a Distinguished-Service Cross, Navy Cross, or Air Force Cross has been awarded. “(h) Definition.—In this section, the term ‘Native American Pacific Islander’ means a Native Hawaiian or Native American Pacific Islander, as those terms are defined in section 815 of the Native American Programs Act of 1974 ([42 U.S.C. 2992c](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2992c&num=0&edition=prelim)).”
 
@@ -68,7 +73,7 @@ The President may award a distinguished-service cross of appropriate design, wit
 The words “but not in the name of Congress” are omitted as surplusage, since a medal is presented in the name of Congress only if the law so directs. The words “since the 6th day of April, 1917” are omitted as executed. The word “award” is substituted for the word “present” to cover the determination of the recipients as well as the actual presentation of the medal, and to conform to other sections of this chapter. The words “or herself” are omitted, since, under [section 1 of title 1](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title1-section1&num=0&edition=prelim), words importing the masculine gender include the feminine. The words “or who shall hereafter distinguish” are omitted as surplusage.
 
 #### Amendments
-2018—Pub. L. 115–232 renumbered [section 3742 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section3742&num=0&edition=prelim) as this section.
+2018—Pub. L. 115–232 renumbered [section 3742 of this title](./chapter-273-allowable-costs.md#section-3742) as this section.
 
 1963—Pub. L. 88–77 enlarged authority to award the distinguished-service cross, which was limited to those cases in which persons distinguished themselves in connection with military operations against an armed enemy, to permit its award for extraordinary heroism not justifying award of a medal of honor, while engaged in an action against an enemy of United States, while engaged in military operations involving conflict with an opposing foreign force, or while serving with friendly foreign forces engaged in an armed conflict against an opposing armed force in which United States is not a belligerent party.
 
@@ -91,7 +96,7 @@ The President may award a distinguished-service medal of appropriate design and 
 The words “but not in the name of Congress” are omitted as surplusage, since a medal is presented in the name of Congress only if the law so directs. The words “since the 6th day of April, 1917” are omitted as executed. The word “award” is substituted for the word “present” to cover the determination of the recipients as well as the actual presentation of the medal, and to conform to other sections of this chapter. The words “or herself” are omitted, since, under [section 1 of title 1](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title1-section1&num=0&edition=prelim), words importing the masculine gender include the feminine. The words “or who shall distinguish” are omitted as surplusage.
 
 #### Amendments
-2018—Pub. L. 115–232 renumbered [section 3743 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section3743&num=0&edition=prelim) as this section.
+2018—Pub. L. 115–232 renumbered [section 3743 of this title](./chapter-273-allowable-costs.md#section-3743) as this section.
 
 #### Effective Date of 2018 Amendment
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
@@ -101,7 +106,7 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 ## § 7274. Medal of honor; distinguished-service cross; distinguished-service medal: limitations on award
 **(a)** No more than one distinguished-service cross or distinguished-service medal may be awarded to a person. However, for each succeeding act that would otherwise justify the award of such a medal or cross, the President may award a suitable bar or other device to be worn as he directs.
 
-**(b)** Except as provided in subsection (d), no medal of honor, distinguished-service cross, distinguished-service medal, or device in place thereof, may be awarded to a person unless—
+**(b)** Except as provided in subsection (c), no medal of honor, distinguished-service cross, distinguished-service medal, or device in place thereof, may be awarded to a person unless—
 
 (1) the award is made within five years after the date of the act justifying the award;
 
@@ -109,9 +114,7 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 (3) it appears from records of the Department of the Army that the person is entitled to the award.
 
-**(c)** No medal of honor, distinguished-service cross, distinguished-service medal, or device in place thereof, may be awarded or presented to a person whose service after he distinguished himself has not been honorable.
-
-**(d)** If the Secretary of the Army determines that—
+**(c)** If the Secretary of the Army determines that—
 
 (1) a statement setting forth the distinguished service and recommending official recognition of it was made and supported by sufficient evidence within three years after the distinguished service; and
 
@@ -133,7 +136,11 @@ In subsection (b), the word “thereof” is substituted for the words “of eit
 In subsection (c), 10:1409 (words after 3d semicolon) is omitted as executed. The words “hereinbefore authorized” are omitted as surplusage.
 
 #### Amendments
-2018—Pub. L. 115–232 renumbered [section 3744 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section3744&num=0&edition=prelim) as this section.
+2019—Subsec. (b). Pub. L. 116–92, § 582(b)(1)(A), substituted “subsection (c)” for “subsection (d)” in introductory provisions.
+
+Subsecs. (c), (d). Pub. L. 116–92, § 582(b)(1)(B), (C), redesignated subsec. (d) as (c) and struck out former subsec. (c) which read as follows: “No medal of honor, distinguished-service cross, distinguished-service medal, or device in place thereof, may be awarded or presented to a person whose service after he distinguished himself has not been honorable.”
+
+2018—Pub. L. 115–232 renumbered [section 3744 of this title](./chapter-273-allowable-costs.md#section-3744) as this section.
 
 2013—Subsec. (a). Pub. L. 113–66, § 561(a), substituted “distinguished-service cross” for “medal of honor, distinguished-service cross,”.
 
@@ -166,7 +173,7 @@ The President may delegate his authority to award the medal of honor, distinguis
 The words “under such conditions, regulations, and limitations as he shall prescribe” are omitted as surplusage. The words “his authority” are substituted for the words “the power conferred upon him by sections 1403, 1406–1408, 1409–1412, 1416, 1420, 1422, 1423, and 1424 of this title”.
 
 #### Amendments
-2018—Pub. L. 115–232 renumbered [section 3745 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section3745&num=0&edition=prelim) as this section.
+2018—Pub. L. 115–232 renumbered [section 3745 of this title](./chapter-273-allowable-costs.md#section-3745) as this section.
 
 #### Effective Date of 2018 Amendment
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
@@ -193,7 +200,7 @@ The President may award a silver star of appropriate design, with ribbons and ap
 The words “may award” are inserted to conform to other sections of this chapter. The words “if the person earned” are inserted for clarity. The words “commanded by” are omitted as surplusage.
 
 #### Amendments
-2018—Pub. L. 115–232 renumbered [section 3746 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section3746&num=0&edition=prelim) as this section.
+2018—Pub. L. 115–232 renumbered [section 3746 of this title](./chapter-273-allowable-costs.md#section-3746) as this section.
 
 1963—Pub. L. 88–77 substituted provisions permitting the issuance of a silver star for gallantry while engaged in an action against an enemy of the United States, while engaged in military operations involving conflict with an opposing foreign force, or while serving with friendly foreign forces engaged in an armed conflict against an opposing armed force in which the United States is not a belligerent party, and requiring it to be of appropriate design, for provisions which authorized the issuance of the silver star for gallantry in action and which required that the silver star be three-sixteenths of an inch in diameter, the citation thereof be published in orders issued from the headquarters of a force that is the appropriate command of a general officer, and that it be worn as directed by the President.
 
@@ -240,7 +247,7 @@ Any medal of honor, distinguished-service cross, distinguished-service medal, or
 The words “issued for wear with or in place of any of them” are inserted for clarity. The words “presented under the provisions of this title” and “such medal, cross, bar, ribbon, rosette, or device” are omitted as surplusage.
 
 #### Amendments
-2018—Pub. L. 115–232 renumbered [section 3747 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section3747&num=0&edition=prelim) as this section.
+2018—Pub. L. 115–232 renumbered [section 3747 of this title](./chapter-273-allowable-costs.md#section-3747) as this section.
 
 2001—Pub. L. 107–107 substituted “stolen, lost, or destroyed” for “lost or destroyed”.
 
@@ -265,7 +272,7 @@ The word “amounts” is substituted for the words “so much as may be”. The
 #### Amendments
 2018—Pub. L. 115–232, § 809(a), substituted “sections 7271, 7272, 7273, 7274, 7276, 7277, and 7282” for “sections 3741, 3742, 3743, 3744, 3746, 3747, and 3752”.
 
-Pub. L. 115–232, § 808(b)(11), renumbered [section 3748 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section3748&num=0&edition=prelim) as this section.
+Pub. L. 115–232, § 808(b)(11), renumbered [section 3748 of this title](./chapter-273-allowable-costs.md#section-3748) as this section.
 
 #### Effective Date of 2018 Amendment
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
@@ -291,7 +298,7 @@ Although 10:1429 refers to persons serving “with the Air Corps of the Army”,
 In subsection (a), the words “Under such rules and regulations as he may prescribe” are omitted, since the President has inherent authority to issue regulations appropriate to exercising his functions. The words “but not in the name of Congress” are omitted as surplusage, since a medal is presented in the name of Congress only if the law so directs. The word “award” is substituted for the word “present” to cover the determination of the recipients as well as the actual presentation of the medal. The words “since the 6th day of April, 1917, has distinguished, or who, after July 2, 1926” and 10:1429 (proviso of 1st sentence) are omitted as executed.
 
 #### Amendments
-2018—Pub. L. 115–232 renumbered [section 3749 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section3749&num=0&edition=prelim) as this section.
+2018—Pub. L. 115–232 renumbered [section 3749 of this title](./chapter-273-allowable-costs.md#section-3749) as this section.
 
 #### Effective Date of 2018 Amendment
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
@@ -320,7 +327,7 @@ In subsection (a), the words “Under such rules and regulations as he may presc
 In subsection (b), the words “that would otherwise justify” are substituted for the words “sufficient to”.
 
 #### Amendments
-2018—Pub. L. 115–232 renumbered [section 3750 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section3750&num=0&edition=prelim) as this section.
+2018—Pub. L. 115–232 renumbered [section 3750 of this title](./chapter-273-allowable-costs.md#section-3750) as this section.
 
 1997—Subsec. (a). Pub. L. 105–85 designated existing provisions as par. (1) and added par. (2).
 
@@ -374,7 +381,7 @@ Act Aug. 10, 1956, ch. 1041, § 33, 70A Stat. 633, provided that: “(a) The Sec
 | 3752(a) 3752(b) | 10:1409 (words between 1st and 2d semicolons). 10:1429 (1st 49 words of last sentence). 10:1415a (21st through 30th words, less applicability to clauses (a) through (n)). | July 9, 1918, ch. 143 (words between 1st and 2d semicolons of 15th par. under “Ordnance Department”), 40 Stat. 871. July 2, 1926, ch. 721, § 12 (1st 49 words of last sentence), 44 Stat. 789; July 30, 1937, ch. 545, § 4, 50 Stat. 549. |
 |  |  | May 12, 1928, ch. 528, § 1 (25th through 34th words, less applicability to clauses (a) through (n)), 45 Stat. 500. |
 
-In subsection (a), the words “If a person” are substituted for the words “In case an individual * * * dies”, in 10:1409, and “In case an individual * * * shall have died”, in 10:1429. The words “within three years from the date”, in 10:1409, are omitted as covered by [section 3744 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section3744&num=0&edition=prelim). The words “who shall distinguish himself”, in 10:1409, and “who distinguishes himself”, in 10:1429, are omitted as covered by the words “the award * * * to which he is entitled”.
+In subsection (a), the words “If a person” are substituted for the words “In case an individual * * * dies”, in 10:1409, and “In case an individual * * * shall have died”, in 10:1429. The words “within three years from the date”, in 10:1409, are omitted as covered by [section 3744 of this title](./chapter-273-allowable-costs.md#section-3744). The words “who shall distinguish himself”, in 10:1409, and “who distinguishes himself”, in 10:1429, are omitted as covered by the words “the award * * * to which he is entitled”.
 
 #### 1958 Act
 The change reflects the fact that the source statute for these sections (sec. 1 of the Act of May 12, 1928, ch. 528, 45 Stat. 500) was mandatory and not merely permissive.

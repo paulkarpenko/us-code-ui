@@ -12,7 +12,7 @@ source: >-
 
 (1) not greater than the simplified acquisition threshold; and
 
-(2) greater than the simplified acquisition threshold but not greater than $5,000,000 for which the contracting officer reasonably expects, based on the nature of the property or services sought and on market research, that offers will include only commercial items.
+(2) greater than the simplified acquisition threshold but not greater than $5,000,000 for which the contracting officer reasonably expects, based on the nature of the property or services sought and on market research, that offers will include only commercial products or commercial services.
 
 **(b) Prohibition on Dividing Purchases.—** A proposed purchase or contract for an amount above the simplified acquisition threshold may not be divided into several purchases or contracts for lesser amounts to use the simplified acquisition procedures required by subsection (a).
 
@@ -20,7 +20,7 @@ source: >-
 
 **(d) Consideration of Offers Timely Received.—** The simplified acquisition procedures contained in the Federal Acquisition Regulation shall include a requirement that a contracting officer consider each responsive offer timely received from an eligible offeror.
 
-**(e) Special Rules for Commercial Items.—** The Federal Acquisition Regulation shall provide that an executive agency using special simplified procedures to purchase commercial items—
+**(e) Special Rules for Commercial Products and Commercial Services.—** The Federal Acquisition Regulation shall provide that an executive agency using special simplified procedures to purchase commercial products or commercial services—
 
 (1) shall publish a notice in accordance with [section 1708 of this title](./chapter-017-chapter-17.md#section-1708) and, as provided in [section 1708(c)(4) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section1708/c/4&num=0&edition=prelim), permit all responsible sources to submit a bid, proposal, or quotation (as appropriate) that the agency shall consider;
 
@@ -29,19 +29,6 @@ source: >-
 (3) shall include in the contract file a written description of the procedures used in awarding the contract and the number of offers received.
 
 ### Statutory Notes
-
-#### Amendment of Section
-Pub. L. 115–232, div. A, title VIII, § 836(b)(4), (h), Aug. 13, 2018, 132 Stat. 1861, 1874, provided that, effective Jan. 1, 2020, subject to a savings provision, this section is amended as follows:
-
-(1) in subsection (a)(2), by striking “commercial items” and inserting “commercial products or commercial services”; and
-
-(2) in subsection (e)—
-
-(A) by striking “Commercial Items” in the heading and inserting “Commercial Products and Commercial Services”; and
-
-(B) by striking “commercial items” and inserting “commercial products or commercial services”.
-
-See 2018 Amendment notes below.
 
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
@@ -156,28 +143,17 @@ Pub. L. 111–240, title I, § 1332, Sept. 27, 2010, 124 Stat. 2541, provided th
 
 (3) the $5,000,000 limitation in sections 1901(a)(2) and 3305(a)(2) of this title and [section 2304(g)(1)(B) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2304/g/1/B&num=0&edition=prelim) is deemed to be $10,000,000.
 
-**(c) Authority To Treat Property or Service as Commercial Item.—**
+**(c) Authority To Treat Property or Service as Commercial Product or Commercial Service.—**
 
-(1) **In general.—** — The head of an executive agency carrying out a procurement of property or a service to which this section applies under subsection (a)(2) may treat the property or service as a commercial item for the purpose of carrying out the procurement.
+(1) **In general.—** — The head of an executive agency carrying out a procurement of property or a service to which this section applies under subsection (a)(2) may treat the property or service as a commercial product or a commercial service for the purpose of carrying out the procurement.
 
-(2) **Certain contracts not exempt from standards or requirements.—** — A contract in an amount of more than $15,000,000 that is awarded on a sole source basis for an item or service treated as a commercial item under paragraph (1) is not exempt from—
+(2) **Certain contracts not exempt from standards or requirements.—** — A contract in an amount of more than $15,000,000 that is awarded on a sole source basis for a product or service treated as a commercial product or a commercial service under paragraph (1) is not exempt from—
 
   (A) cost accounting standards prescribed under [section 1502 of this title](./chapter-015-chapter-15.md#section-1502); or
 
   (B) cost or pricing data requirements (commonly referred to as truth in negotiating) under chapter 35 of this title and [section 2306a of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2306a&num=0&edition=prelim).
 
 ### Statutory Notes
-
-#### Amendment of Subsection (c)
-Pub. L. 115–232, div. A, title VIII, § 836(b)(5), (h), Aug. 13, 2018, 132 Stat. 1861, 1874, provided that, effective Jan. 1, 2020, subject to a savings provision, subsection (c) of this section is amended as follows:
-
-(1) in the heading, by striking “Commercial Item” and inserting “Commercial Product or Commercial Service”;
-
-(2) in paragraph (1), by striking “as a commercial item” and inserting “as a commercial product or a commercial service”; and
-
-(3) in paragraph (2), by striking “for an item or service treated as a commercial item” and inserting “for a product or service treated as a commercial product or a commercial service”.
-
-See 2018 Amendment notes below.
 
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
@@ -284,37 +260,34 @@ Committee on Oversight and Government Reform of House of Representatives changed
 
 
 <a id="section-1906"></a>
-## § 1906. List of laws inapplicable to procurements of commercial items
+## § 1906. List of laws inapplicable to procurements of commercial products and commercial services
 **(a) Definition.—** In this section, the term “Council” has the meaning given that term in [section 1301 of this title](./chapter-013-chapter-13.md#section-1301).
 
 **(b) Contracts.—**
 
-(1) **Inclusion in federal acquisition regulation.—** — The Federal Acquisition Regulation shall include a list of provisions of law that are inapplicable to contracts for the procurement of commercial items. A provision of law properly included on the list pursuant to paragraph (2) does not apply to purchases of commercial items by an executive agency. This section does not render a provision of law not included on the list inapplicable to contracts for the procurement of commercial items.
+(1) **Inclusion in federal acquisition regulation.—** — The Federal Acquisition Regulation shall include a list of provisions of law that are inapplicable to contracts for the procurement of commercial products or commercial services. A provision of law properly included on the list pursuant to paragraph (2) does not apply to purchases of commercial products or commercial services by an executive agency. This section does not render a provision of law not included on the list inapplicable to contracts for the procurement of commercial products or commercial services.
 
-(2) **Laws enacted after october 13, 1994.—** — A provision of law described in subsection (d) that is enacted after October 13, 1994, shall be included on the list of inapplicable provisions of law required by paragraph (1) unless the Council makes a written determination that it would not be in the best interest of the Federal Government to exempt contracts for the procurement of commercial items from the applicability of the provision.
+(2) **Laws enacted after october 13, 1994.—** — A provision of law described in subsection (d) that is enacted after October 13, 1994, shall be included on the list of inapplicable provisions of law required by paragraph (1) unless the Council makes a written determination that it would not be in the best interest of the Federal Government to exempt contracts for the procurement of commercial products or commercial services from the applicability of the provision.
 
 **(c) Subcontracts.—**
 
-(1) **Definition.—** — In this subsection, the term “subcontract” includes a transfer of commercial items between divisions, subsidiaries, or affiliates of a contractor or subcontractor. The term does not include agreements entered into by a contractor for the supply of commodities that are intended for use in the performance of multiple contracts with the Federal Government and other parties and are not identifiable to any particular contract.
+(1) **Definition.—** — In this subsection, the term “subcontract” includes a transfer of commercial products or commercial services between divisions, subsidiaries, or affiliates of a contractor or subcontractor. The term does not include agreements entered into by a contractor for the supply of commodities that are intended for use in the performance of multiple contracts with the Federal Government and other parties and are not identifiable to any particular contract.
 
-(2) **Inclusion in federal acquisition regulation.—** — The Federal Acquisition Regulation shall include a list of provisions of law that are inapplicable to subcontracts under a contract or subcontract for the procurement of commercial items. A provision of law properly included on the list pursuant to paragraph (3) does not apply to those subcontracts. This section does not render a provision of law not included on the list inapplicable to subcontracts under a contract for the procurement of commercial items.
+(2) **Inclusion in federal acquisition regulation.—** — The Federal Acquisition Regulation shall include a list of provisions of law that are inapplicable to subcontracts under a contract or subcontract for the procurement of commercial products or commercial services. A provision of law properly included on the list pursuant to paragraph (3) does not apply to those subcontracts. This section does not render a provision of law not included on the list inapplicable to subcontracts under a contract for the procurement of commercial products or commercial services.
 
-(3) **Provisions to be excluded from list.—** — A provision of law described in subsection (d) shall be included on the list of inapplicable provisions of law required by paragraph (2) unless the Council makes a written determination that it would not be in the best interest of the Federal Government to exempt subcontracts under a contract for the procurement of commercial items from the applicability of the provision.
+(3) **Provisions to be excluded from list.—** — A provision of law described in subsection (d) shall be included on the list of inapplicable provisions of law required by paragraph (2) unless the Council makes a written determination that it would not be in the best interest of the Federal Government to exempt subcontracts under a contract for the procurement of commercial products or commercial services from the applicability of the provision.
 
-(4) **Waiver not authorized.—** — This subsection does not authorize the waiver of the applicability of any provision of law with respect to any subcontract under a contract with a prime contractor reselling or distributing commercial items of another contractor without adding value.
+(4) **Waiver not authorized.—** — This subsection does not authorize the waiver of the applicability of any provision of law with respect to any subcontract under a contract with a prime contractor reselling or distributing commercial products or commercial services of another contractor without adding value.
 
 **(d) Covered Law.—** A provision of law referred to in subsections (b)(2) and (c) is a provision of law that the Council determines sets forth policies, procedures, requirements, or restrictions for the procurement of property or services by the Federal Government, except for a provision of law that—
 
 (1) provides for criminal or civil penalties; or
 
-(2) specifically refers to this section and provides that, notwithstanding this section, it shall be applicable to contracts for the procurement of commercial items.
+(2) specifically refers to this section and provides that, notwithstanding this section, it shall be applicable to contracts for the procurement of commercial products or commercial services.
 
 **(e) Petition.—** A person may petition the Administrator to take appropriate action when a provision of law described in subsection (d) is not included on the list of inapplicable provisions of law as required by subsection (b) or (c) and the Council has not made a written determination pursuant to subsection (b)(2) or (c)(3). The Administrator shall revise the Federal Acquisition Regulation to include the provision on the list of inapplicable provisions of law unless the Council makes a determination pursuant to subsection (b)(2) or (c)(3) within 60 days after the petition is received.
 
 ### Statutory Notes
-
-#### Amendment of Section
-Pub. L. 115–232, div. A, title VIII, § 836(b)(6)(A), (B)(i), (h), Aug. 13, 2018, 132 Stat. 1861, 1874, provided that, effective Jan. 1, 2020, subject to a savings provision, this section is amended by amending the section catchline to read “List of laws inapplicable to procurements of commercial products and commercial services” and, in subsections (b) to (d), by striking “commercial items” each place it appears and inserting “commercial products or commercial services”. See 2018 Amendment notes below.
 
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
@@ -537,4 +510,4 @@ Pub. L. 112–81, div. A, title VIII, § 814(b), Dec. 31, 2011, 125 Stat. 1491, 
 ### Statutory Notes
 
 #### Deadline for Guidance on Management of Purchase Cards
-Pub. L. 112–194, § 2(c), Oct. 5, 2012, 126 Stat. 1448, provided that: “The Director of the Office of Management and Budget shall prescribe the guidance required by [section 1909(b) of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section1909/b&num=0&edition=prelim), United States Code, as added by subsection (a), not later than 180 days after the date of the enactment of this Act [Oct. 5, 2012].”
+Pub. L. 112–194, § 2(c), Oct. 5, 2012, 126 Stat. 1448, required the Director of the Office of Management and Budget to prescribe the guidance required by subsec. (b) of this section not later than 180 days after Oct. 5, 2012.

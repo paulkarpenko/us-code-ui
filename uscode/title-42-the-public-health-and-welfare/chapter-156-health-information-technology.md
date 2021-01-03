@@ -2,7 +2,7 @@
 title: 42
 chapter: '156'
 heading: HEALTH INFORMATION TECHNOLOGY
-section_count: 19
+section_count: 20
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42&num=0&edition=prelim
 ---
@@ -652,8 +652,8 @@ Section is comprised of section 13410 of Pub. L. 111–5. Subsecs. (a)(1), (d)(1
 Section effective 12 months after Feb. 17, 2009, except as otherwise specifically provided, see section 13423 of Pub. L. 111–5, set out as a note under [section 17931 of this title](./chapter-156-health-information-technology.md#section-17931).
 
 
-<a id="section-17951"></a>
-## § 17951. Audits
+<a id="section-17941"></a>
+## § 17941. Audits
 
 The Secretary shall provide for periodic audits to ensure that covered entities and business associates that are subject to the requirements of this subchapter and subparts C and E of part 164 of title 45, Code of Federal Regulations, as such provisions are in effect as of February 17, 2009, comply with such requirements.
 
@@ -664,6 +664,27 @@ This subchapter, referred to in text, was in the original “this subtitle”, m
 
 #### Effective Date
 Section effective 12 months after Feb. 17, 2009, except as otherwise specifically provided, see section 13423 of Pub. L. 111–5, set out as a note under [section 17931 of this title](./chapter-156-health-information-technology.md#section-17931).
+
+
+<a id="section-17951"></a>
+## § 17951. Recognition of security practices
+**(a) In general** Consistent with the authority of the Secretary under sections 1320d–5 and 1320d–6 of this title, when making determinations relating to fines under such section 1320d–5 (as amended by section 13410 of Pub. L. 111–5) or such section 1320d–6, decreasing the length and extent of an audit under [section 17940 of this title](./chapter-156-health-information-technology.md#section-17940), or remedies otherwise agreed to by the Secretary, the Secretary shall consider whether the covered entity or business associate has adequately demonstrated that it had, for not less than the previous 12 months, recognized security practices in place that may—
+
+(1) mitigate fines under [section 1320d–5 of this title](./chapter-007-social-security.md#section-1320d-5) (as amended by section 13410 of Pub. L. 111–5);
+
+(2) result in the early, favorable termination of an audit under [section 17940 of this title](./chapter-156-health-information-technology.md#section-17940); and
+
+(3) mitigate the remedies that would otherwise be agreed to in any agreement with respect to resolving potential violations of the HIPAA Security rule (part 160 of title 45 Code of Federal Regulations and subparts A and C of part 164 of such title) between the covered entity or business associate and the Department of Health and Human Services.
+
+**(b) Definition and miscellaneous provisions**
+
+(1) **Recognized security practices** — The term “recognized security practices” means the standards, guidelines, best practices, methodologies, procedures, and processes developed under [section 272(c)(15) of title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section272/c/15&num=0&edition=prelim), the approaches promulgated under [section 1533(d) of title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section1533/d&num=0&edition=prelim), and other programs and processes that address cybersecurity and that are developed, recognized, or promulgated through regulations under other statutory authorities. Such practices shall be determined by the covered entity or business associate, consistent with the HIPAA Security rule (part 160 of title 45 Code of Federal Regulations and subparts A and C of part 164 of such title).
+
+(2) **Limitation** — Nothing in this section shall be construed as providing the Secretary authority to increase fines under [section 1320d–5 of this title](./chapter-007-social-security.md#section-1320d-5) (as amended by section 13410 of Pub. L. 111–5), or the length, extent or quantity of audits under [section 17940 of this title](./chapter-156-health-information-technology.md#section-17940), due to a lack of compliance with the recognized security practices.
+
+(3) **No liability for nonparticipation** — Subject to paragraph (4), nothing in this section shall be construed to subject a covered entity or business associate to liability for electing not to engage in the recognized security practices defined by this section.
+
+(4) **Rule of construction** — Nothing in this section shall be construed to limit the Secretary’s authority to enforce the HIPAA Security rule (part 160 of title 45 Code of Federal Regulations and subparts A and C of part 164 of such title), or to supersede or conflict with an entity or business associate’s obligations under the HIPAA Security rule.
 
 
 <a id="section-17952"></a>

@@ -2,7 +2,7 @@
 title: 10
 chapter: '903'
 heading: DEPARTMENT OF THE AIR FORCE
-section_count: 14
+section_count: 15
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10&num=0&edition=prelim
 ---
@@ -130,11 +130,11 @@ Harry S. Truman.
 
 **(e)** After first informing the Secretary of Defense, the Secretary of the Air Force may make such recommendations to Congress relating to the Department of Defense as he considers appropriate.
 
-**(f)** The Secretary of the Air Force may assign such of his functions, powers, and duties as he considers appropriate to the Under Secretary of the Air Force and to the Assistant Secretaries of the Air Force. Officers of the Air Force shall, as directed by the Secretary, report on any matter to the Secretary, the Under Secretary, or any Assistant Secretary.
+**(f)** The Secretary of the Air Force may assign such of his functions, powers, and duties as he considers appropriate to the Under Secretary of the Air Force and to the Assistant Secretaries of the Air Force. Officers of the Air Force and officers of the Space Force shall, as directed by the Secretary, report on any matter to the Secretary, the Under Secretary, or any Assistant Secretary.
 
 **(g)** The Secretary of the Air Force may—
 
-(1) assign, detail, and prescribe the duties of members of the Air Force and civilian personnel of the Department of the Air Force;
+(1) assign, detail, and prescribe the duties of members of the Air Force, members of the Space Force, and civilian personnel of the Department of the Air Force;
 
 (2) change the title of any officer or activity of the Department of the Air Force not prescribed by law; and
 
@@ -143,6 +143,10 @@ Harry S. Truman.
 ### Statutory Notes
 
 #### Amendments
+2021—Subsec. (f). Pub. L. 116–283, § 923(b)(1)(A), inserted “and officers of the Space Force” after “Officers of the Air Force”.
+
+Subsec. (g)(1). Pub. L. 116–283, § 923(b)(1)(B), inserted “, members of the Space Force,” after “members of the Air Force”.
+
 2018—Pub. L. 115–232 renumbered [section 8013 of this title](./chapter-803-department-of-the-navy.md#section-8013) as this section.
 
 2016—Subsec. (a)(1). Pub. L. 114–328 inserted “The Secretary shall, to the greatest extent practicable, be appointed from among persons most highly qualified for the position by reason of background and experience, including persons with appropriate management or leadership experience.” after first sentence.
@@ -173,7 +177,7 @@ Pub. L. 112–239, div. A, title III, § 323, Jan. 2, 2013, 126 Stat. 1696, prov
 
 (3) The General Counsel of the Department of the Air Force.
 
-(4) The Inspector General of the Air Force.
+(4) The Inspector General of the Department of the Air Force.
 
 (5) The Chief of Legislative Liaison.
 
@@ -183,7 +187,7 @@ Pub. L. 112–239, div. A, title III, § 323, Jan. 2, 2013, 126 Stat. 1696, prov
 
 **(c)**
 
-(1) The Office of the Secretary of the Air Force shall have sole responsibility within the Office of the Secretary and the Air Staff for the following functions:
+(1) The Office of the Secretary of the Air Force shall have sole responsibility within the Office of the Secretary, the Air Staff, and the Office of the Chief of Space Operations for the following functions:
 
   (A) Acquisition.
 
@@ -199,31 +203,31 @@ Pub. L. 112–239, div. A, title III, § 323, Jan. 2, 2013, 126 Stat. 1696, prov
 
   (G) Public affairs.
 
-(2) The Secretary of the Air Force shall establish or designate a single office or other entity within the Office of the Secretary of the Air Force to conduct each function specified in paragraph (1). No office or other entity may be established or designated within the Air Staff to conduct any of the functions specified in paragraph (1).
+(2) The Secretary of the Air Force shall establish or designate a single office or other entity within the Office of the Secretary of the Air Force to conduct each function specified in paragraph (1). No office or other entity may be established or designated within the Air Staff or the Office of the Chief of Space Operations to conduct any of the functions specified in paragraph (1).
 
-(3) The Secretary shall prescribe the relationship of each office or other entity established or designated under paragraph (2) to the Chief of Staff and to the Air Staff and shall ensure that each such office or entity provides the Chief of Staff such staff support as the Chief of Staff considers necessary to perform his duties and responsibilities.
+(3) The Secretary shall prescribe the relationship of each office or other entity established or designated under paragraph (2) to the Chief of Staff of the Air Force and the Air Staff, and to the Chief of Space Operations and the Office of the Chief of Space Operations, and shall ensure that each such office or entity provides the Chief of Staff and Chief of Space Operations such staff support as the Chief concerned considers necessary to perform the Chief’s duties and responsibilities.
 
-(4) The vesting in the Office of the Secretary of the Air Force of the responsibility for the conduct of a function specified in paragraph (1) does not preclude other elements of the executive part of the Department of the Air Force (including the Air Staff) from providing advice or assistance to the Chief of Staff or otherwise participating in that function within the executive part of the Department under the direction of the office assigned responsibility for that function in the Office of the Secretary of the Air Force.
+(4) The vesting in the Office of the Secretary of the Air Force of the responsibility for the conduct of a function specified in paragraph (1) does not preclude other elements of the executive part of the Department of the Air Force (including the Air Staff and the Office of the Chief of Space Operations) from providing advice or assistance to the Chief of Staff and the Chief of Space Operations or otherwise participating in that function within the executive part of the Department under the direction of the office assigned responsibility for that function in the Office of the Secretary of the Air Force.
 
 (5) The head of the office or other entity established or designated by the Secretary to conduct the auditing function shall have at least five years of professional experience in accounting or auditing. The position shall be considered to be a career reserved position as defined in [section 3132(a)(8) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section3132/a/8&num=0&edition=prelim).
 
 **(d)**
 
-(1) Subject to paragraph (2), the Office of the Secretary of the Air Force shall have sole responsibility within the Office of the Secretary and the Air Staff for the function of research and development.
+(1) Subject to paragraph (2), the Office of the Secretary of the Air Force shall have sole responsibility within the Office of the Secretary, the Air Staff, and the Office of the Chief of Space Operations for the function of research and development.
 
-(2) The Secretary of the Air Force may assign to the Air Staff responsibility for those aspects of the function of research and development that relate to military requirements and test and evaluation.
+(2) The Secretary of the Air Force may assign to the Air Staff and the Office of the Chief of Space Operations responsibility for those aspects of the function of research and development that relate to military requirements and test and evaluation.
 
 (3) The Secretary shall establish or designate a single office or other entity within the Office of the Secretary of the Air Force to conduct the function specified in paragraph (1).
 
-(4) The Secretary shall prescribe the relationship of the office or other entity established or designated under paragraph (3) to the Chief of Staff of the Air Force and to the Air Staff and shall ensure that each such office or entity provides the Chief of Staff such staff support as the Chief of Staff considers necessary to perform his duties and responsibilities.
+(4) The Secretary shall prescribe the relationship of the office or other entity established or designated under paragraph (3) to the Chief of Staff of the Air Force and the Air Staff, and to the Chief of Space Operations and the Office of the Chief of Space Operations, and shall ensure that each such office or entity provides the Chief of Staff and Chief of Space Operations such staff support as the Chief concerned considers necessary to perform the Chief’s duties and responsibilities.
 
-**(e)** The Secretary of the Air Force shall ensure that the Office of the Secretary of the Air Force and the Air Staff do not duplicate specific functions for which the Secretary has assigned responsibility to the other.
+**(e)** The Secretary of the Air Force shall ensure that the Office of the Secretary of the Air Force, the Air Staff, and the Office of the Chief of Space Operations do not duplicate specific functions for which the Secretary has assigned responsibility to any of the others.
 
 **(f)**
 
-(1) The total number of members of the armed forces and civilian employees of the Department of the Air Force assigned or detailed to permanent duty in the Office of the Secretary of the Air Force and on the Air Staff may not exceed 2,639.
+(1) The total number of members of the armed forces and civilian employees of the Department of the Air Force assigned or detailed to permanent duty in the Office of the Secretary of the Air Force and on the Air Staff may not exceed 2,750.
 
-(2) Not more than 1,585 officers of the Air Force on the active-duty list may be assigned or detailed to permanent duty in the Office of the Secretary of the Air Force and on the Air Staff.
+(2) Not more than 1,650 officers of the Air Force on the active-duty list may be assigned or detailed to permanent duty in the Office of the Secretary of the Air Force and on the Air Staff.
 
 (3) The total number of general officers assigned or detailed to permanent duty in the Office of the Secretary of the Air Force and on the Air Staff may not exceed 60.
 
@@ -234,6 +238,28 @@ Pub. L. 112–239, div. A, title III, § 323, Jan. 2, 2013, 126 Stat. 1696, prov
 ### Statutory Notes
 
 #### Amendments
+2021—Subsec. (b)(4). Pub. L. 116–283, § 923(b)(2)(A), added par. (4) and struck out former par. (4) which read as follows: “The Inspector General of the Air Force.”
+
+Subsec. (c)(1). Pub. L. 116–283, § 923(b)(2)(B)(i), substituted “, the Air Staff, and the Office of the Chief of Space Operations” for “and the Air Staff”.
+
+Subsec. (c)(2). Pub. L. 116–283, § 923(b)(2)(B)(ii), inserted “or the Office of the Chief of Space Operations” after “the Air Staff”.
+
+Subsec. (c)(3). Pub. L. 116–283, § 923(b)(2)(B)(iii), substituted “to the Chief of Staff of the Air Force and the Air Staff, and to the Chief of Space Operations and the Office of the Chief of Space Operations, and shall ensure that each such office or entity provides the Chief of Staff and Chief of Space Operations such staff support as the Chief concerned considers necessary to perform the Chief’s duties and responsibilities.” for “to the Chief of Staff and to the Air Staff and shall ensure that each such office or entity provides the Chief of Staff such staff support as the Chief of Staff considers necessary to perform his duties and responsibilities.”
+
+Subsec. (c)(4). Pub. L. 116–283, § 923(b)(2)(B)(iv), inserted “and the Office of the Chief of Space Operations” after “the Air Staff” and “and the Chief of Space Operations” after “Chief of Staff”.
+
+Subsec. (d)(1). Pub. L. 116–283, § 923(b)(2)(C)(i), substituted “, the Air Staff, and the Office of the Chief of Space Operations” for “and the Air Staff”.
+
+Subsec. (d)(2). Pub. L. 116–283, § 923(b)(2)(C)(ii), inserted “and the Office of the Chief of Space Operations” after “the Air Staff”.
+
+Subsec. (d)(4). Pub. L. 116–283, § 923(b)(2)(C)(iii), substituted “to the Chief of Staff of the Air Force and the Air Staff, and to the Chief of Space Operations and the Office of the Chief of Space Operations, and shall ensure that each such office or entity provides the Chief of Staff and Chief of Space Operations such staff support as the Chief concerned considers necessary to perform the Chief’s duties and responsibilities.” for “to the Chief of Staff of the Air Force and to the Air Staff and shall ensure that each such office or entity provides the Chief of Staff such staff support as the Chief of Staff considers necessary to perform his duties and responsibilities.”
+
+Subsec. (e). Pub. L. 116–283, § 923(b)(2)(D), substituted “, the Air Staff, and the Office of the Chief of Space Operations” for “and the Air Staff” and “to any of the others” for “to the other”.
+
+2019—Subsec. (f)(1). Pub. L. 116–92, § 901(a)(5)(A), substituted “2,750” for “2,639”.
+
+Subsec. (f)(2). Pub. L. 116–92, § 901(a)(5)(B), substituted “1,650” for “1,585”.
+
 2018—Pub. L. 115–232 renumbered [section 8014 of this title](./chapter-803-department-of-the-navy.md#section-8014) as this section.
 
 2016—Subsec. (f)(4). Pub. L. 114–328, § 903(e)(1), substituted “time of war.” for “time of war or during a national emergency declared by the President or Congress. The limitation in paragraph (2) does not apply whenever the President determines that it is in the national interest to increase the number of officers assigned or detailed to permanent duty in the Office of the Secretary of the Air Force or on the Air Staff.”
@@ -286,7 +312,7 @@ For order of succession in event of death, permanent disability, or resignation 
 
 <a id="section-9016"></a>
 ## § 9016. Assistant Secretaries of the Air Force
-**(a)** There are four Assistant Secretaries of the Air Force. They shall be appointed from civilian life by the President, by and with the advice and consent of the Senate.
+**(a)** There are five Assistant Secretaries of the Air Force. They shall be appointed from civilian life by the President, by and with the advice and consent of the Senate.
 
 **(b)**
 
@@ -306,14 +332,57 @@ For order of succession in event of death, permanent disability, or resignation 
 
   (A) One of the Assistant Secretaries shall be the Assistant Secretary of the Air Force for Acquisition, Technology, and Logistics. The principal duty of the Assistant Secretary shall be the overall supervision of acquisition, technology, and logistics matters of the Department of the Air Force.
 
-  (B) The Assistant Secretary shall have a Principal Military Deputy, who shall be an officer of the Air Force on active duty. The Principal Military Deputy shall be appointed from among officers who have significant experience in the areas of acquisition and program management. The position of Principal Military Deputy shall be designated as a critical acquisition position under [section 1733 of this title](./chapter-087-defense-acquisition-workforce.md#section-1733). In the event of a vacancy in the position of Assistant Secretary of the Air Force for Acquisition, the Principal Military Deputy may serve as Acting Assistant Secretary for a period of not more than one year.
+  (B) The Assistant Secretary shall have a Principal Military Deputy, who shall be an officer of the Air Force on active duty. The Principal Military Deputy shall be appointed from among officers who have significant experience in the areas of acquisition and program management. The position of Principal Military Deputy shall be designated as a critical acquisition position under [section 1731 of this title](./chapter-087-defense-acquisition-workforce.md#section-1731). In the event of a vacancy in the position of Assistant Secretary of the Air Force for Acquisition, the Principal Military Deputy may serve as Acting Assistant Secretary for a period of not more than one year.
+
+(5)
+
+  (A) One of the Assistant Secretaries shall be the Assistant Secretary for Energy, Installations, and Environment.
+
+  (B) The principal duty of the Assistant Secretary for Energy, Installations, and Environment shall be the overall supervision of energy, installation, and environment matters for the Department of the Air Force.
+
+(6)
+
+  (A) One of the Assistant Secretaries is the Assistant Secretary of the Air Force for Space Acquisition and Integration.
+
+  (B) Subject to the authority, direction, and control of the Secretary of the Air Force, the Assistant Secretary shall do as follows:
+
+    (i) Be responsible for all architecture and integration of the Air Force for space systems and programs, including in support of the Chief of Space Operations under [section 9082 of this title](./chapter-908-the-space-force.md#section-9082).
+
+    (ii) Act as the chair of the Space Force Acquisition Council under [section 9021 of this title](./chapter-903-department-of-the-air-force.md#section-9021).
+
+    (iii) Advise the service acquisition executive of the Air Force with responsibility for space systems and programs (including for all major defense acquisition programs under chapter 144 of this title for space) on the acquisition of such systems and programs by the Air Force.
+
+    (iv) Oversee and direct each of the following:
+
+      (I) The Space Rapid Capabilities Office under [section 2273a of this title](./chapter-135-space-programs.md#section-2273a).
+
+      (II) The Space and Missile Systems Center.
+
+      (III) The Space Development Agency with respect to acquisition decisions.
+
+    (v) Advise and synchronize acquisition projects for all space systems and programs of the Air Force, including projects for space systems and programs responsibility for which is transferred to the Assistant Secretary pursuant to section 956(b)(3) of the United States Space Force Act.
+
+    (vi) Effective as of October 1, 2022, in accordance with section 957 of that Act, serve as the Service Acquisition Executive of the Department of the Air Force for Space Systems and Programs.
 
 ### Statutory Notes
 
+#### References in Text
+Section 956(b)(3) of the United States Space Force Act and section 957 of that Act, referred to in subsec. (b)(6)(B)(v), (vi), are sections 956(b)(3) and 957, respectively, of subtitle D of title IX of div. A of Pub. L. 116–92, which are set out as notes under this section.
+
 #### Prior Provisions
-Provisions similar to those in this section were contained in [section 3013 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section3013&num=0&edition=prelim) prior to enactment of Pub. L. 99–433.
+Provisions similar to those in this section were contained in [section 3013 of this title](./chapter-201-definitions.md#section-3013) prior to enactment of Pub. L. 99–433.
 
 #### Amendments
+2021—Subsec. (b)(6)(B)(iv)(III). Pub. L. 116–283 inserted “with respect to acquisition decisions” before period at end.
+
+2019—Subsec. (a). Pub. L. 116–92, § 956(b)(1)(A), substituted “five” for “four”.
+
+Subsec. (b)(4)(B). Pub. L. 116–92, § 861(j)(16), substituted “under [section 1731 of this title](./chapter-087-defense-acquisition-workforce.md#section-1731)” for “under [section 1733 of this title](./chapter-087-defense-acquisition-workforce.md#section-1733)”.
+
+Subsec. (b)(5). Pub. L. 116–92, § 911(c), added par. (5).
+
+Subsec. (b)(6). Pub. L. 116–92, § 956(b)(1)(B), added par. (6).
+
 2018—Pub. L. 115–232 renumbered [section 8016 of this title](./chapter-803-department-of-the-navy.md#section-8016) as this section.
 
 2017—Subsec. (b)(3). Pub. L. 115–91 designated first sentence as subpar. (A), designated second and third sentences as subpar. (C) and, in subpar. (C), substituted “The principal responsibility of the Assistant Secretary shall be” for “The Assistant Secretary shall have as his principal responsibility”, and added subpar. (B).
@@ -337,10 +406,19 @@ Pub. L. 114–328, div. A, title IX, § 934(b), Dec. 23, 2016, 130 Stat. 2365, p
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
 
 #### Effective Date of 2017 Amendment
-For applicability of appointment qualifications imposed by section 921 of Pub. L. 115–91 to certain appointments made on or after Dec. 12, 2017, see section 921(d) of Pub. L. 115–91, set out as a note under [section 3016 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section3016&num=0&edition=prelim).
+For applicability of appointment qualifications imposed by section 921 of Pub. L. 115–91 to certain appointments made on or after Dec. 12, 2017, see section 921(d) of Pub. L. 115–91, set out as a note under [section 3016 of this title](./chapter-201-definitions.md#section-3016).
 
 #### Effective Date of 1988 Amendment
 Pub. L. 100–456, div. A, title VII, § 702(e)(2), Sept. 29, 1988, 102 Stat. 1996, provided that: “The amendments made by subsections (c) and (d) [enacting [section 8022 of this title](./chapter-803-department-of-the-navy.md#section-8022) and amending this section] shall take effect on July 1, 1989, except that such amendments shall take effect on such earlier date, but not before January 21, 1989, as may be prescribed by the President in advance by Executive order.”
+
+#### Assistant Secretary of the Air Force for Space Acquisition and Integration
+Pub. L. 116–92, div. A, title IX, § 956(a), Dec. 20, 2019, 133 Stat. 1565, provided that: “(a) Redesignation of Principal Assistant for Space as Assistant Secretary for Space Acquisition and Integration.—“(1) In general.—The Principal Assistant to the Secretary of the Air Force for Space is hereby redesignated as the Assistant Secretary of the Air Force for Space Acquisition and Integration. “(2) References.—Any reference to the Principal Assistant to the Secretary of the Air Force for Space in any law, regulation, map, document, record, or other paper of the United States shall be deemed to be a reference to the Assistant Secretary of the Air Force for Space Acquisition and Integration.”
+
+#### Transfer of Acquisition Projects for Space Systems and Programs
+Pub. L. 116–92, div. A, title IX, § 956(b)(3), Dec. 20, 2019, 133 Stat. 1566, provided that: “Effective October 1, 2022, the Secretary of the Air Force shall transfer to the Assistant Secretary of the Air Force for Space Acquisition and Integration under paragraph (6) of [section 9016(b) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section9016/b&num=0&edition=prelim), United States Code (as added by this subsection), responsibility for architecture and integration of any acquisition projects for space systems and programs of the Air Force that are under the oversight or direction of the Assistant Secretary of the Air Force for Acquisition as of September 30, 2022.”
+
+#### Service Acquisition Executive of the Department of the Air Force for Space Systems and Programs
+Pub. L. 116–92, div. A, title IX, § 957, Dec. 20, 2019, 133 Stat. 1566, as amended by Pub. L. 116–283, div. A, title XVI, § 1605, Jan. 1, 2021, 134 Stat. 4044, provided that: “(a) In General.—Effective October 1, 2022, there shall be within the Department of the Air Force a Service Acquisition Executive of the Department of the Air Force for Space Systems and Programs. “(b) Service.—“(1) In general.—Effective as of October 1, 2022, and subject to paragraph (2), the individual serving as Assistant Secretary of the Air Force for Space Acquisition and Integration under paragraph (6) of [section 9016(b) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section9016/b&num=0&edition=prelim), United States Code (as added by section 1832(b) [probably should be “section 956(b)”] of this Act), shall also serve as the Service Acquisition Executive for Space Systems and Programs. “(2) Incumbent.—The individual serving as Assistant Secretary of the Air Force for Space Acquisition and Integration as of October 1, 2022, may also serve as the Service Acquisition Executive for Space Systems and Programs pursuant to paragraph (1) only if appointed as the Service Acquisition Executive for Space Systems and Programs by the President, by and with the advice and consent of the Senate, pursuant to a nomination submitted to the Senate on or after that date. “(c) Authorities and Responsibilities.—“(1) In general.—The Service Acquisition Executive for Space Systems and Programs shall have within the Department of the Air Force all the authorities and responsibilities of a service acquisition executive under [section 1704 of title 10](./chapter-087-defense-acquisition-workforce.md#section-1704), United States Code, and other applicable law, for the Department of the Air Force with respect to space systems and programs. “(2) Separate sae within the air force.—The Service Acquisition Executive for Space Systems and Programs shall be in addition to the service acquisition executive in the Department of the Air Force for all acquisition matters of the Department of the Air Force other than with respect to space systems and programs. “(3) Guidance on relationship among saes.—Not later than October 1, 2022, and from time to time thereafter, the Secretary of the Air Force shall issue guidance for the Department of the Air Force on the authorities and responsibilities of the Service Acquisition Executive for Space Systems and Programs and the authorities and responsibilities of the service acquisition executive of the Department for all acquisition matters of the Department other than with respect to space systems and programs. “(4) Commercial satellite communications services.—“(A) Authority.—Beginning on the date specified in subparagraph (B), the Service Acquisition Executive for Space Systems and Programs shall be responsible for the procurement of commercial satellite communications services for the Department of Defense. “(B) Date specified.—The date specified in this subparagraph is the date that is 120 days after the date on which the Service Acquisition Executive for Space Systems and Programs submits to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] a plan for delegating the authority under subparagraph (A) to a subordinate acquisition command within the Space Force. “(C) Responsibility during interim period.—During the period preceding the date specified in subparagraph (B), the Chief of Space Operations shall be responsible for the procurement of commercial satellite communications services for the Department of Defense.”
 
 
 <a id="section-9017"></a>
@@ -355,6 +433,8 @@ If the Secretary of the Air Force dies, resigns, is removed from office, is abse
 (3) The General Counsel of the Department of the Air Force.
 
 (4) The Chief of Staff.
+
+(5) The Chief of Space Operations.
 
 ### Statutory Notes
 
@@ -371,6 +451,8 @@ Subsection (b) is substituted for 5:626–1(c) and states the effect of [section
 [Section 3347 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section3347&num=0&edition=prelim), referred to in text, was repealed and a new section 3347 was enacted by Pub. L. 105–277, div. C, title I, § 151(b), Oct. 21, 1998, 112 Stat. 2681–611, and, as so enacted, no longer contains provisions authorizing the President to direct temporary successors to duties. See [section 3345 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section3345&num=0&edition=prelim), Government Organization and Employees.
 
 #### Amendments
+2021—Par. (5). Pub. L. 116–283 added par. (5).
+
 2018—Pub. L. 115–232 renumbered [section 8017 of this title](./chapter-803-department-of-the-navy.md#section-8017) as this section.
 
 1994—Pars. (3), (4). Pub. L. 103–337 added par. (3) and redesignated former par. (3) as (4).
@@ -424,19 +506,19 @@ Amendment by Pub. L. 100–456 applicable to appointments made under this sectio
 
 <a id="section-9020"></a>
 ## § 9020. Inspector General
-**(a)** There is an Inspector General of the Air Force who shall be detailed to such position by the Secretary of the Air Force from the general officers of the Air Force. An officer may not be detailed to such position for a tour of duty of more than four years, except that the Secretary may extend such a tour of duty if he makes a special finding that the extension is necessary in the public interest.
+**(a)** There is an Inspector General of the Department of the Air Force who shall be detailed to such position by the Secretary of the Air Force from the general officers of the Air Force or the general, flag, or equivalent officers of the Space Force. An officer may not be detailed to such position for a tour of duty of more than four years, except that the Secretary may extend such a tour of duty if he makes a special finding that the extension is necessary in the public interest.
 
-**(b)** When directed by the Secretary or the Chief of Staff, the Inspector General shall—
+**(b)** When directed by the Secretary, the Chief of Staff of the Air Force, or the Chief of Space Operations, the Inspector General shall—
 
-(1) inquire into and report upon the discipline, efficiency, and economy of the Air Force; and
+(1) inquire into and report upon the discipline, efficiency, and economy of the Department of the Air Force; and
 
-(2) perform any other duties prescribed by the Secretary or the Chief of Staff.
+(2) perform any other duties prescribed by the Secretary, the Chief of Staff, or the Chief of Space Operations.
 
 **(c)** The Inspector General shall periodically propose programs of inspections to the Secretary of the Air Force and shall recommend additional inspections and investigations as may appear appropriate.
 
 **(d)** The Inspector General shall cooperate fully with the Inspector General of the Department of Defense in connection with the performance of any duty or function by the Inspector General of the Department of Defense under the Inspector General Act of 1978 (5 U.S.C. App. 3) regarding the Department of the Air Force.
 
-**(e)** The Inspector General shall have such deputies and assistants as the Secretary of the Air Force may prescribe. Each such deputy and assistant shall be an officer detailed by the Secretary to that position from the officers of the Air Force for a tour of duty of not more than four years, under a procedure prescribed by the Secretary.
+**(e)** The Inspector General shall have such deputies and assistants as the Secretary of the Air Force may prescribe. Each such deputy and assistant shall be an officer detailed by the Secretary to that position from the officers of the Air Force or the Space Force for a tour of duty of not more than four years, under a procedure prescribed by the Secretary.
 
 ### Statutory Notes
 
@@ -444,26 +526,70 @@ Amendment by Pub. L. 100–456 applicable to appointments made under this sectio
 The Inspector General Act of 1978, referred to in subsec. (d), is Pub. L. 95–452, Oct. 12, 1978, 92 Stat. 1101, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Amendments
+2021—Subsec. (a). Pub. L. 116–283, § 923(b)(4)(A), inserted “Department of the” after “Inspector General of the” and “or the general, flag, or equivalent officers of the Space Force” after “general officers of the Air Force”.
+
+Subsec. (b). Pub. L. 116–283, § 923(b)(4)(B)(i), substituted “, the Chief of Staff of the Air Force, or the Chief of Space Operations” for “or the Chief of Staff”.
+
+Subsec. (b)(1). Pub. L. 116–283, § 923(b)(4)(B)(ii), inserted “Department of the” before “Air Force”.
+
+Subsec. (b)(2). Pub. L. 116–283, § 923(b)(4)(B)(iii), substituted “, the Chief of Staff, or the Chief of Space Operations” for “or the Chief of Staff”.
+
+Subsec. (e). Pub. L. 116–283, § 923(b)(4)(C), inserted “or the Space Force” before “for a tour of duty”.
+
 2018—Pub. L. 115–232 renumbered [section 8020 of this title](./chapter-803-department-of-the-navy.md#section-8020) as this section.
 
 #### Effective Date of 2018 Amendment
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
 
+#### Service of Incumbents in Certain Positions Without Reappointment
+Pub. L. 116–283, div. A, title IX, § 923(f), Jan. 1, 2021, 134 Stat. 3820, provided that: “(1) In general.—The individual serving in a position under a provision of law specified in paragraph (2) as of the date of the enactment of this Act [Jan. 1, 2021] may continue to serve in such position after that date without further appointment as otherwise provided by such provision of law, notwithstanding the amendment of such provision of law by subsection (b). “(2) Provisions of law.—The provisions of law specified in this paragraph are the provisions of title 10, United States Code, as follows:“(A) Section 9020, relating to the Inspector General of the Department of the Air Force. “(B) Section 9036. [sic] relating to the Surgeon General of the Air Force. “(C) Section 9037(a), relating to the Judge Advocate General of the Air Force. “(D) Section 9037(d), relating to the Deputy Judge Advocate General of the Air Force. “(E) Section 9039, relating to the Chief of Chaplains for the Air Force and the Space Force.”
+
 
 <a id="section-9021"></a>
-## § 9021. Air Force Reserve Forces Policy Committee
+## § 9021. Space Force Acquisition Council
+**(a) Establishment.—** There is in the Office of the Secretary of the Air Force a council to be known as the “Space Force Acquisition Council” (in this section referred to as the “Council”).
+
+**(b) Members.—** The members of the Council are as follows:
+
+(1) The Under Secretary of the Air Force.
+
+(2) The Assistant Secretary of the Air Force for Space Acquisition and Integration, who shall act as chair of the Council.
+
+(3) The Assistant Secretary of Defense for Space Policy.
+
+(4) The Director of the National Reconnaissance Office.
+
+(5) The Chief of Space Operations.
+
+(6) The Commander of the United States Space Command.
+
+**(c) Duties.—** The Council shall oversee, direct, and manage acquisition and integration of the Air Force for space systems and programs in order to ensure integration across the national security space enterprise.
+
+**(d) Meetings.—** The Council shall meet not less frequently than monthly.
+
+**(e) Reports.—** Not later than 30 days after the end of each calendar year quarter through the first calendar year quarter of 2025, the Council shall submit to the congressional defense committees a report on the activities of the Council during the calendar year quarter preceding the calendar year quarter in which such report is submitted.
+
+### Statutory Notes
+
+#### Prior Provisions
+A prior section 9021 was renumbered [section 9021a of this title](./chapter-903-department-of-the-air-force.md#section-9021a).
+
+Another prior section 9021 was renumbered [section 9371 of this title](./chapter-947-civilian-employees.md#section-9371).
+
+Another prior section 9021, act Aug. 10, 1956, ch. 1041, 70A Stat. 558, related to appointments in professional and scientific service, prior to repeal by Pub. L. 85–861, § 36B(30), Sept. 2, 1958, 72 Stat. 1571.
+
+
+<a id="section-9021a"></a>
+## § 9021a. Air Force Reserve Forces Policy Committee
 
 There is in the Office of the Secretary of the Air Force an Air Force Reserve Forces Policy Committee. The functions, membership, and organization of that committee are set forth in [section 10305 of this title](./chapter-1009-reserve-forces-policy-boards-and-committees.md#section-10305).
 
 ### Statutory Notes
 
-#### Prior Provisions
-A prior section 9021 was renumbered [section 9371 of this title](./chapter-947-civilian-employees.md#section-9371).
-
-Another prior section 9021, act Aug. 10, 1956, ch. 1041, 70A Stat. 558, related to appointments in professional and scientific service, prior to repeal by Pub. L. 85–861, § 36B(30), Sept. 2, 1958, 72 Stat. 1571.
-
 #### Amendments
-2018—Pub. L. 115–232 renumbered [section 8021 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section8021&num=0&edition=prelim) as this section.
+2019—Pub. L. 116–92 renumbered [section 9021 of this title](./chapter-903-department-of-the-air-force.md#section-9021) as this section.
+
+2018—Pub. L. 115–232 renumbered [section 8021 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section8021&num=0&edition=prelim) as [section 9021 of this title](./chapter-903-department-of-the-air-force.md#section-9021).
 
 #### Effective Date of 2018 Amendment
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).

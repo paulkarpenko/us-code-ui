@@ -50,6 +50,7 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
 Coast Guard transferred to Department of Transportation and all functions, powers, and duties, relating to Coast Guard, of Secretary of the Treasury and of other offices and officers of Department of the Treasury transferred to Secretary of Transportation by Pub. L. 89–670, Oct. 15, 1966, 80 Stat. 931, which created the Department of Transportation. See [section 108 of Title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section108&num=0&edition=prelim), Transportation.
 
+#### Transfer of Functions
 Functions of all officers of Department of the Treasury, and functions of all agencies and employees of such Department transferred, with certain exceptions, to Secretary of the Treasury, with power vested in him to authorize their performance or performance of any of his functions, by any of such officers, agencies, and employees, by Reorg. Plan No. 26 of 1950, §§ 1, 2, eff. July 31, 1950, 15 F.R. 4935, 64 Stat. 1280, 1281, set out in the Appendix to Title 5, Government Organization and Employees. Coast Guard, referred to in this section, was generally a service in Department of the Treasury, but such Plan excepted from transfer functions of Coast Guard and Commandant thereof when Coast Guard was operating as a part of the Navy under former sections 1 and 3 (now 101 and 103) of Title 14, Coast Guard.
 
 
@@ -100,9 +101,10 @@ This section [section 35] makes the following changes in [section 1384 of title 
 
 1949—Act May 24, 1949, made section applicable to the Air Force which was established as a separate department in 1947, headed by a Secretary.
 
-#### Transfer of Functions
+#### Change of Name
 Secretary and Department of Health, Education, and Welfare redesignated Secretary and Department of Health and Human Services by [section 3508(b) of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section3508/b&num=0&edition=prelim), Education.
 
+#### Transfer of Functions
 Functions of Federal Security Administrator transferred to Secretary of Health, Education, and Welfare and all agencies of Federal Security Agency transferred to Department of Health, Education, and Welfare by section 5 of Reorg. Plan No. 1 of 1953, eff. Apr. 11, 1953, 18 F.R. 2053, 67 Stat. 631, set out in the Appendix to Title 5, Government Organization and Employees. Federal Security Agency and office of Administrator were abolished by section 8 of Reorg. Plan No. 1 of 1953.
 
 

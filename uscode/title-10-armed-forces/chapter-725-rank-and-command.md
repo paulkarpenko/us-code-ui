@@ -24,7 +24,7 @@ The word “commissioned” is inserted for clarity, since the source statute re
 Prior sections 7222 to 7224 were renumbered sections 8622 to 8624 of this title, respectively.
 
 #### Amendments
-2018—Pub. L. 115–232 renumbered [section 3572 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section3572&num=0&edition=prelim) as this section.
+2018—Pub. L. 115–232 renumbered [section 3572 of this title](./chapter-251-simplified-acquisition-procedures.md#section-3572) as this section.
 
 #### Effective Date of 2018 Amendment
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).

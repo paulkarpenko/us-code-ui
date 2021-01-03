@@ -276,9 +276,6 @@ Subsec. (e). Pub. L. 113–251, § 5(3)(B), substituted “This section shall no
 
 1986—Subsec. (e). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”.
 
-#### Transfer of Functions
-Offices of collector of customs, comptroller of customs, surveyor of customs, and appraiser of merchandise in Bureau of Customs of Department of the Treasury to which appointments were required to be made by President with advice and consent of Senate ordered abolished, with such offices to be terminated not later than Dec. 31, 1966, by Reorg. Plan No. 1 of 1965, eff. May 25, 1965, 30 F.R. 7035, 79 Stat. 1317, set out in the Appendix to Title 5, Government Organization and Employees. Functions of offices eliminated were already vested in Secretary of the Treasury by Reorg. Plan No. 26 of 1950, eff. July 31, 1950, 15 F.R. 4935, 64 Stat. 1280, set out in the Appendix to Title 5.
-
 #### National Gambling Impact Study Commission
 Pub. L. 104–169, Aug. 3, 1996, 110 Stat. 1482, as amended by Pub. L. 105–30, § 1, July 25, 1997, 111 Stat. 248, established the National Gambling Impact Study Commission to conduct a comprehensive legal and factual study of the social and economic impacts of gambling in the United States on Federal, State, local, and Native American tribal governments, as well as on communities and social institutions generally, including individuals, families, and businesses within such communities and institutions, and to submit a report, not later than two years after its first meeting, to the President, the Congress, State Governors, and Native American tribal governments containing the Commission’s findings and conclusions, together with any recommendations of the Commission, and further provided for membership of the Commission, meetings, powers and duties of the Commission, personnel matters, contracts for research with the Advisory Commission on Intergovernmental Relations and the National Research Council, definitions, appropriations, and termination of the Commission 60 days after submission of its final report.
 
@@ -287,6 +284,9 @@ Enactment of this section as not indicating an intent on the part of the Congres
 
 #### Commission on Review of National Policy Toward Gambling
 Sections 804–809 of Pub. L. 91–452 established Commission on Review of National Policy Toward Gambling, provided for its membership and compensation of members and staff, empowered Commission to subpoena witnesses and grant immunity, required Commission to make a study of gambling in United States and existing Federal, State, and local policy and practices with respect to prohibition and taxation of gambling activities and to make a final report of its findings and recommendations to President and to Congress within four years of its establishment, and provided for its termination sixty days after submission of final report.
+
+#### Transfer of Functions
+Offices of collector of customs, comptroller of customs, surveyor of customs, and appraiser of merchandise in Bureau of Customs of Department of the Treasury to which appointments were required to be made by President with advice and consent of Senate ordered abolished, with such offices to be terminated not later than Dec. 31, 1966, by Reorg. Plan No. 1 of 1965, eff. May 25, 1965, 30 F.R. 7035, 79 Stat. 1317, set out in the Appendix to Title 5, Government Organization and Employees. Functions of offices eliminated were already vested in Secretary of the Treasury by Reorg. Plan No. 26 of 1950, eff. July 31, 1950, 15 F.R. 4935, 64 Stat. 1280, set out in the Appendix to Title 5.
 
 
 <a id="section-1956"></a>

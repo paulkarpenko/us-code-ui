@@ -41,7 +41,7 @@ source: >-
 ### Statutory Notes
 
 #### References in Text
-This chapter, referred to in subsec. (b)(3), (11), and (12), was in the original “this Act”, meaning Pub. L. 91–596, Dec. 29, 1970, 84 Stat. 1590, as amended. For complete classification of this Act to the Code, see Short Title note set out under this section and Tables.
+This chapter, referred to in subsec. (b)(3), (11), and (12), was in the original “this Act”, meaning Pub. L. 91–596, Dec. 29, 1970, 84 Stat. 1590. For complete classification of this Act to the Code, see Short Title note set out under this section and Tables.
 
 #### Effective Date
 Pub. L. 91–596, § 34, Dec. 29, 1970, 84 Stat. 1620, provided that: “This Act [enacting this chapter and [section 3142–1 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3142–1&num=0&edition=prelim), The Public Health and Welfare, amending [section 553 of this title](./chapter-012-department-of-labor.md#section-553), sections 5108, 5314, 5315, and 7902 of Title 5, Government Organization and Employees, sections 633 and 636 of Title 15, Commerce and Trade, [section 1114 of Title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section1114&num=0&edition=prelim), Crimes and Criminal Procedure, and section 1421 of former Title 49, Transportation, and enacting provisions set out as notes under this section and [section 1114 of Title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section1114&num=0&edition=prelim)] shall take effect one hundred and twenty days after the date of its enactment [Dec. 29, 1970].”
@@ -267,7 +267,15 @@ Pub. L. 99–499, title I, § 126(a)–(f), Oct. 17, 1986, 100 Stat. 1690–1692
 
 (2) employ experts and consultants or organizations thereof as authorized by [section 3109 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section3109&num=0&edition=prelim), except that contracts for such employment may be renewed annually; compensate individuals so employed at rates not in excess of the rate specified at the time of service for grade GS–18 under [section 5332 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5332&num=0&edition=prelim), including traveltime, and allow them while away from their homes or regular places of business, travel expenses (including per diem in lieu of subsistence) as authorized by [section 5703 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5703&num=0&edition=prelim) for persons in the Government service employed intermittently, while so employed.
 
+**(d) Maritime Occupational Safety and Health Advisory Committee** There is established a Maritime Occupational Safety and Health Advisory Committee, which shall be a continuing body and shall provide advice to the Secretary in formulating maritime industry standards and regarding matters pertaining to the administration of this chapter related to the maritime industry. The composition of such advisory committee shall be consistent with the advisory committees established under subsection (b). A member of the advisory committee who is otherwise qualified may continue to serve until a successor is appointed. The Secretary may promulgate or amend regulations as necessary to implement this subsection.
+
 ### Statutory Notes
+
+#### References in Text
+This chapter, referred to in subsec. (d), was in the original “this Act”, meaning Pub. L. 91–596, Dec. 29, 1970, 84 Stat. 1590. For complete classification of this Act to the Code, see Short Title note set out under [section 651 of this title](./chapter-015-occupational-safety-and-health.md#section-651) and Tables.
+
+#### Amendments
+2019—Subsec. (d). Pub. L. 116–92 added subsec. (d).
 
 #### Change of Name
 “Secretary of Health and Human Services” substituted for “Secretary of Health, Education, and Welfare” in subsecs. (a)(1), (2) and (b) pursuant to section 509(b) of Pub. L. 96–88 which is classified to [section 3508(b) of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section3508/b&num=0&edition=prelim), Education.

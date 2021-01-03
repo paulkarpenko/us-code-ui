@@ -505,6 +505,8 @@ Pub. L. 99–145, title XVI, § 1612, Nov. 8, 1985, 99 Stat. 776, as amended by 
 #### Materials in the National Defense Stockpile
 Provisions relating to certain materials in the National Defense Stockpile were contained in the following acts:
 
+Pub. L. 116–92, div. A, title VIII, § 850, Dec. 20, 2019, 133 Stat. 1509.
+
 Pub. L. 115–91, div. A, title XIV, § 1414, Dec. 12, 2017, 131 Stat. 1708.
 
 Pub. L. 114–328, div. A, title XIV, § 1411, Dec. 23, 2016, 130 Stat. 2569.
@@ -685,7 +687,7 @@ Section, act June 7, 1939, ch. 190, § 6A, as added Nov. 14, 1986, Pub. L. 99–
 
 (2) in time of war declared by the Congress or during a national emergency, on the order of any officer or employee of the United States designated by the President to have authority to issue disposal orders under this subsection, if such officer or employee determines that the release of such materials is required for purposes of the national defense; and
 
-(3) on the order of the Under Secretary of Defense for Acquisition, Technology, and Logistics, if the President has designated the Under Secretary to have authority to issue release orders under this subsection and, in the case of any such order, if the Under Secretary determines that the release of such materials is required for use, manufacture, or production for purposes of national defense.
+(3) on the order of the Under Secretary of Defense for Acquisition and Sustainment, if the President has designated the Under Secretary to have authority to issue release orders under this subsection and, in the case of any such order, if the Under Secretary determines that the release of such materials is required for use, manufacture, or production for purposes of national defense.
 
 **(b)** Any order issued under subsection (a) shall be promptly reported by the President, or by the officer or employee issuing such order, in writing, to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives.
 
@@ -697,6 +699,8 @@ A prior section 98f, acts June 7, 1939, ch. 190, § 7, 53 Stat. 812; July 23, 19
 Provisions similar to those in this section were contained in former [section 98d of this title](./chapter-005-arsenals-armories-arms-and-war-material-generally.md#section-98d) prior to repeal by Pub. L. 96–41.
 
 #### Amendments
+2019—Subsec. (a)(3). Pub. L. 116–92 substituted “Under Secretary of Defense for Acquisition and Sustainment” for “Under Secretary of Defense for Acquisition, Technology, and Logistics”.
+
 2013—Subsec. (a)(3). Pub. L. 112–239 added par. (3).
 
 1999—Subsec. (b). Pub. L. 106–65 substituted “and the Committee on Armed Services” for “and the Committee on National Security”.

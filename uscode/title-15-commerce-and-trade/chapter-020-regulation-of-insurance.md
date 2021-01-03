@@ -13,6 +13,9 @@ Congress hereby declares that the continued regulation and taxation by the sever
 
 ### Statutory Notes
 
+#### Short Title of 2021 Amendment
+Pub. L. 116–327, § 1, Jan. 13, 2021, 134 Stat. 5097, provided that: “This Act [amending [section 1013 of this title](./chapter-020-regulation-of-insurance.md#section-1013) and enacting provisions set out as a note under [section 1013 of this title](./chapter-020-regulation-of-insurance.md#section-1013)] may be cited as the ‘Competitive Health Insurance Reform Act of 2020’.”
+
 #### Short Title
 Act Mar. 9, 1945, ch. 20, 59 Stat. 33, which is classified to this chapter, is popularly known as the “McCarran-Ferguson Act”.
 
@@ -45,6 +48,38 @@ Act of September 26, 1914, known as the Federal Trade Commission Act, as amended
 
 **(b)** Nothing contained in this chapter shall render the said Sherman Act inapplicable to any agreement to boycott, coerce, or intimidate, or act of boycott, coercion, or intimidation.
 
+**(c)**
+
+(1) Nothing contained in this chapter shall modify, impair, or supersede the operation of any of the antitrust laws with respect to the business of health insurance (including the business of dental insurance and limited-scope dental benefits).
+
+(2) Paragraph (1) shall not apply with respect to making a contract, or engaging in a combination or conspiracy—
+
+  (A) to collect, compile, or disseminate historical loss data;
+
+  (B) to determine a loss development factor applicable to historical loss data;
+
+  (C) to perform actuarial services if such contract, combination, or conspiracy does not involve a restraint of trade; or
+
+  (D) to develop or disseminate a standard insurance policy form (including a standard addendum to an insurance policy form and standard terminology in an insurance policy form) if such contract, combination, or conspiracy is not to adhere to such standard form or require adherence to such standard form.
+
+(3) For purposes of this subsection—
+
+  (A) the term “antitrust laws” has the meaning given it in [section 12(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section12/a&num=0&edition=prelim), except that such term includes [section 45 of this title](./chapter-002-federal-trade-commission-promotion-of-export-trade-and-prevention-of-unfair-methods-of-competition.md#section-45) to the extent that such section 45 applies to unfair methods of competition;
+
+  (B) the term “business of health insurance (including the business of dental insurance and limited-scope dental benefits)” does not include—
+
+    (i) the business of life insurance (including annuities); or
+
+    (ii) the business of property or casualty insurance, including but not limited to—
+
+      (I) any insurance or benefits defined as “excepted benefits” under paragraph (1), subparagraph (B) or (C) of paragraph (2), or paragraph (3) of [section 9832(c) of title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section9832/c&num=0&edition=prelim) whether offered separately or in combination with insurance or benefits described in paragraph (2)(A) of such section; and
+
+      (II) any other line of insurance that is classified as property or casualty insurance under State law;
+
+  (C) the term “historical loss data” means information respecting claims paid, or reserves held for claims reported, by any person engaged in the business of insurance; and
+
+  (D) the term “loss development factor” means an adjustment to be made to reserves held for losses incurred for claims reported by any person engaged in the business of insurance, for the purpose of bringing such reserves to an ultimate paid basis.
+
 ### Statutory Notes
 
 #### References in Text
@@ -57,7 +92,12 @@ Act of September 26, 1914, known as the Federal Trade Commission Act, referred t
 Act of June 19, 1936, known as the Robinson-Patman Anti-Discrimination Act, referred to in subsec. (a), is act June 19, 1936, ch. 592, 49 Stat. 1526, known as the Robinson-Patman Antidiscrimination Act and also as the Robinson-Patman Price Discrimination Act, which enacted sections 13a, 13b, and 21a of this title and amended [section 13 of this title](./chapter-001-monopolies-and-combinations-in-restraint-of-trade.md#section-13). For complete classification of this Act to the Code, see Short Title note set out under [section 13 of this title](./chapter-001-monopolies-and-combinations-in-restraint-of-trade.md#section-13) and Tables.
 
 #### Amendments
+2021—Subsec. (c). Pub. L. 116–327 added subsec. (c).
+
 1947—Act July 25, 1947, substituted “June 30, 1948” for “January 1, 1948”.
+
+#### Related Provision
+Pub. L. 116–327, § 2(b), Jan. 13, 2021, 134 Stat. 5098, provided that: “For purposes of section 5 of the Federal Trade Commission Act ([15 U.S.C. 45](./chapter-002-federal-trade-commission-promotion-of-export-trade-and-prevention-of-unfair-methods-of-competition.md#section-45)) to the extent such section applies to unfair methods of competition, section 3(c) of the McCarran-Ferguson Act [[15 U.S.C. 1013(c)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1013/c&num=0&edition=prelim)] shall apply with respect to the business of health insurance without regard to whether such business is carried on for profit, notwithstanding the definition of ‘Corporation’ contained in section 4 of the Federal Trade Commission Act [[15 U.S.C. 44](./chapter-002-federal-trade-commission-promotion-of-export-trade-and-prevention-of-unfair-methods-of-competition.md#section-44)].”
 
 
 <a id="section-1014"></a>

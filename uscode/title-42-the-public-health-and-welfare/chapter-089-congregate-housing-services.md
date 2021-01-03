@@ -1135,6 +1135,19 @@ Subsec. (k). Pub. L. 102–550, § 605(b), amended subsec. (k) generally. Prior 
 
 ### Statutory Notes
 
+#### Amendment of Subsection (j)
+Pub. L. 116–260, div. Q, title I, § 101(d), (h), Dec. 27, 2020, 134 Stat. 2164, 2165, provided that, effective 2 years after Dec. 27, 2020, subsection (j) of this section is amended by adding at the end the following:
+
+“(7) Carbon monoxide alarms
+
+“Each dwelling unit assisted under this section shall contain installed carbon monoxide alarms or detectors that meet or exceed—
+
+“(A) the standards described in chapters 9 and 11 of the 2018 publication of the International Fire Code, as published by the International Code Council; or
+
+“(B) any other standards as may be adopted by the Secretary, including any relevant updates to the International Fire Code, through a notice published in the Federal Register.”
+
+See 2020 Amendment note below.
+
 #### References in Text
 The HOME Investment Partnerships Act, referred to in subsec. (b)(3)(C)(ii)(II), is title II of Pub. L. 101–625, Nov. 28, 1990, 104 Stat. 4094, which is classified principally to subchapter II (§ 12721 et seq.) of chapter 130 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 12701 of this title](./chapter-130-national-affordable-housing.md#section-12701) and Tables.
 
@@ -1158,6 +1171,8 @@ In subsec. (j)(6)(A), “sections 3141–3144, 3146, and 3147 of title 40” sub
 November 28, 1990, referred to in subsecs. (l)(2) and (n)(2), was in the original “the enactment of this Act” and “the date of enactment of this Act”, respectively, see Enactment of Section note below.
 
 #### Amendments
+2020—Subsec. (j)(7). Pub. L. 116–260 added par. (7).
+
 2011—Subsec. (a)(2). Pub. L. 111–374, § 5(1)(B)(i), substituted “makes available” for “provides”.
 
 Subsec. (a)(3). Pub. L. 111–374, § 5(1)(A), (B)(ii), (C), added par. (3).
@@ -1304,6 +1319,9 @@ Subsec. (l)(3). Pub. L. 102–550, § 601(d)(4), redesignated par. (2) as (3).
 
 1991—Subsec. (k)(4). Pub. L. 102–27 substituted “24 persons with disabilities (or such higher number of persons as permitted under criteria that the Secretary shall prescribe)” for “20 persons with disabilities”.
 
+#### Effective Date of 2020 Amendment
+Amendment by Pub. L. 116–260 effective 2 years after Dec. 27, 2020, see section 101(h) of div. Q of Pub. L. 116–260, set out as a note under [section 1701q of Title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1701q&num=0&edition=prelim), Banks and Banking.
+
 #### Effective Date of 2000 Amendment
 Amendment by title VIII of Pub. L. 106–569 effective Dec. 27, 2000, unless effectiveness or applicability upon another date certain is specifically provided for, with provisions relating to effect of regulatory authority, see section 803 of Pub. L. 106–569, set out as a note under [section 1701q of Title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1701q&num=0&edition=prelim), Banks and Banking.
 
@@ -1312,6 +1330,9 @@ Amendment by subtitles B through F of title VI [§§ 621–685] of Pub. L. 102�
 
 #### Enactment of Section
 This section was enacted as part of Pub. L. 101–625, which was approved Nov. 28, 1990. However, this section was deemed enacted as of Nov. 5, 1990, by Pub. L. 101–507, title II, Nov. 5, 1990, 104 Stat. 1358, set out as an Effective Date of 1990 Amendment note under [section 1701q of Title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1701q&num=0&edition=prelim), Banks and Banking.
+
+#### Construction of 2020 Amendment
+Nothing in amendment made by Pub. L. 116–260 to be construed to preempt or limit applicability of certain State or local laws relating to carbon monoxide devices, see section 101(j) of Pub. L. 116–260, set out as a note under [section 1437a of this title](./chapter-008-low-income-housing.md#section-1437a).
 
 #### Inapplicability of Certain 1992 Amendments to Indian Public Housing
 Amendment by section 623(a) of Pub. L. 102–550 not applicable with respect to lower income housing developed or operated pursuant to contract between Secretary of Housing and Urban Development and Indian housing authority, see section 626 of Pub. L. 102–550, set out as a note under [section 1437a of this title](./chapter-008-low-income-housing.md#section-1437a).

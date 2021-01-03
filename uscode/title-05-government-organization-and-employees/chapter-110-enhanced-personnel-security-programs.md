@@ -52,11 +52,11 @@ source: >-
 
 (6) **Effect on other reviews.—** — Reviews conducted under paragraph (1) are in addition to investigations and reinvestigations conducted pursuant to section 3001 of the Intelligence Reform and Terrorism Prevention Act of 2004 ([50 U.S.C. 3341](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3341&num=0&edition=prelim)).
 
-**(d) Audit.—**
+**(d) Review.—**
 
-(1) **In general.—** — Beginning 2 years after the date of the implementation of the enhanced personnel security program of an agency under subsection (a), the Inspector General of the agency shall conduct at least 1 audit to assess the effectiveness and fairness, which shall be determined in accordance with performance measures and standards established by the Director of National Intelligence, to covered individuals of the enhanced personnel security program of the agency.
+(1) **In general.—** — Beginning 2 years after the date of the implementation of the enhanced personnel security program of an agency under subsection (a), the Inspector General of the agency shall conduct at least 1 review to assess the effectiveness and fairness, which shall be determined in accordance with performance measures and standards established by the Director of National Intelligence, to covered individuals of the enhanced personnel security program of the agency.
 
-(2) **Submissions to dni.—** — The results of each audit conducted under paragraph (1) shall be submitted to the Director of National Intelligence to assess the effectiveness and fairness of the enhanced personnel security programs across the Federal Government.
+(2) **Submissions to dni.—** — The results of each review conducted under paragraph (1) shall be submitted to the Director of National Intelligence to assess the effectiveness and fairness of the enhanced personnel security programs across the Federal Government.
 
 **(e) Definitions.—** In this section—
 
@@ -72,6 +72,9 @@ source: >-
 
 #### References in Text
 The date of the enactment of the Intelligence Authorization Act for Fiscal Year 2016, referred to in subsec. (a)(2)(A), is the date of enactment of div. M of Pub. L. 114–113, which was approved Dec. 18, 2015.
+
+#### Amendments
+2019—Subsec. (d). Pub. L. 116–92 substituted “Review” for “Audit” in heading and “review” for “audit” in text of pars. (1) and (2).
 
 #### Resolution of Backlog of Overdue Periodic Reinvestigations
 Pub. L. 114–113, div. M, title III, § 306(b), Dec. 18, 2015, 129 Stat. 2916, provided that: “(1) In general.—The Director of National Intelligence shall develop and implement a plan to eliminate the backlog of overdue periodic reinvestigations of covered individuals. “(2) Requirements.—The plan developed under paragraph (1) shall—“(A) use a risk-based approach to—“(i) identify high-risk populations; and “(ii) prioritize reinvestigations that are due or overdue to be conducted; and “(B) use random automated record checks of covered individuals that shall include all covered individuals in the pool of individuals subject to a one-time check. “(3) Definitions.—In this subsection:“(A) The term ‘covered individual’ means an individual who has been determined eligible for access to classified information or eligible to hold a sensitive position. “(B) The term ‘periodic reinvestigations’ has the meaning given such term in section 3001(a)(7) of the Intelligence Reform and Terrorism Prevention Act of 2004 ([50 U.S.C. 3341(a)(7)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3341/a/7&num=0&edition=prelim)).”

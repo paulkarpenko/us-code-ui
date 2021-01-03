@@ -54,6 +54,9 @@ Pub. L. 99–519, § 1, Oct. 22, 1986, 100 Stat. 2970, provided that: “This Ac
 #### Short Title
 Pub. L. 94–469, § 1, Oct. 11, 1976, 90 Stat. 2003; renumbered title I, Pub. L. 99–519, § 3(c), Oct. 22, 1986, 100 Stat. 2989, provided that: “This Act [enacting this chapter and provisions set out as notes under this section] may be cited as the ‘Toxic Substances Control Act’.”
 
+#### Modification of definition of sport fishing equipment under Toxic Substances Control Act
+Pub. L. 116–188, title I, § 108, Oct. 30, 2020, 134 Stat. 920, provided that: “(a) Prohibition.—During the 5-year period beginning on the date of enactment of this Act [Oct. 30, 2020], the Administrator of the Environmental Protection Agency shall not take any action to regulate the lead content of sport fishing equipment or sport fishing equipment components under the Toxic Substances Control Act ([15 U.S.C. 2601](./chapter-053-toxic-substances-control.md#section-2601) et seq.). “(b) Definition of Sport Fishing Equipment.—In this section, the term ‘sport fishing equipment’ means any sport fishing equipment (as such term is defined in section 4162(a) of the Internal Revenue Code of 1986 [[26 U.S.C. 4162(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section4162/a&num=0&edition=prelim)]) the sale of which is subject to the tax imposed by section 4161(a) of such Code [[26 U.S.C. 4161(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section4161/a&num=0&edition=prelim)] (determined without regard to any exemptions from such tax provided by section 4162 or 4221 or any other provision of such Code [[26 U.S.C. 4162](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section4162&num=0&edition=prelim), 4221]).”
+
 #### No Retroactivity of Pub. L. 114–182 Amendments
 Pub. L. 114–182, title I, § 20, June 22, 2016, 130 Stat. 510, provided that: “Nothing in sections 1 through 19 [amending this section, sections 2602 to 2611, 2613 to 2615, 2617 to 2620, 2623, 2625 to 2627, and 2629 of this title, and [section 6939f of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section6939f&num=0&edition=prelim), The Public Health and Welfare, repealing [section 2624 of this title](./chapter-053-toxic-substances-control.md#section-2624), and enacting provisions set out as a note under this section], or the amendments made by sections 1 through 19, shall be interpreted to apply retroactively to any State, Federal, or maritime legal action filed before the date of enactment of this Act [June 22, 2016].”
 
@@ -1386,6 +1389,8 @@ Section effective Jan. 1, 1977, see section 31 of Pub. L. 94–469, set out as a
 
   (B) Not later than 3 and one-half years after June 22, 2016, the Administrator shall publish a final rule resulting from such negotiated rulemaking.
 
+(7) **PFAS data.—** — Not later than January 1, 2023, the Administrator shall promulgate a rule in accordance with this subsection requiring each person who has manufactured a chemical substance that is a perfluoroalkyl or polyfluoroalkyl substance in any year since January 1, 2011, to submit to the Administrator a report that includes, for each year since January 1, 2011, the information described in subparagraphs (A) through (G) of paragraph (2).
+
 **(b) Inventory**
 
 (1) The Administrator shall compile, keep current, and publish a list of each chemical substance which is manufactured or processed in the United States. Such list shall at least include each chemical substance which any person reports, under [section 2604 of this title](./chapter-053-toxic-substances-control.md#section-2604) or subsection (a) of this section, is manufactured or processed in the United States. Such list may not include any chemical substance which was not manufactured or processed in the United States within three years before the effective date of the rules promulgated pursuant to the last sentence of subsection (a)(1). In the case of a chemical substance for which a notice is submitted in accordance with [section 2604 of this title](./chapter-053-toxic-substances-control.md#section-2604), such chemical substance shall be included in such list as of the earliest date (as determined by the Administrator) on which such substance was manufactured or processed in the United States. The Administrator shall first publish such a list not later than 315 days after January 1, 1977. The Administrator shall not include in such list any chemical substance which is manufactured or processed only in small quantities (as defined by the Administrator by rule) solely for purposes of scientific experimentation or analysis or chemical research on, or analysis of, such substance or another substance, including such research or analysis for the development of a product.
@@ -1551,6 +1556,8 @@ Section effective Jan. 1, 1977, see section 31 of Pub. L. 94–469, set out as a
 ### Statutory Notes
 
 #### Amendments
+2019—Subsec. (a)(7). Pub. L. 116–92 added par. (7).
+
 2016—Subsec. (a)(2). Pub. L. 114–182, § 8(a)(1)(A), struck out concluding provisions which read as follows: “To the extent feasible, the Administrator shall not require under paragraph (1), any reporting which is unnecessary or duplicative.”
 
 Subsec. (a)(2)(E). Pub. L. 114–182, § 19(g)(1), substituted “information” for “data”.

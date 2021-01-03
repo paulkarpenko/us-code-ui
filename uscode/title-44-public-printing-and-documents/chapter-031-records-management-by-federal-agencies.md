@@ -163,11 +163,11 @@ The head of each Federal agency shall establish safeguards against the removal o
 
 ### Statutory Notes
 
-#### References in Text
-Sections 3304 to 3307 of this title, included in the reference in par. (1) to sections 3301 to 3314 of this title, were repealed by Pub. L. 91–287, § 2(c), June 23, 1970, 84 Stat. 321.
-
 #### Historical and Revision Notes
 Based on 44 U.S. Code, 1964 ed., § 396(e) (June 30, 1949, ch. 288, title V, § 506(e), as added Sept. 5, 1950, ch. 849, § 6(d), 64 Stat. 583).
+
+#### References in Text
+Sections 3304 to 3307 of this title, included in the reference in par. (1) to sections 3301 to 3314 of this title, were repealed by Pub. L. 91–287, § 2(c), June 23, 1970, 84 Stat. 321.
 
 #### Amendments
 2014—Pub. L. 113–187 substituted “the head of such agency” for “he” in introductory provisions.

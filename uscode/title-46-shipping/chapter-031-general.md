@@ -24,7 +24,7 @@ Section 3101 provides the President with the authority to suspend the inspection
 Pub. L. 98–89, § 2(g)(1), Aug. 26, 1983, 97 Stat. 599, provided that: “Part B [chapters 31 to 43] of subtitle II and sections 7306 (related to able seaman sail) and 7311 of title 46 (as enacted by section 1 of this Act) take effect April 15, 1984, or when regulations for sailing school vessels under part B are effective, whichever is earlier.” [Part B of subtitle II and sections 7306 (related to able seaman sail) and 7311 of title 46 effective Apr. 15, 1984, in absence of regulations for sailing school vessels under part B on that date.]
 
 #### Delegation of Functions
-For delegation to Secretary of the Treasury of authority vested in President by this section, see Ex. Ord. No. 10289, Sept. 17, 1951, 16 F.R. 9499, as amended, set out as a note under [section 301 of Title 3](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title3-section301&num=0&edition=prelim), The President.
+For delegation to Secretary of the Treasury of authority vested in President by this section, see Ex. Ord. No. 10289, Sept. 17, 1951, 16 F.R. 9499, set out as a note under [section 301 of Title 3](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title3-section301&num=0&edition=prelim), The President.
 
 
 <a id="section-3102"></a>

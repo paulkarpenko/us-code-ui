@@ -537,12 +537,9 @@ Pub. L. 113–291, div. A, title VIII, § 835, Dec. 19, 2014, 128 Stat. 3449, pr
 
 (6) describe other ways in which the executive agency has emphasized competition in programs for procurement training and research.
 
-**(c) Responsibilities.—** The advocate for competition for each procuring activity is responsible for promoting full and open competition, promoting the acquisition of commercial items, and challenging barriers to acquisition, including unnecessarily restrictive statements of need, unnecessarily detailed specifications, and unnecessarily burdensome contract clauses.
+**(c) Responsibilities.—** The advocate for competition for each procuring activity is responsible for promoting full and open competition, promoting the acquisition of commercial products and commercial services, and challenging barriers to acquisition, including unnecessarily restrictive statements of need, unnecessarily detailed specifications, and unnecessarily burdensome contract clauses.
 
 ### Statutory Notes
-
-#### Amendment of Subsection (c)
-Pub. L. 115–232, div. A, title VIII, § 836(b)(2), (h), Aug. 13, 2018, 132 Stat. 1861, 1874, provided that, effective Jan. 1, 2020, subject to a savings provision, subsection (c) of this section is amended by striking “commercial items” and inserting “commercial products and commercial services”. See 2018 Amendment note below.
 
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
@@ -702,7 +699,7 @@ In subsection (a)(2), the words “Notwithstanding the preceding sentence” are
 
 (5) in the case of a procurement using procedures other than competitive procedures, a statement of the reason justifying the use of those procedures and the identity of the intended source; and
 
-(6) in the case of a contract in an amount estimated to be greater than $25,000 but not greater than the simplified acquisition threshold, or a contract for the procurement of commercial items using special simplified procedures—
+(6) in the case of a contract in an amount estimated to be greater than $25,000 but not greater than the simplified acquisition threshold, or a contract for the procurement of commercial products or commercial services using special simplified procedures—
 
   (A) a description of the procedures to be used in awarding the contract; and
 
@@ -726,16 +723,13 @@ In subsection (a)(2), the words “Notwithstanding the preceding sentence” are
 
 (2) **Establishing deadline when none provided by statute.—** — An executive agency shall establish a deadline for the submission of all bids or proposals in response to a solicitation for which a deadline is not provided by statute. Each deadline for the submission of offers shall afford potential offerors a reasonable opportunity to respond.
 
-(3) **Flexible deadlines.—** — The Administrator shall prescribe regulations defining limited circumstances in which flexible deadlines can be used under paragraph (1) for the issuance of solicitations and the submission of bids or proposals for the procurement of commercial items.
+(3) **Flexible deadlines.—** — The Administrator shall prescribe regulations defining limited circumstances in which flexible deadlines can be used under paragraph (1) for the issuance of solicitations and the submission of bids or proposals for the procurement of commercial products or commercial services.
 
 **(f) Consideration of Certain Timely Received Offers.—** An executive agency intending to solicit offers for a contract for which a notice of solicitation is required to be posted under subsection (a)(1) shall ensure that contracting officers consider each responsive offer timely received from an offeror.
 
 **(g) Availability of Complete Solicitation Package and Payment of Fee.—** An executive agency shall make available to a business concern, or the authorized representative of a concern, the complete solicitation package for any on-going procurement announced pursuant to a notice of solicitation under subsection (a). An executive agency may require the payment of a fee, not exceeding the actual cost of duplication, for a copy of the package.
 
 ### Statutory Notes
-
-#### Amendment of Subsections (c)(6) and (e)(3)
-Pub. L. 115–232, div. A, title VIII, § 836(b)(3), (h), Aug. 13, 2018, 132 Stat. 1861, 1874, provided that, effective Jan. 1, 2020, subject to a savings provision, subsections (c)(6) and (e)(3) of this section are amended by striking “commercial items” and inserting “commercial products or commercial services”. See 2018 Amendment note below.
 
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
@@ -976,7 +970,7 @@ Each executive agency shall establish and maintain cost-effective procedures and
 ## § 1713. Procurement data
 **(a) Definitions.—** In this section:
 
-(1) **Qualified hubzone small business concern.—** — The term “qualified HUBZone small business concern” has the meaning given that term in section 3(p) of the Small Business Act ([15 U.S.C. 632(p)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section632/p&num=0&edition=prelim)).
+(1) **Qualified hubzone small business concern.—** — The term “qualified HUBZone small business concern” has the meaning given that term in section 31(b) of the Small Business Act.
 
 (2) **Small business concern owned and controlled by socially and economically disadvantaged individuals.—** — The term “small business concern owned and controlled by socially and economically disadvantaged individuals” has the meaning given that term in section 8(d) of the Small Business Act ([15 U.S.C. 637(d)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section637/d&num=0&edition=prelim)).
 
@@ -985,9 +979,6 @@ Each executive agency shall establish and maintain cost-effective procedures and
 **(b) Reporting.—** Each Federal agency shall report to the Office of Federal Procurement Policy the number of qualified HUBZone small business concerns, the number of small businesses owned and controlled by women, and the number of small business concerns owned and controlled by socially and economically disadvantaged individuals, by gender, that are first time recipients of contracts from the agency. The Office shall take appropriate action to ascertain, for each fiscal year, the number of those small businesses that have newly entered the Federal market.
 
 ### Statutory Notes
-
-#### Amendment of Subsection (a)
-Pub. L. 115–91, div. A, title XVII, § 1701(a)(4)(F)(ii), (j), Dec. 12, 2017, 131 Stat. 1796, 1803, provided that, effective Jan. 1, 2020, subsection (a) of this section is amended by striking “section 3(p) of the Small Business Act ([15 U.S.C. 632(p)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section632/p&num=0&edition=prelim))” and inserting “section 31(b) of the Small Business Act”. See 2017 Amendment note below.
 
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
@@ -998,6 +989,8 @@ Pub. L. 115–91, div. A, title XVII, § 1701(a)(4)(F)(ii), (j), Dec. 12, 2017, 
 In subsection (b), the words “socially and economically disadvantaged individuals” are substituted for “socially and economically disadvantaged businesses” for consistency with the term set out in subsection (a).
 
 #### References in Text
+Section 31(b) of the Small Business Act, referred to in subsec. (a)(1), is classified to [section 657a(b) of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section657a/b&num=0&edition=prelim), Commerce and Trade.
+
 Section 204 of the Women’s Business Ownership Act of 1988, referred to in subsec. (a)(3), is section 204 of Pub. L. 100–533, which is set out as a note under [section 637 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section637&num=0&edition=prelim), Commerce and Trade.
 
 #### Amendments

@@ -8,9 +8,13 @@ source: >-
 ---
 <a id="section-9341"></a>
 ## § 9341. General rule
-**(a)** The retired grade of a regular commissioned officer of the Air Force who retires other than for physical disability, and the retired grade of a reserve commissioned officer of the Air Force who retires other than for physical disability, is determined under [section 1370 of this title](./chapter-069-retired-grade.md#section-1370).
+**(a)**
 
-**(b)** Unless entitled to a higher retired grade under some other provision of law, a Regular or Reserve of the Air Force not covered by subsection (a) who retires other than for physical disability retires in the regular or reserve grade that he holds on the date of his retirement.
+(1) The retired grade of a regular commissioned officer of the Air Force or the Space Force who retires other than for physical disability is determined under [section 1370 of this title](./chapter-069-retired-grade.md#section-1370).
+
+(2) The retired grade of a reserve commissioned officer of the Air Force or the Space Force who retires other than for physical disability is determined under [section 1370a of this title](./chapter-069-retired-grade.md#section-1370a).
+
+**(b)** Unless entitled to a higher retired grade under some other provision of law, a Regular or Reserve of the Air Force or a Regular or Reserve of the Space Force not covered by subsection (a) who retires other than for physical disability retires in the regular or reserve grade that the member holds on the date of the member’s retirement.
 
 ### Statutory Notes
 
@@ -27,6 +31,10 @@ The applicability of the rule stated in the revised section to situations not ex
 Prior sections 9341 and 9341a were renumbered sections 9441 and 9441a of this title, respectively.
 
 #### Amendments
+2021—Subsec. (a). Pub. L. 116–283, § 508(b)(4)(A), added subsec. (a) and struck out former subsec. (a) which read as follows: “The retired grade of a regular commissioned officer of the Air Force who retires other than for physical disability, and the retired grade of a reserve commissioned officer of the Air Force who retires other than for physical disability, is determined under [section 1370 of this title](./chapter-069-retired-grade.md#section-1370).”
+
+Subsec. (b). Pub. L. 116–283, § 508(b)(4)(B), inserted “or a Regular or Reserve of the Space Force” after “Air Force” and substituted “the member” for “he” and “the member’s” for “his”.
+
 2018—Pub. L. 115–232 renumbered [section 8961 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section8961&num=0&edition=prelim) as this section.
 
 2000—Subsec. (a). Pub. L. 106–398 struck out “or for nonregular service under chapter 1223 of this title” before “, is determined”.
@@ -133,15 +141,15 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 <a id="section-9344"></a>
 ## § 9344. Higher grade after 30 years of service: warrant officers and enlisted members
-**(a)** Each retired member of the Air Force covered by subsection (b) who is retired with less than 30 years of active service is entitled, when his active service plus his service on the retired list totals 30 years, to be advanced on the retired list to the highest grade in which he served on active duty satisfactorily (or, in the case of a member of the National Guard, in which he served on full-time duty satisfactorily), as determined by the Secretary of the Air Force.
+**(a)** Each retired member of the Air Force or the Space Force covered by subsection (b) who is retired with less than 30 years of active service is entitled, when his active service plus his service on the retired list totals 30 years, to be advanced on the retired list to the highest grade in which he served on active duty satisfactorily (or, in the case of a member of the National Guard, in which he served on full-time duty satisfactorily), as determined by the Secretary of the Air Force.
 
 **(b)** This section applies to—
 
-(1) warrant officers of the Air Force;
+(1) warrant officers of the Air Force or the Space Force;
 
-(2) enlisted members of the Regular Air Force; and
+(2) enlisted members of the Regular Air Force or the Regular Space Force; and
 
-(3) reserve enlisted members of the Air Force who, at the time of retirement, are serving on active duty (or, in the case of members of the National Guard, on full-time duty).
+(3) reserve enlisted members of the Air Force or the Space Force who, at the time of retirement, are serving on active duty (or, in the case of members of the National Guard, on full-time duty).
 
 ### Statutory Notes
 
@@ -163,6 +171,14 @@ The words “when his active service plus his service on the retired list totals
 A prior section 9344, act Aug. 10, 1956, ch. 1041, 70A Stat. 564; Pub. L. 98–94, title X, § 1004(c)(1), Sept. 24, 1983, 97 Stat. 659; Pub. L. 105–85, div. A, title V, § 543(c), Nov. 18, 1997, 111 Stat. 1744; Pub. L. 106–65, div. A, title V, § 534(c), Oct. 5, 1999, 113 Stat. 605; Pub. L. 106–398, § 1 [[div. A], title V, § 532(c)], Oct. 30, 2000, 114 Stat. 1654, 1654A–110; Pub. L. 107–107, div. A, title V, § 533(c)(1), (2), Dec. 28, 2001, 115 Stat. 1106, related to selection of persons from foreign countries to receive instruction at the United States Air Force Academy, prior to repeal by Pub. L. 114–328, div. A, title XII, § 1248(b)(1), Dec. 23, 2016, 130 Stat. 2525. See [section 347 of this title](./chapter-016-security-cooperation.md#section-347).
 
 #### Amendments
+2021—Subsec. (a). Pub. L. 116–283, § 923(c)(21)(A)(i), inserted “or the Space Force” after “member of the Air Force”.
+
+Subsec. (b)(1). Pub. L. 116–283, § 923(c)(21)(A)(ii)(I), inserted “or the Space Force” after “Air Force”.
+
+Subsec. (b)(2). Pub. L. 116–283, § 923(c)(21)(A)(ii)(II), inserted “or the Regular Space Force” after “Regular Air Force”.
+
+Subsec. (b)(3). Pub. L. 116–283, § 923(c)(21)(A)(ii)(I), inserted “or the Space Force” after “Air Force”.
+
 2018—Pub. L. 115–232 renumbered [section 8964 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section8964&num=0&edition=prelim) as this section.
 
 1987—Pub. L. 100–180 substituted “warrant officers and enlisted members” for “Air Force warrant officers; regular enlisted members” in section catchline, and amended text generally. Prior to amendment, text read as follows: “Each warrant officer of the Air Force, and each enlisted member of the Regular Air Force, who is retired before or after this title is enacted is entitled, when his active service plus his service on the retired list totals 30 years, to be advanced on the retired list to the grade that is equal to the highest grade in which he served on active duty satisfactorily, as determined by the Secretary of the Air Force.”
@@ -181,7 +197,7 @@ Amendment by Pub. L. 100–180 applicable to any reserve enlisted member who com
 <a id="section-9345"></a>
 ## § 9345. Restoration to former grade: retired warrant officers and enlisted members
 
-Each retired warrant officer or enlisted member of the Air Force who has been advanced on the retired list to a higher commissioned grade under [section 9344 of this title](./chapter-943-retired-grade.md#section-9344), and who applies to the Secretary of the Air Force within three months after his advancement, shall, if the Secretary approves, be restored on the retired list to his former warrant-officer or enlisted status, as the case may be.
+Each retired warrant officer or enlisted member of the Air Force or the Space Force who has been advanced on the retired list to a higher commissioned grade under [section 9344 of this title](./chapter-943-retired-grade.md#section-9344), and who applies to the Secretary of the Air Force within three months after his advancement, shall, if the Secretary approves, be restored on the retired list to his former warrant-officer or enlisted status, as the case may be.
 
 ### Statutory Notes
 
@@ -200,6 +216,8 @@ Another prior section 9345, act Aug. 10, 1956, ch. 1041, 70A Stat. 565, related 
 A prior section 9345a, added Pub. L. 110–417, [div. A], title V, § 541(c)(1), Oct. 14, 2008, 122 Stat. 4456; amended Pub. L. 113–291, div. A, title V, § 553(c), Dec. 19, 2014, 128 Stat. 3377, related to foreign and cultural exchange activities, prior to repeal by Pub. L. 114–328, div. A, title XII, § 1248(b)(1), Dec. 23, 2016, 130 Stat. 2525.
 
 #### Amendments
+2021—Pub. L. 116–283 inserted “or the Space Force” after “member of the Air Force”.
+
 2018—Pub. L. 115–232 renumbered [section 8965 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section8965&num=0&edition=prelim) as this section and substituted “section 9344” for “section 8964”.
 
 1988—Pub. L. 100–456 substituted “retired” for “Regular Air Force” in section catchline.
@@ -212,17 +230,17 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 <a id="section-9346"></a>
 ## § 9346. Retired lists
-**(a)** The Secretary of the Air Force shall maintain a retired list containing the name of each retired commissioned officer of the Regular Air Force.
+**(a)** The Secretary of the Air Force shall maintain a retired list containing the name of each retired commissioned officer of the Regular Air Force or the Regular Space Force.
 
 **(b)** The Secretary shall maintain a retired list containing the name of—
 
-(1) each person entitled to retired pay under any law providing retired pay for commissioned officers of the Air Force, other than of the Regular Air Force; and
+(1) each person entitled to retired pay under any law providing retired pay for commissioned officers of the Air Force, other than of the Regular Air Force, or for commissioned officers of the Space Force other than of the Regular Space Force; and
 
-(2) each retired warrant officer or enlisted member of the Air Force who is advanced to a commissioned grade.
+(2) each retired warrant officer or enlisted member of the Air Force or the Space Force who is advanced to a commissioned grade.
 
-**(c)** The Secretary shall maintain a retired list containing the name of each retired warrant officer of the Air Force.
+**(c)** The Secretary shall maintain a retired list containing the name of each retired warrant officer of the Air Force or the Space Force.
 
-**(d)** The Secretary shall maintain a retired list containing the name of each retired enlisted member of the Regular Air Force.
+**(d)** The Secretary shall maintain a retired list containing the name of each retired enlisted member of the Regular Air Force or the Regular Space Force.
 
 ### Statutory Notes
 
@@ -258,6 +276,16 @@ Another prior section 9356, added Pub. L. 103–337, div. A, title V, § 556(c)(
 Prior sections 9357 to 9360 were renumbered sections 9457 to 9460 of this title, respectively.
 
 #### Amendments
+2021—Subsec. (a). Pub. L. 116–283, § 923(c)(21)(C)(i), inserted “or the Regular Space Force” after “Regular Air Force”.
+
+Subsec. (b)(1). Pub. L. 116–283, § 923(c)(21)(C)(ii), inserted “, or for commissioned officers of the Space Force other than of the Regular Space Force” after “Regular Air Force”.
+
+Subsec. (b)(2). Pub. L. 116–283, § 923(c)(21)(C)(iii), inserted “or the Space Force” after “Air Force”.
+
+Subsec. (c). Pub. L. 116–283, § 923(c)(21)(C)(iii), inserted “or the Space Force” after “Air Force”.
+
+Subsec. (d). Pub. L. 116–283, § 923(c)(21)(C)(i), inserted “or the Regular Space Force” after “Regular Air Force”.
+
 2018—Pub. L. 115–232 renumbered [section 8966 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section8966&num=0&edition=prelim) as this section.
 
 1987—Subsec. (b)(2). Pub. L. 100–180 struck out “Regular” before “Air Force”.

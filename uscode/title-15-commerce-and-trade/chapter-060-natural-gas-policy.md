@@ -435,7 +435,9 @@ The Natural Gas Act, referred to in subsec. (a)(1)(B), is act June 21, 1938, ch.
 
   (B) require any person, by general or special order, to submit answers in writing to interrogatories, requests for reports or for other information, and such answers shall be made within such reasonable period, and under oath or otherwise as the President may determine; and
 
-**(c)** 11 So in original. Probably should be “(C)”. secure, upon request, any information from any Federal agency. (2) Enforcement of subpenas and ordersThe appropriate United States district court may, upon petition of the Attorney General at the request of the President, in the case of refusal to obey a subpena or order of the President issued under this subsection, issue an order requiring compliance therewith, and any failure to obey an order of the court may be punished by the court as a contempt thereof.
+  (c) 11 So in original. Probably should be “(C)”. secure, upon request, any information from any Federal agency.
+
+(2) **Enforcement of subpenas and orders** — The appropriate United States district court may, upon petition of the Attorney General at the request of the President, in the case of refusal to obey a subpena or order of the President issued under this subsection, issue an order requiring compliance therewith, and any failure to obey an order of the court may be punished by the court as a contempt thereof.
 
 **(b) Reporting of prices and volumes** In issuing any order under section 3362 or 3363 of this title, the President shall require that the prices and volumes of natural gas delivered, transported, or contracted for pursuant to such order shall be reported to him on a weekly basis. Such reports shall be made available to the Congress.
 

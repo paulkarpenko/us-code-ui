@@ -118,6 +118,9 @@ Amendment by section 33(a)(5) of Pub. L. 85–861 effective Aug. 10, 1956, see s
 #### Rule of Construction for Duplicate Authorization and Appropriation Provisions of Public Laws 99–500, 99–591, and 99–661
 For rule of construction for certain duplicate provisions of Public Laws 99–500, 99–591, and 99–661, see Pub. L. 100–26, § 6, Apr. 21, 1987, 101 Stat. 274, set out as a note under [section 2302 of this title](./chapter-137-procurement-generally.md#section-2302).
 
+#### Quarantine Lodging for Members of the Reserve Components Who Perform Certain Service in Response to the Covid–19 Emergency
+Pub. L. 116–283, div. A, title V, § 517, Jan. 1, 2021, 134 Stat. 3590, provided that: “(a) In General.—The Secretary of Defense may provide, to a member of the reserve components of the Armed Forces who performs a period of covered service, housing for not fewer than 14 days immediately after the end of such period of covered service. “(b) Definitions.—In this section:“(1) The term ‘active service’ has the meaning given that term in [section 101 of title 10](./chapter-001-definitions.md#section-101), United States Code. “(2) The term ‘covered service’ means active service performed in response to the covered national emergency. “(3) The term ‘covered national emergency’ means the national emergency declared on March 13, 2020, by the President under the National Emergencies Act ([50 U.S.C. 1601](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1601&num=0&edition=prelim) et seq.) with respect to COVID–19.”
+
 #### Limitations on Cancellations of Deployment of Certain Reserve Component Units and Involuntary Mobilizations of Certain Reserves
 Pub. L. 113–66, div. A, title V, § 513, Dec. 26, 2013, 127 Stat. 752, provided that: “(a) Limitation on Cancellation of Deployment of Certain Units Within 180 Days of Scheduled Deployment.—“(1) Limitation.—The deployment of a unit of a reserve component of the Armed Forces described in paragraph (2) may not be cancelled during the 180-day period ending on the date on which the unit is otherwise scheduled for deployment without the approval, in writing, of the Secretary of Defense. “(2) Covered deployments.—A deployment of a unit of a reserve component described in this paragraph is a deployment whose cancellation as described in paragraph (1) is due to the deployment of a unit of a regular component of the Armed Forces to carry out the mission for which the unit of the reserve component was otherwise to be deployed. “(3) Notice to congress and governors on approval of cancellation of deployment.—On approving the cancellation of deployment of a unit under paragraph (1), the Secretary shall submit to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] and the Governor concerned a notice on the approval of cancellation of deployment of the unit. “(b) Advance Notice to Certain Reserves on Involuntary Mobilization.—“(1) Advance notice required.—The Secretary concerned may not provide less than 120 days advance notice of an involuntary mobilization to a member of the reserve component of the Armed Forces described in paragraph (2) without the approval, in writing, of the Secretary of Defense. “(2) Covered reserves.—A member of a reserve component described in this paragraph is a member as follows:“(A) A member who is not assigned to a unit organized to serve as a unit. “(B) A member who is to be mobilized apart from the member’s unit. “(3) Commencement of applicability.—This subsection shall apply with respect to members who are mobilized on or after the date that is 120 days after the date of the enactment of this Act [Dec. 26, 2013]. “(4) Secretary concerned defined.—In this subsection, the term ‘Secretary concerned’ has the meaning given that term in [section 101(a)(9) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section101/a/9&num=0&edition=prelim), United States Code. “(5) Sunset.—This subsection shall cease to apply as of the date of the completion of the withdrawal of United States combat forces from Afghanistan. “(c) Nondelegation of Approval.—The Secretary of Defense may not delegate the approval of cancellations of deployments of units under subsection (a) or the approval of mobilization of Reserves without advance notice under subsection (b).”
 
@@ -213,6 +216,25 @@ Sec. 7. Based upon my determination under [10 U.S.C. 2201(c)](https://uscode.hou
 Sec. 8. This order is intended only to improve the internal management of the executive branch, and is not intended to create any right or benefit, substantive or procedural, enforceable at law by a party against the United States, its agencies, its officers, or any person.
 
 Sec. 9. This order is effective immediately and shall be promptly transmitted to the Congress and published in the Federal Register.
+
+#### Ex. Ord. No. 13912. National Emergency Authority To Order the Selected Reserve and Certain Members of the Individual Ready Reserve of the Armed Forces to Active Duty
+Ex. Ord. No. 13912, Mar. 27, 2020, 85 F.R. 18407, provided:
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, including the National Emergencies Act ([50 U.S.C. 1601](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1601&num=0&edition=prelim) et seq.), and in furtherance of Proclamation 9994 of March 13, 2020 (Declaring a National Emergency Concerning the Novel Coronavirus Disease (COVID–19) Outbreak) [[50 U.S.C. 1621](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1621&num=0&edition=prelim) note], which declared a national emergency by reason of the threat that the novel (new) coronavirus known as SARS–CoV–2 poses to our Nation’s healthcare systems, I hereby order as follows:
+
+Section 1. Emergency Authority. To provide additional authority to the Secretaries of Defense and Homeland Security to respond to the national emergency declared by Proclamation 9994, the authorities under [section 12302 of title 10](./chapter-1209-active-duty.md#section-12302), United States Code, and sections 2127, 2308, 2314, and 3735 of title 14, United States Code, are invoked and made available, according to their terms, to the Secretaries of Defense and Homeland Security. The Secretaries of the Army, Navy, and Air Force, at the direction of the Secretary of Defense, and the Secretary of Homeland Security with respect to the Coast Guard when it is not operating as a service in the Navy, are authorized to order to active duty not to exceed 24 consecutive months, such units, and individual members of the Ready Reserve under the jurisdiction of the Secretary concerned, not to exceed 1,000,000 members on active duty at any one time, as the Secretary of Defense and, with respect to the Coast Guard when it is not operating as a service in the Navy, the Secretary of Homeland Security consider necessary. The Secretary of Defense or the Secretary of Homeland Security, as applicable, will ensure appropriate consultation is undertaken with relevant state officials with respect to the utilization of National Guard Reserve Component units activated under this authority.
+
+Sec. 2. General Provisions. (a) Nothing in this order shall be construed to impair or otherwise affect:
+
+(i) the authority granted by law to an executive department or agency, or the head thereof; or
+
+(ii) the functions of the Director of the Office of Management and Budget relating to budgetary, administrative, or legislative proposals.
+
+(b) This order shall be implemented consistent with applicable law and subject to the availability of appropriations.
+
+(c) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+
+Donald J. Trump.
 
 
 <a id="section-12303"></a>
@@ -487,6 +509,25 @@ By the authority vested in me as President by the Constitution and the laws of t
 This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
 
 Barack Obama.
+
+#### Ex. Ord. No. 13919. Ordering the Selected Reserve of the Armed Forces to Active Duty
+Ex. Ord. No. 13919, Apr. 30, 2020, 85 F.R. 26591, provided:
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, including [section 12304 of title 10](./chapter-1209-active-duty.md#section-12304), United States Code, and having determined that it is necessary to augment the regular Armed Forces of the United States for a named operational mission, specifically the “Enhanced Department of Defense Counternarcotic Operation in the Western Hemisphere,” I hereby order as follows:
+
+Section 1. Activation Authority. The Secretary of Defense is directed to order to active duty for not more than 365 consecutive days, any units, and any individual members not assigned to a unit organized to serve as a unit, of the Selected Reserve under the jurisdiction of the Secretary of Defense, not to exceed 200 Selected Reservists at any one time, as he considers necessary.
+
+Sec. 2. General Provisions. (a) Nothing in this order shall be construed to impair or otherwise affect:
+
+(i) the authority granted by law to an executive department or agency, or head thereof; or
+
+(ii) the functions of the Director of the Office of Management and Budget relating to budgetary, administrative, or legislative proposals.
+
+(b) This order shall be implemented consistent with applicable law and subject to the availability of appropriations.
+
+(c) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+
+Donald J. Trump.
 
 
 <a id="section-12304a"></a>
@@ -1033,10 +1074,46 @@ In subsection (a)(2), the words “pay and allowances authorized by law for the 
 
 In subsection (b), the word “extended”, the next to the last sentence of 10 App.: 369b and of 34 App.: 853e–1, and the first proviso of 34 App.:853e–1, are omitted as surplusage.
 
+#### Amendment of Section
+Pub. L. 116–283, div. A, title VI, § 621, Jan. 1, 2021, 134 Stat. 3675, provided that, effective 180 days after Jan. 1, 2021, this section is amended. After such effective date, this section will read as follows:
+
+(a) Except as provided by subsection (c), a Reserve of the Army, Navy, Air Force, Marine Corps, or Coast Guard who because of the Reserve’s earlier military service is entitled to retired or retainer pay, and who performs duty for which the Reserve is entitled to compensation, may elect to receive for that duty either—
+
+(1) the pay and allowances authorized by law for the duty that the Reserve is performing; or
+
+(2) if the Reserve specifically waives those payments, the retired or retainer pay to which the Reserve is entitled because of the Reserve’s earlier military service.
+
+(b) Except as provided by subsection (c), a Reserve of the Army, Navy, Air Force, Marine Corps, or Coast Guard who because of the Reserve’s earlier military service is entitled to a pension or disability compensation, and who performs duty for which the Reserve is entitled to compensation, may elect to receive for that duty either—
+
+(1) the pension or disability compensation to which the Reserve is entitled because of the Reserve’s earlier military service; or
+
+(2) if the Reserve specifically waives those payments, the pay and allowances authorized by law for the duty that the Reserve is performing.
+
+(c) Unless the payments because of a Reserve’s earlier military service are greater than the compensation prescribed by subsection (a)(1) or (b)(2), as applicable,, a Reserve of the Army, Navy, Air Force, Marine Corps, or Coast Guard who because of the Reserve’s earlier military service is entitled to a pension, retired or retainer pay, or disability compensation, and who upon being ordered to active duty for a period of more than 30 days in time of war or national emergency is found physically qualified to perform that duty, ceases to be entitled to the payments because of the Reserve’s earlier military service until the period of active duty ends. While on that active duty, the Reserve is entitled to the compensation prescribed by subsection (a)(1) or (b)(2), as applicable,. Other rights and benefits of the Reserve or the Reserve’s dependents are unaffected by this subsection.
+
+(d) The Secretary of Defense shall prescribe regulations under which a Reserve of the Army, Navy, Air Force, Marine Corps, or Coast Guard may waive the pay and allowances authorized by law for the duty the Reserve is performing under subsection (a)(2) or (b)(2).
+
 #### Amendments
+2021—Subsec. (a). Pub. L. 116–283, § 621(a)(1), substituted in introductory provisions “subsection (c)” for “subsection (b)”, “the Reserve’s earlier military service” for “his earlier military service”, “retired or retainer pay” for “a pension, retired or retainer pay, or disability compensation”, and “the Reserve is entitled” for “he is entitled”.
+
+Subsec. (a)(1), (2). Pub. L. 116–283, § 621(a)(2), added pars. (1) and (2) and struck out former pars. (1) and (2) which read as follows:
+
+“(1) the payments to which he is entitled because of his earlier military service; or
+
+“(2) if he specifically waives those payments, the pay and allowances authorized by law for the duty that he is performing.”
+
+Subsec. (b). Pub. L. 116–283, § 621(b)(2), added subsec. (b). Former subsec. (b) redesignated (c).
+
+Subsec. (c). Pub. L. 116–283, § 621(b)(1), (c), redesignated subsec. (b) as (c) and substituted “(a)(1) or (b)(2), as applicable,” for “(a)(2)” in two places, “a Reserve’s earlier military service are greater” for “his earlier military service are greater”, “the Reserve’s earlier military service” for “his earlier military service” in two places, “the Reserve is entitled” for “he is entitled”, and “the Reserve or the Reserve’s dependents” for “the member or his dependents”.
+
+Subsec. (d). Pub. L. 116–283, § 621(d), added subsec. (d).
+
 1994—Pub. L. 103–337 renumbered [section 684 of this title](./chapter-039-active-duty.md#section-684) as this section.
 
 1975—Subsecs. (a), (b). Pub. L. 93–586 inserted reference to Coast Guard.
+
+#### Effective Date of 2021 Amendment
+Pub. L. 116–283, div. A, title VI, § 621(e), Jan. 1, 2021, 134 Stat. 3676, provided that: “The amendments made by this section [amending this section] shall take effect 180 days after the date of the enactment of this Act [Jan. 1, 2021].”
 
 #### Transfer of Functions
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).

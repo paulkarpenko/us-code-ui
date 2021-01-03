@@ -2,7 +2,7 @@
 title: 42
 chapter: '79'
 heading: 'SCIENCE AND TECHNOLOGY POLICY, ORGANIZATION AND PRIORITIES'
-section_count: 30
+section_count: 31
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42&num=0&edition=prelim
 ---
@@ -59,6 +59,12 @@ Pub. L. 114–329, title VI, § 604(a), Jan. 6, 2017, 130 Stat. 3037, provided t
 Pub. L. 94–282, § 1, May 11, 1976, 90 Stat. 459, provided that: “This Act [enacting this chapter, amending [section 1863 of this title](./chapter-016-national-science-foundation.md#section-1863), repealing sections 1, 2, 3, and 4 of Reorganization Plan Numbered 2 of 1962 (76 Stat. 1253), set out as a note under [section 1861 of this title](./chapter-016-national-science-foundation.md#section-1861), and section 2 of Reorganization Plan Numbered 1 of 1973 (87 Stat. 1089), set out as a note under [section 5195 of this title](./chapter-068-disaster-relief.md#section-5195), and enacting provisions set out as notes under this section and sections 1862 and 6611 of this title] may be cited as the ‘National Science and Technology Policy, Organization, and Priorities Act of 1976’.”
 
 Pub. L. 94–282, title II, § 201, May 11, 1976, 90 Stat. 463, provided that: “This title [enacting subchapter II of this chapter] may be cited as the ‘Presidential Science and Technology Advisory Organization Act of 1976’.”
+
+#### Industries of the Future
+Pub. L. 116–283, div. H, title XCIV, § 9412, Jan. 1, 2021, 134 Stat. 4818, provided that: “(a) Short Title.—This section may be cited as the ‘Industries of the Future Act of 2020’. “(b) Report on Federal Research and Development Focused on Industries of the Future.—“(1) In general.—Not later than 120 days after the date of the enactment of this Act [Jan. 1, 2021], the Director of the Office of Science and Technology Policy shall submit to Congress a report on research and development investments, infrastructure, and workforce development investments of the Federal Government that enable continued United States leadership in industries of the future. “(2) Contents.—The report submitted under paragraph (1) shall include the following:“(A) A definition, for purposes of this section, of the term ‘industries of the future’ that includes emerging technologies. “(B) An assessment of the current baseline of investments in civilian research and development investments of the Federal Government in the industries of the future. “(C) A plan to double such baseline investments in artificial intelligence and quantum information science by fiscal year 2022. “(D) A detailed plan to increase investments described in subparagraph (B) in industries of the future to $10,000,000,000 per year by fiscal year 2025. “(E) A plan to leverage investments described in subparagraphs (B), (C), and (D) in industries of the future to elicit complimentary investments by non-Federal entities, including providing incentives for significant complementary investments by such entities and facilitating public-private partnerships. “(F) Proposals for the Federal Government, including any necessary draft legislation, to implement such plans. “(c) Industries of the Future Coordination Council.—“(1) Establishment.—“(A) In general.—The President shall establish or designate a council to advise the Director of the Office of Science and Technology Policy on matters relevant to the Director and the industries of the future. “(B) Designation.—The council established or designated under subparagraph (A) shall be known as the ‘Industries of the Future Coordination Council’ (in this section the ‘Council’). “(2) Membership.—“(A) Composition.—The Council shall be composed of employees of the Federal Government who shall be appointed as follows:“(i) One member appointed by the Director. “(ii) A chairperson of the Select Committee on Artificial Intelligence of the National Science and Technology Council. “(iii) A chairperson of the Subcommittee on Advanced Manufacturing of the National Science and Technology Council. “(iv) A chairperson of the Subcommittee on Quantum Information Science of the National Science and Technology Council. “(v) Such other members as the President considers appropriate. “(B) Chairperson.—The member appointed to the Council under paragraph (A)(i) shall serve as the chairperson of the Council. “(3) Duties.—The duties of the Council are as follows:“(A) To provide the Director with advice on ways in which in the Federal Government can ensure the United States continues to lead the world in developing emerging technologies that improve the quality of life of the people of the United States, increase economic competitiveness of the United States, and strengthen the national security of the United States, including identification of the following:“(i) Federal investments required in fundamental research and development, infrastructure, technology transfer, and workforce development of the United States workers who will support the industries of the future. “(ii) Actions necessary to create and further develop the workforce that will support the industries of the future. “(iii) Actions required to leverage the strength of the research and development ecosystem of the United States, which includes academia, industry, and nonprofit organizations, to support industries of the future. “(iv) Ways that the Federal Government can consider leveraging existing partnerships and creating new partnerships and other multisector collaborations to advance the industries of the future. “(v) Actions required to accelerate the translation of federally funded research and development to practice and meaningful benefits for society while mitigating any risks. “(B) To provide the Director with advice on matters relevant to the report required under subsection (b). “(4) Coordination.—The Council shall coordinate with and utilize relevant existing National Science and Technology Council committees to the maximum extent feasible in order to minimize duplication of effort. “(5) Applicability of faca.—The Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to the Council established under this subsection. “(6) Sunset.—The Council shall terminate on the date that is 6 years after the date of the enactment of this Act [Jan. 1, 2021].”
+
+#### Securing American Science and Technology
+Pub. L. 116–92, div. A, title XVII, § 1746, Dec. 20, 2019, 133 Stat. 1843, provided that: “(a) Interagency Working Group.—“(1) In general.—The Director of the Office of Science and Technology Policy, acting through the National Science and Technology Council, in consultation with the National Security Advisor, shall establish or designate an interagency working group to coordinate activities to protect federally funded research and development from foreign interference, cyber attacks, theft, or espionage and to develop common definitions and best practices for Federal science agencies and grantees, while accounting for the importance of the open exchange of ideas and international talent required for scientific progress and American leadership in science and technology. “(2) Membership.—“(A) In general.—The working group shall include at least one representative of—“(i) the National Science Foundation; “(ii) the Department of Energy; “(iii) the National Aeronautics and Space Administration; “(iv) the Department of Commerce; “(v) the Department of Health and Human Services; “(vi) the Department of Defense; “(vii) the Department of Agriculture; “(viii) the Department of Education; “(ix) the Department of State; “(x) the Department of the Treasury; “(xi) the Department of Justice; “(xii) the Department of Homeland Security; “(xiii) the Central Intelligence Agency; “(xiv) the Office of the Director of National Intelligence; “(xv) the Office of Management and Budget; “(xvi) the National Economic Council; and “(xvii) such other Federal department or agency as the President considers appropriate. “(B) Chair.—The working group shall be chaired by the Director of the Office of Science and Technology Policy (or the Director’s designee). “(3) Responsibilities of the working group.—The working group established under paragraph (1) shall—“(A) identify known and potential cyber, physical, and human intelligence threats and vulnerabilities within the United States scientific and technological enterprise; “(B) coordinate efforts among agencies to share and update important information, including specific examples of foreign interference, cyber attacks, theft, or espionage directed at federally funded research and development or the integrity of the United States scientific enterprise; “(C) identify and assess existing mechanisms for protection of federally funded research and development; “(D) develop an inventory of—“(i) terms and definitions used across Federal science agencies to delineate areas that may require additional protection; and “(ii) policies and procedures at Federal science agencies regarding protection of federally funded research; and “(E) develop and periodically update unclassified recommendations for policy guidance to assist Federal science agencies and grantees in defending against threats to federally funded research and development and the integrity of the United States scientific enterprise that—“(i) includes— “(I) descriptions of known and potential threats to federally funded research and development and the integrity of the United States scientific enterprise; “(II) common definitions and terminology for categorization of research and technologies that are protected; “(III) identified areas of research or technology that might require additional protection; “(IV) recommendations for how control mechanisms can be utilized to protect federally funded research and development from foreign interference, cyber attacks, theft or espionage, including any recommendations for updates to existing control mechanisms; “(V) recommendations for best practices for Federal science agencies, universities, and grantees to defend against threats to federally funded research and development, including coordination and harmonization of any relevant reporting requirements that Federal science agencies implement for grantees, and by providing such best practices with grantees and universities at the time of awarding such grants or entering into research contracts; “(VI) a remediation plan for grantees and universities to mitigate the risks regarding such threats before research grants or contracts are cancelled because of such threats; “(VII) recommendations for providing opportunities and facilities for academic researchers to perform controlled and classified research in support of Federal missions; “(VIII) assessments of potential consequences that any proposed practices would have on international collaboration and United States leadership in science and technology; and “(IX) a classified addendum as necessary to further inform Federal science agency decisionmaking; and “(ii) accounts for the range of needs across different sectors of the United States science and technology enterprise. “(4) Policy guidance.—Not later than 270 days after the date of the enactment of this Act [Dec. 20, 2019], the Director of the Office of Science and Technology Policy, in consultation with the working group established under paragraph (1), shall—“(A) develop and issue policy guidance to Federal science agencies with more than $100,000,000 in extramural research in fiscal year 2018 to protect against threats to federally funded research and the United States science enterprise, including foreign interference, cyber attacks, theft, or espionage; and “(B) encourage consistency in the policies developed by Federal science agencies with more than $100,000,000 in extramural research in fiscal year 2018, as appropriate, and factoring in the potential range of applications across different areas of science and technology. “(5) Coordination with national academies roundtable.—The Director of the Office of Science and Technology Policy shall coordinate with the Academies to ensure that at least one member of the interagency working group is also a member of the roundtable under subsection (b). “(6) Interim report.—Not later than six months after the date of enactment of this Act, the Director of the Office of Science and Technology Policy shall provide a report to the relevant committees that includes the inventory required under paragraph (3)(D), and an update on progress toward developing the policy guidance required under paragraphs (3)(E) and (4), as well as any additional activities undertaken by the working group in that time. “(7) Biennial reporting.—Two years after the date of enactment of this Act, and at least every two years thereafter, the Director of the Office of Science and Technology Policy shall provide a summary report to the relevant committees on the activities of the working group and the most current version of the policy guidance required under paragraph (4). “(8) Termination.—The working group established or designated under paragraph (1) shall terminate on the date that is ten years after the date on which such working group is established or designated. “(b) National Academies Science, Technology and Security Roundtable.—“(1) In general.—The National Science Foundation, the Department of Energy, and the Department of Defense, and any other agencies as determined by the Director of the Office of Science and Technology Policy, shall enter into a joint agreement with the Academies to create a new ‘National Science, Technology, and Security Roundtable’ (hereinafter in this subsection referred to as the ‘roundtable’). “(2) Participants.—The roundtable shall include senior representatives and practitioners from Federal science, intelligence, and national security agencies, law enforcement, as well as key stakeholders in the United States scientific enterprise including institutions of higher education, Federal research laboratories, industry, and non-profit research organizations. “(3) Purpose.—The purpose of the roundtable is to facilitate among participants—“(A) exploration of critical issues related to protecting United States national and economic security while ensuring the open exchange of ideas and international talent required for scientific progress and American leadership in science and technology; “(B) identification and consideration of security threats and risks involving federally funded research and development, including foreign interference, cyber attacks, theft, or espionage; “(C) identification of effective approaches for communicating the threats and risks identified in subparagraph (b) to the academic and scientific community, including through the sharing of unclassified data and relevant case studies; “(D) sharing of best practices for addressing and mitigating the threats and risks identified in subparagraph (B); and “(E) examination of potential near- and long-term responses by the Government and the academic and scientific community to mitigate and address the risks associated with foreign threats. “(4) Report and briefing.—The joint agreement under paragraph (1) shall specify that—“(A) the roundtable shall periodically organize workshops and issue publicly available reports on the topics described in paragraph (3) and the activities of the roundtable; “(B) not later than March 1, 2020, the Academies shall provide a briefing to the relevant committees on the progress and activities of the roundtable; and “(C) the Academies shall issue a final report on its activities to the relevant committees before the end of fiscal year 2024. “(5) Termination.—The roundtable shall terminate on September 30, 2024. “(c) Definitions.—In this section:“(1) The term ‘Academies’ means the National Academies of Science, Engineering and Medicine. “(2) The term ‘Federal science agency’ means any Federal agency with at least $100,000,000 in basic and applied research obligations in fiscal year 2018. “(3) The term ‘grantee’ means an entity that is—“(A) a recipient or subrecipient of a Federal grant or cooperative agreement; and “(B) an institution of higher education or a non-profit organization. “(4) The term ‘relevant committees’ means—“(A) the Committee on Science, Space, and Technology of the House of Representatives; “(B) the Committee on Commerce, Science, and Transportation of the Senate; “(C) the Committee on Armed Services of the House of Representatives; “(D) the Committee on Armed Services of the Senate; and “(E) the Committee on Homeland Security and Governmental Affairs of the Senate.”
 
 #### Physical Sciences Coordination
 Pub. L. 114–329, title I, § 106, Jan. 6, 2017, 130 Stat. 2985, provided that: “(a) High-energy Physics.—“(1) In general.—The Physical Science Subcommittee of the National Science and Technology Council (referred to in this section as ‘Subcommittee’) shall continue to coordinate Federal efforts related to high-energy physics research to maximize the efficiency and effectiveness of United States investment in high-energy physics. “(2) Purposes.—The purposes of the Subcommittee include—“(A) to advise and assist the Committee on Science and the National Science and Technology Council on United States policies, procedures, and plans in the physical sciences, including high-energy physics; and “(B) to identify emerging opportunities, stimulate international cooperation, and foster the development of the physical sciences in the United States, including—“(i) in high-energy physics research, including related underground science and engineering research; “(ii) in physical infrastructure and facilities; “(iii) in information and analysis; and “(iv) in coordination activities. “(3) Responsibilities.—In regard to coordinating Federal efforts related to high-energy physics research, the Subcommittee shall, taking into account the findings and recommendations of relevant advisory committees—“(A) provide recommendations on planning for construction and stewardship of large facilities participating in high-energy physics; “(B) provide recommendations on research coordination and collaboration among the programs and activities of Federal agencies related to underground science, neutrino research, dark energy, and dark matter research; “(C) establish goals and priorities for high-energy physics, related underground science, and research and development that will strengthen United States competitiveness in high-energy physics; “(D) propose methods for engagement with international, Federal, and State agencies and Federal laboratories not represented on the National Science and Technology Council to identify and reduce regulatory, logistical, and fiscal barriers that inhibit United States leadership in high-energy physics and related underground science; and “(E) develop, and update as necessary, a strategic plan to guide Federal programs and activities in support of high-energy physics research, including—“(i) the efforts taken in support of paragraph (2) since the last strategic plan; “(ii) an evaluation of the current research needs for maintaining United States leadership in high-energy physics; and “(iii) an identification of future priorities in the area of high-energy physics. “(b) Radiation Biology.—“(1) In general.—The Subcommittee shall continue to coordinate Federal efforts related to radiation biology research to maximize the efficiency and effectiveness of United States investment in radiation biology. “(2) Responsibilities for radiation biology.—In regard to coordinating Federal efforts related to radiation biology research, the Subcommittee shall—“(A) advise and assist the National Science and Technology Council on policies and initiatives in radiation biology, including enhancing scientific knowledge of the effects of low dose radiation on biological systems to improve radiation risk management methods; “(B) identify opportunities to stimulate international cooperation and leverage research and knowledge from sources outside of the United States; “(C) ensure coordination between the Department of Energy Office of Science, [National Science] Foundation, National Aeronautics and Space Administration, National Institutes of Health, Environmental Protection Agency, Department of Defense, Nuclear Regulatory Commission, and Department of Homeland Security; “(D) identify ongoing scientific challenges for understanding the long-term effects of ionizing radiation on biological systems; and “(E) formulate overall scientific goals for the future of low-dose radiation research in the United States. “(c) Fusion Energy Sciences.—“(1) In general.—The Subcommittee shall continue to coordinate Federal efforts related to fusion energy research to maximize the efficiency and effectiveness of United States investment in fusion energy sciences. “(2) Responsibilities for fusion energy sciences.—In regard to coordinating Federal efforts related to fusion energy sciences, the Subcommittee shall—“(A) advise and assist the National Science and Technology Council on policies and initiatives in fusion energy sciences, including enhancing scientific knowledge of fusion energy science, plasma physics, and related materials sciences; “(B) identify opportunities to stimulate international cooperation and leverage research and knowledge from sources outside of the United States, including the ITER project; “(C) ensure coordination between the Department of Energy Office of Science, National Nuclear Security Administration, Advanced Research Projects Agency-Energy, National Aeronautics and Space Administration, [National Science] Foundation, and Department of Defense regarding fusion energy sciences and plasma physics; and “(D) formulate overall scientific goals for the future of fusion energy sciences and plasma physics.”
@@ -262,57 +268,15 @@ Ex. Ord. No. 13652, Sept. 30, 2013, 78 F.R. 61817, extended term until Sept. 30,
 
 Ex. Ord. No. 13591, Nov. 23, 2011, 76 F.R. 74623, extended term until Sept. 30, 2013.
 
-#### Ex. Ord. No. 13539. President’s Council of Advisors on Science and Technology
-Ex. Ord. No. 13539, Apr. 21, 2010, 75 F.R. 21973, as amended by Ex. Ord. No. 13596, § 2, Dec. 19, 2011, 76 F.R. 80725, provided:
-
-By the authority vested in me as President by the Constitution and the laws of the United States of America, and in order to establish an advisory council on science, technology, and innovation, it is hereby ordered as follows:
-
-Section 1. Establishment. The President’s Council of Advisors on Science and Technology (PCAST) is hereby established. The PCAST shall be composed of not more than 21 members, one of whom shall be the Assistant to the President for Science and Technology (the “Science Advisor”), and 20 of whom shall include distinguished individuals and representatives from sectors outside of the Federal Government appointed by the President. These nonfederal members shall have diverse perspectives and expertise in science, technology, and innovation. The Science Advisor shall serve as a Co-Chair of the PCAST. The President shall also designate at least one, but not more than two, of the nonfederal members to serve as a Co-Chair of the PCAST with the Science Advisor.
-
-Sec. 2. Functions. (a) The PCAST shall advise the President, directly at its meetings with the President and also through the Science Advisor, on matters involving science, technology, and innovation policy. This advice shall include, but not be limited to, policy that affects science, technology, and innovation, as well as scientific and technical information that is needed to inform public policy relating to the economy, energy, environment, public health, national and homeland security, and other topics. The PCAST shall meet regularly and shall:
-
-(i) respond to requests from the President or the Science Advisor for information, analysis, evaluation, or advice;
-
-(ii) solicit information and ideas from the broad range of stakeholders, including but not limited to the research community, the private sector, universities, national laboratories, State and local governments, foundations, and nonprofit organizations;
-
-(iii) serve as the advisory committee identified in subsections 101(b) and [former] 103(b) of the High[-]Performance Computing Act of 1991 (Public Law 102–194), as amended ([15 U.S.C. 5511(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section5511/b&num=0&edition=prelim) and [former 15 U.S.C.] 5513(b)). In performing the functions of such advisory committee, the PCAST shall be known as the President’s Innovation and Technology Advisory Committee; and
-
-(iv) serve as the advisory panel identified in section 4 of the 21st Century Nanotechnology Research and Development Act ([15 U.S.C. 7503](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section7503&num=0&edition=prelim)) (21st Century Act). In performing the functions of such advisory committee, the PCAST shall be known as the National Nanotechnology Advisory Panel. Nothing in this order shall be construed to require the National Nanotechnology Advisory Panel to comply with any requirement from which it is exempted by section 4(f) of the 21st Century Act.
-
-(b) The PCAST shall provide advice from the nonfederal sector to the National Science and Technology Council (NSTC) in response to requests from the NSTC.
-
-Sec. 3. Administration. (a) The heads of executive departments and agencies shall, to the extent permitted by law, provide the PCAST with information concerning scientific and technological matters when requested by the PCAST Co-Chairs and as required for the purpose of carrying out the PCAST’s functions.
-
-(b) In consultation with the Science Advisor, the PCAST is authorized to create standing subcommittees and ad hoc groups, including, but not limited to, technical advisory groups to assist the PCAST and provide preliminary information directly to the PCAST.
-
-(c) So that the PCAST may provide advice and analysis regarding classified matters, the Science Advisor may request that members of the PCAST, its standing subcommittees, or ad hoc groups who do not hold a current clearance for access to classified information, receive security clearance and access determinations pursuant to Executive Order 12968 of August 2, 1995, as amended, or any successor order.
-
-(d) The Department of Energy shall provide such funding and administrative and technical support as the PCAST may require.
-
-(e) Members of the PCAST shall serve without any compensation for their work on the PCAST, but may receive travel expenses, including per diem in lieu of subsistence, as authorized by law for persons serving intermittently in the government service ([5 U.S.C. 5701–570](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5701–570&num=0&edition=prelim)7).
-
-Sec. 4. Termination. The PCAST shall terminate 2 years from the date of this order unless extended by the President.
-
-Sec. 5. General Provisions. (a) Insofar as the Federal Advisory Committee Act, as amended (5 U.S.C. App.) (FACA), may apply to the PCAST, any functions of the President under the FACA, except that of reporting to the Congress, shall be performed by the Secretary of Energy in accordance with the guidelines and procedures established by the Administrator of General Services.
-
-(b) Nothing in this order shall be construed to impair or otherwise affect:
-
-(i) authority granted by law to a department or agency, or the head thereof; or
-
-(ii) functions of the Director of the Office of Management and Budget relating to budgetary, administrative, or legislative proposals.
-
-(c) This order shall be implemented consistent with applicable law and subject to the availability of appropriations.
-
-(d) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
-
-Sec. 6. Revocation. Executive Order 13226 of September 30, 2001, as amended, is hereby revoked.
-
-Barack Obama.
+#### Executive Order No. 13539
+Ex. Ord. No. 13539, Apr. 21, 2010, 75 F.R. 21973, as amended by Ex. Ord. No. 13596, § 2, Dec. 19, 2011, 76 F.R. 80725, which established the President’s Council of Advisors on Science and Technology, was revoked by Ex. Ord. No. 13895, § 7, Oct. 22, 2019, 84 F.R. 57311, set out below.
 
 #### Extension of Term of President’s Council of Advisors on Science and Technology
-Term of President’s Council of Advisors on Science and Technology extended until Sept. 30, 2019, by Ex. Ord. No. 13811, Sept. 29, 2017, 82 F.R. 46363, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
+Term of President’s Council of Advisors on Science and Technology extended until Sept. 30, 2021, by Ex. Ord. No. 13889, Sept. 27, 2019, 84 F.R. 52743, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
 
 Previous extensions of term of President’s Council of Advisors on Science and Technology were contained in the following prior Executive Orders:
+
+Ex. Ord. No. 13811, Sept. 29, 2017, 82 F.R. 46363, extended term until Sept. 30, 2019.
 
 Ex. Ord. No. 13708, Sept. 30, 2015, 80 F.R. 60271, extended term until Sept. 30, 2017.
 
@@ -470,6 +434,59 @@ Sec. 10. General Provisions.
 (b) This order shall be implemented consistent with applicable law and subject to the availability of appropriations.
 
 (c) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+
+Donald J. Trump.
+
+#### Ex. Ord. No. 13895. President’s Council of Advisors on Science and Technology
+Ex. Ord. No. 13895, Oct. 22, 2019, 84 F.R. 57309, provided:
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, and in order to establish an advisory council on science and technology, it is hereby ordered as follows:
+
+Section 1. Purpose. In every age of our Nation’s history, American ingenuity has driven technological progress and the promise of the American Dream. Scientific advancement has improved the lives of our citizens, created jobs and better futures for American workers, and kept the American people safe at home and abroad. American thinkers, inventors, and entrepreneurs, empowered by free-market capitalism and driven by bold ideas, have created an ecosystem of innovation that is the envy of the world, making our Nation prosperous and strong.
+
+Since World War II, our Nation’s greatest scientists and engineers have advised the Federal Government, guiding the United States through the nuclear age, the mission to the moon, and the transformations of the digital revolution. Emerging technologies like artificial intelligence and quantum information science are now on the horizon, and how we address their development will determine whether they give rise to new American industries or challenge American values. With American leadership facing fierce global competition, today more than ever our Nation is in need of new approaches for unleashing the creativity of our research enterprise and empowering private sector innovation to ensure American technological dominance.
+
+Through collaborative partnerships across the American science and technology enterprise, which includes an unmatched constellation of public and private educational institutions, research laboratories, corporations, and foundations, the United States can usher extraordinary new technologies into homes, hospitals, and highways across the world. These technologies would have American values at their core. By strengthening the ties that connect government, industry, and academia, my Administration will champion a new era of American research and innovation, which will give rise to new discoveries that create the industries of the future.
+
+Sec. 2. Establishment. The President’s Council of Advisors on Science and Technology (PCAST) is hereby established. The PCAST shall be composed of the Director of the Office of Science and Technology Policy (the “Director”), and not more than 16 additional members appointed by the President. These additional members shall include distinguished individuals from sectors outside of the Federal Government. They shall have diverse perspectives and expertise in science, technology, education, and innovation. The Director shall serve as the Chair of the PCAST.
+
+Sec. 3. Functions. (a) The PCAST shall advise the President on matters involving science, technology, education, and innovation policy. The Council shall also provide the President with scientific and technical information that is needed to inform public policy relating to the American economy, the American worker, national and homeland security, and other topics. The PCAST shall meet regularly and shall:
+
+(i) respond to requests from the President or the Director for information, analysis, evaluation, or advice;
+
+(ii) solicit information and ideas from a broad range of stakeholders on contemporary topics of critical importance to the Nation in order to inform policy making. Stakeholders include the research community, the private sector, universities, national laboratories, State and local governments, and non-profit organizations;
+
+(iii) serve as the advisory committee identified in subsection 101(b) of the High-Performance Computing Act of 1991 (Public Law 102–194), as amended ([15 U.S.C. 5511(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section5511/b&num=0&edition=prelim)). In performing the functions of such advisory committee, the PCAST shall be known as the President’s Innovation and Technology Advisory Committee; and
+
+(iv) serve as the advisory panel identified in section 4 of the 21st Century Nanotechnology Research and Development Act (Public Law 108–153), as amended ([15 U.S.C. 7503](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section7503&num=0&edition=prelim)). In performing the functions of such advisory committee, the PCAST shall be known as the National Nanotechnology Advisory Panel.
+
+(b) The PCAST shall provide advice to the National Science and Technology Council in response to requests from that Council.
+
+Sec. 4. Administration. (a) The heads of executive departments and agencies shall, to the extent permitted by law, provide the PCAST with information concerning scientific and technological matters when requested by the PCAST Chair.
+
+(b) In consultation with the Director, the PCAST may create standing subcommittees and ad hoc groups, including technical advisory groups to assist the PCAST and provide preliminary information to the PCAST.
+
+(c) The Director may request that members of the PCAST, its standing subcommittees, or ad hoc groups who do not hold a current clearance for access to classified information, receive security clearance and access determinations pursuant to Executive Order 12968 of August 2, 1995 (Access to Classified Information) [[50 U.S.C. 3161](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3161&num=0&edition=prelim) note], as amended, or any successor order.
+
+(d) The Department of Energy shall provide such funding and administrative and technical support as the PCAST may require.
+
+(e) Members of the PCAST shall serve without any compensation for their work on the PCAST, but may receive travel expenses, including per diem in lieu of subsistence, as authorized by law for persons serving intermittently in the government service ([5 U.S.C. 5701–570](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5701–570&num=0&edition=prelim)7).
+
+Sec. 5. Termination. The PCAST shall terminate 2 years from the date of this order [Oct. 22, 2019] unless extended by the President.
+
+Sec. 6. General Provisions. (a) Insofar as the Federal Advisory Committee Act, as amended (5 U.S.C. App.) (FACA), may apply to the PCAST, any functions of the President under the FACA, except that of reporting to the Congress, shall be performed by the Secretary of Energy in accordance with the guidelines and procedures established by the Administrator of General Services.
+
+(b) Nothing in this order shall be construed to impair or otherwise affect:
+
+(i) the authority granted by law to an executive department or agency, or the head thereof; or
+
+(ii) the functions of the Director of the Office of Management and Budget relating to budgetary, administrative, or legislative proposals.
+
+(c) This order shall be implemented consistent with applicable law and subject to the availability of appropriations.
+
+(d) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+
+Sec. 7. Revocation. Executive Order 13539 of April 21, 2010 (President’s Council of Advisors on Science and Technology) [formerly set out above], as amended, is hereby revoked.
 
 Donald J. Trump.
 
@@ -734,6 +751,90 @@ Section was enacted as the Research and Development Efficiency Act and also as p
 
 #### Definitions
 For definitions of terms used in this section, see section 2 of Pub. L. 114–329, set out as a note under [section 1862s of this title](./chapter-016-national-science-foundation.md#section-1862s).
+
+
+<a id="section-6605"></a>
+## § 6605. Disclosure of funding sources in applications for Federal research and development awards
+**(a) Disclosure requirement** Each Federal research agency shall require, as part of any application for a research and development award from such agency—
+
+(1) that each covered individual listed on the application—
+
+  (A) disclose the amount, type, and source of all current and pending research support received by, or expected to be received by, the individual as of the time of the disclosure;
+
+  (B) certify that the disclosure is current, accurate, and complete; and
+
+  (C) agree to update such disclosure at the request of the agency prior to the award of support and at any subsequent time the agency determines appropriate during the term of the award; and
+
+(2) that any entity applying for such award certify that each covered individual who is employed by the entity and listed on the application has been made aware of the requirements under paragraph (1).
+
+**(b) Consistency** The Director of the Office of Science and Technology Policy, acting through the National Science and Technology Council and in accordance with the authority provided under section 1746(a) of the National Defense Authorization Act for Fiscal Year 2020 (Public Law 116–92; [42 U.S.C. 6601](./chapter-079-science-and-technology-policy-organization-and-priorities.md#section-6601) note) shall ensure that the requirements issued by Federal research agencies under subsection (a) are consistent.
+
+**(c) Enforcement**
+
+(1) **Rejection for violation of law or agency terms** — A Federal research agency may reject an application for a research and development award if the current and pending research support disclosed by an individual under subsection (a) violates Federal law or agency terms and conditions.
+
+(2) **Enforcement for noncompliance** — Subject to paragraph (3), in the event that a covered individual listed on an entity’s application for a research and development award knowingly fails to disclose information under subsection (a), a Federal research agency may take one or more of the following actions:
+
+  (A) Reject the application.
+
+  (B) Suspend or terminate a research and development award made by that agency to the individual or entity.
+
+  (C) Temporarily or permanently discontinue any or all funding from that agency for the individual or entity.
+
+  (D) Temporarily or permanently suspend or debar the individual or entity in accordance with part 180 of title 2, Code of Federal Regulations, any successor regulation, or any other appropriate law or regulation, from receiving government funding.
+
+  (E) Refer the failure to disclose under subsection (a) to the Inspector General of the agency concerned for further investigation or to Federal law enforcement authorities to determine whether any criminal or civil laws were violated.
+
+  (F) Place the individual or entity in the Federal Awardee Performance and Integrity Information System for noncompliance to alert other agencies.
+
+  (G) Take such other actions against the individual or entity as are authorized under applicable law or regulations.
+
+(3) **Special rule for enforcement against entities** — An enforcement action described in paragraph (2) may be taken against an entity only in a case in which—
+
+  (A) the entity did not meet the requirements of subsection (a)(2);
+
+  (B) the entity knew that a covered individual failed to disclose information under subsection (a)(1) and the entity did not take steps to remedy such nondisclosure before the application was submitted; or
+
+  (C) the head of the Federal research agency concerned determines that—
+
+    (i) the entity is owned, controlled, or substantially influenced by a covered individual; and
+
+    (ii) such individual knowingly failed to disclose information under subsection (a)(1).
+
+(4) **Notice** — A Federal research agency that intends to take action under paragraph (1) or (2) shall, as practicable and in accordance with part 180 of title 2, Code of Federal Regulations, any successor regulation, or any other appropriate law or regulation, notify each individual or entity subject to such action about the specific reason for the action, and shall provide such individuals and entities with the opportunity to, and a process by which, to contest the proposed action.
+
+(5) **Evidentiary standards** — A Federal research agency seeking suspension or debarment under paragraph (2)(D) shall abide by the procedures and evidentiary standards set forth in part 180 of title 2, Code of Federal Regulations, any successor regulation, or any other appropriate law or regulation.
+
+**(d) Definitions** In this section:
+
+(1) The term “covered individual” means an individual who—
+
+  (A) contributes in a substantive, meaningful way to the scientific development or execution of a research and development project proposed to be carried out with a research and development award from a Federal research agency; and
+
+  (B) is designated as a covered individual by the Federal research agency concerned.
+
+(2) The term “current and pending research support”—
+
+  (A) means all resources made available, or expected to be made available, to an individual in support of the individual’s research and development efforts, regardless of—
+
+    (i) whether the source of the resource is foreign or domestic;
+
+    (ii) whether the resource is made available through the entity applying for a research and development award or directly to the individual; or
+
+    (iii) whether the resource has monetary value; and
+
+  (B) includes in-kind contributions requiring a commitment of time and directly supporting the individual’s research and development efforts, such as the provision of office or laboratory space, equipment, supplies, employees, or students.
+
+(3) The term “entity” means an entity that has applied for or received a research and development award from a Federal research agency.
+
+(4) The term “Federal research agency” means any Federal agency with an annual extramural research expenditure of over $100,000,000.
+
+(5) The term “research and development award” means support provided to an individual or entity by a Federal research agency to carry out research and development activities, which may include support in the form of a grant, contract, cooperative agreement, or other such transaction. The term does not include a grant, contract, agreement or other transaction for the procurement of goods or services to meet the administrative needs of a Federal research agency.
+
+### Statutory Notes
+
+#### Codification
+Section was enacted as part of the William M. (Mac) Thornberry National Defense Authorization Act for Fiscal Year 2021, and not as part of the National Science and Technology Policy, Organization, and Priorities Act of 1976 which comprises this chapter.
 
 
 <a id="section-6611"></a>

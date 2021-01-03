@@ -68,6 +68,9 @@ Subsec. (b)(2) to (16). Pub. L. 102–372, § 5(2), (3), added pars. (2) to (5) 
 #### Effective Date of 1981 Amendment
 Pub. L. 97–63, § 6, Oct. 16, 1981, 95 Stat. 1018, provided that: “The amendments made by this Act [see Short Title of 1981 Amendment note below] shall take effect October 1, 1981.”
 
+#### Short Title of 2019 Amendment
+Pub. L. 116–94, div. I, title VIII, § 801, Dec. 20, 2019, 133 Stat. 3028, provided that: “This title [amending [section 2131 of this title](./chapter-031-international-travel.md#section-2131) and [section 1187 of Title 8](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1187&num=0&edition=prelim), Aliens and Nationality] may be cited as the ‘Brand USA Extension Act’.”
+
 #### Short Title of 2014 Amendment
 Pub. L. 113–235, div. B, title VI, § 601, Dec. 16, 2014, 128 Stat. 2218, provided that: “This title [amending sections 2123, 2123a, and 2131 of this title and [section 1187 of Title 8](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1187&num=0&edition=prelim), Aliens and Nationality] may be cited as the ‘Travel Promotion, Enhancement, and Modernization Act of 2014’.”
 
@@ -504,19 +507,19 @@ Section 2129, Pub. L. 87–63, title III, § 307, as added Pub. L. 101–508, ti
 
     (i) 1 shall have appropriate expertise and experience in the hotel accommodations sector;
 
-    (ii) 1 shall have appropriate expertise and experience in the restaurant sector;
+    (ii) 1 shall have appropriate expertise and experience in the restaurant or foodservice sector;
 
     (iii) 1 shall have appropriate expertise and experience in the small business or retail sector or in associations representing that sector;
 
     (iv) 1 shall have appropriate expertise and experience in the travel distribution services sector;
 
-    (v) 1 shall have appropriate expertise and experience in the attractions or recreations sector;
+    (v) 1 shall have appropriate expertise and experience in the attractions or recreations sector, such as outdoor recreation;
 
     (vi) 1 shall have appropriate expertise and experience as officials of a city convention and visitors’ bureau;
 
     (vii) 2 shall have appropriate expertise and experience as officials of a State tourism office;
 
-    (viii) 1 shall have appropriate expertise and experience in the passenger air sector;
+    (viii) 1 shall have appropriate expertise and experience in the commercial or private passenger air sector;
 
     (ix) 1 shall have appropriate expertise and experience in immigration law and policy, including visa requirements and United States entry procedures; and
 
@@ -566,11 +569,13 @@ Section 2129, Pub. L. 87–63, title III, § 307, as added Pub. L. 101–508, ti
 
     (ii) to identify, counter, and correct misperceptions regarding United States entry policies around the world;
 
-    (iii) to maximize the economic and diplomatic benefits of travel to the United States by promoting the United States of America to world travelers through the use of, but not limited to, all forms of advertising, outreach to trade shows, and other appropriate promotional activities;
+    (iii) to maximize the economic and diplomatic benefits of travel to the United States by promoting the United States of America to world travelers through the use of, but not limited to, all forms of advertising, outreach to trade shows, speaking conventions, sales missions, and other appropriate promotional activities;
 
-    (iv) to ensure that international travel benefits all States and territories of the United States and the District of Columbia, and to identify opportunities and strategies to promote tourism to rural and urban areas equally, including areas not traditionally visited by international travelers; and
+    (iv) to ensure that international travel benefits all States and territories of the United States and the District of Columbia, and to identify opportunities and strategies to promote tourism to rural and urban areas equally, including areas not traditionally visited by international travelers;
 
-    (v) to give priority to the Corporation’s efforts with respect to countries and populations most likely to travel to the United States.
+    (v) to give priority to the Corporation’s efforts with respect to countries and populations most likely to travel to the United States; and
+
+    (vi) to promote tourism to the United States through digital media, online platforms, and other appropriate medium.22 So in original. Probably should be “media.”
 
   (B) *Specific powers* — In order to carry out the purposes of this subsection, the Corporation may—
 
@@ -590,7 +595,7 @@ Section 2129, Pub. L. 87–63, title III, § 307, as added Pub. L. 101–508, ti
 
   (B) at least 6 members of the board are present at the meeting at which it is approved; and
 
-  (C) each member of the board has been given at least 3 days advance notice of the meeting at which the vote is to be taken and the matters to be voted upon at that meeting.
+  (C) each member of the board has been given at least 5 days advance notice of the meeting at which the vote is to be taken and the matters to be voted upon at that meeting.
 
 (8) **Fiscal accountability**
 
@@ -606,7 +611,7 @@ Section 2129, Pub. L. 87–63, title III, § 307, as added Pub. L. 101–508, ti
 
 (1) **Objectives** — The Board shall establish annual objectives for the Corporation for each fiscal year subject to approval by the Secretary of Commerce (after consultation with the Secretary of Homeland Security and the Secretary of State). The Corporation shall establish a marketing plan for each fiscal year not less than 60 days before the beginning of that year and provide a copy of the plan, and any revisions thereof, to the Secretary.
 
-(2) **Budget** — The board shall transmit a copy of the Corporation’s budget for the forthcoming fiscal year to the Secretary not less than 60 days before the beginning of each fiscal year, together with an explanation of any expenditure provided for by the budget in excess of $500,000 for the fiscal year. The Corporation shall make a copy of the budget and the explanation available to the public and shall provide public access to the budget and explanation on the Corporation’s website.
+(2) **Budget** — The board shall transmit a copy of the Corporation’s budget for the forthcoming fiscal year to the Secretary not less than 60 days before the beginning of each fiscal year, together with an explanation of any expenditure provided for by the budget in excess of $450,000 for the fiscal year. The Corporation shall make a copy of the budget and the explanation available to the public and shall provide public access to the budget and explanation on the Corporation’s website.
 
 (3) **Annual report to Congress** — The Corporation shall submit an annual report for the preceding fiscal year to the Secretary of Commerce for transmittal to the Congress on or before the 15th day of May of each year. The report shall include—
 
@@ -630,9 +635,13 @@ Section 2129, Pub. L. 87–63, title III, § 307, as added Pub. L. 101–508, ti
 
     (ii) the ratio in which such channels are used; and
 
-    (iii) a justification for the use and ratio of such channels; and
+    (iii) a justification for the use and ratio of such channels;
 
-  (I) such recommendations as the Corporation deems appropriate.
+  (I) a list of countries the Corporation identifies as emerging markets for tourism to the United States;
+
+  (J) a description of the efforts the Corporation has made to promote tourism to rural areas of the United States; and
+
+  (K) such recommendations as the Corporation deems appropriate.
 
 (4) **Limitation on use of funds** — Amounts deposited in the Fund may not be used for any purpose inconsistent with carrying out the objectives, budget, and report described in this subsection.
 
@@ -644,7 +653,7 @@ Section 2129, Pub. L. 87–63, title III, § 307, as added Pub. L. 101–508, ti
 
   (A) *Start-up expenses* — The Secretary of the Treasury shall make available to the Corporation such sums as may be necessary, but not to exceed $10,000,000, from amounts deposited in the general fund of the Treasury from fees under [section 1187(h)(3)(B)(i)(I) of title 8](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1187/h/3/B/i/I&num=0&edition=prelim) to cover the Corporation’s initial expenses and activities under this section. Transfers shall be made at least monthly, immediately following the collection of fees under [section 1187(h)(3)(B)(i)(I) of title 8](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1187/h/3/B/i/I&num=0&edition=prelim), on the basis of estimates by the Secretary, and proper adjustments shall be made in amounts subsequently transferred to the extent prior estimates were in excess or less than the amounts required to be transferred.
 
-  (B) *Subsequent years* — For each of fiscal years 2012 through 2020, from amounts deposited in the general fund of the Treasury during the preceding fiscal year from fees under [section 1187(h)(3)(B)(i)(I) of title 8](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1187/h/3/B/i/I&num=0&edition=prelim), the Secretary of the Treasury shall transfer not more than $100,000,000 to the Fund, which shall be made available to the Corporation, subject to paragraph (3) of this subsection, to carry out its functions under this section. Transfers shall be made at least quarterly on the basis of estimates by the Secretary, and proper adjustments shall be made in amounts subsequently transferred to the extent prior estimates were in excess or less than the amounts required to be transferred.
+  (B) *Subsequent years* — For each of fiscal years 2012 through 2027, from amounts deposited in the general fund of the Treasury during the preceding fiscal year from fees under [section 1187(h)(3)(B)(i)(I) of title 8](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1187/h/3/B/i/I&num=0&edition=prelim), the Secretary of the Treasury shall transfer not more than $100,000,000 to the Fund, which shall be made available to the Corporation, subject to paragraph (3) of this subsection, to carry out its functions under this section. Transfers shall be made at least quarterly on the basis of estimates by the Secretary, and proper adjustments shall be made in amounts subsequently transferred to the extent prior estimates were in excess or less than the amounts required to be transferred.
 
 (3) **Matching requirement**
 
@@ -658,7 +667,7 @@ Section 2129, Pub. L. 87–63, title III, § 307, as added Pub. L. 101–508, ti
 
     (i) the fair market value of goods and services (including advertising) contributed to the Corporation for use under this section may be included in the determination; but
 
-    (ii) the fair market value of such goods and services may not account for more than 70 percent of the matching requirement under subparagraph (A) for the Corporation in any fiscal year.
+    (ii) the fair market value of such goods and services may not account for more than 50 percent of the matching requirement under subparagraph (A) for the Corporation in any fiscal year.
 
   (C) *Right of refusal* — The Corporation may decline to accept any contribution in-kind that it determines to be inappropriate, not useful, or commercially worthless.
 
@@ -678,7 +687,7 @@ Section 2129, Pub. L. 87–63, title III, § 307, as added Pub. L. 101–508, ti
 
   (A) *Federal funds* — Amounts transferred to the Fund under paragraph (2)(B) shall remain available until expended.
 
-  (B) *Matching funds* — Any amount received by the Corporation from non-Federal sources in each of the fiscal years 2011 through 2020 that cannot be used to meet the matching requirement under paragraph (3)(A) for the fiscal year in which amount was collected may be carried forward and treated as having been received in the succeeding fiscal year for purposes of meeting the matching requirement of paragraph (3)(A) in such succeeding fiscal year.
+  (B) *Matching funds* — Any amount received by the Corporation from non-Federal sources in each of the fiscal years 2011 through 2027 that cannot be used to meet the matching requirement under paragraph (3)(A) for the fiscal year in which amount was collected may be carried forward and treated as having been received in the succeeding fiscal year for purposes of meeting the matching requirement of paragraph (3)(A) in such succeeding fiscal year.
 
 **(e) Repealed. Pub. L. 113–235, div. B, title VI, § 607, Dec. 16, 2014, 128 Stat. 2220**
 
@@ -717,6 +726,28 @@ Section is comprised of section 9 of Pub. L. 111–145. Subsec. (h) of section 9
 Section was enacted as part of the United States Capitol Police Administrative Technical Corrections Act of 2009, and not as part of the International Travel Act of 1961 which comprises this chapter.
 
 #### Amendments
+2019—Subsec. (b)(2)(A)(ii). Pub. L. 116–94, § 802(1)(A), inserted “or foodservice” after “restaurant”.
+
+Subsec. (b)(2)(A)(v). Pub. L. 116–94, § 802(1)(B), inserted “, such as outdoor recreation” before semicolon at end.
+
+Subsec. (b)(2)(A)(viii). Pub. L. 116–94, § 802(1)(C), inserted “commercial or private” before “passenger air sector”.
+
+Subsec. (b)(5)(A)(iii). Pub. L. 116–94, § 802(2)(A), inserted “speaking conventions, sales missions,” after “trade shows,”.
+
+Subsec. (b)(5)(A)(vi). Pub. L. 116–94, § 802(2)(B)–(D), added cl. (vi).
+
+Subsec. (b)(7)(C). Pub. L. 116–94, § 802(3), substituted “5 days” for “3 days”.
+
+Subsec. (c)(2). Pub. L. 116–94, § 803(1), substituted “$450,000” for “$500,000”.
+
+Subsec. (c)(3)(I) to (K). Pub. L. 116–94, § 803(2), added subpars. (I) and (J) and redesignated former subpar. (I) as (K).
+
+Subsec. (d)(2)(B). Pub. L. 116–94, § 804(1), substituted “2027” for “2020”.
+
+Subsec. (d)(3)(B)(ii). Pub. L. 116–94, § 804(2), substituted “50 percent” for “70 percent”.
+
+Subsec. (d)(4)(B). Pub. L. 116–94, § 804(3), substituted “2027” for “2020”.
+
 2014—Subsec. (b)(2)(A). Pub. L. 113–235, § 602(1), in introductory provisions, substituted “promotion or marketing” for “promotion and marketing” and inserted “At least 5 members of the board shall have experience working in United States multinational entities with marketing budgets. At least 2 members of the board shall be audit committee financial experts (as defined by the Securities and Exchange Commission in accordance with [section 7265 of title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section7265&num=0&edition=prelim)). All members of the board shall be a current or former chief executive officer, chief financial officer, or chief marketing officer, or have held an equivalent management position.” after “United States citizens.”
 
 Subsec. (b)(2)(A)(x). Pub. L. 113–235, § 602(2), substituted “land or sea passenger transportation sector” for “intercity passenger railroad business”.

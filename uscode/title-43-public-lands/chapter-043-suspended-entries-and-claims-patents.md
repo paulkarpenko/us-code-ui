@@ -86,12 +86,13 @@ This act, referred to in text, means act Mar. 3, 1891, ch. 561, 26 Stat. 1095, w
 #### Codification
 Section was formerly classified to [section 1165 of this title](./chapter-028-miscellaneous-provisions-relating-to-public-lands.md#section-1165) prior to editorial reclassification and renumbering as this section, and to [section 165 of this title](./chapter-007-homesteads.md#section-165) prior to transfer to [section 1165 of this title](./chapter-028-miscellaneous-provisions-relating-to-public-lands.md#section-1165).
 
+#### Abolition of Office of Surveyor General and Transfer of Functions
+Act Mar. 3, 1925, abolished office of surveyor general and transferred administration of all activities in charge of surveyors general to Field Surveying Service under jurisdiction of United States Supervisor of Surveys.
+
 #### Transfer of Functions
 For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out under [section 1451 of this title](./chapter-031-department-of-the-interior.md#section-1451).
 
 “Secretary of the Interior, or such officer as he may designate” and “receipt of such officer as the Secretary of the Interior may designate” substituted for “Commissioner of the General Land Office” and “register’s receipt”, respectively, on authority of section 403 of Reorg. Plan No. 3 of 1946. See note set out under [section 1 of this title](./chapter-001-bureau-of-land-management.md#section-1).
-
-Act Mar. 3, 1925, abolished office of surveyor general and transferred administration of all activities in charge of surveyors general to Field Surveying Service under jurisdiction of United States Supervisor of Surveys.
 
 
 <a id="section-2506"></a>

@@ -52,7 +52,7 @@ The words “at his discretion and”, “belonging to the Government, and which
 <a id="section-9654"></a>
 ## § 9654. Supplies: military instruction camps
 
-Under such conditions as he may prescribe, the Secretary of the Air Force may issue, to any educational institution at which an Air Force officer is detailed as professor of air science and tactics, such supplies as are necessary to establish and maintain a camp for the military instruction of its students. The Secretary shall require a bond in the value of the property issued under this section, for the care and safekeeping of that property and, except for property properly expended, for its return when required.
+Under such conditions as he may prescribe, the Secretary of the Air Force may issue, to any educational institution at which an Air Force or Space Force officer is detailed as professor of science and tactics, such supplies as are necessary to establish and maintain a camp for the military instruction of its students. The Secretary shall require a bond in the value of the property issued under this section, for the care and safekeeping of that property and, except for property properly expended, for its return when required.
 
 ### Statutory Notes
 
@@ -62,6 +62,9 @@ Under such conditions as he may prescribe, the Secretary of the Air Force may is
 | 9654 | 10:1182. | May 18, 1916, ch. 124, 39 Stat. 123. |
 
 The words “at his discretion and” and “belonging to the Government, and which can be spared for that purpose, as may appear to be” are omitted as surplusage. The words “except for property properly expended” are inserted for clarity. The word “stores” is omitted as covered by the word “supplies”.
+
+#### Amendments
+2021—Pub. L. 116–283 inserted “or Space Force” after “an Air Force” and substituted “science and tactics” for “air science and tactics”.
 
 
 <a id="section-9655"></a>

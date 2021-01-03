@@ -232,7 +232,7 @@ Pub. L. 105–178, title VII, § 7203(b)(2), June 9, 1998, 112 Stat. 477, provid
 
 (2) **Operating expenses not eligible** — Direct loans and loan guarantees under this section shall not be used for railroad operating expenses.
 
-(3) **Sunset** — The Secretary may provide a direct loan or loan guarantee under this section for a project described in paragraph (1)(E) only during the 4-year period beginning on December 4, 2015.
+(3) **Sunset** — The Secretary may provide a direct loan or loan guarantee under this section for a project described in paragraph (1)(E) until September 30, 2021.
 
 **(c) Priority projects** In granting applications for direct loans or guaranteed loans under this section, the Secretary shall give priority to projects that—
 
@@ -429,6 +429,10 @@ Section 410(a) of the Amtrak Reform and Accountability Act of 1997, referred to 
 A prior section 822, Pub. L. 94–210, title V, § 502, Feb. 5, 1976, 90 Stat. 67; Pub. L. 95–620, title VIII, § 803(c)(2)–(4), Nov. 9, 1978, 92 Stat. 3347, related to the Rail Fund, prior to repeal by Pub. L. 105–178, title VII, § 7203(a)(1), June 9, 1998, 112 Stat. 471.
 
 #### Amendments
+2020—Subsec. (b)(3). Pub. L. 116–159 substituted “September 30, 2021” for “September 30, 2020”.
+
+2019—Subsec. (b)(3). Pub. L. 116–94 substituted “until September 30, 2020” for “only during the 4-year period beginning on December 4, 2015”.
+
 2015—Subsec. (a)(5). Pub. L. 114–94, § 11603(1), substituted “1 of the entities described in paragraph (1), (2), (3), (4), or (6)” for “one railroad”.
 
 Subsec. (a)(6). Pub. L. 114–94, § 11603(2), amended par. (6) generally. Prior to amendent, par (6) read as follows: “solely for the purpose of constructing a rail connection between a plant or facility and a second rail carrier, limited option rail freight shippers that own or operate a plant or other facility that is served by no more than a single railroad.”

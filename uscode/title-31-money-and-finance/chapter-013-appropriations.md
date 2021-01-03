@@ -142,7 +142,7 @@ Expenditures for a particular object or purpose authorized by a law (and referre
 
   (C) under a decision of a board of contract appeals; or
 
-  (D) in excess of an amount payable from the appropriations of an agency for a meritorious claim under section 2733 or 2734 of title 10, [section 715 of title 32](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title32-section715&num=0&edition=prelim), or [section 20113 of title 51](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title51-section20113&num=0&edition=prelim).
+  (D) in excess of an amount payable from the appropriations of an agency for a meritorious claim under section 2733, 2733a, or 2734 of title 10, [section 715 of title 32](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title32-section715&num=0&edition=prelim), or [section 20113 of title 51](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title51-section20113&num=0&edition=prelim).
 
 **(b)**
 
@@ -206,7 +206,9 @@ In subsection (b)(1)(A), the words “through the day before the date” are sub
 The date of enactment of the John D. Dingell, Jr. Conservation, Management, and Recreation Act, referred to in subsec. (d), is the date of enactment of Pub. L. 116–9, which was approved Mar. 12, 2019.
 
 #### Amendments
-2019—Subsec. (d). Pub. L. 116–9 added subsec. (d).
+2019—Subsec. (a)(3)(D). Pub. L. 116–92, which directed substitution of “2733, 2733a,” for “2733,”, was executed by making the substitution for “2733” to reflect the probable intent of Congress.
+
+Subsec. (d). Pub. L. 116–9 added subsec. (d).
 
 2010—Subsec. (a)(3)(D). Pub. L. 111–314 substituted “[section 20113 of title 51](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title51-section20113&num=0&edition=prelim)” for “section 203 of the National Aeronautics and Space Act of 1958 ([42 U.S.C. 2473](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2473&num=0&edition=prelim))”.
 
@@ -217,6 +219,9 @@ The date of enactment of the John D. Dingell, Jr. Conservation, Management, and 
 1982—Subsec. (b)(1)(A). Pub. L. 97–258, § 2(m)(2)(A), struck out “under [section 2411(b) of title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section2411/b&num=0&edition=prelim)” after “district court”.
 
 Subsec. (b)(1)(B). Pub. L. 97–258, § 2(m)(2)(B), substituted “Court of Appeals for the Federal Circuit or the United States Claims Court” for “Court of Claims”.
+
+#### Effective Date of 2019 Amendment
+Amendment by Pub. L. 116–92 applicable to any claim filed under [section 2733a of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2733a&num=0&edition=prelim), Armed Forces, on or after Jan. 1, 2020, and any claim filed in calendar year 2020 deemed to be filed within the time period specified in [section 2733a(b)(4) of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2733a/b/4&num=0&edition=prelim) if filed within three years after it accrues, see section 731(d) of Pub. L. 116–92, set out as an Effective Date note under [section 2733a of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2733a&num=0&edition=prelim).
 
 #### Effective Date of 1992 Amendment
 Amendment by Pub. L. 102–572 effective Oct. 29, 1992, see section 911 of Pub. L. 102–572, set out as a note under [section 171 of Title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section171&num=0&edition=prelim), Judiciary and Judicial Procedure.
@@ -808,7 +813,7 @@ In subsection (c), the words “officers and employees of the United States Gove
 
 (1) refunds to the limit of liability of an individual tax account; and
 
-(2) refunds due from credit provisions of the Internal Revenue Code of 1986 ([26 U.S.C. 1](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section1&num=0&edition=prelim) et seq.) enacted before January 1, 1978, or enacted by the Taxpayer Relief Act of 1997, or from section 25A, 35, 36, 36A,11 See References in Text note below. 36B, 168(k)(4)(F), 53(e),1 54B(h),1 or 6431 1 of such Code, or due under section 3081(b)(2) of the Housing Assistance Tax Act of 2008.
+(2) refunds due from credit provisions of the Internal Revenue Code of 1986 ([26 U.S.C. 1](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section1&num=0&edition=prelim) et seq.) enacted before January 1, 1978, or enacted by the Taxpayer Relief Act of 1997, or from section 25A, 35, 36, 36A,11 See References in Text note below. 36B, 168(k)(4)(F), 53(e),1 54B(h),1 6428, 6428A, or 6431 1 of such Code, or due under section 3081(b)(2) of the Housing Assistance Tax Act of 2008.
 
 ### Statutory Notes
 
@@ -827,7 +832,7 @@ Act of March 30, 1928, referred to in subsec. (a)(2)(C), is act Mar. 30, 1928, c
 
 The Taxpayer Relief Act of 1997, referred to in subsec. (b)(2), is Pub. L. 105–34, Aug. 5, 1997, 111 Stat. 788. For complete classification of this Act to the Code, see Short Title of 1997 Amendment note set out under [section 1 of Title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section1&num=0&edition=prelim), Internal Revenue Code, and Tables.
 
-Sections 25A, 35, 36, 36A, 36B, 168, 53, 54B, and 6431 of the Internal Revenue Code of 1986, referred to in subsec. (b)(2), are classified to sections 25A, 35, 36, 36A, 36B, 168, 53, 54B, and 6431, respectively, of Title 26, Internal Revenue Code. [Section 36A of Title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section36A&num=0&edition=prelim) was repealed by Pub. L. 113–295, div. A, title II, § 221(a)(5)(A), Dec. 19, 2014, 128 Stat. 4037. Subsec. (e) of [section 53 of Title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section53&num=0&edition=prelim) was repealed by Pub. L. 113–295, div. A, title II, § 221(a)(8)(A)(i), Dec. 19, 2014, 128 Stat. 4038. Sections 54B and 6431 of Title 26 were repealed by Pub. L. 115–97, title I, § 13404(a), Dec. 22, 2017, 131 Stat. 2138.
+Sections 25A, 35, 36, 36A, 36B, 168, 53, 54B, 6428, 6428A, and 6431 of the Internal Revenue Code of 1986, referred to in subsec. (b)(2), are classified to sections 25A, 35, 36, 36A, 36B, 168, 53, 54B, 6428, 6428A, and 6431, respectively, of Title 26, Internal Revenue Code. [Section 36A of Title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section36A&num=0&edition=prelim) was repealed by Pub. L. 113–295, div. A, title II, § 221(a)(5)(A), Dec. 19, 2014, 128 Stat. 4037. Subsec. (e) of [section 53 of Title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section53&num=0&edition=prelim) was repealed by Pub. L. 113–295, div. A, title II, § 221(a)(8)(A)(i), Dec. 19, 2014, 128 Stat. 4038. Sections 54B and 6431 of Title 26 were repealed by Pub. L. 115–97, title I, § 13404(a), Dec. 22, 2017, 131 Stat. 2138.
 
 Section 3081(b)(2) of the Housing Assistance Tax Act of 2008, referred to in subsec. (b)(2), is section 3081(b)(2) of Pub. L. 110–289, div. C, title III, July 30, 2008, 122 Stat. 2906, which is not classified to the Code.
 
@@ -835,6 +840,10 @@ Section 3081(b)(2) of the Housing Assistance Tax Act of 2008, referred to in sub
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
+2020—Subsec. (b)(2). Pub. L. 116–260 inserted “6428A,” after “6428,”.
+
+Pub. L. 116–136 inserted “6428,” after “54B(h),”.
+
 2014—Subsec. (b)(2). Pub. L. 113–295 substituted “or 6431” for “6428, or 6431,”.
 
 2010—Subsec. (b)(2). Pub. L. 111–148, § 10909(b)(2)(P), (c), as amended by Pub. L. 111–312, temporarily inserted “36C,” after “36B,”. See Effective and Termination Dates of 2010 Amendment note below.
@@ -1074,9 +1083,13 @@ Pub. L. 100–463, title VIII, § 8086, Oct. 1, 1988, 102 Stat. 2270–32.
 Pub. L. 100–202, § 101(b) [title VIII, § 8119], Dec. 22, 1987, 101 Stat. 1329–43, 1329–84.
 
 #### Maximum Purchase Price of Motor Vehicles; Exceptions
-Pub. L. 116–6, div. D, title VII, § 702, Feb. 15, 2019, 133 Stat. 187, provided that: “Unless otherwise specifically provided, the maximum amount allowable during the current fiscal year in accordance with subsection [sic] 1343(c) of title 31, United States Code, for the purchase of any passenger motor vehicle (exclusive of buses, ambulances, law enforcement vehicles, protective vehicles, and undercover surveillance vehicles), is hereby fixed at $19,947 except station wagons for which the maximum shall be $19,997: Provided, That these limits may be exceeded by not to exceed $7,250 for police-type vehicles: Provided further, That the limits set forth in this section may not be exceeded by more than 5 percent for electric or hybrid vehicles purchased for demonstration under the provisions of the Electric and Hybrid Vehicle Research, Development, and Demonstration Act of 1976 [[15 U.S.C. 2501](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section2501&num=0&edition=prelim) et seq.]: Provided further, That the limits set forth in this section may be exceeded by the incremental cost of clean alternative fuels vehicles acquired pursuant to Public Law 101–549 [see Tables for classification] over the cost of comparable conventionally fueled vehicles: Provided further, That the limits set forth in this section shall not apply to any vehicle that is a commercial item and which operates on alternative fuel, including but not limited to electric, plug-in hybrid electric, and hydrogen fuel cell vehicles.”
+Pub. L. 116–260, div. E, title VII, § 702, Dec. 27, 2020, 134 Stat. 1430, provided that: “Unless otherwise specifically provided, the maximum amount allowable during the current fiscal year in accordance with sub[section 1343(c) of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1343/c&num=0&edition=prelim), United States Code, for the purchase of any passenger motor vehicle (exclusive of buses, ambulances, law enforcement vehicles, protective vehicles, and undercover surveillance vehicles), is hereby fixed at $19,947 except station wagons for which the maximum shall be $19,997: Provided, That these limits may be exceeded by not to exceed $7,250 for police-type vehicles: Provided further, That the limits set forth in this section may not be exceeded by more than 5 percent for electric or hybrid vehicles purchased for demonstration under the provisions of the Electric and Hybrid Vehicle Research, Development, and Demonstration Act of 1976 [[15 U.S.C. 2501](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section2501&num=0&edition=prelim) et seq.]: Provided further, That the limits set forth in this section may be exceeded by the incremental cost of clean alternative fuels vehicles acquired pursuant to Public Law 101–549 [see Tables for classification] over the cost of comparable conventionally fueled vehicles: Provided further, That the limits set forth in this section shall not apply to any vehicle that is a commercial item and which operates on alternative fuel, including but not limited to electric, plug-in hybrid electric, and hydrogen fuel cell vehicles.”
 
 Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 116–93, div. C, title VII, § 702, Dec. 20, 2019, 133 Stat. 2484.
+
+Pub. L. 116–6, div. D, title VII, § 702, Feb. 15, 2019, 133 Stat. 187.
 
 Pub. L. 115–141, div. E, title VII, § 702, Mar. 23, 2018, 132 Stat. 588.
 
@@ -1424,6 +1437,9 @@ Pub. L. 103–272, § 4(f)(2), July 5, 1994, 108 Stat. 1363, provided that the a
 
 #### Transfer of Functions
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).
+
+#### Charging Helps Agencies Realize General Efficiencies
+Pub. L. 116–160, Oct. 1, 2020, 134 Stat. 753, provided that: “SECTION 1. SHORT TITLE.“This Act may be cited as the ‘Charging Helps Agencies Realize General Efficiencies Act’ or the ‘CHARGE Act’. “SEC. 2. PAYMENT BY CHARGE CARD FOR CHARGING FEDERAL ELECTRIC MOTOR VEHICLES.“(a) Definitions.—In this Act—“(1) the term ‘Administrator’ means the Administrator of General Services; “(2) the term ‘charge card’—“(A) means a card, plate, coupon book, or other means existing for the purpose of obtaining money, property, labor, or services; and “(B) includes—“(i) a card issued under the GSA SmartPay program; and “(ii) a Fleet Services card; “(3) the term ‘covered electric motor vehicle’ means a passenger carrier that is—“(A) a passenger motor vehicle; and “(B) an electric motor vehicle; “(4) the term ‘electric motor vehicle’ has the meaning given the term in section 601 of the Energy Policy Act of 1992 ([42 U.S.C. 13271](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section13271&num=0&edition=prelim)); “(5) the term ‘electric motor vehicle charging station’ means a battery-charging station that permits the transfer of electric energy (by conductive or inductive means) to a battery or other storage device in an electric motor vehicle; and “(6) the terms ‘Federal agency’ and ‘passenger carrier’ have the meanings given those terms in [section 1344(h) of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1344/h&num=0&edition=prelim), United States Code. “(b) Guidance.—Not later than 180 days after the date of enactment of this Act [Oct. 1, 2020], the Administrator shall issue guidance to clarify that each Federal agency may, in accordance with [section 1344 of title 31](./chapter-013-appropriations.md#section-1344), United States Code—“(1) charge a covered electric motor vehicle at a commercial electric motor vehicle charging station; and “(2) pay for a transaction described in paragraph (1) with a charge card. “(c) Issuance of charge cards.—Not later than 180 days after the date of enactment of this Act, the Administrator shall issue to each Federal agency a charge card for each covered electric motor vehicle of the Federal agency that may be used by an officer or employee of the Federal agency to pay for charging the covered motor vehicle in accordance with the guidance issued under subsection (b).”
 
 #### Coordination
 Pub. L. 109–59, title III, § 3049(b)(3), Aug. 10, 2005, 119 Stat. 1713, provided that: “The authority to provide transportation services under [section 1344(g) of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1344/g&num=0&edition=prelim), United States Code (as amended by paragraph (1)) shall be in addition to any authority otherwise available to the agency involved.”
@@ -1869,7 +1885,7 @@ Pub. L. 101–121, title III, § 319(d), Oct. 23, 1989, 103 Stat. 756, provided 
 Pub. L. 101–121, title III, § 319(b), Oct. 23, 1989, 103 Stat. 756, provided that the first report submitted under former subsec. (b)(6) of this section was to be submitted on May 31, 1990, and was to contain a compilation relating to the statements received under subsec. (b) of this section during the six-month period beginning on Oct. 1, 1989.
 
 #### Notification of Compliance Date; Guidance for Agency Implementation
-Pub. L. 101–121, title III, § 319(c), Oct. 23, 1989, 103 Stat. 756, provided that: “The Director of the Office of Management and Budget shall notify the head of each agency that [section 1352 of title 31](./chapter-013-appropriations.md#section-1352), United States Code (as added by subsection (a)), is to be complied with commencing 60 days after the date of the enactment of this Act [Oct. 23, 1989]. Not later than 60 days after the date of the enactment of this Act, the Director of the Office of Management and Budget shall issue the guidance required by subsection (b)(7) [now (b)(6)] of such section.”
+Pub. L. 101–121, title III, § 319(c), Oct. 23, 1989, 103 Stat. 756, required the Director of the Office of Management and Budget to notify the head of each agency that this section was to be complied with commencing 60 days after Oct. 23, 1989, and required the Director, not later than 60 days after Oct. 23, 1989, to issue the guidance required under this section.
 
 
 <a id="section-1353"></a>

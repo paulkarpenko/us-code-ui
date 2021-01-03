@@ -145,6 +145,9 @@ The United States Information Agency (other than the Broadcasting Board of Gover
 
 ### Statutory Notes
 
+#### Change of Name
+Broadcasting Board of Governors renamed United States Agency for Global Media pursuant to [section 6204(a)(22) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section6204/a/22&num=0&edition=prelim). The renaming was effectuated by notice to congressional appropriations committees dated May 24, 2018, and became effective Aug. 22, 2018.
+
 #### Effective Date
 Pub. L. 105–277, div. G, subdiv. A, title XIII, § 1301, Oct. 21, 1998, 112 Stat. 2681–776, provided that: “This title [see Tables for classification], and the amendments made by this title, shall take effect on the earlier of— “(1) October 1, 1999; or “(2) the date of abolition [Oct. 1, 1999] of the United States Information Agency pursuant to the reorganization plan described in section 1601 [[22 U.S.C. 6601](./chapter-074-foreign-affairs-agencies-consolidation.md#section-6601)].”
 
@@ -159,6 +162,9 @@ Pub. L. 105–277, div. G, subdiv. A, title XIII, § 1301, Oct. 21, 1998, 112 St
 
 #### References in Text
 For the effective date of this subchapter, referred to in subsec. (a), meaning the effective date of title XIII of subdiv. A of div. G of Pub. L. 105–277, see section 1301 of Pub. L. 105–277, set out as a note under [section 6531 of this title](./chapter-074-foreign-affairs-agencies-consolidation.md#section-6531).
+
+#### Change of Name
+Broadcasting Board of Governors renamed United States Agency for Global Media pursuant to [section 6204(a)(22) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section6204/a/22&num=0&edition=prelim). The renaming was effectuated by notice to congressional appropriations committees dated May 24, 2018, and became effective Aug. 22, 2018.
 
 
 <a id="section-6533"></a>
@@ -222,6 +228,9 @@ The United States International Broadcasting Act of 1994, referred to in par. (3
 #### References in Text
 This part, referred to in subsecs. (a) and (b), was in the original “this chapter”, meaning chapter 3 (§§ 1321–1328) of title XIII of subdiv. A of div. G of Pub. L. 105–277, Oct. 21, 1998, 112 Stat. 2681–777. For complete classification of chapter 3 to the Code, see Tables.
 
+#### Change of Name
+Broadcasting Board of Governors renamed United States Agency for Global Media pursuant to [section 6204(a)(22) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section6204/a/22&num=0&edition=prelim). The renaming was effectuated by notice to congressional appropriations committees dated May 24, 2018, and became effective Aug. 22, 2018.
+
 
 <a id="section-6543"></a>
 ## § 6543. Savings provisions
@@ -259,6 +268,9 @@ For the effective date of this subchapter, referred to in subsecs. (a), (b)(1), 
 
 This part, referred to in subsecs. (b) to (e), was in the original “this chapter”, meaning chapter 3 (§§ 1321–1328) of title XIII of subdiv. A of div. G of Pub. L. 105–277, Oct. 21, 1998, 112 Stat. 2681–777. For complete classification of chapter 3 to the Code, see Tables.
 
+#### Change of Name
+Broadcasting Board of Governors renamed United States Agency for Global Media pursuant to [section 6204(a)(22) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section6204/a/22&num=0&edition=prelim). The renaming was effectuated by notice to congressional appropriations committees dated May 24, 2018, and became effective Aug. 22, 2018.
+
 
 <a id="section-6544"></a>
 ## § 6544. Report on privatization of RFE/RL, Incorporated
@@ -272,6 +284,11 @@ Not later than March 1 of each year, the Broadcasting Board of Governors shall s
 (3) An analysis of prospects for privatization over the coming year.
 
 (4) An assessment of the extent to which United States Government funding may be appropriate in the year 2000 and subsequent years for surrogate broadcasting to the countries to which RFE/RL, Incorporated, broadcast during the year. This assessment shall include an analysis of the environment for independent media in those countries, noting the extent of government control of the media, the ability of independent journalists and news organizations to operate, relevant domestic legislation, level of government harassment and efforts to censor, and other indications of whether the people of such countries enjoy freedom of expression.
+
+### Statutory Notes
+
+#### Change of Name
+Broadcasting Board of Governors renamed United States Agency for Global Media pursuant to [section 6204(a)(22) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section6204/a/22&num=0&edition=prelim). The renaming was effectuated by notice to congressional appropriations committees dated May 24, 2018, and became effective Aug. 22, 2018.
 
 
 <a id="section-6551"></a>
@@ -330,7 +347,7 @@ This chapter, referred to in subsecs. (a), (b), and (d), was in the original “
 <a id="section-6553"></a>
 ## § 6553. Sunset of United States Advisory Commission on Public Diplomacy
 
-The United States Advisory Commission on Public Diplomacy, established under [section 1469 of this title](./chapter-018-united-states-information-and-educational-exchange-programs.md#section-1469) and section 8 of Reorganization Plan Numbered 2 of 1977, shall continue to exist and operate under such provisions of law until October 1, 2020.
+The United States Advisory Commission on Public Diplomacy, established under [section 1469 of this title](./chapter-018-united-states-information-and-educational-exchange-programs.md#section-1469) and section 8 of Reorganization Plan Numbered 2 of 1977, shall continue to exist and operate under such provisions of law until October 1, 2021.
 
 ### Statutory Notes
 
@@ -338,6 +355,8 @@ The United States Advisory Commission on Public Diplomacy, established under [se
 Section 8 of Reorganization Plan Numbered 2 of 1977, referred to in text, is set out as a note under [section 1461 of this title](./chapter-018-united-states-information-and-educational-exchange-programs.md#section-1461) and in the Appendix to Title 5, Government Organization and Employees.
 
 #### Amendments
+2020—Pub. L. 116–159 substituted “October 1, 2021” for “October 1, 2020”.
+
 2016—Pub. L. 114–323 substituted “October 1, 2020” for “October 1, 2015”.
 
 2013—Pub. L. 112–239 substituted “October 1, 2015” for “October 1, 2010”.

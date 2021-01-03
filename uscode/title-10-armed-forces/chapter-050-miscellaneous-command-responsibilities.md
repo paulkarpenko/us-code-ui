@@ -30,13 +30,13 @@ source: >-
 
     (ii) a lower number of days prescribed by the Secretary of Defense, acting through the Under Secretary of Defense for Personnel and Readiness.
 
-(3) A member may be deployed, or continued in a deployment, without regard to paragraph (1) if the deployment, or continued deployment, is approved by the Secretary of Defense. The authority of the Secretary under the preceding sentence may only be delegated to—
+(3) A member may be deployed, or continued in a deployment, without regard to paragraph (1) if the deployment, or continued deployment, is approved by the Secretary of Defense. The authority of the Secretary under the preceding sentence may only be delegated to a civilian officer of the Department of Defense appointed by the President, by and with the advice and consent of the Senate.
 
-  (A) a civilian officer of the Department of Defense appointed by the President, by and with the advise and consent of the Senate, or a member of the Senior Executive Service; or
+(4) The Secretary of Defense shall prescribe a policy that addresses each of the following:
 
-  (B) a general or flag officer in that member’s chain of command (including an officer in the grade of colonel, or in the case of the Navy, captain, serving in a general or flag officer position who has been selected for promotion to the grade of brigadier general or rear admiral (lower half) in a report of a selection board convened under section 611(a) or 14101(a) of this title that has been approved by the President).
+  (A) The amount of dwell time a regular member of the armed forces or unit remains at the member’s or unit’s permanent duty station or home port, as the case may be, between deployments.
 
-(4) The Secretary of Defense shall prescribe a policy that addresses the amount of dwell time a member of the armed forces or unit remains at the member’s or unit’s permanent duty station or home port, as the case may be, between deployments.
+  (B) The amount of dwell time a reserve member of the armed forces remains at the member’s permanent duty station after completing a deployment of 30 days or more in length.
 
 **(b) Deployment Defined.—**
 
@@ -86,7 +86,23 @@ source: >-
 
 (4) For each of the armed forces, the data collection repository shall be able to indicate, for a fiscal year, the number of days that high demand, low density units (as defined by the Chairman of the Joint Chiefs of Staff) were deployed, and whether these units met the force goals for limiting deployments, as described in the personnel tempo policies applicable to that armed force.
 
-**(d) National Security Waiver Authority.—** The Secretary of the military department concerned may suspend the applicability of this section to a member or any group of members under the Secretary’s jurisdiction when the Secretary determines that such a waiver is necessary in the national security interests of the United States.
+**(d) National Security Waiver Authority.—**
+
+(1) The Secretary of the military department concerned may suspend the applicability of this section to a member or any group of members under the Secretary’s jurisdiction when the Secretary determines that such a waiver is necessary in the national security interests of the United States.
+
+(2)
+
+  (A) Whenever a waiver is in effect under paragraph (1), the member or group of members covered by the waiver shall be subject to specific and measurable deployment thresholds established and maintained for purposes of this subsection.
+
+  (B) Thresholds under this paragraph may be applicable—
+
+    (i) uniformly, Department of Defense-wide; or
+
+    (ii) separately, with respect to each armed force or the United States Special Operations Command.
+
+  (C) If thresholds under this paragraph are applicable Department-wide, such thresholds shall be established and maintained by the Under Secretary of Defense for Personnel and Readiness. If such thresholds are applicable only to one armed force or the Under States Special Operations Command, such thresholds shall be established and maintained respectively by the Secretary of the Army, the Secretary of the Navy (other than with respect to the Marine Corps), the Secretary of the Air Force, the Commandant of the Marine Corps (with respect to the Marine Corps), and the Commander of the United States Special Operations Command, as applicable.
+
+  (D) In undertaking recordkeeping for purposes of subsection (c), the Under Secretary shall, in conjunction with the officials and officers referred to in subparagraph (C), collect complete and reliable personnel tempo data of members described in subparagraph (A) in order to ensure that the Department, the armed forces, and the United States Special Operations Command fully and completely monitor personnel tempo under any waiver authorized under paragraph (1) and the effect of such waiver on the armed forces.
 
 **(e) Inapplicability to Coast Guard.—** This section does not apply to a member of the Coast Guard when the Coast Guard is not operating as a service in the Navy.
 
@@ -105,6 +121,18 @@ source: >-
 ### Statutory Notes
 
 #### Amendments
+2021—Subsec. (a)(4)(A). Pub. L. 116–283 substituted “The amount” for “The amount.”
+
+2019—Subsec. (a)(3). Pub. L. 116–92, § 506(a), substituted “be delegated to a civilian officer of the Department of Defense appointed by the President, by and with the advice and consent of the Senate.” for “be delegated to—
+
+“(A) a civilian officer of the Department of Defense appointed by the President, by and with the advise and consent of the Senate, or a member of the Senior Executive Service; or
+
+“(B) a general or flag officer in that member’s chain of command (including an officer in the grade of colonel, or in the case of the Navy, captain, serving in a general or flag officer position who has been selected for promotion to the grade of brigadier general or rear admiral (lower half) in a report of a selection board convened under section 611(a) or 14101(a) of this title that has been approved by the President).”
+
+Subsec. (a)(4). Pub. L. 116–92, § 506(b), substituted “addresses each of the following:” for “addresses the amount”, inserted “(A) The amount.” before “of dwell time”, and “regular” before “member”, and added subpar. (B).
+
+Subsec. (d). Pub. L. 116–92, § 507(a), designated existing provisions as par. (1) and added par. (2).
+
 2011—Pub. L. 112–81, § 522(d)(1), substituted “Management of deployments of members and measurement and data collection of unit operating and personnel tempo” for “Management of deployments of members” in section catchline.
 
 Subsec. (a)(4). Pub. L. 112–81, § 522(a), added par. (4).
@@ -162,6 +190,9 @@ Pub. L. 106–65, div. A, title V, § 586(e), Oct. 5, 1999, 113 Stat. 639, provi
 
 #### Transfer of Functions
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).
+
+#### Deadline for Implementation of Subsection (d)(2)
+Pub. L. 116–92, div. A, title V, § 507(b), Dec. 20, 2019, 133 Stat. 1346, provided that: “Paragraph (2) of [section 991(d) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section991/d&num=0&edition=prelim), United States Code, as added by subsection (a), shall be fully implemented by not later than March 1, 2020.”
 
 #### Family Care Plans and Deferment of Deployment of Single Parent or Dual Military Couples With Minor Dependents
 Pub. L. 110–181, div. A, title V, § 586, Jan. 28, 2008, 122 Stat. 132, as amended by Pub. L. 114–328, div. A, title VI, § 618(a), Dec. 23, 2016, 130 Stat. 2160, provided that: “The Secretary of Defense shall establish appropriate procedures to ensure that an adequate family care plan is in place for a member of the Armed Forces with minor dependents who is a single parent or whose spouse is also a member of the Armed Forces when the member may be deployed in an area for which imminent danger pay is authorized under section 310 or 351 of title 37, United States Code. Such procedures should allow the member to request a deferment of deployment due to unforeseen circumstances, and the request for such a deferment should be considered and responded to promptly.”
@@ -306,6 +337,9 @@ Subsec. (e)(4). Pub. L. 114–92, § 661(d), added par. (4).
 
 #### Effective Date of 2006 Amendment
 Pub. L. 109–163, div. A, title V, § 578(b), Jan. 6, 2006, 119 Stat. 3276, provided that: “The amendments made by this section [enacting this section] shall take effect on the first day of the first month that begins more than 120 days after the date of the enactment of this Act [Jan. 6, 2006].”
+
+#### Inclusion of Information on Free Credit Monitoring in Annual Financial Literacy Briefing
+Pub. L. 116–92, div. A, title V, § 560A, Dec. 20, 2019, 133 Stat. 1393, provided that: “The Secretary of each military department shall ensure that the annual financial literacy education briefing provided to members of the Armed Forces includes information on the availability of free credit monitoring services pursuant to section 605A(k) of the Fair Credit Reporting Act ([15 U.S.C. 1681c–1(k)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1681c–1/k&num=0&edition=prelim)).”
 
 #### Implementations
 Pub. L. 114–92, div. A, title VI, § 661(f), Nov. 25, 2015, 129 Stat. 859, provided that: “Not later than six months after the date of the enactment of this Act [Nov. 25, 2015], the Secretary of the military department concerned and the Secretary of the Department in which the Coast Guard is operating shall commence providing financial literacy training under [section 992 of title 10](./chapter-050-miscellaneous-command-responsibilities.md#section-992), United States Code, as amended by subsections (b), (c), and (d) of this section, to members of the Armed Forces.”

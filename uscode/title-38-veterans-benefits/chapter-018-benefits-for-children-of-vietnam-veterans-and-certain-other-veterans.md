@@ -438,9 +438,15 @@ In this chapter:
 
     (ii) was conceived after the date on which that veteran first entered the Republic of Vietnam during the Vietnam era.
 
-  (B) For purposes of subchapter III of this chapter, an individual, regardless of age or marital status, who—
+  (B) For purposes of [section 1821 of this title](./chapter-018-benefits-for-children-of-vietnam-veterans-and-certain-other-veterans.md#section-1821), an individual, regardless of age or marital status, who—
 
-    (i) is the natural child of a veteran of covered service in Korea (as determined for purposes of [section 1821 of this title](./chapter-018-benefits-for-children-of-vietnam-veterans-and-certain-other-veterans.md#section-1821)); and
+    (i) is the natural child of a veteran of covered service in Korea (as determined for purposes of that section); and
+
+    (ii) was conceived after the date on which that veteran first entered service described in subsection (c) of that section.
+
+  (C) For purposes of [section 1822 of this title](./chapter-018-benefits-for-children-of-vietnam-veterans-and-certain-other-veterans.md#section-1822), an individual, regardless of age or marital status, who—
+
+    (i) is the natural child of a veteran of covered service in Thailand (as determined for purposes of that section); and
 
     (ii) was conceived after the date on which that veteran first entered service described in subsection (c) of that section.
 
@@ -453,25 +459,6 @@ In this chapter:
   (B) subchapter II of this chapter, means the period beginning on February 28, 1961, and ending on May 7, 1975.
 
 ### Statutory Notes
-
-#### Amendment of Paragraph (1)
-Pub. L. 116–23, § 4(b), (f), June 25, 2019, 133 Stat. 971, provided that, effective Jan. 1, 2020, paragraph (1) of this section is amended as follows:
-
-(1) in subparagraph (B)—
-
-(A) by striking “subchapter III of this chapter” and inserting “[section 1821 of this title](./chapter-018-benefits-for-children-of-vietnam-veterans-and-certain-other-veterans.md#section-1821)”; and
-
-(B) in clause (i), by striking “[section 1821 of this title](./chapter-018-benefits-for-children-of-vietnam-veterans-and-certain-other-veterans.md#section-1821)” and inserting “that section”; and
-
-(2) by adding at the end the following new subparagraph:
-
-(C) For purposes of [section 1822 of this title](./chapter-018-benefits-for-children-of-vietnam-veterans-and-certain-other-veterans.md#section-1822), an individual, regardless of age or marital status, who—
-
-(i) is the natural child of a veteran of covered service in Thailand (as determined for purposes of that section); and
-
-(ii) was conceived after the date on which that veteran first entered service described in subsection (c) of that section.
-
-See 2019 Amendment notes below.
 
 #### Prior Provisions
 A prior section 1831 was renumbered [section 3731 of this title](./chapter-037-housing-and-small-business-loans.md#section-3731).

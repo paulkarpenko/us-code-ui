@@ -2,7 +2,7 @@
 title: 7
 chapter: '115'
 heading: AGRICULTURAL COMMODITY POLICY AND PROGRAMS
-section_count: 39
+section_count: 40
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7&num=0&edition=prelim
 ---
@@ -2060,6 +2060,11 @@ Amendment by Pub. L. 115–334 effective on Jan. 1, 2019, see section 1401(m) of
 
 Amendment by Pub. L. 115–123 applicable beginning with the 2018 calendar year, see section 60101(b)(5) of Pub. L. 115–123, set out as a note under [section 9051 of this title](./chapter-115-agricultural-commodity-policy-and-programs.md#section-9051).
 
+#### Supplemental Dairy Margin Coverage Payments
+Pub. L. 116–260, div. N, title VII, § 761, Dec. 27, 2020, 134 Stat. 2109, provided that: “(a) In General.—The Secretary shall provide supplemental dairy margin coverage payments to participating eligible dairy operations described in subsection (b)(1) whenever the average actual dairy production margin (as defined in section 1401 of the Agricultural Act of 2014 ([7 U.S.C. 9051](./chapter-115-agricultural-commodity-policy-and-programs.md#section-9051))) for a month is less than the coverage level threshold selected by such eligible dairy operation under section 1406 of that Act ([7 U.S.C. 9056](./chapter-115-agricultural-commodity-policy-and-programs.md#section-9056)). “(b) Eligible Dairy Operation Described.—“(1) In general.—An eligible dairy operation described in this subsection is a dairy operation that—“(A) is located in the United States; and “(B) during a calendar year in which such dairy operation is a participating dairy operation (as defined in section 1401 of the Agricultural Act of 2014 ([7 U.S.C. 9051](./chapter-115-agricultural-commodity-policy-and-programs.md#section-9051))), has a production history established under the dairy margin coverage program under section 1405 of the Agricultural Act of 2014 ([7 U.S.C. 9055](./chapter-115-agricultural-commodity-policy-and-programs.md#section-9055)) of less than 5,000,000 pounds, as determined in accordance with subsection (c) of such section 1405. “(2) Limitation on eligibility.—An eligible dairy operation shall only be eligible for payments under this section during a calendar year in which such eligible dairy operation is enrolled in the dairy margin coverage (as defined in section 1401 of the Agricultural Act of 2014 ([7 U.S.C. 9051](./chapter-115-agricultural-commodity-policy-and-programs.md#section-9051))). “(c) Supplemental Production History Calculation.—“(1) In general.—For purposes of determining the supplemental production history of an eligible dairy operation under this section, such dairy operation’s supplemental production history shall be equal to 75 percent of the amount described in paragraph (2) with respect to such dairy operation. “(2) Amount.—The amount referred to in paragraph (1) is, with respect to an eligible dairy operation, the amount equal to—“(A) the production volume of such dairy operation for the 2019 milk marketing year; minus “(B) the dairy margin coverage production history of such dairy operation established under section 1405 of the Agricultural Act of 2014 ([7 U.S.C. 9055](./chapter-115-agricultural-commodity-policy-and-programs.md#section-9055)). “(d) Coverage Percentage.—“(1) In general.—For purposes of calculating payments to be issued under this section during a calendar year, an eligible dairy operation’s coverage percentage shall be equal to the coverage percentage selected by such eligible dairy operation with respect to such calendar year under section 1406 of the Agricultural Act of 2014 ([7 U.S.C. 9056](./chapter-115-agricultural-commodity-policy-and-programs.md#section-9056)). “(2) 5 million pound limitation.—“(A) In general.—The Secretary shall not provide supplemental dairy margin coverage on an eligible dairy operation’s actual production for a calendar year such that the total covered production history of such dairy operation exceeds 5,000,000 pounds. “(B) Determination of amount.—In calculating the total covered production history of an eligible dairy operation under subparagraph (A), the Secretary shall multiply the coverage percentage selected by such operation under section 1406 of the Agricultural Act of 2014 ([7 U.S.C. 9056](./chapter-115-agricultural-commodity-policy-and-programs.md#section-9056)) by the sum of—“(i) the supplemental production history calculated under subsection (c) with respect to such dairy operation; and “(ii) the dairy margin coverage production history described in subsection (c)(2)(B) with respect to such dairy operation. “(e) Premium Cost.—The premium cost for an eligible dairy operation under this section for a calendar year shall be equal to the product of multiplying—“(1) the Tier I premium cost calculated with respect to such dairy operation for such year under section 1407(b) of the Agricultural Act of 2014 ([7 U.S.C. 9057(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section9057/b&num=0&edition=prelim)); by “(2) the supplemental production history with respect to such dairy operation calculated under subsection (c) (such that total covered production history does not exceed 5,000,000 pounds). “(f) Regulations.—Not later than 45 days after the date of the enactment of this section [Dec. 27, 2020], the Secretary shall issue regulations to carry out this section. “(g) Prohibition With Respect to Dairy Margin Coverage Enrollment.—“(1) In general.—The Secretary may not reopen or otherwise provide a special enrollment for dairy margin coverage (as defined in section 1401 of the Agricultural Act of 2014 ([7 U.S.C. 9051](./chapter-115-agricultural-commodity-policy-and-programs.md#section-9051))) for purposes of establishing eligibility for supplemental dairy margin coverage payments under this section. “(2) Clarification with respect to supplemental dairy margin coverage payments.—The Secretary may open a special enrollment for supplemental dairy margin coverage under this section. “(h) Application for Calendar Year 2021.—The Secretary shall make payments under this section to eligible dairy operations described in subsection (b)(1) for months after and including January, 2021. “(i) Sunset.—The authority to make payments under this section shall terminate on December 31, 2023. “(j) Funding.—There is appropriated, out of any funds in the Treasury not otherwise appropriated, to carry out this section such sums as necessary, to remain available until the date specified in subsection (i).”
+
+[For definition of “Secretary” as used in section 761 of div. N of Pub. L. 116–260, set out above, see section 760 of div. N of Pub. L. 116–260, set out as a note under [section 5936a of this title](./chapter-088-research.md#section-5936a).]
+
 
 <a id="section-9058"></a>
 ## § 9058. Premiums for dairy margin coverage
@@ -2230,8 +2235,8 @@ Subsec. (c). Pub. L. 115–334, § 1401(k)(10)(A), substituted “dairy margin c
 Amendment by Pub. L. 115–334 effective on Jan. 1, 2019, see section 1401(m) of Pub. L. 115–334, set out as a note under [section 9051 of this title](./chapter-115-agricultural-commodity-policy-and-programs.md#section-9051).
 
 
-<a id="section-9081"></a>
-## § 9081. Milk donation program
+<a id="section-9071a"></a>
+## § 9071a. Milk donation program
 **(a) Definitions** In this section:
 
 (1) **Eligible dairy organization** — The term “eligible dairy organization” means a dairy farmer (either individually or as part of a cooperative), or a dairy processor, who—
@@ -2338,6 +2343,123 @@ Amendment by Pub. L. 115–334 effective on Jan. 1, 2019, see section 1401(m) of
 
 #### Prior Provisions
 A prior section 9071, Pub. L. 113–79, title I, § 1431, Feb. 7, 2014, 128 Stat. 695, related to dairy product donation program, prior to repeal by Pub. L. 115–334, title I, § 1404(a), Dec. 20, 2018, 132 Stat. 4519.
+
+
+<a id="section-9081"></a>
+## § 9081. Dairy donation program
+**(a) Definitions** In this section:
+
+(1) **Eligible dairy organization** — The term “eligible dairy organization” has the meaning given the term in [section 9071(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section9071/a&num=0&edition=prelim).
+
+(2) **Eligible dairy product** — The term “eligible dairy product” means a product primarily made from milk, including fluid milk, that is produced and processed in the United States.
+
+(3) **Eligible distributor** — The term “eligible distributor” means a public or private nonprofit organization that distributes donated eligible dairy products to recipient individuals and families.
+
+(4) **Eligible partnership** — The term “eligible partnership” means a partnership between an eligible dairy organization and an eligible distributor.
+
+**(b) Establishment and purposes** Not later than 60 days after December 27, 2020, the Secretary shall establish and administer a dairy donation program for the purposes of—
+
+(1) facilitating the timely donation of eligible dairy products; and
+
+(2) preventing and minimizing food waste.
+
+**(c) Donation and distribution plans**
+
+(1) **In general** — To be eligible to receive reimbursement under subsection (d), an eligible partnership shall submit to the Secretary a donation and distribution plan that describes the process that the eligible partnership will use for the donation, processing, transportation, temporary storage, and distribution of eligible dairy products.
+
+(2) **Review and approval**
+
+  (A) *In general* — Not later than 15 business days after receiving a plan described in paragraph (1), the Secretary shall—
+
+    (i) review that plan; and
+
+    (ii) issue an approval or disapproval of that plan.
+
+  (B) *Emergency and disaster-related prioritization*
+
+    (i) *In general* — In receiving and reviewing a donation and distribution plan submitted under paragraph (1), the Secretary shall determine whether an emergency or disaster was a substantial factor in the submission, including—
+
+      (I) a declared or renewed public health emergency under [section 247d of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section247d&num=0&edition=prelim); and
+
+      (II) a disaster designated by the Secretary.
+
+    (ii) *Priority review* — On making an affirmative determination under clause (i) with respect to a donation and distribution plan submitted under paragraph (1), the Secretary shall give priority to the approval or disapproval of that plan.
+
+**(d) Reimbursement**
+
+(1) **In general** — On receipt of appropriate documentation under paragraph (3), the Secretary shall reimburse an eligible dairy organization that is a member of an eligible partnership for which the Secretary has approved a donation and distribution plan under subsection (c)(2)(A)(ii) at a rate equal to the product obtained by multiplying—
+
+  (A) the current reimbursement price described in paragraph (2); and
+
+  (B) the volume of milk required to make the donated eligible dairy product.
+
+(2) **Reimbursement price** — The Secretary—
+
+  (A) shall set the reimbursement price referred to in paragraph (1)(A) at a value that shall—
+
+    (i) be representative of the cost of the milk required to make the donated eligible dairy product;
+
+    (ii) be between the lowest and highest of the class I, II, III, or IV milk prices on the date of the production of the eligible dairy product;
+
+    (iii) be sufficient to avoid food waste; and
+
+    (iv) not interfere with the commercial marketing of milk or dairy products;
+
+  (B) may set appropriate reimbursement prices under subparagraph (A) for different eligible dairy products by class and region for the purpose of—
+
+    (i) encouraging the donation of surplus eligible dairy products;
+
+    (ii) facilitating the orderly marketing of milk;
+
+    (iii) reducing volatility relating to significant market disruptions;
+
+    (iv) maintaining traditional price relationships between classes of milk; or
+
+    (v) stabilizing on-farm milk prices.
+
+(3) **Documentation**
+
+  (A) *In general* — An eligible dairy organization shall submit to the Secretary such documentation as the Secretary may require to demonstrate—
+
+    (i) the production of the eligible dairy product; and
+
+    (ii) the donation of the eligible dairy product to an eligible distributor.
+
+  (B) *Verification* — The Secretary may verify the accuracy of documentation submitted under subparagraph (A).
+
+(4) **Retroactive reimbursement** — In providing reimbursements under paragraph (1), the Secretary may provide reimbursements for eligible dairy product costs incurred before the date on which the donation and distribution plan for the applicable participating partnership was approved by the Secretary under subsection (c)(2)(A)(ii).
+
+(5) **Emergency and disaster-related prioritization** — In providing reimbursements under paragraph (1), the Secretary shall give priority to reimbursements to eligible dairy organizations covered by a donation and distribution plan for which the Secretary makes an affirmative determination under subsection (c)(2)(B)(i).
+
+**(e) Prohibition on resale of products**
+
+(1) **In general** — An eligible distributor that receives eligible dairy products donated under this section may not sell the eligible dairy products into commercial markets.
+
+(2) **Prohibition on future participation** — An eligible distributor that the Secretary determines has violated paragraph (1) shall not be eligible for any future participation in the program established under this section.
+
+**(f) Reviews** The Secretary shall conduct appropriate reviews or audits to ensure the integrity of the program established under this section.
+
+**(g) Publication of donation activity** The Secretary, acting through the Administrator of the Agricultural Marketing Service, shall publish on the publicly accessible website of the Agricultural Marketing Service periodic reports describing donation activity under this section.
+
+**(h) Supplemental reimbursements**
+
+(1) **In general** — The Secretary shall make a supplemental reimbursement to an eligible dairy organization that received a reimbursement under the milk donation program established under [section 9071 of this title](./chapter-115-agricultural-commodity-policy-and-programs.md#section-9071) during the period beginning on January 1, 2020, and ending on the date on which amounts made available under subsection (i) are no longer available.
+
+(2) **Reimbursement calculation** — A supplemental reimbursement described in paragraph (1) shall be an amount equal to—
+
+  (A) the reimbursement calculated under subsection (d); minus
+
+  (B) the reimbursement under the milk donation program described in paragraph (1).
+
+**(i) Funding** Out of any amounts of the Treasury not otherwise appropriated, there is appropriated to the Secretary to carry out this section $400,000,000, to remain available until expended.
+
+### Statutory Notes
+
+#### Codification
+Section was enacted as part of the Consolidated Appropriations Act, 2021, and not as part of title I of Pub. L. 113–79 which comprises this chapter.
+
+#### Definition
+For definition of “Secretary” as used in this section, see section 760 of div. N of Pub. L. 116–260, set out as a note under [section 5936a of this title](./chapter-088-research.md#section-5936a).
 
 
 <a id="section-9091"></a>

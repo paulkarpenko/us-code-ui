@@ -51,13 +51,13 @@ In this chapter—
 
   (G) the Government National Mortgage Association.
 
-  (H) the Overseas Private Investment Corporation.
+  (H) the United States International Development Finance Corporation.
 
   (I) the Pennsylvania Avenue Development Corporation.
 
   (J) the Pension Benefit Guaranty Corporation.
 
-  (K) the Saint Lawrence Seaway Development Corporation.
+  (K) the Great Lakes St. Lawrence Seaway Development Corporation.
 
   (L) the Secretary of Housing and Urban Development when carrying out duties and powers related to the Federal Housing Administration Fund.
 
@@ -70,9 +70,6 @@ In this chapter—
   (P) the International Clean Energy Foundation.
 
 ### Statutory Notes
-
-#### Amendment of Paragraph (3)(H)
-Pub. L. 115–254, div. F, title VI, § 1470(u), (w), Oct. 5, 2018, 132 Stat. 3519, provided that, effective at the end of the transition period, as defined in [section 9681 of Title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section9681&num=0&edition=prelim), Foreign Relations and Intercourse, paragraph (3)(H) of this section is amended by striking “Overseas Private Investment Corporation” and inserting “United States International Development Finance Corporation”. See 2018 Amendment note below.
 
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
@@ -96,6 +93,8 @@ In clause (3)(J), the words “until the ownership, control, and operation of th
 This amends 31:9101(2) because the National Consumer Cooperative Bank is no longer a mixed-ownership Government corporation. Section 396(h)(1) and (i) of the Omnibus Budget Reconciliation Act of 1981 (Pub. L. 97–35, 95 Stat. 440) provided that the Bank would cease being a mixed-ownership Government corporation on the day after the Final Government Equity Redemption Date. Section 501(36) of the Act of December 23, 1981 (Pub. L. 97–101, 95 Stat. 1440), provided that the Redemption Date was December 31, 1981.
 
 #### Amendments
+2020—Par. (3)(K). Pub. L. 116–260 substituted “Great Lakes St. Lawrence Seaway Development Corporation” for “Saint Lawrence Seaway Development Corporation”.
+
 2018—Par. (2)(H) to (K). Pub. L. 115–334, § 6602(b)(19)(A), redesignated subpars. (I) to (K) as (H) to (J), respectively, and struck out former subpar. (H) which read as follows: “the Rural Telephone Bank when the ownership, control, and operation of the Bank are converted under section 410(a) of the Rural Electrification Act of 1936 ([7 U.S.C. 950(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section950/a&num=0&edition=prelim)).”
 
 Par. (3)(H). Pub. L. 115–254 substituted “United States International Development Finance Corporation” for “Overseas Private Investment Corporation”.

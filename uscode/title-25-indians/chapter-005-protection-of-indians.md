@@ -139,11 +139,11 @@ Whenever any Indian, being a member of any band or tribe with whom the Governmen
 #### Codification
 R.S. § 2119 derived from act June 14, 1862, ch. 101, § 1, 12 Stat. 427.
 
-#### Transfer of Functions
-For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out in the Appendix to Title 5, Government Organization and Employees.
-
 #### Indian Agents
 The services of Indian agents have been dispensed with. See note set out under [section 64 of this title](./chapter-002-officers-of-indian-affairs.md#section-64).
+
+#### Transfer of Functions
+For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out in the Appendix to Title 5, Government Organization and Employees.
 
 
 <a id="section-186"></a>
@@ -211,11 +211,11 @@ R.S. § 2127 derived from act Mar. 3, 1865, ch. 127, § 9, 13 Stat. 563.
 #### Change of Name
 Department of War designated Department of the Army and title of Secretary of War changed to Secretary of the Army by section 205(a) of act July 26, 1947, ch. 343, title II, 61 Stat. 501. Section 205(a) of act July 26, 1947, was repealed by section 53 of act Aug. 10, 1956, ch. 1041, 70A Stat. 641. Section 1 of act Aug. 10, 1956, enacted “Title 10, Armed Forces” which in sections 3010 to 3013 continued Department of the Army under administrative supervision of Secretary of the Army.
 
-#### Transfer of Functions
-For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out in the Appendix to Title 5, Government Organization and Employees.
-
 #### Indian Agents
 The services of Indian agents have been dispensed with. See note set out under [section 64 of this title](./chapter-002-officers-of-indian-affairs.md#section-64).
+
+#### Transfer of Functions
+For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out in the Appendix to Title 5, Government Organization and Employees.
 
 
 <a id="section-193"></a>

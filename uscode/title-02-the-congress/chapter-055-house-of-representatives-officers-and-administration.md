@@ -2,7 +2,7 @@
 title: 2
 chapter: '55'
 heading: HOUSE OF REPRESENTATIVES OFFICERS AND ADMINISTRATION
-section_count: 46
+section_count: 49
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2&num=0&edition=prelim
 ---
@@ -135,7 +135,7 @@ Section is based on provisions of proviso on 32 Stat. 26, act of Feb. 14, 1902, 
 
 (1) Amounts appropriated for any fiscal year for the House of Representatives under the headings specified in paragraph (2) may be transferred among and merged with such headings, effective upon the expiration of the 21-day period (or such alternative period that may be imposed by the Committee on Appropriations of the House of Representatives) which begins on the date such Committee has been notified of the transfer.
 
-(2) The headings referred to in paragraph (1) are “House Leadership Offices”, “Members’ Representational Allowances”, “Committee Employees”, “Salaries, Officers and Employees”, “Allowances and Expenses”, the heading for any joint committee under the heading “Joint Items” (to the extent that amounts appropriated for the joint committee are disbursed by the Chief Administrative Officer of the House of Representatives), and “Office of the Attending Physician”.
+(2) The headings referred to in paragraph (1) are “House Leadership Offices”, “Members’ Representational Allowances”, “Committee Employees”, “Salaries, Officers and Employees”, “Allowances and Expenses”, the heading for any joint committee under the heading “Joint Items” (to the extent that amounts appropriated for the joint committee are disbursed by the Chief Administrative Officer of the House of Representatives), “Office of the Attending Physician”, “Allowance for Compensation of Interns in Member Offices”“Allowance for Compensation of Interns in House Leadership Offices”, and “House of Representatives Modernization Initiatives Account”.
 
 **(d) Transfers to Architect of the Capitol** Amounts appropriated for any fiscal year for the House of Representatives under the heading “Allowances and Expenses” may be transferred to the Architect of the Capitol and merged with and made available under the heading “House Office Buildings”, subject to the approval of the Committee on Appropriations of the House of Representatives.
 
@@ -151,6 +151,12 @@ Section was formerly classified to [section 95b of this title](./chapter-004-off
 Section is from the Congressional Operations Appropriations Act, 1993, which is title I of the Legislative Branch Appropriations Act, 1993.
 
 #### Amendments
+2020—Subsec. (c)(2). Pub. L. 116–260 substituted “ ‘Allowance for Compensation of Interns in House Leadership Offices’, and ‘House of Representatives Modernization Initiatives Account’.” for “, and ‘Allowance for Compensation of Interns in House Leadership Offices’.”
+
+2019—Subsec. (c)(2). Pub. L. 116–94, § 113(e), substituted “, ‘Allowance for Compensation of Interns in Member Offices’, and ‘Allowance for Compensation of Interns in House Leadership Offices’ ” for “, and ‘Allowance for Compensation of Interns in Member Offices’ ”.
+
+Pub. L. 116–94, § 112(b), substituted “ ‘Office of the Attending Physician’, and ‘Allowance for Compensation of Interns in Member Offices’ ” for “and ‘Office of the Attending Physician’ ”.
+
 2018—Subsec. (f). Pub. L. 115–244 added subsec. (f).
 
 2014—Subsec. (c)(2). Pub. L. 113–76 substituted “ ‘Allowances and Expenses’, the heading for any joint committee under the heading ‘Joint Items’ (to the extent that amounts appropriated for the joint committee are disbursed by the Chief Administrative Officer of the House of Representatives), and ‘Office of the Attending Physician’ ” for “and ‘Allowances and Expenses’ ”.
@@ -166,6 +172,14 @@ Pub. L. 111–8, § 103(a), added subsec. (d).
 Subsec. (e). Pub. L. 111–68, § 1304(d), added subsec. (e).
 
 2003—Subsecs. (a), (b), (c)(1). Pub. L. 108–7 substituted “effective upon the expiration of the 21-day period (or such alternative period that may be imposed by the Committee on Appropriations of the House of Representatives) which begins on the date such Committee has been notified of the transfer” for “upon approval of the Committee on Appropriations of the House of Representatives”.
+
+#### Effective Date of 2020 Amendment
+Amendment by Pub. L. 116–260 applicable with respect to fiscal year 2021 and each succeeding fiscal year, see [section 5513(e) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section5513/e&num=0&edition=prelim).
+
+#### Effective Date of 2019 Amendment
+Amendment by section 112(b) of Pub. L. 116–94 effective as if included in the enactment of [section 5322a of this title](./chapter-053-house-of-representatives-members.md#section-5322a), see section 112(c) of Pub. L. 116–94, set out as a note under [section 5322a of this title](./chapter-053-house-of-representatives-members.md#section-5322a).
+
+Amendment by section 113(e) of Pub. L. 116–94 applicable with respect to fiscal year 2020 and each succeeding fiscal year, see [section 5106(f) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section5106/f&num=0&edition=prelim).
 
 #### Effective Date of 2018 Amendment
 Pub. L. 115–244, div. B, title I, § 119(b), Sept. 21, 2018, 132 Stat. 2931, provided that: “The amendment made by subsection (a) [amending this section] shall apply with respect to fiscal year 2019 and each succeeding fiscal year.”
@@ -277,34 +291,50 @@ Section 113 of the Legislative Branch Appropriations Act, 2017, referred to in s
 **(d) Applicability** This section shall apply with respect to amounts appropriated for fiscal year 2018 or any succeeding fiscal year.
 
 
-<a id="section-5521"></a>
-## § 5521. Compensation of Chaplain of House
+<a id="section-5512"></a>
+## § 5512. Use of available balances of expired appropriations
+**(a)** Subject to [section 5511 of this title](./chapter-055-house-of-representatives-officers-and-administration.md#section-5511), available balances of expired appropriations for the House of Representatives shall be available to the House of Representatives—
 
-Effective May 1, 1977, and until otherwise provided by law, the per annum gross rate of compensation of the Chaplain of the House of Representatives shall be equal to the rate in effect from time to time for HS level 8, step 4, of the House Employees Schedule.
+(1) for the payment of a death gratuity which is specifically appropriated by law and which is made in connection with the death of an employee of the House of Representatives, without regard to the fiscal year in which the payment is made; and
+
+(2) for deposit into the account established under [section 5508 of this title](./chapter-055-house-of-representatives-officers-and-administration.md#section-5508) for making payments of the House of Representatives to the Employees’ Compensation Fund under [section 8147 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section8147&num=0&edition=prelim) and for reimbursing the Secretary of Labor for any amounts paid with respect to unemployment compensation payments for former employees of the House.
+
+**(b)** This section shall apply with respect to funds appropriated or otherwise made available in fiscal year 2020 and each succeeding fiscal year.
+
+
+<a id="section-5513"></a>
+## § 5513. House of Representatives Modernization Initiatives Account
+**(a) Establishment** There is hereby established in the Treasury of the United States an account for the House of Representatives to be known as the “House of Representatives Modernization Initiatives Account” (hereafter in this section referred to as the “Account”).
+
+**(b) Use of funds** Funds in the Account shall be used by the House of Representatives to carry out initiatives to modernize the operations of the House, including initiatives to promote administrative efficiencies and expand the use of innovative technologies in offices of the House.
+
+**(c) Continuing availability of funds** Funds in the Account are available without fiscal year limitation.
+
+**(d) Omitted**
+
+**(e) Effective date** This section and the amendments made by this section shall apply with respect to fiscal year 2021 and each succeeding fiscal year.
 
 ### Statutory Notes
 
-#### References in Text
-The House Employees Schedule, referred to in text, is provided for by [section 293 of this title](./chapter-010-classification-of-employees-of-house-of-representatives.md#section-293).
+#### Codification
+Section is comprised of section 115 of div. I of Pub. L. 116–260. Subsec. (d) of section 115 amended [section 5507 of this title](./chapter-055-house-of-representatives-officers-and-administration.md#section-5507).
+
+
+<a id="section-5521"></a>
+## § 5521. Compensation of Chaplain of House
+
+The maximum per year gross rate of compensation of the Chaplain of the House of Representatives shall not exceed the greater of $173,900 or the rate of pay in effect for such position under an order issued by the Speaker of the House of Representatives pursuant to the authority of [section 4532 of this title](./chapter-045-congressional-pay-and-benefits.md#section-4532).
+
+### Statutory Notes
 
 #### Codification
-Section was formerly classified to [section 84–2 of this title](./chapter-004-officers-and-employees-of-senate-and-house-of-representatives.md#section-84-2) prior to editorial reclassification and renumbering as this section.
+Section is based on section 3 of House Resolution No. 661, Ninety-fifth Congress, July 29, 1977, as enacted by Pub. L. 116–94.
 
-Section is based on section 3 of House Resolution No. 661, Ninety-fifth Congress, July 29, 1977, which was enacted into permanent law by Pub. L. 95–391.
+#### Prior Provisions
+A prior section 5521, Pub. L. 95–391, title I, § 111, Sept. 30, 1978, 92 Stat. 777; Pub. L. 111–145, § 3(a)(4), Mar. 4, 2010, 124 Stat. 52; Pub. L. 111–248, § 3(b), Sept. 30, 2010, 124 Stat. 2626, related to the per annum gross rate of compensation of the Chaplain of House, prior to repeal by Pub. L. 116–94, div. E, title II, § 212(b)(3)(D), Dec. 20, 2019, 133 Stat. 2777. Text was based on section 3 of House Resolution No. 661, Ninety-fifth Congress, July 29, 1977, which was enacted into permanent law by Pub. L. 95–391.
 
-#### Amendments
-2010—Pub. L. 111–248 restored section into permanent law.
-
-Pub. L. 111–145 repealed section.
-
-#### Effective Date of Restoration of Section
-Pub. L. 111–248, § 3(b), Sept. 30, 2010, 124 Stat. 2626, provided that: “Effective as if included in the enactment of Public Law 111–145, section 3 of House Resolution 661, Ninety-fifth Congress, agreed to July 29, 1977 ([2 U.S.C. 84–2](./chapter-004-officers-and-employees-of-senate-and-house-of-representatives.md#section-84-2)) [now [2 U.S.C. 5521](./chapter-055-house-of-representatives-officers-and-administration.md#section-5521)], is restored into permanent law.”
-
-#### Compensation of Individual Holding Position of Chaplain of House of Representatives on July 14, 1983
-House Resolution No. 7, Ninety-sixth Congress, Jan. 15, 1979, which was enacted into permanent law by Pub. L. 98–51, title I, § 111(1), July 14, 1983, 97 Stat. 269, to be effective during the period in which the position of Chaplain of the House of Representatives is held by the individual holding the position on July 14, 1983, provided that: “The compensation of the Chaplain of the House of Representatives shall be equivalent to the highest rate of basic pay as in effect from time to time of level IV of the Executive Schedule in Section 5315 of Title V [5], United States Code.”
-
-#### Increases in Compensation
-Increases in compensation for House officers and employees under authority of Federal Salary Act of 1967 (Pub. L. 90–206), Federal Pay Comparability Act of 1970 (Pub. L. 91–656), and Legislative Branch Appropriations Act, 1988 (Pub. L. 100–202), see sections 4531 and 4532 of this title, and Salary Directives of Speaker of the House, set out as notes under those sections.
+#### Effective Date
+Section effective on the later of the first day of the first applicable pay period beginning on or after Jan. 1, 2020, or the first day of the first applicable pay period beginning on or after Dec. 20, 2019, see section 212(c) of Pub. L. 116–94, set out as a note under [section 282b of this title](./chapter-009-office-of-legislative-counsel.md#section-282b).
 
 
 <a id="section-5531"></a>
@@ -798,6 +828,27 @@ Section is from the Emergency Supplemental Act, 2002, which is div. B of the Dep
 Section was formerly classified to [section 130k of this title](./chapter-004-officers-and-employees-of-senate-and-house-of-representatives.md#section-130k) prior to editorial reclassification and renumbering as this section.
 
 Section is from the Legislative Branch Appropriations Act, 2003, which is div. H of the Consolidated Appropriations Resolution, 2003.
+
+
+<a id="section-5548"></a>
+## § 5548. Payments to ensure continuing availability of goods and services during the coronavirus emergency
+**(a) Authorization to make payments** Notwithstanding any other provision of law and subject to subsection (b), during an emergency situation, the Chief Administrative Officer of the House of Representatives may make payments under contracts with vendors providing goods and services to the House in amounts and under terms and conditions other than those provided under the contract in order to ensure that those goods and services remain available to the House throughout the duration of the emergency.
+
+**(b) Conditions**
+
+(1) **Approval required** — The Chief Administrative Officer may not make payments under the authority of subsection (a) without the approval of the Committee on House Administration of the House of Representatives.
+
+(2) **Availability of appropriations** — The authority of the Chief Administrative Officer to make payments under the authority of subsection (a) is subject to the availability of appropriations to make such payments.
+
+**(c) Applicability** This section shall apply with respect to fiscal year 2020 and each succeeding fiscal year.
+
+### Statutory Notes
+
+#### Codification
+Section is from the Emergency Appropriations for Coronavirus Health Response and Agency Operations, which is div. B of the Coronavirus Aid, Relief, and Economic Security Act or the CARES Act.
+
+#### Definition
+For definition of “coronavirus”, see section 23005 of Pub. L. 116–136, set out as a note under [section 162b of this title](./chapter-005-library-of-congress.md#section-162b).
 
 
 <a id="section-5561"></a>

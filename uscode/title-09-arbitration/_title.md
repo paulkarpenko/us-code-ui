@@ -1,7 +1,7 @@
 ---
 title: 9
 heading: ARBITRATION
-positive_law: false
+positive_law: true
 sections: 31
 chapters: 3
 ---

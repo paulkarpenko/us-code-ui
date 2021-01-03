@@ -1760,6 +1760,9 @@ Amendment by section 2(f)–(h) of Pub. L. 102–401 effective Oct. 7, 1992, but
 #### Effective Date of 1990 Amendment
 Amendment by Pub. L. 101–501 effective Oct. 1, 1990, see section 1001(a) of Pub. L. 101–501, set out as a note under [section 8621 of this title](./chapter-094-low-income-energy-assistance.md#section-8621).
 
+#### Head Start Designation Renewal System
+Pub. L. 116–159, div. D, title IV, § 4401, Oct. 1, 2020, 134 Stat. 743, provided that: “Notwithstanding section 638 of the Head Start Act ([42 U.S.C. 9833](./chapter-105-community-services-programs.md#section-9833)), if the Secretary of Health and Human Services—“(1) is required to make a determination under paragraph (6) of section 641(c) of such Act ([42 U.S.C. 9836a(c)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section9836a/c&num=0&edition=prelim) [sic, probably should be “[42 U.S.C. 9836(c)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section9836/c&num=0&edition=prelim)”) whether to renew the designation of a Head Start agency for which such determination under the schedule developed pursuant to paragraph (9)(C) of such section 641(c) is required to be made before December 31, 2020; and “(2) cannot make such determination in accordance with such schedule because the Secretary lacks any information described in any of subparagraphs (A) through (E) of section 641(c)(1) of such Act required for the purpose of making such determination; then before December 31, 2020, the Secretary shall extend for not more than 2 years the 5-year period otherwise applicable to the designation of such Head Start agency under such Act [[42 U.S.C. 9831](./chapter-105-community-services-programs.md#section-9831) et seq.].”
+
 
 <a id="section-9836a"></a>
 ## § 9836a. Standards; monitoring of Head Start agencies and programs

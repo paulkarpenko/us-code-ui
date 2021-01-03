@@ -76,7 +76,7 @@ In subsection (c) the words “Under the Secretary” are inserted to make the p
 #### Prior Provisions
 A prior section 8072 was renumbered [section 9037 of this title](./chapter-905-the-air-staff.md#section-9037).
 
-A prior section 8074 was renumbered [section 9074 of this title](./chapter-907-the-air-force.md#section-9074).
+A prior section 8074 was renumbered [section 9074 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section9074&num=0&edition=prelim).
 
 #### Amendments
 2018—Pub. L. 115–232 renumbered [section 5132 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section5132&num=0&edition=prelim) as this section.
@@ -112,7 +112,7 @@ In subsection (a) all the provisions covering succession in case of the absence 
 That part of [5 U.S.C. 448a](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section448a&num=0&edition=prelim), enacted in the Act of June 20, 1940, ch. 400, § 1(f), 54 Stat. 493, relating to the succession by heads of major divisions of the Bureau of Ships is superseded by the Act of Feb. 3, 1942, ch. 35, § 1 ([5 U.S.C. 432a](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section432a&num=0&edition=prelim)).
 
 #### Prior Provisions
-A prior section 8075 was renumbered [section 9075 of this title](./chapter-907-the-air-force.md#section-9075).
+A prior section 8075 was renumbered [section 9075 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section9075&num=0&edition=prelim).
 
 A prior section 8076, act Aug. 10, 1956, ch. 1041, 70A Stat. 496, related to composition of Air Force Reserve, prior to repeal by Pub. L. 103–337, div. A, title XVI, §§ 1661(a)(3)(A), 1691, Oct. 5, 1994, 108 Stat. 2980, 3026, effective Dec. 1, 1994. See [section 10110 of this title](./chapter-1003-reserve-components-generally.md#section-10110).
 
@@ -297,7 +297,7 @@ In subsection (a) the words “from officers on the active list in the line of t
 In subsection (b) the words “An officer on the active list in the line of the Navy not below the grade of commander” are substituted for the words “An officer of the Navy not below the rank of commander” to conform to current terminology and for clarity. When the source statute was enacted only line officers had the actual rank of commander. The words “on the active list” are inserted for the reasons stated in the revision note on [§ 5137(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section5137/b&num=0&edition=prelim). The words “Deputy Chief” are substituted for the words “assistant to the Chief” for the reason stated in the revision note on [§ 5134 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section5134&num=0&edition=prelim).
 
 #### Prior Provisions
-A prior section 8081 was renumbered [section 9081 of this title](./chapter-907-the-air-force.md#section-9081).
+A prior section 8081 was renumbered [section 9081 of this title](./chapter-908-the-space-force.md#section-9081).
 
 #### Amendments
 2018—Pub. L. 115–232 renumbered [section 5141 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section5141&num=0&edition=prelim) as this section.
@@ -474,10 +474,15 @@ Amendment by Pub. L. 106–65 effective 60 days after Oct. 5, 1999, with special
 
 ### Statutory Notes
 
+#### Amendment of Subsection (b)(1)
+Pub. L. 116–92, div. A, title V, § 514, Dec. 20, 2019, 133 Stat. 1349, provided that, effective on the date that is one year after Dec. 20, 2019, and applicable to appointments made after such date, subsection (b)(1) of this section is amended by striking “general officers of the Marine Corps (as defined in section 8001(2))” and inserting “general officers of the Marine Corps Reserve”. See 2019 Amendment note below.
+
 #### Prior Provisions
-A prior section 8084 was renumbered [section 9084 of this title](./chapter-907-the-air-force.md#section-9084).
+A prior section 8084 was renumbered [section 9084 of this title](./chapter-908-the-space-force.md#section-9084).
 
 #### Amendments
+2019—Subsec. (b)(1). Pub. L. 116–92 substituted “general officers of the Marine Corps Reserve” for “general officers of the Marine Corps (as defined in section 8001(2))”.
+
 2018—Pub. L. 115–232, § 807(a)(2), renumbered [section 5144 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section5144&num=0&edition=prelim) as this section.
 
 Subsec. (b)(1). Pub. L. 115–232, § 809(a), substituted “section 8001(2)” for “section 5001(2)”.
@@ -507,6 +512,9 @@ Subsec. (c). Pub. L. 106–398, § 1 [[div. A], title V, § 507(c)], amended hea
 Subsec. (c)(2). Pub. L. 106–398, § 1 [[div. A], title X, § 1087(a)(19)], substituted “has the grade of” for “has a grade”.
 
 1999—Subsec. (c)(2). Pub. L. 106–65 substituted “major general” for “above brigadier general” and inserted at end “However, if selected in accordance with [section 12505 of this title](./chapter-1213-special-appointments-assignments-details-and-duties.md#section-12505), he may be appointed in the grade of lieutenant general.”
+
+#### Effective Date of 2019 Amendment
+Pub. L. 116–92, div. A, title V, § 514(b), Dec. 20, 2019, 133 Stat. 1349, provided that: “The amendment made by subsection (a) [amending this section] shall take effect on the date that is one year after the date of the enactment of this Act [Dec. 20, 2019] and shall apply to appointments made after such date.”
 
 #### Effective Date of 2018 Amendment
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).

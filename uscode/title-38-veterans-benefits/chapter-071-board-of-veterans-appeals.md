@@ -48,9 +48,17 @@ source: >-
 
   (D) the average length of time a case was before the Board between the time of the filing of an appeal and the disposition during the preceding fiscal year;
 
-  (E) the number of members of the Board at the end of the year and the number of professional, administrative, clerical, stenographic, and other personnel employed by the Board at the end of the preceding fiscal year; and
+  (E) the number of members of the Board at the end of the year and the number of professional, administrative, clerical, stenographic, and other personnel employed by the Board at the end of the preceding fiscal year;
 
-  (F) the number of employees of the Department designated under subsection (c)(1) to serve as acting members of the Board during that year and the number of cases in which each such member participated during that year.
+  (F) the number of employees of the Department designated under subsection (c)(1) to serve as acting members of the Board during that year and the number of cases in which each such member participated during that year; and
+
+  (G) with respect to hearings scheduled under [section 7107(c)(2)(C) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section7107/c/2/C&num=0&edition=prelim)—
+
+    (i) the number of hearings scheduled under such section;
+
+    (ii) the number of hearings under such section that were cancelled; and
+
+    (iii) any statistical difference in outcomes between cases heard under such section and those held at the principal location of the Board or by picture and voice transmission at a facility of the Department.
 
 (3) The projections in each such report for the current fiscal year and for the next fiscal year shall include (for each such year)—
 
@@ -63,6 +71,8 @@ source: >-
 ### Statutory Notes
 
 #### Amendments
+2020—Subsec. (d)(2)(G). Pub. L. 116–137 added subpar. (G).
+
 2001—Subsec. (a). Pub. L. 107–14 substituted “hereinafter” for “hereafter”.
 
 1998—Subsec. (b)(1). Pub. L. 105–368 substituted “Court of Appeals for Veterans Claims” for “Court of Veterans Appeals”.
@@ -130,6 +140,9 @@ Amendment by Pub. L. 105–368 effective on first day of first month beginning m
 
 #### Effective Date of 1988 Amendment
 Amendment by section 201(a) of Pub. L. 100–687 effective Feb. 1, 1989, amendment by section 202(b) of Pub. L. 100–687 effective Jan. 1, 1989, and amendment by sections 208 and 209 of Pub. L. 100–687 effective Nov. 18, 1988, see section 401(b)–(d) of Pub. L. 100–687, set out as an Effective Date note under [section 7251 of this title](./chapter-072-united-states-court-of-appeals-for-veterans-claims.md#section-7251).
+
+#### One-Time Reporting Requirements
+Pub. L. 116–137, § 2(c)(2), Apr. 10, 2020, 134 Stat. 617, provided that: “The first report required to be submitted under [section 7101(d) of title 38](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section7101/d&num=0&edition=prelim), United States Code, shall include the following information with respect to hearings scheduled under subparagraph (C) of paragraph (2) of subsection (c) of section 7101 [probably should be “7107”] of such title, as added by subsection (a): “(A) An outline of the outreach the Secretary of Veterans Affairs plans to conduct to inform veterans, families of veterans, survivors of veterans, veterans service organizations, military service organizations, congressional caseworkers, advocates for veterans, and such other stakeholders as the Secretary considers appropriate about hearings scheduled under such subparagraph, including—“(i) a description of the resources required to conduct such outreach; “(ii) a timeline for conducting such outreach; and “(iii) information related to the advantages and potential technological challenges of conducting hearings under such subparagraph. “(B) A description of any modifications to the information technology systems of the Veterans Benefits Administration and the Board of Veterans’ Appeals required to carry out hearings under such subparagraph, including cost estimates and a timeline for making such modifications. “(C) A detailed description of the intra-agency partnership between the Board of Veterans’ Appeals and the telehealth program of the Veterans Health Administration as the Board conducts hearings under such subparagraph, including best practices, a risk assessment overview, risk mitigation efforts, and a plan for ongoing collaboration and information sharing.”
 
 #### Board of Veterans’ Appeals
 Pub. L. 100–687, div. A, title II, § 201(c), (d), Nov. 18, 1988, 102 Stat. 4109, 4110, provided that: “(c) Transition to New Board.—(1) Appointments of members of the Board of Veterans’ Appeals under subsection (b)(2) of section 4001 [now 7101] of title 38, United States Code (as amended by subsection (a)), may not be made until a Chairman is appointed under subsection (b)(1) of that section. “(2) An individual who is serving as a member of the Board on the date of the enactment of this Act [Nov. 18, 1988] may continue to serve as a member until the earlier of—“(A) the date on which the individual’s successor (as designated by the Administrator) is appointed under subsection (b)(2) of that section, or “(B) the end of the 180-day period beginning on the day after the date on which the Chairman is appointed under subsection (b)(1) of such section. “(d) Initial Terms of Office.—Notwithstanding the second sentence of section 4001(b)(2) [now 7101(b)(2)] of title 38, United States Code (as amended by subsection (a)), specifying the term for which members of the Board of Veterans’ Appeals shall be appointed, of the members first appointed under that section—“(A) 22 shall be appointed for a term of three years; “(B) 22 shall be appointed for a term of six years; and “(C) 22 shall be appointed for a term of nine years, as determined by the Administrator [now Secretary] at the time of the initial appointments.”
@@ -256,9 +269,6 @@ Subsec. (c). Pub. L. 98–223, § 208(d)(4), designated provision relating to th
 
 ### Statutory Notes
 
-#### Applicability of Amendment
-Amendment of section by section 2(o) of Pub. L. 115–55 applicable to all claims for which the Secretary of Veterans Affairs provides notice of a decision under [section 5104 of this title](./chapter-051-claims-effective-dates-and-payments.md#section-5104) on or after the later of 540 days after Aug. 23, 2017, or 30 days after the date on which the Secretary submits to Congress a certification of certain capabilities of the Department of Veterans Affairs to carry out the new appeals system established by Pub. L. 115–55 and to address appeals of decisions on legacy claims, with provision for early applicability of the new appeals system to certain claims. See 2017 Amendment below.
-
 #### Amendments
 2017—Subsec. (b)(1). Pub. L. 115–55 substituted “decided” for “heard” in subpars. (A) and (B).
 
@@ -275,7 +285,7 @@ Amendment of section by section 2(o) of Pub. L. 115–55 applicable to all claim
 1988—Pub. L. 100–687, in amending section generally, added subsec. (a), struck out former subsec. (a) which provided that determination of section, when unanimous, be final determination of Board, added subsec. (b), struck out former subsec. (b) which provided that when there is disagreement among members of section, concurrence of Chairman with majority of members of section shall constitute final determination of Board, and added subsec. (c).
 
 #### Effective Date of 2017 Amendment
-Amendment by Pub. L. 115–55 applicable to all claims for which the Secretary of Veterans Affairs provides notice of a decision under [section 5104 of this title](./chapter-051-claims-effective-dates-and-payments.md#section-5104) on or after the later of 540 days after Aug. 23, 2017, or 30 days after the date on which the Secretary submits to Congress a certification of certain capabilities of the Department of Veterans Affairs to carry out the new appeals system established by Pub. L. 115–55 and to address appeals of decisions on legacy claims, with provision for early applicability of the new appeals system to certain claims, see section 2(x) of Pub. L. 115–55, set out as a note under [section 101 of this title](./chapter-001-general.md#section-101).
+Amendment by Pub. L. 115–55 applicable to all claims for which the Secretary of Veterans Affairs provides notice of a decision under [section 5104 of this title](./chapter-051-claims-effective-dates-and-payments.md#section-5104) on or after the later of 540 days after Aug. 23, 2017, or 30 days after the date on which the Secretary submits to Congress a certification of certain capabilities of the Department of Veterans Affairs to carry out the new appeals system established by Pub. L. 115–55 and to address appeals of decisions on legacy claims, with provision for early applicability of the new appeals system to certain claims, see section 2(x) of Pub. L. 115–55, set out as a note under [section 101 of this title](./chapter-001-general.md#section-101), and bracketed note thereunder.
 
 #### Effective Date of 1988 Amendment
 Amendment by Pub. L. 100–687 effective Jan. 1, 1989, see section 401(d) of Pub. L. 100–687, set out as an Effective Date note under [section 7251 of this title](./chapter-072-united-states-court-of-appeals-for-veterans-claims.md#section-7251).
@@ -313,9 +323,6 @@ Amendment by Pub. L. 100–687 effective Jan. 1, 1989, see section 401(d) of Pub
 
 ### Statutory Notes
 
-#### Applicability of Amendment
-Amendment of section by section 2(p), (w)(2) of Pub. L. 115–55 applicable to all claims for which the Secretary of Veterans Affairs provides notice of a decision under [section 5104 of this title](./chapter-051-claims-effective-dates-and-payments.md#section-5104) on or after the later of 540 days after Aug. 23, 2017, or 30 days after the date on which the Secretary submits to Congress a certification of certain capabilities of the Department of Veterans Affairs to carry out the new appeals system established by Pub. L. 115–55 and to address appeals of decisions on legacy claims, with provision for early applicability of the new appeals system to certain claims. See 2017 Amendment notes below.
-
 #### Amendments
 2017—Subsec. (b). Pub. L. 115–55, § 2(p), substituted “readjudicated” for “reopened”.
 
@@ -352,7 +359,7 @@ Subsecs. (d), (e). Pub. L. 100–687, § 205, added subsecs. (d) and (e) and str
 1961—Subsec. (d). Pub. L. 87–97 added subsec. (d).
 
 #### Effective Date of 2017 Amendment
-Amendment by Pub. L. 115–55 applicable to all claims for which the Secretary of Veterans Affairs provides notice of a decision under [section 5104 of this title](./chapter-051-claims-effective-dates-and-payments.md#section-5104) on or after the later of 540 days after Aug. 23, 2017, or 30 days after the date on which the Secretary submits to Congress a certification of certain capabilities of the Department of Veterans Affairs to carry out the new appeals system established by Pub. L. 115–55 and to address appeals of decisions on legacy claims, with provision for early applicability of the new appeals system to certain claims, see section 2(x) of Pub. L. 115–55, set out as a note under [section 101 of this title](./chapter-001-general.md#section-101).
+Amendment by Pub. L. 115–55 applicable to all claims for which the Secretary of Veterans Affairs provides notice of a decision under [section 5104 of this title](./chapter-051-claims-effective-dates-and-payments.md#section-5104) on or after the later of 540 days after Aug. 23, 2017, or 30 days after the date on which the Secretary submits to Congress a certification of certain capabilities of the Department of Veterans Affairs to carry out the new appeals system established by Pub. L. 115–55 and to address appeals of decisions on legacy claims, with provision for early applicability of the new appeals system to certain claims, see section 2(x) of Pub. L. 115–55, set out as a note under [section 101 of this title](./chapter-001-general.md#section-101), and bracketed note thereunder.
 
 #### Effective Date of 1991 Amendment
 Pub. L. 102–54, § 14(g)(2), June 13, 1991, 105 Stat. 288, provided that the amendment made by that section is effective Nov. 18, 1988.
@@ -408,9 +415,6 @@ Pub. L. 87–97, § 2, July 20, 1961, 75 Stat. 215, provided that: “The amendm
 
 ### Statutory Notes
 
-#### Applicability of Amendment
-Amendment of section by section 2(q)(1) of Pub. L. 115–55 applicable to all claims for which the Secretary of Veterans Affairs provides notice of a decision under [section 5104 of this title](./chapter-051-claims-effective-dates-and-payments.md#section-5104) on or after the later of 540 days after Aug. 23, 2017, or 30 days after the date on which the Secretary submits to Congress a certification of certain capabilities of the Department of Veterans Affairs to carry out the new appeals system established by Pub. L. 115–55 and to address appeals of decisions on legacy claims, with provision for early applicability of the new appeals system to certain claims. See 2017 Amendment notes below.
-
 #### Amendments
 2017—Pub. L. 115–55, § 2(q)(1)(F), struck out “notice of disagreement and” before “appeal” in section catchline.
 
@@ -459,7 +463,7 @@ Subsec. (d)(5). Pub. L. 100–687, § 203(b), struck out “will base its decisi
 Subsec. (d)(1), (3). Pub. L. 99–576, § 701(85)(A), substituted “the claimant’s” for “his”.
 
 #### Effective Date of 2017 Amendment
-Amendment by Pub. L. 115–55 applicable to all claims for which the Secretary of Veterans Affairs provides notice of a decision under [section 5104 of this title](./chapter-051-claims-effective-dates-and-payments.md#section-5104) on or after the later of 540 days after Aug. 23, 2017, or 30 days after the date on which the Secretary submits to Congress a certification of certain capabilities of the Department of Veterans Affairs to carry out the new appeals system established by Pub. L. 115–55 and to address appeals of decisions on legacy claims, with provision for early applicability of the new appeals system to certain claims, see section 2(x) of Pub. L. 115–55, set out as a note under [section 101 of this title](./chapter-001-general.md#section-101).
+Amendment by Pub. L. 115–55 applicable to all claims for which the Secretary of Veterans Affairs provides notice of a decision under [section 5104 of this title](./chapter-051-claims-effective-dates-and-payments.md#section-5104) on or after the later of 540 days after Aug. 23, 2017, or 30 days after the date on which the Secretary submits to Congress a certification of certain capabilities of the Department of Veterans Affairs to carry out the new appeals system established by Pub. L. 115–55 and to address appeals of decisions on legacy claims, with provision for early applicability of the new appeals system to certain claims, see section 2(x) of Pub. L. 115–55, set out as a note under [section 101 of this title](./chapter-001-general.md#section-101), and bracketed note thereunder.
 
 #### Effective Date of 2012 Amendment
 Pub. L. 112–154, title V, § 501(b), Aug. 6, 2012, 126 Stat. 1190, provided that: “Subsection (e) of such section [[38 U.S.C. 7105(e)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section7105/e&num=0&edition=prelim)], as added by subsection (a), shall take effect on the date that is 180 days after the date of the enactment of this Act [Aug. 6, 2012], and shall apply with respect to claims for which a substantive appeal is filed on or after the date that is 180 days after the date of the enactment of this Act.”
@@ -483,9 +487,6 @@ Pub. L. 87–666, § 3, Sept. 19, 1962, 76 Stat. 554, provided that: “The amen
 
 ### Statutory Notes
 
-#### Applicability of Amendment
-Amendment of section by section 2(r) of Pub. L. 115–55 applicable to all claims for which the Secretary of Veterans Affairs provides notice of a decision under [section 5104 of this title](./chapter-051-claims-effective-dates-and-payments.md#section-5104) on or after the later of 540 days after Aug. 23, 2017, or 30 days after the date on which the Secretary submits to Congress a certification of certain capabilities of the Department of Veterans Affairs to carry out the new appeals system established by Pub. L. 115–55 and to address appeals of decisions on legacy claims, with provision for early applicability of the new appeals system to certain claims. See 2017 Amendment note below.
-
 #### Prior Provisions
 Provisions similar to those comprising this section were contained in former [section 4007 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section4007&num=0&edition=prelim), prior to the general amendment of sections 4005 to 4007 by Pub. L. 87–666.
 
@@ -495,7 +496,7 @@ Provisions similar to those comprising this section were contained in former [se
 1991—Pub. L. 102–40 renumbered [section 4005A of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section4005A&num=0&edition=prelim) as this section and substituted “7105” for “4005” in subsec. (b).
 
 #### Effective Date of 2017 Amendment
-Amendment by Pub. L. 115–55 applicable to all claims for which the Secretary of Veterans Affairs provides notice of a decision under [section 5104 of this title](./chapter-051-claims-effective-dates-and-payments.md#section-5104) on or after the later of 540 days after Aug. 23, 2017, or 30 days after the date on which the Secretary submits to Congress a certification of certain capabilities of the Department of Veterans Affairs to carry out the new appeals system established by Pub. L. 115–55 and to address appeals of decisions on legacy claims, with provision for early applicability of the new appeals system to certain claims, see section 2(x) of Pub. L. 115–55, set out as a note under [section 101 of this title](./chapter-001-general.md#section-101).
+Amendment by Pub. L. 115–55 applicable to all claims for which the Secretary of Veterans Affairs provides notice of a decision under [section 5104 of this title](./chapter-051-claims-effective-dates-and-payments.md#section-5104) on or after the later of 540 days after Aug. 23, 2017, or 30 days after the date on which the Secretary submits to Congress a certification of certain capabilities of the Department of Veterans Affairs to carry out the new appeals system established by Pub. L. 115–55 and to address appeals of decisions on legacy claims, with provision for early applicability of the new appeals system to certain claims, see section 2(x) of Pub. L. 115–55, set out as a note under [section 101 of this title](./chapter-001-general.md#section-101), and bracketed note thereunder.
 
 #### Effective Date
 Section effective Jan. 1, 1963, see section 3 of Pub. L. 87–666, set out as a note under [section 7105 of this title](./chapter-071-board-of-veterans-appeals.md#section-7105).
@@ -511,7 +512,7 @@ Section, added Pub. L. 87–666, § 1, Sept. 19, 1962, 76 Stat. 554, § 4006; re
 Provisions similar to those comprising this section were contained in subsec. (c)(2) of former [section 4005 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section4005&num=0&edition=prelim), prior to the general amendment of sections 4005 to 4007 by Pub. L. 87–666.
 
 #### Effective Date of Repeal
-Repeal applicable to all claims for which the Secretary of Veterans Affairs provides notice of a decision under [section 5104 of this title](./chapter-051-claims-effective-dates-and-payments.md#section-5104) on or after the later of 540 days after Aug. 23, 2017, or 30 days after the date on which the Secretary submits to Congress a certification of certain capabilities of the Department of Veterans Affairs to carry out the new appeals system established by Pub. L. 115–55 and to address appeals of decisions on legacy claims, with provision for early applicability of the new appeals system to certain claims, see section 2(x) of Pub. L. 115–55, set out as an Effective Date of 2017 Amendment note under [section 101 of this title](./chapter-001-general.md#section-101).
+Repeal applicable to all claims for which the Secretary of Veterans Affairs provides notice of a decision under [section 5104 of this title](./chapter-051-claims-effective-dates-and-payments.md#section-5104) on or after the later of 540 days after Aug. 23, 2017, or 30 days after the date on which the Secretary submits to Congress a certification of certain capabilities of the Department of Veterans Affairs to carry out the new appeals system established by Pub. L. 115–55 and to address appeals of decisions on legacy claims, with provision for early applicability of the new appeals system to certain claims, see section 2(x) of Pub. L. 115–55, set out as an Effective Date of 2017 Amendment note under [section 101 of this title](./chapter-001-general.md#section-101), and bracketed note thereunder.
 
 
 <a id="section-7107"></a>
@@ -558,9 +559,19 @@ Repeal applicable to all claims for which the Secretary of Veterans Affairs prov
 
 (2)
 
-  (A) Upon notification of a Board hearing at the Board’s principal location as described in subparagraph (A) of paragraph (1), the appellant may alternatively request a hearing as described in subparagraph (B) of such paragraph. If so requested, the Board shall grant such request.
+  (A) Upon notification of a Board hearing at the Board’s principal location as described in subparagraph (A) of paragraph (1), the appellant may alternatively request a hearing as described in subparagraph (B) of such paragraph or subparagraph (C) of this paragraph. If so requested, the Board shall grant such request.
 
-  (B) Upon notification of a Board hearing by picture and voice transmission as described in subparagraph (B) of paragraph (1), the appellant may alternatively request a hearing as described in subparagraph (A) of such paragraph. If so requested, the Board shall grant such request.
+  (B) Upon notification of a Board hearing by picture and voice transmission as described in subparagraph (B) of paragraph (1), the appellant may alternatively request a hearing as described in subparagraph (A) of such paragraph or subparagraph (C) of this paragraph. If so requested, the Board shall grant such request.
+
+  (C)
+
+    (i) Upon notification of a Board hearing under subparagraph (A) or (B) of paragraph (1), the appellant may alternatively request a hearing by picture and voice transmission—
+
+      (I) at a location selected by the appellant; and
+
+      (II) via a secure internet platform established and maintained by the Secretary that protects sensitive personal information from a data breach.
+
+    (ii) If an appellant makes a request under clause (i), the Board shall grant such request.
 
 **(d) Screening of Cases.—** Nothing in this section shall be construed to preclude the screening of cases for purposes of—
 
@@ -572,10 +583,13 @@ Repeal applicable to all claims for which the Secretary of Veterans Affairs prov
 
 ### Statutory Notes
 
-#### Applicability of Amendment
-Amendment of section by section 2(t) of Pub. L. 115–55 applicable to all claims for which the Secretary of Veterans Affairs provides notice of a decision under [section 5104 of this title](./chapter-051-claims-effective-dates-and-payments.md#section-5104) on or after the later of 540 days after Aug. 23, 2017, or 30 days after the date on which the Secretary submits to Congress a certification of certain capabilities of the Department of Veterans Affairs to carry out the new appeals system established by Pub. L. 115–55 and to address appeals of decisions on legacy claims, with provision for early applicability of the new appeals system to certain claims. See 2017 Amendment note below.
-
 #### Amendments
+2020—Subsec. (c)(2)(A). Pub. L. 116–137, § 2(a)(1), inserted “or subparagraph (C) of this paragraph” after “subparagraph (B) of such paragraph”.
+
+Subsec. (c)(2)(B). Pub. L. 116–137, § 2(a)(2), inserted “or subparagraph (C) of this paragraph” after “subparagraph (A) of such paragraph”.
+
+Subsec. (c)(2)(C). Pub. L. 116–137, § 2(a)(3), added subpar. (C).
+
 2017—Pub. L. 115–55 amended section generally. Prior to amendment, section consisted of subsecs. (a) to (f) relating to order of cases, opportunity for hearing, maintenance of hearing docket and holding of hearings by the Board, location and type of hearings, hearings conducted by electronic or other means, and screening of cases, respectively.
 
 2016—Subsec. (d)(1). Pub. L. 114–315, § 102(1), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “An appellant may request that a hearing before the Board be held at its principal location or at a facility of the Department located within the area served by a regional office of the Department.”
@@ -601,7 +615,13 @@ Pub. L. 103–271 amended section generally. Prior to amendment, text read as fo
 1962—Pub. L. 87–666 renumbered [section 4006 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section4006&num=0&edition=prelim) as this section.
 
 #### Effective Date of 2017 Amendment
-Amendment by Pub. L. 115–55 applicable to all claims for which the Secretary of Veterans Affairs provides notice of a decision under [section 5104 of this title](./chapter-051-claims-effective-dates-and-payments.md#section-5104) on or after the later of 540 days after Aug. 23, 2017, or 30 days after the date on which the Secretary submits to Congress a certification of certain capabilities of the Department of Veterans Affairs to carry out the new appeals system established by Pub. L. 115–55 and to address appeals of decisions on legacy claims, with provision for early applicability of the new appeals system to certain claims, see section 2(x) of Pub. L. 115–55, set out as a note under [section 101 of this title](./chapter-001-general.md#section-101).
+Amendment by Pub. L. 115–55 applicable to all claims for which the Secretary of Veterans Affairs provides notice of a decision under [section 5104 of this title](./chapter-051-claims-effective-dates-and-payments.md#section-5104) on or after the later of 540 days after Aug. 23, 2017, or 30 days after the date on which the Secretary submits to Congress a certification of certain capabilities of the Department of Veterans Affairs to carry out the new appeals system established by Pub. L. 115–55 and to address appeals of decisions on legacy claims, with provision for early applicability of the new appeals system to certain claims, see section 2(x) of Pub. L. 115–55, set out as a note under [section 101 of this title](./chapter-001-general.md#section-101), and bracketed note thereunder.
+
+#### Deadline for Implementation
+Pub. L. 116–137, § 2(b), Apr. 10, 2020, 134 Stat. 616, provided that: “The Secretary shall implement the amendments made by subsection (a) [amending this section] not later than 180 days after the date of the enactment of this Act [Apr. 10, 2020].”
+
+#### Collaboration
+Pub. L. 116–137, § 2(d), Apr. 10, 2020, 134 Stat. 617, provided that: “In developing the capacity and procedures to conduct hearings under subparagraph (C) of paragraph (2) of subsection (c) of section 7101 [probably should be “7107”] of title 38, United States Code, as added by subsection (a), the Secretary of Veterans Affairs shall collaborate with, partner with, and give weight to the advice of veterans service organizations and such other stakeholders as the Secretary considers appropriate.”
 
 
 <a id="section-7108"></a>
@@ -623,7 +643,7 @@ An application for review on appeal shall not be entertained unless it is in con
 Section, added Pub. L. 87–671, § 1, Sept. 19, 1962, 76 Stat. 557, § 4009; amended Pub. L. 100–687, div. A, title I, § 103(b), Nov. 18, 1988, 102 Stat. 4107; renumbered § 7109, Pub. L. 102–40, title IV, § 402(b)(1), May 7, 1991, 105 Stat. 238; Pub. L. 102–83, § 4(a)(3), (4), (b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 404, 405, related to advisory medical opinions from one or more independent medical experts who are not employees of the Department.
 
 #### Effective Date of Repeal
-Repeal applicable to all claims for which the Secretary of Veterans Affairs provides notice of a decision under [section 5104 of this title](./chapter-051-claims-effective-dates-and-payments.md#section-5104) on or after the later of 540 days after Aug. 23, 2017, or 30 days after the date on which the Secretary submits to Congress a certification of certain capabilities of the Department of Veterans Affairs to carry out the new appeals system established by Pub. L. 115–55 and to address appeals of decisions on legacy claims, with provision for early applicability of the new appeals system to certain claims, see section 2(x) of Pub. L. 115–55, set out as an Effective Date of 2017 Amendment note under [section 101 of this title](./chapter-001-general.md#section-101).
+Repeal applicable to all claims for which the Secretary of Veterans Affairs provides notice of a decision under [section 5104 of this title](./chapter-051-claims-effective-dates-and-payments.md#section-5104) on or after the later of 540 days after Aug. 23, 2017, or 30 days after the date on which the Secretary submits to Congress a certification of certain capabilities of the Department of Veterans Affairs to carry out the new appeals system established by Pub. L. 115–55 and to address appeals of decisions on legacy claims, with provision for early applicability of the new appeals system to certain claims, see section 2(x) of Pub. L. 115–55, set out as an Effective Date of 2017 Amendment note under [section 101 of this title](./chapter-001-general.md#section-101), and bracketed note thereunder.
 
 
 <a id="section-7110"></a>
@@ -650,14 +670,11 @@ Section, added Pub. L. 100–687, div. A, title II, § 207(a), Nov. 18, 1988, 10
 
 ### Statutory Notes
 
-#### Applicability of Amendment
-Amendment of section by section 2(v) of Pub. L. 115–55 applicable to all claims for which the Secretary of Veterans Affairs provides notice of a decision under [section 5104 of this title](./chapter-051-claims-effective-dates-and-payments.md#section-5104) on or after the later of 540 days after Aug. 23, 2017, or 30 days after the date on which the Secretary submits to Congress a certification of certain capabilities of the Department of Veterans Affairs to carry out the new appeals system established by Pub. L. 115–55 and to address appeals of decisions on legacy claims, with provision for early applicability of the new appeals system to certain claims. See 2017 Amendment note below.
-
 #### Amendments
 2017—Subsec. (e). Pub. L. 115–55 struck out “, without referral to any adjudicative or hearing official acting on behalf of the Secretary” after “merits”.
 
 #### Effective Date of 2017 Amendment
-Amendment by Pub. L. 115–55 applicable to all claims for which the Secretary of Veterans Affairs provides notice of a decision under [section 5104 of this title](./chapter-051-claims-effective-dates-and-payments.md#section-5104) on or after the later of 540 days after Aug. 23, 2017, or 30 days after the date on which the Secretary submits to Congress a certification of certain capabilities of the Department of Veterans Affairs to carry out the new appeals system established by Pub. L. 115–55 and to address appeals of decisions on legacy claims, with provision for early applicability of the new appeals system to certain claims, see section 2(x) of Pub. L. 115–55, set out as a note under [section 101 of this title](./chapter-001-general.md#section-101).
+Amendment by Pub. L. 115–55 applicable to all claims for which the Secretary of Veterans Affairs provides notice of a decision under [section 5104 of this title](./chapter-051-claims-effective-dates-and-payments.md#section-5104) on or after the later of 540 days after Aug. 23, 2017, or 30 days after the date on which the Secretary submits to Congress a certification of certain capabilities of the Department of Veterans Affairs to carry out the new appeals system established by Pub. L. 115–55 and to address appeals of decisions on legacy claims, with provision for early applicability of the new appeals system to certain claims, see section 2(x) of Pub. L. 115–55, set out as a note under [section 101 of this title](./chapter-001-general.md#section-101), and bracketed note thereunder.
 
 #### Effective Date
 Section applicable to any determination made before, on, or after Nov. 21, 1997, see section 1(c)(1) of Pub. L. 105–111, set out as a note under [section 5109A of this title](./chapter-051-claims-effective-dates-and-payments.md#section-5109a).

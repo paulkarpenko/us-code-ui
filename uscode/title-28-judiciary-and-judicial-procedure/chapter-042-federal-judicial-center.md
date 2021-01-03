@@ -159,11 +159,11 @@ The General Schedule, referred to in subsec. (b), is set out under [section 5332
 
 The Civil Service Retirement Act, referred to in subsec. (b), is act May 29, 1930, ch. 349, 46 Stat. 468, as amended by act July 31, 1956, ch. 804, § 401, 70 Stat. 743, which was repealed by Pub. L. 89–554, § 8(a), Sept. 6, 1966, 80 Stat. 632, and reenacted by the first section thereof as subchapter III (§ 8331 et seq.) of chapter 83 of Title 5.
 
-#### References in Other Laws to GS–16, 17, or 18 Pay Rates
-References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 [title I, § 101(c)(1)] of Pub. L. 101–509, set out in a note under [section 5376 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5376&num=0&edition=prelim).
-
 #### Amendments
 1992—Subsec. (c). Pub. L. 102–572 substituted “competitive service without regard to” for “competitive service and”.
+
+#### References in Other Laws to GS–16, 17, or 18 Pay Rates
+References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 [title I, § 101(c)(1)] of Pub. L. 101–509, set out in a note under [section 5376 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5376&num=0&edition=prelim).
 
 #### Effective Date of 1992 Amendment
 Amendment by Pub. L. 102–572 effective Jan. 1, 1993, see section 1101(a) of Pub. L. 102–572, set out as a note under [section 905 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section905&num=0&edition=prelim), The Congress.

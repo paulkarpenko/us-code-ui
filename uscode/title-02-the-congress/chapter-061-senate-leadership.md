@@ -249,6 +249,9 @@ Section was formerly classified to [section 61h–4 of this title](./chapter-004
 
 Section is from the Supplemental Appropriations Act, 1977.
 
+#### Managing Political Fund Activity
+Pub. L. 116–94, div. P, title XVII, § 1701, Dec. 20, 2019, 133 Stat. 3220, provided that: “The Majority Leader and the Minority Leader may each designate up to 2 employees of their respective leadership office staff as designees referred to in the second sentence of paragraph 1 of rule XLI of the Standing Rules of the Senate.”
+
 #### Increases in Compensation
 Increases in compensation for Senate officers and employees under authority of Federal Pay Comparability Act of 1970 (Pub. L. 91–656), see Salary Directives of President pro tempore of the Senate, set out as notes under [section 4571 of this title](./chapter-045-congressional-pay-and-benefits.md#section-4571).
 
@@ -271,7 +274,7 @@ Increases in compensation for Senate officers and employees under authority of F
 
 <a id="section-6133"></a>
 ## § 6133. Chiefs of Staff for Senate Majority and Minority Leaders; appointment; compensation
-**(a)** There is established within the Offices of the Majority and Minority Leaders the positions of Chief of Staff for the Majority Leader and Chief of Staff for the Minority Leader, respectively. Individuals appointed to such positions by the Majority Leader and Minority Leader, respectively, shall receive compensation at a rate fixed by the appropriate Leader not to exceed the maximum annual rate of gross compensation of the Assistant Secretary of the Senate.
+**(a)** There is established within the Offices of the Majority and Minority Leaders the positions of Chief of Staff for the Majority Leader and Chief of Staff for the Minority Leader, respectively. Individuals appointed to such positions by the Majority Leader and Minority Leader, respectively, shall receive compensation at a rate fixed by the appropriate Leader.
 
 **(b)** Gross compensation for employees filling positions established by subsection (a) for the fiscal year ending September 30, 1987, shall be paid out of any funds available in the Senate appropriation for such year under the item “Salaries, Officers and Employees”.
 
@@ -281,6 +284,12 @@ Increases in compensation for Senate officers and employees under authority of F
 Section was formerly classified to [section 61h–7 of this title](./chapter-004-officers-and-employees-of-senate-and-house-of-representatives.md#section-61h-7) prior to editorial reclassification and renumbering as this section.
 
 Section is based on Senate Resolution No. 89, One Hundredth Congress, Jan. 28, 1987, which was enacted into permanent law by Pub. L. 101–163.
+
+#### Amendments
+2019—Subsec. (a). Pub. L. 116–94 substituted “by the appropriate Leader.” for “by the appropriate Leader not to exceed the maximum annual rate of gross compensation of the Assistant Secretary of the Senate.”
+
+#### Effective Date of 2019 Amendment
+Amendment by Pub. L. 116–94 effective on the later of the first day of the first applicable pay period beginning on or after Jan. 1, 2020, or the first day of the first applicable pay period beginning on or after Dec. 20, 2019, see section 212(c) of Pub. L. 116–94, set out as a note under [section 282b of this title](./chapter-009-office-of-legislative-counsel.md#section-282b).
 
 #### Effective Date
 Pub. L. 101–163, title I, § 9, Nov. 21, 1989, 103 Stat. 1046, provided that this section is effective on Jan. 28, 1987, the date on which Senate Resolution No. 89, One Hundredth Congress, was agreed to.
@@ -379,21 +388,26 @@ The Secretary for the Majority of the Senate (other than the incumbent holding o
 Section was formerly classified to [section 61g of this title](./chapter-004-officers-and-employees-of-senate-and-house-of-representatives.md#section-61g) prior to editorial reclassification and renumbering as this section.
 
 #### Amendments
+2019—Pub. L. 116–94 repealed Pub. L. 94–59, § 105. See 1975 Amendment note below.
+
 1977—Pub. L. 95–26 substituted “April 1, 1977” for “July 1, 1975”. Provisions covering the compensation of the incumbent holding the office of Secretary for the Majority of the Senate on July 1, 1975, were dropped as executed. See successor provisions set out as a note below.
 
-1975—Pub. L. 94–59 increased annual rate of compensation of both Secretary for Majority of Senate and Secretary for Minority of Senate from $38,190 to $39,500 and substituted provisions excepting incumbent Secretary for Majority holding office on July 1, 1975, from mandatory payment of $39,500 rate but authorizing payment to him as long as he occupies that position at a maximum annual rate of compensation not to exceed $39,500 for provisions excepting Secretary for Majority holding office on June 15, 1974, from mandatory payment of the $38,190 rate but authorizing payment to him as long as he occupied that position at a maximum annual rate of compensation not to exceed $38,190.
+1975—Pub. L. 94–59, which increased annual rate of compensation of both Secretary for Majority of Senate and Secretary for Minority of Senate from $38,190 to $39,500 and substituted provisions excepting incumbent Secretary for Majority holding office on July 1, 1975, from mandatory payment of $39,500 rate but authorizing payment to him as long as he occupies that position at a maximum annual rate of compensation not to exceed $39,500 for provisions excepting Secretary for Majority holding office on June 15, 1974, from mandatory payment of the $38,190 rate but authorizing payment to him as long as he occupied that position at a maximum annual rate of compensation not to exceed $38,190, was repealed by Pub. L. 116–94. See above.
+
+#### Effective Date of 2019 Amendment
+Amendment by Pub. L. 116–94 effective on the later of the first day of the first applicable pay period beginning on or after Jan. 1, 2020, or the first day of the first applicable pay period beginning on or after Dec. 20, 2019, see section 212(c) of Pub. L. 116–94, set out as a note under [section 282b of this title](./chapter-009-office-of-legislative-counsel.md#section-282b).
 
 #### Effective Date of 1975 Amendment
-Pub. L. 94–59, title I, § 105, July 25, 1975, 89 Stat. 275, provided that the increase in the rate of compensation to $39,500 is effective July 1, 1975.
+Pub. L. 94–59, title I, § 105, July 25, 1975, 89 Stat. 275, which provided that the increase in the rate of compensation to $39,500 was effective July 1, 1975, was repealed by Pub. L. 116–94, div. E, title II, § 212(a)(3)(A), Dec. 20, 2019, 133 Stat. 2775.
 
 #### Effective Date
-Section effective July 1, 1974, see section 4 of Pub. L. 93–371, set out in part as an Effective Date of 1974 Amendment note under [section 6531 of this title](./chapter-065-senate-officers-and-administration.md#section-6531).
+Section effective July 1, 1974, see section 4 of Pub. L. 93–371, set out in part as an Effective Date of 1974 Amendment note under [section 273 of this title](./chapter-009-office-of-legislative-counsel.md#section-273).
 
 #### Compensation of Incumbent Holding Position of Secretary for the Majority on April 1, 1977
 Pub. L. 95–26, title I, § 102(b), May 4, 1977, 91 Stat. 82, provided that: “The Majority Leader of the Senate is authorized to fix the compensation of the Secretary for the Majority so long as the position is held by the incumbent holding such position on April 1, 1977.”
 
 #### 1974 Adjustment in Compensation Not To Supersede Adjustments in Compensation or Limitations by President Pro Tempore of the Senate
-Adjustment in compensation by Pub. L. 93–371 not to supersede order of President pro tempore of the Senate authorizing higher rate of compensation or any authority of President pro tempore to adjust rates of compensation or limitations under section 4 of the Federal Pay Comparability Act of 1970, see section 4 of Pub. L. 93–371, set out in part as a note under [section 6531 of this title](./chapter-065-senate-officers-and-administration.md#section-6531).
+Adjustment in compensation by Pub. L. 93–371 not to supersede order of President pro tempore of the Senate authorizing higher rate of compensation or any authority of President pro tempore to adjust rates of compensation or limitations under section 4 of the Federal Pay Comparability Act of 1970, see section 4 of Pub. L. 93–371, set out in part as a note under [section 273 of this title](./chapter-009-office-of-legislative-counsel.md#section-273).
 
 #### Increases in Compensation
 Increases in compensation for Senate officers and employees under authority of Federal Pay Comparability Act of 1970 (Pub. L. 91–656), see Salary Directives of President pro tempore of the Senate, set out as notes under [section 4571 of this title](./chapter-045-congressional-pay-and-benefits.md#section-4571).
@@ -453,6 +467,15 @@ Section was formerly classified to [section 61g–6a of this title](./chapter-00
 
 Section is from the Congressional Operations Appropriations Act, 1991, which is title I of the Legislative Branch Appropriations Act, 1991.
 
+#### Prior Provisions
+Provisions similar to those in this section were contained in the following prior appropriation acts:
+
+Pub. L. 101–163, title I, § 1, Nov. 21, 1989, 103 Stat. 1044.
+
+Pub. L. 100–458, title I, § 1, Oct. 1, 1988, 102 Stat. 2161.
+
+Pub. L. 100–202, § 101(i) [title I, § 7], Dec. 22, 1987, 101 Stat. 1329–290, 1329–294.
+
 #### Amendments
 2015—Subsec. (c). Pub. L. 114–113, § 2(2), added subsec. (c). Former subsec. (c) redesignated (d).
 
@@ -474,15 +497,6 @@ Pub. L. 104–53, title I, § 7(b), Nov. 19, 1995, 109 Stat. 518, provided that:
 #### Effective Date of 1991 Amendment
 Pub. L. 102–90, title I, § 1(b), Aug. 14, 1991, 105 Stat. 450, provided that: “Subsection (a) [amending this section] shall take effect on October 1, 1991.”
 
-#### Prior Provisions
-Provisions similar to those in this section were contained in the following prior appropriation acts:
-
-Pub. L. 101–163, title I, § 1, Nov. 21, 1989, 103 Stat. 1044.
-
-Pub. L. 100–458, title I, § 1, Oct. 1, 1988, 102 Stat. 2161.
-
-Pub. L. 100–202, § 101(i) [title I, § 7], Dec. 22, 1987, 101 Stat. 1329–290, 1329–294.
-
 
 <a id="section-6154"></a>
 ## § 6154. Offices of the Secretaries of the Conference of the Majority and the Conference of the Minority
@@ -500,6 +514,9 @@ Pub. L. 100–202, § 101(i) [title I, § 7], Dec. 22, 1987, 101 Stat. 1329–29
 Section was formerly classified to [section 61g–6b of this title](./chapter-004-officers-and-employees-of-senate-and-house-of-representatives.md#section-61g-6b) prior to editorial reclassification and renumbering as this section.
 
 Section is from the Legislative Branch Appropriations Act, 2008, which is div. H of the Consolidated Appropriations Act, 2008.
+
+#### Senate Democratic Leadership Offices Funding and Authorities
+Pub. L. 116–260, div. I, title I, § 104, Dec. 27, 2020, 134 Stat. 1631, provided that: “(a) In this section—“(1) the term ‘applicable conference’ means the majority or minority conference of the Senate, as applicable, that represents the Democratic party; “(2) the term ‘covered Congress’ means the 117th Congress; and “(3) the term ‘covered period’ means the period beginning on the date on which the Secretary of the applicable conference submits the letter described in subsection (b) and ending on January 3, 2023. “(b) The Secretary of the applicable conference may, by submission of a letter to the Disbursing Office of the Senate on or after January 3, 2021, assign to the Assistant Leader of the applicable conference the following duties and authorities for the duration of the covered Congress:“(1) The authority over any amounts made available for the Office of the Secretary of the applicable conference. “(2) The duties and authorities of the Secretary of the applicable conference under section 3 of title I of division H of the Consolidated Appropriations Act, 2008 ([2 U.S.C. 6154](./chapter-061-senate-leadership.md#section-6154)), section 102 of chapter VIII of title I of the Supplemental Appropriations Act, 1979 ([2 U.S.C. 6156](./chapter-061-senate-leadership.md#section-6156)), or any other provision of law. “(c) For purposes of any individual employed by the Office of the Assistant Leader of the applicable conference during the covered period—“(1) any reference to the Office of the Secretary of the applicable conference in the last sentence of section 506(e) of the Supplemental Appropriations Act, 1973 ([2 U.S.C. 6314(e)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section6314/e&num=0&edition=prelim)) shall be deemed to refer to the Office of the Assistant Leader of the applicable conference; “(2) any reference to the Office of the Secretary of the applicable conference under subsection (b) of the first section of S. Res. 458 (98th Congress) shall be deemed to refer to the Office of the Assistant Leader of the applicable conference; and “(3) any reference to the Secretary of the applicable conference under [section 207(e)(9)(M) of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section207/e/9/M&num=0&edition=prelim), United States Code, shall be deemed to refer to the Assistant Leader of the applicable conference. “(d) For purposes of any individual employed by the Office of the Assistant Leader of the applicable conference during the covered period and with respect to any practice that occurs during the covered period, any reference to the Office of the Secretary of the applicable conference under section 220(e)(2)(C) of the Congressional Accountability Act of 1995 ([2 U.S.C. 1351(e)(2)(C)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1351/e/2/C&num=0&edition=prelim)) shall be deemed to be a reference to the Office of the Assistant Leader of the applicable conference. “(e) Nothing in this section shall be construed to have any effect on the continuation of any procedure or action initiated under the Congressional Accountability Act of 1995 ([2 U.S.C. 1301](./chapter-024-congressional-accountability.md#section-1301) et seq.) or [section 207 of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section207&num=0&edition=prelim), United States Code.”
 
 
 <a id="section-6155"></a>

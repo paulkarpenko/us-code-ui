@@ -157,7 +157,7 @@ Section 8102 requires the person responsible for the management of a vessel carr
 
 **(f)** A person employing an individual in violation of this section or a regulation prescribed under this section is liable to the United States Government for a civil penalty of $500 for each individual so employed.
 
-**(g)** A deck or engineer officer employed on a vessel on which an operating differential subsidy is paid, or employed on a vessel (except a vessel of the Coast Guard or Saint Lawrence Seaway Development Corporation) owned or operated by the Department of Transportation or by a corporation organized or controlled by the Department, if eligible, shall be a member of the Navy Reserve.
+**(g)** A deck or engineer officer employed on a vessel on which an operating differential subsidy is paid, or employed on a vessel (except a vessel of the Coast Guard or Great Lakes St. Lawrence Seaway Development Corporation) owned or operated by the Department of Transportation or by a corporation organized or controlled by the Department, if eligible, shall be a member of the Navy Reserve.
 
 **(h)** The President may—
 
@@ -274,6 +274,8 @@ Subsection (h) permits the President to suspend the requirements of this section
 The Immigration and Nationality Act, referred to in subsecs. (i)(1)(C) and (k)(1)(C), is act June 27, 1952, ch. 477, 66 Stat. 163, which is classified principally to chapter 12 (§ 1101 et seq.) of Title 8, Aliens and Nationality. For complete classification of this Act to the Code, see Short Title note set out under [section 1101 of Title 8](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1101&num=0&edition=prelim) and Tables.
 
 #### Amendments
+2020—Subsec. (g). Pub. L. 116–260 substituted “Great Lakes St. Lawrence Seaway Development Corporation” for “Saint Lawrence Seaway Development Corporation”.
+
 2016—Subsec. (b)(1)(A)(iii). Pub. L. 114–120, § 306(a)(6), substituted “Academy; and” for “Academy.”
 
 Subsecs. (c), (d)(1). Pub. L. 114–120, § 313(d), struck out “or operating” before “differential subsidy”.

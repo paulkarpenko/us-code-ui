@@ -1,7 +1,7 @@
 ---
 title: 35
 heading: PATENTS
-positive_law: false
+positive_law: true
 sections: 174
 chapters: 25
 ---

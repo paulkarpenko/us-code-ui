@@ -2,7 +2,7 @@
 title: 10
 chapter: '138'
 heading: COOPERATIVE AGREEMENTS WITH NATO ALLIES AND OTHER COUNTRIES
-section_count: 24
+section_count: 28
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10&num=0&edition=prelim
 ---
@@ -80,11 +80,15 @@ Pub. L. 100–180, div. A, title X, § 1021, Dec. 4, 1987, 101 Stat. 1143.
 
 (2) An agreement referred to in paragraph (1) is an agreement under which the United States agrees to provide logistic support, supplies, and services to military forces of a country or organization referred to in paragraph (1) in return for the reciprocal provisions of logistic support, supplies, and services by such government or organization to elements of the armed forces.
 
-**(b)** The Secretary of Defense may not designate a country for an agreement under this section unless—
+**(b)**
 
-(1) the Secretary, after consultation with the Secretary of State, determines that the designation of such country for such purpose is in the interest of the national security of the United States; and
+(1) The Secretary of Defense may not designate a country for an agreement under this section unless—
 
-(2) in the case of a country which is not a member of the North Atlantic Treaty Organization, the Secretary submits to the appropriate committees of Congress notice of the intended designation at least 30 days before the date on which such country is designated by the Secretary under subsection (a).
+  (A) the Secretary, after consultation with the Secretary of State, determines that the designation of such country for such purpose is in the interest of the national security of the United States; and
+
+  (B) in the case of a country that is not a member of the North Atlantic Treaty Organization, the Secretary submits to the appropriate committees of Congress notice of the intended designation not less than 30 days before the date on which such country is designated by the Secretary under subsection (a).
+
+(2) In the case of a country that is not a member of the North Atlantic Treaty Organization, the Secretary of Defense may not enter into an agreement under this section unless the Secretary submits to the appropriate committees of Congress a notice of intent to enter into such an agreement not less than 30 days before the date on which the Secretary enters into the agreement.
 
 **(c)** The Secretary of Defense may not use the authority of this subchapter to procure from any foreign government or international organization any goods or services reasonably available from United States commercial sources.
 
@@ -92,25 +96,61 @@ Pub. L. 100–180, div. A, title X, § 1021, Dec. 4, 1987, 101 Stat. 1143.
 
 **(e)** An agreement described in subsection (a)(2) may not provide or otherwise constitute a commitment for the introduction of the armed forces into hostilities.
 
-**(f)** The Secretary shall prescribe regulations to ensure that contracts entered into under this subchapter are free from self-dealing, bribery, and conflict of interests.
+**(f)** Not later than 30 days after the date of the enactment of the National Defense Authorization Act for Fiscal Year 2020, the Secretary of Defense shall designate an existing senior civilian or military official who shall have primary responsibility for—
 
-**(g)** Not later than January 15 each year, the Secretary of Defense shall submit to the appropriate committees of Congress a report on acquisition and cross-servicing activities that sets forth, in detail, the following:
+(1) accounting for logistic support, supplies, and services received or provided under acquisition and cross-servicing agreements;
 
-(1) A list of agreements in effect pursuant to subsection (a)(1) during the preceding fiscal year.
+(2) ensuring consistent standards and guidance to the armed forces and combatant commands in executing acquisition and cross-servicing agreements;
 
-(2) The date on which each agreement listed under paragraph (1) was signed, and, in the case of an agreement with a country that is not a member of the North Atlantic Treaty Organization, the date on which the Secretary notified Congress pursuant to subsection (b)(2) of the designation of such country under subsection (a).
+(3) overseeing and monitoring the implementation of acquisition and cross-servicing agreements in coordination with the Under Secretary of Defense for Policy; and
 
-(3) The total dollar amount and major categories of logistic support, supplies, and services provided during the preceding fiscal year under each such agreement.
+(4) such other responsibilities as may be prescribed by the Secretary.
 
-(4) The total dollar amount and major categories of reciprocal provisions of logistic support, supplies, and services received under each such agreement.
+**(g)**
 
-(5) With respect to the calendar year during which the report is submitted, an assessment of the following:
+(1) Not later than 90 days after the date of the enactment of the National Defense Authorization Act for Fiscal Year 2020, the Secretary of Defense shall prescribe regulations to ensure that—
 
-  (A) The anticipated logistic support, supplies, and services requirements of the United States.
+  (A) contracts entered into under this subchapter are free from self-dealing, bribery, and conflict of interests;
 
-  (B) The anticipated requirements of other countries for United States logistic support, supplies, and services.
+  (B) adequate processes and controls are in place to provide for the accurate accounting of logistic support, supplies, and services received or provided under the authority of this subchapter; and
 
-**(h)** In this section, the term “appropriate committees of Congress” means—
+  (C) personnel responsible for accounting for logistic support, supplies, and services received or provided under such authority are fully trained and aware of such responsibilities.
+
+(2)
+
+  (A) Not later than 270 days after the issuance of the regulations under paragraph (1), the Comptroller General of the United States shall conduct a review of the implementation by the Secretary of such regulations.
+
+  (B) The review conducted under subparagraph (A) shall—
+
+    (i) assess the effectiveness of such regulations and the implementation of such regulations to ensure the effective management and oversight of an agreement under subsection (a)(1); and
+
+    (ii) include any other matter the Comptroller General considers relevant.
+
+**(h)** Not later than January 15 each year, the Secretary of Defense shall submit to the appropriate committees of Congress a report on acquisition and cross-servicing activities that sets forth, in detail, the following:
+
+(1) A list of agreements that have entered into force or were applied provisionally pursuant to subsection (a)(1) during the preceding fiscal year.
+
+(2) The date on which each agreement listed under paragraph (1) was signed, and, in the case of an agreement with a country that is not a member of the North Atlantic Treaty Organization, the dates on which the Secretary notified Congress—
+
+  (A) pursuant to subsection (b)(1)(B) of the designation of such country under subsection (a); and
+
+  (B) pursuant to subsection (b)(2) of the intent of the Secretary to enter into the agreement.
+
+(3) The class of supply, total dollar amount, the amount collected, and the outstanding balance of logistic support, supplies, and services provided during the preceding fiscal year under each such agreement.
+
+(4) The class of supply, total dollar amount, the amount collected, and the outstanding balance of logistic support, supplies, and services received during the preceding fiscal year under each such agreement.
+
+(5) With respect to any transaction for logistic support, supplies, and services that has not been reconciled more than one year after the date on which the transaction occurred, a description of the transaction that includes the following:
+
+  (A) The date on which the transaction occurred.
+
+  (B) The country or organization to which logistic support, supplies, and services were provided.
+
+  (C) The value of the transaction.
+
+(6) An explanation of any waiver granted under section 2347(c) during the preceding fiscal year, including an identification of the relevant contingency operation or non-combat operation.
+
+**(i)** In this section, the term “appropriate committees of Congress” means—
 
 (1) the Committee on Armed Services and the Committee on Foreign Relations of the Senate; and
 
@@ -118,7 +158,38 @@ Pub. L. 100–180, div. A, title X, § 1021, Dec. 4, 1987, 101 Stat. 1143.
 
 ### Statutory Notes
 
+#### References in Text
+The date of the enactment of the National Defense Authorization Act for Fiscal Year 2020, referred to in subsecs. (f) and (g)(1), is the date of enactment of Pub. L. 116–92, which was approved Dec. 20, 2019.
+
 #### Amendments
+2019—Subsec. (b). Pub. L. 116–92, § 1203(a), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “The Secretary of Defense may not designate a country for an agreement under this section unless—
+
+“(1) the Secretary, after consultation with the Secretary of State, determines that the designation of such country for such purpose is in the interest of the national security of the United States; and
+
+“(2) in the case of a country which is not a member of the North Atlantic Treaty Organization, the Secretary submits to the appropriate committees of Congress notice of the intended designation at least 30 days before the date on which such country is designated by the Secretary under subsection (a).”
+
+Subsec. (f). Pub. L. 116–92, § 1203(b)(2), added subsec. (f). Former subsec. (f) redesignated (g).
+
+Subsec. (g). Pub. L. 116–92, § 1203(b)(1), (c), redesignated subsec. (f) as (g) and amended it generally. Prior to amendment, subsec. read as follows: “The Secretary shall prescribe regulations to ensure that contracts entered into under this subchapter are free from self-dealing, bribery, and conflict of interests.”
+
+Subsec. (h). Pub. L. 116–92, § 1203(b)(1), redesignated subsec. (g) as (h). Former subsec. (h) redesignated (i).
+
+Subsec. (h)(1). Pub. L. 116–92, § 1203(d)(1), substituted “that have entered into force or were applied provisionally” for “in effect”.
+
+Subsec. (h)(2). Pub. L. 116–92, § 1203(d)(2), substituted “dates on which the Secretary notified Congress—” and subpars. (A) and (B) for “date on which the Secretary notified Congress pursuant to subsection (b)(2) of the designation of such country under subsection (a).”
+
+Subsec. (h)(3). Pub. L. 116–92, § 1203(d)(3), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “The total dollar amount and major categories of logistic support, supplies, and services provided during the preceding fiscal year under each such agreement.”
+
+Subsec. (h)(4). Pub. L. 116–92, § 1203(d)(4), amended par. (4) generally. Prior to amendment, par. (4) read as follows: “The total dollar amount and major categories of reciprocal provisions of logistic support, supplies, and services received under each such agreement.”
+
+Subsec. (h)(5), (6). Pub. L. 116–92, § 1203(d)(5), (6), added pars. (5) and (6) and struck out former par. (5) which read as follows: “With respect to the calendar year during which the report is submitted, an assessment of the following:
+
+“(A) The anticipated logistic support, supplies, and services requirements of the United States.
+
+“(B) The anticipated requirements of other countries for United States logistic support, supplies, and services.”
+
+Subsec. (i). Pub. L. 116–92, § 1203(b)(1), redesignated subsec. (h) as (i).
+
 2018—Subsec. (b)(2). Pub. L. 115–232, § 1271(c)(1), substituted “the appropriate committees of Congress” for “the Committee on Armed Services and the Committee on Foreign Relations of the Senate and the Committee on Armed Services and the Committee on International Relations of the House of Representatives”.
 
 Subsecs. (d) to (f). Pub. L. 115–232, § 1271(a), added subsecs. (d) and (e) and redesignated former subsec. (d) as (f).
@@ -156,7 +227,7 @@ Committee on International Relations of House of Representatives changed to Comm
 Amendment by Pub. L. 103–337 applicable with regard to any acquisition or transfer of logistic support, supplies, and services under authority of this subchapter that is initiated after Oct. 5, 1994, see section 1317(j) of Pub. L. 103–337, set out as a note under [section 2341 of this title](./chapter-138-cooperative-agreements-with-nato-allies-and-other-countries.md#section-2341).
 
 #### Cross Servicing Agreements for Loan of Personnel Protection and Personnel Survivability Equipment in Coalition Operations
-Pub. L. 113–291, div. A, title XII, § 1207, Dec. 19, 2014, 128 Stat. 3539, as amended by Pub. L. 115–91, div. A, title X, § 1051(t)(4), Dec. 12, 2017, 131 Stat. 1566, provided that: “(a) In General.—The Secretary of Defense may, with the concurrence of the Secretary of State, enter into an arrangement, under an agreement concluded pursuant to [section 2342 of title 10](./chapter-138-cooperative-agreements-with-nato-allies-and-other-countries.md#section-2342), United States Code, under which the United States agrees to loan personnel protection and personnel survivability equipment for the use of such equipment by military forces of a nation participating in the following:“(1) A coalition operation with the United States as part of a contingency operation. “(2) A coalition operation with the United States as part of a peacekeeping operation under the Charter of the United Nations or another international agreement. “(3) Training of such forces in connection with the deployment of such forces to be deployed to an operation described in paragraph (1) or (2). “(b) Limitations.—“(1) Loan only of equipment for which u.s. forces have no unfulfilled requirements.—Equipment may be loaned to the military forces of a nation under the authority of this section only upon a determination by the Secretary of Defense that the United States forces in the coalition operation concerned have no unfulfilled requirements for such equipment. “(2) Scope of use of loaned equipment.—Equipment loaned to the military forces of a nation under the authority of this section may be used by those forces only for personnel protection or to aid in the personnel survivability of those forces and only in—“(A) a coalition operation with the United States described in paragraph (1) or (2) of subsection (a); or “(B) training described in paragraph (3) of subsection (a). “(3) Duration of use of loaned equipment.—Equipment loaned to the military forces of a nation under the authority of this section may be used by the military forces of that nation not longer than the duration of that country’s participation in the coalition operation concerned. “(4) Notice and wait on loan of equipment for training.—Equipment may not be loaned under subsection (a) in connection with training described in paragraph (3) of that subsection until 15 days after the date on which the Secretary of Defense submits to the appropriate committees of Congress written notice on the loan of such equipment for such purpose. “(c) Waiver of Reimbursement in Case of Loss of Equipment in Combat.—“(1) In general.—In the case of equipment loaned under the authority of this section that is damaged or destroyed as a result of combat operations during coalition operations while held by forces to which loaned under this section, the Secretary of Defense may, with respect to such equipment, waive any other requirement under applicable law for—“(A) reimbursement; “(B) replacement-in-kind; or “(C) exchange of supplies or services of an equal value. “(2) Basis for waiver.—Any waiver under this subsection may be made only if the Secretary determines that the waiver is in the national security interest of the United States. “(3) Waiver on a case-by-case basis.—Any waiver under this subsection may be made only on a case-by-case basis. “(d) Definitions.—In this section:“(1) The term ‘appropriate committees of Congress’ means—“(A) the Committee on Armed Services and the Committee on Foreign Relations of the Senate; and “(B) the Committee on Armed Services and the Committee on Foreign Affairs of the House of Representatives. “(2) The term ‘personnel protection and personnel survivability equipment’ means items enumerated in categories I, II, III, VII, X, XI, and XIII of the United States Munitions List under section 38(a)(1) of the Arms Export Control Act ([22 U.S.C. 2778(a)(1)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2778/a/1&num=0&edition=prelim)[)] that the Secretary of Defense designates as available for loan under this section. “(e) Expiration of Authority.—The authority in subsection (a) shall expire on September 30, 2019.”
+Pub. L. 113–291, div. A, title XII, § 1207, Dec. 19, 2014, 128 Stat. 3539, as amended by Pub. L. 115–91, div. A, title X, § 1051(t)(4), Dec. 12, 2017, 131 Stat. 1566; Pub. L. 116–92, div. A, title XII, § 1202, Dec. 20, 2019, 133 Stat. 1620, provided that: “(a) In General.—The Secretary of Defense may, with the concurrence of the Secretary of State, enter into an arrangement, under an agreement concluded pursuant to [section 2342 of title 10](./chapter-138-cooperative-agreements-with-nato-allies-and-other-countries.md#section-2342), United States Code, under which the United States agrees to loan personnel protection and personnel survivability equipment for the use of such equipment by military forces of a nation participating in the following:“(1) A coalition operation with the United States as part of a contingency operation. “(2) A coalition operation with the United States as part of a peacekeeping operation under the Charter of the United Nations or another international agreement. “(3) Training of such forces in connection with the deployment of such forces to be deployed to an operation described in paragraph (1) or (2). “(b) Limitations.—“(1) Loan only of equipment for which u.s. forces have no unfulfilled requirements.—Equipment may be loaned to the military forces of a nation under the authority of this section only upon a determination by the Secretary of Defense that the United States forces in the coalition operation concerned have no unfulfilled requirements for such equipment. “(2) Scope of use of loaned equipment.—Equipment loaned to the military forces of a nation under the authority of this section may be used by those forces only for personnel protection or to aid in the personnel survivability of those forces and only in—“(A) a coalition operation with the United States described in paragraph (1) or (2) of subsection (a); or “(B) training described in paragraph (3) of subsection (a). “(3) Duration of use of loaned equipment.—Equipment loaned to the military forces of a nation under the authority of this section may be used by the military forces of that nation not longer than the duration of that country’s participation in the coalition operation concerned. “(4) Notice and wait on loan of equipment for training.—Equipment may not be loaned under subsection (a) in connection with training described in paragraph (3) of that subsection until 15 days after the date on which the Secretary of Defense submits to the appropriate committees of Congress written notice on the loan of such equipment for such purpose. “(c) Waiver of Reimbursement in Case of Loss of Equipment in Combat.—“(1) In general.—In the case of equipment loaned under the authority of this section that is damaged or destroyed as a result of combat operations during coalition operations while held by forces to which loaned under this section, the Secretary of Defense may, with respect to such equipment, waive any other requirement under applicable law for—“(A) reimbursement; “(B) replacement-in-kind; or “(C) exchange of supplies or services of an equal value. “(2) Basis for waiver.—Any waiver under this subsection may be made only if the Secretary determines that the waiver is in the national security interest of the United States. “(3) Waiver on a case-by-case basis.—Any waiver under this subsection may be made only on a case-by-case basis. “(d) Reports to Congress.—If the authority provided under this section is exercised during a fiscal year, the Secretary of Defense shall, with the concurrence of the Secretary of State, submit to the appropriate committees of Congress a report on the exercise of such authority by not later than October 30 of the year in which such fiscal year ends. Each report on the exercise of such authority shall specify the recipient country of the equipment loaned, the type of equipment loaned, and the duration of the loan of such equipment. “(e) Definitions.—In this section:“(1) The term ‘appropriate committees of Congress’ means—“(A) the Committee on Armed Services and the Committee on Foreign Relations of the Senate; and “(B) the Committee on Armed Services and the Committee on Foreign Affairs of the House of Representatives. “(2) The term ‘personnel protection and personnel survivability equipment’ means items enumerated in categories I, II, III, VII, X, XI, and XIII of the United States Munitions List under section 38(a)(1) of the Arms Export Control Act ([22 U.S.C. 2778(a)(1)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2778/a/1&num=0&edition=prelim)[)] that the Secretary of Defense designates as available for loan under this section. “(f) Expiration of Authority.—The authority in subsection (a) shall expire on December 31, 2024.”
 
 
 <a id="section-2343"></a>
@@ -166,7 +237,26 @@ Sections 2207, 2304(a), 2306(a), 2306(b), 2306(e), 2306a, and 2313 of this title
 
 ### Statutory Notes
 
+#### Amendment of Section
+Pub. L. 116–283, div. A, title XVIII, §§ 1801(d), 1817(h), 1831(j)(3), 1862(c)(1), Jan. 1, 2021, 134 Stat. 4151, 4188, 4216, 4278, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, this section is amended as follows:
+
+(1) by striking “Sections 2207,” and inserting “Sections 4651,”; and
+
+(2) by striking “2306(a), 2306(b), 2306(e), 2306a, and 2313” and inserting “3351, 3352(a), 3352(c), 3701–3708, and 3841”.
+
+Pub. L. 116–283, div. A, title XVIII, §§ 1801(d), 1883(b)(2), Jan. 1, 2021, 134 Stat. 4151, 4294, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, except as otherwise provided in title XVIII of Pub. L. 116–283, in title 10, United States Code, each reference in the text of such title to a source section that is redesignated by title XVIII of Pub. L. 116–283, is amended by striking such reference and inserting a reference to the appropriate section as so redesignated.
+
+See 2021 Amendment notes below.
+
 #### Amendments
+2021—Pub. L. 116–283, § 1883(b)(2), substituted “3201” for “2304(a)”.
+
+Pub. L. 116–283, § 1862(c)(1), substituted “Sections 4651,” for “Sections 2207,”.
+
+Pub. L. 116–283, § 1831(j)(3), substituted “3701–3708, and 3841” for “2306a, and 2313”.
+
+Pub. L. 116–283, § 1817(h), substituted “3351, 3352(a), 3352(c)” for “2306(a), 2306(b), 2306(e)”.
+
 2011—Pub. L. 111–350 substituted “[section 6306 of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section6306&num=0&edition=prelim)” for “section 3741 of the Revised Statutes ([41 U.S.C. 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section22&num=0&edition=prelim))”.
 
 1994—Pub. L. 103–337, § 1317(c)(2)(A), substituted “Waiver of applicability of certain laws” for “Law applicable to acquisition and cross-servicing agreements” as section catchline.
@@ -188,6 +278,9 @@ Subsec. (a). Pub. L. 99–145, § 1304(a)(5), substituted “section 2341” for
 Subsec. (b). Pub. L. 99–145, § 1304(a)(5), substituted “section 2341” for “section 2321” and “section 2342” for “section 2322”.
 
 Pub. L. 99–145, § 961(b), substituted “section 2304(a)” for “section 2304(g)”.
+
+#### Effective Date of 2021 Amendment
+Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
 
 #### Effective Date of 1994 Amendment
 Amendment by Pub. L. 103–337 applicable with regard to any acquisition or transfer of logistic support, supplies, and services under authority of this subchapter that is initiated after Oct. 5, 1994, see section 1317(j) of Pub. L. 103–337, set out as a note under [section 2341 of this title](./chapter-138-cooperative-agreements-with-nato-allies-and-other-countries.md#section-2341).
@@ -499,9 +592,15 @@ Amendment by Pub. L. 103–337 applicable with regard to any acquisition or tran
 
 (1) The Secretary of Defense may not enter into a memorandum of understanding (or other formal agreement) to conduct a cooperative research and development project under this section unless the Secretary determines that the proposed project will improve, through the application of emerging technology, the conventional defense capabilities of the North Atlantic Treaty Organization or the common conventional defense capabilities of the United States and a country or organization referred to in subsection (a)(2).
 
-(2) The authority of the Secretary to make a determination under paragraph (1) may only be delegated to the Deputy Secretary of Defense, the Under Secretary of Defense for Acquisition, Technology, and Logistics, and the Assistant Secretary of Defense for Research and Engineering.
+(2) The authority of the Secretary to make a determination under paragraph (1) may only be delegated to the Deputy Secretary of Defense, the Under Secretary of Defense for Acquisition and Sustainment, or the Under Secretary of Defense for Research and Engineering.
 
-**(c) Cost Sharing.—** Each cooperative research and development project entered into under this section shall require sharing of the costs of the project (including the costs of claims) between the participants on an equitable basis.
+**(c) Cost Sharing.—**
+
+(1) Except as provided in paragraph (2), each cooperative research and development project entered into under this section shall require sharing of the costs of the project (including the costs of claims) between the participants on an equitable basis.
+
+(2) A cooperative research and development project may be entered into under this section under which costs are shared between the participants on an unequal basis if the Secretary of Defense, or an official specified in subsection (b)(2) to whom the Secretary delegates authority under this paragraph, makes a written determination that unequal cost sharing provides strategic value to the United States or another participant in the project.
+
+(3) For purposes of this subsection, the term “cost” means the total value of cash and non-cash contributions.
 
 **(d) Restrictions on Procurement of Equipment and Services.—**
 
@@ -529,13 +628,19 @@ Amendment by Pub. L. 103–337 applicable with regard to any acquisition or tran
 
 (1) It is the sense of Congress—
 
-  (A) that the Secretary of Defense should test conventional defense equipment, munitions, and technologies manufactured and developed by countries referred to in subsection (a)(2) to determine the ability of such equipment, munitions, and technologies to satisfy United States military requirements or to correct operational deficiencies; and
+  (A) that the Secretary of Defense should test covered equipment, munitions, and technologies to determine the ability of such covered equipment, munitions, and technologies to satisfy United States military requirements or to correct operational deficiencies; and
 
-  (B) that while the testing of nondevelopmental items and items in the late state of the development process are preferred, the testing of equipment, munitions, and technologies may be conducted to determine procurement alternatives.
+  (B) that while the testing of nondevelopmental items and items in the late state of the development process are preferred, the testing of such covered equipment, munitions, and technologies may be conducted to determine procurement alternatives.
 
-(2) The Secretary of Defense may acquire equipment, munitions, and technologies of the type described in paragraph (1) for the purpose of conducting the testing described in that paragraph.
+(2) The Secretary of Defense may acquire covered equipment, munitions, and technologies for the purpose of conducting the testing described in that paragraph.
 
 (3) The use of side-by-side testing under this subsection may be considered to be the use of competitive procedures for purposes of chapter 137 of this title, when procuring items within 5 years after an initial determination that the items have been successfully tested and found to satisfy United States military requirements or to correct operational deficiencies.
+
+(4) **Covered Equipment, Munitions, and Technologies Defined.—** — In this subsection, the term “covered equipment, munitions, and technologies” means—
+
+  (A) conventional defense equipment, munitions, and technologies manufactured and developed by countries referred to in subsection (a)(2); and
+
+  (B) conventional defense equipment, munitions, and technologies manufactured and developed domestically.
 
 **(h) Secretary To Encourage Similar Programs.—** The Secretary of Defense shall encourage member nations of the North Atlantic Treaty Organization, major non-NATO allies, and other friendly foreign countries to establish programs similar to the one provided for in this section.
 
@@ -559,6 +664,20 @@ Provisions relating to NATO countries were contained in Pub. L. 99–145, title 
 Provisions relating to major non-NATO allies were contained in [section 2767a of Title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2767a&num=0&edition=prelim), Foreign Relations and Intercourse, prior to repeal by Pub. L. 101–189, § 931(d)(2).
 
 #### Amendments
+2021—Subsec. (b)(2). Pub. L. 116–283, § 211(1), substituted “or the Under Secretary” for “and the Under Secretary”.
+
+Subsec. (c). Pub. L. 116–283, § 211(2), designated existing provisions as par. (1), substituted “Except as provided in paragraph (2), each cooperative” for “Each cooperative”, and added pars. (2) and (3).
+
+Subsec. (g)(1)(A). Pub. L. 116–283, § 882(1)(A), substituted “covered equipment, munitions, and technologies” for “conventional defense equipment, munitions, and technologies manufactured and developed by countries referred to in subsection (a)(2)” and “such covered equipment, munitions, and technologies” for “such equipment, munitions, and technologies”.
+
+Subsec. (g)(1)(B). Pub. L. 116–283, § 882(1)(B), inserted “such covered” before “equipment, munitions, and technologies”.
+
+Subsec. (g)(2). Pub. L. 116–283, § 882(2), substituted “covered equipment, munitions, and technologies” for “equipment, munitions, and technologies of the type described in paragraph (1)”.
+
+Subsec. (g)(4). Pub. L. 116–283, § 882(3), added par. (4).
+
+2019—Subsec. (b)(2). Pub. L. 116–92 substituted “Under Secretary of Defense for Acquisition and Sustainment, and the Under Secretary of Defense for Research and Engineering” for “Under Secretary of Defense for Acquisition, Technology, and Logistics, and the Assistant Secretary of Defense for Research and Engineering”.
+
 2016—Subsec. (g)(3). Pub. L. 114–328 added par. (3).
 
 2015—Subsec. (e). Pub. L. 114–92, § 821(b)(1)(A), struck out “Document” after “Cooperative Opportunities” in heading.
@@ -729,10 +848,15 @@ Pub. L. 112–239, div. A, title XII, § 1274, Jan. 2, 2013, 126 Stat. 2026, as 
 
 ### Statutory Notes
 
+#### Amendment of Section
+Pub. L. 116–283, div. A, title XVIII, §§ 1801(d), 1883(b)(2), Jan. 1, 2021, 134 Stat. 4151, 4294, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, except as otherwise provided in title XVIII of Pub. L. 116–283, in title 10, United States Code, each reference in the text of such title to a source section that is redesignated by title XVIII of Pub. L. 116–283, is amended by striking such reference and inserting a reference to the appropriate section as so redesignated. See 2021 Amendment note below.
+
 #### References in Text
 The Arms Export Control Act, referred to in subsec. (c)(1), is Pub. L. 90–629, Oct. 22, 1968, 82 Stat. 1320, as amended, which is classified principally to chapter 39 (§ 2751 et seq.) of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under [section 2751 of Title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2751&num=0&edition=prelim) and Tables.
 
 #### Amendments
+2021—Subsec. (c)(1). Pub. L. 116–283, which directed that each reference in the text of title 10 to a section that was redesignated by title XVIII of Pub. L. 116–283, as such section was in effect before the redesignation, be amended by striking such reference and inserting a reference to the appropriate redesignated section, was not executed in introductory provisions with respect to “section 2304”, which was redesignated as multiple sections.
+
 2006—Subsec. (g)(2). Pub. L. 109–304 substituted “[section 55305 of title 46](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section55305&num=0&edition=prelim)” for “section 901(b) of the Merchant Marine Act, 1936 (46 U.S.C. App. 1241(b))”.
 
 2004—Subsec. (g). Pub. L. 108–375, § 1084(d)(19)(A), inserted “the Secretary of Defense” after “authorizing” in introductory provisions.
@@ -758,6 +882,9 @@ Subsec. (c)(2). Pub. L. 99–661, § 1103(b)(1)(B), struck out “NATO” after 
 Subsec. (e). Pub. L. 99–661, § 1103(b)(1)(C), struck out “NATO” after “will significantly further” in par. (1) and after “United States) in a” in par. (2).
 
 Subsec. (g)(2). Pub. L. 99–661, § 1343(a)(15), substituted “[section 2631 of this title](./chapter-157-transportation.md#section-2631) and section 901(b) of the Merchant Marine Act, 1936 (46 U.S.C. App. 1241(b))” for “the Military Cargo Preference Act of 1904 ([10 U.S.C. 2631](./chapter-157-transportation.md#section-2631)) and the Cargo Preference Act of 1954 ([46 U.S.C. 1241(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section1241/b&num=0&edition=prelim))”.
+
+#### Effective Date of 2021 Amendment
+Amendment by 1883(b)(2) of Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
 
 #### Effective Date of 1996 Amendment
 For effective date and applicability of amendment by section 4321(b)(10) of Pub. L. 104–106, see section 4401 of Pub. L. 104–106, set out as a note under [section 2302 of this title](./chapter-137-procurement-generally.md#section-2302).
@@ -812,7 +939,7 @@ Subsec. (d). Pub. L. 101–189, § 931(b)(2), substituted “subchapter I” for
 1985—Subsec. (e)(2). Pub. L. 99–145 substituted “section 2350” for “section 2331”.
 
 #### Department of Defense Participation in European Program on Multilateral Exchange of Air Transportation and Air Refueling Services
-Pub. L. 112–239, div. A, title XII, § 1276, Jan. 2, 2013, 126 Stat. 2029, as amended by Pub. L. 115–91, div. A, title X, § 1051(r)(9), Dec. 12, 2017, 131 Stat. 1565, provided that: “(a) Participation Authorized.—“(1) In general.—The Secretary of Defense may, with the concurrence of the Secretary of State, authorize the participation of the United States in the Air Transport, Air-to-Air Refueling and other Exchanges of Services program (in this section referred to as the ‘ATARES program’) of the Movement Coordination Centre Europe. “(2) Scope of participation.—Participation in the ATARES program under paragraph (1) shall be limited to the reciprocal exchange or transfer of air transportation and air refueling services on a reimbursable basis or by replacement-in-kind or the exchange of air transportation or air refueling services of an equal value. “(3) Limitations.—The United States’ balance of executed flight hours, whether as credits or debits, in participation in the ATARES program under paragraph (1) may not exceed 500 hours. The United States’ balance of executed flight hours for air refueling in the ATARES program under paragraph (1) may not exceed 200 hours. “(b) Written Arrangement or Agreement.—“(1) Arrangement or agreement required.—The participation of the United States in the ATARES program under subsection (a) shall be in accordance with a written arrangement or agreement entered into by the Secretary of Defense, with the concurrence of the Secretary of State, and the Movement Coordination Centre Europe. “(2) Funding arrangements.—If Department of Defense facilities, equipment, or funds are used to support the ATARES program, the written arrangement or agreement under paragraph (1) shall specify the details of any equitable cost sharing or other funding arrangement. “(3) Other elements.—Any written arrangement or agreement entered into under paragraph (1) shall require that any accrued credits and liabilities resulting from an unequal exchange or transfer of air transportation or air refueling services shall be liquidated, not less than once every five years, through the ATARES program. “(c) Implementation.—In carrying out any written arrangement or agreement entered into under subsection (b), the Secretary of Defense may—“(1) pay the United States’ equitable share of the operating expenses of the Movement Coordination Centre Europe and the ATARES consortium from funds available to the Department of Defense for operation and maintenance; and “(2) assign members of the Armed Forces or Department of Defense civilian personnel, from among members and personnel within billets authorized for the United States European Command, to duty at the Movement Coordination Centre Europe as necessary to fulfill the United States’ obligations under that arrangement or agreement. “(d) Crediting of Receipts.—Any amount received by the United States in carrying out a written arrangement or agreement entered into under subsection (b) shall be credited, as elected by the Secretary of Defense, to the following:“(1) The appropriation, fund, or account used in incurring the obligation for which such amount is received. “(2) An appropriation, fund, or account currently available for the purposes for which such obligation was made. “(e) Expiration.—The authority provided by this section to participate in the ATARES program shall expire five years after the date on which the Secretary of Defense first enters into a written arrangement or agreement under subsection (b). The Secretary shall publish notice of such date on a public website of the Department of Defense.”
+Pub. L. 112–239, div. A, title XII, § 1276, Jan. 2, 2013, 126 Stat. 2029, as amended by Pub. L. 115–91, div. A, title X, § 1051(r)(9), Dec. 12, 2017, 131 Stat. 1565, which related to participation of the United States in the Air Transport, Air-to-Air Refueling and other Exchanges of Services (ATARES) program of the Movement Coordination Centre Europe, was repealed by Pub. L. 116–283, div. A, title XII, § 1203(c), Jan. 1, 2021, 134 Stat. 3911. See section 2350o of this title.
 
 #### Department of Defense Participation in Strategic Airlift Capability Partnership
 Pub. L. 110–181, div. A, title X, § 1032, Jan. 28, 2008, 122 Stat. 306, provided that: “(a) Authority To Participate in Partnership.—“(1) Memorandum of understanding.—The Secretary of Defense may enter into a multilateral memorandum of understanding authorizing the Strategic Airlift Capability Partnership to conduct activities necessary to accomplish its purpose, including—“(A) the acquisition, equipping, ownership, and operation of strategic airlift aircraft; and “(B) the acquisition or transfer of airlift and airlift-related services and supplies among members of the Strategic Airlift Capability Partnership, or between the Partnership and non-member countries or international organizations, on a reimbursable basis or by replacement-in-kind or exchange of airlift or airlift-related services of an equal value. “(2) Payments.—From funds available to the Department of Defense for such purpose, the Secretary of Defense may pay the United States equitable share of the recurring and non-recurring costs of the activities and operations of the Strategic Airlift Capability Partnership, including costs associated with procurement of aircraft components and spare parts, maintenance, facilities, and training, and the costs of claims. “(b) Authorities Under Partnership.—In carrying out the memorandum of understanding entered into under subsection (a), the Secretary of Defense may do the following:“(1) Waive reimbursement of the United States for the cost of the following functions performed by Department of Defense personnel with respect to the Strategic Airlift Capability Partnership:“(A) Auditing. “(B) Quality assurance. “(C) Inspection. “(D) Contract administration. “(E) Acceptance testing. “(F) Certification services. “(G) Planning, programming, and management services. “(2) Waive the imposition of any surcharge for administrative services provided by the United States that would otherwise be chargeable against the Strategic Airlift Capability Partnership. “(3) Pay the salaries, travel, lodging, and subsistence expenses of Department of Defense personnel assigned for duty to the Strategic Airlift Capability Partnership without seeking reimbursement or cost-sharing for such expenses. “(c) Crediting of Receipts.—Any amount received by the United States in carrying out the memorandum of understanding entered into under subsection (a) shall be credited, as elected by the Secretary of Defense, to the following:“(1) The appropriation, fund, or account used in incurring the obligation for which such amount is received. “(2) An appropriation, fund, or account currently providing funds for the purposes for which such obligation was made. “(d) Authority To Transfer Aircraft.—“(1) Transfer authority.—The Secretary of Defense may transfer one strategic airlift aircraft to the Strategic Airlift Capability Partnership in accordance with the terms and conditions of the memorandum of understanding entered into under subsection (a). “(2) Report.—Not later than 30 days before the date on which the Secretary transfers a strategic airlift aircraft under paragraph (1), the Secretary shall submit to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] a report on the strategic airlift aircraft to be transferred, including the type of strategic airlift aircraft to be transferred and the tail registration or serial number of such aircraft. “(e) Strategic Airlift Capability Partnership Defined.—In this section the term ‘Strategic Airlift Capability Partnership’ means the strategic airlift capability consortium established by the United States and other participating countries.”
@@ -1116,6 +1243,34 @@ Pub. L. 101–510, div. A, title XIV, § 1452(b), Nov. 5, 1990, 104 Stat. 1694, 
 
     (ii) a statement of the current estimated cost of the project, including the cost of any real property transaction in connection with the project.
 
+**(f) Report on Contributions Received From Designated Countries.—**
+
+(1) **In general.—** — Not later than January 15 each year, the Secretary of Defense shall submit to the appropriate committees of Congress a report on the burden sharing contributions received under this section from designated countries.
+
+(2) **Elements.—** — Each report required by paragraph (1) shall include the following for the preceding fiscal year:
+
+  (A) A list of all designated countries from which burden sharing contributions were received.
+
+  (B) An explanation of the purpose for which each such burden sharing contribution was provided.
+
+  (C) A description of any written agreement entered into with a designated country under this section, including the date on which the agreement was signed.
+
+  (D) For each designated country—
+
+    (i) the amount provided by the designated country; and
+
+    (ii) the amount of any remaining unobligated balance.
+
+  (E) The amount of such burden sharing contributions expended, by eligible category, including compensation for local national employees, military construction projects, and supplies and services of the Department of Defense.
+
+  (F) Any other matter the Secretary of Defense considers relevant.
+
+(3) **Appropriate committees of congress defined.—** — In this subsection, the term “appropriate committees of Congress” means—
+
+  (A) the Committee on Armed Services, the Committee on Foreign Relations, and the Committee on Appropriations of the Senate; and
+
+  (B) the Committee on Armed Services, the Committee on Foreign Affairs, and the Committee on Appropriations of the House of Representatives.
+
 ### Statutory Notes
 
 #### References in Text
@@ -1125,6 +1280,8 @@ The National Emergencies Act, referred to in subsec. (e)(3), is Pub. L. 94–412
 Section, as added by Pub. L. 103–160, consists of text of Pub. L. 102–190, div. A, title X, § 1045, Dec. 5, 1991, 105 Stat. 1465, as amended by Pub. L. 102–484, div. A, title XIII, § 1305(a), (b), Oct. 23, 1992, 106 Stat. 2546, and revised by Pub. L. 103–160, in subsec. (a), by substituting “The Secretary” for “During fiscal years 1992 and 1993, the Secretary”, inserting “, after consultation with the Secretary of State,” after “Secretary of Defense”, and substituting “from any country or regional organization designated for purposes of this section by the Secretary of Defense, in consultation with the Secretary of State” for “from Japan, Kuwait, and the Republic of Korea”, and in former subsec. (f), by substituting “each fiscal year” for “each quarter of fiscal years 1992 and 1993”, “Congress” for “congressional defense committees”, “each country and regional organization from which contributions have been accepted by the Secretary under subsection (a)” for “Japan, Kuwait, and the Republic of Korea”, and “the preceding fiscal year” for “the preceding quarter” in pars. (1) and (2).
 
 #### Amendments
+2021—Subsec. (f). Pub. L. 116–283 added subsec. (f).
+
 2017—Subsec. (e)(2). Pub. L. 115–91, § 2801(f)(2), which directed striking out “or, if earlier, the end of the 14-day period beginning on the date on which a copy of the report is provided”, was executed by striking out “or, if earlier, the end of the 14-day period beginning on the date on which a copy of that report is provided” after “regarding the project”, to reflect the probable intent of Congress.
 
 Pub. L. 115–91, § 2801(f)(1), substituted “14-day period” for “21-day period”.
@@ -1246,6 +1403,205 @@ Pub. L. 104–106, div. A, title XIII, § 1332(b), Feb. 10, 1996, 110 Stat. 484,
 
 (3) The term “test facility” means a range or other facility at which testing of defense equipment may be carried out.
 
+### Statutory Notes
+
+#### Transfer of Section
+Pub. L. 116–283, div. A, title XVIII, §§ 1801(d), 1844(b)(1), Jan. 1, 2021, 134 Stat. 4151, 4245, provided in part that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, this section is transferred to chapter 307 of this title, as added by section 1844(a) of Pub. L. 116–283, inserted after the table of sections, and redesignated as [section 4145 of this title](./chapter-307-research-and-development-centers-and-facilities.md#section-4145). See Effective Date of 2021 Amendment note below.
+
+#### Effective Date of 2021 Amendment
+Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
+
 
 <a id="section-2350m"></a>
-## § 2350m. Renumbered § 344]
+## § 2350m. Participation in European program on multilateral exchange of surface transportation services
+**(a) Participation Authorized.—**
+
+(1) **In general.—** — The Secretary of Defense, with the concurrence of the Secretary of State, may authorize the participation of the Department of Defense in the Surface Exchange of Services program (in this section referred to as the “SEOS program”) of the Movement Coordination Centre Europe.
+
+(2) **Scope of participation.—** — Participation of the Department of Defense in the SEOS program under paragraph (1) may include—
+
+  (A) the reciprocal exchange or transfer of surface transportation on a reimbursable basis or by replacement-in-kind; and
+
+  (B) the exchange of surface transportation services of an equal value.
+
+**(b) Written Arrangement or Agreement.—**
+
+(1) **In general.—** — Participation of the Department of Defense in the SEOS program shall be in accordance with a written arrangement or agreement entered into by the Secretary of Defense, with the concurrence of the Secretary of State, and the Movement Coordination Centre Europe.
+
+(2) **Notification.—** — The Secretary of Defense shall provide to the congressional defense committees notification of any arrangement or agreement entered into under paragraph (1).
+
+(3) **Funding arrangements.—** — If Department of Defense facilities, equipment, or funds are used to support the SEOS program, the written arrangement or agreement under paragraph (1) shall specify the details of any equitable cost-sharing or other funding arrangement.
+
+(4) **Other elements.—** — Any written arrangement or agreement entered into under paragraph (1) shall require that any accrued credits or liability resulting from an unequal exchange or transfer of surface transportation services shall be liquidated through the SEOS program not less than once every five years.
+
+**(c) Implementation.—** In carrying out any arrangement or agreement entered into under subsection (b), the Secretary of Defense may—
+
+(1) pay the equitable share of the Department of Defense for the operating expenses of the Movement Coordination Centre Europe and the SEOS program from funds available to the Department of Defense for operation and maintenance; and
+
+(2) assign members of the armed forces or Department of Defense civilian personnel, within billets authorized for the United States European Command, to duty at the Movement Coordination Centre Europe as necessary to fulfill Department of Defense obligations under that arrangement or agreement.
+
+**(d) Crediting of Receipts.—** Any amount received by the Department of Defense as part of the SEOS program shall be credited, at the option of the Secretary of Defense, to—
+
+(1) the appropriation, fund, or account used in incurring the obligation for which such amount is received; or
+
+(2) an appropriate appropriation, fund, or account currently available for the purposes for which the expenditures were made.
+
+**(e) Annual Report.—**
+
+(1) **In general.—** — Not later than 30 days after the end of each fiscal year in which the authority under this section is in effect, the Secretary of Defense shall submit to the congressional defense committees a report on Department of Defense participation in the SEOS program during such fiscal year.
+
+(2) **Elements.—** — Each report required by paragraph (1) shall include the following:
+
+  (A) A description of the equitable share of the costs and activities of the SEOS program paid by the Department of Defense.
+
+  (B) A description of any amount received by the Department of Defense as part of such program, including the country from which the amount was received.
+
+**(f) Limitation on Statutory Construction.—** Nothing in this section may be construed to authorize the use of foreign sealift in violation of section 2631.
+
+### Statutory Notes
+
+#### Prior Provisions
+A prior section 2350m was renumbered [section 344 of this title](./chapter-016-security-cooperation.md#section-344).
+
+
+<a id="section-2350m"></a>
+## § 2350m. Execution of projects under the North Atlantic Treaty Organization Security Investment Program
+**(a) Authority To Execute Projects.—** When the United States is designated as the Host Nation for purposes of executing a project under the North Atlantic Treaty Organization Security Investment Program (in this section referred to as the “Program”), the Secretary of Defense may accept such designation and carry out such project consistent with the requirements of this section.
+
+**(b) Project Funding.—** The Secretary of Defense may fund authorized expenditures of projects accepted under subsection (a) with—
+
+(1) contributions under subsection (c);
+
+(2) appropriations of the Department of Defense for the Program when directed by the North Atlantic Treaty Organization to apply amounts of such appropriations as part of the share of contributions of the United States for the Program; or
+
+(3) any combination of amounts described in paragraphs (1) and (2).
+
+**(c) Authority To Accept Contributions.—**
+
+(1) The Secretary of Defense may accept contributions from the North Atlantic Treaty Organization and member nations of the North Atlantic Treaty Organization for the purpose of carrying out a project under subsection (a).
+
+(2) Contributions accepted under paragraph (1) shall be placed in an account established for the purpose of carrying out the project for which the funds were provided and shall remain available until expended.
+
+(3)
+
+  (A) If contributions are made under paragraph (1) as reimbursement for a project or portion of a project previously completed by the Department of Defense, such contributions shall be credited to—
+
+    (i) the appropriations used for the project or portion thereof, if such appropriations have not yet expired; or
+
+    (ii) the appropriations for the Program, if the appropriations described in clause (i) have expired.
+
+  (B) Funding credited under subparagraph (A) shall merge with and remain available for the same purposes and duration as the appropriations to which credited.
+
+**(d) Obligation Authority.—** The construction agent of the Department of Defense designated by the Secretary of Defense to execute a project under subsection (a) may recognize the North Atlantic Treaty Organization project authorization amounts as budgetary resources to incur obligations against for the purposes of executing the project.
+
+**(e) Insufficient Contributions.—**
+
+(1) In the event that the North Atlantic Treaty Organization does not agree to contribute funding for all costs necessary for the Department of Defense to carry out a project under subsection (a), including necessary personnel costs of the construction agent designated by the Department of Defense, contract claims, and any conjunctive funding requirements that exceed the project authorization or standards of the North Atlantic Treaty Organization, the Secretary of Defense, upon determination that completion of the project is in the national interest of the United States, may fund such costs, and undertake such conjunctively funded requirements not otherwise authorized by law, using any unobligated funds available among funds appropriated for the Program for military construction.
+
+(2) The use of funds under paragraph (1) from appropriations for the Program may be in addition to or in place of any other funding sources otherwise available for the purposes for which those funds are used.
+
+**(f) Authorized Expenditures Defined.—** In this section, the term “authorized expenditures” means project expenses for which the North Atlantic Treaty Organization has agreed to contribute funding.
+
+### Statutory Notes
+
+#### Prior Provisions
+A prior section 2350m was renumbered [section 344 of this title](./chapter-016-security-cooperation.md#section-344).
+
+#### Effective Date
+Pub. L. 116–283, div. B, § 2003, Jan. 1, 2021, 134 Stat. 4295, provided that: “Titles XXI through XXVII and title XXIX [see Tables for classification] shall take effect on the later of— “(1) October 1, 2020; or “(2) the date of the enactment of this Act [Jan. 1, 2021].”
+
+
+<a id="section-2350n"></a>
+## § 2350n. North Atlantic Treaty Organization Joint Force Command
+**(a) Authorization.—** The Secretary of Defense shall authorize the establishment of, and the participation by members of the armed forces in, the North Atlantic Treaty Organization Joint Force Command (in this section referred to as the “Joint Force Command”), to be established in the United States.
+
+**(b) Use of Department of Defense Facilities and Equipment.—** The Secretary may use facilities and equipment of the Department of Defense to support the Joint Force Command.
+
+**(c) Availability of Funds.—** Amounts authorized to be appropriated to the Department of Defense shall be available to carry out the purposes of this section.
+
+
+<a id="section-2350o"></a>
+## § 2350o. Participation in programs relating to coordination or exchange of air refueling and air transportation services
+**(a) Participation Authorized.—**
+
+(1) **In general.—** — The Secretary of Defense, with the concurrence of the Secretary of State, may authorize the participation of the Department of Defense in programs relating to the coordination or exchange of air refueling and air transportation services, including in the arrangement known as the Air Transport and Air-to-Air Refueling and other Exchanges of Services program (in this section referred to as the “ATARES program”).
+
+(2) **Scope of participation.—** — Participation of the Department of Defense in programs referred to in paragraph (1) may include—
+
+  (A) the reciprocal exchange or transfer of air refueling and air transportation services on a reimbursable basis or by replacement-in-kind; and
+
+  (B) the exchange of air refueling and air transportation services of an equal value.
+
+(3) **Limitations with respect to participation in atares program.—**
+
+  (A) *In general.—* — The Department of Defense balance of executed flight hours in participation in the ATARES program under paragraph (1), whether as credits or debits, may not exceed a total of 500 hours.
+
+  (B) *Air refueling.—* — The Department of Defense balance of executed flight hours for air refueling in participation in the ATARES program under paragraph (1) may not exceed 200 hours.
+
+**(b) Written Arrangement or Agreement.—** Participation of the Department of Defense in a program referred to in subsection (a)(1) shall be in accordance with a written arrangement or agreement entered into by the Secretary of Defense, with the concurrence of the Secretary of State.
+
+**(c) Implementation.—** In carrying out any arrangement or agreement entered into under subsection (b), the Secretary of Defense may—
+
+(1) pay the equitable share of the Department of Defense for the recurring and nonrecurring costs of the applicable program referred to in subsection (a)(1) from funds available to the Department for operation and maintenance; and
+
+(2) assign members of the armed forces or Department of Defense civilian personnel to fulfill Department obligations under that arrangement or agreement.
+
+### Statutory Notes
+
+#### Authority to Establish a Movement Coordination Center Pacific in the Indo-Pacific Region
+Pub. L. 116–283, div. A, title X, § 1061, Jan. 1, 2021, 134 Stat. 3858, provided that: “(a) Authority To Establish.—“(1) In general.—The Secretary of Defense, with the concurrence of the Secretary of State, may authorize—“(A) the establishment of a Movement Coordination Center Pacific (in this section referred to as the ‘Center’); and “(B) the participation of the Department of Defense in an Air Transport and Air-to-Air refueling and other Exchanges of Services program (in this section referred to as the ‘ATARES program’) of the Center. “(2) Scope of participation.—Participation in the ATARES program under paragraph (1)(B) shall be limited to the reciprocal exchange or transfer of air transportation and air refueling services on a reimbursable basis or by replacement-in-kind or the exchange of air transportation or air refueling services of an equal value with foreign militaries. “(3) Limitations.—The Department of Defense’s balance of executed transportation hours, whether as credits or debits, in participation in the ATARES program under paragraph (1)(B) may not exceed 500 hours. The Department of Defense’s balance of executed flight hours for air refueling in the ATARES program under paragraph (1)(B) may not exceed 200 hours. “(b) Written Arrangement or Agreement.—“(1) Arrangement or agreement required.—The participation of the Department of Defense in the ATARES program under subsection (a) shall be in accordance with a written arrangement or agreement entered into by the Secretary of Defense, with the concurrence of the Secretary of State. “(2) Funding arrangements.—If Department of Defense facilities, equipment, or funds are used to support the ATARES program, the written arrangement or agreement under paragraph (1) shall specify the details of any equitable cost-sharing or other funding arrangement. “(3) Other elements.—Any written arrangement or agreement entered into under paragraph (1) shall require that any accrued credits and liabilities resulting from an unequal exchange or transfer of air transportation or air refueling services shall be liquidated, not less than once every 5 years, through the ATARES program. “(c) Implementation.—In carrying out any written arrangement or agreement entered into under subsection (b), the Secretary of Defense may—“(1) pay the Department of Defense’s equitable share of the operating expenses of the Center and the ATARES program from funds available to the Department of Defense for operation and maintenance; and “(2) assign members of the Armed Forces or Department of Defense civilian personnel, within billets authorized for the United States Indo-Pacific Command, to duty at the Center as necessary to fulfill the obligations of the Department of Defense under that arrangement or agreement.”
+
+
+<a id="section-2350p"></a>
+## § 2350p. Reciprocal patient movement agreements
+**(a) Authority.—** Subject to the availability of appropriations, the Secretary of Defense, with the concurrence of the Secretary of State, may enter into a bilateral or multilateral memorandum of understanding or other formal agreement with one or more governments of partner countries that provides for—
+
+(1) the interchangeable, nonreimbursable use of patient movement personnel, either individually or as members of a patient movement crew or team, and equipment, belonging to one partner country to perform patient movement services aboard the aircraft, vessels, or vehicles of another partner country;
+
+(2) the reciprocal recognition and acceptance of —
+
+  (A) national professional credentials, certifications, and licenses of patient movement personnel; and
+
+  (B) national certifications, approvals, and licenses of equipment used in the provision of patient movement services; and
+
+(3) the acceptance of agreed-upon standards for the provision of patient movement services by aircraft, vessel, or vehicle, including, as determined to be beneficial and otherwise permitted by law, the harmonization of patient treatment standards and procedures.
+
+**(b) Certification.—**
+
+(1) Before entering into a memorandum of understanding or other formal agreement with the government of a partner country under this section, the Secretary of Defense shall certify in writing that the professional credentials, certifications, licenses, and approvals for patient movement personnel and patient movement equipment of the partner country—
+
+  (A) meet or exceed the equivalent standards of the United States for similar personnel and equipment; and
+
+  (B) will provide for a level of care comparable to, or better than, the level of care provided by the Department of Defense.
+
+(2) A certification under paragraph (1) shall be—
+
+  (A) submitted to the appropriate committees of Congress not later than 15 days after the date on which the Secretary of Defense makes the certification; and
+
+  (B) reviewed and recertified by the Secretary of Defense not less frequently than annually.
+
+**(c) Suspension.—** If the Secretary of Defense is unable to recertify a partner country as required by subsection (b)(2)(B), use of the personnel or equipment of the partner country by the Department of Defense under a memorandum of understanding or other formal agreement concluded pursuant to subsection (a) shall be suspended until the date on which the Secretary of Defense is able to recertify the partner country.
+
+**(d) Definitions.—** In this section:
+
+(1) **Appropriate committees of congress.—** — The term “appropriate committees of Congress” means—
+
+  (A) the congressional defense committees; and
+
+  (B) the Committee on Foreign Relations of the Senate and the Committee on Foreign Affairs of the House of Representatives.
+
+(2) **Partner country.—** — The term “partner country” means any of the following:
+
+  (A) A member country of the North Atlantic Treaty Organization.
+
+  (B) Australia.
+
+  (C) Japan.
+
+  (D) New Zealand.
+
+  (E) The Republic of Korea.
+
+  (F) Any other country designated as a partner country by the Secretary of Defense, with the concurrence of the Secretary of State, for purposes of this section.
+
+(3) **Patient movement.—** — The term “patient movement” means the act or process of moving wounded, ill, injured, or other persons (including contaminated, contagious, and potentially exposed patients) to obtain medical, surgical, mental health, or dental care or treatment.

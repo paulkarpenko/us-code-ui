@@ -2,7 +2,7 @@
 title: 42
 chapter: '68'
 heading: DISASTER RELIEF
-section_count: 110
+section_count: 111
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42&num=0&edition=prelim
 ---
@@ -42,6 +42,9 @@ Pub. L. 115–254, div. D, § 1202, Oct. 5, 2018, 132 Stat. 3438, provided that:
 
 #### Effective Date
 Pub. L. 93–288, title VI, § 605, May 22, 1974, 88 Stat. 164, provided that Pub. L. 93–288 was effective Apr. 1, 1974, with the exception of [section 5178 of this title](./chapter-068-disaster-relief.md#section-5178), prior to repeal by Pub. L. 100–707, title I, § 108(b), Nov. 23, 1988, 102 Stat. 4708.
+
+#### Short Title of 2021 Amendment
+Pub. L. 116–284, § 1, Jan. 1, 2021, 134 Stat. 4869, provided that: “This Act [enacting [section 5135 of this title](./chapter-068-disaster-relief.md#section-5135)] may be cited as the ‘Safeguarding Tomorrow through Ongoing Risk Mitigation Act’ or the ‘STORM Act’.”
 
 #### Short Title of 2018 Amendment
 Pub. L. 115–254, div. D, § 1201, Oct. 5, 2018, 132 Stat. 3438, provided that: “This division [div. D (§§ 1201–1246) of Pub. L. 115–254, enacting sections 5161a, 5165g, 5174a, 5174b, 5189h, 5196g, and 5205a of this title, and [section 748a of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section748a&num=0&edition=prelim), Domestic Security, amending sections 3149, 5122, 5133, 5149, 5152, 5155, 5165, 5165b, 5170a to 5170c, 5172, 5174, 5187, 5189a, 5189f, 5205 of this title, and sections 761 and 762 of Title 6, enacting provisions set out as notes under this section and sections 5122, 5133, 5155, 5170, 5170c, 5172, 5174, 5187, 5189g, 5205 of this title, and [section 721 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section721&num=0&edition=prelim), and amending provisions set out as a note under [section 5172 of this title](./chapter-068-disaster-relief.md#section-5172)] may be cited as the ‘Disaster Recovery Reform Act of 2018’.”
@@ -544,6 +547,292 @@ Pub. L. 106–390, title I, § 101, Oct. 30, 2000, 114 Stat. 1552, provided that
 For transfer of all functions, personnel, assets, components, authorities, grant programs, and liabilities of the Federal Emergency Management Agency, including the functions of the Under Secretary for Federal Emergency Management relating thereto, to the Federal Emergency Management Agency, see [section 315(a)(1) of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section315/a/1&num=0&edition=prelim), Domestic Security.
 
 For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see former section 313(1) and sections 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).
+
+
+<a id="section-5135"></a>
+## § 5135. Grants to entities for establishment of hazard mitigation revolving loan funds
+**(a) General authority**
+
+(1) **In general** — The Administrator may enter into agreements with eligible entities to make capitalization grants to such entities for the establishment of hazard mitigation revolving loan funds (referred to in this section as “entity loan funds”) for providing funding assistance to local governments to carry out eligible projects under this section to reduce disaster risks for homeowners, businesses, nonprofit organizations, and communities in order to decrease—
+
+  (A) the loss of life and property;
+
+  (B) the cost of insurance; and
+
+  (C) Federal disaster payments.
+
+(2) **Agreements** — Any agreement entered into under this section shall require the participating entity to—
+
+  (A) comply with the requirements of this section; and
+
+  (B) use accounting, audit, and fiscal procedures conforming to generally accepted accounting standards.
+
+**(b) Application**
+
+(1) **In general** — To be eligible to receive a capitalization grant under this section, an eligible entity shall submit to the Administrator an application that includes the following:
+
+  (A) Project proposals comprised of local government hazard mitigation projects, on the condition that the entity provides public notice not less than 6 weeks prior to the submission of an application.
+
+  (B) An assessment of recurring major disaster vulnerabilities impacting the entity that demonstrates a risk to life and property.
+
+  (C) A description of how the hazard mitigation plan of the entity has or has not taken the vulnerabilities described in subparagraph (B) into account.
+
+  (D) A description about how the projects described in subparagraph (A) could conform with the hazard mitigation plan of the entity and of the unit of local government.
+
+  (E) A proposal of the systematic and regional approach to achieve resilience in a vulnerable area, including impacts to river basins, river corridors, watersheds, estuaries, bays, coastal regions, micro-basins, micro-watersheds, ecosystems, and areas at risk of earthquakes, tsunamis, droughts, severe storms, and wildfires, including the wildland-urban interface.
+
+(2) **Technical assistance** — The Administrator shall provide technical assistance to eligible entities for applications under this section.
+
+**(c) Entity loan fund**
+
+(1) **Establishment of fund** — An entity that receives a capitalization grant under this section shall establish an entity loan fund that complies with the requirements of this subsection.
+
+(2) **Fund management** — Except as provided in paragraph (3), entity loan funds shall—
+
+  (A) be administered by the agency responsible for emergency management; and
+
+  (B) include only—
+
+    (i) funds provided by a capitalization grant under this section;
+
+    (ii) repayments of loans under this section to the entity loan fund; and
+
+    (iii) interest earned on amounts in the entity loan fund.
+
+(3) **Administration** — A participating entity may combine the financial administration of the entity loan fund of such entity with the financial administration of any other revolving fund established by such entity if the Administrator determines that—
+
+  (A) the capitalization grant, entity share, repayments of loans, and interest earned on amounts in the entity loan fund are accounted for separately from other amounts in the revolving fund; and
+
+  (B) the authority to establish assistance priorities and carry out oversight activities remains in the control of the entity agency responsible for emergency management.
+
+(4) **Entity share of funds**
+
+  (A) *In general* — On or before the date on which a participating entity receives a capitalization grant under this section, the entity shall deposit into the entity loan fund of such entity, an amount equal to not less than 10 percent of the amount of the capitalization grant.
+
+  (B) *Reduced grant* — If, with respect to a capitalization grant under this section, a participating entity deposits in the entity loan fund of the entity an amount that is less than 10 percent of the total amount of the capitalization grant that the participating entity would otherwise receive, the Administrator shall reduce the amount of the capitalization grant received by the entity to the amount that is 10 times the amount so deposited.
+
+**(d) Apportionment**
+
+(1) **In general** — Except as otherwise provided by this subsection, the Administrator shall apportion funds made available to carry out this section to entities that have entered into an agreement under subsection (a)(2) in amounts as determined by the Administrator.
+
+(2) **Reservation of funds** — The Administrator shall reserve not more than 2.5 percent of the amount made available to carry out this section for the Federal Emergency Management Agency for—
+
+  (A) administrative costs incurred in carrying out this section;
+
+  (B) providing technical assistance to participating entities under subsection (b)(2); and
+
+  (C) capitalization grants to insular areas under paragraph (4).
+
+(3) **Priority** — In the apportionment of capitalization grants under this subsection, the Administrator shall give priority to entity applications under subsection (b) that—
+
+  (A) propose projects increasing resilience and reducing risk of harm to natural and built infrastructure;
+
+  (B) involve a partnership between two or more eligible entities to carry out a project or similar projects;
+
+  (C) take into account regional impacts of hazards on river basins, river corridors, micro-watersheds, macro-watersheds, estuaries, lakes, bays, and coastal regions and areas at risk of earthquakes, tsunamis, droughts, severe storms, and wildfires, including the wildland-urban interface; or
+
+  (D) propose projects for the resilience of major economic sectors or critical national infrastructure, including ports, global commodity supply chain assets (located within an entity or within the jurisdiction of local governments, insular areas, and Indian tribal governments), power and water production and distribution centers, and bridges and waterways essential to interstate commerce.
+
+(4) **Insular areas**
+
+  (A) *Apportionment* — From any amount remaining of funds reserved under paragraph (2), the Administrator may enter into agreements to provide capitalization grants to insular areas.
+
+  (B) *Requirements* — An insular area receiving a capitalization grant under this section shall comply with the requirements of this section as applied to participating entities.
+
+**(e) Environmental review of revolving loan fund projects** The Administrator may delegate to a participating entity all of the responsibilities for environmental review, decision making, and action pursuant to the National Environmental Policy Act of 1969 ([42 U.S.C. 4321](./chapter-055-national-environmental-policy.md#section-4321) et seq.), and other applicable Federal environmental laws including the Endangered Species Act of 1973 ([16 U.S.C. 1531](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1531&num=0&edition=prelim) et seq.) and the National Historic Preservation Act of 1966 ([54 U.S.C. 300101](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section300101&num=0&edition=prelim) et seq.) that would apply to the Administrator were the Administrator to undertake projects under this section as Federal projects so long as the participating entity carries out such responsibilities in the same manner and subject to the same requirements as if the Administrator carried out such responsibilities.
+
+**(f) Use of funds**
+
+(1) **Types of assistance** — Amounts deposited in an entity loan fund, including loan repayments and interest earned on such amounts, may be used—
+
+  (A) to make loans, on the condition that—
+
+    (i) such loans are made at an interest rate of not more than 1 percent;
+
+    (ii) annual principal and interest payments will commence not later than 1 year after completion of any project and all loans made under this subparagraph will be fully amortized—
+
+      (I) not later than 20 years after the date on which the project is completed; or
+
+      (II) for projects in a low-income geographic area, not later than 30 years after the date on which the project is completed and not longer than the expected design life of the project;
+
+    (iii) the loan recipient of a loan under this subparagraph establishes a dedicated source of revenue for repayment of the loan;
+
+    (iv) the loan recipient of a loan under this subparagraph has a hazard mitigation plan that has been approved by the Administrator; and
+
+    (v) the entity loan fund will be credited with all payments of principal and interest on all loans made under this subparagraph;
+
+  (B) for mitigation efforts, in addition to mitigation planning under [section 5165 of this title](./chapter-068-disaster-relief.md#section-5165) not to exceed 10 percent of the capitalization grants made to the participating entity in a fiscal year;
+
+  (C) for the reasonable costs of administering the fund and conducting activities under this section, except that such amounts shall not exceed $100,000 per year, 2 percent of the capitalization grants made to the participating entity in a fiscal year, or 1 percent of the value of the entity loan fund, whichever amount is greatest, plus the amount of any fees collected by the entity for such purpose regardless of the source; and
+
+  (D) to earn interest on the entity loan fund.
+
+(2) **Prohibition on determination that loan is a duplication** — In carrying out this section, the Administrator may not determine that a loan is a duplication of assistance or programs under this chapter.
+
+(3) **Projects and activities eligible for assistance** — Except as provided in this subsection, a participating entity may use funds in the entity loan fund to provide financial assistance for projects or activities that mitigate the impacts of natural hazards including—
+
+  (A) drought and prolonged episodes of intense heat;
+
+  (B) severe storms, including hurricanes, tornados, wind storms, cyclones, and severe winter storms;
+
+  (C) wildfires;
+
+  (D) earthquakes;
+
+  (E) flooding, including the construction, repair, or replacement of a non-Federal levee or other flood control structure, provided that the Administrator, in consultation with the Army Corps of Engineers (if appropriate), requires an eligible entity to determine that such levee or structure is designed, constructed, and maintained in accordance with sound engineering practices and standards equivalent to the purpose for which such levee or structure is intended;
+
+  (F) shoreline erosion;
+
+  (G) high water levels; and
+
+  (H) storm surges.
+
+(4) **Zoning and land use planning changes** — A participating entity may use not more than 10 percent of a capitalization grant under this section to enable units of local government to implement zoning and land use planning changes focused on—
+
+  (A) the development and improvement of zoning and land use codes that incentivize and encourage low-impact development, resilient wildland-urban interface land management and development, natural infrastructure, green stormwater management, conservation areas adjacent to floodplains, implementation of watershed or greenway master plans, and reconnection of floodplains;
+
+  (B) the study and creation of agricultural risk compensation districts where there is a desire to remove or set-back levees protecting highly developed agricultural land to mitigate for flooding, allowing agricultural producers to receive compensation for assuming greater flood risk that would alleviate flood exposure to population centers and areas with critical national infrastructure;
+
+  (C) the study and creation of land use incentives that reward developers for greater reliance on low impact development stormwater best management practices, exchange density increases for increased open space and improvement of neighborhood catch basins to mitigate urban flooding, reward developers for including and augmenting natural infrastructure adjacent to and around building projects without reliance on increased sprawl, and reward developers for addressing wildfire ignition; and
+
+  (D) the study and creation of an erosion response plan that accommodates river, lake, forest, plains, and ocean shoreline retreating or bluff stabilization due to increased flooding and disaster impacts.
+
+(5) **Establishing and carrying out building code enforcement** — A participating entity may use capitalization grants under this section to enable units of local government to establish and carry out the latest published editions of relevant building codes, specifications, and standards for the purpose of protecting the health, safety, and general welfare of the building’s users against disasters and natural hazards.
+
+(6) **Administrative and technical costs** — For each fiscal year, a participating entity may use the amount described in paragraph (1)(C) to—
+
+  (A) pay the reasonable costs of administering the programs under this section, including the cost of establishing an entity loan fund; and
+
+  (B) provide technical assistance to recipients of financial assistance from the entity loan fund, on the condition that such technical assistance does not exceed 5 percent of the capitalization grant made to such entity.
+
+(7) **Limitation for single projects** — A participating entity may not provide an amount equal to or more than $5,000,000 to a single hazard mitigation project.
+
+(8) **Requirements** — For fiscal year 2022 and each fiscal year thereafter, the requirements of subchapter IV of chapter 31 of title 40 shall apply to the construction of projects carried out in whole or in part with assistance made available by an entity loan fund authorized by this section.
+
+**(g) Intended use plans**
+
+(1) **In general** — After providing for public comment and review, and consultation with appropriate government agencies of the State or Indian tribal government, Federal agencies, and interest groups, each participating entity shall annually prepare and submit to the Administrator a plan identifying the intended uses of the entity loan fund.
+
+(2) **Contents of plan** — An entity intended use plan prepared under paragraph (1) shall include—
+
+  (A) the integration of entity planning efforts, including entity hazard mitigation plans and other programs and initiatives relating to mitigation of major disasters carried out by such entity;
+
+  (B) an explanation of the mitigation and resiliency benefits the entity intends to achieve by—
+
+    (i) reducing future damage and loss associated with hazards;
+
+    (ii) reducing the number of severe repetitive loss structures and repetitive loss structures in the entity;
+
+    (iii) decreasing the number of insurance claims in the entity from injuries resulting from major disasters or other natural hazards; and
+
+    (iv) increasing the rating under the community rating system under [section 4022(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4022/b&num=0&edition=prelim) for communities in the entity;
+
+  (C) information on the availability of, and application process for, financial assistance from the entity loan fund of such entity;
+
+  (D) the criteria and methods established for the distribution of funds;
+
+  (E) the amount of financial assistance that the entity anticipates apportioning;
+
+  (F) the expected terms of the assistance provided from the entity loan fund; and
+
+  (G) a description of the financial status of the entity loan fund, including short-term and long-term goals for the fund.
+
+**(h) Audits, reports, publications, and oversight**
+
+(1) **Biennial entity audit and report** — Beginning not later than the last day of the second fiscal year after the receipt of payments under this section, and biennially thereafter, any participating entity shall—
+
+  (A) conduct an audit of the entity loan fund established under subsection (c); and
+
+  (B) provide to the Administrator a report including—
+
+    (i) the result of any such audit; and
+
+    (ii) a review of the effectiveness of the entity loan fund of the entity with respect to meeting the goals and intended benefits described in the intended use plan submitted by the entity under subsection (g).
+
+(2) **Publication** — A participating entity shall publish and periodically update information about all projects receiving funding from the entity loan fund of such entity, including—
+
+  (A) the location of the project;
+
+  (B) the type and amount of assistance provided from the entity loan fund;
+
+  (C) the expected funding schedule; and
+
+  (D) the anticipated date of completion of the project.
+
+(3) **Oversight**
+
+  (A) *In general* — The Administrator shall, at least every 4 years, conduct reviews and audits as may be determined necessary or appropriate by the Administrator to carry out the objectives of this section and determine the effectiveness of the fund in reducing natural hazard risk.
+
+  (B) *GAO requirements* — A participating entity shall conduct audits under paragraph (1) in accordance with the auditing procedures of the Government Accountability Office, including generally accepted government auditing standards.
+
+  (C) *Recommendations by Administrator* — The Administrator may at any time make recommendations for or require specific changes to an entity loan fund in order to improve the effectiveness of the fund.
+
+**(i) Regulations or guidance** The Administrator shall issue such regulations or guidance as are necessary to—
+
+(1) ensure that each participating entity uses funds as efficiently as possible;
+
+(2) reduce waste, fraud, and abuse to the maximum extent possible; and
+
+(3) require any party that receives funds directly or indirectly under this section, including a participating entity and a recipient of amounts from an entity loan fund, to use procedures with respect to the management of the funds that conform to generally accepted accounting standards.
+
+**(j) Waiver authority** Until such time as the Administrator issues final regulations to implement this section, the Administrator may—
+
+(1) waive notice and comment rulemaking, if the Administrator determines the waiver is necessary to expeditiously implement this section; and
+
+(2) provide capitalization grants under this section as a pilot program.
+
+**(k) Liability protections** The Agency shall not be liable for any claim based on the exercise or performance of, or the failure to exercise or perform, a discretionary function or duty by the Agency, or an employee of the Agency in carrying out this section.
+
+**(l) GAO report** Not later than 1 year after the date on which the first entity loan fund is established under subsection (c), the Comptroller General of the United States shall submit to the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a report that examines—
+
+(1) the appropriateness of regulations and guidance issued by the Administrator for the program, including any oversight of the program;
+
+(2) a description of the number of the entity loan funds established, the projects funded from such entity loan funds, and the extent to which projects funded by the loan funds adhere to any applicable hazard mitigation plans;
+
+(3) the effectiveness of the entity loan funds to lower disaster related costs; and
+
+(4) recommendations for improving the administration of entity loan funds.
+
+**(m) Definitions** In this section, the following definitions apply:
+
+(1) **Administrator** — The term “Administrator” means the Administrator of the Federal Emergency Management Agency.
+
+(2) **Agency** — The term “Agency” means the Federal Emergency Management Agency.
+
+(3) **Eligible entity** — The term “eligible entity” means—
+
+  (A) a State; or
+
+  (B) an Indian tribal government that has received a major disaster declaration during the 5-year period ending on January 1, 2021.
+
+(4) **Hazard mitigation plan** — The term “hazard mitigation plan” means a mitigation plan submitted under [section 5165 of this title](./chapter-068-disaster-relief.md#section-5165).
+
+(5) **Insular area** — The term “insular area” means Guam, American Samoa, the Commonwealth of the Northern Mariana Islands, and the United States Virgin Islands.
+
+(6) **Low-income geographic area** — The term “low-income geographic area” means an area described in paragraph (1) or (2) of [section 3161(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3161/a&num=0&edition=prelim).
+
+(7) **Participating entity** — The term “participating entity” means an eligible entity that has entered into an agreement under this section.
+
+(8) **Repetitive loss structure** — The term “repetitive loss structure” has the meaning given the term in [section 4121 of this title](./chapter-050-national-flood-insurance.md#section-4121).
+
+(9) **Severe repetitive loss structure** — The term “severe repetitive loss structure” has the meaning given the term in [section 4104c(h) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4104c/h&num=0&edition=prelim).
+
+(10) **State** — The term “State” means any State of the United States, the District of Columbia, and Puerto Rico.
+
+(11) **Wildland-urban interface** — The term “wildland-urban interface” has the meaning given the term in [section 6511 of title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section6511&num=0&edition=prelim).
+
+**(n) Authorization of appropriations** There are authorized to be appropriated $100,000,000 for each of fiscal years 2022 through 2023 to carry out this section.
+
+### Statutory Notes
+
+#### References in Text
+The National Environmental Policy Act of 1969, referred to in subsec. (e), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§ 4321 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 4321 of this title](./chapter-055-national-environmental-policy.md#section-4321) and Tables.
+
+The Endangered Species Act of 1973, referred to in subsec. (e), is Pub. L. 93–205, Dec. 28, 1973, 87 Stat. 884, which is classified principally to chapter 35 (§ 1531 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under [section 1531 of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1531&num=0&edition=prelim) and Tables.
+
+The National Historic Preservation Act of 1966, referred to in subsec. (e), probably means the National Historic Preservation Act, Pub. L. 89–665, Oct. 15, 1966, 80 Stat. 915, which was classified generally to subchapter II (§ 470 et seq.) of chapter 1A of Title 16, Conservation, was substantially repealed and replaced in division A (§ 300101 et seq.) of subtitle III of Title 54, National Park Service and Related Programs, by Pub. L. 113–287, §§ 3, 7, 128 Stat. 3187, 3272. For complete classification of this Act to the Code, see Short Title of 1966 Act note set out under [section 100101 of Title 54](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section100101&num=0&edition=prelim), and Tables. For disposition of former sections of Title 16, see Disposition Table preceding [section 100101 of Title 54](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section100101&num=0&edition=prelim).
+
+This chapter, referred to in subsec. (f)(2), was in the original “this Act”, meaning Pub. L. 93–288, May 22, 1974, 88 Stat. 143. For complete classification of this Act to the Code, see Short Title note set out under [section 5121 of this title](./chapter-068-disaster-relief.md#section-5121) and Tables.
 
 
 <a id="section-5141"></a>
@@ -1771,7 +2060,7 @@ A prior section 404 of Pub. L. 93–288 was classified to [section 5174 of this 
 #### Amendments
 2018—Subsec. (a). Pub. L. 115–254, § 1204(b)(1), inserted “, or any area affected by a fire for which assistance was provided under [section 5187 of this title](./chapter-068-disaster-relief.md#section-5187)” after “affected by a major disaster” in first sentence as inserted by section 1235(a) of Pub. L. 115–254, and inserted “or event under [section 5187 of this title](./chapter-068-disaster-relief.md#section-5187)” after “major disaster” in two places in third sentence.
 
-Pub. L. 115–254, § 1235(a), substituted “The President may contribute up to 75 percent of the cost of hazard mitigation measures which the President has determined are cost effective and which substantially reduce the risk of, or increase resilience to, future damage, hardship, loss, or suffering in any area affected by a major disaster.” for “The President may contribute up to 75 percent of the cost of hazard mitigation measures which the President has determined are cost-effective and which substantially reduce the risk of future damage, hardship, loss, or suffering in any area affected by a major disaster.”.
+Pub. L. 115–254, § 1235(a), substituted “The President may contribute up to 75 percent of the cost of hazard mitigation measures which the President has determined are cost effective and which substantially reduce the risk of, or increase resilience to, future damage, hardship, loss, or suffering in any area affected by a major disaster.” for “The President may contribute up to 75 percent of the cost of hazard mitigation measures which the President has determined are cost-effective and which substantially reduce the risk of future damage, hardship, loss, or suffering in any area affected by a major disaster.”
 
 Subsec. (f). Pub. L. 115–254, § 1205, added subsec. (f).
 
@@ -2436,6 +2725,9 @@ Amendment by Pub. L. 115–254 applicable to each major disaster and emergency d
 
 #### Effective Date of 2000 Amendment
 Pub. L. 106–390, title II, § 206(d), Oct. 30, 2000, 114 Stat. 1571, provided that: “The amendments made by this section [amending this section and [section 5192 of this title](./chapter-068-disaster-relief.md#section-5192) and repealing [section 5178 of this title](./chapter-068-disaster-relief.md#section-5178)] take effect 18 months after the date of the enactment of this Act [Oct. 30, 2000].”
+
+#### Lost Wages Assistance Recoupment Fairness
+Pub. L. 116–260, div. N, title II, § 262, Dec. 27, 2020, 134 Stat. 1962, provided that: “(a) Definitions.—In this section—“(1) the term ‘covered assistance’ means assistance provided for supplemental lost wages payments under subsections (e)(2) and (f) of section 408 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act ([42 U.S.C. 5174](./chapter-068-disaster-relief.md#section-5174)), as authorized under the emergency declaration issued by the President on March 13, 2020, pursuant to section 501(b) of such Act ([42 U.S.C. 5191(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5191/b&num=0&edition=prelim)) and under any subsequent major disaster declaration under section 401 of such Act ([42 U.S.C. 5170](./chapter-068-disaster-relief.md#section-5170)) that supersedes such emergency declaration; and “(2) the term ‘State’ has the meaning given the term in section 102 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act ([42 U.S.C. 5122](./chapter-068-disaster-relief.md#section-5122)). “(b) Waiver Authority for State Liability.—In the case of any individual who has received amounts of covered assistance to which the individual is not entitled, the State shall require the individual to repay the amounts of such assistance to the State agency, except that the State agency may waive such repayment if the State agency determines that—“(1) the payment of such covered assistance was without fault on the part of the individual; and “(2) such repayment would be contrary to equity and good conscience. “(c) Waiver Authority for Federal Liability.—Any waiver of debt issued by a State under subsection (b) shall also waive the debt owed to the United States. “(d) Reporting.—“(1) State reporting.—If a State issues a waiver of debt under subsection (b), the State shall report such waiver to the Administrator of the Federal Emergency Management Agency. “(2) OIG reporting.—Not later than 6 months after the date of enactment of this Act [Dec. 27, 2020], the Inspector General of the Department of Homeland Security shall submit a report that assesses the efforts of the States to waive recoupment related to lost wages assistance under section 408 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act ([42 U.S.C. 5174](./chapter-068-disaster-relief.md#section-5174)) to—“(A) the Committee on Homeland Security and Governmental Affairs, the Committee on Finance, and the Subcommittee on Homeland Security of the Committee on Appropriations of the Senate; and “(B) the Committee on Transportation and Infrastructure, Committee on Ways and Means, and the Subcommittee on Homeland Security of the Committee on Appropriations of the House of Representatives.”
 
 #### Reimbursement
 Pub. L. 115–254, div. D, § 1211(b), Oct. 5, 2018, 132 Stat. 3447, provided that: “The Federal Emergency Management Agency (FEMA) shall reimburse State and local units of government (for requests received within a period of 3 years after the declaration of a major disaster under section 401 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act ([42 U.S.C. 5170](./chapter-068-disaster-relief.md#section-5170))) upon determination that a locally implemented housing solution, implemented by State or local units of government— “(1) costs 50 percent of comparable FEMA solution or whatever the locally implemented solution costs, whichever is lower; “(2) complies with local housing regulations and ordinances; and “(3) the housing solution was implemented within 90 days of the disaster.”
@@ -3435,7 +3727,7 @@ Provisions similar to those in this section were contained in section 2263 of th
 
 (2) to develop and promote awareness of emergency preparedness education programs within minority communities, including development and preparation of culturally competent educational and awareness materials that can be used to disseminate information to minority organizations and institutions.
 
-**(c) Eligible organizations** A nonprofit organization is eligible to be awarded a grant, contract, or cooperative agreement under this section with respect to a program if the organization is a nonprofit organization that is described in [section 501(c)(3) of title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section501/c/3&num=0&edition=prelim) and exempt from tax under section 501(a) of such title, whose primary mission is to provide services to communities predominately populated by minority citizens, and that can demonstrate a partnership with a minority-owned business enterprise or minority business located in a HUBZone (as defined in [section 632(p) of title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section632/p&num=0&edition=prelim)) with respect to the program.
+**(c) Eligible organizations** A nonprofit organization is eligible to be awarded a grant, contract, or cooperative agreement under this section with respect to a program if the organization is a nonprofit organization that is described in [section 501(c)(3) of title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section501/c/3&num=0&edition=prelim) and exempt from tax under section 501(a) of such title, whose primary mission is to provide services to communities predominately populated by minority citizens, and that can demonstrate a partnership with a minority-owned business enterprise or minority business located in a HUBZone (as defined in section 632(p) 11 See References in Text note below. of title 15) with respect to the program.
 
 **(d) Use of funds** A recipient of a grant, contract, or cooperative agreement awarded under this section may only use the proceeds of the grant, contract, or agreement to—
 
@@ -3454,6 +3746,8 @@ Provisions similar to those in this section were contained in section 2263 of th
 ### Statutory Notes
 
 #### References in Text
+[Section 632(p) of title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section632/p&num=0&edition=prelim), referred to in subsec. (c), was redesignated [section 657a(b) of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section657a/b&num=0&edition=prelim), Commerce and Trade, by Pub. L. 115–91, div. A, title XVII, § 1701(a)(2), Dec. 12, 2017, 131 Stat. 1795.
+
 Subparagraph (A), (B), or (C) of [section 1063b(e)(1) of title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1063b/e/1&num=0&edition=prelim), referred to in subsec. (d)(4), was in the original “subparagraph (A), (B), or (C) of section 326 of that Act ([20 U.S.C. 1063b(e)(1)(A)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1063b/e/1/A&num=0&edition=prelim), (B), or (C))”, which was translated as reading “subparagraph (A), (B), or (C) of section 326(e)(1) of that Act ([20 U.S.C. 1063b(e)(1)(A)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1063b/e/1/A&num=0&edition=prelim), (B), or (C))” to reflect the probable intent of Congress.
 
 #### Amendments

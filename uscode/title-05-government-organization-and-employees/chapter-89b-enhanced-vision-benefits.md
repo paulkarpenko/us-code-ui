@@ -175,7 +175,15 @@ Section effective Dec. 23, 2004, and applicable to contracts that take effect wi
 
 (2) A transfer under paragraph (1) shall be subject to waiting periods provided under a new plan.
 
+**(d)** Coverage under a vision benefits plan under this chapter for any employee or a covered TRICARE-eligible individual enrolled in such a plan and who, as a result of a lapse in appropriations, is furloughed or excepted from furlough and working without pay shall continue during such lapse and may not be cancelled as a result of nonpayment of premiums or other periodic charges due to such lapse.
+
 ### Statutory Notes
+
+#### Amendments
+2019—Subsec. (d). Pub. L. 116–92 added subsec. (d).
+
+#### Effective Date of 2019 Amendment
+Amendment by Pub. L. 116–92 applicable to any contract for supplemental vision insurance under this chapter entered into before, on, or after Dec. 20, 2019, see section 1111(c) of Pub. L. 116–92, set out as a note under [section 8956 of this title](./chapter-89a-enhanced-dental-benefits.md#section-8956).
 
 #### Effective Date
 Section effective Dec. 23, 2004, and applicable to contracts that take effect with respect to the calendar year 2006, see section 7 of Pub. L. 108–496, set out as a note under [section 8951 of this title](./chapter-89a-enhanced-dental-benefits.md#section-8951).

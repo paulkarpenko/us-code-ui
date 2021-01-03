@@ -19,6 +19,9 @@ This chapter, referred to in text, was in the original “this title”, meaning
 #### Amendments
 2000—Pub. L. 106–200 inserted “(or other preferential treatment)” after “treatment”.
 
+#### Short Title of 2020 Amendment
+Pub. L. 116–164, § 1, Oct. 10, 2020, 134 Stat. 758, provided that: “This Act [amending sections 58c and 2703 of this title and amending provisions set out as a note under [section 3805 of this title](./chapter-024-bipartisan-trade-promotion-authority.md#section-3805)] may be cited as the ‘Extension of the Caribbean Basin Economic Recovery Act’.”
+
 #### Short Title of 2010 Amendment
 Pub. L. 111–171, § 1, May 24, 2010, 124 Stat. 1194, provided that: “This Act [amending sections 58c, 2703, and 2703a of this title and enacting provisions set out as notes under [section 2703a of this title](./chapter-015-caribbean-basin-economic-recovery.md#section-2703a) and [section 6655 of Title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section6655&num=0&edition=prelim), Internal Revenue Code] may be cited as the ‘Haiti Economic Lift Program Act of 2010’.”
 
@@ -43,7 +46,7 @@ Pub. L. 98–67, title II, § 201, Aug. 5, 1983, 97 Stat. 384, provided that: �
 Pub. L. 106–200, title II, § 202, May 18, 2000, 114 Stat. 275, provided that: “(a) Findings.—Congress makes the following findings:“(1) The Caribbean Basin Economic Recovery Act [[19 U.S.C. 2701](./chapter-015-caribbean-basin-economic-recovery.md#section-2701) et seq.] (in this title [see Short Title of 2000 Amendment note above] referred to as ‘CBERA’) represents a permanent commitment by the United States to encourage the development of strong democratic governments and revitalized economies in neighboring countries in the Caribbean Basin. “(2) In 1998, Hurricane Mitch and Hurricane Georges devastated areas in the Caribbean Basin region, killing more than 10,000 people and leaving 3,000,000 homeless. “(3) The total direct impact of Hurricanes Mitch and Georges on Honduras, Nicaragua, the Dominican Republic, El Salvador, and Guatemala amounts to $4,200,000,000, representing a severe loss to income levels in this underdeveloped region. “(4) In addition to short term disaster assistance, United States policy toward the region should focus on expanding international trade with the Caribbean Basin region as an enduring solution for successful economic growth and recovery. “(5) Thirty-four democratically elected leaders agreed at the 1994 Summit of the Americas to conclude negotiation of a Free Trade Area of the Americas (in this title referred to as ‘FTAA’) by the year 2005. “(6) The economic security of the countries in the Caribbean Basin will be enhanced by the completion of the FTAA. “(7) Offering temporary benefits to Caribbean Basin countries will preserve the United States commitment to Caribbean Basin beneficiary countries, promote the growth of free enterprise and economic opportunity in these neighboring countries, and thereby enhance the national security interests of the United States. “(8) Given the greater propensity of countries located in the Western Hemisphere to use United States components and to purchase United States products compared to other countries, increased trade and economic activity between the United States and countries in the Western Hemisphere will create new jobs in the United States as a result of expanding export opportunities. “(b) Policy.—It is the policy of the United States—“(1) to offer Caribbean Basin beneficiary countries willing to prepare to become a party to the FTAA or another free trade agreement, tariff treatment essentially equivalent to that accorded to products of NAFTA countries for certain products not currently eligible for duty-free treatment under the CBERA; and “(2) to seek the participation of Caribbean Basin beneficiary countries in the FTAA or another free trade agreement at the earliest possible date, with the goal of achieving full participation in such agreement not later than 2005.”
 
 #### Meetings of Trade Ministers and USTR
-Pub. L. 106–200, title II, § 213, May 18, 2000, 114 Stat. 288, provided that: “(a) Schedule of Meetings.—The President shall take the necessary steps to convene a meeting with the trade ministers of the CBTPA beneficiary countries in order to establish a schedule of regular meetings, to commence as soon as is practicable, of the trade ministers and the Trade Representative, for the purpose set forth in subsection (b). “(b) Purpose.—The purpose of the meetings scheduled under subsection (a) is to reach agreement between the United States and CBTPA beneficiary countries on the likely timing and procedures for initiating negotiations for CBTPA beneficiary countries to enter into mutually advantageous free trade agreements with the United States that contain provisions comparable to those in the NAFTA and would make substantial progress in achieving the negotiating objectives set forth in section 108(b)(5) of Public Law 103–182 ([19 U.S.C. 3317(b)(5)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section3317/b/5&num=0&edition=prelim)). “(c) Definition.—In this section, the term ‘CBTPA beneficiary country’ has the meaning given that term in section 213(b)(5)(B) of the Caribbean Basin Economic Recovery Act [[19 U.S.C. 2703(b)(5)(B)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section2703/b/5/B&num=0&edition=prelim)].”
+Pub. L. 106–200, title II, § 213, May 18, 2000, 114 Stat. 288, provided that: “(a) Schedule of Meetings.—The President shall take the necessary steps to convene a meeting with the trade ministers of the CBTPA beneficiary countries in order to establish a schedule of regular meetings, to commence as soon as is practicable, of the trade ministers and the Trade Representative, for the purpose set forth in subsection (b). “(b) Purpose.—The purpose of the meetings scheduled under subsection (a) is to reach agreement between the United States and CBTPA beneficiary countries on the likely timing and procedures for initiating negotiations for CBTPA beneficiary countries to enter into mutually advantageous free trade agreements with the United States that contain provisions comparable to those in the NAFTA and would make substantial progress in achieving the negotiating objectives set forth in section 108(b)(5) of Public Law 103–182 ([former] [19 U.S.C. 3317(b)(5)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section3317/b/5&num=0&edition=prelim)). “(c) Definition.—In this section, the term ‘CBTPA beneficiary country’ has the meaning given that term in section 213(b)(5)(B) of the Caribbean Basin Economic Recovery Act [[19 U.S.C. 2703(b)(5)(B)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section2703/b/5/B&num=0&edition=prelim)].”
 
 #### Congressional Findings
 Pub. L. 101–382, title II, § 202, Aug. 20, 1990, 104 Stat. 655, provided that: “The Congress finds that— “(1) a stable political and economic climate in the Caribbean region is necessary for the development of the countries in that region and for the security and economic interests of the United States; “(2) the Caribbean Basin Economic Recovery Act [this chapter] was enacted in 1983 to assist in the achievement of such a climate by stimulating the development of the export potential of the region; and “(3) the commitment of the United States to the successful development of the region, as evidenced by the enactment of the Caribbean Basin Economic Recovery Act, should be reaffirmed, and further strengthened, by amending that Act to improve its operation.”
@@ -64,7 +67,7 @@ Pub. L. 106–200, title II, § 203, May 18, 2000, 114 Stat. 276, provided that:
 
   (C) The term “HTS” means Harmonized Tariff Schedule of the United States.
 
-  (D) The term “NAFTA” means the North American Free Trade Agreement entered into between the United States, Mexico, and Canada on December 17, 1992.
+  (D) The term “USMCA” has the meaning given that term in [section 4502 of this title](./chapter-029-united-states-mexico-canada-agreement-implementation.md#section-4502).
 
   (E) The terms “WTO” and “WTO member” have the meanings given those terms in [section 3501 of this title](./chapter-022-uruguay-round-trade-agreements.md#section-3501).
 
@@ -199,6 +202,8 @@ This chapter, referred to in subsec. (e)(1)(B), was in the original “this subt
 Subsec. (d) of this section amended general headnote 3(a) of the Tariff Schedules of the United States. The Tariff Schedules were replaced by the Harmonized Tariff Schedule of the United States. See References in Text note above.
 
 #### Amendments
+2020—Subsec. (a)(1)(D). Pub. L. 116–260 added subpar. (D) and struck out former subpar. (D) which defined “NAFTA”.
+
 2011—Subsec. (b). Pub. L. 112–43, §§ 107(c), 402(a), temporarily struck out “Panama” from list of countries eligible for designation as beneficiary country. See Effective and Termination Dates of 2011 Amendment note below.
 
 2005—Subsec. (a)(1)(F). Pub. L. 109–53, §§ 107(d), 402(a), temporarily added subpar. (F). See Effective and Termination Dates of 2005 Amendment note below.
@@ -228,6 +233,9 @@ Subsec. (f). Pub. L. 101–382, § 214, added subsec. (f).
 Subsec. (e). Pub. L. 100–418, § 1909(c), amended subsec. (e) generally. Prior to amendment, subsec. (e) read as follows: “The President shall, after complying with the requirements of subsection (a)(2) of this section, withdraw or suspend the designation of any country as a beneficiary country if, after such designation, he determines that as the result of changed circumstances such country would be barred from designation as a beneficiary country under subsection (b) of this section.”
 
 1986—Subsec. (b)(6), (7). Pub. L. 99–570 redesignated par. (7) as (6) and struck out former par. (6) which provided that the President shall not designate a country as a beneficiary country under this chapter if the country does not take adequate steps to cooperate with the United States to prevent narcotic drugs and other controlled substances produced, processed, or transported in the country from entering the United States unlawfully.
+
+#### Effective Date of 2020 Amendment
+Amendment by Pub. L. 116–260 effective July 1, 2020, see section 602(g) of div. O of Pub. L. 116–260, set out as a note under [section 2578b of this title](./chapter-013-trade-agreements-act-of-1979.md#section-2578b).
 
 #### Effective and Termination Dates of 2011 Amendment
 Amendment by Pub. L. 112–43 effective on date President terminates designation of Panama [Designation terminated Oct. 29, 2012. See Proc. No. 8894, 77 F.R. 66507.] as beneficiary country pursuant to section 201(a)(3) of Pub. L. 112–43, set out in a note under [section 3805 of this title](./chapter-024-bipartisan-trade-promotion-authority.md#section-3805), and to cease to have effect on date the United States–Panama Trade Promotion Agreement terminates, see sections 107(c) and 402(b) of Pub. L. 112–43, set out in a note under [section 3805 of this title](./chapter-024-bipartisan-trade-promotion-authority.md#section-3805).
@@ -336,7 +344,7 @@ Pub. L. 100–418, title I, § 1909(a), (b), Aug. 23, 1988, 102 Stat. 1317, 1318
 
         (bb) 850,000,000 square meter equivalents during the 1-year period beginning on October 1, 2003.
 
-        (cc) 970,000,000 square meter equivalents in each succeeding 1-year period through September 30, 2020.
+        (cc) 970,000,000 square meter equivalents in each succeeding 1-year period through September 30, 2030.
 
       (III) T-shirts, other than underwear, classifiable under subheadings 6109.10.00 and 6109.90.10 of the HTS, made in one or more CBTPA beneficiary countries from fabric formed in one or more CBTPA beneficiary countries from yarns wholly formed in the United States, in an amount not exceeding the amount set forth in subclause (IV).
 
@@ -348,7 +356,7 @@ Pub. L. 100–418, title I, § 1909(a), (b), Aug. 23, 1988, 102 Stat. 1317, 1318
 
         (cc) 10,000,000 dozen during the 1-year period beginning on October 1, 2003.
 
-        (dd) 12,000,000 dozen in each succeeding 1-year period through September 30, 2020.
+        (dd) 12,000,000 dozen in each succeeding 1-year period through September 30, 2030.
 
       (V) It is the sense of the Congress that the Congress should determine, based on the record of expansion of exports from the United States as a result of the preferential treatment of articles under this clause, the percentage by which the amount provided in subclauses (II) and (IV) should be compounded for the 1-year periods occurring after the 1-year period ending on September 30, 2004.
 
@@ -356,13 +364,13 @@ Pub. L. 100–418, title I, § 1909(a), (b), Aug. 23, 1988, 102 Stat. 1317, 1318
 
       (I) *General rule* — Subject to subclause (II), any apparel article classifiable under subheading 6212.10 of the HTS, except for articles entered under clause (i), (ii), (iii), (v), or (vi), if the article is both cut and sewn or otherwise assembled in the United States, or one or more CBTPA beneficiary countries, or both.
 
-      (II) *Limitation* — During the 1-year period beginning on October 1, 2001, and during each of the 18 succeeding 1-year periods, apparel articles described in subclause (I) of a producer or an entity controlling production shall be eligible for preferential treatment under subparagraph (B) only if the aggregate cost of fabrics (exclusive of all findings and trimmings) formed in the United States that are used in the production of all such articles of that producer or entity that are entered and eligible under this clause during the preceding 1-year period is at least 75 percent of the aggregate declared customs value of the fabric (exclusive of all findings and trimmings) contained in all such articles of that producer or entity that are entered and eligible under this clause during the preceding 1-year period.
+      (II) *Limitation* — During the 1-year period beginning on October 1, 2001, and during each of the 28 succeeding 1-year periods, apparel articles described in subclause (I) of a producer or an entity controlling production shall be eligible for preferential treatment under subparagraph (B) only if the aggregate cost of fabrics (exclusive of all findings and trimmings) formed in the United States that are used in the production of all such articles of that producer or entity that are entered and eligible under this clause during the preceding 1-year period is at least 75 percent of the aggregate declared customs value of the fabric (exclusive of all findings and trimmings) contained in all such articles of that producer or entity that are entered and eligible under this clause during the preceding 1-year period.
 
       (III) *Development of procedure to ensure compliance* — The United States Customs Service shall develop and implement methods and procedures to ensure ongoing compliance with the requirement set forth in subclause (II). If the Customs Service finds that a producer or an entity controlling production has not satisfied such requirement in a 1-year period, then apparel articles described in subclause (I) of that producer or entity shall be ineligible for preferential treatment under subparagraph (B) during any succeeding 1-year period until the aggregate cost of fabrics (exclusive of all findings and trimmings) formed in the United States that are used in the production of such articles of that producer or entity entered during the preceding 1-year period is at least 85 percent of the aggregate declared customs value of the fabric (exclusive of all findings and trimmings) contained in all such articles of that producer or entity that are entered and eligible under this clause during the preceding 1-year period.
 
     (v) *Apparel articles assembled from fabrics or yarn not widely available in commercial quantities*
 
-      (I) Apparel articles that are both cut (or knit-to-shape) and sewn or otherwise assembled in one or more CBTPA beneficiary countries, to the extent that apparel articles of such fabrics or yarn would be eligible for preferential treatment, without regard to the source of the fabrics or yarn, under Annex 401 of the NAFTA.
+      (I) Apparel articles that are both cut (or knit-to-shape) and sewn or otherwise assembled in one or more CBTPA beneficiary countries, to the extent that apparel articles of such fabrics or yarn would be eligible for preferential treatment, without regard to the source of the fabrics or yarn, under Annex 4–B of the USMCA.
 
       (II) At the request of any interested party, the President is authorized to proclaim additional fabrics and yarn as eligible for preferential treatment under subclause (I) if—
 
@@ -398,7 +406,11 @@ Pub. L. 100–418, title I, § 1909(a), (b), Aug. 23, 1988, 102 Stat. 1317, 1318
 
       (III) *De minimis rule* — An article that would otherwise be ineligible for preferential treatment under this paragraph because the article contains fibers or yarns not wholly formed in the United States or in one or more CBTPA beneficiary countries shall not be ineligible for such treatment if the total weight of all such fibers or yarns is not more than 7 percent of the total weight of the good. Notwithstanding the preceding sentence, an apparel article containing elastomeric yarns shall be eligible for preferential treatment under this paragraph only if such yarns are wholly formed in the United States.
 
-      (IV) *Special origin rule* — An article otherwise eligible for preferential treatment under clause (i), (ii), or (ix) of this subparagraph shall not be ineligible for such treatment because the article contains nylon filament yarn (other than elastomeric yarn) that is classifiable under subheading 5402.10.30, 5402.10.60, 5402.31.30, 5402.31.60, 5402.32.30, 5402.32.60, 5402.41.10, 5402.41.90, 5402.51.00, or 5402.61.00 of the HTS duty-free from a country that is a party to an agreement with the United States establishing a free trade area, which entered into force before January 1, 1995.
+      (IV) *Special origin rule* — An article otherwise eligible for preferential treatment under clause (i), (ii), or (ix) of this subparagraph shall not be ineligible for such treatment because the article contains nylon filament yarn (other than elastomeric yarn) that is classifiable under subheading 5402.10.30, 5402.10.60, 5402.31.30, 5402.31.60, 5402.32.30, 5402.32.60, 5402.41.10, 5402.41.90, 5402.51.00, or 5402.61.00 of the HTS duty-free from—
+
+        (aa) a country that is a party to an agreement with the United States establishing a free trade area, which entered into force before January 1, 1995; or
+
+        (bb) a USMCA country (as defined in [section 4502 of this title](./chapter-029-united-states-mexico-canada-agreement-implementation.md#section-4502)).
 
       (V) *Thread* — An article otherwise eligible for preferential treatment under this paragraph shall not be ineligible for such treatment because the thread used to assemble the article is dyed, printed, or finished in one or more CBTPA beneficiary countries.
 
@@ -412,7 +424,7 @@ Pub. L. 100–418, title I, § 1909(a), (b), Aug. 23, 1988, 102 Stat. 1317, 1318
 
   (B) *Preferential treatment* — Except as provided in subparagraph (E), during the transition period, the articles to which this subparagraph applies shall enter the United States free of duty and free of any quantitative restrictions, limitations, or consultation levels.
 
-  (C) *Handloomed, handmade, and folklore articles* — For purposes of subparagraph (A)(vi), the President shall consult with representatives of the CBTPA beneficiary countries concerned for the purpose of identifying particular textile and apparel goods that are mutually agreed upon as being handloomed, handmade, or folklore goods of a kind described in section 2.3(a), (b), or (c) of the Annex or Appendix 3.1.B.11 of the Annex.
+  (C) *Handloomed, handmade, and folklore articles* — For purposes of subparagraph (A)(vi), the President shall consult with representatives of the CBTPA beneficiary countries concerned for the purpose of identifying particular textile and apparel goods that are mutually agreed upon as being handloomed, handmade, or folklore goods of a kind described in article 6.2 of the USMCA.
 
   (D) *Penalties for transshipments*
 
@@ -438,7 +450,7 @@ Pub. L. 100–418, title I, § 1909(a), (b), Aug. 23, 1988, 102 Stat. 1317, 1318
 
   (A) *Equivalent tariff treatment*
 
-    (i) *In general* — Subject to clauses (ii) and (iii), the tariff treatment accorded at any time during the transition period to any article referred to in any of subparagraphs (B) through (F) of paragraph (1) that is a CBTPA originating good shall be identical to the tariff treatment that is accorded at such time under Annex 302.2 of the NAFTA to an article described in the same 8-digit subheading of the HTS that is a good of Mexico and is imported into the United States.
+    (i) *In general* — Subject to clauses (ii) and (iii), the tariff treatment accorded at any time during the transition period to any article referred to in any of subparagraphs (B) through (F) of paragraph (1) that is a CBTPA originating good shall be identical to the tariff treatment that is accorded at such time under Annex 2–B of the USMCA to an article described in the same 8-digit subheading of the HTS that is a good of Mexico and is imported into the United States.
 
     (ii) *Exception* — Clause (i) does not apply to any article accorded duty-free treatment under U.S. Note 2(b) to subchapter II of chapter 98 of the HTS.
 
@@ -454,7 +466,7 @@ Pub. L. 100–418, title I, § 1909(a), (b), Aug. 23, 1988, 102 Stat. 1317, 1318
 
   (A) *In general*
 
-    (i) *Regulations* — Any importer that claims preferential treatment under paragraph (2) or (3) shall comply with customs procedures similar in all material respects to the requirements of Article 502(1) of the NAFTA as implemented pursuant to United States law, in accordance with regulations promulgated by the Secretary of the Treasury.
+    (i) *Regulations* — Any importer that claims preferential treatment under paragraph (2) or (3) shall comply with customs procedures similar in all material respects to the requirements of article 5.4.1 of the USMCA as implemented pursuant to United States law, in accordance with regulations promulgated by the Secretary of the Treasury.
 
     (ii) *Determination*
 
@@ -463,7 +475,7 @@ Pub. L. 100–418, title I, § 1909(a), (b), Aug. 23, 1988, 102 Stat. 1317, 1318
         (aa) has implemented and follows; or
 
         (bb) is making substantial progress toward implementing and following,
-      procedures and requirements similar in all material respects to the relevant procedures and requirements under chapter 5 of the NAFTA.
+      procedures and requirements similar in all material respects to the relevant procedures and requirements under chapter 5 of the USMCA.
 
   (II) *Country described* — A country is described in this subclause if it is a CBTPA beneficiary country—
 
@@ -471,7 +483,7 @@ Pub. L. 100–418, title I, § 1909(a), (b), Aug. 23, 1988, 102 Stat. 1317, 1318
 
     (bb) in which materials used in the production of the article originate or in which the article or such materials undergo production that contributes to a claim that the article is eligible for preferential treatment under paragraph (2) or (3).
 
-  (B) *Certificate of origin* — The Certificate of Origin that otherwise would be required pursuant to the provisions of subparagraph (A) shall not be required in the case of an article imported under paragraph (2) or (3) if such Certificate of Origin would not be required under Article 503 of the NAFTA (as implemented pursuant to United States law), if the article were imported from Mexico.
+  (B) *Certificate of origin* — The Certificate of Origin that otherwise would be required pursuant to the provisions of subparagraph (A) shall not be required in the case of an article imported under paragraph (2) or (3) if such Certificate of Origin would not be required under article 5.5 of the USMCA (as implemented pursuant to United States law), if the article were imported from Mexico.
 
   (C) *Report by USTR on cooperation of other countries concerning circumvention* — The United States Commissioner of Customs shall conduct a study analyzing the extent to which each CBTPA beneficiary country—
 
@@ -484,7 +496,7 @@ Pub. L. 100–418, title I, § 1909(a), (b), Aug. 23, 1988, 102 Stat. 1317, 1318
 
 (5) **Definitions and special rules** — For purposes of this subsection—
 
-  (A) *Annex* — The term “the Annex” means Annex 300–B of the NAFTA.
+  (A) *Annex* — The term “the Annex” means Annex 300–B of the North American Free Trade Agreement entered into between the United States, Mexico, and Canada on December 17, 1992.
 
   (B) *CBTPA beneficiary country* — The term “CBTPA beneficiary country” means any “beneficiary country”, as defined in [section 2702(a)(1)(A) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section2702/a/1/A&num=0&edition=prelim), which the President designates as a CBTPA beneficiary country, taking into account the criteria contained in subsections (b) and (c) of [section 2702 of this title](./chapter-015-caribbean-basin-economic-recovery.md#section-2702) and other appropriate criteria, including the following:
 
@@ -522,11 +534,11 @@ Pub. L. 100–418, title I, § 1909(a), (b), Aug. 23, 1988, 102 Stat. 1317, 1318
 
   (C) *CBTPA originating good*
 
-    (i) *In general* — The term “CBTPA originating good” means a good that meets the rules of origin for a good set forth in chapter 4 of the NAFTA as implemented pursuant to United States law.
+    (i) *In general* — The term “CBTPA originating good” means a good that meets the rules of origin for a good set forth in chapter 4 of the USMCA as implemented pursuant to United States law.
 
-    (ii) *Application of chapter 4* — In applying chapter 4 of the NAFTA with respect to a CBTPA beneficiary country for purposes of this subsection—
+    (ii) *Application of chapter 4* — In applying chapter 4 of the USMCA with respect to a CBTPA beneficiary country for purposes of this subsection—
 
-      (I) no country other than the United States and a CBTPA beneficiary country may be treated as being a party to the NAFTA;
+      (I) no country other than the United States and a CBTPA beneficiary country may be treated as being a party to the USMCA;
 
       (II) any reference to trade between the United States and Mexico shall be deemed to refer to trade between the United States and a CBTPA beneficiary country;
 
@@ -536,9 +548,9 @@ Pub. L. 100–418, title I, § 1909(a), (b), Aug. 23, 1988, 102 Stat. 1317, 1318
 
   (D) *Transition period* — The term “transition period” means, with respect to a CBTPA beneficiary country, the period that begins on October 1, 2000, and ends on the earlier of—
 
-    (i) September 30, 2020; or
+    (i) September 30, 2030; or
 
-    (ii) the date on which the FTAA or another free trade agreement that makes substantial progress in achieving the negotiating objectives set forth in [section 3317(b)(5) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section3317/b/5&num=0&edition=prelim) enters into force with respect to the United States and the CBTPA beneficiary country.
+    (ii) the date on which the FTAA or another free trade agreement that makes substantial progress in achieving the negotiating objectives set forth in section 108(b)(5) of Public Law 103–182 ([19 U.S.C. 3317(b)(5)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section3317/b/5&num=0&edition=prelim)) 11 See References in Text note below. enters into force with respect to the United States and the CBTPA beneficiary country.
 
   (E) *CBTPA* — The term “CBTPA” means the United States-Caribbean Basin Trade Partnership Act.
 
@@ -611,15 +623,15 @@ Pub. L. 100–418, title I, § 1909(a), (b), Aug. 23, 1988, 102 Stat. 1317, 1318
 
 (2) In any report by the International Trade Commission to the President under section 202(f) of the Trade Act of 1974 [[19 U.S.C. 2252(f)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section2252/f&num=0&edition=prelim)] regarding any article for which duty-free treatment has been proclaimed by the President pursuant to this chapter, the Commission shall state whether and to what extent its findings and recommendations apply to such article when imported from beneficiary countries.
 
-(3) For purposes of subsections 11 So in original. section 203 of the Trade Act of 1974 [[19 U.S.C. 2253(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section2253/a&num=0&edition=prelim), (c)], the suspension of the duty-free treatment provided by this chapter shall be treated as an increase in duty.
+(3) For purposes of subsections 22 So in original. section 203 of the Trade Act of 1974 [[19 U.S.C. 2253(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section2253/a&num=0&edition=prelim), (c)], the suspension of the duty-free treatment provided by this chapter shall be treated as an increase in duty.
 
 (4) No proclamation which provides solely for a suspension referred to in paragraph (3) of this subsection with respect to any article shall be taken under section 203 of the Trade Act of 1974 [[19 U.S.C. 2253](./chapter-012-trade-act-of-1974.md#section-2253)] unless the United States International Trade Commission, in addition to making an affirmative determination with respect to such article under section 202(b) of the Trade Act of 1974 [[19 U.S.C. 2252(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section2252/b&num=0&edition=prelim)], determines in the course of its investigation under such section that the serious injury (or threat thereof) substantially caused by imports to the domestic industry producing a like or directly competitive article results from the duty-free treatment provided by this chapter.
 
 (5)
 
-  (A) Any action taken under section 203 of the Trade Act of 1974 [[19 U.S.C. 2253](./chapter-012-trade-act-of-1974.md#section-2253)] that is in effect when duty-free treatment pursuant to section 2701 22 See References in Text note below. of this title is proclaimed shall remain in effect until modified or terminated.
+  (A) Any action taken under section 203 of the Trade Act of 1974 [[19 U.S.C. 2253](./chapter-012-trade-act-of-1974.md#section-2253)] that is in effect when duty-free treatment pursuant to section 2701 1 of this title is proclaimed shall remain in effect until modified or terminated.
 
-  (B) If any article is subject to any such action at the time duty-free treatment is proclaimed pursuant to [section 2701 of this title](./chapter-015-caribbean-basin-economic-recovery.md#section-2701), the President may reduce or terminate the application of such action to the importation of such article from beneficiary countries prior to the otherwise scheduled date on which such reduction or termination would occur pursuant to the criteria and procedures of section 203 of the Trade Act of 1974 [[19 U.S.C. 2253](./chapter-012-trade-act-of-1974.md#section-2253)].
+  (B) If any article is subject to any such action at the time duty-free treatment is proclaimed pursuant to section 2701 1 of this title, the President may reduce or terminate the application of such action to the importation of such article from beneficiary countries prior to the otherwise scheduled date on which such reduction or termination would occur pursuant to the criteria and procedures of section 203 of the Trade Act of 1974 [[19 U.S.C. 2253](./chapter-012-trade-act-of-1974.md#section-2253)].
 
 **(f) Petitions to International Trade Commission**
 
@@ -637,7 +649,7 @@ Pub. L. 100–418, title I, § 1909(a), (b), Aug. 23, 1988, 102 Stat. 1317, 1318
 
   (A) upon the taking of action under section 203 of the Trade Act of 1974 [[19 U.S.C. 2253](./chapter-012-trade-act-of-1974.md#section-2253)],
 
-  (B) on the day a determination by the President not to take action 1 under section 203 of such Act [[19 U.S.C. 2253](./chapter-012-trade-act-of-1974.md#section-2253)] not to take action 1 becomes final,
+  (B) on the day a determination by the President not to take action 2 under section 203 of such Act [[19 U.S.C. 2253](./chapter-012-trade-act-of-1974.md#section-2253)] not to take action 2 becomes final,
 
   (C) in the event of a report of the United States International Trade Commission containing a negative finding, on the day the Commission’s report is submitted to the President, or
 
@@ -687,6 +699,8 @@ Section 423 of the Tax Reform Act of 1986, referred to in subsec. (a)(1), is sec
 
 The Trade Act of 1974, referred to in subsecs. (b)(1)(B), (e)(1), and (h)(1)(B), is Pub. L. 93–618, Jan. 3, 1975, 88 Stat. 1978. Chapter 1 of title II of the Trade Act of 1974 is classified generally to part 1 (§ 2251 et seq.) of subchapter II of chapter 12 of this title. Title V of the Trade Act of 1974 is classified generally to subchapter V (§ 2461 et seq.) of chapter 12 of this title. For complete classification of this Act to the Code, see [section 2101 of this title](./chapter-012-trade-act-of-1974.md#section-2101) and Tables.
 
+Section 108(b)(5) of Public Law 103–182, referred to in subsec. (b)(5)(D)(ii), was classified to [section 3317(b)(5) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section3317/b/5&num=0&edition=prelim) prior to repeal by Pub. L. 116–113, title VI, § 601, Jan. 29, 2020, 134 Stat. 78, effective on the date the USMCA entered into force (July 1, 2020).
+
 The United States-Caribbean Basin Trade Partnership Act, referred to in subsec. (b)(5)(E), is title II of Pub. L. 106–200, May 18, 2000, 114 Stat. 275, which amended this section and sections 2701, 2702, 2704, 3202, and 3204 of this title and enacted provisions set out as notes under [section 2701 of this title](./chapter-015-caribbean-basin-economic-recovery.md#section-2701). For complete classification of this Act to the Code, see Short Title of 2000 Amendment note set out under [section 2701 of this title](./chapter-015-caribbean-basin-economic-recovery.md#section-2701) and Tables.
 
 The Harmonized Tariff Schedule of the United States, referred to in subsec. (c)(1)(A), is not set out in the Code. See Publication of Harmonized Tariff Schedule note set out under [section 1202 of this title](./chapter-004-tariff-act-of-1930.md#section-1202).
@@ -701,6 +715,30 @@ Amendment of subsec. (b)(2)(A)(i) by Pub. L. 107–210, § 3107(a)(1)(B), as ame
 Amendment of subsec. (b)(2)(A)(ii) by Pub. L. 107–210, § 3107(a)(2), was executed after amendment by Pub. L. 107–206, § 3001[(a)](2), notwithstanding section 3001(c) of Pub. L. 107–206, set out as an Effective Date of 2002 Amendments note below, to reflect the probable intent of Congress.
 
 #### Amendments
+2020—Subsec. (b)(2)(A)(iii)(II)(cc), (IV)(dd). Pub. L. 116–164, § 2(1), substituted “September 30, 2030” for “September 30, 2020”.
+
+Subsec. (b)(2)(A)(iv)(II). Pub. L. 116–164, § 2(2), substituted “28” for “18”.
+
+Subsec. (b)(2)(A)(v)(I). Pub. L. 116–260, § 602(b)(2)(A)(i)(I), substituted “Annex 4–B of the USMCA” for “Annex 401 of the NAFTA”.
+
+Subsec. (b)(2)(A)(vii)(IV). Pub. L. 116–260, § 602(b)(2)(A)(i)(II), inserted dash after “duty-free from” and item (aa) designation before “a country”, substituted “1995; or” for “1995.”, and added item (bb).
+
+Subsec. (b)(2)(C). Pub. L. 116–260, § 602(b)(2)(A)(ii), substituted “article 6.2 of the USMCA” for “section 2.3(a), (b), or (c) of the Annex or Appendix 3.1.B.11 of the Annex”.
+
+Subsec. (b)(3)(A)(i). Pub. L. 116–260, § 602(b)(2)(B), substituted “Annex 2–B of the USMCA” for “Annex 302.2 of the NAFTA”.
+
+Subsec. (b)(4)(A)(i). Pub. L. 116–260, § 602(b)(2)(C)(i)(I), substituted “article 5.4.1 of the USMCA” for “Article 502(1) of the NAFTA”.
+
+Subsec. (b)(4)(A)(ii)(I). Pub. L. 116–260, § 602(b)(2)(C)(i)(II), substituted “chapter 5 of the USMCA” for “chapter 5 of the NAFTA” in concluding provisions.
+
+Subsec. (b)(4)(B). Pub. L. 116–260, § 602(b)(2)(C)(ii), substituted “article 5.5 of the USMCA” for “Article 503 of the NAFTA”.
+
+Subsec. (b)(5)(A). Pub. L. 116–260, § 602(b)(2)(D)(i), substituted “North American Free Trade Agreement entered into between the United States, Mexico, and Canada on December 17, 1992” for “NAFTA”.
+
+Subsec. (b)(5)(C). Pub. L. 116–260, § 602(b)(2)(D)(ii), substituted “USMCA” for “NAFTA” wherever appearing.
+
+Subsec. (b)(5)(D)(i). Pub. L. 116–164, § 2(3), substituted “September 30, 2030” for “September 30, 2020”.
+
 2010—Subsec. (b)(2)(A)(iii)(II)(cc), (IV)(dd). Pub. L. 111–171, § 3(1)(A)(i), substituted “September 30, 2020” for “September 30, 2010”.
 
 Subsec. (b)(2)(A)(iv)(II). Pub. L. 111–171, § 3(1)(A)(ii), substituted “18” for “8”.
@@ -846,6 +884,9 @@ Subsec. (a)(3), (4). Pub. L. 99–514, § 1890(1), redesignated par. (3) relatin
 Subsec. (f)(5)(B). Pub. L. 99–514, § 1890(2), substituted “138.46” for “138.42”.
 
 1984—Subsec. (a)(3). Pub. L. 98–573 added par. (3) relating to products of a beneficiary country imported directly from such country into Puerto Rico.
+
+#### Effective Date of 2020 Amendment
+Amendment by Pub. L. 116–260 effective July 1, 2020, see section 602(g) of div. O of Pub. L. 116–260, set out as a note under [section 2578b of this title](./chapter-013-trade-agreements-act-of-1979.md#section-2578b).
 
 #### Effective Date of 2008 Amendment
 Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, except as otherwise provided, see section 4 of Pub. L. 110–246, set out as an Effective Date note under [section 8701 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section8701&num=0&edition=prelim), Agriculture.
@@ -1082,7 +1123,7 @@ Sec. 11. Judicial Review. This order does not create any right or benefit, subst
 
   (I) *In general* — For purposes of determining the applicable percentage under clause (i) or (iv), there may be included in that percentage—
 
-    (aa) the cost of fabrics or yarns to the extent that apparel articles of such fabrics or yarns would be eligible for preferential treatment, without regard to the source of the fabrics or yarns, under Annex 401 of the NAFTA; and
+    (aa) the cost of fabrics or yarns to the extent that apparel articles of such fabrics or yarns would be eligible for preferential treatment, without regard to the source of the fabrics or yarns, under Annex 4–B of the USMCA; and
 
     (bb) the cost of fabrics or yarns that are designated as not being available in commercial quantities for purposes of—
 
@@ -1283,7 +1324,7 @@ Sec. 11. Judicial Review. This order does not create any right or benefit, subst
 
   (A) *In general* — Any apparel article that is wholly assembled, or knit-to-shape, in Haiti from any combination of fabrics, fabric components, components knit-to-shape, or yarns and is imported directly from Haiti or the Dominican Republic shall enter the United States free of duty, without regard to the source of the fabrics, fabric components, components knit-to-shape, or yarns from which the article is made, if the fabrics, fabric components, components knit-to-shape, or yarns comprising the component that determines the tariff classification of the article are of any of the following:
 
-    (i) Fabrics or yarns, to the extent that apparel articles of such fabrics or yarns would be eligible for preferential treatment, without regard to the source of the fabrics or yarns, under Annex 401 of the NAFTA.
+    (i) Fabrics or yarns, to the extent that apparel articles of such fabrics or yarns would be eligible for preferential treatment, without regard to the source of the fabrics or yarns, under Annex 4–B of the USMCA.
 
     (ii) Fabrics or yarns, to the extent that such fabrics or yarns are designated as not being available in commercial quantities for purposes of—
 
@@ -1536,6 +1577,8 @@ The date of the enactment of the Haitian Hemispheric Opportunity through Partner
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
+2020—Subsec. (b)(1)(B)(vii)(I)(aa), (5)(A)(i). Pub. L. 116–260 substituted “Annex 4–B of the USMCA” for “Annex 401 of the NAFTA”.
+
 2015—Subsec. (b)(1)(B)(v)(I)(cc). Pub. L. 114–27, § 301(1)(A)(i), amended item (cc) generally. Prior to amendment, item (cc) read as follows: “60 percent or more during the 1-year period beginning on December 20, 2017.”
 
 Subsec. (b)(1)(C). Pub. L. 114–27, § 301(1)(A)(ii), substituted “16 succeeding 1-year periods” for “succeeding 11 1-year periods” in table and “December 19, 2025” for “December 19, 2018” in concluding provisions.
@@ -1637,6 +1680,9 @@ Subsec. (g). Pub. L. 110–246, § 15403(2), redesignated subsec. (f) as (g). Fo
 Pub. L. 110–246, § 15402(g), added subsec. (g).
 
 Subsec. (h). Pub. L. 110–246, § 15403(2), redesignated subsec. (g) as (h).
+
+#### Effective Date of 2020 Amendment
+Amendment by Pub. L. 116–260 effective July 1, 2020, see section 602(g) of div. O of Pub. L. 116–260, set out as a note under [section 2578b of this title](./chapter-013-trade-agreements-act-of-1979.md#section-2578b).
 
 #### Effective Date of 2008 Amendment
 Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, except as otherwise provided, see section 4 of Pub. L. 110–246, set out as an Effective Date note under [section 8701 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section8701&num=0&edition=prelim), Agriculture.
@@ -1810,4 +1856,4 @@ Subsec. (h)(1), (2). Pub. L. 104–295, § 21(d)(2), substituted semicolon for c
 For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim). For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim), as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim).
 
 #### Authorization of Appropriations
-Pub. L. 103–182, title V, § 515(b), Dec. 8, 1993, 107 Stat. 2159, provided that: “There are authorized to be appropriated $10,000,000 for fiscal year 1994, and such sums as may be necessary in the 3 succeeding fiscal years to carry out the purposes of section 219 of the Caribbean Basin Economic Recovery Act [[19 U.S.C. 2707](./chapter-015-caribbean-basin-economic-recovery.md#section-2707)] (as added by subsection (a)).”
+Pub. L. 103–182, title V, § 515(b), Dec. 8, 1993, 107 Stat. 2159, which authorized appropriations for fiscal year 1994 and the 3 succeeding fiscal years to carry out the purposes of this section, was repealed by Pub. L. 116–113, title VI, § 601, Jan. 29, 2020, 134 Stat. 78, effective on the date the USMCA entered into force (July 1, 2020).

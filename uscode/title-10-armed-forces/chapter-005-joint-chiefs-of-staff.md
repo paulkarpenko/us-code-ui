@@ -68,7 +68,16 @@ source: >-
 
 ### Statutory Notes
 
+#### Amendment of Subsection (a)
+Pub. L. 116–92, div. A, title IX, § 953(c), Dec. 20, 2019, 133 Stat. 1564, provided that, effective on the date that is one year after Dec. 20, 2019, subsection (a) of this section is amended by adding at the end the following new paragraph:
+
+(8) The Chief of Space Operations.
+
+See 2019 Amendment note below.
+
 #### Amendments
+2019—Subsec. (a)(8). Pub. L. 116–92 added par. (8).
+
 2016—Subsec. (b)(2). Pub. L. 114–328, § 921(a)(2)(A), substituted “subsection (d)” for “subsections (d) and (e)”.
 
 Subsec. (c)(1). Pub. L. 114–328, § 921(a)(1), substituted “as necessary” for “as he considers appropriate” in introductory provisions.
@@ -82,6 +91,9 @@ Subsec. (e). Pub. L. 114–328, § 921(a)(2)(C), struck out subsec. (e) which re
 2006—Subsecs. (b), (c)(2), (d), (e). Pub. L. 109–163 inserted “the Homeland Security Council,” after “the National Security Council,” wherever appearing.
 
 1992—Subsec. (a)(2) to (6). Pub. L. 102–484 added par. (2) and redesignated former pars. (2) to (5) as (3) to (6), respectively.
+
+#### Effective Date of 2019 Amendment
+Pub. L. 116–92, div. A, title IX, § 953(c), Dec. 20, 2019, 133 Stat. 1564, provided that the amendment made by section 953(c) is effective on the date that is one year after Dec. 20, 2019.
 
 
 <a id="section-152"></a>
@@ -100,17 +112,21 @@ Subsec. (e). Pub. L. 114–328, § 921(a)(2)(C), struck out subsec. (e) which re
 
   (A) the Vice Chairman of the Joint Chiefs of Staff;
 
-  (B) the Chief of Staff of the Army, the Chief of Naval Operations, the Chief of Staff of the Air Force, or the Commandant of the Marine Corps; or
+  (B) the Chief of Staff of the Army, the Chief of Naval Operations, the Chief of Staff of the Air Force, or the Commandant of the Marine Corps, or the Chief of Space Operations; or
 
   (C) the commander of a unified or specified combatant command.
 
 (2) The President may waive paragraph (1) in the case of an officer if the President determines such action is necessary in the national interest.
 
-**(c) Grade and Rank.—** The Chairman, while so serving, holds the grade of general or, in the case of an officer of the Navy, admiral and outranks all other officers of the armed forces. However, he may not exercise military command over the Joint Chiefs of Staff or any of the armed forces.
+**(c) Grade and Rank.—** The Chairman, while so serving, holds the grade of general, in the case of the Navy, admiral, or, in the case of an officer of the Space Force, the equivalent grade, and outranks all other officers of the armed forces. However, he may not exercise military command over the Joint Chiefs of Staff or any of the armed forces.
 
 ### Statutory Notes
 
 #### Amendments
+2021—Subsec. (b)(1)(B). Pub. L. 116–283, § 924(b)(7)(A)(i), which directed substitution of “the Commandant of the Marine Corps, or the Chief of Space Operations” for “or the Commandant of the Marine Corps” in subpar. (C), was executed by making substitution in subpar. (B), to reflect the probable intent of Congress.
+
+Subsec. (c). Pub. L. 116–283, § 924(b)(7)(A)(ii), substituted “, in the case of the Navy, admiral, or, in the case of an officer of the Space Force, the equivalent grade,” for “or, in the case of an officer of the Navy, admiral”.
+
 2016—Subsec. (a)(1). Pub. L. 114–328, § 921(b)(1)(A), substituted “four years, beginning on October 1 of an odd-numbered year. The limitation does not apply in time of war.” for “two years, beginning on October 1 of odd-numbered years. Subject to paragraph (3), an officer serving as Chairman may be reappointed in the same manner for two additional terms. However, in time of war there is no limit on the number of reappointments.”
 
 Subsec. (a)(3). Pub. L. 114–328, § 921(b)(1)(B), added par. (3) and struck out former par. (3) which read as follows: “An officer may not serve as Chairman or Vice Chairman of the Joint Chiefs of Staff if the combined period of service of such officer in such positions exceeds six years. However, the President may extend to eight years the combined period of service an officer may serve in such positions if he determines such action is in the national interest. The limitations of this paragraph do not apply in time of war.”
@@ -490,7 +506,7 @@ Pub. L. 99–433, title II, § 204(c), Oct. 1, 1986, 100 Stat. 1011, authorized 
 
   (B) the Navy and the Marine Corps; and
 
-  (C) the Air Force.
+  (C) the Air Force and the Space Force.
 
 (3) Selection of officers of an armed force to serve on the Joint Staff shall be made by the Chairman from a list of officers submitted by the Secretary of the military department having jurisdiction over that armed force. Each officer whose name is submitted shall be among those officers considered to be the most outstanding officers of that armed force. The Chairman may specify the number of officers to be included on any such list.
 
@@ -528,12 +544,9 @@ Pub. L. 99–433, title II, § 204(c), Oct. 1, 1986, 100 Stat. 1011, authorized 
 
 (2) The Joint Staff does not include members of the armed forces or civilian employees assigned or detailed to permanent duty in a military department.
 
-### Statutory Notes
+**(h) Personnel Limitations.—**
 
-#### Amendment of Section
-Pub. L. 114–328, div. A, title IX, § 903(b), Dec. 23, 2016, 130 Stat. 2344, provided that, effective Dec. 31, 2019, this section is amended by adding at the end the following new subsection:
-
-(h) Personnel Limitations.—(1) The total number of members of the armed forces and civilian employees assigned or detailed to permanent duty for the Joint Staff may not exceed 2,069.
+(1) The total number of members of the armed forces and civilian employees assigned or detailed to permanent duty for the Joint Staff may not exceed 2,250.
 
 (2) Not more than 1,500 members of the armed forces on the active-duty list may be assigned or detailed to permanent duty for the Joint Staff.
 
@@ -541,9 +554,13 @@ Pub. L. 114–328, div. A, title IX, § 903(b), Dec. 23, 2016, 130 Stat. 2344, p
 
 (4) Each limitation in paragraphs (1) and (2) may be exceeded by a number equal to 15 percent of such limitation in time of national emergency.
 
-See 2016 Amendment note below.
+### Statutory Notes
 
 #### Amendments
+2021—Subsec. (a)(2)(C). Pub. L. 116–283 inserted “and the Space Force” after “the Air Force”.
+
+2019—Subsec. (h)(1). Pub. L. 116–92 substituted “2,250” for “2,069”.
+
 2016—Subsec. (h). Pub. L. 114–328 added subsec. (h).
 
 2014—Subsec. (d). Pub. L. 113–291 substituted “([50 U.S.C. 3002](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3002&num=0&edition=prelim))” for “([50 U.S.C. 401](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section401&num=0&edition=prelim))” in introductory provisions.
@@ -563,6 +580,9 @@ See 2016 Amendment note below.
 1987—Subsec. (f)(4)(B). Pub. L. 100–180, § 1314(b)(2)(A), inserted “or Congress” after “by the President”.
 
 Subsec. (g)(2)(B). Pub. L. 100–180, § 1314(b)(2)(B), inserted “the President or” after “declared by”.
+
+#### Effective Date of 2019 Amendment
+Pub. L. 116–92, div. A, title IX, § 901(a)(2)(B), Dec. 20, 2019, 133 Stat. 1541, provided that: “The amendment made by subparagraph (A) [amending this section] shall take effect on December 31, 2019, immediately after the coming into effect of the amendment made by section 903(b) of the National Defense Authorization Act for Fiscal Year 2017 (Public Law 114–328; 130 Stat. 2344) [amending this section], to which such amendments relate[.]”
 
 #### Effective Date of 2016 Amendment
 Pub. L. 114–328, div. A, title IX, § 903(b)(2), Dec. 23, 2016, 130 Stat. 2344, provided that: “The amendment made by paragraph (1) [amending this section] shall take effect on December 31, 2019.”

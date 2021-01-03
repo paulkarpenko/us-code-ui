@@ -1113,7 +1113,7 @@ Pub. L. 105–178, title IV, § 4022, June 9, 1998, 112 Stat. 415, provided that
 
 (1) **Controlled substance violations.—** — The Secretary shall disqualify from operating a commercial motor vehicle for life an individual who uses a commercial motor vehicle in committing a felony involving manufacturing, distributing, or dispensing a controlled substance, or possession with intent to manufacture, distribute, or dispense a controlled substance.
 
-(2) **Human trafficking violations.—** — The Secretary shall disqualify from operating a commercial motor vehicle for life an individual who uses a commercial motor vehicle in committing a felony involving an act or practice described in paragraph (9) of section 103 of the Trafficking Victims Protection Act of 2000 ([22 U.S.C. 7102(9)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section7102/9&num=0&edition=prelim)).
+(2) **Human trafficking violations.—** — The Secretary shall disqualify from operating a commercial motor vehicle for life an individual who uses a commercial motor vehicle in committing a felony involving an act or practice described in paragraph (9) 11 See References in Text note below. of section 103 of the Trafficking Victims Protection Act of 2000 ([22 U.S.C. 7102(9)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section7102/9&num=0&edition=prelim)).
 
 **(e) Serious Traffic Violations.—**
 
@@ -1192,6 +1192,9 @@ Subsection (c)(1)(D) is substituted for 49 App.:2707(a)(2)(A)(iv) for clarity an
 In subsection (g)(1)(A), the words “Not later than 1 year after October 27, 1986” are omitted as obsolete.
 
 In subsection (g)(2), before clause (A), the words “Not later than December 18, 1992, the Secretary shall prescribe regulations” are substituted for “The Secretary shall issue regulations” and 49 App.:2718(c) to eliminate executed words. The word “individuals” is substituted for “persons” for clarity and consistency in the revised title and with other titles of the United States Code. In clause (C), the words “permits, authorizes” are omitted as being included in “allows”.
+
+#### References in Text
+Paragraph (9) of section 103 of the Trafficking Victims Protection Act of 2000 ([22 U.S.C. 7102(9)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section7102/9&num=0&edition=prelim)), referred to in subsec. (d)(2), was redesignated par. (11) of section 103 of that Act by Pub. L. 115–427, § 2(1), Jan. 9, 2019, 132 Stat. 5503, and is classified to [section 7102(11) of Title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section7102/11&num=0&edition=prelim), Foreign Relations and Intercourse.
 
 #### Amendments
 2018—Subsec. (d). Pub. L. 115–106 substituted “Lifetime Disqualification Without Reinstatement” for “Controlled Substance Violations” in heading, inserted par. (1) designation and heading, and added par. (2).

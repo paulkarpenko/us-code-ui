@@ -2,7 +2,7 @@
 title: 14
 chapter: '11'
 heading: ACQUISITIONS
-section_count: 24
+section_count: 26
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14&num=0&edition=prelim
 ---
@@ -81,7 +81,7 @@ Pub. L. 114–328, div. A, title VIII, § 899(c), Dec. 23, 2016, 130 Stat. 2335,
 
   (B) Promotion rates for officers and members of the Coast Guard in the acquisition workforce.
 
-**(d) Appointments to Acquisition Positions.—** The Commandant shall ensure that no requirement or preference for officers or members of the Coast Guard is used in the consideration of persons for positions in the acquisition workforce.
+**(d) Appointments to Acquisition Positions.—** The Commandant shall ensure that no requirement or preference for officers or members of the Coast Guard is used in the consideration of individuals for positions in the acquisition workforce.
 
 **(e) Career Paths.—**
 
@@ -99,6 +99,8 @@ Pub. L. 114–328, div. A, title VIII, § 899(c), Dec. 23, 2016, 130 Stat. 2335,
 The date of enactment of the Coast Guard Authorization Act of 2010 and the date of enactment of this section, referred to in subsec. (b)(1), (2)(A), is the date of enactment of Pub. L. 111–281, which was approved Oct. 15, 2010.
 
 #### Amendments
+2021—Subsec. (d). Pub. L. 116–283 substituted “individuals” for “persons”.
+
 2018—Pub. L. 115–282 renumbered [section 562 of this title](./chapter-005-functions-and-powers.md#section-562) as this section.
 
 2016—Subsecs. (b) to (g). Pub. L. 114–328 redesignated subsecs. (c), (d), (f), and (g) as (b), (c), (d), and (e), respectively, and struck out former subsec. (b) which related to guidance on tenure and accountability of program and project managers.
@@ -111,7 +113,7 @@ The date of enactment of the Coast Guard Authorization Act of 2010 and the date 
 Pub. L. 111–330, § 1, Dec. 22, 2010, 124 Stat. 3569, provided that the amendment made by section 1(4) is effective with the enactment of Pub. L. 111–281.
 
 #### Acquisition Workforce Expedited Hiring Authority
-Pub. L. 111–281, title IV, § 404, Oct. 15, 2010, 124 Stat. 2950, as amended by Pub. L. 112–213, title II, § 218, Dec. 20, 2012, 126 Stat. 1558; Pub. L. 115–282, title VIII, § 804, Dec. 4, 2018, 132 Stat. 4300, provided that: “(a) In General.—For purposes of [section 3304 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section3304&num=0&edition=prelim), United States Code, the Commandant of the Coast Guard may—“(1) designate any category of acquisition positions within the Coast Guard as positions for which there exists a shortage of candidates or there is a critical hiring need; and “(2) use the authorities in such sections [sic] to recruit and appoint highly qualified persons directly to positions so designated. “(b) Reports.—The Commandant shall include in reports under [section 569a of title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section569a&num=0&edition=prelim), United States Code [now [14 U.S.C. 5103](./chapter-051-reports.md#section-5103)], information described in that section regarding positions designated under this section.”
+Pub. L. 111–281, title IV, § 404, Oct. 15, 2010, 124 Stat. 2950, as amended by Pub. L. 112–213, title II, § 218, Dec. 20, 2012, 126 Stat. 1558; Pub. L. 115–282, title VIII, § 804, Dec. 4, 2018, 132 Stat. 4300, which authorized the Commandant of the Coast Guard to recruit and appoint persons directly to certain acqusition positions in the Coast Guard, was repealed by Pub. L. 116–283, div. G, title LVXXXII [LXXXII], § 8219(c), Jan. 1, 2021, 134 Stat. 4656.
 
 
 <a id="section-1103"></a>
@@ -370,44 +372,46 @@ The Robert T. Stafford Disaster Relief and Emergency Assistance Act, referred to
 
 
 <a id="section-1110"></a>
-## § 1110. Mission need statement
-**(a) In General.—** On the date on which the President submits to Congress a budget for fiscal year 2019 under [section 1105 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1105&num=0&edition=prelim) and every 4 years thereafter, the Commandant shall submit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate an integrated major acquisition mission need statement.
+## § 1110. Elevation of disputes to the Chief Acquisition Officer
 
-**(b) Definitions.—** In this section, the following definitions apply:
-
-(1) **Integrated major acquisition mission need statement.—** — The term “integrated major acquisition mission need statement” means a document that—
-
-  (A) identifies current and projected gaps in Coast Guard mission capabilities using mission hour targets;
-
-  (B) explains how each major acquisition program addresses gaps identified under subparagraph (A) if funded at the levels provided for such program in the most recently submitted capital investment plan; and
-
-  (C) describes the missions the Coast Guard will not be able to achieve, by fiscal year, for each gap identified under subparagraph (A).
-
-(2) **Major acquisition program.—** — The term “major acquisition program” has the meaning given that term in section 5103.
-
-(3) **Capital investment plan.—** — The term “capital investment plan” means the plan required under section 5102(a)(1).
+If, after 90 days following the elevation to the Chief Acquisition Officer of any design or other dispute regarding level 1 or level 2 acquisition, the dispute remains unresolved, the Commandant shall provide to the appropriate congressional committees a detailed description of the issue and the rationale underlying the decision taken by the Chief Acquisition Officer to resolve the issue.
 
 ### Statutory Notes
 
-#### Amendments
-2018—Pub. L. 115–282, § 108(b), renumbered [section 569 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section569&num=0&edition=prelim) as this section.
+#### Prior Provisions
+A prior section 1110 was renumbered [section 5110 of this title](./chapter-051-reports.md#section-5110).
 
-Subsec. (a). Pub. L. 115–232 substituted “for fiscal year 2019” for “for fiscal year 2016” and struck out “, on the date on which the President submits to Congress a budget for fiscal year 2019 under such section,” after “[section 1105 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1105&num=0&edition=prelim)”.
 
-Subsec. (b)(2). Pub. L. 115–282, § 123(b)(2), substituted “section 5103” for “section 2903”.
+<a id="section-1111"></a>
+## § 1111. Acquisition workforce authorities
+**(a) Expedited Hiring Authority.—**
 
-Subsec. (b)(3). Pub. L. 115–282, § 123(b)(2), substituted “section 5102(a)(1)” for “section 2902(a)(1)”.
+(1) **In general.—** — For the purposes of [section 3304 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section3304&num=0&edition=prelim), the Commandant may—
 
-2016—Subsec. (b)(2). Pub. L. 114–120, § 102(f)(1), substituted “in section 2903” for “in section 569a(e)”.
+  (A) designate any category of acquisition positions within the Coast Guard as shortage category positions; and
 
-Subsec. (b)(3). Pub. L. 114–120, § 102(f)(2), substituted “under section 2902(a)(1)” for “under section 663(a)(1)”.
+  (B) use the authorities in such section to recruit and appoint highly qualified persons directly to positions so designated.
 
-2014—Pub. L. 113–281 amended section generally. Prior to amendment, section related to submission of report, not later than Dec. 31, 2011, to appropriate congressional committees on the employment during the preceding year by Coast Guard contractors of individuals who were Coast Guard officials in the previous 5-year period.
+(2) **Reports.—** — The Commandant shall include in reports under section 1102 information described in such section regarding positions designated under this subsection.
 
-2012—Subsec. (a). Pub. L. 112–213 struck out “and annually thereafter,” after “December 31, 2011,”.
+**(b) Reemployment Authority.—**
 
-#### Additional Submissions
-Pub. L. 114–120, title I, § 101(f), Feb. 8, 2016, 130 Stat. 32, provided that: “The Commandant of the Coast Guard shall submit to the Committee on Homeland Security of the House of Representatives— “(1) each plan required under section 2904 [now 5104] of title 14, United States Code, as added by subsection (a) of this section; “(2) each plan required under section 2903(e) [now 5103(e)] of title 14, United States Code, as added by section 206 of this Act; “(3) each plan required under section 2902 [now 5102] of title 14, United States Code, as redesignated by subsection (d) of this section; and “(4) each mission need statement required under section 569 [now 1110] of title 14, United States Code.”
+(1) **In general.—** — Except as provided in paragraph (2), if an annuitant receiving an annuity from the Civil Service Retirement and Disability Fund becomes employed in any category of acquisition positions designated by the Commandant under subsection (a), the annuity of the annuitant so employed shall continue. The annuitant so reemployed shall not be considered an employee for purposes of subchapter III of chapter 83 or chapter 84 of title 5.
+
+(2)
+
+  (A) *Election.—* — An annuitant retired under section 8336(d)(1) or 8414(b)(1)(A) of title 5, receiving an annuity from the Civil Service Retirement and Disability Fund, who becomes employed in any category of acquisition positions designated by the Commandant under subsection (a) after the date of the enactment of the Elijah E. Cummings Coast Guard Authorization Act of 2020, may elect to be subject to section 8344 or 8468 of such title (as the case may be).
+
+    (i) *Deadline.—* — An election for coverage under this subsection shall be filed not later than 90 days after the Commandant takes reasonable actions to notify an employee who may file an election.
+
+    (ii) *Coverage.—* — If an employee files an election under this subsection, coverage shall be effective beginning on the first day of the first applicable pay period beginning on or after the date of the filing of the election.
+
+  (B) *Application.—* — Paragraph (1) shall apply to an individual who is eligible to file an election under subparagraph (A) and does not file a timely election under clause (i) of such subparagraph.
+
+### Statutory Notes
+
+#### References in Text
+The date of the enactment of the Elijah E. Cummings Coast Guard Authorization Act of 2020, referred to in subsec. (b)(2)(A), is the date of enactment of div. G of Pub. L. 116–283, which was approved Jan. 1, 2021.
 
 
 <a id="section-1131"></a>
@@ -700,9 +704,17 @@ Pub. L. 115–282, title VIII, § 818(a), Dec. 4, 2018, 132 Stat. 4307, provided
 
 (4) the management structure for the acquisition program is adequate to manage and control performance, cost, and schedule.
 
+**(d) Notice to Congress With Respect to Breach of Contract.—** Not later than 48 hours after the Commandant becomes aware that a major acquisition contract cannot be carried out under the terms specified in the contract, the Commandant shall provide a written notification to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives that includes—
+
+(1) a description of the terms of the contract that cannot be met; and
+
+(2) an assessment of whether the applicable contract officer has issued a cease and desist order to the contractor based on the breach of such terms of the contract.
+
 ### Statutory Notes
 
 #### Amendments
+2021—Subsec. (d). Pub. L. 116–283 added subsec. (d).
+
 2018—Pub. L. 115–282 renumbered [section 575 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section575&num=0&edition=prelim) as this section.
 
 Subsec. (c). Pub. L. 115–232, in introductory provisions, substituted “determination, with a supporting explanation, of whether” for “certification, with a supporting explanation, that”.
@@ -728,7 +740,7 @@ Section 16 of the Office of Federal Procurement Policy Act, referred to in par. 
 
 <a id="section-1137"></a>
 ## § 1137. Contracting for major acquisitions programs
-**(a) In General.—** In carrying out authorities provided to the Secretary to design, construct, accept, or otherwise acquire assets and systems under section 501(d), the Secretary, acting through the Commandant or the head of an integrated program office established for a major acquisition program, may enter into contracts for a major acquisition program.
+**(a) In General.—** In carrying out authorities provided to the Secretary to design, construct, accept, or otherwise acquire assets and systems under section 501(d), the Secretary, acting through the Commandant or the head of an integrated program office established for a major acquisition program, may enter into contracts for a major acquisition program and 3 Polar Security Cutters in addition to those approved as part of a major acquisition program on November 1, 2019.
 
 **(b) Authorized Methods.—** Contracts entered into under subsection (a)—
 
@@ -747,6 +759,9 @@ Section 16 of the Office of Federal Procurement Policy Act, referred to in par. 
 **(c) Subject to Appropriations.—** Any contract entered into under subsection (a) shall provide that any obligation of the United States to make a payment under the contract is subject to the availability of amounts specifically provided in advance for that purpose in subsequent appropriations Acts.
 
 ### Statutory Notes
+
+#### Amendments
+2021—Subsec. (a). Pub. L. 116–283 inserted “and 3 Polar Security Cutters in addition to those approved as part of a major acquisition program on November 1, 2019” before period at end.
 
 #### Internal Regulations and Policy
 Pub. L. 115–282, title III, § 311(e), Dec. 4, 2018, 132 Stat. 4249, provided that: “Not later than 180 days after the date of enactment of this Act [Dec. 4, 2018], the Secretary of the department in which the Coast Guard is operating shall establish the internal regulations and policies necessary to exercise the authorities provided under this section [enacting this section, amending [section 501 of this title](./chapter-005-functions-and-powers.md#section-501), enacting provisions set out as a note under [section 1133 of this title](./chapter-011-acquisitions.md#section-1133), amending provisions formerly set out as a note under former [section 573 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section573&num=0&edition=prelim), and repealing provisions set out as notes under former sections 87 and 577 of this title], including the amendments made in this section.”
@@ -888,6 +903,23 @@ A Coast Guard vessel the home port of which is in the United States or Guam may 
 
 #### References in Text
 Section 331 of the FAA Modernization and Reform Act of 2012, referred to in subsec. (c), is section 331 of Pub. L. 112–95, title III, Feb. 14, 2012, 126 Stat. 72, which is set out in a note under [section 44802 of Title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section44802&num=0&edition=prelim), Transportation.
+
+#### Prohibition on Operation or Procurement of Foreign-Made Unmanned Aircraft Systems
+Pub. L. 116–283, div. G, title LVXXXIV [LXXXIV], § 8414, Jan. 1, 2021, 134 Stat. 4725, provided that: “(a) Prohibition on Agency Operation or Procurement.—The Commandant [of the Coast Guard] may not operate or enter into or renew a contract for the procurement of—“(1) an unmanned aircraft system that—“(A) is manufactured in a covered foreign country or by an entity domiciled in a covered foreign country; “(B) uses flight controllers, radios, data transmission devices, cameras, or gimbals manufactured in a covered foreign country or by an entity domiciled in a covered foreign country; “(C) uses a ground control system or operating software developed in a covered foreign country or by an entity domiciled in a covered foreign country; or “(D) uses network connectivity or data storage located in or administered by an entity domiciled in a covered foreign country; or “(2) a system manufactured in a covered foreign country or by an entity domiciled in a covered foreign country for the detection or identification of unmanned aircraft systems. “(b) Exemption.—“(1) In general.—The Commandant is exempt from the restriction under subsection (a) if—“(A) the operation or procurement is for the purposes of—“(i) counter-UAS system surrogate testing and training; or “(ii) intelligence, electronic warfare, and information warfare operations, testing, analysis, and training; or “(B) the Commandant receives a certification from the Coast Guard unit requesting to operate or procure an unmanned aircraft system otherwise restricted under subsection (a), which shall include supporting manufacturer information, that the unmanned aircraft system does not—“(i) connect to the internet or an outside telecommunications service; “(ii) connect to other devices or electronics, except as necessary to perform the mission; or “(iii) perform any missions in support of classified information or that may threaten national security. “(2) Expiration.—The authority under this subsection to operate or procure an unmanned aircraft system otherwise restricted under subsection (a) expires on the date that is 2 years after the date of the enactment of this Act [Jan. 1, 2021]. “(c) Waiver.—The Commandant may waive the restriction under subsection (a) on a case by case basis by certifying in writing to the Department of Homeland Security and the relevant committees of jurisdiction that the operation or procurement is required in the national interest of the United States. “(d) Definitions.—In this section:“(1) Covered foreign country.—The term ‘covered foreign country’ means the People’s Republic of China. “(2) Counter-UAS system.—The term ‘counter-UAS system’ has the meaning given such term in [section 44801 of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section44801&num=0&edition=prelim), United States Code. “(3) Unmanned aircraft system.—The term ‘unmanned aircraft system’ has the meaning given such term in [section 44801 of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section44801&num=0&edition=prelim), United States Code.”
+
+
+<a id="section-1157"></a>
+## § 1157. Extraordinary relief
+**(a) In General.—** With respect to any prime contracting entity receiving extraordinary relief pursuant to the Act entitled “An Act to authorize the making, amendment, and modification of contracts to facilitate the national defense”, approved August 28, 1958 (Public Law 85–804; [50 U.S.C. 1432](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1432&num=0&edition=prelim) et seq.) for a major acquisition, the Secretary shall not consider any further request by the prime contracting entity for extraordinary relief under such Act for such major acquisition.
+
+**(b) Inapplicability to Subcontractors.—** The limitation under subsection (a) shall not apply to subcontractors of a prime contracting entity.
+
+**(c) Quarterly Report.—** Not less frequently than quarterly during each fiscal year in which extraordinary relief is approved or provided to an entity under the Act referred to in subsection (a) for the acquisition of Offshore Patrol Cutters, the Commandant shall provide to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a report that describes in detail such relief and the compliance of the entity with the oversight measures required as a condition of receiving such relief.
+
+### Statutory Notes
+
+#### References in Text
+An Act to authorize the making, amendment, and modification of contracts to facilitate the national defense, referred to in subsec. (a), is Pub. L. 85–804, Aug. 28, 1958, 72 Stat. 972, which is classified generally to chapter 29 (§ 1431 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Tables.
 
 
 <a id="section-1171"></a>

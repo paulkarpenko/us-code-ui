@@ -2,7 +2,7 @@
 title: 10
 chapter: '81'
 heading: CIVILIAN EMPLOYEES
-section_count: 33
+section_count: 35
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10&num=0&edition=prelim
 ---
@@ -154,9 +154,13 @@ Pub. L. 101–510, § 1481(d)(1), (2), substituted “Employment of non-citizens
 Amendment by section 1482(b) of Pub. L. 101–510 effective Oct. 1, 1991, see section 1482(d) of Pub. L. 101–510, set out as a note under [section 119 of this title](./chapter-002-department-of-defense.md#section-119).
 
 #### Citizenship Requirement Not Applicable
-Pub. L. 115–245, div. A, title VIII, § 8002, Sept. 28, 2018, 132 Stat. 2998, provided that: “During the current fiscal year, provisions of law prohibiting the payment of compensation to, or employment of, any person not a citizen of the United States shall not apply to personnel of the Department of Defense: Provided, That salary increases granted to direct and indirect hire foreign national employees of the Department of Defense funded by this Act [div. A of Pub. L. 115–245, see Tables for classification] shall not be at a rate in excess of the percentage increase authorized by law for civilian employees of the Department of Defense whose pay is computed under the provisions of [section 5332 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5332&num=0&edition=prelim), United States Code, or at a rate in excess of the percentage increase provided by the appropriate host nation to its own employees, whichever is higher: Provided further, That this section shall not apply to Department of Defense foreign service national employees serving at United States diplomatic missions whose pay is set by the Department of State under the Foreign Service Act of 1980 [[22 U.S.C. 3901](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section3901&num=0&edition=prelim) et seq.]: Provided further, That the limitations of this provision shall not apply to foreign national employees of the Department of Defense in the Republic of Turkey.”
+Pub. L. 116–260, div. C, title VIII, § 8002, Dec. 27, 2020, 134 Stat. 1302, provided that: “During the current fiscal year, provisions of law prohibiting the payment of compensation to, or employment of, any person not a citizen of the United States shall not apply to personnel of the Department of Defense: Provided, That salary increases granted to direct and indirect hire foreign national employees of the Department of Defense funded by this Act [div. C of Pub. L. 116–260, see Tables for classification] shall not be at a rate in excess of the percentage increase authorized by law for civilian employees of the Department of Defense whose pay is computed under the provisions of [section 5332 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5332&num=0&edition=prelim), United States Code, or at a rate in excess of the percentage increase provided by the appropriate host nation to its own employees, whichever is higher: Provided further, That this section shall not apply to Department of Defense foreign service national employees serving at United States diplomatic missions whose pay is set by the Department of State under the Foreign Service Act of 1980 [[22 U.S.C. 3901](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section3901&num=0&edition=prelim) et seq.]: Provided further, That the limitations of this provision shall not apply to foreign national employees of the Department of Defense in the Republic of Turkey.”
 
 Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 116–93, div. A, title VIII, § 8002, Dec. 20, 2019, 133 Stat. 2334.
+
+Pub. L. 115–245, div. A, title VIII, § 8002, Sept. 28, 2018, 132 Stat. 2998.
 
 Pub. L. 115–141, div. C, title VIII, § 8002, Mar. 23, 2018, 132 Stat. 462.
 
@@ -535,7 +539,7 @@ Pub. L. 103–337, div. A, title III, § 349, Oct. 5, 1994, 108 Stat. 2727, as a
 
 (2) Voluntary services to be provided for a museum or a natural resources program.
 
-(3) Voluntary services to be provided for programs providing services to members of the armed forces and the families of such members, including the following programs:
+(3) Voluntary services to be provided for programs providing services to members of the uniformed services and the families of such members, including the following programs:
 
   (A) Family support programs.
 
@@ -623,9 +627,15 @@ Pub. L. 103–337, div. A, title III, § 349, Oct. 5, 1994, 108 Stat. 2727, as a
 
 (4) The Secretary of Defense and, with respect to the Coast Guard when it is not operating as a service in the Navy, the Secretary of Homeland Security shall prescribe regulations to carry out this subsection.
 
+**(g) Secretary Concerned for Acceptance of Services for Programs Serving Members of NOAA Corps and Their Families.—** For purposes of the acceptance of services described in subsection (a)(3), the term “Secretary concerned” in subsection (a) shall include the Secretary of Commerce with respect to members of the commissioned officer corps of the National Oceanic and Atmospheric Administration.
+
 ### Statutory Notes
 
 #### Amendments
+2020—Subsec. (a)(3). Pub. L. 116–259, § 205(b)(2)(A), substituted “uniformed services” for “armed forces” in introductory provisions.
+
+Subsec. (g). Pub. L. 116–259, § 205(b)(2)(B), added subsec. (g).
+
 2014—Subsec. (a)(10). Pub. L. 113–291 added par. (10).
 
 2013—Subsec. (a)(9). Pub. L. 112–239 added par. (9).
@@ -854,11 +864,17 @@ Section applicable with respect to pay and allowances deposited (or scheduled to
 
 (5) The Joint Special Operations University.
 
+(6) The Defense Security Cooperation University.
+
+(7) The Defense Institute for Security Governance.
+
 **(d) Application to Faculty Members at NDU.—** In the case of the National Defense University, this section applies with respect to persons selected by the Secretary for employment as professors, instructors, and lecturers at the National Defense University after February 27, 1990.
 
 ### Statutory Notes
 
 #### Amendments
+2021—Subsec. (c)(6), (7). Pub. L. 116–283 added pars. (6) and (7).
+
 2018—Subsec. (c)(5). Pub. L. 115–232 added par. (5).
 
 2006—Subsec. (c)(3) to (6). Pub. L. 109–364, § 904(b)(1)(A), redesignated pars. (4) and (6) as (3) and (4), respectively, and struck out former pars. (3) and (5) which related to the George C. Marshall European Center for Security Studies and the Asia-Pacific Center for Security Studies, respectively.
@@ -995,6 +1011,21 @@ Pub. L. 108–375, div. A, title XI, § 1102(b), Oct. 28, 2004, 118 Stat. 2072, 
 **(e) Designation of Critical Foreign Languages.—** The Secretary shall designate those languages that are critical foreign languages for the purposes of this section. The Secretary shall make such a designation for any foreign language for which there is a shortage of experts in translation or interpretation available to meet requirements of the Secretary or of the head of any other department or agency of the United States for translation or interpretation in the national security interests of the United States.
 
 **(f) Linguistic Services Defined.—** In this section, the term “linguistic services” means translation or interpretation of communication in a foreign language.
+
+
+<a id="section-1596c"></a>
+## § 1596c. Programming language proficiency: special pay for proficiency beneficial for national security interests
+**(a) Authority.—** The Secretary of Defense, under the sole and exclusive discretion of the Secretary, may pay special pay under this section to an employee of the Department of Defense who—
+
+(1) has been certified by the Secretary to be proficient in a computer or digital programming language identified by the Secretary as being a language in which proficiency by civilian personnel of the Department is necessary because of national security interests; and
+
+(2) is assigned duties requiring proficiency in that programming language.
+
+**(b) Rate.—** The rate of special pay for an employee under this section shall be prescribed by the Secretary, but may not exceed 20 percent of the employee’s rate of basic pay.
+
+**(c) Relationship to Other Pay and Allowances.—** Special pay under this section is in addition to any other pay or allowances to which the employee is entitled.
+
+**(d) Regulations.—** The Secretary of Defense shall prescribe regulations to carry out this section.
 
 
 <a id="section-1597"></a>
@@ -1217,9 +1248,9 @@ Pub. L. 104–201, div. A, title V, § 576(d), Sept. 23, 1996, 110 Stat. 2535, p
 
 **(b) Termination of Authority.—**
 
-(1) The authority of the Secretary of Defense under subsection (a)(1) to exercise authorities available under chapter 74 of title 38 for purposes of the recruitment, employment, and retention of civilian health care professionals for the Department of Defense expires December 31, 2020.
+(1) The authority of the Secretary of Defense under subsection (a)(1) to exercise authorities available under chapter 74 of title 38 for purposes of the recruitment, employment, and retention of civilian health care professionals for the Department of Defense expires December 31, 2025.
 
-(2) The Secretary may not appoint a person to a position of employment under subsection (a)(2) after December 31, 2020.
+(2) The Secretary may not appoint a person to a position of employment under subsection (a)(2) after December 31, 2025.
 
 ### Statutory Notes
 
@@ -1227,6 +1258,8 @@ Pub. L. 104–201, div. A, title V, § 576(d), Sept. 23, 1996, 110 Stat. 2535, p
 A prior section 1599c, added Pub. L. 104–201, div. A, title XVI, § 1615(a)(1), Sept. 23, 1996, 110 Stat. 2740; amended Pub. L. 105–85, div. A, title X, § 1073(a)(31), Nov. 18, 1997, 111 Stat. 1902, related to treatment of a Department of Defense violation of veterans’ preference requirements as a prohibited personnel practice, prior to repeal by Pub. L. 105–339, § 6(c)(1)(A), Oct. 31, 1998, 112 Stat. 3188.
 
 #### Amendments
+2021—Subsec. (b). Pub. L. 116–283 substituted “December 31, 2025” for “December 31, 2020” in pars. (1) and (2).
+
 2013—Subsec. (a)(2)(A). Pub. L. 113–66, § 1109(c)(1), substituted “[section 3304 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section3304&num=0&edition=prelim)” for “sections 3304, 5333, and 5753 of title 5” in introductory provisions.
 
 Subsec. (a)(2)(A)(ii). Pub. L. 113–66, § 1109(c)(2), substituted “the authority in such section” for “the authorities in such sections”.
@@ -1461,6 +1494,12 @@ Subsecs. (i) to (k). Pub. L. 114–328, § 1103(a)(1), redesignated subsecs. (h)
 #### Change of Name
 Committee on Oversight and Government Reform of House of Representatives changed to Committee on Oversight and Reform of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
 
+#### Department of Defense Cyber Workforce Efforts
+Pub. L. 116–283, div. A, title XVII, § 1726(a), Jan. 1, 2021, 134 Stat. 4115, provided that: “(a) Resources for Cyber Education.—“(1) In general.—The Chief Information Officer of the Department of Defense, in consultation with the Director of the National Security Agency (NSA), shall examine the current policies permitting National Security Agency employees to use up to 140 hours of paid time toward NSA’s cyber education programs. “(2) Report.—“(A) In general.—Not later than 90 days after the date of the enactment of this Act [Jan. 1, 2021], the Chief Information Officer shall submit to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] and the congressional intelligence committees a strategy for expanding the policies described in paragraph (1) to—“(i) individuals who occupy positions described in [section 1599f of title 10](./chapter-081-civilian-employees.md#section-1599f), United States Code; and “(ii) any other individuals who the Chief Information Officer determines appropriate. “(B) Implementation plan.—The report required under subparagraph (A) shall detail the utilization of the policies in place at the National Security Agency, as well as an implementation plan that describes the mechanisms needed to expand the use of such policies to accommodate wider participation by individuals described in such subparagraph. Such implementation plan shall detail how such individuals would be able to connect to the instructional and participatory opportunities available through the efforts, programs, initiatives, and investments accounted for in the report required under section 1649 of the National Defense Authorization Act for Fiscal Year 2020 (Public Law 116–92 [133 Stat. 1758]), including the following programs:“(i) GenCyber. “(ii) Centers for Academic Excellence – Cyber Defense. “(iii) Centers for Academic Excellence – Cyber Operations. “(C) Deadline.—Not later than 120 days after the submission of the report required under subparagraph (A), the Chief Information Officer of the Department of Defense shall carry out the implementation plan contained in such report.”
+
+#### Zero-Based Review of Department of Defense Cyber and Information Technology Personnel
+Pub. L. 116–92, div. A, title XVI, § 1652, Dec. 20, 2019, 133 Stat. 1761, provided that: “(a) Review Required.—Not later than January 1, 2021, each head of a covered department, component, or agency shall—“(1) complete a zero-based review of the cyber and information technology personnel of the head’s covered department, component, or agency; and “(2) provide the Principal Cyber Advisor, the Chief Information Officer of the Department of Defense, and the Under Secretary of Defense for Personnel and Readiness the findings of the head with respect to the head’s covered department, component, or agency. “(b) Covered Departments, Components, and Agencies.—For purposes of this section, a covered department, component, or agency is—“(1) an independent Department of Defense component or agency; “(2) the Office of the Secretary of Defense; “(3) a component of the Joint Staff; “(4) a military department or an armed force; or “(5) a reserve component of the Armed Forces. “(c) Scope of Review.—As part of a review conducted pursuant to subsection (a)(1), the head of a covered department, component, or agency shall, with respect to the covered department, component, or agency of the head—“(1) assess military, civilian, and contractor positions and personnel performing cyber and information technology missions; “(2) determine the roles and functions assigned by reviewing existing position descriptions and conducting interviews to quantify the current workload performed by military, civilian, and contractor workforce; “(3) compare the Department’s manning with the manning of comparable industry organizations; “(4) include evaluation of the utility of cyber- and information technology-focused missions, positions, and personnel within such components—“(A) to assess the effectiveness and efficiency of current activities; “(B) to assess the necessity of increasing, reducing, or eliminating resources; and “(C) to guide prioritization of investment and funding; “(5) develop recommendations and objectives for organizational, manning, and equipping change, taking into account anticipated developments in information technologies, workload projections, automation and process enhancements, and Department requirements; “(6) develop a gap analysis, contrasting the current organization and the objectives developed pursuant to paragraph (5); and “(7) develop roadmaps of prioritized activities and a timeline for implementing the activities to close the gaps identified pursuant to paragraph (6). “(d) Elements.—In carrying out a review pursuant to subsection (a)(1), the head of a covered department, component, or agency shall consider the following:“(1) Whether position descriptions and coding designators for given cybersecurity and information technology roles are accurate indicators of the work being performed. “(2) Whether the function of any cybersecurity or information technology position or personnel can be replaced by acquisition of cybersecurity or information technology products or automation. “(3) Whether a given component or subcomponent is over- or under-resourced in terms of personnel, using industry standards as a benchmark where applicable. “(4) Whether cybersecurity service provider positions and personnel fit coherently into the enterprise-wide cybersecurity architecture and with the Department’s cyber protection teams. “(5) Whether the function of any cybersecurity or information technology position or personnel could be conducted more efficiently or effectively by enterprise-level cyber or information technology personnel. “(e) Furnishing Data and Analysis.—“(1) Data and analysis.—In carrying out subsection (a)(2), each head of a covered department, component, or agency, shall furnish to the Principal Cyber Advisor, the Chief Information Officer, and the Under Secretary a description of the analysis that led to the findings submitted under such subsection and the data used in such analysis. “(2) Certification.—The Principal Cyber Advisor, the Chief Information Officer, and the Under Secretary of Defense shall jointly review each submittal under subsection (a)(2) and certify whether the findings and analysis are in compliance with the requirements of this section. “(f) Recommendations.—After receiving findings submitted by a head of a covered department, component, or agency pursuant to paragraph (2) of subsection (a) with respect to a review conducted by the head pursuant to paragraph (1) of such subsection, the Principal Cyber Advisor, the Chief Information Officer, and the Under Secretary shall jointly provide to such head such recommendations as the Principal Cyber Advisor, the Chief Information Officer, and the Under Secretary may have for changes in manning or acquisition that proceed from such review. “(g) Implementation.—The Principal Cyber Advisor, the Chief Information Officer, and the Under Secretary shall jointly oversee and assist in the implementation of the roadmaps developed pursuant to subsection (c)(7) and the recommendations developed pursuant to subsection (f). “(h) In-progress Reviews.—Not later than six months after the date of the enactment of this Act [Dec. 20, 2019] and not less frequently than once every six months thereafter until the Principal Cyber Advisor, the Chief Information Officer, and the Under Secretary give the briefing required by subsection (i), the Principal Cyber Advisor, the Chief Information Officer, and the Under Secretary shall jointly—“(1) conduct in-progress reviews of the status of the reviews required by subsection (a)(1); and “(2) provide the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] with a briefing on such in-progress reviews. “(i) Final Briefing.—After all of the reviews have been completed under paragraph (1) of subsection (a), after receiving all of the findings pursuant to paragraph (2) of such subsection, and not later than June 1, 2021, the Principal Cyber Advisor, the Chief Information Officer, and the Under Secretary shall jointly provide to the congressional defense committees a briefing on the findings of the Principal Cyber Advisor, the Chief Information Officer, and the Under Secretary with respect to such reviews, including such recommendations as the Principal Cyber Advisor, the Chief Information Officer, and the Under Secretary may have for changes to the budget of the Department as a result of such reviews. “(j) Definition of Zero-based Review.—In this section, the term ‘zero-based review’ means a review in which an assessment is conducted with each item, position, or person costed anew, rather than in relation to its size or status in any previous budget.”
+
 #### Actions Pending Full Implementation of Plan for Cyber Mission Force Positions
 Pub. L. 114–328, div. A, title XVI, § 1643(a), Dec. 23, 2016, 130 Stat. 2602, provided that: “Until the Secretary of Defense completes implementation of the authority in subsection (a) of [section 1599f of title 10](./chapter-081-civilian-employees.md#section-1599f), United States Code, for United States Cyber Command workforce positions in accordance with the implementation plan required by subsection (d) of such section, the Secretary shall do each of the following: “(1) Notwithstanding sections 3309 through 3318 of title 5, United States Code, provide for and implement an interagency transfer agreement between excepted service position systems and competitive service position systems in military departments and Defense Agencies concerned to satisfy the requirements for cyber workforce positions from among a mix of employees in the excepted service and the competitive service in such military departments and Defense Agencies. “(2) Implement in the defense civilian cyber personnel system a classification system commonly known as a ‘Rank-in-person’ classification system similar to such classification system used by the National Security Agency as of the date of the enactment of this Act [Dec. 23, 2016]. “(3) Approve direct hiring authority for cyber workforce positions up to the GG or GS–15 level in accordance with the criteria in [section 3304 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section3304&num=0&edition=prelim), United States Code. “(4) Notwithstanding [section 5333 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5333&num=0&edition=prelim), United States Code, authorize officials conducting hiring in the competitive service for cyber workforce positions to set starting salaries at up to a step-five level with no justification and at up to a step-ten level with justification that meets published guidelines applicable to the excepted service.”
 
@@ -1477,7 +1516,7 @@ Pub. L. 114–328, div. A, title XVI, § 1643(a), Dec. 23, 2016, 130 Stat. 2602,
 
   (B) shall provide that if the employee of the Department of Defense or of the private-sector organization (as the case may be) fails to carry out the agreement, such employee shall be liable to the United States for payment of all expenses of the assignment, unless that failure was for good and sufficient reason, as determined by the Secretary of Defense; and
 
-  (C) shall contain language ensuring that such employee of the Department does not improperly use pre-decisional or draft deliberative information that such employee may be privy to or aware of related to Department programing, budgeting, resourcing, acquisition, or procurement for the benefit or advantage of the private-sector organization.
+  (C) shall contain language ensuring that such employee of the Department does not improperly use information that such employee knows relates to a Department acquisition or procurement for the benefit or advantage of the private-sector organization.
 
 (2) An amount for which an employee is liable under paragraph (1) shall be treated as a debt due the United States.
 
@@ -1497,7 +1536,7 @@ Pub. L. 114–328, div. A, title XVI, § 1643(a), Dec. 23, 2016, 130 Stat. 2602,
 
 (2) In establishing a temporary assignment of an employee of the Department of Defense to a private-sector organization, the Secretary of Defense shall—
 
-  (A) ensure that the normal duties and functions of such employee can be reasonably performed by other employees of the Department of Defense without the transfer or reassignment of other personnel of the Department of Defense, including members of the armed forces;
+  (A) ensure that the normal duties and functions of such employee can be reasonably performed by other employees of the Department of Defense without the permanent transfer or reassignment of other personnel of the Department of Defense, including members of the armed forces;
 
   (B) ensure that the normal duties and functions of such employees are not, as a result of and during the course of such temporary assignment, performed or augmented by contractor personnel in violation of the provisions of [section 2461 of this title](./chapter-146-contracting-for-performance-of-civilian-commercial-or-industrial-type-functions.md#section-2461); and
 
@@ -1523,7 +1562,7 @@ Pub. L. 114–328, div. A, title XVI, § 1643(a), Dec. 23, 2016, 130 Stat. 2602,
 
 (3) shall not have access to any trade secrets or to any other nonpublic information which is of commercial value to the private-sector organization from which such employee is assigned;
 
-(4) may perform work that is considered inherently governmental in nature only when requested in writing by the Secretary of Defense; and
+(4) may not perform work that is considered inherently governmental in nature; and
 
 (5) may not be used to circumvent the provision of [section 2461 of this title](./chapter-146-contracting-for-performance-of-civilian-commercial-or-industrial-type-functions.md#section-2461) nor to circumvent any limitation or restriction on the size of the Department’s workforce.
 
@@ -1537,12 +1576,34 @@ Pub. L. 114–328, div. A, title XVI, § 1643(a), Dec. 23, 2016, 130 Stat. 2602,
 
 (3) shall take into consideration, where applicable, areas of particular private sector expertise, such as cybersecurity.
 
+**(i) Conflicts of Interest.—** A private-sector organization that is temporarily assigned a member of the acquisition workforce under this section shall not be considered to have a conflict of interest with the Department of Defense solely because of participation in the program established under this section.
+
+**(j) Funding; Use of Defense Acquisition Workforce Development Fund.—** Funds for the expenses for the program established under this section may be provided from amounts in the Department of Defense Acquisition Workforce Development Fund. Expenses for the program include—
+
+(1) notwithstanding [section 1705(e)(5) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1705/e/5&num=0&edition=prelim), the base salary of a civilian member of the acquisition workforce assigned to a private-sector organization under this section, during the period of that assignment;
+
+(2) expenses relating to assignment under this section of a member of the acquisition workforce away from the member’s regular duty station, including expenses for travel, per diem, and lodging; and
+
+(3) expenses for the administration of the program.
+
 ### Statutory Notes
 
 #### References in Text
 The Federal Tort Claims Act, referred to in subsec. (f)(2)(D), is title IV of act Aug. 2, 1946, ch. 753, 60 Stat. 842, which was classified principally to chapter 20 (§§ 921, 922, 931–934, 941–946) of former Title 28, Judicial Code and Judiciary. Title IV of act Aug. 2, 1946, was substantially repealed and reenacted as sections 1346(b) and 2671 et seq. of Title 28, Judiciary and Judicial Procedure, by act June 25, 1948, ch. 646, 62 Stat. 992, the first section of which enacted Title 28. The Federal Tort Claims Act is also commonly used to refer to chapter 171 of Title 28, Judiciary and Judicial Procedure. For complete classification of title IV to the Code, see Tables. For distribution of former sections of Title 28 into the revised Title 28, see Table at the beginning of Title 28.
 
 The Ethics in Government Act of 1978, referred to in subsec. (f)(2)(E), is Pub. L. 95–521, Oct. 26, 1978, 92 Stat. 1824. For complete classification of this Act to the Code, see Short Title note set out under section 101 of Pub. L. 95–521 in the Appendix to Title 5, Government Organization and Employees, and Tables.
+
+#### Amendments
+2021—Subsec. (b)(1)(C). Pub. L. 116–283, § 1102(a)(1), amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: “shall contain language ensuring that such employee of the Department does not improperly use pre-decisional or draft deliberative information that such employee may be privy to or aware of related to Department programing, budgeting, resourcing, acquisition, or procurement for the benefit or advantage of the private-sector organization.”
+
+Subsec. (f)(4). Pub. L. 116–283, § 1102(a)(2), amended par. (4) generally. Prior to amendment, par. (4) read as follows: “may perform work that is considered inherently governmental in nature only when requested in writing by the Secretary of Defense; and”.
+
+2019—Subsec. (e)(2)(A). Pub. L. 116–92, § 1116, inserted “permanent” after “without the”.
+
+Subsecs. (i), (j). Pub. L. 116–92, § 863(a), added subsecs. (i) and (j).
+
+#### Enhancement of Public-Private Talent Exchange Programs in the Department of Defense
+Pub. L. 116–283, div. A, title XI, § 1102(b)–(d), Jan. 1, 2021, 134 Stat. 3885, 3886, provided that: “(b) Application of Exchange Authority to Modernization Priorities.—Not later than 90 days after the date of the enactment of this Act [Jan. 1, 2021], the Secretary of Defense shall take steps to ensure that the authority of the Secretary to carry out a public-private talent exchange program under [section 1599g of title 10](./chapter-081-civilian-employees.md#section-1599g), United States Code (as amended by subsection (a)), is used to—“(1) carry out exchanges of personnel with private sector entities that are working on the modernization priorities of the Department of Defense; and “(2) carry out exchanges in—“(A) the office of the Under Secretary of Defense for Research and Engineering; “(B) the office of the Chief Information Officer of the Department of Defense; “(C) each Armed Force under the jurisdiction of the Secretary of a military department; and “(D) any other organizations or elements of the Department of Defense the Secretary determines appropriate. “(c) Conflicts of Interest.—The Secretary shall implement a system to identify, mitigate, and manage any conflicts of interests that may arise as a result of an individual’s participation in a public-private talent exchange under [section 1599g of title 10](./chapter-081-civilian-employees.md#section-1599g), United States Code. “(d) Treatment of Program Participants.—The Secretary of Defense, in consultation with each Secretary of a military department, shall develop practices to ensure that participation by a member of an Armed Force under the jurisdiction of the Secretary of a military department in an public-private talent exchange under [section 1599g of title 10](./chapter-081-civilian-employees.md#section-1599g), United States Code, is taken into consideration in subsequent assignments.”
 
 
 <a id="section-1599h"></a>
@@ -1557,7 +1618,15 @@ The Ethics in Government Act of 1978, referred to in subsec. (f)(2)(E), is Pub. 
 
 (4) **Strategic capabilities office.—** — The Director of the Strategic Capabilities Office may carry out a program of personnel management authority provided in subsection (b) in order to facilitate recruitment of eminent experts in science or engineering for the Office.
 
-(5) **Diux.—** — The Director of the Defense Innovation Unit Experimental may carry out a program of personnel management authority provided in subsection (b) in order to facilitate recruitment of eminent experts in science or engineering for the Unit.
+(5) **DIU.—** — The Director of the Defense Innovation Unit may carry out a program of personnel management authority provided in subsection (b) in order to facilitate recruitment of eminent experts in science or engineering for the Unit.
+
+(6) **Joint artificial intelligence center.—** — The Director of the Joint Artificial Intelligence Center may carry out a program of personnel management authority provided in subsection (b) in order to facilitate recruitment of eminent experts in science or engineering for the Center. The authority to carry out the program under this paragraph shall terminate on December 31, 2024.
+
+(7) **11 So in original. Two pars. (7) have been enacted. NGA.—** — The Director of the National Geospatial-Intelligence Agency may carry out a program of personnel management authority provided in subsection (b) in order to facilitate recruitment of eminent experts in science or engineering for research and development projects and to enhance the administration and management of the Agency.
+
+(7) **1 SDA.—** — The Director of the Space Development Agency may carry out a program of personnel management authority provided in subsection (b) in order to facilitate recruitment of eminent experts in science or engineering for research and development projects and to enhance the administration and management of the Agency. The authority to carry out the program under this paragraph shall terminate on December 31, 2025.
+
+(8) **United states cyber command.—** — The Commander of United States Cyber Command may carry out a program of personnel management authority provided in subsection (b) in order to facilitate the recruitment of eminent experts in computer science, data science, engineering, mathematics, and computer network exploitation within the headquarters of United States Cyber Command and the Cyber National Mission Force.
 
 **(b) Personnel Management Authority.—** Under a program under subsection (a), the official responsible for administration of the program may—
 
@@ -1565,13 +1634,21 @@ The Ethics in Government Act of 1978, referred to in subsec. (f)(2)(E), is Pub. 
 
   (A) in the case of the laboratories of the military departments designated pursuant to subsection (a)(1), appoint scientists and engineers to a total of not more than 40 scientific and engineering positions in such laboratories;
 
-  (B) in the case of the Defense Advanced Research Projects Agency, appoint individuals to a total of not more than 100 positions in the Agency, of which not more than 5 such positions may be positions of administration or management of the Agency;
+  (B) in the case of the Defense Advanced Research Projects Agency, appoint individuals to a total of not more than 140 positions in the Agency, of which not more than 5 such positions may be positions of administration or management of the Agency;
 
   (C) in the case of the Office of Operational Test and Evaluation, appoint scientists and engineers to a total of not more than 10 scientific and engineering positions in the Office;
 
-  (D) in the case of the Strategic Capabilities Office, appoint scientists and engineers to a total of not more than 5 scientific and engineering positions in the Office; and
+  (D) in the case of the Strategic Capabilities Office, appoint scientists and engineers to a total of not more than 5 scientific and engineering positions in the Office;
 
-  (E) in the case of the Defense Innovation Unit Experimental, appoint scientists and engineers to a total of not more than 5 scientific and engineering positions in the Unit;
+  (E) in the case of the Defense Innovation Unit, appoint scientists and engineers to a total of not more than 5 scientific and engineering positions in the Unit;
+
+  (F) in the case of the Joint Artificial Intelligence Center, appoint scientists and engineers to a total of not more than 5 scientific and engineering positions in the Center;
+
+  (G) 33 So in original. Two subpars. (G) have been enacted. in the case of the National Geospatial-Intelligence Agency, appoint individuals to a total of not more than 7 positions in the Agency, of which not more than 2 such positions may be positions of administration or management in the Agency;
+
+  (G) 3 in the case of the Space Development Agency, appoint individuals to a total of not more than 10 positions in the Agency, of which not more than 3 such positions may be positions of administration or management of the Agency; and
+
+  (H) in the case of United States Cyber Command, appoint computer scientists, data scientists, engineers, mathematicians, and computer network exploitation specialists to a total of not more than 10 scientific and engineering positions in the Command;
 
 (2) notwithstanding any provision of title 5 governing the rates of pay or classification of employees in the executive branch, prescribe the rates of basic pay for positions to which employees are appointed under paragraph (1)—
 
@@ -1585,18 +1662,74 @@ The Ethics in Government Act of 1978, referred to in subsec. (f)(2)(E), is Pub. 
 
 (1) **In general.—** — Except as provided in paragraph (2), the service of an employee under an appointment under subsection (b)(1) may not exceed four years.
 
-(2) **Extension.—** — The official responsible for the administration of a program under subsection (a) may, in the case of a particular employee under the program, extend the period to which service is limited under paragraph (1) by up to two years if the official determines that such action is necessary to promote the efficiency of a laboratory of a military department, the Defense Advanced Research Projects Agency, the Office of Operational Test and Evaluation, the Strategic Capabilities Office, or the Defense Innovation Unit Experimental, as applicable.
+(2) **Extension.—** — The official responsible for the administration of a program under subsection (a) may, in the case of a particular employee under the program, extend the period to which service is limited under paragraph (1) by up to two years if the official determines that such action is necessary to promote the efficiency of a laboratory of a military department, the Defense Advanced Research Projects Agency, the Office of Operational Test and Evaluation, the Strategic Capabilities Office, the Defense Innovation Unit, the Joint Artificial Intelligence Center, or the National Geospatial-Intelligence Agency, as applicable.
 
 **(d) Maximum Amount of Additional Payments Payable.—** Notwithstanding any other provision of this section or [section 5307 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5307&num=0&edition=prelim), no additional payments may be paid to an employee under subsection (b)(3) in any calendar year if, or to the extent that, the employee’s total annual compensation in such calendar year will exceed the maximum amount of total annual compensation payable at the salary set in accordance with [section 104 of title 3](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title3-section104&num=0&edition=prelim).
 
 ### Statutory Notes
 
 #### Amendments
+2021—Subsec. (a)(7). Pub. L. 116–283, § 1602(a), added par. (7) relating to the Space Development Agency.
+
+Subsec. (a)(8). Pub. L. 116–283, § 1708(a)(1), added par. (8).
+
+Subsec. (b)(1)(G). Pub. L. 116–283, § 1602(b), added subpar. (G) relating to the Space Development Agency. Similar conforming amendments to subsec. (b)(1)(E) and (F) were made by Pub. L. 116–260 and Pub. L. 116–283. Text of subsec. (b)(1)(E) reflects amendment made by Pub. L. 116–283.
+
+Subsec. (b)(1)(H). Pub. L. 116–283, § 1708(a)(2), added subpar. (H). Conforming amendment inserting “and” at end of subpar. (G) was executed to the second subpar. (G) to reflect the probable intent of Congress.
+
+2020—Subsec. (a)(7). Pub. L. 116–260, § 402(1), added par. (7) relating to the National Geospatial-Intelligence Agency.
+
+Subsec. (b)(1)(G). Pub. L. 116–260, § 402(2), added subpar. (G) relating to the National Geospatial-Intelligence Agency.
+
+Subsec. (c)(2). Pub. L. 116–260, § 402(3), substituted “the Joint Artificial Intelligence Center, or the National Geospatial-Intelligence Agency” for “or the Joint Artificial Intelligence Center”.
+
+2019—Subsec. (a)(5). Pub. L. 116–92, § 212(d)(1), substituted “DIU” for “Diux” in heading and struck out “Experimental” after “Innovation Unit”.
+
+Subsec. (a)(6). Pub. L. 116–92, § 212(a), added par. (6).
+
+Subsec. (b)(1)(B). Pub. L. 116–92, § 1101, substituted “140 positions” for “100 positions”.
+
+Subsec. (b)(1)(E). Pub. L. 116–92, § 212(d)(2), struck out “Experimental” after “Innovation Unit”.
+
+Subsec. (b)(1)(F). Pub. L. 116–92, § 212(b), added subpar. (F).
+
+Subsec. (c)(2). Pub. L. 116–92, § 212(c), substituted “the Defense Innovation Unit, or the Joint Artificial Intelligence Center” for “or the Defense Innovation Unit Experimental”.
+
 2018—Subsec. (a)(4), (5). Pub. L. 115–232, § 1111(a), added pars. (4) and (5).
 
 Subsec. (b)(1)(D), (E). Pub. L. 115–232, § 1111(b), added subpars. (D) and (E).
 
 Subsec. (c)(2). Pub. L. 115–232, § 1111(c), substituted “the Office of Operational Test and Evaluation, the Strategic Capabilities Office, or the Defense Innovation Unit Experimental” for “or the Office of Operational Test and Evaluation”.
 
+#### Program To Develop Accesses, Discover Vulnerabilities, and Engineer Cyber Tools and Develop Tactics, Techniques, and Procedures for Offensive Cyber Operations
+Pub. L. 116–283, div. A, title XVII, § 1708(b), Jan. 1, 2021, 134 Stat. 4085, provided that: “(1) In general.—Pursuant to the authority provided under [section 1599h(a)(8) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1599h/a/8&num=0&edition=prelim), United States Code, as added by subsection (a), the Commander of United States Cyber Command shall establish a program or augment an existing program within the Command to develop accesses, discover vulnerabilities, and engineer cyber tools and develop tactics, techniques, and procedures for the use of these assets and capabilities in offensive cyber operations. “(2) Elements.—The program or augmented program required by paragraph (1) shall—“(A) develop accesses, discover vulnerabilities, and engineer cyber tools and develop tactics, techniques, and procedures fit for Department of Defense military operations in cyberspace, such as reliability, meeting short development and operational timelines, low cost, and expendability; “(B) aim to decrease the reliance of Cyber Command on accesses, tools, and expertise provided by the intelligence community; “(C) be designed to provide technical and operational expertise on par with that of programs of the intelligence community; “(D) enable the Commander to attract and retain expertise resident in the private sector and other technologically elite government organizations; and “(E) coordinate development activities with, and, as appropriate, facilitate transition of capabilities from, the Defense Advanced Research Projects Agency, the Strategic Capabilities Office, and components within the intelligence community. “(3) Intelligence community defined.—In this subsection, the term ‘intelligence community’ has the meaning given such term in section 3 of the National Security Act of 1947 ([50 U.S.C. 3003](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3003&num=0&edition=prelim)).”
+
+#### Guidance and Direction on Use of Direct Hiring Processes for Artificial Intelligence Professionals and Other Data Science and Software Development Personnel
+Pub. L. 116–283, div. A, title XVII, § 1751, Jan. 1, 2021, 134 Stat. 4143, provided that: “(a) Guidance Required.—Not later than 180 days after the date of the enactment of this Act [Jan. 1, 2021], the Secretary of Defense shall review applicable Department of Defense guidance and where beneficial issue new guidance to the secretaries of the military departments and the heads of the defense components on improved use of the direct hiring processes for artificial intelligence professionals and other data science and software development personnel. “(b) Objective.—The objective of the guidance issued under subsection (a) shall be to ensure that organizational leaders assume greater responsibility for the results of civilian hiring of artificial intelligence professionals and other data science and software development personnel. “(c) Contents of Guidance.—At a minimum, the guidance required by subsection (a) shall—“(1) instruct human resources professionals and hiring authorities to utilize available direct hiring authorities (including excepted service authorities) for the hiring of artificial intelligence professionals and other data science and software development personnel, to the maximum extent practicable; “(2) instruct hiring authorities, when using direct hiring authorities, to prioritize utilization of panels of subject matter experts over human resources professionals to assess applicant qualifications and determine which applicants are best qualified for a position; “(3) authorize and encourage the use of ePortfolio reviews to provide insight into the previous work of applicants as a tangible demonstration of capabilities and contribute to the assessment of applicant qualifications by subject matter experts; and “(4) encourage the use of referral bonuses for recruitment and hiring of highly qualified artificial intelligence professionals and other data science and software development personnel in accordance with volume 451 of Department of Defense Instruction 1400.25. “(d) Report.—“(1) In general.—Not later than one year after the date on which the guidance is issued under subsection (a), the Secretary shall submit to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives a report on the guidance issued pursuant to subsection (a). “(2) Contents.—At a minimum, the report submitted under paragraph (1) shall address the following:“(A) The objectives of the guidance and the manner in which the guidance seeks to achieve those objectives. “(B) The effect of the guidance on the hiring process for artificial intelligence professionals and other data science and software development personnel, including the effect on—“(i) hiring time; “(ii) the use of direct hiring authority; “(iii) the use of subject matter experts; and “(iv) the quality of new hires, as assessed by hiring managers and organizational leaders.”
+
 #### Applicability of Personnel Management Authority to Personnel Currently Employed Under Superseded Authority
 Pub. L. 114–328, div. A, title XI, § 1121(c), Dec. 23, 2016, 130 Stat. 2452, provided that: “(1) In general.—Any individual employed as of the date of the enactment of this Act [Dec. 23, 2016] under section 1101(b)(1) of the Strom Thurmond National Defense Authorization Act for Fiscal Year 1999 ([5 U.S.C. 3104](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section3104&num=0&edition=prelim) note) (as in effect on the day before such date) shall remain employed under [section 1599h of title 10](./chapter-081-civilian-employees.md#section-1599h), United States Code (as added by subsection (a)), after such date in accordance with such section 1599h and the applicable program carried out under such section 1599h. “(2) Date of appointment.—For purposes of subsection (c) of [section 1599h of title 10](./chapter-081-civilian-employees.md#section-1599h), United States Code (as so added), the date of the appointment of any employee who remains employed as described in paragraph (1) shall be the date of the appointment of such employee under section 1101(b)(1) of the Strom Thurmond National Defense Authorization Act for Fiscal Year 1999 ([5 U.S.C. 3104](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section3104&num=0&edition=prelim) note) (as so in effect).”
+
+
+<a id="section-1599i"></a>
+## § 1599i. Recruitment incentives for placement at remote locations
+**(a) Recruitment Incentive.—**
+
+(1) **In general.—** — An individual appointed to a position in the Department of Defense at a covered location may be paid a recruitment incentive in connection with such appointment.
+
+(2) **Amount.—** — The amount of a recruitment incentive payable to an individual under this subsection may not exceed the amount equal to—
+
+  (A) 25 percent of the annual rate of basic pay of the employee for the position concerned as of the date on which the service period in such position agreed to by the individual under paragraph (3) commences; multiplied by
+
+  (B) the number of years (including fractions of a year) of such service period (not to exceed four years).
+
+(3) **Service agreement.—** — To receive a recruitment incentive under this subsection, an individual appointed to a position under paragraph (1) shall enter into an agreement with the Secretary of Defense to complete a period of service at the covered location. The period of obligated service of the individual at such location under the agreement may not exceed four years. The agreement shall include such repayment or alternative employment obligations as the Secretary considers appropriate for failure of the individual to complete the period of obligated service specified in the agreement.
+
+(4) **Covered locations defined.—** — In this section, a covered location is a location for which the Secretary of Defense has determined that critical hiring needs are not being met due to the geographic remoteness or isolation or extreme climate conditions of the location.
+
+**(b) Sunset.—** Effective on September 30, 2022, the authority provided under subsection (a) shall expire.
+
+### Statutory Notes
+
+#### Outcome Measurements
+Pub. L. 116–283, div. A, title XI, § 1120(b), Jan. 1, 2021, 134 Stat. 3899, provided that: “The Secretary of Defense shall develop outcome measurements to evaluate the effect of the authority provided under subsection (a) of [section 1599i of title 10](./chapter-081-civilian-employees.md#section-1599i), United States Code, as added by subsection (a), and any relocation incentives provided under subsection (b) of such section.”

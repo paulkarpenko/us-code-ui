@@ -2,7 +2,7 @@
 title: 26
 chapter: '51'
 heading: 'DISTILLED SPIRITS, WINES, AND BEER'
-section_count: 191
+section_count: 192
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26&num=0&edition=prelim
 ---
@@ -30,7 +30,7 @@ source: >-
 
 **(b) Time of attachment on distilled spirits** The tax shall attach to distilled spirits as soon as this substance is in existence as such, whether it be subsequently separated as pure or impure spirits, or be immediately, or at any subsequent time, transferred into any other substance, either in the process of original production or by any subsequent process.
 
-**(c) Reduced rate for 2018 and 2019**
+**(c) Reduced rate**
 
 (1) **In general** — In the case of a distilled spirits operation, the otherwise applicable tax rate under subsection (a)(1) shall be—
 
@@ -47,13 +47,13 @@ source: >-
 
   (C) *Rules for non-corporations* — Under regulations prescribed by the Secretary, principles similar to the principles of subparagraphs (A) and (B) shall be applied to a group under common control where one or more of the persons is not a corporation.
 
-  (D) *Single taxpayer* — Pursuant to rules issued by the Secretary, two or more entities (whether or not under common control) that produce distilled spirits marketed under a similar brand, license, franchise, or other arrangement shall be treated as a single taxpayer for purposes of the application of this subsection.
+  (D) *Single taxpayer* — Pursuant to rules issued by the Secretary, two or more entities (whether or not under common control) that produce or process distilled spirits under a license, franchise, or other arrangement shall be treated as a single taxpayer for purposes of the application of this subsection.
 
 (3) **Reduced tax rate for foreign manufacturers and importers**
 
   (A) *In general* — In the case of any proof gallons of distilled spirits which have been produced outside of the United States and imported into the United States, the rate of tax applicable under paragraph (1) (referred to in this paragraph as the “reduced tax rate”) may be assigned by the distilled spirits operation (provided that such operation makes an election described in subparagraph (B)(ii)) to any electing importer of such proof gallons pursuant to the requirements established by the Secretary under subparagraph (B).
 
-  (B) *Assignment* — The Secretary shall, through such rules, regulations, and procedures as are determined appropriate, establish procedures for assignment of the reduced tax rate provided under this paragraph, which shall include—
+  (B) *Assignment* — The Secretary of the Treasury, after consultation with the Secretary of the Department of Homeland Security, shall, through such rules, regulations, and procedures as are determined appropriate, establish procedures for assignment of the reduced tax rate provided under this paragraph, which shall include—
 
     (i) a limitation to ensure that the number of proof gallons of distilled spirits for which the reduced tax rate has been assigned by a distilled spirits operation—
 
@@ -73,16 +73,73 @@ source: >-
 
     (ii) *Apportionment* — For purposes of this paragraph, in the case of a controlled group, rules similar to section 5051(a)(5)(B) shall apply.
 
-(4) **Termination** — This subsection shall not apply to distilled spirits removed after December 31, 2019.
-
 **(d) Cross reference** For provisions relating to the tax on shipments to the United States of taxable articles from Puerto Rico and the Virgin Islands, see section 7652.
 
 ### Statutory Notes
+
+#### Amendment of Subsection (c)
+Pub. L. 116–260, div. EE, title I, § 107(a)(1), (3), Dec. 27, 2020, 134 Stat. 3045, 3046, provided that, applicable to distilled spirits brought into the United States and removed after Dec. 31, 2022, subsection (c) of this section is amended by adding at the end the following new paragraph:
+
+(4) Refunds in lieu of reduced rates for foreign production removed after December 31, 2022
+
+(A) In general
+
+In the case of any proof gallons of distilled spirits which have been produced outside the United States and imported into the United States, if such proof gallons of distilled spirits are removed after December 31, 2022—
+
+(i) paragraph (1) shall not apply, and
+
+(ii) the amount determined under subparagraph (B) shall be allowed as a refund, determined for periods not less frequently than quarterly, to the importer in the same manner as if such amount were an overpayment of tax imposed by this section.
+
+(B) Amount of refund
+
+The amount determined under this subparagraph with respect to any importer for any period is an amount equal to the sum of—
+
+(i) the excess (if any) of—
+
+(I) the amount of tax imposed under this subpart on proof gallons of distilled spirits referred to in subparagraph (A) which were removed during such period, over
+
+(II) the amount of tax which would have been imposed under this subpart on such proof gallons of distilled spirits if this section were applied without regard to this paragraph, plus
+
+(ii) the amount of interest which would be allowed and paid on an overpayment of tax at the overpayment rate established under section 6621(a)(1) (without regard to the second sentence thereof) were such rate applied to the excess (if any) determined under clause (i) for the number of days in the filing period for which the refund under this paragraph is being determined.
+
+(C) Application of rules related to elections and assignments
+
+Subparagraph (A)(ii) shall apply only if the importer is an electing importer under paragraph (3) and the proof gallons of distilled spirits have been assigned to the importer pursuant to such paragraph.
+
+(D) Rules for refunds within 90 days
+
+For purposes of refunds allowed under this paragraph, section 6611(e) shall be applied by substituting “90 days” for “45 days” each place it appears.
+
+See 2020 Amendment note below.
+
+Pub. L. 116–260, div. EE, title I, § 109, Dec. 27, 2020, 134 Stat. 3049, provided that, applicable to distilled spirits removed after Dec. 31, 2021, subsection (c) of this section is amended by adding at the end the following:
+
+(5) Processed distilled spirits
+
+A distilled spirit shall not be treated as processed for purposes of this subsection unless a process described in section 5002(a)(5)(A) (other than bottling) is performed with respect to such distilled spirit.
+
+See 2020 Amendment note below.
 
 #### Prior Provisions
 A prior section 5001, acts Aug. 16, 1954, ch. 736, 68A Stat. 595; Mar. 30, 1955, ch. 18, § 3(a)(4), (5), 69 Stat. 14; Mar. 29, 1956, ch. 115, § 3(a)(4), (5), 70 Stat. 66; Mar. 29, 1957, Pub. L. 85–12, § 3(a)(2), (3), 71 Stat. 9; June 30, 1958, Pub. L. 85–475, § 3(a)(2), (3), 72 Stat. 259, consisted of provisions similar to those comprising this section, prior to the general revision of this chapter by Pub. L. 85–859. See [section 5061(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section5061/d&num=0&edition=prelim).
 
 #### Amendments
+2020—Subsec. (c). Pub. L. 116–260, § 106(g)(1)(A), substituted “Reduced Rate” for “Temporary reduced rate” in heading.
+
+Subsec. (c)(2)(D). Pub. L. 116–260, § 110(c), substituted “under a license” for “marketed under a similar brand, license”.
+
+Subsec. (c)(3)(B). Pub. L. 116–260, § 106(g)(1)(B), substituted “The Secretary of the Treasury, after consultation with the Secretary of the Department of Homeland Security,” for “The Secretary” in introductory provisions.
+
+Subsec. (c)(4). Pub. L. 116–260, § 107(a)(1), added par. (4).
+
+Pub. L. 116–260, § 106(g)(1)(C), struck out par. (4). Text read as follows: “This subsection shall not apply to distilled spirits removed after December 31, 2020.”
+
+Subsec. (c)(5). Pub. L. 116–260, § 109(a), added par. (5).
+
+2019—Subsec. (c). Pub. L. 116–94, § 144(g)(2), substituted “Temporary reduced rate” for “Reduced rate for 2018 and 2019” in heading.
+
+Subsec. (c)(4). Pub. L. 116–94, § 144(g)(1), substituted “December 31, 2020” for “December 31, 2019”.
+
 2017—Subsec. (c). Pub. L. 115–97, § 13807(a), added subsec. (c). Former subsec. (c) redesignated (d).
 
 Subsec. (c)(1). Pub. L. 115–97, § 13807(c)(1), inserted “but only if the importer is an electing importer under paragraph (3) and the proof gallons of distilled spirits have been assigned to the importer pursuant to such paragraph” after “into the United States during the calendar year”
@@ -129,6 +186,18 @@ Subsec. (a)(3). Pub. L. 86–564, § 202(a)(5), substituted “July 1, 1961” f
 
 Subsec. (a)(3). Pub. L. 86–75, § 3(a)(3), substituted “July 1, 1960” for “July 1, 1959”.
 
+#### Effective Date of 2020 Amendment
+Pub. L. 116–260, div. EE, title I, § 106(g)(2), Dec. 27, 2020, 134 Stat. 3045, provided that: “The amendments made by this subsection [amending this section] shall apply to distilled spirits removed after December 31, 2020.”
+
+Pub. L. 116–260, div. EE, title I, § 107(a)(3), Dec. 27, 2020, 134 Stat. 3046, provided that: “The amendments made by this subsection [amending this section and [section 7652 of this title](./chapter-078-discovery-of-liability-and-enforcement-of-title.md#section-7652)] shall apply to distilled spirits brought into the United States and removed after December 31, 2022.”
+
+Pub. L. 116–260, div. EE, title I, § 109(b), Dec. 27, 2020, 134 Stat. 3049, provided that: “The amendment made by this section [amending this section] shall apply to distilled spirits removed after December 31, 2021.”
+
+Pub. L. 116–260, div. EE, title I, § 110(d), Dec. 27, 2020, 134 Stat. 3050, provided that: “The amendments made by this section [amending this section and [section 5051 of this title](./chapter-051-distilled-spirits-wines-and-beer.md#section-5051)] shall apply to beer, wine, and distilled spirits removed after December 31, 2020.”
+
+#### Effective Date of 2019 Amendment
+Pub. L. 116–94, div. Q, title I, § 144(g)(3), Dec. 20, 2019, 133 Stat. 3235, provided that: “The amendments made by this subsection [amending this section] shall apply to distilled spirits removed after December 31, 2019.”
+
 #### Effective Date of 2017 Amendment
 Pub. L. 115–97, title I, § 13807(d), Dec. 22, 2017, 131 Stat. 2177, provided that: “The amendments made by this section [amending this section and [section 7652 of this title](./chapter-078-discovery-of-liability-and-enforcement-of-title.md#section-7652)] shall apply to distilled spirits removed after December 31, 2017.”
 
@@ -153,6 +222,9 @@ Pub. L. 85–859, title II, § 210(a)(1), Sept. 2, 1958, 72 Stat. 1435, provided
 #### Short Title
 Pub. L. 85–859, § 1(a), Sept. 2, 1958, 72 Stat. 1275, provided that: “This Act [see Tables for classification] may be cited as the ‘Excise Tax Technical Changes Act of 1958’.”
 
+#### Regulations
+Pub. L. 116–260, div. EE, title I, § 107(f), Dec. 27, 2020, 134 Stat. 3048, provided that: “The Secretary of the Treasury (or the Secretary’s delegate within the Department of the Treasury) shall prescribe such regulations as may be necessary or appropriate to carry out the purposes of this section [enacting [section 6038E of this title](./chapter-061-information-and-returns.md#section-6038e), amending this section and sections 5041, 5051, and 7652 of this title, and enacting provisions set out as notes under this section and sections 5041, 5051, and 6038E of this title], including regulations to require foreign producers to provide information necessary to enforce the volume limitations under sections 5001(c), 5041(c), and 5051(a) of such Code.”
+
 #### Savings Provision
 Pub. L. 85–859, title II, § 210(b), Sept. 2, 1958, 72 Stat. 1435, as amended by Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendment of any provision of the Internal Revenue Code of 1986 [formerly I.R.C. 1954] by this title [enacting sections 5849, 5854, 5855, and 7608 of this title, amending this chapter, chapter 52 of this title and sections 5801, 5811, 5814, 5821, 5843, 5848, 5851, 6071, 6207, 6422, 7214, 7272, 7301, 7324 to 7326, 7609, 7652, and 7655 of this title, and enacting provisions set out as notes under this section and sections 5006, 5025, 5064, 5175, 5304, and 5601 of this title] shall not affect any act done or any right accruing or accrued, or any suit or proceeding had or commenced in any civil cause before such amendment; but all rights and liabilities under such code prior to such amendment shall continue, and may be enforced in the same manner, as if such amendment had not been made.”
 
@@ -161,6 +233,9 @@ Pub. L. 85–859, title II, § 210(d), Sept. 2, 1958, 72 Stat. 1435, provided th
 
 #### Repeal of Acts Mar. 3, 1877 and Oct. 18, 1888
 Pub. L. 85–859, title II, § 205, Sept. 2, 1958, 72 Stat. 1430, repealed acts March 3, 1877, ch. 114, 19 Stat. 393 and Oct. 18, 1888, ch. 1194, 25 Stat. 560, which related to production and warehousing of fruit brandy, and are covered by this chapter. For effective date of repeal, see section 210(a)(1) of Pub. L. 85–859, set out as an Effective Date note above.
+
+#### Administration of Refunds
+Pub. L. 116–260, div. EE, title I, § 107(e), Dec. 27, 2020, 134 Stat. 3048, provided that: “The Secretary of the Treasury (or the Secretary’s delegate within the Department of the Treasury) shall implement and administer sections 5001(c)(4), 5041(c)(7), and 5051(a)(6) of the Internal Revenue Code of 1986, as added by this Act [div. EE of Pub. L. 116–260], in coordination with the United States Customs and Border Protection of the Department of Homeland Security.”
 
 #### Floor Stocks Taxes on Distilled Spirits, Wine, and Beer
 Pub. L. 101–508, title XI, § 11201(e), Nov. 5, 1990, 104 Stat. 1388–417, provided that: “(1) Imposition of tax.—“(A) In general.—In the case of any tax-increased article—“(i) on which tax was determined under part I of subchapter A of chapter 51 of the Internal Revenue Code of 1986 or section 7652 of such Code before January 1, 1991, and “(ii) which is held on such date for sale by any person, there shall be imposed a tax at the applicable rate on each such article. “(B) Applicable rate.—For purposes of subparagraph (A), the applicable rate is—“(i) $1 per proof gallon in the case of distilled spirits, “(ii) $0.90 per wine gallon in the case of wine described in paragraph (1), (2), (3), or (5) of section 5041(b) of such Code, and “(iii) $9 per barrel in the case of beer. In the case of a fraction of a gallon or barrel, the tax imposed by subparagraph (A) shall be the same fraction as the amount of such tax imposed on a whole gallon or barrel. “(C) Tax-increased article.—For purposes of this subsection, the term ‘tax-increased article’ means distilled spirits, wine described in paragraph (1), (2), (3), or (5) of section 5041(b) of such Code, and beer. “(2) Exception for small domestic producers.—“(A) In the case of wine held by the producer thereof on January 1, 1991, if a credit would have been allowable under section 5041(c) of such Code (as added by this section) on such wine had the amendments made by subsection (b) [amending sections 5041 and 5061 of this title] applied to all wine removed during 1990 and had the wine so held been removed for consumption on December 31, 1990, the tax imposed by paragraph (1) on such wine shall be reduced by the credit which would have been so allowable. “(B) In the case of beer held by the producer thereof on January 1, 1991, if the rate of the tax imposed by section 5051 of such Code would have been determined under subsection (a)(2) thereof had the beer so held been removed for consumption on December 31, 1990, the tax imposed by paragraph (1) on such beer shall not apply. “(C) For purposes of this paragraph, an article shall not be treated as held by the producer if title thereto had at any time been transferred to any other person. “(3) Exception for certain small wholesale or retail dealers.—No tax shall be imposed by paragraph (1) on tax- increased articles held on January 1, 1991, by any dealer if—“(A) the aggregate liquid volume of tax-increased articles held by such dealer on such date does not exceed 500 wine gallons, and “(B) such dealer submits to the Secretary (at the time and in the manner required by the Secretary) such information as the Secretary shall require for purposes of this paragraph. “(4) Credit against tax.—Each dealer shall be allowed as a credit against the taxes imposed by paragraph (1) an amount equal to—“(A) $240 to the extent such taxes are attributable to distilled spirits, “(B) $270 to the extent such taxes are attributable to wine, and “(C) $87 to the extent such taxes are attributable to beer. Such credit shall not exceed the amount of taxes imposed by paragraph (1) with respect to distilled spirits, wine, or beer, as the case may be, for which the dealer is liable. “(5) Liability for tax and method of payment.—“(A) Liability for tax.—A person holding any tax-increased article on January 1, 1991, to which the tax imposed by paragraph (1) applies shall be liable for such tax. “(B) Method of payment.—The tax imposed by paragraph (1) shall be paid in such manner as the Secretary shall prescribe by regulations. “(C) Time for payment.—The tax imposed by paragraph (1) shall be paid on or before June 30, 1991. “(6) Controlled groups.—“(A) Corporations.—In the case of a controlled group—“(i) the 500 wine gallon amount specified in paragraph (3), and “(ii) the $240, $270, and $87 amounts specified in paragraph (4), shall be apportioned among the dealers who are component members of such group in such manner as the Secretary shall by regulations prescribe. For purposes of the preceding sentence, the term ‘controlled group’ has the meaning given to such term by subsection (a) of section 1563 of such Code; except that for such purposes the phrase ‘more than 50 percent’ shall be substituted for the phrase ‘at least 80 percent’ each place it appears in such subsection. “(B) Nonincorporated dealers under common control.—Under regulations prescribed by the Secretary, principles similar to the principles of subparagraph (A) shall apply to a group of dealers under common control where 1 or more of such dealers is not a corporation. “(7) Other laws applicable.—“(A) In general.—All provisions of law, including penalties, applicable to the comparable excise tax with respect to any tax-increased article shall, insofar as applicable and not inconsistent with the provisions of this subsection, apply to the floor stocks taxes imposed by paragraph (1) to the same extent as if such taxes were imposed by the comparable excise tax. “(B) Comparable excise tax.—For purposes of subparagraph (A), the term ‘comparable excise tax’ means—“(i) the tax imposed by section 5001 of such Code in the case of distilled spirits, “(ii) the tax imposed by section 5041 of such Code in the case of wine, and “(iii) the tax imposed by section 5051 of such Code in the case of beer. “(8) Definitions.—For purposes of this subsection—“(A) In general.—Terms used in this subsection which are also used in subchapter A of chapter 51 of such Code shall have the respective meanings such terms have in such part. “(B) Person.—The term ‘person’ includes any State or political subdivision thereof, or any agency or instrumentality of a State or political subdivision thereof. “(C) Secretary.—The term ‘Secretary’ means the Secretary of the Treasury or his delegate. “(9) Treatment of imported perfumes containing distilled spirits.—For purposes of this subsection, any article described in section 5001(a)(3) of such Code shall be treated as distilled spirits; except that the tax imposed by paragraph (1) shall be imposed on a wine gallon basis in lieu of a proof gallon basis. To the extent provided by regulations prescribed by the Secretary, the preceding sentence shall not apply to any article held on January 1, 1991, on the premises of a retail establishment.”
@@ -889,9 +964,9 @@ Repeal effective Jan. 1, 1980, see section 810 of Pub. L. 96–39, set out as an
 
 **(b) Rates of tax**
 
-(1) On still wines containing not more than 14 percent (16 percent in the case of wine removed after December 31, 2017, and before January 1, 2020 11 So in original. Probably should be followed by a closing parenthesis. of alcohol by volume, $1.07 per wine gallon;
+(1) On still wines containing not more than 16 percent of alcohol by volume, $1.07 per wine gallon;
 
-(2) On still wines containing more than 14 percent (16 percent in the case of wine removed after December 31, 2017, and before January 1, 2020 1 and not exceeding 21 percent of alcohol by volume, $1.57 per wine gallon;
+(2) On still wines containing more than 16 percent and not exceeding 21 percent of alcohol by volume, $1.57 per wine gallon;
 
 (3) On still wines containing more than 21 percent and not exceeding 24 percent of alcohol by volume, $3.15 per wine gallon;
 
@@ -901,47 +976,18 @@ Repeal effective Jan. 1, 1980, see section 810 of Pub. L. 96–39, set out as an
 
 (6) On hard cider, 22.6 cents per wine gallon.
 
-**(c) Credit for small domestic producers**
+**(c) Credit**
 
-(1) **Allowance of credit** — Except as provided in paragraph (2), in the case of a person who produces not more than 250,000 wine gallons of wine during the calendar year, there shall be allowed as a credit against any tax imposed by this title (other than chapters 2, 21, and 22) of 90 cents per wine gallon on the 1st 100,000 wine gallons of wine (other than wine described in subsection (b)(4)) which are removed during such year for consumption or sale and which have been produced at qualified facilities in the United States. In the case of wine described in subsection (b)(6), the preceding sentence shall be applied by substituting “5.6 cents” for “90 cents”.
+(1) **Allowance of credit**
 
-(2) **Reduction in credit** — The credit allowable by paragraph (1) shall be reduced (but not below zero) by 1 percent for each 1,000 wine gallons of wine produced in excess of 150,000 wine gallons of wine during the calendar year.
-
-(3) **Time for determining and allowing credit** — The credit allowable by paragraph (1)—
-
-  (A) shall be determined at the same time the tax is determined under subsection (a) of this section, and
-
-  (B) shall be allowable at the time any tax described in paragraph (1) is payable as if the credit allowable by this subsection constituted a reduction in the rate of such tax.
-
-(4) **Controlled groups** — Rules similar to rules of section 5051(a)(5) shall apply for purposes of this subsection.
-
-(5) **Denial of deduction** — Any deduction under subtitle A with respect to any tax against which a credit is allowed under this subsection shall only be for the amount of such tax as reduced by such credit.
-
-(6) **Credit for transferee in bond** — If—
-
-  (A) wine produced by any person would be eligible for any credit under paragraph (1) if removed by such person during the calendar year,
-
-  (B) wine produced by such person is removed during such calendar year by any other person (hereafter in this paragraph referred to as the “transferee”) to whom such wine was transferred in bond and who is liable for the tax imposed by this section with respect to such wine, and
-
-  (C) such producer holds title to such wine at the time of its removal and provides to the transferee such information as is necessary to properly determine the transferee’s credit under this paragraph,
-  then, the transferee (and not the producer) shall be allowed the credit under paragraph (1) which would be allowed to the producer if the wine removed by the transferee had been removed by the producer on that date.
-
-(7) **Regulations** — The Secretary may prescribe such regulations as may be necessary to carry out the purposes of this subsection, including regulations—
-
-  (A) to prevent the credit provided in this subsection from benefiting any person who produces more than 250,000 wine gallons of wine during a calendar year, and
-
-  (B) to assure proper reduction of such credit for persons producing more than 150,000 wine gallons of wine during a calendar year.
-
-(8) **Special rule for 2018 and 2019**
-
-  (A) *In general* — In the case of wine removed after December 31, 2017, and before January 1, 2020, paragraphs (1) and (2) shall not apply and there shall be allowed as a credit against any tax imposed by this title (other than chapters 2, 21, and 22) an amount equal to the sum of—
+  (A) *In general* — There shall be allowed as a credit against any tax imposed by this title (other than chapters 2, 21, and 22) an amount equal to the sum of—
 
     (i) $1 per wine gallon on the first 30,000 wine gallons of wine, plus
 
     (ii) 90 cents per wine gallon on the first 100,000 wine gallons of wine to which clause (i) does not apply, plus
 
     (iii) 53.5 cents per wine gallon on the first 620,000 wine gallons of wine to which clauses (i) and (ii) do not apply,
-    which are produced by the producer and removed during the calendar year for consumption or sale, or which are imported by the importer into the United States during the calendar year but only if the importer is an electing importer under paragraph (9) and the wine gallons of wine have been assigned to the importer pursuant to such paragraph.
+    which are produced by the producer and removed during the calendar year for consumption or sale, or which are imported by the importer into the United States during the calendar year but only if the importer is an electing importer under paragraph (6) and the wine gallons of wine have been assigned to the importer pursuant to such paragraph.
 
   (B) *Adjustment of credit for hard cider* — In the case of wine described in subsection (b)(6), subparagraph (A) of this paragraph shall be applied—
 
@@ -951,11 +997,32 @@ Repeal effective Jan. 1, 1980, see section 810 of Pub. L. 96–39, set out as an
 
     (iii) in clause (iii) of such subparagraph, by substituting “3.3 cents” for “53.5 cents”.
 
-(9) **Allowance of credit for foreign manufacturers and importers**
+(2) **Time for determining and allowing credit** — The credit allowable by paragraph (1)—
 
-  (A) *In general* — In the case of any wine gallons of wine which have been produced outside of the United States and imported into the United States, the credit allowable under paragraph (8) (referred to in this paragraph as the “tax credit”) may be assigned by the person who produced such wine (referred to in this paragraph as the “foreign producer”), provided that such person makes an election described in subparagraph (B)(ii), to any electing importer of such wine gallons pursuant to the requirements established by the Secretary under subparagraph (B).
+  (A) shall be determined at the same time the tax is determined under subsection (a) of this section, and
 
-  (B) *Assignment* — The Secretary shall, through such rules, regulations, and procedures as are determined appropriate, establish procedures for assignment of the tax credit provided under this paragraph, which shall include—
+  (B) shall be allowable at the time any tax described in paragraph (1) is payable as if the credit allowable by this subsection constituted a reduction in the rate of such tax.
+
+(3) **Controlled groups** — Rules similar to rules of section 5051(a)(5) 11 See Codification note below. shall apply for purposes of this subsection.
+
+(4) **Denial of deduction** — Any deduction under subtitle A with respect to any tax against which a credit is allowed under this subsection shall only be for the amount of such tax as reduced by such credit.
+
+(5) **Credit for transferee in bond** — If—
+
+  (A) wine produced by any person would be eligible for any credit under paragraph (1) if removed by such person during the calendar year,
+
+  (B) wine produced by such person is removed during such calendar year by any other person (hereafter in this paragraph referred to as the “transferee”) to whom such wine was transferred in bond and who is liable for the tax imposed by this section with respect to such wine, and
+
+  (C) such producer holds title to such wine at the time of its removal and provides to the transferee such information as is necessary to properly determine the transferee’s credit under this paragraph,
+  then, the transferee (and not the producer) shall be allowed the credit under paragraph (1) which would be allowed to the producer if the wine removed by the transferee had been removed by the producer on that date.
+
+(7) **22 So in original. Par. (6) appears after par. (7). Regulations** — The Secretary may prescribe such regulations as may be necessary to carry out the purposes of this subsection, including regulations to ensure proper calculation of the credit provided in this subsection.
+
+(6) **2 Allowance of credit for foreign manufacturers and importers**
+
+  (A) *In general* — In the case of any wine gallons of wine which have been produced outside of the United States and imported into the United States, the credit allowable under paragraph (1) (referred to in this paragraph as the “tax credit”) may be assigned by the person who produced such wine (referred to in this paragraph as the “foreign producer”), provided that such person makes an election described in subparagraph (B)(ii), to any electing importer of such wine gallons pursuant to the requirements established by the Secretary under subparagraph (B).
+
+  (B) *Assignment* — The Secretary of the Treasury, after consultation with the Secretary of the Department of Homeland Security, shall, through such rules, regulations, and procedures as are determined appropriate, establish procedures for assignment of the tax credit provided under this paragraph, which shall include—
 
     (i) a limitation to ensure that the number of wine gallons of wine for which the tax credit has been assigned by a foreign producer—
 
@@ -969,7 +1036,7 @@ Repeal effective Jan. 1, 1980, see section 810 of Pub. L. 96–39, set out as an
 
     (iv) procedures that allow for revocation of eligibility of the foreign producer and the importer for the tax credit provided under this paragraph in the case of any erroneous or fraudulent information provided under clause (iii) which the Secretary deems to be material to qualifying for such credit.
 
-  (C) *Controlled group* — For purposes of this section, any importer making an election described in subparagraph (B)(ii) shall be deemed to be a member of the controlled group of the foreign producer, as described under paragraph (4).
+  (C) *Controlled group* — For purposes of this section, any importer making an election described in subparagraph (B)(ii) shall be deemed to be a member of the controlled group of the foreign producer, as described under paragraph (3).
 
 **(d) Wine gallon** For the purpose of this chapter, the term “wine gallon” means a United States gallon of liquid measure equivalent to the volume of 231 cubic inches. On lesser quantities the tax shall be paid proportionately (fractions of less than one-tenth gallon being converted to the nearest one-tenth gallon, and five-hundredths gallon being converted to the next full one-tenth gallon).
 
@@ -1003,7 +1070,7 @@ Repeal effective Jan. 1, 1980, see section 810 of Pub. L. 96–39, set out as an
 
   (A) *Mead* — For purposes of this section, the term “mead” means a wine—
 
-    (i) containing not more than 0.64 gram of carbon dioxide per hundred milliliters of wine, except that the Secretary shall by regulations prescribe such tolerances to this limitation as may be reasonably necessary in good commercial practice,
+    (i) containing not more than 0.64 gram of carbon dioxide per hundred milliliters of wine, except that the Secretary may by regulations prescribe such tolerances to this limitation as may be reasonably necessary in good commercial practice,
 
     (ii) which is derived solely from honey and water,
 
@@ -1013,7 +1080,7 @@ Repeal effective Jan. 1, 1980, see section 810 of Pub. L. 96–39, set out as an
 
   (B) *Low alcohol by volume wine* — For purposes of this section, the term “low alcohol by volume wine” means a wine—
 
-    (i) containing not more than 0.64 gram of carbon dioxide per hundred milliliters of wine, except that the Secretary shall by regulations prescribe such tolerances to this limitation as may be reasonably necessary in good commercial practice,
+    (i) containing not more than 0.64 gram of carbon dioxide per hundred milliliters of wine, except that the Secretary may by regulations prescribe such tolerances to this limitation as may be reasonably necessary in good commercial practice,
 
     (ii) which is derived—
 
@@ -1025,14 +1092,96 @@ Repeal effective Jan. 1, 1980, see section 810 of Pub. L. 96–39, set out as an
 
     (iv) which contains less than 8.5 percent alcohol by volume.
 
-(3) **Termination** — This subsection shall not apply to wine removed after December 31, 2019.
-
 ### Statutory Notes
+
+#### Amendment of Subsection (c)
+Pub. L. 116–260, div. EE, title I, § 107(c), Dec. 27, 2020, 134 Stat. 3047, provided that, applicable to wine removed after Dec. 31, 2022, subsection (c) of this section is amended by redesignating paragraph (7) as paragraph (8) and by inserting after paragraph (6) the following new paragraph:
+
+(7) Refunds in lieu of tax credits for foreign production removed after December 31, 2022
+
+(A) In general
+
+In the case of any wine gallons of wine which have been produced outside the United States and imported into the United States, if such wine gallons are removed after December 31, 2022—
+
+(i) paragraph (1) shall not apply, and
+
+(ii) the amount determined under subparagraph (B) shall be allowed as a refund, determined for periods not less frequently than quarterly, to the importer in the same manner as if such amount were an overpayment of tax imposed by this section.
+
+(B) Amount of refund
+
+The amount determined under this subparagraph with respect to any importer for any period is an amount equal to the sum of—
+
+(i) excess (if any) of—
+
+(I) the amount of tax imposed under this section on wine gallons of wine referred to in subparagraph (A) which were removed during such period, over
+
+(II) the amount of tax which would have been imposed under this section (including any allowable credits) on such gallons of wine if this section were applied without regard to this paragraph, plus
+
+(ii) the amount of interest which would be allowed and paid on an overpayment of tax at the overpayment rate established under section 6621(a)(1) (without regard to the second sentence thereof) were such rate applied to the excess (if any) determined under clause (i) for the number of days in the filing period for which the refund under this paragraph is being determined.
+
+(C) Application of rules related to elections and assignments
+
+Subparagraph (A)(ii) shall apply only if the importer is an electing importer under paragraph (6) and the wine gallons of wine have been assigned to the importer pursuant to such paragraph.
+
+(D) Rules for refunds within 90 days
+
+For purposes of refunds allowed under this paragraph, section 6611(e) shall be applied by substituting “90 days” for “45 days” each place it appears.
+
+See 2020 Amendment note below.
+
+#### Codification
+Section 5051(a)(5), referred to in subsec. (c)(3), was subsequently amended by Pub. L. 116–260 applicable to beer, wine, and distilled spirits removed after Dec. 31, 2020.
 
 #### Prior Provisions
 A prior section 5041, acts Aug. 16, 1954, ch. 736, 68A Stat. 609; Mar. 30, 1955, ch. 18, § 3(a)(7), 69 Stat. 14; Mar. 29, 1956, ch. 115, § 3(a)(7), 70 Stat. 66; Mar. 29, 1957, Pub. L. 85–12, § 3(a)(5), 71 Stat. 9; June 30, 1958, Pub. L. 85–475, § 3(a)(5), 72 Stat. 259, consisted of provisions similar to those comprising this section, prior to the general revision of this chapter by Pub. L. 85–859.
 
 #### Amendments
+2020—Subsec. (b)(1), (2). Pub. L. 116–260, § 106(e)(1), substituted “16 percent” for “14 percent (16 percent in the case of wine removed after December 31, 2017, and before January 1, 2021”.
+
+Subsec. (c). Pub. L. 116–260, § 106(d)(1)(A), struck out “for small domestic producers” after “Credit” in heading.
+
+Subsec. (c)(1). Pub. L. 116–260, § 106(d)(1)(B), amended par. (1) generally. Prior to amendment, text read as follows: “Except as provided in paragraph (2), in the case of a person who produces not more than 250,000 wine gallons of wine during the calendar year, there shall be allowed as a credit against any tax imposed by this title (other than chapters 2, 21, and 22) of 90 cents per wine gallon on the 1st 100,000 wine gallons of wine (other than wine described in subsection (b)(4)) which are removed during such year for consumption or sale and which have been produced at qualified facilities in the United States. In the case of wine described in subsection (b)(6), the preceding sentence shall be applied by substituting ‘5.6 cents’ for ‘90 cents’.”
+
+Subsec. (c)(1)(A). Pub. L. 116–260, § 106(d)(2)(A), inserted “but only if the importer is an electing importer under paragraph (6) and the wine gallons of wine have been assigned to the importer pursuant to such paragraph” after “into the United States during the calendar year” in concluding provisions.
+
+Subsec. (c)(2) to (5). Pub. L. 116–260, § 106(d)(1)(C), (D), struck out par. (2) and redesignated former pars. (3) to (6) as (2) to (5), respectively. Prior to amendment, text of par. (2) read as follows: “The credit allowable by paragraph (1) shall be reduced (but not below zero) by 1 percent for each 1,000 wine gallons of wine produced in excess of 150,000 wine gallons of wine during the calendar year.”
+
+Subsec. (c)(6). Pub. L. 116–260, § 106(d)(1)(E), redesignated par. (9) as (6). Former par. (6) redesignated (5).
+
+Subsec. (c)(6)(A). Pub. L. 116–260, § 106(d)(2)(B)(i), substituted “paragraph (1)” for “paragraph (8)”.
+
+Subsec. (c)(6)(B). Pub. L. 116–260, § 106(d)(2)(B)(ii), substituted “The Secretary of the Treasury, after consultation with the Secretary of the Department of Homeland Security,” for “The Secretary” in introductory provisions.
+
+Subsec. (c)(6)(C). Pub. L. 116–260, § 106(d)(2)(B)(iii), substituted “paragraph (3)” for “paragraph (4)”.
+
+Subsec. (c)(7). Pub. L. 116–260, § 107(c)(1), added par. (7). Former par. (7) redesignated (8).
+
+Pub. L. 116–260, § 106(d)(1)(F), amended par. (7) generally. Prior to amendment, text read as follows: “The Secretary may prescribe such regulations as may be necessary to carry out the purposes of this subsection, including regulations—
+
+“(A) to prevent the credit provided in this subsection from benefiting any person who produces more than 250,000 wine gallons of wine during a calendar year, and
+
+“(B) to assure proper reduction of such credit for persons producing more than 150,000 wine gallons of wine during a calendar year.”
+
+Subsec. (c)(8). Pub. L. 116–260, § 107(c)(1), redesignated par. (7) as (8).
+
+Pub. L. 116–260, § 106(d)(1)(C), struck out par. (8), which related to a special rule for wine and hard cider removed between Dec. 31, 2017, and Jan. 1, 2021.
+
+Subsec. (c)(9). Pub. L. 116–260, § 106(d)(1)(E), redesignated par. (9) as (6).
+
+Subsec. (h)(2)(A)(i), (B)(i). Pub. L. 116–260, § 106(f)(1)(A), substituted “the Secretary may” for “the Secretary shall”.
+
+Subsec. (h)(3). Pub. L. 116–260, § 106(f)(1)(B), struck out par. (3). Text read as follows: “This subsection shall not apply to wine removed after December 31, 2020.”
+
+2019—Subsec. (b)(1), (2). Pub. L. 116–94, § 144(e)(1), substituted “January 1, 2021” for “January 1, 2020”.
+
+Subsec. (c)(8). Pub. L. 116–94, § 144(d)(2), substituted “Temporary special rule” for “Special rule for 2018 and 2019” in heading.
+
+Subsec. (c)(8)(A). Pub. L. 116–94, § 144(d)(1), substituted “January 1, 2021” for “January 1, 2020” in introductory provisions.
+
+Subsec. (c)(8)(C). Pub. L. 116–94, § 144(j)(1), added subpar. (C).
+
+Subsec. (h)(3). Pub. L. 116–94, § 144(f)(1), substituted “December 31, 2020” for “December 31, 2019”.
+
 2017—Subsec. (a). Pub. L. 115–97, § 13806(a)(1), substituted “Subject to subsection (h), still wines” for “Still wines”.
 
 Subsec. (b)(1), (2). Pub. L. 115–97, § 13805(a), inserted “(16 percent in the case of wine removed after December 31, 2017, and before January 1, 2020” after “14 percent”.
@@ -1092,6 +1241,24 @@ Subsec. (b). Pub. L. 89–44, § 501(c)(1)–(5), struck out provisions at end o
 1960—Subsec. (b). Pub. L. 86–564 substituted “July 1, 1961” for “July 1, 1960” in five places.
 
 1959—Subsec. (b). Pub. L. 86–75 substituted “July 1, 1960” for “July 1, 1959” in five places.
+
+#### Effective Date of 2020 Amendment
+Pub. L. 116–260, div. EE, title I, § 106(d)(3), Dec. 27, 2020, 134 Stat. 3044, provided that: “The amendments made by this subsection [amending this section] shall apply to wine removed after December 31, 2020.”
+
+Pub. L. 116–260, div. EE, title I, § 106(e)(2), Dec. 27, 2020, 134 Stat. 3044, provided that: “The amendments made by this subsection [amending this section] shall apply to wine removed after December 31, 2020.”
+
+Pub. L. 116–260, div. EE, title I, § 106(f)(2), Dec. 27, 2020, 134 Stat. 3044, provided that: “The amendments made by this subsection [amending this section] shall apply to wine removed after December 31, 2020.”
+
+Pub. L. 116–260, div. EE, title I, § 107(c)(2), Dec. 27, 2020, 134 Stat. 3048, provided that: “The amendments made by this subsection [amending this section] shall apply to wine removed after December 31, 2022.”
+
+#### Effective Date of 2019 Amendment
+Pub. L. 116–94, div. Q, title I, § 144(d)(3), Dec. 20, 2019, 133 Stat. 3235, provided that: “The amendments made by this subsection [amending this section] shall apply to wine removed after December 31, 2019.”
+
+Pub. L. 116–94, div. Q, title I, § 144(e)(2), Dec. 20, 2019, 133 Stat. 3235, provided that: “The amendments made by this subsection [amending this section] shall apply to wine removed after December 31, 2019.”
+
+Pub. L. 116–94, div. Q, title I, § 144(f)(2), Dec. 20, 2019, 133 Stat. 3235, provided that: “The amendment made by this subsection [amending this section] shall apply to wine removed after December 31, 2019.”
+
+Pub. L. 116–94, div. Q, title I, § 144(j)(2), Dec. 20, 2019, 133 Stat. 3236, provided that: “The amendment made by this subsection [amending this section] shall take effect as if included in section 13804 of Public Law 115–97.”
 
 #### Effective Date of 2017 Amendment
 Pub. L. 115–97, title I, § 13804(d), Dec. 22, 2017, 131 Stat. 2175, provided that: “The amendments made by this section [amending this section] shall apply to wine removed after December 31, 2017.”
@@ -1264,11 +1431,7 @@ A prior section 5045, act Aug. 16, 1954, ch. 736, 68A Stat. 611, consisted of pr
 
 (1) **In general**
 
-  (A) *Imposition of tax* — A tax is hereby imposed on all beer brewed or produced, and removed for consumption or sale, within the United States, or imported into the United States. Except as provided in paragraph (2), the rate of such tax shall be the amount determined under this paragraph.
-
-  (B) *Rate* — Except as provided in subparagraph (C), the rate of tax shall be $18 for per 11 So in original. barrel.
-
-  (C) *Special rule* — In the case of beer removed after December 31, 2017, and before January 1, 2020, the rate of tax shall be—
+  (A) *Imposition of tax* — A tax is hereby imposed on all beer brewed or produced, and removed for consumption or sale, within the United States, or imported into the United States. Except as provided in paragraph (2), the rate of such tax shall be—
 
     (i) $16 on the first 6,000,000 barrels of beer—
 
@@ -1278,11 +1441,11 @@ A prior section 5045, act Aug. 16, 1954, ch. 736, 68A Stat. 611, consisted of pr
 
     (ii) $18 on any barrels of beer to which clause (i) does not apply.
 
-  (D) *Barrel* — For purposes of this section, a barrel shall contain not more than 31 gallons of beer, and any tax imposed under this section shall be applied at a like rate for any other quantity or for fractional parts of a barrel.
+  (B) *Barrel* — For purposes of this section, a barrel shall contain not more than 31 gallons of beer, and any tax imposed under this section shall be applied at a like rate for any other quantity or for fractional parts of a barrel.
 
 (2) **Reduced rate for certain domestic production**
 
-  (A) *rate 22 So in original. Probably should be “Rate”.* — In the case of a brewer who produces not more than 2,000,000 barrels of beer during the calendar year, the per barrel rate of the tax imposed by this section shall be $7 ($3.50 in the case of beer removed after December 31, 2017, and before January 1, 2020) on the first 60,000 barrels of beer which are removed in such year for consumption or sale and which have been brewed or produced by such brewer at qualified breweries in the United States.
+  (A) *$3.50 a barrel rate* — In the case of a brewer who produces not more than 2,000,000 barrels of beer during the calendar year, the per barrel rate of the tax imposed by this section shall be $3.50 on the first 60,000 barrels of beer which are removed in such year for consumption or sale and which have been brewed or produced by such brewer at qualified breweries in the United States.
 
   (B) *Regulations* — The Secretary may prescribe such regulations as may be necessary to prevent the reduced rates provided in this paragraph from benefiting any person who produces more than 2,000,000 barrels of beer during a calendar year.
 
@@ -1290,9 +1453,9 @@ A prior section 5045, act Aug. 16, 1954, ch. 736, 68A Stat. 611, consisted of pr
 
 (4) **Reduced tax rate for foreign manufacturers and importers**
 
-  (A) *In general* — In the case of any barrels of beer which have been brewed or produced outside of the United States and imported into the United States, the rate of tax applicable under clause (i) of paragraph (1)(C) (referred to in this paragraph as the “reduced tax rate”) may be assigned by the brewer (provided that the brewer makes an election described in subparagraph (B)(ii)) to any electing importer of such barrels pursuant to the requirements established by the Secretary under subparagraph (B).
+  (A) *In general* — In the case of any barrels of beer which have been brewed or produced outside of the United States and imported into the United States, the rate of tax applicable under clause (i) of paragraph (1)(A) (referred to in this paragraph as the “reduced tax rate”) may be assigned by the brewer (provided that the brewer makes an election described in subparagraph (B)(ii)) to any electing importer of such barrels pursuant to the requirements established by the Secretary under subparagraph (B).
 
-  (B) *Assignment* — The Secretary shall, through such rules, regulations, and procedures as are determined appropriate, establish procedures for assignment of the reduced tax rate provided under this paragraph, which shall include—
+  (B) *Assignment* — The Secretary, after consultation with the Secretary of the Department of Homeland Security, shall, through such rules, regulations, and procedures as are determined appropriate, establish procedures for assignment of the reduced tax rate provided under this paragraph, which shall include—
 
     (i) a limitation to ensure that the number of barrels of beer for which the reduced tax rate has been assigned by a brewer—
 
@@ -1310,11 +1473,11 @@ A prior section 5045, act Aug. 16, 1954, ch. 736, 68A Stat. 611, consisted of pr
 
 (5) **Controlled group and single taxpayer rules**
 
-  (A) *In general* — Except as provided in subparagraph (B), in the case of a controlled group, the 6,000,000 barrel quantity specified in paragraph (1)(C)(i) and the 2,000,000 barrel quantity specified in paragraph (2)(A) shall be applied to the controlled group, and the 6,000,000 barrel quantity specified in paragraph (1)(C)(i) and the 60,000 barrel quantity specified in paragraph (2)(A) shall be apportioned among the brewers who are members of such group in such manner as the Secretary or their delegate shall by regulations prescribe. For purposes of the preceding sentence, the term “controlled group” has the meaning assigned to it by subsection (a) of section 1563, except that for such purposes the phrase “more than 50 percent” shall be substituted for the phrase “at least 80 percent” in each place it appears in such subsection. Under regulations prescribed by the Secretary, principles similar to the principles of the preceding two sentences shall be applied to a group of brewers under common control where one or more of the brewers is not a corporation.
+  (A) *In general* — Except as provided in subparagraph (B), in the case of a controlled group, the 6,000,000 barrel quantity specified in paragraph (1)(A)(i) and the 2,000,000 barrel quantity specified in paragraph (2)(A) shall be applied to the controlled group, and the 6,000,000 barrel quantity specified in paragraph (1)(A)(i) and the 60,000 barrel quantity specified in paragraph (2)(A) shall be apportioned among the brewers who are members of such group in such manner as the Secretary or their delegate shall by regulations prescribe. For purposes of the preceding sentence, the term “controlled group” has the meaning assigned to it by subsection (a) of section 1563, except that for such purposes the phrase “more than 50 percent” shall be substituted for the phrase “at least 80 percent” in each place it appears in such subsection. Under regulations prescribed by the Secretary, principles similar to the principles of the preceding two sentences shall be applied to a group of brewers under common control where one or more of the brewers is not a corporation.
 
-  (B) *Foreign manufacturers and importers* — For purposes of paragraph (4), in the case of a controlled group, the 6,000,000 barrel quantity specified in paragraph (1)(C)(i) shall be applied to the controlled group and apportioned among the members of such group in such manner as the Secretary shall by regulations prescribe. For purposes of the preceding sentence, the term “controlled group” has the meaning given such term under subparagraph (A). Under regulations prescribed by the Secretary, principles similar to the principles of the preceding two sentences shall be applied to a group of brewers under common control where one or more of the brewers is not a corporation.
+  (B) *Foreign manufacturers and importers* — For purposes of paragraph (4), in the case of a controlled group, the 6,000,000 barrel quantity specified in paragraph (1)(A)(i) shall be applied to the controlled group and apportioned among the members of such group in such manner as the Secretary shall by regulations prescribe. For purposes of the preceding sentence, the term “controlled group” has the meaning given such term under subparagraph (A). Under regulations prescribed by the Secretary, principles similar to the principles of the preceding two sentences shall be applied to a group of brewers under common control where one or more of the brewers is not a corporation.
 
-  (C) *Single taxpayer* — Pursuant to rules issued by the Secretary, two or more entities (whether or not under common control) that produce beer marketed under a similar brand, license, franchise, or other arrangement shall be treated as a single taxpayer for purposes of the application of this subsection.
+  (C) *Single taxpayer* — Pursuant to rules issued by the Secretary, two or more entities (whether or not under common control) that produce beer under a license, franchise, or other arrangement shall be treated as a single taxpayer for purposes of the application of this subsection.
 
 **(b) Assessment on materials used in production in case of fraud** Nothing contained in this subpart or subchapter G shall be construed to authorize an assessment on the quantity of materials used in producing or purchased for the purpose of producing beer, nor shall the quantity of materials so used or purchased be evidence, for the purpose of taxation, of the quantity of beer produced; but the tax on all beer shall be paid as provided in section 5054, and not otherwise; except that this subsection shall not apply to cases of fraud, and nothing in this subsection shall have the effect to change the rules of law respecting evidence in any prosecution or suit.
 
@@ -1326,10 +1489,63 @@ A prior section 5045, act Aug. 16, 1954, ch. 736, 68A Stat. 611, consisted of pr
 
 ### Statutory Notes
 
+#### Amendment of Subsection (a)
+Pub. L. 116–260, div. EE, title I, § 107(b)(1), (2), Dec. 27, 2020, 134 Stat. 3046, 3047, provided that, applicable to beer removed after Dec. 31, 2022, subsection (a) of this section is amended by adding at the end the following new paragraph:
+
+(6) Refunds in lieu of reduced rates for foreign production removed after December 31, 2022
+
+(A) In general
+
+In the case of any barrels of beer which have been produced outside the United States and imported into the United States, if such barrels of beer are removed after December 31, 2022—
+
+(i) paragraph (1)(A)(i) shall not apply, and
+
+(ii) the amount determined under subparagraph (B) shall be allowed as a refund, determined for periods not less frequently than quarterly, to the importer in the same manner as if such amount were an overpayment of tax imposed by this section.
+
+(B) Amount of refund
+
+The amount determined under this subparagraph with respect to any importer for any period is an amount equal to the sum of—
+
+(i) excess (if any) of—
+
+(I) the amount of tax imposed under this section on barrels of beer referred to in subparagraph (A) which were removed during such period, over
+
+(II) the amount of tax which would have been imposed under this section on such barrels of beer if this section were applied without regard to this paragraph, plus
+
+(ii) the amount of interest which would be allowed and paid on an overpayment of tax at the overpayment rate established under section 6621(a)(1) (without regard to the second sentence thereof) were such rate applied to the excess (if any) determined under clause (i) for the number of days in the filing period for which the refund under this paragraph is being determined.
+
+(C) Application of rules related to elections and assignments
+
+Subparagraph (A)(ii) shall apply only if the importer is an electing importer under paragraph (4) and the barrels of beer have been assigned to the importer pursuant to such paragraph.
+
+(D) Rules for refunds within 90 days
+
+For purposes of refunds allowed under this paragraph, section 6611(e) shall be applied by substituting “90 days” for “45 days” each place it appears.
+
+See 2020 Amendment note below.
+
 #### Prior Provisions
 A prior section 5051, act Aug. 16, 1954, ch. 736, 68A Stat. 611, as amended by acts Mar. 30, 1955, ch. 18, § 3(a)(8), 69 Stat. 14; Mar. 29, 1956, ch. 115, § 3(a)(8), 70 Stat. 66; Mar. 29, 1957, Pub. L. 85–12, § 3(a)(6), 71 Stat. 9; June 30, 1958, Pub. L. 85–475, § 3(a)(6), 72 Stat. 259, consisted of provisions similar to those comprising this section, prior to the general revision of this chapter by Pub. L. 85–859.
 
 #### Amendments
+2020—Subsec. (a)(1). Pub. L. 116–260, § 106(b)(1), amended par. (1) generally. Prior to amendment, par. (1) consisted of subpars. (A) to (D) relating to imposition of tax on beer, rate of such tax, special rule for beer removed between Dec. 31, 2017, and Jan. 1, 2021, and size of a barrel, respectively.
+
+Subsec. (a)(1)(A)(i)(II). Pub. L. 116–260, § 106(b)(3)(A), inserted “but only if the importer is an electing importer under paragraph (4) and the barrels have been assigned to the importer pursuant to such paragraph” after “during the calendar year”.
+
+Subsec. (a)(2)(A). Pub. L. 116–260, § 106(b)(2), inserted “$3.50 a barrel” before “rate” in heading and substituted “$3.50” for “$7 ($3.50 in the case of beer removed after December 31, 2017, and before January 1, 2021)” in text.
+
+Subsec. (a)(4)(A). Pub. L. 116–260, § 106(b)(3)(B)(i), substituted “paragraph (1)(A)” for “paragraph (1)(C)”.
+
+Subsec. (a)(4)(B). Pub. L. 116–260, § 106(b)(3)(B)(ii), substituted “The Secretary, after consultation with the Secretary of the Department of Homeland Security,” for “The Secretary” in introductory provisions.
+
+Subsec. (a)(5). Pub. L. 116–260, § 106(b)(4), substituted “paragraph (1)(A)(i)” for “paragraph (1)(C)(i)” wherever appearing.
+
+Subsec. (a)(5)(C). Pub. L. 116–260, § 110(a), substituted “under a license” for “marketed under a similar brand, license”.
+
+Subsec. (a)(6). Pub. L. 116–260, § 107(b)(1), added par. (6).
+
+2019—Subsec. (a)(1)(C), (2)(A). Pub. L. 116–94 substituted “January 1, 2021” for “January 1, 2020” in introductory provisions of subsec. (a)(1)(C) and in subsec. (a)(2)(A).
+
 2017—Subsec. (a)(1). Pub. L. 115–97, § 13802(a), amended par. (1) generally. Prior to amendment, text read as follows: “A tax is hereby imposed on all beer brewed or produced, and removed for consumption or sale, within the United States, or imported into the United States. Except as provided in paragraph (2), the rate of such tax shall be $18 for every barrel containing not more than 31 gallons and at a like rate for any other quantity or for fractional parts of a barrel.”
 
 Subsec. (a)(1)(C)(i)(II). Pub. L. 115–97, § 13802(c)(1), inserted “but only if the importer is an electing importer under paragraph (4) and the barrels have been assigned to the importer pursuant to such paragraph” after “during the calendar year”.
@@ -1363,6 +1579,16 @@ Subsec. (a)(2)(C). Pub. L. 101–508, § 11201(c)(2), added subpar. (C).
 1960—Subsec. (a). Pub. L. 86–564 substituted “July 1, 1961” for “July 1, 1960”.
 
 1959—Subsec. (a). Pub. L. 86–75 substituted “July 1, 1960” for “July 1, 1959”.
+
+#### Effective Date of 2020 Amendment
+Pub. L. 116–260, div. EE, title I, § 106(b)(5), Dec. 27, 2020, 134 Stat. 3042, provided that: “The amendments made by this subsection [amending this section] shall apply to beer removed after December 31, 2020.”
+
+Pub. L. 116–260, div. EE, title I, § 107(b)(2), Dec. 27, 2020, 134 Stat. 3047, provided that: “The amendment made by this subsection [amending this section] shall apply to beer removed after December 31, 2022.”
+
+Amendment by section 110(a) of Pub. L. 116–260 applicable to beer, wine, and distilled spirits removed after Dec. 31, 2020, see section 110(d) of div. EE of Pub. L. 116–260, set out as a note under [section 5001 of this title](./chapter-051-distilled-spirits-wines-and-beer.md#section-5001).
+
+#### Effective Date of 2019 Amendment
+Pub. L. 116–94, div. Q, title I, § 144(b)(2), Dec. 20, 2019, 133 Stat. 3235, provided that: “The amendments made by this subsection [amending this section] shall apply to beer removed after December 31, 2019.”
 
 #### Effective Date of 2017 Amendment
 Pub. L. 115–97, title I, § 13802(e), Dec. 22, 2017, 131 Stat. 2172, provided that: “The amendments made by this section [amending this section] shall apply to beer removed after December 31, 2017.”
@@ -1958,7 +2184,7 @@ Provisions similar to those comprising this section were contained in former sec
 ### Statutory Notes
 
 #### Prior Provisions
-A prior section 5066 was renumbered 5067 of this title.
+A prior section 5066 was renumbered 5068 of this title.
 
 #### Amendments
 2018—Subsec. (d). Pub. L. 115–141 substituted “section 5001(a)(4)” for “section 5001(a)(5)”.
@@ -1987,7 +2213,27 @@ Pub. L. 91–659, § 6, Jan. 8, 1971, 84 Stat. 1966, provided that: “This Act 
 
 
 <a id="section-5067"></a>
-## § 5067. Cross reference
+## § 5067. Reduced rates not allowed for smuggled or illegally produced beer, wine, or spirits
+
+In the case of beer, wine, or distilled spirits that are smuggled into the United States or produced other than as authorized by this chapter—
+
+(1) the rates of tax under paragraphs (1)(A)(i) and (2) of section 5051(a) shall not apply in the case of any such beer,
+
+(2) the credit under section 5041(c) shall not apply in the case of any such wine, and
+
+(3) the rates of tax under section 5001(c) shall not apply in the case of any such distilled spirits.
+
+### Statutory Notes
+
+#### Prior Provisions
+A prior section 5067 was renumbered [section 5068 of this title](./chapter-051-distilled-spirits-wines-and-beer.md#section-5068).
+
+#### Effective Date
+Pub. L. 116–260, div. EE, title I, § 108(c), Dec. 27, 2020, 134 Stat. 3049, provided that: “The amendments made by this section [enacting this section and transferring former [section 5067 of this title](./chapter-051-distilled-spirits-wines-and-beer.md#section-5067) to [section 5068 of this title](./chapter-051-distilled-spirits-wines-and-beer.md#section-5068)] shall apply to beer, wine, or distilled spirits, as the case may be, produced after the date of the enactment of this Act [Dec. 27, 2020].”
+
+
+<a id="section-5068"></a>
+## § 5068. Cross reference
 
 For general administrative provisions applicable to the assessment, collection, refund, etc., of taxes, see subtitle F.
 
@@ -3270,7 +3516,7 @@ Section effective July 1, 1959, see section 210(a)(1) of Pub. L. 85–859, set o
 <a id="section-5212"></a>
 ## § 5212. Transfer of distilled spirits between bonded premises
 
-Bulk distilled spirits on which the internal revenue tax has not been paid or determined as authorized by law may, under such regulations as the Secretary shall prescribe, be transferred in bond between bonded premises in any approved container. For the purposes of this chapter, the removal of bulk distilled spirits for transfer in bond between bonded premises shall not be construed to be a withdrawal from bonded premises. The provisions of this section restricting transfers to bulk distilled spirits shall not apply to alcohol bottled under the provisions of section 5235 which is to be withdrawn for industrial purposes. In the case of distilled spirits transferred in bond after December 31, 2017, and before January 1, 2020, this section shall be applied without regard to whether distilled spirits are bulk distilled spirits.
+Bulk distilled spirits on which the internal revenue tax has not been paid or determined as authorized by law may, under such regulations as the Secretary shall prescribe, be transferred in bond between bonded premises in any approved container. For the purposes of this chapter, the removal of bulk distilled spirits for transfer in bond between bonded premises shall not be construed to be a withdrawal from bonded premises. The provisions of this section restricting transfers to bulk distilled spirits shall not apply to alcohol bottled under the provisions of section 5235 which is to be withdrawn for industrial purposes. In the case of distilled spirits transferred in bond after December 31, 2017, between bonded premises belonging to the same person or members of the same controlled group (within the meaning of section 5001(c)(2)) this section shall be applied without regard to whether distilled spirits are bulk distilled spirits. In the case of distilled spirits transferred in bond from the person who distilled or processed such distilled spirits (hereinafter referred to as “transferor”) to another person for bottling or storage of such distilled spirits, and returned to the transferor for removal, this section shall be applied without regard to whether distilled spirits are bulk distilled spirits, but only if the transferor retains title during the entire period between such distillation, or processing, and removal.
 
 ### Statutory Notes
 
@@ -3280,6 +3526,10 @@ A prior section 5212, act Aug. 16, 1954, ch. 736, 68A Stat. 639, related to the 
 Provisions similar to those comprising this section were contained in prior sections 5194(a), (e) to (g), 5217(a), 5246, 5308, act Aug. 16, 1954, ch. 736, 68A Stat. 634 to 636, 641, 647, 657, prior to the general revision of this chapter by Pub. L. 85–859.
 
 #### Amendments
+2020—Pub. L. 116–260 substituted “between bonded premises belonging to the same person or members of the same controlled group (within the meaning of section 5001(c)(2))” for “and before January 1, 2021,” and inserted at end “In the case of distilled spirits transferred in bond from the person who distilled or processed such distilled spirits (hereinafter referred to as ‘transferor’) to another person for bottling or storage of such distilled spirits, and returned to the transferor for removal, this section shall be applied without regard to whether distilled spirits are bulk distilled spirits, but only if the transferor retains title during the entire period between such distillation, or processing, and removal.”
+
+2019—Pub. L. 116–94 substituted “January 1, 2021” for “January 1, 2020”.
+
 2017—Pub. L. 115–97 inserted at end “In the case of distilled spirits transferred in bond after December 31, 2017, and before January 1, 2020, this section shall be applied without regard to whether distilled spirits are bulk distilled spirits.”
 
 1980—Pub. L. 96–598 inserted provision that restriction on transfers to bulk distilled spirits not apply to alcohol bottled under [section 5235 of this title](./chapter-051-distilled-spirits-wines-and-beer.md#section-5235) which is to be withdrawn for industrial purposes.
@@ -3287,6 +3537,12 @@ Provisions similar to those comprising this section were contained in prior sect
 1979—Pub. L. 96–39 substituted “Bulk distilled spirits” for “Distilled spirits” and “bulk distilled spirits” for “distilled spirits”.
 
 1976—Pub. L. 94–455 struck out “or his delegate” after “Secretary”.
+
+#### Effective Date of 2020 Amendment
+Pub. L. 116–260, div. EE, title I, § 106(h)(3), Dec. 27, 2020, 134 Stat. 3045, provided that: “The amendments made by this subsection [amending this section] shall apply to distilled spirits transferred in bond after December 31, 2020.”
+
+#### Effective Date of 2019 Amendment
+Pub. L. 116–94, div. Q, title I, § 144(h)(2), Dec. 20, 2019, 133 Stat. 3235, provided that: “The amendment made by this subsection [amending this section] shall apply to distilled spirits transferred in bond after December 31, 2019.”
 
 #### Effective Date of 2017 Amendment
 Pub. L. 115–97, title I, § 13808(b), Dec. 22, 2017, 131 Stat. 2178, provided that: “The amendments made by this section [amending this section] shall apply distilled spirits transferred in bond after December 31, 2017.”
@@ -3358,7 +3614,9 @@ Amendment by Pub. L. 96–39 effective Jan. 1, 1980, see section 810 of Pub. L. 
 
 (12) free of tax in the case of distilled spirits produced under section 5181; or
 
-(13) without payment of tax for use on bonded wine cellar premises in the production of wine or wine products which will be rendered unfit for beverage use and removed pursuant to section 5362(d).
+(13) without payment of tax for use on bonded wine cellar premises in the production of wine or wine products which will be rendered unfit for beverage use and removed pursuant to section 5362(d); or
+
+(14) with respect to distilled spirits removed after December 31, 2019, and before January 1, 2021, free of tax for use in or contained in hand sanitizer produced and distributed in a manner consistent with any guidance issued by the Food and Drug Administration that is related to the outbreak of virus SARS–CoV–2 or coronavirus disease 2019 (COVID–19).
 
 **(b) Cross references**
 
@@ -3388,6 +3646,8 @@ Provisions similar to those comprising subsecs. (a)(1) to (4), (9) and (b)(3) to
 The prior sections, act Aug. 16, 1954, ch. 736, are set out in 68A Stat. 646–648, 658, 661, 662, 667.
 
 #### Amendments
+2020—Subsec. (a)(14). Pub. L. 116–136 added par. (14).
+
 1984—Subsec. (a)(13). Pub. L. 98–369 added par. (13).
 
 1980—Subsec. (a)(12). Pub. L. 96–223 added par. (12).
@@ -3412,6 +3672,9 @@ Subsec. (b)(7). Pub. L. 95–176, § 3(d), added par. (7).
 
 1969—Subsec. (a)(3)(A). Pub. L. 91–172 substituted “section 170(b)(1)(A)(ii)” for “section 503(b)(2)”.
 
+#### Effective Date of 2020 Amendment
+Pub. L. 116–136, div. A, title II, § 2308(b), Mar. 27, 2020, 134 Stat. 359, provided that: “The amendments made by this section [amending this section] shall apply to distilled spirits removed after December 31, 2019.”
+
 #### Effective Date of 1984 Amendment
 Amendment by Pub. L. 98–369 effective July 18, 1984, see section 456(c) of Pub. L. 98–369, set out as an Effective Date note under [section 5101 of this title](./chapter-051-distilled-spirits-wines-and-beer.md#section-5101).
 
@@ -3429,6 +3692,9 @@ Amendment by section 1905(c)(2) of Pub. L. 94–455 effective on first day of fi
 
 #### Effective Date of 1969 Amendment
 Amendment by Pub. L. 91–172 effective Jan. 1, 1970, see section 101(k)(1) of Pub. L. 91–172, set out as an Effective Date note under [section 4940 of this title](./chapter-042-private-foundations-and-certain-other-tax-exempt-organizations.md#section-4940).
+
+#### Application of Other Laws
+Pub. L. 116–136, div. A, title II, § 2308(c), Mar. 27, 2020, 134 Stat. 359, provided that: “Any distilled spirits or product described in paragraph (14) of section 5214(a) of the Internal Revenue Code of 1986 (as added by this section) shall not be subject to any requirements related to labeling or bulk sales under— “(1) section 105 or 106 of the Federal Alcohol Administration Act ([27 U.S.C. 205](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title27-section205&num=0&edition=prelim), 206); or “(2) section 204 of the Alcoholic Beverage Labeling Act of 1988 ([27 U.S.C. 215](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title27-section215&num=0&edition=prelim)).”
 
 
 <a id="section-5215"></a>
@@ -5236,30 +5502,24 @@ A prior section 5413, act Aug. 16, 1954, ch. 736, 68A Stat. 675, consisted of pr
 
 
 <a id="section-5414"></a>
-## § 5414. Removals from one brewery to another belonging to the same brewer
-**(a) In general** Beer may be removed from one brewery to another brewery belonging to the same brewer, without payment of tax, and may be mingled with beer at the receiving brewery, subject to such conditions, including payment of the tax, and in such containers, as the Secretary by regulations shall prescribe. The removal from one brewery to another brewery belonging to the same brewer shall be deemed to include any removal from a brewery owned by one corporation to a brewery owned by another corporation when (1) one such corporation owns the controlling interest in the other such corporation, or (2) the controlling interest in each such corporation is owned by the same person or persons.
+## § 5414. Transfer of beer between bonded facilities
+**(a) In general** Beer may be removed from one brewery to another brewery, without payment of tax, and may be mingled with beer at the receiving brewery, subject to such conditions, including payment of the tax, and in such containers, as the Secretary by regulations shall prescribe, which shall include—
 
-**(b) Transfer of beer between bonded facilities**
+(1) any removal from one brewery to another brewery belonging to the same brewer,
 
-(1) **In general** — Beer may be removed from one bonded brewery to another bonded brewery, without payment of tax, and may be mingled with beer at the receiving brewery, subject to such conditions, including payment of the tax, and in such containers, as the Secretary by regulations shall prescribe, which shall include—
+(2) any removal from a brewery owned by one corporation to a brewery owned by another corporation when—
 
-  (A) any removal from one brewery to another brewery belonging to the same brewer,
+  (A) one such corporation owns the controlling interest in the other such corporation, or
 
-  (B) any removal from a brewery owned by one corporation to a brewery owned by another corporation when—
+  (B) the controlling interest in each such corporation is owned by the same person or persons, and
 
-    (i) one such corporation owns the controlling interest in the other such corporation, or
+(3) any removal from one brewery to another brewery when—
 
-    (ii) the controlling interest in each such corporation is owned by the same person or persons, and
+  (A) the proprietors of transferring and receiving premises are independent of each other and neither has a proprietary interest, directly or indirectly, in the business of the other, and
 
-  (C) any removal from one brewery to another brewery when—
+  (B) the transferor has divested itself of all interest in the beer so transferred and the transferee has accepted responsibility for payment of the tax.
 
-    (i) the proprietors of transferring and receiving premises are independent of each other and neither has a proprietary interest, directly or indirectly, in the business of the other, and
-
-    (ii) the transferor has divested itself of all interest in the beer so transferred and the transferee has accepted responsibility for payment of the tax.
-
-(2) **Transfer of liability for tax** — For purposes of paragraph (1)(C), such relief from liability shall be effective from the time of removal from the transferor’s bonded premises, or from the time of divestment of interest, whichever is later.
-
-(3) **Termination** — This subsection shall not apply to any calendar quarter beginning after December 31, 2019.
+**(b) Transfer of liability for tax** For purposes of subsection (a)(3), such relief from liability shall be effective from the time of removal from the transferor’s premises, or from the time of divestment of interest, whichever is later.
 
 ### Statutory Notes
 
@@ -5267,9 +5527,19 @@ A prior section 5413, act Aug. 16, 1954, ch. 736, 68A Stat. 675, consisted of pr
 A prior section 5414, act Aug. 16, 1954, ch. 736, 68A Stat. 675, consisted of provisions similar to those comprising this section, prior to the general revision of this chapter by Pub. L. 85–859.
 
 #### Amendments
+2020—Pub. L. 116–260 amended section generally. Prior to amendment, section related to removals of beer from one brewery to another belonging to the same brewer.
+
+2019—Subsec. (b)(3). Pub. L. 116–94 substituted “December 31, 2020” for “December 31, 2019”.
+
 2017—Pub. L. 115–97 designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
 
 1976—Pub. L. 94–455 struck out “or his delegate” after “Secretary”.
+
+#### Effective Date of 2020 Amendment
+Pub. L. 116–260, div. EE, title I, § 106(c)(2), Dec. 27, 2020, 134 Stat. 3043, provided that: “The amendment made by this subsection [amending this section] shall apply to any calendar quarters beginning after December 31, 2020.”
+
+#### Effective Date of 2019 Amendment
+Pub. L. 116–94, div. Q, title I, § 144(c)(2), Dec. 20, 2019, 133 Stat. 3235, provided that: “The amendment made by this subsection [amending this section] shall apply to calendar quarters beginning after December 31, 2019.”
 
 #### Effective Date of 2017 Amendment
 Amendment by Pub. L. 115–97 applicable to any calendar quarters beginning after Dec. 31, 2017, see section 13803(c) of Pub. L. 115–97, set out as a note under [section 5412 of this title](./chapter-051-distilled-spirits-wines-and-beer.md#section-5412).
@@ -5595,16 +5865,13 @@ A prior section 5554, act Aug. 16, 1954, ch. 736, 68A Stat. 681, consisted of pr
 
 <a id="section-5555"></a>
 ## § 5555. Records, statements, and returns
-**(a) General** Every person liable to any tax imposed by this chapter, or for the collection thereof, shall keep such records, render such statements, make such returns, and comply with such rules and regulations as the Secretary may prescribe. For calendar quarters beginning after the date of the enactment of this sentence, and before January 1, 2020, the Secretary shall permit a person to employ a unified system for any records, statements, and returns required to be kept, rendered, or made under this section for any beer produced in the brewery for which the tax imposed by section 5051 has been determined, including any beer which has been removed for consumption on the premises of the brewery.
+**(a) General** Every person liable to any tax imposed by this chapter, or for the collection thereof, shall keep such records, render such statements, make such returns, and comply with such rules and regulations as the Secretary may prescribe. The Secretary shall permit a person to employ a unified system for any records, statements, and returns required to be kept, rendered, or made under this section for any beer produced in the brewery for which the tax imposed by section 5051 has been determined, including any beer which has been removed for consumption on the premises of the brewery.
 
 **(b) Authority to waive** Whenever in this chapter any record is required to be made or kept, or statement or return is required to be made by any person, the Secretary may by regulation waive, in whole or in part, such requirement when he deems such requirement to no longer serve a necessary purpose. This subsection shall not be construed as authorizing the waiver of the payment of any tax.
 
 **(c) Photographic copies** Whenever in this chapter any record is required to be made and preserved by any person, the Secretary may by regulations authorize such person to record, copy, or reproduce by any photographic, photostatic, microfilm, microcard, miniature photographic, or other process, which accurately reproduces or forms a durable medium for so reproducing the original of such record and to retain such reproduction in lieu of the original. Every person who is authorized to retain such reproduction in lieu of the original shall, under such regulations as the Secretary may prescribe, preserve such reproduction in conveniently accessible files and make provision for examining, viewing, and using such reproduction the same as if it were the original. Such reproduction shall be treated and considered for all purposes as though it were the original record and all provisions of law applicable to the original shall be applicable to such reproduction. Such reproduction, or enlargement or facsimile thereof, shall be admissible in evidence in the same manner and under the same conditions as provided for the admission of reproductions, enlargements, or facsimiles of records made in the regular course of business under [section 1732(b) of title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section1732/b&num=0&edition=prelim) of the United States Code.
 
 ### Statutory Notes
-
-#### References in Text
-The date of the enactment of this sentence, referred to in the second sentence of subsec. (a), is the date of enactment of Pub. L. 115–123, which was approved Feb. 9, 2018.
 
 #### Prior Provisions
 A prior section 5555, act Aug. 16, 1954, ch. 736, 68A Stat. 681, consisted of provisions similar to those comprising subsecs. (a) and (b) of this section, prior to the general revision of this chapter by Pub. L. 85–859.
@@ -5614,11 +5881,21 @@ Prior section 5555(a), relating to general provisions respecting records, statem
 Prior section 5555(b), relating to authority to waive records, statements, and returns, is also incorporated in [section 5505(g) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section5505/g&num=0&edition=prelim).
 
 #### Amendments
+2020—Subsec. (a). Pub. L. 116–260 substituted “The Secretary” for “For calendar quarters beginning after the date of the enactment of this sentence, and before January 1, 2021, the Secretary”.
+
+2019—Subsec. (a). Pub. L. 116–94 substituted “January 1, 2021” for “January 1, 2020”.
+
 2018—Subsec. (a). Pub. L. 115–123 inserted at end “For calendar quarters beginning after the date of the enactment of this sentence, and before January 1, 2020, the Secretary shall permit a person to employ a unified system for any records, statements, and returns required to be kept, rendered, or made under this section for any beer produced in the brewery for which the tax imposed by section 5051 has been determined, including any beer which has been removed for consumption on the premises of the brewery.”
 
 1984—Subsec. (a). Pub. L. 98–369 struck out “or for the affixing of any stamp required to be affixed by this chapter,” after “the collection thereof,”.
 
 1976—Subsecs. (a) to (c). Pub. L. 94–455 struck out “or his delegate” after “Secretary” wherever appearing.
+
+#### Effective Date of 2020 Amendment
+Pub. L. 116–260, div. EE, title I, § 106(i)(2), Dec. 27, 2020, 134 Stat. 3045, provided that: “The amendment made by this subsection [amending this section] shall apply to calendar quarters beginning after December 31, 2020.”
+
+#### Effective Date of 2019 Amendment
+Pub. L. 116–94, div. Q, title I, § 144(i)(2), Dec. 20, 2019, 133 Stat. 3235, provided that: “The amendment made by this subsection [amending this section] shall apply to calendar quarters beginning after December 31, 2019.”
 
 #### Effective Date of 2018 Amendment
 Pub. L. 115–123, div. D, title II, § 41112(b), Feb. 9, 2018, 132 Stat. 160, provided that: “The amendment made by this section [amending this section] shall apply to calendar quarters beginning after the date of the enactment of this Act [Feb. 9, 2018].”

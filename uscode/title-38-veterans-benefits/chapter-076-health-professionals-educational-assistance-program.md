@@ -2,7 +2,7 @@
 title: 38
 chapter: '76'
 heading: HEALTH PROFESSIONALS EDUCATIONAL ASSISTANCE PROGRAM
-section_count: 46
+section_count: 50
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38&num=0&edition=prelim
 ---
@@ -18,15 +18,19 @@ source: >-
 
 (4) the employee incentive scholarship program provided for in subchapter VI of this chapter;
 
-(5) the education debt reduction program provided for in subchapter VII of this chapter; and
+(5) the education debt reduction program provided for in subchapter VII of this chapter;
 
-(6) the specialty education loan repayment program provided for in subchapter VIII of this chapter.
+(6) the specialty education loan repayment program provided for in subchapter VIII of this chapter; and
+
+(7) the readjustment counseling service scholarship program provided for in subchapter IX of this chapter.
 
 **(b)** The purpose of the Educational Assistance Program is to assist in providing an adequate supply of trained health-care personnel for the Department and the Nation.
 
 ### Statutory Notes
 
 #### Amendments
+2020—Subsec. (a)(7). Pub. L. 116–171 added par. (7).
+
 2018—Subsec. (a)(6). Pub. L. 115–182 added par. (6).
 
 1998—Subsec. (a)(4), (5). Pub. L. 105–368 added pars. (4) and (5).
@@ -58,15 +62,19 @@ Pub. L. 102–389, title I, Oct. 6, 1992, 106 Stat. 1574, provided in part for a
 ## § 7602. Eligibility
 **(a)**
 
-(1) To be eligible to participate in the Educational Assistance Program under subchapter II, III, or VI of this chapter, an individual must be accepted for enrollment or be currently enrolled as a student at a qualifying educational institution in a course of education or training that is approved by the Secretary and that leads toward completion of a degree in a field of education or training for which a scholarship may be awarded under subchapter II of this chapter, for which tuition reimbursement may be provided under subchapter III of this chapter, or for which a scholarship may be awarded under subchapter VI of this chapter, as the case may be.
+(1) To be eligible to participate in the Educational Assistance Program under subchapter II, III, VI, or IX of this chapter, an individual must be accepted for enrollment or be currently enrolled as a student at a qualifying educational institution in a course of education or training that is approved by the Secretary and that leads toward completion of a degree in a field of education or training for which a scholarship may be awarded under subchapter II of this chapter, for which tuition reimbursement may be provided under subchapter III of this chapter, or for which a scholarship may be awarded under subchapter VI or IX of this chapter, as the case may be.
 
 (2) A qualifying educational institution for purposes of this section is an educational institution that is in a State and that (as determined by the Secretary) is an accredited institution.
 
-**(b)** An individual is not eligible to apply to participate in the Educational Assistance Program under subchapter II, III, or VI of this chapter if the individual is obligated under any other Federal program to perform service after completion of the course of education or training of such individual referred to in subsection (a) of this section.
+**(b)** An individual is not eligible to apply to participate in the Educational Assistance Program under subchapter II, III, VI, or IX of this chapter if the individual is obligated under any other Federal program to perform service after completion of the course of education or training of such individual referred to in subsection (a) of this section.
 
 ### Statutory Notes
 
 #### Amendments
+2020—Subsec. (a)(1). Pub. L. 116–171, § 502(b)(1)(B)(i), substituted “VI, or IX” for “or VI” and “subchapter VI or IX” for “subchapter VI”.
+
+Subsec. (b). Pub. L. 116–171, § 502(b)(1)(B)(ii), substituted “VI, or IX” for “or VI”.
+
 1998—Subsec. (a)(1). Pub. L. 105–368, § 805(2)(A), substituted “subchapter II, III, or VI” for “subchapter I or II”, substituted “, for which” for “or for which”, and inserted before period at end “, or for which a scholarship may be awarded under subchapter VI of this chapter, as the case may be”.
 
 Subsec. (b). Pub. L. 105–368, § 805(2)(B), substituted “subchapter II, III, or VI” for “subchapter I or II”.
@@ -82,7 +90,7 @@ Subsec. (a). Pub. L. 102–83 substituted “Secretary” for “Administrator�
 ## § 7603. Application and acceptance
 **(a)**
 
-(1) To apply to participate in the Educational Assistance Program under subchapter II, III, V, VI, or VIII of this chapter, an individual shall submit to the Secretary an application for such participation together with an agreement described in [section 7604 of this title](./chapter-076-health-professionals-educational-assistance-program.md#section-7604) under which the participant agrees to serve a period of obligated service in the Veterans Health Administration as provided in the agreement in return for payment of educational assistance as provided in the agreement.
+(1) To apply to participate in the Educational Assistance Program under subchapter II, III, V, VI, VIII, or IX of this chapter, an individual shall submit to the Secretary an application for such participation together with an agreement described in [section 7604 of this title](./chapter-076-health-professionals-educational-assistance-program.md#section-7604) under which the participant agrees to serve a period of obligated service in the Veterans Health Administration as provided in the agreement in return for payment of educational assistance as provided in the agreement.
 
 (2) To apply to participate in the Educational Assistance Program under subchapter VII of this chapter, an individual shall submit to the Secretary an application for such participation.
 
@@ -107,6 +115,8 @@ Subsec. (a). Pub. L. 102–83 substituted “Secretary” for “Administrator�
 ### Statutory Notes
 
 #### Amendments
+2020—Subsec. (a)(1). Pub. L. 116–171 substituted “VIII, or IX” for “or VIII”.
+
 2018—Subsec. (a)(1). Pub. L. 115–182 substituted “VI, or VIII” for “or VI”.
 
 2000—Subsec. (a)(1). Pub. L. 106–419 substituted “subchapter” for “subsection”.
@@ -133,7 +143,7 @@ An agreement between the Secretary and a participant in the Educational Assistan
 
 (1) The Secretary’s agreement—
 
-  (A) to provide the participant with educational assistance as authorized in subchapter II, III, V, VI, or VIII of this chapter and specified in the agreement; and
+  (A) to provide the participant with educational assistance as authorized in subchapter II, III, V, VI, VIII, or IX of this chapter and specified in the agreement; and
 
   (B) to afford the participant the opportunity for employment in the Veterans Health Administration (subject to the availability of appropriated funds for such purpose and other qualifications established in accordance with [section 7402 of this title](./chapter-074-veterans-health-administration-personnel.md#section-7402)).
 
@@ -145,17 +155,19 @@ An agreement between the Secretary and a participant in the Educational Assistan
 
   (C) while enrolled in such course, to maintain an acceptable level of academic standing (as determined by the educational institution offering such course of training under regulations prescribed by the Secretary); and
 
-  (D) after completion of the course of training, to serve as a full-time employee in the Veterans Health Administration as specified in the agreement in accordance with subchapter II, III, V, VI, or VIII of this chapter.
+  (D) after completion of the course of training, to serve as a full-time employee in the Veterans Health Administration as specified in the agreement in accordance with subchapter II, III, V, VI, VIII, or IX of this chapter.
 
 (3) A provision that any financial obligation of the United States arising out of an agreement entered into under this chapter, and any obligation of the participant which is conditioned on such agreement, is contingent upon funds being appropriated for educational assistance under this chapter.
 
 (4) A statement of the damages to which the United States is entitled under this chapter for the participant’s breach of the agreement.
 
-(5) Such other terms as are required to be included in the agreement under subchapter II, III, V, VI, or VIII of this chapter or as the Secretary may require consistent with the provisions of this chapter.
+(5) Such other terms as are required to be included in the agreement under subchapter II, III, V, VI, VIII, or IX of this chapter or as the Secretary may require consistent with the provisions of this chapter.
 
 ### Statutory Notes
 
 #### Amendments
+2020—Pub. L. 116–171 substituted “VIII, or IX” for “or VIII” in pars. (1)(A), (2)(D), and (5).
+
 2018—Pub. L. 115–182 substituted “VI, or VIII” for “or VI” in pars. (1)(A), (2)(D), and (5).
 
 1998—Pub. L. 105–368 substituted “subchapter II, III, V, or VI” for “subchapter II, III, or V” in pars. (1)(A), (2)(D), and (5).
@@ -186,10 +198,10 @@ As part of the Educational Assistance Program, the Secretary shall carry out a s
 Pub. L. 102–83 substituted “Secretary” for “Administrator” and “Department of Veterans Affairs” for “Veterans’ Administration”.
 
 #### Submission of Overdue Report
-Pub. L. 105–114, title II, § 207(b), Nov. 21, 1997, 111 Stat. 2289, provided that: “The Secretary of Veterans Affairs shall submit to Congress not later than 180 days after the date of the enactment of this Act [Nov. 21, 1997] the report evaluating the operation of the health professional scholarship program required to be submitted not later than March 31, 1997, under section 202(b) of Public Law 104–110 (110 Stat. 770) [set out below].”
+Pub. L. 105–114, title II, § 207(b), Nov. 21, 1997, 111 Stat. 2289, required the Secretary of Veterans Affairs to submit to Congress, not later than 180 days after Nov. 21, 1997, the report evaluating the operation of the health professional scholarship program that was required to be submitted not later than Mar. 31, 1997.
 
 #### Health Professional Scholarship Program
-Pub. L. 104–110, title II, § 202(b), Feb. 13, 1996, 110 Stat. 770, provided that: “(1) The Secretary shall submit to Congress, not later than March 31, 1997, a report setting forth the results of a study evaluating the operation of the health professional scholarship program under subchapter II of chapter 76 of title 38, United States Code. The study shall evaluate the efficacy of the program with respect to recruitment and retention of health care personnel for the Department of Veterans Affairs and shall compare the costs and benefits of the program with the costs and benefits of alternative methods of ensuring adequate recruitment and retention of such personnel. “(2) The Secretary shall carry out the study under this paragraph through a private contractor. The report under paragraph (1) shall include the report of the contractor and the comments, if any, of the Secretary on that report.”
+Pub. L. 104–110, title II, § 202(b), Feb. 13, 1996, 110 Stat. 770, provided that the Secretary was to submit to Congress, not later than Mar. 31, 1997, a report setting forth the results of a study evaluating the operation of the health professional scholarship program under this subchapter and provided that the study was to evaluate the efficacy of the program with respect to recruitment and retention of health care personnel for the Department of Veterans Affairs and was to compare the costs and benefits of the program with the costs and benefits of alternative methods of ensuring adequate recruitment and retention of such personnel.
 
 
 <a id="section-7612"></a>
@@ -741,13 +753,13 @@ Pub. L. 100–322, title II, § 216(d), May 20, 1988, 102 Stat. 530, provided th
 
 Not later than March 1 of each year, the Secretary shall submit to Congress a report on the Educational Assistance Program. Each such report shall include the following information:
 
-(1) The number of students receiving educational assistance under the Educational Assistance Program, showing the numbers of students receiving assistance under the Scholarship Program, the Tuition Reimbursement Program, the Employee Incentive Scholarship Program, the Education Debt Reduction Program, and the Specialty Education Loan Repayment Program separately, and the number of students (if any) enrolled in each type of health profession training under each program.
+(1) The number of students receiving educational assistance under the Educational Assistance Program, showing the numbers of students receiving assistance under the Scholarship Program, the Tuition Reimbursement Program, the Employee Incentive Scholarship Program, the Education Debt Reduction Program, the Specialty Education Loan Repayment Program, and the Readjustment Counseling Service Scholarship Program separately, and the number of students (if any) enrolled in each type of health profession training under each program.
 
 (2) The education institutions (if any) providing such training to students in each program.
 
 (3) The number of applications filed under each program, by health profession category, during the school year beginning in such year and the total number of such applications so filed for all years in which the Educational Assistance Program (or predecessor program) has been in existence.
 
-(4) The average amounts of educational assistance provided per participant in the Scholarship Program, per participant in the Tuition Reimbursement Program, per participant in the Employee Incentive Scholarship Program, per participant in the Education Debt Reduction Program, and per participant in the Specialty Education Loan Repayment Program.
+(4) The average amounts of educational assistance provided per participant in the Scholarship Program, per participant in the Tuition Reimbursement Program, per participant in the Employee Incentive Scholarship Program, per participant in the Education Debt Reduction Program, per participant in the Specialty Education Loan Repayment Program, and per participant in the Readjustment Counseling Service Scholarship Program.
 
 (5) The amount of tuition and other expenses paid, by health profession category, in the aggregate and at each educational institution for the school year beginning in such year and for prior school years.
 
@@ -758,6 +770,10 @@ Not later than March 1 of each year, the Secretary shall submit to Congress a re
 ### Statutory Notes
 
 #### Amendments
+2020—Par. (1). Pub. L. 116–171, § 502(b)(1)(E)(i), substituted “the Specialty Education Loan Repayment Program, and the Readjustment Counseling Service Scholarship Program” for “and the Specialty Education Loan Repayment Program”.
+
+Par. (4). Pub. L. 116–171, § 502(b)(1)(E)(ii), substituted “per participant in the Specialty Education Loan Repayment Program, and per participant in the Readjustment Counseling Service Scholarship Program” for “and per participant in the Specialty Education Loan Repayment Program”.
+
 2018—Par. (1). Pub. L. 115–182, § 303(b)(1)(E)(i), substituted “the Education Debt Reduction Program, and the Specialty Education Loan Repayment Program” for “and the Education Debt Reduction Program”.
 
 Par. (4). Pub. L. 115–182, § 303(b)(1)(E)(ii), substituted “per participant in the Education Debt Reduction Program, and per participant in the Specialty Education Loan Repayment Program” for “and per participant in the Education Debt Reduction Program”.
@@ -1349,3 +1365,110 @@ Each participant in the Specialty Education Loan Repayment Program who completes
 ## § 7697. Relationship to Educational Assistance Program
 
 Assistance under the Specialty Education Loan Repayment Program may be in addition to other assistance available to individuals under the Educational Assistance Program.
+
+
+<a id="section-7698"></a>
+## § 7698. Requirement for program
+
+As part of the Educational Assistance Program, the Secretary shall carry out a scholarship program under this subchapter. The program shall be known as the Department of Veterans Affairs Readjustment Counseling Service Scholarship Program (in this subchapter referred to as the “Program”).
+
+### Statutory Notes
+
+#### Effective Date
+Pub. L. 116–171, title V, § 502(c), Oct. 17, 2020, 134 Stat. 818, provided that: “The Secretary of Veterans Affairs shall begin awarding scholarships under subchapter IX of chapter 76 of title 38, United States Code, as added by subsection (a), for programs of study beginning not later than one year after the date of the enactment of this Act [Oct. 17, 2020].”
+
+
+<a id="section-7699"></a>
+## § 7699. Eligibility; agreement
+**(a) In General.—** An individual is eligible to participate in the Program, as determined by the Readjustment Counseling Service of the Department, if the individual—
+
+(1) is accepted for enrollment or enrolled (as described in [section 7602 of this title](./chapter-076-health-professionals-educational-assistance-program.md#section-7602)) in a program of study at an accredited educational institution, school, or training program leading to a terminal degree in psychology, social work, marriage and family therapy, or mental health counseling that would meet the education requirements for appointment to a position under [section 7402(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section7402/b&num=0&edition=prelim); and
+
+(2) enters into an agreement with the Secretary under subsection (c).
+
+**(b) Priority.—** In selecting individuals to participate in the Program, the Secretary shall give priority to the following individuals:
+
+(1) An individual who agrees to be employed by a Vet Center located in a community that is—
+
+  (A) designated as a medically underserved population under section 330(b)(3) of the Public Health Service Act ([42 U.S.C. 254b(b)(3)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section254b/b/3&num=0&edition=prelim)); and
+
+  (B) in a State with a per capita population of veterans of more than five percent according to the National Center for Veterans Analysis and Statistics and the Bureau of the Census.
+
+(2) An individual who is a veteran.
+
+**(c) Agreement.—** An agreement between the Secretary and a participant in the Program shall (in addition to the requirements set forth in [section 7604 of this title](./chapter-076-health-professionals-educational-assistance-program.md#section-7604)) include the following:
+
+(1) An agreement by the Secretary to provide the participant with a scholarship under the Program for a specified number of school years during which the participant pursues a program of study described in subsection (a)(1) that meets the requirements set forth in [section 7602(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section7602/a&num=0&edition=prelim).
+
+(2) An agreement by the participant to serve as a full-time employee of the Department at a Vet Center for a six-year period following the completion by the participant of such program of study (in this subchapter referred to as the “period of obligated service”).
+
+**(d) Vet Center Defined.—** In this section, the term “Vet Center” has the meaning given that term in [section 1712A(h) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section1712A/h&num=0&edition=prelim).
+
+### Statutory Notes
+
+#### Effective Date
+Secretary of Veterans Affairs to begin awarding scholarships under this subchapter for programs of study beginning no later than one year after Oct. 17, 2020, see section 502(c) of Pub. L. 116–171, set out as a note under [section 7698 of this title](./chapter-076-health-professionals-educational-assistance-program.md#section-7698).
+
+
+<a id="section-7699a"></a>
+## § 7699A. Obligated service
+**(a) In General.—** Each participant in the Program shall provide service as a full-time employee of the Department at a Vet Center (as defined in [section 7699(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section7699/d&num=0&edition=prelim)) for the period of obligated service set forth in the agreement of the participant entered into under [section 7604 of this title](./chapter-076-health-professionals-educational-assistance-program.md#section-7604).
+
+**(b) Determination of Service Commencement Date.—**
+
+(1) Not later than 60 days before the service commencement date of a participant, the Secretary shall notify the participant of that service commencement date.
+
+(2) The date specified in paragraph (1) with respect to a participant is the date for the beginning of the period of obligated service of the participant.
+
+### Statutory Notes
+
+#### Effective Date
+Secretary of Veterans Affairs to begin awarding scholarships under this subchapter for programs of study beginning no later than one year after Oct. 17, 2020, see section 502(c) of Pub. L. 116–171, set out as a note under [section 7698 of this title](./chapter-076-health-professionals-educational-assistance-program.md#section-7698).
+
+
+<a id="section-7699b"></a>
+## § 7699B. Breach of agreement: liability
+**(a) Liquidated Damages.—**
+
+(1) A participant in the Program (other than a participant described in subsection (b)) who fails to accept payment, or instructs the educational institution in which the participant is enrolled not to accept payment, in whole or in part, of a scholarship under the agreement entered into under [section 7604 of this title](./chapter-076-health-professionals-educational-assistance-program.md#section-7604) shall be liable to the United States for liquidated damages in the amount of $1,500.
+
+(2) Liability under paragraph (1) is in addition to any period of obligated service or other obligation or liability under such agreement.
+
+**(b) Liability During Program of Study.—**
+
+(1) Except as provided in subsection (d), a participant in the Program shall be liable to the United States for the amount which has been paid to or on behalf of the participant under the agreement if any of the following occurs:
+
+  (A) The participant fails to maintain an acceptable level of academic standing in the educational institution in which the participant is enrolled (as determined by the educational institution under regulations prescribed by the Secretary).
+
+  (B) The participant is dismissed from such educational institution for disciplinary reasons.
+
+  (C) The participant voluntarily terminates the program of study in such educational institution before the completion of such program of study.
+
+(2) Liability under this subsection is in lieu of any service obligation arising under the agreement.
+
+**(c) Liability During Period of Obligated Service.—**
+
+(1) Except as provided in subsection (d), if a participant in the Program does not complete the period of obligated service of the participant, the United States shall be entitled to recover from the participant an amount determined in accordance with the following formula: A = 3Φ (t−s/t).
+
+(2) In the formula in paragraph (1):
+
+  (A) “A” is the amount the United States is entitled to recover.
+
+  (B) “Φ” is the sum of—
+
+    (i) the amounts paid under this subchapter to or on behalf of the participant; and
+
+    (ii) the interest on such amounts which would be payable if at the time the amounts were paid they were loans bearing interest at the maximum legal prevailing rate, as determined by the Treasurer of the United States.
+
+  (C) “t” is the total number of months in the period of obligated service of the participant.
+
+  (D) “s” is the number of months of such period served by the participant.
+
+**(d) Limitation on Liability for Reductions-in-force.—** Liability shall not arise under subsection (c) if the participant fails to maintain employment as a Department employee due to a staffing adjustment.
+
+**(e) Period for Payment of Damages.—** Any amount of damages that the United States is entitled to recover under this section shall be paid to the United States within the one-year period beginning on the date of the breach of the agreement.
+
+### Statutory Notes
+
+#### Effective Date
+Secretary of Veterans Affairs to begin awarding scholarships under this subchapter for programs of study beginning no later than one year after Oct. 17, 2020, see section 502(c) of Pub. L. 116–171, set out as a note under [section 7698 of this title](./chapter-076-health-professionals-educational-assistance-program.md#section-7698).

@@ -7,13 +7,13 @@ source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10&num=0&edition=prelim
 ---
 <a id="section-9771"></a>
-## § 9771. Acceptance of donations: land for mobilization, training, supply base, or aviation field
+## § 9771. Acceptance of donations: land for mobilization, training, supply base, aviation field, or space mission-related facility
 
 The Secretary of the Air Force may accept for the United States a gift of—
 
 (1) land that he considers suitable and desirable for a permanent mobilization, training, or supply base; and
 
-(2) land that he considers suitable and desirable for an aviation field, if the gift is from a citizen of the United States and its terms authorize the use of the property by the United States for any purpose.
+(2) land that he considers suitable and desirable for an aviation field or space mission-related facility, if the gift is from a citizen of the United States and its terms authorize the use of the property by the United States for any purpose.
 
 ### Statutory Notes
 
@@ -23,6 +23,11 @@ The Secretary of the Air Force may accept for the United States a gift of—
 | 9771 | 10:1342. 10:1344. | Aug. 29, 1916, ch. 418 (6th and 8th pars. under “Office of the Chief Signal Officer”), 39 Stat. 622, 623. |
 
 10:1344 (last 40 words) is omitted as executed. The words “tract or tracts”, in 10:1342 and 1344, are omitted as surplusage. The words “and remount station”, in 10:1342, are omitted, since the property and civilian personnel of the Remount Service of the Quartermaster Corps were transferred to the Department of Agriculture by the Act of April 21, 1948, ch. 224, 62 Stat. 197 ([7 U.S.C. 436–438](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section436–438&num=0&edition=prelim)). The words “by the United States for any purpose” are substituted for the words “for any other service of the United States which may hereafter appear desirable”, in 10:1342. The words “from any person”, in 10:1344, are omitted as surplusage.
+
+#### Amendments
+2021—Pub. L. 116–283, § 923(e)(16)(B), amended section catchline generally. Prior to amedment, catchline read as follows: “Acceptance of donations: land for mobilization, training, supply base, or aviation field”.
+
+Par. (2). Pub. L. 116–283, § 923(e)(16)(A), inserted “or space mission-related facility” after “aviation field”.
 
 
 <a id="section-9772"></a>
@@ -40,10 +45,10 @@ Repeal by Pub. L. 94–579 not to be construed as terminating any valid lease, p
 
 
 <a id="section-9773"></a>
-## § 9773. Acquisition and construction: air bases and depots
-**(a)** The Secretary of the Air Force shall determine the sites of such additional permanent air bases and depots in all strategic areas of the United States and the Commonwealths, possessions, and holdings as he considers necessary. He shall determine when the enlargement of existing air bases and depots is necessary for the effective peacetime training of the Air Force.
+## § 9773. Acquisition and construction: installations and depots
+**(a)** The Secretary of the Air Force shall determine the sites of such additional permanent Air Force and Space Force military installations and depots in all strategic areas of the United States and the Commonwealths, possessions, and holdings as he considers necessary. He shall determine when the enlargement of existing installations and depots is necessary for the effective peacetime training of the Air Force or the Space Force.
 
-**(b)** In determining the sites of new air bases and depots, the Secretary shall consider the following regions for the purposes indicated—
+**(b)** In determining the sites of new installations and depots, the Secretary shall consider the following regions for the purposes indicated—
 
 (1) the Atlantic northeast, for training in cold weather and in fog;
 
@@ -57,17 +62,17 @@ Repeal by Pub. L. 94–579 not to be construed as terminating any valid lease, p
 
 (6) the Rocky Mountain area, to provide a depot necessary to maintain the Air Force, and for training in operations from fields in high altitudes; and
 
-(7) other regions, for the establishment of intermediate air bases to provide for transcontinental movements of the Air Force for maneuvers.
+(7) other regions, for the establishment of intermediate installations to provide for transcontinental movements of the Air Force or Space Force for maneuvers.
 
-**(c)** In selecting sites for air bases and depots covered by this section and in determining the alteration or enlargement of existing air bases or depots, the Secretary shall consider the need—
+**(c)** In selecting sites for installations and depots covered by this section and in determining the alteration or enlargement of existing installations or depots, the Secretary shall consider the need—
 
-(1) to form the nucleus for concentration of Air Force units in time of war;
+(1) to form the nucleus for concentration of Air Force or Space Force units in time of war;
 
 (2) to permit, in time of peace, training and effective planning in each strategic area for the use and expansion of commercial, municipal, and private flying installations in time of war;
 
-(3) to locate, in each strategic area in which it is considered necessary, adequate storage facilities for munitions and other articles necessary to facilitate the movement, concentration, maintenance, and operation of the Air Force; and
+(3) to locate, in each strategic area in which it is considered necessary, adequate storage facilities for munitions and other articles necessary to facilitate the movement, concentration, maintenance, and operation of the Air Force or the Space Force; and
 
-(4) to afford the maximum warning against surprise attack by enemy aircraft upon aviation of the United States and its necessary installations consistent with maintaining, in connection with existing or contemplated landing fields, the full power of the Air Force for operations necessary in the defense of the United States, and in the defense and reinforcement of the Commonwealths, possessions, and holdings.
+(4) to afford the maximum warning against surprise attack by enemy aircraft upon aviation of the United States and its necessary installations consistent with maintaining, in connection with existing or contemplated landing fields, the full power of the Air Force or the Space Force for operations necessary in the defense of the United States, and in the defense and reinforcement of the Commonwealths, possessions, and holdings.
 
 **(d)** In carrying out this section, the Secretary, on behalf of the United States, may acquire title, in fee simple and free of encumbrance, to any land that he considers necessary—
 
@@ -79,7 +84,7 @@ Repeal by Pub. L. 94–579 not to be construed as terminating any valid lease, p
 
 **(e)** The Secretary may, by purchase, gift, lease, or otherwise, acquire at desired locations bombing and machine gun ranges necessary for practice by, and the training of, tactical units.
 
-**(f)** At each air base or depot established under this section, the Secretary shall remove or remodel existing structures as necessary; do necessary grading; and provide buildings, utilities, communication systems, landing fields and mats, roads, walks, aprons, docks, runways, facilities for the storage and distribution of ammunition, fuel, oil, necessary protection against bombs, and all appurtenances to the foregoing.
+**(f)** At each installation or depot established under this section, the Secretary shall remove or remodel existing structures as necessary; do necessary grading; and provide buildings, utilities, communication systems, landing fields and mats, roads, walks, aprons, docks, runways, facilities for the storage and distribution of ammunition, fuel, oil, necessary protection against bombs, and all appurtenances to the foregoing.
 
 **(g)** The Secretary may direct the transportation of personnel, and the purchase, renovation, and transportation of material, that he considers necessary to carry out this section.
 
@@ -106,6 +111,22 @@ In subsection (d), clause (3) is substituted for 10: 1343b (last 26 words). 10:1
 In subsection (f), the word “shall” is substituted for the words “is further authorized and directed to”. The word “provide” is substituted for the words “construct, install, and equip, or complete the construction, installation, and equipment”. The words “technical buildings and utilities” are omitted as covered by the words “buildings” and “utilities”. The words “sewer, water, power, station and aerodrome lighting” are omitted as covered by the word “utilities”. The words “communication systems” are substituted for the words “telephone and signal communications”. The words “appurtenances to the foregoing” are substituted for the words “other essentials”.
 
 #### Amendments
+2021—Pub. L. 116–283, § 923(e)(17)(B), amended section catchline generally. Prior to amendment, catchline read as follows: “Acquisition and construction: air bases and depots”.
+
+Subsec. (a). Pub. L. 116–283, § 923(e)(17)(A)(i), substituted “permanent Air Force and Space Force military installations” for “permanent air bases” and “existing installations” for “existing air bases”, and inserted “or the Space Force” after “training of the Air Force”.
+
+Subsec. (b). Pub. L. 116–283, § 923(e)(17)(A)(ii), substituted “installations” for “air bases” in introductory provisions.
+
+Subsec. (b)(7). Pub. L. 116–283, § 923(e)(17)(A)(ii), (iii), substituted “installations” for “air bases” and inserted “or Space Force” after “Air Force”.
+
+Subsec. (c). Pub. L. 116–283, § 923(e)(17)(A)(ii), substituted “installations” for “air bases” in two places in introductory provisions.
+
+Subsec. (c)(1). Pub. L. 116–283, § 923(e)(17)(A)(iv)(I), inserted “or Space Force” after “Air Force”.
+
+Subsec. (c)(3), (4). Pub. L. 116–283, § 923(e)(17)(A)(iv)(II), inserted “or the Space Force” after “the Air Force”.
+
+Subsec. (f). Pub. L. 116–283, § 923(e)(17)(A)(v), substituted “installation” for “air base”.
+
 2006—Subsecs. (a), (c)(4). Pub. L. 109–163 struck out “Territories,” before “Commonwealths, possessions,”.
 
 
@@ -131,7 +152,7 @@ Section, act Aug. 10, 1956, ch. 1041, 70A Stat. 590, authorized assignment of qu
 <a id="section-9776"></a>
 ## § 9776. Emergency construction: fortifications
 
-If in an emergency the President considers it urgent, a temporary air base or fortification may be built on private land if the owner consents in writing.
+If in an emergency the President considers it urgent, a temporary installation or fortification may be built on private land if the owner consents in writing.
 
 ### Statutory Notes
 
@@ -143,6 +164,8 @@ If in an emergency the President considers it urgent, a temporary air base or fo
 The word “important” is omitted as covered by the word “urgent”. The words “upon which such work is to be placed” are omitted as surplusage.
 
 #### Amendments
+2021—Pub. L. 116–283 substituted “installation” for “air base”.
+
 1970—Pub. L. 91–393 struck out “In such a case, [section 175 of title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section175&num=0&edition=prelim) does not apply.”
 
 
@@ -187,9 +210,9 @@ The words “may issue” are substituted for the words “Authority is given to
 
 <a id="section-9779"></a>
 ## § 9779. Use of public property
-**(a)** When the economy of the Air Force so requires, the Secretary of the Air Force shall establish military headquarters in places where suitable buildings are owned by the United States.
+**(a)** When the economy of the Air Force or the Space Force so requires, the Secretary of the Air Force shall establish military headquarters in places where suitable buildings are owned by the United States.
 
-**(b)** No money appropriated for the support of the Air Force may be spent for base gardens or Air Force exchanges. However, this does not prevent Air Force exchanges from using public buildings or public transportation that, in the opinion of the Secretary, are not needed for other purposes.
+**(b)** No money appropriated for the support of the Air Force or the Space Force may be spent for base gardens or Air Force exchanges. However, this does not prevent Air Force exchanges from using public buildings or public transportation that, in the opinion of the Secretary, are not needed for other purposes.
 
 ### Statutory Notes
 
@@ -207,6 +230,10 @@ In subsection (b), the words “suitable space” are substituted for the words 
 In subsection (c), the words “the Secretary” are substituted for the words “the Quartermaster General”, since the functions which, for the Army, are assigned by statute to subordinate officers of the Army, are, for the Air Force, assigned to the Secretary.
 
 #### Amendments
+2021—Subsec. (a). Pub. L. 116–283, § 923(e)(19)(A), inserted “or the Space Force” after “economy of the Air Force”.
+
+Subsec. (b). Pub. L. 116–283, § 923(e)(19)(B), inserted “or the Space Force” after “support of the Air Force”.
+
 1986—Subsecs. (b), (c). Pub. L. 99–661 redesignated subsec. (c) as (b) and struck out former subsec. (b) which directed the Secretary to assign suitable space for postal purposes at each air base where there was a post office.
 
 
@@ -242,13 +269,13 @@ In subsection (b), the words “At any time” are inserted for clarity. The wor
 
 (1) The Administrator of General Services shall dispose of the interest of the United States in any tract of real property described in paragraph (2) or in any easement held in connection with any such tract of real property only as provided in this section.
 
-(2) The real property referred to in paragraph (1) is any tract of land (including improvements thereon) owned by the Air Force that—
+(2) The real property referred to in paragraph (1) is any tract of land (including improvements thereon) owned by the Department of the Air Force that—
 
-  (A) is not required for the needs of the Air Force and the discharge of the responsibilities of the Air Force, as determined by the Secretary of the Air Force;
+  (A) is not required for the needs of the Department of the Air Force and the discharge of the responsibilities of the Department of the Air Force, as determined by the Secretary of the Air Force;
 
   (B) does not exceed 25 acres;
 
-  (C) was used by the Air Force as a site for one or more missile launch facilities, missile launch control buildings, or other facilities to support missile launch operations; and
+  (C) was used by the Department of the Air Force as a site for one or more missile launch facilities, missile launch control buildings, or other facilities to support missile launch operations; and
 
   (D) is surrounded by lands that are adjacent to such tract and that—
 
@@ -287,6 +314,12 @@ In subsection (b), the words “At any time” are inserted for clarity. The wor
 ### Statutory Notes
 
 #### Amendments
+2021—Subsec. (a)(2). Pub. L. 116–283, § 923(e)(20)(A), substituted “Department of the Air Force” for “Air Force” in introductory provisions.
+
+Subsec. (a)(2)(A). Pub. L. 116–283, § 923(e)(20)(B), substituted “Department of the Air Force” for “Air Force” first two places appearing.
+
+Subsec. (a)(2)(C). Pub. L. 116–283, § 923(e)(20)(C), substituted “Department of the Air Force” for “Air Force”.
+
 2011—Subsec. (g). Pub. L. 111–350 substituted “division C (except sections 3302, 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41” for “title III of the Federal Property and Administrative Services Act of 1949 ([41 U.S.C. 251](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section251&num=0&edition=prelim) et seq.)”.
 
 2003—Subsec. (g). Pub. L. 108–178 substituted “title III of the Federal Property and Administrative Services Act of 1949” for “subtitle III of the Federal Property and Administrative Services Act of 1949” and made technical correction to reference to ([41 U.S.C. 251](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section251&num=0&edition=prelim) et seq.).
@@ -319,9 +352,14 @@ Amendment by Pub. L. 108–178 effective Aug. 21, 2002, see section 5 of Pub. L.
 
 **(b) Mixing of Funds Prohibited on Individual Projects.—** The Secretary of the Air Force may not combine funds authorized to be appropriated by a provision described in subsection (c) and funds authorized to be appropriated by a provision described in subsection (d) for an individual project for maintenance and repair of real property at a military installation of the Department of the Air Force.
 
-**(c) Research, Development, Test, and Evaluation Funds.—** The provision described in this subsection is a provision of a national defense authorization Act that authorizes funds to be appropriated for a fiscal year to the Air Force for research, development, test, and evaluation.
+**(c) Research, Development, Test, and Evaluation Funds.—** The provision described in this subsection is a provision of a national defense authorization Act that authorizes funds to be appropriated for a fiscal year to the Air Force or the Space Force for research, development, test, and evaluation.
 
-**(d) Operation and Maintenance Funds.—** The provision described in this subsection is a provision of a national defense authorization Act that authorizes funds to be appropriated for a fiscal year to the Air Force for operation and maintenance.
+**(d) Operation and Maintenance Funds.—** The provision described in this subsection is a provision of a national defense authorization Act that authorizes funds to be appropriated for a fiscal year to the Air Force or the Space Force for operation and maintenance.
+
+### Statutory Notes
+
+#### Amendments
+2021—Subsecs. (c), (d). Pub. L. 116–283 inserted “or the Space Force” after “the Air Force”.
 
 
 <a id="section-9783"></a>

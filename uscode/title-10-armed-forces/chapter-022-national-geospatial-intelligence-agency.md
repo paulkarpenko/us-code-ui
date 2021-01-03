@@ -53,6 +53,9 @@ Pub. L. 104–201, div. A, title XI, § 1101, Sept. 23, 1996, 110 Stat. 2676, pr
 #### Savings Provisions
 Section 1116 of title XI of div. A of Pub. L. 104–201, as amended by Pub. L. 105–85, div. A, title X, § 1073(c)(8), Nov. 18, 1997, 111 Stat. 1904, provided that: “(a) Continuing Effect on Legal Documents.—All orders, determinations, rules, regulations, permits, agreements, international agreements, grants, contracts, leases, certificates, licenses, registrations, privileges, and other administrative actions—“(1) which have been issued, made, granted, or allowed to become effective by the President, any Federal agency or official thereof, or by a court of competent jurisdiction, in connection with any of the functions which are transferred under this title [see Short Title of 1996 Amendment note above] or any function that the National Imagery and Mapping Agency [now National Geospatial-Intelligence Agency] is authorized to perform by law, and “(2) which are in effect at the time this title takes effect, or were final before the effective date of this title [Oct. 1, 1996] and are to become effective on or after the effective date of this title, shall continue in effect according to their terms until modified, terminated, superseded, set aside, or revoked in accordance with law by the President, the Secretary of Defense, the Director of the National Imagery and Mapping Agency [now National Geospatial-Intelligence Agency] or other authorized official, a court of competent jurisdiction, or by operation of law. “(b) Proceedings Not Affected.—This title and the amendments made by this title shall not affect any proceedings, including notices of proposed rulemaking, or any application for any license, permit, certificate, or financial assistance pending before an element of the Department of Defense or Central Intelligence Agency at the time this title takes effect, with respect to function of that element transferred by section 1111 [set out below], but such proceedings and applications shall be continued. Orders shall be issued in such proceedings, appeals shall be taken therefrom, and payments shall be made pursuant to such orders, as if this title had not been enacted, and orders issued in any such proceedings shall continue in effect until modified, terminated, superseded, or revoked by a duly authorized official, by a court of competent jurisdiction, or by operation of law. Nothing in this section shall be deemed to prohibit the discontinuance or modification of any such proceeding under the same terms and conditions and to the same extent that such proceeding could have been discontinued or modified if this title had not been enacted.”
 
+#### Leveraging Commercial Satellite Remote Sensing
+Pub. L. 116–283, div. A, title XVI, § 1612, Jan. 1, 2021, 134 Stat. 4049, provided that: “(a) In General.—In acquiring geospatial intelligence, the Secretary of Defense and the Director of National Intelligence, in coordination with the Director of the National Reconnaissance Office and the Director of the National Geospatial-Intelligence Agency, shall leverage, to the extent practicable, the capabilities of the industry of the United States, including through the use of domestic commercial geospatial-intelligence services and acquisition of domestic commercial satellite imagery. “(b) Obtaining Future Geospatial-intelligence Data.—The Director of the National Reconnaissance Office, as part of an analysis of alternatives for the future acquisition of space systems, and the Director of the National Geospatial-Intelligence Agency, as part of an analysis of alternatives for the future acquisition of analysis tools for geospatial intelligence, shall each—“(1) consider whether there is a cost-effective domestic commercial capability or service available that can meet any or all of the geospatial-intelligence requirements of the Department of Defense, the intelligence community, or both; “(2) if a cost-effective domestic commercial capability or service is available as described in paragraph (1)—“(A) give preference to using such domestic commercial capability or service to meet requirements; and “(B) determine—“(i) whether it is in the national interest to develop a governmental space system or service for geospatial intelligence; “(ii) whether such a governmental space system or service would be duplicative to such a domestic commercial capability or service; and “(iii) the costs for developing such a governmental space system or service; and “(3) include, as part of the established acquisition reporting requirements to the appropriate congressional committees, any determination made under paragraphs (1) and (2). “(c) Definitions.—In this section:“(1) The term ‘acquisition of commercial satellite imagery’ means the acquisition of satellite imagery derived from electro-optical, infrared, synthetic aperture radar, hyperspectral, and radio frequency, data. “(2) The term ‘appropriate congressional committees’ means—“(A) the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives]; “(B) the Select Committee on Intelligence of the Senate; and “(C) the Permanent Select Committee on Intelligence of the House of Representatives. “(3) The term ‘commercial geospatial-intelligence services’ means services including analytic tools, products, or data that can describe, assess, and visually depict natural or manmade features, objects, or activities that can be geographically referenced on the Earth, regardless of collection phenomenology. “(4) The term ‘intelligence community’ has the meaning given such term in section 3 of the National Security Act of 1947 ([50 U.S.C. 3003](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3003&num=0&edition=prelim)).”
+
 #### Redesignation of National Imagery and Mapping Agency as National Geospatial-Intelligence Agency
 Pub. L. 108–136, div. A, title IX, § 921(a), (g), Nov. 24, 2003, 117 Stat. 1568, 1570, provided that: “(a) Redesignation.—The National Imagery and Mapping Agency of the Department of Defense is hereby redesignated as the National Geospatial-Intelligence Agency. “(g) References.—Any reference to the National Imagery and Mapping Agency in any law, regulation, map, document, record, or other paper of the United States shall be considered to be a reference to the National Geospatial-Intelligence Agency.”
 
@@ -92,9 +95,9 @@ Pub. L. 104–201, div. A, title XI, § 1117, Sept. 23, 1996, 110 Stat. 2686, pr
 
 (3) Geospatial intelligence provided in carrying out paragraphs (1) and (2) shall be timely, relevant, and accurate.
 
-**(b) Navigation Information.—** The National Geospatial-Intelligence Agency shall improve means of navigating vessels of the Navy and the merchant marine by providing, under the authority of the Secretary of Defense, accurate and inexpensive nautical charts, sailing directions, books on navigation, and manuals of instructions for the use of all vessels of the United States and of navigators generally.
+**(b) Navigation Information.—** The National Geospatial-Intelligence Agency shall improve the means for safe navigation by providing, under the authority of the Secretary of Defense, accurate geospatial information for use by the departments and agencies of the United States, the merchant marine, and navigators generally.
 
-**(c) Maps, Charts, Etc.—** The National Geospatial-Intelligence Agency shall prepare and distribute maps, charts, books, and geodetic products as authorized under subchapter II of this chapter.
+**(c) Maps, Charts, Etc.—** The National Geospatial-Intelligence Agency shall acquire, prepare, and distribute maps, safe-for-navigation charts and datasets, books, and geomatics products as authorized under subchapter II of this chapter.
 
 **(d) National Missions.—** The National Geospatial-Intelligence Agency also has national missions as specified in section 110(a) of the National Security Act of 1947 ([50 U.S.C. 3045(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3045/a&num=0&edition=prelim)).
 
@@ -104,9 +107,17 @@ Pub. L. 104–201, div. A, title XI, § 1117, Sept. 23, 1996, 110 Stat. 2686, pr
 
 (2) any other department or agency of the United States.
 
+**(f) Validation.—** The National Geospatial-Intelligence Agency shall assist the Joint Chiefs of Staff, combatant commands, and the military departments in establishing, coordinating, consolidating, and validating mapping, charting, geomatics data, and safety of navigation capability requirements through a formal process governed by the Joint Staff. Consistent with validated requirements, the National Geospatial-Intelligence Agency shall provide aeronautical and nautical charts that are safe for navigation, maps, books, datasets, models, and geomatics products.
+
 ### Statutory Notes
 
 #### Amendments
+2021—Subsec. (b). Pub. L. 116–283, § 1621(a)(1), substituted “the means for safe navigation” for “means of navigating vessels of the Navy and the merchant marine” and “geospatial information for use by the departments and agencies of the United States, the merchant marine, and navigators generally.” for “and inexpensive nautical charts, sailing directions, books on navigation, and manuals of instructions for the use of all vessels of the United States and of navigators generally.”
+
+Subsec. (c). Pub. L. 116–283, § 1621(a)(2), substituted “shall acquire, prepare, and” for “shall prepare and”, “safe-for-navigation charts and datasets” for “charts”, and “geomatics” for “geodetic”.
+
+Subsec. (f). Pub. L. 116–283, § 1621(a)(3), added subsec. (f).
+
 2014—Subsec. (d). Pub. L. 113–291 substituted “([50 U.S.C. 3045(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3045/a&num=0&edition=prelim))” for “([50 U.S.C. 404e(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section404e/a&num=0&edition=prelim))”.
 
 2010—Subsec. (a)(2). Pub. L. 111–259, § 432(2), added par. (2). Former par. (2) redesignated (3).
@@ -223,13 +234,13 @@ Section, added Pub. L. 104–201, div. A, title XI, § 1112(a)(2), Sept. 23, 199
 
 
 <a id="section-451"></a>
-## § 451. Maps, charts, and books
+## § 451. Maps, charts, books, and datasets
 
 The Secretary of Defense may—
 
-(1) have the National Geospatial-Intelligence Agency prepare maps, charts, and nautical books required in navigation and have those materials published and furnished to navigators; and
+(1) have the National Geospatial-Intelligence Agency prepare nautical and aeronautical charts, topographic and geomatics maps, books, models, and datasets required in navigation and have those materials published and furnished to navigators; and
 
-(2) buy the plates and copyrights of existing maps, charts, books on navigation, and sailing directions and instructions.
+(2) acquire (by purchase, lease, license, or barter) all necessary rights, including copyrights and other intellectual property rights, required to prepare, publish, and furnish to navigators the products described in paragraph (1).
 
 ### Statutory Notes
 
@@ -244,6 +255,12 @@ In the section, the words “Secretary of Defense” and “Defense Mapping Agen
 A prior section 451 was renumbered [section 481 of this title](./chapter-023-miscellaneous-studies-and-reports.md#section-481).
 
 #### Amendments
+2021—Pub. L. 116–283, § 1621(b)(1)(A), substituted “books, and datasets” for “and books” in section catchline.
+
+Par. (1). Pub. L. 116–283, § 1621(b)(1)(B), substituted “nautical and aeronautical charts, topographic and geomatics maps, books, models, and datasets” for “maps, charts, and nautical books”.
+
+Par. (2). Pub. L. 116–283, § 1621(b)(1)(C), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “buy the plates and copyrights of existing maps, charts, books on navigation, and sailing directions and instructions.”
+
 2003—Par. (1). Pub. L. 108–136 substituted “National Geospatial-Intelligence Agency” for “National Imagery and Mapping Agency”.
 
 1996—Pub. L. 104–201 renumbered [section 2792 of this title](./chapter-chapter-167-chapter-chapter-167.md#section-2792) as this section and substituted “National Imagery and Mapping Agency” for “Defense Mapping Agency” in par. (1).
@@ -314,14 +331,16 @@ Amendment by Pub. L. 104–201 effective Oct. 1, 1996, see section 1124 of Pub. 
 
 
 <a id="section-454"></a>
-## § 454. Exchange of mapping, charting, and geodetic data with foreign countries, international organizations, nongovernmental organizations, and academic institutions
-**(a) Foreign Countries and International Organizations.—** The Secretary of Defense may authorize the National Geospatial-Intelligence Agency to exchange or furnish mapping, charting, and geodetic data, supplies and services to a foreign country or international organization pursuant to an agreement for the production or exchange of such data.
+## § 454. Exchange of mapping, charting, and geomatics data with foreign countries, international organizations, nongovernmental organizations, and academic institutions
+**(a) Foreign Countries and International Organizations.—** The Secretary of Defense may authorize the National Geospatial-Intelligence Agency to exchange or furnish mapping, charting, and geomatics data, supplies and services to a foreign country or international organization pursuant to an agreement for the production or exchange of such data.
 
-**(b) Nongovernmental Organizations and Academic Institutions.—** The Secretary may authorize the National Geospatial-Intelligence Agency to exchange or furnish mapping, charting, and geodetic data, supplies, and services relating to areas outside of the United States to a nongovernmental organization or an academic institution engaged in geospatial information research or production of such areas pursuant to an agreement for the production or exchange of such data.
+**(b) Nongovernmental Organizations and Academic Institutions.—** The Secretary may authorize the National Geospatial-Intelligence Agency to exchange or furnish mapping, charting, and geomatics data, supplies, and services relating to areas outside of the United States to a nongovernmental organization or an academic institution engaged in geospatial information research or production of such areas pursuant to an agreement for the production or exchange of such data.
 
 ### Statutory Notes
 
 #### Amendments
+2021—Pub. L. 116–283 substituted “geomatics” for “geodetic” in section catchline and in two places in text.
+
 2011—Pub. L. 112–81, § 923(b)(1), amended section catchline generally, substituting “Exchange of mapping, charting, and geodetic data with foreign countries, international organizations, nongovernmental organizations, and academic institutions” for “Exchange of mapping, charting, and geodetic data with foreign countries and international organizations”.
 
 Pub. L. 112–81, § 923(a), designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
@@ -335,26 +354,26 @@ Amendment by Pub. L. 104–201 effective Oct. 1, 1996, see section 1124 of Pub. 
 
 
 <a id="section-455"></a>
-## § 455. Maps, charts, and geodetic data: public availability; exceptions
+## § 455. Maps, charts, and geomatics data: public availability; exceptions
 **(a)** The National Geospatial-Intelligence Agency shall offer for sale maps and charts at scales of 1:500,000 and smaller, except those withheld in accordance with subsection (b) or those specifically authorized under criteria established by Executive order to be kept secret in the interest of national defense or foreign policy and in fact properly classified pursuant to such Executive order.
 
 **(b)**
 
-(1) Notwithstanding any other provision of law, the Secretary of Defense may withhold from public disclosure any geodetic product in the possession of, or under the control of, the Department of Defense—
+(1) Notwithstanding any other provision of law, the Secretary of Defense may withhold from public disclosure any geomatics product in the possession of, or under the control of, the Department of Defense—
 
   (A) that was obtained or produced, or that contains information that was provided, pursuant to an international agreement that restricts disclosure of such product or information to government officials of the agreeing parties or that restricts use of such product or information to government purposes only;
 
-  (B) that contains information that the Secretary of Defense has determined in writing would, if disclosed, reveal sources and methods, or capabilities, used to obtain source material for production of the geodetic product; or
+  (B) that contains information that the Secretary of Defense has determined in writing would, if disclosed, reveal sources and methods, or capabilities, used to obtain source material for production of the geomatics product; or
 
   (C) that contains information that the Director of the National Geospatial-Intelligence Agency has determined in writing would, if disclosed, jeopardize or interfere with ongoing military or intelligence operations, reveal military operational or contingency plans, or reveal, jeopardize, or compromise military or intelligence capabilities.
 
-(2) In this subsection, the term “geodetic product” means imagery, imagery intelligence, or geospatial information.
+(2) In this subsection, the term “geomatics product” means imagery, imagery intelligence, or geospatial information.
 
 **(c)**
 
 (1) Regulations to implement this section (including any amendments to such regulations) shall be published in the Federal Register for public comment for a period of not less than 30 days before they take effect.
 
-(2) Regulations under this section shall address the conditions under which release of geodetic products authorized under subsection (b) to be withheld from public disclosure would be appropriate—
+(2) Regulations under this section shall address the conditions under which release of geomatics products authorized under subsection (b) to be withheld from public disclosure would be appropriate—
 
   (A) in the case of allies of the United States; and
 
@@ -363,6 +382,8 @@ Amendment by Pub. L. 104–201 effective Oct. 1, 1996, see section 1124 of Pub. 
 ### Statutory Notes
 
 #### Amendments
+2021—Pub. L. 116–283 substituted “geomatics” for “geodetic” in section catchline and in text wherever appearing.
+
 2003—Subsecs. (a), (b)(1)(C). Pub. L. 108–136 substituted “National Geospatial-Intelligence Agency” for “National Imagery and Mapping Agency”.
 
 2000—Subsec. (b)(1)(C). Pub. L. 106–398 substituted “, reveal military operational or contingency plans, or reveal, jeopardize, or compromise military or intelligence capabilities” for “or reveal military operational or contingency plans”.
@@ -384,13 +405,18 @@ Pub. L. 102–88, title V, § 502(b), Aug. 14, 1991, 105 Stat. 436, directed tha
 
 <a id="section-456"></a>
 ## § 456. Civil actions barred
-**(a) Claims Barred.—** No civil action may be brought against the United States on the basis of the content of a navigational aid prepared or disseminated by the National Geospatial-Intelligence Agency.
 
-**(b) Navigational Aids Covered.—** Subsection (a) applies with respect to a navigational aid in the form of a map, a chart, or a publication and any other form or medium of product or information in which the National Geospatial-Intelligence Agency prepares or disseminates navigational aids.
+No civil action may be brought against the United States on the basis of the content of geospatial information prepared or disseminated by the National Geospatial-Intelligence Agency.
 
 ### Statutory Notes
 
 #### Amendments
+2021—Pub. L. 116–283 added text of section and struck out former text which read as follows:
+
+“(a) Claims Barred.—No civil action may be brought against the United States on the basis of the content of a navigational aid prepared or disseminated by the National Geospatial-Intelligence Agency.
+
+“(b) Navigational Aids Covered.—Subsection (a) applies with respect to a navigational aid in the form of a map, a chart, or a publication and any other form or medium of product or information in which the National Geospatial-Intelligence Agency prepares or disseminates navigational aids.”
+
 2003—Pub. L. 108–136 substituted “National Geospatial-Intelligence Agency” for “National Imagery and Mapping Agency” wherever appearing.
 
 1996—Pub. L. 104–201 renumbered [section 2798 of this title](./chapter-chapter-167-chapter-chapter-167.md#section-2798) as this section and substituted “National Imagery and Mapping Agency” for “Defense Mapping Agency” wherever appearing.
@@ -481,17 +507,25 @@ In this chapter:
 
 (3) The term “imagery intelligence” means the technical, geographic, and intelligence information derived through the interpretation or analysis of imagery and collateral materials.
 
-(4) The term “geospatial information” means information that identifies the geographic location and characteristics of natural or constructed features and boundaries on the earth and includes—
+(4) The term “geospatial information” means information that identifies the geographic location and characteristics of natural or constructed features and boundaries on or about the earth and includes—
 
-  (A) statistical data and information derived from, among other things, remote sensing, mapping, and surveying technologies; and
+  (A) data and information derived from, among other things, remote sensing, mapping, and surveying technologies; and
 
-  (B) mapping, charting, geodetic data, and related products.
+  (B) mapping, charting, geomatics data, and related products and services.
 
-(5) The term “geospatial intelligence” means the exploitation and analysis of imagery and geospatial information to describe, assess, and visually depict physical features and geographically referenced activities on the earth. Geospatial intelligence consists of imagery, imagery intelligence, and geospatial information.
+(5) The term “geospatial intelligence” means the exploitation and analysis of imagery and geospatial information to describe, assess, and visually depict physical features and geographically referenced activities on or about the earth. Geospatial intelligence consists of imagery, imagery intelligence, and geospatial information.
 
 ### Statutory Notes
 
 #### Amendments
+2021—Par. (4). Pub. L. 116–283, § 1621(f)(1)(A), inserted “or about” after “boundaries on” in introductory provisions.
+
+Par. (4)(A). Pub. L. 116–283, § 1621(f)(1)(B), struck out “statistical” before “data”.
+
+Par. (4)(B). Pub. L. 116–283, § 1621(f)(1)(C), substituted “geomatics” for “geodetic” and inserted “and services” after “products”.
+
+Par. (5). Pub. L. 116–283, § 1621(f)(2), inserted “or about” after “activities on”.
+
 2003—Par. (5). Pub. L. 108–136 added par. (5).
 
 1997—Par. (4). Pub. L. 105–85 inserted “and” at end of subpar. (A), substituted “geodetic data, and related products.” for “and geodetic data; and” in subpar. (B), and struck out subpar. (C) which read as follows: “geodetic products, as defined in [section 455(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section455/c&num=0&edition=prelim).”

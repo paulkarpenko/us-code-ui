@@ -122,7 +122,7 @@ The words “including those heretofore or hereafter transferred to the Retired 
 ## § 12203. Commissioned officers: appointment, how made; term
 **(a)** Appointments of reserve officers in commissioned grades of lieutenant colonel and commander or below, except commissioned warrant officer, shall be made by the President alone. Appointments of reserve officers in commissioned grades above lieutenant colonel and commander shall be made by the President, by and with the advice and consent of the Senate, except as provided in section 624, 12213, or 12214 of this title.
 
-**(b)** Subject to the authority, direction, and control of the President, the Secretary concerned may appoint as a reserve commissioned officer any regular officer transferred from the active-duty list of an armed force to the reserve active-status list of a reserve component under [section 647 of this title](./chapter-036-promotion-separation-and-involuntary-retirement-of-officers-on-the-active-duty-list.md#section-647), notwithstanding the requirements of subsection (a).
+**(b)** Subject to the authority, direction, and control of the President, the Secretary of Defense may appoint as a reserve commissioned officer any regular officer transferred from the active-duty list of an armed force to the reserve active-status list of a reserve component under [section 647 of this title](./chapter-036-promotion-separation-and-involuntary-retirement-of-officers-on-the-active-duty-list.md#section-647), notwithstanding the requirements of subsection (a).
 
 **(c)** Appointments of Reserves in commissioned grades are for an indefinite term and are held during the pleasure of the President.
 
@@ -146,6 +146,8 @@ In subsection (b), 50:948 (2d and last sentences) is omitted as executed.
 The exception is inserted to reflect [section 3352(b) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section3352/b&num=0&edition=prelim), United States Code.
 
 #### Amendments
+2019—Subsec. (b). Pub. L. 116–92 substituted “the Secretary of Defense” for “the Secretary concerned”.
+
 2011—Subsec. (a). Pub. L. 111–383 substituted “of” for “above” in first sentence.
 
 2004—Subsecs. (b), (c). Pub. L. 108–375 added subsec. (b) and redesignated former subsec. (b) as (c).
@@ -308,7 +310,7 @@ Section effective Oct. 1, 1996, see section 1691(b)(1) of Pub. L. 103–337, set
 
 **(b)**
 
-(1) Under regulations prescribed by the Secretary of Defense, a person who is receiving an original appointment as a reserve commissioned officer (other than a commissioned warrant officer) of the Army, Navy, Air Force, or Marine Corps, or a designation in, or an assignment to, an officer category in which advanced education or training is required and who has advanced education or training, shall be credited with constructive service for such education, training, or experience, as follows:
+(1) Under regulations prescribed by the Secretary of Defense, a person who is receiving an original appointment as a reserve commissioned officer (other than a commissioned warrant officer) of the Army, Navy, Air Force, or Marine Corps, and who has special training or experience, or advanced education (if applicable), shall be credited with constructive service for such education, training, or experience, as follows:
 
   (A) One year for each year of advanced education beyond the baccalaureate degree level, for persons appointed or designated in, or assigned to, officer categories requiring such advanced education or an advanced degree as a prerequisite for such appointment, designation, or assignment. In determining the number of years of constructive service to be credited under this subparagraph to officers in any professional field, the Secretary concerned shall credit an officer with, but with not more than, the number of years of advanced education required by a majority of institutions that award degrees in that professional field for completion of the advanced education or award of the advanced degree.
 
@@ -320,7 +322,11 @@ Section effective Oct. 1, 1996, see section 1691(b)(1) of Pub. L. 103–337, set
 
   (C) Additional credit of (i) not more than one year for internship or equivalent graduate medical, dental, or other formal health professional training required by the armed forces, and (ii) not more than one year for each additional year of such graduate-level training or experience creditable toward certification in a speciality required by the armed force concerned.
 
-  (D) Additional credit for special training or experience in a particular officer career field as designated by the Secretary concerned, if such training or experience is directly related to the operational needs of the armed force concerned.
+  (D) Additional credit as follows:
+
+    (i) For special training or experience in a particular officer field as designated by the Secretary concerned, if such training or experience is directly related to the operational needs of the armed force concerned.
+
+    (ii) During fiscal years 2021 through 2025, for advanced education in an officer field so designated, if such education is directly related to the operational needs of the armed force concerned.
 
   (E) Additional credit for experience as a physician or dentist, if appointed, assigned, or designated as a medical or dental officer.
 
@@ -366,6 +372,10 @@ Section effective Oct. 1, 1996, see section 1691(b)(1) of Pub. L. 103–337, set
 Provisions similar to those in this section were contained in sections 3353, 5600, and 8353 of this title, prior to repeal by Pub. L. 103–337, § 1629(a)(1), (c)(1) and Pub. L. 104–106, § 1501(c)(26).
 
 #### Amendments
+2021—Subsec. (b)(1). Pub. L. 116–283, § 502(b)(1), which directed “in the matter preceding subparagraph (A), ‘or a designation in’ and all that follows through ‘education or training,’ and inserting ‘and who has special training or experience, or advanced education (if applicable),’ ”, was executed by substituting “and who has special training or experience, or advanced education (if applicable),” for “or a designation in, or an assignment to, an officer category in which advanced education or training is required and who has advanced education or training,” in introductory provisions to reflect the probable intent of Congress.
+
+Subsec. (b)(1)(D). Pub. L. 116–283, § 502(b)(2), added subpar. (D) and struck out former subpar. (D) which read as follows: “Additional credit for special training or experience in a particular officer career field as designated by the Secretary concerned, if such training or experience is directly related to the operational needs of the armed force concerned.”
+
 2018—Subsec. (b)(1)(D). Pub. L. 115–232, § 502(b)(1)(A), added subpar. (D) and struck out former subpar. (D) which read as follows: “Additional credit, in unusual cases, based on special experience in a particular field.”
 
 Subsec. (b)(3). Pub. L. 115–232, § 502(b)(1)(B), added par. (3) and struck out former par. (3) which read as follows: “Except as authorized by the Secretary concerned in individual cases and under regulations prescribed by the Secretary of Defense in the case of officers covered by paragraph (2), the amount of constructive service credited an officer under this subsection may not exceed the amount required in order for the officer to be eligible for an original appointment as a reserve officer of the Army, Air Force, or Marine Corps in the grade of major or as a reserve officer of the Navy in the grade of lieutenant commander.”
@@ -505,7 +515,7 @@ In subsection (c), the words “active duty” are substituted for the words “
 #### Amendments
 1996—Pub. L. 104–106 inserted “the” after “National Guard of” in section catchline.
 
-1994—Pub. L. 103–337 renumbered [section 3351 of this title](./chapter-243-specific-types-of-contracts.md#section-3351) as this section.
+1994—Pub. L. 103–337 renumbered [section 3351 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section3351&num=0&edition=prelim) as this section.
 
 #### Effective Date of 1996 Amendment
 Amendment by Pub. L. 104–106 effective as if included in the Reserve Officer Personnel Management Act, title XVI of Pub. L. 103–337, as enacted on Oct. 5, 1994, see section 1501(f)(3) of Pub. L. 104–106, set out as a note under [section 113 of this title](./chapter-002-department-of-defense.md#section-113).

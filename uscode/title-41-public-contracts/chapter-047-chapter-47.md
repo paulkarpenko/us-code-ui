@@ -2,7 +2,7 @@
 title: 41
 chapter: '47'
 heading: Chapter 47
-section_count: 13
+section_count: 14
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41&num=0&edition=prelim
 ---
@@ -119,12 +119,9 @@ In subsection (b), the words “Except as provided in paragraph (2)” are omitt
 
 **(c) Inapplicability to Certain Contracts.—** This section does not apply to a contract for an amount that is not greater than the simplified acquisition threshold.
 
-**(d) Inapplicability When Government Treated Similarly to Other Purchasers.—** An agreement between the contractor in a contract for the acquisition of commercial items and a subcontractor under the contract that restricts sales by the subcontractor directly to persons other than the contractor may not be considered to unreasonably restrict sales by that subcontractor to the Federal Government in violation of the provision included in the contract pursuant to subsection (a) if the agreement does not result in the Federal Government being treated differently with regard to the restriction than any other prospective purchaser of the commercial items from that subcontractor.
+**(d) Inapplicability When Government Treated Similarly to Other Purchasers.—** An agreement between the contractor in a contract for the acquisition of commercial products or commercial services and a subcontractor under the contract that restricts sales by the subcontractor directly to persons other than the contractor may not be considered to unreasonably restrict sales by that subcontractor to the Federal Government in violation of the provision included in the contract pursuant to subsection (a) if the agreement does not result in the Federal Government being treated differently with regard to the restriction than any other prospective purchaser of the commercial products or commercial services from that subcontractor.
 
 ### Statutory Notes
-
-#### Amendment of Subsection (d)
-Pub. L. 115–232, div. A, title VIII, § 836(b)(19), (h), Aug. 13, 2018, 132 Stat. 1864, 1874, provided that, effective Jan. 1, 2020, subject to a savings provision, subsection (d) of this section is amended by striking “commercial items” both places it appears and inserting “commercial products or commercial services”. See 2018 Amendment note below.
 
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
@@ -424,17 +421,17 @@ In subsection (b), the words “Not later than 1 year after the date of the enac
 
   (F) A court or grand jury.
 
-  (G) A management official or other employee of the contractor, subcontractor, or grantee who has the responsibility to investigate, discover, or address misconduct.
+  (G) A management official or other employee of the contractor, subcontractor, grantee, or subgrantee who has the responsibility to investigate, discover, or address misconduct.
 
 (3) **Rules of construction.—** — For the purposes of paragraph (1)—
 
-  (A) an employee who initiates or provides evidence of contractor, subcontractor, or grantee misconduct in any judicial or administrative proceeding relating to waste, fraud, or abuse on a Federal contract or grant shall be deemed to have made a disclosure covered by such paragraph; and
+  (A) an employee who initiates or provides evidence of contractor, subcontractor, grantee, or subgrantee misconduct in any judicial or administrative proceeding relating to waste, fraud, or abuse on a Federal contract or grant shall be deemed to have made a disclosure covered by such paragraph; and
 
   (B) a reprisal described in paragraph (1) is prohibited even if it is undertaken at the request of an executive branch official, unless the request takes the form of a non-discretionary directive and is within the authority of the executive branch official making the request.
 
 **(b) Investigation of Complaints.—**
 
-(1) **Submission of complaint.—** — A person who believes that the person has been subjected to a reprisal prohibited by subsection (a) may submit a complaint to the Inspector General of the executive agency involved. Unless the Inspector General determines that the complaint is frivolous, fails to allege a violation of the prohibition in subsection (a), or has previously been addressed in another Federal or State judicial or administrative proceeding initiated by the complainant, the Inspector General shall investigate the complaint and, upon completion of such investigation, submit a report of the findings of the investigation to the person, the contractor or grantee concerned, and the head of the agency.
+(1) **Submission of complaint.—** — A person who believes that the person has been subjected to a reprisal prohibited by subsection (a) may submit a complaint to the Inspector General of the executive agency involved. Unless the Inspector General determines that the complaint is frivolous, fails to allege a violation of the prohibition in subsection (a), or has previously been addressed in another Federal or State judicial or administrative proceeding initiated by the complainant, the Inspector General shall investigate the complaint and, upon completion of such investigation, submit a report of the findings of the investigation to the person, the contractor, subcontractor, grantee, or subgrantee concerned, and the head of the agency.
 
 (2) **Inspector general action.—**
 
@@ -454,15 +451,15 @@ In subsection (b), the words “Not later than 1 year after the date of the enac
 
 **(c) Remedy and Enforcement Authority.—**
 
-(1) **In general.—** — Not later than 30 days after receiving an Inspector General report pursuant to subsection (b), the head of the executive agency concerned shall determine whether there is sufficient basis to conclude that the contractor or grantee concerned has subjected the complainant to a reprisal prohibited by subsection (a) and shall either issue an order denying relief or shall take one or more of the following actions:
+(1) **In general.—** — Not later than 30 days after receiving an Inspector General report pursuant to subsection (b), the head of the executive agency concerned shall determine whether there is sufficient basis to conclude that the contractor, subcontractor, grantee, or subgrantee concerned has subjected the complainant to a reprisal prohibited by subsection (a) and shall either issue an order denying relief or shall take one or more of the following actions:
 
-  (A) Order the contractor or grantee to take affirmative action to abate the reprisal.
+  (A) Order the contractor, subcontractor, grantee, or subgrantee to take affirmative action to abate the reprisal.
 
-  (B) Order the contractor or grantee to reinstate the person to the position that the person held before the reprisal, together with compensatory damages (including back pay), employment benefits, and other terms and conditions of employment that would apply to the person in that position if the reprisal had not been taken.
+  (B) Order the contractor, subcontractor, grantee, or subgrantee to reinstate the person to the position that the person held before the reprisal, together with compensatory damages (including back pay), employment benefits, and other terms and conditions of employment that would apply to the person in that position if the reprisal had not been taken.
 
-  (C) Order the contractor or grantee to pay the complainant an amount equal to the aggregate amount of all costs and expenses (including attorneys’ fees and expert witnesses’ fees) that were reasonably incurred by the complainant for, or in connection with, bringing the complaint regarding the reprisal, as determined by the head of the executive agency.
+  (C) Order the contractor, subcontractor, grantee, or subgrantee to pay the complainant an amount equal to the aggregate amount of all costs and expenses (including attorneys’ fees and expert witnesses’ fees) that were reasonably incurred by the complainant for, or in connection with, bringing the complaint regarding the reprisal, as determined by the head of the executive agency.
 
-(2) **Exhaustion of remedies.—** — If the head of an executive agency issues an order denying relief under paragraph (1) or has not issued an order within 210 days after the submission of a complaint under subsection (b), or in the case of an extension of time under paragraph (b)(2)(B), not later than 30 days after the expiration of the extension of time, and there is no showing that such delay is due to the bad faith of the complainant, the complainant shall be deemed to have exhausted all administrative remedies with respect to the complaint, and the complainant may bring a de novo action at law or equity against the contractor or grantee to seek compensatory damages and other relief available under this section in the appropriate district court of the United States, which shall have jurisdiction over such an action without regard to the amount in controversy. Such an action shall, at the request of either party to the action, be tried by the court with a jury. An action under this paragraph may not be brought more than two years after the date on which remedies are deemed to have been exhausted.
+(2) **Exhaustion of remedies.—** — If the head of an executive agency issues an order denying relief under paragraph (1) or has not issued an order within 210 days after the submission of a complaint under subsection (b), or in the case of an extension of time under paragraph (b)(2)(B), not later than 30 days after the expiration of the extension of time, and there is no showing that such delay is due to the bad faith of the complainant, the complainant shall be deemed to have exhausted all administrative remedies with respect to the complaint, and the complainant may bring a de novo action at law or equity against the contractor, subcontractor, grantee, or subgrantee to seek compensatory damages and other relief available under this section in the appropriate district court of the United States, which shall have jurisdiction over such an action without regard to the amount in controversy. Such an action shall, at the request of either party to the action, be tried by the court with a jury. An action under this paragraph may not be brought more than two years after the date on which remedies are deemed to have been exhausted.
 
 (3) **Admissibility of evidence.—** — An Inspector General determination and an agency head order denying relief under paragraph (2) shall be admissible in evidence in any de novo action at law or equity brought pursuant to this subsection.
 
@@ -474,7 +471,7 @@ In subsection (b), the words “Not later than 1 year after the date of the enac
 
 (7) **Rights and remedies not waivable.—** — The rights and remedies provided for in this section may not be waived by any agreement, policy, form, or condition of employment.
 
-**(d) Notification of Employees.—** The head of each executive agency shall ensure that contractors, subcontractors, and grantees of the agency inform their employees in writing of the rights and remedies provided under this section, in the predominant native language of the workforce.
+**(d) Notification of Employees.—** The head of each executive agency shall ensure that contractors, subcontractors, grantees, and subgrantees of the agency inform their employees in writing of the rights and remedies provided under this section, in the predominant native language of the workforce.
 
 **(e) Construction.—** Nothing in this section may be construed to authorize the discharge of, demotion of, or discrimination against an employee for a disclosure other than a disclosure protected by subsection (a) or to modify or derogate from a right or remedy otherwise available to the employee.
 
@@ -482,11 +479,11 @@ In subsection (b), the words “Not later than 1 year after the date of the enac
 
 (1) This section shall not apply to any element of the intelligence community, as defined in section 3(4) of the National Security Act of 1947 ([50 U.S.C. 401a(4)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section401a/4&num=0&edition=prelim)).
 
-(2) This section shall not apply to any disclosure made by an employee of a contractor, subcontractor, or grantee of an element of the intelligence community if such disclosure—
+(2) This section shall not apply to any disclosure made by an employee of a contractor, subcontractor, grantee, or subgrantee of an element of the intelligence community if such disclosure—
 
   (A) relates to an activity of an element of the intelligence community; or
 
-  (B) was discovered during contract, subcontract, or grantee services provided to an element of the intelligence community.
+  (B) was discovered during contract, subcontract, grantee, or subgrantee services provided to an element of the intelligence community.
 
 **(g) Definitions.—** In this section:
 
@@ -502,6 +499,18 @@ In subsection (b), the words “Not later than 1 year after the date of the enac
 The Inspector General Act of 1978, referred to in subsec. (g)(2), is Pub. L. 95–452, Oct. 12, 1978, 92 Stat. 1101, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Amendments
+2020—Subsec. (a)(2)(G). Pub. L. 116–260, § 801(1), substituted “grantee, or subgrantee” for “or grantee”.
+
+Subsec. (a)(3)(A). Pub. L. 116–260, § 801(2), substituted “contractor, subcontractor, grantee, or subgrantee” for “contractor, subcontractor, or grantee”.
+
+Subsec. (b)(1). Pub. L. 116–260, § 801(3), substituted “contractor, subcontractor, grantee, or subgrantee” for “contractor or grantee”.
+
+Subsec. (c). Pub. L. 116–260, § 801(4), substituted “contractor, subcontractor, grantee, or subgrantee” for “contractor or grantee” wherever appearing.
+
+Subsec. (d). Pub. L. 116–260, § 801(5), substituted “grantees, and subgrantees” for “and grantees”.
+
+Subsec. (f). Pub. L. 116–260, § 801(6), substituted “grantee, or subgrantee” for “or grantee” in two places.
+
 2016—Pub. L. 114–261, § 1(a)(3)(A)(i), substituted “Enhancement” for “Pilot program for enhancement” in section catchline.
 
 Subsec. (a)(1). Pub. L. 114–261, § 1(a)(2), substituted “grantee, or subgrantee or personal services contractor” for “or grantee”.
@@ -648,3 +657,70 @@ Committee on Oversight and Government Reform of House of Representatives changed
 Pub. L. 115–390, title II, § 203(c), Dec. 21, 2018, 132 Stat. 5192, provided that: “The amendments made by this section [enacting this section] shall take effect on the date that is 90 days after the date of the enactment of this Act [Dec. 21, 2018] and shall apply to contracts that are awarded before, on, or after that date.”
 
 Title II of Pub. L. 115–390 effective 90 days after Dec. 21, 2018, see section 205 of Pub. L. 115–390, set out as a note under [section 1321 of this title](./chapter-013-chapter-13.md#section-1321).
+
+
+<a id="section-4714"></a>
+## § 4714. Prohibition on criminal history inquiries by contractors prior to conditional offer
+**(a) Limitation on Criminal History Inquiries.—**
+
+(1) **In general.—** — Except as provided in paragraphs (2) and (3), an executive agency—
+
+  (A) may not require that an individual or sole proprietor who submits a bid for a contract to disclose criminal history record information regarding that individual or sole proprietor before determining the apparent awardee; and
+
+  (B) shall require, as a condition of receiving a Federal contract and receiving payments under such contract that the contractor may not verbally, or through written form, request the disclosure of criminal history record information regarding an applicant for a position related to work under such contract before the contractor extends a conditional offer to the applicant.
+
+(2) **Otherwise required by law.—** — The prohibition under paragraph (1) does not apply with respect to a contract if consideration of criminal history record information prior to a conditional offer with respect to the position is otherwise required by law.
+
+(3) **Exception for certain positions.—**
+
+  (A) *In general.—* — The prohibition under paragraph (1) does not apply with respect to—
+
+    (i) a contract that requires an individual hired under the contract to access classified information or to have sensitive law enforcement or national security duties; or
+
+    (ii) a position that the Administrator of General Services identifies under the regulations issued under subparagraph (B).
+
+  (B) *Regulations.—*
+
+    (i) *Issuance.—* — Not later than 16 months after the date of enactment of the Fair Chance to Compete for Jobs Act of 2019, the Administrator of General Services, in consultation with the Secretary of Defense, shall issue regulations identifying additional positions with respect to which the prohibition under paragraph (1) shall not apply, giving due consideration to positions that involve interaction with minors, access to sensitive information, or managing financial transactions.
+
+    (ii) *Compliance with civil rights laws.—* — The regulations issued under clause (i) shall—
+
+      (I) be consistent with, and in no way supersede, restrict, or limit the application of title VII of the Civil Rights Act of 1964 ([42 U.S.C. 2000e](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2000e&num=0&edition=prelim) et seq.) or other relevant Federal civil rights laws; and
+
+      (II) ensure that all hiring activities conducted pursuant to the regulations are conducted in a manner consistent with relevant Federal civil rights laws.
+
+**(b) Complaint Procedures.—** The Administrator of General Services shall establish and publish procedures under which an applicant for a position with a Federal contractor may submit to the Administrator a complaint, or any other information, relating to compliance by the contractor with subsection (a)(1)(B).
+
+**(c) Action for Violations of Prohibition on Criminal History Inquiries.—**
+
+(1) **First violation.—** — If the head of an executive agency determines that a contractor has violated subsection (a)(1)(B), such head shall—
+
+  (A) notify the contractor;
+
+  (B) provide 30 days after such notification for the contractor to appeal the determination; and
+
+  (C) issue a written warning to the contractor that includes a description of the violation and the additional remedies that may apply for subsequent violations.
+
+(2) **Subsequent violation.—** — If the head of an executive agency determines that a contractor that was subject to paragraph (1) has committed a subsequent violation of subsection (a)(1)(B), such head shall notify the contractor, shall provide 30 days after such notification for the contractor to appeal the determination, and, in consultation with the relevant Federal agencies, may take actions, depending on the severity of the infraction and the contractor’s history of violations, including—
+
+  (A) providing written guidance to the contractor that the contractor’s eligibility for contracts requires compliance with this section;
+
+  (B) requiring that the contractor respond within 30 days affirming that the contractor is taking steps to comply with this section; and
+
+  (C) suspending payment under the contract for which the applicant was being considered until the contractor demonstrates compliance with this section.
+
+**(d) Definitions.—** In this section:
+
+(1) **Conditional offer.—** — The term “conditional offer” means an offer of employment for a position related to work under a contract that is conditioned upon the results of a criminal history inquiry.
+
+(2) **Criminal history record information.—** — The term “criminal history record information” has the meaning given that term in [section 9201 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section9201&num=0&edition=prelim).
+
+### Statutory Notes
+
+#### References in Text
+The date of enactment of the Fair Chance to Compete for Jobs Act of 2019, referred to in subsec. (a)(3)(B)(i), is the date of enactment of subtitle B (§§ 1121–1124) of title XI of div. A of Pub. L. 116–92, which was approved Dec. 20, 2019.
+
+The Civil Rights Act of 1964, referred to in subsec. (a)(3)(B)(ii)(I), is Pub. L. 88–352, July 2, 1964, 78 Stat. 241. Title VII of the Act is classified generally to subchapter VI (§ 2000e et seq.) of chapter 21 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 2000a of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2000a&num=0&edition=prelim) and Tables.
+
+#### Effective Date
+Pub. L. 116–92, div. A, title XI, § 1123(a)(3), Dec. 20, 2019, 133 Stat. 1612, provided that: “[Section 4714 of title 41](./chapter-047-chapter-47.md#section-4714), United States Code, as added by paragraph (1), shall apply with respect to contracts awarded pursuant to solicitations issued after the effective date described in section 1122(b)(2) of this subtitle [effective 2 years after Dec. 20, 2019, see section 1122(b)(2) of Pub. L. 116–92, div. A, title XI, subtitle B, set out as a note under [section 9202 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section9202&num=0&edition=prelim), Government Organization and Employees].”

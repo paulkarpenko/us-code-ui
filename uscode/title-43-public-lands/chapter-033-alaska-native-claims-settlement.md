@@ -668,7 +668,7 @@ Section 407 of the Trans-Alaska Pipeline Authorization Act, referred to in subse
 1973—Subsec. (g). Pub. L. 93–153 inserted provisions covering advance payments into the Alaska Native Fund pursuant to section 407 of the Trans-Alaska Pipeline Authorization Act and the reimbursement of the United States Treasury for payments made.
 
 #### Advance Payments to Alaska Natives Until Commencement of Deliveries of North Slope Crude Oil to Pipeline
-Section 407(a) of Pub. L. 93–153 authorized $5,000,000 to be paid from the United States Treasury to the Alaska Native Fund every six months of each fiscal year beginning with the fiscal year ending June 30, 1976, as advance payments chargeable against revenues paid under this section until delivery of North Slope crude oil to a pipeline commenced.
+Pub. L. 93–153, title IV, § 407(a), Nov. 16, 1973, 87 Stat. 591, authorized $5,000,000 to be paid from the United States Treasury to the Alaska Native Fund every six months of each fiscal year beginning with the fiscal year ending June 30, 1976, as advance payments chargeable against revenues paid under this section until delivery of North Slope crude oil to a pipeline commenced.
 
 
 <a id="section-1609"></a>
@@ -2733,13 +2733,13 @@ Committee on Resources of House of Representatives changed to Committee on Natur
 
       (I) the Act of May 17, 1906 (34 Stat. 197, chapter 2469) (as in effect on December 17, 1971);
 
-      (II) [section 1613(h)(5) of title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1613/h/5&num=0&edition=prelim); or
+      (II) [section 1613(h)(5) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1613/h/5&num=0&edition=prelim); or
 
-      (III) [section 1629g of title 43](./chapter-033-alaska-native-claims-settlement.md#section-1629g); or
+      (III) [section 1629g of this title](./chapter-033-alaska-native-claims-settlement.md#section-1629g); or
 
-  (B) is the personal representative of the estate of a deceased eligible individual described in subparagraph (A), who has been duly appointed in the appropriate Alaska State court or a registrar has qualified, acting for the benefit of the heirs of the estate of a deceased eligible individual described in subparagraph (A).
+  (B) is 11 So in original. The word “is” probably should not appear. the personal representative of the estate of a deceased eligible individual described in subparagraph (A), who has been duly appointed in the appropriate Alaska State court or a registrar has qualified, acting for the benefit of the heirs of the estate of a deceased eligible individual described in subparagraph (A).
 
-(3) **Native; Regional Corporation; Village Corporation** — The terms “Native”, “Regional Corporation”, and “Village Corporation” have the meanings given those terms in [section 1602 of title 43](./chapter-033-alaska-native-claims-settlement.md#section-1602).
+(3) **Native; Regional Corporation; Village Corporation** — The terms “Native”, “Regional Corporation”, and “Village Corporation” have the meanings given those terms in [section 1602 of this title](./chapter-033-alaska-native-claims-settlement.md#section-1602).
 
 (4) **State** — The term “State” means the State of Alaska.
 
@@ -2842,13 +2842,13 @@ Committee on Resources of House of Representatives changed to Committee on Natur
 ### Statutory Notes
 
 #### References in Text
-Act of May 17, 1906, as in effect on December 17, 1971, referred to in subsec. (a)(2)(A)(ii)(I), means act May 17, 1906, ch. 2469, 34 Stat. 197, which was classified to sections 270–1 to 270–3 of Title 43, Public Lands, prior to its repeal by Pub. L. 92–203, § 18(a), Dec. 18, 1971, 85 Stat. 710.
+Act of May 17, 1906, as in effect on December 17, 1971, referred to in subsec. (a)(2)(A)(ii)(I), means act May 17, 1906, ch. 2469, 34 Stat. 197, which was classified to sections 270–1 to 270–3 of this title prior to its repeal by Pub. L. 92–203, § 18(a), Dec. 18, 1971, 85 Stat. 710.
 
 #### Codification
 Section was enacted as part of the John D. Dingell, Jr. Conservation, Management, and Recreation Act, and not as part of the Alaska Native Claims Settlement Act which comprises this chapter.
 
 #### Definition of “Secretary”
-“Secretary” as meaning the Secretary of the Interior, see section 2 of Pub. L. 116–9, set out as a note under [section 1 of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1&num=0&edition=prelim), Conservation.
+“Secretary” means the Secretary of the Interior, see section 2 of Pub. L. 116–9, set out as a note under [section 1 of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1&num=0&edition=prelim), Conservation.
 
 
 <a id="section-1629h"></a>

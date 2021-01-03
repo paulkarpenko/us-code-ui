@@ -4,7 +4,7 @@ chapter: '81'
 heading: >-
   ACQUISITION AND OPERATION OF HOSPITAL AND DOMICILIARY FACILITIES; PROCUREMENT
   AND SUPPLY; ENHANCED-USE LEASES OF REAL PROPERTY
-section_count: 55
+section_count: 56
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38&num=0&edition=prelim
 ---
@@ -833,6 +833,18 @@ Pub. L. 96–151, title III, § 301(b), Dec. 20, 1979, 93 Stat. 1096, provided t
 #### Effective Date
 Section effective Oct. 1, 1979, but not applicable with respect to the acquisition, construction, or alteration of any medical facilities if the acquisition, construction, or alteration (not including exchange) was approved by the President before Oct. 1, 1979, see section 302 of Pub. L. 96–22, set out as a note under [section 8101 of this title](./chapter-081-acquisition-and-operation-of-hospital-and-domiciliary-facilities-procurement-and-supply-enhanced-use-leases-of-real-property.md#section-8101).
 
+#### Requirement for Certain Department of Veterans Affairs Medical Facilities to Have Physical Location for the Disposal of Controlled Substances Medications
+Pub. L. 116–315, title III, § 3009, Jan. 5, 2021, 134 Stat. 4997, provided that: “(a) In General.—The Secretary of Veterans Affairs shall ensure that each covered Department medical facility has a physical location where patients may dispose of controlled substances medications. “(b) Covered Department Medical Facility.—In this section, the term ‘covered Department medical facility’ means a medical facility of the Department of Veterans Affairs with an onsite pharmacy or a physical location dedicated for law enforcement purposes. “(c) Effective Date.—This section shall take effect on January 1, 2022.”
+
+#### Women Veterans Retrofit Initiative
+Pub. L. 116–315, title V, § 5102, Jan. 5, 2021, 134 Stat. 5026, provided that: “(a) In General.—The Secretary of Veterans Affairs shall prioritize the retrofitting of existing medical facilities of the Department of Veterans Affairs with fixtures, materials, and other outfitting measures to support the provision of care to women veterans at such facilities. “(b) Plan.—“(1) In general.—Not later than one year after the date of the enactment of this Act [Jan. 5, 2021], the Secretary shall submit to Congress, the Committee on Veterans’ Affairs of the Senate, and the Committee on Veterans’ Affairs of the House of Representatives a plan to address deficiencies in environment of care for women veterans at medical facilities of the Department. “(2) Elements.—The plan required by paragraph (1) shall include the following:“(A) An explanation of the specific environment of care deficiencies that need correcting. “(B) An assessment of how the Secretary prioritizes retrofitting existing medical facilities to support provision of care to women veterans in comparison to other requirements. “(C) A five-year strategic plan and cost projection for retrofitting medical facilities of the Department to support the provision of care to women veterans as required under subsection (a). “(c) Authorization of Appropriations.—Subject to appropriations and the plan under (b), there is authorized to be appropriated to the Secretary $20,000,000 to carry out subsection (a) in addition to amounts otherwise made available to the Secretary for the purposes set forth in such subsection.”
+
+#### Staffing of Women’s Health Primary Care Providers at Medical Facilities of Department of Veterans Affairs
+Pub. L. 116–315, title V, § 5201, Jan. 5, 2021, 134 Stat. 5034, provided that: “The Secretary of Veterans Affairs shall ensure that each medical facility of the Department of Veterans Affairs has not fewer than one full-time or part-time women’s health primary care provider whose duties include, to the extent possible, providing training to other health care providers of the Department on the needs of women veterans.”
+
+#### Planning and Activating Community Based Outpatient Clinics Handbook Update
+Pub. L. 116–94, div. F, title II, § 252, Dec. 20, 2019, 133 Stat. 2808, provided that: “(a) Not later than 180 days after the date of the enactment of this Act [Dec. 20, 2019], and not less frequently than once every five-year period thereafter, the Secretary of Veterans Affairs shall update the handbook of the Department of Veterans Affairs titled ‘Planning and Activating Community Based Outpatient Clinics’, or a successor handbook, to reflect current policies, best practices, and clarify the roles and responsibilities of the personnel of the Department involved in the leasing projects of the Department. “(b) The Secretary shall ensure that the handbook specified in subsection (a) defines ‘community based outpatient clinic’ in the same manner as such term is defined in the Veterans Health Administration Site Tracking database (commonly known as ‘VAST’) as of the date of the enactment of this Act. “(c) The Secretary shall ensure that the Veterans Health Administration incorporates the best practices contained in the handbook specified in subsection (a) in conducting oversight of the medical centers of the Department of Veterans Affairs and the Veterans Integrated Service Network. “(d) Not later than 180 days after the date of the enactment of this Act, the Secretary shall provide guidance and training to employees of the Veterans Health Administration for the use of the handbook specified in subsection (a). The Secretary shall update such guidance and training together with each update of such handbook.”
+
 #### Health Care in Underserved Areas
 Pub. L. 115–182, title IV, §§ 401, 402, June 6, 2018, 132 Stat. 1470, 1471, as amended by Pub. L. 115–251, title II, § 211(b)(8), Sept. 29, 2018, 132 Stat. 3177, provided that: “SEC. 401. DEVELOPMENT OF CRITERIA FOR DESIGNATION OF CERTAIN MEDICAL FACILITIES OF THE DEPARTMENT OF VETERANS AFFAIRS AS UNDERSERVED FACILITIES AND PLAN TO ADDRESS PROBLEM OF UNDERSERVED FACILITIES.“(a) In General.—Not later than 180 days after the date of the enactment of this Act [June 6, 2018], the Secretary of Veterans Affairs shall develop criteria to designate medical centers, ambulatory care facilities, and community based outpatient clinics of the Department of Veterans Affairs as underserved facilities. “(b) Consideration.—Criteria developed under subsection (a) shall include consideration of the following with respect to a facility:“(1) The ratio of veterans to health care providers of the Department of Veterans Affairs for a standardized geographic area surrounding the facility, including a separate ratio for general practitioners and specialists. “(2) The range of clinical specialties covered by such providers in such area. “(3) Whether the local community is medically underserved. “(4) The type, number, and age of open consults. “(5) Whether the facility is meeting the wait-time goals of the Department or the applicable access standards developed under [section 1703B of title 38](./chapter-017-hospital-nursing-home-domiciliary-and-medical-care.md#section-1703b), United States Code. “(6) Such other criteria as the Secretary considers important in determining which facilities are not adequately serving area veterans. “(c) Analysis of Facilities.—Not less frequently than annually, directors of Veterans Integrated Service Networks of the Department shall perform an analysis to determine which facilities within that Veterans Integrated Service Network qualify as underserved facilities pursuant to criteria developed under subsection (a). “(d) Annual Plan To Address Underserved Facilities.—“(1) Plan required.—Not later than 1 year after the date of the enactment of this Act [June 6, 2018] and not less frequently than once each year, the Secretary shall submit to Congress a plan to address the problem of underserved facilities of the Department, as designated pursuant to criteria developed under subsection (a). “(2) Contents.—Each plan submitted under paragraph (1) shall address the following:“(A) Increasing personnel or temporary personnel assistance, including mobile deployment teams furnished under section 402 of this Act. “(B) Providing special hiring incentives, including under the Education Debt Reduction Program under subchapter VII of chapter 76 of title 38, United States Code, and recruitment, relocation, and retention incentives. “(C) Using direct hiring authority. “(D) Improving training opportunities for staff. “(E) Such other actions as the Secretary considers appropriate. “SEC. 402. PILOT PROGRAM TO FURNISH MOBILE DEPLOYMENT TEAMS TO UNDERSERVED FACILITIES.“(a) In General.—The Secretary of Veterans Affairs shall carry out a pilot program to furnish mobile deployment teams of medical personnel to underserved facilities. “(b) Elements.—In furnishing mobile deployment teams under subsection (a), the Secretary shall consider the following elements:“(1) The medical positions of greatest need at underserved facilities. “(2) The size and composition of teams to be deployed. “(3) Such other elements as the Secretary considers necessary for effective oversight of the program established under subsection (a). “(c) Use of Annual Analysis.—The Secretary shall use the results of the annual analysis conducted under section 401(c) of this Act to form mobile deployment teams under subsection (a) that are composed of the most needed medical personnel for underserved facilities. “(d) Reporting.—“(1) Progress report.—Not later than 1 year after the date of the enactment of this Act [June 6, 2018], the Secretary shall submit a report to Congress on the implementation of the pilot program under this section. “(2) Final report.—Not later than the termination of the pilot program under this section, the Secretary shall submit a final report to Congress that contains the recommendations of the Secretary regarding the feasibility and advisability of—“(A) extending or expanding the pilot program; and “(B) making the pilot program (or any aspect thereof) permanent. “(e) Duration.—The pilot program under this section shall terminate 3 years after the date of the enactment of this Act [June 6, 2018]. “(f) Underserved Facility Defined.—In this section, the term ‘underserved facility’ means a medical center, ambulatory care facility, or community based outpatient clinic of the Department of Veterans Affairs designated by the Secretary of Veterans Affairs as underserved pursuant to criteria developed under section 401 of this Act.”
 
@@ -868,7 +880,7 @@ Pub. L. 97–306, title IV, § 409(a), Oct. 14, 1982, 96 Stat. 1446, provided th
 
 (2) To facilitate the incentive program, there is established in the Treasury a fund to be known as the “DOD–VA Health Care Sharing Incentive Fund”. Each Secretary shall annually contribute to the fund a minimum of $15,000,000 from the funds appropriated to that Secretary’s Department. Such funds shall remain available until expended and shall be available for any purpose authorized by this section.
 
-(3) The program under this subsection shall terminate on September 30, 2020.
+(3) The program under this subsection shall terminate on September 30, 2023.
 
 **(e) Guidelines and Policies for Implementation of Coordination and Sharing Recommendations, Contracts, and Agreements.—**
 
@@ -963,6 +975,8 @@ The Bob Stump National Defense Authorization Act for Fiscal Year 2003, referred 
 Provisions similar to those comprising this section were contained in former [section 5003 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section5003&num=0&edition=prelim) prior to the general revision of this subchapter by Pub. L. 96–22.
 
 #### Amendments
+2019—Subsec. (d)(3). Pub. L. 116–92 substituted “September 30, 2023” for “September 30, 2020”.
+
 2015—Subsec. (d)(3). Pub. L. 114–92, which directed substitution of “September 30, 2020” for “September 30, 2015”, was executed by making the substitution for “September 30, 2016” to reflect the probable intent of Congress and the intervening amendment by Pub. L. 114–58. See below.
 
 Pub. L. 114–58 substituted “September 30, 2016” for “September 30, 2015”.
@@ -1060,6 +1074,9 @@ Pub. L. 107–314, div. A, title VII, § 721(c), Dec. 2, 2002, 116 Stat. 2595, p
 
 #### Effective Date
 Section effective Oct. 1, 1979, but not applicable with respect to the acquisition, construction, or alteration of any medical facilities if the acquisition, construction, or alteration (not including exchange) was approved by the President before Oct. 1, 1979, see section 302 of Pub. L. 96–22, set out as a note under [section 8101 of this title](./chapter-081-acquisition-and-operation-of-hospital-and-domiciliary-facilities-procurement-and-supply-enhanced-use-leases-of-real-property.md#section-8101).
+
+#### Report on Mental Health Programs by Department of Veterans Affairs and Department of Defense
+Pub. L. 116–171, title IV, § 405(a), Oct. 17, 2020, 134 Stat. 812, provided that: “(1) In general.—Not later than one year after the date of the enactment of this Act [Oct. 17, 2020], and annually thereafter, the Secretary of Veterans Affairs and the Secretary of Defense shall submit to the Committee on Veterans’ Affairs and the Committee on Armed Services of the Senate and the Committee on Veterans’ Affairs and the Committee on Armed Services of the House of Representatives a report on mental health programs of the Department of Veterans Affairs and the Department of Defense and joint programs of the Departments. “(2) Elements.—The report required by paragraph (1) shall include the following:“(A) A description of mental health programs operated by the Department of Veterans Affairs, including the following:“(i) Transition assistance programs. “(ii) Clinical and non-clinical mental health initiatives, including centers of excellence of the Department of Veterans Affairs for traumatic brain injury and post-traumatic stress disorder. “(iii) Programs that may secondarily improve mental health, including employment, housing assistance, and financial literacy programs. “(iv) Research into mental health issues and conditions, to include post-traumatic stress disorder, depression, anxiety, bipolar disorder, traumatic brain injury, suicidal ideation, and any other issues or conditions as the Secretary of Veterans Affairs considers necessary. “(B) A description of mental health programs operated by the Department of Defense, including the following:“(i) Transition assistance programs. “(ii) Clinical and non-clinical mental health initiatives, including the National Intrepid Center of Excellence and the Intrepid Spirit Centers. “(iii) Programs that may secondarily improve mental health, including employment, housing assistance, and financial literacy programs. “(iv) Research into mental health issues and conditions, to include post-traumatic stress disorder, depression, anxiety, bipolar disorder, traumatic brain injury, suicidal ideation, and any other issues or conditions as the Secretary of Defense considers necessary. “(C) A description of mental health programs jointly operated by the Department of Veterans Affairs and the Department of Defense, including the following:“(i) Transition assistance programs. “(ii) Clinical and non-clinical mental health initiatives. “(iii) Programs that may secondarily improve mental health, including employment, housing assistance, and financial literacy programs. “(iv) Research into mental health issues and conditions, to include post-traumatic stress disorder, depression, anxiety, bipolar disorder, traumatic brain injury, suicidal ideation, and completed suicides, including through the use of the joint suicide data repository of the Department of Veterans Affairs and the Department of Defense, and any other issues or conditions as the Secretary of Veterans Affairs and the Secretary of Defense consider necessary. “(D) Recommendations for coordinating mental health programs of the Department of Veterans Affairs and the Department of Defense to improve the effectiveness of those programs. “(E) Recommendations for novel joint programming of the Department of Veterans Affairs and the Department of Defense to improve the mental health of members of the Armed Forces and veterans.”
 
 #### Guidelines for Combined Medical Facilities of the Department of Defense and the Department of Veterans Affairs
 Pub. L. 110–417, [div. A], title VII, § 706, Oct. 14, 2008, 122 Stat. 4500, provided that: “Before a facility may be designated a combined Federal medical facility of the Department of Defense and the Department of Veterans Affairs, the Secretary of Defense and the Secretary of Veterans Affairs shall execute a signed agreement that specifies, at a minimum, a binding operational agreement on the following areas: “(1) Governance. “(2) Patient priority categories. “(3) Budgeting. “(4) Staffing and training. “(5) Construction. “(6) Physical plant management. “(7) Contingency planning. “(8) Quality assurance. “(9) Information technology.”
@@ -1437,7 +1454,7 @@ Pub. L. 107–188, title I, § 154, June 12, 2002, 116 Stat. 631, as amended by 
 
 (4) The Secretary may enter into partnerships or agreements with public or private entities dedicated to historic preservation to facilitate the transfer, leasing, or adaptive use of structures or properties specified in subsection (b)(3)(D).
 
-(5) The authority of the Secretary under paragraph (1) expires on September 30, 2020.
+(5) The authority of the Secretary under paragraph (1) expires on September 30, 2022.
 
 **(b)**
 
@@ -1466,6 +1483,8 @@ Pub. L. 107–188, title I, § 154, June 12, 2002, 116 Stat. 631, as amended by 
 ### Statutory Notes
 
 #### Amendments
+2020—Subsec. (a)(5). Pub. L. 116–159 substituted “September 30, 2022” for “September 30, 2020”.
+
 2018—Subsec. (a)(5). Pub. L. 115–251 substituted “September 30, 2020” for “December 31, 2018”.
 
 2011—Subsec. (a)(5). Pub. L. 112–37 substituted “December 31, 2018” for “the date that is seven years after the date of the enactment of this section”.
@@ -1994,9 +2013,9 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
 (4) The Secretary shall establish a review mechanism to ensure that, in the case of a subcontract of a Department contract that is counted for purposes of meeting a goal established pursuant to this section, the subcontract was actually awarded to a business concern that may be counted for purposes of meeting that goal.
 
-**(b) Use of Noncompetitive Procedures for Certain Small Contracts.—** For purposes of meeting the goals under subsection (a), and in accordance with this section, in entering into a contract with a small business concern owned and controlled by veterans or a small business concern owned and controlled by veterans with service-connected disabilities for an amount less than the simplified acquisition threshold (as defined in [section 134 of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section134&num=0&edition=prelim)), a contracting officer of the Department may use procedures other than competitive procedures.
+**(b) Use of Noncompetitive Procedures for Certain Small Contracts.—** Except as provided in subsection (d)(2), for purposes of meeting the goals under subsection (a), and in accordance with this section, in entering into a contract with a small business concern owned and controlled by veterans or a small business concern owned and controlled by veterans with service-connected disabilities for an amount less than the simplified acquisition threshold (as defined in [section 134 of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section134&num=0&edition=prelim)), a contracting officer of the Department may use procedures other than competitive procedures.
 
-**(c) Sole Source Contracts for Contracts Above Simplified Acquisition Threshold.—** For purposes of meeting the goals under subsection (a), and in accordance with this section, a contracting officer of the Department may award a contract to a small business concern owned and controlled by veterans or a small business concern owned and controlled by veterans with service-connected disabilities using procedures other than competitive procedures if—
+**(c) Sole Source Contracts for Contracts Above Simplified Acquisition Threshold.—** Except as provided in subsection (d)(2), for purposes of meeting the goals under subsection (a), and in accordance with this section, a contracting officer of the Department may award a contract to a small business concern owned and controlled by veterans or a small business concern owned and controlled by veterans with service-connected disabilities using procedures other than competitive procedures if—
 
 (1) such concern is determined to be a responsible source with respect to performance of such contract opportunity;
 
@@ -2004,7 +2023,43 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
 (3) in the estimation of the contracting officer, the contract award can be made at a fair and reasonable price that offers best value to the United States.
 
-**(d) Use of Restricted Competition.—** Except as provided in subsections (b) and (c), for purposes of meeting the goals under subsection (a), and in accordance with this section, a contracting officer of the Department shall award contracts on the basis of competition restricted to small business concerns owned and controlled by veterans or small business concerns owned and controlled by veterans with service-connected disabilities if the contracting officer has a reasonable expectation that two or more small business concerns owned and controlled by veterans or small business concerns owned and controlled by veterans with service-connected disabilities will submit offers and that the award can be made at a fair and reasonable price that offers best value to the United States.
+**(d) Use of Restricted Competition.—**
+
+(1) Except as provided in paragraph (2) and in subsections (b) and (c), for purposes of meeting the goals under subsection (a), and in accordance with this section, a contracting officer of the Department shall award contracts on the basis of competition restricted to small business concerns owned and controlled by veterans or small business concerns owned and controlled by veterans with service-connected disabilities if the contracting officer has a reasonable expectation that two or more small business concerns owned and controlled by veterans or small business concerns owned and controlled by veterans with service-connected disabilities will submit offers and that the award can be made at a fair and reasonable price that offers best value to the United States.
+
+(2)
+
+  (A) Notwithstanding paragraph (1) and except as provided by subparagraph (B) of this paragraph, with respect to the procurement of a covered product or service, a contracting officer of the Department shall procure such product or service from a source designated under chapter 85 of title 41, and in accordance with the regulations prescribed under such chapter.
+
+  (B)
+
+    (i) Subject to clause (ii), subparagraph (A) shall not apply in the case of a covered product or service for which a contract was—
+
+      (I) awarded under paragraph (1) after December 22, 2006; and
+
+      (II) in effect on the day before the date of the enactment of the Department of Veterans Affairs Contracting Preference Consistency Act of 2020.
+
+    (ii) Clause (i) shall cease to apply to a covered product or service described in such clause upon a determination of the Secretary that when the current contract for the covered product or service is terminated or expires there is no reasonable expectation that—
+
+      (I) two or more small business concerns owned and controlled by veterans will submit offers as described in paragraph (1); and
+
+      (II) the award can be made at a fair and reasonable price that offers best value to the United States.
+
+  (C) In this paragraph, the term “covered product or service” means—
+
+    (i) a product or service that—
+
+      (I) is included on the procurement list under [section 8503(a) of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section8503/a&num=0&edition=prelim); and
+
+      (II) was included on such procurement list on or before December 22, 2006; or
+
+    (ii) a product or service that—
+
+      (I) is a replacement for a product or service described under clause (i);
+
+      (II) is essentially the same and meeting the same requirement as the product or service being replaced; and
+
+      (III) a contracting officer determines meets the quality standards and delivery schedule of the Department.
 
 **(e) Eligibility of Small Business Concerns.—** A small business concern may be awarded a contract under this section only if the small business concern and the veteran owner of the small business concern are listed in the database of veteran-owned businesses maintained by the Secretary under subsection (f).
 
@@ -2086,7 +2141,41 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
 (4) The percentage of the total amount of all contracts awarded by each such Administration during that fiscal year that were awarded to small business concerns owned and controlled by veterans with service-connected disabilities.
 
-**(k) Definitions.—** In this section:
+**(k) Limitations on Subcontracting.—**
+
+(1)
+
+  (A) The requirements applicable to a covered small business concern under section 46 of the Small Business Act ([15 U.S.C. 657s](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section657s&num=0&edition=prelim)) shall apply with respect to a small business concern owned and controlled by veterans that is awarded a contract under this section.
+
+  (B) For purposes of applying the requirements of section 46 of the Small Business Act ([15 U.S.C. 657s](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section657s&num=0&edition=prelim)) pursuant to subparagraph (A), the term “similarly situated entity” used in such section 46 includes a subcontractor for a small business concern owned and controlled by veterans described in such subparagraph (A).
+
+(2) The Secretary may award a contract under this section only after the Secretary obtains from the offeror a certification that the offeror will comply with the requirements described in paragraph (1)(A) if awarded the contract. Such certification shall—
+
+  (A) specify the exact performance requirements applicable under such paragraph; and
+
+  (B) explicitly acknowledge that the certification is subject to [section 1001 of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section1001&num=0&edition=prelim).
+
+(3)
+
+  (A) The Director of Small and Disadvantaged Business Utilization for the Department, established pursuant to section 15(k) of the Small Business Act ([15 U.S.C. 644(k)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section644/k&num=0&edition=prelim)), and the Chief Acquisition Officer of the Department, established pursuant to [section 1702 of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section1702&num=0&edition=prelim), shall jointly implement a process using the systems described in section 16(g)(2) of the Small Business Act ([15 U.S.C. 645(g)(2)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section645/g/2&num=0&edition=prelim)), or any other relevant systems available, to monitor compliance with this subsection.
+
+  (B) The Director of Small and Disadvantaged Business Utilization and the Chief Acquisition Officer shall jointly refer any violations or suspected violations of this subsection to the Inspector General of the Department.
+
+  (C) If the Secretary determines, in consultation with the Inspector General of the Department, that a small business concern that is awarded a contract under this section did not act in good faith with respect to the requirements described in paragraph (1)(A), the small business concern shall be subject to any or all of the following consequences—
+
+    (i) referral to the Debarment and Suspension Committee of the Department;
+
+    (ii) a fine under section 16(g)(1) of the Small Business Act ([15 U.S.C. 645(g)(1)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section645/g/1&num=0&edition=prelim)); and
+
+    (iii) prosecution for violating [section 1001 of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section1001&num=0&edition=prelim).
+
+  (D) Not later than November 30 for each of fiscal years 2021 through 2025, the Inspector General shall submit to the Committees on Veterans’ Affairs of the Senate and House of Representatives a report for the fiscal year preceding the fiscal year during which the report is submitted that includes, for the fiscal year covered by the report—
+
+    (i) the number of referred violations and suspected violations received under subparagraph (B); and
+
+    (ii) the disposition of such referred violations, including the number of small business concerns suspended or debarred from Federal contracting or referred to the Attorney General for prosecution.
+
+**(l) Definitions.—** In this section:
 
 (1) The term “small business concern” has the meaning given that term under section 3 of the Small Business Act ([15 U.S.C. 632](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section632&num=0&edition=prelim)).
 
@@ -2096,10 +2185,117 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
 ### Statutory Notes
 
+#### Amendment of Section
+Pub. L. 116–283, div. A, title VIII, § 862(b)(1)(A), (C)–(E), Jan. 1, 2021, 134 Stat. 3776, 3778, provided that, effective on the transfer date of subsection (f) of this section, which is 2 years after Jan. 1, 2021, this section is amended as follows:
+
+(1) in subsection (e), by striking “the Secretary under subsection (f)” and inserting “the Administrator under section 36 of the Small Business Act”;
+
+(2) by redesignating subsections (k) (relating to limitations on subcontracting) and (l) (relating to definitions) as subsections (l) and (m), respectively;
+
+(3) by inserting after subsection (j) (relating to annual reports) the following new subsection:
+
+“(k) Annual Transfer for Certification Costs.—For each fiscal year, the Secretary of Veterans Affairs shall reimburse the Administrator in an amount necessary to cover any cost incurred by the Administrator for certifying small business concerns owned and controlled by veterans that do not qualify as small business concerns owned and controlled by service-disabled veterans for the Secretary for purposes of this section and [section 8128 of this title](./chapter-081-acquisition-and-operation-of-hospital-and-domiciliary-facilities-procurement-and-supply-enhanced-use-leases-of-real-property.md#section-8128). The Administrator is authorized to accept such reimbursement. The amount of any such reimbursement shall be determined jointly by the Secretary and the Administrator and shall be provided from fees collected by the Secretary under multiple-award schedule contracts. Any disagreement about the amount shall be resolved by the Director of the Office of Management and Budget.”
+
+(4) in subsection (m) (relating to definitions), as so redesignated—
+
+(A) by redesignating paragraphs (1), (2), and (3) as paragraphs (2), (3), and (4), respectively; and
+
+(B) by inserting before paragraph (2), as so redesignated, the following new paragraph:
+
+“(1) The term ‘Administrator’ means the Administrator of the Small Business Administration.
+
+See 2021 Amendment notes and Effective Date of 2021 Amendment note below.
+
+Pub. L. 116–283, div. A, title VIII, § 862(b)(1)(B), (2), Jan. 1, 2021, 134 Stat. 3776, 3778, provided that, effective on the transfer date of subsection (f) of this section, which is 2 years after Jan. 1, 2021, subsection (f) of this section is amended. After such effective date, subsection (f) of this section will read as follows:
+
+(f) Database of Veteran-Owned Businesses.—(1) Subject to paragraphs (2) through (6), the Administrator shall maintain a database of small business concerns owned and controlled by veterans, small business concerns owned and controlled by service-disabled veterans, and the veteran owners of such business concerns.
+
+(2)(A) To be eligible for inclusion in the database, such a veteran shall submit to the Administrator such information as the Administrator may require with respect to the small business concern or the veteran. Application for inclusion in the database shall constitute permission under [section 552a of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section552a&num=0&edition=prelim), United States Code, (commonly referred to as the Privacy Act) for the Administrator to obtain from the Secretary of Veterans Affairs such personal information maintained by the Secretary as may be necessary to verify the information contained in the application.
+
+(B) For purposes of this subsection—
+
+(i) the Secretary of Veterans Affairs shall—
+
+(I) verify an individual’s status as a veteran or a service-disabled veteran; and
+
+(II) establish a system to permit the Administrator to access, but not alter, the verification of such status; and
+
+(ii) the Administrator shall verify—
+
+(I) the status of a business concern as a small business concern; and
+
+(II) the ownership and control of such business concern.
+
+(C) The Administrator may not certify a concern under subsection (b) or section 36A if the Secretary of Veterans Affairs cannot provide the verification described under subparagraph (B)(i)(I).
+
+(3) Information maintained in the database shall be submitted on a voluntary basis by a veteran described in paragraph (1).
+
+(4) the Administrator shall make the database available to all Federal departments and agencies and shall notify each such department and agency of the availability of the database.
+
+(5) If the Administrator determines that the public dissemination of certain types of information maintained in the database is inappropriate, the Administrator shall take such steps as are necessary to maintain such types of information in a secure and confidential manner.
+
+(6)(A) If a small business concern is not included in the database because the Administrator does not certify the status of the concern as a small business concern owned and controlled by veterans (under section 36A) or a small business concern owned and controlled by service-disabled veterans (under subsection (g) of this section), the concern may appeal the denial of certification to the Office of Hearings and Appeals of the Administration (as established under section 5(i)). The decision of the Office of Hearings and Appeals shall be considered a final agency action.
+
+(B)(i) If an interested party challenges the inclusion in the database of a small business concern owned and controlled by veterans or a small business concern owned and controlled by service-disabled veterans based on the status of the concern as a small business concern or the ownership or control of the concern, the challenge shall be heard by the Office of Hearings and Appeals as described in subparagraph (A). The decision of the Office of Hearings and Appeals shall be considered final agency action.
+
+(ii) In this subparagraph, the term “interested party” means—
+
+(I) the Secretary of Veterans Affairs or the Administrator; or
+
+(II) in the case of a small business concern that is awarded a contract, the applicable contracting officer or another small business concern that submitted an offer for the contract that was awarded to the small business concern that is the subject of a challenge made under clause (i).
+
+See 2021 Amendment notes and Effective Date of 2021 Amendment note below.
+
 #### References in Text
-The Small Business Act, referred to in subsecs. (f)(8)(A) and (j)(2), is Pub. L. 85–536, § 2(1 et seq.), July 18, 1958, 72 Stat. 384, which is classified generally to chapter 14A (§ 631 et seq.) of Title 15, Commerce and Trade. Section 5(i) of the Act is classified to [section 634(i) of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section634/i&num=0&edition=prelim). For complete classification of this Act to the Code, see Short Title note set out under [section 631 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section631&num=0&edition=prelim) and Tables.
+The date of the enactment of the Department of Veterans Affairs Contracting Preference Consistency Act of 2020, referred to in subsec. (d)(2)(B)(i)(II), is the date of enactment of Pub. L. 116–155, which was approved Aug. 8, 2020.
+
+The Small Business Act, referred to in subsec. (i)(2), is Pub. L. 85–536, § 2(1 et seq.), July 18, 1958, 72 Stat. 384, which is classified generally to chapter 14A (§ 631 et seq.) of Title 15, Commerce and Trade. Section 5(i) of the Act is classified to [section 634(i) of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section634/i&num=0&edition=prelim). For complete classification of this Act to the Code, see Short Title note set out under [section 631 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section631&num=0&edition=prelim) and Tables.
 
 #### Amendments
+2021—Subsec. (e). Pub. L. 116–283, § 862(b)(1)(A), substituted “the Administrator under section 36 of the Small Business Act” for “the Secretary under subsection (f)”.
+
+Subsec. (f). Pub. L. 116–283, § 862(b)(2), transferred subsec. (f) of this section to section 36(f) of the Small Business Act, which is classified to section 657f, of Title 15, Commerce and Trade.
+
+Pub. L. 116–283, § 862(b)(1)(B)(i), substituted “the Administrator” for “the Secretary” whenever appearing except in the last place it appears in par. (2)(A).
+
+Subsec. (f)(1). Pub. L. 116–283, § 862(b)(1)(B)(ii), substituted “small business concerns owned and controlled by service-disabled veterans” for “small business concerns owned and controlled by veterans with service-connected disabilities”.
+
+Subsec. (f)(2)(A). Pub. L. 116–283, § 862(b)(1)(B)(iii)(I), inserted “, United States Code,” after “title 5” and substituted “to obtain from the Secretary of Veterans Affairs” for “to access”.
+
+Subsec. (f)(2)(B), (C). Pub. L. 116–283, § 862(b)(1)(B)(iii)(II), added subpars. (B) and (C) and struck out former subpar. (B) which read as follows: “If the Secretary receives an application for inclusion in the database from an individual whose status as a veteran cannot be verified because the Secretary does not maintain information with respect to the veteran status of the individual, the Secretary may not include the small business concern owned and controlled by the individual in the database maintained by the Secretary until the Secretary receives such information as may be necessary to verify that the individual is a veteran.”
+
+Subsec. (f)(3). Pub. L. 116–283, § 862(b)(1)(B)(iv), substituted “a veteran described in paragraph (1)” for “such veterans”.
+
+Subsec. (f)(4). Pub. L. 116–283, § 862(b)(1)(B)(vii), substituted “The Administrator” for “The Secretary”.
+
+Pub. L. 116–283, § 862(b)(1)(B)(v), (vi), redesignated par. (5) as (4) and struck out former par. (4), which required verification of veteran ownership or control.
+
+Subsec. (f)(5), (6). Pub. L. 116–283, § 862(b)(1)(B)(vi), redesignated par. (6) as (5).
+
+Subsec. (f)(6)(A). Pub. L. 116–283, § 862(b)(1)(B)(viii)(I), substituted “certify the status of the concern as a small business concern owned and controlled by veterans (under section 36A) or a small business concern owned and controlled by service-disabled veterans (under subsection (g) of this section)” for “verify the status of the concern as a small business concern or the ownership or control of the concern”, “certification” for “verification”, and “the Administration (as established under section 5(i))” for “the Small Business Administration (as established under section 5(i) of the Small Business Act)”.
+
+Subsec. (f)(6)(B)(i). Pub. L. 116–283, § 862(b)(1)(B)(viii)(II)(aa), substituted “small business concern owned and controlled by service-disabled veterans” for “small business concern owned and controlled by veterans with service-connected disabilities” and struck out “of the Small Business Administration” after “Hearings and Appeals”.
+
+Subsec. (f)(6)(B)(ii)(I). Pub. L. 116–283, § 862(b)(1)(B)(viii)(II)(bb)(AA), amended subcl. (I) generally. Prior to amendment, subcl. (I) read as follows: “the Secretary; or”.
+
+Subsec. (f)(6)(C). Pub. L. 116–283, § 862(b)(1)(B)(viii)(III), struck out subpar. (C) which read as follows: “For each fiscal year, the Secretary shall reimburse the Administrator of the Small Business Administration in an amount necessary to cover any cost incurred by the Office of Hearings and Appeals of the Small Business Administration for actions taken by the Office under this paragraph. The Administrator is authorized to accept such reimbursement. The amount of any such reimbursement shall be determined jointly by the Secretary and the Administrator and shall be provided from fees collected by the Secretary under multiple-award schedule contracts. Any disagreement about the amount shall be resolved by the Director of the Office of Management and Budget.”
+
+Subsec. (f)(7). Pub. L. 116–283, § 862(b)(1)(B)(v), struck out par. (7) which read as follows: “The Secretary may not issue regulations related to the status of a concern as a small business concern and the ownership and control of such small business concern.”
+
+Subsec. (f)(8). Pub. L. 116–283, § 862(b)(1)(B)(vi), redesignated par. (8) as (6).
+
+Subsec. (k). Pub. L. 116–283, § 862(b)(1)(D), added subsec. (k).
+
+Subsec. (k)(3)(A). Pub. L. 116–315 substituted “or any other” for “and any other”.
+
+Subsecs. (l), (m). Pub. L. 116–283, § 862(b)(1)(C), redesignated former subsecs. (k) and (l) as (l) and (m), respectively.
+
+2020—Subsecs. (b), (c). Pub. L. 116–155, § 2(b), substituted “Except as provided in subsection (d)(2), for purposes” for “For purposes”.
+
+Subsec. (d). Pub. L. 116–155, § 2(a), designated existing provisions as par. (1), inserted “in paragraph (2) and” before “in subsections (b) and (c)”, and added par. (2).
+
+Subsecs. (k), (l). Pub. L. 116–183 added subsec. (k) and redesignated former subsec. (k) as (l).
+
 2016—Subsec. (b). Pub. L. 114–328, § 1832(b)(2)(A), inserted “or a small business concern owned and controlled by veterans with service-connected disabilities” after “a small business concern owned and controlled by veterans”.
 
 Subsec. (c). Pub. L. 114–328, § 1832(b)(2)(B), inserted “or a small business concern owned and controlled by veterans with service-connected disabilities” after “a small business concern owned and controlled by veterans” in introductory provisions.
@@ -2150,6 +2346,14 @@ Subsec. (f)(4). Pub. L. 111–275, § 104(b)(1)(B), added par. (4) and struck ou
 
 2008—Subsecs. (j) to (l). Pub. L. 110–389 added subsec. (j) and redesignated former subsecs. (j) and (k) as (k) and (l), respectively.
 
+#### Effective Date of 2021 Amendment
+Pub. L. 116–283, div. A, title VIII, § 862(b)(3), Jan. 1, 2021, 134 Stat. 3778, provided that the amendment made by section 862(b) of Pub. L. 116–283 shall take effect on the transfer date, which is 2 years after Jan. 1, 2021, see section 862(a) of Pub. L. 116–283, set out as a note under [section 657f of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section657f&num=0&edition=prelim), Commerce and Trade.
+
+#### Effective Date of 2020 Amendment
+Pub. L. 116–183, § 2(b), Oct. 30, 2020, 134 Stat. 896, provided that: “Subsection (k) of [section 8127 of title 38](./chapter-081-acquisition-and-operation-of-hospital-and-domiciliary-facilities-procurement-and-supply-enhanced-use-leases-of-real-property.md#section-8127), United States Code, as added by subsection (a), shall apply with respect to a contract entered into after the date of the enactment of this Act [Oct. 30, 2020].”
+
+Pub. L. 116–155, § 2(c), Aug. 8, 2020, 134 Stat. 699, provided that: “The amendments made by this section [amending this section] shall apply with respect to a contract entered into on or after the date of the enactment of this Act [Aug. 8, 2020].”
+
 #### Effective Date of 2016 Amendment
 Amendment by section 1832(b), (d) of Pub. L. 114–328 effective on the date on which the Administrator of the Small Business Administration and the Secretary of Veterans Affairs jointly issue implementing regulations [regulations effective Oct. 1, 2018], see section 1832(e) of Pub. L. 114–328, set out as a note under [section 632 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section632&num=0&edition=prelim), Commerce and Trade.
 
@@ -2174,8 +2378,40 @@ Pub. L. 109–461, title V, § 502(b), Dec. 22, 2006, 120 Stat. 3435, provided t
 
 ### Statutory Notes
 
+#### Amendment of Section
+Pub. L. 116–283, div. A, title VIII, § 862(b)(3), Jan. 1, 2021, 134 Stat. 3778, provided that, effective on the transfer date of subsection (f) of [section 8127 of this title](./chapter-081-acquisition-and-operation-of-hospital-and-domiciliary-facilities-procurement-and-supply-enhanced-use-leases-of-real-property.md#section-8127), which is 2 years after Jan. 1, 2021, this section is amended by striking “maintained by the Secretary under [section 8127(f) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section8127/f&num=0&edition=prelim)” and inserting “maintained by the Administrator of the Small Business Administration under section 36 of the Small Business Act”.
+
+See 2021 Amendment and Effective Date of 2021 Amendment notes below.
+
+#### Amendments
+2021—Subsec. (b). Pub. L. 116–283 substituted “maintained by the Administrator of the Small Business Administration under section 36 of the Small Business Act” for “maintained by the Secretary under [section 8127(f) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section8127/f&num=0&edition=prelim)”.
+
+#### Effective Date of 2021 Amendment
+Pub. L. 116–283, div. A, title VIII, § 862(b)(3), Jan. 1, 2021, 134 Stat. 3778, provided that the amendment made by section 862(b)(3)(B) shall take effect on the transfer date (2 years after Jan. 1, 2021, see section 862(a) of Pub. L. 116–283, set out as a note under [section 657f of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section657f&num=0&edition=prelim)).
+
 #### Effective Date
 Pub. L. 109–461, title V, § 503(b), Dec. 22, 2006, 120 Stat. 3436, provided that: “This section [enacting this section] and the amendments made by this section shall take effect on the date that is 180 days after the date of the enactment of this Act [Dec. 22, 2006].”
+
+
+<a id="section-8129"></a>
+## § 8129. Preference for offerors employing veterans
+**(a) Preference.—**
+
+(1) In awarding a contract for the procurement of goods or services, the Secretary may give a preference to offerors that employ veterans on a full-time basis.
+
+(2) The Secretary shall determine such preference based on the percentage of the full-time employees of the offeror who are veterans.
+
+**(b) Enforcement Penalties for Misrepresentation.—**
+
+(1) Any offeror that is determined by the Secretary to have willfully and intentionally misrepresented the veteran status of the employees of the offeror for purposes of subsection (a) may be debarred from contracting with the Department for a period of not less than five years.
+
+(2) If the Secretary carries out a debarment under paragraph (1), the Secretary shall—
+
+  (A) commence debarment action against the offeror by not later than 30 days after determining that the offeror willfully and intentionally misrepresented the veteran status of the employees of the offeror as described in paragraph (1); and
+
+  (B) complete debarment actions against such offeror by not later than 90 days after such determination.
+
+(3) The debarment of an offeror under paragraph (1) includes the debarment of all principals in the offeror for a period of not less than five years.
 
 
 <a id="section-8131"></a>
@@ -2185,7 +2421,7 @@ For the purpose of this subchapter—
 
 (1) The veteran population of each State shall be determined on the basis of the latest figures certified by the Department of Commerce.
 
-(2) The term “State” does not include any possession of the United States.
+(2) The term “State” includes each Indian tribe (as defined in section 4 of the Indian Self-Determination and Education Assistance Act ([25 U.S.C. 5304](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5304&num=0&edition=prelim))) but does not include any possession of the United States.
 
 (3) The term “construction” means the construction of new domiciliary or nursing home buildings, the expansion, remodeling, or alteration of existing buildings for the provision of domiciliary, nursing home, adult day health, or hospital care in State homes, and the provision of initial equipment for any such buildings.
 
@@ -2194,6 +2430,8 @@ For the purpose of this subchapter—
 ### Statutory Notes
 
 #### Amendments
+2021—Par. (2). Pub. L. 116–315 inserted “includes each Indian tribe (as defined in section 4 of the Indian Self-Determination and Education Assistance Act ([25 U.S.C. 5304](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5304&num=0&edition=prelim))) but” before “does not”.
+
 1996—Par. (3). Pub. L. 104–262 inserted “adult day health,” before “or hospital care”.
 
 1991—Pub. L. 102–40 renumbered [section 5031 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section5031&num=0&edition=prelim) as this section.
@@ -2224,11 +2462,13 @@ For short title of Pub. L. 95–62 as the “State Veterans’ Home Assistance I
 <a id="section-8132"></a>
 ## § 8132. Declaration of purpose
 
-The purpose of this subchapter is to assist the several States to construct State home facilities (or to acquire facilities to be used as State home facilities) for furnishing domiciliary or nursing home care to veterans, and to expand, remodel, or alter existing buildings for furnishing domiciliary, nursing home, adult day health, or hospital care to veterans in State homes.
+The purpose of this subchapter is to assist the States to construct State home facilities (or to acquire facilities to be used as State home facilities) for furnishing domiciliary or nursing home care to veterans, and to expand, remodel, or alter existing buildings for furnishing domiciliary, nursing home, adult day health, or hospital care to veterans in State homes.
 
 ### Statutory Notes
 
 #### Amendments
+2021—Pub. L. 116–315 struck out “several” before “States”.
+
 1996—Pub. L. 104–262 inserted “adult day health,” before “or hospital care”.
 
 1991—Pub. L. 102–40 renumbered [section 5032 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section5032&num=0&edition=prelim) as this section.

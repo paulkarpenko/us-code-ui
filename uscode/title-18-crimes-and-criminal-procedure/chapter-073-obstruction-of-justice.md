@@ -228,9 +228,9 @@ Whoever, by threats or force, willfully prevents, obstructs, impedes, or interfe
 
   (A) the term “an officer of a financial institution” means an officer, director, partner, employee, agent, or attorney of or for a financial institution; and
 
-  (B) the term “subpoena for records” means a Federal grand jury subpoena or a Department of Justice subpoena (issued under [section 3486 of title 18](./chapter-223-witnesses-and-evidence.md#section-3486)), for customer records that has been served relating to a violation of, or a conspiracy to violate—
+  (B) the term “subpoena for records” means a Federal grand jury subpoena, a subpoena issued under [section 3486 of this title](./chapter-223-witnesses-and-evidence.md#section-3486), or an order or subpoena issued in accordance with [section 3512 of this title](./chapter-223-witnesses-and-evidence.md#section-3512), [section 5318 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section5318&num=0&edition=prelim), or [section 1782 of title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section1782&num=0&edition=prelim), for customer records that has been served relating to a violation of, or a conspiracy to violate—
 
-    (i) section 215, 656, 657, 1005, 1006, 1007, 1014, 1344, 1956, 1957, or chapter 53 of title 31; or
+    (i) section 215, 656, 657, 1005, 1006, 1007, 1014, 1344, 1956, 1957, 1960, an offense against a foreign nation constituting specified unlawful activity under section 1956, a foreign offense for which enforcement of a foreign forfeiture judgment could be brought under [section 2467 of title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section2467&num=0&edition=prelim), or chapter 53 of title 31; or
 
     (ii) section 1341 or 1343 affecting a financial institution.
 
@@ -255,6 +255,10 @@ Whoever, by threats or force, willfully prevents, obstructs, impedes, or interfe
 The National Security Act of 1947, referred to in subsec. (e), is act July 26, 1947, ch. 343, 61 Stat. 495, which was formerly classified principally to chapter 15 (§ 401 et seq.) of Title 50, War and National Defense, prior to editorial reclassification in chapter 44 (§ 3001 et seq.) of Title 50. Section 802 of this Act is now classified to [section 3162 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3162&num=0&edition=prelim). For complete classification of this Act to the Code, see Tables.
 
 #### Amendments
+2021—Subsec. (b)(3)(B). Pub. L. 116–283, § 6308(c)(1), substituted “, a subpoena issued under [section 3486 of this title](./chapter-223-witnesses-and-evidence.md#section-3486), or an order or subpoena issued in accordance with [section 3512 of this title](./chapter-223-witnesses-and-evidence.md#section-3512), [section 5318 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section5318&num=0&edition=prelim), or [section 1782 of title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section1782&num=0&edition=prelim)” for “or a Department of Justice subpoena (issued under [section 3486 of title 18](./chapter-223-witnesses-and-evidence.md#section-3486))” in introductory provisions.
+
+Subsec. (b)(3)(B)(i). Pub. L. 116–283, § 6308(c)(2), inserted “, 1960, an offense against a foreign nation constituting specified unlawful activity under section 1956, a foreign offense for which enforcement of a foreign forfeiture judgment could be brought under [section 2467 of title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section2467&num=0&edition=prelim)” after “1957”.
+
 2010—Subsec. (b)(1). Pub. L. 111–148, § 10606(d)(1)(A), struck out “to the grand jury” after “has been furnished”.
 
 Subsec. (b)(2). Pub. L. 111–148, § 10606(d)(1)(B)(ii), struck out “to the grand jury” after “has been furnished” in concluding provisions.

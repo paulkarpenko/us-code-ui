@@ -24,6 +24,11 @@ R.S. § 80 derived from act Jan. 26, 1802, ch. 2, 2 Stat. 128; Res. Oct. 21, 181
 #### Effective Date of 1976 Amendment
 Amendment by Pub. L. 94–553 effective Jan. 1, 1978, see section 102 of Pub. L. 94–553 set out as an Effective Date note preceding [section 101 of Title 17](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title17-section101&num=0&edition=prelim), Copyrights.
 
+#### Short Title of 2019 Amendment
+Pub. L. 116–94, div. P, title XIV, § 1401, Dec. 20, 2019, 133 Stat. 3206, provided that: “This title [amending sections 135a, 136a–2, and 166 of this title, sections 701, 802, and 803 of Title 17, Copyrights, and [section 2103 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section2103&num=0&edition=prelim), Education, repealing [section 135a–1 of this title](./chapter-005-library-of-congress.md#section-135a-1) and enacting provisions set out as a note under [section 802 of Title 17](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title17-section802&num=0&edition=prelim)] may be cited as the ‘Library of Congress Technical Corrections Act of 2019’.”
+
+Pub. L. 116–94, div. P, title XVI, § 1601, Dec. 20, 2019, 133 Stat. 3209, provided that: “This title [amending sections 185 and 1808 of this title and sections 3902 and 3903 of Title 44, Public Printing and Documents] may be cited as the ‘Legislative Branch Inspectors General Independence Act of 2019’.”
+
 #### Transfer to Library Building
 Provisions for the removal of the Library to the Library Building, erected pursuant to act Apr. 15, 1886, ch. 50, 24 Stat. 12, and for the custody, care, and maintenance of that building, were made by act Feb. 19, 1897.
 
@@ -143,16 +148,46 @@ R.S. § 84 derived from act July 14, 1832, ch. 221, § 4, 4 Stat. 579.
 
 
 <a id="section-135a"></a>
-## § 135a. Books and sound-reproduction records for blind and other physically handicapped residents; annual appropriations; purchases
+## § 135a. National library service for the blind and print disabled
+**(a) Accessible materials and reproducers**
 
-There is authorized to be appropriated annually to the Library of Congress, in addition to appropriations otherwise made to said Library, such sums for expenditure under the direction of the Librarian of Congress as may be necessary to provide books published either in raised characters, on sound-reproduction recordings or in any other form, and for purchase, maintenance, and replacement of reproducers for any such forms, for the use of the blind and for other physically handicapped residents of the United States, including the several States, Territories, insular possessions, and the District of Columbia, all of which books, recordings, and reproducers will remain the property of the Library of Congress but will be loaned to blind and to other physically handicapped readers certified by competent authority as unable to read normal printed material as a result of physical limitations, under regulations prescribed by the Librarian of Congress for this service. In the purchase of books in either raised characters or in sound-reproduction recordings the Librarian of Congress, without reference to the provisions of [section 6101 of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section6101&num=0&edition=prelim), shall give preference to nonprofit-making institutions or agencies whose activities are primarily concerned with the blind and with other physically handicapped persons, in all cases where the prices or bids submitted by such institutions or agencies are, by said Librarian, under all the circumstances and needs involved, determined to be fair and reasonable.
+(1) **In general** — The Librarian of Congress is authorized to provide to eligible persons who are residents of the United States (including residents of the several States, insular possessions, and the District of Columbia) and to eligible persons who are United States citizens residing outside the United States the following items:
+
+  (A) Literary works published in raised characters, on sound-reproduction recordings, or in any other accessible format.
+
+  (B) Musical scores, instructional texts, and other specialized materials used in furthering educational, vocational, and cultural opportunities in the field of music published in any accessible format.
+
+  (C) Reproducers for such formats.
+
+(2) **Ownership** — Any item provided under paragraph (1) shall be provided on a loan basis and shall remain the property of the Library of Congress.
+
+**(b) Lending preference** In the lending of items under subsection (a), the Librarian shall at all times give preference to—
+
+(1) the needs of the blind and visually disabled; and
+
+(2) the needs of eligible persons who have been honorably discharged from the Armed Forces of the United States.
+
+**(c) Network** The Librarian of Congress may contract or otherwise arrange with such public or other nonprofit libraries, agencies, or organizations as the Librarian may determine appropriate to serve as local or regional centers for the circulation of items described in subsection (a)(1).
+
+**(d) International service** The Librarian of Congress is authorized to provide items described in subparagraphs (A) and (B) of subsection (a)(1) to authorized entities located in a country that is a party to the Marrakesh Treaty, if any such items are delivered to authorized entities through online, not physical, means. The Librarian may contract or otherwise arrange with such authorized entities to deliver such items to eligible persons located in their countries in any accessible format and consistent with [section 121A of title 17](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title17-section121A&num=0&edition=prelim).
+
+**(e) Contracting preference** In the purchase and maintenance of items described in subsection (a), the Librarian of Congress, without regard to [section 6101 of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section6101&num=0&edition=prelim), shall give preference to nonprofit institutions or agencies whose activities are primarily concerned with the blind and with other physically disabled persons, in all cases where, considering all the circumstances and needs involved, the Librarian determines that the prices submitted are fair and reasonable.
+
+**(f) Regulations** The Librarian of Congress shall prescribe regulations for services under this section, in consultation with eligible persons and authorized entities. Such regulations shall include procedures that shall be used by an individual to establish that the individual is an eligible person.
+
+**(g) Definitions** In this section—
+
+(1) the terms “accessible format”, “authorized entity”, and “eligible person” have the meanings given those terms in [section 121 of title 17](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title17-section121&num=0&edition=prelim); and
+
+(2) the term “Marrakesh Treaty” has the meaning given in section 121A of such title 17.
+
+**(h) Authorization of appropriations** There are authorized to be appropriated to carry out this section such sums as may be necessary.
 
 ### Statutory Notes
 
-#### Codification
-In text, “[section 6101 of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section6101&num=0&edition=prelim)” substituted for “section 3709 of the Revised Statutes of the United States ([41 U.S.C. 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section5&num=0&edition=prelim))” on authority of Pub. L. 111–350, § 6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
-
 #### Amendments
+2019—Pub. L. 116–94 amended section generally. Prior to amendment, text read as follows: “There is authorized to be appropriated annually to the Library of Congress, in addition to appropriations otherwise made to said Library, such sums for expenditure under the direction of the Librarian of Congress as may be necessary to provide books published either in raised characters, on sound-reproduction recordings or in any other form, and for purchase, maintenance, and replacement of reproducers for any such forms, for the use of the blind and for other physically handicapped residents of the United States, including the several States, Territories, insular possessions, and the District of Columbia, all of which books, recordings, and reproducers will remain the property of the Library of Congress but will be loaned to blind and to other physically handicapped readers certified by competent authority as unable to read normal printed material as a result of physical limitations, under regulations prescribed by the Librarian of Congress for this service. In the purchase of books in either raised characters or in sound-reproduction recordings the Librarian of Congress, without reference to the provisions of [section 6101 of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section6101&num=0&edition=prelim), shall give preference to nonprofit-making institutions or agencies whose activities are primarily concerned with the blind and with other physically handicapped persons, in all cases where the prices or bids submitted by such institutions or agencies are, by said Librarian, under all the circumstances and needs involved, determined to be fair and reasonable.”
+
 2016—Pub. L. 114–219 substituted “and for purchase, maintenance, and replacement of reproducers for any such forms” for “and for purchase, maintenance, and replacement of reproducers for such sound-reproduction recordings” in first sentence.
 
 1966—Pub. L. 89–522 amended section generally, extending availability of books and materials under this section by authorizing their loan to other physically handicapped residents, in addition to blind persons, certified by competent authority as unable to read normal printed material as a result of physical limitations.
@@ -194,24 +229,23 @@ Act Apr. 23, 1937, ch. 125, § 2, 50 Stat. 72, provided that: “This Act [amend
 
 
 <a id="section-135a-1"></a>
-## § 135a–1. Library of musical scores, instructional texts, and other specialized materials for use of blind persons or other physically handicapped residents; authorization of appropriations
-**(a)** The Librarian of Congress shall establish and maintain a library of musical scores, instructional texts, and other specialized materials for the use of the blind and for other physically handicapped residents of the United States and its possessions in furthering their educational, vocational, and cultural opportunities in the field of music. Such scores, texts, and materials shall be made available on a loan basis under regulations developed by the Librarian or his designee in consultation with persons, organizations, and agencies engaged in work for the blind and for other physically handicapped persons.
-
-**(b)** There are authorized to be appropriated such amounts as may be necessary to carry out the provisions of this section.
+## § 135a–1. Repealed. Pub. L. 116–94, div. P, title XIV, § 1403(b), Dec. 20, 2019, 133 Stat. 3207
 
 ### Statutory Notes
 
-#### Amendments
-1966—Pub. L. 89–522 made the library of musical scores and materials available to other physically handicapped residents of the United States and added persons, organizations, and agencies engaged in work for physically handicapped persons to the groups with which the Librarian shall consult in making the materials available on a loan basis.
+Section, Pub. L. 87–765, Oct. 9, 1962, 76 Stat. 763; Pub. L. 89–522, § 2, July 30, 1966, 80 Stat. 331, related to library of musical scores, instructional texts, and other specialized materials for use of blind persons or other physically disabled residents. See [section 135a of this title](./chapter-005-library-of-congress.md#section-135a).
 
 
 <a id="section-135b"></a>
 ## § 135b. Local and regional centers; preference to blind and other physically handicapped veterans; rules and regulations; authorization of appropriations
-**(a)** The Librarian of Congress may contract or otherwise arrange with such public or other nonprofit libraries, agencies, or organizations as he may deem appropriate to serve as local or regional centers for the circulation of (1) books, recordings, and reproducers referred to in [section 135a of this title](./chapter-005-library-of-congress.md#section-135a), and (2) musical scores, instructional texts, and other specialized materials referred to in [section 135a–1 of this title](./chapter-005-library-of-congress.md#section-135a-1), under such conditions and regulations as he may prescribe. In the lending of such books, recordings, reproducers, musical scores, instructional texts, and other specialized materials, preference shall at all times be given to the needs of the blind and of the other physically handicapped persons who have been honorably discharged from the Armed Forces of the United States.
+**(a)** The Librarian of Congress may contract or otherwise arrange with such public or other nonprofit libraries, agencies, or organizations as he may deem appropriate to serve as local or regional centers for the circulation of (1) books, recordings, and reproducers referred to in [section 135a of this title](./chapter-005-library-of-congress.md#section-135a), and (2) musical scores, instructional texts, and other specialized materials referred to in section 135a–1 11 See References in Text note below. of this title, under such conditions and regulations as he may prescribe. In the lending of such books, recordings, reproducers, musical scores, instructional texts, and other specialized materials, preference shall at all times be given to the needs of the blind and of the other physically handicapped persons who have been honorably discharged from the Armed Forces of the United States.
 
 **(b)** There are authorized to be appropriated such sums as may be necessary to carry out the purposes of this section.
 
 ### Statutory Notes
+
+#### References in Text
+[Section 135a–1 of this title](./chapter-005-library-of-congress.md#section-135a-1), referred to in subsec. (a), was repealed by Pub. L. 116–94, div. P, title XIV, § 1403(b), Dec. 20, 2019, 133 Stat. 3207. See [section 135a of this title](./chapter-005-library-of-congress.md#section-135a).
 
 #### Amendments
 1966—Pub. L. 89–522 extended Librarian’s authority to arrange for local and regional centers by authorizing him to contract with public or other nonprofit libraries, agencies, or organizations, extended field to include recordings, reproducers, musical scores, instructional texts, and other materials, substituted “Armed Forces of the United States” for “United States military or naval service”, and extended veteran preference to include other physically handicapped individuals in addition to blind persons.
@@ -258,11 +292,13 @@ Notwithstanding any other provision of law—
 
 (1) the Librarian of Congress shall be compensated at an annual rate of pay which is equal to the annual rate of basic pay payable for positions at level II of the Executive Schedule under [section 5313 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5313&num=0&edition=prelim); and
 
-(2) the Deputy Librarian of Congress shall be compensated at an annual rate of pay which is equal to the annual rate of basic pay payable for positions at level III of the Executive Schedule under [section 5314 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5314&num=0&edition=prelim).
+(2) the Deputy Librarian of Congress shall be compensated at the greater of the rate of pay in effect for level III of the Executive Schedule under [section 5314 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5314&num=0&edition=prelim) or the maximum annual rate of basic pay payable under section 5376 of such title for positions at agencies with a performance appraisal system certified under section 5307(d) of such title.
 
 ### Statutory Notes
 
 #### Amendments
+2019—Par. (2). Pub. L. 116–94 amended par. (2) generally. Prior to amendment, text read as follows: “the Deputy Librarian of Congress shall be compensated at an annual rate of pay which is equal to the annual rate of basic pay payable for positions at level III of the Executive Schedule under [section 5314 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5314&num=0&edition=prelim).”
+
 1999—Pub. L. 106–57 amended section generally. Prior to amendment, section read as follows:
 
 “(a) Subject to subsection (b) of this section and notwithstanding any other provision of law—
@@ -1170,6 +1206,19 @@ Act Oct. 28, 1949, ch. 782, cited as a credit to this section, was repealed (sub
 #### References in Text
 Section 205(g)(1) of the Legislative Branch Appropriations Act, 1991, referred to in subsec. (a)(1)(A), is section 205(g)(1) of Pub. L. 101–520, which is set out as a note under [section 141 of this title](./chapter-005-library-of-congress.md#section-141).
 
+#### Funding for Little Scholars Child Development Center and Tiny Findings Child Development Center
+Pub. L. 116–159, div. A, § 159, Oct. 1, 2020, 134 Stat. 721, provided that: “Notwithstanding any other provision of this Act [div. A of Pub. L. 116–159, see Tables for classification]— “(1) the authority of the Library of Congress to reimburse the Little Scholars Child Development Center at the Library of Congress under section 19004 of the CARES Act ([2 U.S.C. 162b](./chapter-005-library-of-congress.md#section-162b) note; 134 Stat. 578) shall remain in effect with respect to salaries incurred until the termination of the public health emergency declared pursuant to section 319 of the Public Health Service Act ([42 U.S.C. 247d](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section247d&num=0&edition=prelim)) resulting from the COVID–19 pandemic; and “(2) the authority of the Government Accountability Office to reimburse the Tiny Findings Child Development Center under section 19009 of the CARES Act (134 Stat. 579) shall remain in effect with respect to salaries incurred until the termination of the public health emergency declared pursuant to section 319 of the Public Health Service Act ([42 U.S.C. 247d](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section247d&num=0&edition=prelim)) resulting from the COVID–19 pandemic.”
+
+(3) [Amended section 19005(a) of Pub. L. 116–136, set out as a note under 1816b of this title.]
+
+#### Source of Funds Used for Payment of Salaries and Expenses of Little Scholars Child Development Center
+Pub. L. 116–136, div. B, title IX, § 19004, Mar. 27, 2020, 134 Stat. 578, as amended by Pub. L. 116–260, div. O, title XI, § 1101(b)(1), (2), Dec. 27, 2020, 134 Stat. 2156, 2157, provided that: “(a) Reimbursements.—During the period beginning on the date of enactment of the Consolidated Appropriations Act, 2021 [Dec. 27, 2020] and ending on the termination date of the public health emergency declared pursuant to section 319 of the Public Health Service Act ([42 U.S.C. 247d](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section247d&num=0&edition=prelim)) resulting from the COVID–19 pandemic, the Library of Congress shall reimburse the Little Scholars Child Development Center for expenses, due to measures taken in the Capitol complex to combat coronavirus, as calculated under subsection (b) and from amounts in the appropriations account ‘Library of Congress—Salaries and Expenses’. “(b) Amount.—The amount of the reimbursement under this section for each month of the period described in subsection (a) shall be equal to the difference between—“(1) the lesser of—“(A) the amount of the operating costs (including payroll, general, and administrative expenses) of the Center for such month; or “(B) $118,500; and “(2) the amount of tuition payments collected by the Center for such month.”
+
+[For definition of “coronavirus” as used in section 19004 of Pub. L. 116–136, set out above, see section 23005 of Pub. L. 116–136, set out below.]
+
+#### Definition
+Pub. L. 116–136, div. B, title XIII, § 23005, Mar. 27, 2020, 134 Stat. 614, provided that: “In this Act [div. B of Pub. L. 116–136, see Tables for classification], the term ‘coronavirus’ means SARS–CoV–2 or another coronavirus with pandemic potential.”
+
 
 <a id="section-163"></a>
 ## § 163. Omitted
@@ -1219,15 +1268,15 @@ There is authorized to be appropriated annually for carrying out the provisions 
 
 (2) the Librarian of Congress shall grant and accord to the Congressional Research Service complete research independence and the maximum practicable administrative independence consistent with these objectives.
 
-**(c) Appointment and compensation of Director, Deputy Director, and other necessary personnel; minimum grade for Senior Specialists; placement in grades GS–16, 17, and 18 of Specialists and Senior Specialists; appointment without regard to civil service laws and political affiliation and on basis of fitness to perform duties**
+**(c) Appointment and compensation of Director, Deputy Director, and other necessary personnel; minimum grade for Senior Specialists; classification above GS–15 of Specialists and Senior Specialists; appointment without regard to civil service laws and political affiliation and on basis of fitness to perform duties**
 
-(1) After consultation with the Joint Committee on the Library, the Librarian of Congress shall appoint the Director of the Congressional Research Service. The basic pay of the Director shall be at a per annum rate equal to the rate of basic pay provided for level III of the Executive Schedule under [section 5314 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5314&num=0&edition=prelim).
+(1) After consultation with the Joint Committee on the Library, the Librarian of Congress shall appoint the Director of the Congressional Research Service. The Director shall be compensated at the greater of the rate of pay in effect for level III of the Executive Schedule under [section 5314 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5314&num=0&edition=prelim) or the maximum annual rate of basic pay payable under section 5376 of such title for positions at agencies with a performance appraisal system certified under section 5307(d) of such title.
 
-(2) The Librarian of Congress, upon the recommendation of the Director, shall appoint a Deputy Director of the Congressional Research Service and all other necessary personnel thereof. The basic pay of the Deputy Director shall be fixed in accordance with chapter 51 (relating to classification) and subchapter III (relating to General Schedule pay rates) of chapter 53 of title 5, but without regard to section 5108(a) of such title. The basic pay of all other necessary personnel of the Congressional Research Service shall be fixed in accordance with chapter 51 (relating to classification) and subchapter III (relating to General Schedule pay rates) of chapter 53 of title 5, except that—
+(2) The Librarian of Congress, upon the recommendation of the Director, shall appoint a Deputy Director of the Congressional Research Service and all other necessary personnel thereof. The basic pay of the Deputy Director shall be fixed in accordance with chapter 51 (relating to classification) and [section 5376 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5376&num=0&edition=prelim). The basic pay of all other necessary personnel of the Congressional Research Service shall be fixed in accordance with chapter 51 (relating to classification) and subchapter III (relating to General Schedule pay rates) of chapter 53 of title 5, except that—
 
   (A) the grade of Senior Specialist in each field within the purview of subsection (e) of this section shall not be less than the highest grade in the executive branch of the Government to which research analysts and consultants, without supervisory responsibility, are currently assigned; and
 
-  (B) the positions of Specialist and Senior Specialist in the Congressional Research Service may be placed in GS–16, 17, and 18 of the General Schedule of [section 5332 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5332&num=0&edition=prelim), without regard to section 5108(a) of such title, subject to the prior approval of the Joint Committee on the Library, of the placement of each such position in any of such grades.
+  (B) the positions of Specialist and Senior Specialist in the Congressional Research Service may be classified above GS–15 in accordance with [section 5108(c) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5108/c&num=0&edition=prelim), and the rate of basic pay for such positions may be fixed in accordance with section 5376 of such title, subject to the prior approval of the Joint Committee on the Library.
 
 (3) Each appointment made under paragraphs (1) and (2) of this subsection and subsection (e) of this section shall be without regard to the civil service laws, without regard to political affiliation, and solely on the basis of fitness to perform the duties of the position.
 
@@ -1342,6 +1391,12 @@ Such Specialists and Senior Specialists, together with such other employees of t
 Section 124 of the Legislative Branch Appropriations Act, 2018, referred to in subsecs. (d)(9) and (i), probably should be section 154 of the Legislative Branch Appropriations Act, 2018, Pub. L. 115–141, div. I, title I, Mar. 23, 2018, 132 Stat. 787. Section 154 of Pub. L. 115–141 enacted [section 166a of this title](./chapter-005-library-of-congress.md#section-166a), related to equal access to Congressional Research Service Reports, and amended this section. Div. I of Pub. L. 115–141 does not contain a section 124.
 
 #### Amendments
+2019—Subsec. (c)(1). Pub. L. 116–94, § 1404(a)(2), substituted “The Director shall be compensated at the greater of the rate of pay in effect for level III of the Executive Schedule under [section 5314 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5314&num=0&edition=prelim) or the maximum annual rate of basic pay payable under section 5376 of such title for positions at agencies with a performance appraisal system certified under section 5307(d) of such title.” for “The basic pay of the Director shall be at a per annum rate equal to the rate of basic pay provided for level III of the Executive Schedule under [section 5314 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5314&num=0&edition=prelim).”
+
+Subsec. (c)(2). Pub. L. 116–94, § 1404(b)(1)(A), substituted “[section 5376 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5376&num=0&edition=prelim).” for “subchapter III (relating to General Schedule pay rates) of chapter 53 of title 5, but without regard to section 5108(a) of such title.” in introductory provisions.
+
+Subsec. (c)(2)(B). Pub. L. 116–94, § 1404(b)(1)(B), substituted “may be classified above GS–15 in accordance with [section 5108(c) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5108/c&num=0&edition=prelim), and the rate of basic pay for such positions may be fixed in accordance with section 5376 of such title, subject to the prior approval of the Joint Committee on the Library.” for “may be placed in GS–16, 17, and 18 of the General Schedule of [section 5332 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5332&num=0&edition=prelim), without regard to section 5108(a) of such title, subject to the prior approval of the Joint Committee on the Library, of the placement of each such position in any of such grades.”
+
 2018—Subsec. (d)(9). Pub. L. 115–141, § 154(d), added par. (9).
 
 Subsec. (i). Pub. L. 115–141, § 154(b)(7), substituted “, and shall include in the report a description of the efforts made by the Director to make additional Congressional Research Service products that are not confidential products or services available to the Librarian of Congress for publication on the website established and maintained under section 124 of the Legislative Branch Appropriations Act, 2018.” for period at end.
@@ -2680,7 +2735,7 @@ Section is from the Legislative Branch Appropriations Act, 2006.
 
 (3) provide a means of keeping the Librarian of Congress and the Congress fully and currently informed about problems and deficiencies relating to the administration and operations of the Library of Congress.
 
-**(c) Appointment of Inspector General; supervision; removal**
+**(c) Appointment of Inspector General; supervision; removal; pay; limits on bonuses; counsel**
 
 (1) **Appointment and supervision**
 
@@ -2694,17 +2749,103 @@ Section is from the Legislative Branch Appropriations Act, 2006.
 
     (iii) issuing any report.
 
-(2) **Removal** — The Inspector General may be removed from office by the Librarian of Congress. The Librarian of Congress shall, promptly upon such removal, communicate in writing the reasons for any such removal to each House of the Congress.
+(2) **Removal or transfer**
+
+  (A) *In general* — The Inspector General may be removed from office, or transferred to another position within, or another location of, the Library of Congress, by the Librarian of Congress.
+
+  (B) *Notice* — Not later than 30 days before the Librarian of Congress removes or transfers the Inspector General under subparagraph (A), the Librarian of Congress shall communicate in writing the reason for the removal or transfer to—
+
+    (i) the Committee on House Administration and the Committee on Appropriations of the House of Representatives; and
+
+    (ii) the Committee on Rules and Administration and the Committee on Appropriations of the Senate.
+
+  (C) *Applicability* — Nothing in this paragraph shall prohibit a personnel action (except for removal or transfer) that is otherwise authorized by law.
+
+(3) **Pay**
+
+  (A) *In general* — The position of Inspector General shall—
+
+    (i) be classified as a position above GS–15 in accordance with [section 5108 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5108&num=0&edition=prelim); and
+
+    (ii) have a rate of basic pay that is not less than the average rate of basic pay of all other employees in positions classified as above GS–15 of the Library of Congress calculated on an annual basis.
+
+  (B) *Adjustments* — The Librarian of Congress shall establish the amount of the annual adjustment in the rate of basic pay for the Inspector General in an amount equal to the average of the annual adjustments in the rate of basic pay provided to all other employees in positions classified as above GS–15 of the Library of Congress, in a manner consistent with [section 5376 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5376&num=0&edition=prelim).
+
+(4) **No bonuses** — The Inspector General may not receive any cash award or cash bonus, including a cash award under chapter 45 of title 5.
+
+(5) **Counsel** — The Inspector General shall, in accordance with applicable laws and regulations governing selections, appointments, and employment at the Library of Congress, obtain legal advice from a counsel reporting directly to the Inspector General or another Inspector General.
 
 **(d) Duties, responsibilities, authority, and reports**
 
-(1) **In general** — Sections 4, 5 (other than subsections 11 So in original. Probably should be “subsection”. (a)(13)), 6(a) (other than paragraphs (7) and (8) thereof), and 7 of the Inspector General Act of 1978 (5 U.S.C. App.) shall apply to the Inspector General of the Library of Congress and the Office of such Inspector General and such sections shall be applied to the Library of Congress and the Librarian of Congress by substituting—
+(1) **In general** — Sections 4, 5 (other than subsection (a)(13)), 6 (other than subsection (a)(7)), and 7 of the Inspector General Act of 1978 (5 U.S.C. App.) shall apply to the Inspector General of the Library of Congress and the Office of such Inspector General and such sections shall be applied to the Library of Congress and the Librarian of Congress by substituting—
 
   (A) “Library of Congress” for “establishment”; and
 
   (B) “Librarian of Congress” for “head of the establishment”.
 
-(2) **Employees** — The Inspector General, in carrying out the provisions of this section, is authorized to select, appoint, and employ such officers and employees (including consultants) as may be necessary for carrying out the functions, powers, and duties of the Office of Inspector General subject to the provisions of law governing selections, appointments, and employment in the Library of Congress.
+(2) **Employees**
+
+  (A) *In general* — The Inspector General, in carrying out the provisions of this section, is authorized, without the supervision or approval of any other employee, office, or other entity within the Library of Congress, to select, appoint, and employ such officers and employees (including consultants) as may be necessary for carrying out the functions, powers, and duties of the Office of Inspector General subject to the provisions of law governing selections, appointments, and employment in the Library of Congress.
+
+  (B) *Security and suitability* — Appointments under the authority under subparagraph (A) shall be made consistent with personnel security and suitability requirements.
+
+  (C) *Consultants* — Any appointment of a consultant under the authority under subparagraph (A) shall be made consistent with section 6(a)(8) of the Inspector General Act of 1978 (5 U.S.C. App.).
+
+(3) **Law enforcement authority**
+
+  (A) *In general* — Subject to subparagraph (B), any supervisory special agent under the Inspector General and any special agent supervised by such a supervisory special agent is authorized to—
+
+    (i) make an arrest without a warrant while engaged in official duties as authorized under this section or any other statute for any offense against the United States committed in the presence of such supervisory special agent or special agent, or for any felony cognizable under the laws of the United States if such supervisory special agent or special agent has reasonable grounds to believe that the person to be arrested has committed or is committing such felony;
+
+    (ii) seek and execute warrants for arrest, search of a premises, or seizure of evidence issued under the authority of the United States upon probable cause to believe that a violation has been committed; and
+
+    (iii) carry a firearm while engaged in official duties as authorized under this section or any other statute.
+
+  (B) *Requirements to exercise authority*
+
+    (i) *Required certification*
+
+      (I) *In general* — In order to exercise the authority under subparagraph (A), a supervisory special agent or a special agent supervised by such a supervisory special agent shall certify that he or she—
+
+        (aa) is a citizen of the United States;
+
+        (bb) has successfully completed a basic law enforcement training program or military or other equivalent; and
+
+        (cc) is not prohibited from receiving a firearm under Federal law, including under [section 922(g)(9) of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section922/g/9&num=0&edition=prelim), because of a conviction of a misdemeanor crime of domestic violence.
+
+      (II) *Additional requirements* — After providing notice to the appropriate committees of Congress, the Inspector General may add requirements to the certification required under subclause (I), as determined appropriate by the Inspector General.
+
+    (ii) *Maintenance of requirements* — The Inspector General shall maintain firearms-related requirements (including quarterly firearms qualifications) and use of force training requirements that, except to the extent the Inspector General determines necessary to effectively carry out the duties of the Office of the Inspector General, are in accordance with the Council of the Inspectors General on Integrity and Efficiency use of force policies, which incorporate Department of Justice guidelines.
+
+    (iii) *Eligibility determination*
+
+      (I) *In general* — The Inspector General shall—
+
+        (aa) determine whether an individual meets the requirements under this paragraph; and
+
+        (bb) revoke any authority granted to an individual under subparagraph (A) if the individual is not in compliance with the requirements of this paragraph.
+
+      (II) *Reauthorization* — The Inspector General may reauthorize an individual to exercise the authority granted under subparagraph (A) if the Inspector General determines the individual has achieved compliance with the requirements under this paragraph.
+
+      (III) *Limitation on appeal* — A revocation of the authority granted under subparagraph (A) shall not be subject to administrative, judicial, or other review, unless the revocation results in an adverse action. Such an adverse action may, at the election of the applicable individual, be reviewed in accordance with the otherwise applicable procedures.
+
+  (C) *Semiannual certification of program*
+
+    (i) *In general* — Before the first grant of authority under subparagraph (A), and semiannually thereafter as part of the report under section 5 of the Inspector General Act of 1978 (5 U.S.C. App.), the Inspector General shall submit to the appropriate committees of Congress a written certification that adequate internal safeguards and management procedures exist that, except to the extent the Inspector General determines necessary to effectively carry out the duties of the Office of the Inspector General, are in compliance with standards established by the Council of the Inspectors General on Integrity and Efficiency, which incorporate Department of Justice guidelines, to ensure proper exercise of the powers authorized under this paragraph.
+
+    (ii) *Suspension of authority* — The authority granted under this paragraph (including any grant of authority to an individual under subparagraph (A), without regard to whether the individual is in compliance with subparagraph (B)) may be suspended by the Inspector General if the Office of Inspector General fails to comply with the reporting and review requirements under clause (i) of this subparagraph or subparagraph (D). Any suspension of authority under this clause shall be reported to the appropriate committees of Congress.
+
+  (D) *Peer review* — To ensure the proper exercise of the law enforcement powers authorized under this paragraph, the Office of Inspector General shall submit to and participate in the external review process established by the Council of the Inspectors General on Integrity and Efficiency for ensuring that adequate internal safeguards and management procedures continue to exist. Under the review process, the exercise of the law enforcement powers by the Office of Inspector General shall be reviewed periodically by another Office of Inspector General or by a committee of Inspectors General. The results of each review shall be communicated in writing to the Inspector General, the Council of the Inspectors General on Integrity and Efficiency, and the appropriate committees of Congress.
+
+  (E) *Alleged misconduct* — Any allegation of misconduct by an individual granted authority under subparagraph (A) may be reviewed by the Integrity Committee of the Council of the Inspectors General on Integrity and Efficiency.
+
+  (F) *Appropriate committees of Congress* — In this paragraph, the term “appropriate committees of Congress” means—
+
+    (i) the Committee on Rules and Administration and the Committee on Appropriations of the Senate; and
+
+    (ii) the Committee on House Administration and the Committee on Appropriations of the House of Representatives.
+
+(4) **Budget independence** — The Librarian of Congress shall include the annual budget request of the Inspector General in the budget of the Library of Congress without change.
 
 **(e) Transfers** All functions, personnel, and budget resources of the Office of Investigations of the Library of Congress are transferred to the Office of Inspector General.
 
@@ -2717,12 +2858,26 @@ Section is from the Legislative Branch Appropriations Act, 2006.
 ### Statutory Notes
 
 #### References in Text
-The Inspector General Act of 1978, referred to in subsec. (d)(1), is Pub. L. 95–452, Oct. 12, 1978, 92 Stat. 1101, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
+The Inspector General Act of 1978, referred to in subsec. (d)(1), (2)(C), (3)(C)(i), is Pub. L. 95–452, Oct. 12, 1978, 92 Stat. 1101, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Codification
 Section is from the Legislative Branch Appropriations Act, 2006.
 
 #### Amendments
+2019—Subsec. (c). Pub. L. 116–94, § 1602(a)(1)(A), inserted “; pay; limits on bonuses; counsel” after “removal” in heading.
+
+Subsec. (c)(2). Pub. L. 116–94, § 1602(a)(1)(B), added par. (2) and struck out former par. (2). Prior to amendment, text read as follows: “The Inspector General may be removed from office by the Librarian of Congress. The Librarian of Congress shall, promptly upon such removal, communicate in writing the reasons for any such removal to each House of the Congress.”
+
+Subsec. (c)(3) to (5). Pub. L. 116–94, § 1602(a)(1)(C), added pars. (3) to (5).
+
+Subsec. (d)(1). Pub. L. 116–94, § 1602(a)(2), substituted “Sections 4, 5 (other than subsection (a)(13)), 6 (other than subsection (a)(7)), and 7” for “Sections 4, 5 (other than subsections (a)(13)), 6(a) (other than paragraphs (7) and (8) thereof), and 7”.
+
+Subsec. (d)(2). Pub. L. 116–94, § 1605(a), designated existing provisions as subpar. (A), inserted subpar. heading and “, without the supervision or approval of any other employee, office, or other entity within the Library of Congress,” after “is authorized”, and added subpars. (B) and (C).
+
+Subsec. (d)(3). Pub. L. 116–94, § 1603(a), added par. (3).
+
+Subsec. (d)(4). Pub. L. 116–94, § 1604(a)(1), added par. (4).
+
 2010—Subsec. (b)(1). Pub. L. 111–145 repealed Pub. L. 110–161, § 1004(d)(3). See 2007 Amendment note below.
 
 2008—Subsec. (b)(1). Pub. L. 110–178 inserted “, except that nothing in this paragraph may be construed to authorize the Inspector General to audit or investigate any operations or activities of the United States Capitol Police” before semicolon at end.

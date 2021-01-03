@@ -130,6 +130,10 @@ Section was enacted as part of the Departments of Labor, Health and Human Servic
 #### Similar Provisions
 Similar provisions were contained in the following appropriation acts:
 
+Pub. L. 116–260, div. H, title I, Dec. 27, 2020, 134 Stat. 1558.
+
+Pub. L. 116–94, div. A, title I, Dec. 20, 2019, 133 Stat. 2547.
+
 Pub. L. 115–245, div. B, title I, Sept. 28, 2018, 132 Stat. 3058.
 
 Pub. L. 115–141, div. H, title I, Mar. 23, 2018, 132 Stat. 706.
@@ -488,14 +492,14 @@ Amendment by Pub. L. 95–164 effective 120 days after Nov. 9, 1977, except as o
 #### Effective Date
 Section operative 90 days after Dec. 30, 1969, except to the extent an earlier date is specifically provided for in Pub. L. 91–173, see section 509 of Pub. L. 91–173, set out as a note under [section 801 of this title](./chapter-022-mine-safety-and-health.md#section-801).
 
-#### Transfer of Functions
-Functions vested by law in Office of Science and Technology and in Director or Deputy Director of Office of Science and Technology transferred to Director of National Science Foundation, and Office of Science and Technology, including offices of Director and Deputy Director, provided for by sections 1 and 2 of Reorg. Plan No. 2, of 1962, eff. June 8, 1962, 27 F.R. 5419, 76 Stat. 1253, abolished by sections 2 and 3(a)(5) of Reorg. Plan No. 1 of 1973, eff. July 1, 1973, 38 F.R. 9579, 87 Stat. 1089, both set out in the Appendix to Title 5, Government Organization and Employees.
-
 #### Termination of Advisory Committees
 Advisory committees in existence on Jan. 5, 1973, to terminate not later than the expiration of the 2-year period following Jan. 5, 1973, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided by law. Advisory committees established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided by law. See section 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 776, set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### References in Other Laws to GS–16, 17, or 18 Pay Rates
 References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 [title I, § 101(c)(1)] of Pub. L. 101–509, set out in a note under [section 5376 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5376&num=0&edition=prelim).
+
+#### Transfer of Functions
+Functions vested by law in Office of Science and Technology and in Director or Deputy Director of Office of Science and Technology transferred to Director of National Science Foundation, and Office of Science and Technology, including offices of Director and Deputy Director, provided for by sections 1 and 2 of Reorg. Plan No. 2, of 1962, eff. June 8, 1962, 27 F.R. 5419, 76 Stat. 1253, abolished by sections 2 and 3(a)(5) of Reorg. Plan No. 1 of 1973, eff. July 1, 1973, 38 F.R. 9579, 87 Stat. 1089, both set out in the Appendix to Title 5, Government Organization and Employees.
 
 
 <a id="section-817"></a>
@@ -3439,11 +3443,18 @@ The Secretary is authorized to accept lands, buildings, equipment, and other con
 
 ### Statutory Notes
 
+#### References in Text
+Secretary, referred to in text, is the Secretary of Labor as referred to in title I of division H of Pub. L. 116–260. See paragraph (2)(A) under the heading “Training and Employment Services” (134 Stat. 1548), which is not classified to the Code.
+
 #### Codification
 Section was enacted as part of the appropriation act cited as the credit to this section, and not as part of the Federal Mine Safety and Health Act of 1977 which comprises this chapter.
 
 #### Similar Provisions
 Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 116–94, div. A, title I, Dec. 20, 2019, 133 Stat. 2547.
+
+Pub. L. 115–245, div. B, title I, Sept. 28, 2018, 132 Stat. 3058.
 
 Pub. L. 115–141, div. H, title I, Mar. 23, 2018, 132 Stat. 706.
 

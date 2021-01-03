@@ -44,6 +44,9 @@ Subsec. (b)(4). Pub. L. 113–280, § 2(2)(D), substituted “, and the preventi
 
 Subsec. (b)(5). Pub. L. 113–280, § 2(2)(E), struck out par. (5) which read as follows: “permanently include ‘gene doping’ among any list of prohibited substances adopted by the Agency.”
 
+#### Change of Name
+References to the United States Olympic Committee deemed to refer to the United States Olympic and Paralympic Committee, see [section 220502(c) of Title 36](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title36-section220502/c&num=0&edition=prelim), Patriotic and National Observances, Ceremonies, and Organizations.
+
 #### Short Title of 2014 Amendment
 Pub. L. 113–280, § 1, Dec. 18, 2014, 128 Stat. 3020, provided that: “This Act [amending this section and [section 2003 of this title](./chapter-025-miscellaneous-anti-drug-abuse-provisions.md#section-2003)] may be cited as the ‘United States Anti-Doping Agency Reauthorization Act’.”
 

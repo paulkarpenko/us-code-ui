@@ -47,11 +47,15 @@ The Legislative Counsel of the Senate shall be paid at an annual rate of compens
 Provisions setting forth authority for the allocation of the positions of legislative counsel to the appropriate grade in the compensation schedules of section 1112 of former Title 5 and the setting of rates of compensation thereunder by the President pro tempore of the Senate and the Speaker of the House of Representatives and prescribing the annual rate of compensation of the Legislative Counsel of the House of Representatives as an amount equal to $15,000, increased by an amount which is the same percentage of $15,000 as the percentage set forth in section 4(c) of the Federal Employees Salary Increase Act of 1955 were omitted in view of nonapplicability of section to Speaker, employee, etc., of the House of Representatives pursuant to section 531 of Pub. L. 91–510, set out as a note under [section 281 of this title](./chapter-009-office-of-legislative-counsel.md#section-281). See [section 282b of this title](./chapter-009-office-of-legislative-counsel.md#section-282b) for provisions setting forth compensation of Legislative Counsel of House of Representatives.
 
 #### Amendments
-1975—Pub. L. 94–59 substituted “an annual rate of compensation of $40,000” for “a gross annual compensation of $38,760 per annum” as the rate of compensation of the Legislative Counsel of the Senate, effective July 1, 1975.
+2019—Pub. L. 116–94, § 212(a)(3)(H), repealed Pub. L. 88–426, § 203(g). See 1964 Amendment note below.
+
+Pub. L. 116–94, § 212(a)(3)(A), repealed Pub. L. 94–59, § 105. See 1975 Amendment note below.
+
+1975—Pub. L. 94–59, which substituted “an annual rate of compensation of $40,000” for “a gross annual compensation of $38,760 per annum” as the rate of compensation of the Legislative Counsel of the Senate, effective July 1, 1975, was repealed by Pub. L. 116–94, § 212(a)(3)(A). See above.
 
 1974—Pub. L. 93–371 substituted provisions authorizing the Legislative Counsel of the Senate to be paid at an annual rate of compensation of $38,760, for provisions setting forth the gross annual compensation of the Legislative Counsel as $27,500 per annum, effective July 1, 1974.
 
-1964—Pub. L. 88–426 provided that the compensation of the Legislative Counsel of the Senate shall be at the rate of $27,500 per annum.
+1964—Pub. L. 88–426, which provided that the compensation of the Legislative Counsel of the Senate shall be at the rate of $27,500 per annum, was repealed by Pub. L. 116–94, § 212(a)(3)(H). See above.
 
 1957—Pub. L. 85–75 increased the gross compensation of the Legislative Counsel of the Senate from $15,500 to $17,500 per annum, effective July 1, 1957.
 
@@ -63,6 +67,12 @@ Provisions setting forth authority for the allocation of the positions of legisl
 
 1940—Act June 18, 1940, provided that thereafter the compensation of the Legislative Counsel of the Senate shall be at the rate of $10,000 per annum so long as the present incumbent held the position.
 
+#### Effective Date of 2019 Amendment
+Amendment by Pub. L. 116–94 effective on the later of the first day of the first applicable pay period beginning on or after Jan. 1, 2020, or the first day of the first applicable pay period beginning on or after Dec. 20, 2019, see section 212(c) of Pub. L. 116–94, set out as a note under [section 282b of this title](./chapter-009-office-of-legislative-counsel.md#section-282b).
+
+#### Effective Date of 1974 Amendment
+Pub. L. 93–371, § 4, Aug. 13, 1974, 88 Stat. 429, provided in part that: “This paragraph [referred to here as section 4 of Pub. L. 93–371, see Tables for classification] is effective July 1, 1974.”
+
 #### Effective Date of 1949 Amendment
 Act Oct. 15, 1949, ch. 695, § 9, 63 Stat. 882, provided that: “This Act shall take effect on the first day of the first pay period which begins after the date of enactment of this Act [Oct. 15, 1949].”
 
@@ -70,7 +80,7 @@ Act Oct. 15, 1949, ch. 695, § 9, 63 Stat. 882, provided that: “This Act shall
 Act Mar. 10, 1928, ch. 167, § 23(a), 45 Stat. 279, formerly cited as a credit to this section, was repealed by Pub. L. 89–554, § 8(a), Sept. 6, 1966, 80 Stat. 647.
 
 #### 1974 Adjustment in Compensation Not To Supersede Adjustments in Compensation or Limitations by President Pro Tempore of the Senate
-Adjustment in compensation by Pub. L. 93–371 not to supersede order of President pro tempore of the Senate authorizing higher rate of compensation or any authority of the President pro tempore to adjust rates of compensation or limitations under section 4 of the Federal Pay Comparability Act of 1970, see section 4 of Pub. L. 93–371, set out in part as a note under [section 6531 of this title](./chapter-065-senate-officers-and-administration.md#section-6531).
+Pub. L. 93–371, § 4, Aug. 13, 1974, 88 Stat. 429, eff. July 1, 1974, provided in part that: “This paragraph does not supersede (1) any provision of an order of the President pro tempore of the Senate authorizing a higher rate of compensation, and (2) any authority of the President pro tempore to adjust rates of compensation or limitations referred to in this paragraph under section 4 of the Federal Pay Comparability Act of 1970 [[2 U.S.C. 4571](./chapter-045-congressional-pay-and-benefits.md#section-4571)].”
 
 #### Increases in Compensation
 Increases in compensation for officers and employees of the Senate under authority of the Federal Pay Comparability Act of 1970 (Pub. L. 91–656), see Salary Directives of the President pro tempore of the Senate, set out as notes under [section 4571 of this title](./chapter-045-congressional-pay-and-benefits.md#section-4571).
@@ -101,12 +111,12 @@ Pub. L. 95–391, title I, § 102, Sept. 30, 1978, 92 Stat. 771, provided that: 
 Pub. L. 88–248, Dec. 30, 1963, 77 Stat. 804, provided in part: “That effective July 1, 1963, one additional employee in the Office of the Legislative Counsel of the Senate may be designated as Senior Counsel, and the compensation of the additional employee so designated shall be equal to the gross per annum rate presently authorized for other employees so designated.”
 
 #### Increases in Compensation of Four Senior Counsels
-Pub. L. 94–59, title I, § 105, July 25, 1975, 89 Stat. 275, eff. July 1, 1975, provided in part that the four Senior Counsels in the Office of the Legislative Counsel of the Senate shall each be paid at an annual rate of compensation of $39,000.
+Pub. L. 94–59, title I, § 105, July 25, 1975, 89 Stat. 275, eff. July 1, 1975, which provided in part that the four Senior Counsels in the Office of the Legislative Counsel of the Senate shall each be paid at an annual rate of compensation of $39,000, was repealed by Pub. L. 116–94, div. E, title II, § 212(a)(3)(A), Dec. 20, 2019, 133 Stat. 2775.
 
 Pub. L. 93–371, § 4, Aug. 13, 1974, 88 Stat. 429, eff. July 1, 1974, provided in part that the four Senior Counsels in the Office of the Legislative Counsel of the Senate shall each be paid at an annual rate of compensation of $37,620.
 
 #### 1974 Adjustment in Compensation Not To Supersede Adjustments in Compensation or Limitations by President Pro Tempore of the Senate
-Adjustment in compensation by Pub. L. 93–371 not to supersede order of President pro tempore of the Senate authorizing higher rate of compensation or any authority of the President pro tempore to adjust rates of compensation or limitations under section 4 of the Federal Pay Comparability Act of 1970, see section 4 of Pub. L. 93–371, set out in part as a note under [section 6531 of this title](./chapter-065-senate-officers-and-administration.md#section-6531).
+Adjustment in compensation by Pub. L. 93–371 not to supersede order of President pro tempore of the Senate authorizing higher rate of compensation or any authority of the President pro tempore to adjust rates of compensation or limitations under section 4 of the Federal Pay Comparability Act of 1970, see section 4 of Pub. L. 93–371, set out in part as a note under [section 273 of this title](./chapter-009-office-of-legislative-counsel.md#section-273).
 
 #### Increases in Compensation
 Increases in compensation for officers and employees of the Senate under authority of the Federal Pay Comparability Act of 1970 (Pub. L. 91–656), see Salary Directives of the President pro tempore of the Senate, set out as notes under [section 4571 of this title](./chapter-045-congressional-pay-and-benefits.md#section-4571).
@@ -235,14 +245,11 @@ The management, supervision, and administration of the Office are vested in the 
 
 <a id="section-282b"></a>
 ## § 282b. Compensation
-**(a)** The Legislative Counsel shall be paid at a per annum gross rate equal to the rate of basic pay, as in effect from time to time, for level III of the Executive Schedule of [section 5314 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5314&num=0&edition=prelim).
+**(a)** The Legislative Counsel shall be paid at a per annum gross rate equal to the greater of $173,900 or the rate of pay in effect for such position under an order issued by the Speaker of the House of Representatives pursuant to the authority of [section 4532 of this title](./chapter-045-congressional-pay-and-benefits.md#section-4532).
 
-**(b)** Members of the staff of the Office other than the Legislative Counsel shall be paid at per annum gross rates fixed by the Legislative Counsel with the approval of the Speaker or in accordance with policies approved by the Speaker, but not in excess of the rate of basic pay for one pay level above the maximum pay level for employees of the House of Representatives provided under clause 6(c) of Rule XI of the Rules of the House of Representatives.
+**(b)** Members of the staff of the Office other than the Legislative Counsel shall be paid at per annum gross rates fixed by the Legislative Counsel with the approval of the Speaker or in accordance with policies approved by the Speaker, but not in excess of the applicable rate of pay in effect under an order issued by the Speaker of the House of Representatives pursuant to the authority of [section 4532 of this title](./chapter-045-congressional-pay-and-benefits.md#section-4532).
 
 ### Statutory Notes
-
-#### References in Text
-Clause 6(c) of Rule XI of the Rules of the House of Representatives, referred to in text, was amended generally for the One Hundred First Congress and, as so amended, does not refer to specific pay levels. The Rules were amended generally by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999, and, as so amended, provisions formerly appearing in clause 6(c) of Rule XI, as amended for the One Hundred First Congress, are now contained in clause 9(c) of Rule X.
 
 #### Codification
 Amendment by Pub. L. 95–94 is based on par. (2) of House Resolution No. 8, Ninety-fifth Congress, Jan. 4, 1977, which was enacted into permanent law by Pub. L. 95–94.
@@ -251,7 +258,14 @@ Amendment by Pub. L. 95–94 is based on par. (2) of House Resolution No. 8, Nin
 House Resolution 312, 89th Congress, Mar. 31, 1965, which was enacted into permanent law by section 103 of Pub. L. 89–90, July 27, 1965, 79 Stat. 281, provided that effective Apr. 1, 1965, the compensation of the Legislative Counsel of the House of Representatives shall be at a gross per annum rate which is equal to the gross per annum rate of compensation of the Legislative Counsel of the Senate, and that the additional sums necessary to carry out this resolution shall be paid out of the contingent fund of the House until otherwise provided by law.
 
 #### Amendments
+2019—Subsec. (a). Pub. L. 116–94, § 212(b)(3)(A)(i), substituted “equal to the greater of $173,900 or the rate of pay in effect for such position under an order issued by the Speaker of the House of Representatives pursuant to the authority of [section 4532 of this title](./chapter-045-congressional-pay-and-benefits.md#section-4532).” for “equal to the rate of basic pay, as in effect from time to time, for level III of the Executive Schedule of [section 5314 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5314&num=0&edition=prelim).”
+
+Subsec. (b). Pub. L. 116–94, § 212(b)(3)(A)(ii), substituted “in excess of the applicable rate of pay in effect under an order issued by the Speaker of the House of Representatives pursuant to the authority of [section 4532 of this title](./chapter-045-congressional-pay-and-benefits.md#section-4532).” for “in excess of the rate of basic pay for one pay level above the maximum pay level for employees of the House of Representatives provided under clause 6(c) of Rule XI of the Rules of the House of Representatives.”
+
 1977—Subsec. (b). Pub. L. 95–94 substituted provisions authorizing compensation at a rate not in excess of the rate of basic pay for one pay level above the maximum pay level for House employees provided under cl. 6(c) of Rule XI of the Rules of the House of Representatives, for provisions authorizing compensation at per annum gross rates not in excess of a per annum gross rate equal to the rate of basic pay for level V of the Executive Schedule of [section 5316 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5316&num=0&edition=prelim).
+
+#### Effective Date of 2019 Amendment
+Pub. L. 116–94, div. E, title II, § 212(c), Dec. 20, 2019, 133 Stat. 2778, provided that: “This section [see Tables for classification] and the amendments made by this section shall take effect on the later of— “(1) the first day of the first applicable pay period beginning on or after January 1, 2020; or “(2) the first day of the first applicable pay period beginning on or after the date of enactment of this Act [Dec. 20, 2019].”
 
 #### Increases in Compensation
 Increases in compensation for House officers and employees under authority of Federal Salary Act of 1967 (Pub. L. 90–206), Federal Pay Comparability Act of 1970 (Pub. L. 91–656), and Legislative Branch Appropriations Act, 1988 (Pub. L. 100–202), see sections 4531 and 4532 of this title, and Salary Directives of Speaker of the House, set out as notes under those sections.

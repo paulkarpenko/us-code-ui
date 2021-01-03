@@ -54,16 +54,16 @@ Act May 22, 1953, ch. 65, § 1, 67 Stat. 29, provided that: “This Act [enactin
 #### Separability
 Act May 22, 1953, ch. 65, title II, § 11, 67 Stat. 33, provided that: “If any provision of this Act [enacting subchapters I and II of this chapter], or any section, subsection, sentence, clause, phrase or individual word, or the application thereof to any person or circumstance is held invalid, the validity of the remainder of the Act and of the application of any such provision, section, subsection, sentence, clause, phrase or individual word to other persons and circumstances shall not be affected thereby; without limiting the generality of the foregoing, if subsection 3(a)1, 3(a)2, 3(b)1, 3(b)2, 3(b)3, or 3(c) [section 1311(a)(1), (a)(2), (b)(1), (b)(2), (b)(3), (c) of this title] or any provision of any of those subsections is held invalid, such subsection or provision shall be held separable and the remaining subsections and provisions shall not be affected thereby.”
 
-#### Naval Petroleum Reserve
-Act May 22, 1953, ch. 65, title II, § 10, 67 Stat. 33, revoked Ex. Ord. No. 10426, Jan. 16, 1953, 18 F.R. 405, “insofar as it applies to any lands beneath navigable waters as defined in section 2 hereof [this section]”. Ex. Ord. 10426 set aside certain submerged lands as a naval petroleum reserve and transferred functions with respect thereto from the Secretary of the Interior to the Secretary of the Navy.
-
-#### Application to State of Alaska
-Admission of Alaska into the Union was accomplished Jan. 3, 1959, on issuance of Proc. No. 3269, Jan. 3, 1959, 24 F.R. 81, 73 Stat. c16, as required by sections 1 and 8(c) of Pub. L. 85–508, July 7, 1958, 72 Stat. 339, set out as notes preceding [section 21 of Title 48](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title48-section21&num=0&edition=prelim), Territories and Insular Possessions.
+#### Applicability to Alaska and Hawaii
+Applicability of this chapter to the State of Hawaii, see section 5(i) of Pub. L. 86–3, Mar. 18, 1959, 73 Stat. 6, set out as a note preceding [section 491 of Title 48](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title48-section491&num=0&edition=prelim), Territories and Insular Possessions.
 
 Applicability of subchapters I and II of this chapter to the State of Alaska, see section 6(m) of Pub. L. 85–508, set out as a note preceding [section 21 of Title 48](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title48-section21&num=0&edition=prelim).
 
-#### Application to State of Hawaii
-Applicability of this chapter to the State of Hawaii, see section 5(i) of Pub. L. 86–3, Mar. 18, 1959, 73 Stat. 6, set out as a note preceding [section 491 of Title 48](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title48-section491&num=0&edition=prelim), Territories and Insular Possessions.
+#### Naval Petroleum Reserve
+Act May 22, 1953, ch. 65, title II, § 10, 67 Stat. 33, revoked Ex. Ord. No. 10426, Jan. 16, 1953, 18 F.R. 405, “insofar as it applies to any lands beneath navigable waters as defined in section 2 hereof [this section]”. Ex. Ord. 10426 set aside certain submerged lands as a naval petroleum reserve and transferred functions with respect thereto from the Secretary of the Interior to the Secretary of the Navy.
+
+#### Admission of Alaska as State
+Admission of Alaska into the Union was accomplished Jan. 3, 1959, on issuance of Proc. No. 3269, Jan. 3, 1959, 24 F.R. 81, 73 Stat. c16, as required by sections 1 and 8(c) of Pub. L. 85–508, July 7, 1958, 72 Stat. 339, set out as notes preceding [section 21 of Title 48](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title48-section21&num=0&edition=prelim), Territories and Insular Possessions.
 
 
 <a id="section-1302"></a>
@@ -411,7 +411,19 @@ It is hereby declared to be the policy of the United States that—
 ## § 1333. Laws and regulations governing lands
 **(a) Constitution and United States laws; laws of adjacent States; publication of projected State lines; international boundary disputes; restriction on State taxation and jurisdiction**
 
-(1) The Constitution and laws and civil and political jurisdiction of the United States are extended to the subsoil and seabed of the outer Continental Shelf and to all artificial islands, and all installations and other devices permanently or temporarily attached to the seabed, which may be erected thereon for the purpose of exploring for, developing, or producing resources therefrom, or any such installation or other device (other than a ship or vessel) for the purpose of transporting such resources, to the same extent as if the outer Continental Shelf were an area of exclusive Federal jurisdiction located within a State: Provided, however, That mineral leases on the outer Continental Shelf shall be maintained or issued only under the provisions of this subchapter.
+(1) **Jurisdiction of the united states on the outer continental shelf.—**
+
+  (A) *In general.—* — The Constitution and laws and civil and political jurisdiction of the United States are extended, to the same extent as if the outer Continental Shelf were an area of exclusive Federal jurisdiction located within a State, to—
+
+    (i) the subsoil and seabed of the outer Continental Shelf;
+
+    (ii) all artificial islands on the outer Continental Shelf;
+
+    (iii) installations and other devices permanently or temporarily attached to the seabed, which may be erected thereon for the purpose of exploring for, developing, or producing resources, including non-mineral energy resources; or
+
+    (iv) any such installation or other device (other than a ship or vessel) for the purpose of transporting or transmitting such resources.
+
+  (B) *Leases issued exclusively under this act.—* — Mineral or energy leases on the outer Continental Shelf shall be maintained or issued only under the provisions of this subchapter.
 
 (2)
 
@@ -449,6 +461,8 @@ The Longshore and Harbor Workers’ Compensation Act, referred to in subsec. (b)
 The National Labor Relations Act, as amended, referred to in subsec. (c), is act July 5, 1935, ch. 372, 49 Stat. 449, as amended, which is classified generally to subchapter II (§ 151 et seq.) of chapter 7 of Title 29, Labor. For complete classification of this Act to the Code, see [section 167 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section167&num=0&edition=prelim) and Tables.
 
 #### Amendments
+2021—Subsec. (a)(1). Pub. L. 116–283 amended par. (1) generally. Prior to amendment, par. (1) read as follows: “The Constitution and laws and civil and political jurisdiction of the United States are extended to the subsoil and seabed of the outer Continental Shelf and to all artificial islands, and all installations and other devices permanently or temporarily attached to the seabed, which may be erected thereon for the purpose of exploring for, developing, or producing resources therefrom, or any such installation or other device (other than a ship or vessel) for the purpose of transporting such resources, to the same extent as if the outer Continental Shelf were an area of exclusive Federal jurisdiction located within a State: Provided, however, That mineral leases on the outer Continental Shelf shall be maintained or issued only under the provisions of this subchapter.”
+
 1984—Subsec. (b). Pub. L. 98–426 substituted “Longshore and Harbor Workers’ Compensation Act” for “Longshoremen’s and Harbor Workers’ Compensation Act”.
 
 1978—Subsec. (a)(1). Pub. L. 95–372, § 203(a), substituted “, and all installations and other devices permanently or temporarily attached to the seabed, which may be erected thereon for the purpose of exploring for, developing, or producing resources therefrom, or any such installation or other device (other than a ship or vessel) for the purpose of transporting such resources,” for “and fixed structures which may be erected thereon for the purpose of exploring for, developing, removing, and transporting resources therefrom,”.
@@ -998,7 +1012,7 @@ Subsec. (i). Pub. L. 95–372, § 205(b), redesignated former subsec. (c) as (i)
 
 Subsec. (j). Pub. L. 95–372, § 205(b), redesignated former subsec. (d) as (j). Former subsec. (j), which provided that any person complaining of the cancellation of a lease by the Secretary could have the Secretary’s action reviewed in the United States District Court for the District of Columbia by filing a petition for review, was struck out. See [section 1349 of this title](./chapter-029-submerged-lands.md#section-1349).
 
-Subsecs. (k) to (o). Pub. L. 95–372, § 205(b), redesignated former subsecs. (e) to (i) as (k) to (o), respec­tively.
+Subsecs. (k) to (o). Pub. L. 95–372, § 205(b), redesignated former subsecs. (e) to (i) as (k) to (o), respectively.
 
 #### Regulations
 Pub. L. 104–58, title III, § 305, Nov. 28, 1995, 109 Stat. 566, provided that: “The Secretary shall promulgate such rules and regulations as are necessary to implement the provisions of this title [amending this section and enacting provisions set out as notes under this section] within 180 days after the enactment of this Act [Nov. 28, 1995].”

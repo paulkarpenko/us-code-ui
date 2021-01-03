@@ -10,42 +10,21 @@ source: >-
 ## § 3501. General
 **(a) Definitions.—** In this chapter:
 
-(1) **Commercial item.—** — The term “commercial item” has the meaning provided the term by [section 103 of this title](./chapter-001-chapter-1.md#section-103).
+(1) **Cost or pricing data.—** — The term “cost or pricing data” means all facts that, as of the date of agreement on the price of a contract (or the price of a contract modification) or, if applicable consistent with [section 3506(a)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section3506/a/2&num=0&edition=prelim), another date agreed upon between the parties, a prudent buyer or seller would reasonably expect to affect price negotiations significantly. The term does not include information that is judgmental, but does include factual information from which a judgment was derived.
 
-(2) **Cost or pricing data.—** — The term “cost or pricing data” means all facts that, as of the date of agreement on the price of a contract (or the price of a contract modification) or, if applicable consistent with [section 3506(a)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section3506/a/2&num=0&edition=prelim), another date agreed upon between the parties, a prudent buyer or seller would reasonably expect to affect price negotiations significantly. The term does not include information that is judgmental, but does include factual information from which a judgment was derived.
-
-(3) **Subcontract.—** — The term “subcontract” includes a transfer of commercial items between divisions, subsidiaries, or affiliates of a contractor or a subcontractor.
+(2) **Subcontract.—** — The term “subcontract” includes a transfer of commercial products or commercial services between divisions, subsidiaries, or affiliates of a contractor or a subcontractor.
 
 **(b) Regulations.—**
 
-(1) **Minimizing abuse of commercial services item authority.—** — The Federal Acquisition Regulation shall ensure that services that are not offered and sold competitively in substantial quantities in the commercial marketplace, but are of a type offered and sold competitively in substantial quantities in the commercial marketplace, may be treated as commercial items for purposes of this chapter only if the contracting officer determines in writing that the offeror has submitted sufficient information to evaluate, through price analysis, the reasonableness of the price for the services.
+(1) **Minimizing abuse of commercial services authority.—** — The Federal Acquisition Regulation shall ensure that services that are not offered and sold competitively in substantial quantities in the commercial marketplace, but are of a type offered and sold competitively in substantial quantities in the commercial marketplace, may be treated as commercial services for purposes of this chapter only if the contracting officer determines in writing that the offeror has submitted sufficient information to evaluate, through price analysis, the reasonableness of the price for the services.
 
 (2) **Information to submit.—** — To the extent necessary to make a determination under paragraph (1), the contracting officer may request the offeror to submit—
 
-  (A) prices paid for the same or similar commercial items under comparable terms and conditions by both government and commercial customers; and
+  (A) prices paid for the same or similar commercial services under comparable terms and conditions by both government and commercial customers; and
 
   (B) if the contracting officer determines that the information described in subparagraph (A) is not sufficient to determine the reasonableness of price, other relevant information regarding the basis for price or cost, including information on labor costs, material costs, and overhead rates.
 
 ### Statutory Notes
-
-#### Amendment of Section
-Pub. L. 115–232, div. A, title VIII, § 836(b)(11), (h), Aug. 13, 2018, 132 Stat. 1863, 1874, provided that, effective Jan. 1, 2020, subject to a savings provision, this section is amended as follows:
-
-(1) in subsection (a)—
-
-(A) by striking paragraph (1);
-
-(B) by redesignating paragraphs (2) and (3) as paragraphs (1) and (2), respectively; and
-
-(C) in paragraph (2) (as so redesignated), by striking “commercial items” and inserting “commercial products or commercial services”; and
-
-(2) in subsection (b)—
-
-(A) in the heading for paragraph (1), by striking “item”; and
-
-(B) in paragraphs (1) and (2)(A), by striking “commercial items” and inserting “commercial services”.
-
-See 2018 Amendment notes below.
 
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
@@ -147,30 +126,17 @@ Subsec. (g). Pub. L. 115–91, § 811(a)(2)(C), substituted “in accordance wit
 
   (B) prices set by law or regulation;
 
-(2) for the acquisition of a commercial item; or
+(2) for the acquisition of a commercial product or a commercial service; or
 
 (3) in an exceptional case when the head of the procuring activity, without delegation, determines that the requirements of this chapter may be waived and justifies in writing the reasons for the determination.
 
-**(b) Modifications of Contracts and Subcontracts for Commercial Items.—** In the case of a modification of a contract or subcontract for a commercial item that is not covered by the exception to the submission of certified cost or pricing data in paragraph (1) or (2) of subsection (a), submission of certified cost or pricing data shall not be required under [section 3502 of this title](./chapter-035-chapter-35.md#section-3502) if—
+**(b) Modifications of Contracts and Subcontracts for Commercial Products or Commercial Services.—** In the case of a modification of a contract or subcontract for a commercial product or a commercial service that is not covered by the exception to the submission of certified cost or pricing data in paragraph (1) or (2) of subsection (a), submission of certified cost or pricing data shall not be required under [section 3502 of this title](./chapter-035-chapter-35.md#section-3502) if—
 
 (1) the contract or subcontract being modified is a contract or subcontract for which submission of certified cost or pricing data may not be required by reason of paragraph (1) or (2) of subsection (a); and
 
-(2) the modification would not change the contract or subcontract from a contract or subcontract for the acquisition of a commercial item to a contract or subcontract for the acquisition of an item other than a commercial item.
+(2) the modification would not change the contract or subcontract from a contract or subcontract for the acquisition of a commercial product or a commercial service to a contract or subcontract for the acquisition of an item other than a commercial product or a commercial service.
 
 ### Statutory Notes
-
-#### Amendment of Section
-Pub. L. 115–232, div. A, title VIII, § 836(b)(12), (h), Aug. 13, 2018, 132 Stat. 1863, 1874, provided that, effective Jan. 1, 2020, subject to a savings provision, this section is amended as follows:
-
-(1) in subsection (a)(2), by striking “a commercial item” and inserting “a commercial product or a commercial service”; and
-
-(2) in subsection (b)—
-
-(A) in the heading, by striking “Commercial Items” and inserting “Commercial Products or Commercial Services”; and
-
-(B) by striking “a commercial item” each place it appears and inserting “a commercial product or a commercial service”.
-
-See 2018 Amendment notes below.
 
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
@@ -210,16 +176,13 @@ Amendment by Pub. L. 115–232 effective Jan. 1, 2020, subject to a savings prov
 
 **(b) Limitations on Authority.—** The Federal Acquisition Regulation shall include the following provisions regarding the types of information that contracting officers may require under subsection (a):
 
-(1) **Reasonable limitations.—** — Reasonable limitations on requests for sales data relating to commercial items.
+(1) **Reasonable limitations.—** — Reasonable limitations on requests for sales data relating to commercial products or commercial services.
 
-(2) **Limitation on scope of request.—** — A requirement that a contracting officer limit, to the maximum extent practicable, the scope of any request for information relating to commercial items from an offeror to only that information that is in the form regularly maintained by the offeror in commercial operations.
+(2) **Limitation on scope of request.—** — A requirement that a contracting officer limit, to the maximum extent practicable, the scope of any request for information relating to commercial products or commercial services from an offeror to only that information that is in the form regularly maintained by the offeror in commercial operations.
 
-(3) **Information not to be disclosed.—** — A statement that any information received relating to commercial items that is exempt from disclosure under [section 552(b) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section552/b&num=0&edition=prelim) shall not be disclosed by the Federal Government.
+(3) **Information not to be disclosed.—** — A statement that any information received relating to commercial products or commercial services that is exempt from disclosure under [section 552(b) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section552/b&num=0&edition=prelim) shall not be disclosed by the Federal Government.
 
 ### Statutory Notes
-
-#### Amendment of Subsection (b)
-Pub. L. 115–232, div. A, title VIII, § 836(b)(13), (h), Aug. 13, 2018, 132 Stat. 1863, 1874, provided that, effective Jan. 1, 2020, subject to a savings provision, subsection (b) of this section is amended by striking “commercial items” each place it appears and inserting “commercial products or commercial services”. See 2018 Amendment note below.
 
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
@@ -318,12 +281,9 @@ For the purpose of evaluating the accuracy, completeness, and currency of cost o
 ## § 3509. Notification of violations of Federal criminal law or overpayments
 **(a) Definition.—** In this section, the term “covered contract” means any contract in an amount greater than $5,000,000 and more than 120 days in duration.
 
-**(b) Federal Acquisition Regulation.—** The Federal Acquisition Regulation shall include, pursuant to FAR Case 2007–006 (as published at 72 Fed. Reg. 64019, November 14, 2007) or any follow-on FAR case, provisions that require timely notification by Federal contractors of violations of Federal criminal law or overpayments in connection with the award or performance of covered contracts or subcontracts, including those performed outside the United States and those for commercial items.
+**(b) Federal Acquisition Regulation.—** The Federal Acquisition Regulation shall include, pursuant to FAR Case 2007–006 (as published at 72 Fed. Reg. 64019, November 14, 2007) or any follow-on FAR case, provisions that require timely notification by Federal contractors of violations of Federal criminal law or overpayments in connection with the award or performance of covered contracts or subcontracts, including those performed outside the United States and those for commercial products or commercial services.
 
 ### Statutory Notes
-
-#### Amendment of Subsection (b)
-Pub. L. 115–232, div. A, title VIII, § 836(b)(14), (h), Aug. 13, 2018, 132 Stat. 1864, 1874, provided that, effective Jan. 1, 2020, subject to a savings provision, subsection (b) of this section is amended by striking “commercial items” and inserting “commercial products or commercial services”. See 2018 Amendment note below.
 
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |

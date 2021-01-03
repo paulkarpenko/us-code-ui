@@ -345,7 +345,7 @@ Section effective Mar. 1, 2000, see section 3299 of Pub. L. 106–65, set out as
 
 **(b) Duties**
 
-(1) The Director shall be the principal advisor to the Administrator, the Deputy Secretary of Energy, and the Secretary of Energy with respect to cost estimation and program evaluation for the Administration.
+(1) The Director shall be the principal advisor to the Administrator, the Deputy Secretary of Energy, and the Secretary of Energy with respect to cost estimation and program evaluation for the Administration. The Director shall report directly to the Administrator.
 
 (2) The Administrator may not delegate responsibility for receiving or acting on communications from the Director with respect to cost estimation and program evaluation for the Administration.
 
@@ -401,46 +401,25 @@ Section effective Mar. 1, 2000, see section 3299 of Pub. L. 106–65, set out as
 
 (2) A list of all major atomic energy defense acquisition programs and a concise description of the status of each such program and project in meeting cost and critical schedule milestones.
 
-**(h) Definitions** In this section:
+**(h) Rule of Construction** Nothing in this section shall be construed to require duplicate reviews or cost estimates for major atomic energy defense acquisition programs by the Administration or other elements of the Department of Energy.
+
+**(i) Definitions** In this section:
 
 (1) **Administration** — The term “Administration”, with respect to any authority, duty, or responsibility provided by this section, does not include the Office of Naval Reactors.
 
-(2) **Major atomic energy defense acquisition program**
+(2) **Major atomic energy defense acquisition program** — The term “major atomic energy defense acquisition program” means an atomic energy defense acquisition program of the Administration—
 
-  (A) *In general* — Except as provided in subparagraph (B), the term “major atomic energy defense acquisition program” means an atomic energy defense acquisition program of the Administration—
+  (A) the total project cost of which is more than $500,000,000; or
 
-    (i) the total project cost of which is more than $500,000,000; or
-
-    (ii) the total lifetime cost of which is more than $1,000,000,000.
-
-  (B) *Exclusion of capital assets acquisition projects* — The term “major atomic energy defense acquisition program” does not include a project covered by Department of Energy Order 413.3 (or a successor order) for the acquisition of capital assets for atomic energy defense activities.
+  (B) the total lifetime cost of which is more than $1,000,000,000.
 
 (3) **Performance baseline** — The term “performance baseline”, with respect to a major atomic energy defense acquisition program, means the key parameters with respect to performance, scope, cost, and schedule for the project budget of the program.
 
 ### Statutory Notes
 
-#### Amendment of Section
-Pub. L. 115–232, div. C, title XXXI, § 3113(a), (b), Aug. 13, 2018, 132 Stat. 2290, provided that, effective 18 months after Aug. 13, 2018, this section is amended as follows:
-
-(1) by redesignating subsection (h) as subsection (i);
-
-(2) by inserting after subsection (g) the following new subsection:
-
-“(h) Rule of Construction
-
-“Nothing in this section shall be construed to require duplicate reviews or cost estimates for major atomic energy defense acquisition programs by the Administration or other elements of the Department of Energy.”; and
-
-(3) in subsection (i)(2), as redesignated—
-
-(A) by striking the subpar. (A) designation and heading and “Except as provided in subparagraph (B), the term” and inserting “The term”;
-
-(B) by striking subparagraph (B); and
-
-(C) by redesignating clauses (i) and (ii) as subparagraphs (A) and (B), respectively, and realigning the margins.
-
-See 2018 Amendment notes below.
-
 #### Amendments
+2019—Subsec. (b)(1). Pub. L. 116–92 inserted “The Director shall report directly to the Administrator.” at end.
+
 2018—Subsecs. (h), (i). Pub. L. 115–232, § 3113(a)(1), (2), added subsec. (h) and redesignated former subsec. (h) as (i).
 
 Subsec. (i)(2). Pub. L. 115–232, § 3113(a)(3), struck out subpar. (A) designation and heading “In general”, substituted “The term” for “Except as provided in subparagraph (B), the term”, redesignated cls. (i) and (ii) as subpars. (A) and (B), respectively, realigned margins, and struck out former subpar. (B). Prior to amendment, text of subpar. (B) read as follows: “The term ‘major atomic energy defense acquisition program’ does not include a project covered by Department of Energy Order 413.3 (or a successor order) for the acquisition of capital assets for atomic energy defense activities.”
@@ -500,11 +479,13 @@ Section effective Mar. 1, 2000, see section 3299 of Pub. L. 106–65, set out as
 ## § 2423. Counterintelligence programs
 **(a) National security laboratories and nuclear weapons production facilities** The Secretary of Energy shall, at each national security laboratory and nuclear weapons production facility, establish and maintain a counterintelligence program adequate to protect national security information at that laboratory or production facility.
 
-**(b) Other facilities** The Secretary of Energy shall, at each Administration facility not described in subsection (a) at which Restricted Data is located, assign an employee of the Office of Counterintelligence of the Department of Energy who shall be responsible for and assess counterintelligence matters at that facility.
+**(b) Other facilities** The Secretary of Energy shall, at each Department facility not described in subsection (a) at which Restricted Data is located, assign an employee of the Office of Intelligence and Counterintelligence of the Department of Energy who shall be responsible for and assess counterintelligence matters at that facility.
 
 ### Statutory Notes
 
 #### Amendments
+2019—Subsec. (b). Pub. L. 116–92 substituted “Department facility” for “Administration facility” and inserted “Intelligence and” after “the Office of”.
+
 2009—Pub. L. 111–84 amended Pub. L. 109–364, § 3117(a), see 2006 Amendment note below.
 
 2006—Pub. L. 109–364, § 3117(a), which, in par. (2), directed amendment of this section by substituting “Administrator” for “Secretary of Energy” in subsecs. (a) and (b) and “Administration” for “Office of Counterintelligence of the Department of Energy” in subsec. (b), effective Sept. 30, 2010, was amended generally by Pub. L. 111–84, and as so amended, no longer contains a par. (2) or amends this section.
@@ -617,7 +598,7 @@ Section effective Mar. 1, 2000, see section 3299 of Pub. L. 106–65, set out as
 <a id="section-2441"></a>
 ## § 2441. Authority to establish certain contracting, program management, scientific, engineering, and technical positions
 
-The Administrator may, for the purposes of carrying out the responsibilities of the Administrator under this chapter, establish not more than 600 contracting, program management, scientific, engineering, and technical positions in the Administration, appoint individuals to such positions, and fix the compensation of such individuals. Subject to the limitations in the preceding sentence, the authority of the Administrator to make appointments and fix compensation with respect to positions in the Administration under this section shall be equivalent to, and subject to the limitations of, the authority under [section 2201(d) of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2201/d&num=0&edition=prelim) to make appointments and fix compensation with respect to officers and employees described in such section. To ensure that the positions established under this section are used, the Administrator, to the extent practicable, shall appoint an individual to such a position to replace the vacancy of a position not established under this section.
+The Administrator may, for the purposes of carrying out the responsibilities of the Administrator under this chapter, establish not more than 800 contracting, program management, scientific, engineering, and technical positions in the Administration, appoint individuals to such positions, and fix the compensation of such individuals. Subject to the limitations in the preceding sentence, the authority of the Administrator to make appointments and fix compensation with respect to positions in the Administration under this section shall be equivalent to, and subject to the limitations of, the authority under [section 2201(d) of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2201/d&num=0&edition=prelim) to make appointments and fix compensation with respect to officers and employees described in such section. To ensure that the positions established under this section are used, the Administrator, to the extent practicable, shall appoint an individual to such a position to replace the vacancy of a position not established under this section.
 
 ### Statutory Notes
 
@@ -625,6 +606,8 @@ The Administrator may, for the purposes of carrying out the responsibilities of 
 This chapter, referred to in text, was in the original “this title”, meaning title XXXII of div. C of Pub. L. 106–65, Oct. 5, 1999, 113 Stat. 953, as amended, which is classified principally to this chapter. For complete classification of title XXXII to the Code, see Short Title note set out under [section 2401 of this title](./chapter-041-national-nuclear-security-administration.md#section-2401) and Tables.
 
 #### Amendments
+2019—Pub. L. 116–92 substituted “800” for “600”.
+
 2013—Pub. L. 113–66, in last sentence, substituted “positions established” for “excepted positions established”, “a position” for “an excepted position”, and “position not established under this section” for “nonexcepted position”.
 
 Pub. L. 112–239, in section catchline, inserted “contracting, program management,” before “scientific” and, in text, substituted “600 contracting, program management, scientific” for “300 scientific” and inserted at end “To ensure that the excepted positions established under this section are used, the Administrator, to the extent practicable, shall appoint an individual to such an excepted position to replace the vacancy of a nonexcepted position.”
@@ -637,9 +620,9 @@ Section effective Mar. 1, 2000, see section 3299 of Pub. L. 106–65, set out as
 ## § 2441a. Authorized personnel levels of the Office of the Administrator
 **(a) Full-time equivalent personnel levels**
 
-(1) **Total number** — By October 1, 2015, the total number of employees of the Office of the Administrator may not exceed 1,690.
+(1) **Total number** — The total number of employees of the Office of the Administrator may not exceed 1,890.
 
-(2) **Excess** — For fiscal year 2016 and each fiscal year thereafter, the Administrator may not exceed the total number of employees authorized under paragraph (1) unless, during each fiscal year in which such total number exceeds 1,690, the Administrator submits to the congressional defense committees a report justifying such excess.
+(2) **Excess** — For fiscal year 2020 and each fiscal year thereafter, the Administrator may not exceed the total number of employees authorized under paragraph (1) unless, during each fiscal year in which such total number exceeds 1,890, the Administrator submits to the congressional defense committees a report justifying such excess.
 
 **(b) Counting rule**
 
@@ -663,7 +646,7 @@ Section effective Mar. 1, 2000, see section 3299 of Pub. L. 106–65, set out as
 
 **(e) Office of the Administrator employees** In this section, the term “Office of the Administrator”, with respect to the employees of the Administration, includes employees whose funding is derived from an account of the Administration titled “Federal Salaries and Expenses”.
 
-**(f) Annual report** The Administrator shall include in the budget justification materials submitted to Congress in support of the budget of the Administration for each fiscal year (as submitted with the budget of the President under [section 1105(a) of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1105/a&num=0&edition=prelim)) a report containing the following information as of the date of the report:
+**(f) Annual report** The Administrator shall include in the budget justification materials submitted to Congress in support of the budget of the Administration for each fiscal year (as submitted with the budget of the President under [section 1105(a) of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1105/a&num=0&edition=prelim)) a report containing the following information for the most recent fiscal year for which data are available:
 
 (1) The number of full-time equivalent employees of the Office of the Administrator, as counted under subsection (a).
 
@@ -675,13 +658,27 @@ Section effective Mar. 1, 2000, see section 3299 of Pub. L. 106–65, set out as
 
 (5) With respect to each contract identified under paragraph (2)—
 
-  (A) the cost of the contract; and
+  (A) identification of each appropriations account that supports the contract; and
 
-  (B) identification of the program or program direction accounts that support the contract.
+  (B) the amount obligated under the contract during the fiscal year, listed by each such account.
+
+(6) With respect to each appropriations account identified under paragraph (5)(A), the total amount obligated for contracts identified under paragraph (2).
 
 ### Statutory Notes
 
 #### Amendments
+2019—Subsec. (a)(1). Pub. L. 116–92, § 3111(a)(1)(A), (B)(i), substituted “The” for “By October 1, 2015, the” and “1,890” for “1,690”.
+
+Subsec. (a)(2). Pub. L. 116–92, § 3111(a)(1)(A), (B)(ii), substituted “2020” for “2016” and “1,890” for “1,690”.
+
+Subsec. (f). Pub. L. 116–92, § 3111(a)(2)(A), substituted “for the most recent fiscal year for which data are available” for “as of the date of the report” in introductory provisions.
+
+Subsec. (f)(5), (6). Pub. L. 116–92, § 3111(a)(2)(B), added pars. (5) and (6) and struck out former par. (5) which read as follows: “With respect to each contract identified under paragraph (2)—
+
+“(A) the cost of the contract; and
+
+“(B) identification of the program or program direction accounts that support the contract.”
+
 2016—Subsec. (f)(5). Pub. L. 114–328 added par. (5).
 
 2015—Subsec. (f). Pub. L. 114–92 added subsec. (f).
@@ -1032,37 +1029,11 @@ Pub. L. 108–136, div. C, title XXXI, § 3121(b), Nov. 24, 2003, 117 Stat. 1747
 
 
 <a id="section-2455"></a>
-## § 2455. Comptroller General assessment of adequacy of budget requests with respect to the modernization and refurbishment of the nuclear weapons stockpile
-**(a) GAO study and reports**
-
-(1) For the nuclear security budget materials submitted in each fiscal year by the Administrator, the Comptroller General of the United States shall conduct a study on whether both the budget for the fiscal year following the fiscal year in which such budget materials are submitted and the future-years nuclear security program submitted to Congress in relation to such budget under [section 2453 of this title](./chapter-041-national-nuclear-security-administration.md#section-2453) provide for funding of the nuclear security enterprise at a level that is sufficient for the modernization and refurbishment of the nuclear security enterprise.
-
-(2) Not later than 90 days after the date on which the Administrator submits the nuclear security budget materials in an even-numbered year, and not later than 150 days after the date on which the Administrator submits such materials in an odd-numbered year, the Comptroller General shall submit to the congressional defense committees a report on the study under paragraph (1), including—
-
-  (A) the findings of such study; and
-
-  (B) whether the nuclear security budget materials support the requirements for infrastructure recapitalization of the facilities of the nuclear security enterprise.
-
-**(b) Temporary suspension** The requirements of subsection (a) shall not apply with respect to the nuclear security budget materials submitted for fiscal year 2018 or 2019.
-
-**(c) Definitions** In this section:
-
-(1) The term “budget” means the budget for a fiscal year that is submitted to Congress by the President under [section 1105(a) of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1105/a&num=0&edition=prelim).
-
-(2) The term “nuclear security budget materials” means the materials submitted to Congress by the Administrator in support of the budget for a fiscal year.
+## § 2455. Repealed. Pub. L. 116–92, div. C, title XXXI, § 3132(a), Dec. 20, 2019, 133 Stat. 1958
 
 ### Statutory Notes
 
-#### Amendments
-2016—Subsecs. (b), (c). Pub. L. 114–328 added subsec. (b) and redesignated former subsec. (b) as (c).
-
-2015—Subsec. (a)(2). Pub. L. 114–92 inserted “in an even-numbered year, and not later than 150 days after the date on which the Administrator submits such materials in an odd-numbered year” before “, the Comptroller General” in introductory provisions.
-
-2013—Subsec. (a). Pub. L. 112–239, § 3132(a)(2)(A), substituted “nuclear security enterprise” for “nuclear security complex” wherever appearing.
-
-Subsec. (b)(3). Pub. L. 112–239, § 3132(a)(2)(B), struck out par. (3), which defined “nuclear security complex”.
-
-2011—Pub. L. 111–383 amended section generally. Prior to amendment, section related to biennial plan and budget assessment on the modernization and refurbishment of the nuclear security complex.
+Section, Pub. L. 106–65, div. C, title XXXII, § 3255, as added Pub. L. 111–84, div. C, title XXXI, § 3116(a), Oct. 28, 2009, 123 Stat. 2707; amended Pub. L. 111–383, div. C, title XXXI, § 3113(a), Jan. 7, 2011, 124 Stat. 4509; Pub. L. 112–239, div. C, title XXXI, § 3132(a)(2), Jan. 2, 2013, 126 Stat. 2185; Pub. L. 114–92, div. A, title X, § 1062(a), Nov. 25, 2015, 129 Stat. 988; Pub. L. 114–328, div. C, title XXXI, § 3137(c), Dec. 23, 2016, 130 Stat. 2771, related to Comptroller General assessment of adequacy of budget requests with respect to the modernization and refurbishment of the nuclear weapons stockpile.
 
 
 <a id="section-2455a"></a>
@@ -1187,7 +1158,7 @@ For purposes of this chapter:
 
 (2) The term “nuclear weapons production facility” means any of the following:
 
-  (A) The Kansas City Plant, Kansas City, Missouri.
+  (A) The Kansas City National Security Campus, Kansas City, Missouri.
 
   (B) The Pantex Plant, Amarillo, Texas.
 
@@ -1219,6 +1190,8 @@ This chapter, referred to in text, was in the original “this title”, meaning
 Executive Order No. 12958, referred to in par. (3), which was formerly set out as a note under section 435 (now section 3161) of this title, was revoked by Ex. Ord. No. 13526, § 6.2(g), Dec. 29, 2009, 75 F.R. 731.
 
 #### Amendments
+2019—Par. (2)(A). Pub. L. 116–92 substituted “National Security Campus” for “Plant”.
+
 2013—Par. (2)(C). Pub. L. 112–239, § 3132(d)(3)(A), substituted “Y–12 National Security Complex” for “Y–12 Plant”.
 
 Par. (2)(D). Pub. L. 112–239, § 3132(d)(3)(B), struck out “tritium operations facilities at the” before “Savannah River Site”.

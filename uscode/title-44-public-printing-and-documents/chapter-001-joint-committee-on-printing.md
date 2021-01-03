@@ -26,6 +26,9 @@ Last seven words in the statute, “who shall have the powers hereinafter stated
 #### Change of Name
 Committee on House Oversight of House of Representatives changed to Committee on House Administration of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999.
 
+#### Short Title of 2021 Amendment
+Pub. L. 116–283, div. H, title XCVI, § 9602(a), Jan. 1, 2021, 134 Stat. 4828, provided that: “This section [enacting [section 2912 of this title](./chapter-029-records-management-by-the-archivist-of-the-united-states-and-by-the-administrator-of-general-services.md#section-2912), amending [section 2901 of this title](./chapter-029-records-management-by-the-archivist-of-the-united-states-and-by-the-administrator-of-general-services.md#section-2901), and enacting provisions set out as a note under [section 2912 of this title](./chapter-029-records-management-by-the-archivist-of-the-united-states-and-by-the-administrator-of-general-services.md#section-2912)] may be cited as the ‘Electronic Message Preservation Act’.”
+
 #### Short Title of 2019 Amendment
 Pub. L. 115–435, title II, § 201, Jan. 14, 2019, 132 Stat. 5534, provided that: “This title [enacting [section 3520A of this title](./chapter-035-coordination-of-federal-information-policy.md#section-3520a), amending sections 3502, 3504, 3506, 3511, and 3520 of this title, and enacting provisions set out as notes under [section 3506 of this title](./chapter-035-coordination-of-federal-information-policy.md#section-3506) and [section 306 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section306&num=0&edition=prelim), Government Organization and Employees] may be cited as the ‘Open, Public, Electronic, and Necessary Government Data Act’ or the ‘OPEN Government Data Act’.”
 

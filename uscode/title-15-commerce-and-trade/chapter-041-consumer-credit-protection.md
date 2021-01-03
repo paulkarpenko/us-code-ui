@@ -125,7 +125,7 @@ Pub. L. 108–159, title II, § 213(e), Dec. 4, 2003, 117 Stat. 1979, provided t
 [For definitions of terms used in section 213(e) of Pub. L. 108–159, set out above, see section 2 of Pub. L. 108–159, set out as a Definitions note under [section 1681 of this title](./chapter-041-consumer-credit-protection.md#section-1681).]
 
 #### Federal Reserve Study of Home Equity Lending and Appropriate Interest Rate Index
-Pub. L. 103–325, title I, § 157, Sept. 23, 1994, 108 Stat. 2197, provided that during the period beginning 180 days after Sept. 23, 1994, and ending 2 years after that date, the Board of Governors of the Federal Reserve System was to conduct a study and submit to the Congress a report, including recommendations for any appropriate legislation, regarding whether consumers engaging in open end credit transactions as defined in secton 1602 of this title secured by principal dwellings have adequate Federal protection and whether a more appropriate interest rate index existed for purposes of [section 1602(bb)(1)(A) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1602/bb/1/A&num=0&edition=prelim) than the yield on Treasury securities.
+Pub. L. 103–325, title I, § 157, Sept. 23, 1994, 108 Stat. 2197, provided that during the period beginning 180 days after Sept. 23, 1994, and ending 2 years after that date, the Board of Governors of the Federal Reserve System was to conduct a study and submit to the Congress a report, including recommendations for any appropriate legislation, regarding whether consumers engaging in open end credit transactions as defined in [section 1602 of this title](./chapter-041-consumer-credit-protection.md#section-1602) secured by principal dwellings have adequate Federal protection and whether a more appropriate interest rate index existed for purposes of [section 1602(bb)(1)(A) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1602/bb/1/A&num=0&edition=prelim) than the yield on Treasury securities.
 
 #### Hearings on Home Equity Lending
 Pub. L. 103–325, title I, § 158, Sept. 23, 1994, 108 Stat. 2197, as amended by Pub. L. 111–203, title X, § 1096, July 21, 2010, 124 Stat. 2102, provided that: “(a) Hearings.—Not less than once during the 3-year period beginning on the date of enactment of this Act [Sept. 23, 1994], and regularly thereafter, the Bureau, in consultation with the Advisory Board to the Bureau, shall conduct a public hearing to examine the home equity loan market and the adequacy of existing regulatory and legislative provisions and the provisions of this subtitle [see Short Title of 1994 Amendment note above] in protecting the interests of consumers, and low-income consumers in particular. “(b) Participation.—In conducting hearings required by subsection (a), the Bureau shall solicit participation from consumers, representatives of consumers, lenders, and other interested parties.”
@@ -558,7 +558,9 @@ Pub. L. 111–203, title X, § 1100E(b), July 21, 2010, 124 Stat. 2111, provided
 
 **(d) Effective dates of regulations containing new disclosure requirements** Any regulation of the Bureau, or any amendment or interpretation thereof, requiring any disclosure which differs from the disclosures previously required by this part, part D, or part E or by any regulation of the Bureau promulgated thereunder shall have an effective date of that October 1 which follows by at least six months the date of promulgation, except that the Bureau may at its discretion take interim action by regulation, amendment, or interpretation to lengthen the period of time permitted for creditors or lessors to adjust their forms to accommodate new requirements or shorten the length of time for creditors or lessors to make such adjustments when it makes a specific finding that such action is necessary to comply with the findings of a court or to prevent unfair or deceptive disclosure practices. Notwithstanding the previous sentence, any creditor or lessor may comply with any such newly promulgated disclosure requirements prior to the effective date of the requirements.
 
-**(f) 22 So in original. No subsec. (e) has been enacted. Exemption authority**
+**(e) Disclosure for charitable mortgage loan transactions** With respect to a mortgage loan transaction involving a residential mortgage loan offered at 0 percent interest with only bonafide and reasonable fees and that is primarily for charitable purposes by an organization described in [section 501(c)(3) of title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section501/c/3&num=0&edition=prelim) and exempt from taxation under section 501(a) of such title, forms HUD–1 and GFE (as defined under section 1024.2(b) of title 12, Code of Federal Regulations) together with a disclosure substantially in the form of the Loan Model Form H–2 (as depicted in Appendix H to part 1026 of title 12, Code of Federal Regulations) shall, collectively, be an appropriate model form for purposes of subsection (b) of this section.
+
+**(f) Exemption authority**
 
 (1) **In general** — The Bureau may exempt, by regulation, from all or part of this subchapter all or any class of transactions, other than transactions involving any mortgage described in section 1602(aa) 1 of this title, for which, in the determination of the Bureau, coverage under all or part of this subchapter does not provide a meaningful benefit to consumers in the form of useful information or protection.
 
@@ -606,6 +608,8 @@ Pub. L. 111–203, title X, § 1100E(b), July 21, 2010, 124 Stat. 2111, provided
 The Real Estate Settlement Procedures Act of 1974, referred to in subsec. (b), is Pub. L. 93–533, Dec. 22, 1974, 88 Stat. 1724, which is classified principally to chapter 27 (§ 2601 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, see Short Title note set out under [section 2601 of Title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section2601&num=0&edition=prelim) and Tables.
 
 #### Amendments
+2021—Subsec. (e). Pub. L. 116–342 added subsec. (e).
+
 2010—Subsec. (a). Pub. L. 111–203, § 1100A(2), (4), substituted “Bureau” for “Board” in two places, substituted “Except with respect to the provisions of [section 1639 of this title](./chapter-041-consumer-credit-protection.md#section-1639) that apply to a mortgage referred to in [section 1602(aa) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1602/aa&num=0&edition=prelim), such regulations may contain such additional requirements,”for “Except in the case of a mortgage referred to in [section 1602(aa) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1602/aa&num=0&edition=prelim), these regulations may contain such”, and inserted “all or” after “exceptions for”.
 
 Subsec. (b). Pub. L. 111–203, § 1100A(2), (5), substituted “Bureau” for “Board” wherever appearing in last three sentences and substituted first two sentences for former first sentence which read as follows: “The Board shall publish model disclosure forms and clauses for common transactions to facilitate compliance with the disclosure requirements of this subchapter and to aid the borrower or lessee in understanding the transaction by utilizing readily understandable language to simplify the technical nature of the disclosures.”
@@ -5926,7 +5930,7 @@ Pub. L. 104–208, div. A, title II, § 2421, Sept. 30, 1996, 110 Stat. 3009–4
 ## § 1681b. Permissible purposes of consumer reports
 **(a) In general** Subject to subsection (c), any consumer reporting agency may furnish a consumer report under the following circumstances and no other:
 
-(1) In response to the order of a court having jurisdiction to issue such an order, or a subpoena issued in connection with proceedings before a Federal grand jury.
+(1) In response to the order of a court having jurisdiction to issue such an order, a subpoena issued in connection with proceedings before a Federal grand jury, or a subpoena issued in accordance with [section 5318 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section5318&num=0&edition=prelim) or [section 3486 of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section3486&num=0&edition=prelim).
 
 (2) In accordance with the written instructions of the consumer to whom it relates.
 
@@ -6190,6 +6194,8 @@ The Health Insurance Portability and Accountability Act of 1996, referred to in 
 Section 1179 of such Act, referred to in subsec. (g)(3)(B), probably means section 1179 of the Social Security Act, as added by section 262(a) of Pub. L. 104–191, title II, Aug. 21, 1996, 110 Stat. 2030, which is classified to [section 1320d–8 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1320d–8&num=0&edition=prelim), The Public Health and Welfare.
 
 #### Amendments
+2021—Subsec. (a)(1). Pub. L. 116–283 substituted “such an order, a” for “such an order, or a” and inserted “, or a subpoena issued in accordance with [section 5318 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section5318&num=0&edition=prelim) or [section 3486 of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section3486&num=0&edition=prelim)” after “grand jury”.
+
 2015—Subsec. (a)(4)(A). Pub. L. 114–94, § 80001(1), substituted “, determining the appropriate level of such payments, or enforcing a child support order, award, agreement, or judgment” for “or determining the appropriate level of such payments”.
 
 Subsec. (a)(4)(B). Pub. L. 114–94, § 80001(2)(A), substituted “parentage” for “paternity” and inserted “and” at end.
@@ -7855,6 +7861,30 @@ Section effective Jan. 1, 1993, see section 2(d) of Pub. L. 102–537, set out a
 
       (II) the term “private education loan” has the meaning given the term in [section 1650(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1650/a&num=0&edition=prelim).
 
+  (F) *Reporting information during COVID–19 pandemic*
+
+    (i) *Definitions* — In this subsection:
+
+      (I) *Accommodation* — The term “accommodation” includes an agreement to defer 1 or more payments, make a partial payment, forbear any delinquent amounts, modify a loan or contract, or any other assistance or relief granted to a consumer who is affected by the coronavirus disease 2019 (COVID–19) pandemic during the covered period.
+
+      (II) *Covered period* — The term “covered period” means the period beginning on January 31, 2020 and ending on the later of—
+
+        (aa) 120 days after March 27, 2020; or
+
+        (bb) 120 days after the date on which the national emergency concerning the novel coronavirus disease (COVID–19) outbreak declared by the President on March 13, 2020 under the National Emergencies Act ([50 U.S.C. 1601](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1601&num=0&edition=prelim) et seq.) terminates.
+
+    (ii) *Reporting* — Except as provided in clause (iii), if a furnisher makes an accommodation with respect to 1 or more payments on a credit obligation or account of a consumer, and the consumer makes the payments or is not required to make 1 or more payments pursuant to the accommodation, the furnisher shall—
+
+      (I) report the credit obligation or account as current; or
+
+      (II) if the credit obligation or account was delinquent before the accommodation—
+
+        (aa) maintain the delinquent status during the period in which the accommodation is in effect; and
+
+        (bb) if the consumer brings the credit obligation or account current during the period described in item (aa), report the credit obligation or account as current.
+
+    (iii) *Exception* — Clause (ii) shall not apply with respect to a credit obligation or account of a consumer that has been charged-off.
+
 (2) **Duty to correct and update information** — A person who—
 
   (A) regularly and in the ordinary course of business furnishes information to one or more consumer reporting agencies about the person’s transactions or experiences with any consumer; and
@@ -8028,10 +8058,15 @@ Section effective Jan. 1, 1993, see section 2(d) of Pub. L. 102–537, set out a
 
 ### Statutory Notes
 
+#### References in Text
+The National Emergencies Act, referred to in subsec. (a)(1)(F)(i)(II)(bb), is Pub. L. 94–412, Sept. 14, 1976, 90 Stat. 1255, which is classified principally to chapter 34 (§ 1601 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under [section 1601 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1601&num=0&edition=prelim) and Tables.
+
 #### Prior Provisions
 A prior section 623 of Pub. L. 90–321 was renumbered section 625 and is classified to [section 1681t of this title](./chapter-041-consumer-credit-protection.md#section-1681t).
 
 #### Amendments
+2020—Subsec. (a)(1)(F). Pub. L. 116–136 added subpar. (F).
+
 2018—Subsec. (a)(1)(E). Pub. L. 115–174 added subpar. (E).
 
 2010—Subsec. (a)(7)(D). Pub. L. 111–203, § 1088(a)(11)(A), added subpar. (D) and struck out former subpar. (D) which related to duty of Board to prescribe a model disclosure.

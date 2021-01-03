@@ -12,7 +12,7 @@ source: >-
 ### Statutory Notes
 
 #### Codification
-Section 14661 was editorially reclassified as [section 40501 of Title 34](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section40501&num=0&edition=prelim), Crime Control and Law Enforcement.
+Section 14661 was editorially reclassified as former [section 40501 of Title 34](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section40501&num=0&edition=prelim), Crime Control and Law Enforcement.
 
 
 <a id="section-14662"></a>
@@ -30,7 +30,7 @@ Section 14662 was editorially reclassified as [section 40502 of Title 34](https:
 ### Statutory Notes
 
 #### Codification
-Section 14663 was editorially reclassified as [section 40503 of Title 34](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section40503&num=0&edition=prelim), Crime Control and Law Enforcement.
+Section 14663 was editorially reclassified as former [section 40503 of Title 34](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section40503&num=0&edition=prelim), Crime Control and Law Enforcement.
 
 
 <a id="section-14664"></a>

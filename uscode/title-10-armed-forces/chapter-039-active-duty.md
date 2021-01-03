@@ -80,7 +80,7 @@ Section effective Dec. 1, 1994, except as otherwise provided, see section 1691 o
 ## § 673. Consideration of application for permanent change of station or unit transfer for members on active duty who are the victim of a sexual assault or related offense
 **(a) Timely Consideration and Action.—** The Secretary concerned shall provide for timely determination and action on an application for consideration of a change of station or unit transfer submitted by a member of the armed forces serving on active duty who was a victim of a sexual assault or other offense covered by section 920, 920c, or 930 of this title (article 120, 120c, or 130 of the Uniform Code of Military Justice) so as to reduce the possibility of retaliation against the member for reporting the sexual assault or other offense.
 
-**(b) Regulations.—** The Secretary concerned shall issue regulations to carry out this section, within guidelines provided by the Secretary of Defense. These guidelines shall provide that the application submitted by a member described in subsection (a) for a change of station or unit transfer must be approved or disapproved by the member’s commanding officer within 72 hours of the submission of the application. Additionally, if the application is disapproved by the commanding officer, the member shall be given the opportunity to request review by the first general officer or flag officer in the chain of command of the member, and that decision must be made within 72 hours of submission of the request for review.
+**(b) Regulations.—** The Secretary concerned shall issue regulations to carry out this section, within guidelines provided by the Secretary of Defense. These guidelines shall provide that the application submitted by a member described in subsection (a) for a change of station or unit transfer must be approved or disapproved by the member’s commanding officer within five calendar days of the submission of the application. Additionally, if the application is disapproved by the commanding officer, the member shall be given the opportunity to request review by the first general officer or flag officer in the chain of command of the member, and that decision must be made within five calendar days of submission of the request for review.
 
 ### Statutory Notes
 
@@ -88,11 +88,16 @@ Section effective Dec. 1, 1994, except as otherwise provided, see section 1691 o
 A prior section 673 was renumbered [section 12302 of this title](./chapter-1209-active-duty.md#section-12302).
 
 #### Amendments
+2021—Subsec. (b). Pub. L. 116–283 substituted “five calendar days” for “72 hours” in two places.
+
 2017—Subsec. (a). Pub. L. 115–91 substituted “920c, or 930” for “920a, or 920c” and “120c, or 130” for “120a, or 120c”.
 
 2013—Subsec. (a). Pub. L. 113–66, § 1091(a)(8), inserted “of the Uniform Code of Military Justice” after “120c”.
 
 Subsec. (b). Pub. L. 113–66, § 1712, substituted “The Secretary concerned” for “The Secretaries of the military departments”.
+
+#### Effective Date of 2021 Amendment
+Pub. L. 116–283, div. A, title V, § 531(b), Jan. 1, 2021, 134 Stat. 3601, provided that: “The amendments made by subsection (a) [amending this section] shall take effect on the date of the enactment of this Act [Jan. 1, 2021], and shall apply to decisions on applications for permanent change of station or unit transfer made under [section 673 of title 10](./chapter-039-active-duty.md#section-673), United States Code, on or after that date.”
 
 #### Effective Date of 2017 Amendment
 Amendment by Pub. L. 115–91 effective immediately after the amendments made by div. E (§§ 5001–5542) of Pub. L. 114–328 take effect as provided for in section 5542 of that Act ([10 U.S.C. 801](./chapter-047-uniform-code-of-military-justice.md#section-801) note) [amendments effective Jan. 1, 2019], see section 1081(c)(4) of Pub. L. 115–91, set out as a note under [section 801 of this title](./chapter-047-uniform-code-of-military-justice.md#section-801).
@@ -204,7 +209,7 @@ A prior section 687, added Pub. L. 87–651, title I, § 102(a), Sept. 7, 1962, 
 
 **(b) Covered Members.—** Except as provided in subsection (d), subsection (a) applies to the following members of the armed forces:
 
-(1) A retired member of the Regular Army, Regular Navy, Regular Air Force, or Regular Marine Corps.
+(1) A retired member of the Regular Army, Regular Navy, Regular Air Force, Regular Marine Corps, or Regular Space Force.
 
 (2) A member of the Retired Reserve who was retired under section 1293, 7311, 7314, 8323, 9311, or 9314 of this title.
 
@@ -244,6 +249,8 @@ A prior section 687, added Pub. L. 87–651, title I, § 102(a), Sept. 7, 1962, 
 A prior section 688, added Pub. L. 96–513, title I, § 106, Dec. 12, 1980, 94 Stat. 2868; amended Pub. L. 98–94, title X, § 1017(b)(1)–(3), Sept. 24, 1983, 97 Stat. 669; Pub. L. 99–145, title V, § 516, Nov. 8, 1985, 99 Stat. 630; Pub. L. 102–190, div. A, title V, § 506(a), Dec. 5, 1991, 105 Stat. 1359; Pub. L. 103–160, div. A, title V, § 563, Nov. 30, 1993, 107 Stat. 1669, provided that certain retired members of the armed forces could be ordered to active duty, prior to repeal by Pub. L. 104–201, div. A, title V, § 521(a), (b), Sept. 23, 1996, 110 Stat. 2515, 2517, effective Sept. 30, 1997. See sections 688 to 690 of this title.
 
 #### Amendments
+2021—Subsec. (b)(1). Pub. L. 116–283 substituted “Regular Marine Corps, or Regular Space Force” for “or Regular Marine Corps”.
+
 2018—Subsec. (b)(2). Pub. L. 115–232 substituted “section 1293, 7311, 7314, 8323, 9311, or 9314” for “section 1293, 3911, 3914, 6323, 8911, or 8914”.
 
 Subsec. (d)(2)(A). Pub. L. 115–232 substituted “section 7311, 8323, or 9311” for “section 3911, 6323, or 8911”.
@@ -280,7 +287,9 @@ Pub. L. 104–201, div. A, title V, § 521(b), Sept. 23, 1996, 110 Stat. 2517, p
 
 (2) The period beginning on the date of the enactment of the National Defense Authorization Act for Fiscal Year 2018 and ending on December 31, 2022.
 
-**(g) High-Demand, Low-Density Military Capability Defined.—** In this section, the term “high-demand, low-density military capability” means a combat, combat support or service support capability, unit, system, or occupational specialty that the Secretary of Defense determines has funding, equipment, or personnel levels that are substantially below the levels required to fully meet or sustain actual or expected operational requirements set by regional commanders.
+**(g) Exceptions During Periods of War or National Emergency.—** The limitations in subsections (c) and (f) shall not apply during a time of war or of national emergency declared by Congress or the President.
+
+**(h) High-Demand, Low-Density Military Capability Defined.—** In this section, the term “high-demand, low-density military capability” means a combat, combat support or service support capability, unit, system, or occupational specialty that the Secretary of Defense determines has funding, equipment, or personnel levels that are substantially below the levels required to fully meet or sustain actual or expected operational requirements set by regional commanders.
 
 ### Statutory Notes
 
@@ -288,6 +297,8 @@ Pub. L. 104–201, div. A, title V, § 521(b), Sept. 23, 1996, 110 Stat. 2517, p
 The date of the enactment of the National Defense Authorization Act for Fiscal Year 2018, referred to in subsec. (f)(2), is the date of enactment of Pub. L. 115–91, which was approved Dec. 12, 2017.
 
 #### Amendments
+2021—Subsecs. (g), (h). Pub. L. 116–283 added subsec. (g) and redesignated former subsec. (g) as (h).
+
 2017—Subsec. (f). Pub. L. 115–91 substituted “outside a period as follows:” for “after December 31, 2011.” and added pars. (1) and (2).
 
 2011—Subsec. (f). Pub. L. 111–383 substituted “December 31, 2011” for “December 31, 2010”.
@@ -387,30 +398,40 @@ Section effective Sept. 30, 1997, see section 521(b) of Pub. L. 104–201, set o
 
 
 <a id="section-691"></a>
-## § 691. Permanent end strength levels to support two major regional contingencies
-**(a)** The end strengths specified in subsection (b) are the minimum strengths necessary to enable the armed forces to fulfill a national defense strategy calling for the United States to be able to successfully conduct two nearly simultaneous major regional contingencies.
+## § 691. Permanent end strength levels to support the National Defense Strategy
+**(a)** The end strengths specified in subsection (b) are the minimum strengths necessary to enable the armed forces to fulfill the national defense strategy of the United States.
 
 **(b)** Unless otherwise provided by law, the number of members of the armed forces (other than the Coast Guard) on active duty at the end of any fiscal year shall be not less than the following:
 
-(1) For the Army, 487,500.
+(1) For the Army, 485,900.
 
-(2) For the Navy, 335,400.
+(2) For the Navy, 347,800.
 
-(3) For the Marine Corps, 186,100.
+(3) For the Marine Corps, 181,200.
 
-(4) For the Air Force, 329,100.
+(4) For the Air Force, 333,475.
 
 **(c)** The budget for the Department of Defense for any fiscal year as submitted to Congress shall include amounts for funding for each of the armed forces (other than the Coast Guard) at least in the amounts necessary to maintain the active duty end strengths prescribed in subsection (b), as in effect at the time that such budget is submitted.
 
 **(d)** No funds appropriated to the Department of Defense may be used to implement a reduction of the active duty end strength for any of the armed forces (other than the Coast Guard) for any fiscal year below the level specified in subsection (b) unless the reduction in end strength for that armed force for that fiscal year is specifically authorized by law.
 
-**(e)** The Secretary of Defense may reduce a number specified in subsection (b) by not more than 2 percent.
+**(e)** The Secretary of Defense or the Secretary concerned may vary a number specified in subsection (b) in accordance with [section 115 of this title](./chapter-002-department-of-defense.md#section-115).
 
 **(f)** The number of members of the armed forces on active duty shall be counted for purposes of this section in the same manner as applies under [section 115(a)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section115/a/1&num=0&edition=prelim).
 
 ### Statutory Notes
 
 #### Amendments
+2021—Pub. L. 116–283, § 402(a)(1), substituted “the National Defense Strategy” for “two major regional contingencies” in section catchline.
+
+Subsec. (a). Pub. L. 116–283, § 402(a)(2), substituted “the national defense strategy of” for “a national defense strategy calling for” and struck out “to be able to successfully conduct two nearly simultaneous major regional contingencies” before period at end.
+
+Subsec. (b). Pub. L. 116–283, § 402(a)(3), substituted “485,900” for “480,000” in par. (1), “347,800” for “340,500” in par. (2), “181,200” for “186,200” in par. (3), and “333,475” for “332,800” in par. (4).
+
+Subsec. (e). Pub. L. 116–283, § 402(a)(4), inserted “or the Secretary concerned” after “Secretary of Defense” and substituted “vary a number specified in subsection (b) in accordance with [section 115 of this title](./chapter-002-department-of-defense.md#section-115)” for “reduce a number specified in subsection (b) by not more than 2 percent”.
+
+2019—Subsec. (b). Pub. L. 116–92 substituted “480,000” for “487,500” in par. (1), “340,500” for “335,400” in par. (2), “186,200” for “186,100” in par. (3), and “332,800” for “329,100” in par. (4).
+
 2018—Subsec. (b). Pub. L. 115–232 substituted “487,500” for “483,500” in par. (1), “335,400” for “327,900” in par. (2), “186,100” for “186,000” in par. (3), and “329,100” for “325,100” in par. (4).
 
 2017—Subsec. (b). Pub. L. 115–91 substituted “483,500” for “476,000” in par. (1), “327,900” for “323,900” in par. (2), “186,000” for “185,000” in par. (3), and “325,100” for “321,000” in par. (4).

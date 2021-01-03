@@ -2,7 +2,7 @@
 title: 15
 chapter: '22'
 heading: TRADEMARKS
-section_count: 63
+section_count: 65
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15&num=0&edition=prelim
 ---
@@ -73,12 +73,19 @@ source: >-
 
 ### Statutory Notes
 
+#### Amendment of Section
+Pub. L. 116–260, div. Q, title II, § 223(a), (c), Dec. 27, 2020, 134 Stat. 2201, provided that, effective 1 year after Dec. 27, 2020, this section is amended by adding at the end the following: “(f) Third-party submission of evidence“A third party may submit for consideration for inclusion in the record of an application evidence relevant to a ground for refusal of registration. The third-party submission shall identify the ground for refusal and include a concise description of each piece of evidence submitted in support of each identified ground for refusal. Not later than 2 months after the date on which the submission is filed, the Director shall determine whether the evidence should be included in the record of the application. The Director shall establish by regulation appropriate procedures for the consideration of evidence submitted by a third party under this subsection and may prescribe a fee to accompany the submission. If the Director determines that the third-party evidence should be included in the record of the application, only the evidence and the ground for refusal to which the evidence relates may be so included. Any determination by the Director whether or not to include evidence in the record of an application shall be final and non-reviewable, and a determination to include or to not include evidence in the record shall not prejudice any party’s right to raise any issue and rely on any evidence in any other proceeding.”
+
+See 2020 Amendment note below.
+
 #### Prior Provisions
 Subsecs. (a) to (c) are from acts Feb. 20, 1905, ch. 592, §§ 1, 2, 33 Stat. 724; May 4, 1906, ch. 2081, § 1, 34 Stat. 168; Feb. 18, 1909, ch. 144, 35 Stat. 628; Apr. 11, 1930, ch. 132, § 4, 46 Stat. 155; June 10, 1938, ch. 332, § 1, 52 Stat. 638.
 
 Subsec. (d) is from act Feb. 20, 1905, ch. 592, § 3, 33 Stat. 725.
 
 #### Amendments
+2020—Subsec. (f). Pub. L. 116–260 added subsec. (f).
+
 2002—Subsec. (d)(1). Pub. L. 107–273, § 13207(b)(1), in first sentence, substituted “specifying the date of the applicant’s first use of the mark in commerce and those goods or services specified in the notice of allowance on or in connection with which the mark is used in commerce.” for “specifying the date of the applicant’s first use of the mark in commerce and,, those goods or services specified in the notice of allowance on or in connection with which the mark is used in commerce.”
 
 Subsec. (e). Pub. L. 107–273, § 13207(b)(2), amended subsec. (e) generally. Prior to amendment, subsec. (e) required applicant not domiciled in United States to designate name and address of some person resident in the United States on whom may be served notices or process in proceedings affecting the mark and provided that notices or process be served by leaving with such person or mailing to him a copy, or upon Director if designated person cannot be found.
@@ -105,6 +112,9 @@ Subsecs. (d), (e). Pub. L. 100–667, § 103(8), (9), added subsec. (d) and rede
 
 1962—Subsec. (a)(1). Pub. L. 87–772 substituted “as to be likely, when applied to the goods of such other person, to cause confusion, or to cause mistake, or to deceive” for “as might be calculated to deceive”, and struck out “or services” after “use by others, the goods”.
 
+#### Effective Date of 2020 Amendment
+Pub. L. 116–260, div. Q, title II, § 223(c), Dec. 27, 2020, 134 Stat. 2201, provided that: “The amendment made by subsection (a) [amending this section] shall take effect 1 year after the date of enactment of this Act [Dec. 27, 2020].”
+
 #### Effective Date of 1999 Amendment
 Amendment by Pub. L. 106–113 effective 4 months after Nov. 29, 1999, see section 1000(a)(9) [title IV, § 4731] of Pub. L. 106–113, set out as a note under [section 1 of Title 35](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title35-section1&num=0&edition=prelim), Patents.
 
@@ -123,6 +133,9 @@ Amendment by Pub. L. 93–596 effective Jan. 2, 1975, see section 4 of Pub. L. 9
 
 #### Effective Date
 Section 46(a) of act July 5, 1946, provided that this chapter shall be in force and take effect one year from July 5, 1946.
+
+#### Short Title of 2020 Amendment
+Pub. L. 116–260, div. Q, title II, § 221(a), Dec. 27, 2020, 134 Stat. 2200, provided that: “This subtitle [subtitle B (§§ 221–228) of title II of div. Q of Pub. L. 116–260, enacting sections 1066a and 1066b of this title, amending this section and sections 1062, 1064, 1065, 1068, 1070, 1071, 1092, 1094, and 1116 of this title, and enacting provisions set out as notes under this section and sections 1066a, 1064, 1068, and 116 of this title] may be cited as the ‘Trademark Modernization Act of 2020’ or the ‘TM Act of 2020’.”
 
 #### Short Title of 2010 Amendment
 Pub. L. 111–146, § 1, Mar. 17, 2010, 124 Stat. 66, provided that: “This Act [amending sections 1057, 1058, 1065, 1071, and 1141k of this title] may be cited as the ‘Trademark Technical and Conforming Amendment Act of 2010’.”
@@ -164,7 +177,7 @@ Act July 5, 1946, ch. 540, 60 Stat. 427, which is classified to this chapter, is
 #### Repeal of Inconsistent Provisions; Certain Provisions Not Affected
 Act July 5, 1946, ch. 540, title XI, § 46(a), 60 Stat. 444, as amended by Pub. L. 106–43, § 6(b), Aug. 5, 1999, 113 Stat. 220, provided in part that all acts and parts of acts inconsistent with this chapter are repealed effective one year from July 5, 1946, but that “nothing contained in this Act [this chapter] shall be construed as limiting, restricting, modifying, or repealing any statute in force on the effective date of this Act [July 5, 1947] which does not relate to trademarks, or as restricting or increasing the authority of any Federal department or regulatory agency except as may be specifically provided in this Act [this chapter].”
 
-Act July 5, 1946, ch. 540, title XI, § 48, 60 Stat. 446, provided that: “Section 4 of the Act of January 5, 1905 (U.S.C., title 36, sec. 4), as amended, entitled ‘An Act to incorporate the National Red Cross’ [see [18 U.S.C. 706](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section706&num=0&edition=prelim)], and section 7 of the Act of June 15, 1916 (U.S.C., title 36, sec. 27), entitled ‘An Act to incorporate the Boy Scouts of America, and for other purposes’ [see [36 U.S.C. 30905](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title36-section30905&num=0&edition=prelim)], and the Act of June 20, 1936 (U.S.C., title 22, sec. 248), entitled ‘An Act to prohibit the commercial use of the coat of arms of the Swiss Confederation’ [see [18 U.S.C. 708](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section708&num=0&edition=prelim)], are not repealed or affected by this Act.”
+Act July 5, 1946, ch. 540, title XI, § 48, 60 Stat. 446, provided that: “Section 4 of the Act of January 5, 1905 (U.S.C., title 36, sec. 4), as amended, entitled ‘An Act to incorporate the National Red Cross’ [see [18 U.S.C. 706](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section706&num=0&edition=prelim)], and section 7 of the Act of June 15, 1916 (U.S.C., title 36, sec. 27), entitled ‘An Act to incorporate the Boy Scouts of America, and for other purposes’ [see [36 U.S.C. 30905](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title36-section30905&num=0&edition=prelim)], and the Act of June 20, 1936 (U.S.C., title 22, sec. 248), entitled ‘An Act to prohibit the commercial use of the coat of arms of the Swiss Confederation’ [see former [18 U.S.C. 708](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section708&num=0&edition=prelim)], are not repealed or affected by this Act.”
 
 #### Savings Provision
 Pub. L. 106–113, div. B, § 1000(a)(9) [title III, § 3008], Nov. 29, 1999, 113 Stat. 1536, 1501A–551, provided that: “Nothing in this title [see Short Title of 1999 Amendments note above] shall affect any defense available to a defendant under the Trademark Act of 1946 [[15 U.S.C. 1051](./chapter-022-trademarks.md#section-1051) et seq.] (including any defense under section 43(c)(4) of such Act [[15 U.S.C. 1125(c)(4)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1125/c/4&num=0&edition=prelim)] or relating to fair use) or a person’s right of free speech or expression under the first amendment of the United States Constitution.”
@@ -172,8 +185,10 @@ Pub. L. 106–113, div. B, § 1000(a)(9) [title III, § 3008], Nov. 29, 1999, 11
 #### Separability
 Act July 5, 1946, ch. 540, title XI, § 50, 60 Stat. 446, provided that: “If any provision of this Act [this chapter] or the application of such provision to any person or circumstance is held invalid, the remainder of the Act shall not be affected thereby.”
 
-#### Transfer of Functions
-For transfer of functions of other officers, employees, and agencies of Department of Commerce to Secretary of Commerce, with certain exceptions, see Reorg. Plan No. 5 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1263, set out in the Appendix to Title 5, Government Organization and Employees.
+#### Deadline for Procedures
+Pub. L. 116–260, div. Q, title II, § 223(b), Dec. 27, 2020, 134 Stat. 2201, provided that: “Not later than 1 year after the date of enactment of this Act [Dec. 27, 2020], the Director shall establish the appropriate procedures described in section 1(f) of the Trademark Act of 1946 [[15 U.S.C. 1051(f)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1051/f&num=0&edition=prelim)], as added by subsection (a).”
+
+[For definitions of terms used in section 223(b) of Pub. L. 116–260, set out above, see section 222 of Pub. L. 116–260, set out as a note below.]
 
 #### Pending Proceedings and Existing Registration and Rights Under Prior Acts
 Act July 5, 1946, ch. 540, title XI, § 46(a), 60 Stat. 444, provided in part that this chapter, except as otherwise specifically provided therein, shall not affect any suit, proceeding or appeal pending on the effective date of this chapter and that the repeal of all inconsistent acts “shall not affect the validity of registrations granted or applied for under any of said Acts prior to the effective date of this Act [July 5, 1947], or rights or remedies thereunder except as provided in sections 8, 12, 14, 15, and 47 of this Act [sections 1058, 1062, 1064, and 1065 of this title and note under this section].”
@@ -182,8 +197,14 @@ Act July 5, 1946, ch. 540, title XI, §§ 46(b), 47, 60 Stat. 445, provided: “
 
 Act July 5, 1946, ch. 540, title XI, § 49, 60 Stat. 446, provided: “Nothing herein [in this chapter] shall adversely affect the rights or the enforcement of rights in marks acquired in good faith prior to the effective date of this Act [July 5, 1947].”
 
+#### Definitions Applicable to Sections of Pub. L. 116–260
+Pub. L. 116–260, div. Q, title II, § 222, Dec. 27, 2020, 134 Stat. 2200, provided that: “In this subtitle [subtitle B (§§ 221–228) of title II of div. Q of Pub. L. 116–260, see Short Title of 2020 Amendment note above]: “(1) Director.—The term ‘Director’ means the Under Secretary of Commerce for Intellectual Property and Director of the United States Patent and Trademark Office. “(2) Trademark act of 1946.—The term ‘Trademark Act of 1946’ means the Act entitled ‘An Act to provide for the registration and protection of trademarks used in commerce, to carry out the provisions of certain international conventions, and for other purposes’, approved July 5, 1946 ([15 U.S.C. 1051](./chapter-022-trademarks.md#section-1051) et. seq) (commonly referred to as the ‘Trademark Act of 1946’ or the ‘Lanham Act’).”
+
 #### Emergency Relief From Postal Situation Affecting Trademark Cases
 Relief as to filing date of trademark application or registration and excusal of delayed fees or actions affected by postal situation beginning on Mar. 18, 1970, and ending on or about Mar. 30, 1970, see note set out under [section 111 of Title 35](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title35-section111&num=0&edition=prelim), Patents.
+
+#### Transfer of Functions
+For transfer of functions of other officers, employees, and agencies of Department of Commerce to Secretary of Commerce, with certain exceptions, see Reorg. Plan No. 5 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1263, set out in the Appendix to Title 5, Government Organization and Employees.
 
 
 <a id="section-1052"></a>
@@ -255,7 +276,7 @@ Amendment by Pub. L. 105–330 effective Oct. 30, 1998, and applicable only to a
 Pub. L. 103–465, title V, § 523, Dec. 8, 1994, 108 Stat. 4982, provided that: “The amendments made by this subtitle [subtitle B (§§ 521–523) of title V of Pub. L. 103–465, amending this section and [section 1127 of this title](./chapter-022-trademarks.md#section-1127)] take effect one year after the date on which the WTO Agreement enters into force with respect to the United States [Jan. 1, 1995].”
 
 #### Effective Date of 1993 Amendment
-Pub. L. 103–182, title III, § 335, Dec. 8, 1993, 107 Stat. 2116, provided that: “(a) In General.—Subject to subsections (b) and (c), the amendments made by this subtitle [subtitle C (§§ 331–335) of title III of Pub. L. 103–182, enacting [section 104A of Title 17](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title17-section104A&num=0&edition=prelim), Copyrights, amending this section, [section 1091 of this title](./chapter-022-trademarks.md#section-1091), and [section 104 of Title 35](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title35-section104&num=0&edition=prelim), Patents, and amending provisions set out as a note under [section 109 of Title 17](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title17-section109&num=0&edition=prelim)] take effect on the date the Agreement [North American Free Trade Agreement] enters into force with respect to the United States [Jan. 1, 1994]. “(b) Section 331.—The amendments made by section 331 [amending [section 104 of Title 35](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title35-section104&num=0&edition=prelim)] shall apply to all patent applications that are filed on or after the date of the enactment of this Act [Dec. 8, 1993]: Provided, That an applicant for a patent, or a patentee, may not establish a date of invention by reference to knowledge or use thereof, or other activity with respect thereto, in a NAFTA country, except as provided in sections 119 and 365 of title 35, United States Code, that is earlier than the date of the enactment of this Act. “(c) Section 333.—The amendments made by section 333 [amending this section and [section 1091 of this title](./chapter-022-trademarks.md#section-1091)] shall apply only to trademark applications filed on or after the date of the enactment of this Act.”
+Pub. L. 103–182, title III, § 335, Dec. 8, 1993, 107 Stat. 2116, which provided that the amendments made: (1) by sections 332, 334, and 335 of Pub. L. 103–182 took effect on the date NAFTA entered into force with respect to the United States (Jan. 1, 1994); (2) by section 331 of Pub. L. 103–182 applied to patent applications filed on or after Dec. 8, 1993; and (3) by section 333 of Pub. L. 103–182 applied only to trademark applications filed on or after Dec. 8, 1993, was repealed by Pub. L. 116–113, title VI, § 601, Jan. 29, 2020, 134 Stat. 78, effective on the date the USMCA entered into force (July 1, 2020).
 
 #### Effective Date of 1988 Amendment
 Amendment by Pub. L. 100–667 effective one year after Nov. 16, 1988, see section 136 of Pub. L. 100–667, set out as a note under [section 1051 of this title](./chapter-022-trademarks.md#section-1051).
@@ -701,7 +722,13 @@ Repeal of inconsistent provisions, effect of this chapter on pending proceedings
 ## § 1062. Publication
 **(a) Examination and publication** Upon the filing of an application for registration and payment of the prescribed fee, the Director shall refer the application to the examiner in charge of the registration of marks, who shall cause an examination to be made and, if on such examination it shall appear that the applicant is entitled to registration, or would be entitled to registration upon the acceptance of the statement of use required by [section 1051(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1051/d&num=0&edition=prelim), the Director shall cause the mark to be published in the Official Gazette of the Patent and Trademark Office: Provided, That in the case of an applicant claiming concurrent use, or in the case of an application to be placed in an interference as provided for in [section 1066 of this title](./chapter-022-trademarks.md#section-1066) the mark, if otherwise registrable, may be published subject to the determination of the rights of the parties to such proceedings.
 
-**(b) Refusal of registration; amendment of application; abandonment** If the applicant is found not entitled to registration, the examiner shall advise the applicant thereof and of the reasons therefor. The applicant shall have a period of six months in which to reply or amend his application, which shall then be reexamined. This procedure may be repeated until (1) the examiner finally refuses registration of the mark or (2) the applicant fails for a period of six months to reply or amend or appeal, whereupon the application shall be deemed to have been abandoned, unless it can be shown to the satisfaction of the Director that the delay in responding was unintentional, whereupon such time may be extended.
+**(b) Refusal of registration; amendment of application; abandonment; extensions of time to respond**
+
+(1) If the applicant is found not entitled to registration, the examiner shall notify the applicant thereof and of the reasons therefor. The applicant may reply or amend the application, which shall then be reexamined. This procedure may be repeated until the examiner finally refuses registration of the mark or the application is abandoned as described in paragraph (2).
+
+(2) After notification under paragraph (1), the applicant shall have a period of 6 months in which to reply or amend the application, or such shorter time that is not less than 60 days, as prescribed by the Director by regulation. If the applicant fails to reply or amend or appeal within the relevant time period, including any extension under paragraph (3), the application shall be deemed to have been abandoned, unless it can be shown to the satisfaction of the Director that the delay in responding was unintentional, in which case the application may be revived and such time may be extended. The Director may prescribe a fee to accompany any request to revive.
+
+(3) The Director shall provide, by regulation, for extensions of time to respond to the examiner for any time period under paragraph (2) that is less than 6 months. The Director shall allow the applicant to obtain extensions of time to reply or amend aggregating 6 months from the date of notification under paragraph (1) when the applicant so requests. However, the Director may set by regulation the time for individual periods of extension, and prescribe a fee, by regulation, for any extension request. Any request for extension shall be filed on or before the date on which a reply or amendment is due under paragraph (1).
 
 **(c) Republication of marks registered under prior acts** A registrant of a mark registered under the provisions of the Act of March 3, 1881, or the Act of February 20, 1905, may, at any time prior to the expiration of the registration thereof, upon the payment of the prescribed fee file with the Director an affidavit setting forth those goods stated in the registration on which said mark is in use in commerce and that the registrant claims the benefits of this chapter for said mark. The Director shall publish notice thereof with a reproduction of said mark in the Official Gazette, and notify the registrant of such publication and of the requirement for the affidavit of use or nonuse as provided for in subsection (b) of [section 1058 of this title](./chapter-022-trademarks.md#section-1058). Marks published under this subsection shall not be subject to the provisions of [section 1063 of this title](./chapter-022-trademarks.md#section-1063).
 
@@ -714,6 +741,8 @@ Acts March 3, 1881 and February 20, 1905, referred to in subsec. (c), are acts M
 Acts Feb. 20, 1905, ch. 592, § 6, 33 Stat. 726; Mar. 2, 1907, ch. 2573, § 2, 34 Stat. 1252.
 
 #### Amendments
+2020—Subsec. (b). Pub. L. 116–260 amended subsec. (b) generally. Prior to amendment, text read as follows: “If the applicant is found not entitled to registration, the examiner shall advise the applicant thereof and of the reasons therefor. The applicant shall have a period of six months in which to reply or amend his application, which shall then be reexamined. This procedure may be repeated until (1) the examiner finally refuses registration of the mark or (2) the applicant fails for a period of six months to reply or amend or appeal, whereupon the application shall be deemed to have been abandoned, unless it can be shown to the satisfaction of the Director that the delay in responding was unintentional, whereupon such time may be extended.”
+
 1999—Pub. L. 106–113 substituted “Director” for “Commissioner” wherever appearing.
 
 1998—Subsec. (b). Pub. L. 105–330 substituted “unintentional” for “unavoidable” in last sentence.
@@ -819,6 +848,19 @@ A petition to cancel a registration of a mark, stating the grounds relied upon, 
 
 ### Statutory Notes
 
+#### Amendment of Section
+Pub. L. 116–260, div. Q, title II, § 225(b), (g), Dec. 27, 2020, 134 Stat. 2204, 2208, provided that, effective upon the expiration of the 1-year period beginning on Dec. 27, 2020, and applicable to any mark registered before, on, or after that effective date, this section is amended as follows:
+
+(1) by striking the colon at the end of paragraph (5) and inserting a period;
+
+(2) by inserting after paragraph (5) the following:
+
+“(6) At any time after the 3-year period following the date of registration, if the registered mark has never been used in commerce on or in connection with some or all of the goods or services recited in the registration:”; and
+
+(3) in the flush text following paragraph (6), as added, by inserting “Nothing in paragraph (6) shall be construed to limit the timing applicable to any other ground for cancellation. A registration under section 1126(e) or 1141f of this title shall not be cancelled pursuant to paragraph (6) if the registrant demonstrates that any nonuse is due to special circumstances that excuse such nonuse.” after “identical certification mark is applied.”
+
+See 2020 Amendment notes below.
+
 #### References in Text
 Acts March 3, 1881 and February 20, 1905, referred to in opening par. and pars. (2) and (4), are acts Mar. 3, 1881, ch. 138, 21 Stat. 502 and Feb. 20, 1905, ch. 592, 33 Stat. 724, which were repealed insofar as inconsistent with this chapter by act July 5, 1946, ch. 540, § 46(a), 60 Stat. 444. Act Feb. 20, 1905, was classified to sections 81 to 109 of this title.
 
@@ -826,6 +868,10 @@ Acts March 3, 1881 and February 20, 1905, referred to in opening par. and pars. 
 Act Feb. 20, 1905, ch. 592, § 13, 33 Stat. 728.
 
 #### Amendments
+2020—Pub. L. 116–260, § 225(b)(3), in concluding proviso, inserted “Nothing in paragraph (6) shall be construed to limit the timing applicable to any other ground for cancellation. A registration under section 1126(e) or 1141f of this title shall not be cancelled pursuant to paragraph (6) if the registrant demonstrates that any nonuse is due to special circumstances that excuse such nonuse.” after “identical certification mark is applied.”
+
+Par. (6). Pub. L. 116–260, § 225(b)(1), (2), added par. (6).
+
 2006—Pub. L. 109–312 substituted “, including as a result of a likelihood of dilution by blurring or dilution by tarnishment under [section 1125(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1125/c&num=0&edition=prelim),” for “, including as a result of dilution under [section 1125(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1125/c&num=0&edition=prelim),” in introductory provisions.
 
 1999—Pub. L. 106–43 inserted “, including as a result of dilution under [section 1125(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1125/c&num=0&edition=prelim),” after “damaged” in introductory provisions.
@@ -851,6 +897,9 @@ Par. (5). Pub. L. 100–667, § 115(6), substituted “(5) At” for “(e) at�
 1982—Pub. L. 97–247 struck out “verified” before “petition to cancel” in provision preceding par. (a).
 
 1962—Pub. L. 87–772 inserted provisions which require a verified petition to cancel a registration, redesignated par. (d) as (e), added par. (d) which is composed of provisions formerly part of par. (c), and in said par. (c), substituted “registrant” for “assignee”, and struck out “on which the patent has expired” before “or has been abandoned”, and “has been assigned and” before “is being used by”.
+
+#### Effective Date of 2020 Amendment
+Pub. L. 116–260, div. Q, title II, § 225(g), Dec. 27, 2020, 134 Stat. 2208, provided that: “The amendments made by this section [enacting sections 1066a and 1066b of this title and amending this section and sections 1065, 1070, 1071, and 1094 of this title] shall take effect upon the expiration of the 1-year period beginning on the date of enactment of this Act [Dec. 27, 2020], and shall apply to any mark registered before, on, or after that effective date.”
 
 #### Effective Date of 1999 Amendment
 Amendment by Pub. L. 106–43 effective Aug. 5, 1999, and applicable only to any application for registration filed on or after Jan. 16, 1996, see section 2(e) of Pub. L. 106–43, set out as a note under [section 1052 of this title](./chapter-022-trademarks.md#section-1052).
@@ -894,10 +943,15 @@ The Director shall notify any registrant who files the above-prescribed affidavi
 
 ### Statutory Notes
 
+#### Amendment of Section
+Pub. L. 116–260, div. Q, title II, § 225(e)(1), (g), Dec. 27, 2020, 134 Stat. 2207, 2208, provided that, effective upon the expiration of the 1-year period beginning on Dec. 27, 2020, and applicable to any mark registered before, on, or after that effective date, this section is amended by striking “paragraphs (3) and (5)” and inserting “paragraphs (3), (5), and (6)”. See 2020 Amendment note below.
+
 #### References in Text
 Acts March 3, 1881 and February 20, 1905, referred to in text, are acts Mar. 3, 1881, ch. 138, 21 Stat. 502 and Feb. 20, 1905, ch. 592, 33 Stat. 724, which were repealed insofar as inconsistent with this chapter by act July 5, 1946, ch. 540, § 46(a), 60 Stat. 444. Act Feb. 20, 1905, was classified to sections 81 to 109 of this title.
 
 #### Amendments
+2020—Pub. L. 116–260 substituted “paragraphs (3), (5), and (6)” for “paragraphs (3) and (5)” in introductory provisions.
+
 2010—Pub. L. 111–146, § 3(b)(1), substituted “right of the owner” for “right of the registrant” in introductory provisions.
 
 Par. (1). Pub. L. 111–146, § 3(b)(2), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “there has been no final decision adverse to registrant’s claim of ownership of such mark for such goods or services, or to registrant’s right to register the same or to keep the same on the register; and”.
@@ -913,6 +967,9 @@ Par. (2). Pub. L. 111–146, § 3(b)(3), inserted “United States” before “
 1975—Par. (2). Pub. L. 93–596 substituted “Patent and Trademark Office” for “Patent Office”.
 
 1962—Pub. L. 87–772 substituted “(c) and (e) of section 1064” for “(c) and (d) of section 1064” in provision preceding par. (1), and struck out “or trade name” after “in a mark” in par. (4).
+
+#### Effective Date of 2020 Amendment
+Amendment by Pub. L. 116–260 effective upon the expiration of the 1-year period beginning on Dec. 27, 2020, and applicable to any mark registered before, on, or after that effective date, see section 225(g) of div. Q of Pub. L. 116–260, set out as a note under [section 1064 of this title](./chapter-022-trademarks.md#section-1064).
 
 #### Effective Date of 1999 Amendment
 Amendment by Pub. L. 106–113 effective 4 months after Nov. 29, 1999, see section 1000(a)(9) [title IV, § 4731] of Pub. L. 106–113, set out as a note under [section 1 of Title 35](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title35-section1&num=0&edition=prelim), Patents.
@@ -966,6 +1023,154 @@ Repeal of inconsistent provisions, effect of this chapter on pending proceedings
 
 #### Transfer of Functions
 For transfer of functions of other officers, employees, and agencies of Department of Commerce, with certain exceptions, to Secretary of Commerce, with power to delegate, see Reorg. Plan No. 5 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1263, set out in the Appendix to Title 5, Government Organization and Employees.
+
+
+<a id="section-1066a"></a>
+## § 1066a. Ex parte expungement
+**(a) Petition** Notwithstanding sections 1057(b) and 1072 of this title, and subsections (a) and (b) of [section 1115 of this title](./chapter-022-trademarks.md#section-1115), any person may file a petition to expunge a registration of a mark on the basis that the mark has never been used in commerce on or in connection with some or all of the goods or services recited in the registration.
+
+**(b) Contents of petition** A petition filed under subsection (a), together with any supporting documents, shall—
+
+(1) identify the registration that is the subject of the petition;
+
+(2) identify each good or service recited in the registration for which it is alleged that the mark has never been used in commerce;
+
+(3) include a verified statement that sets forth—
+
+  (A) the elements of the reasonable investigation the petitioner conducted to determine that the mark has never been used in commerce on or in connection with the goods and services identified in the petition; and
+
+  (B) any additional facts that support the allegation that the mark has never been used in commerce on or in connection with the identified goods and services;
+
+(4) include any supporting evidence on which the petitioner relies; and
+
+(5) be accompanied by the fee prescribed by the Director.
+
+**(c) Initial determination; institution**
+
+(1) **Prima facie case determination, institution, and notification** — The Director shall, for each good or service identified under subsection (b)(2), determine whether the petition sets forth a prima facie case of the mark having never been used in commerce on or in connection with each such good or service, institute an ex parte expungement proceeding for each good or service for which the Director determines that a prima facie case has been set forth, and provide a notice to the registrant and petitioner of the determination of whether or not the proceeding was instituted. Such notice shall include a copy of the petition and any supporting documents and evidence that were included with the petition.
+
+(2) **Reasonable investigation guidance** — The Director shall promulgate regulations regarding what constitutes a reasonable investigation under subsection (b)(3) and the general types of evidence that could support a prima facie case that a mark has never been used in commerce, but the Director shall retain the discretion to determine whether a prima facie case is set out in a particular proceeding.
+
+(3) **Determination by Director** — Any determination by the Director whether or not to institute a proceeding under this section shall be final and non-reviewable, and shall not prejudice any party’s right to raise any issue and rely on any evidence in any other proceeding, except as provided in subsection (j).
+
+**(d) Ex parte expungement procedures** The procedures for ex parte expungement shall be the same as the procedures for examination under [section 1062(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1062/b&num=0&edition=prelim), except that the Director shall promulgate regulations establishing and governing a proceeding under this section, which may include regulations that—
+
+(1) set response and extension times particular to this type of proceeding, which, notwithstanding [section 1062(b)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1062/b/3&num=0&edition=prelim), need not be extendable to 6 months;
+
+(2) set limits governing the timing and number of petitions filed for a particular registration or by a particular petitioner or real parties in interest; and
+
+(3) define the relation of a proceeding under this section to other proceedings concerning the mark.
+
+**(e) Registrant’s evidence of use** A registrant’s documentary evidence of use shall be consistent with when a mark shall be deemed to be in use in commerce under the definition of “use in commerce” in [section 1127 of this title](./chapter-022-trademarks.md#section-1127), but shall not be limited in form to that of specimens as provided in [section 1051(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1051/a&num=0&edition=prelim).
+
+**(f) Excusable nonuse** During an ex parte expungement proceeding, for a mark registered under [section 1126(e) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1126/e&num=0&edition=prelim) or an extension of protection under [section 1141f of this title](./chapter-022-trademarks.md#section-1141f), the registrant may offer evidence showing that any nonuse is due to special circumstances that excuse such nonuse. In such a case, the examiner shall determine whether the facts and evidence demonstrate excusable nonuse and shall not find that the registration should be cancelled under subsection (g) for any good or service for which excusable nonuse is demonstrated.
+
+**(g) Examiner’s decision; order to cancel** For each good or service for which it is determined that a mark has never been used in commerce, and for which the provisions of subsection (f) do not apply, the examiner shall find that the registration should be cancelled for each such good or service. A mark shall not be found to have never been used in commerce if there is evidence of use in commerce by the registrant that temporally would have supported registration at the time the application was filed or the relevant allegation of use was made, or after registration, but before the petition to expunge was filed under subsection (a), or an ex parte expungement proceeding was instituted by the Director under subsection (h). Unless overturned on review of the examiner’s decision, the Director shall issue an order cancelling the registration, in whole or in part, after the time for appeal has expired or any appeal proceeding has terminated.
+
+**(h) Ex parte expungement by the Director**
+
+(1) **In general** — The Director may, on the Director’s own initiative, institute an ex parte expungement proceeding if the Director discovers information that supports a prima facie case of a mark having never been used in commerce on or in connection with any good or service covered by a registration. The Director shall promptly notify the registrant of such determination, at which time the ex parte expungement proceeding shall proceed according to the same procedures for ex parte expungement established pursuant to subsection (d). If the Director determines, based on the Director’s own initiative, to institute an expungement proceeding, the Director shall transmit or make available the information that formed the basis for that determination as part of the institution notice sent to the registrant.
+
+(2) **Rule of construction** — Nothing in this subsection shall be construed to limit any other authority of the Director.
+
+**(i) Time for institution**
+
+(1) **When petition may be filed, ex parte expungement proceeding instituted** — A petition for ex parte expungement of a registration under subsection (a) may be filed, or the Director may institute on the Director’s own initiative an ex parte expungement proceeding of a registration under subsection (h), at any time following the expiration of 3 years after the date of registration and before the expiration of 10 years following the date of registration.
+
+(2) **Exception** — Notwithstanding paragraph (1), for a period of 3 years after December 27, 2020, a petition for expungement of a registration under subsection (a) may be filed, or the Director may institute on the Director’s own initiative an ex parte expungement proceeding of a registration under subsection (h), at any time following the expiration of 3 years after the date of registration.
+
+**(j) Limitation on later ex parte expungement proceedings**
+
+(1) **No co-pending proceedings** — With respect to a particular registration, while an ex parte expungement proceeding is pending, no later ex parte expungement proceeding may be instituted with respect to the same goods or services that are the subject of a pending ex parte expungement proceeding.
+
+(2) **Estoppel** — With respect to a particular registration, for goods or services previously subject to an instituted expungement proceeding for which, in that proceeding, it was determined that the registrant had used the mark for particular goods or services, as relevant, and the registration was not cancelled as to those goods or services, no further ex parte expungement proceedings may be initiated as to those goods or services, regardless of the identity of the petitioner.
+
+**(k) Use in commerce requirement not altered** Nothing in this section shall affect the requirement for use in commerce of a mark registered under section 1051(a) or 1091 of this title.
+
+### Statutory Notes
+
+#### Effective Date
+Section effective upon the expiration of the 1-year period beginning on Dec. 27, 2020, and applicable to any mark registered before, on, or after that effective date, see section 225(g) of div. Q of Pub. L. 116–260, set out as an Effective Date of 2020 Amendment note under [section 1064 of this title](./chapter-022-trademarks.md#section-1064).
+
+#### Regulations
+Pub. L. 116–260, div. Q, title II, § 225(f), Dec. 27, 2020, 134 Stat. 2207, provided that: “Not later than 1 year after the date of enactment of this Act [Dec. 27, 2020], the Director shall issue regulations to carry out sections 16A and 16B of the Trademark Act of 1946 [[15 U.S.C. 1066a](./chapter-022-trademarks.md#section-1066a), 1066b], as added by subsections (a) and (c).”
+
+[For definitions of terms used in section 225(f) of Pub. L. 116–260, set out above, see section 222 of Pub. L. 116–260, set out as a note under [section 1051 of this title](./chapter-022-trademarks.md#section-1051).]
+
+
+<a id="section-1066b"></a>
+## § 1066b. Ex parte reexamination
+**(a) Petition for reexamination** Any person may file a petition to reexamine a registration of a mark on the basis that the mark was not in use in commerce on or in connection with some or all of the goods or services recited in the registration on or before the relevant date.
+
+**(b) Relevant date** In this section, the term “relevant date” means, with respect to an application for the registration of a mark with an initial filing basis of—
+
+(1) [section 1051(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1051/a&num=0&edition=prelim) and not amended at any point to be filed pursuant to [section 1051(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1051/b&num=0&edition=prelim), the date on which the application was initially filed; or
+
+(2) [section 1051(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1051/b&num=0&edition=prelim) or amended at any point to be filed pursuant to [section 1051(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1051/b&num=0&edition=prelim), the date on which—
+
+  (A) an amendment to allege use under [section 1051(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1051/c&num=0&edition=prelim) was filed; or
+
+  (B) the period for filing a statement of use under [section 1051(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1051/d&num=0&edition=prelim) expired, including all approved extensions thereof.
+
+**(c) Requirements for the petition** A petition filed under subsection (a), together with any supporting documents, shall—
+
+(1) identify the registration that is the subject of the petition;
+
+(2) identify each good and service recited in the registration for which it is alleged that the mark was not in use in commerce on or in connection with on or before the relevant date;
+
+(3) include a verified statement that sets forth—
+
+  (A) the elements of the reasonable investigation the petitioner conducted to determine that the mark was not in use in commerce on or in connection with the goods and services identified in the petition on or before the relevant date; and
+
+  (B) any additional facts that support the allegation that the mark was not in use in commerce on or before the relevant date on or in connection with the identified goods and services;
+
+(4) include supporting evidence on which the petitioner relies; and
+
+(5) be accompanied by the fee prescribed by the Director.
+
+**(d) Initial determination; institution**
+
+(1) **Prima facie case determination, institution, and notification** — The Director shall, for each good or service identified under subsection (c)(2), determine whether the petition sets forth a prima facie case of the mark having not been in use in commerce on or in connection with each such good or service, institute an ex parte reexamination proceeding for each good or service for which the Director determines that the prima facie case has been set forth, and provide a notice to the registrant and petitioner of the determination of whether or not the proceeding was instituted. Such notice shall include a copy of the petition and any supporting documents and evidence that were included with the petition.
+
+(2) **Reasonable investigation guidance** — The Director shall promulgate regulations regarding what constitutes a reasonable investigation under subsection (c)(3) and the general types of evidence that could support a prima facie case that the mark was not in use in commerce on or in connection with a good or service on or before the relevant date, but the Director shall retain discretion to determine whether a prima facie case is set out in a particular proceeding.
+
+(3) **Determination by Director** — Any determination by the Director whether or not to institute a reexamination proceeding under this section shall be final and non-reviewable, and shall not prejudice any party’s right to raise any issue and rely on any evidence in any other proceeding, except as provided in subsection (j).
+
+**(e) Reexamination procedures** The procedures for reexamination shall be the same as the procedures established under [section 1062(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1062/b&num=0&edition=prelim) except that the Director shall promulgate regulations establishing and governing a proceeding under this section, which may include regulations that—
+
+(1) set response and extension times particular to this type of proceeding, which, notwithstanding [section 1062(b)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1062/b/3&num=0&edition=prelim), need not be extendable to 6 months;
+
+(2) set limits governing the timing and number of petitions filed for a particular registration or by a particular petitioner or real parties in interest; and
+
+(3) define the relation of a reexamination proceeding under this section to other proceedings concerning the mark.
+
+**(f) Registrant’s evidence of use** A registrant’s documentary evidence of use shall be consistent with when a mark shall be deemed to be in use in commerce under the definition of “use in commerce” in [section 1127 of this title](./chapter-022-trademarks.md#section-1127), but shall not be limited in form to that of specimens as provided in [section 1051(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1051/a&num=0&edition=prelim).
+
+**(g) Examiner’s decision; order to cancel** For each good or service for which it is determined that the registration should not have issued because the mark was not in use in commerce on or before the relevant date, the examiner shall find that the registration should be cancelled for each such good or service. Unless overturned on review of the examiner’s decision, the Director shall issue an order cancelling the registration, in whole or in part, after the time for appeal has expired or any appeal proceeding has terminated.
+
+**(h) Reexamination by Director**
+
+(1) **In general** — The Director may, on the Director’s own initiative, institute an ex parte reexamination proceeding if the Director discovers information that supports a prima facie case of the mark having not been used in commerce on or in connection with some or all of the goods or services covered by the registration on or before the relevant date. The Director shall promptly notify the registrant of such determination, at which time reexamination shall proceed according to the same procedures established pursuant to subsection (e). If the Director determines, based on the Director’s own initiative, to institute an ex parte reexamination proceeding, the Director shall transmit or make available the information that formed the basis for that determination as part of the institution notice.
+
+(2) **Rule of construction** — Nothing in this subsection shall be construed to limit any other authority of the Director.
+
+**(i) Time for institution** A petition for ex parte reexamination may be filed, or the Director may institute on the Director’s own initiative an ex parte reexamination proceeding, at any time not later than 5 years after the date of registration of a mark registered based on use in commerce.
+
+**(j) Limitation on later ex parte reexamination proceedings**
+
+(1) **No co-pending proceedings** — With respect to a particular registration, while an ex parte reexamination proceeding is pending, no later ex parte reexamination proceeding may be instituted with respect to the same goods or services that are the subject of a pending ex parte reexamination proceeding.
+
+(2) **Estoppel** — With respect to a particular registration, for any goods or services previously subject to an instituted ex parte reexamination proceeding for which, in that proceeding, it was determined that the registrant had used the mark for particular goods or services before the relevant date, and the registration was not cancelled as to those goods or services, no further ex parte reexamination proceedings may be initiated as to those goods or services, regardless of the identity of the petitioner.
+
+**(k) Supplemental register** The provisions of subsection (b) apply, as appropriate, to registrations under [section 1091 of this title](./chapter-022-trademarks.md#section-1091). Nothing in this section shall be construed to limit the timing of a cancellation action under [section 1092 of this title](./chapter-022-trademarks.md#section-1092).
+
+### Statutory Notes
+
+#### Effective Date
+Section effective upon the expiration of the 1-year period beginning on Dec. 27, 2020, and applicable to any mark registered before, on, or after that effective date, see section 225(g) of div Q of Pub. L. 116–260, set out as an Effective Date of 2020 Amendment note under [section 1064 of this title](./chapter-022-trademarks.md#section-1064).
+
+#### Regulations
+Director required to issue regulations to carry out this section no later than 1 year after Dec. 27, 2020, see section 225(f) of Pub. L. 116–260, set out as a note under [section 1066a of this title](./chapter-022-trademarks.md#section-1066a).
 
 
 <a id="section-1067"></a>
@@ -1027,7 +1232,7 @@ Pub. L. 85–609, § 2, Aug. 8, 1958, 72 Stat. 540, provided that: “The provis
 <a id="section-1068"></a>
 ## § 1068. Action of Director in interference, opposition, and proceedings for concurrent use registration or for cancellation
 
-In such proceedings the Director may refuse to register the opposed mark, may cancel the registration, in whole or in part, may modify the application or registration by limiting the goods or services specified therein, may otherwise restrict or rectify with respect to the register the registration of a registered mark, may refuse to register any or all of several interfering marks, or may register the mark or marks for the person or persons entitled thereto, as the rights of the parties under this chapter may be established in the proceedings: Provided, That in the case of the registration of any mark based on concurrent use, the Director shall determine and fix the conditions and limitations provided for in subsection (d) of [section 1052 of this title](./chapter-022-trademarks.md#section-1052). However, no final judgment shall be entered in favor of an applicant under [section 1051(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1051/b&num=0&edition=prelim) before the mark is registered, if such applicant cannot prevail without establishing constructive use pursuant to [section 1057(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1057/c&num=0&edition=prelim).
+In such proceedings the Director may refuse to register the opposed mark, may cancel the registration, in whole or in part, may modify the application or registration by limiting the goods or services specified therein, may otherwise restrict or rectify with respect to the register the registration of a registered mark, may refuse to register any or all of several interfering marks, or may register the mark or marks for the person or persons entitled thereto, as the rights of the parties under this chapter may be established in the proceedings. The authority of the Director under this section includes the authority to reconsider, and modify or set aside, a decision of the Trademark Trial and Appeal Board: Provided, That in the case of the registration of any mark based on concurrent use, the Director shall determine and fix the conditions and limitations provided for in subsection (d) of [section 1052 of this title](./chapter-022-trademarks.md#section-1052). However, no final judgment shall be entered in favor of an applicant under [section 1051(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1051/b&num=0&edition=prelim) before the mark is registered, if such applicant cannot prevail without establishing constructive use pursuant to [section 1057(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1057/c&num=0&edition=prelim).
 
 ### Statutory Notes
 
@@ -1035,6 +1240,8 @@ In such proceedings the Director may refuse to register the opposed mark, may ca
 Act Feb. 20, 1905, ch. 592, §§ 7, 13, 33 Stat. 726, 728.
 
 #### Amendments
+2020—Pub. L. 116–260 inserted “. The authority of the Director under this section includes the authority to reconsider, and modify or set aside, a decision of the Trademark Trial and Appeal Board” after “established in the proceedings”.
+
 1999—Pub. L. 106–113 substituted “Director” for “Commissioner” in two places.
 
 1988—Pub. L. 100–667 substituted “the registration, in whole or in part, may modify the application or registration by limiting the goods or services specified therein, may otherwise restrict or rectify with respect to the register” for “or restrict”, and “may refuse” for “or may refuse”, and inserted provisions that no final judgment be entered before mark is registered if applicant cannot prevail without establishing constructive use.
@@ -1047,6 +1254,11 @@ Amendment by Pub. L. 100–667 effective one year after Nov. 16, 1988, see secti
 
 #### Repeal and Effect on Existing Rights
 Repeal of inconsistent provisions, effect of this chapter on pending proceedings and existing registrations and rights under prior acts, see notes set out under [section 1051 of this title](./chapter-022-trademarks.md#section-1051).
+
+#### Construction of 2020 Amendment
+Pub. L. 116–260, div. Q, title II, § 228(b), Dec. 27, 2020, 134 Stat. 2210, provided that: “(1) Authority before date of enactment.—The amendments made by subsection (a) [amending this section and sections 1070 and 1092 of this title] shall not be construed to mean that the Director lacked the authority to reconsider, and modify or set aside, a decision of the Trademark Trial and Appeal Board before the date of enactment of this Act [Dec. 27, 2020]. “(2) Authority with respect to particular decisions.—The amendments made by subsection (a) shall not be construed to require the Director to reconsider, modify, or set aside any particular decision of the Trademark Trial and Appeal Board.”
+
+[“Director” as used in section 228(b) of Pub. L. 116–260, set out above, means the Under Secretary of Commerce for Intellectual Property and Director of the United States Patent and Trademark Office, see section 222 of Pub. L. 116–260, set out as a note under [section 1051 of this title](./chapter-022-trademarks.md#section-1051).]
 
 #### Transfer of Functions
 For transfer of functions of other officers, employees, and agencies of Department of Commerce, with certain exceptions, to Secretary of Commerce, with power to delegate, see Reorg. Plan No. 5 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1263, set out in the Appendix to Title 5, Government Organization and Employees.
@@ -1080,21 +1292,34 @@ For transfer of functions of other officers, employees, and agencies of Departme
 <a id="section-1070"></a>
 ## § 1070. Appeals to Trademark Trial and Appeal Board from decisions of examiners
 
-An appeal may be taken to the Trademark Trial and Appeal Board from any final decision of the examiner in charge of the registration of marks upon the payment of the prescribed fee.
+An appeal may be taken to the Trademark Trial and Appeal Board from any final decision of the examiner in charge of the registration of marks upon the payment of the prescribed fee. The Director may reconsider, and modify or set aside, a decision of the Trademark Trial and Appeal Board under this section.
 
 ### Statutory Notes
+
+#### Amendment of Section
+Pub. L. 116–260, div. Q, title II, § 225(d)(1), (g), Dec. 27, 2020, 134 Stat. 2207, 2208, provided that, effective upon the expiration of the 1-year period beginning on Dec. 27, 2020, and applicable to any mark registered before, on, or after that effective date, this section is amended by inserting “or a final decision by an examiner in an ex parte expungement proceeding or ex parte reexamination proceeding” after “registration of marks”. See 2020 Amendment note below.
 
 #### Prior Provisions
 Act Feb. 20, 1905, ch. 592, §§ 8, 13, 33 Stat. 726, 728.
 
 #### Amendments
+2020—Pub. L. 116–260, § 228(a)(2), inserted “The Director may reconsider, and modify or set aside, a decision of the Trademark Trial and Appeal Board under this section.” at end.
+
+Pub. L. 116–260, § 225(d)(1), inserted “or a final decision by an examiner in an ex parte expungement proceeding or ex parte reexamination proceeding” after “registration of marks”.
+
 1958—Pub. L. 85–609 substituted “Trademark Trial and Appeal Board” for “Commissioner in person” and “fee” for “fees”, and struck out “of interferences or” after “examiner in charge”.
+
+#### Effective Date of 2020 Amendment
+Amendment by section 225(d)(1) of div. Q of Pub. L. 116–260 effective upon the expiration of the 1-year period beginning on Dec. 27, 2020, and applicable to any mark registered before, on, or after that effective date, see section 225(g) of div. Q of Pub. L. 116–260, set out as a note under [section 1064 of this title](./chapter-022-trademarks.md#section-1064).
 
 #### Effective Date of 1958 Amendment
 For effective date and applicability of amendment by Pub. L. 85–609, see section 3 of Pub. L. 85–609, set out as a note under [section 1067 of this title](./chapter-022-trademarks.md#section-1067).
 
 #### Repeal and Effect on Existing Rights
 Repeal of inconsistent provisions, effect of this chapter on pending proceedings and existing registrations and rights under prior acts, see notes set out under [section 1051 of this title](./chapter-022-trademarks.md#section-1051).
+
+#### Construction of 2020 Amendment
+For construction of amendment made by section 228(a)(2) of div. Q of Pub. L. 116–260 regarding Director’s authority before Dec. 27, 2020, and authority with respect to particular decisions, see section 228(b) of div. Q of Pub. L. 116–260, set out as a note under [section 1068 of this title](./chapter-022-trademarks.md#section-1068).
 
 #### Transfer of Functions
 For transfer of functions of other officers, employees, and agencies of Department of Commerce, with certain exceptions, to Secretary of Commerce, with power to delegate, see Reorg. Plan No. 5 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1263, set out in the Appendix to Title 5, Government Organization and Employees.
@@ -1127,6 +1352,15 @@ Amendment by Pub. L. 85–609 as subject to Reorganization Plan No. 5 of 1950, s
 
 ### Statutory Notes
 
+#### Amendment of Subsections (a)(1) and (b)(1)
+Pub. L. 116–260, div. Q, title II, § 225(d)(2), (g), Dec. 27, 2020, 134 Stat. 2207, 2208, provided that, effective upon the expiration of the 1-year period beginning on Dec. 27, 2020, and applicable to any mark registered before, on, or after that effective date, this section is amended as follows:
+
+(1) in subsection (a)(1), by striking “or an applicant for renewal” and inserting “an applicant for renewal, or a registrant subject to an ex parte expungement proceeding or an ex parte reexamination proceeding”; and
+
+(2) in subsection (b)(1), by inserting “, except for a registrant subject to an ex parte expungement proceeding or an ex parte reexamination proceeding,” before “is dissatisfied”.
+
+See 2020 Amendment notes below.
+
 #### Codification
 Pub. L. 93–596, which provided for the substitution of “Patent and Trademark Office” for “Patent Office” each time appearing in this chapter, became effective Jan. 2, 1975, as did Pub. L. 93–600, which in the course of amending subsec. (a)(3) and (4) of this section, referred merely to “Patent Office”. “Patent and Trademark Office” has been substituted for “Patent Office” in subsec. (a)(3) and (4) on authority of Pub. L. 93–596.
 
@@ -1134,6 +1368,10 @@ Pub. L. 93–596, which provided for the substitution of “Patent and Trademark
 Acts Feb. 20, 1905, ch. 592, §§ 9, 22, 33 Stat. 727, 729; Mar. 2, 1929, ch. 488, § 2(b), 45 Stat. 1478.
 
 #### Amendments
+2020—Subsec. (a)(1). Pub. L. 116–260, § 225(d)(2)(A), substituted “an applicant for renewal, or a registrant subject to an ex parte expungement proceeding or an ex parte reexamination proceeding” for “or an applicant for renewal”.
+
+Subsec. (b)(1). Pub. L. 116–260, § 225(d)(2)(B), inserted “, except for a registrant subject to an ex parte expungement proceeding or an ex parte reexamination proceeding,” before “is dissatisfied”.
+
 2011—Subsec. (b)(4). Pub. L. 112–29 substituted “United States District Court for the Eastern District of Virginia” for “United States District Court for the District of Columbia”.
 
 2010—Subsec. (a)(1). Pub. L. 111–146, § 3(c)(2), inserted “or [section 1141k of this title](./chapter-022-trademarks.md#section-1141k)” after “[section 1058 of this title](./chapter-022-trademarks.md#section-1058)”.
@@ -1179,6 +1417,9 @@ Subsec. (b)(3), (4). Pub. L. 93–596 substituted “Patent and Trademark Office
 1958—Pub. L. 85–609 authorized appeals by persons dissatisfied with the decision of the Trademark Trial and Appeal Board, and substituted “Trademark Trial and Appeal Board” for “Commissioner” in proviso.
 
 1952—Act July 19, 1952, substituted references to new title 35 for repealed section of title 35.
+
+#### Effective Date of 2020 Amendment
+Amendment by Pub. L. 116–260 effective upon the expiration of the 1-year period beginning on Dec. 27, 2020, and applicable to any mark registered before, on, or after that effective date, see section 225(g) of div. Q of Pub. L. 116–260, set out as a note under [section 1064 of this title](./chapter-022-trademarks.md#section-1064).
 
 #### Effective Date of 2011 Amendment
 Pub. L. 112–29, § 9(b), Sept. 16, 2011, 125 Stat. 316, provided that: “The amendments made by this section [amending this section and sections 32, 145, 146, 154, and 293 of Title 35, Patents] shall take effect on the date of the enactment of this Act [Sept. 16, 2011] and shall apply to any civil action commenced on or after that date.”
@@ -1273,7 +1514,7 @@ Amendment by Pub. L. 106–113 effective 4 months after Nov. 29, 1999, see secti
 Amendment by Pub. L. 105–330 effective Oct. 30, 1998, and applicable only to any civil action filed or proceeding before the United States Patent and Trademark Office commenced on or after such date relating to the registration of a mark, see section 201(b) of Pub. L. 105–330, set out as a note under [section 1051 of this title](./chapter-022-trademarks.md#section-1051).
 
 #### Effective Date of 1993 Amendment
-Amendment by Pub. L. 103–182 applicable only to trademark applications filed on or after Dec. 8, 1993, see section 335(c) of Pub. L. 103–182, set out in a note under [section 1052 of this title](./chapter-022-trademarks.md#section-1052).
+Amendment by Pub. L. 103–182 applicable only to trademark applications filed on or after Dec. 8, 1993, see section 335(c) of Pub. L. 103–182, formerly set out in a note under [section 1052 of this title](./chapter-022-trademarks.md#section-1052).
 
 #### Effective Date of 1988 Amendment
 Amendment by Pub. L. 100–667 effective one year after Nov. 16, 1988, see section 136 of Pub. L. 100–667, set out as a note under [section 1051 of this title](./chapter-022-trademarks.md#section-1051).
@@ -1293,7 +1534,7 @@ Marks for the supplemental register shall not be published for or be subject to 
 (1) for which the effective filing date is after the date on which such person’s mark became famous and which would be likely to cause dilution by blurring or dilution by tarnishment under [section 1125(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1125/c&num=0&edition=prelim); or
 
 (2) on grounds other than dilution by blurring or dilution by tarnishment,
-such person may at any time, upon payment of the prescribed fee and the filing of a petition stating the ground therefor, apply to the Director to cancel such registration. The Director shall refer such application to the Trademark Trial and Appeal Board which shall give notice thereof to the registrant. If it is found after a hearing before the Board that the registrant is not entitled to registration, or that the mark has been abandoned, the registration shall be canceled by the Director. However, no final judgment shall be entered in favor of an applicant under [section 1051(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1051/b&num=0&edition=prelim) before the mark is registered, if such applicant cannot prevail without establishing constructive use pursuant to [section 1057(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1057/c&num=0&edition=prelim).
+such person may at any time, upon payment of the prescribed fee and the filing of a petition stating the ground therefor, apply to the Director to cancel such registration. The Director shall refer such application to the Trademark Trial and Appeal Board which shall give notice thereof to the registrant. If it is found after a hearing before the Board that the registrant is not entitled to registration, or that the mark has been abandoned, the registration shall be canceled by the Director, unless the Director reconsiders the decision of the Board, and modifies or sets aside, such decision. However, no final judgment shall be entered in favor of an applicant under [section 1051(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1051/b&num=0&edition=prelim) before the mark is registered, if such applicant cannot prevail without establishing constructive use pursuant to [section 1057(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1057/c&num=0&edition=prelim).
 
 ### Statutory Notes
 
@@ -1301,6 +1542,8 @@ such person may at any time, upon payment of the prescribed fee and the filing o
 Act Mar. 19, 1920, ch. 104, § 2, 41 Stat. 534.
 
 #### Amendments
+2020—Pub. L. 116–260 inserted “, unless the Director reconsiders the decision of the Board, and modifies or sets aside, such decision” after “shall be canceled by the Director” in concluding provisions.
+
 2006—Pub. L. 109–312 amended second sentence generally. Prior to amendment, second sentence read as follows: “Whenever any person believes that he is or will be damaged by the registration of a mark on this register, including as a result of dilution under [section 1125(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1125/c&num=0&edition=prelim), he may at any time, upon payment of the prescribed fee and the filing of a petition stating the ground therefor, apply to the Director to cancel such registration.” The words following “tarnishment,” in second sentence are shown as a flush provision notwithstanding directory language showing them as part of cl. (2), to reflect the probable intent of Congress.
 
 1999—Pub. L. 106–113 substituted “Director” for “Commissioner” wherever appearing.
@@ -1332,6 +1575,9 @@ For effective date and applicability of amendment by Pub. L. 85–609, see secti
 #### Repeal and Effect on Existing Rights
 Repeal of inconsistent provisions, effect of this chapter on pending proceedings and existing registrations and rights under prior acts, see notes set out under [section 1051 of this title](./chapter-022-trademarks.md#section-1051).
 
+#### Construction of 2020 Amendment
+For construction of amendment made by Pub. L. 116–260 regarding Director’s authority before Dec. 27, 2020, and authority with respect to particular decisions, see section 228(b) of div. Q of Pub. L. 116–260, set out as a note under [section 1068 of this title](./chapter-022-trademarks.md#section-1068).
+
 #### Transfer of Functions
 For transfer of functions of other officers, employees, and agencies of Department of Commerce, with certain exceptions, to Secretary of Commerce, with power to delegate, see Reorg. Plan No. 5 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1263, set out in the Appendix to Title 5, Government Organization and Employees.
 
@@ -1357,13 +1603,21 @@ The provisions of this chapter shall govern so far as applicable applications fo
 
 ### Statutory Notes
 
+#### Amendment of Section
+Pub. L. 116–260, div. Q, title II, § 225(e)(2), (g), Dec. 27, 2020, 134 Stat. 2207, 2208, provided that, effective upon the expiration of the 1-year period beginning on Dec. 27, 2020, and applicable to any mark registered before, on, or after that effective date, this section is amended by adding at the end the following: “Registrations on the supplemental register shall be subject to ex parte expungement and ex parte reexamination under sections 1066a and 1066b of this title, respectively.” See 2020 Amendment note below.
+
 #### Prior Provisions
 Act Mar. 19, 1920, ch. 104, § 6, 41 Stat. 535.
 
 #### Amendments
+2020—Pub. L. 116–260 inserted “Registrations on the supplemental register shall be subject to ex parte expungement and ex parte reexamination under sections 1066a and 1066b of this title, respectively.” at end.
+
 1998—Pub. L. 105–330 substituted “, 1057(c),” for “1057(c),,”.
 
 1988—Pub. L. 100–667 inserted reference to sections 1051(b) and 1057(c).
+
+#### Effective Date of 2020 Amendment
+Amendment by Pub. L. 116–260 effective upon the expiration of the 1-year period beginning on Dec. 27, 2020, and applicable to any mark registered before, on, or after that effective date, see section 225(g) of div. Q of Pub. L. 116–260, set out as a note under [section 1064 of this title](./chapter-022-trademarks.md#section-1064).
 
 #### Effective Date of 1998 Amendment
 Amendment by Pub. L. 105–330 effective Oct. 30, 1998, and applicable only to any civil action filed or proceeding before the United States Patent and Trademark Office commenced on or after such date relating to the registration of a mark, see section 201(b) of Pub. L. 105–330, set out as a note under [section 1051 of this title](./chapter-022-trademarks.md#section-1051).
@@ -1715,7 +1969,7 @@ Repeal of inconsistent provisions, effect of this chapter on pending proceedings
 
 <a id="section-1116"></a>
 ## § 1116. Injunctive relief
-**(a) Jurisdiction; service** The several courts vested with jurisdiction of civil actions arising under this chapter shall have power to grant injunctions, according to the principles of equity and upon such terms as the court may deem reasonable, to prevent the violation of any right of the registrant of a mark registered in the Patent and Trademark Office or to prevent a violation under subsection (a), (c), or (d) of [section 1125 of this title](./chapter-022-trademarks.md#section-1125). Any such injunction may include a provision directing the defendant to file with the court and serve on the plaintiff within thirty days after the service on the defendant of such injunction, or such extended period as the court may direct, a report in writing under oath setting forth in detail the manner and form in which the defendant has complied with the injunction. Any such injunction granted upon hearing, after notice to the defendant, by any district court of the United States, may be served on the parties against whom such injunction is granted anywhere in the United States where they may be found, and shall be operative and may be enforced by proceedings to punish for contempt, or otherwise, by the court by which such injunction was granted, or by any other United States district court in whose jurisdiction the defendant may be found.
+**(a) Jurisdiction; service** The several courts vested with jurisdiction of civil actions arising under this chapter shall have power to grant injunctions, according to the principles of equity and upon such terms as the court may deem reasonable, to prevent the violation of any right of the registrant of a mark registered in the Patent and Trademark Office or to prevent a violation under subsection (a), (c), or (d) of [section 1125 of this title](./chapter-022-trademarks.md#section-1125). A plaintiff seeking any such injunction shall be entitled to a rebuttable presumption of irreparable harm upon a finding of a violation identified in this subsection in the case of a motion for a permanent injunction or upon a finding of likelihood of success on the merits for a violation identified in this subsection in the case of a motion for a preliminary injunction or temporary restraining order. Any such injunction may include a provision directing the defendant to file with the court and serve on the plaintiff within thirty days after the service on the defendant of such injunction, or such extended period as the court may direct, a report in writing under oath setting forth in detail the manner and form in which the defendant has complied with the injunction. Any such injunction granted upon hearing, after notice to the defendant, by any district court of the United States, may be served on the parties against whom such injunction is granted anywhere in the United States where they may be found, and shall be operative and may be enforced by proceedings to punish for contempt, or otherwise, by the court by which such injunction was granted, or by any other United States district court in whose jurisdiction the defendant may be found.
 
 **(b) Transfer of certified copies of court papers** The said courts shall have jurisdiction to enforce said injunction, as provided in this chapter, as fully as if the injunction had been granted by the district court in which it is sought to be enforced. The clerk of the court or judge granting the injunction shall, when required to do so by the court before which application to enforce said injunction is made, transfer without delay to said court a certified copy of all papers on file in his office upon which said injunction was granted.
 
@@ -1799,6 +2053,8 @@ The Rules of Civil Procedure, referred to in subsec. (d)(10)(B), probably means 
 Acts Feb. 20, 1905, ch. 592, §§ 19, 20, 33 Stat. 729; Mar. 3, 1911, ch. 231, § 291, 36 Stat. 1167; June 25, 1936, ch. 804, 49 Stat. 1921.
 
 #### Amendments
+2020—Subsec. (a). Pub. L. 116–260 inserted after first sentence “A plaintiff seeking any such injunction shall be entitled to a rebuttable presumption of irreparable harm upon a finding of a violation identified in this subsection in the case of a motion for a permanent injunction or upon a finding of likelihood of success on the merits for a violation identified in this subsection in the case of a motion for a preliminary injunction or temporary restraining order.”
+
 2008—Subsec. (d)(7). Pub. L. 110–403 amended par. (7) generally. Prior to amendment, par. (7) read as follows: “Any materials seized under this subsection shall be taken into the custody of the court. The court shall enter an appropriate protective order with respect to discovery by the applicant of any records that have been seized. The protective order shall provide for appropriate procedures to assure that confidential information contained in such records is not improperly disclosed to the applicant.”
 
 2002—Subsec. (d)(1)(A), (B)(ii). Pub. L. 107–273, § 13207(b)(8), (9), substituted “[section 220506 of title 36](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title36-section220506&num=0&edition=prelim)” for “section 110 of the Act entitled ‘An Act to incorporate the United States Olympic Association’, approved September 21, 1950 ([36 U.S.C. 380](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title36-section380&num=0&edition=prelim))”.
@@ -1836,6 +2092,9 @@ Amendment by Pub. L. 93–596 effective Jan. 2, 1975, see section 4 of Pub. L. 9
 
 #### Repeal and Effect on Existing Rights
 Repeal of inconsistent provisions, effect of this chapter on pending proceedings and existing registrations and rights under prior acts, see notes set out under [section 1051 of this title](./chapter-022-trademarks.md#section-1051).
+
+#### Construction of 2020 Amendment
+Pub. L. 116–260, div. Q, title II, § 226(b), Dec. 27, 2020, 134 Stat. 2208, provided that: “The amendment made by subsection (a) [amending this section] shall not be construed to mean that a plaintiff seeking an injunction was not entitled to a presumption of irreparable harm before the date of enactment of this Act [Dec. 27, 2020].”
 
 #### Transfer of Functions
 For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim). For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim), as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim).

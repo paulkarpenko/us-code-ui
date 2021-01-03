@@ -204,7 +204,7 @@ Subsec. (b)(5)(E) to (K). Pub. L. 113–274, § 202(3), added subpars. (E) to (K
 ## § 7404. National Science Foundation computer and network security programs
 **(a) Computer and network security capacity building grants**
 
-(1) **In general** — The Director shall establish a program to award grants to institutions of higher education (or consortia thereof) to establish or improve undergraduate and master’s degree programs in computer and network security, to increase the number of students, including the number of students from groups historically underrepresented in these fields, who pursue undergraduate or master’s degrees in fields related to computer and network security, and to provide students with experience in government or industry related to their computer and network security studies.
+(1) **In general** — The Director shall establish a program to award grants to institutions of higher education (or consortia thereof) to establish or improve undergraduate and master’s degree programs in computer and network security, to increase the number of students, including the number of students from groups historically underrepresented in these fields and students who are veterans, who pursue undergraduate or master’s degrees in fields related to computer and network security, and to provide students with experience in government or industry related to their computer and network security studies.
 
 (2) **Merit review** — Grants shall be awarded under this subsection on a merit-reviewed competitive basis.
 
@@ -226,9 +226,11 @@ Subsec. (b)(5)(E) to (K). Pub. L. 113–274, § 202(3), added subpars. (E) to (K
 
   (H) establishing collaborations with other academic institutions to establish or enhance a web-based collection of computer and network security courseware and laboratory exercises for sharing with other institutions of higher education, including community colleges;
 
-  (I) establishing or enhancing bridge programs in computer and network security between community colleges and universities; and
+  (I) establishing or enhancing bridge programs in computer and network security between community colleges and universities;
 
-  (J) any other activities the Director determines will accomplish the goals of this subsection.
+  (J) creating opportunities for veterans to transition to careers in computer and network security; and
+
+  (K) any other activities the Director determines will accomplish the goals of this subsection.
 
 (4) **Selection process**
 
@@ -310,7 +312,7 @@ Subsec. (b)(5)(E) to (K). Pub. L. 113–274, § 202(3), added subpars. (E) to (K
 
   (B) the quality of the applicant’s existing research and education programs;
 
-  (C) the likelihood that the program will recruit increased numbers of students, including students from groups historically underrepresented in computer and network security related disciplines, to pursue and earn doctorate degrees in computer and network security;
+  (C) the likelihood that the program will recruit increased numbers of students, including students from groups historically underrepresented in computer and network security related disciplines or veterans, to pursue and earn doctorate degrees in computer and network security;
 
   (D) the nature and quality of the internship program established through collaborations with government laboratories, nonprofit research institutions, and for-profit institutions;
 
@@ -369,6 +371,13 @@ Subsec. (b)(5)(E) to (K). Pub. L. 113–274, § 202(3), added subpars. (E) to (K
 (9) **Authorization of appropriations** — There are authorized to be appropriated to the National Science Foundation to carry out this paragraph $5,000,000 for each of fiscal years 2003 through 2007.
 
 ### Statutory Notes
+
+#### Amendments
+2020—Subsec. (a)(1). Pub. L. 116–115, § 3(f)(1), inserted “and students who are veterans” after “these fields”.
+
+Subsec. (a)(3)(J), (K). Pub. L. 116–115, § 3(f)(2), added subpar. (J) and redesignated former subpar. (J) as (K).
+
+Subsec. (c)(6)(C). Pub. L. 116–115, § 3(g), inserted “or veterans” after “disciplines”.
 
 #### References in Text
 The Scientific and Advanced Technology Act of 1992, referred to in subsec. (b)(1), is Pub. L. 102–476, Oct. 23, 1992, 106 Stat. 2297, as amended, which is classified generally to section 1862h et seq. of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 1861 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1861&num=0&edition=prelim) and Tables.

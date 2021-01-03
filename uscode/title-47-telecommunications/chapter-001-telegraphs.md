@@ -24,10 +24,10 @@ Section 5, R.S. § 5268; act June 19, 1934, ch. 652, § 601, 48 Stat. 1101, rela
 Section 6, R.S. § 5265; act June 19, 1934, ch. 652, § 601, 48 Stat. 1101, provided that rights were not transferable.
 
 #### Effective Date of Repeal
-Section 3 of act July 16, 1947, provided that: “This Act [repealing sections 1 to 6 and 8 of this title] shall take effect on the tenth day following the enactment date thereof [July 16, 1947].”
+Act July 16, 1947, ch. 256, § 3, 61 Stat. 327, provided that: “This Act [repealing sections 1 to 6 and 8 of this title] shall take effect on the tenth day following the enactment date thereof [July 16, 1947].”
 
 #### Authority of Federal Communications Commission; Effect of Repeal
-Section 2 of act July 16, 1947, provided that: “Nothing in this Act [repealing sections 1 to 6 and 8 of this title] shall limit the authority of the Federal Communications Commission under the provisions of the Communications Act of 1934, as amended [chapter 5 of this title], to prescribe charges, classifications, regulations, and practices, including priorities, applicable to Government communications.”
+Act July 16, 1947, ch. 256, § 2, 61 Stat. 327, provided that: “Nothing in this Act [repealing sections 1 to 6 and 8 of this title] shall limit the authority of the Federal Communications Commission under the provisions of the Communications Act of 1934, as amended [chapter 5 of this title], to prescribe charges, classifications, regulations, and practices, including priorities, applicable to Government communications.”
 
 
 <a id="section-7"></a>
@@ -50,7 +50,7 @@ Section, R.S. § 5269; acts Feb. 27, 1877, ch. 69, § 1, 19 Stat. 252; June 19, 
 Repeal effective on tenth day following July 16, 1947, see section 3 of act July 16, 1947, set out as a note under sections 1 to 6 of this title.
 
 #### Authority of Federal Communications Commission; Effect of Repeal
-See note set out under [section 1 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title47-section1&num=0&edition=prelim).
+See provisions set out as a note under [section 1 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title47-section1&num=0&edition=prelim).
 
 
 <a id="section-9"></a>

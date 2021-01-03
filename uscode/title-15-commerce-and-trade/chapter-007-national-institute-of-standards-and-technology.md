@@ -2,7 +2,7 @@
 title: 15
 chapter: '7'
 heading: NATIONAL INSTITUTE OF STANDARDS AND TECHNOLOGY
-section_count: 50
+section_count: 56
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15&num=0&edition=prelim
 ---
@@ -46,6 +46,9 @@ This chapter, referred to in subsec. (b), was in the original “this Act” mea
 Section 5115(c) of Pub. L. 100–418 provided that: “References in any other Federal law to the National Bureau of Standards shall be deemed to refer to the National Institute of Standards and Technology.”
 
 Act Mar. 4, 1913, ch. 141, § 1, 37 Stat. 736, created the Department of Labor and renamed the Department of Commerce and Labor as the Department of Commerce.
+
+#### Short Title of 2020 Amendment
+Pub. L. 116–207, § 1, Dec. 4, 2020, 134 Stat. 1001, provided that: “This Act [enacting sections 278g–3a to 278g–3e of this title and provisions set out as a note under [section 278g–3a of this title](./chapter-007-national-institute-of-standards-and-technology.md#section-278g-3a)] may be cited as the ‘Internet of Things Cybersecurity Improvement Act of 2020’ or the ‘IoT Cybersecurity Improvement Act of 2020’.”
 
 #### Short Title of 2018 Amendment
 Pub. L. 115–236, § 1, Aug. 14, 2018, 132 Stat. 2444, provided that: “This Act [amending [section 272 of this title](./chapter-007-national-institute-of-standards-and-technology.md#section-272) and enacting provisions set out as notes under [section 272 of this title](./chapter-007-national-institute-of-standards-and-technology.md#section-272)] may be cited as the ‘NIST Small Business Cybersecurity Act’.”
@@ -258,11 +261,14 @@ Par. (20). Pub. L. 100–235 added par. (20).
 
 1950—Act July 22, 1950, provided basic authority for performance of certain functions and activities of Department of Commerce.
 
+#### Change of Name
+Reference to a Sector Specific Agency (including any permutations or conjugations thereof) deemed to be a reference to the Sector Risk Management Agency of the relevant critical infrastructure sector and have the meaning give such term in [section 651(5) of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section651/5&num=0&edition=prelim), Domestic Security, see [section 652a(c)(3) of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section652a/c/3&num=0&edition=prelim), enacted Jan. 1, 2021.
+
 #### Construction of Pub. L. 115–236
 Pub. L. 115–236, § 2(d), Aug. 14, 2018, 132 Stat. 2445, provided that: “Nothing in this section [amending this section and enacting provisions set out as notes under this section] may be construed to supersede, alter, or otherwise affect any cybersecurity requirements applicable to Federal agencies.”
 
 #### Dissemination of Resources for Small Businesses
-Pub. L. 115–236, § 2(c), Aug. 14, 2018, 132 Stat. 2444, provided that: “(1) In general.—Not later than one year after the date of the enactment of this Act [Aug. 14, 2018], the Director, in carrying out section 2(e)(1)(A)(viii) of the National Institute of Standards and Technology Act [[15 U.S.C. 272(e)(1)(A)(viii)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section272/e/1/A/viii&num=0&edition=prelim)], as added by subsection (b) of this Act, in consultation with the heads of other appropriate Federal agencies, shall disseminate clear and concise resources to help small business concerns identify, assess, manage, and reduce their cybersecurity risks. “(2) Requirements.—The Director shall ensure that the resources disseminated pursuant to paragraph (1)—“(A) are generally applicable and usable by a wide range of small business concerns; “(B) vary with the nature and size of the implementing small business concern, and the nature and sensitivity of the data collected or stored on the information systems or devices of the implementing small business concern; “(C) include elements, that promote awareness of simple, basic controls, a workplace cybersecurity culture, and third-party stakeholder relationships, to assist small business concerns in mitigating common cybersecurity risks; “(D) include case studies of practical application; “(E) are technology-neutral and can be implemented using technologies that are commercial and off-the-shelf; and “(F) are based on international standards to the extent possible, and are consistent with the Stevenson-Wydler Technology Innovation Act of 1980 ([15 U.S.C. 3701](./chapter-063-technology-innovation.md#section-3701) et seq.). “(3) National cybersecurity awareness and education program.—The Director shall ensure that the resources disseminated under paragraph (1) are consistent with the efforts of the Director under section 401 of the Cybersecurity Enhancement Act of 2014 ([15 U.S.C. 7451](./chapter-100a-cybersecurity-enhancement.md#section-7451)). “(4) Small business development center cyber strategy.—In carrying out paragraph (1), the Director, to the extent practicable, shall consider any methods included in the Small Business Development Center Cyber Strategy developed under section 1841(a)(3)(B) of the National Defense Authorization Act for Fiscal Year 2017 (Public Law 114–328) [130 Stat. 2662]. “(5) Voluntary resources.—The use of the resources disseminated under paragraph (1) shall be considered voluntary. “(6) Updates.—The Director shall review and, if necessary, update the resources disseminated under paragraph (1) in accordance with the requirements under paragraph (2). “(7) Public availability.—The Director and the head of each Federal agency that so elects shall make prominently available on the respective agency’s public Internet website information about the resources and updates to the resources disseminated under paragraph (1). The Director and the heads shall each ensure that the information they respectively make prominently available is consistent, clear, and concise.”
+Pub. L. 115–236, § 2(c), Aug. 14, 2018, 132 Stat. 2444, as amended by Pub. L. 116–283, div. H, title XCIV, § 9401(g)(4)(B), Jan. 1, 2021, 134 Stat. 4809, provided that: “(1) In general.—Not later than one year after the date of the enactment of this Act [Aug. 14, 2018], the Director, in carrying out section 2(e)(1)(A)(viii) of the National Institute of Standards and Technology Act [[15 U.S.C. 272(e)(1)(A)(viii)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section272/e/1/A/viii&num=0&edition=prelim)], as added by subsection (b) of this Act, in consultation with the heads of other appropriate Federal agencies, shall disseminate clear and concise resources to help small business concerns identify, assess, manage, and reduce their cybersecurity risks. “(2) Requirements.—The Director shall ensure that the resources disseminated pursuant to paragraph (1)—“(A) are generally applicable and usable by a wide range of small business concerns; “(B) vary with the nature and size of the implementing small business concern, and the nature and sensitivity of the data collected or stored on the information systems or devices of the implementing small business concern; “(C) include elements, that promote awareness of simple, basic controls, a workplace cybersecurity culture, and third-party stakeholder relationships, to assist small business concerns in mitigating common cybersecurity risks; “(D) include case studies of practical application; “(E) are technology-neutral and can be implemented using technologies that are commercial and off-the-shelf; and “(F) are based on international standards to the extent possible, and are consistent with the Stevenson-Wydler Technology Innovation Act of 1980 ([15 U.S.C. 3701](./chapter-063-technology-innovation.md#section-3701) et seq.). “(3) National cybersecurity awareness and education program.—The Director shall ensure that the resources disseminated under paragraph (1) are consistent with the efforts of the Director under section 303 of the Cybersecurity Enhancement Act of 2014 (Public Law 113–274) [[15 U.S.C. 7443](./chapter-100a-cybersecurity-enhancement.md#section-7443)]. “(4) Small business development center cyber strategy.—In carrying out paragraph (1), the Director, to the extent practicable, shall consider any methods included in the Small Business Development Center Cyber Strategy developed under section 1841(a)(3)(B) of the National Defense Authorization Act for Fiscal Year 2017 (Public Law 114–328) [130 Stat. 2662]. “(5) Voluntary resources.—The use of the resources disseminated under paragraph (1) shall be considered voluntary. “(6) Updates.—The Director shall review and, if necessary, update the resources disseminated under paragraph (1) in accordance with the requirements under paragraph (2). “(7) Public availability.—The Director and the head of each Federal agency that so elects shall make prominently available on the respective agency’s public Internet website information about the resources and updates to the resources disseminated under paragraph (1). The Director and the heads shall each ensure that the information they respectively make prominently available is consistent, clear, and concise.”
 
 #### NIST Cybersecurity Priorities
 Pub. L. 114–329, title I, § 104(b)(1), (2), Jan. 6, 2017, 130 Stat. 2975, provided that: “(1) Critical infrastructure awareness.—The Director of NIST [National Institute of Standards and Technology] shall continue to raise public awareness of the voluntary, industry-led cybersecurity standards and best practices for critical infrastructure developed under section 2(c)(15) of the National Institute of Standards and Technology Act ([15 U.S.C. 272(c)(15)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section272/c/15&num=0&edition=prelim)). “(2) Quantum computing.—Under section 2(b) of the National Institute of Standards and Technology Act ([15 U.S.C. 272(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section272/b&num=0&edition=prelim)) and section 20 of that Act ([15 U.S.C. 278g–3](./chapter-007-national-institute-of-standards-and-technology.md#section-278g-3)), the Director of NIST shall—“(A) research information systems for future cybersecurity needs; and “(B) coordinate with relevant stakeholders to develop a process—“(i) to research and identify or, if necessary, develop cryptography standards and guidelines for future cybersecurity needs, including quantum-resistant cryptography standards; and “(ii) to provide recommendations to Congress, Federal agencies, and industry consistent with the National Technology Transfer and Advancement Act of 1995 (Public Law 104–113; 110 Stat. 775), for a secure and smooth transition to the standards under clause (i).”
@@ -888,9 +894,11 @@ Pub. L. 114–329, title III, § 306(d)(2), Jan. 6, 2017, 130 Stat. 3010, provid
 
 (2) develop standards and guidelines, including minimum requirements, for information systems used or operated by an agency or by a contractor of an agency or other organization on behalf of an agency, other than national security systems (as defined in section 3552(b)(5) 11 So in original. Probably should be “3552(b)(6)”. of title 44);
 
-(3) develop standards and guidelines, including minimum requirements, for providing adequate information security for all agency operations and assets, but such standards and guidelines shall not apply to national security systems; and
+(3) develop standards and guidelines, including minimum requirements, for providing adequate information security for all agency operations and assets, but such standards and guidelines shall not apply to national security systems;
 
-(4) carry out the responsibilities described in paragraph (3) through the Computer Security Division.
+(4) carry out the responsibilities described in paragraph (3) through the Computer Security Division; and
+
+(5) identify and develop standards and guidelines for improving the cybersecurity workforce for an agency as part of the National Initiative for Cybersecurity Education (NICE) Cybersecurity Workforce Framework (NIST Special Publication 800–181), or successor framework.
 
 **(b) Minimum requirements for standards and guidelines** The standards and guidelines required by subsection (a) shall include, at a minimum—
 
@@ -997,6 +1005,8 @@ November 25, 2002, referred to in subsec. (c)(3) and (4), was in the original �
 A prior section 20 of act Mar. 3, 1901, ch. 872, was renumbered section 32 and is classified to [section 278q of this title](./chapter-007-national-institute-of-standards-and-technology.md#section-278q).
 
 #### Amendments
+2021—Subsec. (a)(5). Pub. L. 116–283 added par. (5).
+
 2017—Subsec. (d)(3). Pub. L. 114–329 amended par. (3) generally. Prior to amendment, par. (3) read as follows: “conduct research, as needed, to determine the nature and extent of information security vulnerabilities and techniques for providing cost-effective information security;”.
 
 2014—Subsec. (a)(2). Pub. L. 113–283, § 2(e)(4)(A), substituted “section 3552(b)(5)” for “section 3532(b)(2)”.
@@ -1211,6 +1221,210 @@ Amendment by Pub. L. 107–296 effective 60 days after Nov. 25, 2002, see sectio
 #### Effective Date of 1996 Amendment
 Amendment by Pub. L. 104–106 effective 180 days after Feb. 10, 1996, see section 5701 of Pub. L. 104–106, Feb. 10, 1996, 110 Stat. 702.
 
+#### Publication of Standards and Guidelines on Cybersecurity Awareness
+Pub. L. 116–283, div. H, title XCIV, § 9402(b), Jan. 1, 2021, 134 Stat. 4810, provided that: “Not later than three years after the date of the enactment of this Act [Jan. 1, 2021] and pursuant to section 20 of the National Institute of Standards and Technology Act ([15 U.S.C. 278g–3](./chapter-007-national-institute-of-standards-and-technology.md#section-278g-3)), the Director of the National Institute of Standards and Technology shall publish standards and guidelines for improving cybersecurity awareness of employees and contractors of Federal agencies.”
+
+
+<a id="section-278g-3a"></a>
+## § 278g–3a. Definitions
+
+In this Act:
+
+(1) **Agency** — The term “agency” has the meaning given that term in [section 3502 of title 44](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section3502&num=0&edition=prelim).
+
+(2) **Director of OMB** — The term “Director of OMB” means the Director of the Office of Management and Budget.
+
+(3) **Director of the Institute** — The term “Director of the Institute” means the Director of the National Institute of Standards and Technology.
+
+(4) **Information system** — The term “information system” has the meaning given that term in [section 3502 of title 44](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section3502&num=0&edition=prelim).
+
+(5) **National security system** — The term “national security system” has the meaning given that term in [section 3552(b)(6) of title 44](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section3552/b/6&num=0&edition=prelim).
+
+(6) **Operational technology** — The term “operational technology” means hardware and software that detects or causes a change through the direct monitoring or control of physical devices, processes, and events in the enterprise.
+
+(7) **Secretary** — The term “Secretary” means the Secretary of Homeland Security.
+
+(8) **Security vulnerability** — The term “security vulnerability” has the meaning given that term in [section 1501(17) of title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section1501/17&num=0&edition=prelim).
+
+### Statutory Notes
+
+#### References in Text
+This Act, referred to in text, is Pub. L. 116–207, Dec. 4, 2020, 134 Stat. 1001, known as the Internet of Things Cybersecurity Improvement Act of 2020 and also as the IoT Cybersecurity Improvement Act of 2020, which enacted this section and sections 278g–3b to 278g–3e of this title and provisions set out as a note under this section. For complete classification of this Act to the Code, see Short Title of 2020 Amendment note set out under [section 271 of this title](./chapter-007-national-institute-of-standards-and-technology.md#section-271) and Tables.
+
+#### Codification
+Section was enacted as part of the Internet of Things Cybersecurity Improvement Act of 2020, also known as the IoT Cybersecurity Improvement Act of 2020, and not as part of the National Institute of Standards and Technology Act which comprises this chapter.
+
+#### Sense of Congress
+Pub. L. 116–207, § 2, Dec. 4, 2020, 134 Stat. 1001, provided that: “It is the sense of Congress that— “(1) ensuring the highest level of cybersecurity at agencies in the executive branch is the responsibility of the President, followed by the Director of the Office of Management and Budget, the Secretary of Homeland Security, and the head of each such agency; “(2) this responsibility is to be carried out by working collaboratively within and among agencies in the executive branch, industry, and academia; “(3) the strength of the cybersecurity of the Federal Government and the positive benefits of digital technology transformation depend on proactively addressing cybersecurity throughout the acquisition and operation of Internet of Things devices by the Federal Government; and “(4) consistent with the second draft National Institute for Standards and Technology Interagency or Internal Report 8259 titled ‘Recommendations for IoT Device Manufacturers: Foundational Activities and Core Device Cybersecurity Capability Baseline’, published in January 2020, Internet of Things devices are devices that—“(A) have at least one transducer (sensor or actuator) for interacting directly with the physical world, have at least one network interface, and are not conventional Information Technology devices, such as smartphones and laptops, for which the identification and implementation of cybersecurity features is already well understood; and “(B) can function on their own and are not only able to function when acting as a component of another device, such as a processor.”
+
+
+<a id="section-278g-3b"></a>
+## § 278g–3b. Security standards and guidelines for agencies on use and management of Internet of Things devices
+**(a) National Institute of Standards and Technology development of standards and guidelines for use of Internet of Things devices by agencies**
+
+(1) **In general** — Not later than 90 days after December 4, 2020, the Director of the Institute shall develop and publish under [section 278g–3 of this title](./chapter-007-national-institute-of-standards-and-technology.md#section-278g-3) standards and guidelines for the Federal Government on the appropriate use and management by agencies of Internet of Things devices owned or controlled by an agency and connected to information systems owned or controlled by an agency, including minimum information security requirements for managing cybersecurity risks associated with such devices.
+
+(2) **Consistency with ongoing efforts** — The Director of the Institute shall ensure that the standards and guidelines developed under paragraph (1) are consistent with the efforts of the National Institute of Standards and Technology in effect on December 4, 2020—
+
+  (A) regarding—
+
+    (i) examples of possible security vulnerabilities of Internet of Things devices; and
+
+    (ii) considerations for managing the security vulnerabilities of Internet of Things devices; and
+
+  (B) with respect to the following considerations for Internet of Things devices:
+
+    (i) Secure Development.
+
+    (ii) Identity management.
+
+    (iii) Patching.
+
+    (iv) Configuration management.
+
+(3) **Considering relevant standards** — In developing the standards and guidelines under paragraph (1), the Director of the Institute shall consider relevant standards, guidelines, and best practices developed by the private sector, agencies, and public-private partnerships.
+
+**(b) Review of agency information security policies and principles**
+
+(1) **Requirement** — Not later than 180 days after the date on which the Director of the Institute completes the development of the standards and guidelines required under subsection (a), the Director of OMB shall review agency information security policies and principles on the basis of the standards and guidelines published under subsection (a) pertaining to Internet of Things devices owned or controlled by agencies (excluding agency information security policies and principles pertaining to Internet of Things of devices owned or controlled by agencies that are or comprise a national security system) for consistency with the standards and guidelines submitted under subsection (a) and issue such policies and principles as may be necessary to ensure those policies and principles are consistent with such standards and guidelines.
+
+(2) **Review** — In reviewing agency information security policies and principles under paragraph (1) and issuing policies and principles under such paragraph, as may be necessary, the Director of OMB shall—
+
+  (A) consult with the Director of the Cybersecurity and Infrastructure Security Agency of the Department of Homeland Security; and
+
+  (B) ensure such policies and principles are consistent with the information security requirements under subchapter II of chapter 35 of title 44.
+
+(3) **National security systems** — Any policy or principle issued by the Director of OMB under paragraph (1) shall not apply to national security systems.
+
+**(c) Quinquennial review and revision**
+
+(1) **Review and revision of NIST standards and guidelines** — Not later than 5 years after the date on which the Director of the Institute publishes the standards and guidelines under subsection (a), and not less frequently than once every 5 years thereafter, the Director of the Institute, shall—
+
+  (A) review such standards and guidelines; and
+
+  (B) revise such standards and guidelines as appropriate.
+
+(2) **Updated OMB policies and principles for agencies** — Not later than 180 days after the Director of the Institute makes a revision pursuant to paragraph (1), the Director of OMB, in consultation with the Director of the Cybersecurity and Infrastructure Security Agency of the Department of Homeland Security, shall update any policy or principle issued under subsection (b)(1) as necessary to ensure those policies and principles are consistent with the review and any revision under paragraph (1) under this subsection and paragraphs (2) and (3) of subsection (b).
+
+**(d) Revision of Federal Acquisition Regulation** The Federal Acquisition Regulation shall be revised as necessary to implement any standards and guidelines promulgated in this section.
+
+### Statutory Notes
+
+#### Codification
+Section was enacted as part of the Internet of Things Cybersecurity Improvement Act of 2020, also known as the IoT Cybersecurity Improvement Act of 2020, and not as part of the National Institute of Standards and Technology Act which comprises this chapter.
+
+#### Definitions
+For definitions of terms used in this section, see [section 278g–3a of this title](./chapter-007-national-institute-of-standards-and-technology.md#section-278g-3a).
+
+
+<a id="section-278g-3c"></a>
+## § 278g–3c. Guidelines on the disclosure process for security vulnerabilities relating to information systems, including Internet of Things devices
+**(a) In general** Not later than 180 days after December 4, 2020, the Director of the Institute, in consultation with such cybersecurity researchers and private sector industry experts as the Director considers appropriate, and in consultation with the Secretary, shall develop and publish under [section 278g–3 of this title](./chapter-007-national-institute-of-standards-and-technology.md#section-278g-3) guidelines—
+
+(1) for the reporting, coordinating, publishing, and receiving of information about—
+
+  (A) a security vulnerability relating to information systems owned or controlled by an agency (including Internet of Things devices owned or controlled by an agency); and
+
+  (B) the resolution of such security vulnerability; and
+
+(2) for a contractor providing to an agency an information system (including an Internet of Things device) and any subcontractor thereof at any tier providing such information system to such contractor, on—
+
+  (A) receiving information about a potential security vulnerability relating to the information system; and
+
+  (B) disseminating information about the resolution of a security vulnerability relating to the information system.
+
+**(b) Elements** The guidelines published under subsection (a) shall—
+
+(1) to the maximum extent practicable, be aligned with industry best practices and Standards 29147 and 30111 of the International Standards Organization (or any successor standard) or any other appropriate, relevant, and widely-used standard;
+
+(2) incorporate guidelines on—
+
+  (A) receiving information about a potential security vulnerability relating to an information system owned or controlled by an agency (including an Internet of Things device); and
+
+  (B) disseminating information about the resolution of a security vulnerability relating to an information system owned or controlled by an agency (including an Internet of Things device); and
+
+(3) be consistent with the policies and procedures produced under [section 659(m) of title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section659/m&num=0&edition=prelim).
+
+**(c) Information items** The guidelines published under subsection (a) shall include example content, on the information items that should be reported, coordinated, published, or received pursuant to this section by a contractor, or any subcontractor thereof at any tier, providing an information system (including Internet of Things device) to the Federal Government.
+
+**(d) Oversight** The Director of OMB shall oversee the implementation of the guidelines published under subsection (a).
+
+**(e) Operational and technical assistance** The Secretary, in consultation with the Director of OMB, shall administer the implementation of the guidelines published under subsection (a) and provide operational and technical assistance in implementing such guidelines.
+
+### Statutory Notes
+
+#### Codification
+Section was enacted as part of the Internet of Things Cybersecurity Improvement Act of 2020, also known as the IoT Cybersecurity Improvement Act of 2020, and not as part of the National Institute of Standards and Technology Act which comprises this chapter.
+
+#### Definitions
+For definitions of terms used in this section, see [section 278g–3a of this title](./chapter-007-national-institute-of-standards-and-technology.md#section-278g-3a).
+
+
+<a id="section-278g-3d"></a>
+## § 278g–3d. Implementation of coordinated disclosure of security vulnerabilities relating to agency information systems, including Internet of Things devices
+**(a) Agency guidelines required** Not later than 2 years after December 4, 2020, the Director of OMB, in consultation with the Secretary, shall develop and oversee the implementation of policies, principles, standards, or guidelines as may be necessary to address security vulnerabilities of information systems (including Internet of Things devices).
+
+**(b) Operational and technical assistance** Consistent with [section 3553(b) of title 44](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section3553/b&num=0&edition=prelim), the Secretary, in consultation with the Director of OMB, shall provide operational and technical assistance to agencies on reporting, coordinating, publishing, and receiving information about security vulnerabilities of information systems (including Internet of Things devices).
+
+**(c) Consistency with guidelines from National Institute of Standards and Technology** The Secretary shall ensure that the assistance provided under subsection (b) is consistent with applicable standards and publications developed by the Director of the Institute.
+
+**(d) Revision of Federal Acquisition Regulation** The Federal Acquisition Regulation shall be revised as necessary to implement the provisions under this section.
+
+### Statutory Notes
+
+#### Codification
+Section was enacted as part of the Internet of Things Cybersecurity Improvement Act of 2020, also known as the IoT Cybersecurity Improvement Act of 2020, and not as part of the National Institute of Standards and Technology Act which comprises this chapter.
+
+#### Definitions
+For definitions of terms used in this section, see [section 278g–3a of this title](./chapter-007-national-institute-of-standards-and-technology.md#section-278g-3a).
+
+
+<a id="section-278g-3e"></a>
+## § 278g–3e. Contractor compliance with coordinated disclosure of security vulnerabilities relating to agency Internet of Things devices
+**(a) Prohibition on procurement and use**
+
+(1) **In general** — The head of an agency is prohibited from procuring or obtaining, renewing a contract to procure or obtain, or using an Internet of Things device, if the Chief Information Officer of that agency determines during a review required by [section 11319(b)(1)(C) of title 40](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40-section11319/b/1/C&num=0&edition=prelim) of a contract for such device that the use of such device prevents compliance with the standards and guidelines developed under [section 278g–3b of this title](./chapter-007-national-institute-of-standards-and-technology.md#section-278g-3b) or the guidelines published under [section 278g–3c of this title](./chapter-007-national-institute-of-standards-and-technology.md#section-278g-3c) with respect to such device.
+
+(2) **Simplified acquisition threshold** — Notwithstanding [section 1905 of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section1905&num=0&edition=prelim), the requirements under paragraph (1) shall apply to a contract or subcontract in amounts not greater than the simplified acquisition threshold.
+
+**(b) Waiver**
+
+(1) **Authority** — The head of an agency may waive the prohibition under subsection (a)(1) with respect to an Internet of Things device if the Chief Information Officer of that agency determines that—
+
+  (A) the waiver is necessary in the interest of national security;
+
+  (B) procuring, obtaining, or using such device is necessary for research purposes; or
+
+  (C) such device is secured using alternative and effective methods appropriate to the function of such device.
+
+(2) **Agency process** — The Director of OMB shall establish a standardized process for the Chief Information Officer of each agency to follow in determining whether the waiver under paragraph (1) may be granted.
+
+**(c) Reports to Congress**
+
+(1) **Report** — Every 2 years during the 6-year period beginning on December 4, 2020, the Comptroller General of the United States shall submit to the Committee on Oversight and Reform of the House of Representatives, the Committee on Homeland Security of the House of Representatives, and the Committee on Homeland Security and Governmental Affairs of the Senate a report—
+
+  (A) on the effectiveness of the process established under subsection (b)(2);
+
+  (B) that contains recommended best practices for the procurement of Internet of Things devices; and
+
+  (C) that lists—
+
+    (i) the number and type of each Internet of Things device for which a waiver under subsection (b)(1) was granted during the 2-year period prior to the submission of the report; and
+
+    (ii) the legal authority under which each such waiver was granted, such as whether the waiver was granted pursuant to subparagraph (A), (B), or (C) of such subsection.
+
+(2) **Classification of report** — Each report submitted under this subsection shall be submitted in unclassified form, but may include a classified annex that contains the information described under paragraph (1)(C).
+
+**(d) Effective date** The prohibition under subsection (a)(1) shall take effect 2 years after December 4, 2020.
+
+### Statutory Notes
+
+#### Codification
+Section was enacted as part of the Internet of Things Cybersecurity Improvement Act of 2020, also known as the IoT Cybersecurity Improvement Act of 2020, and not as part of the National Institute of Standards and Technology Act which comprises this chapter.
+
+#### Definitions
+For definitions of terms used in this section, see [section 278g–3a of this title](./chapter-007-national-institute-of-standards-and-technology.md#section-278g-3a).
+
 
 <a id="section-278g-4"></a>
 ## § 278g–4. Information Security and Privacy Advisory Board
@@ -1411,6 +1625,114 @@ A prior section 22 of act Mar. 3, 1901, ch. 872, was renumbered section 32 and i
 
 #### Change of Name
 Committee on Science of House of Representatives changed to Committee on Science and Technology of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007. Committee on Science and Technology of House of Representatives changed to Committee on Science, Space, and Technology of House of Representatives by House Resolution No. 5, One Hundred Twelfth Congress, Jan. 5, 2011.
+
+
+<a id="section-278h-1"></a>
+## § 278h–1. Standards for artificial intelligence
+**(a) Mission** The Institute shall—
+
+(1) advance collaborative frameworks, standards, guidelines, and associated methods and techniques for artificial intelligence;
+
+(2) support the development of a risk-mitigation framework for deploying artificial intelligence systems;
+
+(3) support the development of technical standards and guidelines that promote trustworthy artificial intelligence systems; and
+
+(4) support the development of technical standards and guidelines by which to test for bias in artificial intelligence training data and applications.
+
+**(b) Supporting activities** The Director of the National Institute of Standards and Technology may—
+
+(1) support measurement research and development of best practices and voluntary standards for trustworthy artificial intelligence systems, which may include—
+
+  (A) privacy and security, including for datasets used to train or test artificial intelligence systems and software and hardware used in artificial intelligence systems;
+
+  (B) advanced computer chips and hardware designed for artificial intelligence systems;
+
+  (C) data management and techniques to increase the usability of data, including strategies to systematically clean, label, and standardize data into forms useful for training artificial intelligence systems and the use of common, open licenses;
+
+  (D) safety and robustness of artificial intelligence systems, including assurance, verification, validation, security, control, and the ability for artificial intelligence systems to withstand unexpected inputs and adversarial attacks;
+
+  (E) auditing mechanisms and benchmarks for accuracy, transparency, verifiability, and safety assurance for artificial intelligence systems;
+
+  (F) applications of machine learning and artificial intelligence systems to improve other scientific fields and engineering;
+
+  (G) model documentation, including performance metrics and constraints, measures of fairness, training and testing processes, and results;
+
+  (H) system documentation, including connections and dependences within and between systems, and complications that may arise from such connections; and
+
+  (I) all other areas deemed by the Director to be critical to the development and deployment of trustworthy artificial intelligence;
+
+(2) produce curated, standardized, representative, high-value, secure, aggregate, and privacy protected data sets for artificial intelligence research, development, and use;
+
+(3) support one or more institutes as described in [section 9431(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section9431/b&num=0&edition=prelim) for the purpose of advancing measurement science, voluntary consensus standards, and guidelines for trustworthy artificial intelligence systems;
+
+(4) support and strategically engage in the development of voluntary consensus standards, including international standards, through open, transparent, and consensus-based processes; and
+
+(5) enter into and perform such contracts, including cooperative research and development arrangements and grants and cooperative agreements or other transactions, as may be necessary in the conduct of the work of the National Institute of Standards and Technology and on such terms as the Director considers appropriate, in furtherance of the purposes of this division.11 See References in Text note below.
+
+**(c) Risk management framework** Not later than 2 years after January 1, 2021, the Director shall work to develop, and periodically update, in collaboration with other public and private sector organizations, including the National Science Foundation and the Department of Energy, a voluntary risk management framework for trustworthy artificial intelligence systems. The framework shall—
+
+(1) identify and provide standards, guidelines, best practices, methodologies, procedures and processes for—
+
+  (A) developing trustworthy artificial intelligence systems;
+
+  (B) assessing the trustworthiness of artificial intelligence systems; and
+
+  (C) mitigating risks from artificial intelligence systems;
+
+(2) establish common definitions and characterizations for aspects of trustworthiness, including explainability, transparency, safety, privacy, security, robustness, fairness, bias, ethics, validation, verification, interpretability, and other properties related to artificial intelligence systems that are common across all sectors;
+
+(3) provide case studies of framework implementation;
+
+(4) align with international standards, as appropriate;
+
+(5) incorporate voluntary consensus standards and industry best practices; and
+
+(6) not prescribe or otherwise require the use of specific information or communications technology products or services.
+
+**(d) Participation in standard setting organizations**
+
+(1) **Requirement** — The Institute shall participate in the development of standards and specifications for artificial intelligence.
+
+(2) **Purpose** — The purpose of this participation shall be to ensure—
+
+  (A) that standards promote artificial intelligence systems that are trustworthy; and
+
+  (B) that standards relating to artificial intelligence reflect the state of technology and are fit-for-purpose and developed in transparent and consensus-based processes that are open to all stakeholders.
+
+**(e) Data sharing best practices** Not later than 1 year after January 1, 2021, the Director shall, in collaboration with other public and private sector organizations, develop guidance to facilitate the creation of voluntary data sharing arrangements between industry, federally funded research centers, and Federal agencies for the purpose of advancing artificial intelligence research and technologies, including options for partnership models between government entities, industry, universities, and nonprofits that incentivize each party to share the data they collected.
+
+**(f) Best practices for documentation of data sets** Not later than 1 year after January 1, 2021, the Director shall, in collaboration with other public and private sector organizations, develop best practices for datasets used to train artificial intelligence systems, including—
+
+(1) standards for metadata that describe the properties of datasets, including—
+
+  (A) the origins of the data;
+
+  (B) the intent behind the creation of the data;
+
+  (C) authorized uses of the data;
+
+  (D) descriptive characteristics of the data, including what populations are included and excluded from the datasets; and
+
+  (E) any other properties as determined by the Director; and
+
+(2) standards for privacy and security of datasets with human characteristics.
+
+**(g) Authorization of appropriations** There are authorized to be appropriated to the National Institute of Standards and Technology to carry out this section—
+
+(1) $64,000,000 for fiscal year 2021;
+
+(2) $70,400,000 for fiscal year 2022;
+
+(3) $77,440,000 for fiscal year 2023;
+
+(4) $85,180,000 for fiscal year 2024; and
+
+(5) $93,700,000 for fiscal year 2025.
+
+### Statutory Notes
+
+#### References in Text
+This division, referred to in subsec. (b)(5), probably means div. E of Pub. L. 116–283, Jan. 1, 2021, 134 Stat. 4523, which is classified principally to chapter 119 of this title.
 
 
 <a id="section-278i"></a>
@@ -2035,10 +2357,16 @@ Another section 32 of act Mar. 3, 1901, ch. 872, was renumbered section 35 and i
 
 
 <a id="section-278s"></a>
-## § 278s. Network for Manufacturing Innovation
-**(a) Establishment of Network for Manufacturing Innovation Program**
+## § 278s. Manufacturing USA
+**(a) Definitions** In this section:
 
-(1) **In general** — The Secretary shall establish within the Institute a program to be known as the “Network for Manufacturing Innovation Program” (referred to in this section as the “Program”).
+(1) **Agency head** — The term “agency head” means the head of any Executive agency (as defined in [section 105 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section105&num=0&edition=prelim)), other than the Department of Defense.
+
+(2) **Regional innovation initiative** — The term “regional innovation initiative” has the meaning given such term in [section 3722(f)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section3722/f/1&num=0&edition=prelim).
+
+**(b) Establishment of Manufacturing USA Program**
+
+(1) **In general** — The Secretary shall establish within the Institute a program to be known as the “Manufacturing United States of America Program” or the “Manufacturing USA Program” (referred to in this section as the “Program”).
 
 (2) **Purposes of Program** — The purposes of the Program are—
 
@@ -2054,215 +2382,309 @@ Another section 32 of act Mar. 3, 1901, ch. 872, was renumbered section 35 and i
 
   (F) to facilitate peer exchange of and the documentation of best practices in addressing advanced manufacturing challenges;
 
-  (G) to leverage non-Federal sources of support to promote a stable and sustainable business model without the need for long-term Federal funding; and
+  (G) to leverage non-Federal sources of support to promote a stable and sustainable business model without the need for long-term Federal funding;
 
-  (H) to create and preserve jobs.
+  (H) to create and preserve jobs; and
+
+  (I) to contribute to the development of regional innovation initiatives across the United States.
 
 (3) **Support** — The Secretary, acting through the Director, shall carry out the purposes set forth in paragraph (2) by supporting—
 
-  (A) the Network for Manufacturing Innovation established under subsection (b); and
+  (A) the Manufacturing USA Network established under subsection (b); and
 
-  (B) the establishment of centers for manufacturing innovation.
+  (B) the establishment of Manufacturing USA institutes.
 
 (4) **Director** — The Secretary shall carry out the Program through the Director.
 
-**(b) Establishment of Network for Manufacturing Innovation**
+**(c) Establishment of Manufacturing USA Network**
 
-(1) **In general** — As part of the Program, the Secretary shall establish a network of centers for manufacturing innovation.
+(1) **In general** — As part of the Program, the Secretary shall establish a network of Manufacturing USA institutes.
 
-(2) **Designation** — The network established under paragraph (1) shall be known as the “Network for Manufacturing Innovation” (referred to in this section as the “Network”).
+(2) **Designation** — The network established under paragraph (1) shall be known as the “Manufacturing United States of America Network” or the “Manufacturing USA Network” (referred to in this section as the “Network”).
 
-**(c) Centers for manufacturing innovation**
+**(d) Manufacturing USA institutes**
 
-(1) **In general** — For purposes of this section, a “center for manufacturing innovation” is a center that—
+(1) **In general** — For purposes of this section, a Manufacturing USA institute is an institute that—
 
   (A) has been established by a person or group of persons to address challenges in advanced manufacturing and to assist manufacturers in retaining or expanding industrial production and jobs in the United States;
 
-  (B) has a predominant focus on a manufacturing process, novel material, enabling technology, supply chain integration methodology, or another relevant aspect of advanced manufacturing, such as nanotechnology applications, advanced ceramics, photonics and optics, composites, biobased and advanced materials, flexible hybrid technologies, and tool development for microelectronics;
+  (B) has a predominant focus on a manufacturing process, novel material, enabling technology, supply chain integration methodology, or another relevant aspect of advanced manufacturing, such as nanotechnology applications, advanced ceramics, photonics and optics, composites, biobased and advanced materials, flexible hybrid technologies, tool development for microelectronics, food manufacturing, superconductors, advanced battery technologies, robotics, advanced sensors, quantum information science, supply chain water optimization, aeronautics and advanced materials, and graphene and graphene commercialization;
 
-  (C) as determined by the Secretary, has the potential—
+  (C) has the potential—
 
-    (i) to improve the competitiveness of United States manufacturing, including key advanced manufacturing technologies such as nanotechnology, advanced ceramics, photonics and optics, composites, biobased and advanced materials, flexible hybrid technologies, and tool development for microelectronics;
+    (i) to improve the competitiveness of United States manufacturing, including key advanced manufacturing technologies such as nanotechnology, advanced ceramics, photonics and optics, composites, biobased and advanced materials, flexible hybrid technologies, tool development for microelectronics, food manufacturing, superconductors, advanced battery technologies, robotics, advanced sensors, quantum information science, supply chain water optimization, aeronautics and advanced materials, and graphene and graphene commercialization;
 
     (ii) to accelerate non-Federal investment in advanced manufacturing production capacity in the United States; or
 
     (iii) to enable the commercial application of new technologies or industry-wide manufacturing processes; and
 
-  (D) includes active participation among representatives from multiple industrial entities, research universities, community colleges, and such other entities as the Secretary considers appropriate, which may include industry-led consortia, career and technical education schools, Federal laboratories, State, local, and tribal governments, businesses, educational institutions, and nonprofit organizations.
+  (D) includes active participation among representatives from multiple industrial entities, research universities, community colleges, and other entities as appropriate, which may include industry-led consortia, career and technical education schools, Federal laboratories, State, local, and Tribal governments, businesses, educational institutions, and nonprofit organizations.
 
-(2) **Activities** — Activities of a center for manufacturing innovation may include the following:
+(2) **Activities**
 
-  (A) Research, development, and demonstration projects, including proof-of-concept development and prototyping, to reduce the cost, time, and risk of commercializing new technologies and improvements in existing technologies, processes, products, and research and development of materials to solve precompetitive industrial problems with economic or national security implications.
+  (A) *Required activities* — For purposes of this section, a Manufacturing USA institute is also an institute that carries out the following:
 
-  (B) Development and implementation of education, training, and workforce recruitment courses, materials, and programs.
+    (i) Research, development, and demonstration projects, including proof-of-concept development and prototyping, to reduce the cost, time, or risk of commercializing new technologies and improvements in existing technologies, processes, products, and research and development of materials to solve precompetitive industrial problems with economic or national security implications.
 
-  (C) Development of innovative methodologies and practices for supply chain integration and introduction of new technologies into supply chains.
+    (ii) Development and implementation of education, training, and workforce recruitment courses, materials, and programs addressing workforce needs through training and education programs at all appropriate education levels, including programs on applied engineering.
 
-  (D) Outreach and engagement with small and medium-sized manufacturing enterprises, including women and minority owned manufacturing enterprises, in addition to large manufacturing enterprises.
+    (iii) Development of innovative methodologies and practices for supply chain integration and introduction of new technologies into supply chains, as appropriate.
 
-  (E) Such other activities as the Secretary, in consultation with Federal departments and agencies whose missions contribute to or are affected by advanced manufacturing, considers consistent with the purposes described in subsection (a)(2).
+    (iv) Outreach and engagement with small and medium-sized manufacturing enterprises, including women, minority, and veteran owned manufacturing enterprises, in addition to large manufacturing enterprises.
 
-(3) **Additional centers for manufacturing innovation**
+    (v) Development of roadmaps or leveraging of existing roadmaps with respect to technology areas being pursued by that Manufacturing USA institute that take into account the research and development undertaken at other Manufacturing USA institutes and Federal agencies with respect to such areas.
 
-  (A) *In general* — The National Additive Manufacturing Innovation Institute and other manufacturing centers formally recognized as manufacturing innovation centers pursuant to Federal law or executive actions, or under pending interagency review for such recognition as of December 16, 2014, shall be considered centers for manufacturing innovation, but such centers shall not receive any financial assistance under subsection (d).
+  (B) *Permissible activities* — In addition to the activities set forth under subparagraph (A), a Manufacturing USA institute may carry out such other activities as may be consistent with the purposes set forth under subsection (b)(2).
 
-  (B) *Network participation* — A manufacturing center that is substantially similar to those established under this subsection but that does not receive financial assistance under subsection (d) may, upon request of the center, be recognized as a center for manufacturing innovation by the Secretary for purposes of participation in the Network.
+(3) **Additional Manufacturing USA institutes**
 
-**(d) Financial assistance to establish and support centers for manufacturing innovation**
+  (A) *In general* — Except as provided in subparagraph (C), the National Additive Manufacturing Innovation Institute and other manufacturing institutes formally recognized as Manufacturing USA institutes pursuant to Federal law or executive actions, or under pending interagency review for such recognition as of December 16, 2014, shall be considered Manufacturing USA institutes for purposes of this section.
 
-(1) **In general** — In carrying out the Program, the Secretary shall award financial assistance to a person or group of persons to assist the organization in planning, establishing, or supporting a center for manufacturing innovation.
+  (B) *Network participation* — Except as provided in subparagraph (C), an institute that is substantially similar to an institute described by paragraphs (1) and (2) but does not meet every element of such description and does not receive financial assistance under subsection (e) may, upon request of the institute, be recognized as a Manufacturing USA institute by the Secretary for purposes of participation in the Network.
 
-(2) **Application** — A person or group of persons seeking financial assistance under paragraph (1) shall submit to the Secretary an application therefor at such time, in such manner, and containing such information as the Secretary may require. The application shall, at a minimum, describe the specific sources and amounts of non-Federal financial support for the center on the date financial assistance is sought, as well as the anticipated sources and amounts of non-Federal financial support during the period for which the center could be eligible for continued Federal financial assistance under this section.
+  (C) *Applicability* — Effective beginning on December 20, 2019, an institute shall be treated as a Manufacturing USA institute under this section and subject to subsections (b)(2), (d), and (e) in the same manner and to the same extent as such provisions apply to a Manufacturing USA institute described by paragraphs (1) and (2) if such institute—
 
-(3) **Open process** — In soliciting applications for financial assistance under paragraph (1), the Secretary shall ensure an open process that will allow for the consideration of all applications relevant to advanced manufacturing regardless of technology area.
+    (i)
+
+      (I) is, as of December 20, 2019, considered a Manufacturing USA institute under subparagraph (A) or recognized as a Manufacturing USA institute under subparagraph (B); and
+
+      (II) as of December 20, 2019, receives Federal financial assistance under subsection (e) or otherwise consistent with the purposes of this section;
+
+    (ii) is under pending agency review for such recognition as of December 20, 2019; or
+
+    (iii) is currently funded by the Department of Energy.
+
+**(e) Financial assistance to establish and support Manufacturing USA institutes**
+
+(1) **Financial assistance authorized** — Under the Program, the Secretary and the Secretary of Energy shall, and every other agency head may, award financial assistance to a person or group of persons to assist the person or group of persons in planning, establishing, or supporting a Manufacturing USA institute.
+
+(2) **Period and renewal of awards**
+
+  (A) *Initial periods* — An award of financial assistance under paragraph (1) shall be awarded for an initial period of not less than 5 years and not more than 7 years.
+
+  (B) *Renewal of awards*
+
+    (i) *Renewal authorized* — An award of financial assistance under paragraph (1) may be renewed for additional periods, with each period not to exceed the duration of the initial period of the award, subject to a rigorous merit review.
+
+    (ii) *Consideration of performance standards* — In carrying out a rigorous merit review under clause (i) for renewal of an award under such clause for a Manufacturing USA institute, an agency head shall consider the extent to which the institute has made progress in meeting the standards of performance established pursuant to paragraph (5)(C).
+
+    (iii) *Initial failure to meet performance standards* — If, pursuant to a rigorous merit review under clause (i) for renewal of an award under such clause for a Manufacturing USA institute, an agency head finds that the institute does not meet the standards for performance established pursuant to paragraph (5)(C), the agency head shall—
+
+      (I) notify the institute of any deficiencies in the performance of the institute; and
+
+      (II) provide the institute one year to remedy such deficiencies.
+
+    (iv) *Further failure to meet performance standards* — If a Manufacturing USA institute fails to remedy a deficiency identified or to show significant improvement in performance during the 1-year period set forth under clause (iii)(II)—
+
+      (I) the institute shall not be eligible for 11 So in original. Probably should be followed by “a”. renewed award under clause (i); and
+
+      (II) the agency head that conducted the review for renewal shall notify the institute of such ineligibility.
+
+    (v) *Continuation of existing Manufacturing USA institutes* — Not withstanding clauses (i) through (iv), a Manufacturing USA institute already in existence or undergoing a renewal process prior to December 1, 2019—
+
+      (I) may continue to receive support for the duration of the original funding award beginning on the date of establishment of that institute; and
+
+      (II) shall be eligible for renewal of that funding pursuant to clause (i).
+
+(3) **Application for financial assistance**
+
+  (A) *In general* — A person or group of persons seeking financial assistance under paragraph (1) shall submit to an agency head an application therefor at such time, in such manner, and containing such information as the agency head may require.
+
+  (B) *Requirements* — An application submitted under subparagraph (A) for an institute shall, at a minimum include the following:
+
+    (i) A description of the specific sources and amounts of non-Federal financial support for the institute on the date financial assistance is sought.
+
+    (ii) A description of the anticipated sources and amounts of non-Federal financial support during the period for which the institute could be eligible for continued Federal financial assistance under this section.
 
 (4) **Selection**
 
-  (A) *Competitive, merit review* — In awarding financial assistance under paragraph (1), the Secretary shall use a competitive, merit review process that includes peer review by a diverse group of individuals with relevant expertise from both the private and public sectors.
+  (A) *Competitive, merit review* — In awarding financial assistance under paragraph (1), an agency head shall—
+
+    (i) use a competitive, merit review process that includes review by a diverse group of individuals with relevant expertise from both the private and public sectors; and
+
+    (ii) ensure that the technology focus of a Manufacturing USA institute does not substantially duplicate the technology focus of any other Manufacturing USA institute.
 
   (B) *Participation in process*
 
-    (i) *In general* — No political appointee may participate on a peer review panel. The Secretary shall implement a conflict of interest policy that ensures public transparency and accountability, and requires full disclosure of any real or potential conflicts of interest on the parts of individuals that participate in the merit selection process.
+    (i) *Prohibition on participation by political appointees* — The review required by subparagraph (A)(i) may not include a review by a group of individuals that includes a political appointee.
 
-    (ii) *Definition* — For purposes of this subparagraph, the term “political appointee” means any individual who—
+    (ii) *Conflict of interest policies* — Each agency head shall implement a conflict of interest policy that—
 
-      (I) is employed in a position described under sections 5312 through 5316 of title 5 (relating to the Executive Schedule);
+      (I) ensures public transparency and accountability in the process used under subparagraph (A)(i); and
 
-      (II) is a limited term appointee, limited emergency appointee, or noncareer appointee in the Senior Executive Service, as defined under paragraphs (5), (6), and (7), respectively, of [section 3132(a) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section3132/a&num=0&edition=prelim); or
+      (II) requires full disclosure of any real or potential conflicts of interest on the parts of individuals that participate in the process used under subparagraph (A)(i).
 
-      (III) is employed in a position in the executive branch of the Government of a confidential or policy-determining character under schedule C of subpart C of part 213 of title 5 of the Code of Federal Regulations.
+    (iii) *Definition of political appointee* — For purposes of this subparagraph, the term “political appointee” has the meaning given such term in [section 714(h) of title 38](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section714/h&num=0&edition=prelim).
 
-  (C) *Performance measurement, transparency, and accountability* — For each award of financial assistance under paragraph (1), the Secretary shall—
+  (C) *Considerations* — In selecting a person or group of persons who submitted an application to an agency head under paragraph (3) for an award of financial assistance under paragraph (1) for a Manufacturing USA institute, the agency head shall consider, at a minimum, the following:
 
-    (i) make publicly available at the time of the award a description of the bases for the award, including an explanation of the relative merits of the winning applicant as compared to other applications received, if applicable; and
+    (i) The potential of the Manufacturing USA institute to advance domestic manufacturing and the likelihood of economic impact, including the creation or preservation of jobs, in the predominant focus areas of the institute.
 
-    (ii) develop and implement metrics-based performance measures to assess the effectiveness of the activities funded.
+    (ii) The commitment of continued financial support, advice, participation, and other contributions from non-Federal sources, to provide leverage and resources to promote a stable and sustainable business model.
 
-  (D) *Collaboration* — In awarding financial assistance under paragraph (1), the Secretary shall, acting through the National Program Office established under subsection (f)(1), collaborate with Federal departments and agencies whose missions contribute to or are affected by advanced manufacturing.
+    (iii) Whether the financial support provided to the Manufacturing USA institute from non-Federal sources exceeds the requested Federal financial assistance.
 
-  (E) *Considerations* — In selecting a person who submitted an application under paragraph (2) for an award of financial assistance under paragraph (1), the Secretary shall consider, at a minimum, the following:
+    (iv) How the Manufacturing USA institute will increase the non-Federal investment in advanced manufacturing research in the United States.
 
-    (i) The potential of the center for manufacturing innovation to advance domestic manufacturing and the likelihood of economic impact, including the creation or preservation of jobs, in the predominant focus areas of the center for manufacturing innovation.
+    (v) How the Manufacturing USA institute will engage with small and medium-sized manufacturing enterprises to improve the capacity of such enterprises to commercialize new processes and technologies and to improve the domestic supply chain.
 
-    (ii) The commitment of continued financial support, advice, participation, and other contributions from non-Federal sources, to provide leverage and resources to promote a stable and sustainable business model without the need for long-term Federal funding.
+    (vi) How the Manufacturing USA institute will carry out educational and workforce activities that meet industrial needs related to the predominant focus areas of the institute.
 
-    (iii) Whether the financial support provided to the center for manufacturing innovation from non-Federal sources significantly exceeds the requested Federal financial assistance.
+    (vii) How the Manufacturing USA institute will advance economic competitiveness and generate substantial benefits to the Nation that extend beyond the direct return to participants in the Program.
 
-    (iv) How the center for manufacturing innovation will increase the non-Federal investment in advanced manufacturing research in the United States.
+    (viii) Whether the predominant focus of the Manufacturing USA institute is a manufacturing process, novel material, enabling technology, supply chain integration methodology, or other relevant aspect of advanced manufacturing that has not already been commercialized, marketed, distributed, or sold by another entity.
 
-    (v) How the center for manufacturing innovation will engage with small and medium-sized manufacturing enterprises, to improve the capacity of such enterprises to commercialize new processes and technologies.
+    (ix) How the Manufacturing USA institute will strengthen and leverage the industrial, research, entrepreneurship, and other assets of a region.
 
-    (vi) How the center for manufacturing innovation will carry out educational and workforce activities that meet industrial needs related to the predominant focus areas of the center.
+    (x) How the Manufacturing USA institute will encourage the education and training of veterans and individuals with disabilities.
 
-    (vii) How the center for manufacturing innovation will advance economic competitiveness and generate substantial benefits to the Nation that extend beyond the direct return to participants in the Program.
+(5) **Performance measurement, transparency, and accountability** — For each award of financial assistance under paragraph (1) by an agency head, the agency head shall—
 
-    (viii) Whether the predominant focus of the center for manufacturing innovation is a manufacturing process, novel material, enabling technology, supply chain integration methodology, or other relevant aspect of advanced manufacturing that has not already been commercialized, marketed, distributed, or sold by another entity.
+  (A) develop metrics to assess the effectiveness of the activities funded in making progress toward the purposes of the Program set forth under subsection (b)(2), including the effectiveness of Manufacturing USA institutes in advancing technology readiness levels or manufacturing readiness levels;
 
-    (ix) How the center for manufacturing innovation will strengthen and leverage the assets of a region.
+  (B) establish standards for the performance of Manufacturing USA institutes that are based on the metrics developed under subparagraph (A); and
 
-    (x) How the center for manufacturing will encourage the education and training of veterans and individuals with disabilities.
+  (C) for each Manufacturing USA institute supported by the award, 5 years after the initial award and every 5 years thereafter until Federal financial assistance under this subsection is discontinued, conduct an assessment of the institute to confirm whether the performance of the institute is meeting the standards for performance established under subparagraph (B).
 
-(5) **Limitations on awards**
+(6) **Collaboration** — In awarding financial assistance under paragraph (1), an agency head, in coordination with the National Program Office, as the agency head considers appropriate, may collaborate with Federal departments and agencies whose missions contribute to or are affected by advanced manufacturing, including, as the agency head considers appropriate, the Department of Agriculture, the Department of Defense, the Department of Education, the Department of Energy, the Department of Labor, the Food and Drug Administration, the National Aeronautics and Space Administration, the National Institutes of Health, and the National Science Foundation.
 
-  (A) *In general* — No award of financial assistance may be made under paragraph (1) to a center of manufacturing innovation after the 7-year period beginning on the date on which the Secretary first awards financial assistance to that center under that paragraph.
+(7) **Matching funds and preferences**
 
-  (B) *Matching funds and preferences* — The total Federal financial assistance awarded to a center of manufacturing innovation, including the financial assistance under paragraph (1), in a given year shall not exceed 50 percent of the total funding of the center in that year, except that the Secretary may make an exception in the case of large capital facilities or equipment purchases. The Secretary shall give weighted preference to applicants seeking less than the maximum Federal share of funds allowed under this paragraph.
+  (A) *In general* — Except as provided in subparagraph (B), an agency head may not, with respect to a Manufacturing USA institute, award financial assistance under paragraph (1) or renew an award of financial assistance under paragraph (2) unless the agency head determines that non-Federal funding comprises 50 percent or more of the total amount of funding made available for the operation and support of the institute.
 
-  (C) *Funding decrease* — The amount of financial assistance provided to a center of manufacturing innovation under paragraph (1) shall decrease after the second year of funding for the center, and shall continue to decrease thereafter in each year in which financial assistance is provided, unless the Secretary determines that—
+  (B) *Waivers* — An agency head awarding financial assistance under paragraph (1) with respect to a Manufacturing USA institute may waive the requirements of subparagraph (A) in the case of satellite centers, large capital facilities, equipment purchases, workforce development, or general operations.
 
-    (i) the center is otherwise meeting its stated goals and metrics under this section;
+**(f) Grant program for public service activities for Manufacturing USA institutes without Federal funding** The Secretary may award a grant on a competitive basis to a Manufacturing USA institute that is not receiving financial assistance under subsection (e) to carry out workforce development, outreach to small- and medium-sized manufacturers, and other activities that—
 
-    (ii) unforeseen circumstances have altered the center’s anticipated funding; and
+(1) are determined by the Secretary to be in the national interest; and
 
-    (iii) the center can identify future non-Federal funding sources that would warrant a temporary exemption from the limitations established in this subparagraph.
+(2) are unlikely to receive private sector financial support.
 
-**(e) Funding**
+**(g) Authorization of appropriations**
 
-(1) **General rule** — Except as provided in paragraph (2), no funds are authorized to be appropriated by the Revitalize American Manufacturing and Innovation Act of 2014 for carrying out this section.
+(1) **NIST Industrial Technical Services account** — To the extent provided for in advance by appropriations Acts, the Secretary may use amounts appropriated to the Industrial Technical Services account to carry out this section as follows:
 
-(2) **Authority**
+  (A) For each of the fiscal years 2015 through 2019, an amount not to exceed $5,000,000.
 
-  (A) *NIST industrial technical services account* — To the extent provided for in advance by appropriations Acts, the Secretary may use not to exceed $5,000,000 for each of the fiscal years 2015 through 2024 to carry out this section from amounts appropriated to the Institute for Industrial Technical Services.
+  (B) For each of fiscal years 2020 through 2030, such amounts as may be necessary to carry out this section.
 
-  (B) *Energy efficiency and renewable energy account* — To the extent provided for in advance by appropriations Acts, the Secretary of Energy may transfer to the Institute not to exceed $250,000,000 for the period encompassing fiscal years 2015 through 2024 for the Secretary to carry out this section from amounts appropriated for advanced manufacturing research and development within the Energy Efficiency and Renewable Energy account for the Department of Energy.
+(2) **Department of Energy** — There are authorized to be appropriated to the Secretary of Energy for the provision of financial assistance under subsection (e) by the Department of Energy amounts as follows:
 
-**(f) National Program Office**
+  (A) $70,000,000 for each of fiscal years 2020, 2021, and 2022.
 
-(1) **Establishment** — The Secretary shall establish, within the Institute, the National Office of the Network for Manufacturing Innovation Program (referred to in this section as the “National Program Office”), which shall oversee and carry out the Program.
+  (B) $84,000,000 for each of fiscal years 2023 and 2024.
+
+**(h) National Program Office**
+
+(1) **Establishment** — The Secretary shall establish, within the Institute, the National Office of the Manufacturing USA Network (referred to in this section as the “National Program Office”), which shall oversee and carry out the Program.
 
 (2) **Functions** — The functions of the National Program Office are—
 
   (A) to oversee the planning, management, and coordination of the Program;
 
-  (B) to enter into memorandums of understanding with Federal departments and agencies whose missions contribute to or are affected by advanced manufacturing, to carry out the purposes described in subsection (a)(2);
+  (B) to coordinate with and, as appropriate, enter into memorandums of understanding with Federal departments and agencies whose missions contribute to or are affected by advanced manufacturing, including the Department of Agriculture, the Department of Defense, the Department of Education, the Department of Energy, the Department of Labor, the Food and Drug Administration, the National Aeronautics and Space Administration, the National Institutes of Health, and the National Science Foundation, to carry out the purposes set forth under subsection (b)(2);
 
-  (C) to develop, not later than 1 year after December 16, 2014, and update not less frequently than once every 3 years thereafter, a strategic plan to guide the Program;
+  (C) to develop, not later than December 16, 2015, and update not less frequently than once every 3 years thereafter, a strategic plan to guide the Program;
 
   (D) to establish such procedures, processes, and criteria as may be necessary and appropriate to maximize cooperation and coordinate the activities of the Program with programs and activities of other Federal departments and agencies whose missions contribute to or are affected by advanced manufacturing;
 
-  (E) to establish a clearinghouse of public information related to the activities of the Program; and
+  (E) to establish a clearinghouse of public information related to the activities of the Program;
 
-  (F) to act as a convener of the Network.
+  (F) to act as a convener of the Network;
 
-(3) **Recommendations** — In developing and updating the strategic plan under paragraph (2)(C), the Secretary shall solicit recommendations and advice from a wide range of stakeholders, including industry, small and medium-sized manufacturing enterprises, research universities, community colleges, and other relevant organizations and institutions on an ongoing basis.
+  (G) to work with Federal agencies that are not sponsoring or supporting a Manufacturing USA institute to explore and develop options for sponsoring or supporting a Manufacturing USA institute;
+
+  (H) to work with Federal agencies that are sponsoring or supporting a Manufacturing USA institute to develop and implement network-wide performance goals with measurable targets and timelines;
+
+  (I) to help develop pilot programs that may be implemented by the Manufacturing USA institutes to address specific purposes of the Program, including to accelerate technology transfer to the private sector and to develop entrepreneurship programs;
+
+  (J) to provide support services to promote workforce development activities;
+
+  (K) to identify and disseminate best practices for workforce education and training across the Network and further enhance collaboration among Manufacturing USA institutes in developing and implementing such practices;
+
+  (L) to collaborate with the Department of Labor, the Department of Education, industry, career and technical education schools, local community colleges, universities, and labor organizations to provide input, as appropriate, for the development of national certifications for advanced manufacturing workforce skills in the technology areas of the Manufacturing USA institutes; and
+
+  (M) to coordinate with Manufacturing USA institutes to develop best practices for the membership agreements and coordination of similar project solicitations.
+
+(3) **Recommendations** — In developing and updating the strategic plan under paragraph (2)(C), the Secretary shall solicit recommendations and advice from a wide range of stakeholders, including industry, small and medium-sized manufacturing enterprises, research universities, community colleges, State, Tribal, and local governments, and other relevant organizations and institutions on an ongoing basis.
 
 (4) **Report to Congress** — Upon completion, the Secretary shall transmit the strategic plan required under paragraph (2)(C) to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Science, Space, and Technology of the House of Representatives.
 
-(5) **Hollings Manufacturing Extension Partnership** — The Secretary shall ensure that the National Program Office incorporates the Hollings Manufacturing Extension Partnership into Program planning to ensure that the results of the Program reach small and medium-sized entities.
+(5) **Hollings Manufacturing Extension Partnership**
+
+  (A) *In general* — The Secretary shall ensure that the National Program Office leverages the capabilities of the Hollings Manufacturing Extension Partnership into Program planning to ensure—
+
+    (i) significant outreach to, participation of, and engagement of small- and medium-sized manufacturers in Manufacturing USA institutes across the entirety of the manufacturing supply chain; and
+
+    (ii) that the results of the Program, including technologies developed by the Program, reach small- and medium-sized manufacturers and that such entities have access to technical assistance, as appropriate, in deploying those technologies.
+
+  (B) *Liaisons* — The Secretary may provide financial assistance to a manufacturing extension center established as part of the Hollings Manufacturing Extension Partnership to support the purposes of the Program by providing services in one or more of the following areas:
+
+    (i) Support services for small- and medium-sized manufacturers, that many include the designation of a liaison.
+
+    (ii) Assistance with workforce development.
+
+    (iii) Technology transfer for small and medium-sized manufacturers.
+
+    (iv) Such other areas as the Secretary determines appropriate to support the purposes of the Program.
 
 (6) **Detailees** — Any Federal Government employee may be detailed to the National Program Office without reimbursement. Such detail shall be without interruption or loss of civil service status or privilege.
 
-**(g) Reporting and auditing**
+**(i) Reporting and auditing**
 
 (1) **Annual reports to the Secretary**
 
-  (A) *In general* — The Secretary shall require each recipient of financial assistance under subsection (d)(1) to annually submit a report to the Secretary that describes the finances and performance of the center for manufacturing innovation for which such assistance was awarded.
+  (A) *In general* — Not less frequently than once each year, each agency head that is providing financial assistance under subsection (e) shall—
 
-  (B) *Elements* — Each report submitted under subparagraph (A) shall include—
+    (i) require each recipient of such financial assistance submit to the agency head a report that describes the finances and performance of the Manufacturing USA institute with respect to which the financial assistance is awarded; and
 
-    (i) an accounting of expenditures of amounts awarded to the recipient under subsection (d)(1); and
+    (ii) submit to the Secretary each report received by the agency head under clause (i).
 
-    (ii) consistent with the metrics-based performance measures developed and implemented by the Secretary under this section, a description of the performance of the center for manufacturing innovation with respect to—
+  (B) *Elements* — Each report submitted under subparagraph (A) shall include:
+
+    (i) an accounting of expenditures of amounts awarded to the recipient under subsection (e); and
+
+    (ii) consistent with the standards for performance established under subsection (e)(5)(B), a description of the performance of the Manufacturing USA institute with respect to—
 
       (I) its goals, plans, financial support, and accomplishments; and
 
-      (II) how the center for manufacturing innovation has furthered the purposes described in subsection (a)(2).
+      (II) how the Manufacturing USA institute has furthered the purposes set forth under subsection (b)(2).
 
 (2) **Annual reports to Congress**
 
-  (A) *In general* — Not less frequently than once each year until December 31, 2024, the Secretary shall submit a report to Congress that describes the performance of the Program during the most recent 1-year period.
+  (A) *In general* — Not less frequently than once each year until December 31, 2030, the Secretary shall submit a report to Congress that describes the performance of the Program during the most recent 1-year period.
 
   (B) *Elements* — Each report submitted under subparagraph (A) shall include, for the period covered by the report—
 
     (i) a summary and assessment of the reports received by the Secretary under paragraph (1);
 
-    (ii) an accounting of the funds expended by the Secretary under the Program, including any temporary exemptions granted from the requirements of subsection (d)(5)(C);
+    (ii) an accounting of the funds expended by the Secretary under the Program, including any waivers made under subsection (e)(7)(B);
 
-    (iii) an assessment of the participation in, and contributions to, the Network by any centers for manufacturing innovation not receiving financial assistance under subsection (d)(1); and
+    (iii) an assessment of the participation in, and contributions to, the Network by any Manufacturing USA institutes not receiving financial assistance under subsection (e); and
 
-    (iv) an assessment of the Program with respect to meeting the purposes described in subsection (a)(2).
+    (iv) an assessment of the Program with respect to meeting the purposes set forth under subsection (b)(2).
 
-(3) **Assessments by GAO**
+(3) **Assessments by Comptroller General of the United States**
 
-  (A) *Assessments* — Not less frequently than once every 2 years, the Comptroller General shall submit to Congress an assessment of the operation of the Program during the most recent 2-year period.
+  (A) *Assessments* — Not less frequently than once every 3 years, the Comptroller General of the United States shall submit to Congress an assessment of the operation of the Program during the most recent 3-year period, including an assessment of the progress made towards achieving the goals specified in the national strategic plan for advanced manufacturing required under [section 6622(b)(7) of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section6622/b/7&num=0&edition=prelim).
 
-  (B) *Final assessment* — Not later than December 31, 2024, the Comptroller General shall submit to Congress a final report regarding the overall success of the Program.
-
-  (C) *Elements* — Each assessment submitted under subparagraph (A) or (B) shall include, for the period covered by the report—
+  (B) *Elements* — Each assessment submitted under subparagraph (A) shall include, for the period covered by the report—
 
     (i) a review of the management, coordination, and industry utility of the Program;
 
-    (ii) an assessment of the extent to which the Program has furthered the purposes described in subsection (a)(2);
+    (ii) an assessment of the extent to which the Program has furthered the purposes set forth under subsection (b)(2);
 
     (iii) such recommendations for legislative and administrative action as the Comptroller General considers appropriate to improve the Program; and
 
     (iv) an assessment as to whether any prior recommendations for improvement made by the Comptroller General have been implemented or adopted.
 
-**(h) Additional authorities**
+  (C) *Final assessment* — No later than December 31, 2030, the Comptroller General shall submit to Congress a final report regarding the overall success of the Program.
 
-(1) **Appointment of personnel and contracts** — The Secretary may appoint such personnel and enter into such contracts, financial assistance agreements, and other agreements as the Secretary considers necessary or appropriate to carry out the Program, including support for research and development activities involving a center for manufacturing innovation.
+**(j) Additional authorities**
 
-(2) **Transfer of funds** — Of amounts available under the authority provided by subsection (e), the Secretary may transfer to other Federal agencies such sums as the Secretary considers necessary or appropriate to carry out the Program. No funds so transferred may be used to reimburse or otherwise pay for the costs of financial assistance incurred or commitments of financial assistance made prior to December 16, 2014.
+(1) **Appointment of personnel and contracts** — The Secretary may appoint such personnel and enter into such contracts, financial assistance agreements, and other agreements as the Secretary considers necessary or appropriate to carry out the Program, including support for research and development activities involving a Manufacturing USA institute.
+
+(2) **Transfer of funds** — Of amounts available under the authority provided by subsection (g), the Secretary may transfer to other Federal agencies such sums as the Secretary considers necessary or appropriate to carry out the Program. No funds so transferred may be used to reimburse or otherwise pay for the costs of financial assistance incurred or commitments of financial assistance made prior to December 16, 2014.
 
 (3) **Authority of other agencies** — In the event that the Secretary exercises the authority to transfer funds to another agency under paragraph (2), such agency may accept such funds to award and administer, under the same conditions and constraints applicable to the Secretary, all aspects of financial assistance awards under this section.
 
@@ -2270,17 +2692,49 @@ Another section 32 of act Mar. 3, 1901, ch. 872, was renumbered section 35 and i
 
 (5) **Acceptance of resources** — In addition to amounts appropriated to carry out the Program, the Secretary may accept funds, services, equipment, personnel, and facilities from any covered entity to carry out the Program, subject to the same conditions and constraints otherwise applicable to the Secretary under this section and such funds may only be obligated to the extent provided for in advance by appropriations Acts.
 
-(6) **Covered entity** — For purposes of this subsection, a covered entity is any Federal department, Federal agency, instrumentality of the United States, State, local government, tribal government, territory, or possession of the United States, or of any political subdivision thereof, or international organization, or any public or private entity or individual.
+(6) **Covered entities** — For purposes of this subsection, a covered entity is any Federal department, Federal agency, instrumentality of the United States, State, local government, Tribal government, territory, or possession of the United States, or of any political subdivision thereof, or international organization, or any public or private entity or individual.
 
-**(i) Patents** Chapter 18 of title 35 shall apply to any funding agreement (as defined in section 201 of that title) awarded to new or existing centers for manufacturing innovation.
+(7) **Collaborations with other agencies** — The Secretary shall collaborate with Federal agencies whose missions contribute to, or are affected by, advanced manufacturing to identify and leverage existing resources at such Federal agencies to assist Manufacturing USA institutes in carrying out the purposes of the Program set forth under subsection (b)(2). Such existing resources may include programs—
+
+  (A) at the Department of Labor relating to labor and apprenticeships;
+
+  (B) at the Economic Development Administration relating to regional innovation, such as the Regional Innovation Strategies program;
+
+  (C) at the Department of Education relating to workforce development, education, training, and retraining;
+
+  (D) at the Department of Defense relating to procurement and other authorities of the Department of Defense;
+
+  (E) at the Food and Drug Administration relating to biopharmaceutical manufacturing;
+
+  (F) at the National Science Foundation, including the Advanced Technological Education program;
+
+  (G) at the National Aeronautics and Space Administration relating to procurement, workforce development, education, training, and retraining;
+
+  (H) at the Department of Energy relating to development of clean energy technologies and other authorities of the Department of Energy;
+
+  (I) at the Department of Agriculture relating to outreach to rural communities;
+
+  (J) additional programs that the Secretary determines are appropriate to support the activities of existing Manufacturing USA institutes; and 22 So in original. Subpars. (J) and (K) are identical and the words “additional programs” do not follow from introductory provisions.
+
+  (K) additional programs that the Secretary determines are appropriate to support the activities of existing Manufacturing USA institutes.2
+
+**(k) Patents** Chapter 18 of title 35 shall apply to any funding agreement (as defined in section 201 of that title) awarded to new or existing Manufacturing USA institutes with respect to which financial assistance is awarded under subsection (e).
+
+**(l) References to prior names and terminology** Any reference in law, regulation, map, document, paper, or other record of the United States to the “Network for Manufacturing Innovation Program”, the “Network for Manufacturing Innovation”, “National Office of the Network for Manufacturing Innovation Program”, or a “center for manufacturing innovation” shall be considered to be a reference to the Manufacturing USA Program, the Manufacturing USA Network, the National Office of the Manufacturing USA Network, or a Manufacturing USA institute, respectively.
 
 ### Statutory Notes
 
-#### References in Text
-The Revitalize American Manufacturing and Innovation Act of 2014, referred to in subsec. (e)(1), is title VII of div. B. of Pub. L. 113–235, Dec. 16, 2014, 128 Stat. 2220. For complete classification of this Act to the Code, see Short Title note under [section 271 of this title](./chapter-007-national-institute-of-standards-and-technology.md#section-271) and Tables.
-
 #### Prior Provisions
 A prior section 34 of act Mar. 3, 1901, ch. 872, was renumbered section 35 and is set out as a Short Title note under [section 271 of this title](./chapter-007-national-institute-of-standards-and-technology.md#section-271).
+
+#### Amendments
+2019—Pub. L. 116–92 amended section generally. Prior to amendment, section related to Network for Manufacturing Innovation.
+
+#### Coordination With Hollings Manufacturing Extension Partnership Centers
+Pub. L. 116–283, div. H, title XCIV, § 9415, Jan. 1, 2021, 134 Stat. 4822, provided that: “Notwithstanding section 34(d)(2)(A)(iv) of the National Institute for [of] Standards and Technology Act ([15 U.S.C. 278s(d)(2)(A)(iv)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section278s/d/2/A/iv&num=0&edition=prelim)), each Manufacturing USA Institute (established under subsection (d) of such section) shall, as appropriate, contract with a Hollings Manufacturing Extension Partnership Center (established under section 25 of such Act [[15 U.S.C. 278k](./chapter-007-national-institute-of-standards-and-technology.md#section-278k)]) in each State in which such Institute provides services, either directly or through another such Center, to provide defense industrial base-related outreach, technical assistance, workforce development, and technology transfer assistance to small and medium-sized manufacturers. No Center shall charge in excess of its standard rate for such services. Funds received by a Center through such a contract shall not constitute financial assistance under section 25(e) of such Act.”
+
+#### Expansion of Manufacturing USA Network
+Pub. L. 116–92, div. A, title XVII, § 1741(b), Dec. 20, 2019, 133 Stat. 1837, provided that: “Subject to the availability of appropriations, the Secretary of Commerce shall take such actions as may be necessary to increase the number of Manufacturing USA institutes that participate in the Manufacturing USA Network.”
 
 #### Findings
 Pub. L. 113–235, div. B, title VII, § 702, Dec. 16, 2014, 128 Stat. 2220, provided that: “Congress finds the following: “(1) In 2012, manufacturers contributed $2.03 trillion to the economy, or ⅛ of United States Gross Domestic Product. “(2) For every $1.00 spent in manufacturing, another $1.32 is added to the economy, the highest multiplier effect of any economic sector. “(3) Manufacturing supports an estimated 17,400,000 jobs in the United States—about 1 in 6 private-sector jobs. More than 12,000,000 Americans (or 9 percent of the workforce) are employed directly in manufacturing. “(4) In 2012, the average manufacturing worker in the United States earned $77,505 annually, including pay and benefits. The average worker in all industries earned $62,063. “(5) Taken alone, manufacturing in the United States would be the 8th largest economy in the world. “(6) Manufacturers in the United States perform two-thirds of all private-sector research and development in the United States, driving more innovation than any other sector.”

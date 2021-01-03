@@ -453,18 +453,13 @@ Amendment by Pub. L. 111–203 effective on the designated transfer date, see se
 <a id="section-5112"></a>
 ## § 5112. Liability provisions
 
-The Bureau, any State official or agency, or any organization serving as the administrator of the Nationwide Mortgage Licensing System and Registry or a system established by the Director under [section 5108 of this title](./chapter-051-secure-and-fair-enforcement-for-mortgage-licensing.md#section-5108), or any officer or employee of any such entity, shall not be subject to any civil action or proceeding for monetary damages by reason of the good faith action or omission of any officer or employee of any such entity, while acting within the scope of office or employment, relating to the collection, furnishing, or dissemination of information concerning persons who are loan originators or are applying for licensing or registration as loan originators.
+The Bureau, any State official or agency, or any organization serving as the administrator of the Nationwide Mortgage Licensing System and Registry or a system established by the Director under [section 5108 of this title](./chapter-051-secure-and-fair-enforcement-for-mortgage-licensing.md#section-5108), or any officer or employee of any such entity, shall not be subject to any civil action or proceeding for monetary damages by reason of the good faith action or omission of any officer or employee of any such entity, while acting within the scope of office or employment, relating to the collection, furnishing, or dissemination of information concerning persons who—
+
+(1) have applied, are applying, or are licensed or registered through the Nationwide Mortgage Licensing System and Registry; and
+
+(2) work in an industry with respect to which persons were licensed or registered through the Nationwide Mortgage Licensing System and Registry on May 24, 2018.
 
 ### Statutory Notes
-
-#### Amendment of Section
-Pub. L. 115–174, title I, § 106(c), (d), May 24, 2018, 132 Stat. 1304, provided that, effective 18 months after May 24, 2018, this section is amended by striking “persons who are loan originators or are applying for licensing or registration as loan originators.” and inserting “persons who—
-
-“(1) have applied, are applying, or are licensed or registered through the Nationwide Mortgage Licensing System and Registry; and
-
-“(2) work in an industry with respect to which persons were licensed or registered through the Nationwide Mortgage Licensing System and Registry on May 24, 2018.”
-
-See 2018 Amendment note below.
 
 #### Prior Provisions
 A prior section 5112, Pub. L. 110–289, div. A, title V, § 1513, July 30, 2008, 122 Stat. 2820, which barred liability for good faith actions or omissions by certain entities’ officers or employees, was repealed by Pub. L. 111–203, title X, § 1100(8), July 21, 2010, 124 Stat. 2107.

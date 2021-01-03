@@ -26,6 +26,11 @@ The President is requested to issue each year a proclamation—
 
 In clause (2), the words “chief executive officers” are substituted for “Governors”, and the words “territories, and possessions” are substituted for “territories”, for clarity and consistency in the revised title and with other titles of the United States Code.
 
+#### Short Title of 2020 Amendment
+Pub. L. 116–282, § 1, Dec. 31, 2020, 134 Stat. 3386, provided that: “This Act [amending provisions set out as a note preceding this section] may be cited as the ‘United States Semiquincentennial Commission Amendments Act of 2020’.”
+
+Pub. L. 116–189, § 1, Oct. 30, 2020, 134 Stat. 943, provided that: “This Act [enacting subchapter V of chapter 2205 and [section 220513 of this title](./chapter-2205-united-states-olympic-and-paralympic-committee.md#section-220513), amending sections 220501 to 220507, 220509, 220511, 220512, 220521 to 220524, 220527 to 220531, and 220541 to 220543 of this title, [section 362 of Title 11](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title11-section362&num=0&edition=prelim), Bankruptcy, and [section 20341 of Title 34](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section20341&num=0&edition=prelim), Crime Control and Law Enforcement, and enacting provisions set out as notes under sections 220501, 220507, and 220551 of this title] may be cited as the ‘Empowering Olympic, Paralympic, and Amateur Athletes Act of 2020’.”
+
 #### Short Title of 2019 Amendment
 Pub. L. 116–67, § 1, Nov. 7, 2019, 133 Stat. 1128, provided that: “This Act [amending [section 902 of this title](./chapter-009-miscellaneous.md#section-902)] may be cited as the ‘National POW/MIA Flag Act’.”
 
@@ -57,7 +62,7 @@ Pub. L. 109–9, title III, § 311, Apr. 27, 2005, 119 Stat. 226, provided that:
 Pub. L. 107–323, § 1, Dec. 4, 2002, 116 Stat. 2787, provided that: “This Act [amending [section 902 of this title](./chapter-009-miscellaneous.md#section-902) and enacting provisions set out as a note under [section 902 of this title](./chapter-009-miscellaneous.md#section-902)] may be cited as the ‘POW/MIA Memorial Flag Act of 2002’.”
 
 #### Short Title of 1998 Amendment
-Pub. L. 105–277, div. C, title I, § 142(a), Oct. 21, 1998, 112 Stat. 2681–603, provided that: “This section [enacting [section 220512 of this title](./chapter-2205-united-states-olympic-committee.md#section-220512), amending sections 220501, 220503 to 220506, 220509 to 220511, 220521 to 220524, and 220528 of this title, and enacting provisions set out as a note under [section 220501 of this title](./chapter-2205-united-states-olympic-committee.md#section-220501)] may be cited as the ‘Olympic and Amateur Sports Act Amendments of 1998’.”
+Pub. L. 105–277, div. C, title I, § 142(a), Oct. 21, 1998, 112 Stat. 2681–603, provided that: “This section [enacting [section 220512 of this title](./chapter-2205-united-states-olympic-and-paralympic-committee.md#section-220512), amending sections 220501, 220503 to 220506, 220509 to 220511, 220521 to 220524, and 220528 of this title, and enacting provisions set out as a note under [section 220501 of this title](./chapter-2205-united-states-olympic-and-paralympic-committee.md#section-220501)] may be cited as the ‘Olympic and Amateur Sports Act Amendments of 1998’.”
 
 
 <a id="section-102"></a>

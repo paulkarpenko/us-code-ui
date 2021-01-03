@@ -2,7 +2,7 @@
 title: 49
 chapter: '603'
 heading: USER FEES
-section_count: 2
+section_count: 3
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49&num=0&edition=prelim
 ---
@@ -71,3 +71,24 @@ Pub. L. 104–304, § 17, Oct. 12, 1996, 110 Stat. 3803, provided that: “(a) I
   (B) if the fee is related to an underground natural gas storage facility subject to section 60141, the amount of the fee may be used only for an activity related to underground natural gas storage facility safety.
 
 (3) **Limitation.—** — No fee may be collected under this section, except to the extent that the expenditure of such fee to pay the costs of an activity related to underground natural gas storage facility safety for which such fee is imposed is provided in advance in an appropriations Act.
+
+
+<a id="section-60303"></a>
+## § 60303. Fees for compliance reviews of liquefied natural gas facilities
+**(a) Imposition of Fee.—**
+
+(1) **In general.—** — The Secretary of Transportation (referred to in this section as the “Secretary”) shall impose on a person who files with the Federal Energy Regulatory Commission an application for a liquefied natural gas facility that has design and construction costs totaling not less than $2,500,000,000 a fee for the necessary expenses of a review, if any, that the Secretary conducts, in connection with that application, to determine compliance with subpart B of part 193 of title 49, Code of Federal Regulations (or successor regulations).
+
+(2) **Relation to other review.—** — The Secretary may not impose fees under paragraph (1) and section 60117(o) or 60301(b) for the same compliance review described in paragraph (1).
+
+**(b) Means of Collection.—**
+
+(1) **In general.—** — The Secretary shall prescribe procedures to collect fees under this section.
+
+(2) **Use of government entities.—** — The Secretary may—
+
+  (A) use a department, agency, or instrumentality of the Federal Government or of a State or local government to collect fees under this section; and
+
+  (B) reimburse that department, agency, or instrumentality a reasonable amount for the services provided.
+
+**(c) Account.—** There is established an account, to be known as the “Liquefied Natural Gas Siting Account”, in the Pipeline Safety Fund established in the Treasury of the United States under section 60301.

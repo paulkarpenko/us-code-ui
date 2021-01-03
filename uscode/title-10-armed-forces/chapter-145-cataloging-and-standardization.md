@@ -20,12 +20,9 @@ source: >-
 
 (3) make efficient use of the services and facilities for inspecting, testing, and accepting such items.
 
-**(d)** The Secretary shall coordinate with the Administrator of General Services to enable the use of commercial identifiers for commercial items within the Federal cataloging system.
+**(d)** The Secretary shall coordinate with the Administrator of General Services to enable the use of commercial identifiers for commercial products (as defined in [section 103 of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section103&num=0&edition=prelim)) within the Federal cataloging system.
 
 ### Statutory Notes
-
-#### Amendment of Subsection (d)
-Pub. L. 115–232, div. A, title VIII, § 836(e)(9), (h), Aug. 13, 2018, 132 Stat. 1870, 1874, provided that, effective Jan. 1, 2020, subject to a savings provision, subsection (d) of this section is amended by striking “commercial items” and inserting “commercial products (as defined in [section 103 of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section103&num=0&edition=prelim))”. See 2018 Amendment note below.
 
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |

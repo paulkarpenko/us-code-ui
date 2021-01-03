@@ -2,7 +2,7 @@
 title: 10
 chapter: '111'
 heading: 'SUPPORT OF SCIENCE, MATHEMATICS, AND ENGINEERING EDUCATION'
-section_count: 12
+section_count: 13
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10&num=0&edition=prelim
 ---
@@ -99,7 +99,7 @@ Pub. L. 102–190, div. A, title VIII, § 829, Dec. 5, 1991, 105 Stat. 1444, dir
 
   (B) in the case of a person not an employee of the Department of Defense, the person shall enter into a written agreement to accept and continue employment for the period of obligated service determined under paragraph (2)—
 
-    (i) with the Department; or
+    (i) with the Department, including by serving on active duty in the Armed Forces; or
 
     (ii) with a public or private entity or organization outside of the Department if the Secretary—
 
@@ -113,9 +113,11 @@ Pub. L. 102–190, div. A, title VIII, § 829, Dec. 5, 1991, 105 Stat. 1444, dir
 
 **(d) Employment of Program Participants.—** The Secretary of Defense—
 
-(1) may, without regard to any provision of title 5 governing appointment of employees to competitive service positions within the Department of Defense, appoint to a position in the Department of Defense in the excepted service an individual who has successfully completed an academic program for which a scholarship or fellowship under this section was awarded and who, under the terms of the agreement for such scholarship or fellowship, at the time of such appointment, owes a service commitment to the Department; and
+(1) may, without regard to any provision of title 5 governing appointment of employees to competitive service positions within the Department of Defense, appoint to a position in the Department of Defense in the excepted service an individual who has successfully completed an academic program for which a scholarship or fellowship under this section was awarded and who, under the terms of the agreement for such scholarship or fellowship, at the time of such appointment, owes a service commitment to the Department;
 
-(2) may, upon satisfactory completion of 2 years of substantially continuous service by an incumbent who was appointed to an excepted service position under the authority of paragraph (1), convert the appointment of such individual, without competition, to a career or career conditional appointment.
+(2) may, upon satisfactory completion of 2 years of substantially continuous service by an incumbent who was appointed to an excepted service position under the authority of paragraph (1), convert the appointment of such individual, without competition, to a career or career conditional appointment; and
+
+(3) may establish arrangements so that participants may participate in a paid internship for an appropriate period with an industry sponsor.
 
 **(e) Refund for Period of Unserved Obligated Service.—**
 
@@ -140,7 +142,11 @@ Pub. L. 102–190, div. A, title VIII, § 829, Dec. 5, 1991, 105 Stat. 1444, dir
 
 (4) A discharge in bankruptcy under title 11 that is entered less than five years after the termination of an agreement under this section does not discharge the person signing such agreement from a debt arising under such agreement or under this subsection.
 
-**(f) Relationship to Other Programs.—** The Secretary of Defense shall coordinate the provision of financial assistance under the authority of this section with the provision of financial assistance under the other authorities provided in this chapter in order to maximize the benefits derived by the Department of Defense from the exercise of all such authorities.
+**(f) Relationship to Other Programs.—**
+
+(1) The Secretary of Defense shall coordinate the provision of financial assistance under the authority of this section with the provision of financial assistance under the other authorities provided in this chapter in order to maximize the benefits derived by the Department of Defense from the exercise of all such authorities.
+
+(2) The Secretary of Defense shall seek to enter into partnerships with minority institutions of higher education and appropriate public and private sector organizations to diversify the participants in the program under subsection (a).
 
 **(g) Limitation on Participation.—**
 
@@ -162,6 +168,12 @@ Pub. L. 102–190, div. A, title VIII, § 829, Dec. 5, 1991, 105 Stat. 1444, dir
 Section, as added by Pub. L. 109–163, consists of text of Pub. L. 108–375, div. A, title XI, § 1105, Oct. 28, 2004, 118 Stat. 2074; Pub. L. 109–163, div. A, title X, § 1056(d), title XI, § 1104(a)–(c), Jan. 6, 2006, 119 Stat. 3440, 3448, 3449; Pub. L. 111–383, div. A, title X, § 1075(h)(5), Jan. 7, 2011, 124 Stat. 4377, which was formerly set out as a note under [section 2192 of this title](./chapter-111-support-of-science-mathematics-and-engineering-education.md#section-2192), and was repealed by Pub. L. 109–163, div. A, title XI, § 1104(e)(1), Jan. 6, 2006, 119 Stat. 3450.
 
 #### Amendments
+2021—Subsec. (c)(1)(B)(i). Pub. L. 116–283, § 242(1), inserted “, including by serving on active duty in the Armed Forces” after “Department”.
+
+Subsec. (d)(3). Pub. L. 116–283, § 242(2), added par. (3).
+
+Subsec. (f). Pub. L. 116–283, § 242(3), designated existing provisions as par. (1) and added par. (2).
+
 2015—Subsec. (b)(1)(A). Pub. L. 114–92, § 212(1), inserted “or, subject to subsection (g), a country the government of which is a party to The Technical Cooperation Program (TTCP) memorandum of understanding of October 24, 1995” after “United States”.
 
 Subsecs. (g), (h). Pub. L. 114–92, § 212(2), (3), added subsec. (g) and redesignated former subsec. (g) as (h).
@@ -182,8 +194,44 @@ Subsecs. (g), (h). Pub. L. 111–84, § 1102(d)(1), redesignated subsec. (h) as 
 
 Subsec. (f). Pub. L. 110–417, § 1061(a)(5)(B), substituted “this title” for “title 10, United States Code”.
 
+#### National Security Workforce and Educational Diversity Activities
+Pub. L. 116–283, div. A, title II, § 250, Jan. 1, 2021, 134 Stat. 3495, provided that: “(a) In General.—The Secretary of Defense shall seek to diversify participation in the Science, Mathematics, and Research for Transformation (SMART) Defense Education Program under [section 2192a of title 10](./chapter-111-support-of-science-mathematics-and-engineering-education.md#section-2192a), United States Code. “(b) Activities.—In carrying out subsection (a), the Secretary shall—“(1) subject to the availability of appropriations for this purpose, set aside funds for financial assistance, scholarships, and fellowships for students at historically Black colleges or universities or at minority institutions of higher education and such other institutions as the Secretary considers appropriate; “(2) partner with institutions of higher education, and such other public and private sector organizations as the Secretary considers appropriate, to increase diversity of participants in the program described in subsection (a); “(3) establish individual and organizational incentives, and such other activities as the Secretary considers appropriate, to increase diversity of student participation in the program described in subsection (a); “(4) increase awareness of opportunities to participate in the program described in subsection (a); “(5) evaluate the potential for new programs, fellowships, and other activities at historically Black colleges or universities and minority institutions of higher education to increase diversity in educational and workforce development programs; “(6) identify potential changes to the program described in subsection (a) that would improve diversity of participants in such program; and “(7) establish metrics to evaluate success of activities under this section. “(c) Report.—Not later than September 30, 2024, the Secretary of Defense shall submit to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] a report that evaluates the success of activities conducted by the Secretary in increasing diversity in appropriate programs of the Department of Defense and hiring and retaining diverse individuals in the science, mathematics, and research workforce of the public sector.”
+
 #### Effect on Current Participants in SMART Pilot Program
 Pub. L. 109–163, div. A, title XI, § 1104(f), Jan. 6, 2006, 119 Stat. 3450, provided that: “Participation in the Science, Mathematics, and Research for Transformation (SMART) Defense Scholarship Pilot Program under section 1105 of Public Law 108–375 [see Codification note above] by an individual who has entered into an agreement under that pilot program before the date of the enactment of this Act [Jan. 6, 2006] shall be governed by the terms of such agreement without regard to the amendments made by this section [enacting this section, amending [section 3304 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section3304&num=0&edition=prelim), Government Organization and Employees, and amending and repealing provisions set out as a note under [section 2192 of this title](./chapter-111-support-of-science-mathematics-and-engineering-education.md#section-2192)].”
+
+
+<a id="section-2192b"></a>
+## § 2192b. Program on enhancement of preparation of dependents of members of armed forces for careers in science, technology, engineering, and mathematics
+**(a) Program Required.—** The Secretary of Defense shall carry out a program to—
+
+(1) enhance the preparation of students at covered schools for careers in science, technology, engineering, and mathematics; and
+
+(2) provide assistance to teachers at covered schools to enhance preparation described in paragraph (1).
+
+**(b) Coordination.—** In carrying out the program, the Secretary shall coordinate with the following:
+
+(1) The Secretaries of the military departments.
+
+(2) The Secretary of Education.
+
+(3) The National Science Foundation.
+
+(4) Other organizations as the Secretary of Defense considers appropriate.
+
+**(c) Activities.—** Activities under the program may include the following:
+
+(1) Establishment of targeted internships and cooperative research opportunities at defense laboratories and other technical centers for students and teachers at covered schools.
+
+(2) Establishment of scholarships and fellowships for students at covered schools.
+
+(3) Efforts and activities that improve the quality of science, technology, engineering, and mathematics educational and training opportunities for students and teachers at covered schools, including with respect to improving the development of curricula at covered schools.
+
+(4) Development of travel opportunities, demonstrations, mentoring programs, and informal science education for students and teachers at covered schools.
+
+**(d) Metrics.—** The Secretary shall establish outcome-based metrics and internal and external assessments to evaluate the merits and benefits of activities conducted under the program with respect to the needs of the Department of Defense.
+
+**(e) Covered Schools Defined.—** In this section, the term “covered schools” means elementary or secondary schools at which the Secretary determines a significant number of dependents of members of the armed forces are enrolled.
 
 
 <a id="section-2193"></a>
@@ -240,14 +288,14 @@ The text of [section 2193(b) of this title](https://uscode.house.gov/view.xhtml?
 1999—Pub. L. 106–65, § 580(c)(2), renumbered [section 2193(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2193/b&num=0&edition=prelim) as text of this section. See Codification note above.
 
 #### Pilot Program on Enhancement of Preparation of Dependents of Members of Armed Forces for Careers in Science, Technology, Engineering, and Mathematics
-Pub. L. 113–291, div. A, title II, § 233, Dec. 19, 2014, 128 Stat. 3334, provided that: “(a) Pilot Program.—The Secretary of Defense shall carry out a pilot program to assess the feasibility and advisability of—“(1) enhancing the preparation of covered students for careers in science, technology, engineering, and mathematics; and “(2) providing assistance to teachers at covered schools to enhance preparation described in paragraph (1). “(b) Coordination.—In carrying out the pilot program, the Secretary shall coordinate with the following:“(1) The Secretaries of the military departments. “(2) The Secretary of Education. “(3) The National Science Foundation. “(4) The heads of such other Federal, State, and local government and private sector organizations as the Secretary of Defense considers appropriate. “(c) Activities.—Activities under the pilot program may include the following:“(1) Establishment of targeted internships and cooperative research opportunities at defense laboratories and other technical centers for covered students and teachers at covered schools. “(2) Establishment of scholarships and fellowships for covered students. “(3) Efforts and activities that improve the quality of science, technology, engineering, and mathematics educational and training opportunities for covered students and teachers at covered schools, including with respect to improving the development of curricula at covered schools. “(4) Development of travel opportunities, demonstrations, mentoring programs, and informal science education for covered students and teachers at covered schools. “(d) Metrics.—The Secretary shall establish outcome-based metrics and internal and external assessments to evaluate the merits and benefits of activities conducted under the pilot program with respect to the needs of the Department of Defense. “(e) Authorities.—In carrying out the pilot program, the Secretary shall, to the maximum extent practicable, make use of the authorities under chapter 111 and sections 2601, 2605, and 2374a of title 10, United States Code, section 219 of the Duncan Hunter National Defense Authorization Act for Fiscal Year 2009 [Pub. L. 110–417] ([10 U.S.C. 2358](./chapter-139-research-and-development.md#section-2358) note), and such other authorities as the Secretary considers appropriate. “(f) Report.—Not later than two years after the date of the enactment of this Act [Dec. 19, 2014], the Secretary shall submit to the Committees on Armed Services of the Senate and the House of Representatives a report on activities carried out under the pilot program. “(g) Termination.—The pilot program shall terminate on September 30, 2020. “(h) Definitions.—In this section:“(1) The term ‘covered schools’ means elementary or secondary schools at which the Secretary determines a significant number of dependents of members of the Armed Forces are enrolled. “(2) The term ‘covered students’ means dependents of members of the Armed Forces who are enrolled at a covered school.”
+Pub. L. 113–291, div. A, title II, § 233, Dec. 19, 2014, 128 Stat. 3334, which required the Secretary of Defense to carry out a pilot program related to the enhancement of preparation of certain students for careers in science, technology, engineering, and mathematics, was repealed by Pub. L. 116–92, div. A, title II, § 211(c), Dec. 20, 2019, 133 Stat. 1255. See [section 2192b of this title](./chapter-111-support-of-science-mathematics-and-engineering-education.md#section-2192b).
 
 
 <a id="section-2193b"></a>
-## § 2193b. Improvement of education in technical fields: program for support of elementary and secondary education in science, mathematics, and technology
-**(a) Authority for Program.—** The Secretary of Defense may conduct a science, mathematics, and technology education improvement program known as the “Department of Defense STARBASE Program”. The Secretary shall carry out the program in coordination with the Secretaries of the military departments.
+## § 2193b. Improvement of education in technical fields: program for support of elementary and secondary education in science, technology, engineering, art and design, and mathematics
+**(a) Authority for Program.—** The Secretary of Defense may conduct a science, technology, engineering, art and design, and mathematics education improvement program known as the “Department of Defense STARBASE Program”. The Secretary shall carry out the program in coordination with the Secretaries of the military departments and the Secretary of the Department in which the Coast Guard is operating.
 
-**(b) Purpose.—** The purpose of the program is to improve knowledge and skills of students in kindergarten through twelfth grade in mathematics, science, and technology.
+**(b) Purpose.—** The purpose of the program is to improve knowledge and skills of students in kindergarten through twelfth grade in science, technology, engineering, art and design, and mathematics.
 
 **(c) STARBASE Academies.—**
 
@@ -267,17 +315,29 @@ Pub. L. 113–291, div. A, title II, § 233, Dec. 19, 2014, 128 Stat. 3334, prov
 
 **(f) Authority to Accept Financial and Other Support.—**
 
-(1) The Secretary of Defense and the Secretaries of the military departments may accept financial and other support for the program from other departments and agencies of the Federal Government, State governments, local governments, and not-for-profit and other organizations in the private sector.
+(1) The Secretary of Defense, the Secretaries of the military departments, and the Secretary of the Department in which the Coast Guard is operating may accept financial and other support for the program from other departments and agencies of the Federal Government, State governments, local governments, and not-for-profit and other organizations in the private sector.
 
 (2) The Secretary of Defense shall remain the executive agent to carry out the program regardless of the source of funds for the program or any transfer of jurisdiction over the program within the executive branch.
 
 **(g) Annual Report.—** Not later than March 31 of each year, the Secretary of Defense shall submit to Congress a report on the program under this section. The report shall contain a discussion of the design and conduct of the program and an evaluation of the effectiveness of the program.
 
-**(h) State Defined.—** In this section, the term “State” includes the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, and Guam.
+**(h) State Defined.—** In this section, the term “State” includes the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, the Commonwealth of the Northern Mariana Islands, American Samoa, and Guam.
 
 ### Statutory Notes
 
 #### Amendments
+2021—Pub. L. 116–283, § 591(a)(1), substituted “science, technology, engineering, art and design, and mathematics” for “science, mathematics, and technology” in section catchline.
+
+Subsec. (a). Pub. L. 116–283, § 591(a)(2), substituted “science, technology, engineering, art and design, and mathematics” for “science, mathematics, and technology”.
+
+Subsec. (b). Pub. L. 116–283, § 591(a)(3), substituted “science, technology, engineering, art and design, and mathematics” for “mathematics, science, and technology”.
+
+Subsec. (h). Pub. L. 116–283, § 592, inserted “the Commonwealth of the Northern Mariana Islands, American Samoa,” before “Guam”.
+
+2019—Subsec. (a). Pub. L. 116–92, § 552(1), inserted “and the Secretary of the Department in which the Coast Guard is operating” after “military departments”.
+
+Subsec. (f). Pub. L. 116–92, § 552(2), substituted “, the Secretaries of the military departments, and the Secretary of the Department in which the Coast Guard is operating” for “and the Secretaries of the military departments”.
+
 2011—Subsec. (g). Pub. L. 111–383 substituted “March 31 of each year” for “90 days after the end of each fiscal year”.
 
 2008—Subsec. (c)(3)(A). Pub. L. 110–181, § 592(1), substituted “more than four academies” for “more than two academies”.
@@ -574,10 +634,18 @@ Subsec. (e). Pub. L. 102–484, § 4238(a)(2), added subsec. (e).
 
 ### Statutory Notes
 
+#### Amendment of Subsection (c)
+Pub. L. 116–283, div. A, title XVIII, §§ 1801(d), 1867(e)(1), Jan. 1, 2021, 134 Stat. 4151, 4282, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, subsection (c) of this section is amended by striking “section 2505” and “section 2501(a)” and inserting “section 4816” and “section 4811(a)”, respectively. See 2021 Amendment note below.
+
 #### Amendments
+2021—Subsec. (c). Pub. L. 116–283 substituted “section 4816” for “section 2505” and “section 4811(a)” for “section 2501(a)”.
+
 1997—Subsec. (c). Pub. L. 105–85 substituted “that is identified under [section 2505 of this title](./chapter-148-national-defense-technology-and-industrial-base-defense-reinvestment-and-defense-conversion.md#section-2505) as critical for attaining the national security objectives set forth in [section 2501(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2501/a&num=0&edition=prelim).” for “identified in a defense critical technologies plan submitted to the Congress under [section 2506 of this title](./chapter-148-national-defense-technology-and-industrial-base-defense-reinvestment-and-defense-conversion.md#section-2506).”
 
 1993—Subsec. (c). Pub. L. 103–35 substituted “a defense” for “an annual defense” and “section 2506” for “section 2522”.
+
+#### Effective Date of 2021 Amendment
+Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
 
 
 <a id="section-2199"></a>

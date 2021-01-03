@@ -18,7 +18,7 @@ source: >-
 
 (3) The term “medicare-eligible”, with respect to any person, means entitled to benefits under part A of title XVIII of the Social Security Act ([42 U.S.C. 1395c](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395c&num=0&edition=prelim) et seq.).
 
-(4) The term “participating uniformed service” means the Army, Navy, Air Force, and Marine Corps, and any other uniformed service that is covered by an agreement entered into under subsection (c).
+(4) The term “participating uniformed service” means the Army, Navy, Air Force, Marine Corps, and Space Force, and any other uniformed service that is covered by an agreement entered into under subsection (c).
 
 (5) The term “members of the uniformed services on active duty” does not include a cadet at the United States Military Academy, the United States Air Force Academy, or the Coast Guard Academy or a midshipman at the United States Naval Academy.
 
@@ -30,6 +30,8 @@ source: >-
 The Social Security Act, referred to in subsec. (b)(3), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Part A of title XVIII of the Act is classified generally to part A (§ 1395c et seq.) of subchapter XVIII of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see [section 1305 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1305&num=0&edition=prelim) and Tables.
 
 #### Amendments
+2021—Subsec. (b)(4). Pub. L. 116–283 substituted “Marine Corps, and Space Force” for “and Marine Corps”.
+
 2006—Subsec. (a). Pub. L. 109–364, § 592(a)(1), substituted “of the uniformed services” for “of the Department of Defense”.
 
 Subsec. (b)(5). Pub. L. 109–364, § 592(a)(2), added par. (5).

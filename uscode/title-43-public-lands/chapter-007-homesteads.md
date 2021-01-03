@@ -737,15 +737,16 @@ Pub. L. 103–23, § 1(c), Apr. 16, 1993, 107 Stat. 65, provided that: “The am
 #### Regulations
 Pub. L. 103–23, § 1(d), Apr. 16, 1993, 107 Stat. 65, provided that: “The Secretary of the Interior shall issue final regulations to implement the amendments made by this Act [amending this section] not later than the effective date of this Act [see Effective Date of 1993 Amendment note above]. Failure to promulgate these regulations by reason of any appeal or judicial review shall not delay the effective date as specified in paragraph (c).”
 
+#### Abolition of Office of Surveyor General and Transfer of Functions
+Act Mar. 3, 1925, ch. 462, 43 Stat. 1144, abolished office of surveyor general and transferred administration of all activities in charge of surveyors general to Field Surveying Service under jurisdiction of United States Supervisor of Surveys.
+
+#### Report to Congress on Foreign Mineral Interests
+Pub. L. 103–23, § 2, Apr. 16, 1993, 107 Stat. 65, directed Secretary of the Interior to submit report to Congress within 2 years after Apr. 16, 1993, on acquisition of mineral interests made after such date by foreign firms on lands subject to this section.
+
 #### Transfer of Functions
 For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out under [section 1451 of this title](./chapter-031-department-of-the-interior.md#section-1451).
 
 Words “officer designated by the Secretary of the Interior” substituted for “register” and “Secretary of the Interior or such officer as he may designate” substituted for “Commissioner of the General Land Office” on authority of section 403 of Reorg. Plan No. 3 of 1946. See note set out under [section 1 of this title](./chapter-001-bureau-of-land-management.md#section-1).
-
-Act Mar. 3, 1925, abolished office of surveyor general and transferred administration of all activities in charge of surveyors general to Field Surveying Service under jurisdiction of United States Supervisor of Surveys.
-
-#### Report to Congress on Foreign Mineral Interests
-Section 2 of Pub. L. 103–23 directed Secretary of the Interior to submit report to Congress within 2 years after Apr. 16, 1993, on acquisition of mineral interests made after such date by foreign firms on lands subject to this section.
 
 
 <a id="section-300"></a>

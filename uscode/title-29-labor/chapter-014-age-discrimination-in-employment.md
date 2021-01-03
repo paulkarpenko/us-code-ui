@@ -40,14 +40,14 @@ Pub. L. 95–256, § 1, Apr. 6, 1978, 92 Stat. 189, provided that: “This Act [
 #### Short Title
 Pub. L. 90–202, § 1, Dec. 15, 1967, 81 Stat. 602, provided: “That this Act [enacting this chapter] may be cited as the ‘Age Discrimination in Employment Act of 1967’.”
 
-#### Transfer of Functions
-Functions vested by this section in Secretary of Labor or Civil Service Commission transferred to Equal Employment Opportunity Commission by Reorg. Plan No. 1 of 1978, § 2, 43 F.R. 19807, 92 Stat. 3781, set out in the Appendix to Title 5, Government Organization and Employees, effective Jan. 1, 1979, as provided by section 1–101 of Ex. Ord. No. 12106, Dec. 28, 1978, 44 F.R. 1053.
-
 #### Severability
 Pub. L. 101–433, title III, § 301, Oct. 16, 1990, 104 Stat. 984, provided that: “If any provision of this Act [see Short Title of 1990 Amendment note above], or an amendment made by this Act, or the application of such provision to any person or circumstances is held to be invalid, the remainder of this Act and the amendments made by this Act, and the application of such provision to other persons and circumstances, shall not be affected thereby.”
 
 #### Congressional Finding
 Pub. L. 101–433, title I, § 101, Oct. 16, 1990, 104 Stat. 978, provided that: “The Congress finds that, as a result of the decision of the Supreme Court in Public Employees Retirement System of Ohio v. Betts, 109 S.Ct. 256 (1989), legislative action is necessary to restore the original congressional intent in passing and amending the Age Discrimination in Employment Act of 1967 ([29 U.S.C. 621](./chapter-014-age-discrimination-in-employment.md#section-621) et seq.), which was to prohibit discrimination against older workers in all employee benefits except when age-based reductions in employee benefit plans are justified by significant cost considerations.”
+
+#### Transfer of Functions
+Functions vested by this section in Secretary of Labor or Civil Service Commission transferred to Equal Employment Opportunity Commission by Reorg. Plan No. 1 of 1978, § 2, 43 F.R. 19807, 92 Stat. 3781, set out in the Appendix to Title 5, Government Organization and Employees, effective Jan. 1, 1979, as provided by section 1–101 of Ex. Ord. No. 12106, Dec. 28, 1978, 44 F.R. 1053.
 
 
 <a id="section-622"></a>
@@ -460,11 +460,11 @@ Pub. L. 105–244, title IX, § 941(c), Oct. 7, 1998, 112 Stat. 1835, provided t
 #### Construction of 1996 Amendment
 Pub. L. 104–208, div. A, title I, § 101(a) [title I, § 119[1(c)]], Sept. 30, 1996, 110 Stat. 3009–24, provided that: “Nothing in the repeal, reenactment, and amendment made by subsections (a) and (b) [section 101(a) [title I, § 119[1(a), (b)]] of Pub. L. 104–208, amending this section and repealing provisions set out as a note under this section] shall be construed to make lawful the failure or refusal to hire, or the discharge of, an individual pursuant to a law that— “(1) was enacted after March 3, 1983 and before the date of enactment of the Age Discrimination in Employment Amendments of 1996 [Sept. 30, 1996]; and “(2) lowered the age of hiring or retirement, respectively, for firefighters or law enforcement officers that was in effect under applicable State or local law on March 3, 1983.”
 
-#### Transfer of Functions
-Functions vested by this section in Secretary of Labor or Civil Service Commission transferred to Equal Employment Opportunity Commission by Reorg. Plan No. 1 of 1978, § 2, 43 F.R. 19807, 92 Stat. 3781, set out in the Appendix to Title 5, Government Organization and Employees, effective Jan. 1, 1979, as provided by section 1–101 of Ex. Ord. No. 12106, Dec. 28, 1978, 44 F.R. 1053.
-
 #### Study and Guidelines for Performance Tests
 Pub. L. 104–208, div. A, title I, § 101(a) [title I, § 119[2]], Sept. 30, 1996, 110 Stat. 3009, 3009–24, required the Secretary of Health and Human Services to conduct a study on tests assessing the abilities important for the completion of public safety tasks performed by law enforcement officers and firefighters no later than 3 years after Sept. 30, 1996, and to develop and issue advisory guidelines based on the results of the study no later than 4 years after Sept. 30, 1996, and authorized appropriations.
+
+#### Transfer of Functions
+Functions vested by this section in Secretary of Labor or Civil Service Commission transferred to Equal Employment Opportunity Commission by Reorg. Plan No. 1 of 1978, § 2, 43 F.R. 19807, 92 Stat. 3781, set out in the Appendix to Title 5, Government Organization and Employees, effective Jan. 1, 1979, as provided by section 1–101 of Ex. Ord. No. 12106, Dec. 28, 1978, 44 F.R. 1053.
 
 
 <a id="section-624"></a>
@@ -494,7 +494,7 @@ Section 3(a) of the Age Discrimination in Employment Act Amendments of 1978, ref
 1978—Pub. L. 95–256 designated existing provisions as par. (1), added cls. (A) to (D), added par. (2), and added subsec. (b).
 
 #### Study To Analyze Potential Consequences of Elimination of Mandatory Retirement on Institutions of Higher Education
-Pub. L. 99–592, § 6(c), Oct. 31, 1986, 100 Stat. 3344, provided that: “(1) The Equal Employment Opportunity Commission shall, not later than 12 months after the date of enactment of this Act [Oct. 31, 1986], enter into an agreement with the National Academy of Sciences for the conduct of a study to analyze the potential consequences of the elimination of mandatory retirement on institutions of higher education. “(2) The study required by paragraph (1) of this subsection shall be conducted under the general supervision of the National Academy of Sciences by a study panel composed of 9 members. The study panel shall consist of—“(A) 4 members who shall be administrators at institutions of higher education selected by the National Academy of Sciences after consultation with the American Council of Education, the Association of American Universities, and the National Association of State Universities and Land Grant Colleges; “(B) 4 members who shall be teachers or retired teachers at institutions of higher education (who do not serve in an administrative capacity at such institutions), selected by the National Academy of Sciences after consultation with the American Federation of Teachers, the National Education Association, the American Association of University Professors, and the American Association of Retired Persons; and “(C) one member selected by the National Academy of Sciences. “(3) The results of the study shall be reported, with recommendations, to the President and to the Congress not later than 5 years after the date of enactment of this Act [Oct. 31, 1986]. “(4) The expenses of the study required by this subsection shall be paid from funds available to the Equal Employment Opportunity Commission.”
+Pub. L. 99–592, § 6(c), Oct. 31, 1986, 100 Stat. 3344, required the Equal Employment Opportunity Commission, not later than 12 months after Oct. 31, 1986, to enter into an agreement with the National Academy of Sciences for the conduct of a study to analyze the potential consequences of the elimination of mandatory retirement on institutions of higher education and to report the results of the study, with recommendations, to the President and to Congress not later than 5 years after Oct. 31, 1986.
 
 
 <a id="section-625"></a>
@@ -607,14 +607,14 @@ Pub. L. 95–256, § 4(b)(2), Apr. 6, 1978, 92 Stat. 190, provided that: “The 
 
 Pub. L. 95–256, § 4(c)(2), Apr. 6, 1978, 92 Stat. 191, provided that: “The amendment made by paragraph (1) of this subsection [amending this section] shall take effect with respect to conciliations commenced by the Secretary of Labor after the date of enactment of this Act [Apr. 6, 1978].”
 
-#### Transfer of Functions
-“Equal Employment Opportunity Commission” and “Commission” substituted for “Secretary”, meaning Secretary of Labor, pursuant to Reorg. Plan No. 1 of 1978, § 2, 43 F.R. 19807, 92 Stat. 3781, set out in the Appendix to Title 5, Government Organization and Employees, which transferred all functions vested by this section in Secretary of Labor to Equal Employment Opportunity Commission, effective Jan. 1, 1979, as provided by section 1–101 of Ex. Ord. No. 12106, Dec. 28, 1978, 44 F.R. 1053.
-
 #### Rule on Waivers
 Pub. L. 101–433, title II, § 202(b), Oct. 16, 1990, 104 Stat. 984, provided that: “Effective on the date of enactment of this Act [Oct. 16, 1990], the rule on waivers issued by the Equal Employment Opportunity Commission and contained in section 1627.16(c) of title 29, Code of Federal Regulations, shall have no force and effect.”
 
 #### Age Discrimination Claims Assistance
 Pub. L. 100–283, Apr. 7, 1988, 102 Stat. 78, as amended by Pub. L. 101–504, § 2, Nov. 3, 1990, 104 Stat. 1298, provided extension period for filing civil actions under this section, such period consisting of 450 days beginning on Apr. 7, 1988, in cases where a charge was timely filed with the Equal Employment Opportunity Commission after Dec. 31, 1983, and 450 days beginning on Nov. 3, 1990, in cases where a charge was timely filed after Apr. 6, 1985, but the Commission did not, within the applicable period set forth in subsec. (e) of this section either eliminate the alleged unlawful practice or notify the complainant, in writing, of the disposition of the charge and of right of such person to bring civil action on such claim; required the Commission to provide notice regarding claims for which extension period was applicable; and required the Commission to submit reports to Congress containing, among other things, information as to number of persons eligible for extension period and number of persons who were provided notice regarding claims for which extension period was provided.
+
+#### Transfer of Functions
+“Equal Employment Opportunity Commission” and “Commission” substituted for “Secretary”, meaning Secretary of Labor, pursuant to Reorg. Plan No. 1 of 1978, § 2, 43 F.R. 19807, 92 Stat. 3781, set out in the Appendix to Title 5, Government Organization and Employees, which transferred all functions vested by this section in Secretary of Labor to Equal Employment Opportunity Commission, effective Jan. 1, 1979, as provided by section 1–101 of Ex. Ord. No. 12106, Dec. 28, 1978, 44 F.R. 1053.
 
 
 <a id="section-627"></a>
@@ -858,7 +858,7 @@ Amendment by Pub. L. 111–2 effective as if enacted May 28, 2007, and applicabl
 Pub. L. 105–220, title III, § 341(d), Aug. 7, 1998, 112 Stat. 1092, which provided that amendments made by subsections (a), (b), and (c) (amending this section, [section 791 of this title](./chapter-016-vocational-rehabilitation-and-other-rehabilitation-services.md#section-791), and [section 2000e–16 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2000e–16&num=0&edition=prelim), The Public Health and Welfare) would take effect on Aug. 7, 1998, and would be applicable to and may be raised in any administrative or judicial claim or action brought before Aug. 7, 1998, but pending on such date, and any administrative or judicial claim or action brought after Aug. 7, 1998, regardless of whether the claim or action arose prior to such date, if the claim or action was brought within the applicable statute of limitations, was repealed by Pub. L. 113–128, title V, § 511(a), July 22, 2014, 128 Stat. 1705.
 
 #### Effective Date of 1995 Amendment
-Amendment by Pub. L. 104–1 effective 1 year after Jan. 23, 1995, see [section 1311(d) of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1311/d&num=0&edition=prelim), The Congress.
+Amendment by Pub. L. 104–1 effective 1 year after Jan. 23, 1995, see [section 1311(e) of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1311/e&num=0&edition=prelim), The Congress.
 
 #### Effective Date of 1978 Amendment
 Pub. L. 95–256, § 5(f), Apr. 6, 1978, 92 Stat. 192, provided that: “The amendments made by this section [amending this section and sections 8335 and 8339 of Title 5, Government Organization and Employees, and repealing [section 3322 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section3322&num=0&edition=prelim)] shall take effect on September 30, 1978, except that section 15(g) of the Age Discrimination in Employment Act of 1967, as amended by subsection (e) of this section [subsec. (g) of this section], shall take effect on the date of enactment of this Act [Apr. 6, 1978].”

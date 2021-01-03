@@ -2,7 +2,7 @@
 title: 2
 chapter: '41'
 heading: CONGRESSIONAL OFFICERS AND ADMINISTRATION
-section_count: 15
+section_count: 16
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2&num=0&edition=prelim
 ---
@@ -42,6 +42,7 @@ Section was formerly classified to [section 111 of this title](./chapter-004-off
 #### Transfer of Functions
 Bureau of Federal Supply and its functions and duties transferred to Administrator of General Services by act June 30, 1949.
 
+#### Transfer of Functions
 Effective Jan. 1, 1947, Procurement Division of Treasury Department changed to Bureau of Federal Supply by former regulation § 5.7 of subpart A of Part 5 of Title 41, Public Contracts, 11 F.R. 13638, issued by the Secretary of the Treasury.
 
 Ex. Ord. No. 6166, abolished General Supply Committee of Treasury Department and vested it in Procurement Division. Public Buildings Branch of Procurement Division was in turn changed to Public Buildings Administration to be within Federal Works Agency by Reorg. Plan No. I, §§ 301, 303, eff. July 1, 1939, 4 F.R. 2729, 53 Stat. 1426, 1427.
@@ -243,6 +244,22 @@ Pub. L. 105–275, title II, § 209, Oct. 21, 1998, 112 Stat. 2448, provided tha
 
 #### Congressional Cemetery; Restoration and Preservation; Grants to the Association for the Preservation of Historic Congressional Cemetery
 Pub. L. 97–245, Aug. 26, 1982, 96 Stat. 313, provided: “That the Congress finds and declares that— “(1) sections of the Congressional Cemetery in the District of Columbia are of national historic significance, including those areas in which John Philip Sousa, Matthew Brady, J. Edgar Hoover, several former Members of the United States Senate and House of Representatives, and many other persons of historical importance and interest are buried; and “(2) the physical condition of these areas and related portions of the cemetery has deteriorated to the extent that restoration is necessary to protect and preserve the historical values of these areas. “Sec. 2. In order to assist in the restoration and preservation of the historic values of the Congressional Cemetery, the Architect of the Capitol is authorized and directed to make grants to the Association for the Preservation of Historic Congressional Cemetery, Washington, District of Columbia, to be used for a program of restoration and preservation (but not routine maintenance) of the cemetery to be carried out under terms and conditions to be prescribed by the Architect of the Capitol. The Association shall maintain adequate records and accounts of all financial transactions and operations carried out under such program, and such records shall be available at all times for audit and investigation by the Architect or the Comptroller General of the United States. Nothing in this Act shall be construed to vest title to the Congressional Cemetery in the United States. “Sec. 3. There is authorized to be appropriated $300,000 for grants to be made under section 2 of this Act, such sums to remain available until expended. “Sec. 4. No authority under this Act to make payments shall be effective except to the extent and in such amounts as provided in advance in appropriations Acts.”
+
+
+<a id="section-4111"></a>
+## § 4111. Annual report by Comptroller General of the United States on cybersecurity and surveillance threats to Congress
+**(a) Annual report required** Not later than 180 days after December 20, 2019, and not less frequently than once each year thereafter, the Comptroller General of the United States shall submit to the congressional intelligence committees a report on cybersecurity and surveillance threats to Congress.
+
+**(b) Statistics** Each report submitted under subsection (a) shall include statistics on cyber attacks and other incidents of espionage or surveillance targeted against Senators or the immediate families or staff of the Senators, and Representatives, Delegates, and the Resident Commissioner, or the immediate families or staff of the Representatives, Delegates, and the Resident Commissioner, in which the nonpublic communications and other private information of such targeted individuals were lost, stolen, or otherwise subject to unauthorized access.
+
+**(c) Consultation** In preparing a report to be submitted under subsection (a), the Comptroller General shall consult with the Director of National Intelligence, the Secretary of Homeland Security, the Sergeant at Arms of the House of Representatives, and the Sergeant at Arms and Doorkeeper of the Senate.
+
+**(d) Form** The report under subsection (a), including the contents of the report in subsection (b), shall be submitted in unclassified form, but may include a classified annex to protect sources and methods and any appropriate redactions of personally identifiable information.
+
+### Statutory Notes
+
+#### Definitions
+For definition of “congressional intelligence committees” as used in this section, see section 5003 of div. E of Pub. L. 116–92, set out as a note under [section 3003 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3003&num=0&edition=prelim), War and National Defense.
 
 
 <a id="section-4121"></a>

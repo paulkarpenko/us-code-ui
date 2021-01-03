@@ -269,13 +269,13 @@ Set forth below are the citations to the legislative history of Public Law 87–
 
 2. H. Rept. 748, 87th Cong., 1st sess.
 
-3. 107 Cong., Rec. 14774.
+3. 107 Cong. Rec. 14774.
 
-4. Hearing of June 21, 1962, before the Senate Judiciary Committee, 87th Cong., 2d sess., on Conflicts of Interest.
+4. Hearing of June 21, 1962 before the Senate Judiciary Committee, 87th Cong., 2d sess., on Conflicts of Interest.
 
 5. S. Rept. 2213, 87th Cong., 2d sess.
 
-6. 108 Cong. Rec. 20805 and 21130 (daily ed., October 3 and 4, 1962).
+6. 108 Cong. Rec. 20805 and 21130 (daily ed., October 3 and 4, 1962) [Cong. Rec., vol. 108, pt. 16, pp. 21975, 22311, Oct. 3 and 4, 1962].
 
 #### Other Material
 1. President’s special message to Congress, April 27, 1961, and attached draft bill, 107 Cong. Rec. 6835.
@@ -284,7 +284,7 @@ Set forth below are the citations to the legislative history of Public Law 87–
 
 3. 42 Op. A.G. No. 6, January 31, 1962.
 
-4. Memorandum of December 10, 1956, for the Attorney General from the Office of Legal Counsel re conflict of interest statutes, Hearings before the Antitrust Subcommittee (Subcommittee No. 5) of House Judiciary Committee, 86th Cong., 2d sess., ser. 17, pt. 2, p. 619.
+4. Memorandum of December 10, 1956 for the Attorney General from the Office of Legal Counsel re conflict of interest statutes, Hearings before the Antitrust Subcommittee (Subcommittee No. 5) of House Judiciary Committee, 86th Cong., 2d sess., ser. 17, pt. 2, p. 619.
 
 5. Staff report of Antitrust Subcommittee (Subcommittee No. 5) of House Judiciary Committee, 85th Cong., 2d sess., Federal Conflict of Interest Legislation (Comm. Print 1958).
 
@@ -475,16 +475,16 @@ Amendment by Pub. L. 91–405 effective Sept. 22, 1970, see section 206(b) of Pu
 #### Effective Date
 Section effective 90 days after Oct. 23, 1962, see section 4 of Pub. L. 87–849, set out as a note under [section 201 of this title](./chapter-011-bribery-graft-and-conflicts-of-interest.md#section-201).
 
-#### Delegation of Authority
-Authority of President under subsec. (d) of this section to grant exemptions or approvals to individuals delegated to agency heads, see section 401 of Ex. Ord. No. 12674, Apr. 12, 1989, 54 F.R. 15159, as amended, set out as a note under [section 7301 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section7301&num=0&edition=prelim), Government Organization and Employees.
-
-Authority of President under subsec. (d) of this section to grant exemptions or approvals for Presidential appointees to committees, commissions, boards, or similar groups established by the President, and for individuals appointed pursuant to sections 105 and 107(a) of Title 3, The President, delegated to Counsel to President, see section 402 of Ex Ord. No. 12674, Apr. 12, 1989, 54 F.R. 15159, as amended, set out as a note under [section 7301 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section7301&num=0&edition=prelim).
-
 #### Exemptions
 Pub. L. 87–849, § 2, Oct. 23, 1962, 76 Stat. 1126, provided in part that: “All exemptions from the provisions of sections 281, 282, 283, 284, 434, or 1914 of title 18 of the United States Code heretofore created or authorized by statute which are in force on the effective date of this Act [see Effective Date note under [section 201 of this title](./chapter-011-bribery-graft-and-conflicts-of-interest.md#section-201)] shall, on and after that date, be deemed to be exemptions from sections 203, 204, 205, 207, 208, or 209, respectively, of title 18 of the United States Code except to the extent that they affect officers or employees of the executive branch of the United States Government, of any independent agency of the United States, or of the District of Columbia, as to whom they are no longer applicable.”
 
 #### Private Sector Representatives on United States Delegations to International Telecommunications Meetings and Conferences
 Pub. L. 97–241, title I, § 120, Aug. 24, 1982, 96 Stat. 280, provided that: “(a) Sections 203, 205, 207, and 208 of title 18, United States Code, shall not apply to a private sector representative on the United States delegation to an international telecommunications meeting or conference who is specifically designated to speak on behalf of or otherwise represent the interests of the United States at such meeting or conference with respect to a particular matter, if the Secretary of State (or the Secretary’s designee) certifies that no Government employee on the delegation is as well qualified to represent United States interests with respect to such matter and that such designation serves the national interest. All such representatives shall have on file with the Department of State the financial disclosure report required for special Government employees. “(b) As used in this section, the term ‘international telecommunications meeting or conference’ means the conferences of the International Telecommunications Union, meetings of its International Consultative Committees for Radio and for Telephone and Telegraph, and such other international telecommunications meetings or conferences as the Secretary of State may designate.”
+
+#### Delegation of Authority
+Authority of President under subsec. (d) of this section to grant exemptions or approvals to individuals delegated to agency heads, see section 401 of Ex. Ord. No. 12674, Apr. 12, 1989, 54 F.R. 15159, as amended, set out as a note under [section 7301 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section7301&num=0&edition=prelim), Government Organization and Employees.
+
+Authority of President under subsec. (d) of this section to grant exemptions or approvals for Presidential appointees to committees, commissions, boards, or similar groups established by the President, and for individuals appointed pursuant to sections 105 and 107(a) of Title 3, The President, delegated to Counsel to President, see section 402 of Ex Ord. No. 12674, Apr. 12, 1989, 54 F.R. 15159, as amended, set out as a note under [section 7301 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section7301&num=0&edition=prelim).
 
 
 <a id="section-204"></a>
@@ -613,13 +613,13 @@ Subsec. (b)(2). Pub. L. 101–280, § 5(c)(2), substituted “commission” for 
 #### Effective Date
 Section effective 90 days after Oct. 23, 1962, see section 4 of Pub. L. 87–849, set out as a note under [section 201 of this title](./chapter-011-bribery-graft-and-conflicts-of-interest.md#section-201).
 
+#### Exemptions
+Exemptions from former [section 283 of this title](./chapter-015-claims-and-services-in-matters-affecting-government.md#section-283) deemed to be exemptions from this section, see section 2 of Pub. L. 87–849, set out as a note under [section 203 of this title](./chapter-011-bribery-graft-and-conflicts-of-interest.md#section-203).
+
 #### Delegation of Authority
 Authority of President under subsec. (e) of this section to grant exemptions or approvals to individuals delegated to agency heads, see section 401 of Ex. Ord. No. 12674, Apr. 12, 1989, 54 F.R. 15159, as amended, set out as a note under [section 7301 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section7301&num=0&edition=prelim), Government Organization and Employees.
 
 Authority of President under subsec. (e) of this section to grant exemptions or approvals for Presidential appointees to committees, commissions, boards, or similar groups established by the President, and for individuals appointed pursuant to sections 105 and 107(a) of Title 3, The President, delegated to Counsel to President, see section 402 of Ex Ord. No. 12674, Apr. 12, 1989, 54 F.R. 15159, as amended, set out as a note under [section 7301 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section7301&num=0&edition=prelim).
-
-#### Exemptions
-Exemptions from former [section 283 of this title](./chapter-015-claims-and-services-in-matters-affecting-government.md#section-283) deemed to be exemptions from this section, see section 2 of Pub. L. 87–849, set out as a note under [section 203 of this title](./chapter-011-bribery-graft-and-conflicts-of-interest.md#section-203).
 
 
 <a id="section-206"></a>
@@ -1144,11 +1144,14 @@ Pub. L. 110–81, title I, § 104(c), Sept. 14, 2007, 121 Stat. 740, provided th
 #### Transfer of Functions
 Certain functions of Clerk of House of Representatives transferred to Director of Non-legislative and Financial Services by section 7 of House Resolution No. 423, One Hundred Second Congress, Apr. 9, 1992. Director of Non-legislative and Financial Services replaced by Chief Administrative Officer of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
 
-#### Agencies Within Executive Office of President
-For provisions relating to treatment of agencies within the Executive Office of the President as one agency under subsec. (c) of this section, see Ex. Ord. No. 12674, § 202, Apr. 12, 1989, 54 F.R. 15160, as amended, set out as a note under [section 7301 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section7301&num=0&edition=prelim), Government Organization and Employees.
+#### Senate Democratic Leadership Offices Funding and Authorities
+Reference to the Office of the Secretary of the majority or minority conference of the Senate, as applicable, that represents the Democratic party deemed to be a reference to the Office of the Assistant Leader of the applicable conference, under certain conditions during the 117th Congress, see section 104 of div. I of Pub. L. 116–260, set out as a note under [section 6154 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section6154&num=0&edition=prelim), The Congress.
 
 #### Exemptions
 Exemptions from former [section 284 of this title](./chapter-015-claims-and-services-in-matters-affecting-government.md#section-284) deemed to be exemptions from this section, see section 2 of Pub. L. 87–849, set out as a note under [section 203 of this title](./chapter-011-bribery-graft-and-conflicts-of-interest.md#section-203).
+
+#### Agencies Within Executive Office of President
+For provisions relating to treatment of agencies within the Executive Office of the President as one agency under subsec. (c) of this section, see Ex. Ord. No. 12674, § 202, Apr. 12, 1989, 54 F.R. 15160, as amended, set out as a note under [section 7301 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section7301&num=0&edition=prelim), Government Organization and Employees.
 
 
 <a id="section-208"></a>
@@ -1231,18 +1234,18 @@ Section effective 90 days after Oct. 23, 1962, see section 4 of Pub. L. 87–849
 #### Exemptions
 Exemptions from former [section 434 of this title](./chapter-023-contracts.md#section-434) deemed to be exemptions from this section, see section 2 of Pub. L. 87–849, set out as a note under [section 203 of this title](./chapter-011-bribery-graft-and-conflicts-of-interest.md#section-203).
 
-#### Regulations
+#### “Particular Matter” Defined
+Pub. L. 100–446, title III, § 319, Sept. 27, 1988, 102 Stat. 1826, which provided that notwithstanding any other provision of law, for the purposes of this section “particular matter”, as applied to employees of the Department of the Interior and the Indian Health Service, means “particular matter involving specific parties”, was repealed by Pub. L. 101–194, title V, § 505(b), Nov. 30, 1989, 103 Stat. 1756, as amended by Pub. L. 101–280, § 6(c), May 4, 1990, 104 Stat. 160.
+
+Similar provisions were contained in Pub. L. 100–202, § 101(g) [title III, § 318], Dec. 22, 1987, 101 Stat. 1329–213, 1329–255.
+
+#### Promulgation of Regulations
 Responsibility of Office of Government Ethics for promulgating regulations and interpreting this section, see section 201(c) of Ex. Ord. No. 12674, Apr. 12, 1989, 54 F.R. 15159, as amended, set out as a note under [section 7301 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section7301&num=0&edition=prelim), Government Organization and Employees.
 
 #### Delegation of Authority
 Authority of the President under subsec. (b) of this section to grant exemptions or approvals to individuals delegated to agency heads, see section 401 of Ex. Ord. No. 12674, Apr. 12, 1989, 54 F.R. 15159, as amended, set out as a note under [section 7301 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section7301&num=0&edition=prelim), Government Organization and Employees.
 
 Authority of the President under subsec. (b) of this section to grant exemptions or approvals for Presidential appointees to committees, commissions, boards, or similar groups established by the President, and for individuals appointed pursuant to sections 105 and 107(a) of Title 3, The President, delegated to Counsel to the President, see section 402 of Ex. Ord. No. 12674, Apr. 12, 1989, 54 F.R. 15159, as amended, set out as a note under [section 7301 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section7301&num=0&edition=prelim).
-
-#### “Particular Matter” Defined
-Pub. L. 100–446, title III, § 319, Sept. 27, 1988, 102 Stat. 1826, which provided that notwithstanding any other provision of law, for the purposes of this section “particular matter”, as applied to employees of the Department of the Interior and the Indian Health Service, means “particular matter involving specific parties”, was repealed by Pub. L. 101–194, title V, § 505(b), Nov. 30, 1989, 103 Stat. 1756, as amended by Pub. L. 101–280, § 6(c), May 4, 1990, 104 Stat. 160.
-
-Similar provisions were contained in Pub. L. 100–202, § 101(g) [title III, § 318], Dec. 22, 1987, 101 Stat. 1329–213, 1329–255.
 
 
 <a id="section-209"></a>

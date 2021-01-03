@@ -44,9 +44,9 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
 
 <a id="section-8802"></a>
-## § 8802. Sales: members of Army and Air Force; prices
+## § 8802. Sales: members of Army, Air Force, and Space Force; prices
 
-The Navy and the Marine Corps shall sell subsistence supplies to any member of the Army or the Air Force at prices charged members of the naval service.
+The Navy and the Marine Corps shall sell subsistence supplies to any member of the Army, the Air Force, or the Space Force at prices charged members of the naval service.
 
 ### Statutory Notes
 
@@ -58,6 +58,8 @@ The Navy and the Marine Corps shall sell subsistence supplies to any member of t
 This section is expanded to cover sales to members of the Air Force, as authorized by § 305(a) of the National Security Act of 1947, as amended ([5 U.S.C. 171](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section171&num=0&edition=prelim)l).
 
 #### Amendments
+2021—Pub. L. 116–283 substituted “Sales: members of Army, Air Force, and Space Force; prices” for “Sales: members of Army and Air Force; prices” in section catchline and “, the Air Force, or the Space Force” for “or the Air Force” in text.
+
 2018—Pub. L. 115–232 renumbered [section 7602 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section7602&num=0&edition=prelim) as this section.
 
 #### Effective Date of 2018 Amendment
@@ -67,7 +69,7 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 <a id="section-8803"></a>
 ## § 8803. Sales: veterans under treatment
 
-A person who has been separated honorably or under honorable conditions from the Army, the Navy, the Air Force, or the Marine Corps and who is receiving care and medical treatment from the Public Health Service or the Department of Veterans Affairs may buy subsistence supplies and other supplies, except articles of uniform, from the Navy and the Marine Corps at prices charged members of the naval service.
+A person who has been separated honorably or under honorable conditions from the Army, the Navy, the Air Force, the Marine Corps, or the Space Force and who is receiving care and medical treatment from the Public Health Service or the Department of Veterans Affairs may buy subsistence supplies and other supplies, except articles of uniform, from the Navy and the Marine Corps at prices charged members of the naval service.
 
 ### Statutory Notes
 
@@ -79,6 +81,8 @@ A person who has been separated honorably or under honorable conditions from the
 The word “separated” is substituted for the word “discharged”. The words “under honorable conditions” are added since this provision is interpreted as benefiting personnel discharged under honorable conditions. The words “Air Force” are supplied under the authority of § 305(a) of the National Security Act of 1947, as amended ([5 U.S.C. 171](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section171&num=0&edition=prelim)l). The words “Veterans’ Administration” are added under the authority of the Act of August 9, 1921, ch. 57, 42 Stat. 148, which transferred care of veterans to the Veterans’ Bureau, the Act of June 7, 1924, ch. 320, 43 Stat. 610, which transferred all hospitals under the jurisdiction of the Public Health Service to the Veterans’ Bureau, and the Act of July 3, 1930, ch. 863, § 1, 46 Stat. 1016, under which the President by Executive Order No. 5398, July 21, 1930, transferred the Veterans’ Bureau to the Veterans’ Administration. The words “while undergoing such care and treatment” are omitted as surplusage.
 
 #### Amendments
+2021—Pub. L. 116–283 substituted “the Marine Corps, or the Space Force” for “or the Marine Corps”.
+
 2018—Pub. L. 115–232 renumbered [section 7603 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section7603&num=0&edition=prelim) as this section.
 
 1989—Pub. L. 101–189 substituted “Department of Veterans Affairs” for “Veterans’ Administration”.
@@ -186,7 +190,7 @@ Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of 
 
 **(c)** The Secretary may sell serviceable supplies, other than subsistence supplies, to members of other armed forces for the buyers’ use in the service. The prices at which the supplies are sold shall be the same prices at which like property is sold to members of the Navy and Marine Corps.
 
-**(d)** A person who has been discharged honorably or under honorable conditions from the Army, Navy, Air Force or Marine Corps and who is receiving care and medical treatment from the Public Health Service or the Department of Veterans Affairs may buy subsistence supplies and other supplies, except articles of uniform, at the prices at which like property is sold to members of the Navy and Marine Corps.
+**(d)** A person who has been discharged honorably or under honorable conditions from the Army, Navy, Air Force, Marine Corps, or Space Force and who is receiving care and medical treatment from the Public Health Service or the Department of Veterans Affairs may buy subsistence supplies and other supplies, except articles of uniform, at the prices at which like property is sold to members of the Navy and Marine Corps.
 
 **(e)** Under such conditions as the Secretary may prescribe, exterior articles of uniform may be sold to a person who has been discharged honorably or under honorable conditions from the Navy or Marine Corps, at the prices at which like articles are sold to members of the Navy or Marine Corps. This subsection does not modify section 772 or 773 of this title.
 
@@ -234,6 +238,8 @@ Section 8819, added Pub. L. 85–861, § 1(191)(A), Sept. 2, 1958, 72 Stat. 1534
 Section 8820, act Aug. 10, 1956, ch. 1041, 70A Stat. 546, related to discharge and withdrawal of Federal recognition of officers of Air National Guard of United States absent without leave. See [section 14907 of this title](./chapter-1411-additional-provisions-relating-to-involuntary-separation.md#section-14907).
 
 #### Amendments
+2021—Subsec. (d). Pub. L. 116–283, which directed substitution of “, Air Force, Marine Corps, or Space Force” for “or Air Force or Marine Corps”, was executed by making the substitution for “, Air Force or Marine Corps” to reflect the probable intent of Congress.
+
 2018—Pub. L. 115–232 renumbered [section 7606 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section7606&num=0&edition=prelim) as this section.
 
 1997—Subsec. (e). Pub. L. 105–85 substituted “section” for “sections”.

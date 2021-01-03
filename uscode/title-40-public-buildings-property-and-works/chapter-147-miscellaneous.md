@@ -49,7 +49,7 @@ An individual in the United States shall not, because of sex, be excluded from p
 
 (4) $108,000,000 for fiscal year 2011; and
 
-(5) $110,000,000 for each of fiscal years 2012 through 2020.
+(5) $110,000,000 for each of fiscal years 2012 through 2021.
 
 **(b) Economic and Energy Development Initiative.—** Of the amounts made available under subsection (a), the following amounts may be used to carry out section 14508—
 
@@ -63,7 +63,7 @@ An individual in the United States shall not, because of sex, be excluded from p
 
 (5) $14,000,000 for fiscal year 2012.
 
-**(c) High-speed Broadband Deployment Initiative.—** Of the amounts made available under subsection (a), $10,000,000 may be used to carry out section 14509 for each of fiscal years 2016 through 2020.
+**(c) High-speed Broadband Deployment Initiative.—** Of the amounts made available under subsection (a), $10,000,000 may be used to carry out section 14509 for each of fiscal years 2016 through 2021.
 
 **(d) Availability.—** Amounts made available under subsection (a) remain available until expended.
 
@@ -77,6 +77,10 @@ An individual in the United States shall not, because of sex, be excluded from p
 | 14703 | 40 App.:401. | Pub. L. 89–4, title IV, § 401, Mar. 9, 1965, 79 Stat. 21; Pub. L. 90–103, title I, § 122, Oct. 11, 1967, 81 Stat. 266; Pub. L. 91–123, title I, § 109, Nov. 25, 1969, 83 Stat. 215; Pub. L. 92–65, title II, § 212, Aug. 5, 1971, 85 Stat. 172; Pub. L. 94–188, title I, § 121, Dec. 31, 1975, 89 Stat. 1086; Pub. L. 96–506, § 3(5), Dec. 8, 1980, 94 Stat. 2746; Pub. L. 97–35, title XVIII, § 1822(a)(3), (4), Aug. 13, 1981, 95 Stat. 767; Pub. L 105–393, title II, § 221, Nov. 13, 1998, 112 Stat. 3625; Pub. L. 107–149, § 10, Mar. 12, 2002, 116 Stat. 70. |
 
 #### Amendments
+2020—Subsec. (a)(5). Pub. L. 116–159, § 1107(a)(1), substituted “2021” for “2020”.
+
+Subsec. (c). Pub. L. 116–159, § 1107(a)(2), substituted “2021” for “2020”.
+
 2015—Subsec. (a)(5). Pub. L. 114–94, § 1436(b)(1), substituted “each of fiscal years 2012 through 2020” for “fiscal year 2012”.
 
 Subsecs. (c) to (e). Pub. L. 114–94, § 1436(b)(2), (3), added subsec. (c) and redesignated former subsecs. (c) and (d) as (d) and (e), respectively.
@@ -94,7 +98,7 @@ Amendment by Pub. L. 114–94 effective Oct. 1, 2015, see section 1436(d) of Pub
 <a id="section-14704"></a>
 ## § 14704. Termination
 
-This subtitle, except sections 14102(a)(1) and (b) and 14501, ceases to be in effect on October 1, 2020.
+This subtitle, except sections 14102(a)(1) and (b) and 14501, ceases to be in effect on October 1, 2021.
 
 ### Statutory Notes
 
@@ -104,6 +108,8 @@ This subtitle, except sections 14102(a)(1) and (b) and 14501, ceases to be in ef
 | 14704 | 40 App.:405. | Pub. L. 89–4, title IV, § 405, Mar. 9, 1965, 79 Stat. 23; Pub. L. 91–123, title I, § 111, Nov. 25, 1969, 83 Stat. 216; Pub. L. 92–65, title II, § 213, Aug. 5, 1971, 85 Stat. 173; Pub. L. 94–188, title I, § 122(a), Dec. 31, 1975, 89 Stat. 1086; Pub. L. 96–506, § 3(6), Dec. 8, 1980, 94 Stat. 2746; Pub. L. 105–178, title I, § 1222(b) (1st sentence), June 9, 1998, 112 Stat. 224; Pub. L. 105–393, title II, § 222, Nov. 13, 1998, 112 Stat. 3625; Pub. L. 107–149, § 12, Mar. 12, 2002, 116 Stat. 71. |
 
 #### Amendments
+2020—Pub. L. 116–159 substituted “2021” for “2020”.
+
 2015—Pub. L. 114–94 substituted “2020” for “2012”.
 
 2008—Pub. L. 110–371 substituted “2012” for “2007”.

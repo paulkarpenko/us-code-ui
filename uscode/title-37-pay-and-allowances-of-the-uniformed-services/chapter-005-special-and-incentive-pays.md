@@ -444,14 +444,14 @@ Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of 
 #### Effective Date
 Pub. L. 93–294, § 6, May 31, 1974, 88 Stat. 180, provided that: “This Act [enacting this section, amending [section 301 of this title](./chapter-005-special-and-incentive-pays.md#section-301), and enacting provisions set out as notes under this section] becomes effective on the first day of the first month after enactment [May 31, 1974].”
 
-#### Delegation of Functions
-For delegation of authority under this section to Secretaries of Defense, Commerce, Health and Human Services, and Homeland Security when Coast Guard not serving as part of Navy, see section 1 of Ex. Ord. No. 13294, Mar. 28, 2003, 68 F.R. 15919, set out as a note under [section 301 of this title](./chapter-005-special-and-incentive-pays.md#section-301).
-
 #### Monthly Incentive Pay for Certain Officers Entitled to Incentive Pay Under Section 301(a)(1) of This Title on May 31, 1973
 Pub. L. 93–294, § 4, May 31, 1974, 88 Stat. 179, provided that: “Notwithstanding the amendments made by this Act [enacting this section and amending [section 301 of this title](./chapter-005-special-and-incentive-pays.md#section-301)], an officer who was entitled to incentive pay under [section 301(a)(1) of title 37](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section301/a/1&num=0&edition=prelim), United States Code, on May 31, 1973, or on the day before the effective date of this Act [June 1, 1974], if otherwise qualified on the day before the effective date of this Act, is entitled to monthly incentive pay as prescribed in either clause (1) or (2) of this section, as follows:“(1) If he is credited with 6 or less years of aviation service as an officer, and with less than 12 years of service as an officer, he is entitled to monthly incentive pay either—“(A) in the amount he was receiving under section 301(b) of that title on May 31, 1973, or on the day before the effective date of this Act [June 1, 1974], but with no entitlement after either of those dates, as applicable, to any longevity pay increases or increases resulting from promotion to a higher grade until such time as the rate to which he is entitled under section 301a(b) of that title, as added by this Act, is equal to or greater than the amount he was receiving under that section on May 31, 1973, or on the day before the effective date of this Act, and thereafter his entitlement is as prescribed by that section as added by this Act; or “(B) at the rate prescribed by section 301a(b) of that title, as added by this Act; whichever is greater. However, an officer who is promoted and assigned to pay grade O–7 or above during the 36-month period following the effective date of this Act [June 1, 1974] may not receive more than the rate which existed for that pay grade, as appropriate, prior to June 1, 1973. “(2) If he is credited with more than 6 years of aviation service as an officer, or less than 6 years of aviation service but more than 12 years of service as an officer, he may receive monthly incentive pay at the rate prescribed in the table in [section 301a(b) of title 37](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section301a/b&num=0&edition=prelim), United States Code, as added by this Act, that is applicable to him, or $165, whichever is greater, for not more than 36 months after the effective date of this Act [June 1, 1974], notwithstanding the provisions of section 301a(a) of that title, as added by this Act, with respect to prescribed operational flying duties (including flight training but excluding proficiency flying). However, under this clause, an officer who is assigned to the pay grade O–7 on the effective date of this Act, or is promoted to the pay grade O–7 during the 36-month period following the effective date of this Act, may not receive more than $160 per month while assigned to that grade. The amount to which a reserve officer who is entitled to compensation under [section 206 of title 37](./chapter-003-basic-pay.md#section-206), United States Code, is entitled under this section is governed by the provisions of section 301a(d) of that title, as added by this Act.”
 
 #### Annual Report by Department of Defense
 Pub. L. 93–294, § 5, May 31, 1974, 88 Stat. 180, provided that: “A yearly report containing such data as necessary to monitor the progress of this bill [Pub. L. 93–294] shall be made by the Department of Defense in cooperation with the Senate and House Armed Services Committees and released publicly.”
+
+#### Delegation of Functions
+For delegation of authority under this section to Secretaries of Defense, Commerce, Health and Human Services, and Homeland Security when Coast Guard not serving as part of Navy, see section 1 of Ex. Ord. No. 13294, Mar. 28, 2003, 68 F.R. 15919, set out as a note under [section 301 of this title](./chapter-005-special-and-incentive-pays.md#section-301).
 
 #### Executive Order No. 11800
 Ex. Ord. No. 11800, Aug. 17, 1974, 39 F.R. 30103, as amended by Ex. Ord. No. 12608, Sept. 9, 1987, 52 F.R. 34617; Ex. Ord. No. 13286, § 58, Feb. 28, 2003, 68 F.R. 10629, which delegated authority vested in President by this section to Secretaries of Defense, Commerce, Health and Human Services, and Homeland Security with respect to Coast Guard when not operating as part of Navy, was revoked by Ex. Ord. No. 13294, § 2, Mar. 28, 2003, 68 F.R. 15919, set out as a note under [section 301 of this title](./chapter-005-special-and-incentive-pays.md#section-301).
@@ -807,11 +807,11 @@ Pub. L. 97–39, title VII, § 701(c), Aug. 14, 1981, 95 Stat. 942, provided tha
 #### Effective Date
 Pub. L. 96–579, § 3(g), Dec. 23, 1980, 94 Stat. 3364, provided: “The amendments made by this subsection [probably means section 3 of Pub. L. 96–579, which enacted this section and amended sections 301 and 308 of this title] shall become effective on the first day of the first month following the month in which this Act is enacted [December, 1980].”
 
-#### Delegation of Functions
-For delegation of authority under this section to Secretaries of Defense, Commerce, Health and Human Services, and Homeland Security when Coast Guard not serving as part of Navy, see section 1 of Ex. Ord. No. 13294, Mar. 28, 2003, 68 F.R. 15919, set out as a note under [section 301 of this title](./chapter-005-special-and-incentive-pays.md#section-301).
-
 #### Transition Provisions
 Pub. L. 107–107, div. A, title VI, § 617(c), Dec. 28, 2001, 115 Stat. 1137, provided that: “The tables set forth in subsection (b) of [section 301c of title 37](./chapter-005-special-and-incentive-pays.md#section-301c), United States Code, as in effect on the day before the date of the enactment of this Act [Dec. 28, 2001], shall continue to apply until the later of the following: “(1) January 1, 2002. “(2) The date on which the Secretary of the Navy prescribes new submarine duty incentive pay rates as authorized by the amendment made by subsection (a) [amending this section].”
+
+#### Delegation of Functions
+For delegation of authority under this section to Secretaries of Defense, Commerce, Health and Human Services, and Homeland Security when Coast Guard not serving as part of Navy, see section 1 of Ex. Ord. No. 13294, Mar. 28, 2003, 68 F.R. 15919, set out as a note under [section 301 of this title](./chapter-005-special-and-incentive-pays.md#section-301).
 
 
 <a id="section-301d"></a>
@@ -1177,7 +1177,7 @@ Pub. L. 96–284, § 7, June 28, 1980, 94 Stat. 593, provided that: “Notwithst
 
   (A) of a Reserve component of the Army, Navy, or Air Force who is designated as an optometry officer; or
 
-  (B) who is an optometry officer of the Reserve Corps of the Public Health Service,
+  (B) who is an optometry officer of the Reserve Corps 11 See Change of Name note below. of the Public Health Service,
   who is on active duty as a result of a call or order to active duty for a period of at least one year.
 
 (3) A general officer of the Army or the Air Force appointed, from any of the categories named in clause (1) or (2), in the Army, Air Force, or the National Guard, as the case may be.
@@ -1226,6 +1226,9 @@ Subsec. (b)(4). Pub. L. 104–201, § 614(a)(2), struck out “of the military d
 Subsecs. (b), (c). Pub. L. 95–114 reenacted subsec. (b) without change and added subsec. (c).
 
 1973—Subsec. (a). Pub. L. 93–64 substituted “July 1, 1975” for “July 1, 1973” wherever appearing.
+
+#### Change of Name
+Reference to Reserve Corps of the Public Health Service deemed to be a reference to the Ready Reserve Corps, see [section 402(c)(3) of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section402/c/3&num=0&edition=prelim), The Public Health and Welfare.
 
 #### Effective Date of 1977 Amendment
 Pub. L. 95–114, § 4, Sept. 30, 1977, 91 Stat. 1047, provided that: “The amendments made by sections 2 and 3 of this Act [amending this section and [section 303 of this title](./chapter-005-special-and-incentive-pays.md#section-303)] become effective on October 1, 1977.”
@@ -1445,7 +1448,7 @@ Pub. L. 99–145, title VI, § 639(d), Nov. 8, 1985, 99 Stat. 651, as amended by
 ## § 302c. Special pay: psychologists and nonphysician health care providers
 **(a) Public Health Service Corps.—** A member who is—
 
-(1) an officer in the Regular or Reserve Corps of the Public Health Service and is designated as a psychologist; and
+(1) an officer in the Regular or Reserve Corps 11 See Change of Name note below. of the Public Health Service and is designated as a psychologist; and
 
 (2) has been awarded a diploma as a Diplomate in Psychology by the American Board of Professional Psychology,
 is entitled to special pay, as provided in subsection (b).
@@ -1472,7 +1475,7 @@ is entitled to special pay, as provided in subsection (b).
 
 **(d) Nonphysician Health Care Providers.—** The Secretary concerned may authorize the payment of special pay at the rates specified in subsection (b) to an officer who—
 
-(1) is an officer in the Medical Service Corps of the Army or Navy, a biomedical sciences officer in the Air Force, an officer in the Army Medical Specialist Corps, an officer of the Nurse Corps of the Army or Navy, an officer of the Air Force designated as a nurse, an officer of the Coast Guard or Coast Guard Reserve designated as a physician assistant, or an officer in the Regular or Reserve Corps of the Public Health Service;
+(1) is an officer in the Medical Service Corps of the Army or Navy, a biomedical sciences officer in the Air Force, an officer in the Army Medical Specialist Corps, an officer of the Nurse Corps of the Army or Navy, an officer of the Air Force designated as a nurse, an officer of the Coast Guard or Coast Guard Reserve designated as a physician assistant, or an officer in the Regular or Reserve Corps 1 of the Public Health Service;
 
 (2) is a health care provider (other than a psychologist);
 
@@ -1511,6 +1514,9 @@ Pub. L. 104–106 struck out “or” after “Air Force,” and inserted “, a
 Subsecs. (a), (b). Pub. L. 101–189, § 704(c), inserted headings.
 
 Subsec. (c). Pub. L. 101–189, § 704(a), added subsec. (c).
+
+#### Change of Name
+Reference to Reserve Corps of the Public Health Service deemed to be a reference to the Ready Reserve Corps, see [section 402(c)(3) of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section402/c/3&num=0&edition=prelim), The Public Health and Welfare.
 
 #### Effective Date of 1997 Amendment
 Pub. L. 105–85, div. A, title X, § 1073(c), Nov. 18, 1997, 111 Stat. 1904, provided that the amendment made by that section is effective as of Sept. 23, 1996, and as if included in the National Defense Authorization Act for Fiscal Year 1997, Pub. L. 104–201, as enacted.
@@ -2034,7 +2040,7 @@ For savings provision relating to payment or repayment of any bonus, incentive p
 
 **(b) Public Health Service Corps.—** Subject to subsection (c), the Secretary of Health and Human Services may pay retention special pay under this section to an officer who—
 
-(1) is an officer in the Regular or Reserve Corps of the Public Health Service and is designated as a pharmacy officer; and
+(1) is an officer in the Regular or Reserve Corps 11 See Change of Name note below. of the Public Health Service and is designated as a pharmacy officer; and
 
 (2) is on active duty under a call or order to active duty for a period of not less than one year.
 
@@ -2064,6 +2070,9 @@ Subsec. (d). Pub. L. 107–314, § 615(g)(3), added subsec. (d) and struck out h
 “(6) $9,000 per year, if the officer has at least 14 but less than 18 years of creditable service.
 
 “(7) $8,000 per year, if the officer has 18 or more years of creditable service.”
+
+#### Change of Name
+Reference to Reserve Corps of the Public Health Service deemed to be a reference to the Ready Reserve Corps, see [section 402(c)(3) of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section402/c/3&num=0&edition=prelim), The Public Health and Welfare.
 
 #### Application of Increase
 In case of amendment by section 615 of Pub. L. 107–314 to increase maximum amount of special pay or bonus that may be paid during any 12-month period, the amended limitation is applicable to 12-month periods beginning after Sept. 30, 2002, see section 615(i) of Pub. L. 107–314, set out as a note under [section 301d of this title](./chapter-005-special-and-incentive-pays.md#section-301d).
@@ -2251,7 +2260,7 @@ Section effective Oct. 1, 2006, and applicable to agreements entered into on or 
 
     (ii) is an officer in the Biomedical Sciences Corps of the Air Force and holds a degree in veterinary medicine; or
 
-  (C) who is a veterinary officer of the Reserve Corps of the Public Health Service,
+  (C) who is a veterinary officer of the Reserve Corps 11 See Change of Name note below. of the Public Health Service,
   who is on active duty as a result of a call or order to active duty for a period of at least one year.
 
 (3) A general officer of the Army or the Air Force appointed, from any of the categories named in clause (1) or (2), in the Army, the Air Force, or the National Guard, as the case may be.
@@ -2298,6 +2307,9 @@ Subsecs. (b), (c). Pub. L. 95–114 reenacted subsec. (b) without change and add
 
 1963—Subsec. (a). Pub. L. 88–2 substituted “July 1, 1967” for “July 1, 1963” wherever appearing.
 
+#### Change of Name
+Reference to Reserve Corps of the Public Health Service deemed to be a reference to the Ready Reserve Corps, see [section 402(c)(3) of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section402/c/3&num=0&edition=prelim), The Public Health and Welfare.
+
 #### Effective Date of 1999 Amendment
 Pub. L. 106–65, div. A, title VI, § 616(b), Oct. 5, 1999, 113 Stat. 652, provided that: “The amendments made by subsection (a) [amending this section] shall take effect on October 1, 1999, and shall apply with respect to months beginning on and after that date.”
 
@@ -2314,9 +2326,9 @@ Amendment by Pub. L. 93–64 effective July 1, 1973, see section 206 of Pub. L. 
 
 **(b)**
 
-(1) Except as provided in paragraph (2) or as otherwise provided under a provision of this chapter, a commissioned officer in the Regular or Reserve Corps of the Public Health Service is entitled to special pay under a provision of this chapter in the same amounts, and under the same terms and conditions, as a commissioned officer of the armed forces is entitled to special pay under that provision.
+(1) Except as provided in paragraph (2) or as otherwise provided under a provision of this chapter, a commissioned officer in the Regular or Reserve Corps 11 See Change of Name note below. of the Public Health Service is entitled to special pay under a provision of this chapter in the same amounts, and under the same terms and conditions, as a commissioned officer of the armed forces is entitled to special pay under that provision.
 
-(2) A commissioned medical officer in the Regular or Reserve Corps of the Public Health Service (other than an officer serving in the Indian Health Service) may not receive additional special pay under [section 302(a)(4) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section302/a/4&num=0&edition=prelim) for any period during which the officer is providing obligated service under the following provisions of law:
+(2) A commissioned medical officer in the Regular or Reserve Corps 1 of the Public Health Service (other than an officer serving in the Indian Health Service) may not receive additional special pay under [section 302(a)(4) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section302/a/4&num=0&edition=prelim) for any period during which the officer is providing obligated service under the following provisions of law:
 
   (A) Section 338B of the Public Health Service Act ([42 U.S.C. 254](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section254&num=0&edition=prelim)l–1).
 
@@ -2449,6 +2461,9 @@ Subsec. (c). Pub. L. 101–510, §§ 611(d), 1322(c)(2), 1484(c)(1), inserted �
 1980—Subsec. (a). Pub. L. 96–513, § 506(6)(A), struck out reference to sections 302c and 313 of this title.
 
 Subsec. (b). Pub. L. 96–513, § 506(6)(B), (C), struck out reference to [section 302c of this title](./chapter-005-special-and-incentive-pays.md#section-302c) and inserted reference to separation pay.
+
+#### Change of Name
+Reference to Reserve Corps of the Public Health Service deemed to be a reference to the Ready Reserve Corps, see [section 402(c)(3) of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section402/c/3&num=0&edition=prelim), The Public Health and Welfare.
 
 #### Effective Date of 2008 Amendment
 Amendment by Pub. L. 110–317 applicable with respect to any sole survivorship discharge granted after Sept. 11, 2001, see section 10 of Pub. L. 110–317, set out as a note under [section 2108 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section2108&num=0&edition=prelim), Government Organization and Employees.
@@ -3114,7 +3129,7 @@ For savings provision relating to payment or repayment of any bonus, incentive p
 Pub. L. 110–181, div. A, title VI, § 624, Jan. 28, 2008, 122 Stat. 153, as amended by Pub. L. 111–383, div. A, title X, § 1075(f)(1), Jan. 7, 2011, 124 Stat. 4375, provided that: “(a) Payment.—The Secretary of a military department may pay assignment incentive pay under [section 307a of title 37](./chapter-005-special-and-incentive-pays.md#section-307a), United States Code, to a member of a reserve component under the jurisdiction of the Secretary for each month during the eligibility period of the member determined under subsection (b) during which the member served for any portion of the month in a combat zone associated with Operation Enduring Freedom or Operation Iraqi Freedom in excess of 22 months of qualifying service. “(b) Eligibility Period.—The eligibility period for a member extends from January 1, 2005, through the end of the active duty service of the member in a combat zone associated with Operation Enduring Freedom or Operation Iraqi Freedom if the service on active duty during the member’s most recent period of mobilization to active duty began before January 19, 2007. “(c) Amount of Payment.—The monthly rate of incentive pay payable to a member under this section is $1,000. “(d) Qualifying Service.—For purposes of this section, qualifying service includes cumulative mobilized service on active duty under sections 12301(d), 12302, and 12304 of title 10, United States Code, during the period beginning on January 1, 2003, through the end of the member’s active duty service during the member’s most recent period of mobilization to active duty beginning before January 19, 2007.”
 
 #### Annual Report
-Pub. L. 107–314, div. A, title VI, § 616(b), Dec. 2, 2002, 116 Stat. 2570, provided that: “Not later than February 28, 2004, and February 28, 2005, the Secretary of Defense shall submit to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives a report on the use of the authority provided under [section 307a of title 37](./chapter-005-special-and-incentive-pays.md#section-307a), United States Code, as added by subsection (a), including an assessment of the utility of that authority.”
+Pub. L. 107–314, div. A, title VI, § 616(b), Dec. 2, 2002, 116 Stat. 2570, provided that not later than Feb. 28, 2004, and Feb. 28, 2005, the Secretary of Defense was to submit to Congress a report on the use of the authority provided under this section, including an assessment of the utility of that authority.
 
 
 <a id="section-308"></a>
@@ -5456,7 +5471,7 @@ Pub. L. 114–92, § 615(5), substituted “December 31, 2016” for “December
 
 **(b) Covered Officers.—** An officer referred to in subsection (a) is an officer of the Army, Navy, Air Force, or Marine Corps who—
 
-(1) is a member of an Acquisition Corps selected to serve in, or serving in, a critical acquisition position designated under [section 1733 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1733&num=0&edition=prelim); and
+(1) is a member of the acquisition workforce selected to serve in, or serving in, a critical acquisition position designated under [section 1731 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1731&num=0&edition=prelim).11 So in original. The period probably should be “; and”.
 
 (2) is eligible to retire, or is assigned to such position for a period that will extend beyond the date on which the officer will be eligible to retire, under any provision of law.
 
@@ -5475,6 +5490,8 @@ Pub. L. 114–92, § 615(5), substituted “December 31, 2016” for “December
 ### Statutory Notes
 
 #### Amendments
+2019—Subsec. (b)(1). Pub. L. 116–92, which directed the general amendment of par. (1) of [section 317 of this title](./chapter-005-special-and-incentive-pays.md#section-317), was executed by making the amendment to par. (1) of subsec. (b) of this section to reflect the probable intent of Congress. Prior to amendment, subsec. (b)(1) read as follows: “is a member of an Acquisition Corps selected to serve in, or serving in, a critical acquisition position designated under [section 1733 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1733&num=0&edition=prelim); and”.
+
 2006—Subsec. (f). Pub. L. 109–163 amended heading and text of subsec. (f) generally, substituting provisions referring to repayment provisions of section 303a(e) for specific provisions relating to repayment of bonus required when officer fails to complete total period of agreed upon active duty.
 
 #### Effective Date
@@ -5634,7 +5651,7 @@ Pub. L. 106–65, div. A, title VI, § 628(b), Oct. 5, 1999, 113 Stat. 659, prov
 
   (A) the active duty service obligation incurred through the officer’s original commissioning program; or
 
-  (B) in the case of an officer detailed under [section 2004 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2004&num=0&edition=prelim) or section 470 11 See References to Sections of Title 14 as Redesignated by Pub. L. 115–282 note below. of title 14, the active duty service obligation incurred as part of that detail.
+  (B) in the case of an officer detailed under [section 2004 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2004&num=0&edition=prelim) or section 470 11 See References in Text note below. of title 14, the active duty service obligation incurred as part of that detail.
 
 **(b) Special Pay Authorized.—** An eligible judge advocate who executes a written agreement to remain on active duty for a period of obligated service specified in the agreement may, upon the acceptance of the agreement by the Secretary concerned, be paid continuation pay under this section. The total amount paid to an officer under one or more agreements under this section may not exceed $60,000.
 
@@ -5650,11 +5667,11 @@ Pub. L. 106–65, div. A, title VI, § 628(b), Oct. 5, 1999, 113 Stat. 659, prov
 
 ### Statutory Notes
 
+#### References in Text
+[Section 470 of title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section470&num=0&edition=prelim), referred to in subsec. (a)(2)(B), was redesignated [section 2770 of title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section2770&num=0&edition=prelim) by Pub. L. 115–282, title I, § 116(b)(2), Dec. 4, 2018, 132 Stat. 4226, and references to [section 470 of title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section470&num=0&edition=prelim) deemed to refer to such redesignated section, see section 123(b)(1) of Pub. L. 115–282, set out as a References to Sections of Title 14 as Redesignated by Pub. L. 115–282 note preceding [section 101 of Title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section101&num=0&edition=prelim), Coast Guard.
+
 #### Amendments
 2006—Subsec. (f). Pub. L. 109–163 amended heading and text of subsec. (f) generally, substituting provisions referring to repayment provisions of section 303a(e) for specific provisions relating to repayment required when officer fails to complete total period of agreed upon active duty.
-
-#### References to Sections of Title 14 as Redesignated by Pub. L. 115–282
-[Section 470 of title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section470&num=0&edition=prelim) redesignated [section 2770 of title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section2770&num=0&edition=prelim) by Pub. L. 115–282, title I, § 116(b)(2), Dec. 4, 2018, 132 Stat. 4226, and references to [section 470 of title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section470&num=0&edition=prelim) deemed to refer to such redesignated section, see section 123(b)(1) of Pub. L. 115–282, set out as a note preceding [section 101 of Title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section101&num=0&edition=prelim), Coast Guard.
 
 #### Effective Date
 Pub. L. 106–65, div. A, title VI, § 629(c), Oct. 5, 1999, 113 Stat. 661, provided that: “The amendments made by subsection (a) [enacting this section] shall take effect on October 1, 1999.”
@@ -6104,11 +6121,15 @@ Pub. L. 109–364, div. A, title VI, § 622(a)(3), Oct. 17, 2006, 120 Stat. 2256
 
 **(g) Repayment.—** A person or member who receives a bonus under this section and who fails to complete the period of service, or meet the conditions of service, for which the bonus is paid, as specified in the written agreement under subsection (d), shall be subject to the repayment provisions of [section 373 of this title](./chapter-005-special-and-incentive-pays.md#section-373).
 
-**(h) Termination of Authority.—** No agreement may be entered into under this section after December 31, 2019.
+**(h) Termination of Authority.—** No agreement may be entered into under this section after December 31, 2021.
 
 ### Statutory Notes
 
 #### Amendments
+2021—Subsec. (h). Pub. L. 116–283 substituted “December 31, 2021” for “December 31, 2020”.
+
+2019—Subsec. (h). Pub. L. 116–92 substituted “December 31, 2020” for “December 31, 2019”.
+
 2018—Subsec. (h). Pub. L. 115–232 substituted “December 31, 2019” for “December 31, 2018”.
 
 2017—Subsec. (h). Pub. L. 115–91 substituted “December 31, 2018” for “December 31, 2017”.
@@ -6182,11 +6203,15 @@ Pub. L. 111–383 substituted “December 31, 2011” for “December 31, 2010�
 
 **(f) Repayment.—** A person or officer who receives a bonus under this section and who fails to complete the period of service, or meet the conditions of service, for which the bonus is paid, as specified in the written agreement under subsection (d), shall be subject to the repayment provisions of [section 373 of this title](./chapter-005-special-and-incentive-pays.md#section-373).
 
-**(g) Termination of Authority.—** No agreement may be entered into under this section after December 31, 2019.
+**(g) Termination of Authority.—** No agreement may be entered into under this section after December 31, 2021.
 
 ### Statutory Notes
 
 #### Amendments
+2021—Subsec. (g). Pub. L. 116–283 substituted “December 31, 2021” for “December 31, 2020”.
+
+2019—Subsec. (g). Pub. L. 116–92 substituted “December 31, 2020” for “December 31, 2019”.
+
 2018—Subsec. (g). Pub. L. 115–232 substituted “December 31, 2019” for “December 31, 2018”.
 
 2017—Subsec. (g). Pub. L. 115–91 substituted “December 31, 2018” for “December 31, 2017”.
@@ -6258,11 +6283,15 @@ Pub. L. 111–383 substituted “December 31, 2011” for “December 31, 2010�
 
 **(h) Regulations.—** This section shall be administered under regulations prescribed by the Secretary of the Navy.
 
-**(i) Termination of Authority.—** No agreement may be entered into under this section after December 31, 2019.
+**(i) Termination of Authority.—** No agreement may be entered into under this section after December 31, 2021.
 
 ### Statutory Notes
 
 #### Amendments
+2021—Subsec. (i). Pub. L. 116–283 substituted “December 31, 2021” for “December 31, 2020”.
+
+2019—Subsec. (i). Pub. L. 116–92 substituted “December 31, 2020” for “December 31, 2019”.
+
 2018—Subsec. (i). Pub. L. 115–232 substituted “December 31, 2019” for “December 31, 2018”.
 
 2017—Subsec. (i). Pub. L. 115–91 substituted “December 31, 2018” for “December 31, 2017”.
@@ -6372,11 +6401,15 @@ Pub. L. 111–383 substituted “December 31, 2011” for “December 31, 2010�
 
 (4) The term “officer” includes an individual enlisted and designated as an aviation cadet under [section 8411 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section8411&num=0&edition=prelim).
 
-**(i) Termination of Authority.—** No agreement may be entered into under this section after December 31, 2019.
+**(i) Termination of Authority.—** No agreement may be entered into under this section after December 31, 2021.
 
 ### Statutory Notes
 
 #### Amendments
+2021—Subsec. (i). Pub. L. 116–283 substituted “December 31, 2021” for “December 31, 2020”.
+
+2019—Subsec. (i). Pub. L. 116–92 substituted “December 31, 2020” for “December 31, 2019”.
+
 2018—Subsec. (h)(4). Pub. L. 115–232, § 809(m)(3), substituted “[section 8411 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section8411&num=0&edition=prelim)” for “[section 6911 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section6911&num=0&edition=prelim)”.
 
 Subsec. (i). Pub. L. 115–232, § 611(d)(3), substituted “December 31, 2019” for “December 31, 2018”.
@@ -6542,19 +6575,19 @@ Amendment by section 809(m)(3) of Pub. L. 115–232 effective Feb. 1, 2019, with
 
 (1) **Maximum amount.—** — The Secretary concerned shall determine the amounts of a bonus or incentive pay to be paid under this section, except that—
 
-  (A) a health professions bonus paid under paragraph (1) of subsection (a) may not exceed $30,000 for each 12-month period of obligated service agreed to under subsection (f);
+  (A) a health professions bonus paid under paragraph (1) of subsection (a) may not exceed $100,000 for each 12-month period of obligated service agreed to under subsection (f);
 
-  (B) a health professions bonus paid under paragraph (2) of subsection (a) may not exceed $100,000 for each 12-month period of obligated service agreed to under subsection (f);
+  (B) a health professions bonus paid under paragraph (2) of subsection (a) may not exceed $200,000 for each 12-month period of obligated service agreed to under subsection (f);
 
-  (C) a health professions bonus paid under paragraph (3) of subsection (a) may not exceed $75,000 for each 12-month period of obligated service agreed to under subsection (f);
+  (C) a health professions bonus paid under paragraph (3) of subsection (a) may not exceed $150,000 for each 12-month period of obligated service agreed to under subsection (f);
 
   (D) health professions incentive pay under subsection (b) may be paid monthly and may not exceed, in any 12-month period—
 
-    (i) $100,000 for medical officers and dental officers; and
+    (i) $200,000 for medical officers and dental officers; and
 
-    (ii) $15,000 for officers in other health professions; and
+    (ii) $50,000 for officers in other health professions; and
 
-  (E) board certification incentive pay under subsection (c) may not exceed $6,000 for each 12-month period an officer remains certified in the designated health profession specialty or skill.
+  (E) board certification incentive pay under subsection (c) may not exceed $15,000 for each 12-month period an officer remains certified in the designated health profession specialty or skill.
 
 (2) **Lump sum or installments.—** — A health professions bonus under subsection (a) may be paid in a lump sum or in periodic installments, as determined by the Secretary concerned. Board certification incentive pay under subsection (c) may be paid monthly, in a lump sum at the beginning of the certification period, or in periodic installments during the certification period, as determined by the Secretary concerned.
 
@@ -6600,13 +6633,29 @@ Amendment by section 809(m)(3) of Pub. L. 115–232 effective Feb. 1, 2019, with
 
 (7) Any health profession performed by officers designated as a physician assistant.
 
-(8) Any health profession performed by officers in the regular or reserve corps of the Public Health Service.
+(8) Any health profession performed by officers in the regular or reserve corps 11 See Change of Name note below. of the Public Health Service.
 
-**(k) Termination of Authority.—** No agreement may be entered into under this section after December 31, 2019.
+**(k) Termination of Authority.—** No agreement may be entered into under this section after December 31, 2021.
 
 ### Statutory Notes
 
 #### Amendments
+2021—Subsec. (e)(1)(A). Pub. L. 116–283, § 612(a), substituted “$100,000” for “$30,000”.
+
+Subsec. (e)(1)(B). Pub. L. 116–283, § 612(b), substituted “$200,000” for “$100,000”.
+
+Subsec. (e)(1)(C). Pub. L. 116–283, § 612(c), substituted “$150,000” for “$75,000”.
+
+Subsec. (e)(1)(D)(i). Pub. L. 116–283, § 612(d)(1), substituted “$200,000” for “$100,000”.
+
+Subsec. (e)(1)(D)(ii). Pub. L. 116–283, § 612(d)(2) substituted “$50,000” for “$15,000”.
+
+Subsec. (e)(1)(E). Pub. L. 116–283, § 612(e), substituted “$15,000” for “$6,000”.
+
+Subsec. (k). Pub. L. 116–283, § 611(d)(4), substituted “December 31, 2021” for “December 31, 2020”.
+
+2019—Subsec. (k). Pub. L. 116–92 substituted “December 31, 2020” for “December 31, 2019”.
+
 2018—Subsec. (k). Pub. L. 115–232 substituted “December 31, 2019” for “December 31, 2018”.
 
 2017—Subsec. (k). Pub. L. 115–91 substituted “December 31, 2018” for “December 31, 2017”.
@@ -6628,6 +6677,12 @@ Pub. L. 111–383 substituted “December 31, 2011” for “December 31, 2010�
 2009—Subsec. (k). Pub. L. 111–84 substituted “December 31, 2010” for “December 31, 2009”.
 
 2008—Subsec. (e)(1)(D)(i). Pub. L. 110–417 substituted “dental officers” for “dental surgeons”.
+
+#### Change of Name
+Reference to Reserve Corps of the Public Health Service deemed to be a reference to the Ready Reserve Corps, see [section 402(c)(3) of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section402/c/3&num=0&edition=prelim), The Public Health and Welfare.
+
+#### Effective Date of 2021 Amendment
+Pub. L. 116–283, div. A, title VI, § 612(f), Jan. 1, 2021, 134 Stat. 3674, provided that: “The amendments made by this section [amending this section] shall apply with respect to special bonus and incentive pays payable under [section 335 of title 37](./chapter-005-special-and-incentive-pays.md#section-335), United States Code, pursuant to agreements entered into under that section on or after the date of the enactment of this Act [Jan. 1, 2021].”
 
 #### Targeted Bonus Authority To Increase Direct Accessions
 Pub. L. 110–417, [div. A], title VI, § 620(a), Oct. 14, 2008, 122 Stat. 4489, provided that: “(1) Designation of critically short wartime health specialties.—For purposes of [section 335 of title 37](./chapter-005-special-and-incentive-pays.md#section-335), United States Code, as added by section 661 of the National Defense Authorization Act for Fiscal Year 2008 (Public Law 110–181; 122 Stat. 169), the following health professions are designated as a critically short wartime specialty under subsection (a)(2) of such section:“(A) Psychologists who have been awarded a diploma as a Diplomate in Psychology by the American Board of Professional Psychology and are fully licensed and such other mental health practitioners as the Secretary concerned determines to be necessary. “(B) Registered nurses. “(2) Special agreement authority.—Under the authority provided by this section [enacting this note and [section 302c–1 of this title](./chapter-005-special-and-incentive-pays.md#section-302c-1)], the Secretary concerned may enter into an agreement under subsection (f) of [section 335 of title 37](./chapter-005-special-and-incentive-pays.md#section-335), United States Code, to pay a health professions bonus under such section to a person who accepts a commission or appointment as an officer and whose health profession specialty is specified in paragraph (1) of this subsection. “(3) Secretary concerned defined.—In this subsection, the term ‘Secretary concerned’ has the meaning given that term in [section 101(5) of title 37](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section101/5&num=0&edition=prelim), United States Code. “(4) Effective period.—The designations made by this subsection and the authority to enter into an agreement under paragraph (2) of this subsection expire on September 30, 2010.”
@@ -6655,11 +6710,15 @@ Pub. L. 110–417, [div. A], title VI, § 620(a), Oct. 14, 2008, 122 Stat. 4489,
 
 **(f) Regulations.—** The Secretary concerned shall issue such regulations as may be necessary to carry out this section.
 
-**(g) Termination of Authority.—** No agreement under this section may be entered into after December 31, 2019.
+**(g) Termination of Authority.—** No agreement under this section may be entered into after December 31, 2021.
 
 ### Statutory Notes
 
 #### Amendments
+2021—Subsec. (g). Pub. L. 116–283 substituted “December 31, 2021” for “December 31, 2020”.
+
+2019—Subsec. (g). Pub. L. 116–92 substituted “December 31, 2020” for “December 31, 2019”.
+
 2018—Subsec. (g). Pub. L. 115–232 substituted “December 31, 2019” for “December 31, 2018”.
 
 2017—Subsec. (g). Pub. L. 115–91 substituted “December 31, 2018” for “December 31, 2017”.
@@ -6685,9 +6744,9 @@ Pub. L. 110–417, [div. A], title VI, § 620(a), Oct. 14, 2008, 122 Stat. 4489,
 
 (1) In the case of a member who performs duty in a designated hostile fire area, as described in subsection (a)(1), hazardous duty pay may not exceed $450 per month.
 
-(2) In the case of a member who performs a designated hazardous duty, as described in subsection (a)(2), hazardous duty pay may not exceed $250 per month.
+(2) In the case of a member who performs a designated hazardous duty, as described in subsection (a)(2), hazardous duty pay may not exceed $275 per month.
 
-(3) In the case of a member who performs duty in a foreign area designated as an imminent danger area, as described in subsection (a)(3), hazardous duty pay may not exceed $250 per month.
+(3) In the case of a member who performs duty in a foreign area designated as an imminent danger area, as described in subsection (a)(3), hazardous duty pay may not exceed $275 per month.
 
 **(c) Method of Payment; Proration.—**
 
@@ -6697,11 +6756,17 @@ Pub. L. 110–417, [div. A], title VI, § 620(a), Oct. 14, 2008, 122 Stat. 4489,
 
   (A) in the case of hazardous duty pay payable under paragraph (1) of subsection (a), the Secretary concerned—
 
-    (i) shall prorate the payment amount to reflect the duration of the member’s actual qualifying service during the month; or
+    (i) may prorate the payment amount to reflect the duration of the member’s actual qualifying service during the month; or
 
     (ii) in the case of a member who is exposed to hostile fire or an explosion of a hostile explosive device in or for a day or portion of a day, may, at the election of the Secretary, pay the member hazardous duty pay in an amount not to exceed the entire amount of hazardous duty pay that would be payable to the member under such paragraph (1) for the month in which the duty concerned occurs (with the total amount of hazardous duty pay paid the member under this clause in any given month not to exceed such entire amount); and
 
-  (B) in the case of hazardous duty pay payable under paragraph (2) or (3) of subsection (a), the Secretary concerned may prorate the payment amount to reflect the duration of the member’s actual qualifying service during the month.
+  (B) in the case of hazardous duty pay payable under paragraph (2) of subsection (a), the Secretary concerned—
+
+    (i) may prorate the payment amount to reflect the duration of the member’s actual qualifying service during the month; and
+
+    (ii) in the case of member 11 So in original. Probably should be preceded by “a”. who performs hazardous duty specifically designated by the Secretary concerned, shall pay the member hazardous duty pay in an amount not to exceed the maximum amount of hazardous duty pay that would be payable to the member under subsection (b)(2) for the entire month, regardless of the duration of the qualifying service.
+
+  (C) In the case of hazardous duty pay payable under paragraph (3) of subsection (a), the Secretary concerned may prorate the payment amount to reflect the duration of the member’s actual qualifying service during the month.
 
 **(d) Administration and Retroactive Payments.—** The effective date for the designation of a hostile fire area, as described in paragraph (1) of subsection (a), and for the designation of a foreign area as an imminent danger area, as described in paragraph (3) of such subsection, may be a date that occurs before, on, or after the actual date of the designation by the Secretary concerned.
 
@@ -6715,11 +6780,23 @@ Pub. L. 110–417, [div. A], title VI, § 620(a), Oct. 14, 2008, 122 Stat. 4489,
 
 **(g) Prohibition on Variable Rates.—** The regulations prescribed to administer this section may not include varied criteria or rates for payment of hazardous duty for officers and enlisted members.
 
-**(h) Termination of Authority.—** No hazardous duty pay under this section may be paid after December 31, 2019.
+**(h) Termination of Authority.—** No hazardous duty pay under this section may be paid after December 31, 2021.
 
 ### Statutory Notes
 
 #### Amendments
+2021—Subsec. (b)(2), (3). Pub. L. 116–283, § 613, substituted “$275” for “$250”.
+
+Subsec. (c)(2)(A)(i). Pub. L. 116–283, § 614(1)(A), substituted “may prorate” for “shall prorate”.
+
+Subsec. (c)(2)(B). Pub. L. 116–283, § 614(1)(B), (C), substituted “paragraph (2)” for “paragraph (2) or (3)”, “the Secretary concerned—” for “the Secretary concerned may prorate the payment amount to reflect the duration of the member’s actual qualifying service during the month.”, and added cls. (i) and (ii).
+
+Subsec. (c)(2)(C). Pub. L. 116–283, § 614(1)(C), added subpar. (C).
+
+Subsec. (h). Pub. L. 116–283, §§ 611(d)(6), 614(2), made identical amendments, substituting “December 31, 2021” for “December 31, 2020”.
+
+2019—Subsec. (h). Pub. L. 116–92 substituted “December 31, 2020” for “December 31, 2019”.
+
 2018—Subsec. (h). Pub. L. 115–232 substituted “December 31, 2019” for “December 31, 2018”.
 
 2017—Subsec. (h). Pub. L. 115–91 substituted “December 31, 2018” for “December 31, 2017”.
@@ -6795,11 +6872,15 @@ Subsec. (f). Pub. L. 110–417, § 618(e), substituted “in connection with det
 
 **(f) Repayment.—** A member who receives assignment or special duty pay under this section and who fails to fulfill the eligibility requirements under subsection (a) for receipt of such pay shall be subject to the repayment provisions of [section 373 of this title](./chapter-005-special-and-incentive-pays.md#section-373).
 
-**(g) Termination of Authority.—** No agreement may be entered into under this section after December 31, 2019.
+**(g) Termination of Authority.—** No agreement may be entered into under this section after December 31, 2021.
 
 ### Statutory Notes
 
 #### Amendments
+2021—Subsec. (g). Pub. L. 116–283 substituted “December 31, 2021” for “December 31, 2020”.
+
+2019—Subsec. (g). Pub. L. 116–92 substituted “December 31, 2020” for “December 31, 2019”.
+
 2018—Subsec. (g). Pub. L. 115–232 substituted “December 31, 2019” for “December 31, 2018”.
 
 2017—Subsec. (g). Pub. L. 115–91 substituted “December 31, 2018” for “December 31, 2017”.
@@ -6880,7 +6961,7 @@ Pub. L. 111–84, div. A, title VI, § 619, Oct. 28, 2009, 123 Stat. 2357, provi
 
 **(h) Relationship to Other Pays and Allowances.—** A member may not be paid more than one pay under this section in any month for the same period of service and skill. A member may be paid skill incentive pay or the proficiency bonus under this section in addition to any other pay and allowances to which the member is entitled, except that a member may not be paid skill incentive pay or a proficiency bonus under this section and hazardous duty pay under [section 351 of this title](./chapter-005-special-and-incentive-pays.md#section-351) for the same period of service in the same career field or skill.
 
-**(i) Termination of Authority.—** No agreement may be entered into under this section after December 31, 2019.
+**(i) Termination of Authority.—** No agreement may be entered into under this section after December 31, 2021.
 
 ### Statutory Notes
 
@@ -6888,6 +6969,10 @@ Pub. L. 111–84, div. A, title VI, § 619, Oct. 28, 2009, 123 Stat. 2357, provi
 Subsection (g)(2), referred to in subsec. (b)(2), was redesignated subsec. (f)(2) by Pub. L. 111–84, div. A, title VI, § 618(d)(1), Oct. 28, 2009, 123 Stat. 2356.
 
 #### Amendments
+2021—Subsec. (i). Pub. L. 116–283 substituted “December 31, 2021” for “December 31, 2020”.
+
+2019—Subsec. (i). Pub. L. 116–92 substituted “December 31, 2020” for “December 31, 2019”.
+
 2018—Subsec. (i). Pub. L. 115–232 substituted “December 31, 2019” for “December 31, 2018”.
 
 2017—Subsec. (i). Pub. L. 115–91 substituted “December 31, 2018” for “December 31, 2017”.
@@ -7067,11 +7152,15 @@ Pub. L. 107–107, div. A, title VI, § 620(b), Dec. 28, 2001, 115 Stat. 1139, p
 
 **(g) Repayment.—** A member paid a bonus under this section who fails, during the period of service covered by the member’s agreement, reenlistment, or voluntary extension of enlistment under subsection (a), to remain qualified in the critical military skill or to satisfy the other eligibility criteria for which the bonus was paid shall be subject to the repayment provisions of [section 373 of this title](./chapter-005-special-and-incentive-pays.md#section-373).
 
-**(h) Termination of Bonus Authority.—** No bonus may be paid under this section with respect to any reenlistment, or voluntary extension of an enlistment, in the armed forces entered into after December 31, 2019, and no agreement under this section may be entered into after that date.
+**(h) Termination of Bonus Authority.—** No bonus may be paid under this section with respect to any reenlistment, or voluntary extension of an enlistment, in the armed forces entered into after December 31, 2021, and no agreement under this section may be entered into after that date.
 
 ### Statutory Notes
 
 #### Amendments
+2021—Subsec. (h). Pub. L. 116–283 substituted “December 31, 2021” for “December 31, 2020”.
+
+2019—Subsec. (h). Pub. L. 116–92 substituted “December 31, 2020” for “December 31, 2019”.
+
 2018—Subsec. (h). Pub. L. 115–232 substituted “December 31, 2019” for “December 31, 2018”.
 
 2017—Subsec. (h). Pub. L. 115–91 substituted “December 31, 2018” for “December 31, 2017”.
@@ -7242,13 +7331,18 @@ Section effective Jan. 1, 2018, with certain implementation requirements, see se
 
 **(b) Duration.—** The payment of pay and allowances to a member under subsection (a) may continue until the end of the first month beginning after the earliest of the following dates:
 
-(1) The date on which the member is returned for assignment to other than a medical or patient unit for duty.
+(1) The date on which the member is returned for assignment to other than a medical or patient unit for duty; however, in the case of a member under the jurisdiction of a Secretary of a military department, the date on which the member is determined fit for duty.
 
 (2) One year after the date on which the member is first hospitalized for the treatment of the wound, injury, or illness, except that the Secretary concerned may extend the termination date in six-month increments.
 
 (3) The date on which the member is discharged, separated, or retired (including temporary disability retirement) from the uniformed services.
 
 **(c) Bonus, Incentive Pay, or Similar Benefit Defined.—** In this section, the term “bonus, incentive pay, or similar benefit” means a bonus, incentive pay, special pay, or similar payment paid to a member of the uniformed services under this title or title 10.
+
+### Statutory Notes
+
+#### Amendments
+2019—Subsec. (b)(1). Pub. L. 116–92 amended par. (1) generally. Prior to amendment, par. (1) read as follows: “The date on which the member is returned for assignment to other than a medical or patient unit for duty.”
 
 
 <a id="section-373"></a>

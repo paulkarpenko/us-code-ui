@@ -38,6 +38,12 @@ The Congress finds and declares that—
 #### References in Text
 This chapter, referred to in pars. (e), (f), and (k), was in the original “this Act”, meaning Pub. L. 95–87, Aug. 3, 1977, 91 Stat. 445, as amended, which enacted this chapter and amended [section 1114 of Title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section1114&num=0&edition=prelim), Crimes and Criminal Procedure. For complete classification of this Act to the Code, see Short Title note set out below and Tables.
 
+#### Short Title of 2020 Amendment
+Pub. L. 116–260, div. Y, § 1, Dec. 27, 2020, 134 Stat. 2417, provided that: “This division [amending [section 1232 of this title](./chapter-025-surface-mining-control-and-reclamation.md#section-1232) and enacting provisions set out as a note under [section 1232 of this title](./chapter-025-surface-mining-control-and-reclamation.md#section-1232)] may be cited as the ‘American Miner Benefits Improvement Act of 2020’.”
+
+#### Short Title of 2019 Amendment
+Pub. L. 116–94, div. M, § 101, Dec. 20, 2019, 133 Stat. 3091, provided that: “This division [amending [section 1232 of this title](./chapter-025-surface-mining-control-and-reclamation.md#section-1232) and sections 401 and 457 of Title 26, Internal Revenue Code, and enacting provisions set out as notes under [section 1232 of this title](./chapter-025-surface-mining-control-and-reclamation.md#section-1232) and [section 401 of Title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section401&num=0&edition=prelim)] may be cited as the ‘Bipartisan American Miners Act of 2019’.”
+
 #### Short Title of 2017 Amendment
 Pub. L. 114–223, div. C, § 202(a), as added by Pub. L. 115–30, par. (2), Apr. 28, 2017, 131 Stat. 134, provided that: “This section [amending [section 1232 of this title](./chapter-025-surface-mining-control-and-reclamation.md#section-1232)] may be cited as the ‘Further Continued Health Benefits for Miners Act’.”
 
@@ -159,9 +165,6 @@ Amendment by Pub. L. 96–511 effective Apr. 1, 1981, see section 5 of Pub. L. 9
 #### Termination of Reporting Requirements
 For termination, effective May 15, 2000, of provisions in subsec. (f) of this section relating to requirement to report to Congress on actions taken and not taken under subsec. (f), see section 3003 of Pub. L. 104–66, as amended, set out as a note under [section 1113 of Title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1113&num=0&edition=prelim), Money and Finance, and page 109 of House Document No. 103–7.
 
-#### Transfer of Functions
-“The Director of the Office of Personnel Management” substituted for “a majority of members of the Civil Service Commission” in subsec. (b) pursuant to Reorg. Plan No. 2 of 1978, § 102, 43 F.R. 36037, 92 Stat. 3783, set out under [section 1101 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section1101&num=0&edition=prelim), Government Organization and Employees, which transferred all functions vested by statute in the United States Civil Service Commission to the Director of the Office of Personnel Management (except as otherwise specified), effective Jan. 1, 1979, as provided by section 1–102 of Ex. Ord. No. 12107, Dec. 28, 1978, 44 F.R. 1055, set out under [section 1101 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section1101&num=0&edition=prelim).
-
 #### References in Other Laws to GS–16, 17, or 18 Pay Rates
 References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 [title I, § 101(c)(1)] of Pub. L. 101–509, set out in a note under [section 5376 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5376&num=0&edition=prelim).
 
@@ -169,6 +172,10 @@ References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rat
 Pub. L. 100–446, title I, Sept. 27, 1988, 102 Stat. 1793, provided: “That notwithstanding any other provisions of law, appropriations for the Office of Surface Mining Reclamation and Enforcement may, hereafter, provide for the travel and per diem expenses of State and tribal personnel attending OSMRE sponsored training”.
 
 Similar provisions were contained in the following appropriations acts:
+
+Pub. L. 116–260, div. G, title I, Dec. 27, 2020, 134 Stat. 1489.
+
+Pub. L. 116–94, div. D, title I, Dec. 20, 2019, 133 Stat. 2697.
 
 Pub. L. 116–6, div. E, title I, Feb. 15, 2019, 133 Stat. 216.
 
@@ -223,6 +230,9 @@ Pub. L. 102–154, title I, Nov. 13, 1991, 105 Stat. 1002.
 Pub. L. 101–512, title I, Nov. 5, 1990, 104 Stat. 1927.
 
 Pub. L. 101–121, title I, Oct. 23, 1989, 103 Stat. 712.
+
+#### Transfer of Functions
+“The Director of the Office of Personnel Management” substituted for “a majority of members of the Civil Service Commission” in subsec. (b) pursuant to Reorg. Plan No. 2 of 1978, § 102, 43 F.R. 36037, 92 Stat. 3783, set out under [section 1101 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section1101&num=0&edition=prelim), Government Organization and Employees, which transferred all functions vested by statute in the United States Civil Service Commission to the Director of the Office of Personnel Management (except as otherwise specified), effective Jan. 1, 1979, as provided by section 1–102 of Ex. Ord. No. 12107, Dec. 28, 1978, 44 F.R. 1055, set out under [section 1101 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section1101&num=0&edition=prelim).
 
 
 <a id="section-1221"></a>
@@ -812,16 +822,24 @@ Pub. L. 99–509, title III, § 3501, Oct. 21, 1986, 100 Stat. 1891, as amended 
 
     (ii) *Calculation of excess* — The excess determined under clause (i) shall be calculated by taking into account only—
 
-      (I) those beneficiaries actually enrolled in the Plan as of May 5, 2017, who are eligible to receive health benefits under the Plan on the first day of the calendar year for which the transfer is made, other than those beneficiaries enrolled in the Plan under the terms of a participation agreement with the current or former employer of such beneficiaries; and
+      (I) those beneficiaries actually enrolled in the Plan as of December 27, 2020, who are eligible to receive health benefits under the Plan on the first day of the calendar year for which the transfer is made, other than those beneficiaries enrolled in the Plan under the terms of a participation agreement with the current or former employer of such beneficiaries;
 
-      (II) those beneficiaries whose health benefits, defined as those benefits payable, following death or retirement or upon a finding of disability, directly by an employer in the bituminous coal industry under a coal wage agreement (as defined in [section 9701(b)(1) of title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section9701/b/1&num=0&edition=prelim)), would be denied or reduced as a result of a bankruptcy proceeding commenced in 2012 or 2015.
-    For purposes of subclause (I), a beneficiary enrolled in the Plan as of May 5, 2017, shall be deemed to have been eligible to receive health benefits under the Plan on January 1, 2017.
+      (II) those beneficiaries whose health benefits, defined as those benefits payable, following death or retirement or upon a finding of disability, directly by an employer in the bituminous coal industry under a coal wage agreement (as defined in [section 9701(b)(1) of title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section9701/b/1&num=0&edition=prelim)) or a related coal wage agreement, would be denied or reduced as a result of a bankruptcy proceeding commenced in 2012, 2015, 2018, 2019, or any year thereafter,11 So in original. (or, in the case of any such health benefits confirmed in any bankruptcy proceeding, would be subsequently denied or reduced); and
+
+      (III) the cost of administering the resolution of disputes process administered (as of December 27, 2020) by the Trustees of the Plan.
+    For purposes of subclause (I), a beneficiary enrolled in the Plan as of December 27, 2020, shall be deemed to have been eligible to receive health benefits under the Plan on January 1, 2020.
 
     (iii) *Eligibility of certain retirees* — Individuals referred to in clause (ii)(II) shall be treated as eligible to receive health benefits under the Plan.
 
     (iv) *Requirements for transfer* — The amount of the transfer otherwise determined under this subparagraph for a fiscal year shall be reduced by any amount transferred for the fiscal year to the Plan, to pay benefits required under the Plan, from a voluntary employees’ beneficiary association established as a result of a bankruptcy proceeding described in clause (ii).
 
     (v) *VEBA transfer* — The administrator of such voluntary employees’ beneficiary association shall transfer to the Plan any amounts received as a result of such bankruptcy proceeding, reduced by an amount for administrative costs of such association.
+
+    (vi) *Related coal wage agreement* — For purposes of clause (ii), the term “related coal wage agreement” means an agreement between the United Mine Workers of America and an employer in the bituminous coal industry that—
+
+      (I) is a signatory operator; or
+
+      (II) is or was a debtor in a bankruptcy proceeding that was consolidated, administratively or otherwise, with the bankruptcy proceeding of a signatory operator or a related person to a signatory operator (as those terms are defined in [section 9701(c) of title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section9701/c&num=0&edition=prelim)).
 
   (D) *Individuals considered enrolled* — For purposes of subparagraph (C), any individual who was eligible to receive benefits from the Plan as of December 20, 2006, even though benefits were being provided to the individual pursuant to a settlement agreement approved by order of a bankruptcy court entered on or before September 30, 2004, will be considered to be actually enrolled in the Plan and shall receive benefits from the Plan beginning on December 31, 2006.
 
@@ -919,7 +937,7 @@ Pub. L. 99–509, title III, § 3501, Oct. 21, 1986, 100 Stat. 1891, as amended 
 
 (3) **Limitations**
 
-  (A) *Cap* — The total amount transferred under this subsection for any fiscal year shall not exceed $490,000,000.
+  (A) *Cap* — The total amount transferred under this subsection for any fiscal year shall not exceed $750,000,000.
 
   (B) *Insufficient amounts* — In a case in which the amount required to be transferred without regard to this paragraph exceeds the maximum annual limitation in subparagraph (A), the Secretary shall adjust the transfers of funds under paragraph (1) so that—
 
@@ -929,14 +947,111 @@ Pub. L. 99–509, title III, § 3501, Oct. 21, 1986, 100 Stat. 1891, as amended 
 
     (iii) the percentage transferred is the same for all transfers made under paragraph (1) for the fiscal year.
 
-(4) **Availability of funds** — Funds shall be transferred under paragraphs (1) and (2) beginning in fiscal year 2008 and each fiscal year thereafter, and shall remain available until expended.
+  (C) *Increase in limitation to account for calculation of health benefit plan excess* — The dollar limitation under subparagraph (A) shall be increased by the amount of the cost to provide benefits which are taken into account under subsection (h)(2)(C)(ii) solely by reason of the amendments made by section 2(a) of the American Miner Benefits Improvement Act of 2020
+
+(4) **Additional amounts**
+
+  (A) *Calculation* — If the dollar limitation specified in paragraph (3)(A) exceeds the aggregate amount required to be transferred under paragraphs (1) and (2) for a fiscal year, the Secretary of the Treasury shall transfer an additional amount equal to the difference between such dollar limitation and such aggregate amount to the trustees of the 1974 UMWA Pension Plan to pay benefits required under that plan.
+
+  (B) *Cessation of transfers* — The transfers described in subparagraph (A) shall cease as of the first fiscal year beginning after the first plan year for which the funded percentage (as defined in [section 432(j)(2) of title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section432/j/2&num=0&edition=prelim)) of the 1974 UMWA Pension Plan is at least 100 percent.
+
+  (C) *Prohibition on benefit increases, etc.* — During a fiscal year in which the 1974 UMWA Pension Plan is receiving transfers under subparagraph (A), no amendment of such plan which increases the liabilities of the plan by reason of any increase in benefits, any change in the accrual of benefits, or any change in the rate at which benefits become nonforfeitable under the plan may be adopted unless the amendment is required as a condition of qualification under part I of subchapter D of chapter 1 of title 26 [[26 U.S.C. 401](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section401&num=0&edition=prelim) et seq.].
+
+  (D) *Critical status to be maintained* — Until such time as the 1974 UMWA Pension Plan ceases to be eligible for the transfers described in subparagraph (A)—
+
+    (i) the Plan shall be treated as if it were in critical status for purposes of sections 412(b)(3), 432(e)(3), and 4971(g)(1)(A) of title 26 and sections 1082(b)(3) and 1085(e)(3) of title 29;
+
+    (ii) the Plan shall maintain and comply with its rehabilitation plan under section 432(e) of such Code and [section 1085(e) of title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1085/e&num=0&edition=prelim), including any updates thereto; and
+
+    (iii) the provisions of subsections (c) and (d) of section 432 of such Code and subsections (c) and (d) of [section 1085 of title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1085&num=0&edition=prelim) shall not apply.
+
+  (E) *Treatment of transfers for purposes of withdrawal liability under ERISA* — The amount of any transfer made under subparagraph (A) (and any earnings attributable thereto) shall be disregarded in determining the unfunded vested benefits of the 1974 UMWA Pension Plan and the allocation of such unfunded vested benefits to an employer for purposes of determining the employer’s withdrawal liability under [section 1381 of title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1381&num=0&edition=prelim).
+
+  (F) *Requirement to maintain contribution rate* — A transfer under subparagraph (A) shall not be made for a fiscal year unless the persons that are obligated to contribute to the 1974 UMWA Pension Plan on the date of the transfer are obligated to make the contributions at rates that are no less than those in effect on the date which is 30 days before December 20, 2019.
+
+  (G) *Enhanced annual reporting*
+
+    (i) *In general* — Not later than the 90th day of each plan year beginning after December 20, 2019, the trustees of the 1974 UMWA Pension Plan shall file with the Secretary of the Treasury or the Secretary’s delegate and the Pension Benefit Guaranty Corporation a report (including appropriate documentation and actuarial certifications from the plan actuary, as required by the Secretary of the Treasury or the Secretary’s delegate) that contains—
+
+      (I) whether the plan is in endangered or critical status under [section 1085 of title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1085&num=0&edition=prelim) and [section 432 of title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section432&num=0&edition=prelim) as of the first day of such plan year;
+
+      (II) the funded percentage (as defined in [section 432(j)(2) of title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section432/j/2&num=0&edition=prelim)) as of the first day of such plan year, and the underlying actuarial value of assets and liabilities taken into account in determining such percentage;
+
+      (III) the market value of the assets of the plan as of the last day of the plan year preceding such plan year;
+
+      (IV) the total value of all contributions made during the plan year preceding such plan year;
+
+      (V) the total value of all benefits paid during the plan year preceding such plan year;
+
+      (VI) cash flow projections for such plan year and either the 6 or 10 succeeding plan years, at the election of the trustees, and the assumptions relied upon in making such projections;
+
+      (VII) funding standard account projections for such plan year and the 9 succeeding plan years, and the assumptions relied upon in making such projections;
+
+      (VIII) the total value of all investment gains or losses during the plan year preceding such plan year;
+
+      (IX) any significant reduction in the number of active participants during the plan year preceding such plan year, and the reason for such reduction;
+
+      (X) a list of employers that withdrew from the plan in the plan year preceding such plan year, and the resulting reduction in contributions;
+
+      (XI) a list of employers that paid withdrawal liability to the plan during the plan year preceding such plan year and, for each employer, a total assessment of the withdrawal liability paid, the annual payment amount, and the number of years remaining in the payment schedule with respect to such withdrawal liability;
+
+      (XII) any material changes to benefits, accrual rates, or contribution rates during the plan year preceding such plan year;
+
+      (XIII) any scheduled benefit increase or decrease in the plan year preceding such plan year having a material effect on liabilities of the plan;
+
+      (XIV) details regarding any funding improvement plan or rehabilitation plan and updates to such plan;
+
+      (XV) the number of participants and beneficiaries during the plan year preceding such plan year who are active participants, the number of participants and beneficiaries in pay status, and the number of terminated vested participants and beneficiaries;
+
+      (XVI) the information contained on the most recent annual funding notice submitted by the plan under [section 1021(f) of title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1021/f&num=0&edition=prelim);
+
+      (XVII) the information contained on the most recent Department of Labor Form 5500 of the plan; and
+
+      (XVIII) copies of the plan document and amendments, other retirement benefit or ancillary benefit plans relating to the plan and contribution obligations under such plans, a breakdown of administrative expenses of the plan, participant census data and distribution of benefits, the most recent actuarial valuation report as of the plan year, copies of collective bargaining agreements, and financial reports, and such other information as the Secretary of the Treasury or the Secretary’s delegate, in consultation with the Secretary of Labor and the Director of the Pension Benefit Guaranty Corporation, may require.
+
+    (ii) *Electronic submission* — The report required under clause (i) shall be submitted electronically.
+
+    (iii) *Information sharing* — The Secretary of the Treasury or the Secretary’s delegate shall share the information in the report under clause (i) with the Secretary of Labor.
+
+    (iv) *Penalty* — Any failure to file the report required under clause (i) on or before the date described in such clause shall be treated as a failure to file a report required to be filed under [section 6058(a) of title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section6058/a&num=0&edition=prelim), except that [section 6652(e) of title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section6652/e&num=0&edition=prelim) shall be applied with respect to any such failure by substituting “$100” for “$25”. The preceding sentence shall not apply if the Secretary of the Treasury or the Secretary’s delegate determines that reasonable diligence has been exercised by the trustees of such plan in attempting to timely file such report.
+
+  (H) *1974 UMWA Pension Plan defined* — For purposes of this paragraph, the term “1974 UMWA Pension Plan” has the meaning given the term in [section 9701(a)(3) of title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section9701/a/3&num=0&edition=prelim), but without regard to the limitation on participation to individuals who retired in 1976 and thereafter.
+
+(5) **Availability of funds** — Funds shall be transferred under paragraphs (1) and (2) beginning in fiscal year 2008 and each fiscal year thereafter, and shall remain available until expended.
 
 ### Statutory Notes
+
+#### References in Text
+The amendments made by section 2(a) of the American Miner Benefits Improvement Act of 2020, referred to in subsec. (i)(3)(C), are the amendments made to subsec. (h)(2)(C)(ii) of this section made by section 2(a) of div. Y of Pub. L. 116–260. See 2020 Amendment notes below.
 
 #### Codification
 November 5, 1990, referred to in subsec. (g)(4)(B)(ii), was in the original “the date of enactment of this paragraph”, which was translated as meaning the date of enactment of Pub. L. 101–508, which amended this section generally, to reflect the probable intent of Congress.
 
 #### Amendments
+2020—Subsec. (h)(2)(C)(ii). Pub. L. 116–260, § 2(a)(4), substituted “January 1, 2020” for “January 1, 2019” in concluding provisions.
+
+Pub. L. 116–260, § 2(a)(1), substituted “December 27, 2020” for “December 20, 2019” wherever appearing.
+
+Subsec. (h)(2)(C)(ii)(II). Pub. L. 116–260, § 2(a)(3), inserted “(or, in the case of any such health benefits confirmed in any bankruptcy proceeding, would be subsequently denied or reduced)” before “; and”.
+
+Pub. L. 116–260, § 2(a)(2), substituted “2019, or any year thereafter,” for “or 2019”.
+
+Subsec. (i)(3)(C). Pub. L. 116–260, § 2(b), addded subpar. (C).
+
+2019—Subsec. (h)(2)(C)(ii). Pub. L. 116–94, § 103(4), substituted “January 1, 2019” for “January 1, 2017” in concluding provisions.
+
+Pub. L. 116–94, § 103(1), substituted “December 20, 2019” for “May 5, 2017” in subcl. (I) and in concluding provisions.
+
+Subsec. (h)(2)(C)(ii)(II). Pub. L. 116–94, § 103(2), substituted “or a related coal wage agreement, would be denied or reduced as a result of a bankruptcy proceeding commenced in 2012, 2015, 2018, or 2019” for “, would be denied or reduced as a result of a bankruptcy proceeding commenced in 2012 or 2015”.
+
+Subsec. (h)(2)(C)(ii)(III). Pub. L. 116–94, § 103(3), added subcl. (III).
+
+Subsec. (h)(2)(C)(vi). Pub. L. 116–94, § 103(5), added cl. (vi).
+
+Subsec. (i)(3)(A). Pub. L. 116–94, § 102(a)(1), substituted “$750,000,000” for “$490,000,000”.
+
+Subsec. (i)(4), (5). Pub. L. 116–94, § 102(a)(2), (3), added par. (4) and redesignated former par. (4) as (5).
+
 2017—Subsec. (h)(2)(C)(ii). Pub. L. 115–31 added cl. (ii) and struck out former cl. (ii) which related to calculation of excess.
 
 Pub. L. 114–223, div. C, § 202(b)(3), as added by Pub. L. 115–30, par. (2), inserted at end of concluding provisions “For purposes of subclause (II)(aa), a beneficiary enrolled in the Plan as of April 28, 2017, shall be deemed to have been eligible to receive health benefits under the Plan on January 1, 2017.”
@@ -975,7 +1090,7 @@ Subsec. (g)(3)(A). Pub. L. 109–432, § 202(c)(3)(B), substituted “1231(c)(9)
 
 Subsec. (g)(3)(E). Pub. L. 109–432, § 202(c)(3)(C), added subpar. (E).
 
-Subsec. (g)(5). Pub. L. 109–432, § 202(c)(4), designated existing provisions as subpar. (A), in first sentence, substituted “60” for “40”, in last sentence, subtituted “Funds made available under paragraph (3) or (4)” for “Funds allocated or expended by the Secretary under paragraphs (2), (3), or (4)”, and added subpar. (B).
+Subsec. (g)(5). Pub. L. 109–432, § 202(c)(4), designated existing provisions as subpar. (A), in first sentence, substituted “60” for “40”, in last sentence, substituted “Funds made available under paragraph (3) or (4)” for “Funds allocated or expended by the Secretary under paragraphs (2), (3), or (4)”, and added subpar. (B).
 
 Subsec. (g)(6) to (8). Pub. L. 109–432, § 202(c)(5), added pars. (6) to (8) and struck out former pars. (6) to (8) which related to authority of any State to receive and retain up to 10 percent of the total of grants, State authority to establish an acid mine drainage abatement and treatment fund and to implement plans for acid mine drainage abatement and treatment, and allocation of not less than $2,000,000 annually for expenditure in each State and for each Indian tribe, having an approved reclamation program and eligible lands and waters.
 
@@ -1006,6 +1121,12 @@ Subsec. (f). Pub. L. 101–508, § 6003(d), inserted at end “Whenever the Secr
 Subsec. (g). Pub. L. 101–508, § 6004, amended subsec. (g) generally, substituting present provisions for provisions relating to geographic allocation of expenditures from the fund, providing for allocation of 50 percent of funds collected annually in any State or Indian reservation to that State or Indian reservation pursuant to approved reclamation program, providing for special State set-aside for future expenditure, and authorizing expenditure of balance of funds collected at discretion of Secretary in order to meet the purposes of this subchapter.
 
 1987—Subsec. (g)(3), (4). Pub. L. 100–34 added par. (3) and redesignated former par. (3) as (4).
+
+#### Effective Date of 2020 Amendment
+Pub. L. 116–260, div. Y, § 2(c), Dec. 27, 2020, 134 Stat. 2418, provided that: “(1) In general.—Except as provided in paragraph (2), the amendments made by this section [amending this section] shall take effect on the date of the enactment of this Act [Dec. 27, 2020]. “(2) Subsection (a)(3).—The amendment made by subsection (a)(3) [amending this section] shall apply to denials and reductions after December 31, 2019.”
+
+#### Effective Date of 2019 Amendment
+Pub. L. 116–94, div. M, § 102(b), Dec. 20, 2019, 133 Stat. 3094, provided that: “(1) In general.—The amendments made by this section [amending this section] shall apply to fiscal years beginning after September 30, 2016. “(2) Reporting requirements.—Section 402(i)(4)(G) of the Surface Mining Control and Reclamation Act of 1977 ([30 U.S.C. 1232(i)(4)(G)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title30-section1232/i/4/G&num=0&edition=prelim)), as added by this section, shall apply to plan years beginning after the date of the enactment of this Act [Dec. 20, 2019].”
 
 #### Effective Date of 2017 Amendment
 Pub. L. 115–31, div. M, title I, § 104(b), May 5, 2017, 131 Stat. 804, provided that: “The amendments made by this section [amending this section] shall apply to fiscal years beginning after September 30, 2016.”
@@ -1738,6 +1859,10 @@ Amendment by Pub. L. 101–508, effective Oct. 1, 1991, see section 6014 of Pub.
 Pub. L. 113–76, div. G, title I, Jan. 17, 2014, 128 Stat. 299, provided in part: “That, in subsequent fiscal years [after fiscal year 2014], all amounts collected by the Office of Surface Mining from permit fees pursuant to section 507 of Public Law 95–87 ([30 U.S.C. 1257](./chapter-025-surface-mining-control-and-reclamation.md#section-1257)) shall be credited to this account [Office of Surface Mining Reclamation and Enforcement—regulation and technology] as discretionary offsetting collections, to remain available until expended.”
 
 Similar provisions were contained in the following appropriations acts:
+
+Pub. L. 116–260, div. G, title I, Dec. 27, 2020, 134 Stat. 1489.
+
+Pub. L. 116–94, div. D, title I, Dec. 20, 2019, 133 Stat. 2697.
 
 Pub. L. 116–6, div. E, title I, Feb. 15, 2019, 133 Stat. 216.
 

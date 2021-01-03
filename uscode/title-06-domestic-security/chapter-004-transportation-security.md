@@ -1315,7 +1315,7 @@ The Inspector General Act of 1978, referred to in subsec. (a)(1)(A), is Pub. L. 
 
 **(e) False statements** A public transportation agency or a contractor or subcontractor of a public transportation agency may not knowingly misrepresent to an employee or other relevant person, including an arbiter involved in a labor arbitration, the scope, application, or meaning of any rules, regulations, directives, or guidance issued by the Secretary related to security background check requirements for covered individuals when conducting a security background check. Not later than 1 year after August 3, 2007, the Secretary shall issue a regulation that prohibits a public transportation agency or a contractor or subcontractor of a public transportation agency from knowingly misrepresenting to an employee or other relevant person, including an arbiter involved in a labor arbitration, the scope, application, or meaning of any rules, regulations, directives, or guidance issued by the Secretary related to security background check requirements for covered individuals when conducting a security background check.
 
-**(f) Rights and responsibilities** Nothing in this section shall be construed to abridge a public transportation agency’s or a contractor or subcontractor of a public transportation agency’s rights or responsibilities to make adverse employment decisions permitted by other Federal, State, or local laws. Nothing in the section shall be construed to abridge rights and responsibilities of covered individuals, a public transportation agency, or a contractor or subcontractor of a public transportation agency under any other Federal, State, or local laws or collective bargaining agreement.
+**(f) Rights and responsibilities** Nothing in this section shall be construed to abridge a public transportation agency’s or a contractor or subcontractor of a public transportation agency’s rights or responsibilities to make adverse employment decisions permitted by other Federal, State, or local laws. Nothing in the 22 So in original. Probably should be “this”. section shall be construed to abridge rights and responsibilities of covered individuals, a public transportation agency, or a contractor or subcontractor of a public transportation agency under any other Federal, State, or local laws or collective bargaining agreement.
 
 **(g) No preemption of Federal or State law** Nothing in this section shall be construed to preempt a Federal, State, or local law that requires criminal history background checks, immigration status checks, or other background checks of covered individuals.
 
@@ -2034,7 +2034,7 @@ Pub. L. 115–254, div. K, title I, § 1974, Oct. 5, 2018, 132 Stat. 3615, provi
 
 (4) allows for proper advanced notification of communities and local governments in which exercises are held, as appropriate; and
 
-(5) assists State, local, and tribal governments and railroad carriers in designing, implementing, and evaluating additional exercises that conform to the requirements of paragraph (1).
+(5) assists State, local, and tribal governments and railroad carriers in designing, implementing, and evaluating additional exercises that conform to the requirements of paragraph (1) 11 So in original. Probably should be “(2)”..
 
 **(d) National Exercise Program** The Secretary shall ensure that the exercise program developed under subsection (c) is a component of the National Exercise Program established under [section 748 of this title](./chapter-002-national-emergency-management.md#section-748).
 

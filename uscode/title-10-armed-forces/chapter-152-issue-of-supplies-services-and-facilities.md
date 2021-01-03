@@ -631,6 +631,9 @@ Subsec. (g). Pub. L. 110–181, § 372(a)(2), added subsec. (g).
 
 Subsec. (c)(1). Pub. L. 105–85, § 1073(a)(56), substituted “September 23, 1996” for “the date of the enactment of this Act”.
 
+#### Change of Name
+References to the United States Olympic Committee deemed to refer to the United States Olympic and Paralympic Committee, see [section 220502(c) of Title 36](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title36-section220502/c&num=0&edition=prelim), Patriotic and National Observances, Ceremonies, and Organizations.
+
 #### Effective Date of 1997 Amendment
 Pub. L. 105–85, div. A, title X, § 1073(c), Nov. 18, 1997, 111 Stat. 1904, provided that the amendment made by that section is effective as of Sept. 23, 1996, and as if included in the National Defense Authorization Act for Fiscal Year 1997, Pub. L. 104–201, as enacted.
 
@@ -639,10 +642,20 @@ Pub. L. 104–208, div. A, title V, § 5802, Sept. 30, 1996, 110 Stat. 3009–52
 
 
 <a id="section-2564a"></a>
-## § 2564a. Provision of assistance for adaptive sports programs for members of the armed forces
+## § 2564a. Provision of assistance for adaptive sports programs: members of the armed forces; certain veterans
 **(a) Program Authorized.—**
 
-(1) The Secretary of Defense may establish a military adaptive sports program to support the provision of adaptive sports programming for members of the armed forces who are eligible to participate in adaptive sports because of an injury or wound incurred in the line of duty in the armed forces.
+(1) The Secretary of Defense may establish a military adaptive sports program to support the provision of adaptive sports programming for—
+
+  (A) any member of the armed forces who is eligible to participate in adaptive sports because of an injury, illness, or wound incurred in the line of duty in the armed forces; and
+
+  (B) any veteran (as defined in [section 101 of title 38](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section101&num=0&edition=prelim)), during the one-year period following the veteran’s date of separation, who—
+
+    (i) is on the Temporary Disability Retirement List or Permanently Disabled Retirement List;
+
+    (ii) is eligible to participate in adaptive sports because of an injury, illness, or wound incurred in the line of duty in the armed forces; and
+
+    (iii) was enrolled in the program authorized under this section prior to the veteran’s date of separation.
 
 (2) In establishing the military adaptive sports program, the Secretary of Defense shall—
 
@@ -652,7 +665,7 @@ Pub. L. 104–208, div. A, title V, § 5802, Sept. 30, 1996, 110 Stat. 3009–52
 
 **(b) Provision of Assistance; Purpose.—**
 
-(1) Under such criteria as the Secretary of Defense may establish under the military adaptive sports program, the Secretary may award grants to, or enter into contracts and cooperative agreements with, entities for the purpose of planning, developing, managing, and implementing adaptive sports programming for members described in subsection (a).
+(1) Under such criteria as the Secretary of Defense may establish under the military adaptive sports program, the Secretary may award grants to, or enter into contracts and cooperative agreements with, entities for the purpose of planning, developing, managing, and implementing adaptive sports programming for members and veterans described in subsection (a).
 
 (2) The Secretary of Defense shall use competitive procedures to award any grant or to enter into any contract or cooperative agreement under this subsection.
 
@@ -661,6 +674,15 @@ Pub. L. 104–208, div. A, title V, § 5802, Sept. 30, 1996, 110 Stat. 3009–52
 (1) for the purposes specified in subsection (b); and
 
 (2) for such related activities and expenses as the Secretary of Defense may authorize.
+
+### Statutory Notes
+
+#### Amendments
+2019—Pub. L. 116–92, § 592(c)(1), amended section catchline generally. Prior to amendment, catchline read as follows: “Provision of assistance for adaptive sports programs for members of the armed forces”.
+
+Subsec. (a)(1). Pub. L. 116–92, § 592(a), substituted “for—” and subpars. (A) and (B) for “for members of the armed forces who are eligible to participate in adaptive sports because of an injury or wound incurred in the line of duty in the armed forces.”
+
+Subsec. (b). Pub. L. 116–92, § 592(b), inserted “and veterans” after “members”.
 
 
 <a id="section-2565"></a>

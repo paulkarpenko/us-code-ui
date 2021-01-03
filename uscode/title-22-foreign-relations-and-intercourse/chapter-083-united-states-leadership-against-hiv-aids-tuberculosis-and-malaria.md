@@ -855,6 +855,9 @@ Subsecs. (d) to (f). Pub. L. 110–293, § 101(d), added subsecs. (d) to (f).
 
 Subsecs. (g), (h). Pub. L. 110–293, § 101(e), added subsecs. (g) and (h).
 
+#### Change of Name
+Broadcasting Board of Governors renamed United States Agency for Global Media pursuant to [section 6204(a)(22) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section6204/a/22&num=0&edition=prelim). The renaming was effectuated by notice to congressional appropriations committees dated May 24, 2018, and became effective Aug. 22, 2018.
+
 #### Delegation of Certain Authority Under the United States Leadership Against HIV/AIDS, Tuberculosis, and Malaria Act of 2003
 For delegation of functions of President under this chapter to Secretary of State, see Delegation of Functions note set out under [section 7601 of this title](./chapter-083-united-states-leadership-against-hiv-aids-tuberculosis-and-malaria.md#section-7601).
 
@@ -1246,6 +1249,9 @@ Subsec. (d)(5), (6). Pub. L. 110–293, § 202(c)(3), added pars. (5) and (6).
 2004—Subsec. (d)(4)(A)(vi). Pub. L. 108–199, § 595(1), added cl. (vi).
 
 Subsec. (d)(4)(B)(iv). Pub. L. 108–199, § 595(2), added cl. (iv).
+
+#### Change of Name
+Broadcasting Board of Governors renamed United States Agency for Global Media pursuant to [section 6204(a)(22) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section6204/a/22&num=0&edition=prelim). The renaming was effectuated by notice to congressional appropriations committees dated May 24, 2018, and became effective Aug. 22, 2018.
 
 #### Delegation of Functions
 For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under [section 2381 of this title](./chapter-032-foreign-assistance.md#section-2381), and Memorandum of President of Feb. 23, 2004, 69 F.R. 9509, set out as a note under [section 7611 of this title](./chapter-083-united-states-leadership-against-hiv-aids-tuberculosis-and-malaria.md#section-7611).

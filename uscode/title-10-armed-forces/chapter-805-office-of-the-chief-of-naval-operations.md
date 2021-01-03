@@ -116,6 +116,9 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 ### Statutory Notes
 
+#### Amendment of Subsection (d)(5)
+Pub. L. 116–283, div. A, title XVIII, §§ 1801(d), 1847(e)(6)(B), Jan. 1, 2021, 134 Stat. 4151, 4257, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, subsection (d)(5) of this section is amended by striking “and 2547” and inserting “, 3103, and 4274”. See 2021 Amendment note below.
+
 #### References in Text
 [Section 664(f) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section664/f&num=0&edition=prelim), referred to in subsec. (a)(2)(B), was redesignated as [section 664(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section664/d&num=0&edition=prelim) by Pub. L. 114–328, div. A, title V, § 510(g)(1), Dec. 23, 2016, 130 Stat. 2111.
 
@@ -131,6 +134,8 @@ A prior section 8034 was renumbered [section 9034 of this title](./chapter-905-t
 Another prior section 8034 was renumbered [section 8033 of this title](./chapter-805-office-of-the-chief-of-naval-operations.md#section-8033).
 
 #### Amendments
+2021—Subsec. (d)(5). Pub. L. 116–283 substituted “, 3103, and 4274” for “and 2547”.
+
 2018—Pub. L. 115–232, § 807(a)(1), renumbered [section 5033 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section5033&num=0&edition=prelim) as this section.
 
 Subsec. (c). Pub. L. 115–232, § 809(a), substituted “section 8013(f)” for “section 5013(f)”.
@@ -140,6 +145,9 @@ Subsec. (c). Pub. L. 115–232, § 809(a), substituted “section 8013(f)” for
 2003—Subsec. (a)(1). Pub. L. 108–136 substituted “from the flag officers of the Navy” for “from officers on the active-duty list in the line of the Navy who are eligible to command at sea and who hold the grade of rear admiral or above”.
 
 1988—Subsec. (a)(2)(B). Pub. L. 100–456 substituted “full tour of duty in a joint duty assignment (as defined in [section 664(f) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section664/f&num=0&edition=prelim))” for “joint duty assignment”.
+
+#### Effective Date of 2021 Amendment
+Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
 
 #### Effective Date of 2018 Amendment
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).

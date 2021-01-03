@@ -2,19 +2,19 @@
 title: 42
 chapter: 19B
 heading: WATER RESOURCES PLANNING
-section_count: 54
+section_count: 55
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42&num=0&edition=prelim
 ---
 <a id="section-1962"></a>
-## § 1962. Cooperation of Secretary of the Interior with State and local regulatory and law enforcement officials in enforcement of laws or ordinances in connection with Federal resource protection, etc., within Federal water resource development project; funding
+## § 1962. Study of depletion of natural resources of regions of Colorado, Kansas, New Mexico, Oklahoma, Texas, and Nebraska utilizing Ogallala aquifer; plans; reports to Congress; authorization of appropriation
 
-The Secretary of the Interior, in connection with Federal resource protection and the Federal administration of the use and occupancy of lands and waters within a water resource development project under his jurisdiction, is authorized to cooperate with the regulatory and law enforcement officials of any State or political subdivision thereof in the enforcement of the laws or ordinances of such State or political subdivision. Such cooperation may include the reimbursement of a State or its political subdivision for expenditures incurred in connection with such resource protection and administration. For purposes of complying with [section 651 of title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section651&num=0&edition=prelim), the authorization provided under this section is subject to the availability of appropriations.
+In order to assure an adequate supply of food to the Nation and to promote the economic vitality of the High Plains Region, the Secretary of Commerce (hereinafter referred to in this section as the “Secretary”), acting through the Economic Development Administration, in cooperation with the Secretary of the Army, acting through the Chief of Engineers, and appropriate Federal, State, and local agencies, and the private sector, is authorized and directed to study the depletion of the natural resources of those regions of the States of Colorado, Kansas, New Mexico, Oklahoma, Texas, and Nebraska presently utilizing the declining water resources of the Ogallala acquifer,11 So in original. Probably should be “aquifer,”. and to develop plans to increase water supplies in the area and report thereon to Congress, together with any recommendations for further congressional action. In formulating these plans, the Secretary is directed to consider all past and ongoing studies, plans, and work on depleted water resources in the region, and to examine the feasibility of various alternatives to provide adequate water supplies in the area including, but not limited to, the transfer of water from adjacent areas, such portion to be conducted by the Chief of Engineers to assure the continued economic growth and vitality of the region. The Secretary shall report on the costs of reasonably available options, the benefits of various options, and the costs of inaction. If water transfer is found to be a part of a reasonable solution, the Secretary, as part of his study, shall include a recommended plan for allocating and distributing water in an equitable fashion, taking into account existing water rights and the needs for future growth of all affected areas. An interim report, with recommendations, shall be transmitted to the Congress no later than October 1, 1978, and a final report, with recommendations, shall be transmitted to Congress not later than July 1, 1980. A sum of $6,000,000 is authorized to be appropriated for the purposes of carrying out this section.
 
 ### Statutory Notes
 
 #### Codification
-Section was not enacted as part of the Water Resources Planning Act which comprises this chapter.
+Section was enacted as part of the Water Resources Development Act of 1976, and not as part of the Water Resources Planning Act which comprises this chapter.
 
 
 <a id="section-1962a"></a>
@@ -62,9 +62,96 @@ Sec. 2. The Director of the Office of Management and Budget shall examine each r
 
 Sec. 3. When such report, proposal, or plan is thereafter submitted to the Congress, or to any committee or member thereof, it shall include a statement of the advice received from the Office of Management and Budget.
 
-Sec. 4. Executive Order No. 12113, as amended, is revoked.
+Sec. 4. Executive Order No. 12113, as amended [formerly set out above], is revoked.
 
 Ronald Reagan.
+
+#### Ex. Ord. No. 13956. Modernizing America’s Water Resource Management and Water Infrastructure
+Ex. Ord. No. 13956, Oct. 13, 2020, 85 F.R. 65647, provided:
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered as follows:
+
+Section 1. Purpose. Abundant, safe, and reliable supplies of water are critical to quality of life for all Americans, fueling our economy, providing food for our citizens and the world, generating energy, protecting public health, supporting rich and diverse wildlife and plant species, and affording recreational opportunities. While America is blessed with abundant natural resources, those resources must be effectively managed, and our water infrastructure must be modernized to meet the needs of current and future generations.
+
+Executive departments and agencies (agencies) that engage in water-related matters, including water storage and supply, water quality and restoration activities, water infrastructure, transportation on our rivers and inland waterways, and water forecasting, must work together where they have joint or overlapping responsibilities. This order will ensure that agencies do that more efficiently and effectively to improve our country’s water resource management, modernize our water infrastructure, and prioritize the availability of clean, safe, and reliable water supplies.
+
+Sec. 2. Policy. It is the policy of the United States to:
+
+(a) Improve coordination among agencies on water resource management and water infrastructure issues;
+
+(b) Reduce unnecessary duplication across the Federal Government by coordinating and consolidating existing water-related task forces, working groups, and other formal cross-agency initiatives, as appropriate;
+
+(c) Efficiently and effectively manage America’s water resources and promote resilience of America’s water-related infrastructure;
+
+(d) Promote integrated planning among agencies for Federal investments in water-related infrastructure; and
+
+(e) Support workforce development and efforts to recruit, train, and retain professionals to operate and maintain America’s essential drinking water, wastewater, flood control, hydropower, and delivery and storage facilities.
+
+Sec. 3. Interagency Water Subcabinet. To promote efficient and effective coordination across agencies engaged in water-related matters, and to prioritize actions to modernize and safeguard our water resources and infrastructure, an interagency Water Policy Committee (to be known as the Water Subcabinet) is hereby established. The Water Subcabinet shall be co-chaired by the Secretary of the Interior and the Administrator of the Environmental Protection Agency (Co-Chairs), and shall include the Secretary of Agriculture, the Secretary of Commerce, the Secretary of Energy, the Secretary of the Army, and the heads of such other agencies as the Co-Chairs deem appropriate. The Department of the Interior or the Environmental Protection Agency (EPA) shall, to the extent permitted by law and subject to the availability of appropriations, provide administrative support as needed for the Water Subcabinet to implement this order.
+
+Sec. 4. Reducing Inefficiencies and Duplication. Currently, hundreds of Federal water-related task forces, working groups, and other formal cross-agency initiatives (Federal interagency working groups) exist to address water resource management. Within 90 days of the date of this order [Oct. 13, 2020], the Water Subcabinet shall, to the extent practicable, identify all such Federal interagency working groups and provide recommendations to the Chairman of the Council on Environmental Quality (CEQ), the Director of the Office of Management and Budget (OMB), and the Director of the Office of Science and Technology Policy (OSTP) on coordinating and consolidating these Federal interagency working groups, as appropriate and consistent with applicable law.
+
+Sec. 5. Improving Water Resource Management. Federal agencies engage in a wide range of activities relating to water resource management. Within 120 days of the date of this order, the Water Subcabinet shall submit to the Chairman of CEQ, the Director of OMB, and the Director of OSTP a report that recommends actions to address the issues described below, and for each recommendation identifies a lead agency, other relevant agencies, and agency milestones for fiscal years 2021 through 2025:
+
+(a) Actions to increase water storage, water supply reliability, and drought resiliency, including through:
+
+(i) developing additional storage capacity, including an examination of operational changes and opportunities to update dam water control manuals for existing facilities during routine operations, maintenance, and safety assessments;
+
+(ii) coordinating agency reviews when there are multi-agency permitting and other regulatory requirements;
+
+(iii) increasing engagement with State, local, and tribal partners regarding the ongoing drought along the Colorado River and regarding irrigated agriculture in the Colorado Basin;
+
+(iv) implementing the “Priority Actions Supporting Long-Term Drought Resilience” document issued on July 31, 2019, by the National Drought Resilience Partnership; and
+
+(v) improving coordination among State, local, tribal, and territorial governments and rural communities, including farmers, ranchers, and landowners, to develop voluntary, market-based water and land management practices and programs that improve conservation efforts, economic viability, and water supply, sustainability, and security;
+
+(b) Actions to improve water quality, source water protection, and nutrient management; to promote restoration activities; and to examine water quality challenges facing our Nation’s minority and low-income communities, including through:
+
+(i) implementing the “Great Lakes Restoration Initiative (GLRI) Action Plan III” issued on October 22, 2019, by the EPA for the GLRI Interagency Task Force and Regional Working Group, established pursuant to the Water Infrastructure Improvements for the Nation Act (Public Law 114–322);
+
+(ii) enhancing coordination among the Mississippi River/Gulf of Mexico Watershed Nutrient Task Force partners to support State implementation of nutrient reduction strategies;
+
+(iii) increasing coordination between agencies and members of the South Florida Ecosystem Restoration Task Force, established pursuant to the Water Resources Development Act of 1996 (Public Law 104–303), and implementing and completing the activities included in the Comprehensive Everglades Restoration Plan, established pursuant to the Water Resources Development Act of 2000 (Public Law 106–541); and
+
+(iv) continuing implementation of the EPA’s memorandum entitled “Updating the Environmental Protection Agency’s Water Quality Trading Policy to Promote Market-Based Mechanisms for Improving Water Quality” issued on February 6, 2019;
+
+(c) Actions to improve water systems, including for drinking water, desalination, water reuse, wastewater, and flood control, including through:
+
+(i) finalizing and implementing, as appropriate and consistent with applicable law, the proposed rule entitled “National Primary Drinking Water Regulations: Proposed Lead and Copper Rule Revisions,” 84 Fed. Reg. 61684 (Nov. 13, 2019);
+
+(ii) implementing the “National Water Reuse Action Plan” issued on February 27, 2020, by the EPA;
+
+(iii) coordinating with the Federal Interagency Floodplain Management Task Force, established pursuant to the National Flood Insurance Act of 1968 ([title XIII of] Public Law 90–448 [[42 U.S.C. 4001](./chapter-050-national-flood-insurance.md#section-4001) et seq.]), on Federal flood risk management policies and programs to better support community needs; and
+
+(iv) continuing coordination among agencies concerning the Department of Energy’s Water Security Grand Challenge to advance transformational technology and innovation to provide safe, secure, and affordable water; and
+
+(d) Actions to improve water data management, research, modeling, and forecasting, including through:
+
+(i) aligning efforts and developing research plans among the Secretary of the Interior, the Secretary of Agriculture, the Administrator of the National Oceanic and Atmospheric Administration, and the Secretary of the Army, through the Assistant Secretary of the Army (Civil Works), to ensure that America remains a global leader for water-related science and technology capabilities;
+
+(ii) implementing common methods of water forecasting, including the use of snow monitoring tools, on a national and basin scale, supported by weather forecasting on all scales;
+
+(iii) developing state-of-the-art geospatial data tools, including maps, through Federal, State, tribal, and territorial partnerships to depict the scope of waters regulated under the Federal Water Pollution Control Act Amendments of 1972 (Public Law 92–500); and
+
+(iv) implementing actions identified in the “Federal Action Plan for Improving Forecasts of Water Availability” issued on October 18, 2019, by the Department of the Interior and the Department of Commerce pursuant to section 3 of the Presidential Memorandum of October 19, 2018 (Promoting the Reliable Supply and Delivery of Water in the West) [[33 U.S.C. 2201](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section2201&num=0&edition=prelim) note].
+
+Sec. 6. Report. Within 1 year of submitting the report required by section 5 of this order, and annually thereafter, the Water Subcabinet shall update the Chairman of CEQ, the Director of OMB, and the Director of OSTP on the status of the actions identified in the report.
+
+Sec. 7. Integrated Infrastructure Planning. Agencies oversee a number of programs to enhance coordination of cross-agency water infrastructure planning and to protect taxpayer investments. Within 150 days of the date of this order, the Water Subcabinet shall identify and recommend actions and priorities to the Director of OMB, the Chairman of CEQ, and the Assistant to the President for Economic Policy to support integrated planning and coordination among agencies to maintain and modernize our Nation’s water infrastructure, including for drinking water, desalination, water reuse, wastewater, irrigation, flood control, transportation on our rivers and inland waterways, and water storage and conveyance. The recommendations shall consider water infrastructure programs that are funded by the Department of Defense through the Army Corps of Engineers, and by the Department of the Interior, the Department of Agriculture, the Department of Energy, the EPA, the Federal Emergency Management Agency, the Economic Development Administration, and other agencies, as appropriate. Such programs include the EPA’s Water Infrastructure Finance and Innovation Act program, established pursuant to the Water Resources Reform and Development Act of 2014 (Public Law 113–121) and amended by the America’s Water Infrastructure Act of 2018 (Public Law 115–270), which modernizes the aging water infrastructure of the United States, improves public health protections, and creates jobs; the Department of Agriculture’s rural development programs, which make and support investments in water infrastructure; and the Department of Agriculture’s Natural Resources Conservation Service programs, which promote source water protection, improve water quality, and assist with developing new water infrastructure projects.
+
+Sec. 8. Water Sector Workforce. Trained water-sector professionals are vital to protecting public health and the environment through strategic planning, operation and maintenance of treatment facilities, and implementation of water management programs. Within 150 days of the date of this order, the Water Subcabinet, in consultation with the Secretary of Labor, the Secretary of Health and Human Services, the Secretary of Education, the Secretary of Veterans Affairs, and the heads of other agencies, as appropriate, shall identify actions and develop recommendations to improve interagency coordination and provide assistance and technical support to State, local, tribal, and territorial governments in order to enhance the recruitment, training, and retention of water professionals within drinking water, desalination, water reuse, wastewater, flood control, hydropower, and delivery and storage sectors. Such recommendations shall be submitted to the Chairman of CEQ, the Assistant to the President for Domestic Policy, the Assistant to the President for Economic Policy, and the Chairman of the Council of Economic Advisers.
+
+Sec. 9. General Provisions. (a) Nothing in this order shall be construed to impair or otherwise affect:
+
+(i) the authority granted by law to an executive department or agency, or the head thereof; or
+
+(ii) the functions of the Director of the Office of Management and Budget relating to budgetary, administrative, or legislative proposals.
+
+(b) This order shall be implemented in a manner consistent with applicable law and subject to the availability of appropriations.
+
+(c) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+
+Donald J. Trump.
 
 
 <a id="section-1962a-1"></a>
@@ -170,7 +257,46 @@ Secretary means the Secretary of the Army, see section 2 of Pub. L. 110–114, s
 
 
 <a id="section-1962a-4"></a>
-## § 1962a–4. Establishment; composition; other Federal agency participation; designation of Chairman
+## § 1962a–4. Implementation of water resources principles and requirements
+**(a) In general** Not later than 180 days after December 27, 2020, the Secretary shall issue final agency-specific procedures necessary to implement the principles and requirements and the interagency guidelines.
+
+**(b) Development of Future Water Resources Development Projects** The procedures required by subsection (a) shall ensure that the Secretary, in the formulation of future water resources development projects—
+
+(1) develops such projects in accordance with—
+
+  (A) the guiding principles established by the principles and requirements; and
+
+  (B) the national water resources planning policy established by [section 1962–3(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1962–3/a&num=0&edition=prelim); and
+
+(2) fully identifies and analyzes national economic development benefits, regional economic development benefits, environmental quality benefits, and other societal effects.
+
+**(c) Review and update** Every 5 years, the Secretary shall review and, where appropriate, revise the procedures required by subsection (a).
+
+**(d) Public review, notice, and comment** In issuing, reviewing, and revising the procedures required by this section, the Secretary shall—
+
+(1) provide notice to interested non-Federal stakeholders of the Secretary’s intent to revise the procedures;
+
+(2) provide opportunities for interested non-Federal stakeholders to engage with, and provide input and recommendations to, the Secretary on the revision of the procedures; and
+
+(3) solicit and consider public and expert comments.
+
+**(e) Definitions** In this section:
+
+(1) **Interagency guidelines** — The term “interagency guidelines” means the interagency guidelines contained in the document finalized by the Council on Environmental Quality pursuant to [section 1962–3 of this title](./chapter-19b-water-resources-planning.md#section-1962-3) in December 2014, to implement the principles and requirements.
+
+(2) **Principles and requirements** — The term “principles and requirements” means the principles and requirements contained in the document prepared by the Council on Environmental Quality pursuant to [section 1962–3 of this title](./chapter-19b-water-resources-planning.md#section-1962-3), entitled “Principles and Requirements for Federal Investments in Water Resources”, and dated March 2013.
+
+### Statutory Notes
+
+#### Codification
+Section was enacted as a part of the Water Resources Development Act of 2020, and not as a part of the Water Resources Planning Act which comprises this chapter.
+
+#### “Secretary” Defined
+Secretary means the Secretary of the Army, see section 2 of div. AA of Pub. L. 116–260, set out as a note under [section 2201 of Title 33](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section2201&num=0&edition=prelim), Navigation and Navigable Waters.
+
+
+<a id="section-1962b"></a>
+## § 1962b. Establishment; composition; other Federal agency participation; designation of Chairman
 
 There is hereby established a Water Resources Council (hereinafter referred to as the “Council”) which shall be composed of the Secretary of the Interior, the Secretary of Agriculture, the Secretary of the Army, the Secretary of Commerce, the Secretary of Housing and Urban Development, the Secretary of Transportation, the Administrator of the Environmental Protection Agency, and the Secretary of Energy. The Chairman of the Council shall request the heads of other Federal agencies to participate with the Council when matters affecting their responsibilities are considered by the Council. The Chairman of the Council shall be designated by the President.
 
@@ -186,8 +312,8 @@ There is hereby established a Water Resources Council (hereinafter referred to a
 Pub. L. 90–515, Sept. 26, 1968, 82 Stat. 868, provided for establishment of National Water Commission, its membership, chairman, compensation, powers, duties, and functions, required Commission to review national water resource problems and submit interim and final reports, and provided that Commission terminate no later than five years from Sept. 26, 1968.
 
 
-<a id="section-1962b"></a>
-## § 1962b. Powers and duties
+<a id="section-1962b-1"></a>
+## § 1962b–1. Powers and duties
 
 The Council shall—
 
@@ -196,8 +322,8 @@ The Council shall—
 **(b)** maintain a continuing study of the relation of regional or river basin plans and programs to the requirements of larger regions of the Nation and of the adequacy of administrative and statutory means for the coordination of the water and related land resources policies and programs of the several Federal agencies; it shall appraise the adequacy of existing and proposed policies and programs to meet such requirements; and it shall make recommendations to the President with respect to Federal policies and programs.
 
 
-<a id="section-1962b-1"></a>
-## § 1962b–1. Principles, standards, and procedures for Federal projects
+<a id="section-1962b-2"></a>
+## § 1962b–2. Principles, standards, and procedures for Federal projects
 **(a) Establishment, consultation, revision** The Council shall establish, after such consultation with other interested entities, both Federal and non-Federal, as the Council may find appropriate, and with the approval of the President, principles, standards, and procedures for Federal participants in the preparation of comprehensive regional or river basin plans and for the formulation and evaluation of Federal water and related land resources projects. Such procedures may include provision for Council revision of plans for Federal projects intended to be proposed in any plan or revision thereof being prepared by a river basin planning commission.
 
 **(b) Economic evaluation; primary criterion** The Council shall develop standards and criteria for economic evaluation of water resource projects. For the purpose of those standards and criteria, the primary direct navigation benefits of a water resource project are defined as the product of the savings to shippers using the waterway and the estimated traffic that would use the waterway. “Savings to shippers” means the difference between (1) the freight rates or charges prevailing at the time of the study for the movement by the alternative means, and (2) those which would be charged on the proposed waterway. Estimated traffic that would use the waterway will be based on those freight rates, taking into account projections of the economic growth of the area.
@@ -216,8 +342,8 @@ Pub. L. 100–460, title VI, § 632, Oct. 1, 1988, 102 Stat. 2262, provided that
 Similar provisions were contained in Pub. L. 100–202, § 101(k) [title VI, § 634], Dec. 22, 1987, 101 Stat. 1329–322, 1329–357.
 
 
-<a id="section-1962b-2"></a>
-## § 1962b–2. Review of river basin commission plans; report to President and Congress
+<a id="section-1962b-3"></a>
+## § 1962b–3. Review of river basin commission plans; report to President and Congress
 
 Upon receipt of a plan or revision thereof from any river basin commission under the provisions of [section 1962b–3(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1962b–3/3&num=0&edition=prelim), the Council shall review the plan or revision with special regard to—
 
@@ -242,8 +368,8 @@ By virtue of the authority vested in me by [section 301 of title 3](https://usco
 The Chairman of the Water Resources Council is designated and empowered to exercise, without the approval, ratification, or other action of the President, the approval function for standards and procedures vested in the President by section 103 of the Water Resources Planning Act, as amended ([42 U.S.C. 1962a–2](./chapter-19b-water-resources-planning.md#section-1962a-2)).
 
 
-<a id="section-1962b-3"></a>
-## § 1962b–3. Administrative provisions
+<a id="section-1962b-4"></a>
+## § 1962b–4. Administrative provisions
 **(a) Hearings, proceedings, evidence, reports; office space; use of mails; personnel; consultants; motor vehicles; necessary expenses; other powers** For the purpose of carrying out the provisions of this chapter, the Council may: (1) hold such hearings, sit and act at such times and places, take such testimony, receive such evidence, and print or otherwise reproduce and distribute so much of its proceedings and reports thereon as it may deem advisable; (2) acquire, furnish, and equip such office space as is necessary; (3) use the United States mails in the same manner and upon the same conditions as other departments and agencies of the United States; (4) employ and fix the compensation of such personnel as it deems advisable, in accordance with the civil service laws and chapter 51 and subchapter III of chapter 53 of title 5; (5) procure services as authorized by [section 3109 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section3109&num=0&edition=prelim), at rates not in excess of the daily equivalent of the rate prescribed for grade GS–18 under [section 5332 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5332&num=0&edition=prelim) in the case of individual experts or consultants; (6) purchase, hire, operate, and maintain passenger motor vehicles; and (7) incur such necessary expenses and exercise such other powers as are consistent with and reasonably required to perform its functions under this chapter.
 
 **(b) Oaths** Any member of the Council is authorized to administer oaths when it is determined by a majority of the Council that testimony shall be taken or evidence received under oath.
@@ -266,8 +392,8 @@ In subsec. (a), “chapter 51 and subchapter III of chapter 53 of title 5” sub
 References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 [title I, § 101(c)(1)] of Pub. L. 101–509, set out in a note under [section 5376 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5376&num=0&edition=prelim).
 
 
-<a id="section-1962b-4"></a>
-## § 1962b–4. Creation of commissions; powers and duties
+<a id="section-1962b-5"></a>
+## § 1962b–5. Creation of commissions; powers and duties
 **(a)** The President is authorized to declare the establishment of a river basin water and related land resources commission upon request therefor by the Council, or request addressed to the Council by a State within which all or part of the basin or basins concerned are located if the request by the Council or by a State (1) defines the area, river basin, or group of related river basins for which a commission is requested, (2) is made in writing by the Governor or in such manner as State law may provide, or by the Council, and (3) is concurred in by the Council and by not less than one-half of the States within which portions of the basin or basins concerned are located and, in the event the Upper Colorado River Basin is involved, by at least three of the four States of Colorado, New Mexico, Utah, and Wyoming or, in the event the Columbia River Basin is involved, by at least three of the four States of Idaho, Montana, Oregon, and Washington. Such concurrences shall be in writing.
 
 **(b)** Each such commission for an area, river basin, or group of river basins shall, to the extent consistent with [section 1962–1 of this title](./chapter-19b-water-resources-planning.md#section-1962-1)—
@@ -354,8 +480,8 @@ Sec. 5. (a) Effective October 1, 1981, the following Executive Orders are revoke
 Ronald Reagan.
 
 
-<a id="section-1962b-5"></a>
-## § 1962b–5. Membership of commissions; appointment of chairman
+<a id="section-1962b-6"></a>
+## § 1962b–6. Membership of commissions; appointment of chairman
 
 Each river basin commission shall be composed of members appointed as follows:
 
@@ -370,8 +496,8 @@ Each river basin commission shall be composed of members appointed as follows:
 **(e)** When deemed appropriate by the President, one member, who shall be appointed by the President, from the United States section of any international commission created by a treaty to which the consent of the Senate has been given, and whose jurisdiction extends to the waters of the area, river basin, or group of river basins for which the river basin commission is established.
 
 
-<a id="section-1962b-6"></a>
-## § 1962b–6. Organization of commissions
+<a id="section-1962c"></a>
+## § 1962c. Organization of commissions
 **(a) Commencement of functions; transfer of property, assets, and records upon termination of commission; availability of studies, data, and other materials to participants** Each river basin commission shall organize for the performance of its functions within ninety days after the President shall have declared the establishment of such commission, subject to the availability of funds for carrying on its work. A commission shall terminate upon decision of the Council or agreement of a majority of the States composing the commission. Upon such termination, all property, assets, and records of the commission shall thereafter be turned over to such agencies of the United States and the participating States as shall be appropriate in the circumstances: Provided, That studies, data, and other materials useful in water and related land resources planning to any of the participants shall be kept freely available to all such participants.
 
 **(b) Vice chairman; State election; State representation** State members of each commission shall elect a vice chairman, who shall serve also as chairman and coordinating officer of the State members of the commission and who shall represent the State governments in Federal-State relations on the commission.
@@ -381,8 +507,8 @@ Each river basin commission shall be composed of members appointed as follows:
 **(d) Consensus of members on issues; opportunities for individual views; record of position of chairman and vice chairman; final authority on procedural questions** In the work of the commission every reasonable endeavor shall be made to arrive at a consensus of all members on all issues; but failing this, full opportunity shall be afforded each member for the presentation and report of individual views: Provided, That at any time the commission fails to act by reason of absence of consensus, the position of the chairman, acting in behalf of the Federal members, and the vice chairman, acting upon instructions of the State members, shall be set forth in the record: Provided further, That the chairman, in consultation with the vice chairman, shall have the final authority, in the absence of an applicable by-law adopted by the commission or in the absence of a consensus, to fix the times and places for meetings, to set deadlines for the submission of annual and other reports, to establish subcommittees, and to decide such other procedural questions as may be necessary for the commission to perform its functions.
 
 
-<a id="section-1962c"></a>
-## § 1962c. Duties of commissions
+<a id="section-1962c-1"></a>
+## § 1962c–1. Duties of commissions
 
 Each river basin commission shall—
 
@@ -403,8 +529,8 @@ For termination, effective May 15, 2000, of provisions in par. (2) of this secti
 Pub. L. 95–502, title I, § 101, Oct. 21, 1978, 92 Stat. 1693, as amended by Pub. L. 99–662, title XI, § 1103(c)(2), Nov. 17, 1986, 100 Stat. 4226, which provided for the development, revision, and implementation of the Upper Mississippi River System comprehensive master management plan by the Upper Mississippi River Basin Commission, was omitted in view of the termination of the Upper Mississippi River Basin Commission on Dec. 31, 1981, pursuant to section 1(f) of Ex. Ord. No. 12319, Sept. 9, 1981, 46 F.R. 45591, set out as a note under [section 1962b of this title](./chapter-19b-water-resources-planning.md#section-1962b).
 
 
-<a id="section-1962c-1"></a>
-## § 1962c–1. Administrative provisions
+<a id="section-1962c-2"></a>
+## § 1962c–2. Administrative provisions
 **(a) Hearings, proceedings, evidence, reports; office space; use of mails; personnel, consultants, and professional service contracts; personnel from other agencies; retirement and employee benefit system for personnel without coverage; motor vehicles; necessary expenses; other powers** For the purpose of carrying out the provisions of this subchapter, each river basin commission may—
 
 (1) hold such hearings, sit and act at such times and places, take such testimony, receive such evidence, and print or otherwise reproduce and distribute so much of its proceedings and reports thereon as it may deem advisable;
@@ -440,8 +566,8 @@ Pub. L. 95–502, title I, § 101, Oct. 21, 1978, 92 Stat. 1693, as amended by P
 References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 [title I, § 101(c)(1)] of Pub. L. 101–509, set out in a note under [section 5376 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5376&num=0&edition=prelim).
 
 
-<a id="section-1962c-2"></a>
-## § 1962c–2. Compensation of members and chairmen
+<a id="section-1962c-3"></a>
+## § 1962c–3. Compensation of members and chairmen
 **(a) Additional compensation prohibited to members appointed from Federal departments, agencies, and international commissions** Any member of a river basin commission appointed pursuant to section 1962b–1(b) and (e) of this title shall receive no additional compensation by virtue of his membership on the commission, but shall continue to receive, from appropriations made for the agency from which he is appointed, the salary of his regular position when engaged in the performance of the duties vested in the commission.
 
 **(b) Compensation of members from States and interstate agencies** Members of a commission, appointed pursuant to section 1962b–1(c) and (d) of this title, shall each receive such compensation as may be provided by the States or the interstate agency respectively, which they represent.
@@ -454,8 +580,8 @@ References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rat
 References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 [title I, § 101(c)(1)] of Pub. L. 101–509, set out in a note under [section 5376 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5376&num=0&edition=prelim).
 
 
-<a id="section-1962c-3"></a>
-## § 1962c–3. Expenses of commissions
+<a id="section-1962c-4"></a>
+## § 1962c–4. Expenses of commissions
 **(a) Federal share; apportionment of remainder; annual budget; estimates of proposed Federal appropriations; advances against delayed State appropriations; credit to account in the Treasury** Each commission shall recommend what share of its expenses shall be borne by the Federal Government, but such share shall be subject to approval by the Council. The remainder of the commission’s expenses shall be otherwise apportioned as the commission may determine. Each commission shall prepare a budget annually and transmit it to the Council and the States. Estimates of proposed appropriations from the Federal Government shall be included in the budget estimates submitted by the Council under chapter 11 of title 31, and may include an amount for advance to a commission against State appropriations for which delay is anticipated by reason of later legislative sessions. All sums appropriated to or otherwise received by a commission shall be credited to the commission’s account in the Treasury of the United States.
 
 **(b) Acceptance, reception, utilization, and disposal of appropriations, donations, and grants** A commission may accept for any of its purposes and functions appropriations, donations, and grants of money, equipment, supplies, materials, and services from any State or the United States or any subdivision or agency thereof, or intergovernmental agency, and may receive, utilize, and dispose of the same.
@@ -470,8 +596,8 @@ References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rat
 In subsec. (a), “chapter 11 of title 31” substituted for “the Budget and Accounting Act of 1921, as amended [[31 U.S.C. 1](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1&num=0&edition=prelim) et seq.]” on authority of Pub. L. 97–258, § 4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
 
 
-<a id="section-1962c-4"></a>
-## § 1962c–4. Authorization of appropriations; coordination of related Federal planning assistance programs; utilization of Federal agencies administering programs contributing to water resources planning
+<a id="section-1962c-5"></a>
+## § 1962c–5. Authorization of appropriations; coordination of related Federal planning assistance programs; utilization of Federal agencies administering programs contributing to water resources planning
 **(a)** In recognition of the need for increased participation by the States in water and related land resources planning to be effective, there are hereby authorized to be appropriated to the Council, $3,000,000 for fiscal year 1979 for grants to States to assist them in developing and participating in the development of comprehensive water and related land resources plans.
 
 **(b)** The Council, with the approval of the President, shall prescribe such rules, establish such procedures, and make such arrangements and provisions relating to the performance of its functions under this subchapter, and the use of funds available therefor, as may be necessary in order to assure (1) coordination of the program authorized by this subchapter with related Federal planning assistance programs, including the program authorized under section 701 of the Housing Act of 1954 11 See References in Text note below. and (2) appropriate utilization of other Federal agencies administering programs which may contribute to achieving the purpose of this chapter.
@@ -490,15 +616,15 @@ Section 701 of the Housing Act of 1954, referred to in subsec. (b), is section 7
 For authority for payment of increases in salary and other Federal employee benefits, see section 1(e) of Pub. L. 95–404, set out as a note under [section 1962d of this title](./chapter-19b-water-resources-planning.md#section-1962d).
 
 
-<a id="section-1962c-5"></a>
-## § 1962c–5. Allotments to States: basis, population and land area determinations; payments to States: amount
+<a id="section-1962c-6"></a>
+## § 1962c–6. Allotments to States: basis, population and land area determinations; payments to States: amount
 **(a)** From the sums appropriated pursuant to [section 1962c of this title](./chapter-19b-water-resources-planning.md#section-1962c) for any fiscal year the Council shall from time to time make allotments to the States, in accordance with its regulations, on the basis of (1) the population, (2) the land area, (3) the need for comprehensive water and related land resources planning programs, and (4) the financial need of the respective States. For the purposes of this section the population of the States shall be determined on the basis of the latest estimates available from the Department of Commerce and the land area of the States shall be determined on the basis of the official records of the United States Geological Survey.
 
 **(b)** From each State’s allotment under this section for any fiscal year the Council shall pay to such State an amount which is not more than 50 per centum of the cost of carrying out its State program approved under [section 1962c–2 of this title](./chapter-19b-water-resources-planning.md#section-1962c-2), including the cost of training personnel for carrying out such program and the cost of administering such program.
 
 
-<a id="section-1962c-6"></a>
-## § 1962c–6. State programs; approval by Council; submission; requirements; notice and hearing prior to disapproval
+<a id="section-1962d"></a>
+## § 1962d. State programs; approval by Council; submission; requirements; notice and hearing prior to disapproval
 
 The Council shall approve any program for comprehensive water and related land resources planning which is submitted by a State, if such program—
 
@@ -524,8 +650,8 @@ Section 701 of the Housing Act of 1954, referred to in par. (2), is section 701 
 2014—Par. (2). Pub. L. 113–287 substituted “chapter 2003 of title 54” for “the Land and Water Conservation Fund Act of 1965”.
 
 
-<a id="section-1962d"></a>
-## § 1962d. Noncompliance; curtailing of payments
+<a id="section-1962d-1"></a>
+## § 1962d–1. Noncompliance; curtailing of payments
 
 Whenever the Council after reasonable notice and opportunity for hearing to a State agency finds that—
 
@@ -535,18 +661,54 @@ Whenever the Council after reasonable notice and opportunity for hearing to a St
 the Council shall notify such agency that no further payments will be made to the State under this subchapter until it is satisfied that there will no longer be any such failure. Until the Council is so satisfied, it shall make no further payments to such State under this subchapter.
 
 
-<a id="section-1962d-1"></a>
-## § 1962d–1. Payments to States; computation of amount
-
-The method of computing and paying amounts pursuant to this subchapter shall be as follows:
-
-(1) The Council shall, prior to the beginning of each calendar quarter or other period prescribed by it, estimate the amount to be paid to each State under the provisions of this subchapter for such period, such estimate to be based on such records of the State and information furnished by it, and such other investigation, as the Council may find necessary.
-
-(2) The Council shall pay to the State, from the allotment available therefor, the amount so estimated by it for any period, reduced or increased, as the case may be, by any sum (not previously adjusted under this paragraph) by which it finds that its estimate of the amount to be paid such State for any prior period under this subchapter was greater or less than the amount which should have been paid to such State for such prior period under this subchapter. Such payments shall be made through the disbursing facilities of the Treasury Department, at such times and in such installments as the Council may determine.
-
-
 <a id="section-1962d-10"></a>
-## § 1962d–10. Feasibility studies; acceleration; advancement of costs by non-Federal sources
+## § 1962d–10. Hydroelectric power resources
+**(a) Study; plan** The Secretary of the Army, acting through the Chief of Engineers, is authorized and directed to conduct a study of the most efficient methods of utilizing the hydroelectric power resources at water resource development projects under the jurisdiction of the Secretary of the Army and to prepare a plan based upon the findings of such study. Such study shall include, but not be limited to, an analysis of—
+
+(1) the physical potential for hydroelectric development, giving consideration to the economic, social, environmental and institutional factors which will affect the realization of physical potential;
+
+(2) the magnitude and regional distribution of needs for hydroelectric power;
+
+(3) the integration of hydroelectric power generation with generation from other types of generating facilities;
+
+(4) measures necessary to assure that generation from hydroelectric projects will efficiently contribute to meeting the national electric energy demands;
+
+(5) the timing of hydroelectric development to properly coincide with changes in the demand for electric energy;
+
+(6) conventional hydroelectric potential, both high head and low head projects utilizing run-of-rivers and possible advances in mechanical technology, and pumped storage hydroelectric potential at sites which evidence such potential;
+
+(7) the feasibility of adding or reallocating storage and modifying operation rules to increase power production at corps projects with existing hydroelectric installations;
+
+(8) measures deemed necessary or desirable to insure that the potential contribution of hydroelectric resources to the overall electric energy supply are realized to the maximum extent possible; and
+
+(9) any other pertinent factors necessary to evaluate the development and operation of hydroelectric projects of the Corps of Engineers.
+
+**(b) Transmittal of plan to Congressional committees** Within three years after the date of the first appropriation of funds for the purpose of carrying out this section, the Secretary of the Army, acting through the Chief of Engineers, shall transmit the plan prepared pursuant to subsection (a) with supporting studies and documentation, together with the recommendations of the Secretary and the Chief of Engineers on such plan, to the Committee on Environment and Public Works of the Senate and the Committee on Public Works and Transportation of the House of Representatives.
+
+**(c) Authorization of appropriation** There is authorized to be appropriated to carry out subsections (a) and (b) of this section not to exceed $7,000,000.
+
+**(d) Feasibility studies of specific hydroelectric power installations; authorization of appropriations** The Secretary of the Army, acting through the Chief of Engineers, is authorized with respect to previously authorized projects to undertake feasibility studies of specific hydroelectric power installations that are identified in the course of the study authorized by this section, as having high potential for contribution toward meeting regional power needs. There is authorized to be appropriated to carry out this subsection not to exceed $5,000,000 per fiscal year for each of the fiscal years 1978 and 1979.
+
+### Statutory Notes
+
+#### Codification
+Section was enacted as part of the Water Resources Development Act of 1976, and not as part of the Water Resources Planning Act which comprises this chapter.
+
+#### Amendments
+1994—Subsec. (b). Pub. L. 103–437 substituted “Committee on Environment and Public Works of the Senate” for “Committee on Public Works of the Senate”.
+
+#### Change of Name
+Committee on Public Works and Transportation of House of Representatives treated as referring to Committee on Transportation and Infrastructure of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding [section 21 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section21&num=0&edition=prelim), The Congress.
+
+#### Federal Hydroelectric Power Modernization Study
+Pub. L. 100–676, § 42, Nov. 17, 1988, 102 Stat. 4040, directed Secretary to conduct a study of need to modernize and upgrade federally owned and operated hydroelectric power system, and to submit a report, along with recommendations, to Congress not later than 2 years after Nov. 17, 1988.
+
+#### Water Quality Effects of Hydroelectric Facilities
+Pub. L. 100–676, § 43, Nov. 17, 1988, 102 Stat. 4040, directed Secretary, in cooperation with Administrator of Environmental Protection Agency, to undertake a study of water quality effects of hydroelectric facilities owned and operated by Corps of Engineers, which was to be transmitted to Congress within 2 years of Nov. 17, 1988, and was to consider and include information for each such Corps of Engineers hydroelectric facility pertaining to: relevant water quality standards including dissolved oxygen; water quality monitoring data; possible options and projected costs of measures required to improve the quality of water released from each such facility where justified; and recommendations with respect to such study results.
+
+
+<a id="section-1962d-11"></a>
+## § 1962d–11. Feasibility studies; acceleration; advancement of costs by non-Federal sources
 
 The Secretary may accelerate feasibility studies authorized by law when and to the extent that the costs of such studies shall have been advanced by non-Federal sources.
 
@@ -556,8 +718,8 @@ The Secretary may accelerate feasibility studies authorized by law when and to t
 Section was not enacted as part of the Water Resources Planning Act which comprises this chapter.
 
 
-<a id="section-1962d-11"></a>
-## § 1962d–11. Delmarva Peninsula hydrologic study; duties of Secretary of the Interior
+<a id="section-1962d-11a"></a>
+## § 1962d–11a. Delmarva Peninsula hydrologic study; duties of Secretary of the Interior
 
 The Secretary of the Interior (hereinafter referred to as the “Secretary”) is authorized and directed to make a comprehensive study and investigation of the water resources of the Delmarva Peninsula with a view to determining the availability of fresh water supplies needed to meet the anticipated future water requirements of the Delmarva Peninsula area, and with a view to determining the most effective means from the standpoint of hydrologic feasibility of protecting and developing fresh water sources so as to insure, insofar as practicable, the availability of adequate water supplies in the future. In carrying out such study and investigation with respect to the Delmarva Peninsula, the Secretary shall—
 
@@ -588,8 +750,8 @@ Section was not enacted as part of the Water Resources Planning Act which compri
 Pub. L. 93–251, title I, § 85, Mar. 7, 1974, 88 Stat. 36, provided in part for a study of Washington Metropolitan Area Future Water Needs, coordinated with Northeastern United States Water Supply study, and for a study of Estuarial Water Supplies, including a Potomac Estuary Water Treatment Pilot Project, for review of scientific basis for study conclusions by National Academy of Sciences-National Academy of Engineering, and made further authorizations for Sixes Bridge Dam and Lake Project, Maryland dependent on such studies and review.
 
 
-<a id="section-1962d-11a"></a>
-## § 1962d–11a. Reports on Delmarva Peninsula hydrologic study
+<a id="section-1962d-11b"></a>
+## § 1962d–11b. Reports on Delmarva Peninsula hydrologic study
 
 During the course of the study and investigation authorized by sections 1962d–7 to 1962d–11 of this title, the Secretary may submit to the President for transmission to the Congress such interim reports as the Secretary may consider desirable. The Secretary shall submit a final report to the President for transmission to the Congress not more than six years after October 4, 1966.
 
@@ -599,8 +761,8 @@ During the course of the study and investigation authorized by sections 1962d–
 Section was not enacted as part of the Water Resources Planning Act which comprises this chapter.
 
 
-<a id="section-1962d-11b"></a>
-## § 1962d–11b. Information from Federal agencies for Delmarva Peninsula study
+<a id="section-1962d-12-to-1962d-14"></a>
+## § 1962d–12 to 1962d–14. Information from Federal agencies for Delmarva Peninsula study
 
 The Secretary is authorized to secure directly from any executive department, bureau, agency, board, commission, office, independent establishment, or instrumentality of the Federal Government, information, suggestions, estimates, and statistics for the purpose of sections 1962d–7 to 1962d–11 of this title, and each department, bureau, agency, board, commission, office, independent establishment, or instrumentality is authorized and directed to furnish such information, suggestions, estimates, and statistics, to the Secretary upon his or his designee’s request.
 
@@ -610,8 +772,8 @@ The Secretary is authorized to secure directly from any executive department, bu
 Section was not enacted as part of the Water Resources Planning Act which comprises this chapter.
 
 
-<a id="section-1962d-12-to-1962d-14"></a>
-## § 1962d–12 to 1962d–14. Cooperation with agencies on Delmarva Peninsula study
+<a id="section-1962d-14a"></a>
+## § 1962d–14a. Cooperation with agencies on Delmarva Peninsula study
 
 In carrying out the study and investigation authorized by sections 1962d–7 to 1962d–11 of this title, the Secretary is authorized to cooperate with other Federal, State, and local agencies now engaged in comprehensive planning for water resource use and development in the Delmarva Peninsula area by making available to those agencies his findings and to cooperate with those agencies in the Northeastern United States Water Supply Study as authorized by [section 1962d–4 of this title](./chapter-19b-water-resources-planning.md#section-1962d-4).
 
@@ -621,8 +783,8 @@ In carrying out the study and investigation authorized by sections 1962d–7 to 
 Section was not enacted as part of the Water Resources Planning Act which comprises this chapter.
 
 
-<a id="section-1962d-14a"></a>
-## § 1962d–14a. Authorization of appropriation for Delmarva Peninsula study
+<a id="section-1962d-15"></a>
+## § 1962d–15. Authorization of appropriation for Delmarva Peninsula study
 
 There is hereby authorized to be appropriated the sum of $500,000 to carry out the provisions of sections 1962d–7 to 1962d–11 of this title: Provided, That nothing in such sections shall prevent the expenditure of other funds appropriated to the United States Geological Survey for studies and activities performed under its general authority.
 
@@ -635,8 +797,8 @@ Section was not enacted as part of the Water Resources Planning Act which compri
 “United States Geological Survey” substituted in text for “Geological Survey” pursuant to provision of title I of Pub. L. 102–154, set out as a note under [section 31 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section31&num=0&edition=prelim), Public Lands.
 
 
-<a id="section-1962d-15"></a>
-## § 1962d–15. Potomac River water diversion structure
+<a id="section-1962d-16"></a>
+## § 1962d–16. Potomac River water diversion structure
 **(a) Consent of Congress for construction; written agreement providing schedule for allocation among parties for withdrawal of waters**
 
 (1) Subject to paragraph (2) of this subsection, the consent of Congress is granted under [section 401 of title 33](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section401&num=0&edition=prelim) to the Washington Suburban Sanitary Commission to construct a water diversion structure, with an elevation not to exceed one hundred and fifty-nine feet above sea level, from the north shore of the Potomac River at the Washington Suburban Sanitary Commission water filtration plant to the north shore of Watkins Island.
@@ -656,8 +818,8 @@ Section was enacted as part of the Water Resources Development Act of 1976, and 
 1980—Subsec. (a)(2). Pub. L. 96–292 struck out cl. “(A)” designation and cl. (B) which prohibited construction of the Potomac River water diversion structure should such structure be in conflict with the report of the Secretary of the Army, acting through the Chief of Engineers, issued in connection with a study of water resources development.
 
 
-<a id="section-1962d-16"></a>
-## § 1962d–16. Dalecarlia Reservoir; delivery of water to metropolitan Maryland; expenses; payments; purchase of water from State or local authorities in Maryland or Virginia
+<a id="section-1962d-17"></a>
+## § 1962d–17. Dalecarlia Reservoir; delivery of water to metropolitan Maryland; expenses; payments; purchase of water from State or local authorities in Maryland or Virginia
 **(a)** The Secretary, on the recommendation of the Chief of Engineers, is authorized to permit the delivery of water from the District of Columbia water system at the Dalecarlia filtration plant, or at other points on the system, to any competent State or local authority in the Washington, District of Columbia, metropolitan area in Maryland. All of the expense of installing the connection or connections and appurtenances between the water supply systems and any subsequent changes therein shall be paid by the requesting entity, which shall also pay such charges for the use of the water as the Secretary may, from time to time in advance of delivery, determine to be reasonable. Payments shall be made at such time, and pursuant to such regulations, as the Secretary prescribes. The Secretary may revoke any permit for the use of water at any time.
 
 **(b)** The Secretary is authorized to purchase water from any State or local authority in Maryland or Virginia that has, at the time of purchase, completed a connection with the District of Columbia water system. The Secretary is authorized to pay such charges for the use of the water as the Secretary has agreed upon in advance of delivery.
@@ -671,8 +833,8 @@ Section was enacted as part of the Water Resources Development Act of 1986, and 
 Secretary means the Secretary of the Army, see [section 2201 of Title 33](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section2201&num=0&edition=prelim), Navigation and Navigable Waters.
 
 
-<a id="section-1962d-17"></a>
-## § 1962d–17. Repealed. Pub. L. 104–58, title I, § 104(g)(3), Nov. 28, 1995, 109 Stat. 560
+<a id="section-1962d-18"></a>
+## § 1962d–18. Repealed. Pub. L. 104–58, title I, § 104(g)(3), Nov. 28, 1995, 109 Stat. 560
 
 ### Statutory Notes
 
@@ -683,8 +845,8 @@ Section 1962d–13, act Aug. 9, 1955, ch. 682, § 2, 69 Stat. 618, directed Secr
 Section 1962d–14, act Aug. 9, 1955, ch. 682, § 3, 69 Stat. 618, authorized to be appropriated not more than $250,000 in any one fiscal year for Alaskan water resources investigation.
 
 
-<a id="section-1962d-18"></a>
-## § 1962d–18. Alaska hydroelectric power development
+<a id="section-1962d-19"></a>
+## § 1962d–19. Alaska hydroelectric power development
 **(a) Congressional findings and declaration**
 
 (1) The Congress finds that the expeditious development of hydroelectric power generating facilities in Alaska that are environmentally sound to assist the Nation in meeting existing and future energy demands is in the national interest.
@@ -727,8 +889,18 @@ Section was enacted as part of the Water Resources Development Act of 1976, and 
 Committee on Public Works and Transportation of House of Representatives treated as referring to Committee on Transportation and Infrastructure of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding [section 21 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section21&num=0&edition=prelim), The Congress.
 
 
-<a id="section-1962d-19"></a>
-## § 1962d–19. Protection of United States from liability for damages; exception of damages due to fault or negligence of United States
+<a id="section-1962d-2"></a>
+## § 1962d–2. Payments to States; computation of amount
+
+The method of computing and paying amounts pursuant to this subchapter shall be as follows:
+
+(1) The Council shall, prior to the beginning of each calendar quarter or other period prescribed by it, estimate the amount to be paid to each State under the provisions of this subchapter for such period, such estimate to be based on such records of the State and information furnished by it, and such other investigation, as the Council may find necessary.
+
+(2) The Council shall pay to the State, from the allotment available therefor, the amount so estimated by it for any period, reduced or increased, as the case may be, by any sum (not previously adjusted under this paragraph) by which it finds that its estimate of the amount to be paid such State for any prior period under this subchapter was greater or less than the amount which should have been paid to such State for such prior period under this subchapter. Such payments shall be made through the disbursing facilities of the Treasury Department, at such times and in such installments as the Council may determine.
+
+
+<a id="section-1962d-20"></a>
+## § 1962d–20. Protection of United States from liability for damages; exception of damages due to fault or negligence of United States
 
 The requirement in any water resources development project under the jurisdiction of the Secretary of the Army, that non-Federal interests hold and save the United States free from damages due to the construction, operation, and maintenance of the project, does not include damages due to the fault or negligence of the United States or its contractors.
 
@@ -738,19 +910,8 @@ The requirement in any water resources development project under the jurisdictio
 Section was enacted as part of the Water Resources Development Act of 1974, and not as part of the Water Resources Planning Act which comprises this chapter.
 
 
-<a id="section-1962d-2"></a>
-## § 1962d–2. “State” defined
-
-For the purpose of this subchapter the term “State” means a State, the District of Columbia, Puerto Rico, the Virgin Islands or Guam.
-
-### Statutory Notes
-
-#### Amendments
-1976—Pub. L. 94–285 inserted reference to Guam.
-
-
-<a id="section-1962d-20"></a>
-## § 1962d–20. Comprehensive plans for development, utilization, and conservation of water and related resources
+<a id="section-1962d-21"></a>
+## § 1962d–21. Comprehensive plans for development, utilization, and conservation of water and related resources
 **(a) Federal State cooperation**
 
 (1) **Comprehensive plans** — The Secretary of the Army, acting through the Chief of Engineers, is authorized to cooperate with any State, group of States, non-Federal interest working with a State or group of States, or regional coalition of governmental entities in the preparation of comprehensive plans for the development, utilization, and conservation of the water and related resources of drainage basins, watersheds, or ecosystems located within the boundaries of such State, interest, or entity, including plans to comprehensively address water resources challenges, and to submit to Congress reports and recommendations with respect to appropriate Federal participation in carrying out such plans.
@@ -850,12 +1011,15 @@ Subsec. (d). Pub. L. 102–580, § 208(2), inserted “Indian tribes,” after �
 #### Effective Date of 1980 Amendment
 Pub. L. 96–597, title VI, § 605, Dec. 24, 1980, 94 Stat. 3482, provided that the amendment made by that section is effective Oct. 1, 1981.
 
+#### Planning Assistance to States
+Pub. L. 116–260, div. AA, title I, § 156, Dec. 27, 2020, 134 Stat. 2661, provided that: “In carrying out section 22 of the Water Resources Development Act of 1974 ([42 U.S.C. 1962d–16](./chapter-19b-water-resources-planning.md#section-1962d-16)), the Secretary [of the Army] shall provide equal priority for all mission areas of the Corps of Engineers, including water supply and water conservation.”
+
 #### Termination of Trust Territory of the Pacific Islands
 For termination of Trust Territory of the Pacific Islands, see note set out preceding [section 1681 of Title 48](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title48-section1681&num=0&edition=prelim), Territories and Insular Possessions.
 
 
-<a id="section-1962d-21"></a>
-## § 1962d–21. Regional or river basin plans and Federal water and related land resources projects; preparation, formulation, and evaluation
+<a id="section-1962d-22"></a>
+## § 1962d–22. Regional or river basin plans and Federal water and related land resources projects; preparation, formulation, and evaluation
 **(a) Interest rate formula for discounting future benefits and cost computations; repeal of conflicting provisions and administrative actions** The interest rate formula to be used in plan formulation and evaluation for discounting future benefits and computing costs by Federal officers, employees, departments, agencies, and instrumentalities in the preparation of comprehensive regional or river basin plans and the formulation and evaluation of Federal water and related land resources projects shall be the formula set forth in the “Policies, Standards, and Procedures in the Formulation, Evaluation, and Review of Plans for Use and Development of Water and Related Land Resources” approved by the President on May 15, 1962, and published as Senate Document 97 of the Eighty-seventh Congress on May 29, 1962, as amended by the regulation issued by the Water Resources Council and published in the Federal Register on December 24, 1968 (33 F.R. 19170; 18 C.F.R. 704.39), until otherwise provided by a statute enacted after March 7, 1974. Every provision of law and every administrative action in conflict with this section is hereby repealed to the extent of such conflict.
 
 **(b) Interest rate for prior authorized projects assured of non-Federal share of project costs; continuation of rate** In the case of any project authorized before January 3, 1969, if the appropriate non-Federal interests have, prior to December 31, 1969, given satisfactory assurances to pay the required non-Federal share of project costs, the discount rate to be used in the computation of benefits and costs for such project shall be the rate in effect immediately prior to December 24, 1968, and that rate shall continue to be used for such project until construction has been completed, unless otherwise provided by a statute enacted after March 7, 1974.
@@ -871,26 +1035,26 @@ Section was enacted as part of the Water Resources Development Act of 1974, and 
 Pub. L. 95–28, title II, § 204, May 13, 1977, 91 Stat. 121, provided that: “It is hereby reiterated that the interest rates or rates of discount to be used to assess the return on the Federal Government’s investment in projects of the United States Army Corps of Engineers or the Department of the Interior Bureau of Reclamation, shall be those interest rates or rates of discount established by Public Law 93–251, the Water Resources Development Act of 1974 [see Short Title of 1974 Amendment note set out under [section 1962 of this title](./chapter-19b-water-resources-planning.md#section-1962)] or by any prior law authorizing projects of the United States Army Corps of Engineers or the Department of the Interior Bureau of Reclamation.”
 
 
-<a id="section-1962d-22"></a>
-## § 1962d–22. Study of depletion of natural resources of regions of Colorado, Kansas, New Mexico, Oklahoma, Texas, and Nebraska utilizing Ogallala aquifer; plans; reports to Congress; authorization of appropriation
+<a id="section-1962d-3"></a>
+## § 1962d–3. “State” defined
 
-In order to assure an adequate supply of food to the Nation and to promote the economic vitality of the High Plains Region, the Secretary of Commerce (hereinafter referred to in this section as the “Secretary”), acting through the Economic Development Administration, in cooperation with the Secretary of the Army, acting through the Chief of Engineers, and appropriate Federal, State, and local agencies, and the private sector, is authorized and directed to study the depletion of the natural resources of those regions of the States of Colorado, Kansas, New Mexico, Oklahoma, Texas, and Nebraska presently utilizing the declining water resources of the Ogallala acquifer,11 So in original. Probably should be “aquifer,”. and to develop plans to increase water supplies in the area and report thereon to Congress, together with any recommendations for further congressional action. In formulating these plans, the Secretary is directed to consider all past and ongoing studies, plans, and work on depleted water resources in the region, and to examine the feasibility of various alternatives to provide adequate water supplies in the area including, but not limited to, the transfer of water from adjacent areas, such portion to be conducted by the Chief of Engineers to assure the continued economic growth and vitality of the region. The Secretary shall report on the costs of reasonably available options, the benefits of various options, and the costs of inaction. If water transfer is found to be a part of a reasonable solution, the Secretary, as part of his study, shall include a recommended plan for allocating and distributing water in an equitable fashion, taking into account existing water rights and the needs for future growth of all affected areas. An interim report, with recommendations, shall be transmitted to the Congress no later than October 1, 1978, and a final report, with recommendations, shall be transmitted to Congress not later than July 1, 1980. A sum of $6,000,000 is authorized to be appropriated for the purposes of carrying out this section.
+For the purpose of this subchapter the term “State” means a State, the District of Columbia, Puerto Rico, the Virgin Islands or Guam.
 
 ### Statutory Notes
 
-#### Codification
-Section was enacted as part of the Water Resources Development Act of 1976, and not as part of the Water Resources Planning Act which comprises this chapter.
+#### Amendments
+1976—Pub. L. 94–285 inserted reference to Guam.
 
 
-<a id="section-1962d-3"></a>
-## § 1962d–3. Records; audit and examination
+<a id="section-1962d-4"></a>
+## § 1962d–4. Records; audit and examination
 **(a)** Each recipient of a grant under this chapter shall keep such records as the Chairman of the Council shall prescribe, including records which fully disclose the amount and disposition of the funds received under the grant, and the total cost of the project or undertaking in connection with which the grant was made and the amount and nature of that portion of the cost of the project or undertaking supplied by other sources, and such other records as will facilitate an effective audit.
 
 **(b)** The Chairman of the Council and the Comptroller General of the United States, or any of their duly authorized representatives, shall have access for the purpose of audit and examination to any books, documents, papers, and records of the recipient of the grant that are pertinent to the determination that funds granted are used in accordance with this chapter.
 
 
-<a id="section-1962d-4"></a>
-## § 1962d–4. Authorization of appropriations to the Water Resources Council
+<a id="section-1962d-5"></a>
+## § 1962d–5. Authorization of appropriations to the Water Resources Council
 
 There are authorized to be appropriated to the Water Resources Council:
 
@@ -929,26 +1093,26 @@ Subsec. (c). Pub. L. 95–41, § 1(a), substituted “not to exceed the sum of $
 Pub. L. 95–404, § 1(e), Sept. 30, 1978, 92 Stat. 864, provided that: “Appropriations authorized by this Act [amending sections 1962c and 1962d of this title] for salary, pay, retirement, or other benefits for Federal employees may be increased by such additional or supplemental amounts as may be necessary for increases authorized by law.”
 
 
-<a id="section-1962d-5"></a>
-## § 1962d–5. Rules and regulations
+<a id="section-1962d-5a"></a>
+## § 1962d–5a. Rules and regulations
 
 The Council is authorized to make such rules and regulations as it may deem necessary or appropriate for carrying out those provisions of this chapter which are administered by it.
 
 
-<a id="section-1962d-5a"></a>
-## § 1962d–5a. Delegation of functions
+<a id="section-1962d-5b"></a>
+## § 1962d–5b. Delegation of functions
 
 The Council is authorized to delegate to any member or employee of the Council its administrative functions under [section 1962a–4 of this title](./chapter-19b-water-resources-planning.md#section-1962a-4) and the detailed administration of the grant program under subchapter III.
 
 
-<a id="section-1962d-5b"></a>
-## § 1962d–5b. Utilization of personnel
+<a id="section-1962d-5c"></a>
+## § 1962d–5c. Utilization of personnel
 
 The Council may, with the consent of the head of any other department or agency of the United States, utilize such officers and employees of such agency on a reimbursable basis as are necessary to carry out the provisions of this chapter.
 
 
-<a id="section-1962d-5c"></a>
-## § 1962d–5c. Northeastern United States water supply
+<a id="section-1962d-5d"></a>
+## § 1962d–5d. Northeastern United States water supply
 **(a) Plans for Federal construction, operation, and maintenance of reservoir system within certain river basins and conveyance and purification facilities through cooperation of Secretary of the Army and government agencies; financial participation of States** Congress hereby recognizes that assuring adequate supplies of water for the great metropolitan centers of the United States has become a problem of such magnitude that the welfare and prosperity of this country require the Federal Government to assist in the solution of water supply problems. Therefore, the Secretary of the Army, acting through the Chief of Engineers, is authorized to cooperate with Federal, State, and local agencies in preparing plans in accordance with the Water Resources Planning Act [[42 U.S.C. 1962](./chapter-19b-water-resources-planning.md#section-1962) et seq.] to meet the long-range water needs of the northeastern United States. This plan may provide for the construction, operation, and maintenance by the United States of (1) a system of major reservoirs to be located within those river basins of the northeastern United States which drain into the Chesapeake Bay, those that drain into the Atlantic Ocean north of the Chesapeake Bay, those that drain into Lake Ontario, and those that drain into the Saint Lawrence River, (2) major conveyance facilities by which water may be exchanged between these river basins to the extent found desirable in the national interest, and (3) major purification facilities. Such plans shall provide for appropriate financial participation by the States, political subdivisions thereof, and other local interests.
 
 **(b) Construction, operation, and maintenance of reservoirs and conveyance and purification facilities** The Secretary of the Army, acting through the Chief of Engineers, shall construct, operate, and maintain those reservoirs, conveyance facilities, and purification facilities, which are recommended in the plan prepared in accordance with subsection (a) of this section, and which are specifically authorized by law enacted after October 27, 1965.
@@ -964,8 +1128,8 @@ The Water Resources Planning Act, referred to in subsec. (a), is Pub. L. 89–80
 Section was not enacted as a part of the Water Resources Planning Act which comprises this chapter.
 
 
-<a id="section-1962d-5d"></a>
-## § 1962d–5d. Water resources development projects involving navigation, flood control, and shore protection
+<a id="section-1962d-5e"></a>
+## § 1962d–5e. Water resources development projects involving navigation, flood control, and shore protection
 **(a) Construction, operation, and maintenance; limitation on estimated Federal first cost of construction; Congressional committee approval of projects; reports to Congress** The Secretary of the Army, acting through the Chief of Engineers, is authorized to construct, operate, and maintain any water resource development project, including single and multiple purpose projects involving, but not limited to, navigation, flood control, and shore protection, if the estimated Federal first cost of constructing such project is less than $15,000,000. No appropriation shall be made to construct, operate, or maintain any such project if such project has not been approved by resolutions adopted by the Committee on Environment and Public Works of the Senate and the Committee on Public Works and Transportation of the House of Representatives, respectively. For the purpose of securing consideration of such approval the Secretary shall transmit to Congress a report of such proposed project, including all relevant data and all costs.
 
 **(b) Local cooperation requirements based on certain estimated Federal first cost of construction** Any water resource development project authorized to be constructed by this section shall be subject to the same requirements of local cooperation as it would be if the estimated Federal first cost of such project were $15,000,000 or more.
@@ -1004,8 +1168,8 @@ Pub. L. 93–251, title I, § 55, Mar. 7, 1974, 88 Stat. 28, provided that: “T
 Pub. L. 93–251, title I, § 75, Mar. 7, 1974, 88 Stat. 32, directed Secretary of the Army to conduct a study on need for and means of providing visitor protection services at water resource development projects under jurisdiction of Department of the Army and report on such study to Congress not later than Dec. 31, 1974.
 
 
-<a id="section-1962d-5e"></a>
-## § 1962d–5e. Reimbursement to States
+<a id="section-1962d-5f"></a>
+## § 1962d–5f. Reimbursement to States
 **(a) Combination of reimbursement of installation costs and reduction in contributions; single project limitation** The Secretary of the Army, acting through the Chief of Engineers, may, when he determines it to be in the public interest, enter into agreements providing for reimbursement to States or political subdivisions thereof for work to be performed by such non-Federal public bodies at water resources development projects authorized for construction under the Secretary of the Army and the supervision of the Chief of Engineers. Such agreements may provide for reimbursement of installation costs incurred by such entities or an equivalent reduction in the contributions they would otherwise be required to make, or in appropriate cases, for a combination thereof. The amount of Federal reimbursement, including reductions in contributions, for a single project shall not exceed $5,000,000 or 1 percent of the total project cost, whichever is greater; except that the amount of actual Federal reimbursement, including reductions in contributions, for such project may not exceed $7,000,000 in any fiscal year.
 
 **(b) Agreement provisions; termination of agreement for failure to commence work** Agreements entered into pursuant to this section shall (1) fully describe the work to be accomplished by the non-Federal public body, and be accompanied by an engineering plan if necessary therefor; (2) specify the manner in which such work shall be carried out; (3) provide for necessary review of design and plans, and inspection of the work by the Chief of Engineers or his designee; (4) state the basis on which the amount of reimbursement shall be determined; (5) state that such reimbursement shall be dependent upon the appropriation of funds applicable thereto or funds available therefor, and shall not take precedence over other pending projects of higher priority for improvements; and (6) specify that reimbursement or credit for non-Federal installation expenditures shall apply only to work undertaken on Federal projects after project authorization and execution of the agreement, and does not apply retroactively to past non-Federal work. Each such agreement shall expire three years after the date on which it is executed if the work to be undertaken by the non-Federal public body has not commenced before the expiration of that period. The time allowed for completion of the work will be determined by the Secretary of the Army, acting through the Chief of Engineers, and stated in the agreement.
@@ -1033,8 +1197,8 @@ Section was enacted as part of the Flood Control Act of 1968, and not as part of
 1986—Subsec. (a). Pub. L. 99–662 substituted “$3,000,000” for “$1,000,000”.
 
 
-<a id="section-1962d-5f"></a>
-## § 1962d–5f. Written agreement requirement for water resources projects
+<a id="section-1962d-5g"></a>
+## § 1962d–5g. Written agreement requirement for water resources projects
 **(a) Cooperation of non-Federal interest**
 
 (1) **In general** — After December 31, 1970, the construction of any water resources project, or an acceptable separable element thereof, by the Secretary of the Army, acting through the Chief of Engineers, or by a non-Federal interest where such interest will be reimbursed for such construction under any provision of law, shall not be commenced until each non-Federal interest has entered into a written partnership agreement with the Secretary (or, where appropriate, the district engineer for the district in which the project will be carried out) under which each party agrees to carry out its responsibilities and requirements for implementation or construction of the project or the appropriate element of the project, as the case may be; except that no such agreement shall be required if the Secretary determines that the administrative costs associated with negotiating, executing, or administering the agreement would exceed the amount of the contribution required from the non-Federal interest and are less than $25,000.
@@ -1195,8 +1359,8 @@ Pub. L. 110–114, title II, § 2003(f), Nov. 8, 2007, 121 Stat. 1070, provided 
 Pub. L. 99–662, title IX, § 912(b), Nov. 17, 1986, 100 Stat. 4190, as amended by Pub. L. 110–114, title II, § 2003(d), Nov. 8, 2007, 121 Stat. 1070, provided that: “(1) The Secretary may require compliance with any requirements pertaining to cooperation by non-Federal interests in carrying out any water resources project authorized before, on, or after the date of enactment of this Act [Nov. 17, 1986]. “(2) Whenever on the basis of any information available to the Secretary, the Secretary finds that any non-Federal interest is not providing cooperation required under subsection (a) [amending this section], the Secretary may issue an order requiring such non-Federal interest to provide such cooperation. “(3) Non-Federal interests shall be liable for interest on any payments required pursuant to section 221 of the Flood Control Act of 1970 [this section] that may fall delinquent. The interest rate to be charged on any such delinquent payment shall be at a rate, to be determined by the Secretary of the Treasury, equal to 150 percent of the average bond equivalent rate of the thirteen-week Treasury bills auctioned immediately prior to the date on which such payment became delinquent, or auctioned immediately prior to the beginning of each additional three-month period if the period of delinquency exceeds three months. “(4) The Secretary may request the Attorney General to bring a civil action for appropriate relief, including permanent or temporary injunction, for payment of damages or, for any violation of an order issued under this section, to recover any cost incurred by the Secretary in undertaking performance of any item of cooperation under section 221(d) of the Flood Control Act of 1970 [subsec. (d) of this section], or to collect interest for which a non-Federal interest is liable under paragraph (3). Any action under this subsection may be brought in the district court of the United States for the district in which the defendant is located or resides, or is doing business, and such court shall have jurisdiction to restrain such violation, to require compliance, to require payment of any damages, and to require payment of any costs incurred by the Secretary in undertaking performance of any such item. “(5) The Secretary is authorized to determine that no funds appropriated for operation and maintenance, including operation and maintenance of the project for flood control, Mississippi River and Tributaries, are to be used for the particular benefit of projects within the jurisdiction of any non-Federal interest when such non-Federal interest is in arrears for more than twenty-four months in the payment of charges due under an agreement entered into with the United States pursuant to section 221 of the Flood Control Act of 1970 (Public Law 91–611) [this section].”
 
 
-<a id="section-1962d-5g"></a>
-## § 1962d–5g. Non-Federal public bodies, installment construction payments
+<a id="section-1962d-6"></a>
+## § 1962d–6. Non-Federal public bodies, installment construction payments
 **(a) Annual installments during period of construction in absence of other provision for extended repayment** In connection with any water resource development project, heretofore, herein, or hereafter authorized to be undertaken by the Secretary of the Army, the construction of which has not been initiated as of March 7, 1974, where authorization requires that non-Federal public bodies make an agreed-upon cash contribution as part of their reimbursement to the Federal Government for construction costs, or a specific portion of the construction costs, and where there exists no other provision of law which would permit extended repayment for the construction costs or such specific portion of the construction costs involved, such non-Federal public bodies may make such repayment in annual installments during the period of construction.
 
 **(b) Cost sharing; modification** Upon the request of affected non-Federal public bodies, the Secretary of the Army is authorized to modify existing cost sharing agreements in order to effectuate the provisions of subsection (a) of this section.
@@ -1207,8 +1371,8 @@ Pub. L. 99–662, title IX, § 912(b), Nov. 17, 1986, 100 Stat. 4190, as amended
 Section was enacted as part of the Water Resources Development Act of 1974, and not as part of the Water Resources Planning Act which comprises this chapter.
 
 
-<a id="section-1962d-6"></a>
-## § 1962d–6. Authorization of Secretary of the Army to contract with States and political subdivisions for increased law enforcement services during peak visitation periods; authorization of appropriations
+<a id="section-1962d-7"></a>
+## § 1962d–7. Authorization of Secretary of the Army to contract with States and political subdivisions for increased law enforcement services during peak visitation periods; authorization of appropriations
 **(a)** The Secretary of the Army, acting through the Chief of Engineers, is authorized to contract with States and their political subdivisions for the purpose of obtaining increased law enforcement services at water resources development projects under the jurisdiction of the Secretary of the Army to meet needs during peak visitation periods.
 
 **(b)** There is authorized to be appropriated $10,000,000 per fiscal year for each fiscal year beginning after September 30, 1986, to carry out this section.
@@ -1222,8 +1386,8 @@ Section was enacted as part of the Water Resources Development Act of 1976, and 
 1986—Subsec. (b). Pub. L. 99–662 amended subsec. (b) generally, substituting “$10,000,000 per fiscal year for each fiscal year beginning after September 30, 1986” for “$6,000,000 per fiscal year for the fiscal years ending September 30, 1978, and September 30, 1979”.
 
 
-<a id="section-1962d-7"></a>
-## § 1962d–7. Wetland areas
+<a id="section-1962d-8"></a>
+## § 1962d–8. Wetland areas
 **(a) Authorization of Secretary of the Army to plan and establish wetland areas; criteria for establishment** The Secretary of the Army, acting through the Chief of Engineers, is authorized to plan and establish wetland areas as part of an authorized water resources development project under his jurisdiction. Establishment of any wetland area in connection with the dredging required for such a water resources development project may be undertaken in any case where the Chief of Engineers in his judgment finds that—
 
 (1) environmental, economic, and social benefits of the wetland area justifies the increased cost thereof above the cost required for alternative methods of disposing of dredged material for such project; and
@@ -1242,8 +1406,8 @@ Section was enacted as part of the Water Resources Development Act of 1976, and 
 Section was enacted as part of the Water Resources Development Act of 1976, and not as part of the Water Resources Planning Act which comprises this chapter.
 
 
-<a id="section-1962d-8"></a>
-## § 1962d–8. Beach nourishment
+<a id="section-1962d-9"></a>
+## § 1962d–9. Beach nourishment
 **(a) In general** The Secretary of the Army, acting through the Chief of Engineers, is authorized to provide periodic beach nourishment in the case of each water resources development project where such nourishment has been authorized for a limited period for such additional period as he determines necessary but in no event shall such additional period extend beyond the fiftieth year which begins after the date of initiation of construction of such project.
 
 **(b) Review**
@@ -1283,54 +1447,19 @@ Subsec. (e). Pub. L. 115–270, § 1158(2), substituted “10-year period” for
 1986—Pub. L. 99–662 substituted “fiftieth” for “fifteenth”.
 
 
-<a id="section-1962d-9"></a>
-## § 1962d–9. Hydroelectric power resources
-**(a) Study; plan** The Secretary of the Army, acting through the Chief of Engineers, is authorized and directed to conduct a study of the most efficient methods of utilizing the hydroelectric power resources at water resource development projects under the jurisdiction of the Secretary of the Army and to prepare a plan based upon the findings of such study. Such study shall include, but not be limited to, an analysis of—
+<a id="section-1962-1"></a>
+## § 1962–1. Cooperation of Secretary of the Interior with State and local regulatory and law enforcement officials in enforcement of laws or ordinances in connection with Federal resource protection, etc., within Federal water resource development project; funding
 
-(1) the physical potential for hydroelectric development, giving consideration to the economic, social, environmental and institutional factors which will affect the realization of physical potential;
-
-(2) the magnitude and regional distribution of needs for hydroelectric power;
-
-(3) the integration of hydroelectric power generation with generation from other types of generating facilities;
-
-(4) measures necessary to assure that generation from hydroelectric projects will efficiently contribute to meeting the national electric energy demands;
-
-(5) the timing of hydroelectric development to properly coincide with changes in the demand for electric energy;
-
-(6) conventional hydroelectric potential, both high head and low head projects utilizing run-of-rivers and possible advances in mechanical technology, and pumped storage hydroelectric potential at sites which evidence such potential;
-
-(7) the feasibility of adding or reallocating storage and modifying operation rules to increase power production at corps projects with existing hydroelectric installations;
-
-(8) measures deemed necessary or desirable to insure that the potential contribution of hydroelectric resources to the overall electric energy supply are realized to the maximum extent possible; and
-
-(9) any other pertinent factors necessary to evaluate the development and operation of hydroelectric projects of the Corps of Engineers.
-
-**(b) Transmittal of plan to Congressional committees** Within three years after the date of the first appropriation of funds for the purpose of carrying out this section, the Secretary of the Army, acting through the Chief of Engineers, shall transmit the plan prepared pursuant to subsection (a) with supporting studies and documentation, together with the recommendations of the Secretary and the Chief of Engineers on such plan, to the Committee on Environment and Public Works of the Senate and the Committee on Public Works and Transportation of the House of Representatives.
-
-**(c) Authorization of appropriation** There is authorized to be appropriated to carry out subsections (a) and (b) of this section not to exceed $7,000,000.
-
-**(d) Feasibility studies of specific hydroelectric power installations; authorization of appropriations** The Secretary of the Army, acting through the Chief of Engineers, is authorized with respect to previously authorized projects to undertake feasibility studies of specific hydroelectric power installations that are identified in the course of the study authorized by this section, as having high potential for contribution toward meeting regional power needs. There is authorized to be appropriated to carry out this subsection not to exceed $5,000,000 per fiscal year for each of the fiscal years 1978 and 1979.
+The Secretary of the Interior, in connection with Federal resource protection and the Federal administration of the use and occupancy of lands and waters within a water resource development project under his jurisdiction, is authorized to cooperate with the regulatory and law enforcement officials of any State or political subdivision thereof in the enforcement of the laws or ordinances of such State or political subdivision. Such cooperation may include the reimbursement of a State or its political subdivision for expenditures incurred in connection with such resource protection and administration. For purposes of complying with [section 651 of title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section651&num=0&edition=prelim), the authorization provided under this section is subject to the availability of appropriations.
 
 ### Statutory Notes
 
 #### Codification
-Section was enacted as part of the Water Resources Development Act of 1976, and not as part of the Water Resources Planning Act which comprises this chapter.
-
-#### Amendments
-1994—Subsec. (b). Pub. L. 103–437 substituted “Committee on Environment and Public Works of the Senate” for “Committee on Public Works of the Senate”.
-
-#### Change of Name
-Committee on Public Works and Transportation of House of Representatives treated as referring to Committee on Transportation and Infrastructure of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding [section 21 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section21&num=0&edition=prelim), The Congress.
-
-#### Federal Hydroelectric Power Modernization Study
-Pub. L. 100–676, § 42, Nov. 17, 1988, 102 Stat. 4040, directed Secretary to conduct a study of need to modernize and upgrade federally owned and operated hydroelectric power system, and to submit a report, along with recommendations, to Congress not later than 2 years after Nov. 17, 1988.
-
-#### Water Quality Effects of Hydroelectric Facilities
-Pub. L. 100–676, § 43, Nov. 17, 1988, 102 Stat. 4040, directed Secretary, in cooperation with Administrator of Environmental Protection Agency, to undertake a study of water quality effects of hydroelectric facilities owned and operated by Corps of Engineers, which was to be transmitted to Congress within 2 years of Nov. 17, 1988, and was to consider and include information for each such Corps of Engineers hydroelectric facility pertaining to: relevant water quality standards including dissolved oxygen; water quality monitoring data; possible options and projected costs of measures required to improve the quality of water released from each such facility where justified; and recommendations with respect to such study results.
+Section was not enacted as part of the Water Resources Planning Act which comprises this chapter.
 
 
-<a id="section-1962-1"></a>
-## § 1962–1. Prohibition on Great Lakes diversions
+<a id="section-1962-2"></a>
+## § 1962–2. Prohibition on Great Lakes diversions
 **(a) Congressional findings and declarations** The Congress finds and declares that—
 
 (1) the Great Lakes are a most important natural resource to the eight Great Lakes States and two Canadian provinces, providing water supply for domestic and industrial use, clean energy through hydropower production, an efficient transportation mode for moving products into and out of the Great Lakes region, and recreational uses for millions of United States and Canadian citizens;
@@ -1378,8 +1507,8 @@ Similar provisions were contained in Pub. L. 99–662, title XI, § 1147, Nov. 1
 Pub. L. 99–662, title XI, § 1142, Nov. 17, 1986, 100 Stat. 4253, as amended by Pub. L. 106–53, title V, § 508, Aug. 17, 1999, 113 Stat. 339; Pub. L. 106–541, title V, § 518, Dec. 11, 2000, 114 Stat. 2653, provided that: “(a) Beginning October 1, 1987, the Secretary, in cooperation with the State of Illinois, shall carry out measurements and make necessary computations required by the decree of the United States Supreme Court (388 U.S. 426) relating to the diversion of water from Lake Michigan and shall coordinate the results with downstate interests. The measurements and computations shall consist of all flow measurements, gauge records, hydraulic and hydrologic computations, including periodic field investigations and measuring device calibrations, necessary to compute the amount of water diverted from Lake Michigan by the State of Illinois and its municipalities, political subdivisions, agencies, and instrumentalities, not including water diverted or used by Federal installations. “(b) There are authorized to be appropriated $1,250,000 for each of fiscal years 1999 through 2003 and $800,000 for each fiscal year beginning after September 30, 2003, to carry out this section, including those funds necessary to maintain the measurements and computations, as well as necessary capital construction costs associated with the installation of new flow measurement devices or structures declared necessary and appropriate by the Secretary.”
 
 
-<a id="section-1962-2"></a>
-## § 1962–2. John Glenn Great Lakes basin program
+<a id="section-1962-3"></a>
+## § 1962–3. John Glenn Great Lakes basin program
 **(a) Strategic plans**
 
 (1) **Study** — The Secretary shall conduct a comprehensive study of the Great Lakes region to ensure the future use, management, and protection of water resources and related resources of the Great Lakes basin.
@@ -1472,8 +1601,8 @@ Section was enacted as part of the Water Resources Development Act of 1999, and 
 Secretary means the Secretary of the Army, see section 2 of Pub. L. 106–53, set out as a note under [section 2201 of Title 33](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section2201&num=0&edition=prelim), Navigation and Navigable Waters.
 
 
-<a id="section-1962-3"></a>
-## § 1962–3. Great Lakes fishery and ecosystem restoration
+<a id="section-1962-4"></a>
+## § 1962–4. Great Lakes fishery and ecosystem restoration
 **(a) Findings** Congress finds that—
 
 (1) the Great Lakes comprise a nationally and internationally significant fishery and ecosystem;

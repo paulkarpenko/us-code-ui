@@ -25,11 +25,11 @@ The Final Act of the Conference on Security and Cooperation in Europe, referred 
 #### Amendments
 1985—Pub. L. 99–7 inserted “human rights and” after “relating to”.
 
-#### Change of Name
-The Conference on Security and Cooperation in Europe to be called the Organization for Security and Cooperation in Europe effective Jan. 1, 1995, pursuant to Ex. Ord. No. 13029, Dec. 3, 1996, 61 F.R. 64591.
-
 #### Effective Date of 1985 Amendment
 Pub. L. 99–7, § 6, Mar. 27, 1985, 99 Stat. 20, provided that: “(a) Except as provided in subsection (b), this Act and the amendments made by this Act [amending this section and sections 3003, 3007, and 3008 of this title and enacting provisions set out as a note under [section 3003 of this title](./chapter-045-commission-on-security-and-cooperation-in-europe.md#section-3003)] shall take effect on the date of enactment of this Act [Mar. 27, 1985] or April 15, 1985, whichever is later. “(b)(1) The amendment made by subsection (b) of the first section [amending [section 3003 of this title](./chapter-045-commission-on-security-and-cooperation-in-europe.md#section-3003)] shall take effect on the first day of the One Hundredth Congress [which convenes in January 1987]. “(2) Subsection (d) of section 8 of the Act entitled ‘An Act to establish a Commission on Security and Cooperation in Europe’, approved June 3, 1976 (as added by section 5 of this Act) [[section 3008(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section3008/d&num=0&edition=prelim)], shall be effective as of June 3, 1976.”
+
+#### Change of Name
+The Conference on Security and Cooperation in Europe to be called the Organization for Security and Cooperation in Europe effective Jan. 1, 1995, pursuant to Ex. Ord. No. 13029, Dec. 3, 1996, 61 F.R. 64591.
 
 
 <a id="section-3003"></a>

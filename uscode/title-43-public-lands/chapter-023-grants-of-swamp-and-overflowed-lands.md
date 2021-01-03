@@ -36,9 +36,10 @@ To enable the several States (but not including the States of Kansas, Nebraska, 
 R.S. § 2479 derived from acts Sept. 28, 1850, ch. 84, §§ 1, 4, 9 Stat. 520; Mar. 12, 1860, ch. 5, § 1, 12 Stat. 3; Feb. 19, 1874, ch. 30, 18 Stat. 16.
 
 #### Grants Not To Extend to Alaska
-Admission of Alaska into the Union was accomplished Jan. 3, 1959, on issuance of Proc. No. 3269, Jan. 3, 1959, 24 F.R. 81, 73 Stat. c16, as required by sections 1 and 8(c) of Pub. L. 85–508, July 7, 1958, 72 Stat. 339, set out as notes preceding [section 21 of Title 48](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title48-section21&num=0&edition=prelim), Territories and Insular Possessions.
-
 Land grant under Alaska Statehood provisions in lieu of grant of land under this section (declared not to extend to Alaska), see section 6(l) of Pub. L. 85–508, set out as a note preceding [section 21 of Title 48](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title48-section21&num=0&edition=prelim).
+
+#### Admission of Alaska as State
+Admission of Alaska into the Union was accomplished Jan. 3, 1959, on issuance of Proc. No. 3269, Jan. 3, 1959, 24 F.R. 81, 73 Stat. c16, as required by sections 1 and 8(c) of Pub. L. 85–508, July 7, 1958, 72 Stat. 339, set out as notes preceding [section 21 of Title 48](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title48-section21&num=0&edition=prelim), Territories and Insular Possessions.
 
 
 <a id="section-983"></a>
@@ -98,12 +99,13 @@ It shall be the duty of the Commissioner of the General Land Office, to certify 
 #### Codification
 R.S. § 2488 derived from act July 23, 1866, ch. 219, § 4, 14 Stat. 219.
 
+#### Abolition of Office of Surveyor General and Transfer of Functions
+Act Mar. 3, 1925, abolished office of surveyor general and transferred administration of all activities in charge of surveyors general to Field Surveying Service under jurisdiction of United States Supervisor of Surveys.
+
 #### Transfer of Functions
 For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out under [section 1451 of this title](./chapter-031-department-of-the-interior.md#section-1451).
 
 Offices of Commissioner of General Land Office and Supervisor of Surveys, and General Land Office abolished by Reorg. Plan No. 3 of 1946, § 403, eff. July 16, 1946, 11 F.R. 7876, 60 Stat. 1100. Functions of Commissioner and Supervisor transferred to Secretary of the Interior or those officers as he may designate, and functions of General Land Office transferred by Bureau of Land Management, by that plan. See section 403 of Reorg. Plan No. 3 of 1946, set out as a note under [section 1 of this title](./chapter-001-bureau-of-land-management.md#section-1).
-
-Act Mar. 3, 1925, abolished office of surveyor general and transferred administration of all activities in charge of surveyors general to Field Surveying Service under jurisdiction of United States Supervisor of Surveys.
 
 
 <a id="section-988"></a>

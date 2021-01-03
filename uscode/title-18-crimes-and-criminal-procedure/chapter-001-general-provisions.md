@@ -16,6 +16,18 @@ Section, acts June 25, 1948, ch. 645, 62 Stat. 684; Oct. 30, 1984, Pub. L. 98–
 #### Effective Date of Repeal
 Repeal of section effective Nov. 1, 1987, and applicable only to offenses committed after the taking effect of such repeal, see section 235(a)(1) of Pub. L. 98–473, set out as an Effective Date note under [section 3551 of this title](./chapter-227-sentences.md#section-3551).
 
+#### Short Title of 2021 Amendment
+Pub. L. 116–309, § 1, Jan. 5, 2021, 134 Stat. 4922, provided that: “This Act [enacting [section 41312 of Title 34](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section41312&num=0&edition=prelim), Crime Control and Law Enforcement, amending [section 116 of this title](./chapter-007-assault.md#section-116), and enacting provisions set out as notes under [section 116 of this title](./chapter-007-assault.md#section-116)] may be cited as the ‘Strengthening the Opposition to Female Genital Mutilation Act of 2020’ or the ‘STOP FGM Act of 2020’.”
+
+#### Short Title of 2020 Amendment
+Pub. L. 116–260, div. O, title X, § 1001, Dec. 27, 2020, 134 Stat. 2155, provided that: “This title [repealing chapter 89 and sections 46, 511A, 707, 708, 711, 711a, 715, and 1921 of this title] may be cited as the ‘Clean Up the Code Act of 2019’.”
+
+Pub. L. 116–249, § 1, Dec. 22, 2020, 134 Stat. 1126, provided that: “This Act [enacting [section 2261B of this title](./chapter-110a-domestic-violence-and-stalking.md#section-2261b) and amending [section 2261A of this title](./chapter-110a-domestic-violence-and-stalking.md#section-2261a)] may be cited as the ‘Combat Online Predators Act’.”
+
+Pub. L. 116–179, § 1, Oct. 20, 2020, 134 Stat. 855, provided that: “This Act [amending [section 1030 of this title](./chapter-047-fraud-and-false-statements.md#section-1030)] may be cited as the ‘Defending the Integrity of Voting Systems Act’.”
+
+Pub. L. 116–159, div. D, title II, § 4201, Oct. 1, 2020, 134 Stat. 741, provided that: “This title [enacting provisions set out as a note under [section 3551 of this title](./chapter-227-sentences.md#section-3551)] may be cited as the ‘United States Parole Commission Extension Act of 2020’.”
+
 #### Short Title of 2019 Amendment
 Pub. L. 116–72, § 1, Nov. 25, 2019, 133 Stat. 1151, provided that: “This Act [amending [section 48 of this title](./chapter-003-animals-birds-fish-and-plants.md#section-48)] may be cited as the ‘Preventing Animal Cruelty and Torture Act’ or the ‘PACT Act’.”
 

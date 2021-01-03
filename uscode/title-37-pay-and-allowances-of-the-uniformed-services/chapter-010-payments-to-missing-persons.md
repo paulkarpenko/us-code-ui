@@ -488,9 +488,6 @@ Subsec. (c)(2). Pub. L. 101–510, § 1484(e)(2), inserted “([5 U.S.C. 5569](h
 #### Effective Date; Payments; Interest
 Pub. L. 99–399, title VIII, § 806(a)(3), Aug. 27, 1986, 100 Stat. 885, provided that: “(A)(i) Except as provided in clause (ii), [section 559 of title 37](./chapter-010-payments-to-missing-persons.md#section-559), United States Code, as added by paragraph (1), shall apply to any person whose captive status begins after January 21, 1981. “(ii)(I) Subsection (c) of such section shall apply to any person whose captive status begins on or after November 4, 1979. “(II) In the case of any person whose status as a captive terminated before the date of the enactment of this Act [Aug. 27, 1986], the President shall make a payment under paragraph (1) of such subsection before the end of the one-year period beginning on such date. “(B) Amounts may be allotted to a savings fund established under such section from pay and allowances for any pay period ending after January 21, 1981, and before the establishment of such fund. “(C) Interest on amounts so allotted with respect to any such pay period shall be calculated as if the allotment had occurred at the end of such pay period.”
 
-#### Delegation of Functions
-Functions of President under this section delegated to Secretary of Defense, see section 3 of Ex. Ord. No. 12598, June 17, 1987, 52 F.R. 23421, set out as a note under [section 5569 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5569&num=0&edition=prelim), Government Organization and Employees.
-
 #### Recalculation of Previous Payments
 Pub. L. 110–181, div. A, title VI, § 675(b), Jan. 28, 2008, 122 Stat. 187, provided that: “In the case of any payment of back pay made to or for a person under section 667 of the Floyd D. Spence National Defense Authorization Act for Fiscal Year 2001 [Pub. L. 106–398, § 1 [[div. A], title VI, § 667], set out below] before the date of the enactment of this Act [Jan. 28, 2008], the Secretary of the Navy shall— “(1) recalculate the amount of back pay to which the person is entitled by reason of the amendment made by subsection (a) [amending Pub. L. 106–398, § 1 [[div. A], title VI, § 667], set out below]; and “(2) if the amount of back pay, as so recalculated, exceeds the amount of back pay so paid, pay the person, or the surviving spouse of the person, an amount equal to the excess.”
 
@@ -499,3 +496,6 @@ Pub. L. 106–398, § 1 [[div. A], title VI, § 667], Oct. 30, 2000, 114 Stat. 1
 
 #### Payment to Individuals Held in Captive Status Between November 4, 1979, and January 21, 1981
 For payment for individuals in the uniformed services referred to in subsec. (c) of this section held in captive status between Nov. 4, 1979, and Jan. 21, 1981, see section 802 of Pub. L. 99–399, set out as a note under [section 5569 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5569&num=0&edition=prelim), Government Organization and Employees.
+
+#### Delegation of Functions
+Functions of President under this section delegated to Secretary of Defense, see section 3 of Ex. Ord. No. 12598, June 17, 1987, 52 F.R. 23421, set out as a note under [section 5569 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5569&num=0&edition=prelim), Government Organization and Employees.

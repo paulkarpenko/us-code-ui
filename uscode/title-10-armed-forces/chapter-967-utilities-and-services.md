@@ -9,7 +9,7 @@ source: >-
 <a id="section-9591"></a>
 ## § 9591. Utilities: proceeds from overseas operations
 
-During actual or threatened hostilities, proceeds from operating a public utility in connection with operations of the Air Force in the field overseas are available for that utility until the close of the fiscal year following that in which they are received.
+During actual or threatened hostilities, proceeds from operating a public utility in connection with operations of the Air Force or the Space Force in the field overseas are available for that utility until the close of the fiscal year following that in which they are received.
 
 ### Statutory Notes
 
@@ -19,6 +19,9 @@ During actual or threatened hostilities, proceeds from operating a public utilit
 | 9591 | 10:1287. | July 9, 1918, ch. 143, subch. XX (1st par.), 40 Stat. 893; May 29, 1928, ch. 901 (par. 37), 45 Stat. 989; Aug. 1, 1953, ch. 305, § 645 (7th clause), 67 Stat. 357. |
 
 The words “Air Force” are substituted for the word “Engineer”, since the Air Force does not have organic corps created by statute.
+
+#### Amendments
+2021—Pub. L. 116–283 inserted “or the Space Force” after “the Air Force”.
 
 
 <a id="section-9592"></a>
@@ -44,7 +47,7 @@ The words “members of the Air Force” are substituted for the words “Signal
 <a id="section-9593"></a>
 ## § 9593. Quarters: heat and light
 
-The heat and light necessary for the authorized quarters of members of the Air Force shall be furnished at the expense of the United States.
+The heat and light necessary for the authorized quarters of members of the Air Force and members of the Space Force shall be furnished at the expense of the United States.
 
 ### Statutory Notes
 
@@ -58,10 +61,13 @@ The word “members” is substituted for the words “officers and enlisted men
 #### Charges for Excess Energy Consumption; Deposit of Proceeds; Applicability; Implementation
 Assessment of members for excess energy consumption in military family housing facilities, see section 507 of Pub. L. 95–82, title V, Aug. 1, 1977, 91 Stat. 372, set out as a note under [section 4593 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section4593&num=0&edition=prelim).
 
+#### Amendments
+2021—Pub. L. 116–283 inserted “and members of the Space Force” after “the Air Force”.
+
 
 <a id="section-9594"></a>
-## § 9594. Air Force Military History Institute: fee for providing historical information to the public
-**(a) Authority.—** Except as provided in subsection (b), the Secretary of the Air Force may charge a person a fee for providing the person with information from the United States Air Force Military History Institute that is requested by that person.
+## § 9594. Department of the Air Force Military History Institute: fee for providing historical information to the public
+**(a) Authority.—** Except as provided in subsection (b), the Secretary of the Air Force may charge a person a fee for providing the person with information from the United States Department of the Air Force Military History Institute that is requested by that person.
 
 **(b) Exceptions.—** A fee may not be charged under this section—
 
@@ -71,10 +77,19 @@ Assessment of members for excess energy consumption in military family housing f
 
 **(c) Limitation on Amount.—** A fee charged for providing information under this section may not exceed the cost of providing the information.
 
-**(d) Retention of Fees.—** Amounts received under subsection (a) for providing information in any fiscal year shall be credited to the appropriation or appropriations charged the costs of providing information to the public from the United States Air Force Military History Institute during that fiscal year.
+**(d) Retention of Fees.—** Amounts received under subsection (a) for providing information in any fiscal year shall be credited to the appropriation or appropriations charged the costs of providing information to the public from the United States Department of the Air Force Military History Institute during that fiscal year.
 
 **(e) Definitions.—** In this section:
 
-(1) The term “United States Air Force Military History Institute” means the archive for historical records and materials of the Air Force that the Secretary of the Air Force designates as the primary archive for such records and materials.
+(1) The term “United States Department of the Air Force Military History Institute” means the archive for historical records and materials of the Air Force and the Space Force that the Secretary of the Air Force designates as the primary archive for such records and materials.
 
 (2) The terms “officer of the United States” and “employee of the United States” have the meanings given the terms “officer” and “employee”, respectively, in sections 2104 and 2105, respectively, of title 5.
+
+### Statutory Notes
+
+#### Amendments
+2021—Pub. L. 116–283, § 923(e)(8)(B), amended section catchline generally. Prior to amendment, catchline read as follows: “Air Force Military History Institute: fee for providing historical information to the public”.
+
+Subsecs. (a), (d). Pub. L. 116–283, § 923(e)(8)(A)(i), inserted “Department of the” before “Air Force Military History”.
+
+Subsec. (e)(1). Pub. L. 116–283, § 923(e)(8)(A)(ii), inserted “Department of the” before “Air Force Military History” and “and the Space Force” after “materials of the Air Force”.

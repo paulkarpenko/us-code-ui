@@ -36,7 +36,7 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 <a id="section-9203"></a>
 ## § 9203. Retired commissioned officers: status
 
-A retired commissioned officer of the Air Force who is on active duty is considered, for all purposes except promotion, to be an officer of the organization to which he is assigned.
+A retired commissioned officer of the Air Force or the Space Force who is on active duty is considered, for all purposes except promotion, to be an officer of the organization to which he is assigned.
 
 ### Statutory Notes
 
@@ -48,6 +48,8 @@ A retired commissioned officer of the Air Force who is on active duty is conside
 The words “and shall be an extra number therein” are omitted, since, in the opinion of the Judge Advocate General of the Army (JAG 210.85, Feb. 21, 1923), they were repealed by the Act of July 31, 1935, ch. 422, 49 Stat. 505. The words “in the discretion of the President, employed * * * assigned to duty” are omitted as surplusage. The words “arms, corps, department” are omitted, since the Air Force does not have organic corps created by statute.
 
 #### Amendments
+2021—Pub. L. 116–283 inserted “or the Space Force” after “the Air Force”.
+
 2018—Pub. L. 115–232 renumbered [section 8503 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section8503&num=0&edition=prelim) as this section.
 
 #### Effective Date of 2018 Amendment

@@ -54,9 +54,7 @@ Pub. L. 113–291, div. A, title VIII, § 836, Dec. 19, 2014, 128 Stat. 3449, pr
 Pub. L. 98–369, div. B, title VII, § 2711(c), July 18, 1984, 98 Stat. 1181, provided that: “The amendments made by this section [see Tables for classification] do not supersede or affect the provisions of section 8(a) of the Small Business Act ([15 U.S.C. 637(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section637/a&num=0&edition=prelim)).”
 
 #### Pilot Programs for Authority To Acquire Innovative Commercial Items Using General Solicitation Competitive Procedures
-Pub. L. 114–328, div. A, title VIII, § 880, Dec. 23, 2016, 130 Stat. 2313, as amended by Pub. L. 115–232, div. A, title VIII, § 836(f)(10), Aug. 13, 2018, 132 Stat. 1872, provided that: “(a) Authority.—“(1) In general.—The head of an agency may carry out a pilot program, to be known as a ‘commercial solutions opening pilot program’, under which innovative commercial items may be acquired through a competitive selection of proposals resulting from a general solicitation and the peer review of such proposals. “(2) Head of an agency.—In this section, the term ‘head of an agency’ means the following:“(A) The Secretary of Homeland Security. “(B) The Administrator of General Services. “(3) Applicability of section.—This section applies to the following agencies:“(A) The Department of Homeland Security. “(B) The General Services Administration. “(b) Treatment as Competitive Procedures.—Use of general solicitation competitive procedures for the pilot program under subsection (a) shall be considered, in the case of the Department of Homeland Security and the General Services Administration, to be use of competitive procedures for purposes of division C of [subtitle I of] title 41, United States Code (as defined in section 152 of such title). “(c) Limitation.—The head of an agency may not enter into a contract under the pilot program for an amount in excess of $10,000,000. “(d) Guidance.—The head of an agency shall issue guidance for the implementation of the pilot program under this section within that agency. Such guidance shall be issued in consultation with the Office of Management and Budget and shall be posted for access by the public. “(e) Report Required.—“(1) In general.—Not later than three years after the date of the enactment of this Act [Dec. 23, 2016], the head of an agency shall submit to the congressional committees specified in paragraph (3) a report on the activities the agency carried out under the pilot program. “(2) Elements of report.—Each report under this subsection shall include the following:“(A) An assessment of the impact of the pilot program on competition. “(B) A comparison of acquisition timelines for—“(i) procurements made using the pilot program; and “(ii) procurements made using other competitive procedures that do not use general solicitations. “(C) A recommendation on whether the authority for the pilot program should be made permanent. “(3) Specified congressional committees.—The congressional committees specified in this paragraph are the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Oversight and Government Reform [now Committee on Oversight and Reform] of the House of Representatives. “(f) Innovative Defined.—In this section, the term ‘innovative’ means—“(1) any new technology, process, or method, including research and development; or “(2) any new application of an existing technology, process, or method. “(g) Termination.—The authority to enter into a contract under a pilot program under this section terminates on September 30, 2022.”
-
-[Pub. L. 115–232, div. A, title VIII, § 836(f)(10), (h), Aug. 13, 2018, 132 Stat. 1872, 1874, provided that, effective Jan. 1, 2020, subject to a savings provision, section 880 of Pub. L. 114–328, set out above, is amended by striking “commercial items” in subsection (a)(1) and inserting “commercial products”.]
+Pub. L. 114–328, div. A, title VIII, § 880, Dec. 23, 2016, 130 Stat. 2313, as amended by Pub. L. 115–232, div. A, title VIII, § 836(f)(10), Aug. 13, 2018, 132 Stat. 1872, provided that: “(a) Authority.—“(1) In general.—The head of an agency may carry out a pilot program, to be known as a ‘commercial solutions opening pilot program’, under which innovative commercial products may be acquired through a competitive selection of proposals resulting from a general solicitation and the peer review of such proposals. “(2) Head of an agency.—In this section, the term ‘head of an agency’ means the following:“(A) The Secretary of Homeland Security. “(B) The Administrator of General Services. “(3) Applicability of section.—This section applies to the following agencies:“(A) The Department of Homeland Security. “(B) The General Services Administration. “(b) Treatment as Competitive Procedures.—Use of general solicitation competitive procedures for the pilot program under subsection (a) shall be considered, in the case of the Department of Homeland Security and the General Services Administration, to be use of competitive procedures for purposes of division C of [subtitle I of] title 41, United States Code (as defined in section 152 of such title). “(c) Limitation.—The head of an agency may not enter into a contract under the pilot program for an amount in excess of $10,000,000. “(d) Guidance.—The head of an agency shall issue guidance for the implementation of the pilot program under this section within that agency. Such guidance shall be issued in consultation with the Office of Management and Budget and shall be posted for access by the public. “(e) Report Required.—“(1) In general.—Not later than three years after the date of the enactment of this Act [Dec. 23, 2016], the head of an agency shall submit to the congressional committees specified in paragraph (3) a report on the activities the agency carried out under the pilot program. “(2) Elements of report.—Each report under this subsection shall include the following:“(A) An assessment of the impact of the pilot program on competition. “(B) A comparison of acquisition timelines for—“(i) procurements made using the pilot program; and “(ii) procurements made using other competitive procedures that do not use general solicitations. “(C) A recommendation on whether the authority for the pilot program should be made permanent. “(3) Specified congressional committees.—The congressional committees specified in this paragraph are the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Oversight and Government Reform [now Committee on Oversight and Reform] of the House of Representatives. “(f) Innovative Defined.—In this section, the term ‘innovative’ means—“(1) any new technology, process, or method, including research and development; or “(2) any new application of an existing technology, process, or method. “(g) Termination.—The authority to enter into a contract under a pilot program under this section terminates on September 30, 2022.”
 
 #### Governmentwide Software Purchasing Program
 Pub. L. 113–291, div. A, title VIII, § 837, Dec. 19, 2014, 128 Stat. 3450, provided that: “(a) In General.—The Administrator of General Services shall identify and develop a strategic sourcing initiative to enhance Governmentwide acquisition, shared use, and dissemination of software, as well as compliance with end user license agreements. “(b) Governmentwide User License Agreement.—The Administrator, in developing the initiative under subsection (a), shall allow for the purchase of a license agreement that is available for use by all Executive agencies (as defined in [section 105 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section105&num=0&edition=prelim), United States Code) as one user to the maximum extent practicable and as appropriate.”
@@ -122,10 +120,15 @@ Pub. L. 113–291, div. A, title VIII, § 837, Dec. 19, 2014, 128 Stat. 3450, pr
 
 **(e) Applicability.—** The regulations required by subsection (b) shall apply to all individual purchases of property or services that are made under multiple award contracts on or after the effective date of the regulations, without regard to whether the multiple award contracts were entered into before, on, or after the effective date.
 
+**(f) Commercial Leasing Services.—** The regulations required by subsection (b) shall not apply to individual purchases for commercial leasing services that are made on a no cost basis and made under a multiple award contract awarded in accordance with the requirements for full and open competition.
+
 ### Statutory Notes
 
 #### Amendment Not Shown in Text
 This section was derived from Pub. L. 110–417, [div. A], title VIII, § 863(a)–(e), Oct. 14, 2008, 122 Stat. 4547, which was set out as a note under section 253h of former Title 41, Public Contracts, prior to being repealed and reenacted by Pub. L. 111–350, §§ 3, 7(b), Jan. 4, 2011, 124 Stat. 3677, 3855. Section 863(b)(3)(A) of Pub. L. 110–417 was restated as subsec. (c)(3)(A) of this section and subsequently amended by Pub. L. 111–383, div. A, title X, § 1075(e)(14), Jan. 7, 2011, 124 Stat. 4375. For applicability of that amendment to this section, see section 6(a) of Pub. L. 111–350, set out as a Transitional and Savings Provisions note preceding [section 101 of this title](./chapter-001-chapter-1.md#section-101). Section 863(b)(3)(A) of Pub. L. 110–417 was amended by striking “subsection (d)(2)(A)” and inserting “subsection (d)(3)(A)”. Such reference did not appear in the text of subsec. (c)(3)(A) as enacted. See Historical and Revision Notes below.
+
+#### Repeal of Subsection (f)
+Pub. L. 116–92, div. A, title VIII, § 893(b)(2), Dec. 20, 2019, 133 Stat. 1540 provided that, effective Dec. 31, 2025, subsection (f) of this section is repealed. See 2019 Amendment note below.
 
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
@@ -140,8 +143,16 @@ In subsection (c)(3)(A), “subsection (a)(3)(A)” is substituted for “subsec
 
 In subsection (d)(1), the words “Not later than one year after the date of the enactment of this Act” are omitted because of section 6(f) of the bill. The words “shall require” are substituted for “shall be amended to require” to reflect the permanence of the provision.
 
+#### Amendments
+2019—Subsec. (f). Pub. L. 116–92, § 893(b)(2), struck out subsec. (f). Text read as follows: “The regulations required by subsection (b) shall not apply to individual purchases for commercial leasing services that are made on a no cost basis and made under a multiple award contract awarded in accordance with the requirements for full and open competition.”
+
+Pub. L. 116–92, § 893(b)(1), added subsec. (f).
+
+#### Effective Date of 2019 Amendment
+Pub. L. 116–92, div. A, title VIII, § 893(b)(2), Dec. 20, 2019, 133 Stat. 1540, provided that the amendment made by section 893(b)(2) is effective Dec. 31, 2025.
+
 #### Individual Acquisition for Commercial Leasing Services
-Pub. L. 115–232, div. A, title VIII, § 877, Aug. 13, 2018, 132 Stat. 1907, provided that: “(a) In General.—For the purpose of section 863 of Public Law 110–417 [[41 U.S.C. 3302](./chapter-033-chapter-33.md#section-3302)], an individual acquisition for commercial leasing services shall not be construed as a purchase of property or services if such individual acquisition is made on a no cost basis and pursuant to a multiple award contract awarded in accordance with requirements for full and open competition. “(b) Audit.—The Comptroller General of the United States shall—“(1) conduct biennial audits of the General Services Administration National Broker Contract to determine—“(A) whether brokers selected under the program provide lower lease rental rates than rates negotiated by General Services Administration staff; and “(B) the impact of the program on the length of time of lease procurements; “(2) conduct a review of whether the application of section 863 of Public Law 110–417 [[41 U.S.C. 3302](./chapter-033-chapter-33.md#section-3302)] to acquisitions for commercial leasing services resulted in rental cost savings for the Government during the years in which such section was applicable prior to the date of enactment of this section [Aug. 13, 2018]; and “(3) not later than September 30, 2019, and September 30, 2021, submit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Environment and Public Works of the Senate a report that—“(A) summarizes the results of the audit and review required by paragraphs (1) and (2); “(B) includes an assessment of whether the National Broker Contract provides greater efficiencies and savings than the use of General Services Administration staff; and “(C) includes recommendations for improving General Services Administration lease procurements. “(c) Termination.—This section shall terminate on December 31, 2022.”
+Pub. L. 115–232, div. A, title VIII, § 877, Aug. 13, 2018, 132 Stat. 1907, which related to individual acquisition for commercial leasing services not construed as purchase of property or services under certain conditions, was repealed by Pub. L. 116–92, div. A, title VIII, § 893(a), Dec. 20, 2019, 133 Stat. 1540.
 
 
 <a id="section-3303"></a>
@@ -196,7 +207,7 @@ Pub. L. 115–232, div. A, title VIII, § 877, Aug. 13, 2018, 132 Stat. 1907, pr
 
 (4) the terms of an international agreement or treaty between the Federal Government and a foreign government or an international organization, or the written directions of a foreign government reimbursing the executive agency for the cost of the procurement of the property or services for that government, have the effect of requiring the use of procedures other than competitive procedures;
 
-(5) subject to [section 3105 of this title](./chapter-031-chapter-31.md#section-3105), a statute expressly authorizes or requires that the procurement be made through another executive agency or from a specified source, or the agency’s need is for a brand-name commercial item for authorized resale;
+(5) subject to [section 3105 of this title](./chapter-031-chapter-31.md#section-3105), a statute expressly authorizes or requires that the procurement be made through another executive agency or from a specified source, or the agency’s need is for a brand-name commercial product for authorized resale;
 
 (6) the disclosure of the executive agency’s needs would compromise the national security unless the agency is permitted to limit the number of sources from which it solicits bids or proposals; or
 
@@ -268,7 +279,7 @@ Pub. L. 115–232, div. A, title VIII, § 877, Aug. 13, 2018, 132 Stat. 1907, pr
 
   (A) a statute expressly requires that the procurement be made from a specified source;
 
-  (B) the agency’s need is for a brand-name commercial item for authorized resale;
+  (B) the agency’s need is for a brand-name commercial product for authorized resale;
 
   (C) the procurement is permitted by subsection (a)(7); or
 
@@ -297,9 +308,6 @@ Pub. L. 115–232, div. A, title VIII, § 877, Aug. 13, 2018, 132 Stat. 1907, pr
 (3) **Exception to availability and approval requirement.—** — This subsection does not require the public availability of information that is exempt from public disclosure under [section 552(b) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section552/b&num=0&edition=prelim).
 
 ### Statutory Notes
-
-#### Amendment of Subsections (a)(5) and (e)(4)(B)
-Pub. L. 115–232, div. A, title VIII, § 836(b)(7), (h), Aug. 13, 2018, 132 Stat. 1861, 1874, provided that, effective Jan. 1, 2020, subject to a savings provision, subsections (a)(5) and (e)(4)(B) of this section are amended by striking “commercial item” and inserting “commercial product”. See 2018 Amendment note below.
 
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
@@ -333,6 +341,9 @@ In subsec. (e)(1)(B)(ii), “for level IV of the Executive Schedule” substitut
 #### Effective Date of 2018 Amendment
 Amendment by Pub. L. 115–232 effective Jan. 1, 2020, subject to a savings provision, see section 836(h) of Pub. L. 115–232, set out as an Effective Date of 2018 Amendment; Savings Provision note under [section 453b of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section453b&num=0&edition=prelim), Domestic Security.
 
+#### General Services Administration: Notification of Use of Noncompetitive Procedures in Response to Public Health Emergency Declaration
+Pub. L. 116–136, div. B, title V, § 15003, Mar. 27, 2020, 134 Stat. 532, provided that: “Notwithstanding [41 U.S.C. 3304(a)(7)(B)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section3304/a/7/B&num=0&edition=prelim), the Administrator, when making a determination that use of noncompetitive procedures is necessary for public interest in accordance with [41 U.S.C. 3304(a)(7)(A)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section3304/a/7/A&num=0&edition=prelim) in response to a public health emergency declaration by the Secretary of Health and Human Services under section 319 of the Public Health Service Act ([42 U.S.C. 247(d)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section247/d&num=0&edition=prelim) [247d]), is required to notify Congress in writing of that determination not less than 3 days prior to the award of the contract.”
+
 #### Justification and Approval of Sole-Source Contracts
 Pub. L. 111–84, div. A, title VIII, § 811, Oct. 28, 2009, 123 Stat. 2405, provided that: “(a) In General.—Not later than 180 days after the date of the enactment of this Act [Oct. 28, 2009], the Federal Acquisition Regulation shall be revised to provide that the head of an agency may not award a sole-source contract in a covered procurement for an amount exceeding $20,000,000 unless—“(1) the contracting officer for the contract justifies the use of a sole-source contract in writing; “(2) the justification is approved by the appropriate official designated to approve contract awards for dollar amounts that are comparable to the amount of the sole-source contract; and “(3) the justification and related information are made public as provided in sections 2304(f)(1)(C) and 2304(l) of title 10, United States Code, or sections 303(f)(1)(C) and 303(j) of the Federal Property and Administrative Services Act of 1949 ([41 U.S.C. 253(f)(1)(C)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section253/f/1/C&num=0&edition=prelim) and 253(j)) [now [41 U.S.C. 3304(e)(1)(C)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section3304/e/1/C&num=0&edition=prelim) and 3304(f)], as applicable. “(b) Elements of Justification.—The justification of a sole-source contract required pursuant to subsection (a) shall include the following:“(1) A description of the needs of the agency concerned for the matters covered by the contract. “(2) A specification of the statutory provision providing the exception from the requirement to use competitive procedures in entering into the contract. “(3) A determination that the use of a sole-source contract is in the best interest of the agency concerned. “(4) A determination that the anticipated cost of the contract will be fair and reasonable. “(5) Such other matters as the head of the agency concerned shall specify for purposes of this section. “(c) Definitions.—In this section:“(1) Covered procurement.—The term ‘covered procurement’ means either of the following:“(A) A procurement described in [section 2304(f)(2)(D)(ii) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2304/f/2/D/ii&num=0&edition=prelim), United States Code. “(B) A procurement described in section 303(f)(2)(D)(ii) of the Federal Property and Administrative Services Act of 1949 ([former] [41 U.S.C. 253(f)(2)(D)(ii)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section253/f/2/D/ii&num=0&edition=prelim)) [see [41 U.S.C. 3304(e)(4)(D)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section3304/e/4/D&num=0&edition=prelim)]. “(2) Head of an agency.—The term ‘head of an agency’—“(A) in the case of a covered procurement as defined in paragraph (1)(A), has the meaning provided in [section 2302(1) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2302/1&num=0&edition=prelim), United States Code; and “(B) in the case of a covered procurement as defined in paragraph (1)(B), has the meaning provided the term ‘agency head’ in section 309(a) of the Federal Property and Administrative Services Act of 1949 ([41 U.S.C. 259(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section259/a&num=0&edition=prelim)) [now [41 U.S.C. 151](./chapter-001-chapter-1.md#section-151)]. “(3) Appropriate official.—The term ‘appropriate official’ means—“(A) in the case of a covered procurement as defined in paragraph (1)(A), an official designated in [section 2304(f)(1)(B) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2304/f/1/B&num=0&edition=prelim), United States Code; and “(B) in the case of a covered procurement as defined in paragraph (1)(B), an official designated in section 303(f)(1)(B) of the Federal Property and Administrative Services Act of 1949 ([41 U.S.C. 253(f)(1)(B)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section253/f/1/B&num=0&edition=prelim)) [now [41 U.S.C. 3304(e)(1)(B)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section3304/e/1/B&num=0&edition=prelim)].”
 
@@ -343,7 +354,7 @@ Pub. L. 111–84, div. A, title VIII, § 811, Oct. 28, 2009, 123 Stat. 2405, pro
 
 (1) not greater than the simplified acquisition threshold; and
 
-(2) greater than the simplified acquisition threshold but not greater than $5,000,000 for which the contracting officer reasonably expects, based on the nature of the property or services sought and on market research, that offers will include only commercial items.
+(2) greater than the simplified acquisition threshold but not greater than $5,000,000 for which the contracting officer reasonably expects, based on the nature of the property or services sought and on market research, that offers will include only commercial products or commercial services.
 
 **(b) Leasehold Interests in Real Property.—** The Administrator of General Services shall prescribe regulations that provide special simplified procedures for acquisitions of leasehold interests in real property at rental rates that do not exceed the simplified acquisition threshold. The rental rate under a multiyear lease does not exceed the simplified acquisition threshold if the average annual amount of the rent payable for the period of the lease does not exceed the simplified acquisition threshold.
 
@@ -354,9 +365,6 @@ Pub. L. 111–84, div. A, title VIII, § 811, Oct. 28, 2009, 123 Stat. 2405, pro
 **(e) Compliance With Special Requirements of Federal Acquisition Regulation.—** An executive agency shall comply with the Federal Acquisition Regulation provisions referred to in [section 1901(e) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section1901/e&num=0&edition=prelim).
 
 ### Statutory Notes
-
-#### Amendment of Subsection (a)(2)
-Pub. L. 115–232, div. A, title VIII, § 836(b)(8), (h), Aug. 13, 2018, 132 Stat. 1861, 1874, provided that, effective Jan. 1, 2020, subject to a savings provision, subsection (a)(2) of this section is amended by striking “commercial items” and inserting “commercial products or commercial services”. See 2018 Amendment note below.
 
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
@@ -396,7 +404,7 @@ Amendment by Pub. L. 115–232 effective Jan. 1, 2020, subject to a savings prov
 
   (C) design requirements.
 
-**(b) Contents of Solicitation.—** In addition to the specifications described in subsection (a), each solicitation for sealed bids or competitive proposals (other than for a procurement for commercial items using special simplified procedures or a purchase for an amount not greater than the simplified acquisition threshold) shall at a minimum include—
+**(b) Contents of Solicitation.—** In addition to the specifications described in subsection (a), each solicitation for sealed bids or competitive proposals (other than for a procurement for commercial products or commercial services using special simplified procedures or a purchase for an amount not greater than the simplified acquisition threshold) shall at a minimum include—
 
 (1) a statement of—
 
@@ -474,9 +482,6 @@ Amendment by Pub. L. 115–232 effective Jan. 1, 2020, subject to a savings prov
 
 ### Statutory Notes
 
-#### Amendment of Subsection (b)
-Pub. L. 115–232, div. A, title VIII, § 836(b)(9), (h), Aug. 13, 2018, 132 Stat. 1861, 1874, provided that, effective Jan. 1, 2020, subject to a savings provision, subsection (b) of this section is amended by striking “commercial items” and inserting “commercial products or commercial services”. See 2018 Amendment notes below.
-
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
@@ -497,12 +502,12 @@ Amendment by section 836(b)(9) of Pub. L. 115–232 effective Jan. 1, 2020, subj
 
 
 <a id="section-3307"></a>
-## § 3307. Preference for commercial items
-**(a) Relationship of Provisions of Law to Procurement of Commercial Items.—**
+## § 3307. Preference for commercial products and commercial services
+**(a) Relationship of Provisions of Law to Procurement of Commercial Products and Commercial Services.—**
 
-(1) **This division.—** — Unless otherwise specifically provided, all other provisions in this division also apply to the procurement of commercial items.
+(1) **This division.—** — Unless otherwise specifically provided, all other provisions in this division also apply to the procurement of commercial products and commercial services.
 
-(2) **Laws listed in federal acquisition regulation.—** — A contract for the procurement of a commercial item entered into by the head of an executive agency is not subject to a law properly listed in the Federal Acquisition Regulation pursuant to [section 1906 of this title](./chapter-019-chapter-19.md#section-1906).
+(2) **Laws listed in federal acquisition regulation.—** — A contract for the procurement of a commercial product or commercial service entered into by the head of an executive agency is not subject to a law properly listed in the Federal Acquisition Regulation pursuant to [section 1906 of this title](./chapter-019-chapter-19.md#section-1906).
 
 **(b) Preference.—** The head of each executive agency shall ensure that, to the maximum extent practicable—
 
@@ -514,23 +519,23 @@ Amendment by section 836(b)(9) of Pub. L. 115–232 effective Jan. 1, 2020, subj
 
   (C) essential physical characteristics;
 
-(2) those requirements are defined so that commercial items or, to the extent that commercial items suitable to meet the executive agency’s needs are not available, nondevelopmental items other than commercial items may be procured to fulfill those requirements; and
+(2) those requirements are defined so that commercial services or commercial products or, to the extent that commercial products suitable to meet the executive agency’s needs are not available, nondevelopmental items other than commercial products may be procured to fulfill those requirements; and
 
-(3) offerors of commercial items and nondevelopmental items other than commercial items are provided an opportunity to compete in any procurement to fill those requirements.
+(3) offerors of commercial services, commercial products, and nondevelopmental items other than commercial products are provided an opportunity to compete in any procurement to fill those requirements.
 
 **(c) Implementation.—** The head of each executive agency shall ensure that procurement officials in that executive agency, to the maximum extent practicable—
 
-(1) acquire commercial items or nondevelopmental items other than commercial items to meet the needs of the executive agency;
+(1) acquire commercial services or commercial products or nondevelopmental items other than commercial products to meet the needs of the executive agency;
 
-(2) require that prime contractors and subcontractors at all levels under contracts of the executive agency incorporate commercial items or nondevelopmental items other than commercial items as components of items supplied to the executive agency;
+(2) require that prime contractors and subcontractors at all levels under contracts of the executive agency incorporate commercial services or commercial products or nondevelopmental items other than commercial products as components of items supplied to the executive agency;
 
-(3) modify requirements in appropriate cases to ensure that the requirements can be met by commercial items or, to the extent that commercial items suitable to meet the executive agency’s needs are not available, nondevelopmental items other than commercial items;
+(3) modify requirements in appropriate cases to ensure that the requirements can be met by commercial services or commercial products or, to the extent that commercial products suitable to meet the executive agency’s needs are not available, nondevelopmental items other than commercial products;
 
-(4) state specifications in terms that enable and encourage bidders and offerors to supply commercial items or, to the extent that commercial items suitable to meet the executive agency’s needs are not available, nondevelopmental items other than commercial items in response to the executive agency solicitations;
+(4) state specifications in terms that enable and encourage bidders and offerors to supply commercial services or commercial products or, to the extent that commercial products suitable to meet the executive agency’s needs are not available, nondevelopmental items other than commercial products in response to the executive agency solicitations;
 
-(5) revise the executive agency’s procurement policies, practices, and procedures not required by law to reduce any impediments in those policies, practices, and procedures to the acquisition of commercial items; and
+(5) revise the executive agency’s procurement policies, practices, and procedures not required by law to reduce any impediments in those policies, practices, and procedures to the acquisition of commercial products and commercial services; and
 
-(6) require training of appropriate personnel in the acquisition of commercial items.
+(6) require training of appropriate personnel in the acquisition of commercial products and commercial services.
 
 **(d) Market Research.—**
 
@@ -540,7 +545,7 @@ Amendment by section 836(b)(9) of Pub. L. 115–232 effective Jan. 1, 2020, subj
 
   (B) before soliciting bids or proposals for a contract in excess of the simplified acquisition threshold.
 
-(2) **Use of results.—** — The head of an executive agency shall use the results of market research to determine whether commercial items or, to the extent that commercial items suitable to meet the executive agency’s needs are not available, nondevelopmental items other than commercial items are available that—
+(2) **Use of results.—** — The head of an executive agency shall use the results of market research to determine whether commercial services or commercial products or, to the extent that commercial products suitable to meet the executive agency’s needs are not available, nondevelopmental items other than commercial products are available that—
 
   (A) meet the executive agency’s requirements;
 
@@ -550,27 +555,29 @@ Amendment by section 836(b)(9) of Pub. L. 115–232 effective Jan. 1, 2020, subj
 
 (3) **Only minimum information required to be submitted.—** — In conducting market research, the head of an executive agency should not require potential sources to submit more than the minimum information that is necessary to make the determinations required in paragraph (2).
 
+(4) **Documentation.—** — The head of the agency shall document the results of market research in a manner appropriate to the size and complexity of the acquisition.
+
 **(e) Regulations.—**
 
-(1) **In general.—** — The Federal Acquisition Regulation shall provide regulations to implement this section, sections 102, 103, 105, and 110 of this title, and chapter 140 of title 10.
+(1) **In general.—** — The Federal Acquisition Regulation shall provide regulations to implement this section, sections 102, 103, 103a, 104, 105, and 110 of this title, and chapter 140 of title 10.
 
 (2) **Contract clauses.—**
 
-  (A) *Definition.—* — In this paragraph, the term “subcontract” includes a transfer of commercial items between divisions, subsidiaries, or affiliates of a contractor or subcontractor.
+  (A) *Definition.—* — In this paragraph, the term “subcontract” includes a transfer of commercial products or commercial services between divisions, subsidiaries, or affiliates of a contractor or subcontractor.
 
-  (B) *List of clauses to be included.—* — The regulations prescribed under paragraph (1) shall contain a list of contract clauses to be included in contracts for the acquisition of commercial end items. To the maximum extent practicable, the list shall include only those contract clauses that are—
+  (B) *List of clauses to be included.—* — The regulations prescribed under paragraph (1) shall contain a list of contract clauses to be included in contracts for the acquisition of end items that are commercial products. To the maximum extent practicable, the list shall include only those contract clauses that are—
 
-    (i) required to implement provisions of law or executive orders applicable to acquisitions of commercial items or commercial components; or
-
-    (ii) determined to be consistent with standard commercial practice.
-
-  (C) *Requirements of prime contractor.—* — The regulations shall provide that the Federal Government shall not require a prime contractor to apply to any of its divisions, subsidiaries, affiliates, subcontractors, or suppliers that are furnishing commercial items any contract clause except those that are—
-
-    (i) required to implement provisions of law or executive orders applicable to subcontractors furnishing commercial items or commercial components; or
+    (i) required to implement provisions of law or executive orders applicable to acquisitions of commercial products, commercial components, or commercial services; or
 
     (ii) determined to be consistent with standard commercial practice.
 
-  (D) *Clauses that may be used in a contract.—* — To the maximum extent practicable, only the contract clauses listed pursuant to subparagraph (B) may be used in a contract, and only the contract clauses referred to in subparagraph (C) may be required to be used in a subcontract, for the acquisition of commercial items or commercial components by or for an executive agency.
+  (C) *Requirements of prime contractor.—* — The regulations shall provide that the Federal Government shall not require a prime contractor to apply to any of its divisions, subsidiaries, affiliates, subcontractors, or suppliers that are furnishing commercial products or commercial services any contract clause except those that are—
+
+    (i) required to implement provisions of law or executive orders applicable to subcontractors furnishing commercial products, commercial components, or commercial services; or
+
+    (ii) determined to be consistent with standard commercial practice.
+
+  (D) *Clauses that may be used in a contract.—* — To the maximum extent practicable, only the contract clauses listed pursuant to subparagraph (B) may be used in a contract, and only the contract clauses referred to in subparagraph (C) may be required to be used in a subcontract, for the acquisition of commercial products, commercial components, or commercial services by or for an executive agency.
 
   (E) *Waiver of contract clauses.—* — The Federal Acquisition Regulation shall provide standards and procedures for waiving the use of contract clauses required pursuant to subparagraph (B), other than those required by law, including standards for determining the cases in which a waiver is appropriate.
 
@@ -590,7 +597,7 @@ Amendment by section 836(b)(9) of Pub. L. 115–232 effective Jan. 1, 2020, subj
 
 (4) **Provisions relating to types of contracts.—**
 
-  (A) *Types of contracts that may be used.—* — The Federal Acquisition Regulation shall include, for acquisitions of commercial items—
+  (A) *Types of contracts that may be used.—* — The Federal Acquisition Regulation shall include, for acquisitions of commercial products or commercial services—
 
     (i) a requirement that firm, fixed price contracts or fixed price with economic price adjustment contracts be used to the maximum extent practicable;
 
@@ -612,7 +619,7 @@ Amendment by section 836(b)(9) of Pub. L. 115–232 effective Jan. 1, 2020, subj
 
   (C) *Categories of commercial services.—* — The categories of commercial services referred to in subparagraph (B) are as follows:
 
-    (i) Commercial services procured for support of a commercial item, as described in [section 103(5) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section103/5&num=0&edition=prelim).
+    (i) Commercial services procured for support of a commercial product, as described in [section 103a(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section103a/1&num=0&edition=prelim).
 
     (ii) Any other category of commercial services that the Administrator for Federal Procurement Policy designates in the Federal Acquisition Regulation for the purposes of this subparagraph on the basis that—
 
@@ -622,150 +629,13 @@ Amendment by section 836(b)(9) of Pub. L. 115–232 effective Jan. 1, 2020, subj
 
 (5) **Contract quality requirements.—** — Regulations prescribed under paragraph (1) shall include provisions that—
 
-  (A) allow, to the maximum extent practicable, a contractor under a commercial items acquisition to use the existing quality assurance system of the contractor as a substitute for compliance with an otherwise applicable requirement for the Federal Government to inspect or test the commercial items before the contractor’s tender of those items for acceptance by the Federal Government;
+  (A) allow, to the maximum extent practicable, a contractor under a commercial products acquisition to use the existing quality assurance system of the contractor as a substitute for compliance with an otherwise applicable requirement for the Federal Government to inspect or test the commercial products before the contractor’s tender of those products for acceptance by the Federal Government;
 
-  (B) require that, to the maximum extent practicable, the executive agency take advantage of warranties (including extended warranties) offered by offerors of commercial items and use those warranties for the repair and replacement of commercial items; and
+  (B) require that, to the maximum extent practicable, the executive agency take advantage of warranties (including extended warranties) offered by offerors of commercial products and use those warranties for the repair and replacement of commercial products; and
 
-  (C) set forth guidance regarding the use of past performance of commercial items and sources as a factor in contract award decisions.
+  (C) set forth guidance regarding the use of past performance of commercial products and sources as a factor in contract award decisions.
 
 ### Statutory Notes
-
-#### Amendment of Section
-Pub. L. 115–232, div. A, title VIII, § 836(b)(10)(A), (B)(i), (h), Aug. 13, 2018, 132 Stat. 1861–1863, 1874, made amendments to this section, effective Jan. 1, 2020, subject to a savings provision. After Jan. 1, 2020, this section will read as follows:
-
-§ 3307. Preference for commercial products and commercial services
-
-(a) Relationship of Provisions of Law to Procurement of Commercial Products and Commercial Services.—
-
-(1) This division.—Unless otherwise specifically provided, all other provisions in this division also apply to the procurement of commercial products and commercial services.
-
-(2) Laws listed in federal acquisition regulation.—A contract for the procurement of a commercial product or commercial service entered into by the head of an executive agency is not subject to a law properly listed in the Federal Acquisition Regulation pursuant to [section 1906 of this title](./chapter-019-chapter-19.md#section-1906).
-
-(b) Preference.—The head of each executive agency shall ensure that, to the maximum extent practicable—
-
-(1) requirements of the executive agency with respect to a procurement of supplies or services are stated in terms of—
-
-(A) functions to be performed;
-
-(B) performance required; or
-
-(C) essential physical characteristics;
-
-(2) those requirements are defined so that commercial services or commercial products or, to the extent that commercial products suitable to meet the executive agency’s needs are not available, nondevelopmental items other than commercial products may be procured to fulfill those requirements; and
-
-(3) offerors of commercial services, commercial products, and nondevelopmental items other than commercial products are provided an opportunity to compete in any procurement to fill those requirements.
-
-(c) Implementation.—The head of each executive agency shall ensure that procurement officials in that executive agency, to the maximum extent practicable—
-
-(1) acquire commercial services or commercial products or nondevelopmental items other than commercial products to meet the needs of the executive agency;
-
-(2) require that prime contractors and subcontractors at all levels under contracts of the executive agency incorporate commercial services or commercial products or nondevelopmental items other than commercial products as components of items supplied to the executive agency;
-
-(3) modify requirements in appropriate cases to ensure that the requirements can be met by commercial services or commercial products or, to the extent that commercial products suitable to meet the executive agency’s needs are not available, nondevelopmental items other than commercial products;
-
-(4) state specifications in terms that enable and encourage bidders and offerors to supply commercial services or commercial products or, to the extent that commercial products suitable to meet the executive agency’s needs are not available, nondevelopmental items other than commercial products in response to the executive agency solicitations;
-
-(5) revise the executive agency’s procurement policies, practices, and procedures not required by law to reduce any impediments in those policies, practices, and procedures to the acquisition of commercial products and commercial services; and
-
-(6) require training of appropriate personnel in the acquisition of commercial products and commercial services.
-
-(d) Market Research.—
-
-(1) When to be used.—The head of an executive agency shall conduct market research appropriate to the circumstances—
-
-(A) before developing new specifications for a procurement by that executive agency; and
-
-(B) before soliciting bids or proposals for a contract in excess of the simplified acquisition threshold.
-
-(2) Use of results.—The head of an executive agency shall use the results of market research to determine whether commercial services or commercial products or, to the extent that commercial products suitable to meet the executive agency’s needs are not available, nondevelopmental items other than commercial products are available that—
-
-(A) meet the executive agency’s requirements;
-
-(B) could be modified to meet the executive agency’s requirements; or
-
-(C) could meet the executive agency’s requirements if those requirements were modified to a reasonable extent.
-
-(3) Only minimum information required to be submitted.—In conducting market research, the head of an executive agency should not require potential sources to submit more than the minimum information that is necessary to make the determinations required in paragraph (2).
-
-(e) Regulations.—
-
-(1) In general.—The Federal Acquisition Regulation shall provide regulations to implement this section, sections 102, 103, 103a, 104, 105, and 110 of this title, and chapter 140 of title 10.
-
-(2) Contract clauses.—
-
-(A) Definition.—In this paragraph, the term “subcontract” includes a transfer of commercial products or commercial services between divisions, subsidiaries, or affiliates of a contractor or subcontractor.
-
-(B) List of clauses to be included.—The regulations prescribed under paragraph (1) shall contain a list of contract clauses to be included in contracts for the acquisition of end items that are commercial products. To the maximum extent practicable, the list shall include only those contract clauses that are—
-
-(i) required to implement provisions of law or executive orders applicable to acquisitions of commercial products, commercial components, or commercial services; or
-
-(ii) determined to be consistent with standard commercial practice.
-
-(C) Requirements of prime contractor.—The regulations shall provide that the Federal Government shall not require a prime contractor to apply to any of its divisions, subsidiaries, affiliates, subcontractors, or suppliers that are furnishing commercial products or commercial services any contract clause except those that are—
-
-(i) required to implement provisions of law or executive orders applicable to subcontractors furnishing commercial products, commercial components, or commercial services; or
-
-(ii) determined to be consistent with standard commercial practice.
-
-(D) Clauses that may be used in a contract.—To the maximum extent practicable, only the contract clauses listed pursuant to subparagraph (B) may be used in a contract, and only the contract clauses referred to in subparagraph (C) may be required to be used in a subcontract, for the acquisition of commercial products, commercial components, or commercial services by or for an executive agency.
-
-(E) Waiver of contract clauses.—The Federal Acquisition Regulation shall provide standards and procedures for waiving the use of contract clauses required pursuant to subparagraph (B), other than those required by law, including standards for determining the cases in which a waiver is appropriate.
-
-(3) Market acceptance.—
-
-(A) Requirement of offerors.—The Federal Acquisition Regulation shall provide that under appropriate conditions the head of an executive agency may require offerors to demonstrate that the items offered—
-
-(i) have achieved commercial market acceptance or been satisfactorily supplied to an executive agency under current or recent contracts for the same or similar requirements; and
-
-(ii) otherwise meet the item description, specifications, or other criteria prescribed in the public notice and solicitation relating to the contract.
-
-(B) Regulation to provide guidance on criteria.—The Federal Acquisition Regulation shall provide guidance to ensure that the criteria for determining commercial market acceptance include the consideration of—
-
-(i) the minimum needs of the executive agency concerned; and
-
-(ii) the entire relevant commercial market, including small businesses.
-
-(4) Provisions relating to types of contracts.—
-
-(A) Types of contracts that may be used.—The Federal Acquisition Regulation shall include, for acquisitions of commercial products or commercial services—
-
-(i) a requirement that firm, fixed price contracts or fixed price with economic price adjustment contracts be used to the maximum extent practicable;
-
-(ii) a prohibition on use of cost type contracts; and
-
-(iii) subject to subparagraph (B), authority for use of a time-and-materials or labor-hour contract for the procurement of commercial services that are commonly sold to the general public through those contracts and are purchased by the procuring agency on a competitive basis.
-
-(B) When time-and-materials or labor-hour contract may be used.—A time-and-materials or labor-hour contract may be used pursuant to the authority referred to in subparagraph (A)(iii)—
-
-(i) only for a procurement of commercial services in a category of commercial services described in subparagraph (C); and
-
-(ii) only if the contracting officer for the procurement—
-
-(I) executes a determination and findings that no other contract type is suitable;
-
-(II) includes in the contract a ceiling price that the contractor exceeds at its own risk; and
-
-(III) authorizes a subsequent change in the ceiling price only on a determination, documented in the contract file, that it is in the best interest of the procuring agency to change the ceiling price.
-
-(C) Categories of commercial services.—The categories of commercial services referred to in subparagraph (B) are as follows:
-
-(i) Commercial services procured for support of a commercial product, as described in [section 103a(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section103a/1&num=0&edition=prelim).
-
-(ii) Any other category of commercial services that the Administrator for Federal Procurement Policy designates in the Federal Acquisition Regulation for the purposes of this subparagraph on the basis that—
-
-(I) the commercial services in the category are of a type of commercial services that are commonly sold to the general public through use of time-and-materials or labor-hour contracts; and
-
-(II) it would be in the best interests of the Federal Government to authorize use of time-and-materials or labor-hour contracts for purchases of the commercial services in the category.
-
-(5) Contract quality requirements.—Regulations prescribed under paragraph (1) shall include provisions that—
-
-(A) allow, to the maximum extent practicable, a contractor under a commercial products acquisition to use the existing quality assurance system of the contractor as a substitute for compliance with an otherwise applicable requirement for the Federal Government to inspect or test the commercial products before the contractor’s tender of those products for acceptance by the Federal Government;
-
-(B) require that, to the maximum extent practicable, the executive agency take advantage of warranties (including extended warranties) offered by offerors of commercial products and use those warranties for the repair and replacement of commercial products; and
-
-(C) set forth guidance regarding the use of past performance of commercial products and sources as a factor in contract award decisions.
-
-See 2018 Amendment notes below.
 
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
@@ -783,6 +653,8 @@ In subsection (e), the text of section 8002(f) of the Federal Acquisition Stream
 In subsection (e)(2)(B)(i) and (C)(i), the words “as the case may be” are omitted as unnecessary.
 
 #### Amendments
+2019—Subsec. (d)(4). Pub. L. 116–92 added par. (4).
+
 2018—Pub. L. 115–232, § 836(b)(10)(B)(i), substituted “Preference for commercial products and commercial services” for “Preference for commercial items” in section catchline.
 
 Subsec. (a). Pub. L. 115–232, § 836(b)(10)(A)(i)(I), substituted “Commercial Products and Commercial Services” for “Commercial Items” in heading.
@@ -933,6 +805,9 @@ Amendment by Pub. L. 115–232 effective Jan. 1, 2020, subject to a savings prov
 In subsections (a) and (c)(1), the words “sections 1101 to 1104 of title 40” are substituted for “the Brooks Architect-Engineers Act (title IX of this Act)” and “the Brooks Architect-Engineers Act ([40 U.S.C. 541](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40-section541&num=0&edition=prelim) et seq.)”, respectively, because of section 5(c) of Public Law 107–217 (40 U.S.C. note prec. 101) and for consistency with title 40.
 
 In subsection (c)(5), the reference to [section 253b of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section253b&num=0&edition=prelim) is limited to chapter 37 of the revised title for clarity.
+
+#### Prohibition on Use of a Reverse Auction for the Award of a Contract for Design and Construction Services
+Pub. L. 116–260, div. U, title IV, § 402, Dec. 27, 2020, 134 Stat. 2292, provided that: “(a) Finding.—Congress finds that, in contrast to a traditional auction in which the buyers bid up the price, sellers bid down the price in a reverse auction. “(b) Prohibition.—Not later than 180 days after the date of the enactment of this Act [Dec. 27, 2020], the Federal Acquisition Regulation shall be amended to prohibit the use of reverse auctions for awarding contracts for design and construction services. “(c) Definitions.—In this section:“(1) The term ‘design and construction services’ means—“(A) site planning and landscape design; “(B) architectural and engineering services (as defined in [section 1102 of title 40](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40-section1102&num=0&edition=prelim), United States Code); “(C) interior design; “(D) performance of substantial construction work for facility, infrastructure, and environmental restoration projects; “(E) delivery and supply of construction materials to construction sites; or “(F) construction or substantial alteration of public buildings or public works. “(2) The term ‘reverse auction’ means, with respect to any procurement by an executive agency—“(A) a real-time auction conducted through an electronic medium among 2 or more offerors who compete by submitting bids for a supply or service contract, or a delivery order, task order, or purchase order under the contract, with the ability to submit revised lower bids at any time before the closing of the auction; and “(B) the award of the contract, delivery order, task order, or purchase order to the offeror is solely based on the price obtained through the auction process.”
 
 
 <a id="section-3310"></a>

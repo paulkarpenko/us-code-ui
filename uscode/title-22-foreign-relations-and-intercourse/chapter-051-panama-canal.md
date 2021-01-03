@@ -174,9 +174,6 @@ Jimmy Carter.
 #### References in Text
 This chapter, referred to in subsecs. (a), (c), and (d), was in the original “this Act”, meaning Pub. L. 96–70, Sept. 27, 1979, 93 Stat. 452, known as the Panama Canal Act of 1979, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 3601 of this title](./chapter-051-panama-canal.md#section-3601) and Tables.
 
-#### References to Canal Zone Code Deemed References to Panama Canal Code
-Pub. L. 96–70, title III, § 3303(b), Sept. 27, 1979, 93 Stat. 499, provided that: “Those provisions of the Canal Zone Code not repealed by this Act are redesignated as the ‘Panama Canal Code’. Any reference to the Canal Zone Code in those laws and regulations referred to in section 3(b) of this Act [subsec. (b) of this section] shall, subject to the provisions of such section, be deemed to refer to the [former] Panama Canal Code.”
-
 #### Amendments
 1997—Subsec. (b). Pub. L. 105–85, § 3550(d)(2)(A), substituted “October 1, 1979” for “the effective date of this Act”.
 
@@ -201,6 +198,9 @@ Subsec. (d). Pub. L. 104–201, § 3522(2), struck out subsec. (d) which read as
 “(2) repeal the Canal Zone Code, and
 
 “(3) contain provisions considered necessary and appropriate in light of the experience as of that time under that Treaty.”
+
+#### References to Canal Zone Code Deemed References to Panama Canal Code
+Pub. L. 96–70, title III, § 3303(b), Sept. 27, 1979, 93 Stat. 499, provided that: “Those provisions of the Canal Zone Code not repealed by this Act are redesignated as the ‘Panama Canal Code’. Any reference to the Canal Zone Code in those laws and regulations referred to in section 3(b) of this Act [subsec. (b) of this section] shall, subject to the provisions of such section, be deemed to refer to the [former] Panama Canal Code.”
 
 
 <a id="section-3612a"></a>
@@ -408,11 +408,11 @@ Level IV of the Executive Schedule, referred to in subsec. (b), is set out in [s
 
 1990—Subsec. (b). Pub. L. 101–510 inserted before period at end “, and, if eligible, shall each be paid the overseas recruitment or retention differential provided for in [section 3657 of this title](./chapter-051-panama-canal.md#section-3657)”.
 
-#### Delegation of Functions
-Authority of President under this section to fix the compensation of and to define authorities and duties of Deputy Administrator delegated to Secretary of Defense, see section 1–302 of Ex. Ord. No. 12215, May 27, 1980, 45 F.R. 36044, set out as a note under [section 3601 of this title](./chapter-051-panama-canal.md#section-3601).
-
 #### Savings Provision
 Pub. L. 104–201, div. C, title XXXV, § 3524(b), Sept. 23, 1996, 110 Stat. 2861, provided that: “Nothing in this section [amending this section] shall be considered to affect— “(1) the tenure of the individual serving as Deputy Administrator of the Commission on the day before subsection (a) takes effect [section 3524(a) of Pub. L. 104–201, effective Sept. 23, 1996]; or “(2) until modified under section 1104(b) of the Panama Canal Act of 1979 [subsec. (b) of this section], as amended by subsection (a), the compensation of the individual so serving.”
+
+#### Delegation of Functions
+Authority of President under this section to fix the compensation of and to define authorities and duties of Deputy Administrator delegated to Secretary of Defense, see section 1–302 of Ex. Ord. No. 12215, May 27, 1980, 45 F.R. 36044, set out as a note under [section 3601 of this title](./chapter-051-panama-canal.md#section-3601).
 
 
 <a id="section-3617"></a>
@@ -536,7 +536,7 @@ Functions vested in President by this section delegated to Secretary of State wh
 
   (B) Members of a reserve component of the armed forces.
 
-  (C) Members of the Commissioned Reserve Corps of the Public Health Service.
+  (C) Members of the Commissioned Reserve Corps 11 See Change of Name note below. of the Public Health Service.
 
 (2) The consent of the Congress under paragraph (1) is effective without regard to subsection (b) of [section 908 of title 37](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section908&num=0&edition=prelim) (relating to approval required for employment of Reserve and retired members by foreign governments).
 
@@ -552,6 +552,9 @@ In subsec. (b)(4), “sections 1343, 1344, and 1349(b) of title 31” substitute
 1997—Subsec. (b). Pub. L. 105–85, § 3550(d)(2)(A), substituted “October 1, 1979” for “the effective date of this Act”.
 
 Subsecs. (e), (f). Pub. L. 105–85, § 3522, added subsecs. (e) and (f).
+
+#### Change of Name
+Reference to Reserve Corps of the Public Health Service deemed to be a reference to the Ready Reserve Corps, see [section 402(c)(3) of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section402/c/3&num=0&edition=prelim), The Public Health and Welfare.
 
 #### Delegation of Functions
 Functions vested in President by subsec. (d) of this section delegated to Secretary of State, see section 1–402 of Ex. Ord. No. 12215, May 27, 1980, 45 F.R. 36044, set out as a note under [section 3601 of this title](./chapter-051-panama-canal.md#section-3601).
@@ -2637,8 +2640,8 @@ Until the termination of the Panama Canal Treaty of 1977, the President shall re
 
 ### Statutory Notes
 
-#### Delegation of Functions
-Functions vested in President by this section delegated to Secretary of State who shall perform such function in coordination with Secretary of Defense pursuant to section 1–401 of Ex. Ord. No. 12215, May 27, 1980, 45 F.R. 36044, set out as a note under [section 3601 of this title](./chapter-051-panama-canal.md#section-3601).
-
 #### Report to Congress on Condition of Panama Canal and Canal Operations
 Pub. L. 100–203, title V, § 5418, Dec. 22, 1987, 101 Stat. 1330–271, provided that out of the funds authorized to be appropriated by part 1 (§§ 5411 to 5418) of subtitle E of title V of Pub. L. 100–203, the Panama Canal Commission was to prepare and submit to Congress a report on the condition of the Panama Canal and potential adverse effects on United States shipping and commerce and report on the effect on canal operations of certain Panamanian Government and military actions.
+
+#### Delegation of Functions
+Functions vested in President by this section delegated to Secretary of State who shall perform such function in coordination with Secretary of Defense pursuant to section 1–401 of Ex. Ord. No. 12215, May 27, 1980, 45 F.R. 36044, set out as a note under [section 3601 of this title](./chapter-051-panama-canal.md#section-3601).

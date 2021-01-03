@@ -871,10 +871,10 @@ Any eligible veteran may pursue a program of apprenticeship or other on-job trai
 
 
 <a id="section-3485"></a>
-## § 3485. Work-study allowance
+## § 3485. Work-study allowance 11 See Payment of Work-Study Allowances During Emergency Situations note below.
 **(a)**
 
-(1) Individuals utilized under the authority of subsection (b) shall be paid an additional educational assistance allowance (hereinafter in this section referred to as “work-study allowance”). Such allowance shall be paid in return for an individual’s entering into an agreement described in paragraph (3).
+(1) In accordance with paragraph (4), individuals utilized under the authority of subsection (b) shall be paid an additional educational assistance allowance (hereinafter in this section referred to as “work-study allowance”). Such allowance shall be paid in return for an individual’s entering into an agreement described in paragraph (3).
 
 (2) Such work-study allowance shall be paid in an amount equal to the product of—
 
@@ -884,7 +884,53 @@ Any eligible veteran may pursue a program of apprenticeship or other on-job trai
 
 (3) An agreement described in this paragraph is an agreement of an individual to perform services, during or between periods of enrollment, aggregating not more than a number of hours equal to 25 times the number of weeks in the semester or other applicable enrollment period, required in connection with a qualifying work-study activity.
 
-(4) For the purposes of this section, the term “qualifying work-study activity” means any of the following:
+(4)
+
+  (A) 22 See Applicability of 2020 Amendment note below. With respect to covered work-study activities, the Secretary shall carry out this section by providing to participating educational institutions an annual amount for the institution to use in paying work-study allowance under paragraph (1) to individuals enrolled at the institution.
+
+  (B) With respect to a participating educational institution that participated in the work-study program under this section during the academic year beginning August 1, 2018, the Secretary shall determine the annual amount to provide to the educational institution under subparagraph (A) as follows:
+
+    (i) For the academic year beginning August 1, 2020, the amount shall be the total amount, determined in consultation with the educational institution, that the Secretary paid under this section for covered work-study activities to individuals enrolled at such educational institution during the academic year beginning August 1, 2018.
+
+    (ii) Except as provided by clauses (ii) or (iii) of subparagraph (D), for each academic year beginning on or after August 1, 2021, the amount shall be the total amount the educational institution paid under this section for work-study allowance for covered work-study activities to individuals enrolled at such educational institution during the previous academic year in which individuals participated in the work-study program.
+
+  (C) With respect to a participating educational institution that did not participate in the work-study program under this section during the academic year beginning August 1, 2018, the Secretary shall determine the annual amount to provide to the educational institution under subparagraph (A) as follows:
+
+    (i) For the first academic year in which the educational institution participates in the work-study program beginning on or after August 1, 2020, the amount shall be an amount, determined in consultation with the educational institution, that the Secretary determines appropriate based on amounts provided to similar educational institutions pursuant to subparagraph (B).
+
+    (ii) Except as provided by clauses (ii) or (iii) of subparagraph (D), for each academic year occurring after the academic year specified in clause (i), the amount shall be the total amount the educational institution paid under this section for work-study allowance for covered work-study activities to individuals enrolled at such educational institution during the previous academic year in which individuals enrolled at such educational institution participated in the work-study program.
+
+  (D)
+
+    (i) Except as provided in clause (ii), if the Secretary provides an annual amount to a participating educational institution under subparagraph (B) or (C) that is more than the total amount the educational institution pays to individuals under paragraph (1) for covered work-study activities, the educational institution shall return to the Secretary the unpaid amount and the Secretary shall transfer such amount into the general fund of the Treasury.
+
+    (ii) If the annual amount provided to a participating educational institution under subparagraph (B) or (C) is more, but less than 25 percent more, than the total amount the educational institution pays to individuals under paragraph (1) for covered work-study activities, and the educational institution plans to participate in the work-study program under this section during the subsequent academic year, the educational institution may retain the amount of the overpayment if the educational institution notifies the Secretary of the amount of the overpayment and the intention of the educational institution to retain such amount. Any amount retained by an educational institution under this clause may only be used by the educational institution to provide work-study allowance to individuals enrolled at the educational institution.
+
+    (iii) At any time a participating educational institution may request the Secretary to increase the annual amount that the Secretary provides the educational institution under subparagraph (B) or (C). The Secretary shall approve or disapprove such request by not later than 30 days after the date of the request.
+
+    (iv) Whenever the Secretary finds that a participating educational institution paid an amount of work-study allowance under this paragraph to an individual for a purpose other than covered work-study activities, such payment shall constitute a liability of the educational institution to the United States.
+
+  (E)
+
+    (i) Pursuant to section 3690(c), section 3693, and other provisions of chapter 36 of this title, the Secretary shall ensure that participating educational institutions carry out the work-study allowance program in compliance with this section.
+
+    (ii) The Secretary may prohibit an educational institution from being a participating educational institution under this paragraph if the Secretary determines that the educational institution is not in compliance with this section.
+
+  (F) In this paragraph:
+
+    (i) The term “covered work-study activities” means qualifying work-study activities described in subparagraphs (A), (B), (H), (I), or (J) of paragraph (5) for which an individual is paid a work-study allowance.
+
+    (ii) The term “participating educational institution” means an educational institution that—
+
+      (I)
+
+        (aa) during the five-academic-year period occurring before an academic year during which the Secretary carries out this paragraph, the educational institution had on average more than 10 individuals per academic year participating in a covered work-study activity under this section; or
+
+        (bb) the educational institution is not described by item (aa) but informs the Secretary that the institution expects to have more than 10 individuals in the following academic year participating in a covered work-study activity under this section; and
+
+      (II) voluntarily chooses to be a participating educational institution under this paragraph.
+
+(5) For the purposes of this section, the term “qualifying work-study activity” means any of the following:
 
   (A) The outreach services program under chapter 63 of this title as carried out under the supervision of a Department employee or, during the period preceding June 30, 2013, or any time on or after June 30, 2017, outreach services to servicemembers and veterans furnished by employees of a State approving agency.
 
@@ -906,9 +952,15 @@ Any eligible veteran may pursue a program of apprenticeship or other on-job trai
 
   (J) Any other veterans-related position in an institution of higher learning.
 
-(5) An individual may elect, in a manner prescribed by the Secretary, to be paid in advance an amount equal to 40 percent of the total amount of the work-study allowance agreed to be paid under the agreement in return for the individual’s agreement to perform the number of hours of work specified in the agreement (but not more than an amount equal to 50 times the applicable hourly minimum wage).
+  (K) The following activities carried out at the offices of Members of Congress for such Members:
 
-(6) For the purposes of this subsection and subsection (e), the term “applicable hourly minimum wages” means—
+    (i) The distribution of information to members of the Armed Forces, veterans, and their dependents about the benefits and services under laws administered by the Secretary and other appropriate governmental and nongovernmental programs.
+
+    (ii) The preparation and processing of papers and other documents, including documents to assist in the preparation and presentation of claims for benefits under laws administered by the Secretary.
+
+(6) An individual may elect, in a manner prescribed by the Secretary, to be paid in advance an amount equal to 40 percent of the total amount of the work-study allowance agreed to be paid under the agreement in return for the individual’s agreement to perform the number of hours of work specified in the agreement (but not more than an amount equal to 50 times the applicable hourly minimum wage).
+
+(7) For the purposes of this subsection and subsection (e), the term “applicable hourly minimum wages” means—
 
   (A) the hourly minimum wage under section 6(a) of the Fair Labor Standards Act of 1938 ([29 U.S.C. 206(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section206/a&num=0&edition=prelim)); or
 
@@ -922,7 +974,7 @@ Any eligible veteran may pursue a program of apprenticeship or other on-job trai
 
 **(e)**
 
-(1) Subject to paragraph (2) of this subsection, the Secretary may, notwithstanding any other provision of law, enter into an agreement with an individual under this section, or a modification of such an agreement, whereby the individual agrees to perform a qualifying work-study activity described in subsection (a)(4) and agrees that the Secretary shall, in lieu of paying the work-study allowance payable for such services, as provided in subsection (a) of this section, deduct the amount of the allowance from the amount which the individual has been determined to be indebted to the United States by virtue of such individual’s participation in a benefits program under this chapter, chapter 30, 31, 32, 33, 35, or 36 of this title, or chapter 1606 or 1607 of title 10 (other than an indebtedness arising from a refund penalty imposed under section 2135 11 See References in Text note below. of such title).
+(1) Subject to paragraph (2) of this subsection, the Secretary may, notwithstanding any other provision of law, enter into an agreement with an individual under this section, or a modification of such an agreement, whereby the individual agrees to perform a qualifying work-study activity described in subsection (a)(5) and agrees that the Secretary shall, in lieu of paying the work-study allowance payable for such services, as provided in subsection (a) of this section, deduct the amount of the allowance from the amount which the individual has been determined to be indebted to the United States by virtue of such individual’s participation in a benefits program under this chapter, chapter 30, 31, 32, 33, 35, or 36 of this title, or chapter 1606 or 1607 of title 10 (other than an indebtedness arising from a refund penalty imposed under section 2135 33 See References in Text note below. of such title).
 
 (2)
 
@@ -948,12 +1000,23 @@ Any eligible veteran may pursue a program of apprenticeship or other on-job trai
 
 ### Statutory Notes
 
+#### Applicability of 2020 Amendment
+Amendment of section by section 6(a) and (b) of Pub. L. 116–154 applicable with respect to a quarter, semester, or term, as applicable, commencing on or after Aug. 1, 2021. See 2020 Amendment notes below.
+
 #### References in Text
-The Higher Education Act of 1965, referred to in subsec. (a)(4)(H), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219. Part T of title VIII of the Act is classified generally to part T (§ 1161t) of subchapter IX of chapter 28 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under [section 1001 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1001&num=0&edition=prelim) and Tables.
+The Higher Education Act of 1965, referred to in subsec. (a)(5)(H), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219. Part T of title VIII of the Act is classified generally to part T (§ 1161t) of subchapter IX of chapter 28 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under [section 1001 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1001&num=0&edition=prelim) and Tables.
 
 [Section 2135 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2135&num=0&edition=prelim), referred to in subsec. (e)(1), was renumbered [section 16135 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section16135&num=0&edition=prelim), Armed Forces, by Pub. L. 103–337, div. A, title XVI, § 1663(b)(2), Oct. 5, 1994, 108 Stat. 3006.
 
 #### Amendments
+2021—Subsec. (a)(5)(K). Pub. L. 116–315, § 1006(a), which directed amendment of par. (4) by adding subpar. (K) at the end, was executed by adding subpar. (K) at the end of par. (5), to reflect the probable intent of Congress and the redesignation of former par. (4) as (5) by Pub. L. 116–154, § 6(a)(2). See 2020 Amendment note below.
+
+2020—Subsec. (a)(1). Pub. L. 116–154, § 6(a)(1), substituted “In accordance with paragraph (4), individuals” for “Individuals”.
+
+Subsec. (a)(4) to (7). Pub. L. 116–154, § 6(a)(2), (3), added par. (4) and redesignated former pars. (4) to (6) as (5) to (7), respectively.
+
+Subsec. (e)(1). Pub. L. 116–154, § 6(b), substituted “subsection (a)(5)” for “subsection (a)(4)”.
+
 2017—Subsec. (a)(4)(A), (C), (F). Pub. L. 115–48, § 201, substituted “any time on or after June 30, 2017,” for “the period beginning on June 30, 2017, and ending on June 30, 2022,”.
 
 2016—Subsec. (a)(4)(A), (C), (F). Pub. L. 114–315 substituted “June 30, 2013, or the period beginning on June 30, 2017, and ending on June 30, 2022” for “June 30, 2013”.
@@ -1050,6 +1113,12 @@ Subsec. (c). Pub. L. 94–502, § 211(11), substituted “the Administrator shal
 
 Subsec. (c). Pub. L. 93–508, § 205(3), struck out parenthetical provisions relating to a limit of eight-hundred man-years or their equivalent during any fiscal year.
 
+#### Effective Date 2021 Amendment
+Pub. L. 116–315, title I, § 1006(b), Jan. 5, 2021, 134 Stat. 4940, provided that: “The amendment made by subsection (a) [amending this section] shall take effect on August 1, 2021.”
+
+#### Application of 2020 Amendment
+Pub. L. 116–154, § 6(c), Aug. 8, 2020, 134 Stat. 694, provided that: “The amendments made by this section [amending this section] shall apply with respect to a quarter, semester, or term, as applicable, commencing on or after August 1, 2021.”
+
 #### Effective Date of 2010 Amendment
 Pub. L. 111–275, title I, § 101(c), Oct. 13, 2010, 124 Stat. 2866, provided that: “The amendment made by subsection (b) [amending this section] shall take effect on October 1, 2011.”
 
@@ -1082,6 +1151,11 @@ Amendment by Pub. L. 93–508 effective Dec. 3, 1974, see section 503 of Pub. L.
 
 #### Transfer of Functions
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).
+
+#### Payment of Work-Study Allowances During Emergency Situations
+Pub. L. 116–140, § 3, Apr. 28, 2020, 134 Stat. 631, provided that: “During the covered period, the Secretary of Veterans Affairs shall apply [section 3485 of title 38](./chapter-034-veterans-educational-assistance.md#section-3485), United States Code, as if it were amended by adding at the end the following new subsection: “ ‘(f)(1) In case of an individual who is in receipt of work-study allowance pursuant to an agreement described in subsection (a)(3) as of the date on which an emergency situation occurs and who is unable to continue to perform qualifying work-study activities described in subsection (a)(4) by reason of the emergency situation— “ ‘(A) the Secretary may continue to pay work-study allowance under this section or make deductions described in subsection (e)(1) during the period of such emergency situation, notwithstanding the inability of the individual to perform such work-study activities by reason of such emergency situation; and “ ‘(B) at the option of the individual, the Secretary shall extend the agreement described in subsection (a)(3) with the individual for any subsequent period of enrollment initiated during the emergency situation, notwithstanding the inability of the individual to perform work-study activities described in subsection (a)(4) by reason of such emergency situation. “ ‘(2) The amount of work-study allowance payable to an individual under paragraph (1)(A) during the period of an emergency situation shall be an amount determined by the Secretary but may not exceed the amount that would be payable under subsection (a)(2) if the individual worked 25 hours per week paid during such period.’.”
+
+[The term “covered period” as used in section 3 of Pub. L. 116–140, set out above, means Mar. 1, 2020, to Dec. 21, 2020, see section 2 of Pub. L. 116–140, set out as a note under [section 3031 of this title](./chapter-030-all-volunteer-force-educational-assistance-program.md#section-3031).]
 
 
 <a id="section-3486-3487"></a>

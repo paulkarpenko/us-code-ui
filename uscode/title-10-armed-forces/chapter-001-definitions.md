@@ -16,7 +16,7 @@ source: >-
 
 (3) The term “possessions” includes the Virgin Islands, Guam, American Samoa, and the Guano Islands, so long as they remain possessions, but does not include any Commonwealth.
 
-(4) The term “armed forces” means the Army, Navy, Air Force, Marine Corps, and Coast Guard.
+(4) The term “armed forces” means the Army, Navy, Air Force, Marine Corps, Space Force, and Coast Guard.
 
 (5) The term “uniformed services” means—
 
@@ -38,7 +38,7 @@ source: >-
 
   (B) the Secretary of the Navy, with respect to matters concerning the Navy, the Marine Corps, and the Coast Guard when it is operating as a service in the Department of the Navy;
 
-  (C) the Secretary of the Air Force, with respect to matters concerning the Air Force; and
+  (C) the Secretary of the Air Force, with respect to matters concerning the Air Force and the Space Force; and
 
   (D) the Secretary of Homeland Security, with respect to matters concerning the Coast Guard when it is not operating as a service in the Department of the Navy.
 
@@ -60,7 +60,7 @@ source: >-
 
   (A) is designated by the Secretary of Defense as an operation in which members of the armed forces are or may become involved in military actions, operations, or hostilities against an enemy of the United States or against an opposing military force; or
 
-  (B) results in the call or order to, or retention on, active duty of members of the uniformed services under section 688, 12301(a), 12302, 12304, 12304a, 12305, or 12406 of this title, chapter 13 of this title, section 712 11 See References in Text note below. of title 14, or any other provision of law during a war or during a national emergency declared by the President or Congress.
+  (B) results in the call or order to, or retention on, active duty of members of the uniformed services under section 688, 12301(a), 12302, 12304, 12304a, 12305, or 12406 of this title, chapter 13 of this title, [section 3713 of title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section3713&num=0&edition=prelim), or any other provision of law during a war or during a national emergency declared by the President or Congress.
 
 (14) The term “supplies” includes material, equipment, and stores of all kinds.
 
@@ -108,7 +108,7 @@ source: >-
 
 (12) The term “regular”, with respect to an enlistment, appointment, grade, or office, means enlistment, appointment, grade, or office in a regular component of an armed force.
 
-(13) The term “active-duty list” means a single list for the Army, Navy, Air Force, or Marine Corps (required to be maintained under [section 620 of this title](./chapter-036-promotion-separation-and-involuntary-retirement-of-officers-on-the-active-duty-list.md#section-620)) which contains the names of all officers of that armed force, other than officers described in [section 641 of this title](./chapter-036-promotion-separation-and-involuntary-retirement-of-officers-on-the-active-duty-list.md#section-641), who are serving on active duty.
+(13) The term “active-duty list” means a single list for the Army, Navy, Air Force, Marine Corps, or Space Force (required to be maintained under [section 620 of this title](./chapter-036-promotion-separation-and-involuntary-retirement-of-officers-on-the-active-duty-list.md#section-620)) which contains the names of all officers of that armed force, other than officers described in [section 641 of this title](./chapter-036-promotion-separation-and-involuntary-retirement-of-officers-on-the-active-duty-list.md#section-641), who are serving on active duty.
 
 (14) The term “medical officer” means an officer of the Medical Corps of the Army, an officer of the Medical Corps of the Navy, or an officer in the Air Force designated as a medical officer.
 
@@ -315,8 +315,6 @@ The words “, other than a commissioned warrant officer,” are inserted to ref
 #### References in Text
 [Section 125(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section125/d&num=0&edition=prelim), referred to in subsec. (a)(12)(A), was repealed by Pub. L. 99–433, title III, § 301(b)(1), Oct. 1, 1986, 100 Stat. 1022.
 
-[Section 712 of title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section712&num=0&edition=prelim), referred to in subsec. (a)(13)(B), was redesignated [section 3713 of title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section3713&num=0&edition=prelim) by Pub. L. 115–282, title I, § 118(b), Dec. 4, 2018, 132 Stat. 4233, and references to [section 712 of title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section712&num=0&edition=prelim) deemed to refer to such redesignated section, see section 123(b)(1) of Pub. L. 115–282, set out as a References to Sections of Title 14 as Redesignated by Pub. L. 115–282 note preceding [section 101 of Title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section101&num=0&edition=prelim), Coast Guard.
-
 The Defense Base Closure and Realignment Act of 1990, referred to in subsec. (a)(17)(B), is part A of title XXIX of div. B of Pub. L. 101–510, Nov. 5, 1990, 104 Stat. 1808, as amended, which is set out as a note under [section 2687 of this title](./chapter-159-real-property-related-personal-property-and-lease-of-non-excess-property.md#section-2687). For complete classification of this Act to the Code, see Tables.
 
 The Defense Authorization Amendments and Base Closure and Realignment Act, referred to in subsec. (a)(17)(C), is Pub. L. 100–526, Oct. 24, 1988, 102 Stat. 2623, as amended. Title II of the Act is set out as a note under [section 2687 of this title](./chapter-159-real-property-related-personal-property-and-lease-of-non-excess-property.md#section-2687). For complete classification of this Act to the Code, see Short Title of 1988 Amendment note set out under [section 2687 of this title](./chapter-159-real-property-related-personal-property-and-lease-of-non-excess-property.md#section-2687) and Tables.
@@ -327,6 +325,14 @@ The Atomic Energy Act of 1954, referred to in subsec. (e)(4)(C)(iii), is act Aug
 Pub. L. 107–296, § 1704(b)(1), which directed amendment of [section 101(9) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section101/9&num=0&edition=prelim) by substituting of “of Homeland Security” for “of Transportation” wherever appearing, could not be executed because there is no section 101(9).
 
 #### Amendments
+2021—Subsec. (a)(13)(B). Pub. L. 116–283, § 1081(a)(5), substituted “section 3713” for “section 712”.
+
+Subsec. (b)(13). Pub. L. 116–283, § 924(a), substituted “Marine Corps, or Space Force” for “or Marine Corps”.
+
+2019—Subsec. (a)(4). Pub. L. 116–92, § 952(c), inserted “Space Force,” after “Marine Corps,”.
+
+Subsec. (a)(9)(C). Pub. L. 116–92, § 958(a)(1), inserted “and the Space Force” after “concerning the Air Force”.
+
 2018—Subsec. (a)(13)(B). Pub. L. 115–232, § 1204(a)(3), substituted “chapter 13” for “chapter 15”.
 
 Subsec. (e)(6). Pub. L. 115–232, § 312(f), struck out “task critical assets and other” before “mission essential operations”.
@@ -471,6 +477,9 @@ Amendment by Pub. L. 87–649 effective Nov. 1, 1962, see section 15 of Pub. L. 
 #### Effective Date of 1958 Amendment
 Pub. L. 85–861, § 33(g), Sept. 2, 1958, 72 Stat. 1568, provided that: “This section [see Tables for classification] is effective as of August 10, 1956, for all purposes.”
 
+#### Short Title of 2019 Amendment
+Pub. L. 116–92, div. A, title IX, § 951, Dec. 20, 2019, 133 Stat. 1561, provided that: “This subtitle [subtitle D (§§ 951–961) of div. A of Pub. L. 116–92, see Tables for classification] may be cited as the ‘United States Space Force Act’.”
+
 #### Short Title of 2018 Amendment
 Pub. L. 115–232, div. A, title VI, § 621(a), Aug. 13, 2018, 132 Stat. 1798, provided that: “This section [enacting [section 1065 of this title](./chapter-054-commissary-and-exchange-benefits.md#section-1065) and provisions set out as a note under [section 1065 of this title](./chapter-054-commissary-and-exchange-benefits.md#section-1065)] may be cited as the ‘Purple Heart and Disabled Veterans Equal Access Act of 2018’.”
 
@@ -508,6 +517,9 @@ Pub. L. 96–513, § 1(a), Dec. 12, 1980, 94 Stat. 2835, provided that: “This 
 #### Savings Provision
 Pub. L. 96–513, title VII, § 703, Dec. 12, 1980, 94 Stat. 2956, provided that: “Except as otherwise provided in this Act, the provisions of this Act and the amendments made by this Act [see Tables for classification] do not affect rights and duties that matured, penalties that were incurred, and proceedings that were begun before the effective date of this Act [see Effective Date of 1980 Amendment note above].”
 
+#### Rule of Construction Relating to use of Military Force
+Pub. L. 116–283, div. A, title XII, § 1299S, Jan. 1, 2021, 134 Stat. 4028, provided that: “Nothing in this Act [see Tables for classification] or any amendment made by this Act may be construed to authorize the use of military force.”
+
 #### Transfer of Functions
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).
 
@@ -521,9 +533,13 @@ Authority vested by this title in “military departments”, “the Secretary c
 Authority vested by this title in “military departments”, “the Secretary concerned”, or “the Secretary of Defense” to be exercised, with respect to commissioned officers of Public Health Service, by Secretary of Health and Human Services or his designee, see [section 213a of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section213a&num=0&edition=prelim), The Public Health and Welfare.
 
 #### Coordination of Certain Sections of an Act With Other Provisions of That Act
-Pub. L. 115–232, div. A, title X, § 1081(g), Aug. 13, 2018, 132 Stat. 1987, provided that: “For purposes of applying amendments made by provisions of this Act other than this section [see Tables for classification], the amendments made by this section shall be treated as having been enacted immediately before any such amendments by other provisions of this Act.”
+Pub. L. 116–283, div. A, title X, § 1081(g), Jan. 1, 2021, 134 Stat. 3875, provided that: “For purposes of applying amendments made by provisions of this Act other than this section [see Tables for classification], the amendments made by this section shall be treated as having been enacted immediately before any such amendments by other provisions of this Act.”
 
 Similar provisions were contained in the following prior acts:
+
+Pub. L. 116–92, div. A, title XVII, § 1731(f), Dec. 20, 2019, 133 Stat. 1816.
+
+Pub. L. 115–232, div. A, title X, § 1081(g), Aug. 13, 2018, 132 Stat. 1987.
 
 Pub. L. 115–91, div. A, title X, § 1081(j), Dec. 12, 2017, 131 Stat. 1601.
 
@@ -561,6 +577,10 @@ Pub. L. 102–484, div. A, title X, § 1055, Oct. 23, 1992, 106 Stat. 2503.
 
 #### Congressional Defense Committees Defined
 The following provisions provided that the term “congressional defense committees” for purposes of the Acts in which they were contained has the meaning given that term in subsec. (a)(16) of this section:
+
+Pub. L. 116–283, § 3, Jan. 1, 2021, 134 Stat. 3421.
+
+Pub. L. 116–92, § 3, Dec. 20, 2019, 133 Stat. 1231.
 
 Pub. L. 115–232, § 3, Aug. 13, 2018, 132 Stat. 1658.
 

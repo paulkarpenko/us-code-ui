@@ -129,7 +129,7 @@ Pub. L. 108–419, § 6, Nov. 30, 2004, 118 Stat. 2369, as amended by Pub. L. 10
 
 (2) **Definition.—** — In this subsection, the term “adjudication” has the meaning given that term in [section 551 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section551&num=0&edition=prelim), but does not include mediation.
 
-**(b) Staff.—** The Chief Copyright Royalty Judge shall hire 3 full-time staff members to assist the Copyright Royalty Judges in performing their functions.
+**(b) Staff.—** The Chief Copyright Royalty Judge shall hire full-time staff members to assist the Copyright Royalty Judges in performing their functions.
 
 **(c) Terms.—** The individual first appointed as the Chief Copyright Royalty Judge shall be appointed to a term of 6 years, and of the remaining individuals first appointed as Copyright Royalty Judges, 1 shall be appointed to a term of 4 years, and the other shall be appointed to a term of 2 years. Thereafter, the terms of succeeding Copyright Royalty Judges shall each be 6 years. An individual serving as a Copyright Royalty Judge may be reappointed to subsequent terms. The term of a Copyright Royalty Judge shall begin when the term of the predecessor of that Copyright Royalty Judge ends. When the term of office of a Copyright Royalty Judge ends, the individual serving that term may continue to serve until a successor is selected.
 
@@ -143,13 +143,7 @@ Pub. L. 108–419, § 6, Nov. 30, 2004, 118 Stat. 2369, as amended by Pub. L. 10
 
 (1) **Judges.—** — The Chief Copyright Royalty Judge shall receive compensation at the rate of basic pay payable for level AL–1 for administrative law judges pursuant to [section 5372(b) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5372/b&num=0&edition=prelim), and each of the other two Copyright Royalty Judges shall receive compensation at the rate of basic pay payable for level AL–2 for administrative law judges pursuant to such section. The compensation of the Copyright Royalty Judges shall not be subject to any regulations adopted by the Office of Personnel Management pursuant to its authority under [section 5376(b)(1) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5376/b/1&num=0&edition=prelim).
 
-(2) **Staff members.—** — Of the staff members appointed under subsection (b)—
-
-  (A) the rate of pay of 1 staff member shall be not more than the basic rate of pay payable for level 10 of GS–15 of the General Schedule;
-
-  (B) the rate of pay of 1 staff member shall be not less than the basic rate of pay payable for GS–13 of the General Schedule and not more than the basic rate of pay payable for level 10 of GS–14 of such Schedule; and
-
-  (C) the rate of pay for the third staff member shall be not less than the basic rate of pay payable for GS–8 of the General Schedule and not more than the basic rate of pay payable for level 10 of GS–11 of such Schedule.
+(2) **Staff members.—** — Staff members appointed under subsection (b) shall be compensated at a rate not more than the basic rate of pay payable for level 10 of GS–15 of the General Schedule.
 
 (3) **Locality pay.—** — All rates of pay referred to under this subsection shall include locality pay.
 
@@ -196,11 +190,24 @@ The General Schedule, referred to in subsec. (e)(2), is set out under [section 5
 A prior section 802, Pub. L. 94–553, title I, § 101, Oct. 19, 1976, 90 Stat. 2596; Pub. L. 101–319, § 2(a), July 3, 1990, 104 Stat. 290; Pub. L. 103–198, § 2(b), Dec. 17, 1993, 107 Stat. 2305; Pub. L. 104–39, § 5(d)(2)–(4), Nov. 1, 1995, 109 Stat. 349; Pub. L. 105–80, § 8(b), Nov. 13, 1997, 111 Stat. 1533; Pub. L. 105–304, title IV, § 405(d), (e)(2)–(4), Oct. 28, 1998, 112 Stat. 2902; Pub. L. 107–273, div. C, title III, § 13301(c)(2), Nov. 2, 2002, 116 Stat. 1912, related to membership and proceedings of copyright arbitration royalty panels, prior to the general amendment of this chapter by Pub. L. 108–419.
 
 #### Amendments
+2019—Subsec. (b). Pub. L. 116–94, § 1405(a)(1)(A), struck out “3” before “full-time”.
+
+Subsec. (e)(2). Pub. L. 116–94, § 1405(a)(1)(B), added par. (2) and struck out former par. (2). Prior to amendment, text read as follows: “Of the staff members appointed under subsection (b)—
+
+“(A) the rate of pay of 1 staff member shall be not more than the basic rate of pay payable for level 10 of GS–15 of the General Schedule;
+
+“(B) the rate of pay of 1 staff member shall be not less than the basic rate of pay payable for GS–13 of the General Schedule and not more than the basic rate of pay payable for level 10 of GS–14 of such Schedule; and
+
+“(C) the rate of pay for the third staff member shall be not less than the basic rate of pay payable for GS–8 of the General Schedule and not more than the basic rate of pay payable for level 10 of GS–11 of such Schedule.”
+
 2006—Subsec. (f)(1)(A)(i). Pub. L. 109–303, § 3(3)(A), substituted “subparagraph (B) and clause (ii) of this subparagraph” for “clause (ii) of this subparagraph and subparagraph (B)”.
 
 Subsec. (f)(1)(A)(ii). Pub. L. 109–303, § 3(3)(B), added cl. (ii) and struck out former cl. (ii) which related to request for interpretation by the Register of Copyrights of material question of substantive law concerning construction of provisions of this title that are the subject of the proceeding.
 
 Subsec. (f)(1)(D). Pub. L. 109–303, § 3(4), inserted a comma after “undertakes to consult with”.
+
+#### Effective Date of 2019 Amendment
+Pub. L. 116–94, div. P, title XIV, § 1405(b), Dec. 20, 2019, 133 Stat. 3208, provided that: “The amendments made by this section [amending this section and [section 803 of this title](./chapter-008-proceedings-by-copyright-royalty-judges.md#section-803)] shall take effect with respect to fiscal year 2020 and each fiscal year thereafter.”
 
 #### Effective Date of 2006 Amendment
 Amendment by Pub. L. 109–303 effective as if included in the Copyright Royalty and Distribution Reform Act of 2004, Pub. L. 108–419, see section 6 of Pub. L. 109–303, set out as a note under [section 111 of this title](./chapter-001-subject-matter-and-scope-of-copyright.md#section-111).
@@ -386,7 +393,7 @@ Amendment by Pub. L. 109–303 effective as if included in the Copyright Royalty
 
 (1) **Deduction of costs of library of congress and copyright office from filing fees.—**
 
-  (A) *Deduction from filing fees.—* — The Librarian of Congress may, to the extent not otherwise provided under this title, deduct from the filing fees collected under subsection (b) for a particular proceeding under this chapter the reasonable costs incurred by the Librarian of Congress, the Copyright Office, and the Copyright Royalty Judges in conducting that proceeding, other than the salaries of the Copyright Royalty Judges and the 3 staff members appointed under section 802(b).
+  (A) *Deduction from filing fees.—* — The Librarian of Congress may, to the extent not otherwise provided under this title, deduct from the filing fees collected under subsection (b) for a particular proceeding under this chapter the reasonable costs incurred by the Librarian of Congress, the Copyright Office, and the Copyright Royalty Judges in conducting that proceeding, other than the salaries of the Copyright Royalty Judges and the staff members appointed under section 802(b).
 
   (B) *Authorization of appropriations.—* — There are authorized to be appropriated such sums as may be necessary to pay the costs incurred under this chapter not covered by the filing fees collected under subsection (b). All funds made available pursuant to this subparagraph shall remain available until expended.
 
@@ -407,6 +414,8 @@ A prior section 803, Pub. L. 94–553, title I, § 101, Oct. 19, 1976, 90 Stat. 
 Another prior section 803, Pub. L. 94–553, title I, § 101, Oct. 19, 1976, 90 Stat. 2596, related to procedures of the Copyright Royalty Tribunal, prior to repeal by Pub. L. 103–198, § 2(c), Dec. 17, 1993, 107 Stat. 2307.
 
 #### Amendments
+2019—Subsec. (e)(1)(A). Pub. L. 116–94 struck out “3” before “staff members”.
+
 2018—Subsec. (c)(2)(E)(i)(II). Pub. L. 115–264 struck out “or 114(f)(2)(C)” after “under section 114(f)(1)(C)” and substituted “114(f)(3)(B)” for “114(f)(4)(B)”.
 
 2010—Subsec. (b)(6)(A). Pub. L. 111–295 substituted “All regulations issued by the Copyright Royalty Judges are subject to the approval of the Librarian of Congress and are subject to judicial review pursuant to chapter 7 of title 5, except as set forth in subsection (d).” for “All regulations issued by the Copyright Royalty Judges are subject to the approval of the Librarian of Congress.”
@@ -441,6 +450,9 @@ Subsec. (d)(3). Pub. L. 109–303, § 3(11), substituted “[Section 706 of titl
 
 2004—Subsec. (b)(1)(A)(i)(V). Pub. L. 108–447 inserted “, except that in the case of proceedings under section 111 that are scheduled to commence in 2005, such notice may not be published.” before period at end.
 
+#### Effective Date of 2019 Amendment
+Amendment by Pub. L. 116–94 effective with respect to fiscal year 2020 and each fiscal year thereafter, see section 1405(b) of Pub. L. 116–94, set out as a note under [section 802 of this title](./chapter-008-proceedings-by-copyright-royalty-judges.md#section-802).
+
 #### Effective Date of 2006 Amendment
 Amendment by Pub. L. 109–303 effective as if included in the Copyright Royalty and Distribution Reform Act of 2004, Pub. L. 108–419, see section 6 of Pub. L. 109–303, set out as a note under [section 111 of this title](./chapter-001-subject-matter-and-scope-of-copyright.md#section-111).
 
@@ -465,7 +477,7 @@ Amendment by Pub. L. 109–303 effective as if included in the Copyright Royalty
 
   (A) *For eligible nonsubscription services and new subscription services.—* — Proceedings under this chapter shall be commenced as soon as practicable after the date of enactment of the Copyright Royalty and Distribution Reform Act of 2004 to determine reasonable terms and rates of royalty payments under sections 114 and 112 for the activities of eligible nonsubscription transmission services and new subscription services, to be effective for the period beginning on January 1, 2006, and ending on December 31, 2010. Such proceedings shall next be commenced in January 2009 to determine reasonable terms and rates of royalty payments, to become effective on January 1, 2011. Thereafter, such proceedings shall be repeated in each subsequent fifth calendar year.
 
-  (B) *For preexisting subscription and satellite digital audio radio services.—* — Proceedings under this chapter shall be commenced in January 2006 to determine reasonable terms and rates of royalty payments under sections 114 and 112 for the activities of preexisting subscription services, to be effective during the period beginning on January 1, 2008, and ending on December 31, 2012, and preexisting satellite digital audio radio services, to be effective during the period beginning on January 1, 2007, and ending on December 31, 2012. Such proceedings shall next be commenced in 2011 to determine reasonable terms and rates of royalty payments, to become effective on January 1, 2013. Thereafter, such proceedings shall be repeated in each subsequent fifth calendar year, except that—(i) 11 So in original. with respect to preexisting subscription services, the terms and rates finally determined for the rate period ending on December 31, 2022, shall remain in effect through December 31, 2027, and there shall be no proceeding to determine terms and rates for preexisting subscription services for the period beginning on January 1, 2023, and ending on December 31, 2027; and” “ \1 (ii) with respect to pre-existing satellite digital audio radio services, the terms and rates set forth by the Copyright Royalty Judges on December 14, 2017, in their initial determination for the rate period ending on December 31, 2022, shall be in effect through December 31, 2027, without any change based on a rehearing under section 803(c)(2) and without the possibility of appeal under section 803(d), and there shall be no proceeding to determine terms and rates for preexisting satellite digital audio radio services for the period beginning on January 1, 2023, and ending on December 31, 2027.
+  (B) *For preexisting subscription and satellite digital audio radio services.—* — Proceedings under this chapter shall be commenced in January 2006 to determine reasonable terms and rates of royalty payments under sections 114 and 112 for the activities of preexisting subscription services, to be effective during the period beginning on January 1, 2008, and ending on December 31, 2012, and preexisting satellite digital audio radio services, to be effective during the period beginning on January 1, 2007, and ending on December 31, 2012. Such proceedings shall next be commenced in 2011 to determine reasonable terms and rates of royalty payments, to become effective on January 1, 2013. Thereafter, such proceedings shall be repeated in each subsequent fifth calendar year, except that—(i) 11 So in original. with respect to preexisting subscription services, the terms and rates finally determined for the rate period ending on December 31, 2022, shall remain in effect through December 31, 2027, and there shall be no proceeding to determine terms and rates for preexisting subscription services for the period beginning on January 1, 2023, and ending on December 31, 2027; and” “ 1 (ii) with respect to pre-existing satellite digital audio radio services, the terms and rates set forth by the Copyright Royalty Judges on December 14, 2017, in their initial determination for the rate period ending on December 31, 2022, shall be in effect through December 31, 2027, without any change based on a rehearing under section 803(c)(2) and without the possibility of appeal under section 803(d), and there shall be no proceeding to determine terms and rates for preexisting satellite digital audio radio services for the period beginning on January 1, 2023, and ending on December 31, 2027.
 
   (C)
 

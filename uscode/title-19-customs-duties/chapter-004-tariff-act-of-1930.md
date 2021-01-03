@@ -123,45 +123,17 @@ References to section 1303 in chapter 4 of this title defined to mean section 13
 
 **(j) Delivery withheld until marked** No imported article held in customs custody for inspection, examination, or appraisement shall be delivered until such article and every other article of the importation (or their containers), whether or not released from customs custody, shall have been marked in accordance with the requirements of this section or until the amount of duty estimated to be payable under subsection (i) of this section has been deposited. Nothing in this section shall be construed as excepting any article (or its container) from the particular requirements of marking provided for in any other provision of law.
 
-**(k) Treatment of goods of NAFTA country**
+**(k) Treatment of goods of a USMCA country** In applying this section to an article that qualifies as a good of a USMCA country (as defined in [section 4502 of this title](./chapter-029-united-states-mexico-canada-agreement-implementation.md#section-4502))—
 
-(1) **Application of section** — In applying this section to an article that qualifies as a good of a NAFTA country (as defined in [section 3301(4) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section3301/4&num=0&edition=prelim)) under the regulations issued by the Secretary to implement Annex 311 of the North American Free Trade Agreement—
+(1) the exemption under subsection (a)(3)(H) shall be applied by substituting “reasonably know” for “necessarily know”;
 
-  (A) the exemption under subsection (a)(3)(H) shall be applied by substituting “reasonably know” for “necessarily know”;
+(2) the Secretary shall exempt the good from the requirements for marking under subsection (a) if the good—
 
-  (B) the Secretary shall exempt the good from the requirements for marking under subsection (a) if the good—
+  (A) is an original work of art; or
 
-    (i) is an original work of art, or
+  (B) is provided for under subheading 6904.10, heading 8541, or heading 8542 of the Harmonized Tariff Schedule of the United States; and
 
-    (ii) is provided for under subheading 6904.10, heading 8541, or heading 8542 of the Harmonized Tariff Schedule of the United States; and
-
-  (C) subsection (b) does not apply to the usual container of any good described in subsection (a)(3)(E) or (I) or subparagraph (B)(i) or (ii) of this paragraph.
-
-(2) **Petition rights of NAFTA exporters and producers regarding marking determinations**
-
-  (A) *Definitions* — For purposes of this paragraph:
-
-    (i) The term “adverse marking decision” means a determination by the Customs Service which an exporter or producer of merchandise believes to be contrary to Annex 311 of the North American Free Trade Agreement.
-
-    (ii) A person may not be treated as the exporter or producer of merchandise regarding which an adverse marking decision was made unless such person—
-
-      (I) if claiming to be the exporter, is located in a NAFTA country and is required to maintain records in that country regarding exportations to NAFTA countries; or
-
-      (II) if claiming to be the producer, grows, mines, harvests, fishes, traps, hunts, manufactures, processes, or assembles such merchandise in a NAFTA country.
-
-  (B) *Intervention or petition regarding adverse marking decisions* — If the Customs Service makes an adverse marking decision regarding any merchandise, the Customs Service shall, upon written request by the exporter or producer of the merchandise, provide to the exporter or producer a statement of the basis for the decision. If the exporter or producer believes that the decision is not correct, it may intervene in any protest proceeding initiated by the importer of the merchandise. If the importer does not file a protest with regard to the decision, the exporter or producer may file a petition with the Customs Service setting forth—
-
-    (i) a description of the merchandise; and
-
-    (ii) the basis for its claim that the merchandise should be marked as a good of a NAFTA country.
-
-  (C) *Effect of determination regarding decision* — If, after receipt and consideration of a petition filed by an exporter or producer under subparagraph (B), the Customs Service determines that the adverse marking decision—
-
-    (i) is not correct, the Customs Service shall notify the petitioner of the determination and all merchandise entered, or withdrawn from warehouse for consumption, more than 30 days after the date that notice of the determination under this clause is published in the weekly Custom Bulletin shall be marked in conformity with the determination; or
-
-    (ii) is correct, the Customs Service shall notify the petitioner that the petition is denied.
-
-  (D) *Judicial review* — For purposes of judicial review, the denial of a petition under subparagraph (C)(ii) shall be treated as if it were a denial of a petition of an interested party under [section 1516 of this title](./chapter-004-tariff-act-of-1930.md#section-1516) regarding an issue arising under any of the preceding provisions of this section.
+(3) subsection (b) does not apply to the usual container of any good described in subsection (a)(3)(E) or (I) or paragraph (2)(A) or (B) of this subsection.
 
 **(l) Penalties** Any person who, with intent to conceal the information given thereby or contained therein, defaces, destroys, removes, alters, covers, obscures, or obliterates any mark required under the provisions of this chapter shall—
 
@@ -172,12 +144,14 @@ References to section 1303 in chapter 4 of this title defined to mean section 13
 ### Statutory Notes
 
 #### References in Text
-The Harmonized Tariff Schedule of the United States, referred to in subsecs. (f) to (h) and (k)(1)(B)(ii), is not set out in the Code. See Publication of Harmonized Tariff Schedule note set out under [section 1202 of this title](./chapter-004-tariff-act-of-1930.md#section-1202).
+The Harmonized Tariff Schedule of the United States, referred to in subsecs. (f) to (h) and (k)(2)(B), is not set out in the Code. See Publication of Harmonized Tariff Schedule note set out under [section 1202 of this title](./chapter-004-tariff-act-of-1930.md#section-1202).
 
 #### Prior Provisions
 Provisions dealing with the subject matter of this section and former [section 133 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section133&num=0&edition=prelim) were contained in act Oct. 3, 1913, ch. 16, § IV, F, subsecs. 1 and 2, 38 Stat. 194, superseding similar provisions of previous tariff acts. Those subsections were superseded by act Sept. 21, 1922, ch. 356, title III, § 304(a), 42 Stat. 947, and repealed by § 321 of that act. Section 304(a) of the act of 1922 was superseded by section 304 of act June 17, 1930, comprising this section, and repealed by section 651(a)(1) of the 1930 act.
 
 #### Amendments
+2020—Subsec. (k). Pub. L. 116–113 added subsec. (k) and struck out former subsec. (k) which related to treatment of goods of a NAFTA country.
+
 2016—Subsec. (e). Pub. L. 114–125, § 917(a)(3), inserted before period at end “in a location such that it will remain visible after installation”.
 
 Pub. L. 114–125, § 917(a)(2), which directed insertion of “inlet frames, tree and trench grates, lampposts, lamppost bases, cast utility poles, bollards, hydrants, utility boxes,” before “manhole rings,”, was executed by making the insertion before “manhole rings or frames,” to reflect the probable intent of Congress.
@@ -214,6 +188,11 @@ Subsecs. (h), (i). Pub. L. 103–182, § 207(a)(4), (5), added subsec. (h) and r
 
 1938—Act June 25, 1938, amended section generally.
 
+#### Effective Date of 2020 Amendment
+Pub. L. 116–113, title II, § 209(d), Jan. 29, 2020, 134 Stat. 53, provided that: “(1) In general.—The amendments made by this section [amending this section and sections 1509 and 1628 of this title] shall—“(A) take effect on the date on which the USMCA enters into force [July 1, 2020]; and “(B) apply with respect to a good entered for consumption, or withdrawn from warehouse for consumption, on or after that date. “(2) Transition from nafta treatment.—In the case of a good entered for consumption, or withdrawn from warehouse for consumption, before the date on which the USMCA enters into force—“(A) the amendments made by this section shall not apply with respect to the good; and “(B) the provisions of law amended by this section, as such provisions were in effect on the day before that date, shall continue to apply on and after that date with respect to the good.”
+
+[For definition of “USMCA” as used in section 209(d) of Pub. L. 116–113, set out above, see [section 4502 of this title](./chapter-029-united-states-mexico-canada-agreement-implementation.md#section-4502).]
+
 #### Effective Date of 2016 Amendment
 Pub. L. 114–125, title IX, § 917(b), Feb. 24, 2016, 130 Stat. 279, provided that: “The amendments made by subsection (a) [amending this section] take effect on the date of the enactment of this Act [Feb. 24, 2016] and apply with respect to the importation of castings described in such amendments on or after the date that is 180 days after such date of enactment.”
 
@@ -224,7 +203,7 @@ Pub. L. 106–36, title II, § 2423(c), June 25, 1999, 113 Stat. 180, provided t
 Pub. L. 104–295, § 14(c), Oct. 11, 1996, 110 Stat. 3522, provided that: “The amendments made by this section [amending this section] apply to goods entered, or withdrawn from warehouse for consumption, on or after the date of the enactment of this Act [Oct. 11, 1996].”
 
 #### Effective Date of 1993 Amendment
-Amendment by Pub. L. 103–182 effective on the date the North American Free Trade Agreement enters into force with respect to the United States [Jan. 1, 1994], see section 213(b) of Pub. L. 103–182, set out as an Effective Date note under [section 3331 of this title](./chapter-021-north-american-free-trade.md#section-3331).
+Amendment by Pub. L. 103–182 effective on the date the North American Free Trade Agreement enters into force with respect to the United States (Jan. 1, 1994), see section 213(b) of Pub. L. 103–182, formerly set out as an Effective Date note under former [section 3331 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section3331&num=0&edition=prelim).
 
 #### Effective Date of 1988 Amendment
 Pub. L. 100–418, title I, § 1907(a)(2), Aug. 23, 1988, 102 Stat. 1314, provided that: “(A) The amendment made by paragraph (1) [amending this section] applies with respect to acts committed on or after the date of the enactment of this Act [Aug. 23, 1988]. “(B) The conviction of a person under section 304(h) of the Tariff Act of 1930 [[19 U.S.C. 1304(h)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1304/h&num=0&edition=prelim)] for an act committed before the date of the enactment of this Act shall be disregarded for purposes of applying paragraph (2) of such subsection (as added by the amendment made by paragraph (1) of this subsection[)].”
@@ -249,7 +228,7 @@ For transfer of functions, personnel, assets, and liabilities of the United Stat
 Functions of all other officers of Department of the Treasury and functions of all agencies and employees of such Department transferred, with certain exceptions, to Secretary of the Treasury, with power vested in him to authorize their performance or performance of any of his functions, by any of such officers, agencies, and employees, by Reorg. Plan No. 26 of 1950, §§ 1, 2, eff. July 31, 1950, 15 F.R. 4935, 64 Stat. 1280, 1281, set out in the Appendix to Title 5, Government Organization and Employees. Customs officers and employees, referred to in text, were under Department of the Treasury.
 
 #### Marking Requirements for Articles Qualifying as Goods of NAFTA Country
-Pub. L. 103–182, title II, § 207(b), Dec. 8, 1993, 107 Stat. 2097, provided that: “Articles that qualify as goods of a NAFTA country under regulations issued by the Secretary in accordance with Annex 311 of the Agreement [North American Free Trade Agreement] are exempt from the marking requirements promulgated by the Secretary of the Treasury under section 1907(c) of the Omnibus Trade and Competitiveness Act of 1988 (Public Law 100–418 [102 Stat. 1315]), but are subject to the requirements of section 304 of the Tariff Act of 1930 ([19 U.S.C. 1304](./chapter-004-tariff-act-of-1930.md#section-1304)).”
+Pub. L. 103–182, title II, § 207(b), Dec. 8, 1993, 107 Stat. 2097, which provided that articles qualifying as goods of a NAFTA country were subject to the requirements of this section, was repealed by Pub. L. 116–113, title VI, § 601, Jan. 29, 2020, 134 Stat. 78, effective on the date the USMCA entered into force (July 1, 2020).
 
 #### Plan Amendments Not Required Until January 1, 1989
 For provisions directing that if any amendments made by subtitle A or subtitle C of title XI [§§ 1101–1147 and 1171–1177] or title XVIII [§§ 1801–1899A] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under [section 401 of Title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section401&num=0&edition=prelim), Internal Revenue Code.
@@ -407,7 +386,7 @@ Pub. L. 108–90, title V, § 514, Oct. 1, 2003, 117 Stat. 1154, provided that: 
 Pub. L. 108–90, title V, § 515, Oct. 1, 2003, 117 Stat. 1154, provided that: “For fiscal year 2004 and thereafter, none of the funds appropriated or otherwise made available to the Department of Homeland Security may be used to allow— “(1) the importation into the United States of any good, ware, article, or merchandise mined, produced, or manufactured by forced or indentured child labor, as determined under section 307 of the Tariff Act of 1930 ([19 U.S.C. 1307](./chapter-004-tariff-act-of-1930.md#section-1307)); or “(2) the release into the United States of any good, ware, article, or merchandise on which there is in effect a detention order under such section 307 on the basis that the good, ware, article, or merchandise may have been mined, produced, or manufactured by forced or indentured child labor.”
 
 #### Reporting Requirement on Forced Labor Products Destined for United States Market
-Pub. L. 105–261, div. C, title XXXVII, § 3702, Oct. 17, 1998, 112 Stat. 2275, provided that: “(a) Report to Congress.—Not later than 1 year after the date of the enactment of this Act [Oct. 17, 1998], the Commissioner of Customs shall prepare and transmit to the Congress a report on products made with forced labor that are destined for the United States market. “(b) Contents of Report.—The report under subsection (a) shall include information concerning the following:“(1) The extent of the use of forced labor in manufacturing products destined for the United States market. “(2) The volume of products made with forced labor, destined for the United States market, that is in violation of section 307 of the Tariff Act of 1930 [[19 U.S.C. 1307](./chapter-004-tariff-act-of-1930.md#section-1307)] or [section 1761 of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section1761&num=0&edition=prelim), United States Code, and is seized by the United States Customs Service. “(3) The progress of the United States Customs Service in identifying and interdicting products made with forced labor that are destined for the United States market.”
+Pub. L. 105–261, div. C, title XXXVII, § 3702, Oct. 17, 1998, 112 Stat. 2275, required the Commissioner of Customs, by 1 year after Oct. 17, 1998, to prepare and transmit to Congress a report, with specified information, on products made with forced labor that are destined for the United States market.
 
 #### Sense of Congress Requesting President To Instruct Secretary of the Treasury To Enforce Section 1307 Without Delay
 Pub. L. 100–418, title I, § 1906, Aug. 23, 1988, 102 Stat. 1313, related to Congressional findings of deplorable forced labor conditions in former Soviet Union and request of President to instruct Secretary of the Treasury to enforce this section without delay, prior to repeal by Pub. L. 103–199, title II, § 204(a), Dec. 17, 1993, 107 Stat. 2322.
@@ -576,6 +555,8 @@ Act March 24, 1874, referred to in text, which provided that “importers’ bon
 
 R.S. § 3433, referred to in text, was amended by act Feb. 27, 1877, ch. 69, 19 Stat. 248. The provisions of R.S. § 3433 as they existed prior to the amendment by act Feb. 27, 1877, were reenacted as section 10 of act Oct. 1, 1890, ch. 1244, 26 Stat. 614. Section 55 of said act Oct. 1, 1890, repealed all laws and parts of laws inconsistent therewith. The provisions of said section 10 of act Oct. 1, 1890, were incorporated into the Internal Revenue Code of 1939, as subsections (a), (b), (c), and (d)(1) of section 3177. See [section 5521 of Title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section5521&num=0&edition=prelim), Internal Revenue Code.
 
+The terms “drawback” and “country”, referred to in text, are not defined in sections 4534(a) and 4502 of this title. However, the terms “USMCA drawback” and “USMCA country” are defined in those two sections, respectively. Amendment by section 501(e)(1)(A) of Pub. L. 116–113 struck out “NAFTA” before those terms but did not insert “USMCA”. See 2020 Amendment note below.
+
 Section 204 of the United States-Canada Free-Trade Agreement Implementation Act of 1988, referred to in text, is section 204 of Pub. L. 100–449, which is set out in a note under [section 2112 of this title](./chapter-012-trade-act-of-1974.md#section-2112).
 
 Section 203(a) of the United States-Chile Free Trade Agreement Implementation Act, referred to in text, is section 203(a) of Pub. L. 108–77, which is set out in a note under [section 3805 of this title](./chapter-024-bipartisan-trade-promotion-authority.md#section-3805).
@@ -586,6 +567,12 @@ Provisions similar to those in this section were contained in act Oct. 3, 1913, 
 Section IV, M, of the act of 1913 superseded previous similar provisions of the Payne-Aldrich Tariff Act of Aug. 5, 1909, ch. 6, § 23, 36 Stat. 88, which superseded those of the Dingley Tariff Act of July 24, 1897, ch. 11, § 15, 30 Stat. 207. Similar provisions were contained in the Wilson Tariff Act of Aug. 27, 1894, ch. 349, § 9, 28 Stat. 548.
 
 #### Amendments
+2020—Pub. L. 116–260, in eleventh par., substituted “(subject to [section 4534(e) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section4534/e&num=0&edition=prelim))” for “(subject to [section 1508(b)(2)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1508/b/2/B&num=0&edition=prelim))”.
+
+Pub. L. 116–113, § 501(e)(1)(B), (C), in eleventh par., substituted “[section 4534(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section4534/a&num=0&edition=prelim)” for “[section 3333(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section3333/a&num=0&edition=prelim)” and “[section 4502 of this title](./chapter-029-united-states-mexico-canada-agreement-implementation.md#section-4502)” for “[section 3301(4) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section3301/4&num=0&edition=prelim)” in introductory provisions.
+
+Pub. L. 116–113, § 501(e)(1)(A), in eleventh par., struck out “NAFTA” before “drawback” in introductory provisions and before “country” in introductory provisions in two places, in par. (2), and in concluding provisions.
+
 2003—Pub. L. 108–77, §§ 107(c), 203(b)(1), temporarily added par. at end relating to goods subject to Chile FTA drawback. See Effective and Termination Dates of 2003 Amendment note below.
 
 1993—Pub. L. 103–182 amended last par. generally. Prior to amendment, last par. read as follows: “No article manufactured in a bonded warehouse, except to the extent that such article is made from an article that is a drawback eligible good under section 204(a) of the United States-Canada Free-Trade Agreement Implementation Act of 1988, may be withdrawn from such warehouse for exportation to Canada on or after January 1, 1994, or such later date as may be proclaimed by the President under section 204(b)(2)(B) of such Act of 1988, without payment of a duty on such imported merchandise in its condition, and at the rate of duty in effect, at the time of importation.”
@@ -600,11 +587,16 @@ Section IV, M, of the act of 1913 superseded previous similar provisions of the 
 
 1936—Act June 26, 1936, inserted par. at end relating to distilled spirits and wine.
 
+#### Effective Date of 2020 Amendment
+Amendment by Pub. L. 116–260 effective July 1, 2020, see section 601(h) of div. O of Pub. L. 116–260, set out as a note under [section 81c of this title](./chapter-1a-foreign-trade-zones.md#section-81c).
+
+Amendment by Pub. L. 116–113 effective on the date the USMCA enters into force (July 1, 2020) and applicable with respect to goods entered, or withdrawn from warehouse for consumption, on or after that date, see section 501(g) of Pub. L. 116–113, set out as a note under [section 81c of this title](./chapter-1a-foreign-trade-zones.md#section-81c).
+
 #### Effective and Termination Dates of 2003 Amendment
 Amendment by Pub. L. 108–77 effective on the date the United States-Chile Free Trade Agreement enters into force (Jan. 1, 2004), and to cease to be effective on the date the Agreement ceases to be in force, see section 107(a), (c) of Pub. L. 108–77, set out in a note under [section 3805 of this title](./chapter-024-bipartisan-trade-promotion-authority.md#section-3805).
 
 #### Effective Date of 1993 Amendment
-Amendment by Pub. L. 103–182 applicable (1) with respect to exports from the United States to Canada on Jan. 1, 1996, if Canada is a NAFTA country on that date and after such date for so long as Canada continues to be a NAFTA country and (2) with respect to exports from the United States to Mexico on Jan. 1, 2001, if Mexico is a NAFTA country on that date and after such date for so long as Mexico continues to be a NAFTA country, see section 213(c) of Pub. L. 103–182, set out as an Effective Date note under [section 3331 of this title](./chapter-021-north-american-free-trade.md#section-3331).
+Amendment by Pub. L. 103–182 applicable (1) with respect to exports from the United States to Canada on Jan. 1, 1996, if Canada is a NAFTA country on that date and after such date for so long as Canada continues to be a NAFTA country and (2) with respect to exports from the United States to Mexico on Jan. 1, 2001, if Mexico is a NAFTA country on that date and after such date for so long as Mexico continues to be a NAFTA country, see section 213(c) of Pub. L. 103–182, formerly set out as an Effective Date note under former [section 3331 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section3331&num=0&edition=prelim).
 
 #### Effective and Termination Dates of 1988 Amendment
 Amendment by Pub. L. 100–449 effective on date the United States-Canada Free-Trade Agreement enters into force (Jan. 1, 1989), and to cease to have effect on date Agreement ceases to be in force, see section 501(a), (c) of Pub. L. 100–449, set out in a note under [section 2112 of this title](./chapter-012-trade-act-of-1974.md#section-2112).
@@ -630,11 +622,11 @@ Pub. L. 96–39, title VIII, § 856(a), July 26, 1979, 93 Stat. 295, as amended 
 
 (1) upon the exportation from the bonded warehouses which treated the metal-bearing materials, or from any other bonded smelting or refining warehouse, of a quantity of the same kind of metal contained in any product of smelting or refining of metal-bearing materials equal to the dutiable quantity contained in the imported metal-bearing materials less wastage provided for in subsection (c); except that—
 
-  (A) in the case of a withdrawal for exportation of such a product to a NAFTA country, as defined in [section 3301(4) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section3301/4&num=0&edition=prelim), if any of the imported metal-bearing materials are goods subject to NAFTA drawback, as defined in [section 3333(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section3333/a&num=0&edition=prelim), the duties on the materials shall be paid, and the charges against the bond canceled, before the 61st day after the date of exportation; but upon the presentation, before such 61st day, of satisfactory evidence of the amount of any customs duties paid to the NAFTA country on the product, the duties on the materials may be waived or reduced (subject to [section 1508(b)(2)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1508/b/2/B&num=0&edition=prelim)) in an amount that does not exceed the lesser of—
+  (A) in the case of a withdrawal for exportation of such a product to a USMCA country, as defined in [section 4502 of this title](./chapter-029-united-states-mexico-canada-agreement-implementation.md#section-4502), if any of the imported metal-bearing materials are goods subject to USMCA drawback, as defined in [section 4534(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section4534/a&num=0&edition=prelim), the duties on the materials shall be paid, and the charges against the bond canceled, before the 61st day after the date of exportation; but upon the presentation, before such 61st day, of satisfactory evidence of the amount of any customs duties paid to the USMCA country on the product, the duties on the materials may be waived or reduced (subject to [section 4534(e) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section4534/e&num=0&edition=prelim)) in an amount that does not exceed the lesser of—
 
     (i) the total amount of customs duties owed on the materials on importation into the United States, or
 
-    (ii) the total amount of customs duties paid to the NAFTA country on the product, and
+    (ii) the total amount of customs duties paid to the USMCA country on the product, and
 
   (B) in the case of a withdrawal for exportation of such a product to Chile, if any of the imported metal-bearing materials are goods subject to Chile FTA drawback, as defined in section 203(a) of the United States-Chile Free Trade Agreement Implementation Act, the duties on the materials shall be paid, and the charges against the bond canceled, before the 61st day after the date of exportation, except that the duties may be waived or reduced by—
 
@@ -652,11 +644,11 @@ Pub. L. 96–39, title VIII, § 856(a), July 26, 1979, 93 Stat. 295, as amended 
 
 (4) upon the transfer of the bond charges to a bonded customs warehouse other than a bonded smelting or refining warehouse by physical shipment of a quantity of the same kind of metal contained in any product of smelting or refining equal to the dutiable quantity contained in the imported metal-bearing materials less wastage provided for in subsection (c), and upon withdrawal from such other warehouse for exportation or domestic consumption the provisions of this section shall apply; except that—
 
-  (A) in the case of a withdrawal for exportation of such a product to a NAFTA country, as defined in [section 3301(4) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section3301/4&num=0&edition=prelim), if any of the imported metal-bearing materials are goods subject to NAFTA drawback, as defined in [section 3333(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section3333/a&num=0&edition=prelim), the duties on the materials shall be paid, and the charges against the bond canceled, before the 61st day after the date of exportation; but upon the presentation, before such 61st day, of satisfactory evidence of the amount of any customs duties paid to the NAFTA country on the product, the duties on the materials may be waived or reduced (subject to [section 1508(b)(2)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1508/b/2/B&num=0&edition=prelim)) in an amount that does not exceed the lesser of—
+  (A) in the case of a withdrawal for exportation of such a product to a USMCA country, as defined in [section 4502 of this title](./chapter-029-united-states-mexico-canada-agreement-implementation.md#section-4502), if any of the imported metal-bearing materials are goods subject to USMCA drawback, as defined in [section 4534(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section4534/a&num=0&edition=prelim), the duties on the materials shall be paid, and the charges against the bond canceled, before the 61st day after the date of exportation; but upon the presentation, before such 61st day, of satisfactory evidence of the amount of any customs duties paid to the USMCA country on the product, the duties on the materials may be waived or reduced (subject to [section 4534(e) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section4534/e&num=0&edition=prelim)) in an amount that does not exceed the lesser of—
 
     (i) the total amount of customs duties owed on the materials on importation into the United States, or
 
-    (ii) the total amount of customs duties paid to the NAFTA country on the product, and
+    (ii) the total amount of customs duties paid to the USMCA country on the product, and
 
   (B) in the case of a withdrawal for exportation of such a product to Chile, if any of the imported metal-bearing materials are goods subject to Chile FTA drawback, as defined in section 203(a) of the United States-Chile Free Trade Agreement Implementation Act, the duties on the materials shall be paid, and the charges against the bond canceled, before the 61st day after the date of exportation, except that the duties may be waived or reduced by—
 
@@ -669,17 +661,17 @@ Pub. L. 96–39, title VIII, § 856(a), July 26, 1979, 93 Stat. 295, as amended 
     (iv) 25 percent during the 1-year period beginning on January 1, 2014, or
 
 (5) upon the transfer to another bonded smelting or refining warehouse without physical shipment of metal of bond charges representing a quantity of dutiable metal contained in imported metal-bearing materials less wastage provided for in subsection (c) of the plant of initial treatment of such materials provided there is on hand at the warehouse to which the transfer is made sufficient like metal in any form to satisfy the transferred bond charges.
-If Canada ceases to be a NAFTA country and the suspension of the operation of the United States-Canada Free-Trade Agreement thereafter terminates, no charges against such bond may be canceled in whole or part upon an exportation to Canada under paragraph (1) or (4) during the period such Agreement is in operation except to the extent that the metal-bearing materials were of Canadian origin as determined in accordance with section 202 of the United States-Canada Free-Trade Agreement Implementation Act of 1988.
+If Canada ceases to be a USMCA country and the suspension of the operation of the United States-Canada Free-Trade Agreement thereafter terminates, no charges against such bond may be canceled in whole or part upon an exportation to Canada under paragraph (1) or (4) during the period such Agreement is in operation except to the extent that the metal-bearing materials were of Canadian origin as determined in accordance with section 202 of the United States-Canada Free-Trade Agreement Implementation Act of 1988.
 
 **(c) Allowance on bond for wastage of metals** For purposes of paragraphs (1), (3), (4), and (5) of subsection (b), due allowances shall be made for wastage of metals other than copper, lead, and zinc, as ascertained from time to time by the Secretary of the Treasury.
 
 **(d) Credit for exportation of product other than refined metal** Upon the exportation of a product of smelting or refining other than refined metal the bond shall be credited with a quantity of metal equivalent to the quantity of metal contained in the product exported less the proportionate part of the deductions allowed for losses in determination of the bond charge being cancelled that would not ordinarily be sustained in production of the specific product exported as ascertained from time to time by the Secretary of the Treasury; except that—
 
-(1) in the case of a withdrawal for exportation to a NAFTA country, as defined in [section 3301(4) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section3301/4&num=0&edition=prelim), if any of the imported metal-bearing materials are goods subject to NAFTA drawback, as defined in [section 3333(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section3333/a&num=0&edition=prelim), charges against the bond shall be paid before the 61st day after the date of exportation; but upon the presentation, before such 61st day, of satisfactory evidence of the amount of any customs duties paid to the NAFTA country on the product, the bond shall be credited (subject to [section 1508(b)(2)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1508/b/2/B&num=0&edition=prelim)) in an amount not to exceed the lesser of—
+(1) in the case of a withdrawal for exportation to a USMCA country, as defined in [section 4502 of this title](./chapter-029-united-states-mexico-canada-agreement-implementation.md#section-4502), if any of the imported metal-bearing materials are goods subject to USMCA drawback, as defined in [section 4534(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section4534/a&num=0&edition=prelim), charges against the bond shall be paid before the 61st day after the date of exportation; but upon the presentation, before such 61st day, of satisfactory evidence of the amount of any customs duties paid to the USMCA country on the product, the bond shall be credited (subject to [section 4534(e) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section4534/e&num=0&edition=prelim)) in an amount not to exceed the lesser of—
 
   (A) the total amount of customs duties paid or owed on the materials on importation into the United States, or
 
-  (B) the total amount of customs duties paid to the NAFTA country on the product; and
+  (B) the total amount of customs duties paid to the USMCA country on the product; and
 
 (2) in the case of a withdrawal for exportation to Chile, if any of the imported metal-bearing materials are goods subject to Chile FTA drawback, as defined in section 203(a) of the United States-Chile Free Trade Agreement Implementation Act, charges against the bond shall be paid before the 61st day after the date of exportation, and the bond shall be credited in an amount equal to—
 
@@ -690,7 +682,7 @@ If Canada ceases to be a NAFTA country and the suspension of the operation of th
   (C) 50 percent of the total amount of customs duties paid or owed on the materials on importation into the United States during the 1-year period beginning on January 1, 2013, and
 
   (D) 25 percent of the total amount of customs duties paid or owed on the materials on importation into the United States during the 1-year period beginning on January 1, 2014.
-If Canada ceases to be a NAFTA country and the suspension of the operation of the United States-Canada Free-Trade Agreement thereafter terminates, no bond shall be credited under this subsection with respect to an exportation of a product to Canada during the period such Agreement is in operation except to the extent that the product is a drawback eligible good under section 204(a) of the United States-Canada Free-Trade Agreement Implementation Act of 1988.
+If Canada ceases to be a USMCA country and the suspension of the operation of the United States-Canada Free-Trade Agreement thereafter terminates, no bond shall be credited under this subsection with respect to an exportation of a product to Canada during the period such Agreement is in operation except to the extent that the product is a drawback eligible good under section 204(a) of the United States-Canada Free-Trade Agreement Implementation Act of 1988.
 
 **(e) General bond for two or more warehouses** Two or more smelting or refining warehouses may be included under one general bond and the quantities of each kind of metal subject to duty on hand at all of such warehouses may be aggregated to satisfy the bond obligation.
 
@@ -730,6 +722,18 @@ Provisions more or less similar were contained in the Payne-Aldrich Tariff Act o
 Previous provisions for sampling lead ores were contained in act Mar. 2, 1895, ch. 189, § 1, 28 Stat. 933, prior to repeal by act Sept. 21, 1922, ch. 356, title III, § 321, 42 Stat. 947.
 
 #### Amendments
+2020—Subsec. (b). Pub. L. 116–113, § 501(e)(2)(A), substituted “USMCA” for “NAFTA” wherever appearing.
+
+Subsec. (b)(1)(A), (4)(A). Pub. L. 116–260 substituted “(subject to [section 4534(e) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section4534/e&num=0&edition=prelim))” for “(subject to [section 1508(b)(2)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1508/b/2/B&num=0&edition=prelim))” in introductory provisions.
+
+Pub. L. 116–113, § 501(e)(2)(B), (C), in introductory provisions, substituted “[section 4502 of this title](./chapter-029-united-states-mexico-canada-agreement-implementation.md#section-4502)” for “[section 3301(4) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section3301/4&num=0&edition=prelim)” and “[section 4534(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section4534/a&num=0&edition=prelim)” for “[section 3333(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section3333/a&num=0&edition=prelim)”.
+
+Subsec. (d). Pub. L. 116–113, § 501(e)(2)(A), substituted “USMCA” for “NAFTA” wherever appearing.
+
+Subsec. (d)(1). Pub. L. 116–260 substituted “(subject to [section 4534(e) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section4534/e&num=0&edition=prelim))” for “(subject to [section 1508(b)(2)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1508/b/2/B&num=0&edition=prelim))” in introductory provisions.
+
+Pub. L. 116–113, § 501(e)(2)(B), (C), in introductory provisions, substituted “[section 4502 of this title](./chapter-029-united-states-mexico-canada-agreement-implementation.md#section-4502)” for “[section 3301(4) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section3301/4&num=0&edition=prelim)” and “[section 4534(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section4534/a&num=0&edition=prelim)” for “[section 3333(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section3333/a&num=0&edition=prelim)”.
+
 2003—Subsec. (b)(1). Pub. L. 108–77, §§ 107(c), 203(b)(2)(A), temporarily substituted “except that—” and subpars. (A) and (B) for “except that in the case of a withdrawal for exportation of such a product to a NAFTA country, as defined in [section 3301(4) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section3301/4&num=0&edition=prelim), if any of the imported metal-bearing materials are goods subject to NAFTA drawback, as defined in [section 3333(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section3333/a&num=0&edition=prelim), the duties on the materials shall be paid, and the charges against the bond canceled, before the 61st day after the date of exportation; but upon the presentation, before such 61st day, of satisfactory evidence of the amount of any customs duties paid to the NAFTA country on the product, the duties on the materials may be waived or reduced (subject to [section 1508(b)(2)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1508/b/2/B&num=0&edition=prelim)) in an amount that does not exceed the lesser of—
 
 “(A) the total amount of customs duties owed on the materials on importation into the United States, or
@@ -774,11 +778,16 @@ Subsec. (f)(3). Pub. L. 100–418, § 1214(h)(1)(C), substituted “of chapter 2
 
 1962—Pub. L. 87–456 amended section generally, and among other changes, substituted “metal-bearing minerals” for “ores or crude metals”, authorized adjustment of the bond charge to reflect changes in the applicable rate of duty occurring while the imported materials are still covered by the bond, permitted two or more warehouses to be included under one general bond, prohibited allowances for wastage of copper, lead, and zinc, and defined “metal-bearing materials”, “smelting or refining”, and “product of smelting or refining”.
 
+#### Effective Date of 2020 Amendment
+Amendment by Pub. L. 116–260 effective July 1, 2020, see section 601(h) of div. O of Pub. L. 116–260, set out as a note under [section 81c of this title](./chapter-1a-foreign-trade-zones.md#section-81c).
+
+Amendment by Pub. L. 116–113 effective on the date the USMCA enters into force (July 1, 2020) and applicable with respect to goods entered, or withdrawn from warehouse for consumption, on or after that date, see section 501(g) of Pub. L. 116–113, set out as a note under [section 81c of this title](./chapter-1a-foreign-trade-zones.md#section-81c).
+
 #### Effective and Termination Dates of 2003 Amendment
 Amendment by Pub. L. 108–77 effective on the date the United States-Chile Free Trade Agreement enters into force (Jan. 1, 2004), and to cease to be effective on the date the Agreement ceases to be in force, see section 107(a), (c) of Pub. L. 108–77, set out in a note under [section 3805 of this title](./chapter-024-bipartisan-trade-promotion-authority.md#section-3805).
 
 #### Effective Date of 1993 Amendment
-Amendment by Pub. L. 103–182 applicable (1) with respect to exports from the United States to Canada on Jan. 1, 1996, if Canada is a NAFTA country on that date and after such date for so long as Canada continues to be a NAFTA country and (2) with respect to exports from the United States to Mexico on Jan. 1, 2001, if Mexico is a NAFTA country on that date and after such date for so long as Mexico continues to be a NAFTA country, see section 213(c) of Pub. L. 103–182, set out as an Effective Date note under [section 3331 of this title](./chapter-021-north-american-free-trade.md#section-3331).
+Amendment by Pub. L. 103–182 applicable (1) with respect to exports from the United States to Canada on Jan. 1, 1996, if Canada is a NAFTA country on that date and after such date for so long as Canada continues to be a NAFTA country and (2) with respect to exports from the United States to Mexico on Jan. 1, 2001, if Mexico is a NAFTA country on that date and after such date for so long as Mexico continues to be a NAFTA country, see section 213(c) of Pub. L. 103–182, formerly set out as an Effective Date note under former [section 3331 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section3331&num=0&edition=prelim).
 
 #### Effective and Termination Dates of 1988 Amendment
 Amendment by Pub. L. 100–449 effective on date the United States-Canada Free-Trade Agreement enters into force (Jan. 1, 1989), and to cease to have effect on date Agreement ceases to be in force, see section 501(a), (c) of Pub. L. 100–449, set out in a note under [section 2112 of this title](./chapter-012-trade-act-of-1974.md#section-2112).
@@ -897,7 +906,11 @@ Amendment by Pub. L. 87–456 effective with respect to articles entered, or wit
 
 (4)
 
-  (A) Effective upon the entry into force of the North American Free Trade Agreement, the exportation to a NAFTA country, as defined in section 2(4) of the North American Free Trade Agreement Implementation Act [[19 U.S.C. 3301(4)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section3301/4&num=0&edition=prelim)], of merchandise that is fungible with and substituted for imported merchandise, other than merchandise described in paragraphs (1) through (8) of section 203(a) of that Act [[19 U.S.C. 3333(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section3333/a&num=0&edition=prelim)], shall not constitute an exportation for purposes of paragraph (2).
+  (A)
+
+    (i) Effective upon the entry into force of the USMCA, the exportation to a USMCA country of merchandise that is fungible with and substituted for imported merchandise, other than merchandise described in paragraphs (1) through (8) of [section 4534(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section4534/a&num=0&edition=prelim), shall not constitute an exportation for purposes of paragraph (2).
+
+    (ii) In this subparagraph, the terms “USMCA” and “USMCA country” have the meanings given those terms in [section 4502 of this title](./chapter-029-united-states-mexico-canada-agreement-implementation.md#section-4502).
 
   (B) Beginning on January 1, 2015, the exportation to Chile of merchandise that is fungible with and substituted for imported merchandise, other than merchandise described in paragraphs (1) through (5) of section 203(a) of the United States-Chile Free Trade Agreement Implementation Act, shall not constitute an exportation for purposes of paragraph (2). The preceding sentence shall not be construed to permit the substitution of unused drawback under paragraph (2) of this subsection with respect to merchandise described in paragraph (2) of section 203(a) of the United States-Chile Free Trade Agreement Implementation Act.
 
@@ -987,21 +1000,21 @@ Amendment by Pub. L. 87–456 effective with respect to articles entered, or wit
 
 (1) For purposes of this subsection and subsection (o)—
 
-  (A) the term “NAFTA Act” means the North American Free Trade Agreement Implementation Act [[19 U.S.C. 3301](./chapter-021-north-american-free-trade.md#section-3301) et seq.];
+  (A) the term “USMCA country” has the meaning given that term in [section 4502 of this title](./chapter-029-united-states-mexico-canada-agreement-implementation.md#section-4502);
 
-  (B) the terms “NAFTA country” and “good subject to NAFTA drawback” have the same respective meanings that are given such terms in sections 2(4) and 203(a) of the NAFTA Act [[19 U.S.C. 3301(4)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section3301/4&num=0&edition=prelim), 3333(a)];
+  (B) the term “good subject to USMCA drawback” has the meaning given that term in [section 4534(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section4534/a&num=0&edition=prelim);
 
-  (C) a refund, waiver, or reduction of duty under paragraph (2) of this subsection or paragraph (1) of subsection (o) is subject to [section 1508(b)(2)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1508/b/2/B&num=0&edition=prelim); and
+  (C) a refund, waiver, or reduction of duty under paragraph (2) of this subsection or paragraph (1) of subsection (o) is subject to [section 4534(e) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section4534/e&num=0&edition=prelim); and
 
   (D) the term “good subject to Chile FTA drawback” has the meaning given that term in section 203(a) of the United States-Chile Free Trade Agreement Implementation Act.
 
-(2) For purposes of subsections (a), (b), (f), (h), (p), and (q), if an article that is exported to a NAFTA country is a good subject to NAFTA drawback, no customs duties on the good may be refunded, waived, or reduced in an amount that exceeds the lesser of—
+(2) For purposes of subsections (a), (b), (f), (h), (p), and (q), if an article that is exported to a USMCA country is a good subject to USMCA drawback, no customs duties on the good may be refunded, waived, or reduced in an amount that exceeds the lesser of—
 
   (A) the total amount of customs duties paid or owed on the good on importation into the United States, or
 
-  (B) the total amount of customs duties paid on the good to the NAFTA country.
+  (B) the total amount of customs duties paid on the good to the USMCA country.
 
-(3) If Canada ceases to be a NAFTA country and the suspension of the operation of the United States-Canada Free-Trade Agreement thereafter terminates, then for purposes of subsections (a), (b), (f), (h), (j)(2), and (q), the shipment to Canada during the period such Agreement is in operation of an article made from or substituted for, as appropriate, a drawback eligible good under section 204(a) of the United States-Canada Free-Trade Implementation Act of 1988 does not constitute an exportation.
+(3) If Canada ceases to be a USMCA country and the suspension of the operation of the United States-Canada Free-Trade Agreement thereafter terminates, then for purposes of subsections (a), (b), (f), (h), (j)(2), and (q), the shipment to Canada during the period such Agreement is in operation of an article made from or substituted for, as appropriate, a drawback eligible good under section 204(a) of the United States-Canada Free-Trade Implementation Act of 1988 does not constitute an exportation.
 
 (4)
 
@@ -1021,12 +1034,12 @@ Amendment by Pub. L. 87–456 effective with respect to articles entered, or wit
 
 (1) For purposes of subsection (g), if—
 
-  (A) a vessel is built for the account and ownership of a resident of a NAFTA country or the government of a NAFTA country, and
+  (A) a vessel is built for the account and ownership of a resident of a USMCA country or the government of a USMCA country, and
 
-  (B) imported materials that are used in the construction and equipment of the vessel are goods subject to NAFTA drawback,
-  the amount of customs duties refunded, waived, or reduced on such materials may not exceed the lesser of the total amount of customs duties paid or owed on the materials on importation into the United States or the total amount of customs duties paid on the vessel to the NAFTA country.
+  (B) imported materials that are used in the construction and equipment of the vessel are goods subject to USMCA drawback,
+  the amount of customs duties refunded, waived, or reduced on such materials may not exceed the lesser of the total amount of customs duties paid or owed on the materials on importation into the United States or the total amount of customs duties paid on the vessel to the USMCA country.
 
-(2) If Canada ceases to be a NAFTA country and the suspension of the operation of the United States-Canada Free-Trade Agreement thereafter terminates, then for purposes of subsection (g), vessels built for Canadian account and ownership, or for the Government of Canada, may not be considered to be built for any foreign account and ownership, or for the government of any foreign country, except to the extent that the materials in such vessels are drawback eligible goods under section 204(a) of the United States-Canada Free-Trade Implementation Act of 1988.
+(2) If Canada ceases to be a USMCA country and the suspension of the operation of the United States-Canada Free-Trade Agreement thereafter terminates, then for purposes of subsection (g), vessels built for Canadian account and ownership, or for the Government of Canada, may not be considered to be built for any foreign account and ownership, or for the government of any foreign country, except to the extent that the materials in such vessels are drawback eligible goods under section 204(a) of the United States-Canada Free-Trade Implementation Act of 1988.
 
 (3) For purposes of subsection (g), if—
 
@@ -1140,7 +1153,7 @@ Amendment by Pub. L. 87–456 effective with respect to articles entered, or wit
       (II) within 1 year after October 11, 1996,
       whichever is later.
 
-  (B) If an extension is granted with respect to a request filed under this paragraph, the period of time for retaining records set forth in [section 1508(c)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1508/c/3&num=0&edition=prelim) shall be extended for an additional 18 months or, in a case to which subparagraph (A)(ii) applies, for a period not to exceed 1 year from the date the claim is filed.
+  (B) If an extension is granted with respect to a request filed under this paragraph, the period of time for retaining records set forth in [section 1508(c)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1508/c/2&num=0&edition=prelim) shall be extended for an additional 18 months or, in a case to which subparagraph (A)(ii) applies, for a period not to exceed 1 year from the date the claim is filed.
 
   (C) For purposes of this paragraph, the term “major disaster” has the meaning given that term in [section 5122(2) of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5122/2&num=0&edition=prelim).
 
@@ -1199,8 +1212,6 @@ For termination of amendment by section 501(c) of Pub. L. 100–449, see Effecti
 #### References in Text
 Section 203(a) of the United States-Chile Free Trade Agreement Implementation Act, referred to in subsecs. (j)(4)(B), (n)(1)(D), and (o)(3)(B), is section 203(a) of Pub. L. 108–77, which is set out in a note under [section 3805 of this title](./chapter-024-bipartisan-trade-promotion-authority.md#section-3805).
 
-The North American Free Trade Agreement Implementation Act, referred to in subsec. (n)(1)(A), is Pub. L. 103–182, Dec. 8, 1993, 107 Stat. 2057, as amended. For complete classification of this Act to the Code, see Short Title note set out under [section 3301 of this title](./chapter-021-north-american-free-trade.md#section-3301) and Tables.
-
 Section 204 of the United States-Canada Free-Trade Agreement Implementation Act of 1988, referred to in subsecs. (n)(3) and (o)(2), is section 204 of Pub. L. 100–449, which is set out in a note under [section 2112 of this title](./chapter-012-trade-act-of-1974.md#section-2112).
 
 The Harmonized Tariff Schedule of the United States or HTS, referred to in subsecs. (p)(3)(A)(i), (B), (5) and (z)(2), is not set out in the Code. See Publication of Harmonized Tariff Schedule note set out under [section 1202 of this title](./chapter-004-tariff-act-of-1930.md#section-1202).
@@ -1224,6 +1235,22 @@ R.S. § 3048, which was not repealed, read as follows: “So much money as may b
 Permanent appropriations to pay debentures and other charges arising from duties, drawbacks, bounties, and allowances were also contained in R.S. § 3689, incorporated in section 711 of former Title 31, Money and Finance, prior to repeal effective July 1, 1935, by act June 26, 1934, ch. 756, §§ 1, 2, 48 Stat. 1225.
 
 #### Amendments
+2020—Subsec. (j)(4)(A). Pub. L. 116–113, § 501(e)(3)(A), added subpar. (A) and struck out former subpar. (A) which read as follows: “Effective upon the entry into force of the North American Free Trade Agreement, the exportation to a NAFTA country, as defined in section 2(4) of the North American Free Trade Agreement Implementation Act, of merchandise that is fungible with and substituted for imported merchandise, other than merchandise described in paragraphs (1) through (8) of section 203(a) of that Act, shall not constitute an exportation for purposes of paragraph (2).”
+
+Subsec. (n)(1)(A), (B). Pub. L. 116–113, § 501(e)(3)(B)(i), added subpars. (A) and (B) and struck out former subpars. (A) and (B) which read as follows:
+
+“(A) the term ‘NAFTA Act’ means the North American Free Trade Agreement Implementation Act;
+
+“(B) the terms ‘NAFTA country’ and ‘good subject to NAFTA drawback’ have the same respective meanings that are given such terms in sections 2(4) and 203(a) of the NAFTA Act;”.
+
+Subsec. (n)(1)(C). Pub. L. 116–260, § 601(c)(2)(A)(iii), substituted “[section 4534(e) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section4534/e&num=0&edition=prelim)” for “[section 1508(b)(2)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1508/b/2/B&num=0&edition=prelim)”.
+
+Subsec. (n)(2), (3). Pub. L. 116–113, § 501(e)(3)(B)(ii), substituted “USMCA” for “NAFTA” wherever appearing.
+
+Subsec. (o). Pub. L. 116–113, § 501(e)(3)(C), substituted “USMCA” for “NAFTA” wherever appearing.
+
+Subsec. (r)(3)(B). Pub. L. 116–260, § 601(d)(2), substituted “section 1508(c)(2)” for “section 1508(c)(3)”.
+
 2016—Subsec. (a). Pub. L. 114–125, § 906(a), substituted “an amount calculated pursuant to regulations prescribed by the Secretary of the Treasury under subsection (l) shall be refunded as drawback, except that” for “the full amount of the duties paid upon the merchandise so used shall be refunded as drawback, less 1 per centum of such duties, except that such”.
 
 Subsec. (b). Pub. L. 114–125, § 906(b)(1), (6), designated existing provisions as par. (1), inserted heading, and added pars. (2) to (4).
@@ -1443,7 +1470,12 @@ Subsec. (i). Act Aug. 8, 1953, § 12(c), broadened the authority of the Secretar
 1936—Subsec. (d). Act June 26, 1936, inserted second par.
 
 #### Change of Name
-“Puerto Rico” substituted in subsec. (j) for “Porto Rico” pursuant to act May 17, 1932, which is classified to [section 731a of Title 48](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title48-section731a&num=0&edition=prelim), Territories and Insular Possessions.
+“Puerto Rico” substituted in subsec. (j) (now (m)) for “Porto Rico” pursuant to act May 17, 1932, which is classified to [section 731a of Title 48](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title48-section731a&num=0&edition=prelim), Territories and Insular Possessions.
+
+#### Effective Date of 2020 Amendment
+Amendment by Pub. L. 116–260 effective July 1, 2020, see section 601(h) of div. O of Pub. L. 116–260, set out as a note under [section 81c of this title](./chapter-1a-foreign-trade-zones.md#section-81c).
+
+Amendment by Pub. L. 116–113 effective on the date the USMCA enters into force (July 1, 2020) and applicable with respect to goods entered, or withdrawn from warehouse for consumption, on or after that date, see section 501(g) of Pub. L. 116–113, set out as a note under [section 81c of this title](./chapter-1a-foreign-trade-zones.md#section-81c).
 
 #### Effective Date of 2016 Amendment
 Pub. L. 114–125, title IX, § 906(q), Feb. 24, 2016, 130 Stat. 233, provided that: “(1) In general.—The amendments made by this section [amending this section and [section 1508 of this title](./chapter-004-tariff-act-of-1930.md#section-1508)] shall—“(A) take effect on the date of the enactment of this Act [Feb. 24, 2016]; and “(B) except as provided in paragraph (3), apply to drawback claims filed on or after the date that is 2 years after such date of enactment. “(2) Reporting of operability of automated commercial environment computer system.—Not later than one year after the date of the enactment of this Act [Feb. 24, 2016], and not later than 2 years after such date of enactment, the Secretary of the Treasury shall submit to the Committee on Finance of the Senate and the Committee on Ways and Means of the House of Representatives a report on—“(A) the date on which the Automated Commercial Environment will be ready to process drawback claims; and “(B) the date on which the Automated Export System will be ready to accept proof of exportation under subsection (i) of section 313 of the Tariff Act of 1930 [[19 U.S.C. 1313](./chapter-004-tariff-act-of-1930.md#section-1313)], as amended by subsection (d) of this section. “(3) Transition rule.—During the one-year period beginning on the date that is 2 years after the date of the enactment of this Act, a person may elect to file a claim for drawback under—“(A) section 313 of the Tariff Act of 1930 [[19 U.S.C. 1313](./chapter-004-tariff-act-of-1930.md#section-1313)], as amended by this section; or “(B) section 313 of the Tariff Act of 1930, as in effect on the day before the date of the enactment of this Act.”
@@ -1483,7 +1515,7 @@ Pub. L. 106–36, title II, § 2404(b), June 25, 1999, 113 Stat. 169, provided t
 
 Pub. L. 106–36, title II, § 2419(b), June 25, 1999, 113 Stat. 178, provided that: “The amendment made by this section [amending this section] shall take effect on the date of the enactment of this Act [June 25, 1999], and shall apply to drawback claims filed on and after such date.”
 
-Pub. L. 106–36, title II, § 2420(e), June 25, 1999, 113 Stat. 179, provided that: “The amendments made by this section [amending this section] shall take effect as if included in the amendment made by section 632(a)(6) of the North American Free Trade Agreement Implementation Act [Pub. L. 103–182, amending this section]. For purposes of section 632(b) of that Act [set out as a note below], the 3-year requirement set forth in section 313(r) of the Tariff Act of 1930 [[19 U.S.C. 1313(r)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1313/r&num=0&edition=prelim)] shall not apply to any drawback claim filed within 6 months after the date of the enactment of this Act [June 25, 1999] for which that 3-year period would have expired.”
+Pub. L. 106–36, title II, § 2420(e), June 25, 1999, 113 Stat. 179, provided that: “The amendments made by this section [amending this section] shall take effect as if included in the amendment made by section 632(a)(6) of the North American Free Trade Agreement Implementation Act [Pub. L. 103–182, amending this section]. For purposes of section 632(b) of that Act [formerly set out as a note below], the 3-year requirement set forth in section 313(r) of the Tariff Act of 1930 [[19 U.S.C. 1313(r)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1313/r&num=0&edition=prelim)] shall not apply to any drawback claim filed within 6 months after the date of the enactment of this Act [June 25, 1999] for which that 3-year period would have expired.”
 
 #### Effective Date of 1994 Amendment
 Pub. L. 103–465, title IV, § 404(e)(5)(B), Dec. 8, 1994, 108 Stat. 4961, provided that: “The amendment made by subparagraph (A) [amending this section] shall take effect on the earlier of the date of entry into force of the WTO Agreement with respect to the United States [Jan. 1, 1995] or January 1, 1995.”
@@ -1493,11 +1525,11 @@ Pub. L. 103–465, title IV, § 422(e), Dec. 8, 1994, 108 Stat. 4965, provided t
 [Proc. No. 6821, Sept. 12, 1995, 60 F.R. 47663, effective Sept. 13, 1995, established tariff-rate quotas on certain tobacco.]
 
 #### Effective Date of 1993 Amendment
-Amendment by section 203(b)(3) of Pub. L. 103–182 applicable (1) with respect to exports from the United States to Canada on Jan. 1, 1996, if Canada is a NAFTA country on that date and after such date for so long as Canada continues to be a NAFTA country and (2) with respect to exports from the United States to Mexico on Jan. 1, 2001, if Mexico is a NAFTA country on that date and after such date for so long as Mexico continues to be a NAFTA country, see section 213(c) of Pub. L. 103–182, set out as an Effective Date note under [section 3331 of this title](./chapter-021-north-american-free-trade.md#section-3331).
+Amendment by section 203(b)(3) of Pub. L. 103–182 applicable (1) with respect to exports from the United States to Canada on Jan. 1, 1996, if Canada is a NAFTA country on that date and after such date for so long as Canada continues to be a NAFTA country and (2) with respect to exports from the United States to Mexico on Jan. 1, 2001, if Mexico is a NAFTA country on that date and after such date for so long as Mexico continues to be a NAFTA country, see section 213(c) of Pub. L. 103–182, formerly set out as an Effective Date note under former [section 3331 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section3331&num=0&edition=prelim).
 
-Amendment by section 203(c) of Pub. L. 103–182 effective on the date the North American Free Trade Agreement enters into force with respect to the United States [Jan. 1, 1994], see section 213(b) of Pub. L. 103–182, set out as an Effective Date note under [section 3331 of this title](./chapter-021-north-american-free-trade.md#section-3331).
+Amendment by section 203(c) of Pub. L. 103–182 effective on the date the North American Free Trade Agreement enters into force with respect to the United States [Jan. 1, 1994], see section 213(b) of Pub. L. 103–182, formerly set out as an Effective Date note under former [section 3331 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section3331&num=0&edition=prelim).
 
-Pub. L. 103–182, title VI, § 632(b), Dec. 8, 1993, 107 Stat. 2197, provided that: “Notwithstanding section 514 of the Tariff Act of 1930 ([19 U.S.C. 1514](./chapter-004-tariff-act-of-1930.md#section-1514)) or any other provision of law, the amendment made by paragraph (6) of subsection (a) [amending this section] shall apply to— “(1) claims filed or liquidated on or after January 1, 1988, and “(2) claims that are unliquidated, under protest, or in litigation on the date of the enactment of this Act [Dec. 8, 1993].”
+Pub. L. 103–182, title VI, § 632(b), Dec. 8, 1993, 107 Stat. 2197, which related to the application of the amendment made by subsec. (a)(6) of Pub. L. 103–182 to various claims, was repealed by Pub. L. 116–113, title VI, § 601, Jan. 29, 2020, 134 Stat. 78, effective on the date the USMCA entered into force (July 1, 2020).
 
 #### Effective Date of 1990 Amendment
 Amendment by section 484A(a) of Pub. L. 101–382 applicable to claims filed or liquidated on or after Jan. 1, 1988, and claims that are unliquidated, under protest, or in litigation on Aug. 20, 1990, see section 484A(c) of Pub. L. 101–382, set out as a note under [section 1309 of this title](./chapter-004-tariff-act-of-1930.md#section-1309).
@@ -1524,7 +1556,7 @@ Pub. L. 85–673, § 2, Aug. 18, 1958, 72 Stat. 624, provided that: “The amend
 Amendment by act Aug. 8, 1953, effective on and after thirtieth day following Aug. 8, 1953, and savings provision, see notes set out under [section 1304 of this title](./chapter-004-tariff-act-of-1930.md#section-1304).
 
 #### Construction of 1993 Amendment
-Amendment by section 203(c) of Pub. L. 103–182 to be made after amendment by section 632(a) of Pub. L. 103–182 is executed, see section 212 of Pub. L. 103–182, set out as a note under [section 58c of this title](./chapter-001-collection-districts-ports-and-officers.md#section-58c).
+Amendment by section 203(c) of Pub. L. 103–182 to be made after amendment by section 632(a) of Pub. L. 103–182 is executed, see section 212 of Pub. L. 103–182, formerly set out as a note under [section 58c of this title](./chapter-001-collection-districts-ports-and-officers.md#section-58c).
 
 #### Transfer of Functions
 For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim). For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim), as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim).
@@ -1721,6 +1753,29 @@ Provided, however, that in each and every case under numbered paragraphs (1), (2
 This proclamation supersedes Proclamation No. 2599 of November 4, 1943, as amended by Proclamation No. 2712 of December 3, 1946, but it shall not be construed (1) as invalidating any action heretofore taken under the provisions of the said Proclamation No. 2599 or under the provisions of that proclamation as amended by the said Proclamation No. 2712, or (2) as imposing the conditions set forth in the second proviso above upon the granting of extensions for which applications are pending on the date of this proclamation.
 
 Harry S Truman.
+
+#### Ex. Ord. No. 13916. National Emergency Authority To Temporarily Extend Deadlines for Certain Estimated Payments
+Ex. Ord. No. 13916, Apr. 18, 2020, 85 F.R. 22951, provided:
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, including the National Emergencies Act ([50 U.S.C. 1601](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1601&num=0&edition=prelim) et seq.), and in furtherance of Proclamation 9994 of March 13, 2020 (Declaring a National Emergency Concerning the Novel Coronavirus Disease (COVID–19) Outbreak) [[50 U.S.C. 1621](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1621&num=0&edition=prelim) note], which declared a national emergency by reason of the threat that the novel (new) coronavirus known as SARS–CoV–2 poses to our Nation’s healthcare systems, I hereby order as follows:
+
+Section 1. Emergency Authority. (a) To provide additional authority to the Secretary of the Treasury (Secretary) to respond to the national emergency declared by Proclamation 9994, the authority at [section 1318(a) of title 19](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1318/a&num=0&edition=prelim), United States Code, to extend during the continuance of such emergency the time prescribed therein for the performance of any act is invoked and made available, according to its terms, to the Secretary.
+
+(b) The Secretary shall consider taking appropriate action under [section 1318(a) of title 19](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1318/a&num=0&edition=prelim), United States Code, to temporarily extend deadlines, for importers suffering significant financial hardship because of COVID–19, for the estimated payments described therein, other than those assessed pursuant to sections 1671, 1673, 1862, 2251, and 2411 of title 19, United States Code.
+
+(c) The Secretary shall consult with the Secretary of Homeland Security or his designee before exercising, as invoked and made available under this order, any of the authority set forth in [section 1318(a) of title 19](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1318/a&num=0&edition=prelim), United States Code.
+
+Sec. 2. General Provisions. (a) Nothing in this order shall be construed to impair or otherwise affect:
+
+(i) the authority granted by law to an executive department or agency, or the head thereof; or
+
+(ii) the functions of the Director of the Office of Management and Budget relating to budgetary, administrative, or legislative proposals.
+
+(b) This order shall be implemented consistent with applicable law and subject to the availability of appropriations.
+
+(c) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+
+Donald J. Trump.
 
 
 <a id="section-1319"></a>
@@ -4329,9 +4384,11 @@ For transfer of functions, personnel, assets, and liabilities of the United Stat
 
     (vii)
 
-      (I) The Postmaster General shall, in consultation with the Commissioner, refuse any shipments received after December 31, 2020, for which the information described in paragraphs (1) and (2) is not transmitted as required under this subparagraph, except as provided in subclause (II).
+      (I) The Postmaster General shall, in consultation with the Commissioner, refuse any shipments received after December 31, 2020, for which the information described in paragraphs (1) and (2) is not transmitted as required under this subparagraph, except as provided in subclause (II) or (III).
 
       (II) If remedial action is warranted in lieu of refusal of shipments pursuant to subclause (I), the Postmaster General and the Commissioner shall take remedial action with respect to the shipments, including destruction, seizure, controlled delivery or other law enforcement initiatives, or correction of the failure to provide the information described in paragraphs (1) and (2) with respect to the shipments.
+
+      (III) Notwithstanding subclause (I), during the period beginning on January 1, 2021, through March 15, 2021, the Postmaster General may accept a shipment without transmission of the information described in paragraphs (1) and (2) if the Commissioner determines, or concurs with the determination of the Postmaster General, that the shipment presents a low risk of violating any relevant United States statutes or regulations, including statutes or regulations relating to the importation of controlled substances such as fentanyl and other synthetic opioids.
 
     (viii) Nothing in this subparagraph shall be construed to limit the authority of the Secretary to obtain information relating to international mail shipments from private carriers or other appropriate parties.
 
@@ -4388,6 +4445,10 @@ Section was enacted as part of the Customs Border Security Act of 2002, and also
 Section is comprised of section 343 of Pub. L. 107–210. Subsec. (b) of section 343 of Pub. L. 107–210 enacted [section 1431a of this title](./chapter-004-tariff-act-of-1930.md#section-1431a).
 
 #### Amendments
+2020—Subsec. (a)(3)(K)(vii)(I). Pub. L. 116–260, § 802(1), substituted “subclause (II) or (III)” for “subclause (II)”.
+
+Subsec. (a)(3)(K)(vii)(III). Pub. L. 116–260, § 802(2), added subcl. (III).
+
 2018—Pub. L. 115–271, § 8003(e), substituted “advance” for “advanced” in section catchline.
 
 Subsec. (a)(3)(K). Pub. L. 115–271, § 8003(a)(1), amended subpar. (K) generally. Prior to amendment, subpar. (K) read as follows: “With respect to requirements imposed on carriers, the Secretary, in consultation with the Postmaster General, shall determine whether it is appropriate to impose the same or similar requirements on shipments by the United States Postal Service. If the Secretary determines that such requirements are appropriate, then they shall be set forth in the regulations.”
@@ -5175,11 +5236,14 @@ For effective date of amendment by Pub. L. 91–271, see section 203 of Pub. L. 
 
 
 <a id="section-1451"></a>
-## § 1451. Extra compensation
+## § 1451. Extra compensation 11 See Codification note below.
 
-Before any such special license to unlade shall be granted, the master, owner, or agent of such vessel or vehicle, or the person in charge of such vehicle, shall be required to deposit sufficient money to pay, or to give a bond in an amount to be fixed by the Secretary conditioned to pay, the compensation and expenses of the customs officers and employees assigned to duty in connection with such unlading at night or on Sunday or a holiday, in accordance with the provisions of [section 267 of this title](./chapter-003-the-tariff-and-related-provisions.md#section-267). In lieu of such deposit or bond the owner or agent of any vessel or vehicle or line of vessels or vehicles may execute a bond in an amount to be fixed by the Secretary of the Treasury to cover and include the issuance of special licenses for the unlading of such vessels or vehicles for a period not to exceed one year. Upon a request made by the owner, master, or person in charge of a vessel or vehicle, or by or on behalf of a common carrier or by or on behalf of the owner or consignee of any merchandise or baggage, for overtime services of customs officers or employees at night or on a Sunday or holiday, the appropriate customs officer shall assign sufficient customs officers or employees if available to perform any such services which may lawfully be performed by them during regular hours of business, but only if the person requesting such services deposits sufficient money to pay, or gives a bond in an amount to be fixed by the 11 So in original. The word “the” probably should not appear. such customs officer, conditioned to pay the compensation and expenses of such customs officers and employees, who shall be entitled to rates of compensation fixed on the same basis and payable in the same manner and upon the same terms and conditions as in the case of customs officers and employees assigned to duty in connection with lading or unlading at night or on Sunday or a holiday. Nothing in this section shall be construed to impair the existing authority of the Treasury Department to assign customs officers or employees to regular tours of duty at nights or on Sundays or holidays when such assignments are in the public interest: Provided, That the provisions of this section, sections 1450 and 1452 of this title, and the provisions of [section 267 of this title](./chapter-003-the-tariff-and-related-provisions.md#section-267) insofar as such [section 267 of this title](./chapter-003-the-tariff-and-related-provisions.md#section-267) requires payment of compensation by the master, owner, agent, or consignee of a vessel or conveyance, shall not apply to the owner, operator, or agent of a highway vehicle, bridge, tunnel, or ferry, between the United States and Canada or between the United States and Mexico, nor to the lading or unlading of merchandise, baggage, or persons arriving in or departing from the United States by motor vehicle, trolley car, on foot, or by other means of highway travel upon, over, or through any highway, bridge, tunnel, or ferry. At ports of entry and customs stations where any merchandise, baggage, or persons shall arrive in or depart from the United States by motor vehicle, trolley car, on foot, or by other means of highway travel upon, over, or through any highway, bridge, tunnel, or ferry, between the United States and Canada or between the United States and Mexico, the appropriate customs officer, under such regulations as the Secretary of the Treasury may prescribe, shall assign customs officers and employees to duty at such times during the twenty-four hours of each day, including Sundays and holidays, as the Secretary of the Treasury in his discretion may determine to be necessary to facilitate the inspection and passage of such merchandise, baggage, or persons. Officers and employees assigned to such duty at night or on Sunday or a holiday shall be paid compensation in accordance with existing law as interpreted by the United States Supreme Court in the case of the United States v. Howard C. Myers (320 U.S. 561); but all compensation payable to such customs officers and employees shall be paid by the United States without requiring any license, bond, obligation, financial undertaking, or payment in connection therewith on the part of any owner, operator, or agent of any such highway vehicle, bridge, tunnel, or ferry, or other person. As used in this section, the term “ferry” shall mean a passenger service operated with the use of vessels which arrive in the United States on regular schedules at intervals of at least once each hour during any period in which customs service is to be furnished without reimbursement as above provided.
+Before any such 1 special license to unlade shall be granted, the master, owner, or agent of such 1 vessel or vehicle, or the person in charge of such 1 vehicle, shall be required to deposit sufficient money to pay, or to give a bond in an amount to be fixed by the Secretary conditioned to pay, the compensation and expenses of the customs officers and employees assigned to duty in connection with such 1 unlading at night or on Sunday or a holiday, in accordance with the provisions of [section 267 of this title](./chapter-003-the-tariff-and-related-provisions.md#section-267). In lieu of such deposit or bond the owner or agent of any vessel or vehicle or line of vessels or vehicles may execute a bond in an amount to be fixed by the Secretary of the Treasury to cover and include the issuance of special licenses for the unlading of such vessels or vehicles for a period not to exceed one year. Upon a request made by the owner, master, or person in charge of a vessel or vehicle, or by or on behalf of a common carrier or by or on behalf of the owner or consignee of any merchandise or baggage, for overtime services of customs officers or employees at night or on a Sunday or holiday, the appropriate customs officer shall assign sufficient customs officers or employees if available to perform any such services which may lawfully be performed by them during regular hours of business, but only if the person requesting such services deposits sufficient money to pay, or gives a bond in an amount to be fixed by the 22 So in original. The word “the” probably should not appear. such customs officer, conditioned to pay the compensation and expenses of such customs officers and employees, who shall be entitled to rates of compensation fixed on the same basis and payable in the same manner and upon the same terms and conditions as in the case of customs officers and employees assigned to duty in connection with lading or unlading at night or on Sunday or a holiday. Nothing in this section shall be construed to impair the existing authority of the Treasury Department to assign customs officers or employees to regular tours of duty at nights or on Sundays or holidays when such assignments are in the public interest: Provided, That the provisions of this section, sections 1450 and 1452 of this title, and the provisions of [section 267 of this title](./chapter-003-the-tariff-and-related-provisions.md#section-267) insofar as such [section 267 of this title](./chapter-003-the-tariff-and-related-provisions.md#section-267) requires payment of compensation by the master, owner, agent, or consignee of a vessel or conveyance, shall not apply to the owner, operator, or agent of a highway vehicle, bridge, tunnel, or ferry, between the United States and Canada or between the United States and Mexico, nor to the lading or unlading of merchandise, baggage, or persons arriving in or departing from the United States by motor vehicle, trolley car, on foot, or by other means of highway travel upon, over, or through any highway, bridge, tunnel, or ferry. At ports of entry and customs stations where any merchandise, baggage, or persons shall arrive in or depart from the United States by motor vehicle, trolley car, on foot, or by other means of highway travel upon, over, or through any highway, bridge, tunnel, or ferry, between the United States and Canada or between the United States and Mexico, the appropriate customs officer, under such regulations as the Secretary of the Treasury may prescribe, shall assign customs officers and employees to duty at such times during the twenty-four hours of each day, including Sundays and holidays, as the Secretary of the Treasury in his discretion may determine to be necessary to facilitate the inspection and passage of such merchandise, baggage, or persons. Officers and employees assigned to such duty at night or on Sunday or a holiday shall be paid compensation in accordance with existing law as interpreted by the United States Supreme Court in the case of the United States v. Howard C. Myers (320 U.S. 561); but all compensation payable to such customs officers and employees shall be paid by the United States without requiring any license, bond, obligation, financial undertaking, or payment in connection therewith on the part of any owner, operator, or agent of any such highway vehicle, bridge, tunnel, or ferry, or other person. As used in this section, the term “ferry” shall mean a passenger service operated with the use of vessels which arrive in the United States on regular schedules at intervals of at least once each hour during any period in which customs service is to be furnished without reimbursement as above provided.
 
 ### Statutory Notes
+
+#### Codification
+As enacted by act June 17, 1930, the catchline for this section was “Same—extra compensation”. That catchline and the use of “such” in certain places in text indicates that this section should be read as a continuation of the provisions introduced in [section 1450 of this title](./chapter-004-tariff-act-of-1930.md#section-1450).
 
 #### Prior Provisions
 Provisions similar to those in this section, but applying also to the issuance of a permit for immediate lading or unlading after preliminary entry, were contained in act Feb. 13, 1911, ch. 46, § 3, 36 Stat. 900, which was superseded in part by act Sept. 21, 1922, ch. 356, title IV, § 451, 42 Stat. 954, and was repealed by section 643 thereof. Section 451 of the 1922 act was superseded by section 451 of act June 17, 1930, comprising this section, and repealed by section 651(a)(1) of the 1930 act.
@@ -5401,33 +5465,42 @@ Section, acts June 17, 1930, ch. 497, title IV, § 460, 46 Stat. 717; June 25, 1
 
 
 <a id="section-1461"></a>
-## § 1461. Inspection of merchandise and baggage
+## § 1461. Inspection of merchandise and baggage 11 See Codification note below.
 
 All merchandise and baggage imported or brought in from any contiguous country, except as otherwise provided by law or by regulations of the Secretary of the Treasury, shall be unladen in the presence of and be inspected by a customs officer at the first port of entry at which the same shall arrive; and such officer may require the owner, or his agent, or other person having charge or possession of any trunk, traveling bag, sack, valise, or other container, or of any closed vehicle, to open the same for inspection, or to furnish a key or other means for opening the same.
 
 ### Statutory Notes
+
+#### Codification
+As enacted by act June 17, 1930, the catchline for this section was “Same—inspection”, as this section was intended to be read as a continuation of the provisions introduced in [section 1459 of this title](./chapter-004-tariff-act-of-1930.md#section-1459). When first enacted, [section 1459 of this title](./chapter-004-tariff-act-of-1930.md#section-1459) related to arrival in the United States from a contiguous country but has since been amended by Pub. L. 99–570 to relate to arrival more generally.
 
 #### Prior Provisions
 Provisions similar to those in this section were contained in R.S. § 3100, as amended by act Feb. 18, 1875, ch. 80, § 1, 18 Stat. 319, and act Feb. 27, 1877, ch. 69, § 1, 19 Stat. 248, which was superseded by act Sept. 21, 1922, ch. 356, title IV, § 461, 42 Stat. 956, and was repealed by section 642 thereof. Section 461 of the 1922 act was superseded by section 461 of act June 17, 1930, comprising this section, and repealed by section 651(a)(1) of the 1930 act.
 
 
 <a id="section-1462"></a>
-## § 1462. Forfeiture
+## § 1462. Forfeiture 11 See Codification note below.
 
-If such owner, agent, or other person shall fail to comply with his demand, the officer shall retain such trunk, traveling bag, sack, valise, or other container or closed vehicle, and open the same, and, as soon thereafter as may be practicable, examine the contents, and if any article subject to duty or any article the importation of which is prohibited is found therein, the whole contents and the container or vehicle shall be subject to forfeiture.
+If such 1 owner, agent, or other person shall fail to comply with his demand, the officer 1 shall retain such trunk, traveling bag, sack, valise, or other container or closed vehicle, and open the same, and, as soon thereafter as may be practicable, examine the contents, and if any article subject to duty or any article the importation of which is prohibited is found therein, the whole contents and the container or vehicle shall be subject to forfeiture.
 
 ### Statutory Notes
+
+#### Codification
+As enacted by act June 17, 1930, the catchline for this section was “Same—forfeiture”, as this section was intended to be read as a continuation of the provisions introduced in [section 1459 of this title](./chapter-004-tariff-act-of-1930.md#section-1459). When first enacted, [section 1459 of this title](./chapter-004-tariff-act-of-1930.md#section-1459) related to arrival in the United States from a contiguous country but has since been amended by Pub. L. 99–570 to relate to arrival more generally. The uses of “such” and “the officer” in text are meant to refer back to [section 1461 of this title](./chapter-004-tariff-act-of-1930.md#section-1461).
 
 #### Prior Provisions
 Provisions similar to those in this section were contained in R.S. § 3101, which was superseded by act Sept. 21, 1922, ch. 356, title IV, § 462, 42 Stat. 956, and was repealed by section 642 thereof. Section 462 of the 1922 act was superseded by section 462 of act June 17, 1930, comprising this section, and repealed by section 651(a)(1) of the 1930 act.
 
 
 <a id="section-1463"></a>
-## § 1463. Sealed vessels and vehicles
+## § 1463. Sealed vessels and vehicles 11 See Codification note below.
 
 To avoid unnecessary inspection of merchandise imported from a contiguous country at the first port of arrival, the master of the vessel or the person in charge of the vehicle in which such merchandise is imported may apply to the customs officer of the United States stationed in the place from which such merchandise is shipped, and such officer may seal such vessel or vehicle. Any vessel or vehicle so sealed may proceed with such merchandise to the port of destination under such regulations as the Secretary of the Treasury may prescribe.
 
 ### Statutory Notes
+
+#### Codification
+As enacted by act June 17, 1930, the catchline for this section was “Same—sealed vessels and vehicles”, as this section was intended to be read as a continuation of the provisions introduced in [section 1459 of this title](./chapter-004-tariff-act-of-1930.md#section-1459). When first enacted, [section 1459 of this title](./chapter-004-tariff-act-of-1930.md#section-1459) related to arrival in the United States from a contiguous country but has since been amended by Pub. L. 99–570 to relate to arrival more generally.
 
 #### Prior Provisions
 Provisions similar to those in this section were contained in act Sept. 21, 1922, ch. 356, title IV, § 463, 42 Stat. 957. That section was superseded by section 463 of act June 17, 1930, comprising this section, and repealed by section 651(a)(1) of the 1930 act.
@@ -5436,11 +5509,14 @@ Provisions somewhat similar to those in this section, and further provisions req
 
 
 <a id="section-1464"></a>
-## § 1464. Penalties in connection with sealed vessels and vehicles
+## § 1464. Penalties in connection with sealed vessels and vehicles 11 See Codification note below.
 
-If the master of such vessel or the person in charge of any such vehicle fails to proceed with reasonable promptness to the port of destination and to deliver such vessel or vehicle to the proper officers of the customs, or fails to proceed in accordance with such regulations of the Secretary of the Treasury, or unlades such merchandise or any part thereof at other than such port of destination, or disposes of any such merchandise by sale or otherwise, he shall be guilty of a felony and upon conviction thereof shall be fined not more than $1,000 or imprisoned for not more than five years, or both; and any such vessel or vehicle, with its contents, shall be subject to forfeiture.
+If the master of such 1 vessel or the person in charge of any such vehicle fails to proceed with reasonable promptness to the port of destination and to deliver such vessel or vehicle to the proper officers of the customs, or fails to proceed in accordance with such regulations of the Secretary of the Treasury, or unlades such merchandise or any part thereof at other than such port of destination, or disposes of any such merchandise by sale or otherwise, he shall be guilty of a felony and upon conviction thereof shall be fined not more than $1,000 or imprisoned for not more than five years, or both; and any such vessel or vehicle, with its contents, shall be subject to forfeiture.
 
 ### Statutory Notes
+
+#### Codification
+As enacted by act June 17, 1930, the catchline for this section was “Same—penalties in connection with sealed vessels and vehicles”, as this section was intended to be read as a continuation of the provisions introduced in [section 1459 of this title](./chapter-004-tariff-act-of-1930.md#section-1459). When first enacted, [section 1459 of this title](./chapter-004-tariff-act-of-1930.md#section-1459) related to arrival in the United States from a contiguous country but has since been amended by Pub. L. 99–570 to relate to arrival more generally. The uses of “such” throughout the text are meant to refer back to [section 1463 of this title](./chapter-004-tariff-act-of-1930.md#section-1463).
 
 #### Prior Provisions
 Provisions somewhat similar to those in this section, with a further provision for seizure of the vessel, car, or vehicle with its contents, and a provision that nothing therein should prevent sales of cargo prior to arrival, to be delivered per manifest and after due inspection, were contained in R.S. § 3104, which was superseded in part by act Sept. 21, 1922, ch. 356, title IV, § 464, 42 Stat. 957, and was repealed by section 642 thereof. Section 464 of the 1922 act was superseded by section 464 of act June 17, 1930, comprising this section, and repealed by section 651(a)(1) of the 1930 act.
@@ -6038,7 +6114,7 @@ For transfer of functions, personnel, assets, and liabilities of the United Stat
 
 
 <a id="section-1486"></a>
-## § 1486. Administration of oaths
+## § 1486. Administration of oaths; verification of documents
 **(a) Customs officers** The following officers and employees may administer any oaths required or authorized by law or regulations promulgated thereunder in respect of any matter coming before such officers or employees in the performance of their official duties: (1) Any customs officer appointed by the President; (2) the chief assistant of any such officer, or any officer or employee of the customs field service designated for the purpose by such officer or by the Secretary of the Treasury; and (3) any officer or employee of the United States Customs Service designated for the purpose by the Secretary of the Treasury.
 
 **(b) Postmasters** The postmaster or assistant postmaster of the United States at any post office where customs officers are not stationed, is authorized to administer any oaths required to be made to statements in customs documents by importers of merchandise, not exceeding $100 in value, through the mails.
@@ -6050,6 +6126,8 @@ For transfer of functions, personnel, assets, and liabilities of the United Stat
 ### Statutory Notes
 
 #### Amendments
+1953—Subsec. (d). Act Aug. 8, 1953, amended section catchline generally and added subsec. (d). Prior to amendment, catchline read as follows: “Administration of oaths”.
+
 1953—Subsec. (d). Act Aug. 8, 1953, added subsec. (d).
 
 #### Change of Name
@@ -6629,7 +6707,7 @@ For transfer of functions, personnel, assets, and liabilities of the United Stat
 Functions of all other officers of Department of the Treasury and functions of all agencies and employees of such Department transferred, with certain exceptions, to Secretary of the Treasury, with power vested in him to authorize their performance or performance of any of his functions, by any of such officers, agencies, and employees, by Reorg. Plan No. 26 of 1950, §§ 1, 2, eff. July 31, 1950, 15 F.R. 4935, 64 Stat. 1280, 1281, set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Existing Laboratories
-Pub. L. 103–182, title VI, § 613(b), Dec. 8, 1993, 107 Stat. 2174, provided that: “Accreditation under section 499(b) of the Tariff Act of 1930 [[19 U.S.C. 1499(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1499/b&num=0&edition=prelim)] (as added by subsection (a)) is not required for any private laboratory (including any gauger) that was accredited or approved by the Customs Service as of the day before the date of the enactment of this Act [Dec. 8, 1993]; but any such laboratory is subject to reaccreditation under the provisions of such section and the regulations promulgated thereunder.”
+Pub. L. 103–182, title VI, § 613(b), Dec. 8, 1993, 107 Stat. 2174, which related to accreditation of private testing laboratories, was repealed by Pub. L. 116–113, title VI, § 601, Jan. 29, 2020, 134 Stat. 78, effective on the date the USMCA entered into force (July 1, 2020).
 
 
 <a id="section-1500"></a>
@@ -6795,9 +6873,9 @@ Subsec. (c). Pub. L. 103–182, § 640(2), redesignated subsec. (c) as (b).
 1970—Subsec. (a). Pub. L. 91–271 substituted “customs officer” for “appraiser, deputy appraiser, assistant appraiser, or examiner of merchandise”.
 
 #### Effective Date of 1993 Amendment
-Amendment by section 412(a) of Pub. L. 103–182 effective on the date the North American Free Trade Agreement enters into force with respect to the United States [Jan. 1, 1994], but not applicable to any final determination described in section 1516a(a)(1)(B) or (2)(B)(i), (ii), or (iii) of this title, notice of which is published in the Federal Register before such date, or to a determination described in [section 1516a(a)(2)(B)(vi) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1516a/a/2/B/vi&num=0&edition=prelim), notice of which is received by the Government of Canada or Mexico before such date, or to any binational panel review under the United States-Canada Free-Trade Agreement, or to any extraordinary challenge arising out of any such review, that was commenced before such date, see section 416 of Pub. L. 103–182, set out as an Effective Date note under [section 3431 of this title](./chapter-021-north-american-free-trade.md#section-3431).
+Amendment by section 412(a) of Pub. L. 103–182 effective on the date the North American Free Trade Agreement enters into force with respect to the United States [Jan. 1, 1994], but not applicable to any final determination described in section 1516a(a)(1)(B) or (2)(B)(i), (ii), or (iii) of this title, notice of which is published in the Federal Register before such date, or to a determination described in [section 1516a(a)(2)(B)(vi) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1516a/a/2/B/vi&num=0&edition=prelim), notice of which is received by the Government of Canada or Mexico before such date, or to any binational panel review under the United States-Canada Free-Trade Agreement, or to any extraordinary challenge arising out of any such review, that was commenced before such date, see section 416 of Pub. L. 103–182, formerly set out as an Effective Date note under former [section 3431 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section3431&num=0&edition=prelim).
 
-Amendment by section 640 of Pub. L. 103–182 effective Dec. 8, 1993, see section 692 of Pub. L. 103–182, set out as a note under [section 58c of this title](./chapter-001-collection-districts-ports-and-officers.md#section-58c).
+Amendment by section 640 of Pub. L. 103–182 effective Dec. 8, 1993, see section 692 of Pub. L. 103–182, formerly set out as a note under [section 58c of this title](./chapter-001-collection-districts-ports-and-officers.md#section-58c).
 
 #### Effective and Termination Dates of 1988 Amendment
 Amendment by Pub. L. 100–449 effective on date the United States-Canada Free-Trade Agreement enters into force (Jan. 1, 1989), and to cease to have effect on date Agreement ceases to be in force, see section 501(a), (c) of Pub. L. 100–449, set out in a note under [section 2112 of this title](./chapter-012-trade-act-of-1974.md#section-2112).
@@ -6814,9 +6892,6 @@ Functions of Secretary of the Treasury under subsec. (a) of this section, insofa
 Functions of Secretary of the Treasury under subsec. (b) of this section, with respect to functions transferred to Secretary of Commerce in section 1303 and 1671 et seq. of this title by section 5(a)(1)(C) of Reorg. Plan No. 3 of 1979, transferred to Secretary of Commerce pursuant to section 5(a)(1)(F) of Reorg. Plan No. 3 of 1979.
 
 Functions of all officers of Department of the Treasury and functions of all agencies and employees of such Department transferred, with certain exceptions, to Secretary of the Treasury, with power vested in him to authorize their performance or performance of any of his functions, by any of such officers, agencies, and employees, by Reorg. Plan No. 26 of 1950, §§ 1, 2, eff. July 31, 1950, 15 F.R. 4935, 64 Stat. 1280, 1281, set out in the Appendix to Title 5, Government Organization and Employees.
-
-#### Effect of Termination of NAFTA Country Status
-For provisions relating to effect of termination of NAFTA country status on the provisions of sections 401 to 416 of Pub. L. 103–182, see [section 3451 of this title](./chapter-021-north-american-free-trade.md#section-3451).
 
 
 <a id="section-1503"></a>
@@ -7123,54 +7198,57 @@ shall make, keep, and render for examination and inspection records (which for p
 
 (B) are normally kept in the ordinary course of business.
 
-**(b) Exportations to NAFTA countries**
+**(b) Exports and imports relating to USMCA countries**
 
-(1) **Definitions** — As used in this subsection—
+(1) **Definitions** — In this subsection:
 
-  (A) The term “associated records” means, in regard to an exported good under paragraph (2), records associated with—
+  (A) *USMCA; USMCA country* — The terms “USMCA” and “USMCA country” have the meanings given those terms in [section 4502 of this title](./chapter-029-united-states-mexico-canada-agreement-implementation.md#section-4502).
 
-    (i) the purchase of, cost of, value of, and payment for, the good;
+  (B) *USMCA certification of origin* — The term “USMCA certification of origin” means the certification established under article 5.2.1 of the USMCA that a good qualifies as an originating good under the USMCA.
 
-    (ii) the purchase of, cost of, value of, and payment for, all material, including indirect materials, used in the production of the good; and
+(2) **Exports to USMCA countries** — Any person who completes a USMCA certification of origin or provides a written representation for a good exported from the United States to a USMCA country shall make, keep, and, pursuant to rules and regulations prescribed by the Secretary of the Treasury, render for examination and inspection, all records and supporting documents related to the origin of the good (including the certification or copies thereof), including records related to—
 
-    (iii) the production of the good.
-    For purposes of this subparagraph, the terms “indirect material”, “material”, “preferential tariff treatment”, “used”, and “value” have the respective meanings given them in articles 415 and 514 of the North American Free Trade Agreement.
+  (A) the purchase, cost, value, and shipping of, and payment for, the good;
 
-  (B) The term “NAFTA Certificate of Origin” means the certification, established under article 501 of the North American Free Trade Agreement, that a good qualifies as an originating good under such Agreement.
+  (B) the purchase, cost, value, and shipping of, and payment for, all materials, including indirect materials, used in the production of the good; and
 
-(2) **Exports to NAFTA countries**
+  (C) the production of the good in the form in which it was exported or the production of the material in the form in which it was sold.
 
-  (A) *In general* — Any person who completes and signs a NAFTA Certificate of Origin for a good for which preferential treatment under the North American Free Trade Agreement is claimed shall make, keep, and render for examination and inspection all records relating to the origin of the good (including the Certificate or copies thereof) and the associated records.
+(3) **Exports under the Canadian Agreement** — Any person who exports, or who knowingly causes to be exported, any merchandise to Canada during such time as the United States-Canada Free-Trade Agreement is in force with respect to, and the United States applies that Agreement to, Canada shall make, keep, and render for examination and inspection such records (including certifications of origin or copies thereof) which pertain to the exportations.
 
-  (B) *Claims for certain waivers, reductions, or refunds of duties or for credit against bonds*
+(4) **Imports into the United States**
 
-    (i) *In general* — Any person that claims with respect to an article—
+  (A) *In general* — Any importer who claims preferential tariff treatment under the USMCA for a good imported into the United States from a USMCA country shall make, keep, and, pursuant to rules and regulations prescribed by the Secretary of the Treasury of the Secretary of Labor, render for examination and inspection—
 
-      (I) a waiver or reduction of duty under the eleventh paragraph of [section 1311 of this title](./chapter-004-tariff-act-of-1930.md#section-1311), section 1312(b)(1) or (4) of this title, [section 1562(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1562/2&num=0&edition=prelim), or the proviso preceding the last proviso to [section 81c(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section81c/a&num=0&edition=prelim);
+    (i) records and supporting documentation related to the importation;
 
-      (II) a credit against a bond under [section 1312(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1312/d&num=0&edition=prelim); or
+    (ii) all records and supporting documents related to the origin of the good (including the certification or copies thereof), if the importer completed the certification; and
 
-      (III) a refund, waiver, or reduction of duty under section 1313(n)(2) or (o)(1) of this title;
-    must disclose to the Customs Service the information described in clause (ii).
+    (iii) records and supporting documents necessary to demonstrate that the good did not, while in transit to the United States, undergo further production or any other operation other than unloading, reloading, or any other operation necessary to preserve the good in good condition or to transport the good to the United States.
 
-    (ii) *Information required* — Within 30 days after making a claim described in clause (i) with respect to an article, the person making the claim must disclose to the Customs Service whether that person has prepared, or has knowledge that another person has prepared, a NAFTA Certificate of Origin for the article. If after such 30-day period the person making the claim either—
+  (B) *Vehicle producer* — Any vehicle producer whose good is the subject of a claim for preferential tariff treatment under the USMCA shall make, keep, and, pursuant to rules and regulations promulgated by the Secretary of the Treasury and Secretary of Labor, render for examination and inspection records and supporting documents related to the labor value content and steel and aluminum purchasing requirements for the qualification of its vehicles for preferential treatment.
 
-      (I) prepares a NAFTA Certificate of Origin for the article; or
+(5) **Retention period**
 
-      (II) learns of the existence of such a Certificate for the article;
-    that person, within 30 days after the occurrence described in subclause (I) or (II), must disclose the occurrence to the Customs Service.
+  (A) *Exports to USMCA countries* — A person covered by paragraph (2) who completes a USMCA certification of origin or provides a written representation for a good exported from the United States to a USMCA country shall keep the records required by such paragraph relating to that certification of origin for a period of at least 5 years after the date on which the certification is completed.
 
-    (iii) *Action on claim* — If the Customs Service determines that a NAFTA Certificate of Origin has been prepared with respect to an article for which a claim described in clause (i) is made, the Customs Service may make such adjustments regarding the previous customs treatment of the article as may be warranted.
+  (B) *Exports under Canadian Agreement* — The records required by paragraph (3) shall be kept for such periods of time as the Secretary shall prescribe, except that—
 
-(3) **Exports under the Canadian agreement** — Any person who exports, or who knowingly causes to be exported, any merchandise to Canada during such time as the United States-Canada Free-Trade Agreement is in force with respect to, and the United States applies that Agreement to, Canada shall make, keep, and render for examination and inspection such records (including certifications of origin or copies thereof) which pertain to the exportations.
+    (i) no period of time for the retention of the records may exceed 5 years from the date of entry, filing of a reconciliation, or exportation, as appropriate; and
 
-**(c) Period of time** The records required by subsections (a) and (b) shall be kept for such periods of time as the Secretary shall prescribe; except that—
+    (ii) records for any drawback claim shall be kept until the third anniversary of the date of liquidation of the claim.
 
-(1) no period of time for the retention of the records required under subsection (a) or (b)(3) may exceed 5 years from the date of entry, filing of a reconciliation, or exportation, as appropriate;
+  (C) *Imports into the United States*
 
-(2) the period of time for the retention of the records required under subsection (b)(2) of this section shall be at least 5 years from the date of signature of the NAFTA Certificate of Origin; and
+    (i) *In general* — An importer covered by paragraph (4)(A) shall keep the records and supporting documents required by such paragraph for a period of at least 5 years after the date of importation of the good.
 
-(3) records for any drawback claim shall be kept until the 3rd anniversary of the date of liquidation of the claim.
+    (ii) *Vehicle producer* — A vehicle producer covered by paragraph (4)(B) shall keep the records and supporting documents required by paragraph (4)(B) for a period of at least 5 years after the date of filing the certifications required under paragraphs (1) and (2) of [section 4532(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section4532/c&num=0&edition=prelim).
+
+**(c) Period of time** The records required by subsection (a) shall be kept for such periods of time as the Secretary shall prescribe, except that—
+
+(1) no period of time for the retention of the records required under subsection (a) may exceed 5 years from the date of entry, filing of a reconciliation, or exportation, as appropriate; and
+
+(2) records for any drawback claim shall be kept until the 3rd anniversary of the date of liquidation of the claim.
 
 **(d) Limitation** For the purposes of this section and [section 1509 of this title](./chapter-004-tariff-act-of-1930.md#section-1509), a person ordering merchandise from an importer in a domestic transaction does not knowingly cause merchandise to be imported unless—
 
@@ -7180,7 +7258,7 @@ shall make, keep, and render for examination and inspection records (which for p
 
 **(e) Subsection (b) penalties**
 
-(1) **Relating to NAFTA exports** — Any person who fails to retain records required by paragraph (2) of subsection (b) or the regulations issued to implement that paragraph shall be liable for—
+(1) **Relating to USMCA exports** — Any person who fails to retain records required by paragraph (2) of subsection (b) or the regulations issued to implement that paragraph shall be liable for—
 
   (A) a civil penalty not to exceed $10,000; or
 
@@ -7324,6 +7402,14 @@ For termination of amendment by section 501(c) of Pub. L. 100–449, see Effecti
 A prior section 1508, acts June 17, 1930, ch. 497, title IV, § 508, 46 Stat. 732; Aug. 8, 1953, ch. 397, § 19, 67 Stat. 518, related to commingling of goods, prior to repeal by Pub. L. 87–456, title III, § 301(a), May 24, 1962, 76 Stat. 75, effective, pursuant to section 501(a) of Pub. L. 87–456, with respect to articles entered, or withdrawn from warehouse, for consumption on or after Aug. 31, 1963.
 
 #### Amendments
+2020—Subsec. (b). Pub. L. 116–113, § 206(a)(1), added subsec. (b) and struck out former subsec. (b) which related to exportations to NAFTA countries.
+
+Subsec. (c). Pub. L. 116–260 added subsec. (c).
+
+Pub. L. 116–113, § 206(a)(2), struck out subsec. (c) which related to period of time for keeping required records.
+
+Subsec. (e)(1). Pub. L. 116–113, § 206(a)(3), substituted “USMCA” for “NAFTA” in heading.
+
 2016—Subsec. (c)(3). Pub. L. 114–125 substituted “liquidation” for “payment”.
 
 2011—Subsec. (i). Pub. L. 112–41, §§ 107(c), 206(2), temporarily added subsec. (i). Former subsec. (i) redesignated (j). See Effective and Termination Dates of 2011 Amendment note below.
@@ -7370,6 +7456,13 @@ Subsec. (e). Pub. L. 103–182, § 205(a)(3), amended subsec. (e) generally. Pri
 
 1988—Subsecs. (b) to (e). Pub. L. 100–449 temporarily added subsec. (b), redesignated former subsec. (b) as (c) and inserted “and (b)” after “subsection (a)”, redesignated former subsec. (c) as (d), and added subsec. (e). See Effective and Termination Dates of 1988 Amendment note below.
 
+#### Effective Date of 2020 Amendment
+Amendment by Pub. L. 116–260 effective July 1, 2020, see section 601(h) of div. O of Pub. L. 116–260, set out as a note under [section 81c of this title](./chapter-1a-foreign-trade-zones.md#section-81c).
+
+Pub. L. 116–113, title II, § 206(b), Jan. 29, 2020, 134 Stat. 48, provided that: “(1) In general.—The amendments made by subsection (a) [amending this section] shall take effect on the date on which the USMCA enters into force [July 1, 2020]. “(2) Applicability.—“(A) Exports.—Paragraphs (2) and (5)(A) of section 508(b) of the Tariff Act of 1930 [[19 U.S.C. 1508(b)(2)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1508/b/2&num=0&edition=prelim), (5)(A)], as amended by subsection (a), shall apply with respect to a good exported from the United States on or after the date on which the USMCA enters into force. “(B) Imports.—Paragraphs (4) and (5)(C) of section 508(b) of the Tariff Act of 1930 [[19 U.S.C. 1508(b)(4)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1508/b/4&num=0&edition=prelim), (5)(C)], as amended by subsection (a), shall apply with respect to a good that is entered for consumption, or withdrawn from warehouse for consumption, on or after the date on which the USMCA enters into force. “(3) Transition from nafta treatment.—“(A) Exports.—In the case of a good exported from the United States before the date on which the USMCA enters into force—“(i) the amendments made by subsection (a) to paragraphs (2) and (5)(A) of section 508(b) of the Tariff Act of 1930 ([19 U.S.C. 1508](./chapter-004-tariff-act-of-1930.md#section-1508)) shall not apply with respect to the good; and “(ii) section 508 of such Act, as in effect on the day before that date, shall continue to apply on and after that date with respect to the good. “(B) Imports.—In the case of a good that is entered for consumption, or withdrawn from warehouse for consumption, before the date on which the USMCA enters into force, the amendments made by subsection (a) to paragraphs (4) and (5)(C) of section 508(b) of the Tariff Act of 1930 ([19 U.S.C. 1508](./chapter-004-tariff-act-of-1930.md#section-1508)) shall not apply with respect to the good.”
+
+[For definition of “USMCA” as used in section 206(b) of Pub. L. 116–113, set out above, see [section 4502 of this title](./chapter-029-united-states-mexico-canada-agreement-implementation.md#section-4502).]
+
 #### Effective Date of 2016 Amendment
 Amendment by Pub. L. 114–125 effective Feb. 24, 2016, and, except as otherwise provided, applicable to drawback claims filed on or after the date that is 2 years after such date, see section 906(q) of Pub. L. 114–125, set out as a note under [section 1313 of this title](./chapter-004-tariff-act-of-1930.md#section-1313).
 
@@ -7393,13 +7486,13 @@ Amendment by Pub. L. 108–77 effective on the date the United States-Chile Free
 Amendment by Pub. L. 104–295 applicable as of Dec. 8, 1993, see section 3(b) of Pub. L. 104–295, set out as a note under [section 1321 of this title](./chapter-004-tariff-act-of-1930.md#section-1321).
 
 #### Effective Date of 1993 Amendment
-Amendment by section 205(a) of Pub. L. 103–182 effective on the date the North American Free Trade Agreement enters into force with respect to the United States [Jan. 1, 1994], see section 213(b) of Pub. L. 103–182, set out as an Effective Date note under [section 3331 of this title](./chapter-021-north-american-free-trade.md#section-3331).
+Amendment by section 205(a) of Pub. L. 103–182 effective on the date the North American Free Trade Agreement enters into force with respect to the United States (Jan. 1, 1994), see section 213(b) of Pub. L. 103–182, formerly set out as an Effective Date note under former [section 3331 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section3331&num=0&edition=prelim).
 
 #### Effective and Termination Dates of 1988 Amendment
 Amendment by Pub. L. 100–449 effective on date United States-Canada Free-Trade Agreement enters into force (Jan. 1, 1989), and to cease to have effect on date Agreement ceases to be in force, see section 501(a), (c) of Pub. L. 100–449, set out in a note under [section 2112 of this title](./chapter-012-trade-act-of-1974.md#section-2112).
 
 #### Construction of 1993 Amendment
-Amendment by section 205(a) of Pub. L. 103–182 to be made after amendment by section 614 of Pub. L. 103–182 is executed, see section 212 of Pub. L. 103–182, set out as a note under [section 58c of this title](./chapter-001-collection-districts-ports-and-officers.md#section-58c).
+Amendment by section 205(a) of Pub. L. 103–182 to be made after amendment by section 614 of Pub. L. 103–182 is executed, see section 212 of Pub. L. 103–182, formerly set out as a note under [section 58c of this title](./chapter-001-collection-districts-ports-and-officers.md#section-58c).
 
 #### Transfer of Functions
 For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim). For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim), as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim).
@@ -7419,9 +7512,9 @@ For transfer of functions, personnel, assets, and liabilities of the United Stat
 
   (A) the person who—
 
-    (i) imported, or knowingly caused to be imported, merchandise into the customs territory of the United States,
+    (i) imported, or knowingly caused to be imported, merchandise into the customs territory of the United States, or a vehicle producer whose good is subject to a claim of preferential tariff treatment under the USMCA (as defined in [section 4502 of this title](./chapter-029-united-states-mexico-canada-agreement-implementation.md#section-4502)),
 
-    (ii) exported merchandise, or knowingly caused merchandise to be exported, to a NAFTA country (as defined in [section 3301(4) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section3301/4&num=0&edition=prelim)) or to Canada during such time as the United States-Canada Free-Trade Agreement is in force with respect to, and the United States applies that Agreement to, Canada,
+    (ii) exported merchandise, or knowingly caused merchandise to be exported, to a USMCA country (as defined in [section 4502 of this title](./chapter-029-united-states-mexico-canada-agreement-implementation.md#section-4502)) or to Canada during such time as the United States-Canada Free-Trade Agreement is in force with respect to, and the United States applies that Agreement to, Canada,
 
     (iii) transported or stored merchandise that was or is carried or held under customs bond, or knowingly caused such transportation or storage, or
 
@@ -7596,6 +7689,10 @@ Provisions substantially the same, in most respects, as those in this section, w
 Prior provisions similar to those in this section and [section 1510 of this title](./chapter-004-tariff-act-of-1930.md#section-1510) were made by R.S. §§ 2922–2924, repealed by section 29 of the Customs Administrative Act of 1890, 26 Stat. 141.
 
 #### Amendments
+2020—Subsec. (a)(2)(A)(i). Pub. L. 116–113, § 209(b)(1), inserted at end “or a vehicle producer whose good is subject to a claim of preferential tariff treatment under the USMCA (as defined in [section 4502 of this title](./chapter-029-united-states-mexico-canada-agreement-implementation.md#section-4502)),”.
+
+Subsec. (a)(2)(A)(ii). Pub. L. 116–113, § 209(b)(2), substituted “a USMCA country (as defined in [section 4502 of this title](./chapter-029-united-states-mexico-canada-agreement-implementation.md#section-4502))” for “a NAFTA country (as defined in [section 3301(4) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section3301/4&num=0&edition=prelim))”.
+
 2002—Subsec. (b)(6). Pub. L. 107–210 added par. (6).
 
 1996—Subsec. (a)(2). Pub. L. 104–295, § 3(a)(1), substituted “(d)(1)(A)” for “(c)(1)(A)” in concluding provisions.
@@ -7644,6 +7741,9 @@ Subsec. (c)(1)(A). Pub. L. 99–570, § 3117(2), amended subpar. (A) generally. 
 
 1948—Act June 25, 1948, struck out “and judges and divisions of the United States Customs Court” after “Collectors and appraisers” in first sentence.
 
+#### Effective Date of 2020 Amendment
+Amendment by Pub. L. 116–113 effective on the date the USMCA enters into force (July 1, 2020) and applicable with respect to goods entered for consumption, or withdrawn from warehouse for consumption, on or after that date, see section 209(d) of Pub. L. 116–113, set out as a note under [section 1304 of this title](./chapter-004-tariff-act-of-1930.md#section-1304).
+
 #### Effective Date of 2002 Amendment
 Amendment by Pub. L. 107–210 applicable to petitions for certification filed under part 2 or 3 of subchapter II of chapter 12 of this title on or after the date that is 90 days after Aug. 6, 2002, except as otherwise provided, see section 151 of Pub. L. 107–210, set out as a note preceding [section 2271 of this title](./chapter-012-trade-act-of-1974.md#section-2271).
 
@@ -7651,7 +7751,7 @@ Amendment by Pub. L. 107–210 applicable to petitions for certification filed u
 Amendment by Pub. L. 104–295 applicable as of Dec. 8, 1993, see section 3(b) of Pub. L. 104–295, set out as a note under [section 1321 of this title](./chapter-004-tariff-act-of-1930.md#section-1321).
 
 #### Effective Date of 1993 Amendment
-Amendment by section 205(b) of Pub. L. 103–182 effective on the date the North American Free Trade Agreement enters into force with respect to the United States [Jan. 1, 1994], see section 213(b) of Pub. L. 103–182, set out as an Effective Date note under [section 3331 of this title](./chapter-021-north-american-free-trade.md#section-3331).
+Amendment by section 205(b) of Pub. L. 103–182 effective on the date the North American Free Trade Agreement enters into force with respect to the United States (Jan. 1, 1994), see section 213(b) of Pub. L. 103–182, formerly set out as an Effective Date note under former [section 3331 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section3331&num=0&edition=prelim).
 
 #### Effective Date of 1970 Amendment
 For effective date of amendment by Pub. L. 91–271, see section 203 of Pub. L. 91–271, set out as a note under [section 1500 of this title](./chapter-004-tariff-act-of-1930.md#section-1500).
@@ -7660,7 +7760,7 @@ For effective date of amendment by Pub. L. 91–271, see section 203 of Pub. L. 
 Act June 25, 1948, ch. 646, § 38, 62 Stat. 992, provided that the amendment made by that act is effective Sept. 1, 1948.
 
 #### Construction of 1993 Amendment
-Amendment by section 205(b) of Pub. L. 103–182 to be made after amendment by section 615 of Pub. L. 103–182 is executed, see section 212 of Pub. L. 103–182, set out as a note under [section 58c of this title](./chapter-001-collection-districts-ports-and-officers.md#section-58c).
+Amendment by section 205(b) of Pub. L. 103–182 to be made after amendment by section 615 of Pub. L. 103–182 is executed, see section 212 of Pub. L. 103–182, formerly set out as a note under [section 58c of this title](./chapter-001-collection-districts-ports-and-officers.md#section-58c).
 
 #### Transfer of Functions
 For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim). For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim), as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim).
@@ -7773,7 +7873,7 @@ For effective date of amendment by Pub. L. 91–271, see section 203 of Pub. L. 
 (7) the refusal to reliquidate an entry under subsection (d) of [section 1520 of this title](./chapter-004-tariff-act-of-1930.md#section-1520);
 shall be final and conclusive upon all persons (including the United States and any officer thereof) unless a protest is filed in accordance with this section, or unless a civil action contesting the denial of a protest, in whole or in part, is commenced in the United States Court of International Trade in accordance with chapter 169 of title 28 within the time prescribed by section 2636 of that title. When a judgment or order of the United States Court of International Trade has become final, the papers transmitted shall be returned, together with a copy of the judgment or order to the Customs Service, which shall take action accordingly.
 
-**(b) Finality of determinations** With respect to determinations made under section 1303 11 See References in Text note below. of this title or subtitle IV of this chapter which are reviewable under [section 1516a of this title](./chapter-004-tariff-act-of-1930.md#section-1516a), determinations of the Customs Service are final and conclusive upon all persons (including the United States and any officer thereof) unless a civil action contesting a determination listed in [section 1516a of this title](./chapter-004-tariff-act-of-1930.md#section-1516a) is commenced in the United States Court of International Trade, or review by a binational panel of a determination to which [section 1516a(g)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1516a/g/2&num=0&edition=prelim) applies is commenced pursuant to [section 1516a(g) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1516a/g&num=0&edition=prelim) and article 1904 of the North American Free Trade Agreement or the United States-Canada Free-Trade Agreement.
+**(b) Finality of determinations** With respect to determinations made under section 1303 11 See References in Text note below. of this title or subtitle IV of this chapter which are reviewable under [section 1516a of this title](./chapter-004-tariff-act-of-1930.md#section-1516a), determinations of the Customs Service are final and conclusive upon all persons (including the United States and any officer thereof) unless a civil action contesting a determination listed in [section 1516a of this title](./chapter-004-tariff-act-of-1930.md#section-1516a) is commenced in the United States Court of International Trade, or review by a binational panel of a determination to which [section 1516a(g)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1516a/g/2&num=0&edition=prelim) applies is commenced pursuant to [section 1516a(g) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1516a/g&num=0&edition=prelim).
 
 **(c) Form, number, and amendment of protest; filing of protest**
 
@@ -7786,7 +7886,7 @@ shall be final and conclusive upon all persons (including the United States and 
   (C) the nature of each objection and the reasons therefor; and
 
   (D) any other matter required by the Secretary by regulation.
-  Only one protest may be filed for each entry of merchandise, except that where the entry covers merchandise of different categories, a separate protest may be filed for each category. In addition, separate protests filed by different authorized persons with respect to any one category of merchandise, or with respect to a determination of origin under [section 3332 of this title](./chapter-021-north-american-free-trade.md#section-3332), that is the subject of a protest are deemed to be part of a single protest. Unless a request for accelerated disposition is filed under [section 1515(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1515/b&num=0&edition=prelim), a protest may be amended, under regulations prescribed by the Secretary, to set forth objections as to a decision or decisions described in subsection (a) which were not the subject of the original protest, in the form and manner prescribed for a protest, any time prior to the expiration of the time in which such protest could have been filed under this section. New grounds in support of objections raised by a valid protest or amendment thereto may be presented for consideration in connection with the review of such protest pursuant to [section 1515 of this title](./chapter-004-tariff-act-of-1930.md#section-1515) at any time prior to the disposition of the protest in accordance with that section.
+  Only one protest may be filed for each entry of merchandise, except that where the entry covers merchandise of different categories, a separate protest may be filed for each category. In addition, separate protests filed by different authorized persons with respect to any one category of merchandise, or with respect to a determination of origin under [section 4531 of this title](./chapter-029-united-states-mexico-canada-agreement-implementation.md#section-4531), that is the subject of a protest are deemed to be part of a single protest. Unless a request for accelerated disposition is filed under [section 1515(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1515/b&num=0&edition=prelim), a protest may be amended, under regulations prescribed by the Secretary, to set forth objections as to a decision or decisions described in subsection (a) which were not the subject of the original protest, in the form and manner prescribed for a protest, any time prior to the expiration of the time in which such protest could have been filed under this section. New grounds in support of objections raised by a valid protest or amendment thereto may be presented for consideration in connection with the review of such protest pursuant to [section 1515 of this title](./chapter-004-tariff-act-of-1930.md#section-1515) at any time prior to the disposition of the protest in accordance with that section.
 
 (2) Except as provided in sections 1485(d) and 1557(b) of this title, protests may be filed with respect to merchandise which is the subject of a decision specified in subsection (a) by—
 
@@ -7798,7 +7898,7 @@ shall be final and conclusive upon all persons (including the United States and 
 
   (D) any person filing a claim for drawback;
 
-  (E) with respect to a determination of origin under [section 3332 of this title](./chapter-021-north-american-free-trade.md#section-3332), any exporter or producer of the merchandise subject to that determination, if the exporter or producer completed and signed a NAFTA Certificate of Origin covering the merchandise; or
+  (E) with respect to a determination of origin under [section 4531 of this title](./chapter-029-united-states-mexico-canada-agreement-implementation.md#section-4531), any exporter or producer of the merchandise subject to that determination, if the exporter or producer completed and signed a USMCA certification of origin (as such term is defined in [section 1508 of this title](./chapter-004-tariff-act-of-1930.md#section-1508)) covering the merchandise; or
 
   (F) any authorized agent of any of the persons described in clauses (A) through (E).
 
@@ -7811,14 +7911,9 @@ shall be final and conclusive upon all persons (including the United States and 
 
 **(d) Limitation on protest of reliquidation** The reliquidation of an entry shall not open such entry so that a protest may be filed against the decision of the Customs Service upon any question not involved in such reliquidation.
 
-**(e) Advance notice of certain determinations** Except as provided in subsection (f), an exporter or producer referred to in subsection (c)(2)(E) shall be provided notice in advance of an adverse determination of origin under [section 3332 of this title](./chapter-021-north-american-free-trade.md#section-3332). The Secretary may, by regulations, prescribe the time period in which such advance notice shall be issued and authorize the Customs Service to provide in the notice the entry number and any other entry information considered necessary to allow the exporter or producer to exercise the rights provided by this section.
+**(e) Advance notice of certain determinations** Except as provided in subsection (f), an exporter or producer referred to in subsection (c)(2)(E) shall be provided notice in advance of an adverse determination of origin under [section 4531 of this title](./chapter-029-united-states-mexico-canada-agreement-implementation.md#section-4531). The Secretary may, by regulations, prescribe the time period in which such advance notice shall be issued and authorize the Customs Service to provide in the notice the entry number and any other entry information considered necessary to allow the exporter or producer to exercise the rights provided by this section.
 
-**(f) Denial of preferential treatment** If the Customs Service finds indications of a pattern of conduct by an exporter or producer of false or unsupported representations that goods qualify under the rules of origin set out in [section 3332 of this title](./chapter-021-north-american-free-trade.md#section-3332)—
-
-(1) the Customs Service, in accordance with regulations issued by the Secretary, may deny preferential tariff treatment to entries of identical goods exported or produced by that person; and
-
-(2) the advance notice requirement in subsection (e) shall not apply to that person;
-until the person establishes to the satisfaction of the Customs Service that its representations are in conformity with [section 3332 of this title](./chapter-021-north-american-free-trade.md#section-3332).
+**(f) Denial of preferential tariff treatment under the USMCA** If U.S. Customs and Border Protection or U.S. Immigration and Customs Enforcement of the Department of Homeland Security finds indications of a pattern of conduct by an importer, exporter, or producer of false or unsupported representations that goods qualify under the rules of origin provided for in [section 4531 of this title](./chapter-029-united-states-mexico-canada-agreement-implementation.md#section-4531), U.S. Customs and Border Protection, in accordance with regulations prescribed by the Secretary of the Treasury, may suspend preferential tariff treatment under the USMCA (as defined in [section 4502 of this title](./chapter-029-united-states-mexico-canada-agreement-implementation.md#section-4502)) to entries of identical goods covered by subsequent representations by that importer, exporter, or producer until U.S. Customs and Border Protection determines that representations of that person are in conformity with such [section 4531 of this title](./chapter-029-united-states-mexico-canada-agreement-implementation.md#section-4531).
 
 **(g) Denial of preferential tariff treatment under United States-Chile Free Trade Agreement** If the Bureau of Customs and Border Protection or the Bureau of Immigration and Customs Enforcement finds indications of a pattern of conduct by an importer of false or unsupported representations that goods qualify under the rules of origin set out in section 202 of the United States-Chile Free Trade Agreement Implementation Act, the Bureau of Customs and Border Protection, in accordance with regulations issued by the Secretary of the Treasury, may deny preferential tariff treatment under the United States-Chile Free Trade Agreement to entries of identical goods imported by that person until the person establishes to the satisfaction of the Bureau of Customs and Border Protection that representations of that person are in conformity with such section 202.
 
@@ -7873,6 +7968,16 @@ Provisions that the decision of the collector as to duties, including dutiable c
 Provisions relating to decisions of the collector, and appeals therefrom to the Secretary of the Treasury were contained in R.S. §§ 2931, 2932, prior to repeal by section 29 of the Customs Administrative Act, 26 Stat. 141.
 
 #### Amendments
+2020—Subsec. (b). Pub. L. 116–113, § 204(b)(1), struck out “and article 1904 of the North American Free Trade Agreement or the United States-Canada Free-Trade Agreement” before period at end.
+
+Subsec. (c)(1). Pub. L. 116–113, § 204(b)(2)(A), substituted “[section 4531 of this title](./chapter-029-united-states-mexico-canada-agreement-implementation.md#section-4531)” for “[section 3332 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section3332&num=0&edition=prelim)” in concluding provisions.
+
+Subsec. (c)(2)(E). Pub. L. 116–113, § 204(b)(2)(B), substituted “[section 4531 of this title](./chapter-029-united-states-mexico-canada-agreement-implementation.md#section-4531)” for “[section 3332 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section3332&num=0&edition=prelim)” and “USMCA certification of origin (as such term is defined in [section 1508 of this title](./chapter-004-tariff-act-of-1930.md#section-1508))” for “NAFTA Certificate of Origin”.
+
+Subsec. (e). Pub. L. 116–113, § 204(b)(3), substituted “[section 4531 of this title](./chapter-029-united-states-mexico-canada-agreement-implementation.md#section-4531)” for “[section 3332 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section3332&num=0&edition=prelim)”.
+
+Subsec. (f). Pub. L. 116–113, § 204(b)(4), added subsec. (f) and struck out former subsec. (f) which related to denial of preferential treatment.
+
 2011—Subsec. (j). Pub. L. 112–41, §§ 107(c), 204(b), temporarily added subsec. (j). See Effective and Termination Dates of 2011 Amendment note below.
 
 Subsec. (k). Pub. L. 112–42, §§ 107(c), 205(b), temporarily added subsec. (k). See Effective and Termination Dates of 2011 Amendment note below.
@@ -7913,7 +8018,7 @@ Subsec. (b). Pub. L. 103–182, § 645(2), substituted “Customs Service” for
 
 Pub. L. 103–182, § 412(a), inserted “the North American Free Trade Agreement or” before “the United States-Canada Free-Trade Agreement”.
 
-Subsec. (c)(1). Pub. L. 103–182, § 208(1), inserted in fourth sentence “, or with respect to a determination of origin under [section 3332 of this title](./chapter-021-north-american-free-trade.md#section-3332),” after “with respect to any one category of merchandise”. See Construction of 1993 Amendment note below.
+Subsec. (c)(1). Pub. L. 103–182, § 208(1), inserted in fourth sentence “, or with respect to a determination of origin under [section 3332 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section3332&num=0&edition=prelim),” after “with respect to any one category of merchandise”. See Construction of 1993 Amendment note below.
 
 Pub. L. 103–182, § 645(3), substituted first two sentences, including subpars. (A) to (D), for former first sentence which read as follows: “A protest of a decision under subsection (a) of this section shall be filed in writing with the appropriate customs officer designated in regulations prescribed by the Secretary, setting forth distinctly and specifically each decision described in subsection (a) of this section as to which protest is made; each category of merchandise affected by each such decision as to which protest is made; and the nature of each objection and reasons therefor.” See Construction of 1993 Amendment note below.
 
@@ -7949,6 +8054,11 @@ Subsec. (d). Pub. L. 96–39, § 1001(b)(3)(C), redesignated former subsec. (c) 
 
 1970—Pub. L. 91–271 designated existing provisions as subsec. (a), expanded references to sections excepted from application of this section, substituted decisions of the appropriate customs officer for all decisions of the collector as deemed to be final and conclusive, reorganized the categories of decisions and findings subject to such finality and conclusiveness, and revised the procedures for filing of protests, and added subsecs. (b) and (c).
 
+#### Effective Date of 2020 Amendment
+Pub. L. 116–113, title II, § 204(c), Jan. 29, 2020, 134 Stat. 45, provided that: “(1) In general.—The amendments made by subsections (a) and (b) [amending this section and [section 1592 of this title](./chapter-004-tariff-act-of-1930.md#section-1592)] shall—“(A) take effect on the date on which the USMCA enters into force [July 1, 2020]; and “(B) apply with respect to a good entered, or exported from the United States, as the case may be, on or after that date. “(2) Transition from nafta treatment.—In the case of a good entered, or exported from the United States, as the case may be, before the date on which the USMCA enters into force—“(A) the amendments made by subsection (a) to section 592 of the Tariff Act of 1930 ([19 U.S.C. 1592](./chapter-004-tariff-act-of-1930.md#section-1592)) and the amendments made by subsection (b) to section 514 of such Act ([19 U.S.C. 1514](./chapter-004-tariff-act-of-1930.md#section-1514)) shall not apply with respect to the good; and “(B) sections 592 and 514 of such Act, as in effect on the day before that date, shall continue to apply on and after that date with respect to the good. “(3) Entered defined.—In this subsection, the term ‘entered’ includes a withdrawal from warehouse for consumption.”
+
+[For definition of “USMCA” as used in section 204(c) of Pub. L. 116–113, set out above, see [section 4502 of this title](./chapter-029-united-states-mexico-canada-agreement-implementation.md#section-4502).]
+
 #### Effective and Termination Dates of 2011 Amendment
 Amendment by Pub. L. 112–43 effective Oct. 21, 2011, applicable with respect to Panama on the date the United States–Panama Trade Promotion Agreement enters into force (Oct. 31, 2012), and to cease to be effective on the date the Agreement terminates, see section 107(b), (c) of Pub. L. 112–43, set out in a note under [section 3805 of this title](./chapter-024-bipartisan-trade-promotion-authority.md#section-3805).
 
@@ -7980,9 +8090,9 @@ Amendment by Pub. L. 108–77 effective on the date the United States-Chile Free
 Pub. L. 106–36, title II, § 2408(c), June 25, 1999, 113 Stat. 171, provided that: “The amendments made by this section [amending this section and [section 1520 of this title](./chapter-004-tariff-act-of-1930.md#section-1520)] apply with respect to goods entered, or withdrawn from warehouse for consumption, on or after the 15th day after the date of the enactment of this Act [June 25, 1999].”
 
 #### Effective Date of 1993 Amendment
-Amendment by section 208 of Pub. L. 103–182 effective on the date the North American Free Trade Agreement enters into force with respect to the United States [Jan. 1, 1994], see section 213(b) of Pub. L. 103–182, set out as an Effective Date note under [section 3331 of this title](./chapter-021-north-american-free-trade.md#section-3331).
+Amendment by section 208 of Pub. L. 103–182 effective on the date the North American Free Trade Agreement enters into force with respect to the United States (Jan. 1, 1994), see section 213(b) of Pub. L. 103–182, formerly set out as an Effective Date note under former [section 3331 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section3331&num=0&edition=prelim).
 
-Amendment by section 412(a) of Pub. L. 103–182 effective on the date the North American Free Trade Agreement enters into force with respect to the United States [Jan. 1, 1994], but not applicable to any final determination described in section 1516a(a)(1)(B) or (2)(B)(i), (ii), or (iii) of this title, notice of which is published in the Federal Register before such date, or to a determination described in [section 1516a(a)(2)(B)(vi) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1516a/a/2/B/vi&num=0&edition=prelim), notice of which is received by the Government of Canada or Mexico before such date, or to any binational panel review under the United States-Canada Free-Trade Agreement, or to any extraordinary challenge arising out of any such review, that was commenced before such date, see section 416 of Pub. L. 103–182, set out as an Effective Date note under [section 3431 of this title](./chapter-021-north-american-free-trade.md#section-3431).
+Amendment by section 412(a) of Pub. L. 103–182 effective on the date the North American Free Trade Agreement enters into force with respect to the United States [Jan. 1, 1994], but not applicable to any final determination described in section 1516a(a)(1)(B) or (2)(B)(i), (ii), or (iii) of this title, notice of which is published in the Federal Register before such date, or to a determination described in [section 1516a(a)(2)(B)(vi) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1516a/a/2/B/vi&num=0&edition=prelim), notice of which is received by the Government of Canada or Mexico before such date, or to any binational panel review under the United States-Canada Free-Trade Agreement, or to any extraordinary challenge arising out of any such review, that was commenced before such date, see section 416 of Pub. L. 103–182, formerly set out as an Effective Date note under former [section 3431 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section3431&num=0&edition=prelim).
 
 #### Effective and Termination Dates of 1988 Amendment
 Amendment by Pub. L. 100–449 effective on date the United States-Canada Free-Trade Agreement enters into force (Jan. 1, 1989), and to cease to have effect on date Agreement ceases to be in force, see section 501(a), (c) of Pub. L. 100–449, set out in a note under [section 2112 of this title](./chapter-012-trade-act-of-1974.md#section-2112).
@@ -8000,15 +8110,12 @@ Amendment by Pub. L. 96–39 effective Jan. 1, 1980, see sections 1002 and 107 o
 For effective date of amendment by Pub. L. 91–271, see section 203 of Pub. L. 91–271, set out as a note under [section 1500 of this title](./chapter-004-tariff-act-of-1930.md#section-1500).
 
 #### Construction of 1993 Amendment
-Amendment by section 208 of Pub. L. 103–182 to be made after amendment by section 645 of Pub. L. 103–182 is executed, see section 212 of Pub. L. 103–182, set out as a note under [section 58c of this title](./chapter-001-collection-districts-ports-and-officers.md#section-58c).
+Amendment by section 208 of Pub. L. 103–182 to be made after amendment by section 645 of Pub. L. 103–182 is executed, see section 212 of Pub. L. 103–182, formerly set out as a note under [section 58c of this title](./chapter-001-collection-districts-ports-and-officers.md#section-58c).
 
 #### Transfer of Functions
 For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim). For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim), as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim).
 
 Functions of Secretary of the Treasury under this section insofar as they relate to any protest, petition, or notice of desire to contest described in section 1002(b)(1) of the Trade Agreements Act of 1979, set out as a note under [section 1516a of this title](./chapter-004-tariff-act-of-1930.md#section-1516a), transferred to Secretary of Commerce pursuant to Reorg. Plan No. 3 of 1979, § 5(a)(1)(D), 44 F.R. 69275, 93 Stat. 1381, eff. Jan. 2, 1980, as provided by section 1–107(a) of Ex. Ord. No. 12188, Jan. 2, 1980, 45 F.R. 993, set out as notes under [section 2171 of this title](./chapter-012-trade-act-of-1974.md#section-2171).
-
-#### Effect of Termination of NAFTA Country Status
-For provisions relating to effect of termination of NAFTA country status on the provisions of sections 401 to 416 of Pub. L. 103–182, see [section 3451 of this title](./chapter-021-north-american-free-trade.md#section-3451).
 
 #### Inconsistent Decisions of Customs Officers
 Pub. L. 100–690, title VII, § 7361(c), Nov. 18, 1988, 102 Stat. 4474, provided that: “(1) The Secretary of the Treasury shall prescribe regulations that—“(A) effect uniformity in—“(i) decisions described in section 514(a) of the Tariff Act of 1930 ([19 U.S.C. 1514(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1514/a&num=0&edition=prelim)) that are made by customs officers with respect to the same, or substantially similar, merchandise, and “(ii) decisions to conduct intensified inspections or examinations of merchandise at ports of entry, and “(B) establish procedures that allow individuals described in section 514(c)(1) of the Tariff Act of 1930 ([19 U.S.C. 1514(c)(1)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1514/c/1&num=0&edition=prelim)), any port authority, and any other interested party (within the meaning of section 516(a)(2) of the Tariff Act of 1930 ([19 U.S.C. 1516(a)(2)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1516/a/2&num=0&edition=prelim))) to petition the Secretary to obtain such uniformity in an expedited and timely fashion. “(2) The Secretary of the Treasury shall publish in the Federal Register and submit to the Committee on Finance of the Senate and the Committee on Ways and Means of the House of Representatives the proposed and final form of the regulations prescribed under paragraph (1) and shall receive and consider comments from the public regarding the proposed form of such regulations during the 60-day period beginning on the date the proposed form of such regulations are published in the Federal Register. “(3) The regulations prescribed under paragraph (1) shall take effect by no later than April 1, 1989. “(4) By no later than September 1, 1989, the Secretary of the Treasury shall submit to the Committee on Finance of the Senate and the Committee on Ways and Means of the House of Representatives a report on the effectiveness of the regulations prescribed under paragraph (1) and recommendations for permanent legislation addressing uniformity.”
@@ -8260,7 +8367,7 @@ Act June 25, 1938, ch. 679, § 17(b), (c), 52 Stat. 1086, as amended by act June
 
   (D) For a determination for which review by the United States Court of International Trade is provided for—
 
-    (i) under subsection (g)(12)(B), the day after the date of publication in the Federal Register of notice that article 1904 of the NAFTA has been suspended, or
+    (i) under subsection (g)(12)(B), the day after the date of publication in the Federal Register of notice that article 10.12 of the USMCA has been suspended, or
 
     (ii) under subsection (g)(12)(D), the day after the date that notice of settlement is published in the Federal Register.
 
@@ -8288,7 +8395,7 @@ Act June 25, 1938, ch. 679, § 17(b), (c), 52 Stat. 1086, as amended by act June
 
   (B) *Confidential or privileged material* — The confidential or privileged status accorded to any documents, comments, or information shall be preserved in any action under this section. Notwithstanding the preceding sentence, the court may examine, in camera, the confidential or privileged material, and may disclose such material under such terms and conditions as it may order.
 
-(3) **Effect of decisions by NAFTA or United States-Canada binational panels** — In making a decision in any action brought under subsection (a), a court of the United States is not bound by, but may take into consideration, a final decision of a binational panel or extraordinary challenge committee convened pursuant to article 1904 of the NAFTA or of the Agreement.
+(3) **Effect of decisions by United States-Canada or USMCA binational panels** — In making a decision in any action brought under subsection (a), a court of the United States is not bound by, but may take into consideration, a final decision of a binational panel or extraordinary challenge committee convened pursuant to article 1904 of the Agreement or article 10.12 of the USMCA.
 
 **(c) Liquidation of entries**
 
@@ -8321,32 +8428,32 @@ shall be liquidated in accordance with the final court decision in the action. S
 
 (6) **United States Secretary** — The term “United States Secretary” means—
 
-  (A) the secretary for the United States Section referred to in article 1908 of the NAFTA, and
+  (A) the secretary for the United States Section referred to in article 10.16 of the USMCA, and
 
   (B) the secretary of the United States Section provided for in article 1909 of the Agreement.
 
 (7) **Relevant FTA Secretary** — The term “relevant FTA Secretary” means the Secretary—
 
-  (A) referred to in article 1908 of the NAFTA, or
+  (A) referred to in article 10.16 of the USMCA, or
 
   (B) provided for in paragraph 5 of article 1909 of the Agreement,
   of the relevant FTA country.
 
-(8) **NAFTA** — The term “NAFTA” means the North American Free Trade Agreement.
+(8) **Relevant FTA country** — The term “relevant FTA country” means the free trade area country to which an antidumping or countervailing duty proceeding pertains.
 
-(9) **Relevant FTA country** — The term “relevant FTA country” means the free trade area country to which an antidumping or countervailing duty proceeding pertains.
+(9) **Free trade area country** — The term “free trade area country” means the following:
 
-(10) **Free trade area country** — The term “free trade area country” means the following:
+  (A) Canada for such time as the USMCA is in force with respect to, and the United States applies the USMCA to, Canada.
 
-  (A) Canada for such time as the NAFTA is in force with respect to, and the United States applies the NAFTA to, Canada.
-
-  (B) Mexico for such time as the NAFTA is in force with respect to, and the United States applies the NAFTA to, Mexico.
+  (B) Mexico for such time as the USMCA is in force with respect to, and the United States applies the USMCA to, Mexico.
 
   (C) Canada for such time as—
 
     (i) it is not a free trade area country under subparagraph (A); and
 
     (ii) the Agreement is in force with respect to, and the United States applies the Agreement to, Canada.
+
+(10) **USMCA** — The term “USMCA” has the meaning given that term in [section 4502 of this title](./chapter-029-united-states-mexico-canada-agreement-implementation.md#section-4502).
 
 **(g) Review of countervailing duty and antidumping duty determinations involving free trade area country merchandise**
 
@@ -8357,7 +8464,7 @@ shall be liquidated in accordance with the final court decision in the action. S
   (B) clause (i), (ii), (iii), (vi), or (vii) of paragraph (2)(B) of subsection (a),
   if made in connection with a proceeding regarding a class or kind of free trade area country merchandise, as determined by the administering authority.
 
-(2) **Exclusive review of determination by binational panels** — If binational panel review of a determination is requested pursuant to article 1904 of the NAFTA or of the Agreement, then, except as provided in paragraphs (3) and (4)—
+(2) **Exclusive review of determination by binational panels** — If binational panel review of a determination is requested pursuant to article 1904 of the Agreement or article 10.12 of the USMCA, then, except as provided in paragraphs (3) and (4)—
 
   (A) the determination is not reviewable under subsection (a), and
 
@@ -8367,17 +8474,17 @@ shall be liquidated in accordance with the final court decision in the action. S
 
   (A) *In general* — A determination is reviewable under subsection (a) if the determination sought to be reviewed is—
 
-    (i) a determination as to which neither the United States nor the relevant FTA country requested review by a binational panel pursuant to article 1904 of the NAFTA or of the Agreement,
+    (i) a determination as to which neither the United States nor the relevant FTA country requested review by a binational panel pursuant to article 1904 of the Agreement or article 10.12 of the USMCA; 33 So in original. The semicolon probably should be a comma.
 
     (ii) a revised determination issued as a direct result of judicial review, commenced pursuant to subsection (a), if neither the United States nor the relevant FTA country requested review of the original determination,
 
-    (iii) a determination issued as a direct result of judicial review that was commenced pursuant to subsection (a) prior to the entry into force of the NAFTA or of the Agreement,
+    (iii) a determination issued as a direct result of judicial review that was commenced pursuant to subsection (a) prior to the entry into force of the Agreement or the USMCA,
 
     (iv) a determination which a binational panel has determined is not reviewable by the binational panel,
 
-    (v) a determination as to which binational panel review has terminated pursuant to paragraph 12 of article 1905 of the NAFTA, or
+    (v) a determination as to which binational panel review has terminated pursuant to article 10.13 of the USMCA, or
 
-    (vi) a determination as to which extraordinary challenge committee review has terminated pursuant to paragraph 12 of article 1905 of the NAFTA.
+    (vi) a determination as to which extraordinary challenge committee review has terminated pursuant to article 10.13 of the USMCA.
 
   (B) *Special rule* — A determination described in subparagraph (A)(i) or (iv) is reviewable under subsection (a) only if the party seeking to commence review has provided timely notice of its intent to commence such review to—
 
@@ -8390,7 +8497,7 @@ shall be liquidated in accordance with the final court decision in the action. S
 
 (4) **Exception to exclusive binational panel review for constitutional issues**
 
-  (A) *Constitutionality of binational panel review system* — An action for declaratory judgment or injunctive relief, or both, regarding a determination on the grounds that any provision of, or amendment made by, the North American Free Trade Agreement Implementation Act implementing the binational dispute settlement system under chapter 19 of the NAFTA, or the United States-Canada Free-Trade Agreement Implementation Act of 1988 implementing the binational panel dispute settlement system under chapter 19 of the Agreement, violates the Constitution may be brought only in the United States Court of Appeals for the District of Columbia Circuit, which shall have jurisdiction of such action.
+  (A) *Constitutionality of binational panel review system* — An action for declaratory judgment or injunctive relief, or both, regarding a determination on the grounds that any provision of, or amendment made by, the United States-Canada Free-Trade Agreement Implementation Act of 1988 implementing the binational panel dispute settlement system under chapter 19 of the Agreement, or the United States-Mexico-Canada Agreement Implementation Act implementing the binational panel dispute settlement system under chapter 10 of the USMCA, violates the Constitution may be brought only in the United States Court of Appeals for the District of Columbia Circuit, which shall have jurisdiction of such action.
 
   (B) *Other constitutional review* — Review is available under subsection (a) with respect to a determination solely concerning a constitutional issue (other than an issue to which subparagraph (A) applies) arising under any law of the United States as enacted or applied. An action for review under this subparagraph shall be assigned to a 3-judge panel of the United States Court of International Trade.
 
@@ -8412,25 +8519,25 @@ shall be liquidated in accordance with the final court decision in the action. S
 
 (5) **Liquidation of entries**
 
-  (A) *Application* — In the case of a determination for which binational panel review is requested pursuant to article 1904 of the NAFTA or of the Agreement, the rules provided in this paragraph shall apply, notwithstanding the provisions of subsection (c).
+  (A) *Application* — In the case of a determination for which binational panel review is requested pursuant to article 1904 of the Agreement or article 10.12 of the USMCA, the rules provided in this paragraph shall apply, notwithstanding the provisions of subsection (c).
 
-  (B) *General rule* — In the case of a determination for which binational panel review is requested pursuant to article 1904 of the NAFTA or of the Agreement, entries of merchandise covered by such determination shall be liquidated in accordance with the determination of the administering authority or the Commission, if they are entered, or withdrawn from warehouse, for consumption on or before the date of publication in the Federal Register by the administering authority of notice of a final decision of a binational panel, or of an extraordinary challenge committee, not in harmony with that determination. Such notice of a decision shall be published within 10 days of the date of the issuance of the panel or committee decision.
+  (B) *General rule* — In the case of a determination for which binational panel review is requested pursuant to article 1904 of the Agreement or article 10.12 of the USMCA, entries of merchandise covered by such determination shall be liquidated in accordance with the determination of the administering authority or the Commission, if they are entered, or withdrawn from warehouse, for consumption on or before the date of publication in the Federal Register by the administering authority of notice of a final decision of a binational panel, or of an extraordinary challenge committee, not in harmony with that determination. Such notice of a decision shall be published within 10 days of the date of the issuance of the panel or committee decision.
 
   (C) *Suspension of liquidation*
 
-    (i) *In general* — Notwithstanding the provisions of subparagraph (B), in the case of a determination described in clause (iii) or (vi) of subsection (a)(2)(B) for which binational panel review is requested pursuant to article 1904 of the NAFTA or of the Agreement, the administering authority, upon request of an interested party who was a party to the proceeding in connection with which the matter arises and who is a participant in the binational panel review, shall order the continued suspension of liquidation of those entries of merchandise covered by the determination that are involved in the review pending the final disposition of the review.
+    (i) *In general* — Notwithstanding the provisions of subparagraph (B), in the case of a determination described in clause (iii) or (vi) of subsection (a)(2)(B) for which binational panel review is requested pursuant to article 1904 of the Agreement or article 10.12 of the USMCA, the administering authority, upon request of an interested party who was a party to the proceeding in connection with which the matter arises and who is a participant in the binational panel review, shall order the continued suspension of liquidation of those entries of merchandise covered by the determination that are involved in the review pending the final disposition of the review.
 
     (ii) *Notice* — At the same time as the interested party makes its request to the administering authority under clause (i), that party shall serve a copy of its request on the United States Secretary, the relevant FTA Secretary, and all interested parties who were parties to the proceeding in connection with which the matter arises.
 
-    (iii) *Application of suspension* — If the interested party requesting continued suspension of liquidation under clause (i) is a foreign manufacturer, producer, or exporter, or a United States importer, the continued suspension of liquidation shall apply only to entries of merchandise manufactured, produced, exported, or imported by that particular manufacturer, producer, exporter, or importer. If the interested party requesting the continued suspension of liquidation under clause (i) is an interested party described in subparagraph (C), (D), (E), or (F) of [section 1677(9) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1677/9&num=0&edition=prelim), the continued suspension of liquidation shall apply only to entries which could be affected by a decision of the binational panel convened under chapter 19 of the NAFTA or of the Agreement.
+    (iii) *Application of suspension* — If the interested party requesting continued suspension of liquidation under clause (i) is a foreign manufacturer, producer, or exporter, or a United States importer, the continued suspension of liquidation shall apply only to entries of merchandise manufactured, produced, exported, or imported by that particular manufacturer, producer, exporter, or importer. If the interested party requesting the continued suspension of liquidation under clause (i) is an interested party described in subparagraph (C), (D), (E), or (F) of [section 1677(9) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1677/9&num=0&edition=prelim), the continued suspension of liquidation shall apply only to entries which could be affected by a decision of the binational panel convened under chapter 19 of the Agreement or chapter 10 of the USMCA.
 
     (iv) *Judicial review* — Any action taken by the administering authority or the United States Customs Service under this subparagraph shall not be subject to judicial review, and no court of the United States shall have power or jurisdiction to review such action on any question of law or fact by an action in the nature of mandamus or otherwise.
 
-(6) **Injunctive relief** — Except for cases under paragraph (4)(B), in the case of a determination for which binational panel review is requested pursuant to article 1904 of the NAFTA or of the Agreement, the provisions of subsection (c)(2) shall not apply.
+(6) **Injunctive relief** — Except for cases under paragraph (4)(B), in the case of a determination for which binational panel review is requested pursuant to article 1904 of the Agreement or article 10.12 of the USMCA, the provisions of subsection (c)(2) shall not apply.
 
-(7) **Implementation of international obligations under article 1904 of the NAFTA or the Agreement**
+(7) **Implementation of international obligations under article 1904 of the Agreement or article 10.12 of the USMCA**
 
-  (A) *Action upon remand* — If a determination is referred to a binational panel or extraordinary challenge committee under the NAFTA or the Agreement and the panel or committee makes a decision remanding the determination to the administering authority or the Commission, the administering authority or the Commission shall, within the period specified by the panel or committee, take action not inconsistent with the decision of the panel or committee. Any action taken by the administering authority or the Commission under this paragraph shall not be subject to judicial review, and no court of the United States shall have power or jurisdiction to review such action on any question of law or fact by an action in the nature of mandamus or otherwise.
+  (A) *Action upon remand* — If a determination is referred to a binational panel or extraordinary challenge committee under article 1904 of the Agreement or article 10.12 of the USMCA and the panel or committee makes a decision remanding the determination to the administering authority or the Commission, the administering authority or the Commission shall, within the period specified by the panel or committee, take action not inconsistent with the decision of the panel or committee. Any action taken by the administering authority or the Commission under this paragraph shall not be subject to judicial review, and no court of the United States shall have power or jurisdiction to review such action on any question of law or fact by an action in the nature of mandamus or otherwise.
 
   (B) *Application if subparagraph (A) held unconstitutional* — In the event that the provisions of subparagraph (A) are held unconstitutional under the provisions of subparagraphs (A) and (H) of paragraph (4), the provisions of this subparagraph shall take effect. In such event, the President is authorized on behalf of the United States to accept, as a whole, the decision of a binational panel or extraordinary challenge committee remanding the determination to the administering authority or the Commission within the period specified by the panel or committee. Upon acceptance by the President of such a decision, the administering authority or the Commission shall, within the period specified by the panel or committee, take action not inconsistent with such decision. Any action taken by the President, the administering authority, or the Commission under this subparagraph shall not be subject to judicial review, and no court of the United States shall have power or jurisdiction to review such action on any question of law or fact by an action in the nature of mandamus or otherwise.
 
@@ -8438,9 +8545,9 @@ shall be liquidated in accordance with the final court decision in the action. S
 
   (A) *Interested party requests for binational panel review*
 
-    (i) *General rule* — An interested party who was a party to the proceeding in which a determination is made may request binational panel review of such determination by filing a request with the United States Secretary by no later than the date that is 30 days after the date described in subparagraph (A), (B), or (E) of subsection (a)(5) that is applicable to such determination. Receipt of such request by the United States Secretary shall be deemed to be a request for binational panel review within the meaning of article 1904(4) of the NAFTA or of the Agreement. Such request shall contain such information and be in such form, manner, and style as the administering authority, in consultation with the Commission, shall prescribe by regulations.
+    (i) *General rule* — An interested party who was a party to the proceeding in which a determination is made may request binational panel review of such determination by filing a request with the United States Secretary by no later than the date that is 30 days after the date described in subparagraph (A), (B), or (E) of subsection (a)(5) that is applicable to such determination. Receipt of such request by the United States Secretary shall be deemed to be a request for binational panel review within the meaning of article 1904(4) of the Agreement or article 10.12 of the USMCA. Such request shall contain such information and be in such form, manner, and style as the administering authority, in consultation with the Commission, shall prescribe by regulations.
 
-    (ii) *Suspension of time to request binational panel review under the NAFTA* — Notwithstanding clause (i), the time for requesting binational panel review shall be suspended during the pendency of any stay of binational panel review that is issued pursuant to paragraph 11(a) of article 1905 of the NAFTA.
+    (ii) *Suspension of time to request binational panel review under the USMCA* — Notwithstanding clause (i), the time for requesting binational panel review shall be suspended during the pendency of any stay of binational panel review that is issued pursuant to article 10.13 of the USMCA.
 
   (B) *Service of request for binational panel review*
 
@@ -8448,27 +8555,27 @@ shall be liquidated in accordance with the final court decision in the action. S
 
     (ii) *Service by United States Secretary* — If an interested party to the proceeding requests binational panel review of a determination by filing a request with the relevant FTA Secretary, the United States Secretary shall serve a copy of the request by mail on any other interested party who was a party to the proceeding in connection with which the matter arises, and on the administering authority or the Commission, as appropriate.
 
-  (C) *Limitation on request for binational panel review* — Absent a request by an interested party under subparagraph (A), the United States may not request binational panel review of a determination under article 1904 of the NAFTA or the Agreement.
+  (C) *Limitation on request for binational panel review* — Absent a request by an interested party under subparagraph (A), the United States may not request binational panel review of a determination under article 1904 of the Agreement or article 10.12 of the USMCA.
 
-(9) **Representation in panel proceedings** — In the case of binational panel proceedings convened under chapter 19 of the NAFTA or of the Agreement, the administering authority and the Commission shall be represented by attorneys who are employees of the administering authority or the Commission, respectively. Interested parties who were parties to the proceeding in connection with which the matter arises shall have the right to appear and be represented by counsel before the binational panel.
+(9) **Representation in panel proceedings** — In the case of binational panel proceedings convened under chapter 19 of the Agreement or chapter 10 of the USMCA, the administering authority and the Commission shall be represented by attorneys who are employees of the administering authority or the Commission, respectively. Interested parties who were parties to the proceeding in connection with which the matter arises shall have the right to appear and be represented by counsel before the binational panel.
 
-(10) **Notification of class or kind rulings** — In the case of a determination which is described in paragraph (2)(B)(vi) of subsection (a) and which is subject to the provisions of paragraph (2), the administering authority, upon request, shall inform any interested person of the date on which the Government of the relevant FTA country received notice of the determination under paragraph 4 of article 1904 of the NAFTA or the Agreement.
+(10) **Notification of class or kind rulings** — In the case of a determination which is described in paragraph (2)(B)(vi) of subsection (a) and which is subject to the provisions of paragraph (2), the administering authority, upon request, shall inform any interested person of the date on which the Government of the relevant FTA country received notice of the determination under paragraph 4 of article 1904 of the Agreement or under article 10.12 of the USMCA.
 
-(11) **Suspension and termination of suspension of article 1904 of the NAFTA**
+(11) **Suspension and termination of suspension of article 10.12 of the USMCA**
 
-  (A) *Suspension of article 1904* — If a special committee established under article 1905 of the NAFTA issues an affirmative finding, the Trade Representative may, in accordance with paragraph 8(a) or 9, as appropriate, of article 1905 of the NAFTA, suspend the operation of article 1904 of the NAFTA.
+  (A) *Suspension* — If a special committee established under article 10.13 of the USMCA issues an affirmative finding, the Trade Representative may, in accordance with article 10.13 of the USMCA, suspend the operation of article 10.12 of the USMCA.
 
-  (B) *Termination of suspension of article 1904* — If a special committee is reconvened and makes an affirmative determination described in paragraph 10(b) of article 1905 of the NAFTA, any suspension of the operation of article 1904 of the NAFTA shall terminate.
+  (B) *Termination of suspension* — If a special committee is reconvened and makes an affirmative determination described in article 10.13 of the USMCA, any suspension of the operation of article 10.12 of the USMCA shall terminate.
 
-(12) **Judicial review upon termination of binational panel or committee review under the NAFTA**
+(12) **Judicial review upon termination of binational panel or committee review under the USMCA**
 
-  (A) *Notice of suspension or termination of suspension of article 1904*
+  (A) *Notice of suspension or termination of suspension of article 10.12 of the USMCA*
 
-    (i) Upon notification by the Trade Representative or the Government of a country described in subsection (f)(10)(A) or (B) that the operation of article 1904 of the NAFTA has been suspended in accordance with paragraph 8(a) or 9 of article 1905 of the NAFTA, the United States Secretary shall publish in the Federal Register a notice of suspension of article 1904 of the NAFTA.
+    (i) *Notice of suspension* — Upon notification by the Trade Representative or the government of a country described in subparagraph (A) or (B) of subsection (f)(9) that the operation of article 10.12 of the USMCA has been suspended in accordance with article 10.13 of the USMCA, the United States Secretary shall publish in the Federal Register a notice of suspension of article 10.12 of the USMCA.
 
-    (ii) Upon notification by the Trade Representative or the Government of a country described in subsection (f)(10)(A) or (B) that the suspension of the operation of article 1904 of the NAFTA is terminated in accordance with paragraph 10 of article 1905 of the NAFTA, the United States Secretary shall publish in the Federal Register a notice of termination of suspension of article 1904 of the NAFTA.
+    (ii) *Notice of termination of suspension* — Upon notification by the Trade Representative or the government of a country described in subparagraph (A) or (B) of subsection (f)(9) that the suspension of the operation of article 10.12 of the USMCA is terminated in accordance with article 10.13 of the USMCA, the United States Secretary shall publish in the Federal Register a notice of termination of suspension of article 10.12 of the USMCA.
 
-  (B) *Transfer of final determinations for judicial review upon suspension of article 1904* — If the operation of article 1904 of the NAFTA is suspended in accordance with paragraph 8(a) or 9 of article 1905 of the NAFTA—
+  (B) *Transfer of final determinations for judicial review upon suspension of article 10.12 of the USMCA* — If the operation of article 10.12 of the USMCA is suspended in accordance with article 10.13 of the USMCA—
 
     (i) upon the request of an authorized person described in subparagraph (C), any final determination that is the subject of a binational panel review or an extraordinary challenge committee review shall be transferred to the United States Court of International Trade (in accordance with rules issued by the Court) for review under subsection (a); or
 
@@ -8481,15 +8588,15 @@ shall be liquidated in accordance with the final court decision in the action. S
 
   (C) *Persons authorized to request transfer of final determinations for judicial review* — A request that a final determination be transferred to the Court of International Trade under subparagraph (B) may be made by—
 
-    (i) if the United States made an allegation under paragraph 1 of article 1905 of the NAFTA and the operation of article 1904 of the NAFTA was suspended pursuant to paragraph 8(a) of article 1905 of the NAFTA—
+    (i) if the United States made an allegation under article 10.13 of the USMCA and the operation of article 10.12 of the USMCA was suspended pursuant to article 10.13 of the USMCA—
 
-      (I) the government of the relevant country described in subsection (f)(10)(A) or (B),
+      (I) the government of the relevant country described in subparagraph (A) or (B) of subsection (f)(9),
 
       (II) an interested party that was a party to the panel or committee review, or
 
       (III) an interested party that was a party to the proceeding in connection with which panel review was requested, but only if the time period for filing notices of appearance in the panel review has not expired, or
 
-    (ii) if a country described in subsection (f)(10)(A) or (B) made an allegation under paragraph 1 of article 1905 of the NAFTA and the operation of article 1904 of the NAFTA was suspended pursuant to paragraph 9 of article 1905 of the NAFTA—
+    (ii) if a country described in subparagraph (A) or (B) of subsection (f)(9) made an allegation under article 10.13 of the USMCA and the operation of article 10.12 of the USMCA was suspended pursuant to article 10.13 of the USMCA—
 
       (I) the government of that country,
 
@@ -8499,7 +8606,7 @@ shall be liquidated in accordance with the final court decision in the action. S
 
   (D) *Transfer for judicial review upon settlement*
 
-    (i) If the Trade Representative achieves a settlement with the government of a country described in subsection (f)(10)(A) or (B) pursuant to paragraph 7 of article 1905 of the NAFTA, and referral for judicial review is among the terms of such settlement, any final determination that is the subject of a binational panel review or an extraordinary challenge committee review shall, upon a request described in clause (ii), be transferred to the United States Court of International Trade (in accordance with rules issued by the Court) for review under subsection (a).
+    (i) If the Trade Representative achieves a settlement with the government of a country described in subparagraph (A) or (B) of subsection (f)(9) pursuant to article 10.13 of the USMCA, and referral for judicial review is among the terms of such settlement, any final determination that is the subject of a binational panel review or an extraordinary challenge committee review shall, upon a request described in clause (ii), be transferred to the United States Court of International Trade (in accordance with rules issued by the Court) for review under subsection (a).
 
     (ii) A request referred to in clause (i) is a request made by—
 
@@ -8527,6 +8634,68 @@ The Federal Rules of Civil Procedure, referred to in subsec. (g)(4)(E), (F), are
 In the original, section 1001(a) of Pub. L. 96–39 directed that this section, designated as section 516A, be added to title V of the Tariff Act of 1930, however, since a title V of the Tariff Act of 1930 has not been enacted, this section was added to title IV of the Tariff Act of 1930 to reflect the probable intent of Congress.
 
 #### Amendments
+2020—Subsec. (a)(2)(B)(vii). Pub. L. 116–113, § 421(1)(A), made technical amendment to reference in original Act which appears in text as reference to subtitle IV of this chapter.
+
+Subsec. (a)(5)(D)(i). Pub. L. 116–113, § 421(1)(B), substituted “article 10.12 of the USMCA” for “article 1904 of the NAFTA”.
+
+Subsec. (b)(3). Pub. L. 116–113, § 421(2), substituted “United States-Canada or USMCA” for “NAFTA or United States-Canada” in heading and “of the Agreement or article 10.12 of the USMCA” for “of the NAFTA or of the Agreement” in text.
+
+Subsec. (f)(6)(A). Pub. L. 116–113, § 421(3)(A), substituted “article 10.16 of the USMCA” for “article 1908 of the NAFTA”.
+
+Subsec. (f)(7)(A). Pub. L. 116–113, § 421(3)(B), substituted “article 10.16 of the USMCA” for “article 1908 of the NAFTA”.
+
+Subsec. (f)(8). Pub. L. 116–113, § 421(3)(C), (D), redesignated par. (9) as (8) and struck out former par. (8) which defined “NAFTA” as the North American Free Trade Agreement.
+
+Subsec. (f)(9). Pub. L. 116–113, § 421(3)(D), (E), redesignated par. (10) as (9), added subpars. (A) and (B), and struck out former subpars. (A) and (B) which defined “free trade area country” as Canada and Mexico for such time as the NAFTA was in force with respect to, and the United States applied the NAFTA to, those countries. Former par. (9) redesignated (8).
+
+Subsec. (f)(10). Pub. L. 116–113, § 421(3)(F), added par. (10). Former par. (10) redesignated (9).
+
+Subsec. (g)(2). Pub. L. 116–113, § 421(4)(A), substituted “of the Agreement or article 10.12 of the USMCA” for “of the NAFTA or of the Agreement” in introductory provisions.
+
+Subsec. (g)(3)(A)(i). Pub. L. 116–113, § 421(4)(B)(i), which directed substitution of “of the Agreement or article 10.12 of the USMCA;” for “of the NAFTA or of the Agreement.”, was executed by making the substitution for “of the NAFTA or of the Agreement,” to reflect the probable intent of Congress.
+
+Subsec. (g)(3)(A)(iii). Pub. L. 116–113, § 421(4)(B)(ii), substituted “the Agreement or the USMCA” for “the NAFTA or of the Agreement”.
+
+Subsec. (g)(3)(A)(v). Pub. L. 116–113, § 421(4)(B)(iii), substituted “article 10.13 of the USMCA” for “paragraph 12 of article 1905 of the NAFTA”.
+
+Subsec. (g)(3)(A)(vi). Pub. L. 116–113, § 421(4)(B)(iv), substituted “article 10.13 of the USMCA” for “paragraph 12 of article 1905 of the NAFTA”.
+
+Subsec. (g)(4)(A). Pub. L. 116–113, § 421(4)(C), substituted “the United States-Canada Free-Trade Agreement Implementation Act of 1988 implementing the binational panel dispute settlement system under chapter 19 of the Agreement, or the United States-Mexico-Canada Agreement Implementation Act implementing the binational panel dispute settlement system under chapter 10 of the USMCA” for “the North American Free Trade Agreement Implementation Act implementing the binational dispute settlement system under chapter 19 of the NAFTA, or the United States-Canada Free-Trade Agreement Implementation Act of 1988 implementing the binational panel dispute settlement system under chapter 19 of the Agreement”.
+
+Subsec. (g)(5)(A) to (C)(i). Pub. L. 116–113, § 421(4)(D)(i)–(iii)(I), substituted “of the Agreement or article 10.12 of the USMCA” for “of the NAFTA or of the Agreement”.
+
+Subsec. (g)(5)(C)(iii). Pub. L. 116–113, § 421(4)(D)(iii)(II), substituted “of the Agreement or chapter 10 of the USMCA” for “of the NAFTA or of the Agreement”.
+
+Subsec. (g)(6). Pub. L. 116–113, § 421(4)(E), substituted “of the Agreement or article 10.12 of the USMCA” for “of the NAFTA or of the Agreement”.
+
+Subsec. (g)(7). Pub. L. 116–113, § 421(4)(F), substituted “of the Agreement or article 10.12 of the USMCA” for “of the NAFTA or the Agreement” in heading and “article 1904 of the Agreement or article 10.12 of the USMCA” for “the NAFTA or the Agreement” in subpar. (A).
+
+Subsec. (g)(8)(A)(i). Pub. L. 116–113, § 421(4)(G)(i)(I), substituted “of the Agreement or article 10.12 of the USMCA” for “of the NAFTA or of the Agreement”.
+
+Subsec. (g)(8)(A)(ii). Pub. L. 116–113, § 421(4)(G)(i)(II), substituted “USMCA” for “NAFTA” in heading and “article 10.13 of the USMCA” for “paragraph 11(a) of article 1905 of the NAFTA” in text.
+
+Subsec. (g)(8)(C). Pub. L. 116–113, § 421(4)(G)(ii), substituted “of the Agreement or article 10.12 of the USMCA” for “of the NAFTA or the Agreement”.
+
+Subsec. (g)(9). Pub. L. 116–113, § 421(4)(H), substituted “of the Agreement or chapter 10 of the USMCA” for “of the NAFTA or of the Agreement”.
+
+Subsec. (g)(10). Pub. L. 116–113, § 421(4)(I), substituted “the Agreement or under article 10.12 of the USMCA” for “the NAFTA or the Agreement”.
+
+Subsec. (g)(11). Pub. L. 116–113, § 421(4)(J), added par. (11) and struck out former par. (11) which related to suspension and termination of suspension of article 1904 of the NAFTA.
+
+Subsec. (g)(12). Pub. L. 116–113, § 421(4)(K)(i), substituted “USMCA” for “NAFTA” in heading.
+
+Subsec. (g)(12)(A). Pub. L. 116–113, § 421(4)(K)(ii), added subpar. (A) and struck out former subpar. (A) which related to notice of suspension or termination of suspension of article 1904 of the NAFTA.
+
+Subsec. (g)(12)(B). Pub. L. 116–113, § 421(4)(K)(iii), substituted “article 10.12 of the USMCA” for “article 1904” in heading and “If the operation of article 10.12 of the USMCA is suspended in accordance with article 10.13 of the USMCA” for “If the operation of article 1904 of the NAFTA is suspended in accordance with paragraph 8(a) or 9 of article 1905 of the NAFTA” in introductory provisions.
+
+Subsec. (g)(12)(C)(i). Pub. L. 116–113, § 421(4)(K)(iv)(I)(aa), in introductory provisions, substituted “if the United States made an allegation under article 10.13 of the USMCA and the operation of article 10.12 of the USMCA was suspended pursuant to article 10.13 of the USMCA” for “if the United States made an allegation under paragraph 1 of article 1905 of the NAFTA and the operation of article 1904 of the NAFTA was suspended pursuant to paragraph 8(a) of article 1905 of the NAFTA”.
+
+Subsec. (g)(12)(C)(i)(I). Pub. L. 116–113, § 421(4)(K)(iv)(I)(bb), substituted “subparagraph (A) or (B) of subsection (f)(9)” for “subsection (f)(10)(A) or (B)”.
+
+Subsec. (g)(12)(C)(ii). Pub. L. 116–113, § 421(4)(K)(iv)(II), in introductory provisions, substituted “if a country described in subparagraph (A) or (B) of subsection (f)(9) made an allegation under article 10.13 of the USMCA and the operation of article 10.12 of the USMCA was suspended pursuant to article 10.13 of the USMCA” for “if a country described in subsection (f)(10)(A) or (B) made an allegation under paragraph 1 of article 1905 of the NAFTA and the operation of article 1904 of the NAFTA was suspended pursuant to paragraph 9 of article 1905 of the NAFTA”.
+
+Subsec. (g)(12)(D)(i). Pub. L. 116–113, § 421(4)(K)(v), substituted “a country described in subparagraph (A) or (B) of subsection (f)(9) pursuant to article 10.13 of the USMCA” for “a country described in subsection (f)(10)(A) or (B) pursuant to paragraph 7 of article 1905 of the NAFTA”.
+
 2006—Subsec. (g)(1)(B). Pub. L. 109–432 substituted “(vi), or (vii)” for “or (vi)”.
 
 1996—Subsec. (a)(2)(A)(i)(I). Pub. L. 104–295, § 20(a)(1), inserted comma after “subparagraph (B)”.
@@ -8651,13 +8820,18 @@ Subsec. (d). Pub. L. 96–417, §§ 601(7), 608(d), redesignated the United Stat
 
 Subsec. (e). Pub. L. 96–417, § 601(7), redesignated the United States Customs Court as the United States Court of International Trade.
 
+#### Effective Date of 2020 Amendment
+Pub. L. 116–113, title IV, § 432, Jan. 29, 2020, 134 Stat. 66, provided that: “The provisions of this title [enacting [section 4601 of this title](./chapter-029-united-states-mexico-canada-agreement-implementation.md#section-4601) and amending this section, sections 1677, 1677f, and 4374 of this title, and sections 1581, 1584, 2201, and 2643 of Title 28, Judiciary and Judicial Procedure] and the amendments made by this title shall take effect on the date on which the USMCA enters into force [July 1, 2020], but shall not apply— “(1) to any final determination described in paragraph (1)(B) or clause (i), (ii), or (iii) of paragraph (2)(B) of section 516A(a) of the Tariff Act of 1930 ([19 U.S.C. 1516a(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1516a/a&num=0&edition=prelim)) notice of which is published in the Federal Register before such date, or to a determination described in paragraph (2)(B)(vi) of that section notice of which is received by the Government of Canada or Mexico before such date; or “(2) to any binational panel review under NAFTA, or any extraordinary challenge arising out of any such review, that was commenced before such date.”
+
+[For definition of “USMCA” as used in section 432 of Pub. L. 116–113, set out above, see [section 4502 of this title](./chapter-029-united-states-mexico-canada-agreement-implementation.md#section-4502). For provisions relating to effect of termination of USMCA country status on sections 401 to 432 of Pub. L. 116–113, see [section 4601 of this title](./chapter-029-united-states-mexico-canada-agreement-implementation.md#section-4601).]
+
 #### Effective Date of 1994 Amendment
 Amendment by section 129(e) of Pub. L. 103–465 effective on the date on which the WTO Agreement enters into force with respect to the United States (Jan. 1, 1995), see section 130 of Pub. L. 103–465, set out as an Effective Date note under [section 3531 of this title](./chapter-022-uruguay-round-trade-agreements.md#section-3531).
 
 Amendment by sections 220(b), 270(a)(1)(N), and 271(b) of Pub. L. 103–465 effective, except as otherwise provided, on the date on which the WTO Agreement enters into force with respect to the United States (Jan. 1, 1995), and applicable with respect to investigations, reviews, and inquiries initiated and petitions filed under specified provisions of this chapter after such date, see section 291 of Pub. L. 103–465, set out as a note under [section 1671 of this title](./chapter-004-tariff-act-of-1930.md#section-1671).
 
 #### Effective Date of 1993 Amendment
-Amendment by Pub. L. 103–182 effective on the date the North American Free Trade Agreement enters into force with respect to the United States [Jan. 1, 1994], but not applicable to any final determination described in section 1516a(a)(1)(B) or (2)(B)(i), (ii), or (iii) of this title, notice of which is published in the Federal Register before such date, or to a determination described in [section 1516a(a)(2)(B)(vi) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1516a/a/2/B/vi&num=0&edition=prelim), notice of which is received by the Government of Canada or Mexico before such date, or to any binational panel review under the United States-Canada Free-Trade Agreement, or to any extraordinary challenge arising out of any such review, that was commenced before such date, see section 416 of Pub. L. 103–182, set out as an Effective Date note under [section 3431 of this title](./chapter-021-north-american-free-trade.md#section-3431).
+Amendment by Pub. L. 103–182 effective on the date the North American Free Trade Agreement enters into force with respect to the United States [Jan. 1, 1994], but not applicable to any final determination described in section 1516a(a)(1)(B) or (2)(B)(i), (ii), or (iii) of this title, notice of which is published in the Federal Register before such date, or to a determination described in [section 1516a(a)(2)(B)(vi) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1516a/a/2/B/vi&num=0&edition=prelim), notice of which is received by the Government of Canada or Mexico before such date, or to any binational panel review under the United States-Canada Free-Trade Agreement, or to any extraordinary challenge arising out of any such review, that was commenced before such date, see section 416 of Pub. L. 103–182, formerly set out as an Effective Date note under former [section 3431 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section3431&num=0&edition=prelim).
 
 #### Effective and Termination Dates of 1988 Amendment
 Amendment by Pub. L. 100–449 effective on date United States-Canada Free-Trade Agreement enters into force (Jan. 1, 1989), and to cease to have effect on date Agreement ceases to be in force, see section 501(a), (c) of Pub. L. 100–449, set out in a note under [section 2112 of this title](./chapter-012-trade-act-of-1974.md#section-2112).
@@ -8679,14 +8853,14 @@ Pub. L. 96–39, title X, § 1002, July 26, 1979, 93 Stat. 306, provided that: �
 #### Transfer of Functions
 For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim). For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim), as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim).
 
-#### Effect of Termination of NAFTA Country Status
-For provisions relating to effect of termination of NAFTA country status on the provisions of sections 401 to 416 of Pub. L. 103–182, see [section 3451 of this title](./chapter-021-north-american-free-trade.md#section-3451).
+#### Effect of Termination of USMCA Country Status
+For provisions relating to effect of termination of USMCA country status on sections 401 to 432 of Pub. L. 116–113, see [section 4601 of this title](./chapter-029-united-states-mexico-canada-agreement-implementation.md#section-4601).
 
 #### Plan Amendments Not Required Until January 1, 1989
 For provisions directing that if any amendments made by subtitle A or subtitle C of title XI [§§ 1101–1147 and 1171–1177] or title XVIII [§§ 1801–1899A] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under [section 401 of Title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section401&num=0&edition=prelim), Internal Revenue Code.
 
 #### Acceptance by President of Panel and Committee Decisions
-For acceptance by President of decisions of binational panels and extraordinary challenge committees in event that subsec. (b)(7)(B) of this section takes effect, see section 2 of Ex. Ord. No. 12889, Dec. 27, 1993, 58 F.R. 69681, set out as a note under [section 3311 of this title](./chapter-021-north-american-free-trade.md#section-3311).
+For acceptance by President of decisions of binational panels and extraordinary challenge committees in event that subsec. (b)(7)(B) of this section takes effect, see section 2 of Ex. Ord. No. 12889, Dec. 27, 1993, 58 F.R. 69681, set out as a note under former [section 3311 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section3311&num=0&edition=prelim).
 
 For provision that in the event that subsec. (g)(7)(B) of this section takes effect, the President accepts, as a whole, all decisions of binational panels and extraordinary challenge committees, see section 3 of Ex. Ord. No. 12662, Dec. 31, 1988, 54 F.R. 785, set out as a note under [section 2112 of this title](./chapter-012-trade-act-of-1974.md#section-2112).
 
@@ -8954,11 +9128,11 @@ Section 1519, act June 17, 1930, ch. 497, title IV, § 519, 46 Stat. 739, relate
 
 **(c) Repealed. Pub. L. 108–429, title II, § 2105, Dec. 3, 2004, 118 Stat. 2598**
 
-**(d) Goods qualifying under free trade agreement rules of origin** Notwithstanding the fact that a valid protest was not filed, the Customs Service may, in accordance with regulations prescribed by the Secretary, reliquidate an entry to refund any excess duties (including any merchandise processing fees) paid on a good qualifying under the rules of origin set out in [section 3332 of this title](./chapter-021-north-american-free-trade.md#section-3332), section 202 of the United States-Chile Free Trade Agreement Implementation Act, [section 4033 of this title](./chapter-026-dominican-republic-central-america-free-trade.md#section-4033), section 202 of the United States-Oman Free Trade Agreement Implementation Act, section 203 of the United States-Peru Trade Promotion Agreement Implementation Act, section 202 of the United States–Korea Free Trade Agreement Implementation Act, section 203 of the United States–Colombia Trade Promotion Agreement Implementation Act, or section 203 of the United States–Panama Trade Promotion Agreement Implementation Act for which no claim for preferential tariff treatment was made at the time of importation if the importer, within 1 year after the date of importation, files, in accordance with those regulations, a claim that includes—
+**(d) Goods qualifying under free trade agreement rules of origin** Notwithstanding the fact that a valid protest was not filed, the Customs Service may, in accordance with regulations prescribed by the Secretary, reliquidate an entry to refund any excess duties (including any merchandise processing fees) paid on a good qualifying under the rules of origin set out in section 202 of the United States-Chile Free Trade Agreement Implementation Act, [section 4033 of this title](./chapter-026-dominican-republic-central-america-free-trade.md#section-4033), section 202 of the United States-Oman Free Trade Agreement Implementation Act, section 203 of the United States-Peru Trade Promotion Agreement Implementation Act, section 202 of the United States–Korea Free Trade Agreement Implementation Act, section 203 of the United States–Colombia Trade Promotion Agreement Implementation Act, section 203 of the United States–Panama Trade Promotion Agreement Implementation Act, or [section 4531 of this title](./chapter-029-united-states-mexico-canada-agreement-implementation.md#section-4531), for which no claim for preferential tariff treatment was made at the time of importation if the importer, within 1 year after the date of importation, files, in accordance with those regulations, a claim that includes—
 
 (1) a written declaration that the good qualified under the applicable rules at the time of importation;
 
-(2) copies of all applicable NAFTA Certificates of Origin (as defined in [section 1508(b)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1508/b/1&num=0&edition=prelim)), or other certificates or certifications of origin, as the case may be; and
+(2) copies of all applicable certificates or certifications of origin; and
 
 (3) such other documentation and information relating to the importation of the goods as the Customs Service may require.
 
@@ -9009,6 +9183,12 @@ R.S. § 3011 (as amended by act Feb. 27, 1877, ch. 69, § 1, 19 Stat. 247, and a
 Act June 7, 1924, ch. 357, 43 Stat. 660, authorizing the remission of unpaid customs duties on material belonging to the United States and theretofore imported by the War Department, was omitted from the Code as temporary.
 
 #### Amendments
+2020—Subsec. (d). Pub. L. 116–260 struck out “(except with respect to any merchandise processing fees)” after “[section 4531 of this title](./chapter-029-united-states-mexico-canada-agreement-implementation.md#section-4531)” in introductory provisions.
+
+Pub. L. 116–113, § 205(a)(1), in introductory provisions, struck out “[section 3332 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section3332&num=0&edition=prelim),” after “origin set out in” and substituted “, section 203 of the United States–Panama” for “, or section 203 of the United States–Panama” and “, or [section 4531 of this title](./chapter-029-united-states-mexico-canada-agreement-implementation.md#section-4531) (except with respect to any merchandise processing fees), for which” for “for which”.
+
+Subsec. (d)(2). Pub. L. 116–113, § 205(a)(2), added par. (2) and struck out former par. (2) which read as follows: “copies of all applicable NAFTA Certificates of Origin (as defined in [section 1508(b)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1508/b/1&num=0&edition=prelim)), or other certificates or certifications of origin, as the case may be; and”.
+
 2011—Subsec. (d). Pub. L. 112–43, §§ 107(c), 206, in introductory provisions, temporarily struck out “or” before “section 203 of the United States–Colombia” and substituted “, or section 203 of the United States–Panama Trade Promotion Agreement Implementation Act for which” for “for which”. See Effective and Termination Dates of 2011 Amendment note below.
 
 Pub. L. 112–42, §§ 107(c), 206, in introductory provisions, temporarily struck out “or” before “section 202 of the United States–Korea Free Trade Agreement Implementation Act” and substituted “, or section 203 of the United States–Colombia Trade Promotion Agreement Implementation Act for which” for “for which” See Effective and Termination Dates of 2011 Amendment note below.
@@ -9059,6 +9239,13 @@ Subsec. (c)(2). Act Aug. 8, 1953, permitted correction of assessments of duty on
 
 1938—Subsecs. (b), (c). Act June 25, 1938, added subsecs. (b) and (c).
 
+#### Effective Date of 2020 Amendment
+Amendment by Pub. L. 116–260 effective July 1, 2020, see section 601(h) of div. O of Pub. L. 116–260, set out as a note under [section 81c of this title](./chapter-1a-foreign-trade-zones.md#section-81c).
+
+Pub. L. 116–113, title II, § 205(b), Jan. 29, 2020, 134 Stat. 46, provided that: “(1) In general.—The amendments made by subsection (a) [amending this section] shall—“(A) take effect on the date on which the USMCA enters into force [July 1, 2020]; and “(B) apply with respect to a good entered for consumption, or withdrawn from warehouse for consumption, on or after that date. “(2) Transition from nafta treatment.—In the case of a good entered for consumption, or withdrawn from warehouse for consumption, before the date on which the USMCA enters into force—“(A) the amendments made by subsection (a) to section 520(d) of the Tariff Act of 1930 ([19 U.S.C. 1520(d)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1520/d&num=0&edition=prelim)) shall not apply with respect to the good; and “(B) section 520(d) of such Act, as in effect on the day before that date, shall continue to apply on and after that date with respect to the good.”
+
+[For definition of “USMCA” as used in section 205(b) of Pub. L. 116–113, set out above, see [section 4502 of this title](./chapter-029-united-states-mexico-canada-agreement-implementation.md#section-4502).]
+
 #### Effective and Termination Dates of 2011 Amendment
 Amendment by Pub. L. 112–43 effective on the date the United States–Panama Trade Promotion Agreement enters into force (Oct. 31, 2012) and to cease to be effective on the date the Agreement terminates, see section 107(a), (c) of Pub. L. 112–43, set out in a note under [section 3805 of this title](./chapter-024-bipartisan-trade-promotion-authority.md#section-3805).
 
@@ -9087,7 +9274,7 @@ Amendment by Pub. L. 108–77 effective on the date the United States-Chile Free
 Amendment by Pub. L. 106–36 applicable with respect to goods entered, or withdrawn from warehouse for consumption, on or after the 15th day after June 25, 1999, see section 2408(c) of Pub. L. 106–36, set out as a note under [section 1514 of this title](./chapter-004-tariff-act-of-1930.md#section-1514).
 
 #### Effective Date of 1993 Amendment
-Amendment by section 206 of Pub. L. 103–182 effective on the date the North American Free Trade Agreement enters into force with respect to the United States [Jan. 1, 1994], see section 213(b) of Pub. L. 103–182, set out as an Effective Date note under [section 3331 of this title](./chapter-021-north-american-free-trade.md#section-3331).
+Amendment by section 206 of Pub. L. 103–182 effective on the date the North American Free Trade Agreement enters into force with respect to the United States (Jan. 1, 1994), see section 213(b) of Pub. L. 103–182, formerly set out as an Effective Date note under former [section 3331 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section3331&num=0&edition=prelim).
 
 #### Effective Date of 1984 Amendment
 Amendment by section 210(b) of Pub. L. 98–573 applicable with respect to determinations made or ordered on or after Oct. 30, 1984, see section 214(c)(5)(B) of Pub. L. 98–573, set out as a note under [section 1304 of this title](./chapter-004-tariff-act-of-1930.md#section-1304).
@@ -9104,7 +9291,7 @@ Amendment by act Aug. 8, 1953, effective on and after thirtieth day following Au
 Amendment by act June 25, 1938, effective on thirtieth day following June 25, 1938, except as otherwise specifically provided, see section 37 of act June 25, 1938, set out as a note under [section 1401 of this title](./chapter-004-tariff-act-of-1930.md#section-1401).
 
 #### Construction of 1993 Amendment
-Amendment by section 206 of Pub. L. 103–182 to be made after amendment by section 642(b) of Pub. L. 103–182 is executed, see section 212 of Pub. L. 103–182, set out as a note under [section 58c of this title](./chapter-001-collection-districts-ports-and-officers.md#section-58c).
+Amendment by section 206 of Pub. L. 103–182 to be made after amendment by section 642(b) of Pub. L. 103–182 is executed, see section 212 of Pub. L. 103–182, formerly set out as a note under [section 58c of this title](./chapter-001-collection-districts-ports-and-officers.md#section-58c).
 
 #### Transfer of Functions
 For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim). For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim), as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim).
@@ -9304,7 +9491,7 @@ For transfer of functions, personnel, assets, and liabilities of the United Stat
 
 
 <a id="section-1551"></a>
-## § 1551. Designation as carrier of bonded merchandise
+## § 1551. Bonding of carriers
 
 Under such regulations and subject to such terms and conditions as the Secretary of the Treasury shall prescribe—
 
@@ -9325,7 +9512,7 @@ Prior provisions concerning transportation of merchandise in bond without apprai
 #### Amendments
 1968—Pub. L. 90–240 provided that a private carrier, upon application, could, in the discretion of the Secretary, be designated as a carrier of bonded merchandise, subject to regulations, terms, and conditions prescribed by the Secretary, safeguard the revenues of the United States with respect to the transportation of bonded merchandise by such applicant.
 
-1962—Pub. L. 87–854 included any contract carrier authorized to operate as such by any agency of the United States.
+1962—Pub. L. 87–854 amended section catchline and text generally. Prior to amendment, text read as follows: “Under such regulations and subject to such terms and conditions as the Secretary of the Treasury shall prescribe, any common carrier of merchandise owning or operating a railroad, steamship, or other transportation line or route for the transportation of merchandise in the United States, or any freightforwarder authorized to operate as such by any agency of the United States, upon application, may, in the discretion of the Secretary, be designated as a carrier of bonded merchandise for the final release of which from customs custody a permit has not been issued.”
 
 Pub. L. 87–598 substituted “authorized to operate as such by any agency of the United States,” for “, as defined in [section 1002(5) of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section1002/5&num=0&edition=prelim).”
 
@@ -9702,7 +9889,7 @@ Act Aug. 8, 1953, ch. 397, § 21(b), 67 Stat. 520, provided that: “Notwithstan
 #### Effective Date of 1938 Amendment
 Act June 25, 1938, ch. 679, § 22(b), 52 Stat. 1088, provided that: “On and after the effective date of this Act [see note set out under [section 1401 of this title](./chapter-004-tariff-act-of-1930.md#section-1401)], this section [amending this section] shall be effective with respect to merchandise entered for warehouse prior to, as well as after, such date.”
 
-Act June 25, 1938, ch. 679, § 23(b), 52 Stat. 1088, provided that: “The amendments made by subsection (a) of this section [amending this section] shall apply in the case of grain imported prior to the effective date of this act [see note set out under [section 1401 of this title](./chapter-004-tariff-act-of-1930.md#section-1401)] which, on such date, has not become abandoned to the Government under section 491 or 559 of the Tariff Act of 1930 [section 1491 or 1559 of this title], and which has remained in the custody of customs officers.”
+Act June 25, 1938, ch. 679, § 23(b), 52 Stat. 1088, provided that: “The amendments made by subsection (a) of this section [amending this section and sections 1559 and 1563 of this title] shall apply in the case of grain imported prior to the effective date of this act [see note set out under [section 1401 of this title](./chapter-004-tariff-act-of-1930.md#section-1401)] which, on such date, has not become abandoned to the Government under section 491 or 559 of the Tariff Act of 1930 [section 1491 or 1559 of this title], and which has remained in the custody of customs officers.”
 
 #### Savings Provision
 Savings provision of act Aug. 8, 1953, which amended subsec. (b) of this section, see note set out under [section 1304 of this title](./chapter-004-tariff-act-of-1930.md#section-1304).
@@ -9739,7 +9926,7 @@ Provisions similar to those in this section were contained in R.S. § 2978, as a
 #### Amendments
 1999—Subsec. (b). Pub. L. 106–36 substituted “subsection (h)” for “subsection (c)” in two places.
 
-1938—Act June 25, 1938, designated existing provisions as subsecs. (a) and (b).
+1938—Act June 25, 1938, amended section generally. Prior to amendment, section disallowed remission or refund of estimated or liquidated duty on the exportation of merchandise after its release from Government control or custody, with exceptions for articles made from imported materials or not conforming to specifications, on which drawback was provided by law.
 
 #### Effective Date of 1938 Amendment
 Amendment by act June 25, 1938, effective on thirtieth day following June 25, 1938, except as otherwise specifically provided, see section 37 of act June 25, 1938, set out as a note under [section 1401 of this title](./chapter-004-tariff-act-of-1930.md#section-1401).
@@ -9771,10 +9958,10 @@ Amendment by Pub. L. 109–280 applicable with respect to goods entered, or with
 Period of time prior to Oct. 3, 1978, disregarded in application of amendment to merchandise in bonded warehouse, see section 108(b)(1) of Pub. L. 95–410, set out as a note under [section 1557 of this title](./chapter-004-tariff-act-of-1930.md#section-1557).
 
 #### Effective Date of 1938 Amendment
-Act June 25, 1938, ch. 679, § 23(b), 52 Stat. 1088, provided that: “The amendments made by subsection (a) of this section [amending this section] shall apply in the case of grain imported prior to the effective date of this act [see note set out under [section 1401 of this title](./chapter-004-tariff-act-of-1930.md#section-1401)] which, on such date, has not become abandoned to the Government under section 491 or 559 of the Tariff Act of 1930 [section 1491 or 1559 of this title], and which has remained in the custody of customs officers.”
+Amendment by act June 25, 1938, applicable in the case of grain imported prior to the thirtieth day following June 25, 1938, except as otherwise provided, see section 23(b) of act June 25, 1938, set out as a note under [section 1557 of this title](./chapter-004-tariff-act-of-1930.md#section-1557).
 
 #### Extension of Three-Year Period
-For extension of three year period prescribed in this section, see Proc. No. 2948, Oct. 12, 1951, 16 F.R. 10589, 65 Stat. c41, set out as a note under [section 1318 of this title](./chapter-004-tariff-act-of-1930.md#section-1318).
+For extension of three year period prescribed in this section (prior to amendment by Pub. L. 95–410), see Proc. No. 2948, Oct. 12, 1951, 16 F.R. 10589, 65 Stat. c41, set out as a note under [section 1318 of this title](./chapter-004-tariff-act-of-1930.md#section-1318).
 
 Proc. No. 2599, Nov. 6, 1943, 8 F.R. 15359, 57 Stat. 758, as amended by Proc. No. 2712, Dec. 4, 1946, 11 F.R. 14133, 61 Stat. 1047, was superseded by Proc. No. 2948, Oct. 12, 1951, 16 F.R. 10589, 65 Stat. c41.
 
@@ -9819,21 +10006,21 @@ Provisions similar to those in this section were contained in act Sept. 21, 1922
 
 Merchandise shall only be withdrawn from a bonded warehouse in such quantity and in such condition as the Secretary of the Treasury shall by regulation prescribe. Upon permission being granted by the Secretary of the Treasury, and under customs supervision, at the expense of the proprietor, merchandise may be cleaned, sorted, repacked, or otherwise changed in condition, but not manufactured, in bonded warehouses established for that purpose and be withdrawn therefrom—
 
-(1) without payment of duties for exportation to a NAFTA country, as defined in [section 3301(4) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section3301/4&num=0&edition=prelim), if the merchandise is of a kind described in any of paragraphs (1) through (8) of [section 3333(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section3333/a&num=0&edition=prelim);
+(1) without payment of duties for exportation to a USMCA country, as defined in [section 4502 of this title](./chapter-029-united-states-mexico-canada-agreement-implementation.md#section-4502), if the merchandise is of a kind described in any of paragraphs (1) through (8) of [section 4534(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section4534/a&num=0&edition=prelim);
 
-(2) for exportation to a NAFTA country if the merchandise consists of goods subject to NAFTA drawback, as defined in [section 3333(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section3333/a&num=0&edition=prelim), except that—
+(2) for exportation to a USMCA country if the merchandise consists of goods subject to USMCA drawback, as defined in [section 4534(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section4534/a&num=0&edition=prelim), except that—
 
   (A) the merchandise may not be withdrawn from warehouse without assessment of a duty on the merchandise in its condition and quantity, and at its weight, at the time of withdrawal from the warehouse with such additions to or deductions from the final appraised value as may be necessary by reason of change in condition, and
 
-  (B) duty shall be paid on the merchandise before the 61st day after the date of exportation, but upon the presentation, before such 61st day, of satisfactory evidence of the amount of any customs duties paid to the NAFTA country on the merchandise, the customs duty may be waived or reduced (subject to [section 1508(b)(2)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1508/b/2/B&num=0&edition=prelim)) in an amount that does not exceed the lesser of—
+  (B) duty shall be paid on the merchandise before the 61st day after the date of exportation, but upon the presentation, before such 61st day, of satisfactory evidence of the amount of any customs duties paid to the USMCA country on the merchandise, the customs duty may be waived or reduced (subject to [section 4534(e) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section4534/e&num=0&edition=prelim)) in an amount that does not exceed the lesser of—
 
     (i) the total amount of customs duties paid or owed on the merchandise on importation into the United States, or
 
-    (ii) the total amount of customs duties paid on the merchandise to the NAFTA country;
+    (ii) the total amount of customs duties paid on the merchandise to the USMCA country;
 
-(3) without payment of duties for exportation to any foreign country other than to Chile, to a NAFTA country, or to Canada when exports to that country are subject to paragraph (4);
+(3) without payment of duties for exportation to any foreign country other than to Chile, to a USMCA country, or to Canada when exports to that country are subject to paragraph (4);
 
-(4) without payment of duties for exportation to Canada (if that country ceases to be a NAFTA country and the suspension of the operation of the United States-Canada Free-Trade Agreement thereafter terminates), but the exemption from the payment of duties under this paragraph applies only in the case of an exportation during the period such Agreement is in operation of merchandise that—
+(4) without payment of duties for exportation to Canada (if that country ceases to be a USMCA country and the suspension of the operation of the United States-Canada Free-Trade Agreement thereafter terminates), but the exemption from the payment of duties under this paragraph applies only in the case of an exportation during the period such Agreement is in operation of merchandise that—
 
   (A) is only cleaned, sorted, or repacked in a bonded warehouse, or
 
@@ -9878,6 +10065,14 @@ Provisions similar to those in this section were contained in act Sept. 21, 1922
 Prior provisions substantially the same, in effect, as those in this section with respect to the quantity of merchandise which might be withdrawn, were contained in R.S. § 2980, prior to repeal by act Sept. 21, 1922, ch. 356, title IV, § 642, 42 Stat. 989.
 
 #### Amendments
+2020—Par. (1). Pub. L. 116–113, § 501(e)(4)(A), added par. (1) and struck out former par. (1) which read as follows: “without payment of duties for exportation to a NAFTA country, as defined in [section 3301(4) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section3301/4&num=0&edition=prelim), if the merchandise is of a kind described in any of paragraphs (1) through (8) of [section 3333(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section3333/a&num=0&edition=prelim);”.
+
+Par. (2). Pub. L. 116–113, § 501(e)(4)(B), substituted “[section 4534(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section4534/a&num=0&edition=prelim)” for “[section 3333(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section3333/a&num=0&edition=prelim)”, in introductory provisions, and “USMCA” for “NAFTA” wherever appearing.
+
+Par. (2)(B). Pub. L. 116–260 substituted “(subject to [section 4534(e) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section4534/e&num=0&edition=prelim))” for “(subject to [section 1508(b)(2)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1508/b/2/B&num=0&edition=prelim))” in introductory provisions.
+
+Pars. (3), (4). Pub. L. 116–113, § 501(e)(4)(C), substituted “USMCA” for “NAFTA” in two places.
+
 2006—Pub. L. 109–280, in introductory provisions, substituted “Merchandise shall only be withdrawn from a bonded warehouse in such quantity and in such condition as the Secretary of the Treasury shall by regulation prescribe. Upon permission” for “Unless by special authority of the Secretary of the Treasury, no merchandise shall be withdrawn from bonded warehouse in less quantity than an entire bale, cask, box, or other package; or, if in bulk, in the entire quantity imported or in a quantity not less than one ton weight. All merchandise so withdrawn shall be withdrawn in the original packages in which imported unless, upon the application of the importer, it appears to be the appropriate customs officer that it is necessary to the safety or preservation of the merchandise to repack or transfer the same; except that upon permission therefor”.
 
 2003—Par. (3). Pub. L. 108–77, §§ 107(c), 203(b)(4)(A), temporarily substituted “to Chile, to a NAFTA country,” for “to a NAFTA country”. See Effective and Termination Dates of 2003 Amendment note below.
@@ -9906,6 +10101,11 @@ Par. (6). Pub. L. 108–77, §§ 107(c), 203(b)(4)(D), temporarily added par. (6
 
 1938—Act June 25, 1938, inserted sentence providing for manipulation of imported merchandise entering and remaining in continuous customs custody in cases where neither the protection of the revenue nor proper conduct of business requires such manipulation be done in a bonded warehouse, and inserted “Wake Island, Midway Islands, Kingman Reef” before “or the island of Guam”.
 
+#### Effective Date of 2020 Amendment
+Amendment by Pub. L. 116–260 effective July 1, 2020, see section 601(h) of div. O of Pub. L. 116–260, set out as a note under [section 81c of this title](./chapter-1a-foreign-trade-zones.md#section-81c).
+
+Amendment by Pub. L. 116–113 effective on the date the USMCA enters into force (July 1, 2020) and applicable with respect to goods entered, or withdrawn from warehouse for consumption, on or after that date, see section 501(g) of Pub. L. 116–113, set out as a note under [section 81c of this title](./chapter-1a-foreign-trade-zones.md#section-81c).
+
 #### Effective Date of 2006 Amendment
 Amendment by Pub. L. 109–280 applicable with respect to goods entered, or withdrawn from warehouse for consumption, on or after the 15th day after Aug. 17, 2006, see section 1641 of Pub. L. 109–280, set out as a note under [section 58c of this title](./chapter-001-collection-districts-ports-and-officers.md#section-58c).
 
@@ -9913,7 +10113,7 @@ Amendment by Pub. L. 109–280 applicable with respect to goods entered, or with
 Amendment by Pub. L. 108–77 effective on the date the United States-Chile Free Trade Agreement enters into force (Jan. 1, 2004), and to cease to be effective on the date the Agreement ceases to be in force, see section 107(a), (c) of Pub. L. 108–77, set out in a note under [section 3805 of this title](./chapter-024-bipartisan-trade-promotion-authority.md#section-3805).
 
 #### Effective Date of 1993 Amendment
-Amendment by Pub. L. 103–182 applicable (1) with respect to exports from the United States to Canada on Jan. 1, 1996, if Canada is a NAFTA country on that date and after such date for so long as Canada continues to be a NAFTA country and (2) with respect to exports from the United States to Mexico on Jan. 1, 2001, if Mexico is a NAFTA country on that date and after such date for so long as Mexico continues to be a NAFTA country, see section 213(c) of Pub. L. 103–182, set out as an Effective Date note under [section 3331 of this title](./chapter-021-north-american-free-trade.md#section-3331).
+Amendment by Pub. L. 103–182 applicable (1) with respect to exports from the United States to Canada on Jan. 1, 1996, if Canada is a NAFTA country on that date and after such date for so long as Canada continues to be a NAFTA country and (2) with respect to exports from the United States to Mexico on Jan. 1, 2001, if Mexico is a NAFTA country on that date and after such date for so long as Mexico continues to be a NAFTA country, see section 213(c) of Pub. L. 103–182, formerly set out as an Effective Date note under former [section 3331 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section3331&num=0&edition=prelim).
 
 #### Effective and Termination Dates of 1988 Amendment
 Amendment by Pub. L. 100–449 effective on date the United States-Canada Free-Trade Agreement enters into force (Jan. 1, 1989), and to cease to have effect on date Agreement ceases to be in force, see section 501(a), (c) of Pub. L. 100–449, set out in a note under [section 2112 of this title](./chapter-012-trade-act-of-1974.md#section-2112).
@@ -9932,7 +10132,7 @@ Amendment by act June 25, 1938, effective on thirtieth day following June 25, 19
 
 
 <a id="section-1563"></a>
-## § 1563. Allowance for loss, abandonment of warehouse goods
+## § 1563. Allowance for loss; abandonment of warehouse goods
 **(a) Abatement or allowance for deterioration, loss or damage to merchandise in customs custody; exception** In no case shall there be any abatement or allowance made in the duties for any injury, deterioration, loss, or damage sustained by any merchandise while remaining in customs custody, except that the Secretary of the Treasury is authorized, upon production of proof satisfactory to him of the loss or theft of any merchandise while in the appraiser’s stores, or of the actual injury or destruction, in whole or in part, of any merchandise by accidental fire or other casualty, while in bonded warehouse, or in the appraiser’s stores, or while in transportation under bond, or while in the custody of the officers of the customs, although not in bond, or while within the limits of any port of entry and before having been landed under the supervision of the officers of the customs, to abate or refund, as the case may be, the duties upon such merchandise, in whole or in part, and to pay any such refund out of any moneys in the Treasury not otherwise appropriated, and to cancel any warehouse bond or bonds, or enter satisfaction thereon in whole or in part, as the case may be, but no abatement or refund shall be made in respect of injury or destruction of any merchandise in bonded warehouse occurring after the expiration of three years from the date of importation. The decision of the Secretary of the Treasury as to the abatement or refund of the duties on any such merchandise shall be final and conclusive upon all persons. The Secretary of the Treasury is authorized to prescribe such regulations as he may deem necessary to carry out the provisions of this subdivision and he may by such regulations limit the time within which proof of loss, theft, injury, or destruction shall be submitted, and may provide for the abatement or refund of duties, as authorized herein, by appropriate customs officers in cases in which the amount of the abatement or refund claimed is less than $25 and in which the importer has agreed to abide by the decision of the customs officer. The decision of the customs officer in any such case shall be final and conclusive upon all persons.
 
 **(b) Abandonment of merchandise to Government; remittal or refund of duties paid** Under such regulations as the Secretary of the Treasury may prescribe and subject to any conditions imposed thereby the consignee may at any time within three years from the date of original importation, abandon to the Government any merchandise in bonded warehouse, whereupon any duties on such merchandise may be remitted or refunded as the case may be, but any merchandise so abandoned shall not be less than an entire package and shall be abandoned in the original package without having been repacked while in a bonded warehouse (other than a bonded manip­ulating warehouse).
@@ -9954,7 +10154,7 @@ Prior provisions somewhat similar to those in this section, were contained in R.
 For effective date of amendment by Pub. L. 91–271, see section 203 of Pub. L. 91–271, set out as a note under [section 1500 of this title](./chapter-004-tariff-act-of-1930.md#section-1500).
 
 #### Effective Date of 1938 Amendment
-Act June 25, 1938, ch. 679, § 23(b), 52 Stat. 1088, provided that: “The amendments made by subsection (a) of this section [amending this section] shall apply in the case of grain imported prior to the effective date of this act [see note set out under [section 1401 of this title](./chapter-004-tariff-act-of-1930.md#section-1401)] which, on such date, has not become abandoned to the Government under section 491 or 559 of the Tariff Act of 1930 [section 1491 or 1559 of this title], and which has remained in the custody of customs officers.”
+Amendment by act June 25, 1938, applicable in the case of grain imported prior to the thirtieth day following June 25, 1938, except as otherwise provided, see section 23(b) of act June 25, 1938, set out as a note under [section 1557 of this title](./chapter-004-tariff-act-of-1930.md#section-1557).
 
 #### Appropriations
 Act June 26, 1934, ch. 756, § 2, 48 Stat. 1225, which was classified to section 725a of former Title 31, Money and Finance, repealed the permanent appropriation under the title “Refunding duties on goods destroyed (Customs) (2x330)” effective July 1, 1935, and provided that such portions of any Acts as make permanent appropriations to be expended under such account are amended so as to authorize, in lieu thereof, annual appropriations from the general fund of the Treasury in identical terms and in such amounts as now provided by the laws providing such permanent appropriations.
@@ -10535,11 +10735,7 @@ Section, acts June 17, 1930, ch. 497, title IV, § 591, 46 Stat. 750; Aug. 5, 19
   (B) if such violation resulted from negligence or gross negligence, the interest (computed from the date of liquidation at the prevailing rate of interest applied under [section 6621 of title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section6621&num=0&edition=prelim)) on the amount of lawful duties, taxes, and fees of which the United States is or may be deprived so long as such person tenders the unpaid amount of the lawful duties, taxes, and fees at the time of disclosure, or within 30 days (or such longer period as the Customs Service may provide) after notice by the Customs Service of its calculation of such unpaid amount.
   The person asserting lack of knowledge of the commencement of a formal investigation has the burden of proof in establishing such lack of knowledge. For purposes of this section, a formal investigation of a violation is considered to be commenced with regard to the disclosing party and the disclosed information on the date recorded in writing by the Customs Service as the date on which facts and circumstances were discovered or information was received which caused the Customs Service to believe that a possibility of a violation of subsection (a) existed.
 
-(5) **Prior disclosure regarding NAFTA claims** — An importer shall not be subject to penalties under subsection (a) for making an incorrect claim for preferential tariff treatment under [section 3332 of this title](./chapter-021-north-american-free-trade.md#section-3332) if the importer—
-
-  (A) has reason to believe that the NAFTA Certificate of Origin (as defined in [section 1508(b)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1508/b/1&num=0&edition=prelim)) on which the claim was based contains incorrect information; and
-
-  (B) in accordance with regulations issued by the Secretary, voluntarily and promptly makes a corrected declaration and pays any duties owing.
+(5) **Prior disclosure regarding claims under the USMCA** — An importer shall not be subject to penalties under subsection (a) for making an incorrect claim that a good qualifies as an originating good under [section 4531 of this title](./chapter-029-united-states-mexico-canada-agreement-implementation.md#section-4531) if the importer, in accordance with regulations prescribed by the Secretary of the Treasury, promptly makes a corrected declaration and pays any duties owing with respect to that good.
 
 (6) **Prior disclosure regarding claims under the United States-Chile Free Trade Agreement** — An importer shall not be subject to penalties under subsection (a) for making an incorrect claim that a good qualifies as an originating good under section 202 of the United States-Chile Free Trade Agreement Implementation Act if the importer, in accordance with regulations issued by the Secretary of the Treasury, voluntarily makes a corrected declaration and pays any duties owing.
 
@@ -10579,21 +10775,17 @@ Section, acts June 17, 1930, ch. 497, title IV, § 591, 46 Stat. 750; Aug. 5, 19
 
 (4) if the monetary penalty is based on negligence, the United States shall have the burden of proof to establish the act or omission constituting the violation, and the alleged violator shall have the burden of proof that the act or omission did not occur as a result of negligence.
 
-**(f) False certifications regarding exports to NAFTA countries**
+**(f) False certifications of origin under the USMCA**
 
-(1) **In general** — Subject to paragraph (3), it is unlawful for any person to certify falsely, by fraud, gross negligence, or negligence, in a NAFTA Certificate of Origin (as defined in [section 1508(b)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1508/b/1&num=0&edition=prelim)) that a good to be exported to a NAFTA country (as defined in [section 3301(4) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section3301/4&num=0&edition=prelim)) qualifies under the rules of origin set out in [section 3332 of this title](./chapter-021-north-american-free-trade.md#section-3332).
+(1) **In general** — Subject to paragraph (2), it is unlawful for any person to certify falsely, by fraud, gross negligence, or negligence, in a USMCA certification of origin (as such term is defined in [section 1508 of this title](./chapter-004-tariff-act-of-1930.md#section-1508)) that a good exported from the United States qualifies as an originating good under the rules of origin provided for in [section 4531 of this title](./chapter-029-united-states-mexico-canada-agreement-implementation.md#section-4531). The procedures and penalties of this section that apply to a violation of subsection (a) also apply to a violation of this subsection.
 
-(2) **Applicable provisions** — The procedures and penalties of this section that apply to a violation of subsection (a) also apply to a violation of paragraph (1), except that—
+(2) **Prompt and voluntary disclosure of incorrect information** — No penalty shall be imposed under this subsection if, promptly after an exporter or producer that issued a USMCA certification of origin has reason to believe that such certification contains or is based on incorrect information, the exporter or producer voluntarily provides written notice of such incorrect information to every person to whom the certification was issued.
 
-  (A) subsection (d) does not apply, and
+(3) **Exception** — A person shall not be considered to have violated paragraph (1) if—
 
-  (B) subsection (c)(5) applies only if the person voluntarily and promptly provides, to all persons to whom the person provided the NAFTA Certificate of Origin, written notice of the falsity of the Certificate.
+  (A) the information was correct at the time it was provided in a USMCA certification of origin but was later rendered incorrect due to a change in circumstances; and
 
-(3) **Exception** — A person may not be considered to have violated paragraph (1) if—
-
-  (A) the information was correct at the time it was provided in a NAFTA Certificate of Origin but was later rendered incorrect due to a change in circumstances; and
-
-  (B) the person voluntarily and promptly provides written notice of the change to all persons to whom the person provided the Certificate of Origin.
+  (B) the person promptly and voluntarily provides written notice of the change in circumstances to all persons to whom the person provided the certification.
 
 **(g) False certifications of origin under the United States-Chile Free Trade Agreement**
 
@@ -10713,6 +10905,10 @@ R.S. § 2839 provided for forfeiture of merchandise entered, but not invoiced ac
 Act June 22, 1874, ch. 391, § 16, 18 Stat. 189, required special findings as to fraud in actions, etc., to enforce forfeitures, etc., prior to repeal by Customs Administrative Act of June 10, 1890, ch. 407, § 29, 26 Stat. 141.
 
 #### Amendments
+2020—Subsec. (c)(5). Pub. L. 116–113, § 204(a)(1), added par. (5) and struck out former par. (5) which related to prior disclosure regarding NAFTA claims.
+
+Subsec. (f). Pub. L. 116–113, § 204(a)(2), added subsec. (f) and struck out former subsec. (f) which related to false certifications regarding exports to NAFTA countries.
+
 2011—Subsec. (c)(11). Pub. L. 112–41, §§ 107(c), 204(a)(1)(B), temporarily added par. (11). Former par. (11) redesignated (12). See Effective and Termination Dates of 2011 Amendment note below.
 
 Subsec. (c)(12). Pub. L. 112–42, §§ 107(c), 205(a)(1)(B), temporarily added par. (12). Former par. (12) redesignated (13). See Effective and Termination Dates of 2011 Amendment note below.
@@ -10793,6 +10989,9 @@ Subsec. (f). Pub. L. 103–182, § 205(c)(2), added subsec. (f).
 
 1935—Act Aug. 5, 1935, inserted “whether or not the United States shall or may be deprived of the lawful duties, or any portion thereof, accruing upon the merchandise, or any portion thereof, embraced or referred to in such invoice, declaration, affidavit, letter, paper, or statement;”.
 
+#### Effective Date of 2020 Amendment
+Amendment by Pub. L. 116–113 effective on the date on which the USMCA enters into force (July 1, 2020) and applicable with respect to goods entered or exported from the United States on or after that date, see section 204(c) of Pub. L. 116–113, set out as a note under [section 1514 of this title](./chapter-004-tariff-act-of-1930.md#section-1514).
+
 #### Effective and Termination Dates of 2011 Amendment
 Amendment by Pub. L. 112–43 effective Oct. 21, 2011, applicable with respect to Panama on the date the United States–Panama Trade Promotion Agreement enters into force (Oct. 31, 2012), and to cease to be effective on the date the Agreement terminates, see section 107(b), (c) of Pub. L. 112–43, set out in a note under [section 3805 of this title](./chapter-024-bipartisan-trade-promotion-authority.md#section-3805).
 
@@ -10818,13 +11017,13 @@ Amendment by Pub. L. 108–77 effective on the date the United States-Chile Free
 Amendment by section 3(a)(4), (5) of Pub. L. 104–295 applicable as of Dec. 8, 1993, see section 3(b) of Pub. L. 104–295, set out as a note under [section 1321 of this title](./chapter-004-tariff-act-of-1930.md#section-1321).
 
 #### Effective Date of 1993 Amendment
-Amendment by section 205(c) of Pub. L. 103–182 effective on the date the North American Free Trade Agreement enters into force with respect to the United States [Jan. 1, 1994], see section 213(b) of Pub. L. 103–182, set out as an Effective Date note under [section 3331 of this title](./chapter-021-north-american-free-trade.md#section-3331).
+Amendment by section 205(c) of Pub. L. 103–182 effective on the date the North American Free Trade Agreement enters into force with respect to the United States (Jan. 1, 1994), see section 213(b) of Pub. L. 103–182, formerly set out as an Effective Date note under former [section 3331 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section3331&num=0&edition=prelim).
 
 #### Effective Date of 1980 Amendment
 Amendment by Pub. L. 96–417 applicable with respect to civil actions commenced on or after 90th day after Nov. 1, 1980, see section 701(c)(2) of Pub. L. 96–417, set out as a note under [section 251 of Title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section251&num=0&edition=prelim), Judiciary and Judicial Procedure.
 
 #### Effective Date of 1978 Amendment
-Pub. L. 95–410, title I, § 110(f), Oct. 3, 1978, 92 Stat. 897, provided that: “(1)(A) Except as provided in subparagraphs (B) and (C), subsections (a), (b), and (c) (other than new subsection (e) of section 592 of the Tariff Act of 1930 as added by subsection (a)) [subsec. (a), (b), and (c), not including (e) of this section] shall be effective with respect to proceedings commenced after the 89th day after the date of enactment of this Act [Oct. 3, 1978]. “(B) Except as provided in subparagraph (C), section 592 of the Tariff Act of 1930 [this section] (as such section existed on the day before the date of enactment of this Act) [Oct. 3, 1978] shall apply to any alleged intentional violation thereof involving television receivers that are the product of Japan and that were or are the subject of antidumping proceedings if the alleged intentional violation—“(i) occurred before the date of enactment of this Act, and “(ii) was the subject of an investigation by the Customs Service which was begun before the date of enactment of this Act. “(C) Except as provided in the next sentence, subsection (e) of section 592 of the Tariff Act of 1930 (as added by subsection (a)) [subsec. (e) of this section] shall be effective on the date of enactment of this Act [Oct. 3, 1978]. Notwithstanding any provision of law, in any proceeding in a United States district court commenced by the United States pursuant to section 604 of the Tariff Act of 1930 [[section 1604 of this title](./chapter-004-tariff-act-of-1930.md#section-1604)] for the recovery of any monetary penalty claimed under section 592 of such Act [this section] for an alleged intentional violation described in subparagraph (B)—“(i) all issues, including the amount of the penalty, shall be tried de novo; and “(ii) the United States shall have the burden of proof to establish such violation by a preponderance of the evidence. “(2)(A) The amendment made by subsection (e) [to [section 1621 of this title](./chapter-004-tariff-act-of-1930.md#section-1621)] shall apply with respect to alleged violations of section 592 of the Tariff Act of 1930 [this section] resulting from gross negligence or negligence which are committed on or after the date of the enactment of this Act [Oct. 3, 1978]. “(B) In the case of any alleged violation of such section 592 [this section] resulting from gross negligence or negligence which was committed before the date of the enactment of this Act [Oct. 3, 1978] and for which no suit or action for recovery was commenced before such date of enactment, no suit or action for recovery with respect to such alleged violation shall be instituted after—“(i) the closing date of the 5-year period beginning on the date on which the alleged violation was committed, or “(ii) the closing date of the 2-year period beginning on such date of enactment, whichever date later occurs, except that no such suit or action may be instituted after the date on which such suit or action would have been barred under section 621 of the Tariff Act of 1930 [[section 1621 of this title](./chapter-004-tariff-act-of-1930.md#section-1621)] (as in effect on the day before such date of enactment).”
+Pub. L. 95–410, title I, § 110(f), Oct. 3, 1978, 92 Stat. 897, provided that: “(1)(A) Except as provided in subparagraphs (B) and (C), subsections (a), (b), and (c) (other than new subsection (e) of section 592 of the Tariff Act of 1930 as added by subsection (a)) [subsecs. (a), (b), and (c), not including (e) of this section] shall be effective with respect to proceedings commenced after the 89th day after the date of enactment of this Act [Oct. 3, 1978]. “(B) Except as provided in subparagraph (C), section 592 of the Tariff Act of 1930 [this section] (as such section existed on the day before the date of enactment of this Act) [Oct. 3, 1978] shall apply to any alleged intentional violation thereof involving television receivers that are the product of Japan and that were or are the subject of antidumping proceedings if the alleged intentional violation—“(i) occurred before the date of enactment of this Act, and “(ii) was the subject of an investigation by the Customs Service which was begun before the date of enactment of this Act. “(C) Except as provided in the next sentence, subsection (e) of section 592 of the Tariff Act of 1930 (as added by subsection (a)) [subsec. (e) of this section] shall be effective on the date of enactment of this Act [Oct. 3, 1978]. Notwithstanding any provision of law, in any proceeding in a United States district court commenced by the United States pursuant to section 604 of the Tariff Act of 1930 [[section 1604 of this title](./chapter-004-tariff-act-of-1930.md#section-1604)] for the recovery of any monetary penalty claimed under section 592 of such Act [this section] for an alleged intentional violation described in subparagraph (B)—“(i) all issues, including the amount of the penalty, shall be tried de novo; and “(ii) the United States shall have the burden of proof to establish such violation by a preponderance of the evidence. “(2)(A) The amendment made by subsection (e) [to [section 1621 of this title](./chapter-004-tariff-act-of-1930.md#section-1621)] shall apply with respect to alleged violations of section 592 of the Tariff Act of 1930 [this section] resulting from gross negligence or negligence which are committed on or after the date of the enactment of this Act [Oct. 3, 1978]. “(B) In the case of any alleged violation of such section 592 [this section] resulting from gross negligence or negligence which was committed before the date of the enactment of this Act [Oct. 3, 1978] and for which no suit or action for recovery was commenced before such date of enactment, no suit or action for recovery with respect to such alleged violation shall be instituted after—“(i) the closing date of the 5-year period beginning on the date on which the alleged violation was committed, or “(ii) the closing date of the 2-year period beginning on such date of enactment, whichever date later occurs, except that no such suit or action may be instituted after the date on which such suit or action would have been barred under section 621 of the Tariff Act of 1930 [[section 1621 of this title](./chapter-004-tariff-act-of-1930.md#section-1621)] (as in effect on the day before such date of enactment).”
 
 #### Transfer of Functions
 For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim). For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim), as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim).
@@ -11033,7 +11232,7 @@ Section, act June 17, 1930, ch. 497, title IV, § 593, 46 Stat. 751, related to 
 Amendment by Pub. L. 108–429 effective Dec. 3, 2004, and applicable to drawback entries filed on or after Dec. 3, 2004, and to those filed before Dec. 3, 2004, if liquidation of the drawback entry is not final on Dec. 3, 2004, see section 1563(g)(1) of Pub. L. 108–429, set out as a note under [section 1313 of this title](./chapter-004-tariff-act-of-1930.md#section-1313).
 
 #### Effective Date
-Pub. L. 103–182, title VI, § 622(b), Dec. 8, 1993, 107 Stat. 2186, provided that: “The amendment made by subsection (a) [enacting this section] applies to drawback claims filed on and after the nationwide operational implementation of an automated drawback selectivity program by the Customs Service. The Customs Service shall publish notice of this date in the Customs Bulletin.”
+Pub. L. 103–182, title VI, § 622(b), Dec. 8, 1993, 107 Stat. 2186, which provided that the enactment of this section would apply to drawback claims filed on and after the nationwide operational implementation of an automated drawback selectivity program by the Customs Service, was repealed by Pub. L. 116–113, title VI, § 601, Jan. 29, 2020, 134 Stat. 78, effective on the date the USMCA entered into force (July 1, 2020).
 
 #### Transfer of Functions
 For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim). For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim), as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim).
@@ -11204,6 +11403,9 @@ The Controlled Substances Act, referred to in subsec. (c)(1)(B), is title II of 
 #### Codification
 In subsec. (c)(1)(C), “[section 80302 of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section80302&num=0&edition=prelim)” substituted for “section 1 of the Act of August 9, 1939 (49 U.S.C. App. 781)” on authority of Pub. L. 103–272, § 6(b), July 5, 1994, 108 Stat. 1378, the first section of which enacted subtitles II, III, and V to X of Title 49, Transportation.
 
+#### Prior Provisions
+A prior section 596 of act June 17, 1930, ch. 497, title IV, 46 Stat. 752, related to buildings on boundary, prior to repeal by act June 25, 1948, ch. 645, § 21, 62 Stat. 862, eff. Sept. 1, 1948.
+
 #### Amendments
 2016—Subsec. (c)(2)(G). Pub. L. 114–125 added subpar. (G).
 
@@ -11336,11 +11538,14 @@ Functions of all other officers of Department of the Treasury and functions of a
 
 
 <a id="section-1604"></a>
-## § 1604. Seizure; prosecution
+## § 1604. Seizure; prosecution 11 See Codification note below.
 
-It shall be the duty of the Attorney General of the United States immediately to inquire into the facts of cases reported to him by customs officers and the laws applicable thereto, and if it appears probable that any fine, penalty, or forfeiture has been incurred by reason of such violation, for the recovery of which the institution of proceedings in the United States district court or the Court of International Trade is necessary, forthwith to cause the proper proceedings to be commenced and prosecuted, without delay, for the recovery of such fine, penalty, or forfeiture in such case provided, unless, upon inquiry and examination, the Attorney General decides that such proceedings can not probably be sustained or that the ends of public justice do not require that they should be instituted or prosecuted, in which case he shall report the facts to the Secretary of the Treasury for his direction in the premises.
+It shall be the duty of the Attorney General of the United States immediately to inquire into the facts of cases reported to him by customs officers and the laws applicable thereto, and if it appears probable that any fine, penalty, or forfeiture has been incurred by reason of such 1 violation, for the recovery of which the institution of proceedings in the United States district court or the Court of International Trade is necessary, forthwith to cause the proper proceedings to be commenced and prosecuted, without delay, for the recovery of such fine, penalty, or forfeiture in such case provided, unless, upon inquiry and examination, the Attorney General decides that such proceedings can not probably be sustained or that the ends of public justice do not require that they should be instituted or prosecuted, in which case he shall report the facts to the Secretary of the Treasury for his direction in the premises.
 
 ### Statutory Notes
+
+#### Codification
+As enacted by act June 17, 1930, the catchline for this section was “Same—prosecution”, as this section was intended to be read as a continuation of the provisions introduced in sections 1602 and 1603 of this title. The use of “such” in text is meant to refer back to [section 1603 of this title](./chapter-004-tariff-act-of-1930.md#section-1603).
 
 #### Prior Provisions
 Provisions similar to those in this section were contained in act Sept. 21, 1922, ch. 356, title IV, § 604, 42 Stat. 984. That section was superseded by section 604 of act June 17, 1930, comprising this section, and repealed by section 651(a)(1) of the 1930 act.
@@ -11412,7 +11617,7 @@ For effective date of amendment by Pub. L. 91–271, see section 203 of Pub. L. 
 
 
 <a id="section-1607"></a>
-## § 1607. Seizure; value $500,000 or less, prohibited articles, transporting conveyances
+## § 1607. Seizure; value $500,000 or less, prohibited merchandise, transporting conveyances
 **(a) Notice of seizure** If—
 
 (1) the value of such seized vessel, vehicle, aircraft, merchandise, or baggage does not exceed $500,000;
@@ -11450,7 +11655,7 @@ Subsec. (c). Pub. L. 101–382, § 122(5), added subsec. (c).
 
 1984—Pub. L. 98–573 amended section generally. See explanation below for amendment by Pub. L. 98–473.
 
-Pub. L. 98–473 amended section generally in manner substantially identical to amendment by Pub. L. 98–573. Prior to amendment, section read as follows: “If such value of such vessel, vehicle, merchandise, or baggage does not exceed $10,000, the appropriate customs officer shall cause a notice of the seizure of such articles and the intention to forfeit and sell or otherwise dispose of the same according to law to be published for at least three successive weeks in such manner as the Secretary of the Treasury may direct. For the purposes of this section and sections 1610 and 1612 of this title merchandise the importation of which is prohibited shall be held not to exceed $10,000 in value.”
+Pub. L. 98–473 amended section generally in manner substantially identical to amendment by Pub. L. 98–573, on which text of section is based. Prior to amendment, section read as follows: “If such value of such vessel, vehicle, merchandise, or baggage does not exceed $10,000, the appropriate customs officer shall cause a notice of the seizure of such articles and the intention to forfeit and sell or otherwise dispose of the same according to law to be published for at least three successive weeks in such manner as the Secretary of the Treasury may direct. For the purposes of this section and sections 1610 and 1612 of this title merchandise the importation of which is prohibited shall be held not to exceed $10,000 in value.”
 
 1978—Pub. L. 95–410 substituted “$10,000” for “$2,500” wherever appearing.
 
@@ -12176,11 +12381,14 @@ Amendment by Pub. L. 98–573 effective Oct. 15, 1984, see section 214(e) of Pub
 
 
 <a id="section-1620"></a>
-## § 1620. Acceptance of money by United States officers
+## § 1620. Acceptance of money by United States officers 11 See Codification note below.
 
-Any officer of the United States who directly or indirectly receives, accepts, or contracts for any portion of the money which may accrue to any person making such detection and seizure, or furnishing such information, shall be guilty of a felony and, upon conviction thereof, shall be punished by a fine of not more than $10,000, or by imprisonment for not more than two years, or both, and shall be thereafter ineligible to any office of honor, trust, or emolument. Any such person who pays to any such officer, or to any person for the use of such officer, any portion of such money, or anything of value for or because of such money, shall have a right of action against such officer, or his legal representatives, or against such person, or his legal representatives, and shall be entitled to recover the money so paid or the thing of value so given.
+Any officer of the United States who directly or indirectly receives, accepts, or contracts for any portion of the money which may accrue to any person making such 1 detection and seizure, or furnishing such 1 information, shall be guilty of a felony and, upon conviction thereof, shall be punished by a fine of not more than $10,000, or by imprisonment for not more than two years, or both, and shall be thereafter ineligible to any office of honor, trust, or emolument. Any such person who pays to any such officer, or to any person for the use of such officer, any portion of such money, or anything of value for or because of such money, shall have a right of action against such officer, or his legal representatives, or against such person, or his legal representatives, and shall be entitled to recover the money so paid or the thing of value so given.
 
 ### Statutory Notes
+
+#### Codification
+As enacted by act June 17, 1930, the catchline for this section was “Same—United States officers”, as this section was intended to be read as a continuation of the provisions introduced in [section 1619 of this title](./chapter-004-tariff-act-of-1930.md#section-1619), and the use of “such” in the first sentence is similarly meant to refer back to section 1619. For text of [section 1619 of this title](./chapter-004-tariff-act-of-1930.md#section-1619) prior to its general amendment by Pub. L. 99–570, see 1986 Amendment note under that section.
 
 #### Prior Provisions
 Provisions similar to those in this section were contained in act Sept. 21, 1922, ch. 356, title IV, § 620, 42 Stat. 988. That section was superseded by section 620 of act June 17, 1930, comprising this section, and repealed by section 651(a)(1) of the 1930 act.
@@ -12391,19 +12599,36 @@ Section effective on 15th day after Oct. 30, 1984, see section 214(a), (b) of Pu
 
 (2) No information may be provided under subsection (a) to any foreign customs or law enforcement agency that has violated any assurances described in paragraph (1).
 
-**(c) Government agency of NAFTA country** The Secretary may authorize the Customs Service to exchange information with any government agency of a NAFTA country, as defined in [section 3301(4) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section3301/4&num=0&edition=prelim), if the Secretary—
+**(c) Government agency of USMCA country**
 
-(1) reasonably believes the exchange of information is necessary to implement chapter 3, 4, or 5 of the North American Free Trade Agreement, and
+(1) **In general** — The Secretary may authorize U.S. Customs and Border Protection to exchange information with any government agency of a USMCA country, if the Secretary—
 
-(2) obtains assurances from such country that the information will be held in confidence and used only for governmental purposes.
+  (A) reasonably believes the exchange of information is necessary to implement chapter 2, 4, 5, 6, or 7 of the USMCA; and
+
+  (B) obtains assurances from such agency that the information will be held in confidence and used only for governmental purposes.
+
+(2) **Definitions** — In this subsection, the terms “USMCA” and “USMCA country” have the meanings given those terms in [section 4502 of this title](./chapter-029-united-states-mexico-canada-agreement-implementation.md#section-4502).
 
 ### Statutory Notes
 
 #### Amendments
+2020—Subsec. (c). Pub. L. 116–113 added subsec. (c) and struck out former subsec. (c). Prior to amendment, text read as follows: “The Secretary may authorize the Customs Service to exchange information with any government agency of a NAFTA country, as defined in [section 3301(4) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section3301/4&num=0&edition=prelim), if the Secretary—
+
+“(1) reasonably believes the exchange of information is necessary to implement chapter 3, 4, or 5 of the North American Free Trade Agreement, and
+
+“(2) obtains assurances from such country that the information will be held in confidence and used only for governmental purposes.”
+
 1993—Subsec. (c). Pub. L. 103–182 added subsec. (c).
 
+#### Effective Date of 2020 Amendment; Retention of Authority To Exchange Information
+Amendment by Pub. L. 116–113 effective on the date the USMCA enters into force (July 1, 2020) and applicable with respect to goods entered for consumption, or withdrawn from warehouse for consumption, on or after that date, see section 209(d) of Pub. L. 116–113, set out as an Effective Date of 2020 Amendment note under [section 1304 of this title](./chapter-004-tariff-act-of-1930.md#section-1304).
+
+Pub. L. 116–113, title II, § 209(e), Jan. 29, 2020, 134 Stat. 53, provided that: “Notwithstanding the amendment made by subsection (c) [amending this section], the Secretary of the Treasury shall retain the authority provided in section 628(c) of the Tariff Act of 1930 [[19 U.S.C. 1628(c)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1628/c&num=0&edition=prelim)] (as in effect on the day before the date on which the USMCA enters into force [July 1, 2020]) to exchange information with any government agency of a NAFTA country (as defined in section 2 of the North American Free Trade Agreement Implementation Act [[19 U.S.C. 3301](./chapter-021-north-american-free-trade.md#section-3301)] (as in effect on the day before the date on which the USMCA enters into force)).”
+
+[For definition of “USMCA” as used in section 209(e) of Pub. L. 116–113, set out above, see [section 4502 of this title](./chapter-029-united-states-mexico-canada-agreement-implementation.md#section-4502).]
+
 #### Effective Date of 1993 Amendment
-Amendment by Pub. L. 103–182 effective on the date the North American Free Trade Agreement enters into force with respect to the United States [Jan. 1, 1994], see section 213(b) of Pub. L. 103–182, set out as an Effective Date note under [section 3331 of this title](./chapter-021-north-american-free-trade.md#section-3331).
+Amendment by Pub. L. 103–182 effective on the date the North American Free Trade Agreement enters into force with respect to the United States (Jan. 1, 1994), see section 213(b) of Pub. L. 103–182, formerly set out as an Effective Date note under former [section 3331 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section3331&num=0&edition=prelim).
 
 #### Transfer of Functions
 For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim). For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim), as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim).
@@ -12811,7 +13036,7 @@ Subdivision (a) of [section 2073 of this title](./chapter-010-customs-service.md
 
 
 <a id="section-1644"></a>
-## § 1644. Application of [section 1644a(b)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1644a/b/1&num=0&edition=prelim) and [section 1518(d) of title 33](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1518/d&num=0&edition=prelim)
+## § 1644. Application of the Federal Aviation Act and [section 1518(d) of title 33](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1518/d&num=0&edition=prelim)
 **(a)** The authority vested by [section 1644a(b)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1644a/b/1&num=0&edition=prelim) in the Secretary of the Treasury, by regulation to provide for the application to civil air navigation of the laws and regulations relating to the administration of customs, and of the laws and regulations relating to the entry and clearance of vessels, shall extend to the application in like manner of any of the provisions of this chapter, or of the Anti-Smuggling Act of 1935 [[19 U.S.C. 1701](./chapter-005-smuggling.md#section-1701) et seq.], or of any regulations promulgated hereunder.
 
 **(b)** For purposes of [section 1518(d) of title 33](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1518/d&num=0&edition=prelim), the term “customs laws administered by the Secretary of the Treasury” shall mean this chapter and any other provisions of law classified to this title.
@@ -13099,7 +13324,7 @@ This chapter may be cited as the “Tariff Act of 1930.”
 ### Statutory Notes
 
 #### Short Title of 2015 Amendment
-Pub. L. 114–27, title V, § 501, June 29, 2015, 129 Stat. 383, provided that: “This title [amending sections 1677, 1677b, 1677e, and 1677m of this title and enacting provisions set out as a note under [section 3438 of this title](./chapter-021-north-american-free-trade.md#section-3438)] may be cited as the ‘American Trade Enforcement Effectiveness Act’.”
+Pub. L. 114–27, title V, § 501, June 29, 2015, 129 Stat. 383, provided that: “This title [amending sections 1677, 1677b, 1677e, and 1677m of this title and enacting provisions set out as a note under [section 3438 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section3438&num=0&edition=prelim)] may be cited as the ‘American Trade Enforcement Effectiveness Act’.”
 
 #### Short Title of 2012 Amendment
 Pub. L. 112–93, § 1, Feb. 10, 2012, 126 Stat. 8, provided that: “This Act [amending [section 1590 of this title](./chapter-004-tariff-act-of-1930.md#section-1590) and enacting provisions set out as a note under [section 1590 of this title](./chapter-004-tariff-act-of-1930.md#section-1590)] may cited as the ‘Ultralight Aircraft Smuggling Prevention Act of 2012’.”
@@ -14132,7 +14357,7 @@ For provisions directing that if any amendments made by subtitle A or subtitle C
 
 
 <a id="section-1671f"></a>
-## § 1671f. Treatment of difference between deposit of estimated countervailing duty and final assessed duty under countervailing duty orders
+## § 1671f. Treatment of difference between deposit of estimated countervailing duty and final assessed duty under countervailing duty order
 **(a) Deposit of estimated countervailing duty under [section 1671b(d)(1)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1671b/d/1/B&num=0&edition=prelim)** If the amount of a cash deposit, or the amount of any bond or other security, required as security for an estimated countervailing duty under [section 1671b(d)(1)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1671b/d/1/B&num=0&edition=prelim) is different from the amount of the countervailing duty determined under a countervailing duty order issued under [section 1671e of this title](./chapter-004-tariff-act-of-1930.md#section-1671e), then the difference for entries of merchandise entered, or withdrawn from warehouse, for consumption before notice of the affirmative determination of the Commission under [section 1671d(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1671d/b&num=0&edition=prelim) is published shall be—
 
 (1) disregarded, to the extent that the cash deposit, bond, or other security is lower than the duty under the order, or
@@ -14175,7 +14400,7 @@ For provisions directing that if any amendments made by subtitle A or subtitle C
 
 
 <a id="section-1671h"></a>
-## § 1671h. Conditional payment of countervailing duties
+## § 1671h. Conditional payment of countervailing duty
 **(a) In general** For all entries, or withdrawals from warehouse, for consumption of merchandise subject to a countervailing duty order on or after the date of publication of such order, no customs officer may deliver merchandise of that class or kind to the person by whom or for whose account it was imported unless that person complies with the requirement of subsection (b) and deposits with the appropriate customs officer an estimated countervailing duty in an amount determined by the administering authority.
 
 **(b) Importer requirements** In order to meet the requirements of this subsection, a person shall—
@@ -14193,7 +14418,7 @@ Section effective Oct. 30, 1984, see section 626(a) of Pub. L. 98–573, set out
 
 
 <a id="section-1673"></a>
-## § 1673. Imposition of antidumping duties
+## § 1673. Antidumping duties imposed
 
 If—
 
@@ -15676,7 +15901,7 @@ Section effective, except as otherwise provided, on the date on which the WTO Ag
 
 (4) **Countervailing duty orders with respect to which no request for injury investigation is made** — If, with respect to a countervailing duty order described in subsection (a), a request for an investigation is not made within the time required by subsection (a)(3), the Commission shall notify the administering authority that a negative determination has been made under subsection (a) and the provisions of paragraph (3)(B) shall apply with respect to the order.
 
-**(c) Pending and suspended countervailing duty investigations** If, on the date on which a country becomes a Subsidies Agreement country, there is a countervailing duty investigation in progress or suspended under section 1303 22 See References in Text note below. of this title or [section 1671(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1671/c&num=0&edition=prelim) that applies to merchandise which is a product of that country and with respect to which the requirement of an affirmative determination of material injury was not applicable at the time the investigation was initiated, the Commission shall—
+**(c) Pending and suspended countervailing duty investigations** If, on the date on which a country becomes a Subsidies Agreement country, there is a countervailing duty investigation in progress or suspended under section 1303 1 of this title or [section 1671(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1671/c&num=0&edition=prelim) that applies to merchandise which is a product of that country and with respect to which the requirement of an affirmative determination of material injury was not applicable at the time the investigation was initiated, the Commission shall—
 
 (1) in the case of an investigation in progress, make a final determination under [section 1671d(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1671d/b&num=0&edition=prelim) within 75 days after the date of an affirmative final determination, if any, by the administering authority,
 
@@ -15705,7 +15930,7 @@ Section effective, except as otherwise provided, on the date on which the WTO Ag
 ### Statutory Notes
 
 #### References in Text
-[Section 1303 of this title](./chapter-004-tariff-act-of-1930.md#section-1303), referred to in subsecs. (a)(2) and (c), is defined in [section 1677(26) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1677/26&num=0&edition=prelim) to mean section 1330 as in effect on the day before Jan. 1, 1995.
+[Section 1303 of this title](./chapter-004-tariff-act-of-1930.md#section-1303), referred to in subsecs. (a)(2) and (c), is defined in [section 1677(26) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1677/26&num=0&edition=prelim) to mean section 1303 as in effect on the day before Jan. 1, 1995.
 
 #### Amendments
 1996—Pub. L. 104–295, § 39(1), inserted “or section 1671(c)” after “section 1303” in section catchline.
@@ -15750,7 +15975,7 @@ Pub. L. 109–171, title VII, § 7601(b), Feb. 8, 2006, 120 Stat. 154, provided 
 
 **(b) Modification of agreements on basis of consultations** At the direction of the President, the administering authority shall modify a quantitative restriction agreement as a result of consultations entered into under subsection (a).
 
-**(c) Special rule regarding agreements under [section 1671c(c)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1671c/c/3&num=0&edition=prelim)** This chapter shall cease to apply to a quantitative restriction agreement described in [section 1671c(c)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1671c/c/3&num=0&edition=prelim) at such time as that agreement ceases to have force and effect under [section 1671c(f) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1671c/f&num=0&edition=prelim) or violation is found under [section 1671c(i) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1671c/i&num=0&edition=prelim).
+**(c) Special rule regarding agreements under [section 1671c(c)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1671c/c/3&num=0&edition=prelim)** This subpart shall cease to apply to a quantitative restriction agreement described in [section 1671c(c)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1671c/c/3&num=0&edition=prelim) at such time as that agreement ceases to have force and effect under [section 1671c(f) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1671c/f&num=0&edition=prelim) or violation is found under [section 1671c(i) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1671c/i&num=0&edition=prelim).
 
 ### Statutory Notes
 
@@ -16296,7 +16521,7 @@ For purposes of this subtitle—
 
 (21) **United States-Canada Agreement** — The term “United States-Canada Agreement” means the United States-Canada Free-Trade Agreement.
 
-(22) **NAFTA** — The term “NAFTA” means the North American Free Trade Agreement.
+(22) **USMCA** — The term “USMCA” has the meaning given that term in [section 4502 of this title](./chapter-029-united-states-mexico-canada-agreement-implementation.md#section-4502).
 
 (23) **Entry** — The term “entry” includes, in appropriate circumstances as determined by the administering authority, a reconciliation entry created under a reconciliation process, defined in [section 1401(s) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1401/s&num=0&edition=prelim), that is initiated by an importer. The liability of an importer under an antidumping or countervailing duty proceeding for entries of merchandise subject to the proceeding will attach to the corresponding reconciliation entry or entries. Suspension of liquidation of the reconciliation entry or entries, for the purpose of enforcing this subtitle, is equivalent to the suspension of liquidation of the corresponding individual entries; but the suspension of liquidation of the reconciliation entry or entries for such purpose does not preclude liquidation for any other purpose.
 
@@ -16410,6 +16635,8 @@ The Antidumping Act, 1921, referred to in par. (25), is act May 27, 1921, ch. 14
 For the effective date of title II of the Uruguay Round Agreements Act, referred to in par. (26), as Jan. 1, 1995, see Effective Date of 1994 Amendment note set out under [section 1671 of this title](./chapter-004-tariff-act-of-1930.md#section-1671).
 
 #### Amendments
+2020—Par. (22). Pub. L. 116–113 added par. (22) and struck out former par. (22) which defined “NAFTA” as the North American Free Trade Agreement.
+
 2015—Par. (7)(C)(iii)(I). Pub. L. 114–27, § 503(b), amended subcl. (I) generally. Prior to amendment, subcl. (I) read as follows: “actual and potential decline in output, sales, market share, profits, productivity, return on investments, and utilization of capacity,”.
 
 Par. (7)(C)(iv)(I) to (III). Pub. L. 114–27, § 503(c), inserted “and” at end of subcl. (I), struck out “and” after comma at end of subcl. (II), and struck out subcl. (III) which read as follows: “the production of the domestic like product sold in the merchant market is not generally used in the production of that downstream article,”.
@@ -16605,11 +16832,14 @@ Par. (17). Pub. L. 98–573, § 612(a)(5), substituted “commercial quantities�
 #### Change of Name
 “Commissioner of U.S. Customs and Border Protection” substituted for “Commissioner of Customs” in two places in par. (18)(E) on authority of section 802(d)(2) of Pub. L. 114–125, set out as a note under [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim), Domestic Security.
 
+#### Effective Date of 2020 Amendment
+Amendment by Pub. L. 116–113 effective on the date on which the USMCA enters into force (July 1, 2020), but not applicable to certain determinations under [section 1516a of this title](./chapter-004-tariff-act-of-1930.md#section-1516a) or binational panel reviews under NAFTA, see section 432 of Pub. L. 116–113, set out as a note under [section 1516a of this title](./chapter-004-tariff-act-of-1930.md#section-1516a).
+
 #### Effective Date of 1994 Amendment
 Amendment by Pub. L. 103–465 effective, except as otherwise provided, on the date on which the WTO Agreement enters into force with respect to the United States (Jan. 1, 1995), and applicable with respect to investigations, reviews, and inquiries initiated and petitions filed under specified provisions of this chapter after such date, see section 291 of Pub. L. 103–465, set out as a note under [section 1671 of this title](./chapter-004-tariff-act-of-1930.md#section-1671).
 
 #### Effective Date of 1993 Amendment
-Amendment by section 412(b) of Pub. L. 103–182 effective on the date the North American Free Trade Agreement enters into force with respect to the United States [Jan. 1, 1994], but not applicable to any final determination described in section 1516a(a)(1)(B) or (2)(B)(i), (ii), or (iii) of this title, notice of which is published in the Federal Register before such date, or to a determination described in [section 1516a(a)(2)(B)(vi) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1516a/a/2/B/vi&num=0&edition=prelim), notice of which is received by the Government of Canada or Mexico before such date, or to any binational panel review under the United States-Canada Free-Trade Agreement, or to any extraordinary challenge arising out of any such review that was commenced before such date, see section 416 of Pub. L. 103–182, set out as an Effective Date note under [section 3431 of this title](./chapter-021-north-american-free-trade.md#section-3431).
+Amendment by section 412(b) of Pub. L. 103–182 effective on the date the North American Free Trade Agreement enters into force with respect to the United States [Jan. 1, 1994], but not applicable to any final determination described in section 1516a(a)(1)(B) or (2)(B)(i), (ii), or (iii) of this title, notice of which is published in the Federal Register before such date, or to a determination described in [section 1516a(a)(2)(B)(vi) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1516a/a/2/B/vi&num=0&edition=prelim), notice of which is received by the Government of Canada or Mexico before such date, or to any binational panel review under the United States-Canada Free-Trade Agreement, or to any extraordinary challenge arising out of any such review that was commenced before such date, see section 416 of Pub. L. 103–182, formerly set out as an Effective Date note under former [section 3431 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section3431&num=0&edition=prelim).
 
 #### Effective Date of 1990 Amendment
 Pub. L. 101–382, title II, § 224(c), Aug. 20, 1990, 104 Stat. 660, provided that: “The amendments made by subsections (a) and (b) [amending this section] apply with respect to investigations (including investigations regarding products of Canadian origin) initiated under section 702 or 732 of the Tariff Act of 1930 [[19 U.S.C. 1671a](./chapter-004-tariff-act-of-1930.md#section-1671a), 1673a] on or after the date of the enactment of this Act [Aug. 20, 1990].”
@@ -16639,8 +16869,8 @@ All functions of the Secretary of the Treasury under this subtitle were transfer
 #### Uruguay Round Agreements: Entry Into Force
 The Uruguay Round Agreements, including the World Trade Organization Agreement and agreements annexed to that Agreement, as referred to in [section 3511(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section3511/d&num=0&edition=prelim), entered into force with respect to the United States on Jan. 1, 1995. See note set out under [section 3511 of this title](./chapter-022-uruguay-round-trade-agreements.md#section-3511).
 
-#### Effect of Termination of NAFTA Country Status
-For provisions relating to effect of termination of NAFTA country status on the provisions of sections 401 to 416 of Pub. L. 103–182, see [section 3451 of this title](./chapter-021-north-american-free-trade.md#section-3451).
+#### Effect of Termination of USMCA Country Status
+For provisions relating to effect of termination of USMCA country status on sections 401 to 432 of Pub. L. 116–113, see [section 4601 of this title](./chapter-029-united-states-mexico-canada-agreement-implementation.md#section-4601).
 
 #### Plan Amendments Not Required Until January 1, 1989
 For provisions directing that if any amendments made by subtitle A or subtitle C of title XI [§§ 1101–1147 and 1171–1177] or title XVIII [§§ 1801–1899A] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under [section 401 of Title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section401&num=0&edition=prelim), Internal Revenue Code.
@@ -17217,11 +17447,11 @@ Amendment by Pub. L. 98–573 effective Oct. 30, 1984, see section 626(a) of Pub
 
 **(e) Repealed. Pub. L. 103–465, title II, § 231(d)(1), Dec. 8, 1994, 108 Stat. 4897**
 
-**(f) Disclosure of proprietary information under protective orders issued pursuant to the North American Free Trade Agreement or the United States-Canada Agreement**
+**(f) Disclosure of proprietary information under protective orders issued pursuant to the United States-Canada Agreement or the USMCA**
 
 (1) **Issuance of protective orders**
 
-  (A) *In general* — If binational panel review of a determination under this subtitle is requested pursuant to article 1904 of the NAFTA or the United States-Canada Agreement, or an extraordinary challenge committee is convened under Annex 1904.13 of the NAFTA or the United States-Canada Agreement, the administering authority or the Commission, as appropriate, may make available to authorized persons, under a protective order described in paragraph (2), a copy of all proprietary material in the administrative record made during the proceeding in question. If the administering authority or the Commission claims a privilege as to a document or portion of a document in the administrative record of the proceeding in question and a binational panel or extraordinary challenge committee finds that in camera inspection or limited disclosure of that document or portion thereof is required by United States law, the administering authority or the Commission, as appropriate, may restrict access to such document or portion thereof to the authorized persons identified by the panel or committee as requiring access and may require such persons to obtain access under a protective order described in paragraph (2).
+  (A) *In general* — If binational panel review of a determination under this subtitle is requested pursuant to article 1904 of the United States-Canada Agreement or article 10.12 of the USMCA, or an extraordinary challenge committee is convened under Annex 1904.13 of the United States-Canada Agreement or chapter 10 of the USMCA, the administering authority or the Commission, as appropriate, may make available to authorized persons, under a protective order described in paragraph (2), a copy of all proprietary material in the administrative record made during the proceeding in question. If the administering authority or the Commission claims a privilege as to a document or portion of a document in the administrative record of the proceeding in question and a binational panel or extraordinary challenge committee finds that in camera inspection or limited disclosure of that document or portion thereof is required by United States law, the administering authority or the Commission, as appropriate, may restrict access to such document or portion thereof to the authorized persons identified by the panel or committee as requiring access and may require such persons to obtain access under a protective order described in paragraph (2).
 
   (B) *Authorized persons* — For purposes of this subsection, the term “authorized persons” means—
 
@@ -17229,17 +17459,17 @@ Amendment by Pub. L. 98–573 effective Oct. 30, 1984, see section 626(a) of Pub
 
     (ii) counsel for parties to such panel or committee proceeding, and employees, and persons under the direction and control, of such counsel,
 
-    (iii) any officer or employee of the United States Government designated by the administering authority or the Commission, as appropriate, to whom disclosure is necessary in order to make recommendations to the Trade Representative regarding the convening of extraordinary challenge committees under chapter 19 of the NAFTA or the Agreement, and
+    (iii) any officer or employee of the United States Government designated by the administering authority or the Commission, as appropriate, to whom disclosure is necessary in order to make recommendations to the Trade Representative regarding the convening of extraordinary challenge committees under chapter 19 of the Agreement or chapter 10 of the USMCA, and
 
-    (iv) any officer or employee of the Government of a free trade area country (as defined in [section 1516a(f)(10) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1516a/f/10&num=0&edition=prelim)) designated by an authorized agency of such country to whom disclosure is necessary in order to make decisions regarding the convening of extraordinary challenge committees under chapter 19 of the NAFTA or the Agreement.
+    (iv) any officer or employee of the Government of a free trade area country (as defined in [section 1516a(f)(9) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1516a/f/9&num=0&edition=prelim)) designated by an authorized agency of such country to whom disclosure is necessary in order to make decisions regarding the convening of extraordinary challenge committees under chapter 19 of the Agreement or chapter 10 of the USMCA.
 
   (C) *Review* — A decision concerning the disclosure or nondisclosure of material under protective order by the administering authority or the Commission shall not be subject to judicial review, and no court of the United States shall have power or jurisdiction to review such decision on any question of law or fact by an action in the nature of mandamus or otherwise.
 
 (2) **Contents of protective order** — Each protective order issued under this subsection shall be in such form and contain such requirements as the administering authority or the Commission may determine by regulation to be appropriate. The administering authority and the Commission shall ensure that regulations issued pursuant to this paragraph shall be designed to provide an opportunity for participation in the bi­national panel proceeding, including any extraordinary challenge, equivalent to that available for judicial review of determinations by the administering authority or the Commission that are not subject to review by a binational panel.
 
-(3) **Prohibited acts** — It is unlawful for any person to violate, to induce the violation of, or knowingly to receive information the receipt of which constitutes a violation of, any provision of a protective order issued under this subsection or to violate, to induce the violation of, or knowingly to receive information the receipt of which constitutes a violation of, any provision of an undertaking entered into with an authorized agency of a free trade area country (as defined in [section 1516a(f)(10) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1516a/f/10&num=0&edition=prelim)) to protect proprietary material during binational panel or extraordinary challenge committee review pursuant to article 1904 of the NAFTA or the United States-Canada Agreement.
+(3) **Prohibited acts** — It is unlawful for any person to violate, to induce the violation of, or knowingly to receive information the receipt of which constitutes a violation of, any provision of a protective order issued under this subsection or to violate, to induce the violation of, or knowingly to receive information the receipt of which constitutes a violation of, any provision of an undertaking entered into with an authorized agency of a free trade area country (as defined in [section 1516a(f)(9) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1516a/f/9&num=0&edition=prelim)) to protect proprietary material during binational panel or extraordinary challenge committee review pursuant to article 1904 of article 1904 of 11 So in original.] the United States-Canada Agreement or article 10.12 of the USMCA.
 
-(4) **Sanctions for violation of protective orders** — Any person, except a judge appointed to a binational panel or an extraordinary challenge committee under [section 3432(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section3432/b&num=0&edition=prelim), who is found by the administering authority or the Commission, as appropriate, after notice and an opportunity for a hearing in accordance with [section 554 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section554&num=0&edition=prelim) to have committed an act prohibited by paragraph (3) shall be liable to the United States for a civil penalty and shall be subject to such other administrative sanctions, including, but not limited to, debarment from practice before the administering authority or the Commission, as the administering authority or the Commission determines to be appropriate. The amount of the civil penalty shall not exceed $100,000 for each violation. Each day of a continuing violation shall constitute a separate violation. The amount of such civil penalty and other sanctions shall be assessed by the administering authority or the Commission by written notice, except that assessment shall be made by the administering authority for violation, inducement of a violation or receipt of information with reason to know that such information was disclosed in violation, of an undertaking entered into by any person with an authorized agency of a free trade area country (as defined in [section 1516a(f)(10) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1516a/f/10&num=0&edition=prelim)).
+(4) **Sanctions for violation of protective orders** — Any person, except a judge appointed to a binational panel or an extraordinary challenge committee under [section 4582(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section4582/b&num=0&edition=prelim), who is found by the administering authority or the Commission, as appropriate, after notice and an opportunity for a hearing in accordance with [section 554 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section554&num=0&edition=prelim) to have committed an act prohibited by paragraph (3) shall be liable to the United States for a civil penalty and shall be subject to such other administrative sanctions, including, but not limited to, debarment from practice before the administering authority or the Commission, as the administering authority or the Commission determines to be appropriate. The amount of the civil penalty shall not exceed $100,000 for each violation. Each day of a continuing violation shall constitute a separate violation. The amount of such civil penalty and other sanctions shall be assessed by the administering authority or the Commission by written notice, except that assessment shall be made by the administering authority for violation, inducement of a violation or receipt of information with reason to know that such information was disclosed in violation, of an undertaking entered into by any person with an authorized agency of a free trade area country (as defined in [section 1516a(f)(9) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1516a/f/9&num=0&edition=prelim)).
 
 (5) **Review of sanctions** — Any person against whom sanctions are imposed under paragraph (4) may obtain review of such sanctions by filing a notice of appeal in the United States Court of International Trade within 30 days from the date of the order imposing the sanction and by simultaneously sending a copy of such notice by certified mail to the administering authority or the Commission, as appropriate. The administering authority or the Commission shall promptly file in such court a certified copy of the record upon which such violation was found or such sanction imposed, as provided in [section 2112 of title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section2112&num=0&edition=prelim). The findings and order of the administering authority or the Commission shall be set aside by the court only if the court finds that such findings and order are not supported by substantial evidence, as provided in [section 706(2) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section706/2&num=0&edition=prelim).
 
@@ -17306,6 +17536,22 @@ Amendment by Pub. L. 98–573 effective Oct. 30, 1984, see section 626(a) of Pub
 For termination of amendment by section 501(c) of Pub. L. 100–449, see Effective and Termination Dates of 1988 Amendment note below.
 
 #### Amendments
+2020—Subsec. (f). Pub. L. 116–260, § 601(f)(1), substituted “to the United” for “to the the United” in heading.
+
+Pub. L. 116–113, § 422(a)(1), substituted “the United States-Canada Agreement or the USMCA” for “North American Free Trade Agreement or the United States-Canada Agreement” in heading.
+
+Subsec. (f)(1)(A). Pub. L. 116–260, § 601(f)(2), added subpar. (A) and struck out former subpar. (A) which read as follows: “If binational panel review of a determination under this subtitle is requested pursuant to article 1904 of the United States-Canada Agreement or article 10.12 of the USMCA, or an extraordinary challenge committee is convened under Annex 1904.13 of the United States-Canada Agreement or chapter 10 of the USMCA, the administering authority or the Commission, as appropriate, may make available to authorized persons, under a protective order described in paragraph (2), a copy of all proprietary material in the administrative record made during the proceeding in question. If the administering authority or the Commission claims a privilege as to a document or portion of a document in the administrative record of the proceeding in question and a binational panel or extraordinary challenge committee finds that in camera inspection or limited disclosure of that document or portion thereof is required by United States law, the administering authority or the Commission, as appropriate, may restrict access to such document or portion thereof to the authorized persons identified by the panel or committee as requiring access and may require such persons to obtain access under a protective order described in paragraph (2).”
+
+Pub. L. 116–113, § 422(a)(2)(A), substituted “article 1904 of the United States-Canada Agreement or article 10.12 of the USMCA, or an extraordinary challenge committee is convened under Annex 1904.13 of the United States-Canada Agreement or chapter 10 of the USMCA, the administering authority” for “article 1904 of the NAFTA or the United States-Canada Agreement, or an extraordinary challenge committee is convened under Annex 1904.13 of the NAFTA or the United States-Canada Agreement, the administering authority”.
+
+Subsec. (f)(1)(B)(iii). Pub. L. 116–113, § 422(a)(2)(B), substituted “chapter 19 of the Agreement or chapter 10 of the USMCA” for “chapter 19 of the NAFTA or the Agreement”.
+
+Subsec. (f)(1)(B)(iv). Pub. L. 116–113, § 422(a)(2)(B), (5), substituted “[section 1516a(f)(9) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1516a/f/9&num=0&edition=prelim)” for “[section 1516a(f)(10) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1516a/f/10&num=0&edition=prelim)” and “chapter 19 of the Agreement or chapter 10 of the USMCA” for “chapter 19 of the NAFTA or the Agreement”.
+
+Subsec. (f)(3). Pub. L. 116–113, § 422(a)(3), (5), substituted “[section 1516a(f)(9) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1516a/f/9&num=0&edition=prelim)” for “[section 1516a(f)(10) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1516a/f/10&num=0&edition=prelim)” and “article 1904 of the United States-Canada Agreement or article 10.12 of the USMCA” for “the NAFTA or the United States-Canada Agreement”.
+
+Subsec. (f)(4). Pub. L. 116–113, § 422(a)(4), (5), substituted “[section 4582(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section4582/b&num=0&edition=prelim)” for “[section 3432(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section3432/b&num=0&edition=prelim)” and “[section 1516a(f)(9) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1516a/f/9&num=0&edition=prelim)” for “[section 1516a(f)(10) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1516a/f/10&num=0&edition=prelim)”.
+
 2016—Subsec. (b)(1)(A)(ii). Pub. L. 114–125 inserted “negligence, gross negligence, or” after “regarding”.
 
 1994—Subsec. (a)(4). Pub. L. 103–465, § 231(b), substituted “shall disclose” for “may disclose” in introductory provisions.
@@ -17384,11 +17630,16 @@ Pub. L. 98–573, § 619(3), as amended by Pub. L. 99–514, § 1889(8), amended
 
 Subsec. (c)(1)(A). Pub. L. 98–573, § 619(4), inserted “(before or after receipt of the information requested)”.
 
+#### Effective Date of 2020 Amendment
+Amendment by Pub. L. 116–260 effective July 1, 2020, see section 601(h) of div. O of Pub. L. 116–260, set out as a note under [section 81c of this title](./chapter-1a-foreign-trade-zones.md#section-81c).
+
+Amendment by Pub. L. 116–113 effective on the date on which the USMCA enters into force (July 1, 2020), but not applicable to certain determinations under [section 1516a of this title](./chapter-004-tariff-act-of-1930.md#section-1516a) or binational panel reviews under NAFTA, see section 432 of Pub. L. 116–113, set out as a note under [section 1516a of this title](./chapter-004-tariff-act-of-1930.md#section-1516a).
+
 #### Effective Date of 1994 Amendment
 Amendment by Pub. L. 103–465 effective, except as otherwise provided, on the date on which the WTO Agreement enters into force with respect to the United States (Jan. 1, 1995), and applicable with respect to investigations, reviews, and inquiries initiated and petitions filed under specified provisions of this chapter after such date, see section 291 of Pub. L. 103–465, set out as a note under [section 1671 of this title](./chapter-004-tariff-act-of-1930.md#section-1671).
 
 #### Effective Date of 1993 Amendment
-Amendment by Pub. L. 103–182 effective on the date the North American Free Trade Agreement enters into force with respect to the United States [Jan. 1, 1994], but not applicable to any final determination described in section 1516a(a)(1)(B) or (2)(B)(i), (ii), or (iii) of this title, notice of which is published in the Federal Register before such date, or to a determination described in [section 1516a(a)(2)(B)(vi) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1516a/a/2/B/vi&num=0&edition=prelim), notice of which is received by the Government of Canada or Mexico before such date, or to any binational panel review under the United States-Canada Free-Trade Agreement, or to any extraordinary challenge arising out of any such review that was commenced before such date, see section 416 of Pub. L. 103–182, set out as an Effective Date note under [section 3431 of this title](./chapter-021-north-american-free-trade.md#section-3431).
+Amendment by Pub. L. 103–182 effective on the date the North American Free Trade Agreement enters into force with respect to the United States [Jan. 1, 1994], but not applicable to any final determination described in section 1516a(a)(1)(B) or (2)(B)(i), (ii), or (iii) of this title, notice of which is published in the Federal Register before such date, or to a determination described in [section 1516a(a)(2)(B)(vi) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1516a/a/2/B/vi&num=0&edition=prelim), notice of which is received by the Government of Canada or Mexico before such date, or to any binational panel review under the United States-Canada Free-Trade Agreement, or to any extraordinary challenge arising out of any such review that was commenced before such date, see section 416 of Pub. L. 103–182, formerly set out as an Effective Date note under former [section 3431 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section3431&num=0&edition=prelim).
 
 #### Effective and Termination Dates of 1988 Amendment
 Amendment by Pub. L. 100–449 effective on date the United States-Canada Free-Trade Agreement enters into force (Jan. 1, 1989), and to cease to have effect on date Agreement ceases to be in force, see section 501(a), (c) of Pub. L. 100–449, set out in a note under [section 2112 of this title](./chapter-012-trade-act-of-1974.md#section-2112).
@@ -17401,8 +17652,8 @@ Amendment by Pub. L. 98–573 effective Oct. 30, 1984, see section 626(a) of Pub
 #### Transfer of Functions
 For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim). For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim), as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim).
 
-#### Effect of Termination of NAFTA Country Status
-For provisions relating to effect of termination of NAFTA country status on the provisions of sections 401 to 416 of Pub. L. 103–182, see [section 3451 of this title](./chapter-021-north-american-free-trade.md#section-3451).
+#### Effect of Termination of USMCA Country Status
+For provisions relating to effect of termination of USMCA country status on sections 401 to 432 of Pub. L. 116–113, see [section 4601 of this title](./chapter-029-united-states-mexico-canada-agreement-implementation.md#section-4601).
 
 #### Plan Amendments Not Required Until January 1, 1989
 For provisions directing that if any amendments made by subtitle A or subtitle C of title XI [§§ 1101–1147 and 1171–1177] or title XVIII [§§ 1801–1899A] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under [section 401 of Title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section401&num=0&edition=prelim), Internal Revenue Code.
@@ -17832,20 +18083,14 @@ Pub. L. 103–465, title VI, § 621(b), Dec. 8, 1994, 108 Stat. 4993, provided t
 
 
 <a id="section-1677l"></a>
-## § 1677l. Antidumping and countervailing duty collections
-
-The Commissioner of U.S. Customs and Border Protection shall before the 60th day of each fiscal year after fiscal year 1994 submit to Congress a report regarding the collection during the preceding fiscal year of duties imposed under the antidumping and countervailing duty laws.
+## § 1677l. Repealed. Pub. L. 116–113, title VI, § 601, Jan. 29, 2020, 134 Stat. 78
 
 ### Statutory Notes
 
-#### Codification
-Section was enacted as part of the North American Free Trade Agreement Implementation Act, and not as part of the Tariff Act of 1930 which comprises this chapter.
+Section, Pub. L. 103–182, title VI, § 691(a), Dec. 8, 1993, 107 Stat. 2223; Pub. L. 114–125, title VIII, § 802(d)(2), Feb. 24, 2016, 130 Stat. 210, related to annual reports on antidumping and countervailing duty collections.
 
-#### Change of Name
-“Commissioner of U.S. Customs and Border Protection” substituted for “Commissioner of Customs” in text on authority of section 802(d)(2) of Pub. L. 114–125, set out as a note under [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim), Domestic Security.
-
-#### Transfer of Functions
-For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim). For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim), as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim).
+#### Effective Date of Repeal
+Repeal effective on the date the USMCA entered into force (July 1, 2020), see section 601 of Pub. L. 116–113, set out as a note under former [section 3301 of this title](./chapter-021-north-american-free-trade.md#section-3301).
 
 
 <a id="section-1677m"></a>

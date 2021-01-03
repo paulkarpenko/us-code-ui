@@ -2,7 +2,7 @@
 title: 42
 chapter: '84'
 heading: DEPARTMENT OF ENERGY
-section_count: 232
+section_count: 233
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42&num=0&edition=prelim
 ---
@@ -507,7 +507,7 @@ Pub. L. 104–134, title I, § 101(c) [title II], Apr. 26, 1996, 110 Stat. 1321�
 <a id="section-7136"></a>
 ## § 7136. Delegation by Secretary of Energy of energy research, etc., functions to Administrator of Energy Information Administration; prohibition against required delegation; utilization of capabilities by Secretary
 
-Notwithstanding any other provision of law, the Secretary of Energy shall not be required to delegate to the Administrator of the Energy Information Administration any energy research, development, and demonstration function vested in the Secretary, pursuant to the Atomic Energy Act [[42 U.S.C. 2011](./chapter-023-development-and-control-of-atomic-energy.md#section-2011) et seq.], the Federal Nonnuclear Energy Research and Development Act [[42 U.S.C. 5901](./chapter-074-nonnuclear-energy-research-and-development.md#section-5901) et seq.], the Geothermal Research, Development and Demonstration Act [[30 U.S.C. 1101](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title30-section1101&num=0&edition=prelim) et seq.], the Electric and Hybrid Vehicle Research, Development and Demonstration Act [[15 U.S.C. 2501](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section2501&num=0&edition=prelim) et seq.], the Solar Heating and Cooling Demonstration Act [[42 U.S.C. 5501](./chapter-071-solar-energy.md#section-5501) et seq.], the Solar Energy Research, Development and Demonstration Act [[42 U.S.C. 5551](./chapter-071-solar-energy.md#section-5551) et seq.], and the Energy Reorganization Act [[42 U.S.C. 5801](./chapter-073-development-of-energy-sources.md#section-5801) et seq.]. Additionally, the Secretary may utilize the capabilities of the Energy Information Administration as he deems appropriate for the conduct of such programs.
+Notwithstanding any other provision of law, the Secretary of Energy shall not be required to delegate to the Administrator of the Energy Information Administration any energy research, development, and demonstration function vested in the Secretary, pursuant to the Atomic Energy Act [[42 U.S.C. 2011](./chapter-023-development-and-control-of-atomic-energy.md#section-2011) et seq.], the Federal Nonnuclear Energy Research and Development Act [[42 U.S.C. 5901](./chapter-074-nonnuclear-energy-research-and-development.md#section-5901) et seq.], the Geothermal Research, Development and Demonstration Act,11 See References in Text note below. the Electric and Hybrid Vehicle Research, Development and Demonstration Act [[15 U.S.C. 2501](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section2501&num=0&edition=prelim) et seq.], the Solar Heating and Cooling Demonstration Act [[42 U.S.C. 5501](./chapter-071-solar-energy.md#section-5501) et seq.], the Solar Energy Research, Development and Demonstration Act,1 and the Energy Reorganization Act [[42 U.S.C. 5801](./chapter-073-development-of-energy-sources.md#section-5801) et seq.]. Additionally, the Secretary may utilize the capabilities of the Energy Information Administration as he deems appropriate for the conduct of such programs.
 
 ### Statutory Notes
 
@@ -516,13 +516,13 @@ The Atomic Energy Act, referred to in text, probably means the Atomic Energy Act
 
 The Federal Nonnuclear Energy Research and Development Act, referred to in text, probably means the Federal Nonnuclear Energy Research and Development Act of 1974, Pub. L. 93–577, Dec. 31, 1974, 88 Stat. 1878, which is classified generally to chapter 74 (§ 5901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 5901 of this title](./chapter-074-nonnuclear-energy-research-and-development.md#section-5901) and Tables.
 
-The Geothermal Research, Development, and Demonstration Act, referred to in text, probably means the Geothermal Energy, Research, Development, and Demonstration Act of 1974, Pub. L. 93–410, Sept. 3, 1974, 88 Stat. 1079, which is classified generally to chapter 24 (§ 1101 et seq.) of Title 30, Mineral Lands and Mining. For complete classification of this Act to the Code, see Short Title note set out under [section 1101 of Title 30](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title30-section1101&num=0&edition=prelim) and Tables.
+The Geothermal Research, Development, and Demonstration Act, referred to in text, probably means the Geothermal Energy, Research, Development, and Demonstration Act of 1974, Pub. L. 93–410, Sept. 3, 1974, 88 Stat. 1079, which was classified generally to chapter 24 (§ 1101 et seq.) of Title 30, Mineral Lands and Mining, prior to repeal by Pub. L. 116–260, div. Z, title III, § 3002(i)(3), Dec. 27, 2020, 134 Stat. 2495.
 
 The Electric and Hybrid Vehicle Research, Development and Demonstration Act, referred to in text, probably means the Electric and Hybrid Vehicle Research, Development, and Demonstration Act of 1976, Pub. L. 94–413, Sept. 17, 1976, 90 Stat. 1260, which is classified principally to chapter 52 (§ 2501 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under [section 2501 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section2501&num=0&edition=prelim) and Tables.
 
 The Solar Heating and Cooling Demonstration Act, referred to in text, probably means the Solar Heating and Cooling Demonstration Act of 1974, Pub. L. 93–409, Sept. 3, 1974, 88 Stat. 1069, which is classified generally to subchapter I (§ 5501 et seq.) of chapter 71 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 5501 of this title](./chapter-071-solar-energy.md#section-5501) and Tables.
 
-The Solar Energy Research, Development, and Demonstration Act, referred to in text, probably means the Solar Energy Research, Development, and Demonstration Act of 1974, Pub. L. 93–473, Oct. 26, 1974, 88 Stat. 1431, which is classified generally to subchapter II (§ 5551 et seq.) of chapter 71 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 5501 of this title](./chapter-071-solar-energy.md#section-5501) and Tables.
+The Solar Energy Research, Development, and Demonstration Act, referred to in text, probably means the Solar Energy Research, Development, and Demonstration Act of 1974, Pub. L. 93–473, Oct. 26, 1974, 88 Stat. 1431, which was classified generally to subchapter II (§ 5551 et seq.) of chapter 71 of this title, prior to repeal by Pub. L. 116–260, div. Z, title III, § 3006(e)(1), Dec. 27, 2020, 134 Stat. 2513.
 
 The Energy Reorganization Act, referred to in text, probably means the Energy Reorganization Act of 1974, Pub. L. 93–438, Oct. 11, 1974, 88 Stat. 1233, which is classified principally to chapter 73 (§ 5801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 5801 of this title](./chapter-073-development-of-energy-sources.md#section-5801) and Tables.
 
@@ -823,21 +823,14 @@ Section effective Mar. 1, 2000, see section 3299 of Pub. L. 106–65, set out as
 
 <a id="section-7144b"></a>
 ## § 7144b. Establishment of security, counterintelligence, and intelligence policies
-**(a) Duty of Secretary** The Secretary shall be responsible for developing and promulgating the security, counterintelligence, and intelligence policies of the Department. The Secretary may use the immediate staff of the Secretary to assist in developing and promulgating those policies.
 
-**(b) Intelligence Executive Committee**
-
-(1) There is within the Department an Intelligence Executive Committee. The Committee shall consist of the Deputy Secretary of Energy, who shall chair the Committee, and each Under Secretary of Energy.
-
-(2) The Committee shall be staffed by the Director of the Office of Intelligence and the Director of the Office of Counterintelligence.
-
-(3) The Secretary shall use the Committee to assist in developing and promulgating the counterintelligence and intelligence policies, requirements, and priorities of the Department.
-
-**(c) Budget justification materials** In the budget justification materials submitted to Congress in support of each budget submitted by the President to Congress under title 31, the amounts requested for the Department for intelligence functions and the amounts requested for the Department for counterintelligence functions shall each be specified in appropriately classified individual, dedicated program elements. Within the amounts requested for counterintelligence functions, the amounts requested for the National Nuclear Security Administration shall be specified separately from the amounts requested for other elements of the Department.
+The Secretary shall be responsible for developing and promulgating the security, counterintelligence, and intelligence policies of the Department. The Secretary may use the immediate staff of the Secretary to assist in developing and promulgating those policies.
 
 ### Statutory Notes
 
 #### Amendments
+2019—Pub. L. 116–92 struck out subsec. (a) designation and subsecs. (b) and (c), which, respectively, established the Intelligence Executive Committee and provided for budget justification materials.
+
 2006—Pub. L. 109–364 designated existing provisions as subsec. (a) and added subsecs. (b) and (c).
 
 #### Effective Date
@@ -845,93 +838,40 @@ Section effective Oct. 5, 1999, see section 3299 of Pub. L. 106–65, set out as
 
 
 <a id="section-7144c"></a>
-## § 7144c. Office of Counterintelligence
-**(a) Establishment** There is within the Department an Office of Counterintelligence.
+## § 7144c. Office of Intelligence and Counterintelligence
+**(a) Definitions** In this section, the terms “intelligence community” and “National Intelligence Program” have the meanings given such terms in [section 3003 of title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3003&num=0&edition=prelim).
 
-**(b) Director**
+**(b) In general** There is in the Department an Office of Intelligence and Counterintelligence. Such office shall be under the National Intelligence Program.
 
-(1) The head of the Office shall be the Director of the Office of Counterintelligence, who shall be an employee in the Senior Executive Service, the Senior Intelligence Service, the Senior National Intelligence Service, or any other Service that the Secretary, in coordination with the Director of National Intelligence, considers appropriate. The Director of the Office shall report directly to the Secretary.
+**(c) Director**
 
-(2) The Secretary shall select the Director of the Office from among individuals who have substantial expertise in matters relating to counterintelligence.
+(1) The head of the Office shall be the Director of the Office of Intelligence and Counterintelligence, who shall be an employee in the Senior Executive Service, the Senior Intelligence Service, the Senior National Intelligence Service, or any other Service that the Secretary, in coordination with the Director of National Intelligence, considers appropriate. The Director of the Office shall report directly to the Secretary.
 
-(3) The Director of the Federal Bureau of Investigation may detail, on a reimbursable basis, any employee of the Bureau to the Department for service as Director of the Office. The service of an employee of the Bureau as Director of the Office shall not result in any loss of status, right, or privilege by the employee within the Bureau.
+(2) The Secretary shall select an individual to serve as the Director from among individuals who have substantial expertise in matters relating to the intelligence community, including foreign intelligence and counterintelligence.
 
-**(c) Duties**
+**(d) Duties**
 
-(1) The Director of the Office shall be responsible for establishing policy for counterintelligence programs and activities at Department facilities in order to reduce the threat of disclosure or loss of classified and other sensitive information at such facilities.
+(1) Subject to the authority, direction, and control of the Secretary, the Director shall perform such duties and exercise such powers as the Secretary may prescribe.
 
-(2) The Director of the Office shall be responsible for establishing policy for the personnel assurance programs of the Department.
-
-(3) The Director shall inform the Secretary, the Director of Central Intelligence, and the Director of the Federal Bureau of Investigation on a regular basis, and upon specific request by any such official, regarding the status and effectiveness of the counterintelligence programs and activities at Department facilities.
-
-**(d) Annual reports**
-
-(1) Not later than March 1 each year, the Director of the Office shall submit a report on the status and effectiveness of the counterintelligence programs and activities at each Department facility during the preceding year. Each such report shall be submitted to the following:
-
-  (A) The Secretary.
-
-  (B) The Director of Central Intelligence.
-
-  (C) The Director of the Federal Bureau of Investigation.
-
-  (D) The Committee on Armed Services and the Permanent Select Committee on Intelligence of the House of Representatives.
-
-  (E) The Committee on Armed Services and the Select Committee on Intelligence of the Senate.
-
-(2) Each such report shall include for the year covered by the report the following:
-
-  (A) A description of the status and effectiveness of the counterintelligence programs and activities at Department facilities.
-
-  (B) A description of any violation of law or other requirement relating to intelligence, counterintelligence, or security at such facilities, including—
-
-    (i) the number of violations that were investigated; and
-
-    (ii) the number of violations that remain unresolved.
-
-  (C) A description of the number of foreign visitors to Department facilities, including the locations of the visits of such visitors.
-
-  (D) The adequacy of the Department’s procedures and policies for protecting national security information, making such recommendations to Congress as may be appropriate.
-
-  (E) A determination of whether each Department of Energy national laboratory is in full compliance with all departmental security requirements and, in the case of any such laboratory that is not, what measures are being taken to bring that laboratory into compliance.
-
-(3) Not less than 30 days before the date that the report required by paragraph (1) is submitted, the director of each Department of Energy national laboratory shall certify in writing to the Director of the Office whether that laboratory is in full compliance with all departmental security requirements and, if not, what measures are being taken to bring that laboratory into compliance and a schedule for implementing those measures.
-
-(4) Each report under this subsection as submitted to the committees referred to in subparagraphs (D) and (E) of paragraph (1) shall be submitted in unclassified form, but may include a classified annex.
+(2) The Director shall be responsible for establishing policy for intelligence and counterintelligence programs and activities at the Department.
 
 ### Statutory Notes
 
 #### Amendments
-2006—Subsec. (b)(1). Pub. L. 109–364 substituted “who shall be an employee in the Senior Executive Service, the Senior Intelligence Service, the Senior National Intelligence Service, or any other Service that the Secretary, in coordination with the Director of National Intelligence, considers appropriate” for “which shall be a position in the Senior Executive Service”.
+2019—Pub. L. 116–92 amended section generally. Prior to amendment, section related to establishment, director, duties, and annual reports of the Office of Counterintelligence.
 
-#### Change of Name
-Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director’s capacity as the head of the intelligence community deemed to be a reference to the Director of National Intelligence. Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director’s capacity as the head of the Central Intelligence Agency deemed to be a reference to the Director of the Central Intelligence Agency. See section 1081(a), (b) of Pub. L. 108–458, set out as a note under [section 3001 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3001&num=0&edition=prelim), War and National Defense.
+2006—Subsec. (b)(1). Pub. L. 109–364 substituted “who shall be an employee in the Senior Executive Service, the Senior Intelligence Service, the Senior National Intelligence Service, or any other Service that the Secretary, in coordination with the Director of National Intelligence, considers appropriate” for “which shall be a position in the Senior Executive Service”.
 
 #### Effective Date
 Section effective Oct. 5, 1999, see section 3299 of Pub. L. 106–65, set out as a note under [section 2401 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section2401&num=0&edition=prelim), War and National Defense.
-
-#### Transfer of Functions
-Pub. L. 109–364, div. C, title XXXI, § 3117(a), Oct. 17, 2006, 120 Stat. 2507, as amended by Pub. L. 111–84, div. C, title XXXI, § 3121, Oct. 28, 2009, 123 Stat. 2710, provided that: “The functions, personnel, funds, assets, and other resources of the Office of Defense Nuclear Counterintelligence of the National Nuclear Security Administration are transferred to the Secretary of Energy, to be administered (except to any extent otherwise directed by the Secretary) by the Director of the Office of Counterintelligence of the Department of Energy.”
 
 
 <a id="section-7144d"></a>
-## § 7144d. Office of Intelligence
-**(a) Establishment** There is within the Department an Office of Intelligence.
-
-**(b) Director**
-
-(1) The head of the Office shall be the Director of the Office of Intelligence, who shall be an employee in the Senior Executive Service, the Senior Intelligence Service, the Senior National Intelligence Service, or any other Service that the Secretary, in coordination with the Director of National Intelligence, considers appropriate. The Director of the Office shall report directly to the Secretary.
-
-(2) The Secretary shall select the Director of the Office from among individuals who have substantial expertise in matters relating to foreign intelligence.
-
-**(c) Duties** Subject to the authority, direction, and control of the Secretary, the Director of the Office shall perform such duties and exercise such powers as the Secretary may prescribe.
+## § 7144d. Repealed. Pub. L. 116–92, div. E, title LXIV, § 6421(b), Dec. 20, 2019, 133 Stat. 2199
 
 ### Statutory Notes
 
-#### Amendments
-2006—Subsec. (b)(1). Pub. L. 109–364 substituted “who shall be an employee in the Senior Executive Service, the Senior Intelligence Service, the Senior National Intelligence Service, or any other Service that the Secretary, in coordination with the Director of National Intelligence, considers appropriate” for “which shall be a position in the Senior Executive Service”.
-
-#### Effective Date
-Section effective Oct. 5, 1999, see section 3299 of Pub. L. 106–65, set out as a note under [section 2401 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section2401&num=0&edition=prelim), War and National Defense.
+Section, Pub. L. 95–91, title II, § 216, as added Pub. L. 106–65, div. C, title XXXII, § 3204(a), Oct. 5, 1999, 113 Stat. 956; amended Pub. L. 109–364, div. C, title XXXI, § 3117(f), Oct. 17, 2006, 120 Stat. 2508, established the Office of Intelligence.
 
 
 <a id="section-7144e"></a>
@@ -1281,16 +1221,72 @@ Notwithstanding [section 7151(a) of this title](https://uscode.house.gov/view.xh
 
 **(j) Annual authorization and appropriation request** In each annual authorization and appropriation request under this chapter, the Secretary shall identify the portion thereof intended for the support of the Commission and include a statement by the Commission (1) showing the amount requested by the Commission in its budgetary presentation to the Secretary and the Office of Management and Budget and (2) an assessment of the budgetary needs of the Commission. Whenever the Commission submits to the Secretary, the President, or the Office of Management and Budget, any legislative recommendation or testimony, or comments on legislation, prepared for submission to Congress, the Commission shall concurrently transmit a copy thereof to the appropriate committees of Congress.
 
+**(k) Addressing insufficient compensation of employees and other personnel of the Commission**
+
+(1) **In general** — Notwithstanding any other provision of law, if the Chairman of the Commission publicly certifies that compensation for a category of employees or other personnel of the Commission is insufficient to retain or attract employees and other personnel to allow the Commission to carry out the functions of the Commission in a timely, efficient, and effective manner, the Chairman may fix the compensation for the category of employees or other personnel without regard to chapter 51 and subchapter III of chapter 53 of title 5, or any other civil service law.
+
+(2) **Certification requirements** — A certification issued under paragraph (1) shall—
+
+  (A) apply with respect to a category of employees or other personnel responsible for conducting work of a scientific, technological, engineering, or mathematical nature;
+
+  (B) specify a maximum amount of reasonable compensation for the category of employees or other personnel;
+
+  (C) be valid for a 5-year period beginning on the date on which the certification is issued;
+
+  (D) be no broader than necessary to achieve the objective of retaining or attracting employees and other personnel to allow the Commission to carry out the functions of the Commission in a timely, efficient, and effective manner; and
+
+  (E) include an explanation for why the other approaches available to the Chairman for retaining and attracting employees and other personnel are inadequate.
+
+(3) **Renewal**
+
+  (A) *In general* — Not later than 90 days before the date of expiration of a certification issued under paragraph (1), the Chairman shall determine whether the certification should be renewed for a subsequent 5-year period.
+
+  (B) *Requirement* — If the Chairman determines that a certification should be renewed under subparagraph (A), the Chairman may renew the certification, subject to the certification requirements under paragraph (2) that were applicable to the initial certification.
+
+(4) **New hires**
+
+  (A) *In general* — An employee or other personnel that is a member of a category of employees or other personnel that would have been covered by a certification issued under paragraph (1), but was hired during a period in which the certification has expired and has not been renewed under paragraph (3) shall not be eligible for compensation at the level that would have applied to the employee or other personnel if the certification had been in effect on the date on which the employee or other personnel was hired.
+
+  (B) *Compensation of new hires on renewal* — On renewal of a certification under paragraph (3), the Chairman may fix the compensation of the employees or other personnel described in subparagraph (A) at the level established for the category of employees or other personnel in the certification.
+
+(5) **Retention of level of fixed compensation** — A category of employees or other personnel, the compensation of which was fixed by the Chairman in accordance with paragraph (1), may, at the discretion of the Chairman, have the level of fixed compensation for the category of employees or other personnel retained, regardless of whether a certification described under that paragraph is in effect with respect to the compensation of the category of employees or other personnel.
+
+(6) **Consultation required** — The Chairman shall consult with the Director of the Office of Personnel Management in implementing this subsection, including in the determination of the amount of compensation with respect to each category of employees or other personnel.
+
+(7) **Experts and consultants**
+
+  (A) *In general* — Subject to subparagraph (B), the Chairman may—
+
+    (i) obtain the services of experts and consultants in accordance with [section 3109 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section3109&num=0&edition=prelim);
+
+    (ii) compensate those experts and consultants for each day (including travel time) at rates not in excess of the rate of pay for level IV of the Executive Schedule under section 5315 of that title; and
+
+    (iii) pay to the experts and consultants serving away from the homes or regular places of business of the experts and consultants travel expenses and per diem in lieu of subsistence at rates authorized by sections 5702 and 5703 of that title for persons in Government service employed intermittently.
+
+  (B) *Limitations* — The Chairman shall—
+
+    (i) to the maximum extent practicable, limit the use of experts and consultants pursuant to subparagraph (A); and
+
+    (ii) ensure that the employment contract of each expert and consultant employed pursuant to subparagraph (A) is subject to renewal not less frequently than annually.
+
 ### Statutory Notes
 
 #### References in Text
 This chapter, referred to in subsecs. (i) and (j), was in the original “this Act”, meaning Pub. L. 95–91, Aug. 4, 1977, 91 Stat. 565, as amended, known as the Department of Energy Organization Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 7101 of this title](./chapter-084-department-of-energy.md#section-7101) and Tables.
 
 #### Amendments
+2020—Subsec. (k). Pub. L. 116–260 added subsec. (k).
+
 1990—Subsec. (b). Pub. L. 101–271 designated existing provisions as par. (1), substituted “5 years” for “four years”, struck out after third sentence “The terms of the members first taking office shall expire (as designated by the President at the time of appointment), two at the end of two years, two at the end of three years, and one at the end of four years.”, substituted “A Commissioner may continue to serve after the expiration of his term until his successor is appointed and has been confirmed and taken the oath of Office, except that such Commissioner shall not serve beyond the end of the session of the Congress in which such term expires.” for “A Commissioner may continue to serve after the expiration of his term until his successor has taken office, except that he may not so continue to serve for more than one year after the date on which his term would otherwise expire under this subsection.”, and added par. (2).
+
+#### Effective Date of 2020 Amendment
+Pub. L. 116–260, div. Z, title XI, § 11004(c), Dec. 27, 2020, 134 Stat. 2614, provided that: “The amendment made by subsection (a) [amending this section] shall apply beginning on the date that is 30 days after the date of enactment of this Act [Dec. 27, 2020].”
 
 #### Effective Date of 1990 Amendment
 Pub. L. 101–271, § 2(c), Apr. 11, 1990, 104 Stat. 136, provided that: “The amendments made by this section [amending this section] apply only to persons appointed or reappointed as members of the Federal Energy Regulatory Commission after the date of enactment of this Act [Apr. 11, 1990].”
+
+#### Reports
+Pub. L. 116–260, div. Z, title XI, § 11004(b), Dec. 27, 2020, 134 Stat. 2614, provided that: “(1) In general.—Not later than 1 year after the date of enactment of this Act [Dec. 27, 2020], and every 2 years thereafter for 10 years, the Chairman of the Federal Energy Regulatory Commission shall submit to the Committee on Energy and Commerce of the House of Representatives and the Committee on Energy and Natural Resources of the Senate a report on information relating to hiring, vacancies, and compensation at the Federal Energy Regulatory Commission. “(2) Inclusions.—Each report under paragraph (1) shall include—“(A) an analysis of any trends with respect to hiring, vacancies, and compensation at the Federal Energy Regulatory Commission; and “(B) a description of the efforts to retain and attract employees or other personnel responsible for conducting work of a scientific, technological, engineering, or mathematical nature at the Federal Energy Regulatory Commission.”
 
 #### Renewable Energy and Energy Conservation Incentives
 Pub. L. 101–549, title VIII, § 808, Nov. 15, 1990, 104 Stat. 2690, provided that: “(a) Definition.—For purposes of this section, ‘renewable energy’ means energy from photovoltaic, solar thermal, wind, geothermal, and biomass energy production technologies. “(b) Rate Incentives Study.—Within 18 months after enactment [Nov. 15, 1990], the Federal Energy Regulatory Commission, in consultation with the Environmental Protection Agency, shall complete a study which calculates the net environmental benefits of renewable energy, compared to nonrenewable energy, and assigns numerical values to them. The study shall include, but not be limited to, environmental impacts on air, water, land use, water use, human health, and waste disposal. “(c) Model Regulations.—In conjunction with the study in subsection (b), the Commission shall propose one or more models for incorporating the net environmental benefits into the regulatory treatment of renewable energy in order to provide economic compensation for those benefits. “(d) Report.—The Commission shall transmit the study and the model regulations to Congress, along with any recommendations on the best ways to reward renewable energy technologies for their environmental benefits, in a report no later than 24 months after enactment [Nov. 15, 1990].”
@@ -1299,6 +1295,10 @@ Pub. L. 101–549, title VIII, § 808, Nov. 15, 1990, 104 Stat. 2690, provided t
 Pub. L. 99–500, § 101(e) [title III], Oct. 18, 1986, 100 Stat. 1783–194, 1783–208, and Pub. L. 99–591, § 101(e) [title III], Oct. 30, 1986, 100 Stat. 3341–194, 3341–208, provided in part: “That hereafter and notwithstanding any other provision of law revenues from licensing fees, inspection services, and other services and collections, estimated at $78,754,000 in fiscal year 1987, may be retained and used for necessary expenses in this account [Federal Energy Regulatory Commission, Salaries and Expenses], and may remain available until expended: Provided further, That the sum herein appropriated shall be reduced as revenues are received during fiscal year 1987, so as to result in a final fiscal year 1987 appropriation estimated at not more than $20,325,000.”
 
 Similar provisions were contained in the following appropriation acts:
+
+Pub. L. 116–260, div. D, title III, Dec. 27, 2020, 134 Stat. 1372.
+
+Pub. L. 116–94, div. C, title III, Dec. 20, 2019, 133 Stat. 2678.
 
 Pub. L. 115–244, div. A, title III, Sept. 21, 2018, 132 Stat. 2915.
 
@@ -2040,7 +2040,7 @@ The Natural Gas Policy Act of 1978, referred to in text, is Pub. L. 95–621, No
 
 (9) The authority of the Secretary under this subsection may be delegated only to an officer of the Department who is appointed by the President by and with the advice and consent of the Senate.
 
-(10) Notwithstanding any other provision of law, the authority to enter into transactions under paragraph (1) shall terminate on September 30, 2020.
+(10) Notwithstanding any other provision of law, the authority to enter into transactions under paragraph (1) shall terminate on September 30, 2030.
 
 ### Statutory Notes
 
@@ -2050,6 +2050,8 @@ The Natural Gas Policy Act of 1978, referred to in text, is Pub. L. 95–621, No
 Section 845(f) of the National Defense Authorization Act for Fiscal Year 1994 (Public Law 103–160; [10 U.S.C. 2371](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2371&num=0&edition=prelim) note), referred to in subsec. (g)(8)(A), was repealed by Pub. L. 114–92, div. A, title VIII, § 815(c), Nov. 25, 2015, 129 Stat. 896. See [section 2371b(e) of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2371b/e&num=0&edition=prelim), Armed Forces.
 
 #### Amendments
+2020—Subsec. (g)(10). Pub. L. 116–260 substituted “September 30, 2030” for “September 30, 2020”.
+
 2013—Subsec. (g)(10). Pub. L. 113–66 substituted “September 30, 2020” for “September 30, 2015”.
 
 2011—Subsec. (g)(10). Pub. L. 111–383 substituted “September 30, 2015” for “September 30, 2010”.
@@ -2073,8 +2075,8 @@ Pub. L. 95–238, title II, § 204, Feb. 25, 1978, 92 Stat. 59, as amended by Pu
 [For termination, effective May 15, 2000, of reporting provisions in section 204(b) of Pub. L. 95–238, set out above, see section 3003 of Pub. L. 104–66, as amended, set out as a note under [section 1113 of Title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1113&num=0&edition=prelim), Money and Finance, and the 21st item on page 89 of House Document No. 103–7.]
 
 
-<a id="section-7257"></a>
-## § 7257. Transferred
+<a id="section-7256c"></a>
+## § 7256c. Transferred
 
 ### Statutory Notes
 
@@ -2082,6 +2084,42 @@ Pub. L. 95–238, title II, § 204, Feb. 25, 1978, 92 Stat. 59, as amended by Pu
 Section 7256a, Pub. L. 99–145, title XV, § 1534, Nov. 8, 1985, 99 Stat. 774; Pub. L. 100–180, div. C, title I, § 3131(a), Dec. 4, 1987, 101 Stat. 1238, which related to costs not allowed under covered contracts, was renumbered section 4801 of Pub. L. 107–314, the Bob Stump National Defense Authorization Act for Fiscal Year 2003, by Pub. L. 108–136, div. C, title XXXI, § 3141(k)(2)(A)–(C), Nov. 24, 2003, 117 Stat. 1783, and is classified to [section 2781 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section2781&num=0&edition=prelim), War and National Defense.
 
 Section 7256b, Pub. L. 101–189, div. C, title XXXI, § 3151, Nov. 29, 1989, 103 Stat. 1682, which related to the prohibition of bonuses to contractors operating defense nuclear facilities, was renumbered section 4802 of Pub. L. 107–314, the Bob Stump National Defense Authorization Act for Fiscal Year 2003, by Pub. L. 108–136, div. C, title XXXI, § 3141(k)(3)(A)–(C), Nov. 24, 2003, 117 Stat. 1783, and is classified to [section 2782 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section2782&num=0&edition=prelim), War and National Defense.
+
+
+<a id="section-7257"></a>
+## § 7257. Milestone-based demonstration projects
+**(a) In general** Acting under [section 7256(g) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section7256/g&num=0&edition=prelim), notwithstanding paragraph (10) of such section, the Secretary of Energy (in this section referred to as the “Secretary”) may carry out demonstration projects as a milestone-based demonstration project that requires particular technical and financial milestones to be met before a participant is awarded grants by the Department through a competitive award process.
+
+**(b) Requirements** In carrying out milestone-based demonstration projects under the authority in paragraph (1), the Secretary shall, for each relevant project—
+
+(1) request proposals from eligible entities, as determined by the Secretary, including—
+
+  (A) a business plan, that may include a plan for scalable manufacturing and a plan for addressing supply chain gaps;
+
+  (B) a plan for raising private sector investment; and
+
+  (C) proposed technical and financial milestones, including estimated project timelines and total costs; and
+
+(2) award funding of a predetermined amount to projects that successfully meet proposed milestones under paragraph (1)(C) or for expenses deemed reimbursable by the Secretary, in accordance with terms negotiated for an individual award;
+
+(3) require cost sharing in accordance with [section 16352 of this title](./chapter-149-national-energy-policy-and-programs.md#section-16352); and
+
+(4) communicate regularly with selected eligible entities and, if the Secretary deems appropriate, exercise small amounts of flexibility for technical and financial milestones as projects mature.
+
+**(c) Awards** For the program established under subsection (a)—
+
+(1) an award recipient shall be responsible for all costs until milestones are achieved, or reimbursable expenses are reviewed and verified by the Department; and
+
+(2) should an awardee not meet the milestones described in subsection (a), the Secretary or their designee may end the partnership with an award recipient and use the remaining funds in the ended agreement for new or existing projects carried out under this section.
+
+**(d) Project management** In carrying out projects under this program and assessing the completion of their milestones in accordance with subsection (b), the Secretary shall consult with experts that represent diverse perspectives and professional experiences, including those from the private sector, to ensure a complete and thorough review.
+
+**(e) Report** In accordance with [section 16391a(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section16391a/a&num=0&edition=prelim), the Secretary shall report annually on any demonstration projects carried out using the authorities under this section.
+
+### Statutory Notes
+
+#### Codification
+Section was enacted as part of the Energy Act of 2020, and not as part of the Department of Energy Organization Act which comprises this chapter.
 
 
 <a id="section-7257a-to-7257c"></a>
@@ -4493,9 +4531,11 @@ This subchapter, referred to in text, was in the original “this subtitle”, m
 
 (1) To provide information on the benefits available under this part and part B and on the requirements and procedures applicable to the provision of such benefits.
 
-(2) To make recommendations to the Secretary regarding the location of centers (to be known as “resource centers”) for the acceptance and development of claims for benefits under this part and part B.
+(2) To provide guidance and assistance to claimants.
 
-(3) To carry out such other duties with respect to this part and part B as the Secretary shall specify for purposes of this section.
+(3) To make recommendations to the Secretary regarding the location of centers (to be known as “resource centers”) for the acceptance and development of claims for benefits under this part and part B.
+
+(4) To carry out such other duties with respect to this part and part B as the Secretary shall specify for purposes of this section.
 
 **(d) Independent Office** The Secretary shall take appropriate actions to ensure the independence of the Office within the Department of Labor, including independence from other officers and employees of the Department engaged in activities relating to the administration of the provisions of this part and part B.
 
@@ -4523,11 +4563,15 @@ This subchapter, referred to in text, was in the original “this subtitle”, m
 
 **(g) National Institute for Occupational Safety and Health Ombudsman** In carrying out the duties of the Ombudsman under this section, the Ombudsman shall work with the individual employed by the National Institute for Occupational Safety and Health to serve as an ombudsman to individuals making claims under part B.
 
-**(h) Sunset** Effective October 28, 2019, this section shall have no further force or effect.
-
 ### Statutory Notes
 
 #### Amendments
+2021—Subsec. (h). Pub. L. 116–283 struck out subsec. (h) which read as follows: “Effective October 28, 2020, this section shall have no further force or effect.”
+
+2019—Subsec. (c)(2) to (4). Pub. L. 116–92, § 3134(a)(1), added par. (2) and redesignated former pars. (2) and (3) as (3) and (4), respectively.
+
+Subsec. (h). Pub. L. 116–92, § 3134(a)(2), substituted “2020” for “2019”.
+
 2014—Subsec. (e)(1). Pub. L. 113–291, § 3141(b)(1)(A), substituted “July 30” for “February 15”.
 
 Subsec. (e)(4). Pub. L. 113–291, § 3141(b)(1)(B), added par. (4).
@@ -4706,9 +4750,11 @@ Sec. 6. Administration and Judicial Review. (a) This Executive Order shall be ca
 William J. Clinton.
 
 #### Extension of Term of Advisory Board on Radiation and Worker Health
-Term of Advisory Board on Radiation and Worker Health extended until Sept. 30, 2019, by Ex. Ord. No. 13811, Sept. 29, 2017, 82 F.R. 46363, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
+Term of Advisory Board on Radiation and Worker Health extended until Sept. 30, 2021, by Ex. Ord. No. 13889, Sept. 27, 2019, 84 F.R. 52743, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
 
-Previous extension of term of Advisory Board on Radiation and Worker Health was contained in the following prior Executive Order:
+Previous extensions of term of Advisory Board on Radiation and Worker Health were contained in the following prior Executive Orders:
+
+Ex. Ord. No. 13811, Sept. 29, 2017, 82 F.R. 46363, extended term until Sept. 30, 2019.
 
 Ex. Ord. No. 13708, Sept. 30, 2015, 80 F.R. 60271, extended term until Sept. 30, 2017.
 
@@ -5872,9 +5918,13 @@ The Radiation Exposure Compensation Act, referred to in subsec. (b), is Pub. L. 
 
   (B) medical guidance for claims examiners for claims under this part with respect to the weighing of the medical evidence of claimants;
 
-  (C) evidentiary requirements for claims under part B related to lung disease; and
+  (C) evidentiary requirements for claims under part B related to lung disease;
 
-  (D) the work of industrial hygienists and staff physicians and consulting physicians of the Department and reports of such hygienists and physicians to ensure quality, objectivity, and consistency; and
+  (D) the work of industrial hygienists and staff physicians and consulting physicians of the Department and reports of such hygienists and physicians to ensure quality, objectivity, and consistency;
+
+  (E) the claims adjudication process generally, including review of procedure manual changes prior to incorporation into the manual and claims for medical benefits; and
+
+  (F) such other matters as the Secretary considers appropriate; and
 
 (2) coordinate exchanges of data and findings with the Advisory Board on Radiation and Worker Health established under section 7384o of this title to the extent necessary.
 
@@ -5898,9 +5948,17 @@ The Radiation Exposure Compensation Act, referred to in subsec. (b), is Pub. L. 
 
 (3) For fiscal year 2016 and each fiscal year thereafter, the Secretary of Energy shall include in the budget justification materials submitted to Congress in support of the Department of Energy budget for that fiscal year (as submitted with the budget of the President under [section 1105(a) of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1105/a&num=0&edition=prelim)) a report specifying the number of applications for security clearances under this subsection, the number of such applications granted, and the number of such applications denied.
 
-**(g) Information** The Secretary of Energy shall, in accordance with law, provide to the Board and the contractors of the Board, access to any information that the Board considers relevant to carry out its responsibilities under this section, including information such as Restricted Data (as defined in [section 2014(y) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2014/y&num=0&edition=prelim)) and information covered by [section 552a of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section552a&num=0&edition=prelim) (commonly known as the “Privacy Act”).
+**(g) Information** The Secretary of Energy and the Secretary of Labor shall each, in accordance with law, provide to the Board and the contractors of the Board, access to any information that the Board considers relevant to carry out its responsibilities under this section, including information such as Restricted Data (as defined in [section 2014(y) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2014/y&num=0&edition=prelim)) and information covered by [section 552a of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section552a&num=0&edition=prelim) (commonly known as the “Privacy Act”). The Secretary of Labor shall make available to the Board the program’s medical director, toxicologist, industrial hygienist and program’s support contractors as requested by the Board.
 
-**(h) Authorization of appropriations**
+**(h) Response to recommendations** Not later than 60 days after submission to the Secretary of Labor of the Board’s recommendations, the Secretary shall respond to the Board in writing, and post on the public internet website of the Department of Labor, a response to the recommendations that—
+
+(1) includes a statement of whether the Secretary accepts or rejects the Board’s recommendations;
+
+(2) if the Secretary accepts the Board’s recommendations, describes the timeline for when those recommendations will be implemented; and
+
+(3) if the Secretary does not accept the recommendations, describes the reasons the Secretary does not agree and provides all scientific research to the Board supporting that decision.
+
+**(i) Authorization of appropriations**
 
 (1) **In general** — There are authorized to be appropriated such sums as may be necessary to carry out this section.
 
@@ -5910,14 +5968,20 @@ The Radiation Exposure Compensation Act, referred to in subsec. (b), is Pub. L. 
 
   (B) shall not be subject to subsection (b) of that section.
 
-**(i) Sunset** The Board shall terminate on the date that is 10 years after December 19, 2014.
+**(j) Sunset** The Board shall terminate on the date that is 10 years after December 19, 2014.
 
 ### Statutory Notes
 
 #### References in Text
-Section 151 of title I of division B of Appendix D of the Consolidated Appropriations Act, 2001, referred to in subsec. (h)(2)(A), (B), is Pub. L. 106–554, § 1(a)(4) [div. B, title I, § 151], Dec. 21, 2000, 114 Stat. 2763, 2763A–251, which is not classified to the Code.
+Section 151 of title I of division B of Appendix D of the Consolidated Appropriations Act, 2001, referred to in subsec. (i)(2)(A), (B), is Pub. L. 106–554, § 1(a)(4) [div. B, title I, § 151], Dec. 21, 2000, 114 Stat. 2763, 2763A–251, which is not classified to the Code.
 
 #### Amendments
+2019—Subsec. (b)(1)(E), (F). Pub. L. 116–92, § 3134(b)(1), added subpars. (E) and (F).
+
+Subsec. (g). Pub. L. 116–92, § 3134(b)(2), substituted “The Secretary of Energy and the Secretary of Labor shall each” for “The Secretary of Energy shall” and inserted at end “The Secretary of Labor shall make available to the Board the program’s medical director, toxicologist, industrial hygienist and program’s support contractors as requested by the Board.”
+
+Subsecs. (h) to (j). Pub. L. 116–92, § 3134(b)(3), (4), added subsec. (h) and redesignated subsecs. (h) and (i) as (i) and (j), respectively.
+
 2017—Subsec. (i). Pub. L. 115–91 substituted “10 years” for “5 years”.
 
 #### Ex. Ord. No. 13699. Establishing the Advisory Board on Toxic Substances and Worker Health

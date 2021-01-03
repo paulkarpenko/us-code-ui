@@ -475,7 +475,7 @@ Section repealed effective Aug. 21, 1974, see section 506(b) of Pub. L. 93–380
 ### Statutory Notes
 
 #### Prior Provisions
-A prior section 420 of Pub. L. 90–247 was renumbered section 426, and is classified to [section 1228 of this title](./chapter-031-general-provisions-concerning-education.md#section-1228).
+A prior section 420 of Pub. L. 90–247 was renumbered section 426, and was classified to former [section 1228 of this title](./chapter-031-general-provisions-concerning-education.md#section-1228).
 
 #### Amendments
 1994—Pub. L. 103–382, § 231, amended section generally. Prior to amendment, section read as follows: “To the end of affording the responsible State, local, and Federal officers concerned adequate notice of available Federal financial assistance for education, appropriations for grants, contracts, or other payments under any applicable program are authorized to be included in the appropriation Act for the fiscal year preceding the fiscal year for which they are available for obligation. In order to effect a transition to this method of timing appropriation action, the preceding sentence shall apply notwithstanding that its initial application under such program will result in the enactment in the same year (whether in the same appropriation Act or otherwise) of two separate appropriations, one for the then current fiscal year and one for the succeeding fiscal year.”
@@ -792,34 +792,17 @@ Section effective with respect to appropriations for fiscal year 1980 and subseq
 
 
 <a id="section-1231"></a>
-## § 1231. Prohibition against use of appropriated funds for busing
-
-No funds appropriated for the purpose of carrying out any applicable program may be used for the transportation of students or teachers (or for the purchase of equipment for such transportation) in order to overcome racial imbalance in any school or school system, or for the transportation of students or teachers (or for the purchase of equipment for such transportation) in order to carry out a plan of racial desegregation of any school or school system, except for funds appropriated pursuant to title VII of the Elementary and Secondary Education Act of 1965 [[20 U.S.C. 7701](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-7701) et seq.], but not including any portion of such funds as are attributable to children counted under section 7003(d) of such Act [[20 U.S.C. 7703(d)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section7703/d&num=0&edition=prelim)] or residing on property described in section 7013(10) of such Act [[20 U.S.C. 7713(10)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section7713/10&num=0&edition=prelim)].
+## § 1231. Repealed. Pub. L. 116–260, div. H, title III, § 314(a), Dec. 27, 2020, 134 Stat. 1610
 
 ### Statutory Notes
 
-#### References in Text
-The Elementary and Secondary Education Act of 1965, referred to in text, is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27. Title VII of the Act is classified generally to subchapter VII (§ 7701 et seq.) of chapter 70 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 6301 of this title](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-6301) and Tables.
+Section, Pub. L. 90–247, title IV, § 426, formerly § 420, as added Pub. L. 93–380, title II, § 252, Aug. 21, 1974, 88 Stat. 519; renumbered § 426 and amended Pub. L. 103–382, title II, §§ 212(b)(1), 261(b), Oct. 20, 1994, 108 Stat. 3913, 3927; Pub. L. 106–398, § 1 [[div. A], title XVIII, § 1808(b)(2)], Oct. 30, 2000, 114 Stat. 1654, 1654A–382; Pub. L. 114–95, title IX, § 9215(mm)(2), Dec. 10, 2015, 129 Stat. 2176, prohibited use of appropriated funds for busing.
 
-#### Prior Provisions
 A prior section 426 of Pub. L. 90–247 was renumbered section 433, and is classified to [section 1231c of this title](./chapter-031-general-provisions-concerning-education.md#section-1231c).
 
 Another prior section 426 of Pub. L. 90–247 was renumbered section 435, and is classified to [section 1231e of this title](./chapter-031-general-provisions-concerning-education.md#section-1231e).
 
 Another prior section 426 of Pub. L. 90–247 was renumbered section 436, and was classified to [section 1232e of this title](./chapter-031-general-provisions-concerning-education.md#section-1232e) prior to repeal by Pub. L. 95–561.
-
-#### Amendments
-2015—Pub. L. 114–95 substituted “title VII of the Elementary and Secondary Education Act of 1965, but not including any portion of such funds as are attributable to children counted under section 7003(d) of such Act or residing on property described in section 7013(10) of such Act.” for “title VIII of the Elementary and Secondary Education Act of 1965, but not including any portion of such funds as are attributable to children counted under section 8003(d) of such Act or residing on property described in section 8013(10) of such Act.”
-
-2000—Pub. L. 106–398 substituted “section 8003(d) of such Act” for “subsections (d) and (g) of section 8003 of such Act”.
-
-1994—Pub. L. 103–382, § 261(b), substituted “title VIII of the Elementary and Secondary Education Act of 1965” for “subchapter I of chapter 13 of this title” and “subsections (d) and (g) of section 8003 of such Act or residing on property described in section 8013(10) of such Act” for “subparagraph (C) of [section 238(d)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section238/d/2&num=0&edition=prelim) or [section 244(1)(C) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section244/1/C&num=0&edition=prelim)”.
-
-#### Effective Date of 2015 Amendment
-Amendment by Pub. L. 114–95 effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 114–95, set out as a note under [section 6301 of this title](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-6301).
-
-#### Effective Date
-Section effective on and after sixtieth day after Aug. 21, 1974, see section 2(c) of Pub. L. 93–380, set out as a note under [section 1221–1 of this title](./chapter-031-general-provisions-concerning-education.md#section-1221-1).
 
 
 <a id="section-1231a"></a>

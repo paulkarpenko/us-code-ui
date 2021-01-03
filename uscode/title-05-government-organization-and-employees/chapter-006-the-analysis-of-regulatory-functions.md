@@ -1767,6 +1767,334 @@ Sec. 5. General Provisions. (a) Nothing in this order shall be construed to impa
 
 Donald J. Trump.
 
+#### Ex. Ord. No. 13891. Promoting the Rule of Law Through Improved Agency Guidance Documents
+Ex. Ord. No. 13891, Oct. 9, 2019, 84 F.R. 55235, provided:
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, and in order to ensure that Americans are subject to only those binding rules imposed through duly enacted statutes or through regulations lawfully promulgated under them, and that Americans have fair notice of their obligations, it is hereby ordered as follows:
+
+Section 1. Policy. Departments and agencies (agencies) in the executive branch adopt regulations that impose legally binding requirements on the public even though, in our constitutional democracy, only Congress is vested with the legislative power. The Administrative Procedure Act (APA) [see subchapter II (§ 551 et seq.) of chapter 5, and chapter 7 (§ 701 et seq.), of this title] generally requires agencies, in exercising that solemn responsibility, to engage in notice-and-comment rulemaking to provide public notice of proposed regulations under [section 553 of title 5](./chapter-005-administrative-procedure.md#section-553), United States Code, allow interested parties an opportunity to comment, consider and respond to significant comments, and publish final regulations in the Federal Register.
+
+Agencies may clarify existing obligations through non-binding guidance documents, which the APA exempts from notice-and-comment requirements. Yet agencies have sometimes used this authority inappropriately in attempts to regulate the public without following the rulemaking procedures of the APA. Even when accompanied by a disclaimer that it is non-binding, a guidance document issued by an agency may carry the implicit threat of enforcement action if the regulated public does not comply. Moreover, the public frequently has insufficient notice of guidance documents, which are not always published in the Federal Register or distributed to all regulated parties.
+
+Americans deserve an open and fair regulatory process that imposes new obligations on the public only when consistent with applicable law and after an agency follows appropriate procedures. Therefore, it is the policy of the executive branch, to the extent consistent with applicable law, to require that agencies treat guidance documents as non-binding both in law and in practice, except as incorporated into a contract, take public input into account when appropriate in formulating guidance documents, and make guidance documents readily available to the public. Agencies may impose legally binding requirements on the public only through regulations and on parties on a case-by-case basis through adjudications, and only after appropriate process, except as authorized by law or as incorporated into a contract.
+
+Sec. 2. Definitions. For the purposes of this order:
+
+(a) “Agency” has the meaning given in section 3(b) of Executive Order 12866 (Regulatory Planning and Review) [set out above], as amended.
+
+(b) “Guidance document” means an agency statement of general applicability, intended to have future effect on the behavior of regulated parties, that sets forth a policy on a statutory, regulatory, or technical issue, or an interpretation of a statute or regulation, but does not include the following:
+
+(i) rules promulgated pursuant to notice and comment under [section 553 of title 5](./chapter-005-administrative-procedure.md#section-553), United States Code, or similar statutory provisions;
+
+(ii) rules exempt from rulemaking requirements under [section 553(a) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section553/a&num=0&edition=prelim), United States Code;
+
+(iii) rules of agency organization, procedure, or practice;
+
+(iv) decisions of agency adjudications under [section 554 of title 5](./chapter-005-administrative-procedure.md#section-554), United States Code, or similar statutory provisions;
+
+(v) internal guidance directed to the issuing agency or other agencies that is not intended to have substantial future effect on the behavior of regulated parties; or
+
+(vi) internal executive branch legal advice or legal opinions addressed to executive branch officials.
+
+(c) “Significant guidance document” means a guidance document that may reasonably be anticipated to:
+
+(i) lead to an annual effect on the economy of $100 million or more or adversely affect in a material way the economy, a sector of the economy, productivity, competition, jobs, the environment, public health or safety, or State, local, or tribal governments or communities;
+
+(ii) create a serious inconsistency or otherwise interfere with an action taken or planned by another agency;
+
+(iii) materially alter the budgetary impact of entitlements, grants, user fees, or loan programs or the rights and obligations of recipients thereof; or
+
+(iv) raise novel legal or policy issues arising out of legal mandates, the President’s priorities, or the principles of Executive Order 12866.
+
+(d) “Pre-enforcement ruling” means a formal written communication by an agency in response to an inquiry from a person concerning compliance with legal requirements that interprets the law or applies the law to a specific set of facts supplied by the person. The term includes informal guidance under section 213 of the Small Business Regulatory Enforcement Fairness Act of 1996, Public Law 104–121 (Title II) [set out in a note above], as amended, letter rulings, advisory opinions, and no-action letters.
+
+Sec. 3. Ensuring Transparent Use of Guidance Documents. (a) Within 120 days of the date on which the Office of Management and Budget (OMB) issues an implementing memorandum under section 6 of this order, each agency or agency component, as appropriate, shall establish or maintain on its website a single, searchable, indexed database that contains or links to all guidance documents in effect from such agency or component. The website shall note that guidance documents lack the force and effect of law, except as authorized by law or as incorporated into a contract.
+
+(b) Within 120 days of the date on which OMB issues an implementing memorandum under section 6 of this order, each agency shall review its guidance documents and, consistent with applicable law, rescind those guidance documents that it determines should no longer be in effect. No agency shall retain in effect any guidance document without including it in the relevant database referred to in subsection (a) of this section, nor shall any agency, in the future, issue a guidance document without including it in the relevant database. No agency may cite, use, or rely on guidance documents that are rescinded, except to establish historical facts. Within 240 days of the date on which OMB issues an implementing memorandum, an agency may reinstate a guidance document rescinded under this subsection without complying with any procedures adopted or imposed pursuant to section 4 of this order, to the extent consistent with applicable law, and shall include the guidance document in the relevant database.
+
+(c) The Director of OMB (Director), or the Director’s designee, may waive compliance with subsections (a) and (b) of this section for particular guidance documents or categories of guidance documents, or extend the deadlines set forth in those subsections.
+
+(d) As requested by the Director, within 240 days of the date on which OMB issues an implementing memorandum under section 6 of this order, an agency head shall submit a report to the Director with the reasons for maintaining in effect any guidance documents identified by the Director.
+
+The Director shall provide such reports to the President. This subsection shall apply only to guidance documents existing as of the date of this order [Oct. 9, 2019].
+
+Sec. 4. Promulgation of Procedures for Issuing Guidance Documents. (a) Within 300 days of the date on which OMB issues an implementing memorandum under section 6 of this order, each agency shall, consistent with applicable law, finalize regulations, or amend existing regulations as necessary, to set forth processes and procedures for issuing guidance documents. The process set forth in each regulation shall be consistent with this order and shall include:
+
+(i) a requirement that each guidance document clearly state that it does not bind the public, except as authorized by law or as incorporated into a contract;
+
+(ii) procedures for the public to petition for withdrawal or modification of a particular guidance document, including a designation of the officials to which petitions should be directed; and
+
+(iii) for a significant guidance document, as determined by the Administrator of OMB’s Office of Information and Regulatory Affairs (Administrator), unless the agency and the Administrator agree that exigency, safety, health, or other compelling cause warrants an exemption from some or all requirements, provisions requiring:
+
+(A) a period of public notice and comment of at least 30 days before issuance of a final guidance document, and a public response from the agency to major concerns raised in comments, except when the agency for good cause finds (and incorporates such finding and a brief statement of reasons therefor into the guidance document) that notice and public comment thereon are impracticable, unnecessary, or contrary to the public interest;
+
+(B) approval on a non-delegable basis by the agency head or by an agency component head appointed by the President, before issuance;
+
+(C) review by the Office of Information and Regulatory Affairs (OIRA) under Executive Order 12866, before issuance; and
+
+(D) compliance with the applicable requirements for regulations or rules, including significant regulatory actions, set forth in Executive Orders 12866, 13563 (Improving Regulation and Regulatory Review) [set out above], 13609 (Promoting International Regulatory Cooperation) [set out above], 13771 (Reducing Regulation and Controlling Regulatory Costs) [set out above], and 13777 (Enforcing the Regulatory Reform Agenda) [set out above].
+
+(b) The Administrator shall issue memoranda establishing exceptions from this order for categories of guidance documents, and categorical presumptions regarding whether guidance documents are significant, as appropriate, and may require submission of significant guidance documents to OIRA for review before the finalization of agency regulations under subsection (a) of this section. In light of the Memorandum of Agreement of April 11, 2018, this section and section 5 of this order shall not apply to the review relationship (including significance determinations) between OIRA and any component of the Department of the Treasury, or to compliance by the latter with Executive Orders 12866, 13563, 13609, 13771, and 13777. Section 4(a)(iii) and section 5 of this order shall not apply to pre-enforcement rulings.
+
+Sec. 5. Executive Orders 12866, 13563, and 13609. The requirements and procedures of Executive Orders 12866, 13563, and 13609 shall apply to guidance documents, consistent with section 4 of this order.
+
+Sec. 6. Implementation. The Director shall issue memoranda and, as appropriate, regulations pursuant to sections 3504(d)(1) and 3516 of title 44, United States Code, and other appropriate authority, to provide guidance regarding or otherwise implement this order.
+
+Sec. 7. General Provisions. (a) Nothing in this order shall be construed to impair or otherwise affect:
+
+(i) the authority granted by law to an executive department or agency, or the head thereof; or
+
+(ii) the functions of the Director of the Office of Management and Budget relating to budgetary, administrative, or legislative proposals.
+
+(b) This order shall be implemented consistent with applicable law and subject to the availability of appropriations.
+
+(c) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+
+(d) Notwithstanding any other provision in this order, nothing in this order shall apply:
+
+(i) to any action that pertains to foreign or military affairs, or to a national security or homeland security function of the United States (other than guidance documents involving procurement or the import or export of non-defense articles and services);
+
+(ii) to any action related to a criminal investigation or prosecution, including undercover operations, or any civil enforcement action or related investigation by the Department of Justice, including any action related to a civil investigative demand under [18 U.S.C. 1968](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section1968&num=0&edition=prelim);
+
+(iii) to any investigation of misconduct by an agency employee or any disciplinary, corrective, or employment action taken against an agency employee;
+
+(iv) to any document or information that is exempt from disclosure under [section 552(b) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section552/b&num=0&edition=prelim), United States Code (commonly known as the Freedom of Information Act); or
+
+(v) in any other circumstance or proceeding to which application of this order, or any part of this order, would, in the judgment of the head of the agency, undermine the national security.
+
+Donald J. Trump.
+
+#### Ex. Ord. No. 13893. Increasing Government Accountability for Administrative Actions by Reinvigorating Administrative PAYGO
+Ex. Ord. No. 13893, Oct. 10, 2019, 84 F.R. 55487, provided:
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered as follows:
+
+Section 1. Purpose. In May 2005, the Office of Management and Budget (OMB) implemented a budget-neutrality requirement on executive branch administrative actions affecting mandatory spending. This mechanism, commonly referred to as “Administrative pay-as-you-go” (Administrative PAYGO), requires each executive department and agency (agency) to include one or more proposals for reducing mandatory spending whenever an agency proposes to undertake a discretionary administrative action that would increase mandatory spending.
+
+In practice, however, agencies have applied this requirement with varying degrees of stringency, sometimes resulting in higher mandatory spending. Accordingly, institutionalizing and reinvigorating Administrative PAYGO through this order is a prudent approach to keeping mandatory spending under control.
+
+Sec. 2. Policy. It is the policy of the executive branch to control Federal spending and restore the Nation’s fiscal security. This policy includes ensuring that agencies consider the costs of their administrative actions, take steps to offset those costs, and curtail costly administrative actions.
+
+Sec. 3. Definitions. For the purposes of this order:
+
+(a) the term “discretionary administrative action” means any administrative action that is not required by statute and that would impact mandatory spending, including, but not limited to, the issuance of any agency rule, demonstration, program notice, or guidance; and
+
+(b) the term “increase” in the context of mandatory spending means an increase relative to the projection in the most recent President’s Budget, as described in [31 U.S.C. 1105](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1105&num=0&edition=prelim), or Mid-Session Review, as described in [31 U.S.C. 1106](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1106&num=0&edition=prelim), of what is required, under current law, to fund the mandatory-spending program.
+
+Sec. 4. Scope. This order applies to discretionary administrative actions undertaken by agencies. If an agency determines that a proposed administrative action that would increase mandatory spending is required by statute and therefore is not a discretionary administrative action, the agency’s general counsel shall provide a written opinion to the Director of OMB (Director) explaining that legal conclusion, and the agency shall consult with OMB prior to taking further action.
+
+Sec. 5. Agency Proposal Requirements. (a) Before an agency may undertake any discretionary administrative action, the head of the agency shall submit the proposed discretionary administrative action to the Director for review. Such submission shall include an estimate of the budgetary effects of such action.
+
+(b) If an agency’s proposed discretionary administrative action would increase mandatory spending, the agency head’s submission under subsection (a) of this section shall include a proposal to undertake other administrative action(s) that would comparably reduce mandatory spending. Submissions to increase mandatory spending that do not include a proposal to offset such increased spending shall be returned to the agency for reconsideration.
+
+The Director shall have the discretion to determine whether a proposed offset in mandatory spending is comparable to the relevant increase in mandatory spending, taking into account the magnitude of the offset and the increase and any other factors the Director deems appropriate.
+
+Sec. 6. Issuance of Administrative PAYGO Guidance and Revocation of OMB PAYGO Memorandum. Within 90 days of the date of this order [Oct. 10, 2019], the Director shall issue instructions regarding the implementation of this order, including how agency administrative action proposals that increase mandatory spending and non-tax receipts will be evaluated. In addition, within 90 days of the date of this order, the Director shall revoke OMB Memorandum M–05–13.
+
+Sec. 7. Waiver. The Director may waive the requirements of section 5 of this order when the Director concludes that such a waiver is necessary for the delivery of essential services, for effective program delivery, or because a waiver is otherwise warranted by the public interest.
+
+Sec. 8. Flexibility for the Director of OMB to Pursue Additional Deficit Reduction. The Director may pursue additional deficit reduction through agency administrative actions.
+
+Sec. 9. General Provisions. (a) Nothing in this order shall be construed to impair or otherwise affect:
+
+(i) the authority granted by law to an executive department or agency, or the head thereof; or
+
+(ii) the functions of the Director relating to budgetary, administrative, or legislative proposals.
+
+(b) This order shall be implemented consistent with applicable law and subject to the availability of appropriations.
+
+(c) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+
+Donald J. Trump.
+
+#### Ex. Ord. No. 13924. Regulatory Relief To Support Economic Recovery
+Ex. Ord. No. 13924, May 19, 2020, 85 F.R. 31353, provided:
+
+In December 2019, a novel coronavirus known as SARS–CoV–2 (“the virus”) was first detected in Wuhan, Hubei Province, People’s Republic of China, causing an outbreak of the disease COVID–19, which has now spread globally. The Secretary of Health and Human Services declared a public health emergency on January 31, 2020, under section 319 of the Public Health Service Act ([42 U.S.C. 247d](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section247d&num=0&edition=prelim)), in response to COVID–19. In Proclamation 9994 of March 13, 2020 (Declaring a National Emergency Concerning the Novel Coronavirus Disease (COVID–19) Outbreak) [[50 U.S.C. 1621](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1621&num=0&edition=prelim) note], I declared that the COVID–19 outbreak in the United States constituted a national emergency, beginning March 1, 2020.
+
+I have taken sweeping action to control the spread of the virus in the United States, including by suspending entry of certain foreign nationals who present a risk of transmitting the virus; implementing policies to accelerate acquisition of personal protective equipment and bring new diagnostic capabilities to laboratories; and pressing forward rapidly in the search for effective treatments and vaccines. Our States, tribes, territories, local communities, health authorities, hospitals, doctors and nurses, manufacturers, and critical infrastructure workers have all performed heroic service on the front lines battling COVID–19. Executive departments and agencies (agencies), under my leadership, have helped them by taking hundreds of administrative actions since March, many of which provided flexibility regarding burdensome requirements that stood in the way of implementing the most effective strategies to stop the virus’s spread.
+
+The virus has attacked our Nation’s economy as well as its health. Many businesses and non-profits have been forced to close or lay off workers, and in the last 8 weeks, the Nation has seen more than 36 million new unemployment insurance claims. I have worked with the Congress to provide vital relief to small businesses to keep workers employed and to bring assistance to those who have lost their jobs. On April 16, 2020, I announced Guidelines for Opening Up America Again, a framework for safely re-opening the country and putting millions of Americans back to work.
+
+Just as we continue to battle COVID–19 itself, so too must we now join together to overcome the effects the virus has had on our economy. Success will require the efforts not only of the Federal Government, but also of every State, tribe, territory, and locality; of businesses, non-profits, and houses of worship; and of the American people. To aid those efforts, agencies must continue to remove barriers to the greatest engine of economic prosperity the world has ever known: the innovation, initiative, and drive of the American people.
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered as follows:
+
+Section 1. Policy. It is the policy of the United States to combat the economic consequences of COVID–19 with the same vigor and resourcefulness with which the fight against COVID–19 itself has been waged. Agencies should address this economic emergency by rescinding, modifying, waiving, or providing exemptions from regulations and other requirements that may inhibit economic recovery, consistent with applicable law and with protection of the public health and safety, with national and homeland security, and with budgetary priorities and operational feasibility. They should also give businesses, especially small businesses, the confidence they need to re-open by providing guidance on what the law requires; by recognizing the efforts of businesses to comply with often-complex regulations in complicated and swiftly changing circumstances; and by committing to fairness in administrative enforcement and adjudication.
+
+Sec. 2. Definitions. (a) “Emergency authorities” means any statutory or regulatory authorities or exceptions that authorize action in an emergency, in exigent circumstances, for good cause, or in similar situations.
+
+(b) “Agency” has the meaning given in [section 3502 of title 44](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section3502&num=0&edition=prelim), United States Code.
+
+(c) “Administrative enforcement” includes investigations, assertions of statutory or regulatory violations, and adjudications by adjudicators as defined herein.
+
+(d) “Adjudicator” means an agency official who makes a determination that has legal consequence, as defined in section 2(d) of Executive Order 13892 of October 9, 2019 (Promoting the Rule of Law Through Transparency and Fairness in Civil Administrative Enforcement and Adjudication) [[5 U.S.C. 551](./chapter-005-administrative-procedure.md#section-551) note], for a person, except that it does not mean the head of an agency, a member of a multi-member board that heads an agency, or a Presidential appointee.
+
+(e) “Pre-enforcement ruling” has the meaning given it in section 2(f) of Executive Order 13892.
+
+(f) “Regulatory standard” includes any requirement imposed on the public by a Federal regulation, as defined in section 2(g) of Executive Order 13892, or any recommendation, best practice, standard, or other, similar provision of a Federal guidance document as defined in section 2(c) of Executive Order 13892.
+
+(g) “Unfair surprise” has the meaning given it in section 2(e) of Executive Order 13892.
+
+Sec. 3. Federal Response. The heads of all agencies are directed to use, to the fullest extent possible and consistent with applicable law, any emergency authorities that I have previously invoked in response to the COVID–19 outbreak or that are otherwise available to them to support the economic response to the COVID–19 outbreak. The heads of all agencies are also encouraged to promote economic recovery through non-regulatory actions.
+
+Sec. 4. Rescission and waiver of regulatory standards. The heads of all agencies shall identify regulatory standards that may inhibit economic recovery and shall consider taking appropriate action, consistent with applicable law, including by issuing proposed rules as necessary, to temporarily or permanently rescind, modify, waive, or exempt persons or entities from those requirements, and to consider exercising appropriate temporary enforcement discretion or appropriate temporary extensions of time as provided for in enforceable agreements with respect to those requirements, for the purpose of promoting job creation and economic growth, insofar as doing so is consistent with the law and with the policy considerations identified in section 1 of this order.
+
+Sec. 5. Compliance assistance for regulated entities. (a) The heads of all agencies, excluding the Department of Justice, shall accelerate procedures by which a regulated person or entity may receive a pre-enforcement ruling under Executive Order 13892 with respect to whether proposed conduct in response to the COVID–19 outbreak, including any response to legislative or executive economic stimulus actions, is consistent with statutes and regulations administered by the agency, insofar as doing so is consistent with the law and with the policy considerations identified in section 1 of this order. Pre-enforcement rulings under this subsection may be issued without regard to the requirements of section 6(a) of Executive Order 13892.
+
+(b) The heads of all agencies shall consider whether to formulate, and make public, policies of enforcement discretion that, as permitted by law and as appropriate in the context of particular statutory and regulatory programs and the policy considerations identified in section 1 of this order, decline enforcement against persons and entities that have attempted in reasonable good faith to comply with applicable statutory and regulatory standards, including those persons and entities acting in conformity with a pre-enforcement ruling.
+
+(c) As a result of the ongoing COVID–19 pandemic, the Department of Health and Human Services, including through the Centers for Disease Control and Prevention, and other agencies have issued, or plan to issue in the future, guidance on action suggested to stem the transmission and spread of that disease. In formulating any policies of enforcement discretion under subsection (b) of this section, an agency head should consider a situation in which a person or entity makes a reasonable attempt to comply with such guidance, which the person or entity reasonably deems applicable to its circumstances, to be a rationale for declining enforcement under subsection (b) of this section. Non-adherence to guidance shall not by itself form the basis for an enforcement action by a Federal agency.
+
+Sec. 6. Fairness in Administrative Enforcement and Adjudication. The heads of all agencies shall consider the principles of fairness in administrative enforcement and adjudication listed below, and revise their procedures and practices in light of them, consistent with applicable law and as they deem appropriate in the context of particular statutory and regulatory programs and the policy considerations identified in section 1 of this order.
+
+(a) The Government should bear the burden of proving an alleged violation of law; the subject of enforcement should not bear the burden of proving compliance.
+
+(b) Administrative enforcement should be prompt and fair.
+
+(c) Administrative adjudicators should be independent of enforcement staff.
+
+(d) Consistent with any executive branch confidentiality interests, the Government should provide favorable relevant evidence in possession of the agency to the subject of an administrative enforcement action.
+
+(e) All rules of evidence and procedure should be public, clear, and effective.
+
+(f) Penalties should be proportionate, transparent, and imposed in adherence to consistent standards and only as authorized by law.
+
+(g) Administrative enforcement should be free of improper Government coercion.
+
+(h) Liability should be imposed only for violations of statutes or duly issued regulations, after notice and an opportunity to respond.
+
+(i) Administrative enforcement should be free of unfair surprise.
+
+(j) Agencies must be accountable for their administrative enforcement decisions.
+
+Sec. 7. Review of Regulatory Response. The heads of all agencies shall review any regulatory standards they have temporarily rescinded, suspended, modified, or waived during the public health emergency, any such actions they take pursuant to section 4 of this order, and other regulatory flexibilities they have implemented in response to COVID–19, whether before or after issuance of this order, and determine which, if any, would promote economic recovery if made permanent, insofar as doing so is consistent with the policy considerations identified in section 1 of this order, and report the results of such review to the Director of the Office of Management and Budget, the Assistant to the President for Domestic Policy, and the Assistant to the President for Economic Policy.
+
+Sec. 8. Implementation. The Director of the Office of Management and Budget, in consultation with the Assistant to the President for Domestic Policy and the Assistant to the President for Economic Policy, shall monitor compliance with this order and may also issue memoranda providing guidance for implementing this order, including by setting deadlines for the reviews and reports required under section 7 of this order.
+
+Sec. 9. General Provisions. (a) Nothing in this order shall be construed to impair or otherwise affect:
+
+(i) the authority granted by law to an executive department or agency, or the head thereof; or
+
+(ii) the functions of the Director of the Office of Management and Budget relating to budgetary, administrative, or legislative proposals.
+
+(b) This order shall be implemented consistent with applicable law and subject to the availability of appropriations.
+
+(c) Notwithstanding any other provision in this order, nothing in this order shall apply to any action that pertains to foreign or military affairs, or to a national security or homeland security function of the United States (other than procurement actions and actions involving the import or export of non-defense articles and services).
+
+(d) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+
+Donald J. Trump.
+
+#### Ex. Ord. No. 13927. Accelerating the Nation’s Economic Recovery From the COVID–19 Emergency by Expediting Infrastructure Investments and Other Activities
+Ex. Ord. No. 13927, June 4, 2020, 85 F.R. 35165, provided:
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, I hereby determine and authorize as follows:
+
+Section 1. Purpose. The 2019 novel coronavirus known as SARS–CoV–2, the virus causing outbreaks of the disease COVID–19, has significantly disrupted the lives of Americans. In Proclamation 9994 of March 13, 2020 (Declaring a National Emergency Concerning the Novel Coronavirus Disease (COVID–19) Outbreak) [[50 U.S.C. 1621](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1621&num=0&edition=prelim) note], I declared, pursuant to the National Emergencies Act, [50 U.S.C. 1601](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1601&num=0&edition=prelim) et seq., that the COVID–19 outbreak in the United States constituted a national emergency that posed a threat to our national security (“the national emergency”). I also determined that same day that the COVID–19 outbreak constituted an emergency of nationwide scope, pursuant to section 501(b) of the [Robert T.] Stafford [Disaster Relief and Emergency Assistance] Act ([42 U.S.C. 5191(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5191/b&num=0&edition=prelim)).
+
+Since I declared this national emergency, the American people have united behind a policy of mitigation strategies, such as social distancing, to reduce the spread of COVID–19. The unavoidable result of the COVID–19 outbreak and these necessary mitigation measures has been a dramatic downturn in our economy. National unemployment claims have reached historic levels. In the days between the national emergency declaration and May 23, 2020, more than 41 million Americans filed for unemployment, and the unemployment rate reached 14.7 percent. In light of this and other developments, I have determined that, without intervention, the United States faces the likelihood of a potentially protracted economic recovery with persistent high unemployment.
+
+From the beginning of my Administration, I have focused on reforming and streamlining an outdated regulatory system that has held back our economy with needless paperwork and costly delays. Antiquated regulations and bureaucratic practices have hindered American infrastructure investments, kept America’s building trades workers from working, and prevented our citizens from developing and enjoying the benefits of world-class infrastructure.
+
+The need for continued progress in this streamlining effort is all the more acute now, due to the ongoing economic crisis. Unnecessary regulatory delays will deny our citizens opportunities for jobs and economic security, keeping millions of Americans out of work and hindering our economic recovery from the national emergency.
+
+In tandem with this regulatory reform, I will continue to use existing legal authorities to respond to the full dimensions of the national emergency and its economic consequences. These authorities include statutes and regulations that allow for expedited government decision making in exigent circumstances.
+
+Sec. 2. Policy. Agencies, including executive departments, should take all appropriate steps to use their lawful emergency authorities and other authorities to respond to the national emergency and to facilitate the Nation’s economic recovery. As set forth in this order, agencies should take all reasonable measures to speed infrastructure investments and to speed other actions in addition to such investments that will strengthen the economy and return Americans to work, while providing appropriate protection for public health and safety, natural resources, and the environment, as required by law. For purposes of this order, the term “agencies” has the meaning given that term in section 3502(1), of title 44, United States Code, except for the agencies described in [section 3502(5) of title 44](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section3502/5&num=0&edition=prelim).
+
+Sec. 3. Expediting the Delivery of Transportation Infrastructure Projects. (a) To facilitate the Nation’s economic recovery, the Secretary of Transportation shall use all relevant emergency and other authorities to expedite work on, and completion of, all authorized and appropriated highway and other infrastructure projects that are within the authority of the Secretary to perform or to advance.
+
+(b) No later than 30 days of the date of this order [June 4, 2020], the Secretary of Transportation shall provide a summary report, listing all projects that have been expedited pursuant to subsection (a) of this section (“expedited transportation projects”), to the Director of the Office of Management and Budget (OMB), the Assistant to the President for Economic Policy, and the Chairman of the Council on Environmental Quality (CEQ). Such report may be combined, as appropriate, with any other reports required by this order.
+
+(c) Within 30 days following the submission of the initial summary report described in subsection (b) of this section, the Secretary of Transportation shall provide a status report to the OMB Director, the Assistant to the President for Economic Policy, and the Chairman of CEQ that shall list any additions or other changes to the list described in subsection (b) of this section. Such status reports shall thereafter be provided to these officials at least every 30 days for the duration of the national emergency, and may be combined, as appropriate, with any other reports required by this order.
+
+Sec. 4. Expediting the Delivery of Civil Works Projects Within the Purview of the Army Corps of Engineers. (a) To facilitate the Nation’s economic recovery, the Secretary of the Army, acting through the Assistant Secretary of the Army for Civil Works, shall use all relevant emergency and other authorities to expedite work on, and completion of, all authorized and appropriated civil works projects that are within the authority of the Secretary of the Army to perform or to advance.
+
+(b) No later than 30 days of the date of this order, the Secretary of the Army, acting through the Assistant Secretary of the Army for Civil Works, shall provide a summary report, listing all such projects that have been expedited (“expedited Army Corps of Engineers projects”), to the OMB Director, the Assistant to the President for Economic Policy, and the Chairman of CEQ. Such report may be combined, as appropriate, with any other reports required by this order.
+
+(c) Within 30 days following the submission of the initial summary report described in subsection (b) of this section, the Secretary of the Army, acting through the Assistant Secretary of the Army for Civil Works, shall provide a status report to the OMB Director, the Assistant to the President for Economic Policy, and the Chairman of CEQ. Each such report shall list the status of all expedited Army Corps of Engineers projects and shall list any additions or other changes to the list described in subsection (b) of this section. Such status reports shall thereafter be provided to these officials at least every 30 days for the duration of the national emergency and may be combined, as appropriate, with any other reports required by this order.
+
+Sec. 5. Expediting the Delivery of Infrastructure and Other Projects on Federal Lands. (a) As used in this section, the term “Federal lands” means any land or interests in land owned by the United States, including leasehold interests held by the United States, except Indian trust land.
+
+(b) To facilitate the Nation’s economic recovery, the Secretary of Defense, the Secretary of the Interior, and the Secretary of Agriculture shall use all relevant emergency and other authorities to expedite work on, and completion of, all authorized and appropriated infrastructure, energy, environmental, and natural resources projects on Federal lands that are within the authority of each of the Secretaries to perform or to advance.
+
+(c) No later than 30 days of the date of this order, the Secretary of Defense, the Secretary of the Interior, and the Secretary of Agriculture shall each provide a summary report, listing all such projects that have been expedited (“expedited Federal lands projects”), to the OMB Director, the Assistant to the President for Economic Policy, and the Chairman of CEQ. Such report may be combined, as appropriate, with any other reports required by this order.
+
+(d) Within 30 days following the submission of the initial summary report described in subsection (c) of this section, the Secretary of Defense, the Secretary of the Interior, and the Secretary of Agriculture shall each provide a status report to the OMB Director, the Assistant to the President for Economic Policy, and the Chairman of CEQ. Each such report shall list the status of all expedited Federal lands projects and shall list any additions or other changes to the list described in subsection (c) of this section. Such status reports shall thereafter be provided to these officials at least every 30 days for the duration of the national emergency and may be combined, as appropriate, with any other reports required by this order.
+
+Sec. 6. National Environmental Policy Act (NEPA) Emergency Regulations and Emergency Procedures. The Council on Environmental Quality has provided appropriate flexibility to agencies for complying with the National Environmental Policy Act [of 1969] (NEPA), [42 U.S.C. 4321](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) et seq., in emergency situations. Such flexibility is expressly authorized in CEQ’s regulations, contained in title 40, Code of Federal Regulations, that implement the procedural provisions of NEPA (the “NEPA regulations”), which were first issued in 1978. These regulations provide that when emergency circumstances make it necessary to take actions with significant environmental impacts without observing the regulations, agencies may consult with CEQ to make alternative arrangements to take such actions. Using this authority, CEQ has appropriately approved alternative arrangements in a wide variety of pressing emergency situations. These emergencies have included not only natural disasters and threats to the national defense, but also threats to human and animal health, energy security, agriculture and farmers, and employment and economic prosperity.
+
+(a) No later than 30 days of the date of this order, the heads of all agencies:
+
+(i) shall identify planned or potential actions to facilitate the Nation’s economic recovery that:
+
+(A) may be subject to emergency treatment as alternative arrangements pursuant to CEQ’s NEPA regulations and agencies’ own NEPA procedures;
+
+(B) may be subject to statutory exemptions from NEPA;
+
+(C) may be subject to the categorical exclusions that agencies have included in their NEPA procedures pursuant to the NEPA regulations;
+
+(D) may be covered by already completed NEPA analyses that obviate the need for new analyses; or
+
+(E) may otherwise use concise and focused NEPA environmental analyses; and
+
+(ii) shall provide a summary report, listing such actions, to the OMB Director, the Assistant to the President for Economic Policy, and the Chairman of CEQ. Such report may be combined, as appropriate, with any other reports required by this order.
+
+(b) To facilitate the Nation’s economic recovery, the heads of all agencies are directed to use, to the fullest extent possible and consistent with applicable law, emergency procedures, statutory exemptions, categorical exclusions, analyses that have already been completed, and concise and focused analyses, consistent with NEPA, CEQ’s NEPA regulations, and agencies’ NEPA procedures.
+
+(c) Within 30 days following the submission of the initial summary report described in subsection (a)(ii) of this section, each agency shall provide a status report to the OMB Director, the Assistant to the President for Economic Policy, and the Chairman of CEQ. Each such report shall list actions taken within the categories described in subsection (a)(i) of this section, shall list the status of any previously reported planned or potential actions, and shall list any new planned or potential actions within these categories. Such status reports shall thereafter be provided to these officials at least every 30 days for the duration of the national emergency and may be combined, as appropriate, with any other reports required by this order.
+
+(d) The Chairman of CEQ shall be available to consult promptly with agencies and to take other prompt and appropriate action concerning the application of CEQ’s NEPA emergency regulations.
+
+Sec. 7. Endangered Species Act (ESA) Emergency Consultation Regulations. (a) No later than 30 days of the date of this order, the heads of all agencies:
+
+(i) shall identify planned or potential actions to facilitate the Nation’s economic recovery that may be subject to the regulation on consultations in emergencies, see 50 C.F.R. 402.05, promulgated by the Secretary of the Interior and the Secretary of Commerce pursuant to the Endangered Species Act [of 1973] (ESA), [16 U.S.C. 1531](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1531&num=0&edition=prelim) et seq.; and
+
+(ii) shall provide a summary report, listing such actions, to the Secretary of the Interior, the Secretary of Commerce, the OMB Director, the Assistant to the President for Economic Policy, and the Chairman of CEQ. (The Secretary of the Interior and the Secretary of Commerce shall provide such summary reports, listing such actions on behalf of their respective agencies, to each other and for internal use throughout their respective agencies, as well as to the OMB Director, the Assistant to the President for Economic Policy, and the Chairman of CEQ.) Such report may be combined, as appropriate, with any other reports required by this order.
+
+(b) The heads of all agencies are directed to use, to the fullest extent possible and consistent with applicable law, the ESA regulation on consultations in emergencies, to facilitate the Nation’s economic recovery.
+
+(c) Within 30 days following the submission of the initial summary report described in subsection (a)(ii) of this section, the head of each agency shall provide a status report to the Secretary of the Interior, the Secretary of Commerce, the OMB Director, the Assistant to the President for Economic Policy, and the Chairman of CEQ. (The Secretary of the Interior and the Secretary of Commerce shall provide such status reports, listing such actions on behalf of their respective agencies, to each other and for internal use throughout their respective agencies, as well as to the OMB Director, the Assistant to the President for Economic Policy, and the Chairman of CEQ.) Each such report shall list actions taken within the categories described in subsection (a)(i) of this section, shall list the status of any previously reported planned or potential actions, and shall list any new planned or potential actions within these categories. Such status reports shall thereafter be provided to these officials at least every 30 days for the duration of the national emergency and may be combined, as appropriate, with any other reports required by this order.
+
+(d) The Secretary of the Interior shall ensure that the Director of the Fish and Wildlife Service, or the Director’s authorized representative, shall be available to consult promptly with agencies and to take other prompt and appropriate action concerning the application of the ESA’s emergency regulations. The Secretary of Commerce shall ensure that the Assistant Administrator for Fisheries for the National Marine Fisheries Service, or the Assistant Administrator’s authorized representative, shall be available for such consultation and to take such other action.
+
+Sec. 8. Emergency Regulations and Nationwide Permits Under the Clean Water Act (CWA) and Other Statutes Administered by the Army Corps of Engineers. (a) No later than 30 days of the date of this order, the heads of all agencies, including the Secretary of the Army, acting through the Assistant Secretary of the Army for Civil Works:
+
+(i) shall identify planned or potential actions to facilitate the Nation’s economic recovery that may be subject to emergency treatment pursuant to the regulations and nationwide permits promulgated by the Army Corps of Engineers, or jointly by the Corps and the Environmental Protection Agency (EPA), pursuant to section 404 of the Clean Water Act, [33 U.S.C. 1344](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1344&num=0&edition=prelim), section 10 of the Rivers and Harbors Act of March 3, 1899 [probably means Rivers and Harbors Appropriation Act of 1899], [33 U.S.C. 403](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section403&num=0&edition=prelim), and section 103 of the Marine Protection[,] Research[,] and Sanctuaries Act of 1972, [33 U.S.C. 1413](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1413&num=0&edition=prelim) (collectively, the “emergency Army Corps permitting provisions”); and
+
+(ii) shall provide a summary report, listing such actions, to the Secretary of the Army, acting through the Assistant Secretary of the Army for Civil Works; the OMB Director; the Assistant to the President for Economic Policy; and the Chairman of CEQ. Such report may be combined, as appropriate, with any other reports required by this order.
+
+(b) The heads of all agencies are directed to use, to the fullest extent possible and consistent with applicable law, the emergency Army Corps permitting provisions, to facilitate the Nation’s economic recovery.
+
+(c) Within 30 days following the submission of the initial summary report described in subsection (a)(ii) of this section, each agency shall provide a status report to the Secretary of the Army, acting through the Assistant Secretary of the Army for Civil Works; the OMB Director; the Assistant to the President for Economic Policy; and the Chairman of CEQ. Each such report shall list actions taken within subsection (a)(i) of this section, shall list the status of any previously reported planned or potential actions, and shall list any new planned or potential actions that fall within subsection (a)(i). Such status reports shall thereafter be provided to these officials at least every 30 days for the duration of the national emergency and may be combined, as appropriate, with any other reports required by this order.
+
+(d) The Secretary of the Army, acting through the Assistant Secretary of the Army for Civil Works, shall be available to consult promptly with agencies and to take other prompt and appropriate action concerning the application of the emergency Army Corps permitting provisions. The Administrator of the EPA shall provide prompt cooperation to the Secretary of the Army and to agencies in connection with the discharge of the responsibilities described in this section.
+
+Sec. 9. Other Authorities Providing for Emergency or Expedited Treatment of Infrastructure Improvements and Other Activities. (a) No later than 30 days of the date of this order, all heads of agencies:
+
+(i) shall review all statutes, regulations, and guidance documents that may provide for emergency or expedited treatment (including waivers, exemptions, or other streamlining) with regard to agency actions pertinent to infrastructure, energy, environmental, or natural resources matters;
+
+(ii) shall identify planned or potential actions, including actions to facilitate the Nation’s economic recovery, that may be subject to emergency or expedited treatment (including waivers, exemptions, or other streamlining) pursuant to those statutes and regulations; and
+
+(iii) shall provide a summary report, listing such actions, to the OMB Director, the Assistant to the President for Economic Policy, and the Chairman of CEQ. Such report may be combined, as appropriate, with any other reports required by this order.
+
+(b) Consistent with applicable law, agencies shall use such statutes and regulations to the fullest extent permitted to facilitate the Nation’s economic recovery.
+
+(c) Within 30 days following the submission of the initial summary report described in subsection (a)(iii) of this section, each agency shall provide a status report to the OMB Director, the Assistant to the President for Economic Policy, and the Chairman of CEQ. Each such report shall list actions taken within subsection (a)(ii) of this section, shall list the status of any previously reported planned or potential actions, and shall list any new planned or potential actions that fall within subsection (a)(ii). Such status reports shall thereafter be provided to these officials at least every 30 days for the duration of the national emergency and may be combined, as appropriate, with any other reports required by this order.
+
+Sec. 10. General Provisions. (a) Nothing in this order shall be construed to impair or otherwise affect:
+
+(i) the authority granted by law to an executive department or agency, or the head thereof; or
+
+(ii) the functions of the OMB Director relating to budgetary, administrative, or legislative proposals.
+
+(b) This order shall be implemented consistent with applicable law and subject to the availability of appropriations.
+
+(c) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+
+Donald J. Trump.
+
 #### Regulatory Reform—Waiver of Penalties and Reduction of Reports
 Memorandum of President of the United States, Apr. 21, 1995, 60 F.R. 20621, provided:
 

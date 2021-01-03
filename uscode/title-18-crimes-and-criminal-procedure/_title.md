@@ -1,8 +1,8 @@
 ---
 title: 18
 heading: CRIMES AND CRIMINAL PROCEDURE
-positive_law: false
-sections: 1385
+positive_law: true
+sections: 1387
 chapters: 141
 ---
 # Title 18. CRIMES AND CRIMINAL PROCEDURE
@@ -70,7 +70,7 @@ chapters: 141
 - 85 — PRISON-MADE GOODS
 - 87 — PRISONS
 - 88 — PRIVACY
-- 89 — PROFESSIONS AND OCCUPATIONS
+- 89 — REPEALED]
 - 90 — PROTECTION OF TRADE SECRETS
 - 90A — PROTECTION OF UNBORN CHILDREN
 - 91 — PUBLIC LANDS

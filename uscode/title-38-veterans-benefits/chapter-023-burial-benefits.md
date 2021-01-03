@@ -16,7 +16,7 @@ source: >-
 
   (B) had served at least one enlistment; or
 
-  (C) had been discharged or released from the active military, naval, or air service for a disability incurred or aggravated in line of duty; and
+  (C) had been discharged or released from the active military, naval, air, or space service for a disability incurred or aggravated in line of duty; and
 
 (2) deceased individual who at the time of death was entitled to retired pay under chapter 67 11 See References in Text note below. of title 10 or would have been entitled to retired pay under that chapter but for the fact that the person was under 60 years of age.
 
@@ -24,7 +24,7 @@ source: >-
 
 **(c)** For the purpose of this section, the term “Mexican border period” as defined in paragraph (30) of [section 101 of this title](./chapter-001-general.md#section-101) includes the period beginning on January 1, 1911, and ending on May 8, 1916.
 
-**(d)** In the case of any person who died while in the active military, naval, or air service after May 27, 1941, the Secretary shall furnish a flag to the next of kin, or to such other person as the Secretary considers most appropriate, if such next of kin or other person is not otherwise entitled to receive a flag under this section or under [section 1482(a) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1482/a&num=0&edition=prelim).
+**(d)** In the case of any person who died while in the active military, naval, air, or space service after May 27, 1941, the Secretary shall furnish a flag to the next of kin, or to such other person as the Secretary considers most appropriate, if such next of kin or other person is not otherwise entitled to receive a flag under this section or under [section 1482(a) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1482/a&num=0&edition=prelim).
 
 **(e)** The Secretary shall furnish a flag to drape the casket of each deceased person who is buried in a national cemetery by virtue of eligibility for burial in such cemetery under [section 2402(a)(6) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section2402/a/6&num=0&edition=prelim). After the burial, the flag shall be given to the next of kin or to such other person as the Secretary considers appropriate.
 
@@ -72,6 +72,8 @@ source: >-
 Chapter 67 of title 10, referred to in subsec. (a)(2), was transferred to part II of subtitle E of Title 10, Armed Forces, renumbered as chapter 1223, and amended generally by Pub. L. 103–337, div. A, title XVI, § 1662(j)(1), Oct. 5, 1994, 108 Stat. 2998. A new chapter 67 (§ 1331) of Title 10 was added by section 1662(j)(7) of Pub. L. 103–337.
 
 #### Amendments
+2021—Subsecs. (a)(1)(C), (d). Pub. L. 116–283 substituted “air, or space service” for “or air service”.
+
 2010—Subsec. (e). Pub. L. 111–275 substituted “section 2402(a)(6)” for “section 2402(6)”.
 
 2002—Subsecs. (g), (h). Pub. L. 107–330 added subsec. (g) and redesignated former subsec. (g) as (h).
@@ -146,13 +148,26 @@ Amendment by Pub. L. 90–77 effective first day of first calendar month which b
   (A) that there is no next of kin or other person claiming the body of the deceased veteran, and
 
   (B) that there are not available sufficient resources to cover burial and funeral expenses,
-the Secretary, in the Secretary’s discretion, having due regard to the circumstances in each case, may pay a sum not exceeding $300 to such person as the Secretary prescribes to cover the burial and funeral expenses of the deceased veteran and the expense of preparing the body and transporting it to the place of burial. For the purpose of this subsection, the term “veteran” includes a person who died during a period deemed to be active military, naval, or air service under [section 106(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section106/c&num=0&edition=prelim).
+the Secretary, in the Secretary’s discretion, having due regard to the circumstances in each case, may pay a sum not exceeding $300 to such person as the Secretary prescribes to cover the burial and funeral expenses of the deceased veteran and the expense of preparing the body and transporting it to the place of burial. For the purpose of this subsection, the term “veteran” includes a person who died during a period deemed to be active military, naval, air, or space service under [section 106(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section106/c&num=0&edition=prelim).
 
 **(b)** Except as hereafter provided in this subsection, no deduction shall be made from the burial allowance because of the veteran’s net assets at the time of the death of such veteran, or because of any contribution from any source toward the burial and funeral expenses (including transportation) unless the amount of expenses incurred is covered by the amount actually paid therefor by the United States, a State, any agency or political subdivision of the United States or of a State, or the employer of the deceased veteran. No claim shall be allowed (1) for more than the difference between the entire amount of the expenses incurred and the amount paid by any or all of the foregoing, or (2) when the burial allowance would revert to the funds of a public or private organization or would discharge such an organization’s obligation without payment. The burial allowance or any part thereof shall not be paid in any case where specific provision is otherwise made for payment of expenses of funeral, transportation, and interment under any other Act.
 
 ### Statutory Notes
 
+#### Transfer of Subsection (b) and Repeal of Section
+Pub. L. 116–315, title II, § 2202(a)(1), (2), (d), Jan. 5, 2021, 134 Stat. 4984, 4985, provided that, applicable to deaths that occur on or after the date that is two years after Jan. 5, 2021, this section is amended as follows:
+
+(1) by transferring subsection (b) of section 2302 to the end of [section 2303 of this title](./chapter-023-burial-benefits.md#section-2303) and redesignating such subsection as subsection (d); and
+
+(2) by striking this section.
+
+See 2021 Amendment note and Effective Date of 2021 Amendment and Repeal note below.
+
 #### Amendments
+2021—Subsec. (a). Pub. L. 116–283 substituted “air, or space service” for “or air service” in concluding provisions.
+
+Subsec. (b). Pub. L. 116–315, § 2202(a)(1), transferred subsec. (b) of this section, relating to deduction from burial allowance, to [section 2303(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section2303/d&num=0&edition=prelim).
+
 2013—Subsec. (a)(2). Pub. L. 112–260 struck out “who was a veteran of any war or was discharged or released from the active military, naval, or air service for a disability incurred or aggravated in line of duty, whose body is held by a State (or a political subdivision of a State), and” before “with respect to whom” in introductory provisions.
 
 1991—Pub. L. 102–83 renumbered [section 902 of this title](./chapter-009-security-and-law-enforcement-on-property-under-the-jurisdiction-of-the-department.md#section-902) as this section.
@@ -172,6 +187,9 @@ Subsec. (b). Pub. L. 95–476, § 203(b)(3), substituted “the death of such ve
 1966—Subsec. (a). Pub. L. 89–360 extended authorized burial allowance to include peacetime veterans who die of a service connected disability but who have neither applied for disability compensation for disability nor been discharged for disability.
 
 1964—Subsec. (b). Pub. L. 88–359 provided that no claim shall be allowed when allowance would revert to the funds of a public or private organization, or would discharge such an organization’s obligation without payment, and struck out requirement that amounts paid by burial associations toward burial and funeral expenses be deducted prior to payment of allowance.
+
+#### Effective Date of 2021 Amendment and Repeal
+Amendment and repeal of section by Pub. L. 116–315 applicable to deaths that occur on or after the date that is two years after Jan. 5, 2021, see section 2202(d) of Pub. L. 116–315, set out as a note under [section 113 of this title](./chapter-001-general.md#section-113).
 
 #### Effective Date of 2013 Amendment
 Pub. L. 112–260, title I, § 104(b)(3), Jan. 10, 2013, 126 Stat. 2420, provided that: “The amendments made by this subsection [amending this section and [section 2308 of this title](./chapter-023-burial-benefits.md#section-2308)] shall take effect on the date that is one year after the date of the enactment of this Act [Jan. 10, 2013] and shall apply with respect to burials and funerals occurring on or after the date that is one year after the date of the enactment of this Act.”
@@ -214,7 +232,7 @@ Amendment by Pub. L. 95–476 effective Oct. 18, 1978, see section 205(a) of Pub
 
 (1) if such veteran is buried (without charge for the cost of a plot or interment) in a cemetery, or a section of a cemetery, that (A) is used solely for the interment of persons who are (i) eligible for burial in a national cemetery, and (ii) members of a reserve component of the Armed Forces not otherwise eligible for such burial or former members of such a reserve component not otherwise eligible for such burial who are discharged or released from service under conditions other than dishonorable, and (B) is owned by a State or by an agency or political subdivision of a State, the Secretary shall pay to such State, agency, or political subdivision the sum of $700 (as increased from time to time under subsection (c)) as a plot or interment allowance for such veteran; and
 
-(2) if such veteran is eligible for a burial allowance under [section 2302 of this title](./chapter-023-burial-benefits.md#section-2302) or under subsection (a) of this section, or was discharged from the active military, naval, or air service for a disability incurred or aggravated in line of duty, and such veteran is buried in a cemetery, or a section of a cemetery, other than as described in clause (1) of this subsection, the Secretary shall pay a sum not exceeding $700 (as increased from time to time under subsection (c)) as a plot or interment allowance to such person as the Secretary prescribes, except that if any part of the plot or interment costs of a burial to which this clause applies has been paid or assumed by a State, an agency or political subdivision of a State, or a former employer of the deceased veteran, no claim for such allowance shall be allowed for more than the difference between the entire amount of the expenses incurred and the amount paid or assumed by any or all of the foregoing entities.
+(2) if such veteran is eligible for a burial allowance under [section 2302 of this title](./chapter-023-burial-benefits.md#section-2302) or under subsection (a) of this section, or was discharged from the active military, naval, air, or space service for a disability incurred or aggravated in line of duty, and such veteran is buried in a cemetery, or a section of a cemetery, other than as described in clause (1) of this subsection, the Secretary shall pay a sum not exceeding $700 (as increased from time to time under subsection (c)) as a plot or interment allowance to such person as the Secretary prescribes, except that if any part of the plot or interment costs of a burial to which this clause applies has been paid or assumed by a State, an agency or political subdivision of a State, or a former employer of the deceased veteran, no claim for such allowance shall be allowed for more than the difference between the entire amount of the expenses incurred and the amount paid or assumed by any or all of the foregoing entities.
 
 **(c)** With respect to any fiscal year, the Secretary shall provide a percentage increase (rounded to the nearest dollar) in the maximum amount of burial and funeral expenses payable under subsection (a) and in the maximum amount of the plot or interment allowance payable under subsection (b), equal to the percentage by which—
 
@@ -224,7 +242,78 @@ Amendment by Pub. L. 95–476 effective Oct. 18, 1978, see section 205(a) of Pub
 
 ### Statutory Notes
 
+#### Amendment of Section
+Pub. L. 116–315, title II, § 2202(a), (d), Jan. 5, 2021, 134 Stat. 4984, 4985, provided that, applicable to deaths that occur on or after the date that is two years after Jan. 5, 2021, this section is amended as follows:
+
+(1) in the section catchline, by striking “Death in Department facility” and inserting “Death from non-service-connected disability”;
+
+(2) in subsection (a)—
+
+(A) in paragraph (1), by striking “a veteran dies in a facility described in paragraph (2)” and inserting “a veteran described in paragraph (2) dies”; and
+
+(B) by striking paragraph (2) and inserting the following new paragraph (2):
+
+“(2) A veteran described in this paragraph is a deceased veteran who is not covered by [section 2307 of this title](./chapter-023-burial-benefits.md#section-2307) and who meets any of the following criteria:
+
+“(A) The deceased veteran dies in—
+
+“(i) a facility of the Department (as defined in [section 1701(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section1701/3&num=0&edition=prelim)) to which the deceased veteran was properly admitted for hospital, nursing home, or domiciliary care under section 1710 or 1711(a) of this title; or
+
+“(ii) an institution at which the deceased veteran was, at the time of death, receiving—
+
+“(I) hospital care in accordance with sections 1703A, 8111, and 8153 of this title;
+
+“(II) nursing home care under [section 1720 of this title](./chapter-017-hospital-nursing-home-domiciliary-and-medical-care.md#section-1720); or
+
+“(III) nursing home care for which payments are made under [section 1741 of this title](./chapter-017-hospital-nursing-home-domiciliary-and-medical-care.md#section-1741).
+
+“(B) At the time of death, the deceased veteran (including a person who died during a period deemed to be active military, naval, or air service under [section 106(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section106/c&num=0&edition=prelim)) is in receipt of compensation under chapter 11 of this title (or but for the receipt of retirement pay would have been entitled to such compensation) or was in receipt of pension under chapter 15 of this title.
+
+“(C) The Secretary determines—
+
+“(i) the deceased veteran (including a person who died during a period deemed to be active military, naval, or air service under [section 106(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section106/c&num=0&edition=prelim)) has no next of kin or other person claiming the body of the deceased veteran; and
+
+“(ii) that there are not available sufficient resources to cover burial and funeral expenses.”;
+
+(3) in subsection (b)—
+
+(A) in the matter preceding paragraph (1), by striking “[section 2302 of this title](./chapter-023-burial-benefits.md#section-2302) and”; and
+
+(B) in paragraph (2), by striking “under [section 2302 of this title](./chapter-023-burial-benefits.md#section-2302) or”;
+
+(4) by transferring subsection (b) of [section 2302 of this title](./chapter-023-burial-benefits.md#section-2302) to the end of this section and redesignating such subsection as subsection (d); and
+
+(5) in subsection (d), as added, by striking “Except as” and inserting “With respect to a deceased veteran described in subparagraph (B) or (C) of subsection (a)(2), except as”.
+
+See 2021 Amendment notes below.
+
 #### Amendments
+2021—Pub. L. 116–315, § 2202(a)(3)(A), substituted “Death from non-service-connected disability” for “Death in Department facility” in section catchline.
+
+Subsec. (a)(1). Pub. L. 116–315, § 2202(a)(3)(B)(i), substituted “a veteran described in paragraph (2) dies” for “a veteran dies in a facility described in paragraph (2)”.
+
+Subsec. (a)(2). Pub. L. 116–315, § 2202(a)(3)(B)(ii), added par. (2) and struck out former par. (2) which read as follows: “A facility described in this paragraph is—
+
+“(A) a facility of the Department (as defined in [section 1701(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section1701/3&num=0&edition=prelim)) to which the deceased was properly admitted for hospital, nursing home, or domiciliary care under section 1710 or 1711(a) of this title; or
+
+“(B) an institution at which the deceased veteran was, at the time of death, receiving—
+
+“(i) hospital care in accordance with sections 1703A, 8111, and 8153 of this title;
+
+“(ii) nursing home care under [section 1720 of this title](./chapter-017-hospital-nursing-home-domiciliary-and-medical-care.md#section-1720); or
+
+“(iii) nursing home care for which payments are made under [section 1741 of this title](./chapter-017-hospital-nursing-home-domiciliary-and-medical-care.md#section-1741).”
+
+Subsec. (b). Pub. L. 116–315, § 2202(a)(3)(B)(iii)(I), struck out “[section 2302 of this title](./chapter-023-burial-benefits.md#section-2302) and” before “subsection (a) of this section”.
+
+Subsec. (b)(2). Pub. L. 116–315, § 2202(a)(3)(B)(iii)(II), struck out “under [section 2302 of this title](./chapter-023-burial-benefits.md#section-2302) or” before “under subsection (a) of this section”.
+
+Pub. L. 116–283 substituted “air, or space service” for “or air service”.
+
+Subsec. (d). Pub. L. 116–315, § 2202(3)(B)(iv), substituted “With respect to a deceased veteran described in subparagraph (B) or (C) of subsection (a)(2), except as” for “Except as”.
+
+Pub. L. 116–315, § 2202(a)(1), transferred subsec. (b) of [section 2302 of this title](./chapter-023-burial-benefits.md#section-2302) to subsec. (d) of this section.
+
 2018—Subsec. (a)(2)(B)(i). Pub. L. 115–182 substituted “with sections 1703A, 8111, and 8153” for “with section 1703”.
 
 2015—Subsec. (c). Pub. L. 114–58 substituted “interment” for “internment” in introductory provisions.
@@ -287,6 +376,9 @@ Subsec. (b). Pub. L. 95–476 substituted provisions requiring Administrator to 
 
 1959—Subsec. (b). Pub. L. 86–70 substituted “continental United States (including Alaska), the Administrator shall transport the body to the place of burial in the continental United States (including Alaska)” for “continental United States, the Administrator shall transport the body to the place of burial in the United States, or to the place of burial within Alaska if the deceased was a resident of Alaska who had been brought to the United States as a beneficiary of the Veterans’ Administration for hospital or domiciliary care”.
 
+#### Effective Date of 2021 Amendment
+Amendment by Pub. L. 116–315 applicable to deaths that occur on or after the date that is two years after Jan. 5, 2021, see section 2202(d) of Pub. L. 116–315, set out as a note under [section 113 of this title](./chapter-001-general.md#section-113).
+
 #### Effective Date of 2018 Amendment
 Amendment by Pub. L. 115–182 effective on the date described in section 101(b) of Pub. L. 115–182, see section 144(b) of Pub. L. 115–182, set out as a note under [section 1712 of this title](./chapter-017-hospital-nursing-home-domiciliary-and-medical-care.md#section-1712).
 
@@ -324,7 +416,12 @@ Applications for payments under [section 2302 of this title](./chapter-023-buria
 
 ### Statutory Notes
 
+#### Amendment of Section
+Pub. L. 116–315, title II, § 2202(b)(1)(A), (d), Jan. 5, 2021, 134 Stat. 4985, provided that, applicable to deaths that occur on or after the date that is two years after Jan. 5, 2021, this section is amended by striking “Applications for payments under [section 2302 of this title](./chapter-023-burial-benefits.md#section-2302)” and inserting “Applications for payments under [section 2303 of this title](./chapter-023-burial-benefits.md#section-2303) regarding veterans described in subparagraph (B) or (C) of subsection (a)(2) of such section”. See 2021 Amendment note below.
+
 #### Amendments
+2021—Pub. L. 116–315 substituted “Applications for payments under [section 2303 of this title](./chapter-023-burial-benefits.md#section-2303) regarding veterans described in subparagraph (B) or (C) of subsection (a)(2) of such section” for “Applications for payments under [section 2302 of this title](./chapter-023-burial-benefits.md#section-2302)”.
+
 1991—Pub. L. 102–83 renumbered [section 904 of this title](./chapter-009-security-and-law-enforcement-on-property-under-the-jurisdiction-of-the-department.md#section-904) as this section and substituted “2302” for “902”.
 
 1989—Pub. L. 101–237 substituted “Secretary” for “Administrator”.
@@ -334,6 +431,9 @@ Applications for payments under [section 2302 of this title](./chapter-023-buria
 1969—Pub. L. 91–24 substituted “two years from the date of correction of the discharge” for “two years from whichever last occurs, the date of correction of the discharge or the date of enactment of this sentence”.
 
 1963—Pub. L. 88–3 authorized payment of a burial allowance in cases where it was not payable at death because of the nature of the veteran’s discharge, where such discharge has been corrected by competent authority to reflect conditions other than dishonorable, and the claim is filed within two years from whichever last occurs, the date of correction of the discharge or the date of enactment of Pub. L. 88–3 [approved Apr. 2, 1963].
+
+#### Effective Date of 2021 Amendment
+Amendment by Pub. L. 116–315 applicable to deaths that occur on or after the date that is two years after Jan. 5, 2021, see section 2202(d) of Pub. L. 116–315, set out as a note under [section 113 of this title](./chapter-001-general.md#section-113).
 
 
 <a id="section-2305"></a>
@@ -385,7 +485,7 @@ The death of any person who had a status which would, under the laws in effect o
 
 (4) For purposes of this subsection:
 
-  (A) The term “veteran” includes an individual who dies in the active military, naval, or air service.
+  (A) The term “veteran” includes an individual who dies in the active military, naval, air, or space service.
 
   (B) The term “surviving spouse” includes a surviving spouse who had a subsequent remarriage.
 
@@ -475,7 +575,7 @@ The death of any person who had a status which would, under the laws in effect o
 
 (1) When the Secretary has furnished a headstone or marker under subsection (a) for the unmarked grave of an individual, the Secretary shall, if feasible, add a memorial inscription to that headstone or marker rather than furnishing a separate headstone or marker under that subsection for the surviving spouse or eligible dependent child of such individual.
 
-(2) When the Secretary has furnished a memorial headstone or marker under subsection (b) for purposes of commemorating a veteran or an individual who died in the active military, naval, or air service, the Secretary shall, if feasible, add a memorial inscription to that headstone or marker rather than furnishing a separate memorial headstone or marker under that subsection for the surviving spouse or eligible dependent child of such individual.
+(2) When the Secretary has furnished a memorial headstone or marker under subsection (b) for purposes of commemorating a veteran or an individual who died in the active military, naval, air, or space service, the Secretary shall, if feasible, add a memorial inscription to that headstone or marker rather than furnishing a separate memorial headstone or marker under that subsection for the surviving spouse or eligible dependent child of such individual.
 
 **(h)**
 
@@ -487,14 +587,93 @@ The death of any person who had a status which would, under the laws in effect o
 
 (4) A casket or urn may not be furnished under subsection (f) for burial of a person described in [section 2411(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section2411/b&num=0&edition=prelim).
 
-**(i)** In this section, the term “tribal organization” has the meaning given such term in [section 3765 of this title](./chapter-037-housing-and-small-business-loans.md#section-3765).
+**(i)**
+
+(1) In addition to any other authority under this section, in the case of an individual whose grave is not in a covered cemetery (as that term is defined in subsection (f)(2)) and for whom the Secretary has furnished a headstone or marker under subsection (a) or (d), the Secretary, if feasible and upon request, may replace the headstone or marker to add an inscription for the surviving spouse or eligible dependent child of such individual following the death of the surviving spouse or eligible dependent child.
+
+(2) If the spouse or eligible dependent child of an individual referred to in paragraph (1) predeceases the individual, the Secretary may, if feasible and upon request, include an inscription for the spouse or dependent child on the headstone or marker furnished for the individual under subsection (a) or (d).
+
+**(j)** In this section, the term “tribal organization” has the meaning given such term in [section 3765 of this title](./chapter-037-housing-and-small-business-loans.md#section-3765).
 
 ### Statutory Notes
+
+#### Amendment of Section
+Pub. L. 116–315, title II, § 2203, Jan. 5, 2021, 134 Stat. 4985, provided that, effective on the date that is two years after Jan. 5, 2021, subsection (e) of this section is amended as follows:
+
+(1) in subparagraph (A) of paragraph (1):
+
+(A) by striking “shall” and inserting “may”; and
+
+(B) by inserting “, or in a cemetery that is the subject of a grant to a State or a tribal organization under [section 2408 of this title](./chapter-024-national-cemeteries-and-memorials.md#section-2408),” after “National Cemetery Administration”;
+
+(2) in subparagraph (C) of paragraph (1), by striking “shall” and inserting “may”; and
+
+(3) by striking paragraph (2) and inserting the following new paragraph (2):
+
+(2)(A) The use of outer burial receptacles in a cemetery under the control of the National Cemetery Administration or in a cemetery that is the subject of a grant to a State or a tribal organization under [section 2408 of this title](./chapter-024-national-cemeteries-and-memorials.md#section-2408) shall be in accordance with regulations or procedures approved by the Secretary of Veterans Affairs.
+
+(B) The use of outer burial receptacles in Arlington National Cemetery shall be in accordance with regulations or procedures approved by the Secretary of the Army.
+
+(C) The use of outer burial receptacles in a national cemetery administered by the National Park Service shall be in accordance with regulations or procedures approved by the Secretary of the Interior.
+
+See 2021 Amendment notes below.
+
+Pub. L. 116–315, title II, § 2207, Jan. 5, 2021, 134 Stat. 4988, provided that, effective on the date that is two years after Jan. 5, 2021, this section is amended as follows:
+
+(1) by redesignating subsections (h), (i), and (j) as subsections (i), (j), and (k), respectively; and
+
+(2) by inserting after subsection (g) the following new subsection (h):
+
+(h)(1) In lieu of furnishing a headstone or marker under this section for a deceased individual described in paragraph (3), the Secretary shall furnish, upon request and at the expense of the United States—
+
+(A) an urn made of any material to signify the individual’s status as a veteran, in which the remains of such individual may be placed at private expense; or
+
+(B) a commemorative plaque signifying the individual’s status as a veteran.
+
+(2) If the Secretary furnishes an urn or commemorative plaque for an individual under paragraph (1), the Secretary may not provide for such individual—
+
+(A) a headstone or marker under this section; or
+
+(B) any burial benefit under [section 2402 of this title](./chapter-024-national-cemeteries-and-memorials.md#section-2402).
+
+(3) A deceased individual described in this paragraph is an individual—
+
+(A) who served in the Armed Forces on or after April 6, 1917;
+
+(B) who is eligible for a headstone or marker furnished under subsection (d) (or would be so eligible but for the date of the death of the individual); and
+
+(C) whose remains were cremated and not interred in a national cemetery, a State veterans’ cemetery, a tribal cemetery, a county cemetery, or a private cemetery.
+
+(4)(A) Any urn or commemorative plaque furnished under this subsection shall be the personal property of the next of kin or such other individual as the Secretary considers appropriate.
+
+(B) The Federal Government shall not be liable for any damage to an urn or commemorative plaque furnished under this subsection that occurs after the date on which the urn or commemorative plaque is so furnished.
+
+(5) The Secretary shall prescribe regulations to carry out this subsection.
+
+See 2021 Amendment notes below.
 
 #### References in Text
 [Section 491 of title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section491&num=0&edition=prelim), referred to in subsec. (d)(5)(C)(iii), (D), was redesignated [section 2732 of title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section2732&num=0&edition=prelim) by Pub. L. 115–282, title I, § 116(b), Dec. 4, 2018, 132 Stat. 4226, and references to [section 491 of title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section491&num=0&edition=prelim) deemed to refer to such redesignated section, see section 123(b)(1) of Pub. L. 115–282, set out as a References to Redesignated Sections of Title 14 note preceding [section 101 of Title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section101&num=0&edition=prelim), Coast Guard.
 
 #### Amendments
+2021—Subsec. (b)(4)(A). Pub. L. 116–283 substituted “air, or space service” for “or air service”.
+
+Subsec. (e)(1)(A). Pub. L. 116–315, § 2203(a)(1)(A), substituted “may” for “shall” and inserted “, or in a cemetery that is the subject of a grant to a State or a tribal organization under [section 2408 of this title](./chapter-024-national-cemeteries-and-memorials.md#section-2408),” after “National Cemetery Administration”.
+
+Subsec. (e)(1)(C). Pub. L. 116–315, § 2203(a)(1)(B), substituted “may” for “shall”.
+
+Subsec. (e)(2). Pub. L. 116–315, § 2203(a)(2), added par. (2) and struck out former par. (2) which read as follows: “The use of outer burial receptacles in a cemetery under the control of the National Cemetery Administration, in the Arlington National Cemetery, or in a national cemetery administered by the National Park Service shall be in accordance with regulations or procedures approved by the Secretary of Veterans Affairs, the Secretary of the Army, or the Secretary of the Interior, respectively.”
+
+Subsec. (g)(2). Pub. L. 116–283 substituted “air, or space service” for “or air service”.
+
+Subsec. (h). Pub. L. 116–315, § 2207(a)(2), added subsec. (h). Former subsec. (h) redesignated (i).
+
+Subsecs. (i), (j). Pub. L. 116–315, § 2207(a)(1), redesignated subsecs. (h) and (i) as (i) and (j), respectively. Former subsec. (j) redesignated (k).
+
+Pub. L. 116–315, § 2204(a), added subsec. (i) and redesignated former subsec. (i) as (j).
+
+Subsec. (k). Pub. L. 116–315, § 2207(a)(1), redesignated subsec. (j) as (k).
+
 2018—Subsec. (a)(4). Pub. L. 115–407, § 201(1), inserted “or a veterans’ cemetery owned by a tribal organization or on land owned by or held in trust for a tribal organization” after “State”.
 
 Subsec. (b)(1). Pub. L. 115–407, § 201(2), inserted “, a veterans’ cemetery of a tribal organization or on land owned by or held in trust for a tribal organization” after “owned by a State”.
@@ -641,6 +820,13 @@ Subsec. (e). Pub. L. 100–322, § 344(a), added subsec. (e).
 
 Subsecs. (c), (d). Pub. L. 95–476 added subsecs. (c) and (d).
 
+#### Effective Date of 2021 Amendment
+Pub. L. 116–315, title II, § 2203(b), Jan. 5, 2021, 134 Stat. 4986, provided that: “The amendments made by this section [amending this section] shall take effect on the date that is two years after the date of the enactment of this Act [Jan. 5, 2021].”
+
+Pub. L. 116–315, title II, § 2204(b), Jan. 5, 2021, 134 Stat. 4986, provided that: “Subsection (i) of [section 2306 of title 38](./chapter-023-burial-benefits.md#section-2306), United States Code, as added by subsection (a), shall apply with respect to an individual who dies on or after October 1, 2019.”
+
+Pub. L. 116–315, title II, § 2207(b), Jan. 5, 2021, 134 Stat. 4988, provided that: “The amendments made by this section [amending this section] shall take on effect on the date that is two years after the date of the enactment of this Act [Jan. 5, 2021].”
+
 #### Effective Date of 2018 Amendment
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding [section 3001 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section3001&num=0&edition=prelim), Armed Forces.
 
@@ -702,7 +888,12 @@ In any case in which a veteran dies as the result of a service-connected disabil
 
 ### Statutory Notes
 
+#### Amendment of Section
+Pub. L. 116–315, title II, § 2202(b)(1)(B), (d), Jan. 5, 2021, 134 Stat. 4985, provided that, applicable to deaths that occur on or after the date that is two years after Jan. 5, 2021, this section is amended by striking “sections 2302 and 2303(a)(1) and (b)(2) of this title” and inserting “subsections (a)(1) and (b)(2) of [section 2303 of this title](./chapter-023-burial-benefits.md#section-2303)”. See 2021 Amendment note below.
+
 #### Amendments
+2021—Pub. L. 116–315 substituted “subsections (a)(1) and (b)(2) of [section 2303 of this title](./chapter-023-burial-benefits.md#section-2303)” for “sections 2302 and 2303(a)(1) and (b)(2) of this title”.
+
 2003—Subsec. (b). Pub. L. 108–183 substituted “and (b)(2)” for “and (b)” in last sentence.
 
 2001—Pub. L. 107–103 substituted “$2,000” for ‘$1,500”.
@@ -714,6 +905,9 @@ In any case in which a veteran dies as the result of a service-connected disabil
 1988—Pub. L. 100–322 substituted “$1,500” for “$1,100”.
 
 1978—Pub. L. 95–479 inserted “the greater of (1) $1,100, or (2)” after “not exceeding”.
+
+#### Effective Date of 2021 Amendment
+Amendment by Pub. L. 116–315 applicable to deaths that occur on or after the date that is two years after Jan. 5, 2021, see section 2202(d) of Pub. L. 116–315, set out as a note under [section 113 of this title](./chapter-001-general.md#section-113).
 
 #### Effective Date of 2001 Amendment
 Pub. L. 107–103, title V, § 501(a)(2), Dec. 27, 2001, 115 Stat. 994, provided that: “The amendment made by paragraph (1) [amending this section] shall apply to deaths occurring on or after September 11, 2001.”
@@ -742,12 +936,58 @@ Section effective Sept. 1, 1973, or such earlier date as the President may presc
 
 ### Statutory Notes
 
+#### Amendment of Section
+Pub. L. 116–315, title II, § 2201(a)–(c), (e), Jan. 5, 2021, 134 Stat. 4983, provided that, effective on the date that is two years after Jan. 5, 2021, this section is amended as follows:
+
+(1) in the section catchline, by adding at the end “or a covered veterans’ cemetery”;
+
+(2) in subsection (a), by striking “in a national cemetery” and inserting “in a national cemetery or a covered veterans’ cemetery”; and
+
+(3) by adding at the end the following new subsection:
+
+(c) Covered Veterans’ Cemetery Defined.—In this section, the term “covered veterans’ cemetery” means a veterans’ cemetery—
+
+(1) in which a deceased veteran described in subsection (b) is eligible to be buried;
+
+(2) that—
+
+(A) is owned by a State; or
+
+(B) is on trust land owned by, or held in trust for, a tribal organization; and
+
+(3) for which the Secretary has made a grant under [section 2408 of this title](./chapter-024-national-cemeteries-and-memorials.md#section-2408).
+
+See 2021 Amendment notes below.
+
+Pub. L. 116–315, title II, § 2202(b)(1)(C), (d), Jan. 5, 2021, 134 Stat. 4985, provided that, applicable to deaths that occur on or after the date that is two years after Jan. 5, 2021, this section is amended as follows:
+
+(1) in subsection (a), by striking “pursuant to section 2302 or 2307 of this title,” and inserting “pursuant to [section 2303 of this title](./chapter-023-burial-benefits.md#section-2303) regarding veterans described in subparagraph (B) or (C) of subsection (a)(2) of such section, or pursuant to [section 2307 of this title](./chapter-023-burial-benefits.md#section-2307),”; and
+
+(2) in subsection (b)(3), by striking “section 2302” and inserting “section 2303” and by striking “subsection (a)(2)(A)” and inserting “subsection (a)(2)(C)”.
+
+See 2021 Amendment notes below.
+
 #### Amendments
+2021—Pub. L. 116–315, § 2201(c), inserted “or a covered veterans’ cemetery” after “national cemetery” in section catchline.
+
+Subsec. (a). Pub. L. 116–315, § 2202(b)(1)(C)(i), substituted “pursuant to [section 2303 of this title](./chapter-023-burial-benefits.md#section-2303) regarding veterans described in subparagraph (B) or (C) of subsection (a)(2) of such section, or pursuant to [section 2307 of this title](./chapter-023-burial-benefits.md#section-2307),” for “pursuant to section 2302 or 2307 of this title,”.
+
+Pub. L. 116–315, § 2201(a), substituted “in a national cemetery or a covered veterans’ cemetery” for “in a national cemetery”.
+
+Subsec. (b)(3). Pub. L. 116–315, § 2202(b)(1)(C)(ii), substituted “section 2303” for “section 2302” and “subsection (a)(2)(C)” for “subsection (a)(2)(A)”.
+
+Subsec. (c). Pub. L. 116–315, § 2201(b), added subsec. (c).
+
 2013—Pub. L. 112–260 designated existing provisions as subsec. (a), inserted heading, substituted “The Secretary” for “Where a veteran dies as the result of a service-connected disability, or is in receipt of (but for the receipt of retirement pay or pension under this title would have been entitled to) disability compensation, the Secretary”, inserted “described in subsection (b)” after “of the deceased veteran”, and added subsec. (b).
 
 1991—Pub. L. 102–83 renumbered [section 908 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section908&num=0&edition=prelim) as this section and substituted “2302 or 2307” for “902 or 907”.
 
 1989—Pub. L. 101–237 substituted “Secretary” for “Administrator”.
+
+#### Effective Date of 2021 Amendment
+Pub. L. 116–315, title II, § 2201(e), Jan. 5, 2021, 134 Stat. 4983, provided that: “The amendments made by this section [amending this section] shall take effect on the date that is two years after the date of the enactment of this Act [Jan. 5, 2021].”
+
+Amendment by section 2202(b)(1)(C) of Pub. L. 116–315 applicable to deaths that occur on or after the date that is two years after Jan. 5, 2021, see section 2202(d) of Pub. L. 116–315, set out as a note under [section 113 of this title](./chapter-001-general.md#section-113).
 
 #### Effective Date of 2013 Amendment
 Amendment by Pub. L. 112–260 effective on the date that is one year after Jan. 10, 2013, and applicable with respect to burials and funerals occurring on or after that date, see section 104(b)(3) of Pub. L. 112–260, set out as a note under [section 2302 of this title](./chapter-023-burial-benefits.md#section-2302).

@@ -91,7 +91,7 @@ source: >-
 
   (C) the property was lawfully seized by a State or local law enforcement agency and transferred to a Federal agency.
 
-(3) Notwithstanding the provisions of rule 41(a) of the Federal Rules of Criminal Procedure, a seizure warrant may be issued pursuant to this subsection by a judicial officer in any district in which a forfeiture action against the property may be filed under [section 1355(b) of title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section1355/b&num=0&edition=prelim), and may be executed in any district in which the property is found, or transmitted to the central authority of any foreign state for service in accordance with any treaty or other international agreement. Any motion for the return of property seized under this section shall be filed in the district court in which the seizure warrant was issued or in the district court for the district in which the property was seized.
+(3) Notwithstanding the provisions of rule 41(a) 44 See References in Text note below. of the Federal Rules of Criminal Procedure, a seizure warrant may be issued pursuant to this subsection by a judicial officer in any district in which a forfeiture action against the property may be filed under [section 1355(b) of title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section1355/b&num=0&edition=prelim), and may be executed in any district in which the property is found, or transmitted to the central authority of any foreign state for service in accordance with any treaty or other international agreement. Any motion for the return of property seized under this section shall be filed in the district court in which the seizure warrant was issued or in the district court for the district in which the property was seized.
 
 (4)
 
@@ -164,7 +164,7 @@ The Attorney General, the Secretary of the Treasury, or the Postal Service, as t
 
   (B) is authorized in an international agreement between the United States and the foreign country; and
 
-  (C) is made to a country which, if applicable, has been certified under section 481(h) 44 See References in Text note below. of the Foreign Assistance Act of 1961.
+  (C) is made to a country which, if applicable, has been certified under section 481(h) 4 of the Foreign Assistance Act of 1961.
   A decision by the Attorney General or the Secretary of the Treasury pursuant to this paragraph shall not be subject to review. The foreign country shall, in the event of a transfer of property or proceeds of sale of property under this subsection, bear all expenses incurred by the United States in the seizure, maintenance, inventory, storage, forfeiture, and disposition of the property, and all transfer costs. The payment of all such expenses, and the transfer of assets pursuant to this paragraph, shall be upon such terms and conditions as the Attorney General or the Secretary of the Treasury may, in his discretion, set.
 
 (2) The provisions of this section shall not be construed as limiting or superseding any other authority of the United States to provide assistance to a foreign country in obtaining property related to a crime committed in the foreign country, including property which is sought as evidence of a crime committed in the foreign country.
@@ -221,6 +221,8 @@ Section 104(a) of the North Korea Sanctions and Policy Enhancement Act of 2016, 
 The Federal Rules of Criminal Procedure, referred to in subsec. (b)(2), (3), are set out in the Appendix to this title.
 
 The Supplemental Rules for Certain Admiralty and Maritime Claims, referred to in subsec. (b)(2)(A), were renamed the Supplemental Rules for Admiralty or Maritime Claims and Asset Forfeiture Actions and are set out as part of the Federal Rules of Civil Procedure in the Appendix to Title 28, Judiciary and Judicial Procedure.
+
+Rule 41 of the Federal Rules of Criminal Procedure, referred to in subsec. (b)(3), was amended by order of the Supreme Court dated Apr. 29, 2002, effective Dec. 1, 2002. The amendment moved subject matter of former subsec. (a) to subsec. (b).
 
 The Federal Rules of Civil Procedure, referred to in subsec. (b)(4)(A), are set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
 

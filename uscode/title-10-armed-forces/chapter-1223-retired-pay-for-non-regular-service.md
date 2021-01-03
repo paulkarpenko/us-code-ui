@@ -54,7 +54,7 @@ source: >-
 
   (B)
 
-    (i) Service on active duty described in this subparagraph is service on active duty pursuant to a call or order to active duty under a provision of law referred to in section 101(a)(13)(B) or under [section 12301(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section12301/d&num=0&edition=prelim). Such service does not include service on active duty pursuant to a call or order to active duty under [section 12310 of this title](./chapter-1209-active-duty.md#section-12310).
+    (i) Service on active duty described in this subparagraph is service on active duty pursuant to a call or order to active duty under section 12301(d) or 12304b of this title, or under a provision of law referred to in [section 101(a)(13)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section101/a/13/B&num=0&edition=prelim). Such service does not include service on active duty pursuant to a call or order to active duty under [section 12310 of this title](./chapter-1209-active-duty.md#section-12310).
 
     (ii) Active service described in this subparagraph is also service under a call to active service authorized by the President or the Secretary of Defense under [section 502(f) of title 32](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title32-section502/f&num=0&edition=prelim) for purposes of responding to a national emergency declared by the President or supported by Federal funds.
 
@@ -89,6 +89,8 @@ The change makes clear that in the determination of eligibility for retired pay 
 [Section 712 of title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section712&num=0&edition=prelim), referred to in subsec. (f)(2)(B)(iv), was redesignated [section 3713 of title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section3713&num=0&edition=prelim) by Pub. L. 115–282, title I, § 118(b), Dec. 4, 2018, 132 Stat. 4233, and references to [section 712 of title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section712&num=0&edition=prelim) deemed to refer to such redesignated section, see section 123(b)(1) of Pub. L. 115–282, set out as a References to Sections of Title 14 as Redesignated by Pub. L. 115–282 note preceding [section 101 of Title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section101&num=0&edition=prelim), Coast Guard.
 
 #### Amendments
+2019—Subsec. (f)(2)(B)(i). Pub. L. 116–92 substituted “under section 12301(d) or 12304b of this title, or under a provision of law referred to in section 101(a)(13)(B)” for “under a provision of law referred to in section 101(a)(13)(B) or under section 12301(d)”.
+
 2014—Subsec. (f)(2)(A). Pub. L. 113–291 inserted “, subject to subparagraph (C),” after “shall be reduced” and substituted “serves on such active duty or performs such active service in any fiscal year after January 28, 2008, or in any two consecutive fiscal years after September 30, 2014” for “so performs in any fiscal year after such date, subject to subparagraph (C)”.
 
 2013—Subsec. (f)(2)(B)(iv). Pub. L. 112–239 added cl. (iv).
@@ -331,7 +333,17 @@ Amendment by section 1662(j)(1) of Pub. L. 103–337 effective Dec. 1, 1994, exc
   (D) Points credited for the year under [section 2126(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2126/b&num=0&edition=prelim).
 
   (E) One point for each day on which funeral honors duty is performed for at least two hours under [section 12503 of this title](./chapter-1213-special-appointments-assignments-details-and-duties.md#section-12503) or [section 115 of title 32](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title32-section115&num=0&edition=prelim), unless the duty is performed while in a status for which credit is provided under another subparagraph of this paragraph.
-  For the purpose of clauses (A), (B), (C), (D), and (E), service in the National Guard shall be treated as if it were service in a reserve component, if the person concerned was later appointed in the National Guard of the United States, the Army National Guard of the United States, the Air National Guard of the United States, or as a Reserve of the Army or the Air Force, and served continuously in the National Guard from the date of his Federal recognition to the date of that appointment.
+
+  (F)
+
+    (i) Subject to regulations prescribed by the Secretary of Defense or the Secretary of Homeland Security with respect to matters concerning the Coast Guard when it is not operating as a service in the Department of the Navy, one point for each day of active service or one point for each drill or period of equivalent instruction that was prescribed by the Secretary concerned to be performed during the covered emergency period, if such person was prevented from performing such duty due to travel or duty restrictions imposed by the President, the Secretary of Defense, or the Secretary of Homeland Security with respect to the Coast Guard.
+
+    (ii) A person may not be credited more than 35 points in a one-year period under this subparagraph.
+
+    (iii) In this subparagraph, the term “covered emergency period” means the period beginning on March 1, 2020, and ending on the day that is 60 days after the date on which the travel or duty restriction applicable to the person concerned is lifted.
+
+  (G) Points at the rate of 12 per period during which the member is on maternity leave.
+  For the purpose of clauses (A), (B), (C), (D), (E), (F), and (G), service in the National Guard shall be treated as if it were service in a reserve component, if the person concerned was later appointed in the National Guard of the United States, the Army National Guard of the United States, the Air National Guard of the United States, or as a Reserve of the Army or the Air Force, and served continuously in the National Guard from the date of his Federal recognition to the date of that appointment.
 
 (3) The person’s years of active service in the Commissioned Corps of the Public Health Service.
 
@@ -401,9 +413,17 @@ The word “full-time” is inserted for clarity. The other change reflects the 
 #### References in Text
 Act of December 22, 1942, referred to in subsec. (a)(1)(I), is act Dec. 22, 1942, ch. 805, 56 Stat. 1072, which amended section 164 of former Title 10, Army and Air Force, and enacted provisions set out as notes under section 81 of former Title 10 and section 113 of former Title 37, Pay and Allowances, and was repealed as executed, by act Aug. 10, 1956, ch. 1041, § 53, 70A Stat. 641.
 
-Women’s Medical Specialist Corps, referred to in subsec. (a)(1)(J)(ii), redesignated Army Medical Specialist Corps by Pub. L. 85–155, Aug. 21, 1957, 71 Stat. 375. See [section 3070 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section3070&num=0&edition=prelim). See, also, act Aug. 9, 1955, ch. 654, 69 Stat. 579.
+Women’s Medical Specialist Corps, referred to in subsec. (a)(1)(J)(ii), redesignated Army Medical Specialist Corps by Pub. L. 85–155, Aug. 21, 1957, 71 Stat. 375. See [section 3070 of this title](./chapter-203-general-matters.md#section-3070). See, also, act Aug. 9, 1955, ch. 654, 69 Stat. 579.
 
 #### Amendments
+2021—Subsec. (a)(2). Pub. L. 116–283, § 602(b)(4)(B), substituted “(F), and (G)” for “and (F)” in concluding provisions.
+
+Pub. L. 116–283, § 516(a)(2), substituted “(E), and (F)” for “and (E)” in concluding provisions.
+
+Subsec. (a)(2)(F). Pub. L. 116–283, § 516(a)(1), added subpar. (F).
+
+Subsec. (a)(2)(G). Pub. L. 116–283, § 602(b)(4)(A), added subpar. (G).
+
 2008—Subsec. (b)(8). Pub. L. 110–181 added par. (8).
 
 2006—Subsecs. (a)(1)(E), (b)(2). Pub. L. 109–163 substituted “Navy Reserve” for “Naval Reserve”.
@@ -426,6 +446,9 @@ Subsec. (b)(6), (7). Pub. L. 86–197, § 1(3), added par. (6), redesignated for
 
 1958—Subsec. (a). Pub. L. 85–861 substituted “full-time service under” for “service under”, and inserted reference to [section 502 of this title](./chapter-031-enlistments.md#section-502) in cl. (2)(A)(ii).
 
+#### Effective Date of 2021 Amendment
+Pub. L. 116–283, div. A, title VI, § 602(c), Jan. 1, 2021, 134 Stat. 3671, provided that: “This section [amending this section and [section 12733 of this title](./chapter-1223-retired-pay-for-non-regular-service.md#section-12733) and [section 206 of Title 37](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section206&num=0&edition=prelim), Pay and Allowances of the Uniformed Services, and enacting provisions set out as a note below] and the amendments made by this section shall take effect on the date of the enactment of this Act, and shall apply with respect to periods of maternity leave that commence on or after that date.”
+
 #### Effective Date of 1994 Amendment
 Amendment by Pub. L. 103–337 effective Dec. 1, 1994, except as otherwise provided, see section 1691 of Pub. L. 103–337, set out as an Effective Date note under [section 10001 of this title](./chapter-1001-definitions.md#section-10001).
 
@@ -440,6 +463,9 @@ Amendment by Pub. L. 85–861 effective Aug. 10, 1956, see section 33 (g) of Pub
 
 #### Savings Provision
 Pub. L. 86–197, § 3, Aug. 25, 1959, 73 Stat. 426, provided that: “This Act [amending this section and sections 3683, 3926, 6324, 8683 and 8926 of this title and enacting provisions set out as notes under sections 1431 and 3441 of this title] does not deprive any person of any service credit to which he was entitled on the day before the effective date of this Act [Aug. 25, 1959].”
+
+#### Credit for Retired Pay Purposes
+Pub. L. 116–283, div. A, title VI, § 602(b)(1)–(3), Jan. 1, 2021, 134 Stat. 3670, provided that: “(1) In general.—The period of maternity leave taken by a member of the reserve components of the Armed Forces in connection with the birth of a child shall count toward the member’s entitlement to retired pay, and in connection with the years of service used in computing retired pay, under chapter 1223 of title 10, United States Code, as 12 points. “(2) Separate credit for each period of leave.—Separate crediting of points shall accrue to a member pursuant to this subsection for each period of maternity leave taken by the member in connection with a childbirth event. “(3) When credited.—Points credited a member for a period of maternity leave pursuant to this subsection shall be credited in the year in which the period of maternity leave concerned commences.”
 
 #### Tracking System and Recommendations to Congress Relating to Award of Retirement Points
 Section 531(b), (c) of Pub. L. 104–201 provided that: “(b) Tracking System for Award of Retirement Points.—To better enable the Secretary of Defense and Congress to assess the cost and the effect on readiness of the amendment made by subsection (a) [amending [section 12733 of this title](./chapter-1223-retired-pay-for-non-regular-service.md#section-12733)] and of other potential changes to the Reserve retirement system under chapter 1223 of title 10, United States Code, the Secretary of Defense shall require the Secretary of each military department to implement a system to monitor the award of retirement points for purposes of that chapter by categories in accordance with the recommendation set forth in the August 1988 report of the Sixth Quadrennial Review of Military Compensation. “(c) Recommendations to Congress.—The Secretary shall submit to Congress, not later than one year after the date of the enactment of this Act [Sept. 23, 1996], the recommendations of the Secretary with regard to the adoption of the following Reserve retirement initiatives recommended in the August 1988 report of the Sixth Quadrennial Review of Military Compensation:“(1) Elimination of membership points under subparagraph (C) of [section 12732(a)(2) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section12732/a/2&num=0&edition=prelim), United States Code, in conjunction with a decrease from 50 to 35 in the number of points required for a satisfactory year under that section. “(2) Limitation to 60 in any year on the number of points that may be credited under subparagraph (B) of section 12732(a)(2) of such title at two points per day. “(3) Limitation to 360 in any year on the total number of retirement points countable for purposes of section 12733 of such title.”
@@ -460,7 +486,7 @@ For the purpose of computing the retired pay of a person under this chapter, the
 
 (2) The person’s days of full-time service under sections 316, 502, 503, 504, and 505 of title 32 while performing annual training duty or while attending a prescribed course of instruction at a school designated as a service school by law or by the Secretary concerned.
 
-(3) One day for each point credited to the person under clause (B), (C), or (D) of [section 12732(a)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section12732/a/2&num=0&edition=prelim), but not more than—
+(3) One day for each point credited to the person under clause (B), (C), (D), or (F) of [section 12732(a)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section12732/a/2&num=0&edition=prelim), but not more than—
 
   (A) 60 days in any one year of service before the year of service that includes September 23, 1996;
 
@@ -472,7 +498,9 @@ For the purpose of computing the retired pay of a person under this chapter, the
 
 (4) One day for each point credited to the person under subparagraph (E) of [section 12732(a)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section12732/a/2&num=0&edition=prelim).
 
-(5) 50 days for each year before July 1, 1949, and proportionately for each fraction of a year, of service (other than active service) in a reserve component of an armed force, in the Army or the Air Force without component, or in any other category covered by [section 12732(a)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section12732/a/1&num=0&edition=prelim), except a regular component.
+(5) One day for each point credited to the person under subparagraph (F) of [section 12732(a)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section12732/a/2&num=0&edition=prelim).
+
+(6) 50 days for each year before July 1, 1949, and proportionately for each fraction of a year, of service (other than active service) in a reserve component of an armed force, in the Army or the Air Force without component, or in any other category covered by [section 12732(a)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section12732/a/1&num=0&edition=prelim), except a regular component.
 
 ### Statutory Notes
 
@@ -492,6 +520,10 @@ Clause (1) is substituted for 10:1036b(i). In clause (3), the words “and propo
 The change is necessary so that active service and service described in section 1332(a)(2)(A)(ii) that was performed on or before July 1, 1949, may be counted in computing retired pay, as provided by the source law, section 303(i) of the Army and Air Force Vitalization and Retirement Equalization Act of 1948 (62 Stat. 1088) and in accordance with the opinion of the Judge Advocate General of the Army (JAGA 1956/1908, Feb. 13, 1956).
 
 #### Amendments
+2021—Par. (3). Pub. L. 116–283, § 516(b), substituted “(D), or (F)” for “or (D)”.
+
+Pars. (5), (6). Pub. L. 116–283, § 602(b)(5), added par. (5) and redesignated par. (5) as (6).
+
 2008—Par. (3)(B) to (D). Pub. L. 110–181 struck out “and” at end of subpar. (B), substituted “before the year of service that includes October 30, 2007; and” for period at end of subpar. (C), and added subpar. (D).
 
 2001—Par. (3)(B). Pub. L. 107–107, § 1048(c)(16)(A), substituted “October 30, 2000” for “the date of the enactment of the Floyd D. Spence National Defense Authorization Act for Fiscal Year 2001”.
@@ -513,6 +545,9 @@ Pub. L. 104–201, § 531(a), as amended by Pub. L. 105–85, § 1073(c)(4), ins
 1994—Pub. L. 103–337 renumbered [section 1333 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1333&num=0&edition=prelim) as this section, substituted “Computation of retired pay: computation of years of service” for “Computation of years of service in computing retired pay” as section catchline, and amended text generally, changing style and references to other sections.
 
 1958—Pub. L. 85–861 added cls. (1) and (2), struck out former cl. (1) which permitted the addition of the days of service credited under [section 1332(a)(2)(A) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1332/a/2/A&num=0&edition=prelim), and redesignated former cls. (2) and (3) as (3) and (4), respectively.
+
+#### Effective Date of 2021 Amendment
+Amendment by section 602 of Pub. L. 116–283 effective, and applicable with respect to periods of maternity leave that commence on or after, Jan. 1, 2021, see section 602(c) of Pub. L. 116–283, set out as a note under [section 12732 of this title](./chapter-1223-retired-pay-for-non-regular-service.md#section-12732).
 
 #### Effective Date of 1997 Amendment
 Pub. L. 105–85, div. A, title X, § 1073(c), Nov. 18, 1997, 111 Stat. 1904, provided that the amendment made by that section is effective as of Sept. 23, 1996, and as if included in the National Defense Authorization Act for Fiscal Year 1997, Pub. L. 104–201, as enacted.

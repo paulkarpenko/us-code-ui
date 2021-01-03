@@ -30,11 +30,11 @@ Act of February 7, 1927, referred to in text, is act Feb. 7, 1927, ch. 66, 44 St
 #### Short Title
 Act Aug. 7, 1947, ch. 513, § 1, 61 Stat. 913, provided: “That this Act [enacting this chapter] may be cited as the ‘Mineral Leasing Act for Acquired Lands’.”
 
-#### Admission of Alaska as State
-Admission of Alaska into the Union was accomplished Jan. 3, 1959, on issuance of Proc. No. 3269, Jan. 3, 1959, 24 F.R. 81, 73 Stat. c16, as required by sections 1 and 8(c) of Pub. L. 85–508, July 7, 1958, 72 Stat. 339, set out as notes preceding [section 21 of Title 48](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title48-section21&num=0&edition=prelim), Territories and Insular Possessions.
-
 #### Outer Continental Shelf Lands; Definition
 Definition of “outer Continental Shelf” with respect to jurisdiction of United States, and mineral leases on submerged lands of such shelf, see section 1331 et seq. of Title 43, Public Lands.
+
+#### Admission of Alaska as State
+Admission of Alaska into the Union was accomplished Jan. 3, 1959, on issuance of Proc. No. 3269, Jan. 3, 1959, 24 F.R. 81, 73 Stat. c16, as required by sections 1 and 8(c) of Pub. L. 85–508, July 7, 1958, 72 Stat. 339, set out as notes preceding [section 21 of Title 48](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title48-section21&num=0&edition=prelim), Territories and Insular Possessions.
 
 
 <a id="section-352"></a>

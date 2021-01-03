@@ -114,12 +114,6 @@ Pub. L. 87–565, pt. IV, § 403, Aug. 1, 1962, 76 Stat. 263, provided in part t
 #### Transfer of Functions
 United States Information Agency (other than Broadcasting Board of Governors and International Broadcasting Bureau) abolished and functions transferred to Secretary of State, see sections 6531 and 6532 of this title. “Director of the United States Information Agency” substituted for “Director of the International Communication Agency” in subsec. (a), opening par. and par. (2)(iv), pursuant to section 303(b) of Pub. L. 97–241, title III, Aug. 24, 1982, 96 Stat. 291, set out as a note under [section 1461 of this title](./chapter-018-united-states-information-and-educational-exchange-programs.md#section-1461). Previously, “Director of the International Communication Agency” substituted for “President” in subsec. (a), opening par. and par. (2)(iv), pursuant to Reorg. Plan No. 2 of 1977, § 7(a)(2), 42 F.R. 62461, 91 Stat. 1637, set out under [section 1461 of this title](./chapter-018-united-states-information-and-educational-exchange-programs.md#section-1461), effective on or before July 1, 1978, at such time as specified by President, which transferred functions vested in President, Secretary of State, Department of State, United States Information Agency, or Director thereof, under this chapter, to Director of International Communication Agency, except (A) for such functions as are vested by subsec. (b)(6), (10) of this section, and sections 2454(a), (e)(1), (2), (f), (g), 2455(a), (b), (c), 2456(a) and 2458 of this title, (B) for such functions as are vested by sections 2454(b), 2455(d)(2), (f), and 2456(d), (f) of this title, to the extent that such functions were assigned to Secretary of Health, Education, and Welfare [now Secretary of Education] immediately prior to effective date of Reorg. Plan No. 2 of 1977, and (C) for such functions as are vested by section 2456(b), (c) of this title to the extent that any such function therein is vested in President or Secretary of State.
 
-#### Delegation of Functions
-Functions of President under this section delegated to Secretary of State, Director of United States Information Agency, Secretary of Commerce, and Secretary of Education, see Ex. Ord. No. 11034, June 25, 1962, 27 F.R. 6071, as amended, set out as a note under [section 2454 of this title](./chapter-033-mutual-educational-and-cultural-exchange-program.md#section-2454).
-
-#### Performance of Functions
-Authorization of performance of functions under subsec. (a)(2) and (3) of this section by departments or other executive agencies, see Ex. Ord. No. 11380, § 2, Nov. 8, 1967, 32 F.R. 15627, set out as a note under [section 2454 of this title](./chapter-033-mutual-educational-and-cultural-exchange-program.md#section-2454).
-
 #### Pilot Program To Provide Grants to American-Sponsored Schools in Predominantly Muslim Countries To Provide Scholarships
 Pub. L. 108–458, title VII, § 7113, Dec. 17, 2004, 118 Stat. 3797, as amended, formerly set out as a note under this section, was transferred and is classified to [section 2452c of this title](./chapter-033-mutual-educational-and-cultural-exchange-program.md#section-2452c).
 
@@ -130,6 +124,8 @@ Pub. L. 104–319, title I, § 102, Oct. 19, 1996, 110 Stat. 3865, as amended by
 Pub. L. 103–236, title II, § 230, Apr. 30, 1994, 108 Stat. 424, which provided that United States Information Agency could not obligate or expend funds for a United States Government funded pavilion or major exhibit at any international exposition or world’s fair in excess of amounts expressly authorized and appropriated for such purpose, was repealed by Pub. L. 106–113, div. B, § 1000(a)(7) [div. A, title II, § 204(e)], Nov. 29, 1999, 113 Stat. 1536, 1501A–421. See [section 2452b of this title](./chapter-033-mutual-educational-and-cultural-exchange-program.md#section-2452b).
 
 #### International Exchange, Scholarship, and Training Programs
+Pub. L. 116–260, div. FF, title III, subtitle D (§§ 331–337), Dec. 27, 2020, 134 Stat. 3114–3118, known as the Gandhi-King Scholarly Exchange Initiative Act, authorized establishment of professional exchange program, professional development training initiative, and development foundation between the United States and India.
+
 Pub. L. 110–83, Sept. 20, 2007, 121 Stat. 781, authorized establishment of a United States-Poland parliamentary youth exchange program.
 
 Pub. L. 106–554, § 1(a)(4) [div. B, title II], Dec. 21, 2000, 114 Stat. 2763, 2763A–254, as amended by Pub. L. 107–228, div. A, title II, § 227, Sept. 30, 2002, 116 Stat. 1369; Pub. L. 113–235, div. J, title VII, § 7085, Dec. 16, 2014, 128 Stat. 2685, known as the Vietnam Education Foundation Act of 2000, established the Vietnam Education Foundation to provide fellowships to Vietnamese nationals to study the sciences, mathematics, medicine, and technology in the United States and to United States citizens to teach those subjects in Vietnam.
@@ -170,6 +166,12 @@ Pub. L. 102–138, title II, § 229, Oct. 28, 1991, 105 Stat. 702, authorized sc
 
 #### Study and Report on Ways To Reduce the Drain From Developing Countries of Professional Persons and Skilled Specialists
 Pub. L. 89–698, title III, § 301, Oct. 29, 1966, 80 Stat. 1072, authorized Secretary of Health, Education, and Welfare to conduct an investigation to determine number of individuals from developing countries who enter United States annually to further their education and fail to return to their homeland and to report to President and to Congress findings and conclusions together with recommendations for any legislation deemed necessary to encourage these individuals to return and use their education and training in service of their homeland.
+
+#### Delegation of Functions
+Functions of President under this section delegated to Secretary of State, Director of United States Information Agency, Secretary of Commerce, and Secretary of Education, see Ex. Ord. No. 11034, June 25, 1962, 27 F.R. 6071, as amended, set out as a note under [section 2454 of this title](./chapter-033-mutual-educational-and-cultural-exchange-program.md#section-2454).
+
+#### Performance of Functions
+Authorization of performance of functions under subsec. (a)(2) and (3) of this section by departments or other executive agencies, see Ex. Ord. No. 11380, § 2, Nov. 8, 1967, 32 F.R. 15627, set out as a note under [section 2454 of this title](./chapter-033-mutual-educational-and-cultural-exchange-program.md#section-2454).
 
 #### Executive Order No. 10716
 Ex. Ord. No. 10716, June 18, 1957, 22 F.R. 4345, as amended by Ex. Ord. No. 10912, Jan. 19, 1961, 26 F.R. 509, which related to administration of programs under this chapter, was superseded by Ex. Ord. No. 11034, June 25, 1962, 27 F.R. 6071, set out as a note under [section 2454 of this title](./chapter-033-mutual-educational-and-cultural-exchange-program.md#section-2454).
@@ -526,28 +528,12 @@ Ex. Ord. No. 11380, Nov. 8, 1967, 32 F.R. 15627, provided:
 By virtue of the authority vested in me by the Mutual Educational and Cultural Exchange Act of 1961 (75 Stat. 527; [22 U.S.C. 2451](./chapter-033-mutual-educational-and-cultural-exchange-program.md#section-2451) et seq.) and [section 301 of title 3](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title3-section301&num=0&edition=prelim) of the United States Code, and as President of the United States, it is ordered as follows:
 
 #### Part I—Mutual Educational and Cultural Exchange
-Section 101. Executive Order No. 11034 of June 25, 1962 [set out as a note above], is hereby amended as follows:
+Section 101. [Amended Ex. Ord. No. 11034, set out above.]
 
-(1) By changing the period at the end of section 1(b) to a comma and by inserting after that comma the following: “excluding, however, the reports for which the Director of the United States Information Agency is responsible under section 2(b) of this order.”.
-
-(2) By substituting for the paragraph designations (a), (b), (c), and (d) in section 2 new paragraph designations (1), (2), (3), and (4), respectively; by inserting the subsection designation (a) after the catchline of section 2; and by adding a new subsection (b) of section 2, reading as follows:
-
-(b) The Director of the United States Information Agency shall prepare and transmit to the President the reports which the President is required to submit to the Congress by section 108(b) of the Act [[section 2458(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2458/b&num=0&edition=prelim)] to the extent that they are with respect to activities carried out by the United States Information Agency pursuant to section 102(a)(2)(iii) and section 102(a)(3) of the Act [section 2452(a)(2)(iii) and (a)(3) of this title].
-
-(3) By adding a new paragraph at the end of section 8(a), reading as follows:
-
-“(15) Any provision of law or limitation of authority to the extent that such provision or limitation would limit or prohibit (i) receipt of admission fees or payments under contracts through advances or otherwise, for concessions, services, space, or other consideration, and the credit of such receipts to the applicable appropriation, and (ii) rental or lease for periods not exceeding ten years of buildings and grounds.”
-
-(4) By adding a new paragraph at the end of section 10, reading as follows:
-
-“(c) References in this order to this order shall be deemed to include references thereto as amended from time to time.”
-
-Sec. 2. It is hereby determined that the performance by any department or other executive agency of functions authorized by sections 102(a)(2) and 102(a)(3) of the Mutual Educational and Cultural Exchange Act of 1961 ([22 U.S.C. 2452(a)(2)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2452/a/2&num=0&edition=prelim) and (3)) without regard to the provisions and limitations referred to in section (8)(a)(15) of Executive Order No. 11034 of June 25, 1962 (to the extent set forth in the latter section) is in furtherance of the purposes of that Act.
+Sec. 2 [sic]. It is hereby determined that the performance by any department or other executive agency of functions authorized by sections 102(a)(2) and 102(a)(3) of the Mutual Educational and Cultural Exchange Act of 1961 ([22 U.S.C. 2452(a)(2)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2452/a/2&num=0&edition=prelim) and (3)) without regard to the provisions and limitations referred to in section (8)(a)(15) of Executive Order No. 11034 of June 25, 1962 (to the extent set forth in the latter section) is in furtherance of the purposes of that Act.
 
 #### Part II—Approval of Certain Regulations Relating to Living Quarters
-Sec. 201. Executive Order No. 10903 of January 9, 1961, as amended [set out as a note under [section 5921 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5921&num=0&edition=prelim), Government Organization and Employees], is hereby further amended by inserting at the end of section 1 thereof a new paragraph (g), reading as follows:
-
-“(g) The authority vested in the President by [section 5912 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5912&num=0&edition=prelim) of the United States Code to approve regulations prescribed by heads of agencies (under which employees who are citizens of the United States permanently stationed in foreign countries may be furnished, without cost to them, living quarters, including heat, fuel, and light, in government-owned or rented buildings).”
+Sec. 201. [Amended Ex. Ord. No. 10903, set out as a note under [section 5921 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5921&num=0&edition=prelim), Government Organization and Employees.]
 
 Lyndon B. Johnson.
 
@@ -622,11 +608,11 @@ Amendment by Pub. L. 110–246 effective May 22, 2008, see section 4(b) of Pub. 
 #### Transfer of Functions
 United States Information Agency (other than Broadcasting Board of Governors and International Broadcasting Bureau) abolished and functions transferred to Secretary of State, see sections 6531 and 6532 of this title. “Director of the United States Information Agency” substituted for “Director of the International Communication Agency” in subsec. (e), pursuant to section 303(b) of Pub. L. 97–241, title III, Aug. 24, 1982, 96 Stat. 291, set out as a note under [section 1461 of this title](./chapter-018-united-states-information-and-educational-exchange-programs.md#section-1461). Previously, “Director of the International Communication Agency” substituted for “President” in subsec. (e), pursuant to Reorg. Plan No. 2 of 1977, § 7(a)(2), 42 F.R. 62461, 91 Stat. 1637, set out under [section 1461 of this title](./chapter-018-united-states-information-and-educational-exchange-programs.md#section-1461), effective on or before July 1, 1978, at such time as specified by President, which transferred functions vested in President, Secretary of State, Department of State, United States Information Agency or Director thereof, under this chapter, to Director of International Communication Agency, except (A) for such functions as are vested by subsecs. (a), (b), and (c) of this section, sections 2452(b)(6), (10), 2454(a), (e)(1), (2), (f), (g), 2456(a) and 2458 of this title, (B) for such functions as are vested by subsecs. (d)(2) and (f) of this section, sections 2454(b) and 2456(d), (f) of this title, to the extent that such functions were assigned to Secretary of Health, Education, and Welfare [now Secretary of Education] immediately prior to effective date of Reorg. Plan No. 2 of 1977, and (C) for such functions as are vested by section 2456(b), (c) of this title to the extent that any such function therein is vested in President or Secretary of State.
 
-#### Delegation of Functions
-Functions of President under this section delegated to Secretary of State, Director of United States Information Agency, Secretary of Commerce, and Secretary of Education, see Ex. Ord. No. 11034, June 25, 1962, 27 F.R. 6071, set out as a note under [section 2454 of this title](./chapter-033-mutual-educational-and-cultural-exchange-program.md#section-2454).
-
 #### Increase in Grants for Exchange-of-Persons Activities; Funds for Specific Programs, Reductions, Other Use of Funds, Report to Congressional Committees
 Pub. L. 97–241, title III, § 305(c), (d), Aug. 24, 1982, 96 Stat. 294, provided that the amount obligated by United States Information Agency each fiscal year for grants for exchange-of-persons activities should be increased, through regular annual increases, so that by fiscal year 1986 the amount obligated for such grants would at least double (in terms of constant dollars) the amount obligated for such grants for fiscal year 1982 and in furtherance of this purpose provided for appropriations for the United States Information Agency for fiscal year 1983.
+
+#### Delegation of Functions
+Functions of President under this section delegated to Secretary of State, Director of United States Information Agency, Secretary of Commerce, and Secretary of Education, see Ex. Ord. No. 11034, June 25, 1962, 27 F.R. 6071, set out as a note under [section 2454 of this title](./chapter-033-mutual-educational-and-cultural-exchange-program.md#section-2454).
 
 
 <a id="section-2456"></a>
@@ -679,11 +665,6 @@ Pub. L. 96–60, title II, § 205(b), Aug. 15, 1979, 93 Stat. 401, provided that
 
 “Director of the United States Information Agency” substituted for “Director of the International Communication Agency” in subsec. (e), pursuant to section 303(b) of Pub. L. 97–241, title III, Aug. 24, 1982, 96 Stat. 291, set out as a note under [section 1461 of this title](./chapter-018-united-states-information-and-educational-exchange-programs.md#section-1461). United States Information Agency (other than Broadcasting Board of Governors and International Broadcasting Bureau) abolished and functions transferred to Secretary of State, see sections 6531 and 6532 of this title.
 
-Functions vested in President, Secretary of State, Department of State, United States Information Agency or Director thereof under this chapter transferred to Director of International Communication Agency by section 7(a)(2) of Reorg. Plan No. 2 of 1977, set out under [section 1461 of this title](./chapter-018-united-states-information-and-educational-exchange-programs.md#section-1461), effective on or before July 1, 1978, at such time as specified by President, except (A) for such functions as are vested by subsec. (a) of this section, sections 2452(b)(6), (10), 2454(a), (e)(1), (2), (f), (g), 2455(a), (b), (c) and 2458 of this title, (B) for such functions as are vested by subsecs. (d) and (f) of this section, sections 2454(b) and 2455(d)(2), (f) of this title, to extent that such functions were assigned to Secretary of Health, Education, and Welfare [now Secretary of Education] immediately prior to effective date of Reorg. Plan No. 2 of 1977, and (C) for such functions as are vested by subsecs. (b) and (c) of this section to extent that any function therein is vested in President or Secretary of State.
-
-#### Delegation of Functions
-Functions of President under this section delegated to Secretary of State, Director of United States Information Agency, Secretary of Commerce, and Secretary of Education, see Ex. Ord. No. 11034, June 25, 1962, 27 F.R. 6071, set out as a note under [section 2454 of this title](./chapter-033-mutual-educational-and-cultural-exchange-program.md#section-2454).
-
 #### Termination of Advisory Commissions and Committees
 Advisory commissions or committees in existence on Jan. 5, 1973, to terminate not later than the expiration of the 2-year period following Jan. 5, 1973, unless, in the case of a commission or committee established by the President or an officer of the Federal Government, such commission or committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a commission or committee established by the Congress, its duration is otherwise provided for by law. See sections 3(2) and 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, 776, set out in the Appendix to Title 5, Government Organization and Employees.
 
@@ -692,6 +673,12 @@ Pub. L. 101–246, title II, § 204(b), Feb. 16, 1990, 104 Stat. 50, provided th
 
 #### References to Board of Foreign Scholarships
 Pub. L. 101–246, title II, § 204(c), Feb. 16, 1990, 104 Stat. 50, provided that: “Any reference in any provision of law to the Board of Foreign Scholarships shall, on and after the date of enactment of this Act [Feb. 16, 1990], be deemed to be a reference to the J. William Fulbright Foreign Scholarship Board.”
+
+#### Transfer of Functions
+Functions vested in President, Secretary of State, Department of State, United States Information Agency or Director thereof under this chapter transferred to Director of International Communication Agency by section 7(a)(2) of Reorg. Plan No. 2 of 1977, set out under [section 1461 of this title](./chapter-018-united-states-information-and-educational-exchange-programs.md#section-1461), effective on or before July 1, 1978, at such time as specified by President, except (A) for such functions as are vested by subsec. (a) of this section, sections 2452(b)(6), (10), 2454(a), (e)(1), (2), (f), (g), 2455(a), (b), (c) and 2458 of this title, (B) for such functions as are vested by subsecs. (d) and (f) of this section, sections 2454(b) and 2455(d)(2), (f) of this title, to extent that such functions were assigned to Secretary of Health, Education, and Welfare [now Secretary of Education] immediately prior to effective date of Reorg. Plan No. 2 of 1977, and (C) for such functions as are vested by subsecs. (b) and (c) of this section to extent that any function therein is vested in President or Secretary of State.
+
+#### Delegation of Functions
+Functions of President under this section delegated to Secretary of State, Director of United States Information Agency, Secretary of Commerce, and Secretary of Education, see Ex. Ord. No. 11034, June 25, 1962, 27 F.R. 6071, set out as a note under [section 2454 of this title](./chapter-033-mutual-educational-and-cultural-exchange-program.md#section-2454).
 
 
 <a id="section-2457"></a>
@@ -748,13 +735,14 @@ United States Information Agency (other than Broadcasting Board of Governors and
 
 “Director of the United States Information Agency” substituted for “Director of the International Communication Agency” in subsec. (a)(2), pursuant to section 303(b) of Pub. L. 97–241, title III, Aug. 24, 1982, 96 Stat. 291, set out as a note under [section 1461 of this title](./chapter-018-united-states-information-and-educational-exchange-programs.md#section-1461).
 
+#### Soviet Nationals Participating in Exchange Programs; Topics and Location of Study; National Security Interests; Report to Congress
+Pub. L. 97–241, title I, § 126(c), Aug. 24, 1982, 96 Stat. 282, directed Secretary of State to submit annually to Congress a list of Soviet nationals participating during the upcoming academic year in the United States-Union of Soviet Socialist Republics graduate student/young faculty exchange or in the United States-Union of Soviet Socialist Republics senior scholar exchange, their topics of study, and where they were to study, such report to also include a determination by Secretary of State, in consultation with heads of other agencies involved in these exchange programs, that these exchange programs would not jeopardize United States national security interests, prior to repeal by Pub. L. 103–199, title III, § 306, Dec. 17, 1993, 107 Stat. 2324.
+
+#### Transfer of Functions
 Functions vested in President, Secretary of State, Department of State, United States Information Agency or Director thereof under this chapter transferred to Director of International Communication Agency by Reorg. Plan No. 2 of 1977, § 7(a)(2), 42 F.R. 62461, 91 Stat. 1637, set out under [section 1461 of this title](./chapter-018-united-states-information-and-educational-exchange-programs.md#section-1461), effective on or before July 1, 1978, at such time as specified by President, except (A) for such functions as are vested by this section, and sections 2452(b)(6), (10), 2454(a), (e)(1), (2), (f), (g), 2455(a), (b), (c), 2456(a) of this title, (B) for such functions as are vested by sections 2454(b), 2455(d)(2), (f), and 2456(d), (f) of this title, to the extent that such functions were assigned to Secretary of Health, Education, and Welfare [now Secretary of Education] immediately prior to effective date of Reorg. Plan No. 2 of 1977, and (C) for such functions as are vested by section 2456(b), (c) of this title to the extent that any such function therein is vested in President or Secretary of State.
 
 #### Delegation of Functions
 Functions of President under this section delegated to Secretary of State, Director of United States Information Agency, and Secretary of Commerce, see Ex. Ord. No. 11034, June 25, 1962, 27 F.R. 6071, set out as a note under [section 2454 of this title](./chapter-033-mutual-educational-and-cultural-exchange-program.md#section-2454).
-
-#### Soviet Nationals Participating in Exchange Programs; Topics and Location of Study; National Security Interests; Report to Congress
-Pub. L. 97–241, title I, § 126(c), Aug. 24, 1982, 96 Stat. 282, directed Secretary of State to submit annually to Congress a list of Soviet nationals participating during the upcoming academic year in the United States-Union of Soviet Socialist Republics graduate student/young faculty exchange or in the United States-Union of Soviet Socialist Republics senior scholar exchange, their topics of study, and where they were to study, such report to also include a determination by Secretary of State, in consultation with heads of other agencies involved in these exchange programs, that these exchange programs would not jeopardize United States national security interests, prior to repeal by Pub. L. 103–199, title III, § 306, Dec. 17, 1993, 107 Stat. 2324.
 
 
 <a id="section-2458a"></a>
@@ -787,16 +775,26 @@ Amendment by Pub. L. 96–60 effective Oct. 1, 1979, see section 209 of Pub. L. 
 
 <a id="section-2459"></a>
 ## § 2459. Immunity from seizure under judicial process of cultural objects imported for temporary exhibition or display
-**(a) Agreements; Presidential determination; publication in Federal Register** Whenever any work of art or other object of cultural significance is imported into the United States from any foreign country, pursuant to an agreement entered into between the foreign owner or custodian thereof and the United States or one or more cultural or educational institutions within the United States providing for the temporary exhibition or display thereof within the United States at any cultural exhibition, assembly, activity, or festival administered, operated, or sponsored, without profit, by any such cultural or educational institution, no court of the United States, any State, the District of Columbia, or any territory or possession of the United States may issue or enforce any judicial process, or enter any judgment, decree, or order, for the purpose or having the effect of depriving such institution, or any carrier engaged in transporting such work or object within the United States, of custody or control of such object if before the importation of such object the President or his designee has determined that such object is of cultural significance and that the temporary exhibition or display thereof within the United States is in the national interest, and a notice to that effect has been published in the Federal Register.
+**(a) Agreements; Presidential determination; publication in Federal Register** Whenever any work of art or other object of cultural significance is imported into the United States from any foreign country, pursuant to an agreement entered into between the foreign owner or custodian thereof and the United States or one or more cultural, educational, or religious institutions with the capacity to appropriately curate such object within the United States providing for temporary storage, conservation, scientific research, exhibition, or display within the United States at any cultural exhibition, assembly, activity, or festival administered, operated, or sponsored, without profit, by any such cultural, educational, or religious institution with the capacity to appropriately curate such object, no court of the United States, any State, the District of Columbia, or any territory or possession of the United States may issue or enforce any judicial process, or enter any judgment, decree, or order, for the purpose or having the effect of depriving such institution, or any carrier engaged in transporting such work or object within the United States, of custody or control of such object if before the importation of such object the President or his designee has determined that such object is of cultural significance and that temporary storage, conservation, scientific research, exhibition, or display within the United States is in the national interest, and a notice to that effect has been published in the Federal Register.
 
 **(b) Intervention of United States attorney in pending judicial proceedings** If in any judicial proceeding in any such court any such process, judgment, decree, or order is sought, issued, or entered, the United States attorney for the judicial district within which such proceeding is pending shall be entitled as of right to intervene as a party to that proceeding, and upon request made by either the institution adversely affected, or upon direction by the Attorney General if the United States is adversely affected, shall apply to such court for the denial, quashing, or vacating thereof.
 
 **(c) Enforcement of agreements and obligations of carriers under transportation contracts** Nothing contained in this section shall preclude (1) any judicial action for or in aid of the enforcement of the terms of any such agreement or the enforcement of the obligation of any carrier under any contract for the transportation of any such object of cultural significance; or (2) the institution or prosecution by or on behalf of any such institution or the United States of any action for or in aid of the fulfillment of any obligation assumed by such institution or the United States pursuant to any such agreement.
 
+**(d) Imported and importation defined** For purposes of this section, the terms “imported” and “importation” include a transfer from a mission of a foreign country located within the United States to a cultural, educational, or religious institution located within the United States.
+
 ### Statutory Notes
 
 #### Codification
 Section was not enacted as a part of the Mutual Educational and Cultural Exchange Act of 1961, which comprises this chapter.
+
+#### Amendments
+2021—Subsec. (a). Pub. L. 116–283, § 1216(a)(1), substituted “temporary storage, conservation, scientific research, exhibition, or display” for “temporary exhibition or display thereof” in two places, “cultural, educational, or religious institutions with the capacity to appropriately curate such object” for “cultural or educational institutions”, and “any such cultural, educational, or religious institution with the capacity to appropriately curate such object” for “any such cultural or educational institution”.
+
+Subsec. (d). Pub. L. 116–283, § 1216(a)(2), added subsec. (d).
+
+#### Afghanistan
+Pub. L. 116–283, div. A, title XII, § 1216(b), Jan. 1, 2021, 134 Stat. 3923, provided that: “(1) In general.—A work of art or other object of cultural significance that is imported into the United States for temporary storage, conservation, scientific research, exhibition, or display shall be deemed to be immune from seizure under such Act of October 19, 1965 ([22 U.S.C. 2459](./chapter-033-mutual-educational-and-cultural-exchange-program.md#section-2459)) (as amended by subsection (a)), and the provisions of such Act shall apply in the same manner and to the same extent to such work or object, if—“(A) the work or object is exported from Afghanistan with an export permit or license duly issued by the Government of Afghanistan; and “(B)(i) an agreement is entered into between the Government of Afghanistan and the cultural, educational, or religious institution with the capacity to appropriately curate such object within the United States that specifies the conditions for such material to be returned to Afghanistan; or “(ii) the work or object is transferred to a cultural, educational, or religious institution with the capacity to appropriately curate such object in the United States in accordance with an agreement described in clause (i) that also includes an authorization to transfer such work or object to other such institutions in the United States.”
 
 #### Executive Order No. 11312
 Ex. Ord. No. 11312, Oct. 14, 1966, 31 F.R. 13415, which related to the delegation of functions to the Secretary of State, was revoked by Ex. Ord. No. 12047, Mar. 27, 1978, 43 F.R. 13359, set out below.
@@ -974,6 +972,9 @@ Pub. L. 101–246, title II, § 222(b), Feb. 16, 1990, 104 Stat. 56, provided th
 #### Private Sector Program; Restrictions on Funds for Foreign Travel; Waiver; Reports
 Pub. L. 98–164, title II, § 207, Nov. 22, 1983, 97 Stat. 1032, as amended by Pub. L. 103–236, title I, § 139(11), Apr. 30, 1994, 108 Stat. 398, provided that: “(a) No funds authorized to be appropriated for the Private Sector Program shall be used to pay for foreign travel by any United States citizen who, in the five years preceding the date of the proposed foreign travel, made two or more trips financed in whole or in substantial part by grants from the Private Sector Program. This limitation shall not apply to escort interpreters accompanying delegations, to artists accompanying exhibitions, to persons engaging in theatrical or musical performances, or to the full-time staff of the grantee organization. In addition, the Director of the Bureau of Educational and Cultural Affairs may waive this limitation in exceptional cases if he determines that foreign travel is essential to the successful completion of the grant program and so certifies in writing to the Speaker of the House of Representatives and the chairman of the Committee on Foreign Relations of the Senate at least fifteen days prior to the commencement of the proposed foreign travel. “[(b) Repealed. Pub. L. 103–236, title I, § 139(11), Apr. 30, 1994, 108 Stat. 398.]”
 
+#### Definitions
+In subsec. (a)(8), independent states of the former Soviet Union has the meaning given in [section 5801 of this title](./chapter-067-freedom-for-russia-and-emerging-eurasian-democracies-and-open-markets-support.md#section-5801), see section 3 of Pub. L. 103–199, set out as a note under [section 5801 of this title](./chapter-067-freedom-for-russia-and-emerging-eurasian-democracies-and-open-markets-support.md#section-5801).
+
 #### Ex. Ord. No. 13055. Coordination of United States Government International Exchanges and Training Programs
 Ex. Ord. No. 13055, July 15, 1997, 62 F.R. 39099, provided:
 
@@ -1012,9 +1013,6 @@ Sec. 9. Nothing in this Executive order is intended to alter the authorities and
 William J. Clinton.
 
 [For abolition of United States Information Agency (other than Broadcasting Board of Governors and International Broadcasting Bureau), transfer of functions, and treatment of references thereto, see sections 6531, 6532, and 6551 of this title.]
-
-#### Definitions
-In subsec. (a)(8), independent states of the former Soviet Union has the meaning given in [section 5801 of this title](./chapter-067-freedom-for-russia-and-emerging-eurasian-democracies-and-open-markets-support.md#section-5801), see section 3 of Pub. L. 103–199, set out as a note under [section 5801 of this title](./chapter-067-freedom-for-russia-and-emerging-eurasian-democracies-and-open-markets-support.md#section-5801).
 
 
 <a id="section-2461"></a>

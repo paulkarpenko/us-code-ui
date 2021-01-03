@@ -24,6 +24,9 @@ Section is comprised of part of section 1 of part B of act Aug. 11, 1916. Other 
 #### Effective Date of 1968 Amendment
 Amendment by Pub. L. 90–487 effective 180 days after Aug. 15, 1968, see section 2 of Pub. L. 90–487, set out as a note under [section 78 of this title](./chapter-003-grain-standards.md#section-78).
 
+#### Short Title of 2020 Amendment
+Pub. L. 116–216, § 1, Dec. 11, 2020, 134 Stat. 1048, provided that: “This Act [amending sections 76, 79, 79a, 79d, 87f–2, 87h, and 87j of this title] may be cited as the ‘United States Grain Standards Reauthorization Act of 2020’.”
+
 #### Short Title of 2015 Amendment
 Pub. L. 114–54, § 1(a), Sept. 30, 2015, 129 Stat. 513, provided that: “This Act [amending sections 77, 79, 79a, 79d, 84, 87h, 87j, 1635i, 1635j, and 1636i of this title and sections 583j–2, 583j–3, 583j–5, and 583j–8 of Title 16, Conservation, enacting provisions set out as a note under [section 1635m of this title](./chapter-038-distribution-and-marketing-of-agricultural-products.md#section-1635m), and amending provisions set out as a note under [section 1635 of this title](./chapter-038-distribution-and-marketing-of-agricultural-products.md#section-1635)] may be cited as the ‘Agriculture Reauthorizations Act of 2015’.”
 
@@ -287,6 +290,8 @@ Section, Pub. L. 101–624, title XX, § 2002, Nov. 28, 1990, 104 Stat. 3928, pr
 ### Statutory Notes
 
 #### Amendments
+2020—Subsec. (a)(1). Pub. L. 116–216 substituted “soybeans, mixed” for “soybeans mixed”.
+
 1994—Subsecs. (a) to (c). Pub. L. 103–354 substituted “Secretary” for “Administrator” wherever appearing.
 
 1993—Subsec. (a)(1). Pub. L. 103–156, which directed amendment of “Section 4(a)(1)” by substituting “the judgment of the Administrator” for “his judgment”, without specifying the name of the Act being amended, was executed to this section, which is section 4 of the United States Grain Standards Act, to reflect the probable intent of Congress.
@@ -458,7 +463,7 @@ Pub. L. 90–487, § 2, Aug. 15, 1968, 82 Stat. 770, provided that: “This Act 
 
   (C) *State agency requirements.—*
 
-    (i) *In general.—* — If a State agency that has been delegated authority under this paragraph intends to temporarily discontinue official inspection or weighing services for any reason, except in the case of a major disaster, the State agency shall notify the Secretary in writing of the intention of the State agency to do so at least 72 hours in advance of the discontinuation date.
+    (i) *In general.—* — If a State agency that has been delegated authority under this paragraph intends to temporarily discontinue official inspection or weighing services for any reason, except in the case of a major disaster, the State agency shall notify the Secretary and affected customers or applicants for service of official inspection or weighing services provided by the State agency in writing of the intention of the State agency to do so at least 72 hours in advance of the discontinuation date.
 
     (ii) *Secretarial consideration.—* — The Secretary shall consider receipt of a notice described in clause (i) as a factor in administering the delegation of authority under this paragraph.
 
@@ -572,7 +577,7 @@ Pub. L. 90–487, § 2, Aug. 15, 1968, 82 Stat. 770, provided that: “This Act 
 
 (4) **Adjustment of fees.—** — In order to maintain an operating reserve of not less than 3 and not more than 6 months, the Secretary shall adjust the fees described in paragraphs (1) and (2) not less frequently than annually.
 
-(5) The duties imposed by paragraph (2) on designated official agencies and State agencies described in such paragraph and the investment authority provided by paragraph (3) shall expire on September 30, 2020. After that date, the fees established by the Secretary pursuant to paragraph (1) shall not cover administrative and supervisory costs related to the official inspection of grain.
+(5) The duties imposed by paragraph (2) on designated official agencies and State agencies described in such paragraph and the investment authority provided by paragraph (3) shall expire on September 30, 2025. After that date, the fees established by the Secretary pursuant to paragraph (1) shall not cover administrative and supervisory costs related to the official inspection of grain.
 
 ### Statutory Notes
 
@@ -582,6 +587,10 @@ Section as originally enacted was composed of part of section 7 of part B of act
 In subsec. (c), “chapters 1 to 11 of title 40 and division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41” substituted for “the Federal Property and Administrative Services Act of 1949, as amended ([40 U.S.C. 471](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40-section471&num=0&edition=prelim) et seq.)” on authority of Pub. L. 107–217, § 5(c), Aug. 21, 2002, 116 Stat. 1303, which Act enacted Title 40, Public Buildings, Property, and Works, and Pub. L. 111–350, § 6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
 #### Amendments
+2020—Subsec. (e)(2)(C)(i). Pub. L. 116–216, § 2(1), inserted “and affected customers or applicants for service of official inspection or weighing services provided by the State agency” after “notify the Secretary”.
+
+Subsec. (j)(5). Pub. L. 116–216, § 2(2), substituted “2025” for “2020”.
+
 2018—Subsec. (f)(1)(C). Pub. L. 115–334, § 12610(c), realigned margins.
 
 Subsec. (f)(2). Pub. L. 115–334, § 12610(a)(1), inserted subpar. (A) designation and heading before “Not more” and subpar. (B) designation and heading before “the Secretary determines” in introductory provisions, substituted “Subject to subparagraph (B), not more” for “Not more” and “Secretary.” for “Secretary, except that, if” in subpar. (A) and “Subject to subsection (g)(4)(A), if the Secretary determines” for “the Secretary determines” in introductory provisions of subpar. (B), redesignated former subpars. (A), (B), and (C) as cls. (i), (iii), and (iv), respectively, of subpar. (B), added cl. (ii) of subpar. (B) and subpars. (C) and (D), and realigned margins.
@@ -772,7 +781,7 @@ Pub. L. 94–582, § 8(b), Oct. 21, 1976, 90 Stat. 2874, as amended by Pub. L. 9
 
 (3) **Adjustment of fees.—** — In order to maintain an operating reserve of not less than 3 and not more than 6 months, the Secretary shall adjust the fees described in paragraphs (1) and (2) not less frequently than annually.
 
-(4) The authority provided to the Secretary by paragraph (1) and the duties imposed by paragraph (2) on agencies and other persons described in such paragraph shall expire on September 30, 2020. After that date, the Secretary shall, under such regulations as the Secretary may prescribe, charge and collect reasonable fees to cover the estimated costs of official weighing and supervision of weighing except when the official weighing or supervision of weighing is performed by a designated official agency or by a State under a delegation of authority. The fees authorized by this paragraph shall, as nearly as practicable, cover the costs of the Secretary incident to its performance of official weighing and supervision of weighing services in the United States and on United States grain in Canadian ports, excluding administrative and supervisory costs. The fees authorized by this paragraph shall be deposited into a fund which shall be available without fiscal year limitation for the expenses of the Secretary incident to providing services under this chapter.
+(4) The authority provided to the Secretary by paragraph (1) and the duties imposed by paragraph (2) on agencies and other persons described in such paragraph shall expire on September 30, 2025. After that date, the Secretary shall, under such regulations as the Secretary may prescribe, charge and collect reasonable fees to cover the estimated costs of official weighing and supervision of weighing except when the official weighing or supervision of weighing is performed by a designated official agency or by a State under a delegation of authority. The fees authorized by this paragraph shall, as nearly as practicable, cover the costs of the Secretary incident to its performance of official weighing and supervision of weighing services in the United States and on United States grain in Canadian ports, excluding administrative and supervisory costs. The fees authorized by this paragraph shall be deposited into a fund which shall be available without fiscal year limitation for the expenses of the Secretary incident to providing services under this chapter.
 
 ### Statutory Notes
 
@@ -780,6 +789,8 @@ Pub. L. 94–582, § 8(b), Oct. 21, 1976, 90 Stat. 2874, as amended by Pub. L. 9
 The United States Warehouse Act, referred to in subsec. (j), is part C of act Aug. 11, 1916, ch. 313, 39 Stat. 486, as amended, which is classified generally to chapter 10 (§ 241 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 241 of this title](./chapter-010-warehouses.md#section-241) and Tables.
 
 #### Amendments
+2020—Subsec. (l)(4). Pub. L. 116–216, in first sentence, substituted “2025” for “2020”.
+
 2018—Subsec. (i)(2). Pub. L. 115–334 inserted subpar. (A) designation and heading before “Not more” and subpar. (B) designation and heading before “the Secretary determines” in introductory provisions, substituted “Subject to subparagraph (B), not more” for “Not more” and “Secretary.” for “Secretary, except that, if” in subpar. (A) and “If the Secretary determines” for “the Secretary determines” in subpar. (B), redesignated former subpars. (A) and (B) as cls. (i) and (iii), respectively, of subpar. (B), struck out “or” at end of cl. (i) of subpar. (B), added cl. (ii) of subpar. (B) and subpar. (C), and realigned margins.
 
 2015—Subsec. (c)(2). Pub. L. 114–54, § 301(c)(1), substituted “subsections (e) and (g) of section 79” for “subsection (g) of section 79”.
@@ -892,11 +903,13 @@ Section, act Aug. 11, 1916, ch. 313, pt. B, § 7C, as added Aug. 13, 1981, Pub. 
 <a id="section-79d"></a>
 ## § 79d. Limitation on administrative and supervisory costs
 
-The total administrative and supervisory costs which may be incurred under this chapter for services performed (excluding standardization, compliance, and foreign monitoring activities) for each of the fiscal years 1989 through 2020 shall not exceed 30 percent of the total costs for such activities carried out by the Secretary for such year.
+The total administrative and supervisory costs which may be incurred under this chapter for services performed (excluding standardization, compliance, and foreign monitoring activities) for each of the fiscal years 1989 through 2025 shall not exceed 30 percent of the total costs for such activities carried out by the Secretary for such year.
 
 ### Statutory Notes
 
 #### Amendments
+2020—Pub. L. 116–216 substituted “2025” for “2020”.
+
 2015—Pub. L. 114–54 substituted “2020” for “2015”.
 
 2005—Pub. L. 109–83 substituted “2015” for “2005”.
@@ -1608,12 +1621,44 @@ Section effective 30 days after Oct. 21, 1976, see section 27 of Pub. L. 94–58
 
 **(c) Submission to Congressional committees of annual summary of complaints from foreign purchasers and prospective purchasers of grain** On December 1 of each year, the Secretary shall submit to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a summary of all other complaints received by the Department of Agriculture during the prior fiscal year from foreign purchasers and prospective purchasers of United States grain and other foreign purchasers interested in the trade of grain, and the resolution thereof: Provided, That the summary shall not include a complaint unless reasonable cause exists to believe that the complaint is valid, as determined by the Secretary.
 
+**(d) Enhancement of current reporting**
+
+(1) **Increased frequency of inspection program data reporting**
+
+  (A) *In general* — Beginning not later than 1 year after December 11, 2020, the Secretary shall publish quarterly reports describing data from the tests and inspections for intrinsic quality factors (including protein, oil, and starch) and food safety factors, as reported, in the aggregate, for fiscal years 2014 through 2018 in the tables in section V (relating to providing official grain inspection and weighing services) of the 2016 through 2018 annual reports to Congress by the Federal Grain Inspection Service.
+
+  (B) *Delineation* — The data from the tests and inspections under subparagraph (A) shall be delineated to reflect whether the tests and inspections were requested of or performed by—
+
+    (i) the Secretary; or
+
+    (ii) a State agency delegated authority under section 79 or 79a of this title or an official agency.
+
+(2) **Exceptions and waivers** — Beginning not later than 1 year after December 11, 2020, the Secretary shall publish quarterly reports describing—
+
+  (A) the number of exceptions requested under [section 79(f)(2)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section79/f/2/B&num=0&edition=prelim);
+
+  (B) the number of exceptions granted under [section 79(f)(2)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section79/f/2/B&num=0&edition=prelim);
+
+  (C) the number of waivers requested under [section 77(a)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section77/a/1&num=0&edition=prelim); and
+
+  (D) the number of waivers granted under [section 77(a)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section77/a/1&num=0&edition=prelim).
+
+**(e) Additional reporting; consultation** The Secretary may, to the extent determined appropriate by the Secretary, in consultation with State agencies delegated authority under sections 79 and 79a of this title, official agencies, and the grain industries described in the second sentence of [section 87j(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section87j/a&num=0&edition=prelim), publish—
+
+(1) data relating to testing for other intrinsic quality or food safety factors; and
+
+(2) other data collected from inspection and weighing activities conducted under this chapter.
+
+**(f) Protection of confidential business information** Any trade secrets or information described in [section 552(b)(4) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section552/b/4&num=0&edition=prelim) that is provided to or collected by the Secretary in carrying out subsection (d) or (e) shall not be included in a report under subsection (d) or (e) or otherwise publicly disclosed.
+
 ### Statutory Notes
 
 #### References in Text
 [Section 612c–3 of this title](./chapter-026-agricultural-adjustment.md#section-612c-3), referred to in subsec. (b), was repealed by Pub. L. 101–624, title XV, § 1578, Nov. 28, 1990, 104 Stat. 3702.
 
 #### Amendments
+2020—Subsecs. (d) to (f). Pub. L. 116–216 added subsecs. (d) to (f).
+
 1994—Pub. L. 103–354 substituted “Secretary” for “Administrator” wherever appearing.
 
 1991—Subsec. (a). Pub. L. 102–237 substituted “On December 1 of each year, the” for “The” and “Committee on Agriculture” for “committee on Agriculture” before “of the House” and struck out “one year after the effective date of the United States Grain Standards Act of 1976 setting forth the actions taken by him in implementing the provisions of that Act; and, on December 1 of each year thereafter, the Administrator shall report to such committees” before “regarding”.
@@ -1650,13 +1695,40 @@ For effective date of section, see section 2 of Pub. L. 90–487, set out as an 
 
 
 <a id="section-87h"></a>
-## § 87h. Appropriations
+## § 87h. Funding
+**(a) Authorization of appropriations** There are authorized to be appropriated $23,000,000 for standardization and compliance activities, monitoring in foreign ports grain officially inspected and weighed under this chapter, and any other expenses necessary to carry out the provisions of this chapter for each of the fiscal years 2021 through 2025, to the extent that financing is not obtained from fees and sales of samples as provided for in sections 79, 79a, 79b, 87e, and 87f–1 of this title.
 
-There are hereby authorized to be appropriated such sums as are necessary for standardization and compliance activities, monitoring in foreign ports grain officially inspected and weighed under this chapter, and any other expenses necessary to carry out the provisions of this chapter for each of the fiscal years 1988 through 2020, to the extent that financing is not obtained from fees and sales of samples as provided for in sections 79, 79a, 79b, 87e, and 87f–1 of this title.
+**(b) Limitations on uses of user fees**
+
+(1) **Definitions** — In this subsection:
+
+  (A) *Official inspection or weighing service* — The term “official inspection or weighing service” means official inspection, official weighing, supervision of weighing, supervision of agency personnel, supervision of the field office personnel of the Secretary, testing of equipment or instruments, other services, or registration, the cost to the Secretary of which is authorized to be covered by the collection of a user fee pursuant to section 79, 79a, 79b, 87e, or 87f–1 of this title, as applicable.
+
+  (B) *User fee* — The term “user fee” means a fee collected by the Secretary under section 79, 79a, 79b, 87e, or 87f–1 of this title.
+
+(2) **Requirement** — A user fee—
+
+  (A) shall be used solely to cover—
+
+    (i) the cost to the Secretary for carrying out official inspection or weighing services; and
+
+    (ii) administrative costs to the Secretary directly relating to official inspection or weighing services; and
+
+  (B) shall not be used for—
+
+    (i) activities relating to the development or maintenance of grain standards; or
+
+    (ii) any other activity that is not directly related to the performance of official inspection or weighing services.
 
 ### Statutory Notes
 
 #### Amendments
+2020—Pub. L. 116–216, § 6(1), substituted “Funding” for “Appropriations” in section catchline.
+
+Subsec. (a). Pub. L. 116–216, § 6(1), (2), designated existing provisions as subsec. (a), inserted heading, and substituted “There are authorized” for “There are hereby authorized”, “$23,000,000” for “such sums as are necessary”, and “2021 through 2025” for “1988 through 2020”.
+
+Subsec. (b). Pub. L. 116–216, § 6(3), added subsec. (b).
+
 2015—Pub. L. 114–54 substituted “2020” for “2015”.
 
 2005—Pub. L. 109–83 substituted “2015” for “2005”.
@@ -1711,7 +1783,7 @@ Section, act Aug. 11, 1916, ch. 313, pt. B, § 20, as added Aug. 13, 1981, Pub. 
 
 <a id="section-87j"></a>
 ## § 87j. Advisory committee
-**(a) Establishment; number and terms of members** Not later than ninety days after October 24, 1988, the Secretary shall establish an advisory committee to provide advice to the Secretary with respect to implementation of this chapter consistent with the declarations of policy in [section 74 of this title](./chapter-003-grain-standards.md#section-74). The advisory committee shall consist of fifteen members, appointed by the Secretary, who represent the interests of all segments of the grain producing, processing, storing, merchandising, consuming, and exporting industries, including grain inspection and weighing agencies and scientists with expertise in research related to the policies established in [section 74 of this title](./chapter-003-grain-standards.md#section-74). Members of the advisory committee shall be appointed to three-year terms, except that of the initial fifteen members of the advisory committee first appointed following the enactment of this section, five shall be appointed for terms of one year and five shall be appointed for terms of two years. No member of the advisory committee may serve successive terms.
+**(a) Establishment; number and terms of members** Not later than ninety days after October 24, 1988, the Secretary shall establish an advisory committee to provide advice to the Secretary with respect to implementation of this chapter consistent with the declarations of policy in [section 74 of this title](./chapter-003-grain-standards.md#section-74). The advisory committee shall consist of fifteen members, appointed by the Secretary, who represent the interests of all segments of the grain producing, processing, storing, merchandising, consuming, and exporting industries, including grain inspection and weighing agencies and scientists with expertise in research related to the policies established in [section 74 of this title](./chapter-003-grain-standards.md#section-74). Members of the advisory committee shall be appointed to three-year terms, except that of the initial fifteen members of the advisory committee first appointed following the enactment of this section, five shall be appointed for terms of one year and five shall be appointed for terms of two years. No member of the advisory committee may serve successively for more than 2 terms.
 
 **(b) Federal Advisory Committee Act as governing** The advisory committee shall be governed by the provisions of the Federal Advisory Committee Act [5 U.S.C. App.].
 
@@ -1719,7 +1791,7 @@ Section, act Aug. 11, 1916, ch. 313, pt. B, § 20, as added Aug. 13, 1981, Pub. 
 
 **(d) Compensation and travel expenses** Members of the advisory committee shall serve without compensation, if not otherwise officers or employees of the United States, except that members shall, while away from their homes or regular places of business in the performance of services under this chapter, be allowed travel expenses, including per diem in lieu of subsistence, as authorized under [section 5703 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5703&num=0&edition=prelim).
 
-**(e) Expiration of Secretary’s authority** The authority provided to the Secretary for the establishment and maintenance of an advisory committee under this section shall expire on September 30, 2020.
+**(e) Expiration of Secretary’s authority** The authority provided to the Secretary for the establishment and maintenance of an advisory committee under this section shall expire on September 30, 2025.
 
 ### Statutory Notes
 
@@ -1729,6 +1801,10 @@ The enactment of this section, referred to in subsec. (a), means Oct. 24, 1988, 
 The Federal Advisory Committee Act, referred to in subsec. (b), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Amendments
+2020—Subsec. (a). Pub. L. 116–216, § 7(1), in last sentence, substituted “successively for more than 2 terms” for “successive terms”.
+
+Subsec. (e). Pub. L. 116–216, § 7(2), substituted “2025” for “2020”.
+
 2015—Subsec. (e). Pub. L. 114–54 substituted “2020” for “2015”.
 
 2005—Subsec. (e). Pub. L. 109–83 substituted “2015” for “2005”.

@@ -320,14 +320,14 @@ Amendment by Pub. L. 96–53 effective Oct. 1, 1979, see section 512(a) of Pub. 
 #### Effective Date of 1977 Amendment
 Pub. L. 95–102, § 3, Aug. 15, 1977, 91 Stat. 841, provided that: “The amendments made by this Act [amending this section] shall take effect on October 1, 1977.”
 
-#### Delegation of Functions; Allocation of Funds
-Functions of President under this section delegated to and funds available to President under this chapter allocated to Director of Peace Corps by sections 1–103 and 1–108 of Ex. Ord. No. 12137, May 16, 1979, 44 F.R. 29023, eff. May 16, 1979, set out as a note under [section 2501 of this title](./chapter-034-the-peace-corps.md#section-2501).
-
 #### Applicability of Pub. L. 97–113 to Actions Prior to December 29, 1981
 Pub. L. 97–113, title VI, § 601(e)(2), Dec. 29, 1981, 95 Stat. 1542, provided that: “The amendment made by paragraph (1) of this subsection [redesignating former subsec. (g) as (d) and striking out subsecs. (d) to (f) of this section] shall not alter or affect (A) the validity of any action taken before the date of the enactment of this Act [Dec. 29, 1981] under those provisions of law repealed by that amendment, or (B) the liability of any person for any payment described in section 3(f) of the Peace Corps Act [former subsec. (f) of this section] as in effect immediately before the date of the enactment of this Act.”
 
 #### Payment of Readjustment Allowances From Amount Appropriated for Fiscal Year 1977; Limitation on Amount Available
 Pub. L. 94–281, § 3, May 7, 1976, 90 Stat. 458, provided that: “Of the amount appropriated for fiscal year 1977 to carry out the purposes of the Peace Corps Act [see Short Title note set out under [section 2501 of this title](./chapter-034-the-peace-corps.md#section-2501)], $10,100,000 shall be available only for payment of the readjustment allowances authorized by sections 5(c) and 6(1) of such Act [sections 2504(c) and 2505(1) of this title].”
+
+#### Delegation of Functions; Allocation of Funds
+Functions of President under this section delegated to and funds available to President under this chapter allocated to Director of Peace Corps by sections 1–103 and 1–108 of Ex. Ord. No. 12137, May 16, 1979, 44 F.R. 29023, eff. May 16, 1979, set out as a note under [section 2501 of this title](./chapter-034-the-peace-corps.md#section-2501).
 
 
 <a id="section-2503"></a>
@@ -363,17 +363,17 @@ This chapter, referred to in subsecs. (b) and (c), was in the original “this A
 #### Effective Date of 1964 Amendment
 Amendment by Pub. L. 88–426 effective on first day of first pay period which begins on or after July 1, 1964, except to extent provided in section 501(c) of Pub. L. 88–426, see Pub. L. 88–426, title V, § 501(a), Aug. 14, 1964, 78 Stat. 435.
 
-#### Transfer of Functions
-Transfer to President of the United States of functions conferred upon Director of Peace Corps by subsec. (c)(4) of this section, see section 2(b) of Reorg. Plan No. 1 of 1971, eff. July 1, 1971, 36 F.R. 11181, 85 Stat. 819, set out in the Appendix to Title 5, Government Organization and Employees.
-
-#### Delegation of Functions
-Functions of President under subsecs. (c)(1), (4), (d) delegated to Director of Peace Corps by sections 1–103 and 1–301(a), (b) of Ex. Ord. No. 12137, May 16, 1979, 44 F.R. 29023, eff. May 16, 1979, set out as a note under [section 2501 of this title](./chapter-034-the-peace-corps.md#section-2501).
-
 #### Conforming Safety and Security Agreement Regarding Peace Corps Volunteers Serving in Foreign Countries
 Pub. L. 112–57, § 7, Nov. 21, 2011, 125 Stat. 744, provided that: “(a) In General.—Not later than 180 days after the date of the enactment of this Act [Nov. 21, 2011], the Director of the Peace Corps shall consult with the Assistant Secretary of State for Diplomatic Security and enter into a memorandum of understanding that specifies the duties and obligations of the Peace Corps and the Bureau of Diplomatic Security of the Department of State with respect to the protection of Peace Corps volunteers and staff members serving in foreign countries, including with respect to investigations of safety and security incidents and crimes committed against volunteers and staff members. “(b) Inspector General Review.—“(1) Review.—The Inspector General of the Peace Corps shall review the memorandum of understanding described in subsection (a) and be afforded the opportunity to recommend changes that advance the safety and security of Peace Corps volunteers before entry into force of the memorandum of understanding. “(2) Report.—The Director of the Peace Corps shall consider the recommendations of the Inspector General of the Peace Corps regarding the memorandum of understanding described in subsection (a). If the Director enters into the memorandum of understanding without implementing a recommendation of the Inspector General, the Director shall submit to the Inspector General a written explanation relating thereto. “(c) Failure to Meet Deadline.—“(1) Requirement to submit report.—If, by the date that is 180 days after the date of the enactment of this Act, the Director of the Peace Corps is unable to obtain agreement with the Assistant Secretary of State for Diplomatic Security and certification by the Inspector General of the Peace Corps, the Director shall submit to the committees of Congress specified in paragraph (2) a report explaining the reasons for such failure and a certification that substantial steps are being taken to make progress toward agreement. “(2) Committees of congress specified.—The committees of Congress specified in this paragraph are the Committee on Foreign Relations of the Senate and the Committee on Foreign Affairs of the House of Representatives.”
 
 #### Continuing Functions of Director of Peace Corps From December 14, 1981
 Pub. L. 97–113, title VI, § 601(d)(2), Dec. 29, 1981, 95 Stat. 1542, provided: “The Director of the Peace Corps shall continue to exercise all the functions under the Peace Corps Act [this chapter] or any other law or authority which the Director was performing on December 14, 1981.”
+
+#### Transfer of Functions
+Transfer to President of the United States of functions conferred upon Director of Peace Corps by subsec. (c)(4) of this section, see section 2(b) of Reorg. Plan No. 1 of 1971, eff. July 1, 1971, 36 F.R. 11181, 85 Stat. 819, set out in the Appendix to Title 5, Government Organization and Employees.
+
+#### Delegation of Functions
+Functions of President under subsecs. (c)(1), (4), (d) delegated to Director of Peace Corps by sections 1–103 and 1–301(a), (b) of Ex. Ord. No. 12137, May 16, 1979, 44 F.R. 29023, eff. May 16, 1979, set out as a note under [section 2501 of this title](./chapter-034-the-peace-corps.md#section-2501).
 
 
 <a id="section-2504"></a>
@@ -569,9 +569,6 @@ Amendment by Pub. L. 99–83 effective Oct. 1, 1985, see section 1301 of Pub. L.
 #### Effective Date of 1980 Amendment
 Amendment by Pub. L. 96–465 effective Feb. 15, 1981, except as otherwise provided, see section 2403 of Pub. L. 96–465, set out as an Effective Date note under [section 3901 of this title](./chapter-052-foreign-service.md#section-3901).
 
-#### Delegation of Functions
-Functions of President under this section, except those under subsec. (f)(1)(B), delegated to Director of Peace Corps, with function of prescribing conditions in subsec. (e) to be exercised in consultation with head of agency responsible for facility, by sections 1–103, 1–106, and 1–301(c) of Ex. Ord. No. 12137, May 16, 1979, 44 F.R. 29023, eff. May 16, 1979, set out as a note under [section 2501 of this title](./chapter-034-the-peace-corps.md#section-2501).
-
 #### Implementation of Recommendations by the Inspector General of the Peace Corps
 Pub. L. 115–256, title I, § 101(b), Oct. 9, 2018, 132 Stat. 3652, provided that: “(1) Inspector general report.—As promptly as practicable, the Director [of the Peace Corps] shall implement the actions outlined in the agency response for all open recommendations of the Inspector General of the Peace Corps set forth in the report entitled ‘Final Program Evaluation Report: OIG Follow-up Evaluation of Issues Identified in the 2010 Peace Corps/Morocco Assessment of Medical Care’ (Report No. IG–16–01–E). “(2) Semiannual reports.—“(A) Initial report.—Not later than 180 days after the date of the enactment of this Act [Oct. 9, 2018], the Director shall submit a report to the appropriate congressional committees that describes the Director’s strategy for implementing the recommendations referred to in paragraph (1). “(B) Subsequent reports.—Not later than 180 days after the submission of the report required under subparagraph (A), and semiannually thereafter, the Director shall submit a report to the appropriate congressional committees that describes the progress in implementing the recommendations referred to in paragraph (1) until all such recommendations have been implemented in accordance with the agency’s response to the report referred to in such paragraph. “(3) Notification.—After the submission of each report required under paragraph (2), the Inspector General of the Peace Corps may notify the appropriate congressional committees of any recommendations from the report referred to in paragraph (1) that the Inspector General determines remain unresolved.”
 
@@ -585,6 +582,9 @@ Pub. L. 89–572, § 2(b), Sept. 13, 1966, 80 Stat. 765, provided that: “The a
 
 #### Definitions
 Pub. L. 115–256, § 2, Oct. 9, 2018, 132 Stat. 3650, provided that: “In this Act [see Short Title of 2018 Amendment note set out as a note under [section 2501 of this title](./chapter-034-the-peace-corps.md#section-2501)]: “(1) Appropriate congressional committees.—The term ‘appropriate congressional committees’ means—“(A) the Committee on Foreign Relations of the Senate; “(B) the Committee on Appropriations of the Senate; “(C) the Committee on Foreign Affairs of the House of Representatives; and “(D) the Committee on Appropriations of the House of Representatives. “(2) Director.—The term ‘Director’ means the Director of the Peace Corps. “(3) Peace corps volunteer.—The term ‘Peace Corps volunteer’ means an individual described in section 5(a) of the Peace Corps Act ([22 U.S.C. 2504(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2504/a&num=0&edition=prelim)).”
+
+#### Delegation of Functions
+Functions of President under this section, except those under subsec. (f)(1)(B), delegated to Director of Peace Corps, with function of prescribing conditions in subsec. (e) to be exercised in consultation with head of agency responsible for facility, by sections 1–103, 1–106, and 1–301(c) of Ex. Ord. No. 12137, May 16, 1979, 44 F.R. 29023, eff. May 16, 1979, set out as a note under [section 2501 of this title](./chapter-034-the-peace-corps.md#section-2501).
 
 #### Ex. Ord. No. 11103. Appointment of Former Volunteers to Civilian Career Services
 Ex. Ord. No. 11103, Apr. 10, 1963, 28 F.R. 3571, as amended by Ex. Ord. No. 12107, Dec. 28, 1978, 44 F.R. 1055, provided:
@@ -809,12 +809,6 @@ Pub. L. 89–134, § 5(a), Aug. 24, 1965, 79 Stat. 551, provided that: “Sectio
 #### Effective Date of 1962 Amendment
 Amendment by Pub. L. 87–793 effective on first day of first pay period which begins on or after Oct. 11, 1962, see section 1008 of Pub. L. 87–793.
 
-#### Delegation of Functions
-Functions of President under this section delegated to Director of Peace Corps by section 1–103 of Ex. Ord. No. 12137, May 16, 1979, 44 F.R. 29023, eff. May 16, 1979, set out as a note under [section 2501 of this title](./chapter-034-the-peace-corps.md#section-2501).
-
-#### Coordination of Changes in Policy With Secretary of State
-Any substantial changes in policies in effect on May 16, 1979, for the utilization of the Foreign Service Act of 1980 (§ 3901 et seq. of this title) pursuant to this section are to be coordinated with the Secretary of State, see section 1–111 of Ex. Ord. No. 12137, May 16, 1979, 44 F.R. 29023, set out as a note under [section 2501 of this title](./chapter-034-the-peace-corps.md#section-2501).
-
 #### Peace Corps Appointments or Assignments
 Pub. L. 108–199, div. D, title II, Jan. 23, 2004, 118 Stat. 156, provided in part: “That during fiscal year 2004 and any subsequent fiscal year, the Director of the Peace Corps may make appointments or assignments, or extend current appointments or assignments, to permit United States citizens to serve for periods in excess of 5 years in the case of individuals whose appointment or assignment, such as regional safety security officers and employees within the Office of the Inspector General, involves the safety of Peace Corps volunteers: Provided further, That the Director of the Peace Corps may make such appointments or assignments notwithstanding the provisions of section 7 of the Peace Corps Act [this section] limiting the length of an appointment or assignment, the circumstances under which such an appointment or assignment may exceed 5 years, and the percentage of appointments or assignments that can be made in excess of 5 years.”
 
@@ -825,13 +819,19 @@ Pub. L. 108–7, div. E, title II, Feb. 20, 2003, 117 Stat. 171.
 #### Reports to Congress
 Pub. L. 99–83, title XI, § 1103(b), Aug. 8, 1985, 99 Stat. 273, which required the Director of the Peace Corps to submit to the Committee on Foreign Relations of the Senate and the Committee on Foreign Affairs of the House of Representatives reports on the exercise of certain appointment authority granted under section 1103(a) of Pub. L. 99–83 (amending subsec. (a) of this section), terminated, effective May 15, 2000, pursuant to section 3003 of Pub. L. 104–66, as amended, set out as a note under [section 1113 of Title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1113&num=0&edition=prelim), Money and Finance. See, also, page 189 of House Document No. 103–7.
 
-#### Benefits for Persons Appointed or Assigned Under Subsec. (a)
-Persons appointed, employed, or assigned under subsec. (a) of this section are not, unless otherwise agreed by the agency in which such benefits may be exercised, entitled to the benefits provided by [section 928 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section928&num=0&edition=prelim) in cases in which their service under the appointment, employment, or assignment exceeds thirty months, see section 1–401 of Ex. Ord. No. 12137, May 16, 1979, 44 F.R. 29023, set out as a note under [section 2501 of this title](./chapter-034-the-peace-corps.md#section-2501).
-
 #### Transfer of Washington Headquarters Personnel from Civil Service to Foreign Service Appointments
 Pub. L. 89–134, § 5(b), Aug. 24, 1965, 79 Stat. 551, provided that: “Under such regulations as the President may prescribe, each person employed under authorities repealed by section 4(a) of this Act [which repealed former subsecs. (a) and (b) of this section providing for employment of Washington headquarters personnel in accordance with standard civil service laws] immediately prior to the effective date of that section [see Effective Date of 1965 Amendment note above] shall effective on that date be appointed a Foreign Service Reserve officer or Foreign Service staff officer or employee under the authority of section 7(a)(2) of the Peace Corps Act [subsec. (a)(2) of this section], as amended, and appointed or assigned to an appropriate class thereof; except that—“(1) no person who holds a career or career-conditional appointment immediately prior to the effective date of section 4(a) of this Act [see effective date of 1965 Amendment note above] shall, without his consent, be so appointed until three years after such effective date; and “(2) each person so appointed who, immediately prior to the effective date of section 4(a) of this Act [see effective date of 1965 Amendment note above], held a career or career-conditional appointment at grade 8 or below of the General Schedule established by the Classification Act of 1949, as amended [see § 5101 et seq. of Title 5, Government Organization and Employees], shall receive an appointment for the duration of operations under the Peace Corps Act, as amended [see Short Title note set out under [section 2501 of this title](./chapter-034-the-peace-corps.md#section-2501)]. Each person appointed under this subsection shall receive basic compensation at the rate of his class determined by the President to be appropriate, but the rate of basic compensation received by such person immediately prior to the effective date of his appointment under this subsection shall not be reduced by the provisions of this subsection.”
 
 [Functions of the President conferred by section 5(b) of Pub. L. 89–134, set out above, to prescribe regulations and make determinations (relating to appointment of Peace Corps Employees in the Foreign Service System) were delegated to the Director of the Peace Corps, by section 1–105 of Ex. Ord. No. 12137, May 16, 1976, 44 F.R. 29023, set out as a note under [section 2501 of this title](./chapter-034-the-peace-corps.md#section-2501). Such functions were previously transferred from the President to the Director of ACTION [now Corporation for National and Community Service] by section 102(c) of Ex. Ord. No. 11603, June 30, 1971, 36 F.R. 12675, set out as a note under [section 2501 of this title](./chapter-034-the-peace-corps.md#section-2501), which was superseded by section 1–707 of Ex. Ord. No. 12137.]
+
+#### Delegation of Functions
+Functions of President under this section delegated to Director of Peace Corps by section 1–103 of Ex. Ord. No. 12137, May 16, 1979, 44 F.R. 29023, eff. May 16, 1979, set out as a note under [section 2501 of this title](./chapter-034-the-peace-corps.md#section-2501).
+
+#### Coordination of Changes in Policy With Secretary of State
+Any substantial changes in policies in effect on May 16, 1979, for the utilization of the Foreign Service Act of 1980 (§ 3901 et seq. of this title) pursuant to this section are to be coordinated with the Secretary of State, see section 1–111 of Ex. Ord. No. 12137, May 16, 1979, 44 F.R. 29023, set out as a note under [section 2501 of this title](./chapter-034-the-peace-corps.md#section-2501).
+
+#### Benefits for Persons Appointed or Assigned Under Subsec. (a)
+Persons appointed, employed, or assigned under subsec. (a) of this section are not, unless otherwise agreed by the agency in which such benefits may be exercised, entitled to the benefits provided by [section 928 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section928&num=0&edition=prelim) in cases in which their service under the appointment, employment, or assignment exceeds thirty months, see section 1–401 of Ex. Ord. No. 12137, May 16, 1979, 44 F.R. 29023, set out as a note under [section 2501 of this title](./chapter-034-the-peace-corps.md#section-2501).
 
 
 <a id="section-2507"></a>
@@ -1291,11 +1291,11 @@ Subsec. (h). Pub. L. 95–331, § 5(a)(3), added subsec. (h).
 #### Effective Date of 1978 Amendment
 Pub. L. 95–331, § 5(b), Aug. 2, 1978, 92 Stat. 415, provided that: “The amendment made by paragraph (2) of subsection (a) [amending this section] shall apply to claims made after the date of the enactment of this Act [Aug. 2, 1978].”
 
-#### Delegation of Functions; Allocation of Funds
-Funds available to President under this chapter allocated to and functions of President under this section, except subsec. (d) and those functions under subsec. (f) relating to directing agencies to provide services, facilities, and commodities to officers carrying out functions under this chapter, were delegated to Director of Peace Corps by sections 1–103 and 1–301(a), (d) of Ex. Ord. No. 12137, May 16, 1979, 44 F.R. 29203, eff. May 16, 1979, set out as a note under [section 2501 of this title](./chapter-034-the-peace-corps.md#section-2501).
-
 #### Prohibition Against Use of Funds Appropriated After February 15, 1981, and Before December 29, 1981, for Legal Services or Malpractice Protection
 Pub. L. 97–113, title VI, § 604(c), Dec. 29, 1981, 95 Stat. 1543, provided: “To the extent that the authorities provided by the amendments made by subsection (a) [enacting subsecs. (i) and (j) of this section] are authorities which are not applicable with respect to the Peace Corps immediately before the enactment of this Act [Dec. 29, 1981] and which require the expenditure of funds, those authorities may not be exercised using any funds appropriated after February 15, 1981, and before the date of the enactment of this Act.”
+
+#### Delegation of Functions; Allocation of Funds
+Funds available to President under this chapter allocated to and functions of President under this section, except subsec. (d) and those functions under subsec. (f) relating to directing agencies to provide services, facilities, and commodities to officers carrying out functions under this chapter, were delegated to Director of Peace Corps by sections 1–103 and 1–301(a), (d) of Ex. Ord. No. 12137, May 16, 1979, 44 F.R. 29203, eff. May 16, 1979, set out as a note under [section 2501 of this title](./chapter-034-the-peace-corps.md#section-2501).
 
 #### Waiver of Certain Laws by President Under Subsec. (d)
 For determination under subsec. (d) of this section that it is in the furtherance of the purposes of this chapter and that the functions under this chapter may be performed without regard to the applicable laws specified in section 1 and 2 of Ex. Ord. No. 11223, May 12, 1965, 30 F.R. 6635, set out as a note under [section 2393 of this title](./chapter-032-foreign-assistance.md#section-2393), with certain limitations see section 1–402 of Ex. Ord. No. 12137, May 16, 1979, 44 F.R. 29203, set out as a note under [section 2501 of this title](./chapter-034-the-peace-corps.md#section-2501).
@@ -1437,11 +1437,11 @@ Amendment by Pub. L. 96–465 effective Feb. 15, 1981, except as otherwise provi
 #### Effective Date of 1964 Amendment
 Amendment by Pub. L. 88–448 effective on first day of first month which begins later than ninetieth day following Aug. 19, 1964, see Pub. L. 88–448, title IV, § 403, Aug. 19, 1964, 78 Stat. 496.
 
-#### Delegation of Functions
-Functions of President under this section delegated to Director of Peace Corps by section 1–103 of Ex. Ord. No. 12137, May 16, 1979, 44 F.R. 29023, eff. May 16, 1979, set out as a note under [section 2501 of this title](./chapter-034-the-peace-corps.md#section-2501).
-
 #### Peace Corps National Advisory Council
 Abolition of Peace Corps National Advisory Council, see [section 2511 of this title](./chapter-034-the-peace-corps.md#section-2511).
+
+#### Delegation of Functions
+Functions of President under this section delegated to Director of Peace Corps by section 1–103 of Ex. Ord. No. 12137, May 16, 1979, 44 F.R. 29023, eff. May 16, 1979, set out as a note under [section 2501 of this title](./chapter-034-the-peace-corps.md#section-2501).
 
 
 <a id="section-2513"></a>

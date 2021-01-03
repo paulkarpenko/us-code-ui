@@ -115,7 +115,7 @@ Section 212 of the Agricultural Bioterrorism Protection Act of 2002, referred to
 Section 6(j) of the Export Administration Act of 1979, referred to in subsec. (d)(2)(G)(i), was classified to section 2405(j) of the former Appendix to Title 50, War and National Defense, prior to editorial reclassification and renumbering as [section 4605(j) of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4605/j&num=0&edition=prelim), and was repealed by Pub. L. 115–232, div. A, title XVII, § 1766(a), Aug. 13, 2018, 132 Stat. 2232. For provisions similar to those of former [section 4605(j) of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4605/j&num=0&edition=prelim), see [section 4813(c) of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4813/c&num=0&edition=prelim), as enacted by Pub. L. 115–232.
 
 #### Amendments
-2019—Subsec. (a). Pub. L. 116–31, § 2(1), inserted subsec. heading, added pars. (1) and (2), redesignated former par. (2) as (3), inserted par. heading and realigned margin, and struck out former par. (1) which prohibited the shipment, transportation, or possession of certain biological agents or toxins.
+2019—Subsec. (a). Pub. L. 116–31, § 2(1), inserted subsec. heading; added pars. (1) and (2); redesignated former par. (2) as (3), inserted par. heading and realigned margin; and struck out former par. (1) which prohibited the shipment, transportation, or possession of certain biological agents or toxins.
 
 Subsec. (d). Pub. L. 116–31, § 2(2), inserted heading.
 

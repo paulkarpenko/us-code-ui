@@ -435,9 +435,13 @@ Subsec. (a)(3). Pub. L. 109–140, § 3(2), added par. (3).
 Committee on International Relations of House of Representatives changed to Committee on Foreign Affairs of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
 
 #### Continuation of Review Boards for Facilities in Afghanistan and Iraq
-Pub. L. 116–6, div. F, title VII, § 7034(m)(7), Feb. 15, 2019, 133 Stat. 327, provided that: “The authority provided by section 301(a)(3) of the Omnibus Diplomatic Security and Antiterrorism Act of 1986 ([22 U.S.C. 4831(a)(3)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section4831/a/3&num=0&edition=prelim)) shall remain in effect for facilities in Afghanistan through September 30, 2019, except that the notification and reporting requirements contained in such section shall include the Committees on Appropriations.”
+Pub. L. 116–260, div. K, title VII, § 7034(l)(7), Dec. 27, 2020, 134 Stat. 1750, provided that: “The authority provided by section 301(a)(3) of the Omnibus Diplomatic Security and Antiterrorism Act of 1986 ([22 U.S.C. 4831(a)(3)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section4831/a/3&num=0&edition=prelim)) shall remain in effect for facilities in Afghanistan through September 30, 2021, except that the notification and reporting requirements contained in such section shall include the Committees on Appropriations.”
 
 Prior continuations were contained in the following prior acts:
+
+Pub. L. 116–94, div. G, title VII, § 7034(l)(7), Dec. 20, 2019, 133 Stat. 2873.
+
+Pub. L. 116–6, div. F, title VII, § 7034(m)(7), Feb. 15, 2019, 133 Stat. 327.
 
 Pub. L. 115–141, div. K, title VII, § 7034(l)(8), Mar. 23, 2018, 132 Stat. 896.
 
@@ -1056,17 +1060,6 @@ Section was enacted as part of the Secure Embassy Construction and Counterterror
 
 Subsec. (a)(7). Pub. L. 114–323, § 102(2), inserted before period at end “, including at high risk, high threat posts (as such term is defined in [section 4803 of this title](./chapter-058-diplomatic-security.md#section-4803)), including options for the deployment of additional military personnel or equipment to bolster security and rapid deployment of armed or surveillance assets in response to an attack”.
 
-#### Delegation of Authority
-Memorandum of President of the United States, July 17, 2000, 65 F.R. 45511, provided:
-
-Memorandum for the Secretary of Defense
-
-By the authority vested in me by the Constitution and laws of the United States of America, I hereby delegate to the Secretary of Defense the responsibility of the President, under section 606 of the Foreign Relations Authorization Act for Fiscal Years 2000 and 2001 (Public Law 106–113) [[22 U.S.C. 4865](./chapter-058-diplomatic-security.md#section-4865)], to submit the required report to the Congress.
-
-You are hereby authorized and directed to publish this delegation in the Federal Register.
-
-William J. Clinton.
-
 #### Inclusion of Sensitive Compartmented Information Facilities in United States Diplomatic Facilities in Cuba
 Pub. L. 114–113, div. M, title V, § 513, Dec. 18, 2015, 129 Stat. 2926, provided that: “(a) Restricted Access Space Requirement.—Each United States diplomatic facility in Cuba in which classified information will be processed or in which classified communications occur that, after the date of the enactment of this Act [Dec. 18, 2015], is constructed or undergoes a major construction upgrade shall be constructed to include a sensitive compartmented information facility. “(b) National Security Waiver.—The Secretary of State may waive the requirement under subsection (a) if the Secretary—“(1) determines that such waiver is in the national security interest of the United States; and “(2) submits a written justification for such waiver to the appropriate congressional committees not later than 90 days before exercising such waiver. “(c) Appropriate Congressional Committees Defined.—In this section, the term ‘appropriate congressional committees’ means—“(1) the congressional intelligence committees [Select Committee on Intelligence of the Senate and Permanent Select Committee on Intelligence of the House of Representatives]; “(2) the Committee on Foreign Relations and the Committee on Appropriations of the Senate; and “(3) the Committee on Foreign Affairs and the Committee on Appropriations of the House of Representatives.”
 
@@ -1089,6 +1082,17 @@ Pub. L. 106–113, div. B, § 1000(a)(7) [div. A, title VI, § 605], Nov. 29, 19
 For definitions of the terms “Secretary” and “appropriate congressional committees” used in this section and in section 1000(a)(7) [div. A, title VI, § 605] of Pub. L. 106–113, set out as a note above, see section 1000(a)(7) [§ 3] of Pub. L. 106–113, set out as a note under [section 2651 of this title](./chapter-038-department-of-state.md#section-2651).
 
 Pub. L. 106–113, div. B, § 1000(a)(7) [div. A, title VI, § 603], Nov. 29, 1999, 113 Stat. 1536, 1501A–452, provided that: “In this title [enacting this section, amending [section 4831 of this title](./chapter-058-diplomatic-security.md#section-4831), and enacting provisions set out as notes above], the terms ‘United States diplomatic facility’ and ‘diplomatic facility’ mean any chancery, consulate, or other office notified to the host government as diplomatic or consular premises in accordance with the Vienna Conventions on Diplomatic and Consular Relations, or otherwise subject to a publicly available bilateral agreement with the host government (contained in the records of the United States Department of State) that recognizes the official status of the United States Government personnel present at the facility.”
+
+#### Delegation of Authority
+Memorandum of President of the United States, July 17, 2000, 65 F.R. 45511, provided:
+
+Memorandum for the Secretary of Defense
+
+By the authority vested in me by the Constitution and laws of the United States of America, I hereby delegate to the Secretary of Defense the responsibility of the President, under section 606 of the Foreign Relations Authorization Act for Fiscal Years 2000 and 2001 (Public Law 106–113) [[22 U.S.C. 4865](./chapter-058-diplomatic-security.md#section-4865)], to submit the required report to the Congress.
+
+You are hereby authorized and directed to publish this delegation in the Federal Register.
+
+William J. Clinton.
 
 
 <a id="section-4866"></a>

@@ -2,7 +2,7 @@
 title: 38
 chapter: '5'
 heading: AUTHORITY AND DUTIES OF THE SECRETARY
-section_count: 27
+section_count: 29
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38&num=0&edition=prelim
 ---
@@ -54,7 +54,7 @@ Provisions similar to those in this section were contained in [section 223(c) of
 
 **(b)** If the Secretary determines that a veteran, surviving spouse, child of a veteran, or other person has suffered loss as a consequence of reliance upon a determination by the Department of eligibility or entitlement to benefits, without knowledge that it was erroneously made, the Secretary may provide such relief on account of such error as the Secretary determines is equitable, including the payment of moneys to any person whom the Secretary determines is equitably entitled to such moneys.
 
-**(c)** Not later than April 1 of each year, the Secretary shall submit to Congress a report containing a statement as to the disposition of each case recommended to the Secretary for equitable relief under this section during the preceding calendar year. No report shall be required under this subsection after December 31, 2020.
+**(c)** Not later than April 1 of each year, the Secretary shall submit to Congress a report containing a statement as to the disposition of each case recommended to the Secretary for equitable relief under this section during the preceding calendar year. No report shall be required under this subsection after December 31, 2022.
 
 ### Statutory Notes
 
@@ -64,6 +64,8 @@ Prior sections 503 and 504 were renumbered sections 1503 and 1504 of this title,
 Provisions similar to those in this section were contained in section 210(c)(2), (3) of this title prior to repeal by Pub. L. 102–83, § 2(a).
 
 #### Amendments
+2020—Subsec. (c). Pub. L. 116–159 substituted “December 31, 2022” for “December 31, 2020”.
+
 2018—Subsec. (c). Pub. L. 115–251 substituted “December 31, 2020” for “December 31, 2018”.
 
 2017—Subsec. (c). Pub. L. 115–62 substituted “December 31, 2018” for “December 31, 2017”.
@@ -222,6 +224,9 @@ Provisions similar to those in this section were contained in [section 213 of th
 #### Prior Provisions
 Provisions similar to those in this section were contained in sections 224 and 236 of this title prior to repeal by Pub. L. 102–83, § 2(a).
 
+#### Department of Veterans Affairs Requirement To Provide Certain Notice to Persons Filing Claims for Damage, Injury, or Death on Standard Form 95
+Pub. L. 116–315, title VII, § 7010, Jan. 5, 2021, 134 Stat. 5061, provided that: “Not later than 90 days after the date on which a person submits to the Secretary of Veterans Affairs a claim for damage, injury, or death on Standard Form 95, or any successor form, the Secretary shall provide to such person notice of each of the following: “(1) The benefit of obtaining legal advice concerning such claim. “(2) The employment status of any individual listed on the form. “(3) If the claim involves a contractor that entered into an agreement with the Secretary, the importance of obtaining legal advice as to the statute of limitations regarding the claim in the State in which the claim arose.”
+
 
 <a id="section-516"></a>
 ## § 516. Equal employment responsibilities
@@ -298,7 +303,7 @@ Provisions similar to those in this section were contained in sections 224 and 2
 Pub. L. 105–114, title I, § 101(c), Nov. 21, 1997, 111 Stat. 2280, provided that: “[Section 516 of title 38](./chapter-005-authority-and-duties-of-the-secretary.md#section-516), United States Code, as added by subsection (a), shall take effect 90 days after the date of enactment of this Act [Nov. 21, 1997]. Subsection (e) of that section shall take effect with respect to the first quarter of calendar year 1998.”
 
 #### Reports on Implementation and Operation of Equal Employment Opportunity System
-Pub. L. 105–114, title I, § 101(b), Nov. 21, 1997, 111 Stat. 2279, provided that: “(1) The Secretary of Veterans Affairs shall submit to Congress reports on the implementation and operation of the equal employment opportunity system within the Department of Veterans Affairs. The first such report shall be submitted not later than April 1, 1998, and subsequent reports shall be submitted not later than January 1, 1999, and January 1, 2000. “(2) The first report under paragraph (1) shall set forth the actions taken by the Secretary to implement [section 516 of title 38](./chapter-005-authority-and-duties-of-the-secretary.md#section-516), United States Code, as added by subsection (a), and other actions taken by the Secretary in relation to the equal employment opportunity system within the Department of Veterans Affairs. “(3) The subsequent reports under paragraph (1) shall set forth, for each equal employment opportunity field office of the Department and for the Department as a whole, the following:“(A) Any information to supplement the information submitted in the report under paragraph (2) that the Secretary considers appropriate. “(B) The number of requests for counseling relating to employment discrimination received during the one-year period ending on the date of the report concerned. “(C) The number of employment discrimination complaints received during such period. “(D) The status of each complaint described in subparagraph (C), including whether or not the complaint was resolved and, if resolved, whether the employee concerned sought review of the resolution by the Equal Employment Opportunity Commission or by Federal court. “(E) The number of employment discrimination complaints that were settled during such period, including—“(i) the type of such complaints; and “(ii) the terms of settlement (including any settlement amount) of each such complaint.”
+Pub. L. 105–114, title I, § 101(b), Nov. 21, 1997, 111 Stat. 2279, required the Secretary of Veterans Affairs to submit to Congress reports on the implementation and operation of the equal employment opportunity system within the Department of Veterans Affairs setting forth detailed information for each equal employment opportunity field office of the Department, with the first report due not later than Apr. 1, 1998, and subsequent reports due not later than Jan. 1, 1999, and Jan. 1, 2000.
 
 #### Assessment and Review of Employment Discrimination Complaint Resolution System
 Pub. L. 105–114, title I, § 103, Nov. 21, 1997, 111 Stat. 2281, provided that: “(a) Agreement for Assessment and Review.—(1) The Secretary of Veterans Affairs shall seek to enter into an agreement with a qualified private entity under which agreement the entity shall carry out the assessment described in subsection (b) and the review described in subsection (c). “(2) The Secretary shall include in the agreement provisions necessary to ensure that the entity carries out its responsibilities under the agreement (including the exercise of its judgments concerning the assessment and review) in a manner free of influence from any source, including the officials and employees of the Department of Veterans Affairs. “(3) The Secretary may not enter into the agreement until 15 days after the date on which the Secretary notifies the Committees on Veterans’ Affairs of the Senate and House of Representatives of the entity with which the Secretary proposes to enter into the agreement. “(b) Initial Assessment of System.—(1) Under the agreement under subsection (a), the entity shall conduct an assessment of the employment discrimination complaint resolution system administered within the Department of Veterans Affairs, including the extent to which the system meets the objectives set forth in [section 516(a) of title 38](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section516/a&num=0&edition=prelim), United States Code, as added by section 101. The assessment shall include a comprehensive description of the system as of the time of the assessment. “(2) Under the agreement, the entity shall submit the assessment to the committees referred to in subsection (a)(3) and to the Secretary not later than June 1, 1998. “(c) Review of Administration of System.—(1) Under the agreement under subsection (a), the entity shall monitor and review the administration by the Secretary of the employment discrimination complaint resolution system administered within the Department. “(2) Under the agreement, the entity shall submit to the committees referred to in subsection (a)(3) and to the Secretary a report on the results of the review under paragraph (1) not later than June 1, 1999. The report shall include an assessment of the administration of the system, including the extent to which the system meets the objectives referred to in subsection (b)(1), and the effectiveness of the following:“(A) Programs to train and maintain a cadre of individuals who are competent to investigate claims relating to employment discrimination. “(B) Programs to train and maintain a cadre of individuals who are competent to provide counseling to individuals who submit such claims. “(C) Programs to provide education and training to Department employees regarding their rights and obligations under the equal employment opportunity laws. “(D) Programs to oversee the administration of the system. “(E) Programs to evaluate the effectiveness of the system in meeting its objectives. “(F) Other programs, procedures, or activities of the Department relating to the equal employment opportunity laws, including any alternative dispute resolution procedures and informal dispute resolution and settlement procedures. “(G) Any disciplinary measures imposed by the Secretary on employees determined to have violated the equal employment opportunity laws in preventing or deterring violations of such laws by other employees of the Department.”
@@ -452,7 +457,11 @@ Provisions similar to those in this section were contained in [section 216 of th
 
 **(g) Authorization of Appropriations.—**
 
-(1) There is authorized to be appropriated $8,000,000 for each of fiscal years 2010 through 2020.
+(1) There is authorized to be appropriated amounts as follows:
+
+  (A) $8,000,000 for each of fiscal years 2010 through 2020. for each of fiscal years 2010 through 2020.11 So in original. The words “for each of fiscal years 2010 through 2020.” probably should not appear twice.
+
+  (B) $16,000,000 for each of fiscal years 2021 and 2022.
 
 (2) Amounts appropriated pursuant to this subsection shall remain available without fiscal year limitation.
 
@@ -470,11 +479,15 @@ Provisions similar to those in this section were contained in [section 216 of th
 
 **(k) Annual Report to Congress.—** For any fiscal year during which the Secretary provides assistance under this section, the Secretary shall submit to Congress a report on the use of funds provided under this section.
 
-**(l) Termination.—** The Secretary may only provide assistance under this section for adaptive sports opportunities occurring during fiscal years 2010 through 2020.
+**(l) Termination.—** The Secretary may only provide assistance under this section for adaptive sports opportunities occurring during fiscal years 2010 through 2022.
 
 ### Statutory Notes
 
 #### Amendments
+2020—Subsec. (g)(1). Pub. L. 116–159, § 5403(a), substituted “appropriated amounts as follows:” for “appropriated $8,000,000”, inserted “(A) $8,000,000 for each of fiscal years 2010 through 2020.” before “for each of fiscal years 2010 through 2020.”, and added subpar. (B).
+
+Subsec. (l). Pub. L. 116–159, § 5403(b), substituted “2022” for “2020”.
+
 2018—Subsecs. (g)(1), (l). Pub. L. 115–251 substituted “2020” for “2019”.
 
 2017—Subsecs. (g)(1), (l). Pub. L. 115–62 substituted “2019” for “2017”.
@@ -598,6 +611,21 @@ Provisions similar to those in this section were contained in [section 215 of th
 #### Prior Provisions
 Provisions similar to those in this section were contained in [section 219 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section219&num=0&edition=prelim) prior to repeal by Pub. L. 102–83, § 2(a).
 
+#### Requirement for Collection and Analysis of Data on Department of Veterans Affairs Benefits and Services and Disaggregation of Such Data by Gender, Race, and Ethnicity
+Pub. L. 116–315, title V, § 5401, Jan. 5, 2021, 134 Stat. 5045, provided that: “The Secretary of Veterans Affairs shall— “(1) collect and analyze data on each program of the Department of Veterans Affairs that provides a service or benefit to a veteran, including the program carried out under [section 1144 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1144&num=0&edition=prelim), United States Code; “(2) disaggregate such data by gender, race, and ethnicity, when the data lends itself to such disaggregation; and “(3) publish the data collected and analyzed under paragraph (1), except for such cases in which the Secretary determines that some portions of the data would undermine the anonymity of a veteran.”
+
+#### Addition of Burn pit Registration and Other Information to Electronic Health Records of Members of the Armed Forces
+Pub. L. 116–283, div. A, title VII, § 720, Jan. 1, 2021, 134 Stat. 3697, provided that: “(a) Updates to Electronic Health Records.—Beginning not later than one year after the date of the enactment of this Act [Jan. 1, 2021], the Secretary of Defense shall ensure that—“(1) the electronic health record maintained by the Secretary for a member of the Armed Forces registered with the Airborne Hazards and Open Burn Pit Registry is updated with any information contained in such registry with respect to the member; and “(2) any occupational or environmental health exposure recorded in the Defense Occupational and Environmental Health Readiness System (or any successor system) is linked to the electronic health record system of the Department of Defense to notify health professionals treating a member specified in paragraph (1) of any such exposure recorded for the member. “(b) Airborne Hazards and Open Burn Pit Registry Defined.—In this section, the term ‘Airborne Hazards and Open Burn Pit Registry’ means the registry established by the Secretary of Veterans Affairs under section 201 of the Dignified Burial and Other Veterans’ Benefits Improvement Act of 2012 (Public Law 112–260; [38 U.S.C. 527](./chapter-005-authority-and-duties-of-the-secretary.md#section-527) note).”
+
+#### Health Assessments of Veterans Diagnosed With Pandemic Diseases to Determine Exposure to Open Burn Pits and Toxic Airborne Chemicals
+Pub. L. 116–283, div. A, title VII, § 735, Jan. 1, 2021, 134 Stat. 3703, provided that: “(a) Exposure to Open Burn Pits and Toxic Airborne Chemicals or Other Airborne Contaminants as Part of Health Assessments for Veterans During a Pandemic and Inclusion of Information in Registry.—“(1) Health assessments and physical examinations.—The Secretary of Veterans Affairs shall ensure that the first health assessment or physical examination furnished to a veteran under the laws administered by the Secretary after the veteran tests positive for a pathogen, such as a virus, with respect to which a public health emergency has been declared under section 319 of the Public Health Service Act ([42 U.S.C. 247d](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section247d&num=0&edition=prelim)) includes an evaluation of whether the veteran has been—“(A) based or stationed at a location where an open burn pit was used; or “(B) exposed to toxic airborne chemicals or other airborne contaminants relating to service in the Armed Forces, including an evaluation of any information recorded as part of the Airborne Hazards and Open Burn Pit Registry. “(2) Inclusion of individuals in registry.—If an evaluation conducted under paragraph (1) with respect to a veteran establishes that the veteran was based or stationed at a location where an open burn pit was used, or that the individual was exposed to toxic airborne chemicals or other airborne contaminants, the individual shall be enrolled in the Airborne Hazards and Open Burn Pit Registry unless the veteran elects to not enroll in such registry. “(3) Rule of construction.—Nothing in this subsection may be construed to preclude eligibility of a veteran for benefits under the laws administered by the Secretary of Veterans Affairs by reason of the history of exposure of the veteran to an open burn pit not being recorded in an evaluation conducted under paragraph (1). “(b) Study on Impact of Viral Pandemics on Members of Armed Forces and Veterans Who Have Experienced Toxic Exposure.—“(1) In general.—The Secretary of Veterans Affairs shall conduct a study, through the Airborne Hazards and Burn Pits Center of Excellence (in this subsection referred to as the ‘Center’), on the health impacts of infection with a pathogen, such as a virus, with respect to which a public health emergency has been declared under section 319 of the Public Health Service Act ([42 U.S.C. 247d](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section247d&num=0&edition=prelim)), including a coronavirus, to members of the Armed Forces and veterans who have been exposed to open burn pits and other toxic exposures for the purposes of understanding the health impacts of the pathogen and whether individuals infected with the pathogen are at increased risk of severe symptoms due to previous conditions linked to toxic exposure. “(2) Preparation for future pandemic.—The Secretary, through the Center, shall analyze potential lessons learned through the study conducted under paragraph (1) to assist in preparing the Department of Veterans Affairs for potential future pandemics. “(c) Definitions.—In this subsection [probably should be “section”]:“(1) The term ‘Airborne Hazards and Open Burn Pit Registry’ means the registry established by the Secretary of Veterans Affairs under section 201 of the Dignified Burial and Other Veterans’ Benefits Improvement Act of 2012 (Public Law 112–260; [38 U.S.C. 527](./chapter-005-authority-and-duties-of-the-secretary.md#section-527) note). “(2) The term ‘coronavirus’ has the meaning given that term in section 506 of the Coronavirus Preparedness and Response Supplemental Appropriations Act, 2020 (Public Law 116–123 [134 Stat. 155]). “(3) The term ‘open burn pit’ has the meaning given that term in section 201(c) of the Dignified Burial and Other Veterans’ Benefits Improvement Act of 2012 (Public Law 112–260; 126 Stat. 2422; [38 U.S.C. 527](./chapter-005-authority-and-duties-of-the-secretary.md#section-527) note).”
+
+#### Access of Veterans to Individual Longitudinal Exposure Record
+Pub. L. 116–283, div. H, title XCI, § 9105, Jan. 1, 2021, 134 Stat. 4783, provided that: “The Secretary of Veterans Affairs shall provide to a veteran read-only access to the documents of the veteran contained in the Individual Longitudinal Exposure Record in a printable format through a portal accessible through an internet website of the Department of Veterans Affairs.”
+
+#### Access to Information in Burn Pit Registry
+Pub. L. 116–92, div. A, title VII, § 705(c), Dec. 20, 2019, 133 Stat. 1440, provided that: “(1) In general.—The Secretary of Defense shall ensure that all medical personnel of the Department of Defense have access to the information contained in the burn pit registry. “(2) Burn pit registry defined.—In this subsection, the term ‘burn pit registry’ means the registry established under section 201 of the Dignified Burial and Other Veterans’ Benefits Improvement Act of 2012 (Public Law 112–260; [38 U.S.C. 527](./chapter-005-authority-and-duties-of-the-secretary.md#section-527) note).”
+
 #### Education Campaign for Airborne Hazards and Open Burn Pit Registry
 Pub. L. 115–232, div. A, title X, § 1050, Aug. 13, 2018, 132 Stat. 1962, provided that: “(a) Education Campaign.—Beginning not later than one year after the date of the enactment of this Act [Aug. 13, 2018], the Secretary of Defense shall carry out an annual education campaign to inform individuals who may be eligible to enroll in the Airborne Hazards and Open Burn Pit Registry of such eligibility. Each such campaign shall include at least one electronic method and one physical mailing method to provide such information. “(b) Airborne Hazards and Open Burn Pit Registry Defined.—In this section, the term ‘Airborne Hazards and Open Burn Pit Registry’ means the registry established by the Secretary of Veterans Affairs under section 201 of the Dignified Burial and Other Veterans’ Benefits Improvement Act of 2012 (Public Law 112–260; [38 U.S.C. 527](./chapter-005-authority-and-duties-of-the-secretary.md#section-527) note) [set out below].”
 
@@ -608,7 +636,7 @@ Pub. L. 115–91, div. A, title VII, § 738, Dec. 12, 2017, 131 Stat. 1446, prov
 Pub. L. 114–92, div. A, title VII, § 728, Nov. 25, 2015, 129 Stat. 873, provided that: “(a) In General.—Not later than 180 days after the date of the enactment of this Act [Nov. 25, 2015], and periodically thereafter, the Secretary of Defense shall submit to the Secretary of Veterans Affairs such information in the possession of the Secretary of Defense as the Secretary of Veterans Affairs considers necessary to supplement and support—“(1) the development of information to be included in the Airborne Hazards and Open Burn Pit Registry established by the Department of Veterans Affairs under section 201 of the Dignified Burial and Other Veterans’ Benefits Improvement Act of 2012 (Public Law 112–260; [38 U.S.C. 527](./chapter-005-authority-and-duties-of-the-secretary.md#section-527) note); and “(2) research and development activities conducted by the Department of Veterans Affairs to explore the potential health risks of exposure by members of the Armed Forces to environmental factors in Iraq and Afghanistan, in particular the connection of such exposure to respiratory illnesses such as chronic cough, chronic obstructive pulmonary disease, constrictive bronchiolitis, and pulmonary fibrosis. “(b) Inclusion of Certain Information.—The Secretary of Defense shall include in the information submitted to the Secretary of Veterans Affairs under subsection (a) information on any research and surveillance efforts conducted by the Department of Defense to evaluate the incidence and prevalence of respiratory illnesses among members of the Armed Forces who were exposed to open burn pits while deployed overseas.”
 
 #### Establishment of Open Burn Pit Registry
-Pub. L. 112–260, title II, § 201, Jan. 10, 2013, 126 Stat. 2422, provided that: “(a) Establishment of Registry.—“(1) In general.—Not later than one year after the date of the enactment of this Act [Jan. 10, 2013], the Secretary of Veterans Affairs shall—“(A) establish and maintain an open burn pit registry for eligible individuals who may have been exposed to toxic airborne chemicals and fumes caused by open burn pits; “(B) include any information in such registry that the Secretary of Veterans Affairs determines necessary to ascertain and monitor the health effects of the exposure of members of the Armed Forces to toxic airborne chemicals and fumes caused by open burn pits; “(C) develop a public information campaign to inform eligible individuals about the open burn pit registry, including how to register and the benefits of registering; and “(D) periodically notify eligible individuals of significant developments in the study and treatment of conditions associated with exposure to toxic airborne chemicals and fumes caused by open burn pits. “(2) Coordination.—The Secretary of Veterans Affairs shall coordinate with the Secretary of Defense in carrying out paragraph (1). “(b) Report to Congress.—“(1) Reports by independent scientific organization.—The Secretary of Veterans Affairs shall enter into an agreement with an independent scientific organization to prepare reports as follows:“(A) Not later than two years after the date on which the registry under subsection (a) is established, an initial report containing the following:“(i) An assessment of the effectiveness of actions taken by the Secretaries to collect and maintain information on the health effects of exposure to toxic airborne chemicals and fumes caused by open burn pits. “(ii) Recommendations to improve the collection and maintenance of such information. “(iii) Using established and previously published epidemiological studies, recommendations regarding the most effective and prudent means of addressing the medical needs of eligible individuals with respect to conditions that are likely to result from exposure to open burn pits. “(B) Not later than five years after completing the initial report described in subparagraph (A), a follow-up report containing the following:“(i) An update to the initial report described in subparagraph (A). “(ii) An assessment of whether and to what degree the content of the registry established under subsection (a) is current and scientifically up-to-date. “(2) Submittal to congress.—“(A) Initial report.—Not later than two years after the date on which the registry under subsection (a) is established, the Secretary of Veterans Affairs shall submit to Congress the initial report prepared under paragraph (1)(A). “(B) Follow-up report.—Not later than five years after submitting the report under subparagraph (A), the Secretary of Veterans Affairs shall submit to Congress the follow-up report prepared under paragraph (1)(B). “(c) Definitions.—In this section:“(1) Eligible individual.—The term ‘eligible individual’ means any individual who, on or after September 11, 2001—“(A) was deployed in support of a contingency operation while serving in the Armed Forces; and “(B) during such deployment, was based or stationed at a location where an open burn pit was used. “(2) Open burn pit.—The term ‘open burn pit’ means an area of land located in Afghanistan or Iraq that—“(A) is designated by the Secretary of Defense to be used for disposing solid waste by burning in the outdoor air; and “(B) does not contain a commercially manufactured incinerator or other equipment specifically designed and manufactured for the burning of solid waste.”
+Pub. L. 112–260, title II, § 201, Jan. 10, 2013, 126 Stat. 2422, as amended by Pub. L. 116–315, title II, § 2010(g), Jan. 5, 2021, 134 Stat. 4979, provided that: “(a) Establishment of Registry.—“(1) In general.—Not later than one year after the date of the enactment of this Act [Jan. 10, 2013], the Secretary of Veterans Affairs shall—“(A) establish and maintain an open burn pit registry for eligible individuals who may have been exposed to toxic airborne chemicals and fumes caused by open burn pits; “(B) include any information in such registry that the Secretary of Veterans Affairs determines necessary to ascertain and monitor the health effects of the exposure of members of the Armed Forces to toxic airborne chemicals and fumes caused by open burn pits; “(C) develop a public information campaign to inform eligible individuals about the open burn pit registry, including how to register and the benefits of registering; and “(D) periodically notify eligible individuals of significant developments in the study and treatment of conditions associated with exposure to toxic airborne chemicals and fumes caused by open burn pits. “(2) Coordination.—The Secretary of Veterans Affairs shall coordinate with the Secretary of Defense in carrying out paragraph (1). “(b) Report to Congress.—“(1) Reports by independent scientific organization.—The Secretary of Veterans Affairs shall enter into an agreement with an independent scientific organization to prepare reports as follows:“(A) Not later than two years after the date on which the registry under subsection (a) is established, an initial report containing the following:“(i) An assessment of the effectiveness of actions taken by the Secretaries to collect and maintain information on the health effects of exposure to toxic airborne chemicals and fumes caused by open burn pits. “(ii) Recommendations to improve the collection and maintenance of such information. “(iii) Using established and previously published epidemiological studies, recommendations regarding the most effective and prudent means of addressing the medical needs of eligible individuals with respect to conditions that are likely to result from exposure to open burn pits. “(B) Not later than five years after completing the initial report described in subparagraph (A), a follow-up report containing the following:“(i) An update to the initial report described in subparagraph (A). “(ii) An assessment of whether and to what degree the content of the registry established under subsection (a) is current and scientifically up-to-date. “(2) Submittal to congress.—“(A) Initial report.—Not later than two years after the date on which the registry under subsection (a) is established, the Secretary of Veterans Affairs shall submit to Congress the initial report prepared under paragraph (1)(A). “(B) Follow-up report.—Not later than five years after submitting the report under subparagraph (A), the Secretary of Veterans Affairs shall submit to Congress the follow-up report prepared under paragraph (1)(B). “(c) Definitions.—In this section:“(1) Eligible individual.—The term ‘eligible individual’ means any individual who, on or after September 11, 2001—“(A) was deployed in support of a contingency operation while serving in the Armed Forces; and “(B) during such deployment, was based or stationed at a location where an open burn pit was used. “(2) Open burn pit.—The term ‘open burn pit’ means an area of land located in Afghanistan, Iraq, or Uzbekistan that—“(A) is designated by the Secretary of Defense to be used for disposing solid waste by burning in the outdoor air; and “(B) does not contain a commercially manufactured incinerator or other equipment specifically designed and manufactured for the burning of solid waste.”
 
 #### Persian Gulf War Veterans’ Health Status
 Pub. L. 102–585, title VII, Nov. 4, 1992, 106 Stat. 4975, as amended by Pub. L. 103–446, title I, § 108, Nov. 2, 1994, 108 Stat. 4653; Pub. L. 105–368, title I, §§ 104, 106, Nov. 11, 1998, 112 Stat. 3323, 3325; Pub. L. 111–163, title V, § 502, May 5, 2010, 124 Stat. 1157, provided that: “SEC. 701. SHORT TITLE.“This title may be cited as the ‘Persian Gulf War Veterans’ Health Status Act’. “SEC. 702. PERSIAN GULF WAR VETERANS HEALTH REGISTRY.“(a) Establishment of Registry.—The Secretary of Veterans Affairs shall establish and maintain a special record to be known as the ‘Persian Gulf War Veterans Health Registry’ (in this section referred to as the ‘Registry’). “(b) Contents of Registry.—Except as provided in subsection (c), the Registry shall include the following information:“(1) A list containing the name of each individual who served as a member of the Armed Forces in the Persian Gulf theater of operations during the Persian Gulf War and who—“(A) applies for care or services from the Department of Veterans Affairs under chapter 17 of title 38, United States Code; “(B) files a claim for compensation under chapter 11 of such title on the basis of any disability which may be associated with such service; “(C) dies and is survived by a spouse, child, or parent who files a claim for dependency and indemnity compensation under chapter 13 of such title on the basis of such service; “(D) requests from the Department a health examination under section 703; or “(E) receives from the Department of Defense a health examination similar to the health examination referred to in subparagraph (D) and requests inclusion in the Registry. “(2) Relevant medical data relating to the health status of, and other information that the Secretary considers relevant and appropriate with respect to, each individual described in paragraph (1) who—“(A) grants to the Secretary permission to include such information in the Registry; or “(B) at the time the individual is listed in the Registry, is deceased. “(c) Individuals Submitting Claims or Making Requests Before Date of Enactment.—If in the case of an individual described in subsection (b)(1) the application, claim, or request referred to in such subsection was submitted, filed, or made, before the date of the enactment of this Act [Nov. 4, 1992], the Secretary shall, to the extent feasible, include in the Registry such individual’s name and the data and information, if any, described in subsection (b)(2) relating to the individual. “(d) Department of Defense Information.—The Secretary of Defense shall furnish to the Secretary of Veterans Affairs such information maintained by the Department of Defense as the Secretary of Veterans Affairs considers necessary to establish and maintain the Registry. “(e) Relation to Department of Defense Registry.—The Secretary of Veterans Affairs, in consultation with the Secretary of Defense, shall ensure that information is collected and maintained in the Registry in a manner that permits effective and efficient cross-reference between the Registry and the registry established under section 734 of the National Defense Authorization Act for Fiscal Years 1992 and 1993 (Public Law 102–190; 105 Stat. 1411; [10 U.S.C. 1074](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1074&num=0&edition=prelim) note), as amended by section 704. “(f) Ongoing Outreach to Individuals Listed in Registry.—The Secretary of Veterans Affairs shall, from time to time, notify individuals listed in the Registry of significant developments in research on the health consequences of military service in the Persian Gulf theater of operations during the Persian Gulf War. “SEC. 703. HEALTH EXAMINATIONS AND COUNSELING FOR VETERANS ELIGIBLE FOR INCLUSION IN CERTAIN HEALTH-RELATED REGISTRIES.“(a) In General.—(1) The Secretary of Veterans Affairs—“(A) shall, upon the request of a veteran described in subsection (b)(1), provide the veteran with a health examination (including any appropriate diagnostic tests) and consultation and counseling with respect to the results of the examination and the tests; and “(B) may, upon the request of a veteran described in subsection (b)(2), provide the veteran with such an examination (including diagnostic tests) and such consultation and counseling. “(2) The Secretary shall carry out appropriate outreach activities with respect to the provision of any health examinations (including any diagnostic tests) and consultation and counseling services under paragraph (1). “(b) Covered Veterans.—(1) In accordance with subsection (a)(1)(A), the Secretary shall provide an examination (including diagnostic tests), consultation, and counseling under that subsection to any veteran who is eligible for listing or inclusion in the Persian Gulf War Veterans Health Registry established by section 702. “(2) In accordance with subsection (a)(1)(B), the Secretary may provide an examination (including diagnostic tests), consultation, and counseling under that subsection to any veteran who is eligible for listing or inclusion in any other similar health-related registry administered by the Secretary. “SEC. 704. EXPANSION OF COVERAGE OF PERSIAN GULF REGISTRY. “[Amended section 734 of Pub. L. 102–190, set out as a note under [section 1074 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1074&num=0&edition=prelim), Armed Forces.] “SEC. 705. STUDY BY OFFICE OF TECHNOLOGY ASSESSMENT OF PERSIAN GULF REGISTRY AND PERSIAN GULF WAR VETERANS HEALTH REGISTRY.“(a) Study.—The Director of the Office of Technology Assessment shall, in a manner consistent with the Technology Assessment Act of 1972 ([2 U.S.C. 472(d)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section472/d&num=0&edition=prelim) [[2 U.S.C. 471](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section471&num=0&edition=prelim) et seq.]), assess—“(1) the potential utility of each of the Persian Gulf Registry and the Persian Gulf War Veterans Health Registry for scientific study and assessment of the intermediate and long-term health consequences of military service in the Persian Gulf theater of operations during the Persian Gulf War; “(2) the extent to which each registry meets the requirements of the provisions of law under which the registry is established; “(3) the extent to which data contained in each registry—“(A) are maintained in a manner that ensures permanent preservation and facilitates the effective, efficient retrieval of information that is potentially relevant to the scientific study of the intermediate and long-term health consequences of military service in the Persian Gulf theater of operations during the Persian Gulf War; and “(B) would be useful for scientific study regarding such health consequences; “(4) the adequacy of any plans to update each of the registries; “(5) the extent to which the Department of Defense or the Department of Veterans Affairs, as the case may be, is assembling and maintaining information on the Persian Gulf theater of operations (including information on troop locations and atmospheric and weather conditions) in a manner that facilitates the usefulness of, maintenance of, and retrieval of information from, the applicable registry; and “(6) the adequacy and compatibility of protocols for the health examinations and counseling provided under section 703 and health examinations provided by the Department of Defense to members of the Armed Forces for the purpose of assessing the health status of members of the Armed Forces who served in the Persian Gulf theater of operations during the Persian Gulf War. “(b) Access to Information.—The Secretary of Veterans Affairs and the Secretary of Defense shall provide the Director with access to such records and information under the jurisdiction of each such secretary as the Director determines necessary to permit the Director to carry out the study required under this section. “(c) Reports.—The Director shall—“(1) not later than 270 days after the date of the enactment of this Act [Nov. 4, 1992], submit to Congress a report on the results of the assessment carried out under this section of the Persian Gulf Registry and health-examination protocols; and “(2) not later than 15 months after such date, submit to Congress a report on the results of the assessment carried out under this section of the Persian Gulf War Veterans Health Registry. “(d) Definitions.—For the purposes of this section:“(1) The term ‘Persian Gulf Registry’ means the registry established under section 734 of the National Defense Authorization Act for Fiscal Years 1992 and 1993 (Public Law 102–190; 105 Stat. 1411; [10 U.S.C. 1074](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1074&num=0&edition=prelim) note), as amended by section 704. “(2) The term ‘Persian Gulf War Veterans Health Registry’ means the Persian Gulf War Veterans Health Registry established under section 702. “SEC. 706. AGREEMENT WITH NATIONAL ACADEMY OF SCIENCES FOR REVIEW OF HEALTH CONSEQUENCES OF SERVICE DURING THE PERSIAN GULF WAR.“(a) Agreement.—(1) The Secretary of Veterans Affairs and Secretary of Defense jointly shall seek to enter into an agreement with the National Academy of Sciences for the Medical Follow-Up Agency (MFUA) of the Institute of Medicine of the Academy to review existing scientific, medical, and other information on the health consequences of military service in the Persian Gulf theater of operations during the Persian Gulf War. “(2) The agreement shall require MFUA to provide members of veterans organizations and members of the scientific community (including the Director of the Office of Technology Assessment) with the opportunity to comment on the method or methods MFUA proposes to use in conducting the review. “(3) The agreement shall permit MFUA, in conducting the review, to examine and evaluate medical records of individuals who are included in the registries referred to in section 705(d) for purposes that MFUA considers appropriate, including the purpose of identifying illnesses of those individuals. “(4) The Secretary of Veterans Affairs and the Secretary of Defense shall seek to enter into the agreement under this section not later than 180 days after the date of the enactment of this Act [Nov. 4, 1992]. “(b) Report.—(1) The agreement under this section shall require the National Academy of Sciences to submit to the committees and secretaries referred to in paragraph (2) a report on the results of the review carried out under the agreement. Such report shall contain the following:“(A) An assessment of the effectiveness of actions taken by the Secretary of Veterans Affairs and the Secretary of Defense to collect and maintain information that is potentially useful for assessing the health consequences of the military service referred to in subsection (a). “(B) Recommendations on means of improving the collection and maintenance of such information. “(C) Recommendations on whether there is sound scientific basis for an epidemiological study or studies on the health consequences of such service, and if the recommendation is that there is sound scientific basis for such a study or studies, the nature of the study or studies. “(2) The committees and secretaries referred to in paragraph (1) are the following:“(A) The Committees on Veterans’ Affairs of the Senate and House of Representatives. “(B) The Committees on Armed Services of the Senate and House of Representatives. “(C) The Secretary of Veterans Affairs. “(D) The Secretary of Defense. “(c) Funding.—(1) The Secretary of Veterans Affairs and the Secretary of Defense shall make available up to a total of $500,000 in fiscal year 1993, from funds available to the Department of Veterans Affairs and the Department of Defense in that fiscal year, to carry out the review. Any amounts provided by the two departments shall be provided in equal amounts. “(2) If the Secretary of Veterans Affairs and the Secretary of Defense enter into an agreement under subsection (a) with the National Academy of Sciences—“(A) the Secretary of Veterans Affairs shall make available $250,000 in each of fiscal years 1994 through 2003, from amounts available to the Department of Veterans Affairs in each such fiscal year, to the National Academy of Sciences for the general purposes of conducting epidemiological research with respect to military and veterans populations; and “(B) the Secretary of Defense shall make available $250,000 in each of fiscal years 1994 through 2003, from amounts available to the Department of Defense in each such fiscal year, to the National Academy of Sciences for the purposes of carrying out the research referred to in subparagraph (A). “(d) Research Review and Development of Medical Education Curriculum.—(1) In order to further understand the health consequences of military service in the Persian Gulf theater of operations during the Persian Gulf War and of new research findings with implications for improving the provision of care for veterans of such service, the Secretary of Veterans Affairs and the Secretary of Defense shall seek to enter into an agreement with the National Academy of Sciences under which the Institute of Medicine of the Academy would—“(A) develop a curriculum pertaining to the care and treatment of veterans of such service who have ill-defined or undiagnosed illnesses for use in the continuing medical education of both general and specialty physicians who provide care for such veterans; and “(B) on an ongoing basis, periodically review and provide recommendations regarding the research plans and research strategies of the Departments relating to the health consequences of military service in the Persian Gulf theater of operations during the Persian Gulf War. “(2) Recommendations to be provided under paragraph (1)(B) include any recommendations that the Academy considers appropriate for additional scientific studies (including studies related to treatment models) to resolve areas of continuing scientific uncertainty relating to the health consequences of any aspects of such military service. In making recommendations for additional studies, the Academy shall consider the available scientific data, the value and relevance of the information that could result from such studies, and the cost and feasibility of carrying out such studies. “(3) Not later than 9 months after the Institute of Medicine provides the Secretaries the curriculum developed under paragraph (1)(A), the Secretaries shall provide for the conduct of continuing education programs using that curriculum. Those programs shall include instruction which seeks to emphasize use of appropriate protocols of diagnosis, referral, and treatment of such veterans. “SEC. 707. COORDINATION OF HEALTH-RELATED GOVERNMENT ACTIVITIES ON THE PERSIAN GULF WAR.“(a) Designation of Coordinating Organization.—The President shall designate, and may redesignate from time to time, the head of an appropriate department or agency of the Federal Government to coordinate all activities undertaken or funded by the Executive Branch of the Federal Government on the health consequences of military service in the Persian Gulf theater of operations during the Persian Gulf War. “(b) Public Advisory Committee.—Not later than January 1, 1999, the head of the department or agency designated under subsection (a) shall establish an advisory committee consisting of members of the general public, including Persian Gulf War veterans and representatives of such veterans, to provide advice to the head of that department or agency on proposed research studies, research plans, or research strategies relating to the health consequences of military service in the Southwest Asia theater of operations during the Persian Gulf War. The department or agency head shall consult with such advisory committee on a regular basis. “(c) Reports.—(1) Not later than July 1, 2010, and July 1 of each of the five following years, the head of the department or agency designated under subsection (a) shall submit to the Committees on Veterans’ Affairs of the Senate and House of Representatives a report on—“(A) the status and results of all such research activities undertaken by the executive branch during the previous year; and “(B) research priorities identified during that year. “(2)(A) Not later than 120 days after submission of the epidemiological research study conducted by the Department of Veterans Affairs entitled ‘VA National Survey of Persian Gulf Veterans—Phase III’, the head of the department or agency designated under subsection (a) shall submit to the congressional committees specified in paragraph (1) a report on the findings under that study and any other pertinent medical literature. “(B) With respect to any findings of that study and any other pertinent medical literature which identify scientific evidence of a greater relative risk of illness or illnesses in family members of veterans who served in the Persian Gulf War theater of operations than in family members of veterans who did not so serve, the head of the department or agency designated under subsection (a) shall seek to ensure that appropriate research studies are designed to follow up on such findings. “(d) Public Availability of Research Findings.—The head of the department or agency designated under subsection (a) shall ensure that the findings of all research conducted by or for the executive branch relating to the health consequences of military service in the Persian Gulf theater of operations during the Persian Gulf War (including information pertinent to improving provision of care for veterans of such service) are made available to the public through peer-reviewed medical journals, the World Wide Web, and other appropriate media. “(e) Outreach.—The head of the department or agency designated under subsection (a) shall ensure that the appropriate departments consult and coordinate in carrying out an ongoing program to provide information to those who served in the Southwest Asia theater of operations during the Persian Gulf War relating to: (1) the health risks, if any, resulting from any risk factors associated with such service; and (2) any services or benefits available with respect to such health risks. “SEC. 708. DEFINITION.“For the purposes of this title, the term ‘Persian Gulf War’ has the meaning given such term in [section 101(33) of title 38](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section101/33&num=0&edition=prelim), United States Code.”
@@ -682,6 +710,119 @@ Pub. L. 105–368, title X, § 1001(b), Nov. 11, 1998, 112 Stat. 3363, provided 
 
 #### Amendments
 2012—Pub. L. 112–154 inserted “; VetStar Award Program” after “national media” in section catchline, designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
+
+
+<a id="section-533"></a>
+## § 533. Anti-harassment and anti-sexual assault policy
+**(a) Establishment.—**
+
+(1) The Secretary, acting through the Office of Assault and Prevention of the Veterans Health Administration, shall establish a comprehensive policy to end harassment and sexual assault, including sexual harassment and gender-based harassment, throughout the Department.
+
+(2) The policy required by paragraph (1) shall include the following:
+
+  (A) A process for employees and contractors of the Department to respond to reported incidents of harassment and sexual assault committed by any non-Department individual within a facility of the Department, including with respect to accountability or disciplinary measures.
+
+  (B) A process for employees and contractors of the Department to respond to reported incidents of harassment and sexual assault of any non-Department individual within a facility of the Department.
+
+  (C) A process for any non-Department individual to report harassment and sexual assault described in subparagraph (A), including an option for confidential reporting, and for the Secretary to respond to and address such reports.
+
+  (D) Clear mechanisms for non-Department individuals to readily identify to whom and how to report incidents of harassment and sexual assault committed by another non-Department individual.
+
+  (E) Clear mechanisms for employees and contractors of the Department to readily identify to whom and how to report incidents of harassment and sexual assault and how to refer non-Department individuals with respect to reporting an incident of harassment or sexual assault.
+
+  (F) A process for, and mandatory reporting requirement applicable to, any employee or contractor of the Department who witnesses harassment or sexual assault described in subparagraph (A) or (B) within a facility of the Department, regardless of whether the individual affected by such harassment or sexual assault wants to report such harassment or sexual assault.
+
+  (G) The actions possible, including disciplinary actions, for employees or contractors of the Department who fail to report incidents of harassment and sexual assault described in subparagraph (A) or (B) that the employees or contractors witness.
+
+  (H) On an annual or more frequent basis, mandatory training for employees and contractors of the Department regarding how to report and address harassment and sexual assault described in subparagraphs (A) and (B), including bystander intervention training.
+
+  (I) On an annual or more frequent basis, the distribution of the policy under this subsection and anti-harassment and anti-sexual assault educational materials by mail or email to each individual receiving a benefit under a law administered by the Secretary.
+
+  (J) The prominent display of anti-harassment and anti-sexual assault messages in each facility of the Department, including how non-Department individuals may report harassment and sexual assault described in subparagraphs (A) and (B) at such facility and the points of contact under subsection (b).
+
+  (K) The posting on internet websites of the Department, including the main internet website regarding benefits of the Department and the main internet website regarding health care of the Department, of anti-harassment and anti-sexual assault banners specifically addressing harassment and sexual assault described in subparagraphs (A) and (B).
+
+**(b) Points of Contact.—** The Secretary shall designate, as a point of contact to receive reports of harassment and sexual assault described in subparagraphs (A) and (B) of subsection (a)(2)—
+
+(1) at least one individual, in addition to law enforcement, at each facility of the Department (including Vet Centers under [section 1712A of this title](./chapter-017-hospital-nursing-home-domiciliary-and-medical-care.md#section-1712a)), with regard to that facility;
+
+(2) at least one individual employed in each Veterans Integrated Service Network, with regard to facilities in that Veterans Integrated Service Network;
+
+(3) at least one individual employed in each regional benefits office;
+
+(4) at least one individual employed at each location of the National Cemetery Administration; and
+
+(5) at least one individual employed at the Central Office of the Department to track reports of such harassment and sexual assault across the Department, disaggregated by facility.
+
+**(c) Accountability.—**
+
+(1) The Secretary shall establish a policy to ensure that each facility of the Department and each director of a Veterans Integrated Service Network is responsible for addressing harassment and sexual assault at the facility and the Network.
+
+(2) The policy required by paragraph (1) shall include—
+
+  (A) a remediation plan for facilities that experience five or more incidents of sexual harassment, sexual assault, or combination thereof, during any single fiscal year; and
+
+  (B) taking appropriate actions under chapter 7 or subchapter V of chapter 74 of this title.
+
+**(d) Data.—** The Secretary shall ensure that the in-take process for veterans at medical facilities of the Department includes a survey to collect the following information:
+
+(1) Whether the veteran feels safe at the facility and whether any events occurred at the facility that affect such feeling.
+
+(2) Whether the veteran wants to be contacted later by the Department with respect to such safety issues.
+
+**(e) Working Group.—**
+
+(1) The Secretary shall establish a working group to assist the Secretary in implementing policies to carry out this section.
+
+(2) The working group established under paragraph (1) shall consist of representatives from—
+
+  (A) veterans service organizations;
+
+  (B) State, local, and Tribal veterans agencies; and
+
+  (C) other persons the Secretary determines appropriate.
+
+(3) The working group established under paragraph (1) shall develop, and the Secretary shall carry out—
+
+  (A) an action plan for addressing changes at the local level to reduce instances of harassment and sexual assault;
+
+  (B) standardized media for veterans service organizations and other persons to use in print and on the internet with respect to reducing harassment and sexual assault; and
+
+  (C) bystander intervention training for veterans.
+
+(4) The working group established under paragraph (1) shall not be subject to the requirements of the Federal Advisory Committee Act (5 U.S.C. App.).
+
+**(f) Annual Reports.—**
+
+(1) The Secretary shall submit to the Committee on Veterans’ Affairs of the Senate and the Committee on Veterans’ Affairs of the House of Representatives an annual report on harassment and sexual assault described in subparagraphs (A) and (B) of subsection (a)(2) in facilities of the Department.
+
+(2) Each report submitted under paragraph (1) shall include the following:
+
+  (A) Results of harassment and sexual assault programming, including the End Harassment program.
+
+  (B) Results of studies from the Women’s Health Practice-Based Research Network of the Department relating to harassment and sexual assault.
+
+  (C) Data collected on incidents of sexual harassment and sexual assault.
+
+  (D) A description of any actions taken by the Secretary during the year preceding the date of the report to stop harassment and sexual assault at facilities of the Department.
+
+  (E) An assessment of the implementation of the training required in subsection (a)(2)(H).
+
+  (F) A list of resources the Secretary determines necessary to prevent harassment and sexual assault at facilities of the Department.
+
+**(g) Definitions.—** In this section:
+
+(1) The term “non-Department individual” means any individual present at a facility of the Department who is not an employee or contractor of the Department.
+
+(2) The term “sexual harassment” means unsolicited verbal or physical contact of a sexual nature which is threatening in character.
+
+### Statutory Notes
+
+#### References in Text
+The Federal Advisory Committee Act, referred to in subsec. (e)(4), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
+
+#### Deadline
+Pub. L. 116–315, title V, § 5303(d), Jan. 5, 2021, 134 Stat. 5041, provided that: “The Secretary shall commence carrying out section 533 of such title [title 38], as added by subsection (a), not later than 180 days after the date of enactment of this Act [Jan. 5, 2021].”
 
 
 <a id="section-541"></a>
@@ -778,9 +919,11 @@ Advisory committees established after Jan. 5, 1973, to terminate not later than 
 
   (A) an assessment of the needs of women veterans with respect to compensation, health care, rehabilitation, outreach, and other benefits and programs administered by the Department;
 
-  (B) a review of the programs and activities of the Department designed to meet such needs; and
+  (B) a review of the programs and activities of the Department designed to meet such needs;
 
-  (C) such recommendations (including recommendations for administrative and legislative action) as the Committee considers appropriate.
+  (C) an assessment of the effects of intimate partner violence on women veterans; and
+
+  (D) such recommendations (including recommendations for administrative and legislative action) as the Committee considers appropriate.
 
 (2) The Secretary shall, within 60 days after receiving each report under paragraph (1), submit to the Congress a copy of the report, together with any comments concerning the report that the Secretary considers appropriate.
 
@@ -796,6 +939,8 @@ Prior section 542 was renumbered [section 1542 of this title](./chapter-015-pens
 Provisions similar to those in this section were contained in [section 222 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section222&num=0&edition=prelim) prior to repeal by Pub. L. 102–83, § 2(a).
 
 #### Amendments
+2021—Subsec. (c)(1)(C), (D). Pub. L. 116–315 added subpar. (C) and redesignated former subpar. (C) as (D).
+
 2010—Subsec. (a)(2)(A)(iv). Pub. L. 111–163 added cl. (iv).
 
 2008—Subsec. (c)(1). Pub. L. 110–387 struck out “through 2008” after “year” in introductory provisions.
@@ -1143,3 +1288,146 @@ Prior sections 633 to 635 and 641 to 643 were renumbered sections 1733 to 1735 a
 Prior section 644, added Pub. L. 91–178, § 2(a), Dec. 30, 1969, 83 Stat. 836; amended Pub. L. 93–82, title IV, § 403(b), Aug. 2, 1973, 87 Stat. 196, authorized appropriations to be used for making grants to States which had submitted and had approved applications for assistance in remodeling, modification, or alteration of existing hospital or domiciliary facilities in State homes providing care and treatment for veterans, prior to repeal by Pub. L. 95–62, §§ 2, 5, July 5, 1977, 91 Stat. 262, 263, effective Oct. 1, 1977, but with provision for the continuing force and effect of the terms and conditions of grants made prior to Oct. 1, 1977, under prior section 644 and with additional provision for the modification of the terms and conditions of both grants made under that section prior to Oct. 1, 1977, and of grants made under subchapter III of chapter 81 of this title prior to Oct. 1, 1977.
 
 Prior sections 651 to 654 and 661 to 664 were renumbered sections 1751 to 1754 and 1761 to 1764 of this title, respectively.
+
+
+<a id="section-547"></a>
+## § 547. Advisory Committee on Tribal and Indian Affairs
+**(a) Establishment.—**
+
+(1) The Secretary shall establish an advisory committee to provide advice and guidance to the Secretary on matters relating to Indian tribes, tribal organizations, and Native American veterans.
+
+(2) The advisory committee established under paragraph (1) shall be known as the “Advisory Committee on Tribal and Indian Affairs” (in this section referred to as the “Committee”).
+
+(3) The Committee shall facilitate, but not supplant, government-to-government consultation between the Department and Indian tribes or tribal organizations.
+
+(4) The Secretary shall consult with Indian tribes or tribal organizations in developing a charter for the Committee.
+
+**(b) Membership.—**
+
+(1) The Committee shall be comprised of 15 voting members selected by the Secretary from among individuals nominated as specified under this subsection.
+
+(2) In selecting members under paragraph (1), the Secretary shall ensure that—
+
+  (A) at least one member of each of the 12 service areas of the Indian Health Service is represented in the membership of the Committee nominated by Indian tribes or tribal organizations;
+
+  (B) at least one member of the Committee represents the Native Hawaiian veteran community nominated by a Native Hawaiian Organization;
+
+  (C) at least one member of the Committee represents urban Indian organizations nominated by a national urban Indian organization; and
+
+  (D) not fewer than half of the members are veterans, unless the Secretary determines that an insufficient number of qualified veterans were nominated under paragraph (1).
+
+(3) No member of the Committee may be an employee of the Federal Government.
+
+**(c) Terms; Vacancies.—**
+
+(1) A member of the Committee shall be appointed for a term of two years.
+
+(2) The Secretary shall fill a vacancy in the Committee in the same manner as the original appointment within 180 days.
+
+**(d) Meetings.—**
+
+(1)
+
+  (A) Except as provided in subparagraph (B), the Committee shall meet in-person with the Secretary, or the Secretary’s designee, not less frequently than twice each year and hold monthly conference calls as necessary.
+
+  (B) During a public health emergency (as defined in section 20003 of the Coronavirus Aid, Relief, and Economic Security Act (Public Law 116–136)), meetings under subparagraph (A) may be conducted virtually.
+
+(2)
+
+  (A) Representatives of relevant Federal agencies may attend meetings of the Committee and provide information to the Committee.
+
+  (B) One representative of the Office of Tribal Government Relations of the Department shall attend at each meeting of the Committee.
+
+  (C) Representatives attending meetings under this paragraph shall not be considered voting members of the Committee.
+
+  (D) A representative attending a meeting or providing information under this paragraph may not receive additional compensation for services performed with respect to the Committee.
+
+**(e) Subcommittees.—**
+
+(1) The Committee may establish subcommittees.
+
+(2) The Secretary may, in consultation with the Committee, appoint a member to a subcommittee established under paragraph (1) who is not a member of the Committee.
+
+(3) Such subcommittees may enhance the function of the Committee, but may not supersede the authority of the Committee or provide direct advice or work products to the Department.
+
+**(f) Duties.—** The duties of the Committee are as follows:
+
+(1) To advise the Secretary on ways the Department can improve the programs and services of the Department to better serve Native American veterans.
+
+(2) To identify for the Department evolving issues of relevance to Indian tribes, tribal organizations, and Native American veterans relating to programs and services of the Department.
+
+(3) To propose clarifications, recommendations, and solutions to address issues raised at tribal, regional, and national levels, especially regarding any tribal consultation reports.
+
+(4) To provide a forum for Indian tribes, tribal organizations, urban Indian organizations, Native Hawaiian organizations, and the Department to discuss issues and proposals for changes to Department regulations, policies, and procedures.
+
+(5) To identify priorities and provide advice on appropriate strategies for tribal consultation and urban Indian organizations conferring on issues at the tribal, regional, or national levels.
+
+(6) To ensure that pertinent issues are brought to the attention of Indian tribes, tribal organizations, urban Indian organizations, and Native Hawaiian organizations in a timely manner, so that feedback can be obtained.
+
+(7) To encourage the Secretary to work with other Federal agencies and Congress so that Native American veterans are not denied the full benefit of their status as both Native Americans and veterans.
+
+(8) To highlight contributions of Native American veterans in the Armed Forces.
+
+(9) To make recommendations on the consultation policy of the Department on tribal matters.
+
+(10) To support a process to develop an urban Indian organization confer policy to ensure the Secretary confers, to the maximum extent practicable, with urban Indian organizations.
+
+(11) To conduct other duties as recommended by the Committee.
+
+**(g) Reports.—**
+
+(1) Not less frequently than once each year, the Committee shall submit to the Secretary and the appropriate committees of Congress such recommendations as the Committee may have for legislative or administrative action for the upcoming year.
+
+(2) Not later than 90 days after the date on which the Secretary receives a recommendation under paragraph (1), the Secretary shall submit to the appropriate committees of Congress a written response to the recommendation.
+
+(3) Not less frequently than once every two years, the Committee shall submit to the Secretary and the appropriate committees of Congress a report describing the activities of the Committee during the previous two years.
+
+(4) The Secretary shall make publicly available on an Internet website of the Department—
+
+  (A) each recommendation the Secretary receives under paragraph (1);
+
+  (B) each response the Secretary submits under paragraph (2); and
+
+  (C) each report the Secretary receives under paragraph (3).
+
+**(h) Committee Personnel Matters.—** A member of the Committee shall be allowed travel expenses, including per diem in lieu of subsistence, at rates authorized for an employee of an agency under subchapter I of chapter 57 of title 5 while away from the home or regular place of business of the member in the performance of the duties of the Committee.
+
+**(i) Federal Advisory Committee Act Exemption.—** Section 14 of the Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to the Committee.
+
+**(j) Definitions.—** In this section:
+
+(1) The term “appropriate committees of Congress” means—
+
+  (A) the Committee on Veterans’ Affairs and the Committee on Indian Affairs of the Senate; and
+
+  (B) the Committee on Veterans’ Affairs and the Committee on Natural Resources of the House of Representatives.
+
+(2) The term “Indian tribe” has the meaning given such term in section 4 of the Indian Self-Determination and Education Assistance Act ([25 U.S.C. 5304](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5304&num=0&edition=prelim)).
+
+(3) The term “Native Hawaiian organization” means any organization that—
+
+  (A) serves the interests of Native Hawaiians;
+
+  (B) has Native Hawaiians in substantive and policymaking positions within the organization;
+
+  (C) has demonstrated experience working with Native Hawaiian veterans; and
+
+  (D) shall include the Office of Hawaiian Affairs.
+
+(4) The term “Native American veteran” has the meaning given such term in [section 3765 of this title](./chapter-037-housing-and-small-business-loans.md#section-3765).
+
+(5) The term “Office of Hawaiian Affairs” means the Office of Hawaiian Affairs established by the constitution of the State of Hawaii.
+
+(6) The term “tribal organization” has the meaning given such term in [section 3765 of this title](./chapter-037-housing-and-small-business-loans.md#section-3765).
+
+(7) The term “urban Indian organization” has the meaning given such term in section 4 of the Indian Health Care Improvement Act ([25 U.S.C. 1603](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section1603&num=0&edition=prelim)).
+
+### Statutory Notes
+
+#### References in Text
+Section 20003 of the Coronavirus Aid, Relief, and Economic Security Act, referred to in subsec. (d)(1)(B), is section 20003 of Pub. L. 116–136, div. B, title X, Mar. 27, 2020, 134 Stat. 585, which is set out as a Definition of “Public Health Emergency” note under [section 303 of this title](./chapter-003-department-of-veterans-affairs.md#section-303).
+
+Section 14 of the Federal Advisory Committee Act, referred to in subsec. (i), is section 14 of Pub. L. 92–463, which is set out in the Appendix to Title 5, Government Organization and Employees.
+
+#### Deadlines for Establishment, Initial Appointments, and Initial Meeting
+Pub. L. 116–315, title VII, § 7002(b)–(d), Jan. 5, 2021, 134 Stat. 5057, provided that: “(b) Deadline for Establishment.—The Secretary of Veterans Affairs shall establish the advisory committee required by [section 547 of title 38](./chapter-005-authority-and-duties-of-the-secretary.md#section-547), United States Code, as added by subsection (a)(1), not later than 180 days after the date of the enactment of this Act [Jan. 5, 2021]. “(c) Deadline for Initial Appointments.—Not later than 90 days after the date on which the Secretary establishes the advisory committee required by such section, the Secretary shall appoint members under subsection (b)(1) of such section. “(d) Initial Meeting.—Not later than 90 days after the date on which the Secretary establishes the advisory committee required by such section, such advisory committee shall hold its first meeting.”

@@ -10,11 +10,11 @@ source: >-
 ## § 9381. Fatality reviews
 **(a) Review of Fatalities.—** The Secretary of the Air Force shall conduct a multidisciplinary, impartial review (referred to as a “fatality review”) in the case of each fatality known or suspected to have resulted from domestic violence or child abuse against any of the following:
 
-(1) A member of the Air Force on active duty.
+(1) A member of the Air Force or the Space Force on active duty.
 
-(2) A current or former dependent of a member of the Air Force on active duty.
+(2) A current or former dependent of a member of the Air Force or the Space Force on active duty.
 
-(3) A current or former intimate partner who has a child in common or has shared a common domicile with a member of the Air Force on active duty.
+(3) A current or former intimate partner who has a child in common or has shared a common domicile with a member of the Air Force or the Space Force on active duty.
 
 **(b) Matters To Be Included.—** The report of a fatality review under subsection (a) shall, at a minimum, include the following:
 
@@ -60,10 +60,12 @@ Section 9386, act Aug. 10, 1956, ch. 1041, 70A Stat. 570, provided for supplies 
 Section 9387, act Aug. 10, 1956, ch. 1041, 70A Stat. 570, provided for advanced training and compensation therefor.
 
 #### Amendments
+2021—Subsec. (a)(1) to (3). Pub. L. 116–283, § 923(c)(23), inserted “or the Space Force” after “Air Force”.
+
 2018—Pub. L. 115–232 renumbered [section 9061 of this title](./chapter-907-the-air-force.md#section-9061) as this section.
 
 #### Effective Date of 2018 Amendment
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
 
 #### Effective Date
-Section applicable to fatalities that occur on or after Nov. 24, 2003, see section 576(d) of Pub. L. 108–136, set out as a note under [section 4061 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section4061&num=0&edition=prelim).
+Section applicable to fatalities that occur on or after Nov. 24, 2003, see section 576(d) of Pub. L. 108–136, set out as a note under [section 4061 of this title](./chapter-303-innovation.md#section-4061).

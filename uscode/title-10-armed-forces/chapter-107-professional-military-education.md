@@ -80,11 +80,11 @@ Subsecs. (b) and (c) of [section 663 of this title](./chapter-038-joint-officer-
 
 <a id="section-2153"></a>
 ## § 2153. Capstone course: newly selected general and flag officers
-**(a) Requirement.—** Each officer selected for promotion to the grade of brigadier general or, in the case of the Navy, rear admiral (lower half) shall be required, after such selection, to attend a military education course designed specifically to prepare new general and flag officers to work with the other armed forces.
+**(a) Requirement.—** Each officer selected for promotion to the grade of brigadier general or, in the case of the Navy or the commissioned officer corps of the National Oceanic and Atmospheric Administration, rear admiral (lower half) shall be required, after such selection, to attend a military education course designed specifically to prepare new general and flag officers to work with the other uniformed services.
 
 **(b) Waiver Authority.—**
 
-(1) Subject to paragraph (2), the Secretary of Defense may waive subsection (a)—
+(1) Subject to paragraph (2), the Secretary of Defense or the Secretary of Commerce, as applicable, may waive subsection (a)—
 
   (A) in the case of an officer whose immediately previous assignment was in a joint duty assignment and who is thoroughly familiar with joint matters;
 
@@ -100,6 +100,11 @@ Subsecs. (b) and (c) of [section 663 of this title](./chapter-038-joint-officer-
 
 #### References in Text
 [Section 619(e)(4) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section619/e/4&num=0&edition=prelim), referred to in subsec. (b)(1)(C), was repealed by Pub. L. 103–160, div. A, title IX, § 931(b), Nov. 30, 1993, 107 Stat. 1734. See [section 619a(f) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section619a/f&num=0&edition=prelim).
+
+#### Amendments
+2020—Subsec. (a). Pub. L. 116–259, § 205(b)(3)(A), inserted “or the commissioned officer corps of the National Oceanic and Atmospheric Administration” after “in the case of the Navy” and substituted “other uniformed services” for “other armed forces”.
+
+Subsec. (b)(1). Pub. L. 116–259, § 205(b)(3)(B), inserted “or the Secretary of Commerce, as applicable,” after “the Secretary of Defense” in introductory provisions.
 
 
 <a id="section-2154"></a>
@@ -174,7 +179,7 @@ Subsecs. (b) and (c) of [section 663 of this title](./chapter-038-joint-officer-
 Subsec. (a). Pub. L. 109–364, § 1071(a)(14), inserted “Phase” after “Education” in heading.
 
 #### Pilot Program on JPME Phase II on Other Than In-Residence Basis
-Pub. L. 112–81, div. A, title V, § 552(b), Dec. 31, 2011, 125 Stat. 1412, provided that the Secretary of Defense carry out a pilot program to assess the feasibility and advisability of offering a program of instruction under this section on an other than in-residence basis, and provided that the authority for the program would expire five years after Dec. 31, 2011.
+Pub. L. 112–81, div. A, title V, § 552(b), Dec. 31, 2011, 125 Stat. 1412, authorized the Secretary of Defense to carry out a pilot program to assess the feasibility and advisability of offering a program of instruction under this section on an other than in-residence basis and provided that the authority for the program would expire five years after Dec. 31, 2011.
 
 
 <a id="section-2156"></a>

@@ -61,7 +61,7 @@ This chapter, referred to in text, was in the original “this subtitle”, mean
 
 (12) the President of the Export-Import Bank;
 
-(13) the President of the Overseas Private Investment Corporation; and
+(13) the Chief Executive Officer of the United States International Development Finance Corporation; and
 
 (14) such other members as may be appointed by the President from full-time officers or employees of the Federal Government.
 
@@ -70,9 +70,6 @@ This chapter, referred to in text, was in the original “this subtitle”, mean
 **(d) Designees** Any member of the Committee may appoint a designee to serve in place of such member on the Committee.
 
 ### Statutory Notes
-
-#### Amendment of Subsection (b)(13)
-Pub. L. 115–254, div. F, title VI, § 1470(f), (w), Oct. 5, 2018, 132 Stat. 3516, 3519, provided that, effective at the end of the transition period, as defined in [section 9681 of Title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section9681&num=0&edition=prelim), Foreign Relations and Intercourse, subsection (b)(13) of this section is amended by striking “the President of the Overseas Private Investment Corporation” and inserting “the Chief Executive Officer of the United States International Development Finance Corporation”. See 2018 Amendment note below.
 
 #### Amendments
 2018—Subsec. (b)(13). Pub. L. 115–254 substituted “the Chief Executive Officer of the United States International Development Finance Corporation” for “the President of the Overseas Private Investment Corporation”.

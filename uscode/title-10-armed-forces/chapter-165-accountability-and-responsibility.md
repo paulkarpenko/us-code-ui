@@ -661,7 +661,7 @@ Subsec. (b)(2). Pub. L. 103–160, § 1182(a)(8)(A)(i), substituted “chapter 4
 Subsec. (c)(1). Pub. L. 103–160, § 1182(a)(8)(A)(ii), substituted “armed forces” for “Armed Forces”.
 
 #### Standardization of Certain Programs and Activities of Military Exchanges
-Pub. L. 102–484, div. A, title III, § 361, Oct. 23, 1992, 106 Stat. 2379, directs the Secretary of Defense to standardize among the military departments the accounting, financial reporting formats, and automatic data processing and telecommunications data transfer of information by no later than Mar. 31, 1994, and report to Congress, no later than Mar. 31, 1993, on other programs and activities that could be standardized or consolidated.
+Pub. L. 102–484, div. A, title III, § 361, Oct. 23, 1992, 106 Stat. 2379, directed the Secretary of Defense to standardize among the military departments the accounting, financial reporting formats, and automatic data processing and telecommunications data transfer of information by no later than Mar. 31, 1994, and report to Congress, no later than Mar. 31, 1993, on other programs and activities that could be standardized or consolidated.
 
 
 <a id="section-2784"></a>
@@ -730,6 +730,9 @@ Pub. L. 102–484, div. A, title III, § 361, Oct. 23, 1992, 106 Stat. 2379, dir
 
 ### Statutory Notes
 
+#### Transfer of Section
+Pub. L. 116–283, div. A, title XVIII, §§ 1801(d), 1864(b), Jan. 1, 2021, 134 Stat. 4151, 4279, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, this section is transferred to chapter 367 of such title, as amended by section 1864(a) of Pub. L. 116–283, inserted after the table of sections, and redesignated as [section 4754 of this title](./chapter-367-other-administrative-matters.md#section-4754). See Effective Date of 2021 Amendment note below.
+
 #### Amendments
 2012—Subsec. (b)(2) to (15). Pub. L. 112–194 added pars. (2), (11) to (13), and (15) and redesignated former pars. (2) to (7) and (8) as (3) to (8) and (14), respectively.
 
@@ -744,6 +747,9 @@ Subsec. (b)(1) to (6). Pub. L. 107–314, § 1007(b)(1)(C), substituted “purch
 Subsec. (b)(7) to (10). Pub. L. 107–314, § 1007(a)(2), added pars. (7) to (10).
 
 Subsec. (c). Pub. L. 107–314, § 1007(a)(2), added subsec. (c).
+
+#### Effective Date of 2021 Amendment
+Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
 
 #### Regulations
 Pub. L. 106–65, div. A, title IX, § 933(b)(1), Oct. 5, 1999, 113 Stat. 730, provided that: “Regulations under [section 2784 of title 10](./chapter-165-accountability-and-responsibility.md#section-2784), United States Code, as added by subsection (a), shall be prescribed not later than 180 days after the date of the enactment of this Act [Oct. 5, 1999].”
@@ -869,7 +875,7 @@ Pub. L. 106–65, div. A, title X, § 1008(a)(3), Oct. 5, 1999, 113 Stat. 738, p
 
 <a id="section-2787"></a>
 ## § 2787. Reports of survey
-**(a) Action on Reports of Survey.—** Under regulations prescribed pursuant to subsection (c), any officer of the Army, Navy, Air Force, or Marine Corps or any civilian employee of the Department of Defense designated in accordance with those regulations may act upon reports of surveys and vouchers pertaining to the loss, spoilage, unserviceability, unsuitability, or destruction of, or damage to, property of the United States under the control of the Department of Defense.
+**(a) Action on Reports of Survey.—** Under regulations prescribed pursuant to subsection (c), any officer of the Army, Navy, Air Force, Marine Corps, or Space Force or any civilian employee of the Department of Defense designated in accordance with those regulations may act upon reports of surveys and vouchers pertaining to the loss, spoilage, unserviceability, unsuitability, or destruction of, or damage to, property of the United States under the control of the Department of Defense.
 
 **(b) Finality of Action.—**
 
@@ -880,6 +886,9 @@ Pub. L. 106–65, div. A, title X, § 1008(a)(3), Oct. 5, 1999, 113 Stat. 738, p
 **(c) Regulations.—** The Secretary of Defense shall prescribe regulations to carry out this section.
 
 ### Statutory Notes
+
+#### Amendments
+2021—Subsec. (a). Pub. L. 116–283 substituted “Marine Corps, or Space Force” for “or Marine Corps”.
 
 #### Effective Date
 Pub. L. 107–314, div. A, title X, § 1006(d), Dec. 2, 2002, 116 Stat. 2633, provided that: “The amendments made by this section [enacting this section, amending [section 1007 of Title 37](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section1007&num=0&edition=prelim), Pay and Allowances of the Uniformed Services, and repealing sections 4835 and 9835 of this title] shall apply with respect to the loss, spoilage, unserviceability, unsuitability, or destruction of, or damage to, property of the United States under the control of the Department of Defense occurring on or after the effective date of regulations prescribed pursuant to [section 2787 of title 10](./chapter-165-accountability-and-responsibility.md#section-2787), United States Code, as added by subsection (a).”

@@ -465,26 +465,11 @@ Pub. L. 103–322 substituted “fined under this title” for “fined not more
 
 
 <a id="section-1921"></a>
-## § 1921. Receiving Federal employees’ compensation after marriage
-
-Whoever, being entitled to compensation under sections 8107–8113 and 8133 of title 5 and whose compensation by the terms of those sections stops or is reduced on his marriage or on the marriage of his dependent, accepts after such marriage any compensation or payment to which he is not entitled shall be fined under this title or imprisoned not more than one year, or both.
+## § 1921. Repealed. Pub. L. 116–260, div. O, title X, § 1002(9), Dec. 27, 2020, 134 Stat. 2155]
 
 ### Statutory Notes
 
-| Historical and Revision Notes |  |  |
-| --- | --- | --- |
-| Derivation | U.S. Code | Revised Statutes and Statutes at Large |
-|  | [5 U.S.C. 760(L)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section760/L&num=0&edition=prelim). | Sept. 7, 1916, ch. 458, § 10(L) 39 Stat. 745. |
-|  |  | Oct. 14, 1949, ch. 691, § 106(e), 63 Stat. 860. |
-
-The word “Whoever” is substituted for “If any person” to conform to the style of title 18.
-
-The words “under sections 8107–8113 and 8133 of title 55” are substituted for “under this section or section 755 or 756 of this title” to reflect the codification of the sections in title 5, United States Code.
-
-The words “or both” are substituted for “or by both such fine and imprisonment”.
-
-#### Amendments
-1994—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $2,000”.
+Section, added Pub. L. 89–554, § 3(d), Sept. 6, 1966, 80 Stat. 610; amended Pub. L. 103–322, title XXXIII, § 330016(1)(I), Sept. 13, 1994, 108 Stat. 2147, penalized receiving certain Federal employees’ compensation after marriage.
 
 
 <a id="section-1922"></a>

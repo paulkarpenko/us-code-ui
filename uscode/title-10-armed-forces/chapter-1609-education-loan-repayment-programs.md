@@ -31,7 +31,7 @@ source: >-
 
 (2) The Secretary of Defense may repay loans described in paragraph (1) in the case of any person for service performed as a member of the Selected Reserve of the Ready Reserve of an armed force in a reserve component and in an officer program or military specialty specified by the Secretary of Defense. The Secretary may repay such a loan only if the person to whom the loan was made performed such service after the loan was made.
 
-**(b)** The portion or amount of a loan that may be repaid under subsection (a) is 15 percent or $500, whichever is greater, for each year of service, plus the amount of any interest that may accrue during the current year.
+**(b)** The portion or amount of a loan that may be repaid under subsection (a) is 15 percent or $1,000, whichever is greater, for each year of service, plus the amount of any interest that may accrue during the current year.
 
 **(c)** If a portion of a loan is repaid under this section for any year, interest on the remainder of the loan shall accrue and be paid in the same manner as is otherwise required. For the purposes of this section, any interest that has accrued on the loan for periods before the current year shall be considered as within the total loan amount that shall be repaid.
 
@@ -53,6 +53,8 @@ source: >-
 The Higher Education Act of 1965, referred to in subsec. (a)(1), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219. Parts B, D, and E of title IV of the Act are classified to parts B (§ 1071 et seq.), D (§ 1087a et seq.), and E (§ 1087aa et seq.), respectively, of subchapter IV of chapter 28 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under [section 1001 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1001&num=0&edition=prelim) and Tables.
 
 #### Amendments
+2021—Subsec. (b). Pub. L. 116–283 substituted “$1,000” for “$500”.
+
 2017—Subsec. (h). Pub. L. 115–91 inserted “or 373” before “of title 37”.
 
 2011—Subsecs. (h), (i). Pub. L. 111–383 added subsecs. (h) and (i).
@@ -78,6 +80,9 @@ Subsec. (c). Pub. L. 108–136, § 534(2), inserted last sentence.
 1999—Subsec. (g). Pub. L. 106–65 added subsec. (g).
 
 1996—Subsec. (a)(1). Pub. L. 104–106 struck out “or” at end of subpar. (A), added subpar. (B), and redesignated former subpar. (B) as (C).
+
+#### Effective Date of 2021 Amendment
+Pub. L. 116–283, div. A, title V, § 515(b), Jan. 1, 2021, 134 Stat. 3589, provided that: “The amendment made by subsection (a) [amending this section] shall take effect on the date of the enactment of this Act [Jan. 1, 2021] and shall apply with respect to loan repayment under [section 16301 of title 10](./chapter-1609-education-loan-repayment-programs.md#section-16301), United States Code, for eligible years of service completed on or after the date of the enactment of this Act.”
 
 #### Effective Date of 2002 Amendment
 Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Guard to the Department of Homeland Security, see section 1704(g) of Pub. L. 107–296, set out as a note under [section 101 of this title](./chapter-001-definitions.md#section-101).
@@ -112,7 +117,7 @@ Section effective Dec. 1, 1994, except as otherwise provided, see section 1691 o
 
 (2) The annual maximum amount of a loan that may be repaid under this section shall be the same as the maximum amount in effect for the same year under subsection (e)(2) of [section 2173 of this title](./chapter-109-educational-loan-repayment-programs.md#section-2173) for the education loan repayment program under such section.
 
-**(d)** The authority provided in this section shall apply only in the case of a person first appointed as a commissioned officer on or before December 31, 2019.
+**(d)** The authority provided in this section shall apply only in the case of a person first appointed as a commissioned officer on or before December 31, 2021.
 
 ### Statutory Notes
 
@@ -122,6 +127,10 @@ The Higher Education Act of 1965, referred to in subsec. (a)(1) to (3), is Pub. 
 The Public Health Service Act, referred to in subsec. (a)(4), is act July 1, 1944, ch. 373, 58 Stat. 682, as amended. Part A of title VII of the Act is classified generally to part A (§ 292 et seq.) of subchapter V of chapter 6A of Title 42, The Public Health and Welfare. Part B of title VIII of the Act is classified generally to part B (§ 297 et seq.) of subchapter VI of chapter 6A of Title 42. For complete classification of this Act to the Code, see Short Title note set out under [section 201 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section201&num=0&edition=prelim) and Tables.
 
 #### Amendments
+2021—Subsec. (d). Pub. L. 116–283 substituted “December 31, 2021” for “December 31, 2020”.
+
+2019—Subsec. (d). Pub. L. 116–92 substituted “December 31, 2020” for “December 31, 2019”.
+
 2018—Subsec. (d). Pub. L. 115–232 substituted “December 31, 2019” for “December 31, 2018”.
 
 2017—Subsec. (d). Pub. L. 115–91 substituted “December 31, 2018” for “December 31, 2017”.

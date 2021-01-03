@@ -8,9 +8,9 @@ source: >-
 ---
 <a id="section-9561"></a>
 ## § 9561. Rations
-**(a)** The President may prescribe the components, and the quantities thereof, of the Air Force ration. He may direct the issue of equivalent articles in place of the prescribed components whenever, in his opinion, economy and the health and comfort of the members of the Air Force so require.
+**(a)** The President may prescribe the components, and the quantities thereof, of the Air Force ration and the Space Force ration. He may direct the issue of equivalent articles in place of the prescribed components whenever, in his opinion, economy and the health and comfort of the members of the Air Force or the Space Force so require.
 
-**(b)** An enlisted member of the Air Force on active duty is entitled to one ration daily. The emergency ration, when issued, is in addition to the regular ration.
+**(b)** An enlisted member of the Air Force or the Space Force on active duty is entitled to one ration daily. The emergency ration, when issued, is in addition to the regular ration.
 
 **(c)** Fresh or preserved fruits, milk, butter, and eggs necessary for the proper diet of the sick in hospitals shall be provided under regulations approved by the Secretary.
 
@@ -29,6 +29,11 @@ In subsection (b), the words “on active duty” are inserted for clarity. The 
 
 In subsection (c), the words “as the Surgeon General” are omitted, since the Air Force does not have the statutory office of Surgeon General, and functions which, for the Army, are assigned by statute to subordinate officers of the Army are, for the Air Force, assigned to the Secretary of the Air Force. The words “Such quantities of” and “may be allowed” are omitted as surplusage.
 
+#### Amendments
+2021—Subsec. (a). Pub. L. 116–283, § 923(e)(2)(A), inserted “and the Space Force ration” after “the Air Force ration” and “or the Space Force” after “the Air Force”.
+
+Subsec. (b). Pub. L. 116–283, § 923(e)(2)(B), inserted “or the Space Force” after “the Air Force”.
+
 #### Delegation of Authority
 Authority of President under subsec. (a) of this section to prescribe uniform military ration applicable to Air Force delegated to Secretary of Defense by section 3(a) of Ex. Ord. No. 12781, Nov. 20, 1991, 56 F.R. 59203, set out as a note under [section 301 of Title 3](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title3-section301&num=0&edition=prelim), The President.
 
@@ -36,7 +41,7 @@ Authority of President under subsec. (a) of this section to prescribe uniform mi
 <a id="section-9562"></a>
 ## § 9562. Clothing
 
-The President may prescribe the quantity and kind of clothing to be issued annually to members of the Air Force.
+The President may prescribe the quantity and kind of clothing to be issued annually to members of the Air Force and members of the Space Force.
 
 ### Statutory Notes
 
@@ -47,11 +52,14 @@ The President may prescribe the quantity and kind of clothing to be issued annua
 
 The words “members of the Air Force” are substituted for the words “troops of the United States”.
 
+#### Amendments
+2021—Pub. L. 116–283 inserted “and members of the Space Force” after “the Air Force”.
+
 
 <a id="section-9563"></a>
 ## § 9563. Clothing: replacement when destroyed to prevent contagion
 
-The Secretary of the Air Force may order a gratuitous issue of clothing to any enlisted member of the Air Force who has had a contagious disease, and to any hospital attendant who attended him while he had that disease, to replace clothing destroyed by order of a medical officer to prevent contagion.
+The Secretary of the Air Force may order a gratuitous issue of clothing to any enlisted member of the Air Force or the Space Force who has had a contagious disease, and to any hospital attendant who attended him while he had that disease, to replace clothing destroyed by order of a medical officer to prevent contagion.
 
 ### Statutory Notes
 
@@ -61,6 +69,9 @@ The Secretary of the Air Force may order a gratuitous issue of clothing to any e
 | 9563 | 10:834 | R.S. 1298. |
 
 The words “enlisted member” are substituted for the word “soldiers”. The words “any articles of their” are omitted as surplusage. The words “while he had that disease” are inserted for clarity. The words “a medical officer” are substituted for the words “proper medical officers”. The words “on the recommendation of the Surgeon General” are omitted, since the Air Force does not have the statutory office of Surgeon General, and functions which, for the Army, are assigned by statute to subordinate officers of the Army are, for the Air Force, assigned to the Secretary of the Air Force.
+
+#### Amendments
+2021—Pub. L. 116–283 inserted “or the Space Force” after “member of the Air Force”.
 
 
 <a id="section-9564"></a>
@@ -81,14 +92,14 @@ The words “While * * * on shore duty” are substituted for the words “under
 
 <a id="section-9565"></a>
 ## § 9565. Colors, standards, and guidons of demobilized organizations: disposition
-**(a)** The Secretary of the Air Force may dispose of colors, standards, and guidons of demobilized organizations of the Air Force, as follows:
+**(a)** The Secretary of the Air Force may dispose of colors, standards, and guidons of demobilized organizations of the Air Force or the Space Force, as follows:
 
 (1) Those brought into Federal service by the Air National Guard of a State may be returned to that State upon the request of its governor.
 
 (2) Those that cannot be returned under clause (1) may, upon the request of its governor, be sent to the State that, as determined by the Secretary, furnished the majority of members of the organization when it was formed.
 Those that cannot be returned or sent under clause (1) or (2) of this subsection shall be delivered to the Secretary, for such national use as he may direct.
 
-**(b)** Title to colors, standards, and guidons of demobilized organizations of the Air Force remains in the United States.
+**(b)** Title to colors, standards, and guidons of demobilized organizations of the Air Force or the Space Force remains in the United States.
 
 **(c)** No color, standard, or guidon may be disposed of under this section unless provision satisfactory to the Secretary has been made for its preservation and care.
 
@@ -102,3 +113,8 @@ Those that cannot be returned or sent under clause (1) or (2) of this subsection
 | 9565(c) | 5:202 (last sentence). |  |
 
 In subsection (a), the words “Any which were used during their service by such organizations and” are omitted as surplusage. The first 15 words of the last sentence are substituted for 5:202 (1st 45 words of 2d sentence). The words “the Quartermaster General” are omitted, since the functions which, for the Army, are assigned by statute to subordinate officers of the Army, are, for the Air Force, assigned to the Secretary of the Air Force.
+
+#### Amendments
+2021—Subsec. (a). Pub. L. 116–283, § 923(e)(5)(A), inserted “or the Space Force” after “organizations of the Air Force” in introductory provisions.
+
+Subsec. (b). Pub. L. 116–283, § 923(e)(5)(B), inserted “or the Space Force” after “the Air Force”.

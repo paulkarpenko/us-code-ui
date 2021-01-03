@@ -2,7 +2,7 @@
 title: 50
 chapter: '50'
 heading: SERVICEMEMBERS CIVIL RELIEF
-section_count: 62
+section_count: 63
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50&num=0&edition=prelim
 ---
@@ -10,16 +10,27 @@ source: >-
 ## § 3901. Private right of action
 **(a) In general** Any person aggrieved by a violation of this chapter may in a civil action—
 
-(1) obtain any appropriate equitable or declaratory relief with respect to the violation; and
+(1) obtain any appropriate equitable or declaratory relief with respect to the violation;
 
-(2) recover all other appropriate relief, including monetary damages.
+(2) recover all other appropriate relief, including monetary damages; and
+
+(3) be a representative party on behalf of members of a class or be a member of a class, in accordance with the Federal Rules of Civil Procedure, notwithstanding any previous agreement to the contrary.
 
 **(b) Costs and attorney fees** The court may award to a person aggrieved by a violation of this chapter who prevails in an action brought under subsection (a) the costs of the action, including a reasonable attorney fee.
 
 ### Statutory Notes
 
+#### References in Text
+The Federal Rules of Civil Procedure, referred to in subsec. (a)(3), are set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
+
 #### Codification
 Section was formerly classified to section 597a of the former Appendix to this title prior to editorial reclassification and renumbering as this section.
+
+#### Amendments
+2019—Subsec. (a)(3). Pub. L. 116–92 added par. (3).
+
+#### Construction
+Pub. L. 116–92, div. A, title V, § 547(b), Dec. 20, 2019, 133 Stat. 1378, provided that: “The amendments made by subsection (a) [amending this section] shall not be construed to imply that a person aggrieved by a violation of such Act [the Servicemembers Civil Relief Act ([50 U.S.C. 3901](./chapter-050-servicemembers-civil-relief.md#section-3901) et seq.)] did not have a right to bring a civil action as a representative party on behalf of members of a class or be a member of a class in a civil action before the date of the enactment of this Act [Dec. 20, 2019].”
 
 
 <a id="section-3902"></a>
@@ -48,6 +59,9 @@ A prior section 1 of act Oct. 17, 1940, ch. 888, 54 Stat. 1178, provided that th
 
 #### Effective Date
 Pub. L. 108–189, § 3, Dec. 19, 2003, 117 Stat. 2866, provided that: “The amendment made by section 1 [enacting this chapter] shall apply to any case that is not final before the date of the enactment of this Act [Dec. 19, 2003].”
+
+#### Short Title of 2021 Amendment
+Pub. L. 116–285, § 1, Jan. 5, 2021, 134 Stat. 4878, provided that: “This Act [amending [section 3956 of this title](./chapter-050-servicemembers-civil-relief.md#section-3956)] may be cited as the ‘Protecting Families of Fallen Servicemembers Act’.”
 
 #### Short Title of 2016 Amendment
 Pub. L. 114–142, § 1, Mar. 31, 2016, 130 Stat. 326, provided that: “This Act [amending [section 3953 of this title](./chapter-050-servicemembers-civil-relief.md#section-3953) and provisions set out as notes under [section 3953 of this title](./chapter-050-servicemembers-civil-relief.md#section-3953)] may be cited as the ‘Foreclosure Relief and Extension for Servicemembers Act of 2015’.”
@@ -799,13 +813,13 @@ Section applicable to any case not final before Dec. 19, 2003, see section 3 of 
 
 (2) is secured by a mortgage, trust deed, or other security in the nature of a mortgage.
 
-**(b) Stay of proceedings and adjustment of obligation** In an action filed during, or within one year after, a servicemember’s period of military service to enforce an obligation described in subsection (a), the court may after a hearing and on its own motion and shall upon application by a servicemember when the servicemember’s ability to comply with the obligation is materially affected by military service—
+**(b) Stay of proceedings and adjustment of obligation** In an action filed during, or within 90 days after, a servicemember’s period of military service to enforce an obligation described in subsection (a), the court may after a hearing and on its own motion and shall upon application by a servicemember when the servicemember’s ability to comply with the obligation is materially affected by military service—
 
 (1) stay the proceedings for a period of time as justice and equity require, or
 
 (2) adjust the obligation to preserve the interests of all parties.
 
-**(c) Sale or foreclosure** A sale, foreclosure, or seizure of property for a breach of an obligation described in subsection (a) shall not be valid if made during, or within one year after, the period of the servicemember’s military service except—
+**(c) Sale or foreclosure** A sale, foreclosure, or seizure of property for a breach of an obligation described in subsection (a) shall not be valid if made during, or within 90 days after, the period of the servicemember’s military service except—
 
 (1) upon a court order granted before such sale, foreclosure, or seizure with a return made and approved by the court; or
 
@@ -872,25 +886,47 @@ Section applicable to any case not final before Dec. 19, 2003, see section 3 of 
 
 (1) **Termination by lessee** — The lessee on a lease described in subsection (b) may, at the lessee’s option, terminate the lease at any time after—
 
-  (A) the lessee’s entry into military service; or
+  (A) the lessee’s entry into military service;
 
-  (B) the date of the lessee’s military orders described in paragraph (1)(B) or (2)(B) of subsection (b), as the case may be.
+  (B) the date of the lessee’s military orders described in paragraph (1)(B) or (2)(B) of subsection (b), as the case may be; or
+
+  (C) the date of the lessee’s stop movement order described in paragraph (1)(C) or (2)(C) of subsection (b), as the case may be.
 
 (2) **Joint leases** — A lessee’s termination of a lease pursuant to this subsection shall terminate any obligation a dependent of the lessee may have under the lease.
 
-(3) **Death of lessee** — The spouse of the lessee on a lease described in subsection (b)(1) may terminate the lease during the one-year period beginning on the date of the death of the lessee, if the lessee dies while in military service or while performing full-time National Guard duty, active Guard and Reserve duty, or inactive-duty training (as such terms are defined in [section 101(d) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section101/d&num=0&edition=prelim)).
+(3) **Death of lessee** — The spouse or dependent of the lessee on a lease described in subsection (b) may terminate the lease during the one-year period beginning on the date of the death of the lessee, if the lessee dies while in military service or while performing full-time National Guard duty, active Guard and Reserve duty, or inactive-duty training (as such terms are defined in [section 101(d) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section101/d&num=0&edition=prelim)).
+
+(4) **Catastrophic injury or illness of lessee**
+
+  (A) *Termination* — If the lessee on a lease described in subsection (b) incurs a catastrophic injury or illness during a period of military service or while performing covered service, during the one-year period beginning on the date on which the lessee incurs such injury or illness—
+
+    (i) the lessee may terminate the lease; or
+
+    (ii) in the case of a lessee who lacks the mental capacity to contract or to manage his or her own affairs (including disbursement of funds without limitation) due to such injury or illness, the spouse or dependent of the lessee may terminate the lease.
+
+  (B) *Definitions* — In this paragraph:
+
+    (i) The term “catastrophic injury or illness” has the meaning given that term in [section 439(g) of title 37](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section439/g&num=0&edition=prelim).
+
+    (ii) The term “covered service” means full-time National Guard duty, active Guard and Reserve duty, or inactive-duty training (as such terms are defined in [section 101(d) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section101/d&num=0&edition=prelim).
 
 **(b) Covered leases** This section applies to the following leases:
 
 (1) **Leases of premises** — A lease of premises occupied, or intended to be occupied, by a servicemember or a servicemember’s dependents for a residential, professional, business, agricultural, or similar purpose if—
 
-  (A) the lease is executed by or on behalf of a person who thereafter and during the term of the lease enters military service; or
+  (A) the lease is executed by or on behalf of a person who thereafter and during the term of the lease enters military service;
 
-  (B) the servicemember, while in military service, executes the lease and thereafter receives military orders for a permanent change of station or to deploy with a military unit, or as an individual in support of a military operation, for a period of not less than 90 days.
+  (B) the servicemember, while in military service, executes the lease and thereafter receives military orders for a permanent change of station or to deploy with a military unit, or as an individual in support of a military operation, for a period of not less than 90 days; or
+
+  (C) the servicemember, while in military service—
+
+    (i) executes a lease upon receipt of military orders for a permanent change of station or to deploy with a military unit, or as an individual in support of a military operation, for a period of not less than 90 days; and
+
+    (ii) thereafter receives a stop movement order issued by the Secretary concerned in response to a local, national, or global emergency, effective for an indefinite period or for a period of not less than 30 days, which prevents the servicemember or servicemember’s dependents from occupying the lease for a residential, professional, business, agricultural, or similar purpose.
 
 (2) **Leases of motor vehicles** — A lease of a motor vehicle used, or intended to be used, by a servicemember or a servicemember’s dependents for personal or business transportation if—
 
-  (A) the lease is executed by or on behalf of a person who thereafter and during the term of the lease enters military service under a call or order specifying a period of not less than 180 days (or who enters military service under a call or order specifying a period of 180 days or less and who, without a break in service, receives orders extending the period of military service to a period of not less than 180 days); or
+  (A) the lease is executed by or on behalf of a person who thereafter and during the term of the lease enters military service under a call or order specifying a period of not less than 180 days (or who enters military service under a call or order specifying a period of 180 days or less and who, without a break in service, receives orders extending the period of military service to a period of not less than 180 days);
 
   (B) the servicemember, while in military service, executes the lease and thereafter receives military orders—
 
@@ -900,7 +936,13 @@ Section applicable to any case not final before Dec. 19, 2003, see section 3 of 
 
       (II) from a location in a State outside the continental United States to any location outside that State; or
 
-    (ii) to deploy with a military unit, or as an individual in support of a military operation, for a period of not less than 180 days.
+    (ii) to deploy with a military unit, or as an individual in support of a military operation, for a period of not less than 180 days; or
+
+  (C) the servicemember, while in military service—
+
+    (i) executes a lease upon receipt of military orders described in subparagraph (B); and
+
+    (ii) thereafter receives a stop movement order issued by the Secretary concerned in response to a local, national, or global emergency, effective for an indefinite period or for a period of not less than 30 days, which prevents the servicemember, or the servicemember’s dependents, from using the vehicle for personal or business transportation.
 
 **(c) Manner of termination**
 
@@ -914,13 +956,25 @@ Section applicable to any case not final before Dec. 19, 2003, see section 3 of 
 
   (A) by hand delivery;
 
-  (B) by private business carrier; or
+  (B) by private business carrier;
 
-  (C) by placing the written notice in an envelope with sufficient postage and with return receipt requested, and addressed as designated by the lessor (or the lessor’s grantee) or to the lessor’s agent (or the agent’s grantee), and depositing the written notice in the United States mails.
+  (C) by placing the written notice in an envelope with sufficient postage and with return receipt requested, and addressed as designated by the lessor (or the lessor’s grantee) or to the lessor’s agent (or the agent’s grantee), and depositing the written notice in the United States mails; or
+
+  (D) by electronic means, including—
+
+    (i) the direct delivery of material to an electronic address designated by the lessor (or the lessor’s grantee) or the lessor’s agent (or the agent’s grantee);
+
+    (ii) the posting of material to a website or other internet or electronic-based information repository to which access has been granted to the lessee, the lessor (or the lessor’s grantee), or the lessor’s agent (or the agent’s grantee); and
+
+    (iii) other electronic means reasonably calculated to ensure actual receipt of the material by the lessor (or the lessor’s grantee) or the lessor’s agent (or the agent’s grantee).
 
 **(d) Effective date of lease termination**
 
-(1) **Lease of premises** — In the case of a lease described in subsection (b)(1) that provides for monthly payment of rent, termination of the lease under subsection (a) is effective 30 days after the first date on which the next rental payment is due and payable after the date on which the notice under subsection (c) is delivered. In the case of any other lease described in subsection (b)(1), termination of the lease under subsection (a) is effective on the last day of the month following the month in which the notice is delivered.
+(1) **Lease of premises**
+
+  (A) *Entrance to military service, permanent change of station, or deployment* — In the case of a lease described in subparagraph (A) or (B) of subsection (b)(1) that provides for monthly payment of rent, termination of the lease under subsection (a) is effective 30 days after the first date on which the next rental payment is due and payable after the date on which the notice under subsection (c) is delivered. In the case of any other lease described in subparagraphs (A) and (B) of subsection (b)(1) termination of the lease under subsection (a) is effective on the last day of the month following the month in which the notice is delivered.
+
+  (B) *Stop movement orders* — In the case of a lease described in subsection (b)(1)(C), termination of the lease under subsection (a) is effective on the date on which the requirements of subsection (c) are met for such termination.
 
 (2) **Lease of motor vehicles** — In the case of a lease described in subsection (b)(2), termination of the lease under subsection (a) is effective on the day on which the requirements of subsection (c) are met for such termination.
 
@@ -936,11 +990,13 @@ Section applicable to any case not final before Dec. 19, 2003, see section 3 of 
 
 **(h) Misdemeanor** Any person who knowingly seizes, holds, or detains the personal effects, security deposit, or other property of a servicemember or a servicemember’s dependent who lawfully terminates a lease covered by this section, or who knowingly interferes with the removal of such property from premises covered by such lease, for the purpose of subjecting or attempting to subject any of such property to a claim for rent accruing subsequent to the date of termination of such lease, or attempts to do so, shall be fined as provided in title 18, or imprisoned for not more than one year, or both.
 
-**(i) Definitions**
+**(i) Definitions** In this section:
 
-(1) **Military orders** — The term “military orders”, with respect to a servicemember, means official military orders, or any notification, certification, or verification from the servicemember’s commanding officer, with respect to the servicemember’s current or future military duty status.
+(1) **Military orders** — The term “military orders”, with respect to a servicemember, means official military orders (including orders for separation or retirement), or any notification, certification, or verification from the servicemember’s commanding officer, with respect to the servicemember’s current or future military duty status.
 
 (2) **ConUS** — The term “continental United States” means the 48 contiguous States and the District of Columbia.
+
+(3) **Permanent change of station** — The term “permanent change of station” includes separation or retirement from military service.
 
 ### Statutory Notes
 
@@ -951,6 +1007,32 @@ Section was formerly classified to section 535 of the former Appendix to this ti
 A prior section 305 of act Oct. 17, 1940, ch. 888, art. III, as added Oct. 6, 1942, ch. 581, § 12, 56 Stat. 773; amended Pub. L. 102–12, § 9(9), Mar. 18, 1991, 105 Stat. 40, related to protection of assignor of life insurance policy, enforcement of storage liens, and penalties, prior to the general amendment of this Act by Pub. L. 108–189. See sections 3957 and 3958 of this title.
 
 #### Amendments
+2021—Subsec. (a)(3). Pub. L. 116–283, § 549(b), substituted “The spouse or dependent of the lessee” for “The spouse of the lessee”.
+
+Subsec. (a)(4). Pub. L. 116–283, § 549(a), amended par. (4) generally. Prior to amendment, text of par. (4) read as follows: “The spouse of the lessee on a lease described in subsection (b) may terminate the lease during the one-year period beginning on the date on which the lessee incurs a catastrophic injury or illness (as that term is defined in [section 439(g) of title 37](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section439/g&num=0&edition=prelim), if the lessee incurs the catastrophic injury or illness during a period of military service or while performing full-time National Guard duty, active Guard and Reserve duty, or inactive-duty training (as such terms are defined in [section 101(d) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section101/d&num=0&edition=prelim)).”
+
+Subsec. (b)(1)(C)(ii), (2)(C)(ii). Pub. L. 116–315, § 7202(a), substituted “Secretary concerned” for “Secretary of Defense”.
+
+Subsec. (c)(2)(D). Pub. L. 116–315, § 7201(a), added subpar. (D).
+
+2020—Subsec. (a)(1)(C). Pub. L. 116–158, § 1(a), added subpar. (C).
+
+Subsec. (b)(1)(C). Pub. L. 116–158, § 1(b)(1), added subpar. (C).
+
+Subsec. (b)(2)(C). Pub. L. 116–158, § 1(b)(2), added subpar. (C).
+
+Subsec. (d)(1). Pub. L. 116–158, § 1(c), amended par. (1) generally. Prior to amendment, text read as follows: “In the case of a lease described in subsection (b)(1) that provides for monthly payment of rent, termination of the lease under subsection (a) is effective 30 days after the first date on which the next rental payment is due and payable after the date on which the notice under subsection (c) is delivered. In the case of any other lease described in subsection (b)(1), termination of the lease under subsection (a) is effective on the last day of the month following the month in which the notice is delivered.”
+
+Subsec. (i). Pub. L. 116–158, § 1(d), which directed amendment of subsec. (i) by inserting “In this section:” before par. (1) without specifying the section being amended, was executed to subsec. (i) of this section, to reflect the probable intent of Congress.
+
+2019—Subsec. (a)(3). Pub. L. 116–92, § 545(b), substituted “in subsection (b)” for “in subsection (b)(1)”.
+
+Subsec. (a)(4). Pub. L. 116–92, § 545(a), added par. (4).
+
+Subsec. (i)(1). Pub. L. 116–92, § 546(1), inserted “(including orders for separation or retirement)” after “official military orders”.
+
+Subsec. (i)(3). Pub. L. 116–92, § 546(2), added par. (3).
+
 2018—Subsec. (a). Pub. L. 115–407, § 301(1), struck out “by lessee” after “Termination” in heading.
 
 Subsec. (a)(1). Pub. L. 115–407, § 301(2), substituted “Termination by lessee” for “In general” in heading.
@@ -971,6 +1053,14 @@ Subsec. (b)(2)(B)(ii). Pub. L. 108–454, § 704(c), inserted “, or as an indi
 
 Subsec. (i). Pub. L. 108–454, § 704(b)(2), added subsec. (i).
 
+#### Effective Date of 2021 Amendment
+Pub. L. 116–315, title VII, § 7201(b), Jan. 5, 2021, 134 Stat. 5063, provided that: “The amendments made by subsection (a) [amending this section] shall apply to delivery of notice of lease terminations on or after the date the enactment of this Act [Jan. 5, 2021].”
+
+Pub. L. 116–315, title VII, § 7202(b), Jan. 5, 2021, 134 Stat. 5064, provided that: “The amendments made by this section [amending this section] shall apply to stop movement orders issued on or after March 1, 2020.”
+
+#### Effective Date of 2020 Amendment
+Pub. L. 116–158, § 1(e), Aug. 14, 2020, 134 Stat. 708, provided that: “The amendments made by this section [amending this section] shall apply to stop movement orders issued on or after March 1, 2020.”
+
 #### Effective Date
 Section applicable to any case not final before Dec. 19, 2003, see section 3 of Pub. L. 108–189, set out as a note under [section 3901 of this title](./chapter-050-servicemembers-civil-relief.md#section-3901).
 
@@ -984,6 +1074,14 @@ Section applicable to any case not final before Dec. 19, 2003, see section 3 of 
 (2) **Notice** — In the case that a servicemember terminates a contract as described in paragraph (1), the service provider under the contract shall provide such servicemember with written or electronic notice of the servicemember’s rights under such paragraph.
 
 (3) **Manner of termination** — Termination of a contract under paragraph (1) shall be made by delivery of a written or electronic notice of such termination and a copy of the servicemember’s military orders to the service provider, delivered in accordance with industry standards for notification of terminations, together with the date on which the service is to be terminated.
+
+(4) **Additional individuals covered** — For purposes of this section, the following individuals shall be treated as a servicemember covered by paragraph (1):
+
+  (A) A spouse or dependent of a servicemember who dies while in military service or a spouse or dependent of a member of the reserve components who dies while performing duty described in subparagraph (C).
+
+  (B) A spouse or dependent of a servicemember who incurs a catastrophic injury or illness (as that term is defined in [section 439(g) of title 37](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section439/g&num=0&edition=prelim)), if the servicemember incurs the catastrophic injury or illness while in military service or performing duty described in subparagraph (C).
+
+  (C) A member of the reserve components performing military service or performing full-time National Guard duty, active Guard and Reserve duty, or inactive-duty training (as such terms are defined in [section 101(d) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section101/d&num=0&edition=prelim)).
 
 **(b) Covered contracts** A contract described in this subsection is a contract for commercial mobile service, telephone exchange service, internet access service, or multichannel video programming service entered into by the servicemember before receiving the military orders referred to in subsection (a)(1).
 
@@ -1021,6 +1119,8 @@ Section applicable to any case not final before Dec. 19, 2003, see section 3 of 
 Section was formerly classified to section 535a of the former Appendix to this title prior to editorial reclassification and renumbering as this section.
 
 #### Amendments
+2021—Subsec. (a)(4). Pub. L. 116–285 added par. (4).
+
 2018—Pub. L. 115–407, § 304(a)(1), inserted “, multichannel video programming, and internet access” after “telephone” in section catchline.
 
 Subsec. (b). Pub. L. 115–407, § 304(a)(2), substituted “commercial mobile service, telephone exchange service, internet access service, or multichannel video programming service” for “cellular telephone service or telephone exchange service”.
@@ -1943,8 +2043,8 @@ Subsec. (e). Pub. L. 109–233, § 302(a), added subsec. (e).
 Section applicable to any case not final before Dec. 19, 2003, see section 3 of Pub. L. 108–189, set out as a note under [section 3901 of this title](./chapter-050-servicemembers-civil-relief.md#section-3901).
 
 
-<a id="section-4041"></a>
-## § 4041. Guarantee of residency for military personnel and spouses of military personnel
+<a id="section-4027"></a>
+## § 4027. Guarantee of residency for military personnel and spouses of military personnel
 **(a) In general** For the purposes of voting for any Federal office (as defined in [section 30101 of title 52](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title52-section30101&num=0&edition=prelim)) or a State or local office, a person who is absent from a State in compliance with military or naval orders shall not, solely by reason of that absence—
 
 (1) be deemed to have lost a residence or domicile in that State, without regard to whether or not the person intends to return to that State;
@@ -1991,8 +2091,8 @@ Pub. L. 111–97, § 2(c), Nov. 11, 2009, 123 Stat. 3007, provided that: “Subs
 Section applicable to any case not final before Dec. 19, 2003, see section 3 of Pub. L. 108–189, set out as a note under [section 3901 of this title](./chapter-050-servicemembers-civil-relief.md#section-3901).
 
 
-<a id="section-4042"></a>
-## § 4042. Business or trade obligations
+<a id="section-4041"></a>
+## § 4041. Business or trade obligations
 **(a) Availability of non-business assets to satisfy obligations** If the trade or business (without regard to the form in which such trade or business is carried out) of a servicemember has an obligation or liability for which the servicemember is personally liable, the assets of the servicemember not held in connection with the trade or business may not be available for satisfaction of the obligation or liability during the servicemember’s military service.
 
 **(b) Relief to obligors** Upon application to a court by the holder of an obligation or liability covered by this section, relief granted by this section to a servicemember may be modified as justice and equity require.
@@ -2004,6 +2104,17 @@ Section was formerly classified to section 596 of the former Appendix to this ti
 
 #### Effective Date
 Section applicable to any case not final before Dec. 19, 2003, see section 3 of Pub. L. 108–189, set out as a note under [section 3901 of this title](./chapter-050-servicemembers-civil-relief.md#section-3901).
+
+
+<a id="section-4042"></a>
+## § 4042. Guarantee of residency for spouses of servicemembers
+
+For the purposes of establishing the residency of a spouse of a servicemember for any purpose (including the registration of a business), the spouse of a servicemember may elect to use the same residence as the servicemember regardless of the date on which the marriage of the spouse and the servicemember occurred.
+
+### Statutory Notes
+
+#### Codification
+Section 1739(a) of Pub. L. 116–92, which directed amendment of title VI of the Servicemembers Civil Relief Act by adding this section at the end, was executed by adding this section at the end of title VII of the Act, to reflect the probable intent of Congress.
 
 
 <a id="section-4043"></a>

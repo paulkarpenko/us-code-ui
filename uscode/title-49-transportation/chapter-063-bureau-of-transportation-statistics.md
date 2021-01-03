@@ -540,7 +540,7 @@ Section effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out a
 
   (F) the Army Corps of Engineers;
 
-  (G) the Saint Lawrence Seaway Development Corporation;
+  (G) the Great Lakes St. Lawrence Seaway Development Corporation;
 
   (H) the Bureau of Labor Statistics;
 
@@ -586,6 +586,8 @@ Section effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out a
 The date of the enactment of the Transportation for Tomorrow Act of 2015, referred to in subsec. (c)(2), (3), is the date of enactment of title VI of div. A of Pub. L. 114–94, which was approved Dec. 4, 2015.
 
 #### Amendments
+2020—Subsec. (c)(2)(G). Pub. L. 116–260 substituted “Great Lakes St. Lawrence Seaway Development Corporation” for “Saint Lawrence Seaway Development Corporation”.
+
 2019—Subsec. (d)(2). Pub. L. 115–435 substituted “[section 3572 of title 44](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section3572&num=0&edition=prelim).” for “the Confidential Information Protection and Statistical Efficiency Act of 2002 ([44 U.S.C. 3501](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section3501&num=0&edition=prelim) note; Public Law 107–347).”
 
 #### Effective Date of 2019 Amendment

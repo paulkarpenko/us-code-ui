@@ -273,7 +273,15 @@ Section 3 of House Resolution No. 420, Ninety-third Congress, as enacted into pe
 
 (2) the term “Member of the House of Representatives” means a Representative in, or a Delegate or Resident Commissioner to, the Congress.
 
-**(f) Authorization of appropriations** There are authorized to be appropriated to carry out this section $8,800,000 for fiscal year 2019.
+**(f) Authorization of appropriations** There are authorized to be appropriated to carry out this section $8,800,000 for fiscal year 2019, and such sums as may be necessary for fiscal year 2020 and each succeeding fiscal year.
+
+### Statutory Notes
+
+#### Amendments
+2019—Subsec. (f). Pub. L. 116–94 substituted “, and such sums as may be necessary for fiscal year 2020 and each succeeding fiscal year.” for period at end.
+
+#### Effective Date of 2019 Amendment
+Pub. L. 116–94, div. E, title I, § 112(c), Dec. 20, 2019, 133 Stat. 2759, provided that: “The amendments made by this section [amending this section and [section 5507 of this title](./chapter-055-house-of-representatives-officers-and-administration.md#section-5507)] shall take effect as if included in the enactment of section 120 of the Legislative Branch Appropriations Act, 2019 ([2 U.S.C. 5322a](./chapter-053-house-of-representatives-members.md#section-5322a)).”
 
 
 <a id="section-5323"></a>
@@ -393,13 +401,13 @@ Committee on House Oversight of House of Representatives changed to Committee on
 
 <a id="section-5341"></a>
 ## § 5341. Representational allowance for Members of House of Representatives
-**(a) In general** There is established for the House of Representatives a single allowance, to be known as the “Members’ Representational Allowance”, which shall be available to support the conduct of the official and representational duties of a Member of the House of Representatives with respect to the district from which the Member is elected.
+**(a) In general** There is established for the House of Representatives a single allowance, to be known as the “Members’ Representational Allowance”, which shall be available to support the conduct of the official and representational duties of a Member or Member-elect of the House of Representatives with respect to the district from which the Member or Member-elect is elected.
 
 **(b) Merger** The Clerk Hire Allowance, the Official Expenses Allowance, and the Official Mail Allowance, as in effect on the day before September 1, 1995, are merged into the Members’ Representational Allowance.
 
 **(c) “Member of the House of Representatives” defined** As used in this section, the term “Member of the House of Representatives” means a Representative in, or a Delegate or Resident Commissioner to, the Congress.
 
-**(d) Regulations** The Committee on House Oversight of the House of Representatives shall have authority to prescribe regulations to carry out this section.
+**(d) Regulations** The Committee on House Oversight of the House of Representatives shall have authority to prescribe regulations to carry out this section, including regulations establishing under subsection (a) the official and representational duties during a Congress of a Member-elect of the House of Representatives who is not an incumbent Member re-elected to the ensuing Congress.
 
 **(e) Effective date** This section shall take effect on September 1, 1995 and shall apply with respect to official and representational duties carried out on or after that date.
 
@@ -408,8 +416,16 @@ Committee on House Oversight of House of Representatives changed to Committee on
 #### Codification
 Section was formerly classified to [section 57b of this title](./chapter-003-compensation-and-allowances-of-members.md#section-57b) prior to editorial reclassification and renumbering as this section.
 
+#### Amendments
+2020—Subsec. (a). Pub. L. 116–260, § 117(a), substituted “a Member or Member-elect” for “a Member” and “the Member or Member-elect” for “the Member”.
+
+Subsec. (d). Pub. L. 116–260, § 117(b), substituted “, including regulations establishing under subsection (a) the official and representational duties during a Congress of a Member-elect of the House of Representatives who is not an incumbent Member re-elected to the ensuing Congress.” for period at end.
+
 #### Change of Name
 Committee on House Oversight of House of Representatives changed to Committee on House Administration of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999.
+
+#### Effective Date of 2020 Amendment
+Pub. L. 116–260, div. I, title I, § 117(c), Dec. 27, 2020, 134 Stat. 1641, provided that: “The amendments made by this section [amending this section] shall apply with respect to Members-elect of the House of Representatives for the One Hundred Seventeenth Congress and each succeeding Congress.”
 
 
 <a id="section-5342"></a>

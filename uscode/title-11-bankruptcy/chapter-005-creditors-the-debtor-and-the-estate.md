@@ -18,7 +18,34 @@ source: >-
 
 **(e)** A claim arising from the liability of a debtor for fuel use tax assessed consistent with the requirements of [section 31705 of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section31705&num=0&edition=prelim) may be filed by the base jurisdiction designated pursuant to the International Fuel Tax Agreement (as defined in [section 31701 of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section31701&num=0&edition=prelim)) and, if so filed, shall be allowed as a single claim.
 
+**(f)**
+
+(1) In this subsection—
+
+  (A) the term “CARES forbearance claim” means a supplemental claim for the amount of a Federally backed mortgage loan or a Federally backed multifamily mortgage loan that was not received by an eligible creditor during the forbearance period of a loan granted forbearance under section 4022 or 4023 of the CARES Act ([15 U.S.C. 9056](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section9056&num=0&edition=prelim), 9057);
+
+  (B) the term “eligible creditor” means a servicer (as defined in section 6(i) of the Real Estate Settlement Procedures Act of 1974 ([12 U.S.C. 2605(i)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section2605/i&num=0&edition=prelim)) with a claim for a Federally backed mortgage loan or a Federally backed multifamily mortgage loan of the debtor that is provided for by a plan under section 1322(b)(5);
+
+  (C) the term “Federally backed mortgage loan” has the meaning given the term in section 4022(a) of the CARES Act ([15 U.S.C. 9056(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section9056/a&num=0&edition=prelim)); and
+
+  (D) the term “Federally backed multifamily mortgage loan” has the meaning given the term in section 4023(f) of the CARES Act ([15 U.S.C. 9057(f)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section9057/f&num=0&edition=prelim)).
+
+(2)
+
+  (A) Only an eligible creditor may file a supplemental proof of claim for a CARES forbearance claim.
+
+  (B) If an underlying mortgage loan obligation has been modified or deferred by an agreement of the debtor and an eligible creditor of the mortgage loan in connection with a mortgage forbearance granted under section 4022 or 4023 of the CARES Act ([15 U.S.C. 9056](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section9056&num=0&edition=prelim), 9057) in order to cure mortgage payments forborne under the forbearance, the proof of claim filed under subparagraph (A) shall include—
+
+    (i) the relevant terms of the modification or deferral;
+
+    (ii) for a modification or deferral that is in writing, a copy of the modification or deferral; and
+
+    (iii) a description of the payments to be deferred until the date on which the mortgage loan matures.
+
 ### Statutory Notes
+
+#### Amendment of Subsection (f)
+Pub. L. 116–260, div. FF, title X, § 1001(d)(3), Dec. 27, 2020, 134 Stat. 3218, provided that, effective on the date that is 1 year after Dec. 27, 2020, this section is amended by striking subsection (f). See 2020 Amendment note below.
 
 #### legislative statements
 The House amendment adopts section 501(b) of the Senate amendment leaving the Rules of Bankruptcy Procedure free to determine where a proof of claim must be filed.
@@ -45,9 +72,16 @@ Subsection (d) governs the filing of claims of the kind specified in subsections
 Subsection (e) gives governmental units (including tax authorities) at least six months following the date for the first meeting of creditors in a chapter 7 or chapter 13 case within which to file proof of claims.
 
 #### Amendments
+2020—Subsec. (f). Pub. L. 116–260, § 1001(d)(3)(A), struck out subsec. (f) which related to CARES forbearance claims.
+
+Pub. L. 116–260, § 1001(d)(1), added subsec. (f).
+
 2005—Subsec. (e). Pub. L. 109–8 added subsec. (e).
 
 1984—Subsec. (d). Pub. L. 98–353 inserted “502(e)(2),”.
+
+#### Effective Date of 2020 Amendment
+Pub. L. 116–260, div. FF, title X, § 1001(d)(3), Dec. 27, 2020, 134 Stat. 3218, provided that the amendment made by section 1001(d)(3)(A) is effective on the date that is 1 year after Dec. 27, 2020.
 
 #### Effective Date of 2005 Amendment
 Amendment by Pub. L. 109–8 effective 180 days after Apr. 20, 2005, and not applicable with respect to cases commenced under this title before such effective date, except as otherwise provided, see section 1501 of Pub. L. 109–8, set out as a note under [section 101 of this title](./chapter-001-general-provisions.md#section-101).
@@ -97,7 +131,13 @@ Pub. L. 103–394, title III, § 304(g), Oct. 22, 1994, 108 Stat. 4134, provided
 
 (8) such claim results from a reduction, due to late payment, in the amount of an otherwise applicable credit available to the debtor in connection with an employment tax on wages, salaries, or commissions earned from the debtor; or
 
-(9) proof of such claim is not timely filed, except to the extent tardily filed as permitted under paragraph (1), (2), or (3) of [section 726(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title11-section726/a&num=0&edition=prelim) or under the Federal Rules of Bankruptcy Procedure, except that a claim of a governmental unit shall be timely filed if it is filed before 180 days after the date of the order for relief or such later time as the Federal Rules of Bankruptcy Procedure may provide, and except that in a case under chapter 13, a claim of a governmental unit for a tax with respect to a return filed under section 1308 shall be timely if the claim is filed on or before the date that is 60 days after the date on which such return was filed as required.
+(9) proof of such claim is not timely filed, except to the extent tardily filed as permitted under paragraph (1), (2), or (3) of section 726(a) or under the Federal Rules of Bankruptcy Procedure, except that—
+
+  (A) a claim of a governmental unit shall be timely filed if it is filed before 180 days after the date of the order for relief or such later time as the Federal Rules of Bankruptcy Procedure may provide;
+
+  (B) in a case under chapter 13, a claim of a governmental unit for a tax with respect to a return filed under section 1308 shall be timely if the claim is filed on or before the date that is 60 days after the date on which such return was filed as required; and
+
+  (C) a CARES forbearance claim (as defined in section 501(f)(1)) shall be timely filed if the claim is filed before the date that is 120 days after the expiration of the forbearance period of a loan granted forbearance under section 4022 or 4023 of the CARES Act ([15 U.S.C. 9056](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section9056&num=0&edition=prelim), 9057).
 
 **(c)** There shall be estimated for purpose of allowance under this section—
 
@@ -154,6 +194,17 @@ Pub. L. 103–394, title III, § 304(g), Oct. 22, 1994, 108 Stat. 4134, provided
   (B) the proposed alternative repayment schedule was made prior to expiration of the 60-day period specified in paragraph (1)(B)(i).
 
 ### Statutory Notes
+
+#### Amendment of Subsection (b)(9)
+Pub. L. 116–260, div. FF, title X, § 1001(d)(3), Dec. 27, 2020, 134 Stat. 3218, provided that, effective on the date that is 1 year after Dec. 27, 2020, subsection (b)(9) of this section is amended:
+
+(1) in subparagraph (A), by adding “and” at the end;
+
+(2) in subparagraph (B), by striking “; and” and inserting a period; and
+
+(3) by striking subparagraph (C).
+
+See 2020 Amendment note below.
 
 #### legislative statements
 The House amendment adopts a compromise position in section 502(a) between H.R. 8200, as passed by the House, and the Senate amendment. Section 502(a) has been modified to make clear that a party in interest includes a creditor of a partner in a partnership that is a debtor under chapter 7. Since the trustee of the partnership is given an absolute claim against the estate of each general partner under section 723(c), creditors of the partner must have standing to object to claims against the partnership at the partnership level because no opportunity will be afforded at the partner’s level for such objection.
@@ -248,6 +299,10 @@ Paragraph (9) [of subsec. (b)] requires disallowance of certain employment tax c
 The Federal Rules of Bankruptcy Procedure, referred to in subsec. (b)(9), are set out in the Appendix to this title.
 
 #### Amendments
+2020—Subsec. (b)(9). Pub. L. 116–260, § 1001(d)(2), amended par. (9) generally. Prior to amendment, par. (9) read as follows: “proof of such claim is not timely filed, except to the extent tardily filed as permitted under paragraph (1), (2), or (3) of [section 726(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title11-section726/a&num=0&edition=prelim) or under the Federal Rules of Bankruptcy Procedure, except that a claim of a governmental unit shall be timely filed if it is filed before 180 days after the date of the order for relief or such later time as the Federal Rules of Bankruptcy Procedure may provide, and except that in a case under chapter 13, a claim of a governmental unit for a tax with respect to a return filed under section 1308 shall be timely if the claim is filed on or before the date that is 60 days after the date on which such return was filed as required.”
+
+Subsec. (b)(9)(C). Pub. L. 116–260, § 1001(d)(3)(B), struck out subpar. (C) which read as follows: “a CARES forbearance claim (as defined in section 501(f)(1)) shall be timely filed if the claim is filed before the date that is 120 days after the expiration of the forbearance period of a loan granted forbearance under section 4022 or 4023 of the CARES Act ([15 U.S.C. 9056](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section9056&num=0&edition=prelim), 9057).”
+
 2005—Subsec. (b)(9). Pub. L. 109–8, § 716(d), inserted “, and except that in a case under chapter 13, a claim of a governmental unit for a tax with respect to a return filed under section 1308 shall be timely if the claim is filed on or before the date that is 60 days after the date on which such return was filed as required” before period at end.
 
 Subsec. (g). Pub. L. 109–8, § 910(b), designated existing provisions as par. (1) and added par. (2).
@@ -305,6 +360,9 @@ Subsec. (e)(1)(C). Pub. L. 98–353, § 445(d)(4), substituted “asserts a righ
 Subsec. (h). Pub. L. 98–353, § 445(e), substituted “522” for “522(i)”.
 
 Subsec. (j). Pub. L. 98–353, § 445(f), amended subsec. (j) generally, inserting provisions relating to reconsideration of a disallowed claim, and provisions relating to reconsideration of a claim under this subsection.
+
+#### Effective Date of 2020 Amendment
+Amendment by section 1001(d)(3)(B) of Pub. L. 116–260 effective on the date that is 1 year after Dec. 27, 2020, see section 1001(d)(3) of div. FF of Pub. L. 116–260, set out as a note under [section 501 of this title](./chapter-005-creditors-the-debtor-and-the-estate.md#section-501).
 
 #### Effective Date of 2005 Amendment
 Amendment by Pub. L. 109–8 effective 180 days after Apr. 20, 2005, and not applicable with respect to cases commenced under this title before such effective date, except as otherwise provided, see section 1501 of Pub. L. 109–8, set out as a note under [section 101 of this title](./chapter-001-general-provisions.md#section-101).
@@ -401,6 +459,27 @@ Amendment by Pub. L. 98–353 effective with respect to cases filed 90 days afte
 
 ### Statutory Notes
 
+#### Amendment of Subsection (b) and Termination of Amendment
+Pub. L. 116–260, div. N, title III, § 320(b), (f)(1), Dec. 27, 2020, 134 Stat. 2015, 2016, provided that, effective on the date on which the Administrator of the Small Business Administration submits to the Director of the Executive Office for United States Trustees a written determination that, subject to satisfying any other eligibility requirements, any debtor in possession or trustee that is authorized to operate the business of the debtor under section 1183, 1184, 1203, 1204, or 1304 of this title would be eligible for a loan under paragraphs (36) and (37) of [section 636(a) of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section636/a&num=0&edition=prelim), Commerce and Trade, and applicable to any case pending on or commenced on or after such effective date, subsection (b) of this section is amended—
+
+(1) in paragraph (8)(B), by striking “and” at the end;
+
+(2) in paragraph (9), by striking the period at the end and inserting “; and”; and
+
+(3) by adding at the end the following:
+
+(10) any debt incurred under [section 364(g)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title11-section364/g/1&num=0&edition=prelim).
+
+Pub. L. 116–260, div. N, title III, § 320(f)(2), Dec. 27, 2020, 134 Stat. 2016, provided that, if the amendment made to this section by Pub. L. 116–260, § 320(b), takes effect, effective on the date that is 2 years after Dec. 27, 2020, with provisions relating to applicability to cases commenced before such date, subsection (b) of this section is amended—
+
+(1) in paragraph (8)(B), by adding “and” at the end;
+
+(2) in paragraph (9), by striking “; and” at the end and inserting a period; and
+
+(3) by striking paragraph (10).
+
+See 2020 Amendment notes below.
+
 #### legislative statements
 Section 503(a) of the House amendment represents a compromise between similar provisions in the House bill and the Senate amendment by leaving to the Rules of Bankruptcy Procedure the determination of the location at which a request for payment of an administrative expense may be filed. The preamble to section 503(b) of the House bill makes a similar change with respect to the allowance of administrative expenses.
 
@@ -422,6 +501,10 @@ Compensation and reimbursement awarded officers of the estate under section 330 
 Paragraph (4) permits reasonable compensation for professional services rendered by an attorney or an accountant of an equity whose expense is compensable under the previous paragraph. Paragraph (5) permits reasonable compensation for an indenture trustee in making a substantial contribution in a reorganization or municipal debt adjustment case. Finally, paragraph (6) permits witness fees and mileage as prescribed under chapter 119 [§ 2041 et seq.] of title 28.
 
 #### Amendments
+2020—Subsec. (b). Pub. L. 116–260, § 320(f)(2)(A)(ii), contingent on its addition by Pub. L. 116–260, § 320(b), struck out par. (10) which read as follows: “any debt incurred under [section 364(g)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title11-section364/g/1&num=0&edition=prelim).”
+
+Pub. L. 116–260, § 320(b), added par. (10).
+
 2005—Subsec. (b)(1)(A). Pub. L. 109–8, § 329, amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “the actual, necessary costs and expenses of preserving the estate, including wages, salaries, or commissions for services rendered after the commencement of the case;”.
 
 Subsec. (b)(1)(B)(i). Pub. L. 109–8, § 712(b), inserted “whether secured or unsecured, including property taxes for which liability is in rem, in personam, or both,” before “except”.
@@ -463,6 +546,9 @@ Subsec. (b)(3)(C). Pub. L. 98–353, § 446(5), struck out the comma after “ca
 Subsec. (b)(5). Pub. L. 98–353, § 446(6), struck out “and” after “title;”.
 
 Subsec. (b)(6). Pub. L. 98–353, § 446(7), substituted “; and” for period at end.
+
+#### Effective and Termination Dates of 2020 Amendment
+Amendment by section 320(b) of div. N of Pub. L. 116–260 effective on the date on which the Administrator of the Small Business Administration submits to the Director of the Executive Office for United States Trustees a written determination relating to loan eligibility under pars. (36) and (37) of [section 636(a) of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section636/a&num=0&edition=prelim), Commerce and Trade, and applicable to any case pending on or commenced on or after such date, and amendment by section 320(f)(2)(A)(ii) of div. N of Pub. L. 116–260, relating to repeal of such amendment if it became effective, effective two years after Dec. 27, 2020, see section 320(f) of Pub. L. 116–260, set out as a note under [section 364 of this title](./chapter-003-case-administration.md#section-364).
 
 #### Effective Date of 2005 Amendment
 Amendment by Pub. L. 109–8 effective 180 days after Apr. 20, 2005, and not applicable with respect to cases commenced under this title before such effective date, except as otherwise provided, see section 1501 of Pub. L. 109–8, set out as a note under [section 101 of this title](./chapter-001-general-provisions.md#section-101).
@@ -781,9 +867,20 @@ Amendment by Pub. L. 98–353 effective with respect to cases filed 90 days afte
 
 **(c)** For the purpose of subsection (a) of this section, a claim of a governmental unit arising from an erroneous refund or credit of a tax has the same priority as a claim for the tax to which such refund or credit relates.
 
-**(d)** An entity that is subrogated to the rights of a holder of a claim of a kind specified in subsection (a)(1), (a)(4), (a)(5), (a)(6), (a)(7), (a)(8), or (a)(9) of this section is not subrogated to the right of the holder of such claim to priority under such subsection.
+**(d)** An entity that is subrogated to the rights of a holder of a claim of a kind specified in subsection (a)(1), (a)(4), (a)(5), (a)(6), (a)(7), or (a)(9) or subparagraphs (A) through (E) and (G) of subsection (a)(8) of this section is not subrogated to the right of the holder of such claim to priority under such subsection or subparagraph.
 
 ### Statutory Notes
+
+#### Amendment of Subsection (d)
+Pub. L. 116–260, div. FF, title X, § 1001(i)(2), Dec. 27, 2020, 134 Stat. 3221, provided that, effective on the date that is 1 year after Dec. 27, 2020, subsection (d) of this section is amended:
+
+(1) by inserting “, (a)(8)” before “, or (a)(9)”;
+
+(2) by striking “or subparagraphs (A) through (E) and (G) of subsection (a)(8)”; and
+
+(3) by striking “or subparagraph” after “such subsection”.
+
+See 2020 Amendment note below.
 
 #### legislative statements
 Section 507(a)(3) of the House amendment represents a compromise dollar amount and date for the priority between similar provisions contained in H.R. 8200 as passed by the House and the Senate amendments. A similar compromise is contained in section 507(a)(4).
@@ -907,6 +1004,10 @@ Subsection (b) also provides that a claim arising from an erroneous refund or cr
 Section 13(3) of the Federal Reserve Act, referred to in subsec. (a)(2), is classified to [section 343(3) of Title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section343/3&num=0&edition=prelim), Banks and Banking.
 
 #### Amendments
+2020—Subsec. (d). Pub. L. 116–260, § 1001(i)(2), inserted “, (a)(8)” after “(a)(7)” and struck out “or subparagraphs (A) through (E) and (G) of subsection (a)(8)” after “(a)(9)” and “or subparagraph” after “such subsection”.
+
+Pub. L. 116–260, § 1001(i)(1), struck out “, (a)(8)” after “(a)(7)” and inserted “or subparagraphs (A) through (E) and (G) of subsection (a)(8)” after “(a)(9)” and “or subparagraph” after “such subsection”.
+
 2010—Subsec. (a)(2). Pub. L. 111–203 inserted “unsecured claims of any Federal reserve bank related to loans made through programs or facilities authorized under section 13(3) of the Federal Reserve Act ([12 U.S.C. 343](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section343&num=0&edition=prelim)),” after “this title,”.
 
 Subsec. (a)(8)(A)(ii)(II). Pub. L. 111–327 substituted “; or” for period at end.
@@ -988,6 +1089,9 @@ Subsec. (a)(6). Pub. L. 98–353, § 350(1), redesignated former par. (5) as (6)
 Subsec. (a)(7). Pub. L. 98–353, §§ 350(2), 449(a)(4), redesignated former par. (6) as (7), substituted “Seventh” for “Sixth”, and inserted “only” after “units,”.
 
 Subsec. (c). Pub. L. 98–353, § 449(b), substituted “has the same priority” for “shall be treated the same”.
+
+#### Effective Date of 2020 Amendment
+Pub. L. 116–260, div. FF, title X, § 1001(i)(2), Dec. 27, 2020, 134 Stat. 3221, provided that the amendment made by section 1001(i)(2) is effective on the date that is 1 year after Dec. 27, 2020.
 
 #### Effective Date of 2010 Amendment
 Amendment by Pub. L. 111–203 effective 1 day after July 21, 2010, except as otherwise provided, see section 4 of Pub. L. 111–203, set out as an Effective Date note under [section 5301 of Title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section5301&num=0&edition=prelim), Banks and Banking.
@@ -2701,7 +2805,7 @@ Subsec. (a)(3). Pub. L. 116–54, § 4(a)(9)(A)(ii), inserted “1192,” after 
 
 Subsec. (c)(1). Pub. L. 116–54, § 4(a)(9)(B), inserted “1192,” after “1141,”.
 
-Subsec. (d). Pub. L. 116–54, § 4(a)(9)(C), inserted “1192,” after “1141,”.
+Subsec. (d). Pub. L. 116–54, § 4(a)(9)(C), inserted “1192,” after “1141,” in introductory provisions.
 
 2010—Subsec. (k)(3)(J)(i). Pub. L. 111–327, § 2(a)(19)(A), in last undesignated par., substituted “property securing the lien” for “security property” and “amount of the allowed secured claim” for “current value of the security property” and inserted “must” before “make a single payment”.
 
@@ -2800,7 +2904,12 @@ Pub. L. 103–394, title I, § 111(b), Oct. 22, 1994, 108 Stat. 4117, provided t
 
 (2) In this section, “student loan program” means any program operated under title IV of the Higher Education Act of 1965 or a similar program operated under State or local law.
 
+**(d)** A person may not be denied relief under sections 4022 through 4024 of the CARES Act ([15 U.S.C. 9056](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section9056&num=0&edition=prelim), 9057, 9058) because the person is or has been a debtor under this title.
+
 ### Statutory Notes
+
+#### Amendment of Subsection (d)
+Pub. L. 116–260, div. FF, title X, § 1001(c)(2), Dec. 27, 2020, 134 Stat. 3217, provided that, effective on the date that is 1 year after Dec. 27, 2020, this section is amended by striking subsection (d). See 2020 Amendment note below.
 
 #### senate report no. 95–989
 This section is additional debtor protection. It codifies the result of Perez v. Campbell, 402 U.S. 637 (1971), which held that a State would frustrate the Congressional policy of a fresh start for a debtor if it were permitted to refuse to renew a drivers license because a tort judgment resulting from an automobile accident had been unpaid as a result of a discharge in bankruptcy.
@@ -2825,6 +2934,10 @@ The Bankruptcy Act, referred to in text, is act July 1, 1898, ch. 541, 30 Stat. 
 The Higher Education Act of 1965, referred to in subsec. (c)(2), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219. Title IV of the Act is classified generally to subchapter IV (§ 1070 et seq.) of chapter 28 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under [section 1001 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1001&num=0&edition=prelim) and Tables.
 
 #### Amendments
+2020—Subsec. (d). Pub. L. 116–260, § 1001(c)(2), struck out subsec. (d) which read as follows: “A person may not be denied relief under sections 4022 through 4024 of the CARES Act ([15 U.S.C. 9056](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section9056&num=0&edition=prelim), 9057, 9058) because the person is or has been a debtor under this title.”
+
+Pub. L. 116–260, § 1001(c)(1), added subsec. (d).
+
 2005—Subsec. (c)(1). Pub. L. 109–8, § 1211(1), inserted “student” before “grant, loan,”.
 
 Subsec. (c)(2). Pub. L. 109–8, § 1211(2), substituted “any program operated under” for “the program operated under part B, D, or E of”.
@@ -2834,6 +2947,9 @@ Subsec. (c)(2). Pub. L. 109–8, § 1211(2), substituted “any program operated
 Subsec. (c). Pub. L. 103–394, § 313, added subsec. (c).
 
 1984—Pub. L. 98–353 designated existing provisions as subsec. (a), inserted “the” before “Perishable”, and added subsec. (b).
+
+#### Effective Date of 2020 Amendment
+Pub. L. 116–260, div. FF, title X, § 1001(c)(2), Dec. 27, 2020, 134 Stat. 3217, provided that the amendment made by section 1001(c)(2) is effective on the date that is 1 year after Dec. 27, 2020.
 
 #### Effective Date of 2005 Amendment
 Amendment by Pub. L. 109–8 effective 180 days after Apr. 20, 2005, and not applicable with respect to cases commenced under this title before such effective date, except as otherwise provided, see section 1501 of Pub. L. 109–8, set out as a note under [section 101 of this title](./chapter-001-general-provisions.md#section-101).
@@ -3099,7 +3215,7 @@ Section effective 180 days after Apr. 20, 2005, and not applicable with respect 
   (A) on or after the date that is 14 days prior to the date on which the petition is filed; and
 
   (B) under an agreement with a money order issuer that prohibits the commingling of such proceeds with property of the debtor (notwithstanding that, contrary to the agreement, the proceeds may have been commingled with property of the debtor),
-  unless the money order issuer had not taken action, prior to the filing of the petition, to require compliance with the prohibition; or
+  unless the money order issuer had not taken action, prior to the filing of the petition, to require compliance with the prohibition;
 
 (10) funds placed in an account of a qualified ABLE program (as defined in section 529A(b) of the Internal Revenue Code of 1986) not later than 365 days before the date of the filing of the petition in a case under this title, but—
 
@@ -3111,7 +3227,9 @@ Section effective 180 days after Apr. 20, 2005, and not applicable with respect 
 
     (ii) are not excess contributions (as described in section 4973(h) of the Internal Revenue Code of 1986); and
 
-  (C) in the case of funds placed in all such accounts having the same designated beneficiary not earlier than 720 days nor later than 365 days before such date, only so much of such funds as does not exceed $6,225.2
+  (C) in the case of funds placed in all such accounts having the same designated beneficiary not earlier than 720 days nor later than 365 days before such date, only so much of such funds as does not exceed $6,225; 2 or
+
+(11) recovery rebates made under section 6428 of the Internal Revenue Code of 1986.
 Paragraph (4) shall not be construed to exclude from the estate any consideration the debtor retains, receives, or is entitled to receive for transferring an interest in liquid or gaseous hydrocarbons pursuant to a farmout agreement.
 
 **(c)**
@@ -3131,6 +3249,17 @@ Paragraph (4) shall not be construed to exclude from the estate any consideratio
 **(f)** Notwithstanding any other provision of this title, property that is held by a debtor that is a corporation described in section 501(c)(3) of the Internal Revenue Code of 1986 and exempt from tax under section 501(a) of such Code may be transferred to an entity that is not such a corporation, but only under the same conditions as would apply if the debtor had not filed a case under this title.
 
 ### Statutory Notes
+
+#### Amendment of Subsection (b)
+Pub. L. 116–260, div. FF, title X, § 1001(a)(2), Dec. 27, 2020, 134 Stat. 3216, provided that, effective on the date that is 1 year after Dec. 27, 2020, subsection (b) of this section is amended:
+
+(1) in paragraph (9), in the matter following subparagraph (B), by adding “or” at the end;
+
+(2) in paragraph (10)(C), by striking “; or” and inserting a period; and
+
+(3) by striking paragraph (11).
+
+See 2020 Amendment note below.
 
 #### legislative statements
 Section 541(a)(7) is new. The provision clarifies that any interest in property that the estate acquires after the commencement of the case is property of the estate; for example, if the estate enters into a contract, after the commencement of the case, such a contract would be property of the estate. The addition of this provision by the House amendment merely clarifies that section 541(a) is an all-embracing definition which includes charges on property, such as liens held by the debtor on property of a third party, or beneficial rights and interests that the debtor may have in property of another. However, only the debtor’s interest in such property becomes property of the estate. If the debtor holds bare legal title or holds property in trust for another, only those rights which the debtor would have otherwise had emanating from such interest pass to the estate under section 541. Neither this section nor section 545 will affect various statutory provisions that give a creditor a lien that is valid both inside and outside bankruptcy against a bona fide purchaser of property from the debtor, or that creates a trust fund for the benefit of creditors meeting similar criteria. See Packers and Stockyards Act § 206, [7 U.S.C. 196](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section196&num=0&edition=prelim) (1976).
@@ -3177,11 +3306,15 @@ Section 541(e) [enacted as (d)] confirms the current status under the Bankruptcy
 #### References in Text
 The Higher Education Act of 1965, referred to in subsec. (b)(3), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219, which is classified generally to chapter 28 (§ 1001 et seq.) of Title 20, Education. Part C of title IV of the Act was formerly classified to part C (§ 2751 et seq.) of subchapter I of chapter 34 of Title 42, The Public Health and Welfare, prior to transfer to part C (§ 1087–51 et seq.) of subchapter IV of chapter 28 of Title 20. For complete classification of this Act to the Code, see Short Title note set out under [section 1001 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1001&num=0&edition=prelim) and Tables.
 
-The Internal Revenue Code of 1986, referred to in subsecs. (b)(5) to (7), (10) and (f), is classified generally to Title 26, Internal Revenue Code.
+The Internal Revenue Code of 1986, referred to in subsecs. (b)(5) to (7), (10), (11) and (f), is classified generally to Title 26, Internal Revenue Code.
 
 The Employee Retirement Income Security Act of 1974, referred to in subsec. (b)(7)(A)(i)(I), (B)(i)(I), is Pub. L. 93–406, Sept. 2, 1974, 88 Stat. 829, as amended. Title I of the Act is classified generally to subchapter I (§ 1001 et seq.) of chapter 18 of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under [section 1001 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1001&num=0&edition=prelim) and Tables.
 
 #### Amendments
+2020—Subsec. (b)(11). Pub. L. 116–260, § 1001(a)(2), struck out par. (11) which read as follows: “recovery rebates made under section 6428 of the Internal Revenue Code of 1986.”.
+
+Pub. L. 116–260, § 1001(a)(1), added par. (11).
+
 2014—Subsec. (b)(10). Pub. L. 113–295 added par. (10).
 
 2010—Subsec. (b)(6)(B). Pub. L. 111–327 substituted “section 529(b)(6)” for “section 529(b)(7)”.
@@ -3229,6 +3362,9 @@ Subsec. (c)(1)(B). Pub. L. 98–353, § 456(b)(2), substituted “taking” for 
 Subsec. (d). Pub. L. 98–353, § 456(c), inserted “(1) or (2)” after “(a)”.
 
 Subsec. (e). Pub. L. 98–353, § 456(d), struck out subsec. (e) which read as follows: “The estate shall have the benefit of any defense available to the debtor as against an entity other than the estate, including statutes of limitation, statutes of frauds, usury, and other personal defenses. A waiver of any such defense by the debtor after the commencement of the case does not bind the estate.”
+
+#### Effective Date of 2020 Amendment
+Pub. L. 116–260, div. FF, title X, § 1001(a)(2), Dec. 27, 2020, 134 Stat. 3216, provided that the amendment made by section 1001(a)(2) is effective on the date that is 1 year after Dec. 27, 2020.
 
 #### Effective Date of 2014 Amendment
 Amendment by Pub. L. 113–295 applicable with respect to cases commenced under this title on or after Dec. 19, 2014, see section 104(d) of Pub. L. 113–295, set out as a note under [section 521 of this title](./chapter-005-creditors-the-debtor-and-the-estate.md#section-521).
@@ -3638,7 +3774,7 @@ Amendment by Pub. L. 98–353 effective with respect to cases filed 90 days afte
 
 (4) a debt for a tax is incurred on the day when such tax is last payable without penalty, including any extension.
 
-**(b)** Except as provided in subsections (c) and (i) of this section, the trustee may, based on reasonable due diligence in the circumstances of the case and taking into account a party’s known or reasonably knowable affirmative defenses under subsection (c), avoid any transfer of an interest of the debtor in property—
+**(b)** Except as provided in subsections (c), (i), and (j) of this section, the trustee may, based on reasonable due diligence in the circumstances of the case and taking into account a party’s known or reasonably knowable affirmative defenses under subsection (c), avoid any transfer of an interest of the debtor in property—
 
 (1) to or for the benefit of a creditor;
 
@@ -3744,7 +3880,58 @@ Amendment by Pub. L. 98–353 effective with respect to cases filed 90 days afte
 
 **(i)** If the trustee avoids under subsection (b) a transfer made between 90 days and 1 year before the date of the filing of the petition, by the debtor to an entity that is not an insider for the benefit of a creditor that is an insider, such transfer shall be considered to be avoided under this section only with respect to the creditor that is an insider.
 
+**(j)**
+
+(1) In this subsection:
+
+  (A) The term “covered payment of rental arrearages” means a payment of arrearages that—
+
+    (i) is made in connection with an agreement or arrangement—
+
+      (I) between the debtor and a lessor to defer or postpone the payment of rent and other periodic charges under a lease of nonresidential real property; and
+
+      (II) made or entered into on or after March 13, 2020;
+
+    (ii) does not exceed the amount of rental and other periodic charges agreed to under the lease of nonresidential real property described in clause (i)(I) before March 13, 2020; and
+
+    (iii) does not include fees, penalties, or interest in an amount greater than the amount of fees, penalties, or interest—
+
+      (I) scheduled to be paid under the lease of nonresidential real property described in clause (i)(I); or
+
+      (II) that the debtor would owe if the debtor had made every payment due under the lease of nonresidential real property described in clause (i)(I) on time and in full before March 13, 2020.
+
+  (B) The term “covered payment of supplier arrearages” means a payment of arrearages that—
+
+    (i) is made in connection with an agreement or arrangement—
+
+      (I) between the debtor and a supplier of goods or services to defer or postpone the payment of amounts due under an executory contract for goods or services; and
+
+      (II) made or entered into on or after March 13, 2020;
+
+    (ii) does not exceed the amount due under the executory contract described in clause (i)(I) before March 13, 2020; and
+
+    (iii) does not include fees, penalties, or interest in an amount greater than the amount of fees, penalties, or interest—
+
+      (I) scheduled to be paid under the executory contract described in clause (i)(I); or
+
+      (II) that the debtor would owe if the debtor had made every payment due under the executory contract described in clause (i)(I) on time and in full before March 13, 2020.
+
+(2) The trustee may not avoid a transfer under this section for—
+
+  (A) a covered payment of rental arrearages; or
+
+  (B) a covered payment of supplier arrearages.
+
 ### Statutory Notes
+
+#### Amendment of Section
+Pub. L. 116–260, div. FF, title X, § 1001(g)(2)(A), Dec. 27, 2020, 134 Stat. 3220, provided that, effective on the date that is 2 years after Dec. 27, 2020, this section is amended:
+
+(1) in subsection (b), in the matter preceding paragraph (1), by striking “, (i), and (j)” and inserting “and (i)”; and
+
+(2) by striking subsection (j).
+
+See 2020 Amendment notes below.
 
 #### legislative statements
 No limitation is provided for payments to commodity brokers as in section 766 of the Senate amendment other than the amendment to [section 548 of title 11](./chapter-005-creditors-the-debtor-and-the-estate.md#section-548). Section 547(c)(2) protects most payments.
@@ -3799,6 +3986,14 @@ Subsection (e) is designed to reach the different results under the 1962 version
 Subsection (f) creates a presumption of insolvency for the 90 days preceding the bankruptcy case. The presumption is as defined in Rule 301 of the Federal Rules of Evidence, made applicable in bankruptcy cases by sections 224 and 225 of the bill. The presumption requires the party against whom the presumption exists to come forward with some evidence to rebut the presumption, but the burden of proof remains on the party in whose favor the presumption exists.
 
 #### Amendments
+2020—Subsec. (b). Pub. L. 116–260, § 1001(g)(2)(A)(i), substituted “and (i)” for “, (i), and (j)” in introductory provisions.
+
+Pub. L. 116–260, § 1001(g)(1)(A), substituted “, (i), and (j)” for “and (i)” in introductory provisions.
+
+Subsec. (j). Pub. L. 116–260, § 1001(g)(2)(A)(ii), struck out subsec. (j) which related to covered payments of rental and supplier arrearages.
+
+Pub. L. 116–260, § 1001(g)(1)(B), added subsec. (j).
+
 2019—Subsec. (b). Pub. L. 116–54 inserted “, based on reasonable due diligence in the circumstances of the case and taking into account a party’s known or reasonably knowable affirmative defenses under subsection (c),” after “may” in introductory provisions.
 
 2005—Subsec. (b). Pub. L. 109–8, § 1213(a)(1), substituted “subsections (c) and (i)” for “subsection (c)” in introductory provisions.
@@ -3866,6 +4061,11 @@ Subsec. (d). Pub. L. 98–353, § 462(e), substituted “The” for “A” befo
 Subsec. (e)(2)(C)(i). Pub. L. 98–353, § 462(f), substituted “or” for “and”.
 
 Subsec. (g). Pub. L. 98–353, § 462(g), added subsec. (g).
+
+#### Effective Date of 2020 Amendment
+Pub. L. 116–260, div. FF, title X, § 1001(g)(2)(A), Dec. 27, 2020, 134 Stat. 3220, provided that the amendment made by section 1001(g)(2)(A) is effective on the date that is 2 years after Dec. 27, 2020.
+
+Pub. L. 116–260, div. FF, title X, § 1001(g)(2)(B), Dec. 27, 2020, 134 Stat. 3221, provided that: “Notwithstanding the amendments made by subparagraph (A) [amending this section], the amendments made by paragraph (1) [amending this section] shall apply in any case commenced under title 11, United States Code, before the date that is 2 years after the date of enactment of this Act [Dec. 27, 2020].”
 
 #### Effective Date of 2019 Amendment
 Amendment by Pub. L. 116–54 effective 180 days after Aug. 23, 2019, see section 5 of Pub. L. 116–54, set out as a note under [section 101 of this title](./chapter-001-general-provisions.md#section-101).
@@ -4547,6 +4747,9 @@ Amendment by Pub. L. 103–394 effective Oct. 22, 1994, and not applicable with 
 2019—Subsec. (d)(3). Pub. L. 116–54 inserted “1183,” after “1104,”.
 
 1986—Subsec. (d)(3). Pub. L. 99–554 inserted reference to [section 1202 of this title](./chapter-012-adjustment-of-debts-of-a-family-farmer-or-fisherman-with-regular-annual-income.md#section-1202).
+
+#### Effective Date of 2019 Amendment
+Amendment by Pub. L. 116–54 effective 180 days after Aug. 23, 2019, see section 5 of Pub. L. 116–54, set out as a note under [section 101 of this title](./chapter-001-general-provisions.md#section-101).
 
 #### Effective Date of 1986 Amendment
 Amendment by Pub. L. 99–554 effective 30 days after Oct. 27, 1986, but not applicable to cases commenced under this title before that date, see section 302(a), (c)(1) of Pub. L. 99–554, set out as a note under [section 581 of Title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section581&num=0&edition=prelim), Judiciary and Judicial Procedure.

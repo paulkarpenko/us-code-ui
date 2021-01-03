@@ -2,7 +2,7 @@
 title: 16
 chapter: '12'
 heading: FEDERAL REGULATION AND DEVELOPMENT OF POWER
-section_count: 110
+section_count: 111
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16&num=0&edition=prelim
 ---
@@ -3588,6 +3588,12 @@ This fiscal year, referred to in text, is the fiscal year ending Sept. 30, 2010.
 Section was enacted as part of the Energy and Water Development and Related Agencies Appropriations Act, 2010, and not as part of the Federal Power Act which generally comprises this chapter.
 
 
+<a id="section-825s-8"></a>
+## § 825s–8. Southeastern Power Administration: rates of basic and premium pay
+
+During fiscal year 2020 and each fiscal year thereafter, notwithstanding any provision of title 5 relating to classification or rates of pay, the Southeastern Power Administration shall pay any power system dispatcher employed by the Administration a rate of basic pay and premium pay based on those prevailing for similar occupations in the electric power industry. Basic pay and premium pay may not be paid under this section to any individual during a calendar year so as to result in a total rate in excess of the rate of basic pay for level V of the Executive Schedule (section 5316 of such title).
+
+
 <a id="section-825t"></a>
 ## § 825t. Utilization of power revenues
 
@@ -3618,9 +3624,12 @@ Functions of Public Works Administration transferred to Federal Works Administra
 <a id="section-828"></a>
 ## § 828. Facilitation of development and construction of water conservation facilities; exemption from certain Federal requirements
 
-In order to facilitate the development and construction by States and municipalities of water conservation facilities, certain requirements in this chapter are made inapplicable to States and municipalities as provided in this subchapter.
+In order to facilitate the development and construction by States and municipalities of water conservation facilities, certain requirements in the Federal Power Act [[16 U.S.C. 791a](./chapter-012-federal-regulation-and-development-of-power.md#section-791a) et seq.] are made inapplicable to States and municipalities as provided in this subchapter.
 
 ### Statutory Notes
+
+#### References in Text
+The Federal Power Act, referred to in text, is act June 10, 1920, ch. 285, 41 Stat. 1063, which is classified generally to this chapter. For complete classification of this Act to the Code, see [section 791a of this title](./chapter-012-federal-regulation-and-development-of-power.md#section-791a) and Tables.
 
 #### Codification
 Section was not enacted as part of the Federal Power Act which generally comprises this chapter.
@@ -3629,9 +3638,12 @@ Section was not enacted as part of the Federal Power Act which generally compris
 <a id="section-828a"></a>
 ## § 828a. Definitions
 
-The words used in this subchapter shall have the same meanings ascribed to them in this chapter.
+The words used in this subchapter shall have the same meanings ascribed to them in the Federal Power Act [[16 U.S.C. 791a](./chapter-012-federal-regulation-and-development-of-power.md#section-791a) et seq.].
 
 ### Statutory Notes
+
+#### References in Text
+The Federal Power Act, referred to in text, is act June 10, 1920, ch. 285, 41 Stat. 1063, which is classified generally to this chapter. For complete classification of this Act to the Code, see [section 791a of this title](./chapter-012-federal-regulation-and-development-of-power.md#section-791a) and Tables.
 
 #### Codification
 Section was not enacted as part of the Federal Power Act which generally comprises this chapter.
@@ -3659,9 +3671,12 @@ Federal Power Commission terminated and its functions, personnel, property, fund
 <a id="section-828c"></a>
 ## § 828c. Applicability of this subchapter
 
-Except as herein provided, the provisions of this subchapter shall not be construed as repealing or affecting any of the provisions of this chapter.
+Except as herein provided, the provisions of this subchapter shall not be construed as repealing or affecting any of the provisions of the Federal Power Act [[16 U.S.C. 791a](./chapter-012-federal-regulation-and-development-of-power.md#section-791a) et seq.].
 
 ### Statutory Notes
+
+#### References in Text
+The Federal Power Act, referred to in text, is act June 10, 1920, ch. 285, 41 Stat. 1063, which is classified generally to this chapter. For complete classification of this Act to the Code, see [section 791a of this title](./chapter-012-federal-regulation-and-development-of-power.md#section-791a) and Tables.
 
 #### Codification
 Section was not enacted as part of the Federal Power Act which generally comprises this chapter.

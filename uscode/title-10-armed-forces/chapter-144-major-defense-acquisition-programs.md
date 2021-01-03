@@ -66,10 +66,30 @@ source: >-
 
 ### Statutory Notes
 
+#### Amendment of Section
+Pub. L. 116–283, div. A, title XVIII, §§ 1801(d), 1846(c)(1), (d)(1), (f)(1), Jan. 1, 2021, 134 Stat. 4151, 4248–4250, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, this section is amended as follows:
+
+(1) by transferring subsection (a) to [section 4201 of this title](./chapter-321-general-matters.md#section-4201);
+
+(2) by transferring subsections (b) and (c) to [section 4202 of this title](./chapter-321-general-matters.md#section-4202); and
+
+(3) by transferring subsection (d) to [section 4204 of this title](./chapter-321-general-matters.md#section-4204).
+
+See 2021 Amendment notes below.
+
+#### Repeal of Section
+Pub. L. 116–283, div. A, title XVIII, §§ 1801(d), 1846(f)(8), Jan. 1, 2021, 134 Stat. 4151, 4251, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, this section is repealed.
+
 #### Amendments
+2021—Subsec. (a). Pub. L. 116–283, § 1846(c)(1), transferred subsec. (a) to [section 4201 of this title](./chapter-321-general-matters.md#section-4201).
+
+Subsecs. (b), (c). Pub. L. 116–283, § 1846(d)(1), transferred subsecs. (b) and (c) to [section 4202 of this title](./chapter-321-general-matters.md#section-4202).
+
+Subsec. (d). Pub. L. 116–283, § 1846(f)(1), transferred subsec. (d) to [section 4204 of this title](./chapter-321-general-matters.md#section-4204).
+
 2017—Subsec. (a)(1)(B). Pub. L. 115–91, § 831(1), inserted “in the case of a program that is not a program for the acquisition of an automated information system (either a product or a service),” after “(B)”.
 
-Subsec. (a)(2). Pub. L. 115–91, § 831(2)(A), substituted “include—” for “include”, inserted subpar. (A) designation before “an acquisition program”, and added subpar. (B).
+Subsec. (a)(2). Pub. L. 115–91, § 831(2), substituted “include—” for “include”, inserted subpar. (A) designation before “an acquisition program”, and added subpar. (B).
 
 Subsecs. (b), (c). Pub. L. 115–91, § 1081(a)(38), substituted “subsection (a)(1)(B)” for “subsection (a)(2)”.
 
@@ -93,6 +113,12 @@ Subsec. (c). Pub. L. 111–23, § 206(b)(2), added subsec. (c).
 
 1992—Pub. L. 102–484 designated existing provisions as subsec. (a), in par. (2) substituted “$300,000,000” for “$200,000,000”, “1990” for “1980” in two places, and “$1,800,000,000” for “$1,000,000,000”, and added subsec. (b).
 
+#### Effective Date of Repeal
+Repeal effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
+
+#### Effective Date of 2021 Amendment
+Amendment by section 1846(c)(1), (d)(1), (f)(1) of Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
+
 #### Effective Date of 2016 Amendment
 Pub. L. 114–328, div. A, title VIII, § 807(b), Dec. 23, 2016, 130 Stat. 2261, provided that the amendment made by section 807(b) is effective January 1, 2017.
 
@@ -103,24 +129,24 @@ Pub. L. 114–92, div. A, title VIII, § 825(c)(3), Nov. 25, 2015, 129 Stat. 908
 Pub. L. 114–328, div. A, title I, § 142, Dec. 23, 2016, 130 Stat. 2040, directed the Secretary of the Army and the Secretary of the Navy to issue guidance regarding fire suppressant and fuel containment standards for covered vehicles of the Army and of the Marine Corps, respectively, and to submit to the congressional defense committees, no later than 180 days after Dec. 23, 2016, reports on such guidance.
 
 #### Implementation of Procedures for Designation of Milestone Decision Authorities
-Pub. L. 114–92, div. A, title VIII, § 825(c)(1), (2), Nov. 25, 2015, 129 Stat. 908, directed the Secretary of Defense to submit to the congressional defense committees, no later than 180 days after Nov. 25, 2015, a plan for implementing procedures for designation of milestone decision authorities under subsection (d) of this section and directed the Deputy Chief Management Officer of the Department of Defense, in consultation with the Under Secretary of Defense for Acquisition, Technology, and Logistics and the service acquisition executives, to issue guidance to ensure that by no later than Oct. 1, 2016, the acquisition policy, guidance, and practices of the Department of Defense conform to the requirements of subsection (d) of this section.
+Pub. L. 114–92, div. A, title VIII, § 825(c)(1), (2), Nov. 25, 2015, 129 Stat. 908, directed the Secretary of Defense to submit to the congressional defense committees, no later than 180 days after Nov. 25, 2015, a plan for implementing procedures for designation of milestone decision authorities under subsection (d) of this section and directed the Deputy Chief Management Officer of the Department of Defense, in consultation with the Under Secretary of Defense for Acquisition, Technology, and Logistics and the service acquisition executives, to issue guidance to ensure that by no later than Oct. 1, 2016, the acquisition policy, guidance, and practices of the Department of Defense conform to the requirements of subsec. (d) of this section.
 
 #### Tenure and Accountability of Program Managers for Program Definition Periods
-Pub. L. 114–92, div. A, title VIII, § 826, Nov. 25, 2015, 129 Stat. 908, as amended by Pub. L. 114–328, div. A, title VIII, § 862(a), Dec. 23, 2016, 130 Stat. 2302, directed the Secretary of Defense to revise, not later than 180 days after Nov. 25, 2015, Department of Defense guidance for major defense acquisition programs to address the tenure and accountability of program managers for the program definition period of major defense acquisition programs and directed the Secretary to ensure that program managers have the appropriate expertise and are provided resources and support to meet their responsibilities under the revised guidance.
+Pub. L. 114–92, div. A, title VIII, § 826, Nov. 25, 2015, 129 Stat. 908, as amended by Pub. L. 114–328, div. A, title VIII, § 862(a), Dec. 23, 2016, 130 Stat. 2302; Pub. L. 116–92, div. A, title IX, § 902(64), Dec. 20, 2019, 133 Stat. 1550, provided that: “(a) Revised Guidance Required.—Not later than 180 days after the date of the enactment of this Act [Nov. 25, 2015], the Secretary of Defense shall revise Department of Defense guidance for major defense acquisition programs to address the tenure and accountability of program managers for the program definition period of major defense acquisition programs. “(b) Program Definition Period.—For the purposes of this section, the term ‘program definition period’, with respect to a major defense acquisition program, means the period beginning with initiation of the program and ending with Milestone B approval (or Key Decision Point B approval in the case of a space program). “(c) Responsibilities.—The revised guidance required by subsection (a) shall provide that the program manager for the program definition period of a major defense acquisition program is responsible for—“(1) bringing technologies to maturity and identifying the manufacturing processes that will be needed to carry out the program; “(2) ensuring continuing focus during program development on meeting stated mission requirements and other requirements of the Department of Defense; “(3) recommending trade-offs between program cost, schedule, and performance for the life-cycle of the program; “(4) developing a business case for the program; and “(5) ensuring that appropriate information is available to the milestone decision authority to make a decision on Milestone B approval (or Key Decision Point B approval in the case of a space program), including information necessary to make the certification required by [section 2366a of title 10](./chapter-139-research-and-development.md#section-2366a), United States Code. “(d) Qualifications, Resources, and Tenure.—The Secretary of Defense shall ensure that each program manager for the program definition period of a major defense acquisition program—“(1) has the appropriate management, engineering, technical, and financial expertise needed to meet the responsibilities assigned pursuant to subsection (c); “(2) is provided the resources and support (including systems engineering expertise, cost-estimating expertise, and software development expertise) needed to meet such responsibilities; and “(3) is assigned to the program manager position for such program until such time as such program receives Milestone B approval (or Key Decision Point B approval in the case of a space program), unless removed for cause or due to exceptional circumstances. “(e) Waiver Authority.—The service acquisition executive, in the case of a major defense acquisition program of a military department, or the Under Secretary of Defense for Acquisition and Sustainment, in the case of a Defense-wide or Defense Agency major defense acquisition program, may waive the requirement in paragraph (3) of subsection (d) upon a determination that the program definition period will take so long that it would not be appropriate for a single individual to serve as program manager for the entire period covered by such paragraph.”
 
 #### Tenure and Accountability of Program Managers for Program Execution Periods
-Pub. L. 114–92, div. A, title VIII, § 827, Nov. 25, 2015, 129 Stat. 909, as amended by Pub. L. 114–328, div. A, title VIII, § 862(b), Dec. 23, 2016, 130 Stat. 2302, directed the Secretary of Defense to revise, not later than 180 days after Nov. 25, 2015, Department of Defense guidance for major defense acquisition programs to address the tenure and accountability of program managers for the program execution period of major defense acquisition programs and directed the Secretary to ensure that program managers have the appropriate expertise and are provided resources and support to meet their responsibilities under the revised guidance.
+Pub. L. 114–92, div. A, title VIII, § 827, Nov. 25, 2015, 129 Stat. 909, as amended by Pub. L. 114–328, div. A, title VIII, § 862(b), Dec. 23, 2016, 130 Stat. 2302; Pub. L. 116–92, div. A, title IX, § 902(65), Dec. 20, 2019, 133 Stat. 1550, provided that: “(a) Revised Guidance Required.—Not later than 180 days after the date of the enactment of this Act [Nov. 25, 2015], the Secretary of Defense shall revise Department of Defense guidance for major defense acquisition programs to address the tenure and accountability of program managers for the program execution period of major defense acquisition programs. “(b) Program Execution Period.—For purposes of this section, the term ‘program execution period’, with respect to a major defense acquisition program, means the period beginning with Milestone B approval (or Key Decision Point B approval in the case of a space program) and ending with declaration of initial operational capability. “(c) Responsibilities.—The revised guidance required by subsection (a) shall—“(1) require the program manager for the program execution period of a major defense acquisition program to enter into a performance agreement with the manager’s immediate supervisor for such program within six months of assignment, that—“(A) establishes expected parameters for the cost, schedule, and performance of the program consistent with the business case for the program; “(B) provides the commitment of the supervisor to provide the level of funding and resources required to meet such parameters; and “(C) provides the assurance of the program manager that such parameters are achievable and that the program manager will be accountable for meeting such parameters; and “(2) provide the program manager with the authority to—“(A) consult on the addition of new program requirements that would be inconsistent with the parameters established in the performance agreement entered into pursuant to paragraph (1); “(B) recommend trade-offs between cost, schedule, and performance, provided that such trade-offs are consistent with the parameters established in the performance agreement entered into pursuant to paragraph (1); and “(C) develop such interim goals and milestones as may be required to achieve the parameters established in the performance agreement entered into pursuant to paragraph (1). “(d) Qualifications, Resources, and Tenure.—The Secretary shall ensure that each program manager for the program execution period of a defense acquisition program—“(1) has the appropriate management, engineering, technical, and financial expertise needed to meet the responsibilities assigned pursuant to subsection (c); “(2) is provided the resources and support (including systems engineering expertise, cost estimating expertise, and software development expertise) needed to meet such responsibilities; and “(3) is assigned to the program manager position for such program during the program execution period, unless removed for cause or due to exceptional circumstances. “(e) Waiver Authority.—The service acquisition executive, in the case of a major defense acquisition program of a military department, or the Under Secretary of Defense for Acquisition and Sustainment, in the case of a Defense-wide or Defense Agency major defense acquisition program, may waive the requirement in paragraph (3) of subsection (d) upon a determination that the program execution period will take so long that it would not be appropriate for a single individual to serve as program manager for the entire program execution period.”
 
 #### Penalty for Cost Overruns
-Pub. L. 114–92, div. A, title VIII, § 828, Nov. 25, 2015, 129 Stat. 910, as amended by Pub. L. 115–91, div. A, title VIII, § 825(a), Dec. 12, 2017, 131 Stat. 1466; Pub. L. 115–232, div. A, title X, § 1081(d), Aug. 13, 2018, 132 Stat. 1986, provided that: “(a) In General.—For each of fiscal years 2018 through 2022, the Secretary of each military department shall pay a penalty for cost overruns on the covered major defense acquisition programs of the military department. “(b) Calculation of Penalty.—For the purposes of this section:“(1) The amount of the cost overrun on any major defense acquisition program or subprogram in a fiscal year is the difference between the current program acquisition unit cost for the program or subprogram and the program acquisition unit cost for the program as shown in the original Baseline Estimate for the program or subprogram, multiplied by the quantity of items to be purchased under the program or subprogram, as reported in the final Selected Acquisition Report for the fiscal year in accordance with [section 2432 of title 10](./chapter-144-major-defense-acquisition-programs.md#section-2432), United States Code. “(2) Cost overruns for covered major defense acquisition programs that are joint programs of more than one military department shall be allocated among the military departments in percentages determined by the Under Secretary of Defense for Acquisition and Sustainment. “(3) The cumulative amount of cost overruns for a military department in a fiscal year is the sum of the cost overruns for all covered major defense acquisition programs of the department in the fiscal year (including cost overruns allocated to the military department in accordance with paragraph (2)). “(4) The cost overrun penalty for a military department in a fiscal year is three percent of the cumulative amount of cost overruns of the military department in the fiscal year, as determined pursuant to paragraph (3). “(c) Total Cost Overrun Penalty.—Notwithstanding the amount of a cost overrun penalty determined in subsection (b), the total cost overrun penalty for a military department (including any cost overrun penalty for joint programs of military departments) for a fiscal year may not exceed $50,000,000. “(d) Transfer of Funds.—“(1) Reduction of research, development, test, and evaluation or procurement accounts.—Not later than 60 days after the end of each of fiscal years 2018 through 2022, the Secretary of each military department shall reduce the research, development, test, and evaluation or procurement accounts of the military department by the amount determined under paragraph (2), and remit such amount to the Secretary of Defense. “(2) Determination of amounts.—The reductions to research, development, test, and evaluation or procurement accounts of a military department referred to in paragraph (1) are the reductions to such accounts necessary to equal, when combined, the cost overrun penalty for the fiscal year for such department determined pursuant to subsection (b)(4). “(3) Crediting of funds.—Any amount remitted under paragraph (1) shall be credited to the Rapid Prototyping Fund established pursuant to section 804 of this Act [set out as a note under [section 2302 of this title](./chapter-137-procurement-generally.md#section-2302)]. “(e) Covered Programs.—A major defense acquisition program is covered under this section if the original Baseline Estimate was established for such program under paragraph (1) or (2) of [section 2435(d) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2435/d&num=0&edition=prelim), United States Code, on or after May 22, 2009 (which is the date of the enactment of the Weapon Systems Acquisition Reform Act of 2009 (Public Law 111–23)).”
+Pub. L. 114–92, div. A, title VIII, § 828, Nov. 25, 2015, 129 Stat. 910, as amended by Pub. L. 115–91, div. A, title VIII, § 825, Dec. 12, 2017, 131 Stat. 1466; Pub. L. 115–232, div. A, title X, § 1081(d), Aug. 13, 2018, 132 Stat. 1986; Pub. L. 116–92, div. A, title VIII, § 805(a), (b)(2), Dec. 20, 2019, 133 Stat. 1485, provided that: “(a) In General.—For fiscal years 2018 and 2019, the Secretary of each military department shall pay a penalty for cost overruns on the covered major defense acquisition programs of the military department. “(b) Calculation of Penalty.—For the purposes of this section:“(1) The amount of the cost overrun on any major defense acquisition program or subprogram in a fiscal year is the difference between the current program acquisition unit cost for the program or subprogram and the program acquisition unit cost for the program as shown in the original Baseline Estimate for the program or subprogram, multiplied by the quantity of items to be purchased under the program or subprogram, as reported in the final Selected Acquisition Report for the fiscal year in accordance with [section 2432 of title 10](./chapter-144-major-defense-acquisition-programs.md#section-2432), United States Code. “(2) Cost overruns for covered major defense acquisition programs that are joint programs of more than one military department shall be allocated among the military departments in percentages determined by the Under Secretary of Defense for Acquisition and Sustainment. “(3) The cumulative amount of cost overruns for a military department in a fiscal year is the sum of the cost overruns for all covered major defense acquisition programs of the department in the fiscal year (including cost overruns allocated to the military department in accordance with paragraph (2)). “(4) The cost overrun penalty for a military department in a fiscal year is three percent of the cumulative amount of cost overruns of the military department in the fiscal year, as determined pursuant to paragraph (3). “(c) Total Cost Overrun Penalty.—Notwithstanding the amount of a cost overrun penalty determined in subsection (b), the total cost overrun penalty for a military department (including any cost overrun penalty for joint programs of military departments) for a fiscal year may not exceed $50,000,000. “(d) Transfer of Funds.—“(1) Reduction of research, development, test, and evaluation or procurement accounts.—Not later than 60 days after the end of each of fiscal years 2018 through 2022, the Secretary of each military department shall reduce the research, development, test, and evaluation or procurement accounts of the military department by the amount determined under paragraph (2), and remit such amount to the Secretary of Defense. “(2) Determination of amounts.—The reductions to research, development, test, and evaluation or procurement accounts of a military department referred to in paragraph (1) are the reductions to such accounts necessary to equal, when combined, the cost overrun penalty for the fiscal year for such department determined pursuant to subsection (b)(4). “(3) Crediting of funds.—Any amount remitted under paragraph (1) shall be credited to the Rapid Prototyping Fund established pursuant to section 804 of this Act [set out as a note under [section 2302 of this title](./chapter-137-procurement-generally.md#section-2302)]. “(e) Covered Programs.—A major defense acquisition program is covered under this section if the original Baseline Estimate was established for such program under paragraph (1) or (2) of [section 2435(d) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2435/d&num=0&edition=prelim), United States Code, on or after May 22, 2009 (which is the date of the enactment of the Weapon Systems Acquisition Reform Act of 2009 (Public Law 111–23)).”
 
-[Pub. L. 115–91, div. A, title VIII, § 825(b), Dec. 12, 2017, 131 Stat. 1466, provided that: “The requirements of section 828 of the National Defense Authorization Act for Fiscal Year 2016 (Public Law 114–92; [10 U.S.C. 2430](./chapter-144-major-defense-acquisition-programs.md#section-2430) note), as in effect on the day before the date of the enactment of this Act [Dec. 12, 2017], shall continue to apply with respect to fiscal years beginning on or before October 1, 2016.” ]
+[Pub. L. 115–91, div. A, title VIII, § 825(b), Dec. 12, 2017, 131 Stat. 1466, which provided that the requirements of section 828 of Pub. L. 114–92, as in effect on the day before Dec. 12, 2017, would continue to apply with respect to fiscal years beginning on or before Oct. 1, 2016, was repealed by Pub. L. 116–92, div. A, title VIII, § 805(b)(1), Dec. 20, 2019, 133 Stat. 1485.]
 
 #### Improving Analytic Support to Systems Acquisition and Allocation of Acquisition, Intelligence, Surveillance and Reconnaissance Assets
 Pub. L. 113–291, div. A, title X, § 1058, Dec. 19, 2014, 128 Stat. 3501, which required the Secretary to review guidance on improving analytic support to systems acquisition and allocation of acquisition, intelligence, surveillance and reconnaissance assets, was repealed by Pub. L. 115–232, div. A, title VIII, § 812(b)(36), Aug. 13, 2018, 132 Stat. 1849.
 
 #### Limitation on use of Cost-Type Contracts
-Pub. L. 112–239, div. A, title VIII, § 811, Jan. 2, 2013, 126 Stat. 1828, directed the Secretary of Defense to modify, not later than 120 days after Jan. 2, 2013, the acquisition regulations of the Department of Defense to prohibit the Department from entering into cost-type contracts for the production of major defense acquisition programs on or after Oct. 1, 2014, except in the case of a particular cost-type contract that the Under Secretary of Defense for Acquisition, Technology, and Logistics certifies to the congressional defense is needed to provide a required capability in a timely and cost-effective manner.
+Pub. L. 112–239, div. A, title VIII, § 811, Jan. 2, 2013, 126 Stat. 1828, as amended by Pub. L. 116–92, div. A, title IX, § 902(66), Dec. 20, 2019, 133 Stat. 1550, provided that: “(a) Prohibition With Respect to Production of Major Defense Acquisition Programs.—Not later than 120 days after the date of the enactment of this Act [Jan. 2, 2013], the Secretary of Defense shall modify the acquisition regulations of the Department of Defense to prohibit the Department from entering into cost-type contracts for the production of major defense acquisition programs. “(b) Exception.—“(1) In general.—The prohibition under subsection (a) shall not apply in the case of a particular cost-type contract if the service acquisition executive, in the case of a major defense acquisition program of the military department, or the Under Secretary of Defense for Acquisition and Sustainment, in the case of a Defense-wide or Defense Agency major defense acquisition program, provides written certification to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] that a cost-type contract is needed to provide a required capability in a timely and cost-effective manner. “(2) Scope of exception.—In any case for which the Under Secretary grants an exception under paragraph (1), the Under Secretary shall take affirmative steps to make sure that the use of cost-type pricing is limited to only those line items or portions of the contract where such pricing is needed to achieve the purposes of the exception. A written certification under paragraph (1) shall be accompanied by an explanation of the steps taken under this paragraph. “(c) Definitions.—In this section:“(1) Major defense acquisition program.—The term ‘major defense acquisition program’ has the meaning given the term in [section 2430(a) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2430/a&num=0&edition=prelim), United States Code. “(2) Production of a major defense acquisition program.—The term ‘production of a major defense acquisition program’ means the production and deployment of a major system that is intended to achieve an operational capability that satisfies mission needs, or any activity otherwise defined as Milestone C under Department of Defense Instruction 5000.02 or related authorities. “(3) Contract for the production of a major defense acquisition program.—The term ‘contract for the production of a major defense acquisition program’—“(A) means a prime contract for the production of a major defense acquisition program; and “(B) does not include individual line items for segregable efforts or contracts for the incremental improvement of systems that are already in production (other than contracts for major upgrades that are themselves major defense acquisition programs). “(d) Applicability.—The requirements of this section shall apply to contracts for the production of major defense acquisition programs entered into on or after October 1, 2014.”
 
 #### Estimates of Potential Termination Liability of Contracts for the Development or Production of Major Defense Acquisition Programs
 Pub. L. 112–239, div. A, title VIII, § 812, Jan. 2, 2013, 126 Stat. 1829, directed the Under Secretary of Defense for Acquisition, Technology, and Logistics to review, not later than 180 days after Jan. 2, 2013, relevant acquisition guidance and ensure that program managers for major defense acquisition programs are preparing estimates of potential termination liability for certain covered contracts and directed the Comptroller General of the United States to submit to the congressional defense committees, not later than 270 days after Jan. 2, 2013, a report on the extent to which the Department of Defense is considering potential termination liability as a factor in entering into and in terminating covered contracts.
@@ -132,7 +158,7 @@ Pub. L. 112–81, div. A, title VIII, § 832, Dec. 31, 2011, 125 Stat. 1504, as 
 Pub. L. 111–383, div. A, title VIII, § 812, Jan. 7, 2011, 124 Stat. 4264, as amended by Pub. L. 112–81, div. A, title VIII, § 834, Dec. 31, 2011, 125 Stat. 1506, directed the Secretary of Defense to issue, not later than 180 days after Jan. 7, 2011, comprehensive guidance on the management of manufacturing risk in major defense acquisition programs and to ensure that the acquisition workforce chapter of the annual strategic workforce plan required by former [section 115b of this title](./chapter-002-department-of-defense.md#section-115b) included an assessment of the critical manufacturing readiness knowledge and skills needed in the acquisition workforce and a plan of action for addressing any gaps in such knowledge and skills.
 
 #### Developmental Test and Evaluation and Systems Engineering in the Military Departments and Defense Agencies
-Pub. L. 111–23, title I, § 102(b), May 22, 2009, 123 Stat. 1714, as amended by Pub. L. 111–383, div. A, title VIII, § 813(a), title IX, § 901(l)(1), Jan. 7, 2011, 124 Stat. 4265, 4326, provided for the development and implementation of plans to ensure the military department or Defense Agency concerned has appropriate resources and adequate numbers of trained personnel for developmental testing organizations and development planning and systems engineering organizations and provided for the submission an annual report on the implementation of such plans, beginning no later than 180 days after May 22, 2009, and continuing from 2011 to 2014 and required an annual assessment of the reports from 2010 to 2014.
+Pub. L. 111–23, title I, § 102(b), May 22, 2009, 123 Stat. 1714, as amended by Pub. L. 111–383, div. A, title VIII, § 813(a), title IX, § 901(l)(1), Jan. 7, 2011, 124 Stat. 4265, 4326, provided for the development and implementation of plans to ensure the military department or Defense Agency concerned has appropriate resources and adequate numbers of trained personnel for developmental testing organizations and development planning and systems engineering organizations and provided for the submission of an annual report on the implementation of such plans, beginning no later than 180 days after May 22, 2009, and continuing from 2011 to 2014 and required an annual assessment of the reports from 2010 to 2014.
 
 #### Performance Assessments and Root Cause Analyses for Major Defense Acquisition Programs
 Pub. L. 111–23, title I, § 103, May 22, 2009, 123 Stat. 1715, which authorized the Secretary of Defense to designate a senior official as responsible for performance assessments and root cause analyses for major defense acquisition programs, was transferred to chapter 144 of this title and redesignated as section 2438 by Pub. L. 111–383, div. A, title IX, § 901(d), Jan. 7, 2011, 124 Stat. 4321.
@@ -147,16 +173,16 @@ Pub. L. 111–23, title II, § 203, May 22, 2009, 123 Stat. 1722, as amended by 
 Pub. L. 111–23, title II, § 207(a)–(c), May 22, 2009, 123 Stat. 1728, 1729, directed the Secretary of Defense to revise, not later than 270 days after May 22, 2009, the Defense Supplement to the Federal Acquisition Regulation to provide uniform guidance and tighten existing requirements for organizational conflicts of interest by contractors in major defense acquisition programs and directed the Panel on Contracting Integrity established pursuant to former section 813 of Pub. L. 109–364 ([10 U.S.C. 2304](./chapter-137-procurement-generally.md#section-2304) note) to present recommendations on measures to eliminate or mitigate organizational conflicts of interest in major defense acquisition programs.
 
 #### Configuration Steering Boards for Cost Control Under Major Defense Acquisition Programs
-Pub. L. 110–417, [div. A], title VIII, § 814, Oct. 14, 2008, 122 Stat. 4528, as amended by Pub. L. 114–92, div. A, title VIII, § 830, Nov. 25, 2015, 129 Stat. 912; Pub. L. 115–91, div. A, title VIII, § 826, Dec. 12, 2017, 131 Stat. 1467, provided that: “(a) Configuration Steering Boards.—Each Secretary of a military department shall establish one or more boards (to be known as a ‘Configuration Steering Board’) for the major defense acquisition programs of such department. “(b) Composition.—“(1) Chair.—Each Configuration Steering Board under this section shall be chaired by the service acquisition executive of the military department concerned. “(2) Particular members.—Each Configuration Steering Board under this section shall include a representative of the following:“(A) The Office of the Under Secretary of Defense for Acquisition, Technology, and Logistics. “(B) The Chief of Staff of the Armed Force concerned. “(C) Other Armed Forces, as appropriate. “(D) The Joint Staff. “(E) The Comptroller of the military department concerned. “(F) The military deputy to the service acquisition executive concerned. “(G) The program executive officer for the major defense acquisition program concerned. “(H) Other senior representatives of the Office of the Secretary of Defense and the military department concerned, as appropriate. “(c) Responsibilities.—“(1) In general.—The Configuration Steering Board for a major defense acquisition program under this section shall be responsible for the following:“(A) Monitoring changes in program requirements and ensuring the Chief of Staff of the Armed Force concerned, in consultation with the Secretary of the military department concerned, approves of any proposed changes that could have an adverse effect on program cost or schedule. “(B) Preventing unnecessary changes to program requirements and system configuration that could have an adverse impact on program cost or schedule. “(C) Mitigating the adverse cost and schedule impact of any changes to program requirements or system configuration that may be required. “(D) Ensuring that the program delivers as much planned capability as possible, at or below the relevant program baseline. “(2) Discharge of responsibilities.—In discharging its responsibilities under this section with respect to a major defense acquisition program, a Configuration Steering Board shall—“(A) review and approve or disapprove any proposed changes to program requirements or system configuration that have the potential to adversely impact program cost or schedule; and “(B) review and recommend proposals to reduce program requirements that have the potential to improve program cost or schedule in a manner consistent with program objectives. “(3) Presentation of recommendations on reduction in requirements.—Any recommendation for a proposed reduction in requirements that is made by a Configuration Steering Board under paragraph (2)(B) shall be presented to appropriate organizations of the Joint Staff and the military departments responsible for such requirements for review and approval in accordance with applicable procedures. “(4) Annual consideration of each major defense acquisition program.—“(A) Annual meeting.—Except as provided in subparagraph (B), the Secretary of the military department concerned shall ensure that a Configuration Steering Board under this section meets to consider each major defense acquisition program of such military department at least once each year. “(B) Exception.—If the service acquisition executive of the military department concerned determines, in writing, that there have been no changes to the program requirements of a major defense acquisition program during the preceding year, the Configuration Steering Board for such major defense acquisition program is not required to meet as described in subparagraph (A). “(5) Certification of cost and schedule deviations during system design and development.—For a major defense acquisition program that received an initial Milestone B approval during fiscal year 2008, a Configuration Steering Board may not approve any proposed alteration to program requirements or system configuration if such an alteration would—“(A) increase the cost (including any increase for expected inflation or currency exchange rates) for system development and demonstration by more than 25 percent; or “(B) extend the schedule for key events by more than 15 percent of the total number of months between the award of the system development and demonstration contract and the scheduled Milestone C approval date, unless the Under Secretary of Defense for Acquisition, Technology, and Logistics certifies to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives], and includes in the certification supporting rationale, that approving such alteration to program requirements or system configuration is in the best interest of the Department of Defense despite the cost and schedule impacts to system development and demonstration of such program. “(d) Applicability.—“(1) In general.—The requirements of this section shall apply with respect to any major defense acquisition program that is commenced before, on, or after the date of the enactment of this Act [Oct. 14, 2008]. “(2) Current programs.—In the case of any major defense acquisition program that is ongoing as of the date of the enactment of this Act, a Configuration Steering Board under this section shall be established for such program not later than 60 days after the date of the enactment of this Act. “(e) Guidance on Authorities of Program Managers After Milestone B.—“(1) [Amended section 853(d)(2) of Pub. L. 109–364, set out below.] “(2) Applicability.—The Secretary of Defense shall modify the guidance described in section 853(d) of the John Warner National Defense Authorization Act for Fiscal Year 2007 [Pub. L. 109–364; set out below] in order to take into account the amendment made by paragraph (1) not later than 60 days after the date of the enactment of this Act [Oct. 14, 2008]. “(f) Major Defense Acquisition Program Defined.—In this section, the term ‘major defense acquisition program’ has the meaning given that term in [section 2430(a) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2430/a&num=0&edition=prelim), United States Code.”
+Pub. L. 110–417, [div. A], title VIII, § 814, Oct. 14, 2008, 122 Stat. 4528, as amended by Pub. L. 114–92, div. A, title VIII, § 830, Nov. 25, 2015, 129 Stat. 912; Pub. L. 115–91, div. A, title VIII, § 826, Dec. 12, 2017, 131 Stat. 1467; Pub. L. 116–92, div. A, title IX, § 902(67), Dec. 20, 2019, 133 Stat. 1550, provided that: “(a) Configuration Steering Boards.—Each Secretary of a military department shall establish one or more boards (to be known as a ‘Configuration Steering Board’) for the major defense acquisition programs of such department. “(b) Composition.—“(1) Chair.—Each Configuration Steering Board under this section shall be chaired by the service acquisition executive of the military department concerned. “(2) Particular members.—Each Configuration Steering Board under this section shall include a representative of the following:“(A) The Office of the Under Secretary of Defense for Research and Engineering. “(B) The Office of the Under Secretary of Defense for Acquisition and Sustainment. “(C) The Chief of Staff of the Armed Force concerned. “(D) Other Armed Forces, as appropriate. “(E) The Joint Staff. “(F) The Comptroller of the military department concerned. “(G) The military deputy to the service acquisition executive concerned. “(H) The program executive officer for the major defense acquisition program concerned. “(I) Other senior representatives of the Office of the Secretary of Defense and the military department concerned, as appropriate. “(c) Responsibilities.—“(1) In general.—The Configuration Steering Board for a major defense acquisition program under this section shall be responsible for the following:“(A) Monitoring changes in program requirements and ensuring the Chief of Staff of the Armed Force concerned, in consultation with the Secretary of the military department concerned, approves of any proposed changes that could have an adverse effect on program cost or schedule. “(B) Preventing unnecessary changes to program requirements and system configuration that could have an adverse impact on program cost or schedule. “(C) Mitigating the adverse cost and schedule impact of any changes to program requirements or system configuration that may be required. “(D) Ensuring that the program delivers as much planned capability as possible, at or below the relevant program baseline. “(2) Discharge of responsibilities.—In discharging its responsibilities under this section with respect to a major defense acquisition program, a Configuration Steering Board shall—“(A) review and approve or disapprove any proposed changes to program requirements or system configuration that have the potential to adversely impact program cost or schedule; and “(B) review and recommend proposals to reduce program requirements that have the potential to improve program cost or schedule in a manner consistent with program objectives. “(3) Presentation of recommendations on reduction in requirements.—Any recommendation for a proposed reduction in requirements that is made by a Configuration Steering Board under paragraph (2)(B) shall be presented to appropriate organizations of the Joint Staff and the military departments responsible for such requirements for review and approval in accordance with applicable procedures. “(4) Annual consideration of each major defense acquisition program.—“(A) Annual meeting.—Except as provided in subparagraph (B), the Secretary of the military department concerned shall ensure that a Configuration Steering Board under this section meets to consider each major defense acquisition program of such military department at least once each year. “(B) Exception.—If the service acquisition executive of the military department concerned determines, in writing, that there have been no changes to the program requirements of a major defense acquisition program during the preceding year, the Configuration Steering Board for such major defense acquisition program is not required to meet as described in subparagraph (A). “(5) Certification of cost and schedule deviations during system design and development.—For a major defense acquisition program that received an initial Milestone B approval during fiscal year 2008, a Configuration Steering Board may not approve any proposed alteration to program requirements or system configuration if such an alteration would—“(A) increase the cost (including any increase for expected inflation or currency exchange rates) for system development and demonstration by more than 25 percent; or “(B) extend the schedule for key events by more than 15 percent of the total number of months between the award of the system development and demonstration contract and the scheduled Milestone C approval date, unless the Under Secretary of Defense for Research and Engineering and the Under Secretary of Defense for Acquisition and Sustainment jointly certify to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives], and include in the certification supporting rationale, that approving such alteration to program requirements or system configuration is in the best interest of the Department of Defense despite the cost and schedule impacts to system development and demonstration of such program. “(d) Applicability.—“(1) In general.—The requirements of this section shall apply with respect to any major defense acquisition program that is commenced before, on, or after the date of the enactment of this Act [Oct. 14, 2008]. “(2) Current programs.—In the case of any major defense acquisition program that is ongoing as of the date of the enactment of this Act, a Configuration Steering Board under this section shall be established for such program not later than 60 days after the date of the enactment of this Act. “(e) Guidance on Authorities of Program Managers After Milestone B.—“(1) [Amended section 853(d)(2) of Pub. L. 109–364, set out below.] “(2) Applicability.—The Secretary of Defense shall modify the guidance described in section 853(d) of the John Warner National Defense Authorization Act for Fiscal Year 2007 [Pub. L. 109–364; set out below] in order to take into account the amendment made by paragraph (1) not later than 60 days after the date of the enactment of this Act [Oct. 14, 2008]. “(f) Major Defense Acquisition Program Defined.—In this section, the term ‘major defense acquisition program’ has the meaning given that term in [section 2430(a) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2430/a&num=0&edition=prelim), United States Code.”
 
 #### Preservation of Tooling for Major Defense Acquisition Programs
 Pub. L. 110–417, [div. A], title VIII, § 815, Oct. 14, 2008, 122 Stat. 4530, directed the Secretary of Defense to issue, not later than 270 days after Oct. 14, 2008, guidance requiring the preservation and storage of unique tooling associated with the production of hardware for a major defense acquisition program through the end of the service life of the end item associated with such a program.
 
 #### Duties of Principal Military Deputies
-Pub. L. 110–181, div. A, title IX, § 908(d), Jan. 28, 2008, 122 Stat. 278, as amended by Pub. L. 114–92, div. A, title VIII, § 802(c), Nov. 25, 2015, 129 Stat. 879, provided that each Principal Military Deputy to a service acquisition executive has the responsibility to keep the Chief of Staff of the Armed Forced concerned informed of the progress of and certain developments on major defense acquisition programs and to ensure program managers and program executive officers make certain considerations during the acquisition process.
+Pub. L. 110–181, div. A, title IX, § 908(d), Jan. 28, 2008, 122 Stat. 278, as amended by Pub. L. 114–92, div. A, title VIII, § 802(c), Nov. 25, 2015, 129 Stat. 879, provided that each Principal Military Deputy to a service acquisition executive has the responsibility to keep the Chief of Staff of the Armed Force concerned informed of the progress of and certain developments on major defense acquisition programs and to ensure program managers and program executive officers make certain considerations during the acquisition process.
 
 #### Requirements Management Certification Training Program
-Pub. L. 109–364, div. A, title VIII, § 801, Oct. 17, 2006, 120 Stat. 2312, provided for the development of a training program to certify military and civilian personnel of the Department of Defense with responsibility for generating requirements for major defense acquisition programs, required that members of the Armed Forces or employees of the Department of Defense successfully complete the training program in order to participate in the requirements generation process after Sept. 30, 2008, and directed the Secretary of Defense to submit to the Committees on Armed Services of the Senate and House of Representatives reports on implementation of the program, with the final report due not later than Mar. 1, 2008.
+Pub. L. 109–364, div. A, title VIII, § 801, Oct. 17, 2006, 120 Stat. 2312, as amended by Pub. L. 116–92, div. A, title IX, § 902(68), Dec. 20, 2019, 133 Stat. 1551, provided that: “(a) Training Program.—“(1) Requirement.—The Under Secretary of Defense for Acquisition and Sustainment, in consultation with the Defense Acquisition University, shall develop a training program to certify military and civilian personnel of the Department of Defense with responsibility for generating requirements for major defense acquisition programs (as defined in [section 2430(a) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2430/a&num=0&edition=prelim), United States Code). “(2) Competency and other requirements.—The Under Secretary shall establish competency requirements for the personnel undergoing the training program. The Under Secretary shall define the target population for such training program by identifying which military and civilian personnel should have responsibility for generating requirements. The Under Secretary also may establish other training programs for personnel not subject to chapter 87 of title 10, United States Code, who contribute significantly to other types of acquisitions by the Department of Defense. “(b) Applicability.—Effective on and after September 30, 2008, a member of the Armed Forces or an employee of the Department of Defense with authority to generate requirements for a major defense acquisition program may not continue to participate in the requirements generation process unless the member or employee successfully completes the certification training program developed under this section. “(c) Reports.—The Secretary of Defense shall submit to the Committees on Armed Services of the Senate and House of Representatives an interim report, not later than March 1, 2007, and a final report, not later than March 1, 2008, on the implementation of the training program required under this section.”
 
 #### Program Manager Empowerment and Accountability
 Pub. L. 109–364, div. A, title VIII, § 853, Oct. 17, 2006, 120 Stat. 2342, as amended by Pub. L. 110–417, [div. A], title VIII, § 814(e)(1), Oct. 14, 2008, 122 Stat. 4530, directed the Secretary of Defense to develop a comprehensive strategy for enhancing the role of Department of Defense program managers in developing and carrying out defense acquisition programs and to revise, not later than 180 days after Oct. 17, 2006, guidance for major defense acquisition programs to address the qualifications, resources, responsibilities, tenure, and accountability of program managers for both the program development period and the program execution period and provided for reports to Congress by the Secretary and the Comptroller General by not later than 270 days after Oct. 17, 2006, and one year after such date, respectively.
@@ -231,12 +257,18 @@ Pub. L. 111–23, § 2, May 22, 2009, 123 Stat. 1704, provided that: “In this 
 
 ### Statutory Notes
 
+#### Transfer of Section
+Pub. L. 116–283, div. A, title XVIII, §§ 1801(d), 1846(g), Jan. 1, 2021, 134 Stat. 4151, 4251, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, this section is transferred to chapter 321 of this title, as added by section 1846(b) of Pub. L. 116–283, inserted after section 4202, and redesignated as [section 4203 of this title](./chapter-321-general-matters.md#section-4203). See Effective Date of 2021 Amendment note below.
+
 #### Amendments
 2016—Subsec. (a)(1)(B). Pub. L. 114–328, which directed substitution of “major defense acquisition program requires the delivery of two or more increments or blocks” for “major defense acquisition program to purchase satellites requires the delivery of satellites in two or more increments or blocks” in par. (1)(B), was executed by making the substitution in par. (1)(B) of subsec. (a), to reflect the probable intent of Congress.
 
 2011—Subsec. (a)(1). Pub. L. 112–81 designated existing provisions as subpar. (A) and added subpar. (B).
 
 Subsec. (b). Pub. L. 111–383 designated existing provisions as par. (1), redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, of par. (1), inserted “(other than as provided in paragraph (2))” before semicolon in subpar. (A), and added par. (2).
+
+#### Effective Date of 2021 Amendment
+Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
 
 
 <a id="section-2431"></a>
@@ -264,6 +296,9 @@ Subsec. (b). Pub. L. 111–383 designated existing provisions as par. (1), redes
 **(c)** In the case of any weapon system for which procurement funds have not been previously requested and for which funds are first requested by the President in any fiscal year after the Budget for that fiscal year has been submitted to Congress, the same documentation requirements shall be applicable to that system in the same manner and to the same extent as if funds had been requested for that system in that budget.
 
 ### Statutory Notes
+
+#### Transfer of Section
+Pub. L. 116–283, div. A, title XVIII, §§ 1801(d), 1846(h)(1), Jan. 1, 2021, 134 Stat. 4151, 4251, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, this section is transferred to chapter 321 of this title, as added by section 1846(b) of Pub. L. 116–283, added at the end, and redesignated as [section 4205 of this title](./chapter-321-general-matters.md#section-4205). See Effective Date of 2021 Amendment note below.
 
 #### Prior Provisions
 Provisions similar to those in this section were contained in Pub. L. 92–156, title V, § 506, Nov. 17, 1971, 85 Stat. 429, prior to repeal by Pub. L. 93–155, § 803(b)(2).
@@ -313,6 +348,9 @@ Subsec. (b)(2). Pub. L. 98–525, § 1405(3)(A), substituted “30” for “thi
 
 1975—Subsec. (b). Pub. L. 94–106 substituted “or more than ninety, days before” for “or more than sixty, days before”.
 
+#### Effective Date of 2021 Amendment
+Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
+
 #### Effective Date of 1996 Amendment
 For effective date and applicability of amendment by Pub. L. 104–106, see section 4401 of Pub. L. 104–106, set out as a note under [section 2302 of this title](./chapter-137-procurement-generally.md#section-2302).
 
@@ -323,10 +361,10 @@ Amendment by Pub. L. 100–180 applicable as if included in enactment of the Gol
 Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of Pub. L. 96–513, set out as a note under [section 101 of this title](./chapter-001-definitions.md#section-101).
 
 #### Transition of Ballistic Missile Defense Programs to Military Departments
-Pub. L. 115–91, div. A, title XVI, § 1676(b), Dec. 12, 2017, 131 Stat. 1772, as amended by Pub. L. 115–232, div. A, title XVI, § 1679, Aug. 13, 2018, 132 Stat. 2161, directed the Secretary of Defense to transfer, not later than the date on which the budget for fiscal year 2021 is submitted to Congress, the acquisition authority and the total obligational authority for each missile defense program that has received Milestone C approval or equivalent approval as of such date from the Missile Defense Agency to a military department, and directed the Secretary to submit to the congressional defense committees, not later than one year after Dec. 12, 2017, a report on the plans for such transition of missile defense programs.
+Pub. L. 115–91, div. A, title XVI, § 1676(b), Dec. 12, 2017, 131 Stat. 1772, as amended by Pub. L. 115–232, div. A, title XVI, § 1679, Aug. 13, 2018, 132 Stat. 2161; Pub. L. 116–283, div. A, title XVI, § 1643, Jan. 1, 2021, 134 Stat. 4062, directed the Secretary of Defense to transfer, not later than the date on which the budget for fiscal year 2023 is submitted to Congress, the acquisition authority and the total obligational authority for each missile defense program that has received Milestone C approval or equivalent approval as of such date from the Missile Defense Agency to a military department, and directed the Secretary to submit to the congressional defense committees, not later than one year after Dec. 12, 2017, a report on the plans for such transition of missile defense programs.
 
 #### Development of Persistent Space-Based Sensor Architecture
-Pub. L. 115–91, div. A, title XVI, § 1683, Dec. 12, 2017, 131 Stat. 1777, as amended by Pub. L. 115–232, div. A, title XVI, § 1675(a)–(c), (d)(2), Aug. 13, 2018, 132 Stat. 2159, 2160, directed the Director of the Missile Defense Agency, in coordination with the Commander of the Air Force Space Command and the Commander of the United States Strategic Command, to develop a highly reliable and cost-effective persistent space-based sensor architecture capable of supporting the ballistic missile defense system, subject to the availability of appropriations, beginning fiscal year 2019, and to submit to the congressional defense committees and the Select Committee on Intelligence of the Senate and the Permanent Select Committee on Intelligence of the House of Representatives, not later than one year after Dec. 12, 2017, a plan to carry out such development; and directed the Director to submit to such committees, not later than Jan. 31, 2019, a report on the options available to use other transactional authorities pursuant to [section 2371 of this title](./chapter-139-research-and-development.md#section-2371) to accelerate development and deployment of such architecture.
+Pub. L. 115–91, div. A, title XVI, § 1683, Dec. 12, 2017, 131 Stat. 1777, as amended by Pub. L. 115–232, div. A, title XVI, § 1675(a)–(c), (d)(2), Aug. 13, 2018, 132 Stat. 2159, 2160; Pub. L. 116–92, div. A, title XVI, § 1683, Dec. 20, 2019, 133 Stat. 1782; Pub. L. 116–283, div. A, title XVI, § 1645(g), Jan. 1, 2021, 134 Stat. 4064, directed the Director of the Missile Defense Agency, in coordination with the Commander of the Air Force Space Command and the Commander of the United States Strategic Command, beginning fiscal year 2019, to develop and rigorously test a highly reliable and cost-effective persistent space-based sensor architecture capable of supporting the ballistic missile defense system, to ensure that the sensor architecture developed is compatible with efforts of the Defense Advanced Research Projects Agency relating to space-based sensors for missile defense, to submit to the appropriate congressional committees a report on the available options not later than January 31, 2019, to submit to the appropriate congressional committees a plan not later than one year after December 12, 2017, and to submit to the appropriate congressional committees an update to the plan not later than 90 days after December 20, 2019.
 
 #### Boost Phase Ballistic Missile Defense
 Pub. L. 115–91, div. A, title XVI, § 1685, Dec. 12, 2017, 131 Stat. 1781, as amended by Pub. L. 115–232, div. A, title XVI, § 1676, Aug. 13, 2018, 132 Stat. 2160, directed the Secretary of Defense to ensure that an effective interim kinetic or directed energy boost phase ballistic missile defense capability would be available for initial operational deployment as soon as practicable, directed the Secretary to submit to the congressional defense committees, together with the budget submitted to Congress for fiscal year 2019, a plan to achieve such capability, directed the Director of the Missile Defense Agency, beginning fiscal year 2019, to carry out a program to develop kinetic boost phase intercept capabilities, required an independent study on the feasibility of providing an initial or demonstrated boost phase capability using unmanned aerial vehicles and kinetic interceptors, and directed the Secretary of Defense to submit to the congressional defense committees a report on such study not later than July 31, 2019.
@@ -335,13 +373,15 @@ Pub. L. 115–91, div. A, title XVI, § 1685, Dec. 12, 2017, 131 Stat. 1781, as 
 Pub. L. 115–91, div. A, title XVI, § 1686, Dec. 12, 2017, 131 Stat. 1781, authorized the Secretary of Defense to increase the number of the ground-based interceptors of the United States and to advance missile defense technologies to improve the capability and reliability of those elements of the ballistic missile defense system, and directed the Director of the Missile Defense Agency to submit to the congressional defense committees, not later than 90 days after the date on which the Ballistic Missile Defense Review commenced in 2017 is published, a report on those efforts.
 
 #### Plan for Development of Space-Based Ballistic Missile Intercept Layer
-Pub. L. 115–91, div. A, title XVI, § 1688, Dec. 12, 2017, 131 Stat. 1783, as amended by Pub. L. 115–232, div. A, title XVI, § 1680, Aug. 13, 2018, 132 Stat. 2161, directed the Director of the Missile Defense Agency to develop a space-based ballistic missile intercept layer to the ballistic missile defense system, subject to the availability of appropriations, and to submit to the congressional defense committees and the Select Committee on Intelligence of the Senate and the Permanent Select Committee on Intelligence of the House of Representatives, not later than one year after Dec. 12, 2017, a 10-year plan to carry out such development.
+Pub. L. 115–91, div. A, title XVI, § 1688, Dec. 12, 2017, 131 Stat. 1783, as amended by Pub. L. 115–232, div. A, title XVI, § 1680, Aug. 13, 2018, 132 Stat. 2161; Pub. L. 116–92, div. A, title XVI, § 1682, Dec. 20, 2019, 133 Stat. 1782, provided that: “(a) Development.—Subject to the availability of appropriations, the Director of the Missile Defense Agency shall develop a space-based ballistic missile intercept layer to the ballistic missile defense system that is—“(1) regionally focused; “(2) capable of providing boost-phase defense; and “(3) achieves an operational capability at the earliest practicable date. “(b) Space-based Ballistic Missile Intercept Layer Plan.—Not later than one year after the date of the enactment of this Act [Dec. 12, 2017], the Director shall submit to the appropriate congressional committees a plan to carry out subsection (a) during the 10-year period following the date of the plan. Such plan shall include the following:“(1) A concept definition phase consisting of multiple awarded contracts to identify feasible solutions consistent with architectural principles, performance goals, and price points established by the Director, such as contracts relating to—“(A) refined requirements; “(B) conceptual designs; “(C) technology readiness assessments; “(D) critical technical and operational issues; “(E) cost, schedule, performance estimates; and “(F) risk reduction plans. “(2) A technology risk reduction phase consisting of up to three competitively awarded contracts focused on maturing, integrating, and characterizing key technologies, algorithms, components, and subsystems, such as contracts relating to—“(A) refined concepts and designs; “(B) engineering trade studies; “(C) medium-to-high fidelity digital representations of the space-based ballistic missile intercept weapon system; and “(D) a proposed integration and test sequence that could potentially lead to a live-fire boost phase intercept during fiscal year 2022, if the technology has reached sufficient maturity and is economically viable. “(3) During the technology risk reduction phase, contractors will define proposed demonstrations to a preliminary design review level prior to a technology development phase down-select. “(4) A technology development phase consisting of two competitively awarded contracts to mature the preferred space-based ballistic missile intercept weapon system concepts and to potentially conduct a live-fire boost phase intercept fly-off during fiscal year 2022, if the technology has reached sufficient maturity and is economically viable, with brassboard hardware and prototype software on a path to the operational goal. “(5) A concurrent space-based ballistic missile intercept weapon system fire control test bed activity that incrementally incorporates modeling and simulation elements, real-world data, hardware, algorithms, and systems to evaluate with increasing confidence the performance of evolving designs and concepts of such weapon system from target detection to intercept. “(6) Any other matters the Director determines appropriate. “(c) Appropriate Congressional Committees Defined.—In this section, the term ‘appropriate congressional committees’ means—“(1) the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives]; and “(2) the Select Committee on Intelligence of the Senate and the Permanent Select Committee on Intelligence of the House of Representatives.”
 
 #### Designation of Department of Defense Senior Official With Principal Responsibility for Directed Energy Weapons
-Pub. L. 114–328, div. A, title II, § 219, Dec. 23, 2016, 130 Stat. 2053, as amended by Pub. L. 115–91, div. A, title II, § 215, Dec. 12, 2017, 131 Stat. 1326; Pub. L. 115–232, div. A, title II, §§ 212, 237, Aug. 13, 2018, 132 Stat. 1675, 1695, designated the Under Secretary of Defense for Research and Engineering as the official with principal responsibility for the development and demonstration of directed energy weapons for the Department of Defense, redesignated the High Energy Laser Joint Technology Office of the Department of Defense as the Joint Directed Energy Transition Office, which office was to report to the Under Secretary of Defense for Research and Engineering, and directed the Secretary of Defense, acting through the Under Secretary, to establish a program on the prototyping and demonstration of directed energy weapon systems to build and maintain the military superiority of the United States.
+Pub. L. 114–328, div. A, title II, § 219, Dec. 23, 2016, 130 Stat. 2053, as amended by Pub. L. 115–91, div. A, title II, § 215, Dec. 12, 2017, 131 Stat. 1326; Pub. L. 115–232, div. A, title II, §§ 212, 237, Aug. 13, 2018, 132 Stat. 1675, 1695; Pub. L. 116–283, div. A, title II, § 215, Jan. 1, 2021, 134 Stat. 3458, designated the Under Secretary of Defense for Research and Engineering as the official with principal responsibility for the development and demonstration of directed energy weapons for the Department of Defense, redesignated the High Energy Laser Joint Technology Office of the Department of Defense as the Joint Directed Energy Transition Office, which office was to report to the Under Secretary of Defense for Research and Engineering, directed the Secretary of Defense, acting through the Under Secretary, to establish a program on the prototyping and demonstration of directed energy weapon systems to build and maintain the military superiority of the United States, and directed the Secretary of Defense to establish the Directed Energy Working Group, to be terminated 4 years after January 1, 2021, to analyze and evaluate the current and planned directed energy programs of each of the military departments, to make recommendations to the Secretary of Defense, and to provide to the congressional defense committees a briefing on the progress of each directed energy program that is being adopted or fielded by the Department of Defense not later than 180 days after January 1, 2021, and not less frequently than once every 180 days thereafter.
 
 #### National Missile Defense Policy
-Pub. L. 114–328, div. A, title XVI, § 1681(a), Dec. 23, 2016, 130 Stat. 2623, provided that: “It is the policy of the United States to maintain and improve an effective, robust layered missile defense system capable of defending the territory of the United States, allies, deployed forces, and capabilities against the developing and increasingly complex ballistic missile threat with funding subject to the annual authorization of appropriations and the annual appropriation of funds for National Missile Defense.”
+Pub. L. 116–92, div. A, title XVI, § 1681(b), Dec. 20, 2019, 133 Stat. 1781, provided that: “Not later than the date on which the President submits to Congress the annual budget request of the President for fiscal year 2021 pursuant to [section 1105 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1105&num=0&edition=prelim), United States Code, the Secretary of Defense shall, as the Secretary considers appropriate, redesignate all strategies, policies, programs, and systems under the jurisdiction of the Secretary to reflect that missile defense programs of the United States defend against ballistic, cruise, and hypersonic missiles in all phases of flight.”
+
+Pub. L. 114–328, div. A, title XVI, § 1681(a), Dec. 23, 2016, 130 Stat. 2623, as amended by Pub. L. 116–92, div. A, title XVI, § 1681(a), Dec. 20, 2019, 133 Stat. 1781, provided that: “It is the policy of the United States to— “(1) maintain and improve, with funding subject to the annual authorization of appropriations and the annual appropriation of funds for National Missile Defense—“(A) an effective, layered missile defense system capable of defending the territory of the United States against the developing and increasingly complex missile threat posed by rogue states; and “(B) an effective regional missile defense system capable of defending the allies, partners, and deployed forces of the United States against increasingly complex missile threats; and “(2) rely on nuclear deterrence to address more sophisticated and larger quantity near-peer intercontinental missile threats to the homeland of the United States.”
 
 Pub. L. 106–38, § 2, July 22, 1999, 113 Stat. 205, which provided that it was the policy of the United States to deploy as soon as technologically possible an effective National Missile Defense system capable of defending the territory of the United States against limited ballistic missile attack with funding subject to the annual authorization of appropriations and the annual appropriation of funds for National Missile Defense, was repealed by Pub. L. 114–328, div. A, title XVI, § 1681(b), Dec. 23, 2016, 130 Stat. 2623.
 
@@ -355,16 +395,18 @@ Pub. L. 114–328, div. A, title XVI, § 1686(a), Dec. 23, 2016, 130 Stat. 2628,
 Pub. L. 114–328, div. A, title XVI, § 1687, Dec. 23, 2016, 130 Stat. 2629, designated the Director of the Missile Defense Agency as the executive agent for the Department of Defense for the development of a capability by the United States to counter hypersonic boost-glide vehicle capabilities and conventional prompt strike capabilities that may be employed against the United States or its allies and directed the Director to establish a program to develop such hypersonic defense capability by not later than Mar. 31, 2017.
 
 #### Required Testing by Missile Defense Agency of Ground-Based Midcourse Defense Element of Ballistic Missile Defense System
-Pub. L. 114–328, div. A, title XVI, § 1689, Dec. 23, 2016, 130 Stat. 2631, directed the Director of the Missile Defense Agency, subject to certain exceptions, to administer a flight test of the ground-based midcourse defense element of the ballistic missile defense system not less frequently than once each fiscal year.
+Pub. L. 114–328, div. A, title XVI, § 1689, Dec. 23, 2016, 130 Stat. 2631, as amended by Pub. L. 116–92, div. A, title IX, § 902(97), title XVI, § 1684, Dec. 20, 2019, 133 Stat. 1555, 1783, provided that: “(a) Testing Required.—Except as provided in subsection (c), not less frequently than once each fiscal year, the Director of the Missile Defense Agency shall administer a flight test of the ground-based midcourse defense element of the ballistic missile defense system. “(b) Requirements.—The Director shall ensure that each test carried out under subsection (a) provides for one or more of the following:“(1) The validation of technical improvements made to increase system performance and reliability. “(2) The evaluation of the operational effectiveness of the ground-based midcourse defense element of the ballistic missile defense system. “(3) The use of threat-representative targets and critical engagement conditions, including the use of threat-representative countermeasures. “(4) The evaluation of new configurations of interceptors before they are fielded. “(5) The satisfaction of the ‘fly before buy’ acquisition approach for new interceptor components or software. “(6) The evaluation of the interoperability of the ground-based midcourse defense element with other elements of the ballistic missile defense systems. “(c) Exceptions.—The Director may forgo a test under subsection (a) in a fiscal year under one or more of the following conditions:“(1) Such a test would jeopardize national security. “(2) Insufficient time considerations between post-test analysis and subsequent pre-test design. “(3) Insufficient funding. “(4) An interceptor is unavailable. “(5) A target is unavailable or is insufficiently representative of threats. “(6) The test range or necessary test assets are unavailable. “(7) Inclement weather. “(8) Any other condition the Director considers appropriate. “(d) Certification.—Not later than 45 days after forgoing a test for a condition or conditions under subsection (c)(8), the Under Secretary of Defense for Research and Engineering shall submit to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] a certification setting forth the condition or conditions that caused the test to be forgone under such subsection. “(e) Report.—Not later than 45 days after forgoing a test for any condition specified in subsection (c), the Director shall submit to the congressional defense committees a report setting forth the rationale for forgoing the test and a plan to restore an intercept flight test in the Integrated Master Test Plan of the Missile Defense Agency. In the case of a test forgone for a condition or conditions under subsection (c)(8), the report required by this subsection is in addition to the certification required by subsection (d).”
 
 #### Pilot Program on Loss of Unclassified, Controlled Technical Information
 Pub. L. 114–328, div. A, title XVI, § 1692, Dec. 23, 2016, 130 Stat. 2636, provided that: “(a) Pilot Program.—Beginning not later than 90 days after the date of the enactment of this Act [Dec. 23, 2016], the Director of the Missile Defense Agency shall carry out a pilot program to implement improvements to the data protection options in the programs of the Missile Defense Agency (including the contractors of the Agency), particularly with respect to unclassified, controlled technical information and controlled unclassified information. “(b) Priority.—In carrying out the pilot program under subsection (a), the Director shall give priority to implementing data protection options that are used by the private sector and have been proven successful. “(c) Duration.—The Director shall carry out the pilot program under subsection (a) for not more than a 5-year period. “(d) Notification.—Not later than 30 days before the date on which the Director commences the pilot program under subsection (a), the Director shall notify the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives], the Committee on Oversight and Government Reform of the House of Representatives, and the Committee on Homeland Security and Governmental Affairs of the Senate of—“(1) the data protection options that the Director is considering to implement under the pilot program and the potential costs of such options; and “(2) such option that is the preferred option of the Director. “(e) Data Protection Options.—In this section, the term ‘data protection options’ means actions to improve processes, practices, and systems that relate to the safeguarding, hygiene, and data protection of information.”
 
 #### Plan on Full Integration and Exploitation of Overhead Persistent Infrared Capability
-Pub. L. 114–92, div. A, title XVI, § 1618, Nov. 25, 2015, 129 Stat. 1108, directed the Commander of the United States Strategic Command and the Director of Cost Assessment and Program Evaluation, in coordination with the Director of National Intelligence, to submit to the congressional defense committees and the Permanent Select Committee on Intelligence of the House of Representatives and the Select Committee on Intelligence of the Senate, not later than 180 days after Nov. 25, 2015, a plan for the integration of overhead persistent infrared capabilities, and directed the Secretary of Defense to include in the budget justification materials submitted to Congress for each fiscal year a determination of how such plan was being implemented.
+Pub. L. 114–92, div. A, title XVI, § 1618, Nov. 25, 2015, 129 Stat. 1108, as amended by Pub. L. 116–92, div. A, title XVI, § 1604, Dec. 20, 2019, 133 Stat. 1723, provided that: “(a) Plan.—Not later than 180 days after the date of the enactment of this Act [Nov. 25, 2015], the Commander of the United States Strategic Command and the Director of Cost Assessment and Program Evaluation, in coordination with the Director of National Intelligence, shall jointly submit to the appropriate congressional committees a plan for the integration of overhead persistent infrared capabilities to support the missions specified in subsection (b)(1). “(b) Elements.—The plan under subsection (a) shall—“(1) ensure that all overhead persistent infrared capabilities of the United States, including such capabilities that are planned to be developed, are integrated to allow for such capabilities to be exploited to support the requirements of the missions of the Department of Defense relating to—“(A) strategic and theater missile warning; “(B) ballistic and cruise missile defense, including with respect to missile tracking, fire control, and kill assessment; “(C) technical intelligence supporting missile warning; “(D) battlespace awareness; “(E) other technical intelligence; “(F) civil and environmental missions, including with respect to the collection of weather data; and “(G) battle damage assessments; and “(2) establish clear benchmarks by which to establish acquisition plans, manning, and budget requirements. “(c) Annual Determination.—The Secretary of Defense shall include, together with, or not later than 30 days after, the budget justification materials submitted to Congress in support of the budget of the Department of Defense for each of fiscal years 2021 through 2028 (as submitted with the budget of the President under [section 1105(a) of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1105/a&num=0&edition=prelim), United States Code), a written determination of how the plan under subsection (a) is being implemented. “(d) Appropriate Congressional Committees Defined.—In this section, the term ‘appropriate congressional committees’ means—“(1) the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives]; and “(2) the Permanent Select Committee on Intelligence of the House of Representatives and the Select Committee on Intelligence of the Senate.”
 
 #### Integration and Interoperability of Air and Missile Defense Capabilities of the United States
-Pub. L. 114–92, div. A, title XVI, § 1675, Nov. 25, 2015, 129 Stat. 1131, directed the Under Secretary of Defense for Acquisition, Technology, and Logistics and the Vice Chairman of the Joint Chiefs of Staff, acting through the Missile Defense Executive Board, to ensure the interoperability and integration of certain specified air and missile defense capabilities of the United States, including by carrying out operational testing.
+Pub. L. 114–92, div. A, title XVI, § 1675, Nov. 25, 2015, 129 Stat. 1131, as amended by Pub. L. 116–92, div. A, title IX, § 902(69), Dec. 20, 2019, 133 Stat. 1551; Pub. L. 116–283, div. A, title X, § 1081(f)(3), Jan. 1, 2021, 134 Stat. 3875, provided that: “(a) Interoperability of Missile Defense Systems.—The Vice Chairman of the Joint Chiefs of Staff and the chairman of the Missile Defense Executive Board (pursuant to section 1681(c) of the John S. McCain National Defense Authorization Act for Fiscal Year 2019 (Public Law 115–232; 132 Stat. 2162)), acting through the Missile Defense Executive Board, shall ensure the interoperability and integration of the covered air and missile defense capabilities of the United States, including by carrying out operational testing. “(b) Annual Demonstration.—“(1) Requirement.—Except as provided by paragraph (2), the Director of the Missile Defense Agency and the Secretary of the Army shall jointly ensure that not less than one intercept or flight test is carried out each year that demonstrates interoperability and integration among the covered air and missile defense capabilities of the United States. “(2) Waiver.—The Director and the Secretary may waive the requirement in paragraph (1) with respect to an intercept or flight test carried out during the year covered by the waiver if the chairman of the Missile Defense Executive Board—“(A) determines that such waiver is necessary for such year; and “(B) submits to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] notification of such waiver, including an explanation for how such waiver will not negatively affect demonstrating the interoperability and integration among the covered air and missile defense capabilities of the United States. “(c) Definitions.—In this section, the term ‘covered air and missile defense capabilities’ means Patriot air and missile defense batteries and associated interceptors and systems, Aegis ships and associated ballistic missile interceptors (including Aegis Ashore capability), AN/TPY–2 radars, or terminal high altitude area defense batteries and interceptors.”
+
+[Pub. L. 116–283, div. A, title X, § 1081(f), Jan. 1, 2021, 134 Stat. 3874, provided that the amendment made by section 1081(f)(3) of Pub. L. 116–283 to section 1675 of Pub. L. 114–92, set out above, is effective as of Dec. 23, 2016, and as if included in Pub. L. 114–92 as enacted.]
 
 #### Boost Phase Defense System
 Pub. L. 114–92, div. A, title XVI, § 1680, Nov. 25, 2015, 129 Stat. 1137, directed the Secretary of Defense to develop and field an airborne boost phase defense system by not later than fiscal year 2025, and to submit a report on its efforts to the congressional defense committees not later than 120 days after Nov. 25, 2015.
@@ -549,7 +591,7 @@ Pub. L. 93–552, title VI, § 608, Dec. 27, 1974, 88 Stat. 1763, authorized the
 ## § 2431a. Acquisition strategy
 **(a) Acquisition Strategy Required.—** There shall be an acquisition strategy for each major defense acquisition program, each major automated information system, and each major system approved by a milestone decision authority.
 
-**(b) Responsible Official.—** For each acquisition strategy required by subsection (a), the Under Secretary of Defense for Acquisition, Technology, and Logistics, or the milestone decision authority, when the milestone decision authority is the service acquisition executive of the military department that is managing the program, is responsible for issuing and maintaining the requirements for—
+**(b) Responsible Official.—** For each acquisition strategy required by subsection (a), the Under Secretary of Defense for Acquisition and Sustainment, or the milestone decision authority, when the milestone decision authority is the service acquisition executive of the military department that is managing the program, is responsible for issuing and maintaining the requirements for—
 
 (1) the content of the strategy; and
 
@@ -647,7 +689,12 @@ Pub. L. 93–552, title VI, § 608, Dec. 27, 1974, 88 Stat. 1763, authorized the
 
 ### Statutory Notes
 
+#### Transfer of Section
+Pub. L. 116–283, div. A, title XVIII, §§ 1801(d), 1847(b)(1), Jan. 1, 2021, 134 Stat. 4151, 4253, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, this section is ransferred to chapter 322 of this title, as added by section 1847(a) of Pub. L. 116–283, inserted after the table of sections at the beginning of subchapter I, and redesignated as [section 4211 of this title](./chapter-322-major-systems-and-major-defense-acquisition-programs-generally.md#section-4211). See Effective Date of 2021 Amendment note below.
+
 #### Amendments
+2019—Subsec. (b). Pub. L. 116–92 substituted “Under Secretary of Defense for Acquisition and Sustainment” for “Under Secretary of Defense for Acquisition, Technology, and Logistics” in introductory provisions.
+
 2017—Subsec. (d)(1). Pub. L. 115–91 inserted “(1)” before “The milestone”.
 
 2016—Subsec. (b). Pub. L. 114–328, § 848(1), in introductory provisions, inserted “, or the milestone decision authority, when the milestone decision authority is the service acquisition executive of the military department that is managing the program,” after “the Under Secretary of Defense for Acquisition, Technology, and Logistics”.
@@ -657,6 +704,9 @@ Subsec. (c)(1). Pub. L. 114–328, § 848(2)(A), in introductory provisions, ins
 Subsec. (c)(2)(C). Pub. L. 114–328, § 848(2)(B), struck out “, in accordance with [section 2431b of this title](./chapter-144-major-defense-acquisition-programs.md#section-2431b)” before period at end.
 
 Subsec. (d). Pub. L. 114–328, § 848(3), substituted “The” for “(1) Subject to the authority, direction, and control of the Under Secretary of Defense for Acquisition, Technology, and Logistics, the” and, in par. (2), inserted “because of a change described in paragraph (1)(F)” after “for a program or system”.
+
+#### Effective Date of 2021 Amendment
+Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
 
 
 <a id="section-2431b"></a>
@@ -707,8 +757,14 @@ Subsec. (d). Pub. L. 114–328, § 848(3), substituted “The” for “(1) Subj
 
 ### Statutory Notes
 
+#### Transfer of Section
+Pub. L. 116–283, div. A, title XVIII, §§ 1801(d), 1847(b)(3), Jan. 1, 2021, 134 Stat. 4151, 4254, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, this section is transferred to chapter 322 of this title, as added by section 1847(a) of Pub. L. 116–283, inserted after section 4211, and redesignated as [section 4212 of this title](./chapter-322-major-systems-and-major-defense-acquisition-programs-generally.md#section-4212). See Effective Date of 2021 Amendment note below.
+
 #### Amendments
 2016—Subsec. (d). Pub. L. 114–328 amended subsec. (d) generally. Prior to amendment, subsec. (d) defined terms “major defense acquisition program” and “major system”.
+
+#### Effective Date of 2021 Amendment
+Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
 
 
 <a id="section-2432"></a>
@@ -725,7 +781,7 @@ Subsec. (d). Pub. L. 114–328, § 848(3), substituted “The” for “(1) Subj
 
 **(b)**
 
-(1) The Secretary of Defense shall submit to Congress at the end of each fiscal-year quarter a report on current major defense acquisition programs. Except as provided in paragraphs (2) and (3), each such report shall include a status report on each defense acquisition program that at the end of such quarter is a major defense acquisition program. Reports under this section shall be known as Selected Acquisition Reports.
+(1) The Secretary of Defense shall submit to Congress at the end of each fiscal-year quarter a report on current major defense acquisition programs and any program that is estimated by the Secretary of Defense to require an eventual total expenditure for research, development, test, and evaluation of more than $300,000,000 (based on fiscal year 1990 constant dollars) or an eventual total expenditure for procurement, including all planned increments or spirals, of more than $1,800,000,000 (based on fiscal year 1990 constant dollars). Except as provided in paragraphs (2) and (3), each such report shall include a status report on each defense acquisition program that at the end of such quarter is a major defense acquisition program. Reports under this section shall be known as Selected Acquisition Reports.
 
 (2) A status report on a major defense acquisition program need not be included in the Selected Acquisition Report for the second, third, or fourth quarter of a fiscal year if such a report was included in a previous Selected Acquisition Report for that fiscal year and during the period since that report there has been—
 
@@ -835,12 +891,68 @@ Subsec. (d). Pub. L. 114–328, § 848(3), substituted “The” for “(1) Subj
 
 (3) The submission requirements for a limited report under this subsection shall be the same as for quarterly Selected Acquisition Reports for total program reporting.
 
+**(i) Form of Report.—** A Selected Acquisition Report required under this section shall be submitted in unclassified form without any designation relating to dissemination control, but may contain a classified annex.
+
+**(j) Termination.—** The requirements under this section shall terminate after the final submission covering fiscal year 2021.
+
 ### Statutory Notes
+
+#### Amendment of Section
+Pub. L. 116–283, div. A, title XVIII, §§ 1801(d), 1849(b), (c), (d)(1), (e)(1), (f)(1), (g), (h)(1), (i), (j), (k)(1), Jan. 1, 2021, 134 Stat. 4151, 4259–4263, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, this section is amended as follows:
+
+(1) by transferring subsection (a) to [section 4351 of this title](./chapter-324-program-status-selected-acquisition-reports.md#section-4351);
+
+(2) by transferring subsection (b) to [section 4352 of this title](./chapter-324-program-status-selected-acquisition-reports.md#section-4352);
+
+(3) by transferring subsection (c) to [section 4353 of this title](./chapter-324-program-status-selected-acquisition-reports.md#section-4353);
+
+(4) by transferring subsection (d) to [section 4354 of this title](./chapter-324-program-status-selected-acquisition-reports.md#section-4354);
+
+(5) by transferring subsection (e) to [section 4355 of this title](./chapter-324-program-status-selected-acquisition-reports.md#section-4355);
+
+(6) by transferring subsection (f) to [section 4356(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section4356/a&num=0&edition=prelim);
+
+(7) by transferring subsection (g) to [section 4357 of this title](./chapter-324-program-status-selected-acquisition-reports.md#section-4357);
+
+(8) by transferring subsection (h) to [section 4358 of this title](./chapter-324-program-status-selected-acquisition-reports.md#section-4358);
+
+(9) by transferring subsection (i) to [section 4356(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section4356/b&num=0&edition=prelim); and
+
+(10) by transferring subsection (j) to [section 4350 of this title](./chapter-324-program-status-selected-acquisition-reports.md#section-4350).
+
+See 2021 Amendment notes below.
+
+#### Repeal of Section
+Pub. L. 116–283, div. A, title XVIII, §§ 1801(d), 1849(l), Jan. 1, 2021, 134 Stat. 4151, 4264, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, this section is repealed.
 
 #### Codification
 Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
 
 #### Amendments
+2021—Subsec. (a). Pub. L. 116–283, § 1849(c), transferred subsec. (a) to [section 4351 of this title](./chapter-324-program-status-selected-acquisition-reports.md#section-4351).
+
+Subsec. (b). Pub. L. 116–283, § 1849(d)(1), transferred subsec. (b) to [section 4352 of this title](./chapter-324-program-status-selected-acquisition-reports.md#section-4352).
+
+Subsec. (c). Pub. L. 116–283, § 1849(e)(1), transferred subsec. (c) to [section 4353 of this title](./chapter-324-program-status-selected-acquisition-reports.md#section-4353).
+
+Subsec. (d). Pub. L. 116–283, § 1849(f)(1), transferred subsec. (d) to [section 4354 of this title](./chapter-324-program-status-selected-acquisition-reports.md#section-4354).
+
+Subsec. (e). Pub. L. 116–283, § 1849(g), transferred subsec. (e) to [section 4355 of this title](./chapter-324-program-status-selected-acquisition-reports.md#section-4355).
+
+Subsec. (f). Pub. L. 116–283, § 1849(h)(1), transferred subsec. (f) to [section 4356(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section4356/a&num=0&edition=prelim).
+
+Subsec. (g). Pub. L. 116–283, § 1849(j), transferred subsec. (g) to [section 4357 of this title](./chapter-324-program-status-selected-acquisition-reports.md#section-4357).
+
+Subsec. (h). Pub. L. 116–283, § 1849(k)(1), transferred subsec. (h) to [section 4358 of this title](./chapter-324-program-status-selected-acquisition-reports.md#section-4358).
+
+Subsec. (i). Pub. L. 116–283, § 1849(i), transferred subsec. (i) to [section 4356(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section4356/b&num=0&edition=prelim).
+
+Subsec. (j). Pub. L. 116–283, § 1849(b), transferred subsec. (j) to [section 4350 of this title](./chapter-324-program-status-selected-acquisition-reports.md#section-4350).
+
+2019—Subsec. (b)(1). Pub. L. 116–92, § 830(a)(1), inserted “and any program that is estimated by the Secretary of Defense to require an eventual total expenditure for research, development, test, and evaluation of more than $300,000,000 (based on fiscal year 1990 constant dollars) or an eventual total expenditure for procurement, including all planned increments or spirals, of more than $1,800,000,000 (based on fiscal year 1990 constant dollars)” after “major defense acquisition programs”.
+
+Subsecs. (i), (j). Pub. L. 116–92, § 830(a)(2), added subsecs. (i) and (j).
+
 2016—Subsec. (c)(1)(G), (H). Pub. L. 114–328, § 805(b), added subpar. (G) and redesignated former subpar. (G) as (H).
 
 Subsec. (f). Pub. L. 114–328, § 841, substituted “30” for “45” before “days after the date”.
@@ -995,6 +1107,12 @@ Subsec. (f). Pub. L. 98–525, § 1242(a)(4), substituted: “60” for “30”
 
 Subsec. (g). Pub. L. 98–525, § 1242(a)(5), added subsec. (g).
 
+#### Effective Date of Repeal
+Repeal effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
+
+#### Effective Date of 2021 Amendment
+Amendment by section 1849(b), (c), (d)(1), (e)(1), (f)(1), (g), (h)(1), (i), (j), (k)(1) of Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
+
 #### Effective Date of 2014 Amendment
 Pub. L. 113–291, div. A, title X, § 1071(g), Dec. 19, 2014, 128 Stat. 3511, provided that the amendment made by section 1071(g)(2) is effective as of Dec. 26, 2013, and as if included in Pub. L. 113–66 as enacted.
 
@@ -1022,7 +1140,7 @@ Pub. L. 99–500, § 101(c) [title X, § 961(c)], Oct. 18, 1986, 100 Stat. 1783�
 Pub. L. 97–252, title XI, § 1107(c), Sept. 8, 1982, 96 Stat. 746, provided that: “Sections 139a and 139b [now 2432 and 2433] of title 10, United States Code, as added by subsection (a), shall take effect on January 1, 1983, and shall apply beginning with respect to reports for the first quarter of fiscal year 1983. The repeal made by subsection (b) [repealing section 811 of Pub. L. 94–106, formerly set out as a Reports to Congress of Acquisitions for Major Defense Systems note under [section 2431 of this title](./chapter-144-major-defense-acquisition-programs.md#section-2431)] shall take effect on January 1, 1983.”
 
 #### Termination of Reporting Requirements
-For termination, effective Dec. 31, 2021, of provisions in this section requiring submittal of reports to Congress, see section 1051(x) of Pub. L. 115–91, set out as a note under [section 113 of this title](./chapter-002-department-of-defense.md#section-113).
+For termination, effective Dec. 31, 2021, of provisions in this section requiring submittal of reports to Congress, see section 1051(x) of Pub. L. 115–91, set out as a note under [section 111 of this title](./chapter-002-department-of-defense.md#section-111).
 
 #### Annual Reporting
 Pub. L. 114–328, div. A, title VIII, § 847(b), Dec. 23, 2016, 130 Stat. 2292, provided that: “The Secretary of Defense shall include in each comprehensive annual Selected Acquisition Report submitted under [section 2432 of title 10](./chapter-144-major-defense-acquisition-programs.md#section-2432), United States Code, a listing of all programs or projects being developed or procured under the exceptions to the definition of major defense acquisition program set forth in paragraph (2) of section 2430(a) of United States Code, as added by subsection (a)(1)(C) of this section.”
@@ -1111,9 +1229,9 @@ Pub. L. 98–525, title XII, § 1243, Oct. 19, 1984, 98 Stat. 2609, as amended b
 
 (3) If a determination of an increase by a percentage equal to or greater than the significant cost growth threshold is made by the Secretary under subsection (d) and a Selected Acquisition Report containing the information described in subsection (g) is not submitted to Congress under paragraph (1), or if a determination of an increase by a percentage equal to or greater than the critical cost growth threshold is made by the Secretary under subsection (d) and the certification of the Secretary of Defense is not submitted to Congress under paragraph (2), funds appropriated for military construction, for research, development, test, and evaluation, and for procurement may not be obligated for a major contract under the program. The prohibition on the obligation of funds for a major defense acquisition program shall cease to apply at the end of a period of 30 days of continuous session of Congress (as determined under [section 8677(b)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section8677/b/2&num=0&edition=prelim)) beginning on the date—
 
-  (A) on which Congress receives the Selected Acquisition Report under paragraph (1) or (2)(B) with respect to that program, in the case of a determination of an increase by a percentage equal to or greater than the significant cost growth threshold (as determined in subsection (d)); or
+  (A) on which Congress receives the Selected Acquisition Report under paragraph (1) or (2)(B) 11 See References in Text note below. with respect to that program, in the case of a determination of an increase by a percentage equal to or greater than the significant cost growth threshold (as determined in subsection (d)); or
 
-  (B) on which Congress has received both the Selected Acquisition Report under paragraph (1) or (2)(B) and the certification of the Secretary of Defense under paragraph (2)(A) with respect to that program, in the case of an increase by a percentage equal to or greater than the critical cost growth threshold (as determined under subsection (d)).
+  (B) on which Congress has received both the Selected Acquisition Report under paragraph (1) or (2)(B) 1 and the certification of the Secretary of Defense under paragraph (2)(A) 1 with respect to that program, in the case of an increase by a percentage equal to or greater than the critical cost growth threshold (as determined under subsection (d)).
 
 **(f)** Any determination of a percentage increase under this section shall be stated in terms of constant base year dollars (as described in [section 2430 of this title](./chapter-144-major-defense-acquisition-programs.md#section-2430)).
 
@@ -1173,10 +1291,53 @@ Pub. L. 98–525, title XII, § 1243, Oct. 19, 1984, 98 Stat. 2609, as amended b
 
 ### Statutory Notes
 
+#### Amendment of Section
+Pub. L. 116–283, div. A, title XVIII, §§ 1801(d), 1850(b)(1), (c), (d), (e)(1), (f), (g)(1), (h)(1), (i)(1), Jan. 1, 2021, 134 Stat. 4151, 4265–4269, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, this section is amended as follows:
+
+(1) by transferring subsection (a) to [section 4371(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section4371/a&num=0&edition=prelim);
+
+(2) by transferring subsection (b) to [section 4372(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section4372/a&num=0&edition=prelim);
+
+(3) by transferring subsection (c) to [section 4373 of this title](./chapter-325-cost-growth-unit-cost-reports-nunn-mccurdy.md#section-4373);
+
+(4) by transferring subsection (d) to [section 4374 of this title](./chapter-325-cost-growth-unit-cost-reports-nunn-mccurdy.md#section-4374);
+
+(5) by transferring subsection (e) to section 4375(a) to (c) of this title;
+
+(6) by transferring subsection (f) to [section 4371(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section4371/c&num=0&edition=prelim);
+
+(7) by transferring subsection (g) to section 4375(d) and (e) of this title; and
+
+(8) by transferring subsection (h) to [section 4371(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section4371/b&num=0&edition=prelim).
+
+See 2021 Amendment notes below.
+
+#### Repeal of Section
+Pub. L. 116–283, div. A, title XVIII, §§ 1801(d), 1850(l), Jan. 1, 2021, 134 Stat. 4151, 4271, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, this section is repealed.
+
+#### References in Text
+Par. (2) of subsec. (e) of this section, referred to in subsec. (e)(3), was first amended by Pub. L. 109–163, div. A, title VIII, § 802(c), Jan. 6, 2006, 119 Stat. 3369, by effectively redesignating subpars. (A) and (B) as (B) and (C), respectively, and was subsequently amended generally by Pub. L. 111–23, title II, § 206(a)(3), May 22, 2009, 123 Stat. 1728, after which par. (2) did not contain subparagraphs.
+
 #### Codification
 Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
 
 #### Amendments
+2021—Subsec. (a). Pub. L. 116–283, § 1850(b)(1), transferred subsec. (a) to [section 4371(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section4371/a&num=0&edition=prelim).
+
+Subsec. (b). Pub. L. 116–283, § 1850(e)(1), transferred subsec. (b) to [section 4372(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section4372/a&num=0&edition=prelim).
+
+Subsec. (c). Pub. L. 116–283, § 1850(f), transferred subsec. (c) to [section 4373 of this title](./chapter-325-cost-growth-unit-cost-reports-nunn-mccurdy.md#section-4373).
+
+Subsec. (d). Pub. L. 116–283, § 1850(g)(1), transferred subsec. (d) to [section 4374 of this title](./chapter-325-cost-growth-unit-cost-reports-nunn-mccurdy.md#section-4374).
+
+Subsec. (e). Pub. L. 116–283, § 1850(h)(1), transferred subsec. (e) to section 4375(a) to (c) of this title.
+
+Subsec. (f). Pub. L. 116–283, § 1850(d), transferred subsec. (f) to [section 4371(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section4371/c&num=0&edition=prelim).
+
+Subsec. (g). Pub. L. 116–283, § 1850(i)(1), transferred subsec. (g) to section 4375(d) and (e) of this title.
+
+Subsec. (h). Pub. L. 116–283, § 1850(c), transferred subsec. (h) to [section 4371(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section4371/b&num=0&edition=prelim).
+
 2018—Subsec. (e)(3). Pub. L. 115–232 substituted “section 8677(b)(2)” for “section 7307(b)(2)”.
 
 Subsec. (a)(1). Pub. L. 111–383 substituted “section 2430a(d)” for “section 2430a(c)”.
@@ -1403,6 +1564,12 @@ Subsec. (g)(1)(K). Pub. L. 98–525, § 1242(b)(6)(B), required the report to in
 
 1983—Subsec. (g)(2). Pub. L. 98–94 substituted “procurement” for “procurment”.
 
+#### Effective Date of Repeal
+Repeal effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
+
+#### Effective Date of 2021 Amendment
+Amendment by section 1850(b)(1), (c), (d), (e)(1), (f), (g)(1), (h)(1), (i)(1) of Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
+
 #### Effective Date of 2018 Amendment
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
 
@@ -1517,10 +1684,30 @@ Section effective Jan. 1, 1983, and applicable beginning with respect to reports
 
 ### Statutory Notes
 
+#### Amendment of Section
+Pub. L. 116–283, div. A, title XVIII, §§ 1801(d), 1850(j)(1), (2), (k)(1), Jan. 1, 2021, 134 Stat. 4151, 4269, 4270, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, this section is amended as follows:
+
+(1) by transferring subsections (a) and (b) to section 4376(a) and (b), respectively, of this title;
+
+(2) by transferring subsection (c) to [section 4377(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section4377/a&num=0&edition=prelim); and
+
+(3) by transferring subsection (d) to [section 4376(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section4376/c&num=0&edition=prelim).
+
+See 2021 Amendment notes below.
+
+#### Repeal of Section
+Pub. L. 116–283, div. A, title XVIII, §§ 1801(d), 1850(l), Jan. 1, 2021, 134 Stat. 4151, 4271, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, this section is repealed.
+
 #### References in Text
 Section 205 of the Weapon Systems Acquisition Reform Act of 2009, referred to in subsec. (c)(1)(E), is section 205 of Pub. L. 111–23, which amended [section 2366b of this title](./chapter-139-research-and-development.md#section-2366b) and enacted provisions set out as notes under this section and [section 2366b of this title](./chapter-139-research-and-development.md#section-2366b).
 
 #### Amendments
+2021—Subsecs. (a), (b). Pub. L. 116–283, § 1850(j)(1), transferred subsecs. (a) and (b) to section 4376(a) and (b), respectively, of this title.
+
+Subsec. (c). Pub. L. 116–283, § 1850(k)(1), transferred subsec. (c) to [section 4377(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section4377/a&num=0&edition=prelim).
+
+Subsec. (d). Pub. L. 116–283, § 1850(j)(2), transferred subsec. (d) to [section 4376(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section4376/c&num=0&edition=prelim).
+
 2013—Subsec. (c)(3)(A). Pub. L. 112–239 substituted “subparagraphs (B), (C), and (E)” for “subparagraphs (B) and (C)” in introductory provisions.
 
 2011—Subsec. (b)(2)(B). Pub. L. 111–383 substituted “section 181(g)(1)” for “section 181(g)((1)”.
@@ -1528,6 +1715,12 @@ Section 205 of the Weapon Systems Acquisition Reform Act of 2009, referred to in
 Subsec. (c)(1)(B), (C). Pub. L. 112–81, § 801(e)(4), struck out “, or Key Decision Point approval in the case of a space program,” after “Milestone approval”.
 
 Subsec. (c)(3). Pub. L. 112–81, § 831, added par. (3).
+
+#### Effective Date of Repeal
+Repeal effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
+
+#### Effective Date of 2021 Amendment
+Amendment by section 1850(j)(1), (2), (k)(1) of Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
 
 #### Reviews of Programs Restructured After Experiencing Critical Cost Growth
 Pub. L. 111–23, title II, § 205(c), May 22, 2009, 123 Stat. 1725, as amended by Pub. L. 111–383, div. A, title VIII, § 813(e), title X, § 1075(k)(2), Jan. 7, 2011, 124 Stat. 4266, 4378, provided that: “The official designated to perform oversight of performance assessment pursuant to section 103 of this Act [set out as a note under [section 2430 of this title](./chapter-144-major-defense-acquisition-programs.md#section-2430)], shall assess the performance of each major defense acquisition program that has exceeded critical cost growth thresholds established pursuant to [section 2433(e) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2433/e&num=0&edition=prelim), United States Code, but has not been terminated in accordance with section 2433a of such title (as added by section 206(a) of this Act) not less often than semi-annually until one year after the date on which such program receives a new milestone approval, in accordance with section 2433a(c)(1)(C) of such title (as so added). The results of reviews performed under this subsection shall be reported to the Under Secretary of Defense for Acquisition, Technology, and Logistics and summarized in the next annual report of such designated official.”
@@ -1553,7 +1746,7 @@ Section, added Pub. L. 98–94, title XII, § 1203(a)(1), Sept. 24, 1983, 97 Sta
 
 (2) The baseline shall include sufficient parameters to describe the cost estimate (referred to as the “Baseline Estimate” in [section 2433 of this title](./chapter-144-major-defense-acquisition-programs.md#section-2433)), schedule, performance, supportability, and any other factor of such major defense acquisition program or designated major subprogram.
 
-**(b) Funding Limit.—** No amount appropriated or otherwise made available to the Department of Defense for carrying out a major defense acquisition program or any designated major subprogram under the program may be obligated after the program or subprogram enters system development and demonstration without an approved baseline description unless such obligation is specifically approved by the Under Secretary of Defense for Acquisition, Technology, and Logistics.
+**(b) Funding Limit.—** No amount appropriated or otherwise made available to the Department of Defense for carrying out a major defense acquisition program or any designated major subprogram under the program may be obligated after the program or subprogram enters system development and demonstration without an approved baseline description unless such obligation is specifically approved by the Under Secretary of Defense for Acquisition and Sustainment.
 
 **(c) Schedule.—** A baseline description for a major defense acquisition program or any designated major subprogram under the program shall be prepared under this section—
 
@@ -1575,13 +1768,16 @@ Section, added Pub. L. 98–94, title XII, § 1203(a)(1), Sept. 24, 1983, 97 Sta
 
 (1) The content of baseline descriptions under this section.
 
-(2) The submission to the Secretary of the military department concerned and the Under Secretary of Defense for Acquisition, Technology, and Logistics by the program manager for a program for which there is an approved baseline description (or in the case of a major defense acquisition program with one or more designated major subprograms, approved baseline descriptions for such subprograms) under this section of reports of deviations from any such baseline description of the cost, schedule, performance, supportability, or any other factor of the program or subprogram.
+(2) The submission to the Secretary of the military department concerned and the Under Secretary of Defense for Acquisition and Sustainment by the program manager for a program for which there is an approved baseline description (or in the case of a major defense acquisition program with one or more designated major subprograms, approved baseline descriptions for such subprograms) under this section of reports of deviations from any such baseline description of the cost, schedule, performance, supportability, or any other factor of the program or subprogram.
 
 (3) Procedures for review of such deviation reports within the Department of Defense.
 
 (4) Procedures for submission to, and approval by, the Secretary of Defense of revised baseline descriptions.
 
 ### Statutory Notes
+
+#### Transfer of Section
+Pub. L. 116–283, div. A, title XVIII, §§ 1801(d), 1847(b)(4), Jan. 1, 2021, 134 Stat. 4151, 4254, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, this section is transferred to chapter 322 of this title, as added by section 1847(a) of Pub. L. 116–283, inserted after section 4212, and redesignated as [section 4214 of this title](./chapter-322-major-systems-and-major-defense-acquisition-programs-generally.md#section-4214). See Effective Date of 2021 Amendment note below.
 
 #### 1988 Act
 Subsection (c) is based on Pub. L. 98–525, title XII, § 1243, Oct. 19, 1984, 98 Stat. 2609, as amended by Pub. L. 100–26, § 110(a)(1), Apr. 21, 1987, 101 Stat. 288.
@@ -1594,6 +1790,8 @@ Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
 Pub. L. 99–500, Pub. L. 99–591, and Pub. L. 99–661 added identical sections.
 
 #### Amendments
+2019—Subsecs. (b), (e)(2). Pub. L. 116–92 substituted “the Under Secretary of Defense for Acquisition and Sustainment” for “the Under Secretary of Defense for Acquisition, Technology, and Logistics”.
+
 2008—Subsec. (a). Pub. L. 110–417, § 811(d)(1), inserted “and for each designated major subprogram under the program” after “major defense acquisition program” in par. (1) and “or designated major subprogram” after “major defense acquisition program” in par. (2).
 
 Subsec. (b). Pub. L. 110–417, § 811(d)(2), inserted “or any designated major subprogram under the program” after “major defense acquisition program” and “or subprogram” after “after the program”. See Codification note above.
@@ -1644,6 +1842,9 @@ Subsec. (c). Pub. L. 100–370 added subsec. (c).
 
 Subsec. (c). Pub. L. 100–26, § 7(b)(6), struck out subsec. (c) which defined “major defense acquisition program”.
 
+#### Effective Date of 2021 Amendment
+Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
+
 #### Effective Date of 2006 Amendment
 Amendment by Pub. L. 109–163 effective on Jan. 6, 2006, and applicable with respect to any major defense acquisition program for which an original Baseline Estimate is first established before, on, or after Jan. 6, 2006, see section 802(e) of Pub. L. 109–163, set out as a note under [section 2433 of this title](./chapter-144-major-defense-acquisition-programs.md#section-2433).
 
@@ -1672,11 +1873,17 @@ Pub. L. 103–355, title V, § 5002(a), Oct. 13, 1994, 108 Stat. 3350, provided 
 
 ### Statutory Notes
 
+#### Transfer of Section
+Pub. L. 116–283, div. A, title XVIII, §§ 1801(d), 1847(f)(2), Jan. 1, 2021, 134 Stat. 4151, 4258, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, this section is transferred to chapter 322 of this title, inserted after section 4292, and redesignated as [section 4293 of this title](./chapter-322-major-systems-and-major-defense-acquisition-programs-generally.md#section-4293). See Effective Date of 2021 Amendment note below.
+
 #### References in Text
 Section 814 of the National Defense Authorization Act for Fiscal Year 2004, referred to in subsec. (b), is section 814 of Pub. L. 108–136, which is set out in a note under [section 2501 of this title](./chapter-148-national-defense-technology-and-industrial-base-defense-reinvestment-and-defense-conversion.md#section-2501).
 
 #### Prior Provisions
 A prior section 2436, added Pub. L. 99–500, § 101(c) [title X, § 905(a)(1)], Oct. 18, 1986, 100 Stat. 1783–82, 1783–134, and Pub. L. 99–591, § 101(c) [title X, § 905(a)(1)], Oct. 30, 1986, 100 Stat. 3341–82, 3341–134; Pub. L. 99–661, div. A, title IX, formerly title IV, § 905(a)(1), Nov. 14, 1986, 100 Stat. 3914; renumbered title IX, Pub. L. 100–26, § 3(5), Apr. 21, 1987, 101 Stat. 273; amended Pub. L. 100–26, § 7(b)(7), Apr. 21, 1987, 101 Stat. 280; Pub. L. 100–180, div. A, title VIII, § 803(c), title XII, § 1231(14), Dec. 4, 1987, 101 Stat. 1125, 1160; Pub. L. 101–510, div. A, title XIV, § 1484(h)(4), Nov. 5, 1990, 104 Stat. 1718, related to establishment and conduct of the defense enterprise program, prior to repeal by Pub. L. 103–160, div. A, title VIII, § 821(a)(5), Nov. 30, 1993, 107 Stat. 1704.
+
+#### Effective Date of 2021 Amendment
+Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
 
 #### Effective Date
 Pub. L. 108–136, div. A, title VIII, § 822(c), Nov. 24, 2003, 117 Stat. 1547, provided that: “[Section 2436 of title 10](./chapter-144-major-defense-acquisition-programs.md#section-2436), United States Code, as added by subsection (a), shall apply with respect to contracts entered into after the expiration of the 18-month period beginning on the date of the enactment of this Act [Nov. 24, 2003].”
@@ -1725,8 +1932,14 @@ Pub. L. 108–136, div. A, title VIII, § 822(b), Nov. 24, 2003, 117 Stat. 1547,
 
 ### Statutory Notes
 
+#### Transfer of Section
+Pub. L. 116–283, div. A, title XVIII, §§ 1801(d), 1848(b), Jan. 1, 2021, 134 Stat. 4151, 4258, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, this section is transferred to chapter 323 of this title, as added by section 1848(a) of Pub. L. 116–283, inserted after the table of sections at the beginning, and redesignated as [section 4321 of this title](./chapter-323-life-cycle-and-sustainment.md#section-4321). See Effective Date of 2021 Amendment note below.
+
 #### Prior Provisions
 A prior section 2437, added Pub. L. 99–500, § 101(c) [title X, § 906(a)(1)], Oct. 18, 1986, 100 Stat. 1783–82, 1783–135, and Pub. L. 99–591, § 101(c) [title X, § 906(a)(1)], Oct. 30, 1986, 100 Stat. 3341–82, 3341–135; Pub. L. 99–661, div. A, title IX, formerly title IV, § 906(a)(1), Nov. 14, 1986, 100 Stat. 3915; renumbered title IX, Pub. L. 100–26, § 3(5), Apr. 21, 1987, 101 Stat. 273; amended Pub. L. 100–26, § 7(b)(8), Apr. 21, 1987, 101 Stat. 280; Pub. L. 100–180, div. A, title VIII, § 803(b), Dec. 4, 1987, 101 Stat. 1125; Pub. L. 100–224, § 5(a)(3), Dec. 30, 1987, 101 Stat. 1538, related to designation of defense enterprise programs for milestone authorization, prior to repeal by Pub. L. 103–160, div. A, title VIII, § 821(a)(5), Nov. 30, 1993, 107 Stat. 1704.
+
+#### Effective Date of 2021 Amendment
+Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
 
 #### Effective Date
 Pub. L. 108–375, div. A, title VIII, § 805(b), Oct. 28, 2004, 118 Stat. 2009, provided that: “[Section 2437 of title 10](./chapter-144-major-defense-acquisition-programs.md#section-2437), United States Code, as added by subsection (a), shall apply with respect to a major defense acquisition program for a system that is under development as of the date of the enactment of this Act [Oct. 28, 2004] and is not expected to reach initial operational capability before October 1, 2008. The Secretary of Defense shall require that a sustainment plan under that section be developed not later than one year after the date of the enactment of this Act for the existing system that the system under development is intended to replace.”
@@ -1744,9 +1957,9 @@ Pub. L. 108–375, div. A, title VIII, § 805(b), Oct. 28, 2004, 118 Stat. 2009,
 
 **(b) Responsibilities.—** The senior official designated under subsection (a) shall be responsible for the following:
 
-(1) Carrying out performance assessments of major defense acquisition programs in accordance with the requirements of subsection (c) periodically or when requested by the Secretary of Defense, the Under Secretary of Defense for Acquisition, Technology and Logistics, the Secretary of a military department, or the head of a Defense Agency.
+(1) Carrying out performance assessments of major defense acquisition programs in accordance with the requirements of subsection (c) periodically or when requested by the Secretary of Defense, the Under Secretary of Defense for Acquisition and Sustainment, the Secretary of a military department, or the head of a Defense Agency.
 
-(2) Conducting root cause analyses for major defense acquisition programs in accordance with the requirements of subsection (d) when required by [section 2433a(a)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2433a/a/1&num=0&edition=prelim), or when requested by the Secretary of Defense, the Under Secretary of Defense for Acquisition, Technology and Logistics, the Secretary of a military department, or the head of a Defense Agency.
+(2) Conducting root cause analyses for major defense acquisition programs in accordance with the requirements of subsection (d) when required by [section 2433a(a)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2433a/a/1&num=0&edition=prelim), or when requested by the Secretary of Defense, the Under Secretary of Defense for Acquisition and Sustainment, the Secretary of a military department, or the head of a Defense Agency.
 
 (3) Issuing policies, procedures, and guidance governing the conduct of performance assessments and root cause analyses by the military departments and the Defense Agencies.
 
@@ -1788,6 +2001,9 @@ Pub. L. 108–375, div. A, title VIII, § 805(b), Oct. 28, 2004, 118 Stat. 2009,
 
 ### Statutory Notes
 
+#### Transfer of Section
+Pub. L. 116–283, div. A, title XVIII, §§ 1801(d), 1847(e)(3), Jan. 1, 2021, 134 Stat. 4151, 4256, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, this section is transferred to chapter 322 of this title, inserted after section 4272, and redesignated as [section 4273 of this title](./chapter-322-major-systems-and-major-defense-acquisition-programs-generally.md#section-4273). See Effective Date of 2021 Amendment note below.
+
 #### Codification
 Section 103 of Pub. L. 111–23, formerly set out as a note under [section 2430 of this title](./chapter-144-major-defense-acquisition-programs.md#section-2430), which was transferred to this chapter, renumbered as this section, and amended by Pub. L. 111–383, § 901(d), (k)(1)(F), was based on Pub. L. 111–23, title I, § 103, May 22, 2009, 123 Stat. 1715.
 
@@ -1797,6 +2013,8 @@ A prior section 2438, added Pub. L. 102–484, div. A, title VIII, § 821(a)(1)(
 Another prior section 2438 was renumbered [section 2439 of this title](./chapter-144-major-defense-acquisition-programs.md#section-2439).
 
 #### Amendments
+2019—Subsec. (b)(1), (2). Pub. L. 116–92 substituted “Under Secretary of Defense for Acquisition and Sustainment” for “Under Secretary of Defense for Acquisition, Technology and Logistics”.
+
 2015—Subsec. (f). Pub. L. 114–92 struck out subsec. (f) which related to annual report.
 
 2013—Subsec. (a)(3). Pub. L. 112–239 inserted “the senior” before “official’s”.
@@ -1815,6 +2033,9 @@ Subsec. (d). Pub. L. 111–383, § 901(d)(3), substituted “[section 2433a of t
 
 Subsec. (f). Pub. L. 111–383, § 901(d)(4), struck out “beginning in 2010,” after “each year,”.
 
+#### Effective Date of 2021 Amendment
+Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
+
 #### Effective Date
 Amendment by Pub. L. 111–383 effective Jan. 1, 2011, see section 901(p) of Pub. L. 111–383, set out as an Effective Date of 2011 Amendment note under [section 131 of this title](./chapter-004-office-of-the-secretary-of-defense.md#section-131).
 
@@ -1826,6 +2047,9 @@ The Secretary of Defense shall ensure, to the maximum extent practicable, that t
 
 ### Statutory Notes
 
+#### Transfer of Section
+Pub. L. 116–283, div. A, title XVIII, §§ 1801(d), 1847(c)(3), Jan. 1, 2021, 134 Stat. 4151, 4254, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, this section is transferred to chapter 322 of this title, as added by section 1847(a) of Pub. L. 116–283, inserted after section 4232, and redesignated as [section 4236 of this title](./chapter-322-major-systems-and-major-defense-acquisition-programs-generally.md#section-4236). See Effective Date of 2021 Amendment note below.
+
 #### Prior Provisions
 A prior section 2439, added Pub. L. 99–145, title IX, § 912(a)(1), Nov. 8, 1985, 99 Stat. 685, § 2305a; amended Pub. L. 99–433, title I, § 110(g)(3), Oct. 1, 1986, 100 Stat. 1004; renumbered § 2438 and amended Pub. L. 100–26, § 7(b)(9)(A), (k)(2), Apr. 21, 1987, 101 Stat. 280, 284; Pub. L. 101–510, div. A, title VIII, § 805, Nov. 5, 1990, 104 Stat. 1591; renumbered § 2439, Pub. L. 102–484, div. A, title VIII, § 821(a)(1)(A), Oct. 23, 1992, 106 Stat. 2459, related to preparation of acquisition strategy for major programs and use of competitive alternative sources, prior to repeal by Pub. L. 103–355, title III, § 3007(a), Oct. 13, 1994, 108 Stat. 3331.
 
@@ -1834,28 +2058,50 @@ A prior section 2439, added Pub. L. 99–145, title IX, § 912(a)(1), Nov. 8, 19
 
 Pub. L. 115–232, § 867(1)–(3), inserted “, to the maximum extent practicable,” after “shall ensure” and substituted “production of a major weapon system, or sustainment of a major weapon system” for “or for the production of a major weapon system” and “, production, or sustainment” for “or production”.
 
+#### Effective Date of 2021 Amendment
+Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
+
 #### Effective Date
 Pub. L. 115–91, div. A, title VIII, § 835(a)(3), Dec. 12, 2017, 131 Stat. 1471, provided that: “[Section 2439 of title 10](./chapter-144-major-defense-acquisition-programs.md#section-2439), United States Code, as added by paragraph (1), shall apply with respect to any contract for engineering and manufacturing development of a major weapon system, or for the production of a major weapon system, for which the contract solicitation is issued on or after the date occurring one year after the date of the enactment of this Act [Dec. 12, 2017].”
 
 
 <a id="section-2440"></a>
-## § 2440. Technology and industrial base plans
+## § 2440. National technology and industrial base plans, policy, and guidance
+**(a) In General.—** The Secretary of Defense shall prescribe regulations requiring consideration of the national technology and industrial base, in accordance with the strategy required by [section 2501 of this title](./chapter-148-national-defense-technology-and-industrial-base-defense-reinvestment-and-defense-conversion.md#section-2501), in the development and implementation of acquisition plans for each major defense acquisition program.
 
-The Secretary of Defense shall prescribe regulations requiring consideration of the national technology and industrial base, in accordance with the strategy required by [section 2501 of this title](./chapter-148-national-defense-technology-and-industrial-base-defense-reinvestment-and-defense-conversion.md#section-2501), in the development and implementation of acquisition plans for each major defense acquisition program.
+**(b) Acquisition Policy and Guidance.—** The Secretary of Defense shall develop and promulgate acquisition policy and guidance to the service acquisition executives, the heads of the appropriate Defense Agencies and Department of Defense Field Activities, and relevant program managers. Such policy and guidance shall be germane to the use of the research and development, manufacturing, and production capabilities identified pursuant to chapter 148 of this title and the technologies, companies, laboratories, and factories in specific Department of Defense research and development, international cooperative research, procurement, and sustainment activities.
 
 ### Statutory Notes
 
+#### Amendment of Section
+Pub. L. 116–283, div. A, title XVIII, §§ 1801(d), 1847(b)(2)(A), Jan. 1, 2021, 134 Stat. 4151, 4253, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, this section is amended by transferring the text of this section to [section 4211 of this title](./chapter-322-major-systems-and-major-defense-acquisition-programs-generally.md#section-4211), inserting at the end of subsection (c), and designating as paragraph (3). See 2021 Amendment note below.
+
+#### Repeal of Section
+Pub. L. 116–283, div. A, title XVIII, §§ 1801(d), 1881(a), Jan. 1, 2021, 134 Stat. 4151, 4293, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, this section is repealed.
+
 #### Amendments
+2021—Pub. L. 116–283, § 1847(b)(2)(A), transferred the text of this section to the end of subsec. (c) of [section 4211 of this title](./chapter-322-major-systems-and-major-defense-acquisition-programs-generally.md#section-4211) and redesignated it as par. (3).
+
+Pub. L. 116–283, § 846(b)(1)(A), amended section catchline generally. Prior to amendment, section catchline read as follows: “Technology and industrial base plans”.
+
+Subsecs. (a), (b). Pub. L. 116–283, § 846(b)(1)(B), (C), designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
+
 2013—Pub. L. 112–239 inserted “, in accordance with the strategy required by [section 2501 of this title](./chapter-148-national-defense-technology-and-industrial-base-defense-reinvestment-and-defense-conversion.md#section-2501),” after “base”.
 
 2006—Pub. L. 109–364 substituted “industrial base plans” for “Industrial Base Plans” in section catchline.
 
+#### Effective Date of Repeal
+Repeal effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
+
+#### Effective Date of 2021 Amendment
+Amendment by section 1847(b)(2)(A) of Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
+
 
 <a id="section-2441"></a>
 ## § 2441. Sustainment reviews
-**(a) In General.—** The Secretary of each military department shall conduct a sustainment review of each major weapon system not later than five years after declaration of initial operational capability of a major defense acquisition program and throughout the life cycle of the weapon system to assess the product support strategy, performance, and operation and support costs of the weapon system. For any review after the first one, the Secretary concerned shall use availability and reliability thresholds and cost estimates as the basis for the circumstances that prompt such a review. The results of the sustainment review shall be documented in a memorandum by the relevant decision authority. The Secretary concerned shall make the memorandum and supporting documentation for each sustainment review available to the Under Secretary of Defense for Acquisition and Sustainment within 30 days after the review is completed.
+**(a) In General.—** The Secretary of each military department shall conduct a sustainment review of each covered system not later than five years after declaration of initial operational capability of a major defense acquisition program, and every five years thereafter throughout the life cycle of the covered system, to assess the product support strategy, performance, and operation and support costs of the covered system. The results of the sustainment review shall be documented in a memorandum by the relevant decision authority. The Secretary concerned shall make the memorandum and supporting documentation for each sustainment review available to the Under Secretary of Defense for Acquisition and Sustainment within 30 days after the review is completed.
 
-**(b) Elements.—** At a minimum, the review required under subsection (a) shall include the following elements:
+**(b) Elements.—** At a minimum, the review required under subsection (a) shall assess execution of the life cycle sustainment plan of the covered system and include the following elements:
 
 (1) An independent cost estimate for the remainder of the life cycle of the program.
 
@@ -1875,14 +2121,48 @@ The Secretary of Defense shall prescribe regulations requiring consideration of 
 
 (9) An analysis of whether accurate and complete data are being reported in the cost systems of the military department concerned, and if deficiencies exist, a plan to update the data and ensure accurate and complete data are submitted in the future.
 
+(10) As applicable, information regarding any decision to restructure the life cycle sustainment plan for a covered system or any other action that will lead to critical operating and support cost growth.
+
 **(c) Coordination.—** The review required under subsection (a) shall be conducted in coordination with the requirements of sections 2337 and 2337a of this title.
+
+**(d) Submission to Congress.—**
+
+(1) Not later than September 30 of each fiscal year, the Secretary of each military department shall annually submit to the congressional defense committees the sustainment reviews required by this section for such fiscal year.
+
+(2) Each submission under paragraph (1) shall be submitted in unclassified form, but may include a classified annex.
+
+(3) For a covered system with critical operating and support cost growth, such submission shall include a remediation plan to reduce operating and support costs or a certification by the Secretary concerned that such critical operating and support cost growth is necessary to meet national security requirements.
+
+**(e) Definitions.—** In this section:
+
+(1) **Covered system.—** — The term “covered system” shall have the meaning given in [section 2337 of this title](./chapter-137-procurement-generally.md#section-2337).
+
+(2) **Critical operating and support cost growth.—** — The term “critical operating and support cost growth” means operating and support cost growth—
+
+  (A) of at least 25 percent more than the estimate documented in the most recent independent cost estimate for the covered system; or
+
+  (B) of at least 50 percent more than the estimate documented in the original Baseline Estimate (as defined in [section 2435(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2435/d&num=0&edition=prelim)) for the covered system.
 
 ### Statutory Notes
 
+#### Transfer of Section
+Pub. L. 116–283, div. A, title XVIII, §§ 1801(d), 1848(c), Jan. 1, 2021, 134 Stat. 4151, 4258, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, this section is transferred to chapter 323 of this title, as added by section 1848(a) of Pub. L. 116–283, inserted after section 4321, and redesignated as [section 4323 of this title](./chapter-323-life-cycle-and-sustainment.md#section-4323). See Effective Date of 2021 Amendment note below.
+
 #### Amendments
+2021—Subsec. (a). Pub. L. 116–283, § 802(c)(1), in first sentence, substituted “covered system” for “major weapon system”, “, and every five years thereafter throughout the life cycle of the covered system,” for “and throughout the life cycle of the weapon system”, and “costs of the covered system” for “costs of the weapon system” and struck out second sentence which read as follows: “For any review after the first one, the Secretary concerned shall use availability and reliability thresholds and cost estimates as the basis for the circumstances that prompt such a review.”
+
+Subsec. (b). Pub. L. 116–283, § 802(c)(2)(A), inserted “assess execution of the life cycle sustainment plan of the covered system and” before “include the following elements:” in introductory provisions.
+
+Subsec. (b)(10). Pub. L. 116–283, § 802(c)(2)(B), added par. (10).
+
+Subsecs. (d), (e). Pub. L. 116–283, § 802(c)(3), added subsecs. (d) and (e).
+
 2017—Subsec. (a). Pub. L. 115–91, § 816, inserted at end “The Secretary concerned shall make the memorandum and supporting documentation for each sustainment review available to the Under Secretary of Defense for Acquisition and Sustainment within 30 days after the review is completed.”
 
 Subsec. (c). Pub. L. 115–91, § 836(b)(2), substituted “sections 2337 and 2337a of this title” for “[section 2337 of this title](./chapter-137-procurement-generally.md#section-2337) and section 832 of the National Defense Authorization Act for Fiscal Year 2012 (Public Law 112–81; [10 U.S.C. 2430](./chapter-144-major-defense-acquisition-programs.md#section-2430) note)”.
+
+#### Effective Date of 2021 Amendment
+Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
 
 
 <a id="section-2442"></a>
@@ -1898,6 +2178,12 @@ Subsec. (c). Pub. L. 115–91, § 836(b)(2), substituted “sections 2337 and 23
 (3) **Engineering and manufacturing development contract.—** — The term “engineering and manufacturing development contract” means a prime contract for the engineering and manufacturing development of a major defense acquisition program.
 
 ### Statutory Notes
+
+#### Transfer of Section
+Pub. L. 116–283, div. A, title XVIII, §§ 1801(d), 1847(c)(2), Jan. 1, 2021, 134 Stat. 4151, 4254, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, this section is transferred to chapter 322 of this title, as added by section 1847(a) of Pub. L. 116–283, inserted after section 4231, and redesignated as [section 4232 of this title](./chapter-322-major-systems-and-major-defense-acquisition-programs-generally.md#section-4232). See Effective Date of 2021 Amendment note below.
+
+#### Effective Date of 2021 Amendment
+Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
 
 #### Effective Date
 Pub. L. 115–91, div. A, title VIII, § 832(b), Dec. 12, 2017, 131 Stat. 1468, provided that: “The requirements of [section 2442 of title 10](./chapter-144-major-defense-acquisition-programs.md#section-2442), United States Code, as added by subsection (a), shall apply to major defense acquisition programs for which budgetary authority is requested for fiscal year 2019 or a subsequent fiscal year.”
@@ -1934,6 +2220,12 @@ Pub. L. 115–91, div. A, title VIII, § 832(b), Dec. 12, 2017, 131 Stat. 1468, 
 (2) for the production of a weapon system, including embedded software.
 
 ### Statutory Notes
+
+#### Transfer of Section
+Pub. L. 116–283, div. A, title XVIII, §§ 1801(d), 1848(e)(1), Jan. 1, 2021, 134 Stat. 4151, 4259, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, this section is transferred to chapter 323 of this title, as added by section 1848(a) of Pub. L. 116–283, inserted after section 4235, and redesignated as [section 4328 of this title](./chapter-323-life-cycle-and-sustainment.md#section-4328). See Effective Date of 2021 Amendment note below.
+
+#### Effective Date of 2021 Amendment
+Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
 
 #### Effective Date
 Pub. L. 115–91, div. A, title VIII, § 834(b), Dec. 12, 2017, 131 Stat. 1470, provided that: “Subsections (c) and (d) of [section 2443 of title 10](./chapter-144-major-defense-acquisition-programs.md#section-2443), United States Code, as added by subsection (a), shall apply with respect to any covered contract (as defined in that section) for which the contract solicitation is issued on or after the date occurring one year after the date of the enactment of this Act [Dec. 12, 2017].”

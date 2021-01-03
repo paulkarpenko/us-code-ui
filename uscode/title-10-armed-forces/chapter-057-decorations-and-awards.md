@@ -2,7 +2,7 @@
 title: 10
 chapter: '57'
 heading: DECORATIONS AND AWARDS
-section_count: 17
+section_count: 18
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10&num=0&edition=prelim
 ---
@@ -53,9 +53,9 @@ Ex. Ord. No. 9637, Oct. 3, 1945, 10 F.R. 12543, as amended by Ex. Ord. No. 9857A
 
 <a id="section-1123"></a>
 ## § 1123. Right to wear badges of military societies
-**(a)** A member of the Army, Navy, Air Force, or Marine Corps who is a member of a military society originally composed of men who served in an armed force of the United States during the Revolutionary War, the War of 1812, the Mexican War, the Civil War, the Spanish-American War, the Philippine Insurrection, or the Chinese Relief Expedition of 1900 may wear, on occasions of ceremony, the distinctive badges adopted by that society.
+**(a)** A member of the Army, Navy, Air Force, Marine Corps, or Space Force who is a member of a military society originally composed of men who served in an armed force of the United States during the Revolutionary War, the War of 1812, the Mexican War, the Civil War, the Spanish-American War, the Philippine Insurrection, or the Chinese Relief Expedition of 1900 may wear, on occasions of ceremony, the distinctive badges adopted by that society.
 
-**(b)** A member of the Army, Navy, Air Force, or Marine Corps who is a member of the Army and Navy Union of the United States may wear, on public occasions of ceremony, the distinctive badges adopted by that society.
+**(b)** A member of the Army, Navy, Air Force, Marine Corps, or Space Force who is a member of the Army and Navy Union of the United States may wear, on public occasions of ceremony, the distinctive badges adopted by that society.
 
 ### Statutory Notes
 
@@ -73,6 +73,9 @@ In subsection (a), the words “an armed force” are substituted for the words 
 In subsections (a) and (b), the word “member” is substituted for the words “officers and enlisted men”. The words “Navy * * * or Marine Corps” are substituted for the word “Navy”, since the word “Navy” in the source statute has, by long-standing administrative interpretation, been construed to include the Marine Corps.
 
 In subsection (b), the words “in their own right” are omitted as surplusage.
+
+#### Amendments
+2021—Pub. L. 116–283 substituted “Marine Corps, or Space Force” for “or Marine Corps” in subsecs. (a) and (b).
 
 
 <a id="section-1124"></a>
@@ -175,7 +178,7 @@ Richard Nixon.
 
 <a id="section-1126"></a>
 ## § 1126. Gold star lapel button: eligibility and distribution
-**(a)** A lapel button, to be known as the gold star lapel button, shall be designed, as approved by the Secretary of Defense, to identify widows, parents, and next of kin of members of the armed forces—
+**(a)** A lapel button, to be known as the gold star lapel button, shall be designed, as approved by the Secretary of Defense, to identify next of kin of members of the armed forces—
 
 (1) who lost their lives during World War I, World War II, or during any subsequent period of armed hostilities in which the United States was engaged before July 1, 1958;
 
@@ -193,27 +196,21 @@ Richard Nixon.
 
   (B) military operations while serving outside the United States (including the commonwealths, territories, and possessions of the United States) as part of a peacekeeping force.
 
-**(b)** Under regulations to be prescribed by the Secretary of Defense, the Secretary concerned, upon application to him, shall furnish one gold star lapel button without cost to the widow and to each parent and next of kin of a member who lost or loses his or her life under any circumstances prescribed in subsection (a).
+**(b)** Under regulations to be prescribed by the Secretary of Defense, the Secretary concerned, upon application to him, shall furnish one gold star lapel button without cost to each next of kin of a member who lost or loses his or her life under any circumstances prescribed in subsection (a).
 
-**(c)** Not more than one gold star lapel button may be furnished to any one individual except that, when a gold star lapel button furnished under this section has been lost, destroyed, or rendered unfit for use without fault or neglect on the part of the person to whom it was furnished, the button may be replaced upon application and payment of an amount sufficient to cover the cost of manufacture and distribution.
+**(c)** Not more than one gold star lapel button may be furnished to any one individual except that, when a gold star lapel button furnished under this section has been lost, destroyed, or rendered unfit for use without fault or neglect on the part of the person to whom it was furnished, the button may be replaced upon application and without cost.
 
 **(d)** In this section:
 
-(1) The term “widow” includes widower.
+(1) The term “next of kin” means individuals standing in such relationship to members of the armed forces described in subsection (a) as the Secretaries concerned shall jointly specify in regulations for purposes of this section.
 
-(2) The term “parents” includes mother, father, stepmother, stepfather, mother through adoption, father through adoption, and foster parents who stood in loco parentis.
+(2) The term “World War I” includes the period from April 6, 1917, to March 3, 1921.
 
-(3) The term “next of kin” includes only children, brothers, sisters, half brothers, and half sisters.
+(3) The term “World War II” includes the period from September 8, 1939, to July 25, 1947, at 12 o’clock noon.
 
-(4) The term “children” includes stepchildren and children through adoption.
+(4) The term “military operations” includes those operations involving members of the armed forces assisting in United States Government sponsored training of military personnel of a foreign nation.
 
-(5) The term “World War I” includes the period from April 6, 1917, to March 3, 1921.
-
-(6) The term “World War II” includes the period from September 8, 1939, to July 25, 1947, at 12 o’clock noon.
-
-(7) The term “military operations” includes those operations involving members of the armed forces assisting in United States Government sponsored training of military personnel of a foreign nation.
-
-(8) The term “peacekeeping force” includes those personnel assigned to a force engaged in a peacekeeping operation authorized by the United Nations Security Council.
+(5) The term “peacekeeping force” includes those personnel assigned to a force engaged in a peacekeeping operation authorized by the United Nations Security Council.
 
 ### Statutory Notes
 
@@ -221,6 +218,14 @@ Richard Nixon.
 Provisions similar to those in this section were contained in sections 1 to 3 of act Aug. 1, 1947, ch. 426, 61 Stat. 710, which were classified to sections 182a to 182c of former Title 36, Patriotic Societies and Observances, prior to repeal by Pub. L. 89–534, § 2, Aug. 11, 1966, 80 Stat. 345.
 
 #### Amendments
+2019—Subsec. (a). Pub. L. 116–92, § 581(a)(1), struck out “widows, parents, and” after “identify” in introductory provisions.
+
+Subsec. (b). Pub. L. 116–92, § 581(a)(2), substituted “each” for “the widow and to each parent and”.
+
+Subsec. (c). Pub. L. 116–92, § 581(b), substituted “and without cost.” for “and payment of an amount sufficient to cover the cost of manufacture and distribution.”
+
+Subsec. (d). Pub. L. 116–92, § 581(a)(3), added par. (1), redesignated pars. (5) to (8) as (2) to (5), respectively, and struck out former pars. (1), (2), (3), and (4) which defined “widow”, “parents”, “next of kin”, and “children”, respectively.
+
 1993—Subsec. (a). Pub. L. 103–160, § 1143(a), struck out “of the United States” after “armed forces” in introductory provisions, redesignated cls. (i) to (iii) of par. (2) as subpars. (A) to (C), respectively, and added par. (3).
 
 Subsec. (d)(7), (8). Pub. L. 103–160, § 1143(b), added pars. (7) and (8).
@@ -533,3 +538,9 @@ Pub. L. 113–66, div. A, title V, § 563(d), Dec. 26, 2013, 127 Stat. 768, prov
 
 #### Effective Date of 2018 Amendment
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
+
+
+<a id="section-1136"></a>
+## § 1136. Honorable service requirement for award of military decorations
+
+No military decoration, including a medal, cross, or bar, or an associated emblem or insignia, may be awarded or presented to any person, or to a representative of the person, if the service of the person after the person distinguished himself or herself has not been honorable.

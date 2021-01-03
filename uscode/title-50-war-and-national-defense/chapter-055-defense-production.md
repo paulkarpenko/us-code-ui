@@ -458,6 +458,90 @@ Pub. L. 110–53, title X, § 1002(b), Aug. 3, 2007, 121 Stat. 375, provided tha
 #### Presidential Authority To Issue Orders Relating to Domestic Energy Supplies
 Pub. L. 94–163, title I, § 104(b), Dec. 22, 1975, 89 Stat. 879, as amended by Pub. L. 99–58, title I, § 101(b), July 2, 1985, 99 Stat. 102; Pub. L. 101–46, § 1(2), June 30, 1989, 103 Stat. 132; Pub. L. 101–262, § 2(a), Mar. 31, 1990, 104 Stat. 124; Pub. L. 101–360, § 2(a), Aug. 10, 1990, 104 Stat. 421; Pub. L. 101–383, § 2(1), Sept. 15, 1990, 104 Stat. 727; Pub. L. 105–388, § 6, Nov. 13, 1998, 112 Stat. 3479; Pub. L. 106–469, title I, § 103(2), Nov. 9, 2000, 114 Stat. 2029, provided that: “The expiration of the Defense Production Act of 1950 [[50 U.S.C. 4501](./chapter-055-defense-production.md#section-4501) et seq.] or any amendment of such Act after the date of enactment of this Act [Dec. 22, 1975] shall not affect the authority of the President under section 101(c) of such Act [[50 U.S.C. 4511(c)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4511/c&num=0&edition=prelim)], as amended by subsection (a) of this section and in effect on the date of enactment of this Act, unless Congress by law expressly provides to the contrary.”
 
+#### Ex. Ord. No. 13909. Prioritizing and Allocating Health and Medical Resources to Respond to the Spread of COVID–19
+Ex. Ord. No. 13909, Mar. 18, 2020, 85 F.R. 16227, provided:
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, including the Defense Production Act of 1950, as amended ([50 U.S.C. 4501](./chapter-055-defense-production.md#section-4501) et seq.) (the “Act”), and [section 301 of title 3](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title3-section301&num=0&edition=prelim), United States Code, it is hereby ordered as follows:
+
+Section 1. Policy and Findings. On March 13, 2020, I declared a national emergency recognizing the threat that the novel (new) coronavirus known as SARS–CoV–2 poses to our national security. In recognizing the public health risk, I noted that on March 11, 2020, the World Health Organization announced that the outbreak of COVID–19 (the disease caused by SARS–CoV–2) can be characterized as a pandemic. I also noted that while the Federal Government, along with State and local governments, have taken preventive and proactive measures to slow the spread of the virus and to treat those affected, the spread of COVID–19 within our Nation’s communities threatens to strain our Nation’s healthcare system. To ensure that our healthcare system is able to surge capacity and capability to respond to the spread of COVID–19, it is critical that all health and medical resources needed to respond to the spread of COVID–19 are properly distributed to the Nation’s healthcare system and others that need them most at this time.
+
+Accordingly, I find that health and medical resources needed to respond to the spread of COVID–19, including personal protective equipment and ventilators, meet the criteria specified in section 101(b) of the Act ([50 U.S.C. 4511(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4511/b&num=0&edition=prelim)). Under the delegation of authority provided in this order, the Secretary of Health and Human Services may identify additional specific health and medical resources that meet the criteria of section 101(b).
+
+Sec. 2. Priorities and Allocation of Medical Resources.
+
+(a) Notwithstanding Executive Order 13603 of March 16, 2012 (National Defense Resource Preparedness) [[50 U.S.C. 4553](./chapter-055-defense-production.md#section-4553) note], the authority of the President conferred by section 101 of the Act to require performance of contracts or orders (other than contracts of employment) to promote the national defense over performance of any other contracts or orders, to allocate materials, services, and facilities as deemed necessary or appropriate to promote the national defense, and to implement the Act in subchapter III [[50 U.S.C. 4551](./chapter-055-defense-production.md#section-4551) et seq.] of chapter 55 of title 50, United States Code, is delegated to the Secretary of Health and Human Services with respect to all health and medical resources needed to respond to the spread of COVID–19 within the United States.
+
+(b) The Secretary of Health and Human Services may use the authority under section 101 of the Act to determine, in consultation with the Secretary of Commerce and the heads of other executive departments and agencies as appropriate, the proper nationwide priorities and allocation of all health and medical resources, including controlling the distribution of such materials (including applicable services) in the civilian market, for responding to the spread of COVID–19 within the United States.
+
+(c) The Secretary of Health and Human Services shall issue such orders and adopt and revise appropriate rules and regulations as may be necessary to implement this order.
+
+Sec. 3. General Provisions. (a) Nothing in this order shall be construed to impair or otherwise affect:
+
+(i) the authority granted by law to an executive department or agency, or the head thereof; or
+
+(ii) the functions of the Director of the Office of Management and Budget relating to budgetary, administrative, or legislative proposals.
+
+(b) This order shall be implemented consistent with applicable law and subject to the availability of appropriations.
+
+(c) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+
+Donald J. Trump.
+
+#### Ex Ord. No. 13911. Delegating Additional Authority Under the Defense Production Act With Respect to Health and Medical Resources To Respond to the Spread of COVID–19
+Ex. Ord. No. 13911, Mar. 27, 2020, 85 F.R. 18403, provided:
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, including the Defense Production Act of 1950, as amended ([50 U.S.C. 4501](./chapter-055-defense-production.md#section-4501) et seq.) (the “Act”), the National Emergencies Act ([50 U.S.C. 1601](./chapter-034-national-emergencies.md#section-1601) et seq.), and [section 301 of title 3](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title3-section301&num=0&edition=prelim), United States Code, it is hereby ordered as follows:
+
+Section 1. Policy. In Proclamation 9994 of March 13, 2020 (Declaring a National Emergency Concerning the Novel Coronavirus Disease (COVID–19) Outbreak) [[50 U.S.C. 1621](./chapter-034-national-emergencies.md#section-1621) note], I declared a national emergency recognizing the threat that the novel (new) coronavirus known as SARS–CoV–2 poses to our Nation’s healthcare systems. In recognizing the public health risk, I noted that on March 11, 2020, the World Health Organization announced that the outbreak of COVID–19 (the disease caused by SARS–CoV–2) can be characterized as a pandemic. I also noted that while the Federal Government, along with State and local governments, have taken preventive and proactive measures to slow the spread of the virus and to treat those affected, the spread of COVID–19 within our Nation’s communities threatens to strain our Nation’s healthcare systems.
+
+To deal with this threat, on March 18, 2020, I issued Executive Order 13909 (Prioritizing and Allocating Health and Medical Resources to Respond to the Spread of COVID–19) [set out above], in which I delegated to the Secretary of Health and Human Services the prioritization and allocation authority under section 101 of the Act with respect to health and medical resources needed to respond to the spread of COVID–19. And on March 23, 2020, I issued Executive Order 13910 (Preventing Hoarding of Health and Medical Resources to Respond to the Spread of COVID–19) [[50 U.S.C. 4512](./chapter-055-defense-production.md#section-4512) note], in which I delegated to the Secretary of Health and Human Services the authority under section 102 of the Act to combat hoarding and price gouging with respect to such resources.
+
+To ensure that our healthcare systems are able to surge capacity and capability to respond to the spread of COVID–19, it is the policy of the United States to expand domestic production of health and medical resources needed to respond to the spread of COVID–19, including personal protective equipment and ventilators. Accordingly, I am delegating authority under title III of the Act [[50 U.S.C. 4531](./chapter-055-defense-production.md#section-4531) et seq.] to guarantee loans by private institutions, make loans, make provision for purchases and commitments to purchase, and take additional actions to create, maintain, protect, expand, and restore domestic industrial base capabilities to produce such resources. To enable greater cooperation among private businesses in expanding production of and distributing such resources, I am also delegating my authority under section 708(c) and (d) of the Act ([50 U.S.C. 4558(c)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4558/c&num=0&edition=prelim), (d)) to provide for the making of voluntary agreements and plans of action by the private sector.
+
+Sec. 2. Delegation of Authority Under Title III of the Act. (a) Notwithstanding Executive Order 13603 of March 16, 2012 (National Defense Resources Preparedness) [[50 U.S.C. 4553](./chapter-055-defense-production.md#section-4553) note], the Secretary of Health and Human Services and the Secretary of Homeland Security are each delegated, with respect to responding to the spread of COVID–19 within the United States, the authority of the President conferred by sections 301, 302, and 303 of the Act ([50 U.S.C. 4531](./chapter-055-defense-production.md#section-4531), 4532, and 4533), and the authority to implement the Act in subchapter III [[50 U.S.C. 4551](./chapter-055-defense-production.md#section-4551) et seq.] of chapter 55 of title 50, United States Code ([50 U.S.C. 4554](./chapter-055-defense-production.md#section-4554), 4555, 4556, and 4560).
+
+(b) The Secretary of Health and Human Services and the Secretary of Homeland Security may each use the authority under sections 301, 302, and 303 of the Act, in consultation with the Secretary of Defense and the heads of other executive departments and agencies as he deems appropriate, to respond to the spread of COVID–19.
+
+(c) To provide additional authority to respond to the national emergency I declared in Proclamation 9994, the requirements of section 301(a)(2), section 301(d)(1)(A), and section 303(a)(1) through (a)(6) of the Act are waived during the period of that national emergency.
+
+(d) To provide additional authority to respond to the national emergency I declared in Proclamation 9994, the Secretary of Health and Human Services and the Secretary of Homeland Security are each authorized to submit for my approval under section 302(d)(2)(B) of the Act a proposed determination that any specific loan is necessary to avert an industrial resource or critical technology shortfall that would severely impair national defense capability.
+
+(e) Before exercising the authority delegated under this section with respect to health or medical resources, the Secretary of Homeland Security shall consult with the Secretary of Health and Human Services.
+
+Sec. 3. Delegation of Authority Under Title VII of the Act. (a) Notwithstanding Executive Order 13603, the Secretary of Health and Human Services and the Secretary of Homeland Security are each delegated, with respect to responding to the spread of COVID–19 within the United States, the authority of the President conferred by section 708(c)(1) and (d) of the Act [[50 U.S.C. 4558(c)(1)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4558/c/1&num=0&edition=prelim) and (d)]. The Secretary of Health and Human Services shall provide to the Secretary of Homeland Security notice of any use of such delegated authority.
+
+(b) The delegation made in this section is made upon the condition that the Secretary of Health and Human Services or the Secretary of Homeland Security consult with the Attorney General and with the Federal Trade Commission, and obtain the prior approval of the Attorney General, after consultation by the Attorney General with the Federal Trade Commission, as required by section 708(c)(2) of the Act, except when such consultation is waived under subsection (c) of section 3 of this order and section 708(c)(3) of the Act.
+
+(c) The Secretary of Health and Human Services and the Secretary of Homeland Security are each authorized to submit for my approval under section 708(c)(3) of the Act any proposed determination that any specific voluntary agreement or plan of action is necessary to meet national defense requirements resulting from an event that degrades or destroys critical infrastructure.
+
+(d) Before exercising the authority delegated under this section with respect to health or medical resources, the Secretary of Homeland Security shall consult with the Secretary of Health and Human Services.
+
+Sec. 4. Additional Delegations. (a) Notwithstanding Executive Order 13603, the Secretary of Health and Human Services and the Secretary of Homeland Security are each delegated, with respect to responding to the spread of COVID–19 within the United States, the authority of the President conferred by section 107 of the Act ([50 U.S.C. 4517](./chapter-055-defense-production.md#section-4517)).
+
+(b) In addition to the delegations of authority in Executive Order 13909 and Executive Order 13910, the authority of the President conferred by sections 101 and 102 of the Act ([50 U.S.C. 4511](./chapter-055-defense-production.md#section-4511), 4512) is delegated to the Secretary of Homeland Security with respect to health and medical resources needed to respond to the spread of COVID–19 within the United States.
+
+(c) The Secretary of Homeland Security may use the authority under section 101 of the Act to determine, in consultation with the heads of other executive departments and agencies as appropriate, the proper nationwide priorities and allocation of health and medical resources, including by controlling the distribution of such materials (including applicable services) in the civilian market, for responding to the spread of COVID–19 within the United States.
+
+(d) Before exercising the authority under section 102 of the Act, the Secretary of Homeland Security shall consult with the Secretary of Health and Human Services.
+
+(e) The Secretary of Homeland Security shall periodically consider whether the designations made by him under section 102 of the Act pursuant to section 4(b) of this order remain necessary. Upon finding that such designation of material is no longer necessary, the Secretary of Homeland Security shall promptly publish a notice of withdrawal of the designation in the Federal Register, and in such other manner as he deems appropriate.
+
+Sec. 5. Implementing Rules and Regulations. The Secretary of Health and Human Services and the Secretary of Homeland Security shall each adopt and revise appropriate rules and regulations as may be necessary to implement this order.
+
+Sec. 6. Policy Coordination. The Assistant to the President for Trade and Manufacturing Policy shall serve as National Defense Production Act Policy Coordinator.
+
+Sec. 7. General Provisions. (a) Nothing in this order shall be construed to impair or otherwise affect:
+
+(i) the authority granted by law to an executive department or agency, or the head thereof; or
+
+(ii) the functions of the Director of the Office of Management and Budget relating to budgetary, administrative, or legislative proposals.
+
+(b) This order shall be implemented consistent with applicable law and subject to the availability of appropriations.
+
+(c) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+
+Donald J. Trump.
+
 
 <a id="section-4514"></a>
 ## § 4514. Hoarding of designated scarce materials
@@ -479,7 +563,44 @@ Section was formerly classified to section 2072 of the former Appendix to this t
 1951—Act July 31, 1951, authorized President to prescribe conditions and exceptions allowing maintenance of substantial inventories of critical materials in certain cases.
 
 #### Delegation of Functions
+Authorities of President under this section with respect to health and medical resources needed to respond to the spread of COVID–19 within the United States delegated to Secretary of Homeland Security, see section 4 of Ex. Ord. No. 13911, Mar. 27, 2020, 85 F.R. 18404, set out as a note under [section 4511 of this title](./chapter-055-defense-production.md#section-4511).
+
 Functions of President under this chapter relating to production, conservation, use, control, distribution, and allocation of energy, delegated to Secretary of Energy, see section 4 of Ex. Ord. No. 11790, June 25, 1974, 39 F.R. 23185, set out as a note under [section 761 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section761&num=0&edition=prelim), Commerce and Trade.
+
+#### Ex. Ord. No. 13910. Preventing Hoarding of Health and Medical Resources To Respond to the Spread of COVID–19
+Ex. Ord. No. 13910, Mar. 23, 2020, 85 F.R. 17001, provided:
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, including the Defense Production Act of 1950, as amended ([50 U.S.C. 4501](./chapter-055-defense-production.md#section-4501) et seq.) (the “Act”), and [section 301 of title 3](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title3-section301&num=0&edition=prelim), United States Code, it is hereby ordered as follows:
+
+Section 1. Policy. In Proclamation 9994 of March 13, 2020 (Declaring a National Emergency Concerning the Novel Coronavirus Disease (COVID–19) Outbreak) [[50 U.S.C. 1621](./chapter-034-national-emergencies.md#section-1621) note], I declared a national emergency recognizing the threat that the novel (new) coronavirus known as SARS–CoV–2 poses to our Nation’s healthcare systems. In recognizing the public health risk, I noted that on March 11, 2020, the World Health Organization announced that the outbreak of COVID–19 (the disease caused by SARS–CoV–2) can be characterized as a pandemic. I also noted that while the Federal Government, along with State and local governments, have taken preventive and proactive measures to slow the spread of the virus and to treat those affected, the spread of COVID–19 within our Nation’s communities threatens to strain our Nation’s healthcare systems. To further deal with this threat, on March 18, 2020, I issued Executive Order 13909 (Prioritizing and Allocating Health and Medical Resources to Respond to the Spread of COVID–19) [[50 U.S.C. 4511](./chapter-055-defense-production.md#section-4511) note], in which I delegated to the Secretary of Health and Human Services (Secretary) the prioritization and allocation authority under section 101 of the Act [[50 U.S.C. 4511](./chapter-055-defense-production.md#section-4511)] with respect to health and medical resources needed to respond to the spread of COVID–19.
+
+To ensure that our Nation’s healthcare systems are able to surge capacity and capability to respond to the spread of COVID–19, it is the policy of the United States that health and medical resources needed to respond to the spread of COVID–19, such as personal protective equipment and sanitizing and disinfecting products, are not hoarded. Accordingly, I am delegating to the Secretary my authority under section 102 of the Act ([50 U.S.C. 4512](./chapter-055-defense-production.md#section-4512)) to prevent hoarding of health and medical resources necessary to respond to the spread of COVID–19 within the United States. I am also delegating to the Secretary my authority under the Act to implement any restrictions on hoarding, including my authority under section 705 of the Act ([50 U.S.C. 4555](./chapter-055-defense-production.md#section-4555)) to gather information, such as information about how supplies of such resources are distributed throughout the Nation.
+
+Sec. 2. Delegation of Authority to Prevent Hoarding.
+
+(a) The Secretary is delegated the following:
+
+(i) the authority of the President conferred by section 102 of the Act to prevent hoarding of health and medical resources necessary to respond to the spread of COVID–19 within the United States, including the authority to prescribe conditions with respect to the accumulation of such resources, and to designate any material as a scarce material, or as a material the supply of which would be threatened by persons accumulating the material either in excess of reasonable demands of business, personal, or home consumption, or for the purpose of resale at prices in excess of prevailing market prices; and
+
+(ii) the authority of the President to implement the Act contained in subchapter III [[50 U.S.C. 4551](./chapter-055-defense-production.md#section-4551) et seq.] of chapter 55 of title 50, United States Code ([50 U.S.C. 4554](./chapter-055-defense-production.md#section-4554), 4555, 4556, and 4560).
+
+(b) In exercising the authority delegated under this section, the Secretary shall consult the Administrator of the Federal Emergency Management Agency.
+
+(c) The Secretary shall adopt and revise appropriate rules and regulations as may be necessary to implement this order.
+
+Sec. 3. Secretarial Duty Concerning Notices of Withdrawal of Designation. The Secretary shall periodically consider whether the designations made pursuant to section 2 of this order remain necessary. Upon finding that the need for such designation of material is no longer necessary, the Secretary shall promptly publish a notice of withdrawal of the designation in the Federal Register, and in such other manner as the Secretary deems appropriate.
+
+Sec. 4. General Provisions. (a) Nothing in this order shall be construed to impair or otherwise affect:
+
+(i) the authority granted by law to an executive department or agency, or the head thereof; or
+
+(ii) the functions of the Director of the Office of Management and Budget relating to budgetary, administrative, or legislative proposals.
+
+(b) This order shall be implemented consistent with applicable law and subject to the availability of appropriations.
+
+(c) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+
+Donald J. Trump.
 
 
 <a id="section-4515"></a>
@@ -612,6 +733,8 @@ Subsec. (b)(1). Pub. L. 111–67, § 6(2)(C), substituted “, critical technolo
 Section deemed to have become effective Mar. 1, 1992, see section 304 of Pub. L. 102–558, set out as an Effective Date of 1992 Amendment note under [section 4502 of this title](./chapter-055-defense-production.md#section-4502).
 
 #### Delegation of Functions
+Authorities of President under this section with respect to responding to the spread of COVID–19 within the United States delegated to Secretary of Health and Human Services and the Secretary of Homeland Security, see section 4(a) of Ex. Ord. No. 13911, Mar. 27, 2020, 85 F.R. 18404, set out as a note under [section 4511 of this title](./chapter-055-defense-production.md#section-4511).
+
 Functions of the President under this chapter relating to the production, conservation, use, control, distribution, and allocation of energy, delegated to the Secretary of Energy, see section 4 of Ex. Ord. No. 11790, eff. June 25, 1974, 39 F.R. 23185, set out as a note under [section 761 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section761&num=0&edition=prelim), Commerce and Trade.
 
 For delegation of authority of President under subsecs. (a) and (b)(1) of this section, see sections 310 and 311 of Ex. Ord. No. 13603, Mar. 16, 2012, 77 F.R. 16655, set out as a note under [section 4553 of this title](./chapter-055-defense-production.md#section-4553).
@@ -745,9 +868,16 @@ Section was formerly classified to section 2091 of the former Appendix to this t
 A prior section 301 of act Sept. 8, 1950, ch. 932, title III, 64 Stat. 800; June 30, 1953, ch. 171, § 4, 67 Stat. 129; Pub. L. 91–379, title I, § 104, Aug. 15, 1970, 84 Stat. 799; Pub. L. 96–294, title I, § 104(a), (b), June 30, 1980, 94 Stat. 618; Pub. L. 98–265, §§ 3(a), 4(a), Apr. 17, 1984, 98 Stat. 149, 150; Pub. L. 102–558, title I, §§ 121(a), 141, Oct. 28, 1992, 106 Stat. 4203, 4217; Pub. L. 107–47, § 4(1)–(3), (5), Oct. 5, 2001, 115 Stat. 260, related to loan guarantees, prior to the general amendment of title III of this Act by Pub. L. 111–67.
 
 #### Delegation of Functions
+Authority of President under this section with respect to responding to the spread of COVID–19 within the United States delegated to Secretary of Health and Human Services and the Secretary of Homeland Security, see section 2 of Ex. Ord. No. 13911, Mar. 27, 2020, 85 F.R. 18403, set out as a note under [section 4511 of this title](./chapter-055-defense-production.md#section-4511).
+
 Functions of President under this chapter relating to production, conservation, use, control, distribution, and allocation of energy, delegated to Secretary of Energy, see section 4 of Ex. Ord. No. 11790, eff. June 25, 1974, 39 F.R. 23185, set out as a note under [section 761 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section761&num=0&edition=prelim), Commerce and Trade.
 
 For delegation of authority of President under subsec. (a)(2) of this section, see section 305(a) of Ex. Ord. No. 13603, Mar. 16, 2012, 77 F.R. 16654, set out as a note under [section 4553 of this title](./chapter-055-defense-production.md#section-4553).
+
+#### Waiver of Loan Limitations
+Requirements of subsecs. (a)(2) and (d)(1)(A) of this section waived during the national emergency declared by Proc. No. 9994, Mar. 13, 2020, 85 F.R. 15337, set out as a note under [section 1621 of this title](./chapter-034-national-emergencies.md#section-1621), see section 2(c) of Ex. Ord. No. 13911, Mar. 27, 2020, 85 F.R. 18404, set out as a note under [section 4511 of this title](./chapter-055-defense-production.md#section-4511).
+
+Pub. L. 116–136, div. B, title III, Mar. 27, 2020, 134 Stat. 520, provided in part: “That for the two-year period beginning with the date of enactment of this Act [Mar. 27, 2020], the requirements described in Section [sic] 301(a)(3)(A) and 302(c)(1) of Public Law 81–774 [[50 U.S.C. 4531(a)(3)(A)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4531/a/3/A&num=0&edition=prelim), 4532(c)(1)], shall be waived”.
 
 #### Limitation on Cancellation of Designation of Secretary of the Air Force as Department of Defense Executive Agent
 Pub. L. 115–232, div. A, title XVII, § 1792, Aug. 13, 2018, 132 Stat. 2238, provided that: “(a) Limitation on Cancellation of Designation.—The Secretary of Defense may not implement the decision, issued on July 1, 2017, to cancel the designation, under Department of Defense Directive 4400.01E, entitled ‘Defense Production Act Programs’ and dated October 12, 2001, of the Secretary of the Air Force as the Department of Defense Executive Agent for the program carried out under title III of the Defense Production Act of 1950 ([50 U.S.C. 4531](./chapter-055-defense-production.md#section-4531) et seq.) until the date specified in subsection (c). “(b) Designation.—The Secretary of the Air Force shall continue to serve as the sole and exclusive Department of Defense Executive Agent for the program described in subsection (a) until the date specified in subsection (c). “(c) Date Specified.—The date specified in this subsection is the date of the enactment of a joint resolution or an Act approving the implementation of the decision described in subsection (a).”
@@ -809,9 +939,54 @@ Section was formerly classified to section 2092 of the former Appendix to this t
 A prior section 302 of act Sept. 8, 1950, ch. 932, title III, 64 Stat. 801; June 30, 1952, ch. 530, title I, § 104, 66 Stat. 298; Pub. L. 93–155, title VIII, § 807(b), Nov. 16, 1973, 87 Stat. 615; Pub. L. 96–294, title I, § 104(c), June 30, 1980, 94 Stat. 618; Pub. L. 98–265, §§ 3(b), 4(b), Apr. 17, 1984, 98 Stat. 149, 151; Pub. L. 102–558, title I, § 121(b), Oct. 28, 1992, 106 Stat. 4204, related to loans to private business enterprises, prior to the general amendment of title III of this Act by Pub. L. 111–67.
 
 #### Delegation of Functions
+Authority of President under this section with respect to responding to the spread of COVID–19 within the United States delegated to Secretary of Health and Human Services and the Secretary of Homeland Security, see section 2 of Ex. Ord. No. 13911, Mar. 27, 2020, 85 F.R. 18403, set out as a note under [section 4511 of this title](./chapter-055-defense-production.md#section-4511).
+
 Functions of President under this chapter relating to production, conservation, use, control, distribution, and allocation of energy, delegated to Secretary of Energy, see section 4 of Ex. Ord. No. 11790, June 25, 1974, 39 F.R. 23185, set out as a note under [section 761 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section761&num=0&edition=prelim), Commerce and Trade.
 
 For delegation of certain authority of President under this section, see sections 302 and 305(a) of Ex. Ord. No. 13603, Mar. 16, 2012, 77 F.R. 16654, set out as a note under [section 4553 of this title](./chapter-055-defense-production.md#section-4553).
+
+#### Increasing Access to Materials Necessary for National Security and Pandemic Recovery
+Pub. L. 116–136, div. A, title IV, § 4017, Mar. 27, 2020, 134 Stat. 482, provided that: “Notwithstanding any other provision of law— “(1) during the 2-year period beginning on the date of enactment of this Act [Mar. 27, 2020], the requirements described in sections 303(a)(6)(C) and 304(e) of the Defense Production Act of 1950 ([50 U.S.C. 4533(a)(6)(C)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4533/a/6/C&num=0&edition=prelim), 4534(e)) shall not apply; and “(2) during the 1-year period beginning on the date of enactment of this Act, the requirements described in sections 302(d)(1) and 303(a)(6)(B) of the Defense Production Act of 1950 ([50 U.S.C. 4532(d)(1)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4532/d/1&num=0&edition=prelim), 4533(a)(6)(B)) shall not apply.”
+
+#### Waiver of Loan Limitations
+Requirement described in subsec. (c)(1) of this section waived for the two-year period beginning with Mar. 27, 2020, see provision of title III of div. B of Pub. L. 116–136, set out as a note under [section 4531 of this title](./chapter-055-defense-production.md#section-4531).
+
+#### Ex. Ord. No. 13922. Delegating Authority Under the Defense Production Act to the Chief Executive Officer of the United States International Development Finance Corporation To Respond to the COVID–19 Outbreak
+Ex. Ord. No. 13922, May 14, 2020, 85 F.R. 30583, provided:
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, including the Defense Production Act of 1950, as amended ([50 U.S.C. 4501](./chapter-055-defense-production.md#section-4501) et seq.) (the “Act”), and [section 301 of title 3](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title3-section301&num=0&edition=prelim), United States Code, it is hereby ordered as follows:
+
+Section 1. Policy. In Proclamation 9994 of March 13, 2020 (Declaring a National Emergency Concerning the Novel Coronavirus Disease (COVID–19) Outbreak) [[50 U.S.C. 1621](./chapter-034-national-emergencies.md#section-1621) note], I declared a national emergency recognizing the threat that the novel (new) coronavirus known as SARS–CoV–2 poses to our Nation’s healthcare systems. In recognizing the public health risk, I noted that on March 11, 2020, the World Health Organization announced that the outbreak of COVID–19 (the disease caused by SARS–CoV–2) can be characterized as a pandemic.
+
+To ensure that our country has the capacity, capability, and strong and resilient domestic industrial base necessary to respond to the COVID–19 outbreak, it is the policy of the United States to further expand domestic production of strategic resources needed to respond to the COVID–19 outbreak, including strengthening relevant supply chains within the United States and its territories. It is important to use all resources available to the United States, including executive departments and agencies (agencies) with expertise in loan support for private institutions. Accordingly, I am delegating authority under title III of the Act [[50 U.S.C. 4531](./chapter-055-defense-production.md#section-4531) et seq.] to make loans, make provision for purchases and commitments to purchase, and take additional actions to create, maintain, protect, expand, and restore the domestic industrial base capabilities, including supply chains within the United States and its territories (“domestic supply chains”), needed to respond to the COVID–19 outbreak.
+
+Sec. 2. Delegation of Authority Under Title III of the Act. (a) Notwithstanding Executive Order 13603 of March 16, 2012 (National Defense Resources Preparedness) [[50 U.S.C. 4553](./chapter-055-defense-production.md#section-4553) note], and in addition to the delegation of authority in Executive Order 13911 of March 27, 2020 (Delegating Additional Authority Under the Defense Production Act With Respect to Health and Medical Resources to Respond to the Spread of COVID–19) [[50 U.S.C. 4511](./chapter-055-defense-production.md#section-4511) note], the Chief Executive Officer of the United States International Development Finance Corporation (DFC) is delegated the authority of the President conferred by sections 302 and 303 of the Act ([50 U.S.C. 4532](./chapter-055-defense-production.md#section-4532) and 4533), and the authority to implement the Act in subchapter III of chapter 55 of title 50, United States Code ([50 U.S.C. 4554](./chapter-055-defense-production.md#section-4554), 4555, 4556, and 4560).
+
+(b) The Chief Executive Officer of the DFC may use the authority under sections 302 and 303 of the Act, in consultation with the Secretary of Defense, the Secretary of Health and Human Services, the Secretary of Homeland Security, and the heads of other agencies as he deems appropriate, for the domestic production of strategic resources needed to respond to the COVID–19 outbreak, or to strengthen any relevant domestic supply chains.
+
+(c) The loan authority delegated by this order is limited to loans that create, maintain, protect, expand, or restore domestic industrial base capabilities supporting:
+
+(i) the national response and recovery to the COVID–19 outbreak; or
+
+(ii) the resiliency of any relevant domestic supply chains.
+
+(d) Loans extended using the authority delegated by this order shall be made in accordance with the principles and guidelines outlined in OMB Circular A–11, OMB Circular A–129, and the Federal Credit Reform Act of 1990, as amended ([2 U.S.C. 661](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section661&num=0&edition=prelim) et seq.).
+
+(e) The Chief Executive Officer of the DFC shall adopt appropriate rules and regulations as may be necessary to implement this order.
+
+Sec. 3. Termination. The delegation of authority in this order shall expire upon termination of the 2-year period during which the requirements described in section 302(c)(1) of the Act ([50 U.S.C. 4532(c)(1)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4532/c/1&num=0&edition=prelim)) are waived pursuant to title III of division B of the Coronavirus Aid, Relief, and Economic Security Act (Public Law 116–136) [see Waiver of Loan Limitations note above].
+
+Sec. 4. General Provisions. (a) Nothing in this order shall be construed to impair or otherwise affect:
+
+(i) the authority granted by law to an executive department or agency, or the head thereof; or
+
+(ii) the functions of the Director of the Office of Management and Budget relating to budgetary, administrative, or legislative proposals.
+
+(b) This order shall be implemented consistent with applicable law and subject to the availability of appropriations.
+
+(c) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+
+Donald J. Trump.
 
 
 <a id="section-4551"></a>
@@ -935,9 +1110,19 @@ Subsec. (a)(6)(C). Pub. L. 113–172, § 4(a)(2), added subpar. (C).
 Pub. L. 113–172, § 4(b), Sept. 26, 2014, 128 Stat. 1897, provided that: “Section 303(a)(6)(C) of the Defense Production Act of 1950 [[50 U.S.C. 4533(a)(6)(C)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4533/a/6/C&num=0&edition=prelim)], as added by subsection (a)(2), shall not apply to a project undertaken pursuant to a determination made before the date of the enactment of this Act [Sept. 26, 2014].”
 
 #### Delegation of Functions
+Authority of President under this section delegated to Chief Executive Officer of the United States International Development Finance Corporation, see section 2 of Ex. Ord. No. 13922, May 14, 2020, 85 F.R. 30583, set out as a note under [section 4532 of this title](./chapter-055-defense-production.md#section-4532).
+
+Authority of President under this section with respect to responding to the spread of COVID–19 within the United States delegated to Secretary of Health and Human Services and the Secretary of Homeland Security, see section 2 of Ex. Ord. No. 13911, Mar. 27, 2020, 85 F.R. 18403, set out as a note under [section 4511 of this title](./chapter-055-defense-production.md#section-4511).
+
 Functions of President under this chapter relating to production, conservation, use, control, distribution, and allocation of energy, delegated to Secretary of Energy, see section 4 of Ex. Ord. No. 11790, June 25, 1974, 39 F.R. 23185, set out as a note under [section 761 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section761&num=0&edition=prelim), Commerce and Trade.
 
 For delegation of certain authority of President under this section, see sections 303(a), 304, 305(b), and 306–308 of Ex. Ord. No. 13603, Mar. 16, 2012, 77 F.R. 16654, 16655, set out as a note under [section 4553 of this title](./chapter-055-defense-production.md#section-4553).
+
+#### Waiver of Limitations
+Requirements of subsec. (a)(1) to (6) of this section waived during the national emergency declared by Proc. No. 9994, Mar. 13, 2020, 85 F.R. 15337, set out as a note under [section 1621 of this title](./chapter-034-national-emergencies.md#section-1621), see section 2(c) of Ex. Ord. No. 13911, Mar. 27, 2020, 85 F.R. 18404, set out as a note under [section 4511 of this title](./chapter-055-defense-production.md#section-4511).
+
+#### Increasing Access to Materials Necessary for National Security and Pandemic Recovery
+Requirement described in subsec. (a)(6)(B) of this section not applicable during the 1-year period beginning on Mar. 27, 2020, and requirement described in subsec. (a)(6)(C) of this section not applicable during the 2-year period beginning on Mar. 27, 2020, see section 4017 of Pub. L. 116–136, set out as a note under [section 4532 of this title](./chapter-055-defense-production.md#section-4532).
 
 #### Authorization To Take Actions To Correct the Industrial Resource Shortfall for High-Purity Beryllium Metal
 Pub. L. 111–84, div. A, title VIII, § 842, Oct. 28, 2009, 123 Stat. 2418, provided that: “Notwithstanding any limitation in section 303 of the Defense Production Act of 1950 (50 U.S.C. App. 2093) [now [50 U.S.C. 4533](./chapter-055-defense-production.md#section-4533)], an action may be taken under such section to correct an industrial resource shortfall or domestic industrial base shortfall for high-purity beryllium metal if such action does not cause the aggregate outstanding amount of all such actions for such shortfall to exceed ‘$85,000,000’.”
@@ -1001,6 +1186,9 @@ Section 308, act Sept. 8, 1950, ch. 932, title III, as added Pub. L. 96–294, t
 Section 309, act Sept. 8, 1950, ch. 932, title III, as added Pub. L. 98–265, § 6, Apr. 17, 1984, 98 Stat. 152; amended Pub. L. 99–441, § 4, Oct. 3, 1986, 100 Stat. 1117; Pub. L. 102–558, title I, § 124, Oct. 28, 1992, 106 Stat. 4207; Pub. L. 107–47, § 4(5), Oct. 5, 2001, 115 Stat. 260, related to annual report on impact of offsets. See [section 4568 of this title](./chapter-055-defense-production.md#section-4568).
 
 Section 310, act Sept. 8, 1950, ch. 932, title III, as added Pub. L. 102–558, title I, § 125, Oct. 28, 1992, 106 Stat. 4208, related to civil-military integration.
+
+#### Increasing Access to Materials Necessary for National Security and Pandemic Recovery
+Requirement described in subsec. (e) of this section not applicable during the 2-year period beginning on Mar. 27, 2020, see section 4017(1) of Pub. L. 116–136, set out in a note under [section 4532 of this title](./chapter-055-defense-production.md#section-4532).
 
 #### Defense Production Act Fund Manager
 Secretary of Defense designated Defense Production Act Fund Manager in accordance with subsec. (f) of this section, see section 309 of Ex. Ord. No. 13603, Mar. 16, 2012, 77 F.R. 16655, set out as a note under [section 4553 of this title](./chapter-055-defense-production.md#section-4553).
@@ -1495,6 +1683,14 @@ Section was formerly classified to section 2154 of the former Appendix to this t
 Amendment by Pub. L. 102–558 deemed to have become effective Mar. 1, 1992, see section 304 of Pub. L. 102–558, set out as a note under [section 4502 of this title](./chapter-055-defense-production.md#section-4502).
 
 #### Delegation of Functions
+Authority of President to implement the Defense Production Act of 1950 (this chapter) in this subchapter—
+
+(1) with respect to hoarding of health and medical resources necessary to respond to the spread of COVID–19 within the United States delegated to Secretary of Health and Human Services, see section 2(a)(ii) of Ex. Ord. 13910, Mar. 23, 2020, 85 F.R. 17001, set out as a note under [section 4512 of this title](./chapter-055-defense-production.md#section-4512);
+
+(2) with respect to responding to the spread of COVID–19 within the United States delegated to Secretary of Health and Human Services and Secretary of Homeland Security, see section 2(a) of Ex. Ord. No. 13911, Mar. 27, 2020, 85 F.R. 18403, set out as a note under [section 4511 of this title](./chapter-055-defense-production.md#section-4511); and
+
+(3) in addition to the delegation of authority in Ex. Ord. No. 13911, delegated to Chief Executive Officer of the United States International Development Finance Corporation, see section 2 of Ex. Ord. No. 13922, May 14, 2020, 85 F.R. 30583, set out as a note under [section 4532 of this title](./chapter-055-defense-production.md#section-4532).
+
 Functions of President under this chapter relating to production, conservation, use, control, distribution, and allocation of energy, delegated to Secretary of Energy, see section 4 of Ex. Ord. No. 11790, eff. June 25, 1974, 39 F.R. 23185, set out as a note under [section 761 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section761&num=0&edition=prelim), Commerce and Trade.
 
 
@@ -1549,6 +1745,14 @@ Amendment by Pub. L. 102–558 deemed to have become effective Mar. 1, 1992, see
 Amendment by Pub. L. 91–452 effective on sixtieth day following Oct. 15, 1970, and not to affect any immunity to which any individual is entitled under this section by reason of any testimony given before sixtieth day following Oct. 15, 1970, see section 260 of Pub. L. 91–452, set out as an Effective Date; Savings Provision note under [section 6001 of Title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section6001&num=0&edition=prelim), Crimes and Criminal Procedure.
 
 #### Delegation of Functions
+Authority of President to implement the Defense Production Act of 1950 (this chapter) in this subchapter—
+
+(1) with respect to hoarding of health and medical resources necessary to respond to the spread of COVID–19 within the United States delegated to Secretary of Health and Human Services, see section 2(a)(ii) of Ex. Ord. 13910, Mar. 23, 2020, 85 F.R. 17001, set out as a note under [section 4512 of this title](./chapter-055-defense-production.md#section-4512);
+
+(2) with respect to responding to the spread of COVID–19 within the United States delegated to Secretary of Health and Human Services and Secretary of Homeland Security, see section 2(a) of Ex. Ord. No. 13911, Mar. 27, 2020, 85 F.R. 18403, set out as a note under [section 4511 of this title](./chapter-055-defense-production.md#section-4511); and
+
+(3) in addition to the delegation of authority in Ex. Ord. No. 13911, delegated to Chief Executive Officer of the United States International Development Finance Corporation, see section 2 of Ex. Ord. No. 13922, May 14, 2020, 85 F.R. 30583, set out as a note under [section 4532 of this title](./chapter-055-defense-production.md#section-4532).
+
 Functions of President under this chapter relating to production, conservation, use, control, distribution, and allocation of energy, delegated to Secretary of Energy, see section 4 of Ex. Ord. No. 11790, June 25, 1974, 39 F.R. 23185, set out as a note under [section 761 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section761&num=0&edition=prelim), Commerce and Trade.
 
 
@@ -1570,6 +1774,14 @@ This chapter, referred to in text, was in the original “this Act”, meaning a
 1951—Subsec. (a). Act July 31, 1951, broadened relief a court may grant when Government seeks to enjoin violations.
 
 #### Delegation of Functions
+Authority of President to implement the Defense Production Act of 1950 (this chapter) in this subchapter—
+
+(1) with respect to hoarding of health and medical resources necessary to respond to the spread of COVID–19 within the United States delegated to Secretary of Health and Human Services, see section 2(a)(ii) of Ex. Ord. 13910, Mar. 23, 2020, 85 F.R. 17001, set out as a note under [section 4512 of this title](./chapter-055-defense-production.md#section-4512);
+
+(2) with respect to responding to the spread of COVID–19 within the United States delegated to Secretary of Health and Human Services and Secretary of Homeland Security, see section 2(a) of Ex. Ord. No. 13911, Mar. 27, 2020, 85 F.R. 18403, set out as a note under [section 4511 of this title](./chapter-055-defense-production.md#section-4511); and
+
+(3) in addition to the delegation of authority in Ex. Ord. No. 13911, delegated to Chief Executive Officer of the United States International Development Finance Corporation, see section 2 of Ex. Ord. No. 13922, May 14, 2020, 85 F.R. 30583, set out as a note under [section 4532 of this title](./chapter-055-defense-production.md#section-4532).
+
 Functions of President under this chapter relating to production, conservation, use, control, distribution, and allocation of energy, delegated to Secretary of Energy, see section 4 of Ex. Ord. No. 11790, June 25, 1974, 39 F.R. 23185, set out as a note under [section 761 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section761&num=0&edition=prelim), Commerce and Trade.
 
 
@@ -1871,6 +2083,8 @@ Pub. L. 94–152, § 9, Dec. 16, 1975, 89 Stat. 821, as amended by Pub. L. 94–
 Amendment by act Aug. 9, 1955, effective as of the close of July 31, 1955, see section 11 of act Aug. 9, 1955, set out as a note under [section 4502 of this title](./chapter-055-defense-production.md#section-4502).
 
 #### Delegation of Functions
+Authority of President under subsecs. (c)(1) and (d) of this section with respect to responding to the spread of COVID–19 within the United States delegated to Secretary of Health and Human Services and Secretary of Homeland Security, see section 3 of Ex. Ord. No. 13911, Mar. 27, 2020, 85 F.R. 18404, set out as a note under [section 4511 of this title](./chapter-055-defense-production.md#section-4511).
+
 Functions conferred upon President under this section necessary to effect changes in composition of, or to take other action respecting voluntary agreements and programs relating to, small business production pools approved prior to July 31, 1953, delegated to Administrator of Small Business Administration by Ex. Ord. No. 10493, Oct. 14, 1953, 18 F.R. 6583, set out as a note under [section 640 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section640&num=0&edition=prelim), Commerce and Trade.
 
 Functions of President under this chapter relating to production, conservation, use, control, distribution, and allocation of energy, delegated to Secretary of Energy, see section 4 of Ex. Ord. No. 11790, June 25, 1974, 39 F.R. 23185, set out as a note under [section 761 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section761&num=0&edition=prelim).
@@ -2030,6 +2244,14 @@ Amendment by Pub. L. 94–152 effective at close of Nov. 30, 1975, see section 9
 Amendment by act Aug. 9, 1955, effective as of close of July 31, 1955, see section 11 of act Aug. 9, 1955, set out as a note under [section 4502 of this title](./chapter-055-defense-production.md#section-4502).
 
 #### Delegation of Functions
+Authority of President to implement the Defense Production Act of 1950 (this chapter) in this subchapter—
+
+(1) with respect to hoarding of health and medical resources necessary to respond to the spread of COVID–19 within the United States delegated to Secretary of Health and Human Services, see section 2(a)(ii) of Ex. Ord. 13910, Mar. 23, 2020, 85 F.R. 17001, set out as a note under [section 4512 of this title](./chapter-055-defense-production.md#section-4512);
+
+(2) with respect to responding to the spread of COVID–19 within the United States delegated to Secretary of Health and Human Services and Secretary of Homeland Security, see section 2(a) of Ex. Ord. No. 13911, Mar. 27, 2020, 85 F.R. 18403, set out as a note under [section 4511 of this title](./chapter-055-defense-production.md#section-4511); and
+
+(3) in addition to the delegation of authority in Ex. Ord. No. 13911, delegated to Chief Executive Officer of the United States International Development Finance Corporation, see section 2 of Ex. Ord. No. 13922, May 14, 2020, 85 F.R. 30583, set out as a note under [section 4532 of this title](./chapter-055-defense-production.md#section-4532).
+
 Functions of President under this chapter relating to production, conservation, use, control, distribution, and allocation of energy, delegated to Secretary of Energy, see section 4 of Ex. Ord. No. 11790, June 25, 1974, 39 F.R. 23185, set out under [section 761 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section761&num=0&edition=prelim), Commerce and Trade.
 
 For delegation of authority of President under subsecs. (b), (c), and (e) of this section, see sections 501(b) and 502 of Ex. Ord. No. 13603, Mar. 16, 2012, 77 F.R. 16656, set out as a note under [section 4553 of this title](./chapter-055-defense-production.md#section-4553).
@@ -2038,7 +2260,7 @@ For delegation of authority of President under subsecs. (b), (c), and (e) of thi
 <a id="section-4563"></a>
 ## § 4563. Authorization of appropriations; availability of funds
 
-There is authorized to be appropriated $133,000,000 for fiscal year 2015 and each fiscal year thereafter for the carrying out of the provisions and purposes of this chapter by the President and such agencies as he may designate or create.
+There is authorized to be appropriated $133,000,000 for fiscal year 2015 and each fiscal year thereafter for the carrying out of the provisions and purposes of this chapter by the President and such agencies as he may designate or create. In addition to the appropriations authorized by the previous sentence, there is authorized to be appropriated $117,000,000 for each of fiscal years 2020 through 2024 to carry out subchapter II.
 
 ### Statutory Notes
 
@@ -2052,6 +2274,8 @@ This chapter, referred to in text, was in the original “this Act”, meaning a
 Section was formerly classified to section 2161 of the former Appendix to this title prior to editorial reclassification and renumbering as this section.
 
 #### Amendments
+2019—Pub. L. 116–92 inserted at end “In addition to the appropriations authorized by the previous sentence, there is authorized to be appropriated $117,000,000 for each of fiscal years 2020 through 2024 to carry out subchapter II.”
+
 2014—Pub. L. 113–172 substituted “is authorized to be appropriated $133,000,000 for fiscal year 2015 and each fiscal year thereafter” for “are hereby authorized to be appropriated such sums as may be necessary and appropriate” and struck out at end “Funds made available pursuant to this paragraph for the purposes of this chapter may be allocated or transferred for any of the purposes of this chapter, with the approval of the Office of Management and Budget, to any agency designated to assist in carrying out this chapter. Funds so allocated or transferred shall remain available for such period as may be specified in the Acts making such funds available.”
 
 2009—Pub. L. 111–67 struck out subsec. (a) designation and heading, struck out provisions relating to exception provided in subsec. (b) and parenthetical provision including sections 4532 and 4533 of this title within provisions and purposes of chapter and excluding sections 305 and 306 of act Sept. 8, 1950, ch. 932, from such provisions and purposes, and struck out subsec. (b) which related to subchapter II appropriations for fiscal years 1996 through 2009.
@@ -2328,7 +2552,7 @@ Amendment by act Aug. 9, 1955, effective as of close of July 31, 1955, see secti
 
 <a id="section-4567"></a>
 ## § 4567. Authority to review certain mergers, acquisitions, and takeovers
-**(a) 11 See Amendment of Subsection (a) note below. Definitions** In this section:
+**(a) Definitions** In this section:
 
 (1) **Clarification** — The term “national security” shall be construed so as to include those issues relating to “homeland security”, including its application to critical infrastructure.
 
@@ -2524,7 +2748,17 @@ Amendment by act Aug. 9, 1955, effective as of close of July 31, 1955, see secti
 
   (C) *Written notice*
 
-    (i) *In general* — Any party or parties to any covered transaction may initiate a review of the transaction under this paragraph by submitting a written notice of the transaction to the Chairperson of the Committee.
+    (i) *In general*
+
+      (I) *In general* — Any party or parties to any covered transaction may initiate a review of the transaction under this paragraph by submitting a written notice of the transaction to the Chairperson of the Committee.
+
+      (II) *Comments and acceptance*
+
+        (aa) *In general* — Subject to item (cc), the Committee shall provide comments on a draft or formal written notice or accept a formal written notice submitted under subclause (I) with respect to a covered transaction not later than the date that is 10 business days after the date of submission of the draft or formal written notice.
+
+        (bb) *Completeness* — If the Committee determines that a draft or formal written notice described in item (aa) is not complete, the Committee shall notify the party or parties to the transaction in writing that the notice is not complete and provide an explanation of all material respects in which the notice is incomplete.
+
+        (cc) *Stipulations required* — The timing requirement under item (aa) shall apply only in a case in which the parties stipulate under clause (vi) that the transaction is a covered transaction.
 
     (ii) *Withdrawal of notice* — No covered transaction for which a notice was submitted under clause (i) may be withdrawn from review, unless a written request for such withdrawal is submitted to the Committee by any party to the transaction and approved by the Committee.
 
@@ -2532,7 +2766,61 @@ Amendment by act Aug. 9, 1955, effective as of close of July 31, 1955, see secti
 
     (iv) *Inclusion of partnership and side agreements* — The Committee may require a written notice submitted under clause (i) to include a copy of any partnership agreements, integration agreements, or other side agreements relating to the transaction, as specified in regulations prescribed by the Committee.
 
-    (vi) *22 So in original. See Enactment of Subsection (b)(1)(C)(v) note below. Stipulations regarding transactions*
+    (v) *Declarations for certain covered transactions*
+
+      (I) *In general* — A party to any covered transaction may submit to the Committee a declaration with basic information regarding the transaction instead of a written notice under clause (i).
+
+      (II) *Regulations* — The Committee shall prescribe regulations establishing requirements for declarations submitted under this clause. In prescribing such regulations, the Committee shall ensure that such declarations are submitted as abbreviated notifications that would not generally exceed 5 pages in length.
+
+      (III) *Committee response to declaration*
+
+        (aa) *In general* — Upon receiving a declaration under this clause with respect to a covered transaction, the Committee may, at the discretion of the Committee—
+
+          (AA) request that the parties to the transaction file a written notice under clause (i);
+
+          (BB) inform the parties to the transaction that the Committee is not able to complete action under this section with respect to the transaction on the basis of the declaration and that the parties may file a written notice under clause (i) to seek written notification from the Committee that the Committee has completed all action under this section with respect to the transaction;
+
+          (CC) initiate a unilateral review of the transaction under subparagraph (D); or
+
+          (DD) notify the parties in writing that the Committee has completed all action under this section with respect to the transaction.
+
+        (bb) *Timing* — The Committee shall take action under item (aa) not later than 30 days after receiving a declaration under this clause.
+
+        (cc) *Rule of construction* — Nothing in this subclause (other than item (aa)(CC)) shall be construed to affect the authority of the President or the Committee to take any action authorized by this section with respect to a covered transaction.
+
+      (IV) *Mandatory declarations*
+
+        (aa) *Regulations* — The Committee shall prescribe regulations specifying the types of covered transactions for which the Committee requires a declaration under this subclause.
+
+        (bb) *Certain covered transactions with foreign government interests*
+
+          (AA) *In general* — Except as provided in subitem (BB), the parties to a covered transaction shall submit a declaration described in subclause (I) with respect to the transaction if the transaction involves an investment that results in the acquisition, directly or indirectly, of a substantial interest in a United States business described in subsection (a)(4)(B)(iii) by a foreign person in which a foreign government has, directly or indirectly, a substantial interest.
+
+          (BB) *Substantial interest defined* — In this item, the term “substantial interest” has the meaning given that term in regulations which the Committee shall prescribe. In developing those regulations, the Committee shall consider the means by which a foreign government could influence the actions of a foreign person, including through board membership, ownership interest, or shareholder rights. An interest that is excluded under subparagraph (D) of subsection (a)(4) from the term “other investment” as used in subparagraph (B)(iii) of that subsection or that is less than a 10 percent voting interest shall not be considered a substantial interest.
+
+          (CC) *Waiver* — The Committee may waive, with respect to a foreign person, the requirement under subitem (AA) for the submission of a declaration described in subclause (I) if the Committee determines that the foreign person demonstrates that the investments of the foreign person are not directed by a foreign government and the foreign person has a history of cooperation with the Committee.
+
+        (cc) *Other declarations required by Committee* — The Committee may require the submission of a declaration described in subclause (I) with respect to any covered transaction identified under regulations prescribed by the Committee for purposes of this item, at the discretion of the Committee, that involves a United States business described in subsection (a)(4)(B)(iii)(II).
+
+        (dd) *Exception* — The submission of a declaration described in subclause (I) shall not be required pursuant to this subclause with respect to an investment by an investment fund if—
+
+          (AA) the fund is managed exclusively by a general partner, a managing member, or an equivalent;
+
+          (BB) the general partner, managing member, or equivalent is not a foreign person; and
+
+          (CC) the investment fund satisfies, with respect to any foreign person with membership as a limited partner on an advisory board or a committee of the fund, the criteria specified in items (cc) and (dd) of subsection (a)(4)(D)(iv).
+
+        (ee) *Submission of written notice as an alternative* — Parties to a covered transaction for which a declaration is required under this subclause may instead elect to submit a written notice under clause (i).
+
+        (ff) *Timing and refiling of submission*
+
+          (AA) *In general* — In the regulations prescribed under item (aa), the Committee may not require a declaration to be submitted under this subclause with respect to a covered transaction more than 45 days before the completion of the transaction.
+
+          (BB) *Refiling of declaration* — The Committee may not request or recommend that a declaration submitted under this subclause be withdrawn and refiled, except to permit parties to a covered transaction to correct material errors or omissions in the declaration submitted with respect to that transaction.
+
+        (gg) *Penalties* — The Committee may impose a penalty pursuant to subsection (h)(3) with respect to a party that fails to comply with this subclause.
+
+    (vi) *Stipulations regarding transactions*
 
       (I) *In general* — In a written notice submitted under clause (i) or a declaration submitted under clause (v) with respect to a transaction, a party to the transaction may—
 
@@ -2610,7 +2898,7 @@ Amendment by act Aug. 9, 1955, effective as of close of July 31, 1955, see secti
 
 (3) **Certifications to Congress**
 
-  (A) *Certified notice at completion of review* — Upon completion of a review under subsection (b) that concludes action under this section, the chairperson and the head of the lead agency shall transmit a certified notice to the members of Congress specified in subparagraph (C)(iii).
+  (A) *Certified notice at completion of review or assessment* — Upon completion of a review under this subsection that concludes action under this section, or upon the Committee making a notification under paragraph (1)(C)(v)(III)(aa)(DD), the chairperson and the head of the lead agency shall transmit a certified notice to the members of Congress specified in subparagraph (C)(iii).
 
   (B) *Certified report at completion of investigation* — As soon as is practicable after completion of an investigation under subsection (b) that concludes action under this section, the chairperson and the head of the lead agency shall transmit to the members of Congress specified in subparagraph (C)(iii) a certified written report (consistent with the requirements of subsection (c)) on the results of the investigation, unless the matter under investigation has been sent to the President for decision.
 
@@ -2618,9 +2906,11 @@ Amendment by act Aug. 9, 1955, effective as of close of July 31, 1955, see secti
 
     (i) *In general* — Each certified notice and report required under subparagraphs (A) and (B), respectively, shall be submitted to the members of Congress specified in clause (iii), and shall include—
 
-      (I) a description of the actions taken by the Committee with respect to the transaction; and
+      (I) a description of the actions taken by the Committee with respect to the transaction;
 
-      (II) identification of the determinative factors considered under subsection (f).
+      (II) a certification that all relevant national security factors have received full consideration; and
+
+      (III) whether the transaction is described under clause (i), (ii), (iii), (iv), or (v) of subsection (a)(4)(B).
 
     (ii) *Content of certification* — Each certified notice and report required under subparagraphs (A) and (B), respectively, shall be signed by the chairperson and the head of the lead agency, and shall state that, in the determination of the Committee, there are no unresolved national security concerns with the transaction that is the subject of the notice or report.
 
@@ -2640,15 +2930,17 @@ Amendment by act Aug. 9, 1955, effective as of close of July 31, 1955, see secti
 
       (I) *In general* — Each certified notice and report required under subparagraphs (A) and (B), respectively, shall be signed by the chairperson and the head of the lead agency, which signature requirement may only be delegated in accordance with subclause (II).
 
-      (II) *Limitation on delegation of certifications* — The chairperson and the head of the lead agency may delegate the signature requirement under subclause (I)—
+      (II) *Delegation of certifications*
 
-        (aa) only to an appropriate employee of the Department of the Treasury (in the case of the Secretary of the Treasury) or to an appropriate employee of the lead agency (in the case of the lead agency) who was appointed by the President, by and with the advice and consent of the Senate, with respect to any notice provided under paragraph (1) following the completion of a review under this section; or
+        (aa) *In general* — Subject to item (bb), the chairperson, in consultation with the Committee, may determine the level of official to whom the signature requirement under subclause (I) for the chairperson and the head of the lead agency may be delegated. The level of official to whom the signature requirement may be delegated may differ based on any factor relating to a transaction that the chairperson, in consultation with the Committee, deems appropriate, including the type or value of the transaction.
 
-        (bb) only to a Deputy Secretary of the Treasury (in the case of the Secretary of the Treasury) or a person serving in the Deputy position or the equivalent thereof at the lead agency (in the case of the lead agency), with respect to any report provided under subparagraph (B) following an investigation under this section.
+        (bb) *Limitation on delegation with respect to certain transactions* — The signature requirement under subclause (I) may be delegated not below the level of the Assistant Secretary of the Treasury or an equivalent official of the lead agency.
+
+    (v) *Authority to consolidate documents* — Instead of transmitting a separate certified notice or certified report under subparagraph (A) or (B) with respect to each covered transaction, the Committee may, on a monthly basis, transmit such notices and reports in a consolidated document to the Members of Congress specified in clause (iii).
 
 (4) **Analysis by Director of National Intelligence**
 
-  (A) *33 See Amendment of Subsection (b)(4)(A) note below. Analysis required*
+  (A) *Analysis required*
 
     (i) *In general* — Except as provided in subparagraph (B), the Director of National Intelligence shall expeditiously carry out a thorough analysis of any threat to the national security of the United States posed by any covered transaction, which shall include the identification of any recognized gaps in the collection of intelligence relevant to the analysis.
 
@@ -2764,11 +3056,11 @@ Amendment by act Aug. 9, 1955, effective as of close of July 31, 1955, see secti
 
   (A) identified by the Secretary of State—
 
-    (i) under section 4605(j) 44 See References in Text note below. of this title, as a country that supports terrorism;
+    (i) under section 4605(j) 11 See References in Text note below. of this title, as a country that supports terrorism;
 
-    (ii) under section 4605(l) 4 of this title, as a country of concern regarding missile proliferation; or
+    (ii) under section 4605(l) 1 of this title, as a country of concern regarding missile proliferation; or
 
-    (iii) under section 4605(m) 4 of this title, as a country of concern regarding the proliferation of chemical and biological weapons;
+    (iii) under section 4605(m) 1 of this title, as a country of concern regarding the proliferation of chemical and biological weapons;
 
   (B) identified by the Secretary of Defense as posing a potential regional military threat to the interests of the United States; or
 
@@ -2984,7 +3276,15 @@ Amendment by act Aug. 9, 1955, effective as of close of July 31, 1955, see secti
 
 (2) **Contents of report relating to covered transactions** — The annual report under paragraph (1) shall contain the following information, with respect to each covered transaction, for the reporting period:
 
-  (A) A list of all notices filed and all reviews or investigations completed during the period, with basic information on each party to the transaction, the nature of the business activities or products of all pertinent persons, along with information about any withdrawal from the process, and any decision or action by the President under this section.
+  (A) A list of all notices filed and all reviews or investigations of covered transactions completed during the period, with—
+
+    (i) a description of the outcome of each review or investigation, including whether an agreement was entered into or condition was imposed under subsection (l)(3)(A) with respect to the transaction being reviewed or investigated, and whether the President took any action under this section with respect to that transaction;
+
+    (ii) basic information on each party to each such transaction;
+
+    (iii) the nature of the business activities or products of the United States business with which the transaction was entered into or intended to be entered into; and
+
+    (iv) information about any withdrawal from the process.
 
   (B) Specific, cumulative, and, as appropriate, trend information on the numbers of filings, investigations, withdrawals, and decisions or actions by the President under this section.
 
@@ -2996,17 +3296,31 @@ Amendment by act Aug. 9, 1955, effective as of close of July 31, 1955, see secti
 
   (F) A detailed discussion of all perceived adverse effects of covered transactions on the national security or critical infrastructure of the United States that the Committee will take into account in its deliberations during the period before delivery of the next report, to the extent possible.
 
-(3) **Contents of report relating to critical technologies**
+  (G) Statistics on compliance plans conducted and actions taken by the Committee under subsection (l)(6), including subparagraph (D) of that subsection, during that period, a general assessment of the compliance of parties with agreements entered into and conditions imposed under subsection (l)(3)(A) that are in effect during that period, including a description of any actions taken by the Committee to impose penalties or initiate a unilateral review pursuant to subsection (b)(1)(D)(iii), and any recommendations for improving the enforcement of such agreements and conditions.
 
-  (A) *In general* — In order to assist Congress in its oversight responsibilities with respect to this section, the President and such agencies as the President shall designate shall include in the annual report submitted under paragraph (1)—
+  (H) Cumulative and, as appropriate, trend information on the number of declarations filed under subsection (b)(1)(C)(v), the actions taken by the Committee in response to those declarations, the business sectors involved in those declarations, and the countries involved in those declarations.
 
-    (i) an evaluation of whether there is credible evidence of a coordinated strategy by 1 or more countries or companies to acquire United States companies involved in research, development, or production of critical technologies for which the United States is a leading producer; and
+  (I) A description of—
 
-    (ii) an evaluation of whether there are industrial espionage activities directed or directly assisted by foreign governments against private United States companies aimed at obtaining commercial secrets related to critical technologies.
+    (i) the methods used by the Committee to identify non-notified and non-declared transactions under subsection (b)(1)(H);
 
-  (B) *Release of unclassified study* — All appropriate portions of the annual report under paragraph (1) may be classified. An unclassified version of the report, as appropriate, consistent with safeguarding national security and privacy, shall be made available to the public.
+    (ii) potential methods to improve such identification and the resources required to do so; and
 
-(4) **55 See Amendment of Subsection (m)(4) note below. Form of report**
+    (iii) the number of transactions identified through the process established under that subsection during the reporting period and the number of such transactions flagged for further review.
+
+  (J) A summary of the hiring practices and policies of the Committee pursuant to subsection (k)(4).
+
+  (K) A list of the waivers granted by the Committee under subsection (b)(1)(C)(v)(IV)(bb)(CC).
+
+(3) **Contents of report relating to critical technologies** — In order to assist Congress in its oversight responsibilities with respect to this section, the President and such agencies as the President shall designate shall include in the annual report submitted under paragraph (1)—
+
+  (A) an evaluation of whether there is credible evidence of a coordinated strategy by 1 or more countries or companies to acquire United States companies involved in research, development, or production of critical technologies for which the United States is a leading producer;
+
+  (B) an evaluation of whether there are industrial espionage activities directed or directly assisted by foreign governments against private United States companies aimed at obtaining commercial secrets related to critical technologies; and
+
+  (C) a description of the technologies recommended by the chairperson under subsection (a)(6)(B) for identification under the interagency process set forth in [section 4817(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4817/a&num=0&edition=prelim).
+
+(4) **Form of report**
 
   (A) *In general* — All appropriate portions of the annual report under paragraph (1) may be classified. An unclassified version of the report, as appropriate, consistent with safeguarding national security and privacy, shall be made available to the public.
 
@@ -3156,214 +3470,6 @@ Amendment by act Aug. 9, 1955, effective as of close of July 31, 1955, see secti
 
 ### Statutory Notes
 
-#### Amendment of Subsection (a)
-For effective date and applicability of subsec. (a) of this section as amended by section 1703 of Pub. L. 115–232, see Effective Date of 2018 Amendment note below.
-
-#### Amendment of Subsection (b)(1)(C)(i)
-Pub. L. 115–232, div. A, title XVII, §§ 1704, 1727(b), Aug. 13, 2018, 132 Stat. 2183, 2206, provided that, effective on the earlier of the date that is 18 months after Aug. 13, 2018, or the date that is 30 days after publication in the Federal Register of a determination by the chairperson of the Committee on Foreign Investment in the United States that the regulations, organizational structure, personnel, and other resources necessary to administer new provisions are in place, and applicable with respect to any covered transaction the review or investigation of which is initiated under this section on or after Aug. 13, 2018, subsec. (b)(1)(C)(i) of this section is amended—
-
-(1) by striking “Any party” and inserting the following:
-
-“(I) In general
-
-“Any party”; and
-
-(2) by adding at the end the following:
-
-(II) Comments and acceptance
-
-(aa) In general
-
-Subject to item (cc), the Committee shall provide comments on a draft or formal written notice or accept a formal written notice submitted under subclause (I) with respect to a covered transaction not later than the date that is 10 business days after the date of submission of the draft or formal written notice.
-
-(bb) Completeness
-
-If the Committee determines that a draft or formal written notice described in item (aa) is not complete, the Committee shall notify the party or parties to the transaction in writing that the notice is not complete and provide an explanation of all material respects in which the notice is incomplete.
-
-(cc) Stipulations required
-
-The timing requirement under item (aa) shall apply only in a case in which the parties stipulate under clause (vi) that the transaction is a covered transaction.
-
-See 2018 Amendment note below.
-
-#### Enactment of Subsection (b)(1)(C)(v)
-Pub. L. 115–232, div. A, title XVII, §§ 1706, 1727(b), Aug. 13, 2018, 132 Stat. 2184, 2206, provided that, effective on the earlier of the date that is 18 months after Aug. 13, 2018, or the date that is 30 days after publication in the Federal Register of a determination by the chairperson of the Committee on Foreign Investment in the United States that the regulations, organizational structure, personnel, and other resources necessary to administer new provisions are in place, and applicable with respect to any covered transaction the review or investigation of which is initiated under this section on or after Aug. 13, 2018, subsec. (b)(1)(C) is amended by adding at the end the following:
-
-(v) Declarations for certain covered transactions
-
-(I) In general
-
-A party to any covered transaction may submit to the Committee a declaration with basic information regarding the transaction instead of a written notice under clause (i).
-
-(II) Regulations
-
-The Committee shall prescribe regulations establishing requirements for declarations submitted under this clause. In prescribing such regulations, the Committee shall ensure that such declarations are submitted as abbreviated notifications that would not generally exceed 5 pages in length.
-
-(III) Committee response to declaration
-
-(aa) In general
-
-Upon receiving a declaration under this clause with respect to a covered transaction, the Committee may, at the discretion of the Committee—
-
-(AA) request that the parties to the transaction file a written notice under clause (i);
-
-(BB) inform the parties to the transaction that the Committee is not able to complete action under this section with respect to the transaction on the basis of the declaration and that the parties may file a written notice under clause (i) to seek written notification from the Committee that the Committee has completed all action under this section with respect to the transaction;
-
-(CC) initiate a unilateral review of the transaction under subparagraph (D); or
-
-(DD) notify the parties in writing that the Committee has completed all action under this section with respect to the transaction.
-
-(bb) Timing
-
-The Committee shall take action under item (aa) not later than 30 days after receiving a declaration under this clause.
-
-(cc) Rule of construction
-
-Nothing in this subclause (other than item (aa)(CC)) shall be construed to affect the authority of the President or the Committee to take any action authorized by this section with respect to a covered transaction.
-
-(IV) Mandatory declarations
-
-(aa) Regulations
-
-The Committee shall prescribe regulations specifying the types of covered transactions for which the Committee requires a declaration under this subclause.
-
-(bb) Certain covered transactions with foreign government interests
-
-(AA) In general
-
-Except as provided in subitem (BB), the parties to a covered transaction shall submit a declaration described in subclause (I) with respect to the transaction if the transaction involves an investment that results in the acquisition, directly or indirectly, of a substantial interest in a United States business described in subsection (a)(4)(B)(iii) by a foreign person in which a foreign government has, directly or indirectly, a substantial interest.
-
-(BB) Substantial interest defined
-
-In this item, the term “substantial interest” has the meaning given that term in regulations which the Committee shall prescribe. In developing those regulations, the Committee shall consider the means by which a foreign government could influence the actions of a foreign person, including through board membership, ownership interest, or shareholder rights. An interest that is excluded under subparagraph (D) of subsection (a)(4) from the term “other investment” as used in subparagraph (B)(iii) of that subsection or that is less than a 10 percent voting interest shall not be considered a substantial interest.
-
-(CC) Waiver
-
-The Committee may waive, with respect to a foreign person, the requirement under subitem (AA) for the submission of a declaration described in subclause (I) if the Committee determines that the foreign person demonstrates that the investments of the foreign person are not directed by a foreign government and the foreign person has a history of cooperation with the Committee.
-
-(cc) Other declarations required by Committee
-
-The Committee may require the submission of a declaration described in subclause (I) with respect to any covered transaction identified under regulations prescribed by the Committee for purposes of this item, at the discretion of the Committee, that involves a United States business described in subsection (a)(4)(B)(iii)(II).
-
-(dd) Exception
-
-The submission of a declaration described in subclause (I) shall not be required pursuant to this subclause with respect to an investment by an investment fund if—
-
-(AA) the fund is managed exclusively by a general partner, a managing member, or an equivalent;
-
-(BB) the general partner, managing member, or equivalent is not a foreign person; and
-
-(CC) the investment fund satisfies, with respect to any foreign person with membership as a limited partner on an advisory board or a committee of the fund, the criteria specified in items (cc) and (dd) of subsection (a)(4)(D)(iv).
-
-(ee) Submission of written notice as an alternative
-
-Parties to a covered transaction for which a declaration is required under this subclause may instead elect to submit a written notice under clause (i).
-
-(ff) Timing and refiling of submission
-
-(AA) In general
-
-In the regulations prescribed under item (aa), the Committee may not require a declaration to be submitted under this subclause with respect to a covered transaction more than 45 days before the completion of the transaction.
-
-(BB) Refiling of declaration
-
-The Committee may not request or recommend that a declaration submitted under this subclause be withdrawn and refiled, except to permit parties to a covered transaction to correct material errors or omissions in the declaration submitted with respect to that transaction.
-
-(gg) Penalties
-
-The Committee may impose a penalty pursuant to subsection (h)(3) with respect to a party that fails to comply with this subclause.
-
-See 2018 Amendment note below.
-
-#### Amendment of Subsection (b)(3)(C)
-Pub. L. 115–232, div. A, title XVII, §§ 1711, 1727(b), Aug. 13, 2018, 132 Stat. 2188, 2206, provided that, effective on the earlier of the date that is 18 months after Aug. 13, 2018, or the date that is 30 days after publication in the Federal Register of a determination by the chairperson of the Committee on Foreign Investment in the United States that the regulations, organizational structure, personnel, and other resources necessary to administer new provisions are in place, and applicable with respect to any covered transaction the review or investigation of which is initiated under this section on or after Aug. 13, 2018, subsec. (b)(3)(C) of this section is amended—
-
-(1) in clause (i), by striking subclause (II) and inserting the following:
-
-“(II) a certification that all relevant national security factors have received full consideration.”;
-
-(2) in clause (iv), by striking subclause (II) and inserting the following:
-
-“(II) Delegation of certifications
-
-“(aa) In general
-
-“Subject to item (bb), the chairperson, in consultation with the Committee, may determine the level of official to whom the signature requirement under subclause (I) for the chairperson and the head of the lead agency may be delegated. The level of official to whom the signature requirement may be delegated may differ based on any factor relating to a transaction that the chairperson, in consultation with the Committee, deems appropriate, including the type or value of the transaction.
-
-“(bb) Limitation on delegation with respect to certain transactions
-
-“The signature requirement under subclause (I) may be delegated not below the level of the Assistant Secretary of the Treasury or an equivalent official of the lead agency.”; and
-
-(3) by adding at the end the following:
-
-(v) Authority to consolidate documents
-
-Instead of transmitting a separate certified notice or certified report under subparagraph (A) or (B) with respect to each covered transaction, the Committee may, on a monthly basis, transmit such notices and reports in a consolidated document to the Members of Congress specified in clause (iii).
-
-See 2018 Amendment notes below.
-
-#### Amendment of Subsection (b)(4)(A)
-For effective date and applicability of subsec. (b)(4)(A) of this section as amended by section 1712(1) of Pub. L. 115–232, see Effective Date of 2018 Amendment note below.
-
-#### Amendment of Subsection (m)(2)
-Pub. L. 115–232, div. A, title XVII, §§ 1719(a)(1), 1727(b), Aug. 13, 2018, 132 Stat. 2197, 2206, provided that, effective on the earlier of the date that is 18 months after Aug. 13, 2018, or the date that is 30 days after publication in the Federal Register of a determination by the chairperson of the Committee on Foreign Investment in the United States that the regulations, organizational structure, personnel, and other resources necessary to administer new provisions are in place, and applicable with respect to any covered transaction the review or investigation of which is initiated under this section on or after Aug. 13, 2018, subsec. (m)(2) of this section is amended—
-
-(1) by amending subparagraph (A) to read as follows:
-
-“(A) A list of all notices filed and all reviews or investigations of covered transactions completed during the period, with—
-
-“(i) a description of the outcome of each review or investigation, including whether an agreement was entered into or condition was imposed under subsection (l)(3)(A) with respect to the transaction being reviewed or investigated, and whether the President took any action under this section with respect to that transaction;
-
-“(ii) basic information on each party to each such transaction;
-
-“(iii) the nature of the business activities or products of the United States business with which the transaction was entered into or intended to be entered into; and
-
-“(iv) information about any withdrawal from the process.”; and
-
-(2) by adding at the end the following:
-
-(G) Statistics on compliance plans conducted and actions taken by the Committee under subsection (l)(6), including subparagraph (D) of that subsection, during that period, a general assessment of the compliance of parties with agreements entered into and conditions imposed under subsection (l)(3)(A) that are in effect during that period, including a description of any actions taken by the Committee to impose penalties or initiate a unilateral review pursuant to subsection (b)(1)(D)(iii), and any recommendations for improving the enforcement of such agreements and conditions.
-
-(H) Cumulative and, as appropriate, trend information on the number of declarations filed under subsection (b)(1)(C)(v), the actions taken by the Committee in response to those declarations, the business sectors involved in those declarations, and the countries involved in those declarations.
-
-(I) A description of—
-
-(i) the methods used by the Committee to identify non-notified and non-declared transactions under subsection (b)(1)(H);
-
-(ii) potential methods to improve such identification and the resources required to do so; and
-
-(iii) the number of transactions identified through the process established under that subsection during the reporting period and the number of such transactions flagged for further review.
-
-(J) A summary of the hiring practices and policies of the Committee pursuant to subsection (k)(4).
-
-(K) A list of the waivers granted by the Committee under subsection (b)(1)(C)(v)(IV)(bb)(CC).
-
-See 2018 Amendment notes below.
-
-#### Amendment of Subsection (m)(3)
-Pub. L. 115–232, div. A, title XVII, §§ 1719(a)(2), 1727(b), Aug. 13, 2018, 132 Stat. 2198, 2206, provided that, effective on the earlier of the date that is 18 months after Aug. 13, 2018, or the date that is 30 days after publication in the Federal Register of a determination by the chairperson of the Committee on Foreign Investment in the United States that the regulations, organizational structure, personnel, and other resources necessary to administer new provisions are in place, and applicable with respect to any covered transaction the review or investigation of which is initiated under this section on or after Aug. 13, 2018, subsec. (m)(3) of this section is amended—
-
-(1) by striking “critical technologies” and all that follows through “In order to assist” and inserting “critical technologies
-
-“In order to assist”;
-
-(2) by striking subparagraph (B);
-
-(3) by redesignating clauses (i) and (ii) as subparagraphs (A) and (B), respectively, and by moving such subparagraphs, as so redesignated, 2 ems to the left;
-
-(4) in subparagraph (A), as so redesignated, by striking “; and” and inserting a semicolon;
-
-(5) in subparagraph (B), as so redesignated, by striking the period and inserting “; and”; and
-
-(6) by adding at the end the following:
-
-(C) a description of the technologies recommended by the chairperson under subsection (a)(6)(B) for identification under the interagency process set forth in [section 4817(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4817/a&num=0&edition=prelim).
-
-See 2018 Amendment note below.
-
-#### Enactment of Subsection (m)(4)
-For effective date and applicability of subsec. (m)(4) of this section as added by section 1719(a)(3) of Pub. L. 115–232, see Effective Date of 2018 Amendment note below.
-
 #### References in Text
 Section 1727 of the Foreign Investment Risk Review Modernization Act of 2018, referred to in subsec. (a)(4)(A)(ii), is section 1727 of Pub. L. 115–232. Section 1727(a), (b) of Pub. L. 115–232 is set out as an Effective Date of 2018 Amendment note under this section.
 
@@ -3381,6 +3487,10 @@ Executive Order 11858, referred to in subsec. (k)(1), is set out as a note under
 Section was formerly classified to section 2170 of the former Appendix to this title prior to editorial reclassification and renumbering as this section.
 
 #### Amendments
+2021—Subsec. (b)(3)(A). Pub. L. 116–283, § 9721(a)(1), inserted “or assessment” after “review” in heading and substituted “this subsection that concludes action under this section, or upon the Committee making a notification under paragraph (1)(C)(v)(III)(aa)(DD)” for “ subsection (b) that concludes action under this section” in text.
+
+Subsec. (b)(3)(C)(i)(III). Pub. L. 116–283, § 9721(a)(2), added subcl. (III).
+
 2018—Subsec. (a). Pub. L. 115–232, § 1703, amended subsec. (a) generally. Prior to amendment, subsec. (a) defined the terms “Committee”, “chairperson”, “control”, “covered transaction”, “foreign government-controlled transaction”, “critical infrastructure”, “critical technologies”, and “lead agency” for purposes of this section, and clarified construction of the term “national security” for purposes of this section.
 
 Subsec. (b)(1)(C)(i). Pub. L. 115–232, § 1704, designated existing provisions as subcl. (I), inserted heading, and added subcl. (II).
@@ -3557,8 +3667,11 @@ Subsec. (j). Pub. L. 102–484, § 837(e), added subsec. (j).
 
 Subsec. (k). Pub. L. 102–558 added subsec. (k).
 
+#### Effective Date of 2021 Amendment
+Pub. L. 116–283, div. H, title XCVII, § 9721(b)(2), Jan. 1, 2021, 134 Stat. 4840, provided that: “The amendments under paragraph (1) [amending section 1727(a) of Pub. L. 115–232, set out as an Effective Date of 2018 Amendment note below] shall take effect on the date of enactment of the Foreign Investment Risk Review Modernization Act of 2018 [Aug. 13, 2018].”
+
 #### Effective Date of 2018 Amendment
-Pub. L. 115–232, div. A, title XVII, § 1727(a), (b), Aug. 13, 2018, 132 Stat. 2206, 2207, provided that: “(a) Immediate Applicability of Certain Provisions.—The following shall take effect on the date of the enactment of this Act [Aug. 13, 2018] and, as applicable, apply with respect to any covered transaction the review or investigation of which is initiated under section 721 of the Defense Production Act of 1950 [[50 U.S.C. 4565](./chapter-055-defense-production.md#section-4565)] on or after such date of enactment:“(1) Sections 1705, 1707, 1708, 1709, 1710, 1713, 1714, 1715, 1716, 1717, 1718, 1720, 1721, 1722, 1723, 1724, and 1725 [amending this section and enacting provisions set out as a note under this section] and any amendments made by those sections. “(2) Section 1712 [amending this section] and the amendments made by that section (except for clause (iii) of section 721(b)(4)(A) of the Defense Production Act of 1950 [[50 U.S.C. 4565(b)(4)(A)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4565/b/4/A&num=0&edition=prelim)], as added by section 1712). “(3) Paragraphs (1), (2), (3), (4)(A)(i), (4)(B)(i), (4)(B)(iv)(I), (4)(B)(v), (4)(C)(v) [sic], (5), (6), (7), (8), (9), (10), (11), (12), and (13) of subsection (a) of section 721 of the Defense Production Act of 1950 [[50 U.S.C. 4565](./chapter-055-defense-production.md#section-4565)], as amended by section 1703. “(4) Section 721(m)(4) of the Defense Production Act of 1950 [[50 U.S.C. 4565(m)(4)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4565/m/4&num=0&edition=prelim)], as amended by section 1719 (except for clauses (ii), (iii), (iv), and (v) of subparagraph (B) of that section). “(b) Delayed Applicability of Certain Provisions.—“(1) In general.—Any provision of or amendment made by this subtitle [subtitle A (§§ 1701–1728) of title XVII of div. A of Pub. L. 115–232, amending this section and enacting provisions set out as notes under this section and [section 4501 of this title](./chapter-055-defense-production.md#section-4501)] not specified in subsection (a) shall—“(A) take effect on the earlier of—“(i) the date that is 18 months after the date of the enactment of this Act [Aug. 13, 2018]; or “(ii) the date that is 30 days after publication in the Federal Register of a determination by the chairperson of the Committee on Foreign Investment in the United States that the regulations, organizational structure, personnel, and other resources necessary to administer the new provisions are in place; and “(B) apply with respect to any covered transaction the review or investigation of which is initiated under section 721 of the Defense Production Act of 1950 [[50 U.S.C. 4565](./chapter-055-defense-production.md#section-4565)] on or after the date described in subparagraph (A). “(2) Nondelegation of determination.—The determination of the chairperson of the Committee on Foreign Investment in the United States under paragraph (1)(A) may not be delegated.”
+Pub. L. 115–232, div. A, title XVII, § 1727(a), (b), Aug. 13, 2018, 132 Stat. 2206, 2207, as amended by Pub. L. 116–283, div. H, title XCVII, § 9721(b)(1), Jan. 1, 2021, 134 Stat. 4840, provided that: “(a) Immediate Applicability of Certain Provisions.—The following shall take effect on the date of the enactment of this Act [Aug. 13, 2018] and, as applicable, apply with respect to any covered transaction the review or investigation of which is initiated under section 721 of the Defense Production Act of 1950 [[50 U.S.C. 4565](./chapter-055-defense-production.md#section-4565)] on or after such date of enactment:“(1) Sections 1705, 1707, 1708, 1709, 1710, 1713, 1714, 1715, 1716, 1717, 1718, 1720, 1721, 1722, 1723, 1724, and 1725 [amending this section and enacting provisions set out as a note under this section] and any amendments made by those sections. “(2) Section 1712 [amending this section] and the amendments made by that section (except for clause (iii) of section 721(b)(4)(A) of the Defense Production Act of 1950 [[50 U.S.C. 4565(b)(4)(A)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4565/b/4/A&num=0&edition=prelim)], as added by section 1712). “(3) Paragraphs (1), (2), (3), (4)(A)(i), (4)(B)(i), (4)(B)(iv)(I), (4)(B)(v), (4)(F), (5), (6), (7), (8), (9), (10), (11), (12), and (13) of subsection (a) of section 721 of the Defense Production Act of 1950 [[50 U.S.C. 4565](./chapter-055-defense-production.md#section-4565)], as amended by section 1703. “(4) Section 721(m)(4) of the Defense Production Act of 1950 [[50 U.S.C. 4565(m)(4)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4565/m/4&num=0&edition=prelim)], as amended by section 1719 (except for clauses (ii), (iii), (iv), and (v) of subparagraph (C) of that section). “(b) Delayed Applicability of Certain Provisions.—“(1) In general.—Any provision of or amendment made by this subtitle [subtitle A (§§ 1701–1728) of title XVII of div. A of Pub. L. 115–232, amending this section and enacting provisions set out as notes under this section and [section 4501 of this title](./chapter-055-defense-production.md#section-4501)] not specified in subsection (a) shall—“(A) take effect on the earlier of—“(i) the date that is 18 months after the date of the enactment of this Act [Aug. 13, 2018]; or “(ii) the date that is 30 days after publication in the Federal Register of a determination by the chairperson of the Committee on Foreign Investment in the United States that the regulations, organizational structure, personnel, and other resources necessary to administer the new provisions are in place; and “(B) apply with respect to any covered transaction the review or investigation of which is initiated under section 721 of the Defense Production Act of 1950 [[50 U.S.C. 4565](./chapter-055-defense-production.md#section-4565)] on or after the date described in subparagraph (A). “(2) Nondelegation of determination.—The determination of the chairperson of the Committee on Foreign Investment in the United States under paragraph (1)(A) may not be delegated.”
 
 #### Effective Date of 2007 Amendment
 Amendment by Pub. L. 110–49 applicable after the end of the 90-day period beginning on July 26, 2007, see section 12 of Pub. L. 110–49, set out as a note under [section 5315 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5315&num=0&edition=prelim), Government Organization and Employees.
@@ -3568,9 +3681,6 @@ Amendment by Pub. L. 102–558 deemed to have become effective Mar. 1, 1992, see
 
 #### Severability
 Pub. L. 115–232, div. A, title XVII, § 1728, Aug. 13, 2018, 132 Stat. 2207, provided that: “If any provision of this subtitle [subtitle A (§§ 1701–1728) of title XVII of div. A of Pub. L. 115–232, amending this section and enacting provisions set out as notes under this section and [section 4501 of this title](./chapter-055-defense-production.md#section-4501)] or an amendment made by this subtitle, or the application of such a provision or amendment to any person or circumstance, is held to be invalid, the application of that provision or amendment to other persons or circumstances and the remainder of the provisions of this subtitle and the amendments made by this subtitle, shall not be affected thereby.”
-
-#### Delegation of Functions
-For delegation of functions of President under subsecs. (b)(1)(A), (D), (h), and (m)(3)(A) of this section, see section 4(a), (b) of Ex. Ord. No. 11858, May 7, 1975, 40 F.R. 20263, set out below.
 
 #### Findings regarding Foreign Investment Risk Review
 Pub. L. 115–232, div. A, title XVII, § 1702(a), Aug. 13, 2018, 132 Stat. 2174, provided that: “Congress makes the following findings: “(1) According to a February 2016 report by the International Trade Administration of the Department of Commerce, 12,000,000 United States workers, equivalent to 8.5 percent of the labor force, have jobs resulting from foreign investment, including 3,500,000 jobs in the manufacturing sector alone. “(2) In 2016, new foreign direct investment in United States manufacturing totaled $129,400,000,000. “(3) The Bureau of Economic Analysis of the Department of Commerce concluded that, in 2015—“(A) foreign-owned affiliates in the United States—“(i) contributed $894,500,000,000 in value added to the United States economy; “(ii) exported goods valued at $352,800,000,000, accounting for nearly a quarter of total exports of goods from the United States; and “(iii) undertook $56,700,000,000 in research and development; and “(B) the 7 countries investing the most in the United States, all of which are United States allies (the United Kingdom, Japan, Germany, France, Canada, Switzerland, and the Netherlands) accounted for 72.1 percent of the value added by foreign-owned affiliates in the United States and more than 80 percent of research and development expenditures by such entities. “(4) According to the Government Accountability Office, from 2011 to 2016, the number of transactions reviewed by the Committee on Foreign Investment in the United States (commonly referred to as ‘CFIUS’) grew by 55 percent, while the staff of the Committees assigned to the reviews increased by 11 percent. “(5) According to a February 2018 report of the Government Accountability Office on the Committee on Foreign Investment in the United States (GAO–18–249): ‘Officials from Treasury and other member agencies are aware of pressures on their CFIUS staff given the current workload and have expressed concerns about possible workload increases.’. The Government Accountability Office concluded: ‘Without attaining an understanding of the staffing levels needed to address the current and future CFIUS workload, particularly if legislative changes to CFIUS’s authorities further expand its workload, CFIUS may be limited in its ability to fulfill its objectives and address threats to the national security of the United States.’. “(6) On March 30, 1954, Dwight David Eisenhower—five-star general, Supreme Allied Commander, and 34th President of the United States—in his ‘Special Message to the Congress on Foreign Economic Policy’, counseled: ‘Great mutual advantages to buyer and seller, to producer and consumer, to investor and to the community where investment is made, accrue from high levels of trade and investment.’. President Eisenhower continued: ‘The internal strength of the American economy has evolved from such a system of mutual advantage. In the press of other problems and in the haste to meet emergencies, this nation—and many other nations of the free world—have all too often lost sight of this central fact.’. President Eisenhower concluded: ‘If we fail in our trade policy, we may fail in all. Our domestic employment, our standard of living, our security, and the solidarity of the free world—all are involved.’.”
@@ -3589,6 +3699,9 @@ Pub. L. 115–232, div. A, title XVII, § 1727(c), Aug. 13, 2018, 132 Stat. 2207
 
 #### Study and Report on Foreign Direct Investments in United States
 Pub. L. 110–49, § 7(c), July 26, 2007, 121 Stat. 258, provided that: “(1) Study required.—Before the end of the 120-day period beginning on the date of enactment of this Act [July 26, 2007] and annually thereafter, the Secretary of the Treasury, in consultation with the Secretary of State and the Secretary of Commerce, shall conduct a study on foreign direct investments in the United States, especially investments in critical infrastructure and industries affecting national security, by—“(A) foreign governments, entities controlled by or acting on behalf of a foreign government, or persons of foreign countries which comply with any boycott of Israel; or “(B) foreign governments, entities controlled by or acting on behalf of a foreign government, or persons of foreign countries which do not ban organizations designated by the Secretary of State as foreign terrorist organizations. “(2) Report.—Before the end of the 30-day period beginning upon the date of completion of each study under paragraph (1), and thereafter in each annual report under section 721(m) of the Defense Production Act of 1950 [[50 U.S.C. 4565(m)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4565/m&num=0&edition=prelim)] (as added by this section), the Secretary of the Treasury shall submit a report to Congress, for transmittal to all appropriate committees of the Senate and the House of Representatives, containing the findings and conclusions of the Secretary with respect to the study described in paragraph (1), together with an analysis of the effects of such investment on the national security of the United States and on any efforts to address those effects.”
+
+#### Delegation of Functions
+For delegation of functions of President under subsecs. (b)(1)(A), (D), (h), and (m)(3)(A) of this section, see section 4(a), (b) of Ex. Ord. No. 11858, May 7, 1975, 40 F.R. 20263, set out below.
 
 #### Ex. Ord. No. 11858. Foreign Investment in the United States
 Ex. Ord. No. 11858, May 7, 1975, 40 F.R. 20263, as amended by Ex. Ord. No. 12188, Jan. 2, 1980, 45 F.R. 989; Ex. Ord. No. 12661, Dec. 27, 1988, 54 F.R. 779; Ex. Ord. No. 12860, Sept. 3, 1993, 58 F.R. 47201; Ex. Ord. No. 13286, § 57, Feb. 28, 2003, 68 F.R. 10629; Ex. Ord. No. 13456, § 1, Jan. 23, 2008, 73 F.R. 4677, provided:
@@ -3627,7 +3740,7 @@ Sec. 3. Establishment. (a) There is hereby established the Committee on Foreign 
 
 Sec. 4. Duties of the Secretary of the Treasury.
 
-(a) The functions of the President under subsections (b)(1)(A) (relating to review and consideration after notification), (b)(1)(D) (relating to unilateral initiation of review and consideration), and (m)(3)(A) (relating to inclusion in annual report and designation) of the Act [[50 U.S.C. 4565(b)(1)(A)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4565/b/1/A&num=0&edition=prelim), (D), (m)(3)(A)] are assigned to the Secretary of the Treasury.
+(a) The functions of the President under subsections (b)(1)(A) (relating to review and consideration after notification), (b)(1)(D) (relating to unilateral initiation of review and consideration), and (m)(3)(A) (relating to inclusion in annual report and designation) of the Act [now [50 U.S.C. 4565(b)(1)(A)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4565/b/1/A&num=0&edition=prelim), (D), (m)(3)(A), (B)] are assigned to the Secretary of the Treasury.
 
 (b) The Secretary of the Treasury shall perform the function of issuance of regulations under section 721(h) of the Act [[50 U.S.C. 4565(h)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4565/h&num=0&edition=prelim)]. The Secretary shall consult the Committee with respect to such regulations prior to any notice and comment and prior to their issuance.
 

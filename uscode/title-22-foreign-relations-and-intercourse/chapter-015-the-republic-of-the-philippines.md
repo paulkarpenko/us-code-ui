@@ -442,7 +442,7 @@ The Trading With the Enemy Act of October 6, 1917, as amended, referred to in te
 1950—Act Dec. 21, 1950, required that 90 days after Dec. 21, 1950, all suits against the Philippine Alien Property Administration be brought in United States courts instead of in Philippine courts.
 
 #### Termination of Philippine Alien Property Administration; Transfer of Functions
-Section 101 of act Sept. 6, 1950, ch. 896, Ch. VIII, title I, 64 Stat. 699, provided in part that the Philippine Alien Property Administration cease to exist after June 30, 1951, and all duties performed by such Administration as of that date be transferred to the Office of Alien Property Custodian, including all records, files, and other property.
+Act Sept. 6, 1950, ch. 896, Ch. VIII, title I, 64 Stat. 699, provided in part that the Philippine Alien Property Administration cease to exist after June 30, 1951, and all duties performed by such Administration as of that date be transferred to the Office of Alien Property Custodian, including all records, files, and other property.
 
 #### Executive Order No. 9789
 Ex. Ord. No. 9789, Oct. 14, 1946, 11 F.R. 11981, related to the establishment of the Philippine Alien Property Administration, and was superseded by Ex. Ord. No. 9818, formerly set out below.
@@ -630,11 +630,13 @@ Act Aug. 7, 1939, ch. 502, § 7, 53 Stat. 1233, provided that act Aug. 7, 1939, 
 Act June 29, 1944, ch. 322, § 3, 58 Stat. 626, provided in part that date of independence could be advanced prior to July 4, 1946, but it was not done.
 
 #### Proc. No. 2695. Philippine Independence
-Proc. No. 2695, July 4, 1946, 11 F.R. 7517, 60 Stat. 1352, provided:
+Proc. No. 2695, July 4, 1946, 11 F.R. 7517, 60 Stat. 1352, provided in part:
 
 The United States of America hereby withdraws and surrenders all rights of possession, supervision, jurisdiction, control, or sovereignty now existing and exercised by the United States of America in and over the territory and people of the Philippines; and,
 
 On behalf of the United States of America, I do hereby recognize the independence of the Philippines as a separate and self-governing nation and acknowledge the authority and control over the same of the government instituted by the people thereof, under the constitution now in force.
+
+Harry S. Truman
 
 
 <a id="section-1395"></a>

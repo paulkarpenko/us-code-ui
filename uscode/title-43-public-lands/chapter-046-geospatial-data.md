@@ -216,7 +216,7 @@ Pub. L. 115–254, div. B, title VII, § 751(b), Oct. 5, 2018, 132 Stat. 3413, p
 
 (6) **Incumbents**
 
-  (A) *In general* — An individual serving on the day before October 5, 2018 as a member of the National Geospatial Advisory Committee established by the Secretary of the Interior may serve as a member of the Advisory Committee until the end of the term of the individual under the appointment.
+  (A) *In general* — An individual serving on the day before October 5, 2018, as a member of the National Geospatial Advisory Committee established by the Secretary of the Interior may serve as a member of the Advisory Committee until the end of the term of the individual under the appointment.
 
   (B) *Limit on terms* — Any period of service as a member of the National Geospatial Advisory Committee established by the Secretary of the Interior shall be considered a period of service as a member of the Advisory Committee for purposes of paragraph (4).
 
@@ -274,7 +274,7 @@ Pub. L. 115–254, div. B, title VII, § 751(b), Oct. 5, 2018, 132 Stat. 3413, p
 
 (2) **Travel expenses** — The members of the Advisory Committee shall be allowed travel expenses, including per diem in lieu of subsistence, at rates authorized for employees of agencies under subchapter I of chapter 57 of title 5 while away from their homes or regular places of business in the performance of services for the Advisory Committee.
 
-(3) **Detail of government employees** — Any Federal Government employee may be detailed to the Committee to support the Advisory Committee without reimbursement, and such detail shall be without interruption or loss of civil service status or privilege.
+(3) **Detail of Government employees** — Any Federal Government employee may be detailed to the Committee to support the Advisory Committee without reimbursement, and such detail shall be without interruption or loss of civil service status or privilege.
 
 (4) **Staff support** — The Office of the Secretariat established by the Committee under [section 2802(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section2802/d&num=0&edition=prelim) shall provide administrative support to the Advisory Committee.
 

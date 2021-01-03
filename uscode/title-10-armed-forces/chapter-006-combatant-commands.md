@@ -60,18 +60,12 @@ You are authorized and directed to publish this memorandum in the Federal Regist
 
 Barack Obama.
 
-#### Unified Command Plan 2011
-Memorandum of President of the United States, Apr. 6, 2011, 76 F.R. 19893, provided:
+#### Revisions to Unified Command Plan
+The following presidential memoranda approved and directed the implementation of a revised Unified Command Plan and directed notification to Congress consistent with subsec. (b)(2) of this section:
 
-Memorandum for the Secretary of Defense
+Memorandum of President of the United States, May 24, 2019, 84 F.R. 24977.
 
-Pursuant to my authority as Commander in Chief, I hereby approve and direct the implementation of the revised Unified Command Plan.
-
-Consistent with title 10, United States Code, section 161(b)(2) and title 3, United States Code, section 301, you are directed to notify the Congress on my behalf.
-
-You are authorized and directed to publish this memorandum in the Federal Register.
-
-Barack Obama.
+Memorandum of President of the United States, Apr. 6, 2011, 76 F.R. 19893.
 
 #### Establishment of United States Space Command as a Unified Combatant Command
 Memorandum of President of the United States, Dec. 18, 2018, 83 F.R. 65483, provided:
@@ -664,6 +658,9 @@ Subsecs. (f) to (l). Pub. L. 114–328, § 922(c)(2), added subsec. (f) and rede
 #### Effective Date
 Pub. L. 99–500, § 101(c) [title IX, § 9115(i)], Oct. 18, 1986, 100 Stat. 1783–82, 1783–125, Pub. L. 99–591, § 101(c) [title IX, § 9115(i)], Oct. 30, 1986, 100 Stat. 3341–82, 3341–125, and Pub. L. 99–661, div. A, title XIII, § 1311(i), Nov. 14, 1986, 100 Stat. 3986, provided that: “[Section 167 of title 10](./chapter-006-combatant-commands.md#section-167), United States Code (as added by subsection (b)), shall be implemented not later than 180 days after the date of the enactment of this Act [Oct. 18, 1986].”
 
+#### Processes and Procedures for Notifications Regarding Special Operations Forces
+Pub. L. 116–92, div. A, title XVII, § 1745, Dec. 20, 2019, 133 Stat. 1842, provided that: “(a) In General.—Not later than 180 days after the date of the enactment of this Act [Dec. 20, 2019], the Secretary of Defense shall establish and submit to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] processes and procedures for providing notifications to the committees regarding members of special operations forces, as identified in [section 167(j) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section167/j&num=0&edition=prelim), United States Code. “(b) Processes and Procedures.—The processes and procedures established under subsection (a) shall—“(1) clarify the roles and responsibilities of the Secretaries of the military departments, the Assistant Secretary of Defense for Special Operations and Low Intensity Conflict, and the Commander of United States Special Operations Command; “(2) provide guidance relating to the types of matters that would warrant congressional notification, including awards, reprimands, incidents, and any other matters the Secretary determines necessary; “(3) be consistent with the national security of the United States; “(4) be designed to protect sensitive information during an ongoing investigation; “(5) account for the privacy of members of the Armed Forces; and “(6) take in to account existing processes and procedures for notifications to the congressional defense committees regarding members of the conventional Armed Forces.”
+
 #### Memoranda of Agreement on Identification and Dedication of Enabling Capabilities of General Purpose Forces to Fulfill Certain Requirements of Special Operations Forces
 Pub. L. 112–81, div. A, title IX, § 904, Dec. 31, 2011, 125 Stat. 1533, provided that: “(a) Requirement.—By not later than 180 days after the date of the enactment of this Act [Dec. 31, 2011] and annually thereafter, each Secretary of a military department shall enter into a memorandum of agreement with the Commander of the United States Special Operations Command that identifies or establishes processes and associated milestones by which numbers and types of enabling capabilities of the general purpose forces of the Armed Forces under the jurisdiction of such Secretary can be identified and dedicated to fulfill the training and operational requirements of special operations forces under the United States Special Operations Command. “(b) Format.—Such agreements may be accomplished in an annex to existing memoranda of agreement or through separate memoranda of agreement.”
 
@@ -701,9 +698,17 @@ Section, added Pub. L. 108–136, div. A, title VIII, § 848(a)(1), Nov. 24, 200
 
 <a id="section-167b"></a>
 ## § 167b. Unified combatant command for cyber operations
-**(a) Establishment.—** With the advice and assistance of the Chairman of the Joint Chiefs of Staff, the President, through the Secretary of Defense, shall establish under [section 161 of this title](./chapter-006-combatant-commands.md#section-161) a unified combatant command for cyber operations forces (hereinafter in this section referred to as the “cyber command”). The principal function of the command is to prepare cyber operations forces to carry out assigned missions.
+**(a) Establishment.—**
 
-**(b) Assignment of Forces.—** Unless otherwise directed by the Secretary of Defense, all active and reserve cyber operations forces of the armed forces stationed in the United States shall be assigned to the cyber command.
+(1) With the advice and assistance of the Chairman of the Joint Chiefs of Staff, the President, through the Secretary of Defense, shall establish under [section 161 of this title](./chapter-006-combatant-commands.md#section-161) a unified combatant command for cyber operations forces (hereinafter in this section referred to as the “cyber command”).
+
+(2) The principal mission of the Cyber Command is to direct, synchronize, and coordinate military cyberspace planning and operations to defend and advance national interests in collaboration with domestic and international partners.
+
+**(b) Assignment of Forces.—**
+
+(1) Active and reserve cyber forces of the armed forces shall be assigned to the Cyber Command through the Global Force Management Process, as approved by the Secretary of Defense.
+
+(2) Cyber forces not assigned to Cyber Command remain assigned to combatant commands or service-retained.
 
 **(c) Grade of Commander.—** The commander of the cyber command shall hold the grade of general or, in the case of an officer of the Navy, admiral while serving in that position, without vacating that officer’s permanent grade. The commander of such command shall be appointed to that grade by the President, by and with the advice and consent of the Senate, for service in that position.
 
@@ -759,6 +764,10 @@ Section, added Pub. L. 108–136, div. A, title VIII, § 848(a)(1), Nov. 24, 200
 The National Security Act of 1947, referred to in subsec. (e), is act July 26, 1947, ch. 343, 61 Stat. 495. Title V of the Act is classified generally to subchapter III (§ 3091 et seq.) of chapter 44 of Title 50. For complete classification of this Act to the Code, see Tables.
 
 #### Amendments
+2021—Subsec. (a). Pub. L. 116–283, § 1701(1)(A), designated existing provisions as par. (1), struck out at end “The principal function of the command is to prepare cyber operations forces to carry out assigned missions.”, and added par. (2).
+
+Subsec. (b). Pub. L. 116–283, § 1701(1)(B), amended subsec. (b) generally. Prior to amendment, text read as follows: “Unless otherwise directed by the Secretary of Defense, all active and reserve cyber operations forces of the armed forces stationed in the United States shall be assigned to the cyber command.”
+
 2017—Subsec. (d). Pub. L. 115–91, § 1635, redesignated subsec. (e) as (d) and struck out former subsec. (d) which related to command of activity or mission.
 
 Subsec. (e). Pub. L. 115–91, § 1635(2), redesignated subsec. (f) as (e). Former subsec. (e) redesignated (d).
@@ -808,60 +817,8 @@ Pub. L. 104–201, div. A, title X, § 1082, Sept. 23, 1996, 110 Stat. 2672, whi
 
 
 <a id="section-169"></a>
-## § 169. Subordinate unified command of the United States Strategic Command
-**(a) Establishment.—** With the advice and assistance of the Chairman of the Joint Chiefs of Staff, the President, through the Secretary of Defense, shall establish under the United States Strategic Command a subordinate unified command to be known as the United States Space Command (in this section referred to as “space command”) for carrying out joint space warfighting operations.
-
-**(b) Assignment of Forces.—** Unless otherwise directed by the Secretary of Defense, all active and reserve space warfighting operational forces of the armed forces shall be assigned to the space command.
-
-**(c) Commander.—**
-
-(1) The commander of the space command shall hold the grade of general or, in the case of an officer of the Navy, admiral while serving in that position, without vacating the permanent grade of the officer. The commander shall be appointed to that grade by the President, by and with the advice and consent of the Senate, for service in that position. The position shall be designated, pursuant to subsection (b) of [section 526 of this title](./chapter-032-officer-strength-and-distribution-in-grade.md#section-526), as one of the general officer and flag officer positions to be excluded from the limitations in subsection (a) of such section.
-
-(2) During the three-year period following the date on which the space command is established, the commander of the Air Force Space Command may also serve as the commander of the space command so established. After such period, one individual may not concurrently serve as both such commanders.
-
-**(d) Authority of Commander.—**
-
-(1) Subject to the authority, direction, and control of the commander of the United States Strategic Command, the commander of the space command shall be responsible for, and shall have the authority to conduct, all affairs of such command relating to joint space warfighting operations.
-
-(2)
-
-  (A) Subject to the authority, direction, and control of the Deputy Secretary of Defense, the commander of the space command shall be responsible for, and shall have the authority to conduct, the following functions relating to joint space warfighting operations (whether or not relating to the space command):
-
-    (i) Developing strategy, doctrine, and tactics.
-
-    (ii) Preparing and submitting to the Secretary of Defense program recommendations and budget proposals for space operations forces and for other forces assigned to the space command.
-
-    (iii) Exercising authority, direction, and control over the expenditure of funds for forces assigned directly to the space command.
-
-    (iv) Training and certification of assigned joint forces.
-
-    (v) Conducting specialized courses of instruction for commissioned and noncommissioned officers.
-
-    (vi) Validating requirements.
-
-    (vii) Establishing priorities for requirements.
-
-    (viii) Ensuring the interoperability of equipment and forces.
-
-    (ix) Formulating and submitting requirements for intelligence support.
-
-    (x) Monitoring the promotion of space operation forces and coordinating with the military departments regarding the assignment, retention, training, professional military education, and special and incentive pays of space operation forces.
-
-  (B) The authority, direction, and control exercised by the Deputy Secretary of Defense for purposes of this paragraph is authority, direction, and control with respect to the administration and support of the space command, including readiness and organization of space operations forces, space operations-peculiar equipment and resources, and civilian personnel.
-
-  (C) Nothing in this paragraph shall be construed as providing the Deputy Secretary of Defense authority, direction, and control of operational matters that are subject to the operational chain of command of the combatant commands or the exercise of authority, direction, and control of personnel, resources, equipment, and other matters that are not space-operations peculiar and that are in the purview of the armed forces.
-
-(3) The commander of the space command shall be responsible for—
-
-  (A) ensuring the combat readiness of forces assigned to the space command; and
-
-  (B) monitoring the preparedness to carry out assigned missions of space forces assigned to unified combatant commands other than the United States Strategic Command.
-
-(4) The staff of the commander shall include an inspector general who shall conduct internal audits and inspections of purchasing and contracting actions through the space command and such other inspector general functions as may be assigned.
-
-**(e) Intelligence and Special Activities.—** This section does not constitute authority to conduct any activity which, if carried out as an intelligence activity by the Department of Defense, would require a notice to the Select Committee on Intelligence of the Senate and the Permanent Select Committee on Intelligence of the House of Representatives under title V of the National Security Act of 1947 ([50 U.S.C. 3091](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3091&num=0&edition=prelim) et seq.).
+## § 169. Repealed. Pub. L. 116–92, div. A, title XVI, § 1601(a), Dec. 20, 2019, 133 Stat. 1722]
 
 ### Statutory Notes
 
-#### References in Text
-The National Security Act of 1947, referred to in subsec. (e), is act July 26, 1947, ch. 343, 61 Stat. 495. Title V of the Act is classified generally to subchapter III (§ 3091 et seq.) of chapter 44 of Title 50, War and National Defense. For complete classification of this Act to the Code, see Tables.
+Section, added Pub. L. 115–232, div. A, title XVI, § 1601(a)(1), Aug. 13, 2018, 132 Stat. 2101, related to United States Space Command for carrying out joint space warfighting operations. See chapter 908 of this title.

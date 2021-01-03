@@ -102,7 +102,11 @@ Section effective Oct. 1, 1996, see section 1691(b)(1) of Pub. L. 103–337, set
 
 (3) the Secretary of the Air Force may, with the officer’s consent, retain in an active status any reserve officer who is designated as a medical officer, dental officer, Air Force nurse, Medical Service Corps officer, biomedical sciences officer, or chaplain.
 
-**(b) Separation at Specified Age.—** An officer may not be retained in active status under this section later than the date on which the officer becomes 68 years of age.
+**(b) Separation at Specified Age.—**
+
+(1) Subject to paragraph (2), an officer may not be retained in active status under this section later than the date on which the officer becomes 68 years of age.
+
+(2) The Secretary concerned may, with the consent of the officer, retain in an active status an officer in a medical specialty described in subsection (a) beyond the date described in paragraph (1) of this subsection if the Secretary concerned determines that such retention is necessary to the military department concerned. Each such retention shall be made on a case-by-case basis and for such period as the Secretary concerned determines appropriate.
 
 ### Statutory Notes
 
@@ -110,6 +114,8 @@ Section effective Oct. 1, 1996, see section 1691(b)(1) of Pub. L. 103–337, set
 Provisions similar to those in this section were contained in sections 3855(a), (c)(1), 6392(a), (c)(1), and 8855(a), (c)(1) of this title, prior to repeal by Pub. L. 103–337, § 1629(a)(3), (b)(3), (c)(3).
 
 #### Amendments
+2019—Subsec. (b). Pub. L. 116–92 designated existing provisions as par. (1), substituted “Subject to paragraph (2), an” for “An”, and added par. (2).
+
 2008—Subsec. (b). Pub. L. 110–417 substituted “68 years” for “67 years”.
 
 2000—Subsec. (a)(3). Pub. L. 106–398 substituted “Air Force nurse, Medical Service Corps officer, biomedical sciences officer, or chaplain.” for “veterinary officer, Air Force nurse, or chaplain or who is designated as a biomedical sciences officer and is qualified for service as a veterinarian, optometrist, or podiatrist.”

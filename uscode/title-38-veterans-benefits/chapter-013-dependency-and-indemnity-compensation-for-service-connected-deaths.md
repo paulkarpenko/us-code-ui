@@ -14,6 +14,8 @@ As used in this chapter—
 ### Statutory Notes
 
 #### Amendments
+2021—Pub. L. 116–283 substituted “air, or space service” for “or air service”.
+
 1991—Pub. L. 102–83 renumbered [section 401 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section401&num=0&edition=prelim) as this section.
 
 1969—Pub. L. 91–96 struck out par. (1) which defined “basic pay”.
@@ -29,9 +31,9 @@ For limitation on increases in dependency and indemnity compensation payable und
 
 <a id="section-1302"></a>
 ## § 1302. Determination of pay grade
-**(a)** With respect to a veteran who died in the active military, naval, or air service, such veteran’s pay grade shall be determined as of the date of such veteran’s death or as of the date of a promotion after death while in a missing status.
+**(a)** With respect to a veteran who died in the active military, naval, air, or space service, such veteran’s pay grade shall be determined as of the date of such veteran’s death or as of the date of a promotion after death while in a missing status.
 
-**(b)** With respect to a veteran who did not die in the active military, naval, or air service, such veteran’s pay grade shall be determined as of—
+**(b)** With respect to a veteran who did not die in the active military, naval, air, or space service, such veteran’s pay grade shall be determined as of—
 
 (1) the time of such veteran’s last discharge or release from active duty under conditions other than dishonorable; or
 
@@ -46,6 +48,8 @@ For limitation on increases in dependency and indemnity compensation payable und
 ### Statutory Notes
 
 #### Amendments
+2021—Subsecs. (a), (b). Pub. L. 116–283 substituted “air, or space service” for “or air service”.
+
 1991—Pub. L. 102–83, § 5(a), renumbered [section 402 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section402&num=0&edition=prelim) as this section.
 
 Subsec. (d). Pub. L. 102–54 substituted “department” for “Department”.
@@ -143,7 +147,7 @@ Amendment by Pub. L. 90–77 effective first day of first calendar month which b
 ## § 1310. Deaths entitling survivors to dependency and indemnity compensation
 **(a)** When any veteran dies after December 31, 1956, from a service-connected or compensable disability, the Secretary shall pay dependency and indemnity compensation to such veteran’s surviving spouse, children, and parents. The standards and criteria for determining whether or not a disability is service-connected shall be those applicable under chapter 11 of this title.
 
-**(b)** Dependency and indemnity compensation shall not be paid to the surviving spouse, children, or parents of any veteran dying after December 31, 1956, unless such veteran (1) was discharged or released under conditions other than dishonorable from the period of active military, naval, or air service in which the disability causing such veteran’s death was incurred or aggravated, or (2) died while in the active military, naval, or air service.
+**(b)** Dependency and indemnity compensation shall not be paid to the surviving spouse, children, or parents of any veteran dying after December 31, 1956, unless such veteran (1) was discharged or released under conditions other than dishonorable from the period of active military, naval, air, or space service in which the disability causing such veteran’s death was incurred or aggravated, or (2) died while in the active military, naval, air, or space service.
 
 **(c)** A person who receives a payment under the provisions of the Radiation Exposure Compensation Act of 1990 ([42 U.S.C. 2210](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2210&num=0&edition=prelim) note) shall not be deprived, by reason of the receipt of that payment, of receipt of dependency and indemnity compensation to which that person is otherwise entitled, but there shall be deducted from payment of such dependency and indemnity compensation the amount of the payment under that Act.
 
@@ -153,6 +157,8 @@ Amendment by Pub. L. 90–77 effective first day of first calendar month which b
 The Radiation Exposure Compensation Act, referred to in subsec. (c), is Pub. L. 101–426, Oct. 15, 1990, 104 Stat. 920, as amended, which is set out as a note under [section 2210 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2210&num=0&edition=prelim), The Public Health and Welfare.
 
 #### Amendments
+2021—Subsec. (b). Pub. L. 116–283 substituted ‘air, or space service” for “or air service” in two places.
+
 2004—Subsec. (c). Pub. L. 108–454 added subsec. (c).
 
 1991—Pub. L. 102–83, § 5(a), renumbered [section 410 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section410&num=0&edition=prelim) as this section.
@@ -188,7 +194,7 @@ Amendment by Pub. L. 95–479 effective Oct. 1, 1978, see section 401(a) of Pub.
 Amendment by Pub. L. 94–433 effective Oct. 1, 1976, see section 406 of Pub. L. 94–433, set out as a note under [section 1101 of this title](./chapter-011-compensation-for-service-connected-disability-or-death.md#section-1101).
 
 #### GAO Report Relating to Benefits for Survivors of Veterans and Members of Armed Forces
-Pub. L. 102–568, title I, § 104, Oct. 29, 1992, 106 Stat. 4322, provided that: “(a) In General.—The Comptroller General of the United States shall submit to the Committees on Veterans’ Affairs of the Senate and House of Representatives a report with respect to the most appropriate combination of financial, health-care, educational, and other survivor benefits to meet the needs of survivors of veterans. “(b) Contents of Report.—The report shall include the following:“(1) A review and compilation of data on current and proposed survivor benefits programs that will permit an assessment of the adequacy of such benefits programs, including information on—“(A) in the case of each current and proposed alternative survivor benefits program—“(i) each benefit provided; “(ii) the survivors entitled to the benefit; “(iii) the extent to which survivors are entitled to similar benefits under the program; and “(iv) the costs of providing such benefits under the program; “(B) the extent to which current and anticipated benefits under current survivor benefits programs meet the current and anticipated financial, health-care, educational, and other needs of survivors; and “(C) the differences, if any, in the survivor benefits provided under current and proposed survivor benefits programs to survivors of various categories of veterans and members of the Armed Forces (including survivors of veterans having service-connected disabilities, veterans without such disabilities, members of the Armed Forces who die during service in the Armed Forces, members of the Armed Forces retired under any provision of law other than chapter 61 of title 10, United States Code, and members of the Armed Forces retired under chapter 61 of title 10, United States Code (relating to retirement or separation for physical disability)). “(2) A review and compilation of existing studies on the adequacy of survivor benefits provided under current and proposed survivor benefits programs to meet the financial, health-care, educational, and other needs of survivors. “(3) A comprehensive assessment and evaluation of the adequacy of current and proposed survivor benefits programs, including data and methods for an assessment and evaluation of—“(A) the feasibility and desirability of limiting the period of entitlement of survivors to survivor benefits; “(B) the feasibility and desirability of modifying the provision of monetary benefits to survivors by—“(i) revising the term of payment of any such benefits; “(ii) replacing the periodic payment of such benefits with a lump sum payment; “(iii) providing such benefits through insurance or other premium-based payment mechanisms; or “(iv) carrying out any other revision or modification proposed before the date of the enactment of this Act [Oct. 29, 1992] by the Secretary of Veterans Affairs, the Secretary of Defense, the Secretary of Health and Human Services, or organizations recognized by the Secretary of Veterans Affairs under [section 5902(a)(1) of title 38](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section5902/a/1&num=0&edition=prelim), United States Code; “(C) the feasibility and desirability of modifying the provision of health-care benefits to survivors; “(D) the feasibility and desirability of modifying the provision of benefits to children survivors; and “(E) the feasibility and desirability of consolidating, expanding, or otherwise modifying any program relating to the provision of survivor benefits. “(4) The recommendations of the Comptroller General (including a proposal for legislation) on the most appropriate combination of survivor benefits to meet the current and anticipated financial, health-care, educational, and other needs of survivors. “(c) Submission of Report.—The Comptroller General shall submit the report not later than April 1, 1994. “(d) Definitions.—In this section:“(1) The term ‘survivor’, in the case of a veteran or member of the Armed Forces who dies, means the surviving spouse or surviving dependent child of the veteran or member. “(2) The term ‘survivor benefit’ means any monetary, health-care, educational, or other benefit paid, payable, or otherwise provided to survivors of veterans and survivors of members of the Armed Forces under the following:“(A) Laws administered by the Secretary of Veterans Affairs. “(B) Laws administered by the Secretary of Defense. “(C) The Social Security Act ([42 U.S.C. 301](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section301&num=0&edition=prelim) et seq.). “(3) The term ‘veteran’ has the meaning given such term in [section 101(2) of title 38](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section101/2&num=0&edition=prelim), United States Code.”
+Pub. L. 102–568, title I, § 104, Oct. 29, 1992, 106 Stat. 4322, required the Comptroller General of the United States to submit to Congress a report, with specified contents and due not later than Apr. 1, 1994, with respect to the most appropriate combination of financial, health-care, educational, and other survivor benefits to meet the needs of survivors of veterans.
 
 #### Dependency and Indemnity Compensation Program
 Pub. L. 94–433, title II, § 204, Sept. 30, 1976, 90 Stat. 1376, directed Administrator of Veterans’ Affairs to study dependency and indemnity compensation program authorized by this chapter in order to evaluate benefits provided by program and to determine whether, or to what extent, benefits should be based on military pay grade of person upon whose death entitlement is predicated, and directed Administrator to submit to Congress and President not later than Oct. 1, 1977, a report containing results of study together with Administrator’s recommendations for improvement of program.
@@ -684,7 +690,7 @@ For provisions relating to prohibition of retroactive benefits by reason of amen
 For increases in rates and limitations on Department of Veterans Affairs disability compensation and dependency and indemnity compensation, see notes set out under [section 1114 of this title](./chapter-011-compensation-for-service-connected-disability-or-death.md#section-1114).
 
 #### Payment for Implementation of Revisions
-Pub. L. 102–568, title I, § 102(d), Oct. 29, 1992, 106 Stat. 4322, provided that: “The costs of implementing, during fiscal years 1993 and 1994, any revisions in the payment of dependency and indemnity compensation to surviving spouses under [section 1311 of title 38](./chapter-013-dependency-and-indemnity-compensation-for-service-connected-deaths.md#section-1311), United States Code, that result from the amendments made by subsections (a) and (b) [amending this section] shall be paid from amounts available to the Department of Veterans Affairs for the payment of compensation and pension.”
+Pub. L. 102–568, title I, § 102(d), Oct. 29, 1992, 106 Stat. 4322, provided that the costs of implementing, during fiscal years 1993 and 1994, any revisions in the payment of dependency and indemnity compensation to surviving spouses under this section that result from the amendments made by section 102(a) and (b) of Pub. L. 102–568 to this section, were to be paid from amounts available to the Department of Veterans Affairs for the payment of compensation and pension.
 
 
 <a id="section-1312"></a>

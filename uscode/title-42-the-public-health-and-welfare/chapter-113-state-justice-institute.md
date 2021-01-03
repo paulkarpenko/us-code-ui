@@ -390,7 +390,7 @@ Section effective Oct. 1, 1985, see section 216 of Pub. L. 98–620, set out as 
 ### Statutory Notes
 
 #### References in Text
-This chapter, referred to in text, was in the original “this title”, except in subsec. (d) where it was in the original “this Act”, meaning title II of Pub. L. 98–620, Nov. 8, 1984, 98 Stat. 336, known as the State Justice Institute Act of 1984, which enacted this chapter and amended [section 620 of Title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section620&num=0&edition=prelim), Judiciary and Judicial Procedure. For complete classification of title II to the Code, see Short Title note set out under [section 17101 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section17101&num=0&edition=prelim) and Tables.
+This chapter, referred to in text, was in the original “this title”, except in subsec. (d) where it was in the original “this Act”, meaning title II of Pub. L. 98–620, Nov. 8, 1984, 98 Stat. 3336, known as the State Justice Institute Act of 1984, which enacted this chapter and amended [section 620 of Title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section620&num=0&edition=prelim), Judiciary and Judicial Procedure. For complete classification of title II to the Code, see Short Title note set out under [section 17101 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section17101&num=0&edition=prelim) and Tables.
 
 #### Amendments
 1988—Subsec. (a)(3). Pub. L. 100–702 struck out par. (3) which read as follows: “ensure that each recipient that files with the Institute a timely application for refunding is provided interim funding necessary to maintain its current level of activities until—

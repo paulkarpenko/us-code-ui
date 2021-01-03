@@ -14,7 +14,7 @@ All regulations made with respect to this subchapter shall be promulgated no lat
 ### Statutory Notes
 
 #### References in Text
-This subchapter, referred to in text, was in the original “this subtitle”, meaning subtitle D of title VI of Pub. L. 96–294, June 30, 1980, 94 Stat. 768, which enacted this subchapter and sections 1146 and 1147 of this title and amended sections 1141 and 1143 of this title and sections 796, 824a–3, 824i, and 824j of Title 16, Conservation.
+This subchapter, referred to in text, was in the original “this subtitle”, meaning subtitle D of title VI of Pub. L. 96–294, June 30, 1980, 94 Stat. 768, which enacted this subchapter and former sections 1146 and 1147 of this title and amended former sections 1141 and 1143 of this title and sections 796, 824a–3, 824i, and 824j of Title 16, Conservation.
 
 
 <a id="section-1511"></a>
@@ -36,7 +36,7 @@ Pub. L. 96–294, title VI, § 601, June 30, 1980, 94 Stat. 763, provided that: 
 
 <a id="section-1512"></a>
 ## § 1512. Loans for geothermal reservoir confirmation
-**(a) Authorization; purposes** The Secretary of Energy (hereafter in this chapter referred to as the “Secretary”) is authorized to make a loan to any person, from funds appropriated (pursuant to this subchapter) to the Geothermal Resources Development Fund established under [section 1144 of this title](./chapter-024-geothermal-energy-research-development-and-demonstration.md#section-1144), to assist such person in undertaking and carrying out a project which (1) is designed to explore for or determine the economic viability of a geothermal reservoir and (2) consists of surface exploration and the drilling of one or more exploratory wells.
+**(a) Authorization; purposes** The Secretary of Energy (hereafter in this chapter referred to as the “Secretary”) is authorized to make a loan to any person, from funds appropriated (pursuant to this subchapter) to the Geothermal Resources Development Fund established under section 1144 11 See References in Text note below. of this title, to assist such person in undertaking and carrying out a project which (1) is designed to explore for or determine the economic viability of a geothermal reservoir and (2) consists of surface exploration and the drilling of one or more exploratory wells.
 
 **(b) Repayment rates** Subject to subsection (c) and to [section 1513(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title30-section1513/b&num=0&edition=prelim), any loan under subsection (a) shall be repayable out of revenue from production of the geothermal energy reservoir with respect to which the loan was made, at a rate, in any year, not to exceed 20 per centum of the gross revenue from the reservoir in that year; except that if any disposition of the geothermal rights to the reservoir is made to one or more other persons by the borrower, the full amount of the loan balance outstanding, or so much of the loan balance outstanding as is equal to the full amount of the compensation realized by the borrower upon such disposition, whichever is less, shall be repaid immediately. In any case where the reservoir is confirmed (as determined by the Secretary), the Secretary may impute a reasonable revenue for purposes of determining repayment if—
 
@@ -55,6 +55,8 @@ except that no such imputation of revenue shall be made during the three-year pe
 
 #### References in Text
 This chapter, referred to in subsec. (a), was in the original “this title”, meaning title VI of Pub. L. 96–294, June 30, 1980, 94 Stat. 763, known as the Geothermal Energy Act of 1980. For complete classification of title VI to the Code, see Short Title note set out under [section 1501 of this title](./chapter-027-geothermal-energy.md#section-1501) and Tables.
+
+[Section 1144 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title30-section1144&num=0&edition=prelim), referred to in subsec. (a), was repealed by Pub. L. 116–260, div. Z, title III, § 3002(i)(3), Dec. 27, 2020, 134 Stat. 2495.
 
 
 <a id="section-1513"></a>
@@ -128,7 +130,7 @@ The Secretary shall conduct a detailed study of the need for and feasibility of 
 
 **(i) Denial of insurance** A person shall not be denied insurance pursuant to this section solely because such person is the recipient of other Federal assistance under this or any other Act.
 
-**(j) Appropriations** There may be appropriated to the Geothermal Resources Development Fund (established pursuant to [section 1144 of this title](./chapter-024-geothermal-energy-research-development-and-demonstration.md#section-1144)), for purposes of this section, such amounts as are authorized for such purposes in the law referred to in subsection (a) or in other legislation hereafter enacted.
+**(j) Appropriations** There may be appropriated to the Geothermal Resources Development Fund (established pursuant to section 11441 of this title), for purposes of this section, such amounts as are authorized for such purposes in the law referred to in subsection (a) or in other legislation hereafter enacted.
 
 **(k) Reinsurance agreements; procedures applicable; criteria; report to Congress** The Secretary may enter into agreements to reinsure any private insurer for any risk associated with insurance for the development and utilization of a geothermal resource and associated reservoir, using the procedures set forth in subsections (c) through (i), to the extent that he deems it appropriate in order to provide an incentive for the participation of the private insurance industry in geothermal development; and he may also use any other available authority to obtain such participation. The Secretary shall submit a report to the Congress, within one year after the enactment of the law referred to in subsection (a), on the need for any additional authority to obtain such participation.
 
@@ -138,6 +140,8 @@ The Secretary shall conduct a detailed study of the need for and feasibility of 
 Section 27A of the Merchant Marine Act, 1920, referred to in subsec. (b)(7), is section 27A of act June 5, 1920, ch. 250, as added Pub. L. 85–902, Sept. 2, 1958, 72 Stat. 1736, which was classified to section 883–1 of the former Appendix to Title 46, Shipping, and was repealed and restated in [section 12118 of Title 46](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section12118&num=0&edition=prelim), Shipping, by Pub. L. 109–304, §§ 5, 19, Oct. 6, 2006, 120 Stat. 1491, 1710.
 
 This Act, referred to in subsec. (i), is Pub. L. 96–294, June 30, 1980, 94 Stat. 611, as amended, known as the Energy Security Act. For complete classification of this Act to the Code, see Short Title note set out under [section 8801 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section8801&num=0&edition=prelim), The Public Health and Welfare, and Tables.
+
+[Section 1144 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title30-section1144&num=0&edition=prelim), referred to in subsec. (j), was repealed by Pub. L. 116–260, div. Z, title III, § 3002(i)(3), Dec. 27, 2020, 134 Stat. 2495.
 
 #### Codification
 In subsec. (b)(7), “[section 50501 of title 46](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section50501&num=0&edition=prelim)” substituted for “section 2(a)–(c) of the Shipping Act, 1916 ([46 U.S.C. 802](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section802&num=0&edition=prelim))” on authority of Pub. L. 109–304, § 18(c), Oct. 6, 2006, 120 Stat. 1709, which Act enacted [section 50501 of Title 46](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section50501&num=0&edition=prelim), Shipping.
@@ -163,11 +167,16 @@ In subsec. (b)(7), “[section 50501 of title 46](https://uscode.house.gov/view.
 
 **(d) Interest rate; term** Each loan made pursuant to this section shall bear interest at a discount or interest rate equal to the rate in effect (at the time the loan is made) for water resources planning projects under section 80 of the Water Resources Development Act of 1974 ([42 U.S.C. 1962(d)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1962/d&num=0&edition=prelim)–17(a)).11 So in original. Should be “([42 U.S.C. 1962d–17(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1962d–17/a&num=0&edition=prelim)).” Each loan shall be for such term as the Secretary deems appropriate, but not in excess of ten years for loans under subsection (b) or thirty years for loans under subsection (c).
 
-**(e) Funding; deposit of amount repaid** Loans pursuant to this section shall be made from funds appropriated (pursuant to this subchapter) to the Geothermal Resources Development Fund established under [section 1144 of this title](./chapter-024-geothermal-energy-research-development-and-demonstration.md#section-1144); and amounts repaid on such loans shall be deposited in the Geothermal Resources Development Fund for purposes of this subchapter.
+**(e) Funding; deposit of amount repaid** Loans pursuant to this section shall be made from funds appropriated (pursuant to this subchapter) to the Geothermal Resources Development Fund established under section 1144 22 See References in Text note below. of this title; and amounts repaid on such loans shall be deposited in the Geothermal Resources Development Fund for purposes of this subchapter.
 
 **(f) Authorization of appropriations** For loans under clause (A) of subsection (b)(1) for fiscal year 1981, there is authorized to be appropriated to the Geothermal Resources Development Fund not to exceed $5,000,000, which shall remain available until expended. For loans under such clause (A) for subsequent fiscal years, and for loans under clause (B) of subsection (b)(1) or under subsection (c) (for any such subsequent fiscal year), there may be appropriated to such Fund only such sums as are authorized by legislation hereafter enacted.
 
 **(g) “Person” defined** As used in this section, the term “person” includes municipalities, cooperatives, industrial development agencies, nonprofit organizations, and Indian tribes, as well as the districts referred to in subsection (a) and the other entities included within such term under [section 1 of title 1](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title1-section1&num=0&edition=prelim).
+
+### Statutory Notes
+
+#### References in Text
+[Section 1144 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title30-section1144&num=0&edition=prelim), referred to in subsec. (e), was repealed by Pub. L. 116–260, div. Z, title III, § 3002(i)(3), Dec. 27, 2020, 134 Stat. 2495.
 
 
 <a id="section-1542"></a>

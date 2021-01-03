@@ -212,9 +212,9 @@ Act Aug. 2, 1946, ch. 753, title II, § 244, 60 Stat. 839, provided in part: “
 
 
 <a id="section-4302"></a>
-## § 4302. Per annum rate of compensation of Chief of Staff of Joint Committee on Taxation
+## § 4302. Maximum annual rate of compensation of Chief of Staff of Joint Committee on Taxation
 
-The per annum rate of compensation of the Chief of Staff of the Joint Committee on Taxation shall be the same as the per annum rate of compensation of the Legislative Counsel of the House of Representatives.
+The maximum annual rate of compensation of the Chief of Staff of the Joint Committee on Taxation shall not exceed the greater of $173,900 or the rate of pay in effect for such position under an order issued by the Speaker of the House of Representatives pursuant to the authority of [section 4532 of this title](./chapter-045-congressional-pay-and-benefits.md#section-4532).
 
 ### Statutory Notes
 
@@ -222,7 +222,12 @@ The per annum rate of compensation of the Chief of Staff of the Joint Committee 
 Section was formerly classified to [section 74a–2 of this title](./chapter-004-officers-and-employees-of-senate-and-house-of-representatives.md#section-74a-2) prior to editorial reclassification and renumbering as this section.
 
 #### Amendments
+2019—Pub. L. 116–94 substituted “The maximum annual rate of compensation of the Chief of Staff of the Joint Committee on Taxation shall not exceed the greater of $173,900 or the rate of pay in effect for such position under an order issued by the Speaker of the House of Representatives pursuant to the authority of [section 4532 of this title](./chapter-045-congressional-pay-and-benefits.md#section-4532).” for “The per annum rate of compensation of the Chief of Staff of the Joint Committee on Taxation shall be the same as the per annum rate of compensation of the Legislative Counsel of the House of Representatives.”
+
 1994—Pub. L. 103–437 substituted “Joint Committee on Taxation” for “Joint Committee on Internal Revenue Taxation”.
+
+#### Effective Date of 2019 Amendment
+Amendment by Pub. L. 116–94 effective on the later of the first day of the first applicable pay period beginning on or after Jan. 1, 2020, or the first day of the first applicable pay period beginning on or after Dec. 20, 2019, see section 212(c) of Pub. L. 116–94, set out as a note under [section 282b of this title](./chapter-009-office-of-legislative-counsel.md#section-282b).
 
 #### Effective Date
 Section effective as of beginning of first pay period which begins on or after Oct. 1, 1967, see section 220(a)(2) of Pub. L. 90–206, set out as an Effective Date of 1967 Amendment note under [section 5332 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5332&num=0&edition=prelim), Government Organization and Employees.

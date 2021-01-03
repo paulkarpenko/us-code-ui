@@ -211,11 +211,19 @@ For the purposes of this chapter—
 
 (12) The term “seniority” means longevity in employment together with any benefits of employment which accrue with, or are determined by, longevity in employment.
 
-(13) The term “service in the uniformed services” means the performance of duty on a voluntary or involuntary basis in a uniformed service under competent authority and includes active duty, active duty for training, initial active duty for training, inactive duty training, full-time National Guard duty, a period for which a person is absent from a position of employment for the purpose of an examination to determine the fitness of the person to perform any such duty, a period for which a System member of the National Urban Search and Rescue Response System is absent from a position of employment due to an appointment into Federal service under section 327 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act, and a period for which a person is absent from employment for the purpose of performing funeral honors duty as authorized by [section 12503 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section12503&num=0&edition=prelim) or [section 115 of title 32](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title32-section115&num=0&edition=prelim).
+(13) The term “service in the uniformed services” means the performance of duty on a voluntary or involuntary basis in a uniformed service under competent authority and includes active duty, active duty for training, initial active duty for training, inactive duty training, full-time National Guard duty, State active duty for a period of 14 days or more, State active duty in response to a national emergency declared by the President under the National Emergencies Act ([50 U.S.C. 1601](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1601&num=0&edition=prelim) et seq.), State active duty in response to a major disaster declared by the President under section 401 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act ([42 U.S.C. 5170](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5170&num=0&edition=prelim)), a period for which a person is absent from a position of employment for the purpose of an examination to determine the fitness of the person to perform any such duty, a period for which a System member of the National Urban Search and Rescue Response System is absent from a position of employment due to an appointment into Federal service under section 327 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act, and a period for which a person is absent from employment for the purpose of performing funeral honors duty as authorized by [section 12503 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section12503&num=0&edition=prelim) or [section 115 of title 32](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title32-section115&num=0&edition=prelim).
 
 (14) The term “State” means each of the several States of the United States, the District of Columbia, the Commonwealth of Puerto Rico, Guam, the Virgin Islands, and other territories of the United States (including the agencies and political subdivisions thereof).
 
-(15) The term “undue hardship”, in the case of actions taken by an employer, means actions requiring significant difficulty or expense, when considered in light of—
+(15) The term “State active duty” means training or other duty, other than inactive duty, performed by a member of the National Guard of a State—
+
+  (A) not under [section 502 of title 32](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title32-section502&num=0&edition=prelim) or under title 10;
+
+  (B) in service to the Governor of a State; and
+
+  (C) for which the member is not entitled to pay from the Federal Government.
+
+(16) 11 So in original. Two pars. (16) have been enacted. The term “undue hardship”, in the case of actions taken by an employer, means actions requiring significant difficulty or expense, when considered in light of—
 
   (A) the nature and cost of the action needed under this chapter;
 
@@ -225,11 +233,13 @@ For the purposes of this chapter—
 
   (D) the type of operation or operations of the employer, including the composition, structure, and functions of the work force of such employer; the geographic separateness, administrative, or fiscal relationship of the facility or facilities in question to the employer.
 
-(16) The term “uniformed services” means the Armed Forces, the Army National Guard and the Air National Guard when engaged in active duty for training, inactive duty training, or full-time National Guard duty, the commissioned corps of the Public Health Service, System members of the National Urban Search and Rescue Response System during a period of appointment into Federal service under section 327 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act, and any other category of persons designated by the President in time of war or national emergency.
+(16) 1 The term “uniformed services” means the Armed Forces, the Army National Guard and the Air National Guard when engaged in active duty for training, inactive duty training, or full-time National Guard duty, the commissioned corps of the Public Health Service, the commissioned officer corps of the National Oceanic and Atmospheric Administration, System members of the National Urban Search and Rescue Response System during a period of appointment into Federal service under section 327 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act, and any other category of persons designated by the President in time of war or national emergency.
 
 ### Statutory Notes
 
 #### References in Text
+The National Emergencies Act, referred to in par. (13), is Pub. L. 94–412, Sept. 14, 1976, 90 Stat. 1255, which is classified principally to chapter 34 (§ 1601 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under [section 1601 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1601&num=0&edition=prelim) and Tables.
+
 Section 327 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act, referred to in pars. (13) and (16), is classified to [section 5165f of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5165f&num=0&edition=prelim), The Public Health and Welfare.
 
 #### Prior Provisions
@@ -238,6 +248,12 @@ A prior section 4303, added Pub. L. 93–508, title IV, § 404(a), Dec. 3, 1974,
 Another prior section 4303 was renumbered [section 7603 of this title](./chapter-076-health-professionals-educational-assistance-program.md#section-7603).
 
 #### Amendments
+2021—Par. (13). Pub. L. 116–315, § 7004(1), inserted “State active duty for a period of 14 days or more, State active duty in response to a national emergency declared by the President under the National Emergencies Act ([50 U.S.C. 1601](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1601&num=0&edition=prelim) et seq.), State active duty in response to a major disaster declared by the President under section 401 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act ([42 U.S.C. 5170](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5170&num=0&edition=prelim)),” after “full-time National Guard duty,”.
+
+Pars. (15), (16). Pub. L. 116–315, § 7004(2), (3), added par. (15) and redesignated former par. (15) as (16) defining “undue hardship”.
+
+2020—Par. (16). Pub. L. 116–259 inserted “the commissioned officer corps of the National Oceanic and Atmospheric Administration,” after “Public Health Service,” in par. (16) defining “uniformed services”.
+
 2016—Par. (13). Pub. L. 114–326, § 2(b)(2)(A), inserted “, a period for which a System member of the National Urban Search and Rescue Response System is absent from a position of employment due to an appointment into Federal service under section 327 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act” before “, and a period”.
 
 Par. (16). Pub. L. 114–326, § 2(b)(2)(B), inserted “System members of the National Urban Search and Rescue Response System during a period of appointment into Federal service under section 327 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act,” after “Public Health Service,”.

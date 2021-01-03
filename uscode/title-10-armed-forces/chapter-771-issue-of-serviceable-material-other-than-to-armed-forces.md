@@ -29,7 +29,7 @@ In subsection (b), the words “shall use it for target practice” are substitu
 Prior sections 7651 and 7652 were renumbered sections 8851 and 8852 of this title, respectively.
 
 #### Amendments
-2018—Pub. L. 115–232 renumbered [section 4652 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section4652&num=0&edition=prelim) as this section.
+2018—Pub. L. 115–232 renumbered [section 4652 of this title](./chapter-363-prohibition-and-penalties.md#section-4652) as this section.
 
 #### Effective Date of 2018 Amendment
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
@@ -53,7 +53,7 @@ The words “at his discretion and”, “belonging to the Government, and which
 A prior section 7653 was renumbered [section 8853 of this title](./chapter-883-prize.md#section-8853).
 
 #### Amendments
-2018—Pub. L. 115–232 renumbered [section 4653 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section4653&num=0&edition=prelim) as this section.
+2018—Pub. L. 115–232 renumbered [section 4653 of this title](./chapter-363-prohibition-and-penalties.md#section-4653) as this section.
 
 #### Effective Date of 2018 Amendment
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
@@ -77,7 +77,7 @@ The words “at his discretion and” and “belonging to the Government, and wh
 A prior section 7654 was renumbered [section 8854 of this title](./chapter-883-prize.md#section-8854).
 
 #### Amendments
-2018—Pub. L. 115–232 renumbered [section 4654 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section4654&num=0&edition=prelim) as this section.
+2018—Pub. L. 115–232 renumbered [section 4654 of this title](./chapter-363-prohibition-and-penalties.md#section-4654) as this section.
 
 #### Effective Date of 2018 Amendment
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
@@ -112,7 +112,7 @@ In subsection (b), the words “hereafter”, “borrowed”, and “under the a
 A prior section 7655 was renumbered [section 8855 of this title](./chapter-883-prize.md#section-8855).
 
 #### Amendments
-2018—Pub. L. 115–232 renumbered [section 4655 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section4655&num=0&edition=prelim) as this section.
+2018—Pub. L. 115–232 renumbered [section 4655 of this title](./chapter-363-prohibition-and-penalties.md#section-4655) as this section.
 
 #### Effective Date of 2018 Amendment
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
@@ -136,7 +136,7 @@ The words “in his discretion and”, “rules”, “limitations”, and “on
 A prior section 7656 was renumbered [section 8856 of this title](./chapter-883-prize.md#section-8856).
 
 #### Amendments
-2018—Pub. L. 115–232 renumbered [section 4656 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section4656&num=0&edition=prelim) as this section.
+2018—Pub. L. 115–232 renumbered [section 4656 of this title](./chapter-363-prohibition-and-penalties.md#section-4656) as this section.
 
 1982—Pub. L. 97–295 struck out “, and at least one of which is designated by the Civil Aeronautics Authority for the training of Negro air pilots” after “competent orders”.
 
@@ -155,7 +155,7 @@ Subject to the needs of the Army, the Secretary of the Army may sell ammunition 
 Prior sections 7657 to 7681 were renumbered sections 8857 to 8881 of this title, respectively.
 
 #### Amendments
-2018—Pub. L. 115–232 renumbered [section 4657 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section4657&num=0&edition=prelim) as this section.
+2018—Pub. L. 115–232 renumbered [section 4657 of this title](./chapter-363-prohibition-and-penalties.md#section-4657) as this section.
 
 #### Effective Date of 2018 Amendment
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).

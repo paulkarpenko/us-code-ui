@@ -2,7 +2,7 @@
 title: 10
 chapter: '54'
 heading: COMMISSARY AND EXCHANGE BENEFITS
-section_count: 6
+section_count: 7
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10&num=0&edition=prelim
 ---
@@ -110,7 +110,7 @@ Subsec. (c)(3). Pub. L. 107–314, § 322(a)(2), added par. (3).
 
 
 <a id="section-1065"></a>
-## § 1065. Use of commissary stores and MWR facilities: certain veterans and caregivers for veterans
+## § 1065. Use of commissary stores and MWR facilities: certain veterans, caregivers for veterans, and Foreign Service officers
 **(a) Eligibility of Veterans Awarded the Purple Heart.—** A veteran who was awarded the Purple Heart shall be permitted to use commissary stores and MWR facilities on the same basis as a member of the armed forces entitled to retired or retainer pay.
 
 **(b) Eligibility of Veterans Who Are Medal of Honor Recipients.—** A veteran who is a Medal of Honor recipient shall be permitted to use commissary stores and MWR facilities on the same basis as a member of the armed forces entitled to retired or retainer pay.
@@ -121,7 +121,9 @@ Subsec. (c)(3). Pub. L. 107–314, § 322(a)(2), added par. (3).
 
 **(e) Eligibility of Caregivers for Veterans.—** A caregiver or family caregiver shall be permitted to use commissary stores and MWR facilities on the same basis as a member of the armed forces entitled to retired or retainer pay.
 
-**(f) User Fee Authority.—**
+**(f) Eligibility of Foreign Service Officers on Mandatory Home Leave.—** A Foreign Service officer on mandatory home leave may be permitted to use military lodging referred to in subsection (h).
+
+**(g) User Fee Authority.—**
 
 (1) The Secretary of Defense shall prescribe regulations that impose a user fee on individuals who are eligible solely under this section to purchase merchandise at a commissary store or MWR retail facility.
 
@@ -131,7 +133,7 @@ Subsec. (c)(3). Pub. L. 107–314, § 322(a)(2), added par. (3).
 
 (4) Any fee under this subsection is in addition to the uniform surcharge under [section 2484(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2484/d&num=0&edition=prelim).
 
-**(g) Definitions.—** In this section:
+**(h) Definitions.—** In this section:
 
 (1) The term “MWR facilities” includes—
 
@@ -145,10 +147,55 @@ Subsec. (c)(3). Pub. L. 107–314, § 322(a)(2), added par. (3).
 
 (4) The terms “caregiver” and “family caregiver” have the meanings given those terms in section in [section 1720G(d) of title 38](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section1720G/d&num=0&edition=prelim).
 
+(5) The term “Foreign Service officer” has the meaning given that term in section 103 of the Foreign Service Act of 1980 ([22 U.S.C. 3903](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section3903&num=0&edition=prelim)).
+
+(6) The term “mandatory home leave” means leave under section 903 of the Foreign Service Act of 1980 ([22 U.S.C. 4083](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section4083&num=0&edition=prelim)).
+
 ### Statutory Notes
 
 #### Prior Provisions
 A prior section 1065 was renumbered [section 1063 of this title](./chapter-054-commissary-and-exchange-benefits.md#section-1063).
 
+#### Amendments
+2019—Pub. L. 116–92, § 641(a)(1), substituted “veterans, caregivers for veterans, and Foreign Service officers” for “veterans and caregivers for veterans” in section catchline.
+
+Subsecs. (f) to (h). Pub. L. 116–92, § 641(a)(2), (3), added subsec. (f) and redesignated former subsecs. (f) and (g) as (g) and (h), respectively.
+
+Subsec. (h)(5), (6). Pub. L. 116–92, § 641(a)(4), added pars. (5) and (6).
+
+#### Effective Date of 2019 Amendment
+Pub. L. 116–92, div. A, title VI, § 641(b), Dec. 20, 2019, 133 Stat. 1431, provided that: “The amendments made by this section [amending this section] shall take effect on January 1, 2020, as if originally incorporated in section 621 of Public Law 115–232.”
+
 #### Effective Date
 Pub. L. 115–232, div. A, title VI, § 621(b)(3), Aug. 13, 2018, 132 Stat. 1799, provided that: “[Section 1065 of title 10](./chapter-054-commissary-and-exchange-benefits.md#section-1065), United States Code, as added by paragraph (1), shall take effect on January 1, 2020.”
+
+
+<a id="section-1066"></a>
+## § 1066. Use of commissary stores and MWR facilities: protective services civilian employees
+**(a) Eligibility of Protective Services Civilian Employees.—** An individual employed as a protective services civilian employee at a military installation may be permitted to purchase food and hygiene items at a commissary store or MWR retail facility located on that military installation.
+
+**(b) User Fee Authority.—**
+
+(1) The Secretary of Defense shall prescribe regulations that impose a user fee on individuals who are eligible solely under this section to purchase merchandise at a commissary store or MWR retail facility.
+
+(2) The Secretary shall set the user fee under this subsection at a rate that the Secretary determines will offset any increase in expenses arising from this section borne by the Department of the Treasury on behalf of commissary stores associated with the use of credit or debit cards for customer purchases, including expenses related to card network use and related transaction processing fees.
+
+(3) The Secretary shall deposit funds collected pursuant to a user fee under this subsection in the General Fund of the Treasury.
+
+(4) Any fee under this subsection is in addition to the uniform surcharge under [section 2484(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2484/d&num=0&edition=prelim).
+
+**(c) Definitions.—** In this section:
+
+(1) The term “MWR retail facility” has the meaning given that term in [section 1063 of this title](./chapter-054-commissary-and-exchange-benefits.md#section-1063).
+
+(2) The term “protective services civilian employee” means a position in any of the following series (or successor classifications) of the General Schedule:
+
+  (A) Security Administration (GS–0080).
+
+  (B) Fire Protection and Prevention (GS–0081).
+
+  (C) Police (GS–0083).
+
+  (D) Security Guard (GS–0085).
+
+  (E) Emergency Management (GS–0089).

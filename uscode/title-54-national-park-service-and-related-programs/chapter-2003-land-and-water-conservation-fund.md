@@ -40,8 +40,6 @@ In this chapter:
 
 (2) **Receipts under outer continental shelf lands act.—** — To the extent that amounts appropriated under paragraph (1) are not sufficient to make the total annual income of the Fund equivalent to the amounts provided in paragraph (1), an amount sufficient to cover the remainder shall be credited to the Fund from revenues due and payable to the United States for deposit in the Treasury as miscellaneous receipts under the Outer Continental Shelf Lands Act ([43 U.S.C. 1331](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1331&num=0&edition=prelim) et seq.).
 
-(3) **Availability of deposits.—** — Notwithstanding [section 200303 of this title](./chapter-2003-land-and-water-conservation-fund.md#section-200303), money deposited in the Fund under this subsection shall remain in the Fund until appropriated by Congress to carry out this chapter.
-
 ### Statutory Notes
 
 | Historical and Revision Notes |  |  |
@@ -57,6 +55,8 @@ In subsection (c)(1), reference to fiscal years 1977 and 1978 and the word “th
 The Outer Continental Shelf Lands Act, referred to in subsec. (c)(2), is act Aug. 7, 1953, ch. 345, 67 Stat. 462, which is classified generally to subchapter III (§ 1331 et seq.) of chapter 29 of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under [section 1301 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1301&num=0&edition=prelim) and Tables.
 
 #### Amendments
+2020—Subsec. (c)(3). Pub. L. 116–152 struck out par. (3). Text read as follows: “Notwithstanding [section 200303 of this title](./chapter-2003-land-and-water-conservation-fund.md#section-200303), money deposited in the Fund under this subsection shall remain in the Fund until appropriated by Congress to carry out this chapter.”
+
 2019—Subsec. (b). Pub. L. 116–9, § 3001(a)(1), substituted “There” for “During the period ending September 30, 2018, there” in introductory provisions.
 
 Subsec. (c)(1). Pub. L. 116–9, § 3001(a)(2), struck out “through September 30, 2018” after “each fiscal year”.
@@ -144,9 +144,32 @@ Lyndon B. Johnson.
 
 
 <a id="section-200303"></a>
-## § 200303. Appropriations for expenditure of Fund amounts
+## § 200303. Availability of funds
+**(a) In General.—** Any amounts deposited in the Fund under section 200302 for fiscal year 2020 and each fiscal year thereafter shall be made available for expenditure for fiscal year 2021 and each fiscal year thereafter, without further appropriation or fiscal year limitation, to carry out the purposes of the Fund (including accounts and programs made available from the Fund pursuant to the Further Consolidated Appropriations Act, 2020 (Public Law 116–94; 133 Stat. 2534)).
 
-Amounts deposited in the Fund shall be available for expenditure for the purposes of this chapter only when appropriated for those purposes. The appropriations may be made without fiscal-year limitation. Amounts made available for obligation or expenditure from the Fund may be obligated or expended only as provided in this chapter.
+**(b) Additional Amounts.—** Amounts made available under subsection (a) shall be in addition to amounts made available to the Fund under section 105 of the Gulf of Mexico Energy Security Act of 2006 ([43 U.S.C. 1331](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1331&num=0&edition=prelim) note; Public Law 109–432) or otherwise appropriated from the Fund.
+
+**(c) Allocation Authority.—**
+
+(1) **Submission of cost estimates.—** — The President shall submit to Congress detailed account, program, and project allocations of the full amount made available under subsection (a)—
+
+  (A) for fiscal year 2021, not later than 90 days after the date of enactment of the Great American Outdoors Act; and
+
+  (B) for each fiscal year thereafter, as part of the annual budget submission of the President.
+
+(2) **Alternate allocation.—**
+
+  (A) *In general.—* — Appropriations Acts may provide for alternate allocation of amounts made available under subsection (a), including allocations by account, program, and project.
+
+  (B) *Allocation by president.—*
+
+    (i) *No alternate allocations.—* — If Congress has not enacted legislation establishing alternate allocations by the date on which the Act making full-year appropriations for the Department of the Interior, Environment, and Related Agencies for the applicable fiscal year is enacted into law, amounts made available under subsection (a) shall be allocated by the President.
+
+    (ii) *Insufficient alternate allocation.—* — If Congress enacts legislation establishing alternate allocations for amounts made available under subsection (a) that are less than the full amount appropriated under that subsection, the difference between the amount appropriated and the alternate allocation shall be allocated by the President.
+
+(3) **Recreational public access.—** — Amounts expended from the Fund under this section shall be consistent with the requirements for recreational public access for hunting, fishing, recreational shooting, or other outdoor recreational purposes under section 200306(c).
+
+(4) **Annual report.—** — The President shall submit to Congress an annual report that describes the final allocation by account, program, and project of amounts made available under subsection (a), including a description of the status of obligations and expenditures.
 
 ### Statutory Notes
 
@@ -156,6 +179,16 @@ Amounts deposited in the Fund shall be available for expenditure for the purpose
 | 200303 | [16 U.S.C. 460](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section460&num=0&edition=prelim)l–6. | Pub. L. 88–578, title I, § 3, Sept. 3, 1964, 78 Stat. 899; Pub. L. 100–203, title V, § 5201(f)(2), Dec. 22, 1987, 101 Stat. 1330-267. |
 
 The words “or from the special account established under section 460l–6a(i)(1) of this title” are omitted as obsolete.
+
+#### References in Text
+The Further Consolidated Appropriations Act, 2020, referred to in subsec. (a), is Pub. L. 116–94, Dec. 20, 2019, 133 Stat. 2534. For complete classification of this Act to the Code, see Tables.
+
+Section 105 of the Gulf of Mexico Energy Security Act of 2006, referred to in subsec. (b), is section 105 of title I of div. C of Pub. L. 109–432, which is set out in a note under [section 1331 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1331&num=0&edition=prelim), Public Lands.
+
+The date of enactment of the Great American Outdoors Act, referred to in subsec. (c)(1)(A), is the date of enactment of Pub. L. 116–152, which was approved Aug. 4, 2020.
+
+#### Amendments
+2020—Pub. L. 116–152 amended section generally. Prior to amendment, text read as follows: “Amounts deposited in the Fund shall be available for expenditure for the purposes of this chapter only when appropriated for those purposes. The appropriations may be made without fiscal-year limitation. Amounts made available for obligation or expenditure from the Fund may be obligated or expended only as provided in this chapter.”
 
 
 <a id="section-200304"></a>
@@ -345,8 +378,6 @@ In subsection (k)(3), the words “and the remaining share of the cost shall be 
 
     (ii) *Adjacent land.—* — Land outside but adjacent to an existing national forest boundary, not to exceed 3,000 acres in the case of any one forest, that would comprise an integral part of a forest recreational management area may also be acquired with amounts appropriated from the Fund.
 
-    (iii) *Limitation.—* — Except for areas specifically authorized by Act of Congress, not more than 15 percent of the acreage added to the National Forest System pursuant to this section shall be west of the 100th meridian.
-
   (C) *Endangered species and threatened species; fish and wildlife refuge areas; national wildlife refuge system.—* — Amounts shall be allotted for the acquisition of land, water, or an interest in land or water for—
 
     (i) endangered species and threatened species authorized under section 5(a) of the Endangered Species Act of 1973 ([16 U.S.C. 1534(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1534/a&num=0&edition=prelim));
@@ -399,6 +430,8 @@ In subsection (k)(3), the words “and the remaining share of the cost shall be 
 In subsection (a)(4), the words “January 4, 1977” are substituted for “the convening of the Ninety-fifth Congress”, and the words “January 15, 1979” are substituted for “ the convening of the Ninety-sixth Congress”, for clarity.
 
 #### Amendments
+2020—Subsec. (a)(2)(B)(iii). Pub. L. 116–152 struck out cl. (iii). Text read as follows: “Except for areas specifically authorized by Act of Congress, not more than 15 percent of the acreage added to the National Forest System pursuant to this section shall be west of the 100th meridian.”
+
 2019—Subsec. (c). Pub. L. 116–9, § 3001(d), added subsec. (c).
 
 Subsec. (d). Pub. L. 116–9, § 3001(e), added subsec. (d).

@@ -75,7 +75,7 @@ It shall be the duty of the Secretary of the Interior to consolidate the distric
 ### Statutory Notes
 
 #### Appropriations
-The Secretary of the Interior was required to consolidate the district land offices so as to bring the total compensation of the registers and receivers for the fiscal year 1894, within the appropriation made therefor by the sundry Civil Appropriation Act for that year, act Mar. 3, 1893, ch. 208, 27 Stat. 591, which was fixed at $520,000.
+Act Mar. 3, 1893, ch. 208, 27 Stat. 591, required the Secretary of the Interior to consolidate the district land offices so as to bring the total compensation of the registers and receivers for the fiscal year 1894, within the appropriation made therefor by the sundry Civil Appropriation Act for that year, which was fixed at $520,000.
 
 
 <a id="section-125"></a>

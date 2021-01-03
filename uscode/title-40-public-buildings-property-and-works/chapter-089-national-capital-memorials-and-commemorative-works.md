@@ -159,6 +159,9 @@ Amendments by Pub. L. 108–126 not applicable to a commemorative work for which
 | Brigadier General Francis Marion Commemorative Work.—Pub. L. 110–229, title III, § 331, May 8, 2008, 122 Stat. 781; Pub. L. 114–92, div. B, title XXVIII, § 2852, Nov. 25, 2015, 129 Stat. 1184. |
 | Disabled Veterans’ LIFE Memorial.—Pub. L. 106–348, Oct. 24, 2000, 114 Stat. 1358; Pub. L. 109–396, title II, § 201, Dec. 15, 2006, 120 Stat. 2713; Pub. L. 110–106, § 1, Oct. 25, 2007, 121 Stat. 1022. |
 | Dwight D. Eisenhower Memorial.—Pub. L. 106–79, title VIII, § 8162, Oct. 25, 1999, 113 Stat. 1274; Pub. L. 107–117, div. A, title VIII, § 8120(a), (b), Jan. 10, 2002, 115 Stat. 2273, 2274; Pub. L. 109–220, May 5, 2006, 120 Stat. 335; Pub. L. 110–229, title III, § 332, May 8, 2008, 122 Stat. 782; Pub. L. 112–74, div. E, title III, Dec. 23, 2011, 125 Stat. 1036; Pub. L. 113–6, div. F, title IV, § 1413, Mar. 26, 2013, 127 Stat. 421; Pub. L. 113–76, div. G, title IV, § 437(a), Jan. 17, 2014, 128 Stat. 347; Pub. L. 113–235, div. F, title IV, § 423(a), Dec. 16, 2014, 128 Stat. 2449; Pub. L. 114–113, div. G, title IV, § 419(a), Dec. 18, 2015, 129 Stat. 2579; Pub. L. 115–31, div. G, title IV, § 419, May 5, 2017, 131 Stat. 498. |
+| Every Word We Utter Commemorative Work.—Pub. L. 116–217, Dec. 17, 2020, 134 Stat. 1052. |
+| Fallen Journalists Memorial.—Pub. L. 116–253, Dec. 23, 2020, 134 Stat. 1135. |
+| First Division Monument.—Pub. L. 116–283, div. A, title X, § 1083, Jan. 1, 2021, 134 Stat. 3875. |
 | Francis Scott Key Memorial.—Pub. L. 99–531, Oct. 27, 1986, 100 Stat. 3022. |
 | Frederick Douglass Memorial and Gardens.—Pub. L. 106–479, Nov. 9, 2000, 114 Stat. 2184. |
 | George Mason Memorial.—Pub. L. 101–358, Aug. 10, 1990, 104 Stat. 419; Pub. L. 102–277, Apr. 28, 1992, 106 Stat. 127; Pub. L. 105–182, § 1, June 19, 1998, 112 Stat. 516. |
@@ -173,14 +176,15 @@ Amendments by Pub. L. 108–126 not applicable to a commemorative work for which
 | National Emergency Medical Services Memorial.—Pub. L. 115–275, § 1, Nov. 3, 2018, 132 Stat. 4164. |
 | National Global War on Terrorism Memorial.—Pub. L. 115–51, Aug. 18, 2017, 131 Stat. 1003. |
 | National Peace Garden.—Pub. L. 100–63, June 30, 1987, 101 Stat. 379; Pub. L. 103–321, § 1(a)(3), (b), Aug. 26, 1994, 108 Stat. 1793; Pub. L. 105–202, July 16, 1998, 112 Stat. 676. |
-| Peace Corps Memorial.—Pub. L. 113–78, § 1, Jan. 24, 2014, 128 Stat. 647. |
-| Second Division Memorial.—Act Mar. 3, 1931, ch. 451, 46 Stat. 1515; Pub. L. 115–91, div. A, title III, § 352, Dec. 12, 2017, 131 Stat. 1367; Pub. L. 115–141, div. G, title I, § 121(a)(1) [S. 1460, div. B, title VII, § 7130], Mar. 23, 2018, 132 Stat. 661. |
+| Peace Corps Memorial.—Pub. L. 113–78, § 1, Jan. 24, 2014, 128 Stat. 647; Pub. L. 116–318, Jan. 5, 2021, 134 Stat. 5069. |
+| Republic of Texas Legation Memorial.—Pub. L. 116–248, Dec. 22, 2020, 134 Stat. 1124. |
+| Second Division Memorial.—Act Mar. 3, 1931, ch. 451, 46 Stat. 1515; Pub. L. 115–91, div. A, title III, § 352, Dec. 12, 2017, 131 Stat. 1367; Pub. L. 115–141, div. G, title I, § 121(a)(1) [div. B, title VII, § 7130], Mar. 23, 2018, 132 Stat. 661, 1225A–3. |
 | Thomas Paine Memorial.—Pub. L. 102–407, Oct. 13, 1992, 106 Stat. 1991; Pub. L. 102–459, Oct. 23, 1992, 106 Stat. 2268; Pub. L. 103–422, Oct. 25, 1994, 108 Stat. 4356; Pub. L. 106–113, div. B, § 1000(a)(3) [title I, § 142], Nov. 29, 1999, 113 Stat. 1535, 1501A–171. |
 | Tomas G. Masaryk Memorial.—Pub. L. 107–61, Nov. 5, 2001, 115 Stat. 410. |
 | Ukrainian Famine-Genocide Victims Memorial.—Pub. L. 109–340, Oct. 13, 2006, 120 Stat. 1864. |
 | Victims of Communism Memorial.—Pub. L. 103–199, title IX, § 905, Dec. 17, 1993, 107 Stat. 2331; Pub. L. 105–277, div. A, § 101(e) [title III, § 326], Oct. 21, 1998, 112 Stat. 2681–231, 2681–291. |
 | Vietnam Women’s Memorial.—Pub. L. 100–660, Nov. 15, 1988, 102 Stat. 3922; Pub. L. 101–187, Nov. 28, 1989, 103 Stat. 1350. |
-| Women in Military Service for America Memorial.—Pub. L. 99–500, § 101(h) [title I, § 117], Oct. 18, 1986, 100 Stat. 1783–242, 1783–266, and Pub. L. 99–591, § 101(h) [title I, § 117], Oct. 30, 1986, 100 Stat. 3341–242, 3341–266; Pub. L. 99–590, title IX, §§ 901, 902, Oct. 30, 1986, 100 Stat. 3339; Pub. L. 99–610, Nov. 6, 1986, 100 Stat. 3477; Pub. L. 103–321, § 1(a)(2), Aug. 26, 1994, 108 Stat. 1793; Pub. L. 103–337, div. B, title XXVIII, § 2855, Oct. 5, 1994, 108 Stat. 3073. |
+| Women in Military Service for America Memorial.—Pub. L. 99–500, § 101(h) [title I, § 117], Oct. 18, 1986, 100 Stat. 1783–242, 1783–266, and Pub. L. 99–591, § 101(h) [title I, § 117], Oct. 30, 1986, 100 Stat. 3341–242, 3341–266; Pub. L. 99–590, title IX, §§ 901, 902, Oct. 30, 1986, 100 Stat. 3339; Pub. L. 99–610, Nov. 6, 1986, 100 Stat. 3477; Pub. L. 103–321, § 1(a)(2), Aug. 26, 1994, 108 Stat. 1793; Pub. L. 103–337, div. B, title XXVIII, § 2855, Oct. 5, 1994, 108 Stat. 3073; Pub. L. 116–92, div. B, title XXVIII, § 2834(e)(3)(B), Dec. 20, 2019, 133 Stat. 1894. |
 | World War II Memorial.—Pub. L. 103–32, May 25, 1993, 107 Stat. 90; Pub. L. 103–422, Oct. 25, 1994, 108 Stat. 4356; Pub. L. 106–58, title VI, § 652, Sept. 29, 1999, 113 Stat. 480; Pub. L. 106–117, title VI, § 601(b), Nov. 30, 1999, 113 Stat. 1578; Pub. L. 107–11, May 28, 2001, 115 Stat. 19. |
 | World War II Memorial Prayer Plaque.—Pub. L. 113–123, June 30, 2014, 128 Stat. 1377. |
 

@@ -1,7 +1,7 @@
 ---
 title: 4
 heading: 'FLAG AND SEAL, SEAT OF GOVERNMENT, AND THE STATES'
-positive_law: false
+positive_law: true
 sections: 47
 chapters: 5
 ---

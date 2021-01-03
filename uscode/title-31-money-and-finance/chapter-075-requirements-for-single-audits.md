@@ -190,7 +190,7 @@ Pub. L. 98–502, § 2(b), Oct. 19, 1984, 98 Stat. 2334, provided that: “The p
 
 (2) When reporting on any single audit, the auditor shall include a summary of the auditor’s results regarding the non-Federal entity’s financial statements, internal controls, and compliance with laws and regulations.
 
-**(h)** The non-Federal entity shall transmit the reporting package, which shall include the non-Federal entity’s financial statements, schedule of expenditures of Federal awards, corrective action plan defined under subsection (i), and auditor’s reports developed pursuant to this section, to a Federal clearinghouse designated by the Director, and make it available for public inspection within the earlier of—
+**(h)** The non-Federal entity shall transmit the reporting package, in an electronic form in accordance with the data standards established under chapter 64 and which shall include the non-Federal entity’s financial statements, schedule of expenditures of Federal awards, corrective action plan defined under subsection (i), and auditor’s reports developed pursuant to this section, to a Federal clearinghouse designated by the Director, and make it available for public inspection within the earlier of—
 
 (1) 30 days after receipt of the auditor’s report; or
 
@@ -210,6 +210,8 @@ Pub. L. 98–502, § 2(b), Oct. 19, 1984, 98 Stat. 2334, provided that: “The p
 The effective date of the Single Audit Act Amendments of 1996, referred to in subsec. (h)(2)(A), is the effective date of Pub. L. 104–156, which is classified generally to this chapter. See [section 7506 of this title](./chapter-075-requirements-for-single-audits.md#section-7506).
 
 #### Amendments
+2019—Subsec. (h). Pub. L. 116–103 inserted “in an electronic form in accordance with the data standards established under chapter 64 and” after “the reporting package,” in introductory provisions.
+
 1996—Pub. L. 104–156 reenacted section catchline without change and amended text generally, substituting present provisions for similar provisions relating to audit requirements and exemptions from such requirements for State and local governments receiving Federal financial assistance of $100,000 or more in any fiscal year and requiring audits to be conducted annually in most instances, to cover entirety of government operations, for reports to be made on audits in specified time period, and for appropriate corrective action plans to be submitted to Federal officials for any material State or local noncompliance with Federal laws and regulations.
 
 1994—Subsec. (b)(2). Pub. L. 103–272, § 4(f)(1)(W), substituted “October 19, 1984” for “the date of enactment of this chapter” in subpar. (A) and for “such date” in subpar. (B).
@@ -300,15 +302,22 @@ Committee on Government Reform and Oversight of House of Representatives changed
 
 **(c)** Such guidance shall include such provisions as may be necessary to ensure that small business concerns, qualified HUBZone small business concerns, and business concerns owned and controlled by socially and economically disadvantaged individuals will have the opportunity to participate in the performance of contracts awarded to fulfill the audit requirements of this chapter.
 
+**(d)** Such guidance shall require audit-related information reported under this chapter to be reported in an electronic form in accordance with the data standards established under chapter 64.
+
 ### Statutory Notes
 
 #### Amendments
+2019—Subsec. (d). Pub. L. 116–103 added subsec. (d).
+
 1997—Subsec. (c). Pub. L. 105–135 substituted “small business concerns, qualified HUBZone small business concerns, and” for “small business concerns and”.
 
 1996—Pub. L. 104–156 reenacted section catchline without change and amended text generally, substituting present provisions for similar provisions relating to regulations, including implementation guidelines for regulations, criteria for determining appropriate charges to programs of Federal financial assistance for cost of audits, and guidelines to ensure that small business concerns and business concerns owned and controlled by socially and economically disadvantaged individuals have opportunity to participate in contracts awarded to fulfill audit requirements of this chapter.
 
 #### Effective Date of 1997 Amendment
 Amendment by Pub. L. 105–135 effective Oct. 1, 1997, see section 3 of Pub. L. 105–135, set out as a note under [section 631 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section631&num=0&edition=prelim), Commerce and Trade.
+
+#### Guidance
+Pub. L. 116–103, § 5(b), Dec. 30, 2019, 133 Stat. 3270, provided that: “Not later than 3 years after the date of enactment of this Act [Dec. 30, 2019], the Director [of the Office of Management and Budget] shall issue guidance requiring audit-related information reported under chapter 75 of title 31, United States Code, to be reported in an electronic form consistent with the data standards established under chapter 64 of that title, as added by section 4(a) of this Act.”
 
 #### Guidelines for Acceptance of Audits by State and Local Governments Receiving Federal Assistance
 Pub. L. 104–201, div. A, title VIII, § 808(c), Sept. 23, 1996, 110 Stat. 2607, provided that: “The Director of the Office of Management and Budget shall issue guidelines to ensure that an audit of indirect costs performed by the Federal Government is accepted by State and local governments that receive Federal funds under contracts, grants, or other Federal assistance programs.”

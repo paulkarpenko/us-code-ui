@@ -1240,7 +1240,7 @@ Pub. L. 106–181, title VII, § 737, Apr. 5, 2000, 114 Stat. 172, provided that
 
 **(e) Written Assurances of Opportunities for Small Business Concerns.—**
 
-(1) The Secretary of Transportation may approve a project grant application under this subchapter for an airport development project only if the Secretary receives written assurances, satisfactory to the Secretary, that the airport owner or operator will take necessary action to ensure, to the maximum extent practicable, that at least 10 percent of all businesses at the airport selling consumer products or providing consumer services to the public are small business concerns (as defined by regulations of the Secretary) owned and controlled by a socially and economically disadvantaged individual (as defined in [section 47113(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section47113/a&num=0&edition=prelim)) or qualified HUBZone small business concerns (as defined in section 3(p) of the Small Business Act).
+(1) The Secretary of Transportation may approve a project grant application under this subchapter for an airport development project only if the Secretary receives written assurances, satisfactory to the Secretary, that the airport owner or operator will take necessary action to ensure, to the maximum extent practicable, that at least 10 percent of all businesses at the airport selling consumer products or providing consumer services to the public are small business concerns (as defined by regulations of the Secretary) owned and controlled by a socially and economically disadvantaged individual (as defined in [section 47113(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section47113/a&num=0&edition=prelim)) or qualified HUBZone small business concerns (as defined in section 31(b) of the Small Business Act).
 
 (2) An airport owner or operator may meet the percentage goal of paragraph (1) of this subsection by including any business operated through a management contract or subcontract. The dollar amount of a management contract or subcontract with a disadvantaged business enterprise shall be added to the total participation by disadvantaged business enterprises in airport concessions and to the base from which the airport’s percentage goal is calculated. The dollar amount of a management contract or subcontract with a non-disadvantaged business enterprise and the gross revenue of business activities to which the management contract or subcontract pertains may not be added to this base.
 
@@ -1250,7 +1250,7 @@ Pub. L. 106–181, title VII, § 737, Apr. 5, 2000, 114 Stat. 172, provided that
 
   (A) In complying with paragraph (1) of this subsection, an airport owner or operator shall include the revenues of car rental firms at the airport in the base from which the percentage goal in paragraph (1) is calculated.
 
-  (B) An airport owner or operator may require a car rental firm to meet a requirement under paragraph (1) of this subsection by purchasing or leasing goods or services from a disadvantaged business enterprise. If an owner or operator requires such a purchase or lease, a car rental firm shall be permitted to meet the requirement by including purchases or leases of vehicles from any vendor that qualifies as a small business concern owned and controlled by a socially and economically disadvantaged individual or as a qualified HUBZone small business concern (as defined in section 3(p) of the Small Business Act).
+  (B) An airport owner or operator may require a car rental firm to meet a requirement under paragraph (1) of this subsection by purchasing or leasing goods or services from a disadvantaged business enterprise. If an owner or operator requires such a purchase or lease, a car rental firm shall be permitted to meet the requirement by including purchases or leases of vehicles from any vendor that qualifies as a small business concern owned and controlled by a socially and economically disadvantaged individual or as a qualified HUBZone small business concern (as defined in section 31(b) of the Small Business Act).
 
   (C) This subsection does not require a car rental firm to change its corporate structure to provide for direct ownership arrangements to meet the requirements of this subsection.
 
@@ -1260,7 +1260,7 @@ Pub. L. 106–181, title VII, § 737, Apr. 5, 2000, 114 Stat. 172, provided that
 
   (B) the authority of a State or local government or airport owner or operator to adopt or enforce a law, regulation, or policy related to disadvantaged business enterprises.
 
-(6) An airport owner or operator may provide opportunities for a small business concern owned and controlled by a socially and economically disadvantaged individual or a qualified HUBZone small business concern (as defined in section 3(p) of the Small Business Act) to participate through direct contractual agreement with that concern.
+(6) An airport owner or operator may provide opportunities for a small business concern owned and controlled by a socially and economically disadvantaged individual or a qualified HUBZone small business concern (as defined in section 31(b) of the Small Business Act) to participate through direct contractual agreement with that concern.
 
 (7) An air carrier that provides passenger or property-carrying services or another business that conducts aeronautical activities at an airport may not be included in the percentage goal of paragraph (1) of this subsection for participation of small business concerns at the airport.
 
@@ -1516,19 +1516,31 @@ Pub. L. 106–181, title VII, § 737, Apr. 5, 2000, 114 Stat. 172, provided that
 
 **(w) Mothers’ Rooms.—**
 
-(1) **In general.—** — In fiscal year 2021 and each fiscal year thereafter, the Secretary of Transportation may approve an application under this subchapter for an airport development project grant only if the Secretary receives written assurances that the airport owner or operator will maintain—
+(1) **In general.—** — The Secretary of Transportation may approve an application under this subchapter for an airport development project grant only if the Secretary receives written assurances that the airport owner or operator will maintain—
 
   (A) a lactation area in the sterile area of each passenger terminal building of the airport; and
 
-  (B) a baby changing table in one men’s and one women’s restroom in each passenger terminal building of the airport.
+  (B) a baby changing table in at least one men’s and at least one women’s restroom in each passenger terminal building of the airport.
 
 (2) **Applicability.—**
 
-  (A) *Airport size.—* — The requirement in paragraph (1) shall only apply to applications submitted by the airport sponsor of a medium or large hub airport.
+  (A) *Airport size.—*
 
-  (B) *Preexisting facilities.—* — On application by an airport sponsor, the Secretary may determine that a lactation area in existence on the date of enactment of this Act complies with the requirement in paragraph (1), notwithstanding the absence of one of the facilities or characteristics referred to in the definition of the term “lactation area” in this subsection.
+    (i) *In general.—* — The requirements in paragraph (1) shall only apply to applications submitted by the airport sponsor of—
 
-  (C) *Special rule.—* — The requirement in paragraph (1) shall not apply with respect to a project grant application for a period of time, determined by the Secretary, if the Secretary determines that construction or maintenance activities make it impracticable or unsafe for the lactation area to be located in the sterile area of the building.
+      (I) a medium or large hub airport in fiscal year 2021 and each fiscal year thereafter; and
+
+      (II) an applicable small hub airport in fiscal year 2023 and each fiscal year thereafter.
+
+    (ii) *Applicable small hub airport defined.—* — In clause (i)(II), the term “applicable small hub airport” means an airport designated as a small hub airport during—
+
+      (I) the 3-year period consisting of 2020, 2021, and 2022; or
+
+      (II) any consecutive 3-year period beginning after 2020.
+
+  (B) *Preexisting facilities.—* — On application by an airport sponsor, the Secretary may determine that a lactation area in existence on October 5, 2018, complies with the requirement in paragraph (1)(A), notwithstanding the absence of one of the facilities or characteristics referred to in the definition of the term “lactation area” in this subsection.
+
+  (C) *Special rule.—* — The requirement in paragraph (1)(A) shall not apply with respect to a project grant application for a period of time, determined by the Secretary, if the Secretary determines that construction or maintenance activities make it impracticable or unsafe for the lactation area to be located in the sterile area of the building.
 
 (3) **Definition.—** — In this section, the term—
 
@@ -1547,9 +1559,6 @@ Pub. L. 106–181, title VII, § 737, Apr. 5, 2000, 114 Stat. 172, provided that
   (B) “sterile area” has the same meaning given that term in section 1540.5 of title 49, Code of Federal Regulations.
 
 ### Statutory Notes
-
-#### Amendment of Subsection (e)
-Pub. L. 115–91, div. A, title XVII, § 1701(a)(4)(G)(i), (j), Dec. 12, 2017, 131 Stat. 1796, 1803, provided that, effective Jan. 1, 2020, this section is amended by striking “section 3(p) of the Small Business Act” wherever appearing and inserting “section 31(b) of the Small Business Act”. See 2017 Amendment note below.
 
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
@@ -1643,7 +1652,7 @@ Section 9502 of the Internal Revenue Code of 1986, referred to in subsec. (c)(4)
 
 The date of enactment of this paragraph, referred to in subsec. (c)(5)(D), is the date of enactment of Pub. L. 112–95, which was approved Feb. 14, 2012.
 
-Section 3(p) of the Small Business Act, referred to in subsec. (e)(1), (4)(B), (6), is classified to [section 632(p) of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section632/p&num=0&edition=prelim), Commerce and Trade.
+Section 31(b) of the Small Business Act, referred to in subsec. (e)(1), (4)(B), (6), is classified to [section 657a(b) of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section657a/b&num=0&edition=prelim), Commerce and Trade.
 
 [Section 101(a) of title 23](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title23-section101/a&num=0&edition=prelim), referred to in subsec. (j)(1)(B), was subsequently amended, and section 101(a) no longer defines “Federal-aid system”.
 
@@ -1653,9 +1662,17 @@ The date of enactment of this paragraph, referred to in subsec. (s)(3), is the d
 
 The date of enactment of this subsection, referred to in subsec. (t)(2)(A), is the date of enactment of Pub. L. 114–238, which was approved Oct. 7, 2016.
 
-The date of enactment of this Act, referred to in subsec. (w)(2)(B), probably means the date of enactment of Pub. L. 115–254, which enacted subsec. (w) and was approved Oct. 5, 2018.
-
 #### Amendments
+2020—Subsec. (w)(1). Pub. L. 116–190, § 2(1), substituted “The Secretary of Transportation” for “In fiscal year 2021 and each fiscal year thereafter, the Secretary of Transportation”.
+
+Subsec. (w)(1)(B). Pub. L. 116–190, § 2(2), substituted “at least one men’s and at least one women’s” for “one men’s and one women’s”.
+
+Subsec. (w)(2)(A). Pub. L. 116–190, § 2(3), added subpar. (A) and struck out former subpar. (A) which read as follows: “The requirement in paragraph (1) shall only apply to applications submitted by the airport sponsor of a medium or large hub airport.”
+
+Subsec. (w)(2)(B). Pub. L. 116–190, § 2(4), substituted “October 5, 2018, complies with the requirement in paragraph (1)(A)” for “the date of enactment of this Act complies with the requirement in paragraph (1)”.
+
+Subsec. (w)(2)(C). Pub. L. 116–190, § 2(5), substituted “paragraph (1)(A)” for “paragraph (1)”.
+
 2018—Subsec. (a)(16)(B). Pub. L. 115–254, § 163(d)(1), added subpar. (B) and struck out former subpar. (B) which read as follows: “the Secretary will approve the plan and any revision or modification before the plan, revision, or modification takes effect;”.
 
 Subsec. (a)(16)(C). Pub. L. 115–254, § 163(d)(2), substituted “unless the alteration—” and cls. (i) and (ii) for “if the alteration does not comply with the plan the Secretary approves, and the Secretary is of the opinion that the alteration may affect adversely the safety, utility, or efficiency of the airport; and”.
@@ -2432,7 +2449,7 @@ Pub. L. 112–95, title I, § 154, Feb. 14, 2012, 126 Stat. 35, which provided t
 
 (2) “socially and economically disadvantaged individual” has the same meaning given that term in section 8(d) of the Act ([15 U.S.C. 637(d)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section637/d&num=0&edition=prelim)) and relevant subcontracting regulations prescribed under section 8(d), except that women are presumed to be socially and economically disadvantaged; and
 
-(3) the term “qualified HUBZone small business concern” has the meaning given that term in section 3(p) of the Small Business Act ([15 U.S.C. 632(p)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section632/p&num=0&edition=prelim)).
+(3) the term “qualified HUBZone small business concern” has the meaning given that term in section 31(b) of the Small Business Act.
 
 **(b) General Requirement.—** Except to the extent the Secretary decides otherwise, at least 10 percent of amounts available in a fiscal year under [section 48103 of this title](./chapter-481-airport-and-airway-trust-fund-authorizations.md#section-48103) shall be expended with small business concerns owned and controlled by socially and economically disadvantaged individuals or qualified HUBZone small business concerns.
 
@@ -2454,9 +2471,6 @@ Pub. L. 112–95, title I, § 154, Feb. 14, 2012, 126 Stat. 35, which provided t
 
 ### Statutory Notes
 
-#### Amendment of Subsection (a)(3)
-Pub. L. 115–91, div. A, title XVII, § 1701(a)(4)(G)(ii), (j), Dec. 12, 2017, 131 Stat. 1796, 1803, provided that, effective Jan. 1, 2020, subsection (a)(3) of this section is amended by striking “section 3(p) of the Small Business Act ([15 U.S.C. 632](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section632&num=0&edition=prelim)(o))” and inserting “section 31(b) of the Small Business Act”. See 2017 Amendment note below.
-
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
 | Pub. L. 103–272 |  |  |
@@ -2476,6 +2490,8 @@ In subsection (b), the words “beginning after September 30, 1987” are omitte
 This amends 49:47113(a)(2) to correct erroneous cross-references.
 
 #### References in Text
+Section 31(b) of the Small Business Act, referred to in subsec. (a)(3), is classified to [section 657a(b) of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section657a/b&num=0&edition=prelim), Commerce and Trade.
+
 The date of enactment of this subsection, referred to in subsec. (e)(1), is the date of enactment of Pub. L. 112–95, which was approved Feb. 14, 2012.
 
 #### Amendments
@@ -2567,6 +2583,14 @@ Pub. L. 112–95, title I, § 140(a), Feb. 14, 2012, 126 Stat. 27, provided that
   (H) *Minimum apportionment for commercial service airports with more than 8,000 passenger boardings in a calendar year.—* — Not less than $600,000 may be apportioned under subparagraph (A) for each fiscal year to each sponsor of a commercial service airport that had fewer than 10,000 passenger boardings, but at least 8,000 passenger boardings, during the prior calendar year.
 
   (I) *Seasonal airports.—* — Notwithstanding section 47102, if the Secretary determines that a commercial service airport with at least 8,000 passenger boardings receives scheduled air carrier service for fewer than 6 months in the calendar year used to calculate apportionments to airport sponsors in a fiscal year, then the Secretary shall consider the airport to be a nonhub primary airport for purposes of this chapter.
+
+  (J) *Special rule for fiscal years 2022 and 2023.—* — Notwithstanding subparagraph (A) and the absence of scheduled passenger aircraft service at an airport, the Secretary shall apportion in fiscal years 2022 and 2023 to the sponsor of the airport an amount based on the number of passenger boardings at the airport during whichever of the following years that would result in the highest apportioned amount:
+
+    (i) Calendar year 2018.
+
+    (ii) Calendar year 2019.
+
+    (iii) The prior full calendar year prior to the current fiscal year.
 
 (2) **Cargo airports.—**
 
@@ -2746,6 +2770,8 @@ In subsection (c)(3)(B), the words “the total of all amounts apportioned under
 Section 15(a) of the Airport and Airway Development Act of 1970, referred to in subsec. (e)(1), is section 15(a) of Pub. L. 91–258, which was classified to section 1715(a) of former Title 49, Transportation, prior to repeal by Pub. L. 97–248, title V, § 523(a), Sept. 3, 1982, 96 Stat. 695.
 
 #### Amendments
+2020—Subsec. (c)(1)(J). Pub. L. 116–260 added subpar. (J).
+
 2018—Subsec. (c)(1)(F) to (H). Pub. L. 115–254, § 151, added subpars. (F) to (H) and struck out former subpar. (F) which related to apportionment of funds for fiscal years 2017 and 2018 to sponsors of primary airports.
 
 Subsec. (c)(1)(I). Pub. L. 115–254, § 164, added subpar. (I).

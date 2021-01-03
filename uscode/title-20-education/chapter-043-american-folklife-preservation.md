@@ -72,7 +72,7 @@ As used in this subchapter—
 
   (C) four members appointed by the Librarian of Congress from among individuals who are widely recognized by virtue of their scholarship, experience, creativity, or interest in American folklife traditions and arts; and
 
-  (D) seven ex officio members including—
+  (D) nine ex officio members including—
 
     (i) the Librarian of Congress;
 
@@ -84,9 +84,13 @@ As used in this subchapter—
 
     (v) the President of the American Folklore Society;
 
-    (vi) the President of the Society for Ethnomusicology; and
+    (vi) the President of the Society for Ethnomusicology;
 
-    (vii) the Director of the Center.
+    (vii) the Director of the Center;
+
+    (viii) the Secretary of Veterans Affairs; and
+
+    (ix) the Director of the Institute of Museum and Library Services.
 
 (2) In making appointments from private life under paragraph (1)(B) and (C), the President pro tempore of the Senate, the Speaker of the House of Representatives, and the Librarian of Congress shall give due consideration to the appointment of individuals who collectively will provide appropriate diversity and regional balance on the Board. Not more than three of the members appointed by the President pro tempore of the Senate or by the Speaker of the House of Representatives may be affiliated with the same political party.
 
@@ -104,16 +108,19 @@ As used in this subchapter—
 
 (3) The Board shall meet at least once each fiscal year.
 
-**(f) Director; appointment and compensation** After consultation with the Board, the Librarian shall appoint the Director of the Center. The basic pay of the Director shall be at an annual rate that is not less than an amount equal to 120 percent of the minimum rate of basic pay payable for GS–15 of the General Schedule nor more than an amount equal to the pay payable under level IV of the Executive Schedule under [section 5315 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5315&num=0&edition=prelim).
+**(f) Director; appointment and compensation** After consultation with the Board, the Librarian shall appoint the Director of the Center. The rate of basic pay of the Director shall be fixed in accordance with [section 5376(b) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5376/b&num=0&edition=prelim).
 
 **(g) Duties of Director** The Director shall be the chief executive officer of the Center. Subject to the direction of the Board and the general supervision of the Librarian, the Director shall have responsibility for carrying out functions of the Center, and shall have authority over all personnel and activities of the Center.
 
 ### Statutory Notes
 
-#### References in Text
-The General Schedule, referred to in subsec. (f), is set out under [section 5332 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5332&num=0&edition=prelim), Government Organization and Employees.
-
 #### Amendments
+2019—Subsec. (b)(1)(D). Pub. L. 116–94, § 1402(1)(A), substituted “nine” for “seven” in introductory provisions.
+
+Subsec. (b)(1)(D)(viii), (ix). Pub. L. 116–94, § 1402(1)(B)–(D), added cls. (viii) and (ix).
+
+Subsec. (f). Pub. L. 116–94, § 1402(2), substituted “The rate of basic pay of the Director shall be fixed in accordance with [section 5376(b) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5376/b&num=0&edition=prelim).” for “The basic pay of the Director shall be at an annual rate that is not less than an amount equal to 120 percent of the minimum rate of basic pay payable for GS–15 of the General Schedule nor more than an amount equal to the pay payable under level IV of the Executive Schedule under [section 5315 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5315&num=0&edition=prelim).”
+
 1998—Subsec. (b). Pub. L. 105–275, § 312(b)(1)(A), added subsec. (b) and struck out former subsec. (b) which read as follows: “The Center shall be under the direction of a Board of Trustees. The Board shall be composed as follows—
 
 “(1) four members appointed by the President from among individuals who are officials of Federal departments and agencies concerned with some aspect of American folklife traditions and arts;

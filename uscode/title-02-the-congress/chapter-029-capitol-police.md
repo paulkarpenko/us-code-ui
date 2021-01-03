@@ -130,7 +130,7 @@ House Resolution No. 661, Ninety-fifth Congress, July 29, 1977, made permanent l
 <a id="section-1902"></a>
 ## § 1902. Compensation of Chief
 
-The annual rate of pay for the Chief of the Capitol Police shall be the amount equal to $1,000 less than the lower of the annual rate of pay in effect for the Sergeant-at-Arms of the House of Representatives or the annual rate of pay in effect for the Sergeant-at-Arms and Doorkeeper of the Senate.
+The annual rate of pay for the Chief of the Capitol Police shall be the amount equal to $1,000 less than the maximum rate of pay in effect under [section 4575(f) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section4575/f&num=0&edition=prelim).
 
 ### Statutory Notes
 
@@ -138,11 +138,16 @@ The annual rate of pay for the Chief of the Capitol Police shall be the amount e
 Section was classified to section 206–1 of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, § 1, Aug. 21, 2002, 116 Stat. 1062.
 
 #### Amendments
+2019—Pub. L. 116–94 substituted “the maximum rate of pay in effect under [section 4575(f) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section4575/f&num=0&edition=prelim).” for “the lower of the annual rate of pay in effect for the Sergeant-at-Arms of the House of Representatives or the annual rate of pay in effect for the Sergeant-at-Arms and Doorkeeper of the Senate.”
+
 2003—Pub. L. 108–7 amended section generally. Prior to amendment, section read as follows: “The Chief of the Capitol Police shall receive compensation at a rate determined by the Capitol Police Board, but not to exceed $2,500 less than the lesser of the annual salary for the Sergeant at Arms of the House of Representatives or the annual salary for the Sergeant at Arms and Doorkeeper of the Senate.”
 
 2002—Pub. L. 107–117 substituted “but not to exceed $2,500 less than the lesser of the annual salary for the Sergeant at Arms of the House of Representatives or the annual salary for the Sergeant at Arms and Doorkeeper of the Senate” for “but not to exceed the rate of basic pay payable for level ES–4 of the Senior Executive Service, as established under subchapter VIII of chapter 53 of title 5 (taking into account any comparability payments made under section 5304(h) of such title)”.
 
 2000—Pub. L. 106–554 substituted “the rate of basic pay payable for level ES–4 of the Senior Executive Service, as established under subchapter VIII of chapter 53 of title 5 (taking into account any comparability payments made under section 5304(h) of such title)” for “the annual rate of basic pay payable for level IV of the Executive Schedule under [section 5315 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5315&num=0&edition=prelim)”.
+
+#### Effective Date of 2019 Amendment
+Amendment by Pub. L. 116–94 effective on the later of the first day of the first applicable pay period beginning on or after Jan. 1, 2020, or the first day of the first applicable pay period beginning on or after Dec. 20, 2019, see section 212(c) of Pub. L. 116–94, set out as a note under [section 282b of this title](./chapter-009-office-of-legislative-counsel.md#section-282b).
 
 #### Effective Date of 2003 Amendment
 Pub. L. 108–7, div. H, title I, § 1013(d), Feb. 20, 2003, 117 Stat. 361, provided that: “The amendments made by this section [amending this section, [section 1903 of this title](./chapter-029-capitol-police.md#section-1903), and provisions set out as a note under [section 1901 of this title](./chapter-029-capitol-police.md#section-1901)] shall apply with respect to the first pay period beginning on or after the date of the enactment of this Act [Feb. 20, 2003].”
@@ -818,7 +823,7 @@ Section was classified to section 206c of former Title 40, prior to the enactmen
 
 (3) **Use of recovered amounts** — Any amount repaid by, or recovered from, an individual under subsection (a)(1) and its implementing regulations shall be credited to the appropriation account available for salaries or general expenses of the Capitol Police at the time of repayment or recovery. Such credited amount may be used for any authorized purpose of the account and shall remain available until expended.
 
-**(c) Limit on amount of payments** The total amount paid by the Capitol Police with respect to any individual under the program under this section may not exceed $40,000.
+**(c) Limit on amount of payments** The total amount paid by the Capitol Police with respect to any individual under the program under this section may not exceed $80,000.
 
 **(d) No review of determinations** Any determination made under the program under this section shall not be reviewable or appealable in any manner.
 
@@ -830,6 +835,10 @@ Section was classified to section 206c of former Title 40, prior to the enactmen
 Section was classified to section 207b–1 of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, § 1, Aug. 21, 2002, 116 Stat. 1062.
 
 #### Amendments
+2020—Subsec. (c). Pub. L. 116–260 substituted “$80,000” for “$60,000”.
+
+2019—Subsec. (c). Pub. L. 116–94 substituted “$60,000” for “$40,000”.
+
 2003—Pub. L. 108–7 amended section generally. Prior to amendment, section consisted of subsecs. (a) to (f) relating to student loan repayment program.
 
 #### Deadline for Regulations

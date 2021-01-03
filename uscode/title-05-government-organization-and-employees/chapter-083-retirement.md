@@ -2,7 +2,7 @@
 title: 5
 chapter: '83'
 heading: RETIREMENT
-section_count: 36
+section_count: 37
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5&num=0&edition=prelim
 ---
@@ -633,7 +633,7 @@ For the purpose of this subchapter—
 
   (A) in the armed forces;
 
-  (B) in the Regular or Reserve Corps of the Public Health Service after June 30, 1960; or
+  (B) in the Regular or Reserve Corps 22 See Change of Name note below. of the Public Health Service after June 30, 1960; or
 
   (C) as a commissioned officer of the Environmental Science Services Administration after June 30, 1961;
   and includes service as a cadet at the United States Military Academy, the United States Air Force Academy, or the United States Coast Guard Academy, or as a midshipman at the United States Naval Academy, but does not include service in the National Guard except when ordered to active duty in the service of the United States or full-time National Guard duty (as such term is defined in [section 101(d) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section101/d&num=0&edition=prelim)) if such service interrupts creditable civilian service under this subchapter and is followed by reemployment in accordance with chapter 43 of title 38 that occurs on or after August 1, 1990;
@@ -717,9 +717,11 @@ For the purpose of this subchapter—
 
   (B) a civilian employee of the Department of Transportation or the Department of Defense who is the immediate supervisor of a person described in section 2109(1)(B);
 
-(31) “customs and border protection officer” means an employee in the Department of Homeland Security (A) who holds a position within the GS–1895 job series (determined applying the criteria in effect as of September 1, 2007) or any successor position, and (B) whose duties include activities relating to the arrival and departure of persons, conveyances, and merchandise at ports of entry, including any such employee who is transferred directly to a supervisory or administrative position in the Department of Homeland Security after performing such duties (as described in subparagraph (B)) in 1 or more positions (as described in subparagraph (A)) for at least 3 years; and
+(31) “customs and border protection officer” means an employee in the Department of Homeland Security (A) who holds a position within the GS–1895 job series (determined applying the criteria in effect as of September 1, 2007) or any successor position, and (B) whose duties include activities relating to the arrival and departure of persons, conveyances, and merchandise at ports of entry, including any such employee who is transferred directly to a supervisory or administrative position in the Department of Homeland Security after performing such duties (as described in subparagraph (B)) in 1 or more positions (as described in subparagraph (A)) for at least 3 years;
 
-(32) “Director” means the Director of the Office of Personnel Management.
+(32) “Director” means the Director of the Office of Personnel Management; and
+
+(33) “representative payee” means a person (including an organization) designated under section 8345(e)(1) to receive payments on behalf of a minor or an individual mentally incompetent or under other legal disability.
 
 ### Statutory Notes
 
@@ -813,6 +815,8 @@ Section 404(d) of the Act of November 6, 1978, referred to in par. (22)(A), is s
 Section 167 of the Federal Courts Improvement Act of 1982, referred to in par. (26), is section 167 of Pub. L. 97–164, which is set out as a note under [section 171 of Title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section171&num=0&edition=prelim).
 
 #### Amendments
+2020—Par. (33). Pub. L. 116–126 added par. (33).
+
 2018—Par. (3)(E)(ii). Pub. L. 115–254 amended cl. (ii) generally. Prior to amendment, cl. (ii) read as follows: “received after September 11, 2001, by a Federal air marshal of the Department of Transportation, subject to all restrictions and earning limitations imposed on criminal investigators under section 5545a;”.
 
 2016—Par. (1)(K). Pub. L. 114–136 substituted “section 5” for “section 4”.
@@ -964,11 +968,16 @@ Pars. (17) to (19). Pub. L. 91–93, § 101, added pars. (17) to (19).
 1966—Par. (3). Pub. L. 89–737 added subpar. (C) and, in the exception set out in provisions following subpar. (C), substituted reference to subpars. (B) and (C) for reference to subpar. (B).
 
 #### Change of Name
+Reference to Reserve Corps of the Public Health Service deemed to be a reference to the Ready Reserve Corps, see [section 402(c)(3) of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section402/c/3&num=0&edition=prelim), The Public Health and Welfare.
+
 Words “magistrate judge” and “United States magistrate judge” substituted for “magistrate” and “United States magistrate”, respectively, in par. (25) pursuant to section 321 of Pub. L. 101–650, set out as a note under [section 631 of Title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section631&num=0&edition=prelim), Judiciary and Judicial Procedure.
 
 Gallaudet College, referred to in par. (1)(H), redesignated Gallaudet University by section 101(a) of Pub. L. 99–371, which is classified to [section 4301(a) of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section4301/a&num=0&edition=prelim), Education.
 
 Commissioned Officer Corps of Environmental Science Services Administration, referred to in par. (13)(C), changed to Commissioned Officer Corps of National Oceanic and Atmospheric Administration, see 1970 Reorg. Plan No. 4, § 4(d), eff. Oct. 3, 1970, 35 F.R. 15627, 84 Stat. 2090, set out in the Appendix to this title.
+
+#### Effective Date of 2020 Amendment
+Pub. L. 116–126, § 4, Mar. 18, 2020, 134 Stat. 177, provided that: “The amendments made by section 2 [enacting sections 8345a and 8466a of this title and amending this section and sections 8345, 8401, and 8466 of this title]— “(1) shall take effect on the date of the enactment of this Act [Mar. 18, 2020]; and “(2) apply on and after the effective date of the regulations promulgated under section 3(b)(1) [set out as a note below].”
 
 #### Effective Date of 2018 Amendment; Applicability
 Pub. L. 115–254, div. K, title I, § 1908(b), Oct. 5, 2018, 132 Stat. 3549, provided that: “(1) In general.—Subject to paragraph (2), this section [amending this section], and the amendments made by this section, shall take effect on the first day of the first pay period commencing on or after the date of enactment of this section [Oct. 5, 2018]. “(2) Retroactive application.—“(A) In general.—Any availability pay received for any pay period commencing before the date of enactment of this Act by a Federal air marshal or criminal investigator employed by the Transportation Security Administration shall be deemed basic pay under [section 8331(3) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section8331/3&num=0&edition=prelim), United States Code, if the Transportation Security Administration treated such pay as retirement-creditable basic pay, but the Office of Personnel Management, based on an interpretation of [section 8331(3) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section8331/3&num=0&edition=prelim), United States Code, did not accept such pay as retirement-creditable basic pay. “(B) Implementation.—Not later than 3 months after the date of enactment of this Act, the Director of the Office of Personnel Management shall commence taking such actions as are necessary to implement the amendments made by this section with respect to availability pay deemed to be basic pay under subparagraph (A).”
@@ -1070,6 +1079,9 @@ Pub. L. 98–615, § 1, Nov. 8, 1984, 98 Stat. 3195, provided: “That this Act 
 
 #### Short Title of 1969 Amendment
 Pub. L. 91–93, § 1, Oct. 20, 1969, 83 Stat. 136, provided: “That this Act [amending this section and sections 1308, 8333, 8334, 8339, 8340, 8341, and 8348 of this title, enacting provisions set out as notes under sections 8334, 8340, 8341, and 8348 of this title, and repealing provisions set out as a note under [section 8339 of this title](./chapter-083-retirement.md#section-8339)] may be cited as the ‘Civil Service Retirement Amendments of 1969’.”
+
+#### Regulations
+Pub. L. 116–126, § 3(b), Mar. 18, 2020, 134 Stat. 177, provided that: “Not later than 1 year after the date of enactment of this Act [Mar. 18, 2020], the Office of Personnel Management— “(1) shall promulgate regulations to carry out the amendments made by section 2 [enacting sections 8345a and 8466a of this title and amending this section and sections 8345, 8401, and 8466 of this title]; and “(2) may promulgate additional regulations relating to the administration of the representative payee program.”
 
 #### Savings Provision
 Pub. L. 92–352, title I, § 105(c), July 13, 1972, 86 Stat. 491, provided that: “The amendments made by such subsection (a) [amending this section] shall not apply in the cases of persons retired or otherwise separated prior to the effective date established under subsection (b) of this section [see Effective Date of 1972 Amendment note above], and the rights of such persons and their survivors shall continue in the same manner and to the same extent as if such amendments had not been enacted.”
@@ -4943,7 +4955,7 @@ If the annuitant is receiving a reduced annuity as provided in section 8339(j) o
 
   (B) If the primary service performed by any limited time appointee employed under this subsection is training or mentoring of employees, the hours of that service shall be included in the hours of service performed for purposes of paragraph (3).
 
-(7) The authority of the head of an agency under this subsection to waive the application of subsection (a) or (b) shall terminate on December 31, 2019.
+(7) The authority of the head of an agency under this subsection to waive the application of subsection (a) or (b) shall terminate on December 31, 2024.
 
 **(m)**
 
@@ -4992,6 +5004,8 @@ Amendment of subsec. (h)(2) by Pub. L. 99–500 and 99–591 is based on provisi
 Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
 
 #### Amendments
+2019—Subsec. (l)(7). Pub. L. 116–92 substituted “December 31, 2024” for “December 31, 2019”.
+
 2014—Subsec. (l)(7). Pub. L. 113–291 substituted “on December 31, 2019” for “5 years after the date of enactment of the National Defense Authorization Act for Fiscal Year 2010”.
 
 2011—Subsec. (l)(2)(B). Pub. L. 111–383 substituted “5211 et seq.” for “5201 et seq.”
@@ -5171,9 +5185,19 @@ Pub. L. 94–252, Mar. 30, 1976, 90 Stat. 294, provided that: “On and after th
 
 **(d)** An individual entitled to annuity from the Fund may decline to accept all or any part of the annuity by a waiver signed and filed with the Office of Personnel Management. The waiver may be revoked in writing at any time. Payment of the annuity waived may not be made for the period during which the waiver was in effect.
 
-**(e)** Payment due a minor, or an individual mentally incompetent or under other legal disability, may be made to the person who is constituted guardian or other fiduciary by the law of the State of residence of the claimant or is otherwise legally vested with the care of the claimant or his estate. If a guardian or other fiduciary of the individual under legal disability has not been appointed under the law of the State of residence of the claimant, payment may be made to any person who, in the judgment of the Office, is responsible for the care of the claimant, and the payment bars recovery by any other person.
+**(e)**
 
-**(f)** Repealed. Pub. L. 99–251, title III, § 305(a), Feb. 27, 1986, 100 Stat. 26.]
+(1) Payment due a minor, or an individual mentally incompetent or under other legal disability, may be made to the person (including an organization) who is constituted guardian or other fiduciary by the law of the State of residence of the claimant or is otherwise legally vested with the care of the claimant or his estate. If a guardian or other fiduciary of the individual under legal disability has not been appointed under the law of the State of residence of the claimant, payment may be made to any person (including an organization) who, in the judgment of the Office, is responsible for the care of the claimant and may appropriately receive such payments on behalf of the claimant, and the payment bars recovery by any other person.
+
+(2) If the Office determines that direct payment of a benefit to an individual mentally incompetent or under other legal disability would cause substantial harm to the individual, the Office may defer or suspend direct payment of the benefit until such time as the appointment of a representative payee is made. The Office shall resume payment as soon as practicable, including all amounts due.
+
+**(f)** The Office may not authorize a person to receive payments on behalf of a minor or individual of legal disability under subsection (e) if that person has been convicted of a violation of—
+
+(1) section 8345a or 8466a;
+
+(2) section 208 or 1632 of the Social Security Act ([42 U.S.C. 408](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section408&num=0&edition=prelim), 1383a); or
+
+(3) [section 6101 of title 38](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section6101&num=0&edition=prelim).
 
 **(g)** The Office shall prescribe regulations to provide that the amount of any monthly annuity payable under this section accruing for any month and which is computed with regard to service that includes any service referred to in section 8332(b)(6) performed by an individual prior to January 1, 1969, shall be reduced by the portion of any benefits under any State retirement system to which such individual is entitled (or on proper application would be entitled) for such month which is attributable to such service performed by such individual before such date.
 
@@ -5236,6 +5260,10 @@ Standard changes are made to conform with the definitions applicable and the sty
 Section 408(a)(3) of the Foreign Service Act of 1980, referred to in subsec. (l), is classified to [section 3968(a)(3) of Title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section3968/a/3&num=0&edition=prelim), Foreign Relations and Intercourse.
 
 #### Amendments
+2020—Subsec. (e). Pub. L. 116–126, § 2(c)(1), designated existing provisions as par. (1), inserted “(including an organization)” after “to the person” and after “to any person”, inserted “and may appropriately receive such payments on behalf of the claimant” after “care of the claimant”, and added par. (2).
+
+Subsec. (f). Pub. L. 116–126, § 2(d)(1), added subsec. (f).
+
 1994—Subsec. (j)(1). Pub. L. 103–358, § 2(a)(1), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “Payments under this subchapter which would otherwise be made to an employee, Member, or annuitant based upon his service shall be paid (in whole or in part) by the Office to another person if and to the extent expressly provided for in the terms of any court decree of divorce, annulment, or legal separation, or the terms of any court order or court-approved property settlement agreement incident to any court decree of divorce, annulment, or legal separation. Any payment under this paragraph to a person bars recovery by any other person.”
 
 Subsec. (j)(2). Pub. L. 103–358, § 2(a)(2), inserted “other legal process,” after “order,”.
@@ -5282,6 +5310,9 @@ Subsec. (h). Pub. L. 94–183 added subsec. (h).
 
 1974—Subsec. (f). Pub. L. 93–273 added subsec. (f).
 
+#### Effective Date of 2020 Amendment
+Amendment by Pub. L. 116–126 effective on Mar. 18, 2020, and applicable on and after the effective date of regulations promulgated under section 3(b)(1) of Pub. L. 116–126, see sections 4 and 3(b) of Pub. L. 116–126, set out respectively as an Effective Date of 2020 Amendment note and a Regulations note under [section 8331 of this title](./chapter-083-retirement.md#section-8331).
+
 #### Effective Date of 1994 Amendment
 Section 3 of Pub. L. 103–358 provided that: “The amendments made by this Act [amending this section and sections 8437 and 8467 of this title] shall take effect on the date of enactment of this Act [Oct. 14, 1994], and shall apply with respect to any decree, order, or other legal process, or notice of agreement received by the Office of Personnel Management or the Executive Director of the Federal Retirement Thrift Investment Board on or after such date of enactment.”
 
@@ -5307,6 +5338,9 @@ Amendment by Pub. L. 94–126 effective as of Jan. 1, 1969, applicable to a pers
 #### Effective Date of 1974 Amendment
 Section 3 of Pub. L. 93–273 provided that: “This Act [amending this section and enacting provisions set out as notes under this section and sections 8339 and 8341 of this title] shall become effective on the date of enactment [Apr. 26, 1974]. Annuity increases under this Act shall apply to annuities which commence before, on, or after the date of enactment of this Act, but no increase in annuity shall be paid for any period prior to the first day of the first month which begins on or after the ninetieth day after the date of enactment of this Act, or the date on which the annuity commences, whichever is later.”
 
+#### Regulations
+Regulations to carry out amendment by Pub. L. 116–126 to be promulgated by Office of Personnel Management no later than 1 year after Mar. 18, 2020, with allowance for additional regulations relating to administration of representative payee program, see section 3(b) of Pub. L. 116–126, set out as a note under [section 8331 of this title](./chapter-083-retirement.md#section-8331).
+
 #### Minimum Annuity Under Civil Service Retirement and Disability System
 Section 305(b)–(d) of Pub. L. 99–251 provided that: “(b) Savings Provision.—An annuity payable from the Civil Service Retirement and Disability Fund as of the day before the date of enactment of this Act [Feb. 27, 1986] shall not be reduced—“(1) by reason of the repeal of [section 8345(f) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section8345/f&num=0&edition=prelim), United States Code; or “(2) if or to the extent that the reduction is to be made for the purpose of eliminating an overpayment resulting from the manner in which such section 8345(f) has been administered by the Office of Personnel Management. “(c) Ratification of Erroneous Payments.—Any individual to whom an overpayment of an annuity has been made from the Civil Service Retirement and Disability Fund before the date of enactment of this Act [Feb. 27, 1986] shall be deemed to have been entitled to that overpayment if and to the extent that such overpayment resulted from the manner in which the Office of Personnel Management has administered [section 8345(f) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section8345/f&num=0&edition=prelim), United States Code. “(d) Adjustments of Certain Reductions.—(1) Effective for any month after the date of enactment of this Act [Feb. 27, 1986], the amount of any annuity which—“(A) is payable from the Civil Service Retirement and Disability Fund; and “(B) was reduced after June 30, 1985, and before the date of enactment of this Act, to eliminate any overpayment resulting from the manner in which the Office of Personnel Management administered [section 8345(f) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section8345/f&num=0&edition=prelim), United States Code, shall not be less than the amount which would have been payable as of such date of enactment if the reduction described in clause (B) had not been made. “(2)(A) The Office shall make a lump-sum payment to each individual receiving an annuity to which paragraph (1) applies. “(B) The lump-sum payment made to any individual under this paragraph shall be equal to the excess of—“(i) the total amount of the annuity payments which would have been made to the individual for the period beginning with the first month in which the reduction described in paragraph (1)(B) was made and ending on the last day of the month in which this Act is enacted if the reduction had not been made, over “(ii) the total amount of the annuity payments which have been paid to such individual for that period.”
 
@@ -5315,6 +5349,33 @@ Section 1705(c) of Pub. L. 97–35 provided that: “The Civil Service Retiremen
 
 #### Monthly Rate of Minimum Annuity
 Section 2(c) of Pub. L. 93–273 provided that: “The monthly rate of an annuity resulting from an increase under this section [enacting provisions set out as notes under sections 8339 and 8341 of this title] shall be considered as the monthly rate of annuity payable under [section 8345(a) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section8345/a&num=0&edition=prelim), United States Code [subsec. (a) of this section], for purposes of computing the minimum annuity under [section 8345(f) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section8345/f&num=0&edition=prelim) [subsec. (f) of this section], as added by the first section of this Act.”
+
+
+<a id="section-8345a"></a>
+## § 8345a. Embezzlement or conversion of payments
+**(a) Embezzling and Conversion Generally.—**
+
+(1) **In general.—** — It shall be unlawful for a representative payee to embezzle or in any manner convert all or any part of the amounts received from payments received as a representative payee to a use other than for the use and benefit of the minor or individual on whose behalf such payments were received.
+
+(2) **Revocation.—** — If the Office determines that a representative payee has embezzled or converted payments as described in paragraph (1), the Office shall promptly—
+
+  (A) revoke the certification for payment of benefits to the representative payee; and
+
+  (B) certify payment—
+
+    (i) to another representative payee; or
+
+    (ii) if the interest of the individual under this title would be served thereby, to the individual.
+
+**(b) Penalty.—** Any person who violates subsection (a)(1) shall be fined under title 18, imprisoned for not more than 5 years, or both.
+
+### Statutory Notes
+
+#### Effective Date
+Section effective on Mar. 18, 2020, and applicable on and after the effective date of regulations promulgated under section 3(b)(1) of Pub. L. 116–126, see sections 4 and 3(b) of Pub. L. 116–126, set out respectively as an Effective Date of 2020 Amendment note and a Regulations note under [section 8331 of this title](./chapter-083-retirement.md#section-8331).
+
+#### Regulations
+Regulations to carry out this section to be promulgated by Office of Personnel Management no later than 1 year after Mar. 18, 2020, with allowance for additional regulations relating to administration of representative payee program, see section 3(b) of Pub. L. 116–126, set out as a note under [section 8331 of this title](./chapter-083-retirement.md#section-8331).
 
 
 <a id="section-8346"></a>
@@ -5577,7 +5638,7 @@ For provisions relating to the deductions and contributions required with respec
 
   (A) benefits as provided by this subchapter or by the provisions of chapter 84 of this title which relate to benefits payable out of the Fund; and
 
-  (B) administrative expenses incurred by the Office of Personnel Management in placing in effect each annuity adjustment granted under section 8340 or 8462 of this title, in administering survivor annuities and elections providing therefor under sections 8339 and 8341 of this title or subchapters II and IV of chapter 84 of this title, in administering alternative forms of annuities under sections 8343a and 8420a (and related provisions of law), in making an allotment or assignment made by an individual under section 8345(h) or 8465(b) of this title, and in withholding taxes pursuant to [section 3405 of title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section3405&num=0&edition=prelim) or section 8345(k) or 8469 of this title;
+  (B) administrative expenses incurred by the Office of Personnel Management in placing in effect each annuity adjustment granted under section 8340 or 8462 of this title, in administering survivor annuities and elections providing therefor under sections 8339 and 8341 of this title or subchapters II and IV of chapter 84 of this title, in administering alternative forms of annuities under sections 8343a and 8420a (and related provisions of law), in making an allotment or assignment made by an individual under section 8345(h) or 8465(b) of this title, in administering fraud prevention under sections 8345, 8345a, 8466, and 8466a of this title, and in withholding taxes pursuant to [section 3405 of title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section3405&num=0&edition=prelim) or section 8345(k) or 8469 of this title;
 
 (2) is made available, subject to such annual limitation as the Congress may prescribe, for any expenses incurred by the Office in connection with the administration of this chapter, chapter 84 of this title, and other retirement and annuity statutes; and
 
@@ -5705,6 +5766,8 @@ Sections 1231(b) and 1243(a)(1) of the Panama Canal Act of 1979 [Pub. L. 96–70
 Section 3506 of the Panama Canal Commission Authorization Act for Fiscal Year 1991 [Pub. L. 101–510, div. C, title XXXV], referred to in subsec. (i)(1), amended sections 8336, 8339, and 8348 of this title.
 
 #### Amendments
+2020—Subsec. (a)(1)(B). Pub. L. 116–126 inserted “in administering fraud prevention under sections 8345, 8345a, 8466, and 8466a of this title,” after “8465(b) of this title,”.
+
 2006—Subsec. (h). Pub. L. 109–435 amended subsec. (h) generally. Prior to amendment, subsec. (h) related to postal supplemental liability.
 
 2003—Subsec. (h). Pub. L. 108–18, § 2(c), amended subsec. (h) generally. Prior to amendment, subsec. (h) read as follows:

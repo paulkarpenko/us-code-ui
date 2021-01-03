@@ -337,11 +337,11 @@ Pub. L. 108–458, title VI, § 6603(g), Dec. 17, 2004, 118 Stat. 3764, which pr
 #### Transfer of Functions
 For transfer of the functions, personnel, assets, and obligations of the United States Secret Service, including the functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 381, 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).
 
-#### Territorial Sea of United States
-For extension of territorial sea of United States, see Proc. No. 5928, set out as a note under [section 1331 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1331&num=0&edition=prelim), Public Lands.
-
 #### Disclaimer
 Pub. L. 114–23, title VIII, § 811(c), June 2, 2015, 129 Stat. 311, provided that: “Nothing contained in this section [enacting [section 2332i of this title](./chapter-113b-terrorism.md#section-2332i) and amending this section] is intended to affect the applicability of any other Federal or State law that might pertain to the underlying conduct.”
+
+#### Territorial Sea of United States
+For extension of territorial sea of United States, see Proc. No. 5928, set out as a note under [section 1331 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1331&num=0&edition=prelim), Public Lands.
 
 
 <a id="section-2332c"></a>
@@ -724,6 +724,9 @@ Section applicable to any pending case or any cause of action arising on or afte
 #### Severability
 Pub. L. 114–222, § 6, Sept. 28, 2016, 130 Stat. 855, provided that: “If any provision of this Act [enacting [section 1605B of Title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section1605B&num=0&edition=prelim), Judiciary and Judicial Procedure, amending this section and [section 1605 of Title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section1605&num=0&edition=prelim), and enacting provisions set out as notes under this section, [section 1 of this title](./chapter-001-general-provisions.md#section-1), and [section 1605B of Title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section1605B&num=0&edition=prelim)] or any amendment made by this Act, or the application of a provision or amendment to any person or circumstance, is held to be invalid, the remainder of this Act and the amendments made by this Act, and the application of the provisions and amendments to any other person not similarly situated or to other circumstances, shall not be affected by the holding.”
 
+#### Promoting Security and Justice for Victims of Terrorism
+Pub. L. 116–94, div. J, title IX, § 903, Dec. 20, 2019, 133 Stat. 3082, provided that: “(a) Short Title.—This section may be cited as the [‘]Promoting Security and Justice for Victims of Terrorism Act of 2019[’]. “(b) Facilitation of the Settlement of Terrorism-related Claims of Nationals of the United States.—“(1) Comprehensive process to facilitate the resolution of anti-terrorism act claims.—The Secretary of State, in consultation with the Attorney General, shall, not later than 30 days after the date of enactment of this Act [Dec. 20, 2019], develop and initiate a comprehensive process for the Department of State to facilitate the resolution and settlement of covered claims. “(2) Elements of comprehensive process.—The comprehensive process developed under paragraph (1) shall include, at a minimum, the following:“(A) Not later than 45 days after the date of enactment of this Act, the Department of State shall publish a notice in the Federal Register identifying the method by which a national of the United States, or a representative of a national of the United States, who has a covered claim, may contact the Department of State to give notice of the covered claim. “(B) Not later than 120 days after the date of enactment of this Act, the Secretary of State, or a designee of the Secretary, shall meet (and make every effort to continue to meet on a regular basis thereafter) with any national of the United States, or a representative of a national of the United States, who has a covered claim and has informed the Department of State of the covered claim using the method established pursuant to subparagraph (A) to discuss the status of the covered claim, including the status of any settlement discussions with the Palestinian Authority or the Palestine Liberation Organization. “(C) Not later than 180 days after the date of enactment of this Act, the Secretary of State, or a designee of the Secretary, shall make every effort to meet (and make every effort to continue to meet on a regular basis thereafter) with representatives of the Palestinian Authority and the Palestine Liberation Organization to discuss the covered claims identified pursuant to subparagraph (A) and potential settlement of the covered claims. “(3) Report to congress.—The Secretary of State shall, not later than 240 days after the date of enactment of this Act, and annually thereafter for 5 years, submit to the Committee on the Judiciary and the Committee on Foreign Relations of the Senate and the Committee on the Judiciary and the Committee on Foreign Affairs of the House of Representatives a report describing activities that the Department of State has undertaken to comply with this subsection, including specific updates regarding subparagraphs (B) and (C) of paragraph (2). “(4) Sense of congress.—It is the sense of Congress that—“(A) covered claims should be resolved in a manner that provides just compensation to the victims; “(B) covered claims should be resolved and settled in favor of the victim to the fullest extent possible and without subjecting victims to unnecessary or protracted litigation; “(C) the United States Government should take all practicable steps to facilitate the resolution and settlement of all covered claims, including engaging directly with the victims or their representatives and the Palestinian Authority and the Palestine Liberation Organization; and “(D) the United States Government should strongly urge the Palestinian Authority and the Palestine Liberation Organization to commit to good-faith negotiations to resolve and settle all covered claims. “(5) Definition.—In this subsection, the term ‘covered claim’ means any pending action by, or final judgment in favor of, a national of the United States, or any action by a national of the United States dismissed for lack of personal jurisdiction, under [section 2333 of title 18](./chapter-113b-terrorism.md#section-2333), United States Code, against the Palestinian Authority or the Palestine Liberation Organization. “(c) Jurisdictional Amendments to Facilitate Resolution of Terrorism-related Claims of Nationals of the United States.—“(1) In general.— [Amended [section 2334 of this title](./chapter-113b-terrorism.md#section-2334).] “(2) Prior consent not abrogated.—The amendments made by this subsection shall not abrogate any consent deemed to have been given under [section 2334(e) of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section2334/e&num=0&edition=prelim), United States Code, as in effect on the day before the date of enactment of this Act [Dec. 20, 2019]. “(d) Rules of Construction; Applicability; Severability.—“(1) Rules of construction.—“(A) In general.—This section, and the amendments made by this section, should be liberally construed to carry out the purposes of Congress to provide relief for victims of terrorism. “(B) Cases against other persons.—Nothing in this section may be construed to affect any law or authority, as in effect on the day before the date of enactment of this Act, relating to a case brought under [section 2333(a) of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section2333/a&num=0&edition=prelim), United States Code, against a person who is not a defendant, as defined in paragraph (5) of [section 2334(e) of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section2334/e&num=0&edition=prelim), United States Code, as added by subsection (c)(1) of this section. “(2) Applicability.—This section, and the amendments made by this section, shall apply to any case pending on or after August 30, 2016. “(3) Severability.—If any provision of this section, an amendment made by this section, or the application of such provision or amendment to any person or circumstance is held to be unconstitutional, the remainder of this section, the amendments made by this section, and the application of such provisions to any person or circumstance shall not be affected thereby.”
+
 #### Findings and Purpose
 Pub. L. 114–222, § 2, Sept. 28, 2016, 130 Stat. 852, provided that: “(a) Findings.—Congress finds the following:“(1) International terrorism is a serious and deadly problem that threatens the vital interests of the United States. “(2) International terrorism affects the interstate and foreign commerce of the United States by harming international trade and market stability, and limiting international travel by United States citizens as well as foreign visitors to the United States. “(3) Some foreign terrorist organizations, acting through affiliated groups or individuals, raise significant funds outside of the United States for conduct directed and targeted at the United States. “(4) It is necessary to recognize the substantive causes of action for aiding and abetting and conspiracy liability under chapter 113B of title 18, United States Code. “(5) The decision of the United States Court of Appeals for the District of Columbia in Halberstam v. Welch, 705 F.2d 472 (D.C. Cir. 1983), which has been widely recognized as the leading case regarding Federal civil aiding and abetting and conspiracy liability, including by the Supreme Court of the United States, provides the proper legal framework for how such liability should function in the context of chapter 113B of title 18, United States Code. “(6) Persons, entities, or countries that knowingly or recklessly contribute material support or resources, directly or indirectly, to persons or organizations that pose a significant risk of committing acts of terrorism that threaten the security of nationals of the United States or the national security, foreign policy, or economy of the United States, necessarily direct their conduct at the United States, and should reasonably anticipate being brought to court in the United States to answer for such activities. “(7) The United States has a vital interest in providing persons and entities injured as a result of terrorist attacks committed within the United States with full access to the court system in order to pursue civil claims against persons, entities, or countries that have knowingly or recklessly provided material support or resources, directly or indirectly, to the persons or organizations responsible for their injuries. “(b) Purpose.—The purpose of this Act [enacting [section 1605B of Title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section1605B&num=0&edition=prelim), Judiciary and Judicial Procedure, amending this section and [section 1605 of Title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section1605&num=0&edition=prelim), and enacting provisions set out as notes under this section, [section 1 of this title](./chapter-001-general-provisions.md#section-1), and [section 1605B of Title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section1605B&num=0&edition=prelim)] is to provide civil litigants with the broadest possible basis, consistent with the Constitution of the United States, to seek relief against persons, entities, and foreign countries, wherever acting and wherever they may be found, that have provided material support, directly or indirectly, to foreign organizations or persons that engage in terrorist activities against the United States.”
 
@@ -754,31 +757,88 @@ Pub. L. 112–239, div. A, title XII, § 1251(c), Jan. 2, 2013, 126 Stat. 2017, 
 
 (1) **In general.—** — Except as provided in paragraph (2), for purposes of any civil action under [section 2333 of this title](./chapter-113b-terrorism.md#section-2333), a defendant shall be deemed to have consented to personal jurisdiction in such civil action if, regardless of the date of the occurrence of the act of international terrorism upon which such civil action was filed, the defendant—
 
-  (A) after the date that is 120 days after the date of enactment of this subsection, accepts—
+  (A) after the date that is 120 days after the date of the enactment of the Promoting Security and Justice for Victims of Terrorism Act of 2019, makes any payment, directly or indirectly—
 
-    (i) any form of assistance, however provided, under chapter 4 of part II of the Foreign Assistance Act of 1961 ([22 U.S.C. 2346](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2346&num=0&edition=prelim) et seq.);
+    (i) to any payee designated by any individual who, after being fairly tried or pleading guilty, has been imprisoned for committing any act of terrorism that injured or killed a national of the United States, if such payment is made by reason of such imprisonment; or
 
-    (ii) any form of assistance, however provided, under section 481 of the Foreign Assistance Act of 1961 ([22 U.S.C. 2291](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2291&num=0&edition=prelim)) for international narcotics control and law enforcement; or
+    (ii) to any family member of any individual, following such individual’s death while committing an act of terrorism that injured or killed a national of the United States, if such payment is made by reason of the death of such individual; or
 
-    (iii) any form of assistance, however provided, under chapter 9 of part II of the Foreign Assistance Act of 1961 ([22 U.S.C. 2349bb](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2349bb&num=0&edition=prelim) et seq.); or
+  (B) after 15 days after the date of enactment of the Promoting Security and Justice for Victims of Terrorism Act of 2019—
 
-  (B) in the case of a defendant benefiting from a waiver or suspension of section 1003 of the Anti-Terrorism Act of 1987 ([22 U.S.C. 5202](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section5202&num=0&edition=prelim)) after the date that is 120 days after the date of enactment of this subsection—
+    (i) continues to maintain any office, headquarters, premises, or other facilities or establishments in the United States;
 
-    (i) continues to maintain any office, headquarters, premises, or other facilities or establishments within the jurisdiction of the United States; or
+    (ii) establishes or procures any office, headquarters, premises, or other facilities or establishments in the United States; or
 
-    (ii) establishes or procures any office, headquarters, premises, or other facilities or establishments within the jurisdiction of the United States.
+    (iii) conducts any activity while physically present in the United States on behalf of the Palestine Liberation Organization or the Palestinian Authority.
 
-(2) **Applicability.—** — Paragraph (1) shall not apply to any defendant who ceases to engage in the conduct described in paragraphs (1)(A) and (1)(B) for 5 consecutive calendar years.
+(2) **Applicability.—** — Paragraph (1) shall not apply to any defendant who ceases to engage in the conduct described in paragraphs (1)(A) and (1)(B) for 5 consecutive calendar years. Except with respect to payments described in paragraph (1)(A), no court may consider the receipt of any assistance by a nongovernmental organization, whether direct or indirect, as a basis for consent to jurisdiction by a defendant.
+
+(3) **Exception for certain activities and locations.—** — In determining whether a defendant shall be deemed to have consented to personal jurisdiction under paragraph (1)(B), no court may consider—
+
+  (A) any office, headquarters, premises, or other facility or establishment used exclusively for the purpose of conducting official business of the United Nations;
+
+  (B) any activity undertaken exclusively for the purpose of conducting official business of the United Nations;
+
+  (C) any activity involving officials of the United States that the Secretary of State determines is in the national interest of the United States if the Secretary reports to the appropriate congressional committees annually on the use of the authority under this subparagraph;
+
+  (D) any activity undertaken exclusively for the purpose of meetings with officials of the United States or other foreign governments, or participation in training and related activities funded or arranged by the United States Government;
+
+  (E) any activity related to legal representation—
+
+    (i) for matters related to activities described in this paragraph;
+
+    (ii) for the purpose of adjudicating or resolving claims filed in courts of the United States; or
+
+    (iii) to comply with this subsection; or
+
+  (F) any personal or official activities conducted ancillary to activities listed under this paragraph.
+
+(4) **Rule of construction.—** — Notwithstanding any other law (including any treaty), any office, headquarters, premises, or other facility or establishment within the territory of the United States that is not specifically exempted by paragraph (3)(A) shall be considered to be in the United States for purposes of paragraph (1)(B).
+
+(5) **Defined term.—** — In this subsection, the term “defendant” means—
+
+  (A) the Palestinian Authority;
+
+  (B) the Palestine Liberation Organization;
+
+  (C) any organization or other entity that is a successor to or affiliated with the Palestinian Authority or the Palestine Liberation Organization; or
+
+  (D) any organization or other entity that—
+
+    (i) is identified in subparagraph (A), (B), or (C); and
+
+    (ii) self identifies as, holds itself out to be, or carries out conduct in the name of, the “State of Palestine” or “Palestine” in connection with official business of the United Nations.
 
 ### Statutory Notes
 
 #### References in Text
-The date of enactment of this subsection, referred to in subsec. (e)(1)(A), (B), is the date of enactment of Pub. L. 115–253, which was approved Oct. 3, 2018.
-
-The Foreign Assistance Act of 1961, referred to in subsec. (e)(1)(A), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424. Chapter 4 of part II of the Act is classified generally to part IV (§ 2346 et seq.) of subchapter II of chapter 32 of Title 22, Foreign Relations and Intercourse. Chapter 9 of part II of the Act is classified generally to part IX (§ 2349bb et seq.) of subchapter II of chapter 32 of Title 22. For complete classification of this Act to the Code, see Short Title note set out under [section 2151 of Title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2151&num=0&edition=prelim) and Tables.
+The date of the enactment of the Promoting Security and Justice for Victims of Terrorism Act of 2019, referred to in subsec. (e)(1)(A), (B), is the date of enactment of section 903 of div. J of Pub. L. 116–94, which was approved Dec. 20, 2019.
 
 #### Amendments
+2019—Subsec. (e)(1). Pub. L. 116–94, § 903(c)(1)(A), added par. (1) and struck out former par. (1). Prior to amendment, text read as follows: “Except as provided in paragraph (2), for purposes of any civil action under [section 2333 of this title](./chapter-113b-terrorism.md#section-2333), a defendant shall be deemed to have consented to personal jurisdiction in such civil action if, regardless of the date of the occurrence of the act of international terrorism upon which such civil action was filed, the defendant—
+
+“(A) after the date that is 120 days after the date of enactment of this subsection, accepts—
+
+“(i) any form of assistance, however provided, under chapter 4 of part II of the Foreign Assistance Act of 1961 ([22 U.S.C. 2346](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2346&num=0&edition=prelim) et seq.);
+
+“(ii) any form of assistance, however provided, under section 481 of the Foreign Assistance Act of 1961 ([22 U.S.C. 2291](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2291&num=0&edition=prelim)) for international narcotics control and law enforcement; or
+
+“(iii) any form of assistance, however provided, under chapter 9 of part II of the Foreign Assistance Act of 1961 ([22 U.S.C. 2349bb](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2349bb&num=0&edition=prelim) et seq.); or
+
+“(B) in the case of a defendant benefiting from a waiver or suspension of section 1003 of the Anti-Terrorism Act of 1987 ([22 U.S.C. 5202](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section5202&num=0&edition=prelim)) after the date that is 120 days after the date of enactment of this subsection—
+
+“(i) continues to maintain any office, headquarters, premises, or other facilities or establishments within the jurisdiction of the United States; or
+
+“(ii) establishes or procures any office, headquarters, premises, or other facilities or establishments within the jurisdiction of the United States.”
+
+Subsec. (e)(2). Pub. L. 116–94, § 903(c)(1)(B), inserted at end “Except with respect to payments described in paragraph (1)(A), no court may consider the receipt of any assistance by a nongovernmental organization, whether direct or indirect, as a basis for consent to jurisdiction by a defendant.”
+
+Subsec. (e)(3) to (5). Pub. L. 116–94, § 903(c)(1)(C), added pars. (3) to (5).
+
 2018—Subsec. (e). Pub. L. 115–253 added subsec. (e).
+
+#### Effective Date of 2019 Amendment; Abrogation; Construction; Severability
+Amendment by Pub. L. 116–94 applicable to any case pending on or after Aug. 30, 2016, with additional rules of construction and abrogation and severability provisions, see section 903(c)(2) and (d) of Pub. L. 116–94, set out in a note under [section 2333 of this title](./chapter-113b-terrorism.md#section-2333).
 
 #### Effective Date of 2018 Amendment
 Pub. L. 115–253, § 4(b), Oct. 3, 2018, 132 Stat. 3185, provided that: “The amendments made by this section [amending this section] shall take effect on the date of enactment of this Act [Oct. 3, 2018].”

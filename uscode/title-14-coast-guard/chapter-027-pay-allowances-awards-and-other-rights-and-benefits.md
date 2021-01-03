@@ -2,14 +2,14 @@
 title: 14
 chapter: '27'
 heading: 'PAY, ALLOWANCES, AWARDS, AND OTHER RIGHTS AND BENEFITS'
-section_count: 49
+section_count: 50
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14&num=0&edition=prelim
 ---
 <a id="section-2701"></a>
 ## § 2701. Procurement of personnel
 
-The Coast Guard may expend operating expense funds for recruiting activities, including but not limited to advertising and entertainment, in order to—
+The Coast Guard may expend operations and support funds for recruiting activities, including advertising and entertainment, to—
 
 (1) obtain recruits for the Service and cadet applicants; and
 
@@ -26,6 +26,8 @@ Changes were made in phraseology. 81st Congress, House Report No. 557.
 A prior section 2701 was renumbered [section 4901 of this title](./chapter-049-authorizations.md#section-4901).
 
 #### Amendments
+2021—Pub. L. 116–283, in introductory provisions, substituted “operations and support” for “operating expense” and struck out “but not limited to” after “including” and “in order” after “entertainment,”.
+
 2018—Pub. L. 115–282 renumbered [section 468 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section468&num=0&edition=prelim) as this section.
 
 1996—Pub. L. 104–324 amended text generally. Prior to amendment, text read as follows: “The Coast Guard may make expenditures as necessary in order to obtain recruits for the service and cadet applicants, including advertising.”
@@ -133,9 +135,6 @@ Changes were made in phraseology. 81st Congress, House Report No. 557.
 
 1984—Subsecs. (a), (b). Pub. L. 98–557 substituted reference to member for reference to commissioned officer, warrant officer, and enlisted man.
 
-#### Wearing of Uniform Authorized by President
-Act June 21, 1930, ch. 563, § 2, 46 Stat. 793, upon which subsec. (a) of this section was based, was amended by act July 6, 1953, ch. 180, § 2, 67 Stat. 140, to substitute “Authorized by regulations of the President” for “of ceremony”.
-
 
 <a id="section-2707"></a>
 ## § 2707. Protection of uniform
@@ -184,7 +183,7 @@ Amendment by Pub. L. 87–649 effective Nov. 1, 1962, see section 15 of Pub. L. 
 <a id="section-2709"></a>
 ## § 2709. Procurement and sale of stores to members and civilian employees
 
-Such stores as the Secretary may designate may be procured and sold to members of the Coast Guard, and to the surviving spouses of such members. Such designated stores may also be procured and sold to civilian officers and employees of the United States, and to such other persons as may be specifically authorized by the Secretary, at Coast Guard stations and other units beyond the continental limits of the United States or in Alaska.
+Such stores as the Secretary may designate may be procured and sold to members of the Coast Guard, and to the surviving spouses of such members. Such designated stores may also be procured and sold to civilian officers and employees of the United States, and to such other individuals as may be specifically authorized by the Secretary, at Coast Guard stations and other units beyond the continental limits of the United States or in Alaska.
 
 ### Statutory Notes
 
@@ -196,6 +195,8 @@ Said section granted authority for the Secretary of the Navy to sell designated 
 Said section would in no way be affected. 81st Congress, House Report No. 557.
 
 #### Amendments
+2021—Pub. L. 116–283 substituted “individuals” for “persons”.
+
 2018—Pub. L. 115–282 renumbered [section 487 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section487&num=0&edition=prelim) as this section.
 
 1984—Pub. L. 98–557 in section catchline substituted “members” for “officers, enlisted men,” and in text substituted “surviving spouses” for “widows” and “members” for “officers and enlisted men” in two places.
@@ -204,7 +205,7 @@ Said section would in no way be affected. 81st Congress, House Report No. 557.
 <a id="section-2710"></a>
 ## § 2710. Disposition of effects of decedents
 
-All moneys, articles of value, papers, keepsakes, and other similar effects belonging to the deceased persons in the Coast Guard, not claimed by their legal heirs or next of kin, shall be deposited in safe custody, and if any such moneys, articles of value, papers, keepsakes, or other similar effects so deposited have been, or shall hereafter be, unclaimed for a period of two years from the date of the death of such person, such articles and effects shall be sold and the proceeds thereof, together with the moneys above mentioned, shall be deposited in the Treasury as miscellaneous receipts. The Secretary shall make diligent inquiry in every instance after the death of such person to ascertain the whereabouts of his heirs or next of kin, and prescribe necessary regulations to carry out the foregoing provisions. Claims may be presented hereunder at any time within five years after such moneys or proceeds have been so deposited in the Treasury, and, when supported by competent proof in any case after such deposit in the Treasury, shall be certified to Congress for consideration.
+All moneys, articles of value, papers, keepsakes, and other similar effects belonging to the deceased individuals in the Coast Guard, not claimed by their legal heirs or next of kin, shall be deposited in safe custody, and if any such moneys, articles of value, papers, keepsakes, or other similar effects so deposited have been, or shall hereafter be, unclaimed for a period of two years from the date of the death of such individual, such articles and effects shall be sold and the proceeds thereof, together with the moneys above mentioned, shall be deposited in the Treasury as miscellaneous receipts. The Secretary shall make diligent inquiry in every instance after the death of such individual to ascertain the whereabouts of his heirs or next of kin, and prescribe necessary regulations to carry out the foregoing provisions. Claims may be presented hereunder at any time within five years after such moneys or proceeds have been so deposited in the Treasury, and, when supported by competent proof in any case after such deposit in the Treasury, shall be certified to Congress for consideration.
 
 ### Statutory Notes
 
@@ -216,6 +217,8 @@ Said section provided for the disposition of effects of deceased naval personnel
 Said section would in no way be affected. 81st Congress, House Report No. 557.
 
 #### Amendments
+2021—Pub. L. 116–283 substituted “individuals” for “persons” and substituted “individual” for “person” in two places.
+
 2018—Pub. L. 115–282 renumbered [section 507 of this title](./chapter-005-functions-and-powers.md#section-507) as this section.
 
 
@@ -223,11 +226,13 @@ Said section would in no way be affected. 81st Congress, House Report No. 557.
 ## § 2711. Deserters; payment of expenses incident to apprehension and delivery; penalties
 **(a)** The Coast Guard may, pursuant to regulations prescribed by the Secretary, make such expenditures as are deemed necessary for the apprehension and delivery of deserters, stragglers, and prisoners.
 
-**(b)** No person who is convicted by court martial for desertion from the Coast Guard in time of war, and as the result of such conviction is dismissed or dishonorably discharged from the Coast Guard shall afterwards be enlisted, appointed, or commissioned in any military or naval service under the United States, unless the disability resulting from desertion, as established by this section is removed by a board of commissioned officers of the Coast Guard convened for consideration of the case, and the action of the Board is approved by the Secretary; or unless he is restored to duty in time of war.
+**(b)** No individual who is convicted by court martial for desertion from the Coast Guard in time of war, and as the result of such conviction is dismissed or dishonorably discharged from the Coast Guard shall afterwards be enlisted, appointed, or commissioned in any military or naval service under the United States, unless the disability resulting from desertion, as established by this section is removed by a board of commissioned officers of the Coast Guard convened for consideration of the case, and the action of the Board is approved by the Secretary; or unless he is restored to duty in time of war.
 
 ### Statutory Notes
 
 #### Amendments
+2021—Subsec. (b). Pub. L. 116–283 substituted “individual” for “person”.
+
 2018—Pub. L. 115–282 renumbered [section 508 of this title](./chapter-005-functions-and-powers.md#section-508) as this section.
 
 1952—Subsec. (a). Act July 10, 1952, authorized reimbursement of necessary expenses to persons other than civil officers, and added stragglers and prisoners to class of offenders.
@@ -256,6 +261,19 @@ The provision concerning money due the deserter is eliminated. 81st Congress, Ho
 2018—Pub. L. 115–282 renumbered [section 644 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section644&num=0&edition=prelim) as this section.
 
 
+<a id="section-2713"></a>
+## § 2713. Employment assistance
+**(a) In General.—** In order to improve the accuracy and completeness of a certification or verification of job skills and experience required by [section 1143(a)(1) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1143/a/1&num=0&edition=prelim), the Secretary shall—
+
+(1) establish a database to record all training performed by members of the Coast Guard that may have application to employment in the civilian sector; and
+
+(2) make unclassified information regarding such information available to States and other potential employers referred to in [section 1143(c) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1143/c&num=0&edition=prelim) so that States and other potential employers may allow military training to satisfy licensing or certification requirements to engage in a civilian profession.
+
+**(b) Form of Certification or Verification.—** The Secretary shall ensure that a certification or verification of job skills and experience required by [section 1143(a)(1) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1143/a/1&num=0&edition=prelim) is rendered in such a way that States and other potential employers can confirm the accuracy and authenticity of the certification or verification.
+
+**(c) Requests by States.—** A State may request that the Secretary confirm the accuracy and authenticity of a certification or verification of job skills and experience provided under [section 1143(c) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1143/c&num=0&edition=prelim).
+
+
 <a id="section-2731"></a>
 ## § 2731. Delegation of powers to make awards; rules and regulations
 
@@ -273,7 +291,7 @@ This section provides for the delegation of powers to make awards to the Secreta
 <a id="section-2732"></a>
 ## § 2732. Medal of honor
 
-The President may award, and present in the name of Congress, a medal of honor of appropriate design, with ribbons and appurtenances, to a person who, while a member of the Coast Guard, distinguishes himself conspicuously by gallantry and intrepidity at the risk of his life above and beyond the call of duty—
+The President may award, and present in the name of Congress, a medal of honor of appropriate design, with ribbons and appurtenances, to an individual who, while a member of the Coast Guard, displays conspicuous gallantry and intrepidity at the risk of such individual’s life above and beyond the call of duty—
 
 (1) while engaged in an action against an enemy of the United States;
 
@@ -289,6 +307,10 @@ This section is new insofar as application to Coast Guard personnel in time of p
 The language is parallel to that found in title 34, U.S.C., 1946 ed., § 354, providing for awards to personnel of the Navy. 81st Congress, House Report No. 557.
 
 #### Amendments
+2021—Pub. L. 116–283, § 8506(c), substituted “displays conspicuous” for “distinguishes himself conspicuously by” and “such individual’s” for “his” in introductory provisions.
+
+Pub. L. 116–283, § 8505(a)(25), substituted “an individual” for “a person” in introductory provisions.
+
 2018—Pub. L. 115–282 renumbered [section 491 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section491&num=0&edition=prelim) as this section.
 
 1963—Pub. L. 88–77 enlarged the authority to award the medal of honor, which was limited to those cases in which persons, while in the service of the Coast Guard, distinguished themselves in action involving actual conflict with an enemy, or in the line of his profession, and without detriment to the mission of his command or to the command to which attached, to permit its award for distinguished service by members of the Coast Guard while engaged in an action against an enemy of the United States, while engaged in military operations involving conflict with an opposing foreign force, or while serving with friendly foreign forces engaged in an armed conflict against an opposing armed force in which the United States is not a belligerent party, and substituted the requirement that it be of appropriate design, with ribbons and appurtenances, for the requirement that the design be the same as that of the Navy medal of honor.
@@ -297,22 +319,26 @@ The language is parallel to that found in title 34, U.S.C., 1946 ed., § 354, pr
 <a id="section-2733"></a>
 ## § 2733. Medal of honor: duplicate medal
 
-A person awarded a medal of honor shall, upon written application of that person, be issued, without charge, one duplicate medal of honor with ribbons and appurtenances. Such duplicate medal of honor shall be marked, in such manner as the Secretary may determine, as a duplicate or for display purposes only.
+An individual awarded a medal of honor shall, upon written application of that individual, be issued, without charge, one duplicate medal of honor with ribbons and appurtenances. Such duplicate medal of honor shall be marked, in such manner as the Secretary may determine, as a duplicate or for display purposes only.
 
 ### Statutory Notes
 
 #### Amendments
+2021—Pub. L. 116–283 substituted “An individual” for “A person” and “that individual” for “that person”.
+
 2018—Pub. L. 115–282 renumbered [section 504 of this title](./chapter-005-functions-and-powers.md#section-504) as this section.
 
 
 <a id="section-2734"></a>
 ## § 2734. Medal of honor: presentation of Medal of Honor Flag
 
-The President shall provide for the presentation of the Medal of Honor Flag designated under [section 903 of title 36](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title36-section903&num=0&edition=prelim) to each person to whom a medal of honor is awarded under [section 2732 of this title](./chapter-027-pay-allowances-awards-and-other-rights-and-benefits.md#section-2732). Presentation of the flag shall be made at the same time as the presentation of the medal under section 2732 or 2743 of this title. In the case of a posthumous presentation of the medal, the flag shall be presented to the person to whom the medal is presented.
+The President shall provide for the presentation of the Medal of Honor Flag designated under [section 903 of title 36](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title36-section903&num=0&edition=prelim) to each individual to whom a medal of honor is awarded under [section 2732 of this title](./chapter-027-pay-allowances-awards-and-other-rights-and-benefits.md#section-2732). Presentation of the flag shall be made at the same time as the presentation of the medal under section 2732 or 2743 of this title. In the case of a posthumous presentation of the medal, the flag shall be presented to the individual to whom the medal is presented.
 
 ### Statutory Notes
 
 #### Amendments
+2021—Pub. L. 116–283 substituted “individual” for “person” in two places.
+
 2018—Pub. L. 115–282, § 123(b)(2), substituted “section 2732” for “section 491” and “section 2732 or 2743” for “section 491 or 498”.
 
 Pub. L. 115–282, § 116(b), renumbered [section 505 of this title](./chapter-005-functions-and-powers.md#section-505) as this section.
@@ -328,7 +354,7 @@ President to provide for the presentation of the Medal of Honor Flag to living r
 <a id="section-2735"></a>
 ## § 2735. Coast Guard cross
 
-The President may award a Coast Guard cross of appropriate design, with ribbons and appurtenances, to a person who, while serving in any capacity with the Coast Guard, when the Coast Guard is not operating under the Department of the Navy, distinguishes himself or herself by extraordinary heroism not justifying the award of a medal of honor—
+The President may award a Coast Guard cross of appropriate design, with ribbons and appurtenances, to an individual who, while serving in any capacity with the Coast Guard, when the Coast Guard is not operating under the Department of the Navy, distinguishes himself or herself by extraordinary heroism not justifying the award of a medal of honor—
 
 (1) while engaged in an action against an enemy of the United States;
 
@@ -339,13 +365,15 @@ The President may award a Coast Guard cross of appropriate design, with ribbons 
 ### Statutory Notes
 
 #### Amendments
+2021—Pub. L. 116–283 substituted “an individual” for “a person” in introductory provisions.
+
 2018—Pub. L. 115–282 renumbered [section 491a of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section491a&num=0&edition=prelim) as this section.
 
 
 <a id="section-2736"></a>
 ## § 2736. Distinguished service medal
 
-The President may present, but not in the name of Congress, a distinguished service medal of appropriate design, with accompanying ribbon, together with a rosette or other device, to be worn in lieu thereof, to any person who, while serving in any capacity with the Coast Guard, distinguishes himself by exceptionally meritorious service to the Government in a duty of great responsibility.
+The President may present, but not in the name of Congress, a distinguished service medal of appropriate design, with accompanying ribbon, together with a rosette or other device, to be worn in lieu thereof, to any individual who, while serving in any capacity with the Coast Guard, performs exceptionally meritorious service to the Government in a duty of great responsibility.
 
 ### Statutory Notes
 
@@ -355,6 +383,8 @@ This section is new insofar as application to Coast Guard personnel in time of p
 The language is parallel to that found in title 34, U.S.C., 1946 ed., § 355, providing for awards to personnel of the Navy. 81st Congress, House Report No. 557.
 
 #### Amendments
+2021—Pub. L. 116–283 substituted “individual” for “person” and “performs” for “distinguishes himself by”.
+
 2018—Pub. L. 115–282 renumbered [section 492 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section492&num=0&edition=prelim) as this section.
 
 #### Ex. Ord. No. 12824. Establishing the Homeland Security Distinguished Service Medal
@@ -374,7 +404,7 @@ Sec. 4. The Homeland Security Distinguished Service Medal or device may be award
 <a id="section-2737"></a>
 ## § 2737. Silver star medal
 
-The President may award a silver star medal of appropriate design, with ribbons and appurtenances, to a person who, while serving in any capacity with the Coast Guard, when the Coast Guard is not operating under the Department of the Navy, is cited for gallantry in action that does not warrant a medal of honor or Coast Guard cross—
+The President may award a silver star medal of appropriate design, with ribbons and appurtenances, to an individual who, while serving in any capacity with the Coast Guard, when the Coast Guard is not operating under the Department of the Navy, is cited for gallantry in action that does not warrant a medal of honor or Coast Guard cross—
 
 (1) while engaged in an action against an enemy of the United States;
 
@@ -385,17 +415,21 @@ The President may award a silver star medal of appropriate design, with ribbons 
 ### Statutory Notes
 
 #### Amendments
+2021—Pub. L. 116–283 substituted “an individual” for “a person” in introductory provisions.
+
 2018—Pub. L. 115–282 renumbered [section 492a of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section492a&num=0&edition=prelim) as this section.
 
 
 <a id="section-2738"></a>
 ## § 2738. Distinguished flying cross
 
-The President may present, but not in the name of Congress, a distinguished flying cross of appropriate design, with accompanying ribbon, to any person who, while serving in any capacity with the Coast Guard, distinguishes himself by heroism or extraordinary achievement while participating in an aerial flight.
+The President may present, but not in the name of Congress, a distinguished flying cross of appropriate design, with accompanying ribbon, to any individual who, while serving in any capacity with the Coast Guard, displays heroism or extraordinary achievement while participating in an aerial flight.
 
 ### Statutory Notes
 
 #### Amendments
+2021—Pub. L. 116–283 substituted “individual” for “person” and “displays” for “distinguishes himself by”.
+
 2018—Pub. L. 115–282 renumbered [section 492b of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section492b&num=0&edition=prelim) as this section.
 
 2010—Pub. L. 111–281 renumbered [section 492a of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section492a&num=0&edition=prelim) as this section.
@@ -404,7 +438,7 @@ The President may present, but not in the name of Congress, a distinguished flyi
 <a id="section-2739"></a>
 ## § 2739. Coast Guard medal
 
-The President may present, but not in the name of Congress, a medal to be known as the Coast Guard medal, of appropriate design, with accompanying ribbon, together with a rosette or other device to be worn in lieu thereof, to any person who, while serving in any capacity with the Coast Guard, distinguishes himself by heroism not involving actual conflict with an enemy.
+The President may present, but not in the name of Congress, a medal to be known as the Coast Guard medal, of appropriate design, with accompanying ribbon, together with a rosette or other device to be worn in lieu thereof, to any individual who, while serving in any capacity with the Coast Guard, displays heroism not involving actual conflict with an enemy.
 
 ### Statutory Notes
 
@@ -412,13 +446,15 @@ The President may present, but not in the name of Congress, a medal to be known 
 This section establishes a new medal to be known as the Coast Guard Medal, which is intended to be a parallel award to the Navy and Marine Corps Medal of the Navy, to be awarded under the same circumstances as that medal is awarded to personnel of the Navy (see title 34, U.S.C., 1946 ed., § 356b). 81st Congress, House Report No. 557.
 
 #### Amendments
+2021—Pub. L. 116–283 substituted “individual” for “person” and “displays” for “distinguishes himself by”.
+
 2018—Pub. L. 115–282 renumbered [section 493 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section493&num=0&edition=prelim) as this section.
 
 
 <a id="section-2740"></a>
 ## § 2740. Insignia for additional awards
 
-No more than one Coast Guard cross, distinguished service medal, silver star medal, distinguished flying cross, or one Coast Guard medal shall be issued to any one person; but for each succeeding deed or service sufficient to justify the awarding of a Coast Guard cross, distinguished service medal, silver star medal, distinguished flying cross, or Coast Guard medal, the President may award a suitable emblem or insignia to be worn with the decoration and a corresponding rosette or other device.
+No more than one Coast Guard cross, distinguished service medal, silver star medal, distinguished flying cross, or Coast Guard medal shall be issued to any one individual; but for each succeeding deed or service sufficient to justify the awarding of a Coast Guard cross, distinguished service medal, silver star medal, distinguished flying cross, or Coast Guard medal, the President may award a suitable emblem or insignia to be worn with the decoration and a corresponding rosette or other device.
 
 ### Statutory Notes
 
@@ -426,6 +462,8 @@ No more than one Coast Guard cross, distinguished service medal, silver star med
 This section is supplemental to the preceding sections dealing with the award of medals and regulates the award of additional medals of the same kind. It follows the established practice in all the armed forces (see title 34, U.S.C., 1946 ed., § 358). 81st Congress, House Report No. 557.
 
 #### Amendments
+2021—Pub. L. 116–283 struck out “one” before “Coast Guard medal shall” and substituted “individual” for “person”.
+
 2018—Pub. L. 115–282 renumbered [section 494 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section494&num=0&edition=prelim) as this section.
 
 2014—Pub. L. 113–281 struck out “medal of honor,” before “Coast Guard cross,” in two places.
@@ -437,7 +475,7 @@ This section is supplemental to the preceding sections dealing with the award of
 
 <a id="section-2741"></a>
 ## § 2741. Time limit on award; report concerning deed
-**(a)** No medal of honor, Coast Guard cross, distinguished service medal, silver star medal, distinguished flying cross, Coast Guard medal, or bar, emblem, or insignia in lieu thereof may be awarded to a person unless—
+**(a)** No medal of honor, Coast Guard cross, distinguished service medal, silver star medal, distinguished flying cross, Coast Guard medal, or bar, emblem, or insignia in lieu thereof may be awarded to an individual unless—
 
 (1) the award is made within five years after the date of the deed or service justifying the award;
 
@@ -445,9 +483,9 @@ This section is supplemental to the preceding sections dealing with the award of
 
 **(b)** If the Secretary determines that—
 
-(1) a statement setting forth the deed or distinguished service and recommending official recognition of it was made by the person’s superior through official channels within three years from the date of that deed or termination of the service and was supported by sufficient evidence within that time; and
+(1) a statement setting forth the deed or distinguished service and recommending official recognition of it was made by the individual’s superior through official channels within three years from the date of that deed or termination of the service and was supported by sufficient evidence within that time; and
 
-(2) no award was made, because the statement was lost or through inadvertence the recommendation was not acted upon; a medal of honor, Coast Guard cross, distinguished service medal, silver star medal, distinguished flying cross, Coast Guard medal, or bar, emblem, or insignia in lieu thereof, as the case may be, may be awarded to the person within two years after the date of that determination.
+(2) no award was made, because the statement was lost or through inadvertence the recommendation was not acted upon; a medal of honor, Coast Guard cross, distinguished service medal, silver star medal, distinguished flying cross, Coast Guard medal, or bar, emblem, or insignia in lieu thereof, as the case may be, may be awarded to the individual within two years after the date of that determination.
 
 ### Statutory Notes
 
@@ -455,6 +493,12 @@ This section is supplemental to the preceding sections dealing with the award of
 This section establishes a time limit on the making of awards. It follows the established practice in all the armed forces (see title 10, U.S.C., 1946 ed., § 1409 and title 34, U.S.C., 1946 ed., § 360). 81st Congress, House Report No. 557.
 
 #### Amendments
+2021—Subsec. (a). Pub. L. 116–283, § 8505(a)(34)(A), substituted “an individual” for “a person” in introductory provisions.
+
+Subsec. (b)(1). Pub. L. 116–283, § 8505(a)(34)(B), substituted “individual’s” for “person’s”.
+
+Subsec. (b)(2). Pub. L. 116–283, § 8505(a)(34)(C), substituted “individual” for “person”.
+
 2018—Pub. L. 115–282 renumbered [section 496 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section496&num=0&edition=prelim) as this section.
 
 2010—Subsec. (a). Pub. L. 111–281, § 224(c)(2)(A), substituted “Coast Guard cross, distinguished service medal, silver star medal, distinguished flying cross,” for “distinguished service medal, distinguished flying cross,” in introductory provisions.
@@ -467,7 +511,7 @@ Subsec. (b)(2). Pub. L. 111–281, § 224(c)(2)(B), substituted “Coast Guard c
 <a id="section-2742"></a>
 ## § 2742. Honorable subsequent service as condition to award
 
-No medal of honor, Coast Guard cross, distinguished service medal, silver star medal, distinguished flying cross, Coast Guard medal, or emblem, or insignia in lieu thereof shall be awarded or presented to any individual, or to the representative of any individual, whose entire service subsequent to the time he distinguished himself shall not in the opinion of the Commandant have been honorable.
+No medal of honor, Coast Guard cross, distinguished service medal, silver star medal, distinguished flying cross, Coast Guard medal, or emblem, or insignia in lieu thereof shall be awarded or presented to any individual, or to the representative of any individual, whose entire service subsequent to the time of the acts resulting in the consideration of such award shall not in the opinion of the Commandant have been honorable.
 
 ### Statutory Notes
 
@@ -475,6 +519,8 @@ No medal of honor, Coast Guard cross, distinguished service medal, silver star m
 This section makes honorable service subsequent to the act for which award is made, a condition precedent to granting the award. The Navy has the same statutory condition (see title 34, U.S.C., 1946 ed., § 362). 81st Congress, House Report No. 557.
 
 #### Amendments
+2021—Pub. L. 116–283 substituted “of the acts resulting in the consideration of such award” for “he distinguished himself”.
+
 2018—Pub. L. 115–282 renumbered [section 497 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section497&num=0&edition=prelim) as this section.
 
 2010—Pub. L. 111–281 substituted “Coast Guard cross, distinguished service medal, silver star medal, distinguished flying cross,” for “distinguished service medal, distinguished flying cross,”.
@@ -485,7 +531,7 @@ This section makes honorable service subsequent to the act for which award is ma
 <a id="section-2743"></a>
 ## § 2743. Posthumous awards
 
-In case an individual who distinguishes himself dies before the making of any award to which he may be entitled, as authorized in this chapter, the award may be made and presented within five years from the date of the act or service justifying the award to such next of kin as may have been designated by the individual, or in the absence of such designation, or if the designated person is not alive at the time of the award, or the relationship between such person and the serviceman shall have been terminated before his death, then to such representative as the President designates. In the event of a posthumous award when the award will be made to the parents of the deceased and the parents have been divorced or separated, a duplicate award may be made to each parent.
+In case an individual who dies before the making of any award to which such individual may be entitled, as authorized in this chapter, the award may be made and presented within five years from the date of the act or service justifying the award to such next of kin as may have been designated by the individual, or in the absence of such designation, or if the designated individual is not alive at the time of the award, or the relationship between such individual and the serviceman shall have been terminated before his death, then to such representative as the President designates. In the event of a posthumous award when the award will be made to the parents of the deceased and the parents have been divorced or separated, a duplicate award may be made to each parent.
 
 ### Statutory Notes
 
@@ -493,20 +539,24 @@ In case an individual who distinguishes himself dies before the making of any aw
 This section sets forth the conditions under which posthumous awards can be made. It is substantially the same as conditions for the Navy, but has the added provision for duplicate awards in case the parents are divorced or separated (see title 34, U.S.C., 1946 ed., § 363). 81st Congress, House Report No. 557.
 
 #### Amendments
+2021—Pub. L. 116–283, § 8506(h), struck out “distinguishes himself” before “dies” and substituted “such individual” for “he”.
+
+Pub. L. 116–283, § 8505(a)(35), substituted “designated individual” for “designated person” and “individual and” for “person and”.
+
 2018—Pub. L. 115–282 renumbered [section 498 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section498&num=0&edition=prelim) as this section.
 
 
 <a id="section-2744"></a>
 ## § 2744. Life-saving medals
-**(a)** The Secretary may, under regulations prescribed by him, award a Life-saving medal of gold or silver to any person, including personnel of the Coast Guard, who rescues or endeavors to rescue any other person from drowning, shipwreck, or other peril of the water in accordance with the following provisions:
+**(a)** The Secretary may, under regulations prescribed by him, award a Life-saving medal of gold or silver to any individual, including personnel of the Coast Guard, who rescues or endeavors to rescue any other individual from drowning, shipwreck, or other peril of the water in accordance with the following provisions:
 
 (1) if such rescue or attempted rescue is made at the risk of one’s own life and evidences extreme and heroic daring, the medal shall be of gold;
 
 (2) if such rescue or attempted rescue is not sufficiently distinguished to deserve the medal of gold, but evidences the exercise of such signal exertion as to merit recognition, the medal shall be of silver.
 
-**(b)** In order for a person to be eligible for the Life-saving Medals the rescue or attempted rescue must take place in waters within the United States or subject to the jurisdiction thereof, or if the rescue or attempted rescue takes place outside such waters, one or the other of the parties must be a citizen of the United States or from a vessel or aircraft owned or operated by citizens of the United States.
+**(b)** In order for an individual to be eligible for the Life-saving Medals the rescue or attempted rescue must take place in waters within the United States or subject to the jurisdiction thereof, or if the rescue or attempted rescue takes place outside such waters, one or the other of the parties must be a citizen of the United States or from a vessel or aircraft owned or operated by citizens of the United States.
 
-**(c)** No person shall receive more than one gold medal and one silver medal; but any person who has received or may hereafter receive a gold or silver medal and who again performs an act which would entitle him to receive another medal of the same class may be awarded, in lieu of a second medal of the same class, a gold or silver bar, as the case may be, to be worn with the medal already bestowed, and for every such additional act, an additional bar may be awarded. Medals and bars in lieu thereof, authorized by this subsection, may be awarded posthumously.
+**(c)** No individual shall receive more than one gold medal and one silver medal; but any individual who has received or may hereafter receive a gold or silver medal and who again performs an act which would entitle him to receive another medal of the same class may be awarded, in lieu of a second medal of the same class, a gold or silver bar, as the case may be, to be worn with the medal already bestowed, and for every such additional act, an additional bar may be awarded. Medals and bars in lieu thereof, authorized by this subsection, may be awarded posthumously.
 
 ### Statutory Notes
 
@@ -522,6 +572,12 @@ Subsection (b) contains the jurisdictional limitations on the awarding of the me
 Subsection (c) dealing with the awarding of bars for additional acts, clarifies, but does not change title 14, U.S.C., 1946 ed., § 195, except that authority is granted to award medals posthumously. 81st Congress, House Report No. 557.
 
 #### Amendments
+2021—Subsec. (a). Pub. L. 116–283, § 8505(a)(36)(B) substituted “individual” for “person” in two places in introductory provisions.
+
+Subsec. (b). Pub. L. 116–283, § 8505(a)(36)(A), substituted “an individual” for “a person”.
+
+Subsec. (c). Pub. L. 116–283, § 8505(a)(36)(B), substituted “individual” for “person” in two places.
+
 2018—Pub. L. 115–282 renumbered [section 500 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section500&num=0&edition=prelim) as this section.
 
 1976—Subsec. (a). Pub. L. 94–546 substituted “Secretary” for “Secretary of the Treasury”.
@@ -530,7 +586,7 @@ Subsection (c) dealing with the awarding of bars for additional acts, clarifies,
 <a id="section-2745"></a>
 ## § 2745. Replacement of medals
 
-In those cases where a medal, or a bar, emblem, or insignia in lieu thereof, awarded pursuant to this chapter has been stolen, lost, destroyed, or rendered unfit for use without fault or neglect on the part of the person to whom it was awarded, such medal, or bar, emblem, or insignia in lieu thereof, shall be replaced without charge, or, in the discretion of the Secretary, upon condition that the Government is reimbursed for the cost thereof.
+In those cases where a medal, or a bar, emblem, or insignia in lieu thereof, awarded pursuant to this chapter has been stolen, lost, destroyed, or rendered unfit for use without fault or neglect on the part of the individual to whom it was awarded, such medal, or bar, emblem, or insignia in lieu thereof, shall be replaced without charge, or, in the discretion of the Secretary, upon condition that the Government is reimbursed for the cost thereof.
 
 ### Statutory Notes
 
@@ -538,6 +594,8 @@ In those cases where a medal, or a bar, emblem, or insignia in lieu thereof, awa
 This section provides for the replacement of medals. It follows the established practice of the other armed forces, but makes an additional provision that the Secretary in his discretion may charge for the replacement medals in some circumstances. (See title 10, U.S.C., 1946 ed., § 1416 and title 34, U.S.C., 1946 ed., § 359.) 81st Congress, House Report No. 557.
 
 #### Amendments
+2021—Pub. L. 116–283 substituted “individual” for “person”.
+
 2018—Pub. L. 115–282 renumbered [section 501 of this title](./chapter-005-functions-and-powers.md#section-501) as this section.
 
 2001—Pub. L. 107–107 inserted “stolen,” before “lost,”.
@@ -605,13 +663,15 @@ Section applicable with respect to releases from active duty described in this s
 
 
 <a id="section-2761"></a>
-## § 2761. Persons discharged as result of court-martial; allowances to
+## § 2761. Individuals discharged as result of court-martial; allowances to
 
-The Secretary may furnish persons discharged pursuant to the sentence of a Coast Guard court-martial suitable civilian clothing and a monetary allowance not to exceed $25 if the person discharged would not otherwise have suitable clothing or funds to meet immediate needs.
+The Secretary may furnish individuals discharged pursuant to the sentence of a Coast Guard court-martial suitable civilian clothing and a monetary allowance not to exceed $25 if the individual discharged would not otherwise have suitable clothing or funds to meet immediate needs.
 
 ### Statutory Notes
 
 #### Amendments
+2021—Pub. L. 116–283 substituted “Individuals” for “Persons” in section catchline and substituted “individuals” for “persons” and “individual” for “person” in text.
+
 2018—Pub. L. 115–282 renumbered [section 509 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section509&num=0&edition=prelim) as this section.
 
 1968—Pub. L. 90–377 substituted “Persons discharged as result of court-martial; allowances to” for “Prisoners; allowances to; transportation” in section catchline, and struck out provision that persons confined in prisons in pursuance of the sentence of a Coast Guard court shall during such confinement, be allowed a reasonable sum, not to exceed $3 per month, for necessary prison expenses and the provision that the Commandant of the Coast Guard may transport to their homes or places of enlistment, as he may designate, all discharged prisoners, the expense of such transportation to be paid out of any money to the credit of prisoners when discharged.
@@ -690,7 +750,7 @@ Under regulations prescribed by the Secretary, the Coast Guard may authorize ret
 
 
 <a id="section-2767"></a>
-## § 2767. Reimbursement for medical-related travel expenses for certain persons residing on islands in the continental United States
+## § 2767. Reimbursement for medical-related travel expenses for certain individuals residing on islands in the continental United States
 
 In any case in which a covered beneficiary (as defined in [section 1072(5) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1072/5&num=0&edition=prelim)) resides on an island that is located in the 48 contiguous States and the District of Columbia and that lacks public access roads to the mainland, the Secretary shall reimburse the reasonable travel expenses of the covered beneficiary and, when accompaniment by an adult is necessary, for a parent or guardian of the covered beneficiary or another member of the covered beneficiary’s family who is at least 21 years of age, if—
 
@@ -701,6 +761,8 @@ In any case in which a covered beneficiary (as defined in [section 1072(5) of ti
 ### Statutory Notes
 
 #### Amendments
+2021—Pub. L. 116–283 substituted “individuals” for “persons” in section catchline.
+
 2018—Pub. L. 115–282 renumbered [section 518 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section518&num=0&edition=prelim) as this section.
 
 Pub. L. 115–232 amended text of section generally. Prior to amendment, text read as follows: “In any case in which a covered beneficiary (as defined in [section 1072(5) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1072/5&num=0&edition=prelim)) resides on an island that is located in the 48 contiguous States and the District of Columbia and that lacks public access roads to the mainland and is referred by a primary care physician to a specialty care provider (as defined in [section 1074i(b) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1074i/b&num=0&edition=prelim)) on the mainland who provides services less than 100 miles from the location where the beneficiary resides, the Secretary shall reimburse the reasonable travel expenses of the covered beneficiary and, when accompaniment by an adult is necessary, for a parent or guardian of the covered beneficiary or another member of the covered beneficiary’s family who is at least 21 years of age.”
@@ -720,9 +782,9 @@ The Commandant shall conduct each calendar year an audit of member pay and allow
 <a id="section-2769"></a>
 ## § 2769. Remission of indebtedness
 
-The Secretary may have remitted or cancelled any part of a person’s indebtedness to the United States or any instrumentality of the United States if—
+The Secretary may have remitted or cancelled any part of an individual’s indebtedness to the United States or any instrumentality of the United States if—
 
-(1) the indebtedness was incurred while the person served as a member of the Coast Guard, whether as a regular or a reserve in active status; and
+(1) the indebtedness was incurred while the individual served as a member of the Coast Guard, whether as a regular or a reserve in active status; and
 
 (2) the Secretary determines that remitting or cancelling the indebtedness is in the best interest of the United States.
 
@@ -740,6 +802,10 @@ This section assimilates the pay of military personnel of the Coast Guard to the
 Changes were made in phraseology. 81st Congress, House Report No. 557.
 
 #### Amendments
+2021—Pub. L. 116–283, § 8505(a)(40)(A), substituted “an individual’s” for “a person’s” in introductory provisions.
+
+Par. (1). Pub. L. 116–283, § 8505(a)(40)(B), substituted “individual” for “person”.
+
 2018—Pub. L. 115–282 renumbered [section 461 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section461&num=0&edition=prelim) as this section.
 
 2016—Pub. L. 114–120 amended section generally. Prior to amendment, text read as follows: “If he considers it in the best interest of the United States, the Secretary may have remitted or canceled any part of an enlisted member’s indebtedness to the United States or any of its instrumentalities remaining unpaid before or at the time of, that member’s honorable discharge.”
@@ -785,7 +851,7 @@ Changes were made in phraseology. 81st Congress, House Report No. 557.
 2018—Pub. L. 115–282 renumbered [section 470 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section470&num=0&edition=prelim) as this section.
 
 #### Coast Guard Graduate Maritime Operations Education
-Pub. L. 114–120, title II, § 213, Feb. 8, 2016, 130 Stat. 42, provided that: “Not later than 1 year after the date of the enactment of this Act [Feb. 8, 2016], the Secretary of the department in which the Coast Guard is operating shall establish an education program, for members and employees of the Coast Guard, that— “(1) offers a master’s degree in maritime operations; “(2) is relevant to the professional development of such members and employees; “(3) provides resident and distant education options, including the ability to utilize both options; and “(4) to the greatest extent practicable, is conducted using existing academic programs at an accredited public academic institution that—“(A) is located near a significant number of Coast Guard, maritime, and other Department of Homeland Security law enforcement personnel; and “(B) has an ability to simulate operations normally conducted at a command center.’
+Pub. L. 114–120, title II, § 213, Feb. 8, 2016, 130 Stat. 42, provided that: “Not later than 1 year after the date of the enactment of this Act [Feb. 8, 2016], the Secretary of the department in which the Coast Guard is operating shall establish an education program, for members and employees of the Coast Guard, that— “(1) offers a master’s degree in maritime operations; “(2) is relevant to the professional development of such members and employees; “(3) provides resident and distant education options, including the ability to utilize both options; and “(4) to the greatest extent practicable, is conducted using existing academic programs at an accredited public academic institution that—“(A) is located near a significant number of Coast Guard, maritime, and other Department of Homeland Security law enforcement personnel; and “(B) has an ability to simulate operations normally conducted at a command center.”
 
 
 <a id="section-2771"></a>
@@ -815,7 +881,7 @@ It is believed that the authority contained in this section will greatly benefit
   (C) any loan made under part E of such title ([20 U.S.C. 1087aa](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1087aa&num=0&edition=prelim) et seq.).
   Repayment of any such loan shall be made on the basis of each complete year of service performed by the borrower.
 
-(2) The Secretary may repay loans described in paragraph (1) in the case of any person for service performed on active duty as an enlisted member of the Coast Guard in a specialty specified by the Secretary.
+(2) The Secretary may repay loans described in paragraph (1) in the case of any individual for service performed on active duty as an enlisted member of the Coast Guard in a specialty specified by the Secretary.
 
 **(b)** The portion or amount of a loan that may be repaid under subsection (a) is 33⅓ percent or $1,500, whichever is greater, for each year of service.
 
@@ -831,6 +897,8 @@ It is believed that the authority contained in this section will greatly benefit
 The Higher Education Act of 1965, referred to in subsec. (a)(1), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219. Parts B, D, and E of title IV of the Act are classified generally to parts B (§ 1071 et seq.), D (§ 1087a et seq.), and E (§ 1087aa et seq.), respectively, of subchapter IV of chapter 28 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under [section 1001 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1001&num=0&edition=prelim) and Tables.
 
 #### Amendments
+2021—Subsec. (a)(2). Pub. L. 116–283 substituted “individual” for “person”.
+
 2018—Pub. L. 115–282 renumbered [section 472 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section472&num=0&edition=prelim) as this section.
 
 
@@ -838,11 +906,11 @@ The Higher Education Act of 1965, referred to in subsec. (a)(1), is Pub. L. 89�
 ## § 2773. Rations or commutation therefor in money
 **(a)** Enlisted members of the Coast Guard, civilian officers and civilian crews of vessels, and working parties in the field shall be allowed a ration or commutation thereof in money, in such amount and under limitations and regulations prescribed by the Secretary.
 
-**(b)** Money for commuted rations shall be paid, under such regulations as the Secretary shall prescribe, on proper vouchers, or pay rolls, to persons entitled to receive it, or to the officers designated by the Commandant to administer the financial affairs of the messes in which such persons may be subsisted.
+**(b)** Money for commuted rations shall be paid, under such regulations as the Secretary shall prescribe, on proper vouchers, or pay rolls, to individuals entitled to receive it, or to the officers designated by the Commandant to administer the financial affairs of the messes in which such individuals may be subsisted.
 
 **(c)** Money paid for commuted rations to the designated officer may be deposited in general or limited depositories of public money or in any bank in which deposits are insured. Such funds shall be expended and accounted for under such regulations as the Secretary shall prescribe.
 
-**(d)** Nothing contained in this section shall be construed as modifying or changing in any manner the provisions of law pertaining to subsistence allowances for enlisted members, but no ration or commutation thereof shall be allowed a person receiving a subsistence allowance.
+**(d)** Nothing contained in this section shall be construed as modifying or changing in any manner the provisions of law pertaining to subsistence allowances for enlisted members, but no ration or commutation thereof shall be allowed an individual receiving a subsistence allowance.
 
 ### Statutory Notes
 
@@ -856,6 +924,10 @@ The last proviso of said section 135 is eliminated, because experience during th
 Changes were made in phraseology. 81st Congress, House Report No. 557.
 
 #### Amendments
+2021—Subsec. (b). Pub. L. 116–283, § 8505(a)(42)(A), substituted “individuals” for “persons” in two places.
+
+Subsec. (d). Pub. L. 116–283, § 8505(a)(42)(B), substituted “an individual” for “a person”.
+
 2018—Pub. L. 115–282 renumbered [section 478 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section478&num=0&edition=prelim) as this section.
 
 1984—Subsecs. (a), (d). Pub. L. 98–557 substituted reference to enlisted members for reference to enlisted men.
@@ -878,7 +950,7 @@ Based on title 14, U.S.C., 1946 ed., § 132 (Aug. 1, 1914, ch. 223, § 1, 38 Sta
 <a id="section-2775"></a>
 ## § 2775. Flight rations
 
-There may be furnished to officers, enlisted members, and civilian employees, while actually engaged in flight operations, an aircraft flight ration in kind, chargeable to the proper Coast Guard appropriation, which flight ration shall be supplementary to any ration or subsistence allowance now granted to such personnel. No part of an aircraft flight ration shall be furnished without cost to any person in a travel status or to any person to whom a per diem allowance is granted in lieu of actual subsistence.
+There may be furnished to officers, enlisted members, and civilian employees, while actually engaged in flight operations, an aircraft flight ration in kind, chargeable to the proper Coast Guard appropriation, which flight ration shall be supplementary to any ration or subsistence allowance now granted to such personnel. No part of an aircraft flight ration shall be furnished without cost to any individual in a travel status or to any individual to whom a per diem allowance is granted in lieu of actual subsistence.
 
 ### Statutory Notes
 
@@ -892,6 +964,8 @@ The language of said section is closely paralleled.
 Said section would in no way be affected. 81st Congress, House Report No. 557.
 
 #### Amendments
+2021—Pub. L. 116–283 substituted “individual” for “person” in two places.
+
 2018—Pub. L. 115–282 renumbered [section 480 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section480&num=0&edition=prelim) as this section.
 
 1984—Pub. L. 98–557 substituted reference to enlisted members for reference to enlisted men.
@@ -900,7 +974,7 @@ Said section would in no way be affected. 81st Congress, House Report No. 557.
 <a id="section-2776"></a>
 ## § 2776. Payments at time of discharge for good of service
 
-Enlisted members discharged by dishonorable discharge, bad-conduct discharge, or any other discharge for the good of the service, may, upon discharge, be paid a sum not to exceed $25. The sum paid shall be fixed by and in the discretion of the Commandant, and shall be paid only in cases where the person so discharged would otherwise be without funds to meet his immediate needs.
+Enlisted members discharged by dishonorable discharge, bad-conduct discharge, or any other discharge for the good of the service, may, upon discharge, be paid a sum not to exceed $25. The sum paid shall be fixed by and in the discretion of the Commandant, and shall be paid only in cases where the individual so discharged would otherwise be without funds to meet his immediate needs.
 
 ### Statutory Notes
 
@@ -912,15 +986,17 @@ Said section 197 was made applicable to the Coast Guard by title 14, U.S.C., 194
 Said section would in no way be affected. 81st Congress, House Report No. 557.
 
 #### Amendments
+2021—Pub. L. 116–283 substituted “individual” for “person”.
+
 2018—Pub. L. 115–282 renumbered [section 481 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section481&num=0&edition=prelim) as this section.
 
 1984—Pub. L. 98–557 substituted “Enlisted members” for “Enlisted men”.
 
 
 <a id="section-2777"></a>
-## § 2777. Clothing for destitute shipwrecked persons
+## § 2777. Clothing for destitute shipwrecked individuals
 
-The Coast Guard may furnish clothing and subsistence to destitute shipwrecked persons, and the Coast Guard may reimburse, in cash or in kind, Coast Guard personnel who furnish clothing and subsistence to destitute ship- wrecked persons.
+The Coast Guard may furnish clothing and subsistence to destitute shipwrecked individuals, and the Coast Guard may reimburse, in cash or in kind, Coast Guard personnel who furnish clothing and subsistence to destitute shipwrecked individuals.
 
 ### Statutory Notes
 
@@ -932,6 +1008,8 @@ This section was enlarged to provide that the Coast Guard, as well as personnel 
 Changes were made in phraseology. 81st Congress, House Report No. 557.
 
 #### Amendments
+2021—Pub. L. 116–283 substituted “individuals” for “persons” in section catchline and in two places in text.
+
 2018—Pub. L. 115–282 renumbered [section 486 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section486&num=0&edition=prelim) as this section.
 
 
@@ -957,7 +1035,7 @@ Said section would in no way be affected. 81st Congress, House Report No. 557.
 
 <a id="section-2779"></a>
 ## § 2779. Transportation to and from certain places of employment
-**(a)** Whenever the Secretary determines that it is necessary for the effective conduct of the affairs of the Coast Guard, he may, at reasonable rates of fare fixed under regulations to be prescribed by him, provide assured and adequate transportation by motor vehicle or water carrier to and from their places of employment for persons attached to, or employed by, the Coast Guard; and during a war or during a national emergency declared by Congress or the President, for persons attached to, or employed in, a private plant that is manufacturing material for the Coast Guard.
+**(a)** Whenever the Secretary determines that it is necessary for the effective conduct of the affairs of the Coast Guard, he may, at reasonable rates of fare fixed under regulations to be prescribed by him, provide assured and adequate transportation by motor vehicle or water carrier to and from their places of employment for individuals attached to, or employed by, the Coast Guard; and during a war or during a national emergency declared by Congress or the President, for individuals attached to, or employed in, a private plant that is manufacturing material for the Coast Guard.
 
 **(b)** Transportation may not be provided under subsection (a) unless the Secretary or an officer designated by the Secretary, determines that—
 
@@ -965,13 +1043,13 @@ Said section would in no way be affected. 81st Congress, House Report No. 557.
 
 (2) a reasonable effort has been made to induce operators of private facilities to provide the necessary transportation; and
 
-(3) the service to be furnished will make proper use of transportation facilities and will supply the most efficient transportation to the persons concerned.
+(3) the service to be furnished will make proper use of transportation facilities and will supply the most efficient transportation to the individuals concerned.
 
 **(c)** To provide transportation under subsection (a), the Secretary may—
 
 (1) buy, lease, or charter motor vehicles or water carriers having a seating capacity of 12 or more passengers;
 
-(2) maintain and operate that equipment by enlisted members or employees of the Coast Guard, or by private persons under contract; and
+(2) maintain and operate that equipment by enlisted members or employees of the Coast Guard, or by private individuals under contract; and
 
 (3) lease or charter the equipment to private or public carriers for operation under terms that are considered necessary by the Secretary or by an officer designated by the Secretary, and that may provide for the pooling of government-owned and privately owned equipment and facilities and for the reciprocal use of that equipment.
 
@@ -980,6 +1058,8 @@ Said section would in no way be affected. 81st Congress, House Report No. 557.
 ### Statutory Notes
 
 #### Amendments
+2021—Subsecs. (a), (b)(3), (c)(2). Pub. L. 116–283 substituted “individuals” for “persons” wherever appearing.
+
 2018—Pub. L. 115–282 renumbered [section 660 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section660&num=0&edition=prelim) as this section.
 
 1986—Subsec. (e). Pub. L. 99–550 struck out subsec. (e) which provided that passenger motor vehicles of the United States could be used to provide transportation between the residence and place of work of the Commandant. See [section 1344 of Title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1344&num=0&edition=prelim), Money and Finance.

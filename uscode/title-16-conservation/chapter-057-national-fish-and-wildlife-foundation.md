@@ -63,33 +63,13 @@ Pub. L. 98–244, § 1, Mar. 26, 1984, 98 Stat. 107, provided that: “This Act 
 
 (1) **Agency heads** — The Director of the United States Fish and Wildlife Service and the Under Secretary of Commerce for Oceans and Atmosphere shall be Directors of the Foundation.
 
-(2) **Appointments by the Secretary of the Interior**
+(2) **Appointment of Directors** — After consulting with the Secretary of Commerce and considering the recommendations submitted by the Board, the Secretary of the Interior shall appoint 28 Directors who, to the maximum extent practicable, shall—
 
-  (A) *In general* — Subject to subparagraph (B), after consulting with the Secretary of Commerce and considering the recommendations submitted by the Board, the Secretary of the Interior shall appoint 23 Directors who meet the criteria established by subsection (a), of whom—
+  (A) be knowledgeable and experienced in matters relating to the conservation of fish, wildlife, or other natural resources; and
 
-    (i) at least six shall be educated or experienced in fish, wildlife, or other natural resource conservation;
+  (B) represent a balance of expertise in ocean, coastal, freshwater, and terrestrial resource conservation.
 
-    (ii) at least four shall be educated or experienced in the principles of fish, wildlife, or other natural resource management; and
-
-    (iii) at least four shall be educated or experienced in ocean and coastal resource conservation.
-
-  (B) *Transition provision*
-
-    (i) *Continuation of terms* — The 15 Directors serving on the Board as of November 1, 2000, shall continue to serve until the expiration of their terms.
-
-    (ii) *New Directors* — Subject to paragraph (3), the Secretary of the Interior shall appoint eight new Directors.
-
-(3) **Terms**
-
-  (A) *In general* — Subject to subparagraph (B), each Director (other than a Director described in paragraph (1)) shall be appointed for a term of 6 years.
-
-  (B) *Initial appointments to new member positions* — Of the Directors appointed by the Secretary of the Interior under paragraph (2)(B)(ii), the Secretary shall appoint, in fiscal year 2001, three Directors for a term of 6 years.
-
-  (C) *Subsequent appointments to new member positions* — Of the Directors appointed by the Secretary of the Interior under paragraph (2)(B)(ii), the Secretary shall appoint, in fiscal year 2002—
-
-    (i) two Directors for a term of 2 years; and
-
-    (ii) three Directors for a term of 4 years.
+(3) **Terms** — Each Director (other than a Director described in paragraph (1)) shall be appointed for a term of 6 years.
 
 (4) **Vacancies**
 
@@ -123,13 +103,25 @@ Pub. L. 98–244, § 1, Mar. 26, 1984, 98 Stat. 107, provided that: “This Act 
 
 (2) The following limitations apply with respect to the appointment of officers and employees of the Foundation:
 
-  (A) Officers and employees may not be appointed until the Foundation has sufficient funds to pay them for their service. Officers and employees of the Foundation shall be appointed without regard to the provisions of title 5 governing appointments in the competitive service, and may be paid without regard to the provisions of chapter 51 and subchapter III of chapter 53 of such title relating to classification and General Schedule pay rates.
+  (A) *In general* — Officers and employees of the Foundation shall be appointed without regard to the provisions of title 5 governing appointments in the competitive service, and may be paid without regard to the provisions of chapter 51 and subchapter III of chapter 53 of such title relating to classification and General Schedule pay rates.
 
-  (B) The first officer or employee appointed by the Board shall be the Secretary of the Board who (i) shall serve, at the direction of the Board, as its chief operating officer, and (ii) shall be knowledgeable and experienced in matters relating to fish and wildlife conservation.
+  (B) *Executive Director* — The Foundation shall have an Executive Director who shall be—
+
+    (i) appointed by, and serve at the direction of, the Board as the chief executive officer of the Foundation; and
+
+    (ii) knowledgeable and experienced in matters relating to fish and wildlife conservation.
 
 ### Statutory Notes
 
 #### Amendments
+2020—Subsec. (b)(2). Pub. L. 116–188, § 107(a)(1)(A)(i), added par. (2) and struck out former par. (2) which related to appointment of directors by the Secretary of the Interior.
+
+Subsec. (b)(3). Pub. L. 116–188, § 107(a)(1)(A)(ii), added par. (3) and struck out former par. (3) which related to terms of directors.
+
+Subsec. (g)(2)(A). Pub. L. 116–188, § 107(a)(1)(B)(i), inserted subpar. heading and struck out first sentence which read as follows: “Officers and employees may not be appointed until the Foundation has sufficient funds to pay them for their service.”
+
+Subsec. (g)(2)(B). Pub. L. 116–188, § 107(a)(1)(B)(ii), added subpar. (B) and struck out former subpar. (B) which read as follows: “The first officer or employee appointed by the Board shall be the Secretary of the Board who (i) shall serve, at the direction of the Board, as its chief operating officer, and (ii) shall be knowledgeable and experienced in matters relating to fish and wildlife conservation.”
+
 2008—Subsec. (a)(1). Pub. L. 110–281 added par. (1) and struck out former par. (1). Prior to amendment, text read as follows: “The Foundation shall have a governing Board of Directors (referred to in this chapter as the ‘Board’), which shall consist of 25 Directors appointed in accordance with subsection (b) of this section, each of whom shall be a United States citizen.”
 
 2000—Subsec. (a). Pub. L. 106–408, § 203(a), added subsec. (a) and struck out heading and text of former subsec. (a). Text read as follows: “The Foundation shall have a governing Board of Directors (hereinafter referred to in this chapter as the ‘Board’), which shall consist of 15 Directors, each of whom shall be a United States citizen and—
@@ -176,30 +168,41 @@ The serving of notice to, or service of process upon, the agent required under p
 
 **(b) Seal** The Foundation shall have an official seal selected by the Board which shall be judicially noticed.
 
-**(c) Powers** To carry out its purposes under [section 3701 of this title](./chapter-057-national-fish-and-wildlife-foundation.md#section-3701), the Foundation shall have, in addition to the powers otherwise given it under this chapter, the usual powers of a corporation acting as a trustee in the District of Columbia, including the power—
+**(c) Powers**
 
-(1) to accept, receive, solicit, hold, administer and use any gift, devise, or bequest, either absolutely or in trust, of real or personal property or any income therefrom or other interest therein;
+(1) **In general** — To carry out the purposes described in [section 3701 of this title](./chapter-057-national-fish-and-wildlife-foundation.md#section-3701), the Foundation shall have, in addition to the powers otherwise given it under this chapter, the usual powers of a corporation acting as a trustee in the District of Columbia, including the power—
 
-(2) to acquire by purchase or exchange any real or personal property or interest therein, subject to subsection (e);
+  (A) to accept, receive, solicit, hold, administer and use any gift, devise, or bequest, either absolutely or in trust, of real or personal property or any income therefrom or other interest therein;
 
-(3) to invest any funds provided to the Foundation by the Federal Government in obligations of the United States or in obligations or securities that are guaranteed or insured by the United States;
+  (B) to acquire by purchase or exchange any real or personal property or interest therein, subject to subsection (e);
 
-(4) to deposit any funds provided to the Foundation by the Federal Government into accounts that are insured by an agency or instrumentality of the United States;
+  (C) to invest any funds provided to the Foundation by the Federal Government in obligations of the United States or in obligations or securities that are guaranteed or insured by the United States;
 
-(5) to make use of any interest or investment income that accrues as a consequence of actions taken under paragraph (3) or (4) to carry out the purposes of the Foundation;
+  (D) to deposit any funds provided to the Foundation by the Federal Government into accounts at 1 or more financial institutions that are members of the Federal Deposit Insurance Corporation or the Securities Investment Protection Corporation;
 
-(6) to use Federal funds to make payments under cooperative agreements entered into with willing private landowners to provide substantial long-term benefits for the restoration or enhancement of fish, wildlife, plants, and other natural resources on private land;
+  (E) to make use of any interest or investment income that accrues as a consequence of actions taken under subparagraph (C) or (D) to carry out the purposes of the Foundation;
 
-(7) unless otherwise required by the instrument of transfer, to sell, donate, lease, invest, reinvest, retain or otherwise dispose of any property or income therefrom;
+  (F) to use Federal funds to make payments under cooperative agreements entered into with willing private landowners to provide substantial long-term benefits for the restoration or enhancement of fish, wildlife, plants, and other natural resources on private land;
 
-(8) to borrow money and issue bonds, debentures, or other debt instruments;
+  (G) unless otherwise required by the instrument of transfer, to sell, donate, lease, invest, reinvest, retain or otherwise dispose of any property or income therefrom;
 
-(9) to sue and be sued, and complain and defend itself in any court of competent jurisdiction, except that the Directors of the Foundation shall not be personally liable, except for gross negligence;
+  (H) to borrow money and issue bonds, debentures, or other debt instruments;
 
-(10) to enter into contracts or other arrangements with public agencies and private organizations and persons and to make such payments as may be necessary to carry out its function; and
+  (I) to sue and be sued, and complain and defend itself in any court of competent jurisdiction, except that the Directors of the Foundation shall not be personally liable, except for gross negligence;
 
-(11) to do any and all acts necessary and proper to carry out the purposes of the Foundation.
-For purposes of this chapter, an interest in real property shall be treated as including, among other things, easements or other rights for preservation, conservation, protection, or enhancement by and for the public of natural, scenic, historic, scientific, educational, inspirational, or recreational resources. A gift, devise, or bequest may be accepted by the Foundation even though it is encumbered, restricted, or subject to beneficial interests of private persons if any current or future interest therein is for the benefit of the Foundation.
+  (J) to enter into contracts or other arrangements with public agencies and private organizations and persons and to make such payments as may be necessary to carry out its function; and
+
+  (K) to receive and administer restitution and community service payments, amounts for mitigation of impacts to natural resources, and other amounts arising from legal, regulatory, or administrative proceedings, subject to the condition that the amounts are received or administered for purposes that further the conservation and management of fish, wildlife, plants, and other natural resources; and
+
+  (L) to do acts necessary to carry out the purposes of the Foundation.
+
+(2) **Treatment of real property**
+
+  (A) *In general* — For purposes of this Act, an interest in real property shall be treated as including easements or other rights for preservation, conservation, protection, or enhancement by and for the public of natural, scenic, historic, scientific, educational, inspirational, or recreational resources.
+
+  (B) *Encumbered real property* — A gift, devise, or bequest may be accepted by the Foundation even though the gift, devise, or bequest is encumbered, restricted, or subject to beneficial interests of private persons if any current or future interest in the gift, devise, or bequest is for the benefit of the Foundation.
+
+(3) **Savings clause** — The acceptance and administration of amounts by the Foundation under paragraph (1)(K) does not alter, supersede, or limit any regulatory or statutory requirement associated with those amounts.
 
 **(d) Certain lands, waters, and interests not subject to condemnation** No lands or waters, or interests therein, that are owned by the Foundation and are determined by the Director of the United States Fish and Wildlife Service or the Migratory Bird Conservation Commission, as the case may be, to be valuable for purposes of fish and wildlife conservation or management shall be subject to condemnation by any State or political subdivision, or any agent or instrumentality thereof.
 
@@ -235,41 +238,28 @@ For purposes of this chapter, an interest in real property shall be treated as i
 
   (B) the purposes of the Foundation would be better served by use of the proceeds of the conveyance for other authorized activities of the Foundation.
 
-**(f) Establishment of national whale conservation endowment fund**
+**(f) Expenditures for printing services or capital equipment** The Foundation shall not make any expenditure of Federal funds in connection with any one transaction for printing services or capital equipment that is greater than $10,000 unless the expenditure is approved by the Federal agency that administers the Federal program under which the funds were provided.
 
-(1) In carrying out the purposes under [section 3701(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section3701/b&num=0&edition=prelim), the Foundation may establish a national whale conservation endowment fund, to be used by the Foundation to support research, management activities, or educational programs that contribute to the protection, conservation, or recovery of whale populations in waters of the United States.
-
-(2)
-
-  (A) In a manner consistent with subsection (c)(1), the Foundation may—
-
-    (i) accept, receive, solicit, hold, administer, and use any gift, devise, or bequest made to the Foundation for the express purpose of supporting whale conservation; and
-
-    (ii) deposit in the endowment fund under paragraph (1) any funds made available to the Foundation under this subparagraph, including any income or interest earned from a gift, devise, or bequest received by the Foundation under this subparagraph.
-
-  (B) To raise funds to be deposited in the endowment fund under paragraph (1), the Foundation may enter into appropriate arrangements to provide for the design, copyright, production, marketing, or licensing, of logos, seals, decals, stamps, or any other item that the Foundation determines to be appropriate.
-
-  (C)
-
-    (i) The Secretary of Commerce may transfer to the Foundation for deposit in the endowment fund under paragraph (1) any amount (or portion thereof) received by the Secretary under [section 1375(a)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1375/a/1&num=0&edition=prelim) as a civil penalty assessed by the Secretary under that section.
-
-    (ii) The Directors of the Board shall ensure that any amounts transferred to the Foundation under clause (i) for the endowment fund under paragraph (1) are deposited in that fund in accordance with this subparagraph.
-
-(3) It is the intent of Congress that in making expenditures from the endowment fund under paragraph (1) to carry out activities specified in that paragraph, the Foundation should give priority to funding projects that address the conservation of populations of whales that the Foundation determines—
-
-  (A) are the most endangered (including the northern right whale (Eubaleana glacialis)); or
-
-  (B) most warrant, and are most likely to benefit from, research management, or educational activities that may be funded with amounts made available from the fund.
-
-**(g) Consultation** In carrying out any action on the part of the Foundation under subsection (f), the Directors of the Board shall consult with the Administrator of the National Oceanic and Atmospheric Administration and the Marine Mammal Commission.
-
-**(h) Expenditures for printing services or capital equipment** The Foundation shall not make any expenditure of Federal funds in connection with any one transaction for printing services or capital equipment that is greater than $10,000 unless the expenditure is approved by the Federal agency that administers the Federal program under which the funds were provided.
-
-**(i) Notice to Members of Congress** The Foundation shall not make a grant of Federal funds in an amount greater than $10,000 unless, by not later than 30 days before the grant is made, the Foundation provides notice of the grant to the Member of Congress for the congressional district in which the project to be funded with the grant will be carried out.
+**(g) Notice to Members of Congress** The Foundation shall not make a grant of Federal funds in an amount greater than $10,000 unless, by not later than 30 days before the grant is made, the Foundation provides notice of the grant to the Member of Congress for the congressional district in which the project to be funded with the grant will be carried out.
 
 ### Statutory Notes
 
+#### References in Text
+This Act, referred to in subsec. (c)(2)(A), is Pub. L. 116–188, Oct. 30, 2020, 134 Stat. 905, known as the America’s Conservation Enhancement Act. For complete classification of this Act to the Code, see Short Title note set out under [section 8201 of this title](./chapter-101-national-fish-habitat-conservation-through-partnerships.md#section-8201) and Tables.
+
 #### Amendments
+2020—Subsec. (c). Pub. L. 116–188, § 107(b)(1)(A), (B), (G), designated introductory provisions as par. (1), inserted heading, substituted “To carry out the purposes described in” for “To carry out its purposes under”, redesignated former pars. (1) to (11) as subpars. (A) to (K), respectively, of par. (1), realigned margins, and struck out concluding provisions which read as follows: “For purposes of this chapter, an interest in real property shall be treated as including, among other things, easements or other rights for preservation, conservation, protection, or enhancement by and for the public of natural, scenic, historic, scientific, educational, inspirational, or recreational resources. A gift, devise, or bequest may be accepted by the Foundation even though it is encumbered, restricted, or subject to beneficial interests of private persons if any current or future interest therein is for the benefit of the Foundation.”
+
+Subsec. (c)(1)(D). Pub. L. 116–188, § 107(b)(1)(C), substituted “at 1 or more financial institutions that are members of the Federal Deposit Insurance Corporation or the Securities Investment Protection Corporation” for “that are insured by an agency or instrumentality of the United States”.
+
+Subsec. (c)(1)(E). Pub. L. 116–188, § 107(b)(1)(D), substituted “subparagraph (C) or (D)” for “paragraph (3) or (4)”.
+
+Subsec. (c)(1)(K), (L). Pub. L. 116–188, § 107(b)(1)(E), (F), added subpars. (K) and (L) and struck out former subpar. (K) which read as follows: “to do any and all acts necessary and proper to carry out the purposes of the Foundation.”
+
+Subsec. (c)(2), (3). Pub. L. 116–188, § 107(b)(1)(G), added pars. (2) and (3).
+
+Subsecs. (f) to (i). Pub. L. 116–188, § 107(b)(2), (3), redesignated subsecs. (h) and (i) as (f) and (g), respectively, and struck out former subsecs. (f) and (g) which related to establishment of national whale conservation endowment fund and consultation, respectively.
+
 2006—Subsec. (i). Pub. L. 109–363 substituted “grant of Federal funds in an amount greater than $10,000” for “grant of funds”.
 
 2000—Subsec. (a)(3). Pub. L. 106–408, § 204(a), inserted “or in a county in the State of Maryland or Virginia that borders on the District of Columbia” after “the District of Columbia”.
@@ -382,11 +372,13 @@ The Congress expressly reserves the right to repeal or amend this chapter at any
 ## § 3709. Authorization of appropriations
 **(a) Authorization of appropriations**
 
-(1) **In general** — There are authorized to be appropriated to carry out this chapter for each of fiscal years 2006 through 2010—
+(1) **In general** — There are authorized to be appropriated to carry out this Act for each of fiscal years 2021 through 2025—
 
-  (A) $25,000,000 to the Department of the Interior; and
+  (A) $15,000,000 to the Secretary of the Interior;
 
-  (B) $5,000,000 to the Department of Commerce.
+  (B) $5,000,000 to the Secretary of Agriculture; and
+
+  (C) $5,000,000 to the Secretary of Commerce.
 
 (2) **Requirement of advance payment** — The amount made available for a fiscal year under paragraph (1) shall be provided to the Foundation in an advance payment of the entire amount on October 1, or as soon as practicable thereafter, of the fiscal year.
 
@@ -396,9 +388,25 @@ The Congress expressly reserves the right to repeal or amend this chapter at any
 
 **(b) Additional authorization**
 
-(1) **In general** — In addition to the amounts authorized to be appropriated under subsection (a), the Foundation may accept Federal funds from a Federal agency under any other Federal law for use by the Foundation to further the conservation and management of fish, wildlife, plants, and other natural resources in accordance with the requirements of this chapter.
+(1) **Amounts from Federal agencies**
 
-(2) **Use of funds accepted from Federal agencies** — Federal funds provided to the Foundation under paragraph (1) shall be used by the Foundation for matching, in whole or in part, contributions (whether in currency, services, or property) made to the Foundation by private persons and State and local government agencies.
+  (A) *In general* — In addition to the amounts authorized to be appropriated under subsection (a), Federal departments, agencies, or instrumentalities are authorized to provide funds to the Foundation through Federal financial assistance grants and cooperative agreements, subject to the condition that the amounts are used for purposes that further the conservation and management of fish, wildlife, plants, and other natural resources in accordance with this Act.
+
+  (B) *Advances* — Federal departments, agencies, or instrumentalities may advance amounts described in subparagraph (A) to the Foundation in a lump sum without regard to when the expenses for which the amounts are used are incurred.
+
+  (C) *Management fees* — The Foundation may assess and collect fees for the management of amounts received under this paragraph.
+
+(2) **Use of amounts accepted from Federal agencies** — Federal funds provided to the Foundation under paragraph (1) may be used by the Foundation for matching, in whole or in part, contributions (whether in currency, services, or property) made to the Foundation by private persons, State and local government agencies, and other entities.
+
+(3) **Administration of amounts**
+
+  (A) *In general* — In entering into contracts, agreements, or other partnerships pursuant to this Act, a Federal department, agency, or instrumentality shall have discretion to waive any competitive process applicable to the department, agency, or instrumentality for entering into contracts, agreements, or partnerships with the Foundation if the purpose of the waiver is—
+
+    (i) to address an environmental emergency resulting from a natural or other disaster; or
+
+    (ii) as determined by the head of the applicable Federal department, agency, or instrumentality, to reduce administrative expenses and expedite the conservation and management of fish, wildlife, plants, and other natural resources.
+
+  (B) *Reports* — The Foundation shall include in the annual report submitted under [section 3706(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section3706/b&num=0&edition=prelim) a description of any use of the authority under subparagraph (A) by a Federal department, agency, or instrumentality in that fiscal year.
 
 **(c) Prohibition on use of grant amounts for litigation and lobbying expenses** Amounts provided as a grant by the Foundation shall not be used for—
 
@@ -406,9 +414,24 @@ The Congress expressly reserves the right to repeal or amend this chapter at any
 
 (2) any activity the purpose of which is to influence legislation pending before Congress.
 
+**(d) Use of gifts, devises, or bequests of money or other property** Any gifts, devises, or bequests of amounts or other property, or any other amounts or other property, transferred to, deposited with, or otherwise in the possession of the Foundation pursuant to this Act, may be made available by the Foundation to Federal departments, agencies, or instrumentalities and may be accepted and expended (or the disposition of the amounts or property directed), without further appropriation, by those Federal departments, agencies, or instrumentalities, subject to the condition that the amounts or property be used for purposes that further the conservation and management of fish, wildlife, plants, and other natural resources.
+
 ### Statutory Notes
 
+#### References in Text
+This Act, referred to in subsecs. (a)(1), (b)(1)(A), (3)(A), and (d), is Pub. L. 116–188, Oct. 30, 2020, 134 Stat. 905, known as the America’s Conservation Enhancement Act. For complete classification of this Act to the Code, see Short Title note set out under [section 8201 of this title](./chapter-101-national-fish-habitat-conservation-through-partnerships.md#section-8201) and Tables.
+
 #### Amendments
+2020—Subsec. (a)(1). Pub. L. 116–188, § 107(c)(1), added par. (1) and struck out former par. (1) which related to authorization of appropriations for fiscal years 2006 through 2010.
+
+Subsec. (b)(1). Pub. L. 116–188, § 107(c)(2)(A), added par. (1) and struck out former par. (1). Prior to amendment, text read as follows: “In addition to the amounts authorized to be appropriated under subsection (a), the Foundation may accept Federal funds from a Federal agency under any other Federal law for use by the Foundation to further the conservation and management of fish, wildlife, plants, and other natural resources in accordance with the requirements of this chapter.”
+
+Subsec. (b)(2). Pub. L. 116–188, § 107(c)(2)(B), substituted, in heading, “amounts” for “funds” and, in text, “may be used” for “shall be used” and “, State and local government agencies, and other entities” for “and State and local government agencies”.
+
+Subsec. (b)(3). Pub. L. 116–188, § 107(c)(2)(C), added par. (3).
+
+Subsec. (d). Pub. L. 116–188, § 107(c)(3), added subsec. (d).
+
 2006—Subsec. (a)(1). Pub. L. 109–363, § 202, substituted “fiscal years 2006 through 2010” for “fiscal years 2001 through 2005”.
 
 Subsec. (a)(3). Pub. L. 109–363, § 204, inserted “, or to a recipient of a grant provided by the Foundation,” after “made to the Foundation”.
@@ -449,9 +472,11 @@ Subsec. (c). Pub. L. 103–232, § 104(a)(2), added subsec. (c).
 <a id="section-3710"></a>
 ## § 3710. Limitation on authority
 
-Nothing in this chapter authorizes the Foundation to perform any function the authority for which is provided to the National Park Foundation by subchapter II of chapter 1011 of title 54.
+Nothing in this chapter authorizes the Foundation to perform any function the exclusive authority for which is provided to the National Park Foundation by subchapter II of chapter 1011 of title 54.
 
 ### Statutory Notes
 
 #### Amendments
+2020—Pub. L. 116–188 inserted “exclusive” before “authority”.
+
 2014—Pub. L. 113–287 substituted “subchapter II of chapter 1011 of title 54” for “Public Law 90–209 ([16 U.S.C. 19e](./chapter-001-national-parks-military-parks-monuments-and-seashores.md#section-19e) et seq.)”.

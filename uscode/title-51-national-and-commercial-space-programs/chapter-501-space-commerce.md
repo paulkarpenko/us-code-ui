@@ -250,7 +250,7 @@ Pub. L. 105–303, title I, § 104(a), Oct. 28, 1998, 112 Stat. 2852, provided t
 
 **(b) Acquisition From Commercial Providers.—** The Administrator shall, to the extent possible and while satisfying the scientific or educational requirements of the Administration, and where appropriate, of other Federal agencies and scientific researchers, acquire, where cost effective, space science data from a commercial provider.
 
-**(c) Treatment of Space Science Data as Commercial Item Under Acquisition Laws.—** Acquisitions of space science data by the Administrator shall be carried out in accordance with applicable acquisition laws and regulations (including chapters 137 and 140 of title 10). For purposes of such law and regulations, space science data shall be considered to be a commercial item. Nothing in this subsection shall be construed to preclude the United States from acquiring, through contracts with commercial providers, sufficient rights in data to meet the needs of the scientific and educational community or the needs of other government activities.
+**(c) Treatment of Space Science Data as Commercial Product or Commercial Service Under Acquisition Laws.—** Acquisitions of space science data by the Administrator shall be carried out in accordance with applicable acquisition laws and regulations (including chapters 137 and 140 of title 10). For purposes of such law and regulations, space science data shall be considered to be a commercial product or commercial service. Nothing in this subsection shall be construed to preclude the United States from acquiring, through contracts with commercial providers, sufficient rights in data to meet the needs of the scientific and educational community or the needs of other government activities.
 
 **(d) Safety Standards.—** Nothing in this section shall be construed to prohibit the Federal Government from requiring compliance with applicable safety standards.
 
@@ -263,17 +263,8 @@ Pub. L. 105–303, title I, § 104(a), Oct. 28, 1998, 112 Stat. 2852, provided t
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
 | 50113 | [42 U.S.C. 14713](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section14713&num=0&edition=prelim). | Pub. L. 105–303, title I, § 105, Oct. 28, 1998, 112 Stat. 2852. |
 
-#### Amendment of Subsection (c)
-Pub. L. 115–232, div. A, title VIII, § 836(g)(10)(A), (h), Aug. 13, 2018, 132 Stat. 1874, provided that, effective Jan. 1, 2020, subject to a savings provision, subsection (c) of this section is amended as follows:
-
-(1) in heading, by striking “Commercial Item” and inserting “Commercial Product or Commercial Service”; and
-
-(2) by striking “commercial item” in the second sentence and inserting “commercial product or commercial service”.
-
-See 2018 Amendment note below.
-
 #### Amendments
-2018—Subsec. (c). Pub. L. 115–232 substituted “Commercial Product or Commercial Service” for “Commercial Item” , in heading and “commercial product or commercial service” for “commercial item” in text.
+2018—Subsec. (c). Pub. L. 115–232 substituted “Commercial Product or Commercial Service” for “Commercial Item” in heading and “commercial product or commercial service” for “commercial item” in text.
 
 #### Effective Date of 2018 Amendment
 Amendment by Pub. L. 115–232 effective Jan. 1, 2020, subject to a savings provision, see section 836(h) of Pub. L. 115–232, set out as an Effective Date of 2018 Amendment; Savings Provision note under [section 453b of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section453b&num=0&edition=prelim), Domestic Security.
@@ -296,7 +287,7 @@ The Administrator shall administer the Commercial Space Center program in a coor
 ## § 50115. Sources of Earth science data
 **(a) Acquisition.—** The Administrator shall, to the extent possible and while satisfying the scientific or educational requirements of the Administration, and where appropriate, of other Federal agencies and scientific researchers, acquire, where cost-effective, space-based and airborne Earth remote sensing data, services, distribution, and applications from a commercial provider.
 
-**(b) Treatment as Commercial Item Under Acquisition Laws.—** Acquisitions by the Administrator of the data, services, distribution, and applications referred to in subsection (a) shall be carried out in accordance with applicable acquisition laws and regulations (including chapters 137 and 140 of title 10). For purposes of such law and regulations, such data, services, distribution, and applications shall be considered to be a commercial item. Nothing in this subsection shall be construed to preclude the United States from acquiring, through contracts with commercial providers, sufficient rights in data to meet the needs of the scientific and educational community or the needs of other government activities.
+**(b) Treatment as Commercial Product or Commercial Service Under Acquisition Laws.—** Acquisitions by the Administrator of the data, services, distribution, and applications referred to in subsection (a) shall be carried out in accordance with applicable acquisition laws and regulations (including chapters 137 and 140 of title 10). For purposes of such law and regulations, such data, services, distribution, and applications shall be considered to be a commercial product or commercial service. Nothing in this subsection shall be construed to preclude the United States from acquiring, through contracts with commercial providers, sufficient rights in data to meet the needs of the scientific and educational community or the needs of other government activities.
 
 **(c) Safety Standards.—** Nothing in this section shall be construed to prohibit the Federal Government from requiring compliance with applicable safety standards.
 
@@ -311,15 +302,6 @@ The Administrator shall administer the Commercial Space Center program in a coor
 | 50115(b) | [42 U.S.C. 14715(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section14715/b&num=0&edition=prelim). |  |
 | 50115(c) | [42 U.S.C. 14715(d)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section14715/d&num=0&edition=prelim). |  |
 | 50115(d) | [42 U.S.C. 14715(e)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section14715/e&num=0&edition=prelim). |  |
-
-#### Amendment of Subsection (b)
-Pub. L. 115–232, div. A, title VIII, § 836(g)(10)(B), (h), Aug. 13, 2018, 132 Stat. 1874, provided that, effective Jan. 1, 2020, subject to a savings provision, subsection (b) of this section is amended as follows:
-
-(1) in heading, by striking “Commercial Item” and inserting “Commercial Product or Commercial Service”; and
-
-(2) by striking “commercial item” in the second sentence and inserting “commercial product or commercial service”.
-
-See 2018 Amendment note below.
 
 #### Amendments
 2018—Subsec. (b). Pub. L. 115–232, in heading, substituted “Commercial Product or Commercial Service” for “Commercial Item” and, in text, substituted “commercial product or commercial service” for “commercial item”.
@@ -402,7 +384,7 @@ Pub. L. 115–10, title VIII, § 825, Mar. 21, 2017, 131 Stat. 65, provided that
 
 <a id="section-50132"></a>
 ## § 50132. Acquisition of commercial space transportation services
-**(a) Treatment of Commercial Space Transportation Services as Commercial Item Under Acquisition Laws.—** Acquisitions of space transportation services by the Federal Government shall be carried out in accordance with applicable acquisition laws and regulations (including chapters 137 and 140 of title 10). For purposes of such law and regulations, space transportation services shall be considered to be a commercial item.
+**(a) Treatment of Commercial Space Transportation Services as Commercial Service Under Acquisition Laws.—** Acquisitions of space transportation services by the Federal Government shall be carried out in accordance with applicable acquisition laws and regulations (including chapters 137 and 140 of title 10). For purposes of such law and regulations, space transportation services shall be considered to be a commercial service.
 
 **(b) Safety Standards.—** Nothing in this section shall be construed to prohibit the Federal Government from requiring compliance with applicable safety standards.
 
@@ -412,15 +394,6 @@ Pub. L. 115–10, title VIII, § 825, Mar. 21, 2017, 131 Stat. 65, provided that
 | --- | --- | --- |
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
 | 50132 | [42 U.S.C. 14732](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section14732&num=0&edition=prelim). | Pub. L. 105–303, title II, § 202, Oct. 28, 1998, 112 Stat. 2855. |
-
-#### Amendment of Subsection (a)
-Pub. L. 115–232, div. A, title VIII, § 836(g)(10)(C), (h), Aug. 13, 2018, 132 Stat. 1874, provided that, effective Jan. 1, 2020, subject to a savings provision, subsection (a) of this section is amended as follows:
-
-(1) in heading, by striking “Commercial Item” and inserting “Commercial Service”; and
-
-(2) by striking “commercial item” in the second sentence and inserting “commercial service”.
-
-See 2018 Amendment note below.
 
 #### Amendments
 2018—Subsec. (a). Pub. L. 115–232 substituted “Commercial Service” for “Commercial Item” in heading and “commercial service” for “commercial item” in text.

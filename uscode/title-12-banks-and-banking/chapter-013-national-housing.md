@@ -2436,14 +2436,14 @@ Act Oct. 28, 1949, ch. 782, cited as a credit to this section, was repealed (sub
 #### Transfer of Functions
 Federal Home Loan Bank Board abolished and functions transferred, see sections 401 to 406 of Pub. L. 101–73, set out as a note under [section 1437 of this title](./chapter-011-federal-home-loan-banks.md#section-1437).
 
-#### Emergency Preparedness Functions
-For assignment of certain emergency preparedness functions to Secretary of Housing and Urban Development, see Parts 1, 2, and 9 of Ex. Ord. No. 12656, Nov. 18, 1988, 53 F.R. 47491, set out as a note under [section 5195 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5195&num=0&edition=prelim), The Public Health and Welfare.
-
 #### Annual Report on Areas of Program Administration and Management Which Require Improvement
 Pub. L. 90–448, § 5, Aug. 1, 1968, 82 Stat. 477, as amended by Pub. L. 91–609, title IX, § 918, Dec. 31, 1970, 84 Stat. 1816, directed Secretary to report annually to Committees on Banking and Currency of House and Senate, identifying specific areas of program administration and management which require improvement, describing actions taken and proposed, and recommendations for legislation, prior to repeal by Pub. L. 93–608, § 1(9), Jan. 2, 1975, 88 Stat. 1968.
 
 #### Executive Order No. 11196
 Ex. Ord. No. 11196, Feb. 2, 1965, 30 F.R. 1171, which delegated functions to Housing and Home Finance Administrator, was revoked by Ex. Ord. No. 12553, Feb. 25, 1986, 51 F.R. 7237.
+
+#### Emergency Preparedness Functions
+For assignment of certain emergency preparedness functions to Secretary of Housing and Urban Development, see Parts 1, 2, and 9 of Ex. Ord. No. 12656, Nov. 18, 1988, 53 F.R. 47491, set out as a note under [section 5195 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5195&num=0&edition=prelim), The Public Health and Welfare.
 
 
 <a id="section-1705"></a>
@@ -2667,6 +2667,7 @@ Advisory committees in existence on Jan. 5, 1973, to terminate not later than th
 
 ### Statutory Notes
 
+#### Codification
 Section 1701i, act July 15, 1949, ch. 338, title VI, § 603, 63 Stat. 440; 1953 Reorg. Plan No. 1, § 5, eff. Apr. 11, 1953, 18 F.R. 2053, 67 Stat. 631, included the Secretary of Labor and the Secretary of Health, Education, and Welfare or their designees in the membership of the National Housing Council of the Housing and Home Finance Agency.
 
 Section 1701i–1, act Sept. 1, 1951, ch. 378, title VI, § 615, 65 Stat. 317, included the Secretary of Defense or his designee and excluded the Chairman of Board of Directors of Reconstruction Finance Corporation or his designee from National Housing Council membership.
@@ -3107,10 +3108,11 @@ Section was enacted as part of the Housing Act of 1952, and not as part of the N
 #### Transfer of Functions
 Functions, powers, and duties of Housing and Home Finance Agency and its Administrator transferred to and vested in Secretary of Housing and Urban Development by Pub. L. 89–174, § 5, Sept. 9, 1965, 79 Stat. 669, classified to [section 3534 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3534&num=0&edition=prelim), The Public Health and Welfare.
 
-#### Termination, Liquidation, and Abolition of Reconstruction Finance Corporation
-Section 6(a) of Reorg. Plan No. 1 of 1957, eff. June 30, 1957, 22 F.R. 4633, 71 Stat. 647, set out in the Appendix to Title 5, Government Organization and Employees, abolished Reconstruction Finance Corporation.
-
+#### Termination and Liquidation of Reconstruction Finance Corporation
 Termination on June 30, 1954, of Reconstruction Finance Corporation and liquidation thereof, see sections 608 and 609 of Title 15, Commerce and Trade, and notes thereunder.
+
+#### Abolition of Reconstruction Finance Corporation
+Section 6(a) of Reorg. Plan No. 1 of 1957, eff. June 30, 1957, 22 F.R. 4633, 71 Stat. 647, set out in the Appendix to Title 5, Government Organization and Employees, abolished Reconstruction Finance Corporation.
 
 
 <a id="section-1715b"></a>
@@ -3466,6 +3468,19 @@ The Secretary shall not reject an application on technical grounds without givin
 
 ### Statutory Notes
 
+#### Amendment of Subsection (j)
+Pub. L. 116–260, div. Q, title I, § 101(c), (h), Dec. 27, 2020, 134 Stat. 2163, 2165, provided that, effective 2 years after Dec. 27, 2020, subsection (j) of this section is amended by adding at the end the following:
+
+“(9) Carbon monoxide alarms
+
+“Each owner of a dwelling unit assisted under this section shall ensure that carbon monoxide alarms or detectors are installed in the dwelling unit in a manner that meets or exceeds—
+
+“(A) the standards described in chapters 9 and 11 of the 2018 publication of the International Fire Code, as published by the International Code Council; or
+
+“(B) any other standards as may be adopted by the Secretary, including any relevant updates to the International Fire Code, through a notice published in the Federal Register.”
+
+See 2020 Amendment note below.
+
 #### References in Text
 This Act, referred to in subsec. (g)(1), is Pub. L. 86–372, Sept. 23, 1959, 73 Stat. 654, as amended, known as the Housing Act of 1959. For complete classification of this Act to the Code, see Short Title of 1959 Amendment note set out under [section 1701 of this title](./chapter-013-national-housing.md#section-1701) and Tables.
 
@@ -3481,6 +3496,8 @@ The Fair Housing Act, referred to in subsec. (j)(2), is title VIII of Pub. L. 90
 Section was enacted as part of the Housing Act of 1959, and not as part of the National Housing Act which comprises this chapter.
 
 #### Amendments
+2020—Subsec. (j)(9). Pub. L. 116–260 added par. (9).
+
 2014—Subsec. (f)(2)(A). Pub. L. 113–76, § 241(a)(1), in introductory provisions, substituted “The Secretary shall establish procedures to delegate the award, review and processing of projects, selected by the Secretary in a national competition, to a State or local housing agency that—” for “In issuing a capital advance under this subsection for any project for which financing for the purposes described in the last two sentences of subsection (b) is provided by a combination of a capital advance under subsection (c)(1) and sources other than this section, within 30 days of award of the capital advance, the Secretary shall delegate review and processing of such projects to a State or local housing agency that—”.
 
 Subsec. (f)(2)(A)(iii). Pub. L. 113–76, § 241(a)(2), substituted “funding” for “capital advance” and a semicolon for a comma.
@@ -3733,6 +3750,9 @@ Subsec. (c)(3). Pub. L. 87–70, § 201(a)(4), substituted “credited to the co
 
 Subsec. (e). Pub. L. 87–70, § 201(d), added subsec. (e).
 
+#### Effective Date of 2020 Amendment
+Pub. L. 116–260, div. Q, title I, § 101(h), Dec. 27, 2020, 134 Stat. 2165, provided that: “The amendments made by subsections (b) through (e) [amending this section and sections 1437a, 1437f, 8013, and 12905 of Title 42, The Public Health and Welfare] shall take effect on the date that is 2 years after the date of enactment of this Act [Dec. 27, 2020].”
+
 #### Effective Date of 2000 Amendment
 Pub. L. 106–569, title VIII, § 803, Dec. 27, 2000, 114 Stat. 3019, provided that: “(a) In General.—The provisions of this title [see section 801 of Pub. L. 106–569, set out as a Short Title of 2000 Amendment note under [section 1701 of this title](./chapter-013-national-housing.md#section-1701)] and the amendments made by this title are effective as of the date of the enactment of this Act [Dec. 27, 2000], unless such provisions or amendments specifically provide for effectiveness or applicability upon another date certain. “(b) Effect of Regulatory Authority.—Any authority in this title or the amendments made by this title to issue regulations, and any specific requirement to issue regulations by a date certain, may not be construed to affect the effectiveness or applicability of the provisions of this title or the amendments made by this title under such provisions and amendments and subsection (a) of this section.”
 
@@ -3768,6 +3788,9 @@ Pub. L. 87–723, § 3(b), Sept. 28, 1962, 76 Stat. 670, provided that the amend
 
 #### Regulations
 Pub. L. 106–74, title V, § 502, Oct. 20, 1999, 113 Stat. 1101, provided that: “The Secretary of Housing and Urban Development shall issue any regulations to carry out this title [see Short Title of 1999 Amendment note set out under [section 1701 of this title](./chapter-013-national-housing.md#section-1701)] and the amendments made by this title that the Secretary determines may or will affect tenants of federally assisted housing only after notice and opportunity for public comment in accordance with the procedure under [section 553 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section553&num=0&edition=prelim), United States Code, applicable to substantive rules (notwithstanding subsections (a)(2), (b)(B), and (d)(3) of such section). Notice of such proposed rulemaking shall be provided by publication in the Federal Register. In issuing such regulations, the Secretary shall take such actions as may be necessary to ensure that such tenants are notified of, and provided an opportunity to participate in, the rulemaking, as required by such section 553.”
+
+#### Construction of 2020 Amendment
+Nothing in amendment made by section 101(c) of Pub. L. 116–260 to be construed to preempt or limit applicability of certain State or local laws relating to carbon monoxide devices, see section 101(j) of Pub. L. 116–260, set out as a note under [section 1437a of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1437a&num=0&edition=prelim), The Public Health and Welfare.
 
 #### Rental Assistance Contract Obligations
 Pub. L. 111–117, div. A, title II, Dec. 16, 2009, 123 Stat. 3088, as amended by Pub. L. 112–10, div. B, title XII, § 2256, Apr. 15, 2011, 125 Stat. 197, provided in part: “That amounts obligated for initial project rental assistance contracts from amounts appropriated in fiscal year 2003 and thereafter shall remain available for the purpose of paying such obligations incurred prior to the expiration of such amounts for a 10 year period following such expiration”.
@@ -5336,7 +5359,7 @@ For definition of “State”, see [section 5301 of this title](./chapter-053-wa
 ### Statutory Notes
 
 #### References in Text
-The District of Columbia Nonprofit Corporation Act, referred to in subsec. (a)(2), is Pub. L. 87–569, Aug. 6, 1962, 76 Stat. 265, as amended, which is not classified to the Code.
+The District of Columbia Nonprofit Corporation Act, referred to in subsec. (a)(2), is Pub. L. 87–569, Aug. 6, 1962, 76 Stat. 265, which is not classified to the Code.
 
 #### Codification
 Section was enacted as part of the Housing and Urban Development Act of 1968, and not as part of the National Housing Act which comprises this chapter.
@@ -5647,6 +5670,7 @@ Act Aug. 10, 1948, ch. 832, title V, § 501(a), 62 Stat. 1283, formerly cited as
 #### Transfer of Functions
 Functions, powers, and duties of Federal Housing Administration and Housing and Home Finance Agency transferred to Secretary of Housing and Urban Development who was authorized to delegate such functions, powers, and duties to such officers and employees of Department of Housing and Urban Development as Secretary may designate, see sections 3534 and 3535 of Title 42, The Public Health and Welfare.
 
+#### Transfer of Functions
 Reorg. Plan No. 3 of 1947, eff. July 27, 1947, 12 F.R. 4981, 61 Stat. 954, set out in the Appendix to Title 5, Government Organization and Employees, abolished office of Federal Housing Administrator and transferred functions to Federal Housing Commissioner. It also consolidated Federal Housing Administration with other agencies into Housing and Home Finance Agency and transferred functions of Federal Loan Administrator with respect to Federal Housing Administration and its functions to Housing and Home Finance Administrator. Federal Housing Administration continued as a constituent agency within Housing and Home Finance Agency. For provisions concerning appointment and compensation of Federal Housing Commissioner, see section 3 of Reorganization Plan.
 
 Functions, powers, and duties of National Housing Agency with respect to property, funds, and other assets which were formerly under administration of Farm Security Administration and were transferred to National Housing Agency by Ex. Ord. No. 9070, Feb. 24, 1942, 7 F.R. 1529, as amended, were abolished by section 2(a)(3) of act Aug. 14, 1946, ch. 964, 60 Stat. 1063, as amended, set out as a note under sections 1001 to 1005d of Title 7, Agriculture, except with respect of housing projects and such other properties and assets in process of liquidation.
@@ -10689,6 +10713,9 @@ Amendment by Pub. L. 97–35 effective Oct. 1, 1981, see section 371 of Pub. L. 
 #### Regulations
 Pub. L. 100–242, title IV, § 409(c), Feb. 5, 1988, 101 Stat. 1904, provided that: “The Secretary of Housing and Urban Development shall issue such regulations as may be necessary to carry out the amendment made by this section [amending this section] by not later than the expiration of the 90-day period following the date of the enactment of this Act [Feb. 5, 1988].”
 
+#### Healthcare Operating Loss Loans
+Pub. L. 116–260, div. N, title V, § 542, Dec. 27, 2020, 134 Stat. 2090, provided that: “(a) Definitions.—In this section:“(1) Operating loss.—The term ‘operating loss’ has the meaning given the term in section 223(d) of the National Housing Act ([12 U.S.C. 1715n(d)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1715n/d&num=0&edition=prelim)). “(2) Secretary.—The term ‘Secretary’ means the Secretary of Housing and Urban Development. “(b) Authorization to Provide Mortgage Insurance.—Notwithstanding any other provision of law, for fiscal years 2020 and 2021, in addition to the authority provided to insure operating loss loans under section 223(d) of the National Housing Act ([12 U.S.C. 1715n(d)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1715n/d&num=0&edition=prelim)), the Secretary may insure or enter into commitments to ensure mortgages under such section 223(d) with respect to healthcare facilities—“(1) insured under section 232 or section 242 of the National Housing Act ([12 U.S.C. 1715w](./chapter-013-national-housing.md#section-1715w), 1715z–7); “(2) that were financially sound immediately prior to the President’s March 13, 2020 Proclamation on Declaring a National Emergency Concerning the Novel Coronavirus Disease (COVID–19) Outbreak [Proc. No. 9994, [50 U.S.C. 1621](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1621&num=0&edition=prelim) note]; “(3) that have exhausted all other forms of assistance; and “(4) subject to—“(A) the limitation for new commitments to guarantee loans insured under the General and Special Risk Insurance Funds under the heading ‘General and Special Risk Program Account’ for fiscal years 2020 and 2021; and “(B) the underwriting parameters and other terms and conditions that the Secretary determines appropriate through guidance. “(c) Amount of Loan.—After all other realized or reasonably anticipated assistance (including reimbursements, loans, or other payments from other Federal sources) are taken into account, a loan insured under subsection (b) shall be in an amount not exceeding the lesser of—“(1) the temporary losses or additional expenses incurred or expected to be incurred by the healthcare facility as a result of the impact of the circumstances giving rise to the President’s March 13, 2020 Proclamation on Declaring a National Emergency Concerning the Novel Coronavirus Disease (COVID–19) Outbreak; or “(2) the amount expected to be needed to cover the sum of—“(A) 1 year of principal and interest payments for the existing loans of the healthcare facility insured by the Secretary; “(B) 1 year of principal and interest payments for the loan pursuant to this section; “(C) 1 year of mortgage insurance premiums for the loans described in subparagraphs (A) and (B); “(D) 1 year of monthly deposits to reserve accounts required by the Secretary for the loans described in subparagraphs (A) and (B); “(E) 1 year of property taxes and insurance for the healthcare facility; and “(F) transaction costs, including legal fees, for the loans described in subparagraphs (A) and (B).”
+
 #### Streamlined Refinancing
 Pub. L. 103–233, title I, § 103(d), Apr. 11, 1994, 108 Stat. 361, provided that: “As soon as practicable, the Secretary shall implement a streamlined refinancing program under the authority provided in section 223 of the National Housing Act [[12 U.S.C. 1715n](./chapter-013-national-housing.md#section-1715n)] to prevent the default of mortgages insured by the FHA which cover multifamily housing projects, as defined in section 203(b) of the Housing and Community Development Amendments of 1978 [[12 U.S.C. 1701z–11(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1701z–11/b&num=0&edition=prelim)].”
 
@@ -13562,6 +13589,18 @@ Amendment by Pub. L. 99–272 effective Oct. 18, 1986, see section 14001(e) of P
 
 (4) **Fraud and misrepresentation** — This subsection may not be construed to preclude the Secretary from establishing defenses against the original lender based on fraud or material misrepresentation or to bar the Secretary from establishing by regulations in effect on the date of issuance or disbursement, whichever is earlier, partial defenses to the amount payable on the guarantee.
 
+(5) **Trailing documents**
+
+  (A) *In general* — The Secretary may issue a certificate of guarantee under this subsection for a loan involving a security interest in Indian trust land before the Secretary receives the trailing documents required by the Secretary from the Bureau of Indian Affairs, including the final certified title status report showing the recordation by the Bureau of Indian Affairs of the mortgage relating to the loan, if the originating lender agrees to indemnify the Secretary for any losses that may result when—
+
+    (i) a claim payment is presented to the Secretary due to the default of the borrower on the loan; and
+
+    (ii) the required trailing documents are outstanding.
+
+  (B) *Termination of indemnification agreement* — An indemnification agreement between an originating lender and the Secretary described in subparagraph (A) shall only terminate upon receipt by the Secretary of the trailing documents described in that subparagraph in a form and manner that is acceptable to the Secretary.
+
+  (C) *Rule of construction* — Nothing in this paragraph shall be construed as authorizing the Bureau of Indian Affairs to delay the issuance of a final certified title status report and recorded mortgage relating to a loan closed on Indian trust land.
+
 **(d) Guarantee fee** The Secretary shall establish and collect, at the time of issuance of the guarantee, a fee for the guarantee of loans under this section, in an amount not exceeding 3 percent of the principal obligation of the loan. The Secretary may also establish and collect annual premium payments in an amount not exceeding 1 percent of the remaining guaranteed balance (excluding the portion of the remaining balance attributable to the fee collected at the time of issuance of the guarantee). The Secretary shall establish the amount of the fees and premiums by publishing a notice in the Federal Register. The Secretary shall deposit any fees and premiums collected under this subsection in the Indian Housing Loan Guarantee Fund established under subsection (i).
 
 **(e) Liability under guarantee** The liability under a guarantee provided under this section shall decrease or increase on a pro rata basis according to any decrease or increase in the amount of the unpaid obligation under the provisions of the loan agreement.
@@ -13735,6 +13774,8 @@ The Indian Self-Determination and Education Assistance Act, referred to in subse
 Section was enacted as part of the Housing and Community Development Act of 1992, and not as part of the National Housing Act which comprises this chapter.
 
 #### Amendments
+2020—Subsec. (c)(5). Pub. L. 116–260 added par. (5).
+
 2014—Subsec. (h)(1)(B). Pub. L. 113–235 inserted after first sentence “Exhausting all reasonable possibilities of collection by the holder of the guarantee shall include a good faith consideration of loan modification as well as meeting standards for servicing loans in default, as determined by the Secretary.”
 
 2013—Subsec. (d). Pub. L. 113–6 amended subsec. (d) generally. Prior to amendment, text read as follows: “The Secretary shall fix and collect a guarantee fee for the guarantee of loans under this section, which may not exceed the amount equal to 1 percent of the principal obligation of the loan. The fee shall be paid by the lender at time of issuance of the guarantee and shall be adequate, in the determination of the Secretary, to cover expenses and probable losses. The Secretary shall deposit any fees collected under this subsection in the Indian Housing Loan Guarantee Fund established under subsection (i) of this section.”
@@ -13787,6 +13828,12 @@ Subsec. (k)(8). Pub. L. 104–330, § 701(h)(3), added par. (8) and struck out f
 
 #### Effective Date of 1998 Amendment
 Pub. L. 105–276, title V, § 595(f), Oct. 21, 1998, 112 Stat. 2659, provided that: “The amendments made by this section [enacting [section 4168 of Title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section4168&num=0&edition=prelim), Indians, amending this section, sections 4103, 4111 to 4113, 4131, 4135 to 4139 of Title 25, and sections 1437e and 12899h–1 of Title 42, The Public Health and Welfare, and repealing provisions set out as a note under [section 1437 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1437&num=0&edition=prelim)] are made and shall apply beginning upon the date of the enactment of this Act [Oct. 21, 1998].”
+
+#### Findings Related to Improvements to Loan Guarantees for Indian Housing
+Pub. L. 116–260, div. Q, title I, § 105(a), Dec. 27, 2020, 134 Stat. 2170, provided that: “Congress finds that— “(1) the extended timelines for approving lenders’ applications to participate in the program established under section 184 of the Housing and Community Development Act of 1992 ([12 U.S.C. 1715z–13a](./chapter-013-national-housing.md#section-1715z-13a)) are unacceptably long; “(2) those extended timelines inhibit the ability of lenders to provide needed mortgage loans on Native American reservations; and “(3) it can take a significant amount of time for certain Bureau of Indian Affairs Land Title and Records Offices to issue final certified title status reports for mortgages issued on Indian trust land under section 184 of the Housing and Community Development Act of 1992 ([12 U.S.C. 1715z–13a](./chapter-013-national-housing.md#section-1715z-13a)), which delays the guarantee of the loan by the Department of Housing and Urban Development.”
+
+#### Reports on Acceleration of Processing
+Pub. L. 116–260, div. Q, title I, § 105(c), Dec. 27, 2020, 134 Stat. 2171, provided that: “The Secretary of Housing and Urban Development shall— “(1) report to the Committee on Banking, Housing, and Urban Affairs and the Committee on Indian Affairs of the Senate and the Committee on Financial Services and the Committee on Natural Resources of the House of Representatives on a semi-annual basis on the progress that the Secretary is making to accelerate the processing of loan applications on fee simple and Indian trust land under section 184 of the Housing and Community Development Act of 1992 ([12 U.S.C. 1715z–13a](./chapter-013-national-housing.md#section-1715z-13a)); and “(2) if there is no improvement in accelerating those processing timelines, submit to the committees described in paragraph (1) a report explaining the lack of improvement.”
 
 
 <a id="section-1735f-17"></a>
@@ -16009,11 +16056,11 @@ For effective date of amendment by title VIII of Pub. L. 90–448, see section 8
 #### Effective Date of 1949 Amendment
 Joint Res. Oct. 25, 1949, ch. 729, § 7, 63 Stat. 906, provided in part: “That the amendment made by this section 7 with respect to mortgages guaranteed under section 501 of the Servicemen’s Readjustment Act of 1944, as amended [this section], shall apply only to such mortgages guaranteed after the date of enactment of this Act [Oct. 25, 1949].”
 
-#### Delegation of Functions
-Functions of President under this section delegated to Secretary of Housing and Urban Development, see Ex. Ord. No. 11732, July 30, 1973, 38 F.R. 20429, set out as a note under [section 301 of Title 3](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title3-section301&num=0&edition=prelim), The President.
-
 #### Service or Sale of Mortgages Purchased Prior to July 1, 1948; Fulfillment of Prior Commitments
 Act July 1, 1948, ch. 784, § 2, 62 Stat. 1209, provided that: “Nothing in the amendment made by the first section of this Act [amending sections 1716, 1717 to 1721 of this title] shall limit the authority of the Federal National Mortgage Association to service or sell any mortgage purchased prior to the date of the enactment of this Act [July 1, 1948], or to purchase, service, or sell any mortgage with respect to which a commitment to purchase was made prior to the date of the enactment of this Act [July 1, 1948].”
+
+#### Delegation of Functions
+Functions of President under this section delegated to Secretary of Housing and Urban Development, see Ex. Ord. No. 11732, July 30, 1973, 38 F.R. 20429, set out as a note under [section 301 of Title 3](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title3-section301&num=0&edition=prelim), The President.
 
 
 <a id="section-1745"></a>
@@ -17142,14 +17189,14 @@ Pub. L. 93–383, title VIII, § 806(k), Aug. 22, 1974, 88 Stat. 728, provided t
 #### Effective Date of 1968 Amendment
 For effective date of amendment by title VIII of Pub. L. 90–448, see section 808 of Pub. L. 90–448, set out as an Effective Date note under [section 1716b of this title](./chapter-013-national-housing.md#section-1716b).
 
-#### Transfer of Functions
-“Director of the Office of Personnel Management” substituted for “United States Civil Service Commission” pursuant to Reorg. Plan No. 2 of 1978, § 102, 43 F.R. 36037, 92 Stat. 3783, set out under [section 1101 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section1101&num=0&edition=prelim), Government Organization and Employees, which transferred functions vested by statute in United States Civil Service Commission to Director of Office of Personnel Management (except as otherwise specified), effective Jan. 1, 1979, as provided by section 1–102 of Ex. Ord. No. 12107, Dec. 28, 1978, 44 F.R. 1055, set out under [section 1101 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section1101&num=0&edition=prelim).
-
 #### Termination of Advisory Councils
 Advisory councils established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a council established by the President or an officer of the Federal Government, such council is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a council established by Congress, its duration is otherwise provided by law. See sections 3(2) and 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, 776, set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Proposal by Federal National Mortgage Association Respecting Mortgage-Backed Securities Program; Approval, Etc.
 Pub. L. 96–399, title III, § 330, Oct. 8, 1980, 94 Stat. 1652, provided that: “If the Federal National Mortgage Association submits to the Secretary of Housing and Urban Development or the Secretary of the Treasury, after the date of enactment of this section [Oct. 8, 1980], a proposal with respect to undertaking a mortgage-backed securities program, the Secretary of Housing and Urban Development or the Secretary of the Treasury, as the case may be, shall, within 90 days after submission of such proposal, approve the proposal or transmit to the Congress a report explaining why the proposal has not been approved.”
+
+#### Transfer of Functions
+“Director of the Office of Personnel Management” substituted for “United States Civil Service Commission” pursuant to Reorg. Plan No. 2 of 1978, § 102, 43 F.R. 36037, 92 Stat. 3783, set out under [section 1101 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section1101&num=0&edition=prelim), Government Organization and Employees, which transferred functions vested by statute in United States Civil Service Commission to Director of Office of Personnel Management (except as otherwise specified), effective Jan. 1, 1979, as provided by section 1–102 of Ex. Ord. No. 12107, Dec. 28, 1978, 44 F.R. 1055, set out under [section 1101 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section1101&num=0&edition=prelim).
 
 
 <a id="section-1747h"></a>

@@ -2,7 +2,7 @@
 title: 2
 chapter: '51'
 heading: HOUSE OF REPRESENTATIVES LEADERSHIP
-section_count: 19
+section_count: 20
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2&num=0&edition=prelim
 ---
@@ -140,6 +140,30 @@ Section was formerly classified to [section 74a–11 of this title](./chapter-00
 Section is from the 1999 Emergency Supplemental Appropriations Act.
 
 
+<a id="section-5106"></a>
+## § 5106. Allowance for compensation of interns in House leadership offices
+**(a) Establishment** There is established for the House of Representatives an allowance which shall be available for the compensation of interns who serve in House leadership offices.
+
+**(b) Benefit exclusion** [Section 5321(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section5321/b&num=0&edition=prelim) shall apply with respect to an intern who is compensated under the allowance under this section in the same manner as such section applies with respect to an intern who is compensated under the Members’ Representational Allowance.
+
+**(c) Definitions** In this section—
+
+(1) the term “House leadership office” means, with respect to a fiscal year, any office for which the appropriation for salaries and expenses of the office for the fiscal year is provided under the heading “House Leadership Offices” in the Act making appropriations for the Legislative Branch for the fiscal year; and
+
+(2) term “intern”, with respect to a House leadership office, has the meaning given such term with respect to a Member of the House of Representatives in [section 5321(c)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section5321/c/2&num=0&edition=prelim).
+
+**(d) Appropriations** There are authorized to be appropriated to carry out this section such sums as may be necessary for fiscal year 2020 and each succeeding fiscal year.
+
+**(e) Omitted**
+
+**(f) Effective date** This section and the amendments made by this section shall apply with respect to fiscal year 2020 and each succeeding fiscal year.
+
+### Statutory Notes
+
+#### Codification
+Section is comprised of section 113 of Pub. L. 116–94. Subsec. (e) of section 113 of Pub. L. 116–94 amended [section 5507 of this title](./chapter-055-house-of-representatives-officers-and-administration.md#section-5507).
+
+
 <a id="section-5121"></a>
 ## § 5121. Expense allowance of Speaker of House of Representatives
 
@@ -240,7 +264,7 @@ Repeal applicable with respect to any individual who serves as a Representative 
 ## § 5141. Additional employees in offices of House Minority Leader, Majority Whip, and Chief Deputy Majority Whip; authorization; compensation
 **(a)** Subject to the provisions of subsection (b), effective March 1, 1977, there shall be two additional employees in the office of the minority leader, and one additional employee each in the offices of the majority whip and the chief deputy majority whip.
 
-**(b)** The annual rate of compensation for any individual employed under subsection (a) shall not exceed the annual rate of basic pay of level V of the Executive Schedule of [section 5316 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5316&num=0&edition=prelim), and until otherwise provided by law such compensation as may be necessary shall be paid from the applicable accounts of the House of Representatives.
+**(b)** The maximum annual rate of compensation for any individual employed under subsection (a) shall not exceed the greater of $173,900 or the applicable rate of pay in effect under an order issued by the Speaker of the House of Representatives pursuant to the authority of [section 4532 of this title](./chapter-045-congressional-pay-and-benefits.md#section-4532), and until otherwise provided by law such compensation as may be necessary shall be paid from the applicable accounts of the House of Representatives.
 
 ### Statutory Notes
 
@@ -252,9 +276,14 @@ Section is based on section 1 of House Resolution No. 393, Ninety-fifth Congress
 Amendment by Pub. L. 104–53 is based on section 3(b) of House Resolution No. 113, One Hundred Fourth Congress, Mar. 10, 1995, which was enacted into permanent law by Pub. L. 104–53.
 
 #### Amendments
+2019—Subsec. (b). Pub. L. 116–94 substituted “The maximum annual rate of compensation for any individual employed under subsection (a) shall not exceed the greater of $173,900 or the applicable rate of pay in effect under an order issued by the Speaker of the House of Representatives pursuant to the authority of [section 4532 of this title](./chapter-045-congressional-pay-and-benefits.md#section-4532),” for “The annual rate of compensation for any individual employed under subsection (a) shall not exceed the annual rate of basic pay of level V of the Executive Schedule of [section 5316 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5316&num=0&edition=prelim),”.
+
 1996—Subsec. (b). Pub. L. 104–186 substituted “applicable accounts of the House of Representatives” for “contingent fund of the House”.
 
 1995—Subsec. (a). Pub. L. 104–53 substituted “chief deputy majority whip” for “chief majority whip”.
+
+#### Effective Date of 2019 Amendment
+Amendment by Pub. L. 116–94 effective on the later of the first day of the first applicable pay period beginning on or after Jan. 1, 2020, or the first day of the first applicable pay period beginning on or after Dec. 20, 2019, see section 212(c) of Pub. L. 116–94, set out as a note under [section 282b of this title](./chapter-009-office-of-legislative-counsel.md#section-282b).
 
 #### Effective Date of 1995 Amendment
 Section 3(a) of House Resolution No. 113, One Hundred Fourth Congress, Mar. 10, 1995, as enacted into permanent law by Pub. L. 104–53, title I, § 103, Nov. 19, 1995, 109 Stat. 520, provided that: “Upon the enactment of this section into permanent law, the amendment made by subsection (b) [amending this section] shall take effect.”

@@ -251,28 +251,13 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 
 <a id="section-8299"></a>
-## § 8299. Limitation of honorable service
-
-No medal, cross, or bar, or associated emblem or insignia may be awarded or presented to any person or to his representative if his service after he distinguished himself has not been honorable.
+## § 8299. Repealed. Pub. L. 116–92, div. A, title V, § 582(b)(2)(A), Dec. 20, 2019, 133 Stat. 1412]
 
 ### Statutory Notes
 
-| Historical and Revision Notes |  |  |
-| --- | --- | --- |
-| Revised section | Source (U.S. Code) | Source (Statutes at Large) |
-| 6249 | [34 U.S.C. 362](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section362&num=0&edition=prelim). | Feb. 4, 1919, ch. 14, § 8 (1st proviso), 40 Stat. 1057; renumbered § 10 and amended Aug. 7, 1942, ch. 551, § 1, 56 Stat. 745. |
-|  | [34 U.S.C. 364a](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section364a&num=0&edition=prelim) (last 31 words of 3d sentence). | July 2, 1926, ch. 721, § 12 (last 31 words of 3d sentence), 44 Stat. 789, July 30, 1937, ch. 545, § 4, 50 Stat. 549. |
+Section, act Aug. 10, 1956, ch. 1041, 70A Stat. 390, § 6249; renumbered § 8299, Pub. L. 115–232, div. A, title VIII, § 807(b)(13), Aug. 13, 2018, 132 Stat. 1836, related to limitation of honorable service.
 
-The word “associated” is substituted for the word “other” to relate the medal or cross to its emblem or insignia. The word “entire” is omitted as surplusage.
-
-#### Prior Provisions
 A prior section 8299, acts Aug. 10, 1956, ch. 1041, 70A Stat. 511; Aug. 21, 1957, Pub. L. 85–155, title III, § 301(10), title IV, § 401(1), 71 Stat. 387, 390; Sept. 2, 1958, Pub. L. 85–861, § 33(a)(21), 72 Stat. 1565; Sept. 30, 1966, Pub. L. 89–609, § 1(29), 80 Stat. 854; Nov. 8, 1967, Pub. L. 90–130, § 1(27)(A), 81 Stat. 382, provided that promotion-list officers be promoted to regular grades of captain, major, and lieutenant colonel, after specified length of service or without regard to length of service in view of actual or anticipated vacancies if Secretary of Air Force so directs, or be eliminated from active list under [section 8303 of this title](./chapter-837-decorations-and-awards.md#section-8303) and a promotion-list officer who has twice been considered and not recommended for promotion to any one regular grade not be again considered for promotion under this section, prior to repeal by Pub. L. 96–513, title II, § 204, Dec. 12, 1980, 94 Stat. 2880, effective Sept. 15, 1981. See sections 631 and 632 of this title.
-
-#### Amendments
-2018—Pub. L. 115–232 renumbered [section 6249 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section6249&num=0&edition=prelim) as this section.
-
-#### Effective Date of 2018 Amendment
-Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
 
 
 <a id="section-8300"></a>
@@ -486,7 +471,7 @@ Section 8308, act Aug. 10, 1956, ch. 1041, 70A Stat. 518, related to effect of r
 
 Section 8309, act Aug. 10, 1956, ch. 1041, 70A Stat. 518, provided that President prescribe a system of physical examination for all commissioned officers of Regular Air Force in grades below brigadier general to determine their fitness for promotion in Regular Air Force. See [section 624 of this title](./chapter-036-promotion-separation-and-involuntary-retirement-of-officers-on-the-active-duty-list.md#section-624).
 
-A prior section 8310 was renumbered [section 9160 of this title](./chapter-915-appointments-in-the-regular-air-force.md#section-9160).
+A prior section 8310 was renumbered [section 9160 of this title](./chapter-915-appointments-in-the-regular-air-force-and-the-regular-space-force.md#section-9160).
 
 Prior sections 8312 to 8314 were repealed by Pub. L. 96–513, title II, § 204, Dec. 12, 1980, 94 Stat. 2880, effective Sept. 15, 1981.
 

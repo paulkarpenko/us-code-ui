@@ -753,7 +753,7 @@ Pub. L. 113–291, div. A, title X, § 1074(b), Dec. 19, 2014, 128 Stat. 3519, p
 ## § 44310. Ending effective date
 **(a) In General.—** The authority of the Secretary of Transportation to provide insurance and reinsurance under any provision of this chapter other than section 44305 is not effective after December 11, 2014.
 
-**(b) Insurance of United States Government Property.—** The authority of the Secretary of Transportation to provide insurance and reinsurance for a department, agency, or instrumentality of the United States Government under section 44305 is not effective after December 31, 2019.
+**(b) Insurance of United States Government Property.—** The authority of the Secretary of Transportation to provide insurance and reinsurance for a department, agency, or instrumentality of the United States Government under section 44305 is not effective after September 30, 2023.
 
 ### Statutory Notes
 
@@ -765,6 +765,8 @@ Pub. L. 113–291, div. A, title X, § 1074(b), Dec. 19, 2014, 128 Stat. 3519, p
 The words “is not effective after” are substituted for “shall expire at the termination of” for clarity and consistency in the revised title.
 
 #### Amendments
+2019—Subsec. (b). Pub. L. 116–92 substituted “September 30, 2023” for “December 31, 2019”.
+
 2016—Subsec. (b). Pub. L. 114–328 substituted “December 31, 2019” for “December 31, 2018”.
 
 2014—Subsec. (a). Pub. L. 113–235 substituted “December 11, 2014” for “the date specified in section 106(3) of the Continuing Appropriations Resolution, 2015”.

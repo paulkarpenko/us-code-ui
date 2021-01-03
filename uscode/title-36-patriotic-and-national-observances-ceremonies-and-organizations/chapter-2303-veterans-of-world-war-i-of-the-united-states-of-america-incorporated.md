@@ -274,7 +274,7 @@ Not later than March 1 of each year, the corporation shall submit a report to Co
 | 230312 | 36:776. | July 18, 1958, Pub. L. 85–530, § 16, 72 Stat. 374; Aug. 27, 1963, Pub. L. 88–105, § 2, 77 Stat. 130. |
 
 #### Termination of Reporting Requirements
-For termination, effective May 15, 2000, of reporting provisions in this section, see section 3003 of Pub. L. 104–66, as amended, set out as a note under [section 1113 of Title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1113&num=0&edition=prelim), Money and Finance, and page 207 of House Document No. 103–7.
+For termination, effective May 15, 2000, of reporting provisions in this section, see section 3003 of Pub. L. 104–66, set out as a note under [section 1113 of Title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1113&num=0&edition=prelim), Money and Finance, and page 207 of House Document No. 103–7.
 
 
 <a id="section-230313"></a>

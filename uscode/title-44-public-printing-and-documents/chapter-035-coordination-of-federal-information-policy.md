@@ -756,7 +756,29 @@ Section effective Oct. 1, 1995, except as otherwise provided, see section 4(a) o
 
   (C) improve the integrity, quality, and utility of information to all users within and outside the agency, including capabilities for ensuring dissemination of public information, public access to government information, and protections for privacy and security;
 
-(2) in accordance with guidance by the Director, develop and maintain a strategic information resources management plan that shall describe how information resources management activities help accomplish agency missions;
+(2) in accordance with guidance by the Director, develop and maintain a strategic information resources management plan that, to the extent practicable—
+
+  (A) describes how information resources management activities help accomplish agency missions;
+
+  (B) includes an open data plan for data that does not concern monetary policy that—
+
+    (i) requires the agency to develop processes and procedures that—
+
+      (I) require data collection mechanisms created on or after the date of the enactment of the OPEN Government Data Act to be available in an open format; and
+
+      (II) facilitate collaboration with non-Government entities (including businesses), researchers, and the public for the purpose of understanding how data users value and use government data;
+
+    (ii) identifies and implements methods for collecting and analyzing digital information on data asset usage by users within and outside of the agency, including designating a point of contact within the agency to assist the public and to respond to quality issues, usability issues, recommendations for improvements, and complaints about adherence to open data requirements within a reasonable period of time;
+
+    (iii) develops and implements a process to evaluate and improve the timeliness, completeness, consistency, accuracy, usefulness, and availability of open Government data assets;
+
+    (iv) includes requirements for meeting the goals of the agency open data plan, including the acquisition of technology, provision of training for employees, and the implementation of procurement standards, in accordance with existing law, regulation, and policy, that allow for the acquisition of innovative solutions from public and private sectors;
+
+    (v) identifies as priority data assets any data asset for which disclosure would be in the public interest and establishes a plan to evaluate each priority data asset for disclosure on the Federal Data Catalogue under section 3511 and for a determination under 11 So in original. Probably should be followed by “section”. 3511(a)(2)(A)(iii)(I)(bb), including an accounting of which priority data assets have not yet been evaluated; and
+
+    (vi) requires the agency to comply with requirements under section 3511, including any standards established by the Director under such section, when disclosing a data asset pursuant to such section; and
+
+  (C) is updated annually and made publicly available on the website of the agency not later than 5 days after each such update;
 
 (3) develop and maintain an ongoing process to—
 
@@ -766,9 +788,19 @@ Section effective Oct. 1, 1995, except as otherwise provided, see section 4(a) o
 
   (C) establish goals for improving information resources management’s contribution to program productivity, efficiency, and effectiveness, methods for measuring progress towards those goals, and clear roles and responsibilities for achieving those goals;
 
-(4) in consultation with the Director, the Administrator of General Services, and the Archivist of the United States, maintain a current and complete inventory of the agency’s information resources, including directories necessary to fulfill the requirements of section 3511 of this subchapter; and
+(4) in consultation with the Director, the Administrator of General Services, and the Archivist of the United States, maintain a current and complete inventory of the agency’s information resources, including directories necessary to fulfill the requirements of section 3511 of this subchapter;
 
-(5) in consultation with the Director and the Director of the Office of Personnel Management, conduct formal training programs to educate agency program and management officials about information resources management.
+(5) in consultation with the Director and the Director of the Office of Personnel Management, conduct formal training programs to educate agency program and management officials about information resources management; and
+
+(6) in accordance with guidance by the Director—
+
+  (A) make each data asset of the agency available in an open format; and
+
+  (B) make each public data asset of the agency available—
+
+    (i) as an open Government data asset; and
+
+    (ii) under an open license.
 
 **(c)** With respect to the collection of information and the control of paperwork, each agency shall—
 
@@ -864,7 +896,7 @@ Section effective Oct. 1, 1995, except as otherwise provided, see section 4(a) o
 
 (2) regularly solicit and consider public input on the agency’s information dissemination activities;
 
-(3) provide adequate notice when initiating, substantially modifying, or terminating significant information dissemination products; and
+(3) provide adequate notice when initiating, substantially modifying, or terminating significant information dissemination products;
 
 (4) not, except where specifically authorized by statute—
 
@@ -874,7 +906,19 @@ Section effective Oct. 1, 1995, except as otherwise provided, see section 4(a) o
 
   (C) charge fees or royalties for resale or redissemination of public information; or
 
-  (D) establish user fees for public information that exceed the cost of dissemination.
+  (D) establish user fees for public information that exceed the cost of dissemination;
+
+(5) ensure that any public data asset of the agency is machine-readable; and
+
+(6) engage the public in using public data assets of the agency and encourage collaboration by—
+
+  (A) publishing on the website of the agency, on a regular basis (not less than annually), information on the usage of such assets by non-Government users;
+
+  (B) providing the public with the opportunity to request specific data assets to be prioritized for disclosure and to provide suggestions for the development of agency criteria with respect to prioritizing data assets for disclosure;
+
+  (C) assisting the public in expanding the use of public data assets; and
+
+  (D) hosting challenges, competitions, events, or other initiatives designed to create additional value from public data assets of the agency.
 
 **(e)** With respect to statistical policy and coordination, each agency shall—
 
@@ -922,76 +966,9 @@ Section effective Oct. 1, 1995, except as otherwise provided, see section 4(a) o
 
 ### Statutory Notes
 
-#### Amendment of Subsections (b) and (d)
-Pub. L. 115–435, title II, § 202(c)(1), (3), Jan. 14, 2019, 132 Stat. 5536, 5538, provided that, effective 1 year after Jan. 14, 2019, this section is amended as follows:
-
-(1) in subsection (b)—
-
-(A) by amending paragraph (2) to read as follows:
-
-“(2) in accordance with guidance by the Director, develop and maintain a strategic information resources management plan that, to the extent practicable—
-
-“(A) describes how information resources management activities help accomplish agency missions;
-
-“(B) includes an open data plan for data that does not concern monetary policy that—
-
-“(i) requires the agency to develop processes and procedures that—
-
-“(I) require data collection mechanisms created on or after the date of the enactment of the OPEN Government Data Act to be available in an open format; and
-
-“(II) facilitate collaboration with non-Government entities (including businesses), researchers, and the public for the purpose of understanding how data users value and use government data;
-
-“(ii) identifies and implements methods for collecting and analyzing digital information on data asset usage by users within and outside of the agency, including designating a point of contact within the agency to assist the public and to respond to quality issues, usability issues, recommendations for improvements, and complaints about adherence to open data requirements within a reasonable period of time;
-
-“(iii) develops and implements a process to evaluate and improve the timeliness, completeness, consistency, accuracy, usefulness, and availability of open Government data assets;
-
-“(iv) includes requirements for meeting the goals of the agency open data plan, including the acquisition of technology, provision of training for employees, and the implementation of procurement standards, in accordance with existing law, regulation, and policy, that allow for the acquisition of innovative solutions from public and private sectors;
-
-“(v) identifies as priority data assets any data asset for which disclosure would be in the public interest and establishes a plan to evaluate each priority data asset for disclosure on the Federal Data Catalogue under section 3511 and for a determination under 3511(a)(2)(A)(iii)(I)(bb), including an accounting of which priority data assets have not yet been evaluated; and
-
-“(vi) requires the agency to comply with requirements under section 3511, including any standards established by the Director under such section, when disclosing a data asset pursuant to such section; and
-
-“(C) is updated annually and made publicly available on the website of the agency not later than 5 days after each such update;”;
-
-(B) in paragraph (4), by striking “; and” and inserting a semicolon;
-
-(C) in paragraph (5), by striking the period at the end and inserting “; and”; and
-
-(D) by adding at the end the following new paragraph:
-
-“(6) in accordance with guidance by the Director—
-
-“(A) make each data asset of the agency available in an open format; and
-
-“(B) make each public data asset of the agency available—
-
-“(i) as an open Government data asset; and
-
-“(ii) under an open license.”; and
-
-(2) in subsection (d)—
-
-(A) in paragraph (3), by striking “and” at the end;
-
-(B) in paragraph (4), by striking the period at the end and inserting a semicolon; and
-
-(C) by adding at the end the following new paragraphs:
-
-“(5) ensure that any public data asset of the agency is machine-readable; and
-
-“(6) engage the public in using public data assets of the agency and encourage collaboration by—
-
-“(A) publishing on the website of the agency, on a regular basis (not less than annually), information on the usage of such assets by non-Government users;
-
-“(B) providing the public with the opportunity to request specific data assets to be prioritized for disclosure and to provide suggestions for the development of agency criteria with respect to prioritizing data assets for disclosure;
-
-“(C) assisting the public in expanding the use of public data assets; and
-
-“(D) hosting challenges, competitions, events, or other initiatives designed to create additional value from public data assets of the agency.”
-
-See 2019 Amendment notes below.
-
 #### References in Text
+The date of the enactment of the OPEN Government Data Act, referred to in subsec. (b)(2)(B)(i)(I), is the date of enactment of title II of Pub. L. 115–435, which was approved Jan. 14, 2019.
+
 The date of enactment of the Small Business Paperwork Relief Act of 2002, referred to in subsec. (i)(2), is the date of enactment of Pub. L. 107–198, which was approved June 28, 2002.
 
 #### Prior Provisions
@@ -2027,9 +2004,17 @@ Provisions similar to this section were contained in sections 3532 and 3542 of t
 
   (C) compiling and analyzing data on agency information security; and
 
-  (D) developing and conducting targeted operational evaluations, including threat and vulnerability assessments, on the information systems; and
+  (D) developing and conducting targeted operational evaluations, including threat and vulnerability assessments, on the information systems;
 
-(7) other actions as the Director or the Secretary, in consultation with the Director, may determine necessary to carry out this subsection.
+(7) hunting for and identifying, with or without advance notice to or authorization from agencies, threats and vulnerabilities within Federal information systems;
+
+(8) upon request by an agency, and at the Secretary’s discretion, with or without reimbursement—
+
+  (A) providing services, functions, and capabilities, including operation of the agency’s information security program, to assist the agency with meeting the requirements set forth in section 3554(b); and
+
+  (B) deploying, operating, and maintaining secure technology platforms and tools, including networks and common business applications, for use by the agency to perform agency functions, including collecting, maintaining, storing, processing, disseminating, and analyzing information; and
+
+(9) other actions as the Director or the Secretary, in consultation with the Director, may determine necessary to carry out this subsection.
 
 **(c) Report.—** Not later than March 1 of each year, the Director, in consultation with the Secretary, shall submit to Congress a report on the effectiveness of information security policies and practices during the preceding year, including—
 
@@ -2139,11 +2124,19 @@ Provisions similar to this section were contained in sections 3532 and 3542 of t
 
 **(i) Annual Report to Congress.—** Not later than February 1 of each year, the Director and the Secretary shall submit to the appropriate congressional committees a report regarding the specific actions the Director and the Secretary have taken pursuant to subsection (a)(5), including any actions taken pursuant to [section 11303(b)(5) of title 40](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40-section11303/b/5&num=0&edition=prelim).
 
-**(j) Appropriate Congressional Committees Defined.—** In this section, the term “appropriate congressional committees” means—
+**(j) Rule of Construction.—** Nothing in this section shall be construed to require the Secretary to provide notice to any private entity before the Secretary issues a binding operational directive under subsection (b)(2).
+
+**(k) Appropriate Congressional Committees Defined.—** In this section, the term “appropriate congressional committees” means—
 
 (1) the Committee on Appropriations and the Committee on Homeland Security and Governmental Affairs of the Senate; and
 
 (2) the Committee on Appropriations, the Committee on Homeland Security, the Committee on Oversight and Government Reform, and the Committee on Science, Space, and Technology of the House of Representatives.
+
+**(l) Information Sharing.—**
+
+(1) **In general.—** — Notwithstanding any other provision of law, including any provision of law that would otherwise restrict or prevent the head of an agency from disclosing information to the Secretary, the Secretary in carrying out this section and title XXII of the Homeland Security Act of 2002 ([6 U.S.C. 651](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section651&num=0&edition=prelim) et seq.) may access, use, retain, and disclose, and the head of an agency may disclose to the Secretary, information, for the purpose of protecting information and information systems from cybersecurity risks.
+
+(2) **Exception.—** — Paragraph (1) shall not apply to national security systems or to information systems described in paragraph (2) or (3) of subsection (e).
 
 ### Statutory Notes
 
@@ -2152,10 +2145,18 @@ Provisions similar to this section were contained in sections 3532 and 3542 of t
 
 Section 230(b)(1) of the Homeland Security Act of 2002, referred to in subsec. (h)(3)(A), is section 230(b)(1) of title II of Pub. L. 107–296, as added by Pub. L. 114–113, div. N, title II, § 223(a)(6), Dec. 18, 2015, 129 Stat. 2964, which was redesignated section 2213(b)(1) of Pub. L. 107–296 by section 2(g)(2)(I) of Pub. L. 115–278, Nov. 16, 2018, 132 Stat. 4178, and is classified to [section 663(b)(1) of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section663/b/1&num=0&edition=prelim), Domestic Security.
 
+The Homeland Security Act of 2002, referred to in subsec. (l)(1), is Pub. L. 107–296, Nov. 25, 2002, 116 Stat. 2135. Title XXII of the Act is classified generally to subchapter XVIII (§ 651 et seq.) of chapter 1 of Title 6, Domestic Security. For complete classification of this Act to the Code, see Short Title note set out under [section 101 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section101&num=0&edition=prelim) and Tables.
+
 #### Prior Provisions
 Provisions similar to this section were contained in sections 3533 and 3543 of this title prior to repeal by Pub. L. 113–283.
 
 #### Amendments
+2021—Subsec. (b)(7) to (9). Pub. L. 116–283, § 1705(1), added pars. (7) and (8) and redesignated former par. (7) as (9).
+
+Subsec. (l). Pub. L. 116–283, § 1705(2), added subsec. (l).
+
+2019—Subsecs. (j), (k). Pub. L. 116–92 added subsec. (j) and redesignated former subsec. (j) as (k).
+
 2018—Subsec. (a)(5). Pub. L. 115–390 inserted “and [section 1326 of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section1326&num=0&edition=prelim)” after “compliance with the requirements of this subchapter”.
 
 2015—Subsec. (b)(6)(B). Pub. L. 114–113, § 224(e), inserted “, operating, and maintaining” after “deploying”.

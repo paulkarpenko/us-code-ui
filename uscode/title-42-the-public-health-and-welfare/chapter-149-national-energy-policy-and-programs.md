@@ -2,303 +2,170 @@
 title: 42
 chapter: '149'
 heading: NATIONAL ENERGY POLICY AND PROGRAMS
-section_count: 250
+section_count: 267
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42&num=0&edition=prelim
 ---
 <a id="section-15801"></a>
-## § 15801. Advanced Research Projects Agency—Energy
-**(a) Definitions** In this section:
+## § 15801. National Laboratory Jobs ACCESS Program
+**(a) In general** On or after the date that is 180 days after December 20, 2019, the Secretary may establish a program, to be known as the “Department of Energy National Lab Jobs ACCESS Program”, under which the Secretary may award, on a competitive basis, 5-year grants to eligible entities described in subsection (c) for the Federal share of the costs of pre-apprenticeship programs and apprenticeship programs described in subsection (b).
 
-(1) **ARPA-E** — The term “ARPA–E” means the Advanced Research Projects Agency—Energy established by subsection (b).
+**(b) Pre-apprenticeship and apprenticeship programs described** A pre-apprenticeship program or apprenticeship program described in this subsection is a pre-apprenticeship program or apprenticeship program that—
 
-(2) **Director** — The term “Director” means the Director of ARPA-E appointed under subsection (d).
+(1) leads to recognized postsecondary credentials for secondary school and postsecondary students;
 
-(3) **Fund** — The term “Fund” means the Energy Transformation Acceleration Fund established under subsection (o)(1).
+(2) is focused on skills and qualifications needed, as determined by the Secretary in consultation with the directors of the National Laboratories, to meet the immediate and ongoing needs of traditional and emerging technician positions (including machinists and cybersecurity technicians) at the National Laboratories and covered facilities of the National Nuclear Security Administration;
 
-**(b) Establishment** There is established the Advanced Research Projects Agency—Energy within the Department to overcome the long-term and high-risk technological barriers in the development of energy technologies.
+(3) is established in consultation with a National Laboratory or covered facility of the National Nuclear Security Administration;
 
-**(c) Goals**
+(4) is registered with and approved by the Secretary of Labor or a State apprenticeship agency; and
 
-(1) **In general** — The goals of ARPA-E shall be—
+(5) ensures that participants in the pre-apprenticeship program or apprenticeship program do not displace paid employees.
 
-  (A) to enhance the economic and energy security of the United States through the development of energy technologies that result in—
+**(c) Eligible entities described** An eligible entity described in this subsection is a workforce intermediary or an eligible sponsor of a pre-apprenticeship program or apprenticeship program that—
 
-    (i) reductions of imports of energy from foreign sources;
+(1) demonstrates experience in implementing and providing career planning and career pathways toward pre-apprenticeship programs or apprenticeship programs;
 
-    (ii) reductions of energy-related emissions, including greenhouse gases; and
+(2)
 
-    (iii) improvement in the energy efficiency of all economic sectors; and
+  (A) has a relationship with a National Laboratory or covered facility of the National Nuclear Security Administration;
 
-  (B) to ensure that the United States maintains a technological lead in developing and deploying advanced energy technologies.
+  (B) has knowledge of the technician workforce needs of the laboratory or facility and the associated security requirements of the laboratory or facility; and
 
-(2) **Means** — ARPA-E shall achieve the goals established under paragraph (1) through energy technology projects by—
+  (C) is eligible to enter into an agreement with the laboratory or facility that would be paid for in part or entirely from grant funds received under this section;
 
-  (A) identifying and promoting revolutionary advances in fundamental and applied sciences;
+(3) demonstrates the ability to recruit and support individuals who plan to work in relevant technician positions upon the successful completion of the pre-apprenticeship program or apprenticeship program;
 
-  (B) translating scientific discoveries and cutting-edge inventions into technological innovations; and
+(4) provides students who complete the pre-apprenticeship program or apprenticeship program with, or prepares such students for obtaining, a recognized postsecondary credential;
 
-  (C) accelerating transformational technological advances in areas that industry by itself is not likely to undertake because of technical and financial uncertainty.
+(5) uses related instruction that is specifically aligned with the needs of the laboratory or facility and utilizes workplace learning advisors and on-the-job training to the greatest extent possible; and
 
-**(d) Director**
+(6) demonstrates successful outcomes connecting graduates of the pre-apprenticeship program or apprenticeship program to careers relevant to the program.
 
-(1) **Appointment** — There shall be in the Department of Energy a Director of ARPA-E, who shall be appointed by the President, by and with the advice and consent of the Senate.
+**(d) Applications** If the Secretary establishes the program described in subsection (a), an eligible entity described in subsection (c) seeking a grant under the program shall submit to the Secretary an application at such time, in such manner, and containing such information as the Secretary may require.
 
-(2) **Qualifications** — The Director shall be an individual who, by reason of professional background and experience, is especially qualified to advise the Secretary on, and manage research programs addressing, matters pertaining to long-term and high-risk technological barriers to the development of energy technologies.
+**(e) Priority** In selecting eligible entities described in subsection (c) to receive grants under this section, the Secretary may prioritize an eligible entity that—
 
-(3) **Relationship to Secretary** — The Director shall report to the Secretary.
+(1) is a member of an industry or sector partnership;
 
-(4) **Relationship to other programs** — No other programs within the Department shall report to the Director.
+(2) provides related instruction for a pre-apprenticeship program or apprenticeship program through—
 
-**(e) Responsibilities** The responsibilities of the Director shall include—
+  (A) a local educational agency, a secondary school, a provider of adult education, an area career and technical education school, or an institution of higher education (such as a community college) that includes basic science, technology, and mathematics education in the related instruction; or
 
-(1) approving all new programs within ARPA-E;
+  (B) an apprenticeship program that was registered with the Department of Labor or a State apprenticeship agency before the date on which the eligible entity applies for the grant under subsection (d);
 
-(2) developing funding criteria and assessing the success of programs through the establishment of technical milestones;
+(3) works with the Secretary of Defense, the Secretary of Veterans Affairs, or veterans organizations to transition members of the Armed Forces and veterans to pre-apprenticeship programs or apprenticeship programs in a relevant sector;
 
-(3) administering the Fund through awards to institutions of higher education, companies, research foundations, trade and industry research collaborations, or consortia of such entities, which may include federally-funded research and development centers, to achieve the goals described in subsection (c) through targeted acceleration of—
+(4) plans to use the grant to carry out the pre-apprenticeship program or apprenticeship program with an entity that receives State funding or is operated by a State agency; and
 
-  (A) novel early-stage energy research with possible technology applications;
+(5) plans to use the grant to carry out the pre-apprenticeship program or apprenticeship program for—
 
-  (B) development of techniques, processes, and technologies, and related testing and evaluation;
+  (A) young adults ages 16 to 29, inclusive; or
 
-  (C) research and development of advanced manufacturing process and technologies for the domestic manufacturing of novel energy technologies; and
+  (B) individuals with barriers to employment.
 
-  (D) coordination with nongovernmental entities for demonstration of technologies and research applications to facilitate technology transfer;
+**(f) Additional consideration** In making grants under this section, the Secretary may consider regional diversity.
 
-(4) terminating programs carried out under this section that are not achieving the goals of the programs; and
+**(g) Limitation on applications** An eligible entity described in subsection (c) may not submit, either individually or as part of a joint application, more than one application for a grant under this section during any one fiscal year.
 
-(5) pursuant to subsection (c)(2)(C)—
+**(h) Limitations on amount of grant** The amount of a grant provided under this section may not, for any 24-month period of the 5-year grant period, exceed $500,000.
 
-  (A) ensuring that applications for funding disclose the extent of current and prior efforts, including monetary investments as appropriate, in pursuit of the technology area for which funding is being requested;
+**(i) Non-Federal share** The non-Federal share of the cost of a pre-apprenticeship program or apprenticeship program carried out using a grant under this section shall be not less than 25 percent of the total cost of the program.
 
-  (B) adopting measures to ensure that, in making awards, program managers adhere to the purposes of subsection (c)(2)(C); and
+**(j) Technical assistance** The Secretary may provide technical assistance to eligible entities described in subsection (c) to leverage the existing job training and education programs of the Department of Labor and other relevant programs at appropriate Federal agencies.
 
-  (C) providing as part of the annual report required by subsection (h)(1) a summary of the instances of and reasons for ARPA–E funding projects in technology areas already being undertaken by industry.
+**(k) Report**
 
-**(f) Awards** In carrying out this section, the Director may provide awards in the form of grants, contracts, cooperative agreements, cash prizes, and other transactions.
+(1) **In general** — If the Secretary establishes the program described in subsection (a), not less than once every 2 years thereafter, the Secretary shall submit to Congress, and make publicly available on the website of the Department of Energy, a report on the program, including—
 
-**(g) Personnel**
+  (A) a description of—
 
-(1) **In general** — The Director shall establish and maintain within ARPA–E a staff with sufficient qualifications and expertise to enable ARPA–E to carry out the responsibilities of ARPA–E under this section in conjunction with other operations of the Department.
+    (i) any entity that receives a grant under this section;
 
-(2) **Program directors**
+    (ii) any activity carried out using a grant under this section; and
 
-  (A) *In general* — The Director shall designate employees to serve as program directors for the programs established pursuant to the responsibilities established for ARPA-E under subsection (e).
+    (iii) best practices used to leverage the investment of the Federal Government under this section; and
 
-  (B) *Responsibilities* — A program director of a program shall be responsible for—
+  (B) an assessment of the results achieved by the program, including the rate of employment for participants after completing a pre-apprenticeship program or apprenticeship program carried out using a grant under this section.
 
-    (i) establishing research and development goals for the program, including through the convening of workshops and conferring with outside experts, and publicizing the goals of the program to the public and private sectors;
+(2) **Performance reports** — Not later than one year after the establishment of a pre-apprenticeship program or apprenticeship program using a grant awarded under this section, and annually thereafter, the entity carrying out the program shall submit to the Secretary and the Secretary of Labor a report on the effectiveness of the program based on the accountability measures described in clauses (i) and (ii) of [section 3141(b)(2)(A) of title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3141/b/2/A&num=0&edition=prelim).
 
-    (ii) soliciting applications for specific areas of particular promise, especially areas that the private sector or the Federal Government are not likely to undertake alone;
+**(l) Definitions** In this section:
 
-    (iii) building research collaborations for carrying out the program;
+(1) **ESEA terms** — The terms “local educational agency” and “secondary school” have the meanings given the terms in [section 7801 of title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section7801&num=0&edition=prelim).
 
-    (iv) selecting on the basis of merit each of the projects to be supported under the program after considering—
+(2) **WIOA terms** — The terms “career planning”, “community-based organization”, “customized training”, “economic development agency”, “individual with a barrier to employment”, “industry or sector partnership”, “on-the-job training”, “recognized postsecondary credential”, and “workplace learning advisor” have the meanings given such terms in [section 3102 of title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3102&num=0&edition=prelim).
 
-      (I) the novelty and scientific and technical merit of the proposed projects;
+(3) **Apprenticeship program** — The term “apprenticeship program” means a program registered under the Act of August 16, 1937 (commonly known as the “National Apprenticeship Act”; 50 Stat. 664, chapter 663; [29 U.S.C. 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section50&num=0&edition=prelim) et seq.).
 
-      (II) the demonstrated capabilities of the applicants to successfully carry out the proposed project;
+(4) **Area career and technical education school** — The term “area career and technical education school” has the meaning given the term in [section 2302 of title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section2302&num=0&edition=prelim).
 
-      (III) the consideration by the applicant of future commercial applications of the project, including the feasibility of partnering with 1 or more commercial entities; and
+(5) **Community college** — The term “community college” has the meaning given the term “junior or community college” in [section 1058(f) of title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1058/f&num=0&edition=prelim).
 
-      (IV) such other criteria as are established by the Director;
+(6) **Covered facility of the national nuclear security administration** — The term “covered facility of the National Nuclear Security Administration” means a national security laboratory or a nuclear weapons production facility as such terms are defined in [section 2501 of title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section2501&num=0&edition=prelim).
 
-    (v) identifying innovative cost-sharing arrangements for ARPA–E projects, including through use of the authority provided under [section 16352(b)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section16352/b/3&num=0&edition=prelim);
+(7) **Eligible sponsor** — The term “eligible sponsor” means a public organization or nonprofit organization that—
 
-    (vi) monitoring the progress of projects supported under the program;
+  (A) with respect to an apprenticeship program, administers the program through a partnership that may include—
 
-    (vii) identifying mechanisms for commercial application of successful energy technology development projects, including through establishment of partnerships between awardees and commercial entities; and
+    (i) an industry or sector partnership;
 
-    (viii) recommending program restructure or termination of research partnerships or whole projects.
+    (ii) an employer or industry association;
 
-  (C) *Term* — The term of a program manager shall be not more than 3 years and may be renewed.
+    (iii) a labor-management organization;
 
-(3) **Hiring and management**
+    (iv) a local workforce development board or State workforce development board;
 
-  (A) *In general* — The Director shall have the authority to—
+    (v) a 2- or 4-year institution of higher education that offers an educational program leading to an associate’s or bachelor’s degree in conjunction with a certificate of completion of apprenticeship;
 
-    (i) make appointments of scientific, engineering, and professional personnel without regard to the civil service laws;
+    (vi) the Armed Forces (including the National Guard and Reserves);
 
-    (ii) fix the basic pay of such personnel at a rate to be determined by the Director at rates not in excess of Level II of the Executive Schedule (EX–II) without regard to the civil service laws; and
+    (vii) a community-based organization; or
 
-    (iii) pay any employee appointed under this subpart 11 So in original. payments in addition to basic pay, except that the total amount of additional payments paid to an employee under this subpart 1 for any 12-month period shall not exceed the least of the following amounts:
+    (viii) an economic development agency; and
 
-      (I) $25,000.
+  (B) with respect to a pre-apprenticeship program, is a local educational agency, a secondary school, an area career and technical education school, a provider of adult education, a State workforce development board, a local workforce development board, or a community-based organization, that administers the program with any required coordination and necessary approvals from the Secretary of Labor or a State department of labor.
 
-      (II) The amount equal to 25 percent of the annual rate of basic pay of the employee.
+(8) **Institution of higher education** — The term “institution of higher education” has the meaning given the term in [section 1001 of title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1001&num=0&edition=prelim).
 
-      (III) The amount of the limitation that is applicable for a calendar year under [section 5307(a)(1) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5307/a/1&num=0&edition=prelim).
+(9) **Local workforce development board** — The term “local workforce development board” has the meaning given the term “local board” in [section 3102 of title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3102&num=0&edition=prelim).
 
-  (B) *Number* — The Director shall appoint not more than 120 personnel under this section.
+(10) **National Laboratory** — The term “National Laboratory” has the meaning given the term in [section 15801 of this title](./chapter-149-national-energy-policy-and-programs.md#section-15801).
 
-  (C) *Private recruiting firms* — The Secretary, or the Director serving as an agent of the Secretary, may contract with private recruiting firms for the hiring of qualified technical staff to carry out this section.
+(11) **Nonprofit organization** — The term “nonprofit organization” means an organization that is described in [section 501(c) of title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section501/c&num=0&edition=prelim) and exempt from tax under section 501(a) of such title.
 
-  (D) *Additional staff* — The Director may use all authorities in existence on August 9, 2007, that are provided to the Secretary to hire administrative, financial, and clerical staff as necessary to carry out this section.
+(12) **Pre-apprenticeship program** — The term “pre-apprenticeship program” means a program—
 
-**(h) Reports and roadmaps**
+  (A) designed to prepare individuals to enter and succeed in an apprenticeship program; and
 
-(1) **Annual report** — As part of the annual budget request submitted for each fiscal year, the Director shall provide to the relevant authorizing and appropriations committees of Congress a report describing projects supported by ARPA-E during the previous fiscal year.
+  (B) that has a documented partnership with at least one, if not more, apprenticeship programs.
 
-(2) **Strategic vision roadmap** — Not later than October 1, 2010, and October 1, 2013, the Director shall provide to the relevant authorizing and appropriations committees of Congress a roadmap describing the strategic vision that ARPA-E will use to guide the choices of ARPA-E for future technology investments over the following 3 fiscal years.
+(13) **Provider of adult education** — The term “provider of adult education” has the meaning given the term “eligible provider” in [section 3272 of title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3272&num=0&edition=prelim).
 
-**(i) Coordination and nonduplication**
+(14) **Related instruction** — The term “related instruction” means an organized and systematic form of instruction designed to provide an individual in a pre-apprenticeship program or apprenticeship program with the knowledge of the technical subjects related to the intended occupation of the individual after completion of the program.
 
-(1) **In general** — To the maximum extent practicable, the Director shall ensure that the activities of ARPA-E are coordinated with, and do not duplicate the efforts of, programs and laboratories within the Department and other relevant research agencies.
+(15) **Secretary** — The term “Secretary” means the Secretary of Energy, in consultation with the Secretary of Labor, except as otherwise specified in this section.
 
-(2) **Technology Transfer Coordinator** — To the extent appropriate, the Director may coordinate technology transfer efforts with the Technology Transfer Coordinator appointed under [section 16391 of this title](./chapter-149-national-energy-policy-and-programs.md#section-16391).
+(16) **Sponsor** — The term “sponsor” means any person, association, committee, or organization operating a pre-apprenticeship program or apprenticeship program and in whose name the program is (or is to be) registered or approved.
 
-**(j) Federal demonstration of technologies** The Director shall seek opportunities to partner with purchasing and procurement programs of Federal agencies to demonstrate energy technologies resulting from activities funded through ARPA–E.
+(17) **State apprenticeship agency** — The term “State apprenticeship agency” has the meaning given that term in section 29.2 of title 29, Code of Federal Regulations (or any corresponding similar regulation or ruling).
 
-**(k) Advice**
+(18) **State workforce development board** — The term “State workforce development board” has the meaning given the term “State board” in [section 3102 of title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3102&num=0&edition=prelim).
 
-(1) **Advisory committees** — The Director may seek advice on any aspect of ARPA-E from—
+(19) **Workforce intermediary** — The term “workforce intermediary”—
 
-  (A) an existing Department of Energy advisory committee; and
+  (A) means a nonprofit organization that—
 
-  (B) a new advisory committee organized to support the programs of ARPA-E and to provide advice and assistance on—
+    (i) proactively addresses workforce needs using a dual customer approach, which considers the needs of both employees and employers; and
 
-    (i) specific program tasks; or
+    (ii) has partnered with a sponsor of a pre-apprenticeship program or apprenticeship program or is a sponsor of a pre-apprenticeship program or apprenticeship program; and
 
-    (ii) overall direction of ARPA-E.
-
-(2) **Additional sources of advice** — In carrying out this section, the Director may seek advice and review from—
-
-  (A) the President’s Committee of Advisors on Science and Technology; and
-
-  (B) any professional or scientific organization with expertise in specific processes or technologies under development by ARPA-E.
-
-**(l) ARPA-E evaluation**
-
-(1) **In general** — After ARPA-E has been in operation for 6 years, the Secretary shall offer to enter into a contract with the National Academy of Sciences under which the National Academy shall conduct an evaluation of how well ARPA-E is achieving the goals and mission of ARPA-E.
-
-(2) **Inclusions** — The evaluation shall include—
-
-  (A) the recommendation of the National Academy of Sciences on whether ARPA-E should be continued or terminated; and
-
-  (B) a description of lessons learned from operation of ARPA-E, and the manner in which those lessons may apply to the operation of other programs of the Department.
-
-(3) **Availability** — On completion of the evaluation, the evaluation shall be made available to Congress and the public.
-
-**(m) Existing authorities** The authorities granted by this section are—
-
-(1) in addition to existing authorities granted to the Secretary; and
-
-(2) are not intended to supersede or modify any existing authorities.
-
-**(n) Protection of information** The following types of information collected by ARPA–E from recipients of financial assistance awards shall be considered commercial and financial information obtained from a person and privileged or confidential and not subject to disclosure under [section 552(b)(4) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section552/b/4&num=0&edition=prelim):
-
-(1) Plans for commercialization of technologies developed under the award, including business plans, technology-to-market plans, market studies, and cost and performance models.
-
-(2) Investments provided to an awardee from third parties (such as venture capital firms, hedge funds, and private equity firms), including amounts and the percentage of ownership of the awardee provided in return for the investments.
-
-(3) Additional financial support that the awardee—
-
-  (A) plans to or has invested into the technology developed under the award; or
-
-  (B) is seeking from third parties.
-
-(4) Revenue from the licensing or sale of new products or services resulting from research conducted under the award.
-
-**(o) Funding**
-
-(1) **Fund** — There is established in the Treasury of the United States a fund, to be known as the “Energy Transformation Acceleration Fund”, which shall be administered by the Director for the purposes of carrying out this section.
-
-(2) **Authorization of appropriations** — Subject to paragraphs (4) and (5),22 See References in Text note below. there are authorized to be appropriated to the Director for deposit in the Fund, without fiscal year limitation—
-
-  (A) $300,000,000 for fiscal year 2008;
-
-  (B) such sums as are necessary for each of fiscal years 2009 and 2010;
-
-  (C) $300,000,000 for fiscal year 2011;
-
-  (D) $306,000,000 for fiscal year 2012; and
-
-  (E) $312,000,000 for fiscal year 2013.
-
-(3) **Separate budget and appropriation**
-
-  (A) *Budget request* — The budget request for ARPA-E shall be separate from the rest of the budget of the Department.
-
-  (B) *Appropriations* — Appropriations to the Fund shall be separate and distinct from the rest of the budget for the Department.
-
-(4) **Allocation** — Of the amounts appropriated for a fiscal year under paragraph (2)—
-
-  (A) not more than 50 percent of the amount shall be used to carry out subsection (e)(3)(D);
-
-  (B) at least 5 percent of the amount shall be used for technology transfer and outreach activities, consistent with the goal described in subsection (c)(2)(D) and within the responsibilities of program directors described in subsection (g)(2)(B)(vii); and
-
-  (C) no funds may be used for construction of new buildings or facilities during the 5-year period beginning on August 9, 2007.
+  (B) may include a community organization, an employer organization, a community college, a temporary staffing agency, a State workforce development board, a local workforce development board, or a labor or labor-management organization.
 
 ### Statutory Notes
 
-#### References in Text
-Level II of the Executive Schedule, referred to in subsec. (g)(3)(A)(ii), is set out in [section 5313 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5313&num=0&edition=prelim), Government Organization and Employees.
-
-Par. (5), referred to in subsec. (o)(2), was redesignated par. (4) of this section and former par. (4) was struck out by Pub. L. 111–358, title IX, § 904(10)(B), (C), Jan. 4, 2011, 124 Stat. 4048.
-
-#### Amendments
-2018—Subsec. (a)(3). Pub. L. 115–246, § 202(1), substituted “subsection (o)(1)” for “subsection (n)(1)”.
-
-Subsecs. (n), (o). Pub. L. 115–246, § 202(2), (3), added subsec. (n) and redesignated former subsec. (n) as (o).
-
-2011—Subsec. (a)(3). Pub. L. 111–358, § 904(1), substituted “subsection (n)(1)” for “subsection (m)(1)”.
-
-Subsec. (c)(2)(A). Pub. L. 111–358, § 904(2), inserted “and applied” after “advances in fundamental”.
-
-Subsec. (e)(3)(C). Pub. L. 111–358, § 904(3)(A)(i), added subpar. (C) and struck out former subpar. (C) which read as follows: “research and development of manufacturing processes for novel energy technologies; and”.
-
-Subsec. (e)(5). Pub. L. 111–358, § 904(3)(A)(ii)–(C), added par. (5).
-
-Subsec. (f). Pub. L. 111–358, § 904(5), added subsec. (f). Former subsec. (f) redesignated (g).
-
-Subsec. (g). Pub. L. 111–358, § 904(4), redesignated subsec. (f) as (g). Former subsec. (g) redesignated (h).
-
-Subsec. (g)(1). Pub. L. 111–358, § 904(6)(B), added par. (1). Former par. (1) redesignated (2).
-
-Subsec. (g)(2). Pub. L. 111–358, § 904(6)(A),(C)(i), redesignated par. (1) as (2) and substituted “Program directors” for “Program managers” in heading.
-
-Subsec. (g)(2)(A). Pub. L. 111–358, § 904(6)(C)(ii), substituted “program directors for” for “program managers for each of”.
-
-Subsec. (g)(2)(B). Pub. L. 111–358, § 904(6)(C)(iii)(I), substituted “program director” for “program manager” in introductory provisions.
-
-Subsec. (g)(2)(B)(iv). Pub. L. 111–358, § 904(6)(C)(iii)(II), struck out “, with advice under subsection (j) as appropriate,” after “basis of merit” in introductory provisions.
-
-Subsec. (g)(2)(B)(v) to (viii). Pub. L. 111–358, § 904(6)(C)(iii)(III)–(VI), added cls. (v) and (vii) and redesignated former cls. (v) and (vi) as (vi) and (viii), respectively.
-
-Subsec. (g)(2)(C). Pub. L. 111–358, § 904(6)(C)(iv), inserted “not more than” after “shall be”.
-
-Subsec. (g)(3). Pub. L. 111–358, § 904(6)(A), redesignated par. (2) as (3).
-
-Subsec. (g)(3)(A)(ii), (iii). Pub. L. 111–358, § 904(6)(D)(i), added cls. (ii) and (iii) and struck out former cl. (ii) which read as follows: “fix the compensation of such personnel at a rate to be determined by the Director.”
-
-Subsec. (g)(3)(B). Pub. L. 111–358, § 904(6)(D)(ii), substituted “not more than 120” for “not less than 70, and not more than 120,”.
-
-Subsec. (h). Pub. L. 111–358, § 904(4), redesignated subsec. (g) as (h). Former subsec. (h) redesignated (i).
-
-Subsec. (h)(2). Pub. L. 111–358, § 904(7), substituted “2010” for “2008” and “2013” for “2011”.
-
-Subsec. (i). Pub. L. 111–358, § 904(4), redesignated subsec. (h) as (i). Former subsec. (i) redesignated (j).
-
-Subsec. (j). Pub. L. 111–358, § 904(8), added subsec. (j) and struck out former subsec. (j). Prior to amendment, text read as follows: “The Secretary shall make information available to purchasing and procurement programs of Federal agencies regarding the potential to demonstrate technologies resulting from activities funded through ARPA-E.”
-
-Pub. L. 111–358, § 904(4), redesignated subsec. (i) as (j). Former subsec. (j) redesignated (k).
-
-Subsecs. (k), (l). Pub. L. 111–358, § 904(4), redesignated subsecs. (j) and (k) as (k) and (l), respectively. Former subsec. (l) redesignated (m).
-
-Subsec. (l)(1). Pub. L. 111–358, § 904(9)(A), substituted “6 years” for “4 years”.
-
-Subsec. (l)(2)(B). Pub. L. 111–358, § 904(9)(B), inserted “, and the manner in which those lessons may apply to the operation of other programs of the Department” after “ARPA-E”.
-
-Subsecs. (m), (n). Pub. L. 111–358, § 904(4), redesignated subsecs. (l) and (m) as (m) and (n), respectively.
-
-Subsec. (n)(2)(C) to (E). Pub. L. 111–358, § 904(10)(A), added subpars. (C) to (E).
-
-Subsec. (n)(4). Pub. L. 111–358, § 904(10)(B), (C), redesignated par. (5) as (4) and struck out former par. (4). Prior to amendment, text read as follows: “No amounts may be appropriated for ARPA-E for fiscal year 2008 unless the amount appropriated for the activities of the Office of Science of the Department for fiscal year 2008 exceeds the amount appropriated for the Office for fiscal year 2007, as adjusted for inflation in accordance with the Consumer Price Index published by the Bureau of Labor Statistics of the Department of Labor.”
-
-Subsec. (n)(4)(B). Pub. L. 111–358, § 904(10)(D), substituted “5 percent” for “2.5 percent” and inserted “, consistent with the goal described in subsection (c)(2)(D) and within the responsibilities of program directors described in subsection (g)(2)(B)(vii)” after “outreach activities”.
-
-Subsec. (n)(5). Pub. L. 111–358, § 904(10)(C), redesignated par. (5) as (4).
+#### Codification
+Section was enacted as part of the National Defense Authorization Act for Fiscal Year 2020, and not as part of the America COMPETES Act, which comprises this subchapter.
 
 
 <a id="section-15811"></a>
@@ -654,7 +521,7 @@ The Secretary of Housing and Urban Development shall develop and implement an in
 
 <a id="section-15852"></a>
 ## § 15852. Assessment of renewable energy resources
-**(a) Resource assessment** Not later than 6 months after August 8, 2005, and each year thereafter, the Secretary shall review the available assessments of renewable energy resources within the United States, including solar, wind, biomass, ocean (including tidal, wave, current, and thermal), geothermal, and hydroelectric energy resources, and undertake new assessments as necessary, taking into account changes in market conditions, available technologies, and other relevant factors.
+**(a) Resource assessment** Not later than 6 months after August 8, 2005, and each year thereafter, the Secretary shall review the available assessments of renewable energy resources within the United States, including solar, wind, biomass, marine, geothermal, and hydroelectric energy resources, and undertake new assessments as necessary, taking into account changes in market conditions, available technologies, and other relevant factors.
 
 **(b) Contents of reports** Not later than 1 year after August 8, 2005, and each year thereafter, the Secretary shall publish a report based on the assessment under subsection (a). The report shall contain—
 
@@ -663,6 +530,11 @@ The Secretary of Housing and Urban Development shall develop and implement an in
 (2) such other information as the Secretary believes would be useful in developing such renewable energy resources, including descriptions of surrounding terrain, population and load centers, nearby energy infrastructure, location of energy and water resources, and available estimates of the costs needed to develop each resource, together with an identification of any barriers to providing adequate transmission for remote sources of renewable energy resources to current and emerging markets, recommendations for removing or addressing such barriers, and ways to provide access to the grid that do not unfairly disadvantage renewable or other energy producers.
 
 **(c) Authorization of appropriations** For the purposes of this section, there are authorized to be appropriated to the Secretary $10,000,000 for each of fiscal years 2006 through 2010.
+
+### Statutory Notes
+
+#### Amendments
+2020—Subsec. (a). Pub. L. 116–260 substituted “marine” for “ocean (including tidal, wave, current, and thermal)”.
 
 
 <a id="section-15853"></a>
@@ -687,22 +559,37 @@ The Secretary of Housing and Urban Development shall develop and implement an in
 
   (D) a plant that is grown exclusively as a fuel for the production of electricity.
 
-(2) **Renewable energy** — The term “renewable energy” means electric energy generated from solar, wind, biomass, landfill gas, ocean (including tidal, wave, current, and thermal), geothermal, municipal solid waste, or new hydroelectric generation capacity achieved from increased efficiency or additions of new capacity at an existing hydroelectric project.
+(2) **Renewable energy** — The term “renewable energy” means marine energy (as defined in [section 17211 of this title](./chapter-152-energy-independence-and-security.md#section-17211)), or electric energy produced from solar, wind, biomass, landfill gas, geothermal, municipal solid waste, or new hydroelectric generation capacity achieved from increased efficiency or additions of new capacity at an existing hydroelectric project.
 
-**(c) Calculation** For purposes of determining compliance with the requirement of this section, the amount of renewable energy shall be doubled if—
+**(c) Calculation**
 
-(1) the renewable energy is produced and used on-site at a Federal facility;
+(1) **In general** — For purposes of determining compliance with the requirement of this section, the amount of renewable energy shall be doubled if—
 
-(2) the renewable energy is produced on Federal lands and used at a Federal facility; or
+  (A) the renewable energy is produced and used on-site at a Federal facility;
 
-(3) the renewable energy is produced on Indian land as defined in title XXVI of the Energy Policy Act of 1992 ([25 U.S.C. 3501](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section3501&num=0&edition=prelim) et seq.) and used at a Federal facility.
+  (B) the renewable energy is produced on Federal lands and used at a Federal facility; or
+
+  (C) the renewable energy is produced on Indian land as defined in title XXVI of the Energy Policy Act of 1992 ([25 U.S.C. 3501](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section3501&num=0&edition=prelim) et seq.) and used at a Federal facility.
+
+(2) **Separate calculation**
+
+  (A) *In general* — For purposes of determining compliance with the requirement of this section, any energy consumption that is avoided through the use of geothermal energy shall be considered to be renewable energy produced.
+
+  (B) *Efficiency accounting* — Energy consumption that is avoided through the use of geothermal energy that is considered to be renewable energy under this section shall not be considered energy efficiency for the purpose of compliance with Federal energy efficiency goals, targets, and incentives.
 
 **(d) Report** Not later than April 15, 2007, and every 2 years thereafter, the Secretary shall provide a report to Congress on the progress of the Federal Government in meeting the goals established by this section.
 
 ### Statutory Notes
 
 #### References in Text
-The Energy Policy Act of 1992, referred to in subsec. (c)(3), is Pub. L. 102–486, Oct. 24, 1992, 106 Stat. 2776, as amended. Title XXVI of the Act is classified generally to chapter 37 (§ 3501 et seq.) of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under [section 13201 of this title](./chapter-134-energy-policy.md#section-13201) and Tables.
+The Energy Policy Act of 1992, referred to in subsec. (c)(1)(C), is Pub. L. 102–486, Oct. 24, 1992, 106 Stat. 2776. Title XXVI of the Act is classified generally to chapter 37 (§ 3501 et seq.) of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under [section 13201 of this title](./chapter-134-energy-policy.md#section-13201) and Tables.
+
+#### Amendments
+2020—Subsec. (b)(2). Pub. L. 116–260, § 3006(b)(2), inserted “marine energy (as defined in [section 17202 of this title](./chapter-152-energy-independence-and-security.md#section-17202)), or” before “electric energy” and struck out “ocean (including tidal, wave, current, and thermal),” before “geothermal”.
+
+Pub. L. 116–260, § 3002(o)(1), substituted “produced” for “generated”.
+
+Subsec. (c). Pub. L. 116–260, § 3002(o)(2), designated existing provisions as par. (1) and inserted heading, redesingated former pars. (1) to (3) as subpars. (A) to (C), respectively, of par. (1), and added par. (2).
 
 #### Federal Leadership on Energy Management
 Memorandum of President of the United States, Dec. 5, 2013, 78 F.R. 75209, which set a renewable energy target and building performance and energy management requirements for Federal agencies, was revoked by Ex. Ord. No. 13693, § 16(b), Mar. 19, 2015, 80 F.R. 15880, formerly set out in a note under [section 4321 of this title](./chapter-055-national-environmental-policy.md#section-4321).
@@ -926,14 +813,34 @@ This Act, referred to in subsec. (b), is Pub. L. 109–58, Aug. 8, 2005, 119 Sta
 
 **(b) Definitions** For purposes of this section:
 
-(1) **Qualified hydroelectric facility** — The term “qualified hydroelectric facility” means a turbine or other generating device owned or solely operated by a non-Federal entity which generates hydroelectric energy for sale and which is added to an existing dam or conduit.
+(1) **Qualified hydroelectric facility** — The term “qualified hydroelectric facility” means a turbine or other generating device owned or solely operated by a non-Federal entity—
+
+  (A) that generates hydroelectric energy for sale; and
+
+  (B)
+
+    (i) that is added to an existing dam or conduit; or
+
+    (ii)
+
+      (I) that has a generating capacity of not more than 20 megawatts;
+
+      (II) for which the non-Federal entity has received a construction authorization from the Federal Energy Regulatory Commission, if applicable; and
+
+      (III) that is constructed in an area in which there is inadequate electric service, as determined by the Secretary, including by taking into consideration—
+
+        (aa) access to the electric grid;
+
+        (bb) the frequency of electric outages; or
+
+        (cc) the affordability of electricity.
 
 (2) **Existing dam or conduit** — The term “existing dam or conduit” means any dam or conduit the construction of which was completed before August 8, 2005, and which does not require any construction or enlargement of impoundment or diversion structures (other than repair or reconstruction) in connection with the installation of a turbine or other generating device.
 
 (3) **Conduit** — The term “conduit” has the same meaning as when used in [section 823a(a)(2) of title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section823a/a/2&num=0&edition=prelim).
 The terms defined in this subsection shall apply without regard to the hydroelectric kilowatt capacity of the facility concerned, without regard to whether the facility uses a dam owned by a governmental or nongovernmental entity, and without regard to whether the facility begins operation on or after August 8, 2005.
 
-**(c) Eligibility window** Payments may be made under this section only for electric energy generated from a qualified hydroelectric facility which begins operation during the period of 10 fiscal years beginning with the first full fiscal year occurring after August 8, 2005.
+**(c) Eligibility window** Payments may be made under this section only for electric energy generated from a qualified hydroelectric facility which begins operation during the period of 22 fiscal years beginning with the first full fiscal year occurring after August 8, 2005.
 
 **(d) Incentive period** A qualified hydroelectric facility may receive payments under this section for a period of 10 fiscal years (referred to in this section as the “incentive period”). Such period shall begin with the fiscal year in which electric energy generated from the facility is first eligible for such payments.
 
@@ -941,16 +848,24 @@ The terms defined in this subsection shall apply without regard to the hydroelec
 
 (1) **In general** — Payments made by the Secretary under this section to the owner or operator of a qualified hydroelectric facility shall be based on the number of kilowatt hours of hydroelectric energy generated by the facility during the incentive period. For any such facility, the amount of such payment shall be 1.8 cents per kilowatt hour (adjusted as provided in paragraph (2)), subject to the availability of appropriations under subsection (g), except that no facility may receive more than $750,000 in 1 calendar year.
 
-(2) **Adjustments** — The amount of the payment made to any person under this section as provided in paragraph (1) shall be adjusted for inflation for each fiscal year beginning after calendar year 2005 in the same manner as provided in the provisions of section 29(d)(2)(B) 11 See References in Text note below. of title 26, except that in applying such provisions the calendar year 2005 shall be substituted for calendar year 1979.
+(2) **Adjustments** — The amount of the payment made to any person under this section as provided in paragraph (1) shall be adjusted for inflation for each fiscal year beginning after calendar year 2005 in the same manner as provided in the provisions of [section 45K(d)(2)(B) of title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section45K/d/2/B&num=0&edition=prelim), except that in applying such provisions the calendar year 2005 shall be substituted for calendar year 1979.
 
-**(f) Sunset** No payment may be made under this section to any qualified hydroelectric facility after the expiration of the period of 20 fiscal years beginning with the first full fiscal year occurring after August 8, 2005, and no payment may be made under this section to any such facility after a payment has been made with respect to such facility for a period of 10 fiscal years.
+**(f) Sunset** No payment may be made under this section to any qualified hydroelectric facility after the expiration of the period of 32 fiscal years beginning with the first full fiscal year occurring after August 8, 2005, and no payment may be made under this section to any such facility after a payment has been made with respect to such facility for a period of 10 fiscal years.
 
-**(g) Authorization of appropriations** There are authorized to be appropriated to the Secretary to carry out the purposes of this section $10,000,000 for each of the fiscal years 2006 through 2015.
+**(g) Authorization of appropriations** There are authorized to be appropriated to the Secretary to carry out the purposes of this section $10,000,000 for each of fiscal years 2021 through 2036.
 
 ### Statutory Notes
 
-#### References in Text
-[Section 29 of title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section29&num=0&edition=prelim), referred to in subsec. (e)(2), was renumbered [section 45K of title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section45K&num=0&edition=prelim) by Pub. L. 109–58, title XIII, § 1322(a)(1), Aug. 8, 2005, 119 Stat. 1011.
+#### Amendments
+2020—Subsec. (b)(1). Pub. L. 116–260, § 3005(a)(1), added par. (1) and struck out former par. (1). Prior to amendment, text read as follows: “The term ‘qualified hydroelectric facility’ means a turbine or other generating device owned or solely operated by a non-Federal entity which generates hydroelectric energy for sale and which is added to an existing dam or conduit.”
+
+Subsec. (c). Pub. L. 116–260, § 3005(a)(2), substituted “22” for “10”.
+
+Subsec. (e)(2). Pub. L. 116–260, § 3005(a)(3), substituted “section 45K(d)(2)(B)” for “section 29(d)(2)(B)”.
+
+Subsec. (f). Pub. L. 116–260, § 3005(a)(4), substituted “32” for “20”.
+
+Subsec. (g). Pub. L. 116–260, § 3005(a)(5), substituted “each of fiscal years 2021 through 2036” for “each of the fiscal years 2006 through 2015”.
 
 
 <a id="section-15891"></a>
@@ -959,7 +874,12 @@ The terms defined in this subsection shall apply without regard to the hydroelec
 
 **(b) Limitations** Incentive payments under this section shall not exceed 10 percent of the costs of the capital improvement concerned and not more than 1 payment may be made with respect to improvements at a single facility. No payment in excess of $750,000 may be made with respect to improvements at a single facility.
 
-**(c) Authorization of appropriations** There are authorized to be appropriated to carry out this section not more than $10,000,000 for each of the fiscal years 2006 through 2015.
+**(c) Authorization of appropriations** There are authorized to be appropriated to carry out this section not more than $10,000,000 for each of fiscal years 2021 through 2036.
+
+### Statutory Notes
+
+#### Amendments
+2020—Subsec. (c). Pub. L. 116–260 substituted “each of fiscal years 2021 through 2036” for “each of the fiscal years 2006 through 2015”.
 
 
 <a id="section-15901"></a>
@@ -1445,12 +1365,15 @@ The Outer Continental Shelf Lands Act, referred to in subsec. (a), is act Aug. 7
 
 (4) **Survey** — The term “Survey” means the United States Geological Survey.
 
-**(k) Authorization of appropriations** There are authorized to be appropriated to carry out this section $30,000,000 for each of fiscal years 2006 through 2010.
+**(k) Authorization of appropriations** There are authorized to be appropriated to carry out this section $5,000,000 for each of fiscal years 2021 through 2029, to remain available until expended.
 
 ### Statutory Notes
 
 #### References in Text
 The National Geologic Mapping Act of 1992, referred to in subsec. (f)(2), is Pub. L. 102–285, May 18, 1992, 106 Stat. 166, which is classified principally to sections 31a to 31h of Title 43, Public Lands. Par. (3) of section 5(b) of the Act was redesignated par. (4) by Pub. L. 111–11, title XI, § 11001(f)(2)(B), Mar. 30, 2009, 123 Stat. 1415, and is now classified to [section 31d(b)(4) of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section31d/b/4&num=0&edition=prelim). For complete classification of this Act to the Code, see Short Title note set out under [section 31a of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section31a&num=0&edition=prelim) and Tables.
+
+#### Amendments
+2020—Subsec. (k). Pub. L. 116–260 substituted “$5,000,000 for each of fiscal years 2021 through 2029, to remain available until expended” for “$30,000,000 for each of fiscal years 2006 through 2010”.
 
 
 <a id="section-15910"></a>
@@ -2920,7 +2843,7 @@ This subtitle, referred to in text, is subtitle B (§§ 621–639) of title VI o
 
 **(b) Content** The Project shall consist of the research, development, design, construction, and operation of a prototype plant, including a nuclear reactor that—
 
-(1) is based on research and development activities supported by the Generation IV Nuclear Energy Systems Initiative under [section 16272(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section16272/c&num=0&edition=prelim); and
+(1) is based on research and development activities supported by the Generation IV Nuclear Energy Systems Initiative under section 16272(c) 11 See References in Text note below. of this title; and
 
 (2) shall be used—
 
@@ -2931,6 +2854,9 @@ This subtitle, referred to in text, is subtitle B (§§ 621–639) of title VI o
   (C) both to generate electricity and to produce hydrogen.
 
 ### Statutory Notes
+
+#### References in Text
+[Section 16272 of this title](./chapter-149-national-energy-policy-and-programs.md#section-16272), referred to in subsec. (b)(1), was amended generally by Pub. L. 116–260, div. Z, title II, § 2003(a), Dec. 27, 2020, 134 Stat. 2459 and, as amended, [section 16272(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section16272/c&num=0&edition=prelim) no longer refers to the Generation IV Nuclear Energy Systems Initiative.
 
 #### Amendments
 2018—Pub. L. 115–248 substituted “section 16272(c)” for “section 16272(d)”, which had been an editorial translation of a reference in original text to section 942(d) of Pub. L. 109–58.
@@ -4648,13 +4574,15 @@ The Clean Air Act, referred to in text, is act July 14, 1955, ch. 360, 69 Stat. 
 
 <a id="section-16138"></a>
 ## § 16138. Authorization of appropriations
-**(a) In general** There is authorized to be appropriated to carry out this part $100,000,000 for each of fiscal years 2012 through 2016, to remain available until expended.
+**(a) In general** There is authorized to be appropriated to carry out this part $100,000,000 for each of fiscal years 2012 through 2024, to remain available until expended.
 
 **(b) Management and oversight** The Administrator may use not more than 1 percent of the amounts made available under subsection (a) for each fiscal year for management and oversight purposes.
 
 ### Statutory Notes
 
 #### Amendments
+2020—Subsec. (a). Pub. L. 116–260 substituted “2024” for “2016”.
+
 2011—Pub. L. 111–364 amended section generally. Prior to amendment, text read as follows: “There is authorized to be appropriated to carry out this part $200,000,000 for each of fiscal years 2007 through 2011, to remain available until expended.”
 
 #### Effective Date of 2011 Amendment
@@ -5209,7 +5137,18 @@ The costs of carrying out projects and activities under this subchapter shall be
 
 
 <a id="section-16181"></a>
-## § 16181. Arctic Engineering Research Center
+## § 16181. Western Michigan demonstration project
+
+The Administrator of the Environmental Protection Agency, in consultation with the State of Michigan and affected local officials, shall conduct a demonstration project to address the effect of transported ozone and ozone precursors in Southwestern Michigan. The demonstration program shall address projected nonattainment areas in Southwestern Michigan that include counties with design values for ozone of less than .095 based on years 2000 to 2002 or the most current 3-year period of air quality data. The Administrator shall assess any difficulties such areas may experience in meeting the 8-hour national ambient air quality standard for ozone due to the effect of transported ozone or ozone precursors into the areas. The Administrator shall work with State and local officials to determine the extent of ozone and ozone precursor transport, to assess alternatives to achieve compliance with the 8-hour standard apart from local controls, and to determine the timeframe in which such compliance could take place. The Administrator shall complete this demonstration project no later than 2 years after August 8, 2005, and shall not impose any requirement or sanction under the Clean Air Act ([42 U.S.C. 7401](./chapter-085-air-pollution-prevention-and-control.md#section-7401) et seq.) that might otherwise apply during the pendency of the demonstration project.
+
+### Statutory Notes
+
+#### References in Text
+The Clean Air Act, referred to in text, is act July 14, 1955, ch. 360, 69 Stat. 322, as amended, which is classified generally to chapter 85 (§ 7401 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 7401 of this title](./chapter-085-air-pollution-prevention-and-control.md#section-7401) and Tables.
+
+
+<a id="section-16182"></a>
+## § 16182. Arctic Engineering Research Center
 **(a) In general** The Secretary of Transportation, in consultation with the Secretary and the United States Arctic Research Commission, shall provide annual grants to a university located adjacent to the Arctic Energy Office of the Department of Energy, to establish and operate a university research center to be headquartered in Fairbanks and to be known as the “Arctic Engineering Research Center” (referred to in this section as the “Center”).
 
 **(b) Purpose** The purpose of the Center shall be to conduct research on, and develop improved methods of, construction and use of materials to improve the overall performance of roads, bridges, residential, commercial, and industrial structures, and other infrastructure in the Arctic region, with an emphasis on developing—
@@ -5233,8 +5172,8 @@ The costs of carrying out projects and activities under this subchapter shall be
 **(e) Authorization of appropriations** There are authorized to be appropriated to carry out this section $3,000,000 for each of fiscal years 2006 through 2011.
 
 
-<a id="section-16182"></a>
-## § 16182. Barrow Geophysical Research Facility
+<a id="section-16183"></a>
+## § 16183.. Barrow Geophysical Research Facility
 **(a) Establishment** The Secretary of Commerce, in consultation with the Secretaries of Energy and the Interior, the Director of the National Science Foundation, and the Administrator of the Environmental Protection Agency, shall establish a joint research facility in Barrow, Alaska, to be known as the “Barrow Geophysical Research Facility”, to support scientific research activities in the Arctic.
 
 **(b) Authorization of appropriations** There are authorized to be appropriated to the Secretaries of Commerce, Energy, and the Interior, the Director of the National Science Foundation, and the Administrator of the Environmental Protection Agency for the planning, design, construction, and support of the Barrow Geophysical Research Facility, $61,000,000.
@@ -5334,7 +5273,143 @@ The Department of Energy Organization Act, referred to in par. (1), is Pub. L. 9
 
 
 <a id="section-16194"></a>
-## § 16194. Energy efficiency
+## § 16194. Energy and water for sustainability
+**(a) Nexus of energy and water for sustainability**
+
+(1) **Definitions** — In this section:
+
+  (A) *Department* — The term “Department” means the Department of Energy.
+
+  (B) *Energy-water nexus* — The term “energy-water nexus” means the links between—
+
+    (i) the water needed to produce fuels, electricity, and other forms of energy; and
+
+    (ii) the energy needed to transport, reclaim, and treat water and wastewater.
+
+  (C) *Interagency RD&D Coordination Committee* — The term “Interagency RD&D Coordination Committee” means the Interagency RD&D Coordination Committee on the Nexus of Energy and Water for Sustainability (or the “NEWS RD&D Committee”) established under paragraph (3)(A).
+
+  (D) *Nexus of Energy and Water Sustainability RD&D Office; NEWS RD&D Office* — The term “Nexus of Energy and Water Sustainability RD&D Office” or the “NEWS RD&D Office” means an office located at the Department and managed in cooperation with the Department of the Interior pursuant to an agreement between the 2 agencies to carry out leadership and administrative functions for the Interagency RD&D Coordination Committee.
+
+  (E) *RD&D* — The term “RD&D” means research, development, and demonstration.
+
+  (F) *Secretary* — The term “Secretary” means the Secretary of Energy.
+
+(2) **Statement of policy** — Recognizing States’ primacy over allocation and administration of water resources (except in specific instances where preempted under Federal law) and the siting of energy infrastructure within State boundaries on non-Federal lands, it is the national policy that the Federal government, in all energy-water nexus management activities, shall maximize coordination and consultation among Federal agencies and with State and local governments, and disseminate information to the public in the most effective manner.
+
+(3) **Interagency RD&D Coordination Committee**
+
+  (A) *Establishment* — Not later than 180 days after December 27, 2020, the Secretary and the Secretary of the Interior shall establish the joint NEWS RD&D Office and Interagency RD&D Coordination Committee on the Nexus of Energy and Water for Sustainability (or the “NEWS RD&D Committee”) to carry out the duties described in subparagraph (C).
+
+  (B) *Administration*
+
+    (i) *Chairs* — The Secretary and the Secretary of the Interior shall jointly manage the NEWS RD&D Office and serve as co-chairs of the Interagency RD&D Coordination Committee.
+
+    (ii) *Membership; staffing* — Membership and staffing shall be determined by the co-chairs.
+
+  (C) *Duties* — The Interagency RD&D Coordination Committee shall—
+
+    (i) serve as a forum for developing common Federal goals and plans on energy-water nexus RD&D activities, in coordination with the National Science and Technology Council;
+
+    (ii) not later than 1 year after December 27, 2020, and biennially thereafter, issue a strategic plan on energy-water nexus RD&D activities, priorities, and objectives pursuant to subparagraph (D), which shall be developed in consultation with relevant State and local governments;
+
+    (iii) convene and promote coordination of RD&D activities of relevant Federal departments and agencies on energy-water nexus;
+
+    (iv)
+
+      (I) coordinate and develop capabilities and methodologies related to RD&D activities for data collection, data communication protocols (including models and modeling results), data management, and dissemination of validated data and results related to energy-water nexus RD&D activities to requesting Federal departments and agencies; and
+
+      (II) promote information exchange between Federal departments and agencies—
+
+        (aa) to identify and document Federal and non-Federal RD&D programs and funding opportunities that support basic and applied RD&D proposals to advance energy-water nexus related science and technologies;
+
+        (bb) to leverage existing RD&D programs by encouraging joint solicitations, block grants, and matching programs with non-Federal entities; and
+
+        (cc) to identify opportunities for domestic and international public-private partnerships, innovative financing mechanisms, and information and data exchange with respect to RD&D activities;
+
+    (v) identify ways to leverage existing RD&D programs, including programs at the State and local level;
+
+    (vi) make publicly available the results of RD&D activities on the energy water nexus;
+
+    (vii) with regard to RD&D programs, recommend improvements and best practices for the collection and dissemination of federal water use data and the use of monitoring networks; and
+
+    (viii) promote coordination on RD&D with non-Federal interests by—
+
+      (I) consulting with representatives of research and academic institutions, State, local, and Tribal governments, public utility commissions, and industry, who have expertise in technologies, technological innovations, or practices relating to the energy-water nexus; and
+
+      (II) considering conducting technical workshops.
+
+  (D) *Strategic plan* — In developing the strategic plan pursuant to (C)(ii), the Interagency RD&D Coordination Committee shall—
+
+    (i) to the maximum extent possible, avoid duplication with other Federal RD&D programs, and projects, including with those of the National Laboratories;
+
+    (ii) consider inclusion of specific research, development and demonstration needs, including—
+
+      (I) innovative practices, technologies and other advancements improving water efficiency, treatment, recovery, or reuse associated with energy generation, including cooling, and fuel production;
+
+      (II) innovative practices, technologies and other advancements associated with energy use in water collection, supply, delivery, distribution, treatment, or reuse;
+
+      (III) innovative practices, technologies and other advancements associated with generation or production of energy from water or wastewater systems; and
+
+      (IV) modeling and systems analysis related to energy-water nexus; and
+
+    (iii) submit the plan to the Committee on Energy and Natural Resources of the Senate and the Committees on Science, Space, and Technology, Energy and Commerce, and Natural Resources of the House of Representatives.
+
+  (E) *Rules of construction*
+
+    (i) Nothing in this section grants to the Interagency RD&D Coordination Committee the authority to promulgate regulations or set standards.
+
+    (ii) Notwithstanding any other provision of law, nothing in this section shall be construed to require State, Tribal, or local governments to take any action that may result in an increased financial burden to such governments.
+
+  (F) *Additional participation* — In developing the strategic plan described in subparagraph (C)(ii), the Secretary shall consult and coordinate with a diverse group of representatives from research and academic institutions, industry, public utility commissions, and State and local governments who have expertise in technologies and practices relating to the energy-water nexus.
+
+  (G) *Review; report* — At the end of the 5-year period beginning on the date on which the Interagency RD&D Coordination Committee and NEWS RD&D Office are established, the NEWS RD&D Office shall—
+
+    (i) review the activities, relevance, and effectiveness of the Interagency RD&D Coordination Committee; and
+
+    (ii) submit to the Committee on Energy and Natural Resources of the Senate and the Committees on Science, Space, and Technology, Energy and Commerce, and Natural Resources of the House of Representatives a report that—
+
+      (I) describes the results of the review conducted under clause (i); and
+
+      (II) includes a recommendation on whether the Interagency RD&D Coordination Committee should continue.
+
+(4) **Crosscut budget** — Not later than 30 days after the President submits the budget of the United States Government under [section 1105 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1105&num=0&edition=prelim), the co-chairs of the Interagency RD&D Coordination Committee (acting through the NEWS RD&D Office) shall submit to the Committee on Energy and Natural Resources of the Senate and the Committees on Science, Space, and Technology, Energy and Commerce, and Natural Resources of the House of Representatives, an interagency budget crosscut report that displays at the program-, project-, and activity-level for each of the Federal agencies that carry out or support (including through grants, contracts, interagency and intraagency transfers, and multiyear and no-year funds) basic and applied RD&D activities to advance the energy-water nexus related science and technologies, including—
+
+  (A) the budget proposed in the budget request of the President for the upcoming fiscal year;
+
+  (B) expenditures and obligations for the prior fiscal year; and
+
+  (C) estimated expenditures and obligations for the current fiscal year.
+
+(5) **Termination**
+
+  (A) *In general* — The authority provided to the NEWS RD&D Office and NEWS RD&D Committee under this subsection shall terminate on the date that is 7 years after December 27, 2020.
+
+  (B) *Effect* — The termination of authority under subparagraph (A) shall not affect ongoing interagency planning, coordination, or other RD&D activities relating to the energy-water nexus.
+
+**(b) Integrating energy and water research** The Secretary shall integrate the following considerations into energy RD&D programs and projects of the Department by—
+
+(1) advancing RD&D for energy and energy efficiency technologies and practices that meet the objectives of—
+
+  (A) minimizing freshwater withdrawal and consumption;
+
+  (B) increasing water use efficiency; and
+
+  (C) utilizing nontraditional water sources;
+
+(2) considering the effects climate variability may have on water supplies and quality for energy generation and fuel production; and
+
+(3) improving understanding of the energy-water nexus (as defined in subsection (a)(1)).
+
+**(c) Additional activities** The Secretary may provide for such additional RD&D activities as appropriate to integrate the considerations described in subsection (b) into the RD&D activities of the Department.
+
+### Statutory Notes
+
+#### Codification
+Section was enacted as part of the Energy Act of 2020, and not as part of the Energy Policy Act of 2005 which comprises this chapter.
+
+
+<a id="section-16195"></a>
+## § 16195. Energy efficiency
 **(a) In general**
 
 (1) **Objectives** — The Secretary shall conduct programs of energy efficiency research, development, demonstration, and commercial application, including activities described in this part. Such programs shall take into consideration the following objectives:
@@ -5425,8 +5500,8 @@ The National Energy Conservation Policy Act, referred to in subsec. (e)(4), is P
 Amendment by Pub. L. 110–140 effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as an Effective Date note under [section 1824 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1824&num=0&edition=prelim), The Congress.
 
 
-<a id="section-16195"></a>
-## § 16195. Next Generation Lighting Initiative
+<a id="section-16196"></a>
+## § 16196. Next Generation Lighting Initiative
 **(a) Definitions** In this section:
 
 (1) **Advanced solid-state lighting** — The term “advanced solid-state lighting” means a semiconducting device package and delivery system that produces white light using externally applied voltage.
@@ -5490,8 +5565,8 @@ Amendment by Pub. L. 110–140 effective on the date that is 1 day after Dec. 19
 **(i) National Academy review** The Secretary shall enter into an arrangement with the National Academy of Sciences to conduct periodic reviews of the Initiative.
 
 
-<a id="section-16196"></a>
-## § 16196. National Building Performance Initiative
+<a id="section-16197"></a>
+## § 16197. National Building Performance Initiative
 **(a) Interagency group**
 
 (1) **In general** — Not later than 90 days after August 8, 2005, the Director of the Office of Science and Technology Policy shall establish an interagency group to develop, in coordination with the advisory committee established under subsection (e), a National Building Performance Initiative (referred to in this section as the “Initiative”).
@@ -5523,8 +5598,8 @@ Amendment by Pub. L. 110–140 effective on the date that is 1 day after Dec. 19
 **(f) Administration** Nothing in this section provides any Federal agency with new authority to regulate building performance.
 
 
-<a id="section-16197"></a>
-## § 16197. Building standards
+<a id="section-16198"></a>
+## § 16198. Building standards
 **(a) Definition of high performance building** In this section, the term “high performance building” means a building that integrates and optimizes all major high-performance building attributes, including energy efficiency, durability, life-cycle performance, and occupant productivity.
 
 **(b) Assessment** Not later than 120 days after August 8, 2005, the Secretary shall enter into an agreement with the National Institute of Building Sciences to—
@@ -5708,7 +5783,110 @@ May 8, 2008, referred to in subsec. (a), was in the original “the date of enac
 
 
 <a id="section-16214"></a>
-## § 16214. Distributed energy and electric energy systems
+## § 16214. Smart energy and water efficiency pilot program
+**(a) Definitions** In this section:
+
+(1) **Eligible entity** — The term “eligible entity” means—
+
+  (A) a utility;
+
+  (B) a municipality;
+
+  (C) a water district;
+
+  (D) an Indian Tribe or Alaska Native village; and
+
+  (E) any other authority that provides water, wastewater, or water reuse services.
+
+(2) **Smart energy and water efficiency pilot program** — The term “smart energy and water efficiency pilot program” or “pilot program” means the pilot program established under subsection (b).
+
+**(b) Smart energy and water efficiency pilot program**
+
+(1) **In general** — The Secretary shall establish and carry out a smart energy and water efficiency pilot program in accordance with this section.
+
+(2) **Purpose** — The purpose of the smart energy and water efficiency pilot program is to award grants to eligible entities to demonstrate unique, advanced, or innovative technology-based solutions that will—
+
+  (A) improve the net energy balance of water, wastewater, and water reuse systems;
+
+  (B) improve the net energy balance of water, wastewater, and water reuse systems to help communities across the United States make measurable progress in conserving water, saving energy, and reducing costs;
+
+  (C) support the implementation of innovative and unique processes and the installation of established advanced automated systems that provide real-time data on energy and water; and
+
+  (D) improve energy-water conservation and quality and predictive maintenance through technologies that utilize internet connected technologies, including sensors, intelligent gateways, and security embedded in hardware.
+
+(3) **Project selection**
+
+  (A) *In general* — The Secretary shall make competitive, merit-reviewed grants under the pilot program to not less than 3, but not more than 5, eligible entities.
+
+  (B) *Selection criteria* — In selecting an eligible entity to receive a grant under the pilot program, the Secretary shall consider—
+
+    (i) energy and cost savings;
+
+    (ii) the uniqueness, commercial viability, and reliability of the technology to be used;
+
+    (iii) the degree to which the project integrates next-generation sensors software, analytics, and management tools;
+
+    (iv) the anticipated cost-effectiveness of the pilot project through measurable energy savings, water savings or reuse, and infrastructure costs averted;
+
+    (v) whether the technology can be deployed in a variety of geographic regions and the degree to which the technology can be implemented in a wide range of applications ranging in scale from small towns to large cities, including Tribal communities;
+
+    (vi) whether the technology has been successfully deployed elsewhere;
+
+    (vii) whether the technology was sourced from a manufacturer based in the United States; and
+
+    (viii) whether the project will be completed in 5 years or less.
+
+  (C) *Applications*
+
+    (i) *In general* — Subject to clause (ii), an eligible entity seeking a grant under the pilot program shall submit to the Secretary an application at such time, in such manner, and containing such information as the Secretary determines to be necessary.
+
+    (ii) *Contents* — An application under clause (i) shall, at a minimum, include—
+
+      (I) a description of the project;
+
+      (II) a description of the technology to be used in the project;
+
+      (III) the anticipated results, including energy and water savings, of the project;
+
+      (IV) a comprehensive budget for the project;
+
+      (V) the names of the project lead organization and any partners;
+
+      (VI) the number of users to be served by the project;
+
+      (VII) a description of the ways in which the proposal would meet performance measures established by the Secretary; and
+
+      (VIII) any other information that the Secretary determines to be necessary to complete the review and selection of a grant recipient.
+
+(4) **Administration**
+
+  (A) *In general* — Not later than 1 year after December 27, 2020, the Secretary shall select grant recipients under this section.
+
+  (B) *Evaluations*
+
+    (i) *Annual evaluations* — The Secretary shall annually carry out an evaluation of each project for which a grant is provided under this section that meets performance measures and benchmarks developed by the Secretary, consistent with the purposes of this section.
+
+    (ii) *Requirements* — Consistent with the performance measures and benchmarks developed under clause (i), in carrying out an evaluation under that clause, the Secretary shall—
+
+      (I) evaluate the progress and impact of the project; and
+
+      (II) assess the degree to which the project is meeting the goals of the pilot program.
+
+  (C) *Technical and policy assistance* — On the request of a grant recipient, the Secretary shall provide technical and policy assistance.
+
+  (D) *Best practices* — The Secretary shall make available to the public through the Internet and other means the Secretary considers to be appropriate—
+
+    (i) a copy of each evaluation carried out under subparagraph (B); and
+
+    (ii) a description of any best practices identified by the Secretary as a result of those evaluations.
+
+  (E) *Report to Congress* — The Secretary shall submit to Congress a report containing the results of each evaluation carried out under subparagraph (B).
+
+**(c) Authorization of appropriations** There is authorized to be appropriated to the Secretary to carry out this section $15,000,000, to remain available until expended.
+
+
+<a id="section-16215"></a>
+## § 16215. Distributed energy and electric energy systems
 **(a) In general** The Secretary shall carry out programs of research, development, demonstration, and commercial application on distributed energy resources and systems reliability and efficiency, to improve the reliability and efficiency of distributed energy resources and systems, integrating advanced energy technologies with grid connectivity, including activities described in this part. The programs shall address advanced energy technologies and systems and advanced grid reliability technologies.
 
 **(b) Authorization of appropriations**
@@ -5728,15 +5906,15 @@ May 8, 2008, referred to in subsec. (a), was in the original “the date of enac
 **(d) High-voltage transmission lines** From amounts authorized under subsection (b), $2,000,000 for fiscal year 2007 shall be available to carry out activities under [section 16215(g) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section16215/g&num=0&edition=prelim).
 
 
-<a id="section-16215"></a>
-## § 16215. High power density industry program
+<a id="section-16231"></a>
+## § 16231. High power density industry program
 **(a) In general** The Secretary shall establish a comprehensive research, development, demonstration, and commercial application to improve the energy efficiency of high power density facilities, including data centers, server farms, and telecommunications facilities.
 
 **(b) Technologies** The program shall consider technologies that provide significant improvement in thermal controls, metering, load management, peak load reduction, or the efficient cooling of electronics.
 
 
-<a id="section-16231"></a>
-## § 16231. Micro-cogeneration energy technology
+<a id="section-16232"></a>
+## § 16232. Micro-cogeneration energy technology
 **(a) In general** The Secretary shall make competitive, merit-based grants to consortia for the development of micro-cogeneration energy technology.
 
 **(b) Uses** The consortia shall explore—
@@ -5748,8 +5926,8 @@ May 8, 2008, referred to in subsec. (a), was in the original “the date of enac
 (3) the supply of excess generated power to the power grid.
 
 
-<a id="section-16232"></a>
-## § 16232. Distributed energy technology demonstration programs
+<a id="section-16233"></a>
+## § 16233. Distributed energy technology demonstration programs
 **(a) Coordinating consortia program** The Secretary may provide financial assistance to coordinating consortia of interdisciplinary participants for demonstrations designed to accelerate the use of distributed energy technologies (such as fuel cells, microturbines, reciprocating engines, thermally activated technologies, and combined heat and power systems) in high-energy intensive commercial applications.
 
 **(b) Small-scale portable power program**
@@ -5765,8 +5943,8 @@ May 8, 2008, referred to in subsec. (a), was in the original “the date of enac
 (3) **Definition** — For purposes of this subsection, the term “small scale portable power device” means a field-deployable portable mechanical or electromechanical device that can be used for applications such as communications, computation, mobility enhancement, weapons systems, optical devices, cooling, sensors, medical devices, and active biological agent detection systems.
 
 
-<a id="section-16233"></a>
-## § 16233. Electric transmission and distribution programs
+<a id="section-16234"></a>
+## § 16234. Electric transmission and distribution programs
 **(a) Program** The Secretary shall establish a comprehensive research, development, and demonstration program to ensure the reliability, efficiency, and environmental integrity of electrical transmission and distribution systems, which shall include—
 
 (1) advanced energy delivery technologies, energy storage technologies, materials, and systems, giving priority to new transmission technologies, including composite conductor materials and other technologies that enhance reliability, operational flexibility, or power-carrying capability;
@@ -5791,9 +5969,13 @@ May 8, 2008, referred to in subsec. (a), was in the original “the date of enac
 
 (9) the development and use of advanced grid design, operation, and planning tools;
 
-(10) any other infrastructure technologies, as appropriate; and
+(10) the development of cost-effective technologies that enable two-way information and power flow between distributed energy resources and the electric grid;
 
-(11) technology transfer and education.
+(11) the development of technologies and concepts that enable interoperability between distributed energy resources and other behind-the-meter devices and the electric grid;
+
+(12) any other infrastructure technologies, as appropriate; and
+
+(13) technology transfer and education.
 
 **(b) Program plan**
 
@@ -5873,9 +6055,17 @@ May 8, 2008, referred to in subsec. (a), was in the original “the date of enac
 
 **(g) High-voltage transmission lines** As part of the program described in subsection (a), the Secretary shall award a grant to a university research program to design and test, in consultation with the Tennessee Valley Authority, state-of-the-art optimization techniques for power flow through existing high voltage transmission lines.
 
+### Statutory Notes
 
-<a id="section-16234"></a>
-## § 16234. Renewable energy
+#### Amendments
+2020—Subsec. (a)(10) to (13). Pub. L. 116–260 added pars. (10) and (11) and redesignated former pars. (10) and (11) as (12) and (13), respectively.
+
+#### Coordination of Efforts
+Pub. L. 116–260, div. Z, title VIII, § 8006, Dec. 27, 2020, 134 Stat. 2586, provided that: “In carrying out the amendments made by this title [enacting sections 16236, 17014, 17384a, 17387, and 17388 of this title and amending this section, [section 17384 of this title](./chapter-152-energy-independence-and-security.md#section-17384) and sections 3501 and 3502 of Title 25, Indians], the Secretary [probably means Secretary of Energy] shall coordinate with relevant entities to the maximum extent practicable, including— “(1) electric utilities; “(2) private sector entities; “(3) representatives of all sectors of the electric power industry; “(4) transmission organizations; “(5) transmission owners and operators; “(6) distribution organizations; “(7) distribution asset owners and operators; “(8) State, Tribal, local, and territorial governments and regulatory authorities; “(9) academic institutions; “(10) the National Laboratories; “(11) other Federal agencies; “(12) nonprofit organizations; “(13) the Federal Energy Regulatory Commission; “(14) the North American Reliability Corporation; “(15) independent system operators; and “(16) programs and program offices at the Department.”
+
+
+<a id="section-16235"></a>
+## § 16235. Renewable energy
 **(a) In general**
 
 (1) **Objectives** — The Secretary shall conduct programs of renewable energy research, development, demonstration, and commercial application, including activities described in this part. Such programs shall take into consideration the following objectives:
@@ -5896,31 +6086,7 @@ May 8, 2008, referred to in subsec. (a), was in the original “the date of enac
 
 (2) **Programs**
 
-  (A) *Solar energy* — The Secretary shall conduct a program of research, development, demonstration, and commercial application for solar energy, including—
-
-    (i) photovoltaics;
-
-    (ii) solar hot water and solar space heating;
-
-    (iii) concentrating solar power;
-
-    (iv) lighting systems that integrate sunlight and electrical lighting in complement to each other in common lighting fixtures for the purpose of improving energy efficiency;
-
-    (v) manufacturability of low cost, high quality solar systems; and
-
-    (vi) development of products that can be easily integrated into new and existing buildings.
-
-  (B) *Wind energy* — The Secretary shall conduct a program of research, development, demonstration, and commercial application for wind energy, including—
-
-    (i) low speed wind energy;
-
-    (ii) offshore wind energy;
-
-    (iii) testing and verification (including construction and operation of a research and testing facility capable of testing wind turbines); and
-
-    (iv) distributed wind energy generation.
-
-  (C) *Geothermal* — The Secretary shall conduct a program of research, development, demonstration, and commercial application for geothermal energy. The program shall focus on developing improved technologies for reducing the costs of geothermal energy installations, including technologies for—
+  (A) *Geothermal* — The Secretary shall conduct a program of research, development, demonstration, and commercial application for geothermal energy. The program shall focus on developing improved technologies for reducing the costs of geothermal energy installations, including technologies for—
 
     (i) improving detection of geothermal resources;
 
@@ -5932,13 +6098,13 @@ May 8, 2008, referred to in subsec. (a), was in the original “the date of enac
 
     (v) increasing the understanding of reservoir life cycle and management.
 
-  (D) *Hydropower* — The Secretary shall conduct a program of research, development, demonstration, and commercial application for cost competitive technologies that enable the development of new and incremental hydropower capacity, adding to the diversity of the energy supply of the United States, including:
+  (B) *Hydropower* — The Secretary shall conduct a program of research, development, demonstration, and commercial application for cost competitive technologies that enable the development of new and incremental hydropower capacity, adding to the diversity of the energy supply of the United States, including:
 
     (i) Fish-friendly large turbines.
 
     (ii) Advanced technologies to enhance environmental performance and yield greater energy efficiencies.
 
-  (E) *Miscellaneous projects* — The Secretary shall conduct research, development, demonstration, and commercial application programs for—
+  (C) *Miscellaneous projects* — The Secretary shall conduct research, development, demonstration, and commercial application programs for—
 
     (i) ocean energy, including wave energy;
 
@@ -5968,15 +6134,7 @@ May 8, 2008, referred to in subsec. (a), was in the original “the date of enac
 
 (4) $419,000,000 for fiscal year 2010, of which $150,000,000 shall be for [section 16232(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section16232/d&num=0&edition=prelim).
 
-**(d) Solar power** From amounts authorized under subsection (b), there is authorized to be appropriated to carry out activities under subsection (a)(2)(A)—
-
-(1) $140,000,000 for fiscal year 2007, of which $40,000,000 shall be for activities under [section 16235 of this title](./chapter-149-national-energy-policy-and-programs.md#section-16235);
-
-(2) $200,000,000 for fiscal year 2008, of which $50,000,000 shall be for activities under [section 16235 of this title](./chapter-149-national-energy-policy-and-programs.md#section-16235); and
-
-(3) $250,000,000 for fiscal year 2009, of which $50,000,000 shall be for activities under [section 16235 of this title](./chapter-149-national-energy-policy-and-programs.md#section-16235).
-
-**(e) Administration** Of the funds authorized under subsection (c), not less than $5,000,000 for each fiscal year shall be made available for grants to—
+**(d) Administration** Of the funds authorized under subsection (c), not less than $5,000,000 for each fiscal year shall be made available for grants to—
 
 (1) part B institutions;
 
@@ -5984,7 +6142,7 @@ May 8, 2008, referred to in subsec. (a), was in the original “the date of enac
 
 (3) Hispanic-serving institutions.
 
-**(f) Rural demonstration projects** In carrying out this section, the Secretary, in consultation with the Secretary of Agriculture, shall demonstrate the use of renewable energy technologies to assist in delivering electricity to rural and remote locations including —
+**(e) Rural demonstration projects** In carrying out this section, the Secretary, in consultation with the Secretary of Agriculture, shall demonstrate the use of renewable energy technologies to assist in delivering electricity to rural and remote locations including —
 
 (1) advanced wind power technology, including combined use with coal gasification;
 
@@ -5992,7 +6150,7 @@ May 8, 2008, referred to in subsec. (a), was in the original “the date of enac
 
 (3) geothermal energy systems.
 
-**(g) Analysis and evaluation**
+**(f) Analysis and evaluation**
 
 (1) **In general** — The Secretary shall conduct analysis and evaluation in support of the renewable energy programs under this part. These activities shall be used to guide budget and program decisions, and shall include—
 
@@ -6007,6 +6165,10 @@ May 8, 2008, referred to in subsec. (a), was in the original “the date of enac
 ### Statutory Notes
 
 #### Amendments
+2020—Subsec. (a)(2). Pub. L. 116–260, § 3006(b)(3)(A)(i), (ii), redesignated subpars. (C) to (E) as (A) to (C), respectively, and struck out former subpars. (A) and (B) which related to solar and wind energy programs.
+
+Subsec. (d) to (g). Pub. L. 116–260, § 3006(b)(3)(B), (C), redesignated subsecs. (e) to (g) as (d) to (f), respectively, and struck out former subsec. (d) which related to solar power.
+
 2007—Subsec. (b)(4). Pub. L. 110–140, § 231(1), added par. (4).
 
 Subsec. (c)(2) to (4). Pub. L. 110–140, § 231(2), in par. (2), substituted “$377,000,000” for “$251,000,000”, in par. (3), substituted “$398,000,000” for “$274,000,000”, and added par. (4).
@@ -6015,8 +6177,8 @@ Subsec. (c)(2) to (4). Pub. L. 110–140, § 231(2), in par. (2), substituted �
 Amendment by Pub. L. 110–140 effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as an Effective Date note under [section 1824 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1824&num=0&edition=prelim), The Congress.
 
 
-<a id="section-16235"></a>
-## § 16235. Bioenergy program
+<a id="section-16236"></a>
+## § 16236. Bioenergy program
 **(a) Definitions** In this section:
 
 (1) **Biomass** — The term “biomass” means—
@@ -6106,8 +6268,8 @@ Amendment by Pub. L. 110–140 effective on the date that is 1 day after Dec. 19
 Amendment by Pub. L. 110–140 effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as an Effective Date note under [section 1824 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1824&num=0&edition=prelim), The Congress.
 
 
-<a id="section-16251"></a>
-## § 16251. Low-cost renewable hydrogen and infrastructure for vehicle propulsion
+<a id="section-16237"></a>
+## § 16237. Low-cost renewable hydrogen and infrastructure for vehicle propulsion
 
 The Secretary shall—
 
@@ -6128,8 +6290,8 @@ The Secretary shall—
     (iii) uses hydrogen produced from water using only solar energy.
 
 
-<a id="section-16252"></a>
-## § 16252. Concentrating solar power research program
+<a id="section-16238"></a>
+## § 16238. Concentrating solar power research program
 **(a) In general** The Secretary shall conduct a program of research and development to evaluate the potential for concentrating solar power for hydrogen production, including cogeneration approaches for both hydrogen and electricity.
 
 **(b) Administration** The program shall take advantage of existing facilities to the extent practicable and shall include—
@@ -6155,8 +6317,8 @@ The Secretary shall—
 **(d) Report** Not later than 5 years after August 8, 2005, the Secretary shall provide to Congress a report on the economic and technical potential for electricity or hydrogen production, with or without cogeneration, with concentrating solar power, including the economic and technical feasibility of potential construction of a pilot demonstration facility suitable for commercial production of electricity or hydrogen from concentrating solar power.
 
 
-<a id="section-16253"></a>
-## § 16253. Renewable energy in public buildings
+<a id="section-16251"></a>
+## § 16251. Renewable energy in public buildings
 **(a) Demonstration and technology transfer program** The Secretary shall establish a program for the demonstration of innovative technologies for solar and other renewable energy sources in buildings owned or operated by a State or local government, and for the dissemination of information resulting from such demonstration to interested parties.
 
 **(b) Limit on Federal funding** Notwithstanding [section 16352 of this title](./chapter-149-national-energy-policy-and-programs.md#section-16352), the Secretary shall provide under this section no more than 40 percent of the incremental costs of the solar or other renewable energy source project funded.
@@ -6168,8 +6330,637 @@ The Secretary shall—
 (2) to state how they expect any award to further their transition to the significant use of renewable energy.
 
 
+<a id="section-16252"></a>
+## § 16252. Research and development into integrating renewable energy onto the electric grid
+**(a) In general** Not later than 180 days after December 27, 2020, the Secretary shall establish a research, development, and demonstration program on technologies that enable integration of renewable energy generation sources onto the electric grid across multiple program offices of the Department. The program shall include—
+
+(1) forecasting for predicting generation from variable renewable energy sources;
+
+(2) development of cost-effective low-loss, long-distance transmission lines; and
+
+(3) development of cost-effective advanced technologies for variable renewable generation sources to provide grid services.
+
+**(b) Coordination** In carrying out this program, the Secretary shall coordinate across all relevant program offices at the Department to achieve the goals established in this section, including the Office of Electricity.
+
+**(c) Adoption of technologies** In carrying out this section, the Secretary shall consider barriers to adoption and commercial application of technologies that enable integration of renewable energy sources onto the electric grid, including cost and other economic barriers, and shall coordinate with relevant entities to reduce these barriers.
+
+
+<a id="section-16253"></a>
+## § 16253. Wind energy research and development
+**(a) Definitions** In this section:
+
+(1) **Critical material** — The term “critical material” has the meaning given the term in [section 1606 of title 30](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title30-section1606&num=0&edition=prelim).
+
+(2) **Economically distressed area** — The term “economically distressed area” means an area described in [section 3161(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3161/a&num=0&edition=prelim).
+
+(3) **Eligible entity** — The term “eligible entity” means—
+
+  (A) an institution of higher education, including a minority-serving institution;
+
+  (B) a National Laboratory;
+
+  (C) a Federal research agency;
+
+  (D) a State research agency;
+
+  (E) a research agency associated with a territory or freely associated state;
+
+  (F) a Tribal energy development organization;
+
+  (G) an Indian Tribe;
+
+  (H) a Tribal organization;
+
+  (I) a Native Hawaiian community-based organization;
+
+  (J) a nonprofit research organization;
+
+  (K) an industrial entity;
+
+  (L) any other entity, as determined by the Secretary; and
+
+  (M) a consortium of 2 or more entities described in subparagraphs (A) through (L).
+
+(4) **Indian Tribe** — The term “Indian Tribe” has the meaning given the term in [section 5304 of title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5304&num=0&edition=prelim).
+
+(5) **Institution of higher education** — The term “institution of higher education” means—
+
+  (A) an institution of higher education (as defined in [section 1001(a) of title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1001/a&num=0&edition=prelim)); or
+
+  (B) a postsecondary vocational institution (as defined in [section 1002(c) of title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1002/c&num=0&edition=prelim)).
+
+(6) **Minority serving institution** — The term “minority-serving institution” has the meaning given the term “eligible institution” in [section 1067q(a) of title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1067q/a&num=0&edition=prelim).
+
+(7) **National Laboratory** — The term “National Laboratory” has the meaning given such term in [section 15801(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section15801/3&num=0&edition=prelim).
+
+(8) **Native Hawaiian community-based organization** — The term “Native Hawaiian community-based organization” has the meaning given the term in [section 7517 of title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section7517&num=0&edition=prelim).
+
+(9) **Program** — The term “program” means the program established under subsection (b)(1).
+
+(10) **Secretary** — The term “Secretary” means the Secretary of Energy.
+
+(11) **Territory or freely associated state** — The term “territory or freely associated state” has the meaning given the term “insular area” in [section 3103 of title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section3103&num=0&edition=prelim).
+
+(12) **Tribal energy development organization** — The term “Tribal energy development organization” has the meaning given the term “tribal energy development organization” in [section 3501 of title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section3501&num=0&edition=prelim).
+
+(13) **Tribal organization** — The term “Tribal organization” has the meaning given the term in [section 5304 of title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5304&num=0&edition=prelim).
+
+**(b) Wind energy technology program**
+
+(1) **Establishment**
+
+  (A) *In general* — The Secretary shall establish a program to conduct research, development, demonstration, and commercialization of wind energy technologies in accordance with this subsection.
+
+  (B) *Purposes* — The purposes of the program are the following:
+
+    (i) To improve the energy efficiency, cost effectiveness, reliability, resilience, security, siting, integration, manufacturability, installation, decommissioning, and recyclability of wind energy technologies.
+
+    (ii) To optimize the performance and operation of wind energy components, turbines, and systems, including through the development of new materials, hardware, and software.
+
+    (iii) To optimize the design and adaptability of wind energy technologies to the broadest practical range of geographic, atmospheric, offshore, and other site conditions, including—
+
+      (I) at varying hub heights; and
+
+      (II) through the use of computer modeling.
+
+    (iv) To support the integration of wind energy technologies with the electric grid and other energy technologies and systems.
+
+    (v) To reduce the cost, risk, and other potential negative impacts across the lifespan of wind energy technologies, including—
+
+      (I) manufacturing, siting, permitting, installation, operations, maintenance, decommissioning, and recycling; and
+
+      (II) through the development of solutions to transportation barriers to wind components.
+
+    (vi) To reduce and mitigate potential negative impacts of wind energy technologies on human communities, the environment, or commerce.
+
+    (vii) To address barriers to the commercialization and export of wind energy technologies.
+
+    (viii) To support the domestic wind industry, workforce, and supply chain.
+
+  (C) *Targets* — Not later than 180 days after December 27, 2020, the Secretary shall establish targets for the program relating to near-term (up to 2 years), mid-term (up to 7 years), and long-term (up to 15 years) challenges to the advancement of wind energy technologies, including onshore, offshore, distributed, and off-grid technologies.
+
+(2) **Activities**
+
+  (A) *Types of activities* — In carrying out the program, the Secretary shall carry out research, development, demonstration, and commercialization activities, including—
+
+    (i) awarding grants and awards, on a competitive, merit-reviewed basis;
+
+    (ii) performing precompetitive research and development;
+
+    (iii) establishing or maintaining demonstration facilities and projects, including through stewardship of existing facilities such as the National Wind Test Center;
+
+    (iv) providing technical assistance;
+
+    (v) entering into contracts and cooperative agreements;
+
+    (vi) providing small business vouchers;
+
+    (vii) establishing prize competitions;
+
+    (viii) conducting education and outreach activities;
+
+    (ix) conducting professional development activities; and
+
+    (x) conducting analyses, studies, and reports.
+
+  (B) *Subject areas* — The Secretary shall carry out research, development, demonstration, and commercialization activities in the following subject areas:
+
+    (i) Wind power plant siting, performance, operations, and security.
+
+    (ii) New materials and designs relating to all hardware, software, and components of wind energy technologies, including technologies and strategies that reduce the use of energy, water, critical materials, and other commodities that are determined to be vulnerable to disruption.
+
+    (iii) Advanced wind energy manufacturing and installation technologies and practices, including materials, processes, such as onsite or near site manufacturing, and design.
+
+    (iv) Offshore wind-specific projects and plants, including—
+
+      (I) fixed and floating substructure systems, materials, and components;
+
+      (II) the operation of offshore facilities, such as—
+
+        (aa) an offshore research facility to conduct research for oceanic, biological, geological, and atmospheric resource characterization relevant to offshore wind energy development in coordination with the ocean and atmospheric science communities; and
+
+        (bb) an offshore support structure testing facility to conduct development, demonstration, and commercialization of large-scale and full-scale offshore wind energy support structure components and systems;
+
+      (III) the monitoring and analysis of site and environmental considerations unique to offshore sites, including freshwater environments.
+
+    (v) Integration of wind energy technologies with—
+
+      (I) the electric grid, including transmission, distribution, microgrids, and distributed energy systems; and
+
+      (II) other energy technologies, including—
+
+        (aa) other generation sources;
+
+        (bb) demand response technologies; and
+
+        (cc) energy storage technologies.
+
+    (vi) Methods to improve the lifetime, maintenance, decommissioning, recycling, reuse, and sustainability of wind energy components and systems, including technologies and strategies to reduce the use of energy, water, critical materials, and other valuable or harmful inputs.
+
+    (vii) Wind power forecasting and atmospheric measurement systems, including for turbines and plant systems of varying height.
+
+    (viii) Integrated wind energy systems, grid-connected and off-grid, that incorporate diverse—
+
+      (I) generation sources;
+
+      (II) loads; and
+
+      (III) storage technologies.
+
+    (ix) Reducing market barriers, including non-hardware and information-based barriers, to the adoption of wind energy technologies, such as impacts on, or challenges relating to—
+
+      (I) distributed wind technologies, including the development of best practices, models, and voluntary streamlined processes for local siting and permitting of distributed wind energy systems to reduce costs;
+
+      (II) airspace;
+
+      (III) military operations;
+
+      (IV) radar;
+
+      (V) local communities, with special consideration given to economically distressed areas, previously disturbed lands such as landfills and former mines, and other areas disproportionately impacted by environmental pollution;
+
+      (VI) wildlife and wildlife habitats; and
+
+      (VII) any other appropriate matter, as determined by the Secretary.
+
+    (x) Technologies or strategies to avoid, minimize, and offset the potential impacts of wind energy facilities on bird species, bat species, marine wildlife, and other sensitive species and habitats.
+
+    (xi) Advanced physics-based and data analysis computational tools, in coordination with the high-performance computing programs of the Department, to more efficiently design, site, permit, manufacture, install, operate, decommission, and recycle wind energy systems.
+
+    (xii) Technologies for distributed wind, including micro, small, and medium turbines and the components of those turbines and their microgrid applications.
+
+    (xiii) Transformational technologies for harnessing wind energy.
+
+    (xiv) Other research areas that advance the purposes of the program, as determined by the Secretary.
+
+  (C) *Prioritization* — In carrying out activities under the program, the Secretary shall, to the maximum extent practicable, give special consideration to—
+
+    (i) projects that—
+
+      (I) are located in a geographically diverse range of eligible entities;
+
+      (II) support the development or demonstration of projects—
+
+        (aa) in economically distressed areas and areas disproportionately impacted by pollution; and
+
+        (bb) that provide the greatest potential to reduce energy costs, as well as promote accessibility and community implementation of demonstrated technologies;
+
+      (III) can be replicated in a variety of regions and climates;
+
+      (IV) include business commercialization plans that have the potential for—
+
+        (aa) domestic manufacturing and production of wind energy technologies; or
+
+        (bb) exports of wind energy technologies; and
+
+      (V) are carried out in collaboration with Tribal energy development organizations, Indian Tribes, Tribal organizations, Native Hawaiian community-based organizations, minority-serving institutions, or territories or freely associated States; and
+
+    (ii) with regards to professional development, activities that expand the number of individuals from underrepresented groups pursuing and attaining skills relevant to wind energy.
+
+  (D) *Coordination* — To the maximum extent practicable, the Secretary shall coordinate activities under the program with other relevant programs and capabilities of the Department and other Federal research programs.
+
+  (E) *Use of funds* — To the extent that funding is not otherwise available through other Federal programs or power purchase agreements, funding awarded for demonstration projects may be used for additional nontechnology costs, as determined to be appropriate by the Secretary, such as engineering or feasibility studies.
+
+  (F) *Solicitation* — Not less than once every two years, the Secretary shall conduct a national solicitation for applications for demonstration projects under this section.
+
+  (G) *Report*
+
+    (i) *In general* — Not later than 180 days after December 27, 2020, the Secretary shall submit to the Committee on Science, Space, and Technology of the House of Representatives and the Committee on Energy and Natural Resources of the Senate a report on the potential for, and technical viability of, airborne wind energy systems to provide a significant source of energy in the United States.
+
+    (ii) *Contents* — The report under paragraph (1) shall include a summary of research, development, demonstration, and commercialization needs, including an estimate of Federal funding requirements, to further examine and validate the technical and economic viability of airborne wind energy concepts over the 10-year period beginning on December 27, 2020.
+
+(3) **Wind technician training grant program** — The Secretary may award grants, on a competitive basis, to eligible entities to purchase large pieces of wind component equipment, such as nacelles, towers, and blades, for use in training wind technician students in onshore or offshore wind applications.
+
+(4) **Wind energy technology recycling research, development, and demonstration program**
+
+  (A) *In general* — In addition to the program activities described in paragraph (2), in carrying out the program, the Secretary shall award financial assistance to eligible entities for research, development, and demonstration, and commercialization projects to create innovative and practical approaches to increase the reuse and recycling of wind energy technologies, including—
+
+    (i) by increasing the efficiency and cost effectiveness of the recovery of raw materials from wind energy technology components and systems, including enabling technologies such as inverters;
+
+    (ii) by minimizing potential environmental impacts from the recovery and disposal processes;
+
+    (iii) by advancing technologies and processes for the disassembly and recycling of wind energy devices;
+
+    (iv) by developing alternative materials, designs, manufacturing processes, and other aspects of wind energy technologies and the disassembly and resource recovery process that enable efficient, cost effective, and environmentally responsible disassembly of, and resource recovery from, wind energy technologies; and
+
+    (v) strategies to increase consumer acceptance of, and participation in, the recycling of wind energy technologies.
+
+  (B) *Dissemination of results* — The Secretary shall make available to the public and the relevant committees of Congress the results of the projects carried out through financial assistance awarded under subparagraph (A), including—
+
+    (i) development of best practices or training materials for use in the wind energy technology manufacturing, design, installation, decommissioning, or recycling industries;
+
+    (ii) dissemination at industry conferences;
+
+    (iii) coordination with information dissemination programs relating to recycling of electronic devices in general;
+
+    (iv) demonstration projects; and
+
+    (v) educational materials.
+
+  (C) *Priority* — In carrying out the activities authorized under this subsection, the Secretary shall give special consideration to projects that recover critical materials.
+
+  (D) *Sensitive information* — In carrying out the activities authorized under this subsection, the Secretary shall ensure proper security controls are in place to protect proprietary or sensitive information, as appropriate.
+
+(5) **Wind energy technology materials physical property database**
+
+  (A) *In general* — Not later than September 1, 2022, the Secretary shall establish a comprehensive physical property database of materials for use in wind energy technologies, which shall identify the type, quantity, country of origin, source, significant uses, projected availability, and physical properties of materials used in wind energy technologies.
+
+  (B) *Coordination* — In establishing the database described in subparagraph (A), the Secretary shall coordinate and, to the extent practicable, avoid duplication with—
+
+    (i) other Department activities, including those carried out by the Office of Science;
+
+    (ii) the Director of the National Institute of Standards and Technology;
+
+    (iii) the Administrator of the Environmental Protection Agency;
+
+    (iv) the Secretary of the Interior; and
+
+    (v) relevant industry stakeholders, as determined by the Secretary.
+
+(6) **Wind energy program strategic vision**
+
+  (A) *In general* — Not later than September 1, 2022, and every 6 years thereafter, the Secretary shall submit to Congress a report on the strategic vision, progress, goals, and targets of the program, including assessments of wind energy markets and manufacturing.
+
+  (B) *Preparation* — The Secretary shall coordinate the preparation of the report under subparagraph (A) with—
+
+    (i) existing peer review processes;
+
+    (ii) studies conducted by the National Laboratories; and
+
+    (iii) the multiyear program planning required under [section 16358 of this title](./chapter-149-national-energy-policy-and-programs.md#section-16358).
+
+(7) **Authorization of appropriations** — There is authorized to be appropriated to the Secretary to carry out the program $125,000,000 for each of fiscal years 2021 through 2025.
+
+### Statutory Notes
+
+#### Codification
+Section was enacted as part of the Energy Act of 2020, and not as part of the Energy Policy Act of 2005 which comprises this chapter.
+
+#### Application
+Pub. L. 116–260, div. Z, title IX, § 9006(b), Dec. 27, 2020, 134 Stat. 2600, provided that: “The provisions of section 602 of the Public Works and Economic Development Act of 1965 ([42 U.S.C. 3212](./chapter-038-public-works-and-economic-development.md#section-3212)) shall apply with respect to construction, alteration, or repair work of demonstration projects funded by grants or contracts authorized under sections 3001 [enacting part C of subchapter III of chapter 152 of this title], 3003 [enacting this section], 3004 [enacting [section 16238 of this title](./chapter-149-national-energy-policy-and-programs.md#section-16238)], 5001 [enacting [section 16298d of this title](./chapter-149-national-energy-policy-and-programs.md#section-16298d)], and 8007 [enacting [section 17389 of this title](./chapter-152-energy-independence-and-security.md#section-17389)] and the amendments made by such sections.”
+
+
 <a id="section-16254"></a>
-## § 16254. Production incentives for cellulosic biofuels
+## § 16254. Solar energy research and development
+**(a) Definitions** In this section:
+
+(1) **Critical material** — The term “critical material” has the meaning given the term in [section 1606 of title 30](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title30-section1606&num=0&edition=prelim).
+
+(2) **Economically distressed area** — The term “economically distressed area” means an area described in [section 3161(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3161/a&num=0&edition=prelim).
+
+(3) **Eligible entity** — The term “eligible entity” means—
+
+  (A) an institution of higher education, including a minority-serving institution;
+
+  (B) a National Laboratory;
+
+  (C) a Federal research agency;
+
+  (D) a State research agency;
+
+  (E) a research agency associated with a territory or freely associated state;
+
+  (F) a Tribal energy development organization;
+
+  (G) an Indian Tribe;
+
+  (H) a Tribal organization;
+
+  (I) a Native Hawaiian community-based organization;
+
+  (J) a nonprofit research organization;
+
+  (K) an industrial entity;
+
+  (L) any other entity, as determined by the Secretary; and
+
+  (M) a consortium of 2 or more entities described in subparagraphs (A) through (L).
+
+(4) **Indian Tribe** — The term “Indian Tribe” has the meaning given the term in [section 5304 of title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5304&num=0&edition=prelim).
+
+(5) **Institution of higher education** — The term “institution of higher education” has the meaning given the term in [section 1001 of title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1001&num=0&edition=prelim).
+
+(6) **Minority-serving institution** — The term “minority-serving institution” has the meaning given the term “eligible institution” in [section 1067q(a) of title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1067q/a&num=0&edition=prelim).
+
+(7) **National Laboratory** — The term “National Laboratory” has the meaning given such term in [section 15801(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section15801/3&num=0&edition=prelim).
+
+(8) **Native Hawaiian community-based organization** — The term “Native Hawaiian community-based organization” has the meaning given the term in [section 7517 of title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section7517&num=0&edition=prelim).
+
+(9) **Photovoltaic device** — The term “photovoltaic device” means—
+
+  (A) a device that converts light directly into electricity through a solid-state, semiconductor process;
+
+  (B) the photovoltaic cells of a device described in subparagraph (A); and
+
+  (C) the electronic and electrical components of a device described in subparagraph (A).
+
+(10) **Program** — The term “program” means the program established under subsection (b)(1)(A).
+
+(11) **Secretary** — The term “Secretary” means the Secretary of Energy.
+
+(12) **Solar energy** — The term “solar energy” means—
+
+  (A) thermal or electric energy derived from radiation from the Sun; or
+
+  (B) energy resulting from a chemical reaction caused by radiation recently originated in the Sun.
+
+(13) **Territory or freely associated state** — The term “territory or freely associated state” has the meaning given the term “insular area” in [section 3103 of title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section3103&num=0&edition=prelim).
+
+(14) **Tribal energy development organization** — The term “Tribal energy development organization” has the meaning given the term “tribal energy development organization” in [section 3501 of title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section3501&num=0&edition=prelim).
+
+(15) **Tribal organization** — The term “Tribal organization” has the meaning given the term in [section 5304 of title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5304&num=0&edition=prelim).
+
+**(b) Solar energy technology program**
+
+(1) **Establishment**
+
+  (A) *In general* — The Secretary shall establish a program to conduct research, development, demonstration, and commercialization of solar energy technologies in accordance with this subsection.
+
+  (B) *Purposes* — The purposes of the program are the following:
+
+    (i) To improve the energy efficiency, cost effectiveness, reliability, resilience, security, siting, integration, manufacturability, installation, decommissioning, and recyclability of solar energy technologies.
+
+    (ii) To optimize the performance and operation of solar energy components, cells, and systems, and enabling technologies, including through the development of new materials, hardware, and software.
+
+    (iii) To optimize the design and adaptability of solar energy systems to the broadest practical range of geographic and atmospheric conditions.
+
+    (iv) To support the integration of solar energy technologies with the electric grid and complementary energy technologies.
+
+    (v) To create and improve the conversion of solar energy to other useful forms of energy or other products.
+
+    (vi) To reduce the cost, risk, and other potential negative impacts across the lifespan of solar energy technologies, including manufacturing, siting, permitting, installation, operations, maintenance, decommissioning, and recycling.
+
+    (vii) To reduce and mitigate potential life cycle negative impacts of solar energy technologies on human communities, wildlife, and wildlife habitats.
+
+    (viii) To address barriers to the commercialization and export of solar energy technologies.
+
+    (ix) To support the domestic solar industry, workforce, and supply chain.
+
+  (C) *Targets* — Not later than 180 days after December 27, 2020, the Secretary shall establish targets for the program to address near-term (up to 2 years), mid-term (up to 7 years), and long-term (up to 15 years) challenges to the advancement of all types of solar energy systems.
+
+(2) **Activities**
+
+  (A) *Types of activities* — In carrying out the program, the Secretary shall carry out research, development, demonstration, and commercialization activities, including—
+
+    (i) awarding grants and awards, on a competitive, merit-reviewed basis;
+
+    (ii) performing precompetitive research and development;
+
+    (iii) establishing or maintaining demonstration facilities and projects, including through stewardship of existing facilities;
+
+    (iv) providing technical assistance;
+
+    (v) entering into contracts and cooperative agreements;
+
+    (vi) providing small business vouchers;
+
+    (vii) establishing prize competitions;
+
+    (viii) conducting education and outreach activities;
+
+    (ix) conducting workforce development activities; and
+
+    (x) conducting analyses, studies, and reports.
+
+  (B) *Subject areas* — The Secretary shall carry out research, development, demonstration, and commercialization activities in the following subject areas:
+
+    (i) Advanced solar energy technologies of varying scale and power production, including—
+
+      (I) new materials, components, designs, and systems, including perovskites, cadmium telluride, and organic materials;
+
+      (II) advanced photovoltaic and thin-film devices;
+
+      (III) concentrated solar power;
+
+      (IV) solar heating and cooling; and
+
+      (V) enabling technologies for solar energy systems, including hardware and software.
+
+    (ii) Solar energy technology siting, performance, installation, operations, resilience, and security.
+
+    (iii) Integration of solar energy technologies with—
+
+      (I) the electric grid, including transmission, distribution, microgrids, and distributed energy systems;
+
+      (II) other energy technologies, including—
+
+        (aa) other generation sources;
+
+        (bb) demand response technologies; and
+
+        (cc) energy storage technologies; and
+
+      (III) other applications, such as in the agriculture, transportation, buildings, industrial, and fuels sectors.
+
+    (iv) Advanced solar energy manufacturing technologies and practices, including materials, processes, and design.
+
+    (v) Methods to improve the lifetime, maintenance, decommissioning, recycling, reuse, and sustainability of solar energy components and systems, including technologies and strategies that reduce the use of energy, water, critical materials, and other commodities that are determined to be vulnerable to disruption.
+
+    (vi) Solar energy forecasting, modeling, and atmospheric measurement systems, including for small-scale, large-scale, and aggregated systems.
+
+    (vii) Integrated solar energy systems that incorporate diverse—
+
+      (I) generation sources;
+
+      (II) loads; and
+
+      (III) storage technologies.
+
+    (viii) Reducing market barriers, including nonhardware and information-based barriers, to the adoption of solar energy technologies, including impacts on, or challenges relating to—
+
+      (I) distributed and community solar technologies, including the development of best practices, models, and voluntary streamlined processes for local siting and permitting of distributed solar energy systems to reduce costs;
+
+      (II) local communities, with special consideration given to economically distressed areas, previously disturbed lands such as landfills and former mines, and other areas disproportionately impacted by environmental pollution;
+
+      (III) wildlife and wildlife habitats; and
+
+      (IV) any other appropriate matter, as determined by the Secretary.
+
+    (ix) Transformational technologies for harnessing solar energy.
+
+    (x) Other research areas that advance the purposes of the program, as determined by the Secretary.
+
+  (C) *Prioritization* — In carrying out activities under the program, the Secretary shall, to the maximum extent practicable, give priority to projects that—
+
+    (i) are located in a geographically diverse range of eligible entities;
+
+    (ii) support the development or demonstration of projects—
+
+      (I) in economically distressed areas and areas disproportionately impacted by pollution; or
+
+      (II) that provide the greatest potential to reduce energy costs, as well as promote accessibility and community implementation of demonstrated technologies;
+
+    (iii) can be replicated in a variety of regions and climates;
+
+    (iv) include business commercialization plans that have the potential for—
+
+      (I) domestic manufacturing and production of solar energy technologies; or
+
+      (II) exports of solar energy technologies;
+
+    (v) are carried out in collaboration with Tribal energy development organizations, Indian Tribes, Tribal organizations, Native Hawaiian community-based organizations, minority-serving institutions, or territories or freely associated States; and
+
+    (vi) with regards to workforce development, activities that expand the number of individuals from underrepresented groups pursuing and attaining skills relevant to solar energy.
+
+  (D) *Coordination* — To the maximum extent practicable, the Secretary shall coordinate activities under the program with other relevant programs and capabilities of the Department and other Federal research programs.
+
+  (E) *Use of funds* — To the extent that funding is not otherwise available through other Federal programs or power purchase agreements, funding awarded for demonstration projects may be used for additional nontechnology costs, as determined to be appropriate by the Secretary, such as engineering or feasibility studies.
+
+  (F) *Solicitation* — Not less than once every two years, the Secretary shall conduct a national solicitation for applications for demonstration projects under this section.
+
+(3) **Advanced solar energy manufacturing initiative**
+
+  (A) *Grants* — In addition to the program activities described in paragraph (2), in carrying out the program, the Secretary shall award financial assistance to eligible entities for research, development, demonstration, and commercialization projects to advance new solar energy manufacturing technologies and techniques.
+
+  (B) *Priority* — In awarding grants under subparagraph (A), to the extent practicable, the Secretary shall give priority to solar energy manufacturing projects that—
+
+    (i) increase efficiency and cost effectiveness in—
+
+      (I) the manufacturing process; and
+
+      (II) the use of resources, such as energy, water, and critical materials;
+
+    (ii) support domestic supply chains for materials and components;
+
+    (iii) identify and incorporate nonhazardous alternative materials for components and devices;
+
+    (iv) operate in partnership with Tribal energy development organizations, Indian Tribes, Tribal organizations, Native Hawaiian community-based organizations, minority-serving institutions, or territories or freely associated states; or
+
+    (v) are located in economically distressed areas.
+
+  (C) *Evaluation* — Not later than 3 years after December 27, 2020, and every 4 years thereafter, the Secretary shall conduct, and make available to the public and the relevant committees of Congress, an independent review of the progress of the grants awarded under subparagraph (A).
+
+(4) **Solar energy technology recycling research, development, and demonstration program**
+
+  (A) *In general* — In addition to the program activities described in paragraph (2), in carrying out the program, the Secretary shall award financial assistance to eligible entities for research, development, demonstration, and commercialization projects to create innovative and practical approaches to increase the reuse and recycling of solar energy technologies, including—
+
+    (i) by increasing the efficiency and cost effectiveness of the recovery of raw materials from solar energy technology components and systems, including enabling technologies such as inverters;
+
+    (ii) by minimizing potential environmental impacts from the recovery and disposal processes;
+
+    (iii) by advancing technologies and processes for the disassembly and recycling of solar energy devices;
+
+    (iv) by developing alternative materials, designs, manufacturing processes, and other aspects of solar energy technologies and the disassembly and resource recovery process that enable efficient, cost effective, and environmentally responsible disassembly of, and resource recovery from, solar energy technologies; and
+
+    (v) strategies to increase consumer acceptance of, and participation in, the recycling of photovoltaic devices.
+
+  (B) *Dissemination of results* — The Secretary shall make available to the public and the relevant committees of Congress the results of the projects carried out through financial assistance awarded under subparagraph (A), including—
+
+    (i) development of best practices or training materials for use in the photovoltaics manufacturing, design, installation, refurbishing, disposal, or recycling industries;
+
+    (ii) dissemination at industry conferences;
+
+    (iii) coordination with information dissemination programs relating to recycling of electronic devices in general;
+
+    (iv) demonstration projects; and
+
+    (v) educational materials.
+
+  (C) *Priority* — In carrying out the activities authorized under this subsection, the Secretary shall give special consideration to projects that recover critical materials.
+
+  (D) *Sensitive information* — In carrying out the activities authorized under this subsection, the Secretary shall ensure proper security controls are in place to protect proprietary or sensitive information, as appropriate.
+
+(5) **Solar energy technology materials physical property database**
+
+  (A) *In general* — Not later than September 1, 2022, the Secretary shall establish a comprehensive physical property database of materials for use in solar energy technologies, which shall identify the type, quantity, country of origin, source, significant uses, projected availability, and physical properties of materials used in solar energy technologies.
+
+  (B) *Coordination* — In establishing the database described in subparagraph (A), the Secretary shall coordinate with—
+
+    (i) other Department activities, including those carried out by the Office of Science;
+
+    (ii) the Director of the National Institute of Standards and Technology;
+
+    (iii) the Administrator of the Environmental Protection Agency;
+
+    (iv) the Secretary of the Interior; and
+
+    (v) relevant industry stakeholders, as determined by the Secretary.
+
+(6) **Solar energy technology program strategic vision**
+
+  (A) *In general* — Not later than September 1, 2022, and every 6 years thereafter, the Secretary shall submit to Congress a report on the strategic vision, progress, goals, and targets of the program, including assessments of solar energy markets and manufacturing.
+
+  (B) *Inclusion* — As a part of the report described in subparagraph (A), the Secretary shall include a study that examines the viable market opportunities available for solar energy technology manufacturing in the United States, including—
+
+    (i) a description of—
+
+      (I) the ability to competitively manufacture solar technology in the United States, including the manufacture of—
+
+        (aa) new and advanced materials, such as cells made with new, high efficiency materials;
+
+        (bb) solar module equipment and enabling technologies, including smart inverters, sensors, and tracking equipment; and
+
+        (cc) innovative solar module designs and applications, including those that can directly integrate with new and existing buildings and other infrastructure; and
+
+      (II) opportunities and barriers within the United States and international solar energy technology market;
+
+    (ii) policy recommendations for enhancing solar energy technology manufacturing in the United States;
+
+    (iii) a 10-year target and plan to enhance the competitiveness of solar energy technology manufacturing in the United States; and
+
+    (iv) any other research areas as determined by the Secretary.
+
+  (C) *Preparation* — The Secretary shall coordinate the preparation of the report under subparagraph (A) with—
+
+    (i) existing peer review processes;
+
+    (ii) studies conducted by the National Laboratories; and
+
+    (iii) the multiyear program planning required under [section 16358 of this title](./chapter-149-national-energy-policy-and-programs.md#section-16358).
+
+(7) **Authorization of appropriations** — There is authorized to be appropriated to the Secretary to carry out the program $300,000,000 for each of fiscal years 2021 through 2025.
+
+### Statutory Notes
+
+#### Codification
+Section was enacted as part of the Energy Act of 2020, and not as part of the Energy Policy Act of 2005 which comprises this chapter.
+
+#### Application
+Provisions of [section 3212 of this title](./chapter-038-public-works-and-economic-development.md#section-3212) applicable to construction, alteration, or repair work of demonstration projects funded by grants or contracts authorized under this section, see section 9006(b) div. Z of Pub. L. 116–260, set out as a note under [section 16237 of this title](./chapter-149-national-energy-policy-and-programs.md#section-16237).
+
+
+<a id="section-16255"></a>
+## § 16255. Production incentives for cellulosic biofuels
 **(a) Purpose** The purpose of this section is to—
 
 (1) accelerate deployment and commercialization of biofuels;
@@ -6249,8 +7040,8 @@ The Secretary shall—
 **(f) Authorizations of appropriations** There is authorized to be appropriated to carry out this section $250,000,000.
 
 
-<a id="section-16255"></a>
-## § 16255. Education
+<a id="section-16256"></a>
+## § 16256. Education
 (1) **In general** — The Architect of the Capitol shall establish in the Capitol Complex a program of public education regarding use by the Architect of the Capitol of biobased products.
 
 (2) **Purposes** — The purposes of the program shall be—
@@ -6260,8 +7051,8 @@ The Secretary shall—
   (B) to provide access to further information on biobased products to occupants and visitors.
 
 
-<a id="section-16256"></a>
-## § 16256. Small business bioproduct marketing and certification grants
+<a id="section-16271"></a>
+## § 16271. Small business bioproduct marketing and certification grants
 **(a) In general** Using amounts made available under subsection (g), the Secretary of Agriculture (referred to in this section as the “Secretary”) shall make available on a competitive basis grants to eligible entities described in subsection (b) for the biobased product marketing and certification purposes described in subsection (c).
 
 **(b) Eligible entities**
@@ -6306,8 +7097,8 @@ The Secretary shall—
 2014—Subsec. (c)(2)(A). Pub. L. 113–79 substituted “section 8102(b)” for “section 8102(h)(1)”.
 
 
-<a id="section-16271"></a>
-## § 16271. Regional bioeconomy development grants
+<a id="section-16272"></a>
+## § 16272. Regional bioeconomy development grants
 **(a) In general** Using amounts made available under subsection (g), the Secretary of Agriculture (referred to in this section as the “Secretary”) shall make available on a competitive basis grants to eligible entities described in subsection (b) for the purposes described in subsection (c).
 
 **(b) Eligible entities** An entity eligible for a grant under this section is any regional bioeconomy development association, agricultural or energy trade association, or Land Grant institution that—
@@ -6335,8 +7126,8 @@ The Secretary shall—
 (2) such sums as are necessary for each of fiscal years 2007 through 2015.
 
 
-<a id="section-16272"></a>
-## § 16272. Preprocessing and harvesting demonstration grants
+<a id="section-16273"></a>
+## § 16273. Preprocessing and harvesting demonstration grants
 **(a) In general** The Secretary of Agriculture (referred to in this section as the “Secretary”) shall make grants available on a competitive basis to enterprises owned by agricultural producers, for the purposes of demonstrating cost-effective, cellulosic biomass innovations in—
 
 (1) preprocessing of feedstocks, including cleaning, separating and sorting, mixing or blending, and chemical or biochemical treatments, to add value and lower the cost of feedstock processing at a biorefinery; or
@@ -6358,8 +7149,8 @@ The Secretary shall—
 **(d) Authorization for appropriations** There is authorized to be appropriated to carry out this section $5,000,000 for each of fiscal years 2006 through 2010.
 
 
-<a id="section-16273"></a>
-## § 16273. Education and outreach
+<a id="section-16274"></a>
+## § 16274. Education and outreach
 **(a) In general** The Secretary of Agriculture shall establish, within the Department of Agriculture or through an independent contracting entity, a program of education and outreach on biobased fuels and biobased products consisting of—
 
 (1) training and technical assistance programs for feedstock producers to promote producer ownership, investment, and participation in the operation of processing facilities; and
@@ -6369,8 +7160,8 @@ The Secretary shall—
 **(b) Authorization of appropriations** There is authorized to be appropriated to carry out this section $1,000,000 for each of fiscal years 2006 through 2010.
 
 
-<a id="section-16274"></a>
-## § 16274. Nuclear energy
+<a id="section-16274a"></a>
+## § 16274a. Nuclear energy
 **(a) Mission**
 
 (1) **In general** — The Secretary shall carry out programs of civilian nuclear research, development, demonstration, and commercial application, including activities under this part.
@@ -6395,23 +7186,31 @@ The Secretary shall—
 
 (1) **Advanced nuclear reactor** — The term “advanced nuclear reactor” means—
 
-  (A) a nuclear fission reactor with significant improvements over the most recent generation of nuclear fission reactors, which may include—
+  (A) a nuclear fission reactor, including a prototype plant (as defined in sections 50.2 and 52.1 of title 10, Code of Federal Regulations (or successor regulations)), with significant improvements compared to reactors operating on December 27, 2020, including improvements such as—
 
-    (i) inherent safety features;
+    (i) additional inherent safety features;
 
     (ii) lower waste yields;
 
-    (iii) greater fuel utilization;
+    (iii) improved fuel and material performance;
 
-    (iv) superior reliability;
+    (iv) increased tolerance to loss of fuel cooling;
 
-    (v) resistance to proliferation;
+    (v) enhanced reliability or improved resilience;
 
-    (vi) increased thermal efficiency; and
+    (vi) increased proliferation resistance;
 
-    (vii) the ability to integrate into electric and nonelectric applications; or
+    (vii) increased thermal efficiency;
 
-  (B) a nuclear fusion reactor.
+    (viii) reduced consumption of cooling water and other environmental impacts;
+
+    (ix) the ability to integrate into electric applications and nonelectric applications;
+
+    (x) modular sizes to allow for deployment that corresponds with the demand for electricity or process heat; and
+
+    (xi) operational flexibility to respond to changes in demand for electricity or process heat and to complement integration with intermittent renewable energy or energy storage; and
+
+  (B) a fusion reactor.
 
 (2) **Commission** — The term “Commission” means the Nuclear Regulatory Commission.
 
@@ -6434,117 +7233,360 @@ The Secretary shall—
 ### Statutory Notes
 
 #### Amendments
+2020—Subsec. (b)(1). Pub. L. 116–260 amended par. (1) generally. Prior to amendment, par. (1) defined the term “advanced nuclear reactor”.
+
 2018—Pub. L. 115–248 amended section generally. Prior to amendment, section related to civilian nuclear energy research programs and authorizations of appropriations to carry out such programs.
 
 
-<a id="section-16274a"></a>
-## § 16274a. Nuclear energy research programs
-**(a) Nuclear Energy Research Initiative** The Secretary shall carry out a Nuclear Energy Research Initiative for research and development related to nuclear energy.
+<a id="section-16275"></a>
+## § 16275. Reactor concepts research, development, demonstration, and commercial application
+**(a) Sustainability program for light water reactors**
 
-**(b) Nuclear Energy Systems Support Program** The Secretary shall carry out a Nuclear Energy Systems Support Program to support research and development activities addressing reliability, availability, productivity, component aging, safety, and security of existing nuclear power plants.
+(1) **In general** — The Secretary shall carry out a program of research, development, demonstration, and commercial application, including through the use of modeling and simulation, to support existing operating nuclear power plants which shall address technologies to modernize and improve, with respect to such plants—
 
-**(c) Generation IV Nuclear Energy Systems Initiative**
+  (A) reliability;
 
-(1) **In general** — The Secretary shall carry out a Generation IV Nuclear Energy Systems Initiative to develop an overall technology plan for and to support research and development necessary to make an informed technical decision about the most promising candidates for eventual commercial application.
+  (B) capacity;
 
-(2) **Administration** — In conducting the Initiative, the Secretary shall examine advanced proliferation-resistant and passively safe reactor designs, including designs that—
+  (C) component aging;
 
-  (A) are economically competitive with other electric power generation plants;
+  (D) safety;
 
-  (B) have higher efficiency, lower cost, and improved safety compared to reactors in operation on August 8, 2005;
+  (E) physical security and security costs;
 
-  (C) use fuels that are proliferation resistant and have substantially reduced production of high-level waste per unit of output; and
+  (F) plant lifetime;
 
-  (D) use improved instrumentation.
+  (G) operations and maintenance costs, including by utilizing risk-informed systems analysis;
 
-**(d) Reactor production of hydrogen** The Secretary shall carry out research to examine designs for high-temperature reactors capable of producing large-scale quantities of hydrogen.
+  (H) the ability for plants to operate flexibly;
+
+  (I) nuclear integrated energy system applications described in subsection (c);
+
+  (J) efficiency;
+
+  (K) environmental impacts; and
+
+  (L) resilience.
+
+(2) **Authorization of appropriations** — There are authorized to be appropriated to the Secretary to carry out the program under this subsection $55,000,000 for each of fiscal years 2021 through 2025.
+
+(3) **Report** — The Secretary shall submit annually a public report to the Committee on Science, Space, and Technology of the House of Representatives and the Committee on Energy and Natural Resources of the Senate documenting funds spent under the program that describes program activities, objectives, and outcomes, including those that could benefit the entirety of the existing reactor fleet, such as with respect to aging management and related sustainability concerns, and identifying funds awarded to private entities.
+
+**(b) Advanced reactor technologies**
+
+(1) **In general** — The Secretary shall carry out a program of research, development, demonstration, and commercial application to support advanced reactor technologies.
+
+(2) **Requirements** — In carrying out the program under this subsection, the Secretary shall—
+
+  (A) prioritize designs for advanced nuclear reactors that are proliferation resistant and passively safe, including designs that, compared to reactors operating on December 27, 2020—
+
+    (i) are economically competitive with other electric power generation plants;
+
+    (ii) have higher efficiency, lower cost, less environmental impacts, increased resilience, and improved safety;
+
+    (iii) use fuels that are proliferation resistant and have reduced production of high-level waste per unit of output; and
+
+    (iv) use advanced instrumentation and monitoring systems;
+
+  (B) consult with the Nuclear Regulatory Commission on appropriate metrics to consider for the criteria specified in subparagraph (A);
+
+  (C) support research and development to resolve materials challenges relating to extreme environments, including environments that contain high levels of—
+
+    (i) radiation fluence;
+
+    (ii) temperature;
+
+    (iii) pressure; and
+
+    (iv) corrosion;
+
+  (D) support research and development to aid in the qualification of advanced fuels, including fabrication techniques;
+
+  (E) support activities that address near-term challenges in modeling and simulation to enable accelerated design of and licensing of advanced nuclear reactors, including the identification of tools and methodologies for validating such modeling and simulation efforts;
+
+  (F) develop technologies, including technologies to manage, reduce, or reuse nuclear waste;
+
+  (G) ensure that nuclear research infrastructure is maintained or constructed, including—
+
+    (i) currently operational research reactors at the National Laboratories and institutions of higher education;
+
+    (ii) hot cell research facilities;
+
+    (iii) a versatile fast neutron source; and
+
+    (iv) advanced coolant testing facilities, including coolants such as lead, sodium, gas, and molten salt;
+
+  (H) improve scientific understanding of nonlight water coolant physics and chemistry;
+
+  (I) develop advanced sensors and control systems, including the identification of tools and methodologies for validating such sensors and systems;
+
+  (J) investigate advanced manufacturing and advanced construction techniques and materials to reduce the cost of advanced nuclear reactors, including the use of digital twins and of strategies to implement project and construction management best practices, and study the effects of radiation and corrosion on materials created with these techniques;
+
+  (K) consult with the Administrator of the National Nuclear Security Administration to integrate reactor safeguards and security into design;
+
+  (L) support efforts to reduce any technical barriers that would prevent commercial application of advanced nuclear energy systems; and
+
+  (M) develop various safety analyses and emergency preparedness and response methodologies.
+
+(3) **Coordination** — The Secretary shall coordinate with individuals engaged in the private sector and individuals who are experts in nuclear nonproliferation, environmental and public health and safety, and economics to advance the development of various designs of advanced nuclear reactors. In carrying out this paragraph, the Secretary shall convene an advisory committee of such individuals and such committee shall submit annually a report to the relevant committees of Congress with respect to the progress of the program.
+
+(4) **Authorization of appropriations** — There are authorized to be appropriated to the Secretary to carry out the program under this subsection $55,000,000 for each of fiscal years 2021 through 2025.
+
+**(c) Nuclear integrated energy systems research, development, demonstration, and commercial application program**
+
+(1) **In general** — The Secretary shall carry out a program of research, development, demonstration, and commercial application to develop nuclear integrated energy systems, composed of 2 or more co-located or jointly operated subsystems of energy generation, energy storage, or other technologies and in which not less than 1 such subsystem is a nuclear energy system, to—
+
+  (A) reduce greenhouse gas emissions in both the power and nonpower sectors; and
+
+  (B) maximize energy production and efficiency.
+
+(2) **Coordination** — In carrying out the program under paragraph (1), the Secretary shall coordinate with—
+
+  (A) relevant program offices within the Department of Energy;
+
+  (B) National Laboratories;
+
+  (C) institutions of higher education; and
+
+  (D) the private sector.
+
+(3) **Focus areas** — The program under paragraph (1) may include research, development, demonstration, or commercial application of nuclear integrated energy systems with respect to—
+
+  (A) desalination technologies and processes;
+
+  (B) hydrogen or other liquid and gaseous fuel or chemical production;
+
+  (C) heat for industrial processes;
+
+  (D) district heating;
+
+  (E) heat or electricity generation and storage;
+
+  (F) carbon capture, use, utilization, and storage;
+
+  (G) microgrid or island applications;
+
+  (H) integrated systems modeling, analysis, and optimization, inclusive of different configurations of integrated energy systems; and
+
+  (I) integrated design, planning, building, and operation of systems with existing infrastructure, including interconnection requirements with the electric grid, as appropriate.
+
+(4) **Authorization of appropriations** — There are authorized to be appropriated to the Secretary to carry out the program under this subsection—
+
+  (A) $20,000,000 for fiscal year 2021;
+
+  (B) $30,000,000 for fiscal year 2022;
+
+  (C) $30,000,000 for fiscal year 2023;
+
+  (D) $40,000,000 for fiscal year 2024; and
+
+  (E) $40,000,000 for fiscal year 2025.
 
 ### Statutory Notes
 
 #### Amendments
+2020—Pub. L. 116–260 amended section generally. Prior to amendment section related to nuclear energy research programs.
+
 2018—Subsecs. (c) to (e). Pub. L. 115–248 redesignated subsecs. (d) and (e) as (c) and (d), respectively, and struck out former subsec. (c) which related to establishment and administration of a Nuclear Power 2010 Program.
 
 
-<a id="section-16275"></a>
-## § 16275. Advanced fuel cycle initiative
-**(a) In general** The Secretary shall conduct an advanced fuel recycling technology research, development, and demonstration program (referred to in this section as the “program”) to evaluate proliferation-resistant fuel recycling and transmutation technologies that minimize environmental and public health and safety impacts as an alternative to aqueous reprocessing technologies deployed as of August 8, 2005, in support of evaluation of alternative national strategies for spent nuclear fuel and the Generation IV advanced reactor concepts.
+<a id="section-16276"></a>
+## § 16276. Fuel cycle research, development, demonstration, and commercial application
+**(a) Used nuclear fuel research, development, demonstration, and commercial application**
 
-**(b) Annual review** The program shall be subject to annual review by the Nuclear Energy Research Advisory Committee of the Department or other independent entity, as appropriate.
+(1) **In general** — The Secretary shall conduct an advanced fuel cycle research, development, demonstration, and commercial application program to improve fuel cycle performance, minimize environmental and public health and safety impacts, and support a variety of options for used nuclear fuel storage, use, and disposal, including advanced nuclear reactor and non-reactor concepts (such as radioisotope power systems), which may include—
 
-**(c) International cooperation** In carrying out the program, the Secretary is encouraged to seek opportunities to enhance the progress of the program through international cooperation.
+  (A) dry cask storage;
 
-**(d) Reports** The Secretary shall submit, as part of the annual budget submission of the Department, a report on the activities of the program.
+  (B) consolidated interim storage;
+
+  (C) deep geological storage and disposal, including mined repository, and other technologies;
+
+  (D) used nuclear fuel transportation;
+
+  (E) integrated waste management systems;
+
+  (F) vitrification;
+
+  (G) fuel recycling and transmutation technologies, including advanced reprocessing technologies such as electrochemical and molten salt technologies, and advanced redox extraction technologies;
+
+  (H) advanced materials to be used in subparagraphs (A) through (G); and
+
+  (I) other areas as determined by the Secretary.
+
+(2) **Requirements** — In carrying out the program under this subsection, the Secretary shall—
+
+  (A) ensure all activities and designs incorporate state of the art safeguards technologies and techniques to reduce risk of proliferation;
+
+  (B) consult with the Administrator of the National Nuclear Security Administration to integrate safeguards and security by design;
+
+  (C) consider the potential benefits and other impacts of those activities for civilian nuclear applications, environmental health and safety, and national security, including consideration of public consent; and
+
+  (D) consider the economic viability of all activities and designs.
+
+(3) **Authorization of appropriations** — There are authorized to be appropriated to the Secretary to carry out the program under this subsection $60,000,000 for each of fiscal years 2021 through 2025.
+
+**(b) Advanced fuels**
+
+(1) **In general** — The Secretary shall conduct an advanced fuels research, development, demonstration, and commercial application program on next-generation light water reactor and advanced reactor fuels that demonstrate the potential for improved—
+
+  (A) performance;
+
+  (B) accident tolerance;
+
+  (C) proliferation resistance;
+
+  (D) use of resources;
+
+  (E) environmental impact; and
+
+  (F) economics.
+
+(2) **Requirements** — In carrying out the program under this subsection, the Secretary shall focus on the development of advanced technology fuels, including fabrication techniques, that offer improved accident-tolerance and economic performance with the goal of initial commercial application by December 31, 2025.
+
+(3) **Report** — Not later than 180 days December 27, 2020, the Secretary shall submit to the Committee on Science, Space, and Technology of the House of Representatives and the Committee on Energy and Natural Resources of the Senate a report that describes how the technologies and concepts studied under this program would impact reactor economics, the fuel cycle, operations, safety, proliferation, and the environment.
+
+(4) **Authorization of appropriations** — There are authorized to be appropriated to the Secretary to carry out the program under this subsection $125,000,000 for each of fiscal years 2021 through 2025.
 
 ### Statutory Notes
 
 #### Amendments
+2020—Pub. L. 116–260 amended section generally. Prior to amendment, section related to advanced fuel cycle initiative.
+
 2018—Subsec. (a). Pub. L. 115–248 struck out “, acting through the Director of the Office of Nuclear Energy, Science and Technology,” after “The Secretary”.
 
 
-<a id="section-16276"></a>
-## § 16276. University nuclear science and engineering support
-**(a) In general** The Secretary shall conduct a program to invest in human resources and infrastructure in the nuclear sciences and related fields, including health physics, nuclear engineering, and radiochemistry, consistent with missions of the Department related to civilian nuclear research, development, demonstration, and commercial application.
+<a id="section-16277"></a>
+## § 16277. Nuclear science and engineering support
+**(a) University nuclear science and engineering support**
 
-**(b) Requirements** In carrying out the program under this section, the Secretary shall—
+(1) **In general** — The Secretary shall conduct a program to invest in human resources and infrastructure in the nuclear sciences and related fields, including health physics, nuclear engineering, and radiochemistry, consistent with missions of the Department related to civilian nuclear research, development, demonstration, and commercial application.
 
-(1) conduct a graduate and undergraduate fellowship program to attract new and talented students, which may include fellowships for students to spend time at National Laboratories in the areas of nuclear science, engineering, and health physics with a member of the National Laboratory staff acting as a mentor;
+(2) **Requirements** — In carrying out the program under this subsection, the Secretary shall—
 
-(2) conduct a junior faculty research initiation grant program to assist universities in recruiting and retaining new faculty in the nuclear sciences and engineering by awarding grants to junior faculty for research on issues related to nuclear energy engineering and science;
+  (A) conduct a graduate and undergraduate fellowship program to attract new and talented students, which may include fellowships for students to spend time at National Laboratories in the areas of nuclear science, engineering, and health physics with a member of the National Laboratory staff acting as a mentor;
 
-(3) support fundamental nuclear sciences, engineering, and health physics research through a nuclear engineering education and research program;
+  (B) conduct a junior faculty research initiation grant program to assist universities in recruiting and retaining new faculty in the nuclear sciences and engineering by awarding grants to junior faculty for research on issues related to nuclear energy engineering and science;
 
-(4) encourage collaborative nuclear research among industry, National Laboratories, and universities; and
+  (C) support fundamental nuclear sciences, engineering, and health physics research through a nuclear engineering education and research program;
 
-(5) support communication and outreach related to nuclear science, engineering, and health physics.
+  (D) encourage collaborative nuclear research among industry, National Laboratories, and universities; and
 
-**(c) University-National Laboratory interactions** The Secretary shall conduct—
+  (E) support communication and outreach related to nuclear science, engineering, and health physics.
 
-(1) a fellowship program for professors at universities to spend sabbaticals at National Laboratories in the areas of nuclear science and technology; and
+(3) **University-National Laboratory interactions** — The Secretary shall conduct—
 
-(2) a visiting scientist program in which National Laboratory staff can spend time in academic nuclear science and engineering departments.
+  (A) a fellowship program for professors at universities to spend sabbaticals at National Laboratories in the areas of nuclear science and technology; and
 
-**(d) Strengthening university research and training reactors and associated infrastructure** In carrying out the program under this section, the Secretary may support—
+  (B) a visiting scientist program in which National Laboratory staff can spend time in academic nuclear science and engineering departments.
 
-(1) converting research reactors from high-enrichment fuels to low-enrichment fuels and upgrading operational instrumentation;
+(4) **Strengthening university research and training reactors and associated infrastructure** — In carrying out the program under this subsection, the Secretary may support—
 
-(2) consortia of universities to broaden access to university research reactors;
+  (A) converting research reactors from high-enrichment fuels to low-enrichment fuels and upgrading operational instrumentation;
 
-(3) student training programs, in collaboration with the United States nuclear industry, in relicensing and upgrading reactors, including through the provision of technical assistance; and
+  (B) consortia of universities to broaden access to university research reactors;
 
-(4) reactor improvements that emphasize research, training, and education, including through the Innovations in Nuclear Infrastructure and Education Program or any similar program.
+  (C) student training programs, in collaboration with the United States nuclear industry, in relicensing and upgrading reactors, including through the provision of technical assistance; and
 
-**(e) Operations and maintenance** Funding for a project provided under this section may be used for a portion of the operating and maintenance costs of a research reactor at a university used in the project.
+  (D) reactor improvements that emphasize research, training, and education, including through the Innovations in Nuclear Infrastructure and Education Program or any similar program.
 
-**(f) Definition** In this section, the term “junior faculty” means a faculty member who was awarded a doctorate less than 10 years before receipt of an award from the grant program described in subsection (b)(2).
+(5) **Radiological facilities management**
+
+  (A) *In general* — The Secretary shall carry out a program under which the Secretary shall provide project management, technical support, quality engineering and inspection, and nuclear material handling support to research reactors located at universities.
+
+  (B) *Authorization of appropriations* — Of any amounts appropriated to carry out the program under this subsection, there are authorized to be appropriated to the Secretary to carry out the program under this paragraph $20,000,000 for each of fiscal years 2021 through 2025.
+
+(6) **Nuclear energy university program** — In carrying out the programs under this section, the Department shall, to the maximum extent practicable, allocate 20 percent of funds appropriated to nuclear energy research and development programs annually to fund university-led research and university infrastructure projects through an open, competitive solicitation process.
+
+(7) **Operations and maintenance** — Funding for a project provided under this subsection may be used for a portion of the operating and maintenance costs of a research reactor at a university used in the project.
+
+(8) **Definition** — In this subsection, the term “junior faculty” means a faculty member who was awarded a doctorate less than 10 years before receipt of an award from the grant program described in paragraph (2)(B).
+
+**(b) Nuclear energy graduate traineeship subprogram**
+
+(1) **Establishment** — In carrying out the program under subsection (a), the Secretary shall establish a nuclear energy graduate traineeship subprogram under which the Secretary shall competitively award graduate traineeships in coordination with universities to provide focused, advanced training to meet critical mission needs of the Department, including in industries that are represented by skilled labor unions.
+
+(2) **Requirements** — In carrying out the subprogram under this subsection, the Secretary shall—
+
+  (A) encourage appropriate partnerships among National Laboratories, affected universities, and industry; and
+
+  (B) on an annual basis, evaluate the needs of the nuclear energy community to implement graduate traineeships for focused topical areas addressing mission-specific workforce needs.
+
+(3) **Authorization of appropriations** — There are authorized to be appropriated to the Secretary to carry out the subprogram under this subsection $5,000,000 for each of fiscal years 2021 through 2025.
 
 ### Statutory Notes
 
 #### Amendments
+2020—Pub. L. 116–260, § 2003(c)(1), substituted “Nuclear” for “University nuclear” in section catchline.
+
+Subsec. (a). Pub. L. 116–260, § 2003(c)(10), designated existing provisions as subsec. (a) and inserted heading.
+
+Pub. L. 116–260, § 2003(c)(9), added pars. (5) and (6).
+
+Subsec. (b). Pub. L. 116–260, § 2003(c)(11), added subsec. (b).
+
+Pub. L. 116–260, § 2003(c)(7), redesignated subsec. (b) as par. (2).
+
+Pub. L. 116–260, § 2003(c)(2), substituted “this subsection” for “this section” in introductory provisions, redesignated pars. (1) to (5) as subpars. (A) to (E), respectively, and realigned margins.
+
+Subsec. (c). Pub. L. 116–260, § 2003(c)(7), redesignated subsec. (c) as par. (3).
+
+Pub. L. 116–260, § 2003(c)(3), redesignated pars. (1) and (2) as subpars. (A) and (B), respectively, and realigned margins.
+
+Subsec. (d). Pub. L. 116–260, § 2003(c)(7), redesignated subsec. (d) as par. (4).
+
+Pub. L. 116–260, § 2003(c)(4), substituted “this subsection” for “this section” in introductory provisions, redesignated pars. (1) to (4) as subpars. (A) to (D), respectively, and realigned margins.
+
+Subsec. (e). Pub. L. 116–260, § 2003(c)(8), redesignated subsec. (e) as par. (7). Margins realigned to reflect the probable intent of Congress.
+
+Pub. L. 116–260, § 2003(c)(5), substituted “this subsection” for “this section”.
+
+Subsec. (f). Pub. L. 116–260, § 2003(c)(8), redesignated susbec. (f) as par. (8). Margins realigned to reflect the probable intent of Congress.
+
+Pub. L. 116–260, § 2003(c)(6), substituted “this subsection” for “this section” and “paragraph (2)(B)” for “subsection (b)(2)”.
+
 2018—Subsec. (d)(4). Pub. L. 115–248 substituted “that emphasize” for “as part of a taking into consideration effort that emphasizes”.
 
 
-<a id="section-16277"></a>
-## § 16277. Integrated University Program
-**(a)** The Secretary of Energy, along with the Administrator of the National Nuclear Security Administration and the Chairman of the Nuclear Regulatory Commission, shall establish an Integrated University Program.
+<a id="section-16278"></a>
+## § 16278. University Nuclear Leadership Program
+**(a) In general** The Secretary of Energy, the Administrator of the National Nuclear Security Administration, and the Chairman of the Nuclear Regulatory Commission shall jointly establish a program, to be known as the “University Nuclear Leadership Program”.
 
-**(b)** For the purposes of carrying out this section, $45,000,000 is authorized to be appropriated in each of fiscal years 2009 to 2019 as follows:
+**(b) Use of funds**
 
-(1) $15,000,000 for the Department of Energy;
+(1) **In general** — Except as provided in paragraph (2), amounts made available to carry out the Program shall be used to provide financial assistance for scholarships, fellowships, and research and development projects at institutions of higher education in areas relevant to the programmatic mission of the applicable Federal agency, with an emphasis on providing the financial assistance with respect to research, development, demonstration, and commercial application activities relevant to civilian advanced nuclear reactors including, but not limited to—
 
-(2) $15,000,000 for the Nuclear Regulatory Commission; and
+  (A) relevant fuel cycle technologies;
 
-(3) $15,000,000 for the National Nuclear Security Administration.
+  (B) project management; and
 
-**(c)** Of the amounts authorized to carry out this section, $10,000,000 shall be used by each organization to support university research and development in areas relevant to their respective organization’s mission, and $5,000,000 shall be used by each organization to support a jointly implemented Nuclear Science and Engineering Grant Program that will support multiyear research projects that do not align with programmatic missions but are critical to maintaining the discipline of nuclear science and engineering.
+  (C) advanced construction, manufacturing, and fabrication methods.
+
+(2) **Exception** — Notwithstanding paragraph (1), amounts made available to carry out the Program may be used to provide financial assistance for a scholarship, fellowship, or multiyear research and development project that does not align directly with a programmatic mission of the Department of Energy, if the activity for which assistance is provided would facilitate the maintenance of the discipline of nuclear science or engineering.
+
+**(c) Definitions** In this section:
+
+(1) **Advanced nuclear reactor; institution of higher education** — The terms “advanced nuclear reactor” and “institution of higher education” have the meanings given those terms in [section 16271 of this title](./chapter-149-national-energy-policy-and-programs.md#section-16271).
+
+(2) **Program** — The term “Program” means the University Nuclear Leadership Program established under this section.
+
+**(d) Authorization of appropriations** There are authorized to be appropriated to carry out the Program for each of fiscal years 2021 through 2025—
+
+(1) $30,000,000 to the Secretary of Energy, of which $15,000,000 shall be for use by the Administrator of the National Nuclear Security Administration; and
+
+(2) $15,000,000 to the Nuclear Regulatory Commission.
 
 ### Statutory Notes
 
 #### Codification
 Section was enacted as part of the Energy and Water Development and Related Agencies Appropriations Act, 2009, and also as part of the Omnibus Appropriations Act, 2009, and not as part of the Energy Policy Act of 2005 which comprises this chapter.
 
+#### Amendments
+2020—Pub. L. 116–260 amended section generally. Prior to amendment, section related to Integrated University Program.
 
-<a id="section-16278"></a>
-## § 16278. Department of Energy civilian nuclear infrastructure and facilities
+
+<a id="section-16279"></a>
+## § 16279. Department of Energy civilian nuclear infrastructure and facilities
 **(a) In general** The Secretary shall operate and maintain infrastructure and facilities to support the nuclear energy research, development, demonstration, and commercial application programs, including radiological facilities management, isotope production, and facilities management.
 
 **(b) Duties** In carrying out this section, the Secretary shall—
@@ -6559,9 +7601,9 @@ Section was enacted as part of the Energy and Water Development and Related Agen
 
 **(c) Versatile neutron source**
 
-(1) **Mission need**
+(1) **Authorization**
 
-  (A) *In general* — Not later than December 31, 2017, the Secretary shall determine the mission need for a versatile reactor-based fast neutron source, which shall operate as a national user facility.
+  (A) *In general* — Not later than December 31, 2017, the Secretary shall provide for a versatile reactor-based fast neutron source, which shall operate as a national user facility.
 
   (B) *Consultations required* — In carrying out subparagraph (A), the Secretary shall consult with the private sector, institutions of higher education, the National Laboratories, and relevant Federal agencies to ensure that the user facility described in subparagraph (A) will meet the research needs of the largest practicable majority of prospective users.
 
@@ -6591,20 +7633,64 @@ Section was enacted as part of the Energy and Water Development and Related Agen
 
     (vii) Lifetime operating costs and lifecycle costs.
 
-(4) **Deadline for establishment** — The Secretary shall, to the maximum extent practicable, complete construction of, and approve the start of operations for, the user facility by not later than December 31, 2025.
+(4) **Deadline for establishment** — The Secretary shall, to the maximum extent practicable, complete construction of, and approve the start of operations for, the user facility by not later than December 31, 2026.
 
 (5) **Reporting** — The Secretary shall include in the annual budget request of the Department an explanation for any delay in the progress of the Department in completing the user facility by the deadline described in paragraph (4).
 
 (6) **Coordination** — The Secretary shall leverage the best practices for management, construction, and operation of national user facilities from the Office of Science.
 
+(7) **Authorization of appropriations** — There are authorized to be appropriated to the Secretary to carry out to completion the construction of the facility under this section—
+
+  (A) $295,000,000 for fiscal year 2021;
+
+  (B) $348,000,000 for fiscal year 2022;
+
+  (C) $525,000,000 for fiscal year 2023;
+
+  (D) $534,000,000 for fiscal year 2024; and
+
+  (E) $584,000,000 for fiscal year 2025.
+
+**(d) Gateway for Accelerated Innovation in Nuclear**
+
+(1) **In general** — In carrying out the programs under this part, the Secretary is authorized to establish a new initiative to be known as the Gateway for Accelerated Innovation in Nuclear (GAIN). The initiative shall, to the maximum extent practicable and consistent with national security, provide the nuclear energy industry with access to cutting edge research and development along with the technical, regulatory, and financial support necessary to move innovative nuclear energy technologies toward commercialization in an accelerated and cost-effective fashion. The Secretary shall make available, as a minimum—
+
+  (A) experimental capabilities and testing facilities;
+
+  (B) computational capabilities, modeling, and simulation tools;
+
+  (C) access to existing datasets and data validation tools; and
+
+  (D) technical assistance with guidance or processes as needed.
+
+(2) **Selection**
+
+  (A) *In general* — The Secretary shall select industry partners for awards on a competitive merit-reviewed basis.
+
+  (B) *Considerations* — In selecting industry partners under subparagraph (A), the Secretary shall consider—
+
+    (i) the information disclosed by the Department as described in paragraph (1); and
+
+    (ii) any existing facilities the Department will provide for public private partnership activities.
+
 ### Statutory Notes
 
 #### Amendments
+2020—Subsec. (c)(1). Pub. L. 116–260, § 2003(f)(1)(A), substituted “Authorization” for “Mission need” in heading.
+
+Subsec. (c)(1)(A). Pub. L. 116–260, § 2003(f)(1)(B), substituted “provide” for “determine the mission need”.
+
+Subsec. (c)(4). Pub. L. 116–260, § 2003(f)(3), substituted “2026” for “2025”.
+
+Subsec. (c)(7). Pub. L. 116–260, § 2003(f)(2), added par. (7).
+
+Subsec. (d). Pub. L. 116–260, § 2003(f)(4), added subsec.(d).
+
 2018—Subsecs. (c), (d). Pub. L. 115–248 added subsec. (c) and struck out former subsecs. (c) and (d) which required development of a comprehensive plan for the facilities at the Idaho National Laboratory and transmittal of the plan to Congress.
 
 
-<a id="section-16279"></a>
-## § 16279. Security of nuclear facilities
+<a id="section-16279a"></a>
+## § 16279a. Security of nuclear facilities
 
 The Secretary shall conduct a research and development program on cost-effective technologies for increasing—
 
@@ -6618,8 +7704,8 @@ The Secretary shall conduct a research and development program on cost-effective
 2018—Pub. L. 115–248 struck out “, acting through the Director of the Office of Nuclear Energy, Science and Technology,” after “The Secretary” in introductory provisions.
 
 
-<a id="section-16280"></a>
-## § 16280. High-performance computation and supportive research
+<a id="section-16279b"></a>
+## § 16279b. High-performance computation and supportive research
 **(a) Modeling and simulation** The Secretary shall carry out a program to enhance the capabilities of the United States to develop new reactor technologies through high-performance computation modeling and simulation techniques.
 
 **(b) Coordination** In carrying out the program under subsection (a), the Secretary shall coordinate with relevant Federal agencies as described by the National Strategic Computing Initiative established by Executive Order 13702 (80 Fed. Reg. 46177 (July 29, 2015)), while taking into account the following objectives:
@@ -6640,17 +7726,25 @@ The Secretary shall conduct a research and development program on cost-effective
 
 (2) for validation of computational tools.
 
+**(d) Duplication** The Secretary shall ensure the coordination of, and avoid unnecessary duplication of, the activities of the program under subsection (a) with the activities of—
+
+(1) other research entities of the Department, including the National Laboratories, the Advanced Research Projects Agency–Energy, and the Advanced Scientific Computing Research program; and
+
+(2) industry.
+
 ### Statutory Notes
 
 #### References in Text
 Executive Order 13702, referred to in subsec. (b), is set out as a note under [section 5501 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section5501&num=0&edition=prelim), Commerce and Trade.
 
 #### Amendments
+2020—Subsec. (d). Pub. L. 116–260 added subsec. (d).
+
 2018—Pub. L. 115–248 amended section generally. Prior to amendment, section related to survey and plan regarding alternatives to industrial radioactive sources.
 
 
-<a id="section-16291"></a>
-## § 16291. Enabling nuclear energy innovation
+<a id="section-16279c"></a>
+## § 16279c. Enabling nuclear energy innovation
 **(a) National Reactor Innovation Center** There is authorized a program to enable the testing and demonstration of reactor concepts to be proposed and funded, in whole or in part, by the private sector.
 
 **(b) Technical expertise** In carrying out the program under subsection (a), the Secretary shall leverage the technical expertise of relevant Federal agencies and the National Laboratories in order to minimize the time required to enable construction and operation of privately funded experimental reactors at National Laboratories or other Department-owned sites.
@@ -6722,11 +7816,11 @@ Executive Order 13702, referred to in subsec. (b), is set out as a note under [s
 (2) **Financial protection** — Any activity carried out under this section that involves the risk of public liability shall be subject to the financial protection or indemnification requirements of [section 2210 of this title](./chapter-023-development-and-control-of-atomic-energy.md#section-2210) (commonly known as the “Price-Anderson Act”).
 
 
-<a id="section-16291a"></a>
-## § 16291a. Budget plan
+<a id="section-16280"></a>
+## § 16280. Budget plan
 **(a) In general** Not later than 1 year after September 28, 2018, the Secretary shall submit to the Committee on Energy and Natural Resources of the Senate and the Committee on Science, Space, and Technology of the House of Representatives 2 alternative 10-year budget plans for civilian nuclear energy research and development by the Secretary, as described in subsections (b) through (d).
 
-**(b) Budget plan alternative 1** One of the budget plans submitted under subsection (a) shall assume constant annual funding for 10 years at the appropriated level for the civilian nuclear energy research and development of the Department for fiscal year 2016.
+**(b) Budget plan alternative 1** One of the budget plans submitted under subsection (a) shall assume constant annual funding for 10 years at the appropriated level for the current fiscal year for the civilian nuclear energy research and development of the Department.
 
 **(c) Budget plan alternative 2** One of the budget plans submitted under subsection (a) shall be an unconstrained budget.
 
@@ -6734,9 +7828,192 @@ Executive Order 13702, referred to in subsec. (b), is set out as a note under [s
 
 (1) a prioritized list of the programs, projects, and activities of the Department to best support the development of advanced nuclear reactor technologies;
 
-(2) realistic budget requirements for the Department to implement sections 16275(c), 16277, and 16278 of this title; and
+(2) realistic budget requirements for the Department to implement sections 16275(c), 16277, and 16278 of this title;
 
-(3) the justification of the Department for continuing or terminating existing civilian nuclear energy research and development programs.
+(3) the justification of the Department for continuing or terminating existing civilian nuclear energy research and development programs; and
+
+(4) a description of the progress made under the programs described in [section 16279a of this title](./chapter-149-national-energy-policy-and-programs.md#section-16279a).
+
+**(e) Updates** Not less frequently than once every 2 years, the Secretary shall submit to the Committee on Science, Space, and Technology of the House of Representatives and the Committee on Energy and Natural Resources of the Senate updated 10-year budget plans which shall identify, and provide a justification for, any major deviation from a previous budget plan submitted under this section.
+
+### Statutory Notes
+
+#### Amendments
+2020—Subsec. (b). Pub. L. 116–260, § 2005(1), amended subsec. (b) generally. Prior to amendment, text read as follows: “One of the budget plans submitted under subsection (a) shall assume constant annual funding for 10 years at the appropriated level for the civilian nuclear energy research and development of the Department for fiscal year 2016.”
+
+Subsec. (d)(4). Pub. L. 116–260, § 2005(2)–(4), added par. (4).
+
+Subsec. (e). Pub. L. 116–260, § 2005(5), added subsec. (e).
+
+
+<a id="section-16281"></a>
+## § 16281. Advanced reactor demonstration program
+**(a) Demonstration project defined** For the purposes of this section, the term “demonstration project” means an advanced nuclear reactor operated in any manner, including as part of the power generation facilities of an electric utility system, for the purpose of demonstrating the suitability for commercial application of the advanced nuclear reactor.
+
+**(b) Establishment** The Secretary shall establish a program to advance the research, development, demonstration, and commercial application of domestic advanced, affordable, nuclear energy technologies by—
+
+(1) demonstrating a variety of advanced nuclear reactor technologies, including those that could be used to produce—
+
+  (A) safer, emissions-free power at a competitive cost of electricity compared to other new energy generation technologies on December 27, 2020;
+
+  (B) heat for community heating, industrial purposes, heat storage, or synthetic fuel production;
+
+  (C) remote or off-grid energy supply; or
+
+  (D) backup or mission-critical power supplies;
+
+(2) identifying research areas that the private sector is unable or unwilling to undertake due to the cost of, or risks associated with, the research; and
+
+(3) facilitating the access of the private sector—
+
+  (A) to Federal research facilities and personnel; and
+
+  (B) to the results of research relating to civil nuclear technology funded by the Federal Government.
+
+**(c) Demonstration projects** In carrying out demonstration projects under the program established in subsection (b), the Secretary shall—
+
+(1) include, as an evaluation criterion, diversity in designs for the advanced nuclear reactors demonstrated under this section, including designs using various—
+
+  (A) primary coolants;
+
+  (B) fuel types and compositions; and
+
+  (C) neutron spectra;
+
+(2) consider, as evaluation criterions—
+
+  (A) the likelihood that the operating cost for future commercial units for each design implemented through a demonstration project under this subsection is cost-competitive in the applicable market, including those designs configured as integrated energy systems as described in [section 16272(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section16272/c&num=0&edition=prelim);
+
+  (B) the technology readiness level of a proposed advanced nuclear reactor technology;
+
+  (C) the technical abilities and qualifications of teams desiring to demonstrate a proposed advanced nuclear reactor technology; and
+
+  (D) the capacity to meet cost-share requirements of the Department;
+
+(3) ensure that each evaluation of candidate technologies for the demonstration projects is completed through an external review of proposed designs, which review shall—
+
+  (A) be conducted by a panel that includes not fewer than 1 representative that does not have a conflict of interest of each within the applicable market of the design of—
+
+    (i) an electric utility;
+
+    (ii) an entity that uses high-temperature process heat for manufacturing or industrial processing, such as a petrochemical or synthetic fuel company, a manufacturer of metals or chemicals, or a manufacturer of concrete;
+
+    (iii) an expert from the investment community;
+
+    (iv) a project management practitioner; and
+
+    (v) an environmental health and safety expert; and
+
+  (B) include a review of each demonstration project under this subsection which shall include consideration of cost-competitiveness and other value streams, together with the technology readiness level, the technical abilities and qualifications of teams desiring to demonstrate a proposed advanced nuclear reactor technology, the capacity to meet cost-share requirements of the Department, if Federal funding is provided, and environmental impacts;
+
+(4) for federally funded demonstration projects, enter into cost-sharing agreements with private sector partners in accordance with [section 16352 of this title](./chapter-149-national-energy-policy-and-programs.md#section-16352) for the conduct of activities relating to the research, development, and demonstration of advanced nuclear reactor designs under the program;
+
+(5) consult with—
+
+  (A) National Laboratories;
+
+  (B) institutions of higher education;
+
+  (C) traditional end users (such as electric utilities);
+
+  (D) potential end users of new technologies (such as users of high-temperature process heat for manufacturing processing, including petrochemical or synthetic fuel companies, manufacturers of metals or chemicals, or manufacturers of concrete);
+
+  (E) developers of advanced nuclear reactor technology;
+
+  (F) environmental and public health and safety experts; and
+
+  (G) non-proliferation experts;
+
+(6) seek to ensure that the demonstration projects carried out under this section do not cause any delay in the progress of an advanced reactor project by private industry and the Department of Energy that is underway as of December 27, 2020;
+
+(7) establish a streamlined approval process for expedited contracting between awardees and the Department;
+
+(8) identify technical challenges to candidate technologies;
+
+(9) support near-term research and development to address the highest risk technical challenges to the successful demonstration of a selected advanced reactor technology, in accordance with—
+
+  (A) paragraph (8);
+
+  (B) the research and development activities under [section 16272(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section16272/b&num=0&edition=prelim); and
+
+  (C) the research and development activities under [section 16278 of this title](./chapter-149-national-energy-policy-and-programs.md#section-16278); and
+
+(10) establish such technology advisory working groups as the Secretary determines to be appropriate to advise the Secretary regarding the technical challenges identified under paragraph (8) and the scope of research and development programs to address the challenges, in accordance with paragraph (9), to be comprised of—
+
+  (A) private sector advanced nuclear reactor technology developers;
+
+  (B) technical experts with respect to the relevant technologies at institutions of higher education;
+
+  (C) technical experts at the National Laboratories;
+
+  (D) environmental and public health and safety experts;
+
+  (E) non-proliferation experts; and
+
+  (F) any other entities the Secretary determines appropriate.
+
+**(d) Milestone-based demonstration projects** The Secretary may carry out demonstration projects under subsection (c) as a milestone-based demonstration project under [section 7256c of this title](./chapter-084-department-of-energy.md#section-7256c).
+
+**(e) Nonduplication** Entities may not receive funds under this program if receiving funds from another reactor demonstration program at the Department in the same fiscal year.
+
+**(f) Authorization of appropriations** There are authorized to be appropriated to the Secretary to carry out the program under this subsection—
+
+(1) $405,000,000 for fiscal year 2021;
+
+(2) $405,000,000 for fiscal year 2022;
+
+(3) $420,000,000 for fiscal year 2023;
+
+(4) $455,000,000 for fiscal year 2024; and
+
+(5) $455,000,000 for fiscal year 2025.
+
+
+<a id="section-16291"></a>
+## § 16291. International nuclear energy cooperation
+
+The Secretary shall carry out a program—
+
+(1) to collaborate in international efforts with respect to research, development, demonstration, and commercial application of nuclear technology that supports diplomatic, financing, nonproliferation, climate, and international economic objectives for the safe, secure, and peaceful use of such technology; and
+
+(2) to develop collaboration initiatives with respect to such efforts with a variety of countries through—
+
+  (A) preparations for research and development agreements;
+
+  (B) the development of coordinated action plans; and
+
+  (C) new or existing multilateral cooperation commitments including—
+
+    (i) the International Framework for Nuclear Energy Cooperation;
+
+    (ii) the Generation IV International Forum;
+
+    (iii) the International Atomic Energy Agency;
+
+    (iv) the Organization for Economic Co-operation and Development Nuclear Energy Agency; and
+
+    (v) any other international collaborative effort with respect to advanced nuclear reactor operations and safety.
+
+
+<a id="section-16291a"></a>
+## § 16291a. Organization and administration of programs
+**(a) Coordination** In carrying out this part, the Secretary shall coordinate activities, and effectively manage crosscutting research priorities across programs of the Department and other relevant Federal agencies, including the National Laboratories.
+
+**(b) Collaboration**
+
+(1) **In general** — In carrying out this part, the Secretary shall collaborate with industry, National Laboratories, other relevant Federal agencies, institutions of higher education, including minority-serving institutions and research reactors, Tribal entities, including Alaska Native Corporations, and international bodies with relevant scientific and technical expertise.
+
+(2) **Participation** — To the extent practicable, the Secretary shall encourage research projects that promote collaboration between entities specified in paragraph (1).
+
+**(c) Dissemination of results and public availability** The Secretary shall, except to the extent protected from disclosure under [section 552(b) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section552/b&num=0&edition=prelim), publish the results of projects supported under this part through Department websites, reports, databases, training materials, and industry conferences, including information discovered after the completion of such projects.
+
+**(d) Education and outreach** In carrying out the activities described in this part, the Secretary shall support education and outreach activities to disseminate information and promote public understanding of nuclear energy.
+
+**(e) Technical assistance** In carrying out this part, for the purposes of supporting technical, nonhardware, and information-based advances in nuclear energy development and operations, the Secretary shall also conduct technical assistance and analysis activities, including activities that support commercial application of nuclear energy in rural, Tribal, and low-income communities.
+
+**(f) Program review** At least annually, all programs in this part shall be subject to an annual review by the Nuclear Energy Advisory Committee of the Department or other independent entity, as appropriate.
+
+**(g) Sensitive information** The Secretary shall not publish any information generated under this part that is detrimental to national security, as determined by the Secretary.
 
 
 <a id="section-16292"></a>
@@ -6778,22 +8055,235 @@ Section was enacted as part of the Nuclear Energy Innovation Capabilities Act of
 
 
 <a id="section-16293"></a>
-## § 16293. Fossil energy
-**(a) In general** The Secretary shall carry out research, development, demonstration, and commercial application programs in fossil energy, including activities under this part, with the goal of improving the efficiency, effectiveness, and environmental performance of fossil energy production, upgrading, conversion, and consumption. Such programs take into consideration the following objectives:
+## § 16293. Advanced nuclear fuel availability
+**(a) Program**
 
-(1) Increasing the energy conversion efficiency of all forms of fossil energy through improved technologies.
+(1) **Establishment** — The Secretary shall establish and carry out, through the Office of Nuclear Energy, a program to support the availability of HA–LEU for civilian domestic research, development, demonstration, and commercial use.
 
-(2) Decreasing the cost of all fossil energy production, generation, and delivery.
+(2) **Program elements** — In carrying out the program under paragraph (1), the Secretary—
 
-(3) Promoting diversity of energy supply.
+  (A) shall develop, in consultation with the Commission, criticality benchmark data to assist the Commission in—
 
-(4) Decreasing the dependence of the United States on foreign energy supplies.
+    (i) the licensing and regulation of special nuclear material fuel fabrication and enrichment facilities under part 70 of title 10, Code of Federal Regulations; and
 
-(5) Improving United States energy security.
+    (ii) certification of transportation packages under part 71 of title 10, Code of Federal Regulations;
 
-(6) Decreasing the environmental impact of energy-related activities.
+  (B) shall conduct research and development, and provide financial assistance to assist commercial entities, to design and license transportation packages for HA–LEU, including canisters for metal, gas, and other HA–LEU compositions;
 
-(7) Increasing the export of fossil energy-related equipment, technology, and services from the United States.
+  (C) shall, to the extent practicable—
+
+    (i) by January 1, 2024, support commercial entity submission of such transportation package designs to the Commission for certification by the Commission under part 71 of title 10, Code of Federal Regulations; and
+
+    (ii) encourage the Commission to have such transportation package designs so certified by the Commission within 24 months after receipt of an application;
+
+  (D) shall consider options for acquiring or providing HA–LEU from a stockpile of uranium owned by the Department, or using enrichment technology, to make available to members of the consortium established pursuant to subparagraph (F) for commercial use or demonstration projects, taking into account cost and amount of time required, and prioritizing methods that would produce usable HA–LEU the quickest, including options for acquiring or providing HA–LEU—
+
+    (i) that—
+
+      (I) directly meets the needs of an end user; and
+
+      (II) has been previously used or fabricated for another purpose;
+
+    (ii) that meets the needs of an end user after having radioactive or other contaminants that resulted from a previous use or fabrication of the fuel for research, development, demonstration, or deployment activities of the Department removed;
+
+    (iii) that is produced from high-enriched uranium that is blended with lower assay uranium to become HA–LEU to meet the needs of an end user;
+
+    (iv) that is produced by Department research, development, and demonstration activities;
+
+    (v) that is produced in the United States by—
+
+      (I) a United States-owned commercial entity operating United States-origin technology;
+
+      (II) a United States-owned commercial entity operating a foreign-origin technology; or
+
+      (III) a foreign-owned entity operating a foreign-origin technology;
+
+    (vi) that does not require extraction of uranium or development of uranium from lands managed by the Federal Government, cause harm to the natural or cultural resources of Tribal communities or sovereign Native Nations, or result in degraded ground or surface water quality on publicly managed or privately owned lands; or
+
+    (vii) that does not negatively impact the availability of HA–LEU by the Department to support the production of medical isotopes, including the medical isotopes defined under the American Medical Isotopes Production Act of 2012 (Public Law 112–239; 126 Stat. 2211);
+
+  (E) not later than 1 year after December 27, 2020, and biennially thereafter, shall conduct a survey of stakeholders to estimate the quantity of HA–LEU necessary for domestic commercial use for each of the 5 subsequent years;
+
+  (F) shall establish, and from time to time update, a consortium, which may include entities involved in any stage of the nuclear fuel cycle, to partner with the Department to support the availability of HA–LEU for civilian domestic demonstration and commercial use, including by—
+
+    (i) providing information to the Secretary for purposes of surveys conducted under subparagraph (E);
+
+    (ii) purchasing HA–LEU made available by the Secretary to members of the consortium for commercial use under the program; and
+
+    (iii) carrying out demonstration projects using HA–LEU provided by the Secretary under the program;
+
+  (G) if applicable, shall, prior to acquiring or providing HA–LEU under subparagraph (H), in coordination with the consortium established pursuant to subparagraph (F), develop a schedule for cost recovery of HA–LEU made available to members of the consortium using HA–LEU for commercial use pursuant to subparagraph (H);
+
+  (H) shall, beginning not later than 3 years after the establishment of a consortium under subparagraph (F), have the capability to acquire or provide HA–LEU, in order to make such HA–LEU available to members of the consortium beginning not later than January 1, 2026, in amounts that are consistent, to the extent practicable, with—
+
+    (i) the quantities estimated under the surveys conducted under subparagraph (E); plus
+
+    (ii) the quantities necessary for demonstration projects carried out under the program, as determined by the Secretary;
+
+      (I) shall, for advanced reactor demonstration projects, prioritize the provision of HA–LEU made available under this section through a merit-based, competitive selection process; and
+
+  (J) shall seek to ensure that the activities carried out under this section do not cause any delay in the progress of any HA–LEU project between private industry and the Department that is underway as of December 27, 2020.
+
+(3) **Applicability of USEC Privatization Act**
+
+  (A) *Sale or transfer to consortium* — The requirements of section 3112 of the USEC Privatization Act ([42 U.S.C. 2297h–10](./chapter-023-development-and-control-of-atomic-energy.md#section-2297h-10)), except for the requirements of subparagraph (A) of section 3112(d)(2), shall not apply to the provision of enrichment services, or the sale or transfer of HA–LEU for commercial use by the Secretary to a member of the consortium under this subsection.
+
+  (B) *Demonstration* — HA–LEU made available to members of the consortium established pursuant to paragraph (2)(F) for demonstration projects shall remain the property of and title will remain with the Department, which shall be responsible for the storage, use, and disposition of all radioactive waste and spent nuclear fuel created by the irradiation, processing, or purification of such uranium, and shall not be subject to the requirements of a sale or transfer of uranium under sections 3112, except for the requirements of subparagraph (A) of section 3112, and 3113of the USEC Privatization Act ([42 U.S.C. 2297h–10](./chapter-023-development-and-control-of-atomic-energy.md#section-2297h-10); [42 U.S.C. 2297h–11](./chapter-023-development-and-control-of-atomic-energy.md#section-2297h-11)).
+
+(4) **National security needs** — The Secretary shall only make available to a member of the consortium under this section for commercial or demonstration project use material that the President has determined is not necessary for national security needs, provided that this available material shall not include any material that the Secretary may determine to be necessary for the National Nuclear Security Administration or other critical Departmental missions.
+
+(5) **DOE acquisition of HA–LEU** — The Secretary may not make commitments under this section (including cooperative agreements (used in accordance with [section 6305 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section6305&num=0&edition=prelim)), purchase agreements, guarantees, leases, service contracts, or any other type of commitment) for the purchase or other acquisition of HA–LEU unless—
+
+  (A) funds are specifically provided for such purposes in advance in subsequent appropriations Acts, and only to the extent that the full extent of anticipated costs stemming from such commitments is recorded as an obligation up front and in full at the time it is made; or
+
+  (B) such committing agreement includes a clause conditioning the Federal Government’s obligation on the availability of future year appropriations.
+
+(6) **Sunset** — The authority of the Secretary to carry out the program under this subsection shall expire on the earlier of—
+
+  (A) September 30, 2034; or
+
+  (B) 90 days after the date on which HA–LEU is available to provide a reliable and adequate supply for civilian domestic advanced nuclear reactors in the commercial market.
+
+(7) **Limitation** — The Secretary shall not barter or otherwise sell or transfer uranium in any form in exchange for services relating to the final disposition of radioactive waste from uranium that is made available under this subsection.
+
+**(b) Reports to Congress**
+
+(1) **Commission report on necessary regulatory updates** — Not later than 12 months after December 27, 2020, the Commission shall submit to Congress a report that includes—
+
+  (A) identification of updates to regulations, certifications, and other regulatory policies that the Commission determines are necessary in order for HA–LEU to be commercially available, including—
+
+    (i) guidance for material control and accountability of special nuclear material;
+
+    (ii) certifications relating to transportation packaging for HA–LEU; and
+
+    (iii) licensing of enrichment, conversion, and fuel fabrication facilities for HA–LEU, and associated physical security plans for such facilities;
+
+  (B) a description of such updates; and
+
+  (C) a timeline to complete such updates.
+
+(2) **DOE report on program to support the availability of ha–leu for civilian domestic demonstration and commercial use**
+
+  (A) *In general* — Not later than 180 days after December 27, 2020, the Secretary shall submit to Congress a report that describes actions proposed to be carried out by the Secretary under the program described in subsection (a)(1).
+
+  (B) *Coordination and stakeholder input* — In developing the report under this paragraph, the Secretary shall consult with—
+
+    (i) the Commission;
+
+    (ii) suppliers of medical isotopes that have converted their operations to use HA–LEU;
+
+    (iii) the National Laboratories;
+
+    (iv) institutions of higher education;
+
+    (v) a diverse group of entities from the nuclear energy industry;
+
+    (vi) a diverse group of technology developers;
+
+    (vii) experts in nuclear nonproliferation, environmental safety, safeguards and security, and public health and safety; and
+
+    (viii) members of the consortium created under subsection (a)(2)(F).
+
+  (C) *Cost and schedule estimates* — The report under this paragraph shall include estimated costs, budgets, and timeframes for all activities carried out under this section.
+
+  (D) *Required evaluations* — The report under this paragraph shall evaluate—
+
+    (i) the actions required to establish and carry out the program under subsection (a)(1) and the cost of such actions, including with respect to—
+
+      (I) proposed preliminary terms for contracting between the Department and recipients of HA–LEU under the program (including guidelines defining the roles and responsibilities between the Department and the recipient); and
+
+      (II) the potential to coordinate with recipients of HA–LEU under the program regarding—
+
+        (aa) fuel fabrication; and
+
+        (bb) fuel transport;
+
+    (ii) the potential sources and fuel forms available to provide uranium for the program under subsection (a)(1);
+
+    (iii) options to coordinate the program under subsection (a)(1) with the operation of the versatile, reactor-based fast neutron source under [section 16279a of this title](./chapter-149-national-energy-policy-and-programs.md#section-16279a) (as added by section 2003);
+
+    (iv) the ability of uranium producers to provide materials for advanced nuclear reactor fuel;
+
+    (v) any associated legal, regulatory, and policy issues that should be addressed to enable—
+
+      (I) implementation of the program under subsection (a)(1); and
+
+      (II) the establishment of an industry capable of providing HA–LEU; and
+
+    (vi) any research and development plans to develop criticality benchmark data under subsection (a)(2)(A), if needed.
+
+(3) **Alternate fuels report** — Not later than 180 days after December 27, 2020, the Secretary shall, after consulting with relevant entities, including National Laboratories, institutions of higher education, and technology developers, submit to Congress a report identifying any and all options for providing nuclear material, containing isotopes other than the uranium-235 isotope, such as uranium-233 and thorium-232 to be used as fuel for advanced nuclear reactor research, development, demonstration, or commercial application purposes.
+
+**(c) Authorization of appropriations** There are authorized to be appropriated to carry out research, development, demonstration, and transportation activities in this section—
+
+(1) $31,500,000 for fiscal year 2021;
+
+(2) $33,075,000 for fiscal year 2022;
+
+(3) $34,728,750 for fiscal year 2023;
+
+(4) $36,465,188 for fiscal year 2024; and
+
+(5) $38,288,447 for fiscal year 2025.
+
+**(d) Definitions** In this section:
+
+(1) **Commission** — The term “Commission” means the Nuclear Regulatory Commission.
+
+(2) **Demonstration project** — The term “demonstration project” has the meaning given such term in [section 16279a of this title](./chapter-149-national-energy-policy-and-programs.md#section-16279a).
+
+(3) **HA–LEU** — The term “HA–LEU” means high-assay low-enriched uranium.
+
+(4) **High-assay low-enriched uranium** — The term “high-assay low-enriched uranium” means uranium having an assay greater than 5.0 weight percent and less than 20.0 weight percent of the uranium-235 isotope.
+
+(5) **High-enriched uranium** — The term “high-enriched uranium” means uranium with an assay of 20.0 weight percent or more of the uranium-235 isotope.
+
+(6) **Secretary** — The term “Secretary” means the Secretary of Energy.
+
+### Statutory Notes
+
+#### References in Text
+The American Medical Isotopes Production Act of 2012, referred to in subsec. (a)(2)(D)(vii), is subtitle F (§ 3171 et seq.) of title XXXI of div. C of Pub. L. 112–239, Jan. 2, 2013, 126 Stat. 2211. For complete classification of this Act to the Code, see Short Title of 2013 Amendment note set out under [section 2011 of this title](./chapter-023-development-and-control-of-atomic-energy.md#section-2011) and Tables.
+
+[Section 16279a of this title](./chapter-149-national-energy-policy-and-programs.md#section-16279a) (as added by section 2003), referred to in subsec. (b)(2)(D)(iii), is [section 16279a of this title](./chapter-149-national-energy-policy-and-programs.md#section-16279a) as added by section 2003 of div. Z of Pub. L. 116–260.
+
+#### Codification
+Section was enacted as part of the Energy Act of 2020, and not as part of the Energy Policy Act of 2005 which comprises this chapter.
+
+
+<a id="section-16294"></a>
+## § 16294. Fossil energy
+**(a) Establishment**
+
+(1) **In general** — The Secretary shall carry out research, development, demonstration, and commercial application programs in fossil energy, including activities under this part, with the goal of improving the efficiency, effectiveness, and environmental performance of fossil energy production, upgrading, conversion, and consumption.
+
+(2) **Objectives** — The programs described in paragraph (1) shall take into consideration the following objectives:
+
+  (A) Increasing the energy conversion efficiency of all forms of fossil energy through improved technologies.
+
+  (B) Decreasing the cost of all fossil energy production, generation, and delivery.
+
+  (C) Promoting diversity of energy supply.
+
+  (D) Decreasing the dependence of the United States on foreign energy supplies.
+
+  (E) Improving United States energy security.
+
+  (F) Decreasing the environmental impact of energy-related activities, including technology development to reduce emissions of carbon dioxide and associated emissions of heavy metals within coal combustion residues and gas streams resulting from fossil fuel use and production.
+
+  (G) Increasing the export of fossil energy-related equipment, technology, including emissions control technologies, and services from the United States.
+
+  (H) Decreasing the cost of emissions control technologies for fossil energy production, generation, and delivery.
+
+  (I) Significantly lowering greenhouse gas emissions for all fossil fuel production, generation, delivery, and utilization technologies.
+
+  (J) Developing carbon removal and utilization technologies, products, and methods that result in net reductions in greenhouse gas emissions, including direct air capture and storage, and carbon use and reuse for commercial application.
+
+  (K) Improving the conversion, use, and storage of carbon oxides produced from fossil fuels.
+
+  (L) Reducing water use, improving water reuse, and minimizing surface and subsurface environmental impact in the development of unconventional domestic oil and natural gas resources.
+
+(3) **Priority** — In carrying out the objectives described in subparagraphs (F) through (K) of paragraph (2), the Secretary shall prioritize activities and strategies that have the potential to significantly reduce emissions for each technology relevant to the applicable objective and the international commitments of the United States.
 
 **(b) Authorization of appropriations** There are authorized to be appropriated to the Secretary to carry out fossil energy research, development, demonstration, and commercial application activities, including activities authorized under this part—
 
@@ -6805,7 +8295,7 @@ Section was enacted as part of the Nuclear Energy Innovation Capabilities Act of
 
 **(c) Allocations** From amounts authorized under subsection (a), the following sums are authorized:
 
-(1) For activities under [section 16292 of this title](./chapter-149-national-energy-policy-and-programs.md#section-16292)—
+(1) For activities under section 16292 11 See References in Text note below. of this title—
 
   (A) $367,000,000 for fiscal year 2007;
 
@@ -6840,11 +8330,26 @@ Section was enacted as part of the Nuclear Energy Innovation Capabilities Act of
 ### Statutory Notes
 
 #### References in Text
-This part, referred to in subsecs. (a) and (b), was in the original “this subtitle”, meaning subtitle F (§§ 961–968) of title IX of Pub. L. 109–58, Aug. 8, 2005, 119 Stat. 889, which enacted this part and provisions set out as notes under [section 2001 of Title 30](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title30-section2001&num=0&edition=prelim), Mineral Lands and Mining, and amended provisions set out as a note under [section 1902 of Title 30](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title30-section1902&num=0&edition=prelim). For complete classification of subtitle F to the Code, see Tables.
+This part, referred to in subsecs. (a)(1) and (b), was in the original “this subtitle”, meaning subtitle F (§§ 961–968) of title IX of Pub. L. 109–58, Aug. 8, 2005, 119 Stat. 889, which enacted this part and provisions set out as notes under [section 2001 of Title 30](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title30-section2001&num=0&edition=prelim), Mineral Lands and Mining, and amended provisions set out as a note under [section 1902 of Title 30](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title30-section1902&num=0&edition=prelim). For complete classification of subtitle F to the Code, see Tables.
+
+[Section 16292 of this title](./chapter-149-national-energy-policy-and-programs.md#section-16292), referred to in subsec. (c)(1), relating to coal and related technologies program, was repealed and a new [section 16292 of this title](./chapter-149-national-energy-policy-and-programs.md#section-16292), relating to carbon capture technology program, was enacted by Pub. L. 116–260, div. Z, title IV, § 4002(a), Dec. 27, 2020, 134 Stat. 2528.
+
+#### Amendments
+2020—Subsec. (a). Pub. L. 116–260, § 4001(5), designated second sentence of par. (1), as redesignated, as par. (2), inserted heading, and substituted “The programs described in paragraph (1) shall” for “Such programs”.
+
+Pub. L. 116–260, § 4001(4), designated existing provisions of subsec. (a) as par. (1), substituted “Establishment” for “In general” in subsec. heading, and inserted par. (1) heading.
+
+Pub. L. 116–260, § 4001(3), added subpars. (G) to (L) and struck out former subpar. (G), as redesignated, which read as follows: “Increasing the export of fossil energy-related equipment, technology, and services from the United States.”
+
+Pub. L. 116–260, § 4001(2), in subpar. (F), as redesignated, inserted “, including technology development to reduce emissions of carbon dioxide and associated emissions of heavy metals within coal combustion residues and gas streams resulting from fossil fuel use and production” before period at end.
+
+Pub. L. 116–260, § 4001(1), redesignated pars. (1) to (7) of subsec. (a) as subpars. (A) to (G) and realigned margins.
+
+Subsec. (a)(3). Pub. L. 116–260, § 4001(6), added par. (3)
 
 
-<a id="section-16294"></a>
-## § 16294. Property interests
+<a id="section-16295"></a>
+## § 16295. Property interests
 
 That for all programs funded under Fossil Energy appropriations in this and subsequent Acts, the Secretary may vest fee title or other property interests acquired under projects in any entity, including the United States.
 
@@ -6857,193 +8362,471 @@ Section was enacted as part of the Energy and Water Development and Related Agen
 For definition of “this [Act]”, referred to in text, see section 3 of Pub. L. 113–76, set out as a note under [section 1 of Title 1](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title1-section1&num=0&edition=prelim), General Provisions.
 
 
-<a id="section-16295"></a>
-## § 16295. Coal and related technologies program
-**(a) In general** In addition to the programs authorized under subchapter IV, the Secretary shall conduct a program of technology research, development, demonstration, and commercial application for coal and power systems, including programs to facilitate production and generation of coal-based power through—
+<a id="section-16296"></a>
+## § 16296. Carbon capture technology program
+**(a) Definitions** In this section:
 
-(1) innovations for existing plants (including mercury removal);
+(1) **Large-scale pilot project** — The term “large-scale pilot project” means a pilot project that—
 
-(2) gasification systems;
+  (A) represents the scale of technology development beyond laboratory development and bench scale testing, but not yet advanced to the point of being tested under real operational conditions at commercial scale;
 
-(3) advanced combustion systems;
+  (B) represents the scale of technology necessary to gain the operational data needed to understand the technical and performance risks of the technology before the application of that technology at commercial scale or in commercial-scale demonstration; and
 
-(4) turbines for synthesis gas derived from coal;
+  (C) is large enough—
 
-(5) carbon capture and sequestration research and development;
+    (i) to validate scaling factors; and
 
-(6) coal-derived chemicals and transportation fuels;
+    (ii) to demonstrate the interaction between major components so that control philosophies for a new process can be developed and enable the technology to advance from large-scale pilot project application to commercial-scale demonstration or application.
 
-(7) liquid fuels derived from low rank coal water slurry;
+(2) **Natural gas** — The term “natural gas” means any fuel consisting in whole or in part of—
 
-(8) solid fuels and feedstocks;
+  (A) natural gas;
 
-(9) advanced coal-related research;
+  (B) liquid petroleum gas;
 
-(10) advanced separation technologies; and
+  (C) synthetic gas derived from petroleum or natural gas liquids;
 
-(11) fuel cells for the operation of synthesis gas derived from coal.
+  (D) any mixture of natural gas and synthetic gas; or
 
-**(b) Cost and performance goals**
+  (E) biomethane.
 
-(1) **In general** — In carrying out programs authorized by this section, during each of calendar years 2008, 2010, 2012, and 2016, and during each fiscal year beginning after September 30, 2021, the Secretary shall identify cost and performance goals for coal-based technologies that would permit the continued cost-competitive use of coal for the production of electricity, chemical feedstocks, and transportation fuels.
+(3) **Natural gas electric generation facility**
 
-(2) **Administration** — In establishing the cost and performance goals, the Secretary shall—
+  (A) *In general* — The term “natural gas electric generation facility” means a facility that generates electric energy using natural gas as the fuel.
 
-  (A) consider activities and studies undertaken as of August 8, 2005, by industry in cooperation with the Department in support of the identification of the goals;
+  (B) *Inclusions* — The term “natural gas electric generation facility” includes without limitation a new or existing—
 
-  (B) consult with interested entities, including—
+    (i) simple cycle plant;
 
-    (i) coal producers;
+    (ii) combined cycle plant;
 
-    (ii) industries using coal;
+    (iii) combined heat and power plant; or
 
-    (iii) organizations that promote coal and advanced coal technologies;
+    (iv) steam methane reformer that produces hydrogen from natural gas for use in the production of electric energy.
+
+(4) **Program** — The term “program” means the program established under subsection (b)(1).
+
+(5) **Transformational technology**
+
+  (A) *In general* — The term “transformational technology” means a technology that represents a significant change in the methods used to convert energy that will enable a step change in performance, efficiency, cost of electricity, and reduction of emissions as compared to the technology in existence on December 27, 2020.
+
+  (B) *Inclusions* — The term “transformational technology” includes a broad range of potential technology improvements, including—
+
+    (i) thermodynamic improvements in energy conversion and heat transfer, including—
+
+      (I) advanced combustion systems, including oxygen combustion systems and chemical looping; and
+
+      (II) the replacement of steam cycles with supercritical carbon dioxide cycles;
+
+    (ii) improvements in steam or carbon dioxide turbine technology;
+
+    (iii) improvements in carbon capture, utilization, and storage systems technology;
+
+    (iv) improvements in small-scale and modular coal-fired technologies with reduced carbon output or carbon capture that can support incremental power generation capacity additions;
+
+    (v) fuel cell technologies for low-cost, high-efficiency modular power systems;
+
+    (vi) advanced gasification systems;
+
+    (vii) thermal cycling technologies; and
+
+    (viii) any other technology the Secretary recognizes as transformational technology.
+
+**(b) Carbon capture technology program**
+
+(1) **In general** — The Secretary shall establish a carbon capture technology program for the development of transformational technologies that will significantly improve the efficiency, effectiveness, costs, emissions reductions, and environmental performance of coal and natural gas use, including in manufacturing and industrial facilities.
+
+(2) **Requirements** — The program shall include—
+
+  (A) a research and development program;
+
+  (B) large-scale pilot projects;
+
+  (C) demonstration projects, in accordance with paragraph (4); and
+
+  (D) a front-end engineering and design program.
+
+(3) **Program goals and objectives** — In consultation with the interested entities described in paragraph (6)(C), the Secretary shall develop goals and objectives for the program to be applied to the transformational technologies developed within the program, taking into consideration the following:
+
+  (A) Increasing the performance of coal electric generation facilities and natural gas electric generation facilities, including by—
+
+    (i) ensuring reliable, low-cost power from new and existing coal electric generation facilities and natural gas electric generation facilities;
+
+    (ii) achieving high conversion efficiencies;
+
+    (iii) addressing emissions of carbon dioxide and other air pollutants;
+
+    (iv) developing small-scale and modular technologies to support incremental capacity additions and load following generation, in addition to large-scale generation technologies;
+
+    (v) supporting dispatchable operations for new and existing applications of coal and natural gas generation; and
+
+    (vi) accelerating the development of technologies that have transformational energy conversion characteristics.
+
+  (B) Using carbon capture, utilization, and sequestration technologies to decrease the carbon dioxide emissions, and the environmental impact from carbon dioxide emissions, from new and existing coal electric generation facilities and natural gas electric generation facilities, including by—
+
+    (i) accelerating the development, deployment, and commercialization of technologies to capture and sequester carbon dioxide emissions from new and existing coal electric generation facilities and natural gas electric generation facilities;
+
+    (ii) supporting sites for safe geological storage of large volumes of anthropogenic sources of carbon dioxide and the development of the infrastructure needed to support a carbon dioxide utilization and storage industry;
+
+    (iii) improving the conversion, utilization, and storage of carbon dioxide produced from fossil fuels and other anthropogenic sources of carbon dioxide;
+
+    (iv) lowering greenhouse gas emissions for all fossil fuel production, generation, delivery, and use, to the maximum extent practicable;
+
+    (v) developing carbon utilization technologies, products, and methods, including carbon use and reuse for commercial application;
+
+    (vi) developing net-negative carbon dioxide emissions technologies; and
+
+    (vii) developing technologies for the capture of carbon dioxide produced during the production of hydrogen from natural gas.
+
+  (C) Decreasing the non-carbon dioxide relevant environmental impacts of coal and natural gas production, including by—
+
+    (i) further reducing non-carbon dioxide air emissions; and
+
+    (ii) reducing the use, and managing the discharge, of water in power plant operations.
+
+  (D) Accelerating the development of technologies to significantly decrease emissions from manufacturing and industrial facilities, including—
+
+    (i) nontraditional fuel manufacturing facilities, including ethanol or other biofuel production plants or hydrogen production plants; and
+
+    (ii) energy-intensive manufacturing facilities that produce carbon dioxide as a byproduct of operations.
+
+  (E) Entering into cooperative agreements to carry out and expedite demonstration projects (including pilot projects) to demonstrate the technical and commercial viability of technologies to reduce carbon dioxide emissions released from coal electric generation facilities and natural gas electric generation facilities for commercial deployment.
+
+  (F) Identifying any barriers to the commercial deployment of any technologies under development for the capture of carbon dioxide produced by coal electric generation facilities and natural gas electric generation facilities.
+
+(4) **Demonstration projects**
+
+  (A) *In general* — In carrying out the program, the Secretary shall establish a demonstration program under which the Secretary, through a competitive, merit-reviewed process, shall enter into cooperative agreements by not later than September 30, 2025, for demonstration projects to demonstrate the construction and operation of 6 facilities to capture carbon dioxide from coal electric generation facilities, natural gas electric generation facilities, and industrial facilities.
+
+  (B) *Technical assistance* — The Secretary, to the maximum extent practicable, shall provide technical assistance to any eligible entity seeking to enter into a cooperative agreement described in subparagraph (A) for the purpose of obtaining any necessary permits and licenses to demonstrate qualifying technologies.
+
+  (C) *Eligible entities* — The Secretary may enter into cooperative agreements under subparagraph (A) with industry stakeholders, including any industry stakeholder operating in partnership with the National Laboratories, institutions of higher education, multiinstitutional collaborations, and other appropriate entities.
+
+  (D) *Commercial-scale demonstration projects*
+
+    (i) *In general* — In carrying out the program, the Secretary shall establish a carbon capture technology commercialization program to demonstrate substantial improvements in the efficiency, effectiveness, cost, and environmental performance of carbon capture technologies for power, industrial, and other commercial applications.
+
+    (ii) *Requirement* — The program established under clause (i) shall include funding for commercial-scale carbon capture technology demonstrations of projects supported by the Department, including projects in addition to the projects described in subparagraph (A), including funding for not more than 2 projects to demonstrate substantial improvements in a particular technology type beyond the first of a kind demonstration and to account for considerations described in subparagraph (G).
+
+  (E) *Requirement* — Of the demonstration projects carried out under subparagraph (A)—
+
+    (i) 2 shall be designed to capture carbon dioxide from a natural gas electric generation facility;
+
+    (ii) 2 shall be designed to capture carbon dioxide from a coal electric generation facility; and
+
+    (iii) 2 shall be designed to capture carbon dioxide from an industrial facility not purposed for electric generation.
+
+  (F) *Goals* — Each demonstration project under the demonstration program under subparagraph (A)—
+
+    (i) shall be designed to further the development, deployment, and commercialization of technologies to capture and sequester carbon dioxide emissions from new and existing coal electric generation facilities, natural gas electric generation facilities, and industrial facilities;
+
+    (ii) shall be financed in part by the private sector; and
+
+    (iii) if necessary, shall secure agreements for the offtake of carbon dioxide emissions captured by qualifying technologies during the project.
+
+  (G) *Applications*
+
+    (i) *In general* — To be eligible to enter into an agreement with the Secretary for a demonstration project under subparagraphs (A) and (D), an entity shall submit to the Secretary an application at such time, in such manner, and containing such information as the Secretary may require.
+
+    (ii) *Review of applications* — In reviewing applications submitted under clause (i), the Secretary, to the maximum extent practicable, shall—
+
+      (I) ensure a broad geographic distribution of project sites;
+
+      (II) ensure that a broad selection of electric generation facilities are represented;
+
+      (III) ensure that a broad selection of technologies are represented; and
+
+      (IV) leverage existing public-private partnerships and Federal resources.
+
+  (H) *GAO study and report*
+
+    (i) *Study and report*
+
+      (I) *In general* — Not later than 1 year after December 27, 2020, the Comptroller General of the United States shall conduct, and submit to the Committee on Energy and Natural Resources of the Senate and the Committee on Science, Space, and Technology of the House of Representatives a report on the results of, a study of the successes, failures, practices, and improvements of the Department in carrying out demonstration projects under this paragraph.
+
+      (II) *Considerations* — In conducting the study under subclause (I), the Comptroller General of the United States shall consider—
+
+        (aa) applicant and contractor qualifications;
+
+        (bb) project management practices at the Department;
+
+        (cc) economic or market changes and other factors impacting project viability;
+
+        (dd) completion of third-party agreements, including power purchase agreements and carbon dioxide offtake agreements;
+
+        (ee) regulatory challenges; and
+
+        (ff) construction challenges.
+
+    (ii) *Recommendations* — The Secretary shall—
+
+      (I) consider any relevant recommendations, as determined by the Secretary, provided in the report required under clause (i)(I); and
+
+      (II) adopt such recommendations as the Secretary considers appropriate.
+
+  (I) *Report*
+
+    (i) *In general* — Not later than 180 days after the date on which the Secretary solicits applications under subparagraph (G), and annually thereafter, the Secretary shall submit to the appropriate committees of jurisdiction of the Senate and the House of Representatives a report that includes a detailed description of how the applications under the demonstration program established under subparagraph (A) were or will be solicited and how the applications were or will be evaluated, including—
+
+      (I) a list of any activities carried out by the Secretary to solicit or evaluate the applications; and
+
+      (II) a process for ensuring that any projects carried out under a cooperative agreement entered into under subparagraph (A) are designed to result in the development or demonstration of qualifying technologies.
+
+    (ii) *Inclusions* — The Secretary shall include—
+
+      (I) in the first report required under clause (i), a detailed list of technical milestones for the development and demonstration of each qualifying technology pursued under the demonstration program established under subparagraph (A);
+
+      (II) in each subsequent report required under clause (i), a description of the progress made towards achieving the technical milestones described in subclause (I) during the applicable period covered by the report; and
+
+      (III) in each report required under clause (i)—
+
+        (aa) an estimate of the cost of licensing, permitting, constructing, and operating each carbon capture facility expected to be constructed under the demonstration program established under subparagraph (A);
+
+        (bb) a schedule for the planned construction and operation of each demonstration or pilot project under the demonstration program; and
+
+        (cc) an estimate of any financial assistance, compensation, or incentives proposed to be paid by the host State, Indian Tribe, or local government with respect to each facility described in item (aa).
+
+(5) **Intraagency coordination for carbon capture, utilization, and sequestration activities** — The carbon capture, utilization, and sequestration activities described in paragraph (3)(B) shall be carried out by the Assistant Secretary for Fossil Energy, in coordination with the heads of other relevant offices of the Department and the National Laboratories.
+
+(6) **Consultations required** — In carrying out the program, the Secretary shall—
+
+  (A) undertake international collaborations, taking into consideration the recommendations of the National Coal Council and the National Petroleum Council;
+
+  (B) use existing authorities to encourage international cooperation; and
+
+  (C) consult with interested entities, including—
+
+    (i) coal and natural gas producers;
+
+    (ii) industries that use coal and natural gas;
+
+    (iii) organizations that promote coal, advanced coal, and natural gas technologies;
 
     (iv) environmental organizations;
 
     (v) organizations representing workers; and
 
-    (vi) organizations representing consumers;
+    (vi) organizations representing consumers.
 
-  (C) not later than 120 days after August 8, 2005, publish in the Federal Register proposed draft cost and performance goals for public comments; and
+**(c) Report**
 
-  (D) not later than 180 days after August 8, 2005, and every 4 years thereafter, submit to Congress a report describing the final cost and performance goals for the technologies that includes—
+(1) **In general** — Not later than 18 months after December 27, 2020, the Secretary shall submit to Congress a report describing the program goals and objectives adopted under subsection (b)(3).
 
-    (i) a list of technical milestones; and
+(2) **Update** — Not less frequently than once every 2 years after the initial report is submitted under paragraph (1), the Secretary shall submit to Congress a report describing the progress made towards achieving the program goals and objectives adopted under subsection (b)(3).
 
-    (ii) an explanation of how programs authorized in this section will not duplicate the activities authorized under the Clean Coal Power Initiative authorized under subchapter IV.
+**(d) Funding**
 
-**(c) Powder River Basin and Fort Union lignite coal mercury removal**
+(1) **Authorization of appropriations** — There are authorized to be appropriated to the Secretary to carry out this section, to remain available until expended—
 
-(1) **In general** — In addition to the programs authorized by subsection (a), the Secretary shall establish a program to test and develop technologies to control and remove mercury emissions from subbituminous coal mined in the Powder River Basin, and Fort Union lignite coals, that are used for the generation of electricity.
+  (A) for activities under the research and development program component described in subsection (b)(2)(A)—
 
-(2) **Efficacy of mercury removal technology** — In carrying out the program under paragraph (1), the Secretary shall examine the efficacy of mercury removal technologies on coals described in that paragraph that are blended with other types of coal.
+    (i) $230,000,000 for each of fiscal years 2021 and 2022; and
 
-**(d) Fuel cells**
+    (ii) $150,000,000 for each of fiscal years 2023 through 2025;
 
-(1) **In general** — The Secretary shall conduct a program of research, development, demonstration, and commercial application on fuel cells for low-cost, high-efficiency, fuel-flexible, modular power systems.
+  (B) subject to paragraph (2), for activities under the large-scale pilot projects program component described in subsection (b)(2)(B)—
 
-(2) **Demonstrations** — The demonstrations referred to in paragraph (1) shall include solid oxide fuel cell technology for commercial, residential, and transportation applications, and distributed generation systems, using improved manufacturing production and processes.
+    (i) $225,000,000 for each of fiscal years 2021 and 2022;
+
+    (ii) $200,000,000 for each of fiscal years 2023 and 2024; and
+
+    (iii) $150,000,000 for fiscal year 2025;
+
+  (C) for activities under the demonstration projects program component described in subsection (b)(2)(C)—
+
+    (i) $500,000,000 for each of fiscal years 2021 though 2024; and
+
+    (ii) $600,000,000 for fiscal year 2025; and
+
+  (D) for activities under the front-end engineering and design program described in subsection (b)(2)(D), $50,000,000 for each of fiscal years 2021 through 2024.
+
+(2) **Cost sharing for large-scale pilot projects** — Activities under subsection (b)(2)(B) shall be subject to the cost-sharing requirements of [section 16352(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section16352/b&num=0&edition=prelim).
+
+**(e) Carbon capture test centers**
+
+(1) **In general** — Not later than 2 years after December 27, 2020, the Secretary shall award grants to 1 or more entities for the operation of 1 or more test centers (referred to in this subsection as a “Center”) to provide distinct testing capabilities for innovative carbon capture technologies.
+
+(2) **Purpose** — Each Center shall—
+
+  (A) advance research, development, demonstration, and commercial application of carbon capture technologies;
+
+  (B) support large-scale pilot projects and demonstration projects and test carbon capture technologies; and
+
+  (C) develop front-end engineering design and economic analysis.
+
+(3) **Selection**
+
+  (A) *In general* — The Secretary shall select entities to receive grants under this subsection according to such criteria as the Secretary may develop.
+
+  (B) *Competitive basis* — The Secretary shall select entities to receive grants under this subsection on a competitive basis.
+
+  (C) *Priority criteria* — In selecting entities to receive grants under this subsection, the Secretary shall prioritize consideration of applicants that—
+
+    (i) have access to existing or planned research facilities for carbon capture technologies;
+
+    (ii) are institutions of higher education with established expertise in engineering for carbon capture technologies, or partnerships with such institutions of higher education; or
+
+    (iii) have access to existing research and test facilities for bulk materials design and testing, component design and testing, or professional engineering design.
+
+  (D) *Existing centers* — In selecting entities to receive grants under this subsection, the Secretary shall prioritize carbon capture test centers in existence on December 27, 2020.
+
+(4) **Formula for awarding grants** — The Secretary may develop a formula for awarding grants under this subsection.
+
+(5) **Schedule**
+
+  (A) *In general* — Each grant awarded under this subsection shall be for a term of not more than 5 years, subject to the availability of appropriations.
+
+  (B) *Renewal* — The Secretary may renew a grant for 1 or more additional 5-year terms, subject to a competitive merit review and the availability of appropriations.
+
+(6) **Termination** — To the extent otherwise authorized by law, the Secretary may eliminate, and terminate grant funding under this subsection for, a Center during any 5-year term described in paragraph (5) if the Secretary determines that the Center is underperforming.
+
+(7) **Authorization of appropriations** — There is authorized to be appropriated to carry out this subsection $25,000,000 for each of fiscal years 2021 through 2025.
 
 ### Statutory Notes
 
-#### References in Text
-Subchapter IV, referred to in subsecs. (a) and (b)(2)(D)(ii), was in the original “title IV”, meaning title IV of Pub. L. 109–58, Aug. 8, 2005, 119 Stat. 749, which enacted subchapter IV of this chapter and subchapter XIII (§ 13571 et seq.) of chapter 134 of this title, amended sections 201, 202a, 203, and 207 of Title 30, Mineral Lands and Mining, and enacted provisions set out as notes under [section 15801 of this title](./chapter-149-national-energy-policy-and-programs.md#section-15801) and [section 201 of Title 30](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title30-section201&num=0&edition=prelim). For complete classification of title IV to the Code, see Tables.
+#### Prior Provisions
+A prior section 16292, Pub. L. 109–58, title IX, § 962, Aug. 8, 2005, 119 Stat. 890, related to coal and related technologies program, prior to repeal by Pub. L. 116–260, div. Z, title IV, § 4002(a), Dec. 27, 2020, 134 Stat. 2528.
 
 
-<a id="section-16296"></a>
-## § 16296. Carbon capture and sequestration research, development, and demonstration program
-**(a) In general** The Secretary shall carry out a 10-year carbon capture and sequestration research, development, and demonstration program to develop carbon dioxide capture and sequestration technologies related to industrial sources of carbon dioxide for use—
+<a id="section-16297"></a>
+## § 16297. Carbon storage validation and testing
+**(a) Definitions** In this section:
 
-(1) in new coal utilization facilities; and
+(1) **Large-scale carbon sequestration** — The term “large-scale carbon sequestration” means a scale that—
 
-(2) on the fleet of coal-based units in existence on August 8, 2005.
+  (A) demonstrates the ability to inject into geologic formations and sequester carbon dioxide; and
 
-**(b) Objectives** The objectives of the program under subsection (a) shall be—
+  (B) has a goal of sequestering not less than 50 million metric tons of carbon dioxide over a 10-year period.
 
-(1) to develop carbon dioxide capture technologies, including adsorption and absorption techniques and chemical processes, to remove the carbon dioxide from gas streams containing carbon dioxide potentially amenable to sequestration;
+(2) **Program** — The term “program” means the program established under subsection (b)(1).
 
-(2) to develop technologies that would directly produce concentrated streams of carbon dioxide potentially amenable to sequestration;
+**(b) Carbon storage program**
 
-(3) to increase the efficiency of the overall system to reduce the quantity of carbon dioxide emissions released from the system per megawatt generated;
+(1) **In general** — The Secretary shall establish a program of research, development, and demonstration for carbon storage.
 
-(4) in accordance with the carbon dioxide capture program, to promote a robust carbon sequestration program and continue the work of the Department, in conjunction with the private sector, through regional carbon sequestration partnerships; and
+(2) **Program activities** — Activities under the program shall include—
 
-(5) to expedite and carry out large-scale testing of carbon sequestration systems in a range of geologic formations that will provide information on the cost and feasibility of deployment of sequestration technologies.
+  (A) in coordination with relevant Federal agencies, developing and maintaining mapping tools and resources that assess the capacity of geologic storage formation in the United States;
 
-**(c) Programmatic activities**
+  (B) developing monitoring tools, modeling of geologic formations, and analyses—
 
-(1) **Fundamental science and engineering research and development and demonstration supporting carbon capture and sequestration technologies and carbon use activities**
+    (i) to predict carbon dioxide containment; and
 
-  (A) *In general* — The Secretary shall carry out fundamental science and engineering research (including laboratory-scale experiments, numeric modeling, and simulations) to develop and document the performance of new approaches to capture and sequester, or use carbon dioxide to lead to an overall reduction of carbon dioxide emissions.
+    (ii) to account for sequestered carbon dioxide in geologic storage sites;
 
-  (B) *Program integration* — The Secretary shall ensure that fundamental research carried out under this paragraph is appropriately applied to energy technology development activities, the field testing of carbon sequestration, and carbon use activities, including—
+  (C) researching—
 
-    (i) development of new or advanced technologies for the capture and sequestration of carbon dioxide;
+    (i) potential environmental, safety, and health impacts in the event of a leak into the atmosphere or to an aquifer; and
 
-    (ii) development of new or advanced technologies that reduce the cost and increase the efficacy of advanced compression of carbon dioxide required for the sequestration of carbon dioxide;
+    (ii) any corresponding mitigation actions or responses to limit harmful consequences of such a leak;
 
-    (iii) modeling and simulation of geologic sequestration field demonstrations;
+  (D) evaluating the interactions of carbon dioxide with formation solids and fluids, including the propensity of injections to induce seismic activity;
 
-    (iv) quantitative assessment of risks relating to specific field sites for testing of sequestration technologies;
+  (E) assessing and ensuring the safety of operations relating to geologic sequestration of carbon dioxide;
 
-    (v) research and development of new and advanced technologies for carbon use, including recycling and reuse of carbon dioxide; and
+  (F) determining the fate of carbon dioxide concurrent with and following injection into geologic formations;
 
-    (vi) research and development of new and advanced technologies for the separation of oxygen from air.
+  (G) supporting cost and business model assessments to examine the economic viability of technologies and systems developed under the program; and
 
-(2) **Field validation testing activities**
+  (H) providing information to the Environmental Protection Agency, States, local governments, Tribal governments, and other appropriate entities, to ensure the protection of human health and the environment.
 
-  (A) *In general* — The Secretary shall promote, to the maximum extent practicable, regional carbon sequestration partnerships to conduct geologic sequestration tests involving carbon dioxide injection and monitoring, mitigation, and verification operations in a variety of candidate geologic settings, including—
+(3) **Geologic settings** — In carrying out research activities under this subsection, the Secretary shall consider a variety of candidate onshore and offshore geologic settings, including—
 
-    (i) operating oil and gas fields;
+  (A) operating oil and gas fields;
 
-    (ii) depleted oil and gas fields;
+  (B) depleted oil and gas fields;
 
-    (iii) unmineable coal seams;
+  (C) residual oil zones;
 
-    (iv) deep saline formations;
+  (D) unconventional reservoirs and rock types;
 
-    (v) deep geologic systems that may be used as engineered reservoirs to extract economical quantities of heat from geothermal resources of low permeability or porosity; and
+  (E) unmineable coal seams;
 
-    (vi) deep geologic systems containing basalt formations.
+  (F) saline formations in both sedimentary and basaltic geologies;
 
-  (B) *Objectives* — The objectives of tests conducted under this paragraph shall be—
+  (G) geologic systems that may be used as engineered reservoirs to extract economical quantities of brine from geothermal resources of low permeability or porosity; and
 
-    (i) to develop and validate geophysical tools, analysis, and modeling to monitor, predict, and verify carbon dioxide containment;
+  (H) geologic systems containing in situ carbon dioxide mineralization formations.
 
-    (ii) to validate modeling of geologic formations;
+**(c) Large-scale carbon sequestration demonstration program**
 
-    (iii) to refine sequestration capacity estimated for particular geologic formations;
+(1) **In general** — The Secretary shall establish a demonstration program under which the Secretary shall provide funding for demonstration projects to collect and validate information on the cost and feasibility of commercial deployment of large-scale carbon sequestration technologies.
 
-    (iv) to determine the fate of carbon dioxide concurrent with and following injection into geologic formations;
+(2) **Existing regional carbon sequestration partnerships** — In carrying out paragraph (1), the Secretary may provide additional funding to regional carbon sequestration partnerships that are carrying out or have completed a large-scale carbon sequestration demonstration project under this section (as in effect on the day before December 27, 2020) for additional work on that project.
 
-    (v) to develop and implement best practices for operations relating to, and monitoring of, carbon dioxide injection and sequestration in geologic formations;
+(3) **Demonstration components** — Each demonstration project carried out under this subsection shall include longitudinal tests involving carbon dioxide injection and monitoring, mitigation, and verification operations.
 
-    (vi) to assess and ensure the safety of operations related to geologic sequestration of carbon dioxide;
+(4) **Clearinghouse** — The National Energy Technology Laboratory shall act as a clearinghouse of shared information and resources for—
 
-    (vii) to allow the Secretary to promulgate policies, procedures, requirements, and guidance to ensure that the objectives of this subparagraph are met in large-scale testing and deployment activities for carbon capture and sequestration that are funded by the Department of Energy; and
+  (A) existing or completed demonstration projects receiving additional funding under paragraph (2); and
 
-    (viii) to provide information to States, the Environmental Protection Agency, and other appropriate entities to support development of a regulatory framework for commercial-scale sequestration operations that ensure the protection of human health and the environment.
+  (B) any new demonstration projects funded under this subsection.
 
-(3) **Large-scale carbon dioxide sequestration testing**
+(5) **Report** — Not later than 1 year after December 27, 2020, the Secretary shall submit to the Committee on Energy and Natural Resources of the Senate and the Committee on Science, Space, and Technology of the House of Representatives a report that—
 
-  (A) *In general* — The Secretary shall conduct not less than 7 initial large-scale sequestration tests, not including the FutureGen project, for geologic containment of carbon dioxide to collect and validate information on the cost and feasibility of commercial deployment of technologies for geologic containment of carbon dioxide. These 7 tests may include any Regional Partnership projects awarded as of December 19, 2007.
+  (A) assesses the progress of all regional carbon sequestration partnerships carrying out a demonstration project under this subsection;
 
-  (B) *Diversity of formations to be studied* — In selecting formations for study under this paragraph, the Secretary shall consider a variety of geologic formations across the United States, and require characterization and modeling of candidate formations, as determined by the Secretary.
+  (B) identifies the remaining challenges in achieving large-scale carbon sequestration that is reliable and safe for the environment and public health; and
 
-  (C) *Source of carbon dioxide for large-scale sequestration tests* — In the process of any acquisition of carbon dioxide for sequestration tests under subparagraph (A), the Secretary shall give preference to sources of carbon dioxide from industrial sources. To the extent feasible, the Secretary shall prefer tests that would facilitate the creation of an integrated system of capture, transportation and sequestration of carbon dioxide. The preference provided for under this subparagraph shall not delay the implementation of the large-scale sequestration tests under this paragraph.
+  (C) creates a roadmap for carbon storage research and development activities of the Department through 2025, with the goal of reducing economic and policy barriers to commercial carbon sequestration.
 
-  (D) *Definition* — For purposes of this paragraph, the term “large-scale” means the injection of more than 1,000,000 tons of carbon dioxide from industrial sources annually or a scale that demonstrates the ability to inject and sequester several million metric tons of industrial source carbon dioxide for a large number of years.
+**(d) Integrated storage**
 
-(4) **Preference in project selection from meritorious proposals** — In making competitive awards under this subsection, subject to the requirements of [section 16353 of this title](./chapter-149-national-energy-policy-and-programs.md#section-16353), the Secretary shall—
+(1) **In general** — The Secretary may transition large-scale carbon sequestration demonstration projects under subsection (c) into integrated commercial storage complexes.
 
-  (A) give preference to proposals from partnerships among industrial, academic, and government entities; and
+(2) **Goals and objectives** — The goals and objectives of the Secretary in seeking to transition large-scale carbon sequestration demonstration projects into integrated commercial storage complexes under paragraph (1) shall be—
 
-  (B) require recipients to provide assurances that all laborers and mechanics employed by contractors and subcontractors in the construction, repair, or alteration of new or existing facilities performed in order to carry out a demonstration or commercial application activity authorized under this subsection shall be paid wages at rates not less than those prevailing on similar construction in the locality, as determined by the Secretary of Labor in accordance with subchapter IV of chapter 31 of title 40, and the Secretary of Labor shall, with respect to the labor standards in this paragraph, have the authority and functions set forth in Reorganization Plan Numbered 14 of 1950 (15 Fed. Reg. 3176; 5 U.S.C. Appendix) and [section 3145 of title 40](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40-section3145&num=0&edition=prelim).
+  (A) to identify geologic storage sites that are able to accept large volumes of carbon dioxide acceptable for commercial contracts;
 
-(5) **Cost sharing** — Activities under this subsection shall be considered research and development activities that are subject to the cost sharing requirements of [section 16352(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section16352/b&num=0&edition=prelim).
+  (B) to understand the technical and commercial viability of carbon dioxide geologic storage sites; and
 
-(6) **Program review and report** — During fiscal year 2011, the Secretary shall—
+  (C) to carry out any other activities necessary to transition the large-scale carbon sequestration demonstration projects under subsection (c) into integrated commercial storage complexes.
 
-  (A) conduct a review of programmatic activities carried out under this subsection; and
+**(e) Preference in project selection from meritorious proposals** In making competitive awards under this section, subject to the requirements of [section 16353 of this title](./chapter-149-national-energy-policy-and-programs.md#section-16353), the Secretary shall—
 
-  (B) make recommendations with respect to continuation of the activities.
+(1) give preference to proposals from partnerships among industrial, academic, and government entities; and
 
-**(d) Authorization of appropriations** There are authorized to be appropriated to carry out this section—
+(2) require recipients to provide assurances that all laborers and mechanics employed by contractors and subcontractors in the construction, repair, or alteration of new or existing facilities performed in order to carry out a demonstration or commercial application activity authorized under this section shall be paid wages at rates not less than those prevailing on similar construction in the locality, as determined by the Secretary of Labor in accordance with subchapter IV of chapter 31 of title 40, and the Secretary of Labor shall, with respect to the labor standards in this paragraph, have the authority and functions set forth in Reorganization Plan Numbered 14 of 1950 (15 Fed. Reg. 3176; 5 U.S.C. Appendix) and [section 3145 of title 40](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40-section3145&num=0&edition=prelim).
 
-(1) $240,000,000 for fiscal year 2008;
+**(f) Cost sharing** Activities carried out under this section shall be subject to the cost-sharing requirements of [section 16352 of this title](./chapter-149-national-energy-policy-and-programs.md#section-16352).
 
-(2) $240,000,000 for fiscal year 2009;
+**(g) Authorization of appropriations** There are authorized to be appropriated to the Secretary to carry out this section—
 
-(3) $240,000,000 for fiscal year 2010;
+(1) $200,000,000 for fiscal year 2021;
 
-(4) $240,000,000 for fiscal year 2011; and
+(2) $200,000,000 for fiscal year 2022;
 
-(5) $240,000,000 for fiscal year 2012.
+(3) $150,000,000 for fiscal year 2023;
+
+(4) $150,000,000 for fiscal year 2024; and
+
+(5) $100,000,000 for fiscal year 2025.
 
 ### Statutory Notes
 
 #### Amendments
+2020—Pub. L. 116–260, § 4003(a)(4), substituted “Carbon storage validation and testing” for “Carbon capture and sequestration research, development, and demonstration program” in section catchline.
+
+Subsecs. (a), (b). Pub. L. 116–260, § 4003(a)(4), added subsecs. (a) and (b) and struck out former subsecs. (a) and (b) which related to the establishment of a carbon capture and sequestration research, development, and demonstration program and program objectives.
+
+Subsec. (c). Pub. L. 116–260, § 4003(a)(4), added subsec. (c) and struck out pars. (1) to (3) of former subsec. (c) which related to fundamental science and engineering research and development and demonstration supporting carbon capture and sequestration technologies and carbon use activities, field validation testing activities, and large-scale carbon dioxide sequestration testing, respectively.
+
+Subsec. (c)(4). Pub. L. 116–260, § 4003(a)(2)(B), redesignated par. (4) as subsec. (e).
+
+Subsec. (c)(5), (6). Pub. L. 116–260, § 4003(a)(2)(A), struck out pars. (5) and (6) which related to cost sharing and program review and report.
+
+Subsec. (d). Pub. L. 116–260, § 4003(a)(4), added subsec. (d).
+
+Pub. L. 116–260, § 4003(a)(1), struck out subsec. (d) which authorized appropriations for fiscal years 2008 to 2012.
+
+Subsec. (e). Pub. L. 116–260, § 4003(a)(3), redesignated subpars. (A) and (B) as pars. (1) and (2), respectively, substituted “section” for “subsection” in introductory provisions and in par. (2), and realigned margins.
+
+Pub. L. 116–260, § 4003(a)(2)(B), redesignated par. (4) of subsec. (c) as (e).
+
+Subsec. (f). Pub. L. 116–260, § 4003(a)(2)(A), added subsec. (f).
+
+Subsec. (g). Pub. L. 116–260, § 4003(a)(1), added subsec. (g).
+
 2007—Pub. L. 110–140, § 702(a)(1), substituted “and sequestration research, development, and demonstration” for “research and development” in section catchline.
 
 Subsec. (a). Pub. L. 110–140, § 702(a)(2), in introductory provisions, substituted “and sequestration research, development, and demonstration” for “research and development” and “capture and sequestration technologies related to industrial sources of carbon dioxide” for “capture technologies on combustion-based systems”.
@@ -7062,8 +8845,8 @@ Subsecs. (c), (d). Pub. L. 110–140, § 702(a)(4), added subsecs. (c) and (d) a
 Amendment by Pub. L. 110–140 effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as an Effective Date note under [section 1824 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1824&num=0&edition=prelim), The Congress.
 
 
-<a id="section-16297"></a>
-## § 16297. Research and development for coal mining technologies
+<a id="section-16298"></a>
+## § 16298. Research and development for coal mining technologies
 **(a) Establishment** The Secretary shall carry out a program for research and development on coal mining technologies.
 
 **(b) Cooperation** In carrying out the program, the Secretary shall cooperate with appropriate Federal agencies, coal producers, trade associations, equipment manufacturers, institutions of higher education with mining engineering departments, and other relevant entities.
@@ -7087,8 +8870,8 @@ Amendment by Pub. L. 110–140 effective on the date that is 1 day after Dec. 19
 (4) expand mining research capabilities at institutions of higher education.
 
 
-<a id="section-16311"></a>
-## § 16311. Oil and gas research programs
+<a id="section-16298a"></a>
+## § 16298a. Oil and gas research programs
 **(a) In general** The Secretary shall conduct a program of research, development, demonstration, and commercial application of oil and gas, including—
 
 (1) exploration and production;
@@ -7128,8 +8911,8 @@ Amendment by Pub. L. 110–140 effective on the date that is 1 day after Dec. 19
   (F) Education on energy and power generation issues.
 
 
-<a id="section-16312"></a>
-## § 16312. Low-volume oil and gas reservoir research program
+<a id="section-16298b"></a>
+## § 16298b. Low-volume oil and gas reservoir research program
 **(a) Definition of GIS** In this section, the term “GIS” means geographic information systems technology that facilitates the organization and management of data with a geographic component.
 
 **(b) Program** The Secretary shall establish a program of research, development, demonstration, and commercial application to maximize the productive capacity of marginal wells and reservoirs.
@@ -7161,14 +8944,536 @@ Amendment by Pub. L. 110–140 effective on the date that is 1 day after Dec. 19
 **(f) Public information** The Secretary may use the data collected and analyzed under this section to produce maps and literature to disseminate to States to promote conservation of natural gas reserves.
 
 
-<a id="section-16313"></a>
-## § 16313. Complex Well Technology Testing Facility
+<a id="section-16298c"></a>
+## § 16298c. Complex Well Technology Testing Facility
 
 The Secretary, in coordination with industry leaders in extended research drilling technology, shall establish a Complex Well Technology Testing Facility at the Rocky Mountain Oilfield Testing Center to increase the range of extended drilling technologies.
 
 
+<a id="section-16298d"></a>
+## § 16298d. Carbon utilization program
+**(a) In general** The Secretary, in consultation with the Administrator of the Environmental Protection Agency, shall carry out a program of research, development, demonstration, and commercialization relating to carbon utilization.
+
+**(b) Activities** Under the program described in subsection (a), the Secretary shall—
+
+(1) assess and monitor—
+
+  (A) potential changes in lifecycle carbon dioxide and other greenhouse gas emissions; and
+
+  (B) other environmental safety indicators of new technologies, practices, processes, or methods used in enhanced hydrocarbon recovery as part of the activities authorized under [section 16293 of this title](./chapter-149-national-energy-policy-and-programs.md#section-16293);
+
+(2) identify and evaluate novel uses for carbon (including conversion of carbon oxides) that, on a full lifecycle basis, achieve a permanent reduction, or avoidance of a net increase, in carbon dioxide in the atmosphere, for use in commercial and industrial products such as—
+
+  (A) chemicals;
+
+  (B) plastics;
+
+  (C) building materials;
+
+  (D) fuels;
+
+  (E) cement;
+
+  (F) products of coal utilization in power systems or in other applications; and
+
+  (G) other products with demonstrated market value;
+
+(3) identify and assess carbon capture technologies for industrial systems; and
+
+(4) identify and assess alternative uses for coal that result in zero net emissions of carbon dioxide or other pollutants, including products derived from carbon engineering, carbon fiber, and coal conversion methods.
+
+**(c) Prioritization** In supporting demonstration and commercialization research under the program described in subsection (a), the Secretary shall prioritize consideration of projects that—
+
+(1) have access to a carbon dioxide emissions stream generated by a stationary source in the United States that is capable of supplying not less than 250 metric tons per day of carbon dioxide for research;
+
+(2) have access to equipment for testing small-scale carbon dioxide utilization technologies, with onsite access to larger test bays for scale-up; and
+
+(3) have 1 or more existing partnerships with a National Laboratory, an institution of higher education, a private company, or a State or other government entity.
+
+**(d) Coordination** The Secretary shall coordinate the activities authorized under this section with the activities authorized in [section 16298a of this title](./chapter-149-national-energy-policy-and-programs.md#section-16298a) as part of a single consolidated program of the Department.
+
+**(e) Authorization of appropriations** There is authorized to be appropriated to the Secretary to carry out this section $50,000,000, to remain available until expended.
+
+
+<a id="section-16298e"></a>
+## § 16298e. Carbon utilization program
+**(a) In general** The Secretary shall establish a program of research, development, and demonstration for carbon utilization—
+
+(1) to assess and monitor—
+
+  (A) potential changes in lifecycle carbon dioxide and other greenhouse gas emissions; and
+
+  (B) other environmental safety indicators of new technologies, practices, processes, or methods used in enhanced hydrocarbon recovery as part of the activities authorized under [section 16293 of this title](./chapter-149-national-energy-policy-and-programs.md#section-16293);
+
+(2) to identify and assess novel uses for carbon, including the conversion of carbon and carbon oxides for commercial and industrial products and other products with potential market value;
+
+(3) to identify and assess carbon capture technologies for industrial systems; and
+
+(4) to identify and assess alternative uses for raw coal and processed coal products in all phases that result in no significant emissions of carbon dioxide or other pollutants, including products derived from carbon engineering, carbon fiber, and coal conversion methods.
+
+**(b) Demonstration programs for the purpose of commercialization**
+
+(1) **In general** — Not later than 180 days after December 27, 2020, as part of the program established under subsection (a), the Secretary shall establish a 2-year demonstration program in each of the 2 major coal-producing regions of the United States for the purpose of partnering with private institutions in coal mining regions to accelerate the commercial deployment of coal-carbon products.
+
+(2) **Cost sharing** — Activities under paragraph (1) shall be subject to the cost-sharing requirements of [section 16352 of this title](./chapter-149-national-energy-policy-and-programs.md#section-16352).
+
+**(c) Carbon Utilization Research Center**
+
+(1) **In general** — In carrying out the program under subsection (a), the Secretary shall establish and operate a national Carbon Utilization Research Center (referred to in this subsection as the “Center”), which shall focus on early stage research and development activities including—
+
+  (A) post-combustion and pre-combustion capture of carbon dioxide;
+
+  (B) advanced compression technologies for new and existing fossil fuel-fired power plants;
+
+  (C) technologies to convert carbon dioxide to valuable products and commodities; and
+
+  (D) advanced carbon dioxide storage technologies that consider a range of storage regimes.
+
+(2) **Selection** — The Secretary shall—
+
+  (A) select the Center under this subsection on a competitive, merit-reviewed basis; and
+
+  (B) consider applications from the National Laboratories, institutions of higher education, multiinstitutional collaborations, and other appropriate entities.
+
+(3) **Existing centers** — In selecting the Center under this subsection, the Secretary shall prioritize carbon utilization research centers in existence on December 27, 2020.
+
+(4) **Duration** — The Center established under this subsection shall receive support for a period of not more than 5 years, subject to the availability of appropriations.
+
+(5) **Renewal** — On the expiration of any period of support of the Center, the Secretary may renew support for the Center, on a merit-reviewed basis, for a period of not more than 5 years.
+
+(6) **Termination** — Consistent with the existing authorities of the Department, the Secretary may terminate the Center for cause during the performance period.
+
+**(d) Authorization of appropriations** There are authorized to be appropriated to the Secretary to carry out this section—
+
+(1) $54,000,000 for fiscal year 2021;
+
+(2) $55,250,000 for fiscal year 2022;
+
+(3) $56,562,500 for fiscal year 2023;
+
+(4) $57,940,625 for fiscal year 2024; and
+
+(5) $59,387,656 for fiscal year 2025.
+
+**(e) Coordination** The Secretary shall coordinate the activities authorized in this section with the activities authorized in [section 16298 of this title](./chapter-149-national-energy-policy-and-programs.md#section-16298) as part of one consolidated program at the Department. Nothing in [section 16298 of this title](./chapter-149-national-energy-policy-and-programs.md#section-16298) shall be construed as limiting the authorities provided in this section.
+
+
+<a id="section-16311"></a>
+## § 16311. High efficiency turbines
+**(a) In general** The Secretary, acting through the Assistant Secretary for Fossil Energy (referred to in this section as the “Secretary”), shall establish a multiyear, multiphase program (referred to in this section as the “program”) of research, development, and technology demonstration to improve the efficiency of gas turbines used in power generation systems and aviation.
+
+**(b) Program elements** The program shall—
+
+(1) support first-of-a-kind engineering and detailed gas turbine design for small-scale and utility-scale electric power generation, including—
+
+  (A) high temperature materials, including superalloys, coatings, and ceramics;
+
+  (B) improved heat transfer capability;
+
+  (C) manufacturing technology required to construct complex 3-dimensional geometry parts with improved aerodynamic capability;
+
+  (D) combustion technology to produce higher firing temperature while lowering nitrogen oxide and carbon monoxide emissions per unit of output;
+
+  (E) advanced controls and systems integration;
+
+  (F) advanced high performance compressor technology; and
+
+  (G) validation facilities for the testing of components and subsystems;
+
+(2) include technology demonstration through component testing, subscale testing, and full-scale testing in existing fleets;
+
+(3) include field demonstrations of the developed technology elements to demonstrate technical and economic feasibility;
+
+(4) assess overall combined cycle and simple cycle system performance;
+
+(5) increase fuel flexibility by enabling gas turbines to operate with high proportions of, or pure, hydrogen or other renewable gas fuels;
+
+(6) enhance foundational knowledge needed for low-emission combustion systems that can work in high-pressure, high-temperature environments required for high-efficiency cycles;
+
+(7) increase operational flexibility by reducing turbine start-up times and improving the ability to accommodate flexible power demand; and
+
+(8) include any other elements necessary to achieve the goals described in subsection (c), as determined by the Secretary, in consultation with private industry.
+
+**(c) Program goals**
+
+(1) **In general** — The goals of the program shall be—
+
+  (A) in phase I, to develop a conceptual design of, and to develop and demonstrate the technology required for—
+
+    (i) advanced high efficiency gas turbines to achieve, on a lower heating value basis—
+
+      (I) a combined cycle efficiency of not less than 65 percent; or
+
+      (II) a simple cycle efficiency of not less than 47 percent; and
+
+    (ii) aviation gas turbines to achieve a 25 percent reduction in fuel burn by improving fuel efficiency to existing best-in-class turbo-fan engines; and
+
+  (B) in phase II, to develop a conceptual design of advanced high efficiency gas turbines that can achieve, on a lower heating value basis—
+
+    (i) a combined cycle efficiency of not less than 67 percent; or
+
+    (ii) a simple cycle efficiency of not less than 50 percent.
+
+(2) **Additional goals** — If a goal described in paragraph (1) has been achieved, the Secretary, in consultation with private industry and the National Academy of Sciences, may develop additional goals or phases for advanced gas turbine research and development.
+
+**(d) Financial assistance**
+
+(1) **In general** — The Secretary may provide financial assistance, including grants, to carry out the program.
+
+(2) **Proposals** — Not later than 180 days after December 27, 2020, the Secretary shall solicit proposals from industry, small businesses, universities, and other appropriate parties for conducting activities under this section.
+
+(3) **Considerations** — In selecting proposed projects to receive financial assistance under this subsection, the Secretary shall give special consideration to the extent to which the proposed project will—
+
+  (A) stimulate the creation or increased retention of jobs in the United States; and
+
+  (B) promote and enhance technology leadership in the United States.
+
+(4) **Competitive awards** — The Secretary shall provide financial assistance under this subsection on a competitive basis, with an emphasis on technical merit.
+
+(5) **Cost sharing** — Financial assistance provided under this subsection shall be subject to the cost sharing requirements of [section 16352 of this title](./chapter-149-national-energy-policy-and-programs.md#section-16352).
+
+**(e) Authorization of appropriations** There is authorized to be appropriated to carry out this section $50,000,000 for each of fiscal years 2021 through 2025.
+
+
+<a id="section-16312"></a>
+## § 16312. National Energy Technology Laboratory reforms
+**(a) Special hiring authority for scientific, engineering, and project management personnel**
+
+(1) **In general** — The Director of the National Energy Technology Laboratory (referred to in this section as the “Director”) may—
+
+  (A) make appointments to positions in the National Energy Technology Laboratory to assist in meeting a specific project or research need, without regard to civil service laws, of individuals who—
+
+    (i) have an advanced scientific or engineering background; or
+
+    (ii) have a business background and can assist in specific technology-to-market needs;
+
+  (B) fix the basic pay of any employee appointed under subparagraph (A) at a rate not to exceed level II of the Executive Schedule under [section 5313 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5313&num=0&edition=prelim); and
+
+  (C) pay any employee appointed under subparagraph (A) payments in addition to the basic pay fixed under subparagraph (B), subject to the condition that the total amount of additional payments paid to an employee under this subparagraph for any 12-month period shall not exceed the least of—
+
+    (i) $25,000;
+
+    (ii) the amount equal to 25 percent of the annual rate of basic pay of that employee; and
+
+    (iii) the amount of the limitation that is applicable for a calendar year under [section 5307(a)(1) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5307/a/1&num=0&edition=prelim).
+
+(2) **Limitations**
+
+  (A) *In general* — The term of any employee appointed under paragraph (1)(A) shall not exceed 3 years.
+
+  (B) *Full-time employees* — Not more than 10 full-time employees appointed under paragraph (1)(A) may be employed at the National Energy Technology Laboratory at any given time.
+
+**(b) Laboratory-directed research and development**
+
+(1) **In general** — Beginning in fiscal year 2021, the National Energy Technology Laboratory shall be eligible for laboratory-directed research and development funding.
+
+(2) **Authorization of funding**
+
+  (A) *In general* — Each fiscal year, of funds made available to the National Energy Technology Laboratory, the Secretary may deposit an amount, not to exceed the rate made available to the National Laboratories for laboratory-directed research and development, in a special fund account.
+
+  (B) *Use* — Amounts in the account under subparagraph (A) shall only be available for laboratory-directed research and development.
+
+  (C) *Requirements* — The account under subparagraph (A)—
+
+    (i) shall be administered by the Secretary;
+
+    (ii) shall be available without fiscal year limitation; and
+
+    (iii) shall not be subject to appropriation.
+
+(3) **Requirement** — The Director shall carry out laboratory-directed research and development activities at the National Energy Technology Laboratory consistent with Department of Energy Order 413.2C, dated August 2, 2018 (or a successor order).
+
+(4) **Annual report on use of authority** — Annually, the Secretary shall submit to the Committee on Energy and Natural Resources of the Senate and the Committee on Science, Space, and Technology of the House of Representatives a report on the use of the authority provided under this subsection during the preceding fiscal year.
+
+**(c) Laboratory operations** The Secretary shall delegate human resources operations of the National Energy Technology Laboratory to the Director to assist in carrying out this section.
+
+**(d) Review** Not later than 2 years after December 27, 2020, the Secretary shall submit to the Committee on Energy and Natural Resources of the Senate and the Committee on Science, Space, and Technology of the House of Representatives a report assessing the management and research activities of the National Energy Technology Laboratory, which shall include—
+
+(1) an assessment of the quality of science and research at the National Energy Technology Laboratory, relative to similar work at other National Laboratories;
+
+(2) a review of the effectiveness of authorities provided in subsections (a) and (b); and
+
+(3) recommendations for policy changes within the Department and legislative changes to provide the National Energy Technology Laboratory with the necessary tools and resources to advance the research mission of the National Energy Technology Laboratory.
+
+
+<a id="section-16313"></a>
+## § 16313. Carbon removal
+**(a) Establishment** The Secretary, in coordination with the heads of appropriate Federal agencies, including the Secretary of Agriculture, shall establish a research, development, and demonstration program (referred to in this section as the “program”) to test, validate, or improve technologies and strategies to remove carbon dioxide from the atmosphere on a large scale.
+
+**(b) Intraagency coordination** The Secretary shall ensure that the program includes the coordinated participation of the Office of Fossil Energy, the Office of Science, and the Office of Energy Efficiency and Renewable Energy.
+
+**(c) Program activities** The program may include research, development, and demonstration activities relating to—
+
+(1) direct air capture and storage technologies;
+
+(2) bioenergy with carbon capture and sequestration;
+
+(3) enhanced geological weathering;
+
+(4) agricultural practices;
+
+(5) forest management and afforestation; and
+
+(6) planned or managed carbon sinks, including natural and artificial.
+
+**(d) Requirements** In developing and identifying carbon removal technologies and strategies under the program, the Secretary shall consider—
+
+(1) land use changes, including impacts on natural and managed ecosystems;
+
+(2) ocean acidification;
+
+(3) net greenhouse gas emissions;
+
+(4) commercial viability;
+
+(5) potential for near-term impact;
+
+(6) potential for carbon reductions on a gigaton scale; and
+
+(7) economic cobenefits.
+
+**(e) Air capture prize competitions**
+
+(1) **Definitions** — In this subsection:
+
+  (A) *Dilute media* — The term “dilute media” means media in which the concentration of carbon dioxide is less than 1 percent by volume.
+
+  (B) *Prize competition* — The term “prize competition” means the competitive technology prize competition established under paragraph (2).
+
+  (C) *Qualified carbon dioxide*
+
+    (i) *In general* — The term “qualified carbon dioxide” means any carbon dioxide that—
+
+      (I) is captured directly from the ambient air; and
+
+      (II) is measured at the source of capture and verified at the point of disposal, injection, or utilization.
+
+    (ii) *Inclusion* — The term “qualified carbon dioxide” includes the initial deposit of captured carbon dioxide used as a tertiary injectant.
+
+    (iii) *Exclusion* — The term “qualified carbon dioxide” does not include carbon dioxide that is recaptured, recycled, and reinjected as part of the enhanced oil and natural gas recovery process.
+
+  (D) *Qualified direct air capture facility*
+
+    (i) *In general* — The term “qualified direct air capture facility” means any facility that—
+
+      (I) uses carbon capture equipment to capture carbon dioxide directly from the ambient air; and
+
+      (II) captures more than 50,000 metric tons of qualified carbon dioxide annually.
+
+    (ii) *Exclusion* — The term “qualified direct air capture facility” does not include any facility that captures carbon dioxide—
+
+      (I) that is deliberately released from naturally occurring subsurface springs; or
+
+      (II) using natural photosynthesis.
+
+(2) **Establishment** — Not later than 2 years after December 27, 2020, the Secretary, in consultation with the Administrator of the Environmental Protection Agency, shall establish as part of the program a competitive technology prize competition to award prizes for—
+
+  (A) precommercial carbon dioxide capture from dilute media; and
+
+  (B) commercial applications of direct air capture technologies.
+
+(3) **Requirements** — In carrying out this subsection, the Secretary, in accordance with [section 3719 of title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section3719&num=0&edition=prelim), shall develop requirements for—
+
+  (A) the prize competition process; and
+
+  (B) monitoring and verification procedures for projects selected to receive a prize under the prize competition.
+
+(4) **Eligible projects**
+
+  (A) *Precommercial air capture projects* — With respect to projects described in paragraph (2)(A), to be eligible to be awarded a prize under the prize competition, a project shall—
+
+    (i) meet minimum performance standards set by the Secretary;
+
+    (ii) meet minimum levels set by the Secretary for the capture of carbon dioxide from dilute media; and
+
+    (iii) demonstrate in the application of the project for a prize—
+
+      (I) a design for a promising carbon capture technology that will—
+
+        (aa) be operated on a demonstration scale; and
+
+        (bb) have the potential to achieve significant reduction in the level of carbon dioxide in the atmosphere;
+
+      (II) a successful bench-scale demonstration of a carbon capture technology; or
+
+      (III) an operational carbon capture technology on a commercial scale.
+
+  (B) *Commercial direct air capture projects*
+
+    (i) *In general* — With respect to projects described in paragraph (2)(B), the Secretary shall award prizes under the prize competition to qualified direct air capture facilities for metric tons of qualified carbon dioxide captured and verified at the point of disposal, injection, or utilization.
+
+    (ii) *Amount of award* — The amount of the award per metric ton under clause (i)—
+
+      (I) shall be equal for each qualified direct air capture facility selected for a prize under the prize competition; and
+
+      (II) shall be determined by the Secretary and in any case shall not exceed—
+
+        (aa) $180 for qualified carbon dioxide captured and stored in saline storage formations;
+
+        (bb) a lesser amount, as determined by the Secretary, for qualified carbon dioxide captured and stored in conjunction with enhanced oil recovery operations; or
+
+        (cc) a lesser amount, as determined by the Secretary, for qualified carbon dioxide captured and utilized in any activity consistent with [section 45Q(f)(5) of title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section45Q/f/5&num=0&edition=prelim).
+
+    (iii) *Requirement* — The Secretary shall make awards under this subparagraph until appropriated funds are expended.
+
+**(f) Direct air capture test center**
+
+(1) **In general** — Not later than 2 years after December 27, 2020, the Secretary shall award grants to 1 or more entities for the operation of 1 or more test centers (referred to in this subsection as a “Center”) to provide distinct testing capabilities for innovative direct air capture and storage technologies.
+
+(2) **Purpose** — Each Center shall—
+
+  (A) advance research, development, demonstration, and commercial application of direct air capture and storage technologies;
+
+  (B) support large-scale pilot and demonstration projects and test direct air capture and storage technologies; and
+
+  (C) develop front-end engineering design and economic analysis.
+
+(3) **Selection**
+
+  (A) *In general* — The Secretary shall select entities to receive grants under this subsection according to such criteria as the Secretary may develop.
+
+  (B) *Competitive basis* — The Secretary shall select entities to receive grants under this subsection on a competitive basis.
+
+  (C) *Priority criteria* — In selecting entities to receive grants under this subsection, the Secretary shall prioritize consideration of applicants that—
+
+    (i) have access to existing or planned research facilities for direct air capture and storage technologies;
+
+    (ii) are institutions of higher education with established expertise in engineering for direct air capture and storage technologies, or partnerships with such institutions of higher education; or
+
+    (iii) have access to existing research and test facilities for bulk materials design and testing, component design and testing, or professional engineering design.
+
+(4) **Formula for awarding grants** — The Secretary may develop a formula for awarding grants under this subsection.
+
+(5) **Schedule**
+
+  (A) *In general* — Each grant awarded under this subsection shall be for a term of not more than 5 years, subject to the availability of appropriations.
+
+  (B) *Renewal* — The Secretary may renew a grant for 1 or more additional 5-year terms, subject to a competitive merit review and the availability of appropriations.
+
+(6) **Termination** — To the extent otherwise authorized by law, the Secretary may eliminate, and terminate grant funding under this subsection for, a Center during any 5-year term described in paragraph (5) if the Secretary determines that the Center is underperforming.
+
+**(g) Pilot and demonstration projects** In supporting the technology development activities under this section, the Secretary is encouraged to support carbon removal pilot and demonstration projects, including—
+
+(1) pilot projects that test direct air capture systems capable of capturing 10 to 100 tonnes of carbon oxides per year to provide data for demonstration-scale projects; and
+
+(2) direct air capture demonstration projects capable of capturing greater than 1,000 tonnes of carbon oxides per year.
+
+**(h) Intraagency collaboration** In carrying out the program, the Secretary shall encourage and promote collaborations among relevant offices and agencies within the Department.
+
+**(i) Accounting** The Secretary shall collaborate with the Administrator of the Environmental Protection Agency and the heads of other relevant Federal agencies to develop and improve accounting frameworks and tools to accurately measure carbon removal and sequestration methods and technologies.
+
+**(j) Authorization of appropriations** There are authorized to be appropriated to the Secretary to carry out this section—
+
+(1) $175,000,000 for fiscal year 2021, of which—
+
+  (A) $15,000,000 shall be used to carry out subsection (e)(2)(A), to remain available until expended; and
+
+  (B) $100,000,000 shall be used to carry out subsection (e)(2)(B), to remain available until expended;
+
+(2) $63,500,000 for fiscal year 2022;
+
+(3) $66,150,000 for fiscal year 2023;
+
+(4) $69,458,000 for fiscal year 2024; and
+
+(5) $72,930,000 for fiscal year 2025.
+
+### Statutory Notes
+
+#### Application
+Provisions of [section 3212 of this title](./chapter-038-public-works-and-economic-development.md#section-3212) applicable to construction, alteration, or repair work of demonstration projects funded by grants or contracts authorized under this section, see section 9006(b) of div. Z of Pub. L. 116–260, set out as a note under [section 16237 of this title](./chapter-149-national-energy-policy-and-programs.md#section-16237).
+
+
 <a id="section-16314"></a>
-## § 16314. Science
+## § 16314. Carbon dioxide removal task force and report
+**(a) Definition of carbon dioxide removal** In this section, the term “carbon dioxide removal” means the capture of carbon dioxide directly from ambient air or, in dissolved form, from seawater, combined with the sequestration of that carbon dioxide, including through—
+
+(1) direct air capture and sequestration;
+
+(2) enhanced carbon mineralization;
+
+(3) bioenergy with carbon capture and sequestration;
+
+(4) forest restoration;
+
+(5) soil carbon management; and
+
+(6) direct ocean capture.
+
+**(b) Report** Not later than 180 days after December 27, 2020, the Secretary of Energy (in this section referred to as the “Secretary”), in consultation with the heads of any other relevant Federal agencies, shall prepare a report that—
+
+(1) estimates the magnitude of excess carbon dioxide in the atmosphere that will need to be removed by 2050 to achieve net-zero emissions and stabilize the climate;
+
+(2) inventories current and emerging approaches of carbon dioxide removal and evaluates the advantages and disadvantages of each of the approaches; and
+
+(3) identifies recommendations for legislation, funding, rules, revisions to rules, financing mechanisms, or other policy tools that the Federal Government can use to sufficiently advance the deployment of carbon dioxide removal projects in order to meet, in the aggregate, the magnitude of needed removals estimated under paragraph (1), including policy tools, such as—
+
+  (A) grants;
+
+  (B) loans or loan guarantees;
+
+  (C) public-private partnerships;
+
+  (D) direct procurement;
+
+  (E) incentives, including subsidized Federal financing mechanisms available to project developers;
+
+  (F) advance market commitments;
+
+  (G) regulations; and
+
+  (H) any other policy mechanism determined by the Secretary to be beneficial for advancing carbon dioxide removal methods and the deployment of carbon dioxide removal projects.
+
+**(c) Submission; publication** The Secretary shall—
+
+(1) submit the report prepared under subsection (b) to the Committee on Energy and Natural Resources of the Senate and the Committees on Energy and Commerce and Science, Space, and Technology of the House of Representatives; and
+
+(2) as soon as practicable after completion of the report, make the report publicly available.
+
+**(d) Evaluation; revision**
+
+(1) **In general** — Not later than 2 years after the date on which the Secretary publishes the report under subsection (c)(2), and every 2 years thereafter, the Secretary shall evaluate the findings and recommendations of the report, or the most recent updated report submitted under paragraph (2)(B), as applicable, taking into consideration any issues and recommendations identified by the task force established under subsection (e)(1).
+
+(2) **Revision** — After completing each evaluation under paragraph (1), the Secretary shall—
+
+  (A) revise the report as necessary; and
+
+  (B) if the Secretary revises the report under subparagraph (A), submit and publish the updated report in accordance with subsection (c).
+
+**(e) Task force**
+
+(1) **Establishment and duties** — Not later than 60 days after December 27, 2020, the Secretary shall establish a task force—
+
+  (A) to identify barriers to advancement of carbon dioxide removal methods and the deployment of carbon dioxide removal projects;
+
+  (B) to inventory existing or potential Federal legislation, rules, revisions to rules, financing mechanisms, or other policy tools that are capable of advancing carbon dioxide removal methods and the deployment of carbon dioxide removal projects;
+
+  (C) to assist in preparing the report described in subsection (b) and any updates to the report under subsection (d); and
+
+  (D) to advise the Secretary on matters pertaining to carbon dioxide removal.
+
+(2) **Members and selection** — The Secretary shall—
+
+  (A) develop criteria for the selection of members to the task force established under paragraph (1); and
+
+  (B) select members for the task force in accordance with the criteria developed under subparagraph (A).
+
+(3) **Meetings** — The task force shall meet not less frequently than once each year.
+
+(4) **Evaluation** — Not later than 7 years after December 27, 2020, the Secretary shall—
+
+  (A) reevaluate the need for the task force established under paragraph (1); and
+
+  (B) submit to Congress a recommendation as to whether the task force should continue.
+
+### Statutory Notes
+
+#### Codification
+Section was enacted as part of the Energy Act of 2020, and not as part of the Energy Policy Act of 2005 which comprises this chapter.
+
+
+<a id="section-16315"></a>
+## § 16315. Science
 **(a) In general** The Secretary shall conduct, through the Office of Science, programs of research, development, demonstration, and commercial application in high energy physics, nuclear physics, biological and environmental research, basic energy sciences, advanced scientific computing research, and fusion energy sciences, including activities described in this part. The programs shall include support for facilities and infrastructure, education, outreach, information, analysis, and coordination activities.
 
 **(b) Authorization of appropriations** There are authorized to be appropriated to the Secretary to carry out research, development, demonstration, and commercial application activities of the Office of Science, including activities authorized under this part (including the amounts authorized under the amendment made by section 976(b) 11 See References in Text note below. and including basic energy sciences, advanced scientific and computing research, biological and environmental research, fusion energy sciences, high energy physics, nuclear physics, research analysis, and infrastructure support)—
@@ -7242,8 +9547,8 @@ Section 976, referred to in subsecs. (b) and (c)(6), is section 976 of Pub. L. 1
 2007—Subsec. (b)(4). Pub. L. 110–69 added par. (4).
 
 
-<a id="section-16315"></a>
-## § 16315. Fusion energy sciences program
+<a id="section-16316"></a>
+## § 16316. Fusion energy sciences program
 **(a) Declaration of policy** It shall be the policy of the United States to conduct research, development, demonstration, and commercial applications to provide for the scientific, engineering, and commercial infrastructure necessary to ensure that the United States is competitive with other countries in providing fusion energy for its own needs and the needs of other countries, including by demonstrating electric power or hydrogen production for the United States energy grid using fusion energy at the earliest date.
 
 **(b) Planning**
@@ -7274,77 +9579,27 @@ Section 976, referred to in subsecs. (b) and (c)(6), is section 976 of Pub. L. 1
 
 **(c) United States participation in ITER**
 
-(1) **Definitions** — In this subsection:
+(1) **In general** — There is authorized United States participation in the construction and operations of the ITER project, as agreed to under the April 25, 2007 “Agreement on the Establishment of the ITER International Fusion Energy Organization for the Joint Implementation of the ITER Project”. The Director shall coordinate and carry out the responsibilities of the United States with respect to this Agreement.
 
-  (A) *Construction*
+(2) **Report** — Not later than 1 year after the date of enactment of this section, the Secretary shall submit to Congress a report providing an assessment of the most recent schedule for ITER that has been approved by the ITER Council.
 
-    (i) *In general* — The term “construction” means—
+(3) **Authorization of appropriations** — Out of funds authorized to be appropriated under section 18645(o) of this title, there shall be made available to the Secretary to carry out the construction of ITER—
 
-      (I) the physical construction of the ITER facility; and
+  (A) $374,000,000 for fiscal year 2021; and
 
-      (II) the physical construction, purchase, or manufacture of equipment or components that are specifically designed for the ITER facility.
+  (B) $281,000,000 for each of fiscal years 2022 through 2025.
 
-    (ii) *Exclusions* — The term “construction” does not include the design of the facility, equipment, or components.
+### Statutory Notes
 
-  (B) *ITER* — The term “ITER” means the international burning plasma fusion research project in which the President announced United States participation on January 30, 2003, or any similar international project.
+#### References in Text
+The date of enactment of this section, referred to in subsec. (c)(2), probably means the date of enactment of Pub. L. 116–260, which enacted subsec. (c) of this section and was approved Dec. 27, 2020.
 
-(2) **Participation** — The United States may participate in the ITER only in accordance with this subsection.
-
-(3) **Agreement**
-
-  (A) *In general* — The Secretary may negotiate an agreement for United States participation in the ITER.
-
-  (B) *Contents* — Any agreement for United States participation in the ITER shall, at a minimum—
-
-    (i) clearly define the United States financial contribution to construction and operating costs, as well as any other costs associated with a project;
-
-    (ii) ensure that the share of high-technology components of the ITER manufactured in the United States is at least proportionate to the United States financial contribution to the ITER;
-
-    (iii) ensure that the United States will not be financially responsible for cost overruns in components manufactured in other ITER participating countries;
-
-    (iv) guarantee the United States full access to all data generated by the ITER;
-
-    (v) enable United States researchers to propose and carry out an equitable share of the experiments at the ITER;
-
-    (vi) provide the United States with a role in all collective decisionmaking related to the ITER; and
-
-    (vii) describe the process for discontinuing or decommissioning the ITER and any United States role in that process.
-
-(4) **Plan**
-
-  (A) *Development* — The Secretary, in consultation with the Fusion Energy Sciences Advisory Committee, shall develop a plan for the participation of United States scientists in the ITER that shall include—
-
-    (i) the United States research agenda for the ITER;
-
-    (ii) methods to evaluate whether the ITER is promoting progress toward making fusion a reliable and affordable source of power; and
-
-    (iii) a description of how work at the ITER will relate to other elements of the United States fusion program.
-
-  (B) *Review* — The Secretary shall request a review of the plan by the National Academy of Sciences.
-
-(5) **Limitation** — No Federal funds shall be expended for the construction of the ITER until the Secretary has submitted to Congress—
-
-  (A) the agreement negotiated in accordance with paragraph (3) and 120 days have elapsed since that submission;
-
-  (B) a report describing the management structure of the ITER and providing a fixed dollar estimate of the cost of United States participation in the construction of the ITER, and 120 days have elapsed since that submission;
-
-  (C) a report describing how United States participation in the ITER will be funded without reducing funding for other programs in the Office of Science (including other fusion programs), and 60 days have elapsed since that submission; and
-
-  (D) the plan required by paragraph (4) (but not the National Academy of Sciences review of that plan), and 60 days have elapsed since that submission.
-
-(6) **Alternative to ITER**
-
-  (A) *In general* — If at any time during the negotiations on the ITER, the Secretary determines that construction and operation of the ITER is unlikely or infeasible, the Secretary shall submit to Congress, along with the budget request of the President submitted to Congress for the following fiscal year, a plan for implementing a domestic burning plasma experiment such as the Fusion Ignition Research Experiment, including costs and schedules for the plan.
-
-  (B) *Administration* — The Secretary shall—
-
-    (i) refine the plan in full consultation with the Fusion Energy Sciences Advisory Committee; and
-
-    (ii) transmit the plan to the National Academy of Sciences for review.
+#### Amendments
+2020—Subsec. (c). Pub. L. 116–260 amended subsec. (c) generally. Prior to amendment, subsec. (c) related to United States participation in ITER.
 
 
-<a id="section-16316"></a>
-## § 16316. Solar Fuels Research Initiative
+<a id="section-16317"></a>
+## § 16317. Solar Fuels Research Initiative
 **(a) Initiative**
 
 (1) **In general** — The Secretary shall carry out a research initiative, to be known as the “Solar Fuels Research Initiative” (referred to in this section as the “Initiative”) to expand theoretical and fundamental knowledge of photochemistry, electrochemistry, biochemistry, and materials science useful for the practical development of experimental systems to convert solar energy to chemical energy.
@@ -7415,15 +9670,15 @@ Section 976, referred to in subsecs. (b) and (c)(6), is section 976 of Pub. L. 1
 2018—Pub. L. 115–246 amended section generally. Prior to amendment, section related to catalysis research program.
 
 
-<a id="section-16317"></a>
-## § 16317. Hydrogen
+<a id="section-16318"></a>
+## § 16318. Hydrogen
 **(a) In general** The Secretary shall conduct a program of fundamental research and development in support of programs authorized under subchapter VIII.
 
 **(b) Methods** The program shall include support for methods of generating hydrogen without the use of natural gas.
 
 
-<a id="section-16318"></a>
-## § 16318. Electricity Storage Research Initiative
+<a id="section-16319"></a>
+## § 16319. Electricity Storage Research Initiative
 **(a) Initiative**
 
 (1) **In general** — The Secretary shall carry out a research initiative, to be known as the “Electricity Storage Research Initiative” (referred to in this section as the “Initiative”)—
@@ -7504,8 +9759,8 @@ Section 976, referred to in subsecs. (b) and (c)(6), is section 976 of Pub. L. 1
 2018—Pub. L. 115–246 amended section generally. Prior to amendment, text read as follows: “The Secretary shall conduct a program of fundamental research on solid state lighting in support of the Next Generation Lighting Initiative carried out under [section 16192 of this title](./chapter-149-national-energy-policy-and-programs.md#section-16192).”
 
 
-<a id="section-16319"></a>
-## § 16319. Advanced scientific computing research and development program
+<a id="section-16320"></a>
+## § 16320. Advanced scientific computing research and development program
 (1) **In general** — The Secretary shall conduct an advanced scientific computing research and development program that includes activities related to applied mathematics and activities authorized by the American Super Computing Leadership Act of 2017 ([15 U.S.C. 5541](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section5541&num=0&edition=prelim) et seq.).
 
 (2) **Goal** — The Secretary shall carry out the program with the goal of supporting departmental missions, and providing the high-performance computational, networking, advanced visualization technologies, and workforce resources, that are required for world leadership in science.
@@ -7519,8 +9774,8 @@ The American Super Computing Leadership Act of 2017, referred to in par. (1), is
 2018—Par. (1). Pub. L. 115–246 substituted “American Super Computing Leadership Act of 2017” for “Department of Energy High-End Computing Revitalization Act of 2004”.
 
 
-<a id="section-16320"></a>
-## § 16320. Systems biology program
+<a id="section-16321"></a>
+## § 16321. Systems biology program
 **(a) Program**
 
 (1) **Establishment** — The Secretary shall establish a research, development, and demonstration program in microbial and plant systems biology, protein science, computational biology, and environmental science to support the energy, national security, and environmental missions of the Department.
@@ -7597,8 +9852,8 @@ Subsec. (f). Pub. L. 110–140, § 233, added subsec. (f).
 Amendment by Pub. L. 110–140 effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as an Effective Date note under [section 1824 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1824&num=0&edition=prelim), The Congress.
 
 
-<a id="section-16321"></a>
-## § 16321. Fission and fusion energy materials research program
+<a id="section-16322"></a>
+## § 16322. Fission and fusion energy materials research program
 **(a) In general** Along with the budget request of the President submitted to Congress for fiscal year 2007, the Secretary shall establish a research and development program on material science issues presented by advanced fission reactors and the fusion energy program of the Department.
 
 **(b) Administration** In carrying out the program, the Secretary shall develop—
@@ -7612,8 +9867,8 @@ Amendment by Pub. L. 110–140 effective on the date that is 1 day after Dec. 19
 (4) a roadmap to guide further research and development in the area covered by the program.
 
 
-<a id="section-16322"></a>
-## § 16322. Energy and water supplies
+<a id="section-16323"></a>
+## § 16323. Energy and water supplies
 **(a) In general** The Secretary shall carry out a program of research, development, demonstration, and commercial application to—
 
 (1) address energy-related issues associated with provision of adequate water supplies, optimal management, and efficient use of water;
@@ -7639,8 +9894,8 @@ Amendment by Pub. L. 110–140 effective on the date that is 1 day after Dec. 19
 **(f) Reports** Not later than 2 years after August 8, 2005, the Secretary shall submit to Congress a report on the assessment described in subsection (b) and recommendations for future actions.
 
 
-<a id="section-16323"></a>
-## § 16323. Spallation Neutron Source
+<a id="section-16324"></a>
+## § 16324. Spallation Neutron Source
 **(a) Definitions** In this section:
 
 (1) **SING** — The term “SING” means the Spallation Neutron Source Instruments Next Generation major item of equipment.
@@ -7710,8 +9965,8 @@ Amendment by Pub. L. 110–140 effective on the date that is 1 day after Dec. 19
   (B) *Insufficient stockpiles of heavy water* — If stockpiles of heavy water of the Department are insufficient to meet the needs of the Facility, there is authorized to be appropriated for the Facility $12,000,000 for fiscal year 2007.
 
 
-<a id="section-16324"></a>
-## § 16324. Facility for Rare Isotope Beams
+<a id="section-16325"></a>
+## § 16325. Facility for Rare Isotope Beams
 **(a) Establishment** The Secretary shall construct and operate a Facility for Rare Isotope Beams. The Secretary shall commence construction no later than September 30, 2008.
 
 **(b) Authorization of appropriations** There are authorized to be appropriated to the Secretary such sums as may be necessary to carry out this section. The Secretary shall not spend more than $1,100,000,000 in Federal funds for all activities associated with the Facility for Rare Isotope Beams, prior to operation of the Accelerator.
@@ -7722,14 +9977,14 @@ Amendment by Pub. L. 110–140 effective on the date that is 1 day after Dec. 19
 2018—Pub. L. 115–246 substituted “Facility for Rare Isotope Beams” for “Rare Isotope Accelerator” in section catchline and in subsecs. (a) and (b).
 
 
-<a id="section-16325"></a>
-## § 16325. Office of Scientific and Technical Information
+<a id="section-16341"></a>
+## § 16341. Office of Scientific and Technical Information
 
 The Secretary, through the Office of Scientific and Technical Information, shall maintain within the Department publicly available collections of scientific and technical information resulting from research, development, demonstration, and commercial applications activities supported by the Department.
 
 
-<a id="section-16341"></a>
-## § 16341. Science and engineering education pilot program
+<a id="section-16342"></a>
+## § 16342. Science and engineering education pilot program
 **(a) Establishment of pilot program** The Secretary shall award a grant to a Southeastern United States consortium of major research universities that currently advances science and education by partnering with National Laboratories, to establish a regional pilot program of its SEEK–16 program for enhancing scientific, technological, engineering, and mathematical literacy, creativity, and decision-making. The consortium shall include leading research universities, one or more universities that train substantial numbers of elementary and secondary school teachers, and (where appropriate) National Laboratories.
 
 **(b) Program elements** The regional pilot program shall include—
@@ -7754,8 +10009,8 @@ The Secretary, through the Office of Scientific and Technical Information, shall
 2014—Subsec. (d). Pub. L. 113–188 struck out subsec. (d). Text read as follows: “No later than 2 years after the award of the grant, the Secretary shall transmit to Congress a report outlining lessons learned and, if determined appropriate by the Secretary, containing a plan for expanding the program throughout the United States.”
 
 
-<a id="section-16342"></a>
-## § 16342. Energy research fellowships
+<a id="section-16351"></a>
+## § 16351. Energy research fellowships
 **(a) Postdoctoral fellowship program** The Secretary shall establish a program under which the Secretary provides fellowships to encourage outstanding young scientists and engineers to pursue postdoctoral research appointments in energy research and development at institutions of higher education of their choice.
 
 **(b) Senior research fellowships**
@@ -7769,15 +10024,15 @@ The Secretary, through the Office of Scientific and Technical Information, shall
   (B) the potential for continued accomplishment by the researcher during the period of the fellowship.
 
 
-<a id="section-16351"></a>
-## § 16351. Science and Technology Scholarship Program
+<a id="section-16352"></a>
+## § 16352. Science and Technology Scholarship Program
 **(a) In general** The Secretary is authorized to establish a Science and Technology Scholarship Program to award scholarships to individuals that is designed to recruit and prepare students for careers in the Department and National Laboratories.
 
 **(b) Service requirement** The Secretary may require that an individual receiving a scholarship under this section serve as a full-time employee of the Department or a National Laboratory for a fixed period in return for receiving the scholarship.
 
 
-<a id="section-16352"></a>
-## § 16352. Western Hemisphere energy cooperation
+<a id="section-16353"></a>
+## § 16353. Western Hemisphere energy cooperation
 **(a) Program** The Secretary shall carry out a program to promote cooperation on energy issues with countries of the Western Hemisphere.
 
 **(b) Activities** Under the program, the Secretary shall fund activities to work with countries of the Western Hemisphere to—
@@ -7811,8 +10066,8 @@ The Secretary, through the Office of Scientific and Technical Information, shall
 (3) $16,000,000 for fiscal year 2009.
 
 
-<a id="section-16353"></a>
-## § 16353. International energy training
+<a id="section-16354"></a>
+## § 16354. International energy training
 **(a) In general** The Secretary, in consultation with the Secretary of Commerce, the Secretary of the Interior, and Secretary of State, and the Federal Energy Regulatory Commission, shall coordinate training and outreach efforts for international commercial energy markets in countries with developing and restructuring economies.
 
 **(b) Components** The training and outreach efforts referred to in subsection (a) may include—
@@ -7830,8 +10085,8 @@ The Secretary, through the Office of Scientific and Technical Information, shall
 **(c) Authorization of appropriations** There is authorized to be appropriated to carry out this section $1,500,000 for each of fiscal years 2007 through 2010.
 
 
-<a id="section-16354"></a>
-## § 16354. Availability of funds
+<a id="section-16355"></a>
+## § 16355. Availability of funds
 
 Funds authorized to be appropriated to the Department under this Act or an amendment made by this Act shall remain available until expended.
 
@@ -7841,8 +10096,8 @@ Funds authorized to be appropriated to the Department under this Act or an amend
 This Act, referred to in text, is Pub. L. 109–58, Aug. 8, 2005, 119 Stat. 594, as amended, known as the Energy Policy Act of 2005, which enacted this chapter and enacted, amended, and repealed numerous other sections and notes in the Code. For complete classification of this Act to the Code, see Short Title note set out under [section 15801 of this title](./chapter-149-national-energy-policy-and-programs.md#section-15801) and Tables.
 
 
-<a id="section-16355"></a>
-## § 16355. Cost sharing
+<a id="section-16356"></a>
+## § 16356. Cost sharing
 **(a) Applicability** Notwithstanding any other provision of law, in carrying out a research, development, demonstration, or commercial application program or activity that is initiated after August 8, 2005, the Secretary shall require cost-sharing in accordance with this section.
 
 **(b) Research and development**
@@ -7912,8 +10167,8 @@ The Stevenson-Wydler Technology Innovation Act of 1980, referred to in subsec. (
 Subsec. (b)(4). Pub. L. 115–246, § 108(a)(2), added par. (4).
 
 
-<a id="section-16356"></a>
-## § 16356. Merit review of proposals
+<a id="section-16357"></a>
+## § 16357. Merit review of proposals
 **(a) Awards** Awards of funds authorized under this Act or an amendment made by this Act shall be made only after an impartial review of the scientific and technical merit of the proposals for the awards has been carried out by or for the Department.
 
 **(b) Competition** Competitive awards under this Act shall involve competitions open to all qualified entities within one or more of the following categories:
@@ -7936,8 +10191,8 @@ Subsec. (b)(4). Pub. L. 115–246, § 108(a)(2), added par. (4).
 This Act, referred to in subsecs. (a) and (b), is Pub. L. 109–58, Aug. 8, 2005, 119 Stat. 594, as amended, known as the Energy Policy Act of 2005, which enacted this chapter and enacted, amended, and repealed numerous other sections and notes in the Code. For complete classification of this Act to the Code, see Short Title note set out under [section 15801 of this title](./chapter-149-national-energy-policy-and-programs.md#section-15801) and Tables.
 
 
-<a id="section-16357"></a>
-## § 16357. External technical review of departmental programs
+<a id="section-16358"></a>
+## § 16358. External technical review of departmental programs
 **(a) National energy research and development advisory boards**
 
 (1) **Establishment** — The Secretary shall establish one or more advisory boards to review research, development, demonstration, and commercial application programs of the Department in energy efficiency, renewable energy, nuclear energy, and fossil energy.
@@ -7980,14 +10235,14 @@ The Federal Advisory Committee Act, referred to in subsec. (b), is Pub. L. 92–
 This Act, referred to in subsec. (e)(1)(A), is Pub. L. 109–58, Aug. 8, 2005, 119 Stat. 594, as amended, known as the Energy Policy Act of 2005, which enacted this chapter and enacted, amended, and repealed numerous other sections and notes in the Code. For complete classification of this Act to the Code, see Short Title note set out under [section 15801 of this title](./chapter-149-national-energy-policy-and-programs.md#section-15801) and Tables.
 
 
-<a id="section-16358"></a>
-## § 16358. National Laboratory designation
+<a id="section-16359"></a>
+## § 16359. National Laboratory designation
 
 After August 8, 2005, the Secretary shall not designate a facility that is not listed in [section 15801(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section15801/3&num=0&edition=prelim) as a National Laboratory.
 
 
-<a id="section-16359"></a>
-## § 16359. Report on equal employment opportunity practices
+<a id="section-16360"></a>
+## § 16360. Report on equal employment opportunity practices
 
 Not later than 12 months after August 8, 2005, and biennially thereafter, the Secretary shall transmit to Congress a report on the equal employment opportunity practices at National Laboratories. Such report shall include—
 
@@ -8006,8 +10261,8 @@ Not later than 12 months after August 8, 2005, and biennially thereafter, the Se
 (7) a summary of collaboration efforts with the Office of Federal Contract Compliance Programs to improve equal employment opportunity practices at the National Laboratories.
 
 
-<a id="section-16360"></a>
-## § 16360. Strategy for facilities and infrastructure
+<a id="section-16361"></a>
+## § 16361. Strategy for facilities and infrastructure
 **(a) Facility and infrastructure policy**
 
 (1) **In general** — The Secretary shall develop and implement a strategy for facilities and infrastructure supported primarily from the Office of Science, the Office of Energy Efficiency and Renewable Energy, the Office of Fossil Energy, or the Office of Nuclear Energy, Science and Technology Programs at all National Laboratories and single-purpose research facilities.
@@ -8044,8 +10299,8 @@ Not later than 12 months after August 8, 2005, and biennially thereafter, the Se
 Subsec. (b)(1). Pub. L. 115–246, § 205(a)(2), substituted “2018” for “2008”.
 
 
-<a id="section-16361"></a>
-## § 16361. Strategic research portfolio analysis and coordination plan
+<a id="section-16362"></a>
+## § 16362. Strategic research portfolio analysis and coordination plan
 **(a) In general** The Secretary shall periodically review all of the science and technology activities of the Department in a strategic framework that takes into account—
 
 (1) the frontiers of science to which the Department can contribute;
@@ -8094,8 +10349,8 @@ Subsec. (b)(1). Pub. L. 115–246, § 205(a)(2), substituted “2018” for “2
 A prior section 16358, Pub. L. 109–58, title IX, § 994, Aug. 8, 2005, 119 Stat. 914, which required the Secretary to periodically review Department of Energy science and technology activities taking into account the frontiers of science to which the Department can contribute and the national needs relevant to the Department’s statutory missions, was repealed by Pub. L. 115–246, title II, § 204, Sept. 28, 2018, 132 Stat. 3135.
 
 
-<a id="section-16362"></a>
-## § 16362. Competitive award of management contracts
+<a id="section-16371-to-16378"></a>
+## § 16371 to 16378. Competitive award of management contracts
 
 None of the funds authorized to be appropriated to the Secretary by this subchapter may be used to award a management and operating contract for a National Laboratory (excluding those named in subparagraphs (G), (H), (N), and (O) of [section 15801(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section15801/3&num=0&edition=prelim)), unless such contract is competitively awarded, or the Secretary grants, on a case-by-case basis, a waiver. The Secretary may not delegate the authority to grant such a waiver and shall submit to Congress a report notifying it of the waiver, and setting forth the reasons for the waiver, at least 60 days prior to the date of the award of such contract.
 
@@ -8103,17 +10358,6 @@ None of the funds authorized to be appropriated to the Secretary by this subchap
 
 #### References in Text
 This subchapter, referred to in text, was in the original “this title”, meaning title IX of Pub. L. 109–58, Aug. 8, 2005, 119 Stat. 856, which enacted this subchapter, amended sections 8101 and 8102 of Title 7, Agriculture, and [section 5523 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section5523&num=0&edition=prelim), Commerce and Trade, enacted provisions set out as notes under [section 15801 of this title](./chapter-149-national-energy-policy-and-programs.md#section-15801), [section 8102 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section8102&num=0&edition=prelim), and [section 2001 of Title 30](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title30-section2001&num=0&edition=prelim), Mineral Lands and Mining, and amended provisions set out as notes under [section 8101 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section8101&num=0&edition=prelim) and [section 1902 of Title 30](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title30-section1902&num=0&edition=prelim). For complete classification of title IX to the Code, see Short Title note set out under [section 15801 of this title](./chapter-149-national-energy-policy-and-programs.md#section-15801) and Tables.
-
-
-<a id="section-16371-to-16378"></a>
-## § 16371 to 16378. Western Michigan demonstration project
-
-The Administrator of the Environmental Protection Agency, in consultation with the State of Michigan and affected local officials, shall conduct a demonstration project to address the effect of transported ozone and ozone precursors in Southwestern Michigan. The demonstration program shall address projected nonattainment areas in Southwestern Michigan that include counties with design values for ozone of less than .095 based on years 2000 to 2002 or the most current 3-year period of air quality data. The Administrator shall assess any difficulties such areas may experience in meeting the 8-hour national ambient air quality standard for ozone due to the effect of transported ozone or ozone precursors into the areas. The Administrator shall work with State and local officials to determine the extent of ozone and ozone precursor transport, to assess alternatives to achieve compliance with the 8-hour standard apart from local controls, and to determine the timeframe in which such compliance could take place. The Administrator shall complete this demonstration project no later than 2 years after August 8, 2005, and shall not impose any requirement or sanction under the Clean Air Act ([42 U.S.C. 7401](./chapter-085-air-pollution-prevention-and-control.md#section-7401) et seq.) that might otherwise apply during the pendency of the demonstration project.
-
-### Statutory Notes
-
-#### References in Text
-The Clean Air Act, referred to in text, is act July 14, 1955, ch. 360, 69 Stat. 322, as amended, which is classified generally to chapter 85 (§ 7401 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 7401 of this title](./chapter-085-air-pollution-prevention-and-control.md#section-7401) and Tables.
 
 
 <a id="section-16391"></a>
@@ -8207,23 +10451,57 @@ Sec. 3. General Provisions. (a) This order shall be implemented consistent with 
 Barack Obama.
 
 
-<a id="section-16392"></a>
-## § 16392. Improved technology transfer of energy technologies
-**(a) Technology Transfer Coordinator** The Secretary shall appoint a Technology Transfer Coordinator to be the principal advisor to the Secretary on all matters relating to technology transfer and commercialization.
+<a id="section-16391a"></a>
+## § 16391a. Improved technology transfer of energy technologies
+**(a) Office of Technology Transitions**
 
-**(b) Qualifications** The Coordinator shall be an individual who, by reason of professional background and experience, is specially qualified to advise the Secretary on matters pertaining to technology transfer at the Department.
+(1) **Establishment** — There is established within the Department an Office of Technology Transitions (referred to in this section as the “Office”).
 
-**(c) Duties of the Coordinator** The Coordinator shall oversee—
+(2) **Mission** — The mission of the Office shall be—
 
-(1) the activities of the Technology Transfer Working Group established under subsection (d);
+  (A) to expand the commercial impact of the research investments of the Department; and
 
-(2) the expenditure of funds allocated for technology transfer within the Department;
+  (B) to focus on commercializing technologies that support the missions of the Department, including reducing greenhouse gas emissions and other pollutants.
 
-(3) the activities of each technology partnership ombudsman appointed under [section 7261c of this title](./chapter-084-department-of-energy.md#section-7261c); and
+(3) **Goals**
 
-(4) efforts to engage private sector entities, including venture capital companies.
+  (A) *In general* — In carrying out the mission and activities of the Office, the Chief Commercialization Officer appointed under paragraph (4) shall, with respect to commercialization activities, meet all of the goals described in subparagraph (B).
 
-**(d) Technology Transfer Working Group** The Secretary shall establish a Technology Transfer Working Group, which shall consist of representatives of the National Laboratories and single-purpose research facilities, to—
+  (B) *Goals described* — The goals referred to in subparagraph (A) are the following:
+
+    (i) Reduction of greenhouse gas emissions and other pollutants.
+
+    (ii) Ensuring economic competitiveness.
+
+    (iii) Enhancement of domestic energy security and national security.
+
+    (iv) Enhancement of domestic jobs.
+
+    (v) Improvement of energy efficiency.
+
+    (vi) Any other goals to support the transfer of technology developed by Department-funded programs to the private sector, as consistent with missions of the Department.
+
+(4) **Chief Commercialization Officer**
+
+  (A) *In general* — The Office shall be headed by an officer, who shall be known as the “Chief Commercialization Officer”, and who shall report directly to, and be appointed by, the Secretary.
+
+  (B) *Principal advisor* — The Chief Commercialization Officer shall be the principal advisor to the Secretary on all matters relating to technology transfer and commercialization.
+
+  (C) *Qualifications* — The Chief Commercialization Officer shall be an individual who, by reason of professional background and experience, is specially qualified to advise the Secretary on matters pertaining to technology transfer at the Department.
+
+  (D) *Duties* — The Chief Commercialization Officer shall oversee—
+
+    (i) the activities of the Technology Transfer Working Group established under subsection (b);
+
+    (ii) the expenditure of funds allocated for technology transfer within the Department;
+
+    (iii) the activities of each technology partnership ombudsman appointed under [section 7261c of this title](./chapter-084-department-of-energy.md#section-7261c); and
+
+    (iv) efforts to engage private sector entities, including venture capital companies.
+
+(5) **Coordination** — In carrying out the mission and activities of the Office, the Chief Commercialization Officer shall coordinate with the senior leadership of the Department, other relevant program offices of the Department, National Laboratories, the Technology Transfer Working Group established under subsection (b), the Technology Transfer Policy Board, and other stakeholders (including private industry).
+
+**(b) Technology Transfer Working Group** The Secretary shall establish a Technology Transfer Working Group, which shall consist of representatives of the National Laboratories and single-purpose research facilities, to—
 
 (1) coordinate technology transfer activities occurring at National Laboratories and single-purpose research facilities;
 
@@ -8231,27 +10509,129 @@ Barack Obama.
 
 (3) develop and disseminate to the public and prospective technology partners information about opportunities and procedures for technology transfer with the Department, including opportunities and procedures related to alternative approaches to resolution of disputes involving intellectual property rights and other technology transfer matters.
 
-**(e) Technology Commercialization Fund** The Secretary shall establish an Energy Technology Commercialization Fund, using 0.9 percent of the amount made available to the Department for applied energy research, development, demonstration, and commercial application for each fiscal year based on future planned activities and the amount of the appropriations for the fiscal year, to be used to provide matching funds with private partners to promote promising energy technologies for commercial purposes.
+**(c) Technology Commercialization Fund** The Secretary shall establish an Energy Technology Commercialization Fund, using 0.9 percent of the amount made available to the Department for applied energy research, development, demonstration, and commercial application for each fiscal year based on future planned activities and the amount of the appropriations for the fiscal year, to be used to provide matching funds with private partners to promote promising energy technologies for commercial purposes.
 
-**(f) Technology transfer responsibility** Nothing in this section affects the technology transfer responsibilities of Federal employees under the Stevenson-Wydler Technology Innovation Act of 1980 ([15 U.S.C. 3701](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section3701&num=0&edition=prelim) et seq.).
+**(d) Technology transfer responsibility** Nothing in this section affects the technology transfer responsibilities of Federal employees under the Stevenson-Wydler Technology Innovation Act of 1980 ([15 U.S.C. 3701](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section3701&num=0&edition=prelim) et seq.).
 
-**(g) Early stage technology demonstration** The Secretary shall permit the directors of the National Laboratories to use funds authorized to support technology transfer within the Department to carry out early stage and precommercial technology demonstration activities to remove technology barriers that limit private sector interest and demonstrate potential commercial applications of any research and technologies arising from National Laboratory activities.
+**(e) Technology Commercialization Fund**
 
-**(h) Planning and reporting**
+(1) **Establishment** — The Secretary, acting through the Chief Commercialization Officer established in subsection (a), shall establish a Technology Commercialization Fund (hereafter referred to as the “Fund”), using nine-tenths of one percent of the amount of appropriations made available to the Department for applied energy research, development, demonstration, and commercial application for each fiscal year, to be used to provide, in accordance with the cost-sharing requirements under [section 16352 of this title](./chapter-149-national-energy-policy-and-programs.md#section-16352), funds to private partners, including national laboratories, to promote promising energy technologies for commercial purposes.
+
+(2) **Applications**
+
+  (A) *Considerations* — The Secretary shall develop criteria for evaluating applications for funding under this section, which may include—
+
+    (i) the potential that a proposed technology will result in a commercially successful product within a reasonable timeframe; and
+
+    (ii) the relative maturity of a proposed technology for commercial application.
+
+  (B) *Selections* — In awarding funds under this section, the Secretary may give special consideration to applications that involve at least one applicant that has participated in an entrepreneurial or commercialization training program, such as Energy Innovation Corps.
+
+**(f) 11 So in original. There are two subsecs. (f). Annual report** The Secretary shall include in the annual report required under [section 16391a(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section16391a/a&num=0&edition=prelim)—
+
+(1) description of the projects carried out with awards from the Fund for that fiscal year;
+
+(2) each project’s cost-share for that fiscal year; and
+
+(3) each project’s partners for that fiscal year.
+
+**(g) 22 So in original. There are two subsecs. (g). Technology commercialization fund report**
+
+(1) **In general** — Not later than 1 year after December 27, 2020, the Secretary shall submit to the Committee on Science, Space, and Technology and Committee on Appropriations of the House of Representatives and the Committee on Energy and Natural Resources and Committee on Appropriations of the Senate a report on the current and recommended implementation of the Fund.
+
+(2) **Contents** — The report under subparagraph (A) shall include—
+
+  (A) a summary, with supporting data, of how much Department program offices contribute to and use the Fund each year, including a list of current funding restrictions;
+
+  (B) recommendations on how to improve implementation and administration of the Fund; and
+
+  (C) an analysis on how to spend funds optimally on technology areas that have the greatest need and opportunity for commercial application, rather than spending funds at the programmatic level or under current funding restrictions.
+
+**(f) 1 Planning and reporting**
 
 (1) **In general** — Not later than 180 days after August 8, 2005, the Secretary shall submit to Congress a technology transfer execution plan.
 
-(2) **Updates** — Each year after the submission of the plan under paragraph (1), the Secretary shall submit to Congress an updated execution plan and reports that describe progress toward meeting goals set forth in the execution plan and the funds expended under subsection (e).
+(2) **Updates** — Each year after the submission of the plan under paragraph (1), the Secretary shall submit to Congress an updated execution plan and reports that describe progress toward meeting goals set forth in the execution plan and the funds expended under subsection (c).
+
+**(g) 2 Additional technology transfer programs** The Secretary may develop additional programs to—
+
+(1) support regional energy innovation systems;
+
+(2) support clean energy incubators;
+
+(3) provide small business vouchers;
+
+(4) provide financial and technical assistance for entrepreneurial fellowships at national laboratories;
+
+(5) encourage students, energy researchers, and national laboratory employees to develop entrepreneurial skillsets and engage in entrepreneurial opportunities;
+
+(6) support private companies and individuals in partnering with National Laboratories; and
+
+(7) further support the mission and goals of the Office.
 
 ### Statutory Notes
 
 #### References in Text
-The Stevenson-Wydler Technology Innovation Act of 1980, referred to in subsec. (f), is Pub. L. 96–480, Oct. 21, 1980, 94 Stat. 2311, as amended, which is classified generally to chapter 63 (§ 3701 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under [section 3701 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section3701&num=0&edition=prelim) and Tables.
+The Stevenson-Wydler Technology Innovation Act of 1980, referred to in subsec. (d), is Pub. L. 96–480, Oct. 21, 1980, 94 Stat. 2311, which is classified generally to chapter 63 (§ 3701 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under [section 3701 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section3701&num=0&edition=prelim) and Tables.
 
 #### Amendments
+2020—Subsec. (a). Pub. L. 116–260, § 9001(1), added subsec. (a) through par. (4)(B) and struck out former subsec. (a). Prior to amendment, text read as follows: “The Secretary shall appoint a Technology Transfer Coordinator to be the principal advisor to the Secretary on all matters relating to technology transfer and commercialization.”
+
+Subsec. (a)(4)(C). Pub. L. 116–260, § 9001(1), redesignated subsec. (b) as subpar. (C) of subsec. (a)(4) and substituted “The Chief Commercialization Officer” for “The Coordinator”.
+
+Subsec. (a)(4)(D). Pub. L. 116–260, § 9001(2)(B), (C), redesignated subsec. (c) as subpar. (D) of subsec. (a)(4), substituted “Duties” for “Duties of the Coordinator” in heading and “The Chief Commercialization Officer” for “The Coordinator” in introductory provisions, and redesignated pars. (1) to (4) of former subsec. (c) as cls. (i) to (iv), respectively, of subpar. (D).
+
+Subsec. (a)(5). Pub. L. 116–260, § 9001(3), added par. (5).
+
+Subsec. (b). Pub. L. 116–260, § 9001(4), redesignated subsec. (d) as (b). Former subsec. (b) effectively redesignated subpar. (C) of subsec. (a)(4).
+
+Subsec. (c). Pub. L. 116–260, § 9001(4), redesignated subsec. (e) as (c). Former subsec. (c) effectively redesignated subpar. (D) of subsec. (a)(4).
+
+Subsec. (c)(1). Pub. L. 116–260, § 9001(2)(A), substituted “subsection (b)” for “subsection (d)” in par. (1) prior to its redesignation as cl. (i) of subsec. (a)(4)(D).
+
+Subsec. (d). Pub. L. 116–260, § 9001(4), redesignated subsec. (f) as (d). Former subsec. (d) redesignated (b).
+
+Subsec. (e). Pub. L. 116–260, § 9003, amended subsec. (e) generally. Prior to amendment, text read as follows: “The Secretary shall permit the directors of the National Laboratories to use funds authorized to support technology transfer within the Department to carry out early stage and precommercial technology demonstration activities to remove technology barriers that limit private sector interest and demonstrate potential commercial applications of any research and technologies arising from National Laboratory activities.”
+
+Pub. L. 116–260, § 9001(4), redesignated subsec. (g) as (e). Former subsec. (e) redesignated (c).
+
+Subsec. (f). Pub. L. 116–260, § 9003, which directed the general amendment of subsec. (e) and included in the new text a subsec. (f) relating to annual report, was executed by adding such subsec. (f).
+
+Pub. L. 116–260, § 9001(4), redesignated subsec. (h) as (f) relating to planning and reporting. Former subsec. (f) redesignated (d).
+
+Subsec. (f)(2). Pub. L. 116–260, § 9001(5), substituted “subsection (c)” for “subsection (e)” in par. (2) of subsec. (f) relating to planning and reporting.
+
+Subsec. (g). Pub. L. 116–260, § 9003, which directed the general amendment of subsec. (e) and included in the new text a subsec. (g) relating to Technology Commercialization Fund report, was executed by adding such subsec. (g).
+
+Pub. L. 116–260, § 9001(6), added subsec. (g) relating to additional technology transfer programs. Former subsec. (g) redesignated (e).
+
+Pub. L. 116–260, § 9001(4), redesignated subsec. (g) as (e).
+
+Subsec. (h). Pub. L. 116–260, § 9001(4), redesignated subsec. (h) as (f) relating to planning and reporting.
+
 2018—Subsecs. (g), (h). Pub. L. 115–246 added subsec. (g) and redesignated former subsec. (g) as (h).
 
 2014—Subsec. (e). Pub. L. 113–291 inserted “based on future planned activities and the amount of the appropriations for the fiscal year” after “each fiscal year”.
+
+#### Lab Partnering Service Pilot Program
+Pub. L. 116–260, div. Z, title IX, § 9002, Dec. 27, 2020, 134 Stat. 2596, provided that: “(a) Pilot Program.—“(1) In general.—The Secretary of Energy (in this section referred to as the ‘Secretary’), acting through the Chief Commercialization Officer established in section 1001(a) of the Energy Policy Act of 2005 ([42 U.S.C. 16391(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section16391/a&num=0&edition=prelim)), shall establish a Lab Partnering Service Pilot Program (hereinafter in this section referred to as the ‘pilot program’). “(2) Purposes.—The purposes of the pilot program are to provide services that encourage and support partnerships between the National Laboratories and public and private sector entities, and to improve communication of research, development, demonstration, and commercial application projects and opportunities at the National Laboratories to potential partners through the development of a website and the provision of services, in collaboration with relevant external entities, and to identify and develop metrics regarding the effectiveness of such partnerships. “(3) Activities.—In carrying out this pilot program, the Secretary shall—“(A) conduct outreach to and engage with relevant public and private entities; “(B) identify and disseminate best practices for strengthening connections between the National Laboratories and public and private sector entities; and “(C) develop a website to disseminate information on—“(i) different partnering mechanisms for working with the National Laboratories; “(ii) National Laboratory experts and research areas; and “(iii) National Laboratory facilities and user facilities. “(b) Metrics.—The Secretary shall support the development of metrics, including conversion metrics, to determine the effectiveness of the pilot program in achieving the purposes in subsection (a) and the number and types of partnerships established between public and private sector entities and the National Laboratories compared to baseline data. “(c) Coordination.—In carrying out the activities authorized in this section, the Secretary shall coordinate with the Directors of (and dedicated technology transfer staff at) the National Laboratories, in particular for matchmaking services for individual projects, which should be led by the National Laboratories. “(d) Funding Employee Partnering Activities.—The Secretary shall delegate to the Directors of each National Laboratory and single-purpose research facility of the Department the authority to compensate National Laboratory employees providing services under this section. “(e) Duration.—Subject to the availability of appropriations, the pilot program established in this section shall operate for not less than 3 years and may be built off an existing program. “(f) Evaluation.—Not later than 6 months after the completion of this pilot program, the Secretary shall support the evaluation of the success of the pilot program in achieving the purposes in subsection (a) and shall submit the evaluation to the Committee on Science, Space, and Technology of the House of Representatives and the Committee on Energy and Natural Resources of the Senate. The assessment shall include analyses of the performance of the pilot program based on the metrics developed under subsection (b). “(g) Definition.—In this section, the term ‘National Laboratory’ has the meaning given such term in section 2(3) of the Energy Policy Act of 2005 ([42 U.S.C. 15801(3)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section15801/3&num=0&edition=prelim)).”
+
+
+<a id="section-16392"></a>
+## § 16392. Technology transfer reports and evaluation
+**(a) Annual report** As part of the updated technology transfer execution plan required each year under [section 16391(h)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section16391/h/2&num=0&edition=prelim), the Secretary of Energy (in this section referred to as the “Secretary”) shall submit to the Committee on Science, Space, and Technology of the House of Representatives and the Committee on Energy and Natural Resources of the Senate a report on the progress and implementation of programs established under sections 9001, 9002, 9003, 9004, and 9005 of this Act.
+
+**(b) Evaluation** Not later than 3 years after December 27, 2020, and every 3 years thereafter the Secretary shall submit to the Committee on Science, Space, and Technology of the House of Representatives and the Committee on Energy and Natural Resources of the Senate an evaluation on the extent to which programs established under sections 9001, 9002, 9003, 9004, and 9005 of this Act are achieving success based on relevant short-term and long-term metrics.
+
+**(c) Report on technology transfer gaps** Not later than 3 years after December 27, 2020, the Secretary shall enter into an agreement with the National Academies of Science, Engineering, and Medicine to submit to the Committee on Science, Space, and Technology of the House of Representatives and the Committee on Energy and Natural Resources of the Senate a report on programmatic gaps that exist to advance the commercial application of technologies developed at the National Laboratories (as defined in [section 15801(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section15801/3&num=0&edition=prelim)).
+
+### Statutory Notes
+
+#### References in Text
+Sections 9001, 9002, 9003, 9004, and 9005 of this Act, referred to in subsecs. (a) and (b), are sections 9001, 9002, 9003, 9004, and 9005 of div. Z of Pub. L. 116–260, known as the Energy Act of 2020. Sections 9001 and 9003 of the Act amended [section 16391 of this title](./chapter-149-national-energy-policy-and-programs.md#section-16391). Section 9002 of the Act enacted provisions set out as a note under [section 16391 of this title](./chapter-149-national-energy-policy-and-programs.md#section-16391). Section 9004 of the Act amended [section 16396 of this title](./chapter-149-national-energy-policy-and-programs.md#section-16396). Section 9005 of the Act enacted [section 7256c of this title](./chapter-084-department-of-energy.md#section-7256c).
+
+#### Codification
+Section was enacted as part of the Energy Act of 2020, and not as part of the Energy Policy Act of 2005 which comprises this chapter.
 
 
 <a id="section-16393"></a>
@@ -8433,13 +10813,23 @@ The Stevenson-Wydler Technology Innovation Act of 1980, referred to in par. (4),
 
 **(d) Relationship to other authority** The program under subsection (a) may be carried out in conjunction with or in addition to the exercise of any other authority of the Secretary to acquire, support, or stimulate research, development, demonstration, or commercial application projects.
 
-**(e) Authorization of appropriations** There are authorized to be appropriated—
+**(e) Coordination** In carrying out subsection (a), and for any prize competitions under section 105 of the America Creating Opportunities to Meaningfully Promote Excellence in Technology, Education, and Science Reauthorization Act of 2010, the Secretary shall—
+
+(1) issue Department-wide guidance on the design, development, and implementation of prize competitions;
+
+(2) collect and disseminate best practices on the design and administration of prize competitions;
+
+(3) streamline contracting mechanisms for the implementation of prize competitions; and
+
+(4) provide training and prize competition design support, as necessary, to Department staff to develop prize competitions and challenges.
+
+**(f) Authorization of appropriations** There are authorized to be appropriated—
 
 (1) $10,000,000 to carry out the program under subsection (a); and
 
 (2) $5,000,000 to carry out the program under subsection (c).
 
-**(f) H-prize**
+**(g) H-prize**
 
 (1) **Prize authority**
 
@@ -8567,7 +10957,14 @@ The Stevenson-Wydler Technology Innovation Act of 1980, referred to in par. (4),
 
 ### Statutory Notes
 
+#### References in Text
+Section 105 of the America Creating Opportunities to Meaningfully Promote Excellence in Technology, Education, and Science Reauthorization Act of 2010, referred to in subsec. (e), is section 105 of Pub. L. 111–358, title I, Jan. 4, 2011, 124 Stat. 3989, which enacted [section 3719 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section3719&num=0&edition=prelim), Commerce and Trade, and amended [section 20144 of Title 51](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title51-section20144&num=0&edition=prelim), National and Commercial Space Programs.
+
 #### Amendments
+2020—Subsec. (e). Pub. L. 116–260 added subsec. (e). Former subsec. (e) redesignated (f) as the probable intent of Congress.
+
+Subsecs. (f) to (h). Pub. L. 116–260, which directed redesignation of subsecs. (f) and (g) as (g) and (h), respectively, was executed by redesignating subsecs. (e) and (f) as (f) and (g), respectively, to reflect the probable intent of Congress.
+
 2007—Subsec. (f). Pub. L. 110–140 added subsec. (f).
 
 #### Effective Date of 2007 Amendment
@@ -9551,13 +11948,13 @@ In this subchapter:
 
 **(b) Specific appropriation or contribution**
 
-(1) **11 So in original. No par. (2) has been enacted. In general** — No guarantee shall be made unless—
+(1) **In general** — Except as provided in paragraph (2), the cost of a guarantee shall be paid by the Secretary using an appropriation made for the cost of the guarantee, subject to the availability of such an appropriation.
 
-  (A) an appropriation for the cost of the guarantee has been made;
+(2) **Insufficient appropriations** — If sufficient appropriated funds to pay the cost of a guarantee are not available, then the guarantee shall not be made unless—
 
-  (B) the Secretary has received from the borrower a payment in full for the cost of the guarantee and deposited the payment into the Treasury; or
+  (A) the Secretary has received from the borrower a payment in full for the cost of the guarantee and deposited the payment into the Treasury; or
 
-  (C) a combination of one or more appropriations under subparagraph (A) and one or more payments from the borrower under subparagraph (B) has been made that is sufficient to cover the cost of the guarantee.
+  (B) a combination of one or more appropriations and one or more payments from the borrower under this subsection has been made that is sufficient to cover the cost of the guarantee.
 
 **(c) Amount** Unless otherwise provided by law, a guarantee by the Secretary shall not exceed an amount equal to 80 percent of the project cost of the facility that is the subject of the guarantee, as estimated at the time at which the guarantee is issued.
 
@@ -9567,7 +11964,7 @@ In this subchapter:
 
 (2) **Amount** — No guarantee shall be made unless the Secretary determines that the amount of the obligation (when combined with amounts available to the borrower from other sources) will be sufficient to carry out the project.
 
-(3) **Subordination** — The obligation shall be subject to the condition that the obligation is not subordinate to other financing.
+(3) **Subordination** — The obligation shall be subject to the condition that the obligation, including any reorganization, restructuring, or termination thereof, shall not at any time be subordinate to other financing.
 
 **(e) Interest rate** An obligation shall bear interest at a rate that does not exceed a level that the Secretary determines appropriate, taking into account the prevailing rate of interest in the private sector for similar loans and risks.
 
@@ -9629,13 +12026,15 @@ In this subchapter:
 
 **(h) Fees**
 
-(1) **In general** — The Secretary shall charge and collect fees for guarantees in amounts the Secretary determines are sufficient to cover applicable administrative expenses.
+(1) **In general** — The Secretary shall charge, and collect on or after the date of the financial close of an obligation, a fee for a guarantee in an amount that the Secretary determines is sufficient to cover applicable administrative expenses (including any costs associated with third-party consultants engaged by the Secretary).
 
 (2) **Availability** — Fees collected under this subsection shall—
 
   (A) be deposited by the Secretary into the Treasury; and
 
   (B) remain available until expended, subject to such other conditions as are contained in annual appropriations Acts.
+
+(3) **Reduction in fee amount** — Notwithstanding paragraph (1) and subject to the availability of appropriations, the Secretary may reduce the amount of a fee for a guarantee under this subsection.
 
 **(i) Records; audits**
 
@@ -9647,6 +12046,62 @@ In this subchapter:
 
 **(k) Wage rate requirements** All laborers and mechanics employed by contractors and subcontractors in the performance of construction work financed in whole or in part by a loan guaranteed under this subchapter shall be paid wages at rates not less than those prevailing on projects of a character similar in the locality as determined by the Secretary of Labor in accordance with subchapter IV of chapter 31 of title 40. With respect to the labor standards in this subsection, the Secretary of Labor shall have the authority and functions set forth in Reorganization Plan Numbered 14 of 1950 (64 Stat. 1267; 5 U.S.C. App.) and [section 3145 of title 40](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40-section3145&num=0&edition=prelim).
 
+**(l) Restructuring of loan guarantees** The Secretary shall consult with the Secretary of the Treasury regarding any restructuring of the terms or conditions of a guarantee issued pursuant to this subchapter, including with respect to any deviations from the financial terms of the guarantee.
+
+**(m) Written analysis**
+
+(1) **Requirement** — The Secretary may not make a guarantee under this subchapter until the Secretary of the Treasury has transmitted to the Secretary, and the Secretary has taken into consideration, a written analysis of the financial terms and conditions of the proposed guarantee.
+
+(2) **Transmission** — Not later than 30 days after receiving information on a proposed guarantee from the Secretary, the Secretary of the Treasury shall transmit the written analysis of the financial terms and conditions of the proposed guarantee required under paragraph (1) to the Secretary.
+
+(3) **Explanation** — If the Secretary makes a guarantee the financial terms and conditions of which are not consistent with the written analysis required under this subsection, not later than 30 days after making such guarantee, the Secretary shall submit to the Committee on Energy and Commerce and the Committee on Science, Space, and Technology of the House of Representatives, and the Committee on Energy and Natural Resources of the Senate, a written explanation of any material inconsistencies.
+
+**(n) Application status**
+
+(1) **Request** — If the Secretary does not make a final decision on an application for a guarantee under this subchapter by the date that is 180 days after receipt of the application by the Secretary, the applicant may request, on or after that date and not more than once every 60 days thereafter until a final decision is made, that the Secretary provide to the applicant a response described in paragraph (2).
+
+(2) **Response** — Not later than 10 days after receiving a request from an applicant under paragraph (1), the Secretary shall provide to the applicant a response that includes—
+
+  (A) a description of the current status of review of the application;
+
+  (B) a summary of any factors that are delaying a final decision on the application, a list of what items are required in order to reach a final decision, citations to authorities stating the reasons why such items are required, and a list of actions the applicant can take to expedite the process; and
+
+  (C) an estimate of when a final decision on the application will be made.
+
+**(o) Outreach** In carrying out this subchapter, the Secretary shall—
+
+(1) provide assistance with the completion of applications for a guarantee under this subchapter;
+
+(2) conduct outreach, including through conferences and online programs, to disseminate information to potential applicants;
+
+(3) conduct outreach to encourage participation of supporting finance institutions and private lenders in eligible projects.
+
+**(p) Coordination** In carrying out this subchapter, the Secretary shall coordinate activities under this subchapter with activities of other relevant offices with the Department.
+
+**(q) Report** Not later than 2 years after December 27, 2020, and every 3 years thereafter, the Secretary shall submit to Congress a report on the status of applications for, and projects receiving, guarantees under this title, including—
+
+(1) a list of such projects, including the guarantee amount, construction status, and financing partners of each such project;
+
+(2) the status of each such project’s loan repayment, including interest paid and future repayment projections;
+
+(3) an estimate of the air pollutant or greenhouse gas emissions avoided or reduced from each such project;
+
+(4) data regarding the number of direct and indirect jobs retained, restored, or created by such projects;
+
+(5) identification of—
+
+  (A) technologies deployed by projects that have received guarantees that have subsequently been deployed commercially without guarantees; and
+
+  (B) novel technologies that have been deployed by such projects and deployed in the commercial energy market;
+
+(6) the number of new projects projected to receive a guarantee under this subchapter during the next 2 years and the aggregate guarantee amount;
+
+(7) the number of outreach engagements conducted with potential applicants;
+
+(8) the number of applications received and currently pending for each open solicitation; and
+
+(9) any other metrics the Secretary finds appropriate.
+
 ### Statutory Notes
 
 #### References in Text
@@ -9655,6 +12110,22 @@ Division C of Public Law 108–324, referred to in subsec. (a), is division C of
 Reorganization Plan Numbered 14 of 1950, referred to in subsec. (k), is set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Amendments
+2020—Subsec. (b). Pub. L. 116–260, § 9010(a)(1), amended subsec. (b) generally. Prior to amendment, text read as follows: “No guarantee shall be made unless—
+
+“(A) an appropriation for the cost of the guarantee has been made;
+
+“(B) the Secretary has received from the borrower a payment in full for the cost of the guarantee and deposited the payment into the Treasury; or
+
+“(C) a combination of one or more appropriations under subparagraph (A) and one or more payments from the borrower under subparagraph (B) has been made that is sufficient to cover the cost of the guarantee.”
+
+Subsec. (d)(3). Pub. L. 116–260, § 9010(a)(2), substituted “, including any reorganization, restructuring, or termination thereof, shall not at any time be subordinate” for “is not subordinate”.
+
+Subsec. (h)(1). Pub. L. 116–260, § 9010(a)(3)(A), amended par. (1) generally. Prior to amendment, text read as follows: “The Secretary shall charge and collect fees for guarantees in amounts the Secretary determines are sufficient to cover applicable administrative expenses.”
+
+Subsec. (h)(3). Pub. L. 116–260, § 9010(a)(3)(B), added par. (3).
+
+Subsecs. (l) to (q). Pub. L. 116–260, § 9010(a)(4), added subsecs. (l) to (q).
+
 2011—Subsec. (b). Pub. L. 112–74 added subsec. (b) and struck out former subsec. (b). Prior to amendment, text read as follows: “No guarantee shall be made unless—
 
 “(1) an appropriation for the cost has been made; or
@@ -9668,9 +12139,9 @@ Reorganization Plan Numbered 14 of 1950, referred to in subsec. (k), is set out 
 ## § 16514. Eligible projects
 **(a) In general** The Secretary may make guarantees under this section only for projects that—
 
-(1) avoid, reduce, or sequester air pollutants or anthropogenic emissions of greenhouse gases; and
+(1) avoid, reduce, utilize, or sequester air pollutants or anthropogenic emissions of greenhouse gases; and
 
-(2) employ new or significantly improved technologies as compared to commercial technologies in service in the United States at the time the guarantee is issued.
+(2) employ new or significantly improved technologies as compared to commercial technologies in service in the United States at the time the guarantee is issued, including projects that employ elements of commercial technologies in combination with new or significantly improved technologies.
 
 **(b) Categories** Projects from the following categories shall be eligible for a guarantee under this section:
 
@@ -9680,9 +12151,13 @@ Reorganization Plan Numbered 14 of 1950, referred to in subsec. (k), is set out 
 
 (3) Hydrogen fuel cell technology for residential, industrial, or transportation applications.
 
-(4) Advanced nuclear energy facilities.
+(4) Advanced nuclear energy facilities, including manufacturing of nuclear supply components for advanced nuclear reactors.
 
-(5) Carbon capture and sequestration practices and technologies, including agricultural and forestry practices that store and sequester carbon.
+(5) Carbon capture, utilization, and sequestration practices and technologies, including—
+
+  (A) agricultural and forestry practices that store and sequester carbon; and
+
+  (B) synthetic technologies to remove carbon from the air and oceans.
 
 (6) Efficient electrical generation, transmission, and distribution technologies.
 
@@ -9693,6 +12168,10 @@ Reorganization Plan Numbered 14 of 1950, referred to in subsec. (k), is set out 
 (9) Pollution control equipment.
 
 (10) Refineries, meaning facilities at which crude oil is refined into gasoline.
+
+(11) Energy storage technologies for residential, industrial, transportation, and power generation applications.
+
+(12) Technologies or processes for reducing greenhouse gas emissions from industrial applications, including iron, steel, cement, and ammonia production, hydrogen production, and the generation of high-temperature heat.
 
 **(c) Gasification projects** The Secretary may make guarantees for the following gasification projects:
 
@@ -9756,9 +12235,23 @@ Reorganization Plan Numbered 14 of 1950, referred to in subsec. (k), is set out 
 
 **(e) Qualification of facilities receiving tax credits** A project that receives tax credits for clean coal technology shall not be disqualified from receiving a guarantee under this subchapter.
 
+**(f) Regional variation** Notwithstanding subsection (a)(2), the Secretary may, if regional variation significantly affects the deployment of a technology, make guarantees under this subchapter for up to 6 projects that employ the same or similar technology as another project, provided no more than 2 projects that use the same or a similar technology are located in the same region of the United States.
+
 ### Statutory Notes
 
 #### Amendments
+2020—Subsec. (a)(1). Pub. L. 116–260, § 9010(b)(1)(A), inserted “, utilize” after “reduce”.
+
+Subsec. (a)(2). Pub. L. 116–260, § 9010(b)(1)(B), inserted “, including projects that employ elements of commercial technologies in combination with new or significantly improved technologies” before period at end.
+
+Subsec. (b)(4). Pub. L. 116–260, § 9010(b)(2)(A), inserted “, including manufacturing of nuclear supply components for advanced nuclear reactors” after “facilities”.
+
+Subsec. (b)(5). Pub. L. 116–260, § 9010(b)(2)(B), amended par. (5) generally. Prior to amendment, par. (5) read as follows: “Carbon capture and sequestration practices and technologies, including agricultural and forestry practices that store and sequester carbon.”
+
+Subsec. (b)(11), (12). Pub. L. 116–260, § 9010(b)(2)(C), added pars. (11) and (12).
+
+Subsec. (f). Pub. L. 116–260, § 9010(b)(3), added subsec. (f).
+
 2007—Subsec. (b)(8). Pub. L. 110–140 added par. (8) and struck out former par. (8) which read as follows: “Production facilities for fuel efficient vehicles, including hybrid and advanced diesel vehicles.”
 
 2006—Subsec. (c)(4). Pub. L. 109–168 substituted “Department of Energy’s Clean Coal Power Initiative for Fischer-Tropsch” for “clean coal power initiative under part A of subchapter IV for”.
@@ -9773,9 +12266,17 @@ Amendment by Pub. L. 110–140 effective on the date that is 1 day after Dec. 19
 
 **(b) Use of other appropriated funds** The Department may use amounts awarded under the Clean Coal Power Initiative to carry out the project described in [section 16513(c)(1)(C) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section16513/c/1/C&num=0&edition=prelim), on the request of the recipient of such award, for a loan guarantee, to the extent that the amounts have not yet been disbursed to, or have been repaid by, the recipient.
 
+**(c) Administrative and other expenses** There are authorized to be appropriated—
+
+(1) $32,000,000 for each of fiscal years 2021 through 2025 to carry out this subchapter; and
+
+(2) for fiscal year 2021, in addition to amounts authorized under paragraph (1), $25,000,000, to remain available until expended, for administrative expenses described in [section 16512(h)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section16512/h/1&num=0&edition=prelim) that are not covered by fees collected pursuant to [section 16512(h) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section16512/h&num=0&edition=prelim).
+
 ### Statutory Notes
 
 #### Amendments
+2020—Subsec. (c). Pub. L. 116–260 added subsec. (c).
+
 2006—Subsec. (b). Pub. L. 109–168 substituted “Clean Coal Power Initiative” for “clean coal power initiative under part A of subchapter IV”.
 
 
@@ -10428,3 +12929,344 @@ Committee on Science and Technology of House of Representatives changed to Commi
 
 #### Amendments
 2011—Subsec. (j)(4) to (6). Pub. L. 111–358 added pars. (4) to (6).
+
+
+<a id="section-16539"></a>
+## § 16539. Advanced Research Projects Agency—Energy
+**(a) Definitions** In this section:
+
+(1) **ARPA-E** — The term “ARPA–E” means the Advanced Research Projects Agency—Energy established by subsection (b).
+
+(2) **Director** — The term “Director” means the Director of ARPA-E appointed under subsection (d).
+
+(3) **Fund** — The term “Fund” means the Energy Transformation Acceleration Fund established under subsection (o)(1).
+
+**(b) Establishment** There is established the Advanced Research Projects Agency—Energy within the Department to overcome the long-term and high-risk technological barriers in the development of transformative science and technology solutions to address the energy and environmental missions of the Department.
+
+**(c) Goals**
+
+(1) **In general** — The goals of ARPA-E shall be—
+
+  (A) to enhance the economic and energy security of the United States through the development of energy technologies that—
+
+    (i) reduce imports of energy from foreign sources;
+
+    (ii) reduce energy-related emissions, including greenhouse gases;
+
+    (iii) improve the energy efficiency of all economic sectors;
+
+    (iv) provide transformative solutions to improve the management, clean-up, and disposal of radioactive waste and spent nuclear fuel; and
+
+    (v) improve the resilience, reliability, and security of infrastructure to produce, deliver, and store energy; and
+
+  (B) to ensure that the United States maintains a technological lead in developing and deploying advanced energy technologies.
+
+(2) **Means** — ARPA-E shall achieve the goals established under paragraph (1) through advanced technology projects by—
+
+  (A) identifying and promoting revolutionary advances in fundamental and applied sciences;
+
+  (B) translating scientific discoveries and cutting-edge inventions into technological innovations; and
+
+  (C) accelerating transformational technological advances in areas that industry by itself is not likely to undertake because of technical and financial uncertainty.
+
+**(d) Director**
+
+(1) **Appointment** — There shall be in the Department of Energy a Director of ARPA-E, who shall be appointed by the President, by and with the advice and consent of the Senate.
+
+(2) **Qualifications** — The Director shall be an individual who, by reason of professional background and experience, is especially qualified to advise the Secretary on, and manage research programs addressing, matters pertaining to long-term and high-risk technological barriers to the development of energy technologies.
+
+(3) **Relationship to Secretary** — The Director shall report to the Secretary.
+
+(4) **Relationship to other programs** — No other programs within the Department shall report to the Director.
+
+**(e) Responsibilities** The responsibilities of the Director shall include—
+
+(1) approving all new programs within ARPA-E;
+
+(2) developing funding criteria and assessing the success of programs through the establishment of technical milestones;
+
+(3) administering the Fund through awards to institutions of higher education, companies, research foundations, trade and industry research collaborations, or consortia of such entities, which may include federally-funded research and development centers, to achieve the goals described in subsection (c) through targeted acceleration of—
+
+  (A) novel early-stage research with possible technology applications;
+
+  (B) development of techniques, processes, and technologies, and related testing and evaluation;
+
+  (C) research and development of advanced manufacturing process and technologies for the domestic manufacturing of novel energy technologies; and
+
+  (D) coordination with nongovernmental entities for demonstration of technologies and research applications to facilitate technology transfer;
+
+(4) terminating programs carried out under this section that are not achieving the goals of the programs; and
+
+(5) pursuant to subsection (c)(2)(C)—
+
+  (A) ensuring that applications for funding disclose the extent of current and prior efforts, including monetary investments as appropriate, in pursuit of the technology area for which funding is being requested;
+
+  (B) adopting measures to ensure that, in making awards, program managers adhere to the purposes of subsection (c)(2)(C); and
+
+  (C) providing as part of the annual report required by subsection (h)(1) a summary of the instances of and reasons for ARPA–E funding projects in technology areas already being undertaken by industry.
+
+**(f) Awards** In carrying out this section, the Director may provide awards in the form of grants, contracts, cooperative agreements, cash prizes, and other transactions.
+
+**(g) Personnel**
+
+(1) **In general** — The Director shall establish and maintain within ARPA–E a staff with sufficient qualifications and expertise to enable ARPA–E to carry out the responsibilities of ARPA–E under this section in conjunction with other operations of the Department.
+
+(2) **Program directors**
+
+  (A) *In general* — The Director shall designate employees to serve as program directors for the programs established pursuant to the responsibilities established for ARPA-E under subsection (e).
+
+  (B) *Responsibilities* — A program director of a program shall be responsible for—
+
+    (i) establishing research and development goals for the program, including through the convening of workshops and conferring with outside experts, and publicizing the goals of the program to the public and private sectors;
+
+    (ii) soliciting applications for specific areas of particular promise, especially areas that the private sector or the Federal Government are not likely to undertake alone;
+
+    (iii) building research collaborations for carrying out the program;
+
+    (iv) selecting on the basis of merit each of the projects to be supported under the program after considering—
+
+      (I) the novelty and scientific and technical merit of the proposed projects;
+
+      (II) the demonstrated capabilities of the applicants to successfully carry out the proposed project;
+
+      (III) the consideration by the applicant of future commercial applications of the project, including the feasibility of partnering with 1 or more commercial entities; and
+
+      (IV) such other criteria as are established by the Director;
+
+    (v) identifying innovative cost-sharing arrangements for ARPA–E projects, including through use of the authority provided under [section 16352(b)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section16352/b/3&num=0&edition=prelim);
+
+    (vi) monitoring the progress of projects supported under the program;
+
+    (vii) identifying mechanisms for commercial application of successful energy technology development projects, including through establishment of partnerships between awardees and commercial entities; and
+
+    (viii) recommending program restructure or termination of research partnerships or whole projects.
+
+  (C) *Term* — The term of a program manager shall be not more than 3 years and may be renewed.
+
+(3) **Hiring and management**
+
+  (A) *In general* — The Director shall have the authority to—
+
+    (i) make appointments of scientific, engineering, and professional personnel without regard to the civil service laws;
+
+    (ii) fix the basic pay of such personnel at a rate to be determined by the Director at rates not in excess of Level II of the Executive Schedule (EX–II) without regard to the civil service laws; and
+
+    (iii) pay any employee appointed under this subparagraph payments in addition to basic pay, except that the total amount of additional payments paid to an employee under this subparagraph for any 12-month period shall not exceed the least of the following amounts:
+
+      (I) $25,000.
+
+      (II) The amount equal to 25 percent of the annual rate of basic pay of the employee.
+
+      (III) The amount of the limitation that is applicable for a calendar year under [section 5307(a)(1) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5307/a/1&num=0&edition=prelim).
+
+  (B) *Number* — The Director shall appoint not more than 120 personnel under this section.
+
+  (C) *Private recruiting firms* — The Secretary, or the Director serving as an agent of the Secretary, may contract with private recruiting firms for the hiring of qualified technical staff to carry out this section.
+
+  (D) *Additional staff* — The Director may use all authorities in existence on August 9, 2007, that are provided to the Secretary to hire administrative, financial, and clerical staff as necessary to carry out this section.
+
+**(h) Reports and roadmaps**
+
+(1) **Annual report** — As part of the annual budget request submitted for each fiscal year, the Director shall provide to the relevant authorizing and appropriations committees of Congress a report that—
+
+  (A) describes projects supported by ARPA–E during the previous fiscal year;
+
+  (B) describes projects supported by ARPA–E during the previous fiscal year that examine topics and technologies closely related to other activities funded by the Department, and includes an analysis of whether in supporting such projects, the Director is in compliance with subsection (i)(1); and
+
+  (C) describes current, proposed, and planned projects to be carried out pursuant to subsection (e)(3)(D).
+
+(2) **Strategic vision roadmap** — Not later than October 1, 2021, and every four years thereafter, the Director shall provide to the relevant authorizing and appropriations committees of Congress a roadmap describing the strategic vision that ARPA–E will use to guide the choices of ARPA–E for future technology investments over the following 4 fiscal years.
+
+**(i) Coordination and nonduplication**
+
+(1) **In general** — To the maximum extent practicable, the Director shall ensure that—
+
+  (A) the activities of ARPA–E are coordinated with, and do not duplicate the efforts of, programs and laboratories within the Department and other relevant research agencies; and
+
+  (B) ARPA–E does not provide funding for a project unless the prospective grantee demonstrates sufficient attempts to secure private financing or indicates that the project is not independently commercially viable.
+
+(2) **Technology Transfer Coordinator** — To the extent appropriate, the Director may coordinate technology transfer efforts with the Technology Transfer Coordinator appointed under [section 16391 of this title](./chapter-149-national-energy-policy-and-programs.md#section-16391).
+
+**(j) Federal demonstration of technologies** The Director shall seek opportunities to partner with purchasing and procurement programs of Federal agencies to demonstrate energy technologies resulting from activities funded through ARPA–E.
+
+**(k) Advice**
+
+(1) **Advisory committees** — The Director may seek advice on any aspect of ARPA-E from—
+
+  (A) an existing Department of Energy advisory committee; and
+
+  (B) a new advisory committee organized to support the programs of ARPA-E and to provide advice and assistance on—
+
+    (i) specific program tasks; or
+
+    (ii) overall direction of ARPA-E.
+
+(2) **Additional sources of advice** — In carrying out this section, the Director may seek advice and review from—
+
+  (A) the President’s Committee of Advisors on Science and Technology; and
+
+  (B) any professional or scientific organization with expertise in specific processes or technologies under development by ARPA-E.
+
+**(l) ARPA-E evaluation**
+
+(1) **In general** — Not later than 3 years after December 27, 2020, the Secretary is authorized to enter into a contract with the National Academy of Sciences under which the National Academy shall conduct an evaluation of how well ARPA–E is achieving the goals and mission of ARPA–E.
+
+(2) **Inclusions** — The evaluation may include—
+
+  (A) a recommendation on whether ARPA-E should be continued or terminated; and
+
+  (B) a description of lessons learned from operation of ARPA-E, and the manner in which those lessons may apply to the operation of other programs of the Department.
+
+(3) **Availability** — On completion of the evaluation, the evaluation shall be made available to Congress and the public.
+
+**(m) Existing authorities** The authorities granted by this section are—
+
+(1) in addition to existing authorities granted to the Secretary; and
+
+(2) are not intended to supersede or modify any existing authorities.
+
+**(n) Protection of information** The following types of information collected by ARPA–E from recipients of financial assistance awards shall be considered commercial and financial information obtained from a person and privileged or confidential and not subject to disclosure under [section 552(b)(4) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section552/b/4&num=0&edition=prelim):
+
+(1) Plans for commercialization of technologies developed under the award, including business plans, technology-to-market plans, market studies, and cost and performance models.
+
+(2) Investments provided to an awardee from third parties (such as venture capital firms, hedge funds, and private equity firms), including amounts and the percentage of ownership of the awardee provided in return for the investments.
+
+(3) Additional financial support that the awardee—
+
+  (A) plans to or has invested into the technology developed under the award; or
+
+  (B) is seeking from third parties.
+
+(4) Revenue from the licensing or sale of new products or services resulting from research conducted under the award.
+
+**(o) Funding**
+
+(1) **Fund** — There is established in the Treasury of the United States a fund, to be known as the “Energy Transformation Acceleration Fund”, which shall be administered by the Director for the purposes of carrying out this section.
+
+(2) **Authorization of appropriations** — Subject to paragraph (4), there are authorized to be appropriated to the Director for deposit in the Fund, without fiscal year limitation—
+
+  (A) $435,000,000 for fiscal year 2021;
+
+  (B) $500,000,000 for fiscal year 2022;
+
+  (C) $575,000,000 for fiscal year 2023;
+
+  (D) $662,000,000 for fiscal year 2024; and
+
+  (E) $761,000,000 for fiscal year 2025.
+
+(3) **Separate budget and appropriation**
+
+  (A) *Budget request* — The budget request for ARPA-E shall be separate from the rest of the budget of the Department.
+
+  (B) *Appropriations* — Appropriations to the Fund shall be separate and distinct from the rest of the budget for the Department.
+
+(4) **Allocation** — Of the amounts appropriated for a fiscal year under paragraph (2)—
+
+  (A) not more than 50 percent of the amount shall be used to carry out subsection (e)(3)(D);
+
+  (B) at least 5 percent of the amount shall be used for technology transfer and outreach activities, consistent with the goal described in subsection (c)(2)(C) and within the responsibilities of program directors described in subsection (g)(2)(B)(vii); and
+
+  (C) no funds may be used for construction of new buildings or facilities during the 5-year period beginning on August 9, 2007.
+
+### Statutory Notes
+
+#### References in Text
+Level II of the Executive Schedule, referred to in subsec. (g)(3)(A)(ii), is set out in [section 5313 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5313&num=0&edition=prelim), Government Organization and Employees.
+
+#### Amendments
+2020—Subsec. (b). Pub. L. 116–260, § 10001(a), substituted “development of transformative science and technology solutions to address the energy and environmental missions of the Department” for “development of energy technologies”.
+
+Subsec. (c)(1)(A). Pub. L. 116–260, § 10001(b)(1), added subpar. (A) and struck out former subpar. (A) which read as follows: “to enhance the economic and energy security of the United States through the development of energy technologies that result in—
+
+“(i) reductions of imports of energy from foreign sources;
+
+“(ii) reductions of energy-related emissions, including greenhouse gases; and
+
+“(iii) improvement in the energy efficiency of all economic sectors; and”.
+
+Subsec. (c)(2). Pub. L. 116–260, § 10001(b)(2), substituted “advanced technology projects” for “energy technology projects” in introductory provisions.
+
+Subsec. (e)(3)(A). Pub. L. 116–260, § 10001(c), struck out “energy” before “research”.
+
+Subsec. (g)(3)(A)(iii). Pub. L. 116–260, § 10001(h)(1), substituted “subparagraph” for “subpart” in two places in introductory provisions.
+
+Subsec. (h). Pub. L. 116–260, § 10001(d), amended subsec. (h) generally. Prior to amendment, text read as follows:
+
+“(1) Annual report.—As part of the annual budget request submitted for each fiscal year, the Director shall provide to the relevant authorizing and appropriations committees of Congress a report describing projects supported by ARPA-E during the previous fiscal year.
+
+“(2) Strategic vision roadmap.—Not later than October 1, 2010, and October 1, 2013, the Director shall provide to the relevant authorizing and appropriations committees of Congress a roadmap describing the strategic vision that ARPA-E will use to guide the choices of ARPA-E for future technology investments over the following 3 fiscal years.”
+
+Subsec. (i)(1). Pub. L. 116–260, § 10001(e), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “To the maximum extent practicable, the Director shall ensure that the activities of ARPA-E are coordinated with, and do not duplicate the efforts of, programs and laboratories within the Department and other relevant research agencies.”
+
+Subsec. (l)(1). Pub. L. 116–260, § 10001(f)(1), added par. (1) and struck out former par. (1). Prior to amendment, text read as follows: “After ARPA-E has been in operation for 6 years, the Secretary shall offer to enter into a contract with the National Academy of Sciences under which the National Academy shall conduct an evaluation of how well ARPA-E is achieving the goals and mission of ARPA-E.”
+
+Subsec. (l)(2). Pub. L. 116–260, § 10001(f)(2)(A), substituted “may” for “shall” in introductory provisions.
+
+Subsec. (l)(2)(A). Pub. L. 116–260, § 10001(f)(2)(B), substituted “a recommendation” for “the recommendation of the National Academy of Sciences”.
+
+Subsec. (o)(2). Pub. L. 116–260, § 10001(g), amended par. (2) generally. Prior to amendment, par. (2) authorized appropriations for fiscal years 2008 to 2013.
+
+Subsec. (o)(4)(B). Pub. L. 116–260, § 10001(h)(2), substituted “(c)(2)(C)” for “(c)(2)(D)”.
+
+2018—Subsec. (a)(3). Pub. L. 115–246, § 202(1), substituted “subsection (o)(1)” for “subsection (n)(1)”.
+
+Subsecs. (n), (o). Pub. L. 115–246, § 202(2), (3), added subsec. (n) and redesignated former subsec. (n) as (o).
+
+2011—Subsec. (a)(3). Pub. L. 111–358, § 904(1), substituted “subsection (n)(1)” for “subsection (m)(1)”.
+
+Subsec. (c)(2)(A). Pub. L. 111–358, § 904(2), inserted “and applied” after “advances in fundamental”.
+
+Subsec. (e)(3)(C). Pub. L. 111–358, § 904(3)(A)(i), added subpar. (C) and struck out former subpar. (C) which read as follows: “research and development of manufacturing processes for novel energy technologies; and”.
+
+Subsec. (e)(5). Pub. L. 111–358, § 904(3)(A)(ii)–(C), added par. (5).
+
+Subsec. (f). Pub. L. 111–358, § 904(5), added subsec. (f). Former subsec. (f) redesignated (g).
+
+Subsec. (g). Pub. L. 111–358, § 904(4), redesignated subsec. (f) as (g). Former subsec. (g) redesignated (h).
+
+Subsec. (g)(1). Pub. L. 111–358, § 904(6)(B), added par. (1). Former par. (1) redesignated (2).
+
+Subsec. (g)(2). Pub. L. 111–358, § 904(6)(A),(C)(i), redesignated par. (1) as (2) and substituted “Program directors” for “Program managers” in heading.
+
+Subsec. (g)(2)(A). Pub. L. 111–358, § 904(6)(C)(ii), substituted “program directors for” for “program managers for each of”.
+
+Subsec. (g)(2)(B). Pub. L. 111–358, § 904(6)(C)(iii)(I), substituted “program director” for “program manager” in introductory provisions.
+
+Subsec. (g)(2)(B)(iv). Pub. L. 111–358, § 904(6)(C)(iii)(II), struck out “, with advice under subsection (j) as appropriate,” after “basis of merit” in introductory provisions.
+
+Subsec. (g)(2)(B)(v) to (viii). Pub. L. 111–358, § 904(6)(C)(iii)(III)–(VI), added cls. (v) and (vii) and redesignated former cls. (v) and (vi) as (vi) and (viii), respectively.
+
+Subsec. (g)(2)(C). Pub. L. 111–358, § 904(6)(C)(iv), inserted “not more than” after “shall be”.
+
+Subsec. (g)(3). Pub. L. 111–358, § 904(6)(A), redesignated par. (2) as (3).
+
+Subsec. (g)(3)(A)(ii), (iii). Pub. L. 111–358, § 904(6)(D)(i), added cls. (ii) and (iii) and struck out former cl. (ii) which read as follows: “fix the compensation of such personnel at a rate to be determined by the Director.”
+
+Subsec. (g)(3)(B). Pub. L. 111–358, § 904(6)(D)(ii), substituted “not more than 120” for “not less than 70, and not more than 120,”.
+
+Subsec. (h). Pub. L. 111–358, § 904(4), redesignated subsec. (g) as (h). Former subsec. (h) redesignated (i).
+
+Subsec. (h)(2). Pub. L. 111–358, § 904(7), substituted “2010” for “2008” and “2013” for “2011”.
+
+Subsec. (i). Pub. L. 111–358, § 904(4), redesignated subsec. (h) as (i). Former subsec. (i) redesignated (j).
+
+Subsec. (j). Pub. L. 111–358, § 904(8), added subsec. (j) and struck out former subsec. (j). Prior to amendment, text read as follows: “The Secretary shall make information available to purchasing and procurement programs of Federal agencies regarding the potential to demonstrate technologies resulting from activities funded through ARPA-E.”
+
+Pub. L. 111–358, § 904(4), redesignated subsec. (i) as (j). Former subsec. (j) redesignated (k).
+
+Subsecs. (k), (l). Pub. L. 111–358, § 904(4), redesignated subsecs. (j) and (k) as (k) and (l), respectively. Former subsec. (l) redesignated (m).
+
+Subsec. (l)(1). Pub. L. 111–358, § 904(9)(A), substituted “6 years” for “4 years”.
+
+Subsec. (l)(2)(B). Pub. L. 111–358, § 904(9)(B), inserted “, and the manner in which those lessons may apply to the operation of other programs of the Department” after “ARPA-E”.
+
+Subsecs. (m), (n). Pub. L. 111–358, § 904(4), redesignated subsecs. (l) and (m) as (m) and (n), respectively.
+
+Subsec. (n)(2)(C) to (E). Pub. L. 111–358, § 904(10)(A), added subpars. (C) to (E).
+
+Subsec. (n)(4). Pub. L. 111–358, § 904(10)(B), (C), redesignated par. (5) as (4) and struck out former par. (4). Prior to amendment, text read as follows: “No amounts may be appropriated for ARPA-E for fiscal year 2008 unless the amount appropriated for the activities of the Office of Science of the Department for fiscal year 2008 exceeds the amount appropriated for the Office for fiscal year 2007, as adjusted for inflation in accordance with the Consumer Price Index published by the Bureau of Labor Statistics of the Department of Labor.”
+
+Subsec. (n)(4)(B). Pub. L. 111–358, § 904(10)(D), substituted “5 percent” for “2.5 percent” and inserted “, consistent with the goal described in subsection (c)(2)(D) and within the responsibilities of program directors described in subsection (g)(2)(B)(vii)” after “outreach activities”.
+
+Subsec. (n)(5). Pub. L. 111–358, § 904(10)(C), redesignated par. (5) as (4).

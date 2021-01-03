@@ -193,11 +193,13 @@ The date of enactment of this chapter, referred to in subsec. (b), is the date o
 <a id="section-6107"></a>
 ## § 6107. Funding
 
-Of the amounts made available under section 60125(a)(1), the Secretary shall expend $1,058,000 for each of fiscal years 2016 through 2019 to carry out section 6106.
+Of the amounts made available under section 60125(a)(1), the Secretary shall expend $1,058,000 for each of fiscal years 2021 through 2023 to carry out section 6106.
 
 ### Statutory Notes
 
 #### Amendments
+2020—Pub. L. 116–260 substituted “$1,058,000 for each of fiscal years 2021 through 2023” for “$1,058,000 for each of fiscal years 2016 through 2019”.
+
 2016—Pub. L. 114–183 amended section generally. Prior to amendment, text read as follows:
 
 “(a) For Grants to States.—There are authorized to be appropriated to the Secretary to provide grants to States under section 6106 $1,000,000 for each of fiscal years 2012 through 2015. Such funds shall remain available until expended.

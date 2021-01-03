@@ -264,7 +264,7 @@ Not later than 6 months after the end of each fiscal year, the corporation shall
 | 153712 | 36:1016. | Sept. 7, 1962, Pub. L. 87–650, § 16, 76 Stat. 505. |
 
 #### Termination of Reporting Requirements
-For termination, effective May 15, 2000, of reporting provisions in this section, see section 3003 of Pub. L. 104–66, as amended, set out as a note under [section 1113 of Title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1113&num=0&edition=prelim), Money and Finance, and page 204 of House Document No. 103–7.
+For termination, effective May 15, 2000, of reporting provisions in this section, see section 3003 of Pub. L. 104–66, set out as a note under [section 1113 of Title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1113&num=0&edition=prelim), Money and Finance, and page 204 of House Document No. 103–7.
 
 
 <a id="section-153713"></a>

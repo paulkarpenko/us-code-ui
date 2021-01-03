@@ -27,6 +27,20 @@ Amendment by Pub. L. 97–300 effective Oct. 1, 1983, but with Secretary authori
 #### Short Title
 Act June 6, 1933, ch. 49, § 16, formerly § 15, as added by Pub. L. 97–300, title VI, § 601(h), formerly title V, § 501(h), Oct. 13, 1982, 96 Stat. 1397; renumbered title VI, § 601(h), Pub. L. 100–628, title VII, § 712(a)(1), (2), Nov. 7, 1988, 102 Stat. 3248; renumbered § 16, Pub. L. 105–220, title III, § 309(1), Aug. 7, 1998, 112 Stat. 1082, provided that: “This Act [enacting this chapter] may be cited as the ‘Wagner-Peyser Act’.”
 
+#### Administration of Manpower in District of Columbia
+Pub. L. 93–198, title II, § 204(a), Dec. 24, 1973, 87 Stat. 783, provided that: “All functions of the Secretary of Labor (hereafter in this section referred to as the Secretary) under section 3 of the Act [[section 49b of this title](./chapter-4b-federal-employment-service.md#section-49b)] entitled ‘An Act to provide for the establishment of a national employment system and for cooperation with the States in the promotion of such system, and for other purposes’, approved June 6, 1933 ([29 U.S.C. 49–49k](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section49–49k&num=0&edition=prelim)), with respect to the maintenance of a public employment service for the District [of Columbia], are transferred [effective July 1, 1974] to the Commissioner [of the District of Columbia established under Reorg. Plan No. 3 of 1967 (now the Mayor)]. After the effective date of this transfer [July 1, 1974], the Secretary shall maintain with the District the same relationship with respect to a public employment service in the District, including the financing of such service, as he has with the States (with respect to a public employment service in the States) generally.”
+
+#### Recruitment and Distribution of Farm Labor
+Act July 3, 1948, ch. 823, § 1, 62 Stat. 1238, authorized the Federal Security Administrator to recruit foreign workers within the Western Hemisphere and workers in Puerto Rico for temporary agricultural employment in the continental United States and to direct, supervise, coordinate, and provide for the transportation of those workers from such places of recruitment to and between places of employment within the continental United States and return to the places of recruitment not later than June 30, 1949.
+
+Act July 3, 1948, ch. 823, § 2, 62 Stat. 1239, appropriated $2,500,000, for fiscal year ending June 30, 1949, to carry out the purposes of section 1 of act July 3, 1948.
+
+#### Farm Placement Service
+Act Apr. 28, 1947, ch. 43, § 2, 61 Stat. 55, provided that the provisions of the Farm Labor Supply Appropriation Act, 1944 were not to be construed to limit or interfere with any of the functions of the United States Employment Service or State public employment services with respect to maintaining a farm placement service as authorized under this chapter.
+
+#### Definitions of Terms in Pub. L. 113–128
+Except as otherwise provided, definitions in section 3 of Pub. L. 113–128, which is classified to [section 3102 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3102), apply to this section.
+
 #### Transfer of Functions
 Functions, powers, and duties of Secretary of Labor under this chapter, insofar as relates to prescription of personnel standards on a merit basis, transferred to Office of Personnel Management, see [section 4728(a)(2)(A) of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4728/a/2/A&num=0&edition=prelim), The Public Health and Welfare.
 
@@ -45,20 +59,6 @@ Reorg. Plan No. I of 1939, § 201, eff. July 1, 1939, 4 F.R. 2728, 53 Stat. 1424
 Section 203 of Reorg. Plan No. I of 1939, provided that functions of United States Employment Service should be consolidated with unemployment compensation functions of Social Security Board and should be administered in Social Security Board in connection with unemployment compensation functions under direction and supervision of Federal Security Administrator.
 
 Section 203 of Reorg. Plan No. I of 1939, further, abolished office of Director of United States Employment Service and transferred all functions of that office to Social Security Board, to be exercised by Board, and provided that functions of Secretary of Labor relating to administration of United States Employment Service should be transferred to, and exercised by, Federal Security Administrator.
-
-#### Administration of Manpower in District of Columbia
-Pub. L. 93–198, title II, § 204(a), Dec. 24, 1973, 87 Stat. 783, provided that: “All functions of the Secretary of Labor (hereafter in this section referred to as the Secretary) under section 3 of the Act [[section 49b of this title](./chapter-4b-federal-employment-service.md#section-49b)] entitled ‘An Act to provide for the establishment of a national employment system and for cooperation with the States in the promotion of such system, and for other purposes’, approved June 6, 1933 ([29 U.S.C. 49–49k](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section49–49k&num=0&edition=prelim)), with respect to the maintenance of a public employment service for the District [of Columbia], are transferred [effective July 1, 1974] to the Commissioner [of the District of Columbia established under Reorg. Plan No. 3 of 1967 (now the Mayor)]. After the effective date of this transfer [July 1, 1974], the Secretary shall maintain with the District the same relationship with respect to a public employment service in the District, including the financing of such service, as he has with the States (with respect to a public employment service in the States) generally.”
-
-#### Recruitment and Distribution of Farm Labor
-Act July 3, 1948, ch. 823, § 1, 62 Stat. 1238, authorized the Federal Security Administrator to recruit foreign workers within the Western Hemisphere and workers in Puerto Rico for temporary agricultural employment in the continental United States and to direct, supervise, coordinate, and provide for the transportation of those workers from such places of recruitment to and between places of employment within the continental United States and return to the places of recruitment not later than June 30, 1949.
-
-Act July 3, 1948, ch. 823, § 2, 62 Stat. 1239, appropriated $2,500,000, for fiscal year ending June 30, 1949, to carry out the purposes of section 1 of act July 3, 1948.
-
-#### Farm Placement Service
-Act Apr. 28, 1947, ch. 43, § 2, 61 Stat. 55, provided: “(a) The provisions of the Farm Labor Supply Appropriation Act, 1944 (Public Law 229, Seventy-eighth Congress, second session, title I [former sections 1351 to 1355 of the former Appendix to Title 50, War and National Defense]), as amended and supplemented, and as extended by this Act, shall not be construed to limit or interfere with any of the functions of the United States Employment Service or State public employment services with respect to maintaining a farm placement service as authorized under the Act of June 6, 1933 (48 Stat. 113) [this chapter]. “(b) The Secretary of Agriculture and the Secretary of Labor shall take such action as may be necessary to assure maximum cooperation between the agricultural extension services of the land-grant colleges and the State public employment agencies in the recruitment and placement of domestic farm labor and in the keeping of such records and information with respect thereto as may be necessary for the proper and efficient administration of the State unemployment compensation laws and of title V of the Servicemen’s Readjustment Act of 1944, as amended (58 Stat. 295).”
-
-#### Definitions of Terms in Pub. L. 113–128
-Except as otherwise provided, definitions in section 3 of Pub. L. 113–128, which is classified to [section 3102 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3102), apply to this section.
 
 
 <a id="section-49a"></a>
@@ -246,7 +246,7 @@ Act of June 6, 1933, and the said Act, referred to in text, are act June 6, 1933
 This section was not enacted as part of the Wagner-Peyser Act which comprises this chapter.
 
 #### Transfer of Functions
-For history of transfer of functions of United States Employment Service to Secretary of Labor, see note set out under [section 49 of this title](./chapter-4b-federal-employment-service.md#section-49).
+For history of transfer of functions of United States Employment Service to Secretary of Labor, see notes set out under [section 49 of this title](./chapter-4b-federal-employment-service.md#section-49).
 
 
 <a id="section-49c-2"></a>

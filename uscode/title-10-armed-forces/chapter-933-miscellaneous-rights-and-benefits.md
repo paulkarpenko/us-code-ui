@@ -8,7 +8,7 @@ source: >-
 ---
 <a id="section-9251"></a>
 ## § 9251. Presentation of United States flag upon retirement
-**(a) Presentation of Flag.—** Upon the release of a member of the Air Force from active duty for retirement, the Secretary of the Air Force shall present a United States flag to the member.
+**(a) Presentation of Flag.—** Upon the release of a member of the Air Force or the Space Force from active duty for retirement, the Secretary of the Air Force shall present a United States flag to the member.
 
 **(b) Multiple Presentations Not Authorized.—** A member is not eligible for a presentation of a flag under subsection (a) if the member has previously been presented a flag under this section or any other provision of law providing for the presentation of a United States flag incident to release from active service for retirement.
 
@@ -17,6 +17,8 @@ source: >-
 ### Statutory Notes
 
 #### Amendments
+2021—Subsec. (a). Pub. L. 116–283 inserted “or the Space Force” after “member of the Air Force”.
+
 2018—Pub. L. 115–232 renumbered [section 8681 of this title](./chapter-863-naval-vessels.md#section-8681) as this section.
 
 1999—Subsec. (b). Pub. L. 106–65 substituted “under this section or any other provision of law providing for the presentation of a United States flag incident to release from active service for retirement.” for “under this section or section 3681 or 6141 of this title or [section 516 of title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section516&num=0&edition=prelim).”
@@ -31,7 +33,7 @@ Section applicable with respect to releases from active duty described in this s
 <a id="section-9252"></a>
 ## § 9252. Service credit: regular enlisted members; service as an officer to be counted as enlisted service
 
-An enlisted member of the Regular Air Force is entitled to count active service as an officer in the Air Force, and in the Army, as enlisted service for all purposes.
+An enlisted member of the Regular Air Force or the Regular Space Force is entitled to count active service as an officer in the Air Force, in the Space Force, and in the Army, as enlisted service for all purposes.
 
 ### Statutory Notes
 
@@ -41,6 +43,8 @@ An enlisted member of the Regular Air Force is entitled to count active service 
 | 8684 | 10:631a (last proviso). | July 14, 1939, ch. 267, § 1 (last proviso); restated May 29, 1954, ch. 249, § 19(b) (last proviso), 68 Stat. 166. |
 
 #### Amendments
+2021—Pub. L. 116–283 inserted “or the Regular Space Force” after “Regular Air Force” and “in the Space Force,” after “in the Air Force,”.
+
 2018—Pub. L. 115–232 renumbered [section 8684 of this title](./chapter-863-naval-vessels.md#section-8684) as this section.
 
 #### Effective Date of 2018 Amendment

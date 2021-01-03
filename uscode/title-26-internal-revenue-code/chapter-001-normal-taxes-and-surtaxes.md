@@ -2,7 +2,7 @@
 title: 26
 chapter: '1'
 heading: NORMAL TAXES AND SURTAXES
-section_count: 852
+section_count: 853
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26&num=0&edition=prelim
 ---
@@ -437,45 +437,7 @@ taxable under this subsection a tax determined in accordance with the following 
 
     (iii) subsection (f)(8) shall not apply.
 
-(4) **Special rules for certain children with unearned income**
-
-  (A) *In general* — In the case of a child to whom subsection (g) applies for the taxable year, the rules of subparagraphs (B) and (C) shall apply in lieu of the rule under subsection (g)(1).
-
-  (B) *Modifications to applicable rate brackets* — In determining the amount of tax imposed by this section for the taxable year on a child described in subparagraph (A), the income tax table otherwise applicable under this subsection to the child shall be applied with the following modifications:
-
-    (i) *24-percent bracket* — The maximum taxable income which is taxed at a rate below 24 percent shall not be more than the sum of—
-
-      (I) the earned taxable income of such child, plus
-
-      (II) the minimum taxable income for the 24-percent bracket in the table under paragraph (2)(E) (as adjusted under paragraph (3)) for the taxable year.
-
-    (ii) *35-percent bracket* — The maximum taxable income which is taxed at a rate below 35 percent shall not be more than the sum of—
-
-      (I) the earned taxable income of such child, plus
-
-      (II) the minimum taxable income for the 35-percent bracket in the table under paragraph (2)(E) (as adjusted under paragraph (3)) for the taxable year.
-
-    (iii) *37-percent bracket* — The maximum taxable income which is taxed at a rate below 37 percent shall not be more than the sum of—
-
-      (I) the earned taxable income of such child, plus
-
-      (II) the minimum taxable income for the 37-percent bracket in the table under paragraph (2)(E) (as adjusted under paragraph (3)) for the taxable year.
-
-  (C) *Coordination with capital gains rates* — For purposes of applying section 1(h) (after the modifications under paragraph (5)(A))—
-
-    (i) the maximum zero rate amount shall not be more than the sum of—
-
-      (I) the earned taxable income of such child, plus
-
-      (II) the amount in effect under paragraph (5)(B)(i)(IV) for the taxable year, and
-
-    (ii) the maximum 15-percent rate amount shall not be more than the sum of—
-
-      (I) the earned taxable income of such child, plus
-
-      (II) the amount in effect under paragraph (5)(B)(ii)(IV) for the taxable year.
-
-  (D) *Earned taxable income* — For purposes of this paragraph, the term “earned taxable income” means, with respect to any child for any taxable year, the taxable income of such child reduced (but not below zero) by the net unearned income (as defined in subsection (g)(4)) of such child.
+(4) **Repealed. Pub. L. 116–94, div. O, title V, § 501(a), Dec. 20, 2019, 133 Stat. 3180]**
 
 (5) **Application of current income tax brackets to capital gains brackets**
 
@@ -525,6 +487,8 @@ For inflation adjustment of certain items in this section, see Revenue Procedure
 The date of the enactment of this subclause, referred to in subsec. (h)(11)(C)(iii)(II), is the date of enactment of Pub. L. 115–97, which was approved Dec. 22, 2017.
 
 #### Amendments
+2019—Subsec. (j)(4). Pub. L. 116–94 struck out par. (4) which related to special rules for certain children with unearned income.
+
 2017—Subsec. (f)(2)(A). Pub. L. 115–97, § 11002(c)(1), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “except as provided in paragraph (8), by increasing the minimum and maximum dollar amounts for each rate bracket for which a tax is imposed under such table by the cost-of-living adjustment for such calendar year,”.
 
 Subsec. (f)(3). Pub. L. 115–97, § 11002(a), added par. (3) and struck out former par. (3). Prior to amendment, text read as follows: “For purposes of paragraph (2), the cost-of-living adjustment for any calendar year is the percentage (if any) by which—
@@ -913,6 +877,9 @@ Subsec. (e). Pub. L. 91–172 struck out cross reference to section 63. See [sec
 
 1964—Pub. L. 88–272 amended section generally by splitting the former first bracket which started at $2,000 into four new brackets, the 14 percent bracket representing a 30 percent reduction, the 15 percent bracket a 25 percent cut, and the 16 percent bracket a 20 percent cut, and reducing all other brackets by cuts averaging about 20 percent and effectuated these cuts in two steps, one in 1964, and one in 1965.
 
+#### Effective Date of 2019 Amendment
+Pub. L. 116–94, div. O, title V, § 501(c), Dec. 20, 2019, 133 Stat. 3181, provided that: “(1) In general.—Except as otherwise provided in this subsection, the amendment made by subsection (a) [amending this section] shall apply to taxable years beginning after December 31, 2019. “(2) Coordination with alternative minimum tax.—The amendment made by subsection (b) [amending [section 55 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-55)] shall apply to taxable years beginning after December 31, 2017. “(3) Elective retroactive application.—A taxpayer may elect (at such time and in such manner as the Secretary of the Treasury (or the Secretary’s designee) may provide) for the amendment made by subsection (a) to also apply to taxable years of the taxpayer which begin in 2018, 2019, or both (as specified by the taxpayer in such election).”
+
 #### Effective Date of 2017 Amendment
 Pub. L. 115–97, title I, § 11001(c), Dec. 22, 2017, 131 Stat. 2059, provided that: “The amendments made by this section [amending this section and [section 6695 of this title](./chapter-068-additions-to-the-tax-additional-amounts-and-assessable-penalties.md#section-6695)] shall apply to taxable years beginning after December 31, 2017.”
 
@@ -1050,7 +1017,19 @@ Pub. L. 89–809, title I, § 103(n), Nov. 13, 1966, 80 Stat. 1555, provided tha
 #### Effective Date of 1964 Amendment
 Pub. L. 88–272, title I, § 131, Feb. 26, 1964, 78 Stat. 30, as amended by Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that: “Except for purposes of section 21 of the Internal Revenue Code of 1986 [formerly I.R.C. 1954] (relating to effect of changes in rates during a taxable year), the amendments made by parts I and II of this title [amending this section and sections 2, 11, 37, 141, 144, 242, 821, 871, 963, 6016, 6074, 6154, 6212, 6504, and 6655 of this title] shall apply with respect to taxable years beginning after December 31, 1963.”
 
+Short Title of 2020 Amendment
+
+Pub. L. 116–260, div. N, title II, § 271(a), Dec. 27, 2020, 134 Stat. 1964, provided that: “This subtitle [subtitle B (§§ 271–288) of title II of div. N of Pub. L. 116–260, see Tables for classification] may be cited as the ‘COVID-related Tax Relief Act of 2020’.”
+
+Pub. L. 116–260, div. EE, § 1(a), Dec. 27, 2020, 134 Stat. 3038, provided that: “This division [see Tables for classification] may be cited as the ‘Taxpayer Certainty and Disaster Tax Relief Act of 2020’.”
+
 #### Short Title of 2019 Amendment
+Pub. L. 116–94, div. O, § 1(a), Dec. 20, 2019, 133 Stat. 3137, provided that: “This Act [div. O of Pub. L. 116–94, see Tables for classification] may be cited as the ‘Setting Every Community Up for Retirement Enhancement Act of 2019’.”
+
+Pub. L. 116–94, div. P, title XIII, § 1301, Dec. 20, 2019, 133 Stat. 3204, provided that: “This title [amending [section 4975 of this title](./chapter-043-qualified-pension-etc-plans.md#section-4975) and [section 1108 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1108&num=0&edition=prelim), Labor, and enacting provisions set out as a note under [section 4975 of this title](./chapter-043-qualified-pension-etc-plans.md#section-4975)] may be cited as the ‘Temporary Relief from Certain ERISA Requirements Act of 2020’.”
+
+Pub. L. 116–94, div. Q, § 1(a), Dec. 20, 2019, 133 Stat. 3226, provided that: “This division [div. Q of Pub. L. 116–94, see Tables for classification] may be cited as the ‘Taxpayer Certainty and Disaster Tax Relief Act of 2019’.”
+
 Pub. L. 116–25, § 1(a), July 1, 2019, 133 Stat. 981, provided that: “This Act [see Tables for classification] may be cited as the ‘Taxpayer First Act’.”
 
 #### Short Title of 2018 Amendment
@@ -1576,6 +1555,8 @@ Pub. L. 88–272, § 1, Feb. 26, 1964, 78 Stat. 19, provided that: “It is the 
 
 #### Inflation Adjusted Items for Certain Years
 Provisions relating to inflation adjustment of items in sections 1, 23, 24, 25A, 25B, 32, 36B, 42, 45R, 55, 59, 62, 63, 68, 125, 132, 135, 137, 146, 147, 148, 151, 152, 179, 199A, 213, 219, 220, 221, 223, 408A, 448, 461, 512, 513, 642, 685, 831, 877, 877A, 911, 1274A, 2010, 2032A, 2503, 2523, 2631, 4001, 4003, 4161, 4261, 5000A, 6012, 6013, 6033, 6039F, 6323, 6334, 6601, 6651, 6652, 6695, 6698, 6699, 6721, 6722, 7345, 7430, 7702B, and 9831 of this title for certain years were contained in the following:
+
+2020—Revenue Procedure 2019–44.
 
 2019—Revenue Procedure 2018–57.
 
@@ -3897,7 +3878,7 @@ For provisions directing that if any amendments made by subtitle A or subtitle C
 
 **(d) Limitations based on modified adjusted gross income**
 
-(1) **American Opportunity Tax Credit** — The American Opportunity Tax Credit (determined without regard to this paragraph) shall be reduced (but not below zero) by the amount which bears the same ratio to such credit (as so determined) as—
+(1) **In general** — The American Opportunity Tax Credit and the Lifetime Learning Credit shall each (determined without regard to this paragraph) be reduced (but not below zero) by the amount which bears the same ratio to each such credit (as so determined) as—
 
   (A) the excess of—
 
@@ -3907,17 +3888,7 @@ For provisions directing that if any amendments made by subtitle A or subtitle C
 
   (B) $10,000 ($20,000 in the case of a joint return).
 
-(2) **Lifetime Learning Credit** — The Lifetime Learning Credit (determined without regard to this paragraph) shall be reduced (but not below zero) by the amount which bears the same ratio to such credit (as so determined) as—
-
-  (A) the excess of—
-
-    (i) the taxpayer’s modified adjusted gross income for such taxable year, over
-
-    (ii) $40,000 ($80,000 in the case of a joint return), bears to
-
-  (B) $10,000 ($20,000 in the case of a joint return).
-
-(3) **Modified adjusted gross income** — For purposes of this subsection, the term “modified adjusted gross income” means the adjusted gross income of the taxpayer for the taxable year increased by any amount excluded from gross income under section 911, 931, or 933.
+(2) **Modified adjusted gross income** — For purposes of this subsection, the term “modified adjusted gross income” means the adjusted gross income of the taxpayer for the taxable year increased by any amount excluded from gross income under section 911, 931, or 933.
 
 **(e) Election not to have section apply** A taxpayer may elect not to have this section apply with respect to the qualified tuition and related expenses of an individual for any taxable year.
 
@@ -3986,15 +3957,7 @@ For provisions directing that if any amendments made by subtitle A or subtitle C
 
 (8) **Payee statement requirement** — Except as otherwise provided by the Secretary, no credit shall be allowed under this section unless the taxpayer receives a statement furnished under section 6050S(d) which contains all of the information required by paragraph (2) thereof.
 
-**(h) Inflation adjustment**
-
-(1) **In general** — In the case of a taxable year beginning after 2001, the $40,000 and $80,000 amounts in subsection (d)(2) shall each be increased by an amount equal to—
-
-  (A) such dollar amount, multiplied by
-
-  (B) the cost-of-living adjustment determined under section 1(f)(3) for the calendar year in which the taxable year begins, determined by substituting “calendar year 2000” for “calendar year 2016” in subparagraph (A)(ii) thereof.
-
-(2) **Rounding** — If any amount as adjusted under paragraph (1) is not a multiple of $1,000, such amount shall be rounded to the next lowest multiple of $1,000.
+**(h) Repealed. Pub. L. 116–260, div. EE, title I, § 104(a)(2), Dec. 27, 2020, 134 Stat. 3041]**
 
 **(i) Portion of American Opportunity Tax Credit made refundable** Forty percent of so much of the credit allowed under subsection (a) as is attributable to the American Opportunity Tax Credit (determined after application of subsection (d) and without regard to this paragraph 22 So in original. Probably should be “this subsection”. and section 26(a)) shall be treated as a credit allowable under subpart C (and not allowed under subsection (a)). The preceding sentence shall not apply to any taxpayer for any taxable year if such taxpayer is a child to whom subsection (g) of section 1 applies for such taxable year.
 
@@ -4011,6 +3974,10 @@ The date of the enactment of this section, referred to in subsecs. (b)(3)(A) and
 The Higher Education Act of 1965, referred to in subsec. (f)(2)(B), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219. Title IV of the Act is classified generally to subchapter IV (§ 1070 et seq.) of chapter 28 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under [section 1001 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1001&num=0&edition=prelim) and Tables.
 
 #### Amendments
+2020—Subsec. (d). Pub. L. 116–260, § 104(a)(1), added par. (1), struck out former pars. (1) and (2), and redesignated former par. (3) as (2). Prior to amendment, pars. (1) and (2) related to American Opportunity Tax Credit and Lifetime Learning Credit, respectively.
+
+Subsec. (h). Pub. L. 116–260, § 104(a)(2), struck out subsec. (h) which related to inflation adjustments for taxable years beginning after 2001.
+
 2018—Pub. L. 115–141, § 101(l)(14), substituted “American Opportunity Tax Credit” for “Hope Scholarship Credit” wherever appearing in text.
 
 Pub. L. 115–141, § 101(l)(9), substituted “American Opportunity” for “Hope” in section catchline.
@@ -4074,6 +4041,9 @@ Subsec. (i)(5)(B). Pub. L. 111–148, § 10909(b)(2)(C), (c), as amended by Pub.
 “(1) In general.—No credit shall be allowed under subsection (a) for a taxable year with respect to the qualified tuition and related expenses of an individual unless the taxpayer elects to have this section apply with respect to such individual for such year.
 
 “(2) Coordination with exclusions.—An election under this subsection shall not take effect with respect to an individual for any taxable year if any portion of any distribution during such taxable year from an education individual retirement account is excluded from gross income under section 530(d)(2).”
+
+#### Effective Date of 2020 Amendment
+Pub. L. 116–260, div. EE, title I, § 104(c), Dec. 27, 2020, 134 Stat. 3041, provided that: “The amendments made by this section [repealing [section 222 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-222) and amending this section and section 62, 74, 86, 135, 137, 219, 221, and 469 of this title] shall apply to taxable years beginning after December 31, 2020.”
 
 #### Effective Date of 2018 Amendment
 Amendment by section 101(l)(1) to (9), (11) to (14) of Pub. L. 115–141 effective as if included in the provision of the Protecting Americans from Tax Hikes Act of 2015, div. Q of Pub. L. 114–113, to which such amendment relates, see section 101(s) of Pub. L. 115–141, set out as a note under [section 24 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-24).
@@ -4382,21 +4352,17 @@ Amendment by section 618(b)(1) of Pub. L. 107–16 applicable to taxable years b
 
 (3) **Energy-efficient building property** — The term “energy-efficient building property” means—
 
-  (A) an electric heat pump water heater which yields an energy factor of at least 2.0 in the standard Department of Energy test procedure,
+  (A) an electric heat pump water heater which yields a Uniform Energy Factor of at least 2.2 in the standard Department of Energy test procedure,
 
   (B) an electric heat pump which achieves the highest efficiency tier established by the Consortium for Energy Efficiency, as in effect on January 1, 2009,
 
-  (C) a central air conditioner which achieves the highest efficiency tier established by the Consortium for Energy Efficiency, as in effect on January 1, 2009,
+  (C) a central air conditioner which achieves the highest efficiency tier established by the Consortium for Energy Efficiency, as in effect on January 1, 2009, and
 
-  (D) a natural gas, propane, or oil water heater which has either an energy factor of at least 0.82 or a thermal efficiency of at least 90 percent, and
-
-  (E) a stove which uses the burning of biomass fuel to heat a dwelling unit located in the United States and used as a residence by the taxpayer, or to heat water for use in such a dwelling unit, and which has a thermal efficiency rating of at least 75 percent.
+  (D) a natural gas, propane, or oil water heater which has either a Uniform Energy Factor of at least 0.82 or a thermal efficiency of at least 90 percent.
 
 (4) **Qualified natural gas, propane, or oil furnace or hot water boiler** — The term “qualified natural gas, propane, or oil furnace or hot water boiler” means a natural gas, propane, or oil furnace or hot water boiler which achieves an annual fuel utilization efficiency rate of not less than 95.
 
 (5) **Advanced main air circulating fan** — The term “advanced main air circulating fan” means a fan used in a natural gas, propane, or oil furnace and which has an annual electricity use of no more than 2 percent of the total annual energy use of the furnace (as determined in the standard Department of Energy test procedures).
-
-(6) **Biomass fuel** — The term “biomass fuel” means any plant-derived fuel available on a renewable or recurring basis, including agricultural crops and trees, wood and wood waste and residues (including wood pellets), plants (including aquatic plants), grasses, residues, and fibers.
 
 **(e) Special rules** For purposes of this section—
 
@@ -4416,7 +4382,7 @@ Amendment by section 618(b)(1) of Pub. L. 107–16 applicable to taxable years b
 
 (1) after December 31, 2007, and before January 1, 2009, or
 
-(2) after December 31, 2017.
+(2) after December 31, 2021.
 
 ### Statutory Notes
 
@@ -4424,6 +4390,18 @@ Amendment by section 618(b)(1) of Pub. L. 107–16 applicable to taxable years b
 The date of the enactment of the American Recovery and Reinvestment Tax Act of 2009, referred to in subsec. (c)(2)(C), is the date of enactment of title I of div. B of Pub. L. 111–5, which was approved Feb. 17, 2009.
 
 #### Amendments
+2020—Subsec. (d)(3)(E). Pub. L. 116–260, § 148(b)(3)(A), struck out subpar. (E) which read as follows: “a stove which uses the burning of biomass fuel to heat a dwelling unit located in the United States and used as a residence by the taxpayer, or to heat water for use in such a dwelling unit, and which has a thermal efficiency rating of at least 75 percent.”
+
+Subsec. (d)(6). Pub. L. 116–260, § 148(b)(3)(B), struck out par. (6). Text read as follows: “The term ‘biomass fuel’ means any plant-derived fuel available on a renewable or recurring basis, including agricultural crops and trees, wood and wood waste and residues (including wood pellets), plants (including aquatic plants), grasses, residues, and fibers.”
+
+2020—Subsec. (g)(2). Pub. L. 116–260, § 141(a), substituted “December 31, 2021” for “December 31, 2020”.
+
+2019—Subsec. (d)(3)(A). Pub. L. 116–94, § 123(b)(1), substituted “a Uniform Energy Factor of at least 2.2” for “an energy factor of at least 2.0”.
+
+Subsec. (d)(3)(D). Pub. L. 116–94, § 123(b)(2), substituted “a Uniform Energy Factor” for “an energy factor”.
+
+Subsec. (g)(2). Pub. L. 116–94, § 123(a), substituted “December 31, 2020” for “December 31, 2017”.
+
 2018—Subsec. (b)(2). Pub. L. 115–141, § 401(a)(4), substituted “subsection (c)(3)(B)” for “subsection (c)(2)(B)”.
 
 Subsec. (d)(3)(B). Pub. L. 115–141, § 401(a)(5)(A), substituted comma for period at end.
@@ -4524,6 +4502,14 @@ Subsec. (g). Pub. L. 110–343, § 302(a), substituted “placed in service—�
 
 2005—Subsec. (b)(2). Pub. L. 109–135 substituted “subsection (c)(2)(B)” for “subsection (c)(3)(B)”.
 
+#### Effective Date of 2020 Amendment
+Pub. L. 116–260, div. EE, title I, § 141(b), Dec. 27, 2020, 134 Stat. 3054, provided that: “The amendment made by this section [amending this section] shall apply to property placed in service after December 31, 2020.”
+
+Pub. L. 116–260, div. EE, title I, § 148(c)(2), Dec. 27, 2020, 134 Stat. 3056, provided that: “The amendments made by subsection (b) [amending this section and [section 25D of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-25d)] shall apply to expenditures paid or incurred in taxable years beginning after December 31, 2020.”
+
+#### Effective Date of 2019 Amendment
+Pub. L. 116–94, div. Q, title I, § 123(c), Dec. 20, 2019, 133 Stat. 3231, provided that: “The amendments made by this section [amending this section] shall apply to property placed in service after December 31, 2017.”
+
 #### Effective Date of 2018 Amendment
 Pub. L. 115–123, div. D, title I, § 40401(b), Feb. 9, 2018, 132 Stat. 148, provided that: “The amendment made by this section [amending this section] shall apply to property placed in service after December 31, 2016.”
 
@@ -4561,9 +4547,11 @@ Pub. L. 109–58, title XIII, § 1333(c), Aug. 8, 2005, 119 Stat. 1030, provided
 
 (3) the qualified fuel cell property expenditures,
 
-(4) the qualified small wind energy property expenditures, and
+(4) the qualified small wind energy property expenditures,
 
-(5) the qualified geothermal heat pump property expenditures,
+(5) the qualified geothermal heat pump property expenditures, and
+
+(6) the qualified biomass fuel property expenditures, and
 made by the taxpayer during such year.
 
 **(b) Limitations**
@@ -4593,6 +4581,16 @@ made by the taxpayer during such year.
     (i) uses the ground or ground water as a thermal energy source to heat the dwelling unit referred to in subparagraph (A) or as a thermal energy sink to cool such dwelling unit, and
 
     (ii) meets the requirements of the Energy Star program which are in effect at the time that the expenditure for such equipment is made.
+
+(6) **Qualified biomass fuel property expenditure**
+
+  (A) *In general* — The term “qualified biomass fuel property expenditure” means an expenditure for property—
+
+    (i) which uses the burning of biomass fuel to heat a dwelling unit located in the United States and used as a residence by the taxpayer, or to heat water for use in such a dwelling unit, and
+
+    (ii) which has a thermal efficiency rating of at least 75 percent (measured by the higher heating value of the fuel).
+
+  (B) *Biomass fuel* — For purposes of this section, the term “biomass fuel” means any plant-derived fuel available on a renewable or recurring basis.
 
 **(e) Special rules** For purposes of this section—
 
@@ -4638,15 +4636,25 @@ made by the taxpayer during such year.
 
 (1) in the case of property placed in service after December 31, 2016, and before January 1, 2020, 30 percent,
 
-(2) in the case of property placed in service after December 31, 2019, and before January 1, 2021, 26 percent, and
+(2) in the case of property placed in service after December 31, 2019, and before January 1, 2023, 26 percent, and
 
-(3) in the case of property placed in service after December 31, 2020, and before January 1, 2022, 22 percent.
+(3) in the case of property placed in service after December 31, 2022, and before January 1, 2024, 22 percent.
 
-**(h) Termination** The credit allowed under this section shall not apply to property placed in service after December 31, 2021.
+**(h) Termination** The credit allowed under this section shall not apply to property placed in service after December 31, 2023.
 
 ### Statutory Notes
 
 #### Amendments
+2020—Subsec. (a)(6). Pub. L. 116–260, § 148(b)(1), added par. (6).
+
+Subsec. (d)(6). Pub. L. 116–260, § 148(b)(2), added par. (6).
+
+Subsec. (g)(2). Pub. L. 116–260, § 148(a)(2)(A), substituted “January 1, 2023” for “January 1, 2021”.
+
+Subsec. (g)(3). Pub. L. 116–260, § 148(a)(2)(B), substituted “after December 31, 2022, and before January 1, 2024” for “after December 31, 2020, and before January 1, 2022”.
+
+Subsec. (h). Pub. L. 116–260, § 148(a)(1), substituted “December 31, 2023” for “December 31, 2021”.
+
 2018—Subsec. (a). Pub. L. 115–123, § 40402(b)(1), substituted “the sum of the applicable percentages of—”, pars. (1) to (5), and concluding provisions for “the sum of—
 
 “(1) the applicable percentage of the qualified solar electric property expenditures made by the taxpayer during such year,
@@ -4724,6 +4732,11 @@ Subsec. (e)(4)(A), (B). Pub. L. 109–135, § 402(i)(2), amended subpars. (A) an
 “(A) The amount of the credit allowable, under subsection (a) by reason of expenditures (as the case may be) made during such calendar year by any of such individuals with respect to such dwelling unit shall be determined by treating all of such individuals as 1 taxpayer whose taxable year is such calendar year.
 
 “(B) There shall be allowable, with respect to such expenditures to each of such individuals, a credit under subsection (a) for the taxable year in which such calendar year ends in an amount which bears the same ratio to the amount determined under subparagraph (A) as the amount of such expenditures made by such individual during such calendar year bears to the aggregate of such expenditures made by all of such individuals during such calendar year.”
+
+#### Effective Date of 2020 Amendment
+Pub. L. 116–260, div. EE, title I, § 148(c)(1), Dec. 27, 2020, 134 Stat. 3056, provided that: “The amendments made by subsection (a) [amending this section] shall apply to property placed in service after December 31, 2020.”
+
+Amendment by section 148(b) of Pub. L. 116–260 applicable to expenditures paid or incurred in taxable years beginning after Dec. 31, 2020, see section 148(c)(2) of div. EE of Pub. L. 116–260, set out as a note under [section 25C of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-25c).
 
 #### Effective Date of 2018 Amendment
 Pub. L. 115–123, div. D, title I, § 40402(c), Feb. 9, 2018, 132 Stat. 148, provided that: “The amendment made by this section [amending this section] shall apply to property placed in service after December 31, 2016.”
@@ -5133,7 +5146,11 @@ Section, added Pub. L. 104–188, title I, § 1601(b)(1), Aug. 20, 1996, 110 Sta
 For provisions that nothing in repeal by Pub. L. 115–141 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Mar. 23, 2018, for purposes of determining liability for tax for periods ending after Mar. 23, 2018, see section 401(e) of Pub. L. 115–141, set out as a note under [section 23 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-23).
 
 #### American Samoa Economic Development Credit
-Pub. L. 109–432, div. A, title I, § 119, Dec. 20, 2006, 120 Stat. 2942, as amended by Pub. L. 110–343, div. C, title III, § 309(a), Oct. 3, 2008, 122 Stat. 3869; Pub. L. 111–312, title VII, § 756(a), Dec. 17, 2010, 124 Stat. 3322; Pub. L. 112–240, title III, § 330(a), (b), Jan. 2, 2013, 126 Stat. 2335; Pub. L. 113–295, div. A, title I, § 141(a), Dec. 19, 2014, 128 Stat. 4020; Pub. L. 114–113, div. Q, title I, § 173(a), Dec. 18, 2015, 129 Stat. 3071; Pub. L. 115–123, div. D, title I, § 40312(a), Feb. 9, 2018, 132 Stat. 147, provided that: “(a) In General.—For purposes of [former] section 30A of the Internal Revenue Code of 1986, a domestic corporation shall be treated as a qualified domestic corporation to which such section applies if—“(1) in the case of a taxable year beginning before January 1, 2012, such corporation—“(A) is an existing credit claimant with respect to American Samoa, and “(B) elected the application of [former] section 936 of the Internal Revenue Code of 1986 for its last taxable year beginning before January 1, 2006, and “(2) in the case of a taxable year beginning after December 31, 2011, such corporation meets the requirements of subsection (e). “(b) Special Rules for Application of Section.—The following rules shall apply in applying [former] section 30A of the Internal Revenue Code of 1986 for purposes of this section:“(1) Amount of credit.—Notwithstanding section 30A(a)(1) of such Code, the amount of the credit determined under section 30A(a)(1) of such Code for any taxable year shall be the amount determined under section 30A(d) of such Code, except that section 30A(d) shall be applied without regard to paragraph (3) thereof. “(2) Separate application.—In applying section 30A(a)(3) of such Code in the case of a corporation treated as a qualified domestic corporation by reason of this section, section [former] 30A of such Code (and so much of [former] section 936 of such Code as relates to such [former] section 30A) shall be applied separately with respect to American Samoa. “(3) Foreign tax credit allowed.—Notwithstanding [former] section 30A(e) of such Code, the provisions of [former] section 936(c) of such Code shall not apply with respect to the credit allowed by reason of this section. “(c) Definitions.—For purposes of this section, any term which is used in this section which is also used in [former] section 30A or 936 of such Code shall have the same meaning given such term by such [former] section 30A or 936. “(d) Application of Section.—Notwithstanding [former] section 30A(h) or [former] section 936(j) of such Code, this section (and so much of [former] section 30A and [former] section 936 of such Code as relates to this section) shall apply—“(1) in the case of a corporation that meets the requirements of subparagraphs (A) and (B) of subsection (a)(1), to the first 12 taxable years of such corporation which begin after December 31, 2006, and before January 1, 2018, and “(2) in the case of a corporation that does not meet the requirements of subparagraphs (A) and (B) of subsection (a)(1), to the first 6 taxable years of such corporation which begin after December 31, 2011, and before January 1, 2018. “(e) Qualified Production Activities Income Requirement.—A corporation meets the requirement of this subsection if such corporation has qualified production activities income, as defined in [former] subsection (c) of section 199 of the Internal Revenue Code of 1986, determined by substituting ‘American Samoa’ for ‘the United States’ each place it appears in paragraphs (3), (4), and (6) of such subsection (c), for the taxable year. References in this subsection to section 199 of the Internal Revenue Code of 1986 shall be treated as references to such section as in effect before its repeal.”
+Pub. L. 109–432, div. A, title I, § 119, Dec. 20, 2006, 120 Stat. 2942, as amended by Pub. L. 110–343, div. C, title III, § 309(a), Oct. 3, 2008, 122 Stat. 3869; Pub. L. 111–312, title VII, § 756(a), Dec. 17, 2010, 124 Stat. 3322; Pub. L. 112–240, title III, § 330(a), (b), Jan. 2, 2013, 126 Stat. 2335; Pub. L. 113–295, div. A, title I, § 141(a), Dec. 19, 2014, 128 Stat. 4020; Pub. L. 114–113, div. Q, title I, § 173(a), Dec. 18, 2015, 129 Stat. 3071; Pub. L. 115–123, div. D, title I, § 40312(a), Feb. 9, 2018, 132 Stat. 147; Pub. L. 116–94, div. Q, title I, § 119(a), (b), Dec. 20, 2019, 133 Stat. 3230; Pub. L. 116–260, div. EE, title I, § 139(a), Dec. 27, 2020, 134 Stat. 3054, provided that: “(a) In General.—For purposes of [former] section 30A of the Internal Revenue Code of 1986, a domestic corporation shall be treated as a qualified domestic corporation to which such section applies if—“(1) in the case of a taxable year beginning before January 1, 2012, such corporation—“(A) is an existing credit claimant with respect to American Samoa, and “(B) elected the application of [former] section 936 of the Internal Revenue Code of 1986 for its last taxable year beginning before January 1, 2006, and “(2) in the case of a taxable year beginning after December 31, 2011, such corporation meets the requirements of subsection (e). “(b) Special Rules for Application of Section.—The following rules shall apply in applying [former] section 30A of the Internal Revenue Code of 1986 for purposes of this section:“(1) Amount of credit.—Notwithstanding section 30A(a)(1) of such Code, the amount of the credit determined under section 30A(a)(1) of such Code for any taxable year shall be the amount determined under section 30A(d) of such Code, except that section 30A(d) shall be applied without regard to paragraph (3) thereof. “(2) Separate application.—In applying section 30A(a)(3) of such Code in the case of a corporation treated as a qualified domestic corporation by reason of this section, section [former] 30A of such Code (and so much of [former] section 936 of such Code as relates to such [former] section 30A) shall be applied separately with respect to American Samoa. “(3) Foreign tax credit allowed.—Notwithstanding [former] section 30A(e) of such Code, the provisions of [former] section 936(c) of such Code shall not apply with respect to the credit allowed by reason of this section. “(c) Definitions.—For purposes of this section, any term which is used in this section which is also used in [former] section 30A or 936 of such Code shall have the same meaning given such term by such [former] section 30A or 936. “(d) Application of Section.—Notwithstanding [former] section 30A(h) or [former] section 936(j) of such Code, this section (and so much of [former] section 30A and [former] section 936 of such Code as relates to this section) shall apply—“(1) in the case of a corporation that meets the requirements of subparagraphs (A) and (B) of subsection (a)(1), to the first 16 taxable years of such corporation which begin after December 31, 2006, and before January 1, 2022, and “(2) in the case of a corporation that does not meet the requirements of subparagraphs (A) and (B) of subsection (a)(1), to the first 10 taxable years of such corporation which begin after December 31, 2011, and before January 1, 2022. In the case of a corporation described in subsection (a)(2), the Internal Revenue Code of 1986 shall be applied and administered without regard to the amendments made by section 401(d)(1) of the Tax Technical Corrections Act of 2018 [div. U of Pub. L. 115–141, see Tables for classification]. “(e) Qualified Production Activities Income Requirement.—A corporation meets the requirement of this subsection if such corporation has qualified production activities income, as defined in [former] subsection (c) of section 199 of the Internal Revenue Code of 1986 (as in effect before its repeal), determined by substituting ‘American Samoa’ for ‘the United States’ each place it appears in paragraphs (3), (4), and (6) of such subsection (c), for the taxable year. References in this subsection to section 199 of the Internal Revenue Code of 1986 shall be treated as references to such section as in effect before its repeal.”
+
+[Pub. L. 116–260, div. EE, title I, § 139(b), Dec. 27, 2020, 134 Stat. 3054, provided that: “The amendments made by this section [amending section 119 of Pub. L. 109–432, set out above] shall apply to taxable years beginning after December 31, 2020.” ]
+
+[Pub. L. 116–94, div. Q, title I, § 119(c), Dec. 20, 2019, 133 Stat. 3230, provided that: “The amendments made by this section [amending section 119 of Pub. L. 109–432, set out above] shall apply to taxable years beginning after December 31, 2017.” ]
 
 [Pub. L. 115–123, div. D, title I, § 40312(b), Feb. 9, 2018, 132 Stat. 147, provided that: “The amendments made by this section [amending section 119 of Pub. L. 109–432, set out above] shall apply to taxable years beginning after December 31, 2016.” ]
 
@@ -5476,7 +5493,7 @@ Pub. L. 109–432, div. A, title I, § 119, Dec. 20, 2006, 120 Stat. 2942, as am
 
 **(k) Termination** This section shall not apply to any property purchased after—
 
-(1) in the case of a new qualified fuel cell motor vehicle (as described in subsection (b)), December 31, 2017,
+(1) in the case of a new qualified fuel cell motor vehicle (as described in subsection (b)), December 31, 2021,
 
 (2) in the case of a new advanced lean burn technology motor vehicle (as described in subsection (c)) or a new qualified hybrid motor vehicle (as described in subsection (d)(2)(A)), December 31, 2010,
 
@@ -5494,6 +5511,10 @@ The date of the enactment of this section, referred to in subsecs. (b)(3)(B) and
 The date of the enactment of the Energy Tax Incentives Act of 2005, referred to in subsec. (e)(2), is the date of enactment of title XIII of Pub. L. 109–58, which was approved Aug. 8, 2005.
 
 #### Amendments
+2020—Subsec. (k)(1). Pub. L. 116–260 substituted “December 31, 2021” for “December 31, 2020”.
+
+2019—Subsec. (k)(1). Pub. L. 116–94 substituted “December 31, 2020” for “December 31, 2017”.
+
 2018—Subsec. (k)(1). Pub. L. 115–123 substituted “December 31, 2017” for “December 31, 2016”.
 
 2015—Subsec. (k)(1). Pub. L. 114–113 substituted “December 31, 2016” for “December 31, 2014”.
@@ -5527,6 +5548,12 @@ Subsecs. (i) to (k). Pub. L. 111–5, § 1143(a), added subsec. (i) and redesign
 2005—Subsec. (g)(2)(A). Pub. L. 109–135, § 412(d), substituted “regular tax liability (as defined in section 26(b))” for “regular tax”.
 
 Subsec. (h)(6). Pub. L. 109–135, § 402(j), inserted at end “For purposes of subsection (g), property to which this paragraph applies shall be treated as of a character subject to an allowance for depreciation.”
+
+#### Effective Date of 2020 Amendment
+Pub. L. 116–260, div. EE, title I, § 142(b), Dec. 27, 2020, 134 Stat. 3054, provided that: “The amendment made by this section [amending this section] shall apply to property purchased after December 31, 2020.”
+
+#### Effective Date of 2019 Amendment
+Pub. L. 116–94, div. Q, title I, § 124(b), Dec. 20, 2019, 133 Stat. 3231, provided that: “The amendment made by this section [amending this section] shall apply to property purchased after December 31, 2017.”
 
 #### Effective Date of 2018 Amendment
 Pub. L. 115–123, div. D, title I, § 40403(b), Feb. 9, 2018, 132 Stat. 148, provided that: “The amendment made by this section [amending this section] shall apply to property purchased after December 31, 2016.”
@@ -5616,7 +5643,7 @@ Pub. L. 109–58, title XIII, § 1341(c), Aug. 8, 2005, 119 Stat. 1049, provided
 
 **(f) Regulations** The Secretary shall prescribe such regulations as necessary to carry out the provisions of this section.
 
-**(g) Termination** This section shall not apply to any property placed in service after December 31, 2017.
+**(g) Termination** This section shall not apply to any property placed in service after December 31, 2021.
 
 ### Statutory Notes
 
@@ -5624,6 +5651,10 @@ Pub. L. 109–58, title XIII, § 1341(c), Aug. 8, 2005, 119 Stat. 1049, provided
 Section 179A as in effect immediately before its repeal, referred to in subsec. (e)(6), means [section 179A of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-179a) as in effect before it was repealed by Pub. L. 113–295, div. A, title II, § 221(a)(34)(A), Dec, 19, 2014, 128 Stat. 4042, effective Dec. 19, 2014.
 
 #### Amendments
+2020—Subsec. (g). Pub. L. 116–260 substituted “December 31, 2021” for “December 31, 2020”.
+
+2019—Subsec. (g). Pub. L. 116–94 substituted “December 31, 2020” for “December 31, 2017”.
+
 2018—Subsec. (e)(6), (7). Pub. L. 115–141 redesignated par. (7) as (6) and struck out former par. (6) which related to special rule for property placed in service during 2009 and 2010.
 
 Subsec. (g). Pub. L. 115–123 substituted “December 31, 2017” for “December 31, 2016”.
@@ -5669,6 +5700,12 @@ Subsec. (c). Pub. L. 110–172, § 6(b)(2), reenacted heading without change and
 2005—Subsec. (d)(2)(A). Pub. L. 109–135, § 412(d), substituted “regular tax liability (as defined in section 26(b))” for “regular tax”.
 
 Subsec. (e)(2). Pub. L. 109–135, § 402(k), inserted at end “For purposes of subsection (d), property to which this paragraph applies shall be treated as of a character subject to an allowance for depreciation.”
+
+#### Effective Date of 2020 Amendment
+Pub. L. 116–260, div. EE, title I, § 143(b), Dec. 27, 2020, 134 Stat. 3054, provided that: “The amendment made by this section [amending this section] shall apply to property placed in service after December 31, 2020.”
+
+#### Effective Date of 2019 Amendment
+Pub. L. 116–94, div. Q, title I, § 125(b), Dec. 20, 2019, 133 Stat. 3231, provided that: “The amendment made by this section [amending this section] shall apply to property placed in service after December 31, 2017.”
 
 #### Effective Date of 2018 Amendment
 Pub. L. 115–123, div. D, title I, § 40404(b), Feb. 9, 2018, 132 Stat. 148, provided that: “The amendment made by this section [amending this section] shall apply to property placed in service after December 31, 2016.”
@@ -5820,7 +5857,7 @@ For provisions that nothing in amendment by Pub. L. 115–141 be construed to af
 
     (i) after December 31, 2011, and before January 1, 2014, or
 
-    (ii) in the case of a vehicle that has 2 wheels, after December 31, 2014, and before January 1, 2018.
+    (ii) in the case of a vehicle that has 2 wheels, after December 31, 2014, and before January 1, 2022.
 
 ### Statutory Notes
 
@@ -5828,6 +5865,10 @@ For provisions that nothing in amendment by Pub. L. 115–141 be construed to af
 The Clean Air Act, referred to in subsecs. (d)(1)(D), (3), (f)(7)(A), is act July 14, 1955, ch. 360, 69 Stat. 322, which is classified generally to chapter 85 (§ 7401 et seq.) of Title 42, The Public Health and Welfare. Title II of the Act, known as the National Emissions Standards Act, is classified generally to subchapter II (§ 7521 et seq.) of chapter 85 of Title 42. Section 209(b) of the Act is classified to [section 7543(b) of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section7543/b&num=0&edition=prelim). For complete classification of this Act to the Code, see Short Title note set out under [section 7401 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section7401&num=0&edition=prelim) and Tables.
 
 #### Amendments
+2020—Subsec. (g)(3)(E)(ii). Pub. L. 116–260 substituted “January 1, 2022” for “January 1, 2021”.
+
+2019—Subsec. (g)(3)(E)(ii). Pub. L. 116–94 substituted “January 1, 2021” for “January 1, 2018”.
+
 2018—Subsec. (g)(3)(E)(ii). Pub. L. 115–123 substituted “January 1, 2018” for “January 1, 2017”.
 
 2015—Subsec. (g)(3)(E). Pub. L. 114–113 substituted “acquired—” for “acquired after December 31, 2011, and before January 1, 2014.” and added cls. (i) and (ii).
@@ -5847,6 +5888,12 @@ Subsec. (g). Pub. L. 112–240, § 403(a), added subsec. (g).
 2010—Subsec. (c)(2)(B)(ii). Pub. L. 111–148, § 10909(b)(2)(H), (c), as amended by Pub. L. 111–312, temporarily substituted “section 25D” for “sections 23 and 25D”. See Effective and Termination Dates of 2010 Amendment note below.
 
 2009—Pub. L. 111–5 amended section generally. Prior to amendment, section provided credit with respect to each new qualified plug-in electric drive motor vehicle placed in service and set forth provisions defining “applicable amount” and “new qualified plug-in electric drive motor vehicle” and stating limitations based on vehicle weight, the number of vehicles eligible for credit, and amount of tax liability.
+
+#### Effective Date of 2020 Amendment
+Pub. L. 116–260, div. EE, title I, § 144(b), Dec. 27, 2020, 134 Stat. 3054, provided that: “The amendment made by this section [amending this section] shall apply to vehicles acquired after December 31, 2020.”
+
+#### Effective Date of 2019 Amendment
+Pub. L. 116–94, div. Q, title I, § 126(b), Dec. 20, 2019, 133 Stat. 3231, provided that: “The amendment made by this section [amending this section] shall apply to vehicles acquired after December 31, 2017.”
 
 #### Effective Date of 2018 Amendment
 Pub. L. 115–123, div. D, title I, § 40405(b), Feb. 9, 2018, 132 Stat. 148, provided that: “The amendment made by this section [amending this section] shall apply to vehicles acquired after December 31, 2016.”
@@ -6605,6 +6652,9 @@ Pub. L. 94–12, title II, § 209(b), Mar. 29, 1975, 89 Stat. 35, as amended by 
 #### Savings Provision
 For provisions that nothing in amendment by section 401(b)(4) of Pub. L. 115–141 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Mar. 23, 2018, for purposes of determining liability for tax for periods ending after Mar. 23, 2018, see section 401(e) of Pub. L. 115–141, set out as a note under [section 23 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-23).
 
+#### Temporary Special Rule for Determination of Earned Income
+Pub. L. 116–260, div. EE, title II, § 211, Dec. 27, 2020, 134 Stat. 3066, provided that: “(a) In General.—If the earned income of the taxpayer for the taxpayer’s first taxable year beginning in 2020 is less than the earned income of the taxpayer for the preceding taxable year, the credits allowed under sections 24(d) and 32 of the Internal Revenue Code of 1986 may, at the election of the taxpayer, be determined by substituting—“(1) such earned income for the preceding taxable year, for “(2) such earned income for the taxpayer’s first taxable year beginning in 2020. “(b) Earned Income.—“(1) In general.—For purposes of this section, the term ‘earned income’ has the meaning given such term under section 32(c) of the Internal Revenue Code of 1986. “(2) Application to joint returns.—For purposes of subsection (a), in the case of a joint return, the earned income of the taxpayer for the preceding taxable year shall be the sum of the earned income of each spouse for such preceding taxable year. “(c) Special Rules.—“(1) Errors treated as mathematical error.—For purposes of section 6213 of the Internal Revenue Code of 1986, an incorrect use on a return of earned income pursuant to subsection (a) shall be treated as a mathematical or clerical error. “(2) No effect on determination of gross income, etc.—Except as otherwise provided in this section, the Internal Revenue Code of 1986 shall be applied without regard to any substitution under subsection (a).”
+
 #### Study on Earned Income Tax Credit Certification Program
 Pub. L. 108–199, div. F, title II, § 206, Jan. 23, 2004, 118 Stat. 319, provided that: “(a) Study.—The Internal Revenue Service shall conduct a study, as a part of any program that requires certification (including pre-certification) in order to claim the earned income tax credit under section 32 of the Internal Revenue Code of 1986, on the following matters:“(1) The costs (in time and money) incurred by the participants in the program. “(2) The administrative costs incurred by the Internal Revenue Service in operating the program. “(3) The percentage of individuals included in the program who were not certified for the credit, including the percentage of individuals who were not certified due to—“(A) ineligibility for the credit; and “(B) failure to complete the requirements for certification. “(4) The percentage of individuals to whom paragraph (3)(B) applies who were—“(A) otherwise eligible for the credit; and “(B) otherwise ineligible for the credit. “(5) The percentage of individuals to whom paragraph (3)(B) applies who—“(A) did not respond to the request for certification; and “(B) responded to such request but otherwise failed to complete the requirements for certification. “(6) The reasons—“(A) for which individuals described in paragraph (5)(A) did not respond to requests for certification; and “(B) for which individuals described in paragraph (5)(B) had difficulty in completing the requirements for certification. “(7) The characteristics of those individuals who were denied the credit due to—“(A) failure to complete the requirements for certification; and “(B) ineligibility for the credit. “(8) The impact of the program on non-English speaking participants. “(9) The impact of the program on homeless and other highly transient individuals. “(b) Report.—“(1) Preliminary report.—Not later than July 30, 2004, the Commissioner of the Internal Revenue Service shall submit to Congress a preliminary report on the study conducted under subsection (a). “(2) Final report.—Not later than June 30, 2005, the Commissioner of the Internal Revenue Service shall submit to Congress a final report detailing the findings of the study conducted under subsection (a).”
 
@@ -6781,7 +6831,7 @@ Section applicable to taxable years beginning on or after July 1, 1965, see sect
 
     (iv) is not imprisoned under Federal, State, or local authority, and
 
-  (B) such month begins more than 90 days after the date of the enactment of the Trade Act of 2002, and before January 1, 2020.
+  (B) such month begins more than 90 days after the date of the enactment of the Trade Act of 2002, and before January 1, 2022.
 
 (2) **Joint returns** — In the case of a joint return, the requirements of paragraph (1)(A) shall be treated as met with respect to any month if at least 1 spouse satisfies such requirements.
 
@@ -7009,6 +7059,10 @@ A prior section 35 was renumbered [section 37 of this title](./chapter-001-norma
 Another prior section 35, acts Aug. 16, 1954, ch. 736, 68A Stat. 14; Sept. 2, 1958, Pub. L. 85–866, title I, § 41(b), 72 Stat. 1639; Feb. 26, 1964, Pub. L. 88–272, title II, § 201(d)(2), 78 Stat. 32, related to partially tax-exempt interest received by individuals, prior to repeal by Pub. L. 94–455, title XIX, § 1901(a)(2), Oct. 4, 1976, 90 Stat. 1764, effective with respect to taxable years beginning after Dec. 31, 1976.
 
 #### Amendments
+2020—Subsec. (b)(1)(B). Pub. L. 116–260 substituted “January 1, 2022” for “January 1, 2021”.
+
+2019—Subsec. (b)(1)(B). Pub. L. 116–94 substituted “January 1, 2021” for “January 1, 2020”.
+
 2015—Subsec. (b)(1)(B). Pub. L. 114–27, § 407(a), substituted “before January 1, 2020” for “before January 1, 2014”.
 
 Subsec. (e)(1)(J). Pub. L. 114–27, § 407(d)(2), inserted “(other than coverage enrolled in through an Exchange established under the Patient Protection and Affordable Care Act)” after “under individual health insurance”
@@ -7062,6 +7116,12 @@ Subsec. (g)(11). Pub. L. 111–5, § 3001(a)(14)(A), as amended by Pub. L. 113�
 2007—Subsec. (d)(2). Pub. L. 110–172 struck out “paragraph (2) or (4) of” before “section 152(e)” and substituted “(as defined in section 152(e)(4)(A))” for “(within the meaning of section 152(e)(1))”.
 
 2004—Subsec. (g)(3). Pub. L. 108–311 amended heading and text of par. (3) generally. Prior to amendment, text read as follows: “Amounts distributed from an Archer MSA (as defined in section 220(d)) shall not be taken into account under subsection (a).”
+
+#### Effective Date of 2020 Amendment
+Pub. L. 116–260, div. EE, title I, § 134(b), Dec. 27, 2020, 134 Stat. 3053, provided that: “The amendment made by this section [amending this section] shall apply to months beginning after December 31, 2020.”
+
+#### Effective Date of 2019 Amendment
+Pub. L. 116–94, div. Q, title I, § 146(b), Dec. 20, 2019, 133 Stat. 3236, provided that: “The amendment made by this section [amending this section] shall apply to months beginning after December 31, 2019.”
 
 #### Effective Date of 2015 Amendment
 Pub. L. 114–27, title IV, § 407(f), June 29, 2015, 129 Stat. 382, provided that: “(1) In general.—Except as provided in paragraph (2), the amendments made by this section [amending this section and sections 6501 and 7527 of this title] shall apply to coverage months in taxable years beginning after December 31, 2013. “(2) Plans available on individual market for use of tax credit.—The amendment made by subsection (d)(2) [amending this section] shall apply to coverage months in taxable years beginning after December 31, 2015. “(3) Transition rule.—Notwithstanding section 35(g)(11)(B)(i) of the Internal Revenue Code of 1986 (as added by this title), an election to apply section 35 of such Code to an eligible coverage month (as defined in section 35(b) of such Code) (and not to claim the credit under section 36B of such Code with respect to such month) in a taxable year beginning after December 31, 2013, and before the date of the enactment of this Act [June 29, 2015]—“(A) may be made at any time on or after such date of enactment and before the expiration of the 3-year period of limitation prescribed in section 6511(a) with respect to such taxable year; and “(B) may be made on an amended return.”
@@ -7743,9 +7803,11 @@ A prior section 37 was renumbered [section 22 of this title](./chapter-001-norma
 
 (30) the portion of the new qualified plug-in electric drive motor vehicle credit to which section 30D(c)(1) applies,
 
-(31) the small employer health insurance credit determined under section 45R, plus
+(31) the small employer health insurance credit determined under section 45R,
 
-(32) in the case of an eligible employer (as defined in section 45S(c)), the paid family and medical leave credit determined under section 45S(a).
+(32) in the case of an eligible employer (as defined in section 45S(c)), the paid family and medical leave credit determined under section 45S(a), plus
+
+(33) in the case of an eligible employer (as defined in section 45T(c)), the retirement auto-enrollment credit determined under section 45T(a).
 
 **(c) Limitation based on amount of tax**
 
@@ -7861,6 +7923,8 @@ A prior section 38, added Pub. L. 87–834, § 2(a), Oct. 16, 1962, 76 Stat. 962
 Another prior section 38 was renumbered [section 37 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-37).
 
 #### Amendments
+2019—Subsec. (b)(33). Pub. L. 116–94 added par. (33).
+
 2018—Subsec. (b)(24), (25). Pub. L. 115–141, § 401(d)(2)(B), redesignated pars. (25) and (26) as (24) and (25), respectively, and struck out former par. (24) which read as follows: “the energy efficient appliance credit determined under section 45M(a),”.
 
 Subsec. (b)(26) to (29). Pub. L. 115–141, § 401(d)(2)(B), (6)(B)(i), redesignated pars. (31) to (34) first as (30) to (33), and then as (26) to (29), respectively. Former par. (26) redesignated (25), and former pars. (27) to (29) redesignated (26) to (28), respectively, and then struck out.
@@ -8110,6 +8174,9 @@ Pub. L. 99–514, § 1171(b)(2), substituted “and 196(a)” for “196(a), and
 Pub. L. 99–514, § 231(d)(3)(B), inserted “41(a),” after “40(a),”.
 
 1984—Subsec. (c)(2). Pub. L. 98–369, § 612(e)(1), substituted “section 26(b)” for “section 25(b)”.
+
+#### Effective Date of 2019 Amendment
+Pub. L. 116–94, div. O, title I, § 105(d), Dec. 20, 2019, 133 Stat. 3148, provided that: “The amendments made by this section [enacting [section 45T of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-45t) and amending this section] shall apply to taxable years beginning after December 31, 2019.”
 
 #### Effective Date of 2017 Amendment
 Amendment by section 12001(b)(1) of Pub. L. 115–97 applicable to taxable years beginning after Dec. 31, 2017, see section 12001(c) of Pub. L. 115–97, set out as a note under [section 11 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-11).
@@ -8590,7 +8657,7 @@ For provisions directing that if any amendments made by subtitle A or subtitle C
 
   (J) *Application of paragraph*
 
-    (i) *In general* — This paragraph shall apply with respect to qualified second generation biofuel production after December 31, 2008, and before January 1, 2018.
+    (i) *In general* — This paragraph shall apply with respect to qualified second generation biofuel production after December 31, 2008, and before January 1, 2022.
 
     (ii) *No carryover to certain years after expiration* — If this paragraph ceases to apply for any period by reason of clause (i), rules similar to the rules of subsection (e)(2) shall apply.
 
@@ -8740,6 +8807,10 @@ A prior section 40, added Pub. L. 92–178, title VI, § 601(a), Dec. 10, 1971, 
 Another prior section 40 was renumbered [section 37 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-37).
 
 #### Amendments
+2020—Subsec. (b)(6)(J)(i). Pub. L. 116–260 substituted “January 1, 2022” for “January 1, 2021”.
+
+2019—Subsec. (b)(6)(J)(i). Pub. L. 116–94 substituted “January 1, 2021” for “January 1, 2018”.
+
 2018—Subsec. (b)(6)(J)(i). Pub. L. 115–123 substituted “January 1, 2018” for “January 1, 2017”.
 
 Subsec. (g)(2). Pub. L. 115–141 substituted “Aggregation” for “Aggregration” in heading.
@@ -8909,6 +8980,12 @@ Subsec. (d)(3)(A), (B). Pub. L. 97–424, § 511(d)(3), substituted “50 cents�
 1982—Subsec. (d)(5). Pub. L. 97–354 substituted “Pass-thru in the case of estates and trusts” for “Pass-through in the case of subchapter S corporations, etc.” in par. heading, and substituted provisions relating to the applicability of rules similar to rules of subsec. (d) of section 52 for provisions relating to the applicability of rules similar to rules of subsecs. (d) and (e) of section 52.
 
 1981—Subsec. (e)(2)(A). Pub. L. 97–34 substituted “15” for “7” in two places, and “14” for “6” in one place.
+
+#### Effective Date of 2020 Amendment
+Pub. L. 116–260, div. EE, title I, § 140(b), Dec. 27, 2020, 134 Stat. 3054, provided that: “The amendment made by this section [amending this section] shall apply to qualified second generation biofuel production after December 31, 2020.”
+
+#### Effective Date of 2019 Amendment
+Pub. L. 116–94, div. Q, title I, § 122(b), Dec. 20, 2019, 133 Stat. 3231, provided that: “The amendment made by this section [amending this section] shall apply to qualified second generation biofuel production after December 31, 2017.”
 
 #### Effective Date of 2018 Amendment
 Pub. L. 115–123, div. D, title I, § 40406(b), Feb. 9, 2018, 132 Stat. 149, provided that: “The amendment made by this section [amending this section] shall apply to qualified second generation biofuel production after December 31, 2016.”
@@ -9150,7 +9227,7 @@ Pub. L. 96–223, title II, § 232(h)(1), (4), Apr. 2, 1980, 94 Stat. 281, as am
 
   (B) *Application of mixture credits* — In the case of fuel which is treated as renewable diesel solely by reason of subparagraph (A), subsection (b)(1) and section 6426(c) shall be applied with respect to such fuel by treating kerosene as though it were diesel fuel.
 
-**(g) Termination** This section shall not apply to any sale or use after December 31, 2017.
+**(g) Termination** This section shall not apply to any sale or use after December 31, 2022.
 
 ### Statutory Notes
 
@@ -9158,6 +9235,8 @@ Pub. L. 96–223, title II, § 232(h)(1), (4), Apr. 2, 1980, 94 Stat. 281, as am
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
+2019—Subsec. (g). Pub. L. 116–94 substituted “December 31, 2022” for “December 31, 2017”.
+
 2018—Subsec. (g). Pub. L. 115–123 substituted “December 31, 2017” for “December 31, 2016”.
 
 2015—Subsec. (g). Pub. L. 114–113 substituted “December 31, 2016” for “December 31, 2014”.
@@ -9227,6 +9306,9 @@ Subsec. (f). Pub. L. 109–58, § 1346(a), added subsec. (f). Former subsec. (f)
 Pub. L. 109–58, § 1345(c), redesignated subsec. (e) as (f).
 
 Subsec. (g). Pub. L. 109–58, § 1346(a), redesignated subsec. (f) as (g).
+
+#### Effective Date of 2019 Amendment
+Pub. L. 116–94, div. Q, title I, § 121(a)(2), Dec. 20, 2019, 133 Stat. 3230, provided that: “The amendment made by this subsection [amending this section] shall apply to fuel sold or used after December 31, 2017.”
 
 #### Effective Date of 2018 Amendment
 Pub. L. 115–123, div. D, title I, § 40407(a)(2), Feb. 9, 2018, 132 Stat. 149, provided that: “The amendment made by this subsection [amending this section] shall apply to fuel sold or used after December 31, 2016.”
@@ -10237,7 +10319,9 @@ Pub. L. 98–369, div. A, title IV, § 474(i)(2), July 18, 1984, 98 Stat. 832, p
   (B) which is not federally subsidized for the taxable year,
   the applicable percentage shall not be less than 9 percent.
 
-(3) **Cross references**
+(3) **Minimum credit rate** — In the case of any new or existing building to which paragraph (2) does not apply and which is placed in service by the taxpayer after December 31, 2020, the applicable percentage shall not be less than 4 percent.
+
+(4) **Cross references**
 
   (A) For treatment of certain rehabilitation expenditures as separate new buildings, see subsection (e).
 
@@ -11285,6 +11369,8 @@ A prior section 42, added Pub. L. 94–12, title II, § 203(a), Mar. 29, 1975, 8
 Another prior section 42 was renumbered [section 37 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-37).
 
 #### Amendments
+2020—Subsec. (b)(3), (4). Pub. L. 116–260 added par. (3) and redesignated former par. (3) as (4).
+
 2018—Subsec. (d)(4)(C)(i). Pub. L. 115–141, § 401(a)(11)(A), substituted “as defined in paragraph (5)(B)(ii)” for “as defined in paragraph (5)(C)”.
 
 Subsec. (e)(2)(B). Pub. L. 115–141, § 401(a)(10), substituted “etc.,” for “etc,” in heading.
@@ -11787,6 +11873,9 @@ Subsec. (n)(1). Pub. L. 100–647, § 1002(l)(25), inserted “, and, except for
 
 1986—Subsec. (k)(1). Pub. L. 99–509 substituted “subparagraphs (D)(ii)(II) and (D)(iv)(I)” for “subparagraph (D)(iv)(I)”.
 
+#### Effective Date of 2020 Amendment
+Pub. L. 116–260, div. EE, title II, § 201(b), Dec. 27, 2020, 134 Stat. 3056, provided that: “The amendments made by this section [amending this section] shall apply to— “(1) any building which receives an allocation of housing credit dollar amount after December 31, 2020, and “(2) in the case of any building any portion of which is financed with an obligation described in section 42(h)(4)(A), any such building if any such obligation which so finances such building is issued after December 31, 2020.”
+
 #### Effective Date of 2018 Amendment
 Pub. L. 115–141, div. T, § 102(b), Mar. 23, 2018, 132 Stat. 1157, provided that: “The amendment made by this section [amending this section] shall apply to calendar years beginning after December 31, 2017.”
 
@@ -12034,6 +12123,8 @@ Pub. L. 101–508, title XI, § 11511(d), Nov. 5, 1990, 104 Stat. 1388–485, pr
 #### Inflation Adjusted Items for Certain Years
 Provisions relating to inflation adjustment of items in this section for certain years were contained in the following:
 
+2019—Internal Revenue Notice 2019–36.
+
 2018—Internal Revenue Notice 2018–49.
 
 2017—Internal Revenue Notice 2017–25.
@@ -12256,9 +12347,11 @@ Repeal applicable to taxable years beginning after Dec. 31, 1983, and to carryba
 
   (A) in the case of any facility the construction of which begins after December 31, 2016, and before January 1, 2018, 20 percent,
 
-  (B) in the case of any facility the construction of which begins after December 31, 2017, and before January 1, 2019, 40 percent, and
+  (B) in the case of any facility the construction of which begins after December 31, 2017, and before January 1, 2019, 40 percent,
 
-  (C) in the case of any facility the construction of which begins after December 31, 2018, and before January 1, 2020, 60 percent.
+  (C) in the case of any facility the construction of which begins after December 31, 2018, and before January 1, 2020, 60 percent, and
+
+  (D) in the case of any facility the construction of which begins after December 31, 2019, and before January 1, 2022, 40 percent.
 
 **(c) Resources** For purposes of this section:
 
@@ -12390,16 +12483,16 @@ Repeal applicable to taxable years beginning after Dec. 31, 1983, and to carryba
 
 **(d) Qualified facilities** For purposes of this section:
 
-(1) **Wind facility** — In the case of a facility using wind to produce electricity, the term “qualified facility” means any facility owned by the taxpayer which is originally placed in service after December 31, 1993, and the construction of which begins before January 1, 2020. Such term shall not include any facility with respect to which any qualified small wind energy property expenditure (as defined in subsection (d)(4) of section 25D) is taken into account in determining the credit under such section.
+(1) **Wind facility** — In the case of a facility using wind to produce electricity, the term “qualified facility” means any facility owned by the taxpayer which is originally placed in service after December 31, 1993, and the construction of which begins before January 1, 2022. Such term shall not include any facility with respect to which any qualified small wind energy property expenditure (as defined in subsection (d)(4) of section 25D) is taken into account in determining the credit under such section.
 
 (2) **Closed-loop biomass facility**
 
   (A) *In general* — In the case of a facility using closed-loop biomass to produce electricity, the term “qualified facility” means any facility—
 
-    (i) owned by the taxpayer which is originally placed in service after December 31, 1992, and the construction of which begins before January 1, 2018, or
+    (i) owned by the taxpayer which is originally placed in service after December 31, 1992, and the construction of which begins before January 1, 2022, or
 
-    (ii) owned by the taxpayer which before January 1, 2018, is originally placed in service and modified to use closed-loop biomass to co-fire with coal, with other biomass, or with both, but only if the modification is approved under the Biomass Power for Rural Development Programs or is part of a pilot project of the Commodity Credit Corporation as described in 65 Fed. Reg. 63052.
-    For purposes of clause (ii), a facility shall be treated as modified before January 1, 2018, if the construction of such modification begins before such date.
+    (ii) owned by the taxpayer which before January 1, 2022, is originally placed in service and modified to use closed-loop biomass to co-fire with coal, with other biomass, or with both, but only if the modification is approved under the Biomass Power for Rural Development Programs or is part of a pilot project of the Commodity Credit Corporation as described in 65 Fed. Reg. 63052.
+    For purposes of clause (ii), a facility shall be treated as modified before January 1, 2022, if the construction of such modification begins before such date.
 
   (B) *Expansion of facility* — Such term shall include a new unit placed in service after the date of the enactment of this subparagraph in connection with a facility described in subparagraph (A)(i), but only to the extent of the increased amount of electricity produced at the facility by reason of such new unit.
 
@@ -12415,11 +12508,11 @@ Repeal applicable to taxable years beginning after Dec. 31, 1983, and to carryba
 
     (i) in the case of a facility using agricultural livestock waste nutrients—
 
-      (I) is originally placed in service after the date of the enactment of this subclause and the construction of which begins before January 1, 2018, and
+      (I) is originally placed in service after the date of the enactment of this subclause and the construction of which begins before January 1, 2022, and
 
       (II) the nameplate capacity rating of which is not less than 150 kilowatts, and
 
-    (ii) in the case of any other facility, the construction of which begins before January 1, 2018.
+    (ii) in the case of any other facility, the construction of which begins before January 1, 2022.
 
   (B) *Expansion of facility* — Such term shall include a new unit placed in service after the date of the enactment of this subparagraph in connection with a facility described in subparagraph (A), but only to the extent of the increased amount of electricity produced at the facility by reason of such new unit.
 
@@ -12429,14 +12522,14 @@ Repeal applicable to taxable years beginning after Dec. 31, 1983, and to carryba
 
   (A) in the case of a facility using solar energy, is placed in service before January 1, 2006, or
 
-  (B) in the case of a facility using geothermal energy, the construction of which begins before January 1, 2018.
+  (B) in the case of a facility using geothermal energy, the construction of which begins before January 1, 2022.
   Such term shall not include any property described in section 48(a)(3) the basis of which is taken into account by the taxpayer for purposes of determining the energy credit under section 48.
 
 (5) **Small irrigation power facility** — In the case of a facility using small irrigation power to produce electricity, the term “qualified facility” means any facility owned by the taxpayer which is originally placed in service after the date of the enactment of this paragraph and before October 3, 2008.
 
-(6) **Landfill gas facilities** — In the case of a facility producing electricity from gas derived from the biodegradation of municipal solid waste, the term “qualified facility” means any facility owned by the taxpayer which is originally placed in service after the date of the enactment of this paragraph and the construction of which begins before January 1, 2018.
+(6) **Landfill gas facilities** — In the case of a facility producing electricity from gas derived from the biodegradation of municipal solid waste, the term “qualified facility” means any facility owned by the taxpayer which is originally placed in service after the date of the enactment of this paragraph and the construction of which begins before January 1, 2022.
 
-(7) **Trash facilities** — In the case of a facility (other than a facility described in paragraph (6)) which uses municipal solid waste to produce electricity, the term “qualified facility” means any facility owned by the taxpayer which is originally placed in service after the date of the enactment of this paragraph and the construction of which begins before January 1, 2018. Such term shall include a new unit placed in service in connection with a facility placed in service on or before the date of the enactment of this paragraph, but only to the extent of the increased amount of electricity produced at the facility by reason of such new unit.
+(7) **Trash facilities** — In the case of a facility (other than a facility described in paragraph (6)) which uses municipal solid waste to produce electricity, the term “qualified facility” means any facility owned by the taxpayer which is originally placed in service after the date of the enactment of this paragraph and the construction of which begins before January 1, 2022. Such term shall include a new unit placed in service in connection with a facility placed in service on or before the date of the enactment of this paragraph, but only to the extent of the increased amount of electricity produced at the facility by reason of such new unit.
 
 (8) **Refined coal production facility** — In the case of a facility that produces refined coal, the term “refined coal production facility” means—
 
@@ -12448,13 +12541,13 @@ Repeal applicable to taxable years beginning after Dec. 31, 1983, and to carryba
 
   (A) *In general* — In the case of a facility producing qualified hydroelectric production described in subsection (c)(8), the term “qualified facility” means—
 
-    (i) in the case of any facility producing incremental hydropower production, such facility but only to the extent of its incremental hydropower production attributable to efficiency improvements or additions to capacity described in subsection (c)(8)(B) placed in service after the date of the enactment of this paragraph and before January 1, 2018, and
+    (i) in the case of any facility producing incremental hydropower production, such facility but only to the extent of its incremental hydropower production attributable to efficiency improvements or additions to capacity described in subsection (c)(8)(B) placed in service after the date of the enactment of this paragraph and before January 1, 2022, and
 
-    (ii) any other facility placed in service after the date of the enactment of this paragraph and the construction of which begins before January 1, 2018.
+    (ii) any other facility placed in service after the date of the enactment of this paragraph and the construction of which begins before January 1, 2022.
 
   (B) *Credit period* — In the case of a qualified facility described in subparagraph (A), the 10-year period referred to in subsection (a) shall be treated as beginning on the date the efficiency improvements or additions to capacity are placed in service.
 
-  (C) *Special rule* — For purposes of subparagraph (A)(i), an efficiency improvement or addition to capacity shall be treated as placed in service before January 1, 2018, if the construction of such improvement or addition begins before such date.
+  (C) *Special rule* — For purposes of subparagraph (A)(i), an efficiency improvement or addition to capacity shall be treated as placed in service before January 1, 2022, if the construction of such improvement or addition begins before such date.
 
 (10) **Indian coal production facility** — The term “Indian coal production facility” means a facility that produces Indian coal.
 
@@ -12462,7 +12555,7 @@ Repeal applicable to taxable years beginning after Dec. 31, 1983, and to carryba
 
   (A) which has a nameplate capacity rating of at least 150 kilowatts, and
 
-  (B) which is originally placed in service on or after the date of the enactment of this paragraph and the construction of which begins before January 1, 2018.
+  (B) which is originally placed in service on or after the date of the enactment of this paragraph and the construction of which begins before January 1, 2022.
 
 **(e) Definitions and special rules** For purposes of this section—
 
@@ -12567,13 +12660,13 @@ Repeal applicable to taxable years beginning after Dec. 31, 1983, and to carryba
 
   (A) *Determination of credit amount* — In the case of a producer of Indian coal, the credit determined under this section (without regard to this paragraph) for any taxable year shall be increased by an amount equal to the applicable dollar amount per ton of Indian coal—
 
-    (i) produced by the taxpayer at an Indian coal production facility during the 12-year period beginning on January 1, 2006, and
+    (i) produced by the taxpayer at an Indian coal production facility during the 16-year period beginning on January 1, 2006, and
 
     (ii) sold by the taxpayer—
 
       (I) to an unrelated person (either directly by the taxpayer or after sale or transfer to one or more related persons), and
 
-      (II) during such 12-year period and such taxable year.
+      (II) during such 16-year period and such taxable year.
 
   (B) *Applicable dollar amount*
 
@@ -12632,6 +12725,20 @@ The date of enactment of the Energy Tax Incentives Act of 2005, referred to in s
 A prior section 45 was renumbered [section 37 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-37).
 
 #### Amendments
+2020—Subsec. (b)(5)(D). Pub. L. 116–260, § 131(c)(1), substituted “January 1, 2022” for “January 1, 2021”.
+
+Subsec. (d)(1), (2)(A), (3)(A), (4)(B), (6), (7), (9), (11)(B). Pub. L. 116–260, § 131(a), substituted “January 1, 2022” for “January 1, 2021” wherever appearing.
+
+Subsec. (e)(10)(A). Pub. L. 116–260, § 145(a), substituted “16-year period” for “15-year period” in two places.
+
+2019—Subsec. (b)(5)(D). Pub. L. 116–94, § 127(c)(2)(A), added subpar. (D).
+
+Subsec. (d)(1). Pub. L. 116–94, § 127(c)(1), substituted “January 1, 2021” for “January 1, 2020”.
+
+Subsec. (d)(2)(A), (3)(A), (4)(B), (6), (7), (9), (11)(B). Pub. L. 116–94, § 127(a), substituted “January 1, 2021” for “January 1, 2018” wherever appearing.
+
+Subsec. (e)(10)(A). Pub. L. 116–94, § 128(a), substituted “15-year period” for “12-year period” in two places.
+
 2018—Subsec. (c)(6). Pub. L. 115–141, § 401(a)(14), substituted “section 1004(27)” for “section 2(27)”.
 
 Subsec. (c)(7)(A)(i)(II). Pub. L. 115–141, § 401(a)(15), substituted “for the purpose” for “for purpose”.
@@ -12866,6 +12973,16 @@ Subsec. (c)(4). Pub. L. 106–170, § 507(b)(2), added par. (4).
 
 Subsec. (d)(6), (7). Pub. L. 106–170, § 507(c), added pars. (6) and (7).
 
+#### Effective Date of 2020 Amendment
+Pub. L. 116–260, div. EE, title I, § 131(d), Dec. 27, 2020, 134 Stat. 3052, provided that: “The amendments made by this section [amending this section and [section 48 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-48)] shall take effect on January 1, 2021.”
+
+Pub. L. 116–260, div. EE, title I, § 145(b), Dec. 27, 2020, 134 Stat. 3054, provided that: “The amendments made by this section [amending this section] shall apply to coal produced after December 31, 2020.”
+
+#### Effective Date of 2019 Amendment
+Pub. L. 116–94, div. Q, title I, § 127(d), Dec. 20, 2019, 133 Stat. 3232, provided that: “The amendments made by this section [amending this section and [section 48 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-48)] shall take effect on January 1, 2018.”
+
+Pub. L. 116–94, div. Q, title I, § 128(b), Dec. 20, 2019, 133 Stat. 3232, provided that: “The amendment made by this section [amending this section] shall apply to coal produced after December 31, 2017.”
+
 #### Effective Date of 2018 Amendment
 Pub. L. 115–123, div. D, title I, § 40408(b), Feb. 9, 2018, 132 Stat. 149, provided that: “The amendment made by this section [amending this section] shall apply to coal produced after December 31, 2016.”
 
@@ -12940,13 +13057,15 @@ Section applicable to taxable years ending after Dec. 31, 1992, see section 1914
 #### Inflation Adjusted Items for Certain Years
 Provisions relating to inflation adjustment of items in this section for certain years were contained in the following:
 
-2018—Internal Revenue Notice 2018–50.
+2019—Internal Revenue Notice 2019–41, Internal Revenue Notice 2020–9.
 
-2017—Internal Revenue Notice 2017–33.
+2018—Internal Revenue Notice 2018–50, Internal Revenue Notice 2020–9.
+
+2017—Internal Revenue Notice 2017–33,Internal Revenue Notice 2018–36.
 
 2016—Internal Revenue Notice 2016–34.
 
-2015—Internal Revenue Notice 2015–32.
+2015—Internal Revenue Notice 2015–32, Internal Revenue Notice 2016–11.
 
 2014—Internal Revenue Notice 2014–36.
 
@@ -13091,7 +13210,7 @@ Provisions relating to inflation adjustment of items in this section for certain
 
 (5) **Special rule for short taxable years** — For any taxable year having less than 12 months, the amount determined under subsection (a)(2) shall be multiplied by a fraction, the numerator of which is the number of days in the taxable year and the denominator of which is 365.
 
-**(f) Termination** This section shall not apply to taxable years beginning after December 31, 2017.
+**(f) Termination** This section shall not apply to taxable years beginning after December 31, 2021.
 
 ### Statutory Notes
 
@@ -13104,6 +13223,10 @@ The Alaska Native Claims Settlement Act, referred to in subsec. (c)(6), is Pub. 
 The date of the enactment of this paragraph, referred to in subsec. (e)(4), is the date of enactment of Pub. L. 103–66, which was approved Aug. 10, 1993.
 
 #### Amendments
+2020—Subsec. (f). Pub. L. 116–260 substituted “December 31, 2021” for “December 31, 2020”.
+
+2019—Subsec. (f). Pub. L. 116–94 substituted “December 31, 2020” for “December 31, 2017”.
+
 2018—Subsec. (f). Pub. L. 115–123 substituted “December 31, 2017” for “December 31, 2016”.
 
 2015—Subsec. (f). Pub. L. 114–113 substituted “December 31, 2016” for “December 31, 2014”.
@@ -13129,6 +13252,12 @@ Subsec. (f). Pub. L. 108–311, § 315, substituted “December 31, 2005” for 
 1998—Subsec. (b)(1)(B). Pub. L. 105–206 substituted “work opportunity credit” for “targeted jobs credit” in heading.
 
 1996—Subsec. (b)(1)(B). Pub. L. 104–188, which directed that subsec. (b)(1)(B) of this section be amended in the text by substituting “work opportunity credit” for “targeted jobs credit”, could not be executed because the words “targeted jobs credit” did not appear in the text.
+
+#### Effective Date of 2020 Amendment
+Pub. L. 116–260, div. EE, title I, § 135(b), Dec. 27, 2020, 134 Stat. 3053, provided that: “The amendment made by this section [amending this section] shall apply to taxable years beginning after December 31, 2020.”
+
+#### Effective Date of 2019 Amendment
+Pub. L. 116–94, div. Q, title I, § 111(b), Dec. 20, 2019, 133 Stat. 3228, provided that: “The amendment made by this section [amending this section] shall apply to taxable years beginning after December 31, 2017.”
 
 #### Effective Date of 2018 Amendment
 Pub. L. 115–123, div. D, title I, § 40301(b), Feb. 9, 2018, 132 Stat. 145, provided that: “The amendment made by this section [amending this section] shall apply to taxable years beginning after December 31, 2016.”
@@ -13593,9 +13722,11 @@ For provisions directing that if any amendments made by subtitle A or subtitle C
 
   (E) $5,000,000,000 for 2008,
 
-  (F) $5,000,000,000 for 2009, and
+  (F) $5,000,000,000 for 2009,
 
-  (G) $3,500,000,000 for each of calendar years 2010 through 2019.
+  (G) $3,500,000,000 for each of calendar years 2010 through 2019, and
+
+  (H) $5,000,000,000 for for 22 So in original. Second “for” probably should not appear. each of calendar years 2020 through 2025.
 
 (2) **Allocation of limitation** — The limitation under paragraph (1) shall be allocated by the Secretary among qualified community development entities selected by the Secretary. In making allocations under the preceding sentence, the Secretary shall give priority to any entity—
 
@@ -13603,7 +13734,7 @@ For provisions directing that if any amendments made by subtitle A or subtitle C
 
   (B) which intends to satisfy the requirement under subsection (b)(1)(B) by making qualified low-income community investments in 1 or more businesses in which persons unrelated to such entity (within the meaning of section 267(b) or 707(b)(1)) hold the majority equity interest.
 
-(3) **Carryover of unused limitation** — If the new markets tax credit limitation for any calendar year exceeds the aggregate amount allocated under paragraph (2) for such year, such limitation for the succeeding calendar year shall be increased by the amount of such excess. No amount may be carried under the preceding sentence to any calendar year after 2024.
+(3) **Carryover of unused limitation** — If the new markets tax credit limitation for any calendar year exceeds the aggregate amount allocated under paragraph (2) for such year, such limitation for the succeeding calendar year shall be increased by the amount of such excess. No amount may be carried under the preceding sentence to any calendar year after 2030.
 
 **(g) Recapture of credit in certain cases**
 
@@ -13652,6 +13783,14 @@ For provisions directing that if any amendments made by subtitle A or subtitle C
 Section 1044, referred to in subsec. (c)(2)(A), was repealed by Pub. L. 115–97, title I, § 13313(a), Dec. 22, 2017, 131 Stat. 2133.
 
 #### Amendments
+2020—Subsec. (f)(1)(H). Pub. L. 116–260, § 112(a), substituted “for each of calendar years 2020 through 2025” for “2020”.
+
+Subsec. (f)(3). Pub. L. 116–260, § 112(b), substituted “2030” for “2025”.
+
+2019—Subsec. (f)(1)(H). Pub. L. 116–94, § 141(a), added subpar. (H).
+
+Subsec. (f)(3). Pub. L. 116–94, § 141(b), substituted “2025” for “2024”.
+
 2018—Subsec. (f)(1)(F). Pub. L. 115–141, § 401(a)(18), inserted “, and” at end.
 
 Subsec. (h). Pub. L. 115–141, § 401(d)(4)(B)(iii), substituted “section 1202” for “sections 1202, 1400B, and 1400F”.
@@ -13687,6 +13826,12 @@ Subsec. (i)(6). Pub. L. 109–432, § 102(b), added par. (6).
 Subsec. (e)(4). Pub. L. 108–357, § 221(b), added par. (4).
 
 Subsec. (e)(5). Pub. L. 108–357, § 223(a), added par. (5).
+
+#### Effective Date of 2020 Amendment
+Pub. L. 116–260, div. EE, title I, § 112(c), Dec. 27, 2020, 134 Stat. 3050, provided that: “The amendments made by this section [amending this section] shall apply to calendar years beginning after December 31, 2020.”
+
+#### Effective Date of 2019 Amendment
+Pub. L. 116–94, div. Q, title I, § 141(c), Dec. 20, 2019, 133 Stat. 3234, provided that: “The amendments made by this section [amending this section] shall apply to calendar years beginning after December 31, 2019.”
 
 #### Effective Date of 2015 Amendment
 Pub. L. 114–113, div. Q, title I, § 141(c), Dec. 18, 2015, 129 Stat. 3056, provided that: “The amendments made by this section [amending this section] shall apply to calendar years beginning after December 31, 2014.”
@@ -13732,7 +13877,15 @@ Pub. L. 106–554, § 1(a)(7) [title I, § 121(g)], Dec. 21, 2000, 114 Stat. 276
 
 **(b) Dollar limitation** The amount of the credit determined under this section for any taxable year shall not exceed—
 
-(1) $500 for the first credit year and each of the 2 taxable years immediately following the first credit year, and
+(1) for the first credit year and each of the 2 taxable years immediately following the first credit year, the greater of—
+
+  (A) $500, or
+
+  (B) the lesser of—
+
+    (i) $250 for each employee of the eligible employer who is not a highly compensated employee (as defined in section 414(q)) and who is eligible to participate in the eligible employer plan maintained by the eligible employer, or
+
+    (ii) $5,000, and
 
 (2) zero for any other taxable year.
 
@@ -13773,7 +13926,12 @@ Pub. L. 106–554, § 1(a)(7) [title I, § 121(g)], Dec. 21, 2000, 114 Stat. 276
 ### Statutory Notes
 
 #### Amendments
+2019—Subsec. (b)(1). Pub. L. 116–94 amended par. (1) generally. Prior to amendment, par. (1) read as follows: “$500 for the first credit year and each of the 2 taxable years immediately following the first credit year, and”.
+
 2002—Subsec. (e)(1). Pub. L. 107–147 substituted “subsection (m)” for “subsection (n)”.
+
+#### Effective Date of 2019 Amendment
+Pub. L. 116–94, div. O, title I, § 104(b), Dec. 20, 2019, 133 Stat. 3147, provided that: “The amendment made by this section [amending this section] shall apply to taxable years beginning after December 31, 2019.”
 
 #### Effective Date of 2002 Amendment
 Amendment by Pub. L. 107–147 effective as if included in the provisions of the Economic Growth and Tax Relief Reconciliation Act of 2001, Pub. L. 107–16, to which such amendment relates, see section 411(x) of Pub. L. 107–147, set out as a note under [section 25B of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-25b).
@@ -13900,7 +14058,7 @@ Section applicable to taxable years beginning after Dec. 31, 2001, see section 2
 
 <a id="section-45g"></a>
 ## § 45G. Railroad track maintenance credit
-**(a) General rule** For purposes of section 38, the railroad track maintenance credit determined under this section for the taxable year is an amount equal to 50 percent of the qualified railroad track maintenance expenditures paid or incurred by an eligible taxpayer during the taxable year.
+**(a) General rule** For purposes of section 38, the railroad track maintenance credit determined under this section for the taxable year is an amount equal to 40 percent (50 percent in the case of any taxable year beginning before January 1, 2023) of the qualified railroad track maintenance expenditures paid or incurred by an eligible taxpayer during the taxable year.
 
 **(b) Limitation**
 
@@ -13938,11 +14096,15 @@ Section applicable to taxable years beginning after Dec. 31, 2001, see section 2
 
 (3) **Basis adjustment** — For purposes of this subtitle, if a credit is allowed under this section with respect to any railroad track, the basis of such track shall be reduced by the amount of the credit so allowed.
 
-**(f) Application of section** This section shall apply to qualified railroad track maintenance expenditures paid or incurred during taxable years beginning after December 31, 2004, and before January 1, 2018.
-
 ### Statutory Notes
 
 #### Amendments
+2020—Subsec. (a). Pub. L. 116–260, § 105(b), substituted “40 percent (50 percent in the case of any taxable year beginning before January 1, 2023)” for “50 percent”.
+
+Subsec. (f). Pub. L. 116–260, § 105(a), struck out subsec. (f). Text read as follows: “This section shall apply to qualified railroad track maintenance expenditures paid or incurred during taxable years beginning after December 31, 2004, and before January 1, 2023.”
+
+2019—Subsec. (f). Pub. L. 116–94 substituted “January 1, 2023” for “January 1, 2018”.
+
 2018—Subsec. (f). Pub. L. 115–123 substituted “January 1, 2018” for “January 1, 2017”.
 
 2015—Subsec. (d). Pub. L. 114–113, § 162(b), substituted “January 1, 2015” for “January 1, 2005”.
@@ -13968,6 +14130,12 @@ Subsec. (f). Pub. L. 114–113, § 162(a), substituted “January 1, 2017” for
 A mile of railroad track may be taken into account by a person other than the owner only if such mile is assigned to such person by the owner for purposes of this subsection. Any mile which is so assigned may not be taken into account by the owner for purposes of this subsection.”
 
 Subsec. (c)(2). Pub. L. 109–135, § 403(f)(2), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “any person who transports property using the rail facilities of a person described in paragraph (1) or who furnishes railroad-related property or services to such a person.”
+
+#### Effective Date of 2020 Amendment
+Pub. L. 116–260, div. EE, title I, § 105(c), Dec. 27, 2020, 134 Stat. 3041, provided that: “The amendments made by this section [amending this section] shall apply to taxable years ending after the date of the enactment of this Act [Dec. 27, 2020].”
+
+#### Effective Date of 2019 Amendment
+Pub. L. 116–94, div. Q, title I, § 112(c), Dec. 20, 2019, 133 Stat. 3229, provided that: “The amendment made by this section [amending this section] shall apply to expenditures paid or incurred during taxable years beginning after December 31, 2017.”
 
 #### Effective Date of 2018 Amendment
 Pub. L. 115–123, div. D, title I, § 40302(b), Feb. 9, 2018, 132 Stat. 145, provided that: “(1) In general.—The amendment made by this section [amending this section] shall apply to expenditures paid or incurred in taxable years beginning after December 31, 2016. “(2) Safe harbor assignments.—Assignments, including related expenditures paid or incurred, under paragraph (2) of section 45G(b) of the Internal Revenue Code of 1986 for taxable years ending after January 1, 2017, and before January 1, 2018, shall be treated as effective as of the close of such taxable year if made pursuant to a written agreement entered into no later than 90 days following the date of the enactment of this Act [Feb. 9, 2018].”
@@ -13995,6 +14163,9 @@ Amendment by Pub. L. 109–135 effective as if included in the provision of the 
 
 #### Effective Date
 Section applicable to taxable years beginning after Dec. 31, 2004, see section 245(e) of Pub. L. 108–357, set out as an Effective Date of 2004 Amendment note under [section 38 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-38).
+
+#### Safe Harbor Assignments
+Pub. L. 116–94, div. Q, title I, § 112(b), Dec. 20, 2019, 133 Stat. 3228, provided that: “Any assignment, including related expenditures paid or incurred, under section 45G(b)(2) of the Internal Revenue Code of 1986 for a taxable year beginning on or after January 1, 2018, and ending before January 1, 2020, shall be treated as effective as of the close of such taxable year if made pursuant to a written agreement entered into no later than 90 days following the date of the enactment of this Act [Dec. 20, 2019].”
 
 
 <a id="section-45h"></a>
@@ -14165,6 +14336,9 @@ Section applicable to expenses paid or incurred after Dec. 31, 2002, in taxable 
 
 ### Statutory Notes
 
+#### Inflation Adjusted Items for Certain Tax Years
+For inflation adjustment of certain items in this section, see Internal Revenue Notices listed in a table below.
+
 #### Amendments
 2005—Subsec. (a)(2). Pub. L. 109–135 substituted “qualified crude oil production” for “qualified credit oil production”.
 
@@ -14179,6 +14353,15 @@ Amendment by Pub. L. 109–58 applicable to credits determined under the Interna
 
 #### Effective Date
 Section applicable to production in taxable years beginning after Dec. 31, 2004, see section 341(e) of Pub. L. 108–357, set out as an Effective Date of 2004 Amendment note under [section 38 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-38).
+
+#### Inflation Adjusted Items for Certain Years
+Provisions relating to inflation adjustment of items in this section for certain years were contained in the following:
+
+2018—Internal Revenue Notice 2019–37.
+
+2017—Internal Revenue Notice 2018–52.
+
+2016—Internal Revenue Notice 2017–51.
 
 
 <a id="section-45j"></a>
@@ -14770,7 +14953,7 @@ Provisions relating to inflation adjustment of items in this section and referen
 
 **(f) Coordination with investment credit** For purposes of this section, expenditures taken into account under section 47 or 48(a) shall not be taken into account under this section.
 
-**(g) Termination** This section shall not apply to any qualified new energy efficient home acquired after December 31, 2017.
+**(g) Termination** This section shall not apply to any qualified new energy efficient home acquired after December 31, 2021.
 
 ### Statutory Notes
 
@@ -14780,6 +14963,10 @@ The date of the enactment of this section, referred to in subsec. (b)(2)(B), is 
 The National Appliance Energy Conservation Act of 1987, referred to in subsec. (c)(1)(A)(ii), is Pub. L. 100–12, Mar. 17, 1987, 101 Stat. 103. For complete classification of this Act to the Code, see Short Title of 1987 Amendment note set out under [section 6201 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section6201&num=0&edition=prelim), The Public Health and Welfare, and Tables.
 
 #### Amendments
+2020—Subsec. (g). Pub. L. 116–260 substituted “December 31, 2021” for “December 31, 2020”.
+
+2019—Subsec. (g). Pub. L. 116–94 substituted “December 31, 2020” for “December 31, 2017”.
+
 2018—Subsec. (g). Pub. L. 115–123 substituted “December 31, 2017” for “December 31, 2016”.
 
 2015—Subsec. (g). Pub. L. 114–113 substituted “December 31, 2016” for “December 31, 2014”.
@@ -14797,6 +14984,12 @@ Subsec. (g). Pub. L. 112–240, § 408(a), substituted “December 31, 2013” f
 2007—Subsec. (c)(2), (3). Pub. L. 110–172 substituted “part 3280” for “section 3280” in par. (2) and in introductory provisions of par. (3).
 
 2006—Subsec. (g). Pub. L. 109–432 substituted “2008” for “2007”.
+
+#### Effective Date of 2020 Amendment
+Pub. L. 116–260, div. EE, title I, § 146(b), Dec. 27, 2020, 134 Stat. 3055, provided that: “The amendment made by this section [amending this section] shall apply to homes acquired after December 31, 2020.”
+
+#### Effective Date of 2019 Amendment
+Pub. L. 116–94, div. Q, title I, § 129(b), Dec. 20, 2019, 133 Stat. 3232, provided that: “The amendment made by this section [amending this section] shall apply to homes acquired after December 31, 2017.”
 
 #### Effective Date of 2018 Amendment
 Pub. L. 115–123, div. D, title I, § 40410(b), Feb. 9, 2018, 132 Stat. 150, provided that: “The amendment made by this section [amending this section] shall apply to homes acquired after December 31, 2016.”
@@ -14846,11 +15039,15 @@ For provisions that nothing in repeal by Pub. L. 115–141 be construed to affec
 
 **(d) Wages** For purposes of this section, the term “wages” has the meaning given to such term by subsection (b) of section 3306 (determined without regard to any dollar limitation contained in such section).
 
-**(e) Termination** This section shall not apply to taxable years beginning after December 31, 2017.
+**(e) Termination** This section shall not apply to taxable years beginning after December 31, 2021.
 
 ### Statutory Notes
 
 #### Amendments
+2020—Subsec. (e). Pub. L. 116–260 substituted “December 31, 2021” for “December 31, 2020”.
+
+2019—Subsec. (e). Pub. L. 116–94 substituted “December 31, 2020” for “December 31, 2017”.
+
 2018—Subsec. (e). Pub. L. 115–123 substituted “December 31, 2017” for “December 31, 2016”.
 
 2015—Subsec. (e). Pub. L. 114–113 substituted “December 31, 2016” for “December 31, 2014”.
@@ -14862,6 +15059,12 @@ For provisions that nothing in repeal by Pub. L. 115–141 be construed to affec
 2010—Subsec. (e). Pub. L. 111–312 substituted “December 31, 2011” for “December 31, 2009”.
 
 2008—Subsec. (e). Pub. L. 110–343 substituted “December 31, 2009” for “December 31, 2008”.
+
+#### Effective Date of 2020 Amendment
+Pub. L. 116–260, div. EE, title I, § 136(b), Dec. 27, 2020, 134 Stat. 3053, provided that: “The amendment made by this section [amending this section] shall apply to taxable years beginning after December 31, 2020.”
+
+#### Effective Date of 2019 Amendment
+Pub. L. 116–94, div. Q, title I, § 113(b), Dec. 20, 2019, 133 Stat. 3229, provided that: “The amendment made by this section [amending this section] shall apply to taxable years beginning after December 31, 2017.”
 
 #### Effective Date of 2018 Amendment
 Pub. L. 115–123, div. D, title I, § 40303(b), Feb. 9, 2018, 132 Stat. 146, provided that: “The amendment made by this section [amending this section] shall apply to taxable years beginning after December 31, 2016.”
@@ -15117,7 +15320,7 @@ Section applicable to amounts paid after June 17, 2008, see section 111(e) of Pu
 
 **(d) Qualified facility** For purposes of this section, the term “qualified facility” means any industrial facility or direct air capture facility—
 
-(1) the construction of which begins before January 1, 2024, and—
+(1) the construction of which begins before January 1, 2026, and—
 
   (A) construction of carbon capture equipment begins before such date, or
 
@@ -15231,6 +15434,8 @@ For inflation adjustment of certain items in this section, see Internal Revenue 
 The date of the enactment of the Bipartisan Budget Act of 2018 and the date of the enactment of such Act, referred to in text, is the date of enactment of Pub. L. 115–123, which was approved Feb. 9, 2018.
 
 #### Amendments
+2020—Subsec. (d)(1). Pub. L. 116–260 substituted “January 1, 2026” for “January 1, 2024” in introductory provisions.
+
 2018—Pub. L. 115–123 amended section generally. Prior to amendment, section related to credit for carbon dioxide sequestration.
 
 2014—Subsec. (d)(2). Pub. L. 113–295 substituted “Administrator of the Environmental Protection Agency, the Secretary of Energy, and the Secretary of the Interior, shall establish” for “Administrator of the Environmental Protection Agency the Secretary of Energy, and the Secretary of the Interior,, shall establish”.
@@ -15257,6 +15462,8 @@ Section applicable to carbon dioxide captured after Oct. 3, 2008, see section 11
 
 #### Inflation Adjusted Items for Certain Years
 Provisions relating to inflation adjustment of items in this section for certain years were contained in the following:
+
+2019—Internal Revenue Notice 2019–31.
 
 2018—Internal Revenue Notice 2018–40.
 
@@ -15510,7 +15717,7 @@ Section applicable to amounts paid or incurred in taxable years beginning after 
 
 (2) **Other rules** — Rules similar to the rules of paragraphs (2) and (3) of section 51(j) shall apply for purposes of this subsection.
 
-**(i) Termination** This section shall not apply to wages paid in taxable years beginning after December 31, 2019.
+**(i) Termination** This section shall not apply to wages paid in taxable years beginning after December 31, 2025.
 
 ### Statutory Notes
 
@@ -15519,8 +15726,41 @@ The Family and Medical Leave Act of 1993 and that Act, referred to in subsecs. (
 
 Section 3(e) of the Fair Labor Standards Act of 1938, referred to in subsec. (d), is classified to [section 203(e) of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section203/e&num=0&edition=prelim), Labor.
 
+#### Amendments
+2020—Subsec. (i). Pub. L. 116–260 substituted “December 31, 2025” for “December 31, 2020”.
+
+2019—Subsec. (i). Pub. L. 116–94 substituted “December 31, 2020” for “December 31, 2019”.
+
+#### Effective Date of 2020 Amendment
+Pub. L. 116–260, div. EE, title I, § 119(b), Dec. 27, 2020, 134 Stat. 3051, provided that: “The amendment made by this section [amending this section] shall apply to wages paid in taxable years beginning after December 31, 2020.”
+
+#### Effective Date of 2019 Amendment
+Pub. L. 116–94, div. Q, title I, § 142(b), Dec. 20, 2019, 133 Stat. 3234, provided that: “The amendment made by this section [amending this section] shall apply to wages paid in taxable years beginning after December 31, 2019.”
+
 #### Effective Date
 Section applicable to wages paid in taxable years beginning after Dec. 31, 2017, see section 13403(e) of Pub. L. 115–97, set out as an Effective Date of 2017 Amendment note under [section 38 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-38).
+
+
+<a id="section-45t"></a>
+## § 45T. Auto-enrollment option for retirement savings options provided by small employers
+**(a) In general** For purposes of section 38, in the case of an eligible employer, the retirement auto-enrollment credit determined under this section for any taxable year is an amount equal to—
+
+(1) $500 for any taxable year occurring during the credit period, and
+
+(2) zero for any other taxable year.
+
+**(b) Credit period** For purposes of subsection (a)—
+
+(1) **In general** — The credit period with respect to any eligible employer is the 3-taxable-year period beginning with the first taxable year for which the employer includes an eligible automatic contribution arrangement (as defined in section 414(w)(3)) in a qualified employer plan (as defined in section 4972(d)) sponsored by the employer.
+
+(2) **Maintenance of arrangement** — No taxable year with respect to an employer shall be treated as occurring within the credit period unless the arrangement described in paragraph (1) is included in the plan for such year.
+
+**(c) Eligible employer** For purposes of this section, the term “eligible employer” has the meaning given such term in section 408(p)(2)(C)(i).
+
+### Statutory Notes
+
+#### Effective Date
+Section applicable to taxable years beginning after Dec. 31, 2019, see section 105(d) of Pub. L. 116–94, set out as an Effective Date of 2019 Amendment note under [section 38 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-38).
 
 
 <a id="section-46"></a>
@@ -16412,11 +16652,13 @@ Functions, powers, and duties of Federal Aviation Agency and of Administrator an
 
       (I) qualified fuel cell property,
 
-      (II) energy property described in paragraph (3)(A)(i) but only with respect to property the construction of which begins before January 1, 2022,
+      (II) energy property described in paragraph (3)(A)(i) but only with respect to property the construction of which begins before January 1, 2024,
 
-      (III) energy property described in paragraph (3)(A)(ii), and
+      (III) energy property described in paragraph (3)(A)(ii),
 
       (IV) qualified small wind energy property, and
+
+      (V) waste energy recovery property, and
 
     (ii) in the case of any energy property to which clause (i) does not apply, 10 percent.
 
@@ -16428,7 +16670,7 @@ Functions, powers, and duties of Federal Aviation Agency and of Administrator an
 
     (i) equipment which uses solar energy to generate electricity, to heat or cool (or provide hot water for use in) a structure, or to provide solar process heat, excepting property used to generate energy for the purposes of heating a swimming pool,
 
-    (ii) equipment which uses solar energy to illuminate the inside of a structure using fiber-optic distributed sunlight but only with respect to property the construction of which begins before January 1, 2022,
+    (ii) equipment which uses solar energy to illuminate the inside of a structure using fiber-optic distributed sunlight but only with respect to property the construction of which begins before January 1, 2024,
 
     (iii) equipment used to produce, distribute, or use energy derived from a geothermal deposit (within the meaning of section 613(e)(2)), but only, in the case of electricity generated by geothermal power, up to (but not including) the electrical transmission stage,
 
@@ -16436,9 +16678,11 @@ Functions, powers, and duties of Federal Aviation Agency and of Administrator an
 
     (v) combined heat and power system property,
 
-    (vi) qualified small wind energy property, or
+    (vi) qualified small wind energy property,
 
-    (vii) equipment which uses the ground or ground water as a thermal energy source to heat a structure or as a thermal energy sink to cool a structure, but only with respect to property the construction of which begins before January 1, 2022,
+    (vii) equipment which uses the ground or ground water as a thermal energy source to heat a structure or as a thermal energy sink to cool a structure, but only with respect to property the construction of which begins before January 1, 2024, or
+
+    (viii) waste energy recovery property,
 
   (B)
 
@@ -16488,7 +16732,7 @@ Functions, powers, and duties of Federal Aviation Agency and of Administrator an
 
     (i) which is a qualified facility (within the meaning of section 45) described in paragraph (1), (2), (3), (4), (6), (7), (9), or (11) of section 45(d),
 
-    (ii) which is placed in service after 2008 and the construction of which begins before January 1, 2018 (January 1, 2020, in the case of any facility which is described in paragraph (1) of section 45(d)), and
+    (ii) which is placed in service after 2008 and the construction of which begins before January 1, 2022, and
 
     (iii) with respect to which—
 
@@ -16514,29 +16758,43 @@ Functions, powers, and duties of Federal Aviation Agency and of Administrator an
 
     (i) in the case of any facility the construction of which begins after December 31, 2016, and before January 1, 2018, 20 percent,
 
-    (ii) in the case of any facility the construction of which begins after December 31, 2017, and before January 1, 2019, 40 percent, and
+    (ii) in the case of any facility the construction of which begins after December 31, 2017, and before January 1, 2019, 40 percent,
 
-    (iii) in the case of any facility the construction of which begins after December 31, 2018, and before January 1, 2020, 60 percent.
+    (iii) in the case of any facility the construction of which begins after December 31, 2018, and before January 1, 2020, 60 percent, and
+
+    (iv) in the case of any facility the construction of which begins after December 31, 2019, and before January 1, 2022, 40 percent.
+
+  (F) *Qualified offshore wind facilities*
+
+    (i) *In general* — In the case of any qualified offshore wind facility—
+
+      (I) subparagraph (C)(ii) shall be applied by substituting “January 1, 2026” for “January 1, 2022”,
+
+      (II) subparagraph (E) shall not apply, and
+
+      (III) for purposes of this paragraph, section 45(d)(1) shall be applied by substituting “January 1, 2026” for “January 1, 2022”.
+
+    (ii) *Qualified offshore wind facility* — For purposes of this subparagraph, the term “qualified offshore wind facility” means a qualified facility (within the meaning of section 45) described in paragraph (1) of section 45(d) (determined without regard to any date by which the construction of the facility is required to begin) which is located in the inland navigable waters of the United States or in the coastal waters of the United States.
 
 (6) **Phaseout for solar energy property**
 
-  (A) *In general* — Subject to subparagraph (B), in the case of any energy property described in paragraph (3)(A)(i) the construction of which begins before January 1, 2022, the energy percentage determined under paragraph (2) shall be equal to—
+  (A) *In general* — Subject to subparagraph (B), in the case of any energy property described in paragraph (3)(A)(i) the construction of which begins before January 1, 2024, the energy percentage determined under paragraph (2) shall be equal to—
 
-    (i) in the case of any property the construction of which begins after December 31, 2019, and before January 1, 2021, 26 percent, and
+    (i) in the case of any property the construction of which begins after December 31, 2019, and before January 1, 2023, 26 percent, and
 
-    (ii) in the case of any property the construction of which begins after December 31, 2020, and before January 1, 2022, 22 percent.
+    (ii) in the case of any property the construction of which begins after December 31, 2022, and before January 1, 2024, 22 percent.
 
-  (B) *Placed in service deadline* — In the case of any energy property described in paragraph (3)(A)(i) the construction of which begins before January 1, 2022, and which is not placed in service before January 1, 2024, the energy percentage determined under paragraph (2) shall be equal to 10 percent.
+  (B) *Placed in service deadline* — In the case of any energy property described in paragraph (3)(A)(i) the construction of which begins before January 1, 2024, and which is not placed in service before January 1, 2026, the energy percentage determined under paragraph (2) shall be equal to 10 percent.
 
-(7) **Phaseout for fiber-optic solar, qualified fuel cell, and qualified small wind energy property**
+(7) **Phaseout for certain other energy property**
 
-  (A) *In general* — Subject to subparagraph (B), in the case of any qualified fuel cell property, qualified small wind property, or energy property described in paragraph (3)(A)(ii), the energy percentage determined under paragraph (2) shall be equal to—
+  (A) *In general* — Subject to subparagraph (B), in the case of any qualified fuel cell property, qualified small wind property, waste energy recovery property, or energy property described in paragraph (3)(A)(ii), the energy percentage determined under paragraph (2) shall be equal to—
 
-    (i) in the case of any property the construction of which begins after December 31, 2019, and before January 1, 2021, 26 percent, and
+    (i) in the case of any property the construction of which begins after December 31, 2019, and before January 1, 2023, 26 percent, and
 
-    (ii) in the case of any property the construction of which begins after December 31, 2020, and before January 1, 2022, 22 percent.
+    (ii) in the case of any property the construction of which begins after December 31, 2022, and before January 1, 2024, 22 percent.
 
-  (B) *Placed in service deadline* — In the case of any energy property described in subparagraph (A) which is not placed in service before January 1, 2024, the energy percentage determined under paragraph (2) shall be equal to 0 percent.
+  (B) *Placed in service deadline* — In the case of any energy property described in subparagraph (A) which is not placed in service before January 1, 2026, the energy percentage determined under paragraph (2) shall be equal to 0 percent.
 
 **(b) Certain progress expenditure rules made applicable** Rules similar to the rules of subsections (c)(4) and (d) of section 46 (as in effect on the day before the date of the enactment of the Revenue Reconciliation Act of 1990) shall apply for purposes of subsection (a).
 
@@ -16554,7 +16812,7 @@ Functions, powers, and duties of Federal Aviation Agency and of Administrator an
 
   (C) *Fuel cell power plant* — The term “fuel cell power plant” means an integrated system comprised of a fuel cell stack assembly and associated balance of plant components which converts a fuel into electricity using electrochemical means.
 
-  (D) *Termination* — The term “qualified fuel cell property” shall not include any property the construction of which does not begin before January 1, 2022.
+  (D) *Termination* — The term “qualified fuel cell property” shall not include any property the construction of which does not begin before January 1, 2024.
 
 (2) **Qualified microturbine property**
 
@@ -16568,7 +16826,7 @@ Functions, powers, and duties of Federal Aviation Agency and of Administrator an
 
   (C) *Stationary microturbine power plant* — The term “stationary microturbine power plant” means an integrated system comprised of a gas turbine engine, a combustor, a recuperator or regenerator, a generator or alternator, and associated balance of plant components which converts a fuel into electricity and thermal energy. Such term also includes all secondary components located between the existing infrastructure for fuel delivery and the existing infrastructure for power distribution, including equipment and controls for meeting relevant power standards, such as voltage, frequency, and power factors.
 
-  (D) *Termination* — The term “qualified microturbine property” shall not include any property the construction of which does not begin before January 1, 2022.
+  (D) *Termination* — The term “qualified microturbine property” shall not include any property the construction of which does not begin before January 1, 2024.
 
 (3) **Combined heat and power system property**
 
@@ -16584,7 +16842,7 @@ Functions, powers, and duties of Federal Aviation Agency and of Administrator an
 
     (iii) the energy efficiency percentage of which exceeds 60 percent, and
 
-    (iv) the construction of which begins before January 1, 2022.
+    (iv) the construction of which begins before January 1, 2024.
 
   (B) *Limitation*
 
@@ -16618,7 +16876,17 @@ Functions, powers, and duties of Federal Aviation Agency and of Administrator an
 
   (B) *Qualifying small wind turbine* — The term “qualifying small wind turbine” means a wind turbine which has a nameplate capacity of not more than 100 kilowatts.
 
-  (C) *Termination* — The term “qualified small wind energy property” shall not include any property the construction of which does not begin before January 1, 2022.
+  (C) *Termination* — The term “qualified small wind energy property” shall not include any property the construction of which does not begin before January 1, 2024.
+
+(5) **Waste energy recovery property**
+
+  (A) *In general* — The term “waste energy recovery property” means property that generates electricity solely from heat from buildings or equipment if the primary purpose of such building or equipment is not the generation of electricity.
+
+  (B) *Capacity limitation* — The term “waste energy recovery property” shall not include any property which has a capacity in excess of 50 megawatts.
+
+  (C) *No double benefit* — Any waste energy recovery property (determined without regard to this subparagraph) which is part of a system which is a combined heat and power system property shall not be treated as waste energy recovery property for purposes of this section unless the taxpayer elects to not treat such system as a combined heat and power system property for purposes of this section.
+
+  (D) *Termination* — The term “waste energy recovery property” shall not include any property the construction of which does not begin before January 1, 2024.
 
 **(d) Coordination with Department of Treasury grants** In the case of any property with respect to which the Secretary makes a grant under section 1603 of the American Recovery and Reinvestment Tax Act of 2009—
 
@@ -16646,6 +16914,46 @@ The date of the enactment of the Revenue Reconciliation Act of 1990, referred to
 Section 1603 of the American Recovery and Reinvestment Tax Act of 2009, referred to in subsec. (d), is section 1603 of Pub. L. 111–5, which is set out as a note below.
 
 #### Amendments
+2020—Subsec. (a)(2)(A)(i)(II). Pub. L. 116–260, § 132(a)(1)(A), substituted “January 1, 2024” for “January 1, 2022”.
+
+Subsec. (a)(2)(A)(i)(V). Pub. L. 116–260, § 203(b), added subcl. (V).
+
+Subsec. (a)(3)(A)(ii), (vii). Pub. L. 116–260, § 132(a)(1)(B), substituted “January 1, 2024” for “January 1, 2022”.
+
+Subsec. (a)(3)(A)(viii). Pub. L. 116–260, § 203(a), added cl. (viii).
+
+Subsec. (a)(5)(C)(ii). Pub. L. 116–260, § 131(b), substituted “January 1, 2022” for “January 1, 2021”.
+
+Subsec. (a)(5)(E)(iv). Pub. L. 116–260, § 131(c)(2), substituted “January 1, 2022” for “January 1, 2021”.
+
+Subsec. (a)(5)(F). Pub. L. 116–260, § 204(a), added subpar. (F).
+
+Subsec. (a)(6)(A). Pub. L. 116–260, § 132(b)(1)(A)(i), substituted “January 1, 2024, the energy percentage” for “January 1, 2022, the energy percentage” in introductory provisions.
+
+Subsec. (a)(6)(A)(i). Pub. L. 116–260, § 132(b)(1)(A)(ii), substituted “January 1, 2023” for “January 1, 2021”.
+
+Subsec. (a)(6)(A)(ii). Pub. L. 116–260, § 132(b)(1)(A)(iii), substituted “after December 31, 2022, and before January 1, 2024” for “after December 31, 2020, and before January 1, 2022”.
+
+Subsec. (a)(6)(B). Pub. L. 116–260, § 132(b)(1)(B), substituted “begins before January 1, 2024, and which is not placed in service before January 1, 2026” for “begins before January 1, 2022, and which is not placed in service before January 1, 2024”.
+
+Subsec. (a)(7). Pub. L. 116–260, § 203(c)(2), substituted “certain other” for “fiber-optic solar, qualified fuel cell, and qualified small wind” in heading.
+
+Subsec. (a)(7)(A). Pub. L. 116–260, § 203(c)(1), inserted “waste energy recovery property,” after “qualified small wind property,” in introductory provisions.
+
+Subsec. (a)(7)(A)(i). Pub. L. 116–260, § 132(b)(2)(A)(i), substituted “January 1, 2023” for “January 1, 2021”.
+
+Subsec. (a)(7)(A)(ii). Pub. L. 116–260, § 132(b)(2)(A)(ii), substituted “after December 31, 2022, and before January 1, 2024” for “after December 31, 2020, and before January 1, 2022”.
+
+Subsec. (a)(7)(B). Pub. L. 116–260, § 132(b)(2)(B), substituted “January 1, 2026” for “January 1, 2024”.
+
+Subsec. (c)(1)(D), (2)(D), (3)(A)(iv), (4)(C). Pub. L. 116–260, § 132(a)(2), substituted “January 1, 2024” for “January 1, 2022”.
+
+Subsec. (c)(5). Pub. L. 116–260, § 203(d), added par. (5).
+
+2019—Subsec. (a)(5)(C)(ii). Pub. L. 116–94, § 127(b), substituted “January 1, 2021” for “January 1, 2018 (January 1, 2020, in the case of any facility which is described in paragraph (1) of section 45(d))”.
+
+Subsec. (a)(5)(E)(iv). Pub. L. 116–94, § 127(c)(2)(B), added cl. (iv).
+
 2018—Subsec. (a)(1). Pub. L. 115–141, § 401(a)(20), substituted “and (3)(B)” for “(3)(B), and (4)(B)”.
 
 Subsec. (a)(2)(A). Pub. L. 115–123, § 40411(b)(2), substituted “paragraphs (6) and (7)” for “paragraph (6)” in introductory provisions.
@@ -17139,6 +17447,18 @@ Subsecs. (h) to (k). Pub. L. 89–800, § 1(a), added subsecs. (h) to (j) and re
 Subsec. (d). Pub. L. 88–272, § 203(a)(3)(A), (b), substituted “except as provided in paragraph (2)” for “if such property was constructed by the lessor (or by a corporation which controls or is controlled by the lessor within the meaning of section 368(c))” in par. (1), “if such property is leased by a corporation which is a member of an affiliated group (within the meaning of section 46(a)(5) to another corporation which is a member of the same affiliated group” for “if paragraph (1) does not apply” in par. (2), and deleted provisions which stated that if a lessor made an election under this subsection, subsec. (g) would not apply with respect to such property, and deductions otherwise allowable under section 162 to the lessee for amounts paid the lessor would be adjusted consistent with subsec. (g).
 
 Subsec. (g). Pub. L. 88–272, § 203(a)(1), repealed subsec. (g) which required that the basis of section 38 property be reduced by 7 percent of the qualified investment.
+
+#### Effective Date of 2020 Amendment
+Amendment by section 131 of Pub. L. 116–260 effective Jan. 1, 2021, see section 131(d) of div. EE of Pub. L. 116–260, set out as a note under [section 45 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-45).
+
+Pub. L. 116–260, div. EE, title I, § 132(c), Dec. 27, 2020, 134 Stat. 3053, provided that: “The amendments made by this section [amending this section] shall take effect on January 1, 2020.”
+
+Pub. L. 116–260, div. EE, title II, § 203(e), Dec. 27, 2020, 134 Stat. 3057, provided that: “The amendments made by this section [amending this section] shall apply to periods after December 31, 2020, under rules similar to the rules of section 48(m) as in effect on the day before the date of the enactment of the Revenue Reconciliation Act of 1990 [Nov. 5, 1990].”
+
+Pub. L. 116–260, div. EE, title II, § 204(b), Dec. 27, 2020, 134 Stat. 3058, provided that: “The amendment made by this section [amending this section] shall apply to periods after December 31, 2016, under rules similar to the rules of section 48(m) of the Internal Revenue Code of 1986 (as in effect on the day before the date of the enactment of the Revenue Reconciliation Act of 1990 [Nov. 5, 1990]).”
+
+#### Effective Date of 2019 Amendment
+Amendment by Pub. L. 116–94 effective on Jan. 1, 2018, see section 127(d) of Pub. L. 116–94, set out as a note under [section 45 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-45).
 
 #### Effective Date of 2018 Amendment
 Amendment by section 40409(b) of Pub. L. 115–123 effective on Jan. 1, 2017, see section 40409(c) of Pub. L. 115–123, set out as a note under [section 45 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-45).
@@ -18337,7 +18657,7 @@ Repeal applicable to taxable years beginning after Dec. 31, 1983, and to carryba
   (B) there is a strike or lockout involving employees at such plant or facility,
   the term “wages” shall not include any amount paid or incurred by the employer to such individual for services which are the same as, or substantially similar to, those services performed by employees participating in, or affected by, the strike or lockout during the period of such strike or lockout.
 
-(4) **Termination** — The term “wages” shall not include any amount paid or incurred to an individual who begins work for the employer after December 31, 2019.
+(4) **Termination** — The term “wages” shall not include any amount paid or incurred to an individual who begins work for the employer after December 31, 2025.
 
 (5) **Coordination with payroll tax forgiveness** — The term “wages” shall not include any amount paid or incurred to a qualified individual (as defined in section 3111(d)(3)) 1 during the 1-year period beginning on the hiring date of such individual by a qualified employer (as defined in section 3111(d)) 1 unless such qualified employer makes an election not to have section 3111(d) 1 apply.
 
@@ -18643,6 +18963,10 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 A prior section 51, added Pub. L. 90–364, title I, § 102(a), June 28, 1968, 82 Stat. 252; amended Pub. L. 91–53, § 5(a), Aug. 7, 1969, 83 Stat. 93; Pub. L. 91–172, title III, § 301(b)(5), title VII, § 701(a), Dec. 30, 1969, 83 Stat. 585, 657, related to the imposition of a tax surcharge, prior to repeal by Pub. L. 94–455, title XIX, § 1901(a)(7), Oct. 4, 1976, 90 Stat. 1765.
 
 #### Amendments
+2020—Subsec. (c)(4). Pub. L. 116–260 substituted “December 31, 2025” for “December 31, 2020”.
+
+2019—Subsec. (c)(4). Pub. L. 116–94 substituted “December 31, 2020” for “December 31, 2019”.
+
 2018—Subsec. (c)(4). Pub. L. 115–141, § 401(a)(26), inserted period at end.
 
 Subsec. (d)(3)(A)(ii)(II). Pub. L. 115–141, § 401(a)(27), inserted comma at end.
@@ -18948,6 +19272,12 @@ Subsec. (d)(12). Pub. L. 96–222, § 103(a)(6)(G)(viii), substituted “employe
 Subsec. (e). Pub. L. 96–222, § 103(a)(6)(G)(ix), inserted “except as provided in subsection (h)(1)” after “the preceding sentence,”.
 
 1978—Pub. L. 95–600 amended section generally and limited allowance of credit to the hiring of seven target groups with high unemployment rates.
+
+#### Effective Date of 2020 Amendment
+Pub. L. 116–260, div. EE, title I, § 113(b), Dec. 27, 2020, 134 Stat. 3050, provided that: “The amendment made by this section [amending this section] shall apply to individuals who begin work for the employer after December 31, 2020.”
+
+#### Effective Date of 2019 Amendment
+Pub. L. 116–94, div. Q, title I, § 143(b), Dec. 20, 2019, 133 Stat. 3234, provided that: “The amendment made by this section [amending this section] shall apply to individuals who begin work for the employer after December 31, 2019.”
 
 #### Effective Date of 2015 Amendment
 Pub. L. 114–113, div. Q, title I, § 142(c), Dec. 18, 2015, 129 Stat. 3056, provided that: “(1) Extension.—The amendment made by subsection (a) [amending this section] shall apply to individuals who begin work for the employer after December 31, 2014. “(2) Modification.—The amendments made by subsection (b) [amending this section] shall apply to individuals who begin work for the employer after December 31, 2015.”
@@ -19258,9 +19588,9 @@ For provisions that nothing in amendment by Pub. L. 101–508 be construed to af
 
 **(e) Portion of credit treated as refundable**
 
-(1) **In general** — In the case of any taxable year of a corporation beginning in 2018, 2019, 2020, or 2021, the limitation under subsection (c) shall be increased by the AMT refundable credit amount for such year.
+(1) **In general** — In the case of any taxable year of a corporation beginning in 2018 or 2019, the limitation under subsection (c) shall be increased by the AMT refundable credit amount for such year.
 
-(2) **AMT refundable credit amount** — For purposes of paragraph (1), the AMT refundable credit amount is an amount equal to 50 percent (100 percent in the case of a taxable year beginning in 2021) of the excess (if any) of—
+(2) **AMT refundable credit amount** — For purposes of paragraph (1), the AMT refundable credit amount is an amount equal to 50 percent (100 percent in the case of a taxable year beginning in 2019) of the excess (if any) of—
 
   (A) the minimum tax credit determined under subsection (b) for the taxable year, over
 
@@ -19269,6 +19599,12 @@ For provisions that nothing in amendment by Pub. L. 101–508 be construed to af
 (3) **Credit refundable** — For purposes of this title (other than this section), the credit allowed by reason of this subsection shall be treated as a credit allowed under subpart C (and not this subpart).
 
 (4) **Short taxable years** — In the case of any taxable year of less than 365 days, the AMT refundable credit amount determined under paragraph (2) with respect to such taxable year shall be the amount which bears the same ratio to such amount determined without regard to this paragraph as the number of days in such taxable year bears to 365.
+
+(5) **Special rule** — In the case of a corporation making an election under this paragraph—
+
+  (A) paragraph (1) shall not apply, and
+
+  (B) subsection (c) shall not apply to the first taxable year of such corporation beginning in 2018.
 
 ### Statutory Notes
 
@@ -19279,6 +19615,12 @@ The Tax Cuts and Jobs Act, referred to in subsec. (d)(3), probably means title I
 A prior section 53, added Pub. L. 95–30, title II, § 202(b), May 23, 1977, 91 Stat. 146; amended Pub. L. 95–600, title III, § 321(c)(2), Nov. 6, 1978, 92 Stat. 2835; Pub. L. 97–34, title II, § 207(c)(2), Aug. 13, 1981, 95 Stat. 225; Pub. L. 97–248, title II, § 201(d)(8)(A), formerly § 201(c)(8)(A), and § 265(b)(2)(A)(iii), Sept. 3, 1982, 96 Stat. 420, 547, renumbered § 201(d)(8)(A), Pub. L. 97–448, title III, § 306(a)(1)(A)(i), Jan. 12, 1983, 96 Stat. 2400; 97–354, § 5(a)(12), Oct. 19, 1982, 96 Stat. 1693; 97–448, title I, § 102(d)(3), Jan. 12, 1983, 96 Stat. 2370; Pub. L. 98–21, title I, § 122(c)(1), Apr. 20, 1983, 97 Stat. 87; Pub. L. 98–369, div. A, title VII, § 713(c)(1)(C), July 18, 1984, 98 Stat. 957, placed limitations on the amount of credit allowed by former section 44B for employment of certain new employees, prior to repeal by Pub. L. 98–369, div. A, title IV, § 474(p)(8), July 18, 1984, 98 Stat. 838, applicable to taxable years beginning after Dec. 31, 1983, and to carrybacks from such years.
 
 #### Amendments
+2020—Subsec. (e)(1). Pub. L. 116–136, § 2305(a)(1), substituted “2018 or 2019” for “2018, 2019, 2020, or 2021”.
+
+Subsec. (e)(2). Pub. L. 116–136, § 2305(a)(2), substituted “2019” for “2021” in introductory provisions.
+
+Subsec. (e)(5). Pub. L. 116–136, § 2305(b)(1), added par. (5).
+
 2017—Subsec. (d)(2). Pub. L. 115–97, § 12001(b)(2), inserted “, except that in the case of a corporation, the tentative minimum tax shall be treated as zero” before period at end.
 
 Subsec. (d)(3). Pub. L. 115–97, § 12002(b), added par. (3).
@@ -19341,6 +19683,9 @@ Pub. L. 101–239, § 7612(a)(1), added cl. (iv).
 
 Subsec. (d)(1)(B)(iii). Pub. L. 100–647, § 6304(a), added cl. (iii).
 
+#### Effective Date of 2020 Amendment
+Pub. L. 116–136, div. A, title II, § 2305(c), Mar. 27, 2020, 134 Stat. 357, provided that: “The amendments made by this section [amending this section] shall apply to taxable years beginning after December 31, 2017.”
+
 #### Effective Date of 2017 Amendment
 Amendment by section 12001(b)(2) of Pub. L. 115–97 applicable to taxable years beginning after Dec. 31, 2017, see section 12001(c) of Pub. L. 115–97, set out as a note under [section 11 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-11).
 
@@ -19402,6 +19747,9 @@ For applicability of amendment by section 701(b) of Pub. L. 99–514 [enacting t
 
 #### Construction
 Pub. L. 113–295, div. A, title II, § 221(a)(8)(A)(ii), Dec. 19, 2014, 128 Stat. 4038, provided that: “The amendment made by clause (i) striking subsection (f) of section 53 of the Internal Revenue Code of 1986 shall not be construed to allow any tax abated by reason of section 53(f)(1) of such Code (as in effect before such amendment) to be included in the amount determined under section 53(b)(1) of such Code.”
+
+#### Special Rule
+Pub. L. 116–136, div. A, title II, § 2305(d), Mar. 27, 2020, 134 Stat. 357, provided that: “(1) In general.—For purposes of the Internal Revenue Code of 1986, a credit or refund for which an application described in paragraph (2)(A) is filed shall be treated as made under section 6411 of such Code. “(2) Tentative refund.—“(A) Application.—A taxpayer may file an application for a tentative refund of any amount for which a refund is due by reason of an election under section 53(e)(5) of the Internal Revenue Code of 1986. Such application shall be in such manner and form as the Secretary of the Treasury (or the Secretary’s delegate) may prescribe and shall—“(i) be verified in the same manner as an application under section 6411(a) of such Code, “(ii) be filed prior to December 31, 2020, and “(iii) set forth—“(I) the amount of the refundable credit claimed under section 53(e) of such Code for such taxable year, “(II) the amount of the refundable credit claimed under such section for any previously filed return for such taxable year, and “(III) the amount of the refund claimed. “(B) Allowance of adjustments.—Within a period of 90 days from the date on which an application is filed under subparagraph (A), the Secretary of the Treasury (or the Secretary’s delegate) shall—“(i) review the application, “(ii) determine the amount of the overpayment, and “(iii) apply, credit, or refund such overpayment, in a manner similar to the manner provided in section 6411(b) of the Internal Revenue Code of 1986. “(C) Consolidated returns.—The provisions of section 6411(c) of the Internal Revenue Code of 1986 Code shall apply to an adjustment under this paragraph to the same extent and manner as the Secretary of the Treasury (or the Secretary’s delegate) may provide.”
 
 
 <a id="section-54"></a>
@@ -19572,7 +19920,7 @@ Pub. L. 111–5, div. B, title I, § 1531(d), Feb. 17, 2009, 123 Stat. 360, prov
 
       (I) by substituting “$109,400” for “$78,750” in subparagraph (A), and
 
-      (II) by substituting “$70,300” for “$50,600” in subparagraph (B), and
+      (II) by substituting “$70,300” for “$50,600” in subparagraph (B),
 
     (ii) paragraph (2) shall be applied—
 
@@ -19580,7 +19928,9 @@ Pub. L. 111–5, div. B, title I, § 1531(d), Feb. 17, 2009, 123 Stat. 360, prov
 
       (II) by substituting “50 percent of the dollar amount applicable under subparagraph (A)” for “$112,500” in subparagraph (B), and
 
-      (III) in the case of a taxpayer described in paragraph (1)(D), without regard to the substitution under subclause (I).
+      (III) in the case of a taxpayer described in paragraph (1)(D), without regard to the substitution under subclause (I), and
+
+    (iii) subsection (j) of section 59 shall not apply.
 
   (B) *Inflation adjustment*
 
@@ -19611,6 +19961,8 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 A prior section 55, Pub. L. 95–600, title IV, § 421(a), Nov. 6, 1978, 92 Stat. 2871; amended Pub. L. 96–222, title I, § 104(a)(4)(A)–(D), (G), (H)(i), (ii), (viii), Apr. 1, 1980, 94 Stat. 215–218; Pub. L. 96–223, title II, § 232(b)(2)(A), (c)(2), Apr. 2, 1980, 94 Stat. 276, 277; Pub. L. 96–603, § 4(a), (b), Dec. 28, 1980, 94 Stat. 3513, 3514; Pub. L. 97–34, title I, § 101(d)(1), title II, § 221(b)(1)(A), title III, § 331(d)(1)(A), Aug. 13, 1981, 95 Stat. 183, 246, 294; Pub. L. 97–248, title II, § 201(a), Sept. 3, 1982, 96 Stat. 411; Pub. L. 97–354, § 5(a)(13), Oct. 19, 1982, 96 Stat. 1693; Pub. L. 97–448, title I, § 103(g)(2)(E), title III, §§ 305(c), 306(a)(1)(B), (C), Jan. 12, 1983, 96 Stat. 2379, 2399, 2400; Pub. L. 98–369, div. A, title IV, §§ 474(q), 491(d)(1), title VI, § 612(e)(3), title VII, § 711(a)(1), (4), (5), July 18, 1984, 98 Stat. 838, 849, 912, 942, 943; Pub. L. 99–514, title XVIII, § 1847(a), Oct. 22, 1986, 100 Stat. 2856, related to alternative minimum tax for taxpayers other than corporations, prior to the general revision of this part by Pub. L. 99–514, § 701(a).
 
 #### Amendments
+2019—Subsec. (d)(4)(A)(iii). Pub. L. 116–94 added cl. (iii).
+
 2017—Subsec. (a). Pub. L. 115–97, § 12001(a), substituted “In the case of a taxpayer other than a corporation, there” for “There” in introductory provisions.
 
 Subsec. (b)(1). Pub. L. 115–97, § 12001(b)(3)(A), amended par. (1) generally. Prior to amendment, par. (1) related to amount of tentative tax.
@@ -19809,6 +20161,9 @@ Subsec. (d)(3). Pub. L. 100–647, § 1007(a)(3), inserted at end “In the case
 
 1986—Subsec. (c)(1). Pub. L. 99–514, § 252(c), inserted “or section 42(j)”.
 
+#### Effective Date of 2019 Amendment
+Amendment by Pub. L. 116–94 applicable to taxable years beginning after Dec. 31, 2017, see section 501(c)(2) of Pub. L. 116–94, set out in a note under [section 1 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-1).
+
 #### Effective Date of 2017 Amendment
 Amendment by section 11002(d)(1)(I) of Pub. L. 115–97 applicable to taxable years beginning after Dec. 31, 2017, see section 11002(e) of Pub. L. 115–97, set out as a note under [section 1 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-1).
 
@@ -20002,9 +20357,7 @@ Pub. L. 94–455, title XXI, § 2123, Oct. 4, 1976, 90 Stat. 1915, as amended by
     (ii) for any taxes described in paragraph (1), (2), or (3) of section 164(a) or clause (ii) of section 164(b)(5)(A).
     Clause (ii) shall not apply to any amount allowable in computing adjusted gross income.
 
-  (B) *Medical expenses* — In determining the amount allowable as a deduction under section 213, subsection (a) of section 213 shall be applied without regard to subsection (f) of such section. This subparagraph shall not apply to taxable years beginning after December 31, 2016, and ending before January 1, 2019 22 So in original. Probably should be followed by a period.
-
-  (C) *Interest* — In determining the amount allowable as a deduction for interest, subsections (d) and (h) of section 163 shall apply, except that—
+  (B) *Interest* — In determining the amount allowable as a deduction for interest, subsections (d) and (h) of section 163 shall apply, except that—
 
     (i) in lieu of the exception under section 163(h)(2)(D), the term “personal interest” shall not include any qualified housing interest (as defined in subsection (e)),
 
@@ -20014,11 +20367,11 @@ Pub. L. 94–455, title XXI, § 2123, Oct. 4, 1976, 90 Stat. 1915, as amended by
 
     (iv) the adjustments of this section and sections 57 and 58 shall apply in determining net investment income under section 163(d).
 
-  (D) *Treatment of certain recoveries* — No recovery of any tax to which subparagraph (A)(ii) applied shall be included in gross income for purposes of determining alternative minimum taxable income.
+  (C) *Treatment of certain recoveries* — No recovery of any tax to which subparagraph (A)(ii) applied shall be included in gross income for purposes of determining alternative minimum taxable income.
 
-  (E) *Standard deduction and deduction for personal exemptions not allowed* — The standard deduction under section 63(c), the deduction for personal exemptions under section 151, and the deduction under section 642(b) shall not be allowed.
+  (D) *Standard deduction and deduction for personal exemptions not allowed* — The standard deduction under section 63(c), the deduction for personal exemptions under section 151, and the deduction under section 642(b) shall not be allowed.
 
-  (F) *Section 68 not applicable* — Section 68 shall not apply.
+  (E) *Section 68 not applicable* — Section 68 shall not apply.
 
 (2) **Circulation and research and experimental expenditures**
 
@@ -20126,6 +20479,8 @@ The FSC Repeal and Extraterritorial Income Exclusion Act of 2000, referred to in
 A prior section 56, added Pub. L. 91–172, title III, § 301(a), Dec. 30, 1969, 83 Stat. 580; amended Pub. L. 91–614, title V, § 501(a), Dec. 31, 1970, 84 Stat. 1846; Pub. L. 92–178, title VI, § 601(c)(4), (5), Dec. 10, 1971, 85 Stat. 558; Pub. L. 93–406, title II, §§ 2001(g)(2)(D), 2002(g)(4), 2005(c)(7), Sept. 2, 1974, 88 Stat. 957, 968, 991; Pub. L. 94–12, title II, §§ 203(b)(2), (3), 208(d)(2), (3), Mar. 29, 1975, 89 Stat. 30, 35; Pub. L. 94–455, title III, § 301(a), (b), (c)(4)(B), Oct. 4, 1976, 90 Stat. 1549, 1552; Pub. L. 95–30, title II, § 202(d)(2), May 23, 1977, 91 Stat. 148; Pub. L. 95–600, title I, § 141(d), Nov. 6, 1978, 92 Stat. 2794; Pub. L. 95–618, title I, § 101(b)(2), Nov. 9, 1978, 92 Stat. 3179; Pub. L. 96–222, title I, § 101(a)(7)(L)(iii)(IV), Apr. 1, 1980, 94 Stat. 200; Pub. L. 97–34, title III, § 331(c)(2), Aug. 13, 1981, 95 Stat. 293; Pub. L. 97–248, title II, § 201(d)(1), formerly § 201(c)(1), Sept. 3, 1982, 96 Stat. 419, renumbered § 201(d)(1), Pub. L. 97–448, title III, § 306(a)(1)(A)(i), Jan. 12, 1983, 96 Stat. 2400; Pub. L. 98–369, div. A, title IV, § 474(r)(1), July 18, 1984, 98 Stat. 839; Pub. L. 99–514, title XI, § 1171(b)(3), Oct. 22, 1986, 100 Stat. 2513, related to a corporate minimum tax, prior to the general revision of this part by Pub. L. 99–514, § 701(a).
 
 #### Amendments
+2019—Subsec. (b)(1)(B) to (F). Pub. L. 116–94 redesignated subpars. (C) to (F) as (B) to (E), respectively, and struck out former subpar. (B). Prior to amendment, text of subpar. (B) read as follows: “In determining the amount allowable as a deduction under section 213, subsection (a) of section 213 shall be applied without regard to subsection (f) of such section. This subparagraph shall not apply to taxable years beginning after December 31, 2016, and ending before January 1, 2019”.
+
 2018—Subsec. (b)(1)(E). Pub. L. 115–141, § 401(b)(7), struck out at end “The preceding sentence shall not apply to so much of the standard deduction as is determined under subparagraphs (D) and (E) of section 63(c)(1).”
 
 Subsec. (d)(1)(A)(ii)(I). Pub. L. 115–141, § 401(b)(8), inserted “(as in effect before its repeal by the Tax Increase Prevention Act of 2014)” after “section 172(b)(1)(H)”.
@@ -20413,6 +20768,9 @@ Subsec. (g)(4)(I). Pub. L. 100–647, § 1007(b)(18), added subpar. (I).
 income from such disposition shall be determined without regard to the installment method under section 453 or 453A and all payments to be received for the disposition shall be deemed received in the taxable year of the disposition. This paragraph shall not apply to any disposition with respect to which an election is in effect under section 453C(e)(4).”
 
 Subsec. (f)(2)(H), (I). Pub. L. 100–203, § 10243(a), added subpar. (H) and redesignated former subpar. (H) as (I).
+
+#### Effective Date of 2019 Amendment
+Pub. L. 116–94, div. Q, title I, § 103(c), Dec. 20, 2019, 133 Stat. 3228, provided that: “The amendments made by this section [amending this section and [section 213 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-213)] shall apply to taxable years ending after December 31, 2018.”
 
 #### Effective Date of 2017 Amendment
 Pub. L. 115–97, title I, § 11027(c), Dec. 22, 2017, 131 Stat. 2077, provided that: “The amendment made by this section [amending this section and [section 213 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-213)] shall apply to taxable years beginning after December 31, 2016.”
@@ -21496,7 +21854,7 @@ Pub. L. 86–780, § 5, Sept. 14, 1960, 74 Stat. 1013, provided for the exclusio
 
 (17) **Interest on education loans** — The deduction allowed by section 221.
 
-(18) **Higher education expenses** — The deduction allowed by section 222.
+(18) **Repealed. Pub. L. 116–260, div. EE, title I, § 104(b)(2)(A), Dec. 27, 2020, 134 Stat. 3041]**
 
 (19) **Health savings accounts** — The deduction allowed by section 223.
 
@@ -21573,7 +21931,7 @@ The substantiation requirements of the preceding sentence shall not apply to any
 
 (1) Section 302 of the Civil Rights Act of 1991 ([42 U.S.C. 2000e–16b](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2000e–16b&num=0&edition=prelim)).
 
-(2) Section 201, 202, 203, 204, 205, 206, or 207 of the Congressional Accountability Act of 1995 ([2 U.S.C. 1311](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1311&num=0&edition=prelim), 1312, 1313, 1314, 1315, 1316, or 1317).
+(2) Section 201, 202, 203, 204, 205, 206, 207, or 208 of the Congressional Accountability Act of 1995 ([2 U.S.C. 1311](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1311&num=0&edition=prelim), 1312, 1313, 1314, 1315, 1316, or 1317).11 See References in Text note below.
 
 (3) The National Labor Relations Act ([29 U.S.C. 151](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section151&num=0&edition=prelim) et seq.).
 
@@ -21617,6 +21975,8 @@ The substantiation requirements of the preceding sentence shall not apply to any
 For inflation adjustment of certain items in this section, see Revenue Procedures listed in a table under [section 1 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-1).
 
 #### References in Text
+Section 208 of the Congressional Accountability Act of 1995, referred to in subsec. (e)(2), was formerly section 207 of the Act prior to renumbering by Pub. L. 116–92, and is classified to [section 1317 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1317&num=0&edition=prelim), The Congress. A new section 207 of the Act was enacted by Pub. L. 116–92 and is classified to [section 1316b of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1316b&num=0&edition=prelim). Pub. L. 116–92 amended list of Act sections in subsec. (e)(2) of this section without corresponding amendment of Code citations, see 2019 Amendment note below.
+
 The National Labor Relations Act, referred to in subsec. (e)(3), is act July 5, 1935, ch. 372, 49 Stat. 449, as amended, which is classified generally to subchapter II (§ 151 et seq.) of chapter 7 of Title 29, Labor. For complete classification of this Act to the Code, see [section 167 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section167&num=0&edition=prelim) and Tables.
 
 The Fair Labor Standards Act of 1938, referred to in subsec. (e)(4), is act June 25, 1938, ch. 676, 52 Stat. 1060, as amended, which is classified generally to chapter 8 (§ 201 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see [section 201 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section201&num=0&edition=prelim) and Tables.
@@ -21628,6 +21988,18 @@ The Employee Polygraph Protection Act of 1988, referred to in subsec. (e)(9), is
 The Worker Adjustment and Retraining Notification Act, referred to in subsec. (e)(10), is Pub. L. 100–379, Aug. 4, 1988, 102 Stat. 890, as amended, which is classified generally to chapter 23 (§ 2101 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under [section 2101 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2101&num=0&edition=prelim) and Tables.
 
 #### Amendments
+2020—Subsec. (a)(18). Pub. L. 116–260, § 104(b)(2)(A), struck out par. (18). Text read as follows: “The deduction allowed by section 222.”
+
+Subsec. (a)(22). Pub. L. 116–260, § 212(c)(1), struck out par. (22). Text read as follows: “In the case of taxable years beginning in 2020, the amount (not to exceed $300) of qualified charitable contributions made by an eligible individual during the taxable year.”
+
+Pub. L. 116–136, § 2204(a), added par. (22).
+
+Subsec. (f). Pub. L. 116–260, § 212(c)(2), struck out subsec. (f) which defined terms relating to qualified charitable contributions.
+
+Pub. L. 116–136, § 2204(b), added subsec. (f).
+
+2019—Subsec. (e)(2). Pub. L. 116–92 substituted “207, or 208” for “or 207”.
+
 2018—Subsec. (a). Pub. L. 115–141, § 101(a)(2)(B), substituted “Any deduction” for “The deduction” in concluding provisions.
 
 Subsec. (a)(20). Pub. L. 115–141, § 401(a)(31), inserted comma after “United States Code”.
@@ -21762,6 +22134,13 @@ Par. (11). Pub. L. 93–483 added par. (11) relating to penalties forfeited beca
 
 1962—Par. (7). Pub. L. 87–792 added par. (7).
 
+#### Effective Date of 2020 Amendment
+Amendment by section 104(b)(2)(A) of Pub. L. 116–260 applicable to taxable years beginning after Dec. 31, 2020, see section 104(c) of div. EE of Pub. L. 116–260, set out as a note under [section 25A of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-25a).
+
+Pub. L. 116–260, div. EE, title II, § 212(d), Dec. 27, 2020, 134 Stat. 3068, provided that: “The amendments made by this section [amending this section and sections 63, 170, 6662, and 6751 of this title] shall apply to taxable years beginning after December 31, 2020.”
+
+Pub. L. 116–136, div. A, title II, § 2204(c), Mar. 27, 2020, 134 Stat. 345, provided that: “The amendments made by this section [amending this section] shall apply to taxable years beginning after December 31, 2019.”
+
 #### Effective Date of 2018 Amendment
 Pub. L. 115–141, div. T, § 101(d), Mar. 23, 2018, 132 Stat. 1157, provided that: “(1) In general.—Except as otherwise provided in this subsection, the amendments made by this section [amending this section, sections 63, 172, 199A, 613, and 6662 of this title, and provisions set out as a note under [section 74 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-74)] shall take effect as if included in section 11011 of Public Law 115–97. “(2) Application of section 199 to certain qualified payments paid after 2017.—The amendment made by subsection (c) [amending provisions set out as a note under [section 74 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-74)] shall take effect as if included in section 13305 of Public Law 115–97.”
 
@@ -21886,6 +22265,9 @@ Pub. L. 88–272, title II, § 213(d), Feb. 26, 1964, 78 Stat. 52, provided that
 #### Effective Date of 1962 Amendment
 Amendment by Pub. L. 87–792 applicable to taxable years beginning after Dec. 31, 1962, see section 8 of Pub. L. 87–792, set out as a note under [section 22 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-22).
 
+#### Regulations or Guidance Clarifying Application of Educator Expense Tax Deduction
+Pub. L. 116–260, div. N, title II, § 275, Dec. 27, 2020, 134 Stat. 1978, provided that: “Not later than February 28, 2021, the Secretary of the Treasury (or the Secretary’s delegate) shall by regulation or other guidance clarify that personal protective equipment, disinfectant, and other supplies used for the prevention of the spread of COVID–19 are treated as described in section 62(a)(2)(D)(ii) of the Internal Revenue Code of 1986. Such regulations or other guidance shall apply to expenses paid or incurred after March 12, 2020.”
+
 #### Savings Provision
 For provisions that nothing in amendment by Pub. L. 101–508 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under [section 45K of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-45k).
 
@@ -21912,9 +22294,11 @@ Pub. L. 95–615, § 2, Nov. 8, 1978, 92 Stat. 3097, provided that with respect 
 
 (1) the standard deduction,
 
-(2) the deduction for personal exemptions provided in section 151, and
+(2) the deduction for personal exemptions provided in section 151,
 
-(3) any deduction provided in section 199A.
+(3) any deduction provided in section 199A, and
+
+(4) the deduction provided in section 170(p).
 
 **(c) Standard deduction** For purposes of this subtitle—
 
@@ -21986,11 +22370,9 @@ Pub. L. 95–615, § 2, Nov. 8, 1978, 92 Stat. 3097, provided that with respect 
 
 **(d) Itemized deductions** For purposes of this subtitle, the term “itemized deductions” means the deductions allowable under this chapter other than—
 
-(1) the deductions allowable in arriving at adjusted gross income,
+(1) the deductions allowable in arriving at adjusted gross income, and
 
-(2) the deduction for personal exemptions provided by section 151, and
-
-(3) any deduction provided in section 199A.
+(2) any deduction referred to in any paragraph of subsection (b).
 
 **(e) Election to itemize**
 
@@ -22031,7 +22413,18 @@ Pub. L. 95–615, § 2, Nov. 8, 1978, 92 Stat. 3097, provided that with respect 
 #### Inflation Adjusted Items for Certain Years
 For inflation adjustment of certain items in this section, see Revenue Procedures listed in a table under [section 1 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-1).
 
+#### Codification
+Another section 212(b) of div. EE of Pub. L. 116–260 amended sections 6662 and 6751 of this title.
+
 #### Amendments
+2020—Subsec. (b)(4). Pub. L. 116–260, § 212(b)(1), added par. (4).
+
+Subsec. (d)(2), (3). Pub. L. 116–260, § 212(b)(2), added par. (2) and struck out former pars. (2) and (3) which read as follows:
+
+“(2) the deduction for personal exemptions provided by section 151, and
+
+“(3) any deduction provided in section 199A.”
+
 2018—Subsecs. (b)(3), (d)(3). Pub. L. 115–141 substituted “any deduction” for “the deduction”.
 
 2017—Subsec. (b)(3). Pub. L. 115–97, § 11011(b)(2), added par. (3).
@@ -22203,6 +22596,9 @@ Subsec. (i). Pub. L. 97–34, § 121(b)(2), added subsec. (i).
 1978—Pub. L. 95–600 substituted “$3,400” for “$3,200” in par. (1), “$2,300” for “$2,200” in par. (2), and “$1,700” for “$1,600” in par. (3).
 
 1977—Pub. L. 95–30 completely revised definition of taxable income from one using the concept of a standard deduction and consisting of subsecs. (a) and (b) entitled, respectively, “General rule” and “Individuals electing standard deduction” to definition using the concepts of zero bracket amounts and excess itemized deductions and consisting of subsecs. (a) to (h) entitled, respectively, “Corporations”, “Individuals”, “Excess itemized deductions”, “Zero bracket amount”, “Unused zero bracket amount”, “Itemized deductions”, “Election to itemize”, and “Marital status”.
+
+#### Effective Date of 2020 Amendment
+Amendment by Pub. L. 116–260 applicable to taxable years beginning after Dec. 31, 2020, see section 212(d) of div. EE of Pub. L. 116–260, set out as a note under [section 62 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-62).
 
 #### Effective Date of 2018 Amendment
 Amendment by Pub. L. 115–141 effective as if included in section 11011 of Pub. L. 115–97, see section 101(d) of Pub. L. 115–141, set out as a note under [section 62 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-62).
@@ -22965,7 +23361,9 @@ then, for purposes of this subtitle, no part of such lump sum shall be considere
 
   (C) *Requirement of level amortization* — Except as provided in regulations, this paragraph shall not apply to any loan unless substantially level amortization of such loan (with payments not less frequently than quarterly) is required over the term of the loan.
 
-  (D) *Related employers and related plans* — For purposes of this paragraph—
+  (D) *Prohibition of loans through credit cards and other similar arrangements* — Subparagraph (A) shall not apply to any loan which is made through the use of any credit card or any other similar arrangement.
+
+  (E) *Related employers and related plans* — For purposes of this paragraph—
 
     (i) the rules of subsections (b), (c), and (m) of section 414 shall apply, and
 
@@ -23180,6 +23578,44 @@ then, for purposes of this subtitle, no part of such lump sum shall be considere
 
     (iv) *Application of subparagraph* — This subparagraph applies to individuals ordered or called to active duty after September 11, 2001. In no event shall the 2-year period referred to in clause (ii) end before the date which is 2 years after the date of the enactment of this subparagraph.
 
+  (H) *Distributions from retirement plans in case of birth of child or adoption*
+
+    (i) *In general* — Any qualified birth or adoption distribution.
+
+    (ii) *Limitation* — The aggregate amount which may be treated as qualified birth or adoption distributions by any individual with respect to any birth or adoption shall not exceed $5,000.
+
+    (iii) *Qualified birth or adoption distribution* — For purposes of this subparagraph—
+
+      (I) *In general* — The term “qualified birth or adoption distribution” means any distribution from an applicable eligible retirement plan to an individual if made during the 1-year period beginning on the date on which a child of the individual is born or on which the legal adoption by the individual of an eligible adoptee is finalized.
+
+      (II) *Eligible adoptee* — The term “eligible adoptee” means any individual (other than a child of the taxpayer’s spouse) who has not attained age 18 or is physically or mentally incapable of self-support.
+
+    (iv) *Treatment of plan distributions*
+
+      (I) *In general* — If a distribution to an individual would (without regard to clause (ii)) be a qualified birth or adoption distribution, a plan shall not be treated as failing to meet any requirement of this title merely because the plan treats the distribution as a qualified birth or adoption distribution, unless the aggregate amount of such distributions from all plans maintained by the employer (and any member of any controlled group which includes the employer) to such individual exceeds $5,000.
+
+      (II) *Controlled group* — For purposes of subclause (I), the term “controlled group” means any group treated as a single employer under subsection (b), (c), (m), or (o) of section 414.
+
+    (v) *Amount distributed may be repaid*
+
+      (I) *In general* — Any individual who receives a qualified birth or adoption distribution may make one or more contributions in an aggregate amount not to exceed the amount of such distribution to an applicable eligible retirement plan of which such individual is a beneficiary and to which a rollover contribution of such distribution could be made under section 402(c), 403(a)(4), 403(b)(8), 408(d)(3), or 457(e)(16), as the case may be.
+
+      (II) *Limitation on contributions to applicable eligible retirement plans other than IRAs* — The aggregate amount of contributions made by an individual under subclause (I) to any applicable eligible retirement plan which is not an individual retirement plan shall not exceed the aggregate amount of qualified birth or adoption distributions which are made from such plan to such individual. Subclause (I) shall not apply to contributions to any applicable eligible retirement plan which is not an individual retirement plan unless the individual is eligible to make contributions (other than those described in subclause (I)) to such applicable eligible retirement plan.
+
+      (III) *Treatment of repayments of distributions from applicable eligible retirement plans other than IRAs* — If a contribution is made under subclause (I) with respect to a qualified birth or adoption distribution from an applicable eligible retirement plan other than an individual retirement plan, then the taxpayer shall, to the extent of the amount of the contribution, be treated as having received such distribution in an eligible rollover distribution (as defined in section 402(c)(4)) and as having transferred the amount to the applicable eligible retirement plan in a direct trustee to trustee transfer within 60 days of the distribution.
+
+      (IV) *Treatment of repayments for distributions from IRAs* — If a contribution is made under subclause (I) with respect to a qualified birth or adoption distribution from an individual retirement plan, then, to the extent of the amount of the contribution, such distribution shall be treated as a distribution described in section 408(d)(3) and as having been transferred to the applicable eligible retirement plan in a direct trustee to trustee transfer within 60 days of the distribution.
+
+    (vi) *Definition and special rules* — For purposes of this subparagraph—
+
+      (I) *Applicable eligible retirement plan* — The term “applicable eligible retirement plan” means an eligible retirement plan (as defined in section 402(c)(8)(B)) other than a defined benefit plan.
+
+      (II) *Exemption of distributions from trustee to trustee transfer and withholding rules* — For purposes of sections 401(a)(31), 402(f), and 3405, a qualified birth or adoption distribution shall not be treated as an eligible rollover distribution.
+
+      (III) *Taxpayer must include TIN* — A distribution shall not be treated as a qualified birth or adoption distribution with respect to any child or eligible adoptee unless the taxpayer includes the name, age, and TIN of such child or eligible adoptee on the taxpayer’s return of tax for the taxable year.
+
+      (IV) *Distributions treated as meeting plan distribution requirements* — Any qualified birth or adoption distribution shall be treated as meeting the requirements of sections 401(k)(2)(B)(i), 403(b)(7)(A)(ii), 403(b)(11), and 457(d)(1)(A).
+
 (3) **Limitations**
 
   (A) *Certain exceptions not to apply to individual retirement plans* — Subparagraphs (A)(v) and (C) of paragraph (2) shall not apply to distributions from an individual retirement plan.
@@ -23356,6 +23792,10 @@ The date of the enactment of this subparagraph, referred to in subsec. (t)(2)(G)
 Section 1034 (as in effect on the day before the date of the enactment of this paragraph), referred to in subsec. (t)(8)(D)(i)(II), means [section 1034 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-1034) as in effect on the day before Aug. 5, 1997. Section 1034 was repealed by Pub. L. 105–34, title III, § 312(b), Aug. 5, 1997, 111 Stat. 839.
 
 #### Amendments
+2019—Subsec. (p)(2)(D), (E). Pub. L. 116–94, § 108(a), added subpar. (D) and redesignated former subpar. (D) as (E).
+
+Subsec. (t)(2)(H). Pub. L. 116–94, § 113(a), added subpar. (H).
+
 2015—Subsec. (t)(4)(A)(ii). Pub. L. 114–26, § 2(c), inserted “or a distribution to which paragraph (10) applies” after “other than by reason of death or disability” in introductory provisions.
 
 Subsec. (t)(10)(A). Pub. L. 114–26, § 2(b), struck out “which is a defined benefit plan” after “section 414(d))”.
@@ -23758,6 +24198,11 @@ Subsec. (f). Pub. L. 87–834 inserted sentence providing that par. (2) shall no
 
 Subsecs. (m) to (o). Pub. L. 87–792, § 4(b), added subsecs. (m) and (n) and redesignated former subsec. (m) as (o).
 
+#### Effective Date of 2019 Amendment
+Pub. L. 116–94, div. O, title I, § 108(b), Dec. 20, 2019, 133 Stat. 3149, provided that: “The amendments made by subsection (a) [amending this section] shall apply to loans made after the date of the enactment of this Act [Dec. 20, 2019].”
+
+Pub. L. 116–94, div. O, title I, § 113(b), Dec. 20, 2019, 133 Stat. 3156, provided that: “The amendments made by this section [amending this section] shall apply to distributions made after December 31, 2019.”
+
 #### Effective Date of 2015 Amendment
 Pub. L. 114–113, div. Q, title III, § 308(b), Dec. 18, 2015, 129 Stat. 3089, provided that: “The amendments made by this section [amending this section] shall apply to distributions after December 31, 2015.”
 
@@ -23930,6 +24375,11 @@ For provisions that nothing in amendment by Pub. L. 101–508 be construed to af
 
 Pub. L. 94–455, title XIX, § 1951(b)(1)(B), Oct. 4, 1976, 90 Stat. 1836, provided that: “Notwithstanding subparagraph (A) [repealing subsec. (i) of this section], if the provisions of section 72(i) applied to amounts received in taxable years beginning before January 1, 1977, under an annuity contract, then amounts received under such contract on or after such date shall be treated as if such provisions were not repealed.”
 
+#### Special Rules for Use of Retirement Funds
+Pub. L. 116–136, div. A, title II, § 2202, Mar. 27, 2020, 134 Stat. 340, as amended by Pub. L. 116–260, div. N, title II, § 280(a), Dec. 27, 2020, 134 Stat. 1982, provided that: “(a) Tax-favored Withdrawals From Retirement Plans.—“(1) In general.—Section 72(t) of the Internal Revenue Code of 1986 shall not apply to any coronavirus-related distribution. “(2) Aggregate dollar limitation.—“(A) In general.—For purposes of this subsection, the aggregate amount of distributions received by an individual which may be treated as coronavirus-related distributions for any taxable year shall not exceed $100,000. “(B) Treatment of plan distributions.—If a distribution to an individual would (without regard to subparagraph (A)) be a coronavirus-related distribution, a plan shall not be treated as violating any requirement of the Internal Revenue Code of 1986 merely because the plan treats such distribution as a coronavirus-related distribution, unless the aggregate amount of such distributions from all plans maintained by the employer (and any member of any controlled group which includes the employer) to such individual exceeds $100,000. “(C) Controlled group.—For purposes of subparagraph (B), the term ‘controlled group’ means any group treated as a single employer under subsection (b), (c), (m), or (o) of section 414 of the Internal Revenue Code of 1986. “(3) Amount distributed may be repaid.—“(A) In general.—Any individual who receives a coronavirus-related distribution may, at any time during the 3-year period beginning on the day after the date on which such distribution was received, make 1 or more contributions in an aggregate amount not to exceed the amount of such distribution to an eligible retirement plan of which such individual is a beneficiary and to which a rollover contribution of such distribution could be made under section 402(c), 403(a)(4), 403(b)(8), 408(d)(3), or 457(e)(16), of the Internal Revenue Code of 1986, as the case may be. “(B) Treatment of repayments of distributions from eligible retirement plans other than iras.—For purposes of the Internal Revenue Code of 1986, if a contribution is made pursuant to subparagraph (A) with respect to a coronavirus-related distribution from an eligible retirement plan other than an individual retirement plan, then the taxpayer shall, to the extent of the amount of the contribution, be treated as having received the coronavirus-related distribution in an eligible rollover distribution (as defined in section 402(c)(4) of such Code) and as having transferred the amount to the eligible retirement plan in a direct trustee to trustee transfer within 60 days of the distribution. “(C) Treatment of repayments of distributions from iras.—For purposes of the Internal Revenue Code of 1986, if a contribution is made pursuant to subparagraph (A) with respect to a coronavirus-related distribution from an individual retirement plan (as defined by section 7701(a)(37) of such Code), then, to the extent of the amount of the contribution, the coronavirus-related distribution shall be treated as a distribution described in section 408(d)(3) of such Code and as having been transferred to the eligible retirement plan in a direct trustee to trustee transfer within 60 days of the distribution. “(4) Definitions.—For purposes of this subsection—“(A) Coronavirus-related distribution.—Except as provided in paragraph (2), the term ‘coronavirus-related distribution’ means any distribution from an eligible retirement plan made—“(i) on or after January 1, 2020, and before December 31, 2020, “(ii) to an individual— “(I) who is diagnosed with the virus SARS–CoV–2 or with coronavirus disease 2019 (COVID–19) by a test approved by the Centers for Disease Control and Prevention, “(II) whose spouse or dependent (as defined in section 152 of the Internal Revenue Code of 1986) is diagnosed with such virus or disease by such a test, or “(III) who experiences adverse financial consequences as a result of being quarantined, being furloughed or laid off or having work hours reduced due to such virus or disease, being unable to work due to lack of child care due to such virus or disease, closing or reducing hours of a business owned or operated by the individual due to such virus or disease, or other factors as determined by the Secretary of the Treasury (or the Secretary’s delegate). “(B) Employee certification.—The administrator of an eligible retirement plan may rely on an employee’s certification that the employee satisfies the conditions of subparagraph (A)(ii) in determining whether any distribution is a coronavirus-related distribution. “(C) Eligible retirement plan.—The term ‘eligible retirement plan’ has the meaning given such term by section 402(c)(8)(B) of the Internal Revenue Code of 1986. “(5) Income inclusion spread over 3-year period.—“(A) In general.—In the case of any coronavirus-related distribution, unless the taxpayer elects not to have this paragraph apply for any taxable year, any amount required to be included in gross income for such taxable year shall be so included ratably over the 3-taxable-year period beginning with such taxable year. “(B) Special rule.—For purposes of subparagraph (A), rules similar to the rules of subparagraph (E) of section 408A(d)(3) of the Internal Revenue Code of 1986 shall apply. “(6) Special rules.—“(A) Exemption of distributions from trustee to trustee transfer and withholding rules.—For purposes of sections 401(a)(31), 402(f), and 3405 of the Internal Revenue Code of 1986, coronavirus-related distributions shall not be treated as eligible rollover distributions. “(B) Coronavirus-related distributions treated as meeting plan distribution requirements.—For purposes of the Internal Revenue Code of 1986, a coronavirus-related distribution shall be treated as meeting the requirements of sections 401(k)(2)(B)(i), 403(b)(7)(A)(i), 403(b)(11), and 457(d)(1)(A) of such Code and [section 8433(h)(1) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section8433/h/1&num=0&edition=prelim), United States Code, and, in the case of a money purchase pension plan, a coronavirus-related distribution which is an in-service withdrawal shall be treated as meeting the distribution rules of section 401(a) of the Internal Revenue Code of 1986. “(b) Loans From Qualified Plans.—“(1) Increase in limit on loans not treated as distributions.—In the case of any loan from a qualified employer plan (as defined under section 72(p)(4) of the Internal Revenue Code of 1986) to a qualified individual made during the 180-day period beginning on the date of the enactment of this Act [Mar. 27, 2020]—“(A) clause (i) of section 72(p)(2)(A) of such Code shall be applied by substituting “$100,000” for “$50,000”, and “(B) clause (ii) of such section shall be applied by substituting “the present value of the nonforfeitable accrued benefit of the employee under the plan” for “one-half of the present value of the nonforfeitable accrued benefit of the employee under the plan”. “(2) Delay of repayment.—In the case of a qualified individual with an outstanding loan (on or after the date of the enactment of this Act) from a qualified employer plan (as defined in section 72(p)(4) of the Internal Revenue Code of 1986)—“(A) if the due date pursuant to subparagraph (B) or (C) of section 72(p)(2) of such Code for any repayment with respect to such loan occurs during the period beginning on the date of the enactment of this Act and ending on December 31, 2020, such due date shall be delayed for 1 year, “(B) any subsequent repayments with respect to any such loan shall be appropriately adjusted to reflect the delay in the due date under subparagraph (A) and any interest accruing during such delay, and “(C) in determining the 5-year period and the term of a loan under subparagraph (B) or (C) of section 72(p)(2) of such Code, the period described in subparagraph (A) of this paragraph shall be disregarded. “(3) Qualified individual.—For purposes of this subsection, the term ‘qualified individual’ means any individual who is described in subsection (a)(4)(A)(ii). “(c) Provisions Relating to Plan Amendments.—“(1) In general.—If this subsection applies to any amendment to any plan or annuity contract—“(A) such plan or contract shall be treated as being operated in accordance with the terms of the plan during the period described in paragraph (2)(B)(i), and “(B) except as provided by the Secretary of the Treasury (or the Secretary’s delegate), such plan or contract shall not fail to meet the requirements of section 411(d)(6) of the Internal Revenue Code of 1986 and section 204(g) of the Employee Retirement Income Security Act of 1974 [[29 U.S.C. 1054(g)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1054/g&num=0&edition=prelim)] by reason of such amendment. “(2) Amendments to which subsection applies.—“(A) In general.—This subsection shall apply to any amendment to any plan or annuity contract which is made—“(i) pursuant to any provision of this section, or pursuant to any regulation issued by the Secretary of the Treasury or the Secretary of Labor (or the delegate of either such Secretary) under any provision of this section, and “(ii) on or before the last day of the first plan year beginning on or after January 1, 2022, or such later date as the Secretary of the Treasury (or the Secretary’s delegate) may prescribe. In the case of a governmental plan (as defined in section 414(d) of the Internal Revenue Code of 1986), clause (ii) shall be applied by substituting the date which is 2 years after the date otherwise applied under clause (ii). “(B) Conditions.—This subsection shall not apply to any amendment unless—“(i) during the period— “(I) beginning on the date that this section or the regulation described in subparagraph (A)(i) takes effect (or in the case of a plan or contract amendment not required by this section or such regulation, the effective date specified by the plan), and “(II) ending on the date described in subparagraph (A)(ii) (or, if earlier, the date the plan or contract amendment is adopted), the plan or contract is operated as if such plan or contract amendment were in effect, and “(ii) such plan or contract amendment applies retroactively for such period.”
+
+[Pub. L. 116–260, div. N, title II, § 280(b), Dec. 27, 2020, 134 Stat. 1982, provided that: “The amendment made by this section [amending section 2202 of Pub. L. 116–136, set out above] shall apply as if included in the enactment of section 2202 of the CARES Act [Pub. L. 116–136, approved Mar. 27, 2020].” ]
+
 #### Applicability of Subsection (t)
 Pub. L. 100–647, title I, § 1011A(c)(13), Nov. 10, 1988, 102 Stat. 3476, provided that: “Section 72(t) of the 1986 Code shall apply to any distribution without regard to whether such distribution is made without the consent of the participant pursuant to section 411(a)(11) or section 417(e) of the 1986 Code.”
 
@@ -23992,11 +24442,13 @@ Pub. L. 110–458, title I, § 100, Dec. 23, 2008, 122 Stat. 5093, provided that
 
   (A) *In general* — Paragraph (1) shall not apply to any taxpayer for any taxable year if the adjusted gross income (determined without regard to this subsection) of such taxpayer for such taxable year exceeds $1,000,000 (half of such amount in the case of a married individual filing a separate return).
 
-  (B) *Coordination with other limitations* — For purposes of sections 86, 135, 137, 219, 221, 222, and 469, adjusted gross income shall be determined after the application of paragraph (1) and before the application of subparagraph (A).
+  (B) *Coordination with other limitations* — For purposes of sections 86, 135, 137, 219, 221, and 469, adjusted gross income shall be determined after the application of paragraph (1) and before the application of subparagraph (A).
 
 ### Statutory Notes
 
 #### Amendments
+2020—Subsec. (d)(2)(B). Pub. L. 116–260 struck out “222,” after “221,”.
+
 2017—Subsec. (d)(2)(B). Pub. L. 115–97 struck out “199,” after “137,”.
 
 2016—Subsec. (d). Pub. L. 114–239 added subsec. (d).
@@ -24008,6 +24460,12 @@ Pub. L. 99–514, § 122(a)(1)(A), substituted “Except as otherwise provided i
 Subsec. (b). Pub. L. 99–514, § 122(a)(1)(B), (C), inserted “for certain prizes and awards transferred to charities” in heading and added par. (3).
 
 Subsec. (c). Pub. L. 99–514, § 122(a)(1)(D), added subsec. (c).
+
+#### Change of Name
+References to the United States Olympic Committee deemed to refer to the United States Olympic and Paralympic Committee, see [section 220502(c) of Title 36](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title36-section220502/c&num=0&edition=prelim), Patriotic and National Observances, Ceremonies, and Organizations.
+
+#### Effective Date of 2020 Amendment
+Amendment by Pub. L. 116–260 applicable to taxable years beginning after Dec. 31, 2020, see section 104(c) of div. EE of Pub. L. 116–260, set out as a note under [section 25A of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-25a).
 
 #### Effective Date of 2017 Amendment
 Pub. L. 115–97, title I, § 13305(c), Dec. 22, 2017, 131 Stat. 2126, as amended by Pub. L. 115–141, div. T, § 101(c), Mar. 23, 2018, 132 Stat. 1156, provided that: “(1) In general.—Except as provided in paragraph (2), the amendments made by this section [amending this section and sections 86, 135, 137, 170, 172, 219, 221, 222, 246, 469, 613, and 613A of this title and repealing [section 199 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-199)] shall apply to taxable years beginning after December 31, 2017. “(2) Transition rule for qualified payments of patrons of cooperatives.—“(A) In general.—The amendments made by this section shall not apply to a qualified payment received by a taxpayer from a specified agricultural or horticultural cooperative in a taxable year of the taxpayer beginning after December 31, 2017, which is attributable to qualified production activities income with respect to which a deduction is allowable to the cooperative under section 199 of the Internal Revenue Code of 1986 (as in effect before the amendments made by this section) for a taxable year of the cooperative beginning before January 1, 2018. Any term used in this subparagraph which is also used in section 199 of such Code (as so in effect) shall have the same meaning as when used in such section. “(B) Coordination with section 199a.—No deduction shall be allowed under section 199A of such Code for any qualified payment to which subparagraph (A) applies.”
@@ -24745,7 +25203,7 @@ Pub. L. 98–369, div. A, title X, § 1075(b), July 18, 1984, 98 Stat. 1053, pro
 
 (2) **Modified adjusted gross income** — For purposes of this subsection, the term “modified adjusted gross income” means adjusted gross income—
 
-  (A) determined without regard to this section and sections 135, 137, 221, 222, 911, 931, and 933, and
+  (A) determined without regard to this section and sections 135, 137, 221, 911, 931, and 933, and
 
   (B) increased by the amount of interest received or accrued by the taxpayer during the taxable year which is exempt from tax.
 
@@ -24832,6 +25290,8 @@ The Railroad Retirement Act of 1974, referred to in subsec. (d)(3), (4), is act 
 A prior section 86 was renumbered [section 87 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-87).
 
 #### Amendments
+2020—Subsec. (b)(2)(A). Pub. L. 116–260 struck out “222,” after “221,”.
+
 2017—Subsec. (b)(2)(A). Pub. L. 115–97 struck out “199,” before “221”.
 
 2004—Subsec. (b)(2)(A). Pub. L. 108–357 inserted “199,” before “221”.
@@ -24883,6 +25343,9 @@ Subsec. (f)(2)–(5). Pub. L. 98–369, § 2661(o)(1), redesignated pars. (1) to
 1983—Subsec. (a). Pub. L. 98–21, § 335(b)(2)(A), inserted “(notwithstanding section 207 of the Social Security Act)”.
 
 Subsec. (d)(4). Pub. L. 98–76 inserted “3(f)(3),” after “3(a),”.
+
+#### Effective Date of 2020 Amendment
+Amendment by Pub. L. 116–260 applicable to taxable years beginning after Dec. 31, 2020, see section 104(c) of div. EE of Pub. L. 116–260, set out as a note under [section 25A of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-25a).
 
 #### Effective Date of 2017 Amendment
 Amendment by Pub. L. 115–97 applicable to taxable years beginning after Dec. 31, 2017, except as provided by transition rule, see section 13305(c) of Pub. L. 115–97, set out as a note under [section 74 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-74).
@@ -26412,7 +26875,7 @@ Pub. L. 94–455, title V, § 505(d), Oct. 4, 1976, 90 Stat. 1568, as amended by
 
     (ii) *Failure to offer to all employees* — In the case of a qualified HSA distribution to any employee, the failure to offer such distribution to any eligible individual covered under a high deductible health plan of the employer shall (notwithstanding section 4980G(d)) be treated for purposes of section 4980G as a failure to meet the requirements of section 4980G(b).
 
-**(f) Reimbursements for medicine restricted to prescribed drugs and insulin** For purposes of this section and section 105, reimbursement for expenses incurred for a medicine or a drug shall be treated as a reimbursement for medical expenses only if such medicine or drug is a prescribed drug (determined without regard to whether such drug is available without a prescription) or is insulin.
+**(f) Reimbursements for menstrual care products** For purposes of this section and section 105, expenses incurred for menstrual care products (as defined in section 223(d)(2)(D)) shall be treated as incurred for medical care.
 
 **(g) Qualified small employer health reimbursement arrangement** For purposes of this section and section 105, payments or reimbursements from a qualified small employer health reimbursement arrangement (as defined in section 9831(d)) of an individual for medical care (as defined in section 213(d)) shall not be treated as paid or reimbursed under employer-provided coverage for medical expenses under an accident or health plan if for the month in which such medical care is provided the individual does not have minimum essential coverage (within the meaning of section 5000A(f)).
 
@@ -26422,6 +26885,8 @@ Pub. L. 94–455, title V, § 505(d), Oct. 4, 1976, 90 Stat. 1568, as amended by
 COBRA, referred to in the heading for subsec. (b)(5), probably means the Consolidated Omnibus Budget Reconciliation Act of 1985, Pub. L. 99–272, Apr. 7, 1986, 100 Stat. 82, as amended. For complete classification of this Act to the Code, see Tables.
 
 #### Amendments
+2020—Subsec. (f). Pub. L. 116–136 added subsec. (f) and struck out former subsec. (f). Prior to amendment, text read as follows: “For purposes of this section and section 105, reimbursement for expenses incurred for a medicine or a drug shall be treated as a reimbursement for medical expenses only if such medicine or drug is a prescribed drug (determined without regard to whether such drug is available without a prescription) or is insulin.”
+
 2016—Subsec. (g). Pub. L. 114–255 added subsec. (g).
 
 2014—Subsec. (c)(1). Pub. L. 113–295 substituted “Gross income” for “Effective on and after January 1, 1997, gross income”.
@@ -26461,6 +26926,9 @@ Subsec. (b)(1). Pub. L. 100–647, § 1018(t)(7)(A), substituted “any employer
 Subsec. (a). Pub. L. 99–514, § 1151(j)(2), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “Gross income does not include contributions by the employer to accident or health plans for compensation (through insurance or otherwise) to his employees for personal injuries or sickness.”
 
 Subsec. (b)(1). Pub. L. 99–514, § 1114(b)(1), substituted “highly compensated employee (within the meaning of section 414(q))” for “highly compensated individual (within the meaning of section 105(h)(5))”.
+
+#### Effective Date of 2020 Amendment
+Pub. L. 116–136, div. A, title III, § 3702(d)(2), Mar. 27, 2020, 134 Stat. 416, provided that: “The amendment made by subsection (c) [amending this section] shall apply to expenses incurred after December 31, 2019.”
 
 #### Effective Date of 2016 Amendment
 Amendment by Pub. L. 114–255 applicable to years beginning after Dec. 31, 2016, see section 18001(a)(7) of Pub. L. 114–255, set out as a note under [section 36B of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-36b).
@@ -26543,9 +27011,9 @@ Pub. L. 107–181, § 2(b), May 20, 2002, 116 Stat. 583, provided that: “(1) I
 
   (E) the indebtedness discharged is qualified principal residence indebtedness which is discharged—
 
-    (i) before January 1, 2018, or
+    (i) before January 1, 2026, or
 
-    (ii) subject to an arrangement that is entered into and evidenced in writing before January 1, 2018.
+    (ii) subject to an arrangement that is entered into and evidenced in writing before January 1, 2026.
 
 (2) **Coordination of exclusions**
 
@@ -26823,7 +27291,7 @@ Pub. L. 107–181, § 2(b), May 20, 2002, 116 Stat. 583, provided that: “(1) I
 
 (1) **Basis reduction** — The amount excluded from gross income by reason of subsection (a)(1)(E) shall be applied to reduce (but not below zero) the basis of the principal residence of the taxpayer.
 
-(2) **Qualified principal residence indebtedness** — For purposes of this section, the term “qualified principal residence indebtedness” means acquisition indebtedness (within the meaning of section 163(h)(3)(B), applied by substituting “$2,000,000 ($1,000,000” for “$1,000,000 ($500,000” in clause (ii) thereof) with respect to the principal residence of the taxpayer.
+(2) **Qualified principal residence indebtedness** — For purposes of this section, the term “qualified principal residence indebtedness” means acquisition indebtedness (within the meaning of section 163(h)(3)(B), applied by substituting “$750,000 ($375,000” for “$1,000,000 ($500,000” in clause (ii) thereof and determined without regard to the substitution described in section 163(h)(3)(F)(i)(II)) with respect to the principal residence of the taxpayer.
 
 (3) **Exception for certain discharges not related to taxpayer’s financial condition** — Subsection (a)(1)(E) shall not apply to the discharge of a loan if the discharge is on account of services performed for the lender or any other factor not directly related to a decline in the value of the residence or to the financial condition of the taxpayer.
 
@@ -26916,6 +27384,14 @@ Sections 338B(g) and 338I of the Public Health Service Act, referred to in subse
 The Higher Education Act of 1965, referred to in subsec. (f)(5)(A)(i), (ii), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219. Part D of title IV of the Act is classified generally to part D (§ 1087a et seq.) of subchapter IV of chapter 28 of Title 20, Education. Sections 437 and 464(c)(1)(F) of the Act are classified to sections 1087 and 1087dd(c)(1)(F), respectively, of Title 20. For complete classification of this Act to the Code, see section 1 of Pub. L. 89–329, set out as a Short Title note under [section 1001 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1001&num=0&edition=prelim) and Tables.
 
 #### Amendments
+2020—Subsec. (a)(1)(E)(i), (ii). Pub. L. 116–260, § 114(a), substituted “January 1, 2026” for “January 1, 2021”.
+
+Subsec. (h)(2). Pub. L. 116–260, § 114(b), substituted “ $750,000 ($375,000” for “$2,000,000 ($1,000,000”.
+
+2019—Subsec. (a)(1)(E). Pub. L. 116–94, § 101(a), substituted “January 1, 2021” for “January 1, 2018” in two places.
+
+Subsec. (h)(2). Pub. L. 116–94, § 101(b), inserted “and determined without regard to the substitution described in section 163(h)(3)(F)(i)(II)” after “clause (ii) thereof”.
+
 2018—Subsec. (a)(1)(E). Pub. L. 115–123 substituted “January 1, 2018” for “January 1, 2017” in two places.
 
 2017—Subsec. (f)(5). Pub. L. 115–97 added par. (5).
@@ -27103,6 +27579,12 @@ Pub. L. 94–455, § 1906(b)(13)(A), struck out “or his delegate” after “S
 1960—Subsec. (b). Pub. L. 86–496 provided that if the discharge, cancellation, or modification of any indebtedness is effected pursuant to a court order in a receivership proceeding or in a proceeding under section 77 of the Bankruptcy Act, commenced before Jan. 1, 1960, then no amount is to be included in gross income with respect to it, and struck out provisions which made subsection inapplicable to discharges occurring in a taxable year beginning after Dec. 31, 1957.
 
 1956—Subsec. (b). Act June 29, 1956, substituted “December 31, 1957” for “December 31, 1955”.
+
+#### Effective Date of 2020 Amendment
+Pub. L. 116–260, div. EE, title I, § 114(c), Dec. 27, 2020, 134 Stat. 3050, provided that: “The amendments made by this section [amending this section] shall apply to discharges of indebtedness after December 31, 2020.”
+
+#### Effective Date of 2019 Amendment
+Pub. L. 116–94, div. Q, title I, § 101(c), Dec. 20, 2019, 133 Stat. 3228, provided that: “The amendments made by this section [amending this section] shall apply to discharges of indebtedness after December 31, 2017.”
 
 #### Effective Date of 2018 Amendment
 Pub. L. 115–123, div. D, title I, § 40201(b), Feb. 9, 2018, 132 Stat. 145, provided that: “The amendments made by this section [amending this section] shall apply to discharges of indebtedness after December 31, 2016.”
@@ -28794,6 +29276,9 @@ Pub. L. 95–600, title I, § 134(c), Nov. 6, 1978, 92 Stat. 2785, as amended by
 #### Savings Provision
 For provisions that nothing in amendment by Pub. L. 101–508 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under [section 45K of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-45k).
 
+#### Temporary Special Rules for Health and Dependent Care Flexible Spending Arrangements
+Pub. L. 116–260, div. EE, title II, § 214, Dec. 27, 2020, 134 Stat. 3068, provided that: “(a) Carryover From 2020 Plan Year.—For plan years ending in 2020, a plan that includes a health flexible spending arrangement or dependent care flexible spending arrangement shall not fail to be treated as a cafeteria plan under the Internal Revenue Code of 1986 merely because such plan or arrangement permits participants to carry over (under rules similar to the rules applicable to health flexible spending arrangements) any unused benefits or contributions remaining in any such flexible spending arrangement from such plan year to the plan year ending in 2021. “(b) Carryover From 2021 Plan Year.—For plan years ending in 2021, a plan that includes a health flexible spending arrangement or dependent care flexible spending arrangement shall not fail to be treated as a cafeteria plan under the Internal Revenue Code of 1986 merely because such plan or arrangement permits participants to carry over (under rules similar to the rules applicable to health flexible spending arrangements) any unused benefits or contributions remaining in any such flexible spending arrangement from such plan year to the plan year ending in 2022. “(c) Extension of Grace Periods, etc.—“(1) In general.—A plan that includes a health flexible spending arrangement or dependent care flexible spending arrangement shall not fail to be treated as a cafeteria plan under the Internal Revenue Code of 1986 merely because such plan or arrangement extends the grace period for a plan year ending in 2020 or 2021 to 12 months after the end of such plan year, with respect to unused benefits or contributions remaining in a health flexible spending arrangement or a dependent care flexible spending arrangement. “(2) Post-termination reimbursements from health FSAs.—A plan that includes a health flexible spending arrangement shall not fail to be treated as a cafeteria plan under the Internal Revenue Code of 1986 merely because such plan or arrangement allows (under rules similar to the rules applicable to dependent care flexible spending arrangements) an employee who ceases participation in the plan during calendar year 2020 or 2021 to continue to receive reimbursements from unused benefits or contributions through the end of the plan year in which such participation ceased (including any grace period, taking into account any modification of a grace period permitted under paragraph (1)). “(d) Special Carry Forward Rule for Dependent Care Flexible Spending Arrangements Where Dependent Aged Out During Pandemic.—“(1) In general.—In the case of any eligible employee, section 21(b)(1)(A) of the Internal Revenue Code of 1986 shall be applied by substituting ‘age 14’ for ‘age 13’ for purposes of determining the dependent care assistance which may be paid or reimbursed with respect to such employee under the dependent care flexible spending arrangement referred to in paragraph (3)(A) with respect to such employee during—“(A) the plan year described in paragraph (3)(A), and “(B) in the case of an employee described in paragraph (3)(B)(ii), the subsequent plan year. “(2) Application to subsequent plan year limited to unused balance from preceding plan year.—Paragraph (1)(B) shall only apply to so much of the amounts paid for dependent care assistance with respect to the dependents referred to in paragraph (3)(B) as does not exceed the unused balance described in paragraph (3)(B)(ii). “(3) Eligible employee.—For purposes of this section, the term ‘eligible employee’ means any employee who—“(A) is enrolled in a dependent care flexible spending arrangement for the last plan year with respect to which the end of the regular enrollment period for such plan year was on or before January 31, 2020, and “(B) has one or more dependents (as defined in section 152(a)(1) of the Internal Revenue Code of 1986) who attain the age of 13—“(i) during such plan year, or “(ii) in the case of an employee who (after the application of this section) has an unused balance in the employee’s account under such arrangement for such plan year (determined as of the close of the last day on which, under the terms of the plan, claims for reimbursement may be made with respect to such plan year), the subsequent plan year. “(e) Change in Election Amount.—For plan years ending in 2021, a plan that includes a health flexible spending arrangement or dependent care flexible spending arrangement shall not fail to be treated as a cafeteria plan under the Internal Revenue Code of 1986 merely because such plan or arrangement allows an employee to make an election to modify prospectively the amount (but not in excess of any applicable dollar limitation) of such employee’s contributions to any such flexible spending arrangement (without regard to any change in status). “(f) Definitions.—Any term used in this section which is also used in section 106, 125, or 129 of the Internal Revenue Code of 1986, or the regulations or guidance thereunder, shall have the same meaning as when used in such section, regulations, or guidance. “(g) Plan Amendments.—A plan that includes a health flexible spending arrangement or dependent care flexible spending arrangement shall not fail to be treated as a cafeteria plan under the Internal Revenue Code of 1986 merely because such plan or arrangement is amended pursuant to a provision under this section and such amendment is retroactive, if—“(1) such amendment is adopted not later than the last day of the first calendar year beginning after the end of the plan year in which the amendment is effective, and “(2) the plan or arrangement is operated consistent with the terms of such amendment during the period beginning on the effective date of the amendment and ending on the date the amendment is adopted.”
+
 #### Nonenforcement of Amendment Made by Section 1151 of Pub. L. 99–514 for Fiscal Year 1990
 No monies appropriated by Pub. L. 101–136 to be used to implement or enforce section 1151 of Pub. L. 99–514 or the amendments made by such section, see section 528 of Pub. L. 101–136, set out as a note under [section 89 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-89).
 
@@ -28912,9 +29397,11 @@ For provisions that nothing in amendment by Pub. L. 115–141 be construed to af
 
 (1) **Educational assistance** — The term “educational assistance” means—
 
-  (A) the payment, by an employer, of expenses incurred by or on behalf of an employee for education of the employee (including, but not limited to, tuition, fees, and similar payments, books, supplies, and equipment), and
+  (A) the payment, by an employer, of expenses incurred by or on behalf of an employee for education of the employee (including, but not limited to, tuition, fees, and similar payments, books, supplies, and equipment),
 
-  (B) the provision, by an employer, of courses of instruction for such employee (including books, supplies, and equipment),
+  (B) in the case of payments made before January 1, 2026, the payment by an employer, whether paid to the employee or to a lender, of principal or interest on any qualified education loan (as defined in section 221(d)(1)) incurred by the employee for education of the employee, and
+
+  (C) the provision, by an employer, of courses of instruction for such employee (including books, supplies, and equipment),
   but does not include payment for, or the provision of, tools or supplies which may be retained by the employee after completion of a course of instruction, or meals, lodging, or transportation. The term “educational assistance” also does not include any payment for, or the provision of any benefits with respect to, any course or other education involving sports, games, or hobbies.
 
 (2) **Employee** — The term “employee” includes, for any year, an individual who is an employee within the meaning of section 401(c)(1) (relating to self-employed individuals).
@@ -28945,6 +29432,12 @@ For provisions that nothing in amendment by Pub. L. 115–141 be construed to af
 A prior section 127 was renumbered [section 140 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-140).
 
 #### Amendments
+2020—Subsec. (c)(1)(B). Pub. L. 116–260 substituted “January 1, 2026” for “January 1, 2021”.
+
+Pub. L. 116–136 added subpar. (B). Former subpar. (B) redesignated (C).
+
+Subsec. (c)(1)(C). Pub. L. 116–36 redesignated subpar. (B) as (C).
+
 2001—Subsec. (c)(1). Pub. L. 107–16, § 411(b), struck out before period at end “, and such term also does not include any payment for, or the provision of any benefits with respect to, any graduate level course of a kind normally taken by an individual pursuing a program leading to a law, business, medical, or other advanced academic or professional degree”.
 
 Subsecs. (d), (e). Pub. L. 107–16, § 411(a), redesignated subsec. (e) as (d) and struck out heading and text of former subsec. (d). Text read as follows: “This section shall not apply to expenses paid with respect to courses beginning after December 31, 2001.”
@@ -29004,6 +29497,11 @@ Subsec. (c)(8). Pub. L. 98–611, § 1(c), added par. (8).
 Subsec. (d). Pub. L. 98–611, § 1(a), substituted “December 31, 1985” for “December 31, 1983”.
 
 Subsec. (e). Pub. L. 98–611, § 1(d)(3)(B), added subsec. (e).
+
+#### Effective Date of 2020 Amendment
+Pub. L. 116–260, div. EE, title I, § 120(b), Dec. 27, 2020, 134 Stat. 3051, provided that: “The amendment made by this section [amending this section] shall apply to payments made after December 31, 2020.”
+
+Pub. L. 116–136, div. A, title II, § 2206(c), Mar. 27, 2020, 134 Stat. 347, provided that: “The amendments made by this section [amending this section and [section 221 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-221)] shall apply to payments made after the date of the enactment of this Act [Mar. 27, 2020].”
 
 #### Effective Date of 2001 Amendment
 Pub. L. 107–16, title IV, § 411(d), June 7, 2001, 115 Stat. 63, provided that: “The amendments made by this section [amending this section and former [section 51A of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-51a)] shall apply with respect to expenses relating to courses beginning after December 31, 2001.”
@@ -30325,7 +30823,7 @@ Pub. L. 108–121, title I, § 106(d), Nov. 11, 2003, 117 Stat. 1339, provided t
 
 (4) **Modified adjusted gross income** — The term “modified adjusted gross income” means the adjusted gross income of the taxpayer for the taxable year determined—
 
-  (A) without regard to this section and sections 137, 221, 222, 911, 931, and 933, and
+  (A) without regard to this section and sections 137, 221, 911, 931, and 933, and
 
   (B) after the application of sections 86, 469, and 219.
 
@@ -30360,6 +30858,8 @@ For inflation adjustment of certain items in this section, see Revenue Procedure
 A prior section 135 was renumbered [section 140 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-140).
 
 #### Amendments
+2020—Subsec. (c)(4)(A). Pub. L. 116–260 struck out “222,” after “221,”.
+
 2017—Subsec. (b)(2)(B)(ii). Pub. L. 115–97, § 11002(d)(1)(M), substituted “for ‘calendar year 2016’ in subparagraph (A)(ii)” for “for ‘calendar year 1992’ in subparagraph (B)”.
 
 Subsec. (c)(4)(A). Pub. L. 115–97, § 13305(b)(1), struck out “199,” before “221”.
@@ -30409,6 +30909,9 @@ Subsec. (b)(2)(B)(ii). Pub. L. 101–508, § 11101(d)(1)(E), struck out before p
 Subsec. (b)(2)(C). Pub. L. 101–508, § 11702(h)(2), struck out “(A) or” after “subparagraph”.
 
 1989—Subsec. (d)(1). Pub. L. 101–239 substituted “subsection (a) with respect to” for “subsection (a) respect to”.
+
+#### Effective Date of 2020 Amendment
+Amendment by Pub. L. 116–260 applicable to taxable years beginning after Dec. 31, 2020, see section 104(c) of div. EE of Pub. L. 116–260, set out as a note under [section 25A of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-25a).
 
 #### Effective Date of 2017 Amendment
 Amendment by section 11002(d)(1)(M) of Pub. L. 115–97 applicable to taxable years beginning after Dec. 31, 2017, see section 11002(e) of Pub. L. 115–97, set out as a note under [section 1 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-1).
@@ -30530,7 +31033,7 @@ Pub. L. 102–486, title XIX, § 1912(c), Oct. 24, 1992, 106 Stat. 3016, provide
 
 (3) **Determination of adjusted gross income** — For purposes of paragraph (2), adjusted gross income shall be determined—
 
-  (A) without regard to this section and sections 221, 222, 911, 931, and 933, and
+  (A) without regard to this section and sections 221, 911, 931, and 933, and
 
   (B) after the application of sections 86, 135, 219, and 469.
 
@@ -30564,6 +31067,8 @@ For inflation adjustment of certain items in this section, see Revenue Procedure
 A prior section 137 was renumbered [section 140 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-140).
 
 #### Amendments
+2020—Subsec. (b)(3)(A). Pub. L. 116–260 struck out “222,” after “sections 221,”.
+
 2018—Subsec. (c). Pub. L. 115–141 substituted “section 541” for “section 514” in concluding provisions.
 
 2017—Subsec. (b)(3)(A). Pub. L. 115–97, § 13305(b)(1), struck out “199,” before “221”.
@@ -30613,6 +31118,9 @@ Subsec. (f). Pub. L. 107–16, § 202(d)(2), (e)(2), added subsec. (f) and struc
 1998—Subsec. (b)(3)(A). Pub. L. 105–277 inserted “221,” after “and sections”.
 
 1997—Subsec. (b)(1). Pub. L. 105–34 substituted “of the amounts paid or expenses incurred which may be taken into account” for “amount excludable from gross income”.
+
+#### Effective Date of 2020 Amendment
+Amendment by Pub. L. 116–260 applicable to taxable years beginning after Dec. 31, 2020, see section 104(c) of div. EE of Pub. L. 116–260, set out as a note under [section 25A of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-25a).
 
 #### Effective Date of 2017 Amendment
 Amendment by section 11002(d)(1)(N) of Pub. L. 115–97 applicable to taxable years beginning after Dec. 31, 2017, see section 11002(e) of Pub. L. 115–97, set out as a note under [section 1 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-1).
@@ -30873,7 +31381,7 @@ Section applicable to taxable years ending after Dec. 8, 2003, see section 1202(
 
   (A) *In general* — The term “qualified payment” means any payment (whether reimbursement or otherwise) provided by a State or political division thereof on account of the performance of services as a member of a qualified volunteer emergency response organization.
 
-  (B) *Applicable dollar limitation* — The amount determined under subparagraph (A) for any taxable year shall not exceed $30 multiplied by the number of months during such year that the taxpayer performs such services.
+  (B) *Applicable dollar limitation* — The amount determined under subparagraph (A) for any taxable year shall not exceed $50 multiplied by the number of months during such year that the taxpayer performs such services.
 
 (3) **Qualified volunteer emergency response organization** — The term “qualified volunteer emergency response organization” means any volunteer organization—
 
@@ -30881,9 +31389,24 @@ Section applicable to taxable years ending after Dec. 8, 2003, see section 1202(
 
   (B) which is required (by written agreement) by the State or political subdivision to furnish firefighting or emergency medical services in such State or political subdivision.
 
-**(d) Termination** This section shall not apply with respect to taxable years beginning after December 31, 2010.
-
 ### Statutory Notes
+
+#### Amendments
+2020—Subsec. (d). Pub. L. 116–260 struck out subsec. (d). Text read as follows: “This section shall not apply with respect to taxable years beginning—
+
+“(1) after December 31, 2010, and before January 1, 2020, or
+
+“(2) after December 31, 2020.”
+
+2019—Subsec. (c)(2). Pub. L. 116–94, § 301(a), substituted “$50” for “$30”.
+
+Subsec. (d). Pub. L. 116–94, § 301(b), substituted “beginning—” for “beginning after December 31, 2010.” and added pars. (1) and (2).
+
+#### Effective Date of 2020 Amendment
+Pub. L. 116–260, div. EE, title I, § 103(b), Dec. 27, 2020, 134 Stat. 3040, provided that: “The amendment made by this section [amending this section] shall apply to taxable years beginning after December 31, 2020.”
+
+#### Effective Date of 2019 Amendment
+Pub. L. 116–94, div. O, title III, § 301(d), Dec. 20, 2019, 133 Stat. 3175, provided that: “The amendments made by this section [amending this section and [section 3121 of this title](./chapter-021-federal-insurance-contributions-act.md#section-3121)] shall apply to taxable years beginning after December 31, 2019.”
 
 #### Effective Date
 Pub. L. 110–142, § 5(c), Dec. 20, 2007, 121 Stat. 1806, provided that: “The amendments made by this section [enacting this section] shall apply to taxable years beginning after December 31, 2007.”
@@ -36732,7 +37255,7 @@ Extension of time for filing of claims for refunds or credit of overpayments of 
 
     (iv) *Termination* — Clause (i) shall not apply to amounts—
 
-      (I) paid or accrued after December 31, 2017, or
+      (I) paid or accrued after December 31, 2021, or
 
       (II) properly allocable to any period after such date.
 
@@ -36957,7 +37480,31 @@ Extension of time for filing of claims for refunds or credit of overpayments of 
 
     (iii) Farm machinery or equipment.
 
-(10) **Cross references**
+(10) **Special rule for taxable years beginning in 2019 and 2020**
+
+  (A) *In general*
+
+    (i) *In general* — Except as provided in clause (ii) or (iii), in the case of any taxable year beginning in 2019 or 2020, paragraph (1)(B) shall be applied by substituting “50 percent” for “30 percent”.
+
+    (ii) *Special rule for partnerships* — In the case of a partnership—
+
+      (I) clause (i) shall not apply to any taxable year beginning in 2019, but
+
+      (II) unless a partner elects not to have this subclause apply, in the case of any excess business interest of the partnership for any taxable year beginning in 2019 which is allocated to the partner under paragraph (4)(B)(i)(II)—
+
+        (aa) 50 percent of such excess business interest shall be treated as business interest which, notwithstanding paragraph (4)(B)(ii), is paid or accrued by the partner in the partner’s first taxable year beginning in 2020 and which is not subject to the limits of paragraph (1), and
+
+        (bb) 50 percent of such excess business interest shall be subject to the limitations of paragraph (4)(B)(ii) in the same manner as any other excess business interest so allocated.
+
+    (iii) *Election out* — A taxpayer may elect, at such time and in such manner as the Secretary may prescribe, not to have clause (i) apply to any taxable year. Such an election, once made, may be revoked only with the consent of the Secretary. In the case of a partnership, any such election shall be made by the partnership and may be made only for taxable years beginning in 2020.
+
+  (B) *Election to use 2019 adjusted taxable income for taxable years beginning in 2020*
+
+    (i) *In general* — Subject to clause (ii), in the case of any taxable year beginning in 2020, the taxpayer may elect to apply this subsection by substituting the adjusted taxable income of the taxpayer for the last taxable year beginning in 2019 for the adjusted taxable income for such taxable year. In the case of a partnership, any such election shall be made by the partnership.
+
+    (ii) *Special rule for short taxable years* — If an election is made under clause (i) for a taxable year which is a short taxable year, the adjusted taxable income for the taxpayer’s last taxable year beginning in 2019 which is substituted under clause (i) shall be equal to the amount which bears the same ratio to such adjusted taxable income determined without regard to this clause as the number of months in the short taxable year bears to 12 22 So in original. Probably should be followed by a period.
+
+(11) **Cross references**
 
   (A) For requirement that an electing real property trade or business use the alternative depreciation system, see section 168(g)(1)(F).
 
@@ -37012,6 +37559,12 @@ Section 199A(g)(2), referred to in subsec. (j)(7)(C)(ii), probably should be a r
 Section 6664(d)(2)(A), referred to in subsec. (m), was redesignated as section 6664(d)(3)(A) by Pub. L. 111–152, title I, § 1409(c)(2)(A), Mar. 30, 2010, 124 Stat. 1069.
 
 #### Amendments
+2020—Subsec. (h)(3)(E)(iv)(I). Pub. L. 116–260 substituted “December 31, 2021” for “December 31, 2020”.
+
+Subsec. (j)(10), (11). Pub. L. 116–136 added par. (10) and redesignated former par. (10) as (11).
+
+2019—Subsec. (h)(3)(E)(iv)(I). Pub. L. 116–94 substituted “December 31, 2020” for “December 31, 2017”.
+
 2018—Subsec. (d)(4)(E). Pub. L. 115–141, § 401(b)(12), struck out subpar. (E). Text read as follows: “Investment income of the taxpayer for any taxable year shall be reduced by the amount of the passive activity loss to which section 469(a) does not apply for such taxable year by reason of section 469(m). The preceding sentence shall not apply to any portion of such passive activity loss which is attributable to a rental real estate activity with respect to which the taxpayer actively participates (within the meaning of section 469(i)(6)) during such taxable year.”
 
 Subsec. (e)(1). Pub. L. 115–141, § 401(c)(1)(C), substituted “The portion of the original issue discount with respect to any debt instrument which is” for “In the case of any debt instrument issued after July 1, 1982, the portion of the original issue discount with respect to such debt instrument which is”.
@@ -37311,6 +37864,14 @@ Subsec. (d)(7). Pub. L. 92–178, § 304(a)(2)(B), added par. (7).
 1964—Subsec. (b)(1). Pub. L. 88–272 included the purchase of educational services, and defined “educational services”.
 
 1963—Subsecs. (c), (d). Pub. L. 88–9, § 1(a), (c), added subsec. (c), redesignated former subsec. (c) as (d) and added par. (5).
+
+#### Effective Dateof 2020 Amendment
+Pub. L. 116–260, div. EE, title I, § 133(b), Dec. 27, 2020, 134 Stat. 3053, provided that: “The amendment made by this section [amending this section] shall apply to amounts paid or accrued after December 31, 2020.”
+
+Pub. L. 116–136, div. A, title II, § 2306(b), Mar. 27, 2020, 134 Stat. 359, provided that: “The amendments made by this section [amending this section] shall apply to taxable years beginning after December 31, 2018.”
+
+#### Effective Date of 2019 Amendment
+Pub. L. 116–94, div. Q, title I, § 102(b), Dec. 20, 2019, 133 Stat. 3228, provided that: “The amendment made by this section [amending this section] shall apply to amounts paid or accrued after December 31, 2017.”
 
 #### Effective Date of 2018 Amendment
 Pub. L. 115–141, div. U, title IV, § 401(c)(1)(H), Mar. 23, 2018, 132 Stat. 1205, provided that: “The amendments made by this paragraph [amending this section and sections 1271, 1272, and 1278 of this title] shall apply to debt instruments issued on or after July 2, 1982.”
@@ -38959,9 +39520,9 @@ Pub. L. 93–482, § 4, Oct. 26, 1974, 88 Stat. 1456, as amended by Pub. L. 99�
 
     (i) any race horse—
 
-      (I) which is placed in service before January 1, 2018, and
+      (I) which is placed in service before January 1, 2022, and
 
-      (II) which is placed in service after December 31, 2017, and which is more than 2 years old at the time such horse is placed in service by such purchaser,
+      (II) which is placed in service after December 31, 2021, and which is more than 2 years old at the time such horse is placed in service by such purchaser,
 
     (ii) any horse other than a race horse which is more than 12 years old at the time it is placed in service, and
 
@@ -39026,9 +39587,11 @@ Pub. L. 93–482, § 4, Oct. 26, 1974, 88 Stat. 1456, as amended by Pub. L. 99�
 
     (iv) initial clearing and grading land improvements with respect to gas utility property,
 
-    (v) any section 1245 property (as defined in section 1245(a)(3)) used in the transmission at 69 or more kilovolts of electricity for sale and the original use of which commences with the taxpayer after April 11, 2005, and
+    (v) any section 1245 property (as defined in section 1245(a)(3)) used in the transmission at 69 or more kilovolts of electricity for sale and the original use of which commences with the taxpayer after April 11, 2005,
 
-    (vi) any natural gas distribution line the original use of which commences with the taxpayer after April 11, 2005, and which is placed in service before January 1, 2011.
+    (vi) any natural gas distribution line the original use of which commences with the taxpayer after April 11, 2005, and which is placed in service before January 1, 2011, and
+
+    (vii) any qualified improvement property.
 
   (F) *20-year property* — The term “20-year property” means initial clearing and grading land improvements with respect to any electric utility transmission and distribution plant.
 
@@ -39042,7 +39605,7 @@ Pub. L. 93–482, § 4, Oct. 26, 1974, 88 Stat. 1456, as amended by Pub. L. 99�
 
 (6) **Qualified improvement property**
 
-  (A) *In general* — The term “qualified improvement property” means any improvement to an interior portion of a building which is nonresidential real property if such improvement is placed in service after the date such building was first placed in service.
+  (A) *In general* — The term “qualified improvement property” means any improvement made by the taxpayer to an interior portion of a building which is nonresidential real property if such improvement is placed in service after the date such building was first placed in service.
 
   (B) *Certain improvements not included* — Such term shall not include any improvement for which the expenditure is attributable to—
 
@@ -39119,7 +39682,7 @@ Pub. L. 93–482, § 4, Oct. 26, 1974, 88 Stat. 1456, as amended by Pub. L. 99�
 
   (A) *Tax-exempt use property subject to lease* — In the case of any tax-exempt use property subject to a lease, the recovery period used for purposes of paragraph (2) shall (notwithstanding any other subparagraph of this paragraph) in no event be less than 125 percent of the lease term.
 
-  (B) *Special rule for certain property assigned to classes* — For purposes of paragraph (2), in the case of property described in any of the following subparagraphs of subsection (e)(3), the class life shall be determined as follows: If property is described in subparagraph: The classlife is: (A)(iii)4 (B)(ii)5 (B)(iii)9.5 (B)(vii)10 (C)(i)10 (C)(iii)22 (C)(iv)14 (D)(i)15 (D)(ii)20 (D)(v) 220 (E)(i)24 (E)(ii)24 (E)(iii)20 (E)(iv)20 (E)(v)30 (E)(vi)35 (F)25
+  (B) *Special rule for certain property assigned to classes* — For purposes of paragraph (2), in the case of property described in any of the following subparagraphs of subsection (e)(3), the class life shall be determined as follows: If property is described in subparagraph: The classlife is: (A)(iii)4 (B)(ii)5 (B)(iii)9.5 (B)(vii)10 (C)(i)10 (C)(iii)22 (C)(iv)14 (D)(i)15 (D)(ii)20 (E)(i)24 (E)(ii)24 (E)(iii)20 (E)(iv)20 (E)(v)30 (E)(vi)35 (E)(vii)20 (F)25
 
   (C) *Qualified technological equipment* — In the case of any qualified technological equipment, the recovery period used for purposes of paragraph (2) shall be 5 years.
 
@@ -39589,7 +40152,7 @@ Pub. L. 93–482, § 4, Oct. 26, 1974, 88 Stat. 1456, as amended by Pub. L. 99�
 
   (C) *Exception* — Such term shall not include any transportation equipment, administrative services assets, warehouses, administrative buildings, hotels, or motels.
 
-  (D) *Termination* — Such term shall not include any property placed in service after December 31, 2017.
+  (D) *Termination* — Such term shall not include any property placed in service after December 31, 2025.
 
 (16) **Alaska natural gas pipeline** — The term “Alaska natural gas pipeline” means the natural gas pipeline system located in the State of Alaska which—
 
@@ -39702,7 +40265,7 @@ Pub. L. 93–482, § 4, Oct. 26, 1974, 88 Stat. 1456, as amended by Pub. L. 99�
 
 (8) **Election out** — If a taxpayer makes an election under this paragraph with respect to any class of property for any taxable year, paragraph (1) shall not apply to all property in such class placed in service during such taxable year. Such election, once made, shall be irrevocable.
 
-(9) **Termination** — This subsection shall not apply to property placed in service after December 31, 2017.
+(9) **Termination** — This subsection shall not apply to property placed in service after December 31, 2021.
 
 **(k) Special allowance for certain property**
 
@@ -39936,7 +40499,7 @@ Pub. L. 93–482, § 4, Oct. 26, 1974, 88 Stat. 1456, as amended by Pub. L. 99�
 
   (C) which is acquired by the taxpayer by purchase (as defined in section 179(d)) after the date of the enactment of this subsection, but only if no written binding contract for the acquisition was in effect on or before the date of the enactment of this subsection, and
 
-  (D) which is placed in service by the taxpayer before January 1, 2018.
+  (D) which is placed in service by the taxpayer before January 1, 2021.
 
 (3) **Exceptions**
 
@@ -40044,6 +40607,30 @@ A prior section 168, acts Aug. 16, 1954, ch. 746, 68A Stat. 52; Aug. 26, 1957, P
 Pub. L. 94–455, title XIX, § 1951(b)(4)(B), Oct. 4, 1976, 90 Stat. 1837, provided that: “Notwithstanding the repeal made by subparagraph (A) [repealing former section 168], if a certificate was issued before January 1, 1960, with respect to an emergency facility which is or has been placed in service before the date of the enactment of this Act [Oct. 4, 1976], the provisions of [former] section 168 shall not, with respect to such facility, be considered repealed. The benefit of deductions by reason of the preceding sentence shall be allowed to estates and trusts in the same manner as in the case of an individual. The allowable deduction shall be apportioned between the income beneficiaries and the fiduciary in accordance with regulations prescribed under section 642(f).”
 
 #### Amendments
+2020—Subsec. (e)(3)(A)(i)(I). Pub. L. 116–260, § 137(a)(1), substituted “January 1, 2022” for “January 1, 2021”.
+
+Subsec. (e)(3)(A)(i)(II). Pub. L. 116–260, § 137(a)(2), substituted “December 31, 2021” for “December 31, 2020”.
+
+Subsec. (e)(3)(E)(vii). Pub. L. 116–136, § 2307(a)(1)(A), added cl. (vii).
+
+Subsec. (e)(6)(A). Pub. L. 116–136, § 2307(a)(1)(B), inserted “made by the taxpayer” after “any improvement”.
+
+Subsec. (g)(3)(B). Pub. L. 116–136, § 2307(a)(2), struck out table item relating to subpar. (D)(v) and inserted table item relating to subpar. (E)(vii).
+
+Subsec. (i)(15)(D). Pub. L. 116–260, § 115(a), substituted “December 31, 2025” for “December 31, 2020”.
+
+Subsec. (j)(9). Pub. L. 116–260, § 138(a), substituted “December 31, 2021” for “December 31, 2020”.
+
+2019—Subsec. (e)(3)(A)(i)(I). Pub. L. 116–94, § 114(a)(1), substituted “January 1, 2021” for “January 1, 2018”.
+
+Subsec. (e)(3)(A)(i)(II). Pub. L. 116–94, § 114(a)(2), substituted “December 31, 2020” for “December 31, 2017”.
+
+Subsec. (i)(15)(D). Pub. L. 116–94, § 115(a), substituted “December 31, 2020” for “December 31, 2017”.
+
+Subsec. (j)(9). Pub. L. 116–94, § 116(a), substituted “December 31, 2020” for “December 31, 2017”.
+
+Subsec. (l)(2)(D). Pub. L. 116–94, § 130(a), substituted “January 1, 2021” for “January 1, 2018”.
+
 2018—Subsec. (d)(3)(B)(i). Pub. L. 115–141, § 401(a)(49), inserted comma after “real property”.
 
 Subsec. (e)(3)(A)(i)(I). Pub. L. 115–123, § 40304(a)(1), substituted “January 1, 2018” for “January 1, 2017”.
@@ -41010,6 +41597,24 @@ Pub. L. 97–248, § 208(a)(1), added subsec. (i). Former subsec. (i) redesignat
 
 Subsec. (j). Pub. L. 97–248, § 208(a)(1), redesignated former subsec. (i) as (j).
 
+#### Effective Date of 2020 Amendment
+Pub. L. 116–260, div. EE, title I, § 115(b), Dec. 27, 2020, 134 Stat. 3050, provided that: “The amendment made by this section [amending this section] shall apply to property placed in service after December 31, 2020.”
+
+Pub. L. 116–260, div. EE, title I, § 137(b), Dec. 27, 2020, 134 Stat. 3053, provided that: “The amendments made by this section [amending this section] shall apply to property placed in service after December 31, 2020.”
+
+Pub. L. 116–260, div. EE, title I, § 138(b), Dec. 27, 2020, 134 Stat. 3054, provided that: “The amendment made by this section [amending this section] shall apply to property placed in service after December 31, 2020.”
+
+Pub. L. 116–136, div. A, title II, § 2307(b), Mar. 27, 2020, 134 Stat. 359, provided that: “The amendments made by this section [amending this section] shall take effect as if included in section 13204 of Public Law 115–97.”
+
+#### Effective Date of 2019 Amendment
+Pub. L. 116–94, div. Q, title I, § 114(b), Dec. 20, 2019, 133 Stat. 3229, provided that: “The amendments made by this section [amending this section] shall apply to property placed in service after December 31, 2017.”
+
+Pub. L. 116–94, div. Q, title I, § 115(b), Dec. 20, 2019, 133 Stat. 3229, provided that: “The amendment made by this section [amending this section] shall apply to property placed in service after December 31, 2017.”
+
+Pub. L. 116–94, div. Q, title I, § 116(b), Dec. 20, 2019, 133 Stat. 3229, provided that: “The amendment made by this section [amending this section] shall apply to property placed in service after December 31, 2017.”
+
+Pub. L. 116–94, div. Q, title I, § 130(b), Dec. 20, 2019, 133 Stat. 3232, provided that: “The amendment made by this section [amending this section] shall apply to property placed in service after December 31, 2017.”
+
 #### Effective Date of 2018 Amendment
 Pub. L. 115–141, div. U, title I, § 101(d)(3), (4), Mar. 23, 2018, 132 Stat. 1160, 1161, provided that: “(3) For purposes of applying section 168(k) of the Internal Revenue Code of 1986, as in effect on the day before the date of the enactment of Public Law 115–97 [Dec. 22, 2017], with respect to property acquired before September 28, 2017, paragraph (6) thereof shall be treated as reading as follows (and as having been included in section 143 of the Protecting Americans from Tax Hikes Act of 2015 [Pub. L. 114–113]):“ ‘(6) Phase-down.—In the case of qualified property placed in service by the taxpayer after December 31, 2017 (December 31, 2018, in the case of property described in subparagraph (B) or (C) of paragraph (2)), paragraph (1)(A) shall be applied by substituting for “50 percent”— “ ‘(A) “40 percent” in the case of— “ ‘(i) property placed in service in 2018 (other than property described in subparagraph (B) or (C) of paragraph (2)), and “ ‘(ii) property described in subparagraph (B) or (C) of paragraph (2) which is placed in service in 2019, and “ ‘(B) “30 percent” in the case of— “ ‘(i) property placed in service in 2019 (other than property described in subparagraph (B) or (C) of paragraph (2)), and “ ‘(ii) property described in subparagraph (B) or (C) of paragraph (2) which is placed in service in 2020.’ “(4) Section 168(k)(7) of the Internal Revenue Code of 1986, as in effect on the day before the date of the enactment of Public Law 115–97, shall be applied—“(A) by substituting ‘paragraphs (1), (2)(F), and (4)’ for ‘paragraphs (1) and (2)(F)’, and “(B) as if the application of such substitution had been included in section 143 of the Protecting Americans from Tax Hikes Act of 2015.”
 
@@ -41034,7 +41639,7 @@ Pub. L. 115–97, title I, § 13201(h), Dec. 22, 2017, 131 Stat. 2108, provided 
 
 Pub. L. 115–97, title I, § 13203(c), Dec. 22, 2017, 131 Stat. 2109, provided that: “The amendments made by this section [amending this section] shall apply to property placed in service after December 31, 2017, in taxable years ending after such date.”
 
-Pub. L. 115–97, title I, § 13204(b), Dec. 22, 2017, 131 Stat. 2111, provided that: “(1) In general.—Except as provided in paragraph (2), the amendments made by this section [amending this section] shall apply to property placed in service after December 31, 2017. “(2) Amendments related to electing real property trade or business.—The amendments made by subsection (a)(3)(A) [amending this section] shall apply to taxable years beginning after December 31, 2017.”
+Pub. L. 115–97, title I, § 13204(b), Dec. 22, 2017, 131 Stat. 2111, as amended by Pub. L. 116–260, div. EE, title II, § 202, Dec. 27, 2020, 134 Stat. 3056, provided that: “(1) In general.—Except as provided in paragraphs (2) and (3), the amendments made by this section [amending this section] shall apply to property placed in service after December 31, 2017. “(2) Amendments related to electing real property trade or business.—The amendments made by subsection (a)(3)(A) [amending this section] shall apply to taxable years beginning after December 31, 2017. “(3) Certain residential rental property“In the case of any residential rental property—“(A) which was placed in service before January 1, 2018, “(B) which is held by an electing real property trade or business (as defined in section 163(j)(7)(B) of the Internal Revenue Code of 1986), and “(C) for which subparagraph (A), (B), (C), (D), or (E) of section 168(g)(1) of the Internal Revenue Code of 1986 did not apply prior to such date, the amendments made by subsection (a)(3)(C) shall apply to taxable years beginning after December 31, 2017.”
 
 Pub. L. 115–97, title I, § 13205(b), Dec. 22, 2017, 131 Stat. 2111, provided that: “The amendments made by this section [amending this section] shall apply to taxable years beginning after December 31, 2017.”
 
@@ -42320,7 +42925,13 @@ For purposes of this section, the term “charitable contribution” also means 
 
   (B) *Initial fractional contribution* — The term “initial fractional contribution” means, with respect to any taxpayer, the first charitable contribution of an undivided portion of the taxpayer’s entire interest in any tangible personal property.
 
-**(p) Other cross references**
+**(p) Special rule for taxpayers who do not elect to itemize deductions** In the case of any taxable year beginning in 2021, if the individual does not elect to itemize deductions for such taxable year, the deduction under this section shall be equal to the deduction, not in excess of $300 ($600 in the case of a joint return), which would be determined under this section if the only charitable contributions taken into account in determining such deduction were contributions made in cash during such taxable year (determined without regard to subsections (b)(1)(G)(ii) and (d)(1)) to an organization described in section 170(b)(1)(A) and not—
+
+(1) to an organization described in section 509(a)(3), or
+
+(2) for the establishment of a new, or maintenance of an existing, donor advised fund (as defined in section 4966(d)(2)).
+
+**(q) Other cross references**
 
 (1) For treatment of certain organizations providing child care, see section 501(k).
 
@@ -42355,7 +42966,7 @@ The date of the enactment of this subparagraph, referred to in subsec. (e)(3)(C)
 
 [Section 330(c) of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section330/c&num=0&edition=prelim), referred to in subsec. (f)(11)(E)(iii)(II), was redesignated [section 330(d) of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section330/d&num=0&edition=prelim) by Pub. L. 114–113, div. Q, title IV, § 410(1), Dec. 18, 2015, 129 Stat. 3121.
 
-Section 25 of the State Department Basic Authorities Act of 1956, referred to in subsec. (p)(7), is classified to [section 2697 of Title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2697&num=0&edition=prelim), Foreign Relations and Intercourse.
+Section 25 of the State Department Basic Authorities Act of 1956, referred to in subsec. (q)(7), is classified to [section 2697 of Title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2697&num=0&edition=prelim), Foreign Relations and Intercourse.
 
 #### Codification
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
@@ -42363,6 +42974,8 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 Sections 1202(a), 1204(a), 1206(a), (b)(1), 1213(a)–(d), 1214(a), (b), 1215(a), 1216(a), 1217(a), 1218(a), 1219(c)(1), and 1234(a) of Pub. L. 109–280, which directed the amendment of section 170 without specifying the act to be amended, were executed to this section which is section 170 of the Internal Revenue Code of 1986, to reflect the probable intent of Congress. See 2006 Amendment notes below.
 
 #### Amendments
+2020—Subsecs. (p), (q). Pub. L. 116–260 added subsec. (p) and redesignated former subsec. (p) as (q).
+
 2018—Subsec. (b)(1)(A)(ix). Pub. L. 115–141, § 401(a)(52), inserted “National” before “Agricultural”.
 
 Subsec. (e)(3)(D), (E). Pub. L. 115–141, § 401(b)(14), redesignated subpar. (E) as (D) and struck out former subpar. (D) which related to special rule for contributions of book inventory to public schools.
@@ -42800,6 +43413,9 @@ Subsec. (b)(4). Pub. L. 85–866, § 12, added par. (4).
 #### Change of Name
 International Communication Agency, and Director thereof, redesignated United States Information Agency, and Director thereof, by section 303 of Pub. L. 97–241, title III, Aug. 24, 1982, 96 Stat. 291, set out as a note under [section 1461 of Title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section1461&num=0&edition=prelim), Foreign Relations and Intercourse. United States Information Agency (other than Broadcasting Board of Governors and International Broadcasting Bureau) abolished and functions transferred to Secretary of State, see sections 6531 and 6532 of Title 22.
 
+#### Effective Date of 2020 Amendment
+Amendment by Pub. L. 116–260 applicable to taxable years beginning after Dec. 31, 2020, see section 212(d) of div. EE of Pub. L. 116–260, set out as a note under [section 62 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-62).
+
 #### Effective Date of 2018 Amendment
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding [section 3001 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section3001&num=0&edition=prelim), Armed Forces.
 
@@ -43072,6 +43688,11 @@ United States International Development Cooperation Agency (other than Agency fo
 
 For transfer of functions, personnel, assets, and liabilities of the Overseas Private Investment Corporation to the United States International Development Finance Corporation and treatment of related references, see sections 9683 and 9686(d) of Title 22, Foreign Relations and Intercourse.
 
+#### Temporary Modification of Limitations on Charitable Contributions
+Pub. L. 116–136, div. A, title II, § 2205, Mar. 27, 2020, 134 Stat. 345, as amended by Pub. L. 116–260, div. EE, title II, § 213(a), (b), Dec. 27, 2020, 134 Stat. 3068, provided that: “(a) Temporary Suspension of Limitations on Certain Cash Contributions.—“(1) In general.—Except as otherwise provided in paragraph (2), qualified contributions shall be disregarded in applying subsections (b) and (d) of section 170 of the Internal Revenue Code of 1986. “(2) Treatment of excess contributions.—For purposes of section 170 of the Internal Revenue Code of 1986—“(A) Individuals.—In the case of an individual—“(i) Limitation.—Any qualified contribution shall be allowed as a deduction only to the extent that the aggregate of such contributions does not exceed the excess of the taxpayer’s contribution base (as defined in subparagraph (H) of section 170(b)(1) of such Code) over the amount of all other charitable contributions allowed under section 170(b)(1) of such Code. “(ii) Carryover.—If the aggregate amount of qualified contributions made in the contribution year (within the meaning of section 170(d)(1) of such Code) exceeds the limitation of clause (i), such excess shall be added to the excess described in section 170(b)(1)(G)(ii). “(B) Corporations.—In the case of a corporation—“(i) Limitation.—Any qualified contribution shall be allowed as a deduction only to the extent that the aggregate of such contributions does not exceed the excess of 25 percent of the taxpayer’s taxable income (as determined under paragraph (2) of section 170(b) of such Code) over the amount of all other charitable contributions allowed under such paragraph. “(ii) Carryover.—If the aggregate amount of qualified contributions made in the contribution year (within the meaning of section 170(d)(2) of such Code) exceeds the limitation of clause (i), such excess shall be appropriately taken into account under section 170(d)(2) subject to the limitations thereof. “(3) Qualified contributions.—“(A) In general.—For purposes of this subsection, the term ‘qualified contribution’ means any charitable contribution (as defined in section 170(c) of the Internal Revenue Code of 1986) if—“(i) such contribution is paid in cash during calendar year 2020 or 2021 to an organization described in section 170(b)(1)(A) of such Code, and “(ii) the taxpayer has elected the application of this section with respect to such contribution. “(B) Exception.—Such term shall not include a contribution by a donor if the contribution is—“(i) to an organization described in section 509(a)(3) of the Internal Revenue Code of 1986, or “(ii) for the establishment of a new, or maintenance of an existing, donor advised fund (as defined in section 4966(d)(2) of such Code). “(C) Application of election to partnerships and s corporations.—In the case of a partnership or S corporation, the election under subparagraph (A)(ii) shall be made separately by each partner or shareholder. “(b) Increase in Limits on Contributions of Food Inventory.—In the case of any charitable contribution of food during 2020 or 2021 to which section 170(e)(3)(C) of the Internal Revenue Code of 1986 applies, subclauses (I) and (II) of clause (ii) thereof shall each be applied by substituting ‘25 percent’ for ‘15 percent.’ “(c) Effective Date.—This section shall apply to taxable years ending after December 31, 2019.”
+
+[Pub. L. 116–260, div. EE, title II, § 213(c), Dec. 27, 2020, 134 Stat. 3068, provided that: “The amendments made by this section [amending section 2205 of Pub. L. 116–136, set out above] shall apply to contributions made after December 31, 2020.” ]
+
 #### Anti-Abuse Rules
 Pub. L. 108–357, title VIII, § 882(e), Oct. 22, 2004, 118 Stat. 1631, provided that: “The Secretary of the Treasury may prescribe such regulations or other guidance as may be necessary or appropriate to prevent the avoidance of the purposes of section 170(e)(1)(B)(iii) of the Internal Revenue Code of 1986 (as added by subsection (a)), including preventing— “(1) the circumvention of the reduction of the charitable deduction by embedding or bundling the patent or similar property as part of a charitable contribution of property that includes the patent or similar property, “(2) the manipulation of the basis of the property to increase the amount of the charitable deduction through the use of related persons, pass-thru entities, or other intermediaries, or through the use of any provision of law or regulation (including the consolidated return regulations), and “(3) a donor from changing the form of the patent or similar property to property of a form for which different deduction rules would apply.”
 
@@ -43247,22 +43868,38 @@ For provisions directing that if any amendments made by subtitle A or subtitle C
 
 <a id="section-172"></a>
 ## § 172. Net operating loss deduction
-**(a) Deduction allowed** There shall be allowed as a deduction for the taxable year an amount equal to the lesser of—
+**(a) Deduction allowed** There shall be allowed as a deduction for the taxable year an amount equal to—
 
-(1) the aggregate of the net operating loss carryovers to such year, plus the net operating loss carrybacks to such year, or
+(1) in the case of a taxable year beginning before January 1, 2021, the aggregate of the net operating loss carryovers to such year, plus the net operating loss carrybacks to such year, and
 
-(2) 80 percent of taxable income computed without regard to the deduction allowable under this section.
+(2) in the case of a taxable year beginning after December 31, 2020, the sum of—
+
+  (A) the aggregate amount of net operating losses arising in taxable years beginning before January 1, 2018, carried to such taxable year, plus
+
+  (B) the lesser of—
+
+    (i) the aggregate amount of net operating losses arising in taxable years beginning after December 31, 2017, carried to such taxable year, or
+
+    (ii) 80 percent of the excess (if any) of—
+
+      (I) taxable income computed without regard to the deductions under this section and sections 199A and 250, over
+
+      (II) the amount determined under subparagraph (A).
 For purposes of this subtitle, the term “net operating loss deduction” means the deduction allowed by this subsection.
 
 **(b) Net operating loss carrybacks and carryovers**
 
 (1) **Years to which loss may be carried**
 
-  (A) *General rule* — Except as otherwise provided in this paragraph, a net operating loss for any taxable year—
+  (A) *General rule* — A net operating loss for any taxable year—
 
-    (i) except as otherwise provided in this paragraph, shall not be a net operating loss carryback to any taxable year preceding the taxable year of such loss, and
+    (i) shall be a net operating loss carryback to the extent provided in subparagraphs (B), (C)(i), and (D), and
 
-    (ii) shall be a net operating loss carryover to each taxable year following the taxable year of the loss.
+    (ii) except as provided in subparagraph (C)(ii), shall be a net operating loss carryover—
+
+      (I) in the case of a net operating loss arising in a taxable year beginning before January 1, 2018, to each of the 20 taxable years following the taxable year of the loss, and
+
+      (II) in the case of a net operating loss arising in a taxable year beginning after December 31, 2017, to each taxable year following the taxable year of the loss.
 
   (B) *Farming losses*
 
@@ -43284,13 +43921,39 @@ For purposes of this subtitle, the term “net operating loss deduction” means
 
     (ii) shall be a net operating loss carryover to each of the 20 taxable years following the taxable year of the loss.
 
+  (D) *Special rule for losses arising in 2018, 2019, and 2020*
+
+    (i) *In general* — In the case of any net operating loss arising in a taxable year beginning after December 31, 2017, and before January 1, 2021—
+
+      (I) such loss shall be a net operating loss carryback to each of the 5 taxable years preceding the taxable year of such loss, and
+
+      (II) subparagraphs (B) and (C)(i) shall not apply.
+
+    (ii) *Special rules for REITs* — For purposes of this subparagraph—
+
+      (I) *In general* — A net operating loss for a REIT year shall not be a net operating loss carryback to any taxable year preceding the taxable year of such loss.
+
+      (II) *Special rule* — In the case of any net operating loss for a taxable year which is not a REIT year, such loss shall not be carried to any preceding taxable year which is a REIT year.
+
+      (III) *REIT year* — For purposes of this subparagraph, the term “REIT year” means any taxable year for which the provisions of part II of subchapter M (relating to real estate investment trusts) apply to the taxpayer.
+
+    (iii) *Special rule for life insurance companies* — In the case of a life insurance company, if a net operating loss is carried pursuant to clause (i)(I) to a life insurance company taxable year beginning before January 1, 2018, such net operating loss carryback shall be treated in the same manner as an operations loss carryback (within the meaning of section 810 as in effect before its repeal) of such company to such taxable year.
+
+    (iv) *Rule relating to carrybacks to years to which section 965 applies* — If a net operating loss of a taxpayer is carried pursuant to clause (i)(I) to any taxable year in which an amount is includible in gross income by reason of section 965(a), the taxpayer shall be treated as having made the election under section 965(n) with respect to each such taxable year.
+
+    (v) *Special rules for elections under paragraph (3)*
+
+      (I) *Special election to exclude section 965 years* — If the 5-year carryback period under clause (i)(I) with respect to any net operating loss of a taxpayer includes 1 or more taxable years in which an amount is includible in gross income by reason of section 965(a), the taxpayer may, in lieu of the election otherwise available under paragraph (3), elect under such paragraph to exclude all such taxable years from such carryback period.
+
+      (II) *Time of elections* — An election under paragraph (3) (including an election described in subclause (I)) with respect to a net operating loss arising in a taxable year beginning in 2018 or 2019 shall be made by the due date (including extensions of time) for filing the taxpayer’s return for the first taxable year ending after the date of the enactment of this subparagraph.
+
 (2) **Amount of carrybacks and carryovers** — The entire amount of the net operating loss for any taxable year (hereinafter in this section referred to as the “loss year”) shall be carried to the earliest of the taxable years to which (by reason of paragraph (1)) such loss may be carried. The portion of such loss which shall be carried to each of the other taxable years shall be the excess, if any, of the amount of such loss over the sum of the taxable income for each of the prior taxable years to which such loss may be carried. For purposes of the preceding sentence, the taxable income for any such prior taxable year shall—
 
   (A) be computed with the modifications specified in subsection (d) other than paragraphs (1), (4), and (5) thereof, and by determining the amount of the net operating loss deduction without regard to the net operating loss for the loss year or for any taxable year thereafter,
 
   (B) not be considered to be less than zero, and
 
-  (C) not exceed the amount determined under subsection (a)(2) for such prior taxable year.
+  (C) for taxable years beginning after December 31, 2020, be reduced by 20 percent of the excess (if any) described in subsection (a)(2)(B)(ii) for such taxable year.
 
 (3) **Election to waive carryback** — Any taxpayer entitled to a carryback period under paragraph (1) may elect to relinquish the entire carryback period with respect to a net operating loss for any taxable year. Such election shall be made in such manner as may be prescribed by the Secretary, and shall be made by the due date (including extensions of time) for filing the taxpayer’s return for the taxable year of the net operating loss for which the election is to be in effect. Such election, once made for any taxable year, shall be irrevocable for such taxable year.
 
@@ -43331,7 +43994,7 @@ For purposes of this subtitle, the term “net operating loss deduction” means
 
   (B) where such taxable year is a “prior taxable year” referred to in paragraph (2) of subsection (b), the term “taxable income” in such paragraph shall mean “real estate investment trust taxable income” (as defined in section 857(b)(2)); and
 
-  (C) subsection (a)(2) shall be applied by substituting “real estate investment trust taxable income (as defined in section 857(b)(2) but without regard to the deduction for dividends paid (as defined in section 561))” for “taxable income”.
+  (C) subsection (a)(2)(B)(ii)(I) shall be applied by substituting “real estate investment trust taxable income (as defined in section 857(b)(2) but without regard to the deduction for dividends paid (as defined in section 561))” for “taxable income”.
 
 (7) **Repealed. Pub. L. 115–97, title I, § 13305(b)(3), Dec. 22, 2017, 131 Stat. 2126]**
 
@@ -43355,7 +44018,30 @@ For purposes of this subtitle, the term “net operating loss deduction” means
 
 ### Statutory Notes
 
+#### References in Text
+The date of the enactment of this subparagraph, referred to in subsec. (b)(1)(D)(v)(II), is the date of enactment of Pub. L. 116–136, which was approved Mar. 27, 2020.
+
 #### Amendments
+2020—Subsec. (a). Pub. L. 116–136, § 2303(a)(1), substituted “an amount equal to—” and pars. (1) and (2) for “an amount equal to the lesser of—
+
+“(1) the aggregate of the net operating loss carryovers to such year, plus the net operating loss carrybacks to such year, or
+
+“(2) 80 percent of taxable income computed without regard to the deduction allowable under this section.
+
+Subsec. (b)(1)(A). Pub. L. 116–136, § 2303(c)(2), amended subpar. (A) generally. Prior to amendment, text read as follows: “Except as otherwise provided in this paragraph, a net operating loss for any taxable year—
+
+“(i) except as otherwise provided in this paragraph, shall not be a net operating loss carryback to any taxable year preceding the taxable year of such loss, and
+
+“(ii) shall be a net operating loss carryover to each taxable year following the taxable year of the loss.”
+
+Subsec. (b)(1)(A)(i). Pub. L. 116–136, § 2303(b)(2), substituted “, (C)(i), and (D)” for “and (C)(i)”.
+
+Subsec. (b)(1)(D). Pub. L. 116–136, § 2303(b)(1), added subpar. (D).
+
+Subsec. (b)(2)(C). Pub. L. 116–136, § 2303(a)(2)(A), amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: “not exceed the amount determined under subsection (a)(2) for such prior taxable year.”
+
+Subsec. (d)(6)(C). Pub. L. 116–136, § 2303(a)(2)(B), substituted “subsection (a)(2)(B)(ii)(I)” for “subsection (a)(2)”.
+
 2018—Subsec. (d)(5). Pub. L. 115–141, § 401(a)(53), substituted “sections 243” for “section 243”.
 
 Subsec. (d)(8). Pub. L. 115–141, § 101(a)(2)(B), substituted “Any deduction” for “The deduction”.
@@ -43752,13 +44438,16 @@ Subsec. (g)(3), (4). Pub. L. 85–866, § 14(b), added par. (3) and redesignated
 
 Subsecs. (h) to (j). Pub. L. 85–866, §§ 64(b), 203(b), added subsecs. (h) and (i) and redesignated former subsec. (h) as (j).
 
+#### Effective Date of 2020 Amendment
+Pub. L. 116–136, div. A, title II, § 2303(d), Mar. 27, 2020, 134 Stat. 355, provided that: “(1) Net operating loss limitation.—The amendments made by subsection (a) [amending this section and [section 860E of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-860e)] shall apply—“(A) to taxable years beginning after December 31, 2017, and “(B) to taxable years beginning on or before December 31, 2017, to which net operating losses arising in taxable years beginning after December 31, 2017, are carried. “(2) Carryovers and carrybacks.—The amendment made by subsection (b) [amending this section] shall apply to—“(A) net operating losses arising in taxable years beginning after December 31, 2017, and “(B) taxable years beginning before, on, or after such date to which such net operating losses are carried. “(3) Technical amendments.—The amendments made by subsection (c) [amending this section and provisions set out as a note under this section] shall take effect as if included in the provisions of Public Law 115–97 to which they relate. “(4) Special rule.—In the case of a net operating loss arising in a taxable year beginning before January 1, 2018, and ending after December 31, 2017—“(A) an application under section 6411(a) of the Internal Revenue Code of 1986 with respect to the carryback of such net operating loss shall not fail to be treated as timely filed if filed not later than the date which is 120 days after the date of the enactment of this Act [Mar. 27, 2020], and “(B) an election to—“(i) forgo any carryback of such net operating loss, “(ii) reduce any period to which such net operating loss may be carried back, or “(iii) revoke any election made under section 172(b) to forgo any carryback of such net operating loss, shall not fail to be treated as timely made if made not later than the date which is 120 days after the date of the enactment of this Act.”
+
 #### Effective Date of 2018 Amendment
 Amendment by section 101(a)(2)(B) of Pub. L. 115–141 effective as if included in section 11011 of Pub. L. 115–97, see section 101(d) of Pub. L. 115–141, set out as a note under [section 62 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-62).
 
 #### Effective Date of 2017 Amendment
 Amendment by section 11011(d)(1) of Pub. L. 115–97 applicable to taxable years beginning after Dec. 31, 2017, see section 11011(e) of Pub. L. 115–97, set out as a note under [section 62 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-62).
 
-Pub. L. 115–97, title I, § 13302(e), Dec. 22, 2017, 131 Stat. 2123, provided that: “(1) Net operating loss limitation.—The amendments made by subsections (a) and (d)(2) [amending this section] shall apply to losses arising in taxable years beginning after December 31, 2017. “(2) Carryforwards and carrybacks.—The amendments made by subsections (b), (c), and (d)(1) [amending this section and [section 537 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-537)] shall apply to net operating losses arising in taxable years ending after December 31, 2017.”
+Pub. L. 115–97, title I, § 13302(e), Dec. 22, 2017, 131 Stat. 21233, as amended by Pub. L. 116–136, div. A, title II, § 2303(c)(1), Mar. 27, 2020, 134 Stat. 354, provided that: “(1) Net operating loss limitation.—The amendments made by subsections (a) and (d)(2) [amending this section] shall apply to—“(A) taxable years beginning after December 31, 2017, and “(B) taxable years beginning on or before such date to which net operating losses arising in taxable years beginning after such date are carried. “(2) Carryovers and carrybacks.—The amendments made by subsections (b), (c), and (d)(1) [amending this section and [section 537 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-537)] shall apply to net operating losses arising in taxable years beginning after December 31, 2017.”
 
 Amendment by section 13305(b)(3) of Pub. L. 115–97 applicable to taxable years beginning after Dec. 31, 2017, except as provided by transition rule, see section 13305(c) of Pub. L. 115–97, set out as a note under [section 74 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-74).
 
@@ -43911,6 +44600,11 @@ Pub. L. 111–5, div. B, title I, § 1211(c), Feb. 17, 2009, 123 Stat. 336, prov
 
 #### Savings Provision
 For provisions that nothing in amendment by section 11811 of Pub. L. 101–508 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under [section 45K of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-45k).
+
+#### Special Rules With Respect to Farming Losses
+Pub. L. 116–136, div. A, title II, § 2303(e), as added by Pub. L. 116–260, div. N, title II, § 281(a), Dec. 27, 2020, 134 Stat. 1983, provided that: “(1) Election to disregard application of amendments made by subsections (a) and (b) [amending this section and [section 860E of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-860e)].—“(A) In general.—If a taxpayer who has a farming loss (within the meaning of section 172(b)(1)(B)(ii) of the Internal Revenue Code of 1986 [[26 U.S.C. 172(b)(1)(B)(ii)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section172/b/1/B/ii&num=0&edition=prelim)]) for any taxable year beginning in 2018, 2019, or 2020 makes an election under this paragraph, then—“(i) the amendments made by subsection (a) [amending this section and [section 860E of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-860e)] shall not apply to any taxable year beginning in 2018, 2019, or 2020, and “(ii) the amendments made by subsection (b) [amending this section] shall not apply to any net operating loss arising in any taxable year beginning in 2018, 2019, or 2020. “(B) Election.—“(i) In general.—Except as provided in clause (ii)(II), an election under this paragraph shall be made in such manner as may be prescribed by the Secretary. Such election, once made, shall be irrevocable. “(ii) Time for making election.—“(I) In general.—An election under this paragraph shall be made by the due date (including extensions of time) for filing the taxpayer’s return for the taxpayer’s first taxable year ending after the date of the enactment of the COVID-related Tax Relief Act of 2020 [subtitle B of title II of div. N of Pub. L. 116–260, approved Dec. 27, 2020]. “(II) Previously filed returns.—In the case of any taxable year for which the taxpayer has filed a return of Federal income tax before the date of the enactment of the COVID-related Tax Relief Act of 2020 which disregards the amendments made by subsections (a) and (b), such taxpayer shall be treated as having made an election under this paragraph unless the taxpayer amends such return to reflect such amendments by the due date (including extensions of time) for filing the taxpayer’s return for the first taxable year ending after the date of the enactment of the COVID-related Tax Relief Act of 2020. “(C) Regulations.—The Secretary of the Treasury (or the Secretary’s delegate) shall issue such regulations and other guidance as may be necessary to carry out the purposes of this paragraph, including regulations and guidance relating to the application of the rules of section 172(a) of the Internal Revenue Code of 1986 (as in effect before the date of the enactment of the CARES Act [Pub. L. 116–136, approved Mar. 27, 2020]) to taxpayers making an election under this paragraph. “(2) Revocation of election to waive carryback.—The last sentence of section 172(b)(3) of the Internal Revenue Code of 1986 and the last sentence of section 172(b)(1)(B) of such Code shall not apply to any election—“(A) which was made before the date of the enactment of the COVID-related Tax Relief Act of 2020, and “(B) which relates to the carryback period provided under section 172(b)(1)(B) of such Code with respect to any net operating loss arising in taxable years beginning in 2018 or 2019.”
+
+[Pub. L. 116–260, div. N, title II, § 281(b), Dec. 27, 2020, 134 Stat. 1984, provided that: “The amendment made by this section [enacting section 2303(e) of Pub. L. 116–136, set out above] shall take effect as if included in section 2303 of the CARES Act [Pub. L. 116–136].” ]
 
 #### Net Operating Loss Carryback for Taxable Year Ending During 2001 or 2002
 Pub. L. 108–311, title IV, § 403(b)(2), Oct. 4, 2004, 118 Stat. 1187, provided that: “In the case of a net operating loss for a taxable year ending during 2001 or 2002— “(A) an application under section 6411(a) of the Internal Revenue Code of 1986 with respect to such loss shall not fail to be treated as timely filed if filed before November 1, 2002, “(B) any election made under section 172(b)(3) of such Code may (notwithstanding such section) be revoked before November 1, 2002, and “(C) any election made under [former] section 172(j) of such Code shall (notwithstanding such section) be treated as timely made if made before November 1, 2002.”
@@ -44886,7 +45580,7 @@ Pub. L. 109–58, title XIII, § 1323(c), Aug. 8, 2005, 119 Stat. 1015, provided
 
     (i) located in the United States, and
 
-    (ii) within the scope of Standard 90.1–2007,
+    (ii) within the scope of Reference Standard 90.1,
 
   (C) which is installed as part of—
 
@@ -44896,9 +45590,9 @@ Pub. L. 109–58, title XIII, § 1323(c), Aug. 8, 2005, 119 Stat. 1015, provided
 
     (iii) the building envelope, and
 
-  (D) which is certified in accordance with subsection (d)(6) as being installed as part of a plan designed to reduce the total annual energy and power costs with respect to the interior lighting systems, heating, cooling, ventilation, and hot water systems of the building by 50 percent or more in comparison to a reference building which meets the minimum requirements of Standard 90.1–2007 using methods of calculation under subsection (d)(2).
+  (D) which is certified in accordance with subsection (d)(6) as being installed as part of a plan designed to reduce the total annual energy and power costs with respect to the interior lighting systems, heating, cooling, ventilation, and hot water systems of the building by 50 percent or more in comparison to a reference building which meets the minimum requirements of Reference Standard 90.1 using methods of calculation under subsection (d)(2).
 
-(2) **Standard 90.1–2007** — The term “Standard 90.1–2007” means Standard 90.1–2007 of the American Society of Heating, Refrigerating, and Air Conditioning Engineers and the Illuminating Engineering Society of North America (as in effect on the day before the date of the adoption of Standard 90.1–2010 of such Societies).
+(2) **Reference Standard 90.1** — The term “Reference Standard 90.1” means, with respect to any property, the most recent Standard 90.1 published by the American Society of Heating, Refrigerating, and Air Conditioning Engineers and the Illuminating Engineering Society of North America which has been affirmed by the Secretary, after consultation with the Secretary of Energy, for purposes of this section not later than the date that is 2 years before the date that construction of such property begins.
 
 **(d) Special rules**
 
@@ -44913,7 +45607,7 @@ Pub. L. 109–58, title XIII, § 1323(c), Aug. 8, 2005, 119 Stat. 1015, provided
 
   (B) *Regulations* — The Secretary, after consultation with the Secretary of Energy, shall establish a target for each system described in subsection (c)(1)(C) such that, if such targets were met for all such systems, the building would meet the requirements of subsection (c)(1)(D).
 
-(2) **Methods of calculation** — The Secretary, after consultation with the Secretary of Energy, shall promulgate regulations which describe in detail methods for calculating and verifying energy and power consumption and cost, based on the provisions of the 2005 California Nonresidential Alternative Calculation Method Approval Manual.
+(2) **Methods of calculation** — The Secretary, after consultation with the Secretary of Energy, shall promulgate regulations which describe in detail methods for calculating and verifying energy and power consumption and cost with respect to any property, based on the provisions of the most recent California Nonresidential Alternative Calculation Method Approval Manual which has been affirmed by the Secretary, after consultation with the Secretary of Energy, for purposes of this section not later than the date that is 2 years before the date that construction of such property begins.
 
 (3) **Computer software**
 
@@ -44961,17 +45655,32 @@ Pub. L. 109–58, title XIII, § 1323(c), Aug. 8, 2005, 119 Stat. 1015, provided
 
     (ii) which does not meet the minimum requirements for calculated lighting levels as set forth in the Illuminating Engineering Society of North America Lighting Handbook, Performance and Application, Ninth Edition, 2000.
 
-**(g) Regulations** The Secretary shall promulgate such regulations as necessary—
+**(g) Inflation adjustment** In the case of a taxable year beginning after 2020, each dollar amount in subsection (b) or subsection (d)(1)(A) shall be increased by an amount equal to—
+
+(1) such dollar amount, multiplied by
+
+(2) the cost-of-living adjustment determined under section 1(f)(3) for the calendar year in which the taxable year begins, determined by substituting “calendar year 2019” for “calendar year 2016” in subparagraph (A)(ii) thereof.
+Any increase determined under the preceding sentence which is not a multiple of 1 cent shall be rounded to the nearest cent.
+
+**(h) Regulations** The Secretary shall promulgate such regulations as necessary—
 
 (1) to take into account new technologies regarding energy efficiency and renewable energy for purposes of determining energy efficiency and savings under this section, and
 
 (2) to provide for a recapture of the deduction allowed under this section if the plan described in subsection (c)(1)(D) or (d)(1)(A) is not fully implemented.
 
-**(h) Termination** This section shall not apply with respect to property placed in service after December 31, 2017.
-
 ### Statutory Notes
 
 #### Amendments
+2020—Subsec. (c)(1)(B)(ii), (D). Pub. L. 116–260, § 102(c)(1)(A), substituted “Reference Standard 90.1” for “Standard 90.1–2007”.
+
+Subsec. (c)(2). Pub. L. 116–260, § 102(c)(1)(B), amended par. (2) generally. Prior to amendment, text read as follows: “The term ‘Standard 90.1–2007’ means Standard 90.1–2007 of the American Society of Heating, Refrigerating, and Air Conditioning Engineers and the Illuminating Engineering Society of North America (as in effect on the day before the date of the adoption of Standard 90.1–2010 of such Societies).”
+
+Subsec. (d)(2). Pub. L. 116–260, § 102(c)(2), substituted “with respect to any property, based on the provisions of the most recent California Nonresidential Alternative Calculation Method Approval Manual which has been affirmed by the Secretary, after consultation with the Secretary of Energy, for purposes of this section not later than the date that is 2 years before the date that construction of such property begins” for “, based on the provisions of the 2005 California Nonresidential Alternative Calculation Method Approval Manual”.
+
+Subsecs. (g), (h). Pub. L. 116–260, § 102(a), (b), added subsec. (g), redesignated former subsec. (g) as (h), and struck out former subsec. (h). Prior to amendment, text of subsec. (h) read as follows: “This section shall not apply with respect to property placed in service after December 31, 2020.”
+
+2019—Subsec. (h). Pub. L. 116–94 substituted “December 31, 2020” for “December 31, 2017”.
+
 2018—Subsec. (d)(1)(B). Pub. L. 115–141 substituted “such that” for “which”.
 
 Subsec. (h). Pub. L. 115–123 substituted “December 31, 2017” for “December 31, 2016”.
@@ -44991,6 +45700,12 @@ Subsec. (h). Pub. L. 114–113, § 190(a), substituted “December 31, 2016” f
 2008—Subsec. (h). Pub. L. 110–343 substituted “December 31, 2013” for “December 31, 2008”.
 
 2006—Subsec. (h). Pub. L. 109–432 substituted “2008” for “2007”.
+
+#### Effective Date of 2020 Amendment
+Pub. L. 116–260, div. EE, title I, § 102(d), Dec. 27, 2020, 134 Stat. 3040, provided that: “The amendments made by this section [amending this section] shall apply to property placed in service after December 31, 2020.”
+
+#### Effective Date of 2019 Amendment
+Pub. L. 116–94, div. Q, title I, § 131(b), Dec. 20, 2019, 133 Stat. 3232, provided that: “The amendment made by subsection (a) [amending this section] shall apply to property placed in service after December 31, 2017.”
 
 #### Effective Date of 2018 Amendment
 Pub. L. 115–123, div. D, title I, § 40413(b), Feb. 9, 2018, 132 Stat. 151, provided that: “The amendment made by this section [amending this section] shall apply to property placed in service after December 31, 2016.”
@@ -45177,7 +45892,7 @@ Pub. L. 86–779, § 6(d), Sept. 14, 1960, 74 Stat. 1001, provided that: “The 
 
 **(f) Application of certain other rules** For purposes of this section, rules similar to the rules of subsections (b)(2) and (c)(4) of section 194 shall apply.
 
-**(g) Termination** This section shall not apply to qualified film and television productions or qualified live theatrical productions commencing after December 31, 2017.
+**(g) Termination** This section shall not apply to qualified film and television productions or qualified live theatrical productions commencing after December 31, 2025.
 
 ### Statutory Notes
 
@@ -45185,6 +45900,10 @@ Pub. L. 86–779, § 6(d), Sept. 14, 1960, 74 Stat. 1001, provided that: “The 
 A prior section 181, Pub. L. 87–834, § 2(c), Oct. 16, 1962, 76 Stat. 970, related to a deduction for unused investment credit, prior to repeal by Pub. L. 88–272, title II, § 203(a)(3)(B), (4), Feb. 26, 1964, 78 Stat. 34, applicable in case of property placed in service after Dec. 31, 1963, with respect to taxable years ending after such date, and in case of property placed in service before Jan. 1, 1964, with respect to taxable years beginning after Dec. 31, 1963.
 
 #### Amendments
+2020—Subsec. (g). Pub. L. 116–260 substituted “December 31, 2025” for “December 31, 2020”.
+
+2019—Subsec. (g). Pub. L. 116–94 substituted “December 31, 2020” for “December 31, 2017”.
+
 2018—Subsec. (g). Pub. L. 115–123 substituted “December 31, 2017” for “December 31, 2016”.
 
 2015—Pub. L. 114–113, § 169(b)(2)(C), inserted “and live theatrical” after “film and television” in section catchline.
@@ -45216,6 +45935,12 @@ Subsec. (d)(3)(A). Pub. L. 110–343, § 502(d), substituted “actors, producti
 Subsec. (f). Pub. L. 110–343, § 502(a), substituted “December 31, 2009” for “December 31, 2008”.
 
 2005—Subsec. (d)(2). Pub. L. 109–135 struck out “For purposes of a television series, only the first 44 episodes of such series may be taken into account.” at end of subpar. (A), added subpar. (B), and redesignated former subpar. (B) as (C).
+
+#### Effective Date of 2020 Amendment
+Pub. L. 116–260, div. EE, title I, § 116(b), Dec. 27, 2020, 134 Stat. 3051, provided that: “The amendment made by this section [amending this section] shall apply to productions commencing after December 31, 2020.”
+
+#### Effective Date of 2019 Amendment
+Pub. L. 116–94, div. Q, title I, § 117(b), Dec. 20, 2019, 133 Stat. 3229, provided that: “The amendment made by this section [amending this section] shall apply to productions commencing after December 31, 2017.”
 
 #### Effective Date of 2018 Amendment
 Pub. L. 115–123, div. D, title I, § 40308(b), Feb. 9, 2018, 132 Stat. 146, provided that: “The amendment made by this section [amending this section] shall apply to productions commencing after December 31, 2016.”
@@ -46740,7 +47465,7 @@ No deductions to be allowed in computing taxable income for two-thirds of any am
 
 <a id="section-213"></a>
 ## § 213. Medical, dental, etc., expenses
-**(a) Allowance of deduction** There shall be allowed as a deduction the expenses paid during the taxable year, not compensated for by insurance or otherwise, for medical care of the taxpayer, his spouse, or a dependent (as defined in section 152, determined without regard to subsections (b)(1), (b)(2), and (d)(1)(B) thereof), to the extent that such expenses exceed 10 percent of adjusted gross income.
+**(a) Allowance of deduction** There shall be allowed as a deduction the expenses paid during the taxable year, not compensated for by insurance or otherwise, for medical care of the taxpayer, his spouse, or a dependent (as defined in section 152, determined without regard to subsections (b)(1), (b)(2), and (d)(1)(B) thereof), to the extent that such expenses exceed 7.5 percent of adjusted gross income.
 
 **(b) Limitation with respect to medicine and drugs** An amount paid during the taxable year for medicine or a drug shall be taken into account under subsection (a) only if such medicine or drug is a prescribed drug or is insulin.
 
@@ -46822,13 +47547,6 @@ No deductions to be allowed in computing taxable income for two-thirds of any am
 
 **(e) Exclusion of amounts allowed for care of certain dependents** Any expense allowed as a credit under section 21 shall not be treated as an expense paid for medical care.
 
-**(f) Special rules for 2013 through 2018** In the case of any taxable year—
-
-(1) beginning after December 31, 2012, and ending before January 1, 2017, in the case of a taxpayer if such taxpayer or such taxpayer’s spouse has attained age 65 before the close of such taxable year, and
-
-(2) beginning after December 31, 2016, and ending before January 1, 2019, in the case of any taxpayer,
-subsection (a) shall be applied with respect to a taxpayer by substituting “7.5 percent” for “10 percent”.
-
 ### Statutory Notes
 
 #### Inflation Adjusted Items for Certain Years
@@ -46838,6 +47556,12 @@ For inflation adjustment of certain items in this section, see Revenue Procedure
 The Social Security Act, referred to in subsec. (d)(1)(D), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Part B of title XVIII of the Social Security Act is classified generally to part B (§ 1395j et seq.) of subchapter XVIII of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see [section 1305 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1305&num=0&edition=prelim) and Tables.
 
 #### Amendments
+2020—Subsec. (a). Pub. L. 116–260, § 101(a)(1), substituted “7.5 percent” for “10 percent”.
+
+Subsec. (f). Pub. L. 116–260, § 101(a)(2), struck out subsec. (f). Text read as follows: “In the case of taxable years beginning before January 1, 2021, subsection (a) shall be applied with respect to a taxpayer by substituting ‘7.5 percent’ for ‘10 percent’.”
+
+2019—Subsec. (f). Pub. L. 116–94 amended subsec. (f) generally. Prior to amendment, subsec. (f) provided that subsec. (a) was to be applied with respect to a taxpayer by substituting “7.5 percent” for “10 percent” under certain special rules for 2013 through 2018.
+
 2017—Subsec. (d)(10)(B)(ii). Pub. L. 115–97, § 11002(d)(7), reenacted heading and introductory provisions without change and amended subcls. (I) and (II) generally. Prior to amendment, subcls. (I) and (II) read as follows:
 
 “(I) the medical care component of the Consumer Price Index (as defined in section 1(f)(5)) for August of the preceding calendar year, exceeds
@@ -46963,6 +47687,12 @@ Subsec. (g). Pub. L. 87–863, § 1(b), substituted “$20,000” for “$15,000
 Subsec. (d)(2)(A). Pub. L. 85–866, § 16, struck out “claimed or” before “allowed”.
 
 Subsec. (g). Pub. L. 85–866, § 17(A), added subsec. (g).
+
+#### Effective Date of 2020 Amendment
+Pub. L. 116–260, div. EE, title I, § 101(b), Dec. 27, 2020, 134 Stat. 3039, provided that: “The amendments made by this section [amending this section] shall apply to taxable years beginning after December 31, 2020.”
+
+#### Effective Date of 2019 Amendment
+Amendment by Pub. L. 116–94 applicable to taxable years ending after Dec. 31, 2018, see section 103(c) of Pub. L. 116–94, set out as a note under [section 56 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-56).
 
 #### Effective Date of 2017 Amendment
 Amendment by section 11002(d)(7) of Pub. L. 115–97 applicable to taxable years beginning after Dec. 31, 2017, see section 11002(e) of Pub. L. 115–97, set out as a note under [section 1 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-1).
@@ -47448,7 +48178,7 @@ Repeal effective with respect to contributions the payment of which is made afte
 
 **(d) Other limitations and restrictions**
 
-(1) **Beneficiary must be under age 70½** — No deduction shall be allowed under this section with respect to any qualified retirement contribution for the benefit of an individual if such individual has attained age 70½ before the close of such individual’s taxable year for which the contribution was made.
+(1) **Repealed. Pub. L. 116–94, div. O, title I, § 107(a), Dec. 20, 2019, 133 Stat. 3148]**
 
 (2) **Recontributed amounts** — No deduction shall be allowed under this section with respect to a rollover contribution described in section 402(c), 403(a)(4), 403(b)(8), 408(d)(3), or 457(e)(16).
 
@@ -47464,7 +48194,7 @@ Repeal effective with respect to contributions the payment of which is made afte
 
 **(f) Other definitions and special rules**
 
-(1) **Compensation** — For purposes of this section, the term “compensation” includes earned income (as defined in section 401(c)(2)). The term “compensation” does not include any amount received as a pension or annuity and does not include any amount received as deferred compensation. For purposes of this paragraph, section 401(c)(2) shall be applied as if the term trade or business for purposes of section 1402 included service described in subsection (c)(6). The term “compensation” includes any differential wage payment (as defined in section 3401(h)(2)).
+(1) **Compensation** — For purposes of this section, the term “compensation” includes earned income (as defined in section 401(c)(2)). The term “compensation” does not include any amount received as a pension or annuity and does not include any amount received as deferred compensation. For purposes of this paragraph, section 401(c)(2) shall be applied as if the term trade or business for purposes of section 1402 included service described in subsection (c)(6). The term “compensation” includes any differential wage payment (as defined in section 3401(h)(2)). The term “compensation” shall include any amount which is included in the individual’s gross income and paid to the individual to aid the individual in the pursuit of graduate or postdoctoral study.
 
 (2) **Married individuals** — The maximum deduction under subsection (b) shall be computed separately for each individual, and this section shall be applied without regard to any community property laws.
 
@@ -47520,7 +48250,7 @@ Repeal effective with respect to contributions the payment of which is made afte
 
     (i) after application of sections 86 and 469, and
 
-    (ii) without regard to sections 135, 137, 221, 222, and 911 or the deduction allowable under this section.
+    (ii) without regard to sections 135, 137, 221, and 911 or the deduction allowable under this section.
 
   (B) *Applicable dollar amount* — The term “applicable dollar amount” means the following:
 
@@ -47588,6 +48318,12 @@ For inflation adjustment of certain items in this section, see Revenue Procedure
 A prior section 219 was renumbered [section 224 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-224).
 
 #### Amendments
+2020—Subsec. (g)(3)(A)(ii). Pub. L. 116–260 struck out “222,” after “221,”.
+
+2019—Subsec. (d)(1). Pub. L. 116–94, § 107(a), struck out par. (1). Text read as follows: “No deduction shall be allowed under this section with respect to any qualified retirement contribution for the benefit of an individual if such individual has attained age 70½ before the close of such individual’s taxable year for which the contribution was made.”
+
+Subsec. (f)(1). Pub. L. 116–94, § 106(a), inserted at end: “The term ‘compensation’ shall include any amount which is included in the individual’s gross income and paid to the individual to aid the individual in the pursuit of graduate or postdoctoral study.”
+
 2018—Subsec. (f)(1). Pub. L. 115–141, § 401(a)(55), substituted “term ‘compensation’ includes” for “term compensation includes”.
 
 Subsec. (g)(8). Pub. L. 115–141, § 401(a)(56), substituted “shall be” for “shall each be” in introductory provisions.
@@ -47825,6 +48561,14 @@ Subsec. (c)(2). Pub. L. 94–455, § 1501(b)(4)(C), inserted “For purposes of 
 Subsec. (c)(3). Pub. L. 94–455, § 1501(b)(4)(D), added par. (3).
 
 Subsec. (c)(4). Pub. L. 94–455, § 1503(a), added par. (4).
+
+#### Effective Date of 2020 Amendment
+Amendment by Pub. L. 116–260 applicable to taxable years beginning after Dec. 31, 2020, see section 104(c) of div. EE of Pub. L. 116–260, set out as a note under [section 25A of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-25a).
+
+#### Effective Date of 2019 Amendment
+Pub. L. 116–94, div. O, title I, § 106(b), Dec. 20, 2019, 133 Stat. 3148, provided that: “The amendment made by this section [amending this section] shall apply to taxable years beginning after December 31, 2019.”
+
+Pub. L. 116–94, div. O, title I, § 107(d), Dec. 20, 2019, 133 Stat. 3149, provided that: “(1) In general.—Except as provided in paragraph (2), the amendments made by this section [amending this section and sections 408 and 408A of this title] shall apply to contributions made for taxable years beginning after December 31, 2019. “(2) Subsection (b).—The amendment made by subsection (b) [amending [section 408 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-408)] shall apply to distributions made for taxable years beginning after December 31, 2019.”
 
 #### Effective Date of 2017 Amendment
 Amendment by section 11002(d)(1)(S) of Pub. L. 115–97 applicable to taxable years beginning after Dec. 31, 2017, see section 11002(e) of Pub. L. 115–97, set out as a note under [section 1 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-1).
@@ -48129,7 +48873,7 @@ Pub. L. 95–600, title I, § 157(b)(4)(B), Nov. 6, 1978, 92 Stat. 2805, as amen
 
 (2) **Qualified medical expenses**
 
-  (A) *In general* — The term “qualified medical expenses” means, with respect to an account holder, amounts paid by such holder for medical care (as defined in section 213(d)) for such individual, the spouse of such individual, and any dependent (as defined in section 152, determined without regard to subsections (b)(1), (b)(2), and (d)(1)(B) thereof) of such individual, but only to the extent such amounts are not compensated for by insurance or otherwise. Such term shall include an amount paid for medicine or a drug only if such medicine or drug is a prescribed drug (determined without regard to whether such drug is available without a prescription) or is insulin.
+  (A) *In general* — The term “qualified medical expenses” means, with respect to an account holder, amounts paid by such holder for medical care (as defined in section 213(d)) for such individual, the spouse of such individual, and any dependent (as defined in section 152, determined without regard to subsections (b)(1), (b)(2), and (d)(1)(B) thereof) of such individual, but only to the extent such amounts are not compensated for by insurance or otherwise. For purposes of this subparagraph, amounts paid for menstrual care products (as defined in section 223(d)(2)(D)) shall be treated as paid for medical care.
 
   (B) *Health insurance may not be purchased from account*
 
@@ -48348,6 +49092,8 @@ Another prior section 220, added Pub. L. 100–647, title VI, § 6007(a), Nov. 1
 Another prior section 220, added Pub. L. 94–455, title XV, § 1501(a), Oct. 4, 1976, 90 Stat. 1734; amended Pub. L. 95–600, title I, §§ 156(c)(3), 157(a)(2), (b)(2), title VII, § 703(c)(2), (3), Nov. 6, 1978, 92 Stat. 2803, 2804, 2939; Pub. L. 96–222, title I, § 101(a)(14)(B), Apr. 1, 1980, 94 Stat. 204, related to retirement savings for certain married individuals, prior to repeal by Pub. L. 97–34, title III, § 311(e), Aug. 13, 1981, 95 Stat. 280, applicable to taxable years beginning after Dec. 31, 1981, and deductions allowed under [section 220 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-220), as in effect prior to its repeal, treated as deductions under [section 219 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-219).
 
 #### Amendments
+2020—Subsec. (d)(2)(A). Pub. L. 116–136 substituted “For purposes of this subparagraph, amounts paid for menstrual care products (as defined in section 223(d)(2)(D)) shall be treated as paid for medical care.” for “Such term shall include an amount paid for medicine or a drug only if such medicine or drug is a prescribed drug (determined without regard to whether such drug is available without a prescription) or is insulin.”
+
 2017—Subsec. (f)(7). Pub. L. 115–97, § 11051(b)(3)(D), substituted “clause (i) of section 121(d)(3)(C)” for “subparagraph (A) of section 71(b)(2)”.
 
 Subsec. (g)(2). Pub. L. 115–97, § 11002(d)(1)(T), substituted “for ‘calendar year 2016’ in subparagraph (A)(ii)” for “for ‘calendar year 1992’ in subparagraph (B)”.
@@ -48466,6 +49212,9 @@ Subsec. (c)(3). Pub. L. 105–34, § 1602(a)(2), redesignated subpars. (B) to (D
 
 Subsec. (d)(2)(C). Pub. L. 105–34, § 1602(a)(3), substituted “described in clauses (i) and (ii) of subsection (c)(1)(A)” for “an eligible individual”.
 
+#### Effective Date of 2020 Amendment
+Pub. L. 116–136, div. A, title III, § 3702(d)(1), Mar. 27, 2020, 134 Stat. 416, provided that: “The amendment made by subsections (a) and (b) [amending this section and [section 223 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-223)] shall apply to amounts paid after December 31, 2019.”
+
 #### Effective Date of 2017 Amendment
 Amendment by section 11002(d)(1)(T) of Pub. L. 115–97 applicable to taxable years beginning after Dec. 31, 2017, see section 11002(e) of Pub. L. 115–97, set out as a note under [section 1 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-1).
 
@@ -48507,7 +49256,7 @@ Pub. L. 108–311, title III, § 322(d), Oct. 4, 2004, 118 Stat. 1183, provided 
 Pub. L. 104–191, title III, § 301(k), Aug. 21, 1996, 110 Stat. 2052, provided that: “The Secretary of the Treasury or his delegate shall— “(1) during 1997, 1998, 1999, and 2000, regularly evaluate the number of individuals who are maintaining medical savings accounts and the reduction in revenues to the United States by reason of such accounts, and “(2) provide such reports of such evaluations to Congress as such Secretary determines appropriate.”
 
 #### Study of Effects of Medical Savings Accounts on Small Group Market
-Pub. L. 104–191, title III, § 301(l), Aug. 21, 1996, 110 Stat. 2052, mandates a comprehensive study regarding the effects of medical savings accounts in the small group market on selection, health costs, preventive care, consumer choice, high deductible plans, and other relevant issues, and mandates a report to Congress on the results of the study by Jan. 1, 1999.
+Pub. L. 104–191, title III, § 301(l), Aug. 21, 1996, 110 Stat. 2052, mandated a comprehensive study regarding the effects of medical savings accounts in the small group market on selection, health costs, preventive care, consumer choice, high deductible plans, and other relevant issues, and mandated a report to Congress on the results of the study by Jan. 1, 1999.
 
 
 <a id="section-221"></a>
@@ -48534,7 +49283,7 @@ Pub. L. 104–191, title III, § 301(l), Aug. 21, 1996, 110 Stat. 2052, mandates
 
   (C) *Modified adjusted gross income* — The term “modified adjusted gross income” means adjusted gross income determined—
 
-    (i) without regard to this section and sections 222, 911, 931, and 933, and
+    (i) without regard to this section and sections 911, 931, and 933, and
 
     (ii) after application of sections 86, 135, 137, 219, and 469.
 
@@ -48564,7 +49313,7 @@ Pub. L. 104–191, title III, § 301(l), Aug. 21, 1996, 110 Stat. 2052, mandates
 
 **(e) Special rules**
 
-(1) **Denial of double benefit** — No deduction shall be allowed under this section for any amount for which a deduction is allowable under any other provision of this chapter.
+(1) **Denial of double benefit** — No deduction shall be allowed under this section for any amount for which a deduction is allowable under any other provision of this chapter, or for which an exclusion is allowable under section 127 to the taxpayer by reason of the payment by the taxpayer’s employer of any indebtedness on a qualified education loan of the taxpayer. The deduction otherwise allowable under subsection (a) (prior to the application of subsection (b)) to the taxpayer for any taxable year shall be reduced (but not below zero) by so much of the distributions treated as a qualified higher education expense under section 529(c)(9) with respect to loans of the taxpayer as would be includible in gross income under section 529(c)(3)(A) for such taxable year but for such treatment.
 
 (2) **Married couples must file joint return** — If the taxpayer is married at the close of the taxable year, the deduction shall be allowed under subsection (a) only if the taxpayer and the taxpayer’s spouse file a joint return for the taxable year.
 
@@ -48594,6 +49343,12 @@ A prior section 221 was renumbered [section 224 of this title](./chapter-001-nor
 Another prior section 221, added Pub. L. 97–34, title I, § 103(a), Aug. 13, 1981, 95 Stat. 187; amended Pub. L. 97–448, title III, § 305(d)(4), Jan. 12, 1983, 96 Stat. 2400, related to deduction for two-earner married couples, prior to repeal by Pub. L. 99–514, title I, § 131(a), Oct. 22, 1986, 100 Stat. 2113, applicable to taxable years beginning after Dec. 31, 1986.
 
 #### Amendments
+2020—Subsec. (b)(2)(C)(i). Pub. L. 116–260 struck out “222,” after “and sections”.
+
+Subsec. (e)(1). Pub. L. 116–136 inserted “, or for which an exclusion is allowable under section 127 to the taxpayer by reason of the payment by the taxpayer’s employer of any indebtedness on a qualified education loan of the taxpayer” after “provision of this chapter”.
+
+2019—Subsec. (e)(1). Pub. L. 116–94 inserted at end: “The deduction otherwise allowable under subsection (a) (prior to the application of subsection (b)) to the taxpayer for any taxable year shall be reduced (but not below zero) by so much of the distributions treated as a qualified higher education expense under section 529(c)(9) with respect to loans of the taxpayer as would be includible in gross income under section 529(c)(3)(A) for such taxable year but for such treatment.”
+
 2017—Subsec. (b)(2)(C)(i). Pub. L. 115–97, § 13305(b)(1), struck out “199,” after “and sections”.
 
 Subsec. (f)(1)(B). Pub. L. 115–97, § 11002(d)(1)(U), substituted “for ‘calendar year 2016’ in subparagraph (A)(ii)” for “for ‘calendar year 1992’ in subparagraph (B)”.
@@ -48644,6 +49399,14 @@ Subsec. (e)(1). Pub. L. 105–277, § 4003(a)(3), inserted before period at end 
 
 Pub. L. 105–206, § 6004(b)(1), inserted “by the taxpayer solely” after “incurred” in introductory provisions.
 
+#### Effective Date of 2020 Amendment
+Amendment by Pub. L. 116–260 applicable to taxable years beginning after Dec. 31, 2020, see section 104(c) of div. EE of Pub. L. 116–260, set out as a note under [section 25A of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-25a).
+
+Amendment by Pub. L. 116–136 applicable to payments made after Mar. 27, 2020, see section 2206(c) of Pub. L. 116–136, set out as a note under [section 127 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-127).
+
+#### Effective Date of 2019 Amendment
+Pub. L. 116–94, div. O, title III, § 302(c), Dec. 20, 2019, 133 Stat. 3176, provided that: “The amendments made by this section [amending this section and [section 529 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-529)] shall apply to distributions made after December 31, 2018.”
+
 #### Effective Date of 2017 Amendment
 Amendment by section 11002(d)(1)(U) of Pub. L. 115–97 applicable to taxable years beginning after Dec. 31, 2017, see section 11002(e) of Pub. L. 115–97, set out as a note under [section 1 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-1).
 
@@ -48676,134 +49439,19 @@ Section applicable to any qualified education loan (as defined in subsec. (e)(1)
 
 
 <a id="section-222"></a>
-## § 222. Qualified tuition and related expenses
-**(a) Allowance of deduction** In the case of an individual, there shall be allowed as a deduction an amount equal to the qualified tuition and related expenses paid by the taxpayer during the taxable year.
-
-**(b) Dollar limitations**
-
-(1) **In general** — The amount allowed as a deduction under subsection (a) with respect to the taxpayer for any taxable year shall not exceed the applicable dollar limit.
-
-(2) **Applicable dollar limit**
-
-  (A) *2002 and 2003* — In the case of a taxable year beginning in 2002 or 2003, the applicable dollar limit shall be equal to—
-
-    (i) in the case of a taxpayer whose adjusted gross income for the taxable year does not exceed $65,000 ($130,000 in the case of a joint return), $3,000, and—
-
-    (ii) in the case of any other taxpayer, zero.
-
-  (B) *After 2003* — In the case of any taxable year beginning after 2003, the applicable dollar amount shall be equal to—
-
-    (i) in the case of a taxpayer whose adjusted gross income for the taxable year does not exceed $65,000 ($130,000 in the case of a joint return), $4,000,
-
-    (ii) in the case of a taxpayer not described in clause (i) whose adjusted gross income for the taxable year does not exceed $80,000 ($160,000 in the case of a joint return), $2,000, and
-
-    (iii) in the case of any other taxpayer, zero.
-
-  (C) *Adjusted gross income* — For purposes of this paragraph, adjusted gross income shall be determined—
-
-    (i) without regard to this section and sections 911, 931, and 933, and
-
-    (ii) after application of sections 86, 135, 137, 219, 221, and 469.
-
-**(c) No double benefit**
-
-(1) **In general** — No deduction shall be allowed under subsection (a) for any expense for which a deduction is allowed to the taxpayer under any other provision of this chapter.
-
-(2) **Coordination with other education incentives**
-
-  (A) *Denial of deduction if credit elected* — No deduction shall be allowed under subsection (a) for a taxable year with respect to the qualified tuition and related expenses with respect to an individual if the taxpayer or any other person elects to have section 25A apply with respect to such individual for such year.
-
-  (B) *Coordination with exclusions* — The total amount of qualified tuition and related expenses shall be reduced by the amount of such expenses taken into account in determining any amount excluded under section 135, 529(c)(1), or 530(d)(2). For purposes of the preceding sentence, the amount taken into account in determining the amount excluded under section 529(c)(1) shall not include that portion of the distribution which represents a return of any contributions to the plan.
-
-(3) **Dependents** — No deduction shall be allowed under subsection (a) to any individual with respect to whom a deduction under section 151 is allowable to another taxpayer for a taxable year beginning in the calendar year in which such individual’s taxable year begins.
-
-**(d) Definitions and special rules** For purposes of this section—
-
-(1) **Qualified tuition and related expenses** — The term “qualified tuition and related expenses” has the meaning given such term by section 25A(f). Such expenses shall be reduced in the same manner as under section 25A(g)(2).
-
-(2) **Identification requirement** — No deduction shall be allowed under subsection (a) to a taxpayer with respect to the qualified tuition and related expenses of an individual unless the taxpayer includes the name and taxpayer identification number of the individual on the return of tax for the taxable year.
-
-(3) **Limitation on taxable year of deduction**
-
-  (A) *In general* — A deduction shall be allowed under subsection (a) for qualified tuition and related expenses for any taxable year only to the extent such expenses are in connection with enrollment at an institution of higher education during the taxable year.
-
-  (B) *Certain prepayments allowed* — Subparagraph (A) shall not apply to qualified tuition and related expenses paid during a taxable year if such expenses are in connection with an academic term beginning during such taxable year or during the first 3 months of the next taxable year.
-
-(4) **No deduction for married individuals filing separate returns** — If the taxpayer is a married individual (within the meaning of section 7703), this section shall apply only if the taxpayer and the taxpayer’s spouse file a joint return for the taxable year.
-
-(5) **Nonresident aliens** — If the taxpayer is a nonresident alien individual for any portion of the taxable year, this section shall apply only if such individual is treated as a resident alien of the United States for purposes of this chapter by reason of an election under subsection (g) or (h) of section 6013.
-
-(6) **Payee statement requirement**
-
-  (A) *In general* — Except as otherwise provided by the Secretary, no deduction shall be allowed under subsection (a) unless the taxpayer receives a statement furnished under section 6050S(d) which contains all of the information required by paragraph (2) thereof.
-
-  (B) *Statement received by dependent* — The receipt of the statement referred to in subparagraph (A) by an individual described in subsection (c)(3) shall be treated for purposes of subparagraph (A) as received by the taxpayer.
-
-(7) **Regulations** — The Secretary may prescribe such regulations as may be necessary or appropriate to carry out this section, including regulations requiring recordkeeping and information reporting.
-
-**(e) Termination** This section shall not apply to taxable years beginning after December 31, 2017.
+## § 222. Repealed. Pub. L. 116–260, div. EE, title I, § 104(b)(1), Dec. 27, 2020, 134 Stat. 3041]
 
 ### Statutory Notes
+
+Section, added Pub. L. 107–16, title IV, § 431(a), June 7, 2001, 115 Stat. 66; amended Pub. L. 108–357, title I, § 102(d)(3), Oct. 22, 2004, 118 Stat. 1429; Pub. L. 109–432, div. A, title I, § 101(a), (b), Dec. 20, 2006, 120 Stat. 2933; Pub. L. 110–343, div. C, title II, § 202(a), Oct. 3, 2008, 122 Stat. 3864; Pub. L. 111–312, title VII, § 724(a), Dec. 17, 2010, 124 Stat. 3316; Pub. L. 112–240, title II, § 207(a), Jan. 2, 2013, 126 Stat. 2324; Pub. L. 113–295, div. A, title I, § 107(a), Dec. 19, 2014, 128 Stat. 4013; Pub. L. 114–27, title VIII, § 804(b), June 29, 2015, 129 Stat. 415; Pub. L. 114–113, div. Q, title I, § 153(a), Dec. 18, 2015, 129 Stat. 3066; Pub. L. 115–97, title I, § 13305(b)(1), Dec. 22, 2017, 131 Stat. 2126; Pub. L. 115–123, div. D, title I, § 40203(a), Feb. 9, 2018, 132 Stat. 145; Pub. L. 116–94, div. Q, title I, § 104(a), Dec. 20, 2019, 133 Stat. 3228, related to a deduction for qualified tuition and related expenses.
 
 #### Prior Provisions
 A prior section 222 was renumbered [section 224 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-224).
 
 Another prior section 222, added Pub. L. 97–34, title I, § 125(a), Aug. 13, 1981, 95 Stat. 201; amended Pub. L. 97–448, title I, § 101(f), Jan. 12, 1983, 96 Stat. 2367, related to deduction of adoption expenses, prior to repeal by Pub. L. 99–514, title I, §§ 135(a), 151(a), Oct. 22, 1986, 100 Stat. 2116, 2121, applicable to taxable years beginning after Dec. 31, 1986.
 
-#### Amendments
-2018—Subsec. (e). Pub. L. 115–123 substituted “December 31, 2017” for “December 31, 2016”.
-
-2017—Subsec. (b)(2)(C)(i). Pub. L. 115–97 struck out “199,” after “and sections”.
-
-2015—Subsec. (d)(6), (7). Pub. L. 114–27 added par. (6) and redesignated former par. (6) as (7).
-
-Subsec. (e). Pub. L. 114–113 substituted “December 31, 2016” for “December 31, 2014”.
-
-2014—Subsec. (e). Pub. L. 113–295 substituted “December 31, 2014” for “December 31, 2013”.
-
-2013—Subsec. (e). Pub. L. 112–240 substituted “December 31, 2013” for “December 31, 2011”.
-
-2010—Subsec. (e). Pub. L. 111–312 substituted “December 31, 2011” for “December 31, 2009”.
-
-2008—Subsec. (e). Pub. L. 110–343 substituted “December 31, 2009” for “December 31, 2007”.
-
-2006—Subsec. (b)(2)(B). Pub. L. 109–432, § 101(b), substituted “After 2003” for “2004 and 2005” in heading and “any taxable year beginning after 2003” for “a taxable year beginning in 2004 or 2005” in introductory provisions.
-
-Subsec. (e). Pub. L. 109–432, § 101(a), substituted “2007” for “2005”.
-
-2004—Subsec. (b)(2)(C)(i). Pub. L. 108–357 inserted “199,” before “911”.
-
-#### Effective Date of 2018 Amendment
-Pub. L. 115–123, div. D, title I, § 40203(b), Feb. 9, 2018, 132 Stat. 145, provided that: “The amendment made by this section [amending this section] shall apply to taxable years beginning after December 31, 2016.”
-
-#### Effective Date of 2017 Amendment
-Amendment by Pub. L. 115–97 applicable to taxable years beginning after Dec. 31, 2017, except as provided by transition rule, see section 13305(c) of Pub. L. 115–97, set out as a note under [section 74 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-74).
-
-#### Effective Date of 2015 Amendment
-Pub. L. 114–113, div. Q, title I, § 153(b), Dec. 18, 2015, 129 Stat. 3066, provided that: “The amendment made by this section [amending this section] shall apply to taxable years beginning after December 31, 2014.”
-
-Amendment by Pub. L. 114–27 applicable to taxable years beginning after June 29, 2015, see section 804(d) of Pub. L. 114–27, set out as a note under [section 25A of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-25a).
-
-#### Effective Date of 2014 Amendment
-Pub. L. 113–295, div. A, title I, § 107(b), Dec. 19, 2014, 128 Stat. 4013, provided that: “The amendment made by this section [amending this section] shall apply to taxable years beginning after December 31, 2013.”
-
-#### Effective Date of 2013 Amendment
-Pub. L. 112–240, title II, § 207(b), Jan. 2, 2013, 126 Stat. 2324, provided that: “The amendment made by this section [amending this section] shall apply to taxable years beginning after December 31, 2011.”
-
-#### Effective Date of 2010 Amendment
-Pub. L. 111–312, title VII, § 724(b), Dec. 17, 2010, 124 Stat. 3316, provided that: “The amendment made by this section [amending this section] shall apply to taxable years beginning after December 31, 2009.”
-
-#### Effective Date of 2008 Amendment
-Pub. L. 110–343, div. C, title II, § 202(b), Oct. 3, 2008, 122 Stat. 3864, provided that: “The amendment made by this section [amending this section] shall apply to taxable years beginning after December 31, 2007.”
-
-#### Effective Date of 2006 Amendment
-Pub. L. 109–432, div. A, title I, § 101(c), Dec. 20, 2006, 120 Stat. 2933, provided that: “The amendments made by this section [amending this section] shall apply to taxable years beginning after December 31, 2005.”
-
-#### Effective Date of 2004 Amendment
-Amendment by Pub. L. 108–357 applicable to taxable years beginning after Dec. 31, 2004, see section 102(e) of Pub. L. 108–357, set out as a note under [section 56 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-56).
-
-#### Effective Date
-Section applicable to payments made in taxable years beginning after Dec. 31, 2001, see section 431(d) of Pub. L. 107–16, set out as an Effective Date of 2001 Amendment note under [section 62 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-62).
+#### Effective Date of Repeal
+Repeal of section applicable to taxable years beginning after Dec. 31, 2020, see section 104(c) of div. EE of Pub. L. 116–260, set out as an Effective Date of 2020 Amendment note under [section 25A of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-25a).
 
 
 <a id="section-223"></a>
@@ -48887,7 +49535,7 @@ Section applicable to payments made in taxable years beginning after Dec. 31, 20
 
     (i) coverage for any benefit provided by permitted insurance,
 
-    (ii) coverage (whether through insurance or otherwise) for accidents, disability, dental care, vision care, or long-term care, and
+    (ii) coverage (whether through insurance or otherwise) for accidents, disability, dental care, vision care, long-term care, or (in the case of plan years beginning on or before December 31, 2021) telehealth and other remote care, and
 
     (iii) for taxable years beginning after December 31, 2006, coverage under a health flexible spending arrangement during any period immediately following the end of a plan year of such arrangement during which unused benefits or contributions remaining at the end of such plan year may be paid or reimbursed to plan participants for qualified benefit expenses incurred during such period if—
 
@@ -48896,6 +49544,8 @@ Section applicable to payments made in taxable years beginning after Dec. 31, 20
       (II) the individual is making a qualified HSA distribution (as defined in section 106(e)) in an amount equal to the remaining balance in such arrangement as of the end of such plan year, in accordance with rules prescribed by the Secretary.
 
   (C) *Special rule for individuals eligible for certain veterans benefits* — An individual shall not fail to be treated as an eligible individual for any period merely because the individual receives hospital care or medical services under any law administered by the Secretary of Veterans Affairs for a service-connected disability (within the meaning of [section 101(16) of title 38](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section101/16&num=0&edition=prelim), United States Code).
+
+  (D) *Special rule for individuals receiving benefits subject to surprise billing statutes* — An individual shall not fail to be treated as an eligible individual for any period merely because the individual receives benefits for medical care subject to and in accordance with section 9816 or 9817, section 2799A–1 or 2799A–2 of the Public Health Service Act, or section 716 or 717 of the Employee Retirement Income Security Act of 1974, or any State law providing similar protections to such individual.
 
 (2) **High deductible health plan**
 
@@ -48922,6 +49572,10 @@ Section applicable to payments made in taxable years beginning after Dec. 31, 20
     (i) *Annual out-of-pocket limitation* — Such plan shall not fail to be treated as a high deductible health plan by reason of having an out-of-pocket limitation for services provided outside of such network which exceeds the applicable limitation under subparagraph (A)(ii).
 
     (ii) *Annual deductible* — Such plan’s annual deductible for services provided outside of such network shall not be taken into account for purposes of subsection (b)(2).
+
+  (E) *Safe harbor for absence of deductible for telehealth* — In the case of plan years beginning on or before December 31, 2021, a plan shall not fail to be treated as a high deductible health plan by reason of failing to have a deductible for telehealth and other remote care services.
+
+  (F) *Special rule for surprise billing* — A plan shall not fail to be treated as a high deductible health plan by reason of providing benefits for medical care in accordance with section 9816 or 9817, section 2799A–1 or 2799A–2 of the Public Health Service Act, or section 716 or 717 of the Employee Retirement Income Security Act of 1974, or any State law providing similar protections to individuals, prior to the satisfaction of the deductible under paragraph (2)(A)(i).
 
 (3) **Permitted insurance** — The term “permitted insurance” means—
 
@@ -48967,7 +49621,7 @@ Section applicable to payments made in taxable years beginning after Dec. 31, 20
 
 (2) **Qualified medical expenses**
 
-  (A) *In general* — The term “qualified medical expenses” means, with respect to an account beneficiary, amounts paid by such beneficiary for medical care (as defined in section 213(d)) for such individual, the spouse of such individual, and any dependent (as defined in section 152, determined without regard to subsections (b)(1), (b)(2), and (d)(1)(B) thereof) of such individual, but only to the extent such amounts are not compensated for by insurance or otherwise. Such term shall include an amount paid for medicine or a drug only if such medicine or drug is a prescribed drug (determined without regard to whether such drug is available without a prescription) or is insulin.
+  (A) *In general* — The term “qualified medical expenses” means, with respect to an account beneficiary, amounts paid by such beneficiary for medical care (as defined in section 213(d)) for such individual, the spouse of such individual, and any dependent (as defined in section 152, determined without regard to subsections (b)(1), (b)(2), and (d)(1)(B) thereof) of such individual, but only to the extent such amounts are not compensated for by insurance or otherwise. For purposes of this subparagraph, amounts paid for menstrual care products shall be treated as paid for medical care.
 
   (B) *Health insurance may not be purchased from account* — Subparagraph (A) shall not apply to any payment for insurance.
 
@@ -48980,6 +49634,8 @@ Section applicable to payments made in taxable years beginning after Dec. 31, 20
     (iii) a health plan during a period in which the individual is receiving unemployment compensation under any Federal or State law, or
 
     (iv) in the case of an account beneficiary who has attained the age specified in section 1811 of the Social Security Act, any health insurance other than a medicare supplemental policy (as defined in section 1882 of the Social Security Act).
+
+  (D) *Menstrual care product* — For purposes of this paragraph, the term “menstrual care product” means a tampon, pad, liner, cup, sponge, or similar product used by individuals with respect to menstruation or other genital-tract secretions.
 
 (3) **Account beneficiary** — The term “account beneficiary” means the individual on whose behalf the health savings account was established.
 
@@ -49078,16 +49734,35 @@ The reports required by this subsection shall be filed at such time and in such 
 
 ### Statutory Notes
 
+#### Applicability of Amendment
+Amendment of section by section 102 of div. BB of Pub. L. 116–260 applicable for plan years beginning on or after Jan. 1, 2022. See 2020 Amendment notes below.
+
 #### Inflation Adjusted Items for Certain Years
 For inflation adjustment of certain items in this section, see Revenue Procedures listed in a table below and under [section 1 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-1).
 
 #### References in Text
 The Social Security Act, referred to in subsecs. (b)(7), (c)(2)(C), (d)(2)(C)(iv), (f)(4)(C), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title XVIII of the Act is classified generally to subchapter XVIII (§ 1395 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. Sections 1811, 1861, and 1882 of the Act are classified to sections 1395c, 1395x, and 1395ss, respectively, of Title 42. For complete classification of this Act to the Code, see [section 1305 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1305&num=0&edition=prelim) and Tables.
 
+Sections 2799A–1 and 2799A–2 of the Public Health Service Act, referred to in subsec. (c)(1)(D), (2)(F), are classified to sections 300gg–111 and 300gg–112, respectively, of Title 42, The Public Health and Welfare.
+
+Sections 716 and 717 of the Employee Retirement Income Security Act of 1974, referred to in subsec. (c)(1)(D), (2)(F), are classified to sections 1185e and 1185f, respectively, of Title 29, Labor.
+
 #### Prior Provisions
 A prior section 223 was renumbered [section 224 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-224).
 
 #### Amendments
+2020—Subsec. (c)(1)(B)(ii). Pub. L. 116–136, § 3701(b), substituted “long-term care, or (in the case of plan years beginning on or before December 31, 2021) telehealth and other remote care” for “or long-term care”.
+
+Subsec. (c)(1)(D). Pub. L. 116–260, § 102(c)(4)(A)(i), added subpar. (D).
+
+Subsec. (c)(2)(E). Pub. L. 116–136, § 3701(a), added subpar. (E).
+
+Subsec. (c)(2)(F). Pub. L. 116–260, § 102(c)(4)(A)(ii), added subpar. (F).
+
+Subsec. (d)(2)(A). Pub. L. 116–136, § 3702(a)(1), substituted “For purposes of this subparagraph, amounts paid for menstrual care products shall be treated as paid for medical care.” for “Such term shall include an amount paid for medicine or a drug only if such medicine or drug is a prescribed drug (determined without regard to whether such drug is available without a prescription) or is insulin.”
+
+Subsec. (d)(2)(D). Pub. L. 116–136, § 3702(a)(2), added subpar. (D).
+
 2018—Subsec. (c)(2)(C). Pub. L. 115–141, § 401(a)(57), substituted “section 1861” for “section 1871”.
 
 Subsec. (d)(2)(A). Pub. L. 115–141, § 401(a)(58), substituted “section 213(d))” for “section 213(d)”.
@@ -49126,6 +49801,13 @@ Subsec. (g)(1). Pub. L. 109–432, § 304, inserted concluding provisions.
 
 2005—Subsec. (d)(2)(A). Pub. L. 109–135 inserted “, determined without regard to subsections (b)(1), (b)(2), and (d)(1)(B) thereof” after “section 152”.
 
+#### Effective Date of 2020 Amendment
+Pub. L. 116–260, div. BB, title I, § 102(c)(4)(B), Dec. 27, 2020, 134 Stat. 2796, provided that: “The amendments made by subparagraph (A) [amending this section] shall apply for plan years beginning on or after January 1, 2022.”
+
+Pub. L. 116–136, div. A, title III, § 3701(c), Mar. 27, 2020, 134 Stat. 415, provided that: “The amendments made by this section [amending this section] shall take effect on the date of the enactment of this Act [Mar. 27, 2020].”
+
+Amendment by section 3702(a) of Pub. L. 116–136 applicable to amounts paid after Dec. 31, 2019, see section 3702(d)(1) of Pub. L. 116–136, set out as a note under [section 220 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-220).
+
 #### Effective Date of 2017 Amendment
 Amendment by section 11002(d)(1)(V) of Pub. L. 115–97 applicable to taxable years beginning after Dec. 31, 2017, see section 11002(e) of Pub. L. 115–97, set out as a note under [section 1 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-1).
 
@@ -49156,6 +49838,8 @@ Section applicable to taxable years beginning after Dec. 31, 2003, see section 1
 
 #### Inflation Adjusted Items for Certain Years
 Provisions relating to inflation adjustment of items in this section for certain years were contained in the following:
+
+2020—Revenue Procedure 2019–25.
 
 2019—Revenue Procedure 2018–30.
 
@@ -50901,17 +51585,13 @@ For purposes of paragraph (1), the term “tangible personal property” shall i
 
 (3) **Interest relating to property used to produce property** — This subsection shall apply to any interest on indebtedness allocable (as determined under paragraph (2)) to property used to produce property to which this subsection applies to the extent such interest is allocable (as so determined) to the produced property.
 
-(4) **Exemption for aging process of beer, wine, and distilled spirits**
+(4) **Exemption for aging process of beer, wine, and distilled spirits** — For purposes of this subsection, the production period shall not include the aging period for—
 
-  (A) *In general* — For purposes of this subsection, the production period shall not include the aging period for—
+  (A) beer (as defined in section 5052(a)),
 
-    (i) beer (as defined in section 5052(a)),
+  (B) wine (as described in section 5041(a)), or
 
-    (ii) wine (as described in section 5041(a)), or
-
-    (iii) distilled spirits (as defined in section 5002(a)(8)), except such spirits that are unfit for use for beverage purposes.
-
-  (B) *Termination* — This paragraph shall not apply to interest costs paid or accrued after December 31, 2019.
+  (C) distilled spirits (as defined in section 5002(a)(8)), except such spirits that are unfit for use for beverage purposes.
 
 (5) **Definitions** — For purposes of this subsection—
 
@@ -50993,6 +51673,10 @@ For purposes of paragraph (1), the term “tangible personal property” shall i
 The date of the enactment of the Tax Cuts and Jobs Act, referred to in subsec. (d)(2)(C)(ii), probably means the date of enactment of title I of Pub. L. 115–97, which was approved Dec. 22, 2017. Prior versions of the bill that was enacted into law as Pub. L. 115–97 included such Short Title, but it was not enacted as part of title I of Pub. L. 115–97.
 
 #### Amendments
+2020—Subsec. (f)(4). Pub. L. 116–260 amended par. (4) generally. Prior to amendment, par. (4) consisted of subpars. (A) and (B) relating to exemption for aging process of beer, wine, and distilled spirits, and termination of such exemption after Dec. 31, 2020, respectively.
+
+2019—Subsec. (f)(4)(B). Pub. L. 116–94 substituted “December 31, 2020” for “December 31, 2019”.
+
 2017—Subsec. (b)(2). Pub. L. 115–97, § 13102(b)(2), amended par. (2) generally. Prior to amendment, par. (2) related to property acquired for resale.
 
 Subsec. (d)(2)(C). Pub. L. 115–97, § 13207(a), added subpar. (C).
@@ -51046,6 +51730,12 @@ Subsec. (e). Pub. L. 100–647, § 6026(b)(2)(B), struck out “or animal” aft
 Subsec. (f)(3). Pub. L. 100–647, § 1008(b)(4), substituted “allocable (as determined under paragraph (2)) to” for “incurred or continued in connection with” and inserted “(as so determined)” after “allocable”.
 
 Subsecs. (h), (i). Pub. L. 100–647, § 6026(a), added subsec. (h) and redesignated former subsec. (h) as (i).
+
+#### Effective Date of 2020 Amendment
+Pub. L. 116–260, div. EE, title I, § 106(a)(2), Dec. 27, 2020, 134 Stat. 3042, provided that: “The amendment made by this subsection [amending this section] shall apply to interest costs paid or accrued after December 31, 2020.”
+
+#### Effective Date of 2019 Amendment
+Pub. L. 116–94, div. Q, title I, § 144(a)(2), Dec. 20, 2019, 133 Stat. 3234, provided that: “The amendment made by this subsection [amending this section] shall apply to interest costs paid or accrued after December 31, 2019.”
 
 #### Effective Date of 2017 Amendment
 Pub. L. 115–97, title I, § 13102(e), Dec. 22, 2017, 131 Stat. 2104, provided that: “(1) In general.—Except as otherwise provided in this subsection, the amendments made by this section [amending this section and sections 447, 448, 460, and 471 of this title] shall apply to taxable years beginning after December 31, 2017. “(2) Preservation of suspense account rules with respect to any existing suspense accounts.—So much of the amendments made by subsection (a)(5)(C) as relate to section 447(i) of the Internal Revenue Code of 1986 shall not apply with respect to any suspense account established under such section before the date of the enactment of this Act [Dec. 22, 2017]. “(3) Exemption from percentage completion for long-term contracts.—The amendments made by subsection (d) [amending [section 460 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-460)] shall apply to contracts entered into after December 31, 2017, in taxable years ending after such date.”
@@ -52440,7 +53130,7 @@ For purposes of this subsection, any item referred to in subsection (a) shall be
 
   (A) such expense is described in paragraph (2), (3), (4), (7), (8), or (9) of subsection (e),
 
-  (B) in the case of an employer who pays or reimburses moving expenses of an employee, such expenses are includible in the income of the employee under section 82, or
+  (B) in the case of an employer who pays or reimburses moving expenses of an employee, such expenses are includible in the income of the employee under section 82,
 
   (C) such expense is for food or beverages—
 
@@ -52454,7 +53144,13 @@ For purposes of this subsection, any item referred to in subsection (a) shall be
 
     (iii) provided on an oil or gas platform or drilling rig if the platform or rig is located offshore, or
 
-    (iv) provided on an oil or gas platform or drilling rig, or at a support camp which is in proximity and integral to such platform or rig, if the platform or rig is located in the United States north of 54 degrees north latitude.
+    (iv) provided on an oil or gas platform or drilling rig, or at a support camp which is in proximity and integral to such platform or rig, if the platform or rig is located in the United States north of 54 degrees north latitude, or
+
+  (D) such expense is—
+
+    (i) for food or beverages provided by a restaurant, and
+
+    (ii) paid or incurred before January 1, 2023.
   Clauses (i) and (ii) of subparagraph (C) shall not apply to vessels primarily engaged in providing luxury water transportation (determined under the principles of subsection (m)). In the case of the employee, the exception of subparagraph (A) shall not apply to expenses described in subparagraph (B).
 
 (3) **Special rule for individuals subject to Federal hours of service** — In the case of any expenses for food or beverages consumed while away from home (within the meaning of section 162(a)(2)) by an individual during, or incident to, the period of duty subject to the hours of service limitations of the Department of Transportation, paragraph (1) shall be applied by substituting “80 percent” for “50 percent”.
@@ -52482,6 +53178,8 @@ Section 16 of the Securities Exchange Act of 1934, referred to in subsec. (e)(2)
 Section 212(a)(1)(A) of the Caribbean Basin Economic Recovery Act, referred to in subsec. (h)(6)(B), is classified to [section 2702(a)(1)(A) of Title 19](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section2702/a/1/A&num=0&edition=prelim), Customs Duties.
 
 #### Amendments
+2020—Subsec. (n)(2)(D). Pub. L. 116–260 added subpar. (D).
+
 2017—Subsec. (a). Pub. L. 115–97, § 13304(c)(1)(A), substituted “recreation, or qualified transportation fringes” for “or recreation” in heading.
 
 Subsec. (a)(1). Pub. L. 115–97, § 13304(a)(1)(B), struck out concluding provisions which read as follows: “In the case of an item described in subparagraph (A), the deduction shall in no event exceed the portion of such item which meets the requirements of subparagraph (A).”
@@ -52647,6 +53345,9 @@ Subsec. (h). Pub. L. 94–455, § 602(a), added subsec. (h). Former subsec. (h) 
 Subsec. (i). Pub. L. 94–455, §§ 602(a), 1906(b)(13)(A), redesignated former subsec. (h) as (i) and struck out “or his delegate” after “Secretary”.
 
 1964—Subsec. (c). Pub. L. 88–272 limited subsec. (c) to individuals traveling outside the United States.
+
+#### Effective Date of 2020 Amendment
+Pub. L. 116–260, div. EE, title II, § 210(b), Dec. 27, 2020, 134 Stat. 3066, provided that: “The amendments made by this section [amending this section] shall apply to amounts paid or incurred after December 31, 2020.”
 
 #### Effective Date of 2017 Amendment
 Pub. L. 115–97, title I, § 13304(e), Dec. 22, 2017, 131 Stat. 2126, provided that: “(1) In general.—Except as provided in paragraph (2), the amendments made by this section [amending this section and [section 7701 of this title](./chapter-079-definitions.md#section-7701)] shall apply to amounts incurred or paid after December 31, 2017. “(2) Effective date for elimination of deduction for meals provided at convenience of employer.—The amendments made by subsection (d) [amending this section] shall apply to amounts incurred or paid after December 31, 2025.”
@@ -54006,6 +54707,8 @@ For provisions directing that if any amendments made by subtitle A or subtitle C
 
 #### Inflation Adjusted Items for Certain Years
 Provisions relating to inflation adjustment of items in this section for certain years were contained in the following:
+
+2019—Revenue Procedure 2019–26.
 
 2018—Revenue Procedure 2018–25.
 
@@ -60287,7 +60990,7 @@ Repeal effective for taxable years beginning after Dec. 31, 1976, see section 19
 
     (iv) *Special rule for surviving spouse of employee.—* — If the designated beneficiary referred to in clause (iii)(I) is the surviving spouse of the employee—
 
-      (I) the date on which the distributions are required to begin under clause (iii)(III) shall not be earlier than the date on which the employee would have attained age 70½, and
+      (I) the date on which the distributions are required to begin under clause (iii)(III) shall not be earlier than the date on which the employee would have attained age 72, and
 
       (II) if the surviving spouse dies before the distributions to such spouse begin, this subparagraph shall be applied as if the surviving spouse were the employee.
 
@@ -60295,13 +60998,13 @@ Repeal effective for taxable years beginning after Dec. 31, 1976, see section 19
 
     (i) *In general.—* — The term “required beginning date” means April 1 of the calendar year following the later of—
 
-      (I) the calendar year in which the employee attains age 70½, or
+      (I) the calendar year in which the employee attains age 72, or
 
       (II) the calendar year in which the employee retires.
 
     (ii) *Exception.—* — Subclause (II) of clause (i) shall not apply—
 
-      (I) except as provided in section 409(d), in the case of an employee who is a 5-percent owner (as defined in section 416) with respect to the plan year ending in the calendar year in which the employee attains age 70½, or
+      (I) except as provided in section 409(d), in the case of an employee who is a 5-percent owner (as defined in section 416) with respect to the plan year ending in the calendar year in which the employee attains age 72, or
 
       (II) for purposes of section 408(a)(6) or (b)(3).
 
@@ -60311,11 +61014,79 @@ Repeal effective for taxable years beginning after Dec. 31, 1976, see section 19
 
   (D) *Life expectancy.—* — For purposes of this paragraph, the life expectancy of an employee and the employee’s spouse (other than in the case of a life annuity) may be redetermined but not more frequently than annually.
 
-  (E) *Designated beneficiary.—* — For purposes of this paragraph, the term “designated beneficiary” means any individual designated as a beneficiary by the employee.
+  (E) *Definitions and rules relating to designated beneficiaries.—* — For purposes of this paragraph—
+
+    (i) *Designated beneficiary.—* — The term “designated beneficiary” means any individual designated as a beneficiary by the employee.
+
+    (ii) *Eligible designated beneficiary.—* — The term “eligible designated beneficiary” means, with respect to any employee, any designated beneficiary who is—
+
+      (I) the surviving spouse of the employee,
+
+      (II) subject to clause (iii), a child of the employee who has not reached majority (within the meaning of subparagraph (F)),
+
+      (III) disabled (within the meaning of section 72(m)(7)),
+
+      (IV) a chronically ill individual (within the meaning of section 7702B(c)(2), except that the requirements of subparagraph (A)(i) thereof shall only be treated as met if there is a certification that, as of such date, the period of inability described in such subparagraph with respect to the individual is an indefinite one which is reasonably expected to be lengthy in nature), or
+
+      (V) an individual not described in any of the preceding subclauses who is not more than 10 years younger than the employee.
+    The determination of whether a designated beneficiary is an eligible designated beneficiary shall be made as of the date of death of the employee.
+
+    (iii) *Special rule for children.—* — Subject to subparagraph (F), an individual described in clause (ii)(II) shall cease to be an eligible designated beneficiary as of the date the individual reaches majority and any remainder of the portion of the individual’s interest to which subparagraph (H)(ii) applies shall be distributed within 10 years after such date.
 
   (F) *Treatment of payments to children.—* — Under regulations prescribed by the Secretary, for purposes of this paragraph, any amount paid to a child shall be treated as if it had been paid to the surviving spouse if such amount will become payable to the surviving spouse upon such child reaching majority (or other designated event permitted under regulations).
 
   (G) *Treatment of incidental death benefit distributions.—* — For purposes of this title, any distribution required under the incidental death benefit requirements of this subsection shall be treated as a distribution required under this paragraph.
+
+  (H) *Special rules for certain defined contribution plans.—* — In the case of a defined contribution plan, if an employee dies before the distribution of the employee’s entire interest—
+
+    (i) *In general.—* — Except in the case of a beneficiary who is not a designated beneficiary, subparagraph (B)(ii)—
+
+      (I) shall be applied by substituting “10 years” for “5 years”, and
+
+      (II) shall apply whether or not distributions of the employee’s interests have begun in accordance with subparagraph (A).
+
+    (ii) *Exception for eligible designated beneficiaries.—* — Subparagraph (B)(iii) shall apply only in the case of an eligible designated beneficiary.
+
+    (iii) *Rules upon death of eligible designated beneficiary.—* — If an eligible designated beneficiary dies before the portion of the employee’s interest to which this subparagraph applies is entirely distributed, the exception under clause (ii) shall not apply to any beneficiary of such eligible designated beneficiary and the remainder of such portion shall be distributed within 10 years after the death of such eligible designated beneficiary.
+
+    (iv) *Special rule in case of certain trusts for disabled or chronically ill beneficiaries.—* — In the case of an applicable multi-beneficiary trust, if under the terms of the trust—
+
+      (I) it is to be divided immediately upon the death of the employee into separate trusts for each beneficiary, or
+
+      (II) no individual (other than a 11 So in original. Probably should be “an”. eligible designated beneficiary described in subclause (III) or (IV) of subparagraph (E)(ii)) has any right to the employee’s interest in the plan until the death of all such eligible designated beneficiaries with respect to the trust,
+    for purposes of a trust described in subclause (I), clause (ii) shall be applied separately with respect to the portion of the employee’s interest that is payable to any eligible designated beneficiary described in subclause (III) or (IV) of subparagraph (E)(ii); and, for purposes of a trust described in subclause (II), subparagraph (B)(iii) shall apply to the distribution of the employee’s interest and any beneficiary who is not such an eligible designated beneficiary shall be treated as a beneficiary of the eligible designated beneficiary upon the death of such eligible designated beneficiary.
+
+    (v) *Applicable multi-beneficiary trust.—* — For purposes of this subparagraph, the term “applicable multi-beneficiary trust” means a trust—
+
+      (I) which has more than one beneficiary,
+
+      (II) all of the beneficiaries of which are treated as designated beneficiaries for purposes of determining the distribution period pursuant to this paragraph, and
+
+      (III) at least one of the beneficiaries of which is an eligible designated beneficiary described in subclause (III) or (IV) of subparagraph (E)(ii).
+
+    (vi) *Application to certain eligible retirement plans.—* — For purposes of applying the provisions of this subparagraph in determining amounts required to be distributed pursuant to this paragraph, all eligible retirement plans (as defined in section 402(c)(8)(B), other than a defined benefit plan described in clause (iv) or (v) thereof or a qualified trust which is a part of a defined benefit plan) shall be treated as a defined contribution plan.
+
+  (I) *Temporary waiver of minimum required distribution.—*
+
+    (i) *In general.—* — The requirements of this paragraph shall not apply for calendar year 2020 to—
+
+      (I) a defined contribution plan which is described in this subsection or in section 403(a) or 403(b),
+
+      (II) a defined contribution plan which is an eligible deferred compensation plan described in section 457(b) but only if such plan is maintained by an employer described in section 457(e)(1)(A), or
+
+      (III) an individual retirement plan.
+
+    (ii) *Special rule for required beginning dates in 2020.—* — Clause (i) shall apply to any distribution which is required to be made in calendar year 2020 by reason of—
+
+      (I) a required beginning date occurring in such calendar year, and
+
+      (II) such distribution not having been made before January 1, 2020.
+
+    (iii) *Special rules regarding waiver period.—* — For purposes of this paragraph—
+
+      (I) the required beginning date with respect to any individual shall be determined without regard to this subparagraph for purposes of applying this paragraph for calendar years after 2020, and
+
+      (II) if clause (ii) of subparagraph (B) applies, the 5-year period described in such clause shall be determined without regard to calendar year 2020.
 
 (10) **Other requirements.—**
 
@@ -60503,6 +61274,26 @@ Repeal effective for taxable years beginning after Dec. 31, 1976, see section 19
   (G) *Exception for governmental plans.—* — This paragraph shall not apply to a governmental plan (within the meaning of section 414(d)).
 
   (H) *Regulations.—* — The Secretary may by regulation provide that any separate benefit structure, any separate trust, or any other separate arrangement is to be treated as a separate plan for purposes of applying this paragraph.
+
+  (I) *Protected participants.—*
+
+    (i) *In general.—* — A plan shall be deemed to satisfy the requirements of subparagraph (A) if—
+
+      (I) the plan is amended—
+
+        (aa) to cease all benefit accruals, or
+
+        (bb) to provide future benefit accruals only to a closed class of participants,
+
+      (II) the plan satisfies subparagraph (A) (without regard to this subparagraph) as of the effective date of the amendment, and
+
+      (III) the amendment was adopted before April 5, 2017, or the plan is described in clause (ii).
+
+    (ii) *Plans described.—* — A plan is described in this clause if the plan would be described in subsection (o)(1)(C), as applied for purposes of subsection (o)(1)(B)(iii)(IV) and by treating the effective date of the amendment as the date the class was closed for purposes of subsection (o)(1)(C).
+
+    (iii) *Special rules.—* — For purposes of clause (i)(II), in applying section 410(b)(6)(C), the amendments described in clause (i) shall not be treated as a significant change in coverage under section 410(b)(6)(C)(i)(II).
+
+    (iv) *Spun-off plans.—* — For purposes of this subparagraph, if a portion of a plan described in clause (i) is spun off to another employer, the treatment under clause (i) of the spun-off plan shall continue with respect to the other employer.
 
 (27) **Determinations as to profit-sharing plans.—**
 
@@ -60699,12 +61490,51 @@ Repeal effective for taxable years beginning after Dec. 31, 1976, see section 19
 
     (ii) *Applicable percentage.—* — For purposes of clause (i), the applicable percentage shall be determined as follows: Plan year to which subparagraph (C) applies:The applicable percentage is: 1st33 2d66 3d and following100.
 
-(36) **Distributions during working retirement.—** — A trust forming part of a pension plan shall not be treated as failing to constitute a qualified trust under this section solely because the plan provides that a distribution may be made from such trust to an employee who has attained age 62 and who is not separated from employment at the time of such distribution.
+(36) **Distributions during working retirement.—**
+
+  (A) *In general.—* — A trust forming part of a pension plan shall not be treated as failing to constitute a qualified trust under this section solely because the plan provides that a distribution may be made from such trust to an employee who has attained age 59½ and who is not separated from employment at the time of such distribution.
+
+  (B) *Certain employees in the building and construction industry.—* — Subparagraph (A) shall be applied by substituting “age 55” for “age 59½” in the case of a multiemployer plan described in section 4203(b)(1)(B)(i) of the Employee Retirement Income Security Act of 1974, with respect to individuals who were participants in such plan on or before April 30, 2013, if—
+
+    (i) the trust to which subparagraph (A) applies was in existence before January 1, 1970, and
+
+    (ii) before December 31, 2011, at a time when the plan provided that distributions may be made to an employee who has attained age 55 and who is not separated from employment at the time of such distribution, the plan received at least 1 written determination from the Internal Revenue Service that the trust to which subparagraph (A) applies constituted a qualified trust under this section.
 
 (37) **Death benefits under userra-qualified active military service.—** — A trust shall not constitute a qualified trust unless the plan provides that, in the case of a participant who dies while performing qualified military service (as defined in section 414(u)), the survivors of the participant are entitled to any additional benefits (other than benefit accruals relating to the period of qualified military service) provided under the plan had the participant resumed and then terminated employment on account of death.
+
+(38) **Portability of lifetime income.—**
+
+  (A) *In general.—* — Except as may be otherwise provided by regulations, a trust forming part of a defined contribution plan shall not be treated as failing to constitute a qualified trust under this section solely by reason of allowing—
+
+    (i) qualified distributions of a lifetime income investment, or
+
+    (ii) distributions of a lifetime income investment in the form of a qualified plan distribution annuity contract,
+    on or after the date that is 90 days prior to the date on which such lifetime income investment is no longer authorized to be held as an investment option under the plan.
+
+  (B) *Definitions.—* — For purposes of this subsection—
+
+    (i) the term “qualified distribution” means a direct trustee-to-trustee transfer described in paragraph (31)(A) to an eligible retirement plan (as defined in section 402(c)(8)(B)),
+
+    (ii) the term “lifetime income investment” means an investment option which is designed to provide an employee with election rights—
+
+      (I) which are not uniformly available with respect to other investment options under the plan, and
+
+      (II) which are to a lifetime income feature available through a contract or other arrangement offered under the plan (or under another eligible retirement plan (as so defined), if paid by means of a direct trustee-to-trustee transfer described in paragraph (31)(A) to such other eligible retirement plan),
+
+    (iii) the term “lifetime income feature” means—
+
+      (I) a feature which guarantees a minimum level of income annually (or more frequently) for at least the remainder of the life of the employee or the joint lives of the employee and the employee’s designated beneficiary, or
+
+      (II) an annuity payable on behalf of the employee under which payments are made in substantially equal periodic payments (not less frequently than annually) over the life of the employee or the joint lives of the employee and the employee’s designated beneficiary, and
+
+    (iv) the term “qualified plan distribution annuity contract” means an annuity contract purchased for a participant and distributed to the participant by a plan or contract described in subparagraph (B) of section 402(c)(8) (without regard to clauses (i) and (ii) thereof).
 Paragraphs (11), (12), (13), (14), (15), (19), and (20) shall apply only in the case of a plan to which section 411 (relating to minimum vesting standards) applies without regard to subsection (e)(2) of such section.
 
-**(b) Certain retroactive changes in plan** A stock bonus, pension, profit-sharing, or annuity plan shall be considered as satisfying the requirements of subsection (a) for the period beginning with the date on which it was put into effect, or for the period beginning with the earlier of the date on which there was adopted or put into effect any amendment which caused the plan to fail to satisfy such requirements, and ending with the time prescribed by law for filing the return of the employer for his taxable year in which such plan or amendment was adopted (including extensions thereof) or such later time as the Secretary may designate, if all provisions of the plan which are necessary to satisfy such requirements are in effect by the end of such period and have been made effective for all purposes for the whole of such period.
+**(b) Certain plan amendments**
+
+(1) **Certain retroactive changes in plan** — A stock bonus, pension, profit-sharing, or annuity plan shall be considered as satisfying the requirements of subsection (a) for the period beginning with the date on which it was put into effect, or for the period beginning with the earlier of the date on which there was adopted or put into effect any amendment which caused the plan to fail to satisfy such requirements, and ending with the time prescribed by law for filing the return of the employer for his taxable year in which such plan or amendment was adopted (including extensions thereof) or such later time as the Secretary may designate, if all provisions of the plan which are necessary to satisfy such requirements are in effect by the end of such period and have been made effective for all purposes for the whole of such period.
+
+(2) **Adoption of plan** — If an employer adopts a stock bonus, pension, profit-sharing, or annuity plan after the close of a taxable year but before the time prescribed by law for filing the return of the employer for the taxable year (including extensions thereof), the employer may elect to treat the plan as having been adopted as of the last day of the taxable year.
 
 **(c) Definitions and rules relating to self-employed individuals and owner-employees** For purposes of this section—
 
@@ -60813,15 +61643,23 @@ then such trust shall be considered as having constituted a qualified trust unde
 
       (III) in the case of a profit-sharing or stock bonus plan, the attainment of age 59½,
 
-      (IV) subject to the provisions of paragraph (14), upon hardship of the employee, or
+      (IV) subject to the provisions of paragraph (14), upon hardship of the employee,
 
-      (V) in the case of a qualified reservist distribution (as defined in section 72(t)(2)(G)(iii)), the date on which a period referred to in subclause (III) of such section begins, and
+      (V) in the case of a qualified reservist distribution (as defined in section 72(t)(2)(G)(iii)), the date on which a period referred to in subclause (III) of such section begins, or
 
-    (ii) will not be distributable merely by reason of the completion of a stated period of participation or the lapse of a fixed number of years;
+      (VI) except as may be otherwise provided by regulations, with respect to amounts invested in a lifetime income investment (as defined in subsection (a)(38)(B)(ii)), the date that is 90 days prior to the date that such lifetime income investment may no longer be held as an investment option under the arrangement,
+
+    (ii) will not be distributable merely by reason of the completion of a stated period of participation or the lapse of a fixed number of years, and
+
+    (iii) except as may be otherwise provided by regulations, in the case of amounts described in clause (i)(VI), will be distributed only in the form of a qualified distribution (as defined in subsection (a)(38)(B)(i)) or a qualified plan distribution annuity contract (as defined in subsection (a)(38)(B)(iv)),
 
   (C) which provides that an employee’s right to his accrued benefit derived from employer contributions made to the trust pursuant to his election is nonforfeitable, and
 
-  (D) which does not require, as a condition of participation in the arrangement, that an employee complete a period of service with the employer (or employers) maintaining the plan extending beyond the period permitted under section 410(a)(1) (determined without regard to subparagraph (B)(i) thereof).
+  (D) which does not require, as a condition of participation in the arrangement, that an employee complete a period of service with the employer (or employers) maintaining the plan extending beyond the close of the earlier of—
+
+    (i) the period permitted under section 410(a)(1) (determined without regard to subparagraph (B)(i) thereof), or
+
+    (ii) subject to the provisions of paragraph (15), the first period of 3 consecutive 12-month periods during each of which the employee has at least 500 hours of service.
 
 (3) **Application of participation and discrimination standards**
 
@@ -60915,7 +61753,7 @@ then such trust shall be considered as having constituted a qualified trust unde
 
       (II) is a district organized under the laws of a State as a municipal corporation for the purpose of irrigation, water conservation, or drainage, and
 
-    (v) an organization which is a national association of organizations described in clause (i), (ii),,11 So in original. (iii), or (iv).
+    (v) an organization which is a national association of organizations described in clause (i), (ii),,22 So in original. (iii), or (iv).
 
   (C) *Special rule for certain distributions* — A rural cooperative plan which includes a qualified cash or deferred arrangement shall not be treated as violating the requirements of section 401(a) or of paragraph (2) merely by reason of a hardship distribution or a distribution to a participant after attainment of age 59½. For purposes of this section, the term “hardship distribution” means a distribution described in paragraph (2)(B)(i)(IV) (without regard to the limitation of its application to profit-sharing or stock bonus plans).
 
@@ -60998,9 +61836,9 @@ then such trust shall be considered as having constituted a qualified trust unde
 
   (A) *In general* — A cash or deferred arrangement shall be treated as meeting the requirements of paragraph (3)(A)(ii) if such arrangement—
 
-    (i) meets the contribution requirements of subparagraph (B) or (C), and
+    (i) meets the contribution requirements of subparagraph (B) and the notice requirements of subparagraph (D), or
 
-    (ii) meets the notice requirements of subparagraph (D).
+    (ii) meets the contribution requirements of subparagraph (C).
 
   (B) *Matching contributions*
 
@@ -61032,13 +61870,29 @@ then such trust shall be considered as having constituted a qualified trust unde
 
     (ii) *Social security and similar contributions not taken into account* — An arrangement shall not be treated as meeting the requirements of subparagraph (B) or (C) unless such requirements are met without regard to subsection (l), and, for purposes of subsection (l), employer contributions under subparagraph (B) or (C) shall not be taken into account.
 
-  (F) *Other plans* — An arrangement shall be treated as meeting the requirements under subparagraph (A)(i) if any other plan maintained by the employer meets such requirements with respect to employees eligible under the arrangement.
+  (F) *Timing of plan amendment for employer making nonelective contributions*
+
+    (i) *In general* — Except as provided in clause (ii), a plan may be amended after the beginning of a plan year to provide that the requirements of subparagraph (C) shall apply to the arrangement for the plan year, but only if the amendment is adopted—
+
+      (I) at any time before the 30th day before the close of the plan year, or
+
+      (II) at any time before the last day under paragraph (8)(A) for distributing excess contributions for the plan year.
+
+    (ii) *Exception where plan provided for matching contributions* — Clause (i) shall not apply to any plan year if the plan provided at any time during the plan year that the requirements of subparagraph (B) or paragraph (13)(D)(i)(I) applied to the plan year.
+
+    (iii) *4-percent contribution requirement* — Clause (i)(II) shall not apply to an arrangement unless the amount of the contributions described in subparagraph (C) which the employer is required to make under the arrangement for the plan year with respect to any employee is an amount equal to at least 4 percent of the employee’s compensation.
+
+  (G) *Other plans* — An arrangement shall be treated as meeting the requirements under subparagraph (A)(i) if any other plan maintained by the employer meets such requirements with respect to employees eligible under the arrangement.
 
 (13) **Alternative method for automatic contribution arrangements to meet nondiscrimination requirements**
 
   (A) *In general* — A qualified automatic contribution arrangement shall be treated as meeting the requirements of paragraph (3)(A)(ii).
 
-  (B) *Qualified automatic contribution arrangement* — For purposes of this paragraph, the term “qualified automatic contribution arrangement” means any cash or deferred arrangement which meets the requirements of subparagraphs (C) through (E).
+  (B) *Qualified automatic contribution arrangement* — For purposes of this paragraph, the term “qualified automatic contribution arrangement” means a cash or deferred arrangement—
+
+    (i) which is described in subparagraph (D)(i)(I) and meets the applicable requirements of subparagraphs (C) through (E), or
+
+    (ii) which is described in subparagraph (D)(i)(II) and meets the applicable requirements of subparagraphs (C) and (D).
 
   (C) *Automatic deferral*
 
@@ -61050,7 +61904,7 @@ then such trust shall be considered as having constituted a qualified trust unde
 
       (II) to make elective contributions at a level specified in such affirmative election.
 
-    (iii) *Qualified percentage* — For purposes of this subparagraph, the term “qualified percentage” means, with respect to any employee, any percentage determined under the arrangement if such percentage is applied uniformly, does not exceed 10 percent, and is at least—
+    (iii) *Qualified percentage* — For purposes of this subparagraph, the term “qualified percentage” means, with respect to any employee, any percentage determined under the arrangement if such percentage is applied uniformly, does not exceed 15 percent (10 percent during the period described in subclause (I)), and is at least—
 
       (I) 3 percent during the period ending on the last day of the first plan year which begins after the date on which the first elective contribution described in clause (i) is made with respect to such employee,
 
@@ -61100,6 +61954,18 @@ then such trust shall be considered as having constituted a qualified trust unde
 
       (III) the employee has a reasonable period of time after receipt of the notice described in subclauses (I) and (II) and before the first elective contribution is made to make either such election.
 
+  (F) *Timing of plan amendment for employer making nonelective contributions*
+
+    (i) *In general* — Except as provided in clause (ii), a plan may be amended after the beginning of a plan year to provide that the requirements of subparagraph (D)(i)(II) shall apply to the arrangement for the plan year, but only if the amendment is adopted—
+
+      (I) at any time before the 30th day before the close of the plan year, or
+
+      (II) at any time before the last day under paragraph (8)(A) for distributing excess contributions for the plan year.
+
+    (ii) *Exception where plan provided for matching contributions* — Clause (i) shall not apply to any plan year if the plan provided at any time during the plan year that the requirements of subparagraph (D)(i)(I) or paragraph (12)(B) applied to the plan year.
+
+    (iii) *4-percent contribution requirement* — Clause (i)(II) shall not apply to an arrangement unless the amount of the contributions described in subparagraph (D)(i)(II) which the employer is required to make under the arrangement for the plan year with respect to any employee is an amount equal to at least 4 percent of the employee’s compensation.
+
 (14) **Special rules relating to hardship withdrawals** — For purposes of paragraph (2)(B)(i)(IV)—
 
   (A) *Amounts which may be withdrawn* — The following amounts may be distributed upon hardship of the employee:
@@ -61113,6 +61979,32 @@ then such trust shall be considered as having constituted a qualified trust unde
     (iv) Earnings on any contributions described in clause (i), (ii), or (iii).
 
   (B) *No requirement to take available loan* — A distribution shall not be treated as failing to be made upon the hardship of an employee solely because the employee does not take any available loan under the plan.
+
+(15) **Special rules for participation requirement for long-term, part-time workers** — For purposes of paragraph (2)(D)(ii)—
+
+  (A) *Age requirement must be met* — Paragraph (2)(D)(ii) shall not apply to an employee unless the employee has met the requirement of section 410(a)(1)(A)(i) by the close of the last of the 12-month periods described in such paragraph.
+
+  (B) *Nondiscrimination and top-heavy rules not to apply*
+
+    (i) *Nondiscrimination rules* — In the case of employees who are eligible to participate in the arrangement solely by reason of paragraph (2)(D)(ii)—
+
+      (I) notwithstanding subsection (a)(4), an employer shall not be required to make nonelective or matching contributions on behalf of such employees even if such contributions are made on behalf of other employees eligible to participate in the arrangement, and
+
+      (II) an employer may elect to exclude such employees from the application of subsection (a)(4), paragraphs (3), (12), and (13), subsection (m)(2), and section 410(b).
+
+    (ii) *Top-heavy rules* — An employer may elect to exclude all employees who are eligible to participate in a plan maintained by the employer solely by reason of paragraph (2)(D)(ii) from the application of the vesting and benefit requirements under subsections (b) and (c) of section 416.
+
+    (iii) *Vesting* — For purposes of determining whether an employee described in clause (i) has a nonforfeitable right to employer contributions (other than contributions described in paragraph (3)(D)(i)) under the arrangement, each 12-month period for which the employee has at least 500 hours of service shall be treated as a year of service, and section 411(a)(6) shall be applied by substituting “at least 500 hours of service” for “more than 500 hours of service” in subparagraph (A) thereof.
+
+    (iv) *Employees who become full-time employees* — This subparagraph (other than clause (iii)) shall cease to apply to any employee as of the first plan year beginning after the plan year in which the employee meets the requirements of section 410(a)(1)(A)(ii) without regard to paragraph (2)(D)(ii).
+
+  (C) *Exception for employees under collectively bargained plans, etc.* — Paragraph (2)(D)(ii) shall not apply to employees described in section 410(b)(3).
+
+  (D) *Special rules*
+
+    (i) *Time of participation* — The rules of section 410(a)(4) shall apply to an employee eligible to participate in an arrangement solely by reason of paragraph (2)(D)(ii).
+
+    (ii) *12-month periods* — 12-month periods shall be determined in the same manner as under the last sentence of section 410(a)(3)(A).
 
 **(l) Permitted disparity in plan contributions or benefits**
 
@@ -61345,7 +62237,137 @@ then such trust shall be considered as having constituted a qualified trust unde
 
 **(n) Coordination with qualified domestic relations orders** The Secretary shall prescribe such rules or regulations as may be necessary to coordinate the requirements of subsection (a)(13)(B) and section 414(p) (and the regulations issued by the Secretary of Labor thereunder) with the other provisions of this chapter.
 
-**(o) Cross reference** For exemption from tax of a trust qualified under this section, see section 501(a).
+**(o) Special rules for applying nondiscrimination rules to protect older, longer service and grandfathered participants**
+
+(1) **Testing of defined benefit plans with closed classes of participants**
+
+  (A) *Benefits, rights, or features provided to closed classes* — A defined benefit plan which provides benefits, rights, or features to a closed class of participants shall not fail to satisfy the requirements of subsection (a)(4) by reason of the composition of such closed class or the benefits, rights, or features provided to such closed class, if—
+
+    (i) for the plan year as of which the class closes and the 2 succeeding plan years, such benefits, rights, and features satisfy the requirements of subsection (a)(4) (without regard to this subparagraph but taking into account the rules of subparagraph (I)),
+
+    (ii) after the date as of which the class was closed, any plan amendment which modifies the closed class or the benefits, rights, and features provided to such closed class does not discriminate significantly in favor of highly compensated employees, and
+
+    (iii) the class was closed before April 5, 2017, or the plan is described in subparagraph (C).
+
+  (B) *Aggregate testing with defined contribution plans permitted on a benefits basis*
+
+    (i) *In general* — For purposes of determining compliance with subsection (a)(4) and section 410(b), a defined benefit plan described in clause (iii) may be aggregated and tested on a benefits basis with 1 or more defined contribution plans, including with the portion of 1 or more defined contribution plans which—
+
+      (I) provides matching contributions (as defined in subsection (m)(4)(A)),
+
+      (II) provides annuity contracts described in section 403(b) which are purchased with matching contributions or nonelective contributions, or
+
+      (III) consists of an employee stock ownership plan (within the meaning of section 4975(e)(7)) or a tax credit employee stock ownership plan (within the meaning of section 409(a)).
+
+    (ii) *Special rules for matching contributions* — For purposes of clause (i), if a defined benefit plan is aggregated with a portion of a defined contribution plan providing matching contributions—
+
+      (I) such defined benefit plan must also be aggregated with any portion of such defined contribution plan which provides elective deferrals described in subparagraph (A) or (C) of section 402(g)(3), and
+
+      (II) such matching contributions shall be treated in the same manner as nonelective contributions, including for purposes of applying the rules of subsection (l).
+
+    (iii) *Plans described* — A defined benefit plan is described in this clause if—
+
+      (I) the plan provides benefits to a closed class of participants,
+
+      (II) for the plan year as of which the class closes and the 2 succeeding plan years, the plan satisfies the requirements of section 410(b) and subsection (a)(4) (without regard to this subparagraph but taking into account the rules of subparagraph (I)),
+
+      (III) after the date as of which the class was closed, any plan amendment which modifies the closed class or the benefits provided to such closed class does not discriminate significantly in favor of highly compensated employees, and
+
+      (IV) the class was closed before April 5, 2017, or the plan is described in subparagraph (C).
+
+  (C) *Plans described* — A plan is described in this subparagraph if, taking into account any predecessor plan—
+
+    (i) such plan has been in effect for at least 5 years as of the date the class is closed, and
+
+    (ii) during the 5-year period preceding the date the class is closed, there has not been a substantial increase in the coverage or value of the benefits, rights, or features described in subparagraph (A) or in the coverage or benefits under the plan described in subparagraph (B)(iii) (whichever is applicable).
+
+  (D) *Determination of substantial increase for benefits, rights, and features* — In applying subparagraph (C)(ii) for purposes of subparagraph (A)(iii), a plan shall be treated as having had a substantial increase in coverage or value of the benefits, rights, or features described in subparagraph (A) during the applicable 5-year period only if, during such period—
+
+    (i) the number of participants covered by such benefits, rights, or features on the date such period ends is more than 50 percent greater than the number of such participants on the first day of the plan year in which such period began, or
+
+    (ii) such benefits, rights, and features have been modified by 1 or more plan amendments in such a way that, as of the date the class is closed, the value of such benefits, rights, and features to the closed class as a whole is substantially greater than the value as of the first day of such 5-year period, solely as a result of such amendments.
+
+  (E) *Determination of substantial increase for aggregate testing on benefits basis* — In applying subparagraph (C)(ii) for purposes of subparagraph (B)(iii)(IV), a plan shall be treated as having had a substantial increase in coverage or benefits during the applicable 5-year period only if, during such period—
+
+    (i) the number of participants benefitting under the plan on the date such period ends is more than 50 percent greater than the number of such participants on the first day of the plan year in which such period began, or
+
+    (ii) the average benefit provided to such participants on the date such period ends is more than 50 percent greater than the average benefit provided on the first day of the plan year in which such period began.
+
+  (F) *Certain employees disregarded* — For purposes of subparagraphs (D) and (E), any increase in coverage or value or in coverage or benefits, whichever is applicable, which is attributable to such coverage and value or coverage and benefits provided to employees—
+
+    (i) who became participants as a result of a merger, acquisition, or similar event which occurred during the 7-year period preceding the date the class is closed, or
+
+    (ii) who became participants by reason of a merger of the plan with another plan which had been in effect for at least 5 years as of the date of the merger,
+    shall be disregarded, except that clause (ii) shall apply for purposes of subparagraph (D) only if, under the merger, the benefits, rights, or features under 1 plan are conformed to the benefits, rights, or features of the other plan prospectively.
+
+  (G) *Rules relating to average benefit* — For purposes of subparagraph (E)—
+
+    (i) the average benefit provided to participants under the plan will be treated as having remained the same between the 2 dates described in subparagraph (E)(ii) if the benefit formula applicable to such participants has not changed between such dates, and
+
+    (ii) if the benefit formula applicable to 1 or more participants under the plan has changed between such 2 dates, then the average benefit under the plan shall be considered to have increased by more than 50 percent only if—
+
+      (I) the total amount determined under section 430(b)(1)(A)(i) for all participants benefitting under the plan for the plan year in which the 5-year period described in subparagraph (E) ends, exceeds
+
+      (II) the total amount determined under section 430(b)(1)(A)(i) for all such participants for such plan year, by using the benefit formula in effect for each such participant for the first plan year in such 5-year period,
+    by more than 50 percent. In the case of a CSEC plan (as defined in section 414(y)), the normal cost of the plan (as determined under section 433(j)(1)(B)) shall be used in lieu of the amount determined under section 430(b)(1)(A)(i).
+
+  (H) *Treatment as single plan* — For purposes of subparagraphs (E) and (G), a plan described in section 413(c) shall be treated as a single plan rather than as separate plans maintained by each employer in the plan.
+
+  (I) *Special rules* — For purposes of subparagraphs (A)(i) and (B)(iii)(II), the following rules shall apply:
+
+    (i) In applying section 410(b)(6)(C), the closing of the class of participants shall not be treated as a significant change in coverage under section 410(b)(6)(C)(i)(II).
+
+    (ii) 2 or more plans shall not fail to be eligible to be aggregated and treated as a single plan solely by reason of having different plan years.
+
+    (iii) Changes in the employee population shall be disregarded to the extent attributable to individuals who become employees or cease to be employees, after the date the class is closed, by reason of a merger, acquisition, divestiture, or similar event.
+
+    (iv) Aggregation and all other testing methodologies otherwise applicable under subsection (a)(4) and section 410(b) may be taken into account.
+    The rule of clause (ii) shall also apply for purposes of determining whether plans to which subparagraph (B)(i) applies may be aggregated and treated as 1 plan for purposes of determining whether such plans meet the requirements of subsection (a)(4) and section 410(b).
+
+  (J) *Spun-off plans* — For purposes of this paragraph, if a portion of a defined benefit plan described in subparagraph (A) or (B)(iii) is spun off to another employer and the spun-off plan continues to satisfy the requirements of—
+
+    (i) subparagraph (A)(i) or (B)(iii)(II), whichever is applicable, if the original plan was still within the 3-year period described in such subparagraph at the time of the spin off, and
+
+    (ii) subparagraph (A)(ii) or (B)(iii)(III), whichever is applicable,
+    the treatment under subparagraph (A) or (B) of the spun-off plan shall continue with respect to such other employer.
+
+(2) **Testing of defined contribution plans**
+
+  (A) *Testing on a benefits basis* — A defined contribution plan shall be permitted to be tested on a benefits basis if—
+
+    (i) such defined contribution plan provides make-whole contributions to a closed class of participants whose accruals under a defined benefit plan have been reduced or eliminated,
+
+    (ii) for the plan year of the defined contribution plan as of which the class eligible to receive such make-whole contributions closes and the 2 succeeding plan years, such closed class of participants satisfies the requirements of section 410(b)(2)(A)(i) (determined by applying the rules of paragraph (1)(I)),
+
+    (iii) after the date as of which the class was closed, any plan amendment to the defined contribution plan which modifies the closed class or the allocations, benefits, rights, and features provided to such closed class does not discriminate significantly in favor of highly compensated employees, and
+
+    (iv) the class was closed before April 5, 2017, or the defined benefit plan under clause (i) is described in paragraph (1)(C) (as applied for purposes of paragraph (1)(B)(iii)(IV)).
+
+  (B) *Aggregation with plans including matching contributions*
+
+    (i) *In general* — With respect to 1 or more defined contribution plans described in subparagraph (A), for purposes of determining compliance with subsection (a)(4) and section 410(b), the portion of such plans which provides make-whole contributions or other nonelective contributions may be aggregated and tested on a benefits basis with the portion of 1 or more other defined contribution plans which—
+
+      (I) provides matching contributions (as defined in subsection (m)(4)(A)),
+
+      (II) provides annuity contracts described in section 403(b) which are purchased with matching contributions or nonelective contributions, or
+
+      (III) consists of an employee stock ownership plan (within the meaning of section 4975(e)(7)) or a tax credit employee stock ownership plan (within the meaning of section 409(a)).
+
+    (ii) *Special rules for matching contributions* — Rules similar to the rules of paragraph (1)(B)(ii) shall apply for purposes of clause (i).
+
+  (C) *Special rules for testing defined contribution plan features providing matching contributions to certain older, longer service participants* — In the case of a defined contribution plan which provides benefits, rights, or features to a closed class of participants whose accruals under a defined benefit plan have been reduced or eliminated, the plan shall not fail to satisfy the requirements of subsection (a)(4) solely by reason of the composition of the closed class or the benefits, rights, or features provided to such closed class if the defined contribution plan and defined benefit plan otherwise meet the requirements of subparagraph (A) but for the fact that the make-whole contributions under the defined contribution plan are made in whole or in part through matching contributions.
+
+  (D) *Spun-off plans* — For purposes of this paragraph, if a portion of a defined contribution plan described in subparagraph (A) or (C) is spun off to another employer, the treatment under subparagraph (A) or (C) of the spun-off plan shall continue with respect to the other employer if such plan continues to comply with the requirements of clauses (ii) (if the original plan was still within the 3-year period described in such clause at the time of the spin off) and (iii) of subparagraph (A), as determined for purposes of subparagraph (A) or (C), whichever is applicable.
+
+(3) **Definitions and special rule** — For purposes of this subsection—
+
+  (A) *Make-whole contributions* — Except as otherwise provided in paragraph (2)(C), the term “make-whole contributions” means nonelective allocations for each employee in the class which are reasonably calculated, in a consistent manner, to replace some or all of the retirement benefits which the employee would have received under the defined benefit plan and any other plan or qualified cash or deferred arrangement under subsection (k)(2) if no change had been made to such defined benefit plan and such other plan or arrangement. For purposes of the preceding sentence, consistency shall not be required with respect to employees who were subject to different benefit formulas under the defined benefit plan.
+
+  (B) *References to closed class of participants* — References to a closed class of participants and similar references to a closed class shall include arrangements under which 1 or more classes of participants are closed, except that 1 or more classes of participants closed on different dates shall not be aggregated for purposes of determining the date any such class was closed.
+
+  (C) *Highly compensated employee* — The term “highly compensated employee” has the meaning given such term in section 414(q).
+
+**(p) Cross reference** For exemption from tax of a trust qualified under this section, see section 501(a).
 
 ### Statutory Notes
 
@@ -61353,7 +62375,7 @@ then such trust shall be considered as having constituted a qualified trust unde
 For inflation adjustment of certain items in this section, see Internal Revenue Notices listed in a table below.
 
 #### References in Text
-The Employee Retirement Income Security Act of 1974, referred to in subsec. (a)(12), (13)(C)(i)(II), (III), (iii)(II), (29)(B)(i), (33)(C), (34), (35)(G)(iii), is Pub. L. 93–406, Sept. 2, 1974, 88 Stat. 829, as amended. Part 4 of subtitle B of title I of the Act is classified generally to part 4 (§ 1101 et seq.) of subtitle B of subchapter I of chapter 18 of Title 29, Labor. Title IV of the Act is classified generally to subchapter III (§ 1301 et seq.) of chapter 18 of Title 29. Sections 407, 412, 4021, and 4050 of the Act are classified to sections 1107, 1112, 1321, and 1350, respectively, of Title 29. For complete classification of this Act to the Code, see Short Title note set out under [section 1001 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1001&num=0&edition=prelim) and Tables.
+The Employee Retirement Income Security Act of 1974, referred to in subsec. (a)(12), (13)(C)(i)(II), (III), (iii)(II), (33)(C), (34), (35)(G)(iii), (36)(B), is Pub. L. 93–406, Sept. 2, 1974, 88 Stat. 829, as amended. Part 4 of subtitle B of title I of the Act is classified generally to part 4 (§ 1101 et seq.) of subtitle B of subchapter I of chapter 18 of Title 29, Labor. Title IV of the Act is classified generally to subchapter III (§ 1301 et seq.) of chapter 18 of Title 29. Sections 407, 412, 4021, 4050, and 4203 of the Act are classified to sections 1107, 1112, 1321, 1350, and 1383, respectively, of Title 29. For complete classification of this Act to the Code, see Short Title note set out under [section 1001 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1001&num=0&edition=prelim) and Tables.
 
 The Social Security Act, referred to in subsecs. (a)(15), (l)(4)(C)(ii), (5)(A)(ii), (D)(ii), (E)(i), (F), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended, which is classified generally to chapter 7 (§ 301 et seq.) of Title 42, The Public Health and Welfare. Title II of the Social Security Act is classified generally to subchapter II (§ 401 et seq.) of Title 42. Sections 223(d) and 230 of the Social Security Act are classified to sections 423(d) and 430, respectively, of Title 42. For complete classification of this Act to the Code, see [section 1305 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1305&num=0&edition=prelim) and Tables.
 
@@ -61362,6 +62384,52 @@ Section 521 of the Unemployment Compensation Amendments of 1992, referred to in 
 The Railroad Retirement Act of 1974, referred to in subsec. (l)(6), is act Aug. 29, 1935, ch. 812, as amended generally by Pub. L. 93–445, title I, § 101, Oct. 16, 1974, 88 Stat. 1305, which is classified generally to subchapter IV (§ 231 et seq.) of chapter 9 of Title 45, Railroads. For further details and complete classification of this Act to the Code, see Codification note set out preceding [section 231 of Title 45](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title45-section231&num=0&edition=prelim), [section 231t of Title 45](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title45-section231t&num=0&edition=prelim), and Tables.
 
 #### Amendments
+2020—Subsec. (a)(9)(I). Pub. L. 116–136 added subpar. (I).
+
+Subsec. (a)(36). Pub. L. 116–260, § 208(a), amended par. (36) generally. Prior to amendment, text read as follows: “A trust forming part of a pension plan shall not be treated as failing to constitute a qualified trust under this section solely because the plan provides that a distribution may be made from such trust to an employee who has attained age 59½ and who is not separated from employment at the time of such distribution.”
+
+2019—Subsec. (a)(9)(B)(iv)(I). Pub. L. 116–94, § 114(b), substituted “age 72” for “age 70½”.
+
+Subsec. (a)(9)(C)(i)(I). Pub. L. 116–94, § 114(a), substituted “age 72” for “age 70½”.
+
+Subsec. (a)(9)(C)(ii)(I). Pub. L. 116–94, § 114(b), substituted “age 72” for “age 70½”.
+
+Subsec. (a)(9)(E). Pub. L. 116–94, § 401(a)(2), amended subpar. (E) generally. Prior to amendment, text read as follows: “For purposes of this paragraph, the term ‘designated beneficiary’ means any individual designated as a beneficiary by the employee.”
+
+Subsec. (a)(9)(H). Pub. L. 116–94, § 401(a)(1), added subpar. (H).
+
+Subsec. (a)(26)(I). Pub. L. 116–94, § 205(b), added subpar. (I).
+
+Subsec. (a)(36). Pub. L. 116–94, § 104(a), substituted “age 59½” for “age 62”.
+
+Subsec. (a)(38). Pub. L. 116–94, § 109(a), added par. (38).
+
+Subsec. (b). Pub. L. 116–94, § 201(a), substituted “plan amendments” for “retroactive changes in plan” in heading, designated existing provisions as par. (1) and inserted heading, and added par. (2).
+
+Subsec. (k)(2)(B)(i)(VI). Pub. L. 116–94, § 109(b)(1), added subcl. (VI).
+
+Subsec. (k)(2)(B)(iii). Pub. L. 116–94, § 109(b)(2), added cl. (iii).
+
+Subsec. (k)(2)(D). Pub. L. 116–94, § 112(a)(1), amended subpar. (D) generally. Prior to amendment, subpar. (D) read as follows: “which does not require, as a condition of participation in the arrangement, that an employee complete a period of service with the employer (or employers) maintaining the plan extending beyond the period permitted under section 410(a)(1) (determined without regard to subparagraph (B)(i) thereof).”
+
+Subsec. (k)(12)(A). Pub. L. 116–94, § 103(a)(1), added cls. (i) and (ii) and struck out former cls. (i) and (ii) which read as follows:
+
+“(i) meets the contribution requirements of subparagraph (B) or (C), and
+
+“(ii) meets the notice requirements of subparagraph (D).”
+
+Subsec. (k)(12)(F), (G). Pub. L. 116–94, § 103(b), added subpar. (F) and redesignated former subpar. (F) as (G).
+
+Subsec. (k)(13)(B). Pub. L. 116–94, § 103(a)(2), substituted “means a cash or deferred arrangement—” for “means any cash or deferred arrangement which meets the requirements of subparagraphs (C) through (E).” and added cls. (i) and (ii).
+
+Subsec. (k)(13)(C)(iii). Pub. L. 116–94, § 102(a), substituted “does not exceed 15 percent (10 percent during the period described in subclause (I))” for “does not exceed 10 percent” in introductory provisions.
+
+Subsec. (k)(13)(F). Pub. L. 116–94, § 103(c), added subpar. (F).
+
+Subsec. (k)(15). Pub. L. 116–94, § 112(a)(2), added par. (15).
+
+Subsecs. (o), (p). Pub. L. 116–94, § 205(a), added subsec. (o) and redesignated former subsec. (o) as (p).
+
 2018—Subsec. (a)(2). Pub. L. 115–141, § 401(a)(69), substituted “determination));” for “determination).;”.
 
 Subsec. (a)(15). Pub. L. 115–141, § 401(a)(70), substituted “A trust” for “a trust” in introductory provisions.
@@ -62078,6 +63146,30 @@ Pub. L. 87–792, § 2(3), redesignated former subsec. (c) as (h).
 
 Subsec. (i). Pub. L. 87–863 redesignated former subsec. (h) as (i).
 
+#### Effective Date of 2020 Amendment
+Pub. L. 116–260, div. EE, title II, § 208(b), Dec. 27, 2020, 134 Stat. 3066, provided that: “The amendment made by this section [amending this section] shall apply to distributions made before, on, or after the date of the enactment of this Act [Dec. 27, 2020].”
+
+Pub. L. 116–136, div. A, title II, § 2203(c), Mar. 27, 2020, 134 Stat. 344, provided that: “(1) In general.—The amendments made by this section [amending this section and [section 402 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-402)] shall apply for calendar years beginning after December 31, 2019. “(2) Provisions relating to plan or contract amendments.—“(A) In general.—If this paragraph applies to any plan or contract amendment—“(i) such plan or contract shall not fail to be treated as being operated in accordance with the terms of the plan during the period described in subparagraph (B)(ii) solely because the plan operates in accordance with this section, and “(ii) except as provided by the Secretary of the Treasury (or the Secretary’s delegate), such plan or contract shall not fail to meet the requirements of section 411(d)(6) of the Internal Revenue Code of 1986 and section 204(g) of the Employee Retirement Income Security Act of 1974 [[29 U.S.C. 1054(g)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1054/g&num=0&edition=prelim)] by reason of such amendment. “(B) Amendments to which paragraph applies.—“(i) In general.—This paragraph shall apply to any amendment to any plan or annuity contract which—“(I) is made pursuant to the amendments made by this section, and “(II) is made on or before the last day of the first plan year beginning on or after January 1, 2022. In the case of a governmental plan, subclause (II) shall be applied by substituting ‘2024’ for ‘2022’. “(ii) Conditions.—This paragraph shall not apply to any amendment unless during the period beginning on the effective date of the amendment and ending on December 31, 2020, the plan or contract is operated as if such plan or contract amendment were in effect.”
+
+#### Effective Date of 2019 Amendment
+Pub. L. 116–94, div. M, § 104(c), Dec. 20, 2019, 133 Stat. 3095, provided that: “The amendments made by this section [amending this section and [section 457 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-457)] shall apply to plan years beginning after December 31, 2019.”
+
+Pub. L. 116–94, div. O, title I, § 102(b), Dec. 20, 2019, 133 Stat. 3146, provided that: “The amendments made by this section [amending this section] shall apply to plan years beginning after December 31, 2019.”
+
+Pub. L. 116–94, div. O, title I, § 103(d), Dec. 20, 2019, 133 Stat. 3147, provided that: “The amendments made by this section [amending this section] shall apply to plan years beginning after December 31, 2019.”
+
+Pub. L. 116–94, div. O, title I, § 109(e), Dec. 20, 2019, 133 Stat. 3152, provided that: “The amendments made by this section [amending this section and sections 403 and 457 of this title] shall apply to plan years beginning after December 31, 2019.”
+
+Pub. L. 116–94, div. O, title I, § 112(b), Dec. 20, 2019, 133 Stat. 3154, provided that: “The amendments made by this section [amending this section] shall apply to plan years beginning after December 31, 2020, except that, for purposes of section 401(k)(2)(D)(ii) of the Internal Revenue Code of 1986 (as added by such amendments), 12-month periods beginning before January 1, 2021, shall not be taken into account.”
+
+Pub. L. 116–94, div. O, title I, § 114(d), Dec. 20, 2019, 133 Stat. 3156, provided that: “The amendments made by this section [amending this section and [section 408 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-408)] shall apply to distributions required to be made after December 31, 2019, with respect to individuals who attain age 70½ after such date.”
+
+Pub. L. 116–94, div. O, title II, § 201(b), Dec. 20, 2019, 133 Stat. 3162, provided that: “The amendments made by this section [amending this section] shall apply to plans adopted for taxable years beginning after December 31, 2019.”
+
+Pub. L. 116–94, div. O, title II, § 205(c), Dec. 20, 2019, 133 Stat. 3173, provided that: “(1) In general.—Except as provided in paragraph (2), the amendments made by this section [amending this section] shall take effect on the date of the enactment of this Act [Dec. 20, 2019], without regard to whether any plan modifications referred to in such amendments are adopted or effective before, on, or after such date of enactment. “(2) Special rules.—“(A) Election of earlier application.—At the election of the plan sponsor, the amendments made by this section shall apply to plan years beginning after December 31, 2013. “(B) Closed classes of participants.—For purposes of paragraphs (1)(A)(iii), (1)(B)(iii)(IV), and (2)(A)(iv) of section 401(o) of the Internal Revenue Code of 1986 (as added by this section), a closed class of participants shall be treated as being closed before April 5, 2017, if the plan sponsor’s intention to create such closed class is reflected in formal written documents and communicated to participants before such date. “(C) Certain post-enactment plan amendments.—A plan shall not be treated as failing to be eligible for the application of section 401(o)(1)(A), 401(o)(1)(B)(iii), or 401(a)(26) of such Code (as added by this section) to such plan solely because in the case of—“(i) such section 401(o)(1)(A), the plan was amended before the date of the enactment of this Act to eliminate 1 or more benefits, rights, or features, and is further amended after such date of enactment to provide such previously eliminated benefits, rights, or features to a closed class of participants, or “(ii) such section 401(o)(1)(B)(iii) or section 401(a)(26), the plan was amended before the date of the enactment of this Act to cease all benefit accruals, and is further amended after such date of enactment to provide benefit accruals to a closed class of participants. Any such section shall only apply if the plan otherwise meets the requirements of such section and in applying such section, the date the class of participants is closed shall be the effective date of the later amendment.”
+
+Pub. L. 116–94, div. O, title IV, § 401(b), Dec. 20, 2019, 133 Stat. 3178, provided that: “(1) In general.—Except as provided in this subsection, the amendments made by this section [amending this section] shall apply to distributions with respect to employees who die after December 31, 2019. “(2) Collective bargaining exception.—In the case of a plan maintained pursuant to 1 or more collective bargaining agreements between employee representatives and 1 or more employers ratified before the date of enactment of this Act [Dec. 20, 2019], the amendments made by this section shall apply to distributions with respect to employees who die in calendar years beginning after the earlier of—“(A) the later of—“(i) the date on which the last of such collective bargaining agreements terminates (determined without regard to any extension thereof agreed to on or after the date of the enactment of this Act), or “(ii) December 31, 2019, or “(B) December 31, 2021. For purposes of subparagraph (A)(i), any plan amendment made pursuant to a collective bargaining agreement relating to the plan which amends the plan solely to conform to any requirement added by this section shall not be treated as a termination of such collective bargaining agreement. “(3) Governmental plans.—In the case of a governmental plan (as defined in section 414(d) of the Internal Revenue Code of 1986), paragraph (1) shall be applied by substituting ‘December 31, 2021’ for ‘December 31, 2019’. “(4) Exception for certain existing annuity contracts.—“(A) In general.—The amendments made by this section shall not apply to a qualified annuity which is a binding annuity contract in effect on the date of enactment of this Act and at all times thereafter. “(B) Qualified annuity.—For purposes of this paragraph, the term ‘qualified annuity’ means, with respect to an employee, an annuity—“(i) which is a commercial annuity (as defined in section 3405(e)(6) of the Internal Revenue Code of 1986); “(ii) under which the annuity payments are made over the life of the employee or over the joint lives of such employee and a designated beneficiary (or over a period not extending beyond the life expectancy of such employee or the joint life expectancy of such employee and a designated beneficiary) in accordance with the regulations described in section 401(a)(9)(A)(ii) of such Code (as in effect before such amendments) and which meets the other requirements of section 401(a)(9) of such Code (as so in effect) with respect to such payments; and “(iii) with respect to which—“(I) annuity payments to the employee have begun before the date of enactment of this Act, and the employee has made an irrevocable election before such date as to the method and amount of the annuity payments to the employee or any designated beneficiaries; or “(II) if subclause (I) does not apply, the employee has made an irrevocable election before the date of enactment of this Act as to the method and amount of the annuity payments to the employee or any designated beneficiaries. “(5) Exception for certain beneficiaries.—“(A) In general.—If an employee dies before the effective date, then, in applying the amendments made by this section to such employee’s designated beneficiary who dies after such date—“(i) such amendments shall apply to any beneficiary of such designated beneficiary; and “(ii) the designated beneficiary shall be treated as an eligible designated beneficiary for purposes of applying section 401(a)(9)(H)(ii) of the Internal Revenue Code of 1986 (as in effect after such amendments). “(B) Effective date.—For purposes of this paragraph, the term ‘effective date’ means the first day of the first calendar year to which the amendments made by this section apply to a plan with respect to employees dying on or after such date.”
+
 #### Effective Date of 2018 Amendment
 Pub. L. 115–123, div. D, title II, § 41114(c), Feb. 9, 2018, 132 Stat. 161, provided that: “The amendments made by this section [amending this section] shall apply to plan years beginning after December 31, 2018.”
 
@@ -62438,6 +63530,8 @@ Pub. L. 93–406, title II, § 2006, Sept. 2, 1974, 88 Stat. 992, as amended by 
 #### Inflation Adjusted Items for Certain Years
 Provisions relating to inflation adjustment of items in sections 25B, 45A, 219, 401, 402, 404, 408, 408A, 409, 414 to 416, 430, 432, 457, and 664 of this title for certain years were contained in the following:
 
+2020—Internal Revenue Notice 2019–59.
+
 2019—Internal Revenue Notice 2018–83.
 
 2018—Internal Revenue Notice 2017–64.
@@ -62560,7 +63654,7 @@ Provisions relating to inflation adjustment of items in sections 25B, 45A, 219, 
   (B) any distribution to the extent such distribution is required under section 401(a)(9), and
 
   (C) any distribution which is made upon hardship of the employee.
-  If all or any portion of a distribution during 2009 is treated as an eligible rollover distribution but would not be so treated if the minimum distribution requirements under section 401(a)(9) had applied during 2009, such distribution shall not be treated as an eligible rollover distribution for purposes of section 401(a)(31) or 3405(c) or subsection (f) of this section.
+  If all or any portion of a distribution during 2020 is treated as an eligible rollover distribution but would not be so treated if the minimum distribution requirements under section 401(a)(9) had applied during 2020, such distribution shall not be treated as an eligible rollover distribution for purposes of section 401(a)(31) or 3405(c) or subsection (f) of this section.
 
 (5) **Transfer treated as rollover contribution under section 408** — For purposes of this title, a transfer to an eligible retirement plan described in clause (i) or (ii) of paragraph (8)(B) resulting in any portion of a distribution being excluded from gross income under paragraph (1) shall be treated as a rollover contribution described in section 408(d)(3).
 
@@ -62863,6 +63957,8 @@ Section 415(c)(4) (as in effect before the enactment of the Economic Growth and 
 Section 1204(9)(A) of the Omnibus Crime Control and Safe Streets Act of 1968 ([42 U.S.C. 3796b(9)(A)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3796b/9/A&num=0&edition=prelim)), as in effect immediately before the enactment of the National Defense Authorization Act for Fiscal Year 2013, referred to in subsec. (l)(4)(C), means section 1204(9)(A) of Pub. L. 90–351 prior to its amendment by Pub. L. 112–239, div. A, title X, § 1086(b)(1)(E)(v)(I), Jan. 2, 2013, 126 Stat. 1967. Section 1204(9)(A) of Pub. L. 90–351 was classified to [section 3796b(9)(A) of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3796b/9/A&num=0&edition=prelim), The Public Health and Welfare, prior to editorial reclassification and renumbering as [section 10284(9)(A) of Title 34](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section10284/9/A&num=0&edition=prelim), Crime Control and Law Enforcement.
 
 #### Amendments
+2020—Subsec. (c)(4). Pub. L. 116–136 substituted “2020” for “2009” in two places in concluding provisions.
+
 2018—Subsec. (i). Pub. L. 115–141 substituted “subsection (e)(4)(D)(i)” for “subparagraph (A) of subsection (d)(4)”.
 
 2017—Subsec. (c)(3). Pub. L. 115–97, § 13613(b)(1), substituted “Time limit on transfers” for “Transfer must be made within 60 days of receipt” in heading.
@@ -63337,6 +64433,9 @@ Subsecs. (b), (d). Pub. L. 88–272, § 232(e)(2), (3), struck out “except tha
 
 Subsec. (a)(4). Pub. L. 86–437, § 1, added par. (4).
 
+#### Effective Date of 2020 Amendment
+Amendment by Pub. L. 116–136 applicable for calendar years beginning after Dec. 31, 2019, with additional provisions relating to plan or contract amendments, see section 2203(c) of Pub. L. 116–136, set out as a note under [section 401 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-401).
+
 #### Effective Date of 2017 Amendment
 Pub. L. 115–97, title I, § 13613(c), Dec. 22, 2017, 131 Stat. 2166, provided that: “The amendments made by this section [amending this section] shall apply to plan loan offset amounts which are treated as distributed in taxable years beginning after December 31, 2017.”
 
@@ -63641,7 +64740,7 @@ Pub. L. 94–267, § 1(d), Apr. 15, 1976, 90 Stat. 367, as amended by Pub. L. 99
 
     (ii) such transfer shall be treated as a distribution to which this paragraph applies which was contributed in a qualified rollover contribution (within the meaning of section 408A(e)) to such account, and
 
-    (iii) the plan shall not be treated as violating the provisions of section 401(k)(2)(B)(i), 403(b)(7)(A)(ii), 403(b)(11), or 457(d)(1)(A), or of [section 8433 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section8433&num=0&edition=prelim), United States Code, solely by reason of such transfer.
+    (iii) the plan shall not be treated as violating the provisions of section 401(k)(2)(B)(i), 403(b)(7)(A)(ii),11 See References in Text note below. 403(b)(11), or 457(d)(1)(A), or of [section 8433 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section8433&num=0&edition=prelim), United States Code, solely by reason of such transfer.
 
 **(d) Distribution rules** For purposes of this title—
 
@@ -63684,6 +64783,9 @@ Pub. L. 94–267, § 1(d), Apr. 15, 1976, 90 Stat. 367, as amended by Pub. L. 99
   (B) any elective deferral of compensation by an individual under an eligible deferred compensation plan (as defined in section 457(b)) of an eligible employer described in section 457(e)(1)(A).
 
 ### Statutory Notes
+
+#### References in Text
+Section 403(b)(7)(A)(ii), referred to in subsec. (c)(4)(E)(iii), probably means [section 403(b)(7)(A)(ii) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section403/b/7/A/ii&num=0&edition=prelim) prior to amendment by Pub. L. 116–94, div. O, title I, § 109(c)(2), Dec. 20, 2019, 133 Stat. 3151.
 
 #### Amendments
 2014—Subsec. (c)(4)(E)(iii). Pub. L. 113–295 substituted “403(b)(7)(A)(ii)” for “403(b)(7)(A)(i)”.
@@ -63774,11 +64876,23 @@ Section applicable to taxable years beginning after Dec. 31, 2005, see section 6
 
 (7) **Custodial accounts for regulated investment company stock**
 
-  (A) *Amounts paid treated as contributions* — For purposes of this title, amounts paid by an employer described in paragraph (1)(A) to a custodial account which satisfies the requirements of section 401(f)(2) shall be treated as amounts contributed by him for an annuity contract for his employee if—
+  (A) *Amounts paid treated as contributions* — For purposes of this title, amounts paid by an employer described in paragraph (1)(A) to a custodial account which satisfies the requirements of section 401(f)(2) shall be treated as amounts contributed by him for an annuity contract for his employee if the amounts are to be invested in regulated investment company stock to be held in that custodial account, and under the custodial account—
 
-    (i) the amounts are to be invested in regulated investment company stock to be held in that custodial account, and
+    (i) no such amounts may be paid or made available to any distributee (unless such amount is a distribution to which section 72(t)(2)(G) applies) before—
 
-    (ii) under the custodial account no such amounts may be paid or made available to any distributee (unless such amount is a distribution to which section 72(t)(2)(G) applies) before the employee dies, attains age 59½, has a severance from employment, becomes disabled (within the meaning of section 72(m)(7)), or in the case of contributions made pursuant to a salary reduction agreement (within the meaning of section 3121(a)(5)(D)), encounters financial hardship.
+      (I) the employee dies,
+
+      (II) the employee attains age 59½,
+
+      (III) the employee has a severance from employment,
+
+      (IV) the employee becomes disabled (within the meaning of section 72(m)(7)),
+
+      (V) in the case of contributions made pursuant to a salary reduction agreement (within the meaning of section 3121(a)(5)(D)), the employee encounters financial hardship, or
+
+      (VI) except as may be otherwise provided by regulations, with respect to amounts invested in a lifetime income investment (as defined in section 401(a)(38)(B)(ii)), the date that is 90 days prior to the date that such lifetime income investment may no longer be held as an investment option under the contract, and
+
+    (ii) in the case of amounts described in clause (i)(VI), such amounts will be distributed only in the form of a qualified distribution (as defined in section 401(a)(38)(B)(i)) or a qualified plan distribution annuity contract (as defined in section 401(a)(38)(B)(iv)).
 
   (B) *Account treated as plan* — For purposes of this title, a custodial account which satisfies the requirements of section 401(f)(2) shall be treated as an organization described in section 401(a) solely for purposes of subchapter F and subtitle F with respect to amounts received by it (and income from investment thereof).
 
@@ -63805,7 +64919,7 @@ Section applicable to taxable years beginning after Dec. 31, 2005, see section 6
 
     (ii) amounts paid by an employer described in paragraph (1)(A) to a retirement income account shall be treated as amounts contributed by the employer for an annuity contract for the employee on whose behalf such account is maintained.
 
-  (B) *Retirement income account* — For purposes of this paragraph, the term “retirement income account” means a defined contribution program established or maintained by a church, or a convention or association of churches, including an organization described in section 414(e)(3)(A), to provide benefits under section 403(b) for an employee described in paragraph (1) or his beneficiaries.
+  (B) *Retirement income account* — For purposes of this paragraph, the term “retirement income account” means a defined contribution program established or maintained by a church, or a convention or association of churches, including an organization described in section 414(e)(3)(A), to provide benefits under section 403(b) for an employee described in paragraph (1) (including an employee described in section 414(e)(3)(B)) or his beneficiaries.
 
 (10) **Distribution requirements** — Under regulations prescribed by the Secretary, this subsection shall not apply to any annuity contract (or to any custodial account described in paragraph (7) or retirement income account described in paragraph (9)) unless requirements similar to the requirements of sections 401(a)(9) and 401(a)(31) are met (and requirements similar to the incidental death benefit requirements of section 401(a) are met) with respect to such annuity contract (or custodial account or retirement income account). Any amount transferred in a direct trustee-to-trustee transfer in accordance with section 401(a)(31) shall not be includible in gross income for the taxable year of the transfer.
 
@@ -63813,9 +64927,15 @@ Section applicable to taxable years beginning after Dec. 31, 2005, see section 6
 
   (A) when the employee attains age 59½, has a severance from employment, dies, or becomes disabled (within the meaning of section 72(m)(7)),
 
-  (B) in the case of hardship, or
+  (B) in the case of hardship,
 
-  (C) for distributions to which section 72(t)(2)(G) applies.
+  (C) for distributions to which section 72(t)(2)(G) applies, or
+
+  (D) except as may be otherwise provided by regulations, with respect to amounts invested in a lifetime income investment (as defined in section 401(a)(38)(B)(ii))—
+
+    (i) on or after the date that is 90 days prior to the date that such lifetime income investment may no longer be held as an investment option under the contract, and
+
+    (ii) in the form of a qualified distribution (as defined in section 401(a)(38)(B)(i)) or a qualified plan distribution annuity contract (as defined in section 401(a)(38)(B)(iv)).
   Such contract may not provide for the distribution of any income attributable to such contributions in the case of hardship.
 
 (12) **Nondiscrimination requirements**
@@ -63844,6 +64964,16 @@ Section applicable to taxable years beginning after Dec. 31, 2005, see section 6
 ### Statutory Notes
 
 #### Amendments
+2019—Subsec. (b)(7)(A). Pub. L. 116–94, § 109(c)(2), substituted “if the amounts are to be invested in regulated investment company stock to be held in that custodial account, and under the custodial account—” for “if—” and cls. (i) and (ii) for former cls. (i) and (ii) which read as follows:
+
+“(i) the amounts are to be invested in regulated investment company stock to be held in that custodial account, and
+
+“(ii) under the custodial account no such amounts may be paid or made available to any distributee (unless such amount is a distribution to which section 72(t)(2)(G) applies) before the employee dies, attains age 59½, has a severance from employment, becomes disabled (within the meaning of section 72(m)(7)), or in the case of contributions made pursuant to a salary reduction agreement (within the meaning of section 3121(a)(5)(D)), encounters financial hardship.”
+
+Subsec. (b)(9)(B). Pub. L. 116–94, § 111(a), inserted “(including an employee described in section 414(e)(3)(B))” after “employee described in paragraph (1)”.
+
+Subsec. (b)(11)(D). Pub. L. 116–94, § 109(c)(1), added subpar. (D).
+
 2008—Subsec. (b)(14). Pub. L. 110–245 added par. (14).
 
 2006—Subsec. (a)(2). Pub. L. 109–280, § 845(b)(1), added par. (2).
@@ -64066,6 +65196,11 @@ Subsec. (b)(3). Pub. L. 87–370, § (3)(a)(2), substituted “the employer desc
 
 Subsecs. (b) to (d). Pub. L. 85–866, § 23(a), added subsec. (b), redesignated former subsec. (b) as (c), and added subsec. (d).
 
+#### Effective Date of 2019 Amendment
+Amendment by section 109(c) of Pub. L. 116–94 applicable to plan years beginning after Dec. 31, 2019, see section 109(e) of Pub. L. 116–94, set out as a note under [section 401 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-401).
+
+Pub. L. 116–94, div. O, title I, § 111(b), Dec. 20, 2019, 133 Stat. 3152, provided that: “The amendment made by this section [amending this section] shall apply to years beginning before, on, or after the date of the enactment of this Act [Dec. 20, 2019].”
+
 #### Effective Date of 2008 Amendment
 Amendment by Pub. L. 110–245 applicable with respect to deaths and disabilities occurring on or after Jan. 1, 2007, see section 104(d)(1) of Pub. L. 110–245, set out as a note under [section 401 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-401).
 
@@ -64208,6 +65343,9 @@ Pub. L. 85–866, § 23(g), Sept. 2, 1958, 72 Stat. 1623, provided that: “The 
 
 #### Regulations
 Secretary of the Treasury or his delegate to issue before Feb. 1, 1988, final regulations to carry out amendments made by section 1120 of Pub. L. 99–514, see section 1141 of Pub. L. 99–514, set out as a note under [section 401 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-401).
+
+#### Treatment of Custodial Accounts on Termination of Section 403(b) Plans
+Pub. L. 116–94, div. O, title I, § 110, Dec. 20, 2019, 133 Stat. 3152, provided that: “Not later than six months after the date of enactment of this Act [Dec. 20, 2019], the Secretary of the Treasury shall issue guidance to provide that, if an employer terminates the plan under which amounts are contributed to a custodial account under subparagraph (A) of section 403(b)(7), the plan administrator or custodian may distribute an individual custodial account in kind to a participant or beneficiary of the plan and the distributed custodial account shall be maintained by the custodian on a tax-deferred basis as a section 403(b)(7) custodial account, similar to the treatment of fully-paid individual annuity contracts under Revenue Ruling 2011–7, until amounts are actually paid to the participant or beneficiary. The guidance shall provide further (i) that the section 403(b)(7) status of the distributed custodial account is generally maintained if the custodial account thereafter adheres to the requirements of section 403(b) that are in effect at the time of the distribution of the account and (ii) that a custodial account would not be considered distributed to the participant or beneficiary if the employer has any material retained rights under the account (but the employer would not be treated as retaining material rights simply because the custodial account was originally opened under a group contract). Such guidance shall be retroactively effective for taxable years beginning after December 31, 2008.”
 
 #### Election To Modify Section 403(b) Exclusion Allowance To Conform to Section 415 Modification
 Pub. L. 107–16, title VI, § 632(b)(3), June 7, 2001, 115 Stat. 115, provided that: “In the case of taxable years beginning after December 31, 1999, and before January 1, 2002, a plan may disregard the requirement in the regulations regarding the exclusion allowance under section 403(b)(2) of the Internal Revenue Code of 1986 that contributions to a defined benefit pension plan be treated as previously excluded amounts for purposes of the exclusion allowance.”
@@ -64891,7 +66029,7 @@ Subsecs. (e), (f). Pub. L. 87–792, § 3(b), added subsecs. (e) and (f).
 Amendment by Pub. L. 113–97 applicable to years beginning after Dec. 31, 2013, see section 3 of Pub. L. 113–97, set out as a note under [section 401 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-401).
 
 #### Effective Date of 2012 Amendment
-Pub. L. 112–141, div. D, title II, § 40211(c), July 6, 2012, 126 Stat. 850, provided that: “(1) In general.—The amendments made by this section [amending this section, sections 417, 420 and 430 of this title, and sections 1021, 1055, 1083, 1306, and 1310 of Title 29, Labor, and enacting provisons set out as a note under [section 1021 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1021&num=0&edition=prelim)] shall apply with respect to plan years beginning after December 31, 2011. “(2) Rules with respect to elections.—“(A) Adjusted funding target attainment percentage.—A plan sponsor may elect not to have the amendments made by this section apply to any plan year beginning before January 1, 2013, either (as specified in the election)—“(i) for all purposes for which such amendments apply, or “(ii) solely for purposes of determining the adjusted funding target attainment percentage under sections 436 of the Internal Revenue Code of 1986 and 206(g) of the Employee Retirement Income Security Act of 1974 [[29 U.S.C. 1056(g)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1056/g&num=0&edition=prelim)] for such plan year. A plan shall not be treated as failing to meet the requirements of sections 204(g) of such Act [[29 U.S.C. 1054(g)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1054/g&num=0&edition=prelim)] and 411(d)(6) of such Code solely by reason of an election under this paragraph. “(B) Opt out of existing elections.—If, on the date of the enactment of this Act [July 6, 2012], an election is in effect with respect to any plan under sections 303(h)((2)(D)(ii) [sic] of the Employee Retirement Income Security Act of 1974 [[29 U.S.C. 1083(h)(2)(D)(ii)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1083/h/2/D/ii&num=0&edition=prelim)] and 430(h)((2)(D)(ii) [sic] of the Internal Revenue Code of 1986, then, notwithstanding the last sentence of each such section, the plan sponsor may revoke such election without the consent of the Secretary of the Treasury. The plan sponsor may make such revocation at any time before the date which is 1 year after such date of enactment and such revocation shall be effective for the 1st plan year to which the amendments made by this section apply and all subsequent plan years. Nothing in this subparagraph shall preclude a plan sponsor from making a subsequent election in accordance with such sections.”
+Pub. L. 112–141, div. D, title II, § 40211(c), July 6, 2012, 126 Stat. 850, provided that: “(1) In general.—The amendments made by this section [amending this section, sections 417, 420 and 430 of this title, and sections 1021, 1055, 1083, 1306, and 1310 of Title 29, Labor, and enacting provisions set out as a note under [section 1021 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1021&num=0&edition=prelim)] shall apply with respect to plan years beginning after December 31, 2011. “(2) Rules with respect to elections.—“(A) Adjusted funding target attainment percentage.—A plan sponsor may elect not to have the amendments made by this section apply to any plan year beginning before January 1, 2013, either (as specified in the election)—“(i) for all purposes for which such amendments apply, or “(ii) solely for purposes of determining the adjusted funding target attainment percentage under sections 436 of the Internal Revenue Code of 1986 and 206(g) of the Employee Retirement Income Security Act of 1974 [[29 U.S.C. 1056(g)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1056/g&num=0&edition=prelim)] for such plan year. A plan shall not be treated as failing to meet the requirements of sections 204(g) of such Act [[29 U.S.C. 1054(g)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1054/g&num=0&edition=prelim)] and 411(d)(6) of such Code solely by reason of an election under this paragraph. “(B) Opt out of existing elections.—If, on the date of the enactment of this Act [July 6, 2012], an election is in effect with respect to any plan under sections 303(h)((2)(D)(ii) [sic] of the Employee Retirement Income Security Act of 1974 [[29 U.S.C. 1083(h)(2)(D)(ii)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1083/h/2/D/ii&num=0&edition=prelim)] and 430(h)((2)(D)(ii) [sic] of the Internal Revenue Code of 1986, then, notwithstanding the last sentence of each such section, the plan sponsor may revoke such election without the consent of the Secretary of the Treasury. The plan sponsor may make such revocation at any time before the date which is 1 year after such date of enactment and such revocation shall be effective for the 1st plan year to which the amendments made by this section apply and all subsequent plan years. Nothing in this subparagraph shall preclude a plan sponsor from making a subsequent election in accordance with such sections.”
 
 #### Effective Date of 2008 Amendment
 Amendment by Pub. L. 110–458 effective as if included in the provisions of Pub. L. 109–280 to which the amendment relates, except as otherwise provided, see section 112 of Pub. L. 110–458, set out as a note under [section 72 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-72).
@@ -65623,13 +66761,15 @@ For provisions directing that if any amendments made by subtitle A or subtitle C
 (3) Under regulations prescribed by the Secretary, rules similar to the rules of section 401(a)(9) and the incidental death benefit requirements of section 401(a) shall apply to the distribution of the entire interest of the owner.
 
 (4) The entire interest of the owner is nonforfeitable.
-Such term does not include such an annuity contract for any taxable year of the owner in which it is disqualified on the application of subsection (e) or for any subsequent taxable year. For purposes of this subsection, no contract shall be treated as an endowment contract if it matures later than the taxable year in which the individual in whose name such contract is purchased attains age 70½; if it is not for the exclusive benefit of the individual in whose name it is purchased or his beneficiaries; or if the aggregate annual premiums under all such contracts purchased in the name of such individual for any taxable year exceed the dollar amount in effect under section 219(b)(1)(A).
+Such term does not include such an annuity contract for any taxable year of the owner in which it is disqualified on the application of subsection (e) or for any subsequent taxable year. For purposes of this subsection, no contract shall be treated as an endowment contract if it matures later than the taxable year in which the individual in whose name such contract is purchased attains age 72; if it is not for the exclusive benefit of the individual in whose name it is purchased or his beneficiaries; or if the aggregate annual premiums under all such contracts purchased in the name of such individual for any taxable year exceed the dollar amount in effect under section 219(b)(1)(A).
 
 **(c) Accounts established by employers and certain associations of employees** A trust created or organized in the United States by an employer for the exclusive benefit of his employees or their beneficiaries, or by an association of employees (which may include employees within the meaning of section 401(c)(1)) for the exclusive benefit of its members or their beneficiaries, shall be treated as an individual retirement account (described in subsection (a)), but only if the written governing instrument creating the trust meets the following requirements:
 
 (1) The trust satisfies the requirements of paragraphs (1) through (6) of subsection (a).
 
 (2) There is a separate accounting for the interest of each employee or member (or spouse of an employee or member).
+
+(3) There is a separate accounting for any interest of an employee or member (or spouse of an employee or member) in a Roth IRA.
 The assets of the trust may be held in a common fund for the account of all individuals who have an interest in the trust.
 
 **(d) Tax treatment of distributions**
@@ -65737,7 +66877,11 @@ The assets of the trust may be held in a common fund for the account of all indi
 
 (8) **Distributions for charitable purposes**
 
-  (A) *In general* — So much of the aggregate amount of qualified charitable distributions with respect to a taxpayer made during any taxable year which does not exceed $100,000 shall not be includible in gross income of such taxpayer for such taxable year.
+  (A) *In general* — So much of the aggregate amount of qualified charitable distributions with respect to a taxpayer made during any taxable year which does not exceed $100,000 shall not be includible in gross income of such taxpayer for such taxable year. The amount of distributions not includible in gross income by reason of the preceding sentence for a taxable year (determined without regard to this sentence) shall be reduced (but not below zero) by an amount equal to the excess of—
+
+    (i) the aggregate amount of deductions allowed to the taxpayer under section 219 for all taxable years ending on or after the date the taxpayer attains age 70½, over
+
+    (ii) the aggregate amount of reductions under this sentence for all taxable years preceding the current taxable year.
 
   (B) *Qualified charitable distribution* — For purposes of this paragraph, the term “qualified charitable distribution” means any distribution from an individual retirement plan (other than a plan described in subsection (k) or (p))—
 
@@ -66052,6 +67196,13 @@ In the case of a simple retirement account under subsection (p), only one report
 
   (C) *Penalty for reporting contributions not made* — For penalty where individual reports designated nondeductible contributions not made, see section 6693(b).
 
+(5) **Special rule for difficulty of care payments excluded from gross income** — In the case of an individual who for a taxable year excludes from gross income under section 131 a qualified foster care payment which is a difficulty of care payment, if—
+
+  (A) the deductible amount in effect for the taxable year under subsection (b), exceeds
+
+  (B) the amount of compensation includible in the individual’s gross income for the taxable year,
+  the individual may elect to increase the nondeductible limit under paragraph (2) for the taxable year by an amount equal to the lesser of such excess or the amount so excluded.
+
 **(p) Simple retirement accounts**
 
 (1) **In general** — For purposes of this title, the term “simple retirement account” means an individual retirement plan (as defined in section 7701(a)(37))—
@@ -66207,6 +67358,14 @@ For inflation adjustment of certain items in this section, see Internal Revenue 
 Paragraph (6) or (7) of section 101 of the Federal Credit Union Act, referred to in subsec. (n)(2), is classified to section 1752(6), (7) of Title 12, Banks and Banking.
 
 #### Amendments
+2019—Subsec. (b). Pub. L. 116–94, § 114(c), substituted “age 72” for “age 70½” in concluding provisions.
+
+Subsec. (c)(3). Pub. L. 116–94, § 101(a)(3), added par. (3).
+
+Subsec. (d)(8)(A). Pub. L. 116–94, § 107(b), inserted at end “The amount of distributions not includible in gross income by reason of the preceding sentence for a taxable year (determined without regard to this sentence) shall be reduced (but not below zero) by an amount equal to the excess of—” and added cls. (i) and (ii).
+
+Subsec. (o)(5). Pub. L. 116–94, § 116(a)(1), added par. (5).
+
 2018—Subsec. (a)(1). Pub. L. 115–141, § 401(a)(75), inserted “or” after “subsection (d)(3)”.
 
 Subsec. (m)(3)(B). Pub. L. 115–141, § 401(a)(76), substituted “section 5” for “section 7”.
@@ -66591,6 +67750,15 @@ Subsec. (d)(4). Pub. L. 94–455, § 1501(b)(5), as amended by Pub. L. 95–600,
 
 Subsecs. (h), (i). Pub. L. 94–455, § 1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
 
+#### Effective Date of 2019 Amendment
+Pub. L. 116–94, div. O, title I, § 101(e), Dec. 20, 2019, 133 Stat. 3145, provided that: “(1) In general.—The amendments made by this section [amending this section, [section 413 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-413), and sections 1002, 1023, 1024, and 1112 of Title 29, Labor] shall apply to plan years beginning after December 31, 2020. “(2) Rule of construction.—Nothing in the amendments made by subsection (a) [amending this section and [section 413 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-413)] shall be construed as limiting the authority of the Secretary of the Treasury or the Secretary’s delegate (determined without regard to such amendment) to provide for the proper treatment of a failure to meet any requirement applicable under the Internal Revenue Code of 1986 with respect to one employer (and its employees) in a multiple employer plan.”
+
+Amendment by section 107(b) of Pub. L. 116–94 applicable to distributions made for taxable years beginning after Dec. 31, 2019, see section 107(d)(2) of Pub. L. 116–94, set out in a note under [section 219 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-219).
+
+Amendment by section 114(c) of Pub. L. 116–94 applicable to distributions required to be made after Dec. 31, 2019, with respect to individuals who attain age 70½ after such date, see section 114(d) of Pub. L. 116–94, set out as a note under [section 401 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-401).
+
+Pub. L. 116–94, div. O, title I, § 116(a)(2), Dec. 20, 2019, 133 Stat. 3161, provided that: “The amendments made by this subsection [amending this section] shall apply to contributions after the date of the enactment of this Act [Dec. 20, 2019].”
+
 #### Effective Date of 2017 Amendment
 Amendment by Pub. L. 115–97 applicable to any divorce or separation instrument (as defined in former [section 71(b)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section71/b/2&num=0&edition=prelim) as in effect before Dec. 22, 2017) executed after Dec. 31, 2018, and to such instruments executed on or before Dec. 31, 2018, and modified after Dec. 31, 2018, if the modification expressly provides that the amendment made by section 11051 of Pub. L. 115–97 applies to such modification, see section 11051(c) of Pub. L. 115–97, set out as a note under [section 61 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-61).
 
@@ -66801,7 +67969,7 @@ Pub. L. 95–600, title I, § 157(d)(3), Nov. 6, 1978, 92 Stat. 2806, as amended
 
 (2) **Contribution limit** — The aggregate amount of contributions for any taxable year to all Roth IRAs maintained for the benefit of an individual shall not exceed the excess (if any) of—
 
-  (A) the maximum amount allowable as a deduction under section 219 with respect to such individual for such taxable year (computed without regard to subsection (d)(1) or (g) of such section), over
+  (A) the maximum amount allowable as a deduction under section 219 with respect to such individual for such taxable year (computed without regard to subsection (d)(1) 11 See References in Text note below. or (g) of such section), over
 
   (B) the aggregate amount of contributions for such taxable year to all other individual retirement plans (other than Roth IRAs) maintained for the benefit of the individual.
 
@@ -66839,21 +68007,19 @@ Pub. L. 95–600, title I, § 157(d)(3), Nov. 6, 1978, 92 Stat. 2806, as amended
     (ii) the cost-of-living adjustment determined under section 1(f)(3) for the calendar year in which the taxable year begins, determined by substituting “calendar year 2005” for “calendar year 2016” in subparagraph (A)(ii) thereof.
     Any increase determined under the preceding sentence shall be rounded to the nearest multiple of $1,000.
 
-(4) **Contributions permitted after age 70½** — Contributions to a Roth IRA may be made even after the individual for whom the account is maintained has attained age 70½.
-
-(5) **Mandatory distribution rules not to apply before death** — Notwithstanding subsections (a)(6) and (b)(3) of section 408 (relating to required distributions), the following provisions shall not apply to any Roth IRA:
+(4) **Mandatory distribution rules not to apply before death** — Notwithstanding subsections (a)(6) and (b)(3) of section 408 (relating to required distributions), the following provisions shall not apply to any Roth IRA:
 
   (A) Section 401(a)(9)(A).
 
   (B) The incidental death benefit requirements of section 401(a).
 
-(6) **Rollover contributions**
+(5) **Rollover contributions**
 
   (A) *In general* — No rollover contribution may be made to a Roth IRA unless it is a qualified rollover contribution.
 
   (B) *Coordination with limit* — A qualified rollover contribution shall not be taken into account for purposes of paragraph (2).
 
-(7) **Time when contributions made** — For purposes of this section, the rule of section 219(f)(3) shall apply.
+(6) **Time when contributions made** — For purposes of this section, the rule of section 219(f)(3) shall apply.
 
 **(d) Distribution rules** For purposes of this title—
 
@@ -66984,7 +68150,12 @@ Pub. L. 95–600, title I, § 157(d)(3), Nov. 6, 1978, 92 Stat. 2806, as amended
 #### Inflation Adjusted Items for Certain Years
 For inflation adjustment of certain items in this section, see Revenue Procedures listed in a table under [section 1 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-1) and Internal Revenue Notices listed in a table under [section 401 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-401).
 
+#### References in Text
+Subsection (d)(1) of such section, referred to in subsec. (c)(2)(A), means [section 219(d)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section219/d/1&num=0&edition=prelim), which was repealed by Pub. L. 116–94, div. O, title I, § 107(a), Dec. 20, 2019, 133 Stat. 3148.
+
 #### Amendments
+2019—Subsec. (c)(4) to (7). Pub. L. 116–94 redesignated pars. (5) to (7) as (4) to (6), respectively, and struck out former par. (4). Prior to amendment, text of par. (4) read as follows: “Contributions to a Roth IRA may be made even after the individual for whom the account is maintained has attained age 70½.”
+
 2018—Subsec. (d)(3)(B). Pub. L. 115–141, § 401(a)(77), inserted period at end.
 
 Subsec. (e)(2)(B). Pub. L. 115–141, § 401(a)(78), substituted “subparagraph (A)” for “the subparagraph (A)”.
@@ -67120,6 +68291,9 @@ Subsec. (d)(6). Pub. L. 105–206, § 6005(b)(6)(A), added par. (6).
 Subsec. (d)(7). Pub. L. 105–206, § 6005(b)(7), added par. (7).
 
 Subsec. (f). Pub. L. 105–206, § 6005(b)(9), added subsec. (f).
+
+#### Effective Date of 2019 Amendment
+Amendment by Pub. L. 116–94 applicable to contributions made for taxable years beginning after Dec. 31, 2019, see section 107(d)(1) of div. O of Pub. L. 116–94, set out in a note under [section 219 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-219).
 
 #### Effective Date of 2017 Amendment
 Amendment by section 11002(d)(1)(W) of Pub. L. 115–97 applicable to taxable years beginning after Dec. 31, 2017, see section 11002(e) of Pub. L. 115–97, set out as a note under [section 1 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-1).
@@ -69056,6 +70230,9 @@ For provisions that nothing in amendment by Pub. L. 115–141 be construed to af
 #### Construction of 2006 Amendment
 Pub. L. 109–280, title VII, § 701(d), Aug. 17, 2006, 120 Stat. 991, as amended by Pub. L. 110–458, title I, § 107(c)(1), Dec. 23, 2008, 122 Stat. 5107, provided that: “Nothing in the amendments made by this section [amending this section and sections 623, 1053, and 1054 of Title 29, Labor] shall be construed to create an inference with respect to—“(1) the treatment of applicable defined benefit plans or conversions to applicable defined benefit plans under sections 204(b)(1)(H) of the Employee Retirement Income Security Act of 1974 [[29 U.S.C. 1054(b)(1)(H)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1054/b/1/H&num=0&edition=prelim)], 4(i)(1) of the Age Discrimination in Employment Act of 1967 [[29 U.S.C. 623(i)(1)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section623/i/1&num=0&edition=prelim)], and 411(b)(1)(H) of the Internal Revenue Code of 1986, as in effect before such amendments, or “(2) the determination of whether an applicable defined benefit plan fails to meet the requirements of sections 203(a)(2), 204(c), or 205(g) of the Employee Retirement Income Security Act of 1974 [[29 U.S.C. 1053(a)(2)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1053/a/2&num=0&edition=prelim), 1054(c), 1055(g)] or sections 411(a)(2), 411(c), or 417(e) of such Code, as in effect before such amendments, solely because the present value of the accrued benefit (or any portion thereof) of any participant is, under the terms of the plan, equal to the amount expressed as the balance in a hypothetical account or as an accumulated percentage of the participant’s final average compensation. For purposes of this subsection, the term ‘applicable defined benefit plan’ has the meaning given such term by section 203(f)(3) of the Employee Retirement Income Security Act of 1974 [[29 U.S.C. 1053(f)(3)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1053/f/3&num=0&edition=prelim)] and section 411(a)(13)(C) of such Code, as in effect after such amendments.”
 
+#### Temporary Rule Preventing Partial Plan Termination
+Pub. L. 116–260, div. EE, title II, § 209, Dec. 27, 2020, 134 Stat. 3066, provided that: “A plan shall not be treated as having a partial termination (within the meaning of 411(d)(3) of the Internal Revenue Code of 1986) during any plan year which includes the period beginning on March 13, 2020, and ending on March 31, 2021, if the number of active participants covered by the plan on March 31, 2021 is at least 80 percent of the number of active participants covered by the plan on March 13, 2020.”
+
 #### Applicability of Amendments by Subtitles A and B of Title I of Pub. L. 109–280
 For special rules on applicability of amendments by subtitles A (§§ 101–108) and B (§§ 111–116) of title I of Pub. L. 109–280 to certain eligible cooperative plans, PBGC settlement plans, and eligible government contractor plans, see sections 104, 105, and 106 of Pub. L. 109–280, set out as notes under [section 401 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-401).
 
@@ -69693,7 +70870,7 @@ Pub. L. 93–406, title II, § 1013(d), Sept. 2, 1974, 88 Stat. 923, as amended 
 
 (1) **Participation** — Section 410(a) shall be applied as if all employees of each of the employers who maintain the plan were employed by a single employer.
 
-(2) **Exclusive benefit** — For purposes of section 401(a), in determining whether the plan of an employer is for the exclusive benefit of his employees and their beneficiaries all plan participants shall be considered to be his employees.
+(2) **Exclusive benefit** — For purposes of sections 401(a) and 408(c), in determining whether the plan of an employer is for the exclusive benefit of his employees and their beneficiaries all plan participants shall be considered to be his employees.
 
 (3) **Vesting** — Section 411 shall be applied as if all employers who maintain the plan constituted a single employer, except that the application of any rules with respect to breaks in service shall be made under regulations prescribed by the Secretary of Labor.
 
@@ -69735,14 +70912,74 @@ Pub. L. 93–406, title II, § 1013(d), Sept. 2, 1974, 88 Stat. 923, as amended 
 
 (4) **Allocations** — Allocations of amounts under paragraph (3) and subsection (c)(5) among the employers maintaining the plan shall not be inconsistent with the regulations prescribed for this purpose by the Secretary.
 
+**(e) Application of qualification requirements for certain multiple employer plans with pooled plan providers**
+
+(1) **In general** — Except as provided in paragraph (2), if a defined contribution plan to which subsection (c) applies—
+
+  (A) is maintained by employers which have a common interest other than having adopted the plan, or
+
+  (B) in the case of a plan not described in subparagraph (A), has a pooled plan provider,
+  then the plan shall not be treated as failing to meet the requirements under this title applicable to a plan described in section 401(a) or to a plan that consists of individual retirement accounts described in section 408 (including by reason of subsection (c) thereof), whichever is applicable, merely because one or more employers of employees covered by the plan fail to take such actions as are required of such employers for the plan to meet such requirements.
+
+(2) **Limitations**
+
+  (A) *In general* — Paragraph (1) shall not apply to any plan unless the terms of the plan provide that in the case of any employer in the plan failing to take the actions described in paragraph (1)—
+
+    (i) the assets of the plan attributable to employees of such employer (or beneficiaries of such employees) will be transferred to a plan maintained only by such employer (or its successor), to an eligible retirement plan as defined in section 402(c)(8)(B) for each individual whose account is transferred, or to any other arrangement that the Secretary determines is appropriate, unless the Secretary determines it is in the best interests of the employees of such employer (and the beneficiaries of such employees) to retain the assets in the plan, and
+
+    (ii) such employer (and not the plan with respect to which the failure occurred or any other employer in such plan) shall, except to the extent provided by the Secretary, be liable for any liabilities with respect to such plan attributable to employees of such employer (or beneficiaries of such employees).
+
+  (B) *Failures by pooled plan providers* — If the pooled plan provider of a plan described in paragraph (1)(B) does not perform substantially all of the administrative duties which are required of the provider under paragraph (3)(A)(i) for any plan year, the Secretary may provide that the determination as to whether the plan meets the requirements under this title applicable to a plan described in section 401(a) or to a plan that consists of individual retirement accounts described in section 408 (including by reason of subsection (c) thereof), whichever is applicable, shall be made in the same manner as would be made without regard to paragraph (1).
+
+(3) **Pooled plan provider**
+
+  (A) *In general* — For purposes of this subsection, the term “pooled plan provider” means, with respect to any plan, a person who—
+
+    (i) is designated by the terms of the plan as a named fiduciary (within the meaning of section 402(a)(2) of the Employee Retirement Income Security Act of 1974), as the plan administrator, and as the person responsible to perform all administrative duties (including conducting proper testing with respect to the plan and the employees of each employer in the plan) which are reasonably necessary to ensure that—
+
+      (I) the plan meets any requirement applicable under the Employee Retirement Income Security Act of 1974 or this title to a plan described in section 401(a) or to a plan that consists of individual retirement accounts described in section 408 (including by reason of subsection (c) thereof), whichever is applicable, and
+
+      (II) each employer in the plan takes such actions as the Secretary or such person determines are necessary for the plan to meet the requirements described in subclause (I), including providing to such person any disclosures or other information which the Secretary may require or which such person otherwise determines are necessary to administer the plan or to allow the plan to meet such requirements,
+
+    (ii) registers as a pooled plan provider with the Secretary, and provides such other information to the Secretary as the Secretary may require, before beginning operations as a pooled plan provider,
+
+    (iii) acknowledges in writing that such person is a named fiduciary (within the meaning of section 402(a)(2) of the Employee Retirement Income Security Act of 1974), and the plan administrator, with respect to the plan, and
+
+    (iv) is responsible for ensuring that all persons who handle assets of, or who are fiduciaries of, the plan are bonded in accordance with section 412 of the Employee Retirement Income Security Act of 1974.
+
+  (B) *Audits, examinations and investigations* — The Secretary may perform audits, examinations, and investigations of pooled plan providers as may be necessary to enforce and carry out the purposes of this subsection.
+
+  (C) *Aggregation rules* — For purposes of this paragraph, in determining whether a person meets the requirements of this paragraph to be a pooled plan provider with respect to any plan, all persons who perform services for the plan and who are treated as a single employer under subsection (b), (c), (m), or (o) of section 414 shall be treated as one person.
+
+  (D) *Treatment of employers as plan sponsors* — Except with respect to the administrative duties of the pooled plan provider described in subparagraph (A)(i), each employer in a plan which has a pooled plan provider shall be treated as the plan sponsor with respect to the portion of the plan attributable to employees of such employer (or beneficiaries of such employees).
+
+(4) **Guidance**
+
+  (A) *In general* — The Secretary shall issue such guidance as the Secretary determines appropriate to carry out this subsection, including guidance—
+
+    (i) to identify the administrative duties and other actions required to be performed by a pooled plan provider under this subsection,
+
+    (ii) which describes the procedures to be taken to terminate a plan which fails to meet the requirements to be a plan described in paragraph (1), including the proper treatment of, and actions needed to be taken by, any employer in the plan and the assets and liabilities of the plan attributable to employees of such employer (or beneficiaries of such employees), and
+
+    (iii) identifying appropriate cases to which the rules of paragraph (2)(A) will apply to employers in the plan failing to take the actions described in paragraph (1).
+    The Secretary shall take into account under clause (iii) whether the failure of an employer or pooled plan provider to provide any disclosures or other information, or to take any other action, necessary to administer a plan or to allow a plan to meet requirements applicable to the plan under section 401(a) or 408, whichever is applicable, has continued over a period of time that demonstrates a lack of commitment to compliance.
+
+  (B) *Good faith compliance with law before guidance* — An employer or pooled plan provider shall not be treated as failing to meet a requirement of guidance issued by the Secretary under this paragraph if, before the issuance of such guidance, the employer or pooled plan provider complies in good faith with a reasonable interpretation of the provisions of this subsection to which such guidance relates.
+
+(5) **Model plan** — The Secretary shall publish model plan language which meets the requirements of this subsection and of paragraphs (43) and (44) of section 3 of the Employee Retirement Income Security Act of 1974 and which may be adopted in order for a plan to be treated as a plan described in paragraph (1)(B).
+
 ### Statutory Notes
 
 #### References in Text
-The Employee Retirement Income Security Act of 1974, referred to in subsec. (b)(6), is Pub. L. 93–406, Sept. 2, 1974, 88 Stat. 829, as amended. Part 1 of subtitle E of title IV of the Employee Retirement Income Security Act of 1974 is classified generally to part 1 (§ 1381 et seq.) of subtitle E of subchapter III of chapter 18 of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under [section 1001 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1001&num=0&edition=prelim) and Tables.
+The Employee Retirement Income Security Act of 1974, referred to in subsecs. (b)(6) and (e), is Pub. L. 93–406, Sept. 2, 1974, 88 Stat. 829. Part 1 of subtitle E of title IV of the Employee Retirement Income Security Act of 1974 is classified generally to part 1 (§ 1381 et seq.) of subtitle E of subchapter III of chapter 18 of Title 29, Labor. Sections 3(43), (44), 402(a)(2), and 412 of the Act are classified to sections 1002(43), (44), 1102(a)(2), and 1112, respectively, of Title 29. For complete classification of this Act to the Code, see Short Title note set out under [section 1001 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1001&num=0&edition=prelim) and Tables.
 
 The date of enactment of the Technical and Miscellaneous Revenue Act of 1988, referred to in subsec. (c)(4)(B), is the date of enactment of Pub. L. 100–647, which was approved Nov. 10, 1988.
 
 #### Amendments
+2019—Subsec. (c)(2). Pub. L. 116–94, § 101(a)(2), substituted “sections 401(a) and 408(c)” for “section 401(a)”.
+
+Subsec. (e). Pub. L. 116–94, § 101(a)(1), added subsec. (e).
+
 2018—Subsec. (b)(6). Pub. L. 115–141, § 401(a)(86), substituted “and section 4971(e)” for “and the last sentence of section 4971(a)” in concluding provisions.
 
 2014—Subsec. (d). Pub. L. 113–97 added subsec. (d).
@@ -69762,6 +70999,9 @@ Subsec. (c)(7). Pub. L. 100–647, § 6058(c), added par. (7).
 1980—Subsec. (b)(6). Pub. L. 96–364 inserted provisions relating to withdrawal liability of employer.
 
 1976—Subsecs. (b), (c). Pub. L. 94–455 struck out “or his delegate” after “Secretary”.
+
+#### Effective Date of 2019 Amendment; Construction
+Amendment by Pub. L. 116–94 applicable to plan years beginning after Dec. 31, 2020, and not to be construed as limiting the authority of the Secretary of the Treasury or the Secretary’s delegate to provide for the proper treatment of a failure to meet any requirement applicable under the Internal Revenue Code of 1986 with respect to one employer (and its employees) in a multiple employer plan, see section 101(e) of Pub. L. 116–94, set out as an Effective Date of 2019 Amendment note under [section 408 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-408).
 
 #### Effective Date of 2014 Amendment
 Amendment by Pub. L. 113–97 applicable to years beginning after Dec. 31, 2013, see section 3 of Pub. L. 113–97, set out as a note under [section 401 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-401).
@@ -70423,7 +71663,7 @@ The regulations prescribed under subsection (n) shall include provisions to mini
 
   (B) *Special rule for distributions*
 
-    (i) *In general* — Notwithstanding subparagraph (A)(i), for purposes of section 401(k)(2)(B)(i)(I), 403(b)(7)(A)(ii), 403(b)(11)(A), or 457(d)(1)(A)(ii), an individual shall be treated as having been severed from employment during any period the individual is performing service in the uniformed services described in section 3401(h)(2)(A).
+    (i) *In general* — Notwithstanding subparagraph (A)(i), for purposes of section 401(k)(2)(B)(i)(I), 403(b)(7)(A)(ii), 403(b)(11)(A), or 457(d)(1)(A)(ii),22 See References in Text note below. an individual shall be treated as having been severed from employment during any period the individual is performing service in the uniformed services described in section 3401(h)(2)(A).
 
     (ii) *Limitation* — If an individual elects to receive a distribution by reason of clause (i), the plan shall provide that the individual may not make an elective deferral or employee contribution during the 6-month period beginning on the date of the distribution.
 
@@ -70676,7 +71916,7 @@ The regulations prescribed under subsection (n) shall include provisions to mini
 
     (iii) paragraph (3)(B);
 
-  (B) that, as of June 25, 2010, was maintained by more than one employer and all of the employers were organizations described in section 501(c)(3); or
+  (B) that, as of June 25, 2010, was maintained by more than one employer and all of the employers were organizations described in section 501(c)(3);
 
   (C) that, as of June 25, 2010, was maintained by an employer—
 
@@ -70686,7 +71926,17 @@ The regulations prescribed under subsection (n) shall include provisions to mini
 
     (iii) with employees in at least 40 States, and
 
-    (iv) whose primary exempt purpose is to provide services with respect to children.
+    (iv) whose primary exempt purpose is to provide services with respect to children; or
+
+  (D) that, as of January 1, 2000, was maintained by an employer—
+
+    (i) described in section 501(c)(3),
+
+    (ii) who has been in existence since at least 1938,
+
+    (iii) who conducts medical research directly or indirectly through grant making, and
+
+    (iv) whose primary exempt purpose is to provide services with respect to mothers and children.
 
 (2) **Aggregation** — All employers that are treated as a single employer under subsection (b) or (c) shall be treated as a single employer for purposes of determining if a plan was maintained by more than one employer under subparagraphs (B) and (C) of paragraph (1).
 
@@ -70740,9 +71990,13 @@ Effective date of the Multiemployer Pension Plan Amendments Act of 1980, referre
 
 The Pension Protection Act of 2006, referred to in subsecs. (f)(6)(A) and (y)(1)(A), (3)(B), is Pub. L. 109–280, Aug. 17, 2006, 120 Stat. 780. Section 104 of the Act is set out as a note under [section 401 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-401). For complete classification of this Act to the Code, see Short Title of 2006 Amendment note set out under [section 1001 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1001&num=0&edition=prelim), Labor, and Tables.
 
+Section 403(b)(7)(A)(ii), referred to in subsec. (u)(12)(B)(i), probably means [section 403(b)(7)(A)(ii) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section403/b/7/A/ii&num=0&edition=prelim) prior to amendment by Pub. L. 116–94, div. O, title I, § 109(c)(2), Dec. 20, 2019, 133 Stat. 3151.
+
 The Preservation of Access to Care for Medicare Beneficiaries and Pension Relief Act of 2010, referred to in subsec. (y)(1)(A)(ii), (3)(B), is Pub. L. 111–192, June 25, 2010, 124 Stat. 1280. For complete classification of this Act to the Code, see Short Title of 2010 Amendment note set out under [section 1001 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1001&num=0&edition=prelim), Labor, and Tables.
 
 #### Amendments
+2020—Subsec. (y)(1)(D). Pub. L. 116–136 added subpar. (D).
+
 2018—Subsec. (l)(2)(G). Pub. L. 115–141, § 401(a)(87), substituted “depository institutions” for “banks” in heading.
 
 Subsec. (u)(6). Pub. L. 115–141, § 401(a)(88), substituted “section 457(b)))” for “section 457(b))”.
@@ -71123,6 +72377,9 @@ Subsec. (g)(2)(C). Pub. L. 94–455, § 1906(b)(13)(A), struck out “or his del
 
 Subsec. (l). Pub. L. 94–455, § 1901(a)(64)(B), substituted reference to Sept. 2, 1974, for reference to the date of enactment of the Employee Retirement Income Security Act of 1974.
 
+#### Effective Date of 2020 Amendment
+Pub. L. 116–136, div. A, title III, § 3609(c), Mar. 27, 2020, 134 Stat. 414, provided that: “The amendments made by this section [amending this section and [section 1060 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1060&num=0&edition=prelim), Labor] shall apply to plan years beginning after December 31, 2018.”
+
 #### Effective Date of 2015 Amendment
 Pub. L. 114–113, div. Q, title III, § 336(a)(3), Dec. 18, 2015, 129 Stat. 3110, provided that: “The amendments made by paragraph (1) [amending this section] shall apply to years beginning before, on, or after the date of the enactment of this Act [Dec. 18, 2015].”
 
@@ -71278,6 +72535,9 @@ Section applicable, except as otherwise provided in section 1017(c) through (i) 
 Pub. L. 109–280, title X, § 1001, Aug. 17, 2006, 120 Stat. 1052, provided that: “Not later than 1 year after the date of the enactment of this Act [Aug. 17, 2006], the Secretary of Labor shall issue regulations under section 206(d)(3) of the Employee Retirement Security Act of 1974 [[29 U.S.C. 1056(d)(3)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1056/d/3&num=0&edition=prelim)] and section 414(p) of the Internal Revenue Code of 1986 which clarify that— “(1) a domestic relations order otherwise meeting the requirements to be a qualified domestic relations order, including the requirements of section 206(d)(3)(D) of such Act and section 414(p)(3) of such Code, shall not fail to be treated as a qualified domestic relations order solely because—“(A) the order is issued after, or revises, another domestic relations order or qualified domestic relations order; or “(B) of the time at which it is issued; and “(2) any order described in paragraph (1) shall be subject to the same requirements and protections which apply to qualified domestic relations orders, including the provisions of section 206(d)(3)(H) of such Act and section 414(p)(7) of such Code.”
 
 Secretary of the Treasury or his delegate to issue before Feb. 1, 1988, final regulations to carry out amendments made by sections 1114, 1115, and 1117 of Pub. L. 99–514, see section 1141 of Pub. L. 99–514, set out as a note under [section 401 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-401).
+
+#### Provisions Relating to Plan Amendments Pursuant to Pub. L. 116–94
+Pub. L. 116–94, div. O, title VI, § 601, Dec. 20, 2019, 133 Stat. 3181, provided that: “(a) In General.—If this section applies to any retirement plan or contract amendment—“(1) such retirement plan or contract shall be treated as being operated in accordance with the terms of the plan during the period described in subsection (b)(2)(A); and “(2) except as provided by the Secretary of the Treasury (or the Secretary’s delegate), such retirement plan shall not fail to meet the requirements of section 411(d)(6) of the Internal Revenue Code of 1986 and section 204(g) of the Employee Retirement Income Security Act of 1974 [[29 U.S.C. 1054(g)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1054/g&num=0&edition=prelim)] by reason of such amendment. “(b) Amendments to Which Section Applies.—“(1) In general.—This section shall apply to any amendment to any retirement plan or annuity contract which is made—“(A) pursuant to any amendment made by this Act or pursuant to any regulation issued by the Secretary of the Treasury or the Secretary of Labor (or a delegate of either such Secretary) under this Act [div. O of Pub. L. 116–94, see Tables for classification]; and “(B) on or before the last day of the first plan year beginning on or after January 1, 2022, or such later date as the Secretary of the Treasury may prescribe. In the case of a governmental plan (as defined in section 414(d) of the Internal Revenue Code of 1986), or an applicable collectively bargained plan in the case of section 401 (and the amendments made thereby), this paragraph shall be applied by substituting ‘2024’ for ‘2022’. For purposes of the preceding sentence, the term ‘applicable collectively bargained plan’ means a plan maintained pursuant to 1 or more collective bargaining agreements between employee representatives and 1 or more employers ratified before the date of enactment of this Act [Dec. 20, 2019]. “(2) Conditions.—This section shall not apply to any amendment unless—“(A) during the period—“(i) beginning on the date the legislative or regulatory amendment described in paragraph (1)(A) takes effect (or in the case of a plan or contract amendment not required by such legislative or regulatory amendment, the effective date specified by the plan); and “(ii) ending on the date described in paragraph (1)(B) (as modified by the second sentence of paragraph (1)) (or, if earlier, the date the plan or contract amendment is adopted), the plan or contract is operated as if such plan or contract amendment were in effect; and “(B) such plan or contract amendment applies retroactively for such period.”
 
 #### Provisions Relating to Plan Amendments Pursuant to Pub. L. 110–245
 Pub. L. 110–245, title I, § 105(c), June 17, 2008, 122 Stat. 1629, provided that: “(1) In general.—If this subsection applies to any plan or annuity contract amendment, such plan or contract shall be treated as being operated in accordance with the terms of the plan or contract during the period described in paragraph (2)(B)(i). “(2) Amendments to which section applies.—“(A) In general.—This subsection shall apply to any amendment to any plan or annuity contract which is made—“(i) pursuant to any amendment made by subsection (b)(1) [amending this section], and “(ii) on or before the last day of the first plan year beginning on or after January 1, 2010. In the case of a governmental plan (as defined in section 414(d) of the Internal Revenue Code of 1986), this subparagraph shall be applied by substituting ‘2012’ for ‘2010’ in clause (ii). “(B) Conditions.—This subsection shall not apply to any plan or annuity contract amendment unless—“(i) during the period beginning on the date the amendment described in subparagraph (A)(i) takes effect and ending on the date described in subparagraph (A)(ii) (or, if earlier, the date the plan or contract amendment is adopted), the plan or contract is operated as if such plan or contract amendment were in effect, and “(ii) such plan or contract amendment applies retroactively for such period.”
@@ -71544,6 +72804,16 @@ For provisions directing that if any amendments made by subtitle A or subtitle C
 
   (E) *Church, convention or association of churches* — For purposes of this paragraph, the terms “church” and “convention or association of churches” have the same meaning as when used in section 414(e).
 
+(8) **Special rule for difficulty of care payments excluded from gross income**
+
+  (A) *In general* — For purposes of paragraph (1)(B), in the case of an individual who for a taxable year excludes from gross income under section 131 a qualified foster care payment which is a difficulty of care payment, the participant’s compensation, or earned income, as the case may be, shall be increased by the amount so excluded.
+
+  (B) *Contributions allocable to difficulty of care payments treated as after-tax* — Any contribution by the participant which is allowable due to such increase—
+
+    (i) shall be treated for purposes of this title as investment in the contract, and
+
+    (ii) shall not cause a plan (and any arrangement which is part of such plan) to be treated as failing to meet any requirements of this chapter solely by reason of allowing any such contributions.
+
 **(d) Cost-of-living adjustments**
 
 (1) **In general** — The Secretary shall adjust annually—
@@ -71739,6 +73009,8 @@ The Social Security Act, referred to in subsecs. (b)(8) and (d)(2)(B), is act Au
 The date of the enactment of this clause, referred to in subsec. (b)(10)(C)(ii), is the date of enactment of Pub. L. 104–188, which was approved Aug. 20, 1996.
 
 #### Amendments
+2019—Subsec. (c)(8). Pub. L. 116–94 added par. (8).
+
 2018—Subsec. (g). Pub. L. 115–141 substituted “subsection (f)(2)” for “subsection (f)(3)”.
 
 2008—Subsec. (b)(2)(E)(v). Pub. L. 110–458, § 103(b)(2)(B)(i), amended cl. (v) generally. Prior to amendment, cl. (v) read as follows: “For purposes of adjusting any benefit or limitation under subparagraph (B), (C), or (D), the mortality table used shall be the table prescribed by the Secretary. Such table shall be based on the prevailing commissioners’ standard table (described in section 807(d)(5)(A)) used to determine reserves for group annuity contracts issued on the date the adjustment is being made (without regard to any other subparagraph of section 807(d)(5)).”
@@ -72122,6 +73394,9 @@ Subsec. (e)(3)(B). Pub. L. 94–455, § 803(f)(2), substituted “with the emplo
 Subsec. (e)(5). Pub. L. 94–455, § 803(b)(4), substituted “For purposes of this section” for “For purposes of this subsection”.
 
 Subsecs. (g), (i), (j). Pub. L. 94–455, § 1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
+
+#### Effective Date of 2019 Amendment
+Pub. L. 116–94, div. O, title I, § 116(b)(2), Dec. 20, 2019, 133 Stat. 3161, provided that: “The amendment made by this subsection [amending this section] shall apply to plan years beginning after December 31, 2015.”
 
 #### Effective Date of 2008 Amendment
 Pub. L. 110–458, title I, § 103(b)(2)(B)(ii), Dec. 23, 2008, 122 Stat. 5103, provided that: “(I) Except as provided in subclause (II), the amendment made by clause (i) [amending this section] shall apply to years beginning after December 31, 2008. “(II) A plan sponsor may elect to have the amendment made by clause (i) apply to any year beginning after December 31, 2007, and before January 1, 2009, or to any portion of any such year.”
@@ -73766,6 +75041,26 @@ Pub. L. 99–514, title XVIII, § 1851(a)(3)(B), Oct. 22, 1986, 100 Stat. 2859, 
 
   (E) *Collectively bargained plan* — The term “collectively bargained plan” means a group health plan or arrangement for retired employees and their spouses and dependents, or a group-term life insurance plan or arrangement for retired employees, that is maintained pursuant to 1 or more collective bargaining agreements.
 
+(7) **Election to end transfer period**
+
+  (A) *In general* — In the case of an employer maintaining a plan which has made a qualified future transfer under this subsection, such employer may, not later than December 31, 2021, elect to terminate the transfer period with respect to such transfer effective as of any taxable year specified by the taxpayer that begins after the date of such election.
+
+  (B) *Amounts transferred to plan on termination* — Any assets transferred to a health benefits account, or an applicable life insurance account, in a qualified future transfer (and any income allocable thereto) which are not used as of the effective date of the election to terminate the transfer period with respect to such transfer under subparagraph (A), shall be transferred out of the account to the transferor plan within a reasonable period of time. The transfer required by this subparagraph shall be treated as an employer reversion for purposes of section 4980 (other than subsection (d) thereof), unless before the end of the 5-year period beginning after the original transfer period an equivalent amount is transferred back to such health benefits account, or applicable life insurance account, as the case may be. Any such transfer back pursuant to the preceding sentence may be made without regard to section 401(h)(1).
+
+  (C) *Minimum cost requirements continue* — The requirements of subsection (c)(3) and paragraph (2)(D) shall apply with respect to a qualified future transfer without regard to any election under subparagraph (A) with respect to such transfer.
+
+  (D) *Modified maintenance of funded status during original transfer period* — The requirements of paragraph (2)(B) shall apply without regard to any such election, and clause (i) thereof shall be applied by substituting “100 percent” for “120 percent” during the original transfer period.
+
+  (E) *Continued maintenance of funding status after original transfer period*
+
+    (i) *In general* — In the case of a plan with respect to which there is an excess described in paragraph (2)(B)(ii) as of the valuation date of the plan year in the last year of the original transfer period, paragraph (2)(B) shall apply for 5 years after the original transfer period in the same manner as during a transfer period by substituting the applicable percentage for “120 percent” in clause (i) thereof.
+
+    (ii) *Applicable percentage* — For purposes of this subparagraph, the applicable percentage shall be determined under the following table: For the valuation date of the plan year in the following year after the original transfer period:The applicable percentage is: 1st104 percent 2nd108 percent 3rd112 percent 4th116 percent 5th120 percent
+
+    (iii) *Early termination of continued maintenance period when 120 percent funding reached* — If, as of the valuation date of any plan year in the first 4 years after the original transfer period with respect to a qualified future transfer, there would be no excess determined under this subparagraph were the applicable percentage 120 percent, then this subparagraph shall cease to apply with respect to the plan.
+
+  (F) *Original transfer period* — For purposes of this paragraph, the term “original transfer period” means the transfer period under this subsection with respect to a qualified future transfer determined without regard to the election under subparagraph (A).
+
 **(g) Segment rates determined without pension stabilization** For purposes of this section, section 430 shall be applied without regard to subsection (h)(2)(C)(iv) thereof.
 
 ### Statutory Notes
@@ -73778,6 +75073,8 @@ The Employee Retirement Income Security Act of 1974, referred to in subsec. (f)(
 Subsection (c)(3) as in effect before the amendments made by section 535 of the Tax Relief Extension Act of 1999, referred to in subsec. (f)(2)(D)(ii), is subsec. (c)(3) of this section prior to its general amendment by section 535(b)(1) of Pub. L. 106–170.
 
 #### Amendments
+2020—Subsec. (f)(7). Pub. L. 116–260 added par. (7).
+
 2018—Subsec. (c)(1)(A). Pub. L. 115–141 substituted “subsection (e)(1)(E)” for “subsection (e)(1)(D)”.
 
 2015—Subsec. (b)(4). Pub. L. 114–41 substituted “December 31, 2025” for “December 31, 2021”.
@@ -73959,6 +75256,9 @@ Subsec. (c)(3). Pub. L. 103–465, § 731(b), amended par. (3) generally, substi
 Subsec. (e)(1)(B). Pub. L. 103–465, § 731(c)(2), reenacted subpar. (B) heading without change and amended text generally. Prior to amendment, text read as follows: “The amount determined under subparagraph (A) shall be reduced by any amount previously contributed to a health benefits account or welfare benefit fund (as defined in section 419(e)(1)) to pay for the qualified current retiree health liabilities. The portion of any reserves remaining as of the close of December 31, 1990, shall be allocated on a pro rata basis to qualified current retiree health liabilities.”
 
 Subsec. (e)(1)(D). Pub. L. 103–465, § 731(c)(3), substituted “and shall not be subject to the minimum benefit requirements of subsection (c)(3)” for “or in calculating applicable employer cost under subsection (c)(3)(B)”.
+
+#### Effective Date of 2020 Amendment
+Pub. L. 116–260, div. N, title II, § 285(b), Dec. 27, 2020, 134 Stat. 1989, provided that: “The amendments made by this section [amending this section] shall apply to taxable years beginning after December 31, 2019.”
 
 #### Effective Date of 2014 Amendment
 Amendment by Pub. L. 113–97 applicable to years beginning after Dec. 31, 2013, see section 3 of Pub. L. 113–97, set out as a note under [section 401 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-401).
@@ -75202,6 +76502,64 @@ For provisions that nothing in amendment by Pub. L. 101–508 be construed to af
 
 **(l) Qualified transfers to health benefit accounts** In the case of a qualified transfer (as defined in section 420), any assets so transferred shall not, for purposes of this section, be treated as assets in the plan.
 
+**(m) Special rules for community newspaper plans**
+
+(1) **In general** — The plan sponsor of a community newspaper plan under which no participant has had the participant’s accrued benefit increased (whether because of service or compensation) after December 31, 2017, may elect to have the alternative standards described in paragraph (3) apply to such plan, and any plan sponsored by any member of the same controlled group.
+
+(2) **Election** — An election under paragraph (1) shall be made at such time and in such manner as prescribed by the Secretary. Such election, once made with respect to a plan year, shall apply to all subsequent plan years unless revoked with the consent of the Secretary.
+
+(3) **Alternative minimum funding standards** — The alternative standards described in this paragraph are the following:
+
+  (A) *Interest rates*
+
+    (i) *In general* — Notwithstanding subsection (h)(2)(C) and except as provided in clause (ii), the first, second, and third segment rates in effect for any month for purposes of this section shall be 8 percent.
+
+    (ii) *New benefit accruals* — Notwithstanding subsection (h)(2), for purposes of determining the funding target and normal cost of a plan for any plan year, the present value of any benefits accrued or earned under the plan for a plan year with respect to which an election under paragraph (1) is in effect shall be determined on the basis of the United States Treasury obligation yield curve for the day that is the valuation date of such plan for such plan year.
+
+    (iii) *United States Treasury obligation yield curve* — For purposes of this subsection, the term “United States Treasury obligation yield curve” means, with respect to any day, a yield curve which shall be prescribed by the Secretary for such day on interest-bearing obligations of the United States.
+
+  (B) *Shortfall amortization base*
+
+    (i) *Previous shortfall amortization bases* — The shortfall amortization bases determined under subsection (c)(3) for all plan years preceding the first plan year to which the election under paragraph (1) applies (and all shortfall amortization installments determined with respect to such bases) shall be reduced to zero under rules similar to the rules of subsection (c)(6).
+
+    (ii) *New shortfall amortization base* — Notwithstanding subsection (c)(3), the shortfall amortization base for the first plan year to which the election under paragraph (1) applies shall be the funding shortfall of such plan for such plan year (determined using the interest rates as modified under subparagraph (A)).
+
+  (C) *Determination of shortfall amortization installments*
+
+    (i) *30-year period* — Subparagraphs (A) and (B) of subsection (c)(2) shall be applied by substituting “30-plan-year” for “7-plan-year” each place it appears.
+
+    (ii) *No special election* — The election under subparagraph (D) of subsection (c)(2) shall not apply to any plan year to which the election under paragraph (1) applies.
+
+  (D) *Exemption from at-risk treatment* — Subsection (i) shall not apply.
+
+(4) **Community newspaper plan** — For purposes of this subsection—
+
+  (A) *In general* — The term “community newspaper plan” means a plan to which this section applies maintained by an employer which, as of December 31, 2017—
+
+    (i) publishes and distributes daily, either electronically or in printed form, 1 or more community newspapers in a single State,
+
+    (ii) is not a company the stock of which is publicly traded (on a stock exchange or in an over-the-counter market), and is not controlled, directly or indirectly, by such a company,
+
+    (iii) is controlled, directly or indirectly—
+
+      (I) by 1 or more persons residing primarily in the State in which the community newspaper is published,
+
+      (II) for not less than 30 years by individuals who are members of the same family,
+
+      (III) by a trust created or organized in the State in which the community newspaper is published, the sole trustees of which are persons described in subclause (I) or (II),
+
+      (IV) by an entity which is described in section 501(c)(3) and exempt from taxation under section 501(a), which is organized and operated in the State in which the community newspaper is published, and the primary purpose of which is to benefit communities in such State, or
+
+      (V) by a combination of persons described in subclause (I), (III), or (IV), and
+
+    (iv) does not control, directly or indirectly, any newspaper in any other State.
+
+  (B) *Community newspaper* — The term “community newspaper” means a newspaper which primarily serves a metropolitan statistical area, as determined by the Office of Management and Budget, with a population of not less than 100,000.
+
+  (C) *Control* — A person shall be treated as controlled by another person if such other person possesses, directly or indirectly, the power to direct or cause the direction and management of such person (including the power to elect a majority of the members of the board of directors of such person) through the ownership of voting securities.
+
+(5) **Controlled group** — For purposes of this subsection, the term “controlled group” means all persons treated as a single employer under subsection (b), (c), (m), or (o) of section 414 as of the date of the enactment of this subsection.
+
 ### Statutory Notes
 
 #### Inflation Adjusted Items for Certain Years
@@ -75216,7 +76574,11 @@ The Employee Retirement Income Security Act of 1974, referred to in subsecs. (c)
 
 The Social Security Act, referred to in subsec. (h)(3)(D)(ii), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title II of the Act is classified generally to subchapter II (§ 401 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see [section 1305 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1305&num=0&edition=prelim) and Tables.
 
+The date of the enactment of this subsection, referred to in subsec. (m)(5), is the date of enactment of Pub. L. 116–94, which was approved Dec. 20, 2019.
+
 #### Amendments
+2019—Subsec. (m). Pub. L. 116–94 added subsec. (m).
+
 2018—Subsec. (c)(7)(E)(v)(II). Pub. L. 115–141, § 401(a)(99), inserted “the” after “title I of”.
 
 Subsec. (h)(2)(F). Pub. L. 115–141, § 401(a)(100), substituted “section 417(e)(3)(D)” for “section 417(e)(3)(D)(i)”.
@@ -75291,6 +76653,9 @@ Subsec. (k)(1). Pub. L. 110–458, § 101(b)(2)(H)(i), inserted “(as provided 
 
 Subsec. (k)(6)(B). Pub. L. 110–458, § 101(b)(2)(H)(ii), struck out “, except that in the case of a payment other than a required installment, the due date shall be the date such payment is required to be made under section 430” before period at end.
 
+#### Effective Date of 2019 Amendment
+Pub. L. 116–94, div. O, title I, § 115(c), Dec. 20, 2019, 133 Stat. 3161, provided that: “The amendments made by this section [amending this section and [section 1083 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1083&num=0&edition=prelim), Labor] shall apply to plan years ending after December 31, 2017.”
+
 #### Effective Date of 2017 Amendment
 Amendment by Pub. L. 115–97 applicable to taxable years beginning after Dec. 31, 2017, see section 11002(e) of Pub. L. 115–97, set out as a note under [section 1 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-1).
 
@@ -75323,6 +76688,9 @@ Pub. L. 110–458, title II, § 202(c), Dec. 23, 2008, 122 Stat. 5118, provided 
 
 #### Effective Date
 Pub. L. 109–280, title I, § 112(b), Aug. 17, 2006, 120 Stat. 846, provided that: “The amendments made by this section [enacting this section] shall apply with respect to plan years beginning after December 31, 2007.”
+
+#### Single-Employer Plan Funding Rules
+Pub. L. 116–136, div. A, title III, § 3608, Mar. 27, 2020, 134 Stat. 413, provided that: “(a) Delay in Payment of Minimum Required Contributions.—In the case of any minimum required contribution (as determined under section 430(a) of the Internal Revenue Code of 1986 and section 303(a) of the Employee Retirement Income Security Act of 1974 ([29 U.S.C. 1083(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1083/a&num=0&edition=prelim))) which (but for this section) would otherwise be due under section 430(j) of such Code (including quarterly contributions under paragraph (3) thereof) and section 303(j) of such Act ([29 U.S.C. 1083(j)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1083/j&num=0&edition=prelim)) (including quarterly contributions under paragraph (3) thereof) during calendar year 2020—“(1) the due date for such contributions shall be January 1, 2021, and “(2) the amount of each such minimum required contribution shall be increased by interest accruing for the period between the original due date (without regard to this section) for the contribution and the payment date, at the effective rate of interest for the plan for the plan year which includes such payment date. “(b) Benefit Restriction Status.—For purposes of section 436 of the Internal Revenue Code of 1986 and section 206(g) of the Employee Retirement Income Security Act of 1974 ([29 U.S.C. 1056(g)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1056/g&num=0&edition=prelim)), a plan sponsor may elect to treat the plan’s adjusted funding target attainment percentage for the last plan year ending before January 1, 2020, as the adjusted funding target attainment percentage for plan years which include calendar year 2020.”
 
 #### Mortality Tables
 Pub. L. 114–74, title V, § 503, Nov. 2, 2015, 129 Stat. 593, provided that: “(a) Credibility.—For purposes of subclause (I) of section 430(h)(3)(C)(iii) of the Internal Revenue Code of 1986 and subclause (I) of section 303(h)(3)(C)(iii) of the Employee Retirement Income Security Act of 1974 [[29 U.S.C. 1083(h)(3)(C)(iii)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1083/h/3/C/iii&num=0&edition=prelim)], the determination of whether plans have credible information shall be made in accordance with established actuarial credibility theory, which—“(1) is materially different from rules under such section of such Code, including Revenue Procedure 2007–37, that are in effect on the date of the enactment of this Act [Nov. 2, 2015]; and “(2) permits the use of tables that reflect adjustments to the tables described in subparagraphs (A) and (B) of section 430(h)(3) of such Code, and subparagraphs (A) and (B) of section 303(h)(3) of such Act, if such adjustments are based on the experience described in subclause (II) of section 430(h)(3)(C)(iii) of such Code and in subclause (II) of section 303(h)(3)(C)(iii) of such Act. “(b) Effective Date.—This section shall apply to plan years beginning after December 31, 2015.”
@@ -78112,7 +79480,7 @@ Pub. L. 99–514, title VIII, § 801(d), Oct. 22, 1986, 100 Stat. 2348, as amend
 
   (B) any income derived from such transaction in excess of the amount described in subparagraph (A) which is required to be included in gross income for such taxable year (determined without regard to this subsection).
 
-(3) **Qualifying electric transmission transaction** — For purposes of this subsection, the term “qualifying electric transmission transaction” means any sale or other disposition before January 1, 2008 (before January 1, 2018, in the case of a qualified electric utility), of—
+(3) **Qualifying electric transmission transaction** — For purposes of this subsection, the term “qualifying electric transmission transaction” means any sale or other disposition before January 1, 2008 (before January 1, 2021, in the case of a qualified electric utility), of—
 
   (A) property used in the trade or business of providing electric transmission services, or
 
@@ -78175,6 +79543,8 @@ The Agricultural Act of 1949, as amended, referred to in subsec. (f), is act Oct
 The Disaster Assistance Act of 1988, referred to in subsec. (f), is Pub. L. 100–387, Aug. 11, 1988, 102 Stat. 924. Title II of the Disaster Assistance Act of 1988 is set out as a note under [section 1421 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1421&num=0&edition=prelim). For complete classification of this Act to the Code, see Tables.
 
 #### Amendments
+2019—Subsec. (k)(3). Pub. L. 116–94 substituted “January 1, 2021” for “January 1, 2018” in introductory provisions.
+
 2018—Subsec. (k)(3). Pub. L. 115–123 substituted “January 1, 2018” for “January 1, 2017” in introductory provisions.
 
 2017—Subsecs. (b) to (k). Pub. L. 115–97 first added subsec. (b) and then added subsec. (c) and correspondingly redesignated former subsecs. (b) to (i) first as (c) to (j) and then as (d) to (k), respectively.
@@ -78224,6 +79594,9 @@ Subsec. (e). Pub. L. 94–455, § 2141(a), added subsec. (e).
 1969—Subsec. (d). Pub. L. 91–172 added subsec. (d).
 
 1965—Subsec. (c). Pub. L. 89–97 added subsec. (c).
+
+#### Effective Date of 2019 Amendment
+Pub. L. 116–94, div. Q, title I, § 132(b), Dec. 20, 2019, 133 Stat. 3233, provided that: “The amendment made by this section [amending this section] shall apply to dispositions after December 31, 2017.”
 
 #### Effective Date of 2018 Amendment
 Pub. L. 115–123, div. D, title I, § 40414(b), Feb. 9, 2018, 132 Stat. 152, provided that: “The amendment made by this section [amending this section] shall apply to dispositions after December 31, 2016.”
@@ -79204,15 +80577,19 @@ A plan which is established and maintained by an employer which is described in 
 
   (A) under the plan amounts will not be made available to participants or beneficiaries earlier than—
 
-    (i) the calendar year in which the participant attains age 70½,
+    (i) the calendar year in which the participant attains age 70½ (in the case of a plan maintained by an employer described in subsection (e)(1)(A), age 59½),
 
-    (ii) when the participant has a severance from employment with the employer, or
+    (ii) when the participant has a severance from employment with the employer,
 
-    (iii) when the participant is faced with an unforeseeable emergency (determined in the manner prescribed by the Secretary in regulations),
+    (iii) when the participant is faced with an unforeseeable emergency (determined in the manner prescribed by the Secretary in regulations), or
 
-  (B) the plan meets the minimum distribution requirements of paragraph (2), and
+    (iv) except as may be otherwise provided by regulations, in the case of a plan maintained by an employer described in subsection (e)(1)(A), with respect to amounts invested in a lifetime income investment (as defined in section 401(a)(38)(B)(ii)), the date that is 90 days prior to the date that such lifetime income investment may no longer be held as an investment option under the plan,
 
-  (C) in the case of a plan maintained by an employer described in subsection (e)(1)(A), the plan meets requirements similar to the requirements of section 401(a)(31).
+  (B) the plan meets the minimum distribution requirements of paragraph (2),
+
+  (C) in the case of a plan maintained by an employer described in subsection (e)(1)(A), the plan meets requirements similar to the requirements of section 401(a)(31), and
+
+  (D) except as may be otherwise provided by regulations, in the case of amounts described in subparagraph (A)(iv), such amounts will be distributed only in the form of a qualified distribution (as defined in section 401(a)(38)(B)(i)) or a qualified plan distribution annuity contract (as defined in section 401(a)(38)(B)(iv)).
   Any amount transferred in a direct trustee-to-trustee transfer in accordance with section 401(a)(31) shall not be includible in gross income for the taxable year of transfer.
 
 (2) **Minimum distribution requirements** — A plan meets the minimum distribution requirements of this paragraph if such plan meets the requirements of section 401(a)(9).
@@ -79421,6 +80798,12 @@ For inflation adjustment of certain items in this section, see Internal Revenue 
 Section 8101 of the Elementary and Secondary Education Act of 1965, referred to in subsec. (e)(11)(D)(ii)(I), is classified to [section 7801 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section7801&num=0&edition=prelim), Education.
 
 #### Amendments
+2019—Subsec. (d)(1)(A)(i). Pub. L. 116–94, § 104(b), inserted “(in the case of a plan maintained by an employer described in subsection (e)(1)(A), age 59½)” before comma at end.
+
+Subsec. (d)(1)(A)(iv). Pub. L. 116–94, § 109(d)(1), added cl. (iv).
+
+Subsec. (d)(1)(D). Pub. L. 116–94, § 109(d)(2), added subpar. (D).
+
 2018—Subsec. (f)(4)(C)(i). Pub. L. 115–141 substituted “section 8101” for “section 9101” and “([20 U.S.C. 7801](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section7801&num=0&edition=prelim))),” for “([20 U.S.C. 7801](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section7801&num=0&edition=prelim)),”.
 
 2017—Subsec. (e)(11)(B)(ii). Pub. L. 115–97, § 13612(a), substituted “$6,000” for “$3,000”.
@@ -79544,6 +80927,11 @@ Subsec. (e)(13). Pub. L. 100–647, § 6064(c), added par. (13).
 1984—Subsec. (e)(2). Pub. L. 98–369, § 491(d)(33), struck out subpar. (C) which provided that par. (1) of this subsection not apply to a qualified bond purchase plan described in section 405(a), and redesignated subpars. (D) and (E) as (C) and (D), respectively.
 
 1980—Subsec. (d)(9)(B). Pub. L. 96–222 in cl. (i) struck out “described in section 501(c)(12)” after “any organization” and substituted “electric service on a mutual or cooperative basis” for “electric service” and in cl. (ii) substituted “paragraph (4) or (6) of section 501(a)” for “section 501(c)(6)” and “at least 80 percent of the members” for “all the members”.
+
+#### Effective Date of 2019 Amendment
+Amendment by section 104(b) of Pub. L. 116–94 applicable to plan years beginning after Dec. 31, 2019, see section 104(c) of Pub. L. 116–94, set out as a note under [section 401 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-401).
+
+Amendment by section 109(d) of Pub. L. 116–94 applicable to plan years beginning after Dec. 31, 2019, see section 109(e) of Pub. L. 116–94, set out as a note under [section 401 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-401).
 
 #### Effective Date of 2017 Amendment
 Pub. L. 115–97, title I, § 13612(d), Dec. 22, 2017, 131 Stat. 2166, provided that: “The amendments made by this section [amending this section] shall apply to taxable years beginning after December 31, 2017.”
@@ -80479,27 +81867,38 @@ then the deduction shall be allowed for the taxable year of the transfer. This s
 
 **(l) Limitation on excess business losses of noncorporate taxpayers**
 
-(1) **Limitation** — In the case of taxable year of a taxpayer other than a corporation beginning after December 31, 2017, and before January 1, 2026—
+(1) **Limitation** — In the case of a taxpayer other than a corporation—
 
-  (A) subsection (j) (relating to limitation on excess farm losses of certain taxpayers) shall not apply, and
+  (A) for any taxable year beginning after December 31, 2017, and before January 1, 2026, subsection (j) (relating to limitation on excess farm losses of certain taxpayers) shall not apply, and
 
-  (B) any excess business loss of the taxpayer for the taxable year shall not be allowed.
+  (B) for any taxable year beginning after December 31, 2020, and before January 1, 2026, any excess business loss of the taxpayer for the taxable year shall not be allowed.
 
-(2) **Disallowed loss carryover** — Any loss which is disallowed under paragraph (1) shall be treated as a net operating loss carryover to the following taxable year under section 172.
+(2) **Disallowed loss carryover** — Any loss which is disallowed under paragraph (1) shall be treated as a net operating loss for the taxable year for purposes of determining any net operating loss carryover under section 172(b) for subsequent taxable years.
 
 (3) **Excess business loss** — For purposes of this subsection—
 
   (A) *In general* — The term “excess business loss” means the excess (if any) of—
 
-    (i) the aggregate deductions of the taxpayer for the taxable year which are attributable to trades or businesses of such taxpayer (determined without regard to whether or not such deductions are disallowed for such taxable year under paragraph (1)), over
+    (i) the aggregate deductions of the taxpayer for the taxable year which are attributable to trades or businesses of such taxpayer (determined without regard to whether or not such deductions are disallowed for such taxable year under paragraph (1) and without regard to any deduction allowable under section 172 or 199A), over
 
     (ii) the sum of—
 
       (I) the aggregate gross income or gain of such taxpayer for the taxable year which is attributable to such trades or businesses, plus
 
       (II) $250,000 (200 percent of such amount in the case of a joint return).
+    Such excess shall be determined without regard to any deductions, gross income, or gains attributable to any trade or business of performing services as an employee.
 
-  (B) *Adjustment for inflation* — In the case of any taxable year beginning after December 31, 2018, the $250,000 amount in subparagraph (A)(ii)(II) shall be increased by an amount equal to—
+  (B) *Treatment of capital gains and losses*
+
+    (i) *Losses* — Deductions for losses from sales or exchanges of capital assets shall not be taken into account under subparagraph (A)(i).
+
+    (ii) *Gains* — The amount of gains from sales or exchanges of capital assets taken into account under subparagraph (A)(ii) shall not exceed the lesser of—
+
+      (I) the capital gain net income determined by taking into account only gains and losses attributable to a trade or business, or
+
+      (II) the capital gain net income.
+
+  (C) *Adjustment for inflation* — In the case of any taxable year beginning after December 31, 2018, the $250,000 amount in subparagraph (A)(ii)(II) shall be increased by an amount equal to—
 
     (i) such dollar amount, multiplied by
 
@@ -80531,6 +81930,20 @@ Subsec. (c) of [section 464 of this title](./chapter-001-normal-taxes-and-surtax
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
+2020—Subsec. (l)(1). Pub. L. 116–136, § 2304(a), amended par. (1) generally. Prior to amendment, text read as follows: “In the case of taxable year of a taxpayer other than a corporation beginning after December 31, 2017, and before January 1, 2026—
+
+“(A) subsection (j) (relating to limitation on excess farm losses of certain taxpayers) shall not apply, and
+
+“(B) any excess business loss of the taxpayer for the taxable year shall not be allowed.”
+
+Subsec. (l)(2). Pub. L. 116–136, § 2304(b)(1), substituted “a net operating loss for the taxable year for purposes of determining any net operating loss carryover under section 172(b) for subsequent taxable years” for “a net operating loss carryover to the following taxable year under section 172”.
+
+Subsec. (l)(3)(A). Pub. L. 116–136, § 2304(b)(2)(B), inserted concluding provisions.
+
+Subsec. (l)(3)(A)(i). Pub. L. 116–136, § 2304(b)(2)(A), inserted “and without regard to any deduction allowable under section 172 or 199A” after “under paragraph (1)”.
+
+Subsec. (l)(3)(B), (C). Pub. L. 116–136, § 2304(b)(3), added subpar. (B) and redesignated former subpar. (B) as (C).
+
 2018—Subsec. (i)(4). Pub. L. 115–141, § 401(a)(117)(B), substituted “subsection (k)” for “subsection (j)”.
 
 Subsecs. (j), (k). Pub. L. 115–141, § 401(a)(117)(A), redesignated subsec. (j) relating to farming syndicate defined as (k).
@@ -80612,6 +82025,9 @@ Subsec. (g). Pub. L. 94–455, § 208(a), added subsec. (g).
 1962—Subsec. (e). Pub. L. 87–876 added subsec. (e).
 
 1960—Subsec. (d). Pub. L. 86–781 added subsec. (d).
+
+#### Effective Date of 2020 Amendment
+Pub. L. 116–136, div. A, title II, § 2304(c), Mar. 27, 2020, 134 Stat. 356, provided that: “(1) In general.—The amendments made by subsection (a) [amending this section] shall apply to taxable years beginning after December 31, 2017. “(2) Technical amendments.—The amendments made by subsection (b) [amending this section] shall take effect as if included in the provisions of Public Law 115–97 to which they relate.”
 
 #### Effective Date of 2017 Amendment
 Pub. L. 115–97, title I, § 11012(b), Dec. 22, 2017, 131 Stat. 2072, provided that: “The amendments made by this section [amending this section] shall apply to taxable years beginning after December 31, 2017.”
@@ -82074,7 +83490,7 @@ Pub. L. 99–514, title XVIII, § 1807(a)(7)(D), Oct. 22, 1986, 100 Stat. 2816, 
 
     (ii) the amounts excludable from gross income under sections 135 and 137,
 
-    (iii) the amounts allowable as a deduction under sections 219, 221, 222, and 250, and
+    (iii) the amounts allowable as a deduction under sections 219, 221, and 250, and
 
     (iv) any passive activity loss or any loss allowable by reason of subsection (c)(7).
 
@@ -82182,6 +83598,8 @@ Pub. L. 99–514, title XVIII, § 1807(a)(7)(D), Oct. 22, 1986, 100 Stat. 2816, 
 ### Statutory Notes
 
 #### Amendments
+2020—Subsec. (i)(3)(E)(iii). Pub. L. 116–260 struck out “222,” after “221,”.
+
 2018—Subsecs. (c)(3)(B), (d)(2)(A)(ii). Pub. L. 115–141, § 401(d)(1)(D)(ii), substituted “27” for “27(a)”.
 
 Subsec. (i)(3)(C). Pub. L. 115–141, § 401(d)(5)(B)(i), redesignated subpar. (D) as (C) and struck out former subpar. (C). Prior to amendment, text of subpar. (C) read as follows: “Subparagraph (A) shall not apply to any portion of the passive activity loss for any taxable year which is attributable to the commercial revitalization deduction under section 1400I.”
@@ -82327,6 +83745,9 @@ Subsec. (m)(3)(A). Pub. L. 100–647, § 1005(a)(12), added subpar. (A) and stru
 For purposes of this subparagraph, the deduction equivalent (within the meaning of subsection (j)(5)) of a passive activity credit shall be taken into account.”
 
 1987—Subsecs. (k) to (m). Pub. L. 100–203 added subsec. (k) and redesignated former subsecs. (k) and (l) as (l) and (m), respectively.
+
+#### Effective Date of 2020 Amendment
+Amendment by Pub. L. 116–260 applicable to taxable years beginning after Dec. 31, 2020, see section 104(c) of div. EE of Pub. L. 116–260, set out as a note under [section 25A of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-25a).
 
 #### Effective Date of 2017 Amendment
 Amendment by section 13305(b)(1) of Pub. L. 115–97 applicable to taxable years beginning after Dec. 31, 2017, except as provided by transition rule, see section 13305(c) of Pub. L. 115–97, set out as a note under [section 74 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-74).
@@ -83476,6 +84897,12 @@ Provisions, respecting treatment of debt instruments received in exchange for pr
 
   (I) In the case of a mutual or cooperative electric company described in this paragraph or an organization described in section 1381(a)(2), income received or accrued in connection with an election under section 45J(e)(1) shall be treated as an amount collected from members for the sole purpose of meeting losses and expenses.
 
+  (J) In the case of a mutual or cooperative telephone or electric company described in this paragraph, subparagraph (A) shall be applied without taking into account any income received or accrued from—
+
+    (i) any grant, contribution, or assistance provided pursuant to the Robert T. Stafford Disaster Relief and Emergency Assistance Act or any similar grant, contribution, or assistance by any local, State, or regional governmental entity for the purpose of relief, recovery, or restoration from, or preparation for, a disaster or emergency, or
+
+    (ii) any grant or contribution by any governmental entity (other than a contribution in aid of construction or any other contribution as a customer or potential customer) the purpose of which is substantially related to providing, constructing, restoring, or relocating electric, communication, broadband, internet, or other utility facilities or services.
+
 (13) Cemetery companies owned and operated exclusively for the benefit of their members or which are not operated for profit; and any corporation chartered solely for the purpose of the disposal of bodies by burial or cremation which is not permitted by its charter to engage in any business not necessarily incident to that purpose and no part of the net earnings of which inures to the benefit of any private shareholder or individual.
 
 (14)
@@ -84175,6 +85602,8 @@ Sections 306A and 306B of the Rural Electrification Act of 1936, referred to in 
 
 The date of the enactment of this subparagraph, referred to in subsec. (c)(12)(H)(vii), is the date of enactment of Pub. L. 108–357, which was approved Oct. 22, 2004.
 
+The Robert T. Stafford Disaster Relief and Emergency Assistance Act, referred to in subsec. (c)(12)(J)(i), is Pub. L. 93–288, May 22, 1974, 88 Stat. 143, which is classified principally to chapter 68 (§ 5121 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 5121 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5121&num=0&edition=prelim) and Tables.
+
 Section 831(b)(2)(B)(ii), referred to in subsec. (c)(15)(C), was redesignated section 831(b)(2)(C)(ii) by Pub. L. 114–113, div. Q, title III, § 333(a)(1)(B), Dec. 18, 2015, 129 Stat. 3106.
 
 The Federal Mine Safety and Health Act of 1977, referred to in subsec. (c)(21)(D)(i), is Pub. L. 91–173, Dec. 30, 1969, 83 Stat. 742, as amended by Pub. L. 95–164, Nov. 9, 1977, 91 Stat. 1290. Part C of title IV of the Act is classified generally to part C (§ 931 et seq.) of subchapter IV of chapter 22 of Title 30, Mineral Lands and Mining. For complete classification of this Act to the Code, see Short Title note set out under [section 801 of Title 30](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title30-section801&num=0&edition=prelim) and Tables.
@@ -84210,6 +85639,8 @@ The date of the enactment of this subsection, referred to in subsec. (p)(3)(A)(i
 The date of the enactment of this subsection, referred to in subsec. (q)(2)(B)(ii), is the date of enactment of Pub. L. 109–280, which was approved Aug. 17, 2006.
 
 #### Amendments
+2019—Subsec. (c)(12)(J). Pub. L. 116–94 added subpar. (J).
+
 2018—Subsec. (c)(12)(E). Pub. L. 115–141, § 109(b), substituted “means—” for “means the Federal Energy Regulatory Commission and references to such term shall be treated as including the Public Utility Commission of Texas with respect to any ERCOT utility (as defined in section 212(k)(2)(B) of the Federal Power Act ([16 U.S.C. 824k(k)(2)(B)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section824k/k/2/B&num=0&edition=prelim))).” and added cls. (i) and (ii).
 
 Subsec. (c)(12)(I). Pub. L. 115–123 added subpar. (I).
@@ -84455,6 +85886,9 @@ Subsec. (c)(14). Pub. L. 89–352 designated as subpar. (A) provisions covering 
 Subsec. (c)(17). Pub. L. 86–667 added par. (17).
 
 1956—Subsec. (c)(15). Act Mar. 13, 1956, substituted “the items described in section 822(b) (other than paragraph (1)(D) thereof)” for “interest, dividends, rents,”.
+
+#### Effective Date of 2019 Amendment
+Pub. L. 116–94, div. Q, title III, § 301(b), Dec. 20, 2019, 133 Stat. 3248, provided that: “The amendment made by this section [amending this section] shall apply to taxable years beginning after December 31, 2017.”
 
 #### Effective Date of 2018 Amendment
 Pub. L. 115–141, div. U, title I, § 109(c), Mar. 23, 2018, 132 Stat. 1171, provided that: “The amendments made by this section [amending this section and [section 1361 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-1361)] shall take effect as if included in section 319 of the American Jobs Creation Act of 2004 [Pub. L. 108–357].”
@@ -85550,8 +86984,6 @@ Amendment by Pub. L. 86–667 applicable to taxable years beginning after Dec. 3
 
   (C) for purposes of subparagraph (B), unrelated business taxable income with respect to any such trade or business shall not be less than zero.
 
-(7) **Increase in unrelated business taxable income by disallowed fringe** — Unrelated business taxable income of an organization shall be increased by any amount for which a deduction is not allowable under this chapter by reason of section 274 and which is paid or incurred by such organization for any qualified transportation fringe (as defined in section 132(f)), any parking facility used in connection with qualified parking (as defined in section 132(f)(5)(C)), or any on-premises athletic facility (as defined in section 132(j)(4)(B)). The preceding sentence shall not apply to the extent the amount paid or incurred is directly connected with an unrelated trade or business which is regularly carried on by the organization. The Secretary shall issue such regulations or other guidance as may be necessary or appropriate to carry out the purposes of this paragraph, including regulations or other guidance providing for the appropriate allocation of depreciation and other costs with respect to facilities used for parking or for on-premises athletic facilities.
-
 **(b) Modifications** The modifications referred to in subsection (a) are the following:
 
 (1) There shall be excluded all dividends, interest, payments with respect to securities loans (as defined in subsection (a)(5)), amounts received or accrued as consideration for entering into agreements to make loans, and annuities, and all deductions directly connected with such income.
@@ -85888,6 +87320,8 @@ Sections 101(39), 107, 117(a), (b), and 121(d) of the Comprehensive Environmenta
 The date of the enactment of this paragraph, referred to in subsec. (b)(19)(C)(i), (D)(i), (ii)(V), (E)(ii)(IV), is the date of enactment of Pub. L. 108–357, which was approved Oct. 22, 2004.
 
 #### Amendments
+2019—Subsec. (a)(7). Pub. L. 116–94 struck out par. (7) which related to increases in unrelated business taxable income for certain fringe benefit expenses.
+
 2018—Subsec. (a)(3). Pub. L. 115–141, § 401(b)(21)(G), substituted “or (17)” for “(17), or (20)” in heading.
 
 Subsec. (a)(3)(A). Pub. L. 115–141, § 401(b)(21)(E), substituted “or (17)” for “(17), or (20)”.
@@ -86025,6 +87459,9 @@ Subsec. (b)(15) to (17). Pub. L. 91–172, § 121(b)(2)(C), added pars. (15) to 
 1964—Subsec. (b)(14). Pub. L. 88–380 added par. (14).
 
 1958—Subsec. (b)(13). Pub. L. 85–367 added par. (13).
+
+#### Effective Date of 2019 Amendment
+Pub. L. 116–94, div. Q, title III, § 302(b), Dec. 20, 2019, 133 Stat. 3248, provided that: “The amendment made by this section [amending this section] shall take effect as if included in the amendments made by section 13703 of Public Law 115–97.”
 
 #### Effective Date of 2017 Amendment
 Amendment by section 11002(d)(1)(Y) of Pub. L. 115–97 applicable to taxable years beginning after Dec. 31, 2017, see section 11002(e) of Pub. L. 115–97, set out as a note under [section 1 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-1).
@@ -87444,6 +88881,20 @@ Pub. L. 94–455, title XXI, § 2101(e), Oct. 4, 1976, 90 Stat. 1899, provided t
 
 (7) **Treatment of elementary and secondary tuition** — Any reference in this subsection to the term “qualified higher education expense” shall include a reference to expenses for tuition in connection with enrollment or attendance at an elementary or secondary public, private, or religious school.
 
+(8) **Treatment of certain expenses associated with registered apprenticeship programs** — Any reference in this subsection to the term “qualified higher education expense” shall include a reference to expenses for fees, books, supplies, and equipment required for the participation of a designated beneficiary in an apprenticeship program registered and certified with the Secretary of Labor under section 1 of the National Apprenticeship Act ([29 U.S.C. 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section50&num=0&edition=prelim)).
+
+(9) **Treatment of qualified education loan repayments**
+
+  (A) *In general* — Any reference in this subsection to the term “qualified higher education expense” shall include a reference to amounts paid as principal or interest on any qualified education loan (as defined in section 221(d)) of the designated beneficiary or a sibling of the designated beneficiary.
+
+  (B) *Limitation* — The amount of distributions treated as a qualified higher education expense under this paragraph with respect to the loans of any individual shall not exceed $10,000 (reduced by the amount of distributions so treated for all prior taxable years).
+
+  (C) *Special rules for siblings of the designated beneficiary*
+
+    (i) *Separate accounting* — For purposes of subparagraph (B) and subsection (d), amounts treated as a qualified higher education expense with respect to the loans of a sibling of the designated beneficiary shall be taken into account with respect to such sibling and not with respect to such designated beneficiary.
+
+    (ii) *Sibling defined* — For purposes of this paragraph, the term “sibling” means an individual who bears a relationship to the designated beneficiary which is described in section 152(d)(2)(B).
+
 **(d) Reports** Each officer or employee having control of the qualified tuition program or their designee shall make such reports regarding such program to the Secretary and to designated beneficiaries with respect to contributions, distributions, and such other matters as the Secretary may require. The reports required by this subsection shall be filed at such time and in such manner and furnished to such individuals at such time and in such manner as may be required by the Secretary.
 
 **(e) Other definitions and special rules** For purposes of this section—
@@ -87507,6 +88958,10 @@ The date of the enactment of this paragraph, referred to in subsec. (e)(5)(A), p
 The Higher Education Act of 1965, referred to in subsec. (e)(5), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219. Title IV of the Act is classified generally to subchapter IV (§ 1070 et seq.) of chapter 28 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under [section 1001 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1001&num=0&edition=prelim) and Tables.
 
 #### Amendments
+2019—Subsec. (c)(8). Pub. L. 116–94, § 302(a), added par. (8).
+
+Subsec. (c)(9). Pub. L. 116–94, § 302(b)(1), added par. (9).
+
 2018—Subsec. (c)(3)(B)(v). Pub. L. 115–141, § 101(l)(15), substituted “American Opportunity” for “Hope” in heading.
 
 Subsec. (c)(6). Pub. L. 115–141, § 401(a)(127), substituted “a Coverdell” for “an Coverdell”.
@@ -87644,6 +89099,9 @@ Subsec. (e)(2). Pub. L. 105–34, § 211(b)(1), amended heading and text of par.
 Subsec. (e)(3). Pub. L. 105–34, § 211(a), amended heading and text of par. (3) generally. Prior to amendment, text read as follows: “The term ‘qualified higher education expenses’ means tuition, fees, books, supplies, and equipment required for the enrollment or attendance of a designated beneficiary at an eligible educational institution (as defined in section 135(c)(3)).”
 
 Subsec. (e)(5). Pub. L. 105–34, § 211(b)(2), added par. (5).
+
+#### Effective Date of 2019 Amendment
+Amendment by Pub. L. 116–94 applicable to distributions made after Dec. 31, 2018, see section 302(c) of Pub. L. 116–94, set out as a note under [section 221 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-221).
 
 #### Effective Date of 2018 Amendment
 Amendment by section 101(l)(15) of Pub. L. 115–141 effective as if included in the provision of the Protecting Americans from Tax Hikes Act of 2015, div. Q of Pub. L. 114–113, to which such amendment relates, see section 101(s) of Pub. L. 115–141, set out as a note under [section 24 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-24).
@@ -88560,7 +90018,7 @@ Subsec. (b)(4). Pub. L. 94–455, § 1901(a)(75)(B), struck out “or (2)” aft
 1969—Pub. L. 91–172 designated existing provisions as subsec. (a)(1) and added subsecs. (a)(2), (3) and (b).
 
 #### Effective Date of 2017 Amendment
-Amendment by Pub. L. 115–97 applicable to net operating losses arising in taxable years ending after Dec. 31, 2017, see section 13302(e) of Pub. L. 115–97, set out as a note under [section 172 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-172).
+Amendment by Pub. L. 115–97 applicable to net operating losses arising in taxable years beginning after Dec. 31, 2017, see section 13302(e) of Pub. L. 115–97, set out as a note under [section 172 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-172).
 
 #### Effective Date of 1978 Amendment
 Amendment by Pub. L. 95–600 applicable with respect to taxable years beginning after Sept. 30, 1979, see section 371(d) of Pub. L. 95–600, set out as a note under [section 172 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-172).
@@ -102553,7 +104011,7 @@ Amendment by section 1006(t)(2)(A)(i), (19) of Pub. L. 100–647 effective, exce
 
   (A) in determining under section 172 the amount of any net operating loss for such taxable year, and
 
-  (B) in determining taxable income for such taxable year for purposes of the 2nd sentence of section 172(b)(2).
+  (B) in determining taxable income for such taxable year for purposes of subsection (a)(2)(B)(ii)(I) and the second sentence of subsection (b)(2) of section 172.
 
 (4) **Coordination with minimum tax** — For purposes of part VI of subchapter A of this chapter—
 
@@ -102667,6 +104125,8 @@ Rules similar to the rules of the preceding sentence shall apply also in the cas
 ### Statutory Notes
 
 #### Amendments
+2020—Subsec. (a)(3)(B). Pub. L. 116–136 substituted “subsection (a)(2)(B)(ii)(I) and the second sentence of subsection (b)(2) of section 172.” for “the 2nd sentence of section 172(b)(2).”
+
 2017—Subsec. (e)(2)(B), (6)(A)(ii). Pub. L. 115–97 substituted “section 11(b)” for “section 11(b)(1)”.
 
 1996—Subsec. (a)(1). Pub. L. 104–188, § 1616(b)(10)(A), substituted “The” for “Except as provided in paragraph (2), the”.
@@ -102694,6 +104154,9 @@ Subsec. (d). Pub. L. 100–647, § 1006(t)(23), inserted at end “Rules similar
 Subsec. (e). Pub. L. 100–647, § 1006(t)(16)(B), added subsec. (e).
 
 Subsec. (f). Pub. L. 100–647, § 1006(t)(26), added subsec. (f).
+
+#### Effective Date of 2020 Amendment
+Amendment by Pub. L. 116–136 applicable to taxable years beginning after Dec. 31, 2017, and to taxable years beginning on or before Dec. 31, 2017, to which net operating losses arising in taxable years beginning after Dec. 31, 2017, are carried, see section 2303(d)(1) of Pub. L. 116–136, set out in a note under [section 172 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-172).
 
 #### Effective Date of 2017 Amendment
 Amendment by Pub. L. 115–97 applicable to taxable years beginning after Dec. 31, 2017, see section 13001(c)(1) of Pub. L. 115–97, set out as a note under [section 11 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-11).
@@ -111904,7 +113367,7 @@ Amendment by Pub. L. 89–809 applicable with respect to taxable years beginning
 
   (B) *Exception* — Subparagraph (A) shall not apply in the case of any interest, rent, or royalty to the extent such interest, rent, or royalty creates (or increases) a deficit which under section 952(c) may reduce the subpart F income of the payor or another controlled foreign corporation.
 
-  (C) *Application* — Subparagraph (A) shall apply to taxable years of foreign corporations beginning after December 31, 2005, and before January 1, 2020, and to taxable years of United States shareholders with or within which such taxable years of foreign corporations end.
+  (C) *Application* — Subparagraph (A) shall apply to taxable years of foreign corporations beginning after December 31, 2005, and before January 1, 2026, and to taxable years of United States shareholders with or within which such taxable years of foreign corporations end.
 
 **(d) Foreign base company sales income**
 
@@ -112116,6 +113579,10 @@ Amendment by Pub. L. 89–809 applicable with respect to taxable years beginning
 Sections 15(a) and 15C(a) of the Securities Exchange Act of 1934, referred to in subsec. (h)(2)(B)(iii), are classified to sections 78o(a) and 78o–5(a), respectively, of Title 15, Commerce and Trade.
 
 #### Amendments
+2020—Subsec. (c)(6)(C). Pub. L. 116–260 substituted “January 1, 2026” for “January 1, 2021”.
+
+2019—Subsec. (c)(6)(C). Pub. L. 116–94 substituted “January 1, 2021” for “January 1, 2020”.
+
 2017—Subsec. (a)(5). Pub. L. 115–97, § 14211(a), struck out par. (5) which read as follows: “the foreign base company oil related income for the taxable year (determined under subsection (g) and reduced as provided in subsection (b)(5)).”
 
 Subsec. (b)(4). Pub. L. 115–97, § 14211(b)(2)(A), struck out at end “The preceding sentence shall not apply to foreign base company oil-related income described in subsection (a)(5).”
@@ -112347,6 +113814,12 @@ Subsec. (d)(1). Pub. L. 94–12, § 602(b), provided that for purposes of subsec
 Subsecs. (f), (g). Pub. L. 94–12, § 602(c)(2), (d)(1)(G), added subsecs. (f) and (g).
 
 1969—Subsec. (b)(4). Pub. L. 91–172 inserted reference to a foreign corporation which is an acquired corporation, and made the effecting of a transaction giving rise to foreign base income through the controlled foreign corporation subject to the Secretary’s power to disallow inclusion of any item of such income where such inclusion will have one of the effects prescribed by this section.
+
+#### Effective Date of 2020 Amendment
+Pub. L. 116–260, div. EE, title I, § 111(b), Dec. 27, 2020, 134 Stat. 3050, provided that: “The amendment made by this section [amending this section] shall apply to taxable years of foreign corporations beginning after December 31, 2020, and to taxable years of United States shareholders with or within which such taxable years of foreign corporations end.”
+
+#### Effective Date of 2019 Amendment
+Pub. L. 116–94, div. Q, title I, § 145(b), Dec. 20, 2019, 133 Stat. 3236, provided that: “The amendment made by this section [amending this section] shall apply to taxable years of foreign corporations beginning after December 31, 2019, and to taxable years of United States shareholders with or within which such taxable years of foreign corporations end.”
 
 #### Effective Date of 2017 Amendment
 Amendment by section 13517(b)(5) of Pub. L. 115–97 applicable to taxable years beginning after Dec. 31, 2017, with transition rule and transition relief, see section 13517(c) of Pub. L. 115–97, set out as a note under [section 807 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-807).
@@ -123500,7 +124973,7 @@ Section applicable to sales and exchanges after June 30, 1985, in taxable years 
 For provisions that nothing in amendment by Pub. L. 101–508 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under [section 45K of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-45k).
 
 #### Inflation Adjusted Items for Certain Years
-Provisions relating to inflation adjustment of items in this section for certain years were contained in the following:
+Per Revenue Procedure 2018–57, after 2018, a separate Revenue Ruling relating to inflation-adjusted amounts under this section will not be published. Starting with 2019, see the table of Revenue Procedures set out under [section 1 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-1). Provisions relating to inflation adjustment of items in this section for years before 2019 were contained in the following:
 
 2018—Revenue Ruling 2018–11.
 
@@ -128523,7 +129996,7 @@ Pub. L. 89–809, title II, § 211(f), Nov. 13, 1966, 80 Stat. 1584, provided th
 
   (A)
 
-    (i) in the case of an empowerment zone, December 31, 2017, or
+    (i) in the case of an empowerment zone, December 31, 2025, or
 
     (ii) in the case of an enterprise community, the close of the 10th calendar year beginning on or after such date of designation,
 
@@ -128640,6 +130113,10 @@ Section 1400E(e), referred to in subsec. (h)(4), was repealed by Pub. L. 115–1
 A prior section 1391, added Pub. L. 95–600, title VI, § 601(a), Nov. 6, 1978, 92 Stat. 2892; amended Pub. L. 96–222, title I, § 106(a)(4), Apr. 1, 1980, 94 Stat. 221; Pub. L. 96–595, § 3(a)(1), (2), Dec. 24, 1980, 94 Stat. 3465, defined terms used in former subchapter U, prior to repeal by Pub. L. 99–514, title XIII, § 1303(a), Oct. 22, 1986, 100 Stat. 2658.
 
 #### Amendments
+2020—Subsec. (d)(1)(A)(i). Pub. L. 116–260 substituted “December 31, 2025” for “December 31, 2020”.
+
+2019—Subsec. (d)(1)(A)(i). Pub. L. 116–94 substituted “December 31, 2020” for “December 31, 2017”.
+
 2018—Subsec. (d)(1)(A)(i). Pub. L. 115–123 substituted “December 31, 2017” for “December 31, 2016”.
 
 Subsec. (g)(3)(E)(ii). Pub. L. 115–141 substituted “the Interior” for “Interior”.
@@ -128672,6 +130149,12 @@ Subsecs. (e), (f). Pub. L. 105–34, § 952(d)(1), substituted “this section�
 
 Subsec. (g). Pub. L. 105–34, § 952(a), added subsec. (g).
 
+#### Effective Date of 2020 Amendment
+Pub. L. 116–260, div. EE, title I, § 118(e), Dec. 27, 2020, 134 Stat. 3051, provided that: “The amendments made by this section [amending this section and sections 1397A and 1397B of this title] shall apply to taxable years beginning after December 31, 2020.”
+
+#### Effective Date of 2019 Amendment
+Pub. L. 116–94, div. Q, title I, § 118(c), Dec. 20, 2019, 133 Stat. 3229, provided that: “The amendment made by subsection (a) [amending this section] shall apply to taxable years beginning after December 31, 2017.”
+
 #### Effective Date of 2018 Amendment
 Pub. L. 115–123, div. D, title I, § 40311(b), Feb. 9, 2018, 132 Stat. 147, provided that: “The amendment made by subsection (a)(1) [amending this section] shall apply to taxable years beginning after December 31, 2016.”
 
@@ -128691,6 +130174,10 @@ Amendment by Pub. L. 111–312 applicable to periods after Dec. 31, 2009, see se
 Pub. L. 105–34, title IX, § 951(c), Aug. 5, 1997, 111 Stat. 885, provided that: “The amendments made by this section [amending this section and [section 1396 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-1396)] shall take effect on the date of the enactment of this Act [Aug. 5, 1997], except that designations of new empowerment zones made pursuant to such amendments shall be made during the 180-day period beginning on the date of the enactment of this Act. No designation pursuant to such amendments shall take effect before January 1, 2000.”
 
 #### Treatment of Certain Termination Dates Specified in Nominations
+Pub. L. 116–260, div. EE, title I, § 118(d), Dec. 27, 2020, 134 Stat. 3051, provided that: “In the case of a designation of an empowerment zone the nomination for which included a termination date which is contemporaneous with the date specified in subparagraph (A)(i) of section 1391(d)(1) of the Internal Revenue Code of 1986 (as in effect before the enactment of this Act [Dec. 27, 2020]), subparagraph (B) of such section shall not apply with respect to such designation if, after the date of the enactment of this section, the entity which made such nomination amends the nomination to provide for a new termination date in such manner as the Secretary of the Treasury (or the Secretary’s designee) may provide.”
+
+Pub. L. 116–94, div. Q, title I, § 118(b), Dec. 20, 2019, 133 Stat. 3229, provided that: “In the case of a designation of an empowerment zone the nomination for which included a termination date which is contemporaneous with the date specified in subparagraph (A)(i) of section 1391(d)(1) of the Internal Revenue Code of 1986 (as in effect before the enactment of this Act [Dec. 20, 2019]), subparagraph (B) of such section shall not apply with respect to such designation if, after the date of the enactment of this section, the entity which made such nomination amends the nomination to provide for a new termination date in such manner as the Secretary of the Treasury (or the Secretary’s designee) may provide.”
+
 Pub. L. 115–123, div. D, title I, § 40311(a)(2), Feb. 9, 2018, 132 Stat. 147, provided that: “In the case of a designation of an empowerment zone the nomination for which included a termination date which is contemporaneous with the date specified in subparagraph (A)(i) of section 1391(d)(1) of the Internal Revenue Code of 1986 (as in effect before the enactment of this Act [Feb. 9, 2018]), subparagraph (B) of such section shall not apply with respect to such designation if, after the date of the enactment of this section, the entity which made such nomination amends the nomination to provide for a new termination date in such manner as the Secretary of the Treasury (or the Secretary’s designee) may provide.”
 
 Pub. L. 114–113, div. Q, title I, § 171(a)(2), Dec. 18, 2015, 129 Stat. 3069, provided that: “In the case of a designation of an empowerment zone the nomination for which included a termination date which is contemporaneous with the date specified in subparagraph (A)(i) of section 1391(d)(1) of the Internal Revenue Code of 1986 (as in effect before the enactment of this Act [Dec. 18, 2015]), subparagraph (B) of such section shall not apply with respect to such designation if, after the date of the enactment of this section, the entity which made such nomination amends the nomination to provide for a new termination date in such manner as the Secretary of the Treasury (or the Secretary’s designee) may provide.”
@@ -129165,14 +130652,21 @@ A prior section 1397, added Pub. L. 95–600, title VI, § 601(a), Nov. 6, 1978,
 
 **(b) Recapture** Rules similar to the rules under section 179(d)(10) shall apply with respect to any qualified zone property which ceases to be used in an empowerment zone by an enterprise zone business.
 
+**(c) Termination** This section shall not apply to any property placed in service in taxable years beginning after December 31, 2020.
+
 ### Statutory Notes
 
 #### Amendments
+2020—Subsec. (c). Pub. L. 116–260 added subsec. (c).
+
 2000—Subsec. (a)(1)(A). Pub. L. 106–554, § 1(a)(7) [title I, § 114(a)], substituted “$35,000” for “$20,000”.
 
 Subsec. (c). Pub. L. 106–554, § 1(a)(7) [title I, § 114(b)], struck out heading and text of subsec. (c). Text read as follows: “For purposes of this section, qualified zone property shall not include any property substantially all of the use of which is in any parcel described in section 1391(g)(3)(A)(iii).”
 
 1997—Subsec. (c). Pub. L. 105–34 added subsec. (c).
+
+#### Effective Date 2020 Amendment
+Amendment by Pub. L. 116–260 applicable to taxable years beginning after Dec. 31, 2020, see section 118(e) of div. EE of Pub. L. 116–260, set out as a note under [section 1391 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-1391).
 
 #### Effective Date of 2000 Amendment
 Pub. L. 106–554, § 1(a)(7) [title I, § 114(c)], Dec. 21, 2000, 114 Stat. 2763, 2763A–601, provided that: “The amendments made by this section [amending this section] shall apply to taxable years beginning after December 31, 2001.”
@@ -129214,6 +130708,8 @@ Pub. L. 106–554, § 1(a)(7) [title I, § 114(c)], Dec. 21, 2000, 114 Stat. 276
 
 (5) **Holding period** — For purposes of determining whether the nonrecognition of gain under subsection (a) applies to any qualified empowerment zone asset which is sold, the taxpayer’s holding period for such asset and the asset referred to in subsection (a)(1) shall be determined without regard to section 1223.
 
+**(c) Termination** This section shall not apply to sales in taxable years beginning after December 31, 2020.
+
 ### Statutory Notes
 
 #### References in Text
@@ -129225,6 +130721,8 @@ Section 1400F, referred to in subsec. (b)(1), was repealed by Pub. L. 115–141,
 A prior section 1397B was renumbered [section 1397C of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-1397c).
 
 #### Amendments
+2020—Subsec. (c). Pub. L. 116–260 added subsec. (c).
+
 2018—Subsec. (b)(1)(B). Pub. L. 115–141, § 401(d)(5)(B)(iv), added subpar. (B).
 
 Pub. L. 115–141, § 401(d)(4)(B)(vii), struck out subpar. (B). Text read as follows: “The District of Columbia Enterprise Zone shall not be treated as an empowerment zone for purposes of this section.”
@@ -129236,6 +130734,9 @@ Subsec. (b)(5). Pub. L. 115–141, § 401(d)(5)(B)(v), substituted “which is s
 “(B) only the first year of the taxpayer’s holding period for the asset referred to in subsection (a)(1) shall be taken into account for purposes of paragraphs (2)(A)(iii), (3)(C), and (4)(A)(iii) of section 1400F(b).”
 
 2014—Subsec. (b)(1)(A)(iv). Pub. L. 113–295 added cl. (iv).
+
+#### Effective Date of 2020 Amendment
+Amendment by Pub. L. 116–260 applicable to taxable years beginning after Dec. 31, 2020, see section 118(e) of div. EE of Pub. L. 116–260, set out as a note under [section 1391 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-1391).
 
 #### Effective Date of 2014 Amendment
 Amendment by Pub. L. 113–295 effective as if included in the provisions of the Tax Relief, Unemployment Insurance Reauthorization, and Job Creation Act of 2010, Pub. L. 111–312, to which such amendment relates, see section 206(d) of Pub. L. 113–295, set out as a note under [section 32 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-32).

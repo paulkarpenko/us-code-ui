@@ -7,1192 +7,640 @@ source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33&num=0&edition=prelim
 ---
 <a id="section-1401"></a>
-## § 1401. Annual reports
-**(a) Report by Secretary of Commerce** In March of each year, the Secretary of Commerce shall report to the Congress on his activities under this subchapter during the previous fiscal year. The report shall include—
-
-(1) the Secretary’s findings made under [section 1441 of this title](./chapter-027-ocean-dumping.md#section-1441), including an evaluation of the short-term ecological effects and the social and economic factors involved with the dumping;
-
-(2) the results of activities undertaken pursuant to [section 1442 of this title](./chapter-027-ocean-dumping.md#section-1442);
-
-(3) with the concurrence of the Administrator and after consulting with officials of other appropriate Federal agencies, an identification of the short- and long-term research requirements associated with activities under subchapter I, and a description of how Federal research under this subchapter and subchapter I will meet those requirements; and
-
-(4) activities of the Department of Commerce under [section 665 of title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section665&num=0&edition=prelim).
-
-**(b) Report by Administrator** In March of each year, the Administrator shall report to the Congress on his activities during the previous fiscal year under [section 1443 of this title](./chapter-027-ocean-dumping.md#section-1443).
-
-**(c) Report by Under Secretary** On October 31 of each year, the Under Secretary shall report to the Congress the specific programs that the National Oceanic and Atmospheric Administration and the Environmental Protection Agency carried out pursuant to this subchapter in the previous fiscal year, specifically listing the amount of funds allocated to those specific programs in the previous fiscal year.
+## § 1401. Repealed. Pub. L. 104–324, title V, § 506, Oct. 19, 1996, 110 Stat. 3927
 
 ### Statutory Notes
 
-#### Prior Provisions
-A prior section 204 of Pub. L. 92–532, which was classified to this section, was renumbered section 205 and is classified to [section 1445 of this title](./chapter-027-ocean-dumping.md#section-1445).
-
-#### Amendments
-1988—Subsec. (c). Pub. L. 100–627 added subsec. (c).
-
-1986—Pub. L. 99–272 amended section generally. Prior to amendment, section read as follows: “The Administrator of the Environmental Protection Agency is authorized to conduct a study to assist the city of New York in evaluating the technological options available for the removal of heavy metals and other toxic organic materials from the sewage sludge of the city of New York. The study shall also examine options available to reduce the amount of such pollutants entering the sewage system. The study is to be completed by July 1, 1981.”
+Section, Pub. L. 93–627, § 7, Jan. 3, 1975, 88 Stat. 2135; Pub. L. 98–419, § 2(g), (h), Sept. 25, 1984, 98 Stat. 1607, provided for antitrust review by Attorney General and Federal Trade Commission prior to issuance of license for ownership, construction, and operation of deepwater port.
 
 
 <a id="section-1402"></a>
-## § 1402. Authorization of appropriations
+## § 1402. Common carrier status
+**(a) Status of deepwater ports and storage facilities** A deepwater port and a storage facility serviced directly by that deepwater port shall operate as a common carrier under applicable provisions of part I of the Interstate Commerce Act and subtitle IV of title 49, and shall accept, transport, or convey without discrimination all oil delivered to the deepwater port with respect to which its license is issued, except as provided by subsection (b) of this section.
 
-There are authorized to be appropriated for the first fiscal year after October 23, 1972, and for the next two fiscal years thereafter such sums as may be necessary to carry out this subchapter, but the sums appropriated for any such fiscal year may not exceed $6,000,000. There are authorized to be appropriated not to exceed $1,500,000 for the transition period (July 1 through September 30, 1976), not to exceed $5,600,000 for fiscal year 1977, and not to exceed $6,500,000 for fiscal year 1978, not to exceed $11,396,000 for fiscal year 1981, not to exceed $12,000,000 for fiscal year 1982, not to exceed $10,635,000 for fiscal year 1986, not to exceed $11,114,000 for fiscal year 1987, not to exceed $13,500,000 for fiscal year 1989, and not to exceed $14,500,000 for fiscal year 1990.
+**(b) Discrimination prohibition; exceptions** A licensee is not discriminating under this section and is not subject to common carrier regulations under subsection (a) of this section when that licensee—
+
+(1) is subject to effective competition for the transportation of oil from alternative transportation systems; and
+
+(2) sets its rates, fees, charges, and conditions of service on the basis of competition, giving consideration to other relevant business factors such as the market value of services provided, licensee’s cost of operation, and the licensee’s investment in the deepwater port and a storage facility, and components thereof, serviced directly by that deepwater port.
+
+**(c) Enforcement, suspension, or termination proceedings** When the Secretary has reason to believe that a licensee is not in compliance with this section, the Secretary shall commence an appropriate proceeding before the Federal Energy Regulatory Commission or request the Attorney General to take appropriate steps to enforce compliance with this section and, when appropriate, to secure the imposition of appropriate sanctions. In addition, the Secretary may suspend or revoke the license of a licensee not complying with its obligations under this section.
+
+**(d) Managed access** Subsections (a) and (b) shall not apply to deepwater ports for natural gas. A licensee of a deepwater port for natural gas, or an affiliate thereof, may exclusively utilize the entire capacity of the deepwater port and storage facilities for the acceptance, transport, storage, regasification, or conveyance of natural gas produced, processed, marketed, or otherwise obtained by agreement by such licensee or its affiliates. The licensee may make unused capacity of the deepwater port and storage facilities available to other persons, pursuant to reasonable terms and conditions imposed by the licensee, if such use does not otherwise interfere in any way with the acceptance, transport, storage, regasification, or conveyance of natural gas produced, processed, marketed, or otherwise obtained by agreement by such licensee or its affiliates.
+
+**(e) Jurisdiction** Notwithstanding any provision of the Natural Gas Act ([15 U.S.C. 717](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section717&num=0&edition=prelim) et seq.), any regulation or rule issued thereunder, or [section 1518 of this title](./chapter-029-deepwater-ports.md#section-1518) as it pertains to such Act, this chapter shall apply with respect to the licensing, siting, construction, or operation of a deepwater natural gas port or the acceptance, transport, storage, regasification, or conveyance of natural gas at or through a deepwater port, to the exclusion of the Natural Gas Act or any regulation or rule issued thereunder.
 
 ### Statutory Notes
 
-#### Prior Provisions
-A prior section 205 of Pub. L. 92–532, which was classified to this section, was renumbered section 204 and is classified to [section 1444 of this title](./chapter-027-ocean-dumping.md#section-1444).
+#### References in Text
+The Interstate Commerce Act, referred to in subsec. (a), is act Feb. 4, 1887, ch. 104, 24 Stat. 379, as amended. Part I of the Act, which was classified to chapter 1 (§ 1 et seq.) of former Title 49, Transportation, was repealed by Pub. L. 95-473, § 4(b), Oct. 17, 1978, 92 Stat. 1467, the first section of which enacted subtitle IV (§ 10101 et seq.) of Title 49. For distribution of former sections of Title 49 into the revised Title 49, see Table at the beginning of Title 49.
+
+The Natural Gas Act, referred to in subsec. (e), is act June 21, 1938, ch. 556, 52 Stat. 821, as amended, which is classified generally to chapter 15B (§ 717 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see [section 717w of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section717w&num=0&edition=prelim) and Tables.
 
 #### Amendments
-1988—Pub. L. 100–627 inserted provision authorizing appropriations not to exceed $13,500,000 for fiscal year 1989 and not to exceed $14,500,000 for fiscal year 1990.
+2002—Subsecs. (d), (e). Pub. L. 107–295 added subsecs. (d) and (e).
 
-1986—Pub. L. 99–272 inserted provision authorizing appropriations not to exceed $10,635,000 for fiscal year 1986 and not to exceed $11,114,000 for fiscal year 1987.
+1996—Subsec. (a). Pub. L. 104–324, § 507(a), inserted “and shall accept, transport, or convey without discrimination all oil delivered to the deepwater port with respect to which its license is issued,” after “subtitle IV of title 49,”.
 
-1980—Pub. L. 96–381 inserted provision authorizing appropriations not to exceed $11,396,000 for fiscal year 1981 and not to exceed $12,000,000 for fiscal year 1982.
+Subsec. (b). Pub. L. 104–324, § 507(b), substituted “A licensee is not discriminating under this section and” for “A licensee under this chapter shall accept, transport, or convey without discrimination all oil delivered to the deepwater port with respect to which its license is issued. However, a licensee”.
 
-1977—Pub. L. 95–153 inserted provision authorizing appropriations not to exceed $6,500,000 for fiscal year 1978.
+1984—Subsec. (a). Pub. L. 98–419 substituted provision that a deepwater port and a storage facility serviced directly by that deepwater port shall operate as a common carrier under applicable provisions of part I of the Interstate Commerce Act and subtitle IV of title 49 except as provided by subsec. (b), for provision that such port and such facilities were subject to regulations as a common carrier in accordance with the Interstate Commerce Act, as amended, for purposes of chapter 39 of title 18 and former sections 1 to 27 of title 49.
 
-1976—Pub. L. 94–326 inserted provision authorizing appropriations not to exceed $5,600,000 for fiscal year 1977.
+Subsec. (b). Pub. L. 98–419 inserted provisions enumerating conditions under which a licensee is not subject to common carrier regulations under subsec. (a). Provisions dealing with enforcement, suspension, or termination proceedings, were redesignated as subsec. (c).
 
-1975—Pub. L. 94–62 inserted provision authorizing appropriations not to exceed $1,500,000 for the transition period (July 1, through Sept. 30, 1976).
+Subsec. (c). Pub. L. 98–419 redesignated a portion of provisions of subsec. (b) as subsec. (c), and in subsec. (c) as so redesignated substituted provisions authorizing the Secretary to commence proceedings before the Federal Energy Regulatory Commission, or to suspend or revoke licenses of noncomplying licensees, in the event of noncompliance with this section, for provisions which had authorized the Secretary to commence proceedings before the Interstate Commerce Commission or to suspend or terminate licenses of noncomplying licensees as provided in [section 1511 of this title](./chapter-029-deepwater-ports.md#section-1511), in the event of noncompliance by a licensee with its obligations as a common carrier.
 
 
 <a id="section-1411"></a>
-## § 1411. Congressional finding, policy, and declaration of purpose
-**(a) Dangers of unregulated dumping** Unregulated dumping of material into ocean waters endangers human health, welfare, and amenities, and the marine environment, ecological systems, and economic potentialities.
+## § 1411. Consultations and determinations respecting creation of hazards to human health, etc.; criteria for determinations respecting grave and imminent dangers of major harmful consequences to United States coastline or related interests
+**(a)** The Secretary, after consultation with the Administrator of the Environmental Protection Agency and the Secretary of Commerce, shall determine when a substance other than those enumerated in the protocol is liable to create a hazard to human health, to harm living resources, to damage amenities, or to interfere with other legitimate uses of the sea.
 
-**(b) Policy of regulation and prevention or limitation** The Congress declares that it is the policy of the United States to regulate the dumping of all types of materials into ocean waters and to prevent or strictly limit the dumping into ocean waters of any material which would adversely affect human health, welfare, or amenities, or the marine environment, ecological systems, or economic potentialities.
-
-**(c) Regulation of dumping and transportation for dumping purposes** It is the purpose of this Act to regulate (1) the transportation by any person of material from the United States and, in the case of United States vessels, aircraft, or agencies, the transportation of material from a location outside the United States, when in either case the transportation is for the purpose of dumping the material into ocean waters, and (2) the dumping of material transported by any person from a location outside the United States, if the dumping occurs in the territorial sea or the contiguous zone of the United States.
+**(b)** In determining whether there is grave and imminent danger of major harmful consequences to the coastline or related interests of the United States, the Secretary shall consider the interests of the United States directly threatened or affected including but not limited to, human health, fish, shellfish, and other living marine resources, wildlife, coastal zone and estuarine activities, and public and private shorelines and beaches.
 
 ### Statutory Notes
 
-#### References in Text
-This Act, referred to in subsec. (c), means Pub. L. 92–532, which is classified generally to this chapter, chapter 41 (§ 2801 et seq.) of this title, and chapters 32 (§ 1431 et seq.) and 32A (§ 1447 et seq.) of Title 16, Conservation.
-
 #### Amendments
-1974—Subsec. (b). Pub. L. 93–254 struck out statement of the purpose of this Act as being the regulation of transportation of material from the United States for dumping into ocean waters, and the dumping of material, transported from outside the United States, if the dumping occurs in ocean waters over which the United States has jurisdiction or over which it may exercise control, under accepted principles of international law, in order to protect its territory or territorial sea, now covered by subsec. (c) of this section.
+1978—Pub. L. 95–302 added subsec. (a), designated existing provisions as subsec. (b), and inserted “human health,” before “fish”.
 
-Subsec. (c). Pub. L. 93–254 added subsec. (c).
-
-#### Effective Date of 1974 Amendment
-Pub. L. 93–254, § 2, Mar. 22, 1974, 88 Stat. 51, provided in part that amendment of subsecs. (b) and (c) of this section and sections 1402, 1411, and 1412(a), other than last sentence of subsec. (a), of this title, by Pub. L. 93–254 shall become effective Mar. 22, 1974.
-
-#### Short Title of 1988 Amendment
-Pub. L. 100–688, title I, § 1001, Nov. 18, 1988, 102 Stat. 4139, provided that: “This title [enacting sections 1414b and 1414c of this title, amending sections 1268, 1412a, and 1414a of this title, and amending provisions set out as a note under [section 2267 of this title](./chapter-036-water-resources-development.md#section-2267)] may be cited as the ‘Ocean Dumping Ban Act of 1988’.”
-
-#### Short Title
-Pub. L. 92–532, § 1, Oct. 23, 1972, 86 Stat. 1052, provided: “That this Act [enacting this chapter, chapter 41 (§ 2801 et seq.) of this title, and chapters 32 (§ 1431 et seq.) and 32A (§ 1447 et seq.) of Title 16, Conservation] may be cited as the ‘Marine Protection, Research, and Sanctuaries Act of 1972’.”
-
-#### Territorial Sea and Contiguous Zone of United States
-For extension of territorial sea and contiguous zone of United States, see Proc. No. 5928 and Proc. No. 7219, respectively, set out as notes under [section 1331 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1331&num=0&edition=prelim), Public Lands.
-
-#### Environmental Effects Abroad of Major Federal Actions
-For provisions relating to environmental effects abroad of major federal actions, see Ex. Ord. No. 12114, Jan. 4, 1979, 44 F.R. 1957, set out as a note under [section 4321 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim), The Public Health and Welfare.
-
-#### Federal Compliance With Pollution Control Standards
-For provisions relating to the responsibility of the head of each Executive agency for compliance with applicable pollution control standards, see Ex. Ord. No. 12088, Oct. 13, 1978, 43 F.R. 47707, set out as a note under [section 4321 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim), The Public Health and Welfare.
+#### Effective Date of 1978 Amendment
+For effective date of amendment by Pub. L. 95–302, see section 2 of Pub. L. 95–302, set out as a note under [section 1487 of this title](./chapter-028-pollution-casualties-on-the-high-seas-united-states-intervention.md#section-1487).
 
 
 <a id="section-1412"></a>
-## § 1412. Definitions
+## § 1412. Federal intervention actions
 
-For the purposes of this Act the term—
+Upon a determination under [section 1472 of this title](./chapter-028-pollution-casualties-on-the-high-seas-united-states-intervention.md#section-1472) of a grave and imminent danger to the coastline or related interests of the United States, the Secretary may—
 
-**(a)** “Administrator” means the Administrator of the Environmental Protection Agency.
+(1) coordinate and direct all public and private efforts directed at the removal or elimination of the threatened pollution damage;
 
-**(b)** “Ocean waters” means those waters of the open seas lying seaward of the base line from which the territorial sea is measured, as provided for in the Convention on the Territorial Sea and the Contiguous Zone (15 UST 1606; TIAS 5639).
+(2) directly or indirectly undertake the whole or any part of any salvage or other action he could require or direct under subsection (1) of this section; and
 
-**(c)** “Material” means matter of any kind or description, including, but not limited to, dredged material, solid waste, incinerator residue, garbage, sewage, sewage sludge, munitions, radiological, chemical, and biological warfare agents, radioactive materials, chemicals, biological and laboratory waste, wreck or discarded equipment, rock, sand, excavation debris, and industrial, municipal, agricultural, and other waste; but such term does not mean sewage from vessels within the meaning of [section 1322 of this title](./chapter-026-water-pollution-prevention-and-control.md#section-1322). Oil within the meaning of [section 1321 of this title](./chapter-026-water-pollution-prevention-and-control.md#section-1321) shall be included only to the extent that such oil is taken on board a vessel or aircraft for the purpose of dumping.
+(3) remove, and, if necessary, destroy the ship and cargo which is the source of the danger.
 
-**(d)** “United States” includes the several States, the District of Columbia, the Commonwealth of Puerto Rico, the Canal Zone, the territories and possessions of the United States, and the Trust Territory of the Pacific Islands.
 
-**(e)** “Person” means any private person or entity, or any officer, employee, agent, department, agency, or instrumentality of the Federal Government, of any State or local unit of government, or of any foreign government.
+<a id="section-1412a"></a>
+## § 1412a. Consultation procedure
 
-**(f)** “Dumping” means a disposition of material: Provided, That it does not mean a disposition of any effluent from any outfall structure to the extent that such disposition is regulated under the provisions of the Federal Water Pollution Control Act, as amended [[33 U.S.C. 1251](./chapter-026-water-pollution-prevention-and-control.md#section-1251) et seq.], under the provisions of [section 407 of this title](./chapter-009-protection-of-navigable-waters-and-of-harbor-and-river-improvements-generally.md#section-407), or under the provisions of the Atomic Energy Act of 1954, as amended [[42 U.S.C. 2011](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2011&num=0&edition=prelim) et seq.], nor does it mean a routine discharge of effluent incidental to the propulsion of, or operation of motor-driven equipment on, vessels: Provided, further, That it does not mean the construction of any fixed structure or artificial island nor the intentional placement of any device in ocean waters or on or in the submerged land beneath such waters, for a purpose other than disposal, when such construction or such placement is otherwise regulated by Federal or State law or occurs pursuant to an authorized Federal or State program: And provided further, That it does not include the deposit of oyster shells, or other materials when such deposit is made for the purpose of developing, maintaining, or harvesting fisheries resources and is otherwise regulated by Federal or State law or occurs pursuant to an authorized Federal or State program.
+Before taking any measure under [section 1474 of this title](./chapter-028-pollution-casualties-on-the-high-seas-united-states-intervention.md#section-1474), the Secretary shall—
 
-**(g)** “District court of the United States” includes the District Court of Guam, the District Court of the Virgin Islands, the District Court of Puerto Rico, the District Court of the Canal Zone, and in the case of American Samoa and the Trust Territory of the Pacific Islands, the District Court of the United States for the District of Hawaii, which court shall have jurisdiction over actions arising therein.
+(1) consult, through the Secretary of State, with other countries affected by the marine casualty, and particularly with the flag country of any ship involved;
 
-**(h)** “Secretary” means the Secretary of the Army.
+(2) notify without delay the Administrator of the Environmental Protection Agency and any other persons known to the Secretary, or of whom he later becomes aware, who have interests which can reasonably be expected to be affected by any proposed measures; and
 
-**(i)** “Dredged material” means any material excavated or dredged from the navigable waters of the United States.
+(3) consider any views submitted in response to the consultation or notification required by subsections (1) and (2) of this section.
 
-**(j)** “High-level radioactive waste” means the aqueous waste resulting from the operation of the first cycle solvent extraction system, or equivalent and the concentrated waste from subsequent extraction cycles, or equivalent, in a facility for reprocessing irradiated reactor fuels, or irradiated fuel from nuclear power reactors.
 
-**(k)** “Medical waste” means isolation wastes; infectious agents; human blood and blood products; pathological wastes; sharps; body parts; contaminated bedding; surgical wastes and potentially contaminated laboratory wastes; dialysis wastes; and such additional medical items as the Administrator shall prescribe by regulation.
+<a id="section-1413"></a>
+## § 1413. Emergencies
 
-**(l)** “Transport” or “transportation” refers to the carriage and related handling of any material by a vessel, or by any other vehicle, including aircraft.
+In cases of extreme urgency requiring measures to be taken immediately, the Secretary may take those measures rendered necessary by the urgency of the situation without the prior consultation or notification as required by [section 1475 of this title](./chapter-028-pollution-casualties-on-the-high-seas-united-states-intervention.md#section-1475) or without the continuation of consultations already begun.
 
-**(m)** “Convention” means the Convention on the Prevention of Marine Pollution by Dumping of Wastes and Other Matter.
+
+<a id="section-1414"></a>
+## § 1414. Reasonable measures; considerations
+**(a)** Measures directed or conducted under this chapter shall be proportionate to the damage, actual or threatened, to the coastline or related interests of the United States and may not go beyond what is reasonably necessary to prevent, mitigate, or eliminate that damage.
+
+**(b)** In considering whether measures are proportionate to the damage the Secretary shall, among other things, consider—
+
+(1) the extent and probability of imminent damage if those measures are not taken;
+
+(2) the likelihood of effectiveness of those measures; and
+
+(3) the extent of the damage which may be caused by those measures.
+
+
+<a id="section-1414a"></a>
+## § 1414a. Personal, flag state, and foreign state considerations
+
+In the direction and conduct of measures under this chapter the Secretary shall use his best endeavors to—
+
+(1) assure the avoidance of risk to human life;
+
+(2) render all possible aid to distressed persons, including facilitating repatriation of ships’ crews; and
+
+(3) not unnecessarily interfere with rights and interests of others, including the flag state of any ship involved, other foreign states threatened by damage, and persons otherwise concerned.
+
+
+<a id="section-1414b"></a>
+## § 1414b. Federal liability for unreasonable damages
+**(a) Payment of compensation** The United States shall be obliged to pay compensation to the extent of the damage caused by measures which exceed those reasonably necessary to achieve the end mentioned in [section 1472 of this title](./chapter-028-pollution-casualties-on-the-high-seas-united-states-intervention.md#section-1472).
+
+**(b) Jurisdiction** Actions against the United States seeking compensation for any excessive measures may be brought in the United States Court of Federal Claims, in any district court of the United States, and in those courts enumerated in [section 460 of title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section460&num=0&edition=prelim). For purposes of this chapter, American Samoa shall be included within the judicial district of the District Court of the United States for the District of Hawaii, and the Trust Territory of the Pacific Islands shall be included within the judicial districts of both the District Court of the United States for the District of Hawaii and the District Court of Guam.
+
+**(c) Burden of proof** With respect to intervention for a substance identified pursuant to [section 1473(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1473/a&num=0&edition=prelim), the United States has the burden of establishing that, under the circumstances present at the time of the intervention, the substance could reasonably pose a grave and imminent danger analogous to that posed by a substance enumerated in the protocol.
 
 ### Statutory Notes
 
-#### References in Text
-This Act, referred to in text, means Pub. L. 92–532, which is classified generally to this chapter, chapter 41 (§ 2801 et seq.) of this title, and chapters 32 (§ 1431 et seq.) and 32A (§ 1447 et seq.) of Title 16, Conservation.
-
-For definition of Canal Zone, referred to in subsec. (d), see [section 3602(b) of Title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section3602/b&num=0&edition=prelim), Foreign Relations and Intercourse.
-
-The Federal Water Pollution Control Act, as amended, referred to in subsec. (f), is act June 30, 1948, ch. 758, as amended generally by Pub. L. 92–500, § 2, Oct. 18, 1972, 86 Stat. 816, which is classified generally to chapter 26 (§ 1251 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1251 of this title](./chapter-026-water-pollution-prevention-and-control.md#section-1251) and Tables.
-
-The Atomic Energy Act of 1954, as amended, referred to in subsec. (f), is act Aug. 1, 1946, ch. 724, as added by act Aug. 30, 1954, ch. 1073, § 1, 68 Stat. 919, which is classified principally to chapter 23 (§ 2011 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 2011 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2011&num=0&edition=prelim) and Tables.
-
 #### Amendments
-1988—Subsecs. (k) to (m). Pub. L. 100–688 added subsec. (k) and redesignated former subsecs. (k) and (l) as (l) and (m), respectively.
+1992—Subsec. (b). Pub. L. 102–572 substituted “United States Court of Federal Claims” for “United States Claims Court”.
 
-1974—Subsec. (c). Pub. L. 93–254, § 1(2)(A), substituted “sewage from vessels within the meaning of [section 1322 of this title](./chapter-026-water-pollution-prevention-and-control.md#section-1322). Oil within the meaning of [section 1321 of this title](./chapter-026-water-pollution-prevention-and-control.md#section-1321) shall be included only to the extent that such oil is taken on board a vessel or aircraft for the purpose of dumping.” for “oil within the meaning of section 11 of the Federal Water Pollution Control Act and does not mean sewage from vessels within the meaning of section 13 of such Act.”
+1982—Subsec. (b). Pub. L. 97–164 substituted “Claims Court” for “Court of Claims”.
 
-Subsec. (l). Pub. L. 93–254, § 1(2)(C), added subsec. (l).
+1978—Subsec. (c). Pub. L. 95–302 added subsec. (c).
 
-#### Effective Date of 1974 Amendment
-Amendment by Pub. L. 93–254 effective Mar. 22, 1974, see section 2 of Pub. L. 93–254, set out in part as a note under [section 1401 of this title](./chapter-027-ocean-dumping.md#section-1401).
+#### Effective Date of 1992 Amendment
+Amendment by Pub. L. 102–572 effective Oct. 29, 1992, see section 911 of Pub. L. 102–572, set out as a note under [section 171 of Title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section171&num=0&edition=prelim), Judiciary and Judicial Procedure.
+
+#### Effective Date of 1982 Amendment
+Amendment by Pub. L. 97–164 effective Oct. 1, 1982, see section 402 of Pub. L. 97–164, set out as a note under [section 171 of Title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section171&num=0&edition=prelim), Judiciary and Judicial Procedure.
+
+#### Effective Date of 1978 Amendment
+For effective date of amendment by Pub. L. 95–302, see section 2 of Pub. L. 95–302, set out as a note under [section 1487 of this title](./chapter-028-pollution-casualties-on-the-high-seas-united-states-intervention.md#section-1487).
 
 #### Termination of Trust Territory of the Pacific Islands
 For termination of Trust Territory of the Pacific Islands, see note set out preceding [section 1681 of Title 48](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title48-section1681&num=0&edition=prelim), Territories and Insular Possessions.
 
-#### Termination of United States District Court for the District of the Canal Zone
-For termination of the United States District Court for the District of the Canal Zone at end of the “transition period”, being the 30-month period beginning Oct. 1, 1979, and ending midnight Mar. 31, 1982, see Paragraph 5 of Article XI of the Panama Canal Treaty of 1977 and sections 2101 and 2201 to 2203 of Pub. L. 96–70, title II, Sept. 27, 1979, 93 Stat. 493, formerly classified to sections 3831 and 3841 to 3843, respectively, of Title 22, Foreign Relations and Intercourse.
-
-#### Territorial Sea and Contiguous Zone of United States
-For extension of territorial sea and contiguous zone of United States, see Proc. No. 5928 and Proc. No. 7219, respectively, set out as notes under [section 1331 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1331&num=0&edition=prelim), Public Lands.
-
-
-<a id="section-1412a"></a>
-## § 1412a. Prohibited acts
-**(a)** Except as may be authorized by a permit issued pursuant to section 1412 or [section 1413 of this title](./chapter-027-ocean-dumping.md#section-1413), and subject to regulations issued pursuant to [section 1418 of this title](./chapter-027-ocean-dumping.md#section-1418),
-
-(1) no person shall transport from the United States, and
-
-(2) in the case of a vessel or aircraft registered in the United States or flying the United States flag or in the case of a United States department, agency, or instrumentality, no person shall transport from any location
-any material for the purpose of dumping it into ocean waters.
-
-**(b)** Except as may be authorized by a permit issued pursuant to [section 1412 of this title](./chapter-027-ocean-dumping.md#section-1412), and subject to regulations issued pursuant to [section 1418 of this title](./chapter-027-ocean-dumping.md#section-1418), no person shall dump any material transported from a location outside the United States (1) into the territorial sea of the United States, or (2) into a zone contiguous to the territorial sea of the United States, extending to a line twelve nautical miles seaward from the base line from which the breadth of the territorial sea is measured, to the extent that it may affect the territorial sea or the territory of the United States.
-
-### Statutory Notes
-
-#### Amendments
-1974—Subsec. (a). Pub. L. 93–254 incorporated existing provisions in introductory text, substituting reference to permits issued under section 1412 or [section 1413 of this title](./chapter-027-ocean-dumping.md#section-1413) for prior reference to such issuance under this subchapter; incorporated existing provisions in item designated (1); added item (2); and substituted prohibition against transportation of any material for ocean dumping for former prohibition against such dumping of any radiological, chemical, or biological warfare agent or any high-level radioactive waste, or any other material.
-
-Subsec. (b). Pub. L. 93–254 substituted reference to permits issued under [section 1412 of this title](./chapter-027-ocean-dumping.md#section-1412) for former reference to such issuance under this subchapter, made any ocean dumping subject to regulations issued under [section 1418 of this title](./chapter-027-ocean-dumping.md#section-1418), and substituted prohibition against dumping of any material for former prohibition against dumping of any radiological, chemical, or biological warfare agent or any high-level radioactive waste, or any other material.
-
-Subsec. (c). Pub. L. 93–254 struck out subsec. (c) which prohibited any officer, employee, agent, department, agency, or instrumentality of the United States from transporting from any location outside the United States any radiological, chemical, or biological warfare agent or any high-level radioactive waste, or, except as may be authorized in a permit, any other material for purpose of dumping in ocean waters. See subsec. (b) of this section.
-
-#### Effective Date of 1974 Amendment
-Amendment by Pub. L. 93–254 effective Mar. 22, 1974, see section 2 of Pub. L. 93–254, set out in part as a note under [section 1401 of this title](./chapter-027-ocean-dumping.md#section-1401).
-
-#### Effective Date
-Pub. L. 92–532, title I, § 110(a), Oct. 23, 1972, 86 Stat. 1060, provided that: “This title [this subchapter] shall take effect six months after the date of the enactment of this Act [Oct. 23, 1972].”
-
-#### Savings Provision
-Pub. L. 92–532, title I, § 110(b), Oct. 23, 1972, 86 Stat. 1060, provided that: “No legal action begun, or right of action accrued, prior to the effective date of this title [this subchapter] shall be affected by any provision of this title [this subchapter].”
-
-#### Territorial Sea and Contiguous Zone of United States
-For extension of territorial sea and contiguous zone of United States, see Proc. No. 5928 and Proc. No. 7219, respectively, set out as notes under [section 1331 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1331&num=0&edition=prelim), Public Lands.
-
-
-<a id="section-1413"></a>
-## § 1413. Dumping permit program
-**(a) Environmental Protection Agency permits** Except in relation to dredged material, as provided for in [section 1413 of this title](./chapter-027-ocean-dumping.md#section-1413), and in relation to radiological, chemical, and biological warfare agents, high-level radioactive waste, and medical waste, for which no permit may be issued, the Administrator may issue permits, after notice and opportunity for public hearings, for the transportation from the United States or, in the case of an agency or instrumentality of the United States, or in the case of a vessel or aircraft registered in the United States or flying the United States flag, for the transportation from a location outside the United States, of material for the purpose of dumping it into ocean waters, or for the dumping of material into the waters described in [section 1411(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1411/b&num=0&edition=prelim), where the Administrator determines that such dumping will not unreasonably degrade or endanger human health, welfare, or amenities, or the marine environment, ecological systems, or economic potentialities. The Administrator shall establish and apply criteria for reviewing and evaluating such permit applications, and, in establishing or revising such criteria, shall consider, but not be limited in his consideration to, the following :
-
-(A) The need for the proposed dumping.
-
-(B) The effect of such dumping on human health and welfare, including economic, esthetic, and recreational values.
-
-(C) The effect of such dumping on fisheries resources, plankton, fish, shellfish, wildlife, shore lines and beaches.
-
-(D) The effect of such dumping on marine ecosystems, particularly with respect to—
-
-  (i) the transfer, concentration, and dispersion of such material and its byproducts through biological, physical, and chemical processes.
-
-  (ii) potential changes in marine ecosystem diversity, productivity, and stability, and
-
-  (iii) species and community population dynamics.
-
-(E) The persistence and permanence of the effects of the dumping.
-
-(F) The effect of dumping particular volumes and concentrations of such materials.
-
-(G) Appropriate locations and methods of disposal or recycling, including land-based alternatives and the probable impact of requiring use of such alternate locations or methods upon considerations affecting the public interest.
-
-(H) The effect on alternate uses of oceans, such as scientific study, fishing, and other living resource exploitation, and non-living resource exploitation.
-
-(I) In designating recommended sites, the Administrator shall utilize wherever feasible locations beyond the edge of the Continental Shelf.
-In establishing or revising such criteria, the Administrator shall consult with Federal, State, and local officials, and interested members of the general public, as may appear appropriate to the Administrator. With respect to such criteria as may affect the civil works program of the Department of the Army, the Administrator shall also consult with the Secretary. In reviewing applications for permits, the Administrator shall make such provision for consultation with interested Federal and State agencies as he deems useful or necessary. No permit shall be issued for a dumping of material which will violate applicable water quality standards. To the extent that he may do so without relaxing the requirements of this subchapter, the Administrator, in establishing or revising such criteria, shall apply the standards and criteria binding upon the United States under the Convention, including its Annexes.
-
-**(b) Permit categories** The Administrator may establish and issue various categories of permits, including the general permits described in [section 1414(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1414/c&num=0&edition=prelim).
-
-**(c) Designation of sites**
-
-(1) **In general** — The Administrator shall, in a manner consistent with the criteria established pursuant to subsection (a), designate sites or time periods for dumping. The Administrator shall designate sites or time periods for dumping that will mitigate adverse impact on the environment to the greatest extent practicable.
-
-(2) **Prohibitions regarding site or time period** — In any case where the Administrator determines that, with respect to certain materials, it is necessary to prohibit dumping at a site or during a time period, the Administrator shall prohibit the dumping of such materials in such site or during such time period. This prohibition shall apply to any dumping at the site or during such time period. This prohibition shall apply to any dumping at the site or during the time period, including any dumping under [section 1413(e) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1413/e&num=0&edition=prelim).
-
-(3) **Dredged material disposal sites** — In the case of dredged material disposal sites, the Administrator, in conjunction with the Secretary, shall develop a site management plan for each site designated pursuant to this section. In developing such plans, the Administrator and the Secretary shall provide opportunity for public comment. Such plans shall include, but not be limited to—
-
-  (A) a baseline assessment of conditions at the site;
-
-  (B) a program for monitoring the site;
-
-  (C) special management conditions or practices to be implemented at each site that are necessary for protection of the environment;
-
-  (D) consideration of the quantity of the material to be disposed of at the site, and the presence, nature, and bioavailability of the contaminants in the material;
-
-  (E) consideration of the anticipated use of the site over the long term, including the anticipated closure date for the site, if applicable, and any need for management of the site after the closure of the site; and
-
-  (F) a schedule for review and revision of the plan (which shall not be reviewed and revised less frequently than 10 years after adoption of the plan, and every 10 years thereafter).
-
-(4) **General site management plan requirement; prohibitions** — After January 1, 1995, no site shall receive a final designation unless a management plan has been developed pursuant to this section. Beginning on January 1, 1997, no permit for dumping pursuant to this Act or authorization for dumping under [section 1413(e) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1413/e&num=0&edition=prelim) shall be issued for a site (other than the site located off the coast of Newport Beach, California, which is known as “LA–3”) unless such site has received a final designation pursuant to this subsection or an alternative site has been selected pursuant to [section 1413(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1413/b&num=0&edition=prelim). Beginning January 1, 2011, no permit for dumping pursuant to this Act or authorization for dumping under [section 1413(e) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1413/e&num=0&edition=prelim) shall be issued for the site located off the coast of Newport Beach, California, which is known as “LA–3”, unless such site has received a final designation pursuant to this subsection or an alternative site has been selected pursuant to [section 1413(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1413/b&num=0&edition=prelim).
-
-(5) **Management plans for previously designated sites** — The Administrator shall develop a site management plan for any site designated prior to January 1, 1995, as expeditiously as practicable, but not later than January 1, 1997, giving priority consideration to management plans for designated sites that are considered to have the greatest impact on the environment.
-
-**(d) Fish wastes** No permit is required under this subchapter for the transportation for dumping or the dumping of fish wastes, except when deposited in harbors or other protected or enclosed coastal waters, or where the Administrator finds that such deposits could endanger health, the environment, or ecological systems in a specific location. Where the Administrator makes such a finding, such material may be deposited only as authorized by a permit issued by the Administrator under this section.
-
-**(e) Foreign State permits; acceptance** In the case of transportation of material, by an agency or instrumentality of the United States or by a vessel or aircraft registered in the United States or flying the United States flag, from a location in a foreign State Party to the Convention, a permit issued pursuant to the authority of that foreign State Party, in accordance with Convention requirements, and which otherwise could have been issued pursuant to subsection (a) of this section, shall be accepted, for the purposes of this subchapter, as if it were issued by the Administrator under the authority of this section: Provided, That in the case of an agency or instrumentality of the United States, no application shall be made for a permit to be issued pursuant to the authority of a foreign State Party to the Convention unless the Administrator concurs in the filing of such application.
-
-### Statutory Notes
-
-#### References in Text
-This Act, referred to in subsec. (c)(4), means Pub. L. 92–532, which is classified generally to this chapter, chapter 41 (§ 2801 et seq.) of this title, and chapters 32 (§ 1431 et seq.) and 32A (§ 1447 et seq.) of Title 16, Conservation.
-
-#### Amendments
-2007—Subsec. (c)(4). Pub. L. 110–114 substituted “January 1, 2011” for “January 1, 2003” in third sentence.
-
-1999—Subsec. (c)(4). Pub. L. 106–53 substituted “January 1, 2003” for “January 1, 2000” in third sentence.
-
-1996—Subsec. (c)(4). Pub. L. 104–303 inserted “(other than the site located off the coast of Newport Beach, California, which is known as ‘LA–3’)” after “for a site” and inserted at end “Beginning January 1, 2000, no permit for dumping pursuant to this Act or authorization for dumping under [section 1413(e) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1413/e&num=0&edition=prelim) shall be issued for the site located off the coast of Newport Beach, California, which is known as ‘LA–3’, unless such site has received a final designation pursuant to this subsection or an alternative site has been selected pursuant to [section 1413(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1413/b&num=0&edition=prelim).”
-
-1992—Subsec. (c). Pub. L. 102–580 amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “The Administrator may, considering the criteria established pursuant to subsection (a) of this section, designate recommended sites or times for dumping and, when he finds it necessary to protect critical areas, shall, after consultation with the Secretary, also designate sites or times within which certain materials may not be dumped.”
-
-1988—Subsec. (a). Pub. L. 100–688 substituted “agents, high-level” for “agents and high-level” and inserted “and medical waste,” after “radioactive waste,”.
-
-1980—Subsec. (e). Pub. L. 96–572 inserted applicability to United States agency or instrumentality, and proviso respecting such agency or instrumentality.
-
-1974—Subsec. (a). Pub. L. 93–254, § 1(4)(A), substituted “for which no permit may be issued,” for “as provided for in [section 1411 of this title](./chapter-027-ocean-dumping.md#section-1411),”, inserted “or in the case of a vessel or aircraft registered in the United States or flying the United States flag,” after “instrumentality of the United States,”, and required the Administrator to apply the standards and criteria binding upon the United States under the Convention, including its Annexes.
-
-Subsec. (e). Pub. L. 93–254, § 1(4)(B), added subsec. (e).
-
-#### Effective Date of 1974 Amendment
-Pub. L. 93–254, § 2, Mar. 22, 1974, 88 Stat. 51, provided in part that: “The amendments made by subparagraph 1(4)(A)(iii) and paragraph 1(4)(B) of this Act [enacting provision of subsec. (a) respecting application of standards by Administrator and subsec. (e) of this section] shall become effective on the date that the Convention on the Prevention of Marine Pollution by Dumping of Wastes and Other Matters enters into force for the United States.” [The Convention entered into force for the United States Aug. 30, 1975.]
-
-Amendment of subsec. (a) of this section, other than last sentence, by Pub. L. 93–254 effective Mar. 22, 1974, see section 2 of Pub. L. 93–254, set out in part as a note under [section 1401 of this title](./chapter-027-ocean-dumping.md#section-1401).
-
-#### Effective Date
-Section effective 6 months after Oct. 23, 1972, see section 110(a) of Pub. L. 92–532, set out as a note under [section 1411 of this title](./chapter-027-ocean-dumping.md#section-1411).
-
-
-<a id="section-1414"></a>
-## § 1414. Emergency dumping of industrial waste
-**(a) Issuance of emergency permits** Notwithstanding section 104B of the Marine Protection, Research, and Sanctuaries Act of 1972 [[33 U.S.C. 1414b](./chapter-027-ocean-dumping.md#section-1414b)], after December 31, 1981, the Administrator may issue emergency permits under title I of such Act [[33 U.S.C. 1411](./chapter-027-ocean-dumping.md#section-1411) et seq.] for the dumping of industrial waste into ocean waters, or into waters described in such section 101(b) [[33 U.S.C. 1411(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1411/b&num=0&edition=prelim)], if the Administrator determines that there has been demonstrated to exist an emergency, requiring the dumping of such waste, which poses an unacceptable risk relating to human health and admits of no other feasible solution. As used herein, “emergency” refers to situations requiring action with a marked degree of urgency.
-
-**(b) “Industrial waste” defined** For purposes of this section, the term “industrial waste” means any solid, semisolid, or liquid waste generated by a manufacturing or processing plant.
-
-### Statutory Notes
-
-#### References in Text
-The Marine Protection, Research, and Sanctuaries Act of 1972, referred to in subsec. (a), is Pub. L. 92–532, Oct. 23, 1972, 86 Stat. 1052, as amended. Title I of the Act is classified generally to this subchapter. For complete classification of this Act to the Code, see Short Title note set out under [section 1401 of this title](./chapter-027-ocean-dumping.md#section-1401) and Tables.
-
-Such section 101(b), referred to in subsec. (b), means section 101(b) of the Marine Protection, Research, and Sanctuaries Act of 1972.
-
-#### Codification
-Section was not enacted as part of the Marine Protection, Research, and Sanctuaries Act of 1972 which comprises this chapter.
-
-#### Amendments
-1988—Subsec. (a). Pub. L. 100–688, § 1003(a)(1), (3)–(5), redesignated subsec. (c) as (a), substituted “Notwithstanding section 104B of the Marine Protection, Research, and Sanctuaries Act of 1972 after” for “After”, and “title I of such Act” for “such title I”. Former subsec. (a), which related to cessation of dumping, with exceptions, was struck out.
-
-Subsec. (b). Pub. L. 100–688, § 1003(a)(2), (7), added subsec. (b). Former subsec. (b), which related to issuance of permits for dumping of industrial waste, was struck out.
-
-Subsec. (c). Pub. L. 100–688, § 1003(a)(3), redesignated subsec. (c) as (a).
-
-Subsec. (d). Pub. L. 100–688, § 1003(a)(6), struck out subsec. (d) which related to definitions.
-
-1980—Subsec. (a). Pub. L. 96–572, § 2(1), inserted applicability to industrial waste, exceptions respecting subsecs. (b) and (c) of this section, and conforming changes in phraseology.
-
-Subsec. (b). Pub. L. 96–572, § 2(2), added subsec. (b). Former subsec. (b), defining “sewage sludge”, was struck out.
-
-Subsecs. (c), (d). Pub. L. 96–572, § 2(2), added subsecs. (c) and (d).
-
-
-<a id="section-1414a"></a>
-## § 1414a. Dumping permit program for dredged mate­rial
-**(a) Issuance by Secretary of the Army** Subject to the provisions of subsections (b), (c), and (d) of this section, the Secretary may issue permits, after notice and opportunity for public hearings, for the transportation of dredged material for the purpose of dumping it into ocean waters, where the Secretary determines that the dumping will not unreasonably degrade or endanger human health, welfare, or amenities, or the marine environment, ecological systems, or economic potentialities.
-
-**(b) Independent determination of need for dumping, other methods of disposal, and appropriate locations; alternative sites** In making the determination required by subsection (a), the Secretary shall apply those criteria, established pursuant to [section 1412(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1412/a&num=0&edition=prelim), relating to the effects of the dumping. Based upon an evaluation of the potential effect of a permit denial on navigation, economic and industrial development, and foreign and domestic commerce of the United States, the Secretary shall make an independent determination as to the need for the dumping. The Secretary shall also make an independent determination as to other possible methods of disposal and as to appropriate locations for the dumping. In considering appropriate locations, he shall, to the maximum extent feasible, utilize the recommended sites designated by the Administrator pursuant to [section 1412(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1412/c&num=0&edition=prelim). In any case in which the use of a designated site is not feasible, the Secretary may, with the concurrence of the Administrator, select an alternative site. The criteria and factors established in [section 1412(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1412/a&num=0&edition=prelim) relating to site selection shall be used in selecting the alternative site in a manner consistent with the application of such factors and criteria pursuant to [section 1412(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1412/c&num=0&edition=prelim). Disposal at or in the vicinity of an alternative site shall be limited to a period of not greater than 5 years unless the site is subsequently designated pursuant to [section 1412(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1412/c&num=0&edition=prelim); except that an alternative site may continue to be used for an additional period of time that shall not exceed 5 years if—
-
-(1) no feasible disposal site has been designated by the Administrator;
-
-(2) the continued use of the alternative site is necessary to maintain navigation and facilitate interstate or international commerce; and
-
-(3) the Administrator determines that the continued use of the site does not pose an unacceptable risk to human health, aquatic resources, or the environment.
-
-**(c) Concurrence by Administrator**
-
-(1) **Notification** — Prior to issuing a permit to any person under this section, the Secretary shall first notify the Administrator of the Secretary’s intention to do so and provide necessary and appropriate information concerning the permit to the Administrator. Within 30 days of receiving such information, the Administrator shall review the information and request any additional information the Administrator deems necessary to evaluate the proposed permit.
-
-(2) **Concurrence by Administrator** — Within 45 days after receiving from the Secretary all information the Administrator considers to be necessary to evaluate the proposed permit, the Administrator shall, in writing, concur with (either entirely or with conditions) or decline to concur with the determination of the Secretary as to compliance with the criteria, conditions, and restrictions established pursuant to sections 1412(a) and 1412(c) of this title relating to the environmental impact of the permit. The Administrator may request one 45-day extension in writing and the Secretary shall grant such request on receipt of the request.
-
-(3) **Effect of concurrence** — In any case where the Administrator makes a determination to concur (with or without conditions) or to decline to concur within the time period specified in paragraph (2) the determination shall prevail. If the Administrator declines to concur in the determination of the Secretary no permit shall be issued. If the Administrator concurs with conditions the permit shall include such conditions. The Administrator shall state in writing the reasons for declining to concur or for the conditions of the concurrence.
-
-(4) **Failure to act** — If no written documentation is made by the Administrator within the time period provided for in paragraph (2), the Secretary may issue the permit.
-
-(5) **Compliance with criteria and restrictions** — Unless the Administrator grants a waiver pursuant to subsection (d), any permit issued by the Secretary shall require compliance with such criteria and restrictions.
-
-**(d) Waiver of requirements** If, in any case, the Secretary finds that, in the disposition of dredged material, there is no economically feasible method or site available other than a dumping site the utilization of which would result in non-compliance with the criteria established pursuant to [section 1412(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1412/a&num=0&edition=prelim) relating to the effects of dumping or with the restrictions established pursuant to [section 1412(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1412/c&num=0&edition=prelim) relating to critical areas, he shall so certify and request a waiver from the Administrator of the specific requirements involved. Within thirty days of the receipt of the waiver request, unless the Administrator finds that the dumping of the material will result in an unacceptably adverse impact on municipal water supplies, shell-fish beds, wildlife, fisheries (including spawning and breeding areas), or recreational areas, he shall grant the waiver.
-
-**(e) Federal projects involving dredged material** In connection with Federal projects involving dredged material, the Secretary may, in lieu of the permit procedure, issue regulations which will require the application to such projects of the same criteria, other factors to be evaluated, the same procedures, and the same requirements which apply to the issuance of permits under subsections (a), (b), (c), and (d) of this section and section 1414(a) and (d) of this title.
-
-### Statutory Notes
-
-#### Amendments
-1992—Subsec. (b). Pub. L. 102–580, § 506(b), inserted “maximum” before “extent feasible” and inserted three sentences at end.
-
-Subsec. (c). Pub. L. 102–580, § 504(a), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “Prior to issuing any permit under this section, the Secretary shall first notify the Administrator of his intention to do so. In any case in which the Administrator disagrees with the determination of the Secretary as to compliance with the criteria established pursuant to [section 1412(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1412/a&num=0&edition=prelim) relating to the effects of the dumping or with the restrictions established pursuant to [section 1412(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1412/c&num=0&edition=prelim) relating to critical areas, the determination of the Administrator shall prevail. Unless the Administrator grants a waiver pursuant to subsection (d), the Secretary shall not issue a permit which does not comply with such criteria and with such restrictions.”
-
-Subsec. (e). Pub. L. 102–580, § 504(b), inserted before period at end “and section 1414(a) and (d) of this title”.
-
-#### Effective Date
-Section effective 6 months after Oct. 23, 1972, see section 110(a) of Pub. L. 92–532, set out as a note under [section 1411 of this title](./chapter-027-ocean-dumping.md#section-1411).
-
-
-<a id="section-1414b"></a>
-## § 1414b. Permit conditions
-**(a) Designated and included conditions** Permits issued under this subchapter shall designate and include (1) the type of material authorized to be transported for dumping or to be dumped; (2) the amount of material authorized to be transported for dumping or to be dumped; (3) the location where such transport for dumping will be terminated or where such dumping will occur; (4) such requirements, limitations, or conditions as are necessary to assure consistency with any site management plan approved pursuant to [section 1412(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1412/c&num=0&edition=prelim); (5) any special provisions deemed necessary by the Administrator or the Secretary, as the case may be, after consultation with the Secretary of the Department in which the Coast Guard is operating, for the monitoring and surveillance of the transportation or dumping; and (6) such other matters as the Administrator or the Secretary, as the case may be, deems appropriate. Permits issued under this subchapter shall be issued for a period of not to exceed 7 years.
-
-**(b) Permit processing fees; reporting requirements** The Administrator or the Secretary, as the case may be, may prescribe such processing fees for permits and such reporting requirements for actions taken pursuant to permits issued by him under this subchapter as he deems appropriate.
-
-**(c) General permits** Consistent with the requirements of sections 1412 and 1413 of this title, but in lieu of a requirement for specific permits in such case, the Administrator or the Secretary, as the case may be, may issue general permits for the transportation for dumping, or dumping, or both, of specified materials or classes of materials for which he may issue permits, which he determines will have a minimal adverse environmental impact.
-
-**(d) Review** Any permit issued under this subchapter shall be reviewed periodically and, if appropriate, revised. The Administrator or the Secretary, as the case may be, may limit or deny the issuance of permits, or he may alter or revoke partially or entirely the terms of permits issued by him under this subchapter, for the transportation for dumping, or for the dumping, or both, of specified materials or classes of materials, where he finds, based upon monitoring data from the dump site and surrounding area, that such materials cannot be dumped consistently with the criteria and other factors required to be applied in evaluating the permit application. No action shall be taken under this subsection unless the affected person or permittee shall have been given notice and opportunity for a hearing on such action as proposed.
-
-**(e) Information for review and evaluation of applications** The Administrator or the Secretary, as the case may be, shall require an applicant for a permit under this subchapter to provide such information as he may consider necessary to review and evaluate such application.
-
-**(f) Public information** Information received by the Administrator or the Secretary, as the case may be, as a part of any application or in connection with any permit granted under this subchapter shall be available to the public as a matter of public record, at every stage of the proceeding. The final determination of the Administrator or the Secretary, as the case may be, shall be likewise available.
-
-**(g) Display of issued permits** A copy of any permit issued under this subchapter shall be placed in a conspicuous place in the vessel which will be used for the transportation or dumping authorized by such permit, and an additional copy shall be furnished by the issuing official to the Secretary of the department in which the Coast Guard is operating, or its designee.
-
-**(h) Low-level radioactive waste; research purposes** Notwithstanding any provision of this subchapter to the contrary, during the two-year period beginning on January 6, 1983, no permit may be issued under this subchapter that authorizes the dumping of any low-level radioactive waste unless the Administrator of the Environmental Protection Agency determines—
-
-(1) that the proposed dumping is necessary to conduct research—
-
-  (A) on new technology related to ocean dumping, or
-
-  (B) to determine the degree to which the dumping of such substance will degrade the marine environment;
-
-(2) that the scale of the proposed dumping is limited to the smallest amount of such material and the shortest duration of time that is necessary to fulfill the purposes of the research, such that the dumping will have minimal adverse impact upon human health, welfare, and amenities, and the marine environment, ecological systems, economic potentialities, and other legitimate uses;
-
-(3) after consultation with the Secretary of Commerce, that the potential benefits of such research will outweigh any such adverse impact; and
-
-(4) that the proposed dumping will be preceded by appropriate baseline monitoring studies of the proposed dump site and its surrounding environment.
-Each permit issued pursuant to this subsection shall be subject to such conditions and restrictions as the Administrator determines to be necessary to minimize possible adverse impacts of such dumping.
-
-**(i) Radioactive Material Disposal Impact Assessment; Congressional approval**
-
-(1) Two years after January 6, 1983, the Administrator may not issue a permit under this subchapter for the disposal of radioactive waste material until the applicant, in addition to complying with all other requirements of this subchapter, prepares, with respect to the site at which the disposal is proposed, a Radioactive Material Disposal Impact Assessment which shall include—
-
-  (A) a listing of all radioactive materials in each container to be disposed, the number of containers to be dumped, the structural diagrams of each container, the number of curies of each material in each container, and the exposure levels in rems at the inside and outside of each container;
-
-  (B) an analysis of the environmental impact of the proposed action, at the site at which the applicant desires to dispose of the material, upon human health and welfare and marine life;
-
-  (C) any adverse environmental effects at the site which cannot be avoided should the proposal be implemented;
-
-  (D) an analysis of the resulting environmental and economic conditions if the containers fail to contain the radioactive waste material when initially deposited at the specific site;
-
-  (E) a plan for the removal or containment of the disposed nuclear material if the container leaks or decomposes;
-
-  (F) a determination by each affected State whether the proposed action is consistent with its approved Coastal Zone Management Program;
-
-  (G) an analysis of the economic impact upon other users of marine resources;
-
-  (H) alternatives to the proposed action;
-
-  (I) comments and results of consultation with State officials and public hearings held in the coastal States that are nearest to the affected areas;
-
-  (J) a comprehensive monitoring plan to be carried out by the applicant to determine the full effect of the disposal on the marine environment, living resources, or human health, which plan shall include, but not be limited to, the monitoring of exterior container radiation samples, the taking of water and sediment samples, and fish and benthic animal samples, adjacent to the containers, and the acquisition of such other information as the Administrator may require; and
-
-  (K) such other information which the Administrator may require in order to determine the full effects of such disposal.
-
-(2) The Administrator shall include, in any permit to which paragraph (1) applies, such terms and conditions as may be necessary to ensure that the monitoring plan required under paragraph (1)(J) is fully implemented, including the analysis by the Administrator of the samples required to be taken under the plan.
-
-(3) The Administrator shall submit a copy of the assessment prepared under paragraph (1) with respect to any permit to the Committee on Merchant Marine and Fisheries of the House of Representatives and the Committee on Environment and Public Works of the Senate.
-
-(4)
-
-  (A) Upon a determination by the Administrator that a permit to which this subsection applies should be issued, the Administrator shall transmit such a recommendation to the House of Representatives and the Senate.
-
-  (B) No permit may be issued by the Administrator under this Act for the disposal of radioactive materials in the ocean unless the Congress, by approval of a resolution described in paragraph (D) within 90 days of continuous session of the Congress beginning on the date after the date of receipt by the Senate and the House of Representatives of such recommendation, authorizes the Administrator to grant a permit to dispose of radioactive material under this Act.
-
-  (C) For purposes of this subsection— (1) continuity of session of the Congress is broken only by an adjournment sine die; (2) the days on which either House is not in session because of an adjournment of more than three days to a day certain are excluded in the computation of the 90 day calendar period.
-
-  (D) For the purposes of this subsection, the term “resolution” means a joint resolution, the resolving clause of which is as follows: “That the House of Representatives and the Senate approve and authorize the Administrator of the Environmental Protection Agency to grant a permit to _____ under the Marine Protection, Research, and Sanctuaries Act of 1972 to dispose of radioactive materials in the ocean as recommended by the Administrator to the Congress on _____, 19_.”; the first blank space therein to be filled with the appropriate applicant to dispose of nuclear material and the second blank therein to be filled with the date on which the Administrator submits the recommendation to the House of Representatives and the Senate.
-
-### Statutory Notes
-
-#### References in Text
-This Act and the Marine Protection, Research, and Sanctuaries Act of 1972, referred to in subsec. (i)(4)(B), (D), is Pub. L. 92–532, Oct. 23, 1972, 86 Stat. 1052, as amended, which is classified generally to this chapter, chapter 41 (§ 2801 et seq.) of this title, and chapters 32 (§ 1431 et seq.) and 32A (§ 1447 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under [section 1401 of this title](./chapter-027-ocean-dumping.md#section-1401) and Tables.
-
-#### Amendments
-1992—Subsec. (a). Pub. L. 102–580, § 507(b), inserted at end “Permits issued under this subchapter shall be issued for a period of not to exceed 7 years.”
-
-Pub. L. 102–580, § 507(a), amended cl. (4) generally. Prior to amendment, cl. (4) read as follows: “the length of time for which the permits are valid and their expiration date;”.
-
-Subsec. (d). Pub. L. 102–580, § 507(c), inserted “, based upon monitoring data from the dump site and surrounding area,” after “where he finds”.
-
-1987—Subsec. (i)(4)(D). Pub. L. 100–17 inserted “to _____” after “grant a permit”.
-
-1983—Subsecs. (h), (i). Pub. L. 97–424 added subsecs. (h) and (i).
-
-#### Effective Date
-Section effective 6 months after Oct. 23, 1972, see section 110(a) of Pub. L. 92–532, set out as a note under [section 1411 of this title](./chapter-027-ocean-dumping.md#section-1411).
-
-#### Transfer of Functions
-For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).
-
-#### Abolition of House Committee on Merchant Marine and Fisheries
-Committee on Merchant Marine and Fisheries of House of Representatives abolished and its jurisdiction transferred by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995. For treatment of references to Committee on Merchant Marine and Fisheries, see section 1(b)(3) of Pub. L. 104–14, set out as a note preceding [section 21 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section21&num=0&edition=prelim), The Congress.
-
 
 <a id="section-1414c"></a>
-## § 1414c. Special provisions regarding certain dumping sites
-**(a) New York Bight Apex**
+## § 1414c. Notification by Secretary of State
 
-(1) For purposes of this subsection—
-
-  (A) The term “Apex” means the New York Bight Apex consisting of the ocean waters of the Atlantic Ocean westward of 73 degrees 30 minutes west longitude and northward of 40 degrees 10 minutes north latitude.
-
-  (B) The term “Apex site” means that site within the Apex at which the dumping of municipal sludge occurred before October 1, 1983.
-
-  (C) The term “eligible authority” means any sewerage authority or other unit of State or local government that on November 2, 1983, was authorized under court order to dump municipal sludge at the Apex site.
-
-(2) No person may apply for a permit under this subchapter in relation to the dumping of, or the transportation for purposes of dumping, municipal sludge within the Apex unless that person is an eligible authority.
-
-(3) The Administrator may not issue, or renew, any permit under this subchapter that authorizes the dumping of, or the transportation for purposes of dumping, municipal sludge within the Apex after the earlier of—
-
-  (A) December 15, 1987; or
-
-  (B) the day determined by the Administrator to be the first day on which municipal sludge generated by eligible authorities can reasonably be dumped at a site designated under [section 1412 of this title](./chapter-027-ocean-dumping.md#section-1412) other than a site within the Apex.
-
-**(b) Restriction on use of 106-mile site** The Administrator may not issue or renew any permit under this subchapter which authorizes any person, other than a person that is an eligible authority within the meaning of subsection (a)(1)(C), to dump, or to transport for the purposes of dumping, municipal sludge within the site designated under [section 1412(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1412/c&num=0&edition=prelim) by the Administrator and known as the “106-Mile Ocean Waste Dump Site” (as described in 49 F.R. 19005).
-
-### Statutory Notes
-
-#### Amendments
-1988—Pub. L. 100–688 repealed the second of two identical sections 104A of Pub. L. 92–532, both classified to this section and enacted by Pub. L. 99–662 and Pub. L. 100–4, thereby involving no change in text.
-
-#### New York Bight Apex Not Suitable for Dumping
-Pub. L. 99–662, title XI, § 1172(a), Nov. 17, 1986, 100 Stat. 4259, provided that: “The Congress finds that the New York Bight Apex is no longer a suitable location for the ocean dumping of municipal sludge.”
-
-An identical provision was enacted by Pub. L. 100–4, title V, § 508(a), Feb. 4, 1987, 101 Stat. 79.
+The Secretary of State shall notify without delay foreign states concerned, the Secretary-General of the Inter-Governmental Maritime Consultative Organization, and persons affected by measures taken under this chapter.
 
 
 <a id="section-1415"></a>
-## § 1415. Ocean dumping of sewage sludge and industrial waste
-**(a) Termination of dumping**
+## § 1415. Violations; penalties
+**(a)** A person commits a class A misdemeanor if that person—
 
-(1) **Prohibitions on dumping** — Notwithstanding any other provision of law—
+(1) willfully violates a provision of this chapter or a regulation issued thereunder; or
 
-  (A) on and after the 270th day after November 18, 1988, no person (including a person described in [section 1414a(a)(1)(C) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1414a/a/1/C&num=0&edition=prelim)) shall dump into ocean waters, or transport for the purpose of dumping into ocean waters, sewage sludge or industrial waste, unless such person—
+(2) willfully refuses or fails to comply with any lawful order or direction given pursuant to this chapter; or
 
-    (i) has entered into a compliance agreement or enforcement agreement which meets the requirements of subsection (c)(2) or (3), as applicable; and
+(3) willfully obstructs any person who is acting in compliance with an order or direction under this chapter.
 
-    (ii) has obtained a permit issued under [section 1412 of this title](./chapter-027-ocean-dumping.md#section-1412) which authorizes such transportation and dumping; and
-
-  (B) after December 31, 1991, it shall be unlawful for any person to dump into ocean waters, or to transport for the purposes of dumping into ocean waters, sewage sludge or industrial waste.
-
-(2) **Prohibition on new entrants** — The Administrator shall not issue any permit under this Act which authorizes a person to dump into ocean waters, or to transport for the purposes of dumping into ocean waters, sewage sludge or industrial waste, unless that person was authorized by a permit issued under [section 1412 of this title](./chapter-027-ocean-dumping.md#section-1412) or by a court order to dump into ocean waters, or to transport for the purpose of dumping into ocean waters, sewage sludge or industrial waste on September 1, 1988.
-
-**(b) Special dumping fees**
-
-(1) **In general** — Subject to paragraph (4), any person who dumps into ocean waters, or transports for the purpose of dumping into ocean waters, sewage sludge or industrial waste shall be liable for a fee equal to—
-
-  (A) $100 for each dry ton (or equivalent) of sewage sludge or industrial waste transported or dumped by the person on or after the 270th day after November 18, 1988, and before January 1, 1990;
-
-  (B) $150 for each dry ton (or equivalent) of sewage sludge or industrial waste transported or dumped by the person on or after January 1, 1990, and before January 1, 1991; and
-
-  (C) $200 for each dry ton (or equivalent) of sewage sludge or industrial waste transported or dumped by the person on or after January 1, 1991, and before January 1, 1992.
-
-(2) **Payment of fees** — Of the amount of fees under paragraph (1) for which a person is liable, such person—
-
-  (A) shall pay into a trust account established by the person in accordance with subsection (e) a sum equal to 85 percent of such amount;
-
-  (B) shall pay to the Administrator a sum equal to $15 per dry ton (or equivalent) of sewage sludge and industrial waste transported or dumped by such person, for use for agency activities as provided in subsection (f)(1);
-
-  (C) subject to paragraph (5), shall pay into the Clean Oceans Fund established by the State in which the person is located a sum equal to 50 percent of the balance of such amount after application of subparagraphs (A) and (B); and
-
-  (D) subject to paragraph (5), shall pay to the State in which the person is located a sum equal to the balance of such amount after application of subparagraphs (A), (B), and (C), for deposit into the water pollution control revolving fund established by the State under title VI of the Federal Water Pollution Control Act [[33 U.S.C. 1381](./chapter-026-water-pollution-prevention-and-control.md#section-1381) et seq.], as provided in subsection (f)(2).
-
-(3) **Schedule for payment** — Fees under this subsection shall be paid on a quarterly basis.
-
-(4) **Waiver of fees**
-
-  (A) The Administrator shall waive all fees under this subsection, other than the portion of fees required to be paid to the Administrator under paragraph (2)(B) for agency activities, for any person who has entered into a compliance agreement which meets the requirements of subsection (c)(2).
-
-  (B) The Administrator shall reimpose fees under this subsection for a person for whom such fees are waived under subparagraph (A) if the Administrator determines that—
-
-    (i) the person has failed to comply with the terms of a compliance agreement which the person entered into under subsection (c)(2); and
-
-    (ii) such failure is likely to result in the person not being able to terminate by December 31, 1991, dumping of sewage sludge or industrial waste into ocean waters.
-
-  (C) The Administrator may waive fees reimposed for a person under subparagraph (B) if the Administrator determines that the person has returned to compliance with a compliance agreement which the person entered into under subsection (c)(2).
-
-(5) **Payments prior to establishment of account**
-
-  (A) In any case in which a State has not established a Clean Oceans Fund or a water pollution control revolving fund under title VI of the Federal Water Pollution Control Act [[33 U.S.C. 1381](./chapter-026-water-pollution-prevention-and-control.md#section-1381) et seq.], fees required to be paid by a person in that State under paragraph (2)(C) or (D), as applicable, shall be paid to the Administrator.
-
-  (B) Amounts paid to the Administrator pursuant to this paragraph shall be held by the Administrator in escrow until the establishment of the fund into which such amounts are required to be paid under paragraph (2), or until the last day of the 1-year period beginning on the date of such payment, whichever is earlier, and thereafter—
-
-    (i) if such fund has been established, shall be paid by the Administrator into the fund; or
-
-    (ii) if such fund has not been established, shall revert to the general fund of the Treasury.
-
-**(c) Compliance agreements and enforcement agreements**
-
-(1) **In general** — As a condition of issuing a permit under [section 1412 of this title](./chapter-027-ocean-dumping.md#section-1412) which authorizes a person to transport or dump sewage sludge or industrial waste, the Administrator shall require that, before the issuance of such permit, the person and the State in which the person is located enter into with the Administrator—
-
-  (A) a compliance agreement which meets the requirements of paragraph (2); or
-
-  (B) an enforcement agreement which meets the requirements of paragraph (3).
-
-(2) **Compliance agreements** — An agreement shall be a compliance agreement for purposes of this section only if—
-
-  (A) it includes a plan negotiated by the person, the State in which the person is located, and the Administrator that will, in the opinion of the Administrator, if adhered to by the person in good faith, result in the phasing out and termination of ocean dumping, and transportation for the purpose of ocean dumping, of sewage sludge and industrial waste by such person by not later than December 31, 1991, through the design, construction, and full implementation of an alternative system for the management of sewage sludge and industrial waste transported or dumped by the person;
-
-  (B) it includes a schedule which—
-
-    (i) in the opinion of the Administrator, specifies reasonable dates by which the person shall complete the various activities that are necessary for the timely implementation of the alternative system referred to in subparagraph (A); and
-
-    (ii) meets the requirements of paragraph (4);
-
-  (C) it requires the person to notify in a timely manner the Administrator and the Governor of the State of any problems the person has in complying with the schedule referred to in subparagraph (B);
-
-  (D) it requires the Administrator and the Governor of the State to evaluate on an ongoing basis the compliance of the person with the schedule referred to in subparagraph (B);
-
-  (E) it requires the person to pay in accordance with this section all fees and penalties the person is liable for under this section; and
-
-  (F) it authorizes the person to use interim measures before completion of the alternative system referred to in subparagraph (A).
-
-(3) **Enforcement agreements** — An agreement shall be an enforcement agreement for purposes of this section only if—
-
-  (A) it includes a plan negotiated by the person, the State in which the person is located, and the Administrator that will, in the opinion of the Administrator, if adhered to by the person in good faith, result in the phasing out and termination of ocean dumping, and transportation for the purpose of ocean dumping, of sewage sludge and industrial waste by such person through the design, construction, and full implementation of an alternative system for the management of sewage sludge and industrial waste transported or dumped by the person;
-
-  (B) it includes a schedule which—
-
-    (i) in the opinion of the Administrator, specifies reasonable dates by which the person shall complete the various activities that are necessary for the timely implementation of the alternative system referred to in subparagraph (A); and
-
-    (ii) meets the requirements of paragraph (4);
-
-  (C) it requires the person to notify in a timely manner the Administrator and the Governor of the State of any problems the person has in complying with the schedule referred to in subparagraph (B);
-
-  (D) it requires the Administrator and the Governor of the State to evaluate on an ongoing basis the compliance of the person with the schedule referred to in subparagraph (B);
-
-  (E) it requires the person to pay in accordance with this section all fees and penalties the person is liable for under this section; and
-
-  (F) it authorizes the person to use interim measures before completion of the alternative system referred to in subparagraph (A).
-
-(4) **Schedules** — A schedule included in a compliance agreement pursuant to paragraph (2)(B) or an enforcement agreement pursuant to paragraph (3)(B) shall establish deadlines for—
-
-  (A) preparation of engineering designs and related specifications for the alternative system referred to in paragraph (2)(A) or paragraph (3)(A), as applicable;
-
-  (B) compliance with appropriate Federal, State, and local statutes, regulations, and ordinances;
-
-  (C) site and equipment acquisitions for such alternative system;
-
-  (D) construction and testing of such alternative system;
-
-  (E) operation of such alternative system at full capacity; and
-
-  (F) any other activities, including interim measures, that the Administrator considers necessary or appropriate.
-
-(5) **Clean oceans funds**
-
-  (A) Each State that is a party to a compliance agreement or an enforcement agreement under this subsection shall establish an interest bearing account, to be known as a Clean Oceans Fund, into which a person shall pay fees and penalties in accordance with subsections (b)(2)(C) and (d)(2)(C)(i), respectively.
-
-  (B) A State which establishes a Clean Oceans Fund pursuant to this paragraph shall allocate and pay from the fund each year, to each person in the State which has entered into a compliance agreement or enforcement agreement under this subsection, a portion of amounts in the fund on the last day of that year which is equal to the sum of—
-
-    (i) amounts paid by the person into the fund in that year as fees pursuant to subsection (b)(2)(C) and as penalties pursuant to subsection (d)(2)(C)(i);
-
-    (ii) amounts paid by the Administrator into the fund in that year as fees held in escrow for the person pursuant to subsection (b)(5)(B); and
-
-    (iii) interest on such amounts.
-
-  (C) Amounts allocated and paid to a person pursuant to subparagraph (B)—
-
-    (i) shall be used for the purposes described in subsection (e)(2)(B); and
-
-    (ii) may be used for matching Federal grants.
-
-  (D) A Clean Oceans Fund established by a State pursuant to this paragraph shall be subject to such accounting, reporting, and other requirements as may be established by the Administrator to assure accountability of payments into and out of the fund.
-
-(6) **Public participation** — The Administrator shall provide an opportunity for public comment regarding the establishment and implementation of compliance agreements and enforcement agreements entered into pursuant to this section.
-
-**(d) Penalties**
-
-(1) **In general** — In lieu of any other civil penalty under this Act, any person who has entered into a compliance agreement or enforcement agreement under subsection (c) and who dumps or transports sewage sludge or industrial waste in violation of subsection (a)(1)(B) shall be liable for a civil penalty, to be assessed by the Administrator, as follows:
-
-  (A) For each dry ton (or equivalent) of sewage sludge or industrial waste dumped or transported by the person in violation of this subsection in calendar year 1992, $600.
-
-  (B) For each dry ton (or equivalent) of sewage sludge or industrial waste dumped or transported by the person in violation of this subsection in any year after calendar year 1992, a sum equal to—
-
-    (i) the amount of penalty per dry ton (or equivalent) for a violation occurring in the preceding calendar year, plus
-
-    (ii) a percentage of such amount equal to 10 percent of such amount, plus an additional 1 percent of such amount for each full calendar year since December 31, 1991.
-
-(2) **Payment of penalty** — Of the amount of penalties under paragraph (1) for which a person is liable, such person—
-
-  (A) shall pay into a trust account established by the person in accordance with subsection (e) a sum which is a percentage of such amount equal to—
-
-    (i) 90 percent of such amount, reduced by
-
-    (ii) 5 percent of such amount for each full calendar year since December 31, 1991;
-
-  (B) shall pay to the Administrator a sum equal to $15 per dry ton (or equivalent) of sewage sludge and industrial waste transported or dumped by such person in that year, for use for agency activities as provided in subsection (f)(1);
-
-  (C) for violations in any year before calendar year 1995—
-
-    (i) subject to paragraph (4), shall pay into the Clean Oceans Fund established by the State in which the person is located a sum equal to 50 percent of the balance of such amount; and
-
-    (ii) subject to paragraph (4), shall pay to the State in which the person is located a sum equal to the portion of such amount which is not paid as provided in subparagraphs (A), (B), and (C), for deposit into the water pollution control revolving fund established by the State under title VI of the Federal Water Pollution Control Act [[33 U.S.C. 1381](./chapter-026-water-pollution-prevention-and-control.md#section-1381) et seq.], as provided in subsection (f)(2); and
-
-  (D) for violations in any year after calendar year 1994, shall pay to the State in which the person is located a sum equal to the balance of such amount, for use by the State for providing assistance under subsection (f)(3).
-
-(3) **Schedule for payment** — Penalties under this subsection shall be paid on a quarterly basis.
-
-(4) **Payments prior to establishment of account** — In any case in which a State has not established a Clean Oceans Fund or a water pollution control revolving fund under title VI of the Federal Water Pollution Control Act, penalties required to be paid by a person in that State under paragraph (2)(C)(i) or (ii), as applicable, shall be paid to the Administrator for holding and payment or reversion, as applicable, in the same manner as fees are held and paid or revert under subsection (b)(5).
-
-**(e) Trust account**
-
-(1) **In general** — A person who enters into a compliance agreement or an enforcement agreement under subsection (c) shall establish a trust account for the payment and use of fees and penalties under this section.
-
-(2) **Trust account requirements** — An account shall be a trust account for purposes of this subsection only if it meets, to the satisfaction of the Administrator, the following requirements:
-
-  (A) Amounts in the account may be used only with the concurrence of the person who establishes the account and the Administrator; except that the person may use amounts in the account for a purpose authorized by subparagraph (B) after 60 days after notification of the Administrator if the Administrator does not disapprove such use before the end of such 60-day period.
-
-  (B) Amounts in the account may be used only for projects which will identify, develop, and implement—
-
-    (i) an alternative system, and any interim measures, for the management of sewage sludge and industrial waste, including but not limited to any such system or measures utilizing resource recovery, recycling, thermal reduction, or composting techniques; or
-
-    (ii) improvements in pretreatment, treatment, and storage techniques for sewage sludge and industrial waste to facilitate the implementation of such alternative system or interim measures.
-
-  (C) Upon a finding by the Administrator that a person did not pay fees or penalties into an account as required by this section, or did not use amounts in the account in accordance with this subsection, the balance of the amounts in the account shall be paid to the State in which the person is located, for deposit into the water pollution control revolving fund established by the State under title VI of the Federal Water Pollution Control Act [[33 U.S.C. 1381](./chapter-026-water-pollution-prevention-and-control.md#section-1381) et seq.], as provided in subsection (f)(2).
-
-(3) **Use of unexpended amounts** — Upon a determination by the Administrator that a person has terminated ocean dumping of sewage sludge or industrial waste, the balance of amounts in an account established by the person under this subsection shall be paid to the person for use—
-
-  (A) for debts incurred by the person in complying with this Act or the Federal Water Pollution Control Act [[33 U.S.C. 1251](./chapter-026-water-pollution-prevention-and-control.md#section-1251) et seq.];
-
-  (B) in meeting the requirements of the Federal Water Pollution Control Act ([33 U.S.C. 1251](./chapter-026-water-pollution-prevention-and-control.md#section-1251) et seq.) which apply to the person, including operations and maintenance; and
-
-  (C) for matching Federal grants.
-
-(4) **Use for matching Federal grants** — Amounts in a trust account under this subsection may be used for matching Federal grants.
-
-**(f) Use of fees and penalties**
-
-(1) **Agency activities** — Of the total amount of fees and penalties paid to the Administrator in a fiscal year pursuant to subsections (b)(2)(B) and (d)(2)(B), respectively—
-
-  (A) not to exceed one-third of such total amount shall be used by the Administrator for—
-
-    (i) costs incurred or expected to be incurred in undertaking activities directly associated with the issuance under this Act of permits for the transportation or dumping of sewage sludge and industrial waste, including the costs of any environmental assessment of the direct effects of dumping under the permits;
-
-    (ii) preparation of reports under subsection (i); and
-
-    (iii) such other research, studies, and projects the Administrator considers necessary for, and consistent with, the development and implementation of alternative systems for the management of sewage sludge and industrial waste;
-
-  (B) not to exceed one-third of such total amount shall be transferred to the Secretary of the department in which the Coast Guard is operating for use for—
-
-    (i) Coast Guard surveillance of transportation and dumping of sewage sludge and industrial waste subject to this Act; and
-
-    (ii) such enforcement activities conducted by the Coast Guard with respect to such transportation and dumping as may be necessary to ensure to the maximum extent practicable complete compliance with the requirements of this Act; and
-
-  (C) not to exceed one-third of such total amount shall be transferred to the Under Secretary of Commerce for Oceans and Atmosphere for use for—
-
-    (i) monitoring, research, and related activities consistent with the program developed pursuant to subsection (j)(1); and
-
-    (ii) preparing annual reports to the Congress pursuant to subsection (j)(4) 11 See References in Text note below. which describe the results of such monitoring, research, and activities.
-
-(2) **Deposits into State water pollution control revolving fund**
-
-  (A) Amounts paid to a State pursuant to subsection (b)(2)(D), (d)(2)(C)(ii), or (e)(2)(C) shall be deposited into the water pollution control revolving fund established by the State pursuant to title VI of the Federal Water Pollution Control Act [[33 U.S.C. 1381](./chapter-026-water-pollution-prevention-and-control.md#section-1381) et seq.].
-
-  (B) Amounts deposited into a State water pollution control revolving fund pursuant to this paragraph—
-
-    (i) shall not be used by the State to provide assistance to the person who paid such amounts for development or implementation of any alternative system;
-
-    (ii) shall not be considered to be State matching amounts under title VI of the Federal Water Pollution Control Act; and
-
-    (iii) shall not be subject to State matching requirements under such title.
-
-(3) **Penalty payments to States after 1994**
-
-  (A) Amounts paid to a State as penalties pursuant to subsection (d)(2)(D) may be used by the State—
-
-    (i) for providing assistance to any person in the State—
-
-      (I) for implementing a management program under section 319 of the Federal Water Pollution Control Act [[33 U.S.C. 1329](./chapter-026-water-pollution-prevention-and-control.md#section-1329)];
-
-      (II) for developing and implementing a conservation and management plan under section 320 of such Act [[33 U.S.C. 1330](./chapter-026-water-pollution-prevention-and-control.md#section-1330)]; or
-
-      (III) for implementing technologies and management practices necessary for controlling pollutant inputs adversely affecting the New York Bight, as such inputs are identified in the New York Bight Restoration Plan prepared under section 2301 of the Marine Plastic Pollution Research and Control Act of 1987; and
-
-    (ii) for providing assistance to any person in the State who was not required to pay such penalties for construction of treatment works (as defined in section 212 of the Federal Water Pollution Control Act [[33 U.S.C. 1292](./chapter-026-water-pollution-prevention-and-control.md#section-1292)]) which are publicly owned.
-
-  (B) Amounts paid to a State as penalties pursuant to subsection (d)(2)(D) which are not used in accordance with subparagraph (A) shall be deposited into the water pollution control revolving fund established by the State under title VI of the Federal Water Pollution Control Act. Amounts deposited into such a fund pursuant to this subparagraph—
-
-    (i) shall not be used by the State to provide assistance to the person who paid such amounts;
-
-    (ii) shall not be considered to be State matching amounts under title VI of the Federal Water Pollution Control Act; and
-
-    (iii) shall not be subject to State matching requirements under such title.
-
-(4) **Deposits into Treasury as offsetting collections** — Amounts of fees and penalties paid to the Administrator pursuant to subsection (b)(2)(B) or (d)(2)(B) which are used by an agency in accordance with paragraph (1) shall be deposited into the Treasury as offsetting collections of the agency.
-
-**(g) Enforcement**
-
-(1) **In general** — Whenever, on the basis of any information available, the Administrator finds that a person is dumping or transporting sewage sludge or industrial waste in violation of subsection (a)(1), the Administrator shall issue an order requiring such person to terminate such dumping or transporting (as applicable) until such person—
-
-  (A) enters into a compliance agreement or an enforcement agreement under subsection (c); and
-
-  (B) obtains a permit under [section 1412 of this title](./chapter-027-ocean-dumping.md#section-1412) which authorizes such dumping or transporting.
-
-(2) **Requirements of order** — Any order issued by the Administrator under this subsection—
-
-  (A) shall be delivered by personal service to the person named in the order;
-
-  (B) shall state with reasonable specificity the nature of the violation for which the order is issued; and
-
-  (C) shall require that the person named in the order, as a condition of dumping into ocean waters, or transporting for the purpose of dumping into ocean waters, sewage sludge or industrial waste—
-
-    (i) shall enter into a compliance agreement or an enforcement agreement under subsection (c); and
-
-    (ii) shall obtain a permit under [section 1412 of this title](./chapter-027-ocean-dumping.md#section-1412) which authorizes such dumping or transporting.
-
-(3) **Actions** — The Administrator may request the Attorney General to commence a civil action for appropriate relief, including a temporary or permanent injunction and the imposition of civil penalties authorized by subsection (d)(1), for any violation of subsection (a)(1) or of an order issued by the Administrator under this section. Such an action may be brought in the district court of the United States for the district in which the defendant is located, resides, or is doing business, and such court shall have jurisdiction to restrain such violation and require compliance with subsection (a)(1) and any such order.
-
-**(h) State progress reports**
-
-(1) **In general** — The Governor of each State that is a party to a compliance agreement or an enforcement agreement under subsection (c) shall submit to the Administrator on September 30 of 1989 and of every year thereafter until the Administrator determines that ocean dumping of sewage sludge and industrial waste by persons located in that State has terminated, a report which describes—
-
-  (A) the efforts of each person located in the State to comply with a compliance agreement or enforcement agreement entered into by the person pursuant to subsection (c), including the extent to which such person has complied with deadlines established by the schedule included in such agreement;
-
-  (B) activity of the State regarding permits for the construction and operation of each alternative system; and
-
-  (C) an accounting of amounts paid into and withdrawn from a Clean Oceans Fund established by the State.
-
-(2) **Failure to submit report** — If a State fails to submit a report in accordance with this subsection, the Administrator shall withhold funds reserved for such State under section 205(g) of the Federal Water Pollution Control Act ([33 U.S.C. 1285(g)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1285/g&num=0&edition=prelim)). Funds withheld pursuant to this paragraph may, at the discretion of the Administrator, be restored to a State upon compliance with this subsection.
-
-**(i) EPA progress reports**
-
-(1) **In general** — Not later than December 31 of 1989 and of each year thereafter until the Administrator determines that ocean dumping of sewage sludge and industrial waste has terminated, the Administrator shall prepare and submit to the Congress a report on—
-
-  (A) progress being made by persons issued permits under [section 1412 of this title](./chapter-027-ocean-dumping.md#section-1412) for transportation or dumping of sewage sludge or industrial waste in developing alternative systems for managing sewage sludge and industrial waste;
-
-  (B) the efforts of each such person to comply with a compliance agreement or enforcement agreement entered into by the person pursuant to subsection (c), including the extent to which such person has complied with deadlines established by the schedule included in such agreement;
-
-  (C) progress being made by the Administrator and others in identifying and implementing alternative systems for the management of sewage sludge and industrial waste; and
-
-  (D) progress being made toward the termination of ocean dumping of sewage sludge and industrial waste.
-
-(2) **Referral to Congressional committees** — Each report submitted to the Congress under this subsection shall be referred to each standing committee of the House of Representatives and of the Senate having jurisdiction over any part of the subject matter of the report.
-
-**(j) Environmental monitoring**
-
-(1) **In general** — The Administrator, in cooperation with the Under Secretary of Commerce for Oceans and Atmosphere, shall design a program for monitoring environmental conditions—
-
-  (A) at the Apex site (as that term is defined in [section 1414a of this title](./chapter-027-ocean-dumping.md#section-1414a));
-
-  (B) at the site designated by the Administrator under [section 1412(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1412/c&num=0&edition=prelim) and known as the “106-Mile Ocean Waste Dump Site” (as described in 49 F.R. 19005);
-
-  (C) at the site at which industrial waste is dumped; and
-
-  (D) within the potential area of influence of the sewage sludge and industrial waste dumped at those sites.
-
-(2) **Program requirements** — The program designed under paragraph (1) shall include, but is not limited to—
-
-  (A) sampling of an appropriate number of fish and shellfish species and other organisms to assess the effects of environmental conditions on living marine organisms in these areas; and
-
-  (B) use of satellite and other advanced technologies in conducting the program.
-
-(3) **Monitoring activities** — The Administrator and the Under Secretary of Commerce for Oceans and Atmosphere shall each conduct monitoring activities consistent with the program designed under paragraph (1).
-
-(4) **Omitted**
-
-**(k) Definitions** For purposes of this section—
-
-(1) the term “alternative system” means any method for the management of sewage sludge or industrial waste which does not require a permit under this Act;
-
-(2) the term “Clean Oceans Fund” means such a fund established by a State in accordance with subsection (c)(5);
-
-(3) the term “excluded material” means—
-
-  (A) any dredged material discharged by the United States Army Corps of Engineers or discharged pursuant to a permit issued by the Secretary in accordance with [section 1413 of this title](./chapter-027-ocean-dumping.md#section-1413); and
-
-  (B) any waste from a tuna cannery operation located in American Samoa or Puerto Rico discharged pursuant to a permit issued by the Administrator under [section 1412 of this title](./chapter-027-ocean-dumping.md#section-1412);
-
-(4) the term “industrial waste” means any solid, semisolid, or liquid waste generated by a manufacturing or processing plant, other than an excluded material;
-
-(5) the term “interim measure” means any short-term method for the management of sewage sludge or industrial waste, which—
-
-  (A) is used before implementation of an alternative system; and
-
-  (B) does not require a permit under this Act; and
-
-(6) the term “sewage sludge” means any solid, semisolid, or liquid waste generated by a wastewater treatment plant, other than an excluded material.
+**(b)** In a criminal proceeding for an offense under paragraph (1) or (2) of subsection (a) of this section it shall be a defense for the accused to prove that he used all due diligence to comply with any order or direction that he had reasonable cause to believe that compliance would have resulted in serious risk to human life.
 
 ### Statutory Notes
 
-#### References in Text
-This Act, referred to in subsecs. (a)(2), (d)(1), (e)(3)(A), (f)(1)(A)(i), (B), and (k)(1), (5)(B), means Pub. L. 92–532, which is classified generally to this chapter, chapter 41 (§ 2801 et seq.) of this title, and chapters 32 (§ 1431 et seq.) and 32A (§ 1447 et seq.) of Title 16, Conservation.
+#### Amendments
+1990—Subsec. (a). Pub. L. 101–380 substituted “A person commits a class A misdemeanor if that person” for “Any person who” in introductory provisions and struck out “, shall be fined not more than $10,000 or imprisoned not more than one year, or both” after “under this chapter” in par. (3).
 
-The Federal Water Pollution Control Act, referred to in subsecs. (b)(2)(D), (5)(A), (d)(2)(C)(ii), (4), (e)(2)(C), (3)(A), (B), (f)(2)(A), (B)(ii), (iii), and (3)(B), is act June 30, 1948, ch. 758, as amended generally by Pub. L. 92–500, § 2, Oct. 18, 1972, 86 Stat. 816, which is classified generally to chapter 26 (§ 1251 et seq.) of this title. Title VI of that Act is classified to subchapter VI (§ 1381 et seq.) of chapter 26 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1251 of this title](./chapter-026-water-pollution-prevention-and-control.md#section-1251) and Tables.
-
-Subsection (j)(4), referred to in subsec. (f)(1)(C)(ii), was omitted from the Code. See Codification note below.
-
-Section 2301 of the Marine Plastic Pollution Research and Control Act of 1987, referred to in subsec. (f)(3)(A)(i)(III), is section 2301 of Pub. L. 100–220 which is set out as a note under [section 2267 of this title](./chapter-036-water-resources-development.md#section-2267).
-
-#### Codification
-Subsec. (j)(4)(A) of this section directed the Administrator, in cooperation with the Under Secretary of Commerce for Oceans and Atmosphere, to submit to Congress a report describing the program designed pursuant to subsec. (j)(1) of this section not later than one year after Nov. 18, 1988.
-
-Subsec. (j)(4)(B) of this section, which required the Administrator and the Under Secretary of Commerce for Oceans and Atmosphere to report annually to Congress on monitoring activities conducted under the program designed pursuant to subsec. (j)(1) of this section, terminated, effective May 15, 2000, pursuant to section 3003 of Pub. L. 104–66, as amended, set out as a note under [section 1113 of Title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1113&num=0&edition=prelim), Money and Finance. See, also, page 148 of House Document No. 103–7.
-
-#### Transfer of Functions
-For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).
+#### Effective Date of 1990 Amendment
+Amendment by Pub. L. 101–380 applicable to incidents occurring after Aug. 18, 1990, see section 1020 of Pub. L. 101–380, set out as an Effective Date note under [section 2701 of this title](./chapter-040-oil-pollution.md#section-2701).
 
 
 <a id="section-1416"></a>
-## § 1416. Prohibition on disposal of sewage sludge at landfills on Staten Island
-**(a) In general** No person shall dispose of sewage sludge at any landfill located on Staten Island, New York.
+## § 1416. Consultation for nomination and nomination of experts, negotiators, etc.; proposal of amendments to list of substances other than convention oil; Presidential acceptance of amendments
+**(a) Nomination of experts and proposal of amendments to list of substances** The Secretary, in consultation with the Secretary of State and the Administrator of the Environmental Protection Agency, may nominate individuals to the list of experts provided for in article III of the convention and article II of the protocol and may propose amendments to the list of substances other than convention oil in accordance with article III of the protocol.
 
-**(b) Exclusion from penalties**
+**(b) Consultations for designation or nomination of negotiators, etc., provided for by convention and protocol** The Secretary of State, in consultation with the Secretary, shall designate or nominate, as appropriate and necessary, the negotiators, conciliators, or arbitrators provided for by the convention and the protocol.
 
-(1) **In general** — Subject to paragraph (2), a person who violates this section shall not be subject to any penalty under this Act.
-
-(2) **Injunction** — Paragraph (1) shall not prohibit the bringing of an action for, or the granting of, an injunction under [section 1415 of this title](./chapter-027-ocean-dumping.md#section-1415) with respect to a violation of this section.
-
-**(c) “Sewage sludge” defined** For purposes of this section, the term “sewage sludge” has the meaning such term has in [section 1414b of this title](./chapter-027-ocean-dumping.md#section-1414b).
+**(c) Presidential acceptance of amendments to list of substances other than convention oil in accordance with protocol** The President may accept amendments to the list of substances other than convention oil in accordance with article III of the protocol.
 
 ### Statutory Notes
 
-#### References in Text
-This Act, referred to in subsec. (b)(1), means Pub. L. 92–532, which is classified generally to this chapter, chapter 41 (§ 2801 et seq.) of this title, and chapters 32 (§ 1431 et seq.) and 32A (§ 1447 et seq.) of Title 16, Conservation.
+#### Amendments
+1978—Subsec. (a). Pub. L. 95–302, § 1(5)(A), inserted provisions relating to applicability of article II of the protocol and provisions for proposal of amendments to the list of substances other than convention oil.
+
+Subsec. (b). Pub. L. 95–302, § 1(5)(B), substituted “protocol” for “annexes thereto”.
+
+Subsec. (c). Pub. L. 95–302, § 1(5)(C), added subsec. (c).
+
+#### Effective Date of 1978 Amendment
+For effective date of amendment by Pub. L. 95–302, see section 2 of Pub. L. 95–302, set out as a note under [section 1487 of this title](./chapter-028-pollution-casualties-on-the-high-seas-united-states-intervention.md#section-1487).
 
 
 <a id="section-1417"></a>
-## § 1417. Penalties
-**(a) Assessment of civil penalty by Administrator; remission or mitigation; court action for appropriate relief** Any person who violates any provision of this subchapter, or of the regulations promulgated under this subchapter, or a permit issued under this subchapter shall be liable to a civil penalty of not more than $50,000 for each violation to be assessed by the Administrator. In addition, any person who violates this subchapter or any regulation issued under this subchapter by engaging in activity involving the dumping of medical waste shall be liable for a civil penalty of not more than $125,000 for each violation, to be assessed by the Administrator after written notice and an opportunity for a hearing. No penalty shall be assessed until the person charged shall have been given notice and an opportunity for a hearing of such violation. In determining the amount of the penalty, the gravity of the violation, prior violations, and the demonstrated good faith of the person charged in attempting to achieve rapid compliance after notification of a violation shall be considered by said Administrator. For good cause shown, the Administrator may remit or mitigate such penalty. Upon failure of the offending party to pay the penalty, the Administrator may request the Attorney General to commence an action in the appropriate district court of the United States for such relief as may be appropriate.
+## § 1417. Foreign government ships; immunity
 
-**(b) Criminal penalties** In addition to any action that may be brought under subsection (a)—
-
-(1) any person who knowingly violates any provision of this subchapter, any regulation promulgated under this subchapter, or a permit issued under this subchapter, shall be fined under title 18 or imprisoned for not more than 5 years, or both; and
-
-(2) any person who is convicted of such a violation pursuant to paragraph (1) shall forfeit to the United States—
-
-  (A) any property constituting or derived from any proceeds that the person obtained, directly or indirectly, as a result of such violation; and
-
-  (B) any of the property of the person which was used, or intended to be used in any manner or part, to commit or to facilitate the commission of the violation.
-
-**(c) Separate offenses** For the purpose of imposing civil penalties and criminal fines under this section, each day of a continuing violation shall constitute a separate offense as shall the dumping from each of several vessels, or other sources.
-
-**(d) Injunctive relief** The Attorney General or his delegate may bring actions for equitable relief to enjoin an imminent or continuing violation of this subchapter, of regulations promulgated under this subchapter, or of permits issued under this subchapter, and the district courts of the United States shall have jurisdiction to grant such relief as the equities of the case may require.
-
-**(e) Liability of vessels in rem** A vessel, except a public vessel within the meaning of section 13 of the Federal Water Pollution Control Act, as amended, used in a violation, shall be liable in rem for any civil penalty assessed or criminal fine imposed and may be proceeded against in any district court of the United States having jurisdiction thereof; but no vessel shall be liable unless it shall appear that one or more of the owners, or bareboat charterers, was at the time of the violation a consenting party or privy to such violation.
-
-**(f) Revocation and suspension of permits** If the provisions of any permit issued under section 1412 or 1413 of this title are violated, the Administrator or the Secretary, as the case may be, may revoke the permit or may suspend the permit for a specified period of time. No permit shall be revoked or suspended unless the permittee shall have been given notice and opportunity for a hearing on such violation and proposed suspension or revocation.
-
-**(g) Civil suits by private persons**
-
-(1) Except as provided in paragraph (2) of this subsection any person may commence a civil suit on his own behalf to enjoin any person, including the United States and any other governmental instrumentality or agency (to the extent permitted by the eleventh amendment to the Constitution), who is alleged to be in violation of any prohibition, limitation, criterion, or permit established or issued by or under this subchapter. The district courts shall have jurisdiction, without regard to the amount in controversy or the citizenship of the parties, to enforce such prohibition, limitation, criterion, or permit, as the case may be.
-
-(2) No action may be commenced—
-
-  (A) prior to sixty days after notice of the violation has been given to the Administrator or to the Secretary, and to any alleged violator of the prohibition, limitation, criterion, or permit; or
-
-  (B) if the Attorney General has commenced and is diligently prosecuting a civil action in a court of the United States to require compliance with the prohibition, limitation, criterion, or permit; or
-
-  (C) if the Administrator has commenced action to impose a penalty pursuant to subsection (a) of this section, or if the Administrator, or the Secretary, has initiated permit revocation or suspension proceedings under subsection (f) of this section; or
-
-  (D) if the United States has commenced and is diligently prosecuting a criminal action in a court of the United States or a State to redress a violation of this subchapter.
-
-(3)
-
-  (A) Any suit under this subsection may be brought in the judicial district in which the violation occurs.
-
-  (B) In any such suit under this subsection in which the United States is not a party, the Attorney General, at the request of the Administrator or Secretary, may intervene on behalf of the United States as a matter of right.
-
-(4) The court, in issuing any final order in any suit brought pursuant to paragraph (1) of this subsection may award costs of litigation (including reasonable attorney and expert witness fees) to any party, whenever the court determines such award is appropriate.
-
-(5) The injunctive relief provided by this subsection shall not restrict any right which any person (or class of persons) may have under any statute or common law to seek enforcement of any standard or limitation or to seek any other relief (including relief against the Administrator, the Secretary, or a State agency).
-
-**(h) Emergencies** No person shall be subject to a civil penalty or to a criminal fine or imprisonment for dumping materials from a vessel if such materials are dumped in an emergency to safeguard life at sea. Any such emergency dumping shall be reported to the Administrator under such conditions as he may prescribe.
-
-**(i) Seizure and forfeiture**
-
-(1) **In general** — Any vessel used to commit an act for which a penalty is imposed under subsection (b) shall be subject to seizure and forfeiture to the United States under procedures established for seizure and forfeiture of conveyances under sections 853 and 881 of title 21.
-
-(2) **Limitation on application** — This subsection does not apply to an act committed substantially in accordance with a compliance agreement or enforcement agreement entered into by the Administrator under [section 1414b(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1414b/c&num=0&edition=prelim).
-
-### Statutory Notes
-
-#### References in Text
-Section 13 of the Federal Water Pollution Control Act, referred to in subsec. (e), is section 13 of act June 30, 1948, ch. 758, as added by act Apr. 3, 1970, Pub. L. 91–224, title I, § 102, 84 Stat. 100, which was classified to [section 1163 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1163&num=0&edition=prelim) and was superseded by Pub. L. 92–500, Oct. 18, 1972, 86 Stat. 816. See [section 1322 of this title](./chapter-026-water-pollution-prevention-and-control.md#section-1322).
-
-#### Amendments
-1992—Subsec. (b). Pub. L. 102–580, § 508(a), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows:
-
-“(1) In addition to any action which may be brought under subsection (a) of this section, a person who knowingly violates this subchapter, regulations promulgated under this subchapter, or a permit issued under this subchapter shall be fined not more than $50,000, or imprisoned for not more than one year, or both.
-
-“(2) In addition to any action which may be brought under subsection (a), any person—
-
-“(A) who knowingly violates any provision of this subchapter by engaging in activity involving the dumping into ocean waters of medical waste shall upon conviction be fined not more than $250,000, or imprisoned for not more than 5 years, or both; and
-
-“(B) convicted of a violation involving such activity shall forfeit to the United States any property constituting or derived from any proceeds the person obtained, directly or indirectly, as a result of such violation, and any of the property of the person which was used, or intended to be used in any manner or part, to commit or to facilitate the commission of the violation.”
-
-Subsec. (i). Pub. L. 102–508, § 508(b), added subsec. (i).
-
-1988—Subsec. (a). Pub. L. 100–688, § 3201(c), inserted provisions relating to civil penalty of not more than $125,000 for engaging in activity involving dumping of medical waste.
-
-Subsec. (b). Pub. L. 100–688, § 3201(d), designated existing provisions as par. (1) and added par. (2).
-
-#### Effective Date
-Section effective 6 months after Oct. 23, 1972, see section 110(a) of Pub. L. 92–532, set out as a note under [section 1411 of this title](./chapter-027-ocean-dumping.md#section-1411).
+No measures may be taken under authority of this chapter against any warship or other ship owned or operated by a country and used, for the time being, only on Government noncommercial service.
 
 
 <a id="section-1418"></a>
-## § 1418. Relationship to other laws
-**(a) Voiding of preexisting licenses** After the effective date of this subchapter, all licenses, permits, and authorizations other than those issued pursuant to this subchapter shall be void and of no legal effect, to the extent that they purport to authorize any activity regulated by this subchapter, and whether issued before or after the effective date of this subchapter.
+## § 1418. Interpretation and administration; other right, duty, privilege, or immunity and other remedy unaffected
 
-**(b) Actions under authority of Rivers and Harbors Act** The provisions of subsection (a) shall not apply to actions taken before the effective date of this subchapter under the authority of the Rivers and Harbors Act of 1899 (30 Stat. 1151), as amended ([33 U.S.C. 401](./chapter-009-protection-of-navigable-waters-and-of-harbor-and-river-improvements-generally.md#section-401) et seq.).
-
-**(c) Impairment of navigation** Prior to issuing any permit under this subchapter, if it appears to the Administrator that the disposition of material, other than dredged material, may adversely affect navigation in the territorial sea of the United States, or in the approaches to any harbor of the United States, or may create an artificial island on the Outer Continental Shelf, the Administrator shall consult with the Secretary and no permit shall be issued if the Secretary determines that navigation will be unreasonably impaired.
-
-**(d) State programs**
-
-(1) **State rights preserved** — Except as expressly provided in this subsection, nothing in this subchapter shall preclude or deny the right of any State to adopt or enforce any requirements respecting dumping of materials into ocean waters within the jurisdiction of the State.
-
-(2) **Federal projects** — In the case of a Federal project, a State may not adopt or enforce a requirement that is more stringent than a requirement under this subchapter if the Administrator finds that such requirement—
-
-  (A) is not supported by relevant scientific evidence showing the requirement to be protective of human health, aquatic resources, or the environment;
-
-  (B) is arbitrary or capricious; or
-
-  (C) is not applicable or is not being applied to all projects without regard to Federal, State, or private participation and the Secretary of the Army concurs in such finding.
-
-(3) **Exemption from State requirements** — The President may exempt a Federal project from any State requirement respecting dumping of materials into ocean waters if it is in the paramount interest of the United States to do so.
-
-(4) **Consideration of site of origin prohibited** — Any requirement respecting dumping of materials into ocean waters applied by a State shall be applied without regard to the site of origin of the material to be dumped.
-
-**(e) Existing conservation programs not affected** Nothing in this subchapter shall be deemed to affect in any manner or to any extent any provision of the Fish and Wildlife Coordination Act as amended ([16 U.S.C. 661–666c](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section661–666c&num=0&edition=prelim)).
-
-**(f) Dumping of dredged material in Long Island Sound from any Federal, etc., project** In addition to other provisions of law and not withstanding the specific exclusion relating to dredged material in the first sentence in [section 1412(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1412/a&num=0&edition=prelim), the dumping of dredged material in Long Island Sound from any Federal project (or pursuant to Federal authorization) or from a dredging project by a non-Federal applicant exceeding 25,000 cubic yards shall comply with the requirements of this subchapter.
-
-**(g) Savings clause** Nothing in this Act shall restrict, affect or modify the rights of any person (1) to seek damages or enforcement of any standard or limitation under State law, including State common law, or (2) to seek damages under other Federal law, including maritime tort law, resulting from noncompliance with any requirement of this Act or any permit under this Act.
+This chapter shall be interpreted and administered in a manner consistent with the convention, the protocol, and other international law. Except as specifically provided, nothing in this chapter may be interpreted to prejudice any otherwise applicable right, duty, privilege, or immunity or deprive any country or person of any remedy otherwise applicable.
 
 ### Statutory Notes
 
-#### References in Text
-The effective date of this subchapter, referred to in subsecs. (a) and (b), means the effective date of title I of Pub. L. 92–532, which is six months after Oct. 23, 1972. See section 110(a) of Pub. L. 92–532, set out as an Effective Date note under [section 1411 of this title](./chapter-027-ocean-dumping.md#section-1411).
-
-The Rivers and Harbors Act of 1899, referred to in subsec. (b), probably means the Act popularly known as the Rivers and Harbors Appropriation Act of 1899, act Mar. 3, 1899, ch. 425, 30 Stat. 1151, which enacted sections 401, 403, 404, 406 to 409, 411 to 416, 418, 502, 549, 686, and 687 of this title. For complete classification of this Act to the Code, see Tables.
-
-The Fish and Wildlife Coordination Act as amended ([16 U.S.C. 661–666c](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section661–666c&num=0&edition=prelim)), referred to in subsec. (e), is act Mar. 10, 1934, ch. 55, 48 Stat. 401, which is classified generally to sections 661 to 666c–1 of Title 16, Conservation. For complete classification of this Act to the Code, see [section 661(a) of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section661/a&num=0&edition=prelim), Short Title note set out under [section 661 of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section661&num=0&edition=prelim), and Tables.
-
-This Act, referred to in subsec. (g), means Pub. L. 92–532, which is classified generally to this chapter, chapter 41 (§ 2801 et seq.) of this title, and chapters 32 (§ 1431 et seq.) and 32A (§ 1447 et seq.) of Title 16.
-
 #### Amendments
-1992—Subsec. (d). Pub. L. 102–580 amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “After the effective date of this subchapter, no State shall adopt or enforce any rule or regulation relating to any activity regulated by this subchapter. Any State may, however, propose to the Administrator criteria relating to the dumping of materials into ocean waters within its jurisdiction, or into other ocean waters to the extent that such dumping may affect waters within the jurisdiction of such State, and if the Administrator determines, after notice and opportunity for hearing, that the proposed criteria are not inconsistent with the purposes of this subchapter, may adopt those criteria and may issue regulations to implement such criteria. Such determination shall be made by the Administrator within one hundred and twenty days of receipt of the proposed criteria. For the purposes of this subsection, the term ‘State’ means any State, interstate or regional authority, Federal territory or Commonwealth or the District of Columbia.”
+1978—Pub. L. 95–302 inserted “, the protocol,” after “convention”.
 
-1990—Subsec. (f). Pub. L. 101–596, which directed the substitution of “the requirements of this subchapter” for all after “shall comply with” in “subsection 116(g) of the Marine Protection Research and Sanctuaries Act ([33 U.S.C. 1416(g)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1416/g&num=0&edition=prelim))”, was executed by making the substitution for “the criteria established pursuant to the second sentence of [section 1412(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1412/a&num=0&edition=prelim) relating to the effects of dumping. Subsection (d) of this section shall not apply to this subsection.” which followed “shall comply with” in section 106(f) of the Marine Protection Research and Sanctuaries Act of 1972, which is classified to subsec. (f) of this section, to reflect the probable intent of Congress.
-
-1986—Subsec. (g). Pub. L. 99–499 added subsec. (g).
-
-1980—Subsec. (f). Pub. L. 96–572 added subsec. (f).
-
-#### Effective Date
-Section effective 6 months after Oct. 23, 1972, see section 110(a) of Pub. L. 92–532, set out as a note under [section 1411 of this title](./chapter-027-ocean-dumping.md#section-1411).
-
-#### Territorial Sea of United States
-For extension of territorial sea of United States, see Proc. No. 5928, set out as a note under [section 1331 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1331&num=0&edition=prelim), Public Lands.
+#### Effective Date of 1978 Amendment
+For effective date of amendment by Pub. L. 95–302, see section 2 of Pub. L. 95–302, set out as a note under [section 1487 of this title](./chapter-028-pollution-casualties-on-the-high-seas-united-states-intervention.md#section-1487).
 
 
 <a id="section-1419"></a>
-## § 1419. Enforcement
-**(a) Utilization of other departments, agencies, and instrumentalities** The Administrator or the Secretary, as the case may be, may, whenever appropriate, utilize by agreement, the personnel, services and facilities of other Federal departments, agencies, and instrumentalities, or State agencies or instrumentalities, whether on a reimbursable or a nonreimbursable basis, in carrying out his responsibilities under this subchapter.
+## § 1419. Rules and regulations
 
-**(b) Delegation of review and evaluation authority** The Administrator or the Secretary may delegate responsibility and authority for reviewing and evaluating permit applications, including the decision as to whether a permit will be issued, to an officer of his agency, or he may delegate, by agreement, such responsibility and authority to the heads of other Federal departments or agencies, whether on a reimbursable or nonreimbursable basis.
-
-**(c) Surveillance and other enforcement activity** The Secretary of the department in which the Coast Guard is operating shall conduct surveillance and other appropriate enforcement activity to prevent unlawful transportation of material for dumping, or unlawful dumping. Such enforcement activity shall include, but not be limited to, enforcement of regulations issued by him pursuant to [section 1418 of this title](./chapter-027-ocean-dumping.md#section-1418), relating to safe transportation, handling, carriage, storage, and stowage. The Secretary of the Department in which the Coast Guard is operating shall supply to the Administrator and to the Attorney General, as appropriate, such information of enforcement activities and such evidentiary material assembled as they may require in carrying out their duties relative to penalty assessments, criminal prosecutions, or other actions involving litigation pursuant to the provisions of this subchapter.
-
-### Statutory Notes
-
-#### Effective Date
-Section effective 6 months after Oct. 23, 1972, see section 110(a) of Pub. L. 92–532, set out as a note under [section 1411 of this title](./chapter-027-ocean-dumping.md#section-1411).
-
-#### Transfer of Functions
-For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).
+The Secretary may issue reasonable rules and regulations which he considers appropriate and necessary for the effective implementation of this chapter.
 
 
 <a id="section-1420"></a>
-## § 1420. Regulations
+## § 1420. Oil Spill Liability Trust Fund
 
-In carrying out the responsibilities and authority conferred by this subchapter, the Administrator, the Secretary, and the Secretary of the department in which the Coast Guard is operating are authorized to issue such regulations as they may deem appropriate.
+The Oil Spill Liability Trust Fund shall be available to the Secretary for actions taken under sections 1474 and 1476 of this title.
 
 ### Statutory Notes
 
-#### Effective Date
-Section effective 6 months after Oct. 23, 1972, see section 110(a) of Pub. L. 92–532, set out as a note under [section 1411 of this title](./chapter-027-ocean-dumping.md#section-1411).
+#### Amendments
+1990—Pub. L. 101–380 amended section generally. Prior to amendment, section read as follows: “The revolving fund established under [section 1321(k) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1321/k&num=0&edition=prelim) shall be available to the Secretary for Federal actions and activities under [section 1474 of this title](./chapter-028-pollution-casualties-on-the-high-seas-united-states-intervention.md#section-1474).”
 
-#### Transfer of Functions
-For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).
+#### Effective Date of 1990 Amendment
+Amendment by Pub. L. 101–380 applicable to incidents occurring after Aug. 18, 1990, see section 1020 of Pub. L. 101–380, set out as an Effective Date note under [section 2701 of this title](./chapter-040-oil-pollution.md#section-2701).
 
 
 <a id="section-1421"></a>
-## § 1421. International cooperation
+## § 1421. Effective date
 
-The Secretary of State, in consultation with the Administrator, shall seek effective international action and cooperation to insure protection of the marine environment, and may, for this purpose, formulate, present, or support specific proposals in the United Nations and other component international organizations for the development of appropriate international rules and regulations in support of the policy of this Act.
+This chapter shall be effective upon February 5, 1974, or upon the date the convention becomes effective as to the United States, whichever is later.
 
 ### Statutory Notes
 
 #### References in Text
-This Act, referred to in text, means Pub. L. 92–532, which is classified generally to this chapter, chapter 41 (§ 2801 et seq.) of this title, and chapters 32 (§ 1431 et seq.) and 32A (§ 1447 et seq.) of Title 16, Conservation.
+The date the convention became effective as to the United States, referred to in text, is May 6, 1975.
 
-#### Effective Date
-Section effective 6 months after Oct. 23, 1972, see section 110(a) of Pub. L. 92–532, set out as a note under [section 1411 of this title](./chapter-027-ocean-dumping.md#section-1411).
+#### Effective Date of 1978 Amendment
+Pub. L. 95–302, § 2, June 26, 1978, 92 Stat. 345, provided that: “This Act [amending sections 1471 to 1473, 1479, 1482, and 1484 of this title] shall be effective upon the date of enactment [June 26, 1978], or upon the date the protocol becomes effective as to the United States, whichever is later.” [The protocol was adopted by the United States on Sept. 7, 1978, to be effective as to the United States upon its adoption by 15 countries. The protocol became effective as to the United States Mar. 30, 1983.
 
 
 <a id="section-1441"></a>
-## § 1441. Authorization of appropriations
+## § 1441. Congressional declaration of policy
+**(a)** It is declared to be the purposes of the Congress in this chapter to—
 
-There are authorized to be appropriated, for purposes of carrying out this subchapter, not to exceed $12,000,000 for fiscal year 1993 and not to exceed $14,000,000 for each of the fiscal years 1994, 1995, 1996, and 1997, to remain available until expended.
+(1) authorize and regulate the location, ownership, construction, and operation of deepwater ports in waters beyond the territorial limits of the United States;
+
+(2) provide for the protection of the marine and coastal environment to prevent or minimize any adverse impact which might occur as a consequence of the development of such ports;
+
+(3) protect the interests of the United States and those of adjacent coastal States in the location, construction, and operation of deepwater ports;
+
+(4) protect the rights and responsibilities of States and communities to regulate growth, determine land use, and otherwise protect the environment in accordance with law;
+
+(5) promote the construction and operation of deepwater ports as a safe and effective means of importing oil or natural gas into the United States and transporting oil or natural gas from the outer continental shelf 11 So in original. Probably should be capitalized. while minimizing tanker traffic and the risks attendant thereto; and
+
+(6) promote oil or natural gas production on the outer continental shelf 1 by affording an economic and safe means of transportation of outer continental shelf 1 oil or natural gas to the United States mainland.
+
+**(b)** The Congress declares that nothing in this chapter shall be construed to affect the legal status of the high seas, the superjacent airspace, or the seabed and subsoil, including the Continental Shelf.
 
 ### Statutory Notes
 
 #### Amendments
-1992—Pub. L. 102–580 substituted “for fiscal year 1993 and not to exceed $14,000,000 for each of the fiscal years 1994, 1995, 1996, and 1997, to remain available until expended” for “for each of fiscal years 1989, 1990, and 1991”.
+2002—Subsec. (a)(5), (6). Pub. L. 107–295 inserted “or natural gas” after “oil” wherever appearing.
 
-1988—Pub. L. 100–536 amended section generally, substituting provisions authorizing appropriations not to exceed $12,000,000 for each of fiscal years 1989, 1990, and 1991, for provisions authorizing appropriations for fiscal years 1973 to 1982.
+1996—Subsec. (a)(5), (6). Pub. L. 104–324 added pars. (5) and (6).
 
-1981—Pub. L. 97–16 increased to $4,213,000 from $2,000,000 the authorization of appropriation for fiscal year 1982.
+#### Short Title of 1996 Amendment
+Pub. L. 104–324, title V, § 501, Oct. 19, 1996, 110 Stat. 3925, provided that: “This title [amending this section and sections 1502 to 1504, 1507, and 1509 of this title, repealing [section 1506 of this title](./chapter-029-deepwater-ports.md#section-1506), and enacting provisions set out as a note under this section] may be cited as the ‘Deepwater Port Modernization Act’.”
 
-1980—Pub. L. 96–572 inserted provisions authorizing appropriations for fiscal years 1980, 1981, and 1982.
+#### Short Title of 1984 Amendment
+Pub. L. 98–419, § 1, Sept. 25, 1984, 98 Stat. 1607, provided: “That this Act [amending sections 1502, 1503, 1504, 1506, 1507, 1517, and 1518 of this title and enacting provisions set out as a note under [section 1518 of this title](./chapter-029-deepwater-ports.md#section-1518)] may be cited as the ‘Deepwater Port Act Amendments of 1984’.”
 
-1977—Pub. L. 95–153 inserted provision authorizing appropriations not to exceed $4,800,000 for fiscal year 1978.
+#### Short Title
+Pub. L. 93–627, § 1, Jan. 3, 1975, 88 Stat. 2126, provided: “That this Act [enacting this chapter and amending [section 1333 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1333&num=0&edition=prelim), Public Lands] may be cited as the ‘Deepwater Port Act of 1974’.”
 
-1976—Pub. L. 94–326 inserted provision authorizing appropriations not to exceed $4,800,000 for fiscal year 1977.
+#### Congressional Purposes for 1996 Amendments
+Pub. L. 104–324, title V, § 502(a), Oct. 19, 1996, 110 Stat. 3925, provided that: “The purposes of this title [see Short Title of 1996 Amendment note above] are to— “(1) update and improve the Deepwater Port Act of 1974 [[33 U.S.C. 1501](./chapter-029-deepwater-ports.md#section-1501) et seq.]; “(2) assure that the regulation of deepwater ports is not more burdensome or stringent than necessary in comparison to the regulation of other modes of importing or transporting oil; “(3) recognize that deepwater ports are generally subject to effective competition from alternative transportation modes and eliminate, for as long as a port remains subject to effective competition, unnecessary Federal regulatory oversight or involvement in the ports’ business and economic decisions; and “(4) promote innovation, flexibility, and efficiency in the management and operation of deepwater ports by removing or reducing any duplicative, unnecessary, or overly burdensome Federal regulations or license provisions.”
 
-1975—Pub. L. 94–62 substituted “not to exceed $5,500,000 for each of the fiscal years 1974 and 1975” for “and not to exceed $5,500,000 for fiscal years 1974 and 1975”, and inserted provisions authorizing appropriation of an amount not to exceed $5,300,000 for fiscal year 1976, and not to exceed $1,325,000 for the transition period (July 1 through Sept. 30, 1976).
+#### Deposit of Certain Penalties Into Oil Spill Liability Trust Fund
+Penalties paid pursuant to this chapter and sections 1319(c) and 1321 of this title to be deposited in the Oil Spill Liability Trust Fund created under [section 9509 of Title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section9509&num=0&edition=prelim), Internal Revenue Code, see section 4304 of Pub. L. 101–380, set out as a note under [section 9509 of Title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section9509&num=0&edition=prelim).
 
-1974—Pub. L. 93–472 substituted “fiscal years 1974 and 1975,” for “fiscal year 1974,”.
-
-#### Effective Date
-Section effective 6 months after Oct. 23, 1972, see section 110(a) of Pub. L. 92–532, set out as a note under [section 1411 of this title](./chapter-027-ocean-dumping.md#section-1411).
+#### Environmental Effects Abroad of Major Federal Actions
+For provisions relating to environmental effects abroad of major Federal actions, see Ex. Ord. No. 12114, Jan. 4, 1979, 44 F.R. 1957, set out as a note under [section 4321 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim), The Public Health and Welfare.
 
 
 <a id="section-1442"></a>
-## § 1442. Omitted
+## § 1442. Definitions
 
-### Statutory Notes
+As used in this chapter, unless the context otherwise requires, the term—
 
-#### Codification
-Section, Pub. L. 92–532, title I, § 112, Oct. 23, 1972, 86 Stat. 1060; Pub. L. 94–326, § 2, June 30, 1976, 90 Stat. 725; Pub. L. 96–470, title II, § 209(f), Oct. 19, 1980, 94 Stat. 2245; Pub. L. 102–580, title V, § 510, Oct. 31, 1992, 106 Stat. 4870, which required the Administrator of the Environmental Protection Agency to report annually to Congress on the administration of this subchapter, terminated, effective May 15, 2000, pursuant to section 3003 of Pub. L. 104–66, as amended, set out as a note under [section 1113 of Title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1113&num=0&edition=prelim), Money and Finance. See, also, page 163 of House Document No. 103–7.
+(1) “adjacent coastal State” means any coastal State which (A) would be directly connected by pipeline to a deepwater port, as proposed in an application; (B) would be located within 15 miles of any such proposed deepwater port; or (C) is designated by the Secretary in accordance with [section 1508(a)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1508/a/2&num=0&edition=prelim);
 
+(2) “affiliate” means any entity owned or controlled by, any person who owns or controls, or any entity which is under common ownership or control with an applicant, licensee, or any person required to be disclosed pursuant to section 1504(c)(2)(A) or (B) of this title;
 
-<a id="section-1443"></a>
-## § 1443. Monitoring and research program
+(3) “application” means an application submitted under this Act for a license for the ownership, construction, and operation of a deepwater port;
 
-The Secretary of Commerce, in coordination with the Secretary of the Department in which the Coast Guard is operating and with the Administrator shall, within six months of October 23, 1972, initiate a comprehensive and continuing program of monitoring and research regarding the effects of the dumping of material into ocean waters or other coastal waters where the tide ebbs and flows or into the Great Lakes or their connecting waters.
+(4) “citizen of the United States” means any person who is a United States citizen by law, birth, or naturalization, any State, any agency of a State or a group of States, or any corporation, partnership, or association organized under the laws of any State which has as its president or other executive officer and as its chairman of the board of directors, or holder of a similar office, a person who is a United States citizen by law, birth or naturalization and which has no more of its directors who are not United States citizens by law, birth or naturalization than constitute a minority of the number required for a quorum necessary to conduct the business of the board;
 
-### Statutory Notes
+(5) “coastal environment” means the navigable waters (including the lands therein and thereunder) and the adjacent shorelines including 11 So in original. Probably should be preceded by an opening parenthesis. waters therein and thereunder). The term includes transitional and intertidal areas, bays, lagoons, salt marshes, estuaries, and beaches; the fish, wildlife and other living resources thereof; and the recreational and scenic values of such lands, waters and resources;
 
-#### Amendments
-1986—Pub. L. 99–272 struck out provision which had required the Secretary of Commerce to report from time to time, not less frequently than annually, his findings under this section (including an evaluation of the short-term ecological effects and the social and economic factors involved) to the Congress.
+(6) “coastal State” means any State of the United States in or bordering on the Atlantic, Pacific, or Arctic Oceans, or the Gulf of Mexico;
 
-#### Transfer of Functions
-For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).
+(7) “construction” means the supervising, inspection, actual building, and all other activities incidental to the building, repairing, or expanding of a deepwater port or any of its components, including, but not limited to, pile driving and bulkheading, and alterations, modifications, or additions to the deepwater port;
 
+(8) “control” means the power, directly or indirectly, to determine the policy, business practices, or decisionmaking process of another person, whether by stock or other ownership interest, by representation on a board of directors or similar body, by contract or other agreement with stockholders or others, or otherwise;
 
-<a id="section-1444"></a>
-## § 1444. Research program respecting possible long-range effects of pollution, overfishing, and man-induced changes of ocean ecosystems
-**(a) Secretary of Commerce**
+(9) “deepwater port”—
 
-(1) The Secretary of Commerce, in close consultation with other appropriate Federal departments, agencies, and instrumentalities shall, within six months of October 23, 1972, initiate a comprehensive and continuing program of research with respect to the possible long-range effects of pollution, overfishing, and man-induced changes of ocean ecosystems. These responsibilities shall include the scientific assessment of damages to the natural resources from spills of petroleum or petroleum products. In carrying out such research, the Secretary of Commerce shall take into account such factors as existing and proposed international policies affecting oceanic problems, economic considerations involved in both the protection and the use of the oceans, possible alternatives to existing programs, and ways in which the health of the oceans may best be preserved for the benefit of succeeding generations of mankind.
+  (A) means any fixed or floating manmade structure other than a vessel, or any group of such structures, that are located beyond State seaward boundaries and that are used or intended for use as a port or terminal for the transportation, storage, or further handling of oil or natural gas for transportation to or from any State, except as otherwise provided in [section 1522 of this title](./chapter-029-deepwater-ports.md#section-1522), and for other uses not inconsistent with the purposes of this chapter, including transportation of oil or natural gas from the United States outer continental shelf;
 
-(2) The Secretary of Commerce shall ensure that the program under this section complements, when appropriate, the activities undertaken by other Federal agencies pursuant to subchapter I and [section 1443 of this title](./chapter-027-ocean-dumping.md#section-1443). That program shall include but not be limited to—
+  (B) includes all components and equipment, including pipelines, pumping stations, service platforms, buoys, mooring lines, and similar facilities to the extent they are located seaward of the high water mark;
 
-  (A) the development and assessment of scientific techniques to define and quantify the degradation of the marine environment;
+  (C) in the case of a structure used or intended for such use with respect to natural gas, includes all components and equipment, including pipelines, pumping or compressor stations, service platforms, buoys, mooring lines, and similar facilities that are proposed or approved for construction and operation as part of a deepwater port, to the extent that they are located seaward of the high water mark and do not include interconnecting facilities; and
 
-  (B) the assessment of the capacity of the marine environment to receive materials without degradation;
+  (D) shall be considered a “new source” for purposes of the Clean Air Act ([42 U.S.C. 7401](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section7401&num=0&edition=prelim) et seq.), and the Federal Water Pollution Control Act ([33 U.S.C. 1251](./chapter-026-water-pollution-prevention-and-control.md#section-1251) et seq.);
 
-  (C) continuing monitoring programs to assess the health of the marine environment, including but not limited to the monitoring of bottom oxygen concentrations, contaminant levels in biota, sediments, and the water column, diseases in fish and shellfish, and changes in types and abundance of indicator species;
+(10) “Governor” means the Governor of a State or the person designated by State law to exercise the powers granted to the Governor pursuant to this chapter;
 
-  (D) the development of methodologies, techniques, and equipment for disposal of waste materials to minimize degradation of the marine environment.
+(11) “licensee” means a citizen of the United States holding a valid license for the ownership, construction, and operation of a deepwater port that was issued, transferred, or renewed pursuant to this chapter;
 
-(3) The Secretary of Commerce shall ensure that the comprehensive and continuing research program conducted under this subsection is consistent with the comprehensive plan for ocean pollution research and development and monitoring prepared under section 1703 11 See References in Text note below. of this title.
+(12) “marine environment” includes the coastal environment, waters of the contiguous zone, and waters of the high seas; the fish, wildlife, and other living resources of such waters; and the recreational and scenic values of such waters and resources;
 
-**(b) Action with other nations** In carrying out his responsibilities under this section, the Secretary of Commerce, under the foreign policy guidance of the President and pursuant to international agreements and treaties made by the President with the advice and consent of the Senate, may act alone or in conjunction with any other nation or group of nations, and shall make known the results of his activities by such channels of communication as may appear appropriate.
+(13) “natural gas” means either natural gas unmixed, or any mixture of natural or artificial gas, including compressed or liquefied natural gas, natural gas liquids, liquefied petroleum gas, and condensate recovered from natural gas;
 
-**(c) Cooperation of other departments, agencies, and independent instrumentalities** Each department, agency, and independent instrumentality of the Federal Government is authorized and directed to cooperate with the Secretary of Commerce in carrying out the purposes of this section and, to the extent permitted by law, to furnish such information as may be requested.
+(14) “oil” means petroleum, crude oil, and any substance refined from petroleum or crude oil;
 
-**(d) Utilization of personnel, services, and facilities; inter-agency agreements** The Secretary of Commerce, in carrying out his responsibilities under this section, shall, to the extent feasible utilize the personnel, services, and facilities of other Federal departments, agencies, and instrumentalities (including those of the Coast Guard for monitoring purposes), and is authorized to enter into appropriate inter-agency agreements to accomplish this action.
+(15) “person” includes an individual, a public or private corporation, a partnership or other association, or a government entity;
+
+(16) “safety zone” means the safety zone established around a deepwater port as determined by the Secretary in accordance with [section 1509(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1509/d&num=0&edition=prelim);
+
+(17) “Secretary” means the Secretary of Transportation;
+
+(18) “State” includes each of the States of the United States, the District of Columbia, the Commonwealth of Puerto Rico, and the territories and possessions of the United States; and
+
+(19) “vessel” means every description of watercraft or other artificial contrivance used as a means of transportation on or through the water.
 
 ### Statutory Notes
 
 #### References in Text
-[Section 1703 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1703&num=0&edition=prelim), referred to in subsec. (a)(3), was repealed by Pub. L. 102–567, title II, § 204, Oct. 29, 1992, 106 Stat. 4282.
+The Clean Air Act, referred to in par. (9)(D), is act July 14, 1955, ch. 360, 69 Stat. 322, as amended, which is classified generally to chapter 85 (§ 7401 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 7401 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section7401&num=0&edition=prelim) and Tables.
+
+The Federal Water Pollution Control Act, as amended, referred to in par. (9)(D), is act June 30, 1948, ch. 758, as amended generally by Pub. L. 92–500, § 2, Oct. 18, 1972, 86 Stat. 816, which is classified generally to chapter 26 (§ 1251 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1251 of this title](./chapter-026-water-pollution-prevention-and-control.md#section-1251) and Tables.
 
 #### Amendments
-1988—Subsec. (a)(3). Pub. L. 100–627 added par. (3).
+2012—Par. (9)(A). Pub. L. 112–213 inserted “or from” before “any State”.
 
-1986—Subsec. (a). Pub. L. 99–272, § 6062(1)–(3), designated existing provisions as par. (1), substituted “in close consultation” for “in consultation”, and added par. (2).
+2005—Par. (13). Pub. L. 109–58 inserted “, natural gas liquids, liquefied petroleum gas, and condensate recovered from natural gas” before semicolon at end.
 
-Subsec. (c). Pub. L. 99–272, § 6062(4), redesignated subsec. (d) as (c), and struck out former subsec. (c) which required the Secretary of Commerce to make an annual report to Congress, in March of each year, on the results of activities undertaken by him pursuant to this section during the previous fiscal year, and to include in that report the report to Congress required by [section 665 of title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section665&num=0&edition=prelim) on activities of the Department of Commerce under that section.
+2002—Par. (9). Pub. L. 107–295, § 106(b)(2), amended par. (9) generally. Prior to amendment, par. (9) read as follows: “ ‘deepwater port’ means any fixed or floating manmade structures other than a vessel, or any group of structures, located beyond the territorial sea and off the coast of the United States and which are used or intended for use as a port or terminal for the transportation, storage, and further handling of oil for transportation to any State, except as otherwise provided in [section 1522 of this title](./chapter-029-deepwater-ports.md#section-1522), and for other uses not inconsistent with the purposes of this chapter, including transportation of oil from the United States outer continental shelf. The term includes all associated components and equipment, including pipelines, pumping stations, service platforms, mooring buoys, and similar appurtenances to the extent they are located seaward of the high water mark. A deepwater port shall be considered a ‘new source’ for purposes of the Clean Air Act, as amended, and the Federal Water Pollution Control Act, as amended;”.
 
-Subsecs. (d), (e). Pub. L. 99–272, § 6062(4), redesignated subsec. (e) as (d). Former subsec. (d) redesignated (c).
+Pars. (13) to (19). Pub. L. 107–295, § 106(b)(1), (3), added par. (13) and redesignated former pars. (13) to (18) as (14) to (19), respectively.
 
-1980—Subsec. (a). Pub. L. 96–381 inserted provision including within the responsibilities of the Secretary the scientific assessment of damages to natural resources from spills of petroleum or petroleum products.
+1996—Pars. (3) to (8). Pub. L. 104–324, § 503(a), redesignated pars. (4) to (9) as (3) to (8), respectively, and struck out former par. (3) which read as follows: “ ‘antitrust laws’ includes the Act of July 2, 1890, as amended, the Act of October 15, 1914, as amended, the Federal Trade Commission Act ([15 U.S.C. 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section41&num=0&edition=prelim) et seq.), and sections 73 and 74 of the Act of August 27, 1894, as amended;”.
 
-Subsec. (c). Pub. L. 96–470 inserted provision requiring the Secretary to include in his annual report the report on activities of the Department of Commerce under [section 665 of title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section665&num=0&edition=prelim).
+Par. (9). Pub. L. 104–324, § 503(a)(2), (b), redesignated par. (10) as (9) and substituted “structures, located beyond the territorial sea and off the coast of the United States and which are used or intended for use as a port or terminal for the transportation, storage, and further handling of oil for transportation to any State, except as otherwise provided in [section 1522 of this title](./chapter-029-deepwater-ports.md#section-1522), and for other uses not inconsistent with the purposes of this chapter, including transportation of oil from the United States outer continental shelf.” for “such structures, located beyond the territorial sea and off the coast of the United States and which are used or intended for use as a port or terminal for the loading or unloading and further handling of oil for transportation to any State, except as otherwise provided in [section 1522 of this title](./chapter-029-deepwater-ports.md#section-1522).” Former par. (9) redesignated (8).
 
-1975—Subsec. (c). Pub. L. 94–62 substituted “March” for “January”.
+Pars. (10) to (19). Pub. L. 104–324, § 503(a)(2), redesignated pars. (11) to (19) as (10) to (18), respectively. Former par. (10) redesignated (9).
+
+1984—Par. (4). Pub. L. 98–419 substituted “means an application” for “means any application”, struck out designation “(A)” before “for a license”, and struck out cls. (B) and (C) which provided that “application” meant any application submitted under this chapter for transfer of any license referred to in this paragraph, or for any substantial change in any of the conditions and provisions of any such license.
+
+#### Territorial Sea and Contiguous Zone of United States
+For extension of territorial sea and contiguous zone of United States, see Proc. No. 5928 and Proc. No. 7219, respectively, set out as notes under [section 1331 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1331&num=0&edition=prelim), Public Lands.
+
+
+<a id="section-1443"></a>
+## § 1443. License for ownership, construction, and operation of deepwater port
+**(a) Requirement** No person may engage in the ownership, construction, or operation of a deepwater port except in accordance with a license issued pursuant to this chapter. No person may transport or otherwise transfer any oil or natural gas between a deepwater port and the United States unless such port has been so licensed and the license is in force.
+
+**(b) Issuance, transfer, amendment, or reinstatement** The Secretary may—
+
+(1) on application, issue a license for the ownership, construction, and operation of a deepwater port; and
+
+(2) on petition of the licensee, amend, transfer, or reinstate a license issued under this chapter.
+
+**(c) Conditions for issuance** The Secretary may issue a license in accordance with the provisions of this chapter if—
+
+(1) he determines that the applicant is financially responsible and will meet the requirements of [section 2716 of this title](./chapter-040-oil-pollution.md#section-2716) 11 So in original. Probably should be followed by a semicolon.
+
+(2) he determines that the applicant can and will comply with applicable laws, regulations, and license conditions;
+
+(3) he determines that the construction and operation of the deepwater port will be in the national interest and consistent with national security and other national policy goals and objectives, including energy sufficiency and environmental quality;
+
+(4) he determines that the deepwater port will not unreasonably interfere with international navigation or other reasonable uses of the high seas, as defined by treaty, convention, or customary international law;
+
+(5) he determines, in accordance with the environmental review criteria established pursuant to [section 1505 of this title](./chapter-029-deepwater-ports.md#section-1505), that the applicant has demonstrated that the deepwater port will be constructed and operated using best available technology, so as to prevent or minimize adverse impact on the marine environment;
+
+(6) he has not been informed, within 45 days of the last public hearing on a proposed license for a designated application area, by the Administrator of the Environmental Protection Agency that the deepwater port will not conform with all applicable provisions of the Clean Air Act, as amended [[42 U.S.C. 7401](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section7401&num=0&edition=prelim) et seq.], the Federal Water Pollution Control Act, as amended [[33 U.S.C. 1251](./chapter-026-water-pollution-prevention-and-control.md#section-1251) et seq.], or the Marine Protection, Research and Sanctuaries Act, as amended [[16 U.S.C. 1431](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1431&num=0&edition=prelim) et seq., 1447 et seq.; [33 U.S.C. 1401](./chapter-027-ocean-dumping.md#section-1401) et seq., 2801 et seq.];
+
+(7) he has consulted with the Secretary of the Army, the Secretary of State, and the Secretary of Defense, to determine their views on the adequacy of the application, and its effect on programs within their respective jurisdictions;
+
+(8) the Governor of the adjacent coastal State of States, pursuant to [section 1508 of this title](./chapter-029-deepwater-ports.md#section-1508), approves, or is presumed to approve, issuance of the license; and
+
+(9) the adjacent coastal State to which the deepwater port is to be directly connected by pipeline has developed, or is making, at the time the application is submitted, reasonable progress, as determined in accordance with [section 1508(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1508/c&num=0&edition=prelim), toward developing, an approved coastal zone management program pursuant to the Coastal Zone Management Act of 1972 [[16 U.S.C. 1451](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1451&num=0&edition=prelim) et seq.].
+
+**(d) Application for license subject to examination and comparison of economic, social, and environmental effects of deepwater port facility and deep draft channel and harbor; finality of determination** If an application is made under this chapter for a license to construct a deepwater port facility off the coast of a State, and a port of the State which will be directly connected by pipeline with such deepwater port, on the date of such application—
+
+(1) has existing plans for construction of a deep draft channel and harbor; and
+
+(2) has either (A) an active study by the Secretary of the Army relating to the construction of a deep draft channel and harbor, or (B) a pending application for a permit under [section 403 of this title](./chapter-009-protection-of-navigable-waters-and-of-harbor-and-river-improvements-generally.md#section-403) for such construction; and
+
+(3) applies to the Secretary for a determination under this section within 30 days of the date of the license application;
+the Secretary shall not issue a license under this chapter until he has examined and compared the economic, social, and environmental effects of the construction and operation of the deepwater port with the economic, social and environmental effects of the construction, expansion, deepening, and operation of such State port, and has determined which project best serves the national interest or that both developments are warranted. The Secretary’s determination shall be discretionary and nonreviewable.
+
+**(e) Additional conditions; removal requirements, waiver; Outer Continental Shelf Lands Act applicable to utilization of components upon waiver of removal requirements**
+
+(1) In issuing a license for the ownership, construction, and operation of a deepwater port, the Secretary shall prescribe those conditions which the Secretary deems necessary to carry out the provisions and requirements of this chapter 22 See References in Text note below. or which are otherwise required by any Federal department or agency pursuant to the terms of this chapter.2 To the extent practicable, conditions required to carry out the provisions and requirements of this chapter 2 shall be addressed in license conditions rather than by regulation and, to the extent practicable, the license shall allow a deepwater port’s operating procedures to be stated in an operations manual, approved by the Coast Guard, in accordance with [section 1509(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1509/a&num=0&edition=prelim), rather than in detailed and specific license conditions or regulations; except that basic standards and conditions shall be addressed in regulations. On petition of a licensee, the Secretary shall review any condition of a license issued under this chapter to determine if that condition is uniform, insofar as practicable, with the conditions of other licenses issued under this chapter, reasonable, and necessary to meet the objectives of this chapter. The Secretary shall amend or rescind any condition that is no longer necessary or otherwise required by any Federal department or agency under this chapter.
+
+(2) No license shall be issued, transferred, or renewed under this chapter unless the licensee or transferee first agrees in writing that (A) there will be no substantial change from the plans, operational systems, and methods, procedures, and safeguards set forth in his license, as approved, without prior approval in writing from the Secretary; and (B) he will comply with any condition the Secretary may prescribe in accordance with the provisions of this chapter.
+
+(3) The Secretary shall establish such bonding requirements or other assurances as he deems necessary to assure that, upon the revocation or termination of a license, the licensee will remove all components of the deepwater port. In the case of components lying in the subsoil below the seabed, the Secretary is authorized to waive the removal requirements if he finds that such removal is not otherwise necessary and that the remaining components do not constitute any threat to navigation or to the environment. At the request of the licensee, the Secretary, after consultation with the Secretary of the Interior, is authorized to waive the removal requirement as to any components which he determines may be utilized in connection with the transportation of oil, natural gas, or other minerals, pursuant to a lease granted under the provisions of the Outer Continental Shelf Lands Act [[43 U.S.C. 1331](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1331&num=0&edition=prelim) et seq.], after which waiver the utilization of such components shall be governed by the terms of the Outer Continental Shelf Lands Act.
+
+**(f) Amendments, transfers, and reinstatements** The Secretary may amend, transfer, or reinstate a license issued under this chapter 2 if the Secretary finds that the amendment, transfer, or reinstatement is consistent with the requirements of this chapter.
+
+**(g) Eligible citizens** Any citizen of the United States who otherwise qualifies under the terms of this chapter shall be eligible to be issued a license for the ownership, construction, and operation of a deepwater port.
+
+**(h) Term of license** A license issued under this chapter remains in effect unless suspended or revoked by the Secretary or until surrendered by the licensee.
+
+**(i) Liquefied natural gas facilities** To promote the security of the United States, the Secretary shall give top priority to the processing of a license under this chapter for liquefied natural gas facilities that will be supplied with or that will supply liquefied natural gas by United States flag vessels.
+
+### Statutory Notes
+
+#### References in Text
+The Clean Air Act, referred to in subsec. (c)(6), is act July 14, 1955, ch. 360, 69 Stat. 322, as amended, which is classified generally to chapter 85 (§ 7401 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 7401 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section7401&num=0&edition=prelim) and Tables.
+
+The Federal Water Pollution Control Act, as amended, referred to in subsec. (c)(6), is act June 30, 1948, ch. 758, as amended generally by Pub. L. 92–500, § 2, Oct. 18, 1972, 86 Stat. 816, which is classified generally to chapter 26 (§ 1251 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1251 of this title](./chapter-026-water-pollution-prevention-and-control.md#section-1251) and Tables.
+
+The Marine Protection, Research and Sanctuaries Act, referred to subsec. (c)(6), probably means Pub. L. 92–532, Oct. 23, 1972, 86 Stat. 1052, as amended, known as the Marine Protection, Research, and Sanctuaries Act of 1972, which is classified generally to chapters 27 (§ 1401 et seq.) and 41 (§ 2801 et seq.) of this title and chapters 32 (§ 1431 et seq.) and 32A (§ 1447 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under [section 1401 of this title](./chapter-027-ocean-dumping.md#section-1401) and Tables.
+
+The Coastal Zone Management Act of 1972, referred to in subsec. (c)(9), is title III of Pub. L. 89–454, as added by Pub. L. 92–583, Oct. 27, 1972, 86 Stat. 1280, as amended, which is classified generally to chapter 33 (§ 1451 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under [section 1451 of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1451&num=0&edition=prelim) and Tables.
+
+This chapter, referred to first three times in subsec. (e)(1) and first time in subsec. (f), was in the original “this title” and was translated as reading “this Act”, meaning Pub. L. 93–627, which is classified generally to this chapter, to reflect the probable intent of Congress, because Pub. L. 93–627 does not contain titles.
+
+The Outer Continental Shelf Lands Act, referred to in subsec. (e)(3), is act Aug. 7, 1953, ch. 345, 67 Stat. 462, as amended, which is classified generally to subchapter III (§ 1331 et seq.) of chapter 29 of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under [section 1301 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1301&num=0&edition=prelim) and Tables.
+
+#### Amendments
+2014—Subsec. (i). Pub. L. 113–281 inserted “or that will supply” after “be supplied with”.
+
+2006—Subsec. (i). Pub. L. 109–241 added subsec. (i).
+
+2002—Subsec. (a). Pub. L. 107–295 inserted “or natural gas” after “oil”.
+
+1996—Subsec. (a). Pub. L. 104–324, § 504(a), struck out at end “A deepwater port, licensed pursuant to the provisions of this chapter, may not be utilized—
+
+“(1) for the loading and unloading of commodities or materials (other than oil) transported from the United States, other than materials to be used in the construction, maintenance, or operation of the high seas oil port, to be used as ship supplies, including bunkering for vessels utilizing the high seas oil port,
+
+“(2) for the transshipment of commodities or materials, to the United States, other than oil,
+
+“(3) except in cases where the Secretary otherwise by rule provides, for the transshipment of oil, destined for locations outside the United States.”
+
+Subsec. (c)(7) to (10). Pub. L. 104–324, § 504(b), redesignated pars. (8) to (10) as (7) to (9), respectively, and struck out former par. (7) which read as follows: “he has received the opinions of the Federal Trade Commission and the Attorney General, pursuant to [section 1506 of this title](./chapter-029-deepwater-ports.md#section-1506), as to whether issuance of the license would adversely affect competition, restrain trade, promote monopolization, or otherwise create a situation in contravention of the antitrust laws;”.
+
+Subsec. (e)(1). Pub. L. 104–324, § 504(c), substituted “In issuing a license for the ownership, construction, and operation of a deepwater port, the Secretary shall prescribe those conditions which the Secretary deems necessary to carry out the provisions and requirements of this chapter or which are otherwise required by any Federal department or agency pursuant to the terms of this chapter. To the extent practicable, conditions required to carry out the provisions and requirements of this chapter shall be addressed in license conditions rather than by regulation and, to the extent practicable, the license shall allow a deepwater port’s operating procedures to be stated in an operations manual, approved by the Coast Guard, in accordance with [section 1509(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1509/a&num=0&edition=prelim), rather than in detailed and specific license conditions or regulations; except that basic standards and conditions shall be addressed in regulations.” for “In issuing a license for the ownership, construction, and operation of a deepwater port, the Secretary shall prescribe any conditions which he deems necessary to carry out the provisions of this chapter, or which are otherwise required by any Federal department or agency pursuant to the terms of this chapter.”
+
+Subsec. (e)(2). Pub. L. 104–324, § 504(d), substituted “his license” for “his application”.
+
+Subsec. (f). Pub. L. 104–324, § 504(e), inserted heading and amended text generally. Prior to amendment, text read as follows: “The Secretary may amend, transfer, or reinstate a license issued under this chapter if the amendment, transfer, or reinstatement is consistent with the findings made at the time the license was issued.”
+
+1990—Subsec. (c)(1). Pub. L. 101–380 substituted “[section 2716 of this title](./chapter-040-oil-pollution.md#section-2716)” for “section 1517(l) of this title;”.
+
+1984—Subsec. (b). Pub. L. 98–419, § 2(b), substituted provisions authorizing the Secretary, on application, to issue a license for the ownership, construction, and operation of a deepwater port and, on petition of the licensee, to amend, transfer, or reinstate a license issued under this chapter for provisions which had authorized the Secretary, upon application and in accordance with the provisions of this chapter, to issue, transfer, amend, or renew a license for the ownership, construction, and operation of a deepwater port.
+
+Subsec. (e)(1). Pub. L. 98–419, § 2(e), inserted provision that on petition of a licensee, the Secretary shall review any condition of a license issued under this chapter to determine if that condition is uniform, insofar as practicable, with the conditions of other licenses issued under this chapter and is reasonable, and necessary to meet the objectives of this chapter, and that the Secretary shall amend or rescind any condition that is no longer necessary or otherwise required by any Federal department or agency under this chapter.
+
+Subsec. (f). Pub. L. 98–419, § 2(c), substituted provisions authorizing the Secretary to amend, transfer, or reinstate a license issued under this chapter if the amendment, transfer, or reinstatement is consistent with the findings made at the time the license was issued for provisions which had authorized the Secretary to transfer such licenses if the Secretary determined that such transfer was in the public interest and that the transferee met the requirements of this chapter and the prerequisites to issuance under subsec. (c) of this section.
+
+Subsec. (h). Pub. L. 98–419, § 2(d), substituted provision that a license issued under this chapter remain in effect unless suspended or revoked by the Secretary or until surrendered by the licensee for provisions which had limited the terms of licenses to not more than 20 years and which had granted each licensee a preferential right of renewal for not more than 10 years, subject to subsec. (c), upon such conditions and for such term as determined by the Secretary to be reasonable and appropriate.
+
+#### Effective Date of 1990 Amendment
+Amendment by Pub. L. 101–380 applicable to incidents occurring after Aug. 18, 1990, see section 1020 of Pub. L. 101–380, set out as an Effective Date note under [section 2701 of this title](./chapter-040-oil-pollution.md#section-2701).
 
 #### Transfer of Functions
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).
 
+#### LNG Tankers
+Pub. L. 114–120, title III, § 312, Feb. 8, 2016, 130 Stat. 58, provided that: “Not later than 180 days after the date of the enactment this Act [Feb. 8, 2016], the Secretary of Transportation shall— “(1) develop guidelines to implement the program authorized under section 304(a) of the Coast Guard and Maritime Transportation Act of 2006 (Public Law 109–241) [formerly set out below], including specific actions to ensure the future availability of able and credentialed United States licensed and unlicensed seafarers including—“(A) incentives to encourage partnership agreements with operators of foreign-flag vessels that carry liquified natural gas, that provide no less than one training billet per vessel for United States merchant mariners in order to meet minimum mandatory sea service requirements; “(B) development of appropriate training curricula for use by public and private maritime training institutions to meet all United States merchant mariner license, certification, and document laws and requirements under the International Convention on Standards of Training, Certification and Watchkeeping for Seafarers, 1978; and “(C) steps to promote greater outreach and awareness of additional job opportunities for sea service veterans of the United States Armed Forces; and “(2) submit such guidelines to the Committee [on] Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate.”
 
-<a id="section-1445"></a>
-## § 1445. Research program respecting ocean dumping and other methods of waste disposal
-**(a) Cooperation with public authorities, agencies, and institutions, private agencies and institutions, and individuals** The Administrator of the Environmental Protection Agency shall—
+Pub. L. 109–241, title III, § 304(a), July 11, 2006, 120 Stat. 527, as amended by Pub. L. 113–281, title III, § 307(b), Dec. 18, 2014, 128 Stat. 3045, which related to development and implementation of a program to promote transportation of liquefied natural gas to and from the United States on United States flag vessels, was repealed by Pub. L. 116–283, div. G, title LVXXXV [LXXXV], § 8502(b)(1), Jan. 1, 2021, 134 Stat. 4747. See [section 1504(j)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1504/j/1&num=0&edition=prelim).
 
-(1) conduct research, investigations, experiments, training, demonstrations, surveys, and studies for the purpose of—
 
-  (A) determining means of minimizing or ending, as soon as possible after October 6, 1980, the dumping into ocean waters, or waters described in [section 1411(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1411/b&num=0&edition=prelim), of material which may unreasonably degrade or endanger human health, welfare, or amenities, or the marine environment, ecological systems, or economic potentialities, and
+<a id="section-1444"></a>
+## § 1444. Procedure
+**(a) Regulations; issuance, amendment, or rescission; scope** The Secretary shall, as soon as practicable after January 3, 1975, and after consultation with other Federal agencies, issue regulations to carry out the purposes and provisions of this chapter in accordance with the provisions of [section 553 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section553&num=0&edition=prelim), without regard to subsection (a) thereof. Such regulations shall pertain to, but need not be limited to, application, issuance, transfer, renewal, suspension, and termination of licenses. Such regulations shall provide for full consultation and cooperation with all other interested Federal agencies and departments and with any potentially affected coastal State, and for consideration of the views of any interested members of the general public. The Secretary is further authorized, consistent with the purposes and provisions of this chapter, to amend or rescind any such regulation.
 
-  (B) developing disposal methods as alternatives to the dumping described in subparagraph (A); and
+**(b) Additional regulations; criteria for site evaluation and preconstruction testing** The Secretary, in consultation with the Secretary of the Interior and the Administrator of the National Oceanic and Atmospheric Administration, shall, as soon as practicable after January 3, 1975, prescribe regulations relating to those activities involved in site evaluation and preconstruction testing at potential deepwater port locations that may (1) adversely affect the environment; (2) interfere with authorized uses of the Outer Continental Shelf; or (3) pose a threat to human health and welfare. Such activity may thenceforth not be undertaken except in accordance with regulations prescribed pursuant to this subsection. Such regulations shall be consistent with the purposes of this chapter.
 
-(2) encourage, cooperate with, promote the coordination of, and render financial and other assistance to appropriate public authorities, agencies, and institutions (whether Federal, State, interstate, or local) and appropriate private agencies, institutions, and individuals in the conduct of research and other activities described in paragraph (1).
+**(c) Plans; submittal to Secretary of Transportation; publication in Federal Register; application contents; exemption**
 
-**(b) Termination date for ocean dumping of sewage sludge not affected** Nothing in this section shall be construed to affect in any way the December 31, 1981, termination date, established in [section 1412a of this title](./chapter-027-ocean-dumping.md#section-1412a), for the ocean dumping of sewage sludge.
+(1) Any person making an application under this chapter shall submit detailed plans to the Secretary. Within 21 days after the receipt of an application, the Secretary shall determine whether the application appears to contain all of the information required by paragraph (2) hereof. If the Secretary determines that such information appears to be contained in the application, the Secretary shall, no later than 5 days after making such a determination, publish notice of the application and a summary of the plans in the Federal Register. If the Secretary determines that all of the required information does not appear to be contained in the application, the Secretary shall notify the applicant and take no further action with respect to the application until such deficiencies have been remedied.
 
-**(c) Regional management plans for waste disposal** The Administrator, in cooperation with the Secretary, the Secretary of Commerce, and other officials of appropriate Federal, State, and local agencies, shall assess the feasibility in coastal areas of regional management plans for the disposal of waste materials. Such plans should integrate where appropriate Federal, State, regional, and local waste disposal activities into a comprehensive regional disposal strategy. These plans should address, among other things—
+(2) Each application shall include such financial, technical, and other information as the Secretary deems necessary or appropriate. Such information shall include, but need not be limited to—
 
-(1) the sources, quantities, and types of materials that require and will require disposal;
+  (A) the name, address, citizenship, telephone number, and the ownership interest in the applicant, of each person having any ownership interest in the applicant of greater than 3 per centum;
 
-(2) the environmental, economic, social, and human health factors (and the methods used to assess these factors) associated with disposal alternatives;
+  (B) to the extent feasible, the name, address, citizenship, and telephone number of any person with whom the applicant has made, or proposes to make, a significant contract for the construction or operation of the deepwater port and a copy of any such contract;
 
-(3) the improvements in production processes, methods of disposal, and recycling to reduce the adverse effects associated with such disposal alternatives;
+  (C) the name, address, citizenship, and telephone number of each affiliate of the applicant and of any person required to be disclosed pursuant to subparagraphs (A) or (B) of this paragraph, together with a description of the manner in which such affiliate is associated with the applicant or any person required to be disclosed under subparagraph (A) or (B) of this paragraph;
 
-(4) the applicable laws and regulations governing waste disposal; and
+  (D) the proposed location and capacity of the deepwater port, including all components thereof;
 
-(5) improvements in permitting processes to reduce administrative burdens.
+  (E) the type and design of all components of the deepwater port and any storage facilities associated with the deepwater port;
 
-**(d) Report on sewage disposal in New York metropolitan area** The Administrator, in cooperation with the Secretary of Commerce, shall submit to the Congress and the President, not later than one year after April 7, 1986, a report on sewage sludge disposal in the New York City metropolitan region. The report shall—
+  (F) with respect to construction in phases, a detailed description of each phase, including anticipated dates of completion for each of the specific components thereof;
 
-(1) consider the factors listed in subsection (c) as they relate to landfilling, incineration, ocean dumping, or any other feasible disposal or reuse/recycling option;
+  (G) the location and capacity of existing and proposed storage facilities and pipelines which will store or transport oil transported through the deepwater port, to the extent known by the applicant or any person required to be disclosed pursuant to subparagraphs (A), (B), or (C) of this paragraph;
 
-(2) include an assessment of the cost of these alternatives; and
+  (H) with respect to any existing and proposed refineries which will receive oil transported through the deepwater port, the location and capacity of each such refinery and the anticipated volume of such oil to be refined by each such refinery, to the extent known by the applicant or any person required to be disclosed pursuant to subparagraphs (A), (B), or (C) of this paragraph;
 
-(3) recommend such regulatory or legislative changes as may be necessary to reduce the adverse impacts associated with sewage sludge disposal.
+  (I) the financial and technical capabilities of the applicant to construct or operate the deepwater port;
+
+  (J) other qualifications of the applicant to hold a license under this chapter;
+
+  (K) the nation of registry for, and the nationality or citizenship of officers and crew serving on board, vessels transporting natural gas that are reasonably anticipated to be servicing the deepwater port;
+
+  (L) a description of procedures to be used in constructing, operating, and maintaining the deepwater port, including systems of oil spill prevention, containment, and cleanup; and
+
+  (M) such other information as may be required by the Secretary to determine the environmental impact of the proposed deepwater port.
+
+(3) Upon written request of any person subject to this subsection, the Secretary may make a determination in writing to exempt such person from any of the informational filing provisions enumerated in this subsection or the regulations implementing this section if the Secretary determines that such information is not necessary to facilitate the Secretary’s determinations under [section 1503 of this title](./chapter-029-deepwater-ports.md#section-1503) and that such exemption will not limit public review and evaluation of the deepwater port project.
+
+**(d) Application area; publication in Federal Register; “application area” defined; submission of other applications; notice of intent and submission of completed applications; denial of pending application prior to consideration of other untimely applications**
+
+(1) At the time notice of an application is published pursuant to subsection (c) of this section, the Secretary shall publish a description in the Federal Register of an application area encompassing the deepwater port site proposed by such application and within which construction of the proposed deepwater port would eliminate, at the time such application was submitted, the need for any other deepwater port within that application area.
+
+(2) As used in this section, “application area” means any reasonable geographical area within which a deepwater port may be constructed and operated. Such application area shall not exceed a circular zone, the center of which is the principal point of loading and unloading at the port, and the radius of which is the distance from such point to the high water mark of the nearest adjacent coastal State.
+
+(3) The Secretary shall accompany such publication with a call for submission of any other applications for licenses for the ownership, construction, and operation of a deepwater port within the designated application area. Persons intending to file applications for such license shall submit a notice of intent to file an application with the Secretary not later than 60 days after the publication of notice pursuant to subsection (c) of this section and shall submit the completed application no later than 90 days after publication of such notice. The Secretary shall publish notice of any such application received in accordance with subsection (c) of this section. No application for a license for the ownership, construction, and operation of a deepwater port within the designated application area for which a notice of intent to file was received after such 60-day period, or which is received after such 90-day period has elapsed, shall be considered until the application pending with respect to such application area have been denied pursuant to this chapter.
+
+(4) This subsection shall not apply to deepwater ports for natural gas.
+
+**(e) Recommendations to Secretary of Transportation; application for all Federal authorizations; copies of application to Federal agencies and departments with jurisdiction; recommendation of approval or disapproval and of manner of amendment to comply with laws or regulations**
+
+(1) Not later than 30 days after January 3, 1975, the Secretary of the Interior, the Administrator of the Environmental Protection Agency, the Chief of Engineers of the United States Army Corps of Engineers, the Administrator of the National Oceanic and Atmospheric Administration, and the heads of any other Federal department or agencies having expertise concerning, or jurisdiction over, any aspect of the construction or operation of deepwater ports shall transmit to the Secretary written comments as to their expertise or statutory responsibilities pursuant to this chapter or any other Federal law.
+
+(2) An application filed with the Secretary shall constitute an application for all Federal authorizations required for ownership, construction, and operation of a deepwater port. At the time notice of any application is published pursuant to subsection (c) of this section, the Secretary shall forward a copy of such application to those Federal agencies and departments with jurisdiction over any aspect of such ownership, construction, or operation for comment, review, or recommendation as to conditions and for such other action as may be required by law. Each agency or department involved shall review the application and, based upon legal considerations within its area of responsibility, recommend to the Secretary, the approval or disapproval of the application not later than 45 days after the last public hearing on a proposed license for a designated application area. In any case in which the agency or department recommends disapproval, it shall set forth in detail the manner in which the application does not comply with any law or regulation within its area of responsibility and shall notify the Secretary how the application may be amended so as to bring it into compliance with the law or regulation involved.
+
+**(f) NEPA compliance** For all applications, the Secretary, in cooperation with other involved Federal agencies and departments, shall comply with the National Environmental Policy Act of 1969 ([42 U.S.C. 4332](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4332&num=0&edition=prelim)) [[42 U.S.C. 4321](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) et seq.]. Such compliance shall fulfill the requirement of all Federal agencies in carrying out their responsibilities under the National Environmental Policy Act of 1969 pursuant to this chapter.
+
+**(g) Public notice and hearings; evidentiary hearing in District of Columbia; decision of Secretary based on evidentiary record; consolidation of hearings** A license may be issued only after public notice and public hearings in accordance with this subsection. At least one such public hearing shall be held in each adjacent coastal State. Any interested person may present relevant material at any hearing. After hearings in each adjacent coastal State are concluded if the Secretary determines that there exists one or more specific and material factual issues which may be resolved by a formal evidentiary hearing, at least one adjudicatory hearing shall be held in accordance with the provisions of [section 554 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section554&num=0&edition=prelim) in the District of Columbia. The record developed in any such adjudicatory hearing shall be basis for the Secretary’s decision to approve or deny a license. Hearings held pursuant to this subsection shall be consolidated insofar as practicable with hearings held by other agencies. All public hearings on all applications for any designated application area shall be consolidated and shall be concluded not later than 240 days after notice of the initial application has been published pursuant to subsection (c) of this section.
+
+**(h) Nonrefundable application fee; processing costs; State fees; “land-based facilities directly related to a deepwater port facility” defined; fair market rental value, advance payment**
+
+(1) Each person applying for a license pursuant to this chapter shall remit to the Secretary at the time the application is filed a nonrefund­able application fee established by regulation by the Secretary. In addition, an applicant shall also reimburse the United States and the appropriate adjacent coastal State for any additional costs incurred in processing an application.
+
+(2) Notwithstanding any other provision of this chapter, and unless prohibited by law, an adjacent coastal State may fix reasonable fees for the use of a deepwater port facility, and such State and any other State in which land-based facilities directly related to a deepwater port facility are located may set reasonable fees for the use of such land-based facilities. Fees may be fixed under authority of this paragraph as compensation for any economic cost attributable to the construction and operation of such deepwater port and such land-based facilities, which cannot be recovered under other authority of such State or political subdivision thereof, including, but not limited to, ad valorem taxes, and for environmental and administrative costs attributable to the construction and operation of such deepwater port and such land-based facilities. Fees under this paragraph shall not exceed such economic, environmental, and administrative costs of such State. Such fees shall be subject to the approval of the Secretary. As used in this paragraph, the term “land-based facilities directly related to a deepwater port facility” means the onshore tank farm and pipelines connecting such tank farm to the deepwater port facility.
+
+(3) A licensee shall pay annually in advance the fair market rental value (as determined by the Secretary of the Interior) of the subsoil and seabed of the Outer Continental Shelf of the United States to be utilized by the deepwater port, including the fair market rental value of the right-of-way necessary for the pipeline segment of the port located on such subsoil and seabed.
+
+**(i) Application approval; period for determination; priorities; criteria for determination of application best serving national interest**
+
+(1) The Secretary shall approve or deny any application for a designated application area submitted pursuant to this chapter not later than 90 days after the last public hearing on a proposed license for that area.
+
+(2) In the event more than one application is submitted for an application area, the Secretary, unless one of the proposed deepwater ports clearly best serves the national interest, shall issue a license according to the following order of priorities:
+
+  (A) to an adjacent coastal State (or combination of States), any political subdivision thereof, or agency or instrumentality, including a wholly owned corporation of any such government;
+
+  (B) to a person who is neither (i) engaged in producing, refining, or marketing oil, nor (ii) an affiliate of any person who is engaged in producing, refining, or marketing oil or an affiliate of any such affiliate;
+
+  (C) to any other person.
+
+(3) In determining whether any one proposed deepwater port clearly best serves the national interest, the Secretary shall consider the following factors:
+
+  (A) the degree to which the proposed deepwater ports affect the environment, as determined under criteria established pursuant to [section 1505 of this title](./chapter-029-deepwater-ports.md#section-1505);
+
+  (B) any significant differences between anticipated completion dates for the proposed deepwater ports; and
+
+  (C) any differences in costs of construction and operation of the proposed deepwater ports, to the extent that such differential may significantly affect the ultimate cost of oil to the consumer.
+
+(4) The Secretary shall approve or deny any application for a deepwater port for natural gas submitted pursuant to this chapter not later than 90 days after the last public hearing on a proposed license. Paragraphs (1), (2), and (3) of this subsection shall not apply to an application for a deepwater port for natural gas.
+
+**(j) LNG tankers**
+
+(1) **Program** — The Secretary of Transportation shall develop and implement a program to promote the transportation of liquefied natural gas to and from the United States on United States flag vessels.
+
+(2) **Information to be provided** — When the Coast Guard is operating as a contributing agency in the Federal Energy Regulatory Commission’s shoreside licensing process for a liquefied natural gas or liquefied petroleum gas terminal located on shore or within State seaward boundaries, the Coast Guard shall provide to the Commission the information described in subsection (c)(2)(K) with respect to vessels reasonably anticipated to be servicing that port.
 
 ### Statutory Notes
 
-#### Codification
-In subsec. (a)(1)(A), October 6, 1980, was substituted for “the date of the enactment of this section”, which has been translated to reflect the probable intent of Congress as meaning the date of enactment of Pub. L. 96–381 which amended this section generally and which was approved Oct. 6, 1980.
+#### References in Text
+The National Environmental Policy Act of 1969, referred to in subsec. (f), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, as amended, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 4321 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) and Tables.
 
 #### Amendments
-1986—Subsecs. (c), (d). Pub. L. 99–272 added subsecs. (c) and (d).
+2021—Subsec. (j). Pub. L. 116–283 added subsec. (j).
 
-1980—Pub. L. 96–381 substituted provision authorizing the Administrator of the Environmental Protection Agency to conduct research, etc., and to encourage and cooperate with public authorities, etc., for the purpose of determining means of minimizing or ending, as soon as possible after Oct. 6, 1980, dumping in ocean waters, or waters described in [section 1411(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1411/b&num=0&edition=prelim), of materials which may unreasonably degrade or endanger human health or the marine environment and to develop disposal methods as alternatives to dumping for provision authorizing the Secretary of Commerce to conduct research, etc., and to encourage and cooperate with public authorities, etc., for the purpose of minimizing or ending all dumping of materials within five years after the effective date of Pub. L. 92–532, which was approved Oct. 23, 1972, and inserted provision directing that nothing in this section be construed to affect in any way the Dec. 31, 1981, termination date, established by [section 1412a of this title](./chapter-027-ocean-dumping.md#section-1412a) for ocean dumping of sewage sludge.
+2010—Subsec. (c)(2)(K). Pub. L. 111–281 realigned margin.
+
+2006—Subsec. (c)(2)(K) to (M). Pub. L. 109–241 added subpar. (K) and redesignated former subpars. (K) and (L) as (L) and (M), respectively.
+
+2002—Subsec. (d)(4). Pub. L. 107–295, § 106(c)(1), added par. (4).
+
+Subsec. (f). Pub. L. 107–295, § 106(f), substituted “NEPA compliance” for “Environmental impact statement for single application area; criteria” in heading and amended text generally. Prior to amendment, text read as follows: “For all timely applications covering a single application area, the Secretary, in cooperation with other involved Federal agencies and departments, shall, pursuant to [section 4332(2)(C) of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4332/2/C&num=0&edition=prelim), prepare a single, detailed environmental impact statement, which shall fulfill the requirement of all Federal agencies in carrying out their responsibilities pursuant to this chapter to prepare an environmental impact statement. In preparing such statement the Secretary shall consider the criteria established under [section 1505 of this title](./chapter-029-deepwater-ports.md#section-1505).”
+
+Subsec. (h)(2). Pub. L. 107–295, § 106(g), inserted “and unless prohibited by law,” after “Notwithstanding any other provision of this chapter,”.
+
+Subsec. (i)(4). Pub. L. 107–295, § 106(c)(2), added par. (4).
+
+1996—Subsec. (c)(3). Pub. L. 104–324 added par. (3).
+
+1984—Subsec. (g). Pub. L. 98–419 substituted “issued” for “issued, transferred, or renewed”.
+
+#### Regulations
+Pub. L. 107–295, title I, § 106(e), Nov. 25, 2002, 116 Stat. 2087, provided that: “(1) Agency and department expertise and responsibilities.—Not later than 30 days after the date of the enactment of this Act [Nov. 25, 2002], the heads of Federal departments or agencies having expertise concerning, or jurisdiction over, any aspect of the construction or operation of deepwater ports for natural gas shall transmit to the Secretary of Transportation written comments as to such expertise or statutory responsibilities pursuant to the Deepwater Port Act of 1974 ([33 U.S.C. 1501](./chapter-029-deepwater-ports.md#section-1501) et seq.) or any other Federal law. “(2) Interim final rule.—The Secretary may issue an interim final rule as a temporary regulation implementing this section [amending this section and sections 1501 to 1503, 1507, and 1520 of this title] (including the amendments made by this section) as soon as practicable after the date of enactment of this section, without regard to the provisions of chapter 5 of title 5, United States Code. “(3) Final rules.—As soon as practicable after the date of the enactment of this Act, the Secretary of Transportation shall issue additional final rules that, in the discretion of the Secretary, are determined to be necessary under the Deepwater Port Act of 1974 ([33 U.S.C. 1501](./chapter-029-deepwater-ports.md#section-1501) et seq.) for the application and issuance of licenses for a deepwater port for natural gas.”
+
+#### Information To Be Provided
+Pub. L. 109–241, title III, § 304(c)(2), July 11, 2006, 120 Stat. 527, which required the Coast Guard, operating as a contributing agency in the Federal Energy Regulatory Commission’s shoreside licensing process for certain liquefied natural gas or liquefied petroleum gas terminals, to provide the information described in subsec. (c)(2)(K) of this section, was repealed by Pub. L. 116–283, div. G, title LVXXXV [LXXXV], § 8502(b)(1), Jan. 1, 2021, 134 Stat. 4747. See subsec. (j)(2) of this section.
+
+
+<a id="section-1445"></a>
+## § 1445. Environmental review criteria
+**(a) Establishment; evaluation of proposed deepwater ports** The Secretary, in accordance with the recommendations of the Administrator of the Environmental Protection Agency and the Administrator of the National Oceanic and Atmospheric Administration and after consultation with any other Federal departments and agencies having jurisdiction over any aspect of the construction or operation of a deepwater port, shall establish, as soon as practicable after January 3, 1975, environmental review criteria consistent with the National Environmental Policy Act [[42 U.S.C. 4321](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) et seq.]. Such criteria shall be used to evaluate a deepwater port as proposed in an application, including—
+
+(1) the effect on the marine environment;
+
+(2) the effect on oceanographic currents and wave patterns;
+
+(3) the effect on alternate uses of the oceans and navigable waters, such as scientific study, fishing, and exploitation of other living and nonliving resources;
+
+(4) the potential dangers to a deepwater port from waves, winds, weather, and geological conditions, and the steps which can be taken to protect against or minimize such dangers;
+
+(5) effects of land-based developments related to deepwater port development;
+
+(6) the effect on human health and welfare; and
+
+(7) such other considerations as the Secretary deems necessary or appropriate.
+
+**(b) Review and revision** The Secretary shall periodically review and, whenever necessary, revise in the same manner as originally developed, criteria established pursuant to subsection (a) of this section.
+
+**(c) Concurrent development of criteria and regulations** Criteria established pursuant to this section shall be developed concurrently with the regulations in subsection (a) of [section 1504 of this title](./chapter-029-deepwater-ports.md#section-1504) and in accordance with the provisions of that subsection.
+
+### Statutory Notes
+
+#### References in Text
+The National Environmental Policy Act, referred to in subsec. (a), probably means the National Environmental Policy Act of 1969, Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 4321 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) and Tables.

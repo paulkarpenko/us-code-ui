@@ -8,9 +8,13 @@ source: >-
 ---
 <a id="section-7341"></a>
 ## § 7341. General rule
-**(a)** The retired grade of a regular commissioned officer of the Army who retires other than for physical disability, and the retired grade of a reserve commissioned officer of the Army who retires other than for physical disability, is determined under [section 1370 of this title](./chapter-069-retired-grade.md#section-1370).
+**(a)**
 
-**(b)** Unless entitled to a higher retired grade under some other provision of law, a Regular or Reserve of the Army not covered by subsection (a) who retires other than for physical disability retires in the regular or reserve grade that he holds on the date of his retirement.
+(1) The retired grade of a regular commissioned officer of the Army who retires other than for physical disability is determined under [section 1370 of this title](./chapter-069-retired-grade.md#section-1370).
+
+(2) The retired grade of a reserve commissioned officer of the Army who retires other than for physical disability is determined under [section 1370a of this title](./chapter-069-retired-grade.md#section-1370a).
+
+**(b)** Unless entitled to a higher retired grade under some other provision of law, a Regular or Reserve of the Army not covered by subsection (a) who retires other than for physical disability retires in the regular or reserve grade that the member holds on the date of the member’s retirement.
 
 ### Statutory Notes
 
@@ -28,7 +32,11 @@ The applicability of the rule stated in the revised section to situations not ex
 A prior section 7341, act Aug. 10, 1956, ch. 1041, 70A Stat. 453, related to authorized number of naval airplanes and lighter-than-air crafts, prior to repeal by Pub. L. 103–160, div. A, title VIII, § 824(a)(9), Nov. 30, 1993, 107 Stat. 1708.
 
 #### Amendments
-2018—Pub. L. 115–232 renumbered [section 3961 of this title](./chapter-287-socioeconomic-programs.md#section-3961) as this section.
+2021—Subsec. (a). Pub. L. 116–283, § 508(b)(2)(A), added subsec. (a) and struck out former subsec. (a) which read as follows: “The retired grade of a regular commissioned officer of the Army who retires other than for physical disability, and the retired grade of a reserve commissioned officer of the Army who retires other than for physical disability, is determined under [section 1370 of this title](./chapter-069-retired-grade.md#section-1370).”
+
+Subsec. (b). Pub. L. 116–283, § 508(b)(2)(B), substituted “the member” for “he” and “the member’s” for “his”.
+
+2018—Pub. L. 115–232 renumbered [section 3961 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section3961&num=0&edition=prelim) as this section.
 
 2000—Subsec. (a). Pub. L. 106–398 struck out “or for nonregular service under chapter 1223 of this title” before “, is determined”.
 
@@ -65,7 +73,7 @@ Upon retirement, any permanent professor of the United States Military Academy w
 |  |  | Apr. 16, 1947, ch. 38, § 108(b) (1st 5, and 8th through 76th, words; and proviso); restated May 16, 1950, ch. 186, § 3(d)(b) (1st 5, and 8th through 76th, words; and proviso), 64 Stat. 161. |
 |  |  | June 12, 1948, ch. 449, § 103(b) (1st 6, and 9th through 54th, words), 62 Stat. 357. |
 
-In subsection (a), the words “who has served (1) as Chief of Staff to the President, (2) as Chief of Staff of the Army, (3) as a senior member of the Military Staff Committee of the United Nations, or (4) in a position of importance and responsibility designated by the President to carry the grade of general or lieutenant general under [section 3066 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section3066&num=0&edition=prelim)” are substituted for the words “while serving in accordance with the provisions of subsection (b) or (c) of this section”.
+In subsection (a), the words “who has served (1) as Chief of Staff to the President, (2) as Chief of Staff of the Army, (3) as a senior member of the Military Staff Committee of the United Nations, or (4) in a position of importance and responsibility designated by the President to carry the grade of general or lieutenant general under [section 3066 of this title](./chapter-203-general-matters.md#section-3066)” are substituted for the words “while serving in accordance with the provisions of subsection (b) or (c) of this section”.
 
 In subsection (b), or 10:156c (1st 6, and 9th through 43d, words) is omitted as covered by 10:1026 (less 24 words before proviso, and less proviso), since the Medical Service Corps is a branch of the Army. The references to the Commanding General of the General Headquarters Air Force are omitted as executed.
 
@@ -90,7 +98,7 @@ A prior section 7342, act Aug. 10, 1956, ch. 1041, 70A Stat. 454, related to per
 
 1980—Pub. L. 96–343, § 13(a)(3), substituted “positions” for “positions: regular commissioned officers” in section catchline.
 
-Subsec. (a). Pub. L. 96–513, § 502(19)(A), as amended by Pub. L. 97–22, struck out cl. (4) which had referred to service in a position of importance and responsibility designated by the President to carry out the grade of general or lieutenant general under [section 3066 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section3066&num=0&edition=prelim), and redesignated cl. (5) as (4).
+Subsec. (a). Pub. L. 96–513, § 502(19)(A), as amended by Pub. L. 97–22, struck out cl. (4) which had referred to service in a position of importance and responsibility designated by the President to carry out the grade of general or lieutenant general under [section 3066 of this title](./chapter-203-general-matters.md#section-3066), and redesignated cl. (5) as (4).
 
 Pub. L. 96–343, § 13(a)(1), substituted “Army who has” for “Regular Army who has” and “in which he served on active duty” for “held by him at any time on the active list”.
 

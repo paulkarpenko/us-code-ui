@@ -163,6 +163,15 @@ Act Aug. 10, 1956, ch. 1041, § 49(e), 70A Stat. 640, provided that: “In chapt
 #### Transfer of Functions
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).
 
+#### Assessment of Racial, Ethnic, and Gender Disparities in the Military Justice System
+Pub. L. 116–92, div. A, title V, § 540I, Dec. 20, 2019, 133 Stat. 1369, provided that: “(a) In General.—The Secretary of Defense shall provide for the carrying out of the activities described in subsections (b) and (c) in order to improve the ability of the Department of Defense to detect and address racial, ethnic, and gender disparities in the military justice system. “(b) Secretary of Defense and Related Activities.—The activities described in this subsection are the following, to be commenced or carried out (as applicable) by not later than 180 days after the date of the enactment of this Act [Dec. 20, 2019]:“(1) For each court-martial conducted by an Armed Force after the date of the enactment of this Act, the Secretary of Defense shall require the head of the Armed Force concerned—“(A) to record the race, ethnicity, and gender of the victim and the accused, and such other demographic information about the victim and the accused as the Secretary considers appropriate; “(B) to include data based on the information described in subparagraph (A) in the annual military justice reports of the Armed Force. “(2) The Secretary of Defense, in consultation with the Secretaries of the military departments and the Secretary of Homeland Security, shall issue guidance that—“(A) establishes criteria to determine when data indicating possible racial, ethnic, or gender disparities in the military justice process should be further reviewed; and “(B) describes how such a review should be conducted. “(3) The Secretary of Defense, in consultation with the Secretaries of the military departments and the Secretary of Homeland Security, shall—“(A) conduct an evaluation to identify the causes of any racial, ethnic, or gender disparities identified in the military justice system; “(B) take steps to address the causes of any such disparities, as appropriate. “(c) DAC–IPAD Activities.—“(1) In general.—The activities described in this subsection are the following, to be conducted by the independent committee DAC–IPAD:“(A) A review and assessment, by fiscal year, of the race and ethnicity of members of the Armed Forces accused of a penetrative sexual assault offense or contact sexual assault offense in an unrestricted report made pursuant to Department of Defense Instruction 6495.02, including an unrestricted report involving a spouse or intimate partner, in all cases completed in each fiscal year assessed. “(B) A review and assessment, by fiscal year, of the race and ethnicity of members of the Armed Forces against whom charges were preferred pursuant to Rule for Courts-Martial 307 for a penetrative sexual assault offense or contact sexual assault offense in all cases completed in each fiscal year assessed. “(C) A review and assessment, by fiscal year, of the race and ethnicity of members of the Armed Forces who were convicted of a penetrative sexual assault offense or contact sexual assault offense in all cases completed in each fiscal year assessed. “(2) Information from federal agencies.—“(A) In general.—Upon request by the chair of the committee, a department or agency of the Federal Government shall provide information that the committee considers necessary to conduct reviews and assessments required by paragraph (1), including military criminal investigation files, charge sheets, records of trial, and personnel records. “(B) Handling, storage, and return.—The committee shall handle and store all records received and reviewed under this subsection in accordance with applicable privacy laws and Department of Defense policy, and shall return all records so received in a timely manner. “(3) Report.—Not later than one year after the date of the enactment of this Act [Dec. 20, 2019], the committee shall submit to the Secretary of Defense, and to the Committees on Armed Services of the Senate and the House of Representatives, a report setting forth the results of the reviews and assessments required by paragraph (1). The report shall include such recommendations for legislative or administrative action as the committee considers appropriate in light of such results. “(4) Definitions.—In this subsection:“(A) The term ‘independent committee DAC–IPAD’ means the independent committee established by the Secretary of Defense under section 546 of the Carl Levin and Howard P. ‘Buck’ McKeon National Defense Authorization Act for Fiscal Year 2015 (Public Law 113–291; 128 Stat. 3374) [[10 U.S.C. 1561](./chapter-080-miscellaneous-investigation-requirements-and-other-duties.md#section-1561) note], commonly known as the ‘DAC-IPAD’. “(B) The term ‘case’ means an unrestricted report of any penetrative sexual assault offense or contact sexual assault offense made against a member of the Armed Forces pursuant to Department of Defense Instruction 6495.02, including any unrestricted report involving a spouses or intimate partner for which an investigation has been opened by a criminal investigative organization. “(C) The term ‘completed’, with respect to a case, means that the case was tried to verdict, dismissed without further action, or dismissed and then resolved by non-judicial or administrative proceedings. “(D) The term ‘contact sexual assault offense’ means aggravated sexual contact, abusive sexual contact, wrongful sexual contact, and attempts to commit such offenses under the Uniform Code of Military Justice. “(E) The term ‘penetrative sexual assault offense’ means rape, aggravated sexual assault, sexual assault, forcible sodomy, and attempts to commit such offenses under the Uniform Code of Military Justice.”
+
+#### Pilot Programs on Defense Investigators in the Military Justice System
+Pub. L. 116–92, div. A, title V, § 540J, Dec. 20, 2019, 133 Stat. 1371, provided that: “(a) In General.—Each Secretary of a military department shall carry out a pilot program on defense investigators within the military justice system under the jurisdiction of such Secretary in order to do the following:“(1) Determine whether the presence of defense investigators within such military justice system will—“(A) make such military justice system more effective in providing an effective defense for the accused; and “(B) make such military justice system more fair and efficient. “(2) Otherwise assess the feasibility and advisability of defense investigators as an element of such military justice system. “(b) Elements.—“(1) Interview of victim.—A defense investigator may question a victim under a pilot program only upon a request made through the Special Victims’ Counsel or other counsel if the victim does not have such counsel. “(2) Uniformity across military justice systems.—The Secretary of Defense shall ensure that the personnel and activities of defense investigators under the pilot programs are, to the extent practicable, uniform across the military justice systems of the military departments. “(c) Report.—“(1) In general.—Not later than three years after the date of the enactment of this Act [Dec. 20, 2019], the Secretary of Defense shall, in consultation with the Secretaries of the military departments, submit to the Committees on Armed Services of the Senate and the House of Representatives a report on the pilot programs under subsection (a). “(2) Elements.—The report required by paragraph (1) shall include the following:“(A) A description of each pilot program, including the personnel and activities of defense investigators under such pilot program. “(B) An assessment of the feasibility and advisability of establishing and maintaining defense investigators as an element of the military justice systems of the military departments. “(C) If the assessment under subparagraph (B) is that the establishment and maintenance of defense investigators as an element of the military justice systems of the military departments is feasible and advisable, such recommendations for legislative and administrative action as the Secretary of Defense considers appropriate to establish and maintain defense investigators as an element of the military justice systems. “(D) Any other matters the Secretary of Defense considers appropriate.”
+
+#### Chief Medical Officer at United States Naval Station, Guantanamo Bay, Cuba
+Pub. L. 116–92, div. A, title X, § 1046, Dec. 20, 2019, 133 Stat. 1586, provided that: “(a) Chief Medical Officer.—“(1) In general.—There shall be at United States Naval Station, Guantanamo Bay, Cuba, a Chief Medical Officer of United States Naval Station, Guantanamo Bay (in this section referred to as the ‘Chief Medical Officer’). “(2) Grade.—The individual serving as Chief Medical Officer shall be an officer of the Armed Forces who holds a grade not below the grade of colonel, or captain in the Navy. “(3) Chain of command.—Notwithstanding sections 162 and 164 of title 10, United States Code, the Chief Medical Officer shall be assigned and report to the Assistant Secretary of Defense for Health Affairs, with duty at United States Naval Station, Guantanamo Bay, Cuba, in the performance of duties and the exercise of powers of the Chief Medical Officer under this section. “(b) Duties.—“(1) In general.—The Chief Medical Officer shall oversee the provision of medical care to individuals detained at Guantanamo. “(2) Quality of care.—The Chief Medical Officer shall ensure that medical care provided as described in paragraph (1) meets applicable standards of care. “(c) Powers.—“(1) In general.—The Chief Medical Officer shall make medical determinations relating to medical care for individuals detained at Guantanamo, including—“(A) decisions regarding assessment, diagnosis, and treatment; and “(B) determinations concerning medical accommodations to living conditions and operating procedures for detention facilities. “(2) Resolution of declination to follow determinations.—If the commander of Joint Task Force Guantanamo or the Commander of United States Southern Command declines to follow a determination of the Chief Medical Officer under paragraph (1), the matter covered by such determination shall be resolved by the Assistant Secretary of Defense for Health Affairs, in consultation with the Assistant Secretary of Defense for Special Operations and Low Intensity Conflict, not later than seven days after receipt by both Assistant Secretaries of written notification of the matter from the Chief Medical Officer. “(3) Security clearances.—The appropriate departments or agencies of the Federal Government shall, to the extent practicable in accordance with existing procedures and requirements, process expeditiously any application and adjudication for a security clearance required by the Chief Medical Officer to carry out the Chief Medical Officer’s duties and powers under this section. “(d) Access to Individuals, Information, and Assistance.—“(1) In general.—The Chief Medical Officer may secure directly from the Department of Defense access to any individual, information, or assistance that the Chief Medical Officer considers necessary to enable the Chief Medical Officer to carry out this section, including full access to the following:“(A) Any individual detained at Guantanamo. “(B) Any medical records of any individual detained at Guantanamo. “(C) Medical professionals of the Department who are working, or have worked, at United States Naval Station, Guantanamo Bay. “(2) Access upon request.—Upon request of the Chief Medical Officer, the Department shall make available to the Chief Medical Officer on an expeditious basis access to individuals, information, and assistance as described in paragraph (1). “(3) Lack of expeditious availability.—If access to individuals, information, or assistance is not made available to the Chief Medical Officer upon request on an expeditious basis as required by paragraph (2), the Chief Medical Officer shall notify the Assistant Secretary of Defense for Health Affairs and the Assistant Secretary of Defense for Special Operations and Low Intensity Conflict, who shall take actions to resolve the matter expeditiously. “(e) Definitions.—In this section:“(1) Individual detained at guantanamo defined.—The term ‘individual detained at Guantanamo’ means an individual located at United States Naval Station, Guantanamo Bay, Cuba, as of October 1, 2009, who—“(A) is not a national of the United States (as defined in section 101(a)(22) of the Immigration and Nationality Act ([8 U.S.C. 1101(a)(22)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1101/a/22&num=0&edition=prelim)) or a member of the Armed Forces of the United States; and “(B) is—“(i) in the custody or under the control of the Department of Defense; or “(ii) otherwise detained at United States Naval Station, Guantanamo Bay. “(2) Medical care.—The term ‘medical care’ means physical and mental health care. “(3) Standard of care.—The term ‘standard of care’ means evaluation and treatment that is accepted by medical experts and reflected in peer-reviewed medical literature as the appropriate medical approach for a condition, symptoms, illness, or disease and that is widely used by healthcare professionals.”
+
 #### Sentencing in Certain Transitional Cases
 Pub. L. 115–91, div. A, title V, § 531(o), Dec. 12, 2017, 131 Stat. 1387, provided that: “(1) In general.—In any transition-period court-martial, the relevant sentencing sections of chapter 47 of title 10, United States Code (the Uniform Code of Military Justice), shall be applied as follows:“(A) Except as provided in subparagraph (B), the relevant sentencing sections shall be applied as if the amendments to such sections made by the Military Justice Act of 2016 (division E of Public Law 114–328 [enacting, amending, and transferring numerous sections throughout this chapter]) and this section [see section 531(p) of Pub. L. 115–91, set out as an Effective Date of 2017 Amendment note above] had not been enacted. “(B) If the accused so requests, the relevant sentencing sections shall be applied as amended by the Military Justice Act of 2016 (division E of Public Law 114–328) and this section. “(2) Definitions.—In this subsection:“(A) Transition-period court-martial.—The term ‘transition-period court-martial’ means a court-martial under chapter 47 of title 10, United States Code (the Uniform Code of Military Justice), that consists of both of the following:“(i) A prosecution of one or more offenses committed before the date designated by the President under section 5542(a) of the Military Justice Act of 2016 (division E of Public Law 114–328; 130 Stat. 2967) [set out above]. “(ii) A prosecution of one or more offenses committed on or after that date. “(B) Relevant sentencing sections.—The term ‘relevant sentencing sections’ means [section 856 of title 10](./chapter-047-uniform-code-of-military-justice.md#section-856), United States Code (article 56 of the Uniform Code of Military Justice), and any other sections (articles) of chapter 47 of title 10, United States Code (the Uniform Code of Military Justice), that, by regulation prescribed by the President, are designated as relevant to sentencing for the purposes of paragraph (1).”
 
@@ -207,7 +216,7 @@ Pub. L. 111–84, div. A, title X, § 1040, Oct. 28, 2009, 123 Stat. 2454, provi
 Pub. L. 111–84, div. A, title X, § 1080, Oct. 28, 2009, 123 Stat. 2479, as amended by Pub. L. 111–383, div. A, title X, § 1075(d)(15), Jan. 7, 2011, 124 Stat. 4373, provided that: “(a) Videotaping or Other Electronic Recording Required.—In accordance with the Army Field Manual on Human Intelligence Collector Operations (FM 2–22.3, September 2006), or any successor thereto, and the guidelines developed pursuant to subsection (f), the Secretary of Defense shall ensure that each strategic intelligence interrogation of any person who is in the custody or under the effective control of the Department of Defense or under detention in a Department of Defense facility is videotaped or otherwise electronically recorded. “(b) Classification of Information.—To protect United States national security, the safety of the individuals conducting or assisting in the conduct of a strategic intelligence interrogation, and the privacy of persons described in subsection (a), the Secretary of Defense shall provide for the appropriate classification of videotapes or other electronic recordings made pursuant to subsection (a). The use of such classified videotapes or other electronic recordings in proceedings conducted under the Detainee Treatment Act of 2005 (title XIV of Public Law 109–163 and title X of Public Law 109–148), chapter 47A of title 10, United States Code, as amended by section 1802 of this Act, or at any other judicial or administrative forum under any other provision of law shall be governed by applicable rules, regulations, and laws that protect classified information. “(c) Strategic Intelligence Interrogation Defined.—For purposes of this section, the term ‘strategic intelligence interrogation’ means an interrogation of a person described in subsection (a) conducted at a theater-level detention facility. “(d) Exclusion.—Nothing in this section shall be construed as requiring—“(1) any member of the Armed Forces engaged in direct combat operations to videotape or otherwise electronically record an interrogation of a person described in subsection (a); or “(2) the videotaping of or otherwise electronically recording of tactical questioning, as such term is defined in the Army Field Manual on Human Intelligence Collector Operations (FM 2–22.3, September 2006), or any successor thereto. “(e) Waiver.—“(1) Waivers authorized.—The Secretary of Defense may, as an exceptional measure, as part of a specific interrogation plan for a specific person described in subsection (a), waive the requirement in that subsection on a case-by-case basis for a period not to exceed 30 days, if the Secretary—“(A) makes a determination in writing that such a waiver is necessary to the national security interests of the United States; and “(B) by not later than five days after the date on which such a determination is made, submits to the Committees on Armed Services of the Senate and House of Representatives, the House Permanent Select Committee on Intelligence, and the Senate Select Committee on Intelligence notice of that determination, including a justification for that determination. “(2) Suspensions authorized.—The Secretary may temporarily suspend the requirement under subsection (a) at a specific theater-level detention facility for a period not to exceed 30 days, if the Secretary—“(A) makes a determination in writing that such a suspension is vital to the national security interests of the United States; and “(B) by not later than five days after the date on which such a determination is made, submits to the Committees on Armed Services of the Senate and House of Representatives, the House Permanent Select Committee on Intelligence, and the Senate Select Committee on Intelligence notice of that determination, including a justification for that determination. “(3) Limitation on delegation of authority.—This authority of the Secretary under this subsection may only be delegated as follows:“(A) In the case of the authority under paragraph (1), such authority may not be delegated below the level of the combatant commander of the theater in which the detention facility holding the person is located. “(B) In the case of the authority under paragraph (2), such authority may not be delegated below the level of the Deputy Secretary of Defense. “(4) Extensions.—The Secretary may extend a waiver under paragraph (1) for one additional 30-day period, or a suspension under paragraph (2) for one additional 30-day period, if—“(A) the Secretary—“(i) in the case of such a waiver, makes a determination in writing that such an extension is necessary to the national security interests of the United State [sic]; or “(ii) in the case of such a suspension, makes a determination in writing that such an extension is vital to the national security interests of the United States; and “(B) by not later than five days after the date on which such a determination is made, the Secretary submits to the Committees on Armed Services of the Senate and House of Representatives, the House Permanent Select Committee on Intelligence, and the Senate Select Committee on Intelligence notice of that determination, including a justification for that determination. “(f) Guidelines.—“(1) Development of guidelines.—The Secretary of Defense, acting through the Judge Advocates General (as defined in [section 801(1) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section801/1&num=0&edition=prelim), United States Code, (Article 1 of the Uniform Code of Military Justice)), shall develop and adopt uniform guidelines for videotaping or otherwise electronically recording strategic intelligence interrogations as required under subsection (a). Such guidelines shall, at a minimum—“(A) promote full compliance with the laws of the United States; “(B) promote the exploitation of intelligence; “(C) address the retention, maintenance, and disposition of videotapes or other electronic recordings, consistent with subparagraphs (A) and (B) and with the interests of justice; and “(D) ensure the safety of all participants in the interrogations. “(2) Submittal to congress.—Not later than 30 days after the date of the enactment of this section [Oct. 28, 2009], the Secretary of Defense shall submit to the Committees on Armed Services of the Senate and House of Representatives a report containing the guidelines developed under paragraph (1). Such report shall be in an unclassified form but may include a classified annex.”
 
 #### Reports on Guantanamo Bay Prisoner Population
-Pub. L. 111–32, title III, § 319, June 24, 2009, 123 Stat. 1874, as amended by Pub. L. 114–92, div. A, title X, §§ 1038(a), 1039, Nov. 25, 2015, 129 Stat. 974, provided that: “(a) Reports Required.—Not later than 60 days after the date of the enactment of this Act [June 24, 2009] and every 90 days thereafter, the President shall submit to the members and committees of Congress specified in subsection (b) a report on the prisoner population at the detention facility at Naval Station Guantanamo Bay, Cuba. “(b) Specified Members and Committees of Congress.—The members and committees of Congress specified in this subsection are the following:“(1) The majority leader and minority leader of the Senate. “(2) The Chairman and Ranking Member on the Committee on Armed Services of the Senate. “(3) The Chairman and Vice Chairman of the Select Committee on Intelligence of the Senate. “(4) The Chairman and Vice Chairman of the Committee on Appropriations of the Senate. “(5) The Speaker of the House of Representatives. “(6) The minority leader of the House of Representatives. “(7) The Chairman and Ranking Member on the Committee on Armed Services of the House of Representatives. “(8) The Chairman and Vice Chairman of the Permanent Select Committee on Intelligence of the House of Representatives. “(9) The Chairman and Ranking Member of the Committee on Appropriations of the House of Representatives. “(c) Matters To Be Included.—Each report submitted under subsection (a) shall include the following:“(1) The name and country of origin of each detainee at the detention facility at Naval Station Guantanamo Bay, Cuba, as of the date of such report. “(2) A current summary of the evidence, intelligence, and information used to justify the detention of each detainee listed under paragraph (1) at Naval Station Guantanamo Bay. “(3) A current accounting of all the measures taken to transfer each detainee listed under paragraph (1) to the individual’s country of citizenship or another country. “(4) A current description of the number of individuals released or transferred from detention at Naval Station Guantanamo Bay who are confirmed or suspected of returning to terrorist activities after release or transfer from Naval Station Guantanamo Bay. “(5) An assessment of any efforts by al Qaeda to recruit detainees released from detention at Naval Station Guantanamo Bay. “(6) A summary of all known contact between any individual formerly detained at Naval Station Guantanamo Bay and any individual known or suspected to be associated with a foreign terrorist group, which contact included information or discussion about planning for or conduct of hostilities against the United States or its allies or the organizational, logistical, or resource needs or activities of any terrorist group or activity. “(7) For each individual described in paragraph (4), the date on which such individual was released or transferred from Naval Station Guantanamo Bay and the date on which it is confirmed that such individual is suspected or confirmed of reengaging in terrorist activities. “(8) The average period of time described in paragraph (7) for all the individuals described in paragraph (4). “(d) Additional Matters To Be Included in Initial Report.—The first report submitted under subsection (a) shall also include the following:“(1) A description of the process that was previously used for screening the detainees described by subsection (c)(4) prior to their release or transfer from detention at Naval Station Guantanamo Bay, Cuba. “(2) An assessment of the adequacy of that screening process for reducing the risk that detainees previously released or transferred from Naval Station Guantanamo Bay would return to terrorist activities after release or transfer from Naval Station Guantanamo Bay. “(3) An assessment of lessons learned from previous releases and transfers of individuals who returned to terrorist activities for reducing the risk that detainees released or transferred from Naval Station Guantanamo Bay will return to terrorist activities after their release or transfer.”
+Pub. L. 111–32, title III, § 319, June 24, 2009, 123 Stat. 1874, as amended by Pub. L. 114–92, div. A, title X, §§ 1038(a), 1039, Nov. 25, 2015, 129 Stat. 974; Pub. L. 116–92, div. E, title LVII, § 5701(a)(2), Dec. 20, 2019, 133 Stat. 2159, provided that: “(a) Reports Required.—Not later than 60 days after the date of the enactment of this Act [June 24, 2009] and annually thereafter, the President shall submit to the members and committees of Congress specified in subsection (b) a report on the prisoner population at the detention facility at Naval Station Guantanamo Bay, Cuba. “(b) Specified Members and Committees of Congress.—The members and committees of Congress specified in this subsection are the following:“(1) The majority leader and minority leader of the Senate. “(2) The Chairman and Ranking Member on the Committee on Armed Services of the Senate. “(3) The Chairman and Vice Chairman of the Select Committee on Intelligence of the Senate. “(4) The Chairman and Vice Chairman of the Committee on Appropriations of the Senate. “(5) The Speaker of the House of Representatives. “(6) The minority leader of the House of Representatives. “(7) The Chairman and Ranking Member on the Committee on Armed Services of the House of Representatives. “(8) The Chairman and Vice Chairman of the Permanent Select Committee on Intelligence of the House of Representatives. “(9) The Chairman and Ranking Member of the Committee on Appropriations of the House of Representatives. “(c) Matters To Be Included.—Each report submitted under subsection (a) shall include the following:“(1) The name and country of origin of each detainee at the detention facility at Naval Station Guantanamo Bay, Cuba, as of the date of such report. “(2) A current summary of the evidence, intelligence, and information used to justify the detention of each detainee listed under paragraph (1) at Naval Station Guantanamo Bay. “(3) A current accounting of all the measures taken to transfer each detainee listed under paragraph (1) to the individual’s country of citizenship or another country. “(4) A current description of the number of individuals released or transferred from detention at Naval Station Guantanamo Bay who are confirmed or suspected of returning to terrorist activities after release or transfer from Naval Station Guantanamo Bay. “(5) An assessment of any efforts by al Qaeda to recruit detainees released from detention at Naval Station Guantanamo Bay. “(6) A summary of all known contact between any individual formerly detained at Naval Station Guantanamo Bay and any individual known or suspected to be associated with a foreign terrorist group, which contact included information or discussion about planning for or conduct of hostilities against the United States or its allies or the organizational, logistical, or resource needs or activities of any terrorist group or activity. “(7) For each individual described in paragraph (4), the date on which such individual was released or transferred from Naval Station Guantanamo Bay and the date on which it is confirmed that such individual is suspected or confirmed of reengaging in terrorist activities. “(8) The average period of time described in paragraph (7) for all the individuals described in paragraph (4). “(d) Additional Matters To Be Included in Initial Report.—The first report submitted under subsection (a) shall also include the following:“(1) A description of the process that was previously used for screening the detainees described by subsection (c)(4) prior to their release or transfer from detention at Naval Station Guantanamo Bay, Cuba. “(2) An assessment of the adequacy of that screening process for reducing the risk that detainees previously released or transferred from Naval Station Guantanamo Bay would return to terrorist activities after release or transfer from Naval Station Guantanamo Bay. “(3) An assessment of lessons learned from previous releases and transfers of individuals who returned to terrorist activities for reducing the risk that detainees released or transferred from Naval Station Guantanamo Bay will return to terrorist activities after their release or transfer.”
 
 [Pub. L. 114–92, div. A, title X, § 1038(b), Nov. 25, 2015, 129 Stat. 974, provided that: “Nothing in the amendment made by subsection (a) [amending section 319(c) of Pub. L. 111–32, set out above, by adding par. (6)] shall be construed to terminate, alter, modify, override, or otherwise affect any reporting of information required under section 319(c) of the Supplemental Appropriations Act, 2009 [Pub. L. 111–32, set out above] before the date of the enactment of this section [Nov. 25, 2015].” ]
 
@@ -957,7 +966,7 @@ Amendment by Pub. L. 90–632 effective first day of tenth month following Octob
 
 <a id="section-806a"></a>
 ## § 806a. Art. 6a. Investigation and disposition of matters pertaining to the fitness of military judges
-**(a)** The President shall prescribe procedures for the investigation and disposition of charges, allegations, or information pertaining to the fitness of a military appellate judge, military judge, or military magistrate to perform the duties of the position involved.
+**(a)** The President shall prescribe procedures for the investigation and disposition of charges, allegations, or information pertaining to the fitness of a military appellate judge, military judge, or military magistrate to perform the duties of the position involved. To the extent practicable, the procedures shall be uniform for all armed forces.
 
 **(b)** The President shall transmit a copy of the procedures prescribed pursuant to this section to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives.
 
@@ -988,9 +997,11 @@ Amendment by Pub. L. 114–328 effective on Jan. 1, 2019, as designated by the P
 
   (C) A court-martial relating to the offense.
 
-  (D) A public proceeding of the service clemency and parole board relating to the offense.
+  (D) A post-trial motion, filing, or hearing that may address the finding or sentence of a court-martial with respect to the accused, unseal privileged or private information of the victim, or result in the release of the accused.
 
-  (E) The release or escape of the accused, unless such notice may endanger the safety of any person.
+  (E) A public proceeding of the service clemency and parole board relating to the offense.
+
+  (F) The release or escape of the accused, unless such notice may endanger the safety of any person.
 
 (3) The right not to be excluded from any public hearing or proceeding described in paragraph (2) unless the military judge or preliminary hearing officer, as applicable, after receiving clear and convincing evidence, determines that testimony by the victim of an offense under this chapter would be materially altered if the victim heard other testimony at that hearing or proceeding.
 
@@ -1059,6 +1070,8 @@ Amendment by Pub. L. 114–328 effective on Jan. 1, 2019, as designated by the P
 ### Statutory Notes
 
 #### Amendments
+2021—Subsec. (a)(2)(D) to (F). Pub. L. 116–283 added subpar. (D) and redesignated former subpars. (D) and (E) as (E) and (F), respectively.
+
 2017—Subsec. (b). Pub. L. 115–91, § 1081(c)(1)(B), which directed striking out “(the Uniform Code of Military Justice)” after “this chapter”, was not executed in light of the prior amendment by section 1081(a)(22) of Pub. L. 115–91, to reflect the probable intent of Congress. See Amendment note below and Effective Date of 2017 Amendment note below.
 
 Pub. L. 115–91, § 1081(a)(22), struck out “(the Uniform Code of Military Justice)” after “this chapter”.
@@ -1096,6 +1109,9 @@ Amendment by section 1081(c)(1)(B) of Pub. L. 115–91 effective immediately aft
 
 #### Effective Date of 2016 Amendment
 Amendment by Pub. L. 114–328 effective on Jan. 1, 2019, as designated by the President, with implementing regulations and provisions relating to applicability to various situations, see section 5542 of Pub. L. 114–328 and Ex. Ord. No. 13825, set out as notes under [section 801 of this title](./chapter-047-uniform-code-of-military-justice.md#section-801).
+
+#### Notice to Victims of Alleged Sexual Assault of Pendency of Further Administrative Action Following a Determination Not To Refer to Trial by Court-Martial
+Pub. L. 116–92, div. A, title V, § 549, Dec. 20, 2019, 133 Stat. 1379, provided that: “Under regulations prescribed by the Secretary of Defense, upon a determination not to refer a case of alleged sexual assault for trial by court-martial under chapter 47 of title 10, United States Code (the Uniform Code of Military Justice), the commander making such determination shall periodically notify the victim of the status of a final determination on further action on such case, whether non-judicial punishment under section 815 of such title (article 15 of the Uniform Code of Military Justice), other administrative action, or no further action. Such notifications shall continue not less frequently than monthly until such final determination.”
 
 #### Implementation
 Pub. L. 113–66, div. A, title XVII, § 1701(b), Dec. 26, 2013, 127 Stat. 953, provided that: “(1) Issuance.—Not later than one year after the date of the enactment of this Act [Dec. 26, 2013]—“(A) the Secretary of Defense shall recommend to the President changes to the Manual for Courts-Martial to implement [section 806b of title 10](./chapter-047-uniform-code-of-military-justice.md#section-806b), United States Code (article 6b of the Uniform Code of Military Justice), as added by subsection (a); and “(B) the Secretary of Defense and Secretary of Homeland Security (with respect to the Coast Guard when it is not operating as a service in the Navy) shall prescribe such regulations as each such Secretary considers appropriate to implement such section. “(2) Mechanisms for affording rights.—The recommendations and regulations required by paragraph (1) shall include the following:“(A) Mechanisms for ensuring that victims are notified of, and accorded, the rights specified in [section 806b of title 10](./chapter-047-uniform-code-of-military-justice.md#section-806b), United States Code (article 6b of the Uniform Code of Military Justice), as added by subsection (a). “(B) Mechanisms for ensuring that members of the Armed Forces and civilian personnel of the Department of Defense and the Coast Guard make their best efforts to ensure that victims are notified of, and accorded, the rights specified in such section. “(C) Mechanisms for the enforcement of such rights, including mechanisms for application for such rights and for consideration and disposition of applications for such rights. “(D) The designation of an authority within each Armed Force to receive and investigate complaints relating to the provision or violation of such rights. “(E) Disciplinary sanctions for members of the Armed Forces and other personnel of the Department of Defense and Coast Guard who willfully or wantonly fail to comply with requirements relating to such rights.”
@@ -1680,7 +1696,7 @@ The words “do not deprive” are substituted for the words “shall not be con
 
 (6) the commander of a fleet; the commanding officer of a naval station or larger shore activity of the Navy beyond the United States;
 
-(7) the commanding officer of an air command, an air force, an air division, or a separate wing of the Air Force or Marine Corps;
+(7) the commanding officer of an air command, an air force, an air division, or a separate wing of the Air Force or Marine Corps, or the commanding officer of a corresponding unit of the Space Force;
 
 (8) any other commanding officer designated by the Secretary concerned; or
 
@@ -1704,6 +1720,8 @@ In subsection (a)(6), the words “any other commanding officer” are substitut
 In subsection (b), the word “If” is substituted for the word “When”. The words “if considered” are substituted for the words “when deemed”.
 
 #### Amendments
+2021—Subsec. (a)(7). Pub. L. 116–283 substituted “Marine Corps, or the commanding officer of a corresponding unit of the Space Force” for “Marine Corps”.
+
 2016—Subsec. (a)(6). Pub. L. 114–328 struck out “in chief” after “the commander”.
 
 2006—Subsec. (a)(5). Pub. L. 109–163 struck out “a Territorial Department,” before “an Army Group”.
@@ -1713,6 +1731,9 @@ In subsection (b), the word “If” is substituted for the word “When”. The
 #### Effective Date of 2016 Amendment
 Amendment by Pub. L. 114–328 effective on Jan. 1, 2019, as designated by the President, with implementing regulations and provisions relating to applicability to various situations, see section 5542 of Pub. L. 114–328 and Ex. Ord. No. 13825, set out as notes under [section 801 of this title](./chapter-047-uniform-code-of-military-justice.md#section-801).
 
+#### Training for Sexual Assault Initial Disposition Authorities on Exercise of Disposition Authority for Sexual Assault and Collateral Offenses
+Pub. L. 116–92, div. A, title V, § 540A, Dec. 20, 2019, 133 Stat. 1365, provided that: “(a) In General.—The training for sexual assault initial disposition authorities on the exercise of disposition authority under chapter 47 of title 10, United States Code (the Uniform Code of Military Justice), shall include comprehensive training on the exercise of disposition authority with respect to cases for which disposition authority is withheld to such authorities pursuant to the memorandum described in subsection (b) for the purpose of promoting confidence and trust in the military justice process with respect to such cases. “(b) Memorandum Described.—The memorandum described in this subsection is the memorandum of the Secretary of Defense titled ‘Withholding Initial Disposition Authority Under the Uniform Code of Military Justice in Certain Sexual Assault Cases’ and dated April 20, 2012, or any successor memorandum.”
+
 
 <a id="section-823"></a>
 ## § 823. Art. 23. Who may convene special courts-martial
@@ -1720,11 +1741,11 @@ Amendment by Pub. L. 114–328 effective on Jan. 1, 2019, as designated by the P
 
 (1) any person who may convene a general court-martial;
 
-(2) the commanding officer of a district, garrison, fort, camp, station, Air Force base, auxiliary air field, or other place where members of the Army or the Air Force are on duty;
+(2) the commanding officer of a district, garrison, fort, camp, station, Air Force or Space Force military installation, auxiliary air field, or other place where members of the Army 11 So in original. A comma probably should appear. the Air Force, or the Space Force are on duty;
 
 (3) the commanding officer of a brigade, regiment, detached battalion, or corresponding unit of the Army;
 
-(4) the commanding officer of a wing, group, or separate squadron of the Air Force;
+(4) the commanding officer of a wing, group, or separate squadron of the Air Force or a corresponding unit of the Space Force;
 
 (5) the commanding officer of any naval or Coast Guard vessel, shipyard, base, or station; the commanding officer of any Marine brigade, regiment, detached battalion, or corresponding unit; the commanding officer of any Marine barracks, wing, group, separate squadron, station, base, auxiliary air field, or other place where members of the Marine Corps are on duty;
 
@@ -1745,6 +1766,11 @@ In subsection (a)(7), the words “Secretary concerned” are substituted for th
 
 In subsection (b), the word “If” is substituted for the word “When”. The words “if considered” are substituted for the words “when deemed”.
 
+#### Amendments
+2021—Subsec. (a)(2). Pub. L. 116–283, § 924(b)(21)(B)(i), substituted “Air Force or Space Force military installation” for “Air Force base” and “the Air Force, or the Space Force” for “or the Air Force”.
+
+Subsec. (a)(4). Pub. L. 116–283, § 924(b)(21)(B)(ii), inserted “or a corresponding unit of the Space Force” after “Air Force”.
+
 #### Transfer of Functions
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).
 
@@ -1757,7 +1783,7 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
 (2) the commanding officer of a detached company, or other detachment of the Army;
 
-(3) the commanding officer of a detached squadron or other detachment of the Air Force; or
+(3) the commanding officer of a detached squadron or other detachment of the Air Force or a corresponding unit of the Space Force; or
 
 (4) the commanding officer or officer in charge of any other command when empowered by the Secretary concerned.
 
@@ -1773,6 +1799,9 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 In subsection (a)(4), the words “Secretary concerned” are substituted for the words “Secretary of a Department”.
 
 In subsection (b), the words “only one commissioned” are substituted for the words “but one” for clarity. The word “considered” is substituted for the word “deemed”.
+
+#### Amendments
+2021—Subsec. (a)(3). Pub. L. 116–283 inserted “or a corresponding unit of the Space Force” after “Air Force”.
 
 
 <a id="section-825"></a>
@@ -1898,7 +1927,7 @@ Section applicable with respect to offenses committed after Dec. 31, 2002, see s
 
 <a id="section-826"></a>
 ## § 826. Art. 26. Military judge of a general or special court-martial
-**(a)** A military judge shall be detailed to each general and special court-martial. The military judge shall preside over each open session of the court-martial to which he has been detailed.
+**(a)** A military judge shall be detailed to each general and special court-martial. The Secretary concerned shall prescribe regulations providing for the manner in which military judges are detailed for such courts-martial and for the persons who are authorized to detail military judges for such courts-martial. The military judge shall preside over each open session of the court-martial to which he has been detailed.
 
 **(b)** A military judge shall be a commissioned officer of the armed forces who is a member of the bar of a Federal court or a member of the bar of the highest court of a State and who is certified to be qualified, by reason of education, training, experience, and judicial temperament, for duty as a military judge by the Judge Advocate General of the armed force of which such military judge is a member.
 
@@ -2223,12 +2252,15 @@ In subsection (a), the word “they” is substituted for the words “the same�
 #### Effective Date of 2016 Amendment
 Amendment by Pub. L. 114–328 effective on Jan. 1, 2019, as designated by the President, with implementing regulations and provisions relating to applicability to various situations, see section 5542 of Pub. L. 114–328 and Ex. Ord. No. 13825, set out as notes under [section 801 of this title](./chapter-047-uniform-code-of-military-justice.md#section-801).
 
+#### Timely Disposition of Nonprosecutable Sex-Related Offenses
+Pub. L. 116–92, div. A, title V, § 540C, Dec. 20, 2019, 133 Stat. 1366, provided that: “(a) Policy Required.—Not later than 180 days after the date of the enactment of this Act [Dec. 20, 2019], the Secretary of Defense shall develop and implement a policy to ensure the timely disposition of nonprosecutable sex-related offenses. “(b) Nonprosecutable Sex-related Offense Defined.—In this section, the term ‘nonprosecutable sex-related offense’ means an alleged sex-related offense (as that term is defined in [section 1044e(g) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1044e/g&num=0&edition=prelim), United States Code) that a court-martial convening authority has declined to refer for trial by a general or special court-martial under chapter 47 of title 10, United States Code (the Uniform Code of Military Justice), due to a determination that there is insufficient evidence to support prosecution of the sex-related offense.”
+
 
 <a id="section-830a"></a>
-## § 830a. Art. 30a. Certain proceedings conducted before referral
+## § 830a. Art 30a. Proceedings conducted before referral
 **(a) In General.—**
 
-(1) Proceedings may be conducted to review, or otherwise act on, the following matters before referral of charges and specifications to court-martial for trial in accordance with regulations prescribed by the President:
+(1) The President shall prescribe regulations for matters relating to proceedings conducted before referral of charges and specifications to court-martial for trial, including the following:
 
   (A) Pre-referral investigative subpoenas.
 
@@ -2238,11 +2270,23 @@ Amendment by Pub. L. 114–328 effective on Jan. 1, 2019, as designated by the P
 
   (D) Pre-referral matters under subsection (c) or (e) of [section 806b of this title](./chapter-047-uniform-code-of-military-justice.md#section-806b) (article 6b).
 
-(2) The regulations prescribed under paragraph (1) shall—
+  (E) Pre-referral matters relating to the following:
 
-  (A) include procedures for the review of such rulings that may be ordered under this section as the President considers appropriate; and
+    (i) Pre-trial confinement of an accused.
 
-  (B) provide such limitations on the relief that may be ordered under this section as the President considers appropriate.
+    (ii) The mental capacity or mental responsibility of an accused.
+
+    (iii) A request for an individual military counsel.
+
+(2) In addition to the matters specified in paragraph (1), the regulations prescribed under that paragraph shall—
+
+  (A) set forth the matters that a military judge may rule upon in such proceedings;
+
+  (B) include procedures for the review of such rulings;
+
+  (C) include appropriate limitations to ensure that proceedings under this section extend only to matters that would be subject to consideration by a military judge in a general or special court-martial; and
+
+  (D) provide such limitations on the relief that may be ordered under this section as the President considers appropriate.
 
 (3) If any matter in a proceeding under this section becomes a subject at issue with respect to charges that have been referred to a general or special court-martial, the matter shall be transferred to the military judge detailed to the court-martial.
 
@@ -2253,6 +2297,26 @@ Amendment by Pub. L. 114–328 effective on Jan. 1, 2019, as designated by the P
 ### Statutory Notes
 
 #### Amendments
+2019—Pub. L. 116–92, § 531(b)(1), substituted “Proceedings conducted before referral” for “Certain proceedings conducted before referral” in section catchline.
+
+Subsec. (a)(1), (2). Pub. L. 116–92, § 531(a), added pars. (1) and (2) and struck out former pars. (1) and (2) which read as follows:
+
+“(1) Proceedings may be conducted to review, or otherwise act on, the following matters before referral of charges and specifications to court-martial for trial in accordance with regulations prescribed by the President:
+
+“(A) Pre-referral investigative subpoenas.
+
+“(B) Pre-referral warrants or orders for electronic communications.
+
+“(C) Pre-referral matters referred by an appellate court.
+
+“(D) Pre-referral matters under subsection (c) or (e) of [section 806b of this title](./chapter-047-uniform-code-of-military-justice.md#section-806b) (article 6b).
+
+“(2) The regulations prescribed under paragraph (1) shall—
+
+“(A) include procedures for the review of such rulings that may be ordered under this section as the President considers appropriate; and
+
+“(B) provide such limitations on the relief that may be ordered under this section as the President considers appropriate.”
+
 2017—Subsec. (a)(1). Pub. L. 115–91, § 531(b)(1), inserted “, or otherwise act on,” after “to review” in introductory provisions.
 
 Subsec. (a)(1)(D). Pub. L. 115–91, § 531(b)(2), added subpar. (D).
@@ -2551,10 +2615,42 @@ Subsec. (b). Pub. L. 109–366, § 4(a)(3)(B), inserted before period at end “
 
 
 <a id="section-837"></a>
-## § 837. Art. 37. Unlawfully influencing action of court
-**(a)** No authority convening a general, special, or summary court-martial, nor any other commanding officer, may censure, reprimand, or admonish the court or any member, military judge, or counsel thereof, with respect to the findings or sentence adjudged by the court, or with respect to any other exercise of its or his functions in the conduct of the proceeding. No person subject to this chapter may attempt to coerce or, by any unauthorized means, influence the action of a court-martial or any other military tribunal or any member thereof, in reaching the findings or sentence in any case, or the action of any convening, approving, or reviewing authority with respect to his judicial acts. The foregoing provisions of the subsection shall not apply with respect to (1) general instructional or informational courses in military justice if such courses are designed solely for the purpose of instructing members of a command in the substantive and procedural aspects of courts-martial, or (2) to statements and instructions given in open court by the military judge, president of a special court-martial, or counsel.
+## § 837. Art. 37. Command influence
+**(a)**
 
-**(b)** In the preparation of an effectiveness, fitness, or efficiency report, or any other report or document used in whole or in part for the purpose of determining whether a member of the armed forces is qualified to be advanced, in grade, or in determining the assignment or transfer of a member of the armed forces or in determining whether a member of the armed forces should be retained on active duty, no person subject to this chapter may, in preparing any such report (1) consider or evaluate the performance of duty of any such member as a member of a court-martial, or (2) give a less favorable rating or evaluation of any member of the armed forces because of the zeal with which such member, as counsel, represented any accused before a court-martial.
+(1) No court-martial convening authority, nor any other commanding officer, may censure, reprimand, or admonish the court or any member, military judge, or counsel thereof, with respect to the findings or sentence adjudged by the court, or with respect to any other exercise of its or his functions in the conduct of the proceeding.
+
+(2) No court-martial convening authority, nor any other commanding officer, may deter or attempt to deter a potential witness from participating in the investigatory process or testifying at a court-martial. The denial of a request to travel at government expense or refusal to make a witness available shall not by itself constitute unlawful command influence.
+
+(3) No person subject to this chapter may attempt to coerce or, by any unauthorized means, attempt to influence the action of a court-martial or any other military tribunal or any member thereof, in reaching the findings or sentence in any case, or the action of any convening, approving, or reviewing authority or preliminary hearing officer with respect to such acts taken pursuant to this chapter as prescribed by the President.
+
+(4) Conduct that does not constitute a violation of paragraphs (1) through (3) may include, for example—
+
+  (A) general instructional or informational courses in military justice if such courses are designed solely for the purpose of instructing persons on the substantive and procedural aspects of courts-martial;
+
+  (B) statements regarding criminal activity or a particular criminal offense that do not advocate a particular disposition, or a particular court-martial finding or sentence, or do not relate to a particular accused; or
+
+  (C) statements and instructions given in open court by the military judge or counsel.
+
+(5)
+
+  (A) Notwithstanding paragraphs (1) through (3), but subject to subparagraph (B)—
+
+    (i) a superior convening authority or officer may generally discuss matters to consider regarding the disposition of alleged violations of this chapter with a subordinate convening authority or officer; and
+
+    (ii) a subordinate convening authority or officer may seek advice from a superior convening authority or officer regarding the disposition of an alleged offense under this chapter.
+
+  (B) No superior convening authority or officer may direct a subordinate convening authority or officer to make a particular disposition in a specific case or otherwise substitute the discretion of such authority or such officer for that of the subordinate convening authority or officer.
+
+**(b)** In the preparation of an effectiveness, fitness, or efficiency report, or any other report or document used in whole or in part for the purpose of determining whether a member of the armed forces is qualified to be advanced in grade, or in determining the assignment or transfer of a member of the armed forces or in determining whether a member of the armed forces should be retained on active duty, no person subject to this chapter may, in preparing any such report (1) consider or evaluate the performance of duty of any such member as a member of a court-martial, or (2) give a less favorable rating or evaluation of any member of the armed forces because of the zeal with which such member, as counsel, represented any person in a court-martial proceeding.
+
+**(c)** No finding or sentence of a court-martial may be held incorrect on the ground of a violation of this section unless the violation materially prejudices the substantial rights of the accused.
+
+**(d)**
+
+(1) A superior convening authority or commanding officer may withhold the authority of a subordinate convening authority or officer to dispose of offenses in individual cases, types of cases, or generally.
+
+(2) Except as provided in paragraph (1) or as otherwise authorized by this chapter, a superior convening authority or commanding officer may not limit the discretion of a subordinate convening authority or officer to act with respect to a case for which the subordinate convening authority or officer has authority to dispose of the offenses.
 
 ### Statutory Notes
 
@@ -2566,7 +2662,18 @@ Subsec. (b). Pub. L. 109–366, § 4(a)(3)(B), inserted before period at end “
 The word “may” is substituted for the word “shall”.
 
 #### Amendments
+2019—Pub. L. 116–92, § 532(a)(1), substituted “Command influence” for “Unlawfully influencing action of court” in section catchline.
+
+Subsec. (a). Pub. L. 116–92, § 532(a)(2), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “No authority convening a general, special, or summary court-martial, nor any other commanding officer, may censure, reprimand, or admonish the court or any member, military judge, or counsel thereof, with respect to the findings or sentence adjudged by the court, or with respect to any other exercise of its or his functions in the conduct of the proceeding. No person subject to this chapter may attempt to coerce or, by any unauthorized means, influence the action of a court-martial or any other military tribunal or any member thereof, in reaching the findings or sentence in any case, or the action of any convening, approving, or reviewing authority with respect to his judicial acts. The foregoing provisions of the subsection shall not apply with respect to (1) general instructional or informational courses in military justice if such courses are designed solely for the purpose of instructing members of a command in the substantive and procedural aspects of courts-martial, or (2) to statements and instructions given in open court by the military judge, president of a special court-martial, or counsel.”
+
+Subsec. (b). Pub. L. 116–92, § 532(a)(3), substituted “advanced in grade” for “advanced, in grade” and “person in a court-martial proceeding” for “accused before a court-martial”.
+
+Subsecs. (c), (d). Pub. L. 116–92, § 532(a)(4), added subsecs. (c) and (d).
+
 1968—Pub. L. 90–632 designated existing provisions as subsec. (a), substituted “military judge” for “law officer”, inserted provisions specifically exempting instructional or general informational lectures on military justice and statements and instructions given in open court by the military judge, president of a special court-martial, or counsel from prohibitions of subsec. (a), and added subsec. (b).
+
+#### Effective Date of 2019 Amendment
+Pub. L. 116–92, div. A, title V, § 532(c), Dec. 20, 2019, 133 Stat. 1361, provided that: “The amendments made by subsections (a) and (b) [amending this section] shall take effect on the date of the enactment of this Act [Dec. 20, 2019] and shall apply with respect to violations of [section 837 of title 10](./chapter-047-uniform-code-of-military-justice.md#section-837), United States Code (article 37 of the Uniform Code of Military Justice), committed on or after such date.”
 
 #### Effective Date of 1968 Amendment
 Amendment by Pub. L. 90–632 effective first day of tenth month following October 1968, see section 4 of Pub. L. 90–632, set out as a note under [section 801 of this title](./chapter-047-uniform-code-of-military-justice.md#section-801).
@@ -2841,7 +2948,7 @@ Amendment by Pub. L. 90–632 effective first day of tenth month following Octob
 
 <a id="section-843"></a>
 ## § 843. Art. 43. Statute of limitations
-**(a) No Limitation for Certain Offenses.—** A person charged with absence without leave or missing movement in time of war, with murder, rape or sexual assault, or rape or sexual assault of a child, or with any other offense punishable by death, may be tried and punished at any time without limitation.
+**(a) No Limitation for Certain Offenses.—** A person charged with absence without leave or missing movement in time of war, with murder, rape or sexual assault, or rape or sexual assault of a child, maiming of a child, kidnapping of a child, or with any other offense punishable by death, may be tried and punished at any time without limitation.
 
 **(b) Five-year Limitation for Trial by Court-martial.—**
 
@@ -2855,11 +2962,7 @@ Amendment by Pub. L. 90–632 effective first day of tenth month following Octob
 
     (i) Any offense in violation of section 920, 920a, 920b, 920c, or 930 of this title (article 120, 120a, 120b, 120c, or 130), unless the offense is covered by subsection (a).
 
-    (ii) Maiming in violation of [section 928a of this title](./chapter-047-uniform-code-of-military-justice.md#section-928a) (article 128a).
-
-    (iii) Aggravated assault, assault consummated by a battery, or assault with intent to commit specified offenses in violation of [section 928 of this title](./chapter-047-uniform-code-of-military-justice.md#section-928) (article 128).
-
-    (iv) Kidnapping in violation of [section 925 of this title](./chapter-047-uniform-code-of-military-justice.md#section-925) (article 125).
+    (ii) Aggravated assault, assault consummated by a battery, or assault with intent to commit specified offenses in violation of [section 928 of this title](./chapter-047-uniform-code-of-military-justice.md#section-928) (article 128).
 
   (C) In subparagraph (A), the term “child abuse offense” includes an act that involves abuse of a person who has not attained the age of 18 years and would constitute an offense under chapter 110 or 117 of title 18 or under section 1591 of that title.
 
@@ -2923,6 +3026,14 @@ In subsection (e), the words “For an” are substituted for the words “In th
 In subsection (f), the word “is” is substituted for the words “shall be”.
 
 #### Amendments
+2019—Subsec. (a). Pub. L. 116–92, § 533(a)(1), inserted “maiming of a child, kidnapping of a child,” after “sexual assault of a child,”.
+
+Subsec. (b)(2)(B)(ii) to (iv). Pub. L. 116–92, § 533(a)(2), redesignated cl. (iii) as (ii) and struck out former cls. (ii) and (iv) which read as follows:
+
+“(ii) Maiming in violation of [section 928a of this title](./chapter-047-uniform-code-of-military-justice.md#section-928a) (article 128a).
+
+“(iv) Kidnapping in violation of [section 925 of this title](./chapter-047-uniform-code-of-military-justice.md#section-925) (article 125).”
+
 2017—Subsec. (i). Pub. L. 115–91 substituted “DNA Evidence” for “Dna Evidence” in heading.
 
 2016—Pub. L. 114–328, § 5225(e), inserted headings in subsecs. (a) to (g).
@@ -2990,6 +3101,9 @@ Pub. L. 109–163, § 553(b)(3), added subpar. (C).
 “(c) Except as otherwise provided in this article, a person charged with any offense is not liable to be tried by court-martial or punished under [section 815 of this title](./chapter-047-uniform-code-of-military-justice.md#section-815) (article 15) if the offense was committed more than two years before the receipt of sworn charges and specifications by an officer exercising summary court-martial jurisdiction over the command or before the imposition of punishment under [section 815 of this title](./chapter-047-uniform-code-of-military-justice.md#section-815) (article 15).”
 
 Subsec. (g). Pub. L. 99–661, § 805(b), added subsec. (g).
+
+#### Effective Date of 2019 Amendment
+Pub. L. 116–92, div. A, title V, § 533(b), Dec. 20, 2019, 133 Stat. 1361, provided that: “The amendments made by subsection (a) [amending this section] shall take effect on the date of the enactment of this Act [Dec. 20, 2019] and shall apply with respect to the prosecution of offenses committed before, on, or after the date of the enactment of this Act if the applicable limitation period has not yet expired.”
 
 #### Effective Date of 2017 Amendment
 Amendment by section 1081(c)(1)(E) of Pub. L. 115–91 effective immediately after the amendments made by div. E (§§ 5001–5542) of Pub. L. 114–328 take effect as provided for in section 5542 of that Act ([10 U.S.C. 801](./chapter-047-uniform-code-of-military-justice.md#section-801) note), see section 1081(c)(4) of Pub. L. 115–91, set out as a note under [section 801 of this title](./chapter-047-uniform-code-of-military-justice.md#section-801).
@@ -3691,6 +3805,9 @@ In subsection (b), the words “and the” are substituted for the word “which
 
 In subsection (c), the words “it is” are inserted before the word “authenticated”.
 
+#### Codification
+Another section 586(e) of Pub. L. 112–81 is set out in a note under [section 1561 of this title](./chapter-080-miscellaneous-investigation-requirements-and-other-duties.md#section-1561).
+
 #### Amendments
 2016—Subsec. (a). Pub. L. 114–328, § 5238(1), added subsec. (a) and struck out former subsec. (a) which read as follows: “Each general court-martial shall keep a separate record of the proceedings in each case brought before it, and the record shall be authenticated by the signature of the military judge. If the record cannot be authenticated by the military judge by reason of his death, disability, or absence, it shall be authenticated by the signature of the trial counsel or by that of a member if the trial counsel is unable to authenticate it by reason of his death, disability, or absence. In a court-martial consisting of only a military judge the record shall be authenticated by the court reporter under the same conditions which would impose such a duty on a member under this subsection.”
 
@@ -3850,6 +3967,9 @@ Amendment by Pub. L. 114–328 effective on Jan. 1, 2019, as designated by the P
 
 #### Effective Date of 2013 Amendment
 Amendment by Pub. L. 113–66 effective 180 days after Dec. 26, 2013, and applicable to offenses specified in subsec. (b)(2) of this section committed on or after that date, see section 1705(c) of Pub. L. 113–66, set out as a note under [section 818 of this title](./chapter-047-uniform-code-of-military-justice.md#section-818).
+
+#### Guidelines on Sentences for Offenses Committed Under the Uniform Code of Military Justice
+Pub. L. 116–92, div. A, title V, § 537, Dec. 20, 2019, 133 Stat. 1363, provided that: “(a) Development of Guidelines.—Not later than the date specified in subsection (d), the Secretary of Defense shall develop nonbinding guidelines on sentences for offenses under chapter 47 of title 10, United States Code (the Uniform Code of Military Justice). The guidelines shall provide the sentencing authority with a suggested range of punishments, including suggested ranges of confinement, that will generally be appropriate for a violation of each offense under such chapter. “(b) Sentencing Data.—In developing the guidelines for sentences under subsection (a), the Secretary of Defense shall take into account the sentencing data collected by the Military Justice Review Panel pursuant to [section 946(f)(2) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section946/f/2&num=0&edition=prelim), United States Code (article 146(f)(2) of the Uniform Code of Military Justice). “(c) Submittal to Congress.—Not later than the date specified in subsection (d), the Secretary of Defense shall submit to the Committees on Armed Services of the Senate and the House of Representatives—“(1) the guidelines for sentences developed under subsection (a); and “(2) an assessment of the feasibility and advisability of implementing such guidelines in panel sentencing cases. “(d) Date Specified.—The date specified in this subsection is the date that is not later than one year after the date on the which the first report of the Military Justice Review Panel is submitted to the Committees on Armed Services of the Senate and the House of Representatives pursuant to [section 946(f)(5) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section946/f/5&num=0&edition=prelim), United States Code (article 146(f)(5) of the Uniform Code of Military Justice).”
 
 
 <a id="section-856a"></a>
@@ -4687,7 +4807,11 @@ Amendment by Pub. L. 90–632 effective first day of tenth month following Octob
 
 <a id="section-866"></a>
 ## § 866. Art. 66. Courts of Criminal Appeals
-**(a) Courts of Criminal Appeals.—** Each Judge Advocate General shall establish a Court of Criminal Appeals which shall be composed of one or more panels, and each such panel shall be composed of not less than three appellate military judges. For the purpose of reviewing court-martial cases, the court may sit in panels or as a whole in accordance with rules prescribed under subsection (h). Any decision of a panel may be reconsidered by the court sitting as a whole in accordance with such rules. Appellate military judges who are assigned to a Court of Criminal Appeals may be commissioned officers or civilians, each of whom must be a member of a bar of a Federal court or of the highest court of a State and must be certified by the Judge Advocate General as qualified, by reason of education, training, experience, and judicial temperament, for duty as an appellate military judge. The Judge Advocate General shall designate as chief judge one of the appellate military judges of the Court of Criminal Appeals established by him. The chief judge shall determine on which panels of the court the appellate judges assigned to the court will serve and which military judge assigned to the court will act as the senior judge on each panel. In accordance with regulations prescribed by the President, assignments of appellate military judges under this section (article) shall be for appropriate minimum periods, subject to such exceptions as may be authorized in the regulations.
+**(a) Courts of Criminal Appeals.—**
+
+(1) **In general.—** — Each Judge Advocate General shall establish a Court of Criminal Appeals which shall be composed of one or more panels, and each such panel shall be composed of not less than three appellate military judges. For the purpose of reviewing court-martial cases, the court may sit in panels or as a whole in accordance with rules prescribed under subsection (h). Any decision of a panel may be reconsidered by the court sitting as a whole in accordance with such rules. Appellate military judges who are assigned to a Court of Criminal Appeals may be commissioned officers or civilians, each of whom must be a member of a bar of a Federal court or of the highest court of a State and must be certified by the Judge Advocate General as qualified, by reason of education, training, experience, and judicial temperament, for duty as an appellate military judge. The Judge Advocate General shall designate as chief judge one of the appellate military judges of the Court of Criminal Appeals established by him. The chief judge shall determine on which panels of the court the appellate judges assigned to the court will serve and which military judge assigned to the court will act as the senior judge on each panel. In accordance with regulations prescribed by the President, assignments of appellate military judges under this section (article) shall be for appropriate minimum periods, subject to such exceptions as may be authorized in the regulations.
+
+(2) **Additional qualifications.—** — In addition to any other qualifications specified in paragraph (1), any commissioned officer or civilian assigned as an appellate military judge to a Court of Criminal Appeals shall have not fewer than 12 years of experience in the practice of law before such assignment.
 
 **(b) Review.—**
 
@@ -4721,7 +4845,21 @@ Amendment by Pub. L. 90–632 effective first day of tenth month following Octob
 
 **(d) Duties.—**
 
-(1) **Cases appealed by accused.—** — In any case before the Court of Criminal Appeals under subsection (b), the Court may act only with respect to the findings and sentence as entered into the record under [section 860c of this title](./chapter-047-uniform-code-of-military-justice.md#section-860c) (article 60c). The Court may affirm only such findings of guilty, and the sentence or such part or amount of the sentence, as the Court finds correct in law and fact and determines, on the basis of the entire record, should be approved. In considering the record, the Court may weigh the evidence, judge the credibility of witnesses, and determine controverted questions of fact, recognizing that the trial court saw and heard the witnesses.
+(1) **Cases appealed by accused.—**
+
+  (A) *In general.—* — In any case before the Court of Criminal Appeals under subsection (b), the Court may act only with respect to the findings and sentence as entered into the record under [section 860c of this title](./chapter-047-uniform-code-of-military-justice.md#section-860c) (article 60c). The Court may affirm only such findings of guilty as the Court finds correct in law, and in fact in accordance with subparagraph (B). The Court may affirm only the sentence, or such part or amount of the sentence, as the Court finds correct in law and fact and determines, on the basis of the entire record, should be approved.
+
+  (B) *Factual sufficiency review.—*
+
+    (i) In an appeal of a finding of guilty under subsection (b), the Court may consider whether the finding is correct in fact upon request of the accused if the accused makes a specific showing of a deficiency in proof.
+
+    (ii) After an accused has made such a showing, the Court may weigh the evidence and determine controverted questions of fact subject to—
+
+      (I) appropriate deference to the fact that the trial court saw and heard the witnesses and other evidence; and
+
+      (II) appropriate deference to findings of fact entered into the record by the military judge.
+
+    (iii) If, as a result of the review conducted under clause (ii), the Court is clearly convinced that the finding of guilty was against the weight of the evidence, the Court may dismiss, set aside, or modify the finding, or affirm a lesser finding.
 
 (2) **Error or excessive delay.—** — In any case before the Court of Criminal Appeals under subsection (b), the Court may provide appropriate relief if the accused demonstrates error or excessive delay in the processing of the court-martial after the judgment was entered into the record under [section 860c of this title](./chapter-047-uniform-code-of-military-justice.md#section-860c) (article 60c).
 
@@ -4793,6 +4931,10 @@ In subsection (e), the words “Secretary concerned” are substituted for the w
 In subsection (f), the words “of the armed forces” and “proceedings in and before” are omitted as surplusage.
 
 #### Amendments
+2021—Subsec. (a). Pub. L. 116–283, § 542(a), designated existing provisions as par. (1), inserted heading, and added par. (2).
+
+Subsec. (d)(1). Pub. L. 116–283, § 542(b), amended par. (1) generally. Prior to amendment, text read as follows: “In any case before the Court of Criminal Appeals under subsection (b), the Court may act only with respect to the findings and sentence as entered into the record under [section 860c of this title](./chapter-047-uniform-code-of-military-justice.md#section-860c) (article 60c). The Court may affirm only such findings of guilty, and the sentence or such part or amount of the sentence, as the Court finds correct in law and fact and determines, on the basis of the entire record, should be approved. In considering the record, the Court may weigh the evidence, judge the credibility of witnesses, and determine controverted questions of fact, recognizing that the trial court saw and heard the witnesses.”
+
 2017—Subsec. (e)(2)(C). Pub. L. 115–91, § 531(j)(1), inserted “by regulation prescribed by the President or” after “required”.
 
 Subsec. (f)(3). Pub. L. 115–91, §§ 531(j)(2)(A) and 1081(c)(1)(K), amended par. (3) identically, substituting “If the Court of Criminal Appeals” for “If the Court”.
@@ -4836,6 +4978,9 @@ Subsecs. (g), (h). Pub. L. 90–632, § 2(27)(E), added subsecs. (g) and (h).
 #### Change of Name
 Pub. L. 103–337, div. A, title IX, § 924(b)(1), Oct. 5, 1994, 108 Stat. 2831, provided that: “Each Court of Military Review shall hereafter be known and designated as a Court of Criminal Appeals.”
 
+#### Effective Date of 2021 Amendment.—
+Pub. L. 116–283, div. A, title V, § 542(e), Jan. 1, 2021, 134 Stat. 3612, provided that: “(1) Qualifications of certain judges.—The amendments made by subsection (a) [amending this section] shall take effect on the date of the enactment of this Act [Jan. 1, 2021], and shall apply with respect to the assignment of appellate military judges on or after that date. “(2) Review amendments.—The amendments made by subsections (b) and (c) [amending this section and [section 867 of this title](./chapter-047-uniform-code-of-military-justice.md#section-867)] shall take effect on the date of the enactment of this Act, and shall apply with respect to any case in which every finding of guilty entered into the record under [section 860c of title 10](./chapter-047-uniform-code-of-military-justice.md#section-860c), United States Code (article 60c of the Uniform Code of Military Justice), is for an offense that occurred on or after that date.”
+
 #### Effective Date of 2017 Amendment
 Amendment by section 531(j) of Pub. L. 115–91 effective immediately after the amendments made by div. E (§§ 5001–5542) of Pub. L. 114–328 take effect as provided for in section 5542 of that Act ([10 U.S.C. 801](./chapter-047-uniform-code-of-military-justice.md#section-801) note), see section 531(p) of Pub. L. 115–91, set out as a note under [section 801 of this title](./chapter-047-uniform-code-of-military-justice.md#section-801).
 
@@ -4875,9 +5020,11 @@ The Court of Appeals for the Armed Forces shall act upon such a petition promptl
 
 (1) In any case reviewed by it, the Court of Appeals for the Armed Forces may act only with respect to—
 
-  (A) the findings and sentence set forth in the entry of judgment, as affirmed or set aside as incorrect in law by the Court of Criminal Appeals; or
+  (A) the findings and sentence set forth in the entry of judgment, as affirmed or set aside as incorrect in law by the Court of Criminal Appeals;
 
-  (B) a decision, judgment, or order by a military judge, as affirmed or set aside as incorrect in law by the Court of Criminal Appeals.
+  (B) a decision, judgment, or order by a military judge, as affirmed or set aside as incorrect in law by the Court of Criminal Appeals; or
+
+  (C) the findings set forth in the entry of judgment, as affirmed, dismissed, set aside, or modfied by the Court of Criminal Appeals as incorrect in fact under [section 866(d)(1)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section866/d/1/B&num=0&edition=prelim) (article 66(d)(1)(B)).
 
 (2) In a case which the Judge Advocate General orders sent to the Court of Appeals for the Armed Forces, that action need be taken only with respect to the issues raised by him.
 
@@ -4924,6 +5071,8 @@ In subsection (d), the words “Court of Military Review” are substituted for 
 The change in subsection (g) reflects the transfer of functions from the Secretary of the Treasury to the Secretary of Transportation under 49:1655(b).
 
 #### Amendments
+2021—Subsec. (c)(1)(C). Pub. L. 116–283 added subpar. (C).
+
 2016—Subsec. (a)(2). Pub. L. 114–328, § 5331(a), inserted “, after appropriate notification to the other Judge Advocates General and the Staff Judge Advocate to the Commandant of the Marine Corps,” after “the Judge Advocate General”.
 
 Subsec. (c). Pub. L. 114–328, § 5331(b), designated first sentence as par. (1) and substituted “only with respect to—” and subpars. (A) and (B) for “only with respect to the issues raised by him.” and designated second to fourth sentences as pars. (2) to (4), respectively.
@@ -4969,6 +5118,9 @@ Subsec. (a)(4). Pub. L. 90–340 added par. (4). Former par. (4) redesignated (3
 Subsecs. (b), (f). Pub. L. 90–632 substituted “Court of Military Review” for “board of review” wherever appearing.
 
 1964—Subsec. (a)(1). Pub. L. 88–426 increased salary of judges from $25,500 to $33,000.
+
+#### Effective Date of 2021 Amendment
+Amendment by Pub. L. 116–283 effective on Jan. 1, 2021, and applicable with respect to any case in which every finding of guilty entered into the record under [section 860c of this title](./chapter-047-uniform-code-of-military-justice.md#section-860c) is for an offense that occurred on or after that date, see section 542(e)(2) of Pub. L. 116–283, set out as a note under [section 866 of this title](./chapter-047-uniform-code-of-military-justice.md#section-866).
 
 #### Effective Date of 2016 Amendment
 Amendment by Pub. L. 114–328 effective on Jan. 1, 2019, as designated by the President, with implementing regulations and provisions relating to applicability to various situations, see section 5542 of Pub. L. 114–328 and Ex. Ord. No. 13825, set out as notes under [section 801 of this title](./chapter-047-uniform-code-of-military-justice.md#section-801).
@@ -7616,7 +7768,7 @@ Amendment by Pub. L. 114–328 effective on Jan. 1, 2019, as designated by the P
 
 
 <a id="section-928b"></a>
-## § 928b. Art. 128b. Domestic violence 11 Section catchline editorially supplied to correspond to item 928b in subchapter analysis, as amended by Pub. L. 115–232.
+## § 928b. Art. 128b. Domestic violence
 
 Any person who—
 
@@ -7636,6 +7788,9 @@ Any person who—
 shall be punished as a court-martial may direct.
 
 ### Statutory Notes
+
+#### Amendments
+2019—Pub. L. 116–92 inserted section catchline. Identical section catchline had been editorially supplied.
 
 #### Effective Date
 Pub. L. 115–232, div. A, title V, § 532(b), Aug. 13, 2018, 132 Stat. 1760, provided that: “The amendments made by this section [enacting this section] shall take effect on January 1, 2019, immediately after the coming into effect of the amendments made by the Military Justice Act of 2016 (division E of Public Law 114–328) [see Tables for classification] as provided in section 5542 of that Act (130 Stat. 2967; [10 U.S.C. 801](./chapter-047-uniform-code-of-military-justice.md#section-801) note).”
@@ -8222,8 +8377,7 @@ The word “may” is substituted for the words “is authorized to * * * to”.
 
 <a id="section-940a"></a>
 ## § 940a. Art. 140a. Case management; data collection and accessibility
-
-The Secretary of Defense shall prescribe uniform standards and criteria for conduct of each of the following functions at all stages of the military justice system, including pretrial, trial, post-trial, and appellate processes, using, insofar as practicable, the best practices of Federal and State courts:
+**(a) In General.—** The Secretary of Defense, in consultation with the Secretary of Homeland Security, shall prescribe uniform standards and criteria for conduct of each of the following functions at all stages of the military justice system (including with respect to the Coast Guard), including pretrial, trial, post-trial, and appellate processes, using, insofar as practicable, the best practices of Federal and State courts:
 
 (1) Collection and analysis of data concerning substantive offenses and procedural matters in a manner that facilitates case management and decision making within the military justice system, and that enhances the quality of periodic reviews under [section 946 of this title](./chapter-047-uniform-code-of-military-justice.md#section-946) (article 146).
 
@@ -8231,14 +8385,28 @@ The Secretary of Defense shall prescribe uniform standards and criteria for cond
 
 (3) Timely, efficient, and accurate production and distribution of records of trial within the military justice system.
 
-(4) Facilitation of access to docket information, filings, and records, taking into consideration restrictions appropriate to judicial proceedings and military records.
+(4) Facilitation of public access to docket information, filings, and records, taking into consideration restrictions appropriate to judicial proceedings and military records.
+
+**(b) Protection of Certain Personally Identifiable Information.—** Records of trial, docket information, filings, and other records made publicly accessible in accordance with the uniform standards and criteria for conduct established by the Secretary under subsection (a) shall restrict access to personally identifiable information of minors and victims of crime (including victims of sexual assault and domestic violence), as practicable to the extent such information is restricted in electronic filing systems of Federal and State courts.
+
+**(c) Inapplicability to Certain Dockets and Records.—** Nothing in this section shall be construed to provide public access to docket information, filings, or records that are classified, subject to a judicial protective order, or ordered sealed.
+
+**(d) Preservation of Court-Martial Records Without Regard to Outcome.—** The standards and criteria prescribed by the Secretary of Defense under subsection (a) shall provide for the preservation of general and special court-martial records, without regard to the outcome of the proceeding concerned, for not fewer than 15 years.
 
 ### Statutory Notes
+
+#### Amendments
+2021—Subsec. (d). Pub. L. 116–283 added subsec. (d).
+
+2019—Pub. L. 116–92 designated existing provisions as subsec. (a), inserted heading, in introductory provisions substituted “The Secretary of Defense, in consultation with the Secretary of Homeland Security,” for “The Secretary of Defense” and inserted “(including with respect to the Coast Guard)” after “military justice system”, in par. (4) inserted “public” before “access to docket information”, and added subsecs. (b) and (c).
 
 #### Effective Date
 Pub. L. 114–328, div. E, title LXI, § 5504(b), Dec. 23, 2016, 130 Stat. 2961, provided that: “(1) In general.—Not later than 2 years after the date of the enactment of this Act [Dec. 23, 2016], the Secretary of Defense shall carry out [section 940a of title 10](./chapter-047-uniform-code-of-military-justice.md#section-940a), United States Code (article 140a of the Uniform Code of Military Justice), as added by subsection (a). “(2) Standards and criteria.—Not later than 4 years after the date of the enactment of this Act, the standards and criteria under [section 940a of title 10](./chapter-047-uniform-code-of-military-justice.md#section-940a), United States Code (article 140a of the Uniform Code of Military Justice), as added by subsection (a), shall take effect.”
 
 Except as otherwise provided, section effective on Jan. 1, 2019, as designated by the President, with implementing regulations and provisions relating to applicability to various situations, see section 5542 of Pub. L. 114–328 and Ex. Ord. 13825, set out as notes under [section 801 of this title](./chapter-047-uniform-code-of-military-justice.md#section-801).
+
+#### Application of Existing Standards and Criteria to Coast Guard
+Pub. L. 116–92, div. A, title V, § 534(b), Dec. 20, 2019, 133 Stat. 1362, provided that: “The Secretary of Homeland Security shall apply to the Coast Guard the standards and criteria for conduct established by the Secretary of Defense under [section 940a of title 10](./chapter-047-uniform-code-of-military-justice.md#section-940a), United States Code (article 140a of the Uniform Code of Military Justice), as in effect on the day before the date of the enactment of this Act [Dec. 20, 2019], until such time as the Secretary of Defense, in consultation with the Secretary of Homeland Security, prescribes revised standards and criteria for conduct under such section that implement the amendments made by subsection (a) of this section [amending this section].”
 
 
 <a id="section-941"></a>
@@ -8646,9 +8814,11 @@ For termination, effective Dec. 31, 2021, of provisions in subsec. (c) of this s
 
   (A) information on compliance with processing time goals;
 
-  (B) descriptions of the circumstances surrounding cases in which general or special court-martial convictions were (i) reversed because of command influence or denial of the right to speedy review or (ii) otherwise remitted because of loss of records of trial or other administrative deficiencies; and
+  (B) descriptions of the circumstances surrounding cases in which general or special court-martial convictions were (i) reversed because of command influence or denial of the right to speedy review or (ii) otherwise remitted because of loss of records of trial or other administrative deficiencies;
 
-  (C) an analysis of each case in which a provision of this chapter was held unconstitutional.
+  (C) an analysis of each case in which a provision of this chapter was held unconstitutional; and
+
+  (D) an analysis of each case in which a Court of Criminal Appeals made a final determination that a finding of a court-martial was clearly against the weight of the evidence, including an explanation of the standard of appellate review applied in such case.
 
 (3)
 
@@ -8673,6 +8843,9 @@ For termination, effective Dec. 31, 2021, of provisions in subsec. (c) of this s
 (2) to the Secretary of Defense, the Secretaries of the military departments, and the Secretary of the department in which the Coast Guard is operating when it is not operating as a service in the Navy.
 
 ### Statutory Notes
+
+#### Amendments
+2021—Subsec. (b)(2)(D). Pub. L. 116–283 added subpar. (D).
 
 #### Effective Date
 Section effective on Jan. 1, 2019, as designated by the President, with implementing regulations and provisions relating to applicability to various situations, see section 5542 of Pub. L. 114–328 and Ex. Ord. 13825, set out as notes under [section 801 of this title](./chapter-047-uniform-code-of-military-justice.md#section-801).

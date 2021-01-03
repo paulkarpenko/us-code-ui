@@ -238,15 +238,23 @@ For termination, effective Dec. 31, 2021, of provisions in subsec. (h) of this s
 
 <a id="section-413"></a>
 ## § 413. Residents of Retirement Home
-**(a) Persons eligible to be residents** Except as provided in subsection (b), the following persons who served as members of the Armed Forces, at least one-half of whose service was not active commissioned service (other than as a warrant officer or limited-duty officer), are eligible to become residents of the Retirement Home:
+**(a) Persons eligible to be residents** Except as provided in subsection (b), the following persons who served as members of the Armed Forces, at least one-half of whose service was not commissioned service (other than as a warrant officer or limited-duty officer), are eligible to become residents of the Retirement Home:
 
-(1) Persons who are 60 years of age or over and were discharged or released from service in the Armed Forces after 20 or more years of active service.
+(1) Persons who were discharged or released from service in the Armed Forces after 20 or more years of active service.
 
 (2) Persons who are determined under rules prescribed by the Chief Operating Officer to be suffering from a service-connected disability incurred in the line of duty in the Armed Forces.
 
 (3) Persons who served in a war theater during a time of war declared by Congress or were eligible for hostile fire special pay under section 310 or 351 of title 37 and who are determined under rules prescribed by the Chief Operating Officer to be suffering from injuries, disease, or disability.
 
 (4) Persons who served in a women’s component of the Armed Forces before June 12, 1948, and are determined under rules prescribed by the Chief Operating Officer to be eligible for admission because of compelling personal circumstances.
+
+(5) Persons who are eligible for retired pay under chapter 1223 of title 10 and are—
+
+  (A) eligible for care under [section 1710 of title 38](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section1710&num=0&edition=prelim);
+
+  (B) enrolled in coverage under chapter 55 of title 10; or
+
+  (C) enrolled in a qualified health plan (as defined in [section 18021(a) of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section18021/a&num=0&edition=prelim)) that is acceptable to the Chief Operating Officer.
 
 **(b) Persons ineligible to be residents** The following persons are ineligible to become a resident of the Retirement Home:
 
@@ -283,9 +291,15 @@ For termination, effective Dec. 31, 2021, of provisions in subsec. (h) of this s
 ### Statutory Notes
 
 #### References in Text
-This chapter, referred to in subsec. (e)(2), was in the original “this Act”, and was translated as meaning title XV of Pub. L. 101–510, div. A, Nov. 5, 1990, 104 Stat. 1722, which is classified principally to this chapter, to reflect the probable intent of Congress. For complete classification of title XV to the Code, see Short Title note set out under [section 401 of this title](./chapter-010-armed-forces-retirement-home.md#section-401) and Tables.
+This chapter, referred to in subsec. (e)(2), was in the original “this Act”, and was translated as meaning title XV of Pub. L. 101–510, div. A, Nov. 5, 1990, 104 Stat. 1722, known as the Armed Forces Retirement Home Act of 1991, which is classified principally to this chapter, to reflect the probable intent of Congress. For complete classification of title XV to the Code, see Short Title note set out under [section 401 of this title](./chapter-010-armed-forces-retirement-home.md#section-401) and Tables.
 
 #### Amendments
+2021—Subsec. (a). Pub. L. 116–283, § 1412(a)(1), struck out “active” before “commissioned service” in introductory provisions.
+
+Subsec. (a)(1). Pub. L. 116–283, § 1412(a)(2), struck out “are 60 years of age or over and” before “were discharged”.
+
+Subsec. (a)(5). Pub. L. 116–283, § 1412(a)(3), added par. (5).
+
 2018—Pub. L. 115–232 amended section generally. Prior to amendment, section consisted of subsecs. (a) to (d) relating to persons eligible to be residents, persons ineligible to be residents, acceptance, and priorities for acceptance, respectively.
 
 2016—Subsec. (a)(3)(A). Pub. L. 114–328 inserted “or 351” after “section 310”.
@@ -373,7 +387,7 @@ Section effective one year after Nov. 5, 1990, see section 1541(a) of Pub. L. 10
 
 (1) Facilitate and monitor the timely availability to residents of the Retirement Home such medical, mental health, and dental care services as such residents may require at locations other than the Retirement Home.
 
-(2) Monitor compliance by the facilities of the Retirement Home with accreditation standards, applicable nationally recognized health care standards and requirements, or any other applicable health care standards and requirements (including requirements identified in applicable reports of the Inspector General of the Department of Defense).
+(2) Monitor compliance by the facilities of the Retirement Home with accreditation standards, applicable nationally recognized health care standards and requirements, or any other applicable health care standards and requirements.
 
 (3) Periodically visit each facility of the Retirement Home to review—
 
@@ -388,6 +402,8 @@ Section effective one year after Nov. 5, 1990, see section 1541(a) of Pub. L. 10
 ### Statutory Notes
 
 #### Amendments
+2021—Subsec. (c)(2). Pub. L. 116–283 struck out “(including requirements identified in applicable reports of the Inspector General of the Department of Defense)” before period at end.
+
 2018—Subsec. (c)(1). Pub. L. 115–232, § 1413(1), added par. (1) and struck out former par. (1) which read as follows: “Ensure the timely availability to residents of the Retirement Home, at locations other than the Retirement Home, of such acute medical, mental health, and dental care as such resident may require that is not available at the applicable facility of the Retirement Home.”
 
 Subsec. (c)(2). Pub. L. 115–232, § 1413(2), substituted “Monitor” for “Ensure”.
@@ -423,13 +439,23 @@ Subsec. (c)(3) to (5). Pub. L. 112–81, § 562(b), added pars. (3) and (4) and 
 
 (1) The Chief Operating Officer, with the approval of the Secretary of Defense, shall from time to time prescribe the fees required by subsection (a). Changes to such fees shall be based on the financial needs of the Retirement Home and the ability of the residents to pay. A change of a fee may not take effect until 120 days after the Secretary of Defense transmits a notification of the change to the Committees on Armed Services of the Senate and the House of Representatives.
 
-(2) The fee shall be fixed as a percentage of the monthly income and monthly payments (including Federal payments) received by a resident. The percentage shall be the same for each facility of the Retirement Home. The Secretary of Defense may make any adjustment in a percentage that the Secretary determines appropriate.
+(2)
+
+  (A) The fee shall be fixed as a percentage of the monthly income and monthly payments (including Federal payments) received by a resident. The percentage shall be the same for each facility of the Retirement Home. The Secretary of Defense may make any adjustment in a percentage that the Secretary determines appropriate.
+
+  (B) The calculation of monthly income and monthly payments under subparagraph (A) for a resident eligible under [section 412(a)(5) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title24-section412/a/5&num=0&edition=prelim) shall not be less than the retirement pay for equivalent active duty service as determined by the Chief Operating Officer, except as the Chief Operating Officer may provide because of the compelling personal circumstances of such resident.
 
 (3) The fee shall be subject to a limitation on maximum monthly amount. The amount of the limitation shall be increased, effective on January 1 of each year, by the percentage of the increase in retired pay and retainer pay that takes effect on the preceding December 1 under subsection (b) of [section 1401a of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1401a&num=0&edition=prelim) without regard to paragraph (3) of such subsection.
+
+(4) The Administrator of each facility of the Retirement Home may collect a fee upon admission from a resident accepted under [section 412(a)(5) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title24-section412/a/5&num=0&edition=prelim) equal to the deductions then in effect under [section 1007(i)(1) of title 37](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section1007/i/1&num=0&edition=prelim) for each year of service computed under chapter 1223 of title 10 and shall deposit such fee in the Armed Forces Retirement Home Trust Fund.
 
 ### Statutory Notes
 
 #### Amendments
+2021—Subsec. (c)(2). Pub. L. 116–283, § 1412(b)(1), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “The fee shall be fixed as a percentage of the monthly income and monthly payments (including Federal payments) received by a resident. The percentage shall be the same for each facility of the Retirement Home. The Secretary of Defense may make any adjustment in a percentage that the Secretary determines appropriate.”
+
+Subsec. (c)(4). Pub. L. 116–283, § 1412(b)(2), added par. (4).
+
 2011—Subsec. (a). Pub. L. 112–81, § 564(b)(1), substituted “Administrator” for “Director”.
 
 Subsec. (b). Pub. L. 112–81, § 564(b)(2), substituted “Administrators” for “Directors”.
@@ -553,11 +579,7 @@ Pub. L. 104–201, div. A, title X, § 1051(b)(2), Sept. 23, 1996, 110 Stat. 264
 
 (2) Not less often than annually, the Advisory Council shall submit to the Secretary of Defense a report summarizing its activities during the preceding year and providing such observations and recommendations with respect to the Retirement Home as the Advisory Council considers appropriate.
 
-(3) In carrying out its functions, the Advisory Council shall—
-
-  (A) provide for participation in its activities by a representative of the Resident Advisory Committee of each facility of the Retirement Home; and
-
-  (B) make recommendations to the Inspector General of the Department of Defense regarding issues that the Inspector General should investigate.
+(3) In carrying out its functions, the Advisory Council shall provide for participation in its activities by a representative of the Resident Advisory Committee of each facility of the Retirement Home.
 
 **(c) Composition**
 
@@ -621,6 +643,8 @@ Pub. L. 104–201, div. A, title X, § 1051(b)(2), Sept. 23, 1996, 110 Stat. 264
 A prior section 416, Pub. L. 101–510, div. A, title XV, § 1516, Nov. 5, 1990, 104 Stat. 1728; Pub. L. 107–107, div. A, title XIV, § 1406, Dec. 28, 2001, 115 Stat. 1262; Pub. L. 110–181, div. A, title XIV, § 1422(e), Jan. 28, 2008, 122 Stat. 421; Pub. L. 110–417, [div. A], title X, § 1061(b)(12), Oct. 14, 2008, 122 Stat. 4613, related to local boards of trustees, prior to repeal by Pub. L. 112–81, div. A, title V, § 563(a), Dec. 31, 2011, 125 Stat. 1421.
 
 #### Amendments
+2021—Subsec. (b)(3). Pub. L. 116–283 struck out dash after “shall” and subpar. (A) designation before “provide”, substituted period at end for “; and”, and struck out subpar. (B) which read as follows: “make recommendations to the Inspector General of the Department of Defense regarding issues that the Inspector General should investigate.”
+
 2017—Subsec. (c)(1). Pub. L. 115–91, § 1413(b)(1), substituted “15 members.” for “15 members, each of whom shall be a full or part-time Federal employee or a member of the Armed Forces.”
 
 Subsec. (f)(1). Pub. L. 115–91, § 1413(b)(2), substituted “may” for “shall” in introductory provisions.
@@ -683,7 +707,7 @@ Subsec. (f)(1). Pub. L. 115–91, § 1413(b)(2), substituted “may” for “sh
 
 (1) The Ombudsman of a facility shall, under the authority, direction, and control of the Administrator of the facility, serve as ombudsman for the residents and perform such other duties as the Administrator may assign.
 
-(2) The Ombudsman may provide information to the Administrator, the Chief Operating Officer, the Senior Medical Advisor, the Inspector General of the Department of Defense, and the Secretary of Defense.
+(2) The Ombudsman may provide information to the Administrator, the Chief Operating Officer, the Senior Medical Advisor, and the Secretary of Defense.
 
 **(f) Staff**
 
@@ -700,6 +724,8 @@ Subsec. (f)(1). Pub. L. 115–91, § 1413(b)(2), substituted “may” for “sh
 ### Statutory Notes
 
 #### Amendments
+2021—Subsec. (e)(2). Pub. L. 116–283 struck out “the Inspector General of the Department of Defense,” after “the Senior Medical Advisor,”.
+
 2017—Subsec. (b)(4). Pub. L. 115–91, § 1413(c), added par. (4).
 
 Subsec. (e)(2). Pub. L. 115–91, § 1413(a)(2), substituted “the Secretary of Defense” for “the Under Secretary of Defense for Personnel and Readiness”.
@@ -756,32 +782,12 @@ Section effective one year after Nov. 5, 1990, see section 1541(a) of Pub. L. 10
 
 
 <a id="section-419"></a>
-## § 419. Periodic inspection of retirement home facilities by Department of Defense Inspector General and outside inspectors
-**(a) Duty of Inspector General of the Department of Defense** The Inspector General of the Department of Defense shall have the duty to inspect the Retirement Home.
+## § 419. Periodic inspection of retirement home facilities
+**(a) Inspections** The Chief Operating Officer shall request the inspection of each facility of the Retirement Home by a nationally recognized civilian accrediting organization in accordance with [section 411(g) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title24-section411/g&num=0&edition=prelim) on a frequency consistent with the standards of such organization.
 
-**(b) Inspections by Inspector General**
+**(b) Availability of staff and records** The Chief Operating Officer and the Administrator of a facility being inspected under this section shall make all staff, other personnel, and records of the facility available to the civilian accrediting organization in a timely manner for purposes of inspections under this section.
 
-(1) Not less often than once every three years, the Inspector General of the Department of Defense shall perform a comprehensive inspection of all aspects of each facility of the Retirement Home, including independent living, assisted living, long-term care, medical and dental care, pharmacy, financial and contracting records, and any aspect of either facility on which the Advisory Council or the Resident Advisory Committee of the facility recommends inspection.
-
-(2) The Inspector General shall be assisted in inspections under this subsection by a medical inspector general of a military department designated for purposes of this subsection by the Secretary of Defense.
-
-(3) In conducting the inspection of a facility of the Retirement Home under this subsection, the Inspector General shall solicit concerns, observations, and recommendations from the Advisory Council, the Resident Advisory Committee of the facility, and the residents of the facility. Any concerns, observations, and recommendations solicited from residents shall be solicited on a not-for-attribution basis.
-
-(4) The Chief Operating Officer and the Administrator of each facility of the Retirement Home shall make all staff, other personnel, and records of each facility available to the Inspector General in a timely manner for purposes of inspections under this subsection.
-
-**(c) Reports on inspections by Inspector General**
-
-(1) The Inspector General shall prepare a report describing the results of each inspection conducted of a facility of the Retirement Home under subsection (b), and include in the report such recommendations as the Inspector General considers appropriate in light of the inspection. Not later than 90 days after completing the inspection of the facility, the Inspector General shall submit the report to the Secretary of Defense, the Chief Operating Officer, the Administrator of the facility, the Senior Medical Advisor, and the Advisory Council.
-
-(2) A report submitted under paragraph (1) shall include a plan by the Chief Operating Officer to address the recommendations and other matters contained in the report.
-
-**(d) Additional inspections**
-
-(1) The Chief Operating Officer shall request the inspection of each facility of the Retirement Home by a nationally recognized civilian accrediting organization in accordance with [section 411(g) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title24-section411/g&num=0&edition=prelim).
-
-(2) The Chief Operating Officer and the Administrator of a facility being inspected under this subsection shall make all staff, other personnel, and records of the facility available to the civilian accrediting organization in a timely manner for purposes of inspections under this subsection.
-
-**(e) Reports on additional inspections** Not later than 60 days after receiving a report of an inspection from the civilian accrediting organization under subsection (d), the Chief Operating Officer shall submit to the Secretary of Defense, the Senior Medical Advisor, and the Advisory Council a report containing—
+**(c) Reports** Not later than 60 days after receiving a report on an inspection from the civilian accrediting organization under this section, the Chief Operating Officer shall submit to the Secretary of Defense, the Senior Medical Advisor, and the Advisory Council a report containing—
 
 (1) the results of the inspection; and
 
@@ -790,15 +796,17 @@ Section effective one year after Nov. 5, 1990, see section 1541(a) of Pub. L. 10
 ### Statutory Notes
 
 #### Amendments
-2018—Subsecs. (c)(1), (e). Pub. L. 115–232 made technical amendment to directory language of Pub. L. 115–91, § 1051(d). See 2017 Amendment notes below.
+2021—Pub. L. 116–283 amended section generally. Prior to amendment, section consisted of subsecs. (a) to (e) relating to periodic inspection of retirement home facilities by Department of Defense Inspector General and outside inspectors.
+
+2018—Subsecs. (c)(1), (e). Pub. L. 115–232, § 1081(c)(3), made technical amendment to directory language of Pub. L. 115–91, § 1051(d). See 2017 Amendment notes below.
 
 2017—Subsec. (c)(1). Pub. L. 115–91, § 1413(a)(3)(A), struck out “the Under Secretary of Defense for Personnel and Readiness,” after “the Secretary of Defense,”.
 
-Pub. L. 115–91, § 1051(d)(1), as amended by Pub. L. 115–232, struck out “Congress and” before “the Secretary of Defense,”.
+Pub. L. 115–91, § 1051(d)(1), as amended by Pub. L. 115–232, § 1081(c)(3), struck out “Congress and” before “the Secretary of Defense,”.
 
 Subsec. (e). Pub. L. 115–91, § 1413(a)(3)(B), which directed amendment of subsec. (e)(1) by substituting “the Secretary of Defense” for “the Under Secretary of Defense for Personnel and Readiness”, was executed by making the substitution in the introductory provisions of subsec. (e) to reflect the probable intent of Congress and the intervening amendment by Pub. L. 115–91, § 1051(d)(2). See below.
 
-Pub. L. 115–91, § 1051(d)(2), as amended by Pub. L. 115–232, struck out “(1)” before “Not later”, redesignated subpars. (A) and (B) of par. (1) as pars. (1) and (2), respectively, and struck out par. (2) which read as follows: “Not later than 45 days after receiving a report and plan under paragraph (1), the Secretary of Defense shall submit the report and plan to Congress.”
+Pub. L. 115–91, § 1051(d)(2), as amended by Pub. L. 115–232, § 1081(c)(3), struck out “(1)” before “Not later”, redesignated subpars. (A) and (B) of par. (1) as pars. (1) and (2), respectively, and struck out par. (2) which read as follows: “Not later than 45 days after receiving a report and plan under paragraph (1), the Secretary of Defense shall submit the report and plan to Congress.”
 
 2011—Pub. L. 112–81, § 567(c)(5), substituted “Periodic inspection of retirement home facilities by Department of Defense Inspector General and outside inspectors” for “Inspection of Retirement Home” in section catchline.
 
@@ -837,7 +845,7 @@ Pub. L. 112–81, § 563(b)(3)(C), substituted “Advisory Council” for “Loc
 “(3) submit to the Retirement Home Board, the Secretary of Defense, and Congress a report describing the results of the inspection and containing such recommendations as the Inspector General considers appropriate.”
 
 #### Effective Date of 2018 Amendment
-Pub. L. 115–232, div. A, title X, § 1081(c), Aug. 13, 2018, 132 Stat. 1985, provided that the amendment made by Pub. L. 115–232 is effective as of Dec. 12, 2017, and as if included in Pub. L. 115–91 as enacted.
+Pub. L. 115–232, div. A, title X, § 1081(c), Aug. 13, 2018, 132 Stat. 1985, provided that the amendment made by section 1081(c)(3) is effective as of Dec. 12, 2017, and as if included in Pub. L. 115–91 as enacted.
 
 #### Effective Date
 Section effective one year after Nov. 5, 1990, see section 1541(a) of Pub. L. 101–510, formerly set out as a note under [section 401 of this title](./chapter-010-armed-forces-retirement-home.md#section-401).

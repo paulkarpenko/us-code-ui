@@ -1076,7 +1076,12 @@ Pub. L. 95–397, title II, § 208, Sept. 30, 1978, 92 Stat. 848, as amended by 
 
 ### Statutory Notes
 
+#### Amendment of Subsection (d)(2)
+Pub. L. 116–92, div. A, title VI, § 622(d), (f), Dec. 20, 2019, 133 Stat. 1427, 1428, provided that, effective Jan. 1, 2023, subsection (d)(2) of this section is amended by striking “Dependent children.—” and all that follows through “In the case of a member described in paragraph (1),” and inserting “Dependent children.—In the case of a member described in paragraph (1),” and by striking subparagraph (B). See 2019 Amendment note below.
+
 #### Amendments
+2019—Subsec. (d)(2). Pub. L. 116–92 struck out subpar. (A) designation and heading before “In the case of a member described in paragraph (1)” and struck out subpar. (B) which read as follows: “Optional annuity when there is an eligible surviving spouse.—In the case of a member described in paragraph (1) who dies after October 7, 2001, and for whom there is a surviving spouse eligible for an annuity under paragraph (1), the Secretary may pay an annuity under this subchapter to the member’s dependent children under subsection (a)(3) or (a)(4) of [section 1450 of this title](./chapter-073-annuities-based-on-retired-or-retainer-pay.md#section-1450), if applicable, instead of paying an annuity to the surviving spouse under paragraph (1), if the Secretary concerned, in consultation with the surviving spouse, determines it appropriate to provide an annuity for the dependent children under this paragraph instead of an annuity for the surviving spouse under paragraph (1).”
+
 2016—Subsec. (f)(2). Pub. L. 114–328, § 642(b), amended par. (2) generally. Prior to amendment, text read as follows: “The Secretary concerned shall pay an annuity under this subchapter to the dependent child, or to a special needs trust pursuant to [section 1450(a)(4) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1450/a/4&num=0&edition=prelim), of a person described in paragraph (1) if there is no surviving spouse or if the person’s surviving spouse subsequently dies.”
 
 Subsec. (f)(5). Pub. L. 114–328, § 642(c), added par. (5).
@@ -1231,6 +1236,9 @@ Subsec. (e). Pub. L. 95–397, § 202(c), added subsec. (e).
 
 1976—Subsec. (a). Pub. L. 94–496 inserted “or elects to provide an annuity for a dependent child but not for his spouse” after “maximum level”.
 
+#### Effective Date of 2019 Amendment
+Pub. L. 116–92, div. A, title VI, § 622(f), Dec. 20, 2019, 133 Stat. 1428, provided that: “This section [amending this section and sections 1450 and 1451 of this title and enacting provisions set out as notes under this section and [section 1450 of this title](./chapter-073-annuities-based-on-retired-or-retainer-pay.md#section-1450)] and the amendments made by this section shall take effect on the first day of the first month that begins after the date of the enactment of this Act [Dec. 20, 2019], except subsections (d) and (e) of this section [amending this section and enacting provisions set out as a note below] and the amendments made thereby shall take effect on January 1, 2023.”
+
 #### Effective Date of 2016 Amendment
 Pub. L. 114–328, div. A, title VI, § 642(e), Dec. 23, 2016, 130 Stat. 2165, provided that: “(1) Payment.—No annuity benefit under subchapter II of chapter 73 of title 10, United States Code, shall accrue to any person by reason of the amendments made by this section [amending this section and sections 1450 and 1451 of this title] for any period before the date of the enactment of this Act [Dec. 23, 2016]. “(2) Elections.—For any death that occurred before the date of the enactment of this Act with respect to which an annuity under such subchapter is being paid (or could be paid) to a surviving spouse, the Secretary concerned may, within six months of that date and in consultation with the surviving spouse, determine it appropriate to provide an annuity for the dependent children of the decedent under paragraph 1448(f)(2)(B) of title 10, United States Code, as added by subsection (b), instead of an annuity for the surviving spouse. Any such determination and resulting change in beneficiary shall be effective as of the first day of the first month following the date of the determination.”
 
@@ -1248,6 +1256,9 @@ Pub. L. 107–107, div. A, title VI, § 642(d), Dec. 28, 2001, 115 Stat. 1152, p
 
 #### Effective Date of 2000 Amendment
 Pub. L. 106–398, § 1 [[div. A], title VI, § 655(d)], Oct. 30, 2000, 114 Stat. 1654, 1654A–166, provided that: “The amendments made by this section [amending this section and [section 1450 of this title](./chapter-073-annuities-based-on-retired-or-retainer-pay.md#section-1450)] apply only with respect to a notification under [section 12731(d) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section12731/d&num=0&edition=prelim), United States Code, made after January 1, 2001, that a member of a reserve component has completed the years of service required for eligibility for reserve-component retired pay.”
+
+#### Effective Date of 1997 Amendment
+Pub. L. 105–85, div. A, title VI, § 645(c), Nov. 18, 1997, 111 Stat. 1801, provided that: “The amendments made by this section [amending section 4(e)(1) of Pub. L. 92–425 and section 653(d) of Pub. L. 100–456, set out as notes below] take effect on the first day of the first month beginning after the date of the enactment of this Act [Nov. 18, 1997] and shall apply with respect to payments of benefits for months beginning on or after that date, except that the Secretary of Veterans Affairs may provide, if necessary for administrative implementation, that such amendments shall apply beginning with a later month, not later than the first month beginning more than 180 days after the date of the enactment of this Act.”
 
 #### Effective Date of 1994 Amendment
 Amendment by section 1671(d)(2) of Pub. L. 103–337 effective Dec. 1, 1994, except as otherwise provided, see section 1691 of Pub. L. 103–337, set out as an Effective Date note under [section 10001 of this title](./chapter-1001-definitions.md#section-10001).
@@ -1272,8 +1283,8 @@ Amendment by Pub. L. 95–397 effective Oct. 1, 1978, and applicable to annuitie
 #### Effective Date of 1976 Amendment
 Amendment by Pub. L. 94–496 effective Sept. 21, 1972, see section 3 of Pub. L. 94–496, set out as a note under [section 1447 of this title](./chapter-073-annuities-based-on-retired-or-retainer-pay.md#section-1447).
 
-#### Effective Date of 1997 Amendments by Section 645 of Pub. L. 105–85
-Pub. L. 105–85, div. A, title VI, § 645(c), Nov. 18, 1997, 111 Stat. 1801, provided that: “The amendments made by this section [amending section 4(e)(1) of Pub. L. 92–425 and section 653(d) of Pub. L. 100–456, set out below] take effect on the first day of the first month beginning after the date of the enactment of this Act [Nov. 18, 1997] and shall apply with respect to payments of benefits for months beginning on or after that date, except that the Secretary of Veterans Affairs may provide, if necessary for administrative implementation, that such amendments shall apply beginning with a later month, not later than the first month beginning more than 180 days after the date of the enactment of this Act.”
+#### Restoration of Eligibility for Previously Eligible Spouses
+Pub. L. 116–92, div. A, title VI, § 622(e), Dec. 20, 2019, 133 Stat. 1428, provided that: “The Secretary of the military department concerned shall restore annuity eligibility to any eligible surviving spouse who, in consultation with the Secretary, previously elected to transfer payment of such annuity to a surviving child or children under the provisions of [section 1448(d)(2)(B) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1448/d/2/B&num=0&edition=prelim), United States Code, as in effect on the day before the effective date provided under subsection (f) [set out as an Effective Date of 2019 Amendment note above]. Such eligibility shall be restored whether or not payment to such child or children subsequently was terminated due to loss of dependent status or death. For the purposes of this subsection, an eligible spouse includes a spouse who was previously eligible for payment of such annuity and is not remarried, or remarried after having attained age 55, or whose second or subsequent marriage has been terminated by death, divorce or annulment.”
 
 #### Applicability to Former Spouse Deaths Before Enactment of Pub. L. 114–92
 Pub. L. 114–92, div. A, title VI, § 641(c), Nov. 25, 2015, 129 Stat. 853, provided that: “(1) In general.—A person—“(A) who before the date of the enactment of this Act [Nov. 25, 2015] had a former spouse beneficiary under the Survivor Benefit Plan who died before that date; and “(B) who on the date of the enactment of this Act is married, may elect to provide spouse coverage for such spouse under the Plan, regardless of whether the person married such spouse before or after the death of the former spouse beneficiary. Any such election may only be made during the one-year period beginning on the date of the enactment of this Act. “(2) Effective date of election if married at least a year at death former spouse.—If the person providing the annuity was married to the spouse beneficiary for at least one year at the time of the death of the former spouse beneficiary, the effective date of such election shall be the first day of the first month after the death of the former spouse beneficiary. “(3) Other effective date.—If the person providing the annuity married the spouse beneficiary after (or during the one-year period preceding) the death of the former spouse beneficiary, the effective date of the election shall be the first day of the first month following the first anniversary of the person’s marriage to the spouse beneficiary. “(4) Responsibility for premiums.—A person electing to participate in the Plan under this subsection shall be responsible for payment of all premiums due from the effective date of the election.”
@@ -1428,7 +1439,15 @@ Amendment by Pub. L. 95–397 effective Oct. 1, 1978, and applicable to annuitie
 
 **(c) Offset for Amount of Dependency and Indemnity Compensation.—**
 
-(1) **Required offset.—** — If, upon the death of a person to whom [section 1448 of this title](./chapter-073-annuities-based-on-retired-or-retainer-pay.md#section-1448) applies, the surviving spouse or former spouse of that person is also entitled to dependency and indemnity compensation under [section 1311(a) of title 38](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section1311/a&num=0&edition=prelim), the surviving spouse or former spouse may be paid an annuity under this section, but only in the amount that the annuity otherwise payable under this section would exceed that compensation.
+(1) **Required offset.—** — If, upon the death of a person to whom [section 1448 of this title](./chapter-073-annuities-based-on-retired-or-retainer-pay.md#section-1448) applies, the surviving spouse or former spouse of that person is also entitled to dependency and indemnity compensation under [section 1311(a) of title 38](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section1311/a&num=0&edition=prelim), the surviving spouse or former spouse may be paid an annuity under this section, but only in the amount calculated as follows:
+
+  (A) During the period beginning on January 1, 2020, and ending on December 31, 2020, the amount that the annuity otherwise payable under this section would exceed such dependency and indemnity compensation.
+
+  (B) During the period beginning on January 1, 2021, and ending on December 31, 2021, the amount that the annuity otherwise payable under this section would exceed two-thirds of such dependency and indemnity compensation.
+
+  (C) During the period beginning on January 1, 2022, and ending on December 31, 2022, the amount that the annuity otherwise payable under this section would exceed one-third of such dependency and indemnity compensation.
+
+  (D) On and after January 1, 2023, the full amount of the annuity under this section.
 
 (2) **Effective date of offset.—** — A reduction in an annuity under this section required by paragraph (1) shall be effective on the date of the commencement of the period of payment of such dependency and indemnity compensation under title 38.
 
@@ -1625,6 +1644,8 @@ Amendment by Pub. L. 95–397 effective Oct. 1, 1978, and applicable to annuitie
 ### Statutory Notes
 
 #### Amendments
+2019—Subsec. (c)(1). Pub. L. 116–92 substituted “calculated as follows:” for “that the annuity otherwise payable under this section would exceed that compensation.” and added subpars. (A) to (D).
+
 2018—Subsec. (m)(2)(I). Pub. L. 115–232, § 622(a)(1), substituted “November” for “December”.
 
 Subsec. (m)(2)(J). Pub. L. 115–232, § 622(a)(2), substituted “for months after November 2018” for “for months during any calendar year after 2018”.
@@ -1785,6 +1806,9 @@ Subsecs. (j), (k). Pub. L. 95–397, § 203(2), added subsecs. (j) and (k).
 
 Subsec. (f). Pub. L. 94–496, § 1(4), substituted “(a)(4)” for “(a)(3)”.
 
+#### Effective Date of 2019 Amendment
+Amendment by Pub. L. 116–92 effective on the first day of the first month that begins after Dec. 20, 2019, see section 622(f) of Pub. L. 116–92, set out as a note under [section 1448 of this title](./chapter-073-annuities-based-on-retired-or-retainer-pay.md#section-1448).
+
 #### Effective Date of 2018 Amendment
 Pub. L. 115–232, div. A, title VI, § 622(c), Aug. 13, 2018, 132 Stat. 1800, provided that: “The amendments made by this section [amending this section] shall take effect on December 1, 2018.”
 
@@ -1823,6 +1847,12 @@ Amendment by Pub. L. 95–397 effective Oct. 1, 1978, and applicable to annuitie
 
 #### Effective Date of 1976 Amendment
 Amendment by Pub. L. 94–496 effective Sept. 21, 1972, see section 3 of Pub. L. 94–496, set out as a note under [section 1447 of this title](./chapter-073-annuities-based-on-retired-or-retainer-pay.md#section-1447).
+
+#### Prohibition on Retroactive Benefits
+Pub. L. 116–92, div. A, title VI, § 622(b), Dec. 20, 2019, 133 Stat. 1427, provided that: “No benefits may be paid to any person for any period before the effective date provided under subsection (f) [enacting provisions set out as a note under [section 1448 of this title](./chapter-073-annuities-based-on-retired-or-retainer-pay.md#section-1448)] by reason of the amendments made by subsection (a) [amending this section and [section 1451 of this title](./chapter-073-annuities-based-on-retired-or-retainer-pay.md#section-1451)].”
+
+#### Prohibition on Recoupment of Certain Amounts Previously Refunded to SBP Recipients
+Pub. L. 116–92, div. A, title VI, § 622(c), Dec. 20, 2019, 133 Stat. 1427, provided that: “A surviving spouse who is or has been in receipt of an annuity under the Survivor Benefit Plan under subchapter II of chapter 73 of title 10, United States Code, that is in effect before the effective date provided under subsection (f) [enacting provisions set out as a note under [section 1448 of this title](./chapter-073-annuities-based-on-retired-or-retainer-pay.md#section-1448)] and that is adjusted by reason of the amendments made by subsection (a) [amending this section and [section 1451 of this title](./chapter-073-annuities-based-on-retired-or-retainer-pay.md#section-1451)] and who has received a refund of retired pay under [section 1450(e) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1450/e&num=0&edition=prelim), United States Code, shall not be required to repay such refund to the United States.”
 
 #### Recomputation of Annuities
 Pub. L. 108–375, div. A, title VI, § 644(c), Oct. 28, 2004, 118 Stat. 1961, as amended by Pub. L. 110–417, [div. A], title VI, § 632, Oct. 14, 2008, 122 Stat. 4493, provided that: “(1) Periodic recomputation required.—Effective on the first day of each month specified in paragraph (2)—“(A) each annuity under [section 1450 of title 10](./chapter-073-annuities-based-on-retired-or-retainer-pay.md#section-1450), United States Code, that commenced before that month, is computed under a provision of section 1451 of that title amended by subsection (a), and is payable for that month shall be recomputed so as to be equal to the amount that would be in effect if the percent applicable for that month under that provision, as so amended, had been used for the initial computation of the annuity; and “(B) each supplemental survivor annuity under [former] section 1457 of such title that commenced before that month and is payable for that month shall be recomputed so as to be equal to the amount that would be in effect if the percent applicable for that month under that section, as amended by this section, had been used for the initial computation of the supplemental survivor annuity. “(2) Time for recomputation.—The requirement under paragraph (1) for recomputation of certain annuities applies with respect to the following months:“(A) October 2005. “(B) April 2006. “(C) April 2007. “(D) April 2008. “(3) Savings provision.—If, as a result of the recomputation of annuities under [section 1450 of title 10](./chapter-073-annuities-based-on-retired-or-retainer-pay.md#section-1450), United States Code, and supplemental survivor annuities under [former] section 1457 of such title, as required by paragraph (1), the total amount of both annuities to be paid to an annuitant for a month would be less (because of the offset required by section 1450(c) of such title for dependency and indemnity compensation) than the amount that would be paid to the annuitant in the absence of recomputation, the Secretary of Defense shall take such actions as are necessary to adjust the annuity amounts to eliminate the reduction.”
@@ -1914,7 +1944,7 @@ Pub. L. 106–65, div. A, title VI, § 657, Oct. 5, 1999, 113 Stat. 668, as amen
 
     (ii) *Rule if beneficiary eligible for social security offset computation.—* — If the beneficiary is eligible to have the annuity computed under subsection (e) and if computation of the annuity under that subsection is more favorable to the beneficiary than computation under clause (i), the annuity shall be computed under that subsection rather than under clause (i).
 
-(2) **DIC offset.—** — An annuity computed under paragraph (1) that is paid to a surviving spouse shall be reduced by the amount of dependency and indemnity compensation to which the surviving spouse is entitled under [section 1311(a) of title 38](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section1311/a&num=0&edition=prelim). Any such reduction shall be effective on the date of the commencement of the period of payment of such compensation under title 38.
+(2) **DIC offset.—** — An annuity computed under paragraph (1) that is paid to a surviving spouse shall be reduced by a portion (calculated under [section 1450(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1450/c&num=0&edition=prelim)) of the amount of dependency and indemnity compensation to which the surviving spouse is entitled under [section 1311(a) of title 38](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section1311/a&num=0&edition=prelim). Any such reduction shall be effective on the date of the commencement of the period of payment of such compensation under title 38.
 
 (3) **Servicemembers not yet granted retired pay.—** — In the case of an annuity provided by reason of the service of a member described in clause (ii) or (iii) of [section 1448(d)(1)(A) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1448/d/1/A&num=0&edition=prelim) who first became a member of a uniformed service before September 8, 1980, the retired pay to which the member would have been entitled when he died shall be determined for purposes of paragraph (1) based upon the rate of basic pay in effect at the time of death for the grade in which the member was serving at the time of death, unless (as determined by the Secretary concerned) the member would have been entitled to be retired in a higher grade.
 
@@ -2018,6 +2048,8 @@ The Social Security Act, referred to in subsec. (e)(3)(A), (4)(A), is act Aug. 1
 Section 6413(c) of the Internal Revenue Code of 1986, referred to in subsec. (e)(4)(B)(ii), is classified to [section 6413(c) of Title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section6413/c&num=0&edition=prelim), Internal Revenue Code.
 
 #### Amendments
+2019—Subsec. (c)(2). Pub. L. 116–92 inserted “a portion (calculated under [section 1450(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1450/c&num=0&edition=prelim)) of” before “the amount”.
+
 2017—Subsecs. (a), (b). Pub. L. 115–91 substituted “section 1450(a)(5)” for “section 1450(a)(4)” in two places.
 
 2016—Subsec. (c)(1)(A)(i). Pub. L. 114–328, § 642(a)(1), inserted “or 1448(f)” after “section 1448(d)” and “or (iii)” after “clause (ii)”.
@@ -2115,6 +2147,9 @@ Subsec. (b). Pub. L. 95–397, § 204(c), substituted “The monthly annuity pay
 Subsec. (d). Pub. L. 95–397, § 204(d), added subsec. (d).
 
 1976—Subsec. (b). Pub. L. 94–496 substituted “(a)(4)” for “(a)(3)”.
+
+#### Effective Date of 2019 Amendment
+Amendment by Pub. L. 116–92 effective on the first day of the first month that begins after Dec. 20, 2019, see section 622(f) of Pub. L. 116–92, set out as a note under [section 1448 of this title](./chapter-073-annuities-based-on-retired-or-retainer-pay.md#section-1448).
 
 #### Effective Date of 2016 Amendment
 Amendment by Pub. L. 114–328 inapplicable to accural of annuity benefits under subchapter II of chapter 73 of this title for any period prior to Dec. 23, 2016, with provisions for election of benefits payable to dependent children, see section 642(e) of Pub. L. 114–328, set out as a note under [section 1448 of this title](./chapter-073-annuities-based-on-retired-or-retainer-pay.md#section-1448).

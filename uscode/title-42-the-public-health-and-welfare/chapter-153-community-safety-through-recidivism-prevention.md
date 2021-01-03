@@ -30,7 +30,7 @@ Section 17553 was editorially reclassified as [section 60553 of Title 34](https:
 ### Statutory Notes
 
 #### Codification
-Section 17554 was editorially reclassified as [section 60554 of Title 34](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section60554&num=0&edition=prelim), Crime Control and Law Enforcement, which was repealed by Pub. L. 115–391, title V, § 504(d), Dec. 21, 2018, 132 Stat. 5233.
+Section 17554 was editorially reclassified as [section 60554 of Title 34](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section60554&num=0&edition=prelim), Crime Control and Law Enforcement, which was subsequently repealed by Pub. L. 115–391, title V, § 504(d), Dec. 21, 2018, 132 Stat. 5233.
 
 
 <a id="section-17504"></a>
@@ -111,7 +111,7 @@ Section 17531 was editorially reclassified as [section 60531 of Title 34](https:
 ### Statutory Notes
 
 #### Codification
-Section 17532 was editorially reclassified as [section 60532 of Title 34](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section60532&num=0&edition=prelim), Crime Control and Law Enforcement, which was repealed by Pub. L. 115–391, title V, § 504(a), Dec. 21, 2018, 132 Stat. 5233.
+Section 17532 was editorially reclassified as [section 60532 of Title 34](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section60532&num=0&edition=prelim), Crime Control and Law Enforcement, which was subsequently repealed by Pub. L. 115–391, title V, § 504(a), Dec. 21, 2018, 132 Stat. 5233.
 
 
 <a id="section-17552"></a>

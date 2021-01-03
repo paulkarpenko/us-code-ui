@@ -1603,6 +1603,9 @@ This subchapter may be cited as the “Native American Programs Act of 1974”.
 #### Prior Provisions
 A prior section 2991, Pub. L. 88–452, title VIII, § 801, as added Pub. L. 89–794, title VIII, § 801. Nov. 8, 1966, 80 Stat. 1472; amended Pub. L. 90–222, title I, § 110, Dec. 23, 1967, 81 Stat. 722; Pub. L. 92–424, § 26(a), Sept. 19, 1972, 86 Stat. 703, related to Congressional statement of purpose, prior to repeal by Pub. L. 93–113, title VI, § 603, Oct. 1, 1973, 87 Stat. 417. See [section 4951 of this title](./chapter-066-domestic-volunteer-services.md#section-4951).
 
+#### Short Title of 2019 Amendment
+Pub. L. 116–101, § 1, Dec. 20, 2019, 133 Stat. 3261, provided that: “This Act [amending sections 2991b–3 and 2992d of this title] may be cited as the ‘Esther Martinez Native American Languages Programs Reauthorization Act’.”
+
 #### Short Title of 2006 Amendment
 Pub. L. 109–394, § 1, Dec. 14, 2006, 120 Stat. 2705, provided that: “This Act [amending sections 2991b–3, 2992c, and 2992d of this title] may be cited as the ‘Esther Martinez Native American Languages Preservation Act of 2006’.”
 
@@ -1658,31 +1661,43 @@ Pub. L. 96–565, title III, §§ 301–307, Dec. 22, 1980, 94 Stat. 3324–3326
 
 <a id="section-2991f"></a>
 ## § 2991f. Financial assistance for Native American projects
-**(a) Authorization for financial assistance to public and nonprofit agencies; consultation with other Federal agencies to avoid duplication** The Commissioner is authorized to provide financial assistance, on a single year or multiyear basis, to public and nonprofit private agencies, including but not limited to, governing bodies of Indian tribes on Federal and State reservations, Alaska Native villages and regional corporations established by the Alaska Native Claims Settlement Act [[43 U.S.C. 1601](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1601&num=0&edition=prelim) et seq.], and such public and nonprofit private agencies serving Native Hawaiians, and Indian and Alaska Native organizations in urban or rural areas that are not Indian reservations or Alaska Native villages, for projects pertaining to the purposes of this subchapter. The Commissioner is authorized to provide financial assistance to public and nonprofit private agencies serving other Native American Pacific Islanders (including American Samoan Natives) for projects pertaining to the purposes of this Act. In determining the projects to be assisted under this subchapter, the Commissioner shall consult with other Federal agencies for the purpose of eliminating duplication or conflict among similar activities or projects and for the purpose of determining whether the findings resulting from those projects may be incorporated into one or more programs for which those agencies are responsible. Every determination made with respect to a request for financial assistance under this section shall be made without regard to whether the agency making such request serves, or the project to be assisted is for the benefit of, Indians who are not members of a federally recognized tribe. To the greatest extent practicable, the Commissioner shall ensure that each project to be assisted under this subchapter is consistent with the priorities established by the agency which receives such assistance.
+**(a) Authorization for financial assistance to public and nonprofit agencies; consultation with other Federal agencies to avoid duplication** The Commissioner is authorized to provide financial assistance, on a single year or multiyear basis, to public and nonprofit private agencies, including but not limited to, governing bodies of Indian Tribes on Federal and State reservations, Alaska Native villages and regional corporations established by the Alaska Native Claims Settlement Act [[43 U.S.C. 1601](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1601&num=0&edition=prelim) et seq.], and such public and nonprofit private agencies serving Native Hawaiians, and Indian and Alaska Native organizations in urban or rural areas that are not Indian reservations or Alaska Native villages, for projects pertaining to the purposes of this subchapter. The Commissioner is authorized to provide financial assistance to public and nonprofit private agencies serving other Native American Pacific Islanders (including American Samoan Natives) for projects pertaining to the purposes of this Act. In determining the projects to be assisted under this subchapter, the Commissioner shall consult with other Federal agencies for the purpose of eliminating duplication or conflict among similar activities or projects and for the purpose of determining whether the findings resulting from those projects may be incorporated into one or more programs for which those agencies are responsible. Every determination made with respect to a request for financial assistance under this section shall be made without regard to whether the agency making such request serves, or the project to be assisted is for the benefit of, Indians who are not members of a federally recognized Tribe. To the greatest extent practicable, the Commissioner shall ensure that each project to be assisted under this subchapter is consistent with the priorities established by the agency which receives such assistance.
 
-**(b) Limitations of financial assistance; exceptions; non-Federal contributions** Financial assistance extended to an agency under this subchapter shall not exceed 80 per centum of the approved costs of the assisted project, except that the Commissioner may approve assistance in excess of such percentage if the Commissioner determines, in accordance with regulations establishing objective criteria, that such action is required in furtherance of the purposes of this subchapter. Non-Federal contributions may be in cash or in kind, fairly evaluated, including but not limited to plant, equipment, and services. The Commissioner shall not require non-Federal contributions in excess of 20 per centum of the approved costs of programs or activities assisted under this subchapter.
+**(b) Economic Development**
 
-**(c) Assistance as addition to, and not substitution for, activities previously carried out without Federal assistance; waiver; nonreservation areas**
+(1) **In general** — The Commissioner may provide assistance under subsection (a) for projects relating to the purposes of this subchapter to a Native community development financial institution, as defined by the Secretary of the Treasury.
+
+(2) **Priority** — With regard to not less than 50 percent of the total amount available for assistance under this section, the Commissioner shall give priority to any application seeking assistance for—
+
+  (A) the development of a Tribal code or court system for purposes of economic development, including commercial codes, training for court personnel, regulation pursuant to [section 261 of title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section261&num=0&edition=prelim), and the development of nonprofit subsidiaries or other Tribal business structures;
+
+  (B) the development of a community development financial institution, including training and administrative expenses; or
+
+  (C) the development of a Tribal master plan for community and economic development and infrastructure.
+
+**(c) Limitations of financial assistance; exceptions; non-Federal contributions** Financial assistance extended to an agency under this subchapter shall not exceed 80 per centum of the approved costs of the assisted project, except that the Commissioner may approve assistance in excess of such percentage if the Commissioner determines, in accordance with regulations establishing objective criteria, that such action is required in furtherance of the purposes of this subchapter. Non-Federal contributions may be in cash or in kind, fairly evaluated, including but not limited to plant, equipment, and services. The Commissioner shall not require non-Federal contributions in excess of 20 per centum of the approved costs of programs or activities assisted under this subchapter.
+
+**(d) Assistance as addition to, and not substitution for, activities previously carried out without Federal assistance; waiver; nonreservation areas**
 
 (1) No project shall be approved for assistance under this subchapter unless the Commissioner is satisfied that the activities to be carried out under such project will be in addition to, and not in substitution for, comparable activities previously carried out without Federal assistance, except that the Commissioner may waive this requirement in any case in which the Commissioner determines, in accordance with regulations establishing objective criteria, that application of the requirement would result in unnecessary hardship or otherwise be inconsistent with the purposes of this subchapter.
 
 (2) No project may be disapproved for assistance under this subchapter solely because the agency requesting such assistance is an Indian organization in a nonreservation area or serves Indians in a nonreservation area.
 
-**(d) Grants to improve tribal regulation of environmental quality**
+**(e) Grants to improve Tribal regulation of environmental quality**
 
-(1) The Commissioner shall award grants to Indian tribes for the purpose of funding 80 percent of the costs of planning, developing, and implementing programs designed to improve the capability of the governing body of the Indian tribe to regulate environmental quality pursuant to Federal and tribal environmental laws.
+(1) The Commissioner shall award grants to Indian Tribes for the purpose of funding 80 percent of the costs of planning, developing, and implementing programs designed to improve the capability of the governing body of the Indian Tribe to regulate environmental quality pursuant to Federal and Tribal environmental laws.
 
 (2) The purposes for which funds provided under any grant awarded under paragraph (1) may be used include, but are not limited to—
 
   (A) the training and education of employees responsible for enforcing, or monitoring compliance with, environmental quality laws,
 
-  (B) the development of tribal laws on environmental quality, and
+  (B) the development of Tribal laws on environmental quality, and
 
   (C) the enforcement and monitoring of environmental quality laws.
 
 (3) The 20 percent of the costs of planning, developing, and implementing a program for which a grant is awarded under paragraph (1) that are not to be paid from such grant may be paid by the grant recipient in cash or through the provision of property or services, but only to the extent that such cash or property is from any source (including any Federal agency) other than a program, contract, or grant authorized under this subchapter.
 
-(4) Grants shall be awarded under paragraph (1) on the basis of applications that are submitted by Indian tribes to the Commissioner in such form as the Commissioner shall prescribe.
+(4) Grants shall be awarded under paragraph (1) on the basis of applications that are submitted by Indian Tribes to the Commissioner in such form as the Commissioner shall prescribe.
 
 ### Statutory Notes
 
@@ -1695,6 +1710,16 @@ This Act, referred to in subsec. (a), probably means the Native American Program
 A prior section 2991b, Pub. L. 88–452, title VIII, § 803, as added Pub. L. 89–794, title VIII, § 801, Nov. 8, 1966, 80 Stat. 1473, provided for stipend for volunteers, living, travel, and leave allowances, and subsistence, prior to the general amendment of this subchapter by Pub. L. 90–222, title I, § 110, Dec. 23, 1967, 81 Stat. 722.
 
 #### Amendments
+2020—Subsec. (a). Pub. L. 116–261, § 5(d)(1), (2), substituted “Tribe” for “tribe” and “Tribes” for “tribes”.
+
+Subsecs. (b) to (e). Pub. L. 116–261, § 5(a), added subsec. (b) and redesignated former subsecs. (b) to (d) as (c) to (e), respectively.
+
+Subsec. (e)(1). Pub. L. 116–261, § 5(d), substituted “Tribe” for “tribe”, “Tribes” for “tribes”, and “Tribal” for “tribal”.
+
+Subsec. (e)(2)(B). Pub. L. 116–261, § 5(d)(3), substituted “Tribal” for “tribal”.
+
+Subsec. (e)(4). Pub. L. 116–261, § 5(d)(2), substituted “Tribes” for “tribes”.
+
 1993—Subsec. (a). Pub. L. 103–171 substituted “areas that are not Indian reservations or Alaska Native villages” for “nonreservation areas”.
 
 1992—Subsec. (a). Pub. L. 102–497 struck out “, subject to the availability of funds appropriated under the authority of [section 2992d(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2992d/c&num=0&edition=prelim),” after “Commissioner is authorized” in second sentence.
@@ -1903,13 +1928,15 @@ Section effective upon expiration of 90-day period beginning Nov. 29, 1987, see 
 
 (2) The membership of the Council shall be the heads of principal operating divisions within the Department, as determined by the Secretary, and such persons in the Office of the Secretary as the Secretary may designate.
 
-(3) In addition to the duties described in subsection (c)(3), the Council shall, within 180 days following September 30, 1992, prepare a plan, including legislative recommendations, to allow tribal governments and other organizations described in [section 2991b(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2991b/a&num=0&edition=prelim) to consolidate grants administered by the Department and to designate a single office to oversee and audit the grants. Such plan shall be submitted to the committees of the Senate and the House of Representatives having jurisdiction over the Administration for Native Americans.
+(3) In addition to the duties described in subsection (c)(3), the Council shall, within 180 days following September 30, 1992, prepare a plan, including legislative recommendations, to allow Tribal governments and other organizations described in [section 2991b(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2991b/a&num=0&edition=prelim) to consolidate grants administered by the Department and to designate a single office to oversee and audit the grants. Such plan shall be submitted to the committees of the Senate and the House of Representatives having jurisdiction over the Administration for Native Americans.
 
 **(e) Staffing levels** The Secretary shall assure that adequate staff and administrative support is provided to carry out the purpose of this subchapter. In determining the staffing levels of the Administration, the Secretary shall consider among other factors the unmet needs of the Native American population, the need to provide adequate oversight and technical assistance to grantees, the need to carry out the activities of the Council, the additional reporting requirements established, and the staffing levels previously maintained in support of the Administration.
 
 ### Statutory Notes
 
 #### Amendments
+2020—Subsec. (d)(3). Pub. L. 116–261 substituted “Tribal” for “tribal”.
+
 1993—Subsec. (c)(5). Pub. L. 103–171, § 5(4)(A), substituted “agencies described in [section 2991b(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2991b/a&num=0&edition=prelim) that” for “individuals who”.
 
 Subsec. (c)(6). Pub. L. 103–171, § 5(4)(B), substituted “Native Americans,” for “such individuals”.
@@ -1942,7 +1969,7 @@ to be used to assist Native Americans in ensuring the survival and continuing vi
 
   (A) Native American language nests, which are site-based educational programs that—
 
-    (i) provide instruction and child care through the use of a Native American language for at least 10 children under the age of 7 for an average of at least 500 hours per year per student;
+    (i) provide instruction and child care through the use of a Native American language for at least 5 children under the age of 7 for an average of at least 500 hours per year per student;
 
     (ii) provide classes in a Native American language for parents (or legal guardians) of students enrolled in a Native American language nest (including Native American language-speaking parents); and
 
@@ -1950,7 +1977,7 @@ to be used to assist Native Americans in ensuring the survival and continuing vi
 
   (B) Native American language survival schools, which are site-based educational programs for school-age students that—
 
-    (i) provide an average of at least 500 hours of instruction through the use of 1 or more Native American languages for at least 15 students for whom a Native American language survival school is their principal place of instruction;
+    (i) provide an average of at least 500 hours of instruction through the use of 1 or more Native American languages for at least 10 students for whom a Native American language survival school is their principal place of instruction;
 
     (ii) develop instructional courses and materials for learning Native American languages and for instruction through the use of Native American languages;
 
@@ -2000,7 +2027,7 @@ to be used to assist Native Americans in ensuring the survival and continuing vi
 
 (7) in the case of an application for a grant to carry out any purpose specified in subsection (b)(7)(B), a certification by the applicant that the applicant has not less than 3 years of experience in operating and administering a Native American language survival school, a Native American language nest, or any other educational program in which instruction is conducted in a Native American language.
 
-**(d) Participating organizations** If a tribal organization or other eligible applicant decides that the objectives of its proposed Native American language project would be accomplished more effectively through a partnership arrangement with a school, college, or university, the applicant shall identify such school, college, or university as a participating organization in the application submitted under subsection (c).
+**(d) Participating organizations** If a Tribal organization or other eligible applicant decides that the objectives of its proposed Native American language project would be accomplished more effectively through a partnership arrangement with a school, college, or university, the applicant shall identify such school, college, or university as a participating organization in the application submitted under subsection (c).
 
 **(e) Limitations on funding**
 
@@ -2012,15 +2039,15 @@ to be used to assist Native Americans in ensuring the survival and continuing vi
 
     (i) may be provided from any private or non-Federal source; and
 
-    (ii) may include funds (including interest) distributed to a tribe—
+    (ii) may include funds (including interest) distributed to a Tribe—
 
       (I) by the Federal Government pursuant to the satisfaction of a claim made under Federal law;
 
-      (II) from funds collected and administered by the Federal Government on behalf of such tribe or its constituent members; or
+      (II) from funds collected and administered by the Federal Government on behalf of such Tribe or its constituent members; or
 
-      (III) by the Federal Government for general tribal administration or tribal development under a formula or subject to a tribal budgeting priority system, such as, but not limited to, funds involved in the settlement of land or other judgment claims, severance or other royalty payments, or payments under the Indian Self-Determination Act ([25 U.S.C. 450f](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section450f&num=0&edition=prelim) et seq.) 11 See References in Text note below. or tribal budget priority system.
+      (III) by the Federal Government for general Tribal administration or Tribal development under a formula or subject to a Tribal budgeting priority system, such as, but not limited to, funds involved in the settlement of land or other judgment claims, severance or other royalty payments, or payments under the Indian Self-Determination Act ([25 U.S.C. 450f](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section450f&num=0&edition=prelim) et seq.) 11 See References in Text note below. or Tribal budget priority system.
 
-(2) **Duration** — The Secretary may make grants made under subsection (a) on a 1-year, 2-year, or 3-year basis, except that grants made under such subsection for any purpose specified in subsection (b)(7) may be made only on a 3-year basis.
+(2) **Duration** — The Secretary may make grants made under subsection (a) on a 1-year, 2-year, 3-year, 4-year, or 5-year basis, except that grants made under such subsection for any purpose specified in subsection (b)(7) may be made only on a 3-year, 4-year, or 5-year basis.
 
 **(f) Administration**
 
@@ -2042,10 +2069,10 @@ to be used to assist Native Americans in ensuring the survival and continuing vi
 
     (ii) a designee of the regional centers funded under section 3215 1 of title 20;
 
-    (iii) representatives of national, tribal, and regional organizations that focus on Native American language, or Native American cultural,22 So in original. The comma probably should not appear. research, development, or training; and
+    (iii) representatives of national, Tribal, and regional organizations that focus on Native American language, or Native American cultural,22 So in original. The comma probably should not appear. research, development, or training; and
 
     (iv) other individuals who are recognized for their expertise in the area of Native American language.
-    Recommendations for appointment to such panel shall be solicited from Indian tribes and tribal organizations.
+    Recommendations for appointment to such panel shall be solicited from Indian Tribes and Tribal organizations.
 
   (C) The duties of such panel include—
 
@@ -2070,13 +2097,13 @@ to be used to assist Native Americans in ensuring the survival and continuing vi
       (II) may be transmitted, in the discretion of the grantee, to national and regional repositories of similar material;
       for preservation and use consonant with their respective responsibilities under other Federal law.
 
-    (ii) Based on the Federal recognition of the sovereign authority of Indian tribes over all aspects of their cultures and language and except as provided in clause (iii), an Indian tribe may make a determination—
+    (ii) Based on the Federal recognition of the sovereign authority of Indian Tribes over all aspects of their cultures and language and except as provided in clause (iii), an Indian Tribe may make a determination—
 
       (I) not to transmit copies of such products under clause (i) or not to permit the redistribution of such copies; or
 
       (II) to restrict in any manner the use or redistribution of such copies after transmission under such clause.
 
-    (iii) Clause (ii) shall not be construed to authorize Indian tribes—
+    (iii) Clause (ii) shall not be construed to authorize Indian Tribes—
 
       (I) to limit the access of the Secretary to such products for purposes of administering this section or evaluating such products; or
 
@@ -2090,11 +2117,19 @@ The Indian Self-Determination Act ([25 U.S.C. 450f](https://uscode.house.gov/vie
 [Section 3215 of title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section3215&num=0&edition=prelim), referred to in subsec. (f)(2)(B)(ii), was in the original a reference to section 5135 of the Elementary and Secondary Education Act of 1965, Pub. L. 89–10. Section 5135 of that Act was omitted in the general amendment of Pub. L. 89–10 by Pub. L. 103–382, title I, § 101, Oct. 20, 1994, 108 Stat. 3519.
 
 #### Amendments
+2020—Subsecs. (d) to (f). Pub. L. 116–261 substituted “Tribe” for “tribe”, “Tribes” for “tribes”, and“Tribal” for “tribal” wherever appearing.
+
+2019—Subsec. (b)(7)(A)(i). Pub. L. 116–101, § 2(1)(A), substituted “5 children” for “10 children”.
+
+Subsec. (b)(7)(B)(i). Pub. L. 116–101, § 2(1)(B), substituted “10 students” for “15 students”.
+
+Subsec. (e)(2). Pub. L. 116–101, § 2(2), substituted “3-year, 4-year, or 5-year basis” for “or 3-year basis” and inserted “, 4-year, or 5-year” after “on a 3-year”.
+
 2006—Subsec. (b)(7). Pub. L. 109–394, § 2(1), added par. (7).
 
 Subsec. (c)(7). Pub. L. 109–394, § 2(2), added par. (7).
 
-Subsec. (e)(2). Pub. L. 109–394, § 2(3), inserted “ ,except that grants made under such subsection for any purpose specified in subsection (b)(7) may be made only on a 3-year basis” before period at end.
+Subsec. (e)(2). Pub. L. 109–394, § 2(3), inserted “, except that grants made under such subsection for any purpose specified in subsection (b)(7) may be made only on a 3-year basis” before period at end.
 
 
 <a id="section-2992a"></a>
@@ -2251,8 +2286,7 @@ Another prior section 810 of Pub. L. 88–452, title VIII, as added Pub. L. 90�
 
 <a id="section-2992-1"></a>
 ## § 2992–1. Technical assistance and training
-
-The Commissioner shall provide, directly or through other arrangements—
+**(a) In general** The Commissioner shall provide, directly or through other arrangements—
 
 (1) technical assistance to the public and private agencies in planning, developing, conducting, and administering projects under this subchapter;
 
@@ -2260,12 +2294,17 @@ The Commissioner shall provide, directly or through other arrangements—
 
 (3) upon denial of a grant application, technical assistance to a potential grantee in revising a grant proposal.
 
+**(b) Priority** In providing assistance under subsection (a), the Commissioner shall give priority to any application described in [section 2991b(b)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2991b/b/2&num=0&edition=prelim).
+
 ### Statutory Notes
 
 #### Prior Provisions
 A prior section 2991c, Pub. L. 88–452, title VIII, § 804, as added Pub. L. 93–644, § 11, Jan. 4, 1975, 88 Stat. 2324, authorized Secretary to provide technical assistance and training in developing, conducting, and administering projects under this subchapter and short-term in-service training for specialized personnel, prior to repeal by Pub. L. 102–375, § 822(4).
 
 Another prior section 2991c, Pub. L. 88–452, title VIII, § 804, as added Pub. L. 89–794, title VIII, § 801, Nov. 8, 1966, 80 Stat. 1473; amended Pub. L. 90–83, § 10(b), Sept. 11, 1967, 81 Stat. 224, provided for applicability of specified Federal laws, oath or affirmation, and status of volunteers as Federal employees and as persons employed in executive branch of Federal Government, prior to the general amendment of this subchapter by Pub. L. 90–222, title I, § 110, Dec. 23, 1967, 81 Stat. 722.
+
+#### Amendments
+2020—Pub. L. 116–261 designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
 
 
 <a id="section-2993-to-2993b"></a>
@@ -2405,7 +2444,7 @@ As used in this subchapter, the term—
 
 (2) “financial assistance” includes assistance advanced by grant, agreement, or contract, but does not include the procurement of plant or equipment, or goods or services;
 
-(3) “Indian reservation or Alaska Native village” includes the reservation of any federally or State recognized Indian tribe, including any band, nation, pueblo, or rancheria, any former reservation in Oklahoma, and community under the jurisdiction of an Indian tribe, including a band, nation, pueblo, or rancheria, with allotted lands or lands subject to a restriction against alienation imposed by the United States or a State, and any lands of or under the jurisdiction of an Alaska Native village or group, including any lands selected by Alaska Natives or Alaska Native organizations under the Alaska Native Claims Settlement Act [[43 U.S.C. 1601](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1601&num=0&edition=prelim) et seq.];
+(3) “Indian reservation or Alaska Native village” includes the reservation of any federally or State recognized Indian Tribe, including any band, nation, pueblo, or rancheria, any former reservation in Oklahoma, and community under the jurisdiction of an Indian Tribe, including a band, nation, pueblo, or rancheria, with allotted lands or lands subject to a restriction against alienation imposed by the United States or a State, and any lands of or under the jurisdiction of an Alaska Native village or group, including any lands selected by Alaska Natives or Alaska Native organizations under the Alaska Native Claims Settlement Act [[43 U.S.C. 1601](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1601&num=0&edition=prelim) et seq.];
 
 (4) “Native Hawaiian” means any individual any of whose ancestors were natives of the area which consists of the Hawaiian Islands prior to 1778;
 
@@ -2421,6 +2460,8 @@ As used in this subchapter, the term—
 The Alaska Native Claims Settlement Act, referred to in par. (3), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, as amended, which is classified generally to chapter 33 (§ 1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under [section 1601 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1601&num=0&edition=prelim) and Tables.
 
 #### Amendments
+2020—Par. (3). Pub. L. 116–261 substituted “Tribe” for “tribe” in two places.
+
 2006—Pub. L. 109–394 added par. (1) and redesignated former pars. (1) to (6) as (2) to (7), respectively.
 
 1993—Par. (2). Pub. L. 103–171, § 5(6)(A), substituted “selected by Alaska Natives” for “selected by Alaskan Natives”.
@@ -2441,11 +2482,11 @@ Amendment by Pub. L. 100–175 effective Oct. 1, 1987, see section 701(a) of Pub
 
 <a id="section-2996c"></a>
 ## § 2996c. Authorization of appropriations
-**(a)** There are authorized to be appropriated for the purpose of carrying out the provisions of this subchapter (other than sections 2991b(d), 2991b–1, 2991b–3 of this title, subsection (e) 11 See References in Text note below. of this section, and any other provision of this subchapter for which there is an express authorization of appropriations), such sums as may be necessary for each of fiscal years 1999, 2000, 2001, and 2002.
+**(a)** There are authorized to be appropriated for the purpose of carrying out the provisions of this subchapter (other than sections 2991b(e), 2991b–1, 2991b–3 of this title, subsection (d) of this section, and any other provision of this subchapter for which there is an express authorization of appropriations), $34,000,000 for each of fiscal years 2021 through 2025.
 
-**(b)** Not less than 90 per centum of the funds made available to carry out the provisions of this subchapter (other than sections 2991b(d), 2991b–1, 2991b–3, 2991c of this title, subsection (e) 1 of this section, and any other provision of this subchapter for which there is an express authorization of appropriations) for a fiscal year shall be expended to carry out [section 2991b(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2991b/a&num=0&edition=prelim) for such fiscal year.
+**(b)** Not less than 90 per centum of the funds made available to carry out the provisions of this subchapter (other than sections 2991b(e), 2991b–1, 2991b–3, 2991c of this title, subsection (d) of this section, and any other provision of this subchapter for which there is an express authorization of appropriations) for a fiscal year shall be expended to carry out [section 2991b(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2991b/a&num=0&edition=prelim) for such fiscal year.
 
-**(c)** There is authorized to be appropriated $8,000,000 for each of fiscal years 1999, 2000, 2001, and 2002, for the purpose of carrying out the provisions of [section 2991b(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2991b/d&num=0&edition=prelim).
+**(c)** There is authorized to be appropriated $8,000,000 for each of fiscal years 1999, 2000, 2001, and 2002, for the purpose of carrying out the provisions of [section 2991b(e) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2991b/e&num=0&edition=prelim).
 
 **(d)**
 
@@ -2457,14 +2498,19 @@ Amendment by Pub. L. 100–175 effective Oct. 1, 1987, see section 701(a) of Pub
 
 (2) Such a plan shall be delivered to the Congress not later than 30 days after September 30, 1992.
 
-**(e)** There are authorized to be appropriated to carry out [section 2991b–3 of this title](./chapter-034-economic-opportunity-program.md#section-2991b-3) such sums as may be necessary for each of fiscal years 2008, 2009, 2010, 2011, and 2012.
+**(e)** There are authorized to be appropriated to carry out [section 2991b–3 of this title](./chapter-034-economic-opportunity-program.md#section-2991b-3) $13,000,000 for each of fiscal years 2020 through 2024.
 
 ### Statutory Notes
 
-#### References in Text
-Subsection (e) of this section, referred to in subsecs. (a) and (b), was redesignated subsec. (d) of this section by Pub. L. 103–171, § 5(6)(D), Dec. 2, 1993, 107 Stat. 1992.
-
 #### Amendments
+2020—Subsec. (a). Pub. L. 116–261 substituted “2991b(e)” for “2991b(d)”, “$34,000,000” for “such sums as may be necessary”, and “2021 through 2025” for “1999, 2000, 2001, and 2002”.
+
+Subsecs. (b), (c). Pub. L. 116–261, § 5(c)(1), substituted “2991b(e)” for “2991b(d)”.
+
+2019—Subsecs. (a), (b). Pub. L. 116–101, § 3(b), substituted “subsection (d)” for “subsection (e)”.
+
+Subsec. (e). Pub. L. 116–101, § 3(a), substituted “$13,000,000 for each of fiscal years 2020 through 2024.” for “such sums as may be necessary for each of fiscal years 2008, 2009, 2010, 2011, and 2012.”
+
 2006—Subsec. (e). Pub. L. 109–394 substituted “2008, 2009, 2010, 2011, and 2012” for “1999, 2000, 2001, and 2002”.
 
 1998—Subsec. (a). Pub. L. 105–361, § 2(1), substituted “for each of fiscal years 1999, 2000, 2001, and 2002.” for “for fiscal years 1992, 1993, 1994, and 1995.”

@@ -17,7 +17,7 @@ source: >-
 ### Statutory Notes
 
 #### Amendments
-2018—Pub. L. 115–232 renumbered [section 3681 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section3681&num=0&edition=prelim) as this section.
+2018—Pub. L. 115–232 renumbered [section 3681 of this title](./chapter-258-other-types-of-contracts-used-for-procurements-for-particular-purposes.md#section-3681) as this section.
 
 1999—Subsec. (b). Pub. L. 106–65 substituted “under this section or any other provision of law providing for the presentation of a United States flag incident to release from active service for retirement.” for “under this section or section 6141 or 8681 of this title or [section 516 of title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section516&num=0&edition=prelim).”
 

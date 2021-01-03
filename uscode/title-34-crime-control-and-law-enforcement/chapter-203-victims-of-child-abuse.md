@@ -870,7 +870,11 @@ Section was formerly classified to [section 13024 of Title 42](https://uscode.ho
 
 (8) the term “child abuse” shall not include discipline administered by a parent or legal guardian to his or her child provided it is reasonable in manner and moderate in degree and otherwise does not constitute cruelty;
 
-(9) the term “covered individual” means an adult who is authorized, by a national governing body, a member of a national governing body, or an amateur sports organization that participates in interstate or international amateur athletic competition, to interact with a minor or amateur athlete at an amateur sports organization facility or at any event sanctioned by a national governing body, a member of a national governing body, or such an amateur sports organization;
+(9) the term “covered individual” means an adult who—
+
+  (A) is authorized, by a national governing body, a member of a national governing body, or an amateur sports organization that participates in interstate or international amateur athletic competition, to interact with a minor or amateur athlete at an amateur sports organization facility or at any event sanctioned by a national governing body, a member of a national governing body, or such an amateur sports organization; or
+
+  (B) is an employee or representative of the United States Center for SafeSport;
 
 (10) the term “event” includes travel, lodging, practice, competition, and health or medical treatment;
 
@@ -902,6 +906,8 @@ Another subsec. (g) of section 226 of Pub. L. 101–647 enacted [section 2258 of
 Section was formerly classified to [section 13031 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section13031&num=0&edition=prelim), The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
 
 #### Amendments
+2020—Subsec. (c)(9). Pub. L. 116–189 substituted “adult who—” for “adult who”, inserted subpar. (A) designation before “is authorized”, and added subpar. (B).
+
 2018—Subsec. (a). Pub. L. 115–126, § 101(a)(1), designated existing provisions as par. (1), inserted heading, and added par. (2).
 
 Subsec. (b). Pub. L. 115–126, § 101(a)(2), substituted “subsection (a)(1)” for “subsection (a)” in introductory provisions.

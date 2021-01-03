@@ -301,7 +301,7 @@ Section was enacted as part of the National Defense Authorization Act for Fiscal
 
 **(f) Requirement for strategic plan**
 
-(1) The Under Secretary of Defense for Acquisition, Technology, and Logistics and the Secretary of the Army shall jointly prepare, and from time to time shall update as appropriate, a strategic plan for future activities for destruction of the United States’ stockpile of lethal chemical agents and munitions.
+(1) The Under Secretary of Defense for Acquisition and Sustainment and the Secretary of the Army shall jointly prepare, and from time to time shall update as appropriate, a strategic plan for future activities for destruction of the United States’ stockpile of lethal chemical agents and munitions.
 
 (2) The plan shall include, at a minimum, the following considerations:
 
@@ -317,7 +317,7 @@ Section was enacted as part of the National Defense Authorization Act for Fiscal
 
 (1) In carrying out this section, the Secretary of Defense shall provide for a management organization within the Department of the Army. The Secretary of the Army shall be responsible for management of the destruction of agents and munitions at all sites except Blue Grass Army Depot, Kentucky, and Pueblo Chemical Depot, Colorado 11 So in original. Probably should be followed by a period.
 
-(2) The program manager for the Assembled Chemical Weapons Alternative Program shall be responsible for management of the construction, operation, and closure, and any contracting relating thereto, of chemical demilitarization activities at Blue Grass Army Depot, Kentucky, and Pueblo Army Depot, Colorado, including management of the pilot-scale facility phase of the alternative technology selected for the destruction of lethal chemical munitions. In performing such management, the program manager shall act independently of the Army program manager for Chemical Demilitarization and shall report to the Under Secretary of Defense for Acquisition, Technology, and Logistics 1
+(2) The program manager for the Assembled Chemical Weapons Alternative Program shall be responsible for management of the construction, operation, and closure, and any contracting relating thereto, of chemical demilitarization activities at Blue Grass Army Depot, Kentucky, and Pueblo Army Depot, Colorado, including management of the pilot-scale facility phase of the alternative technology selected for the destruction of lethal chemical munitions. In performing such management, the program manager shall act independently of the Army program manager for Chemical Demilitarization and shall report to the Under Secretary of Defense for Acquisition and Sustainment.
 
 (3) The Secretary of Defense shall designate a general officer or civilian equivalent as the director of the management organization established under paragraph (1). Such officer shall have—
 
@@ -487,11 +487,17 @@ The Solid Waste Disposal Act, referred to in subsecs. (c)(3) and (m)(8), is titl
 The Clean Air Act, referred to in subsec. (c)(3), is act July 14, 1955, ch. 360, 69 Stat. 322, which is classified generally to chapter 85 (§ 7401 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 7401 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section7401&num=0&edition=prelim) and Tables.
 
 #### Codification
+Pub. L. 116–92, § 902(91), which directed amendment of subsecs. (f)(1) and (g)(2) of section 1412 of the National Defense Authorization Act, 1986 ([50 U.S.C. 1521](./chapter-032-chemical-and-biological-warfare-program.md#section-1521)), was executed by making the amendment to subsecs. (f)(1) and (g)(2) of this section, which is section 1412 of the Department of Defense Authorization Act, 1986, to reflect the probable intent of Congress.
+
 Pub. L. 109–163, § 921, which directed amendment of subsec. (c)(4) of this section effective Dec. 5, 1991, and applicable with respect to any cooperative agreement entered into on or after that date, was executed to subsec. (c)(4) of this section as in effect on the date of enactment of Pub. L. 109–163, to reflect the probable intent of Congress. This section did not contain a subsec. (c)(4) on Dec. 5, 1991. See 2006 Amendment note and Effective Date of 2006 Amendment note below.
 
 Section was enacted as part of the Department of Defense Authorization Act, 1986, and not as part of Pub. L. 91–121, title IV, § 409, Nov. 19, 1969, 83 Stat. 209, which comprises this chapter.
 
 #### Amendments
+2019—Subsec. (f)(1). Pub. L. 116–92, § 902(91)(A), substituted “Under Secretary of Defense for Acquisition and Sustainment” for “Under Secretary of Defense for Acquisition, Technology, and Logistics”. See Codification note above.
+
+Subsec. (g)(2). Pub. L. 116–92, § 902(91)(B), substituted “Under Secretary of Defense for Acquisition and Sustainment.” for “Under Secretary of Defense for Acquisition, Technology, and Logistics”. See Codification note above.
+
 2018—Subsec. (j). Pub. L. 115–232, § 1424(1), substituted “Quarterly briefing” for “Semiannual reports” in heading.
 
 Subsec. (j)(1). Pub. L. 115–232, § 1424(2), substituted “Not later than 90 days after August 13, 2018, and every 90 days thereafter until” for “Not later than March 1 and September 1 each year until the year in which”, “brief the members” for “submit to the members”, “on the progress made” for “a report on the implementation”, and “toward fulfilling its chemical weapons destruction obligations” for “of its chemical weapons destruction obligations”.
@@ -669,8 +675,17 @@ Pub. L. 100–180, div. A, title I, § 125, Dec. 4, 1987, 101 Stat. 1043, which 
 
 ### Statutory Notes
 
+#### Amendment of Section
+Pub. L. 116–283, div. A, title XVIII, §§ 1801(d), 1846(i)(6), Jan. 1, 2021, 134 Stat. 4151, 4252, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, this section is amended by striking “section 2430” and inserting “section 4201”. See 2021 Amendment note below.
+
 #### Codification
 Section was enacted as part of the Bob Stump National Defense Authorization Act for Fiscal Year 2003, and not as part of Pub. L. 91–121, title IV, § 409, Nov. 19, 1969, 83 Stat. 209, which comprises this chapter.
+
+#### Amendments
+2021—Subsec. (a). Pub. L. 116–283 substituted “section 4201” for “section 2430”.
+
+#### Effective Date of 2021 Amendment
+Amendment by section 1846(i)(6) of Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding [section 3001 of this title](./chapter-044-national-security.md#section-3001).
 
 #### “Congressional Defense Committees” Defined
 Congressional defense committees means the Committees on Armed Services and Appropriations of the Senate and the House of Representatives, see section 3 of Pub. L. 107–314, 116 Stat. 2471. See note under [section 101 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section101&num=0&edition=prelim), Armed Forces.
@@ -739,6 +754,9 @@ Subsec. (d)(1). Pub. L. 104–201, § 228(b)(1), substituted “program for the 
 Subsec. (d)(2). Pub. L. 104–201, § 228(b)(2), in first sentence, inserted “(other than for activities under the program conducted by the Defense Advanced Research Projects Agency under subsection (c)(2))” after “requests for the program”.
 
 Subsec. (d)(3), (4). Pub. L. 104–201, § 228(b)(3), (4), added par. (3) and redesignated former par. (3) as (4).
+
+#### Implementation of GAO Recommendations on Preparedness of United States Forces to Counter North Korean Chemical and Biological Weapons
+Pub. L. 116–283, div. A, title XII, § 1259, Jan. 1, 2021, 134 Stat. 3958, provided that: “(a) Plan Required.—“(1) In general.—The Secretary of Defense shall develop a plan to address the recommendations in the U.S. Government Accountability Office’s report entitled ‘Preparedness of U.S. Forces to Counter North Korean Chemical and Biological Weapons’ (GAO–21–104C). “(2) Elements.—The plan required under paragraph (1) shall, with respect to each recommendation in the report described in paragraph (1) that the Secretary of Defense has implemented or intends to implement, include—“(A) a summary of actions that have been or will be taken to implement the recommendation; and “(B) a schedule, with specific milestones, for completing implementation of the recommendation. “(b) Submission to Congress.—Not later than 1 year after the date of the enactment of this Act [Jan. 1, 2021], the Secretary of Defense shall submit to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] the plan required under subsection (a). “(c) Deadline for Implementation.—“(1) In general.—Except as provided in paragraph (2), not later than 18 months after the date of the enactment of this Act, the Secretary of Defense shall carry out activities to implement the plan developed under subsection (a). “(2) Exception for implementation of certain recommendations.—“(A) Delayed implementation.—The Secretary of Defense may initiate implementation of a recommendation in the report described in subsection (a)(1) after the date specified in paragraph (1) if the Secretary provides the congressional defense committees with a specific justification for the delay in implementation of such recommendation on or before such date. “(B) Nonimplementation.—The Secretary of Defense may decide not to implement a recommendation in the report described in subsection (a)(1) if the Secretary provides to the congressional defense committees, on or before the date specified in paragraph (1)—“(i) a specific justification for the decision not to implement the recommendation; and “(ii) a summary of alternative actions the Secretary plans to take to address the conditions underlying the recommendation.”
 
 #### National Bio-Weapons Defense Analysis Center
 Pub. L. 107–296, title XVII, § 1708, Nov. 25, 2002, 116 Stat. 2318, provided that: “There is established in the Department of Defense a National Bio-Weapons Defense Analysis Center, whose mission is to develop countermeasures to potential attacks by terrorists using weapons of mass destruction.”

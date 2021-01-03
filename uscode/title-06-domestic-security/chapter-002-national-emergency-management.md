@@ -77,6 +77,9 @@ Any reference to the Administrator of the Federal Emergency Management Agency in
 #### Effective Date
 Pub. L. 109–295, title VI, § 614, Oct. 4, 2006, 120 Stat. 1411, provided that: “(a) In General.—Except as provided in subsection (b), this title [see Tables for classification] and the amendments made by this title shall take effect on the date of enactment of this Act [Oct. 4, 2006]. “(b) Exceptions.—The following shall take effect on March 31, 2007:“(1) The amendments made by section 611(11) [enacting [section 313 of this title](./chapter-001-homeland-security-organization.md#section-313)]. “(2) The amendments made by section 611(12) [amending [section 314 of this title](./chapter-001-homeland-security-organization.md#section-314)]. “(3) Sections 505, 507, 508, and 514 of the Homeland Security Act of 2002 [sections 315, 317, 318, and 321c of this title], as amended by section 611(13) of this Act. “(4) The amendments made by subsection (a) [sic]. “(5) The amendments made by subsection (b)(1) [sic].”
 
+#### Short Title of 2020 Amendment
+Pub. L. 116–272, § 1, Dec. 31, 2020, 134 Stat. 3349, provided that: “This Act [amending [section 791 of this title](./chapter-002-national-emergency-management.md#section-791) and enacting provisions set out as notes under [section 791 of this title](./chapter-002-national-emergency-management.md#section-791)] may be cited as the ‘Federal Advance Contracts Enhancement Act’ or the ‘FACE Act’.”
+
 #### Short Title of 2019 Amendment
 Pub. L. 116–64, § 1, Oct. 9, 2019, 133 Stat. 1122, provided that: “This Act [amending [section 748 of this title](./chapter-002-national-emergency-management.md#section-748)] may be cited as the ‘Terrorist and Foreign Fighter Travel Exercise Act of 2019’.”
 
@@ -856,23 +859,24 @@ Subsec. (d). Pub. L. 86–500 reenacted subsection without change.
 For termination, effective May 15, 2000, of provisions of law requiring submittal to Congress of any annual, semiannual, or other regular periodic report listed in House Document No. 103–7 (in which a report required under 50 U.S.C. app. 2285(b) (now subsec. (b) of this section) is listed as the 10th item on page 169), see section 3003 of Pub. L. 104–66, as amended, set out as a note under [section 1113 of Title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1113&num=0&edition=prelim), Money and Finance.
 
 #### Transfer of Functions
-Functions of Federal Civil Defense Administration transferred to President by section 1 of Reorg. Plan No. 1 of 1958, eff. July 1, 1958, 23 F.R. 4991, 72 Stat. 1799, as amended, set out as a note under [section 5195 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5195&num=0&edition=prelim), The Public Health and Welfare. The Plan created a new agency in Executive Office of President known as Office of Defense and Civilian Mobilization.
-
 Pub. L. 85–763, Aug. 26, 1958, 72 Stat. 861, amended Reorg. Plan No. 1 of 1958 by redesignating Office of Defense and Civilian Mobilization as Office of Civil and Defense Mobilization.
 
 Pub. L. 87–296, Sept. 22, 1961, 75 Stat. 630, amended Reorg. Plan No. 1 of 1958 by redesignating Office of Civil and Defense Mobilization as Office of Emergency Planning.
 
 Office of Emergency Planning renamed Office of Emergency Preparedness pursuant to section 402 of Pub. L. 90–608, Oct. 21, 1968, 82 Stat. 1194, which provided that references to Office of Emergency Planning after Oct. 21, 1968, should be deemed references to Office of Emergency Preparedness.
 
+For transfer of all functions, personnel, assets, components, authorities, grant programs, and liabilities of the Federal Emergency Management Agency, including the functions of the Under Secretary for Federal Emergency Management relating thereto, to the Federal Emergency Management Agency, see [section 315(a)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section315/a/1&num=0&edition=prelim).
+
+For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see former section 313(1) and sections 551(d), 552(d), and 557 of this title, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of this title](./chapter-001-homeland-security-organization.md#section-542).
+
+#### Transfer of Functions
+Functions of Federal Civil Defense Administration transferred to President by section 1 of Reorg. Plan No. 1 of 1958, eff. July 1, 1958, 23 F.R. 4991, 72 Stat. 1799, as amended, set out as a note under [section 5195 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5195&num=0&edition=prelim), The Public Health and Welfare. The Plan created a new agency in Executive Office of President known as Office of Defense and Civilian Mobilization.
+
 Office of Emergency Preparedness, including offices of Director, Deputy Director, Assistant Directors, and Regional Directors, abolished and functions vested by law in Office of Emergency Preparedness or Director of Office of Emergency Preparedness transferred to President by sections 1 and 3(a)(1) of Reorg. Plan No. 1 of 1973, eff. July 1, 1973, 38 F.R. 9579, 87 Stat. 1089, set out as a note under [section 5195 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5195&num=0&edition=prelim), The Public Health and Welfare.
 
 Functions vested in Director of Office of Emergency Preparedness as of June 30, 1973, by Executive Order, proclamation, or other directive issued by or on behalf of President or otherwise, with certain exceptions, transferred to Administrator of General Services, effective July 1, 1973, by Ex. Ord. No. 11725, § 3, eff. June 29, 1973, 38 F.R. 17175, formerly set out as a note under section 2271 of the former Appendix to Title 50, War and National Defense.
 
 Functions of Administrator of Federal Civil Defense Administration under this section, previously transferred to President, delegated to Director of Federal Emergency Management Agency by section 4–105 of Ex. Ord. No. 12148, July 20, 1979, 44 F.R. 43242, set out as a note under [section 5195 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5195&num=0&edition=prelim), The Public Health and Welfare.
-
-For transfer of all functions, personnel, assets, components, authorities, grant programs, and liabilities of the Federal Emergency Management Agency, including the functions of the Under Secretary for Federal Emergency Management relating thereto, to the Federal Emergency Management Agency, see [section 315(a)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section315/a/1&num=0&edition=prelim).
-
-For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see former section 313(1) and sections 551(d), 552(d), and 557 of this title, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of this title](./chapter-001-homeland-security-organization.md#section-542).
 
 
 <a id="section-772"></a>
@@ -1207,6 +1211,57 @@ Section is comprised of section 689b of Pub. L. 109–295. Subsec. (c) of sectio
 **(c) Maintenance of contracts** After the date described under subsection (b), the Administrator shall have the responsibility to maintain contracts for appropriate levels of goods and services in accordance with subsection (a)(1)(C).
 
 **(d) Report on contracts not using competitive procedures** At the end of each fiscal quarter, beginning with the first fiscal quarter occurring at least 90 days after October 4, 2006, the Administrator shall submit a report on each disaster assistance contract entered into by the Agency by other than competitive procedures to the appropriate committees of Congress.
+
+**(e) Updated report** Not later than 180 days after December 31, 2020, the Administrator shall submit to the appropriate committees of Congress an updated report that contains—
+
+(1) the information required in the initial report under subparagraphs (A) and (B) of subsection (a)(1); and
+
+(2) an updated strategy described in subsection (a)(1)(C) that clearly defines—
+
+  (A) the objectives of advance contracts;
+
+  (B) how advance contracts contribute to disaster response operations of the Agency;
+
+  (C) how to maximize the award of advance contracts to small business concerns, as defined in [section 632 of title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section632&num=0&edition=prelim); and
+
+  (D) whether and how advance contracts should be prioritized in relation to new post-disaster contract awards.
+
+**(f) Additional Duties of the Administrator**
+
+(1) **Head of contracting** — The Administrator shall ensure that the head of contracting activity of the Agency—
+
+  (A) not later than 270 days after December 31, 2020, updates the Disaster Contracting Desk Guide of the Agency to provide specific guidance—
+
+    (i) on whether and under what circumstances contracting officers should consider using existing advance contracts entered into in accordance with this section prior to making new post-disaster contract awards, and include this guidance in existing semi-annual training given to contracting officers; and
+
+    (ii) for contracting officers to perform outreach to State and local governments on the potential benefits of establishing their own pre-negotiated advance contracts;
+
+  (B) adheres to hard copy contract file management requirements in effect to ensure that the files relating to advance contracts entered into in accordance with this section are complete and up to date, whether the files will be transferred into the Electronic Contract Filing System of the Agency or remain in hard copy format;
+
+  (C) notifies contracting officers of the 3-day time frame requirement for entering completed award documentation into the contract writing system of the Agency when executing notice to proceed documentation;
+
+  (D) not later than 180 days after December 31, 2020, revises the reporting methodology of the Agency to ensure that all disaster contracts are included in each quarterly report submitted to the appropriate congressional committees under this section on disaster contract actions;
+
+  (E) identifies a single centralized resource listing advance contracts entered into under this section and ensures that source is current and up to date and includes all available advance contracts; and
+
+  (F) communicates complete and up-to-date information on available advance contracts to State and local governments to inform their advance contracting efforts.
+
+(2) **Master acquisition planning schedule** — Not later than 180 days after December 31, 2020, the Administrator shall update and implement guidance for program office and acquisition personnel of the Agency to—
+
+  (A) identify acquisition planning time frames and considerations across the entire acquisition planning process of the Agency; and
+
+  (B) clearly communicate the purpose and use of a master acquisition planning schedule.
+
+### Statutory Notes
+
+#### Amendments
+2020—Subsecs. (e), (f). Pub. L. 116–272 added subsecs. (e) and (f).
+
+#### Findings
+Pub. L. 116–272, § 2, Dec. 31, 2020, 134 Stat. 3349, provided that: “Congress finds that— “(1) the Post-Katrina Emergency Management and Reform Act of 2006 [Post-Katrina Emergency Management Reform Act of 2006] (Public Law 109–925 [Pub. L. 109–295, title VI]; 120 Stat. 1394) required the Federal Emergency Management Agency to establish advance contracts, which are established prior to disasters and are typically needed to quickly provide life-sustaining goods and services in the immediate aftermath of a disaster; “(2) the catastrophic hurricanes and wildfires in the United States in 2017 highlighted the importance of these advance contracts in disaster response; “(3) in a report issued by the Government Accountability Office entitled ‘2017 Disaster Contracting: Action Needed to Better Ensure More Effective Use and Management of Advance Contracts’, the Government Accountability Office identified a number of challenges with advance contracts and recommended actions to improve management by the Federal Emergency Management Agency of these contracts for future disasters; and “(4) section 691 of the Post-Katrina Emergency Management Reform Act of 2006 ([6 U.S.C. 791](./chapter-002-national-emergency-management.md#section-791)) should be amended to incorporate the recommendations made by the report described in paragraph (3) to ensure more effective use and management of advance contracts.”
+
+#### Report
+Pub. L. 116–272, § 3(b), Dec. 31, 2020, 134 Stat. 3351, provided that: “The Administrator of the Federal Emergency Management Agency shall regularly update the appropriate committees of Congress (as defined in section 602 of the Post-Katrina Emergency Management Reform Act of 2006 ([6 U.S.C. 701](./chapter-002-national-emergency-management.md#section-701))) on the progress of the Federal Emergency Management Agency in implementing the recommendations of the Government Accountability Office in the report entitled ‘2017 Disaster Contracting: Action Needed to Better Ensure More Effective Use and Management of Advance Contracts’, as required under section 691 of the Post-Katrina Emergency Management Reform Act of 2006 ([6 U.S.C. 791](./chapter-002-national-emergency-management.md#section-791)), as amended by subsection (a).”
 
 
 <a id="section-793"></a>

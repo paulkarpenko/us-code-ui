@@ -2,7 +2,7 @@
 title: 16
 chapter: '33'
 heading: COASTAL ZONE MANAGEMENT
-section_count: 25
+section_count: 26
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16&num=0&edition=prelim
 ---
@@ -51,6 +51,9 @@ Subsecs. (k) to (m). Pub. L. 101–508, § 6203(a)(3), added subsecs. (k) to (m)
 1976—Subsec. (b). Pub. L. 94–370, § 2(1), inserted “ecological,” after “recreational,”.
 
 Subsec. (i). Pub. L. 94–370, § 2(3), added subsec. (i).
+
+#### Short Title of 2020 Amendment
+Pub. L. 116–223, § 1, Dec. 18, 2020, 134 Stat. 1067, provided that: “This Act [enacting [section 1467 of this title](./chapter-033-coastal-zone-management.md#section-1467) and provisions set out as notes under [section 1467 of this title](./chapter-033-coastal-zone-management.md#section-1467)] may be cited as the ‘Digital Coast Act’.”
 
 #### Short Title of 2009 Amendment
 Pub. L. 111–11, title XII, § 12501, Mar. 30, 2009, 123 Stat. 1442, provided that: “This Act [probably should be “subtitle”, meaning subtitle E (§§ 12501, 12502) of title XII of Pub. L. 111–11, enacting [section 1456–1 of this title](./chapter-033-coastal-zone-management.md#section-1456-1)] may be cited as the ‘Coastal and Estuarine Land Conservation Program Act’.”
@@ -280,7 +283,7 @@ Par. (16). Pub. L. 94–370, § 3(10), redesignated par. (h) as (16) and substit
 #### Termination of Trust Territory of the Pacific Islands
 For termination of Trust Territory of the Pacific Islands, see note set out preceding [section 1681 of Title 48](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title48-section1681&num=0&edition=prelim), Territories and Insular Possessions.
 
-#### Proc. No. 5030. Exclusive Economic Zone
+#### Proc. No. 5030. Exclusive Economic Zone of the United States of America
 Proc. No. 5030, Mar. 10, 1983, 48 F.R. 10605, provided:
 
 WHEREAS the Government of the United States of America desires to facilitate the wise development and use of the oceans consistent with international law;
@@ -304,6 +307,43 @@ Without prejudice to the sovereign rights and jurisdiction of the United States,
 IN WITNESS WHEREOF, I have hereunto set my hand this tenth day of March, in the year of our Lord nineteen hundred and eighty-three, and of the Independence of the United States of America the two hundred and seventh.
 
 Ronald Reagan.
+
+#### Proc. No. 10071. Revision to United States Marine Scientific Research Policy
+Proc. No. 10071, Sept. 9, 2020, 85 F.R. 59165, provided:
+
+The United Nations Convention on the Law of the Sea of 10 December 1982 (Convention) generally reflects customary international law. Section 3 of Part XIII of the Convention provides that coastal states, in the exercise of their jurisdiction, have the right to regulate, authorize, and conduct marine scientific research in their Exclusive Economic Zone (EEZ) and on their continental shelf. Marine scientific research in the EEZ or on the continental shelf shall be conducted with the consent of the coastal state.
+
+In Proclamation 5030 of March 10, 1983 (Exclusive Economic Zone of the United States of America) [set out above], the President announced the establishment of the EEZ of the United States. The Proclamation asserts the sovereign rights and jurisdiction of the United States in its EEZ and confirms the rights and freedoms of all states, as provided under international law. In an accompanying Presidential Statement of March 10, 1983 (United States Oceans Policy), the President acknowledged that international law allows coastal states to exercise jurisdiction over marine scientific research in their respective EEZs, but stated that the United States had elected not to do so to the fullest extent permitted under international law, in an effort to encourage such research. Presidential Decision Directive-36 of April 5, 1995 (United States Policy on Protecting the Ocean Environment), emphasizes that the policy of the United States is to protect and monitor the ocean and coastal environment and conserve living marine resources, recognizing that doing so, in an open and collaborative manner, supports our economic and national security interests.
+
+In Executive Order 13840 of June 19, 2018 (Ocean Policy to Advance the Economic, Security, and Environmental Interests of the United States) [[33 U.S.C. 857–19](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section857–19&num=0&edition=prelim) note], I reaffirmed that the United States will continue to promote lawful use of the ocean by agencies, including the Armed Forces, and that the United States will continue to exercise its rights and jurisdiction and perform duties in accordance with applicable international law, including customary international law. Further, the United States will use the best available ocean-related science and knowledge, in partnership with the science and technology communities, to inform decisions and enhance entrepreneurial opportunities. In the Presidential Memorandum of November 19, 2019 (Ocean Mapping of the United States Exclusive Economic Zone and the Shoreline and Nearshore of Alaska) [[33 U.S.C. 3501](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section3501&num=0&edition=prelim) note], I affirmed the importance of understanding our ocean systems and natural resources to our security, economic, and environmental interests.
+
+Likewise, the exercise of jurisdiction by the United States over marine scientific research in its EEZ and on its continental shelf will result in greater access to data collected during such research and will increase maritime domain awareness, thereby reducing potential exposure to security, economic, and environmental risks.
+
+NOW, THEREFORE, I, DONALD J. TRUMP, President of the United States of America, by virtue of the authority vested in me by the Constitution and the laws of the United States, do hereby proclaim the following:
+
+Section 1. Policy. The United States will exercise its right to regulate, authorize, and conduct marine scientific research, with a specific requirement to authorize, in advance, all instances of foreign marine scientific research, in the United States EEZ and on its continental shelf to the extent permitted under international law.
+
+Sec. 2. Implementation. The Secretary of State (Secretary) shall have lead responsibility for implementing this proclamation, in consultation with relevant executive departments and agencies (agencies) and with the Ocean Policy Committee established in Executive Order 13840 (Ocean Policy Committee).
+
+Sec. 3. Intelligence. The Intelligence Community of the Federal Government shall support the implementation of this proclamation, as appropriate.
+
+Sec. 4. Information Sharing. To facilitate the process for reviewing applications for marine scientific research, agencies not part of the Intelligence Community shall share information related to marine scientific research with the Department of State, to the maximum extent authorized by law.
+
+Sec. 5. Termination. This proclamation shall remain in effect until terminated by the President. At any time, but not less frequently than every 2 years from the date of this proclamation [Sept. 9, 2020], the Secretary may recommend that the President modify or terminate this proclamation. Any such recommendation by the Secretary shall be coordinated with the National Security Council staff and the Ocean Policy Committee.
+
+Sec. 6. General Provisions. (a) Nothing in this proclamation shall be construed to impair or otherwise affect:
+
+(i) the authority granted by law to an executive department or agency, or the head thereof; or
+
+(ii) the functions of the Director of the Office of Management and Budget relating to budgetary, administrative, or legislative proposals.
+
+(b) This proclamation shall be implemented consistent with applicable law and subject to the availability of appropriations.
+
+(c) This proclamation is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+
+IN WITNESS WHEREOF, I have hereunto set my hand this ninth day of September, in the year of our Lord two thousand twenty, and of the Independence of the United States of America the two hundred and forty-fifth.
+
+Donald J. Trump.
 
 
 <a id="section-1454"></a>
@@ -1420,7 +1460,7 @@ Subsec. (c). Pub. L. 96–464, § 10(3), added subsec. (c).
 For termination, effective May 15, 2000, of provisions in subsec. (a) of this section relating to transmittal to Congress of a biennial report summarizing the administration of this chapter, see section 3003 of Pub. L. 104–66, as amended, set out as a note under [section 1113 of Title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1113&num=0&edition=prelim), Money and Finance, and page 53 of House Document No. 103–7.
 
 #### Shellfish Sanitation
-Pub. L. 94–370, § 16, July 26, 1976, 90 Stat. 1032, provided that: “(a) The Secretary of Commerce shall—“(1) undertake a comprehensive review of all aspects of the molluscan shellfish industry, including, but not limited to, the harvesting, processing, and transportation of such shellfish; and “(2) evaluate the impact of Federal law concerning water quality on the molluscan shellfish industry. The Secretary of Commerce shall, not later than April 30, 1977, submit a report to the Congress of the findings, comments, and recommendations (if any) which result from such review and evaluation. “(b) The Secretary of Health, Education, and Welfare [now Health and Human Services] shall not promulgate final regulations concerning the national shellfish safety program before June 30, 1977. At least 60 days prior to the promulgation of any such regulations, the Secretary of Health, Education, and Welfare, in consultation with the Secretary of Commerce, shall publish an analysis (1) of the economic impact of such regulations on the domestic shellfish industry, and (2) the cost of such national shellfish safety program relative to the benefits that it is expected to achieve.”
+Pub. L. 94–370, § 16, July 26, 1976, 90 Stat. 1032, required the Secretary of Commerce to undertake a comprehensive review of the molluscan shellfish industry, and evaluate the impact of Federal law concerning water quality on the industry, with a report due to Congress by Apr. 30, 1977, of the findings, comments, and recommendations from the review, with final regulations to be promulgated not before June 30, 1977.
 
 #### Assignment of Reporting Function
 Memorandum of President of the United States, Aug. 5, 2005, 70 F.R. 46397, provided:
@@ -1653,3 +1693,128 @@ The Coastal Zone Management Act of 1972, referred to in text, is title III of Pu
 
 #### Codification
 Section was enacted as part of the Energy Policy Act of 2005, and not as part of the Coastal Zone Management Act of 1972 which comprises this chapter.
+
+
+<a id="section-1467"></a>
+## § 1467. Establishment of the Digital Coast
+**(a) Establishment**
+
+(1) **In general** — The Secretary shall establish a program for the provision of an enabling platform that integrates geospatial data, decision-support tools, training, and best practices to address coastal management issues and needs. Under the program, the Secretary shall strive to enhance resilient communities, ecosystem values, and coastal economic growth and development by helping communities address their issues, needs, and challenges through cost-effective and participatory solutions.
+
+(2) **Designation** — The program established under paragraph (1) shall be known as the “Digital Coast” (in this section referred to as the “program”).
+
+**(b) Program requirements** In carrying out the program, the Secretary shall ensure that the program provides data integration, tool development, training, documentation, dissemination, and archive by—
+
+(1) making data and resulting integrated products developed under this section readily accessible via the Digital Coast internet website of the National Oceanic and Atmospheric Administration, the GeoPlatform.gov and data.gov internet websites, and such other information distribution technologies as the Secretary considers appropriate;
+
+(2) developing decision-support tools that use and display resulting integrated data and provide training on use of such tools;
+
+(3) documenting such data to Federal Geographic Data Committee standards; and
+
+(4) archiving all raw data acquired under this Act at the appropriate National Oceanic and Atmospheric Administration data center or such other Federal data center as the Secretary considers appropriate.
+
+**(c) Coordination** The Secretary shall coordinate the activities carried out under the program to optimize data collection, sharing, and integration, and to minimize duplication by—
+
+(1) consulting with coastal managers and decision makers concerning coastal issues, and sharing information and best practices, as the Secretary considers appropriate, with—
+
+  (A) coastal States;
+
+  (B) local governments; and
+
+  (C) representatives of academia, the private sector, and nongovernmental organizations;
+
+(2) consulting with other Federal agencies, including interagency committees, on relevant Federal activities, including activities carried out under the Ocean and Coastal Mapping Integration Act ([33 U.S.C. 3501](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section3501&num=0&edition=prelim) et seq.), the Coastal Zone Management Act of 1972 ([16 U.S.C. 1451](./chapter-033-coastal-zone-management.md#section-1451) et seq.), the Integrated Coastal and Ocean Observation System Act of 2009 ([33 U.S.C. 3601](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section3601&num=0&edition=prelim) et seq.), and the Hydrographic Services Improvement Act of 1998 ([33 U.S.C. 892](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section892&num=0&edition=prelim) et seq.);
+
+(3) participating, pursuant to section 216 of the E-Government Act of 2002 (Public Law 107–347; [44 U.S.C. 3501](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section3501&num=0&edition=prelim) note), in the establishment of such standards and common protocols as the Secretary considers necessary to assure the interoperability of remote sensing and other geospatial data with all users of such information within—
+
+  (A) the National Oceanic and Atmospheric Administration;
+
+  (B) other Federal agencies;
+
+  (C) State and local government; and
+
+  (D) the private sector;
+
+(4) coordinating with, seeking assistance and cooperation of, and providing liaison to the Federal Geographic Data Committee pursuant to Office of Management and Budget Circular A–16 and Executive Order 12906 of April 11, 1994 (59 Fed. Reg. 17671), as amended by Executive Order 13286 of February 28, 2003 (68 Fed. Reg. 10619); and
+
+(5) developing and maintaining a best practices document that sets out the best practices used by the Secretary in carrying out the program and providing such document to the United States Geological Survey, the Corps of Engineers, and other relevant Federal agencies.
+
+**(d) Filling needs and gaps** In carrying out the program, the Secretary shall—
+
+(1) maximize the use of remote sensing and other geospatial data collection activities conducted for other purposes and under other authorities;
+
+(2) focus on filling data needs and gaps for coastal management issues, including with respect to areas that, as of December 18, 2020, were underserved by coastal data and the areas of the Arctic that are under the jurisdiction of the United States;
+
+(3) pursuant to the Ocean and Coastal Mapping Integration Act ([33 U.S.C. 3501](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section3501&num=0&edition=prelim) et seq.), support continue improvement in existing efforts to coordinate the acquisition and integration of key data sets needed for coastal management and other purposes, including—
+
+  (A) coastal elevation data;
+
+  (B) land use and land cover data;
+
+  (C) socioeconomic and human use data;
+
+  (D) critical infrastructure data;
+
+  (E) structures data;
+
+  (F) living resources and habitat data;
+
+  (G) cadastral data; and
+
+  (H) aerial imagery; and
+
+(4) integrate the priority supporting data set forth under paragraph (3) with other available data for the benefit of the broadest measure of coastal resource management constituents and applications.
+
+**(e) Financial agreements and contracts**
+
+(1) **In general** — In carrying out the program, the Secretary—
+
+  (A) may enter into financial agreements to carry out the program, including—
+
+    (i) support to non-Federal entities that participate in implementing the program; and
+
+    (ii) grants, cooperative agreements, interagency agreements, contracts, or any other agreement on a reimbursable or non-reimbursable basis, with other Federal, tribal, State, and local governmental and nongovernmental entities; and
+
+  (B) may, to the maximum extent practicable, enter into such contracts with private sector entities for such products and services as the Secretary determines may be necessary to collect, process, and provide remote sensing and other geospatial data and products for purposes of the program.
+
+(2) **Fees**
+
+  (A) *Assessment and collection* — The Secretary may, to the extent provided in advance in appropriations Acts, assess and collect fees for the conduct of any training, workshop, or conference that advances the purposes of the program.
+
+  (B) *Amounts* — The amount of a fee under this paragraph may not exceed the sum of costs incurred, or expected to be incurred, by the Secretary as a direct result of the conduct of the training, workshop, or conference, including for subsistence expenses incidental to the training, workshop, or conference, as applicable.
+
+  (C) *Use of fees* — Amounts collected by the Secretary in the form of fees under this paragraph shall be available to the extent and in such amounts as are provided in advance in appropriations Acts for—
+
+    (i) the costs incurred for conducting an activity described in subparagraph (A); or
+
+    (ii) the expenses described in subparagraph (B).
+
+(3) **Survey and mapping** — Contracts entered into under paragraph (1)(B) shall be considered “surveying and mapping” services as such term is used in and as such contracts are awarded by the Secretary in accordance with the selection procedures in chapter 11 of title 40.
+
+**(f) Ocean economy** The Secretary may establish publically available tools that track ocean and Great Lakes economy data for each coastal State.
+
+**(g) Authorization of appropriations** There is authorized to be appropriated to the Secretary $4,000,000 for each fiscal year 2021 through 2025 to carry out the program.
+
+### Statutory Notes
+
+#### References in Text
+This Act, referred to in subsec. (b)(4), is Pub. L. 116–223, Dec. 18, 2020, 134 Stat. 1067, known as the Digital Coast Act. For complete classification of this Act to the Code, see Short Title of 2020 Amendment note set out under [section 1451 of this title](./chapter-033-coastal-zone-management.md#section-1451) and Tables.
+
+The Ocean and Coastal Mapping Integration Act, referred to in subsecs. (c)(2) and (d)(3), is subtitle B of title XII of Pub. L. 111–11, Mar. 30, 2009, 123 Stat. 1421, which is classified generally to chapter 48 (§ 3501 et seq.) of Title 33, Navigation and Navigable Waters. For complete classification of this Act to the Code, see Short Title note set out under [section 3501 of Title 33](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section3501&num=0&edition=prelim) and Tables.
+
+The Coastal Zone Management Act of 1972, referred to in subsec. (c)(2), is title III of Pub. L. 89–454, as added by Pub. L. 92–583, Oct. 27, 1972, 86 Stat. 1280, which is classified generally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 1451 of this title](./chapter-033-coastal-zone-management.md#section-1451) and Tables.
+
+The Integrated Coastal and Ocean Observation System Act of 2009, referred to in subsec. (c)(2), is subtitle C of title XII of Pub. L. 111–11, Mar. 30, 2009, 123 Stat. 1427, which is classified generally to chapter 49 (§ 3601 et seq.) of Title 33, Navigation and Navigable Waters. For complete classification of this Act to the Code, see Short Title note set out under [section 3601 of Title 33](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section3601&num=0&edition=prelim) and Tables.
+
+The Hydrographic Services Improvement Act of 1998, referred to in subsec. (c)(2), is title III of Pub. L. 105–384, Nov. 13, 1998, 112 Stat. 3454, which is classified principally to subchapter IV (§ 892 et seq.) of chapter 17 of Title 33, Navigation and Navigable Waters. For complete classification of this Act to the Code, see Short Title of 1998 Amendment note set out under [section 851 of Title 33](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section851&num=0&edition=prelim) and Tables.
+
+Executive Order 12906, as amended by Executive Order 13286, referred to in subsec. (c)(4), is Ex. Ord. No. 12906, Apr. 11, 1994, 59 F.R. 17671, as amended by Ex. Ord. No. 13286, § 25, Feb. 28, 2003, 68 F.R. 10624, which is set out as a note under [section 1457 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1457&num=0&edition=prelim), Public Lands.
+
+#### Codification
+Section was enacted as part of the Digital Coast Act, and not as part of the Coastal Zone Management Act of 1972 which comprises this chapter.
+
+#### Findings
+Pub. L. 116–223, § 2, Dec. 18, 2020, 134 Stat. 1067, provided that: “Congress makes the following findings: “(1) The Digital Coast is a model approach for effective Federal partnerships with State and local government, nongovernmental organizations, and the private sector. “(2) Access to current, accurate, uniform, and standards-based geospatial information, tools, and training to characterize the United States coastal region is critical for public safety and for the environment, infrastructure, and economy of the United States. “(3) More than half of all people of the United States (153,000,000) currently live on or near a coast and an additional 12,000,000 are expected in the next decade. “(4) Coastal counties in the United States average 300 persons per square mile, compared with the national average of 98. “(5) On a typical day, more than 1,540 permits for construction of single-family homes are issued in coastal counties, combined with other commercial, retail, and institutional construction to support this population. “(6) Over half of the economic productivity of the United States is located within coastal regions. “(7) Highly accurate, high-resolution remote sensing and other geospatial data play an increasingly important role in decision making and management of the coastal zone and economy, including for—“(A) flood and coastal storm surge prediction; “(B) hazard risk and vulnerability assessment; “(C) emergency response and recovery planning; “(D) community resilience to longer range coastal change; “(E) local planning and permitting; “(F) habitat and ecosystem health assessments; and “(G) landscape change detection.”
+
+#### Definitions
+Pub. L. 116–223, § 3, Dec. 18, 2020, 134 Stat. 1068, provided that: “In this Act [see Short Title of 2020 Amendment note set out under [section 1451 of this title](./chapter-033-coastal-zone-management.md#section-1451)]: “(1) Coastal region.—The term ‘coastal region’ means the area of United States waters extending inland from the shoreline to include coastal watersheds and seaward to the territorial sea. “(2) Coastal state.—The term ‘coastal State’ has the meaning given the term ‘coastal state’ in section 304 of the Coastal Zone Management Act of 1972 ([16 U.S.C. 1453](./chapter-033-coastal-zone-management.md#section-1453)). “(3) Federal geographic data committee.—The term ‘Federal Geographic Data Committee’ means the interagency committee that promotes the coordinated development, use, sharing, and dissemination of geospatial data on a national basis. “(4) Remote sensing and other geospatial.—The term ‘remote sensing and other geospatial’ means collecting, storing, retrieving, or disseminating graphical or digital data depicting natural or manmade physical features, phenomena, or boundaries of the Earth and any information related thereto, including surveys, maps, charts, satellite and airborne remote sensing data, images, LiDAR, and services performed by professionals such as surveyors, photogrammetrists, hydrographers, geodesists, cartographers, and other such services. “(5) Secretary.—The term ‘Secretary’ means the Secretary of Commerce, acting through the Administrator of the National Oceanic and Atmospheric Administration.”

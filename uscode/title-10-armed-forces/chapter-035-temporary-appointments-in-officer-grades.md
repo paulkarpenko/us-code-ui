@@ -8,7 +8,7 @@ source: >-
 ---
 <a id="section-601"></a>
 ## § 601. Positions of importance and responsibility: generals and lieutenant generals; admirals and vice admirals
-**(a)** The President may designate positions of importance and responsibility to carry the grade of general or admiral or lieutenant general or vice admiral. The President may assign to any such position an officer of the Army, Navy, Air Force, or Marine Corps who is serving on active duty in any grade above colonel or, in the case of an officer of the Navy, any grade above captain. An officer assigned to any such position has the grade specified for that position if he is appointed to that grade by the President, by and with the advice and consent of the Senate. Except as provided in subsection (b), the appointment of an officer to a grade under this section for service in a position of importance and responsibility ends on the date of the termination of the assignment of the officer to that position.
+**(a)** The President may designate positions of importance and responsibility to carry the grade of general or admiral or lieutenant general or vice admiral. The President may assign to any such position an officer of the Army, Navy, Air Force, Marine Corps, or Space Force who is serving on active duty in any grade above colonel or, in the case of an officer of the Navy, any grade above captain. An officer assigned to any such position has the grade specified for that position if he is appointed to that grade by the President, by and with the advice and consent of the Senate. Except as provided in subsection (b), the appointment of an officer to a grade under this section for service in a position of importance and responsibility ends on the date of the termination of the assignment of the officer to that position.
 
 **(b)** An officer who is appointed to the grade of general, admiral, lieutenant general, or vice admiral for service in a position designated under subsection (a) or by law to carry that grade shall continue to hold that grade—
 
@@ -34,9 +34,15 @@ source: >-
 
 (2) Whenever a vacancy occurs in a position within the Department of Defense that the President has designated as a position of importance and responsibility to carry the grade of general or admiral or lieutenant general or vice admiral or in an office that is designated by law to carry such a grade, the Secretary of Defense shall inform the President of the qualifications needed by an officer serving in that position or office to carry out effectively the duties and responsibilities of that position or office.
 
+**(e)** Prior to making a recommendation to the Secretary of Defense for the nomination of an officer for appointment to a position of importance and responsibility under this section, which appointment would result in the initial appointment of the officer concerned in the grade of lieutenant general or general in the Army, Air Force, or Marine Corps, vice admiral or admiral in the Navy, or the commensurate grades in the Space Force, the Secretary concerned shall consider all officers determined to be among the best qualified for such position.
+
 ### Statutory Notes
 
 #### Amendments
+2021—Subsec. (a). Pub. L. 116–283, § 924(b)(3)(C), substituted “Marine Corps, or Space Force” for “or Marine Corps”.
+
+Subsec. (e). Pub. L. 116–283, § 551(b)(1), added subsec. (e).
+
 2008—Subsec. (b)(4), (5). Pub. L. 110–181 added par. (4) and redesignated former par. (4) as (5).
 
 1996—Subsec. (b). Pub. L. 104–106, § 403(c)(1), in introductory provisions substituted “designated under subsection (a) or by law” for “of importance and responsibility designated”.
@@ -83,7 +89,7 @@ Repeal effective Feb. 1, 1992, see section 1132 of Pub. L. 102–190, set out as
 
 <a id="section-603"></a>
 ## § 603. Appointments in time of war or national emergency
-**(a)** In time of war, or of national emergency declared by the Congress or the President after November 30, 1980, the President may appoint any qualified person (whether or not already a member of the armed forces) to any officer grade in the Army, Navy, Air Force, or Marine Corps, except that appointments under this section may not be made in grades above major general or rear admiral. Appointments under this section shall be made by the President alone, except that an appointment in the grade warrant officer, W–1, shall be made by warrant by the Secretary concerned.
+**(a)** In time of war, or of national emergency declared by the Congress or the President after November 30, 1980, the President may appoint any qualified person (whether or not already a member of the armed forces) to any officer grade in the Army, Navy, Air Force, Marine Corps, or Space Force, except that appointments under this section may not be made in grades above major general or rear admiral. Appointments under this section shall be made by the President alone, except that an appointment in the grade warrant officer, W–1, shall be made by warrant by the Secretary concerned.
 
 **(b)** Any appointment under this section is a temporary appointment and may be vacated by the President at any time.
 
@@ -112,6 +118,8 @@ Repeal effective Feb. 1, 1992, see section 1132 of Pub. L. 102–190, set out as
 ### Statutory Notes
 
 #### Amendments
+2021—Subsec. (a). Pub. L. 116–283 substituted “Marine Corps, or Space Force” for “or Marine Corps”.
+
 1991—Pub. L. 102–190, § 1113(d)(1)(A), substituted “Appointments in time of war or national emergency” for “Commissioned officer grades: time of war or national emergency” in section catchline.
 
 Subsec. (a). Pub. L. 102–190, § 1113(b), struck out “commissioned” before “officer grade in the Army” and “in warrant officer grades or” before “in grades above major general” and inserted before period at end “, except that an appointment in the grade warrant officer, W–1, shall be made by warrant by the Secretary concerned”.
@@ -155,7 +163,7 @@ George W. Bush.
 
 (1) Whenever a vacancy occurs, or is anticipated to occur, in a position specified in subsection (b)—
 
-  (A) the Secretary of Defense shall require the Secretary of the Army to submit the name of at least one Army officer, the Secretary of the Navy to submit the name of at least one Navy officer and the name of at least one Marine Corps officer, and the Secretary of the Air Force to submit the name of at least one Air Force officer for consideration by the Secretary for recommendation to the President for appointment to that position; and
+  (A) the Secretary of Defense shall require the Secretary of the Army to submit the name of at least one Army officer, the Secretary of the Navy to submit the name of at least one Navy officer and the name of at least one Marine Corps officer, and the Secretary of the Air Force to submit the name of at least one Air Force officer and the name of at least one Space Force officer for consideration by the Secretary for recommendation to the President for appointment to that position; and
 
   (B) the Chairman of the Joint Chiefs of Staff may submit to the Secretary of Defense the name of one or more officers (in addition to the officers whose names are submitted pursuant to subparagraph (A)) for consideration by the Secretary for recommendation to the President for appointment to that position.
 
@@ -170,6 +178,8 @@ George W. Bush.
 ### Statutory Notes
 
 #### Amendments
+2021—Subsec. (a)(1)(A). Pub. L. 116–283 inserted “and the name of at least one Space Force officer” after “Air Force officer”.
+
 2016—Subsec. (b)(3). Pub. L. 114–328 struck out par. (3) which read as follows: “Deputy commander, United States European Command, but only if the commander of that command is also the Supreme Allied Commander, Europe.”
 
 2003—Subsec. (c). Pub. L. 108–136 struck out heading and text of subsec. (c). Text read as follows: “This section shall cease to be effective at the end of December 31, 2004.”

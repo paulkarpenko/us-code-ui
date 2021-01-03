@@ -2,7 +2,7 @@
 title: 43
 chapter: '31'
 heading: DEPARTMENT OF THE INTERIOR
-section_count: 57
+section_count: 58
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43&num=0&edition=prelim
 ---
@@ -21,9 +21,6 @@ Section was formerly classified to [section 481 of Title 5](https://uscode.house
 #### Short Title of 2005 Amendment
 Pub. L. 109–125, § 1, Dec. 7, 2005, 119 Stat. 2544, provided that: “This Act [enacting [section 1475b of this title](./chapter-031-department-of-the-interior.md#section-1475b) and provisions set out as a note under [section 1475b of this title](./chapter-031-department-of-the-interior.md#section-1475b)] may be cited as the ‘Department of the Interior Volunteer Recruitment Act of 2005’.”
 
-#### Transfer of Functions
-For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out below.
-
 #### Stewart Lee Udall Department of the Interior Building
 Pub. L. 111–176, June 8, 2010, 124 Stat. 1259, provided that: “SECTION 1. DESIGNATION.“The United States Department of the Interior Building located at 1849 C Street, Northwest, in Washington, District of Columbia, shall be known and designated as the ‘Stewart Lee Udall Department of the Interior Building’. “SEC. 2. REFERENCES.“Any reference in a law, map, regulation, document, record, or other paper of the United States to the building referred to in section 1 shall be considered to be a reference to the ‘Stewart Lee Udall Department of the Interior Building’.”
 
@@ -34,6 +31,9 @@ Similar provisions were contained in Pub. L. 105–277, div. A, § 101(e) [title
 
 #### Compensation of Secretary
 Compensation of Secretary, see [section 5312 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5312&num=0&edition=prelim), Government Organization and Employees.
+
+#### Transfer of Functions
+For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out below.
 
 #### Order of Succession
 For order of succession during any period when both Secretary and Deputy Secretary of the Interior are unable to perform functions and duties of office of Secretary, see Ex. Ord. No. 13244, Dec. 18, 2001, 66 F.R. 66267, listed in a table under [section 3345 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section3345&num=0&edition=prelim), Government Organization and Employees.
@@ -123,9 +123,10 @@ R.S. § 438 derived from acts Mar. 14, 1862, ch. 41, § 6, 12 Stat. 369; Mar. 3,
 Section was formerly classified to [section 482 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section482&num=0&edition=prelim) prior to the general revision and enactment of Title 5, Government Organization and Employees, by Pub. L. 89–554, § 1, Sept. 6, 1966, 80 Stat. 378.
 
 #### Transfer of Functions
-For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out under [section 1451 of this title](./chapter-031-department-of-the-interior.md#section-1451).
-
 Functions, powers, and duties of Office of Audit and Investigation in Department of the Interior transferred to Office of Inspector General in Department of the Interior, as established by section 9(a)(1)(F) of Inspector General Act of 1978, Pub. L. 95–452, set out in the Appendix to Title 5, Government Organization and Employees.
+
+#### Transfer of Functions
+For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out under [section 1451 of this title](./chapter-031-department-of-the-interior.md#section-1451).
 
 #### Administrative Assistant Secretary
 An Administrative Assistant Secretary of the Interior, to be appointed, with the approval of the President, by the Secretary of the Interior under the classified civil service, to perform such duties as the Secretary of the Interior shall prescribe, and to receive compensation at the rate of $14,800 per annum, was provided for by section 4 of Reorg. Plan No. 3 of 1950, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out as a note under [section 1451 of this title](./chapter-031-department-of-the-interior.md#section-1451), prior to repeal of section 4 by Pub. L. 92–22, § 3, June 1, 1971, 85 Stat. 76.
@@ -242,6 +243,30 @@ Section was formerly classified to [section 485 of Title 5](https://uscode.house
 #### Effective Date of 1957 Amendment
 Amendment by Pub. L. 85–56 effective Jan. 1, 1958, see section 2301 of Pub. L. 85–56.
 
+#### Report to Congress on Availability of Federal Programs to Territories of United States; Authorization of Appropriations
+Pub. L. 95–134, title IV, § 401, Oct. 15, 1977, 91 Stat. 1163, directed the Secretary of the Interior to submit to the Congress no later than Jan. 1, 1978, a report on Federal programs available to United States territories and authorized an appropriation of $50,000 for fiscal year 1978.
+
+#### Study of Health and Safety Conditions in Metal and Nonmetallic Mines
+Pub. L. 87–300, Sept. 26, 1961, 75 Stat. 649, directed Secretary of the Interior to make a study on health and safety conditions in metal and non­metallic mines, excluding coal and lignite mines, which study was to cover causes of injuries and health hazards, the relative effectiveness of voluntary versus mandatory reporting of accident statistics, the relative contribution to safety of inspection programs embodying right-of-entry and right-of-entry with enforcement authority, the effectiveness of health and safety training programs, the cost of an effective safety program, and the scope and adequacy of State mine safety laws, and to submit his findings, accompanied with recommendations for an effective safety program for metal and nonmetallic mines, excluding coal or lignite mines, to Congress not later then two years after Sept. 26, 1961.
+
+#### Surveys, Investigations and Research; Appropriations
+Pub. L. 85–743, Aug. 23, 1958, 72 Stat. 837, provided: “That the authority vested in the Secretary of the Interior, to perform surveys, investigations, and research in geology, biology, minerals and water resources, and mapping is hereby extended to include Antarctica and the Trust Territory of the Pacific Islands. “Sec. 2. The Secretary of the Interior is authorized to compile maps of Antarctica from materials already available and from such additional material as may result from the several expeditions in support of the International Geophysical Year. “Sec. 3. Nothing in this Act shall be construed to authorize the absorption or modification of, or change in any way, the responsibility of any other department or agency of the United States, including the performance of surveys, mapping, and compilation of maps. “Sec. 4. There are hereby authorized to be appropriated such sums as may be necessary to carry out the purposes of this Act.”
+
+[For termination of Trust Territory of the Pacific Islands, see note set out preceding [section 1681 of Title 48](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title48-section1681&num=0&edition=prelim), Territories and Insular Possessions.]
+
+#### Conveyance to Indian Tribes of Federally Owned Buildings, Improvements, or Facilities
+Act Aug. 6, 1956, ch. 979, 70 Stat. 1057, provided that: “The Secretary of the Interior at the request of any Indian tribe, band, or group is authorized to convey to such Indian tribe, band, or group, by such means as he may deem appropriate, title to any federally owned buildings, improvements, or facilities (including any personal property used in connection with such buildings, improvements, or facilities) that are situated on lands of such tribe, band, or group or on lands reserved for the administration of its affairs, and that are no longer required by the Secretary for the administration of Indian affairs. Any tribe, band, or group to which property is conveyed pursuant to this Act may dispose of such property whenever its governing body determines that the property is no longer needed for its use. If, at any time while property conveyed pursuant to this Act remains in the ownership of any Indian tribe, band, or group, the Secretary of the Interior determines that such property is not being adequately maintained or properly utilized by such tribe, band, or group or that the property creates a health or safety hazard or other undesirable condition, he may declare a forfeiture of the conveyance and the title to such property shall thereupon revert to the United States. Such determination by the Secretary shall be final. “For the purpose of this Act, the term ‘Indian’ shall include Eskimos and Aleuts.”
+
+[Act Aug. 6, 1956, set out above, was formerly classified to [section 443a of Title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section443a&num=0&edition=prelim), Indians, prior to editorial reclassification as this note.]
+
+#### Indian Goods and Supplies
+Act Apr. 30, 1908, ch. 153, 35 Stat. 73, provided: “That hereafter payment for transportation of Indian goods and supplies shall include all Indian transportation lawfully due such land-grant railroads as have not received aid in Government bonds (to be adjusted in accordance with the decisions of the Supreme Court in cases decided under such land-grant Acts), but in no case shall more than 50 per centum of full amount of service be paid to said land-grant roads: Provided, That such compensation shall be computed upon the basis of the tariff or lower special rates for like transportation performed for the public at large, and shall be accepted as in full for all demands for such service: Provided further, That hereafter in expending money appropriated for this purpose a railroad company which has not received aid in bonds of the United States, and which obtained a grant of public lands to aid in the construction of its railroad on condition that such railroad should be a post route and military road, subject to the use of the United States for postal, military, naval, and other Government services, and also subject to such regulations as Congress may impose, restricting the charge for such government transportation, having claims against the United States for transportation of Indian goods and supplies over such aided railroads, shall be paid out of the moneys appropriated for such purpose only on the basis of such rate for the transportation of such Indian goods and supplies as the Secretary of the Interior shall deem just and reasonable under the provisions set forth herein, such rate not to exceed 50 per centum of the compensation for such Government transportation as shall at that time be charged to and paid by private parties to any such company for like and similar transportation; and the amount so fixed to be paid shall be accepted as in full for all demands for such service.”
+
+[Act Apr. 30, 1908, set out above, was formerly classified to [section 443b of Title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section443b&num=0&edition=prelim), Indians, prior to editorial reclassification as this note.]
+
+#### Section as Unaffected by Submerged Lands Act
+Provisions of this section as not amended, modified, or repealed by Submerged Lands Act, see [section 1303 of this title](./chapter-029-submerged-lands.md#section-1303).
+
 #### Transfer of Functions
 For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out under [section 1451 of this title](./chapter-031-department-of-the-interior.md#section-1451).
 
@@ -295,27 +320,6 @@ Petroleum conservation—Section 3 of Ex. Ord. No. 10752, eff. Feb. 12, 1958, 23
 
 #### Emergency Preparedness Functions
 For assignment of certain emergency preparedness functions to Secretary of the Interior, see Parts 1, 2, and 10 of Ex. Ord. No. 12656, Nov. 18, 1988, 53 F.R. 47491, set out as a note under [section 5195 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5195&num=0&edition=prelim), The Public Health and Welfare.
-
-#### Report to Congress on Availability of Federal Programs to Territories of United States; Authorization of Appropriations
-Pub. L. 95–134, title IV, § 401, Oct. 15, 1977, 91 Stat. 1163, directed the Secretary of the Interior to submit to the Congress no later than Jan. 1, 1978, a report on Federal programs available to United States territories and authorized an appropriation of $50,000 for fiscal year 1978.
-
-#### Study of Health and Safety Conditions in Metal and Nonmetallic Mines
-Pub. L. 87–300, Sept. 26, 1961, 75 Stat. 649, directed Secretary of the Interior to make a study on health and safety conditions in metal and non­metallic mines, excluding coal and lignite mines, which study was to cover causes of injuries and health hazards, the relative effectiveness of voluntary versus mandatory reporting of accident statistics, the relative contribution to safety of inspection programs embodying right-of-entry and right-of-entry with enforcement authority, the effectiveness of health and safety training programs, the cost of an effective safety program, and the scope and adequacy of State mine safety laws, and to submit his findings, accompanied with recommendations for an effective safety program for metal and nonmetallic mines, excluding coal or lignite mines, to Congress not later then two years after Sept. 26, 1961.
-
-#### Surveys, Investigations and Research; Appropriations
-Pub. L. 85–743, Aug. 23, 1958, 72 Stat. 837, provided: “That the authority vested in the Secretary of the Interior, to perform surveys, investigations, and research in geology, biology, minerals and water resources, and mapping is hereby extended to include Antarctica and the Trust Territory of the Pacific Islands. “Sec. 2. The Secretary of the Interior is authorized to compile maps of Antarctica from materials already available and from such additional material as may result from the several expeditions in support of the International Geophysical Year. “Sec. 3. Nothing in this Act shall be construed to authorize the absorption or modification of, or change in any way, the responsibility of any other department or agency of the United States, including the performance of surveys, mapping, and compilation of maps. “Sec. 4. There are hereby authorized to be appropriated such sums as may be necessary to carry out the purposes of this Act.”
-
-[For termination of Trust Territory of the Pacific Islands, see note set out preceding [section 1681 of Title 48](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title48-section1681&num=0&edition=prelim), Territories and Insular Possessions.]
-
-#### Conveyance to Indian Tribes of Federally Owned Buildings, Improvements, or Facilities
-Act Aug. 6, 1956, ch. 979, 70 Stat. 1057, provided that: “The Secretary of the Interior at the request of any Indian tribe, band, or group is authorized to convey to such Indian tribe, band, or group, by such means as he may deem appropriate, title to any federally owned buildings, improvements, or facilities (including any personal property used in connection with such buildings, improvements, or facilities) that are situated on lands of such tribe, band, or group or on lands reserved for the administration of its affairs, and that are no longer required by the Secretary for the administration of Indian affairs. Any tribe, band, or group to which property is conveyed pursuant to this Act may dispose of such property whenever its governing body determines that the property is no longer needed for its use. If, at any time while property conveyed pursuant to this Act remains in the ownership of any Indian tribe, band, or group, the Secretary of the Interior determines that such property is not being adequately maintained or properly utilized by such tribe, band, or group or that the property creates a health or safety hazard or other undesirable condition, he may declare a forfeiture of the conveyance and the title to such property shall thereupon revert to the United States. Such determination by the Secretary shall be final. “For the purpose of this Act, the term ‘Indian’ shall include Eskimos and Aleuts.”
-
-[Act Aug. 6, 1956, set out above, was formerly classified to [section 443a of Title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section443a&num=0&edition=prelim), Indians, prior to editorial reclassification as this note.]
-
-#### Indian Goods and Supplies
-Act Apr. 30, 1908, ch. 153, 35 Stat. 73, provided: “That hereafter payment for transportation of Indian goods and supplies shall include all Indian transportation lawfully due such land-grant railroads as have not received aid in Government bonds (to be adjusted in accordance with the decisions of the Supreme Court in cases decided under such land-grant Acts), but in no case shall more than 50 per centum of full amount of service be paid to said land-grant roads: Provided, That such compensation shall be computed upon the basis of the tariff or lower special rates for like transportation performed for the public at large, and shall be accepted as in full for all demands for such service: Provided further, That hereafter in expending money appropriated for this purpose a railroad company which has not received aid in bonds of the United States, and which obtained a grant of public lands to aid in the construction of its railroad on condition that such railroad should be a post route and military road, subject to the use of the United States for postal, military, naval, and other Government services, and also subject to such regulations as Congress may impose, restricting the charge for such government transportation, having claims against the United States for transportation of Indian goods and supplies over such aided railroads, shall be paid out of the moneys appropriated for such purpose only on the basis of such rate for the transportation of such Indian goods and supplies as the Secretary of the Interior shall deem just and reasonable under the provisions set forth herein, such rate not to exceed 50 per centum of the compensation for such Government transportation as shall at that time be charged to and paid by private parties to any such company for like and similar transportation; and the amount so fixed to be paid shall be accepted as in full for all demands for such service.”
-
-[Act Apr. 30, 1908, set out above, was formerly classified to [section 443b of Title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section443b&num=0&edition=prelim), Indians, prior to editorial reclassification as this note.]
 
 #### Executive Order No. 9633
 Ex. Ord. No. 9633, eff. Sept. 28, 1945, 10 F.R. 12305, which reserved and placed certain resources of the Continental Shelf under the control and jurisdiction of the Secretary of the Interior, was revoked by Ex. Ord. No. 10426, eff. Jan. 16, 1953, 18 F.R. 405.
@@ -384,9 +388,6 @@ Sec. 7. SCOPE. (a) For the purposes of this order, the term “agency” shall h
 (e) Nothing in the order shall be construed to contravene the development of Federal Information Processing Standards and Guidelines adopted and promulgated under the provisions of section 111(d) of the Federal Property and Administrative Services Act of 1949 [former [40 U.S.C. 759(d)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40-section759/d&num=0&edition=prelim)], as amended by the Computer Security Act of 1987 (Public Law 100–235), or any other United States law, regulation, or international agreement.
 
 Sec. 8. JUDICIAL REVIEW. This order is intended only to improve the internal management of the executive branch and is not intended to, and does not, create any right to administrative or judicial review, or any other right or benefit or trust responsibility, substantive or procedural, enforceable by a party against the United States, its agencies or instrumentalities, its officers or employees, or any other person.
-
-#### Section as Unaffected by Submerged Lands Act
-Provisions of this section as not amended, modified, or repealed by Submerged Lands Act, see [section 1303 of this title](./chapter-029-submerged-lands.md#section-1303).
 
 
 <a id="section-1457a"></a>
@@ -529,10 +530,11 @@ R.S. § 444 derived from act Mar. 3, 1849, ch. 108, § 2, 9 Stat. 395.
 
 Section was formerly classified to [section 487 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section487&num=0&edition=prelim) prior to the general revision and enactment of Title 5, Government Organization and Employees, by Pub. L. 89–554, § 1, Sept. 6, 1966, 80 Stat. 378.
 
+#### Change of Name
+“Government Accountability Office” substituted in text for “General Accounting Office” pursuant to section 8(b) of Pub. L. 108–271, set out as a note under [section 702 of Title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section702&num=0&edition=prelim), Money and Finance, which redesignated the General Accounting Office and any references thereto as the Government Accountability Office. Previously, “General Accounting Office” substituted in text for “proper accounting officers of Department of the Treasury” pursuant to act June 10, 1921, which transferred all powers and duties of Comptroller, six auditors, and certain other employees of the Treasury to General Accounting Office. See section 701 et seq. of Title 31.
+
 #### Transfer of Functions
 For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out under [section 1451 of this title](./chapter-031-department-of-the-interior.md#section-1451).
-
-“Government Accountability Office” substituted in text for “General Accounting Office” pursuant to section 8(b) of Pub. L. 108–271, set out as a note under [section 702 of Title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section702&num=0&edition=prelim), Money and Finance, which redesignated the General Accounting Office and any references thereto as the Government Accountability Office. Previously, “General Accounting Office” substituted in text for “proper accounting officers of Department of the Treasury” pursuant to act June 10, 1921, which transferred all powers and duties of Comptroller, six auditors, and certain other employees of the Treasury to General Accounting Office. See section 701 et seq. of Title 31.
 
 
 <a id="section-1460"></a>
@@ -735,7 +737,7 @@ Appropriations made to the Department of the Interior shall on and after Decembe
 #### Codification
 Section is from title I, Department of the Interior, of the Department of the Interior and Related Agencies Appropriations Act, 2005, Pub. L. 108–447, div. E, Dec. 8, 2004, 118 Stat. 3039.
 
-#### Prior Provisions
+#### Prior Similar Provisions
 Provisions similar to those in this section were contained in the following prior appropriation acts:
 
 Pub. L. 108–108, title I, § 103, Nov. 10, 2003, 117 Stat. 1265.
@@ -899,7 +901,7 @@ Appropriations available to the Department of the Interior for salaries and expe
 
 ### Statutory Notes
 
-#### Prior Provisions
+#### Prior Similar Provisions
 Provisions similar to those in this section were contained in the following prior appropriation acts:
 
 Pub. L. 108–108, title I, § 105, Nov. 10, 2003, 117 Stat. 1266.
@@ -1006,7 +1008,7 @@ Annual appropriations made to the Department of the Interior shall on and after 
 
 ### Statutory Notes
 
-#### Prior Provisions
+#### Prior Similar Provisions
 Provisions similar to those in this section were contained in the following prior appropriation acts:
 
 Pub. L. 108–108, title I, § 106, Nov. 10, 2003, 117 Stat. 1266.
@@ -1140,7 +1142,7 @@ Notwithstanding any other provision of law, in fiscal year 1992 and thereafter, 
 #### References in Text
 This Act, referred to in text, is Pub. L. 102–154, Nov. 13, 1991, 105 Stat. 990, known as the Department of the Interior and Related Agencies Appropriations Act, 1992. For complete classification of this Act to the Code, see Tables.
 
-#### Prior Provisions
+#### Prior Similar Provisions
 Provisions similar to those in this section were contained in the following prior appropriation act:
 
 Pub. L. 101–512, title I, § 117, Nov. 5, 1990, 104 Stat. 1937.
@@ -1156,7 +1158,7 @@ Appropriations under this title 11 See References in Text note below. in fiscal 
 #### References in Text
 This title, referred to in text, is title I of Pub. L. 102–154, Nov. 13, 1991, 105 Stat. 990, known as the Department of the Interior and Related Agencies Appropriations Act, 1992. For complete classification of this Act to the Code, see Tables.
 
-#### Prior Provisions
+#### Prior Similar Provisions
 Provisions similar to those in this section were contained in the following prior appropriation act:
 
 Pub. L. 101–512, title I, § 118, Nov. 5, 1990, 104 Stat. 1937.
@@ -1172,7 +1174,7 @@ Notwithstanding any other provisions of law, in fiscal year 1992 and thereafter,
 #### References in Text
 This title, referred to in text, is title I of Pub. L. 102–154, Nov. 13, 1991, 105 Stat. 990, known as the Department of the Interior and Related Agencies Appropriations Act, 1992. For complete classification of this Act to the Code, see Tables.
 
-#### Prior Provisions
+#### Prior Similar Provisions
 Provisions similar to those in this section were contained in the following prior appropriation acts:
 
 Pub. L. 101–512, title I, § 108, Nov. 5, 1990, 104 Stat. 1936.
@@ -1249,17 +1251,17 @@ The Oil Pollution Act of 1990, referred to in text, is Pub. L. 101–380, Aug. 1
 #### Codification
 Provisions of this section preceding the proviso are from title I of Pub. L. 103–138, as amended, and the proviso is from section 101(c) [title I] of Pub. L. 104–134, as amended.
 
-#### Prior Provisions
+#### Amendments
+2014—Pub. L. 113–287, which directed that this section be “omitted” by substituting “subchapter II of chapter 1007 of title 54” for “the Act of July 27, 1990 (Public Law 101–337)”, was executed by amending this section by making the substitution, to reflect the probable intent of Congress.
+
+1997—Pub. L. 105–83 inserted “, including transfers to Federal trustees and payments to non-Federal trustees,” after “account” and “, to remain available until expended,” after “and such sums” and substituted “heretofore and hereafter” for “in fiscal year 1996 and thereafter”.
+
+#### Prior Similar Provisions
 Provisions similar to those in this section were contained in the following prior appropriation acts:
 
 Pub. L. 103–332, title I, Sept. 30, 1994, 108 Stat. 2503.
 
 Pub. L. 103–138, title I, Nov. 11, 1993, 107 Stat. 1383.
-
-#### Amendments
-2014—Pub. L. 113–287, which directed that this section be “omitted” by substituting “subchapter II of chapter 1007 of title 54” for “the Act of July 27, 1990 (Public Law 101–337)”, was executed by amending this section by making the substitution, to reflect the probable intent of Congress.
-
-1997—Pub. L. 105–83 inserted “, including transfers to Federal trustees and payments to non-Federal trustees,” after “account” and “, to remain available until expended,” after “and such sums” and substituted “heretofore and hereafter” for “in fiscal year 1996 and thereafter”.
 
 
 <a id="section-1474c"></a>
@@ -1269,7 +1271,7 @@ In fiscal year 1992 and thereafter, amounts received during the immediately prec
 
 ### Statutory Notes
 
-#### Prior Provisions
+#### Prior Similar Provisions
 Provisions similar to those in this section were contained in the following prior appropriation acts:
 
 Pub. L. 102–381, title I, Oct. 5, 1992, 106 Stat. 1381.
@@ -1384,7 +1386,7 @@ Notwithstanding [section 3302(b) of title 31](https://uscode.house.gov/view.xhtm
 
 ### Statutory Notes
 
-#### Prior Provisions
+#### Prior Similar Provisions
 Provisions similar to those in this section were contained in the following prior appropriation acts:
 
 Pub. L. 108–108, title I, § 119, Nov. 10, 2003, 117 Stat. 1268.
@@ -1403,7 +1405,7 @@ Sums not to exceed 1 percent of the total value of procurements received by the 
 
 ### Statutory Notes
 
-#### Prior Provisions
+#### Prior Similar Provisions
 Provisions similar to those in this section were contained in the following prior appropriation act:
 
 Pub. L. 110–161, div. F, title I, Dec. 26, 2007, 121 Stat. 2101.
@@ -1493,3 +1495,80 @@ Section was formerly classified to [section 1212 of this title](./chapter-028-mi
 
 #### Exemption of Department of the Interior From Restrictions on Notary Public
 Act June 3, 1948, ch. 392, § 3, 62 Stat. 301, provided: “That part of section 558 of the Act of March 3, 1901, entitled ‘An Act to establish a code of law for the District of Columbia’ (31 Stat. 1279), as amended December 15, 1944 (58 Stat. 810, D.C. Code, 1951 edition, sec. 1–501 [now sec. 1–1201(a)]), which reads as follows: ‘And provided further, That no notary public shall be authorized to take acknowledgments, administer oaths, certify papers, or perform any official acts in connection with matters in which he is employed as counsel, attorney or agent or in which he may be in any way interested before any of the Departments aforesaid’ shall not apply to matters before the Department of the Interior.”
+
+
+<a id="section-1477"></a>
+## § 1477. Snow water supply forecasting
+**(a) Short title** This section may be cited as the “Snow Water Supply Forecasting Program Authorization Act”.
+
+**(b) Definition of program** In this section, the term “program” means the Snow Water Supply Forecasting Program established by subsection (c).
+
+**(c) Snow Water Supply Forecasting Program**
+
+(1) **Program establishment** — The Snow Water Supply Forecasting Program is hereby established within the Department of the Interior.
+
+(2) **Program implementation** — To implement the program, the Secretary shall—
+
+  (A) develop the program framework in coordination with other Federal agencies pursuant to subsection (d), culminating in the report required under subsection (d)(3); and
+
+  (B) after submitting the report required by subsection (d)(3), implement activities to improve snowpack measurement in particular watersheds pursuant to subsection (e).
+
+**(d) Development of program framework in coordination with other Federal agencies**
+
+(1) **Snowpack measurement data** — When determining water supply forecasts or allocations to Federal water contractors, the Secretary, acting through the Commissioner of the Bureau of Reclamation, shall incorporate, to the greatest extent practicable, information from emerging technologies for snowpack measurement, such as—
+
+  (A) synthetic aperture radar;
+
+  (B) laser altimetry; and
+
+  (C) other emerging technologies that the Secretary determines are likely to provide more accurate or timely snowpack measurement data.
+
+(2) **Coordination** — In carrying out paragraph (1), the Secretary shall coordinate data use and collection efforts with other Federal agencies that use or may benefit from the use of emerging technologies for snowpack measurement.
+
+(3) **Emerging technologies report** — Not later than October 1, 2021, the Secretary shall submit to Congress a report that—
+
+  (A) summarizes the use of emerging technologies pursuant to this section;
+
+  (B) describes benefits derived from the use of technologies summarized under subparagraph (A) related to the environment and increased water supply reliability; and
+
+  (C) describes how Federal agencies will coordinate to implement emerging technologies.
+
+**(e) Program implementation**
+
+(1) **Activities implementing framework** — After submitting the report required under subsection (d)(3), the Secretary shall participate with program partners in implementing activities to improve snowpack measurement in particular watersheds.
+
+(2) **Focus** — The program shall focus on activities that will maintain, establish, expand, or advance snowpack measurement consistent with the report required by subsection (d)(3), with an emphasis on—
+
+  (A) enhancing activities in river basins to achieve improved snow and water supply forecasting results;
+
+  (B) activities in river basins where snow water supply forecasting related activities described in this section are not occurring on December 27, 2020; and
+
+  (C) demonstrating or testing new, or improving existing, snow and water supply forecasting technology.
+
+(3) **Information sharing** — The Secretary may provide information collected and analyzed under this section to program partners through appropriate mechanisms, including interagency agreements with Federal agencies, States, State agencies, or a combination thereof, leases, contracts, cooperative agreements, grants, loans, and memoranda of understanding.
+
+(4) **Program partners** — Program partners with whom the Secretary enters into cooperative agreements pursuant to paragraph (5) may include water districts, irrigation districts, water associations, universities, State agencies, other Federal agencies, private sector entities, non-governmental organizations, and other entities, as determined by the Secretary.
+
+(5) **Cooperative agreements** — The Secretary may—
+
+  (A) enter into cooperative agreements with program partners to allow the program to be administered efficiently and cost effectively through cost-sharing or by providing additional in-kind resources necessary for program implementation; and
+
+  (B) provide nonreimbursable matching funding for programmatic and operational activities under this section in consultation with program partners.
+
+(6) **Environmental laws** — Nothing in this section shall modify any obligation of the Secretary to comply with applicable Federal and State environmental laws in carrying out this section.
+
+**(f) Program implementation report** Not later than 4 years after December 27, 2020, the Secretary shall submit a report to the Committee on Natural Resources and the Committee on Appropriations of the House of Representatives and the Committee on Energy and Natural Resources and the Committee on Appropriations of the Senate, that includes—
+
+(1) a list of basins and sub-basins for which snowpack measurement technologies are being used under the program, including a description of each technology used; and
+
+(2) a list of Federal agencies and program partners participating in each basin or sub-basin listed in paragraph (1).
+
+**(g) Authorization of appropriations** There is authorized to be appropriated to the Secretary to carry out this section $15,000,000, in the aggregate, for fiscal years 2022 through 2026.
+
+### Statutory Notes
+
+#### References in Text
+This section, referred to in subsecs. (b), (d)(3)(A), (e)(2)(B), (3), (5)(B), (6), and (g), was in the original “this Act”, which was translated as meaning section 1111 of Pub. L. 116–260, div. FF, Dec. 27, 2020, 134 Stat. 3249, to reflect the probable intent of Congress.
+
+#### Definitions
+For definition of “Secretary” as used in this section, see section 1115 of div. FF of Pub. L. 116–260, set out as a note under [section 2330c of Title 33](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section2330c&num=0&edition=prelim), Navigation and Navigable Waters.

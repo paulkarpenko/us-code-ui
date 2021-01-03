@@ -324,7 +324,12 @@ For provisions relating to treatment of certain Federal employees of Saint Eliza
 
 **(o)** A contract may not be made or a plan approved which includes coverage for any benefit, item, or service for which funds may not be used under the Assisted Suicide Funding Restriction Act of 1997.
 
+**(p)** Each contract under this chapter shall require the carrier to comply with requirements described in the provisions of sections 2799A–1, 2799A–2, and 2799A–7 of the Public Health Service Act, sections 716, 717, and 722 of the Employee Retirement Income Security Act of 1974, and sections 9816, 9817, and 9822 of the Internal Revenue Code of 1986 (as applicable) in the same manner as such provisions apply to a group health plan or health insurance issuer offering group or individual health insurance coverage, as described in such sections. The provisions of sections 2799B–1, 2799B–2, 2799B–3, and 2799B–5 of the Public Health Service Act shall apply to a health care provider and facility and an air ambulance provider described in such respective sections with respect to an enrollee in a health benefits plan under this chapter in the same manner as such provisions apply to such a provider and facility with respect to an enrollee in a group health plan or group or individual health insurance coverage offered by a health insurance issuer, as described in such sections.
+
 ### Statutory Notes
+
+#### Applicability of Amendment
+Amendment of section by section 102(d)(1) of div. BB of Pub. L. 116–260 applicable with respect to contracts entered into or renewed for contract years beginning on or after Jan. 1, 2022. See 2020 Amendment note below.
 
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
@@ -339,10 +344,18 @@ Section 1310(d)(1) of title XIII of the Public Health Service Act ([42 U.S.C. 30
 
 The Assisted Suicide Funding Restriction Act of 1997, referred to in subsec. (o), is Pub. L. 105–12, Apr. 30, 1997, 111 Stat. 23, which is classified principally to chapter 138 (§ 14401 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 14401 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section14401&num=0&edition=prelim) and Tables.
 
+Sections 2799A–1, 2799A–2, 2799A–7, 2799B–1, 2799B–2, 2799B–3, and 2799B–5 of the Public Health Service Act, referred to in subsec. (p), are classified to sections 300gg–111, 300gg–112, 300gg–117, 300gg–131, 300gg–132, 300gg–133, and 300gg–135, respectively, of Title 42, The Public Health and Welfare.
+
+Sections 716, 717, and 722 of the Employee Retirement Income Security Act of 1974, referred to in subsec. (p), are classified to sections 1185e, 1185f, and 1185k, respectively, of Title 29, Labor.
+
+Sections 9816, 9817, and 9822 of the Internal Revenue Code of 1986, referred to in subsec. (p), are classified to sections 9816, 9817, and 9822, respectively, of Title 26, Internal Revenue Code.
+
 #### Codification
 Another section 1 of title IV of Pub. L. 101–509, 104 Stat. 1416, enacted sections 2701 to 2706 of Title 44, Public Printing and Documents, and provisions set out as a note under [section 2102 of Title 44](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section2102&num=0&edition=prelim).
 
 #### Amendments
+2020—Subsec. (p). Pub. L. 116–260 added subsec. (p).
+
 2011—Subsec. (a). Pub. L. 111–350 substituted “section 6101(b) to (d) of title 41” for “[section 5 of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section5&num=0&edition=prelim)”.
 
 1998—Subsec. (k)(2), (3). Pub. L. 105–266, § 8, added par. (2) and redesignated former par. (2) as (3).
@@ -396,6 +409,9 @@ Subsec. (m). Pub. L. 95–368 added subsec. (m).
 1974—Subsec. (j). Pub. L. 93–363 added subsec. (j) covering services performed by a clinical psychologist or optometrist.
 
 Pub. L. 93–246 added subsec. (j) requiring the carrier to pay for or provide a health service or supply in specified cases.
+
+#### Effective Date of 2020 Amendment
+Pub. L. 116–260, div. BB, title I, § 102(e), Dec. 27, 2020, 134 Stat. 2797, provided that: “The amendments made by this section [enacting sections 9816 and 9822 of Title 26, Internal Revenue Code, sections 1185e and 1185k of Title 29, Labor, and sections 300gg–111 and 300gg–117 of Title 42, The Public Health and Welfare, and amending this section, [section 223 of Title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section223&num=0&edition=prelim), and sections 300gg–19a, 300gg–21, 300gg–22, 300gg–23, and 18011 of Title 42] shall apply with respect to plan years (or, in the case of the amendment made by subsection (d)(1) [amending this section], with respect to contracts entered into or renewed for contract years) beginning on or after January 1, 2022.”
 
 #### Effective Date of 1997 Amendment
 Amendment by Pub. L. 105–12 effective Apr. 30, 1997, and applicable to Federal payments made pursuant to obligations incurred after Apr. 30, 1997, for items and services provided on or after such date, subject to also being applicable with respect to contracts entered into, renewed, or extended after Apr. 30, 1997, as well as contracts entered into before Apr. 30, 1997, to the extent permitted under such contracts, see section 11 of Pub. L. 105–12, set out as an Effective Date note under [section 14401 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section14401&num=0&edition=prelim), The Public Health and Welfare.
@@ -834,6 +850,9 @@ Pub. L. 103–66, title XI, § 11003(b), Aug. 10, 1993, 107 Stat. 410, provided 
 #### Effective Date of 1990 Amendment
 Pub. L. 101–508, title VII, § 7002(f)(2), Nov. 5, 1990, 104 Stat. 1388–331, provided that: “The amendments made by this subsection [amending this section] shall apply with respect to contract years beginning on or after January 1, 1992.”
 
+#### Coverage of Testing for COVID–19: Application With Respect to Federal Civilians
+Pub. L. 116–127, div. F, § 6006(c), Mar. 18, 2020, 134 Stat. 207, provided that: “No copayment or other cost sharing may be required for any individual occupying a position in the civil service (as that term is defined in [section 2101(1) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section2101/1&num=0&edition=prelim), United States Code) enrolled in a health benefits plan, including any plan under chapter 89 of title 5, United States Code, or for any other individual currently enrolled in any plan under chapter 89 of title 5 for in vitro diagnostic products described in paragraph (1) of section 6001(a) [of Pub. L. 116–127, [42 U.S.C. 1320b–5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1320b–5&num=0&edition=prelim) note] (or the administration of such products) or visits described in paragraph (2) of such section furnished during any portion of the emergency period defined in paragraph (1)(B) of section 1135(g) of the Social Security Act ([42 U.S.C. 1320b–5(g)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1320b–5/g&num=0&edition=prelim)) beginning on or after the date of the enactment of this Act [Mar. 18, 2020].”
+
 #### Mental Health, Alcoholism, and Drug Addiction Benefits; Congressional Findings; Sense of Congress
 Pub. L. 99–251, title I, § 107, Feb. 27, 1986, 100 Stat. 16, provided that: “(a) Findings.—The Congress finds that—“(1) the treatment of mental illness, alcoholism, and drug addiction are basic health care services which are needed by approximately 40,000,000 Americans each year; “(2) treatment of mental illness, alcoholism, and drug addiction is increasingly successful; “(3) timely and appropriate treatment of mental illness, alcoholism, and drug addiction is cost effective in terms of restored productivity, reduced utilization of other health services, and reduced social dependence; and “(4) mental illness is a problem of grave concern to the people of the United States and is widely but unnecessarily feared and misunderstood. “(b) Sense of the Congress.—It is the sense of the Congress—“(1) that participants in the Federal employees health benefits program should receive adequate benefits coverage for treatment of mental illness, alcoholism, and drug addiction; and “(2) that the Office of Personnel Management should encourage participating health benefits plans to provide adequate benefits relating to treatment of mental illness, alcoholism, and drug addiction (including benefits relating to coverage for inpatient and outpatient treatment and catastrophic protection benefits).”
 
@@ -914,6 +933,8 @@ may continue his enrollment under the conditions of eligibility prescribed by re
 
 (3) The employee may not discontinue the self plus one or self and family enrollment, as necessary to provide health insurance coverage for each child who is covered under the order, in a plan that provides full benefits and services in the location in which the child or children reside for so long as the court or administrative order remains in effect and the child or children continue to meet the requirements of section 8901(5), unless the employee provides documentation showing that such coverage has been provided through other health insurance.
 
+**(i)** Any services by an officer or employee under this chapter relating to enrolling individuals in a health benefits plan under this chapter, or changing the enrollment of an individual already so enrolled, shall be deemed, for purposes of [section 1342 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1342&num=0&edition=prelim), services for emergencies involving the safety of human life or the protection of property.
+
 ### Statutory Notes
 
 | Historical and Revision Notes |  |  |
@@ -929,6 +950,8 @@ In subsection (b)(1)(C), the words “before January 1, 1965” are substituted 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
 #### Amendments
+2019—Subsec. (i). Pub. L. 116–92 added subsec. (i).
+
 2013—Subsec. (a). Pub. L. 113–67, § 706(a)(1), added subsec. (a) and struck out former subsec. (a) which read as follows: “An employee may enroll in an approved health benefits plan described by section 8903 or 8903a of this title either as an individual or for self and family.”
 
 Subsec. (c)(1). Pub. L. 113–67, § 706(a)(2)(A), inserted “for self plus one or” before “self and family as provided in paragraph (2) of this subsection” in concluding provisions.
@@ -979,6 +1002,9 @@ Subsec. (f). Pub. L. 98–615, § 3(4), redesignated former subsec. (e) as (f) a
 
 1978—Subsecs. (b), (d), (e). Pub. L. 95–454 substituted “Office of Personnel Management” and “Office” for “Civil Service Commission” and “Commission”, respectively, wherever appearing.
 
+#### Effective Date of 2019 Amendment
+Amendment by Pub. L. 116–92 applicable to any lapse in appropriations beginning on or after Dec. 20, 2019, see section 1110(d) of Pub. L. 116–92, set out as a note under [section 8702 of this title](./chapter-087-life-insurance.md#section-8702).
+
 #### Effective Date of 1988 Amendment
 Amendment by Pub. L. 100–654 applicable with respect to any calendar year beginning, and contracts entered into or renewed for any calendar year beginning, after end of 9-month period beginning Nov. 14, 1988, and with respect to any qualifying event occurring on or after first day of first calendar year beginning after end of such 9-month period, see section 203 of Pub. L. 100–654, set out as a note under [section 8902 of this title](./chapter-089-health-insurance.md#section-8902).
 
@@ -992,6 +1018,9 @@ Amendment by Pub. L. 98–615 effective May 7, 1985, with enumerated exceptions,
 
 #### Effective Date of 1978 Amendment
 Amendment by Pub. L. 95–454 effective 90 days after Oct. 13, 1978, see section 907 of Pub. L. 95–454, set out as a note under [section 1101 of this title](./chapter-011-office-of-personnel-management.md#section-1101).
+
+#### Regulations
+Regulations to carry out amendment by Pub. L. 116–92 to be prescribed no later than 90 days after Dec. 20, 2019, and to contain provision related to pay status for furloughed employees, see section 1110(c) of Pub. L. 116–92, set out as a note under [section 8702 of this title](./chapter-087-life-insurance.md#section-8702).
 
 #### Weighted Average for First Year
 Pub. L. 113–67, div. A, title VII, § 706(d), Dec. 26, 2013, 127 Stat. 1194, provided that: “For the first contract year for which an employee may enroll for self plus one coverage under chapter 89 of title 5, United States Code, the Office of Personnel Management shall determine the weighted average of the subscription charges that will be in effect for the contract year for enrollments for self plus one under such chapter based on an actuarial analysis.”

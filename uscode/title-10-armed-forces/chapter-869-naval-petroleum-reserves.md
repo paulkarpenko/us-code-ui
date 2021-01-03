@@ -135,7 +135,7 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 Section 8722, acts Aug. 10, 1956, ch. 1041, 70A Stat. 539; Sept. 2, 1958, Pub. L. 85–861, § 1(190)(B), (C), 72 Stat. 1534, related to hospital and related benefits for members of a Citizens’ Air Training Camp and for members of Air Force not covered by former [section 8721 of this title](./chapter-869-naval-petroleum-reserves.md#section-8721), prior to repeal by Pub. L. 99–661, div. A, title VI, § 604(f)(1)(A), Nov. 14, 1986, 100 Stat. 3877.
 
 #### Amendments
-2018—Pub. L. 115–232, § 807(d)(5), renumbered [section 7422 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section7422&num=0&edition=prelim) as this section.
+2018—Pub. L. 115–232, § 807(d)(5), renumbered [section 7422 of this title](./chapter-751-training-generally.md#section-7422) as this section.
 
 Subsec. (c)(1)(B)(ii). Pub. L. 115–232, § 809(a), substituted “section 8730(b)(2)” for “section 7430(b)(2)”.
 

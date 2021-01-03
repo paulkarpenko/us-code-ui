@@ -232,7 +232,7 @@ Senate amendment to the bill effectively struck out subsec. (c)(2) and redesigna
 
 (2) Except as provided in subsection (c), a competition (or a waiver of competition approved in accordance with [section 3304(e) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section3304/e&num=0&edition=prelim)) that is separate from that used for entering into the contract.
 
-**(c) Multiple Award Contracts.—** When multiple contracts are awarded under section 4103(d)(1)(B) or 4105(f) of this title, all contractors awarded the contracts shall be provided a fair opportunity to be considered, pursuant to procedures set forth in the contracts, for each task or delivery order in excess of $2,500 that is to be issued under any of the contracts, unless—
+**(c) Multiple Award Contracts.—** When multiple contracts are awarded under section 4103(d)(1)(B) or 4105(f) of this title, all contractors awarded the contracts shall be provided a fair opportunity to be considered, pursuant to procedures set forth in the contracts, for each task or delivery order in excess of the micro-purchase threshold under [section 1902 of this title](./chapter-019-chapter-19.md#section-1902) that is to be issued under any of the contracts, unless—
 
 (1) the executive agency’s need for the services or property ordered is of such unusual urgency that providing the opportunity to all of those contractors would result in unacceptable delays in fulfilling that need;
 
@@ -295,6 +295,11 @@ This section was derived from section 253j of former Title 41, Public Contracts,
 In subsection (g)(2), the words “advocate for competition” are substituted for “competition advocate” for consistency with section 1705 of the revised title.
 
 #### Amendments
+2019—Subsec. (c). Pub. L. 116–92 substituted “the micro-purchase threshold under [section 1902 of this title](./chapter-019-chapter-19.md#section-1902)” for “$2,500” in introductory provisions.
+
 2016—Subsec. (f)(3). Pub. L. 114–260 and Pub. L. 114–328 amended subsec. (f) identically by striking out par. (3). Text read as follows: “Paragraph (1)(B) and paragraph (2) of this subsection shall not be in effect after September 30, 2016.”
 
 2011—Subsec. (f)(3). Pub. L. 112–81 amended par. (3) generally. Prior to amendment, text read as follows: “This subsection shall be in effect for three years, beginning on the date that is 120 days after January 28, 2008.”
+
+#### Postaward Explanations for Unsuccessful Offerors for Certain Contracts
+Pub. L. 116–92, div. A, title VIII, § 874, Dec. 20, 2019, 133 Stat. 1527, provided that: “Not later than 180 days after the date of the enactment of this Act [Dec. 20, 2019], the Federal Acquisition Regulation shall be revised to require that with respect to an offer for a task order or delivery order in an amount greater than the simplified acquisition threshold (as defined in [section 134 of title 41](./chapter-001-chapter-1.md#section-134), United States Code) and less than or equal to $5,500,000 issued under an indefinite delivery-indefinite quantity contract, the contracting officer for such contract shall, upon written request from an unsuccessful offeror, provide a brief explanation as to why such offeror was unsuccessful that includes a summary of the rationale for the award and an evaluation of the significant weak or deficient factors in the offeror’s offer.”

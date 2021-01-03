@@ -76,9 +76,9 @@ Pub. L. 87–751, § 3, Oct. 5, 1962, 76 Stat. 748, provided that: “This Act [
 
     (i) shall provide to military recruiters the same access to secondary school students as is provided generally to postsecondary educational institutions or to prospective employers of those students; and
 
-    (ii) shall, upon a request made by military recruiters for military recruiting purposes, provide access to secondary school student names, addresses, and telephone listings, notwithstanding section 444(a)(5)(B) of the General Education Provisions Act ([20 U.S.C. 1232g(a)(5)(B)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1232g/a/5/B&num=0&edition=prelim)).
+    (ii) shall, upon a request made by military recruiters for military recruiting purposes, provide access to secondary school student names, addresses, electronic mail addresses (which shall be the electronic mail addresses provided by the school, if available), and telephone listings, notwithstanding subsection (a)(5) of section 444 of the General Education Provisions Act ([20 U.S.C. 1232g](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1232g&num=0&edition=prelim)).
 
-  (B) A local educational agency may not release a student’s name, address, and telephone listing under subparagraph (A)(ii) without the prior written consent of a parent of the student if the student, or a parent of the student, has submitted a request to the local educational agency that the student’s information not be released for a purpose covered by that subparagraph without prior written parental consent. Each local educational agency shall notify parents of the rights provided under the preceding sentence.
+  (B) A local educational agency may not release a student’s name, address, electronic mail address, and telephone listing under subparagraph (A)(ii) without the prior written consent of a parent of the student if the student, or a parent of the student, has submitted a request to the local educational agency that the student’s information not be released for a purpose covered by that subparagraph without prior written parental consent. Each local educational agency shall notify parents of the rights provided under the preceding sentence.
 
 (2) If a local educational agency denies a request by the Department of Defense for recruiting access, the Secretary of Defense, in cooperation with the Secretary of the military department concerned, shall designate an officer in a grade not below the grade of colonel or, in the case of the Navy, captain, or a senior executive of that military department to meet with representatives of that local educational agency in person, at the offices of that agency, for the purpose of arranging for recruiting access. The designated officer or senior executive shall seek to have that meeting within 120 days of the date of the denial of the request for recruiting access.
 
@@ -120,14 +120,18 @@ Pub. L. 87–751, § 3, Oct. 5, 1962, 76 Stat. 748, provided that: “This Act [
 
   (F) The term “member of the House of Representatives” includes a Delegate or Resident Commissioner to Congress.
 
-**(d) Directory Information Defined.—** In this section, the term “directory information” has the meaning given that term in subsection (a)(5)(A) of section 444 of the General Education Provisions Act ([20 U.S.C. 1232g](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1232g&num=0&edition=prelim)).
-
 ### Statutory Notes
 
 #### References in Text
 The Elementary and Secondary Education Act of 1965, referred to in subsec. (c)(1)(A), (6)(A)(i), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27, as amended, which is classified generally to chapter 70 (§ 6301 et seq.) of Title 20, Education. Section 8101 of the Act is classified to [section 7801 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section7801&num=0&edition=prelim). For complete classification of this Act to the Code, see Short Title note set out under [section 6301 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6301&num=0&edition=prelim) and Tables.
 
 #### Amendments
+2021—Subsec. (c)(1)(A)(ii). Pub. L. 116–283, § 521(a)(1)(A), substituted “electronic mail addresses (which shall be the electronic mail addresses provided by the school, if available), and telephone listings, notwithstanding subsection (a)(5) of section 444 of the General Education Provisions Act ([20 U.S.C. 1232g](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1232g&num=0&edition=prelim)).” for “and telephone listings, notwithstanding section 444(a)(5)(B) of the General Education Provisions Act ([20 U.S.C. 1232g(a)(5)(B)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1232g/a/5/B&num=0&edition=prelim)).”
+
+Subsec. (c)(1)(B). Pub. L. 116–283, § 521(a)(1)(B), substituted “electronic mail address, and telephone listing” for “and telephone listing”.
+
+Subsec. (d). Pub. L. 116–283, § 521(a)(2), struck out subsec. (d). Text read as follows: “In this section, the term ‘directory information’ has the meaning given that term in subsection (a)(5)(A) of section 444 of the General Education Provisions Act ([20 U.S.C. 1232g](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1232g&num=0&edition=prelim)).”
+
 2015—Subsec. (c)(6)(A)(i). Pub. L. 114–95 substituted “section 8101 of the Elementary and Secondary Education Act of 1965” for “section 9101 of the Elementary and Secondary Education Act of 1965 ([20 U.S.C. 7801](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section7801&num=0&edition=prelim))”.
 
 2004—Subsec. (c)(1)(B). Pub. L. 108–375 substituted “educational” for “education” after “Each local”.
@@ -183,11 +187,16 @@ Pub. L. 106–398, § 1 [[div. A], title V, § 563(d)], Oct. 30, 2000, 114 Stat.
 #### Transfer of Functions
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).
 
-#### Pilot Programs on Direct Commissions to Cyber Positions
-Pub. L. 114–328, div. A, title V, § 509, Dec. 23, 2016, 130 Stat. 2109, provided that: “(a) Pilot Programs Authorized.—Each Secretary of a military department may carry out a pilot program to improve the ability of an Armed Force under the jurisdiction of the Secretary to recruit cyber professionals. “(b) Elements.—Under a pilot program established under this section, an individual who meets educational, physical, and other requirements determined appropriate by the Secretary of the military department concerned may receive an original appointment as a commissioned officer in a cyber specialty. “(c) Consultation.—In developing a pilot program for the Army or the Air Force under this section, the Secretary of the Army and the Secretary of the Air Force may consult with the Secretary of the Navy with respect to an existing, similar program carried out by the Secretary of the Navy. “(d) Duration.—“(1) Commencement.—The Secretary of a military department may commence a pilot program under this section on or after January 1, 2017. “(2) Termination.—All pilot programs under this section shall terminate no later than December 31, 2022. “(e) Status Report.—Not later than January 1, 2020, each Secretary of a military department who conducts a pilot program under this section shall submit to the Committees on Armed Services of the Senate and the House of Representatives a report containing an evaluation of the success of the program in obtaining skilled cyber personnel for the Armed Forces.”
+#### Armed Services Vocational Aptitude Battery Test Special Purpose Adjunct to Address Computational Thinking
+Pub. L. 116–283, div. A, title V, § 594, Jan. 1, 2021, 134 Stat. 3666, provided that: “Not later than one year after the date of the enactment of this Act [Jan. 1, 2021], the Secretary of Defense shall establish a special purpose test adjunct to the Armed Services Vocational Aptitude Battery test to address computational thinking skills relevant to military applications, including problem decomposition, abstraction, pattern recognition, analytical ability, the identification of variables involved in data representation, and the ability to create algorithms and solution expressions.”
+
+#### Programs on Direct Commissions to Cyber Positions
+Pub. L. 114–328, div. A, title V, § 509, Dec. 23, 2016, 130 Stat. 2109, as amended by Pub. L. 116–283, div. A, title V, § 509A, Jan. 1, 2021, 134 Stat. 3586, provided that: “(a) Programs Authorized.—Each Secretary of a military department may carry out a program to improve the ability of an Armed Force under the jurisdiction of the Secretary to recruit cyber professionals. “(b) Elements.—Under a program established under this section, an individual who meets educational, physical, and other requirements determined appropriate by the Secretary of the military department concerned may receive an original appointment as a commissioned officer in a cyber specialty. “(c) Consultation.—In developing a program for the Army or the Air Force under this section, the Secretary of the Army and the Secretary of the Air Force may consult with the Secretary of the Navy with respect to an existing, similar program carried out by the Secretary of the Navy.”
 
 #### Temporary Authority To Develop and Provide Additional Recruitment Incentives
 Pub. L. 114–92, div. A, title V, § 522, Nov. 25, 2015, 129 Stat. 811, provided that: “(a) Additional Recruitment Incentives Authorized.—The Secretary of a military department may develop and provide incentives, not otherwise authorized by law, to encourage individuals to accept an appointment as a commissioned officer, to accept an appointment as a warrant officer, or to enlist in an Armed Force under the jurisdiction of the Secretary. “(b) Relation to Other Personnel Authorities.—A recruitment incentive developed under subsection (a) may be provided—“(1) without regard to the lack of specific authority for the recruitment incentive under title 10 or 37, United States Code; and “(2) notwithstanding any provision of such titles, or any rule or regulation prescribed under such provision, relating to methods of providing incentives to individuals to accept appointments or enlistments in the Armed Forces, including the provision of group or individual bonuses, pay, or other incentives. “(c) Notice and Wait Requirement.—The Secretary of a military department may not provide a recruitment incentive developed under subsection (a) until—“(1) the Secretary submits to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] a plan regarding provision of the recruitment incentive, which includes—“(A) a description of the incentive, including the purpose of the incentive and the potential recruits to be addressed by the incentive; “(B) a description of the provisions of titles 10 and 37, United States Code, from which the incentive would require a waiver and the rationale to support the waiver; “(C) a statement of the anticipated outcomes as a result of providing the incentive; and “(D) a description of the method to be used to evaluate the effectiveness of the incentive; and “(2) the expiration of the 30-day period beginning on the date on which the plan was received by Congress. “(d) Limitation on Number of Incentives.—The Secretary of a military department may not provide more than three recruitment incentives under the authority of this section. “(e) Limitation on Number of Individuals Receiving Incentives.—The number of individuals who receive one or more of the recruitment incentives provided under subsection (a) by the Secretary of a military department during a fiscal year for an Armed Force under the jurisdiction of the Secretary may not exceed 20 percent of the accession objective of that Armed Force for that fiscal year. “(f) Duration of Developed Incentive.—A recruitment incentive developed under subsection (a) may be provided for not longer than a three-year period beginning on the date on which the incentive is first provided, except that the Secretary of the military department concerned may extend the period if the Secretary determines that additional time is needed to fully evaluate the effectiveness of the incentive. “(g) Reporting Requirements.—If the Secretary of a military department provides an recruitment incentive under subsection (a) for a fiscal year, the Secretary shall submit to the congressional defense committees a report, not later than 60 days after the end of the fiscal year, containing—“(1) a description of each incentive provided under subsection (a) during that fiscal year; and “(2) an assessment of the impact of the incentives on the recruitment of individuals for an Armed Force under the jurisdiction of the Secretary. “(h) Termination of Authority to Provide Incentives.—Notwithstanding subsection (f); the authority to provide recruitment incentives under this section expires on December 31, 2020.”
+
+[For termination, effective Dec. 30, 2021, of reporting requirements in section 522(g) of Pub. L. 114–92, set out above, see section 1702(a), (b), of Pub. L. 116–92, set out as a Termination of Reporting Requirements note under [section 111 of this title](./chapter-002-department-of-defense.md#section-111).]
 
 #### Policy on Military Recruitment and Enlistment of Graduates of Secondary Schools
 Pub. L. 113–66, div. A, title V, § 573, Dec. 26, 2013, 127 Stat. 772, as amended by Pub. L. 114–95, title IX, § 9215(eee), Dec. 10, 2015, 129 Stat. 2186, provided that: “(a) Conditions on Use of Test, Assessment, or Screening Tools.—In the case of any test, assessment, or screening tool utilized under the policy on recruitment and enlistment required by subsection (b) of section 532 of the National Defense Authorization Act for Fiscal Year 2012 (Public Law 112–81; 125 Stat. 1403; [10 U.S.C. 503](./chapter-031-enlistments.md#section-503) note) for the purpose of identifying persons for recruitment and enlistment in the Armed Forces, the Secretary of Defense shall—“(1) implement a means for ensuring that graduates of a secondary school (as defined in section 8101 of the Elementary and Secondary Education Act of 1965 [[20 U.S.C. 7801](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section7801&num=0&edition=prelim)]), including all persons described in subsection (a)(2) of section 532 of the National Defense Authorization Act for Fiscal Year 2012, are required to meet the same standard on the test, assessment, or screening tool; and “(2) use uniform testing requirements and grading standards. “(b) Rule of Construction.—Nothing in section 532(b) of the National Defense Authorization Act for Fiscal Year 2012 or this section shall be construed to permit the Secretary of Defense or the Secretary of a military department to create or use a different grading standard on any test, assessment, or screening tool utilized for the purpose of identifying graduates of a secondary school (as defined in section 8101 of the Elementary and Secondary Education Act of 1965 [[20 U.S.C. 7801](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section7801&num=0&edition=prelim)]), including all persons described in subsection (a)(2) of section 532 of the National Defense Authorization Act for Fiscal Year 2012, for recruitment and enlistment in the Armed Forces.”
@@ -282,15 +291,15 @@ Pub. L. 112–239, div. A, title V, § 523, Jan. 2, 2013, 126 Stat. 1723, which 
 
 <a id="section-505"></a>
 ## § 505. Regular components: qualifications, term, grade
-**(a)** The Secretary concerned may accept original enlistments in the Regular Army, Regular Navy, Regular Air Force, Regular Marine Corps, or Regular Coast Guard, as the case may be, of qualified, effective, and able-bodied persons who are not less than seventeen years of age nor more than forty-two years of age. However, no person under eighteen years of age may be originally enlisted without the written consent of his parent or guardian, if he has a parent or guardian entitled to his custody and control.
+**(a)** The Secretary concerned may accept original enlistments in the Regular Army, Regular Navy, Regular Air Force, Regular Marine Corps, Regular Space Force, or Regular Coast Guard, as the case may be, of qualified, effective, and able-bodied persons who are not less than seventeen years of age nor more than forty-two years of age. However, no person under eighteen years of age may be originally enlisted without the written consent of his parent or guardian, if he has a parent or guardian entitled to his custody and control.
 
-**(b)** A person is enlisted in the Regular Army, Regular Navy, Regular Air Force, Regular Marine Corps, or Regular Coast Guard in the grade or rating prescribed by the Secretary concerned.
+**(b)** A person is enlisted in the Regular Army, Regular Navy, Regular Air Force, Regular Marine Corps, Regular Space Force, or Regular Coast Guard in the grade or rating prescribed by the Secretary concerned.
 
-**(c)** The Secretary concerned may accept original enlistments of persons for the duration of their minority or for a period of at least two but not more than eight years, in the Regular Army, Regular Navy, Regular Air Force, Regular Marine Corps, or Regular Coast Guard, as the case may be.
+**(c)** The Secretary concerned may accept original enlistments of persons for the duration of their minority or for a period of at least two but not more than eight years, in the Regular Army, Regular Navy, Regular Air Force, Regular Marine Corps, Regular Space Force, or Regular Coast Guard, as the case may be.
 
 **(d)**
 
-(1) The Secretary concerned may accept a reenlistment in the Regular Army, Regular Navy, Regular Air Force, Regular Marine Corps, or Regular Coast Guard, as the case may be, for a period determined under this subsection.
+(1) The Secretary concerned may accept a reenlistment in the Regular Army, Regular Navy, Regular Air Force, Regular Marine Corps, Regular Space Force, or Regular Coast Guard, as the case may be, for a period determined under this subsection.
 
 (2) In the case of a member who has less than 10 years of service in the armed forces as of the day before the first day of the period for which reenlisted, the period for which the member reenlists shall be at least two years but not more than eight years.
 
@@ -305,6 +314,8 @@ Pub. L. 112–239, div. A, title V, § 523, Jan. 2, 2013, 126 Stat. 1723, which 
 ### Statutory Notes
 
 #### Amendments
+2021—Pub. L. 116–283 substituted “Regular Marine Corps, Regular Space Force,” for “Regular Marine Corps,” wherever appearing.
+
 2008—Subsec. (d)(2), (3)(A). Pub. L. 110–417 substituted “eight years” for “six years”.
 
 2006—Subsec. (a). Pub. L. 109–163, § 543, in first sentence, substituted “forty-two years of age” for “thirty-five years of age”.
@@ -328,9 +339,12 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 <a id="section-506"></a>
 ## § 506. Regular components: extension of enlistments during war
 
-An enlistment in the Regular Army, Regular Navy, Regular Air Force, Regular Marine Corps, or Regular Coast Guard in effect at the beginning of a war, or entered into during a war, unless sooner terminated by the President, continues in effect until six months after the termination of that war.
+An enlistment in the Regular Army, Regular Navy, Regular Air Force, Regular Marine Corps, Regular Space Force, or Regular Coast Guard in effect at the beginning of a war, or entered into during a war, unless sooner terminated by the President, continues in effect until six months after the termination of that war.
 
 ### Statutory Notes
+
+#### Amendments
+2021—Pub. L. 116–283 substituted “Regular Marine Corps, Regular Space Force,” for “Regular Marine Corps,”.
 
 #### Transfer of Functions
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).
@@ -347,11 +361,14 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 ## § 508. Reenlistment: qualifications
 **(a)** No person whose service during his last term of enlistment was not honest and faithful may be reenlisted in an armed force. However, the Secretary concerned may authorize the reenlistment in the armed force under his jurisdiction of such a person if his conduct after that service has been good.
 
-**(b)** A person discharged from a Regular component may be reenlisted in the Regular Army, Regular Navy, Regular Air Force, Regular Marine Corps, or Regular Coast Guard, as the case may be, under such regulations as the Secretary concerned may prescribe.
+**(b)** A person discharged from a Regular component may be reenlisted in the Regular Army, Regular Navy, Regular Air Force, Regular Marine Corps, Regular Space Force, or Regular Coast Guard, as the case may be, under such regulations as the Secretary concerned may prescribe.
 
-**(c)** This section does not deprive a person of any right to be reenlisted in the Regular Army, Regular Navy, Regular Air Force, Regular Marine Corps, or Regular Coast Guard under any other provision of law.
+**(c)** This section does not deprive a person of any right to be reenlisted in the Regular Army, Regular Navy, Regular Air Force, Regular Marine Corps, Regular Space Force, or Regular Coast Guard under any other provision of law.
 
 ### Statutory Notes
+
+#### Amendments
+2021—Subsecs. (b), (c). Pub. L. 116–283 substituted “Regular Marine Corps, Regular Space Force,” for “Regular Marine Corps,”.
 
 #### Transfer of Functions
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).
@@ -666,10 +683,10 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
 
 <a id="section-517"></a>
-## § 517. Authorized daily average: members in pay grades E–8 and E–9
-**(a)** The authorized daily average number of enlisted members on active duty (other than for training) in an armed force in pay grades E–8 and E–9 in a fiscal year may not be more than 2.5 percent and 1.25 percent, respectively, of the number of enlisted members of that armed force who are on active duty (other than for training) on the first day of that fiscal year. In computing the limitations prescribed in the preceding sentence, there shall be excluded enlisted members of an armed force on active duty as authorized under section 115(a)(1)(B) or 115(b) of this title, or excluded from counting for active duty end strengths under [section 115(i) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section115/i&num=0&edition=prelim).
+## § 517. Authorized enlisted end strength: members in pay grades E–8 and E–9
+**(a)** The authorized end strength for enlisted members on active duty (other than for training) in an armed force in pay grades E–8 and E–9 as of the last day of a fiscal year may not be more than 3.0 percent and 1.25 percent, respectively, of the number of enlisted members of that armed force who are on active duty (other than for training). In computing the limitations prescribed in the preceding sentence, there shall be excluded enlisted members of an armed force on active duty as authorized under section 115(a)(1)(B) or 115(b) of this title, or excluded from counting for active duty end strengths under [section 115(i) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section115/i&num=0&edition=prelim).
 
-**(b)** Whenever the number of members serving in pay grade E–9 is less than the number authorized for that grade under subsection (a), the difference between the two numbers may be applied to increase the number authorized under such subsection for pay grade E–8.
+**(b)** Repealed. Pub. L. 116–283, div. A, title IV, § 403(a)(3), Jan. 1, 2021, 134 Stat. 3556.]
 
 **(c)** Whenever under [section 527 of this title](./chapter-032-officer-strength-and-distribution-in-grade.md#section-527) the President may suspend the operation of any provision of section 523, 525, or 526 of this title, the Secretary of Defense may suspend the operation of any provision of this section. Any such suspension shall, if not sooner ended, end in the manner specified in section 527 for a suspension under that section.
 
@@ -681,6 +698,12 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 | 517 | 37:232(c) (last sentence). | Oct. 12, 1949, ch. 681, § 201(c) (last sentence); added May 20, 1958, Pub. L. 85–422, § 1(3) (last sentence), 72 Stat. 124. |
 
 #### Amendments
+2021—Pub. L. 116–283, § 403(a)(1), substituted “enlisted end strength” for “daily average” in section catchline.
+
+Subsec. (a). Pub. L. 116–283, § 403(a)(2), in first sentence, substituted “end strength for” for “daily average number of”, “as of the last day of a fiscal year” for “in a fiscal year”, and “3.0 percent” for “2.5 percent” and struck out before period at end “on the first day of that fiscal year”.
+
+Subsec. (b). Pub. L. 116–283, § 403(a)(3), struck out subsec. (b) which read as follows: “Whenever the number of members serving in pay grade E–9 is less than the number authorized for that grade under subsection (a), the difference between the two numbers may be applied to increase the number authorized under such subsection for pay grade E–8.”
+
 2008—Subsec. (a). Pub. L. 110–181 substituted “1.25 percent” for “1 percent”.
 
 2004—Subsec. (a). Pub. L. 108–375 substituted “as authorized under section 115(a)(1)(B) or 115(b) of this title, or excluded from counting for active duty end strengths under [section 115(i) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section115/i&num=0&edition=prelim).” for “(other than for training) in connection with organizing, administering, recruiting, instructing, or training the reserve component of an armed force.”
@@ -755,6 +778,9 @@ Pub. L. 98–94, title V, § 503(c), Sept. 24, 1983, 97 Stat. 631, provided that
 #### Effective Date
 Section effective Nov. 1, 1962, see section 15 of Pub. L. 87–649, set out as a note preceding [section 101 of Title 37](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section101&num=0&edition=prelim), Pay and Allowances of the Uniformed Services.
 
+#### Temporary Exemption from Authorized Daily Average of Members in Pay Grades E–8 and E–9
+Pub. L. 116–283, div. A, title IX, § 929, Jan. 1, 2021, 134 Stat. 3832, provided that: “[Section 517 of title 10](./chapter-031-enlistments.md#section-517), United States Code, shall not apply to the Space Force until October 1, 2023.”
+
 #### Authorized Active Duty Strengths for Army Enlisted Members in Pay Grade E–8; Special Rule for 1995
 Pub. L. 103–337, div. A, title V, § 552(b), Oct. 5, 1994, 108 Stat. 2772, provided that the percentage applicable to enlisted members of the Army in pay grade E–8 under subsec. (a) of this section during 1995 would be 2.3 percent, rather than the percentage provided by the amendment made by Pub. L. 103–337, § 552(a).
 
@@ -765,9 +791,12 @@ Pub. L. 102–25, title II, §§ 201(b), 202, 205(b), Apr. 6, 1991, 105 Stat. 79
 <a id="section-518"></a>
 ## § 518. Temporary enlistments
 
-Temporary enlistments may be made only in the Army, Navy, Air Force, Marine Corps, or Coast Guard, as the case may be, without specification of component.
+Temporary enlistments may be made only in the Army, Navy, Air Force, Marine Corps, Space Force, or Coast Guard, as the case may be, without specification of component.
 
 ### Statutory Notes
+
+#### Amendments
+2021—Pub. L. 116–283 substituted “Marine Corps, Space Force,” for “Marine Corps,”.
 
 #### Transfer of Functions
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).

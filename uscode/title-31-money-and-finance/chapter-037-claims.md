@@ -30,7 +30,7 @@ source: >-
 
 (6) “system of records” has the same meaning given that term in [section 552a(a)(5) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section552a/a/5&num=0&edition=prelim).
 
-(7) “uniformed services” means the Army, Navy, Air Force, Marine Corps, Coast Guard, Commissioned Corps of the National Oceanic and Atmospheric Administration, and Commissioned Corps of the Public Health Service.
+(7) “uniformed services” means the Army, Navy, Air Force, Marine Corps, Space Force, Coast Guard, Commissioned Corps of the National Oceanic and Atmospheric Administration, and Commissioned Corps of the Public Health Service.
 
 (8) “nontax” means, with respect to any debt or claim, any debt or claim other than a debt or claim under the Internal Revenue Code of 1986.
 
@@ -120,6 +120,8 @@ The Social Security Act, referred to in subsec. (d)(2), is act Aug. 14, 1935, ch
 The tariff laws of the United States, referred to in subsec. (d)(3), are classified generally to Title 19, Customs Duties.
 
 #### Amendments
+2021—Subsec. (a)(7). Pub. L. 116–283 inserted “Space Force,” after “Marine Corps,”.
+
 2001—Subsec. (b)(1)(B). Pub. L. 107–107 inserted “, including actual and administrative costs related to shoplifting, theft detection, and theft prevention” before comma at end.
 
 1999—Subsec. (d)(2). Pub. L. 106–169 substituted “sections 204(f) and 1631(b)(4)” for “section 204(f)”.
@@ -375,11 +377,11 @@ For provision permitting Secretary of the Treasury to prescribe rules, regulatio
 
 **(f)**
 
-(1) The Secretary of Defense may suspend or terminate an action by the Secretary or by the Secretary of a military department under subsection (a) to collect a claim against the estate of a person who died while serving on active duty as a member of the Army, Navy, Air Force, Marine Corps, or Coast Guard during a period when the Coast Guard is operating as a service in the Navy if the Secretary determines that, under the circumstances applicable with respect to the deceased person, it is appropriate to do so.
+(1) The Secretary of Defense may suspend or terminate an action by the Secretary or by the Secretary of a military department under subsection (a) to collect a claim against the estate of a person who died while serving on active duty as a member of the Army, Navy, Air Force, Marine Corps, Space Force, or Coast Guard during a period when the Coast Guard is operating as a service in the Navy if the Secretary determines that, under the circumstances applicable with respect to the deceased person, it is appropriate to do so.
 
 (2) The Secretary of Homeland Security may suspend or terminate an action by the Secretary under subsection (a) to collect a claim against the estate of a person who died while serving on active duty as a member of the Coast Guard if the Secretary determines that, under the circumstances applicable with respect to the deceased person, it is appropriate to do so.
 
-(3) The Secretary of Veterans Affairs may suspend or terminate an action by the Secretary under subsection (a) to collect a claim against the estate of a person who died while serving on active duty as a member of the Army, Navy, Air Force, Marine Corps, or Coast Guard during a period when the Coast Guard is operating as a service in the Navy if the Secretary determines that, under the circumstances applicable with respect to the deceased person, it is appropriate to do so.
+(3) The Secretary of Veterans Affairs may suspend or terminate an action by the Secretary under subsection (a) to collect a claim against the estate of a person who died while serving on active duty as a member of the Army, Navy, Air Force, Marine Corps, Space Force, or Coast Guard during a period when the Coast Guard is operating as a service in the Navy if the Secretary determines that, under the circumstances applicable with respect to the deceased person, it is appropriate to do so.
 
 (4) In this subsection, the term “active duty” has the meaning given that term in [section 101 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section101&num=0&edition=prelim).
 
@@ -552,6 +554,8 @@ Sections 502(7), 502(8), and 504(b) of the Federal Credit Reform Act of 1990, re
 The date of enactment of the Debt Collection Improvement Act of 1996, referred to in subsec. (i)(4)(A), is the date of enactment of section 31001 of Pub. L. 104–134, which was approved Apr. 26, 1996.
 
 #### Amendments
+2021—Subsec. (f)(1), (3). Pub. L. 116–283 inserted “Space Force,” after “Marine Corps,”.
+
 2008—Subsec. (f)(3), (4). Pub. L. 110–389 added par. (3) and redesignated former par. (3) as (4).
 
 2006—Subsec. (f)(2). Pub. L. 109–241 substituted “Secretary of Homeland Security” for “Secretary of Transportation”.
@@ -619,7 +623,7 @@ Pub. L. 104–134, title III, § 31001(n), Apr. 26, 1996, 110 Stat. 1321–369, 
 Pub. L. 104–134, title III, § 31001(aa)(1), Apr. 26, 1996, 110 Stat. 1321–379, provided that: “The Secretary of the Treasury, in consultation with concerned Federal agencies, may establish guidelines, including information on outstanding debt, to assist agencies in the performance and monitoring of debt collection activities.”
 
 #### Report
-Pub. L. 104–134, title III, § 31001(aa)(2), Apr. 26, 1996, 110 Stat. 1321–379, provided that: “Not later than 3 years after the date of enactment of this Act [Apr. 26, 1996], the Secretary of the Treasury shall report to the Congress on collection services provided by Federal agencies or entities collecting debt on behalf of other Federal agencies under the authorities contained in [section 3711(g) of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section3711/g&num=0&edition=prelim), United States Code, as added by subsection (m) of this section.”
+Pub. L. 104–134, title III, § 31001(aa)(2), Apr. 26, 1996, 110 Stat. 1321–379, required the Secretary of the Treasury, not later than 3 years after Apr. 26, 1996, to report to Congress on collection services provided by Federal agencies or entities collecting debt on behalf of other Federal agencies under the authorities contained in subsec. (g) of this section.
 
 #### Standards and Policies for Compromising, Writing-Down, Forgiving, or Discharging Indebtedness
 Pub. L. 104–134, title III, § 31001(bb), Apr. 26, 1996, 110 Stat. 1321–380, provided that: “The Director of the Office of Management and Budget shall— “(1) review the standards and policies of each Federal agency for compromising, writing-down, forgiving, or discharging indebtedness arising from programs of the agency; “(2) determine whether those standards and policies are consistent and protect the interests of the United States; “(3) in the case of any Federal agency standard or policy that the Director determines is not consistent or does not protect the interests of the United States, direct the head of the agency to make appropriate modifications to the standard or policy; and “(4) report annually to the Congress on—“(A) deficiencies in the standards and policies of Federal agencies for compromising, writing-down, forgiving, or discharging indebtedness; and “(B) progress made in improving those standards and policies.”
@@ -1128,7 +1132,7 @@ Subsec. (i). Pub. L. 104–134, § 31001(q), added subsec. (i).
 
   (A) The Attorney General may make contracts retaining private counsel to furnish legal services, including representation in negotiation, compromise, settlement, and litigation, in the case of any claim of indebtedness owed the United States. Each such contract shall include such terms and conditions as the Attorney General considers necessary and appropriate, including a provision specifying the amount of the fee to be paid to the private counsel under such contract or the method for calculating that fee. The amount of the fee payable for legal services furnished under any such contract may not exceed the fee that counsel engaged in the private practice of law in the area or areas where the legal services are furnished typically charge clients for furnishing legal services in the collection of claims of indebtedness, as determined by the Attorney General, considering the amount, age, and nature of the indebtedness and whether the debtor is an individual or a business entity. Nothing in this subparagraph shall relieve the Attorney General of the competition requirements set forth in division C (except sections 3302, 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41.
 
-  (B) The Attorney General shall use his best efforts to enter into contracts under this paragraph with law firms owned and controlled by socially and economically disadvantaged individuals and law firms that are qualified HUBZone small business concerns (as defined in section 3(p) of the Small Business Act), so as to enable each agency to comply with paragraph (3).
+  (B) The Attorney General shall use his best efforts to enter into contracts under this paragraph with law firms owned and controlled by socially and economically disadvantaged individuals and law firms that are qualified HUBZone small business concerns (as defined in section 31(b) of the Small Business Act), so as to enable each agency to comply with paragraph (3).
 
 (2) The head of an executive, judicial, or legislative agency may, subject to the approval of the Attorney General, refer to a private counsel retained under paragraph (1) of this subsection claims of indebtedness owed the United States arising out of activities of that agency.
 
@@ -1138,7 +1142,7 @@ Subsec. (i). Pub. L. 104–134, § 31001(q), added subsec. (i).
 
   (B) “socially and economically disadvantaged individuals” shall be presumed to include these 11 So in original. Probably should be “the”. groups and individuals described in the last paragraph of section 8(d)(3)(C) of the Small Business Act; and
 
-  (C) the term “qualified HUBZone small business concern” has the meaning given that term in section 3(p) of the Small Business Act.
+  (C) the term “qualified HUBZone small business concern” has the meaning given that term in section 31(b) of the Small Business Act.
 
 (4) Notwithstanding sections 516, 518(b), 519, and 547(2) of title 28, a private counsel retained under paragraph (1) of this subsection may represent the United States in litigation in connection with legal services furnished pursuant to the contract entered into with that counsel under paragraph (1) of this subsection.
 
@@ -1178,9 +1182,6 @@ Subsec. (i). Pub. L. 104–134, § 31001(q), added subsec. (i).
 
 ### Statutory Notes
 
-#### Amendment of Section
-Pub. L. 115–91, div. A, title XVII, § 1701(a)(4)(E), (j), Dec. 12, 2017, 131 Stat. 1796, 1803, provided that, effective Jan. 1, 2020, this section is amended by striking “section 3(p) of the Small Business Act” each place it appears and inserting “section 31(b) of the Small Business Act”. See 2017 Amendment note below.
-
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
@@ -1200,7 +1201,7 @@ In subsection (c), the word “advanced” is omitted as surplus.
 In subsection (d), the words “Notwithstanding the provisions of any other law governing the collection of claims owed the United States” and “unpaid or underpaid” are omitted as surplus.
 
 #### References in Text
-Section 3(p) of the Small Business Act, referred to in subsec. (b)(1)(B), (3)(C), is classified to [section 632(p) of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section632/p&num=0&edition=prelim), Commerce and Trade.
+Section 31(b) of the Small Business Act, referred to in subsec. (b)(1)(B), (3)(C), is classified to [section 657a(b) of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section657a/b&num=0&edition=prelim), Commerce and Trade.
 
 The Fair Debt Collection Practices Act, referred to in subsec. (b)(6), is title VIII of Pub. L. 90–321, as added by Pub. L. 95–109 Sept. 20, 1977, 91 Stat. 874, which is classified generally to subchapter V (§ 1692 et seq.) of chapter 41 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under [section 1601 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1601&num=0&edition=prelim) and Tables.
 
@@ -2424,7 +2425,7 @@ Subsection (d) is substituted for 31:232(B)(words between 3d and 4th commas) and
 #### References in Text
 The Federal Rules of Civil Procedure, referred to in subsec. (b)(2), (3), are set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
 
-Section 101(f) of the Ethics in Government Act of 1978, referred to in subsec. (e)(2)(B), is section 101(f) of Pub. L. 95–521, title I, Oct. 26, 1978, 92 Stat. 1824, which was set out in the Appendix to Title 5, Government Organization and Employees.
+Section 101(f) of the Ethics in Government Act of 1978, referred to in subsec. (e)(2)(B), is section 101(f) of Pub. L. 95–521, title I, Oct. 26, 1978, 92 Stat. 1824, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Amendments
 2010—Subsec. (e)(4). Pub. L. 111–148 added par. (4) and struck out former par. (4) which read as follows:

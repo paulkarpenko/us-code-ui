@@ -194,7 +194,7 @@ For provisions increasing for the fiscal year ending on Sept. 30, 1981, the maxi
 
 (1) in the Army, if that appointment would result in more than—
 
-  (A) 7 officers in the grade of general;
+  (A) 8 officers in the grade of general;
 
   (B) 46 officers in a grade above the grade of major general; or
 
@@ -267,6 +267,8 @@ For provisions increasing for the fiscal year ending on Sept. 30, 1981, the maxi
 ### Statutory Notes
 
 #### Amendments
+2021—Subsec. (a)(1)(A). Pub. L. 116–283 substituted “8” for “7”.
+
 2016—Subsec. (a)(4)(B). Pub. L. 114–328, § 503(a)(1), substituted “17” for “15”.
 
 Subsec. (a)(4)(C). Pub. L. 114–328, § 503(a)(2), substituted “22” for “23”.
@@ -382,6 +384,9 @@ Pub. L. 100–180, div. A, title V, § 511(b), Dec. 4, 1987, 101 Stat. 1088, pro
 #### Transfer of Functions
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).
 
+#### Availability on the Internet of Certain Information About Officers Serving in General or Flag Officer Grades
+Pub. L. 116–92, div. A, title V, § 510A, Dec. 20, 2019, 133 Stat. 1347, provided that: “(a) Availability Required.—“(1) In general.—The Secretary of each military department shall make available on an internet website of such department available to the public information specified in paragraph (2) on each officer in a general or flag officer grade under the jurisdiction of such Secretary, including any such officer on the reserve active-status list. “(2) Information.—The information on an officer specified by this paragraph to be made available pursuant to paragraph (1) is the information as follows:“(A) The officer’s name. “(B) The officer’s current grade, duty position, command or organization, and location of assignment. “(C) A summary list of the officer’s past duty assignments while serving in a general or flag officer grade. “(b) Additional Public Notice on Certain Officers.—Whenever an officer in a grade of O–7 or above is assigned to a new billet or reassigned from a current billet, the Secretary of the military department having jurisdiction of such officer shall make available on an internet website of such department available to the public a notice of such assignment or reassignment. “(c) Limitation on Withholding of Certain Information or Notice.—“(1) Limitation.—The Secretary of a military department may not withhold the information or notice specified in subsections (a) and (b) from public availability pursuant to subsection (a), unless and until the Secretary notifies the Committees on Armed Services of the Senate and House of Representatives in writing of the information or notice that will be so withheld, together with justification for withholding the information or notice from public availability. “(2) Limited duration of withholding.—The Secretary concerned may withhold from the public under paragraph (1) information or notice on an officer only on the basis of individual risk or national security, and may continue to withhold such information or notice only for so long as the basis for withholding remains in force.”
+
 #### Reduction in Number of General and Flag Officers on Active Duty and Authorized Strength After December 31, 2022, of Such General and Flag Officers
 Pub. L. 114–328, div. A, title V, § 501(a)–(g), Dec. 23, 2016, 130 Stat. 2096–2099, provided that: “(a) Reduction in Number of General and Flag Officers by December 31, 2022.—“(1) Required reduction.—Except as otherwise provided by an Act enacted after the date of the enactment of this Act [Dec. 23, 2016] that expressly modifies the requirements of this paragraph, by not later than December 31, 2022, the Secretary of Defense shall reduce the number of general and flag officers on active duty by 110 from the aggregate authorized number of general and flag officers authorized by sections 525 and 526 of title 10, United States Code, as of December 31, 2015. “(2) Distribution of authorized positions.—Effective as of December 31, 2022, and reflecting the reduction required by paragraph (1), authorized general and flag officer positions shall be distributed among the Army, Navy, Air Force, Marine Corps, and joint pool as follows:“(A) The Army is authorized 220 positions in the general officer grades. “(B) The Navy is authorized 151 positions in the flag officer grades. “(C) The Air Force is authorized 187 positions in the general officer grades. “(D) The Marine Corps is authorized 62 positions in the general officer grades. “(E) The joint pool is authorized 232 positions in the general or flag officer grades, to be distributed as follows:“(i) 82 positions in the general officer grades from the Army. “(ii) 60 positions in the flag officer grades from the Navy. “(iii) 69 positions in the general officer grades from the Air Force. “(iv) 21 positions in the general officer grades from the Marine Corps. “(3) Temporary additional joint pool allocation.—In addition to the positions authorized by paragraph (2), the 30 general and flag officer positions designated for overseas contingency operations are authorized as an additional maximum temporary allocation to the joint pool. “(b) Plan to Achieve Required Reduction and Distribution.—“(1) Plan required.—Utilizing the study conducted under subsection (c), the Secretary of Defense shall develop a plan to achieve, by the date specified in subsection (a)(1)—“(A) the reduction required by such subsection in the number of general and flag officers; and “(B) the distribution of authorized positions required by subsection (a)(2). “(2) Submission of plan.—When the budget for the Department of Defense for fiscal year 2019 is submitted to Congress pursuant to [section 1105 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1105&num=0&edition=prelim), United States Code, the Secretary of Defense shall submit to the Committees on Armed Services of the Senate and the House of Representatives a report setting forth the plan developed under this subsection. “(3) Progress reports.—The Secretary of Defense shall include with the budget for the Department of Defense for each of fiscal years 2020, 2021, and 2022 a report describing and assessing the progress of the Secretary in implementing the plan developed under this subsection. “(c) Study for Purposes of Plan.—“(1) Study required.—For purposes of complying with subsection (a) and preparing the plan required by subsection (b), the Secretary of Defense shall conduct a comprehensive and deliberate global manpower study of requirements for general and flag officers with the goal of identifying—“(A) the requirement justification for each general or flag officer position in terms of overall force structure, scope of responsibility, command and control requirements, and force readiness and execution; “(B) an additional 10 percent reduction in the aggregate number of authorized general officer and flag officer positions after the reductions required by subsection (a); and “(C) an appropriate redistribution of all general officer and flag officer positions within the reductions so identified. “(2) Submission of study results.—Not later than April 1, 2017, the Secretary of Defense shall submit to the Committees on Armed Services of the Senate and the House of Representatives a report setting forth the results of the study conducted under this subsection, including the justification for general and flag officer position to be retained and the reductions identified by general and flag officer position. “(3) Interim report.—If practicable before the date specified in paragraph (2), the Secretary of Defense shall submit to the Committees on Armed Services of the Senate and the House of Representatives an interim report describing the progress made toward the completion of the study under this subsection, including—“(A) the specific general and flag officer positions that have been evaluated; “(B) the results of that evaluation; and “(C) recommendations for achieving the additional 10 percent reduction in the aggregate number of authorized general officer and flag officer positions to be identified under paragraph (1)(C) and recommendations for redistribution of general and flag officer positions that have been developed to that point. “(d) Exclusions.—“(1) Related to joint duty assignments.—For purposes of complying with subsection (a), the Secretary of Defense may exclude—“(A) a general or flag officer released from a joint duty assignment, but only during the 60-day period beginning on the date the officer departs the joint duty assignment, except that the Secretary may authorize the Secretary of a military department to extend the 60-day period by an additional 120 days, but not more than three officers on active duty from each Armed Force may be covered by the additional extension at the same time; and “(B) the number of officers required to serve in joint duty assignments for each Armed Force as authorized by the Secretary under [section 526a(b) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section526a/b&num=0&edition=prelim), United States Code, as added by subsection (h) of this section. “(2) Related to relief from chief of staff duty.—For purposes of complying with subsection (a), the Secretary of Defense may exclude an officer who continues to hold the grade of general or admiral under [section 601(b)(5) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section601/b/5&num=0&edition=prelim), United States Code, after relief from the position of Chairman of the Joint Chiefs of Staff, Chief of Staff of the Army, Chief of Naval Operations, Chief of Staff of the Air Force, or Commandant of the Marine Corps. “(3) Related to retirement, separation, release, or relief.—For purposes of complying with subsection (a), the Secretary of Defense may exclude the following officers:“(A) An officer of an Armed Force in the grade of brigadier general or above or, in the case of the Navy, in the grade of rear admiral (lower half) or above, who is on leave pending the retirement, separation, or release of that officer from active duty, but only during the 60-day period beginning on the date of the commencement of such leave of such officer. “(B) An officer of an Armed Force who has been relieved from a position designated under [section 601(a) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section601/a&num=0&edition=prelim), United States Code, or by law to carry one of the grades specified in such section, but only during the 60-day period beginning on the date on which the assignment of the officer to the first position is terminated or until the officer is assigned to a second such position, whichever occurs first. “(e) Secretarial Authority to Grant Exceptions to Limitations.—“(1) In general.—Subject to paragraph (2), the Secretary of Defense may alter the reduction otherwise required by subsection (a)(1) in the number of general and flag officer or the distribution of authorized positions otherwise required by subsection (a)(2) in the interest of the national security of the United States. “(2) Notice to congress of exceptions.—Not later than 30 days after authorizing a number of general or flag officers in excess of the number required as a result of the reduction required by subsection (a)(1) or altering the distribution of authorized positions under subsection (a)(2), the Secretary of Defense shall submit to the Committees on Armed Services of the Senate and the House of Representatives written notice of such exception, including a statement of the reason for such exception and the anticipated duration of the exception. “(f) Orderly Transition for Officers Recently Assigned to Positions to Be Eliminated.—“(1) Covered officers.—In order to provide an orderly transition for personnel in general or flag officer positions to be eliminated pursuant to the plan prepared under subsection (b), any general or flag officer who has not completed, as of December 31, 2022, at least 24 months in a position to be eliminated pursuant to the plan may remain in the position until the last day of the month that is 24 months after the month in which the officer assumed the duties of the position. “(2) Report to congress on covered officers.—The Secretary of Defense shall include in the annual report required by [section 526(j) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section526/j&num=0&edition=prelim), United States Code, in 2020 a description of the positions in which an officer will remain pursuant to paragraph (1), including the latest date on which the officer may remain in such position pursuant to that paragraph. “(3) Notice to congress on detachment of covered officers.—The Secretary of Defense shall submit to the Committees on Armed Services of the Senate and the House of Representatives a notice on the date on which each officer covered by paragraph (1) is detached from the officer’s position pursuant to such paragraph. “(g) Relation to Subsequent General or Flag Nominations.—“(1) Notice to senate with nomination.—In order to help achieve the requirements of the plan required by subsection (b), effective 30 days after the commencement of the implementation of the plan, the Secretary of Defense shall include with each nomination of an officer to a grade above colonel or captain (in the case of the Navy) that is forwarded by the President to the Senate for appointment, by and with the advice and consent of the Senate, a certification to the Committee on Armed Services of the Senate that the appointment of the officer to the grade concerned will not interfere with achieving the reduction required by subsection (a)(1) in the number of general and flag officer positions or the distribution of authorized positions required by subsection (a)(2). “(2) Implementation.—Not later than 120 days after the date of the submission of the plan required by subsection (b), the Secretary of Defense shall revise applicable guidance of the Department of Defense on general and flag officer authorizations in order to ensure that—“(A) the achievement of the reductions required pursuant to subsection (a) is incorporated into the planning for the execution of promotions by the military departments and for the joint pool; “(B) to the extent practicable, the resulting grades for general and flag officer positions are uniformly applied to positions of similar duties and responsibilities across the military departments and the joint pool; and “(C) planning achieves a reduction in the headquarters functions and administrative and support activities and staffs of the Department of Defense and the military departments commensurate with the achievement of the reductions required pursuant to subsection (a).”
 
@@ -441,7 +446,7 @@ Pub. L. 97–252, title XI, § 1116, Sept. 8, 1982, 96 Stat. 750.
 
 (3) The number excluded under paragraph (1) and serving in positions designated under that paragraph—
 
-  (A) in the grade of general or admiral may not exceed 20;
+  (A) in the grade of general or admiral may not exceed 19;
 
   (B) in a grade above the grade of major general or rear admiral may not exceed 68; and
 
@@ -515,7 +520,7 @@ Pub. L. 97–252, title XI, § 1116, Sept. 8, 1982, 96 Stat. 750.
 
 (2) the number of general officers and flag officers in joint duty assignments who, as of such January 1, counted toward the statutory limit under subsection (b)(1).
 
-**(k) Cessation of Applicability.—** The provisions of this section shall not apply to number 11 So in original. Probably should be preceded by “the”. of general officers and flag officers in the armed forces after December 31, 2022. For provisions applicable to the number of such officers after that date, see [section 526a of this title](./chapter-032-officer-strength-and-distribution-in-grade.md#section-526a).
+**(k) Cessation of Applicability.—** The provisions of this section shall not apply to the number of general officers and flag officers in the armed forces after December 31, 2022. For provisions applicable to the number of such officers after that date, see [section 526a of this title](./chapter-032-officer-strength-and-distribution-in-grade.md#section-526a).
 
 ### Statutory Notes
 
@@ -528,6 +533,10 @@ Present law (section 811(a) of Public Law 95–79, as amended) provides that the
 A prior section 526 was renumbered [section 527 of this title](./chapter-032-officer-strength-and-distribution-in-grade.md#section-527).
 
 #### Amendments
+2021—Subsec. (b)(3)(A). Pub. L. 116–283 substituted “19” for “20”.
+
+2019—Subsec. (k). Pub. L. 116–92 inserted “the” before “number of general officers”.
+
 2016—Subsec. (a)(4). Pub. L. 114–328, § 503(b), substituted “62” for “61”.
 
 Subsec. (k). Pub. L. 114–328, § 501(h)(2), added subsec. (k).
@@ -650,6 +659,9 @@ Pub. L. 101–510, div. A, title IV, § 403(a), Nov. 5, 1990, 104 Stat. 1545, pr
 #### Termination of Reporting Requirements
 For termination, effective Dec. 31, 2021, of provisions in subsec. (j) of this section requiring submittal of annual report to Congress, see section 1061 of Pub. L. 114–328, set out as a note under [section 111 of this title](./chapter-002-department-of-defense.md#section-111).
 
+#### Construction of Decrease as Applying to Generals
+Pub. L. 116–283, div. A, title V, § 501(c)(3), Jan. 1, 2021, 134 Stat. 3563, provided that: “The reduction in number of positions excluded from authorized strength limitations resulting from the amendment made by paragraph (2) [amending this section] shall apply to positions in the grade of general.”
+
 #### Acquisition and Contracting Billets
 Pub. L. 110–417, [div. A], title V, § 503(e), Oct. 14, 2008, 122 Stat. 4434, provided that: “(1) Reservation of army increase.—The increase in the number of general officers on active duty in the Army, as authorized by the amendment made by subsection (a) [amending this section] is reserved for general officers in the Army who serve in an acquisition position. “(2) Reservation of portion of increase in joint duty assignments excluded from limitation.—Of the increase in the number of general officer and flag officer joint duty assignments that may be designated for exclusion from the limitations on the number of general officers and flag officers on active duty, as authorized by the amendment made by subsection (c) [amending this section], five of the designated assignments are reserved for general officers or flag officers who serve in an acquisition position, including one assignment in the Defense Contract Management Agency.”
 
@@ -680,21 +692,43 @@ Pub. L. 110–417, [div. A], title V, § 503(e), Oct. 14, 2008, 122 Stat. 4434, 
 
   (D) For the Marine Corps, 17.
 
-**(c) Exclusion of Certain Officers Pending Separation or Retirement or Between Senior Positions.—** The limitations of this section do not apply to—
+**(c) Exclusion of Certain Officers of Reserve Components.—** The limitations of this section do not apply to the following:
+
+(1) A general or flag officer of a reserve component who is on active duty—
+
+  (A) for training; or
+
+  (B) under a call or order specifying a period of less than 180 days.
+
+(2)
+
+  (A) A general or flag officer of a reserve component who is authorized by the Secretary of the military department concerned to serve on active duty for a period of at least 180 days and not longer than 365 days.
+
+  (B) The Secretary of the military department concerned may authorize a number, determined under subparagraph (C), of officers in the reserve component of each armed force under the jurisdiction of that Secretary to serve as described in subparagraph (A).
+
+  (C) Each number described in subparagraph (B) may not exceed 10 percent of the number of general or flag officers, as the case may be, authorized to serve in the armed force concerned under [section 12004 of this title](./chapter-1201-authorized-strengths-and-distribution-in-grade.md#section-12004). In determining a number under this subparagraph, any fraction shall be rounded down to the next whole number that is greater than zero.
+
+(3)
+
+  (A) A general or flag officer of a reserve component who is on active duty for a period longer than 365 days and not longer than three years.
+
+  (B) The number of officers described in subparagraph (A) who do not serve in a position that is a joint duty assignment for purposes of chapter 38 of this title may not exceed five per armed force, unless authorized by the Secretary of Defense.
+
+**(d) Exclusion of Certain Officers Pending Separation or Retirement or Between Senior Positions.—** The limitations of this section do not apply to—
 
 (1) an officer of an armed force in the grade of brigadier general or above or, in the case of the Navy, in the grade of rear admiral (lower half) or above, who is on leave pending the retirement, separation, or release of that officer from active duty, but only during the 60-day period beginning on the date of the commencement of such leave of such officer; or
 
 (2) an officer of an armed force who has been relieved from a position designated under [section 601(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section601/a&num=0&edition=prelim) or by law to carry one of the grades specified in such section, but only during the 60-day period beginning on the date on which the assignment of the officer to the first position is terminated or until the officer is assigned to a second such position, whichever occurs first.
 
-**(d) Temporary Exclusion for Assignment to Certain Temporary Billets.—**
+**(e) Temporary Exclusion for Assignment to Certain Temporary Billets.—**
 
 (1) **In general.—** — The limitations in subsection (a) do not apply to a general officer or flag officer assigned to a temporary joint duty assignment designated by the Secretary of Defense.
 
 (2) **Duration of exclusion.—** — A general officer or flag officer assigned to a temporary joint duty assignment as described in paragraph (1) may not be excluded under this subsection from the limitations in subsection (a) for a period of longer than one year.
 
-**(e) Exclusion of Officers Departing From Joint Duty Assignments.—** The limitations in subsection (a) do not apply to an officer released from a joint duty assignment, but only during the 60-day period beginning on the date the officer departs the joint duty assignment. The Secretary of Defense may authorize the Secretary of a military department to extend the 60-day period by an additional 120 days, except that not more than three officers on active duty from each armed force may be covered by the additional extension at the same time.
+**(f) Exclusion of Officers Departing From Joint Duty Assignments.—** The limitations in subsection (a) do not apply to an officer released from a joint duty assignment, but only during the 60-day period beginning on the date the officer departs the joint duty assignment. The Secretary of Defense may authorize the Secretary of a military department to extend the 60-day period by an additional 120 days, except that not more than three officers on active duty from each armed force may be covered by the additional extension at the same time.
 
-**(f) Active-Duty Baseline.—**
+**(g) Active-Duty Baseline.—**
 
 (1) **Notice and wait requirements.—** — If the Secretary of a military department proposes an action that would increase above the baseline the number of general officers or flag officers of an armed force under the jurisdiction of that Secretary who would be on active duty and would count against the statutory limit applicable to that armed force under subsection (a), the action shall not take effect until after the end of the 60-calendar day period beginning on the date on which the Secretary provides notice of the proposed action, including the rationale for the action, to the Committees on Armed Services of the Senate and the House of Representatives.
 
@@ -704,7 +738,7 @@ Pub. L. 110–417, [div. A], title V, § 503(e), Oct. 14, 2008, 122 Stat. 4434, 
 
   (B) the actual number of general officers or flag officers of that armed force who, as of January 1, 2023, counted toward the statutory limit of general officers or flag officers of that armed force under subsection (a).
 
-**(g) Joint Duty Assignment Baseline.—**
+**(h) Joint Duty Assignment Baseline.—**
 
 (1) **Notice and wait requirement.—** — If the Secretary of Defense, the Secretary of a military department, or the Chairman of the Joint Chiefs of Staff proposes an action that would increase above the baseline the number of general officers and flag officers of the armed forces in joint duty assignments who count against the statutory limit under subsection (b)(1), the action shall not take effect until after the end of the 60-calendar day period beginning on the date on which such Secretary or the Chairman, as the case may be, provides notice of the proposed action, including the rationale for the action, to the Committees on Armed Services of the Senate and the House of Representatives.
 
@@ -714,11 +748,16 @@ Pub. L. 110–417, [div. A], title V, § 503(e), Oct. 14, 2008, 122 Stat. 4434, 
 
   (B) the actual number of general officers and flag officers who, as of January 1, 2023, were in joint duty assignments counted toward the statutory limit under subsection (b)(1).
 
-**(h) Annual Report.—** Not later than March 1 each year, the Secretary of Defense shall submit to the Committees on Armed Services of the Senate and the House of Representatives a report specifying the following:
+**(i) Annual Report.—** Not later than March 1 each year, the Secretary of Defense shall submit to the Committees on Armed Services of the Senate and the House of Representatives a report specifying the following:
 
 (1) The numbers of general officers and flag officers who, as of January 1 of the calendar year in which the report is submitted, counted toward the service-specific limits of subsection (a).
 
 (2) The number of general officers and flag officers in joint duty assignments who, as of such January 1, counted toward the statutory limit under subsection (b)(1).
+
+### Statutory Notes
+
+#### Amendments
+2021—Subsecs. (c) to (i). Pub. L. 116–283 added subsec. (c) and redesignated former subsecs. (c) to (h) as (d) to (i), respectively.
 
 
 <a id="section-527"></a>

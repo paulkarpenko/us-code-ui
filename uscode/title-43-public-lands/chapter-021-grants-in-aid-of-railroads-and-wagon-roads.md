@@ -65,12 +65,13 @@ When any railroad company claiming a grant of land under any Act of Congress, de
 #### Change of Name
 “United States Geological Survey” substituted for “Geological Survey” in first undesignated paragraph pursuant to provision of title I of Pub. L. 102–154, set out as a note under [section 31 of this title](./chapter-002-united-states-geological-survey.md#section-31).
 
+#### Abolition of Office of Surveyor General and Transfer of Functions
+Act Mar. 3, 1925, abolished office of surveyor general and transferred administration of all activities in charge of surveyors general to Field Surveying Service under jurisdiction of United States Supervisor of Surveys.
+
 #### Transfer of Functions
 For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out under [section 1451 of this title](./chapter-031-department-of-the-interior.md#section-1451).
 
 “Supervisor of Surveys,” changed to “such officer as the Secretary of the Interior may designate,” and two references to “Commissioner of the General Land Office,” changed to “Secretary of the Interior or such officer as he may designate,” and “Secretary or such officer,” respectively, on authority of section 403 of Reorg. Plan No. 3 of 1946. See note set out under [section 1 of this title](./chapter-001-bureau-of-land-management.md#section-1).
-
-Act Mar. 3, 1925, abolished office of surveyor general and transferred administration of all activities in charge of surveyors general to Field Surveying Service under jurisdiction of United States Supervisor of Surveys.
 
 
 <a id="section-888"></a>
@@ -231,13 +232,13 @@ To enable the Secretary of the Interior to complete the adjustment of land grant
 
 ### Statutory Notes
 
+#### Appropriations
+Effective July 1, 1935, the continuing appropriation provided for in this section was repealed by act June 26, 1934, ch. 756, § 1, 48 Stat. 1225.
+
 #### Transfer of Functions
 For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out under [section 1451 of this title](./chapter-031-department-of-the-interior.md#section-1451).
 
 “Secretary of the Interior or such officer as he may designate” substituted for “Commissioner of the General Land Office” on authority of section 403 of Reorg. Plan No. 3 of 1946. See note set out under [section 1 of this title](./chapter-001-bureau-of-land-management.md#section-1).
-
-#### Appropriations
-Effective July 1, 1935, the continuing appropriation provided for in this section was repealed by act June 26, 1934, ch. 756, § 1, 48 Stat. 1225.
 
 
 <a id="section-909"></a>

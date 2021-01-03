@@ -50,7 +50,7 @@ In subsection (a), before clause (1), the words “Except as otherwise provided�
 In subsection (b)(1)(B), the words “supplemented . . . by” and “carried on by the corporation” are omitted as unnecessary.
 
 #### Termination of Reporting Requirements
-With respect to corporations listed below, for termination, effective May 15, 2000, of reporting provisions in subsec. (b)(1) of this section, see section 3003 of Pub. L. 104–66, as amended, set out as a note under [section 1113 of Title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1113&num=0&edition=prelim), Money and Finance, and pages 196 through 208 of House Document No. 103–7.
+With respect to corporations listed below, for termination, effective May 15, 2000, of reporting provisions in subsec. (b)(1) of this section, see section 3003 of Pub. L. 104–66, set out as a note under [section 1113 of Title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1113&num=0&edition=prelim), Money and Finance, and pages 196 through 208 of House Document No. 103–7.
 
 Agricultural Hall of Fame
 

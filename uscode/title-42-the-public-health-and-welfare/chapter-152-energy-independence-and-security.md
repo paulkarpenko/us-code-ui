@@ -2,153 +2,144 @@
 title: 42
 chapter: '152'
 heading: ENERGY INDEPENDENCE AND SECURITY
-section_count: 123
+section_count: 141
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42&num=0&edition=prelim
 ---
 <a id="section-17001"></a>
-## § 17001. Smart grid interoperability framework
-**(a) Interoperability framework** The Director of the National Institute of Standards and Technology shall have primary responsibility to coordinate the development of a framework that includes protocols and model standards for information management to achieve interoperability of smart grid devices and systems. Such protocols and standards shall further align policy, business, and technology approaches in a manner that would enable all electric resources, including demand-side resources, to contribute to an efficient, reliable electricity network. In developing such protocols and standards—
+## § 17001. Voluntary state, regional, and local electricity distribution planning
+**(a) In general** On the request of a State, regional organization, or electric utility, the Secretary of Energy shall provide assistance to States, regional organizations, and electric utilities to facilitate the development of State, regional, and local electricity distribution plans by—
 
-(1) the Director shall seek input and cooperation from the Commission, OEDER and its Smart Grid Task Force, the Smart Grid Advisory Committee, other relevant Federal and State agencies; and
+(1) conducting a resource assessment and analysis of future demand and distribution requirements; and
 
-(2) the Director shall also solicit input and cooperation from private entities interested in such protocols and standards, including but not limited to the Gridwise Architecture Council, the International Electrical and Electronics Engineers, the National Electric Reliability Organization recognized by the Federal Energy Regulatory Commission, and National Electrical Manufacturer’s Association.
+(2) developing open source tools for State, regional, and local planning and operations.
 
-**(b) Scope of framework** The framework developed under subsection (a) shall be flexible, uniform and technology neutral, including but not limited to technologies for managing smart grid information, and designed—
+**(b) Risk and security analysis** The assessment under subsection (a)(1) shall include—
 
-(1) to accommodate traditional, centralized generation and transmission resources and consumer distributed resources, including distributed generation, renewable generation, energy storage, energy efficiency, and demand response and enabling devices and systems;
+(1) the evaluation of the physical security, cybersecurity, and associated communications needs of an advanced distribution management system and the integration of distributed energy resources; and
 
-(2) to be flexible to incorporate—
+(2) advanced use of grid architecture to analyze risks in an all-hazards approach that includes communications infrastructure, control systems architecture, and power systems architecture.
 
-  (A) regional and organizational differences; and
+**(c) Designation** The information collected for the assessment and analysis under subsection (a)(1)—
 
-  (B) technological innovations;
+(1) shall be considered to be critical electric infrastructure information under [section 824o–1 of title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section824o–1&num=0&edition=prelim); and
 
-(3) to consider the use of voluntary uniform standards for certain classes of mass-produced electric appliances and equipment for homes and businesses that enable customers, at their election and consistent with applicable State and Federal laws, and are manufactured with the ability to respond to electric grid emergencies and demand response signals by curtailing all, or a portion of, the electrical power consumed by the appliances or equipment in response to an emergency or demand response signal, including through—
+(2) shall only be released in compliance with regulations implementing that section.
 
-  (A) load reduction to reduce total electrical demand;
+**(d) Technical assistance** For the purpose of assisting in the development of State and regional electricity distribution plans, the Secretary shall provide technical assistance to—
 
-  (B) adjustment of load to provide grid ancillary services; and
+(1) States;
 
-  (C) in the event of a reliability crisis that threatens an outage, short-term load shedding to help preserve the stability of the grid; and
+(2) regional reliability entities; and
 
-(4) such voluntary standards should incorporate appropriate manufacturer lead time.11 So in original. Does not fit with subsec. (b) introductory provisions.
+(3) other distribution asset owners and operators.
 
-**(c) Timing of framework development** The Institute shall begin work pursuant to this section within 60 days of December 19, 2007. The Institute shall provide and publish an initial report on progress toward recommended or consensus standards and protocols within 1 year after December 19, 2007, further reports at such times as developments warrant in the judgment of the Institute, and a final report when the Institute determines that the work is completed or that a Federal role is no longer necessary.
+**(e) Withdrawal** A State or any entity that has requested technical assistance under this section may withdraw the request for technical assistance at any time, and on such withdrawal, the Secretary shall terminate all assistance efforts.
 
-**(d) Standards for interoperability in Federal jurisdiction** At any time after the Institute’s work has led to sufficient consensus in the Commission’s judgment, the Commission shall institute a rulemaking proceeding to adopt such standards and protocols as may be necessary to insure smart-grid functionality and interoperability in interstate transmission of electric power, and regional and wholesale electricity markets.
-
-**(e) Authorization** There are authorized to be appropriated for the purposes of this section $5,000,000 to the Institute to support the activities required by this subsection 22 So in original. Probably should be “section”. for each of fiscal years 2008 through 2012.
+**(f) Effect** Nothing in this section authorizes the Secretary to require any State, regional organization, regional reliability entity, asset owner, or asset operator to adopt any model, tool, plan, analysis, or assessment.
 
 ### Statutory Notes
 
 #### Codification
-December 19, 2007, referred to in subsec. (c), was in the original “enactment” and was translated as meaning the date of enactment of Pub. L. 110–140, to reflect the probable intent of Congress.
-
-#### Effective Date
-Section effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as a note under [section 1824 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1824&num=0&edition=prelim), The Congress.
+Section was enacted as part of the Energy Act of 2020, and not as part of the Energy Independence and Security Act of 2007 which comprises this chapter.
 
 
 <a id="section-17002"></a>
-## § 17002. Federal matching fund for smart grid investment costs
-**(a) Matching fund** The Secretary shall establish a Smart Grid Investment Matching Grant Program to provide grants of up to one-half (50 percent) of qualifying Smart Grid investments.
+## § 17002. Micro-grid and integrated micro-grid systems program
+**(a) Definitions** In this section:
 
-**(b) Qualifying investments** Qualifying Smart Grid investments may include any of the following made on or after December 19, 2007:
+(1) **Integrated micro-grid system** — The term “integrated micro-grid system” means a micro-grid system that—
 
-(1) In the case of appliances covered for purposes of establishing energy conservation standards under part B of title III of the Energy Policy and Conservation Act of 1975 ([42 U.S.C. 6291](./chapter-077-energy-conservation.md#section-6291) et seq.), the documented expenditures incurred by a manufacturer of such appliances associated with purchasing or designing, creating the ability to manufacture, and manufacturing and installing for one calendar year, internal devices that allow the appliance to engage in Smart Grid functions.
+  (A) comprises generation from both conventional and renewable energy resources; and
 
-(2) In the case of specialized electricity-using equipment, including motors and drivers, installed in industrial or commercial applications, the documented expenditures incurred by its owner or its manufacturer of installing devices or modifying that equipment to engage in Smart Grid functions.
+  (B) may use grid-scale energy storage.
 
-(3) In the case of transmission and distribution equipment fitted with monitoring and communications devices to enable smart grid functions, the documented expenditures incurred by the electric utility to purchase and install such monitoring and communications devices.
+(2) **Isolated community** — The term “isolated community” means a community that is powered by a stand-alone electric generation and distribution system without the economic and reliability benefits of connection to a regional electric grid.
 
-(4) In the case of metering devices, sensors, control devices, and other devices integrated with and attached to an electric utility system or retail distributor or marketer of electricity that are capable of engaging in Smart Grid functions, the documented expenditures incurred by the electric utility, distributor, or marketer and its customers to purchase and install such devices.
+(3) **Micro-grid system** — The term “micro-grid system” means a localized grid that operates autonomously, regardless of whether the grid can operate in connection with another grid.
 
-(5) In the case of software that enables devices or computers to engage in Smart Grid functions, the documented purchase costs of the software.
+(4) **Rural electric cooperative** — The term “rural electric cooperative” means an electric cooperative (as defined in [section 796 of title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section796&num=0&edition=prelim)) that sells electric energy to persons in rural areas.
 
-(6) In the case of entities that operate or coordinate operations of regional electric grids, the documented expenditures for purchasing and installing such equipment that allows Smart Grid functions to operate and be combined or coordinated among multiple electric utilities and between that region and other regions.
+(5) **Strategy** — The term “strategy” means the strategy developed pursuant to subsection (b)(2)(B).
 
-(7) In the case of persons or entities other than electric utilities owning and operating a distributed electricity generator, the documented expenditures of enabling that generator to be monitored, controlled, or otherwise integrated into grid operations and electricity flows on the grid utilizing Smart Grid functions.
+**(b) Program**
 
-(8) In the case of electric or hybrid-electric vehicles, the documented expenses for devices that allow the vehicle to engage in Smart Grid functions (but not the costs of electricity storage for the vehicle).
+(1) **Establishment** — The Secretary of Energy (in this section referred to as the “Secretary”) shall establish a program to promote the development of—
 
-(9) The documented expenditures related to purchasing and implementing Smart Grid functions in such other cases as the Secretary shall identify.
+  (A) integrated micro-grid systems for isolated communities; and
 
-**(c) Investments not included** Qualifying Smart Grid investments do not include any of the following:
+  (B) micro-grid systems to increase the resilience of critical infrastructure.
 
-(1) Investments or expenditures for Smart Grid technologies, devices, or equipment that utilize specific tax credits or deductions under the Internal Revenue Code, as amended.
+(2) **Requirements** — The program established under paragraph (1) shall—
 
-(2) Expenditures for electricity generation, transmission, or distribution infrastructure or equipment not directly related to enabling Smart Grid functions.
+  (A) develop a feasibility assessment for—
 
-(3) After the final date for State consideration of the Smart Grid Information Standard under section 2621(d)(17) 11 See References in Text note below. of title 16, an investment that is not in compliance with such standard.
+    (i) integrated micro-grid systems in isolated communities; and
 
-(4) After the development and publication by the Institute of protocols and model standards for interoperability of smart grid devices and technologies, an investment that fails to incorporate any of such protocols or model standards.
+    (ii) micro-grid systems to enhance the resilience of critical infrastructure;
 
-(5) Expenditures for physical interconnection of generators or other devices to the grid except those that are directly related to enabling Smart Grid functions.
+  (B) develop an implementation strategy, in accordance with paragraph (3), to promote the development of integrated micro-grid systems for isolated communities, particularly for those communities exposed to extreme weather conditions and high energy costs, including electricity, space heating and cooling, and transportation;
 
-(6) Expenditures for ongoing salaries, benefits, or personnel costs not incurred in the initial installation, training, or start up of smart grid functions.
+  (C) develop an implementation strategy to promote the development of micro-grid systems that increase the resilience of critical infrastructure; and
 
-(7) Expenditures for travel, lodging, meals or other personal costs.
+  (D) carry out cost-shared demonstration projects, based upon the strategies developed under subparagraph (B) that include the development of physical and cybersecurity plans to take appropriate measures to protect and secure the electric grid.
 
-(8) Ongoing or routine operation, billing, customer relations, security, and maintenance expenditures.
+(3) **Requirements for strategy** — In developing the strategy under paragraph (2)(B), the Secretary shall consider—
 
-(9) Such other expenditures that the Secretary determines not to be Qualifying Smart Grid Investments by reason of the lack of the ability to perform Smart Grid functions or lack of direct relationship to Smart Grid functions.
+  (A) opportunities for improving the efficiency of existing integrated micro-grid systems;
 
-**(d) Smart grid functions** The term “smart grid functions” means any of the following:
+  (B) the capacity of the local workforce to operate, maintain, and repair a integrated micro-grid system as well as opportunities to improve that capacity;
 
-(1) The ability to develop, store, send and receive digital information concerning electricity use, costs, prices, time of use, nature of use, storage, or other information relevant to device, grid, or utility operations, to or from or by means of the electric utility system, through one or a combination of devices and technologies.
+  (C) leveraging existing capacity within local or regional research organizations, such as organizations based at institutions of higher education, to support development of integrated micro-grid systems, including by testing novel components and systems prior to field deployment;
 
-(2) The ability to develop, store, send and receive digital information concerning electricity use, costs, prices, time of use, nature of use, storage, or other information relevant to device, grid, or utility operations to or from a computer or other control device.
+  (D) the need for basic infrastructure to develop, deploy, and sustain a integrated micro-grid system;
 
-(3) The ability to measure or monitor electricity use as a function of time of day, power quality characteristics such as voltage level, current, cycles per second, or source or type of generation and to store, synthesize or report that information by digital means.
+  (E) input of traditional knowledge from local leaders of isolated communities in the development of a integrated micro-grid system;
 
-(4) The ability to sense and localize disruptions or changes in power flows on the grid and communicate such information instantaneously and automatically for purposes of enabling automatic protective responses to sustain reliability and security of grid operations.
+  (F) the impact of integrated micro-grid systems on defense, homeland security, economic development, and environmental interests;
 
-(5) The ability to detect, prevent, communicate with regard to, respond to, or recover from system security threats, including cyber-security threats and terrorism, using digital information, media, and devices.
+  (G) opportunities to leverage existing interagency coordination efforts and recommendations for new interagency coordination efforts to minimize unnecessary overhead, mobilization, and other project costs; and
 
-(6) The ability of any appliance or machine to respond to such signals, measurements, or communications automatically or in a manner programmed by its owner or operator without independent human intervention.
+  (H) any other criteria the Secretary determines appropriate.
 
-(7) The ability to use digital information to operate functionalities on the electric utility grid that were previously electro-mechanical or manual.
+**(c) Collaboration** The program established under subsection (b)(1) shall be carried out in collaboration with relevant stakeholders, including, as appropriate—
 
-(8) The ability to use digital controls to manage and modify electricity demand, enable congestion management, assist in voltage control, provide operating reserves, and provide frequency regulation.
+(1) States;
 
-(9) Such other functions as the Secretary may identify as being necessary or useful to the operation of a Smart Grid.
+(2) Indian Tribes;
 
-**(e) Procedures and rules**
+(3) regional entities and regulators;
 
-(1) The Secretary shall, within 60 days after February 17, 2009, by means of a notice of intent and subsequent solicitation of grant proposals—
+(4) units of local government;
 
-  (A) establish procedures by which applicants can obtain grants of not more than one-half of their documented costs;
+(5) institutions of higher education; and
 
-  (B) require as a condition of receiving funding under this subsection that demonstration projects utilize open protocols and standards (including Internet-based protocols and standards) if available and appropriate;
+(6) private sector entities.
 
-  (C) establish procedures to ensure that there is no duplication or multiple payment for the same investment or costs, that the grant goes to the party making the actual expenditures for the qualifying Smart Grid investments, and that the grants made have a significant effect in encouraging and facilitating the development of a smart grid;
+**(d) Report** Not later than 180 days after December 27, 2020, and annually thereafter until calendar year 2029, the Secretary shall submit to the Committee on Energy and Natural Resources of the Senate and the Committee on Energy and Commerce of the House of Representatives a report on the efforts to implement the program established under subsection (b)(1) and the status of the strategy developed under subsection (b)(2)(B).
 
-  (D) establish procedures to ensure there will be public records of grants made, recipients, and qualifying Smart Grid investments which have received grants; and
+**(e) Barriers and benefits to micro-grid systems**
 
-  (E) establish procedures to provide advance payment of moneys up to the full amount of the grant award.
+(1) **Report** — Not later than 270 days after December 27, 2020, the Secretary shall submit to the Committee on Energy and Natural Resources of the Senate and the Committee on Energy and Commerce of the House of Representatives a report on the benefits of, and barriers to, implementing resilient micro-grid systems that are—
 
-(2) The Secretary shall have discretion and exercise reasonable judgment to deny grants for investments that do not qualify.
+  (A)
 
-**(f) Authorization of appropriations** There are authorized to be appropriated to the Secretary such sums as are necessary for the administration of this section and the grants to be made pursuant to this section for fiscal years 2008 through 2012.
+    (i) owned or operated by an isolated community, rural electric cooperative, or municipal government; or
+
+    (ii) operated on behalf of a municipal government or rural electric cooperative; and
+
+  (B) designed to maximize the use of—
+
+    (i) energy-generation facilities owned or operated by isolated communities; or
+
+    (ii) a municipal or rural electric cooperative energy-generation facility.
+
+(2) **Grants to overcome barriers** — The Secretary shall award grants of not more than $500,000 to not fewer than 20 municipal governments, rural electric cooperatives, or isolated communities, up to a total of $15,000,000, each year to assist those municipal governments, rural electric cooperatives, and isolated communities in overcoming the barriers identified in the report under paragraph (1).
 
 ### Statutory Notes
 
-#### References in Text
-The Energy Policy and Conservation Act, referred to in subsec. (b)(1), is Pub. L. 94–163, Dec. 22, 1975, 89 Stat. 871. Part B of title III of the Act is classified generally to part A (§ 6291 et seq.) of subchapter III of chapter 77 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 6201 of this title](./chapter-077-energy-conservation.md#section-6201) and Tables.
-
-[Section 2621(d)(17) of title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section2621/d/17&num=0&edition=prelim), referred to in subsec. (c)(3), was redesignated section 2621(d)(19) by Pub. L. 111–5, div. A, title IV, § 408(a), Feb. 17, 2009, 123 Stat. 146.
-
-#### Amendments
-2009—Subsec. (a). Pub. L. 111–5, § 405(5), substituted “grants of up to one-half (50 percent)” for “reimbursement of one-fifth (20 percent)”.
-
-Subsec. (b)(9). Pub. L. 111–5, § 405(6), struck out last sentence which read as follows: “In making such grants, the Secretary shall seek to reward innovation and early adaptation, even if success is not complete, rather than deployment of proven and commercially viable technologies.”
-
-Subsec. (c)(1). Pub. L. 111–5, § 405(7), substituted “utilize” for “are eligible for”.
-
-Subsec. (e). Pub. L. 111–5, § 405(8), amended subsec. (e) generally. Prior to amendment, text related to establishment of procedures by which applicants who have made qualifying Smart Grid investments can seek and obtain reimbursement of one-fifth of documented expenditures.
-
-#### Effective Date
-Section effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as a note under [section 1824 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1824&num=0&edition=prelim), The Congress.
+#### Codification
+Section was enacted as part of the Energy Act of 2020, and not as part of the Energy Independence and Security Act of 2007 which comprises this chapter.
 
 
 <a id="section-17011"></a>
@@ -170,6 +161,9 @@ This Act, referred to in text, is Pub. L. 110–140, Dec. 19, 2007, 121 Stat. 14
 #### Effective Date
 Section effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as a note under [section 1824 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1824&num=0&edition=prelim), The Congress.
 
+#### Short Title of 2020 Amendment
+Pub. L. 116–260, div. Z, § 101(a), Dec. 27, 2020, 134 Stat. 2418, provided that: “This division [see Tables for classification] may be cited as the ‘Energy Act of 2020’.”
+
 #### Short Title of 2015 Amendment
 Pub. L. 114–11, § 1(a), Apr. 30, 2015, 129 Stat. 182, provided that: “This Act [enacting sections 17062, 17063, 17084, and 17085 of this title, amending sections 6295, 6302 to 6304, and 17091 of this title, and enacting provisions set out as a note under this section] may be cited as the ‘Energy Efficiency Improvement Act of 2015’.”
 
@@ -182,7 +176,7 @@ Pub. L. 110–140, title VI, § 601, Dec. 19, 2007, 121 Stat. 1674, provided tha
 
 Pub. L. 110–140, title VI, § 611, Dec. 19, 2007, 121 Stat. 1678, provided that: “This subtitle [subtitle B (§§ 611–625) of title VI of Pub. L. 110–140, enacting part B (§ 17191 et seq.) of subchapter V of this chapter] may be cited as the ‘Advanced Geothermal Energy Research and Development Act of 2007’.”
 
-Pub. L. 110–140, title VI, § 631, Dec. 19, 2007, 121 Stat. 1686, provided that: “This subtitle [subtitle C (§§ 631–636) of title VI of Pub. L. 110–140, enacting part C (§ 17211 et seq.) of subchapter V of this chapter] may be cited as the ‘Marine and Hydrokinetic Renewable Energy Research and Development Act’.”
+Pub. L. 110–140, title VI, § 631, Dec. 19, 2007, 121 Stat. 1686, which provided that subtitle C (§§ 631–636) of title VI of Pub. L. 110–140, enacting former part C (§ 17211 et seq.) of subchapter V of this chapter, could be cited as the “Marine and Hydrokinetic Renewable Energy Research and Development Act”, was omitted from the Code in the general amendment of subtitle C by Pub. L. 116–260.
 
 Pub. L. 110–140, title VII, § 701, Dec. 19, 2007, 121 Stat. 1704, provided that: “This subtitle [subtitle A (§§ 701–708) of title VII of Pub. L. 110–140, enacting part A (§ 17251 et seq.) of subchapter VI of this chapter and amending [section 16293 of this title](./chapter-149-national-energy-policy-and-programs.md#section-16293)] may be cited as the ‘Department of Energy Carbon Capture and Sequestration Research, Development, and Demonstration Act of 2007’.”
 
@@ -313,8 +307,8 @@ Section effective on the date that is 1 day after Dec. 19, 2007, see section 160
 Section effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as a note under [section 1824 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1824&num=0&edition=prelim), The Congress.
 
 
-<a id="section-17021"></a>
-## § 17021. Advanced battery loan guarantee program
+<a id="section-17014"></a>
+## § 17014. Advanced battery loan guarantee program
 **(a) Establishment of program** The Secretary shall establish a program to provide guarantees of loans by private institutions for the construction of facilities for the manufacture of advanced vehicle batteries and battery systems that are developed and produced in the United States, including advanced lithium ion batteries and hybrid electrical system and component manufacturers and software designers.
 
 **(b) Requirements** The Secretary may provide a loan guarantee under subsection (a) to an applicant if—
@@ -355,8 +349,8 @@ Section effective on the date that is 1 day after Dec. 19, 2007, see section 160
 Section effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as a note under [section 1824 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1824&num=0&edition=prelim), The Congress.
 
 
-<a id="section-17022"></a>
-## § 17022. Advanced technology vehicles manufacturing incentive program
+<a id="section-17021"></a>
+## § 17021. Advanced technology vehicles manufacturing incentive program
 **(a) Definitions** In this section:
 
 (1) **Advanced technology vehicle** — The term “advanced technology vehicle” means an ultra efficient vehicle or a light duty vehicle that meets—
@@ -505,6 +499,77 @@ Section effective on the date that is 1 day after Dec. 19, 2007, see section 160
 
 #### Reconsideration of Prior Applications
 Pub. L. 111–85, title III, § 312(b), Oct. 28, 2009, 123 Stat. 2875, provided that: “The Secretary of Energy shall reconsider applications for assistance under section 136 of the Energy Independence and Security Act of 2007 ([42 U.S.C. 17013](./chapter-152-energy-independence-and-security.md#section-17013)) that were— “(1) timely filed under that section before January 1, 2009; “(2) rejected on the basis that the vehicles to which the proposal related were not advanced technology vehicles; and “(3) related to ultra efficient vehicles.”
+
+
+<a id="section-17022"></a>
+## § 17022. Research and development into integrating electric vehicles onto the electric grid
+**(a) In general** The Secretary shall establish a research, development, and demonstration program to advance the integration of electric vehicles, including plug-in hybrid electric vehicles, onto the electric grid.
+
+**(b) Vehicles-to-grid integration assessment report** Not later than 1 year after December 27, 2020, the Secretary shall submit to the Committee on Science, Space, and Technology of the House of Representatives and the Committee on Energy and Natural Resources of the Senate a report on the results of a study that examines the research, development, and demonstration opportunities, challenges, and standards needed for integrating electric vehicles onto the electric grid.
+
+(1) **Report requirements** — The report shall include—
+
+  (A) an evaluation of the use of electric vehicles to maintain the reliability of the electric grid, including—
+
+    (i) the use of electric vehicles for demand response, load shaping, emergency power, and frequency regulation; and
+
+    (ii) the potential for the reuse of spent electric vehicle batteries for stationary grid storage;
+
+  (B) the impact of grid integration on electric vehicles, including—
+
+    (i) the impact of bi-directional electricity flow on battery degradation; and
+
+    (ii) the implications of the use of electric vehicles for grid services on original equipment manufacturer warranties;
+
+  (C) the impacts to the electric grid of increased penetration of electric vehicles, including—
+
+    (i) the distribution grid infrastructure needed to support an increase in charging capacity;
+
+    (ii) strategies for integrating electric vehicles onto the distribution grid while limiting infrastructure upgrades;
+
+    (iii) the changes in electricity demand over a 24-hour cycle due to electric vehicle charging behavior;
+
+    (iv) the load increases expected from electrifying the transportation sector;
+
+    (v) the potential for customer incentives and other managed charging stations strategies to shift charging off-peak;
+
+    (vi) the technology needed to achieve bi-directional power flow on the distribution grid; and
+
+    (vii) the implementation of smart charging techniques;
+
+  (D) research on the standards needed to integrate electric vehicles with the grid, including communications systems, protocols, and charging stations, in collaboration with the National Institute for Standards and Technology;
+
+  (E) the cybersecurity challenges and needs associated with electrifying the transportation sector; and
+
+  (F) an assessment of the feasibility of adopting technologies developed under the program established under subsection (a) at Department facilities.
+
+(2) **Recommendations** — As part of the Vehicles-to-Grid Integration Assessment Report, the Secretary shall develop a 10-year roadmap to guide the research, development, and demonstration program to integrate electric vehicles onto the electric grid.
+
+(3) **Consultation** — In developing this report, the Secretary shall consult with relevant stakeholders, including—
+
+  (A) electric vehicle manufacturers;
+
+  (B) electric utilities;
+
+  (C) public utility commissions;
+
+  (D) vehicle battery manufacturers;
+
+  (E) electric vehicle supply equipment manufacturers;
+
+  (F) charging infrastructure manufacturers;
+
+  (G) the National Laboratories; and
+
+  (H) other Federal agencies, as the Secretary determines appropriate. (4) UpdatesThe Secretary shall update the report required under this section every 3 years for the duration of the program under section 11 So in original. Probably should be “subsection”. (a) and shall submit the updated report to the Committee on Science, Space, and Technology of the House of Representatives and the Committee on Energy and Natural Resources of the Senate.
+
+**(c) Program implementation** In carrying out the research, development, demonstration, and commercial application aims of section,22 So in original. Probably should be “of this section,”. the Secretary shall—
+
+(1) implement the recommendations set forth in the report in subsection (b); and
+
+(2) coordinate across all relevant program offices at the Department to achieve the goals established in this section, including the Office of Electricity.
+
+**(d) Testing capabilities** The Secretary shall coordinate with the National Laboratories to develop testing capabilities for the evaluation, rapid prototyping, and optimization of technologies enabling integration of electric vehicles onto the electric grid.
 
 
 <a id="section-17031"></a>
@@ -871,94 +936,120 @@ Section effective on the date that is 1 day after Dec. 19, 2007, see section 160
 
 
 <a id="section-17061"></a>
-## § 17061. Energy efficiency for data center buildings
+## § 17061. Technical assistance program to implement industrial emissions reduction
 **(a) Definitions** In this section:
 
-(1) **Data center** — The term “data center” means any facility that primarily contains electronic equipment used to process, store, and transmit digital information, which may be—
+(1) **Eligible entity** — The term “eligible entity” means—
 
-  (A) a free-standing structure; or
+  (A) a State;
 
-  (B) a facility within a larger structure, that uses environmental control equipment to maintain the proper conditions for the operation of electronic equipment.
+  (B) a unit of local government;
 
-(2) **Data center operator** — The term “data center operator” means any person or government entity that builds or operates a data center or purchases data center services, equipment, and facilities.
+  (C) a territory or possession of the United States;
 
-**(b) Voluntary national information program**
+  (D) a relevant State or local office, including an energy office;
 
-(1) **In general** — Not later than 90 days after December 19, 2007, the Secretary and the Administrator of the Environmental Protection Agency shall, after consulting with information technology industry and other interested parties, initiate a voluntary national information program for those types of data centers and data center equipment and facilities that are widely used and for which there is a potential for significant data center energy savings as a result of the program.
+  (E) a tribal organization (as defined in [section 3765 of title 38](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section3765&num=0&edition=prelim));
 
-(2) **Requirements** — The program described in paragraph (1) shall—
+  (F) an institution of higher education; and 11 So in original.
 
-  (A) address data center efficiency holistically, reflecting the total energy consumption of data centers as whole systems, including both equipment and facilities;
+  (G) a private entity; and
 
-  (B) consider prior work and studies undertaken in this area, including by the Environmental Protection Agency and the Department of Energy;
+  (H) a trade association or technical society.
 
-  (C) consistent with the objectives described in paragraph (1), determine the type of data center and data center equipment and facilities to be covered under the program;
+(2) **Emissions reduction** — The term “emissions reduction” has the meaning given the term in [section 17113(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section17113/a&num=0&edition=prelim).
 
-  (D) produce specifications, measurements, best practices, and benchmarks that will enable data center operators to make more informed decisions about the energy efficiency and costs of data centers, and that take into account—
+(3) **Program** — The term “program” means the program established under subsection (b).
 
-    (i) the performance and use of servers, data storage devices, and other information technology equipment;
+**(b) Establishment** Not later than 1 year after December 27, 2020, the Secretary shall establish a program to provide technical assistance to eligible entities to promote the commercial application of emission reduction technologies developed through the program established in [section 17113(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section17113/b&num=0&edition=prelim).
 
-    (ii) the efficiency of heating, ventilation, and air conditioning, cooling, and power conditioning systems, provided that no modification shall be required of a standard then in effect under the Energy Policy and Conservation Act ([42 U.S.C. 6201](./chapter-077-energy-conservation.md#section-6201) et seq.) for any covered heating, ventilation, air-conditioning, cooling or power-conditioning product;
+**(c) Applications**
 
-    (iii) energy savings from the adoption of software and data management techniques; and
+(1) **In general** — An eligible entity desiring technical assistance under the program shall submit to the Secretary an application at such time, in such manner, and containing such information as the Secretary may require.
 
-    (iv) other factors determined by the organization described in subsection (c);
+(2) **Application process** — The Secretary shall seek applications for technical assistance under the program on a periodic basis, but not less frequently than once every 12 months.
 
-  (E) allow for creation of separate specifications, measurements, and benchmarks based on data center size and function, as well as other appropriate characteristics;
+(3) **Factors for consideration** — In selecting eligible entities for technical assistance under the program, the Secretary shall, to the maximum extent practicable—
 
-  (F) advance the design and implementation of efficiency technologies to the maximum extent economically practical;
+  (A) give priority to—
 
-  (G) provide to data center operators in the private sector and the Federal Government information about best practices and purchasing decisions that reduce the energy consumption of data centers; and
+    (i) activities carried out with technical assistance under the program that have the greatest potential for achieving emissions reduction in nonpower industrial sectors;
 
-  (H) publish the information described in subparagraph (G), which may be disseminated through catalogs, trade publications, the Internet, or other mechanisms, that will allow data center operators to assess the energy consumption and potential cost savings of alternative data centers and data center equipment and facilities.
+    (ii) activities carried out in a State in which there are active or inactive industrial facilities that may be used or retrofitted to carry out activities under the focus areas described in [section 17113(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section17113/c&num=0&edition=prelim); and
 
-(3) **Procedures** — The program described in paragraph (1) shall be developed in consultation with and coordinated by the organization described in subsection (c) according to commonly accepted procedures for the development of specifications, measurements, and benchmarks.
+    (iii) activities carried out in an economically distressed area (as described in [section 3161(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3161/a&num=0&edition=prelim)); and
 
-**(c) Data center efficiency organization**
+  (B) ensure that—
 
-(1) **In general** — After the establishment of the program described in subsection (b), the Secretary and the Administrator shall jointly designate an information technology industry organization to consult with and to coordinate the program.
+    (i) there is geographic diversity among the eligible entities selected; and
 
-(2) **Requirements** — The organization designated under paragraph (1), whether preexisting or formed specifically for the purposes of subsection (b), shall—
-
-  (A) consist of interested parties that have expertise in energy efficiency and in the development, operation, and functionality of computer data centers, information technology equipment, and software, as well as representatives of hardware manufacturers, data center operators, and facility managers;
-
-  (B) obtain and address input from Department of Energy National Laboratories or any college, university, research institution, industry association, company, or public interest group with applicable expertise in any of the areas listed in paragraph (1);
-
-  (C) follow commonly accepted procedures for the development of specifications and accredited standards development processes;
-
-  (D) have a mission to develop and promote energy efficiency for data centers and information technology; and
-
-  (E) have the primary responsibility to consult in the development and publishing of the information, measurements, and benchmarks described in subsection (b) and transmission of the information to the Secretary and the Administrator for consideration under subsection (d).
-
-**(d) Measurements and specifications**
-
-(1) **In general** — The Secretary and the Administrator shall consider the specifications, measurements, and benchmarks described in subsection (b) for use by the Federal Energy Management Program, the Energy Star Program, and other efficiency programs of the Department of Energy and Environmental Protection Agency, respectively.
-
-(2) **Rejections** — If the Secretary or the Administrator rejects 1 or more specifications, measurements, or benchmarks described in subsection (b), the rejection shall be made consistent with section 12(d) of the National Technology Transfer and Advancement Act of 1995 ([15 U.S.C. 272](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section272&num=0&edition=prelim) note; Public Law 104–113).
-
-(3) **Determination of impracticability** — A determination that a specification, measurement, or benchmark described in subsection (b) is impractical may include consideration of the maximum efficiency that is technologically feasible and economically justified.
-
-**(e) Monitoring** The Secretary and the Administrator shall—
-
-(1) monitor and evaluate the efforts to develop the program described in subsection (b); and
-
-(2) not later than 3 years after December 19, 2007, make a determination as to whether the program is consistent with the objectives of subsection (b).
-
-**(f) Alternative system** If the Secretary and the Administrator make a determination under subsection (e) that a voluntary national information program for data centers consistent with the objectives of subsection (b) has not been developed, the Secretary and the Administrator shall, after consultation with the National Institute of Standards and Technology and not later than 2 years after the determination, develop and implement the program under subsection (b).
-
-**(g) Protection of proprietary information** The Secretary, the Administrator, or the data center efficiency organization shall not disclose any proprietary information or trade secrets provided by any individual or company for the purposes of carrying out this section or the program established under this section.
-
-### Statutory Notes
-
-#### References in Text
-The Energy Policy and Conservation Act, referred to in subsec. (b)(2)(D)(ii), is Pub. L. 94–163, Dec. 22, 1975, 89 Stat. 871, which is classified principally to chapter 77 (§ 6201 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 6201 of this title](./chapter-077-energy-conservation.md#section-6201) and Tables.
-
-#### Effective Date
-Section effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as a note under [section 1824 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1824&num=0&edition=prelim), The Congress.
+    (ii) the activities carried out with technical assistance under the program reflect a majority of the focus areas described in [section 17113(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section17113/c&num=0&edition=prelim).
 
 
 <a id="section-17062"></a>
-## § 17062. Demonstration project
+## § 17062. Development of national smart manufacturing plan
+**(a) In general** Not later than 3 years after December 27, 2020, the Secretary of Energy (in this section referred to as the “Secretary”), in consultation with the National Academies, shall develop and complete a national plan for smart manufacturing technology development and deployment to improve the productivity and energy efficiency of the manufacturing sector of the United States.
+
+**(b) Content**
+
+(1) **In general** — The plan developed under subsection (a) shall identify areas in which agency actions by the Secretary and other heads of relevant Federal agencies would—
+
+  (A) facilitate quicker development, deployment, and adoption of smart manufacturing technologies and processes;
+
+  (B) result in greater energy efficiency and lower environmental impacts for all American manufacturers; and
+
+  (C) enhance competitiveness and strengthen the manufacturing sectors of the United States.
+
+(2) **Inclusions** — Agency actions identified under paragraph (1) shall include—
+
+  (A) an assessment of previous and current actions of the Department relating to smart manufacturing;
+
+  (B) the establishment of voluntary interconnection protocols and performance standards;
+
+  (C) the use of smart manufacturing to improve energy efficiency and reduce emissions in supply chains across multiple companies;
+
+  (D) actions to increase cybersecurity in smart manufacturing infrastructure;
+
+  (E) deployment of existing research results;
+
+  (F) the leveraging of existing high-performance computing infrastructure; and
+
+  (G) consideration of the impact of smart manufacturing on existing manufacturing jobs and future manufacturing jobs.
+
+**(c) Biennial revisions** Not later than 2 years after the date on which the Secretary completes the plan under subsection (a), and not less frequently than once every 2 years thereafter, the Secretary shall revise the plan to account for advancements in information and communication technology and manufacturing needs.
+
+**(d) Report** Annually until the completion of the plan under subsection (a), the Secretary shall submit to Congress a report on the progress made in developing the plan.
+
+**(e) Definition** In this section, the term “smart manufacturing” means advanced technologies in information, automation, monitoring, computation, sensing, modeling, artificial intelligence, analytics, and networking that—
+
+(1) digitally—
+
+  (A) simulate manufacturing production lines;
+
+  (B) operate computer-controlled manufacturing equipment;
+
+  (C) monitor and communicate production line status; and
+
+  (D) manage and optimize energy productivity and cost throughout production;
+
+(2) model, simulate, and optimize the energy efficiency of a factory building;
+
+(3) monitor and optimize building energy performance;
+
+(4) model, simulate, and optimize the design of energy efficient and sustainable products, including the use of digital prototyping and additive manufacturing to enhance product design;
+
+(5) connect manufactured products in networks to monitor and optimize the performance of the networks, including automated network operations; and
+
+(6) digitally connect the supply chain network.
+
+### Statutory Notes
+
+#### Codification
+Section was enacted as part of the Energy Act of 2020, and not as part of the Energy Independence and Security Act of 2007 which comprises this chapter.
+
+
+<a id="section-17063"></a>
+## § 17063. Demonstration project
 **(a) In general** The Federal Director and the Commercial Director shall establish guidelines to implement a demonstration project to contribute to the research goals of the Office of Commercial High-Performance Green Buildings and the Office of Federal High-Performance Green Buildings.
 
 **(b) Projects** In accordance with guidelines established by the Federal Director and the Commercial Director under subsection (a) and the duties of the Federal Director and the Commercial Director described in this title,11 See References in Text note below. the Federal Director or the Commercial Director shall carry out—
@@ -1054,8 +1145,8 @@ Reorganization Plan Numbered 14 of 1950, referred to in subsec. (d), is set out 
 Section effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as a note under [section 1824 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1824&num=0&edition=prelim), The Congress.
 
 
-<a id="section-17063"></a>
-## § 17063. Research and development
+<a id="section-17064"></a>
+## § 17064. Research and development
 **(a) Establishment** The Federal Director and the Commercial Director, jointly and in coordination with the Advisory Committee, shall—
 
 (1)
@@ -1427,7 +1518,135 @@ Section was enacted as part of the Energy Efficiency Improvement Act of 2015, an
 
 
 <a id="section-17085"></a>
-## § 17085. Energy Code improvements applicable to manufactured housing
+## § 17085. Smart building acceleration
+**(a) Definitions** In this section:
+
+(1) **Department** — The term “Department” means the Department of Energy.
+
+(2) **Program** — The term “program” means the Federal Smart Building Program established under subsection (b)(1).
+
+(3) **Secretary** — The term “Secretary” means the Secretary of Energy.
+
+(4) **Smart building** — The term “smart building” means a building, or collection of buildings, with an energy system that—
+
+  (A) is flexible and automated;
+
+  (B) has extensive operational monitoring and communication connectivity, allowing remote monitoring and analysis of all building functions;
+
+  (C) takes a systems-based approach in integrating the overall building operations for control of energy generation, consumption, and storage;
+
+  (D) communicates with utilities and other third-party commercial entities, if appropriate;
+
+  (E) protects the health and safety of occupants and workers; and
+
+  (F) incorporates cybersecurity best practices.
+
+(5) **Smart building accelerator** — The term “smart building accelerator” means an initiative that is designed to demonstrate specific innovative policies and approaches—
+
+  (A) with clear goals and a clear timeline; and
+
+  (B) that, on successful demonstration, would accelerate investment in energy efficiency.
+
+**(b) Federal Smart Building Program**
+
+(1) **Establishment** — Not later than 1 year after December 27, 2020, the Secretary shall, in consultation with the Administrator of General Services, establish a program to be known as the “Federal Smart Building Program”—
+
+  (A) to implement smart building technology; and
+
+  (B) to demonstrate the costs and benefits of smart buildings.
+
+(2) **Selection**
+
+  (A) *In general* — The Secretary shall coordinate the selection of not fewer than 1 building from among each of several key Federal agencies, as described in paragraph (4), to compose an appropriately diverse set of smart buildings based on size, type, and geographic location.
+
+  (B) *Inclusion of commercially operated buildings* — In making selections under subparagraph (A), the Secretary may include buildings that are owned by the Federal Government but are commercially operated.
+
+(3) **Targets** — Not later than 18 months after December 27, 2020, the Secretary shall establish targets for the number of smart buildings to be commissioned and evaluated by key Federal agencies by 3 years and 6 years after December 27, 2020.
+
+(4) **Federal agency described** — The key Federal agencies referred to paragraph (2)(A) shall include buildings operated by—
+
+  (A) the Department of the Army;
+
+  (B) the Department of the Navy;
+
+  (C) the Department of the Air Force;
+
+  (D) the Department;
+
+  (E) the Department of the Interior;
+
+  (F) the Department of Veterans Affairs; and
+
+  (G) the General Services Administration.
+
+(5) **Requirement** — In implementing the program, the Secretary shall leverage existing financing mechanisms including energy savings performance contracts, utility energy service contracts, and annual appropriations.
+
+(6) **Evaluation** — Using the guidelines of the Federal Energy Management Program relating to whole-building evaluation, measurement, and verification, the Secretary shall evaluate the costs and benefits of the buildings selected under paragraph (2), including an identification of—
+
+  (A) which advanced building technologies—
+
+    (i) are most cost-effective; and
+
+    (ii) show the most promise for—
+
+      (I) increasing building energy savings;
+
+      (II) increasing service performance to building occupants;
+
+      (III) reducing environmental impacts; and
+
+      (IV) establishing cybersecurity; and
+
+  (B) any other information the Secretary determines to be appropriate.
+
+(7) **Awards** — The Secretary may expand awards made under the Federal Energy Management Program and the Better Building Challenge to recognize specific agency achievements in accelerating the adoption of smart building technologies.
+
+**(c) Survey of private sector smart buildings**
+
+(1) **Survey** — The Secretary shall conduct a survey of privately owned smart buildings throughout the United States, including commercial buildings, laboratory facilities, hospitals, multifamily residential buildings, and buildings owned by nonprofit organizations and institutions of higher education.
+
+(2) **Selection** — From among the smart buildings surveyed under paragraph (1), the Secretary shall select not fewer than 1 building each from an appropriate range of building sizes, types, and geographic locations.
+
+(3) **Evaluation** — Using the guidelines of the Federal Energy Management Program relating to whole-building evaluation, measurement, and verification, the Secretary shall evaluate the costs and benefits of the buildings selected under paragraph (2), including an identification of—
+
+  (A) which advanced building technologies and systems—
+
+    (i) are most cost-effective; and
+
+    (ii) show the most promise for—
+
+      (I) increasing building energy savings;
+
+      (II) increasing service performance to building occupants;
+
+      (III) reducing environmental impacts; and
+
+      (IV) establishing cybersecurity; and
+
+  (B) any other information the Secretary determines to be appropriate.
+
+**(d) Better building challenge** As part of the Better Building Challenge of the Department, the Secretary, in consultation with major private sector property owners, shall develop smart building accelerators to demonstrate innovative policies and approaches that will accelerate the transition to smart buildings in the public, institutional, and commercial buildings sectors.
+
+**(e) Omitted**
+
+**(f) Report** Not later than 2 years after December 27, 2020, and every 2 years thereafter until a total of 3 reports have been made, the Secretary shall submit to the Committee on Energy and Natural Resources of the Senate and the Committee on Energy and Commerce and the Committee on Science, Space, and Technology of the House of Representatives a report on—
+
+(1) the establishment of the Federal Smart Building Program and the evaluation of Federal smart buildings under subsection (b);
+
+(2) the survey and evaluation of private sector smart buildings under subsection (c); and
+
+(3) any recommendations of the Secretary to further accelerate the transition to smart buildings.
+
+### Statutory Notes
+
+#### Codification
+Section is comprised of section 1007 of Pub. L. 116–260. Subsec. (e) of section 1007 of Pub. L. 160–260 enacted [section 17086 of this title](./chapter-152-energy-independence-and-security.md#section-17086).
+
+Section was enacted as part of the Energy Act of 2020, and not as part of the Energy Independence and Security Act of 2007 which comprises this chapter.
+
+
+<a id="section-17086"></a>
+## § 17086. Energy Code improvements applicable to manufactured housing
 **(a) Establishment of standards**
 
 (1) **In general** — Not later than 4 years after December 19, 2007, the Secretary shall by regulation establish standards for energy efficiency in manufactured housing.
@@ -1767,7 +1986,70 @@ Section effective on the date that is 1 day after Dec. 19, 2007, see section 160
 
 
 <a id="section-17096"></a>
-## § 17096. Leasing
+## § 17096. Advanced integration of buildings onto the electric grid
+**(a) In general** The Secretary shall establish a program of research, development, and demonstration to enable components of commercial and residential buildings to serve as dynamic energy loads on and resources for the electric grid. The program shall focus on—
+
+(1) developing low-cost, low power, wireless sensors to—
+
+  (A) monitor building energy load;
+
+  (B) forecast building energy need; and
+
+  (C) enable building-level energy control;
+
+(2) developing data management capabilities and standard communication protocols to further interoperability at the building and grid-level;
+
+(3) developing advanced building-level energy management of components through integration of smart technologies, control systems, and data processing, to enable energy efficiency and savings;
+
+(4) optimizing energy consumption at the building level to enable grid stability and resilience;
+
+(5) improving visualization of behind the meter equipment and technologies to provide better insight into the energy needs and energy forecasts of individual buildings;
+
+(6) reducing the cost of key components to accelerate the adoption of smart building technologies;
+
+(7) protecting against cybersecurity threats and addressing security vulnerabilities of building systems or equipment; and
+
+(8) other areas determined appropriate by the Secretary.
+
+**(b) Considerations** In carrying out the program under subsection (a), the Secretary shall—
+
+(1) work with utility partners, building owners, technology vendors, and building developers to test and validate technologies and encourage the commercial application of these technologies by building owners; and
+
+(2) consider the specific challenges of enabling greater interaction between components of—
+
+  (A) small- and medium-sized buildings and the electric grid; and
+
+  (B) residential and commercial buildings and the electric grid.
+
+**(c) Buildings-to-grid integration report** Not later than 1 year after December 27, 2020, the Secretary shall submit to the Committee on Science, Space, and Technology and the Committee on Energy and Commerce of the House of Representatives and the Committee on Energy and Natural Resources of the Senate a report on the results of a study that examines the research, development, and demonstration opportunities, challenges, and standards needed to enable components of commercial and residential buildings to serve as dynamic energy loads on and resources for the electric grid.
+
+(1) **Report requirements** — The report shall include—
+
+  (A) an assessment of the technologies needed to enable building components as dynamic loads on and resources for the electric grid, including how such technologies can be—
+
+    (i) incorporated into new commercial and residential buildings; and
+
+    (ii) retrofitted in older buildings;
+
+  (B) guidelines for the design of new buildings and building components to enable modern grid interactivity and improve energy efficiency;
+
+  (C) an assessment of barriers to the adoption by building owners of advanced technologies enabling greater integration of building components onto the electric grid; and
+
+  (D) an assessment of the feasibility of adopting technologies developed under subsection (a) at Department facilities.
+
+(2) **Recommendations** — As part of the report, the Secretary shall develop a 10-year roadmap to guide the research, development, and demonstration program to enable components of commercial and residential buildings to serve as dynamic energy loads on and resources for the electric grid.
+
+(3) **Updates** — The Secretary shall update the report required under this section every 3 years for the duration of the program under subsection (a) and shall submit the updated report to the Committee on Science, Space, and Technology and the Committee on Energy and Commerce of the House of Representatives and the Committee on Energy and Natural Resources of the Senate.
+
+**(d) Program implementation** In carrying out this section, the Secretary shall—
+
+(1) implement the recommendations from the report in subsection (c); and
+
+(2) coordinate across all relevant program offices at the Department to achieve the goals established in this section, including the Office of Electricity.
+
+
+<a id="section-17111"></a>
+## § 17111. Leasing
 **(a) In general** Except as provided in subsection (b), effective beginning on the date that is 3 years after December 19, 2007, no Federal agency shall enter into a contract to lease space in a building that has not earned the Energy Star label in the most recent year.
 
 **(b) Exception**
@@ -1816,8 +2098,8 @@ In subsec. (c)(2), “[section 1302(a) of title 41](https://uscode.house.gov/vie
 Section effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as a note under [section 1824 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1824&num=0&edition=prelim), The Congress.
 
 
-<a id="section-17111"></a>
-## § 17111. High-performance green Federal buildings
+<a id="section-17112"></a>
+## § 17112. High-performance green Federal buildings
 **(a) Establishment of Office** Not later than 60 days after December 19, 2007, the Administrator shall establish within the General Services Administration an Office of Federal High-Performance Green Buildings, and appoint an individual to serve as Federal Director in, a position in the career-reserved Senior Executive service, to—
 
 (1) establish and manage the Office of Federal High-Performance Green Buildings; and
@@ -1954,8 +2236,8 @@ Office of the Federal Environmental Executive reestablished as the Office of the
 Section effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as a note under [section 1824 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1824&num=0&edition=prelim), The Congress.
 
 
-<a id="section-17112"></a>
-## § 17112. Federal green building performance
+<a id="section-17113"></a>
+## § 17113. Federal green building performance
 **(a) In general** Not later than October 31 of each of the 2 fiscal years following the fiscal year in which this Act is enacted, and at such times thereafter as the Comptroller General of the United States determines to be appropriate, the Comptroller General of the United States shall, with respect to the fiscal years that have passed since the preceding report—
 
 (1) conduct an audit of the implementation of this part, [section 6834(a)(3)(D) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section6834/a/3/D&num=0&edition=prelim), and [section 17091 of this title](./chapter-152-energy-independence-and-security.md#section-17091); and
@@ -1989,8 +2271,8 @@ This part, referred to in subsec. (a)(1), was in the original “this subtitle�
 Section effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as a note under [section 1824 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1824&num=0&edition=prelim), The Congress.
 
 
-<a id="section-17121"></a>
-## § 17121. Storm water runoff requirements for Federal development projects
+<a id="section-17114"></a>
+## § 17114. Storm water runoff requirements for Federal development projects
 
 The sponsor of any development or redevelopment project involving a Federal facility with a footprint that exceeds 5,000 square feet shall use site planning, design, construction, and maintenance strategies for the property to maintain or restore, to the maximum extent technically feasible, the predevelopment hydrology of the property with regard to the temperature, rate, volume, and duration of flow.
 
@@ -2000,8 +2282,8 @@ The sponsor of any development or redevelopment project involving a Federal faci
 Section effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as a note under [section 1824 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1824&num=0&edition=prelim), The Congress.
 
 
-<a id="section-17122"></a>
-## § 17122. Cost-effective technology acceleration program
+<a id="section-17115"></a>
+## § 17115. Cost-effective technology acceleration program
 **(a) Definition of Administrator** In this section, the term “Administrator” means the Administrator of General Services.
 
 **(b) Establishment**
@@ -2111,8 +2393,8 @@ This part, referred to in subsec. (d)(3)(C)(i), was in the original “this subt
 Section effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as a note under [section 1824 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1824&num=0&edition=prelim), The Congress.
 
 
-<a id="section-17123"></a>
-## § 17123. Authorization of appropriations
+<a id="section-17115a"></a>
+## § 17115a. Authorization of appropriations
 
 There is authorized to be appropriated to carry out sections 434 through 439 and 482 11 See References in Text note below. $4,000,000 for each of fiscal years 2008 through 2012, to remain available until expended.
 
@@ -2125,8 +2407,8 @@ Sections 434 through 439, referred to in text, are sections 434 to 439 of Pub. L
 Section effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as a note under [section 1824 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1824&num=0&edition=prelim), The Congress.
 
 
-<a id="section-17124"></a>
-## § 17124. Energy-intensive industries program
+<a id="section-17121"></a>
+## § 17121. Energy-intensive industries program
 **(a) Definitions** In this section:
 
 (1) **Eligible entity** — The term “eligible entity” means—
@@ -2261,6 +2543,388 @@ Section effective on the date that is 1 day after Dec. 19, 2007, see section 160
 
 #### Effective Date
 Section effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as a note under [section 1824 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1824&num=0&edition=prelim), The Congress.
+
+
+<a id="section-17122"></a>
+## § 17122. Energy efficiency for data center buildings
+**(a) Definitions** In this section:
+
+(1) **Data center** — The term “data center” means any facility that primarily contains electronic equipment used to process, store, and transmit digital information, which may be—
+
+  (A) a free-standing structure; or
+
+  (B) a facility within a larger structure, that uses environmental control equipment to maintain the proper conditions for the operation of electronic equipment.
+
+(2) **Data center operator** — The term “data center operator” means any person or government entity that builds or operates a data center or purchases data center services, equipment, and facilities.
+
+**(b) Voluntary national information program**
+
+(1) **In general** — Not later than 90 days after December 19, 2007, the Secretary and the Administrator of the Environmental Protection Agency shall, after consulting with information technology industry and other interested parties, initiate a voluntary national information program for those types of data centers and data center equipment and facilities that are widely used and for which there is a potential for significant data center energy savings as a result of the program.
+
+(2) **Requirements** — The program described in paragraph (1) shall—
+
+  (A) address data center efficiency holistically, reflecting the total energy consumption of data centers as whole systems, including both equipment and facilities;
+
+  (B) consider prior work and studies undertaken in this area, including by the Environmental Protection Agency and the Department of Energy;
+
+  (C) consistent with the objectives described in paragraph (1), determine the type of data center and data center equipment and facilities to be covered under the program;
+
+  (D) produce specifications, measurements, best practices, and benchmarks that will enable data center operators to make more informed decisions about the energy efficiency and costs of data centers, and that take into account—
+
+    (i) the performance and use of servers, data storage devices, and other information technology equipment;
+
+    (ii) the efficiency of heating, ventilation, and air conditioning, cooling, and power conditioning systems, provided that no modification shall be required of a standard then in effect under the Energy Policy and Conservation Act ([42 U.S.C. 6201](./chapter-077-energy-conservation.md#section-6201) et seq.) for any covered heating, ventilation, air-conditioning, cooling or power-conditioning product;
+
+    (iii) energy savings from the adoption of software and data management techniques; and
+
+    (iv) other factors proposed by the stakeholders described in subsection (c);
+
+  (E) allow for creation of separate specifications, measurements, and benchmarks based on data center size and function, as well as other appropriate characteristics;
+
+  (F) advance the design and implementation of efficiency technologies to the maximum extent economically practical;
+
+  (G) provide to data center operators in the private sector and the Federal Government information about best practices and purchasing decisions that reduce the energy consumption of data centers; and
+
+  (H) publish the information described in subparagraph (G), which may be disseminated through catalogs, trade publications, the Internet, or other mechanisms, that will allow data center operators to assess the energy consumption and potential cost savings of alternative data centers and data center equipment and facilities.
+
+**(c) Stakeholder involvement**
+
+(1) **In general** — The Secretary and the Administrator shall carry out subsection (b) in collaboration with the information technology industry and other key stakeholders, with the goal of producing results that accurately reflect the most relevant and useful information.
+
+(2) **Considerations** — In carrying out the collaboration described in paragraph (1), the Secretary and the Administrator shall pay particular attention to organizations that—
+
+  (A) have members with expertise in energy efficiency and in the development, operation, and functionality of data centers, information technology equipment, and software, including representatives of hardware manufacturers, data center operators, and facility managers;
+
+  (B) obtain and address input from the National Laboratories (as that term is defined in section 15801) of this title, or any institution of higher education, research institution, industry association, company, or public interest group with applicable expertise;
+
+  (C) follow—
+
+    (i) commonly accepted procedures for the development of specifications; and
+
+    (ii) accredited standards development processes; or
+
+  (D) have a mission to promote energy efficiency for data centers and information technology.
+
+**(d) Measurements and specifications** The Secretary and the Administrator shall consider and assess the adequacy of the specifications, measurements, best practices, and benchmarks described in subsection (b) for use by the Federal Energy Management Program, the Energy Star Program, and other efficiency programs of the Department of Energy or the Environmental Protection Agency.
+
+**(e) Study**
+
+(1) **Definition of report** — In this subsection, the term “report” means the report of the Lawrence Berkeley National Laboratory entitled “United States Data Center Energy Usage Report” and dated June 2016, which was prepared as an update to the “Report to Congress on Server and Data Center Energy Efficiency”, published on August 2, 2007, pursuant to section 1 of Public Law 109–431 (120 Stat. 2920).
+
+(2) **Study** — Not later than 4 years after December 27, 2020, the Secretary, in collaboration with the Administrator, shall make available to the public an update to the report that provides—
+
+  (A) a comparison and gap analysis of the estimates and projections contained in the report with new data regarding the period from 2015 through 2019;
+
+  (B) an analysis considering the impact of information technologies, including virtualization and cloud computing, in the public and private sectors;
+
+  (C) an evaluation of the impact of the combination of cloud platforms, mobile devices, social media, and big data on data center energy usage;
+
+  (D) an evaluation of water usage in data centers and recommendations for reductions in that water usage; and
+
+  (E) updated projections and recommendations for best practices through fiscal year 2025.
+
+**(f) Data center energy practitioner program**
+
+(1) **In general** — The Secretary, in collaboration with key stakeholders and the Director of the Office of Management and Budget, shall maintain a data center energy practitioner program that provides for the certification of energy practitioners qualified to evaluate the energy usage and efficiency opportunities in federally owned and operated data centers.
+
+(2) **Evaluations** — Each Federal agency shall consider having the data centers of the agency evaluated once every 4 years by energy practitioners certified pursuant to the program, whenever practicable using certified practitioners employed by the agency.
+
+**(g) Open data initiative**
+
+(1) **In general** — The Secretary, in collaboration with key stakeholders and the Director of the Office of Management and Budget, shall establish an open data initiative relating to energy usage at federally owned and operated data centers, with the purpose of making the data available and accessible in a manner that encourages further data center innovation, optimization, and consolidation.
+
+(2) **Consideration** — In establishing the initiative under paragraph (1), the Secretary shall consider using the online Data Center Maturity Model.
+
+**(h) International specifications and metrics** The Secretary, in collaboration with key stakeholders, shall actively participate in efforts to harmonize global specifications and metrics for data center energy and water efficiency.
+
+(i) **Data center utilization metric** — The Secretary, in collaboration with key stakeholders, shall facilitate in the development of an efficiency metric that measures the energy efficiency of a data center (including equipment and facilities).
+
+**(j) Protection of proprietary information** The Secretary and the Administrator shall not disclose any proprietary information or trade secrets provided by any individual or company for the purposes of carrying out this section or the programs and initiatives established under this section.
+
+### Statutory Notes
+
+#### References in Text
+The Energy Policy and Conservation Act, referred to in subsec. (b)(2)(D)(ii), is Pub. L. 94–163, Dec. 22, 1975, 89 Stat. 871, which is classified principally to chapter 77 (§ 6201 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 6201 of this title](./chapter-077-energy-conservation.md#section-6201) and Tables.
+
+Section 1 of Public Law 109–431 (120 Stat. 2920), referred to in subsec. (e)(1), is section 1 of Pub. L. 109–431, Dec. 20, 2006, 120 Stat. 2920, which is not classified to the Code.
+
+#### Amendments
+2020—Subsec. (b)(2)(D)(iv). Pub. L. 116–260, § 1003(1)(A), substituted “proposed by the stakeholders” for “determined by the organization”.
+
+Subsec. (b)(3). Pub. L. 116–260, § 1003(1)(B), struck out par. (3). Text read as follows: “The program described in paragraph (1) shall be developed in consultation with and coordinated by the organization described in subsection (c) according to commonly accepted procedures for the development of specifications, measurements, and benchmarks.”
+
+Subsecs. (c) to (j). Pub. L. 116–260, § 1003(2), added subsecs. (c) to (j) and struck out former subsecs. (c) to (g) which related to consultation with a data center efficiency organization to coordinate the voluntary national information program, including the requirements of such coordination, measurements and specifications, monitoring, alternate systems, and protection of propriety information.
+
+#### Effective Date
+Section effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as a note under [section 1824 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1824&num=0&edition=prelim), The Congress.
+
+
+<a id="section-17123"></a>
+## § 17123. Industrial emissions reduction technology development program
+**(a) Definitions** In this section:
+
+(1) **Director** — The term “Director” means the Director of the Office of Science and Technology Policy.
+
+(2) **Eligible entity** — The term “eligible entity” means—
+
+  (A) a scientist or other individual with knowledge and expertise in emissions reduction;
+
+  (B) an institution of higher education;
+
+  (C) a nongovernmental organization;
+
+  (D) a National Laboratory;
+
+  (E) a private entity; and
+
+  (F) a partnership or consortium of 2 or more entities described in subparagraphs (B) through (E).
+
+(3) **Emissions reduction**
+
+  (A) *In general* — The term “emissions reduction” means the reduction, to the maximum extent practicable, of net nonwater greenhouse gas emissions to the atmosphere by energy services and industrial processes.
+
+  (B) *Exclusion* — The term “emissions reduction” does not include the elimination of carbon embodied in the principal products of industrial manufacturing.
+
+(4) **Program** — The term “program” means the program established under subsection (b)(1).
+
+(5) **Critical material or mineral** — The term “critical material or mineral” means a material or mineral that serves an essential function in the manufacturing of a product and has a high risk of a supply disruption, such that a shortage of such a material or mineral would have significant consequences for United States economic or national security.
+
+**(b) Industrial emissions reduction technology development program**
+
+(1) **In general** — Not later than 1 year after December 27, 2020, the Secretary, in consultation with the Director, the heads of relevant Federal agencies, National Laboratories, industry, and institutions of higher education, shall establish a crosscutting industrial emissions reduction technology development program of research, development, demonstration, and commercial application to advance innovative technologies that—
+
+  (A) increase the technological and economic competitiveness of industry and manufacturing in the United States;
+
+  (B) increase the viability and competitiveness of United States industrial technology exports; and
+
+  (C) achieve emissions reduction in nonpower industrial sectors.
+
+(2) **Coordination** — In carrying out the program, the Secretary shall—
+
+  (A) coordinate with each relevant office in the Department and any other Federal agency;
+
+  (B) coordinate and collaborate with the Industrial Technology Innovation Advisory Committee established under [section 17115 of this title](./chapter-152-energy-independence-and-security.md#section-17115); and
+
+  (C) coordinate and seek to avoid duplication with the energy-intensive industries program established under [section 17111 of this title](./chapter-152-energy-independence-and-security.md#section-17111).
+
+(3) **Leverage of existing resources** — In carrying out the program, the Secretary shall leverage, to the maximum extent practicable—
+
+  (A) existing resources and programs of the Department and other relevant Federal agencies; and
+
+  (B) public-private partnerships.
+
+**(c) Focus areas** The program shall focus on—
+
+(1) industrial production processes, including technologies and processes that—
+
+  (A) achieve emissions reduction in high emissions industrial materials production processes, including production processes for iron, steel, steel mill products, aluminum, cement, concrete, glass, pulp, paper, and industrial ceramics;
+
+  (B) achieve emissions reduction in medium- and high-temperature heat generation, including—
+
+    (i) through electrification of heating processes;
+
+    (ii) through renewable heat generation technology;
+
+    (iii) through combined heat and power; and
+
+    (iv) by switching to alternative fuels, including hydrogen and nuclear energy;
+
+  (C) achieve emissions reduction in chemical production processes, including by incorporating, if appropriate and practicable, principles, practices, and methodologies of sustainable chemistry and engineering;
+
+  (D) leverage smart manufacturing technologies and principles, digital manufacturing technologies, and advanced data analytics to develop advanced technologies and practices in information, automation, monitoring, computation, sensing, modeling, and networking to—
+
+    (i) model and simulate manufacturing production lines;
+
+    (ii) monitor and communicate production line status;
+
+    (iii) manage and optimize energy productivity and cost throughout production; and
+
+    (iv) model, simulate, and optimize the energy efficiency of manufacturing processes;
+
+  (E) leverage the principles of sustainable manufacturing to minimize the potential negative environmental impacts of manufacturing while conserving energy and resources, including—
+
+    (i) by designing products that enable reuse, refurbishment, remanufacturing, and recycling;
+
+    (ii) by minimizing waste from industrial processes, including through the reuse of waste as other resources in other industrial processes for mutual benefit; and
+
+    (iii) by increasing resource efficiency; and
+
+  (F) increase the energy efficiency of industrial processes;
+
+(2) alternative materials that produce fewer emissions during production and result in fewer emissions during use, including—
+
+  (A) high-performance lightweight materials; and
+
+  (B) substitutions for critical materials and minerals;
+
+(3) development of net-zero emissions liquid and gaseous fuels;
+
+(4) emissions reduction in shipping, aviation, and long distance transportation;
+
+(5) carbon capture technologies for industrial processes;
+
+(6) other technologies that achieve net-zero emissions in nonpower industrial sectors, as determined by the Secretary, in consultation with the Director; and
+
+(7) high-performance computing to develop advanced materials and manufacturing processes contributing to the focus areas described in paragraphs (1) through (6), including—
+
+  (A) modeling, simulation, and optimization of the design of energy efficient and sustainable products; and
+
+  (B) the use of digital prototyping and additive manufacturing to enhance product design.
+
+(8) incorporation of sustainable chemistry and engineering principles, practices, and methodologies, as the Secretary determines appropriate; and
+
+(9) other research or technology areas identified in the Strategic Plan authorized in [section 17114 of this title](./chapter-152-energy-independence-and-security.md#section-17114).
+
+**(d) Grants, contracts, cooperative agreements, and demonstration projects**
+
+(1) **Grants** — In carrying out the program, the Secretary shall award grants on a competitive basis to eligible entities for projects that the Secretary determines would best achieve the goals of the program.
+
+(2) **Contracts and cooperative agreements** — In carrying out the program, the Secretary may enter into contracts and cooperative agreements with eligible entities and Federal agencies for projects that the Secretary determines would further the purposes of the program.
+
+(3) **Demonstration projects** — In supporting technologies developed under this section, the Secretary shall fund demonstration projects that test and validate technologies described in subsection (c).
+
+(4) **Application** — An entity seeking funding or a contract or agreement under this subsection shall submit to the Secretary an application at such time, in such manner, and containing such information as the Secretary may require.
+
+(5) **Cost sharing** — In awarding funds under this section, the Secretary shall require cost sharing in accordance with [section 16352 of this title](./chapter-149-national-energy-policy-and-programs.md#section-16352).
+
+**(e) Authorization of appropriations** There are authorized to be appropriated to the Secretary to carry out the demonstration projects authorized in subsection (d)(3)—
+
+(1) $20,000,000 for fiscal year 2021;
+
+(2) $80,000,000 for fiscal year 2022;
+
+(3) $100,000,000 for fiscal year 2023;
+
+(4) $150,000,000 for fiscal year 2024; and
+
+(5) $150,000,000 for fiscal year 2025.
+
+**(f) Coordination** The Secretary shall carry out the activities authorized in this section in accordance with [section 18631 of this title](./chapter-161-department-of-energy-research-and-innovation.md#section-18631).
+
+### Statutory Notes
+
+#### Purpose
+Pub. L. 116–260, div. Z, title VI, § 6001, Dec. 27, 2020, 134 Stat. 2552, provided that: “The purpose of this title [enacting this section and sections 17114 to 17115a of this title and amending [section 6351 of this title](./chapter-077-energy-conservation.md#section-6351)] and the amendments made by this title is to encourage the development and evaluation of innovative technologies aimed at increasing— “(1) the technological and economic competitiveness of industry and manufacturing in the United States; and “(2) the emissions reduction of nonpower industrial sectors.”
+
+
+<a id="section-17124"></a>
+## § 17124. Industrial Technology Innovation Advisory Committee
+**(a) Definitions** In this section:
+
+(1) **Committee** — The term “Committee” means the Industrial Technology Innovation Advisory Committee established under subsection (b).
+
+(2) **Director** — The term “Director” means the Director of the Office of Science and Technology Policy.
+
+(3) **Emissions reduction** — The term “emissions reduction” has the meaning given the term in [section 17113(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section17113/a&num=0&edition=prelim).
+
+(4) **Program** — The term “program” means the industrial emissions reduction technology development program established under [section 17113(b)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section17113/b/1&num=0&edition=prelim).
+
+**(b) Establishment** Not later than 180 days after December 27, 2020, the Secretary, in consultation with the Director, shall establish an advisory committee, to be known as the “Industrial Technology Innovation Advisory Committee”.
+
+**(c) Membership**
+
+(1) **Appointment** — The Committee shall be comprised of not fewer than 16 members and not more than 20 members, who shall be appointed by the Secretary, in consultation with the Director.
+
+(2) **Representation** — Members appointed pursuant to paragraph (1) shall include—
+
+  (A) not less than 1 representative of each relevant Federal agency, as determined by the Secretary;
+
+  (B) the Chair of the Secretary of Energy Advisory Board, if that position is filled;
+
+  (C) not less than 2 representatives of labor groups;
+
+  (D) not less than 3 representatives of the research community, which shall include academia and National Laboratories;
+
+  (E) not less than 2 representatives of nongovernmental organizations;
+
+  (F) not less than 6 representatives of small- and large-scale industry, the collective expertise of which shall cover every focus area described in [section 17113(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section17113/c&num=0&edition=prelim); and
+
+  (F) not less than 1 representative of a State government; and
+
+  (G) any other individuals the Secretary, in coordination with the Director, determines to be necessary to ensure that the Committee is comprised of a diverse group of representatives of industry, academia, independent researchers, and public and private entities.
+
+(3) **Chair** — The Secretary shall designate a member of the Committee to serve as Chair.
+
+**(d) Duties**
+
+(1) **In general** — The Committee shall—
+
+  (A) in consultation with the Secretary and the Director, propose missions and goals for the program, which shall be consistent with the purposes of the program described in [section 17113(b)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section17113/b/1&num=0&edition=prelim); and
+
+  (B) advise the Secretary with respect to the program—
+
+    (i) by identifying and evaluating any technologies being developed by the private sector relating to the focus areas described in [section 17113(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section17113/c&num=0&edition=prelim);
+
+    (ii) by identifying technology gaps in the private sector or other Federal agencies in those focus areas, and making recommendations to address those gaps;
+
+    (iii) by surveying and analyzing factors that prevent the adoption of emissions reduction technologies by the private sector; and
+
+    (iv) by recommending technology screening criteria for technology developed under the program to encourage adoption of the technology by the private sector; and
+
+  (C) develop the strategic plan described in paragraph (2).
+
+(2) **Strategic plan**
+
+  (A) *Purpose* — The purpose of the strategic plan developed under paragraph (1)(C) is to set forth a plan for achieving the goals of the program established in [section 17113(b)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section17113/b/1&num=0&edition=prelim), including for the focus areas described in [section 17113(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section17113/c&num=0&edition=prelim).
+
+  (B) *Contents* — The strategic plan developed under paragraph (1)(C) shall—
+
+    (i) specify near-term and long-term qualitative and quantitative objectives relating to each focus area described in [section 17113(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section17113/c&num=0&edition=prelim), including research, development, demonstration, and commercial application objectives;
+
+    (ii) leverage existing roadmaps relevant to the program in [section 17113(b)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section17113/b/1&num=0&edition=prelim) and the focus areas in [section 17113(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section17113/c&num=0&edition=prelim);
+
+    (iii) specify the anticipated timeframe for achieving the objectives specified under clause (i);
+
+    (iv) include plans for developing emissions reduction technologies that are globally cost-competitive, including, as applicable, in developing economies;
+
+    (v) identify the appropriate role for investment by the Federal Government, in coordination with the private sector, to achieve the objectives specified under clause (i);
+
+    (vi) identify the public and private costs of achieving the objectives specified under clause (i); and
+
+    (vii) estimate the economic and employment impact in the United States of achieving those objectives.
+
+**(e) Meetings**
+
+(1) **Frequency** — The Committee shall meet not less frequently than 2 times per year, at the call of the Chair.
+
+(2) **Initial meeting** — Not later than 30 days after the date on which the members are appointed under subsection (b), the Committee shall hold its first meeting.
+
+**(f) Committee report**
+
+(1) **In general** — Not later than 2 years after December 27, 2020, and not less frequently than once every 3 years thereafter, the Committee shall submit to the Secretary a report on the progress of achieving the purposes of the program.
+
+(2) **Contents** — The report under paragraph (1) shall include—
+
+  (A) a description of any technology innovation opportunities identified by the Committee;
+
+  (B) a description of any technology gaps identified by the Committee under subsection (d)(1)(B)(ii);
+
+  (C) recommendations for improving technology screening criteria and management of the program;
+
+  (D) an evaluation of the progress of the program and the research, development, and demonstration activities funded under the program;
+
+  (E) any recommended changes to the focus areas of the program described in [section 17113(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section17113/c&num=0&edition=prelim);
+
+  (F) a description of the manner in which the Committee has carried out the duties described in subsection (d)(1) and any relevant findings as a result of carrying out those duties;
+
+  (G) if necessary, an update to the strategic plan developed by the Committee under subsection (d)(1)(C);
+
+  (H) the progress made in achieving the goals set out in that strategic plan;
+
+  (I) a review of the management, coordination, and industry utility of the program;
+
+  (J) an assessment of the extent to which progress has been made under the program in developing commercial, cost-competitive technologies in each focus area described in [section 17113(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section17113/c&num=0&edition=prelim); and
+
+  (K) an assessment of the effectiveness of the program in coordinating efforts within the Department and with other Federal agencies to achieve the purposes of the program.
+
+**(g) Report to Congress** Not later than 60 days after receiving a report from the Committee under subsection (f), the Secretary shall submit a copy of that report to the Committees on Appropriations and Science, Space, and Technology of the House of Representatives, the Committees on Appropriations and Energy and Natural Resources of the Senate, and any other relevant Committee of Congress.
+
+**(h) Applicability of Federal Advisory Committee Act** Except as otherwise provided in this section, the Federal Advisory Committee Act (5 U.S.C. App.) shall apply to the Committee.
+
+### Statutory Notes
+
+#### References in Text
+The Federal Advisory Committee Act, referred to in subsec. (h), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 
 <a id="section-17131"></a>
@@ -2918,8 +3582,8 @@ Section effective on the date that is 1 day after Dec. 19, 2007, see section 160
 This part known as the “Solar Energy Research and Advancement Act of 2007”, see Short Title note set out under [section 17001 of this title](./chapter-152-energy-independence-and-security.md#section-17001).
 
 
-<a id="section-17174"></a>
-## § 17174. Solar energy curriculum development and certification grants
+<a id="section-17174-17175"></a>
+## § 17174, 17175. Solar energy curriculum development and certification grants
 **(a) Establishment** The Secretary shall establish in the Office of Solar Energy Technologies a competitive grant program to create and strengthen solar industry workforce training and internship programs in installation, operation, and maintenance of solar energy products. The goal of this program is to ensure a supply of well-trained individuals to support the expansion of the solar energy industry.
 
 **(b) Authorized activities** Grant funds may be used to support the following activities:
@@ -2950,8 +3614,8 @@ This part known as the “Solar Energy Research and Advancement Act of 2007”, 
 Section effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as a note under [section 1824 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1824&num=0&edition=prelim), The Congress.
 
 
-<a id="section-17175"></a>
-## § 17175. Daylighting systems and direct solar light pipe technology
+<a id="section-17191"></a>
+## § 17191. Daylighting systems and direct solar light pipe technology
 **(a) Establishment** The Secretary shall establish a program of research and development to provide assistance in the demonstration and commercial application of direct solar renewable energy sources to provide alternatives to traditional power generation for lighting and illumination, including light pipe technology, and to promote greater energy conservation and improved efficiency. All direct solar renewable energy devices supported under this program shall have the capability to provide measurable data on the amount of kilowatt-hours saved over the traditionally powered light sources they have replaced.
 
 **(b) Reporting** The Secretary shall transmit to Congress an annual report assessing the measurable data derived from each project in the direct solar renewable energy sources program and the energy savings resulting from its use.
@@ -2970,108 +3634,14 @@ Section effective on the date that is 1 day after Dec. 19, 2007, see section 160
 Section effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as a note under [section 1824 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1824&num=0&edition=prelim), The Congress.
 
 
-<a id="section-17191"></a>
-## § 17191. Solar air conditioning research and development program
-**(a) Establishment** The Secretary shall establish a research, development, and demonstration program to promote less costly and more reliable decentralized distributed solar-powered air conditioning for individuals and businesses.
-
-**(b) Authorized activities** Grants made available under this section may be used to support the following activities:
-
-(1) Advancing solar thermal collectors, including concentrating solar thermal and electric systems, flat plate and evacuated tube collector performance.
-
-(2) Achieving technical and economic integration of solar-powered distributed air-conditioning systems with existing hot water and storage systems for residential applications.
-
-(3) Designing and demonstrating mass manufacturing capability to reduce costs of modular standardized solar-powered distributed air conditioning systems and components.
-
-(4) Improving the efficiency of solar-powered distributed air-conditioning to increase the effectiveness of solar-powered absorption chillers, solar-driven compressors and condensors,11 So in original. and cost-effective precooling approaches.
-
-(5) Researching and comparing performance of solar-powered distributed air conditioning systems in different regions of the country, including potential integration with other onsite systems, such as solar, biogas, geothermal heat pumps, and propane assist or combined propane fuel cells, with a goal to develop site-specific energy production and management systems that ease fuel and peak utility loading.
-
-**(c) Cost sharing** [Section 16352 of this title](./chapter-149-national-energy-policy-and-programs.md#section-16352) shall apply to a project carried out under this section.
-
-**(d) Authorization of appropriations** There are authorized to be appropriated to the Secretary for carrying out this section $2,500,000 for each of the fiscal years 2008 through 2012.
-
-### Statutory Notes
-
-#### Effective Date
-Section effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as a note under [section 1824 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1824&num=0&edition=prelim), The Congress.
-
-
 <a id="section-17192"></a>
-## § 17192. Photovoltaic demonstration program
-**(a) In general** The Secretary shall establish a program of grants to States to demonstrate advanced photovoltaic technology.
-
-**(b) Requirements**
-
-(1) **Ability to meet requirements** — To receive funding under the program under this section, a State must submit a proposal that demonstrates, to the satisfaction of the Secretary, that the State will meet the requirements of subsection (f).
-
-(2) **Compliance with requirements** — If a State has received funding under this section for the preceding year, the State must demonstrate, to the satisfaction of the Secretary, that it complied with the requirements of subsection (f) in carrying out the program during that preceding year, and that it will do so in the future, before it can receive further funding under this section.
-
-**(c) Competition** The Secretary shall award grants on a competitive basis to the States with the proposals the Secretary considers most likely to encourage the widespread adoption of photovoltaic technologies. The Secretary shall take into consideration the geographic distribution of awards.
-
-**(d) Proposals** Not later than 6 months after December 19, 2007, and in each subsequent fiscal year for the life of the program, the Secretary shall solicit proposals from the States to participate in the program under this section.
-
-**(e) Competitive criteria** In awarding funds in a competitive allocation under subsection (c), the Secretary shall consider—
-
-(1) the likelihood of a proposal to encourage the demonstration of, or lower the costs of, advanced photovoltaic technologies; and
-
-(2) the extent to which a proposal is likely to—
-
-  (A) maximize the amount of photovoltaics demonstrated;
-
-  (B) maximize the proportion of non-Federal cost share; and
-
-  (C) limit State administrative costs.
-
-**(f) State program** A program operated by a State with funding under this section shall provide competitive awards for the demonstration of advanced photovoltaic technologies. Each State program shall—
-
-(1) require a contribution of at least 60 percent per award from non-Federal sources, which may include any combination of State, local, and private funds, except that at least 10 percent of the funding must be supplied by the State;
-
-(2) endeavor to fund recipients in the commercial, industrial, institutional, governmental, and residential sectors;
-
-(3) limit State administrative costs to no more than 10 percent of the grant;
-
-(4) report annually to the Secretary on—
-
-  (A) the amount of funds disbursed;
-
-  (B) the amount of photovoltaics purchased; and
-
-  (C) the results of the monitoring under paragraph (5);
-
-(5) provide for measurement and verification of the output of a representative sample of the photovoltaics systems demonstrated throughout the average working life of the systems, or at least 20 years; and
-
-(6) require that applicant buildings must have received an independent energy efficiency audit during the 6-month period preceding the filing of the application.
-
-**(g) Unexpended funds** If a State fails to expend any funds received under this section within 3 years of receipt, such remaining funds shall be returned to the Treasury.
-
-**(h) Reports** The Secretary shall report to Congress 5 years after funds are first distributed to the States under this section—
-
-(1) the amount of photovoltaics demonstrated;
-
-(2) the number of projects undertaken;
-
-(3) the administrative costs of the program;
-
-(4) the results of the monitoring under subsection (f)(5); and
-
-(5) the total amount of funds distributed, including a breakdown by State.
-
-**(i) Authorization of appropriations** There are authorized to be appropriated to the Secretary for the purposes of carrying out this section—
-
-(1) $15,000,000 for fiscal year 2008;
-
-(2) $30,000,000 for fiscal year 2009;
-
-(3) $45,000,000 for fiscal year 2010;
-
-(4) $60,000,000 for fiscal year 2011; and
-
-(5) $70,000,000 for fiscal year 2012.
+## § 17192. Repealed. Pub. L. 116–260, div. Z, title III, § 3006(g)(1), Dec. 27, 2020, 134 Stat. 2513
 
 ### Statutory Notes
 
-#### Effective Date
-Section effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as a note under [section 1824 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1824&num=0&edition=prelim), The Congress.
+Section 17174, Pub. L. 110–140, title VI, § 606, Dec. 19, 2007, 121 Stat. 1676, related to solar air conditioning research and development program.
+
+Section 17175, Pub. L. 110–140, title VI, § 607, Dec. 19, 2007, 121 Stat. 1677, related to photovoltaic demonstration program.
 
 
 <a id="section-17193"></a>
@@ -3079,27 +3649,48 @@ Section effective on the date that is 1 day after Dec. 19, 2007, see section 160
 
 For purposes of this part:
 
-(1) **Engineered** — When referring to enhanced geothermal systems, the term “engineered” means subjected to intervention, including intervention to address one or more of the following issues:
+(1) **Engineered** — When referring to enhanced geothermal systems, the term “engineered” means designed to access subsurface heat, including stimulation and nonstimulation technologies to address one or more of the following issues:
 
-  (A) Lack of effective permeability or porosity or open fracture connectivity within the reservoir.
+  (A) Lack of effective permeability, porosity or open fracture connectivity within the heat reservoir.
 
-  (B) Insufficient contained geofluid in the reservoir.
+  (B) Insufficient contained geofluid in the heat reservoir.
 
-  (C) A low average geothermal gradient, which necessitates deeper drilling.
+  (C) A low average geothermal gradient which necessitates deeper drilling, or the use of alternative heat sources or heat generation processes.
 
-(2) **Enhanced geothermal systems** — The term “enhanced geothermal systems” means geothermal reservoir systems that are engineered, as opposed to occurring naturally.
+(2) **Eligible entity** — The term “eligible entity” means any of the following entities:
 
-(3) **Geofluid** — The term “geofluid” means any fluid used to extract thermal energy from the Earth which is transported to the surface for direct use or electric power generation, except that such term shall not include oil or natural gas.
+  (A) An institution of higher education.
 
-(4) **Geopressured resources** — The term “geopressured resources” mean geothermal deposits found in sedimentary rocks under higher than normal pressure and saturated with gas or methane.
+  (B) A National laboratory.
 
-(5) **Geothermal** — The term “geothermal” refers to heat energy stored in the Earth’s crust that can be accessed for direct use or electric power generation.
+  (C) A Federal research agency.
 
-(6) **Hydrothermal** — The term “hydrothermal” refers to naturally occurring subsurface reservoirs of hot water or steam.
+  (D) A State research agency.
 
-(7) **Systems approach** — The term “systems approach” means an approach to solving problems or designing systems that attempts to optimize the performance of the overall system, rather than a particular component of the system.
+  (E) A nonprofit research organization.
+
+  (F) An industrial entity.
+
+  (G) A consortium of 2 or more entities described in subparagraphs (A) through (F).
+
+(3) **Enhanced geothermal systems** — The term “enhanced geothermal systems” means geothermal reservoir systems that are engineered, as opposed to occurring naturally.
+
+(4) **Geofluid** — The term “geofluid” means any fluid used to extract thermal energy from the Earth which is transported to the surface for direct use or electric power generation, except that such term shall not include oil or natural gas.
+
+(5) **Geopressured resources** — The term “geopressured resources” mean geothermal deposits found in sedimentary rocks under higher than normal pressure and saturated with gas or methane.
+
+(6) **Geothermal** — The term “geothermal” refers to heat energy stored in the Earth’s crust that can be accessed for direct use or electric power generation.
+
+(7) **Hydrothermal** — The term “hydrothermal” refers to naturally occurring subsurface reservoirs of hot water or steam.
+
+(8) **Systems approach** — The term “systems approach” means an approach to solving problems or designing systems that attempts to optimize the performance of the overall system, rather than a particular component of the system.
 
 ### Statutory Notes
+
+#### Amendments
+2020—Par. (1). Pub. L. 116–260, § 3002(a), amended par. (1) generally. Prior to amendment, par. (1) defined the term“engineered”.
+
+Pars. (2) to (8). Pub. L. 116–260, § 3002(a)(2), (3), added par. (2) and redesignated former pars. (2) to (7) as (3) to (8), respectively.
 
 #### Effective Date
 Section effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as a note under [section 1824 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1824&num=0&edition=prelim), The Congress.
@@ -3110,15 +3701,18 @@ This part known as the “Advanced Geothermal Energy Research and Development Ac
 
 <a id="section-17194"></a>
 ## § 17194. Hydrothermal research and development
-**(a) In general** The Secretary shall support programs of research, development, demonstration, and commercial application to expand the use of geothermal energy production from hydrothermal systems, including the programs described in subsection (b).
+**(a) In general** The Secretary shall carry out a program of research, development, demonstration, and commercial application for geothermal energy production from hydrothermal systems.
 
-**(b) Programs**
+**(b) Programs** The program authorized in subsection (a) shall include the following:
 
-(1) **Advanced hydrothermal resource tools** — The Secretary, in consultation with other appropriate agencies, shall support a program to develop advanced geophysical, geochemical, and geologic tools to assist in locating hidden hydrothermal resources, and to increase the reliability of site characterization before, during, and after initial drilling. The program shall develop new prospecting techniques to assist in prioritization of targets for characterization. The program shall include a field component.
+(1) **Advanced hydrothermal resource tools** — The research and development of advanced geologic tools to assist in locating hydrothermal resources, and to increase the reliability of site characterization, including the development of new imaging and sensing technologies and techniques to assist in prioritization of targets for characterization;
 
-(2) **Industry coupled exploratory drilling** — The Secretary shall support a program of cost-shared field demonstration programs, to be pursued, simultaneously and independently, in collaboration with industry partners, for the demonstration of advanced technologies and techniques of siting and exploratory drilling for undiscovered resources in a variety of geologic settings. The program shall include incentives to encourage the use of advanced technologies and techniques.
+(2) **Exploratory drilling for geothermal resources** — The demonstration of advanced technologies and techniques of siting and exploratory drilling for undiscovered resources in a variety of geologic settings, carried out in collaboration with industry partners that will assist in the acquisition of high quality data sets relevant for hydrothermal subsurface characterization activities.
 
 ### Statutory Notes
+
+#### Amendments
+2020—Pub. L. 116–260 amended section generally. Prior to amendment, section related to hydrothermal research and development.
 
 #### Effective Date
 Section effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as a note under [section 1824 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1824&num=0&edition=prelim), The Congress.
@@ -3126,62 +3720,186 @@ Section effective on the date that is 1 day after Dec. 19, 2007, see section 160
 
 <a id="section-17195"></a>
 ## § 17195. General geothermal systems research and development
-**(a) Subsurface components and systems** The Secretary shall support a program of research, development, demonstration, and commercial application of components and systems capable of withstanding extreme geothermal environments and necessary to cost-effectively develop, produce, and monitor geothermal reservoirs and produce geothermal energy. These components and systems shall include advanced casing systems (expandable tubular casing, low-clearance casing designs, and others), high-temperature cements, high-temperature submersible pumps, and high-temperature packers, as well as technologies for under-reaming, multilateral completions, high-temperature and high-pressure logging, logging while drilling, deep fracture stimulation, and reservoir system diagnostics.
+**(a) Subsurface components and systems** The Secretary shall support a program of research, development, demonstration, and commercial application of components and systems capable of withstanding geothermal environments and necessary to develop, produce, and monitor geothermal reservoirs and produce geothermal energy.
 
-**(b) Reservoir performance modeling** The Secretary shall support a program of research, development, demonstration, and commercial application of models of geothermal reservoir performance, with an emphasis on accurately modeling performance over time. Models shall be developed to assist both in the development of geothermal reservoirs and to more accurately account for stress-related effects in stimulated hydrothermal and enhanced geothermal systems production environments.
+**(b) Environmental impacts** The Secretary shall—
 
-**(c) Environmental impacts** The Secretary shall—
+(1) support a program of research, development, demonstration, and commercial application of technologies and practices designed to mitigate or preclude potential adverse environmental impacts of geothermal energy development, production or use;
 
-(1) support a program of research, development, demonstration, and commercial application of technologies and practices designed to mitigate or preclude potential adverse environmental impacts of geothermal energy development, production or use, and seek to ensure that geothermal energy development is consistent with the highest practicable standards of environmental stewardship;
+(2) support a research program to identify potential environmental impacts, including induced seismicity, and environmental benefits of geothermal energy development, production, and use, and ensure that the program described in paragraph (1) addresses such impacts, including water use and effects on groundwater and local hydrology;
 
-(2) in conjunction with the Assistant Administrator for Research and Development at the Environmental Protection Agency, support a research program to identify potential environmental impacts of geothermal energy development, production, and use, and ensure that the program described in paragraph (1) addresses such impacts, including effects on groundwater and local hydrology; and
+(3) support a program of research to compare the potential environmental impacts and environmental benefits identified as part of the development, production, and use of geothermal energy with the potential emission reductions of greenhouse gases gained by geothermal energy development, production, and use; and
 
-(3) support a program of research to compare the potential environmental impacts identified as part of the development, production, and use of geothermal energy with the potential emission reductions of greenhouse gases gained by geothermal energy development, production, and use.
+(4) in carrying out this section, the Secretary shall,11 So in original. to the maximum extent practicable, consult with relevant federal agencies, including the Environmental Protection Agency.
+
+**(c) Reservoir thermal energy storage** The Secretary shall support a program of research, development, and demonstration of reservoir thermal energy storage, emphasizing cost-effective improvements through deep direct use engineering, design, and systems research.
+
+**(d) Oil and gas technology transfer initiative**
+
+(1) **In general** — The Secretary shall support an initiative among the Office of Fossil Energy, the Office of Energy Efficiency and Renewable Energy, and the private sector to research, develop, and demonstrate relevant advanced technologies and operation techniques used in the oil and gas sector for use in geothermal energy development.
+
+(2) **Priorities** — In carrying out paragraph (1), the Secretary shall prioritize technologies with the greatest potential to significantly increase the use and lower the cost of geothermal energy in the United States, including the cost and speed of geothermal drilling surface technologies, large- and small-scale drilling, and well construction.
+
+**(e) Coproduction of geothermal energy and minerals production research and development initiative**
+
+(1) **In general** — The Secretary shall carry out a research and development initiative under which the Secretary shall provide financial assistance to demonstrate the coproduction of critical minerals from geothermal resources.
+
+(2) **Requirements** — An award made under paragraph (1) shall—
+
+  (A) improve the cost effectiveness of removing minerals from geothermal brines as part of the coproduction process;
+
+  (B) increase recovery rates of the targeted mineral commodity;
+
+  (C) decrease water use and other environmental impacts, as determined by the Secretary; and
+
+  (D) demonstrate a path to commercial viability.
+
+**(f) Flexible operations** The Secretary shall support a research initiative on flexible operation of geothermal power plants.
+
+**(g) Integrated energy systems** The Secretary shall identify opportunities for joint research, development, and demonstration programs between geothermal systems and other energy generation or storage systems.
+
+**(h) Drilling data repository**
+
+(1) **In general** — The Secretary shall, in consultation with the Secretary of the Interior, establish and operate a voluntary, industry-wide repository of geothermal drilling information to lower the cost of future geothermal drilling.
+
+(2) **Repository**
+
+  (A) *In general* — In carrying out paragraph (1), the Secretary shall collaborate with countries utilizing a significant amount of geothermal energy, as determined by the Secretary.
+
+  (B) *Data system* — The repository established under paragraph (1) shall be integrated with the National Geothermal Data System.
 
 ### Statutory Notes
+
+#### Amendments
+2020—Pub. L. 116–260 amended section generally. Prior to amendment, section related to general geothermal systems research and development.
+
+#### Effective Date
+Section effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as a note under [section 1824 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1824&num=0&edition=prelim), The Congress.
+
+
+<a id="section-17195a"></a>
+## § 17195a. Enhanced geothermal systems research and development
+**(a) In general** The Secretary shall support a program of research, development, demonstration, and commercial application for enhanced geothermal systems, including the programs described in subsection (b).
+
+**(b) Enhanced geothermal systems technologies** In collaboration with industry partners, institutions of higher education, and the national laboratories, the Secretary shall support a program of research, development, demonstration, and commercial application of the technologies to achieve higher efficiency and lower cost enhanced geothermal systems, including—
+
+(1) reservoir stimulation;
+
+(2) drilled, non-stimulated (e.g. closed-loop) reservoir technologies;
+
+(3) reservoir characterization, monitoring, and modeling and understanding of the surface area and volume of fractures;
+
+(4) stress and fracture mapping including real time monitoring and modeling;
+
+(5) tracer development;
+
+(6) three and four-dimensional seismic imaging and tomography;
+
+(7) well placement and orientation;
+
+(8) long-term reservoir management;
+
+(9) drilling technologies, methods, and tools;
+
+(10) improved exploration tools;
+
+(11) zonal isolation; and
+
+(12) understanding induced seismicity risks from reservoir engineering and stimulation.
+
+**(c) Frontier observatory for research in geothermal energy**
+
+(1) **In general** — The Secretary shall support the establishment and construction of up to 3 field research sites, which shall each be known as a “Frontier Observatory for Research in Geothermal Energy” or “FORGE” site to develop, test, and enhance techniques and tools for enhanced geothermal energy.
+
+(2) **Duties** — The Secretary shall—
+
+  (A) provide financial assistance in support of research and development projects focused on advanced monitoring technologies, new technologies and approaches for implementing multi-zone stimulations, nonstimulation techniques, and dynamic reservoir modeling that incorporates all available high-fidelity characterization data; and
+
+  (B) seek opportunities to coordinate efforts and share information with domestic and international partners engaged in research and development of geothermal systems and related technology, including coordination between FORGE sites.
+
+(3) **Site selection** — Of the FORGE sites referred to in paragraph (1), the Secretary shall—
+
+  (A) consider applications through a competitive, merit-reviewed process, from National Laboratories, multi-institutional collaborations, institutes of higher education and other appropriate entities best suited to provide national leadership on geothermal related issues and perform the duties enumerated under this subsection;
+
+  (B) prioritize existing field sites and facilities with capabilities relevant to the duties enumerated under this subsection;
+
+  (C) determine the mission need for and potential location of subsequent FORGE sites following the completion of construction and one year of operation of two FORGE sites; and
+
+  (D) ensure geologic diversity among FORGE sites when developing subsequent sites, to the maximum extent practicable.
+
+(4) **Existing forge sites** — A FORGE site already in existence on December 27, 2020, may continue to receive support.
+
+(5) **Site operation**
+
+  (A) *Initial duration* — FORGE sites selected under paragraph (3) shall operate for an initial term of not more than 7 years after the date on which site operation begins.
+
+  (B) *Performance metrics* — The Secretary shall establish performance metrics for each FORGE site supported under this paragraph, which may be used by the Secretary to determine whether a FORGE site should continue to receive funding.
+
+(6) **Additional terms**
+
+  (A) *In general* — At the end of an operational term described in subparagraph (B), a FORGE site may—
+
+    (i) be transferred to other public or private entities for further enhanced geothermal testing; or
+
+    (ii) subject to appropriations and a merit review by the Secretary, operate for an additional term of not more than 7 years.
+
+  (B) *Operational term described* — An operational term referred to in subparagraph (A)—
+
+    (i) in the case of an existing FORGE site, is the existing operational term; and
+
+    (ii) in the case of new FORGE sites selected under paragraph (3), is the initial term under paragraph (5)(A) or an additional term under subparagraph (A)(ii) of this paragraph.
+
+(7) **Funding**
+
+  (A) *In general* — Out of funds authorized to be appropriated under [section 17202 of this title](./chapter-152-energy-independence-and-security.md#section-17202), there shall be made available to the Secretary to carry out the FORGE activities under this paragraph—
+
+    (i) $45,000,000 for fiscal year 2021;
+
+    (ii) $55,000,000 for fiscal year 2022;
+
+    (iii) $65,000,000 for fiscal year 2023;
+
+    (iv) $70,000,000 for fiscal year 2024; and
+
+    (v) $70,000,000 for fiscal year 2025.
+
+  (B) *Considerations* — In carrying out this subsection, the Secretary shall consider the balance between funds dedicated to construction and operations and research activities to reflect the state of site development.
+
+**(d) Enhanced geothermal systems demonstrations**
+
+(1) **In general** — Beginning on December 27, 2020, the Secretary, in collaboration with industry partners, institutions of higher education, and the national laboratories, shall support an initiative for demonstration of enhanced geothermal systems for power production or direct use.
+
+(2) **Projects**
+
+  (A) *In general* — Under the initiative described in paragraph (1), 4 demonstration projects shall be carried out in locations that are potentially commercially viable for enhanced geothermal systems development, while also considering environmental impacts to the maximum extent practicable, as determined by the Secretary.
+
+  (B) *Requirements* — Demonstration projects under subparagraph (A) shall—
+
+    (i) collectively demonstrate—
+
+      (I) different geologic settings, such as hot sedimentary aquifers, layered geologic systems, supercritical systems, and basement rock systems; and
+
+      (II) a variety of development techniques, including open hole and cased hole completions, differing well orientations, and stimulation and nonstimulation mechanisms; and
+
+    (ii) to the extent practicable, use existing sites where subsurface characterization or geothermal energy integration analysis has been conducted.
+
+  (C) *Eastern demonstration* — Not fewer than 1 of the demonstration projects carried out under subparagraph (A) shall be located an area east of the Mississippi River that is suitable for enhanced geothermal demonstration for power, heat, or a combination of power and heat.
+
+  (D) *Milestone-based demonstration projects* — The Secretary may carry out demonstration projects under this subsection as a milestone-based demonstration project under [section 7256c of this title](./chapter-084-department-of-energy.md#section-7256c).
+
+(3) **Funding** — Out of funds authorized to be appropriated under [section 17202 of this title](./chapter-152-energy-independence-and-security.md#section-17202), there shall be made available to the Secretary to carry out the demonstration activities under this subsection $21,000,000 for each of fiscal years 2021 through 2025.
+
+### Statutory Notes
+
+#### References in Text
+December 27, 2020, referred to in subsecs. (c)(4) and (d)(1), was in the original “the date of enactment of this Act” and “he date of enactment of this section”, respectively, and were translated as meaning the date of enactment of Pub. L. 116–260, which was approved Dec. 27, 2020.
 
 #### Effective Date
 Section effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as a note under [section 1824 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1824&num=0&edition=prelim), The Congress.
 
 
 <a id="section-17196"></a>
-## § 17196. Enhanced geothermal systems research and development
-**(a) In general** The Secretary shall support a program of research, development, demonstration, and commercial application for enhanced geothermal systems, including the programs described in subsection (b).
-
-**(b) Programs**
-
-(1) **Enhanced geothermal systems technologies** — The Secretary shall support a program of research, development, demonstration, and commercial application of the technologies and knowledge necessary for enhanced geothermal systems to advance to a state of commercial readiness, including advances in—
-
-  (A) reservoir stimulation;
-
-  (B) reservoir characterization, monitoring, and modeling;
-
-  (C) stress mapping;
-
-  (D) tracer development;
-
-  (E) three-dimensional tomography; and
-
-  (F) understanding seismic effects of reservoir engineering and stimulation.
-
-(2) **Enhanced geothermal systems reservoir stimulation**
-
-  (A) *Program* — In collaboration with industry partners, the Secretary shall support a program of research, development, and demonstration of enhanced geothermal systems reservoir stimulation technologies and techniques. A minimum of 4 sites shall be selected in locations that show particular promise for enhanced geothermal systems development. Each site shall—
-
-    (i) represent a different class of subsurface geologic environments; and
-
-    (ii) take advantage of an existing site where subsurface characterization has been conducted or existing drill holes can be utilized, if possible.
-
-  (B) *Consideration of existing site* — The Desert Peak, Nevada, site, where a Department of Energy and industry cooperative enhanced geothermal systems project is already underway, may be considered for inclusion among the sites selected under subparagraph (A).
-
-### Statutory Notes
-
-#### Effective Date
-Section effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as a note under [section 1824 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1824&num=0&edition=prelim), The Congress.
-
-
-<a id="section-17197"></a>
-## § 17197. Geothermal energy production from oil and gas fields and recovery and production of geopressured gas resources
+## § 17196. Geothermal energy production from oil and gas fields and recovery and production of geopressured gas resources
 **(a) In general** The Secretary shall establish a program of research, development, demonstration, and commercial application to support development of geothermal energy production from oil and gas fields and production and recovery of energy, including electricity, from geopressured resources. In addition, the Secretary shall conduct such supporting activities including research, resource characterization, and technology development as necessary.
 
 **(b) Geothermal energy production from oil and gas fields** The Secretary shall implement a grant program in support of geothermal energy production from oil and gas fields. The program shall include grants for a total of not less than three demonstration projects of the use of geothermal techniques such as advanced organic rankine cycle systems at marginal, unproductive, and productive oil and gas wells. The Secretary shall, to the extent practicable and in the public interest, make awards that—
@@ -3239,107 +3957,144 @@ The Secretary shall give preference to assessments that address multiple element
 Section effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as a note under [section 1824 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1824&num=0&edition=prelim), The Congress.
 
 
+<a id="section-17197"></a>
+## § 17197. Geothermal heat pumps and direct use research and development
+**(a) Purposes** The purposes of this section are—
+
+(1) to improve the understanding of related earth sciences, components, processes, and systems used for geothermal heat pumps and the direct use of geothermal energy; and
+
+(2) to increase the energy efficiency, lower the cost, increase the use, and improve and demonstrate the effectiveness of geothermal heat pumps and the direct use of geothermal energy.
+
+**(b) Definitions** In this section:
+
+(1) **Direct use of geothermal energy** — The term “direct use of geothermal energy” means geothermal systems that use water directly or through a heat exchanger to provide—
+
+  (A) heating and cooling to buildings, commercial districts, residential communities, and large municipal, or industrial projects; or
+
+  (B) heat required for industrial processes, agriculture, aquaculture, and other facilities.
+
+(2) **Economically distressed area** — The term “economically distressed area” means an area described in [section 3161(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3161/a&num=0&edition=prelim).
+
+(3) **Geothermal heat pump** — The term “geothermal heat pump” means a system that provides heating and cooling by exchanging heat from shallow geology, groundwater, or surface water using—
+
+  (A) a closed loop system, which transfers heat by way of buried or immersed pipes that contain a mix of water and working fluid; or
+
+  (B) an open loop system, which circulates ground or surface water directly into the building and returns the water to the same aquifer or surface water source.
+
+**(c) Program**
+
+(1) **In general** — The Secretary shall support within the Geothermal Technologies Office a program of research, development, and demonstration for geothermal heat pumps and the direct use of geothermal energy.
+
+(2) **Areas** — The program under paragraph (1) may include research, development, demonstration, and commercial application of—
+
+  (A) geothermal ground loop efficiency improvements, cost reductions, and improved installation and operations methods;
+
+  (B) the use of geothermal energy for building-scale energy storage;
+
+  (C) the use of geothermal energy as a grid management resource or seasonal energy storage;
+
+  (D) geothermal heat pump efficiency improvements;
+
+  (E) the use of alternative fluids as a heat exchange medium, such as hot water found in mines and mine shafts, graywater, or other fluids that may improve the economics of geothermal heat pumps;
+
+  (F) heating of districts, neighborhoods, communities, large commercial or public buildings, and industrial and manufacturing facilities;
+
+  (G) the use of low temperature groundwater for direct use; and
+
+  (H) system integration of direct use with geothermal electricity production.
+
+(3) **Environmental impacts** — In carrying out the program, the Secretary shall identify and mitigate potential environmental impacts in accordance with [section 17193(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section17193/b&num=0&edition=prelim).
+
+**(d) Financial assistance**
+
+(1) **In general** — The Secretary shall carry out the program established in subsection (c) by making financial assistance available to State, local, and Tribal governments, institutions of higher education, nonprofit entities, National Laboratories, utilities, and for-profit companies.
+
+(2) **Priority** — In providing financial assistance under this subsection, the Secretary may give priority to proposals that apply to large buildings, commercial districts, and residential communities that are located in economically distressed areas and areas that the Secretary determines to have high economic potential for geothermal district heating based on the report, “Geovision: Harnessing the Heat Beneath our Feet” published by the Department in 2019, or a successor report.
+
+
 <a id="section-17198"></a>
-## § 17198. Cost sharing and proposal evaluation
+## § 17198. Organization and administration of programs
 **(a) Federal share** The Federal share of costs of projects funded under this part shall be in accordance with [section 16352 of this title](./chapter-149-national-energy-policy-and-programs.md#section-16352).
 
 **(b) Organization and administration of programs** Programs under this part shall incorporate the following elements:
 
 (1) The Secretary shall coordinate with, and where appropriate may provide funds in furtherance of the purposes of this part to, other Department of Energy research and development programs focused on drilling, subsurface characterization, and other related technologies.
 
-(2) In evaluating proposals, the Secretary shall give priority to proposals that demonstrate clear evidence of employing a systems approach.
+(2) The Secretary shall coordinate and consult with the appropriate Federal land management agencies in selecting proposals for funding under this part.
 
-(3) The Secretary shall coordinate and consult with the appropriate Federal land management agencies in selecting proposals for funding under this part.
+(3) Nothing in this part shall be construed to alter or affect any law relating to the management or protection of Federal lands.
 
-(4) Nothing in this part shall be construed to alter or affect any law relating to the management or protection of Federal lands.
+**(c) Education and outreach** In carrying out the activities described in this part, the Secretary shall support education and outreach activities to disseminate information on geothermal energy technologies and the geothermal energy workforce, including activities at the Frontier Observatory for Research in Geothermal Energy site or sites.
+
+**(d) Technical assistance** In carrying out this part, the Secretary shall also conduct technical assistance and analysis activities with eligible entities for the purpose of supporting the commercial application of advances in geothermal energy systems development and operations, which may include activities that support expanding access to advanced geothermal energy technologies for rural, Tribal, and low-income communities.
+
+**(e) Report** Every 5 years after December 27, 2020, the Secretary shall report to the Committee on Science and Technology of the House of Representatives and the Committee on Energy and Natural Resources of the Senate on advanced concepts and technologies to maximize the geothermal resource potential of the United States.
+
+**(f) Progress reports** Not later than 1 year after December 27, 2020, and every 2 years thereafter, the Secretary shall submit to the Committee on Science and Technology of the House of Representatives and the Committee on Energy and Natural Resources of the Senate a report on the results of projects undertaken under this part and other such information the Secretary considers appropriate.
 
 ### Statutory Notes
+
+#### References in Text
+This part, referred to in subsec. (f), probably should be a reference to “this subtitle”, meaning subtitle B of title VI of Pub. L. 110–140, which is classified to this part.
+
+#### Amendments
+2020—Pub. L. 116–260, § 3002(f)(1)(A), substituted “Organization and administration of programs” for “Cost sharing and proposal evaluation” in section catchline.
+
+Subsec. (b)(2) to (4). Pub. L. 116–260, § 3002(f)(1)(B), redesignated pars. (3) and (4) as (2) and (3), respectively, and struck out former par. (2) which read as follows: “In evaluating proposals, the Secretary shall give priority to proposals that demonstrate clear evidence of employing a systems approach.”
+
+Subsecs. (c) to (f). Pub. L. 116–260, § 3002(f)(1)(C), added subsecs. (c) to (f).
 
 #### Effective Date
 Section effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as a note under [section 1824 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1824&num=0&edition=prelim), The Congress.
 
 
-<a id="section-17199"></a>
-## § 17199. Center for Geothermal Technology Transfer
-**(a) In general** The Secretary shall award to an institution of higher education (or consortium thereof) a grant to establish a Center for Geothermal Technology Transfer (referred to in this section as the “Center”).
+<a id="section-17199-17200"></a>
+## § 17199, 17200. Advanced geothermal computing and data science research and development
+**(a) In general** The Secretary shall carry out a program of research and development of advanced computing and data science tools for geothermal energy.
 
-**(b) Duties** The Center shall—
+**(b) Programs** The program authorized in subsection (a) shall include the following:
 
-(1) serve as an information clearinghouse for the geothermal industry by collecting and disseminating information on best practices in all areas relating to developing and utilizing geothermal resources;
+(1) **Advanced computing for geothermal systems technologies** — Research, development, and demonstration of technologies to develop advanced data, machine learning, artificial intelligence, and related computing tools to assist in locating geothermal resources, to increase the reliability of site characterization, to increase the rate and efficiency of drilling, to improve induced seismicity mitigation, and to support enhanced geothermal systems technologies.
 
-(2) make data collected by the Center available to the public; and
+(2) **Geothermal systems reservoir modeling** — Research, development, and demonstration of models of geothermal reservoir performance and enhanced geothermal systems reservoir stimulation technologies and techniques, with an emphasis on accurately modeling fluid and heat flow, permeability evolution, geomechanics, geochemistry, seismicity, and operational performance over time, including collaboration with industry and field validation.
 
-(3) seek opportunities to coordinate efforts and share information with domestic and international partners engaged in research and development of geothermal systems and related technology.
-
-**(c) Selection criteria** In awarding the grant under subsection (a) the Secretary shall select an institution of higher education (or consortium thereof) best suited to provide national leadership on geothermal related issues and perform the duties enumerated under subsection (b).
-
-**(d) Duration of grant** A grant made under subsection (a)—
-
-(1) shall be for an initial period of 5 years; and
-
-(2) may be renewed for additional 5-year periods on the basis of—
-
-  (A) satisfactory performance in meeting the duties outlined in subsection (b); and
-
-  (B) any other requirements specified by the Secretary.
+**(c) Coordination** In carrying out these programs, the Secretary shall ensure coordination and consultation with the Department of Energy’s Office of Science. The Secretary shall ensure, to the maximum extent practicable, coordination of these activities with the Department of Energy National Laboratories, institutes of higher education, and the private sector.
 
 ### Statutory Notes
 
-#### Effective Date
-Section effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as a note under [section 1824 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1824&num=0&edition=prelim), The Congress.
-
-
-<a id="section-17200"></a>
-## § 17200. GeoPowering America
-
-The Secretary shall expand the Department of Energy’s GeoPowering the West program to extend its geothermal technology transfer activities throughout the entire United States. The program shall be renamed “GeoPowering America”. The program shall continue to be based in the Department of Energy office in Golden, Colorado.
-
-### Statutory Notes
+#### Amendments
+2020—Pub. L. 116–260 amended section generally. Prior to amendment, section related to Center for Geothermal Technology Transfer.
 
 #### Effective Date
 Section effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as a note under [section 1824 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1824&num=0&edition=prelim), The Congress.
 
 
 <a id="section-17201"></a>
-## § 17201. Educational pilot program
+## § 17201. Geothermal workforce development
 
-The Secretary shall seek to award grant funding, on a competitive basis, to an institution of higher education for a geothermal-powered energy generation facility on the institution’s campus. The purpose of the facility shall be to provide electricity and space heating. The facility shall also serve as an educational resource to students in relevant fields of study, and the data generated by the facility shall be available to students and the general public. The total funding award shall not exceed $2,000,000.
+The Secretary shall support the development of a geothermal energy workforce through a program that—
+
+(1) facilitates collaboration between university students and researchers at the National Laboratories; and
+
+(2) prioritizes science in areas relevant to the mission of the Department through the application of geothermal energy tools and technologies.
 
 ### Statutory Notes
+
+#### Amendments
+2020—Pub. L. 116–260 amended section generally. Prior to amendment, section read as follows: “The Secretary shall expand the Department of Energy’s GeoPowering the West program to extend its geothermal technology transfer activities throughout the entire United States. The program shall be renamed ‘GeoPowering America’. The program shall continue to be based in the Department of Energy office in Golden, Colorado.”
 
 #### Effective Date
 Section effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as a note under [section 1824 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1824&num=0&edition=prelim), The Congress.
 
 
 <a id="section-17202"></a>
-## § 17202. Reports
-**(a) Reports on advanced uses of geothermal energy** Not later than 3 years and 5 years after December 19, 2007, the Secretary shall report to the Committee on Science and Technology of the House of Representatives and the Committee on Energy and Natural Resources of the Senate on advanced concepts and technologies to maximize the geothermal resource potential of the United States. The reports shall include—
-
-(1) the use of carbon dioxide as an alternative geofluid with potential carbon sequestration benefits;
-
-(2) mineral recovery from geofluids;
-
-(3) use of geothermal energy to produce hydrogen;
-
-(4) use of geothermal energy to produce biofuels;
-
-(5) use of geothermal heat for oil recovery from oil shales and tar sands; and
-
-(6) other advanced geothermal technologies, including advanced drilling technologies and advanced power conversion technologies.
-
-**(b) Progress reports**
-
-(1) Not later than 36 months after December 19, 2007, the Secretary shall submit to the Committee on Science and Technology of the House of Representatives and the Committee on Energy and Natural Resources of the Senate an interim report describing the progress made under this part. At the end of 60 months, the Secretary shall submit to Congress a report on the results of projects undertaken under this part and other such information the Secretary considers appropriate.
-
-(2) As necessary, the Secretary shall report to the Congress on any legal, regulatory, or other barriers encountered that hinder economic development of these resources, and provide recommendations on legislative or other actions needed to address such impediments.
+## § 17202. Repealed. Pub. L. 116–260, div. Z, title III, § 3002(i)(1), Dec. 27, 2020, 134 Stat. 2495
 
 ### Statutory Notes
 
-#### Change of Name
-Committee on Science and Technology of House of Representatives changed to Committee on Science, Space, and Technology of House of Representatives by House Resolution No. 5, One Hundred Twelfth Congress, Jan. 5, 2011.
+Section 17199, Pub. L. 110–140, title VI, § 620, Dec. 19, 2007, 121 Stat. 1683, related to educational pilot program.
 
-#### Effective Date
-Section effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as a note under [section 1824 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1824&num=0&edition=prelim), The Congress.
+Section 17200, Pub. L. 110–140, title VI, § 621, Dec. 19, 2007, 121 Stat. 1684, related to reports to Congress.
 
 
 <a id="section-17203"></a>
@@ -3356,9 +4111,12 @@ Section effective on the date that is 1 day after Dec. 19, 2007, see section 160
 <a id="section-17204"></a>
 ## § 17204. Authorization of appropriations
 
-There are authorized to be appropriated to the Secretary to carry out this part $90,000,000 for each of the fiscal years 2008 through 2012, of which $10,000,000 for each fiscal year shall be for carrying out [section 17195 of this title](./chapter-152-energy-independence-and-security.md#section-17195). There are also authorized to be appropriated to the Secretary for the Intermountain West Geothermal Consortium $5,000,000 for each of the fiscal years 2008 through 2012.
+There are authorized to be appropriated to the Secretary to carry out the programs under this part $170,000,000 for each of fiscal years 2021 through 2025.
 
 ### Statutory Notes
+
+#### Amendments
+2020—Pub. L. 116–260 amended section generally. Prior to amendment, section related to authorization of appropriations for fiscal years 2008 to 2012.
 
 #### Effective Date
 Section effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as a note under [section 1824 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1824&num=0&edition=prelim), The Congress.
@@ -3366,7 +4124,7 @@ Section effective on the date that is 1 day after Dec. 19, 2007, see section 160
 
 <a id="section-17211"></a>
 ## § 17211. International geothermal energy development
-**(a) In general** The Secretary of Energy, in coordination with other appropriate Federal and multilateral agencies (including the United States Agency for International Development) shall support international collaborative efforts to promote the research, development, and deployment of geothermal technologies used to develop hydrothermal and enhanced geothermal system resources, including as partners (as appropriate) the African Rift Geothermal Development Facility, Australia, China, France, the Republic of Iceland, India, Japan, and the United Kingdom.
+**(a) In general** The Secretary of Energy, in coordination with other appropriate Federal and multilateral agencies (including the United States Agency for International Development) shall support collaborative efforts with international partners to promote the research, development, and demonstration of geothermal technologies used to develop hydrothermal and enhanced geothermal system resources.
 
 **(b) United States Trade and Development Agency** The Director of the United States Trade and Development Agency may—
 
@@ -3374,9 +4132,12 @@ Section effective on the date that is 1 day after Dec. 19, 2007, see section 160
 
 (2) provide grants and other financial support for feasibility and resource assessment studies conducted in, or intended to benefit, less developed countries.
 
-**(c) Authorization of appropriations** There are authorized to be appropriated to carry out this section $5,000,000 for each of fiscal years 2008 through 2012.
-
 ### Statutory Notes
+
+#### Amendments
+2020—Subsec. (a). Pub. L. 116–260, § 3002(k)(1), amended subsec. (a) generally. Prior to amendment, text read as follows: “The Secretary of Energy, in coordination with other appropriate Federal and multilateral agencies (including the United States Agency for International Development) shall support international collaborative efforts to promote the research, development, and deployment of geothermal technologies used to develop hydrothermal and enhanced geothermal system resources, including as partners (as appropriate) the African Rift Geothermal Development Facility, Australia, China, France, the Republic of Iceland, India, Japan, and the United Kingdom.”
+
+Subsec. (c). Pub. L. 116–260, § 3002(k)(2), struck out subsec. (c). Text read as follows: “There are authorized to be appropriated to carry out this section $5,000,000 for each of fiscal years 2008 through 2012.”
 
 #### Effective Date
 Section effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as a note under [section 1824 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1824&num=0&edition=prelim), The Congress.
@@ -3400,7 +4161,7 @@ Section effective on the date that is 1 day after Dec. 19, 2007, see section 160
 
   (F) a Native corporation.
 
-(2) **High-cost region** — The term “high-cost region” means a region in which the average cost of electrical power exceeds 150 percent of the national average retail cost, as determined by the Secretary.
+(2) **High-cost region** — The term “high-cost region” means a region in which the average cost of electrical power or heat exceeds 150 percent of the national average retail cost, as determined by the Secretary.
 
 **(b) Program** The Secretary shall use amounts made available to carry out this section to make grants to eligible entities for activities described in subsection (c).
 
@@ -3414,130 +4175,368 @@ Section effective on the date that is 1 day after Dec. 19, 2007, see section 160
 
 **(d) Cost sharing** The cost-sharing requirements of [section 16352 of this title](./chapter-149-national-energy-policy-and-programs.md#section-16352) shall apply to any project carried out under this section.
 
-**(e) Authorization of appropriations** There are authorized to be appropriated such sums as are necessary to carry out this section.
+**(e) Authorization of appropriations** Out of funds authorized under [section 17202 of this title](./chapter-152-energy-independence-and-security.md#section-17202), there is authorized to be appropriated to carry out this section $5,000,000 for each of fiscal years 2021 through 2025.
 
 ### Statutory Notes
+
+#### Amendments
+2020—Subsec. (a)(2). Pub. L. 116–260, § 3002(l)(1), inserted “or heat” after “electrical power”.
+
+Subsec. (e). Pub. L. 116–260, § 3002(l)(2), amended subsec. (e) generally. Prior to amendment, text read as follows: “There are authorized to be appropriated such sums as are necessary to carry out this section.”
 
 #### Effective Date
 Section effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as a note under [section 1824 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1824&num=0&edition=prelim), The Congress.
 
 
 <a id="section-17213"></a>
-## § 17213. Definition
+## § 17213. Definitions
 
-For purposes of this part, the term “marine and hydrokinetic renewable energy” means electrical energy from—
+In this part:
 
-(1) waves, tides, and currents in oceans, estuaries, and tidal areas;
+(1) **Eligible entity** — The term “eligible entity” means any of the following entities:
 
-(2) free flowing water in rivers, lakes, and streams;
+  (A) An institution of higher education.
 
-(3) free flowing water in man-made channels; and
+  (B) A National Laboratory.
 
-(4) differentials in ocean temperature (ocean thermal energy conversion).
-The term “marine and hydrokinetic renewable energy” does not include energy from any source that uses a dam, diversionary structure, or impoundment for electric power purposes.
+  (C) A Federal research agency.
+
+  (D) A State research agency.
+
+  (E) A nonprofit research organization.
+
+  (F) An industrial entity or a multi-institutional consortium thereof.
+
+(2) **Institution of higher education** — The term “institution of higher education” means—
+
+  (A) an institution of higher education (as defined in [section 1001(a) of title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1001/a&num=0&edition=prelim)); or
+
+  (B) a postsecondary vocational institution (as defined in [section 1002(c) of title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1002/c&num=0&edition=prelim)).
+
+(3) **Marine energy** — The term “marine energy” means energy from—
+
+  (A) waves, tides, and currents in oceans, estuaries, and tidal areas;
+
+  (B) free flowing water in rivers, lakes, streams, and man-made channels;
+
+  (C) differentials in salinity and pressure gradients; and
+
+  (D) differentials in water temperature, including ocean thermal energy conversion.
+
+(4) **National laboratory** — The term “National Laboratory” has the meaning given such term in [section 15801(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section15801/3&num=0&edition=prelim).
+
+(5) **Water power** — The term “water power” refers to hydropower, including conduit power, pumped storage, and marine energy technologies.
+
+(6) **Microgrid** — The term “microgrid” has the meaning given such term in [section 17231 of this title](./chapter-152-energy-independence-and-security.md#section-17231).
 
 ### Statutory Notes
 
-#### Effective Date
-Section effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as a note under [section 1824 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1824&num=0&edition=prelim), The Congress.
+#### Prior Provisions
+A prior section 17211, Pub. L. 110–140, title VI, § 632, Dec. 19, 2007, 121 Stat. 1686, related to definitions of terms, prior to the general amendment of this part by Pub. L. 116–260.
 
 #### Short Title
-This part known as the “Marine and Hydrokinetic Renewable Energy Research and Development Act”, see Short Title note set out under [section 17001 of this title](./chapter-152-energy-independence-and-security.md#section-17001).
+This part was formerly known as the “Marine and Hydrokinetic Renewable Energy Research and Development Act”, see Short Title note formerly set out under [section 17001 of this title](./chapter-152-energy-independence-and-security.md#section-17001).
 
 
 <a id="section-17214"></a>
-## § 17214. Marine and hydrokinetic renewable energy research and development
-**(a) In general** The Secretary, in consultation with the Secretary of the Interior and the Secretary of Commerce, acting through the Under Secretary of Commerce for Oceans and Atmosphere, shall establish a program of research, development, demonstration, and commercial application to expand marine and hydrokinetic renewable energy production, including programs to—
+## § 17214. Water power technology research, development, and demonstration
 
-(1) study and compare existing marine and hydrokinetic renewable energy technologies;
+The Secretary shall carry out a program to conduct research, development, demonstration, and commercial application of water power technologies in support of each of the following purposes:
 
-(2) research, develop, and demonstrate marine and hydrokinetic renewable energy systems and technologies;
+(1) To promote research, development, demonstration, and commercial application of water power generation technologies in order to increase capacity and reduce the cost of those technologies.
 
-(3) reduce the manufacturing and operation costs of marine and hydrokinetic renewable energy technologies;
+(2) To promote research and development to improve the environmental impact of water power technologies.
 
-(4) investigate efficient and reliable integration with the utility grid and intermittency issues;
+(3) To provide grid reliability and resilience, including through technologies that facilitate new market opportunities, such as ancillary services, for water power.
 
-(5) advance wave forecasting technologies;
-
-(6) conduct experimental and numerical modeling for optimization of marine energy conversion devices and arrays;
-
-(7) increase the reliability and survivability of marine and hydrokinetic renewable energy technologies, including development of corrosive-resistant materials;
-
-(8) identify, in conjunction with the Secretary of Commerce, acting through the Under Secretary of Commerce for Oceans and Atmosphere, and other Federal agencies as appropriate, the potential environmental impacts, including potential impacts on fisheries and other marine resources, of marine and hydrokinetic renewable energy technologies, measures to prevent adverse impacts, and technologies and other means available for monitoring and determining environmental impacts;
-
-(9) identify, in conjunction with the Secretary of the Department in which the United States Coast Guard is operating, acting through the Commandant of the United States Coast Guard, the potential navigational impacts of marine and hydrokinetic renewable energy technologies and measures to prevent adverse impacts on navigation;
-
-(10) develop power measurement standards for marine and hydrokinetic renewable energy;
-
-(11) develop identification standards for marine and hydrokinetic renewable energy devices;
-
-(12) address standards development, demonstration, and technology transfer for advanced systems engineering and system integration methods to identify critical interfaces;
-
-(13) identifying 11 So in original. Probably should be “identify”. opportunities for cross fertilization and development of economies of scale between other renewable sources and marine and hydrokinetic renewable energy sources; and
-
-(14) providing 22 So in original. Probably should be “provide”. public information and opportunity for public comment concerning all technologies.
-
-**(b) Report** Not later than 18 months after December 19, 2007, the Secretary, in conjunction with the Secretary of Commerce, acting through the Undersecretary of Commerce for Oceans and Atmosphere, and the Secretary of the Interior, shall provide to the Congress a report that addresses—
-
-(1) the potential environmental impacts, including impacts to fisheries and marine resources, of marine and hydrokinetic renewable energy technologies;
-
-(2) options to prevent adverse environmental impacts;
-
-(3) the potential role of monitoring and adaptive management in identifying and addressing any adverse environmental impacts; and
-
-(4) the necessary components of such an adaptive management program.
+(4) To promote the development of water power technologies to improve economic growth and enhance cross-institutional foundational workforce development in the water power sector, including in coastal communities.
 
 ### Statutory Notes
 
-#### Effective Date
-Section effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as a note under [section 1824 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1824&num=0&edition=prelim), The Congress.
+#### Prior Provisions
+A prior section 17212, Pub. L. 110–140, title VI, § 633, Dec. 19, 2007, 121 Stat. 1686, related to marine and hydrokinetic renewable energy research and development, prior to the general amendment of this part by Pub. L. 116–260.
 
 
 <a id="section-17215"></a>
-## § 17215. National Marine Renewable Energy Research, Development, and Demonstration Centers
-**(a) Centers** The Secretary shall award grants to institutions of higher education (or consortia thereof) for the establishment of 1 or more National Marine Renewable Energy Research, Development, and Demonstration Centers. In selecting locations for Centers, the Secretary shall consider sites that meet one of the following criteria:
+## § 17215. Hydropower research, development, and demonstration
 
-(1) Hosts an existing marine renewable energy research and development program in coordination with an engineering program at an institution of higher education.
+The Secretary shall conduct a program of research, development, demonstration, and commercial application for technologies that improve the capacity, efficiency, resilience, security, reliability, affordability, and environmental impact, including potential cumulative environmental impacts, of hydropower systems. In carrying out such program, the Secretary shall prioritize activities designed to—
 
-(2) Has proven expertise to support environmental and policy-related issues associated with harnessing of energy in the marine environment.
+(1) develop technology for—
 
-(3) Has access to and utilizes the marine resources in the Gulf of Mexico, the Atlantic Ocean, or the Pacific Ocean.
-The Secretary may give special consideration to historically black colleges and universities and land grant universities that also meet one of these criteria. In establishing criteria for the selection of the Centers, the Secretary shall consult with the Secretary of Commerce, acting through the Under Secretary of Commerce for Oceans and Atmosphere, on the criteria related to ocean waves, tides, and currents including those for advancing wave forecasting technologies, ocean temperature differences, and studying the compatibility of marine renewable energy technologies and systems with the environment, fisheries, and other marine resources.
+  (A) non-powered dams, including aging and potentially hazardous dams;
 
-**(b) Purposes** The Centers shall advance research, development, demonstration, and commercial application of marine renewable energy, and shall serve as an information clearinghouse for the marine renewable energy industry, collecting and disseminating information on best practices in all areas related to developing and managing enhanced marine renewable energy systems resources.
+  (B) pumped storage;
 
-**(c) Demonstration of need** When applying for a grant under this section, an applicant shall include a description of why Federal support is necessary for the Center, including evidence that the research of the Center will not be conducted in the absence of Federal support.
+  (C) constructed waterways;
+
+  (D) new stream-reach development;
+
+  (E) modular and small dams;
+
+  (F) increased operational flexibility; and
+
+  (G) enhancement of relevant existing facilities;
+
+(2) develop new strategies and technologies, including analytical methods, physical and numerical tools, and advanced computing, as well as methods to validate such methods and tools, in order to—
+
+  (A) extend the operational lifetime of hydropower systems and their physical structures, while improving environmental impact, including potential cumulative environmental impacts;
+
+  (B) assist in device and system design, installation, operation, and maintenance; and
+
+  (C) reduce costs, limit outages, and increase unit and plant efficiencies, including by examining the impact of changing water and electricity demand on hydropower generation, flexibility, and provision of grid services;
+
+(3) study, in conjunction with other relevant Federal agencies as appropriate, methods to improve the hydropower licensing process, including by compiling current and accepted best practices, public comments, and methodologies to assess the full range of potential environmental and economic impacts;
+
+(4) identify opportunities for joint research, development, and demonstration programs between hydropower systems, which may include—
+
+  (A) pumped storage systems and other renewable energy systems;
+
+  (B) small hydro facilities and other energy storage systems;
+
+  (C) other hybrid energy systems;
+
+  (D) small hydro facilities and critical infrastructure, including water infrastructure; and
+
+  (E) hydro facilities and responsive load technologies, which may include smart buildings and city systems;
+
+(5) improve the reliability of hydropower technologies, including during extreme weather events;
+
+(6) develop methods and technologies to improve environmental impact, including potential cumulative environmental impacts, of hydropower and pumped storage technologies, including potential impacts on wildlife, such as—
+
+  (A) fisheries;
+
+  (B) aquatic life and resources;
+
+  (C) navigation of waterways; and
+
+  (D) upstream and downstream environmental conditions, including sediment movement, water quality, and flow volumes;
+
+(7) identify ways to increase power generation by—
+
+  (A) diversifying plant configuration options;
+
+  (B) improving pump-back efficiencies;
+
+  (C) investigating multi-phase systems;
+
+  (D) developing, testing, and monitoring advanced generators with faster cycling times, variable speeds, and improved efficiencies;
+
+  (E) developing, testing, and monitoring advanced turbines capable of improving environmental impact, including potential cumulative environmental impacts, including small turbine designs;
+
+  (F) developing standardized powertrain components;
+
+  (G) developing components with advanced materials and manufacturing processes, including additive manufacturing; and
+
+  (H) developing analytical tools that enable hydropower to provide grid services that, amongst other services, improve grid integration of other energy sources;
+
+(8) advance new pumped storage technologies, including—
+
+  (A) systems with adjustable speed and other new pumping and generating equipment designs;
+
+  (B) modular systems;
+
+  (C) alternative closed-loop systems, including mines and quarries; and
+
+  (D) other innovative equipment and materials as determined by the Secretary;
+
+(9) reduce civil works costs and construction times for hydropower and pumped storage systems, including comprehensive data and systems analysis of hydropower and pumped storage construction technologies and processes in order to identify areas for whole-system efficiency gains;
+
+(10) advance efficient and reliable integration of hydropower and pumped storage systems with the electric grid by—
+
+  (A) improving methods for operational forecasting of renewable energy systems to identify opportunities for hydropower applications in pumped storage and hybrid energy systems, including forecasting of seasonal and annual energy storage;
+
+  (B) considering aggregating small distributed hydropower assets; and
+
+  (C) identifying barriers to grid scale implementation of hydropower and pumped storage technologies;
+
+(11) improve computational fluid dynamic modeling methods;
+
+(12) improve flow measurement methods, including maintenance of continuous flow measurement equipment;
+
+(13) identify best methods for compiling data on all hydropower resources and assets, including identifying potential for increased capacity; and
+
+(14) identify mechanisms to test and validate performance of hydropower and pumped storage technologies.
 
 ### Statutory Notes
 
-#### Effective Date
-Section effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as a note under [section 1824 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1824&num=0&edition=prelim), The Congress.
+#### Prior Provisions
+A prior section 17213, Pub. L. 110–140, title VI, § 634, Dec. 19, 2007, 121 Stat. 1687, related to National Marine Renewable Energy Research, Development, and Demonstration Centers, prior to the general amendment of this part by Pub. L. 116–260.
+
+
+<a id="section-17216"></a>
+## § 17216. Marine energy research, development, and demonstration
+**(a) In general** The Secretary, in consultation with the Secretary of Defense, Secretary of Commerce (acting through the Under Secretary of Commerce for Oceans and Atmosphere) and other relevant Federal agencies, shall conduct a program of research, development, demonstration, and commercial application of marine energy technology, including activities to—
+
+(1) assist technology development to improve the components, processes, and systems used for power generation from marine energy resources at a variety of scales;
+
+(2) establish and expand critical testing infrastructure and facilities necessary to—
+
+  (A) demonstrate and prove marine energy devices at a range of scales in a manner that is cost-effective and efficient; and
+
+  (B) accelerate the technological readiness and commercial application of such devices;
+
+(3) address marine energy resource variability issues, including through the application of energy storage technologies;
+
+(4) advance efficient and reliable integration of marine energy with the electric grid, which may include smart building systems;
+
+(5) identify and study critical short-term and long-term needs to maintaining a sustainable marine energy supply chain based in the United States;
+
+(6) increase the reliability, security, and resilience of marine energy technologies;
+
+(7) validate the performance, reliability, maintainability, and cost of marine energy device designs and system components in an operating environment;
+
+(8) consider the protection of critical infrastructure, such as adequate separation between marine energy devices and submarine telecommunications cables, including through the development of voluntary, consensus-based standards for such purposes;
+
+(9) identify opportunities for crosscutting research, development, and demonstration programs between existing energy research programs;
+
+(10) identify and improve, in conjunction with the Secretary of Commerce, acting through the Under Secretary of Commerce for Oceans and Atmosphere, and other relevant Federal agencies as appropriate, the environmental impact, including potential cumulative environmental impacts, of marine energy technologies, including—
+
+  (A) potential impacts on fisheries and other marine resources; and
+
+  (B) developing technologies, including mechanisms for self-evaluation, and other means available for improving environmental impact, including potential cumulative environmental impacts;
+
+(11) identify, in consultation with relevant Federal agencies, potential navigational impacts of marine energy technologies and strategies to prevent possible adverse impacts, in addition to opportunities for marine energy systems to aid the United States Coast Guard, such as remote sensing for coastal border security;
+
+(12) develop numerical and physical tools, including models and monitoring technologies, to assist industry in device and system design, installation, operation, and maintenance, including methods to validate such tools;
+
+(13) support materials science as it relates to marine energy technology, such as the development of corrosive-resistant materials;
+
+(14) improve marine energy resource forecasting and general understanding of aquatic system behavior, including turbulence and extreme conditions;
+
+(15) develop metrics and voluntary, consensus-based standards, in coordination with the National Institute of Standards and Technology and appropriate standard development organizations, for marine energy components, systems, and projects, including—
+
+  (A) measuring performance of marine energy technologies; and
+
+  (B) characterizing environmental conditions;
+
+(16) enhance integration with hybrid energy systems, including desalination;
+
+(17) identify opportunities to integrate marine energy technologies into new and existing infrastructure; and
+
+(18) to 11 So in original. develop technology necessary to support the use of marine energy—
+
+  (A) for the generation and storage of power at sea; and
+
+  (B) for the generation and storage of power to promote the resilience of coastal communities, including in applications relating to—
+
+    (i) desalination;
+
+    (ii) disaster recovery and resilience; and
+
+    (iii) community microgrids in isolated power systems.
+
+**(b) Study of non-power sector applications for advanced marine energy technologies**
+
+(1) **In general** — The Secretary, in consultation with the Secretary of Transportation and the Secretary of Commerce, shall conduct a study to examine opportunities for research and development in advanced marine energy technologies for non-power sector applications, including applications with respect to—
+
+  (A) the maritime transportation sector;
+
+  (B) associated maritime energy infrastructure, including infrastructure that serves ports, to improve system resilience and disaster recovery; and
+
+  (C) enabling scientific missions at sea and in extreme environments, including the Arctic.
+
+(2) **Report** — Not later than 1 year after December 27, 2020, the Secretary shall submit to the Committee on Energy and Natural Resources of the Senate and the Committee on Science, Space, and Technology of the House of Representatives a report that describes the results of the study conducted under paragraph (1).
+
+### Statutory Notes
+
+#### Prior Provisions
+A prior section 17214, Pub. L. 110–140, title VI, § 635, Dec. 19, 2007, 121 Stat. 1688, related to applicability of other laws, prior to the general amendment of this part by Pub. L. 116–260.
+
+
+<a id="section-17217"></a>
+## § 17217. National Marine Energy Centers
+**(a) In general** The Secretary shall award grants, each such grant up to $10,000,000 per year, to institutions of higher education (or consortia thereof) for—
+
+(1) the continuation and expansion of the research, development, demonstration, testing, and commercial application activities at the National Marine Energy Centers (referred to in this section as “Centers”) established as of January 1, 2020; and
+
+(2) the establishment of new National Marine Energy Centers.
+
+**(b) Location selection** In selecting institutions of higher education for new Centers, the Secretary shall consider the following criteria:
+
+(1) Whether the institution hosts an existing marine energy research and development program.
+
+(2) Whether the institution has proven technical expertise to support marine energy research.
+
+(3) Whether the institution has access to marine resources.
+
+**(c) Purposes** The Centers shall coordinate among themselves, the Department, and National Laboratories to—
+
+(1) advance research, development, demonstration, and commercial application of marine energy technologies in response to industry and commercial needs;
+
+(2) support in-water testing and demonstration of marine energy technologies, including facilities capable of testing—
+
+  (A) marine energy systems of various technology readiness levels and scales;
+
+  (B) a variety of technologies in multiple test berths at a single location;
+
+  (C) arrays of technology devices; and
+
+  (D) interconnectivity to an electrical grid, including microgrids; and
+
+(3) collect and disseminate information on best practices in all areas relating to developing and managing marine energy resources and energy systems.
+
+**(d) Coordination** To the extent practicable, the Centers shall coordinate their activities with the Secretary of Commerce, acting through the Undersecretary of Commerce for Oceans and Atmosphere, and other relevant Federal agencies.
+
+**(e) Termination** To the extent otherwise authorized by law, the Secretary may terminate funding for a Center described in paragraph (a) if such Center is under-performing.
+
+### Statutory Notes
+
+#### Prior Provisions
+A prior section 17215, Pub. L. 110–140, title VI, § 636, Dec. 19, 2007, 121 Stat. 1688, related to authorization of appropriations, prior to the general amendment of this part by Pub. L. 116–260.
+
+
+<a id="section-17218"></a>
+## § 17218. Organization and administration of programs
+**(a) Coordination** In carrying out this part, the Secretary shall coordinate activities, and effectively manage cross-cutting research priorities across programs of the Department and other relevant Federal agencies, including the National Laboratories and the National Marine Energy Centers.
+
+**(b) Collaboration**
+
+(1) **In general** — In carrying out this part, the Secretary shall collaborate with industry, National Laboratories, other relevant Federal agencies, institutions of higher education, including Minority Serving Institutions, National Marine Energy Centers, Tribal entities, including Alaska Native Corporations, and international bodies with relevant scientific and technical expertise.
+
+(2) **Participation** — To the extent practicable, the Secretary shall encourage research projects that promote collaboration between entities specified in paragraph (1) and include entities not historically associated with National Marine Energy Centers, such as Minority Serving Institutions.
+
+(3) **International collaboration** — The Secretary, in coordination with other appropriate Federal and multilateral agencies (including the United States Agency for International Development) shall support collaborative efforts with international partners to promote the research, development, and demonstration of water power technologies used to develop hydropower, pump storage, and marine energy resources.
+
+**(c) Dissemination of results and public availability** The Secretary shall—
+
+(1) publish the results of projects supported under this part through Department websites, reports, databases, training materials, and industry conferences, including information discovered after the completion of such projects, withholding any industrial proprietary information; and
+
+(2) share results of such projects with the public except to the extent that the information is protected from disclosure under [section 552(b) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section552/b&num=0&edition=prelim).
+
+**(d) Award frequency** The Secretary shall solicit applications for awards under this part no less frequently than once per fiscal year.
+
+**(e) Education and outreach** In carrying out the activities described in this part, the Secretary shall support education and outreach activities to disseminate information and promote public understanding of water power technologies and the water power workforce, including activities at the National Marine Energy Centers.
+
+**(f) Technical assistance and workforce development** In carrying out this part, the Secretary may also conduct, for purposes of supporting technical, non-hardware, and information-based advances in water power systems development and operations—
+
+(1) technical assistance and analysis activities with eligible entities, including activities that support expanding access to advanced water power technologies for rural, Tribal, and low-income communities; and
+
+(2) workforce development and training activities, including to support the dissemination of standards and best practices for enabling water power production.
+
+**(g) Strategic plan** In carrying out the activities described in this part, the Secretary shall—
+
+(1) not later than one year after December 27, 2020, draft a plan, considering input from relevant stakeholders such as industry and academia, to implement the programs described in this part and update the plan on an annual basis; and
+
+(2) the plan 11 So in original. shall address near-term (up to 2 years), mid-term (up to 7 years), and long-term (up to 15 years) challenges to the advancement of water power systems.
+
+**(h) Report to Congress** Not later than 1 year after December 27, 2020, and at least once every 2 years thereafter, the Secretary shall provide, and make available to the public and the relevant authorizing and appropriations committees of Congress, a report on the findings of research conducted and activities carried out pursuant to this part, including the most current strategic plan under subsection (g) and the progress made in implementing such plan.
 
 
 <a id="section-17231"></a>
-## § 17231. Applicability of other laws
+## § 17231. Applicability of other laws.
 
 Nothing in this part shall be construed as waiving, modifying, or superseding the applicability of any requirement under any environmental or other Federal or State law.
 
-### Statutory Notes
 
-#### Effective Date
-Section effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as a note under [section 1824 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1824&num=0&edition=prelim), The Congress.
+<a id="section-17232"></a>
+## § 17232. Authorization of appropriations
 
-
-<a id="section-17241"></a>
-## § 17241. Authorization of appropriations
-
-There are authorized to be appropriated to the Secretary to carry out this part $50,000,000 for each of the fiscal years 2008 through 2012, except that no funds shall be appropriated under this section for activities that are receiving funds under [section 16231(a)(2)(E)(i) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section16231/a/2/E/i&num=0&edition=prelim).
-
-### Statutory Notes
-
-#### Effective Date
-Section effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as a note under [section 1824 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1824&num=0&edition=prelim), The Congress.
+There are authorized to be appropriated to the Secretary to carry out this part $186,600,000 for each of fiscal years 2021 through 2025, including $137,428,378 for marine energy and $49,171,622 for hydropower research, development, and demonstration activities.
 
 
-<a id="section-17242"></a>
-## § 17242. Energy storage competitiveness
+<a id="section-17233"></a>
+## § 17233. Energy storage competitiveness
 **(a) Short title** This section may be cited as the “United States Energy Storage Competitiveness Act of 2007”.
 
 **(b) Definitions** In this section:
@@ -3776,13 +4775,452 @@ Section effective on the date that is 1 day after Dec. 19, 2007, see section 160
 
 (6) the secondary applications and disposal of electric drive vehicle batteries program under subsection (k) $5,000,000 for each of fiscal years 2009 through 2018.
 
+**(q) Critical material recycling and reuse research, development, and demonstration program**
+
+(1) **Definitions** — In this subsection:
+
+  (A) *Critical material* — The term “critical material” has the meaning given the term in 1606 of title 30.
+
+  (B) *Critical material recycling* — The term “critical material recycling” means the separation and recovery of critical materials embedded within an energy storage system through physical or chemical means for the purpose of reuse of those critical materials in other technologies.
+
+(2) **Establishment** — Not later than 180 days after December 27, 2020, the Secretary shall establish a research, development, and demonstration program for critical material recycling and reuse of energy storage systems containing critical materials.
+
+(3) **Research, development, and demonstration** — In carrying out the program established under paragraph (1), the Secretary shall conduct—
+
+  (A) research, development, and demonstration activities for—
+
+    (i) technologies, process improvements, and design optimizations that facilitate and promote critical material recycling of energy storage systems, including separation and sorting of component materials of such systems, and extraction, recovery, and reuse of critical materials from such systems;
+
+    (ii) technologies and methods that mitigate emissions and environmental impacts that arise from critical material recycling, including disposal of toxic reagents and byproducts related to critical material recycling processes;
+
+    (iii) technologies to enable extraction, recovery, and reuse of energy storage systems from electric vehicles and critical material recycling from such vehicles; and
+
+    (iv) technologies and methods to enable the safe transport, storage, and disposal of energy storage systems containing critical materials, including waste materials and components recovered during the critical material recycling process; and
+
+  (B) research on nontechnical barriers to improve the collection and critical material recycling of energy storage systems, including strategies to improve consumer education of, acceptance of, and participation in, the critical material recycling of energy storage systems.
+
+(4) **Report to Congress** — Not later than 2 years after December 27, 2020, and every 3 years thereafter, the Secretary shall submit to the Committee on Science, Space, and Technology and the Committee on Energy and Commerce of the House of Representatives and the Committee on Energy and Natural Resources of the Senate a report summarizing the activities, findings, and progress of the program.
+
 ### Statutory Notes
 
 #### References in Text
 The Federal Advisory Committee Act, referred to in subsec. (e)(3)(B), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
+#### Amendments
+2020—Subsec. (q). Pub. L. 116–260 added subsec. (q).
+
 #### Effective Date
 Section effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as a note under [section 1824 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1824&num=0&edition=prelim), The Congress.
+
+
+<a id="section-17241"></a>
+## § 17241. Better energy storage technology
+**(a) Definitions** In this section:
+
+(1) **Energy storage system** — The term “energy storage system” means any system, equipment, facility, or technology that—
+
+  (A) is capable of absorbing or converting energy, storing the energy for a period of time, and dispatching the energy; and
+
+  (B)
+
+    (i) uses mechanical, electrochemical, thermal, electrolysis, or other processes to convert and store electric energy that was generated at an earlier time for use at a later time;
+
+    (ii) uses mechanical, electrochemical, biochemical, or thermal processes to convert and store energy generated from mechanical processes that would otherwise be wasted, for delivery at a later time; or
+
+    (iii) stores energy in an electric, thermal, or gaseous state for direct use for heating or cooling at a later time in a manner that avoids the need to use electricity or other fuel sources at that later time, such as a grid-enabled water heater.
+
+(2) **Program** — The term “program” means the Energy Storage System Research, Development, and Deployment Program established under subsection (b)(1).
+
+(3) **Secretary** — The term “Secretary” means the Secretary of Energy.
+
+**(b) Energy Storage System Research, Development, and Deployment Program**
+
+(1) **Establishment** — Not later than 180 days after December 27, 2020, the Secretary shall establish a program, to be known as the Energy Storage System Research, Development, and Deployment Program.
+
+(2) **Initial program objectives** — The program shall focus on research, development, and deployment of—
+
+  (A) energy storage systems, components, and materials designed to further the development of technologies—
+
+    (i) for large-scale commercial deployment;
+
+    (ii) for deployment at cost targets established by the Secretary;
+
+    (iii) for hourly and subhourly durations required to provide reliability services to the grid;
+
+    (iv) for daily durations, which have the capacity to discharge energy for a minimum of 6 hours;
+
+    (v) for weekly or monthly durations, which have the capacity to discharge energy for 10 to 100 hours, at a minimum; and
+
+    (vi) for seasonal durations, which have the capability to address seasonal variations in supply and demand;
+
+  (B) distributed energy storage technologies and applications, including building-grid integration;
+
+  (C) long-term cost, performance, and demonstration targets for different types of energy storage systems and for use in a variety of regions, including rural areas;
+
+  (D) transportation energy storage technologies and applications, including vehicle-grid integration;
+
+  (E) cost-effective systems and methods for—
+
+    (i) the sustainable and secure sourcing, reclamation, recycling, and disposal of energy storage systems, including critical minerals; and
+
+    (ii) the reuse and repurposing of energy storage system technologies;
+
+  (F) advanced control methods for energy storage systems;
+
+  (G) pumped hydroelectric energy storage systems to advance—
+
+    (i) adoption of innovative technologies, including—
+
+      (I) systems with adjustable-speed and other new pumping and generating equipment designs;
+
+      (II) modular systems;
+
+      (III) closed-loop systems, including mines and quarries; and
+
+      (IV) other innovative equipment and materials as determined by the Secretary; and
+
+    (ii) reductions of civil works costs and construction times for hydropower and pumped storage systems, including comprehensive data and systems analysis of hydropower and pumped storage construction technologies and processes in order to identify areas for whole-system efficiency gains;
+
+  (H) models and tools to demonstrate the costs and benefits of energy storage to—
+
+    (i) power and water supply systems;
+
+    (ii) electric generation portfolio optimization; and
+
+    (iii) expanded deployment of other renewable energy technologies, including in integrated energy storage systems;
+
+  (I) energy storage use cases from individual and combination technology applications, including value from various-use cases and energy storage services; and
+
+  (J) advanced manufacturing technologies that have the potential to improve United States competitiveness in energy storage manufacturing or reduce United States dependence on critical materials.
+
+(3) **Testing and validation** — In coordination with 1 or more National Laboratories, the Secretary shall support the development, standardized testing, and validation of energy storage systems under the program, including test-bed and field trials, by developing testing and evaluation methodologies for—
+
+  (A) storage technologies, controls, and power electronics for energy storage systems under a variety of operating conditions;
+
+  (B) standardized and grid performance testing for energy storage systems, materials, and technologies during each stage of development;
+
+  (C) reliability, safety, degradation, and durability testing under standard and evolving duty cycles; and
+
+  (D) accelerated life testing protocols to predict estimated lifetime metrics with accuracy.
+
+(4) **Periodic evaluation of program objectives** — Not less frequently than once every calendar year, the Secretary shall evaluate and, if necessary, update the program objectives to ensure that the program continues to advance energy storage systems toward widespread commercial deployment by lowering the costs and increasing the duration of energy storage resources.
+
+(5) **Energy storage strategic plan**
+
+  (A) *In general* — The Secretary shall develop a 10-year strategic plan for the program, and update the plan, in accordance with this paragraph.
+
+  (B) *Contents* — The strategic plan developed under subparagraph (A) shall—
+
+    (i) be coordinated with and integrated across other relevant offices in the Department;
+
+    (ii) to the extent practicable, include metrics that can be used to evaluate storage technologies;
+
+    (iii) identify Department programs that—
+
+      (I) support the research and development activities described in paragraph (2) and the demonstration projects under subsection (c); and
+
+      (II)
+
+        (aa) do not support the activities or projects described in subclause (I); but
+
+        (bb) are important to the development of energy storage systems and the mission of the Department, as determined by the Secretary;
+
+    (iv) include expected timelines for—
+
+      (I) the accomplishment of relevant objectives under current programs of the Department relating to energy storage systems; and
+
+      (II) the commencement of any new initiatives within the Department relating to energy storage systems to accomplish those objectives; and
+
+    (v) incorporate relevant activities described in the Grid Modernization Initiative Multi-Year Program Plan.
+
+  (C) *Submission to Congress* — Not later than 180 days after December 27, 2020, the Secretary shall submit to the Committee on Energy and Natural Resources of the Senate and the Committees on Energy and Commerce and Science, Space, and Technology of the House of Representatives the strategic plan developed under subparagraph (A).
+
+  (D) *Updates to plan* — The Secretary—
+
+    (i) shall annually review the strategic plan developed under subparagraph (A); and
+
+    (ii) may periodically revise the strategic plan as appropriate.
+
+(6) **Leveraging of resources** — The program may be led by a specific office of the Department, but shall be cross-cutting in nature, so that in carrying out activities under the program, the Secretary (or a designee of the Secretary charged with leading the program) shall leverage existing Federal resources, including, at a minimum, the expertise and resources of—
+
+  (A) the Office of Electricity;
+
+  (B) the Office of Energy Efficiency and Renewable Energy, including the Water Power Technologies Office; and
+
+  (C) the Office of Science, including—
+
+    (i) the Basic Energy Sciences Program;
+
+    (ii) the Advanced Scientific Computing Research Program;
+
+    (iii) the Biological and Environmental Research Program; and
+
+  (D) the Electricity Storage Research Initiative established under [section 16315 of this title](./chapter-149-national-energy-policy-and-programs.md#section-16315).
+
+(7) **Protecting privacy and security** — In carrying out this subsection, the Secretary shall identify, incorporate, and follow best practices for protecting the privacy of individuals and businesses and the respective sensitive data of the individuals and businesses, including by managing privacy risk and implementing the Fair Information Practice Principles of the Federal Trade Commission for the collection, use, disclosure, and retention of individual electric consumer information in accordance with the Office of Management and Budget Circular A–130 (or successor circulars).
+
+**(c) Energy storage demonstration projects; pilot grant program**
+
+(1) **Demonstration projects** — Not later than September 30, 2023, the Secretary shall, to the maximum extent practicable, enter into agreements to carry out 3 energy storage system demonstration projects, including at least 1 energy storage system demonstration project designed to further the development of technologies described in clause (v) or (vi) of subsection (b)(2)(A).
+
+(2) **Energy storage pilot grant program**
+
+  (A) *Definition of eligible entity* — In this paragraph, the term “eligible entity” means—
+
+    (i) a State energy office (as defined in [section 15821(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section15821/a&num=0&edition=prelim));
+
+    (ii) an Indian Tribe (as defined in [section 4103 of title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section4103&num=0&edition=prelim);
+
+    (iii) a Tribal organization (as defined in [section 3765 of title 38](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section3765&num=0&edition=prelim));
+
+    (iv) an institution of higher education (as defined in [section 1001 of title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1001&num=0&edition=prelim));
+
+    (v) an electric utility, including—
+
+      (I) an electric cooperative;
+
+      (II) a political subdivision of a State, such as a municipally owned electric utility, or any agency, authority, corporation, or instrumentality of a State political subdivision; and
+
+      (III) an investor-owned utility; and
+
+    (vi) a private energy storage company.
+
+  (B) *Establishment* — The Secretary shall establish a competitive grant program under which the Secretary shall award grants to eligible entities to carry out demonstration projects for pilot energy storage systems.
+
+  (C) *Selection requirements* — In selecting eligible entities to receive a grant under subparagraph (B), the Secretary shall, to the maximum extent practicable—
+
+    (i) ensure regional diversity among eligible entities awarded grants, including ensuring participation of eligible entities that are rural States and States with high energy costs;
+
+    (ii) ensure that grants are awarded for demonstration projects that—
+
+      (I) expand on the existing technology demonstration programs of the Department;
+
+      (II) are designed to achieve 1 or more of the objectives described in subparagraph (D); and
+
+      (III) inject or withdraw energy from the bulk power system, electric distribution system, building energy system, or microgrid (grid-connected or islanded mode) where the project is located;
+
+    (iii) give consideration to proposals from eligible entities for securing energy storage through competitive procurement or contract for service; and
+
+    (iv) prioritize projects that leverage matching funds from non-Federal sources.
+
+  (D) *Objectives* — Each demonstration project carried out by a grant awarded under subparagraph (B) shall have 1 or more of the following objectives:
+
+    (i) To improve the security of critical infrastructure and emergency response systems.
+
+    (ii) To improve the reliability of transmission and distribution systems, particularly in rural areas, including high-energy cost rural areas.
+
+    (iii) To optimize transmission or distribution system operation and power quality to defer or avoid costs of replacing or upgrading electric grid infrastructure, including transformers and substations.
+
+    (iv) To supply energy at peak periods of demand on the electric grid or during periods of significant variation of electric grid supply.
+
+    (v) To reduce peak loads of homes and businesses.
+
+    (vi) To improve and advance power conversion systems.
+
+    (vii) To provide ancillary services for grid stability and management.
+
+    (viii) To integrate renewable energy resource production.
+
+    (ix) To increase the feasibility of microgrids (grid-connected or islanded mode).
+
+    (x) To enable the use of stored energy in forms other than electricity to support the natural gas system and other industrial processes.
+
+    (xi) To integrate fast charging of electric vehicles.
+
+    (xii) To improve energy efficiency.
+
+(3) **Reports** — Not less frequently than once every 3 years for the duration of the programs under paragraphs (1) and (2), the Secretary shall submit to Congress and make publicly available a report describing the performance of those programs.
+
+(4) **No project ownership interest** — The Federal Government shall not hold any equity or other ownership interest in any energy storage system that is part of a project under this subsection unless the holding is agreed to by each participant of the project.
+
+**(d) Long-duration demonstration initiative and joint program**
+
+(1) **Definitions** — In this subsection:
+
+  (A) *Initiative* — The term “Initiative” means the demonstration initiative established under paragraph (2).
+
+  (B) *Joint Program* — The term “Joint Program” means the joint program established under paragraph (4).
+
+(2) **Establishment of Initiative** — Not later than 180 days after December 27, 2020, the Secretary shall establish a demonstration initiative composed of demonstration projects focused on the development of long-duration energy storage technologies.
+
+(3) **Selection of projects** — To the maximum extent practicable, in selecting demonstration projects to participate in the Initiative, the Secretary shall—
+
+  (A) ensure a range of technology types;
+
+  (B) ensure regional diversity among projects; and
+
+  (C) consider bulk power level, distribution power level, behind-the-meter, microgrid (gridconnected or islanded mode), and off-grid applications.
+
+(4) **Joint program**
+
+  (A) *Establishment* — As part of the Initiative, the Secretary, in consultation with the Secretary of Defense, shall establish within the Department a joint program to carry out projects—
+
+    (i) to demonstrate promising long-duration energy storage technologies at different scales; and
+
+    (ii) to help new, innovative long-duration energy storage technologies become commercially viable.
+
+  (B) *Memorandum of understanding* — Not later than 200 days after December 27, 2020, the Secretary shall enter into a memorandum of understanding with the Secretary of Defense to administer the Joint Program.
+
+  (C) *Infrastructure* — In carrying out the Joint Program, the Secretary and the Secretary of Defense shall—
+
+    (i) use existing test-bed infrastructure at—
+
+      (I) Department facilities; and
+
+      (II) Department of Defense installations; and
+
+    (ii) develop new infrastructure for identified projects, if appropriate.
+
+  (D) *Goals and metrics* — The Secretary and the Secretary of Defense shall develop goals and metrics for technological progress under the Joint Program consistent with energy resilience and energy security policies.
+
+  (E) *Selection of projects*
+
+    (i) *In general* — To the maximum extent practicable, in selecting projects to participate in the Joint Program, the Secretary and the Secretary of Defense shall—
+
+      (I) ensure that projects are carried out under conditions that represent a variety of environments with different physical conditions and market constraints; and
+
+      (II) ensure an appropriate balance of—
+
+        (aa) larger, higher-cost projects; and
+
+        (bb) smaller, lower-cost projects.
+
+    (ii) *Priority* — In carrying out the Joint Program, the Secretary and the Secretary of Defense shall give priority to demonstration projects that—
+
+      (I) make available to the public project information that will accelerate deployment of long-duration energy storage technologies; and
+
+      (II) will be carried out in the field.
+
+**(e) Omitted**
+
+**(f) Coordination** To the maximum extent practicable, the Secretary shall coordinate the activities under this section (including activities conducted pursuant to the amendments made by this section) among the offices and employees of the Department, other Federal agencies, and other relevant entities—
+
+(1) to ensure appropriate collaboration;
+
+(2) to avoid unnecessary duplication of those activities; and
+
+(3) to increase domestic manufacturing and production of energy storage systems, such as those within the Department and within the National Institute of Standards and Technology.
+
+**(g) Authorization of appropriations** There are authorized to be appropriated—
+
+(1) to carry out subsection (b), $100,000,000 for each of fiscal years 2021 through 2025, to remain available until expended;
+
+(2) to carry out subsection (c), $71,000,000 for each of fiscal years 2021 through 2025, to remain available until expended; and
+
+(3) to carry out subsection (d), $30,000,000 for each of fiscal years 2021 through 2025, to remain available until expended.
+
+### Statutory Notes
+
+#### Codification
+Section was enacted as part of the Energy Act of 2020, and not as part of the Energy Independence and Security Act of 2007 which comprises this chapter.
+
+Section is comprised of section 3201 of div. Z of Pub. L. 116–260. Subsec. (e) of section 3201 of div. Z of Pub. L. 116–260 amended [section 17231 of this title](./chapter-152-energy-independence-and-security.md#section-17231).
+
+
+<a id="section-17242"></a>
+## § 17242. Energy storage technology and microgrid assistance program
+**(a) Definitions** In this section:
+
+(1) **Eligible entity** — The term “eligible entity” means—
+
+  (A) a rural electric cooperative;
+
+  (B) an agency, authority, or instrumentality of a State or political subdivision of a State that sells or otherwise uses electrical energy to provide electric services for customers; or
+
+  (C) a nonprofit organization working with at least 6 entities described in subparagraph (A) or (B).
+
+(2) **Energy storage technology** — The term “energy storage technology” includes grid-enabled water heaters, building heating or cooling systems, electric vehicles, the production of hydrogen for transportation or industrial use, or other technologies that store energy.
+
+(3) **Microgrid** — The term “microgrid” means a localized grid that operates autonomously regardless of whether the grid can operate in connection with another grid.
+
+(4) **Renewable energy source** — The term “renewable energy source” has the meaning given the term in [section 918c(a) of title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section918c/a&num=0&edition=prelim).
+
+(5) **Rural electric cooperative** — The term “rural electric cooperative” means an electric cooperative (as defined in [section 796 of title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section796&num=0&edition=prelim)) that sells electric energy to persons in rural areas.
+
+(6) **Secretary** — The term “Secretary” means the Secretary of Energy.
+
+**(b) In general** Not later than 180 days after December 27, 2020, the Secretary shall establish a program under which the Secretary shall—
+
+(1) provide grants to eligible entities under subsection (d);
+
+(2) provide technical assistance to eligible entities under subsection (e); and
+
+(3) disseminate information to eligible entities on—
+
+  (A) the activities described in subsections (d)(1) and (e); and
+
+  (B) potential and existing energy storage technology and microgrid projects.
+
+**(c) Cooperative agreement** The Secretary may enter into a cooperative agreement with an eligible entity to carry out subsection (b).
+
+**(d) Grants**
+
+(1) **In general** — The Secretary may award grants to eligible entities for identifying, evaluating, designing, and demonstrating energy storage technology and microgrid projects that utilize energy from renewable energy sources.
+
+(2) **Application** — To be eligible to receive a grant under paragraph (1), an eligible entity shall submit to the Secretary an application at such time, in such manner, and containing such information as the Secretary may require.
+
+(3) **Use of grant** — An eligible entity that receives a grant under paragraph (1)—
+
+  (A) shall use the grant—
+
+    (i) to conduct feasibility studies to assess the potential for implementation or improvement of energy storage technology or microgrid projects;
+
+    (ii) to analyze and implement strategies to overcome barriers to energy storage technology or microgrid project implementation, including financial, contracting, siting, and permitting barriers;
+
+    (iii) to conduct detailed engineering of energy storage technology or microgrid projects;
+
+    (iv) to perform a cost-benefit analysis with respect to an energy storage technology or microgrid project;
+
+    (v) to plan for both the short- and long-term inclusion of energy storage technology or microgrid projects into the future development plans of the eligible entity; or
+
+    (vi) to purchase and install necessary equipment, materials, and supplies for demonstration of emerging technologies; and
+
+  (B) may use the grant to obtain technical assistance from experts in carrying out the activities described in subparagraph (A).
+
+(4) **Condition** — As a condition of receiving a grant under paragraph (1), an eligible entity shall—
+
+  (A) implement a public awareness campaign, in coordination with the Secretary, about the project implemented under the grant in the community in which the eligible entity is located, which campaign shall include providing projected environmental benefits achieved under the project, where to find more information about the program established under this section, and any other information the Secretary determines necessary;
+
+  (B) submit to the Secretary, and make available to the public, a report that describes—
+
+    (i) any energy cost savings and environmental benefits achieved under the project; and
+
+    (ii) the results of the project, including quantitative assessments to the extent practicable, associated with each activity described in paragraph (3)(A); and
+
+  (C) create and disseminate tools and resources that will benefit other rural electric cooperatives, which may include cost calculators, guidebooks, handbooks, templates, and training courses.
+
+(5) **Cost-share** — Activities under this subsection shall be subject to the cost-sharing requirements of [section 16352 of this title](./chapter-149-national-energy-policy-and-programs.md#section-16352).
+
+**(e) Technical assistance**
+
+(1) **In general** — In carrying out the program established under subsection (b), the Secretary may provide eligible entities with technical assistance relating to—
+
+  (A) identifying opportunities for energy storage technology and microgrid projects;
+
+  (B) understanding the technical and economic characteristics of energy storage technology or microgrid projects;
+
+  (C) understanding financing alternatives;
+
+  (D) permitting and siting issues;
+
+  (E) obtaining case studies of similar and successful energy storage technology or microgrid projects;
+
+  (F) reviewing and obtaining computer software for assessment, design, and operation and maintenance of energy storage technology or microgrid systems; and
+
+  (G) understanding and utilizing the reliability and resiliency benefits of energy storage technology and microgrid projects.
+
+(2) **External contracts** — In carrying out paragraph (1), the Secretary may enter into contracts with third-party experts, including engineering, finance, and insurance experts, to provide technical assistance to eligible entities relating to the activities described in such paragraph, or other relevant activities, as determined by the Secretary.
+
+**(f) Authorization of appropriations**
+
+(1) **In general** — There is authorized to be appropriated to carry out this section $15,000,000 for each of fiscal years 2021 through 2025.
+
+(2) **Administrative costs** — Not more than 5 percent of the amount appropriated under paragraph (1) for each fiscal year shall be used for administrative expenses.
+
+### Statutory Notes
+
+#### Codification
+Section was enacted as part of the Energy Act of 2020, and not as part of the Energy Independence and Security Act of 2007 which comprises this chapter.
 
 
 <a id="section-17243"></a>
@@ -4021,7 +5459,7 @@ Section effective on the date that is 1 day after Dec. 19, 2007, see section 160
 
   (C) incorporates a comprehensive measurement, monitoring, and validation program.
 
-(3) **Preferences for award** — To ensure reduced carbon dioxide emissions, the Secretary shall take necessary actions to provide for the integration of the program under this paragraph with the large-scale carbon dioxide sequestration tests described in [section 16293(c)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section16293/c/3&num=0&edition=prelim). These actions should not delay implementation of these tests. The Secretary shall give priority consideration to projects with the following characteristics:
+(3) **Preferences for award** — To ensure reduced carbon dioxide emissions, the Secretary shall take necessary actions to provide for the integration of the program under this paragraph with the large-scale carbon dioxide sequestration tests described in [section 16293(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section16293/c&num=0&edition=prelim). These actions should not delay implementation of these tests. The Secretary shall give priority consideration to projects with the following characteristics:
 
   (A) *Capacity* — Projects that will capture a high percentage of the carbon dioxide in the treated stream and large volumes of carbon dioxide as determined by the Secretary.
 
@@ -4039,6 +5477,9 @@ Section effective on the date that is 1 day after Dec. 19, 2007, see section 160
 
 ### Statutory Notes
 
+#### Amendments
+2020—Subsec. (a)(3). Pub. L. 116–260 substituted “section 16293(c)” for “section 16293(c)(3)”.
+
 #### Effective Date
 Section effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as a note under [section 1824 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1824&num=0&edition=prelim), The Congress.
 
@@ -4049,9 +5490,12 @@ Subtitle A (§§ 701–708) of title VII of Pub. L. 110–140, which is classifi
 <a id="section-17254"></a>
 ## § 17254. Review of large-scale programs
 
-The Secretary shall enter into an arrangement with the National Academy of Sciences for an independent review and oversight, beginning in 2011, of the programs under [section 16293(c)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section16293/c/3&num=0&edition=prelim) and under [section 17251 of this title](./chapter-152-energy-independence-and-security.md#section-17251), to ensure that the benefits of such programs are maximized. Not later than January 1, 2012, the Secretary shall transmit to the Congress a report on the results of such review and oversight.
+The Secretary shall enter into an arrangement with the National Academy of Sciences for an independent review and oversight, beginning in 2011, of the programs under [section 16293(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section16293/c&num=0&edition=prelim) and under [section 17251 of this title](./chapter-152-energy-independence-and-security.md#section-17251), to ensure that the benefits of such programs are maximized. Not later than January 1, 2012, the Secretary shall transmit to the Congress a report on the results of such review and oversight.
 
 ### Statutory Notes
+
+#### Amendments
+2020—Pub. L. 116–260 substituted “section 16293(c)” for “section 16293(c)(3)”.
 
 #### Effective Date
 Section effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as a note under [section 1824 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1824&num=0&edition=prelim), The Congress.
@@ -4830,8 +6274,8 @@ Section effective on the date that is 1 day after Dec. 19, 2007, see section 160
 
 
 <a id="section-17337"></a>
-## § 17337. Actions by Overseas Private Investment Corporation
-**(a) Sense of Congress** It is the sense of Congress that the Overseas Private Investment Corporation should promote greater investment in clean and efficient energy technologies by—
+## § 17337. Actions by United States International Development Finance Corporation
+**(a) Sense of Congress** It is the sense of Congress that the United States International Development Finance Corporation should promote greater investment in clean and efficient energy technologies by—
 
 (1) proactively reaching out to United States companies that are interested in investing in clean and efficient energy technologies in countries that are significant contributors to global greenhouse gas emissions;
 
@@ -4839,24 +6283,13 @@ Section effective on the date that is 1 day after Dec. 19, 2007, see section 160
 
 (3) providing greater flexibility in supporting projects that involve the investment or utilization of clean and efficient energy technologies, including financing, insurance, and other assistance.
 
-**(b) Report** The Overseas Private Investment Corporation shall include in its annual report required under [section 2200a of title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2200a&num=0&edition=prelim)—
+**(b) Report** The United States International Development Finance Corporation shall include in its annual report required under [section 9653 of title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section9653&num=0&edition=prelim)—
 
 (1) a description of the activities carried out to implement this section; or
 
 (2) if the Corporation did not carry out any activities to implement this section, an explanation of the reasons therefor.
 
 ### Statutory Notes
-
-#### Amendment of Section
-Pub. L. 115–254, div. F, title VI, § 1470(v)(1), (w), Oct. 5, 2018, 132 Stat. 3519, provided that, effective at the end of the transition period, as defined in [section 9681 of Title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section9681&num=0&edition=prelim), Foreign Relations and Intercourse, this section is amended as follows:
-
-(1) in the section catchline, by striking “Overseas Private Investment Corporation” and inserting “United States International Development Finance Corporation”;
-
-(2) in subsection (a), in the matter preceding paragraph (1), by striking “Overseas Private Investment Corporation” and inserting “United States International Development Finance Corporation”; and
-
-(3) in subsection (b), in the matter preceding paragraph (1), by striking “Overseas Private Investment Corporation shall include in its annual report required under [section 2200a of title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2200a&num=0&edition=prelim)” and inserting “United States International Development Finance Corporation shall include in its annual report required under [section 9653 of title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section9653&num=0&edition=prelim)”.
-
-See 2018 Amendment notes below.
 
 #### Amendments
 2018—Pub. L. 115–254, § 1470(v)(1)(A), substituted “United States International Development Finance Corporation” for “Overseas Private Investment Corporation” in section catchline.
@@ -4914,7 +6347,7 @@ Section effective on the date that is 1 day after Dec. 19, 2007, see section 160
 
   (H) the Export-Import Bank of the United States;
 
-  (I) the Overseas Private Investment Corporation: 11 So in original. The colon probably should be a semicolon.
+  (I) the United States International Development Finance Corporation;
 
   (J) the Trade and Development Agency;
 
@@ -5007,9 +6440,6 @@ Section effective on the date that is 1 day after Dec. 19, 2007, see section 160
 **(e) Authorization of appropriations** There are authorized to be appropriated to carry out this section $5,000,000 for each of fiscal years 2008 through 2020.
 
 ### Statutory Notes
-
-#### Amendment of Subsection (a)(2)(I)
-Pub. L. 115–254, div. F, title VI, § 1470(v)(2), (w), Oct. 5, 2018, 132 Stat. 3519, provided that, effective at the end of the transition period, as defined in [section 9681 of Title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section9681&num=0&edition=prelim), Foreign Relations and Intercourse, subsection (a)(2)(I) of this section is amended by striking “Overseas Private Investment Corporation:” and inserting “United States International Development Finance Corporation;”. See 2018 Amendment note below.
 
 #### Amendments
 2018—Subsec. (a)(2)(I). Pub. L. 115–254 substituted “United States International Development Finance Corporation;” for “Overseas Private Investment Corporation:”.
@@ -5877,8 +7307,8 @@ December 19, 2007, referred to in text, was in the original “enactment” and 
 Section effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as a note under [section 1824 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1824&num=0&edition=prelim), The Congress.
 
 
-<a id="section-17385"></a>
-## § 17385. Smart Grid Advisory Committee and Smart Grid Task Force
+<a id="section-17384a"></a>
+## § 17384a. Smart Grid Advisory Committee and Smart Grid Task Force
 **(a) Smart Grid Advisory Committee**
 
 (1) **Establishment** — The Secretary shall establish, within 90 days of December 19, 2007, a Smart Grid Advisory Committee (either as an independent entity or as a designated sub-part of a larger advisory committee on electricity matters). The Smart Grid Advisory Committee shall include eight or more members appointed by the Secretary who have sufficient experience and expertise to represent the full range of smart grid technologies and services, to represent both private and non-Federal public sector stakeholders. One member shall be appointed by the Secretary to Chair the Smart Grid Advisory Committee.
@@ -5904,9 +7334,9 @@ The Federal Advisory Committee Act, referred to in subsec. (a)(3), is Pub. L. 92
 Section effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as a note under [section 1824 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1824&num=0&edition=prelim), The Congress.
 
 
-<a id="section-17386"></a>
-## § 17386. Smart grid technology research, development, and demonstration
-**(a) Power grid digital information technology** The Secretary, in consultation with the Federal Energy Regulatory Commission and other appropriate agencies, electric utilities, the States, and other stakeholders, shall carry out a program—
+<a id="section-17385"></a>
+## § 17385. Smart grid technology research, development, and demonstration
+**(a) Power grid digital information technology** The Secretary, in consultation with the Federal Energy Regulatory Commission and other appropriate agencies, electric utilities, the States, and other stakeholders, shall carry out a research, development, and demonstration program—
 
 (1) to develop advanced techniques for measuring peak load reductions and energy-efficiency savings from smart metering, demand response, distributed generation, and electricity storage systems;
 
@@ -5928,7 +7358,7 @@ Section effective on the date that is 1 day after Dec. 19, 2007, see section 160
 
 **(b) Smart grid regional demonstration initiative**
 
-(1) **In general** — The Secretary shall establish a smart grid regional demonstration initiative (referred to in this subsection as the “Initiative”) composed of demonstration projects specifically focused on advanced technologies for use in power grid sensing, communications, analysis, and power flow control. The Secretary shall seek to leverage existing smart grid deployments.
+(1) **In general** — The Secretary shall establish a smart grid regional demonstration initiative (referred to in this subsection as the “Initiative”) composed of demonstration projects focused on cost-effective, advanced technologies for use in power grid sensing, communications, analysis, power flow control, visualization, distribution automation, industrial control systems, dynamic line rating systems, grid redesign, and the integration of distributed energy resources.
 
 (2) **Goals** — The goals of the Initiative shall be—
 
@@ -5938,9 +7368,11 @@ Section effective on the date that is 1 day after Dec. 19, 2007, see section 160
 
   (C) to facilitate the integration of advanced technologies in existing electric networks to improve system performance, power flow control, and reliability;
 
-  (D) to demonstrate protocols and standards that allow for the measurement and validation of the energy savings and fossil fuel emission reductions associated with the installation and use of energy efficiency and demand response technologies and practices; and
+  (D) to demonstrate protocols and standards that allow for the measurement and validation of the energy savings and fossil fuel emission reductions associated with the installation and use of energy efficiency and demand response technologies and practices;
 
-  (E) to investigate differences in each region and regulatory environment regarding best practices in implementing smart grid technologies.
+  (E) to investigate differences in each region and regulatory environment regarding best practices in implementing smart grid technologies; and
+
+  (F) to encourage the commercial application of advanced distribution automation technologies that exert intelligent control over electrical grid functions at the distribution level to improve system resilience.
 
 (3) **Demonstration projects**
 
@@ -5965,6 +7397,12 @@ Section effective on the date that is 1 day after Dec. 19, 2007, see section 160
 ### Statutory Notes
 
 #### Amendments
+2020—Subsec. (a). Pub. L. 116–260, § 8001(1), inserted “research, development, and demonstration” before “program” in introductory provisions.
+
+Subsec. (b)(1). Pub. L. 116–260, § 8001(2)(A), amended par. (1) generally. Prior to amendment, text read as follows: “The Secretary shall establish a smart grid regional demonstration initiative (referred to in this subsection as the ‘Initiative’) composed of demonstration projects specifically focused on advanced technologies for use in power grid sensing, communications, analysis, and power flow control. The Secretary shall seek to leverage existing smart grid deployments.”
+
+Subsec. (b)(2)(F). Pub. L. 116–260, § 8001(2)(B), added subpar. (F).
+
 2009—Subsec. (b)(3)(A). Pub. L. 111–5, § 405(1), amended subpar. (A) generally. Prior to amendment, text read as follows: “In carrying out the initiative, the Secretary shall carry out smart grid demonstration projects in up to 5 electricity control areas, including rural areas and at least 1 area in which the majority of generation and transmission assets are controlled by a tax-exempt entity.”
 
 Subsec. (b)(3)(C). Pub. L. 111–5, § 405(2), amended subpar. (C) generally. Prior to amendment, text read as follows: “The Secretary shall provide to an electric utility described in subparagraph (B) financial assistance for use in paying an amount equal to not more than 50 percent of the cost of qualifying advanced grid technology investments made by the electric utility to carry out a demonstration project.”
@@ -5975,3 +7413,390 @@ Subsec. (c)(2). Pub. L. 111–5, § 405(4), amended par. (2) generally. Prior to
 
 #### Effective Date
 Section effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as a note under [section 1824 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1824&num=0&edition=prelim), The Congress.
+
+
+<a id="section-17386"></a>
+## § 17386. Smart grid modeling, visualization, architecture, and controls
+**(a) In general** Not later than 180 days after December 27, 2020, the Secretary shall establish a program of research, development, demonstration, and commercial application on electric grid modeling, sensing, visualization, architecture development, and advanced operation and controls.
+
+**(b) Modeling research and development** The Secretary shall support development of models of emerging technologies and systems to facilitate the secure and reliable design, planning, and operation of the electric grid for use by industry stakeholders. In particular, the Secretary shall support development of—
+
+(1) models to analyze and predict the effects of adverse physical and cyber events on the electric grid;
+
+(2) coupled models of electrical, physical, and cyber systems;
+
+(3) models of existing and emerging technologies being deployed on the electric grid due to projected changes in the electric generation mix and loads, for a variety of regional characteristics; and
+
+(4) integrated models of the communications, transmission, distribution, and other interdependent systems for existing, new, and emerging technologies.
+
+**(c) Situational awareness research and development**
+
+(1) **In general** — The Secretary shall support development of computational tools and technologies to improve sensing, monitoring, and visualization of the electric grid for real-time situational awareness and decision support tools that enable improved operation of the power system, including utility, non-utility, and customer grid-connected assets, for use by industry partners.
+
+(2) **Data use** — In developing visualization capabilities under this section, the Secretary shall develop tools for industry stakeholders to use to analyze data collected from advanced measurement and monitoring technologies, including data from phasor measurement units and advanced metering units.
+
+(3) **Severe events** — The Secretary shall prioritize enhancing cyber and physical situational awareness of the electric grid during adverse manmade and naturally-occurring events.
+
+**(d) Operation and controls research and development** The Secretary shall conduct research to develop improvements to the operation and controls of the electric grid, in coordination with industry partners. Such activities shall include—
+
+(1) a training facility or facilities to allow grid operators to gain operational experience with advanced grid control concepts and technologies;
+
+(2) development of cost-effective advanced operation and control concepts and technologies, such as adaptive islanding, dynamic line rating systems, power flow controllers, network topology optimization, smart circuit breakers, intelligent load shedding, and fault-tolerant control system architectures;
+
+(3) development of real-time control concepts using artificial intelligence and machine learning for improved electric grid resilience; and
+
+(4) utilization of advanced data analytics including load forecasting, power flow modeling, equipment failure prediction, resource optimization, risk analysis, and decision analysis.
+
+**(e) Interoperability research and development** The Secretary shall conduct research and development on tools and technologies that improve the interoperability and compatibility of new and emerging components, technologies, and systems with existing electric grid infrastructure.
+
+**(f) Underground transmission and distribution lines** In carrying out the program under subsection (a), the Secretary shall support research and development on underground transmission and distribution lines. This shall include research on—
+
+(1) methods for lowering the costs of underground transmission and distribution lines, including through novel installation techniques and materials considerations;
+
+(2) techniques to improve the lifespan of underground transmission and distribution lines;
+
+(3) wireless sensors to improve safety of underground transmission and distribution lines and to predict, identify, detect, and transmit information about degradation and faults; and
+
+(4) methods for improving the resilience and reliability of underground transmission and distribution lines, including technologies and techniques that can mitigate the impact of flooding, storm surge, and seasonal climate cycles on degradation of and damage to underground transmission and distribution lines.
+
+**(g) Grid architecture and scenario development**
+
+(1) **In general** — Subject to paragraph (3), the Secretary shall establish and facilitate a collaborative process to develop model grid architecture and a set of future scenarios for the electric grid to examine the impacts of different combinations of resources (including different quantities of distributed energy resources and large-scale, central generation) on the electric grid.
+
+(2) **Architecture** — In supporting the development of model grid architectures, the Secretary shall—
+
+  (A) analyze a variety of grid architecture scenarios that range from minor upgrades to existing transmission grid infrastructure to scenarios that involve the replacement of significant portions of existing transmission grid infrastructure;
+
+  (B) analyze the effects of the increasing proliferation of renewable and other zero emissions energy generation sources, increasing use of distributed resources owned by non-utility entities, and the use of digital and automated controls not managed by grid operators;
+
+  (C) include a variety of new and emerging distribution grid technologies, including distributed energy resources, electric vehicle charging stations, distribution automation technologies, energy storage, and renewable energy sources;
+
+  (D) analyze the effects of local load balancing and other forms of decentralized control;
+
+  (E) analyze the effects of changes to grid architectures resulting from modernizing electric grid systems, including communications, controls, markets, consumer choice, emergency response, electrification, and cybersecurity concerns; and
+
+  (F) develop integrated grid architectures that incorporate system resilience for cyber, physical, and communications systems.
+
+(3) **Market structure** — The grid architecture and scenarios developed under paragraph (1) shall, to the extent practicable, account for differences in market structure, including an examination of the potential for stranded costs in each type of market structure.
+
+**(h) Computing resources and data coordination research and development** In carrying out this section, the Secretary shall—
+
+(1) leverage existing computing resources at the National Laboratories; and
+
+(2) develop voluntary standards for data taxonomies and communication protocols in coordination with public and private sector stakeholders.
+
+**(i) Information sharing** None of the activities authorized in this section shall require private entities to share information or data with the Secretary.
+
+**(j) Resilience** In this section, the term “resilience” means the ability to withstand and reduce the magnitude or duration of disruptive events, which includes the capability to anticipate, absorb, adapt to, or rapidly recover from such an event, including from deliberate attacks, accidents, and naturally occurring threats or incidents.
+
+
+<a id="section-17387"></a>
+## § 17387. Smart grid interoperability framework
+**(a) Interoperability framework** The Director of the National Institute of Standards and Technology shall have primary responsibility to coordinate the development of a framework that includes protocols and model standards for information management to achieve interoperability of smart grid devices and systems. Such protocols and standards shall further align policy, business, and technology approaches in a manner that would enable all electric resources, including demand-side resources, to contribute to an efficient, reliable electricity network. In developing such protocols and standards—
+
+(1) the Director shall seek input and cooperation from the Commission, OEDER and its Smart Grid Task Force, the Smart Grid Advisory Committee, other relevant Federal and State agencies; and
+
+(2) the Director shall also solicit input and cooperation from private entities interested in such protocols and standards, including but not limited to the Gridwise Architecture Council, the International Electrical and Electronics Engineers, the National Electric Reliability Organization recognized by the Federal Energy Regulatory Commission, and National Electrical Manufacturer’s Association.
+
+**(b) Scope of framework** The framework developed under subsection (a) shall be flexible, uniform and technology neutral, including but not limited to technologies for managing smart grid information, and designed—
+
+(1) to accommodate traditional, centralized generation and transmission resources and consumer distributed resources, including distributed generation, renewable generation, energy storage, energy efficiency, and demand response and enabling devices and systems;
+
+(2) to be flexible to incorporate—
+
+  (A) regional and organizational differences; and
+
+  (B) technological innovations;
+
+(3) to consider the use of voluntary uniform standards for certain classes of mass-produced electric appliances and equipment for homes and businesses that enable customers, at their election and consistent with applicable State and Federal laws, and are manufactured with the ability to respond to electric grid emergencies and demand response signals by curtailing all, or a portion of, the electrical power consumed by the appliances or equipment in response to an emergency or demand response signal, including through—
+
+  (A) load reduction to reduce total electrical demand;
+
+  (B) adjustment of load to provide grid ancillary services; and
+
+  (C) in the event of a reliability crisis that threatens an outage, short-term load shedding to help preserve the stability of the grid; and
+
+(4) such voluntary standards should incorporate appropriate manufacturer lead time.11 So in original. Does not fit with subsec. (b) introductory provisions.
+
+**(c) Timing of framework development** The Institute shall begin work pursuant to this section within 60 days of December 19, 2007. The Institute shall provide and publish an initial report on progress toward recommended or consensus standards and protocols within 1 year after December 19, 2007, further reports at such times as developments warrant in the judgment of the Institute, and a final report when the Institute determines that the work is completed or that a Federal role is no longer necessary.
+
+**(d) Standards for interoperability in Federal jurisdiction** At any time after the Institute’s work has led to sufficient consensus in the Commission’s judgment, the Commission shall institute a rulemaking proceeding to adopt such standards and protocols as may be necessary to insure smart-grid functionality and interoperability in interstate transmission of electric power, and regional and wholesale electricity markets.
+
+**(e) Authorization** There are authorized to be appropriated for the purposes of this section $5,000,000 to the Institute to support the activities required by this subsection 22 So in original. Probably should be “section”. for each of fiscal years 2008 through 2012.
+
+### Statutory Notes
+
+#### Codification
+December 19, 2007, referred to in subsec. (c), was in the original “enactment” and was translated as meaning the date of enactment of Pub. L. 110–140, to reflect the probable intent of Congress.
+
+#### Effective Date
+Section effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as a note under [section 1824 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1824&num=0&edition=prelim), The Congress.
+
+
+<a id="section-17388"></a>
+## § 17388. Federal matching fund for smart grid investment costs
+**(a) Matching fund** The Secretary shall establish a Smart Grid Investment Matching Grant Program to provide grants of up to one-half (50 percent) of qualifying Smart Grid investments.
+
+**(b) Qualifying investments** Qualifying Smart Grid investments may include any of the following made on or after December 19, 2007:
+
+(1) In the case of appliances covered for purposes of establishing energy conservation standards under part B of title III of the Energy Policy and Conservation Act of 1975 ([42 U.S.C. 6291](./chapter-077-energy-conservation.md#section-6291) et seq.), the documented expenditures incurred by a manufacturer of such appliances associated with purchasing or designing, creating the ability to manufacture, and manufacturing and installing for one calendar year, internal devices that allow the appliance to engage in Smart Grid functions.
+
+(2) In the case of specialized electricity-using equipment, including motors and drivers, installed in industrial or commercial applications, the documented expenditures incurred by its owner or its manufacturer of installing devices or modifying that equipment to engage in Smart Grid functions.
+
+(3) In the case of transmission and distribution equipment fitted with monitoring and communications devices to enable smart grid functions, the documented expenditures incurred by the electric utility to purchase and install such monitoring and communications devices.
+
+(4) In the case of metering devices, sensors, control devices, and other devices integrated with and attached to an electric utility system or retail distributor or marketer of electricity that are capable of engaging in Smart Grid functions, the documented expenditures incurred by the electric utility, distributor, or marketer and its customers to purchase and install such devices.
+
+(5) In the case of software that enables devices or computers to engage in Smart Grid functions, the documented purchase costs of the software.
+
+(6) In the case of entities that operate or coordinate operations of regional electric grids, the documented expenditures for purchasing and installing such equipment that allows Smart Grid functions to operate and be combined or coordinated among multiple electric utilities and between that region and other regions.
+
+(7) In the case of persons or entities other than electric utilities owning and operating a distributed electricity generator, the documented expenditures of enabling that generator to be monitored, controlled, or otherwise integrated into grid operations and electricity flows on the grid utilizing Smart Grid functions.
+
+(8) In the case of electric or hybrid-electric vehicles, the documented expenses for devices that allow the vehicle to engage in Smart Grid functions (but not the costs of electricity storage for the vehicle).
+
+(9) The documented expenditures related to purchasing and implementing Smart Grid functions in such other cases as the Secretary shall identify.
+
+**(c) Investments not included** Qualifying Smart Grid investments do not include any of the following:
+
+(1) Investments or expenditures for Smart Grid technologies, devices, or equipment that utilize specific tax credits or deductions under the Internal Revenue Code, as amended.
+
+(2) Expenditures for electricity generation, transmission, or distribution infrastructure or equipment not directly related to enabling Smart Grid functions.
+
+(3) After the final date for State consideration of the Smart Grid Information Standard under section 2621(d)(17) 11 See References in Text note below. of title 16, an investment that is not in compliance with such standard.
+
+(4) After the development and publication by the Institute of protocols and model standards for interoperability of smart grid devices and technologies, an investment that fails to incorporate any of such protocols or model standards.
+
+(5) Expenditures for physical interconnection of generators or other devices to the grid except those that are directly related to enabling Smart Grid functions.
+
+(6) Expenditures for ongoing salaries, benefits, or personnel costs not incurred in the initial installation, training, or start up of smart grid functions.
+
+(7) Expenditures for travel, lodging, meals or other personal costs.
+
+(8) Ongoing or routine operation, billing, customer relations, security, and maintenance expenditures.
+
+(9) Such other expenditures that the Secretary determines not to be Qualifying Smart Grid Investments by reason of the lack of the ability to perform Smart Grid functions or lack of direct relationship to Smart Grid functions.
+
+**(d) Smart grid functions** The term “smart grid functions” means any of the following:
+
+(1) The ability to develop, store, send and receive digital information concerning electricity use, costs, prices, time of use, nature of use, storage, or other information relevant to device, grid, or utility operations, to or from or by means of the electric utility system, through one or a combination of devices and technologies.
+
+(2) The ability to develop, store, send and receive digital information concerning electricity use, costs, prices, time of use, nature of use, storage, or other information relevant to device, grid, or utility operations to or from a computer or other control device.
+
+(3) The ability to measure or monitor electricity use as a function of time of day, power quality characteristics such as voltage level, current, cycles per second, or source or type of generation and to store, synthesize or report that information by digital means.
+
+(4) The ability to sense and localize disruptions or changes in power flows on the grid and communicate such information instantaneously and automatically for purposes of enabling automatic protective responses to sustain reliability and security of grid operations.
+
+(5) The ability to detect, prevent, communicate with regard to, respond to, or recover from system security threats, including cyber-security threats and terrorism, using digital information, media, and devices.
+
+(6) The ability of any appliance or machine to respond to such signals, measurements, or communications automatically or in a manner programmed by its owner or operator without independent human intervention.
+
+(7) The ability to use digital information to operate functionalities on the electric utility grid that were previously electro-mechanical or manual.
+
+(8) The ability to use digital controls to manage and modify electricity demand, enable congestion management, assist in voltage control, provide operating reserves, and provide frequency regulation.
+
+(9) Such other functions as the Secretary may identify as being necessary or useful to the operation of a Smart Grid.
+
+**(e) Procedures and rules**
+
+(1) The Secretary shall, within 60 days after February 17, 2009, by means of a notice of intent and subsequent solicitation of grant proposals—
+
+  (A) establish procedures by which applicants can obtain grants of not more than one-half of their documented costs;
+
+  (B) require as a condition of receiving funding under this subsection that demonstration projects utilize open protocols and standards (including Internet-based protocols and standards) if available and appropriate;
+
+  (C) establish procedures to ensure that there is no duplication or multiple payment for the same investment or costs, that the grant goes to the party making the actual expenditures for the qualifying Smart Grid investments, and that the grants made have a significant effect in encouraging and facilitating the development of a smart grid;
+
+  (D) establish procedures to ensure there will be public records of grants made, recipients, and qualifying Smart Grid investments which have received grants; and
+
+  (E) establish procedures to provide advance payment of moneys up to the full amount of the grant award.
+
+(2) The Secretary shall have discretion and exercise reasonable judgment to deny grants for investments that do not qualify.
+
+**(f) Authorization of appropriations** There are authorized to be appropriated to the Secretary such sums as are necessary for the administration of this section and the grants to be made pursuant to this section for fiscal years 2008 through 2012.
+
+### Statutory Notes
+
+#### References in Text
+The Energy Policy and Conservation Act, referred to in subsec. (b)(1), is Pub. L. 94–163, Dec. 22, 1975, 89 Stat. 871. Part B of title III of the Act is classified generally to part A (§ 6291 et seq.) of subchapter III of chapter 77 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 6201 of this title](./chapter-077-energy-conservation.md#section-6201) and Tables.
+
+[Section 2621(d)(17) of title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section2621/d/17&num=0&edition=prelim), referred to in subsec. (c)(3), was redesignated section 2621(d)(19) by Pub. L. 111–5, div. A, title IV, § 408(a), Feb. 17, 2009, 123 Stat. 146.
+
+#### Amendments
+2009—Subsec. (a). Pub. L. 111–5, § 405(5), substituted “grants of up to one-half (50 percent)” for “reimbursement of one-fifth (20 percent)”.
+
+Subsec. (b)(9). Pub. L. 111–5, § 405(6), struck out last sentence which read as follows: “In making such grants, the Secretary shall seek to reward innovation and early adaptation, even if success is not complete, rather than deployment of proven and commercially viable technologies.”
+
+Subsec. (c)(1). Pub. L. 111–5, § 405(7), substituted “utilize” for “are eligible for”.
+
+Subsec. (e). Pub. L. 111–5, § 405(8), amended subsec. (e) generally. Prior to amendment, text related to establishment of procedures by which applicants who have made qualifying Smart Grid investments can seek and obtain reimbursement of one-fifth of documented expenditures.
+
+#### Effective Date
+Section effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as a note under [section 1824 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1824&num=0&edition=prelim), The Congress.
+
+
+<a id="section-17389"></a>
+## § 17389. Integrated energy systems
+**(a) In general** Not later than 180 days after December 27, 2020, the Secretary shall establish a research, development, and demonstration program to develop cost-effective integrated energy systems, including—
+
+(1) development of computer modeling to design different configurations of integrated energy systems and to optimize system operation;
+
+(2) research on system integration needed to plan, design, build, and operate integrated energy systems, including interconnection requirements with the electric grid;
+
+(3) development of integrated energy systems for various applications, including—
+
+  (A) thermal energy generation and storage for buildings and manufacturing;
+
+  (B) electricity storage coupled with energy generation;
+
+  (C) desalination;
+
+  (D) production of liquid and gaseous fuels; and
+
+  (E) production of chemicals such as ammonia and ethylene;
+
+(4) development of testing facilities for integrated energy systems; and
+
+(5) research on incorporation of various technologies for integrated energy systems, including nuclear energy, renewable energy, storage, and carbon capture, utilization, and sequestration technologies.
+
+**(b) Strategic plan**
+
+(1) **In general** — Not later than 1 year after December 27, 2020, the Secretary shall submit to the Committee on Science, Space, and Technology of the House of Representatives and the Committee on Energy and Natural Resources of the Senate a strategic plan that identifies opportunities, challenges, and standards needed for the development and commercial application of integrated energy systems. The strategic plan shall include—
+
+  (A) analysis of the potential benefits of development of integrated electric systems on the electric grid;
+
+  (B) analysis of the potential contributions of integrated energy systems to different grid architecture scenarios;
+
+  (C) research and development goals for various integrated energy systems, including those identified in subsection (a);
+
+  (D) assessment of policy and market barriers to the adoption of integrated energy systems;
+
+  (E) analysis of the technical and economic feasibility of adoption of different integrated energy systems; and
+
+  (F) a 10-year roadmap to guide the program established under subsection (a).
+
+(2) **Updates** — Not less than once every 3 years for the duration of this research program, the Secretary shall submit an updated version of the strategic plan to the Committee on Science, Space, and Technology of the House of Representatives and the Committee on Energy and Natural Resources of the Senate.
+
+**(c) Program implementation** In carrying out the research, development, demonstration, and commercial application aims of subsection (a), the Secretary shall—
+
+(1) implement the recommendations set forth in the strategic plan in subsection (b);
+
+(2) coordinate across all relevant program offices at the Department, including—
+
+  (A) the Office of Energy Efficiency and Renewable Energy;
+
+  (B) the Office of Nuclear Energy; and
+
+  (C) the Office of Fossil Energy;
+
+(3) leverage existing programs and resources of the Department; and
+
+(4) prioritize activities that accelerate the development of integrated electricity generation, storage, and distribution systems with net zero greenhouse gas emissions.
+
+**(d) Integrated energy system defined** The term “integrated energy system” means a system composed of 2 or more co-located or jointly operated sub-systems of energy generation, energy storage, or other energy technologies.
+
+
+<a id="section-17390"></a>
+## § 17390. Advisory committee
+**(a) In general** Not later than 180 days after December 27, 2020, the Secretary shall designate an existing advisory committee to advise the Secretary on the authorization of research, development, and demonstration projects under sections 17384 and 17384a of this title.
+
+**(b) Responsibility** The Secretary shall annually solicit from the advisory committee—
+
+(1) comments to identify grid modernization technology needs;
+
+(2) an assessment of the progress of the research activities on grid modernization; and
+
+(3) assistance in annually updating grid modernization technology roadmaps.
+
+
+<a id="section-17391"></a>
+## § 17391. Technology demonstration on the distribution grid
+**(a) In general** The Secretary shall establish a grant program to carry out eligible projects related to the modernization of the electric grid, including the application of technologies to improve observability, advanced controls, and prediction of system performance on the distribution system.
+
+**(b) Eligible projects** To be eligible for a grant under subsection (a), a project shall—
+
+(1) be designed to improve the performance and efficiency of the future electric grid, while ensuring the continued provision of safe, secure, reliable, and affordable power; and
+
+(2) demonstrate—
+
+  (A) secure integration and management of two or more energy resources, including distributed energy generation, combined heat and power, micro-grids, energy storage, electric vehicles, energy efficiency, demand response, and intelligent loads; and
+
+  (B) secure integration and interoperability of communications and information technologies.
+
+### Statutory Notes
+
+#### Codification
+Section was enacted as part of the Energy Act of 2020, and not as part of the Energy Independence and Security Act of 2007 which comprises this chapter.
+
+#### Application
+Provisions of [section 3212 of this title](./chapter-038-public-works-and-economic-development.md#section-3212) applicable to construction, alteration, or repair work of demonstration projects funded by grants or contracts authorized under this section, see section 9006(b) of div. Z of Pub. L. 116–260, set out as a note under [section 16237 of this title](./chapter-149-national-energy-policy-and-programs.md#section-16237).
+
+
+<a id="section-17392"></a>
+## § 17392. Voluntary model pathways
+**(a) Establishment of voluntary model pathways**
+
+(1) **Establishment** — Not later than 90 days after December 27, 2020, the Secretary of Energy (in this section referred to as the “Secretary”), in consultation with the steering committee established under paragraph (3), shall initiate the development of voluntary model pathways for modernizing the electric grid through a collaborative, public-private effort that—
+
+  (A) produces illustrative policy pathways encompassing a diverse range of technologies that can be adapted for State and regional applications by regulators and policymakers;
+
+  (B) facilitates the modernization of the electric grid and associated communications networks to achieve the objectives described in paragraph (2);
+
+  (C) ensures a reliable, resilient, affordable, safe, and secure electric grid; and
+
+  (D) acknowledges and accounts for different priorities, electric systems, and rate structures across States and regions.
+
+(2) **Objectives** — The pathways established under paragraph (1) shall facilitate achievement of as many of the following objectives as practicable:
+
+  (A) Near real-time situational awareness of the electric system.
+
+  (B) Data visualization.
+
+  (C) Advanced monitoring and control of the advanced electric grid.
+
+  (D) Enhanced certainty of policies for investment in the electric grid.
+
+  (E) Increased innovation.
+
+  (F) Greater consumer empowerment.
+
+  (G) Enhanced grid resilience, reliability, and robustness.
+
+  (H) Improved—
+
+    (i) integration of distributed energy resources;
+
+    (ii) interoperability of the electric system; and
+
+    (iii) predictive modeling and capacity forecasting.
+
+  (I) Reduced cost of service for consumers.
+
+  (J) Diversification of generation sources.
+
+(3) **Steering committee** — Not later than 90 days after December 27, 2020, the Secretary shall establish a steering committee to help develop the pathways under paragraph (1), to be composed of members appointed by the Secretary, consisting of persons with appropriate expertise representing a diverse range of interests in the public, private, and academic sectors, including representatives of—
+
+  (A) the Federal Energy Regulatory Commission;
+
+  (B) the National Laboratories;
+
+  (C) States;
+
+  (D) State regulatory authorities;
+
+  (E) transmission organizations;
+
+  (F) representatives of all sectors of the electric power industry;
+
+  (G) institutions of higher education;
+
+  (H) independent research institutes; and
+
+  (I) other entities.
+
+**(b) Technical assistance** The Secretary may provide technical assistance to States, Indian Tribes, or units of local government to adopt or implement one or more elements of the pathways developed under subsection (a)(1), including on a pilot basis.
+
+### Statutory Notes
+
+#### Codification
+Section was enacted as part of the Energy Act of 2020, and not as part of the Energy Independence and Security Act of 2007 which comprises this chapter.

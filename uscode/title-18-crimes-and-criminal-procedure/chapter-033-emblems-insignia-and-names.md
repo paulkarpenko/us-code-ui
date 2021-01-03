@@ -90,9 +90,10 @@ For definition of Canal Zone, referred to in text, see [section 3602(b) of Title
 
 1949—Act May 24, 1949, inserted “armed forces” in lieu of enumerating specific branches in section catchline and text, and inserted “in any place within the jurisdiction of the United States or in the Canal Zone”.
 
-#### Transfer of Functions
+#### Change of Name
 Secretary of Health, Education, and Welfare redesignated Secretary of Health and Human Services by Pub. L. 96–88, title V, § 509(b), Oct. 17, 1979, 93 Stat. 695, which is classified to [section 3508(b) of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section3508/b&num=0&edition=prelim), Education.
 
+#### Transfer of Functions
 Functions of Public Health Service, Surgeon General of Public Health Service, and all other officers and employees of Public Health Service, and functions of all agencies of or in Public Health Service transferred to Secretary of Health, Education, and Welfare by Reorg. Plan No. 3 of 1966, eff. June 25, 1966, 31 F.R. 8855, 80 Stat. 1610, set out in the Appendix to Title 5, Government Organization and Employees.
 
 
@@ -291,56 +292,19 @@ The date of enactment of this title, referred to in text, means June 25, 1948.
 
 
 <a id="section-707"></a>
-## § 707. 4–H club emblem fraudulently used
-
-Whoever, with intent to defraud, wears or displays the sign or emblem of the 4–H clubs, consisting of a green four-leaf clover with stem, and the letter H in white or gold on each leaflet, or any insignia in colorable imitation thereof, for the purpose of inducing the belief that he is a member of, associated with, or an agent or representative for the 4–H clubs; or
+## § 707. Repealed. Pub. L. 116–260, div. O, title X, § 1002(3), Dec. 27, 2020, 134 Stat. 2155]
 
 ### Statutory Notes
 
-#### Historical and Revision Notes
-Based on title 18, U.S.C., 1940 ed., §§ 76c and 76d (June 5, 1939, ch. 184, §§ 1, 2, 53 Stat. 809).
-
-The first provision of [section 76c of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section76c&num=0&edition=prelim), U.S.C., 1940 ed., relating to fraudulently pretending to be a member of a 4–H Club was incorporated in [section 916 of this title](./chapter-043-false-personation.md#section-916).
-
-The language describing the emblem was transposed.
-
-Unnecessary words were omitted from punishment provision, and “$250” was substituted for “$300” to make the punishment consonant with the penalties provided for similar offenses. (See sections 701, 704, 705 of this title for similar offenses.)
-
-The language of [section 76d of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section76d&num=0&edition=prelim), U.S.C., 1940 ed., was rephrased and inserted after “whoever,” in the second paragraph.
-
-Minor changes were made in phraseology.
-
-#### References in Text
-The date of enactment of this title, referred to in text, means June 25, 1948.
-
-#### Amendments
-1994—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $250” in third par.
+Section, act June 25, 1948, ch. 645, 62 Stat. 733; Pub. L. 103–322, title XXXIII, § 330016(1)(E), Sept. 13, 1994, 108 Stat. 2146, penalized the fraudulent use of the 4–H club emblem.
 
 
 <a id="section-708"></a>
-## § 708. Swiss Confederation coat of arms
-
-Whoever, whether a corporation, partnership, unincorporated company, association, or person within the United States, willfully uses as a trade mark, commercial label, or portion thereof, or as an advertisement or insignia for any business or organization or for any trade or commercial purpose, the coat of arms of the Swiss Confederation, consisting of an upright white cross with equal arms and lines on a red ground, or any simulation thereof, shall be fined under this title or imprisoned not more than six months, or both.
+## § 708. Repealed. Pub. L. 116–260, div. O, title X, § 1002(4), Dec. 27, 2020, 134 Stat. 2155]
 
 ### Statutory Notes
 
-#### Historical and Revision Notes
-Based on [section 248 of title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section248&num=0&edition=prelim), U.S.C., 1940 ed., Foreign Relations and Intercourse (June 20, 1936, ch. 635, §§ 1, 2, 49 Stat. 1557).
-
-Reference to “jurisdiction” of the United States was omitted as unnecessary in view of definition of “United States” in [section 5 of this title](./chapter-001-general-provisions.md#section-5).
-
-Words of punishment “$250” and “six months” were substituted for “$500” and “one year” respectively, as more consonant with penalties for similar offenses in this chapter. (See sections 701, 704, 705 of this title.)
-
-Punishment provision was also changed to omit reference to “misdemeanor” in view of definitive [section 1 of this title](./chapter-001-general-provisions.md#section-1).
-
-Words “upon conviction” were omitted as surplusage, because punishment can only be imposed after conviction.
-
-Minor changes were made in phraseology.
-
-#### Amendments
-1994—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $250” in first par.
-
-1951—Act Oct. 31, 1951, added second par.
+Section, act June 25, 1948, ch. 645, 62 Stat. 733; Oct. 31, 1951, ch. 655, § 21a, 65 Stat. 719; Pub. L. 103–322, title XXXIII, § 330016(1)(E), Sept. 13, 1994, 108 Stat. 2146, penalized certain uses of the Swiss Confederation coat of arms.
 
 
 <a id="section-709"></a>
@@ -349,9 +313,6 @@ Minor changes were made in phraseology.
 Whoever, except as permitted by the laws of the United States, uses the words “national”, “Federal”, “United States”, “reserve”, or “Deposit Insurance” as part of the business or firm name of a person, corporation, partnership, business trust, association or other business entity engaged in the banking, loan, building and loan, brokerage, factorage, insurance, indemnity, savings or trust business; or
 
 ### Statutory Notes
-
-#### Amendment of Section
-Pub. L. 115–254, div. F, title VI, § 1470(g), (w), Oct. 5, 2018, 132 Stat. 3516, 3519, provided that, effective at the end of the transition period, as defined in [section 9681 of Title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section9681&num=0&edition=prelim), Foreign Relations and Intercourse, this section is amended by striking “ ‘Overseas Private Investment’, ‘Overseas Private Investment Corporation’, or ‘OPIC’,” and inserting “ ‘United States International Development Finance Corporation’ or ‘DFC’ ”. See 2018 Amendment note below.
 
 #### Historical and Revision Notes
 Based on sections 264(v)(1), 583, 584, 585, 586, 587, 1128, 1318, 1441(d), 1731(d) of title 12, U.S.C., 1940 ed., Banks and Banking, [section 616(d) of title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section616/d&num=0&edition=prelim), U.S.C., 1940 ed., Commerce and Trade, and [section 1426 of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1426&num=0&edition=prelim), U.S.C., 1940 ed., The Public Health and Welfare (R.S. § 5243; Dec. 23, 1913, ch. 6, § 12B(v), as added June 16, 1933, ch. 89, § 8, 48 Stat. 178; July 17, 1916, ch. 245, § 211h, as added Mar. 4, 1923, ch. 252, § 2, 42 Stat. 1461; Mar. 4, 1923, ch. 252, title II, § 216, 42 Stat. 1471; May 24, 1926, ch. 377, §§ 1–4, 44 Stat. 628; Jan. 22, 1932, ch. 8, § 16(d), 47 Stat. 12; July 22, 1932, ch. 522, § 21, 47 Stat. 738; June 27, 1934, ch. 847, § 512, 48 Stat. 1265; Aug. 23, 1935, ch. 614, §§ 101, 203a, 318, 332, 49 Stat. 684, 704, 712, 719; Apr. 21, 1936, ch. 244, 49 Stat. 1237; Sept. 1, 1937, ch. 896, § 26, 50 Stat. 899; Feb. 3, 1938, ch. 13, §§ 9, 10, 52 Stat. 24, 25; June 28, 1941, ch. 261, § 10, 55 Stat. 365).
@@ -452,10 +413,11 @@ For transfer of the functions, personnel, assets, and obligations of the United 
 
 Functions, powers, and duties of Housing and Home Finance Agency, Federal Housing Administration, and Public Housing Authority transferred to Secretary of Housing and Urban Development who was authorized to delegate such functions, powers, and duties to such officers and employees of Department of Housing and Urban Development as the Secretary may designate, see sections 3534 and 3535 of Title 42, The Public Health and Welfare.
 
-United States Housing Authority consolidated with other agencies into Housing and Home Finance Agency and name of Authority changed to Public Housing Administration by Reorg. Plan No. 3 of 1947, eff. July 27, 1947, 12 F.R. 4981, 61 Stat. 954, set out in the Appendix to Title 5, Government Organization and Employees.
-
 #### Government National Mortgage Association
 For creation, succession, and principal office, see [section 1717 of Title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1717&num=0&edition=prelim), Banks and Banking.
+
+#### Transfer of Functions
+United States Housing Authority consolidated with other agencies into Housing and Home Finance Agency and name of Authority changed to Public Housing Administration by Reorg. Plan No. 3 of 1947, eff. July 27, 1947, 12 F.R. 4981, 61 Stat. 954, set out in the Appendix to Title 5, Government Organization and Employees.
 
 
 <a id="section-710"></a>
@@ -470,35 +432,19 @@ Whoever knowingly uses, manufactures, or sells any cremation urn of a design app
 
 
 <a id="section-711"></a>
-## § 711. “Smokey Bear” character or name
-
-Whoever, except as authorized under rules and regulations issued by the Secretary of Agriculture after consultation with the Association of State Foresters and the Advertising Council, knowingly and for profit manufactures, reproduces, or uses the character “Smokey Bear”, originated by the Forest Service, United States Department of Agriculture, in cooperation with the Association of State Foresters and the Advertising Council for use in public information concerning the prevention of forest fires, or any facsimile thereof, or the name “Smokey Bear” shall be fined under this title or imprisoned not more than six months, or both.
+## § 711. Repealed. Pub. L. 116–260, div. O, title X, § 1002(5), Dec. 27, 2020, 134 Stat. 2155]
 
 ### Statutory Notes
 
-#### Amendments
-1994—Pub. L. 103–322, § 330016(1)(E), substituted “fined under this title” for “fined not more than $250”.
-
-Pub. L. 103–322, § 330004(4), struck out last par. which read as follows: “The Secretary of Agriculture may specially authorize the manufacture, reproduction, or use of the character ‘Smokey Bear’ for a period not to exceed one hundred and eighty days, expiring no later than one year after the enactment hereof, by any person who, because of plans or commitments made prior to the enactment of this Act, would suffer substantial loss if denied such authorization.”
-
-1974—Pub. L. 93–318 inserted “and for profit” after “knowingly” and struck out “as a trade name or in such manner as suggests the character ‘Smokey Bear’ ” after “facsimile thereof, or the name ‘Smokey Bear’ ”.
-
-#### Deposit of Fees; Availability
-Deposit of fees collected under regulations governing “Smokey Bear” and availability for use, see [section 580p–2 of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section580p–2&num=0&edition=prelim), Conservation.
+Section, added May 23, 1952, ch. 327, § 1, 66 Stat. 92; amended Pub. L. 93–318, § 5, June 22, 1974, 88 Stat. 245; Pub. L. 103–322, title XXXIII, §§ 330004(4), 330016(1)(E), Sept. 13, 1994, 108 Stat. 2141, 2146, penalized unauthorized use of the “Smokey Bear” character or name.
 
 
 <a id="section-711a"></a>
-## § 711a. “Woodsy Owl” character, name, or slogan
-
-Whoever, except as authorized under rules and regulations issued by the Secretary, knowingly and for profit manufactures, reproduces, or uses the character “Woodsy Owl”, the name “Woodsy Owl”, or the associated slogan, “Give a Hoot, Don’t Pollute” shall be fined under this title or imprisoned not more than six months, or both.
+## § 711a. Repealed. Pub. L. 116–260, div. O, title X, § 1002(6), Dec. 27, 2020, 134 Stat. 2155]
 
 ### Statutory Notes
 
-#### Amendments
-1994—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $250”.
-
-#### Description of “Woodsy Owl” Character
-For description of character of “Woodsy Owl” as referred to in this section, see [section 580p of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section580p&num=0&edition=prelim), Conservation.
+Section, added Pub. L. 93–318, § 6, June 22, 1974, 88 Stat. 245; amended Pub. L. 103–322, title XXXIII, § 330016(1)(E), Sept. 13, 1994, 108 Stat. 2146, penalized unauthorized use of the “Woodsy Owl” character, name, or slogan.
 
 
 <a id="section-712"></a>
@@ -604,17 +550,11 @@ Section, added Pub. L. 91–419, § 3, Sept. 25, 1970, 84 Stat. 870, defined “
 
 
 <a id="section-715"></a>
-## § 715. “The Golden Eagle Insignia”
-
-As used in this section, “The Golden Eagle Insignia” means the words “The Golden Eagle” and the representation of an American Golden Eagle (colored gold) and a family group (colored midnight blue) enclosed within a circle (colored white with a midnight blue border) framed by a rounded triangle (colored gold with a midnight blue border) which was originated by the Department of the Interior as the official symbol for Federal recreation fee areas.
+## § 715. Repealed. Pub. L. 116–260, div. O, title X, § 1002(7), Dec. 27, 2020, 134 Stat. 2155]
 
 ### Statutory Notes
 
-#### References in Text
-The date of enactment of this Act, referred to in text, means the date of enactment of Pub. L. 92–347, which was approved July 11, 1972.
-
-#### Amendments
-1994—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $250” in second par.
+Section, added Pub. L. 92–347, § 3(b), July 11, 1972, 86 Stat. 461; amended Pub. L. 103–322, title XXXIII, § 330016(1)(E), Sept. 13, 1994, 108 Stat. 2146, penalized unauthorized use of “The Golden Eagle Insignia”.
 
 
 <a id="section-716"></a>

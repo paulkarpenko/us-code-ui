@@ -580,14 +580,14 @@ The blanket provision for punishment of “any person who willfully violates any
 
 1961—Pub. L. 87–353 struck out reference to the Federal Farm Mortgage Corporation.
 
+#### Abolition of Home Owners’ Loan Corporation
+For dissolution and abolition of Home Owners’ Loan Corporation, referred to in this section, by act June 30, 1953, ch. 170, § 21, 67 Stat. 126, see note set out under [section 1463 of Title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1463&num=0&edition=prelim), Banks and Banking.
+
 #### Exceptions From Transfer of Functions
 Functions of corporations of Department of Agriculture, boards of directors and officers of such corporations; Advisory Board of Commodity Credit Corporation; and Farm Credit Administration or any agency, officer or entity of, under, or subject to supervision of said Administration excepted from functions of officers, agencies, and employees transferred to Secretary of Agriculture by Reorg. Plan No. 2 of 1953, § 1, eff. June 4, 1953, 18 F.R. 3219, 67 Stat. 633, set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Abolition of Reconstruction Finance Corporation
-Section 6(a) of Reorg. Plan No. 1 of 1957, eff. June 30, 1957, 22 F.R. 4633, 71 Stat. 647, set out in the Appendix to Title 5, Government Organization and Employees, abolished the Reconstruction Finance Corporation.
-
-#### Abolition of Home Owners’ Loan Corporation
-For dissolution and abolition of Home Owners’ Loan Corporation, referred to in this section, by act June 30, 1953, ch. 170, § 21, 67 Stat. 126, see note set out under [section 1463 of Title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1463&num=0&edition=prelim), Banks and Banking.
+Reorg. Plan No. 1 of 1957, § 6(a), eff. June 30, 1957, 22 F.R. 4633, 71 Stat. 647, set out in the Appendix to Title 5, Government Organization and Employees, abolished the Reconstruction Finance Corporation.
 
 #### Farm Credit Administration
 Establishment of Farm Credit Administration as independent agency, and other changes in status, function, etc., see Ex. Ord. No. 6084 set out prec. [section 2241 of Title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section2241&num=0&edition=prelim), Banks and Banking. See also section 2001 et seq. of Title 12.
@@ -1112,15 +1112,11 @@ Amendment by Pub. L. 104–294 effective Sept. 13, 1994, see section 604(d) of P
 
 
 <a id="section-511a"></a>
-## § 511A. Unauthorized application of theft prevention decal or device
-**(a)** Whoever affixes to a motor vehicle a theft prevention decal or other device, or a replica thereof, unless authorized to do so pursuant to the Motor Vehicle Theft Prevention Act, shall be punished by a fine not to exceed $1,000.
-
-**(b)** For purposes of this section, the term “theft prevention decal or device” means a decal or other device designed in accordance with a uniform design for such devices developed pursuant to the Motor Vehicle Theft Prevention Act.
+## § 511A. Repealed. Pub. L. 116–260, div. O, title X, § 1002(2), Dec. 27, 2020, 134 Stat. 2155]
 
 ### Statutory Notes
 
-#### References in Text
-The Motor Vehicle Theft Prevention Act, referred to in text, is title XXII of Pub. L. 103–322, Sept. 13, 1994, 108 Stat. 2074, which enacted this section and [section 12611 of Title 34](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section12611&num=0&edition=prelim), Crime Control and Law Enforcement, amended [section 511 of this title](./chapter-025-counterfeiting-and-forgery.md#section-511), and enacted provisions set out as a note under [section 10101 of Title 34](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section10101&num=0&edition=prelim). For complete classification of this Act to the Code, see Short Title of 1994 Act note set out under [section 10101 of Title 34](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section10101&num=0&edition=prelim) and Tables.
+Section, added Pub. L. 103–322, title XXII, § 220003(d)(1), Sept. 13, 1994, 108 Stat. 2077, related to unauthorized application of theft prevention decal or device.
 
 
 <a id="section-512"></a>

@@ -2,7 +2,7 @@
 title: 37
 chapter: '8'
 heading: TRAVEL AND TRANSPORTATION ALLOWANCES
-section_count: 45
+section_count: 46
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37&num=0&edition=prelim
 ---
@@ -146,11 +146,15 @@ Pub. L. 112–81, div. A, title VI, § 632, Dec. 31, 2011, 125 Stat. 1465, provi
 
 **(c) Matters Included.—** Travel and transportation allowances which may be provided under subsection (a) include the following:
 
-(1) Allowances for transportation, lodging, and meals.
+(1) Allowances for transportation (including fares and tolls, without regard to distance travelled), lodging, and meals.
 
 (2) Dislocation or relocation allowances paid in connection with a change in a member’s temporary or permanent duty assignment location.
 
-(3) Other related miscellaneous expenses.
+(3) A partial dislocation allowance paid to a member ordered to occupy or vacate housing provided by the United States.
+
+(4) Passport and visa fees required for foreign travel.
+
+(5) Other related miscellaneous expenses.
 
 **(d) Mode of Providing Travel and Transportation Allowances.—** Any authorized travel and transportation may be provided—
 
@@ -169,6 +173,15 @@ Pub. L. 112–81, div. A, title VI, § 632, Dec. 31, 2011, 125 Stat. 1465, provi
 **(g) Responsibility for Unauthorized Expenses.—** Any unauthorized travel or transportation expense is not the responsibility of the United States.
 
 **(h) Relationship to Other Authorities.—** The administering Secretary may not provide payment under this section for an expense for which payment may be provided from any other appropriate Government or non-Government entity.
+
+### Statutory Notes
+
+#### Amendments
+2021—Subsec. (c)(1). Pub. L. 116–283, § 605, inserted “(including fares and tolls, without regard to distance travelled)” after “transportation”.
+
+Subsec. (c)(4), (5). Pub. L. 116–283, § 1299N, added par. (4) and redesignated former par. (4) as (5).
+
+2019—Subsec. (c)(3), (4). Pub. L. 116–92 added par. (3) and redesignated former par. (3) as (4).
 
 
 <a id="section-453"></a>
@@ -201,9 +214,29 @@ Pub. L. 112–81, div. A, title VI, § 632, Dec. 31, 2011, 125 Stat. 1465, provi
 
 **(f) Attendance at Memorial Ceremonies and Services.—** A family member or member of the uniformed services who attends a deceased member’s repatriation, burial, or memorial ceremony or service may be provided travel and transportation allowances to the extent provided in regulations prescribed under [section 464 of this title](./chapter-008-travel-and-transportation-allowances.md#section-464).
 
+**(g) Reimbursement of Qualifying Spouse Relicensing Costs Incident to a Member’s Permanent Change of Station or Assignment.—**
+
+(1) From amounts otherwise made available for a fiscal year to provide travel and transportation allowances under this chapter, the Secretary concerned may reimburse a member of the uniformed services for qualified relicensing costs of the spouse of the member when—
+
+  (A) the member is reassigned, either as a permanent change of station or permanent change of assignment, between duty stations located in separate jurisdictions with unique licensing or certification requirements and authorities; and
+
+  (B) the movement of the member’s dependents is authorized at the expense of the United States under this section as part of the reassignment.
+
+(2) Reimbursement provided to a member under this subsection may not exceed $1000 in connection with each reassignment described in paragraph (1).
+
+(3) No reimbursement may be provided under this subsection for qualified relicensing costs paid or incurred after December 31, 2024.
+
+(4) In this subsection, the term “qualified relicensing costs” means costs, including exam, continuing education courses, and registration fees, incurred by the spouse of a member if—
+
+  (A) the spouse was licensed or certified in a profession during the member’s previous duty assignment and requires a new license or certification to engage in that profession in a new jurisdiction because of movement described in paragraph (1)(B) in connection with the member’s change in duty location pursuant to reassignment described in paragraph (1)(A); and
+
+  (B) the costs were incurred or paid to secure or maintain the license or certification from the new jurisdiction in connection with such reassignment.
+
 ### Statutory Notes
 
 #### Amendments
+2021—Subsec. (g). Pub. L. 116–283 added subsec. (g).
+
 2016—Subsec. (g). Pub. L. 114–328 struck out subsec. (g). Text read as follows: “A member may be reimbursed as specified in regulations prescribed under [section 464 of this title](./chapter-008-travel-and-transportation-allowances.md#section-464) for travel and related expenses incurred by the member as a result of the cancellation of previously approved leave when the leave is cancelled in conjunction with the member’s participation in a contingency operation and the cancellation occurs within 48 hours of the time the leave would have commenced. The settlement for reimbursement under this subsection is final and conclusive.”
 
 2013—Subsec. (c)(3). Pub. L. 113–66, § 621(h), substituted “(including household goods in temporary storage, but excluding packing and crating)” for “(including packing, crating, and household goods in temporary storage)”.
@@ -285,6 +318,19 @@ June 28, 1944, ch. 303, 58 Stat. 577.
 
 #### Amendments
 2011—Pub. L. 112–81 renumbered [section 412 of this title](./chapter-007-allowances-other-than-travel-and-transportation-allowances.md#section-412) as this section.
+
+
+<a id="section-456"></a>
+## § 456. Managed travel program refunds
+**(a) Credit of Refunds.—** The Secretary of Defense may credit refunds attributable to Department of Defense managed travel programs as a direct result of official travel to such operation and maintenance or research, development, test, and evaluation accounts of the Department as designated by the Secretary that are available for obligation for the fiscal year in which the refund or amount is collected.
+
+**(b) Use of Refunds.—** Refunds credited under subsection (a) may only be used for official travel or operations and efficiency improvements for improved financial management of official travel.
+
+**(c) Definitions.—** In this section:
+
+(1) **Managed travel program.—** — The term “managed travel program” includes air, rental car, train, bus, dining, lodging, and travel management, but does not include rebates or refunds attributable to the use of the Government travel card, the Government Purchase Card, or Government travel arranged by Government Contracted Travel Management Centers.
+
+(2) **Refund.—** — The term “refund” includes miscellaneous receipts credited to the Department identified as a refund, rebate, repayment, or other similar amounts collected.
 
 
 <a id="section-461"></a>
@@ -849,97 +895,7 @@ Pub. L. 112–239, div. A, title X, § 1076(a), Jan. 2, 2013, 126 Stat. 1947, pr
 
 
 <a id="section-475"></a>
-## § 475. Travel and transportation allowances: per diem while on duty outside the continental United States
-**(a) Per Diem Authorized.—** Without regard to the monetary limitation of this title, the Secretary concerned may pay a per diem to a member of the uniformed services who is on duty outside of the continental United States, whether or not the member is in a travel status. The Secretary may pay the per diem in advance of the accrual of the per diem.
-
-**(b) Determination of Per Diem.—** In determining the per diem to be paid under this section, the Secretary concerned shall consider all elements of the cost of living to members of the uniformed services under the Secretary’s jurisdiction and their dependents, including the cost of quarters, subsistence, and other necessary incidental expenses. However, dependents may not be considered in determining the per diem allowance for a member in a travel status.
-
-**(c) Treatment of Housing Cost and Allowance.—** Housing cost and allowance may be disregarded in prescribing a station cost of living allowance under this section.
-
-**(d) Unusual or Extraordinary Expenses.—**
-
-(1) The Secretary concerned may reimburse a member of the uniformed services on duty as described in subsection (a) or (e) for an unusual or extraordinary expense incurred by the member incident to such duty that—
-
-  (A) is directly related to the conditions or location of the duty or the location of the member’s dependents;
-
-  (B) is of a nature or a magnitude not normally incurred by members of the uniformed services on duty inside the continental United States; and
-
-  (C) is not included in the per diem determined under subsection (b) as payable to the member under subsection (a) or (e).
-
-(2) Any reimbursement provided to a member under paragraph (1) is in addition to a per diem payable to that member under subsection (a) or (e).
-
-**(e) Payment of Allowance Based on Overseas Location of Dependents.—** In the case of a member assigned to duty inside the continental United States whose dependents continue to reside outside the continental United States, the Secretary concerned may pay the member a per diem under this section based on the location of the dependents and provide reimbursement under subsection (d) for an unusual or extraordinary expense incurred by the dependents if the Secretary determines that such payment or reimbursement is in the best interest of the member or the member’s dependents and in the best interest of the United States.
-
-**(f) Termination.—** During and after the travel authorities expiration date, no per diem may be paid under this section for any period.
-
-### Statutory Notes
-
-| Historical and Revision Notes |  |  |
-| --- | --- | --- |
-| Revised section | Source (U.S. Code) | Source (Statutes at Large) |
-| 405 | 37:253(b). | Oct. 12, 1949, ch. 681, § 303(b), 63 Stat. 814. |
-
-The words “Secretaries concerned” are substituted for the words “Secretaries of the uniformed services” to conform to other subsections of the source statute. The words “outside the United States, or in Hawaii or Alaska” are substituted for the words “outside the continental United States or in Alaska” to conform to the definition of United States in section 101(1) of this revised title and to retain the coverage of the source statute.
-
-#### Amendments
-2011—Pub. L. 112–81, § 631(d)(2), renumbered [section 405 of this title](./chapter-007-allowances-other-than-travel-and-transportation-allowances.md#section-405) as this section.
-
-Subsec. (f). Pub. L. 112–81, § 631(e)(4), added subsec. (f).
-
-2006—Subsec. (d). Pub. L. 109–163, § 612(b)(1), substituted “Unusual or Extraordinary” for “Nonrecurring” in heading.
-
-Subsec. (d)(1). Pub. L. 109–163, § 612(b)(1), (3)(A), in introductory provisions, inserted “or (e)” after “subsection (a)” and substituted “an unusual or extraordinary” for “a nonrecurring”.
-
-Subsec. (d)(1)(A). Pub. L. 109–163, § 612(b)(3)(B), inserted “or the location of the member’s dependents” before semicolon.
-
-Subsec. (d)(1)(C), (2). Pub. L. 109–163, § 612(b)(2), inserted “or (e)” after “subsection (a)”.
-
-Subsec. (e). Pub. L. 109–163, § 612(a), added subsec. (e).
-
-2004—Pub. L. 108–375, § 605(b)(2), amended section catchline generally, substituting “continental United States” for “United States or in Hawaii or Alaska”.
-
-Subsec. (a). Pub. L. 108–375, § 605(b)(1), substituted “outside of the continental United States” for “outside of the United States or in Hawaii or Alaska”.
-
-Subsec. (d). Pub. L. 108–375, § 605(a), added subsec. (d).
-
-2000—Pub. L. 106–398 amended section generally. Prior to amendment, section authorized payment of a per diem to members of the uniformed services on duty outside of the United States or in Hawaii or Alaska and specified what elements were to be considered in determining the per diem allowance.
-
-1998—Subsec. (c). Pub. L. 105–261 struck out subsec. (c) which authorized the Secretary concerned to make a lump-sum payment for nonrecurring expenses to certain members of the uniformed services authorized to receive per diem allowances under subsec. (a).
-
-1997—Subsecs. (b) to (d). Pub. L. 105–85 redesignated subsecs. (c) and (d) as (b) and (c), respectively, and struck out former subsec. (b) which read as follows: “A station housing allowance may be prescribed under this section for a member who is on duty outside of the United States without regard to costs other than housing costs and may consist of the difference between basic allowance for quarters and applicable housing cost. A station housing allowance may not be prescribed under this section for a member who is on duty in Hawaii or Alaska. A station housing allowance prescribed under this section may be paid in advance.”
-
-1993—Subsec. (d). Pub. L. 103–160 amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “In the case of a member of the uniformed services authorized to receive a per diem allowance under subsection (a), the Secretary concerned may make a lump-sum payment for nonrecurring expenses incurred by the member in occupying private housing outside of the United States. Expenses for which payments are made under this subsection may not be considered for purposes of determining the per diem allowance of the member under subsection (a).”
-
-1989—Subsec. (d). Pub. L. 101–189 added subsec. (d).
-
-1985—Pub. L. 99–145 inserted “the” after “outside” in section catchline.
-
-1984—Subsec. (a). Pub. L. 98–525, § 602(e)(1), designated first two sentences of existing section as subsec. (a).
-
-Subsec. (b). Pub. L. 98–525, § 602(e)(2), (3), designated third and fourth sentences of existing section as subsec. (b), in such third sentence as so designated inserted “for a member who is on duty outside of the United States” after “under this section”, and inserted after such third sentence: “A station housing allowance may not be prescribed under this section for a member who is on duty in Hawaii or Alaska.”
-
-Subsec. (c). Pub. L. 98–525, § 602(e)(4), designated last sentence of existing section as subsec. (c).
-
-1979—Pub. L. 96–107 inserted provisions relating to advance payment of station housing allowances.
-
-1970—Pub. L. 91–486 inserted provision authorizing a station housing allowance.
-
-1966—Pub. L. 89–718 substituted “the” for “a” after “including”.
-
-#### Effective Date of 1997 Amendment
-Amendment by Pub. L. 105–85 effective Jan. 1, 1998, see section 603(e) of Pub. L. 105–85, set out as a note under [section 5561 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5561&num=0&edition=prelim), Government Organization and Employees.
-
-#### Effective Date of 1993 Amendment
-Pub. L. 103–160, div. A, title VI, § 622(b), Nov. 30, 1993, 107 Stat. 1683, as amended by Pub. L. 112–81, div. A, title VI, § 631(f)(4)(B), Dec. 31, 2011, 125 Stat. 1465; Pub. L. 112–239, div. A, title X, § 1076(a)(9), Jan. 2, 2013, 126 Stat. 1948, provided that: “The amendment made by subsection (a) [amending this section] shall apply with respect to nonrecurring expenses and currency fluctuation gains described in [former] [section 475(d) of title 37](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section475/d&num=0&edition=prelim), United States Code, that are incurred by members of the uniformed services on or after October 1, 1993.”
-
-#### Effective Date of 1989 Amendment
-Pub. L. 101–189, div. A, title VI, § 622(b), Nov. 29, 1989, 103 Stat. 1447, provided that: “The amendment made by subsection (a) [amending this section] shall apply with respect to expenses incurred after August 31, 1990.”
-
-#### Effective Date of 1984 Amendment
-Amendment by Pub. L. 98–525 effective Jan. 1, 1985, with exceptions, see section 602(f) of Pub. L. 98–525, as amended, set out as a note under [section 403 of this title](./chapter-007-allowances-other-than-travel-and-transportation-allowances.md#section-403).
-
-#### Effective Date of 1979 Amendment
-Pub. L. 96–107, title VIII, § 807(b), Nov. 9, 1979, 93 Stat. 814, provided that: “The amendment made by subsection (a) [amending this section] shall take effect on October 1, 1979.”
+## § 475. Renumbered § 405]
 
 
 <a id="section-475a"></a>
@@ -1081,7 +1037,7 @@ Pub. L. 89–26, § 2, May 22, 1965, 79 Stat. 117, as amended by Pub. L. 89–60
 
 (2) The transportation and allowances authorized under paragraph (1) may be paid or provided to a member upon his separation from the service or release from active duty only if the member applies for the transportation and allowances not later than 180 days after the date of his separation or release from active duty. If a member to whom this paragraph applies has been authorized nontemporary storage under subsection (d), the 180-day period shall not begin until such authorization for nontemporary storage expires. This paragraph does not apply to a member to whom subsection (g)(1) applies.
 
-**(c)** The allowances and transportation authorized by subsections (a) and (b) are in addition to those authorized by sections 403(c), 474, and 475 of this title and are—
+**(c)** The allowances and transportation authorized by subsections (a) and (b) are in addition to those authorized by sections 403(c), 474, and 475 11 See References in Text below. of this title and are—
 
 (1) subject to such conditions and limitations;
 
@@ -1205,30 +1161,6 @@ Except in the case of a member who, on the date of his separation, discharge, or
 
 (2) in a case covered by this section when such orders are not issued, with respect to a movement of baggage or household effects that begins after such date.
 
-**(p)**
-
-(1) From amounts otherwise made available for a fiscal year to provide travel and transportation allowances under this chapter, the Secretary concerned may reimburse a member of the armed forces for qualified relicensing costs of the spouse of the member when—
-
-  (A) the member is reassigned, either as a permanent change of station or permanent change of assignment, from a duty station in one State to a duty station in another State; and
-
-  (B) the movement of the member’s dependents is authorized at the expense of the United States under this section as part of the reassignment.
-
-(2) Reimbursement provided to a member under this subsection may not exceed $500 in connection with each reassignment described in paragraph (1).
-
-(3) Not later than December 31, 2021, the Secretary of Defense, in consultation with the Secretary of Homeland Security with respect to the Coast Guard, shall submit to the congressional defense committees, the Committee on Homeland Security and Government Affairs of the Senate, and the Committee on Oversight and Government Reform of the House of Representatives a report—
-
-  (A) describing the extent to which the reimbursement authority provided by this subsection has been used; and
-
-  (B) containing a recommendation by the Secretaries regarding whether the authority should be extended beyond the date specified in paragraph (4).
-
-(4) No reimbursement may be provided under this subsection for qualified relicensing costs paid or incurred after December 31, 2022.
-
-(5) In this subsection, the term “qualified relicensing costs” means costs, including exam and registration fees, that—
-
-  (A) are imposed by the State of the new duty station to secure a license or certification to engage in the same profession that the spouse of the member engaged in while in the State of the original duty station; and
-
-  (B) are paid or incurred by the member or spouse to secure the license or certification from the State of the new duty station after the date on which the orders directing the reassignment described in paragraph (1) are issued.
-
 ### Statutory Notes
 
 | Historical and Revision Notes |  |  |
@@ -1262,6 +1194,8 @@ The words “to carry out subsection (b) of this section” are substituted for 
 
 #### References in Text
 [Section 2634 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2634&num=0&edition=prelim), referred to in subsecs. (b)(1)(B) and (h)(1)(B), was repealed by Pub. L. 113–66, div. A, title VI, § 621(g)(1), Dec. 26, 2013, 127 Stat. 784.
+
+[Section 475 of this title](./chapter-008-travel-and-transportation-allowances.md#section-475), referred to in subsec. (c), was renumbered [section 405 of this title](./chapter-007-allowances-other-than-travel-and-transportation-allowances.md#section-405) by Pub. L. 116–283, div. A, title VI, § 604(a)(1), Jan. 1, 2021, 134 Stat. 3672.
 
 #### Prior Provisions
 Act Aug. 1, 1953, cited as the source of subsec. (j) of this section in the Historical and Revision Notes above, is known as the Department of Defense Appropriation Act, 1954. Similar provisions were contained in the following prior appropriation acts:
@@ -1299,6 +1233,16 @@ June 11, 1938, ch. 347, 52 Stat. 647.
 July 1, 1937, ch. 423, 50 Stat. 448.
 
 #### Amendments
+2021—Subsec. (p). Pub. L. 116–283 struck out subsec. (p) which related to reimbursement to a member of the uniformed services for qualified relicensing costs of the member’s spouse.
+
+2019—Subsec. (p)(1). Pub. L. 116–92, § 577(1), substituted “uniformed services” for “armed forces” in introductory provisions.
+
+Subsec. (p)(2). Pub. L. 116–92, § 577(2), substituted “$1,000” for “$500”.
+
+Subsec. (p)(3)(C). Pub. L. 116–92, § 577(3), added subpar. (C).
+
+Subsec. (p)(4). Pub. L. 116–92, § 577(4), substituted “December 31, 2024” for “December 31, 2022”.
+
 2017—Subsec. (p). Pub. L. 115–91 added subsec. (p).
 
 2013—Pub. L. 112–239, § 1076(a)(9), made technical amendment to directory language of Pub. L. 112–81, § 631(f)(4)(A). See 2011 Amendment note below.
@@ -1515,6 +1459,9 @@ Pub. L. 89–680, § 1(3), inserted, in authorization for transportation for dep
 
 1964—Subsec. (h). Pub. L. 88–431 added subsec. (h).
 
+#### Change of Name
+Committee on Oversight and Government Reform of House of Representatives changed to Committee on Oversight and Reform of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
+
 #### Effective Date of 2013 Amendment
 Pub. L. 112–239, div. A, title X, § 1076(a), Jan. 2, 2013, 126 Stat. 1947, provided that the amendment made by section 1076(a)(9) is effective Dec. 31, 2011, and as if included in Pub. L. 112–81 as enacted.
 
@@ -1594,10 +1541,10 @@ Pub. L. 101–510, div. A, title V, § 503(c), Nov. 5, 1990, 104 Stat. 1558, as 
 Pub. L. 101–510, div. A, title VI, § 621, Nov. 5, 1990, 104 Stat. 1580, provided that: “Subsection (b) of section 614 of the Department of Defense Authorization Act, 1986 [Pub. L. 99–145, set out as an Effective and Termination Dates of 1985 Amendment note above] (37 U.S.C. note) is repealed. The amendments made by subsection (a) of that section [amending this section] are hereby revived effective as of October 1, 1989.”
 
 #### Prohibition on Retroactive Payments Under 1985 Amendment
-Section 614(c) of Pub. L. 99–145 prohibited payment of allowances to members by virtue of the amendments made by subsection (a), amending this section, in connection with transportation of baggage and household effects provided the member before Nov. 8, 1985.
+Pub. L. 99–145, title VI, § 614(c), Nov. 8, 1985, 99 Stat. 640, prohibited payment of allowances to members by virtue of the amendments made by subsection (a), amending this section, in connection with transportation of baggage and household effects provided the member before Nov. 8, 1985.
 
 #### Allowances for Labor in Connection With Transportation of Members’ Baggage and Effects; Report to Congress
-Section 614(d) of Pub. L. 99–145 required Secretary of Defense to submit a report to Congress not later than Sept. 30, 1988, regarding the operation of any program carried out by the military departments under which payment of a monetary allowance is made to a member who provides all or a part of the labor in connection with the transportation of the baggage and household effects of the member and to include recommendations for legislative action the Secretary considers appropriate.
+Pub. L. 99–145, title VI, § 614(d), Nov. 8, 1985, 99 Stat. 640, required Secretary of Defense to submit a report to Congress not later than Sept. 30, 1988, regarding the operation of any program carried out by the military departments under which payment of a monetary allowance is made to a member who provides all or a part of the labor in connection with the transportation of the baggage and household effects of the member and to include recommendations for legislative action the Secretary considers appropriate.
 
 #### Monetary Allowance in Lieu of Transportation of Household Effects
 Pub. L. 94–212, title VII, § 747, Feb. 9, 1976, 90 Stat. 176, which provided that appropriations available for transportation of household goods of members of armed forces under subsec. (b) of this section shall be available as a monetary allowance for such transportation, payable in advance under regulations of the Secretary in an amount which would provide savings to the Government when compared with the total costs which would otherwise have been incurred under subsec. (b) of this section, was repealed and reenacted as subsec. (k) of this section by Pub. L. 97–295, §§ 3(4), 6(b), Oct. 12, 1982, 96 Stat. 1303, 1314. Subsec. (k) was subsequently redesignated (j) and repealed.
@@ -1817,7 +1764,7 @@ Pub. L. 112–239, div. A, title X, § 1076(a), Jan. 2, 2013, 126 Stat. 1947, pr
 
 **(f) Partial Dislocation Allowance.—**
 
-(1) Under regulations prescribed by the Secretary concerned, a member ordered to occupy or vacate family housing provided by the United States to permit the privatization or renovation of housing or for any other reason (other than pursuant to a permanent change of station) may be paid a partial dislocation allowance of $500.
+(1) Under regulations prescribed by the Secretary concerned, a member ordered to occupy or vacate housing provided by the United States to permit the privatization or renovation of housing or for any other reason (other than pursuant to a permanent change of station) may be paid a partial dislocation allowance of $500.
 
 (2) Effective on the same date that the monthly rates of basic pay for all members are increased under [section 1009 of this title](./chapter-019-administration.md#section-1009) or another provision of law, the Secretary of Defense shall adjust the rate of the partial dislocation allowance authorized by this subsection by the percentage equal to the average percentage increase in the rates of basic pay.
 
@@ -1841,6 +1788,8 @@ In subsection (a), the words “Except as provided in subsections (b) and (c) of
 In subsection (b), the words “is not entitled to . . . more than one” are substituted for the words “shall be entitled . . . for not more than one”. The words “the payment of” and “for not more than one permanent change of station” are omitted as surplusage. Clauses (1) and (2) are substituted for the last 29 words of the 5th and 6th sentences of section 253(c) of existing title 37.
 
 #### Amendments
+2019—Subsec. (f)(1). Pub. L. 116–92 struck out “family” before “housing provided by”.
+
 2013—Pub. L. 112–239, § 1076(a)(9), made technical amendment to directory language of Pub. L. 112–81, § 631(f)(4)(A). See 2011 Amendment note below.
 
 2011—Pub. L. 112–81, § 631(f)(4)(A), as amended by Pub. L. 112–239, § 1076(a)(9), substituted, wherever appearing, “475a” for “405a”, “476” for “406”, “476a” for “406a”, and “484” for “554”.
@@ -2166,7 +2115,7 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
 <a id="section-481"></a>
 ## § 481. Travel and transportation allowances: administrative provisions
-**(a)** For the administration of sections 474(a), (b), and (d)–(f), 474a, 475, 475a, 476(a)–(f), 477, 479, and 480 of this title, the Secretaries concerned shall prescribe regulations that are, as far as practicable, uniform for all of the uniformed services.
+**(a)** For the administration of sections 474(a), (b), and (d)–(f), 474a, 475,11 See References in Text note below. 475a, 476(a)–(f), 477, 479, and 480 of this title, the Secretaries concerned shall prescribe regulations that are, as far as practicable, uniform for all of the uniformed services.
 
 **(b)** In establishing the rates and kinds of allowances authorized by the sections of this title designated by subsection (a), the Secretaries concerned shall—
 
@@ -2192,6 +2141,9 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 In subsection (a), section 253(h) (provisos) of existing title 37 is omitted, since the regulations to which reference is made have been issued. The exceptions to sections 404(c) and 406(g) are inserted, since the source text for those subsections require regulations prescribed thereunder to be uniform.
 
 In subsections (c) and (d), the words “for the purposes of the sections of this title designated by subsection (a) of this section” are inserted to clarify the coverage of the source statute.
+
+#### References in Text
+[Section 475 of this title](./chapter-008-travel-and-transportation-allowances.md#section-475), referred to in subsec. (a), was renumbered [section 405 of this title](./chapter-007-allowances-other-than-travel-and-transportation-allowances.md#section-405) by Pub. L. 116–283, div. A, title VI, § 604(a)(1), Jan. 1, 2021, 134 Stat. 3672.
 
 #### Amendments
 2013—Subsec. (a). Pub. L. 112–239, § 1076(a)(9), made technical amendment to directory language of Pub. L. 112–81, § 631(f)(4)(A). See 2011 Amendment note below.
@@ -2466,9 +2418,9 @@ Pub. L. 100–456, div. A, title VI, § 623(b), Sept. 29, 1988, 102 Stat. 1984, 
 
 (2) If no person described in subparagraphs (A) through (D) of paragraph (1) is provided travel and transportation allowances under paragraph (1) or (2) of subsection (a), the travel and transportation allowances may be provided to one or two other persons who are closely related to the deceased member and are selected by the person referred to in paragraph (1)(E). A person provided travel and transportation allowances under this paragraph is in addition to the person referred to in paragraph (1)(E).
 
-**(d) Transportation to Transfer Ceremonies of Members of the Armed Forces Who Die Overseas.—**
+**(d) Travel And Transportation Allowances In Connection With Transfer Ceremonies of Members of the Armed Forces Who Die Overseas.—**
 
-(1) The Secretary of the military department concerned may provide round trip transportation to ceremonies for the transfer of a member of the armed forces who dies while located or serving overseas (including during a humanitarian relief operation) to the following:
+(1) The Secretary of the military department concerned may provide round trip travel and transportation allowances in connection with ceremonies for the transfer of a member of the armed forces who dies while located or serving overseas (including during a humanitarian relief operation) to the following:
 
   (A) The primary next of kin of the member.
 
@@ -2503,6 +2455,10 @@ Pub. L. 100–456, div. A, title VI, § 623(b), Sept. 29, 1988, 102 Stat. 1984, 
 ### Statutory Notes
 
 #### Amendments
+2021—Subsec. (d). Pub. L. 116–283, § 1104(b)(1), which directed substitution of “Travel And Transportation Allowances In Connection With” for “Transportation To” in heading, was executed by making the substitution for “Transportation to” to reflect the probable intent of Congress.
+
+Subsec. (d)(1). Pub. L. 116–283, § 1104(b)(2), substituted “travel and transportation allowances in connection with” for “transportation to” in introductory provisions.
+
 2015—Subsec. (d). Pub. L. 114–92, § 622(a), redesignated subsec. (e) as (d) and struck out former subsec. (d) which related to expanded allowances related to recovery of remains from the Vietnam conflict.
 
 Subsec. (e). Pub. L. 114–92, § 622(a)(2), redesignated subsec. (f) as (e). Former subsec. (e) redesignated (d).
@@ -2754,7 +2710,7 @@ Pub. L. 109–13, div. A, title I, § 1026(d), May 11, 2005, 119 Stat. 255, whic
 ## § 481i. Travel and transportation allowances: parking expenses
 **(a) Reimbursement Authority.—** Under regulations prescribed by the Secretary of Defense, the Secretary of a military department may reimburse eligible Department of Defense personnel for expenses incurred after October 1, 2001, for parking a privately owned vehicle at a place of duty described in subsection (b).
 
-**(b) Eligibility.—** A member of the Army, Navy, Air Force, or Marine Corps or an employee of the Department of Defense may be reimbursed under subsection (a) for parking expenses while—
+**(b) Eligibility.—** A member of the Army, Navy, Air Force, Marine Corps, or Space Force or an employee of the Department of Defense may be reimbursed under subsection (a) for parking expenses while—
 
 (1) assigned to duty at a recruiting facility of the armed forces;
 
@@ -2767,6 +2723,8 @@ Pub. L. 109–13, div. A, title I, § 1026(d), May 11, 2005, 119 Stat. 255, whic
 ### Statutory Notes
 
 #### Amendments
+2021—Subsec. (b). Pub. L. 116–283 substituted “Marine Corps, or Space Force” for “or Marine Corps”.
+
 2018—Subsec. (b)(1). Pub. L. 115–232 substituted “at a recruiting facility” for “as a recruiter for any”.
 
 2011—Pub. L. 112–81, § 631(d)(2), renumbered [section 411i of this title](./chapter-007-allowances-other-than-travel-and-transportation-allowances.md#section-411i) as this section.
@@ -2979,7 +2937,7 @@ When he considers it necessary, the Secretary concerned may, with respect to the
 
 (1) section 2575, 2733, 4712, 6522, or 9712 of title 10;
 
-(2) section 507 11 See References to Sections of Title 14 as Redesignated by Pub. L. 115–282 note below. of title 14; or
+(2) section 507 11 See References in Text note below. of title 14; or
 
 (3) chapter 171 of title 28.
 
@@ -3019,6 +2977,9 @@ In subsection (g), the words “Secretary concerned” are substituted for “he
 In subsection (h), the words “under subsection (g) of this section” are substituted for “under the authority of this section”, in 50 App. U.S.C. 1012 (5th sentence).
 
 In subsection (i), the words “the provisions of” are omitted as unnecessary. Clause (3) is substituted for “the Federal Tort Claims Act (60 Stat. 842–847), as amended,” to reflect the correct citation of that Act.
+
+#### References in Text
+[Section 507 of title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section507&num=0&edition=prelim), referred to in subsec. (j)(2), was redesignated [section 2710 of title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section2710&num=0&edition=prelim) by Pub. L. 115–282, title I, § 116(b), Dec. 4, 2018, 132 Stat. 4226, and references to [section 507 of title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section507&num=0&edition=prelim) deemed to refer to such redesignated section, see section 123(b)(1) of Pub. L. 115–282, set out as a References to Sections of Title 14 as Redesignated by Pub. L. 115–282 note preceding [section 101 of Title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section101&num=0&edition=prelim), Coast Guard.
 
 #### Amendments
 2013—Subsec. (a). Pub. L. 112–239, § 1076(a)(9), made technical amendment to directory language of Pub. L. 112–81, § 631(f)(4)(A). See 2011 Amendment note below.
@@ -3060,9 +3021,6 @@ Subsec. (b). Pub. L. 92–477, § 1(3), authorized additional movements of and t
 Pub. L. 90–236 inserted provision authorizing nontemporary storage of household and personal effects of a member who is officially reported as absent for a period of more than 29 days in a missing status.
 
 1967—Subsec. (a). Pub. L. 90–83 struck out “when it is located outside the United States, or in Alaska or Hawaii” after “shipped at United States expense”.
-
-#### References to Sections of Title 14 as Redesignated by Pub. L. 115–282
-[Section 507 of title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section507&num=0&edition=prelim) redesignated [section 2710 of title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section2710&num=0&edition=prelim) by Pub. L. 115–282, title I, § 116(b), Dec. 4, 2018, 132 Stat. 4226, and references to [section 507 of title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section507&num=0&edition=prelim) deemed to refer to such redesignated section, see section 123(b)(1) of Pub. L. 115–282, set out as a note preceding [section 101 of Title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section101&num=0&edition=prelim), Coast Guard.
 
 #### Effective Date of 2013 Amendment
 Pub. L. 112–239, div. A, title X, § 1076(a), Jan. 2, 2013, 126 Stat. 1947, provided that the amendment made by section 1076(a)(9) is effective Dec. 31, 2011, and as if included in Pub. L. 112–81 as enacted.
@@ -3133,7 +3091,7 @@ All functions of the Secretary of Defense and the Department of Defense under th
 For availability of Department of Defense funds for travel and transportation of dependent students of members of the Armed Forces stationed overseas for transportation allowances for travel within or between the contiguous States, see [section 1786 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1786&num=0&edition=prelim), Armed Forces.
 
 #### Authority Under the Defense Department Overseas Teachers Pay and Personnel Practices Act Available to Secretary of Education
-The authority of the Secretary of Defense and the Secretaries of the military departments under the Defense Department Overseas Teachers Pay and Personnel Practices Act, section 901 et seq. of Title 20, Education, made available to the Secretary of Education with respect to all functions transferred from the Secretary of Defense and Department of Defense under this section by [section 3442(b) of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section3442/b&num=0&edition=prelim), Education.
+The authority of the Secretary of Defense and the Secretaries of the military departments under the Defense Department Overseas Teachers Pay and Personnel Practices Act, section 901 et seq. of Title 20, Education, made available to the Secretary of Education with respect to all functions transferred from the Secretary of Defense and Department of Defense under this section by [section 3442(b) of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section3442/b&num=0&edition=prelim).
 
 
 <a id="section-490"></a>
@@ -3310,7 +3268,7 @@ Subsecs. (d), (e). Pub. L. 104–93, § 502(b)(2), (3), added subsecs. (d) and (
 1991—Subsecs. (b) to (d). Pub. L. 102–25 struck out “of this section” after “subsection (a)”.
 
 #### Delegation of Authority of Secretary of Defense
-Section 1302(b)(3) of Pub. L. 99–145, as amended by Pub. L. 100–180, div. A, title XIII, § 1314(d)(4), Dec. 4, 1987, 101 Stat. 1176, provided that: “The authority of the Secretary of Defense under [section 431 of title 37](./chapter-007-allowances-other-than-travel-and-transportation-allowances.md#section-431), United States Code, as added by paragraph (1), may be delegated in accordance with [section 113(d) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section113/d&num=0&edition=prelim), United States Code.”
+Pub. L. 99–145, title XIII, § 1302(b)(3), Nov. 8, 1985, 99 Stat. 738, as amended by Pub. L. 100–180, div. A, title XIII, § 1314(d)(4), Dec. 4, 1987, 101 Stat. 1176, provided that: “The authority of the Secretary of Defense under [section 431 of title 37](./chapter-007-allowances-other-than-travel-and-transportation-allowances.md#section-431), United States Code, as added by paragraph (1), may be delegated in accordance with [section 113(d) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section113/d&num=0&edition=prelim), United States Code.”
 
 [Amendment to section 1302(b)(3) of Pub. L. 99–145 by Pub. L. 100–180 effective Oct. 1, 1986, see section 1314(e)(2) of Pub. L. 100–180, set out as a note under [section 413 of this title](./chapter-007-allowances-other-than-travel-and-transportation-allowances.md#section-413).]
 
@@ -3358,31 +3316,4 @@ Pub. L. 102–484, div. A, title VI, § 623(b), Oct. 23, 1992, 106 Stat. 2423, a
 
 
 <a id="section-495"></a>
-## § 495. Funeral honors duty: allowance
-**(a) Allowance Authorized.—**
-
-(1) The Secretary concerned may authorize payment of an allowance to a member of the Ready Reserve for any day on which the member performs at least two hours of funeral honors duty pursuant to [section 12503 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section12503&num=0&edition=prelim) or [section 115 of title 32](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title32-section115&num=0&edition=prelim).
-
-(2) The Secretary concerned may also authorize payment of that allowance to a member of the armed forces in a retired status for any day on which the member serves in a funeral honors detail under [section 1491 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1491&num=0&edition=prelim), if the time required for service in such detail (including time for preparation) is not less than two hours. The amount of an allowance paid to a member under this paragraph shall be in addition to any other compensation to which the member may be entitled under this title or title 10 or 38.
-
-**(b) Amount.—** The daily rate of an allowance under this section is $50.
-
-**(c) Termination.—** No allowance may be paid under this section for any day after the travel authorities transition expiration date.
-
-### Statutory Notes
-
-#### Amendments
-2011—Pub. L. 112–81, § 631(d)(2), renumbered [section 435 of this title](./chapter-007-allowances-other-than-travel-and-transportation-allowances.md#section-435) as this section.
-
-Subsec. (c). Pub. L. 112–81, § 631(e)(32), added subsec. (c).
-
-2001—Subsec. (a). Pub. L. 107–107 designated existing provisions as par. (1) and added par. (2).
-
-2000—Pub. L. 106–398, § 1 [[div. A], title X, § 1087(c)(1)(A)(i)], made technical amendment to directory language of Pub. L. 106–65, § 578(j), which enacted this section.
-
-Subsec. (c). Pub. L. 106–398, § 1 [[div. A], title V, § 575(b)], struck out heading and text of subsec. (c). Text read as follows: “Except for expenses reimbursed under subsection (c) of [section 12503 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section12503&num=0&edition=prelim) or subsection (c) of [section 115 of title 32](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title32-section115&num=0&edition=prelim), the allowance paid under this section is the only monetary compensation authorized to be paid a member for the performance of funeral honors duty pursuant to such section, regardless of the grade in which the member is serving, and shall constitute payment in full to the member.”
-
-#### Effective Date of 2000 Amendment
-Amendment by section 1 [[div. A], title V, § 575(b)] of Pub. L. 106–398, applicable with respect to funeral honors duty performed on or after Oct. 1, 2000, see section 1 [[div. A], title V, § 575(c)] of Pub. L. 106–398, set out as a note under [section 12503 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section12503&num=0&edition=prelim), Armed Forces.
-
-Pub. L. 106–398, § 1 [[div. A], title X, § 1087(c)(1)], Oct. 30, 2000, 114 Stat. 1654, 1654A–292, provided that the amendment made by that section is effective as of Oct. 5, 1999, and as if included in the National Defense Authorization Act for Fiscal Year 2000, Pub. L. 106–65, as enacted.
+## § 495. Renumbered § 435]

@@ -79,7 +79,7 @@ The court of appeals (other than the United States Court of Appeals for the Fede
 
   (A) the Secretary of Transportation issued pursuant to section 50501, 50502, 56101–56104, or 57109 of title 46 or pursuant to part B or C of subtitle IV, subchapter III of chapter 311, chapter 313, or chapter 315 of title 49; and
 
-  (B) the Federal Maritime Commission issued pursuant to section 305, 41304, 41308, or 41309 or chapter 421 or 441 of title 46;
+  (B) the Federal Maritime Commission issued pursuant to section 305,11 See References in Text note below. 41304, 41308, or 41309 or chapter 421 or 441 of title 46;
 
 (4) all final orders of the Atomic Energy Commission made reviewable by [section 2239 of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2239&num=0&edition=prelim);
 
@@ -105,6 +105,8 @@ In paragraph (1), the word “by” is substituted for “in accordance with”.
 In paragraph (3), the word “now” is omitted as unnecessary. The word “under” is substituted for “pursuant to the provisions of”. Reference to “Federal Maritime Commission” is substituted for “Federal Maritime Board” on authority of 1961 Reorg. Plan No. 7, eff. Aug. 12, 1961, 75 Stat. 840. Reference to the United States Maritime Commission is omitted because that Commission was abolished by 1950 Reorg. Plan No. 21, § 306, eff. May 24, 1951, 64 Stat. 1277, and any existing rights are preserved by technical sections 7 and 8.
 
 #### References in Text
+[Section 305 of title 46](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section305&num=0&edition=prelim), referred to in par. (3)(B), was redesignated [section 46105 of Title 46](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section46105&num=0&edition=prelim), Shipping, by Pub. L. 116–283, div. G, title LVXXXVI, § 8605(a)(3), Jan. 1, 2021, 134 Stat. 4765.
+
 Section 812 of the Fair Housing Act, referred to in par. (6), is classified to [section 3612 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3612&num=0&edition=prelim), The Public Health and Welfare.
 
 #### Amendments

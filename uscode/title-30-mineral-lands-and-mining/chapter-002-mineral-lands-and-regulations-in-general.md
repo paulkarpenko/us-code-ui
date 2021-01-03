@@ -122,11 +122,11 @@ Pub. L. 110–161, which directed the amendment of [section 28 of title 30](./ch
 
 1958—Pub. L. 85–736 changed period for doing annual assessment work on unpatented mineral claims, substituting “1st day of September” for “1st day of July”.
 
-#### Admission of Alaska as State
-Admission of Alaska into the Union was accomplished Jan. 3, 1959, on issuance of Proc. No. 3269, Jan. 3, 1959, 24 F.R. 81, 73 Stat. c16, as required by sections 1 and 8(c) of Pub. L. 85–508, July 7, 1958, 72 Stat. 339, set out as notes preceding [section 21 of Title 48](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title48-section21&num=0&edition=prelim), Territories and Insular Possessions.
-
 #### Assessment Work Years, 1957–58 and 1958–59
 Pub. L. 85–736, § 2, Aug. 23, 1958, 72 Stat. 829, provided that the period commencing in 1957 for the performance of annual assessment work under this section shall end at 12 o’clock meridian on the 1st day of July 1958, and the period commencing in 1958 for the performance of such annual assessment work shall commence at 12 o’clock meridian on the 1st day of July 1958, and shall continue to 12 o’clock meridian on Sept. 1, 1959.
+
+#### Admission of Alaska as State
+Admission of Alaska into the Union was accomplished Jan. 3, 1959, on issuance of Proc. No. 3269, Jan. 3, 1959, 24 F.R. 81, 73 Stat. c16, as required by sections 1 and 8(c) of Pub. L. 85–508, July 7, 1958, 72 Stat. 339, set out as notes preceding [section 21 of Title 48](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title48-section21&num=0&edition=prelim), Territories and Insular Possessions.
 
 
 <a id="section-28a"></a>
@@ -301,11 +301,11 @@ Failure to pay the claim maintenance fee or the location fee as required by sect
 #### Codification
 Pub. L. 111–88, which directed the amendment of [section 28i of title 30](./chapter-002-mineral-lands-and-regulations-in-general.md#section-28i), United States Code, was executed by making the amendment to section 10104 of Pub. L. 103–66, which is classified to this section, to reflect the probable intent of Congress. See 2009 Amendment note below.
 
-#### Similar Provisions
-Similar provisions were contained in Pub. L. 102–381, title I, Oct. 5, 1992, 106 Stat. 1378, 1379.
-
 #### Amendments
 2009—Pub. L. 111–88 substituted “28l” for “28k”. See Codification note above.
+
+#### Similar Provisions
+Similar provisions were contained in Pub. L. 102–381, title I, Oct. 5, 1992, 106 Stat. 1378, 1379.
 
 
 <a id="section-28j"></a>
@@ -641,11 +641,11 @@ Sections 21, 22 to 24, 26 to 28, 29, 30, 33 to 48, 50 to 52, 71 to 76 of this ti
 #### Codification
 R.S. § 2343 derived from act July 26, 1866, ch. 262, § 7, 14 Stat. 252.
 
-#### Delegation of Functions
-For delegation to the Secretary of the Interior of authority vested in the President by this section, see Ex. Ord. No. 10250, June 5, 1951, 16 F.R. 5385, set out as a note under [section 301 of Title 3](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title3-section301&num=0&edition=prelim), The President.
-
 #### Submerged Lands Act
 Provisions of this section as not amended, modified or repealed by the Submerged Lands Act, see [section 1303 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1303&num=0&edition=prelim), Public Lands.
+
+#### Delegation of Functions
+For delegation to the Secretary of the Interior of authority vested in the President by this section, see Ex. Ord. No. 10250, June 5, 1951, 16 F.R. 5385, set out as a note under [section 301 of Title 3](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title3-section301&num=0&edition=prelim), The President.
 
 
 <a id="section-47"></a>
@@ -716,11 +716,11 @@ Section was formerly classified to [section 381 of Title 48](https://uscode.hous
 
 1938—Act May 31, 1938, extended waters subject to exploration and mining for gold to include all water on shores, bays, and inlets of Alaska, and substituted Secretary of the Interior for Secretary of War, among other changes.
 
-#### Admission of Alaska as State
-Admission of Alaska into the Union was accomplished Jan. 3, 1959, on issuance of Proc. No. 3269, Jan. 3, 1959, 24 F.R. 81, 73 Stat. c16, as required by sections 1 and 8(c) of Pub. L. 85–508, July 7, 1958, 72 Stat. 339, set out as notes preceding [section 21 of Title 48](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title48-section21&num=0&edition=prelim), Territories and Insular Possessions.
-
 #### Non-Impairment of Valid Claims and Rights
 Act Aug. 8, 1947, ch. 514, § 2, 61 Stat. 916, provided: “Nothing in this Act [amending this section] shall be deemed to affect or impair any valid claims, rights or privileges, including possessory claims under the first proviso of section 8 of the Act of May 17, 1884 (23 Stat. 26) [[25 U.S.C. 280a](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section280a&num=0&edition=prelim)], arising under any other provision of law.”
+
+#### Admission of Alaska as State
+Admission of Alaska into the Union was accomplished Jan. 3, 1959, on issuance of Proc. No. 3269, Jan. 3, 1959, 24 F.R. 81, 73 Stat. c16, as required by sections 1 and 8(c) of Pub. L. 85–508, July 7, 1958, 72 Stat. 339, set out as notes preceding [section 21 of Title 48](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title48-section21&num=0&edition=prelim), Territories and Insular Possessions.
 
 
 <a id="section-49b"></a>

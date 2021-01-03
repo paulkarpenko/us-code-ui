@@ -461,7 +461,7 @@ The Single Audit Act of 1984, referred to in subsec. (b)(1)(B), is Pub. L. 98–
 The Indian Self-Determination and Education Assistance Act, referred to in subsec. (c)(1)(B)(iv)(I), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which is classified principally to chapter 46 (§ 5301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 5301 of this title](./chapter-046-indian-self-determination-and-education-assistance.md#section-5301) and Tables.
 
 #### Prior Provisions
-A prior section 2505, Pub. L. 100–297, title V, § 5206, Apr. 28, 1988, 102 Stat. 388; Pub. L. 100–427, § 11, Sept. 9, 1988, 102 Stat. 1608; Pub. L. 105–362, title VIII, § 801(d), Nov. 10, 1998, 112 Stat. 3288, related to eligibility for grants, prior to repeal by Pub. L. 107–110, title X, § 1043, Jan. 8, 2002, 115 Stat. 2063. See [section 2504 of this title](./chapter-027-tribally-controlled-school-grants.md#section-2504).
+A prior section 2505, Pub. L. 100–297, title V, § 5206, Apr. 28, 1988, 102 Stat. 388; Pub. L. 100–427, § 11, Sept. 9, 1988, 102 Stat. 1608; Pub. L. 105–362, title VIII, § 801(d), Nov. 10, 1998, 112 Stat. 3288, related to eligibility for grants, prior to repeal by Pub. L. 107–110, title X, § 1043, Jan. 8, 2002, 115 Stat. 2063. See [section 2504 of this title](./chapter-027-tribally-controlled-school-grants.md#section-2504).Q04
 
 #### Effective Date
 Section effective Jan. 8, 2002, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 107–110, set out as a note under [section 6301 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6301&num=0&edition=prelim), Education.
@@ -502,7 +502,7 @@ Section effective Jan. 8, 2002, except with respect to certain noncompetitive pr
 ### Statutory Notes
 
 #### Prior Provisions
-A prior section 2506, Pub. L. 100–297, title V, § 5207, Apr. 28, 1988, 102 Stat. 391; Pub. L. 100–427, § 12, Sept. 9, 1988, 102 Stat. 1608, related to duration of eligibility determination, prior to repeal by Pub. L. 107–110, title X, § 1043, Jan. 8, 2002, 115 Stat. 2063. See [section 2505 of this title](./chapter-027-tribally-controlled-school-grants.md#section-2505).
+A prior section 2506, Pub. L. 100–297, title V, § 5207, Apr. 28, 1988, 102 Stat. 391; Pub. L. 100–427, § 12, Sept. 9, 1988, 102 Stat. 1608, related to duration of eligibility determination, prior to repeal by Pub. L. 107–110, title X, § 1043, Jan. 8, 2002, 115 Stat. 2063. See [section 2505 of this title](./chapter-027-tribally-controlled-school-grants.md#section-2505).Q04
 
 #### Effective Date
 Section effective Jan. 8, 2002, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 107–110, set out as a note under [section 6301 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6301&num=0&edition=prelim), Education.

@@ -2,7 +2,7 @@
 title: 14
 chapter: '21'
 heading: PERSONNEL; OFFICERS
-section_count: 56
+section_count: 58
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14&num=0&edition=prelim
 ---
@@ -24,7 +24,7 @@ source: >-
 
 (3) Original appointments under this section in the grades of ensign through lieutenant shall be made by the President alone.
 
-**(b)** No person shall be appointed a commissioned officer under this section until his mental, moral, physical, and professional fitness to perform the duties of a commissioned officer has been established under such regulations as the Secretary shall prescribe.
+**(b)** No individual shall be appointed a commissioned officer under this section until his mental, moral, physical, and professional fitness to perform the duties of a commissioned officer has been established under such regulations as the Secretary shall prescribe.
 
 **(c)** Appointees under this section shall take precedence in the grade to which appointed in accordance with the dates of their commissions as commissioned officers in such grade. Appointees whose dates of commission are the same shall take precedence with each other as the Secretary shall determine.
 
@@ -33,6 +33,8 @@ source: >-
 ### Statutory Notes
 
 #### Amendments
+2021—Subsec. (b). Pub. L. 116–283 substituted “individual” for “person”.
+
 2018—Pub. L. 115–282 renumbered [section 211 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section211&num=0&edition=prelim) as this section.
 
 2012—Subsec. (d). Pub. L. 112–213 added subsec. (d).
@@ -53,13 +55,15 @@ Pub. L. 88–130, § 5, Sept. 24, 1963, 77 Stat. 193, as amended by Pub. L. 89�
 
 **(b)** Officers shall be carried on the active duty promotion list in the order of seniority of the grades in which they are serving. Officers serving in the same grade shall be carried in the order of their seniority in that grade. The Secretary may correct any erroneous position on the active duty promotion list that was caused by administrative error.
 
-**(c)** A person appointed in the grade of ensign or above in the Regular Coast Guard shall be placed on the active duty promotion list in the order of his date of rank and seniority.
+**(c)** An individual appointed in the grade of ensign or above in the Regular Coast Guard shall be placed on the active duty promotion list in the order of his date of rank and seniority.
 
 **(d)** A Reserve officer, other than one excluded by subsection (a), shall, when he enters on active duty, be placed on the active duty promotion list in accordance with his grade and seniority. The position of such a Reserve officer among other officers of the Coast Guard on active duty who have the same date of rank shall be determined by the Secretary.
 
 ### Statutory Notes
 
 #### Amendments
+2021—Subsec. (c). Pub. L. 116–283 substituted “An individual” for “A person”.
+
 2018—Pub. L. 115–282 renumbered [section 41a of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section41a&num=0&edition=prelim) as this section.
 
 1994—Subsec. (a). Pub. L. 103–337 substituted “[section 12311 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section12311&num=0&edition=prelim)” for “[section 679 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section679&num=0&edition=prelim)”.
@@ -102,7 +106,7 @@ Amendment by Pub. L. 103–337 effective Dec. 1, 1994, except as otherwise provi
 
 (2) **Rounding fractions.—** — Subject to subsection (a), in making the computations under paragraph (1), any fraction shall be rounded to the nearest whole number.
 
-(3) **Treatment of officers serving outside coast guard.—** — The number of commissioned officers on the active duty promotion list below the rank of rear admiral (lower half) serving with other Federal departments or agencies on a reimbursable basis or excluded under [section 324(d) of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section324/d&num=0&edition=prelim) shall not be counted against the total number of commissioned officers authorized to serve in each grade.
+(3) **Treatment of officers serving outside coast guard.—** — The number of commissioned officers on the active duty promotion list below the rank of vice admiral serving with other Federal departments or agencies on a reimbursable basis or excluded under [section 324(d) of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section324/d&num=0&edition=prelim) shall not be counted against the total number of commissioned officers authorized to serve in each grade.
 
 **(d) Use of Numbers; Temporary Increases.—** The numbers resulting from computations under subsection (c) shall be, for all purposes, the authorized number in each grade; except that the authorized number for a grade is temporarily increased during the period between one computation and the next by the number of officers originally appointed in that grade during that period and the number of officers of that grade for whom vacancies exist in the next higher grade but whose promotion has been delayed for any reason.
 
@@ -116,6 +120,8 @@ Based on title 14, U.S.C., 1946 ed., § 6a (July 23, 1947, ch. 301, § 1, 61 Sta
 The only change is in phraseology in the second sentence, it being necessary to include the extra numbers authorized by the act of July 23, 1947, in the figure given as the present number of extra numbers in the Coast Guard. 81st Congress, House Report No. 557.
 
 #### Amendments
+2021—Subsec. (c)(3). Pub. L. 116–283 substituted “vice admiral” for “rear admiral (lower half)”.
+
 2018—Pub. L. 115–282 renumbered [section 42 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section42&num=0&edition=prelim) as this section.
 
 2014—Subsec. (a). Pub. L. 113–281 substituted “6,900” for “7,200”.
@@ -164,7 +170,7 @@ Amendment by Pub. L. 92–451 effective Oct. 2, 1972, except that continuation b
 
 (2) in the Coast Guard Reserve in a grade, not above lieutenant, appropriate to their qualifications, experience, and length of service, as the needs of the Coast Guard may require, from among the commissioned warrant officers of the Coast Guard Reserve.
 
-**(b)** Temporary appointments under this section do not change the permanent, probationary, or acting status of persons so appointed, prejudice them in regard to promotion or appointment, or abridge their rights or benefits. A person who is appointed under this section may not suffer any reduction in the rate of pay and allowances to which he would have been entitled had he remained in his former grade and continued to receive the increases in pay and allowances authorized for that grade.
+**(b)** Temporary appointments under this section do not change the permanent, probationary, or acting status of individuals so appointed, prejudice them in regard to promotion or appointment, or abridge their rights or benefits. An individual who is appointed under this section may not suffer any reduction in the rate of pay and allowances to which he would have been entitled had he remained in his former grade and continued to receive the increases in pay and allowances authorized for that grade.
 
 **(c)** An appointment under this section, or a subsequent promotion appointment of a temporary officer, may be vacated by the appointing officer at any time. Each officer whose appointment is so vacated shall revert to his permanent status.
 
@@ -173,6 +179,8 @@ Amendment by Pub. L. 92–451 effective Oct. 2, 1972, except that continuation b
 ### Statutory Notes
 
 #### Amendments
+2021—Subsec. (b). Pub. L. 116–283 substituted “individuals” for “persons” and “An individual” for “A person”.
+
 2018—Pub. L. 115–282 renumbered [section 214 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section214&num=0&edition=prelim) as this section.
 
 2010—Subsec. (a). Pub. L. 111–281 amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “The President may appoint temporary commissioned officers in the Regular Coast Guard in a grade, not above lieutenant, appropriate to their qualifications, experience, and length of service, as the needs of the Coast Guard may require, from among the commissioned warrant officers, warrant officers, and enlisted members of the Coast Guard, and from licensed officers of the United States merchant marine.”
@@ -256,11 +264,13 @@ Pub. L. 115–282, § 112(b), renumbered [section 252 of this title](https://usc
 ## § 2108. Selection boards; notice of convening; communication with board
 **(a)** Before a board is convened under [section 2106 of this title](./chapter-021-personnel-officers.md#section-2106), notice of the convening date, the promotion zone to be considered, and the officers eligible for consideration shall be given to the service at large.
 
-**(b)** Each officer eligible for consideration by a selection board convened under [section 2106 of this title](./chapter-021-personnel-officers.md#section-2106) may send a communication through official channels to the board, to arrive not later than the date the board convenes, inviting attention to any matter of record in the armed forces concerning himself. A communication sent under this section may not criticize any officer or reflect upon the character, conduct, or motive of any officer.
+**(b)** Each officer eligible for consideration by a selection board convened under [section 2106 of this title](./chapter-021-personnel-officers.md#section-2106) may send a communication through official channels to the board, to arrive not later than the date the board convenes, inviting attention to any matter of record in the armed forces concerning such officer. A communication sent under this section may not criticize any officer or reflect upon the character, conduct, or motive of any officer.
 
 ### Statutory Notes
 
 #### Amendments
+2021—Subsec. (b). Pub. L. 116–283 substituted “such officer” for “himself”.
+
 2018—Pub. L. 115–282, § 112(b), renumbered [section 253 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section253&num=0&edition=prelim) as this section.
 
 Subsecs. (a), (b). Pub. L. 115–282, § 123(b)(2), substituted “section 2106” for “section 251”.
@@ -370,9 +380,23 @@ For the purposes of this chapter, “promotion year” means the period which co
 
 **(f)** The Secretary may waive subsection (a) to the extent necessary to allow officers described therein to have at least two opportunities for consideration for promotion to the next higher grade as officers below the promotion zone.
 
+**(g)**
+
+(1) Notwithstanding subsection (a), the Commandant may provide that an officer may, upon the officer’s request and with the approval of the Commandant, be excluded from consideration by a selection board convened under section 2106.
+
+(2) The Commandant shall approve a request under paragraph (1) only if—
+
+  (A) the basis for the request is to allow the officer to complete a broadening assignment, advanced education, another assignment of significant value to the Coast Guard, a career progression requirement delayed by the assignment or education, or a qualifying personal or professional circumstance, as determined by the Commandant;
+
+  (B) the Commandant determines the exclusion from consideration is in the best interest of the Coast Guard; and
+
+  (C) the officer has not previously failed of selection for promotion to the grade for which the officer requests the exclusion from consideration.
+
 ### Statutory Notes
 
 #### Amendments
+2021—Subsec. (g). Pub. L. 116–283 added subsec. (g).
+
 2018—Pub. L. 115–282, § 112(b), renumbered [section 257 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section257&num=0&edition=prelim) as this section.
 
 Subsec. (b). Pub. L. 115–282, § 123(b)(2), substituted “section 2125” for “section 275”.
@@ -499,11 +523,13 @@ Subsec. (b). Pub. L. 115–282, § 123(b)(2), substituted “section 2106” for
 
 **(c)** Upon approval by the President the names of officers selected for promotion by a board convened under [section 2106 of this title](./chapter-021-personnel-officers.md#section-2106) shall be promptly disseminated to the service at large.
 
-**(d)** Except as required by this section, the proceedings of a selection board, including a special selection board convened under section 2120, shall not be disclosed to any person not a member of the board.
+**(d)** Except as required by this section, the proceedings of a selection board, including a special selection board convened under section 2120, shall not be disclosed to any individual who is not a member of the board.
 
 ### Statutory Notes
 
 #### Amendments
+2021—Subsec. (d). Pub. L. 116–283 substituted “individual who is” for “person”.
+
 2018—Pub. L. 115–282, § 112(b), renumbered [section 261 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section261&num=0&edition=prelim) as this section.
 
 Subsecs. (a), (c). Pub. L. 115–282, § 123(b)(2), substituted “section 2106” for “section 251”.
@@ -820,6 +846,118 @@ Subsec. (a). Pub. L. 115–282, § 313, inserted “designated under section 231
 1976—Subsec. (a). Pub. L. 94–546 substituted reference to [section 2003 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2003&num=0&edition=prelim) for reference to [section 6023(b) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section6023/b&num=0&edition=prelim).
 
 
+<a id="section-2130"></a>
+## § 2130. Promotion to certain grades for officers with critical skills: captain, commander, lieutenant commander, lieutenant
+**(a) In General.—** An officer in the grade of lieutenant (junior grade), lieutenant, lieutenant commander, or commander who is described in subsection (b) may be temporarily promoted to the grade of lieutenant, lieutenant commander, commander, or captain under regulations prescribed by the Secretary. Appointments under this section shall be made by the President, by and with the advice and consent of the Senate.
+
+**(b) Covered Officers.—** An officer described in this subsection is any officer in a grade specified in subsection (a) who—
+
+(1) has a skill in which the Coast Guard has a critical shortage of personnel (as determined by the Secretary); and
+
+(2) is serving in a position (as determined by the Secretary) that—
+
+  (A) is designated to be held by a lieutenant, lieutenant commander, commander, or captain; and
+
+  (B) requires that an officer serving in such position have the skill possessed by such officer.
+
+**(c) Preservation of Position and Status of Officers Appointed.—**
+
+(1) The temporary positions authorized under this section shall not be counted among or included in the list of positions on the active duty promotion list.
+
+(2) An appointment under this section does not change the position on the active duty list or the permanent, probationary, or acting status of the officer so appointed, prejudice the officer in regard to other promotions or appointments, or abridge the rights or benefits of the officer.
+
+**(d) Board Recommendation Required.—** A temporary promotion under this section may be made only upon the recommendation of a board of officers convened by the Secretary for the purpose of recommending officers for such promotions.
+
+**(e) Acceptance and Effective Date of Appointment.—** Each appointment under this section, unless expressly declined, is, without formal acceptance, regarded as accepted on the date such appointment is made, and a member so appointed is entitled to the pay and allowances of the grade of the temporary promotion under this section beginning on the date the appointment is made.
+
+**(f) Termination of Appointment.—** Unless sooner terminated, an appointment under this section terminates—
+
+(1) on the date the officer who received the appointment is promoted to the permanent grade of lieutenant, lieutenant commander, commander, or captain;
+
+(2) on the date the officer is detached from a position described in subsection (b)(2), unless the officer is on a promotion list to the permanent grade of lieutenant, lieutenant commander, commander, or captain, in which case the appointment terminates on the date the officer is promoted to that grade;
+
+(3) when the appointment officer determines that the officer who received the appointment has engaged in misconduct or has displayed substandard performance; or
+
+(4) when otherwise determined by the Commandant to be in the best interests of the Coast Guard.
+
+**(g) Limitation on Number of Eligible Positions.—** An appointment under this section may only be made for service in a position designated by the Secretary for the purposes of this section. The number of positions so designated may not exceed the following percentages of the respective grades:
+
+(1) As lieutenant, 0.5 percent.
+
+(2) As lieutenant commander, 3.0 percent.
+
+(3) As commander, 2.6 percent.
+
+(4) As captain, 2.6 percent.
+
+
+<a id="section-2131"></a>
+## § 2131. College student pre-commissioning initiative
+**(a) In General.—** There is authorized within the Coast Guard a college student pre-commissioning initiative program (in this section referred to as the “Program” ) for eligible undergraduate students to enlist and receive a guaranteed commission as an officer in the Coast Guard.
+
+**(b) Criteria for Selection.—** To be eligible for the Program a student must meet the following requirements upon submitting an application:
+
+(1) **Age.—** — A student must be not less than 19 years old and not more than 27 years old as of September 30 of the fiscal year in which the Program selection panel selecting such student convenes.
+
+(2) **Character.—**
+
+  (A) *All applicants.—* — All applicants must be of outstanding moral character and meet other character requirements as set forth by the Commandant.
+
+  (B) *Coast guard applicants.—* — An applicant serving in the Coast Guard may not be commissioned if in the 36 months prior to the first Officer Candidate School class convening date in the selection cycle, such applicant was convicted by a court-martial or awarded nonjudicial punishment, or did not meet performance or character requirements set forth by the Commandant.
+
+(3) **Citizenship.—** — A student must be a United States citizen.
+
+(4) **Clearance.—** — A student must be eligible for a secret clearance.
+
+(5) **Dependency.—**
+
+  (A) *In general.—* — A student may not have more than 2 dependents.
+
+  (B) *Sole custody.—* — A student who is single may not have sole or primary custody of dependents.
+
+(6) **Education.—**
+
+  (A) *Institution.—* — A student must be an undergraduate sophomore or junior—
+
+    (i) at a historically Black college or university described in section 322(2) of the Higher Education Act of 1965 ([20 U.S.C. 1061(2)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1061/2&num=0&edition=prelim)) or an institution of higher education described in section 371(a) of the Higher Education Act of 1965 ([20 U.S.C. 1067q(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1067q/a&num=0&edition=prelim)); or
+
+    (ii) an undergraduate sophomore or junior enrolled at an institution of higher education (as defined in section 101 of the Higher Education Act of 1965 ([20 U.S.C. 1001](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1001&num=0&edition=prelim))) that, at the time of application of the sophomore or junior, has had for 3 consecutive years an enrollment of undergraduate full-time equivalent students (as defined in section 312(e) of such Act ([20 U.S.C. 1058(e)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1058/e&num=0&edition=prelim))) that is a total of at least 50 percent Black American, Hispanic, Asian American (as defined in section 371(c) of such Act ([20 U.S.C. 1067q(c)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1067q/c&num=0&edition=prelim))), Native American Pacific Islander (as defined in such section), or Native American (as defined in such section), among other criteria, as determined by the Commandant.
+
+  (B) *Location.—* — The institution at which such student is an undergraduate must be within 100 miles of a Coast guard 11 So in original. Probably should be “Guard”. unit or Coast Guard Recruiting Office unless otherwise approved by the Commandant.
+
+  (C) *Records.—* — A student must meet credit and grade point average requirements set forth by the Commandant.
+
+(7) **Medical and administrative.—** — A student must meet other medical and administrative requirements as set forth by the Commandant.
+
+**(c) Enlistment and Obligation.—** Individuals selected and accept to participate in the Program shall enlist in the Coast Guard in pay grade E–3 with a 4-year duty obligation and 4-year inactive Reserve obligation.
+
+**(d) Military Activities Prior to Officer Candidate School.—** Individuals enrolled in the Program shall participate in military activities each month, as required by the Commandant, prior to attending Officer Candidate School.
+
+**(e) Participation in Officer Candidate School.—** Each graduate of the Program shall attend the first enrollment of Officer Candidate School that commences after the date of such graduate’s graduation.
+
+**(f) Commissioning.—** Upon graduation from Officer Candidate School, Program graduates shall be discharged from enlisted status and commissioned as an O–1 with an initial 3-year duty obligation.
+
+**(g) Briefing.—**
+
+(1) **In general.—** — Not later than August 15 of each year, the Commandant shall provide a briefing to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate on the Program.
+
+(2) **Contents.—** — The briefing required under paragraph (1) shall describe—
+
+  (A) outreach and recruitment efforts over the previous year; and
+
+  (B) demographic information of enrollees including—
+
+    (i) race;
+
+    (ii) ethnicity;
+
+    (iii) gender;
+
+    (iv) geographic origin; and
+
+    (v) educational institution.
+
+
 <a id="section-2141"></a>
 ## § 2141. Revocation of commissions during first five years of commissioned service
 
@@ -1018,11 +1156,13 @@ Pub. L. 107–295, title IV, § 416(c), Nov. 25, 2002, 116 Stat. 2122, provided 
 
 **(c)** In determining a member’s years of active service for the purpose of computing separation pay under this section, each full month of service that is in addition to the number of full years of service creditable to the member is counted as one-twelfth of a year and any remaining fractional part of a month is disregarded.
 
-**(d)** The acceptance of separation pay under this section does not deprive a person of any retirement benefits from the United States. However, there shall be deducted from each of his retirement payments so much thereof as is based on the service for which he has received separation pay under this section, until the total deductions equal the amount of such separation pay.
+**(d)** The acceptance of separation pay under this section does not deprive an individual of any retirement benefits from the United States. However, there shall be deducted from each of his retirement payments so much thereof as is based on the service for which he has received separation pay under this section, until the total deductions equal the amount of such separation pay.
 
 ### Statutory Notes
 
 #### Amendments
+2021—Subsec. (d). Pub. L. 116–283 substituted “an individual” for “a person”.
+
 2018—Pub. L. 115–282 renumbered [section 286a of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section286a&num=0&edition=prelim) as this section.
 
 2012—Subsec. (d). Pub. L. 112–213 substituted “separation pay” for “severance pay” wherever appearing.
@@ -1117,7 +1257,7 @@ Savings provisions in section 5(f)–(h) of Pub. L. 88–130 relating to retirem
 
 **(e)** The Secretary shall prescribe by regulation the detailed procedures whereby officers in a continuation zone will be selected for continuation on active duty.
 
-**(f)** A board convened under this section shall submit its report to the Secretary. If the board has acted contrary to law or regulation, the Secretary may return the report for proceedings in revision and resubmission to the Secretary. After his final review the Secretary shall submit the report of the board to the President for his approval. Except as required by the procedures of this section, the proceedings of the board shall not be disclosed to any person not a member of the board.
+**(f)** A board convened under this section shall submit its report to the Secretary. If the board has acted contrary to law or regulation, the Secretary may return the report for proceedings in revision and resubmission to the Secretary. After his final review the Secretary shall submit the report of the board to the President for his approval. Except as required by the procedures of this section, the proceedings of the board shall not be disclosed to any individual who is not a member of the board.
 
 **(g)** Each officer who is considered but not recommended for continuation on active duty under the provisions of this section shall, unless retired under some other provision of law, be retired on June 30 of the promotion year in which the report of the continuation board convened under this section is approved, or the last day of the month in which he completes twenty years of active service, whichever is later.
 
@@ -1126,6 +1266,8 @@ Savings provisions in section 5(f)–(h) of Pub. L. 88–130 relating to retirem
 ### Statutory Notes
 
 #### Amendments
+2021—Subsec. (f). Pub. L. 116–283 substituted “individual who is” for “person”.
+
 2018—Pub. L. 115–282, § 112(b), renumbered [section 289 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section289&num=0&edition=prelim) as this section.
 
 Subsec. (a). Pub. L. 115–282, § 123(b)(2), substituted “section 2149” for “section 288”.
@@ -1247,11 +1389,13 @@ Savings provisions in section 5(g) of Pub. L. 88–130 providing that Pub. L. 88
 <a id="section-2152"></a>
 ## § 2152. Voluntary retirement after twenty years’ service
 
-Any regular commissioned officer who has completed twenty years’ active service in the Coast Guard, Navy, Army, Air Force, or Marine Corps, or the Reserve components thereof, including active duty for training, at least ten years of which shall have been active commissioned service, may, upon his own application, in the discretion of the President, be retired from active service.
+Any regular commissioned officer who has completed twenty years’ active service in the Coast Guard, Navy, Army, Air Force, Marine Corps, or Space Force, or the Reserve components thereof, including active duty for training, at least ten years of which shall have been active commissioned service, may, upon his own application, in the discretion of the President, be retired from active service.
 
 ### Statutory Notes
 
 #### Amendments
+2021—Pub. L. 116–283 substituted “Marine Corps, or Space Force” for “or Marine Corps”.
+
 2018—Pub. L. 115–282 renumbered [section 291 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section291&num=0&edition=prelim) as this section.
 
 1986—Pub. L. 99–348 struck out “, with retired pay of the grade with which retired” after “from active service”.
@@ -1349,7 +1493,7 @@ The Secretary may at any time convene a board of officers to review the record o
 ### Statutory Notes
 
 #### Amendments
-2018—Pub. L. 115–282 renumbered [section 321 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section321&num=0&edition=prelim) as this section.
+2018—Pub. L. 115–282 renumbered [section 321 of this title](./chapter-003-composition-and-organization.md#section-321) as this section.
 
 
 <a id="section-2159"></a>
@@ -1365,7 +1509,7 @@ The Secretary may at any time convene a board of officers to review the record o
 ### Statutory Notes
 
 #### Amendments
-2018—Pub. L. 115–282, § 112(b), renumbered [section 322 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section322&num=0&edition=prelim) as this section.
+2018—Pub. L. 115–282, § 112(b), renumbered [section 322 of this title](./chapter-003-composition-and-organization.md#section-322) as this section.
 
 Subsecs. (a), (d). Pub. L. 115–282, § 123(b)(2), substituted “section 2158” for “section 321”.
 
@@ -1394,11 +1538,13 @@ Subsec. (c). Pub. L. 115–282, § 123(b)(2), substituted “section 2158” for
 ## § 2161. Composition of boards
 **(a)** A board convened under section 2158, 2159, or 2160 of this title shall consist of at least three officers of the grade of commander or above, all of whom are serving in a grade senior to the grade of any officer considered by the board.
 
-**(b)** No person may be a member of more than one board convened under section 2158, 2159, or 2160 of this title to consider the same officer.
+**(b)** No individual may be a member of more than one board convened under section 2158, 2159, or 2160 of this title to consider the same officer.
 
 ### Statutory Notes
 
 #### Amendments
+2021—Subsec. (b). Pub. L. 116–283 substituted “individual” for “person”.
+
 2018—Pub. L. 115–282, § 123(b)(2), substituted “section 2158, 2159, or 2160” for “section 321, 322, or 323” in subsecs. (a) and (b).
 
 Pub. L. 115–282, § 112(b), renumbered [section 324 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section324&num=0&edition=prelim) as this section.
@@ -1467,13 +1613,13 @@ Subsec. (b)(2). Pub. L. 115–282, § 123(b)(2), substituted “section 2146(c)�
 
 2002—Pub. L. 107–295, § 416(a)(5)(A), substituted “separation” for “severance” in section catchline.
 
-Subsec. (a)(2). Pub. L. 107–295, § 416(a)(5)(B), added par. (2) and struck out former par. (2) which read as follows: “for honorable discharge with severance benefits under subsection (b) in those cases arising under clause (1) of [section 321 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section321&num=0&edition=prelim); or”.
+Subsec. (a)(2). Pub. L. 107–295, § 416(a)(5)(B), added par. (2) and struck out former par. (2) which read as follows: “for honorable discharge with severance benefits under subsection (b) in those cases arising under clause (1) of [section 321 of this title](./chapter-003-composition-and-organization.md#section-321); or”.
 
-Subsec. (a)(3). Pub. L. 107–295, § 416(a)(5)(C), struck out par. (3) which read as follows: “for discharge with severance benefits under subsection (b) in those cases arising under clause (2) of [section 321 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section321&num=0&edition=prelim).”
+Subsec. (a)(3). Pub. L. 107–295, § 416(a)(5)(C), struck out par. (3) which read as follows: “for discharge with severance benefits under subsection (b) in those cases arising under clause (2) of [section 321 of this title](./chapter-003-composition-and-organization.md#section-321).”
 
-Subsec. (b)(2). Pub. L. 107–295, § 416(a)(5)(D), added par. (2) and struck out former par. (2) which read as follows: “if on that date the officer is ineligible for voluntary retirement under any law, be honorably discharged in the grade then held with severance pay computed by multiplying his years of active commissioned service, but not more than twelve, by one month’s basic pay of that grade, in those cases arising under clause (1) of [section 321 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section321&num=0&edition=prelim); or”.
+Subsec. (b)(2). Pub. L. 107–295, § 416(a)(5)(D), added par. (2) and struck out former par. (2) which read as follows: “if on that date the officer is ineligible for voluntary retirement under any law, be honorably discharged in the grade then held with severance pay computed by multiplying his years of active commissioned service, but not more than twelve, by one month’s basic pay of that grade, in those cases arising under clause (1) of [section 321 of this title](./chapter-003-composition-and-organization.md#section-321); or”.
 
-Subsec. (b)(3). Pub. L. 107–295, § 416(a)(5)(E), struck out par. (3) which read as follows: “if on that date the officer is ineligible for voluntary retirement under any law, be discharged in the grade then held with severance pay computed by multiplying his years of active commissioned service, but not more than twelve, by one month’s basic pay of that grade, in those cases arising under clause (2) of [section 321 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section321&num=0&edition=prelim), unless the Secretary determines that the conditions under which the officer is discharged or separated do not warrant payment of that amount of severance pay.”
+Subsec. (b)(3). Pub. L. 107–295, § 416(a)(5)(E), struck out par. (3) which read as follows: “if on that date the officer is ineligible for voluntary retirement under any law, be discharged in the grade then held with severance pay computed by multiplying his years of active commissioned service, but not more than twelve, by one month’s basic pay of that grade, in those cases arising under clause (2) of [section 321 of this title](./chapter-003-composition-and-organization.md#section-321), unless the Secretary determines that the conditions under which the officer is discharged or separated do not warrant payment of that amount of severance pay.”
 
 1998—Subsec. (b)(3). Pub. L. 105–383 inserted before period at end “, unless the Secretary determines that the conditions under which the officer is discharged or separated do not warrant payment of that amount of severance pay”.
 

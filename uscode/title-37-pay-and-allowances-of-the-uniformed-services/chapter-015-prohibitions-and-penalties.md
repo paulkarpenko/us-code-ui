@@ -17,7 +17,7 @@ Section, Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 485; Pub. L. 89–718, §§ 4
 <a id="section-802"></a>
 ## § 802. Forfeiture of pay during absence from duty due to disease from intemperate use of alcohol or drugs
 
-A member of the Army, Navy, Air Force, or Marine Corps, on active duty who is absent from his regular duties for a continuous period of more than one day because of disease that is directly caused by and immediately follows his intemperate use of alcoholic liquor or habit-forming drugs is not entitled to pay for the period of that absence. However, a member whose pay is forfeited for more than one month is entitled to $5 for personal expenses for each full month that his pay is forfeited. Determinations of periods and causes of absence under this section shall be made as prescribed by the Secretary concerned, and are final.
+A member of the Army, Navy, Air Force, Marine Corps, or Space Force, on active duty who is absent from the member’s regular duties for a continuous period of more than one day because of disease that is directly caused by and immediately follows the member’s intemperate use of alcoholic liquor or habit-forming drugs is not entitled to pay for the period of that absence. However, a member whose pay is forfeited for more than one month is entitled to $5 for personal expenses for each full month that the member’s pay is forfeited. Determinations of periods and causes of absence under this section shall be made as prescribed by the Secretary concerned, and are final.
 
 ### Statutory Notes
 
@@ -30,11 +30,14 @@ A member of the Army, Navy, Air Force, or Marine Corps, on active duty who is ab
 
 The words “Navy . . . or Marine Corps” are substituted for the words “naval service”, in [section 6111 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section6111&num=0&edition=prelim), to conform to the definition of that term in [section 5001(a)(3) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section5001/a/3&num=0&edition=prelim). The words “and conclusive” are omitted as surplusage.
 
+#### Amendments
+2021—Pub. L. 116–283 substituted “Marine Corps, or Space Force” for “or Marine Corps” and substituted “the member’s” for “his” wherever appearing.
+
 
 <a id="section-803"></a>
-## § 803. Commissioned officers of Army or Air Force: forfeiture of pay when dropped from rolls
+## § 803. Commissioned officers of the Army, Air Force, or Space Force: forfeiture of pay when dropped from rolls
 
-A commissioned officer of the Army or the Air Force who is dropped from the rolls under [section 1161(b) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1161/b&num=0&edition=prelim) for absence without authority for three months forfeits all pay due or to become due.
+A commissioned officer of the Army, the Air Force, or the Space Force who is dropped from the rolls under [section 1161(b) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1161/b&num=0&edition=prelim) for absence without authority for three months forfeits all pay due or to become due.
 
 ### Statutory Notes
 
@@ -42,6 +45,9 @@ A commissioned officer of the Army or the Air Force who is dropped from the roll
 | --- | --- | --- |
 | Revised section | Source (U.S. Code) | Source (Statutes at Large) |
 | 803 | 10:3633. 10:8633. | [None.] [None.] |
+
+#### Amendments
+2021—Pub. L. 116–283 substituted “Commissioned officers of the Army, Air Force, or Space Force: forfeiture of pay when dropped from rolls” for “Commissioned officers of Army or Air Force: forfeiture of pay when dropped from rolls” in section catchline and “, the Air Force, or the Space Force” for “or the Air Force” in text.
 
 
 <a id="section-804"></a>

@@ -132,7 +132,7 @@ The change is necessary to make subsection (d) coextensive with subsection (c), 
 
 Subsec. (c). Pub. L. 115–232, § 516(2), inserted “of the reserve components” after “among the members” and struck out “not on active duty” before period at end.
 
-1994—Pub. L. 103–337 renumbered [section 3021 of this title](./chapter-203-general-matters.md#section-3021) as this section.
+1994—Pub. L. 103–337 renumbered [section 3021 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section3021&num=0&edition=prelim) as this section.
 
 1986—Pub. L. 99–433, § 501(a)(8)(C), renumbered [section 3033 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section3033&num=0&edition=prelim) as this section, and substituted “Army Reserve Forces Policy Committee” for “Reserve components of Army; policies and regulations for government of” in section catchline.
 

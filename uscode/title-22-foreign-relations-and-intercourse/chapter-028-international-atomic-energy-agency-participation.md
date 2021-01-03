@@ -44,11 +44,11 @@ Pub. L. 107–228, div. B, title XIII, § 1344, Sept. 30, 2002, 116 Stat. 1452, 
 #### Opposition to Certain Programs or Projects; Reporting Requirements
 Pub. L. 105–277, div. G, subdiv. B, title XXVIII, § 2809(b), (c), Oct. 21, 1998, 112 Stat. 2681–850, provided that: “(b) Opposition to Certain Programs or Projects.—The Secretary of State shall direct the United States representative to the International Atomic Energy Agency to oppose the following:“(1) Technical assistance programs or projects of the Agency at the Juragua Nuclear Power Plant near Cienfuegos, Cuba, and at the Pedro Pi Nuclear Research Center. “(2) Any other program or project of the Agency in Cuba that is, or could become, a threat to the security of the United States. “(c) Reporting Requirements.—“(1) Request for iaea reports.—The Secretary of State shall direct the United States representative to the International Atomic Energy Agency to request the Director-General of the Agency to submit to the United States all reports prepared with respect to all programs or projects of the Agency that are of concern to the United States, including the programs or projects described in subsection (b). “(2) Annual reports to the congress.—Not later than 180 days after the date of the enactment of this Act [Oct. 21, 1998], and on an annual basis thereafter, the Secretary of State, in consultation with the United States representative to the International Atomic Energy Agency, shall prepare and submit to the Congress a report containing a description of all programs or projects of the Agency in each country described in section 307(a) of the Foreign Assistance Act of 1961 ([22 U.S.C. 2227(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2227/a&num=0&edition=prelim)).”
 
-#### Privileges, Exemptions, and Immunities
-Entitlement of Agency to privileges, exemptions, and immunities as an international organization, see note set out under [section 288 of this title](./chapter-007-international-bureaus-congresses-etc.md#section-288).
-
 #### Termination of Authority Under This Section
 Authority under this section to terminate if Senate refuses its advice and consent by a formal vote to an amendment to the Statute of the Agency, see [section 2026 of this title](./chapter-028-international-atomic-energy-agency-participation.md#section-2026).
+
+#### Privileges, Exemptions, and Immunities
+Entitlement of Agency to privileges, exemptions, and immunities as an international organization as designated by Ex. Ord. No. 10727, Aug. 31, 1957, 22 F.R. 7099, see note set out under [section 288 of this title](./chapter-007-international-bureaus-congresses-etc.md#section-288).
 
 
 <a id="section-2022"></a>

@@ -80,11 +80,11 @@ The Bankhead-Jones Farm Tenant Act, referred to in text, is act July 22, 1937, c
 #### Amendments
 1961—Pub. L. 87–353 struck out “the Federal Farm Mortgage Corporation Act,” after “the Emergency Farm Mortgage Act of 1933,”.
 
-#### Abolition of Reconstruction Finance Corporation
-The Reconstruction Finance Corporation, which was created by the Reconstruction Finance Corporation Act, referred to in this section, was abolished by section 6(a) of Reorg. Plan No. 1 of 1957, eff. June 30, 1957, 22 F.R. 4633, 71 Stat. 647, set out in the Appendix to Title 5, Government Organization and Employees.
-
 #### Abolition of Home Owners’ Loan Corporation
 The Home Owners’ Loan Corporation, which was created by the Home Owners’ Loan Act of 1933, referred to in this section, was dissolved and abolished by act June 30, 1953, ch. 170, § 21, 67 Stat. 126, set out in note under [section 1463 of Title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1463&num=0&edition=prelim), Banks and Banking.
+
+#### Abolition of Reconstruction Finance Corporation
+The Reconstruction Finance Corporation, which was created by the Reconstruction Finance Corporation Act, referred to in this section, was abolished by section 6(a) of Reorg. Plan No. 1 of 1957, eff. June 30, 1957, 22 F.R. 4633, 71 Stat. 647, set out in the Appendix to Title 5, Government Organization and Employees.
 
 
 <a id="section-434"></a>
@@ -251,6 +251,9 @@ The minimum punishment provision “for a term of not less than one nor” was o
 Mandatory punishment provision was rephrased in the alternative.
 
 The offense described in this section involves no moral turpitude, and therefore the punishment provisions were reduced from 5 years to 1 year, so that the stigma of a felony would not attach to an offender. The fine was increased from $500 to $1,000 as more proportionate to the 1-year term of imprisonment. (See classification of felony and misdemeanor in [section 1 of this title](./chapter-001-general-provisions.md#section-1) and note thereunder.)
+
+#### References in Text
+The Ethics in Government Act of 1978, referred to in subsec. (b)(3), is Pub. L. 95–521, Oct. 26, 1978, 92 Stat. 1824. For complete classification of this Act to the Code, see Short Title note set out under section 101 of Pub. L. 95–521 in the Appendix to Title 5, Government Organization and Employees, and Tables.
 
 #### Amendments
 2019—Pub. L. 116–78 amended section generally. Prior to amendment, text read as follows:

@@ -653,11 +653,19 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 ### Statutory Notes
 
+#### Amendment of Section
+Pub. L. 116–283, div. A, title XVIII, §§ 1801(d), 1883(b)(2), Jan. 1, 2021, 134 Stat. 4151, 4294, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, except as otherwise provided in title XVIII of Pub. L. 116–283, in title 10, United States Code, each reference in the text of such title to a source section that is redesignated by title XVIII of Pub. L. 116–283, is amended by striking such reference and inserting a reference to the appropriate section as so redesignated. See 2021 Amendment note below.
+
 #### Prior Provisions
 A prior section 8633, act Aug. 10, 1946, ch. 1041, 70A Stat. 532, provided for forfeiture of pay when dropped from rolls, prior to repeal by Pub. L. 87–649, § 14c(55), Sept. 7, 1962, 76 Stat. 502, effective Nov. 1, 1962. See [section 803 of Title 37](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section803&num=0&edition=prelim), Pay and Allowances of the Uniformed Services.
 
 #### Amendments
+2021—Subsec. (g)(1). Pub. L. 116–283 substituted “subsection (b)(2) of section 3672 and section 3675” for “subsections (e)(2) and (f) of section 2401”.
+
 2018—Pub. L. 115–232 renumbered [section 7233 of this title](./chapter-725-rank-and-command.md#section-7233) as this section.
+
+#### Effective Date of 2021 Amendment
+Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
 
 #### Effective Date of 2018 Amendment
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).

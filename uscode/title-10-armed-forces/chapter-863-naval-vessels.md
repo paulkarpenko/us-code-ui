@@ -2,7 +2,7 @@
 title: 10
 chapter: '863'
 heading: NAVAL VESSELS
-section_count: 31
+section_count: 36
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10&num=0&edition=prelim
 ---
@@ -245,6 +245,93 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 For delegation of authority of President under subsec. (a) of this section, see section 2 of Ex. Ord. No. 12765, June 11, 1991, 56 F.R. 27401, set out as a note under [section 113 of this title](./chapter-002-department-of-defense.md#section-113).
 
 
+<a id="section-8669b"></a>
+## § 8669b. Senior Technical Authority for each naval vessel class
+**(a) Senior Technical Authority.—**
+
+(1) **Designation for each vessel class required.—** — The Secretary of the Navy shall designate, in writing, a Senior Technical Authority for each class of naval vessels as follows:
+
+  (A) In the case of a class of vessels which has received Milestone A approval, an approval to enter into technology maturation and risk reduction, or an approval to enter into a subsequent Department of Defense or Department of the Navy acquisition phase as of the date of the enactment of the National Defense Authorization Act for Fiscal Year 2020, not later than 30 days after such date of enactment.
+
+  (B) In the case of any class of vessels which has not received any approval described in subparagraph (A) as of such date of enactment, at or before the first of such approvals.
+
+(2) **Individuals eligible for designation.—** — Each individual designated as a Senior Technical Authority under paragraph (1) shall be an employee of the Navy in the Senior Executive Service in an organization of the Navy that—
+
+  (A) possesses the technical expertise required to carry out the responsibilities specified in subsection (b); and
+
+  (B) operates independently of chains-of-command for acquisition program management.
+
+(3) **Term.—** — Each Senior Technical Authority shall be designated for a fixed term, not shorter than the time anticipated to establish demonstrated successful performance of the class of vessels concerned in accordance with its approved capabilities document, as determined by the Secretary at the time of designation.
+
+(4) **Voluntary departure.—** — If an individual designated as a Senior Technical Authority voluntarily departs the position before demonstrated successful performance of the class of vessels concerned, the Secretary shall designate, in writing, a replacement, and shall notify, in writing, the congressional defense committees not later than 90 days after such departure.
+
+(5) **Removal.—** — An individual may be removed involuntarily from designation as a Senior Technical Authority only by the Secretary. Not later than 15 days after the involuntary removal of an individual from such designation, the Secretary shall notify, in writing, the congressional defense committees of the removal, including the reasons for the removal. Not later than 90 days after the involuntary removal, the Secretary shall designate, in writing, a replacement, and shall notify, in writing, the congressional defense committees of such designation.
+
+(6) **Reassignment for mission needs.—** — Subject to paragraphs (4) and (5), the Secretary may reassign a Senior Technical Authority or remove an individual from designation as a Senior Technical Authority in furtherance of Department of the Navy mission needs.
+
+**(b) Responsibilities and Authority.—** Each Senior Technical Authority shall be responsible for, and have the authority to, establish, monitor, and approve technical standards, tools, and processes for the class of naval vessels for which designated under this section in conformance with applicable laws and Department of Defense and Department of the Navy policies, requirements, architectures, and standards.
+
+**(c) Limitation on Obligation of Funds on Lead Vessel in Vessel Class.—**
+
+(1) **In general.—** — On or after January 1, 2021, funds authorized to be appropriated for Shipbuilding and Conversion, Navy or Other Procurement, Navy may not be obligated for the first time on the lead vessel in a class of naval vessels unless the Secretary of the Navy certifies as described in paragraph (2).
+
+(2) **Certification elements.—** — The certification on a class of naval vessels described in this paragraph is a certification containing each of the following:
+
+  (A) The name or names of the individual or individuals designated as the Senior Technical Authority for such class of vessels, and the qualifications and professional biography or biographies of the individual or individuals so designated.
+
+  (B) A description by the Senior Technical Authority of the systems engineering, technology, and ship integration risks for such class of vessels.
+
+  (C) The designation by the Senior Technical Authority of each critical hull, mechanical, electrical, propulsion, and combat system of such class of vessels, including systems relating to power generation, power distribution, and key operational mission areas.
+
+  (D) The date on which the Senior Technical Authority approved the systems engineering, engineering development, and land-based engineering and testing plans for such class of vessels.
+
+  (E) A description by the Senior Technical Authority of the key technical knowledge objectives and demonstrated system performance of each plan approved as described in subparagraph (D).
+
+  (F) A determination by the Senior Technical Authority that such plans are sufficient to achieve thorough technical knowledge of critical systems of such class of vessels before the start of detail design and construction.
+
+  (G) A determination by the Senior Technical Authority that actual execution of activities in support of such plans as of the date of the certification have been and continue to be effective and supportive of the acquisition schedule for such class of vessels.
+
+  (H) A description by the Senior Technical Authority of other technology maturation and risk reduction efforts not included in such plans for such class of vessels taken as of the date of the certification.
+
+  (I) A certification by the Senior Technical Authority that each critical system covered by subparagraph (C) has been demonstrated through testing of a prototype or identical component in its final form, fit, and function in a realistic environment.
+
+  (J) A determination by the Secretary that the plans approved as described in subparagraph (D) are fully funded and will be fully funded in the future-years defense program for the fiscal year beginning in the year in which the certification is submitted.
+
+  (K) A determination by the Secretary that the Senior Technical Authority will approve, in writing, the ship specification for such class of vessels before the request for proposals for detail design, construction, or both, as applicable, is released.
+
+(3) **Deadline for submittal of certification.—** — The certification required by this subsection with respect to a class of naval vessels shall be submitted, in writing, to the congressional defense committees not fewer than 30 days before the Secretary obligates for the first time funds authorized to be appropriated for Shipbuilding and Conversion, Navy or Other Procurement, Navy for the lead vessel in such class of naval vessels.
+
+**(d) Definitions.—** In this section:
+
+(1) The term “class of naval vessels”—
+
+  (A) means any group of similar undersea or surface craft procured with Shipbuilding and Conversion, Navy or Other Procurement, Navy funds, including manned, unmanned, and optionally-manned craft; and
+
+  (B) includes—
+
+    (i) a substantially new class of craft (including craft procured using “new start” procurement); and
+
+    (ii) a class of craft undergoing a significant incremental change in its existing class (such as a next “flight” of destroyers or next “block” of attack submarines).
+
+(2) The term “future-years defense program” has the meaning given that term in [section 221 of this title](./chapter-009-defense-budget-matters.md#section-221).
+
+(3) The term “Milestone A approval” has the meaning given that term in [section 2431a of this title](./chapter-144-major-defense-acquisition-programs.md#section-2431a).
+
+### Statutory Notes
+
+#### Amendment of Section
+Pub. L. 116–283, div. A, title XVIII, §§ 1801(d), 1883(b)(2), Jan. 1, 2021, 134 Stat. 4151, 4294, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, except as otherwise provided in title XVIII of Pub. L. 116–283, in title 10, United States Code, each reference in the text of such title to a source section that is redesignated by title XVIII of Pub. L. 116–283, is amended by striking such reference and inserting a reference to the appropriate section as so redesignated. See 2021 Amendment note below.
+
+#### References in Text
+The date of the enactment of the National Defense Authorization Act for Fiscal Year 2020 and such date of enactment, referred to in subsec. (a)(1), is the date of enactment of Pub. L. 116–92, which was approved Dec. 20, 2019.
+
+#### Amendments
+2021—Subsec. (d)(3). Pub. L. 116–283 substituted “section 4211” for “section 2431a”.
+
+#### Effective Date of 2021 Amendment
+Amendment by 1883(b)(2) of Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
+
+
 <a id="section-8670"></a>
 ## § 8670. Contracts for nuclear ships: sales of naval shipyard articles and services to private shipyards
 
@@ -289,7 +376,12 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 ### Statutory Notes
 
+#### Amendment of Subsection (b)(2)
+Pub. L. 116–283, div. A, title XVIII, §§ 1801(d), 1849(m), Jan. 1, 2021, 134 Stat. 4151, 4264, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, subsection (b)(2) of this section is amended by striking “section 2432” and inserting “chapter 324”. See 2021 Amendment note below.
+
 #### Amendments
+2021—Subsec. (b)(2). Pub. L. 116–283 substituted “chapter 324” for “section 2432”.
+
 2018—Pub. L. 115–232, § 807(d)(2), renumbered [section 7301 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section7301&num=0&edition=prelim) as this section.
 
 Subsec. (c). Pub. L. 115–232, § 1014(a)(2), added subsec. (c). Former subsec. (c) redesignated (d).
@@ -297,6 +389,9 @@ Subsec. (c). Pub. L. 115–232, § 1014(a)(2), added subsec. (c). Former subsec.
 Subsec. (d). Pub. L. 115–232, § 1014(b), added subsec. (d) and struck out former subsec. (d). Prior to amendment, text read as follows: “In this section, the term ‘covered vessel’ means any vessel of the Navy that is under construction on or after the date of the enactment of this section using amounts authorized to be appropriated for the Department of Defense for shipbuilding and conversion, Navy.”
 
 Pub. L. 115–232, § 1014(a)(1), redesignated subsec. (c) as (d).
+
+#### Effective Date of 2021 Amendment
+Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
 
 #### Effective Date of 2018 Amendment
 Amendment by section 807(d)(2) of Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
@@ -668,7 +763,7 @@ For delegation of authority of President under subsec. (b) of this section, see 
 ## § 8680. Overhaul, repair, etc. of vessels in foreign shipyards: restrictions
 **(a) Vessels Under Jurisdiction of the Secretary of the Navy With Homeport in United States or Guam.—**
 
-(1) A naval vessel the homeport of which is in the United States or Guam may not be overhauled, repaired, or maintained in a shipyard outside the United States or Guam, other than in the case of voyage repairs.
+(1) A naval vessel the homeport of which is in the United States or Guam may not be overhauled, repaired, or maintained in a shipyard outside the United States or Guam.
 
 (2)
 
@@ -682,7 +777,13 @@ For delegation of authority of President under subsec. (b) of this section, see 
 
   (B)
 
-    (i) Corrective and preventive maintenance or repair may be performed on a vessel as described in subparagraph (A) if the work is performed by United States Government personnel or United States contractor personnel.
+    (i)
+
+      (I) Corrective and preventive maintenance or repair may be performed on a vessel as described in subparagraph (A) if the work is performed by United States Government personnel or United States contractor personnel.
+
+      (II) Notwithstanding subclause (I), foreign workers may be used to perform corrective and preventive maintenance or repair on a vessel as described in subparagraph (A) only if the Secretary of the Navy determines that travel by United States Government personnel or United States contractor personnel to perform the corrective or preventive maintenance or repair is not advisable for health or safety reasons. The Secretary of the Navy may not delegate the authority to make a determination under this subclause.
+
+      (III) Not later than 30 days after making a determination under subclause (II), the Secretary of the Navy shall submit to the congressional defense committees written notification of the determination. The notification shall include the reasons why travel by United States personnel is not advisable for health or safety reasons, the location where the corrective and preventive maintenance or repair will be performed, and the approximate duration of the corrective and preventive maintenance or repair.
 
     (ii) Facilities maintenance may be performed by a foreign contractor on a vessel as described in subparagraph (A) only as approved by the Secretary of the Navy.
 
@@ -694,9 +795,19 @@ For delegation of authority of President under subsec. (b) of this section, see 
 
       (II) scheduled maintenance or repair actions to prevent or discover functional failures.
 
-    (ii) The term “facilities maintenance” means preservation or corrosion control efforts and cleaning services.
+    (ii) The term “facilities maintenance” means—
 
-  (D) This paragraph shall expire on September 30, 2020.
+      (I) the effort required to provide housekeeping services throughout the ship;
+
+      (II) the effort required to perform coating maintenance and repair to exterior and interior surfaces due to normal environmental conditions; and
+
+      (III) the effort required to clean mechanical spaces, mission zones, and topside spaces.
+
+(3) Notwithstanding paragraph (1), a naval vessel described in paragraph (1) may be repaired in a shipyard outside the United States or Guam if the repairs are—
+
+  (A) voyage repairs; or
+
+  (B) necessary to correct damage sustained due to hostile actions or interventions.
 
 **(b) Vessel Changing Homeports.—**
 
@@ -747,6 +858,18 @@ For delegation of authority of President under subsec. (b) of this section, see 
 ### Statutory Notes
 
 #### Amendments
+2021—Subsec. (a)(1). Pub. L. 116–283, § 1025(a)(1), struck out “, other than in the case of voyage repairs” after “outside the United States or Guam”.
+
+Subsec. (a)(2)(B)(i). Pub. L. 116–283, § 1025(b), designated existing provisions as subcl. (I) and added subcls. (II) and (III).
+
+Subsec. (a)(2)(C)(ii). Pub. L. 116–283, §§ 1025(c), 1081(a)(45), amended introductory provisions identically, striking out period after “means—”.
+
+Subsec. (a)(3). Pub. L. 116–283, § 1025(a)(2), added par. (3).
+
+2019—Subsec. (a)(2)(C)(ii). Pub. L. 116–92, § 1035(1), substituted “means—” for “means preservation or corrosion control efforts and cleaning services” and added subcls. (I) to (III).
+
+Subsec. (a)(2)(D). Pub. L. 116–92, § 1035(2), struck out subpar. (D) which read as follows: “This paragraph shall expire on September 30, 2020.”
+
 2018—Pub. L. 115–232 renumbered [section 7310 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section7310&num=0&edition=prelim) as this section.
 
 2017—Subsec. (a). Pub. L. 115–91 inserted “Under Jurisdiction of the Secretary of the Navy” after “Vessels” in heading, designated existing provisions as par. (1), substituted “A naval vessel” for “A naval vessel (or any other vessel under the jurisdiction of the Secretary of the Navy)”, and added par. (2).
@@ -895,6 +1018,8 @@ Pub. L. 108–375, div. A, title X, § 1012(b), Oct. 28, 2004, 118 Stat. 2040, p
 
 (2) for payments under a contract for amounts required because of changes in the scope of work, in the case of a contract entered into during the fiscal year for ship overhaul, maintenance, and repair.
 
+**(c) Treatment of Amounts Appropriated After End of Period of Obligation.—** In the application of [section 1553(c) of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1553/c&num=0&edition=prelim) to funds appropriated in the Operation and Maintenance, Navy account that are available for ship overhaul, the Secretary of the Navy may treat the limitation specified in paragraph (1) of such section to be “$10,000,000” rather than “$4,000,000”.
+
 ### Statutory Notes
 
 #### Historical and Revision Notes
@@ -906,6 +1031,8 @@ In two instances, the source law to be codified by the bill includes provisions 
 A prior section 8683, acts Aug. 10, 1956, ch. 1041, 70A Stat. 535; Sept. 2, 1958, Pub. L. 85–861, § 1(156), 72 Stat. 1513; Aug. 25, 1959, Pub. L. 86–197, § 1(7), 73 Stat. 426, related to service credit for certain service as a nurse, woman medical specialist, or civilian employee of Army Medical Department, prior to repeal by Pub. L. 99–145, title XIII, § 1301(d)(1)(A), Nov. 8, 1985, 99 Stat. 736.
 
 #### Amendments
+2021—Subsec. (c). Pub. L. 116–283 added subsec. (c).
+
 2018—Pub. L. 115–232 renumbered [section 7313 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section7313&num=0&edition=prelim) as this section.
 
 #### Effective Date of 2018 Amendment
@@ -944,6 +1071,27 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 Pub. L. 100–456, div. A, title XII, § 1225(b), Sept. 29, 1988, 102 Stat. 2055, provided that: “Section 7313 [now 8684] of title 10, United States Code, as added by subsection (a), applies to any award by the Secretary of the Navy made after the end of the 30-day period beginning on the date of the enactment of this Act [Sept. 29, 1988] for repair, alteration, overhaul, or conversion of a naval vessel following competition between public and private shipyards.”
 
 
+<a id="section-8684a"></a>
+## § 8684a. Repair, maintenance, or overhaul of naval vessels: rate for progress payments
+
+The Secretary of the Navy shall provide that the rate for progress payments on any contract awarded by the Secretary for repair, maintenance, or overhaul of a naval vessel shall be not less than—
+
+(1) 95 percent, in the case of a firm considered to be a small business; and
+
+(2) 90 percent, in the case of any other firm.
+
+### Statutory Notes
+
+#### Codification
+The text of subsec. (g)(1) of [section 2307 of this title](./chapter-137-procurement-generally.md#section-2307), which was transferred to this section and amended by Pub. L. 116–283, § 1876(a)(2), was based on Pub. L. 103–355, title II, § 2001(g), Oct. 13, 1994, 108 Stat. 3302.
+
+#### Amendments
+2021—Pub. L. 116–283, § 1876(a)(2), transferred text of subsec. (g)(1) of [section 2307 of this title](./chapter-137-procurement-generally.md#section-2307) to this section and redesignated subpars. (A) and (B) as pars. (1) and (2), respectively.
+
+#### Effective Date
+Section and amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as an Effective Date of 2021 Amendment note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
+
+
 <a id="section-8685"></a>
 ## § 8685. Preservation of Navy shipbuilding capability
 **(a) Shipbuilding Capability Preservation Agreements.—** The Secretary of the Navy may enter into an agreement, to be known as a “shipbuilding capability preservation agreement”, with a shipbuilder under which the cost reimbursement rules described in subsection (b) shall be applied to the shipbuilder under a Navy contract for the construction of a ship. Such an agreement may be entered into in any case in which the Secretary determines that the application of such cost reimbursement rules would facilitate the achievement of the policy objectives set forth in [section 2501(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2501/b&num=0&edition=prelim).
@@ -978,16 +1126,27 @@ Pub. L. 100–456, div. A, title XII, § 1225(b), Sept. 29, 1988, 102 Stat. 2055
 
 ### Statutory Notes
 
+#### Amendment of Subsections (a) and (c)
+Pub. L. 116–283, div. A, title XVIII, §§ 1801(d), 1867(e)(3), Jan. 1, 2021, 134 Stat. 4151, 4282, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, this section is amended by striking “section 2501(b)” in subsections (a) and (c) and inserting “section 4811(b)”. See 2021 Amendment note below.
+
 #### Prior Provisions
 A prior section 8685, acts Aug. 10, 1956, ch. 1041, 70A Stat. 535; Sept. 2, 1958, Pub. L 85–861, § 1(187), 72 Stat. 1534, set forth restrictions on consideration of a husband or child as dependent of a female member of Regular Air Force, Air National Guard of the United States or Air Force Reserve, prior to repeal by Pub. L. 90–235, § 7(a)(3), Jan. 2, 1968, 81 Stat. 763.
 
 #### Amendments
+2021—Subsecs. (a), (c). Pub. L. 116–283 substituted “section 4811(b)” for “section 2501(b)”.
+
 2018—Pub. L. 115–232 renumbered [section 7315 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section7315&num=0&edition=prelim) as this section.
 
 1999—Subsec. (d)(2). Pub. L. 106–65 substituted “November 18, 1997,” for “the date of the enactment of the National Defense Authorization Act for Fiscal Year 1998”.
 
+#### Effective Date of 2021 Amendment
+Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
+
 #### Effective Date of 2018 Amendment
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
+
+#### Pilot Program To Train Skilled Technicians in Critical Shipbuilding Skills
+Pub. L. 116–92, div. A, title III, § 357, Dec. 20, 2019, 133 Stat. 1322, provided that: “(a) Establishment.—The Secretary of the Navy may carry out a pilot program to train individuals to become skilled technicians in critical shipbuilding skills such as welding, metrology, quality assurance, machining, and additive manufacturing. “(b) Partnerships.—In carrying out the pilot program under this section, the Secretary may partner with existing Federal or State projects relating to investment and infrastructure in training and education or workforce development, such as the National Network for Manufacturing Innovation, the Industrial Base Analysis and Sustainment program of the Department of Defense, and the National Maritime Educational Council. “(c) Termination.—The authority to carry out a pilot program under this section shall terminate on September 30, 2025. “(d) Briefings.—If the Secretary carries out a pilot program under this section, the Secretary shall provide briefings to the Committees on Armed Services of the Senate and the House of Representatives as follows:“(1) Not later than 30 days before beginning to implement the pilot program, the Secretary shall provide a briefing on the plan, cost estimate, and schedule for the pilot program. “(2) Not less frequently than annually during the period when the pilot program is carried out, the Secretary shall provide briefings on the progress of the Secretary in carrying out the pilot program.”
 
 #### Procedures for Applications and for Consideration of Agreements
 Pub. L. 105–85, div. A, title X, § 1027(b), Nov. 18, 1997, 111 Stat. 1880, provided that: “Not later than 30 days after the date of the enactment of this Act [Nov. 18, 1997], the Secretary of the Navy shall establish application procedures and procedures for expeditious consideration of shipbuilding capability preservation agreements as authorized by section 7315 [now 8685] of title 10, United States Code, as added by subsection (a).”
@@ -1041,11 +1200,19 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 ### Statutory Notes
 
+#### Amendment of Subsection (a)
+Pub. L. 116–283, div. A, title XVIII, §§ 1801(d), 1833(p), Jan. 1, 2021, 134 Stat. 4151, 4234, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, subsection (a) of this section is amended by striking “section 2320” each place it appears and inserting “subchapter I of chapter 275”. See 2021 Amendment note below.
+
 #### Prior Provisions
 A prior section 8687, acts Aug. 10, 1956, ch. 1041, 70A Stat. 536; Sept. 2, 1958, Pub. L. 85–861, § 1(188), 72 Stat. 1534; Sept. 7, 1962, Pub. L. 87–649, § 6(d), 76 Stat. 494, related to compensation for members of Air Force other than Regular Air Force prior to repeal by Pub. L. 99–661, div. A, title VI, § 604(f)(1)(A), Nov. 14, 1986, 100 Stat. 3877.
 
 #### Amendments
+2021—Subsec. (a). Pub. L. 116–283 substituted “subchapter I of chapter 275” for “section 2320” in pars. (1) and (2).
+
 2018—Pub. L. 115–232 renumbered [section 7317 of this title](./chapter-741-retirement-for-length-of-service.md#section-7317) as this section.
+
+#### Effective Date of 2021 Amendment
+Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
 
 #### Effective Date of 2018 Amendment
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
@@ -1070,6 +1237,23 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 #### Effective Date
 Pub. L. 114–328, div. A, title X, § 1022(b), Dec. 23, 2016, 130 Stat. 2388, provided that: “[Section 7318 of title 10](./chapter-741-retirement-for-length-of-service.md#section-7318), United States Code, as added by subsection (a), shall take effect on the later of the following dates: “(1) The date of the enactment of the National Defense Authorization for Fiscal Year 2018 [Pub. L. 115–91, approved Dec. 12, 2017]. “(2) September 30, 2017.”
+
+
+<a id="section-8688a"></a>
+## § 8688a. Construction and conversion of naval vessels: liens
+
+The Secretary of the Navy shall provide, in each contract for construction or conversion of a naval vessel, that, when partial, progress, or other payments are made under such contract, the United States is secured by a lien upon work in progress and on property acquired for performance of the contract on account of all payments so made. The lien is paramount to all other liens.
+
+### Statutory Notes
+
+#### Codification
+The text of subsec. (g)(3) of [section 2307 of this title](./chapter-137-procurement-generally.md#section-2307), which was transferred to this section by Pub. L. 116–283, § 1876(b)(2), was based on Pub. L. 103–355, title II, § 2001(g), Oct. 13, 1994, 108 Stat. 3302.
+
+#### Amendments
+2021—Pub. L. 116–283, § 1876(b)(2), transferred text of subsec. (g)(3) of [section 2307 of this title](./chapter-137-procurement-generally.md#section-2307) to this section.
+
+#### Effective Date
+Section and amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as an Effective Date of 2021 Amendment note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
 
 
 <a id="section-8689"></a>
@@ -1143,8 +1327,8 @@ A prior section 8690, act Aug. 10, 1956, ch. 1041, 70A Stat. 538, exempted enlis
 #### Effective Date of 2018 Amendment
 Amendment by section 807(d)(2) of Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
 
-#### Treatment of Currently Deployed Vessels
-Pub. L. 115–232, div. A, title III, § 323(b), Aug. 13, 2018, 132 Stat. 1720, provided that: “In the case of any naval vessel that has been forward deployed overseas for a period in excess of ten years as of the date of the enactment of this Act [Aug. 13, 2018], the Secretary of the Navy shall ensure that such vessel is assigned a homeport in the United States by not later than three years after the date of the enactment of this Act.”
+#### Treatment of Currently Deployed Vessels; Extension of Limitation for U.S.S. Shiloh
+Pub. L. 115–232, div. A, title III, § 323(b), (c), Aug. 13, 2018, 132 Stat. 1720, as amended by Pub. L. 116–92, div. A, title III, § 353(2), Dec. 20, 2019, 133 Stat. 1321; Pub. L. 116–283, div. A, title III, § 344, Jan. 1, 2021, 134 Stat. 3538, provided that: “(b) Treatment of Currently Deployed Vessels.—In the case of any aircraft carrier, amphibious ship, cruiser, destroyer, frigate, or littoral combat ship that has been forward deployed overseas for a period in excess of ten years as of the date of the enactment of this Act [Aug. 13, 2018], the Secretary of the Navy shall ensure that such vessel is assigned a homeport in the United States by not later than three years after the date of the enactment of this Act. “(c) Extension of Limitation on Length of Overseas Forward Deployment for U.S.S. Shiloh (CG–67).—Notwithstanding subsection (b), the Secretary of the Navy shall ensure that the U.S.S. Shiloh (CG–67) is assigned a homeport in the United States by not later than September 30, 2023.”
 
 
 <a id="section-8691"></a>
@@ -1180,12 +1364,56 @@ Pub. L. 115–232, div. A, title III, § 323(b), Aug. 13, 2018, 132 Stat. 1720, 
 #### Prior Provisions
 A prior section 8691 was renumbered [section 9253 of this title](./chapter-933-miscellaneous-rights-and-benefits.md#section-9253).
 
-A prior section 8692, act Aug. 10, 1956, ch. 1041, 70A Stat. 538, provided qualifications to receive a rating of pilot in time of peace, prior to repeal by Pub. L. 92–168, § 3(1), Nov. 24, 1971, 85 Stat. 489. See [section 2003 of this title](./chapter-101-training-generally.md#section-2003).
-
-A prior section 8693, act Aug. 10, 1956, ch. 1041, 70A Stat. 538, provided for replacement of a lost or destroyed certificate of discharge from Air Force, prior to repeal by Pub. L. 90–235, § 7(a)(3), Jan. 2, 1968, 81 Stat. 763. See [section 1040 of this title](./chapter-053-miscellaneous-rights-and-benefits.md#section-1040).
-
 #### Amendments
 2018—Pub. L. 115–232, § 807(d)(2), renumbered [section 7321 of this title](./chapter-741-retirement-for-length-of-service.md#section-7321) as this section.
 
 #### Effective Date of 2018 Amendment
 Amendment by section 807(d)(2) of Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
+
+
+<a id="section-8692"></a>
+## § 8692. Ford-class aircraft carriers: cost limitation baselines
+**(a) Limitation.—** The total amounts obligated or expended from funds authorized to be appropriated or otherwise made available for Shipbuilding and Conversion, Navy, or for any other procurement account, may not exceed the following amounts for the following aircraft carriers:
+
+(1) $13,224,000,000 for the construction of the aircraft carrier designated CVN–78.
+
+(2) $11,398,000,000 for the construction of the aircraft carrier designated CVN–79.
+
+(3) $12,202,000,000 for the construction of the aircraft carrier designated CVN–80.
+
+(4) $12,451,000,000 for the construction of the aircraft carrier designated CVN–81.
+
+**(b) Exclusion of Battle and Interim Spares From Cost Limitation.—** The Secretary of the Navy shall exclude from the determination of the amounts set forth in subsection (a) the costs of the following items:
+
+(1) CVN–78 class battle spares.
+
+(2) Interim spares.
+
+(3) Increases attributable to economic inflation after December 1, 2018, not otherwise included in the amounts listed in subsection (a).
+
+**(c) Written Notice and Briefing on Change in Amount.—** The Secretary of the Navy may adjust an amount listed in subsection (a) not fewer than 15 days after submitting written notice and providing a briefing to the congressional defense committees, each of which shall include the amount and rationale of any change and the resulting amount after such change.
+
+### Statutory Notes
+
+#### Prior Provisions
+A prior section 8692, act Aug. 10, 1956, ch. 1041, 70A Stat. 538, provided qualifications to receive a rating of pilot in time of peace, prior to repeal by Pub. L. 92–168, § 3(1), Nov. 24, 1971, 85 Stat. 489. See [section 2003 of this title](./chapter-101-training-generally.md#section-2003).
+
+A prior section 8693, act Aug. 10, 1956, ch. 1041, 70A Stat. 538, provided for replacement of a lost or destroyed certificate of discharge from Air Force, prior to repeal by Pub. L. 90–235, § 7(a)(3), Jan. 2, 1968, 81 Stat. 763. See [section 1040 of this title](./chapter-053-miscellaneous-rights-and-benefits.md#section-1040).
+
+
+<a id="section-8692"></a>
+## § 8692. Biennial report on shipbuilder training and the defense industrial base
+
+Not later than February 1 of each even-numbered year until 2026, the Secretary of the Navy, in coordination with the Secretary of Labor, shall submit to the Committee on Armed Services and the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Armed Services and the Committee on Education and Labor of the House of Representatives a report on shipbuilder training and hiring requirements necessary to achieve the Navy’s 30-year shipbuilding plan and to maintain the shipbuilding readiness of the defense industrial base. Each such report shall include each of the following:
+
+(1) An analysis and estimate of the time and investment required for new shipbuilders to gain proficiency in particular shipbuilding occupational specialties, including detailed information about the occupational specialty requirements necessary for construction of naval surface ship and submarine classes to be included in the Navy’s 30-year shipbuilding plan.
+
+(2) An analysis of the age demographics and occupational experience level (measured in years of experience) of the shipbuilding defense industrial workforce.
+
+(3) An analysis of the potential time and investment challenges associated with developing and retaining shipbuilding skills in organizations that lack intermediate levels of shipbuilding experience.
+
+(4) Recommendations concerning how to address shipbuilder training during periods of demographic transition and evolving naval fleet architecture consistent with the Navy’s most recent Integrated Force Structure Assessment.
+
+(5) An analysis of whether emerging technologies, such as augmented reality, may aid in new shipbuilder training.
+
+(6) Recommendations concerning how to encourage young adults to enter the defense shipbuilding industry and to develop the skills necessary to support the shipbuilding defense industrial base.

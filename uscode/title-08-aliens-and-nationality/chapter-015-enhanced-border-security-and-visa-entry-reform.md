@@ -249,12 +249,18 @@ Pub. L. 109–472, § 6, Jan. 11, 2007, 120 Stat. 3555, provided that: “(a) In
 ### Statutory Notes
 
 #### Codification
-Section is comprised of section 7081 of title VII of div. J of Pub. L. 115–31. Subsecs. (b) and (c) of section 7081 of Pub. L. 115–31 amended sections 1713 and 1714, respectively, of this title. Subsecs. (d) and (e) of section 7081 amended provisions set out as notes under sections 1153 and 1183a, respectively, of this title. Subsec. (f) of section 7081 amended [section 214 of Title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section214&num=0&edition=prelim), Foreign Relations and Intercourse, and subsec. (g) of section 7081 amended provisions set out as a note under [section 214 of Title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section214&num=0&edition=prelim).
-
 Section appears under the heading “Consular and Border Security Programs” in title VII of div. J of Pub. L. 115–31. It was enacted as part of the Department of State, Foreign Operations, and Related Programs Appropriations Act, 2017, and also as part of the Consolidated Appropriations Act, 2017, and not as part of the Enhanced Border Security and Visa Entry Reform Act of 2002 which comprises this chapter.
 
+Section is comprised of section 7081 of title VII of div. J of Pub. L. 115–31. Subsecs. (b) and (c) of section 7081 of Pub. L. 115–31 amended sections 1713 and 1714, respectively, of this title. Subsecs. (d) and (e) of section 7081 amended provisions set out as notes under sections 1153 and 1183a, respectively, of this title. Subsec. (f) of section 7081 amended [section 214 of Title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section214&num=0&edition=prelim), Foreign Relations and Intercourse, and subsec. (g) of section 7081 amended provisions set out as a note under [section 214 of Title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section214&num=0&edition=prelim).
+
 #### Transfer of Balances
-Pub. L. 116–6, div. F, title VII, § 7034(m)(9), Feb. 15, 2019, 133 Stat. 327, provided that: “Section 7081(h) of the Department of State, Foreign Operations, and Related Programs Appropriations Act, 2017 (division J of Public Law 115–31) [[8 U.S.C. 1715(h)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1715/h&num=0&edition=prelim)] shall continue in effect during fiscal year 2019.”
+Pub. L. 116–260, div. K, title VII, § 7034(l)(9), Dec. 27, 2020, 134 Stat. 1750, provided that: “Section 7081(h) of the Department of State, Foreign Operations, and Related Programs Appropriations Act, 2017 (division J of Public Law 115–31) [[8 U.S.C. 1715(h)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1715/h&num=0&edition=prelim)] shall continue in effect during fiscal year 2021.”
+
+Similar provisions were contained in the following prior acts:
+
+Pub. L. 116–94, div. G, title VII, § 7034(l)(9), Dec. 20, 2019, 133 Stat. 2873.
+
+Pub. L. 116–6, div. F, title VII, § 7034(m)(9), Feb. 15, 2019, 133 Stat. 327.
 
 
 <a id="section-1722"></a>
@@ -806,12 +812,18 @@ For abolition of Immigration and Naturalization Service, transfer of functions, 
 <a id="section-1774"></a>
 ## § 1774. Statutory construction
 
-Nothing in this chapter shall be construed to impose requirements that are inconsistent with the North American Free Trade Agreement or to require additional documents for aliens for whom documentary requirements are waived under [section 1182(d)(4)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1182/d/4/B&num=0&edition=prelim).
+Nothing in this chapter shall be construed to impose requirements that are inconsistent with the USMCA (as defined in [section 4502 of title 19](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section4502&num=0&edition=prelim)) or to require additional documents for aliens for whom documentary requirements are waived under [section 1182(d)(4)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1182/d/4/B&num=0&edition=prelim).
 
 ### Statutory Notes
 
 #### References in Text
 This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 107–173, May 14, 2002, 116 Stat. 543, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 1701 of this title](./chapter-015-enhanced-border-security-and-visa-entry-reform.md#section-1701) and Tables.
+
+#### Amendments
+2020—Pub. L. 116–113 substituted “USMCA (as defined in [section 4502 of title 19](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section4502&num=0&edition=prelim))” for “North American Free Trade Agreement”.
+
+#### Effective Date of 2020 Amendment
+Amendment by Pub. L. 116–113 effective on the date the USMCA enters into force (July 1, 2020) and applicable to visas issued on or after that date, see section 503(f) of Pub. L. 116–113, set out as a note under [section 1184 of this title](./chapter-012-immigration-and-nationality.md#section-1184).
 
 
 <a id="section-1775"></a>

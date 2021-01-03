@@ -8,7 +8,7 @@ source: >-
 ---
 <a id="section-2201"></a>
 ## § 2201. Creation of remedy
-**(a)** In a case of actual controversy within its jurisdiction, except with respect to Federal taxes other than actions brought under section 7428 of the Internal Revenue Code of 1986, a proceeding under section 505 or 1146 of title 11, or in any civil action involving an antidumping or countervailing duty proceeding regarding a class or kind of merchandise of a free trade area country (as defined in section 516A(f)(10) of the Tariff Act of 1930), as determined by the administering authority, any court of the United States, upon the filing of an appropriate pleading, may declare the rights and other legal relations of any interested party seeking such declaration, whether or not further relief is or could be sought. Any such declaration shall have the force and effect of a final judgment or decree and shall be reviewable as such.
+**(a)** In a case of actual controversy within its jurisdiction, except with respect to Federal taxes other than actions brought under section 7428 of the Internal Revenue Code of 1986, a proceeding under section 505 or 1146 of title 11, or in any civil action involving an antidumping or countervailing duty proceeding regarding a class or kind of merchandise of a free trade area country (as defined in section 516A(f)(9) of the Tariff Act of 1930), as determined by the administering authority, any court of the United States, upon the filing of an appropriate pleading, may declare the rights and other legal relations of any interested party seeking such declaration, whether or not further relief is or could be sought. Any such declaration shall have the force and effect of a final judgment or decree and shall be reviewable as such.
 
 **(b)** For limitations on actions brought with respect to drug patents see section 505 or 512 of the Federal Food, Drug, and Cosmetic Act, or section 351 of the Public Health Service Act.
 
@@ -32,13 +32,15 @@ Section corrects a typographical error in [section 2201 of title 28](./chapter-1
 #### References in Text
 Section 7428 of the Internal Revenue Code of 1986, referred to in subsec. (a), is classified to [section 7428 of Title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section7428&num=0&edition=prelim), Internal Revenue Code.
 
-Section 516A(f)(10) of the Tariff Act of 1930, referred to in subsec. (a), is classified to [section 1516a(f)(10) of Title 19](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1516a/f/10&num=0&edition=prelim), Customs Duties.
+Section 516A(f)(9) of the Tariff Act of 1930, referred to in subsec. (a), is classified to [section 1516a(f)(9) of Title 19](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1516a/f/9&num=0&edition=prelim), Customs Duties.
 
 Sections 505 and 512 of the Federal Food, Drug, and Cosmetic Act, referred to in subsec. (b), are classified to sections 355 and 360b, respectively, of Title 21, Food and Drugs.
 
 Section 351 of the Public Health Service Act, referred to in subsec. (b), is classified to [section 262 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section262&num=0&edition=prelim), The Public Health and Welfare.
 
 #### Amendments
+2020—Subsec. (a). Pub. L. 116–113 substituted “section 516A(f)(9)” for “section 516A(f)(10)”.
+
 2010—Subsec. (b). Pub. L. 111–148 inserted “, or section 351 of the Public Health Service Act” before period.
 
 1993—Subsec. (a). Pub. L. 103–182 substituted “merchandise of a free trade area country (as defined in section 516A(f)(10) of the Tariff Act of 1930),” for “Canadian merchandise,”.
@@ -59,8 +61,11 @@ Subsec. (b). Pub. L. 100–670 inserted “or 512” after “505”.
 
 1949—Act May 24, 1949, corrected spelling of “or” in second sentence.
 
+#### Effective Date of 2020 Amendment
+Amendment by Pub. L. 116–113 effective on the date on which the USMCA enters into force, but not applicable to certain determinations under [section 1516a of Title 19](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1516a&num=0&edition=prelim), Customs Duties, or binational panel reviews under NAFTA, see section 432 of Pub. L. 116–113, set out as a note under [section 1516a of Title 19](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1516a&num=0&edition=prelim).
+
 #### Effective Date of 1993 Amendment
-Amendment by Pub. L. 103–182 effective on the date the North American Free Trade Agreement enters into force with respect to the United States [Jan. 1, 1994], but not applicable to any final determination described in section 1516a(a)(1)(B) or (2)(B)(i), (ii), or (iii) of Title 19, Customs Duties, notice of which is published in the Federal Register before such date, or to a determination described in [section 1516a(a)(2)(B)(vi) of Title 19](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1516a/a/2/B/vi&num=0&edition=prelim), notice of which is received by the Government of Canada or Mexico before such date, or to any binational panel review under the United States-Canada Free-Trade Agreement, or to any extraordinary challenge arising out of any such review that was commenced before such date, see section 416 of Pub. L. 103–182, set out as an Effective Date note under [section 3431 of Title 19](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section3431&num=0&edition=prelim).
+Amendment by Pub. L. 103–182 effective on the date the North American Free Trade Agreement enters into force with respect to the United States [Jan. 1, 1994], but not applicable to any final determination described in section 1516a(a)(1)(B) or (2)(B)(i), (ii), or (iii) of Title 19, Customs Duties, notice of which is published in the Federal Register before such date, or to a determination described in [section 1516a(a)(2)(B)(vi) of Title 19](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1516a/a/2/B/vi&num=0&edition=prelim), notice of which is received by the Government of Canada or Mexico before such date, or to any binational panel review under the United States-Canada Free-Trade Agreement, or to any extraordinary challenge arising out of any such review that was commenced before such date, see section 416 of Pub. L. 103–182, formerly set out as an Effective Date note under former [section 3431 of Title 19](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section3431&num=0&edition=prelim).
 
 #### Effective and Termination Dates of 1988 Amendment
 Amendment by Pub. L. 100–449 effective on date United States-Canada Free-Trade Agreement enters into force (Jan. 1, 1989), and to cease to have effect on date Agreement ceases to be in force, see section 501(a), (c) of Pub. L. 100–449, set out in a note under [section 2112 of Title 19](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section2112&num=0&edition=prelim), Customs Duties.
@@ -73,9 +78,6 @@ Amendment by Pub. L. 94–455 applicable with respect to pleadings filed with th
 
 #### Effective Date of 1958 Amendment
 Amendment by Pub. L. 85–508 effective Jan. 3, 1959, on admission of Alaska into the Union pursuant to Proc. No. 3269, Jan. 3, 1959, 24 F.R. 81, 73 Stat. c16, as required by sections 1 and 8(c) of Pub. L. 85–508, see notes set out under [section 81A of this title](./chapter-005-district-courts.md#section-81a) and preceding [section 21 of Title 48](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title48-section21&num=0&edition=prelim), Territories and Insular Possessions.
-
-#### Effect of Termination of NAFTA Country Status
-For provisions relating to effect of termination of NAFTA country status on sections 401 to 416 of Pub. L. 103–182, see [section 3451 of Title 19](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section3451&num=0&edition=prelim), Customs Duties.
 
 #### Amount in Controversy
 Jurisdictional amount in diversity of citizenship cases, see [section 1332 of this title](./chapter-085-district-courts-jurisdiction.md#section-1332).

@@ -26,7 +26,7 @@ source: >-
 
 (7) The Chief of the Air Force Reserve.
 
-(8) Other members of the Air Force assigned or detailed to the Air Staff.
+(8) Other members of the Air Force or the Space Force assigned or detailed to the Air Staff.
 
 (9) Civilian employees in the Department of the Air Force assigned or detailed to the Air Staff.
 
@@ -52,6 +52,8 @@ In subsections (c) and (d), the word “hereafter” is omitted, since all wars 
 In subsection (d), the words “now or hereafter” are omitted as surplusage and as executed. The second sentence is substituted for 10:1811(d) (last 31 words of 1st sentence). The third sentence is substituted for 10:1811(d) (2d sentence). 10:1811(d) (1st 13 words of last sentence) is omitted as executed. The words “This subsection does not apply” are substituted for the words “and shall be inapplicable”.
 
 #### Amendments
+2021—Subsec. (b)(8). Pub. L. 116–283 inserted “or the Space Force” after “of the Air Force”.
+
 2018—Pub. L. 115–232 renumbered [section 8031 of this title](./chapter-805-office-of-the-chief-of-naval-operations.md#section-8031) as this section.
 
 1986—Pub. L. 99–433 amended section generally, substituting “The Air Staff: function; composition” for “Composition: assignment and detail of members of Air Force and civilians” in section catchline and substituting in text provisions relating to establishment and composition of the Air Staff and authorizing the Secretary to prescribe the organization, duties, and titles of the Air Staff for provisions relating to establishment and composition of the Air Staff, authorizing the Secretary to prescribe the organization, duties, and titles of the Air Staff, and limiting the number of officers who may be assigned or detailed to permanent duty in the executive part of the Department of the Air Force.
@@ -172,6 +174,9 @@ In subsection (c), the provisions of 10:1814 relating to the direction of the Se
 
 In subsection (d), 10:38 (last par.) is omitted as covered by 10:1814(a). The words “and other provisions of law” are substituted for the words “and by other laws”.
 
+#### Amendment of Subsection (d)(5)
+Pub. L. 116–283, div. A, title XVIII, §§ 1801(d), 1847(e)(6)(B), Jan. 1, 2021, 134 Stat. 4151, 4257, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, subsection (d)(5) of this section is amended by striking “and 2547” and inserting “, 3103, and 4274”. See 2021 Amendment note below.
+
 #### 1962 Act
 The changes correct references to section 202(j) of the National Security Act of 1947, which is now set out as [section 124 of title 10](./chapter-003-general-powers-and-functions.md#section-124).
 
@@ -179,6 +184,8 @@ The changes correct references to section 202(j) of the National Security Act of
 [Section 664(f) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section664/f&num=0&edition=prelim), referred to in subsec. (a)(2)(B), was redesignated as [section 664(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section664/d&num=0&edition=prelim) by Pub. L. 114–328, div. A, title V, § 510(g)(1), Dec. 23, 2016, 130 Stat. 2111.
 
 #### Amendments
+2021—Subsec. (d)(5). Pub. L. 116–283 substituted “, 3103, and 4274” for “and 2547”.
+
 2018—Pub. L. 115–232, § 806(c), renumbered [section 8033 of this title](./chapter-805-office-of-the-chief-of-naval-operations.md#section-8033) as this section.
 
 Subsec. (c). Pub. L. 115–232, § 809(a), substituted “section 9013(f)” for “section 8013(f)”.
@@ -222,6 +229,9 @@ Pub. L. 114–92, § 802(d)(4)(D), substituted “sections 171 and 2547” for �
 1962—Subsec. (d)(4). Pub. L. 87–651 substituted “under [section 124 of this title](./chapter-003-general-powers-and-functions.md#section-124)” for “pursuant to section 202(j) of the National Security Act of 1947, as amended”.
 
 1958—Subsec. (d)(4) to (7). Pub. L. 85–599 redesignated pars. (5) to (7) as (4) to (6), respectively, and in par. (4), as redesignated, required the Chief of Staff to exercise supervision only as the Secretary of the Air Force determines and in a manner consistent with the full operational command vested in unified or specified combatant commanders. Former par. (4), which related to command over the air defense, strategic, tactical, and other major commands, was struck out.
+
+#### Effective Date of 2021 Amendment
+Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
 
 #### Effective Date of 2018 Amendment
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
@@ -322,15 +332,19 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 **(b) Duties.—**
 
-(1) The Surgeon General serves as the principal advisor to the Secretary of the Air Force and the Chief of Staff of the Air Force on all health and medical matters of the Air Force, including strategic planning and policy development relating to such matters.
+(1) The Surgeon General serves as the principal advisor to the Secretary of the Air Force, the Chief of Staff of the Air Force, and the Chief of Space Operations on all health and medical matters of the Air Force and the Space Force, including strategic planning and policy development relating to such matters.
 
-(2) The Surgeon General serves as the chief medical advisor of the Air Force to the Director of the Defense Health Agency on matters pertaining to military health readiness requirements and safety of members of the Air Force.
+(2) The Surgeon General serves as the chief medical advisor of the Air Force and the Space Force to the Director of the Defense Health Agency on matters pertaining to military health readiness requirements and safety of members of the Air Force and members of the Space Force.
 
 (3) The Surgeon General, acting under the authority, direction, and control of the Secretary of the Air Force, shall recruit, organize, train, and equip, medical personnel of the Air Force.
 
 ### Statutory Notes
 
 #### Amendments
+2021—Subsec. (b)(1). Pub. L. 116–283, § 923(b)(6)(A), substituted “Secretary of the Air Force, the Chief of Staff of the Air Force, and the Chief of Space Operations on all health and medical matters of the Air Force and the Space Force” for “Secretary of the Air Force and the Chief of Staff of the Air Force on all health and medical matters of the Air Force”.
+
+Subsec. (b)(2). Pub. L. 116–283, § 923(b)(6)(B), inserted “and the Space Force” after “advisor of the Air Force” and “and members of the Space Force” after “members of the Air Force”.
+
 2018—Pub. L. 115–232 renumbered [section 8036 of this title](./chapter-805-office-of-the-chief-of-naval-operations.md#section-8036) as this section.
 
 2016—Pub. L. 114–328 amended section generally. Prior to amendment, text read as follows: “There is a Surgeon General of the Air Force who is appointed by the President by and with the advice and consent of the Senate from officers of the Air Force who are in the Air Force medical department. The Surgeon General, while so serving, has the grade of lieutenant general.”
@@ -341,6 +355,9 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 #### Effective Date of 2018 Amendment
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
+
+#### Service of Incumbents in Certain Positions Without Reappointment
+For continued service of Surgeon General of the Air Force under this section after Jan. 1, 2021, without further appointment, notwithstanding amendment by section 923(b)(6) of Pub. L. 116–283, see section 923(f) of Pub. L. 116–283, set out as a note under [section 9020 of this title](./chapter-903-department-of-the-air-force.md#section-9020).
 
 
 <a id="section-9037"></a>
@@ -373,11 +390,11 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
   (A) treat any section in chapter 36 of this title referring to promotion to the next higher grade as if such section referred to promotion to a higher grade; and
 
-  (B) waive [section 619(a)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section619/a/2&num=0&edition=prelim) if the Secretary determines that the needs of the Air Force require the waiver.
+  (B) waive [section 619(a)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section619/a/2&num=0&edition=prelim) if the Secretary determines that the needs of the Air Force or the Space Force require the waiver.
 
 **(f)** No officer or employee of the Department of Defense may interfere with—
 
-(1) the ability of the Judge Advocate General to give independent legal advice to the Secretary of the Air Force or the Chief of Staff of the Air Force; or
+(1) the ability of the Judge Advocate General to give independent legal advice to the Secretary of the Air Force, the Chief of Staff of the Air Force, or the Chief of Space Operations; or
 
 (2) the ability of officers of the Air Force who are designated as judge advocates who are assigned or attached to, or performing duty with, military units to give independent legal advice to commanders.
 
@@ -397,6 +414,10 @@ In subsection (b), the words “Hereafter” and “exclusive of the present inc
 In subsection (c), the Act of June 23, 1874, ch. 458, § 2 (words before semicolon of 1st sentence, and last sentence), 18 Stat. 244, are not contained in 10:62. They are also omitted from the revised section, since the Air Force does not have organic corps created by statute.
 
 #### Amendments
+2021—Subsec. (e)(2)(B). Pub. L. 116–283, § 923(b)(7)(A), inserted “or the Space Force” after “of the Air Force”.
+
+Subsec. (f)(1). Pub. L. 116–283, § 923(b)(7)(B), substituted “the Secretary of the Air Force, the Chief of Staff of the Air Force, or the Chief of Space Operations” for “the Secretary of the Air Force or the Chief of Staff of the Air Force”.
+
 2018—Pub. L. 115–232 renumbered [section 8037 of this title](./chapter-805-office-of-the-chief-of-naval-operations.md#section-8037) as this section.
 
 2017—Subsec. (e). Pub. L. 115–91 designated existing provisions as par. (1) and added par. (2).
@@ -436,6 +457,9 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 #### Effective Date of 1996 Amendment
 Pub. L. 104–106, div. A, title V, § 507(b), Feb. 10, 1996, 110 Stat. 296, provided that: “The amendments made by subsection (a) [amending this section] apply to any appointment to the position of Deputy Judge Advocate General of the Air Force that is made after the date of the enactment of this Act [Feb. 10, 1996].”
+
+#### Service of Incumbents in Certain Positions Without Reappointment
+For continued service of Judge Advocate General of the Air Force under subsec. (a) of this section or Deputy Judge Advocate General of the Air Force under subsec. (d) of this section after Jan. 1, 2021, without further appointment, notwithstanding amendment by section 923(b)(7) of Pub. L. 116–283, see section 923(f) of Pub. L. 116–283, set out as a note under [section 9020 of this title](./chapter-903-department-of-the-air-force.md#section-9020).
 
 
 <a id="section-9038"></a>
@@ -521,7 +545,7 @@ Section effective on first day of first calendar month following date of enactme
 ## § 9039. Chief of Chaplains: appointment; duties
 **(a) Chief of Chaplains.—**
 
-(1) There is a Chief of Chaplains in the Air Force, appointed by the President, by and with the advice and consent of the Senate, from officers of the Air Force designated under [section 9067(h) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section9067/h&num=0&edition=prelim) as chaplains who—
+(1) There is a Chief of Chaplains for the Air Force and the Space Force, appointed by the President, by and with the advice and consent of the Senate, from officers of the Air Force designated under [section 9067(h) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section9067/h&num=0&edition=prelim) as chaplains who—
 
   (A) are serving on active duty; and
 
@@ -538,6 +562,8 @@ Section effective on first day of first calendar month following date of enactme
 ### Statutory Notes
 
 #### Amendments
+2021—Subsec. (a). Pub. L. 116–283 substituted “for the Air Force and the Space Force” for “in the Air Force”.
+
 2018—Pub. L. 115–232, § 806(c), renumbered [section 8039 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section8039&num=0&edition=prelim) as this section.
 
 Subsec. (a)(1). Pub. L. 115–232, § 809(a), substituted “section 9067(h)” for “section 8067(h)” in introductory provisions.
@@ -550,6 +576,9 @@ Subsec. (c). Pub. L. 114–328, § 502(mm)(2), struck out subsec. (c). Text read
 
 #### Effective Date of 2018 Amendment
 Amendment by sections 806(c) and 809(a) of Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
+
+#### Service of Incumbents in Certain Positions Without Reappointment
+For continued service of Chief of Chaplains for the Air Force and the Space Force under this section after Jan. 1, 2021, without further appointment, notwithstanding amendment by section 923(b)(8) of Pub. L. 116–283, see section 923(f) of Pub. L. 116–283, set out as a note under [section 9020 of this title](./chapter-903-department-of-the-air-force.md#section-9020).
 
 
 <a id="section-9040"></a>

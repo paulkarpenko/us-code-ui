@@ -66,7 +66,7 @@ Section effective July 1, 1971, pursuant to Resolution No. 71–9 of the Board o
 #### Assets of Postal Service
 Pub. L. 91–375, § 4(b), Aug. 12, 1970, 84 Stat. 774, provided that: “Postal revenues and fees collected on and after the effective date of this section [see note below] shall be considered assets of the Postal Service.”
 
-Provisions of section 4(b) of Pub. L. 91–375 effective within 1 year after Aug. 12, 1970, on date established therefor by the Board of Governors of the United States Postal Service and published by it in the Federal Register, see section 15(a) of Pub. L. 91–375, set out as an Effective Date note preceding [section 101 of this title](./chapter-001-postal-policy-and-definitions.md#section-101).
+[Provisions of section 4(b) of Pub. L. 91–375 effective within 1 year after Aug. 12, 1970, on date established therefor by the Board of Governors of the United States Postal Service and published by it in the Federal Register, see section 15(a) of Pub. L. 91–375, set out as an Effective Date note preceding [section 101 of this title](./chapter-001-postal-policy-and-definitions.md#section-101).]
 
 #### Ex. Ord. No. 11672. Transfer or Furnishing of Property
 Ex. Ord. No. 11672, June 6, 1972, 37 F.R. 11455, provided:

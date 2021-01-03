@@ -99,11 +99,11 @@ Pub. L. 110–161, div. K, title I, § 117, Dec. 26, 2007, 121 Stat. 2382, provi
 
 <a id="section-42121"></a>
 ## § 42121. Protection of employees providing air safety information
-**(a) Discrimination Against Airline Employees.—** No air carrier or contractor or subcontractor of an air carrier may discharge an employee or otherwise discriminate against an employee with respect to compensation, terms, conditions, or privileges of employment because the employee (or any person acting pursuant to a request of the employee)—
+**(a) Prohibited Discrimination.—** A holder of a certificate under section 44704 or 44705 of this title, or a contractor, subcontractor, or supplier of such holder, may not discharge an employee or otherwise discriminate against an employee with respect to compensation, terms, conditions, or privileges of employment because the employee (or any person acting pursuant to a request of the employee)—
 
-(1) provided, caused to be provided, or is about to provide (with any knowledge of the employer) or cause to be provided to the employer or Federal Government information relating to any violation or alleged violation of any order, regulation, or standard of the Federal Aviation Administration or any other provision of Federal law relating to air carrier safety under this subtitle or any other law of the United States;
+(1) provided, caused to be provided, or is about to provide (with any knowledge of the employer) or cause to be provided to the employer or Federal Government information relating to any violation or alleged violation of any order, regulation, or standard of the Federal Aviation Administration or any other provision of Federal law relating to aviation safety under this subtitle or any other law of the United States;
 
-(2) has filed, caused to be filed, or is about to file (with any knowledge of the employer) or cause to be filed a proceeding relating to any violation or alleged violation of any order, regulation, or standard of the Federal Aviation Administration or any other provision of Federal law relating to air carrier safety under this subtitle or any other law of the United States;
+(2) has filed, caused to be filed, or is about to file (with any knowledge of the employer) or cause to be filed a proceeding relating to any violation or alleged violation of any order, regulation, or standard of the Federal Aviation Administration or any other provision of Federal law relating to aviation safety under this subtitle or any other law of the United States;
 
 (3) testified or is about to testify in such a proceeding; or
 
@@ -158,11 +158,22 @@ Pub. L. 110–161, div. K, title I, § 117, Dec. 26, 2007, 121 Stat. 2382, provi
 
 **(c) Mandamus.—** Any nondiscretionary duty imposed by this section shall be enforceable in a mandamus proceeding brought under [section 1361 of title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section1361&num=0&edition=prelim), United States Code.
 
-**(d) Nonapplicability to Deliberate Violations.—** Subsection (a) shall not apply with respect to an employee of an air carrier, contractor, or subcontractor who, acting without direction from such air carrier, contractor, or subcontractor (or such person’s agent), deliberately causes a violation of any requirement relating to air carrier safety under this subtitle or any other law of the United States.
+**(d) Nonapplicability to Deliberate Violations.—** Subsection (a) shall not apply with respect to an employee of a holder of a certificate issued under section 44704 or 44705, or a contractor or subcontractor thereof, who, acting without direction from such certificate-holder, contractor, or subcontractor (or such person’s agent), deliberately causes a violation of any requirement relating to aviation safety under this subtitle or any other law of the United States.
 
-**(e) Contractor Defined.—** In this section, the term “contractor” means a company that performs safety-sensitive functions by contract for an air carrier.
+**(e) Contractor Defined.—** In this section, the term “contractor” means—
+
+(1) a person that performs safety-sensitive functions by contract for an air carrier or commercial operator; or
+
+(2) a person that performs safety-sensitive functions related to the design or production of an aircraft, aircraft engine, propeller, appliance, or component thereof by contract for a holder of a certificate issued under section 44704.
 
 ### Statutory Notes
+
+#### Amendments
+2020—Subsec. (a). Pub. L. 116–260, § 118(1), added subsec. (a) and struck out former subsec. (a) which related to discrimination against airline employees.
+
+Subsec. (d). Pub. L. 116–260, § 118(2), added subsec. (d) and struck out former subsec. (d). Prior to amendment, text read as follows: “Subsection (a) shall not apply with respect to an employee of an air carrier, contractor, or subcontractor who, acting without direction from such air carrier, contractor, or subcontractor (or such person’s agent), deliberately causes a violation of any requirement relating to air carrier safety under this subtitle or any other law of the United States.”
+
+Subsec. (e). Pub. L. 116–260, § 118(3), added subsec. (e) and struck out former subsec. (e) which defined the term “contractor” as a company that performs safety-sensitive functions by contract for an air carrier.
 
 #### Effective Date
 Subchapter applicable only to fiscal years beginning after Sept. 30, 1999, see section 3 of Pub. L. 106–181, set out as an Effective Date of 2000 Amendments note under [section 106 of this title](./chapter-001-organization.md#section-106).

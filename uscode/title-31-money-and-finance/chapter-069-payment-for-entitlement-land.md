@@ -217,7 +217,7 @@ Pub. L. 103–397, § 5(a), Oct. 22, 1994, 108 Stat. 4158, provided that: “(1)
 | 6903(b)(2) | 31:1602(a)(last sentence). |  |
 | 6903(c) | 31:1602(b)(1), (2)(1st sentence). |  |
 
-In subsection (a)(1), before subclause (A), the word “payment” is added for clarity. Subclause (E) is substituted for 16:715s(h)(2) because of the restatement. In clause (2), the words “Secretary of Commerce” are substituted for “Bureau of the Census” for consistency. In clause (4), the words “the jurisdiction of” are omitted as surplus. The word “deemed” is substituted for “treated” for consistency.
+In subsection (a)(1), before subclause (A), the word “payment” is added for clarity. Subclause (E) is substituted for 16:715s(h)(2) because of the restatement. In clause (2), the words “Secretary of Commerce” are substituted for “Bureau of the Census” for consistency. In clause (4), the words “the jurisdiction of” are omitted as surplus. The word “deemed” is substituted for “treated” for consistency.p
 
 In subsections (b) and (c), the word “population” before “limitation” is omitted as unnecessary.
 
@@ -271,9 +271,13 @@ Pub. L. 103–397, §5(b)(3), Oct. 22, 1994, 108 Stat. 4159, provided for the am
 Pub. L. 103–397, §5(b)(4), Oct. 22, 1994, 108 Stat. 4160, provided for the amendment of the table at the end of subsec. (c)(2) of this section during fiscal year 1998.
 
 #### Proportional Payments to Local Governments
-Pub. L. 116–6, div. E, title I, Feb. 15, 2019, 133 Stat. 222, provided in part: “That in the event the sums appropriated for any fiscal year for payments pursuant to this chapter [meaning chapter 69 of Title 31, [31 U.S.C. 6901](./chapter-069-payment-for-entitlement-land.md#section-6901) et seq.] are insufficient to make the full payments authorized by that chapter to all units of local government, then the payment to each local government shall be made proportionally”.
+Pub. L. 116–260, div. G, title I, Dec. 27, 2020, 134 Stat. 1496, provided in part: “That in the event the sums appropriated for any fiscal year for payments pursuant to this chapter [meaning chapter 69 of Title 31, [31 U.S.C. 6901](./chapter-069-payment-for-entitlement-land.md#section-6901) et seq.] are insufficient to make the full payments authorized by that chapter to all units of local government, then the payment to each local government shall be made proportionally”.
 
 Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 116–94, div. D, title I, Dec. 20, 2019, 133 Stat. 2703.
+
+Pub. L. 116–6, div. E, title I, Feb. 15, 2019, 133 Stat. 222.
 
 Pub. L. 115–141, div. G, title I, Mar. 23, 2018, 132 Stat. 651.
 
@@ -389,6 +393,13 @@ The words “to the Secretary of the Interior” are added for clarity. The word
 2012—Pub. L. 112–141 substituted “2013” for “2012” in introductory provisions.
 
 2008—Pub. L. 110–343 amended section generally. Prior to amendment, section read as follows: “Necessary amounts may be appropriated to the Secretary of the Interior to carry out this chapter. Amounts are available only as provided in appropriation laws.”
+
+#### Application of Section
+Pub. L. 116–260, div. G, title I, § 115, Dec. 27, 2020, 134 Stat. 1506, provided that: “[Section 6906 of title 31](./chapter-069-payment-for-entitlement-land.md#section-6906), United States Code, shall be applied by substituting ‘fiscal year 2021’ for ‘fiscal year 2019’.”
+
+Similar provisions were contained in the following prior appropriation act:
+
+Pub. L. 116–94, div. D, title I, § 115, Dec. 20, 2019, 133 Stat. 2714.
 
 
 <a id="section-6907"></a>

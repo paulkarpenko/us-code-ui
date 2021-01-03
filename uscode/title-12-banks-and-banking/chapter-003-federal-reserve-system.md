@@ -131,14 +131,14 @@ This chapter, referred to in text, was in the original “this Act”, meaning a
 #### Codification
 Section is comprised of part of the thirteenth par. of section 2 of act Dec. 23, 1913. Some of the other provisions of the thirteenth par. are classified to [section 281 of this title](./chapter-003-federal-reserve-system.md#section-281), and some were not included in the Code. For classification of other pars. of section 2 of this Act, see Codification note set out under [section 222 of this title](./chapter-003-federal-reserve-system.md#section-222).
 
+#### Prior Provisions
+Provisions relating to reserve cities and central reserve cities were contained in R.S. §§ 5191, 5192, and act Mar. 3, 1887, ch. 378, §§ 1, 2, 24 Stat. 559, 560.
+
 #### Amendments
 1959—Pub. L. 86–114 struck out “and central reserve cities” after “reserve cities”.
 
 #### Effective Date of 1959 Amendment
 Amendment by Pub. L. 86–114 effective three years after July 28, 1959, see section 3(b) of Pub. L. 86–114, set out as a Central Reserve and Reserve Cities note under former [section 141 of this title](./chapter-002-national-banks.md#section-141).
-
-#### Prior Provisions
-Provisions relating to reserve cities and central reserve cities were contained in R.S. §§ 5191, 5192, and act Mar. 3, 1887, ch. 378, §§ 1, 2, 24 Stat. 559, 560.
 
 
 <a id="section-225"></a>
@@ -629,9 +629,6 @@ The Board of Governors of the Federal Reserve System shall be authorized and emp
 (3) **Tailoring assessments** — In collecting assessments, fees, or other charges under paragraph (1) from each company described in paragraph (2) with total consolidated assets of between $100,000,000,000 and $250,000,000,000, the Board shall adjust the amount charged to reflect any changes in supervisory and regulatory responsibilities resulting from the Economic Growth, Regulatory Relief, and Consumer Protection Act with respect to each such company.
 
 ### Statutory Notes
-
-#### Delayed Effective Date of Amendment
-For delayed effective date of amendment by Pub. L. 115–174, except with respect to certain bank holding companies, see Effective Date of 2018 Amendment note set out under [section 5365 of this title](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5365).
 
 #### References in Text
 Sections 461, 463, 464, 465, and 466 of this title, referred to in subsec. (a)(2), was in the original “section 19 of the Federal Reserve Act”. Provisions of section 19 relating to reserve requirements are classified to the cited sections. For complete classification of section 19 to the Code, see References in Text note set out under [section 461 of this title](./chapter-003-federal-reserve-system.md#section-461).
@@ -1164,6 +1161,9 @@ Pub. L. 114–94, div. C, title XXXII, § 32203(b), Dec. 4, 2015, 129 Stat. 1740
 
 #### Effective Date of 1933 Amendment
 Act June 16, 1933, ch. 89, § 4, 48 Stat. 163, provided that the amendment made by that section is effective July 1, 1932.
+
+#### Discretionary Surplus Funds
+Pub. L. 116–283, div. F, title LXV, § 6510, Jan. 1, 2021, 134 Stat. 4633, provided that: “The dollar amount specified under section 7(a)(3)(A) of the Federal Reserve Act ([12 U.S.C. 289(a)(3)(A)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section289/a/3/A&num=0&edition=prelim)) is reduced by $40,000,000.”
 
 #### Additional Transfers for Fiscal Years 1997 and 1998
 Pub. L. 103–66, title III, § 3002(b), Aug. 10, 1993, 107 Stat. 337, provided that in addition to the amounts required to be transferred from the surplus funds of the Federal reserve banks pursuant to former [section 289(a)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section289/a/3&num=0&edition=prelim), the Federal reserve banks should transfer $106,000,000 in fiscal year 1997 and $107,000,000 in fiscal year 1998 from their surplus funds to the Treasury for deposit in the general fund, and prohibited the banks from replenishing their surplus funds by the amount of such transfer.
@@ -1926,6 +1926,9 @@ Section 203(a) of act Aug. 23, 1935, changed name of Federal Reserve Board to Bo
 
 #### Effective Date of 2010 Amendment
 Amendment by Pub. L. 111–203 effective 1 day after July 21, 2010, except as otherwise provided, see section 4 of Pub. L. 111–203, set out as an Effective Date note under [section 5301 of this title](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5301).
+
+#### Construction of Division N of Public Law 116–260
+Pub. L. 116–260, div. N, title X, § 1006, Dec. 27, 2020, 134 Stat. 2147, provided that: “Except as expressly set forth in paragraphs (1) and (2) of subsection (c) of section 4029 of the CARES Act [[15 U.S.C. 9063(c)(1)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section9063/c/1&num=0&edition=prelim), (2)], as added by this Act, nothing in this Act [div. N of Pub. L. 116–260, see Tables for classification] shall be construed to modify or limit the authority of the Board of Governors of the Federal Reserve System under section 13(3) of the Federal Reserve Act ([12 U.S.C. 343(3)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section343/3&num=0&edition=prelim)) as of the day before the date of enactment of the CARES Act (Public Law 116–136) [Mar. 27, 2020].”
 
 #### References to Third Undesignated Paragraph Deemed To Be References to Paragraph (3)
 Pub. L. 111–203, title XI, § 1101(c), July 21, 2010, 124 Stat. 2115, provided that: “On and after the date of enactment of this Act [July 21, 2010], any reference in any provision of Federal law to the third undesignated paragraph of section 13 of the Federal Reserve Act ([12 U.S.C. 343](./chapter-003-federal-reserve-system.md#section-343)) shall be deemed to be a reference to section 13(3) of the Federal Reserve Act [[12 U.S.C. 343(3)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section343/3&num=0&edition=prelim)], as so designated by this section.”
@@ -2706,16 +2709,16 @@ Pub. L. 93–123, Oct. 15, 1973, 87 Stat. 448, provided that in carrying out the
 
 Section, act Dec. 23, 1913, ch. 6, § 19(k), as added Dec. 28, 1979, Pub. L. 96–161, title II, § 208, 93 Stat. 1238, provided that no member bank or affiliate thereof, or any successor or assignee of such member bank or affiliate or any endorser, guarantor, or surety of such member bank or affiliate could plead, raise, or claim directly or by counterclaim, setoff, or otherwise, with respect to any deposit or obligation of such member bank or affiliate, any defense, right, or benefit under any provision of a statute or constitution of a State or of a territory of the United States, or of any law of the District of Columbia, regulating or limiting the rate of interest which could be charged, taken, received, or reserved, that any such provision was preempted, and that no civil or criminal penalty which would otherwise have been applicable under such provision would apply to such member bank or affiliate or to any other person.
 
+#### Prior Provisions
+A prior section 371b–1, act Dec. 23, 1913, ch. 6, § 19(k), as added Nov. 5, 1979, Pub. L. 96–104, title II, § 201, 93 Stat. 792, identical to this section as added by Pub. L. 96–161, was repealed by section 212 of Pub. L. 96–161, effective at the close of Dec. 27, 1979, except that its provisions would continue to apply to deposits made or obligations issued in any State on or after Nov. 5, 1979, but prior to such repeal. See Effective Date of 1979 Amendment note set out below.
+
+A prior section 371b–1, act Dec. 23, 1913, ch. 6, § 19(k), as added Oct. 29, 1974, Pub. L. 93–501, title III, § 301, 88 Stat. 1560, identical to this section as added by Pub. L. 96–104, was repealed by section 1 of Pub. L. 96–104 except that its provisions shall continue to apply to any deposit made or obligation issued in any State during the period specified in section 304 of Pub. L. 93–501. See Effective and Termination Date of 1974 Amendment note set out below.
+
 #### Effective Date of Repeal
 Pub. L. 96–221, title V, § 529, Mar. 31, 1980, 94 Stat. 168, provided in part that the repeal of this section is effective at the close of Mar. 31, 1980.
 
 #### Savings Provision
 Pub. L. 96–221, title V, § 529, Mar. 31, 1980, 94 Stat. 168, provided in part that, notwithstanding the repeal of Pub. L. 96–104 and title II of Pub. L. 96–161, this section [which had been enacted by those laws] shall continue to apply to any loan made, any deposit made, or any obligation issued in any State during any period when this section was in effect in such State.
-
-#### Prior Provisions
-A prior section 371b–1, act Dec. 23, 1913, ch. 6, § 19(k), as added Nov. 5, 1979, Pub. L. 96–104, title II, § 201, 93 Stat. 792, identical to this section as added by Pub. L. 96–161, was repealed by section 212 of Pub. L. 96–161, effective at the close of Dec. 27, 1979, except that its provisions would continue to apply to deposits made or obligations issued in any State on or after Nov. 5, 1979, but prior to such repeal. See Effective Date of 1979 Amendment note set out below.
-
-A prior section 371b–1, act Dec. 23, 1913, ch. 6, § 19(k), as added Oct. 29, 1974, Pub. L. 93–501, title III, § 301, 88 Stat. 1560, identical to this section as added by Pub. L. 96–104, was repealed by section 1 of Pub. L. 96–104 except that its provisions shall continue to apply to any deposit made or obligation issued in any State during the period specified in section 304 of Pub. L. 93–501. See Effective and Termination Date of 1974 Amendment note set out below.
 
 #### Effective Date of 1979 Amendments
 Prior to repeal by Pub. L. 96–221, title V, § 529, Mar. 31, 1980, 94 Stat. 168, it was provided by Pub. L. 96–161, title II, § 211, Dec. 28, 1979, 93 Stat. 1239, that: “The amendments made by sections 208, 209, and 210 of this title [enacting this section and amending sections 1425b and 1828 of this title] shall apply only with respect to deposits made or obligations issued in any State during the period beginning on the date of the enactment of this Act [Dec. 28, 1979] and ending on the earliest of— “(1) in the case of a State statute, July 1, 1980; “(2) the date, after the date of the enactment of this Act [Dec. 28, 1979], on which such State adopts a law stating in substance that such State does not want the amendments made by sections 208, 209, and 210 of this title to apply with respect to such deposits and obligations; or “(3) the date on which such State certifies that the voters of such State, after the date of the enactment of this Act [Dec. 28, 1979], have voted in favor of, or to retain, any law, provision of the constitution of such state, or amendment to the constitution of such State which limits the amount of interest which may be charged in connection with such deposits and obligations.”

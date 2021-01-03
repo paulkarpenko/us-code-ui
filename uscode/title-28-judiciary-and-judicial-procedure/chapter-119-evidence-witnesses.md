@@ -107,7 +107,7 @@ Pub. L. 95–535, § 2, Oct. 27, 1978, 92 Stat. 2034, provided that: “The amen
 Amendment by Pub. L. 90–274 effective 270 days after Mar. 27, 1968, except as to cases in which an indictment has been returned or a petit jury empaneled prior to such effective date, see section 104 of Pub. L. 90–274, set out as a note under [section 1861 of this title](./chapter-121-juries-trial-by-jury.md#section-1861).
 
 #### Payment of Fact Witness Fee to Incarcerated Person Prohibited
-Pub. L. 102–395, title I, § 108, Oct. 6, 1992, 106 Stat. 1841, provided that: “Notwithstanding [28 U.S.C. 1821](./chapter-119-evidence-witnesses.md#section-1821), no funds appropriated to the Department of Justice in fiscal year 1993 or any prior fiscal year, or any other funds available from the Treasury of the United States, shall be obligated or expended to pay a fact witness fee to a person who is incarcerated testifying as a fact witness in a court of the United States, as defined in [28 U.S.C. 1821(a)(2)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section1821/a/2&num=0&edition=prelim).”
+Pub. L. 102–395, title I, § 108, Oct. 6, 1992, 106 Stat. 1841, provided that notwithstanding this section, no funds appropriated to the Department of Justice in fiscal year 1993 or any prior fiscal year would be obligated or expended to pay a fact witness fee to an incarcerated person in a court of the United States.
 
 Similar provisions were contained in the following prior appropriation acts:
 
@@ -154,19 +154,19 @@ Changes were made in phraseology.
 
 <a id="section-1825"></a>
 ## § 1825. Payment of fees
-**(a)** In any case in which the United States or an officer or agency of the United States is a party, the United States marshal for the district shall pay all fees of witnesses on the certificate of the United States attorney or assistant United States attorney, and in the proceedings before a United States magistrate judge, on the certificate of such magistrate judge, except that any fees of defense witnesses, other than experts, appearing pursuant to subpoenas issued upon approval of the court, shall be paid by the United States marshal for the district—
+**(a)** In any case in which the United States or an officer or agency of the United States is a party, the Attorney General shall pay all fees of witnesses on the certificate of the United States attorney or assistant United States attorney, and in the proceedings before a United States magistrate judge, on the certificate of such magistrate judge, except that any fees of defense witnesses, other than experts, appearing pursuant to subpoenas issued upon approval of the court, shall be paid by the Attorney General—
 
 (1) on the certificate of a Federal public defender or assistant Federal public defender, in a criminal case in which the defendant is represented by such Federal public defender or assistant Federal public defender, and
 
 (2) on the certificate of the clerk of the court upon the affidavit of such witnesses’ attendance given by other counsel appointed pursuant to [section 3006A of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section3006A&num=0&edition=prelim), in a criminal case in which a defendant is represented by such other counsel.
 
-**(b)** In proceedings in forma pauperis for a writ of habeas corpus, and in proceedings in forma pauperis under [section 2255 of this title](./chapter-153-habeas-corpus.md#section-2255), the United States marshal for the district shall pay, on the certificate of the district judge, all fees of witnesses for the party authorized to proceed in forma pauperis, except that any fees of witnesses for such party, other than experts, appearing pursuant to subpoenas issued upon approval of the court, shall be paid by the United States marshal for the district—
+**(b)** In proceedings in forma pauperis for a writ of habeas corpus, and in proceedings in forma pauperis under [section 2255 of this title](./chapter-153-habeas-corpus.md#section-2255), the Attorney General shall pay, on the certificate of the district judge, all fees of witnesses for the party authorized to proceed in forma pauperis, except that any fees of witnesses for such party, other than experts, appearing pursuant to subpoenas issued upon approval of the court, shall be paid by the Attorney General—
 
 (1) on the certificate of a Federal public defender or assistant Federal public defender, in any such proceedings in which a party is represented by such Federal public defender or assistant Federal public defender, and
 
 (2) on the certificate of the clerk of the court upon the affidavit of such witnesses’ attendance given by other counsel appointed pursuant to [section 3006A of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section3006A&num=0&edition=prelim), in any such proceedings in which a party is represented by such other counsel.
 
-**(c)** Fees and mileage need not be tendered to a witness upon service of a subpoena issued on behalf of the United States or an officer or agency of the United States, upon service of a subpoena issued on behalf of a defendant represented by a Federal public defender, assistant Federal public defender, or other attorney appointed pursuant to [section 3006A of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section3006A&num=0&edition=prelim), or upon service of a subpoena issued on behalf of a party authorized to proceed in forma pauperis, if the payment of such fees and mileage is to be made by the United States marshal under this section.
+**(c)** Fees and mileage need not be tendered to a witness upon service of a subpoena issued on behalf of the United States or an officer or agency of the United States, upon service of a subpoena issued on behalf of a defendant represented by a Federal public defender, assistant Federal public defender, or other attorney appointed pursuant to [section 3006A of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section3006A&num=0&edition=prelim), or upon service of a subpoena issued on behalf of a party authorized to proceed in forma pauperis, if the payment of such fees and mileage is to be made by the Attorney General under this section.
 
 ### Statutory Notes
 
@@ -188,6 +188,10 @@ If a witness is served but fails or refuses to appear, the marshal is out of poc
 Changes were made in phraseology.
 
 #### Amendments
+2020—Subsecs. (a), (b). Pub. L. 116–260, § 220(a), substituted “Attorney General” for “United States marshal for the district” in two places in introductory provisions.
+
+Subsec. (c). Pub. L. 116–260, § 220(b), substituted “Attorney General” for “United States marshal”.
+
 1986—Pub. L. 99–651 amended section generally. Prior to amendment, section read as follows:
 
 “In any case wherein the United States or an officer or agency thereof, is a party, the United States marshal for the district shall pay all fees of witnesses on the certificate of the United States Attorney or Assistant United States Attorney, and in the proceedings before a United States Commissioner, on the certificate of such commissioner.

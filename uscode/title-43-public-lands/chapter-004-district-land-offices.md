@@ -103,13 +103,13 @@ This Act, referred to in text, is act Apr. 24, 1944, ch. 177, 58 Stat. 215, as a
 #### Repeals
 Act Apr. 24, 1944, ch. 177, § 4, 58 Stat. 215, provided that: “Sections 2237 and 2240 of the Revised Statutes and the act of May 21, 1928 (45 Stat. 684; 43 U.S.C., sec. 80), as amended [sections 80 and 80a of this title], are hereby repealed, and all other provisions of law inconsistent with this Act [See References in Text note above] are repealed to the extent of such inconsistency.”
 
+#### Extension to Alaska
+Act Apr. 24, 1944, ch. 177, § 5, 58 Stat. 215, provided that the provisions of such Act [see References in Text note above] would not extend to the territory of Alaska.
+
 #### Transfer of Functions
 For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out under [section 1451 of this title](./chapter-031-department-of-the-interior.md#section-1451).
 
 Words “officials of district land offices” substituted for “registers” on authority of section 403 of Reorg. Plan No. 3 of 1946. See note set out under [section 1 of this title](./chapter-001-bureau-of-land-management.md#section-1).
-
-#### Extension to Alaska
-Act Apr. 24, 1944, ch. 177, § 5, 58 Stat. 215, provided that the provisions of such Act [see References in Text note above] would not extend to the territory of Alaska.
 
 
 <a id="section-79d"></a>
@@ -295,13 +295,13 @@ Officers of district land officers, as designated by the Secretary of the Interi
 #### Codification
 This section, as originally enacted, related to receivers of public moneys for land districts. The office of receiver was consolidated with that of register by acts Mar. 3, 1925, and Oct. 28, 1921, under which the office of receiver was abolished. See, also, Transfer of Functions note below.
 
+#### Appropriations
+Effective July 1, 1935, the appropriation provided for in this section was repealed and provision was made for annual appropriations of sums necessary to meet expenditures by act June 26, 1934, ch. 756, § 17, 48 Stat. 1230, which was repealed by Pub. L. 97–258, § 5(b), Sept. 13, 1982, 96 Stat. 1074. See [section 1322 of Title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1322&num=0&edition=prelim), Money and Finance.
+
 #### Transfer of Functions
 For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out under [section 1451 of this title](./chapter-031-department-of-the-interior.md#section-1451).
 
 “Officers of district land offices, as designated by the Secretary of the Interior,” substituted for “registers” and “Secretary of the Interior or such officer as he may designate” substituted for “Commissioner of the General Land Office” on authority of section 403 of Reorg. Plan No. 3 of 1946. See note set out under [section 1 of this title](./chapter-001-bureau-of-land-management.md#section-1).
-
-#### Appropriations
-Effective July 1, 1935, the appropriation provided for in this section was repealed and provision was made for annual appropriations of sums necessary to meet expenditures by act June 26, 1934, ch. 756, § 17, 48 Stat. 1230, which was repealed by Pub. L. 97–258, § 5(b), Sept. 13, 1982, 96 Stat. 1074. See [section 1322 of Title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1322&num=0&edition=prelim), Money and Finance.
 
 
 <a id="section-92"></a>
@@ -378,12 +378,13 @@ Any person or persons who shall have made payment to an officer designated by th
 #### Codification
 This section, as originally enacted, related to receivers of public moneys for land districts. The office of receiver was consolidated with that of register by acts Mar. 3, 1925, and Oct. 28, 1921, under which the office of receiver was abolished. See, also, Transfer of Functions note below.
 
+#### Change of Name and Transfer of Functions
+“Government Accountability Office” substituted in text for “General Accounting Office” pursuant to section 8(b) of Pub. L. 108–271, set out as a note under [section 702 of Title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section702&num=0&edition=prelim), Money and Finance, which redesignated the General Accounting Office and any references thereto as the Government Accountability Office. Previously, “General Accounting Office” substituted in text for “proper officer of the Treasury Department” pursuant to act June 10, 1921, which transferred all powers and duties of the Comptroller, six auditors, and certain other employees of the Treasury to the General Accounting Office. See section 701 et seq. of Title 31.
+
 #### Transfer of Functions
 For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out under [section 1451 of this title](./chapter-031-department-of-the-interior.md#section-1451).
 
 Words “officer designated by the Secretary of the Interior” substituted for “register” on authority of section 403 of Reorg. Plan No. 3 of 1946. See note set out under [section 1 of this title](./chapter-001-bureau-of-land-management.md#section-1).
-
-“Government Accountability Office” substituted in text for “General Accounting Office” pursuant to section 8(b) of Pub. L. 108–271, set out as a note under [section 702 of Title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section702&num=0&edition=prelim), Money and Finance, which redesignated the General Accounting Office and any references thereto as the Government Accountability Office. Previously, “General Accounting Office” substituted in text for “proper officer of the Treasury Department” pursuant to act June 10, 1921, which transferred all powers and duties of the Comptroller, six auditors, and certain other employees of the Treasury to the General Accounting Office. See section 701 et seq. of Title 31.
 
 
 <a id="section-100"></a>

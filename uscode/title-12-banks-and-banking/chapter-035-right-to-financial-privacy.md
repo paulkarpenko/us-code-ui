@@ -399,7 +399,7 @@ Pub. L. 101–73, § 944(2), substituted “Council and the Securities and Excha
 Amendment by Pub. L. 111–203 effective on the designated transfer date, see section 1100H of Pub. L. 111–203, set out as a note under [section 552a of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section552a&num=0&edition=prelim), Government Organization and Employees.
 
 #### Termination Date of 2006 Amendment
-Amendment by section 10 of Pub. L. 109–455 repealed effective Sept. 30, 2020, and provisions amended by Pub. L. 109–455 to be amended to read as if Pub. L. 109–455 had not been enacted, see section 13 of Pub. L. 109–455, set out as a note under [section 44 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section44&num=0&edition=prelim), Commerce and Trade.
+Amendment by section 10 of Pub. L. 109–455 repealed effective Sept. 30, 2027, and provisions amended by Pub. L. 109–455 to be amended to read as if Pub. L. 109–455 had not been enacted, see section 13 of Pub. L. 109–455, set out as a note under [section 44 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section44&num=0&edition=prelim), Commerce and Trade.
 
 #### Effective Date of 2001 Amendment
 Amendment by Pub. L. 107–56 applicable with respect to reports filed or records maintained on, before, or after Oct. 26, 2001, see section 358(h) of Pub. L. 107–56, set out as a note under [section 1829b of this title](./chapter-016-federal-deposit-insurance-corporation.md#section-1829b).
@@ -789,7 +789,7 @@ Section effective upon the expiration of 120 days after Nov. 10, 1978, see secti
 
 (1) No officer, director, partner, employee, or shareholder of, or agent or attorney for, a financial institution shall, directly or indirectly, notify any person named in a grand jury subpoena served on such institution in connection with an investigation relating to a possible—
 
-  (A) crime against any financial institution or supervisory agency or crime involving a violation of the Controlled Substance Act [[21 U.S.C. 801](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section801&num=0&edition=prelim) et seq.], the Controlled Substances Import and Export Act [[21 U.S.C. 951](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section951&num=0&edition=prelim) et seq.], section 1956 or 1957 of title 18, sections 5313, 5316 and 5324 of title 31, or [section 6050I of title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section6050I&num=0&edition=prelim); or
+  (A) crime against any financial institution or supervisory agency or crime involving a violation of the Controlled Substance Act [[21 U.S.C. 801](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section801&num=0&edition=prelim) et seq.], the Controlled Substances Import and Export Act [[21 U.S.C. 951](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section951&num=0&edition=prelim) et seq.], section 1956, 1957, or 1960 of title 18, sections 5313, 5316, 5322, 5324, 5331, and 5332 of title 31, or [section 6050I of title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section6050I&num=0&edition=prelim); or
 
   (B) conspiracy to commit such a crime,
   about the existence or contents of such sub­poena, or information that has been furnished to the grand jury in response to such subpoena.
@@ -806,6 +806,8 @@ The Controlled Substance Act, referred to in subsec. (b)(1)(A), probably means t
 The Controlled Substances Import and Export Act, referred to in subsec. (b)(1)(A), is title III of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1285, as amended, which is classified principally to subchapter II (§ 951 et seq.) of chapter 13 of Title 21. For complete classification of this Act to the Code, see Short Title note set out under [section 951 of Title 21](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section951&num=0&edition=prelim) and Tables.
 
 #### Amendments
+2021—Subsec. (b)(1)(A). Pub. L. 116–283 substituted “, 1957, or 1960 of title 18” for “or 1957 of title 18” and “, 5322, 5324, 5331, and 5332 of title 31” for “and 5324 of title 31”.
+
 2001—Subsec. (a)(2). Pub. L. 107–56 inserted “, or for a purpose authorized by [section 3412(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section3412/a&num=0&edition=prelim)” before semicolon at end.
 
 1992—Subsec. (b)(1)(A). Pub. L. 102–550 inserted before semicolon “or crime involving a violation of the Controlled Substance Act, the Controlled Substances Import and Export Act, section 1956 or 1957 of title 18, sections 5313, 5316 and 5324 of title 31, or [section 6050I of title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section6050I&num=0&edition=prelim)”.

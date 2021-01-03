@@ -617,7 +617,7 @@ Section 403x, comprising section 2 of the Central Intelligence Agency Voluntary 
 ### Statutory Notes
 
 #### Codification
-Section 404, comprising section 107 of the National Security Act of 1947, act July 26, 1947, ch. 343, was editorially reclassified as [section 3042 of this title](./chapter-044-national-security.md#section-3042).
+Section 404, comprising section 107 of the National Security Act of 1947, act July 26, 1947, ch. 343, was editorially reclassified as [section 3042 of this title](./chapter-044-national-security.md#section-3042). [Section 3042 of this title](./chapter-044-national-security.md#section-3042) was subsequently repealed by Pub. L. 116–92, div. E, title LXVII, § 6742(b)(3), Dec. 20, 2019, 133 Stat. 2240.
 
 
 <a id="section-404c"></a>

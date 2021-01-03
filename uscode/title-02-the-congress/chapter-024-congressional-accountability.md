@@ -2,7 +2,7 @@
 title: 2
 chapter: '24'
 heading: CONGRESSIONAL ACCOUNTABILITY
-section_count: 52
+section_count: 53
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2&num=0&edition=prelim
 ---
@@ -68,25 +68,31 @@ source: >-
 
 **(b) Clarification of coverage of employees of certain commissions**
 
-(1) **Coverage** — With respect to the China Review Commission, the Congressional-Executive China Commission, and the Helsinki Commission—
+(1) **Coverage** — With respect to the United States Commission on International Religious Freedom, the China Review Commission, the Congressional-Executive China Commission, and the Helsinki Commission—
 
   (A) any individual who is an employee of such Commission shall be considered a covered employee for purposes of this chapter; and
 
   (B) the Commission shall be considered an employing office for purposes of this chapter.
 
-(2) **Authority to provide legal assistance and representation** — Subject to paragraph (3), legal assistance and representation under this chapter, including assistance and representation with respect to the proposal or acceptance of the disposition of a claim under this chapter, shall be provided to the China Review Commission, the Congressional-Executive China Commission, and the Helsinki Commission—
+(2) **Authority to provide legal assistance and representation**
 
-  (A) by the Office of House Employment Counsel of the House of Representatives, in the case of assistance and representation in connection with a claim filed under subchapter IV (including all subsequent proceedings under such subchapter in connection with the claim) at a time when the chair of the Commission is a Member of the House, and in the case of assistance and representation in connection with any subsequent claim under subchapter IV related to the initial claim where the subsequent claim involves the same parties; or
+  (A) Subject to paragraph (3), legal assistance and representation under this chapter, including assistance and representation with respect to the proposal or acceptance of the disposition of a claim under this chapter, shall be provided to the China Review Commission, the Congressional-Executive China Commission, and the Helsinki Commission—
 
-  (B) by the Office of Senate Chief Counsel for Employment of the Senate, in the case of assistance and representation in connection with a claim filed under subchapter IV (including all subsequent proceedings under such subchapter in connection with the claim) at a time when the chair of the Commission is a Senator, and in the case of assistance and representation in connection with any subsequent claim under subchapter IV related to the initial claim where the subsequent claim involves the same parties.
+    (i) by the Office of House Employment Counsel of the House of Representatives, in the case of assistance and representation in connection with a claim filed under subchapter IV (including all subsequent proceedings under such subchapter in connection with the claim) at a time when the chair of the Commission is a Member of the House, and in the case of assistance and representation in connection with any subsequent claim under subchapter IV related to the initial claim where the subsequent claim involves the same parties; or
+
+    (ii) by the Office of Senate Chief Counsel for Employment of the Senate, in the case of assistance and representation in connection with a claim filed under subchapter IV (including all subsequent proceedings under such subchapter in connection with the claim) at a time when the chair of the Commission is a Senator, and in the case of assistance and representation in connection with any subsequent claim under subchapter IV related to the initial claim where the subsequent claim involves the same parties.
+
+  (B) Legal assistance and representation under this chapter, including assistance and representation with respect to the proposal or acceptance of the disposition of a claim under this chapter, shall be provided to the United States Commission on International Religious Freedom by the Office of Senate Chief Counsel for Employment of the Senate, in the case of assistance and representation in connection with a claim filed under subchapter IV (including all subsequent proceedings under such subchapter in connection with such claim).
 
 (3) **Definitions** — In this subsection—
 
   (A) the term “China Review Commission” means the United States-China Economic and Security Review Commission established under [section 7002 of title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section7002&num=0&edition=prelim), as enacted into law by section 1 of Public Law 106–398;
 
-  (B) the term “Congressional-Executive China Commission” means the Congressional–Executive Commission on the People’s Republic of China established under title III of the U.S.–China Relations Act of 2000 (Public Law 106–286; [22 U.S.C. 6911](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section6911&num=0&edition=prelim) et seq.); and
+  (B) the term “Congressional-Executive China Commission” means the Congressional–Executive Commission on the People’s Republic of China established under title III of the U.S.–China Relations Act of 2000 (Public Law 106–286; [22 U.S.C. 6911](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section6911&num=0&edition=prelim) et seq.);
 
-  (C) the term “Helsinki Commission” means the Commission on Security and Cooperation in Europe established under the Act entitled “An Act to establish a Commission on Security and Cooperation in Europe”, approved June 3, 1976 (Public Law 94–304; [22 U.S.C. 3001](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section3001&num=0&edition=prelim) et seq.).
+  (C) the term “Helsinki Commission” means the Commission on Security and Cooperation in Europe established under the Act entitled “An Act to establish a Commission on Security and Cooperation in Europe”, approved June 3, 1976 (Public Law 94–304; [22 U.S.C. 3001](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section3001&num=0&edition=prelim) et seq.); and
+
+  (D) the term “United States Commission on International Religious Freedom” means the Commission established under [section 6431 of title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section6431&num=0&edition=prelim).
 
 ### Statutory Notes
 
@@ -96,6 +102,12 @@ This chapter, referred to in text, was in the original “this Act”, meaning P
 The U.S.–China Relations Act of 2000, referred to in subsec. (b)(3)(B), is div. B of Pub. L. 106–286, Oct. 10, 2000, 114 Stat. 891. Title III of the Act is classified to subchapter II (§ 6911 et seq.) of chapter 77 of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under [section 6901 of Title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section6901&num=0&edition=prelim) and Tables.
 
 #### Amendments
+2019—Subsec. (b)(1). Pub. L. 116–94, § 805(b)(1), inserted “the United States Commission on International Religious Freedom,” after “With respect to” in introductory provisions.
+
+Subsec. (b)(2). Pub. L. 116–94, § 805(b)(2), inserted subpar. (A) designation before “Subject to paragraph (3),”, redesignated former subpars. (A) and (B) as cls. (i) and (ii), respectively, of subpar. (A), and added subpar. (B).
+
+Subsec. (b)(3)(D). Pub. L. 116–94, § 805(b)(3), added subpar. (D).
+
 2018—Pub. L. 115–397, § 305(a), designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
 
 Subsec. (a). Pub. L. 115–397, § 308(b)(1)–(7), substituted “Office of Congressional Workplace Rights” for “Office of Compliance” wherever appearing.
@@ -136,6 +148,9 @@ Pub. L. 110–437, title IV, § 422(d), Oct. 20, 2008, 122 Stat. 4997, provided 
 
 Amendment by Pub. L. 110–279 effective July 17, 2008, and applicable to remainder of fiscal year in which enacted and each fiscal year thereafter, see [section 2051(i) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section2051/i&num=0&edition=prelim).
 
+#### Short Title of 2021 Amendment
+Pub. L. 116–283, div. A, title XI, § 1103(a), Jan. 1, 2021, 134 Stat. 3886, provided that: “This section [amending [section 1312 of this title](./chapter-024-congressional-accountability.md#section-1312), [section 412 of Title 3](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title3-section412&num=0&edition=prelim), The President, sections 6301, 6381, and 6382 of Title 5, Government Organization and Employees, [section 7425 of Title 38](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section7425&num=0&edition=prelim), Veterans’ Benefits, and [section 40122 of Title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section40122&num=0&edition=prelim), Transportation, and enacting provisions set out as notes under [section 1312 of this title](./chapter-024-congressional-accountability.md#section-1312), [section 412 of Title 3](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title3-section412&num=0&edition=prelim), [section 7425 of Title 38](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section7425&num=0&edition=prelim), and [section 40122 of Title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section40122&num=0&edition=prelim)] may be cited as the ‘Paid Parental Leave Technical Corrections Act of 2020’.”
+
 #### Short Title of 2018 Amendment
 Pub. L. 115–397, § 1(a), Dec. 21, 2018, 132 Stat. 5297, provided that: “This Act [enacting sections 1362, 1388, 1402a, 1417, 1437a, and 1437b of this title, amending this section and sections 1302, 1311, 1331, 1341, 1351, 1361, 1381, 1382, 1384, 1401 to 1405, 1408, 1414 to 1416, 1431, and 1438 of this title and [section 8437 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section8437&num=0&edition=prelim), Government Organization and Employees, and enacting provisions set out as notes under this section and sections 1331, 1381, and 1415 of this title] may be cited as the ‘Congressional Accountability Act of 1995 Reform Act’.”
 
@@ -174,6 +189,8 @@ Pub. L. 111–145, § 2(a)(5)(B), Mar. 4, 2010, 124 Stat. 50, provided that: “
 (10) The Rehabilitation Act of 1973 ([29 U.S.C. 701](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section701&num=0&edition=prelim) et seq.).
 
 (11) Chapter 43 (relating to veterans’ employment and reemployment) of title 38.
+
+(12) [Section 9202 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section9202&num=0&edition=prelim).11 See Effective Date of 2019 Amendment note below.
 
 **(b) Laws which may be made applicable**
 
@@ -224,7 +241,12 @@ The Rehabilitation Act of 1973, referred to in subsec. (a)(10), is Pub. L. 93–
 The Genetic Information Nondiscrimination Act of 2008, referred to in subsec. (c)(1), is Pub. L. 110–233, May 21, 2008, 122 Stat. 881. Title II of the Act is classified generally to chapter 21F (§ 2000ff et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 2000ff of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2000ff&num=0&edition=prelim) and Tables.
 
 #### Amendments
+2019—Subsec. (a)(12). Pub. L. 116–92 added par. (12).
+
 2018—Subsec. (c). Pub. L. 115–397 added subsec. (c).
+
+#### Effective Date of 2019 Amendment
+Subsec. (a)(12) of this section, as added by Pub. L. 116–92, effective 2 years after Dec. 20, 2019, see [section 1316b(e) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1316b/e&num=0&edition=prelim) and section 1122(b)(2) of Pub. L. 116–92, set out as a note under [section 9202 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section9202&num=0&edition=prelim), Government Organization and Employees.
 
 #### Effective Date of 2018 Amendment
 Amendment by Pub. L. 115–397 effective upon expiration of the 180-day period beginning on Dec. 21, 2018, with provisions for effect on pending proceedings, see section 401 of Pub. L. 115–397, set out as a note under [section 1301 of this title](./chapter-024-congressional-accountability.md#section-1301).
@@ -298,25 +320,46 @@ Pub. L. 102–166, title I, § 117, Nov. 21, 1991, 105 Stat. 1080, as amended by
 ## § 1312. Rights and protections under Family and Medical Leave Act of 1993
 **(a) Family and medical leave rights and protections provided**
 
-(1) **In general** — The rights and protections established by sections 101 through 105 of the Family and Medical Leave Act of 1993 ([29 U.S.C. 2611](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2611&num=0&edition=prelim) through 2615) shall apply to covered employees.
+(1) **In general** — The rights and protections established by sections 101 through 105 of the Family and Medical Leave Act of 1993 ([29 U.S.C. 2611](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2611&num=0&edition=prelim) through 2615) shall apply to covered employees. In applying section 102 of such Act [[29 U.S.C. 2612](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2612&num=0&edition=prelim)] with respect to leave for an event described in subsection (a)(1)(A) or (B) of such section to covered employees, subsection (d) of this section shall apply. Paragraphs (1) and (4) of section 102(a) of such Act [[29 U.S.C. 2612(a)(1)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2612/a/1&num=0&edition=prelim), (4)] shall be subject to subsection (d) of this section.
 
 (2) **Definitions** — For purposes of the application described in paragraph (1)—
 
   (A) the term “employer” as used in the Family and Medical Leave Act of 1993 means any employing office, and
 
   (B) the term “eligible employee” as used in the Family and Medical Leave Act of 1993 means a covered employee who has been employed in any employing office for 12 months and for at least 1,250 hours of employment during the previous 12 months.
+  The requirements of subparagraph (B) shall not apply with respect to leave under subparagraph (A) or (B) of section 102(a)(1) of the Family and Medical Leave Act of 1993 ([29 U.S.C. 2612(a)(1)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2612/a/1&num=0&edition=prelim)).
 
 **(b) Remedy** The remedy for a violation of subsection (a) shall be such remedy, including liquidated damages, as would be appropriate if awarded under paragraph (1) of section 107(a) of the Family and Medical Leave Act of 1993 ([29 U.S.C. 2617(a)(1)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2617/a/1&num=0&edition=prelim)).
 
 **(c) Omitted**
 
-**(d) Regulations**
+**(d) Special rule for paid parental leave**
+
+(1) **Substitution of paid leave** — A covered employee may elect to substitute for any leave without pay under subparagraph (A) or (B) of section 102(a)(1) of the Family and Medical Leave Act of 1993 ([29 U.S.C. 2612(a)(1)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2612/a/1&num=0&edition=prelim)) any paid leave which is available to such employee for that purpose.
+
+(2) **Amount of paid leave** — The paid leave that is available to a covered employee for purposes of paragraph (1) is—
+
+  (A) the number of weeks of paid parental leave in connection with the birth or placement involved that corresponds to the number of administrative workweeks of paid parental leave available to employees under [section 6382(d)(2)(B)(i) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section6382/d/2/B/i&num=0&edition=prelim); and
+
+  (B) during the 12-month period referred to in section 102(a)(1) of the Family and Medical Leave Act of 1993 ([29 U.S.C. 2612(a)(1)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2612/a/1&num=0&edition=prelim)) and in addition to the administrative workweeks described in subparagraph (A), any additional paid vacation, personal, family, medical, or accrued sick leave provided by the employing office to such employee.
+
+(3) **Limitation** — Nothing in this section or section 102(d)(2)(A) of the Family and Medical Leave Act of 1993 ([29 U.S.C. 2612(d)(2)(A)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2612/d/2/A&num=0&edition=prelim)) shall be considered to require or permit an employing office to require that an employee first use all or any portion of the leave described in paragraph (2)(B) before being allowed to use the paid parental leave described in paragraph (2)(A).
+
+(4) **Additional rules** — Paid parental leave under paragraph (2)(A)—
+
+  (A) shall be payable from any appropriation or fund available for salaries or expenses for positions within the employing office;
+
+  (B) if not used by the covered employee before the end of the 12-month period (as referred to in section 102(a)(1) of the Family and Medical Leave Act of 1993 ([29 U.S.C. 2612(a)(1)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2612/a/1&num=0&edition=prelim))) to which it relates, shall not accumulate for any subsequent use; and
+
+  (C) shall apply without regard to the limitations in subparagraph (E), (F), or (G) of [section 6382(d)(2) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section6382/d/2&num=0&edition=prelim) or section 104(c)(2) of the Family and Medical Leave Act of 1993 ([29 U.S.C. 2614(c)(2)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2614/c/2&num=0&edition=prelim)).
+
+**(e) Regulations**
 
 (1) **In general** — The Board shall, pursuant to [section 1384 of this title](./chapter-024-congressional-accountability.md#section-1384), issue regulations to implement the rights and protections under this section.
 
 (2) **Agency regulations** — The regulations issued under paragraph (1) shall be the same as substantive regulations promulgated by the Secretary of Labor to implement the statutory provisions referred to in subsection (a) except insofar as the Board may determine, for good cause shown and stated together with the regulation, that a modification of such regulations would be more effective for the implementation of the rights and protections under this section.
 
-**(e) Effective date**
+**(f) Effective date**
 
 (1) **In general** — Subsections (a) and (b) shall be effective 1 year after January 23, 1995.
 
@@ -327,13 +370,30 @@ Pub. L. 102–166, title I, § 117, Nov. 21, 1991, 105 Stat. 1080, as amended by
 #### References in Text
 The Family and Medical Leave Act of 1993, referred to in subsec. (a)(2), is Pub. L. 103–3, Feb. 5, 1993, 107 Stat. 6, as amended, which enacted sections 60m and 60n of this title, sections 6381 to 6387 of Title 5, Government Organization and Employees, and chapter 28 (§ 2601 et seq.) of Title 29, Labor, amended [section 2105 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section2105&num=0&edition=prelim), and enacted provisions set out as notes under [section 2601 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2601&num=0&edition=prelim). For complete classification of this Act to the Code, see Short Title note set out under [section 2601 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2601&num=0&edition=prelim) and Tables.
 
-Subsection (c) of this section, referred to in subsec. (e)(2), amended [section 6381 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section6381&num=0&edition=prelim), Government Organization and Employees, and sections 2611 and 2617 of Title 29, Labor.
+Subsection (c) of this section, referred to in subsec. (f)(2), amended [section 6381 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section6381&num=0&edition=prelim), Government Organization and Employees, and sections 2611 and 2617 of Title 29, Labor.
 
 #### Codification
 Section is comprised of section 202 of Pub. L. 104–1. Subsec. (c) of section 202 of Pub. L. 104–1 amended [section 6381 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section6381&num=0&edition=prelim), Government Organization and Employees, and sections 2611 and 2617 of Title 29, Labor.
 
 #### Amendments
+2021—Subsec. (d)(2)(B). Pub. L. 116–283 inserted “accrued” before “sick leave”.
+
+2019—Subsec. (a)(1). Pub. L. 116–92, § 7603(a)(1), inserted at end “In applying section 102 of such Act with respect to leave for an event described in subsection (a)(1)(A) or (B) of such section to covered employees, subsection (d) of this section shall apply. Paragraphs (1) and (4) of section 102(a) of such Act shall be subject to subsection (d) of this section.”
+
+Subsec. (a)(2). Pub. L. 116–92, § 7603(b), which directed insertion of “The requirements of subparagraph (B) shall not apply with respect to leave under subparagraph (A) or (B) of section 102(a)(1) of the Family and Medical Leave Act of 1993 ([29 U.S.C. 2612(a)(1)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2612/a/1&num=0&edition=prelim)).” at end of par. (2), was executed by inserting sentence as concluding provisions of par. (2) to reflect the probable intent of Congress.
+
+Subsecs. (d) to (f). Pub. L. 116–92, § 7603(a)(2), (3), added subsec. (d) and redesignated former subsecs. (d) and (e) as (e) and (f), respectively.
+
 2004—Subsec. (e)(2). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office” in heading.
+
+#### Effective Date of 2021 Amendment
+Pub. L. 116–283, div. A, title XI, § 1103(g)(2), Jan. 1, 2021, 134 Stat. 3889, provided that: “The amendment made by this subsection [amending this section] shall apply with respect to any event for which leave may be taken under subparagraph (A) or (B) of section 102(a)(1) of the Family and Medical Leave Act of 1995 [probably means Family and Medical Leave Act of 1993] ([29 U.S.C. 2612(a)(1)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2612/a/1&num=0&edition=prelim)) and occurring on or after October 1, 2020.”
+
+#### Effective Date of 2019 Amendment
+Pub. L. 116–92, div. F, title LXXVI, § 7603(c), Dec. 20, 2019, 133 Stat. 2307, provided that: “The amendments made by this section [amending this section] shall not be effective with respect to any birth or placement occurring before October 1, 2020.”
+
+#### Clarification for Members of the National Guard and Reserves: Congressional Employees
+Pub. L. 116–92, div. F, title LXXVI, § 7605(b), Dec. 20, 2019, 133 Stat. 2308, provided that: “For purposes of determining the eligibility of a covered employee (as such term is defined in section 101[(a)](3) of the Congressional Accountability Act [[2 U.S.C. 1301(a)(3)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1301/a/3&num=0&edition=prelim)]) who is a member of the National Guard or Reserves to take leave under section 102(a) of the Family and Medical Leave Act of 1993 [[29 U.S.C. 2612(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2612/a&num=0&edition=prelim)] (pursuant to section 202(a)(1) of the Congressional Accountability Act [[2 U.S.C. 1312(a)(1)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1312/a/1&num=0&edition=prelim)]), any service by such employee on active duty (as defined in section 101[(a)](14) of the Family and Medical Leave Act of 1993 [[2 U.S.C. 1301(a)(14)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1301/a/14&num=0&edition=prelim)]) shall be counted as time during which such employee has been employed in an employing office for purposes of section 202(a)(2)(B) of the Congressional Accountability Act [[2 U.S.C. 1312(a)(2)(B)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1312/a/2/B&num=0&edition=prelim)].”
 
 
 <a id="section-1313"></a>
@@ -528,6 +588,45 @@ The Congressional Accountability Act of 1995, referred to in par. (3)(B), is Pub
 
 #### Codification
 Section was enacted as part of the Veterans Employment Opportunities Act of 1998, and not as part of the Congressional Accountability Act of 1995 which comprises this chapter.
+
+
+<a id="section-1316b"></a>
+## § 1316b. Rights and protections relating to criminal history inquiries
+**(a) Definitions** In this section, the terms “agency”, “criminal history record information”, and “suspension” have the meanings given the terms in [section 9201 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section9201&num=0&edition=prelim), except as otherwise modified by this section.
+
+**(b) Restrictions on criminal history inquiries**
+
+(1) **In general**
+
+  (A) *In general* — Except as provided in subparagraph (B), an employee of an employing office may not request that an applicant for employment as a covered employee disclose criminal history record information if the request would be prohibited under [section 9202 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section9202&num=0&edition=prelim) if made by an employee of an agency.
+
+  (B) *Conditional offer* — For purposes of applying that section 9202 under subparagraph (A), a reference in that section 9202 to a conditional offer shall be considered to be an offer of employment as a covered employee that is conditioned upon the results of a criminal history inquiry.
+
+(2) **Rules of construction** — The provisions of [section 9206 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section9206&num=0&edition=prelim) shall apply to employing offices, consistent with regulations issued under subsection (d).
+
+**(c) Remedy**
+
+(1) **In general** — The remedy for a violation of subsection (b)(1) shall be such remedy as would be appropriate if awarded under [section 9204 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section9204&num=0&edition=prelim) if the violation had been committed by an employee of an agency, consistent with regulations issued under subsection (d), except that the reference in that section to a suspension shall be considered to be a suspension with the level of compensation provided for a covered employee who is taking unpaid leave under [section 1312 of this title](./chapter-024-congressional-accountability.md#section-1312).
+
+(2) **Process for obtaining relief** — An applicant for employment as a covered employee who alleges a violation of subsection (b)(1) may rely on the provisions of subchapter IV (other than section 1407 or 1408 of this title, or a provision of this subchapter that permits a person to obtain a civil action or judicial review), consistent with regulations issued under subsection (d).
+
+**(d) Regulations to implement section**
+
+(1) **In general** — Not later than 18 months after December 20, 2019, the Board shall, pursuant to [section 1384 of this title](./chapter-024-congressional-accountability.md#section-1384), issue regulations to implement this section.
+
+(2) **Parallel with agency regulations** — The regulations issued under paragraph (1) shall be the same as substantive regulations issued by the Director of the Office of Personnel Management under section 2(b)(1) of the Fair Chance to Compete for Jobs Act of 2019 11 See References in Text note below. to implement the statutory provisions referred to in subsections (a) through (c) except to the extent that the Board may determine, for good cause shown and stated together with the regulation, that a modification of such regulations would be more effective for the implementation of the rights and protections under this section.
+
+**(e) Effective date** [Section 1302(a)(12) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1302/a/12&num=0&edition=prelim) and subsections (a) through (c) shall take effect on the date on which [section 9202 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section9202&num=0&edition=prelim) applies with respect to agencies.
+
+### Statutory Notes
+
+#### References in Text
+This subchapter, referred to in subsec. (c)(2), was in the original “this title”, meaning title II of Pub. L. 104–1, Jan. 23, 1995, 109 Stat. 7, which is classified principally to this subchapter. For complete classification of title II to the Code, see Tables.
+
+Section 2(b)(1) of the Fair Chance to Compete for Jobs Act of 2019, referred to in subsec. (d)(2), probably means section 1122(b)(1) of Pub. L. 116–92, which relates to regulations and is set out as a note under [section 9201 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section9201&num=0&edition=prelim), Government Organization and Employees. Section 1122 of Pub. L. 116–92 is the second section of the Fair Chance to Compete for Jobs Act of 2019, which was enacted as subtitle B of title XI of Pub. L. 116–92.
+
+#### Prior Provisions
+A prior section 207 of Pub. L. 104–1 was renumbered section 208 and is classified to [section 1317 of this title](./chapter-024-congressional-accountability.md#section-1317).
 
 
 <a id="section-1317"></a>
@@ -850,6 +949,9 @@ Subsec. (e)(2)(G). Pub. L. 115–397 substituted “Office of Congressional Work
 
 #### Effective Date of 2018 Amendment
 Amendment by Pub. L. 115–397 effective Dec. 21, 2018, and any reference to the Office of Compliance in any law, rule, regulation, or other official paper in effect as of such date to be considered to refer and apply to the Office of Congressional Workplace Rights, see section 308(d) of Pub. L. 115–397, set out as a note under [section 1381 of this title](./chapter-024-congressional-accountability.md#section-1381).
+
+#### Senate Democratic Leadership Offices Funding and Authorities
+Reference to the Office of the Secretary of the majority or minority conference of the Senate, as applicable, that represents the Democratic party deemed to be a reference to the Office of the Assistant Leader of the applicable conference, under certain conditions during the 117th Congress, see section 104 of div. I of Pub. L. 116–260, set out as a note under [section 6154 of this title](./chapter-061-senate-leadership.md#section-6154).
 
 
 <a id="section-1361"></a>
@@ -1200,11 +1302,7 @@ Pub. L. 111–114, § 1, Dec. 14, 2009, 123 Stat. 3028, provided that: “Notwit
 
   (A) *Authority to fix compensation* — The Chair may fix the compensation of the Executive Director.
 
-  (B) *Limitation* — The rate of pay for the Executive Director may not exceed the lesser of—
-
-    (i) the highest annual rate of compensation of any officer of the Senate; or
-
-    (ii) the highest annual rate of compensation of any officer of the House of Representatives.
+  (B) *Limitation* — The rate of pay for the Executive Director may not exceed the maximum rate of pay in effect under [section 4575(f) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section4575/f&num=0&edition=prelim).
 
 (3) **Term** — The term of office of the Executive Director shall be not more than 2 terms of 5 years, except that the first Executive Director shall have a single term of 7 years.
 
@@ -1336,6 +1434,12 @@ This chapter, referred to in subsecs. (a)(4), (c)(3), and (d)(2)(B)(i), (5)(A), 
 Part A of subchapter II, referred to in subsec. (d)(2)(B), (3)(B), (4)(A), was in the original “part A of title II”, meaning part A (§§ 201–207) of title II of Pub. L. 104–1, Jan. 23, 1995, 109 Stat. 7, which is classified principally to part A of subchapter II of this chapter. For complete classification of part A to the Code, see Tables.
 
 #### Amendments
+2019—Subsec. (a)(2)(B). Pub. L. 116–94 substituted “the maximum rate of pay in effect under [section 4575(f) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section4575/f&num=0&edition=prelim).” for “the lesser of—
+
+“(i) the highest annual rate of compensation of any officer of the Senate; or
+
+“(ii) the highest annual rate of compensation of any officer of the House of Representatives.”
+
 2018—Subsecs. (d) to (g). Pub. L. 115–397 added subsec. (d) and redesignated former subsecs. (d) to (f) as (e) to (g), respectively.
 
 2007—Subsec. (a)(2). Pub. L. 110–161, § 1101(b)(1), added par. (2) and struck out heading and text of former par. (2). Text read as follows: “The Chair may fix the compensation of the Executive Director. The rate of pay for the Executive Director may not exceed the annual rate of basic pay prescribed for level V of the Executive Schedule under [section 5316 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5316&num=0&edition=prelim).”
@@ -1351,6 +1455,9 @@ Subsec. (c)(2). Pub. L. 110–161, § 1101(b)(3), added par. (2) and struck out 
 Subsec. (c)(5). Pub. L. 110–164, § 2(a)(3), substituted “not more than 2 terms” for “a single term”.
 
 Subsec. (e). Pub. L. 110–161, § 1101(b)(4), substituted “Government Accountability Office” for “General Accounting Office”.
+
+#### Effective Date of 2019 Amendment
+Amendment by Pub. L. 116–94 effective on the later of the first day of the first applicable pay period beginning on or after Jan. 1, 2020, or the first day of the first applicable pay period beginning on or after Dec. 20, 2019, see section 212(c) of Pub. L. 116–94, set out as a note under [section 282b of this title](./chapter-009-office-of-legislative-counsel.md#section-282b).
 
 #### Effective Date of 2018 Amendment
 Amendment by Pub. L. 115–397 effective upon expiration of the 180-day period beginning on Dec. 21, 2018, with provisions for effect on pending proceedings, see section 401 of Pub. L. 115–397, set out as a note under [section 1301 of this title](./chapter-024-congressional-accountability.md#section-1301).
@@ -1769,7 +1876,7 @@ Section effective upon expiration of the 180-day period beginning on Dec. 21, 20
 This chapter, referred to in subsec. (c), was in the original “this Act”, meaning Pub. L. 104–1, Jan. 23, 1995, 109 Stat. 3, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 1301 of this title](./chapter-024-congressional-accountability.md#section-1301) and Tables.
 
 #### Prior Provisions
-A prior section 404 of Pub. L. 104–1 was classifed to [section 1404 of this title](./chapter-024-congressional-accountability.md#section-1404), prior to repeal by Pub. L. 115–397, title I, § 101(c)(1), Dec. 21, 2018, 132 Stat. 5301.
+A prior section 404 of Pub. L. 104–1 was classified to [section 1404 of this title](./chapter-024-congressional-accountability.md#section-1404), prior to repeal by Pub. L. 115–397, title I, § 101(c)(1), Dec. 21, 2018, 132 Stat. 5301.
 
 #### Amendments
 2018—Subsec. (a). Pub. L. 115–397, § 104(a), amended subsec. (a) generally. Prior to amendment, text read as follows: “Not later than 15 days after receipt by the employee of notice of the end of the counseling period under [section 1402 of this title](./chapter-024-congressional-accountability.md#section-1402), but prior to and as a condition of making an election under [section 1404 of this title](./chapter-024-congressional-accountability.md#section-1404), the covered employee who alleged a violation of a law shall file a request for mediation with the Office.”
@@ -2453,7 +2560,7 @@ Subchapter II of this chapter, referred to in text, was in the original a refere
 ### Statutory Notes
 
 #### References in Text
-For the effective dates of sections 1311, 1312, and 1331 of this title, referred to in text, see sections 1311(d), 1312(e), and 1331(i), respectively, of this title.
+For the effective dates of sections 1311, 1312, and 1331 of this title, referred to in text, see sections 1311(e), 1312(f), and 1331(i), respectively, of this title.
 
 Rule LI of the Rules of the House of Representatives, referred to in subsec. (a)(1), (2), was repealed by H. Res. No. 5, § 23(a), One Hundred Fifth Congress, Jan. 7, 1997.
 

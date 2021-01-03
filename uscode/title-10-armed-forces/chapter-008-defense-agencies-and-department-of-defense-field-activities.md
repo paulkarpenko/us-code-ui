@@ -54,13 +54,9 @@ Pub. L. 99–433, title III, § 303, Oct. 1, 1986, 100 Stat. 1023, directed Secr
 
 **(c) Periodic Review.—**
 
-(1) 11 So in original. Two pars. (1) have been enacted. Periodically (and not less often than every two years), the Secretary of Defense shall review the services and supplies provided by each Defense Agency and Department of Defense Field Activity to ensure that—
+(1)
 
-  (A) there is a continuing need for each such agency and activity; and
-
-  (B) the provision of those services and supplies by each such agency and activity, rather than by the military departments, is a more effective, economical, or efficient manner of providing those services and supplies or of meeting the requirements for combat readiness of the armed forces.
-
-(1) 1(A) Not later than January 1, 2020, and periodically (but not less frequently than every four years) thereafter, the Chief Management Officer of the Department of Defense shall conduct a review of the efficiency and effectiveness of each Defense Agency and Department of Defense Field Activity. Each review shall, to the maximum extent practicable, be conducted in coordination with other ongoing efforts in connection with business enterprise reform.
+  (A) Not later than January 1, 2020, and periodically (but not less frequently than every four years) thereafter, the Chief Management Officer of the Department of Defense shall conduct a review of the efficiency and effectiveness of each Defense Agency and Department of Defense Field Activity. Each review shall, to the maximum extent practicable, be conducted in coordination with other ongoing efforts in connection with business enterprise reform.
 
   (B) As part of each review under this paragraph, the Chief Management Officer shall identify each activity of an Agency or Activity that is substantially similar to, or duplicative of, an activity carried out by another organization or element of the Department of Defense, or is not being performed to an adequate level to meet Department needs.
 
@@ -102,6 +98,8 @@ Pub. L. 99–433, title III, § 303, Oct. 1, 1986, 100 Stat. 1023, directed Secr
 A prior section 192, Pub. L. 98–215, title V, § 501(a), Dec. 9, 1983, 97 Stat. 1478, which related to benefits for certain personnel of the Defense Intelligence Agency, was redesignated as [section 1605 of this title](./chapter-083-civilian-defense-intelligence-employees.md#section-1605) and amended by Pub. L. 99–145, title XIII, § 1302(a)(1), Nov. 8, 1985, 99 Stat. 737. Provisions of prior section 192 as related to members of the armed forces were enacted as section 431 (now 491) of Title 37, Pay and Allowances of the Uniformed Services, by section 1302(b)(1) of Pub. L. 99–145.
 
 #### Amendments
+2021—Subsec. (c)(1). Pub. L. 116–283 struck out subsec. (c) relating to periodic review of services and supplies provided by each Defense Agency and Department of Defense Field Activity.
+
 2018—Subsec. (c)(1) to (3). Pub. L. 115–232, § 923(a), added par. (1) relating to efficiency and effectiveness reviews and par. (2) and redesignated former par. (2) as (3).
 
 Subsec. (e). Pub. L. 115–232, § 923(b), (c), added subsec. (e) and struck out former subsec. (e) which related to special rule for Defense Business Transformation Agency.
@@ -276,7 +274,7 @@ Pub. L. 105–85, div. A, title III, § 387(c), Nov. 18, 1997, 111 Stat. 1713, a
 
   (B) To review proposed significant changes to the test and evaluation facilities and resources of the Major Range and Test Facility Base, including with respect to the expansion, divestment, consolidation, or curtailment of activities, before they are implemented by the Secretaries of the military departments or the heads of the Defense Agencies with test and evaluation responsibilities and advise the Secretary of Defense and the Under Secretary of Defense for Research and Engineering of the impact of such changes on the adequacy of such test and evaluation facilities and resources to meet the test and evaluation requirements of the Department.
 
-  (C) To complete and maintain the strategic plan required by subsection (d).
+  (C) To complete and maintain the quadrennial strategic plan required by subsection (d).
 
   (D) To review proposed budgets under subsection (e) and submit reports and certifications required by such subsection.
 
@@ -284,17 +282,17 @@ Pub. L. 105–85, div. A, title III, § 387(c), Nov. 18, 1997, 111 Stat. 1713, a
 
 (2) The Director shall have access to such records and data of the Department of Defense (including the appropriate records and data of each military department and Defense Agency) that are necessary in order to carry out the duties of the Director under this section.
 
-**(d) Strategic Plan for Department of Defense Test and Evaluation Resources.—**
+**(d) Quadrennial Strategic Plan for Department of Defense Test and Evaluation Resources.—**
 
-(1) Not less often than once every two fiscal years, the Under Secretary of Defense for Research and Engineering, in coordination with the Director of the Department of Defense Test Resources Management Center, the Director of Operational Test and Evaluation, the Director of the Defense Intelligence Agency, the Secretaries of the military departments, and the heads of Defense Agencies with test and evaluation responsibilities, shall complete a strategic plan reflecting the future needs of the Department of Defense with respect to test and evaluation facilities and resources. Each strategic plan shall cover the period of thirty fiscal years beginning with the fiscal year in which the plan is submitted under paragraph (3). The strategic plan shall be based on a comprehensive review of both funded and unfunded test and evaluation requirements of the Department, future threats to national security, and the adequacy of the test and evaluation facilities and resources of the Department to meet those future requirements and threats.
+(1) Not less often than once every four fiscal years, and within one year after release of the National Defense Strategy,, 11 So in original. the Under Secretary of Defense for Research and Engineering, in coordination with the Director of the Department of Defense Test Resource Management Center, the Director of Operational Test and Evaluation, the Director of the Defense Intelligence Agency, the Secretaries of the military departments, and the heads of Defense Agencies with test and evaluation responsibilities, shall complete a quadrennial strategic plan reflecting the future needs of the Department of Defense with respect to test and evaluation facilities and resources. Each quadrennial strategic plan shall cover the period of thirty fiscal years beginning with the fiscal year in which the plan is submitted under paragraph (3). The quadrennial strategic plan shall be based on a comprehensive review of both funded and unfunded test and evaluation requirements of the Department, future threats to national security, and the adequacy of the test and evaluation facilities and resources of the Department to meet those future requirements and threats.
 
-(2) The strategic plan shall include the following:
+(2) The quadrennial strategic plan shall include the following:
 
   (A) An assessment of the test and evaluation requirements of the Department for the period covered by the plan.
 
   (B) An identification of performance measures associated with the successful achievement of test and evaluation objectives for the period covered by the plan.
 
-  (C) An assessment of the test and evaluation facilities and resources that will be needed to meet current and future requirements based on current and emerging threats and satisfy such performance measures.
+  (C) An assessment of the test and evaluation facilities and resources that will be needed to meet current and future requirements for test and evaluation of the Department of Defense major weapon systems based on current and emerging threats.
 
   (D) An assessment of the current state of the test and evaluation facilities and resources of the Department.
 
@@ -304,9 +302,23 @@ Pub. L. 105–85, div. A, title III, § 387(c), Nov. 18, 1997, 111 Stat. 1713, a
 
   (G) An assessment of the budgetary resources necessary to implement such acquisitions, upgrades, and improvements.
 
-(3) Upon completing a strategic plan under paragraph (1), the Director shall submit to the Secretary of Defense a report on that plan. The report shall include the plan and a description of the review on which the plan is based.
+(3) Upon completing a quadrennial strategic plan under paragraph (1), the Director shall submit to the Secretary of Defense a report on that plan. The report shall include the plan and a description of the review on which the plan is based.
 
 (4) Not later than 60 days after the date on which the report is submitted under paragraph (3), the Secretary of Defense shall transmit to the Committee on Armed Services and Committee on Appropriations of the Senate and the Committee on Armed Services and Committee on Appropriations of the House of Representatives the report, together with any comments with respect to the report that the Secretary considers appropriate.
+
+(5)
+
+  (A) In addition to the quadrennial strategic plan completed under paragraph (1), the Director of the Department of Defense Test Resource Management Center shall also complete an annual update to the quadrennial strategic plan.
+
+  (B) Each annual update completed under subparagraph (A) shall include the following:
+
+    (i) A summary of changes to the assessment provided in the most recent quadrennial strategic plan.
+
+    (ii) Comments and recommendations the Director considers appropriate.
+
+    (iii) Test and evaluation challenges raised since the completion of the most recent quadrennial strategic plan.
+
+    (iv) Actions taken or planned to address such challenges.
 
 **(e) Certification of Budgets.—**
 
@@ -316,7 +328,7 @@ Pub. L. 105–85, div. A, title III, § 387(c), Nov. 18, 1997, 111 Stat. 1713, a
 
   (A) The Director of the Center shall review each proposed budget transmitted under paragraph (1) and shall, not later than January 31 of the year preceding the fiscal year for which such budgets are proposed, submit to the Secretary of Defense a report containing the comments of the Director with respect to all such proposed budgets, together with the certification of the Director as to whether such proposed budgets are adequate.
 
-  (B) The Director shall also submit, together with such report and such certification, an additional certification as to whether such proposed budgets provide balanced support for such strategic plan.
+  (B) The Director shall also submit, together with such report and such certification, an additional certification as to whether such proposed budgets provide balanced support for such quadrennial strategic plan.
 
 (3) The Secretary of Defense shall, not later than March 31 of the year preceding the fiscal year for which such budgets are proposed, submit to Congress a report on those proposed budgets which the Director has not certified under paragraph (2)(A) to be adequate. The report shall include the following matters:
 
@@ -342,7 +354,22 @@ Pub. L. 105–85, div. A, title III, § 387(c), Nov. 18, 1997, 111 Stat. 1713, a
 
 ### Statutory Notes
 
+#### Transfer of Section
+Pub. L. 116–283, div. A, title XVIII, §§ 1801(d), 1845(b), Jan. 1, 2021, 134 Stat. 4151, 4247, provided in part that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, this section is transferred to chapter 309 of this title, as amended by section 1845(a) of Pub. L. 116–283, inserted after the table of sections, and redesignated as [section 4173 of this title](./chapter-309-test-and-evaluation.md#section-4173). See Effective Date of 2021 Amendment note below.
+
 #### Amendments
+2021—Subsec. (c)(1)(C). Pub. L. 116–283, § 272(a)(1), inserted “quadrennial” before “strategic plan”.
+
+Subsec. (d). Pub. L. 116–283, § 272(a)(2), inserted “Quadrennial” before “Strategic Plan” in heading and “quadrennial” before “strategic plan” whenever appearing in text.
+
+Subsec. (d)(1). Pub. L. 116–283, § 272(b), (e), substituted “four fiscal years, and within one year after release of the National Defense Strategy,” for “two fiscal years” and “Test Resource Management Center” for “Test Resources Management Center”.
+
+Subsec. (d)(2)(C). Pub. L. 116–283, § 272(c), substituted “for test and evaluation of the Department of Defense major weapon systems based on current and emerging threats.” for “based on current and emerging threats and satisfy such performance measures.”
+
+Subsec. (d)(5). Pub. L. 116–283, § 272(d), added par. (5).
+
+Subsec. (e)(2)(B). Pub. L. 116–283, § 272(a)(1), inserted “quadrennial” before “strategic plan”.
+
 2018—Subsec. (c)(1)(B). Pub. L. 115–232, § 904, which directed substitution of “Under Secretary of Defense for Research and Engineering” for “Under Secretary of Defense for Acquisition, Technology, and Logistics”, was executed by making the substitution for “Under Secretary of Acquisition, Technology, and Logistics” to reflect the probable intent of Congress.
 
 Subsec. (d)(1). Pub. L. 115–232, § 221(1), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “Not less often than once every two fiscal years, the Director, in coordination with the Director of Operational Test and Evaluation, the Secretaries of the military departments, and the heads of Defense Agencies with test and evaluation responsibilities, shall complete a strategic plan reflecting the needs of the Department of Defense with respect to test and evaluation facilities and resources, including modeling and simulation capabilities. Each such strategic plan shall cover the period of ten fiscal years beginning with the fiscal year in which the plan is submitted under paragraph (3). The strategic plan shall be based on a comprehensive review of the test and evaluation requirements of the Department and the adequacy of the test and evaluation facilities and resources of the Department to meet those requirements.”
@@ -380,6 +407,9 @@ Subsec. (h). Pub. L. 109–163, § 258(a), substituted “Secretary of Defense�
 Subsec. (c)(1)(B). Pub. L. 108–136, § 212(b)(1), inserted “, other than budgets and expenditures for activities described in [section 139(i) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section139/i&num=0&edition=prelim)” after “Department of Defense”.
 
 Subsec. (e)(1). Pub. L. 108–136, § 212(b)(2), struck out “, the Director of Operational Test and Evaluation,” after “each military department” and substituted “or Defense Agency head’s” for “, Director’s, or head’s”.
+
+#### Effective Date of 2021 Amendment
+Amendment by 1845(b) of Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
 
 #### Termination of Reporting Requirements
 For termination, effective Dec. 31, 2021, of provisions in subsecs. (d)(1), (4) and (e)(3) of this section requiring submittal of report to Congress, see section 1061 of Pub. L. 114–328, set out as a note under [section 111 of this title](./chapter-002-department-of-defense.md#section-111).
@@ -502,14 +532,28 @@ Section, added Pub. L. 105–85, div. A, title II, § 235(a), Nov. 18, 1997, 111
 
 **(d) Defense Audit Agency Defined.—** In this section, the term “defense audit agency” means the Defense Contract Audit Agency and the Defense Contract Management Agency.
 
+### Statutory Notes
+
+#### Transfer of Section
+Pub. L. 116–283, div. A, title XVIII, §§ 1801(d), 1835(c), Jan. 1, 2021, 134 Stat. 4151, 4240, provided in part that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, this section is transferred to chapter 279 of this title, as amended by section 1835(a) of Pub. L. 116–283, inserted (in designated order) after section 3841, as amended by subsection 1835(b) of Pub. L. 116–283, and redesignated as [section 3848 of this title](./chapter-279-contractor-audits-and-accounting.md#section-3848).
+
+#### Effective Date of 2021 Amendment
+Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
+
 
 <a id="section-205"></a>
 ## § 205. Missile Defense Agency
-**(a) Term of Director.—** The Director of the Missile Defense Agency shall be appointed for a six-year term.
 
-**(b) Reporting.—** The Missile Defense Agency shall be under the authority, direction, and control of the Under Secretary of Defense for Research and Engineering.
+The Director of the Missile Defense Agency shall be appointed for a six-year term.
 
 ### Statutory Notes
+
+#### Amendments
+2021—Pub. L. 116–283 amended section generally. Prior to amendment, section read as follows:
+
+“(a) Term of Director.—The Director of the Missile Defense Agency shall be appointed for a six-year term.
+
+“(b) Reporting.—The Missile Defense Agency shall be under the authority, direction, and control of the Under Secretary of Defense for Research and Engineering.”
 
 #### Application
 Pub. L. 115–91, div. A, title XVI, § 1676(c)(3), Dec. 12, 2017, 131 Stat. 1773, provided that: “(A) Terms.—Subsection (a) of [section 205 of title 10](./chapter-008-defense-agencies-and-department-of-defense-field-activities.md#section-205), United States Code, as added by paragraph (1), shall apply the day following the date on which the present incumbent in the office of the Director of the Missile Defense Agency, as of the date of the enactment of this Act [Dec. 12, 2017], ceases to serve as such. “(B) Reporting.—Subsection (b) of such section 205 shall apply beginning on February 1, 2018. In carrying out such subsection, the Missile Defense Agency shall be under the authority, direction, and control of the Under Secretary of Defense for Research and Engineering in the same manner as the Missile Defense Agency was under the authority, direction, and control of the Under Secretary of Defense for Acquisition, Technology, and Logistics pursuant to Department of Defense Directive 5134.09. Any reference in such Instruction to the Under Secretary of Defense for Acquisition, Technology, and Logistics shall be deemed to be a reference to the Under Secretary of Defense for Research and Engineering, including with respect to the Under Secretary serving as the chairman of the Missile Defense Executive Board.”

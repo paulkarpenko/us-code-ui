@@ -2,7 +2,7 @@
 title: 47
 chapter: '5'
 heading: WIRE OR RADIO COMMUNICATION
-section_count: 237
+section_count: 249
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title47&num=0&edition=prelim
 ---
@@ -35,7 +35,7 @@ Pub. L. 105–277, div. C, title XI, Oct. 21, 1998, 112 Stat. 2681–719, as ame
 Pub. L. 104–104, title I, § 101(c), Feb. 8, 1996, 110 Stat. 79, provided that: “The Act [Communications Act of 1934 ([47 U.S.C. 151](./chapter-005-wire-or-radio-communication.md#section-151) et seq.)] is amended so that— “(1) the designation and heading of each title of the Act shall be in the form and typeface of the designation and heading of this title of this Act [110 Stat. 61]; and “(2) the designation and heading of each part of each title of the Act shall be in the form and typeface of the designation and heading of part I of title II of the Act [110 Stat. 61], as amended by subsection (a).”
 
 #### Study of Telecommunications and Information Goals
-Pub. L. 97–259, title II, § 202, Sept. 13, 1982, 96 Stat. 1099, provided that: “(a) The National Telecommunications and Information Administration shall conduct a comprehensive study of the long-range international telecommunications and information goals of the United States, the specific international telecommunications and information policies necessary to promote those goals and the strategies that will ensure that the United States achieves them. The Administration shall further conduct a review of the structures, procedures, and mechanisms which are utilized by the United States to develop international telecommunications and information policy. “(b) In any study or review conducted pursuant to this section, the National Telecommunications and Information Administration shall not make public information regarding usage or traffic patterns which would damage United States commercial interests. Any such study or review shall be limited to international telecommunications policies or to domestic telecommunications issues which directly affect such policies.”
+Pub. L. 97–259, title II, § 202, Sept. 13, 1982, 96 Stat. 1099, required the National Telecommunications and Information Administration to conduct a comprehensive study of the long-range international telecommunications and information goals of the United States and the policies and the strategies needed to achieve these goals, with a review of these policies, and provided the Administration would not make public information regarding usage or traffic patterns which would damage United States commercial interests.
 
 #### Commission on Governmental Use of International Telecommunications
 Act July 29, 1954, ch. 647, 68 Stat. 587, established the Commission on Governmental Use of International Telecommunications to examine, study and report on the objectives, operations, and effectiveness of information programs with respect to the prompt development of techniques, methods, and programs for greatly expanded and far more effective operations in this vital area of foreign policy through the use of foreign telecommunications. The Commission was required to make a report of its findings and recommendations on or before Dec. 31, 1954, and the Commission ceased to exist 90 days after submission of its report to the Congress.
@@ -678,9 +678,6 @@ Amendment by act Aug. 13, 1954, effective Nov. 13, 1954, see section 6 of act Au
 #### Termination of Reporting Requirements
 For termination, effective May 15, 2000, of provisions in subsecs. (g)(2)(C) and (k) of this section relating to requirements to submit regular periodic reports to Congress, see section 3003 of Pub. L. 104–66, as amended, set out as a note under [section 1113 of Title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1113&num=0&edition=prelim), Money and Finance, and the 5th and 9th items on page 167 of House Document No. 103–7.
 
-#### Transfer of Functions
-All offices of collector of customs, referred to in subsec. (f)(3), in Bureau of Customs of Department of the Treasury to which appointments were required to be made by President with advice and consent of Senate ordered abolished with such offices to be terminated not later than Dec. 31, 1966, by Reorg. Plan No. 1 of 1965, eff. May 25, 1965, 30 F.R. 7035, 79 Stat. 1317, set out in the Appendix to Title 5, Government Organization and Employees. All functions of offices eliminated were already vested in Secretary of the Treasury by Reorg. Plan No. 26 of 1950, eff. July 31, 1950, 15 F.R. 4935, 64 Stat. 1280, set out in the Appendix to Title 5.
-
 #### Effect on Authority of Federal Communications Commission
 Pub. L. 115–141, div. P, title IV, § 403, Mar. 23, 2018, 132 Stat. 1090, provided that: “Nothing in this title [see Tables for classification] or the amendments made by this title shall be construed to expand or contract the authority of the Commission [Federal Communications Commission].”
 
@@ -692,6 +689,218 @@ Pub. L. 100–594, § 6, Nov. 3, 1988, 102 Stat. 3021, as amended by Pub. L. 101
 
 #### Expiration of Commissioners’ Terms
 Pub. L. 97–253, title V, § 501(a), Sept. 8, 1982, 96 Stat. 805, provided that: “Upon expiration of the term of office as a member of the Federal Communications Commission, which is prescribed by law to occur on June 30, 1982, any member appointed to fill such office after such date shall be appointed for a term which ends on June 30, 1983, and such office shall be abolished on July 1, 1983. Upon expiration of the term of office as a member of such Commission, which—“(1) is prescribed by law; “(2) is in effect before the date of the enactment of this Act [Sept. 8, 1982]; and “(3) is to occur on June 30, 1983; no person shall be appointed to fill such office after such date, and such office shall be abolished on July 1, 1983.”
+
+#### Transfer of Functions
+All offices of collector of customs, referred to in subsec. (f)(3), in Bureau of Customs of Department of the Treasury to which appointments were required to be made by President with advice and consent of Senate ordered abolished with such offices to be terminated not later than Dec. 31, 1966, by Reorg. Plan No. 1 of 1965, eff. May 25, 1965, 30 F.R. 7035, 79 Stat. 1317, set out in the Appendix to Title 5, Government Organization and Employees. All functions of offices eliminated were already vested in Secretary of the Treasury by Reorg. Plan No. 26 of 1950, eff. July 31, 1950, 15 F.R. 4935, 64 Stat. 1280, set out in the Appendix to Title 5.
+
+#### Ex. Ord. No. 13913. Establishing the Committee for the Assessment of Foreign Participation in the United States Telecommunications Services Sector
+Ex. Ord. No. 13913, Apr. 4, 2020, 85 F.R. 19643, provided:
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, including [section 301 of title 3](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title3-section301&num=0&edition=prelim), United States Code, it is hereby ordered as follows:
+
+Section 1. Policy. The security, integrity, and availability of United States telecommunications networks are vital to United States national security and law enforcement interests.
+
+Sec. 2. Definitions. For purposes of this order:
+
+(a) “License” means any license, certificate of public interest, or other authorization issued or granted by the Federal Communications Commission (FCC) after referral of an application by the FCC to the Committee established by subsection 3(a) of this order or, if referred before the date of this order [Apr. 4, 2020], to the group of executive departments and agencies involved in the review process that was previously in place.
+
+(b) “Application” means any application, petition, or other request for a license or authorization, or the transfer of a license or authorization, that is referred by the FCC to the Committee established in subsection 3(a) of this order or that was referred by the FCC before the date of this order to the group of executive departments and agencies involved in the review process that was previously in place.
+
+(c) “Intelligence Community” shall have the meaning assigned to it in subsection 3.5(h) of Executive Order 12333 of December 4, 1981 (United States Intelligence Activities), as amended [[50 U.S.C. 3001](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3001&num=0&edition=prelim) note].
+
+(d) “Mitigation measures” shall mean both standard and non-standard mitigation measures.
+
+(e) “Standard mitigation measures” shall be those measures agreed upon by the Committee Members (as defined in subsection 3(b) of this order) and Committee Advisors (as defined in subsection 3(d) of this order).
+
+Sec. 3. Establishment. (a) There is hereby established the Committee for the Assessment of Foreign Participation in the United States Telecommunications Services Sector (Committee), the primary objective of which shall be to assist the FCC in its public interest review of national security and law enforcement concerns that may be raised by foreign participation in the United States telecommunications services sector. The function of the Committee shall be:
+
+(i) to review applications and licenses for risks to national security and law enforcement interests posed by such applications or licenses; and
+
+(ii) to respond to any risks presented by applications or licenses by recommending to the FCC, as appropriate and consistent with the provisions of this order, that it dismiss an application, deny an application, condition the grant of an application upon compliance with mitigation measures, modify a license with a condition of compliance with mitigation measures, or revoke a license.
+
+(b) The Committee shall be composed of the following members (Committee Members):
+
+(i) the Secretary of Defense;
+
+(ii) the Attorney General;
+
+(iii) the Secretary of Homeland Security; and
+
+(iv) the head of any other executive department or agency, or any Assistant to the President, as the President determines appropriate.
+
+(c) The Attorney General shall serve as Chair of the Committee (Chair).
+
+(d) The following officials shall be advisors to the Committee (Committee Advisors) with no role in the duties set forth in sections 4 through 11 of this order except as provided in subsections 6(c), 9(f), 9(g), 10(g), and 11(d) of this order:
+
+(i) the Secretary of State;
+
+(ii) the Secretary of the Treasury;
+
+(iii) the Secretary of Commerce;
+
+(iv) the Director of the Office of Management and Budget;
+
+(v) the United States Trade Representative;
+
+(vi) the Director of National Intelligence;
+
+(vii) the Administrator of General Services;
+
+(viii) the Assistant to the President for National Security Affairs;
+
+(ix) the Assistant to the President for Economic Policy;
+
+(x) the Director of the Office of Science and Technology Policy;
+
+(xi) the Chair of the Council of Economic Advisers; and
+
+(xii) any other Assistant to the President, as the President determines appropriate.
+
+(e) The Committee Members and Committee Advisors may, subject to the limitations in this order, designate a senior executive from their entity to perform the functions described in this order on their behalf.
+
+Sec. 4. Duties of Committee Chair and Members. (a) The Chair shall designate one or more Committee Members to serve as the lead for executing any function of the Committee (Lead Member). The Chair may assign to a Lead Member any or all of the following responsibilities as appropriate and consistent with their statutory authorities:
+
+(i) submitting to applicants or licensees any questions or requests for information to establish facts about an application or license necessary to conduct the reviews and assessments described in sections 5 and 6 of this order;
+
+(ii) identifying risks to national security or law enforcement interests of the United States raised by an application or license, in consultation, as appropriate, with other Committee Members;
+
+(iii) coordinating with other Committee Members on the reviews and assessments described in sections 5 and 6 of this order;
+
+(iv) proposing, in coordination with the Chair, any mitigation measures necessary to address any risk to national security or law enforcement interests of the United States identified through the risk-based analysis described in subsection 9(c) of this order;
+
+(v) coordinating with other Committee Members and communicating with applicants or licensees regarding any mitigation measures necessary to address risks to national security and law enforcement interests of the United States;
+
+(vi) monitoring compliance with, and coordinating with the Committee regarding, any mitigation measure the Committee recommends be imposed by the FCC as a condition on a license; or
+
+(vii) any related responsibilities as specified by the Chair.
+
+(b) Except as otherwise provided in this order, the Chair shall have the exclusive authority to act, or to authorize other Committee Members to act, on behalf of the Committee, including communicating with the FCC and with applicants or licensees on behalf of the Committee.
+
+(c) In acting on behalf of the Committee, the Chair or a Lead Member, as applicable, shall keep the Committee fully informed of the Chair’s or Lead Member’s respective activities taken under this order and shall consult with the Committee before taking any material actions under this order.
+
+Sec. 5. Committee Application Review Process. (a) The Committee shall review and assess applications to determine whether granting a license or the transfer of a license poses a risk to national security or law enforcement interests of the United States.
+
+(b) Upon referral by the FCC of an application, the Committee shall conduct an initial review of the application to evaluate whether granting the requested license or transfer of license may pose a risk to national security or law enforcement interests of the United States.
+
+(i) During the initial review, the Committee may determine:
+
+(A) that granting an application for a license or the transfer of a license raises no current risk to national security or law enforcement interests;
+
+(B) that any identified risk to national security or law enforcement interests raised by an application may be addressed through standard mitigation measures recommended by the Committee; or
+
+(C) that a secondary assessment of an application is warranted because risk to national security or law enforcement interests cannot be mitigated by standard mitigation measures.
+
+(ii) If the Committee determines that granting the application does not raise a current risk to national security or law enforcement interests or that standard mitigation measures would mitigate any risk to national security or law enforcement interests, such a determination and any recommendations shall be communicated to the FCC in a manner consistent with sections 9 and 10 of this order.
+
+(iii) Except as provided in subsection 5(d) of this order, any initial review shall be completed before the end of the 120-day period beginning on the date the Chair determines that the applicant’s responses to any questions and information requests from the Committee are complete.
+
+(c) When the Committee has determined that a secondary assessment of an application is warranted, it shall conduct such an assessment to further evaluate the risk posed to national security and law enforcement interests of the United States and to determine whether to make any recommendations pursuant to section 9 of this order. Any secondary assessment of an application shall be completed no more than 90 days after the Committee’s determination that a secondary assessment is warranted. The Chair shall notify the FCC of a determination that a secondary assessment is warranted.
+
+(d) During an initial review under subsection 5(b) of this order or a secondary assessment under subsection 5(c) of this order, if an applicant fails to respond to any additional requests for information after the Chair determines the responses are complete, the Committee may either extend the initial review or secondary assessment period or make a recommendation to the FCC to dismiss the application without prejudice. The Chair shall notify the FCC of a determination that the applicant’s responses are complete, of any extensions of the initial review period, or when the Committee recommends dismissal under this subsection.
+
+Sec. 6. Committee License Review Process. (a) The Committee may review existing licenses to identify any additional or new risks to national security or law enforcement interests of the United States.
+
+(b) The Committee shall determine whether to review an existing license by majority vote of the Committee Members.
+
+(c) If the Committee conducts such a review, it shall promptly notify the Committee Advisors.
+
+Sec. 7. Threat Analysis by the Director of National Intelligence. (a) For each license or application reviewed by the Committee, the Director of National Intelligence shall produce a written assessment of any threat to national security interests of the United States posed by granting the application or maintaining the license. The Director of National Intelligence shall solicit and incorporate the views of the Intelligence Community, as appropriate.
+
+(b) The analysis required under subsection (a) of this section shall be provided to the Committee within the earlier of 30 days from the date on which the Chair determines that an applicant’s or licensee’s responses to any questions and requests for information from the Committee are complete or 30 days from the date on which the Chair requests such an analysis. Such an analysis may be supplemented or amended as appropriate or upon a request for additional information by the Chair.
+
+(c) The Director of National Intelligence shall ensure that the Intelligence Community continues to analyze and disseminate to the Committee any additional relevant information that may become available during the course of a review or assessment conducted with respect to an application or license.
+
+Sec. 8. Requests for Information. In furtherance of its reviews and assessments of applications and licenses as described in this section, the Committee may seek information from applicants, licensees, and any other entity as needed. Information submitted to the Committee pursuant to this subsection and analysis concerning such information shall not be disclosed beyond Committee Member entities and Committee Advisor entities, except as appropriate and consistent with procedures governing the handling of classified or otherwise privileged or protected information, under the following circumstances:
+
+(a) to the extent required by law or for any administrative or judicial action or proceeding, or for law enforcement purposes;
+
+(b) to other governmental entities at the discretion of the Chair, provided that such entities make adequate assurances to the Chair that they will not further disclose the shared information, including to members of the public; or
+
+(c) to the Committee on Foreign Investment in the United States with respect to transactions reviewed by that Committee pursuant to [50 U.S.C. 4565](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4565&num=0&edition=prelim), in which case this information and analysis shall be treated consistent with the disclosure protections of [50 U.S.C. 4565(c)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4565/c&num=0&edition=prelim).
+
+Sec. 9. Recommendations by the Committee Pursuant to the Committee Review Process. (a) With respect to applications that are reviewed or assessed pursuant to section 5 of this order, the Committee shall:
+
+(i) advise the FCC that the Committee has no recommendation for the FCC on the application and no objection to the FCC granting the license or transfer of the license;
+
+(ii) recommend that the FCC deny the application due to the risk to the national security or law enforcement interests of the United States; or
+
+(iii) recommend that the FCC only grant the license or transfer of the license contingent on the applicant’s compliance with mitigation measures, consistent with section 10 of this order.
+
+(b) With respect to a license reviewed pursuant to section 6 of this order, the Committee may, when appropriate:
+
+(i) recommend that the FCC modify the license to include a condition of compliance with mitigation measures negotiated by the Committee;
+
+(ii) recommend that the FCC revoke the license due to the risk to national security or law enforcement interests of the United States; or
+
+(iii) take no action with respect to the license.
+
+(c) Any recommendation made by the Committee pursuant to subsections (a) and (b) of this section shall be based on a written risk-based analysis, conducted by the Committee Member entity or entities proposing the denial, mitigation measures, modification, revocation, or no action.
+
+(d) The Committee shall make the recommendations described in subsections (a)(ii), (a)(iii), (b)(i), and (b)(ii) of this section if it determines that there is credible evidence that the application or license poses a risk to the national security or law enforcement interests of the United States.
+
+(e) The Committee shall attempt to reach consensus on any recommendation authorized by this order. If senior executive Committee officials designated pursuant to subsection 3(e) of this order cannot reach consensus on a recommendation, the Chair shall present the issue to the Committee Members, who shall determine the Committee recommendation by majority vote. If the vote results in a tie, the Chair shall determine the recommendation.
+
+(f) If the Committee’s determination is a recommendation to deny an application, to grant an application contingent on compliance with non-standard mitigation measures, to modify a license to condition it upon compliance with non-standard mitigation measures, or to revoke a license, the Chair shall notify the Committee Advisors and, to the extent consistent with applicable law, provide them all available assessments, evaluations, or other analyses regarding such determination. Within 21 days of the notification, the Committee Advisors shall advise the Chair whether they oppose the recommendation.
+
+(i) If one or more of the Committee Advisors opposes the recommendation, the senior executives designated by the Committee Members and Committee Advisors shall promptly confer in an effort to reach consensus on a recommendation. If consensus is reached, the recommendation shall be provided to the FCC consistent with subsection 9(h) of this order.
+
+(ii) If the senior executives designated by the Committee Members and Committee Advisors do not reach consensus, the Chair shall present the issue to the Committee Members and the Committee Advisors to seek to resolve any objections within 30 days of the notification by the Chair of a recommendation to deny or to grant an application contingent on compliance with non-standard mitigation, or within 60 days in the case of a recommendation to modify a license to condition it upon compliance with non-standard mitigation measures or to revoke a license. Committee Members and Committee Advisors may consider any submissions by the Committee Advisors (e.g., a countervailing risk assessment), as appropriate.
+
+(iii) If the Committee Members and Committee Advisors are unable to reach consensus through the foregoing process, the Committee Members identified in subsection 3(b) of this order shall determine a recommendation by majority vote. If the vote results in a tie, the Chair shall determine the recommendation.
+
+(g) The Chair shall notify the President of any intended recommendation, and any opposition thereto by a Committee Member or Committee Advisor, within 7 days of a majority or tie vote held under subsection 9(e) or 9(f)(iii) of this order if either the recommendation or any opposition thereto by a Committee Member or Committee Advisor involves the denial of an application, granting an application contingent on non-standard mitigation measures, modifying a license to condition it upon compliance with non-standard mitigation measures, or revoking a license. The FCC will receive notice of the recommendation, consistent with subsection 9(h) of this order, not earlier than 15 days after the date on which the President is notified of the intended action.
+
+(h) Except as provided in subsection (b)(iii) of this section, the Chair, on behalf of the Committee, shall notify the FCC through the Administrator of the National Telecommunications and Information Administration (NTIA) of a final recommendation made pursuant to this section. The Administrator of NTIA shall notify the FCC of the recommendation within 7 days of the notification from the Chair.
+
+(i) As necessary and in accordance with applicable law and policy, including procedures governing the handling of classified or otherwise privileged or protected information, the Committee may consider classified information and otherwise privileged or protected information in determining what recommendation to make to the FCC through the Administrator of NTIA under this section, and may provide such information to the FCC as necessary on an ex parte basis.
+
+Sec. 10. Mitigation of Risk and Monitoring. (a) The Committee may recommend to the FCC, consistent with section 9 of this order, that the FCC condition the granting of a license or transfer of a license on compliance with any mitigation measures in order to mitigate a risk to the national security or law enforcement interests of the United States arising from the application.
+
+(b) The Committee may recommend to the FCC, consistent with section 9 of this order, that the FCC modify a license to condition it upon compliance with any mitigation measures in order to mitigate a risk to national security or law enforcement interests of the United States arising from the license.
+
+(c) Consistent with subsection 4(a)(v) of this order, the Chair or assigned Lead Member shall communicate any mitigation measures proposed by the Committee to the applicant or licensee.
+
+(d) Any mitigation measures negotiated pursuant to this section shall be based on a written risk-based analysis.
+
+(e) The Committee shall monitor any mitigation measures imposed by the FCC as a condition on a license.
+
+(i) Committee Member entities, as appropriate, shall report to the Committee regarding any material noncompliance with any mitigation measures imposed by the FCC as a condition on a license as a result of the Committee’s recommendation under subsections (a) through (d) of this section.
+
+(ii) The Committee, in consultation with the FCC, as appropriate, and in a manner that does not unduly constrain Committee resources, shall develop methods for monitoring compliance with any mitigation measures imposed by the FCC as a condition on a license as a result of the Committee’s recommendation under subsections (a) through (d) of this section.
+
+(f) If the Committee determines that a licensee has not complied with a mitigation measure and has not cured any such noncompliance in a satisfactory manner, the Committee may recommend actions consistent with subsection 9(b) of this order.
+
+(g) When requested by the Chair, the Director of National Intelligence shall provide analyses assessing threats related to risk mitigation, compliance monitoring, and enforcement to Committee Member entities and Committee Advisor entities that are monitoring compliance with mitigation measures imposed by the FCC as conditions on licenses as a result of Committee recommendations under subsections (a) through (d) of this section.
+
+(h) This order does not constrain the discretion of executive departments or agencies, pursuant to any relevant authority not described in this order, to:
+
+(i) conduct inquiries with respect to an application or license;
+
+(ii) communicate with any applicant, licensee, or other necessary party; or
+
+(iii) negotiate, enter into, impose, or enforce contractual provisions with an applicant or licensee.
+
+Sec. 11. Implementation. (a) Executive departments and agencies shall take all appropriate measures within their authority to implement the provisions of this order.
+
+(b) The Department of Justice shall provide such funding and administrative support for the Committee as the Committee may require. The heads of executive departments and agencies shall provide, as appropriate and to the extent permitted by law, such resources, information, and assistance as required to implement this order within their respective agencies, including the assignment of staff to perform the duties described in this order. An Intelligence Community liaison designated by the Director of National Intelligence shall support the Committee, consistent with applicable law.
+
+(c) Within 90 days from the date of this order, the Committee Members shall enter into a Memorandum of Understanding among themselves and with the Director of National Intelligence (or the Director’s designee) describing their plan to implement and execute this order. The Memorandum of Understanding shall, among other things, delineate questions and requests for applicants and licensees that may be needed to acquire information necessary to conduct the reviews and assessments described in sections 5 and 6 of this order, define the standard mitigation measures developed in accordance with section 2(e) of this order, and outline the process for designating a Lead Member as described in section 4 of this order.
+
+(d) The Chair, in coordination with the Committee Members and the Committee Advisors, shall review the implementation of this order and provide a report to the President on an annual basis that identifies recommendations for relevant policy, administrative, or legislative proposals.
+
+Sec. 12. General Provisions. (a) Nothing in this order shall be construed to impair or otherwise affect:
+
+(i) the authority granted by law to an executive department or agency, or the head thereof; or
+
+(ii) the functions of the Director of the Office of Management and Budget relating to budgetary, administrative, or legislative proposals;
+
+(b) This order shall be implemented consistent with applicable law and subject to the availability of appropriations.
+
+(c) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+
+(d) If any provision of this order, or the application of any provision to any person or circumstances, is held to be invalid, the remainder of this order and the application of any of its other provisions to any other persons or circumstances shall not be affected thereby.
+
+Donald J. Trump.
 
 
 <a id="section-155"></a>
@@ -1919,7 +2128,7 @@ Pub. L. 109–162, title I, § 113(b), Jan. 5, 2006, 119 Stat. 2987, provided th
 Pub. L. 104–104, title V, § 561, Feb. 8, 1996, 110 Stat. 142, provided that: “(a) Three-Judge District Court Hearing.—Notwithstanding any other provision of law, any civil action challenging the constitutionality, on its face, of this title [see Short Title of 1996 Amendment note set out under [section 609 of this title](./chapter-005-wire-or-radio-communication.md#section-609)] or any amendment made by this title, or any provision thereof, shall be heard by a district court of 3 judges convened pursuant to the provisions of [section 2284 of title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section2284&num=0&edition=prelim), United States Code. “(b) Appellate Review.—Notwithstanding any other provision of law, an interlocutory or final judgment, decree, or order of the court of 3 judges in an action under subsection (a) holding this title or an amendment made by this title, or any provision thereof, unconstitutional shall be reviewable as a matter of right by direct appeal to the Supreme Court. Any such appeal shall be filed not more than 20 days after entry of such judgment, decree, or order.”
 
 #### Regulations; Disposition of Complaints Pending on December 8, 1983
-Pub. L. 98–214, § 8(c), (d), Dec. 8, 1983, 97 Stat. 1470, provided that: “(c) The Federal Communications Commission shall issue regulations pursuant to section 223(b)(2) of the Communications Act of 1934 (as added by subsection (a) of this section) [subsec. (b)(2) of this section] not later than one hundred and eighty days after the date of the enactment of this Act [Dec. 8, 1983]. “(d) The Commission shall act on all complaints alleging violation of section 223 of the Communications Act of 1934 [this section] which are pending on the date of the enactment of this Act [Dec. 8, 1983] within ninety days of such date of enactment.”
+Pub. L. 98–214, § 8(c), (d), Dec. 8, 1983, 97 Stat. 1470, provided that the Federal Communications Commission (FCC) issue regulations pursuant to subsec. (b)(2) of this section not later than 180 days after Dec. 8, 1983, and that the FCC was to act on all complaints alleging violation of this section pending on Dec. 8, 1983, within 90 days of that date.
 
 
 <a id="section-224"></a>
@@ -2413,9 +2622,17 @@ Pub. L. 101–435, § 2, Oct. 17, 1990, 104 Stat. 986, provided that: “The Con
 
       (IV) determine whether with respect to small businesses, the costs would not be unduly burdensome; and
 
-    (ii) may not commence a proceeding to determine whether to limit the duration of the existence of an established business relationship before the expiration of the 3-month period that begins on July 9, 2005; and
+    (ii) may not commence a proceeding to determine whether to limit the duration of the existence of an established business relationship before the expiration of the 3-month period that begins on July 9, 2005;
 
-  (H) may restrict or limit the number and duration of calls made to a telephone number assigned to a cellular telephone service to collect a debt owed to or guaranteed by the United States.
+  (H) may restrict or limit the number and duration of calls made to a telephone number assigned to a cellular telephone service to collect a debt owed to or guaranteed by the United States; and
+
+  (I) shall ensure that any exemption under subparagraph (B) or (C) contains requirements for calls made in reliance on the exemption with respect to—
+
+    (i) the classes of parties that may make such calls;
+
+    (ii) the classes of parties that may be called; and
+
+    (iii) the number of such calls that a calling party may make to a particular called party.
 
 (3) **Private right of action** — A person or entity may, if otherwise permitted by the laws or rules of court of a State, bring in an appropriate court of that State—
 
@@ -2425,6 +2642,24 @@ Pub. L. 101–435, § 2, Oct. 17, 1990, 104 Stat. 986, provided that: “The Con
 
   (C) both such actions.
   If the court finds that the defendant willfully or knowingly violated this subsection or the regulations prescribed under this subsection, the court may, in its discretion, increase the amount of the award to an amount equal to not more than 3 times the amount available under subparagraph (B) of this paragraph.
+
+(4) **Civil forfeiture**
+
+  (A) *In general* — Any person that is determined by the Commission, in accordance with paragraph (3) or (4) of [section 503(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title47-section503/b&num=0&edition=prelim), to have violated this subsection shall be liable to the United States for a forfeiture penalty pursuant to [section 503(b)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title47-section503/b/1&num=0&edition=prelim). Paragraph (5) of [section 503(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title47-section503/b&num=0&edition=prelim) shall not apply in the case of a violation of this subsection. A forfeiture penalty under this subparagraph shall be in addition to any other penalty provided for by this chapter. The amount of the forfeiture penalty determined under this subparagraph shall be determined in accordance with subparagraphs (A) through (F) of [section 503(b)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title47-section503/b/2&num=0&edition=prelim).
+
+  (B) *Violation with intent* — Any person that is determined by the Commission, in accordance with paragraph (3) or (4) of [section 503(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title47-section503/b&num=0&edition=prelim), to have violated this subsection with the intent to cause such violation shall be liable to the United States for a forfeiture penalty pursuant to [section 503(b)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title47-section503/b/1&num=0&edition=prelim). Paragraph (5) of [section 503(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title47-section503/b&num=0&edition=prelim) shall not apply in the case of a violation of this subsection. A forfeiture penalty under this subparagraph shall be in addition to any other penalty provided for by this chapter. The amount of the forfeiture penalty determined under this subparagraph shall be equal to an amount determined in accordance with subparagraphs (A) through (F) of [section 503(b)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title47-section503/b/2&num=0&edition=prelim) plus an additional penalty not to exceed $10,000.
+
+  (C) *Recovery* — Any forfeiture penalty determined under subparagraph (A) or (B) shall be recoverable under [section 504(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title47-section504/a&num=0&edition=prelim).
+
+  (D) *Procedure* — No forfeiture liability shall be determined under subparagraph (A) or (B) against any person unless such person receives the notice required by [section 503(b)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title47-section503/b/3&num=0&edition=prelim) or [section 503(b)(4) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title47-section503/b/4&num=0&edition=prelim).
+
+  (E) *Statute of limitations* — Notwithstanding paragraph (6) of [section 503(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title47-section503/b&num=0&edition=prelim), no forfeiture penalty shall be determined or imposed against any person—
+
+    (i) under subparagraph (A) if the violation charged occurred more than 1 year prior to the date of issuance of the required notice or notice of apparent liability; or
+
+    (ii) under subparagraph (B) if the violation charged occurred more than 4 years prior to the date of issuance of the required notice or notice of apparent liability.
+
+  (F) *Rule of construction* — Notwithstanding any law to the contrary, the Commission may not determine or impose a forfeiture penalty on a person under both subparagraphs (A) and (B) based on the same conduct.
 
 **(c) Protection of subscriber privacy rights**
 
@@ -2509,15 +2744,15 @@ Pub. L. 101–435, § 2, Oct. 17, 1990, 104 Stat. 986, provided that: “The Con
 
   (B) any such system will automatically release the called party’s line within 5 seconds of the time notification is transmitted to the system that the called party has hung up, to allow the called party’s line to be used to make or receive other calls.
 
-**(e) Prohibition on provision of inaccurate caller identification information**
+**(e) Prohibition on provision of misleading or inaccurate caller identification information**
 
-(1) **In general** — It shall be unlawful for any person within the United States, in connection with any telecommunications service or IP-enabled voice service, to cause any caller identification service to knowingly transmit misleading or inaccurate caller identification information with the intent to defraud, cause harm, or wrongfully obtain anything of value, unless such transmission is exempted pursuant to paragraph (3)(B).
+(1) **In general** — It shall be unlawful for any person within the United States, or any person outside the United States if the recipient is within the United States, in connection with any voice service or text messaging service, to cause any caller identification service to knowingly transmit misleading or inaccurate caller identification information with the intent to defraud, cause harm, or wrongfully obtain anything of value, unless such transmission is exempted pursuant to paragraph (3)(B).
 
 (2) **Protection for blocking caller identification information** — Nothing in this subsection may be construed to prevent or restrict any person from blocking the capability of any caller identification service to transmit caller identification information.
 
 (3) **Regulations**
 
-  (A) *In general* — Not later than 6 months after December 22, 2010, the Commission shall prescribe regulations to implement this subsection.
+  (A) *In general* — The Commission shall prescribe regulations to implement this subsection.
 
   (B) *Content of regulations*
 
@@ -2537,11 +2772,11 @@ Pub. L. 101–435, § 2, Oct. 17, 1990, 104 Stat. 986, provided that: “The Con
 
     (i) *In general* — Any person that is determined by the Commission, in accordance with paragraphs (3) and (4) of [section 503(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title47-section503/b&num=0&edition=prelim), to have violated this subsection shall be liable to the United States for a forfeiture penalty. A forfeiture penalty under this paragraph shall be in addition to any other penalty provided for by this chapter. The amount of the forfeiture penalty determined under this paragraph shall not exceed $10,000 for each violation, or 3 times that amount for each day of a continuing violation, except that the amount assessed for any continuing violation shall not exceed a total of $1,000,000 for any single act or failure to act.
 
-    (ii) *Recovery* — Any forfeiture penalty determined under clause (i) shall be recoverable pursuant to [section 504(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title47-section504/a&num=0&edition=prelim).
+    (ii) *Recovery* — Any forfeiture penalty determined under clause (i) shall be recoverable pursuant to [section 504(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title47-section504/a&num=0&edition=prelim). Paragraph (5) of [section 503(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title47-section503/b&num=0&edition=prelim) shall not apply in the case of a violation of this subsection.
 
     (iii) *Procedure* — No forfeiture liability shall be determined under clause (i) against any person unless such person receives the notice required by [section 503(b)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title47-section503/b/3&num=0&edition=prelim) or [section 503(b)(4) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title47-section503/b/4&num=0&edition=prelim).
 
-    (iv) *2-year statute of limitations* — No forfeiture penalty shall be determined or imposed against any person under clause (i) if the violation charged occurred more than 2 years prior to the date of issuance of the required notice or notice or apparent liability.
+    (iv) *4-year statute of limitations* — No forfeiture penalty shall be determined or imposed against any person under clause (i) if the violation charged occurred more than 4 years prior to the date of issuance of the required notice or notice or apparent liability.
 
   (B) *Criminal fine* — Any person who willfully and knowingly violates this subsection shall upon conviction thereof be fined not more than $10,000 for each violation, or 3 times that amount for each day of a continuing violation, in lieu of the fine provided by [section 501 of this title](./chapter-005-wire-or-radio-communication.md#section-501) for such a violation. This subparagraph does not supersede the provisions of [section 501 of this title](./chapter-005-wire-or-radio-communication.md#section-501) relating to imprisonment or the imposition of a penalty of both fine and imprisonment.
 
@@ -2575,11 +2810,29 @@ Pub. L. 101–435, § 2, Oct. 17, 1990, 104 Stat. 986, provided that: “The Con
 
 (8) **Definitions** — For purposes of this subsection:
 
-  (A) *Caller identification information* — The term “caller identification information” means information provided by a caller identification service regarding the telephone number of, or other information regarding the origination of, a call made using a telecommunications service or IP-enabled voice service.
+  (A) *Caller identification information* — The term “caller identification information” means information provided by a caller identification service regarding the telephone number of, or other information regarding the origination of, a call made using a voice service or a text message sent using a text messaging service.
 
-  (B) *Caller identification service* — The term “caller identification service” means any service or device designed to provide the user of the service or device with the telephone number of, or other information regarding the origination of, a call made using a telecommunications service or IP-enabled voice service. Such term includes automatic number identification services.
+  (B) *Caller identification service* — The term “caller identification service” means any service or device designed to provide the user of the service or device with the telephone number of, or other information regarding the origination of, a call made using a voice service or a text message sent using a text messaging service. Such term includes automatic number identification services.
 
-  (C) *IP-enabled voice service* — The term “IP-enabled voice service” has the meaning given that term by section 9.3 of the Commission’s regulations (47 C.F.R. 9.3), as those regulations may be amended by the Commission from time to time.
+  (C) *Text message* — The term “text message”—
+
+    (i) means a message consisting of text, images, sounds, or other information that is transmitted to or from a device that is identified as the receiving or transmitting device by means of a 10-digit telephone number or N11 service code;
+
+    (ii) includes a short message service (commonly referred to as “SMS”) message and a multimedia message service (commonly referred to as “MMS”) message; and
+
+    (iii) does not include—
+
+      (I) a real-time, two-way voice or video communication; or
+
+      (II) a message sent over an IP-enabled messaging service to another user of the same messaging service, except a message described in clause (ii).
+
+  (D) *Text messaging service* — The term “text messaging service” means a service that enables the transmission or receipt of a text message, including a service provided as part of or in connection with a voice service.
+
+  (E) *Voice service* — The term “voice service”—
+
+    (i) means any service that is interconnected with the public switched telephone network and that furnishes voice communications to an end user using resources from the North American Numbering Plan or any successor to the North American Numbering Plan adopted by the Commission under [section 251(e)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title47-section251/e/1&num=0&edition=prelim); and
+
+    (ii) includes transmissions from a telephone facsimile machine, computer, or other device to a telephone facsimile machine.
 
 (9) **Limitation** — Notwithstanding any other provision of this section, subsection (f) shall not apply to this subsection or to the regulations under this subsection.
 
@@ -2615,197 +2868,80 @@ Pub. L. 101–435, § 2, Oct. 17, 1990, 104 Stat. 986, provided that: “The Con
 
 (8) **“Attorney general” defined** — As used in this subsection, the term “attorney general” means the chief legal officer of a State.
 
-**(h) Junk fax enforcement report** The Commission shall submit an annual report to Congress regarding the enforcement during the past year of the provisions of this section relating to sending of unsolicited advertisements to telephone facsimile machines, which report shall include—
+**(h) Annual report to Congress on robocalls and transmission of misleading or inaccurate caller identification information**
 
-(1) the number of complaints received by the Commission during such year alleging that a consumer received an unsolicited advertisement via telephone facsimile machine in violation of the Commission’s rules;
+(1) **Report required** — Not later than 1 year after December 30, 2019, and annually thereafter, the Commission, after consultation with the Federal Trade Commission, shall submit to Congress a report regarding enforcement by the Commission of subsections (b), (c), (d), and (e) during the preceding calendar year.
 
-(2) the number of citations issued by the Commission pursuant to [section 503 of this title](./chapter-005-wire-or-radio-communication.md#section-503) during the year to enforce any law, regulation, or policy relating to sending of unsolicited advertisements to telephone facsimile machines;
+(2) **Matters for inclusion** — Each report required by paragraph (1) shall include the following:
 
-(3) the number of notices of apparent liability issued by the Commission pursuant to [section 503 of this title](./chapter-005-wire-or-radio-communication.md#section-503) during the year to enforce any law, regulation, or policy relating to sending of unsolicited advertisements to telephone facsimile machines;
+  (A) The number of complaints received by the Commission during each of the preceding 5 calendar years, for each of the following categories:
 
-(4) for each notice referred to in paragraph (3)—
+    (i) Complaints alleging that a consumer received a call in violation of subsection (b) or (c).
 
-  (A) the amount of the proposed forfeiture penalty involved;
+    (ii) Complaints alleging that a consumer received a call in violation of the standards prescribed under subsection (d).
 
-  (B) the person to whom the notice was issued;
+    (iii) Complaints alleging that a consumer received a call in connection with which misleading or inaccurate caller identification information was transmitted in violation of subsection (e).
 
-  (C) the length of time between the date on which the complaint was filed and the date on which the notice was issued; and
+  (B) The number of citations issued by the Commission pursuant to [section 503(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title47-section503/b&num=0&edition=prelim) during the preceding calendar year to enforce subsection (d), and details of each such citation.
 
-  (D) the status of the proceeding;
+  (C) The number of notices of apparent liability issued by the Commission pursuant to [section 503(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title47-section503/b&num=0&edition=prelim) during the preceding calendar year to enforce subsections (b), (c), (d), and (e), and details of each such notice including any proposed forfeiture amount.
 
-(5) the number of final orders imposing forfeiture penalties issued pursuant to [section 503 of this title](./chapter-005-wire-or-radio-communication.md#section-503) during the year to enforce any law, regulation, or policy relating to sending of unsolicited advertisements to telephone facsimile machines;
+  (D) The number of final orders imposing forfeiture penalties issued pursuant to [section 503(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title47-section503/b&num=0&edition=prelim) during the preceding calendar year to enforce such subsections, and details of each such order including the forfeiture imposed.
 
-(6) for each forfeiture order referred to in paragraph (5)—
+  (E) The amount of forfeiture penalties or criminal fines collected, during the preceding calendar year, by the Commission or the Attorney General for violations of such subsections, and details of each case in which such a forfeiture penalty or criminal fine was collected.
 
-  (A) the amount of the penalty imposed by the order;
+  (F) Proposals for reducing the number of calls made in violation of such subsections.
 
-  (B) the person to whom the order was issued;
+  (G) An analysis of the contribution by providers of interconnected VoIP service and non-interconnected VoIP service that discount high-volume, unlawful, short-duration calls to the total number of calls made in violation of such subsections, and recommendations on how to address such contribution in order to decrease the total number of calls made in violation of such subsections.
 
-  (C) whether the forfeiture penalty has been paid; and
+(3) **No additional reporting required** — The Commission shall prepare the report required by paragraph (1) without requiring the provision of additional information from providers of telecommunications service or voice service (as defined in [section 227b(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title47-section227b/a&num=0&edition=prelim)).
 
-  (D) the amount paid;
+**(i) Information sharing**
 
-(7) for each case in which a person has failed to pay a forfeiture penalty imposed by such a final order, whether the Commission referred such matter for recovery of the penalty; and
+(1) **In general** — Not later than 18 months after December 30, 2019, the Commission shall prescribe regulations to establish a process that streamlines the ways in which a private entity may voluntarily share with the Commission information relating to—
 
-(8) for each case in which the Commission referred such an order for recovery—
+  (A) a call made or a text message sent in violation of subsection (b); or
 
-  (A) the number of days from the date the Commission issued such order to the date of such referral;
+  (B) a call or text message for which misleading or inaccurate caller identification information was caused to be transmitted in violation of subsection (e).
 
-  (B) whether an action has been commenced to recover the penalty, and if so, the number of days from the date the Commission referred such order for recovery to the date of such commencement; and
+(2) **Text message defined** — In this subsection, the term “text message” has the meaning given such term in subsection (e)(8).
 
-  (C) whether the recovery action resulted in collection of any amount, and if so, the amount collected.
+**(j) Robocall blocking service**
+
+(1) **In general** — Not later than 1 year after December 30, 2019, the Commission shall take a final agency action to ensure the robocall blocking services provided on an opt-out or opt-in basis pursuant to the Declaratory Ruling of the Commission in the matter of Advanced Methods to Target and Eliminate Unlawful Robocalls (CG Docket No. 17–59; FCC 19–51; adopted on June 6, 2019)—
+
+  (A) are provided with transparency and effective redress options for both—
+
+    (i) consumers; and
+
+    (ii) callers; and 22 So in original. The word “and” probably should not appear.
+
+  (B) are provided with no additional line item charge to consumers and no additional charge to callers for resolving complaints related to erroneously blocked calls; and
+
+  (C) make all reasonable efforts to avoid blocking emergency public safety calls.
+
+(2) **Text message defined** — In this subsection, the term “text message” has the meaning given such term in subsection (e)(8).
 
 ### Statutory Notes
 
-#### Amendment of Subsection (e)
-Pub. L. 115–141, div. P, title V, § 503(a)(1)–(4)(A), (5), Mar. 23, 2018, 132 Stat. 1091, 1092, provided that, effective on the date that is 6 months after the date on which the Federal Communications Commission prescribes regulations under paragraph (4) (set out as a Regulations note under this section), subsection (e) of this section is amended, and after such effective date, subsection (e) of this section will read as follows:
-
-(e) Prohibition on provision of misleading or inaccurate caller identification information
-
-(1) In general
-
-It shall be unlawful for any person within the United States, or any person outside the United States if the recipient is within the United States, in connection with any voice service or text messaging service, to cause any caller identification service to knowingly transmit misleading or inaccurate caller identification information with the intent to defraud, cause harm, or wrongfully obtain anything of value, unless such transmission is exempted pursuant to paragraph (3)(B).
-
-(2) Protection for blocking caller identification information
-
-Nothing in this subsection may be construed to prevent or restrict any person from blocking the capability of any caller identification service to transmit caller identification information.
-
-(3) Regulations
-
-(A) In general
-
-The Commission shall prescribe regulations to implement this subsection.
-
-(B) Content of regulations
-
-(i) In general
-
-The regulations required under subparagraph (A) shall include such exemptions from the prohibition under paragraph (1) as the Commission determines is appropriate.
-
-(ii) Specific exemption for law enforcement agencies or court orders
-
-The regulations required under subparagraph (A) shall exempt from the prohibition under paragraph (1) transmissions in connection with—
-
-(I) any authorized activity of a law enforcement agency; or
-
-(II) a court order that specifically authorizes the use of caller identification manipulation.
-
-(4) Repealed. Pub. L. 115–141, div. P, title IV, § 402(i)(3), Mar. 23, 2018, 132 Stat. 1089
-
-(5) Penalties
-
-(A) Civil forfeiture
-
-(i) In general
-
-Any person that is determined by the Commission, in accordance with paragraphs (3) and (4) of [section 503(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title47-section503/b&num=0&edition=prelim), to have violated this subsection shall be liable to the United States for a forfeiture penalty. A forfeiture penalty under this paragraph shall be in addition to any other penalty provided for by this chapter. The amount of the forfeiture penalty determined under this paragraph shall not exceed $10,000 for each violation, or 3 times that amount for each day of a continuing violation, except that the amount assessed for any continuing violation shall not exceed a total of $1,000,000 for any single act or failure to act.
-
-(ii) Recovery
-
-Any forfeiture penalty determined under clause (i) shall be recoverable pursuant to [section 504(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title47-section504/a&num=0&edition=prelim).
-
-(iii) Procedure
-
-No forfeiture liability shall be determined under clause (i) against any person unless such person receives the notice required by [section 503(b)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title47-section503/b/3&num=0&edition=prelim) or [section 503(b)(4) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title47-section503/b/4&num=0&edition=prelim).
-
-(iv) 2-year statute of limitations
-
-No forfeiture penalty shall be determined or imposed against any person under clause (i) if the violation charged occurred more than 2 years prior to the date of issuance of the required notice or notice or apparent liability.
-
-(B) Criminal fine
-
-Any person who willfully and knowingly violates this subsection shall upon conviction thereof be fined not more than $10,000 for each violation, or 3 times that amount for each day of a continuing violation, in lieu of the fine provided by [section 501 of this title](./chapter-005-wire-or-radio-communication.md#section-501) for such a violation. This subparagraph does not supersede the provisions of [section 501 of this title](./chapter-005-wire-or-radio-communication.md#section-501) relating to imprisonment or the imposition of a penalty of both fine and imprisonment.
-
-(6) Enforcement by States
-
-(A) In general
-
-The chief legal officer of a State, or any other State officer authorized by law to bring actions on behalf of the residents of a State, may bring a civil action, as parens patriae, on behalf of the residents of that State in an appropriate district court of the United States to enforce this subsection or to impose the civil penalties for violation of this subsection, whenever the chief legal officer or other State officer has reason to believe that the interests of the residents of the State have been or are being threatened or adversely affected by a violation of this subsection or a regulation under this subsection.
-
-(B) Notice
-
-The chief legal officer or other State officer shall serve written notice on the Commission of any civil action under subparagraph (A) prior to initiating such civil action. The notice shall include a copy of the complaint to be filed to initiate such civil action, except that if it is not feasible for the State to provide such prior notice, the State shall provide such notice immediately upon instituting such civil action.
-
-(C) Authority to intervene
-
-Upon receiving the notice required by subparagraph (B), the Commission shall have the right—
-
-(i) to intervene in the action;
-
-(ii) upon so intervening, to be heard on all matters arising therein; and
-
-(iii) to file petitions for appeal.
-
-(D) Construction
-
-For purposes of bringing any civil action under subparagraph (A), nothing in this paragraph shall prevent the chief legal officer or other State officer from exercising the powers conferred on that officer by the laws of such State to conduct investigations or to administer oaths or affirmations or to compel the attendance of witnesses or the production of documentary and other evidence.
-
-(E) Venue; service or process
-
-(i) Venue
-
-An action brought under subparagraph (A) shall be brought in a district court of the United States that meets applicable requirements relating to venue under [section 1391 of title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section1391&num=0&edition=prelim).
-
-(ii) Service of process
-
-In an action brought under subparagraph (A)—
-
-(I) process may be served without regard to the territorial limits of the district or of the State in which the action is instituted; and
-
-(II) a person who participated in an alleged violation that is being litigated in the civil action may be joined in the civil action without regard to the residence of the person.
-
-(7) Effect on other laws
-
-This subsection does not prohibit any lawfully authorized investigative, protective, or intelligence activity of a law enforcement agency of the United States, a State, or a political subdivision of a State, or of an intelligence agency of the United States.
-
-(8) Definitions
-
-For purposes of this subsection:
-
-(A) Caller identification information
-
-The term “caller identification information” means information provided by a caller identification service regarding the telephone number of, or other information regarding the origination of, a call made using a voice service or a text message sent using a text messaging service.
-
-(B) Caller identification service
-
-The term “caller identification service” means any service or device designed to provide the user of the service or device with the telephone number of, or other information regarding the origination of, a call made using a voice service or a text message sent using a text messaging service. Such term includes automatic number identification services.
-
-(C) Text message
-
-The term “text message”—
-
-(i) means a message consisting of text, images, sounds, or other information that is transmitted to or from a device that is identified as the receiving or transmitting device by means of a 10-digit telephone number or N11 service code;
-
-(ii) includes a short message service (commonly referred to as “SMS”) message and a multimedia message service (commonly referred to as “MMS”) message; and
-
-(iii) does not include—
-
-(I) a real-time, two-way voice or video communication; or
-
-(II) a message sent over an IP-enabled messaging service to another user of the same messaging service, except a message described in clause (ii).
-
-(D) Text messaging service
-
-The term “text messaging service” means a service that enables the transmission or receipt of a text message, including a service provided as part of or in connection with a voice service.
-
-(E) Voice service
-
-The term “voice service”—
-
-(i) means any service that is interconnected with the public switched telephone network and that furnishes voice communications to an end user using resources from the North American Numbering Plan or any successor to the North American Numbering Plan adopted by the Commission under [section 251(e)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title47-section251/e/1&num=0&edition=prelim); and
-
-(ii) includes transmissions from a telephone facsimile machine, computer, or other device to a telephone facsimile machine.
-
-(9) Limitation
-
-Notwithstanding any other provision of this section, subsection (f) shall not apply to this subsection or to the regulations under this subsection.
-
-See 2018 Amendment notes below.
-
 #### References in Text
-This chapter, referred to in subsec. (e)(5)(A)(i), was in the original “this Act”, meaning act June 19, 1934, ch. 652, 48 Stat. 1064, known as the Communications Act of 1934, which is classified principally to this chapter. For complete classification of this Act to the Code, see [section 609 of this title](./chapter-005-wire-or-radio-communication.md#section-609) and Tables.
+This chapter, referred to in subsecs. (b)(4)(A), (B) and (e)(5)(A)(i), was in the original “this Act”, meaning act June 19, 1934, ch. 652, 48 Stat. 1064, known as the Communications Act of 1934, which is classified principally to this chapter. For complete classification of this Act to the Code, see [section 609 of this title](./chapter-005-wire-or-radio-communication.md#section-609) and Tables.
 
 #### Amendments
+2019—Subsec. (b)(2)(I). Pub. L. 116–105, § 8(a), added subpar. (I).
+
+Subsec. (b)(4). Pub. L. 116–105, § 3(a)(1), added par. (4).
+
+Subsec. (e)(5)(A)(ii). Pub. L. 116–105, § 3(a)(2)(A), inserted at end “Paragraph (5) of [section 503(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title47-section503/b&num=0&edition=prelim) shall not apply in the case of a violation of this subsection.”
+
+Subsec. (e)(5)(A)(iv). Pub. L. 116–105, § 3(a)(2)(B), substituted “4-year” for “2-year” in heading and “4 years” for “2 years” in text.
+
+Subsec. (h). Pub. L. 116–105, § 3(a)(3), added subsec. (h) and struck out former subsec. (h) which related to annual junk fax enforcement report.
+
+Subsec. (i). Pub. L. 116–105, § 10(a), added subsec. (i).
+
+Subsec. (j). Pub. L. 116–105, § 10(b), added subsec. (j).
+
 2018—Subsec. (e). Pub. L. 115–141, § 503(a)(3), inserted “misleading or” before “inaccurate” in heading.
 
 Subsec. (e)(1). Pub. L. 115–141, § 503(a)(1), substituted “or any person outside the United States if the recipient is within the United States, in connection with any voice service or text messaging service” for “in connection with any telecommunications service”.
@@ -2844,8 +2980,11 @@ Subsec. (e)(2). Pub. L. 103–414, § 303(a)(12), substituted “national databa
 
 1992—Subsec. (b)(2)(C). Pub. L. 102–556 added subpar. (C).
 
+#### Effective Date of 2019 Amendment; Applicability
+Pub. L. 116–105, § 3(b), Dec. 30, 2019, 133 Stat. 3276, provided that: “The amendments made by this section [amending this section] shall not affect any action or proceeding commenced before and pending on the date of the enactment of this Act [Dec. 30, 2019].”
+
 #### Effective Date of 2018 Amendment
-Pub. L. 115–141, div. P, title V, § 503(a)(5), Mar. 23, 2018, 132 Stat. 1092, provided that: “The amendments made by this subsection [amending this section] shall take effect on the date that is 6 months after the date on which the Commission [Federal Communications Commission] prescribes regulations under paragraph (4) [set out as a note under this section].”
+Pub. L. 115–141, div. P, title V, § 503(a)(5), Mar. 23, 2018, 132 Stat. 1092, provided that: “The amendments made by this subsection [amending this section] shall take effect on the date that is 6 months after the date on which the Commission [Federal Communications Commission] prescribes regulations under paragraph (4) [set out as a note under this section].” [Regulations adopted by Order of Federal Communications Commission released Aug. 5, 2019, with final rule effective Feb. 5, 2020, see 84 F.R. 45669.]
 
 #### Effective Date of 2003 Amendment
 Amendment by Pub. L. 108–187 effective Jan. 1, 2004, see section 16 of Pub. L. 108–187, set out as an Effective Date note under [section 7701 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section7701&num=0&edition=prelim), Commerce and Trade.
@@ -2854,17 +2993,42 @@ Amendment by Pub. L. 108–187 effective Jan. 1, 2004, see section 16 of Pub. L.
 Pub. L. 102–243, § 3(c), Dec. 20, 1991, 105 Stat. 2402, as amended by Pub. L. 102–556, title I, § 102, Oct. 28, 1992, 106 Stat. 4186, provided that: “(1) Regulations.—The Federal Communications Commission shall prescribe regulations to implement the amendments made by this section [enacting this section and amending [section 152 of this title](./chapter-005-wire-or-radio-communication.md#section-152)] not later than 9 months after the date of enactment of this Act [Dec. 20, 1991]. “(2) Effective date.—The requirements of section 227 of the Communications Act of 1934 [this section] (as added by this section), other than the authority to prescribe regulations, shall take effect one year after the date of enactment of this Act [Dec. 20, 1991].”
 
 #### Regulations
+Pub. L. 116–105, § 3(c), Dec. 30, 2019, 133 Stat. 3276, provided that: “The Commission [Federal Communications Commission] shall prescribe regulations to implement the amendments made by this section [amending this section] not later than 270 days after the date of the enactment of this Act [Dec. 30, 2019].”
+
+Pub. L. 116–105, § 8(b), Dec. 30, 2019, 133 Stat. 3283, provided that: “In the case of any exemption issued under subparagraph (B) or (C) of section 227(b)(2) of the Communications Act of 1934 ([47 U.S.C. 227(b)(2)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title47-section227/b/2&num=0&edition=prelim)) before the date of the enactment of this Act [Dec. 30, 2019], the Commission [Federal Communications Commission] shall, not later than 1 year after such date of enactment, prescribe such regulations, or amend such existing regulations, as necessary to ensure that such exemption contains each requirement described in subparagraph (I) of such section, as added by subsection (a). To the extent such an exemption contains such a requirement before such date of enactment, nothing in this section [amending this section] or the amendments made by this section shall be construed to require the Commission to prescribe or amend regulations relating to such requirement.”
+
 Pub. L. 115–141, div. P, title V, § 503(a)(4)(B), Mar. 23, 2018, 132 Stat. 1092, provided that: “The Commission [Federal Communications Commission] shall prescribe regulations to implement the amendments made by this subsection [amending this section] not later than 18 months after the date of enactment of this Act [Mar. 23, 2018].”
 
 Pub. L. 114–74, title III, § 301(b), Nov. 2, 2015, 129 Stat. 588, provided that: “Not later than 9 months after the date of enactment of this Act [Nov. 2, 2015], the Federal Communications Commission, in consultation with the Department of the Treasury, shall prescribe regulations to implement the amendments made by this section [amending this secton].”
 
 Pub. L. 109–21, § 2(h), July 9, 2005, 119 Stat. 362, provided that: “Except as provided in section 227(b)(2)(G)(ii) of the Communications Act of 1934 [[47 U.S.C. 227(b)(2)(G)(ii)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title47-section227/b/2/G/ii&num=0&edition=prelim)] (as added by subsection (f)), not later than 270 days after the date of enactment of this Act [July 9, 2005], the Federal Communications Commission shall issue regulations to implement the amendments made by this section.”
 
+#### Separability
+Pub. L. 116–105, § 15, Dec. 30, 2019, 133 Stat. 3290, provided that: “If any provision of this Act [see Short Title of 2019 Amendment note set out under [section 609 of this title](./chapter-005-wire-or-radio-communication.md#section-609)], the amendments made by this Act, or the application thereof to any person or circumstance is held invalid, the remainder of this Act, the amendments made by this Act, and the application of such provision to other persons or circumstances shall not be affected thereby.”
+
 #### Construction
 Pub. L. 115–141, div. P, title V, § 503(d), Mar. 23, 2018, 132 Stat. 1094, provided that: “Nothing in this section [enacting [section 227a of this title](./chapter-005-wire-or-radio-communication.md#section-227a), amending this section, and enacting provisions set out as notes under this section], or the amendments made by this section, shall be construed to modify, limit, or otherwise affect any rule or order adopted by the Commission [Federal Communications Commission] in connection with— “(1) the Telephone Consumer Protection Act of 1991 (Public Law 102–243; 105 Stat. 2394) [see Short Title of 1991 Amendment note set out under [section 609 of this title](./chapter-005-wire-or-radio-communication.md#section-609)] or the amendments made by that Act; or “(2) the CAN–SPAM Act of 2003 ([15 U.S.C. 7701](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section7701&num=0&edition=prelim) et seq.).”
 
+#### Protections From Spoofed Calls
+Pub. L. 116–105, § 7, Dec. 30, 2019, 133 Stat. 3282, provided that: “(a) In General.—Not later than 1 year after the date of the enactment of this Act [Dec. 30, 2019], and consistent with the call authentication frameworks under section 4 [[47 U.S.C. 227b](./chapter-005-wire-or-radio-communication.md#section-227b)], the Commission [Federal Communications Commission] shall initiate a rulemaking to help protect a subscriber from receiving unwanted calls or text messages from a caller using an unauthenticated number. “(b) Considerations.—In promulgating rules under subsection (a), the Commission shall consider—“(1) the Government Accountability Office report on combating the fraudulent provision of misleading or inaccurate caller identification information required by section 503(c) of division P of the Consolidated Appropriations Act, 2018 (Public Law 115–141) [132 Stat. 1093]; “(2) the best means of ensuring that a subscriber or provider has the ability to block calls from a caller using an unauthenticated North American Numbering Plan number; “(3) the impact on the privacy of a subscriber from unauthenticated calls; “(4) the effectiveness in verifying the accuracy of caller identification information; and “(5) the availability and cost of providing protection from the unwanted calls or text messages described in subsection (a).”
+
+#### Transitional Rule Regarding Definition of Text Message
+Pub. L. 116–105, § 10(d), Dec. 30, 2019, 133 Stat. 3285, provided that: “Paragraph (2) of subsection (i) of section 227 of the Communications Act of 1934 ([47 U.S.C. 227](./chapter-005-wire-or-radio-communication.md#section-227)), as added by subsection (a) of this section, and paragraph (2) of subsection (j) of such section 227, as added by subsection (b) of this section, shall apply before the effective date of the amendment made to subsection (e)(8) of such section 227 by subparagraph (C) of section 503(a)(2) of division P of the Consolidated Appropriations Act, 2018 (Public Law 115–141) [see 2018 Amendment and Effective Date of 2018 Amendment notes set out above] as if such amendment was already in effect.”
+
+#### Protection From One-Ring Scams
+Pub. L. 116–105, § 12, Dec. 30, 2019, 133 Stat. 3286, provided that: “(a) Initiation of Proceeding.—Not later than 120 days after the date of the enactment of this Act [Dec. 30, 2019], the Commission [Federal Communications Commission] shall initiate a proceeding to protect called parties from one-ring scams. “(b) Matters To Be Considered.—As part of the proceeding required by subsection (a), the Commission shall consider how the Commission can—“(1) work with Federal and State law enforcement agencies to address one-ring scams; “(2) work with the governments of foreign countries to address one-ring scams; “(3) in consultation with the Federal Trade Commission, better educate consumers about how to avoid one-ring scams; “(4) incentivize voice service providers to stop calls made to perpetrate one-ring scams from being received by called parties, including consideration of adding identified one-ring scam type numbers to the Commission’s existing list of permissible categories for carrier-initiated blocking; “(5) work with entities that provide call-blocking services to address one-ring scams; and “(6) establish obligations on international gateway providers that are the first point of entry for these calls into the United States, including potential requirements that such providers verify with the foreign originator the nature or purpose of calls before initiating service. “(c) Report to Congress.—Not later than 1 year after the date of the enactment of this Act, the Commission shall publish on its website and submit to the Committee on Energy and Commerce of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a report on the status of the proceeding required by subsection (a). “(d) Definitions.—In this section:“(1) One-ring scam.—The term ‘one-ring scam’ means a scam in which a caller makes a call and allows the call to ring the called party for a short duration, in order to prompt the called party to return the call, thereby subjecting the called party to charges. “(2) State.—The term ‘State’ has the meaning given such term in section 3 of the Communications Act of 1934 ([47 U.S.C. 153](./chapter-005-wire-or-radio-communication.md#section-153)). “(3) Voice service.—The term ‘voice service’ has the meaning given such term in section 227(e)(8) of the Communications Act of 1934 ([47 U.S.C. 227(e)(8)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title47-section227/e/8&num=0&edition=prelim)). This paragraph shall apply before the effective date of the amendment made to such section by subparagraph (C) of section 503(a)(2) of division P of the Consolidated Appropriations Act, 2018 (Public Law 115–141) [see 2018 Amendment and Effective Date of 2018 Amendment notes set out above] as if such amendment was already in effect.”
+
+#### Annual Robocall Report
+Pub. L. 116–105, § 13, Dec. 30, 2019, 133 Stat. 3287, provided that: “(a) In General.—Not later than 1 year after the date of the enactment of this Act [Dec. 30, 2019], and annually thereafter, the Commission [Federal Communications Commission] shall make publicly available on the website of the Commission, and submit to the Committee on Energy and Commerce of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate, a report on the status of private-led efforts to trace back the origin of suspected unlawful robocalls by the registered consortium and the participation of voice service providers in such efforts. “(b) Contents of Report.—The report required under subsection (a) shall include, at minimum, the following:“(1) A description of private-led efforts to trace back the origin of suspected unlawful robocalls by the registered consortium and the actions taken by the registered consortium to coordinate with the Commission. “(2) A list of voice service providers identified by the registered consortium that participated in private-led efforts to trace back the origin of suspected unlawful robocalls through the registered consortium. “(3) A list of each voice service provider that received a request from the registered consortium to participate in private-led efforts to trace back the origin of suspected unlawful robocalls and refused to participate, as identified by the registered consortium. “(4) The reason, if any, each voice service provider identified by the registered consortium provided for not participating in private-led efforts to trace back the origin of suspected unlawful robocalls. “(5) A description of how the Commission may use the information provided to the Commission by voice service providers or the registered consortium that have participated in private-led efforts to trace back the origin of suspected unlawful robocalls in the enforcement efforts by the Commission. “(c) Additional Information.—Not later than 210 days after the date of the enactment of this Act [Dec. 30, 2019], and annually thereafter, the Commission shall issue a notice to the public seeking additional information from voice service providers and the registered consortium of private-led efforts to trace back the origin of suspected unlawful robocalls necessary for the report by the Commission required under subsection (a). “(d) Registration of Consortium of Private-Led Efforts To Trace Back the Origin of Suspected Unlawful Robocalls.—“(1) In general.—Not later than 90 days after the date of the enactment of this Act, the Commission shall issue rules to establish a registration process for the registration of a single consortium that conducts private-led efforts to trace back the origin of suspected unlawful robocalls. The consortium shall meet the following requirements:“(A) Be a neutral third party competent to manage the private-led effort to trace back the origin of suspected unlawful robocalls in the judgement of the Commission. “(B) Maintain a set of written best practices about the management of such efforts and regarding providers of voice services’ participation in private-led efforts to trace back the origin of suspected unlawful robocalls. “(C) Consistent with section 222(d)(2) of the Communications Act of 1934 ([47 U.S.C. 222(d)(2)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title47-section222/d/2&num=0&edition=prelim)), any private-led efforts to trace back the origin of suspected unlawful robocalls conducted by the third party focus on ‘fraudulent, abusive, or unlawful’ traffic. “(D) File a notice with the Commission that the consortium intends to conduct private-led efforts to trace back in advance of such registration. “(2) Annual notice by the commission seeking registrations.—Not later than 120 days after the date of the enactment of this Act, and annually thereafter, the Commission shall issue a notice to the public seeking the registration described in paragraph (1). “(e) List of Voice Service Providers.—The Commission may publish a list of voice service providers and take appropriate enforcement action based on information obtained from the consortium about voice service providers that refuse to participate in private-led efforts to trace back the origin of suspected unlawful robocalls, and other information the Commission may collect about voice service providers that are found to originate or transmit substantial amounts of unlawful robocalls. “(f) Definitions.—In this section:“(1) Private-led effort to trace back.—The term ‘private-led effort to trace back’ means an effort made by the registered consortium of voice service providers to establish a methodology for determining the origin of a suspected unlawful robocall. “(2) Registered consortium.—The term ‘registered consortium’ means the consortium registered under subsection (d). “(3) Suspected unlawful robocall.—The term ‘suspected unlawful robocall’ means a call that the Commission or a voice service provider reasonably believes was made in violation of subsection (b) or (e) of section 227 of the Communications Act of 1934 ([47 U.S.C. 227](./chapter-005-wire-or-radio-communication.md#section-227)). “(4) Voice service.—The term ‘voice service’—“(A) means any service that is interconnected with the public switched telephone network and that furnishes voice communications to an end user using resources from the North American Numbering Plan or any successor to the North American Numbering Plan adopted by the Commission under section 251(e)(1) of the Communications Act of 1934 ([47 U.S.C. 251(e)(1)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title47-section251/e/1&num=0&edition=prelim)); and “(B) includes—“(i) transmissions from a telephone facsimile machine, computer, or other device to a telephone facsimile machine; and “(ii) without limitation, any service that enables real-time, two-way voice communications, including any service that requires internet protocol-compatible customer premises equipment (commonly known as ‘CPE’) and permits out-bound calling, whether or not the service is one-way or two-way voice over internet protocol.”
+
+#### Hospital Robocall Protection Group
+Pub. L. 116–105, § 14, Dec. 30, 2019, 133 Stat. 3288, provided that: “(a) Establishment.—Not later than 180 days after the date of the enactment of this Act [Dec. 30, 2019], the Commission [Federal Communications Commission] shall establish an advisory committee to be known as the ‘Hospital Robocall Protection Group’. “(b) Membership.—The Group shall be composed only of the following members:“(1) An equal number of representatives from each of the following:“(A) Voice service providers that serve hospitals. “(B) Companies that focus on mitigating unlawful robocalls. “(C) Consumer advocacy organizations. “(D) Providers of one-way voice over internet protocol services described in subsection (e)(3)(B)(ii). “(E) Hospitals. “(F) State government officials focused on combating unlawful robocalls. “(2) One representative of the Commission. “(3) One representative of the Federal Trade Commission. “(c) Issuance of Best Practices.—Not later than 180 days after the date on which the Group is established under subsection (a), the Group shall issue best practices regarding the following:“(1) How voice service providers can better combat unlawful robocalls made to hospitals. “(2) How hospitals can better protect themselves from such calls, including by using unlawful robocall mitigation techniques. “(3) How the Federal Government and State governments can help combat such calls. “(d) Proceeding by FCC.—Not later than 180 days after the date on which the best practices are issued by the Group under subsection (c), the Commission shall conclude a proceeding to assess the extent to which the voluntary adoption of such best practices can be facilitated to protect hospitals and other institutions. “(e) Definitions.—In this section:“(1) Group.—The term ‘Group’ means the Hospital Robocall Protection Group established under subsection (a). “(2) State.—The term ‘State’ has the meaning given such term in section 3 of the Communications Act of 1934 ([47 U.S.C. 153](./chapter-005-wire-or-radio-communication.md#section-153)). “(3) Voice service.—The term ‘voice service’—“(A) means any service that is interconnected with the public switched telephone network and that furnishes voice communications to an end user using resources from the North American Numbering Plan or any successor to the North American Numbering Plan adopted by the Commission under section 251(e)(1) of the Communications Act of 1934 ([47 U.S.C. 251(e)(1)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title47-section251/e/1&num=0&edition=prelim)); and “(B) includes—“(i) transmissions from a telephone facsimile machine, computer, or other device to a telephone facsimile machine; and “(ii) without limitation, any service that enables real-time, two-way voice communications, including any service that requires internet protocol-compatible customer premises equipment (commonly known as ‘CPE’) and permits out-bound calling, whether or not the service is one-way or two-way voice over internet protocol.”
+
 #### Congressional Statement of Findings
 Pub. L. 102–243, § 2, Dec. 20, 1991, 105 Stat. 2394, provided that: “The Congress finds that: “(1) The use of the telephone to market goods and services to the home and other businesses is now pervasive due to the increased use of cost-effective telemarketing techniques. “(2) Over 30,000 businesses actively telemarket goods and services to business and residential customers. “(3) More than 300,000 solicitors call more than 18,000,000 Americans every day. “(4) Total United States sales generated through telemarketing amounted to $435,000,000,000 in 1990, a more than four-fold increase since 1984. “(5) Unrestricted telemarketing, however, can be an intrusive invasion of privacy and, when an emergency or medical assistance telephone line is seized, a risk to public safety. “(6) Many consumers are outraged over the proliferation of intrusive, nuisance calls to their homes from telemarketers. “(7) Over half the States now have statutes restricting various uses of the telephone for marketing, but telemarketers can evade their prohibitions through interstate operations; therefore, Federal law is needed to control residential telemarketing practices. “(8) The Constitution does not prohibit restrictions on commercial telemarketing solicitations. “(9) Individuals’ privacy rights, public safety interests, and commercial freedoms of speech and trade must be balanced in a way that protects the privacy of individuals and permits legitimate telemarketing practices. “(10) Evidence compiled by the Congress indicates that residential telephone subscribers consider automated or prerecorded telephone calls, regardless of the content or the initiator of the message, to be a nuisance and an invasion of privacy. “(11) Technologies that might allow consumers to avoid receiving such calls are not universally available, are costly, are unlikely to be enforced, or place an inordinate burden on the consumer. “(12) Banning such automated or prerecorded telephone calls to the home, except when the receiving party consents to receiving the call or when such calls are necessary in an emergency situation affecting the health and safety of the consumer, is the only effective means of protecting telephone consumers from this nuisance and privacy invasion. “(13) While the evidence presented to the Congress indicates that automated or prerecorded calls are a nuisance and an invasion of privacy, regardless of the type of call, the Federal Communications Commission should have the flexibility to design different rules for those types of automated or pre­recorded calls that it finds are not considered a nuisance or invasion of privacy, or for noncommercial calls, consistent with the free speech protections embodied in the First Amendment of the Constitution. “(14) Businesses also have complained to the Congress and the Federal Communications Commission that automated or prerecorded telephone calls are a nuisance, are an invasion of privacy, and interfere with interstate commerce. “(15) The Federal Communications Commission should consider adopting reasonable restrictions on automated or prerecorded calls to businesses as well as to the home, consistent with the constitutional protections of free speech.”
+
+#### Definition
+Pub. L. 116–105, § 2, Dec. 30, 2019, 133 Stat. 3274, provided that: “In this Act [see Short Title of 2019 Amendment note set out under [section 609 of this title](./chapter-005-wire-or-radio-communication.md#section-609)], the term ‘Commission’ means the Federal Communications Commission.”
 
 
 <a id="section-227a"></a>
@@ -2896,6 +3060,191 @@ Section was enacted as part of the Repack Airwaves Yielding Better Access for Us
 
 #### Definitions
 For definition of “Commission” as used in this section, see section 2 of div. P of Pub. L. 115–141, set out as a note under [section 155a of this title](./chapter-005-wire-or-radio-communication.md#section-155a).
+
+
+<a id="section-227b"></a>
+## § 227b. Call authentication
+**(a) Definitions** In this section:
+
+(1) **STIR/SHAKEN authentication framework** — The term “STIR/SHAKEN authentication framework” means the secure telephone identity revisited and signature-based handling of asserted information using tokens standards proposed by the information and communications technology industry.
+
+(2) **Voice service** — The term “voice service”—
+
+  (A) means any service that is interconnected with the public switched telephone network and that furnishes voice communications to an end user using resources from the North American Numbering Plan or any successor to the North American Numbering Plan adopted by the Commission under [section 251(e)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title47-section251/e/1&num=0&edition=prelim); and
+
+  (B) includes—
+
+    (i) transmissions from a telephone facsimile machine, computer, or other device to a telephone facsimile machine; and
+
+    (ii) without limitation, any service that enables real-time, two-way voice communications, including any service that requires internet protocol-compatible customer premises equipment (commonly known as “CPE”) and permits out-bound calling, whether or not the service is one-way or two-way voice over internet protocol.
+
+**(b) Authentication frameworks**
+
+(1) **In general** — Subject to paragraphs (2) and (3), and in accordance with paragraph (6), not later than 18 months after December 30, 2019, the Commission shall—
+
+  (A) require a provider of voice service to implement the STIR/SHAKEN authentication framework in the internet protocol networks of the provider of voice service; and
+
+  (B) require a provider of voice service to take reasonable measures to implement an effective call authentication framework in the non-internet protocol networks of the provider of voice service.
+
+(2) **Implementation** — The Commission shall not take the action described in paragraph (1) with respect to a provider of voice service if the Commission determines, not later than 12 months after December 30, 2019, that such provider of voice service—
+
+  (A) in internet protocol networks—
+
+    (i) has adopted the STIR/SHAKEN authentication framework for calls on the internet protocol networks of the provider of voice service;
+
+    (ii) has agreed voluntarily to participate with other providers of voice service in the STIR/SHAKEN authentication framework;
+
+    (iii) has begun to implement the STIR/SHAKEN authentication framework; and
+
+    (iv) will be capable of fully implementing the STIR/SHAKEN authentication framework not later than 18 months after December 30, 2019; and
+
+  (B) in non-internet protocol networks—
+
+    (i) has taken reasonable measures to implement an effective call authentication framework; and
+
+    (ii) will be capable of fully implementing an effective call authentication framework not later than 18 months after December 30, 2019.
+
+(3) **Implementation report** — Not later than 12 months after December 30, 2019, the Commission shall submit to the Committee on Energy and Commerce of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a report on the determination required under paragraph (2), which shall include—
+
+  (A) an analysis of the extent to which providers of voice service have implemented the call authentication frameworks described in subparagraphs (A) and (B) of paragraph (1), including whether the availability of necessary equipment and equipment upgrades has impacted such implementation; and
+
+  (B) an assessment of the efficacy of the call authentication frameworks described in subparagraphs (A) and (B) of paragraph (1) in addressing all aspects of call authentication.
+
+(4) **Review and revision or replacement** — Not later than 3 years after December 30, 2019, and every 3 years thereafter, the Commission, after public notice and an opportunity for comment, shall—
+
+  (A) assess the efficacy of the technologies used for call authentication frameworks implemented under this section;
+
+  (B) based on the assessment under subparagraph (A), revise or replace the call authentication frameworks under this section if the Commission determines it is in the public interest to do so; and
+
+  (C) submit to the Committee on Energy and Commerce of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a report on the findings of the assessment under subparagraph (A) and on any actions to revise or replace the call authentication frameworks under subparagraph (B).
+
+(5) **Extension of implementation deadline**
+
+  (A) *Burdens and barriers to implementation* — Not later than 12 months after December 30, 2019, and as appropriate thereafter, the Commission—
+
+    (i) shall assess any burdens or barriers to the implementation required by paragraph (1), including—
+
+      (I) for providers of voice service to the extent the networks of such providers use time-division multiplexing;
+
+      (II) for small providers of voice service and those in rural areas; and
+
+      (III) the inability to purchase or upgrade equipment to support the call authentication frameworks under this section, or lack of availability of such equipment; and
+
+    (ii) in connection with an assessment under clause (i), may, upon a public finding of undue hardship, delay required compliance with the 18-month time period described in paragraph (1), for a reasonable period of time, for a provider or class of providers of voice service, or type of voice calls, as necessary for that provider or class of providers or type of calls to participate in the implementation in order to address the identified burdens and barriers.
+
+  (B) *Delay of compliance required for certain non-internet protocol networks* — Subject to subparagraphs (C) through (F), for any provider or class of providers of voice service, or type of voice calls, only to the extent that such a provider or class of providers of voice service, or type of voice calls, materially relies on a non-internet protocol network for the provision of such service or calls, the Commission shall grant a delay of required compliance under subparagraph (A)(ii) until a call authentication protocol has been developed for calls delivered over non-internet protocol networks and is reasonably available.
+
+  (C) *Robocall mitigation program*
+
+    (i) *Program required* — During the time of a delay of compliance granted under subparagraph (A)(ii), the Commission shall require, pursuant to the authority of the Commission, that any provider subject to such delay shall implement an appropriate robocall mitigation program to prevent unlawful robocalls from originating on the network of the provider.
+
+    (ii) *Additional requirements* — If the consortium registered under section 13(d) identifies a provider of voice service that is subject to a delay of compliance granted under subparagraph (A)(ii) as repeatedly originating large-scale unlawful robocall campaigns, the Commission shall require such provider to take action to ensure that such provider does not continue to originate such calls.
+
+    (iii) *Minimization of burden* — The Commission shall make reasonable efforts to minimize the burden of any robocall mitigation required pursuant to clause (ii), which may include prescribing certain specific robocall mitigation practices for providers of voice service that have repeatedly originated large-scale unlawful robocall campaigns.
+
+  (D) *Full participation* — The Commission shall take reasonable measures to address any issues in an assessment under subparagraph (A)(i) and enable as promptly as reasonable full participation of all classes of providers of voice service and types of voice calls to receive the highest level of trust. Such measures shall include, without limitation, as appropriate, limiting or terminating a delay of compliance granted to a provider under subparagraph (B) if the Commission determines in such assessment that the provider is not making reasonable efforts to develop the call authentication protocol described in such subparagraph.
+
+  (E) *Alternative methodologies* — The Commission shall identify, in consultation with small providers of voice service and those in rural areas, alternative effective methodologies to protect customers from unauthenticated calls during any delay of compliance granted under subparagraph (A)(ii).
+
+  (F) *Revision of delay of compliance* — Not less frequently than annually after the first delay of compliance is granted under subparagraph (A)(ii), the Commission—
+
+    (i) shall consider revising or extending any delay of compliance granted under subparagraph (A)(ii);
+
+    (ii) may revise such delay of compliance; and
+
+    (iii) shall issue a public notice with regard to whether such delay of compliance remains necessary, including—
+
+      (I) why such delay of compliance remains necessary; and
+
+      (II) when the Commission expects to achieve the goal of full participation as described in subparagraph (D).
+
+(6) **No additional cost to consumers or small business customers** — The Commission shall prohibit providers of voice service from adding any additional line item charges to consumer or small business customer subscribers for the effective call authentication technology required under paragraph (1).
+
+(7) **Accurate identification** — Not later than 12 months after December 30, 2019, the Commission shall issue best practices that providers of voice service may use as part of the implementation of effective call authentication frameworks under paragraph (1) to take steps to ensure the calling party is accurately identified.
+
+**(c) Safe harbor and other regulations**
+
+(1) **In general** — Consistent with the regulations prescribed under subsection (j) of [section 227 of this title](./chapter-005-wire-or-radio-communication.md#section-227), as added by section 10, the Commission shall, not later than 1 year after December 30, 2019, promulgate rules—
+
+  (A) establishing when a provider of voice service may block a voice call based, in whole or in part, on information provided by the call authentication frameworks under subsection (b), with no additional line item charge;
+
+  (B) establishing a safe harbor for a provider of voice service from liability for unintended or inadvertent blocking of calls or for the unintended or inadvertent misidentification of the level of trust for individual calls based, in whole or in part, on information provided by the call authentication frameworks under subsection (b);
+
+  (C) establishing a process to permit a calling party adversely affected by the information provided by the call authentication frameworks under subsection (b) to verify the authenticity of the calling party’s calls; and
+
+  (D) ensuring that calls originating from a provider of voice service in an area where the provider is subject to a delay of compliance with the time period described in subsection (b)(1) are not unreasonably blocked because the calls are not able to be authenticated.
+
+(2) **Considerations** — In establishing the safe harbor under paragraph (1), consistent with the regulations prescribed under subsection (j) of [section 227 of this title](./chapter-005-wire-or-radio-communication.md#section-227), as added by section 10, the Commission shall consider limiting the liability of a provider of voice service based on the extent to which the provider of voice service—
+
+  (A) blocks or identifies calls based, in whole or in part, on the information provided by the call authentication frameworks under subsection (b);
+
+  (B) implemented procedures based, in whole or in part, on the information provided by the call authentication frameworks under subsection (b); and
+
+  (C) used reasonable care, including making all reasonable efforts to avoid blocking emergency public safety calls.
+
+**(d) Rule of construction** Nothing in this section shall preclude the Commission from initiating a rulemaking pursuant to its existing statutory authority.
+
+### Statutory Notes
+
+#### References in Text
+Section 13, referred to in subsec. (b)(5)(C)(ii), is section 13 of Pub. L. 116–105, which is set out as a note under [section 227 of this title](./chapter-005-wire-or-radio-communication.md#section-227).
+
+Section 10, referred to in subsec. (c), means section 10 of Pub. L. 116–105.
+
+#### Codification
+Section was enacted as part of the Pallone-Thune Telephone Robocall Abuse Criminal Enforcement and Deterrence Act, also known as the Pallone-Thune TRACED Act, and not as part of the Communications Act of 1934 which comprises this chapter.
+
+#### Definition
+For definition of “Commission” as used in this section, see section 2 of Pub. L. 116–105, set out as a note under [section 227 of this title](./chapter-005-wire-or-radio-communication.md#section-227).
+
+
+<a id="section-227b-1"></a>
+## § 227b–1. Access to number resources
+**(a) In general**
+
+(1) **Examination of FCC policies** — Not later than 180 days after December 30, 2019, the Commission shall commence a proceeding to determine how Commission policies regarding access to number resources, including number resources for toll-free and non-toll-free telephone numbers, could be modified, including by establishing registration and compliance obligations, and requirements that providers of voice service given access to number resources take sufficient steps to know the identity of the customers of such providers, to help reduce access to numbers by potential perpetrators of violations of section 227(b) of the Communications Act of 1934 ([47 U.S.C. 227(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title47-section227/b&num=0&edition=prelim)).
+
+(2) **Regulations** — If the Commission determines under paragraph (1) that modifying the policies described in that paragraph could help achieve the goal described in that paragraph, the Commission shall prescribe regulations to implement those policy modifications.
+
+**(b) Authority** Any person who knowingly, through an employee, agent, officer, or otherwise, directly or indirectly, by or through any means or device whatsoever, is a party to obtaining number resources, including number resources for toll-free and non-toll-free telephone numbers, from a common carrier regulated under title II of the Communications Act of 1934 ([47 U.S.C. 201](./chapter-005-wire-or-radio-communication.md#section-201) et seq.), in violation of a regulation prescribed under subsection (a), shall, notwithstanding section 503(b)(5) of the Communications Act of 1934 ([47 U.S.C. 503(b)(5)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title47-section503/b/5&num=0&edition=prelim)), be subject to a forfeiture penalty under section 503(b) of that Act ([47 U.S.C. 503(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title47-section503/b&num=0&edition=prelim)). A forfeiture penalty under this subsection shall be in addition to any other penalty provided for by law.
+
+### Statutory Notes
+
+#### References in Text
+The Communications Act of 1934, referred to in subsec. (b), is act June 19, 1934, ch. 652, 48 Stat. 1064. Title II of the Act is classified generally to this subchapter. For complete classification of this Act to the Code, see [section 609 of this title](./chapter-005-wire-or-radio-communication.md#section-609) and Tables.
+
+#### Codification
+Section was enacted as part of the Pallone-Thune Telephone Robocall Abuse Criminal Enforcement and Deterrence Act, also known as the Pallone-Thune TRACED Act, and not as part of the Communications Act of 1934 which comprises this chapter.
+
+#### Definition
+For definition of “Commission” as used in this section, see section 2 of Pub. L. 116–105, set out as a note under [section 227 of this title](./chapter-005-wire-or-radio-communication.md#section-227).
+
+
+<a id="section-227b-2"></a>
+## § 227b–2. Provision of evidence of certain robocall violations to Attorney General
+**(a) In general** If the Chief of the Enforcement Bureau of the Commission obtains evidence that suggests a willful, knowing, and repeated robocall violation with an intent to defraud, cause harm, or wrongfully obtain anything of value, the Chief of the Enforcement Bureau shall provide such evidence to the Attorney General.
+
+**(b) Report to Congress** Not later than 1 year after December 30, 2019, and annually thereafter, the Commission shall publish on its website and submit to the Committee on Energy and Commerce of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a report that—
+
+(1) states the number of instances during the preceding year in which the Chief of the Enforcement Bureau provided the evidence described in subsection (a) to the Attorney General; and
+
+(2) contains a general summary of the types of robocall violations to which such evidence relates.
+
+**(c) Rules of construction** Nothing in this section shall be construed to affect the ability of the Commission or the Chief of the Enforcement Bureau under other law—
+
+(1) to refer a matter to the Attorney General; or
+
+(2) to pursue or continue pursuit of an enforcement action in a matter with respect to which the Chief of the Enforcement Bureau provided the evidence described in subsection (a) to the Attorney General.
+
+**(d) Robocall violation defined** In this section, the term “robocall violation” means a violation of subsection (b) or (e) of [section 227 of this title](./chapter-005-wire-or-radio-communication.md#section-227).
+
+### Statutory Notes
+
+#### Codification
+Section was enacted as part of the Pallone-Thune Telephone Robocall Abuse Criminal Enforcement and Deterrence Act, also known as the Pallone-Thune TRACED Act, and not as part of the Communications Act of 1934 which comprises this chapter.
+
+#### Definition
+For definition of “Commission” as used in this section, see section 2 of Pub. L. 116–105, set out as a note under [section 227 of this title](./chapter-005-wire-or-radio-communication.md#section-227).
 
 
 <a id="section-228"></a>
@@ -3261,6 +3610,91 @@ Pub. L. 115–164, § 7, Apr. 11, 2018, 132 Stat. 1255, provided that: “Nothin
 #### Sense of Congress
 Pub. L. 115–164, § 2, Apr. 11, 2018, 132 Stat. 1253, provided that: “It is the sense of Congress that— “(1) section 230 of the Communications Act of 1934 ([47 U.S.C. 230](./chapter-005-wire-or-radio-communication.md#section-230); commonly known as the ‘Communications Decency Act of 1996’) was never intended to provide legal protection to websites that unlawfully promote and facilitate prostitution and websites that facilitate traffickers in advertising the sale of unlawful sex acts with sex trafficking victims; “(2) websites that promote and facilitate prostitution have been reckless in allowing the sale of sex trafficking victims and have done nothing to prevent the trafficking of children and victims of force, fraud, and coercion; and “(3) clarification of such section is warranted to ensure that such section does not provide such protection to such websites.”
 
+#### Ex. Ord. No. 13925. Preventing Online Censorship
+Ex. Ord. No. 13925, May 28, 2020, 85 F.R. 34079, provided:
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered as follows:
+
+Section 1. Policy. Free speech is the bedrock of American democracy. Our Founding Fathers protected this sacred right with the First Amendment to the Constitution. The freedom to express and debate ideas is the foundation for all of our rights as a free people.
+
+In a country that has long cherished the freedom of expression, we cannot allow a limited number of online platforms to hand pick the speech that Americans may access and convey on the internet. This practice is fundamentally un-American and anti-democratic. When large, powerful social media companies censor opinions with which they disagree, they exercise a dangerous power. They cease functioning as passive bulletin boards, and ought to be viewed and treated as content creators.
+
+The growth of online platforms in recent years raises important questions about applying the ideals of the First Amendment to modern communications technology. Today, many Americans follow the news, stay in touch with friends and family, and share their views on current events through social media and other online platforms. As a result, these platforms function in many ways as a 21st century equivalent of the public square.
+
+Twitter, Facebook, Instagram, and YouTube wield immense, if not unprecedented, power to shape the interpretation of public events; to censor, delete, or disappear information; and to control what people see or do not see.
+
+As President, I have made clear my commitment to free and open debate on the internet. Such debate is just as important online as it is in our universities, our town halls, and our homes. It is essential to sustaining our democracy.
+
+Online platforms are engaging in selective censorship that is harming our national discourse. Tens of thousands of Americans have reported, among other troubling behaviors, online platforms “flagging” content as inappropriate, even though it does not violate any stated terms of service; making unannounced and unexplained changes to company policies that have the effect of disfavoring certain viewpoints; and deleting content and entire accounts with no warning, no rationale, and no recourse.
+
+Twitter now selectively decides to place a warning label on certain tweets in a manner that clearly reflects political bias. As has been reported, Twitter seems never to have placed such a label on another politician’s tweet. As recently as last week, Representative Adam Schiff was continuing to mislead his followers by peddling the long-disproved Russian Collusion Hoax, and Twitter did not flag those tweets. Unsurprisingly, its officer in charge of so-called “Site Integrity” has flaunted his political bias in his own tweets.
+
+At the same time online platforms are invoking inconsistent, irrational, and groundless justifications to censor or otherwise restrict Americans’ speech here at home, several online platforms are profiting from and promoting the aggression and disinformation spread by foreign governments like China. One United States company, for example, created a search engine for the Chinese Communist Party that would have blacklisted searches for “human rights,” hid data unfavorable to the Chinese Communist Party, and tracked users determined appropriate for surveillance. It also established research partnerships in China that provide direct benefits to the Chinese military. Other companies have accepted advertisements paid for by the Chinese government that spread false information about China’s mass imprisonment of religious minorities, thereby enabling these abuses of human rights. They have also amplified China’s propaganda abroad, including by allowing Chinese government officials to use their platforms to spread misinformation regarding the origins of the COVID–19 pandemic, and to undermine pro-democracy protests in Hong Kong.
+
+As a Nation, we must foster and protect diverse viewpoints in today’s digital communications environment where all Americans can and should have a voice. We must seek transparency and accountability from online platforms, and encourage standards and tools to protect and preserve the integrity and openness of American discourse and freedom of expression.
+
+Sec. 2. Protections Against Online Censorship. (a) It is the policy of the United States to foster clear ground rules promoting free and open debate on the internet. Prominent among the ground rules governing that debate is the immunity from liability created by section 230(c) of the Communications Decency Act (section 230(c)). [47 U.S.C. 230(c)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title47-section230/c&num=0&edition=prelim). It is the policy of the United States that the scope of that immunity should be clarified: the immunity should not extend beyond its text and purpose to provide protection for those who purport to provide users a forum for free and open speech, but in reality use their power over a vital means of communication to engage in deceptive or pretextual actions stifling free and open debate by censoring certain viewpoints.
+
+Section 230(c) was designed to address early court decisions holding that, if an online platform restricted access to some content posted by others, it would thereby become a “publisher” of all the content posted on its site for purposes of torts such as defamation. As the title of section 230(c) makes clear, the provision provides limited liability “protection” to a provider of an interactive computer service (such as an online platform) that engages in “ ‘Good Samaritan’ blocking” of harmful content. In particular, the Congress sought to provide protections for online platforms that attempted to protect minors from harmful content and intended to ensure that such providers would not be discouraged from taking down harmful material. The provision was also intended to further the express vision of the Congress that the internet is a “forum for a true diversity of political discourse.” [47 U.S.C. 230(a)(3)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title47-section230/a/3&num=0&edition=prelim). The limited protections provided by the statute should be construed with these purposes in mind.
+
+In particular, subparagraph (c)(2) expressly addresses protections from “civil liability” and specifies that an interactive computer service provider may not be made liable “on account of” its decision in “good faith” to restrict access to content that it considers to be “obscene, lewd, lascivious, filthy, excessively violent, harassing or otherwise objectionable.” It is the policy of the United States to ensure that, to the maximum extent permissible under the law, this provision is not distorted to provide liability protection for online platforms that—far from acting in “good faith” to remove objectionable content—instead engage in deceptive or pretextual actions (often contrary to their stated terms of service) to stifle viewpoints with which they disagree. Section 230 was not intended to allow a handful of companies to grow into titans controlling vital avenues for our national discourse under the guise of promoting open forums for debate, and then to provide those behemoths blanket immunity when they use their power to censor content and silence viewpoints that they dislike. When an interactive computer service provider removes or restricts access to content and its actions do not meet the criteria of subparagraph (c)(2)(A), it is engaged in editorial conduct. It is the policy of the United States that such a provider should properly lose the limited liability shield of subparagraph (c)(2)(A) and be exposed to liability like any traditional editor and publisher that is not an online provider.
+
+(b) To advance the policy described in subsection (a) of this section, all executive departments and agencies should ensure that their application of section 230(c) properly reflects the narrow purpose of the section and take all appropriate actions in this regard. In addition, within 60 days of the date of this order [May 28, 2020], the Secretary of Commerce (Secretary), in consultation with the Attorney General, and acting through the National Telecommunications and Information Administration (NTIA), shall file a petition for rulemaking with the Federal Communications Commission (FCC) requesting that the FCC expeditiously propose regulations to clarify:
+
+(i) the interaction between subparagraphs (c)(1) and (c)(2) of section 230, in particular to clarify and determine the circumstances under which a provider of an interactive computer service that restricts access to content in a manner not specifically protected by subparagraph (c)(2)(A) may also not be able to claim protection under subparagraph (c)(1), which merely states that a provider shall not be treated as a publisher or speaker for making third-party content available and does not address the provider’s responsibility for its own editorial decisions;
+
+(ii) the conditions under which an action restricting access to or availability of material is not “taken in good faith” within the meaning of subparagraph (c)(2)(A) of section 230, particularly whether actions can be “taken in good faith” if they are:
+
+(A) deceptive, pretextual, or inconsistent with a provider’s terms of service; or
+
+(B) taken after failing to provide adequate notice, reasoned explanation, or a meaningful opportunity to be heard; and
+
+(iii) any other proposed regulations that the NTIA concludes may be appropriate to advance the policy described in subsection (a) of this section.
+
+Sec. 3. Protecting Federal Taxpayer Dollars from Financing Online Platforms That Restrict Free Speech. (a) The head of each executive department and agency (agency) shall review its agency’s Federal spending on advertising and marketing paid to online platforms. Such review shall include the amount of money spent, the online platforms that receive Federal dollars, and the statutory authorities available to restrict their receipt of advertising dollars.
+
+(b) Within 30 days of the date of this order, the head of each agency shall report its findings to the Director of the Office of Management and Budget.
+
+(c) The Department of Justice shall review the viewpoint-based speech restrictions imposed by each online platform identified in the report described in subsection (b) of this section and assess whether any online platforms are problematic vehicles for government speech due to viewpoint discrimination, deception to consumers, or other bad practices.
+
+Sec. 4. Federal Review of Unfair or Deceptive Acts or Practices. (a) It is the policy of the United States that large online platforms, such as Twitter and Facebook, as the critical means of promoting the free flow of speech and ideas today, should not restrict protected speech. The Supreme Court has noted that social media sites, as the modern public square, “can provide perhaps the most powerful mechanisms available to a private citizen to make his or her voice heard.” Packingham v. North Carolina, 137 S. Ct. 1730, 1737 (2017). Communication through these channels has become important for meaningful participation in American democracy, including to petition elected leaders. These sites are providing an important forum to the public for others to engage in free expression and debate. Cf. PruneYard Shopping Center v. Robins, 447 U.S. 74, 85–89 (1980).
+
+(b) In May of 2019, the White House launched a Tech Bias Reporting tool to allow Americans to report incidents of online censorship. In just weeks, the White House received over 16,000 complaints of online platforms censoring or otherwise taking action against users based on their political viewpoints. The White House will submit such complaints received to the Department of Justice and the Federal Trade Commission (FTC).
+
+(c) The FTC shall consider taking action, as appropriate and consistent with applicable law, to prohibit unfair or deceptive acts or practices in or affecting commerce, pursuant to [section 45 of title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section45&num=0&edition=prelim), United States Code. Such unfair or deceptive acts or practice may include practices by entities covered by section 230 that restrict speech in ways that do not align with those entities’ public representations about those practices.
+
+(d) For large online platforms that are vast arenas for public debate, including the social media platform Twitter, the FTC shall also, consistent with its legal authority, consider whether complaints allege violations of law that implicate the policies set forth in section 4(a) of this order. The FTC shall consider developing a report describing such complaints and making the report publicly available, consistent with applicable law.
+
+Sec. 5. State Review of Unfair or Deceptive Acts or Practices and Anti-Discrimination Laws. (a) The Attorney General shall establish a working group regarding the potential enforcement of State statutes that prohibit online platforms from engaging in unfair or deceptive acts or practices. The working group shall also develop model legislation for consideration by legislatures in States where existing statutes do not protect Americans from such unfair and deceptive acts and practices. The working group shall invite State Attorneys General for discussion and consultation, as appropriate and consistent with applicable law.
+
+(b) Complaints described in section 4(b) of this order will be shared with the working group, consistent with applicable law. The working group shall also collect publicly available information regarding the following:
+
+(i) increased scrutiny of users based on the other users they choose to follow, or their interactions with other users;
+
+(ii) algorithms to suppress content or users based on indications of political alignment or viewpoint;
+
+(iii) differential policies allowing for otherwise impermissible behavior, when committed by accounts associated with the Chinese Communist Party or other anti-democratic associations or governments;
+
+(iv) reliance on third-party entities, including contractors, media organizations, and individuals, with indicia of bias to review content; and
+
+(v) acts that limit the ability of users with particular viewpoints to earn money on the platform compared with other users similarly situated.
+
+Sec. 6. Legislation. The Attorney General shall develop a proposal for Federal legislation that would be useful to promote the policy objectives of this order.
+
+Sec. 7. Definition. For purposes of this order, the term “online platform” means any website or application that allows users to create and share content or engage in social networking, or any general search engine.
+
+Sec. 8. General Provisions. (a) Nothing in this order shall be construed to impair or otherwise affect:
+
+(i) the authority granted by law to an executive department or agency, or the head thereof; or
+
+(ii) the functions of the Director of the Office of Management and Budget relating to budgetary, administrative, or legislative proposals.
+
+(b) This order shall be implemented consistent with applicable law and subject to the availability of appropriations.
+
+(c) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+
+Donald J. Trump.
+
 
 <a id="section-231"></a>
 ## § 231. Restriction of access by minors to materials commercially distributed by means of World Wide Web that are harmful to minors
@@ -3471,8 +3905,67 @@ Pub. L. 105–277, div. C, title XIV, § 1405, Oct. 21, 1998, 112 Stat. 2681–7
 
 ### Statutory Notes
 
+#### Amendment of Subsection (e)(4)
+Pub. L. 116–172, § 3(a), (b), Oct. 17, 2020, 134 Stat. 832, 833, provided that, effective on the date that is 1 year after Oct. 17, 2020, subsection (e) of this section is amended by adding at the end the following new paragraph:
+
+(4) Universal telephone number for national suicide prevention and mental health crisis hotline system
+
+9–8–8 is designated as the universal telephone number within the United States for the purpose of the national suicide prevention and mental health crisis hotline system operating through the National Suicide Prevention Lifeline maintained by the Assistant Secretary for Mental Health and Substance Use under [section 290bb–36c of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section290bb–36c&num=0&edition=prelim) and through the Veterans Crisis Line maintained by the Secretary of Veterans Affairs under [section 1720F(h) of title 38](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section1720F/h&num=0&edition=prelim).
+
+See 2020 Amendment note below.
+
 #### Amendments
+2020—Subsec. (e)(4). Pub. L. 116–172 added par. (4).
+
 1999—Subsec. (e)(3). Pub. L. 106–81 added par. (3).
+
+#### Effective Date of 2020 Amendment
+Pub. L. 116–172, § 3(b), Oct. 17, 2020, 134 Stat. 833, provided that: “The amendment made by subsection (a) [amending this section] shall take effect on the date that is 1 year after the date of enactment of this Act [Oct. 17, 2020].”
+
+#### Findings
+Pub. L. 116–172, § 2, Oct. 17, 2020, 134 Stat. 832, provided that: “Congress finds the following: “(1) According to the American Foundation for Suicide Prevention, on average, there are 129 suicides per day in the United States. “(2) To prevent future suicides, it is critical to transition the cumbersome, existing 10-digit National Suicide Hotline to a universal, easy-to-remember, 3-digit phone number and connect people in crisis with life-saving resources. “(3) It is essential that people in the United States have access to a 3-digit national suicide hotline across all geographic locations. “(4) The designated suicide hotline number will need to be both familiar and recognizable to all people in the United States.”
+
+
+<a id="section-251a"></a>
+## § 251a. State authority over fees
+**(a) Authority**
+
+(1) **In general** — Nothing in this Act, any amendment made by this Act, the Communications Act of 1934 ([47 U.S.C. 151](./chapter-005-wire-or-radio-communication.md#section-151) et seq.), or any Commission regulation or order may prevent the imposition and collection of a fee or charge applicable to a commercial mobile service or an IP-enabled voice service specifically designated by a State, a political subdivision of a State, an Indian Tribe, or village or regional corporation serving a region established pursuant to the Alaska Native Claims Settlement Act ([43 U.S.C. 1601](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1601&num=0&edition=prelim) et seq.) for 9–8–8 related services, if the fee or charge is held in a sequestered account to be obligated or expended only in support of 9–8–8 services, or enhancements of such services, as specified in the provision of State or local law adopting the fee or charge.
+
+(2) **Use of 9–8–8 funds** — A fee or charge collected under this subsection shall only be imposed, collected, and used to pay expenses that a State, a political subdivision of a State, an Indian Tribe, or village or regional corporation serving a region established pursuant to the Alaska Native Claims Settlement Act ([43 U.S.C. 1601](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1601&num=0&edition=prelim) et seq.) is expected to incur that are reasonably attributed to—
+
+  (A) ensuring the efficient and effective routing of calls made to the 9–8–8 national suicide prevention and mental health crisis hotline to an appropriate crisis center; and
+
+  (B) personnel and the provision of acute mental health, crisis outreach and stabilization services by directly responding to the 9–8–8 national suicide prevention and mental health crisis hotline.
+
+**(b) Fee Accountability Report** To ensure efficiency, transparency, and accountability in the collection and expenditure of a fee or charge for the support or implementation of 9–8–8 services, not later than 2 years after October 17, 2020, and annually thereafter, the Commission shall submit to the Committees on Commerce, Science, and Transportation and Appropriations of the Senate and the Committees on Energy and Commerce and Appropriations of the House of Representatives a report that—
+
+(1) details the status in each State, political subdivision of a State, Indian Tribe, or village or regional corporation serving a region established pursuant to the Alaska Native Claims Settlement Act ([43 U.S.C. 1601](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1601&num=0&edition=prelim) et seq.) of the collection and distribution of such fees or charges; and
+
+(2) includes findings on the amount of revenues obligated or expended by each State, political subdivision of a State, Indian Tribe, or village or regional corporation serving a region established pursuant to the Alaska Native Claims Settlement Act ([43 U.S.C. 1601](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1601&num=0&edition=prelim) et seq.) for any purpose other than the purpose for which any such fees or charges are specified.
+
+**(c) Definitions** In this section:
+
+(1) **Commercial mobile service** — The term “commercial mobile service” has the meaning given that term under section 332(d) of the Communications Act of 1934 ([47 U.S.C. 332(d)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title47-section332/d&num=0&edition=prelim)).
+
+(2) **Commission** — The term “Commission” means the Federal Communications Commission.
+
+(3) **IP-enabled voice service** — The term “IP-enabled voice service” shall include—
+
+  (A) an interconnected VoIP service, as defined in section 9.3 of the 11 So in original. title 47 of the Code of Federal Regulations, or any successor thereto; and
+
+  (B) a one-way interconnected VoIP service.
+
+(4) **State** — The term “State” has the meaning given that term in [section 615b of this title](./chapter-005-wire-or-radio-communication.md#section-615b).
+
+### Statutory Notes
+
+#### References in Text
+This Act, referred to in subsec. (a)(1), is Pub. L. 116–172, Oct. 17, 2020, 134 Stat. 832, known as the National Suicide Hotline Designation Act of 2020. For complete classification of this Act to the Code, see Short Title of 2020 Amendment note under [section 609 of this title](./chapter-005-wire-or-radio-communication.md#section-609) and Tables.
+
+The Communications Act of 1934, referred to in subsec. (a)(1), is act June 19, 1934, ch. 652, 48 Stat. 1064, which is classified principally to this chapter. For complete classification of this Act to the Code, see [section 609 of this title](./chapter-005-wire-or-radio-communication.md#section-609) and Tables.
+
+The Alaska Native Claims Settlement Act, referred to in subsecs. (a) and (b), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, which is classified generally to chapter 33 (§ 1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under [section 1601 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1601&num=0&edition=prelim) and Tables.
 
 
 <a id="section-252"></a>
@@ -3972,6 +4465,9 @@ Pub. L. 114–182, title II, § 202(b), June 22, 2016, 130 Stat. 512, provided t
 
 #### Separability
 Pub. L. 106–554, § 1(a)(4) [div. B, title XVII, § 1721(e)], Dec. 21, 2000, 114 Stat. 2763, 2763A–350, provided that: “If any provision of paragraph (5) or (6) of section 254(h) of the Communications Act of 1934 [[47 U.S.C. 254(h)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title47-section254/h&num=0&edition=prelim)], as amended by this section, or the application thereof to any person or circumstance is held invalid, the remainder of such paragraph and the application of such paragraph to other persons or circumstances shall not be affected thereby.”
+
+#### FCC COVID–19 Telehealth Program
+Pub. L. 116–260, div. N, title IX, § 903, Dec. 27, 2020, 134 Stat. 2128, provided that: “(a) Definitions.—In this section—“(1) the term ‘appropriate congressional committees’ means—“(A) the Committee on Commerce, Science, and Transportation of the Senate; and “(B) the Committee on Energy and Commerce of the House of Representatives; “(2) the term ‘Commission’ means the Federal Communications Commission; and “(3) the term ‘COVID–19 Telehealth Program’ or ‘Program’ means the COVID–19 Telehealth Program established by the Commission under the authority provided under the heading ‘salaries and expenses’ under the heading ‘Federal Communications Commission’ under the heading ‘INDEPENDENT AGENCIES’ in title V of division B of the CARES Act (Public Law 116–136; 134 Stat. 531). “(b) Additional Appropriation.—Out of amounts in the Treasury not otherwise appropriated, there is appropriated $249,950,000 in additional funds for the COVID–19 Telehealth Program, of which $50,000 shall be transferred by the Commission to the Inspector General of the Commission for oversight of the COVID–19 Telehealth Program. “(c) Administrative Provisions.—“(1) Evaluation of applications.—“(A) Public notice.—Not later than 10 days after the date of enactment of this Act [Dec. 27, 2020], the Commission shall issue a Public Notice establishing a 10-day period during which the Commission will seek comments on—“(i) the metrics the Commission should use to evaluate applications for funding under this section; and “(ii) how the Commission should treat applications filed during the funding rounds for awards from the COVID–19 Telehealth Program using amounts appropriated under the CARES Act (Public Law 116–36 [116–136]; 134 Stat. 281). “(B) Congressional notice.—After the end of the comment period under subparagraph (A), and not later than 15 days before the Commission first commits funds under this section, the Commission shall provide notice to the appropriate congressional committees of the metrics the Commission plans to use to evaluate applications for those funds. “(2) Equitable distribution.—To the extent feasible, the Commission shall ensure, in providing assistance under the COVID–19 Telehealth Program from amounts made available under subsection (b), that not less than 1 applicant in each of the 50 States and the District of Columbia has received funding from the Program since the inception of the Program, unless there is no such applicant eligible for such assistance in a State or in the District of Columbia, as the case may be. “(3) Previous applicants.—The Commission shall allow an applicant who filed an application during the funding rounds for awards from the COVID–19 Telehealth Program using amounts appropriated under the CARES Act (Public Law 116–36 [116–136]; 134 Stat. 281) the opportunity to update or amend that application as necessary. “(4) Information.—To the extent feasible, the Commission shall provide each applicant for funding from the COVID–19 Telehealth Program, if requested, with—“(A) information on the status of the application; and “(B) a rationale for the final funding decision for the application, after making that decision. “(5) Denial.—If the Commission chooses to deny an application for funding from the COVID–19 Telehealth Program, the Commission shall—“(A) issue notice to the applicant of the intent of the Commission to deny the application and the grounds for that decision; “(B) provide the applicant with 10 days to submit any supplementary information that the applicant determines relevant; and “(C) consider any supplementary information submitted under subparagraph (B) in making any final decision with respect to the application. “(d) Report to Congress.—Not later than 90 days after the date of enactment of this Act, and every 30 days thereafter until all funds made available under this section have been expended, the Commission shall submit to the appropriate congressional committees a report on the distribution of funds appropriated for the COVID–19 Telehealth Program under the CARES Act (Public Law 116–36 [116–136]; 134 Stat. 281) or under this section, which shall include—“(1) non-identifiable and aggregated data on deficient and rejected applications; “(2) non-identifiable and aggregated data on applications for which no award determination was made; “(3) information on the total number of applicants; “(4) information on the total dollar amount of requests for awards made under this section; and “(5) information on applicant outreach and technical assistance. “(e) Paperwork Reduction Act Requirements.—A collection of information conducted or sponsored under any regulations required to implement this section shall not constitute a collection of information for the purposes of subchapter I of chapter 35 of title 44, United States Code (commonly referred to as the ‘Paperwork Reduction Act’).”
 
 #### Methodology for Collection of Mobile Service Coverage Data
 Pub. L. 115–141, div. P, title V, § 505, Mar. 23, 2018, 132 Stat. 1094, provided that: “(a) Definitions.—In this section—“(1) the term ‘commercial mobile data service’ has the meaning given the term in section 6001 of the Middle Class Tax Relief and Job Creation Act of 2012 ([47 U.S.C. 1401](./chapter-013-public-safety-communications-and-electromagnetic-spectrum-auctions.md#section-1401)); “(2) the term ‘commercial mobile service’ has the meaning given the term in section 332(d) of the Communications Act of 1934 ([47 U.S.C. 332(d)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title47-section332/d&num=0&edition=prelim)); “(3) the term ‘coverage data’ means, if commercial mobile service or commercial mobile data service is available, general information about the service, which may include available speed tiers, radio frequency signal levels, and network and performance characteristics; and “(4) the term ‘Universal Service program’ means the universal service support mechanisms established under section 254 of the Communications Act of 1934 ([47 U.S.C. 254](./chapter-005-wire-or-radio-communication.md#section-254)) and the regulations issued under that section. “(b) Methodology Established.—Not later than 180 days after the conclusion of the Mobility Fund Phase II Auction, the Commission shall promulgate regulations to establish a methodology that shall apply to the collection of coverage data by the Commission [Federal Communications Commission] for the purposes of—“(1) the Universal Service program; or “(2) any other similar program. “(c) Requirements.—The methodology established under subsection (b) shall—“(1) contain standard definitions for different available technologies such as 2G, 3G, 4G, and 4G LTE; “(2) enhance the consistency and robustness of how the data are collected by different parties; “(3) improve the validity and reliability of coverage data; and “(4) increase the efficiency of coverage data collection.”
@@ -4856,7 +5352,7 @@ Subsec. (c). Pub. L. 97–259, § 108(a)(4), inserted “or home electronic equi
 Pub. L. 102–556, title IV, § 403(c), Oct. 28, 1992, 106 Stat. 4195, provided that: “This section [amending this section] shall not affect [section 2512(2) of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section2512/2&num=0&edition=prelim), United States Code.”
 
 #### Minimum Performance Standards; Home Electronic Equipment and Systems Manufactured Before September 13, 1982
-Pub. L. 97–259, title I, § 108(b), Sept. 13, 1982, 96 Stat. 1092, provided that: “Any minimum performance standard established by the Federal Communications Commission under section 302(a)(2) of the Communications Act of 1934 [subsec. (a)(2) of this section], as added by the amendment made in subsection (a)(1), shall not apply to any home electronic equipment or systems manufactured before the date of the enactment of this Act [Sept. 13, 1982].”
+Pub. L. 97–259, title I, § 108(b), Sept. 13, 1982, 96 Stat. 1092, provided that any minimum performance standard established by the Federal Communications Commission under subsec. (a)(2) of this section would not apply to any home electronic equipment or systems manufactured before Sept. 13, 1982.
 
 
 <a id="section-303"></a>
@@ -5096,6 +5592,9 @@ Pub. L. 111–260, title II, § 205(b), Oct. 8, 2010, 124 Stat. 2775, provided t
 Pub. L. 101–431, § 6, Oct. 15, 1990, 104 Stat. 962, provided that: “The Federal Communications Commission shall promulgate rules to implement this Act [amending this section and [section 330 of this title](./chapter-005-wire-or-radio-communication.md#section-330) and enacting provisions set out as notes under this section and [section 609 of this title](./chapter-005-wire-or-radio-communication.md#section-609)] within 180 days after the date of its enactment [Oct. 15, 1990].”
 
 Pub. L. 100–459, title VI, § 608, Oct. 1, 1988, 102 Stat. 2228, directed Federal Communications Commission to promulgate, by Jan. 31, 1989, regulations in accordance with [section 1464 of Title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section1464&num=0&edition=prelim), Crimes and Criminal Procedure, to enforce the provisions of such section on a 24 hour per day basis, prior to repeal by Pub. L. 102–356, § 16(b), Aug. 26, 1992, 106 Stat. 954.
+
+#### Authorization of Use of Automatic Identification Systems Devices to Mark Fishing Equipment
+Pub. L. 116–283, div. G, title LVXXXIV [LXXXIV], § 8416, Jan. 1, 2021, 134 Stat. 4727, provided that: “(a) Definitions.—In this section—“(1) the term ‘Assistant Secretary’ means the Assistant Secretary of Commerce for Communications and Information and the National Telecommunications and Information Administration Administrator; “(2) the term ‘Automatic Identification System’ has the meaning given the term in section 164.46(a) of title 33, Code of Federal Regulations, or any successor regulation; “(3) the term ‘Automatic Identification System device’ means a covered device that operates in radio frequencies assigned for Automatic Identification System stations; “(4) the term ‘Commission’ means the Federal Communications Commission; and “(5) the term ‘covered device’ means a device used to mark fishing equipment. “(b) Rulemaking Required.—Not later than 180 days after the date of enactment of this Act [Jan. 1, 2021], the Commission, in coordination with the Assistant Secretary, and in consultation with the Commandant [of the Coast Guard] and the Secretary of State, shall initiate a rulemaking proceeding to consider whether to authorize covered devices to operate in radio frequencies assigned for Automatic Identification System stations. “(c) Considerations.—In conducting the rulemaking under subsection (b), the Commission shall consider whether imposing requirements with respect to the manner in which Automatic Identification System devices are deployed and used would enable the authorization of covered devices to operate in radio frequencies assigned for Automatic Identification System stations consistent with the core purpose of the Automatic Identification System to prevent maritime accidents.”
 
 #### Local Community Radio
 Pub. L. 111–371, Jan. 4, 2011, 124 Stat. 4072, provided that: “SECTION 1. SHORT TITLE.“This Act may be cited as the ‘Local Community Radio Act of 2010’. “SEC. 2. AMENDMENT. “Section 632 of the Departments of Commerce, Justice, and State, the Judiciary, and Related Agencies Appropriations Act, 2001 (Public Law 106–553; 114 Stat. 2762A–111), is amended to read as follows:“ ‘Sec. 632. (a) The Federal Communications Commission shall modify the rules authorizing the operation of low-power FM radio stations, as proposed in MM Docket No. 99–25, to— “ ‘(1) prescribe protection for co-channels and first- and second-adjacent channels; and “ ‘(2) prohibit any applicant from obtaining a low-power FM license if the applicant has engaged in any manner in the unlicensed operation of any station in violation of section 301 of the Communications Act of 1934 ([47 U.S.C. 301](./chapter-005-wire-or-radio-communication.md#section-301)). “ ‘(b) Any license that was issued by the Federal Communications Commission to a low-power FM station prior to April 2, 2001, and that does not comply with the modifications adopted by the Commission in MM Docket No. 99–25 on April 2, 2001, shall remain invalid.’ “SEC. 3. MINIMUM DISTANCE SEPARATION REQUIREMENTS.“(a) In General.—The Federal Communications Commission shall modify its rules to eliminate third-adjacent minimum distance separation requirements between—“(1) low-power FM stations; and “(2) full-service FM stations, FM translator stations, and FM booster stations. “(b) Restriction.—“(1) In general.—The Federal Communications Commission shall not amend its rules to reduce the minimum co-channel and first- and second-adjacent channel distance separation requirements in effect on the date of enactment of this Act [Jan. 4, 2011] between—“(A) low-power FM stations; and “(B) full-service FM stations. “(2) Waiver.—“(A) In general.—Notwithstanding paragraph (1), the Federal Communications Commission may grant a waiver of the second-adjacent channel distance separation requirement to low-power FM stations that establish, using methods of predicting interference taking into account all relevant factors, including terrain-sensitive propagation models, that their proposed operations will not result in interference to any authorized radio service. “(B) Requirements.—“(i) Suspension.—Any low-power FM station that receives a waiver under subparagraph (A) shall be required to suspend operation immediately upon notification by the Federal Communications Commission that it is causing interference to the reception of an existing or modified full-service FM station without regard to the location of the station receiving interference. “(ii) Elimination of interference.—A low-power FM station described in clause (i) shall not resume operation until such interference has been eliminated or it can demonstrate to the Federal Communications Commission that the interference was not due to emissions from the low-power FM station, except that such station may make short test transmissions during the period of suspended operation to check the efficacy of remedial measures. “(iii) Notification.—Upon receipt of a complaint of interference from a low-power FM station operating pursuant to a waiver authorized under subparagraph (A), the Federal Communications Commission shall notify the identified low-power FM station by telephone or other electronic communication within 1 business day. “SEC. 4. PROTECTION OF RADIO READING SERVICES.“The Federal Communications Commission shall comply with its existing minimum distance separation requirements for full-service FM stations, FM translator stations, and FM booster stations that broadcast radio reading services via an analog subcarrier frequency to avoid potential interference by low-power FM stations. “SEC. 5. ENSURING AVAILABILITY OF SPECTRUM FOR LOW-POWER FM STATIONS.“The Federal Communications Commission, when licensing new FM translator stations, FM booster stations, and low-power FM stations, shall ensure that—“(1) licenses are available to FM translator stations, FM booster stations, and low-power FM stations; “(2) such decisions are made based on the needs of the local community; and “(3) FM translator stations, FM booster stations, and low-power FM stations remain equal in status and secondary to existing and modified full-service FM stations. “SEC. 6. PROTECTION OF TRANSLATOR INPUT SIGNALS.“The Federal Communications Commission shall modify its rules to address the potential for predicted interference to FM translator input signals on third-adjacent channels set forth in section 2.7 of the technical report entitled ‘Experimental Measurements of the Third-Adjacent Channel Impacts of Low-Power FM Stations, Volume One—Final Report (May 2003)’. “SEC. 7. ENSURING EFFECTIVE REMEDIATION OF INTERFERENCE.“The Federal Communications Commission shall modify the interference complaint process described in section 73.810 of its rules (47 CFR 73.810) as follows:“(1) With respect to those low-power FM stations licensed at locations that do not satisfy third-adjacent channel spacing requirements under section 73.807 of the Commission’s rules (47 CFR 73.807), the Federal Communications Commission shall provide the same interference protections that FM translator stations and FM booster stations are required to provide as set forth in section 74.1203 of its rules (47 CFR 74.1203) as in effect on the date of enactment of this Act. “(2) For a period of 1 year after a new low-power FM station is constructed on a third-adjacent channel, such low-power FM station shall be required to broadcast periodic announcements that alert listeners that interference that they may be experiencing could be the result of the operation of such low-power FM station on a third-adjacent channel and shall instruct affected listeners to contact such low-power FM station to report any interference. The Federal Communications Commission shall require all newly constructed low-power FM stations on third-adjacent channels to—“(A) notify the Federal Communications Commission and all affected stations on third-adjacent channels of an interference complaint by electronic communication within 48 hours after the receipt of such complaint; and “(B) cooperate in addressing any such interference. “(3) Low-power FM stations on third-adjacent channels shall be required to address complaints of interference within the protected contour of an affected station and shall be encouraged to address all other interference complaints, including complaints to the Federal Communications Commission based on interference to a full-service FM station, an FM translator station, or an FM booster station by the transmitter site of a low-power FM station on a third-adjacent channel at any distance from the full-service FM station, FM translator station, or FM booster station. The Federal Communications Commission shall provide notice to the licensee of a low-power FM station of the existence of such interference within 7 calendar days of the receipt of a complaint from a listener or another station. “(4) To the extent possible, the Federal Communications Commission shall grant low-power FM stations on third-adjacent channels the technical flexibility to remediate interference through the colocation of the transmission facilities of the low-power FM station and any stations on third-adjacent channels. “(5) The Federal Communications Commission shall—“(A) permit the submission of informal evidence of interference, including any engineering analysis that an affected station may commission; “(B) accept complaints based on interference to a full-service FM station, FM translator station, or FM booster station by the transmitter site of a low-power FM station on a third-adjacent channel at any distance from the full-service FM station, FM translator station, or FM booster station; and “(C) accept complaints of interference to mobile reception. “(6) The Federal Communications Commission shall for full-service FM stations that are licensed in significantly populated States with more than 3,000,000 population and a population density greater than 1,000 people per one square mile land area, require all low-power FM stations licensed after the date of enactment of this Act and located on third-adjacent, second-adjacent, first-adjacent, or co-channels to such full-service FM stations, to provide the same interference remediation requirements to complaints of interference, without regard to whether such complaints of interference occur within or outside of the protected contour of such stations, under the same interference complaint and remediation procedures that FM translator stations and FM booster stations are required to provide to full-service stations as set forth in section 74.1203 of its rules (47 CFR 74.1203) as in effect on the date of enactment of this Act. Notwithstanding the provisions of section 74.1203, no interference that arises outside the relevant distance for the full-service station class specified in the first column titled ‘required’ for ‘Co-channel minimum separation (km)’ in the table listed in section 73.807(a)(1) of the Commission’s rules (47 CFR 73.807(a)(1)) shall require remediation. “SEC. 8. FCC STUDY ON IMPACT OF LOW-POWER FM STATIONS ON FULL-SERVICE COMMERCIAL FM STATIONS.“(a) In General.—The Federal Communications Commission shall conduct an economic study on the impact that low-power FM stations will have on full-service commercial FM stations. “(b) Report.—Not later than 1 year after the date of enactment of this Act, the Federal Communications Commission shall submit a report to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Energy and Commerce of the House of Representatives on the study conducted under subsection (a). “(c) Licensing Not Affected by Study.—Nothing in this section shall affect the licensing of new low-power FM stations as otherwise permitted under this Act.”
@@ -6793,11 +7292,7 @@ In all circumstances, except in case of radio communications or signals relating
 
     (iii) the satellite carrier complies with any network nonduplication, syndicated exclusivity, and sports blackout rules adopted by the Commission under [section 339(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title47-section339/b&num=0&edition=prelim);
 
-  (C) until December 31, 2019, to retransmission of the signals of network stations directly to a home satellite antenna, if the subscriber receiving the signal—
-
-    (i) is located in an area outside the local market of such stations; and
-
-    (ii) resides in an unserved household;
+  (C) to retransmission of the signals of network stations directly to a home satellite antenna under the statutory license of [section 119 of title 17](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title17-section119&num=0&edition=prelim);
 
   (D) to retransmission by a cable operator or other multichannel video provider, other than a satellite carrier, of the signal of a television broadcast station outside the station’s local market if such signal was obtained from a satellite carrier and—
 
@@ -6806,7 +7301,7 @@ In all circumstances, except in case of radio communications or signals relating
     (ii) as of July 1, 1998, such station was retransmitted by a satellite carrier under the statutory license of [section 119 of title 17](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title17-section119&num=0&edition=prelim); or
 
   (E) during the 6-month period beginning on November 29, 1999, to the retransmission of the signal of a television broadcast station within the station’s local market by a satellite carrier directly to its subscribers under the statutory license of [section 122 of title 17](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title17-section122&num=0&edition=prelim).
-  For purposes of this paragraph, the terms “satellite carrier” and “superstation” have the meanings given those terms, respectively, in [section 119(d) of title 17](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title17-section119/d&num=0&edition=prelim), as in effect on October 5, 1992, the term “unserved household” has the meaning given that term under section 119(d) of such title, and the term “local market” has the meaning given that term in section 122(j) of such title.
+  For purposes of this paragraph, the terms “satellite carrier” and “superstation” have the meanings given those terms, respectively, in [section 119(d) of title 17](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title17-section119/d&num=0&edition=prelim), as in effect on October 5, 1992.
 
 (3)
 
@@ -6818,13 +7313,21 @@ In all circumstances, except in case of radio communications or signals relating
 
     (i) establish election time periods that correspond with those regulations adopted under subparagraph (B) of this paragraph;
 
-    (ii) until January 1, 2020, prohibit a television broadcast station that provides retransmission consent from engaging in exclusive contracts for carriage or failing to negotiate in good faith, and it shall not be a failure to negotiate in good faith if the television broadcast station enters into retransmission consent agreements containing different terms and conditions, including price terms, with different multichannel video programming distributors if such different terms and conditions are based on competitive marketplace considerations;
+    (ii) prohibit a television broadcast station that provides retransmission consent from engaging in exclusive contracts for carriage or failing to negotiate in good faith, and it shall not be a failure to negotiate in good faith if the television broadcast station enters into retransmission consent agreements containing different terms and conditions, including price terms, with different multichannel video programming distributors if such different terms and conditions are based on competitive marketplace considerations;
 
-    (iii) until January 1, 2020, prohibit a multichannel video programming distributor from failing to negotiate in good faith for retransmission consent under this section, and it shall not be a failure to negotiate in good faith if the distributor enters into retransmission consent agreements containing different terms and conditions, including price terms, with different broadcast stations if such different terms and conditions are based on competitive marketplace considerations;
+    (iii) prohibit a multichannel video programming distributor from failing to negotiate in good faith for retransmission consent under this section, and it shall not be a failure to negotiate in good faith if the distributor enters into retransmission consent agreements containing different terms and conditions, including price terms, with different broadcast stations if such different terms and conditions are based on competitive marketplace considerations;
 
-    (iv) prohibit a television broadcast station from coordinating negotiations or negotiating on a joint basis with another television broadcast station in the same local market (as defined in [section 122(j) of title 17](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title17-section122/j&num=0&edition=prelim)) to grant retransmission consent under this section to a multichannel video programming distributor, unless such stations are directly or indirectly under common de jure control permitted under the regulations of the Commission; and
+    (iv) prohibit a television broadcast station from coordinating negotiations or negotiating on a joint basis with another television broadcast station in the same local market to grant retransmission consent under this section to a multichannel video programming distributor, unless such stations are directly or indirectly under common de jure control permitted under the regulations of the Commission;
 
-    (v) prohibit a television broadcast station from limiting the ability of a multichannel video programming distributor to carry into the local market (as defined in [section 122(j) of title 17](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title17-section122/j&num=0&edition=prelim)) of such station a television signal that has been deemed significantly viewed, within the meaning of section 76.54 of title 47, Code of Federal Regulations, or any successor regulation, or any other television broadcast signal such distributor is authorized to carry under section 338, 339, 340, or 534 of this title, unless such stations are directly or indirectly under common de jure control permitted by the Commission.
+    (v) prohibit a television broadcast station from limiting the ability of a multichannel video programming distributor to carry into the local market of such station a television signal that has been deemed significantly viewed, within the meaning of section 76.54 of title 47, Code of Federal Regulations, or any successor regulation, or any other television broadcast signal such distributor is authorized to carry under section 338, 339, 340, or 534 of this title, unless such stations are directly or indirectly under common de jure control permitted by the Commission; and
+
+    (vi) not later than 90 days after December 20, 2019, specify that—
+
+      (I) a multichannel video programming distributor may satisfy its obligation to negotiate in good faith under clause (iii) with respect to a negotiation for retransmission consent under this section with a large station group by designating a qualified MVPD buying group to negotiate on its behalf, so long as the qualified MVPD buying group itself negotiates in good faith in accordance with such clause;
+
+      (II) it is a violation of the obligation to negotiate in good faith under clause (iii) for the qualified MVPD buying group to disclose the prices, terms, or conditions of an ongoing negotiation or the final terms of a negotiation to a member of the qualified MVPD buying group that is not intending, or is unlikely, to enter into the final terms negotiated by the qualified MVPD buying group; and
+
+      (III) a large station group has an obligation to negotiate in good faith under clause (ii) with respect to a negotiation for retransmission consent under this section with a qualified MVPD buying group.
 
 (4) If an originating television station elects under paragraph (3)(B) to exercise its right to grant retransmission consent under this subsection with respect to a cable system, the provisions of [section 534 of this title](./chapter-005-wire-or-radio-communication.md#section-534) shall not apply to the carriage of the signal of such station by such cable system. If an originating television station elects under paragraph (3)(C) to exercise its right to grant retransmission consent under this subsection with respect to a satellite carrier, [section 338 of this title](./chapter-005-wire-or-radio-communication.md#section-338) shall not apply to the carriage of the signal of such station by such satellite carrier.
 
@@ -6834,9 +7337,35 @@ In all circumstances, except in case of radio communications or signals relating
 
 (7) For purposes of this subsection, the term—
 
-  (A) “network station” has the meaning given such term under [section 119(d) of title 17](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title17-section119/d&num=0&edition=prelim); and
+  (A) “network station” has the meaning given such term under [section 119(d) of title 17](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title17-section119/d&num=0&edition=prelim);
 
-  (B) “television broadcast station” means an over-the-air commercial or noncommercial television broadcast station licensed by the Commission under subpart E of part 73 of title 47, Code of Federal Regulations, except that such term does not include a low-power or translator television station.
+  (B) “television broadcast station” means an over-the-air commercial or noncommercial television broadcast station licensed by the Commission under subpart E of part 73 of title 47, Code of Federal Regulations, except that such term does not include a low-power or translator television station;
+
+  (C) “qualified MVPD buying group” means an entity that, with respect to a negotiation with a large station group for retransmission consent under this section—
+
+    (i) negotiates on behalf of two or more multichannel video programming distributors—
+
+      (I) none of which is a multichannel video programming distributor that serves more than 500,000 subscribers nationally; and
+
+      (II) that do not collectively serve more than 25 percent of all households served by a multichannel video programming distributor in any single local market in which the applicable large station group operates; and
+
+    (ii) negotiates agreements for such retransmission consent—
+
+      (I) that contain standardized contract provisions, including billing structures and technical quality standards, for each multichannel video programming distributor on behalf of which the entity negotiates; and
+
+      (II) under which the entity assumes liability to remit to the applicable large station group all fees received from the multichannel video programming distributors on behalf of which the entity negotiates;
+
+  (D) “large station group” means a group of television broadcast stations that—
+
+    (i) are directly or indirectly under common de jure control permitted by the regulations of the Commission;
+
+    (ii) generally negotiate agreements for retransmission consent under this section as a single entity; and
+
+    (iii) include only television broadcast stations that have a national audience reach of more than 20 percent;
+
+  (E) “local market” has the meaning given such term in [section 122(j) of title 17](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title17-section122/j&num=0&edition=prelim); and
+
+  (F) “multichannel video programming distributor” has the meaning given such term in [section 522 of this title](./chapter-005-wire-or-radio-communication.md#section-522).
 
 **(c) Broadcast to foreign countries for rebroadcast to United States; permit** No person shall be permitted to locate, use, or maintain a radio broadcast studio or other place or apparatus from which or whereby sound waves are converted into electrical energy, or mechanical or physical reproduction of sound waves produced, and caused to be transmitted or delivered to a radio station in a foreign country for the purpose of being broadcast from any radio station there having a power output of sufficient intensity and/or being so located geographically that its emissions may be received consistently in the United States, without first obtaining a permit from the Commission upon proper application therefor.
 
@@ -6925,6 +7454,24 @@ In all circumstances, except in case of radio communications or signals relating
 ### Statutory Notes
 
 #### Amendments
+2019—Subsec. (b)(2). Pub. L. 116–94, § 1003(c)(1), struck out “, and the term ‘local market’ has the meaning given that term in section 122(j) of such title” before period at end of concluding provisions.
+
+Pub. L. 116–94, § 1002(b), struck out “the term ‘unserved household’ has the meaning given that term under section 119(d) of such title” after “October 5, 1992” in concluding provisions.
+
+Subsec. (b)(2)(C). Pub. L. 116–94, § 1002(a)(1), struck out “until December 31, 2019,” before “to retransmission” and substituted “antenna under the statutory license of [section 119 of title 17](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title17-section119&num=0&edition=prelim);” for “antenna, if the subscriber receiving the signal—
+
+“(i) is located in an area outside the local market of such stations; and
+
+“(ii) resides in an unserved household;”.
+
+Subsec. (b)(3)(C)(ii), (iii). Pub. L. 116–94, § 1002(a)(2), struck out “until January 1, 2020,” before “prohibit”.
+
+Subsec. (b)(3)(C)(iv), (v). Pub. L. 116–94, § 1003(c)(2), struck out “(as defined in [section 122(j) of title 17](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title17-section122/j&num=0&edition=prelim))” after “local market”.
+
+Subsec. (b)(3)(C)(vi). Pub. L. 116–94, § 1003(a), added cl. (vi).
+
+Subsec. (b)(7)(C) to (F). Pub. L. 116–94, § 1003(b), added subpars. (C) to (F).
+
 2014—Subsec. (b)(2)(C). Pub. L. 113–200, § 101(1), substituted “December 31, 2019” for “December 31, 2014” in introductory provisions.
 
 Subsec. (b)(3)(C)(ii). Pub. L. 113–200, § 101(2), substituted “January 1, 2020” for “January 1, 2015”.
@@ -6996,6 +7543,9 @@ Subsec. (b)(7). Pub. L. 106–113, § 1000(a)(9) [title I, § 1009(a)(5)], added
 Subsec. (e). Pub. L. 106–113, § 1000(a)(9) [title I, § 1009(b)], added subsec. (e).
 
 1992—Subsecs. (b) to (d). Pub. L. 102–385 added subsec. (b) and redesignated former subsecs. (b) and (c) as (c) and (d), respectively.
+
+#### Effective Date of 2019 Amendment
+Pub. L. 116–94, div. P, title X, § 1003(d), Dec. 20, 2019, 133 Stat. 3200, provided that: “The amendments made by this section [amending this section], and the regulations promulgated by the Federal Communications Commission under such amendments, shall not take effect before January 1 of the calendar year after the calendar year in which this Act [probably means “this title”, which is title X of div. P of Pub. L. 116–94, approved Dec. 20, 2019] is enacted.”
 
 #### Effective Date of 2010 Amendment
 Amendment by Pub. L. 111–175 effective Feb. 27, 2010, see section 307(a) of Pub. L. 111–175, set out as a note under [section 111 of Title 17](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title17-section111&num=0&edition=prelim), Copyrights.
@@ -8072,7 +8622,7 @@ Pub. L. 106–113, div. B, § 1000(a)(9) [title II], Nov. 29, 1999, 113 Stat. 15
 
   (A) *Rules for grandfathered subscribers*
 
-    (i) *For those receiving distant signals* — In the case of a subscriber of a satellite carrier who is eligible to receive the signal of a network station solely by reason of [section 119(e) of title 17](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title17-section119/e&num=0&edition=prelim) (in this subparagraph referred to as a “distant signal”), and who, as of October 1, 2009, is receiving the distant signal of that network station, the following shall apply:
+    (i) *For those receiving distant signals* — In the case of a subscriber of a satellite carrier who is eligible to receive the signal of a network station solely by reason of section 119(e) 11 See References in Text note below. of title 17 (in this subparagraph referred to as a “distant signal”), and who, as of October 1, 2009, is receiving the distant signal of that network station, the following shall apply:
 
       (I) In a case in which the satellite carrier makes available to the subscriber the signal of a local network station affiliated with the same television network pursuant to [section 338 of this title](./chapter-005-wire-or-radio-communication.md#section-338), the carrier may only provide the secondary transmissions of the distant signal of a station affiliated with the same network to that subscriber—
 
@@ -8080,9 +8630,9 @@ Pub. L. 106–113, div. B, § 1000(a)(9) [title II], Nov. 29, 1999, 113 Stat. 15
 
         (bb) only until such time as the subscriber elects to receive such local signal.
 
-      (II) Notwithstanding subclause (I), the carrier may not retransmit the distant signal to any subscriber who is eligible to receive the signal of a network station solely by reason of [section 119(e) of title 17](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title17-section119/e&num=0&edition=prelim), unless such carrier, within 60 days after December 8, 2004, submits to that television network the list and statement required by subparagraph (F)(i).
+      (II) Notwithstanding subclause (I), the carrier may not retransmit the distant signal to any subscriber who is eligible to receive the signal of a network station solely by reason of section 119(e) 1 of title 17, unless such carrier, within 60 days after December 8, 2004, submits to that television network the list and statement required by subparagraph (F)(i).
 
-    (ii) *For those not receiving distant signals* — In the case of any subscriber of a satellite carrier who is eligible to receive the distant signal of a network station solely by reason of [section 119(e) of title 17](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title17-section119/e&num=0&edition=prelim) and who did not receive a distant signal of a station affiliated with the same network on October 1, 2009, the carrier may not provide the secondary transmissions of the distant signal of a station affiliated with the same network to that subscriber.
+    (ii) *For those not receiving distant signals* — In the case of any subscriber of a satellite carrier who is eligible to receive the distant signal of a network station solely by reason of section 119(e) 1 of title 17 and who did not receive a distant signal of a station affiliated with the same network on October 1, 2009, the carrier may not provide the secondary transmissions of the distant signal of a station affiliated with the same network to that subscriber.
 
   (B) *Rules for other subscribers*
 
@@ -8112,7 +8662,7 @@ Pub. L. 106–113, div. B, § 1000(a)(9) [title II], Nov. 29, 1999, 113 Stat. 15
 
       (II) is determined, based on a test conducted in accordance with section 73.686(d) of title 47, Code of Federal Regulations, or any successor regulation, not to be able to receive a signal that exceeds the signal intensity standard in section 73.622(e)(1) or, in the case of a low-power station or translator station transmitting an analog signal, section 73.683(a) of such title, or a successor regulation; or
 
-      (III) is in an unserved household, as determined under [section 119(d)(10)(A) of title 17](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title17-section119/d/10/A&num=0&edition=prelim).
+      (III) is in an unserved household, as determined under section 119(d)(10)(A) 1 of title 17.
 
     (ii) *Pre-enactment distant signal subscribers* — Any eligible subscriber under this subparagraph who is a lawful subscriber to such a distant signal as of the date of enactment of the Satellite Television Extension and Localism Act of 2010 may continue to receive such distant signal.
 
@@ -8148,7 +8698,7 @@ Pub. L. 106–113, div. B, § 1000(a)(9) [title II], Nov. 29, 1999, 113 Stat. 15
 
       (II) a statement that, to the best of the carrier’s knowledge and belief after having made diligent and good faith inquiries, the subscriber is qualified under the existing law to receive the distant network signal or signals pursuant to subparagraph (B)(ii) of this paragraph.
 
-  (G) *Other provisions not affected* — This paragraph shall not affect the eligibility of a subscriber to receive secondary transmissions under [section 340 of this title](./chapter-005-wire-or-radio-communication.md#section-340) or as an unserved household included under section 119(a)(12) 11 See References in Text note below. of title 17.
+  (G) *Other provisions not affected* — This paragraph shall not affect the eligibility of a subscriber to receive secondary transmissions under [section 340 of this title](./chapter-005-wire-or-radio-communication.md#section-340) or as an unserved household included under section 119(a)(12) 1 of title 17.
 
   (H) *Available defined* — For purposes of this paragraph, a satellite carrier makes available a local signal to a subscriber or person if the satellite carrier offers that local signal to other subscribers who reside in the same zip code as that subscriber or person.
 
@@ -8168,7 +8718,7 @@ Pub. L. 106–113, div. B, § 1000(a)(9) [title II], Nov. 29, 1999, 113 Stat. 15
 
 (1) **Repealed. Pub. L. 115–141, div. P, title IV, § 402(i)(7), Mar. 23, 2018, 132 Stat. 1090**
 
-(2) **Waivers** — A subscriber who is denied the retransmission of a signal of a network station under [section 119 of title 17](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title17-section119&num=0&edition=prelim) may request a waiver from such denial by submitting a request, through such subscriber’s satellite carrier, to the network station asserting that the retransmission is prohibited. The network station shall accept or reject a subscriber’s request for a waiver within 30 days after receipt of the request. The subscriber shall be permitted to receive such retransmission under [section 119(d)(10)(B) of title 17](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title17-section119/d/10/B&num=0&edition=prelim), if such station agrees to the waiver request and files with the satellite carrier a written waiver with respect to that subscriber allowing the subscriber to receive such retransmission. If a television network station fails to accept or reject a subscriber’s request for a waiver within the 30-day period after receipt of the request, that station shall be deemed to agree to the waiver request and have filed such written waiver.
+(2) **Waivers** — A subscriber who is denied the retransmission of a signal of a network station under [section 119 of title 17](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title17-section119&num=0&edition=prelim) may request a waiver from such denial by submitting a request, through such subscriber’s satellite carrier, to the network station asserting that the retransmission is prohibited. The network station shall accept or reject a subscriber’s request for a waiver within 30 days after receipt of the request. The subscriber shall be permitted to receive such retransmission under section 119(d)(10)(B) 1 of title 17, if such station agrees to the waiver request and files with the satellite carrier a written waiver with respect to that subscriber allowing the subscriber to receive such retransmission. If a television network station fails to accept or reject a subscriber’s request for a waiver within the 30-day period after receipt of the request, that station shall be deemed to agree to the waiver request and have filed such written waiver.
 
 (3) **Establishment of improved predictive model and on-location testing required**
 
@@ -8178,7 +8728,7 @@ Pub. L. 106–113, div. B, § 1000(a)(9) [title II], Nov. 29, 1999, 113 Stat. 15
 
 (4) **Objective verification**
 
-  (A) *In general* — If a subscriber’s request for a waiver under paragraph (2) is rejected and the subscriber submits to the subscriber’s satellite carrier a request for a test verifying the subscriber’s inability to receive a signal of the signal intensity referenced in clause (i) of subsection (a)(2)(D), the satellite carrier and the network station or stations asserting that the retransmission is prohibited with respect to that subscriber shall select a qualified and independent person to conduct the test referenced in such clause. Such test shall be conducted within 30 days after the date the subscriber submits a request for the test. If the written findings and conclusions of a test conducted in accordance with such clause demonstrate that the subscriber does not receive a signal that meets or exceeds the requisite signal intensity standard in such clause, the subscriber shall not be denied the retransmission of a signal of a network station under [section 119(d)(10)(A) of title 17](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title17-section119/d/10/A&num=0&edition=prelim).
+  (A) *In general* — If a subscriber’s request for a waiver under paragraph (2) is rejected and the subscriber submits to the subscriber’s satellite carrier a request for a test verifying the subscriber’s inability to receive a signal of the signal intensity referenced in clause (i) of subsection (a)(2)(D), the satellite carrier and the network station or stations asserting that the retransmission is prohibited with respect to that subscriber shall select a qualified and independent person to conduct the test referenced in such clause. Such test shall be conducted within 30 days after the date the subscriber submits a request for the test. If the written findings and conclusions of a test conducted in accordance with such clause demonstrate that the subscriber does not receive a signal that meets or exceeds the requisite signal intensity standard in such clause, the subscriber shall not be denied the retransmission of a signal of a network station under section 119(d)(10)(A) 1 of title 17.
 
   (B) *Designation of tester and allocation of costs* — If the satellite carrier and the network station or stations asserting that the retransmission is prohibited are unable to agree on such a person to conduct the test, the person shall be designated by an independent and neutral entity designated by the Commission by rule. Unless the satellite carrier and the network station or stations otherwise agree, the costs of conducting the test under this paragraph shall be borne by the satellite carrier, if the station’s signal meets or exceeds such requisite signal intensity standard, or by the network station, if its signal fails to meet or exceed such standard.
 
@@ -8211,9 +8761,13 @@ Pub. L. 106–113, div. B, § 1000(a)(9) [title II], Nov. 29, 1999, 113 Stat. 15
 ### Statutory Notes
 
 #### References in Text
+[Section 119(e) of title 17](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title17-section119/e&num=0&edition=prelim), referred to in subsec. (a)(2)(A), was repealed and section 119(f) was redesignated section 119(e) by Pub. L. 116–94, div. P, title XI, § 1102(a)(4), (6), Dec. 20, 2019, 133 Stat. 3203.
+
 The date of enactment of the Satellite Television Extension and Localism Act of 2010, referred to in subsecs. (a)(2)(B)(ii), (C), (D)(ii), and (c)(3), is the date of enactment of Pub. L. 111–175, which shall be deemed to refer to Feb. 27, 2010, see section 307(a) of Pub. L. 111–175, set out as an Effective Date of 2010 Amendment note under [section 111 of Title 17](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title17-section111&num=0&edition=prelim), Copyrights.
 
-[Section 119(a)(12) of title 17](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title17-section119/a/12&num=0&edition=prelim), referred to in subsec. (a)(2)(G), was redesignated as [section 119(a)(11) of title 17](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title17-section119/a/11&num=0&edition=prelim) by Pub. L. 111–175, title I, § 102(h)(1)(B), May 27, 2010, 124 Stat. 1224.
+[Section 119(d)(10) of title 17](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title17-section119/d/10&num=0&edition=prelim), referred to in subsecs. (a)(2)(D)(i)(III) and (c)(2), (4)(A), was amended by Pub. L. 116–94, div. P, title XI, § 1102(a)(3)(A), Dec. 20, 2019, 133 Stat. 3202, such that subpars. (A) and (B) were repealed, former subpar. (D) was redesignated (A), and a new subpar. (B) was enacted.
+
+[Section 119(a)(12) of title 17](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title17-section119/a/12&num=0&edition=prelim), referred to in subsec. (a)(2)(G), was redesignated first as [section 119(a)(11) of title 17](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title17-section119/a/11&num=0&edition=prelim) by Pub. L. 111–175, title I, § 102(h)(1)(B), May 27, 2010, 124 Stat. 1224, and subsequently as [section 119(a)(8) of title 17](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title17-section119/a/8&num=0&edition=prelim) by Pub. L. 116–94, div. P, title XI, § 1102(a)(1)(C), Dec. 20, 2019, 133 Stat. 3202.
 
 #### Amendments
 2018—Subsec. (c)(1). Pub. L. 115–141 struck out par. (1) which related to study of digital strength testing procedures.
@@ -8403,7 +8957,7 @@ Amendment by Pub. L. 111–175 effective Feb. 27, 2010, see section 307(a) of Pu
 ### Statutory Notes
 
 #### References in Text
-Section 119(a)(4)(A) and [section 119(a)(12) of title 17](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title17-section119/a/12&num=0&edition=prelim), referred to in subsec. (e)(2), were redesignated as sections 119(a)(3)(A) and 119(a)(11) of title 17, respectively, by Pub. L. 111–175, title I, § 102(h)(1)(B), May 27, 2010, 124 Stat. 1224.
+Section 119(a)(4)(A) and [section 119(a)(12) of title 17](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title17-section119/a/12&num=0&edition=prelim), referred to in subsec. (e)(2), were redesignated as sections 119(a)(3)(A) and 119(a)(11) of title 17, respectively, by Pub. L. 111–175, title I, § 102(h)(1)(B), May 27, 2010, 124 Stat. 1224. [Section 119(a)(3) of title 17](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title17-section119/a/3&num=0&edition=prelim) was repealed and section 119(a)(4) was redesignated as section 119(a)(3) by Pub. L. 116–94, div. P, title XI, § 1102(a)(1)(B), (C), Dec. 20, 2019, 133 Stat. 3202. [Section 119(a)(11) of title 17](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title17-section119/a/11&num=0&edition=prelim) was redesignated as section 119(a)(8) by Pub. L. 116–94, div. P, title XI, § 1102(a)(1)(C), Dec. 20, 2019, 133 Stat. 3202.
 
 #### Amendments
 2010—Subsec. (b)(1), (2). Pub. L. 111–175, § 203(a), amended pars. (1) and (2) generally. Prior to amendment, pars. (1) and (2) related to limitations for certain analog and digital services, respectively.
@@ -8454,7 +9008,7 @@ Pub. L. 111–175, title II, § 203(b), May 27, 2010, 124 Stat. 1245, provided t
 
 <a id="section-342"></a>
 ## § 342. Process for issuing qualified carrier certification
-**(a) Certification** The Commission shall issue a certification for the purposes of [section 119(g)(3)(A)(iii) of title 17](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title17-section119/g/3/A/iii&num=0&edition=prelim) if the Commission determines that—
+**(a) Certification** The Commission shall issue a certification for the purposes of section 119(g)(3)(A)(iii) 11 See References in Text note below. of title 17 if the Commission determines that—
 
 (1) a satellite carrier is providing local service pursuant to the statutory license under section 122 of such title in each designated market area; and
 
@@ -8486,7 +9040,7 @@ Pub. L. 111–175, title II, § 203(b), May 27, 2010, 124 Stat. 1245, provided t
 
 (2) **Deadline for decision** — The Commission shall grant or deny a request for certification within 90 days after the date on which such request is filed.
 
-**(d) Subsequent affirmation** An entity granted qualified carrier status pursuant to [section 119(g) of title 17](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title17-section119/g&num=0&edition=prelim) shall file an affidavit with the Commission 30 months after such status was granted stating that, to the best of the affiant’s knowledge, it is in compliance with the requirements for a qualified carrier.
+**(d) Subsequent affirmation** An entity granted qualified carrier status pursuant to section 119(g) 1 of title 17 shall file an affidavit with the Commission 30 months after such status was granted stating that, to the best of the affiant’s knowledge, it is in compliance with the requirements for a qualified carrier.
 
 **(e) Definitions** For the purposes of this section:
 
@@ -8513,6 +9067,8 @@ Pub. L. 111–175, title II, § 203(b), May 27, 2010, 124 Stat. 1245, provided t
 ### Statutory Notes
 
 #### References in Text
+[Section 119(g) of title 17](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title17-section119/g&num=0&edition=prelim), referred to in subsecs. (a) and (d), was redesignated [section 119(f) of title 17](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title17-section119/f&num=0&edition=prelim) by Pub. L. 116–94, div. P, title XI, § 1102(a)(6), Dec. 20, 2019, 133 Stat. 3203.
+
 The date of enactment of the Satellite Television Extension and Localism Act of 2010, referred to in subsecs. (a)(2) and (b)(1), is the date of enactment of Pub. L. 111–175, which shall be deemed to refer to Feb. 27, 2010, see section 307(a) of Pub. L. 111–175, set out as an Effective Date of 2010 Amendment note under [section 111 of Title 17](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title17-section111&num=0&edition=prelim), Copyrights.
 
 #### Effective Date
@@ -8626,6 +9182,9 @@ Subsec. (c). Act Aug. 13, 1954, § 1(c), added subsec. (c).
 #### Effective Date
 Section effective May 20, 1937, unless deferred by the Commission, see section 16 of act May 20, 1937, set out as a note under [section 351 of this title](./chapter-005-wire-or-radio-communication.md#section-351).
 
+#### Exemption of Commercial Fishing Vessels Operating in Alaskan Region from Global Maritime Distress and Safety System Requirements of Federal Communications Commission
+Pub. L. 116–283, div. G, title LVXXXIII [LXXXIII], § 8336, Jan. 1, 2021, 134 Stat. 4708, provided that: “(a) Definition of Secretary.—In this section, the term ‘Secretary’ means the Secretary of the department in which the Coast Guard is operating. “(b) Exemption.—Subject to subsection (c), the Federal Communications Commission shall exempt fishing vessels that primarily operate in the Alaskan Region, including fishing vessels that transit from States in the Pacific Northwest to conduct fishing operations in the Alaskan Region, from the requirements relating to carriage of VHF–DSC and MF–DSC equipment under subpart W of part 80 of title 47, Code of Federal Regulations, or any successor regulation. “(c) Functional Requirements.—A fishing vessel exempted under subsection (b) shall—“(1) be capable of transmitting ship-to-shore distress alerts using not fewer than 2 separate and independent systems, each using a different radio communication service; “(2) be equipped with—“(A) a VHF radiotelephone installation; “(B) an MF or HF radiotelephone installation; “(C) a Category 1, 406.0–406.1 MHz EPIRB meeting the requirements of section 80.1061 of title 47, Code of Federal Regulations, or any successor regulation; “(D) a NAVTEX receiver meeting the requirements of section 80.1101(c)(1) of title 47, Code of Federal Regulations, or any successor regulation; “(E) survival craft equipment meeting the requirements of section 80.1095 of title 47, Code of Federal Regulations, or any successor regulation; and “(F) a Search and Rescue Transponder meeting the requirements of section 80.1101(c)(6) of title 47, Code of Federal Regulations, or any successor regulation; “(3) maintain a continuous watch on VHF Channel 16; and “(4) as an alternative to the equipment listed in subparagraphs (A) through (F) of paragraph (2), carry equipment found by the Federal Communications Commission, in consultation with the Secretary, to be equivalent or superior with respect to ensuring the safety of the vessel. “(d) Definition of Alaskan Region.—Not later than 30 days after the date of enactment of this Act [Jan. 1, 2021], the Secretary shall define the term ‘Alaskan Region’ for purposes of this section. The Secretary shall include in the definition of such term the area of responsibility of Coast Guard District 17.”
+
 #### Transfer of Functions
 For transfer of functions of United States Maritime Commission, see Reorg. Plan No. 21 of 1950 and Reorg. Plan No. 7 of 1961, set out in the Appendix to Title 5, Government Organization and Employees.
 
@@ -8733,9 +9292,10 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
 Coast Guard transferred to Department of Transportation, and functions, powers, and duties relating to Coast Guard of Secretary of the Treasury and of all other officers and offices of Department of the Treasury transferred to Secretary of Transportation by Pub. L. 89–670, § 6(b)(1), Oct. 15, 1966, 80 Stat. 938. Section 6(b)(2) of Pub. L. 89–670, however, provided that notwithstanding such transfer of functions, Coast Guard shall operate as part of Navy in time of war or when President directs as provided in former section 3 (now 103) of Title 14, Coast Guard. See [section 108 of Title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section108&num=0&edition=prelim), Transportation.
 
-For transfer of functions of other officers, employees, and agencies of Department of the Treasury, with certain exceptions, to Secretary of the Treasury with power to delegate, see Reorg. Plan No. 26 of 1950, §§ 1, 2, eff. July 31, 1950, 15 F.R. 4935, 64 Stat. 1280, 1281, set out in the Appendix to Title 5, Government Organization and Employees. Functions of Coast Guard, and Commandant of Coast Guard, excepted from transfer when Coast Guard is operating as part of Navy under former sections 1 and 3 (now 101 and 103) of Title 14.
-
+#### Executive Documents
 “Commandant of the Coast Guard” substituted in subsec. (b) for “Bureau of Marine Inspection and Navigation, Department of Commerce” on authority of Reorg. Plan No. 3 of 1946, §§ 101–104, set out in the Appendix to Title 5.
+
+For transfer of functions of other officers, employees, and agencies of Department of the Treasury, with certain exceptions, to Secretary of the Treasury with power to delegate, see Reorg. Plan No. 26 of 1950, §§ 1, 2, eff. July 31, 1950, 15 F.R. 4935, 64 Stat. 1280, 1281, set out in the Appendix to Title 5, Government Organization and Employees. Functions of Coast Guard, and Commandant of Coast Guard, excepted from transfer when Coast Guard is operating as part of Navy under former sections 1 and 3 (now 101 and 103) of Title 14.
 
 
 <a id="section-354a"></a>
@@ -9077,7 +9637,7 @@ The purpose of this subpart is to assist, through matching grants, in the planni
 Pub. L. 95–567, title IV, § 403, Nov. 2, 1978, 92 Stat. 2424, provided that: “The provisions of this Act [enacting [section 395 of this title](./chapter-005-wire-or-radio-communication.md#section-395), amending this section and sections 391, 392, 393, 394, and 396 to 398 of this title, repealing sections 392a and 395 of this title, and enacting provisions set out as notes under this section, sections 392 and 396 of this title, and [section 5316 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5316&num=0&edition=prelim), Government Organization and Employees], and the amendments made by this Act, shall take effect on the date of the enactment of this Act [Nov. 2, 1978].”
 
 #### Grants
-Pub. L. 100–584, § 3, Nov. 3, 1988, 102 Stat. 2970, provided that: “The Administrator [of the National Telecommunications and Information Administration] shall enter into discussions with the Federal Communications Commission for the purposes of determining the feasibility of awarding public telecommunications facilities program grants for low-power television stations and television translator stations on a conditional basis pending the award by the Commission of licenses for such stations. The Administrator shall also work with the Commission to establish a schedule for the expedited and coordinated consideration, on a regular basis, of future grant requests and license applications for low-power television stations and television translator stations. The Administrator shall, within ninety days after the date of enactment of this Act [Nov. 3, 1988], report to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Energy and Commerce of the House of Representatives on the progress made in carrying out the requirements of this section.”
+Pub. L. 100–584, § 3, Nov. 3, 1988, 102 Stat. 2970, provided that the Administrator would enter into discussions with the Federal Communications Commission for the purposes of determining the feasibility of awarding public telecommunications facilities program grants for low-power television stations and television translator stations on a conditional basis pending the award by the Commission of licenses for such stations, and would work with the Commission to establish a schedule for the expedited and coordinated consideration of future grant requests and license applications for low-power television stations, and within 90 days after Nov. 3, 1988, report to Congress on the progress made in carrying out this section.
 
 #### Study of Educational and Instructional Broadcasting
 Pub. L. 90–129, title III, §§ 301–303, Nov. 7, 1967, 81 Stat. 373, authorized the Secretary of Health, Education, and Welfare to conduct, directly or by contract, and in consultation with other interested Federal agencies, a comprehensive study of instructional television and radio (including broadcast, closed circuit, community antenna television, and instructional television fixed services and two-way communication of data links and computers) and their relationship to each other and to instructional materials such as videotapes, films, discs, computers, and other educational materials or devices, and such other aspects thereof as may be of assistance in determining whether and what Federal aid should be provided for instructional radio and television and the form that aid should take, and which may aid communities, institutions, or agencies in determining whether and to what extent such activities should be used. The study was required to be submitted to the President for transmittal to the Congress on or before June 30, 1969.
@@ -10844,6 +11404,48 @@ The supplemental rules for certain admiralty and maritime claims, referred to in
 
 #### Prior Provisions
 A prior section 510, act June 19, 1934, ch. 652, title V, § 510, as added May 11, 1962, Pub. L. 87–448, § 1, 76 Stat. 68, related to forfeitures for violations of rules and regulations by radio stations operating in common carrier, safety and special radio fields, prior to repeal effective the thirtieth day after Feb. 21, 1978, by Pub. L. 95–234, §§ 4, 7, Feb. 21, 1978, 92 Stat. 35.
+
+
+<a id="section-511"></a>
+## § 511. Enhanced penalties for pirate radio broadcasting; enforcement sweeps; reporting
+**(a) Increased general penalty** Any person who willfully and knowingly does or causes or suffers to be done any pirate radio broadcasting shall be subject to a fine of not more than $2,000,000.
+
+**(b) Violation of this chapter, rules, or regulations** Any person who willfully and knowingly violates this chapter or any rule, regulation, restriction, or condition made or imposed by the Commission under authority of this chapter, or any rule, regulation, restriction, or condition made or imposed by any international radio or wire communications treaty or convention, or regulations annexed thereto, to which the United States is party, relating to pirate radio broadcasting shall, in addition to any other penalties provided by law, be subject to a fine of not more than $100,000 for each day during which such offense occurs, in accordance with the limit described in subsection (a).
+
+**(c) Annual report** Not later than 1 year after January 24, 2020, and annually thereafter, the Commission shall submit to the Committee on Energy and Commerce of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a report summarizing the implementation of this section and associated enforcement activities for the previous fiscal year, which may include the efforts by the Commission to enlist the cooperation of Federal, State, and local law enforcement personnel (including United States attorneys and the United States Marshals Service) for service of process, collection of fines or forfeitures, seizures of equipment, and enforcement of orders.
+
+**(d) Enforcement sweeps**
+
+(1) **Annual sweeps** — Not less than once each year, the Commission shall assign appropriate enforcement personnel to focus specific and sustained attention on the elimination of pirate radio broadcasting within the top 5 radio markets identified as prevalent for such broadcasts. Such effort shall include identifying, locating, and taking enforcement actions designed to terminate such operations.
+
+(2) **Additional monitoring** — Within 6 months after conducting the enforcement sweeps required by paragraph (1), the Commission shall conduct monitoring sweeps to ascertain whether the pirate radio broadcasting identified by enforcement sweeps is continuing to broadcast and whether additional pirate radio broadcasting is occurring.
+
+(3) **No effect on remaining enforcement** — Notwithstanding paragraph (1), the Commission shall not decrease or diminish the regular enforcement efforts targeted to pirate radio broadcast stations for other times of the year.
+
+**(e) State and local government authority** The Commission may not preempt any State or local law prohibiting pirate radio broadcasting.
+
+**(f) Revision of commission rules required** The Commission shall revise its rules to require that, absent good cause, in any case alleging a violation of subsection (a) or (b), the Commission shall proceed directly to issue a notice of apparent liability without first issuing a notice of unlicensed operation.
+
+**(g) Pirate radio broadcasting database**
+
+(1) **In general** — Not later than 90 days after January 24, 2020, and semi-annually thereafter, the Commission shall publish a database in a clear and legible format of all licensed radio stations operating in the AM and FM bands. The database shall be easily accessible from the Commission home page through a direct link. The database shall include the following information:
+
+  (A) Each licensed station, listed by the assigned frequency, channel number, or Commission call letters.
+
+  (B) All entities that have received a notice of unlicensed operation, notice of apparent liability, or forfeiture order issued by the Commission.
+
+(2) **Clear identification** — The Commission shall clearly identify in the database—
+
+  (A) each licensed station as a station licensed by the Commission; and
+
+  (B) each entity described in paragraph (1)(B) as operating without a Commission license or authorization.
+
+**(h) Definition of pirate radio broadcasting** In this section, the term “pirate radio broadcasting” means the transmission of communications on spectrum frequencies between 535 and 1705 kilohertz, inclusive, or 87.7 and 108 megahertz, inclusive, without a license issued by the Commission, but does not include unlicensed operations in compliance with part 15 of title 47, Code of Federal Regulations.
+
+### Statutory Notes
+
+#### References in Text
+This chapter, referred to in subsec. (b), was in the original “this Act”, meaning act June 19, 1934, ch. 652, 48 Stat. 1064, known as the Communications Act of 1934, which is classified principally to this chapter. For complete classification of this Act to the Code, see [section 609 of this title](./chapter-005-wire-or-radio-communication.md#section-609) and Tables.
 
 
 <a id="section-521"></a>
@@ -12882,6 +13484,48 @@ For information regarding constitutionality of section 641 of act June 19, 1934,
 Pub. L. 104–104, title V, § 505(b), Feb. 8, 1996, 110 Stat. 136, provided that: “The amendment made by subsection (a) [enacting this section] shall take effect 30 days after the date of enactment of this Act [Feb. 8, 1996].”
 
 
+<a id="section-562"></a>
+## § 562. Requirements relating to charges for covered services
+**(a) Consumer rights in sales**
+
+(1) **Right to transparency** — Before entering into a contract with a consumer for the provision of a covered service, a provider of a covered service shall provide the consumer, by phone, in person, online, or by other reasonable means, the total monthly charge for the covered service, whether offered individually or as part of a bundled service, selected by the consumer (explicitly noting the amount of any applicable promotional discount reflected in such charge and when such discount will expire), including any related administrative fees, equipment fees, or other charges, a good faith estimate of any tax, fee, or charge imposed by the Federal Government or a State or local government (whether imposed on the provider or imposed on the consumer but collected by the provider), and a good faith estimate of any fee or charge that is used to recover any other assessment imposed on the provider by the Federal Government or a State or local government.
+
+(2) **Right to formal notice** — A provider of a covered service that enters into a contract described in paragraph (1) shall, not later than 24 hours after entering into the contract, send the consumer, by email, online link, or other reasonably comparable means, a copy of the information described in such paragraph.
+
+(3) **Right to cancel** — A provider of a covered service that enters into a contract described in paragraph (1) shall permit the consumer to cancel the contract, without paying early cancellation fees or other disconnection fees or penalties, during the 24-hour period beginning when the provider of the covered service sends the copy required by paragraph (2).
+
+**(b) Consumer rights in e-billing** If a provider of a covered service provides a bill to a consumer in an electronic format, the provider shall include in the bill—
+
+(1) an itemized statement that breaks down the total amount charged for or relating to the provision of the covered service by the amount charged for the provision of the service itself and the amount of all related taxes, administrative fees, equipment fees, or other charges;
+
+(2) the termination date of the contract for the provision of the covered service entered into between the consumer and the provider; and
+
+(3) the termination date of any applicable promotional discount.
+
+**(c) Consumer rights to accurate equipment charges** A provider of a covered service or fixed broadband internet access service may not charge a consumer for—
+
+(1) using covered equipment provided by the consumer; or
+
+(2) renting, leasing, or otherwise providing to the consumer covered equipment if—
+
+  (A) the provider has not provided the equipment to the consumer; or
+
+  (B) the consumer has returned the equipment to the provider, except to the extent that the charge relates to the period beginning on the date when the provider provided the equipment to the consumer and ending on the date when the consumer returned the equipment to the provider.
+
+**(d) Definitions** In this section:
+
+(1) **Broadband internet access service** — The term “broadband internet access service” has the meaning given such term in section 8.1(b) of title 47, Code of Federal Regulations, or any successor regulation.
+
+(2) **Covered equipment** — The term “covered equipment” means equipment (such as a router) employed on the premises of a person (other than a provider of a covered service or fixed broadband internet access service) to provide a covered service or to provide fixed broadband internet access service.
+
+(3) **Covered service** — The term “covered service” means service provided by a multichannel video programming distributer, 11 So in original. Probably should be “distributor,”. to the extent such distributor is acting as a multichannel video programming distributor.
+
+### Statutory Notes
+
+#### Effective Date
+Pub. L. 116–94, div. P, title X, § 1004(b), Dec. 20, 2019, 133 Stat. 3201, provided that: “Section 642 of the Communications Act of 1934 [[47 U.S.C. 562](./chapter-005-wire-or-radio-communication.md#section-562)], as added by subsection (a) of this section, shall apply beginning on the date that is 6 months after the date of the enactment of this Act [Dec. 20, 2019]. The Federal Communications Commission may grant an additional 6-month extension if the Commission finds that good cause exists for such an additional extension.”
+
+
 <a id="section-571"></a>
 ## § 571. Regulatory treatment of video programming services
 **(a) Limitations on cable regulation**
@@ -13318,6 +13962,20 @@ This chapter may be cited as the “Communications Act of 1934.”
 
 #### References in Text
 This chapter, referred to in text, was in the original “this Act”, meaning act June 19, 1934, ch. 652, 48 Stat. 1064, known as the Communications Act of 1934, which enacted this chapter, amended [section 35 of this title](./chapter-002-submarine-cables.md#section-35), [section 21 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section21&num=0&edition=prelim), Commerce and Trade, section 487 of former Title 46, Shipping, and sections 1, 2, 5, and 15 of former Title 49, Transportation, and repealed sections 484 to 487 of former Title 46. For complete classification of this Act to the Code, see Tables.
+
+#### Short Title of 2020 Amendment
+Pub. L. 116–260, div. FF, title IX, § 902(a), Dec. 27, 2020, 134 Stat. 3206, provided that: “This section [amending [section 615a–1 of this title](./chapter-005-wire-or-radio-communication.md#section-615a-1), repealing [section 1413 of this title](./chapter-013-public-safety-communications-and-electromagnetic-spectrum-auctions.md#section-1413) and enacting provisions set out as notes under [section 615a–1 of this title](./chapter-005-wire-or-radio-communication.md#section-615a-1)] may be cited as the ‘Don’t Break Up the T-Band Act of 2020’.”
+
+Pub. L. 116–172, § 1, Oct. 17, 2020, 134 Stat. 832, provided that: “This Act [enacting [section 251a of this title](./chapter-005-wire-or-radio-communication.md#section-251a), amending [section 251 of this title](./chapter-005-wire-or-radio-communication.md#section-251), and enacting provisions set out as notes under [section 251 of this title](./chapter-005-wire-or-radio-communication.md#section-251)] may be cited as the ‘National Suicide Hotline Designation Act of 2020’.”
+
+Pub. L. 116–130, § 1, Mar. 23, 2020, 134 Stat. 228, provided that: “This Act [enacting subchapter VII of this chapter] may be cited as the ‘Broadband Deployment Accuracy and Technological Availability Act’ or the ‘Broadband DATA Act’.”
+
+Pub. L. 116–109, § 1, Jan. 24, 2020, 134 Stat. 3, provided that: “This Act [enacting [section 511 of this title](./chapter-005-wire-or-radio-communication.md#section-511)] may be cited as the ‘Preventing Illegal Radio Abuse Through Enforcement Act’ or the ‘PIRATE Act’.”
+
+#### Short Title of 2019 Amendment
+Pub. L. 116–105, § 1, Dec. 30, 2019, 133 Stat. 3274, provided that: “This Act [enacting sections 227b to 227b–2 of this title, amending [section 227 of this title](./chapter-005-wire-or-radio-communication.md#section-227), and enacting provisions set out as notes under [section 227 of this title](./chapter-005-wire-or-radio-communication.md#section-227)] may be cited as the ‘Pallone-Thune Telephone Robocall Abuse Criminal Enforcement and Deterrence Act’ or the ‘Pallone-Thune TRACED Act’.”
+
+Pub. L. 116–94, div. P, title X, § 1001, Dec. 20, 2019, 133 Stat. 3198, provided that: “This title [enacting [section 562 of this title](./chapter-005-wire-or-radio-communication.md#section-562), amending [section 325 of this title](./chapter-005-wire-or-radio-communication.md#section-325), and enacting provisions set out as notes under sections 325 and 562 of this title] may be cited as the ‘Television Viewer Protection Act of 2019’.”
 
 #### Short Title of 2018 Amendment
 Pub. L. 115–141, div. P, § 1(a), Mar. 23, 2018, 132 Stat. 1080, provided that: “This division [see Tables for classification] may be cited as the ‘Repack Airwaves Yielding Better Access for Users of Modern Services Act of 2018’ or the ‘RAY BAUM’S Act of 2018’.”
@@ -13940,9 +14598,41 @@ Subsec. (c). Pub. L. 110–283, § 201(a)(4), substituted “9–1–1 communica
 
 **(f) State authority over fees**
 
-(1) **Authority** — Nothing in this Act, the Communications Act of 1934 ([47 U.S.C. 151](./chapter-005-wire-or-radio-communication.md#section-151) et seq.), the New and Emerging Technologies 911 Improvement Act of 2008, or any Commission regulation or order shall prevent the imposition and collection of a fee or charge applicable to commercial mobile services or IP-enabled voice services specifically designated by a State, political subdivision thereof, Indian tribe, or village or regional corporation serving a region established pursuant to the Alaska Native Claims Settlement Act, as amended (85 Stat. 688) [[43 U.S.C. 1601](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1601&num=0&edition=prelim) et seq.] 11 So in original. A comma probably should appear. for the support or implementation of 9–1–1 or enhanced 9–1–1 services, provided that the fee or charge is obligated or expended only in support of 9–1–1 and enhanced 9–1–1 services, or enhancements of such services, as specified in the provision of State or local law adopting the fee or charge. For each class of subscribers to IP-enabled voice services, the fee or charge may not exceed the amount of any such fee or charge applicable to the same class of subscribers to telecommunications services.
+(1) **Authority** — Nothing in this Act, the Communications Act of 1934 ([47 U.S.C. 151](./chapter-005-wire-or-radio-communication.md#section-151) et seq.), the New and Emerging Technologies 911 Improvement Act of 2008, or any Commission regulation or order shall prevent the imposition and collection of a fee or charge applicable to commercial mobile services or IP-enabled voice services specifically designated by a State, political subdivision thereof, Indian tribe, or village or regional corporation serving a region established pursuant to the Alaska Native Claims Settlement Act, as amended (85 Stat. 688) [[43 U.S.C. 1601](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1601&num=0&edition=prelim) et seq.] 11 So in original. A comma probably should appear. for the support or implementation of 9–1–1 or enhanced 9–1–1 services, provided that the fee or charge is obligated or expended only in support of 9–1–1 and enhanced 9–1–1 services, or enhancements of such services, consistent with the purposes and functions designated in the final rules issued under paragraph (3) as purposes and functions for which the obligation or expenditure of such a fee or charge is acceptable. For each class of subscribers to IP-enabled voice services, the fee or charge may not exceed the amount of any such fee or charge applicable to the same class of subscribers to telecommunications services.
 
-(2) **Fee accountability report** — To ensure efficiency, transparency, and accountability in the collection and expenditure of a fee or charge for the support or implementation of 9–1–1 or enhanced 9–1–1 services, the Commission shall submit a report within 1 year after the date of enactment of the New and Emerging Technologies 911 Improvement Act of 2008, and annually thereafter, to the Committee on Commerce, Science and Transportation of the Senate and the Committee on Energy and Commerce of the House of Representatives detailing the status in each State of the collection and distribution of such fees or charges, and including findings on the amount of revenues obligated or expended by each State or political subdivision thereof for any purpose other than the purpose for which any such fees or charges are specified.
+(2) **Fee accountability report** — To ensure efficiency, transparency, and accountability in the collection and expenditure of a fee or charge for the support or implementation of 9–1–1 or enhanced 9–1–1 services, the Commission shall submit a report within 1 year after the date of enactment of the New and Emerging Technologies 911 Improvement Act of 2008, and annually thereafter, to the Committee on Commerce, Science and Transportation of the Senate and the Committee on Energy and Commerce of the House of Representatives detailing the status in each State of the collection and distribution of such fees or charges, and including findings on the amount of revenues obligated or expended by each State or political subdivision thereof for any purpose or function other than the purposes and functions designated in the final rules issued under paragraph (3) as purposes and functions for which the obligation or expenditure of any such fees or charges is acceptable.
+
+(3) **Acceptable obligations or expenditures**
+
+  (A) *Rules required* — In order to prevent diversion of 9–1–1 fees or charges, the Commission shall, not later than 180 days after December 27, 2020, issue final rules designating purposes and functions for which the obligation or expenditure of 9–1–1 fees or charges, by any State or taxing jurisdiction authorized to impose such a fee or charge, is acceptable.
+
+  (B) *Purposes and functions* — The purposes and functions designated under subparagraph (A) shall be limited to the support and implementation of 9–1–1 services provided by or in the State or taxing jurisdiction imposing the fee or charge and operational expenses of public safety answering points within such State or taxing jurisdiction. In designating such purposes and functions, the Commission shall consider the purposes and functions that States and taxing jurisdictions specify as the intended purposes and functions for the 9–1–1 fees or charges of such States and taxing jurisdictions, and determine whether such purposes and functions directly support providing 9–1–1 services.
+
+  (C) *Consultation required* — The Commission shall consult with public safety organizations and States and taxing jurisdictions as part of any proceeding under this paragraph.
+
+  (D) *Definitions* — In this paragraph:
+
+    (i) *9–1–1 fee or charge* — The term “9–1–1 fee or charge” means a fee or charge applicable to commercial mobile services or IP-enabled voice services specifically designated by a State or taxing jurisdiction for the support or implementation of 9–1–1 services.
+
+    (ii) *9–1–1 services* — The term “9–1–1 services” has the meaning given such term in [section 942(e) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title47-section942/e&num=0&edition=prelim).
+
+    (iii) *State or taxing jurisdiction* — The term “State or taxing jurisdiction” means a State, political subdivision thereof, Indian Tribe, or village or regional corporation serving a region established pursuant to the Alaska Native Claims Settlement Act ([43 U.S.C. 1601](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1601&num=0&edition=prelim) et seq.).
+
+(4) **Participation** — If a State or taxing jurisdiction (as defined in paragraph (3)(D)) receives a grant under [section 942 of this title](./chapter-008-national-telecommunications-and-information-administration.md#section-942) after December 27, 2020, such State or taxing jurisdiction shall, as a condition of receiving such grant, provide the information requested by the Commission to prepare the report required by paragraph (2).
+
+(5) **Petition regarding additional purposes and functions**
+
+  (A) *In general* — A State or taxing jurisdiction (as defined in paragraph (3)(D)) may submit to the Commission a petition for a determination that an obligation or expenditure of a 9–1–1 fee or charge (as defined in such paragraph) by such State or taxing jurisdiction for a purpose or function other than a purpose or function designated under paragraph (3)(A) should be treated as such a purpose or function. If the Commission finds that the State or taxing jurisdiction has provided sufficient documentation to make the demonstration described in subparagraph (B), the Commission shall grant such petition.
+
+  (B) *Demonstration described* — The demonstration described in this subparagraph is a demonstration that the purpose or function—
+
+    (i) supports public safety answering point functions or operations; or
+
+    (ii) has a direct impact on the ability of a public safety answering point to—
+
+      (I) receive or respond to 9–1–1 calls; or
+
+      (II) dispatch emergency responders.
 
 **(g) Availability of PSAP information** The Commission may compile a list of public safety answering point contact information, contact information for providers of selective routers, testing procedures, classes and types of services supported by public safety answering points, and other information concerning 9–1–1 and enhanced 9–1–1 elements, for the purpose of assisting IP-enabled voice service providers in complying with this section, and may make any portion of such information available to telecommunications carriers, wireless carriers, IP-enabled voice service providers, other emergency service providers, or the vendors to or agents of any such carriers or providers, if such availability would improve public safety.
 
@@ -13962,6 +14652,8 @@ Subsec. (c). Pub. L. 110–283, § 201(a)(4), substituted “9–1–1 communica
 
 **(i) Rule of construction** Nothing in the New and Emerging Technologies 911 Improvement Act of 2008 shall be construed as altering, delaying, or otherwise limiting the ability of the Commission to enforce the Federal actions taken or rules adopted obligating an IP-enabled voice service provider to provide 9–1–1 or enhanced 9–1–1 service as of the date of enactment of the New and Emerging Technologies 911 Improvement Act of 2008.
 
+**(j) Severability clause** If any provision of this section or the application thereof to any person or circumstance is held invalid, the remainder of this section and the application of such provision to other persons or circumstances shall not be affected thereby.
+
 ### Statutory Notes
 
 #### References in Text
@@ -13973,7 +14665,7 @@ The Communications Act of 1934, referred to in subsecs. (e)(2) and (f)(1), is ac
 
 This Act, referred to in subsec. (f)(1), is Pub. L. 106–81, Oct. 26, 1999, 113 Stat. 1286, known as the Wireless Communications and Public Safety Act of 1999, which enacted sections 615 to 615b of this title, amended sections 222 and 251 of this title, and enacted provisions set out as notes under sections 609 and 615 of this title. For complete classification of this Act to the Code, see Short Title of 1999 Amendments note set out under [section 609 of this title](./chapter-005-wire-or-radio-communication.md#section-609) and Tables.
 
-The Alaska Native Claims Settlement Act, referred to in subsec. (f)(1), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, which is classified generally to chapter 33 (§ 1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under [section 1601 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1601&num=0&edition=prelim) and Tables.
+The Alaska Native Claims Settlement Act, referred to in subsec. (f)(1), (3)(D)(iii), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, which is classified generally to chapter 33 (§ 1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under [section 1601 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1601&num=0&edition=prelim) and Tables.
 
 #### Codification
 Section was enacted as part of the Wireless Communications and Public Safety Act of 1999, and not as part of the Communications Act of 1934 which comprises this chapter.
@@ -13982,10 +14674,27 @@ Section was enacted as part of the Wireless Communications and Public Safety Act
 A prior section 6 of Pub. L. 106–81 was renumbered section 7 and is classified to [section 615b of this title](./chapter-005-wire-or-radio-communication.md#section-615b).
 
 #### Amendments
+2020—Subsec. (f)(1). Pub. L. 116–260, § 902(c)(1)(A), substituted “consistent with the purposes and functions designated in the final rules issued under paragraph (3) as purposes and functions for which the obligation or expenditure of such a fee or charge is acceptable” for “as specified in the provision of State or local law adopting the fee or charge”.
+
+Subsec. (f)(2). Pub. L. 116–260, § 902(c)(1)(B), substituted “any purpose or function other than the purposes and functions designated in the final rules issued under paragraph (3) as purposes and functions for which the obligation or expenditure of any such fees or charges is acceptable” for “any purpose other than the purpose for which any such fees or charges are specified”.
+
+Subsec. (f)(3) to (5). Pub. L. 116–260, § 902(c)(1)(C), added pars. (3) to (5).
+
+Subsec. (j). Pub. L. 116–260, § 902(c)(2), added subsec. (j).
+
 2008—Subsec. (c)(1)(C). Pub. L. 110–368 substituted “paragraph (3)” for “paragraph (2)”.
 
 #### Effective Date of 2008 Amendment
 Pub. L. 110–368, § 1(b), Oct. 8, 2008, 122 Stat. 4027, provided that: “The amendment made by subsection (a) [amending this section] shall take effect as of July 23, 2008, immediately after the enactment of the NET 911 Improvement Act of 2008 (Public Law 110–283) [approved July 23, 2008].”
+
+#### Rule of Construction
+Pub. L. 116–260, div. FF, title IX, § 902(e), Dec. 27, 2020, 134 Stat. 3209, provided that: “Nothing in this Act [probably means “this section”, amending this section, repealing [section 1413 of this title](./chapter-013-public-safety-communications-and-electromagnetic-spectrum-auctions.md#section-1413) and enacting provisions set out as notes under this section and [section 609 of this title](./chapter-005-wire-or-radio-communication.md#section-609)], the Wireless Communications and Public Safety Act of 1999 (Public Law 106–81) [see Short Title of 1999 Amendments note set out under [section 609 of this title](./chapter-005-wire-or-radio-communication.md#section-609)], or the Communications Act of 1934 ([47 U.S.C. 151](./chapter-005-wire-or-radio-communication.md#section-151) et seq.) shall be construed to prevent a State or taxing jurisdiction from requiring an annual audit of the books and records of a provider of 9–1–1 services concerning the collection and remittance of a 9–1–1 fee or charge.”
+
+#### Prohibition on 9–1–1 Fee or Charge Diversion
+Pub. L. 116–260, div. FF, title IX, § 902(d), Dec. 27, 2020, 134 Stat. 3208, provided that: “(1) In general.—If the Commission obtains evidence that suggests the diversion by a State or taxing jurisdiction of 9–1–1 fees or charges, the Commission shall submit such information, including any information regarding the impact of any underfunding of 9–1–1 services in the State or taxing jurisdiction, to the interagency strike force established under paragraph (3). “(2) Report to congress.—Beginning with the first report under section 6(f)(2) of the Wireless Communications and Public Safety Act of 1999 ([47 U.S.C. 615a–1(f)(2)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title47-section615a–1/f/2&num=0&edition=prelim)) that is required to be submitted after the date that is 1 year after the date of the enactment of this Act [Dec. 27, 2020], the Commission shall include in each report required under such section all evidence that suggests the diversion by a State or taxing jurisdiction of 9–1–1 fees or charges, including any information regarding the impact of any underfunding of 9–1–1 services in the State or taxing jurisdiction. “(3) Interagency strike force to end 9–1–1 fee or charge diversion.—“(A) Establishment.—Not later than 180 days after the date of the enactment of this Act, the Commission shall establish an interagency strike force to study how the Federal Government can most expeditiously end diversion by a State or taxing jurisdiction of 9–1–1 fees or charges. Such interagency strike force shall be known as the ‘Ending 9–1–1 Fee Diversion Now Strike Force’ (in this subsection referred to as the ‘Strike Force’). “(B) Duties.—In carrying out the study under subparagraph (A), the Strike Force shall—“(i) determine the effectiveness of any Federal laws, including regulations, policies, and practices, or budgetary or jurisdictional constraints regarding how the Federal Government can most expeditiously end diversion by a State or taxing jurisdiction of 9–1–1 fees or charges; “(ii) consider whether criminal penalties would further prevent diversion by a State or taxing jurisdiction of 9–1–1 fees or charges; and “(iii) determine the impacts of diversion by a State or taxing jurisdiction of 9–1–1 fees or charges. “(C) Members.—The Strike Force shall be composed of such representatives of Federal departments and agencies as the Commission considers appropriate, in addition to—“(i) State attorneys general; “(ii) States or taxing jurisdictions found not to be engaging in diversion of 9–1–1 fees or charges; “(iii) States or taxing jurisdictions trying to stop the diversion of 9–1–1 fees or charges; “(iv) State 9–1–1 administrators; “(v) public safety organizations; “(vi) groups representing the public and consumers; and “(vii) groups representing public safety answering point professionals. “(D) Report to congress.—Not later than 270 days after the date of the enactment of this Act, the Strike Force shall publish on the website of the Commission and submit to the Committee on Energy and Commerce of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a report on the findings of the study under this paragraph, including—“(i) any recommendations regarding how to most expeditiously end the diversion by a State or taxing jurisdiction of 9–1–1 fees or charges, including actions that can be taken by Federal departments and agencies and appropriate changes to law or regulations; and “(ii) a description of what progress, if any, relevant Federal departments and agencies have made in implementing the recommendations under clause (i). “(4) Failure to comply.—Notwithstanding any other provision of law, any State or taxing jurisdiction identified by the Commission in the report required under section 6(f)(2) of the Wireless Communications and Public Safety Act of 1999 ([47 U.S.C. 615a–1(f)(2)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title47-section615a–1/f/2&num=0&edition=prelim)) as engaging in diversion of 9–1–1 fees or charges shall be ineligible to participate or send a representative to serve on any committee, panel, or council established under section 6205(a) of the Middle Class Tax Relief and Job Creation Act of 2012 ([47 U.S.C. 1425(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title47-section1425/a&num=0&edition=prelim)) or any advisory committee established by the Commission.”
+
+#### Definitions
+Pub. L. 116–260, div. FF, title IX, § 902(f), Dec. 27, 2020, 134 Stat. 3209, provided that: “In this Act [probably means “this section”, amending this section, repealing [section 1413 of this title](./chapter-013-public-safety-communications-and-electromagnetic-spectrum-auctions.md#section-1413) and enacting provisions set out as notes under this section and [section 609 of this title](./chapter-005-wire-or-radio-communication.md#section-609)]: “(1) 9–1–1 fee or charge.—The term ‘9–1–1 fee or charge’ has the meaning given such term in subparagraph (D) of paragraph (3) of section 6(f) of the Wireless Communications and Public Safety Act of 1999 [[47 U.S.C. 615a–1(f)(3)(D)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title47-section615a–1/f/3/D&num=0&edition=prelim)], as added by this Act. “(2) 9–1–1 services.—The term ‘9–1–1 services’ has the meaning given such term in section 158(e) of the National Telecommunications and Information Administration Organization Act ([47 U.S.C. 942(e)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title47-section942/e&num=0&edition=prelim)). “(3) Commission.—The term ‘Commission’ means the Federal Communications Commission. “(4) Diversion.—The term ‘diversion’ means, with respect to a 9–1–1 fee or charge, the obligation or expenditure of such fee or charge for a purpose or function other than the purposes and functions designated in the final rules issued under paragraph (3) of section 6(f) of the Wireless Communications and Public Safety Act of 1999, as added by this Act, as purposes and functions for which the obligation or expenditure of such a fee or charge is acceptable. “(5) State or taxing jurisdiction.—The term ‘State or taxing jurisdiction’ has the meaning given such term in subparagraph (D) of paragraph (3) of section 6(f) of the Wireless Communications and Public Safety Act of 1999, as added by this Act.”
 
 
 <a id="section-615b"></a>
@@ -14433,3 +15142,405 @@ Pub. L. 115–127, § 2(b), Feb. 16, 2018, 132 Stat. 327, provided that: “The 
 
 #### References in Text
 The Foreign Agents Registration Act of 1938, referred to in subsec. (d)(2)(B), is act June 8, 1938, ch. 327, 52 Stat. 631, which is classified generally to subchapter II (§ 611 et seq.) of chapter 11 of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under [section 611 of Title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section611&num=0&edition=prelim) and Tables.
+
+
+<a id="section-641"></a>
+## § 641. Definitions
+
+In this subchapter:
+
+(1) **Broadband internet access service** — The term “broadband internet access service” has the meaning given the term in section 8.1(b) of title 47, Code of Federal Regulations, or any successor regulation.
+
+(2) **Broadband map** — The term “Broadband Map” means the map created by the Commission under [section 642(c)(1)(A) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title47-section642/c/1/A&num=0&edition=prelim).
+
+(3) **Cell edge probability** — The term “cell edge probability” means the likelihood that the minimum threshold download and upload speeds with respect to broadband internet access service will be met or exceeded at a distance from a base station that is intended to indicate the ultimate edge of the coverage area of a cell.
+
+(4) **Cell loading** — The term “cell loading” means the percentage of the available air interface resources of a base station that are used by consumers with respect to broadband internet access service.
+
+(5) **Clutter** — The term “clutter” means a natural or man-made surface feature that affects the propagation of a signal from a base station.
+
+(6) **Fabric** — The term “Fabric” means the Broadband Serviceable Location Fabric established under [section 642(b)(1)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title47-section642/b/1/B&num=0&edition=prelim).
+
+(7) **Form 477** — The term “Form 477” means Form 477 of the Commission relating to local telephone competition and broadband reporting.
+
+(8) **Indian Tribe** — The term “Indian Tribe” has the meaning given the term “Indian tribe” in [section 5304 of title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5304&num=0&edition=prelim).
+
+(9) **Mobility Fund Phase II** — The term “Mobility Fund Phase II” means the second phase of the proceeding to provide universal service support from the Mobility Fund (WC Docket No. 10–90; WT Docket No. 10–208).
+
+(10) **Propagation model** — The term “propagation model” means a mathematical formulation for the characterization of radio wave propagation as a function of frequency, distance, and other conditions.
+
+(11) **Provider** — The term “provider” means a provider of fixed or mobile broadband internet access service.
+
+(12) **Quality of service** — The term “quality of service” means, with respect to broadband internet access service, the download and upload speeds (and, for relevant services, latency) with respect to that service, as determined by, and to the extent otherwise collected by, the Commission.
+
+(13) **Shapefile** — The term “shapefile” means a digital storage format containing geospatial or location-based data and attribute information—
+
+  (A) regarding the availability of broadband internet access service; and
+
+  (B) that can be viewed, edited, and mapped in geographic information system software.
+
+(14) **Standard broadband installation** — The term “standard broadband installation”—
+
+  (A) means the initiation by a provider of fixed broadband internet access service in an area in which the provider has not previously offered that service, with no charges or delays attributable to the extension of the network of the provider; and
+
+  (B) includes the initiation of fixed broadband internet access service through routine installation that can be completed not later than 10 business days after the date on which the service request is submitted.
+
+
+<a id="section-642"></a>
+## § 642. Broadband maps
+**(a) Rules**
+
+(1) **In general** — Not later than 180 days after March 23, 2020, the Commission shall issue final rules that shall—
+
+  (A) require the biannual collection and dissemination of granular data, as determined by the Commission—
+
+    (i) relating to the availability and quality of service with respect to terrestrial fixed, fixed wireless, satellite, and mobile broadband internet access service; and
+
+    (ii) that the Commission shall use to compile the maps created under subsection (c)(1) (referred to in this section as “coverage maps”), which the Commission shall make publicly available; and
+
+  (B) establish—
+
+    (i) processes through which the Commission can verify the accuracy of data submitted under subsection (b)(2);
+
+    (ii) processes and procedures through which the Commission, and, as necessary, other entities or individuals submitting non-public or competitively sensitive information under this subchapter, can protect the security, privacy, and confidentiality of that non-public or competitively sensitive information, including—
+
+      (I) information contained in the Fabric;
+
+      (II) the dataset created under subsection (b)(1)(A) supporting the Fabric; and
+
+      (III) the data submitted under subsection (b)(2);
+
+    (iii) the challenge process described in subsection (b)(5); and
+
+    (iv) the process described in [section 644(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title47-section644/b&num=0&edition=prelim).
+
+(2) **Other data** — In issuing the rules under paragraph (1), the Commission shall develop a process through which the Commission can collect verified data for use in the coverage maps from—
+
+  (A) State, local, and Tribal governmental entities that are primarily responsible for mapping or tracking broadband internet access service coverage for a State, unit of local government, or Indian Tribe, as applicable;
+
+  (B) third parties, if the Commission determines that it is in the public interest to use such data in—
+
+    (i) the development of the coverage maps; or
+
+    (ii) the verification of data submitted under subsection (b); and
+
+  (C) other Federal agencies.
+
+(3) **Updates** — The Commission shall revise the rules issued under paragraph (1) to—
+
+  (A) reflect changes in technology;
+
+  (B) ensure the accuracy of propagation models, as further provided in subsection (b)(3); and
+
+  (C) improve the usefulness of the coverage maps.
+
+**(b) Content of rules**
+
+(1) **Establishment of a Serviceable Location Fabric regarding fixed broadband**
+
+  (A) *Dataset*
+
+    (i) *In general* — The Commission shall create a common dataset of all locations in the United States where fixed broadband internet access service can be installed, as determined by the Commission.
+
+    (ii) *Contracting*
+
+      (I) *In general* — Subject to subclauses (II) and (III), the Commission may contract with an entity with expertise with respect to geographic information systems (referred to in this subsection as “GIS”) to create and maintain the dataset under clause (i).
+
+      (II) *Application of the Federal Acquisition Regulation* — A contract into which the Commission enters under subclause (I) shall in all respects comply with applicable provisions of the Federal Acquisition Regulation.
+
+      (III) *Limitations* — With respect to a contract into which the Commission enters under subclause (I)—
+
+        (aa) the entity with which the Commission enters into the contract shall be selected through a competitive bid process that is transparent and open; and
+
+        (bb) the contract shall be for a term of not longer than 5 years, after which the Commission may enter into a new contract—
+
+          (AA) with an entity, and for the purposes, described in clause (i); and
+
+          (BB) that complies with the requirements under subclause (II) and this subclause; and
+
+        (cc) the contract shall—
+
+          (AA) prohibit the entity described in item (aa) from selling, leasing, or otherwise disclosing for monetary consideration any personally identifiable information to any other entity other than for purposes authorized under this subchapter; and
+
+          (BB) require the entity described in item (aa) to include in any contract with any other entity a provision that prohibits that other entity from engaging in an action that is prohibited under subitem (AA).
+
+  (B) *Fabric* — The rules issued by the Commission under subsection (a)(1) shall establish the Broadband Serviceable Location Fabric, which shall—
+
+    (i) contain geocoded information for each location identified under subparagraph (A)(i);
+
+    (ii) serve as the foundation upon which all data relating to the availability of fixed broadband internet access service collected under paragraph (2)(A) shall be reported and overlaid;
+
+    (iii) be compatible with commonly used GIS software; and
+
+    (iv) at a minimum, be updated every 6 months by the Commission.
+
+  (C) *Implementation priority* — The Commission shall prioritize implementing the Fabric for rural and insular areas of the United States.
+
+(2) **Collection of information** — The rules issued by the Commission under subsection (a)(1) shall include uniform standards for the reporting of broadband internet access service data that the Commission shall collect—
+
+  (A) from each provider of terrestrial fixed, fixed wireless, or satellite broadband internet access service, which shall include data that—
+
+    (i) documents the areas where the provider—
+
+      (I) has actually built out the broadband network infrastructure of the provider such that the provider is able to provide that service; and
+
+      (II) could provide that service, as determined by identifying where the provider is capable of performing a standard broadband installation, if applicable;
+
+    (ii) includes information regarding download and upload speeds, at various thresholds established by the Commission, and, if applicable, latency with respect to broadband internet access service that the provider makes available;
+
+    (iii) can be georeferenced to the GIS data in the Fabric;
+
+    (iv) the provider shall report as—
+
+      (I) with respect to providers of fixed wireless broadband internet access service—
+
+        (aa) propagation maps and propagation model details that—
+
+          (AA) satisfy standards that are similar to those applicable to providers of mobile broadband internet access service under subparagraph (B) with respect to propagation maps and propagation model details, taking into account material differences between fixed wireless and mobile broadband internet access service; and
+
+          (BB) reflect the speeds and latency of the service provided by the provider; or
+
+        (bb) a list of addresses or locations that constitute the service area of the provider, except that the Commission—
+
+          (AA) may only permit, and not require, a provider to report the data using that means of reporting; and
+
+          (BB) in the rules issued under subsection (a)(1), shall provide a method for using that means of reporting with respect to Tribal areas; and
+
+      (II) with respect to providers of terrestrial fixed and satellite broadband internet access service—
+
+        (aa) polygon shapefiles; or
+
+        (bb) a list of addresses or locations that constitute the service area of the provider, except that the Commission—
+
+          (AA) may only permit, and not require, a provider to report the data using that means of reporting; and
+
+          (BB) in the rules issued under subsection (a)(1), shall provide a method for using that means of reporting with respect to Tribal areas; and
+
+    (v) the Commission determines is appropriate with respect to certain technologies in order to ensure that the Broadband Map is granular and accurate; and
+
+  (B) from each provider of mobile broadband internet access service, which shall include propagation maps and propagation model details that indicate the current (as of the date on which the information is collected) fourth generation Long-Term Evolution (commonly referred to as “4G LTE”) mobile broadband internet access service coverage of the provider, which shall—
+
+    (i) take into consideration the effect of clutter; and
+
+    (ii) satisfy—
+
+      (I) the requirements of having—
+
+        (aa) a download speed of not less than 5 megabits per second and an upload speed of not less than 1 megabit per second with a cell edge probability of not less than 90 percent; and
+
+        (bb) cell loading of not less than 50 percent; and
+
+      (II) any other parameter that the Commission determines to be necessary to create a map under subsection (c)(1)(C) that is more precise than the map produced as a result of the submissions under the Mobility Fund Phase II information collection.
+
+(3) **Update of reporting standards for mobile broadband internet access service** — For the purposes of paragraph (2)(B), if the Commission determines that the reporting standards under that paragraph are insufficient to collect accurate propagation maps and propagation model details with respect to future generations of mobile broadband internet access service technologies, the Commission shall immediately commence a rule making to adopt new reporting standards with respect to those technologies that—
+
+  (A) shall be the functional equivalent of the standards required under paragraph (2)(B); and
+
+  (B) allow for the collection of propagation maps and propagation model details that are as accurate and granular as, or more accurate and granular than, the maps and model details collected by the Commission under paragraph (2)(B).
+
+(4) **Certification and verification** — With respect to a provider that submits information to the Commission under paragraph (2)—
+
+  (A) the provider shall include in each submission a certification from a corporate officer of the provider that the officer has examined the information contained in the submission and that, to the best of the officer’s actual knowledge, information, and belief, all statements of fact contained in the submission are true and correct; and
+
+  (B) the Commission shall verify the accuracy and reliability of the information in accordance with measures established by the Commission.
+
+(5) **Challenge process**
+
+  (A) *In general* — In the rules issued under subsection (a), and subject to subparagraph (B), the Commission shall establish a user-friendly challenge process through which consumers, State, local, and Tribal governmental entities, and other entities or individuals may submit coverage data to the Commission to challenge the accuracy of—
+
+    (i) the coverage maps;
+
+    (ii) any information submitted by a provider regarding the availability of broadband internet access service; or
+
+    (iii) the information included in the Fabric.
+
+  (B) *Considerations; verification; response to challenges* — In establishing the challenge process required under subparagraph (A), the Commission shall—
+
+    (i) consider—
+
+      (I) the types of information that an entity or individual submitting a challenge should provide to the Commission in support of the challenge;
+
+      (II) the appropriate level of granularity for the information described in subclause (I);
+
+      (III) the need to mitigate the time and expense incurred by, and the administrative burdens placed on, entities or individuals in—
+
+        (aa) challenging the accuracy of a coverage map; and
+
+        (bb) responding to challenges described in item (aa);
+
+      (IV) the costs to consumers and providers resulting from a misallocation of funds because of a reliance on outdated or otherwise inaccurate information in the coverage maps;
+
+      (V) any lessons learned from the challenge process established under Mobility Fund Phase II, as determined from comments solicited by the Commission; and
+
+      (VI) the need for user-friendly challenge submission formats that will promote participation in the challenge process;
+
+    (ii) include a process for verifying the data submitted through the challenge process in order to ensure the reliability of that data;
+
+    (iii) allow providers to respond to challenges submitted through the challenge process; and
+
+    (iv) develop an online mechanism, which—
+
+      (I) shall be integrated into the coverage maps;
+
+      (II) allows for an entity described in subparagraph (A) to submit a challenge under the challenge process;
+
+      (III) makes challenge data available in both geographic information system and non-geographic information system formats; and
+
+      (IV) clearly identifies the areas in which broadband internet access service is available, and the upload and download speeds at which that service is available, as reported to the Commission under this section.
+
+  (C) *Use of challenges* — The rules issued to establish the challenge process under subparagraph (A) shall include—
+
+    (i) a process for the speedy resolution of challenges; and
+
+    (ii) a process for the regular and expeditious updating of the coverage maps and granular data disseminated by the Commission as challenges are resolved.
+
+  (D) *Report to Congress* — Not earlier than 1 year, and not later than 18 months, after the date on which the rules issued under subsection (a)(1) take effect, the Commission shall, after an opportunity for notice and comment, submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Energy and Commerce of the House of Representatives a report that—
+
+    (i) evaluates the challenge process described in subparagraph (A); and
+
+    (ii) considers whether the Commission should commence an inquiry on the need for other tools to help—
+
+      (I) identify potential inaccuracies in the data relating to broadband internet access service that providers report; and
+
+      (II) improve the accuracy of the data described in subclause (I).
+
+(6) **Reform of Form 477 process**
+
+  (A) *In general* — Not later than 180 days after the date on which the rules issued under subsection (a) take effect, the Commission shall—
+
+    (i) reform the Form 477 broadband deployment service availability collection process of the Commission—
+
+      (I) to achieve the purposes of this subchapter; and
+
+      (II) in a manner that—
+
+        (aa) enables the comparison of data and maps produced before the implementation of this subchapter with data and coverage maps produced after the implementation of this subchapter; and
+
+        (bb) maintains the public availability of data relating to the deployment of broadband internet access service; and
+
+    (ii) harmonize reporting requirements and procedures regarding the deployment of broadband internet access service that are in effect on the day before the date on which the rules issued under subsection (a)(1) take effect with those requirements and procedures in those rules.
+
+  (B) *Continued collection and reporting* — On and after the date on which the Commission carries out subparagraph (A), the Commission shall continue to collect and publicly report subscription data that the Commission collected through the Form 477 broadband deployment service availability process, as in effect on July 1, 2019.
+
+(7) **Sharing data with NTIA** — The Commission shall establish a process to make the data collected under paragraph (2) available to the National Telecommunications and Information Administration.
+
+**(c) Maps** The Commission shall—
+
+(1) after consultation with the Federal Geographic Data Committee established under [section 2802(a) of title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section2802/a&num=0&edition=prelim), create—
+
+  (A) the Broadband Map, which shall depict—
+
+    (i) the extent of the availability of broadband internet access service in the United States, without regard to whether that service is fixed broadband internet access service or mobile broadband internet access service, which shall be based on data collected by the Commission from all providers; and
+
+    (ii) the areas of the United States that remain unserved by providers;
+
+  (B) a map that depicts the availability of fixed broadband internet access service, which shall be based on data collected by the Commission from providers under subsection (b)(2)(A); and
+
+  (C) a map that depicts the availability of mobile broadband internet access service, which shall be based on data collected by the Commission from providers under subsection (b)(2)(B);
+
+(2) after creating the maps under paragraph (1), use such maps—
+
+  (A) to determine the areas in which terrestrial fixed, fixed wireless, mobile, and satellite broadband internet access service is and is not available; and
+
+  (B) when making any new award of funding with respect to the deployment of broadband internet access service intended for use by residential and mobile customers;
+
+(3) update the maps created under paragraph (1) not less frequently than biannually using the most recent data collected from providers under subsection (b)(2);
+
+(4) consult with—
+
+  (A) the Secretary of Agriculture to enable the Secretary of Agriculture to consult the maps created under paragraph (1) when considering the awarding of funds for the deployment of broadband internet access service under any program administered by the Administrator of the Rural Utilities Service; and
+
+  (B) the National Telecommunications and Information Administration to enable the Administration to consult the maps created under paragraph (1) when considering the awarding of funds for the deployment of broadband internet access service under any future program administered by the Administration;
+
+(5) make available to any Federal agency, upon request, the maps created under paragraph (1); and
+
+(6) make public at an appropriate level of granularity—
+
+  (A) the maps created under paragraph (1); and
+
+  (B) the data collected by the Commission with respect to the availability of broadband internet access service and the quality of service with respect to broadband internet access service.
+
+**(d) Delayed effective date for quality of service rules** Any requirement of a rule issued under subsection (a)(1) that relates to quality of service shall take effect not earlier than the date that is 180 days after the date on which the Commission issues that rule.
+
+
+<a id="section-643"></a>
+## § 643. Enforcement
+
+It shall be unlawful for an entity or individual to willfully and knowingly, or recklessly, submit information or data under this subchapter that is materially inaccurate or incomplete with respect to the availability of broadband internet access service or the quality of service with respect to broadband internet access service.
+
+
+<a id="section-644"></a>
+## § 644. Improving data accuracy
+**(a) Audits** The Commission shall conduct regular audits of information submitted to the Commission by providers under [section 642(b)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title47-section642/b/2&num=0&edition=prelim) to ensure that the providers are complying with this subchapter.
+
+**(b) Crowdsourcing**
+
+(1) **In general** — The Commission shall develop a process through which entities or individuals in the United States may submit specific information about the deployment and availability of broadband internet access service in the United States on an ongoing basis so that the information may be used to verify and supplement information provided by providers of broadband internet access service for inclusion in the maps created under [section 642(c)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title47-section642/c/1&num=0&edition=prelim).
+
+(2) **Collaboration** — As part of the efforts of the Commission to facilitate the ability of entities and individuals to submit information under paragraph (1), the Commission shall—
+
+  (A) prioritize the consideration of data provided by data collection applications used by consumers that the Commission has determined—
+
+    (i) are highly reliable; and
+
+    (ii) have proven methodologies for determining network coverage and network performance;
+
+  (B) not later than 1 year after March 23, 2020, conclude a process that tests the feasibility of partnering with Federal agencies that operate delivery fleet vehicles, including the United States Postal Service, to facilitate the collection and submission of information described in that paragraph; and
+
+  (C) not later than 14 months after March 23, 2020, publish on the website of the Commission, and submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Energy and Commerce of the House of Representatives, a report regarding the testing described in subparagraph (B), which shall include—
+
+    (i) a determination regarding whether the partnerships with Federal agencies described in that subparagraph are able to facilitate the collection and submission of information described in paragraph (1); and
+
+    (ii) any steps that the Commission plans to take to facilitate the partnerships described in that subparagraph.
+
+**(c) Technical assistance to Indian Tribes**
+
+(1) **In general** — Subject to paragraph (2), the Commission shall hold workshops for Tribal Governments in each of the 12 Bureau of Indian Affairs regions to provide technical assistance with the collection and submission of data under [section 642(a)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title47-section642/a/2&num=0&edition=prelim).
+
+(2) **Annual review** — Each year, the Commission, in consultation with Indian Tribes, shall review the need for continued workshops required under paragraph (1).
+
+**(d) Technical assistance to small service providers** The Commission shall establish a process through which a provider that has fewer than 100,000 active broadband internet access service connections may request and receive assistance from the Commission with respect to geographic information system data processing to ensure that the provider is able to comply with the requirements under [section 642(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title47-section642/b&num=0&edition=prelim) in a timely and accurate manner.
+
+**(e) Technical assistance to State, local, and Tribal governments and consumers** The Commission shall provide technical assistance to consumers and State, local, and Tribal governmental entities with respect to the challenge process established under [section 642(b)(5) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title47-section642/b/5&num=0&edition=prelim), which shall include—
+
+(1) detailed tutorials and webinars; and
+
+(2) the provision of staff of the Commission to provide assistance, as needed, throughout the entirety of the challenge process.
+
+**(f) GAO Assessment of Fabric source data**
+
+(1) **In general** — The Comptroller General of the United States shall conduct an assessment of key data sources that are used for purposes of the Fabric to identify and geocode locations where fixed broadband internet access service can be installed in order for the Comptroller General to develop recommendations for how the quality and completeness of those data sources can be improved as data sources for the Fabric.
+
+(2) **Sources included** — For the purposes of the assessment conducted under paragraph (1), the key data sources described in that paragraph shall include—
+
+  (A) any relevant sources of Federal data, including the National Address Database administered by the Department of Transportation;
+
+  (B) State- and county-level digitized parcel data; and
+
+  (C) property tax attribute recording.
+
+(3) **Report** — Not later than 1 year after March 23, 2020, the Comptroller General of the United States shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Energy and Commerce of the House of Representatives a report that contains the recommendations developed under paragraph (1).
+
+
+<a id="section-645"></a>
+## § 645. Cost
+**(a) USF** The Commission may not use funds from the universal service programs of the Commission established under [section 254 of this title](./chapter-005-wire-or-radio-communication.md#section-254), and the regulations issued under that section, to pay for any costs associated with this subchapter.
+
+**(b) Other funds** The Commission may recover costs associated with this subchapter under [section 159 of this title](./chapter-005-wire-or-radio-communication.md#section-159) to the extent provided for in an appropriation Act, as required under subsection (a) of that section.
+
+
+<a id="section-646"></a>
+## § 646. Other provisions
+**(a) OMB** Notwithstanding any other provision of law, the initial rule making required under [section 642(a)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title47-section642/a/1&num=0&edition=prelim) shall be exempt from review by the Office of Management and Budget.
+
+**(b) PRA** Subchapter I of chapter 35 of title 44 (commonly known as the “Paperwork Reduction Act”) shall not apply to the initial rule making required under [section 642(a)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title47-section642/a/1&num=0&edition=prelim).
+
+**(c) Execution of responsibilities** Except, with respect to an entity that is not the Universal Service Administrative Company, as provided in [section 642(a)(2)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title47-section642/a/2/B&num=0&edition=prelim), [section 642(b)(1)(A)(ii) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title47-section642/b/1/A/ii&num=0&edition=prelim), and subsections (c), (d), and (e) of [section 644 of this title](./chapter-005-wire-or-radio-communication.md#section-644), the Commission—
+
+(1) including the offices of the Commission, shall carry out the responsibilities assigned to the Commission under this subchapter; and
+
+(2) may not delegate any of the responsibilities assigned to the Commission under this subchapter to any third party, including the Universal Service Administrative Company.
+
+**(d) Reporting** Each fiscal year, the Commission shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Energy and Commerce of the House of Representatives a report that summarizes the implementation of this subchapter and associated enforcement activities conducted during the previous fiscal year.
+
+**(e) Rule of construction** If the Commission, before March 23, 2020, has taken an action that, in whole or in part, implements this subchapter, the Commission shall not be required to revisit such action to the extent that such action is consistent with this subchapter.

@@ -22,20 +22,20 @@ Section was formerly classified to [section 611 of Title 5](https://uscode.house
 #### Short Title of 1986 Amendment
 Pub. L. 99–619, § 1, Nov. 6, 1986, 100 Stat. 3491, provided that: “This Act [amending sections 552 and 553 of this title and sections 5313 to 5316 of Title 5, Government Organization and Employees, repealing section 3 of Reorganization Plan No. 6 of 1950, set out in the Appendix to Title 5, and enacting provisions set out as notes under sections 552 and 553 of this title and [section 5316 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5316&num=0&edition=prelim)] may be cited as the ‘Department of Labor Executive Level Conforming Amendments of 1986’.”
 
+#### History of Department
+A Department of Labor under the charge of a Commissioner of Labor was first established by act June 13, 1888, ch. 389, 25 Stat. 182. That Department was placed under the jurisdiction and made a part of a new department, called the Department of Commerce and Labor, by act Feb. 14, 1903, ch. 552, § 4, 32 Stat. 827. The name Department of Labor was changed to Bureau of Labor by act Mar. 18, 1904, ch. 716, 33 Stat. 136. The present Department of Labor was created by act Mar. 4, 1913. The Bureau of Labor in the Department of Commerce and Labor was transferred to the present Department of Labor by said act.
+
+#### Compensation of Secretary
+Compensation of Secretary, see [section 5312 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5312&num=0&edition=prelim), Government Organization and Employees.
+
 #### Transfer of Functions
 For transfer of functions of other officers, employees, and agencies of Department of Labor, with certain exceptions, to Secretary of Labor, with power to delegate, see Reorg. Plan No. 6, of 1950, §§ 1, 2, 15 F.R. 3174, 64 Stat. 1263, set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Emergency Preparedness Functions
 For assignment of certain emergency preparedness functions to Secretary of Labor, see Parts 1, 2, and 12 of Ex. Ord. No. 12656, Nov. 18, 1988, 53 F.R. 47491, set out as a note under [section 5195 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5195&num=0&edition=prelim), The Public Health and Welfare.
 
-#### History of Department
-A Department of Labor under the charge of a Commissioner of Labor was first established by act June 13, 1888, ch. 389, 25 Stat. 182. That Department was placed under the jurisdiction and made a part of a new department, called the Department of Commerce and Labor, by act Feb. 14, 1903, ch. 552, § 4, 32 Stat. 827. The name Department of Labor was changed to Bureau of Labor by act Mar. 18, 1904, ch. 716, 33 Stat. 136. The present Department of Labor was created by act Mar. 4, 1913. The Bureau of Labor in the Department of Commerce and Labor was transferred to the present Department of Labor by said act.
-
 #### Order of Succession
 For order of succession during any period when both Secretary and Deputy Secretary of Labor are unable to perform functions and duties of office of Secretary, see Ex. Ord. No. 13245, Dec. 18, 2001, 66 F.R. 66268, listed in a table under [section 3345 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section3345&num=0&edition=prelim), Government Organization and Employees.
-
-#### Compensation of Secretary
-Compensation of Secretary, see [section 5312 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5312&num=0&edition=prelim), Government Organization and Employees.
 
 #### Ex. Ord. No. 13578. Coordinating Policies on Automotive Communities and Workers
 Ex. Ord. No. 13578, July 6, 2011, 76 F.R. 40591, provided:
@@ -94,14 +94,14 @@ Section was formerly classified to [section 611a of Title 5](https://uscode.hous
 #### Amendments
 1986—Pub. L. 99–619 substituted “Deputy Secretary” for “Under Secretary” in three places.
 
-#### Transfer of Functions
-For transfer of functions of other officers, employees, and agencies of Department of Labor, with certain exceptions, to Secretary of Labor, with power to delegate, see Reorg. Plan No. 6, of 1950, §§ 1, 2, 15 F.R. 3174, 64 Stat. 1263, set out in the Appendix to Title 5, Government Organization and Employees.
-
 #### References in Other Laws
 Pub. L. 99–619, § 2(a)(4), Nov. 6, 1986, 100 Stat. 3491, provided that: “Any reference to the Under Secretary of Labor in any law, rule, regulation, certificate, directive, or other document in force on the date of enactment of this Act [Nov. 6, 1986] shall be deemed to refer and apply to the Deputy Secretary of Labor.”
 
 #### Present Incumbent
 Pub. L. 99–619, § 2(f)(1), Nov. 6, 1986, 100 Stat. 3492, provided that: “The incumbent in the position of Under Secretary of Labor on the date of enactment of this Act [Nov. 6, 1986] may serve as Deputy Secretary of Labor at the pleasure of the President after such date and the amendments made by subsection (a)(2) [amending [section 5313 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5313&num=0&edition=prelim), Government Organization and Employees] shall apply to such incumbent.”
+
+#### Transfer of Functions
+For transfer of functions of other officers, employees, and agencies of Department of Labor, with certain exceptions, to Secretary of Labor, with power to delegate, see Reorg. Plan No. 6, of 1950, §§ 1, 2, 15 F.R. 3174, 64 Stat. 1263, set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Order of Succession
 For order of succession during any period when both Secretary and Deputy Secretary of Labor are unable to perform functions and duties of office of Secretary, see Ex. Ord. No. 13245, Dec. 18, 2001, 66 F.R. 66268, listed in a table under [section 3345 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section3345&num=0&edition=prelim), Government Organization and Employees.
@@ -129,9 +129,6 @@ Section was formerly classified to [section 611b of Title 5](https://uscode.hous
 #### Effective Date of 1970 Amendment
 Amendment by Pub. L. 91–596 effective 120 days after Dec. 29, 1970 see section 34 of Pub. L. 91–596, set out as an Effective Date note under [section 651 of this title](./chapter-015-occupational-safety-and-health.md#section-651).
 
-#### Transfer of Functions
-For transfer of functions of other officers, employees, and agencies of Department of Labor, with certain exceptions, to Secretary of Labor, with power to delegate, see Reorg. Plan No. 6, of 1950, §§ 1, 2, 15 F.R. 3174, 64 Stat. 1263, set out in the Appendix to Title 5, Government Organization and Employees.
-
 #### Assistant Secretaries for Administration and Management and Public Affairs
 Pub. L. 112–166, § 2(i)(1), Aug. 10, 2012, 126 Stat. 1285, provided that: “Notwithstanding section 2 of the Act of April 17, 1946 ([29 U.S.C. 553](./chapter-012-department-of-labor.md#section-553)), the appointment of individuals to serve as the Assistant Secretary for Administration and Management and the Assistant Secretary for Public Affairs within the Department of Labor, shall not be subject to the advice and consent of the Senate.”
 
@@ -139,7 +136,10 @@ Pub. L. 112–166, § 2(i)(1), Aug. 10, 2012, 126 Stat. 1285, provided that: “
 Pub. L. 99–619, § 2(b)(3), Nov. 6, 1986, 100 Stat. 3491, provided that: “Any reference in any law, regulation, certificate, directive, or other document to the Assistant Secretary of Labor for Veterans’ Employment in force on the date of enactment of this Act [Nov. 6, 1986] shall be deemed to be a reference to the Assistant Secretary of Labor for Veterans’ Employment and Training.”
 
 #### Present Incumbent
-Pub. L. 99–619, § 2(f)(2), Nov. 6, 1986, 100 Stat. 3492, provided that: “The incumbent in the position of Assistant Secretary of Labor for Veterans’ Employment on the date of enactment of this Act [Nov. 6, 1986] may serve as Assistant Secretary of Labor for Veterans’ Employment and Training at the pleasure of the President after such date and the amendments made by subsection (b)(2) [amending [section 5315 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5315&num=0&edition=prelim), Government Organization and Employees] shall apply to such incumbent.”
+Pub. L. 99–619, § 2(f)(2), Nov. 6, 1986, 100 Stat. 3492, provided that the incumbent in the position of Assistant Secretary of Labor for Veterans’ Employment on Nov. 6, 1986, could serve as Assistant Secretary of Labor for Veterans’ Employment and Training at the pleasure of the President after such date and that the amendments made by subsection (b)(2) of Pub. L. 99–619 to [section 5315 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5315&num=0&edition=prelim) were to apply to such incumbent.
+
+#### Transfer of Functions
+For transfer of functions of other officers, employees, and agencies of Department of Labor, with certain exceptions, to Secretary of Labor, with power to delegate, see Reorg. Plan No. 6, of 1950, §§ 1, 2, 15 F.R. 3174, 64 Stat. 1263, set out in the Appendix to Title 5, Government Organization and Employees.
 
 
 <a id="section-554"></a>
@@ -168,11 +168,11 @@ The words “of the Department of Justice” were omitted from text on authority
 
 Section was formerly classified to [section 613b of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section613b&num=0&edition=prelim) prior to the general revision and enactment of Title 5, Government Organization and Employees, by Pub. L. 89–554, § 1, Sept. 1, 1966, 80 Stat. 378.
 
-#### Transfer of Functions
-For transfer of functions of other officers, employees, and agencies of Department of Labor, with certain exceptions, to Secretary of Labor, with power to delegate, see Reorg. Plan No. 6, of 1950, §§ 1, 2, 15 F.R. 3174, 64 Stat. 1263, set out in the Appendix to Title 5, Government Organization and Employees.
-
 #### Compensation of Solicitor
 Compensation of solicitor, see [section 5315 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5315&num=0&edition=prelim), Government Organization and Employees.
+
+#### Transfer of Functions
+For transfer of functions of other officers, employees, and agencies of Department of Labor, with certain exceptions, to Secretary of Labor, with power to delegate, see Reorg. Plan No. 6, of 1950, §§ 1, 2, 15 F.R. 3174, 64 Stat. 1263, set out in the Appendix to Title 5, Government Organization and Employees.
 
 
 <a id="section-556"></a>

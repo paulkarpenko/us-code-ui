@@ -65,7 +65,7 @@ In this chapter:
 
 (10) **National Drug Control Program** — The term “National Drug Control Program” means programs, policies, and activities undertaken by National Drug Control Program agencies pursuant to the responsibilities of such agencies under the National Drug Control Strategy, including any activities involving supply reduction, demand reduction, or State, local, and tribal 11 So in original. Probably should be “Tribal”. affairs.
 
-(11) **National Drug Control Program agency** — The term “National Drug Control Program agency” 22 See References in Text note below. means any agency (or bureau, office, independent agency, board, division, commission, subdivision, unit, or other component thereof) that is responsible for implementing any aspect of the National Drug Control Strategy, including any agency that receives Federal funds to implement any aspect of the National Drug Control Strategy, but does not include any agency that receives funds for drug control activity solely under the National Intelligence Program or the Joint Military Intelligence Program.
+(11) **National Drug Control Program agency** — The term “National Drug Control Program agency” means any agency (or bureau, office, independent agency, board, division, commission, subdivision, unit, or other component thereof) that is responsible for implementing any aspect of the National Drug Control Strategy, including any agency that receives Federal funds to implement any aspect of the National Drug Control Strategy, but does not include any agency that receives funds for drug control activity solely under the National Intelligence Program or the Joint Military Intelligence Program.
 
 (12) **National Drug Control Strategy** — The term “National Drug Control Strategy” or “Strategy” means the strategy developed and submitted to Congress under [section 1705 of this title](./chapter-022-national-drug-control-policy.md#section-1705), including any report, plan, or strategy required to be incorporated into or issued concurrently with such strategy.
 
@@ -113,7 +113,7 @@ In this chapter:
 This chapter, referred to in text, was in the original “this title”, meaning title VII of div. C of Pub. L. 105–277, Oct. 21, 1998, 112 Stat. 2681–670, which is classified principally to this chapter. For complete classification of title VII to the Code, see Short Title note set out below and Tables.
 
 #### Amendments
-2019—Pars. (3), (11). Pub. L. 116–74, § 2(a)(1), substituted “National Drug Control Program agency” for “National Drug Control Program Agency” wherever appearing.
+2019—Pars. (3), (11). Pub. L. 116–74, § 2(a)(1), substituted “National Drug Control Program agency” for “National Drug Control Program Agency”.
 
 Par. (15). Pub. L. 116–74, § 2(a)(3), substituted “Tribal” for “tribal” wherever appearing.
 
@@ -314,9 +314,13 @@ Subsec. (b). Pub. L. 109–469, § 102(b), amended subsec. (b) generally. Prior 
 1998—Pub. L. 105–277, § 715, as amended by Pub. L. 109–469, § 602, which provided for the repeal of this section effective Sept. 30, 2010, was repealed by Pub. L. 115–271, § 8202(b)(2). See former [section 1712 of this title](./chapter-022-national-drug-control-policy.md#section-1712).
 
 #### Gifts to Office of National Drug Control Policy
-Pub. L. 116–6, div. D, title II, Feb. 15, 2019, 133 Stat. 152, provided that: “That the Office [of National Drug Control Policy] is authorized to accept, hold, administer, and utilize gifts, both real and personal, public and private, without fiscal year limitation, for the purpose of aiding or facilitating the work of the Office.”
+Pub. L. 116–260, div. E, title II, Dec. 27, 2020, 134 Stat. 1394, provided in part: “That the Office [of National Drug Control Policy] is authorized to accept, hold, administer, and utilize gifts, both real and personal, public and private, without fiscal year limitation, for the purpose of aiding or facilitating the work of the Office.”
 
 Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 116–93, div. C, title II, Dec. 20, 2019, 133 Stat. 2448.
+
+Pub. L. 116–6, div. D, title II, Feb. 15, 2019, 133 Stat. 152.
 
 Pub. L. 115–141, div. E, title II, Mar. 23, 2018, 132 Stat. 549.
 
@@ -769,7 +773,7 @@ Subsec. (c)(5)(A)(i). Pub. L. 116–74, § 2(a)(1), substituted “National Drug
 
 Subsec. (c)(5)(B). Pub. L. 116–74, § 2(a)(5)(C)(iii), substituted “For purposes of carrying out subparagraph (A), the Director shall designate or appoint an” for ‘The Director shall determine whether the coordinator position is a noncareer”.
 
-Subsec. (d)(8)(F). Pub. L. 116–74, § 2(a)(5)(D)(i), redesignated subpar. (E)(iii) as subpar. (F), realigned margins, and substituted “activities;” for “activities.” in cl. (v)
+Subsec. (d)(8)(F). Pub. L. 116–74, § 2(a)(5)(D)(i), redesignated subpar. (E)(iii) as subpar. (F), redesignated subcls. (I) to (V) of former subpar. (E)(iii) as cls. (i) to (v) of subpar. (F), respectively, realigned margins, and substituted “activities;” for “activities.” in cl. (v).
 
 Subsec. (d)(9). Pub. L. 116–74, § 2(a)(5)(D)(ii), made technical amendment to reference in original act which appears in text as reference to subsection (f)(5), and inserted “and” at end.
 
@@ -1069,7 +1073,7 @@ Subsec. (c). Pub. L. 109–469, § 104(6), substituted “on” for “in”.
 
 
 <a id="section-1705"></a>
-## § 1705. National Drug Control Strategy
+## § 1705. Development, submission, implementation, and assessment of National Drug Control Strategy
 **(a) In general**
 
 (1) **Statement of drug policy priorities** — The Director shall release a statement of drug control policy priorities in the calendar year of a Presidential inauguration following the inauguration, but not later than April 1.
@@ -1088,7 +1092,7 @@ Subsec. (c). Pub. L. 109–469, § 104(6), substituted “on” for “in”.
 
   (A) shall consult with—
 
-    (i) the heads of the National Drug Control Program Agencies;
+    (i) the heads of the National Drug Control Program agencies;
 
     (ii) each Coordinator listed in [section 1703 of this title](./chapter-022-national-drug-control-policy.md#section-1703);
 
@@ -1210,9 +1214,9 @@ Subsec. (c). Pub. L. 109–469, § 104(6), substituted “on” for “in”.
 
       (I) set forth the Government’s strategy for preventing the illegal trafficking of drugs across the international border between the United States and Mexico, including through ports of entry and between ports of entry on that border;
 
-      (II) state the specific roles and responsibilities of the relevant National Drug Control Program Agencies for implementing that strategy; and
+      (II) state the specific roles and responsibilities of the relevant National Drug Control Program agencies for implementing that strategy; and
 
-      (III) identify the specific resources required to enable the relevant National Drug Control Program Agencies to implement that strategy.
+      (III) identify the specific resources required to enable the relevant National Drug Control Program agencies to implement that strategy.
 
     (ii) *Specific content related to drug tunnels between the United States and Mexico* — The Southwest Border Counternarcotics Strategy shall include—
 
@@ -1228,7 +1232,7 @@ Subsec. (c). Pub. L. 109–469, § 104(6), substituted “on” for “in”.
 
       (II) state the specific roles and responsibilities of each relevant National Drug Control Program agency for implementing the strategy;
 
-      (III) identify the specific resources required to enable the relevant National Drug Control Program Agencies to implement the strategy;
+      (III) identify the specific resources required to enable the relevant National Drug Control Program agencies to implement the strategy;
 
       (IV) be designed to promote, and not hinder, legitimate trade and travel; and
 
@@ -1372,7 +1376,7 @@ The Federal Food, Drug, and Cosmetic Act, referred to in subsec. (f)(3)(A)(i)(IV
 This chapter, referred to in subsec. (g)(2), (3)(B), was in the original “this title”, meaning title VII of div. C of Pub. L. 105–277, Oct. 21, 1998, 112 Stat. 2681–670, which is classified principally to this chapter. For complete classification of title VII to the Code, see Short Title note set out under [section 1701 of this title](./chapter-022-national-drug-control-policy.md#section-1701) and Tables.
 
 #### Amendments
-2019—Pub. L. 116–74, § 2(c)(1)(B)(ii), amended directory language of Pub. L. 115–271, § 8221(a). See 2018 Amendment note below.
+2019—Pub. L. 116–74, § 2(c)(1)(B), amended directory language of Pub. L. 115–271, § 8221(a). See 2018 Amendment note below.
 
 Pub. L. 116–74, § 2(a)(2), substituted “National Drug Control Program agencies” for “National Drug Control Program Agencies” wherever appearing.
 
@@ -1407,7 +1411,7 @@ Subsecs. (c), (d). Pub. L. 109–469, § 202, added subsecs. (c) and (d).
 1998—Pub. L. 105–277, § 715, as amended by Pub. L. 109–469, § 602, which provided for the repeal of this section effective Sept. 30, 2010, was repealed by Pub. L. 115–271, § 8202(b)(2). See former [section 1712 of this title](./chapter-022-national-drug-control-policy.md#section-1712).
 
 #### Effective Date of 2019 Amendment
-Amendment by section 2(c) of Pub. L. 116–74 effective as if included in the enactment of subtitle K of title VIII of Pub. L. 115–271, see section 2(c)(2) of Pub. L. 116–74, set out as a note under [section 1522 of this title](./chapter-020-national-drug-control-program.md#section-1522).
+Amendment by section 2(c)(1)(B) of Pub. L. 116–74 effective as if included in the enactment of subtitle K of title VIII of Pub. L. 115–271, see section 2(c)(2) of Pub. L. 116–74, set out as a note under [section 1522 of this title](./chapter-020-national-drug-control-program.md#section-1522).
 
 #### Requirement for Southwest Border Counternarcotics Strategy
 Pub. L. 109–469, title XI, § 1110, Dec. 29, 2006, 120 Stat. 3543, which directed the Director of National Drug Control Policy to submit to Congress every two years a Southwest Border Counternarcotics Strategy, was repealed by Pub. L. 115–271, title VIII, § 8221(b)(2), Oct. 24, 2018, 132 Stat. 4142. See subsection (c)(3)(B) of this section.
@@ -1938,13 +1942,13 @@ The General Schedule, referred to in subsec. (a), is set out under [section 5332
 
 Pub. L. 116–74, § 2(a)(1), substituted “National Drug Control Program agency” for “National Drug Control Program Agency” wherever appearing.
 
-Subsec. (a). Pub. L. 116–74, § 2(a)(8)(A), in heading inserted “and Continuing” before “Threats”, and in text substituted “For purposes of carrying out the previous sentence, the Director shall designate or appoint an” for “The Director shall determine whether the coordinator position is a noncareer” and “an appointee” for “a career appointee”.
+Subsec. (a). Pub. L. 116–74, § 2(a)(8)(A), in heading, inserted “and Continuing” before “Threats”, and in text, substituted “For purposes of carrying out the previous sentence, the Director shall designate or appoint an” for “The Director shall determine whether the coordinator position is a noncareer” and “an appointee” for “a career appointee”.
 
 Subsec. (d)(3)(F). Pub. L. 116–74, § 2(a)(8)(B)(i), substituted “response to” for “response of”.
 
 Subsec. (d)(4)(B)(iii). Pub. L. 116–74, § 2(a)(8)(B)(ii), inserted “the” before “plan, where”.
 
-Subsec. (f)(1). Pub. L. 116–74, § 2(a)(8)(C), substituted “subsection’ for “chapter”.
+Subsec. (f)(1). Pub. L. 116–74, § 2(a)(8)(C), substituted “subsection” for “chapter”.
 
 2018—Pub. L. 115–271, § 8218(a), amended section generally. Prior to amendment, section related to national youth anti-drug media campaign.
 
@@ -2127,7 +2131,7 @@ Section, Pub. L. 105–277, div. C, title VII, § 710, Oct. 21, 1998, 112 Stat. 
 The General Schedule, referred to in subsec. (a)(1), is set out under [section 5332 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5332&num=0&edition=prelim), Government Organization and Employees.
 
 #### Prior Provisions
-A prior section 711 of Pub. L. 105–277, div. C, title VII, Oct. 21, 1998, 112 Stat. 2681–691; Pub. L. 105–277, div. C, title VII, § 715, Oct. 21, 1998, 2681–693; Pub. L. 109–469, title VI, § 602, Dec. 29, 2006, 120 Stat. 3553, related to drug interdiction, prior to repeal by Pub. L. 115–271, title VIII, § 8219(a), Oct. 24, 2018, 132 Stat. 4132. See 2018 and 2006 Amendment notes below.
+A prior section 711 of Pub. L. 105–277, div. C, title VII, Oct. 21, 1998, 112 Stat. 2681–691; Pub. L. 105–277, div. C, title VII, § 715, Oct. 21, 1998, 112 Stat. 2681–693; Pub. L. 109–469, title VI, § 602, Dec. 29, 2006, 120 Stat. 3553, related to drug interdiction, prior to repeal by Pub. L. 115–271, title VIII, § 8219(a), Oct. 24, 2018, 132 Stat. 4132. See 2018 and 2006 Amendment notes below.
 
 #### Amendments
 2018—Pub. L. 115–271, § 8219(a), repealed Pub. L. 105–277, div. C, title VII, § 711, Oct. 21, 1998, 112 Stat. 2681–691. See 2006 Amendment note below.

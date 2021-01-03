@@ -46,9 +46,9 @@ The purposes of the FFA are—
 
 (6) to seek and promote inclusion and diversity in its membership, leadership, and staff to reflect the belief of the FFA in the value of all human beings;
 
-(7) to create, foster, and assist subsidiary chapters ) 11 So in original. and associations of those chapters in the States, territories, and possessions of the United States as such chapters and associations carry out agricultural education programs that are approved by States, territories, or possessions;
+(7) to create, foster, and assist subsidiary chapters) 11 So in original. and associations of those chapters in the States, territories, and possessions of the United States as such chapters and associations carry out agricultural education programs that are approved by States, territories, or possessions;
 
-(8) to build character, 1 and develop competent and assertive agricultural leadership;
+(8) to build character,1 and develop competent and assertive agricultural leadership;
 
 (9) to increase awareness of the global and technological importance of agriculture, food, and natural resources, and the way agriculture contributes to our well-being;
 
@@ -56,7 +56,7 @@ The purposes of the FFA are—
 
 (11) to make available to State associations, local chapters, and members all official supplies, programs, services, and equipment of the FFA;
 
-(12) to cooperate with others, including State boards and officials for career and technical, in accomplishing these purposes; and
+(12) to cooperate with others, including State boards and officials for career and technical education, in accomplishing these purposes; and
 
 (13) to engage in other activities, consistent with these purposes, determined by the governing body to be for the best interests of the FFA.
 
@@ -212,7 +212,7 @@ In subsection (c), the words “Secretary of Education” and “Department of E
 
 Subsec. (b). Pub. L. 116–7, § 6(4), struck out “, except that—” in introductory provisions and pars. (1) to (3) which related to the national advisor, executive secretary, and treasurer, respectively.
 
-Pub. L. 116–7, § 6(2),(3), redesignated subsec. (c) as (b), and struck out former subsec. (b) which read as follows: “Board of Student Officers.—The national student officers of the corporation comprise a board of student officers. The board of student officers shall advise and make recommendations to the board of directors about the activities and business of the corporation.”
+Pub. L. 116–7, § 6(2), (3), redesignated subsec. (c) as (b) and struck out former subsec. (b) which read as follows: “Board of Student Officers.—The national student officers of the corporation comprise a board of student officers. The board of student officers shall advise and make recommendations to the board of directors about the activities and business of the corporation.”
 
 Subsecs. (c), (d). Pub. L. 116–7, § 6(3), redesignated subsec. (d) as (c). Former subsec. (c) redesignated (b).
 
@@ -293,7 +293,7 @@ Par. (12). Pub. L. 116–7, § 7(8), substituted “FFA” for “corporation”
 <a id="section-70907"></a>
 ## § 70907. Exclusive right to name,11 So in original. Probably should be “names”. seals, emblems, and badges
 
-The FFA and its authorized chapters and associations of chapters have the exclusive right to use the names “Future Farmers of America” and “National FFA Organization, 22 So in original. ” and the initials FFA as representing an agricultural education membership organization and seals, emblems, and badges the FFA adopts.
+The FFA and its authorized chapters and associations of chapters have the exclusive right to use the names “Future Farmers of America” and “National FFA Organization,” 22 So in original. The comma preceding the closing quotation marks probably should not appear. and the initials FFA as representing an agricultural education membership organization and seals, emblems, and badges the FFA adopts.
 
 ### Statutory Notes
 
@@ -305,7 +305,7 @@ The FFA and its authorized chapters and associations of chapters have the exclus
 The words “duly”, “sole”, and “lawfully” are omitted as unnecessary.
 
 #### Amendments
-2019—Pub. L. 116–7 substituted “FFA” for “corporation” in two places, “names” for “name”, and “ ‘Future Farmers of America’ and ‘National FFA Organization,’ ” for “‘Future Farmers of America”’, and inserted “education” before “membership”.
+2019—Pub. L. 116–7 substituted “FFA” for “corporation” in two places, “names” for “name”, and “ ‘Future Farmers of America’ and ‘National FFA Organization,’ ” for “ ‘Future Farmers of America’ ” and inserted “education” before “membership”.
 
 
 <a id="section-70908"></a>
@@ -417,7 +417,7 @@ Subsec. (b). Pub. L. 116–7, § 12(2), substituted “FFA” for “corporation
 
 <a id="section-70912"></a>
 ## § 70912. Service of process
-**(a) In General.—** The FFA shall have a designated agent to receive service of process for the FFA.. 11 So in original. Notice to or service on the agent, or mailed to the business address of the agent, is notice to or service on the FFA.
+**(a) In General.—** The FFA shall have a designated agent to receive service of process for the FFA..11 So in original. Notice to or service on the agent, or mailed to the business address of the agent, is notice to or service on the FFA.
 
 **(b) States, Territories, and Possessions.—** As a condition to the exercise of any power or privilege granted by this chapter, the FFA shall file, with the Secretary of State or other designated official of each State, territory, or possession of the United States in which a subordinate association or chapter of the FFA is organized, the name and address of an agent in that State, territory, or possession on whom legal process or demands against the FFA may be served.
 

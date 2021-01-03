@@ -315,7 +315,7 @@ Amendment by Pub. L. 85–859 effective Sept. 3, 1958, see section 210(a)(1) of 
 
 (4) For purposes of subsection (a)—
 
-  (A) any excess of the sum of the credits allowable under sections 24(d), 25A by reason of subsection (i) thereof, 32, 34, 35, 36, and 11 So in original. 36B, 168(k)(4) 22 See References in Text note below. over the tax imposed by subtitle A (determined without regard to such credits), and
+  (A) any excess of the sum of the credits allowable under sections 24(d), 25A by reason of subsection (i) thereof, 32, 34, 35, 36, 36B, 6428, and 6428A over the tax imposed by subtitle A (determined without regard to such credits), and
 
   (B) any excess of the sum of such credits as shown by the taxpayer on his return over the amount shown as the tax by the taxpayer on such return (determined without regard to such credits),
   shall be taken into account as negative amounts of tax.
@@ -324,10 +324,11 @@ Amendment by Pub. L. 85–859 effective Sept. 3, 1958, see section 210(a)(1) of 
 
 ### Statutory Notes
 
-#### References in Text
-Section 168(k)(4), referred to in subsec. (b)(4)(A), was repealed by Pub. L. 115–97, title I, § 12001(b)(13), Dec. 22, 2017, 131 Stat. 2094.
-
 #### Amendments
+2020—Subsec. (b)(4)(A). Pub. L. 116–260 substituted “6428, and 6428A” for “and 6428”.
+
+Pub. L. 116–136 substituted “36B, and 6428” for “and 36B, 168(k)(4)”.
+
 2018—Subsec. (b)(4)(A). Pub. L. 115–141, § 101(l)(17), substituted “subsection (i)” for “subsection (i)(5)”.
 
 Pub. L. 115–141, § 106(a), substituted “subsection (i)(5)” for “subsection (i)(6)”.
@@ -722,7 +723,7 @@ Pub. L. 105–206, title III, § 3504, July 22, 1998, 112 Stat. 771, provided th
 
   (K) an omission of information required by section 32(k)(2) (relating to taxpayers making improper prior claims of earned income credit) or an entry on the return claiming the credit under section 32 for a taxable year for which the credit is disallowed under subsection (k)(1) thereof,
 
-  (L) the inclusion on a return of a TIN required to be included on the return under section 21, 24, or 32 if—
+  (L) the inclusion on a return of a TIN required to be included on the return under section 21, 24, 32, 6428, or 6428A if—
 
     (i) such TIN is of an individual whose age affects the amount of the credit under such section, and
 
@@ -762,6 +763,10 @@ Section 6230, referred to in subsec. (h)(3), was repealed by Pub. L. 114–74, t
 Pub. L. 113–295, div. A, title II, § 214(a)(2), Dec. 19, 2014, 128 Stat. 4034, which directed that subsec. (g)(2) of this section be amended by striking “and” at the end of subpar. (O), by striking the period at the end of subpar. (P) and inserting “, and”, and by inserting after subpar. (P) a new subpar. (Q), effective as if included in the provisions of Pub. L. 110–185 to which the amendments relate, could not literally be executed insofar as it directed the amendments to subpars. (O) and (P) because subsec. (g)(2), at the time of enactment of Pub. L. 110–185, did not contain subpars. (N) to (P). However, the amendment was considered to be executed by making the conforming amendments to subpars. (O) and (P) as added by sections 11(h) and 12(d) of Pub. L. 111–92, to reflect the probable intent of Congress and to allow for additional amendments by Pub. L. 113–295, which presume that such conforming amendments had taken place. See 2014 Amendment notes below.
 
 #### Amendments
+2020—Subsec. (g)(2)(L). Pub. L. 116–260 substituted “6428, or 6428A” for “or 6428” in introductory provisions.
+
+Pub. L. 116–136 substituted “32, or 6428” for “or 32” in introductory provisions.
+
 2018—Subsec. (g)(2)(O). Pub. L. 115–141, § 401(a)(277), inserted comma at end.
 
 Subsec. (g)(2)(P). Pub. L. 115–141, § 401(a)(278), substituted “section 24(g)(2)” for “section 24(h)(2)” and “subsection (g)(1)” for “subsection (h)(1)”.

@@ -1817,7 +1817,7 @@ Section was formerly classified to [section 15482 of Title 42](https://uscode.ho
 
     (i) *Sharing information in databases* — The chief State election official and the official responsible for the State motor vehicle authority of a State shall enter into an agreement to match information in the database of the statewide voter registration system with information in the database of the motor vehicle authority to the extent required to enable each such official to verify the accuracy of the information provided on applications for voter registration.
 
-    (ii) *Agreements with Commissioner of Social Security* — The official responsible for the State motor vehicle authority shall enter into an agreement with the Commissioner of Social Security under [section 405(r)(8) of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section405/r/8&num=0&edition=prelim) (as added by subparagraph (C)).
+    (ii) *Agreements with Commissioner of Social Security* — The official responsible for the State motor vehicle authority shall enter into an agreement with the Commissioner of Social Security under section 405(r)(8) 11 See References in Text note below. of title 42 (as added by subparagraph (C)).
 
   (C) *Omitted*
 
@@ -1919,6 +1919,8 @@ Section was formerly classified to [section 15482 of Title 42](https://uscode.ho
 
 #### References in Text
 The National Voter Registration Act of 1993, referred to in subsecs. (a)(2)(A)(i), (4)(A) and (b)(5), is Pub. L. 103–31, May 20, 1993, 107 Stat. 77, which is classified principally to chapter 205 (§ 20501 et seq.) of this title. For complete classification of this Act to the Code, see Tables.
+
+Par. (8) of [section 405(r) of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section405/r&num=0&edition=prelim), referred to in subsec. (a)(5)(B)(ii), was redesignated par. (9) of section 405(r) by Pub. L. 116–260, div. FF, title VIII, § 801(a)(4), Dec. 27, 2020, 134 Stat. 3202.
 
 Section 7 of the Privacy Act of 1974, referred to in subsecs. (a)(5)(D) and (c), is section 7 of Pub. L. 93–579, which is set out as a note under [section 552a of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section552a&num=0&edition=prelim), Government Organization and Employees.
 

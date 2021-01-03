@@ -2,7 +2,7 @@
 title: 54
 chapter: '3081'
 heading: Chapter 3081
-section_count: 3
+section_count: 5
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54&num=0&edition=prelim
 ---
@@ -54,7 +54,7 @@ Pub. L. 111–11, title VII, § 7301(a), Mar. 30, 2009, 123 Stat. 1213, provided
 
 **(e) Limitation on Land Use.—** An interest in an eligible site acquired under this section shall be subject to [section 200305(f)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section200305/f/3&num=0&edition=prelim).
 
-**(f) Authorization of Appropriations.—** There is authorized to be appropriated to the Secretary to provide grants under this section $10,000,000 for each of fiscal years 2012 and 2013.
+**(f) Authorization of Appropriations.—** There is authorized to be appropriated to the Secretary to provide grants under this section $18,000,000 for each of fiscal years 2020 through 2028.
 
 ### Statutory Notes
 
@@ -112,3 +112,30 @@ Subsec. (c) of former [section 469k–1 of Title 16](https://uscode.house.gov/vi
 | 308103(d) through (f) | [16 U.S.C. 469k–1(c)(4)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section469k–1/c/4&num=0&edition=prelim) through (6). |  |
 
 In subsection (f), reference to fiscal years 2009 to 2011 is omitted as obsolete.
+
+#### Amendments
+2019—Subsec. (f). Pub. L. 116–94 substituted “$18,000,000 for each of fiscal years 2020 through 2028” for “$10,000,000 for each of fiscal years 2012 and 2013”.
+
+
+<a id="section-308104"></a>
+## § 308104. Battlefield interpretation modernization grant program
+**(a) Establishment.—** The Secretary shall establish a battlefield interpretation modernization grant program under which the Secretary may provide competitive grants to States, Tribes, local governments, and nonprofit organizations for projects and programs that deploy technology to modernize battlefield interpretation and education.
+
+**(b) Eligible Sites.—** The Secretary may make grants under this section for Revolutionary War, War of 1812, and Civil War battlefield sites eligible for assistance under the battlefield acquisition grant program established under section 308103(b).
+
+**(c) Federal Share.—** The Federal share of the cost of a project or program funded through a grant provided under the program established under subsection (a) shall be not more than 50 percent of the total cost of the applicable project or program.
+
+**(d) Authorization of Appropriations.—** There is authorized to be appropriated to the Secretary to provide grants under this section $1,000,000 for each of fiscal years 2020 through 2028.
+
+
+<a id="section-308105"></a>
+## § 308105. Battlefield restoration grant program
+**(a) Establishment.—** The Secretary shall establish a battlefield restoration grant program (referred to in this section as the “program”) under which the Secretary may provide grants to States, Tribes, local governments, and nonprofit organizations for projects that restore day-of-battle conditions on land preserved under the battlefield acquisition grant program established under section 308103(b).
+
+**(b) Eligible Sites.—** The Secretary may make grants under this section for Revolutionary War, War of 1812, and Civil War battlefield sites eligible for assistance under the battlefield acquisition grant program established under section 308103(b).
+
+**(c) Federal Share.—** The Federal share of the cost of a restoration project funded through a grant provided under the program shall be not more than 50 percent of the total cost of the project.
+
+**(d) Restoration Standards.—** All restoration work carried out through a grant awarded under the program shall be performed in accordance with the Secretary of the Interior’s Standards for the Treatment of Historic Properties under part 68 of title 36, Code of Federal Regulations (or successor regulations).
+
+**(e) Authorization of Appropriations.—** There is authorized to be appropriated to the Secretary to provide grants under this section $1,000,000 for each of fiscal years 2020 through 2028.

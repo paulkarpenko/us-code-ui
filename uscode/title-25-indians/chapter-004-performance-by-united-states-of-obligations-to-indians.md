@@ -19,6 +19,7 @@ Section 92, R.S. § 2084, related to purchase of goods by Office of Indian Affai
 #### Procurement Functions
 Effective Jan. 1, 1947, Procurement Division of Department of the Treasury changed to Bureau of Federal Supply by regulation issued by Secretary of the Treasury under authority of [section 301 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section301&num=0&edition=prelim), Government Organization and Employees. Functions of Bureau of Federal Supply transferred to Administrator of General Services by section 102 of act June 30, 1949, ch. 288, title I, 63 Stat. 380, which was repealed and reenacted as [section 303(a) of Title 40](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40-section303/a&num=0&edition=prelim), Public Buildings, Property, and Works, by Pub. L. 107–217, §§ 1, 6(b), Aug. 21, 2002, 116 Stat. 1062, 1304. [Section 303(a) of Title 40](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40-section303/a&num=0&edition=prelim) was amended generally by Pub. L. 109–313, § 2(a)(1), Oct. 6, 2006, 120 Stat. 1734, and, as so amended, no longer relates to the Bureau of Federal Supply. See Historical and Revision Notes and 2006 Amendment note under [section 303 of Title 40](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40-section303&num=0&edition=prelim).
 
+#### Transfer of Functions
 Function of determination of policies and methods of procurement, warehousing, and distribution of property, facilities, structures, improvements, machinery, equipment, stores, and supplies exercised by any agency transferred to a Procurement Division in Department of the Treasury by Ex. Ord. No. 6166, June 10, 1933, set out as a note under [section 901 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section901&num=0&edition=prelim).
 
 
@@ -65,9 +66,10 @@ In all lettings of contracts in connection with the Indian Service, the proposal
 1996—Pub. L. 104–316 substituted a period for “; and an abstract of all bids or proposals received for the supplies or services embraced in any contract shall be attached to, and filed with, the said contract when the same is filed in the office of the Second Comptroller of the Treasury”.
 
 #### Transfer of Functions
-For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out in the Appendix to Title 5, Government Organization and Employees.
-
 Effective Jan. 1, 1947, Procurement Division of Department of the Treasury changed to Bureau of Federal Supply by regulation issued by Secretary of the Treasury under authority of [section 301 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section301&num=0&edition=prelim). Functions of Bureau of Federal Supply transferred to Administrator of General Services by section 102 of act June 30, 1949, ch. 288, title I, 63 Stat. 380, which was repealed and reenacted as [section 303(a) of Title 40](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40-section303/a&num=0&edition=prelim), Public Buildings, Property, and Works, by Pub. L. 107–217, §§ 1, 6(b), Aug. 21, 2002, 116 Stat. 1062, 1304. [Section 303(a) of Title 40](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40-section303/a&num=0&edition=prelim) was amended generally by Pub. L. 109–313, § 2(a)(1), Oct. 6, 2006, 120 Stat. 1734, and, as so amended, no longer relates to the Bureau of Federal Supply. See Historical and Revision Notes and 2006 Amendment note under [section 303 of Title 40](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40-section303&num=0&edition=prelim).
+
+#### Transfer of Functions
+For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out in the Appendix to Title 5, Government Organization and Employees.
 
 Function of determination of policies and methods of procurement, warehousing, and distribution of property, facilities, structures, improvements, machinery, equipment, stores, and supplies exercised by any agency transferred to a Procurement Division in Department of the Treasury by Ex. Ord. No. 6166, June 10, 1933, set out as a note under [section 901 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section901&num=0&edition=prelim), Government Organization and Employees.
 
@@ -94,9 +96,10 @@ The Commissioner of Indian Affairs is authorized to advertise in the spring of e
 ### Statutory Notes
 
 #### Transfer of Functions
-For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out in the Appendix to Title 5, Government Organization and Employees.
-
 Effective Jan. 1, 1947, Procurement Division of Department of the Treasury changed to Bureau of Federal Supply by regulation issued by Secretary of the Treasury under authority of [section 301 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section301&num=0&edition=prelim). Functions of Bureau of Federal Supply transferred to Administrator of General Services by section 102 of act June 30, 1949, ch. 288, title I, 63 Stat. 380, which was repealed and reenacted as [section 303(a) of Title 40](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40-section303/a&num=0&edition=prelim), Public Buildings, Property, and Works, by Pub. L. 107–217, §§ 1, 6(b), Aug. 21, 2002, 116 Stat. 1062, 1304. [Section 303(a) of Title 40](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40-section303/a&num=0&edition=prelim) was amended generally by Pub. L. 109–313, § 2(a)(1), Oct. 6, 2006, 120 Stat. 1734, and, as so amended, no longer relates to the Bureau of Federal Supply. See Historical and Revision Notes and 2006 Amendment note under [section 303 of Title 40](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40-section303&num=0&edition=prelim).
+
+#### Transfer of Functions
+For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out in the Appendix to Title 5, Government Organization and Employees.
 
 Function of determination of policies and methods of procurement, warehousing, and distribution of property, facilities, structures, improvements, machinery, equipment, stores, and supplies exercised by any agency transferred to a Procurement Division in Department of the Treasury by Ex. Ord. No. 6166, June 10, 1933, set out as a note under [section 901 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section901&num=0&edition=prelim), Government Organization and Employees.
 
@@ -119,6 +122,7 @@ All wagon transportation from the point where delivery is made by the last commo
 #### Transfer of Functions
 Effective Jan. 1, 1947, Procurement Division of Department of the Treasury changed to Bureau of Federal Supply by regulation issued by Secretary of the Treasury under authority of [section 301 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section301&num=0&edition=prelim), Government Organization and Employees. Functions of Bureau of Federal Supply transferred to Administrator of General Services by section 102 of act June 30, 1949, ch. 288, title I, 63 Stat. 380, which was repealed and reenacted as [section 303(a) of Title 40](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40-section303/a&num=0&edition=prelim), Public Buildings, Property, and Works, by Pub. L. 107–217, §§ 1, 6(b), Aug. 21, 2002, 116 Stat. 1062, 1304. [Section 303(a) of Title 40](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40-section303/a&num=0&edition=prelim) was amended generally by Pub. L. 109–313, § 2(a)(1), Oct. 6, 2006, 120 Stat. 1734, and, as so amended, no longer relates to the Bureau of Federal Supply. See Historical and Revision Notes and 2006 Amendment note under [section 303 of Title 40](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40-section303&num=0&edition=prelim).
 
+#### Transfer of Functions
 Function of determination of policies and methods of procurement, warehousing, and distribution of property, facilities, structures, improvements, machinery, equipment, stores, and supplies exercised by any agency transferred to a Procurement Division in Department of the Treasury by Ex. Ord. No. 6166, June 10, 1933, set out as a note under [section 901 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section901&num=0&edition=prelim), Government Organization and Employees.
 
 
@@ -130,9 +134,10 @@ The cost of inspection, storage, transportation, and so forth, of coal for the I
 ### Statutory Notes
 
 #### Transfer of Functions
-For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out in the Appendix to Title 5, Government Organization and Employees.
-
 Functions of Archivist transferred to Administrator of General Services by section 104(a) of act June 30, 1949, ch. 288, title I, 63 Stat. 381. See text of, and Historical and Revision Notes under, [section 2102 of Title 44](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section2102&num=0&edition=prelim), Public Printing and Documents. Transfer of functions effective July 1, 1949, see section 605, formerly § 505, of act June 30, 1949, ch. 288, 63 Stat. 403; renumbered Sept. 5, 1950, ch. 849, § 6(a), (b), 64 Stat. 583.
+
+#### Transfer of Functions
+For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out in the Appendix to Title 5, Government Organization and Employees.
 
 
 <a id="section-103"></a>
@@ -151,9 +156,10 @@ The Secretary of the Interior is authorized, whenever it can be done advantageou
 ### Statutory Notes
 
 #### Transfer of Functions
-For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out in the Appendix to Title 5, Government Organization and Employees.
-
 Effective Jan. 1, 1947, Procurement Division of Department of the Treasury changed to Bureau of Federal Supply by regulation issued by Secretary of the Treasury under authority of [section 301 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section301&num=0&edition=prelim), Government Organization and Employees. Functions of Bureau of Federal Supply transferred to Administrator of General Services by section 102 of act June 30, 1949, ch. 288, title I, 63 Stat. 380, which was repealed and reenacted as [section 303(a) of Title 40](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40-section303/a&num=0&edition=prelim), Public Buildings, Property, and Works, by Pub. L. 107–217, §§ 1, 6(b), Aug. 21, 2002, 116 Stat. 1062, 1304. [Section 303(a) of Title 40](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40-section303/a&num=0&edition=prelim) was amended generally by Pub. L. 109–313, § 2(a)(1), Oct. 6, 2006, 120 Stat. 1734, and, as so amended, no longer relates to the Bureau of Federal Supply. See Historical and Revision Notes and 2006 Amendment note under [section 303 of Title 40](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40-section303&num=0&edition=prelim).
+
+#### Transfer of Functions
+For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out in the Appendix to Title 5, Government Organization and Employees.
 
 Function of determination of policies and methods of procurement, warehousing, and distribution of property, facilities, structures, improvements, machinery, equipment, stores, and supplies exercised by any agency transferred to a Procurement Division in Department of the Treasury by Ex. Ord. No. 6166, June 10, 1933, set out as a note under [section 901 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section901&num=0&edition=prelim), Government Organization and Employees.
 
@@ -182,11 +188,11 @@ The superintendent, agent, or subagent, together with such military officer as t
 #### Codification
 R.S. § 2088 derived from act June 30, 1834, ch. 162, § 13, 4 Stat. 737.
 
-#### Transfer of Functions
-For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out in the Appendix to Title 5, Government Organization and Employees.
-
 #### Indian Agents
 The services of Indian agents have been dispensed with. See note set out under [section 64 of this title](./chapter-002-officers-of-indian-affairs.md#section-64).
+
+#### Transfer of Functions
+For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out in the Appendix to Title 5, Government Organization and Employees.
 
 
 <a id="section-113"></a>
@@ -462,16 +468,16 @@ No superintendent of Indian affairs, or Indian agent, or other disbursing office
 #### Codification
 R.S. § 2092 derived from act June 27, 1846, ch. 34, § 1, 9 Stat. 20.
 
-#### Transfer of Functions
-For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out in the Appendix to Title 5, Government Organization and Employees.
-
-Transfer of disbursement functions of all Government agencies with certain exceptions to the Fiscal Service, Treasury Department, see note set out under [section 53 of this title](./chapter-002-officers-of-indian-affairs.md#section-53).
-
 #### Indian Agents
 The services of Indian agents have been dispensed with. See note set out under [section 64 of this title](./chapter-002-officers-of-indian-affairs.md#section-64).
 
 #### Superintendent of Indian Affairs
 No appropriation for any superintendent of Indian affairs has been made since act Mar. 3, 1877, ch. 101, § 1, 19 Stat. 271.
+
+#### Transfer of Functions
+For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out in the Appendix to Title 5, Government Organization and Employees.
+
+Transfer of disbursement functions of all Government agencies with certain exceptions to the Fiscal Service, Treasury Department, see note set out under [section 53 of this title](./chapter-002-officers-of-indian-affairs.md#section-53).
 
 
 <a id="section-132"></a>
@@ -537,11 +543,11 @@ For the purpose of inducing Indians to labor and become self-supporting, it is p
 
 ### Statutory Notes
 
-#### Transfer of Functions
-For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out in the Appendix to Title 5, Government Organization and Employees.
-
 #### Indian Agents
 The services of Indian agents have been dispensed with. See note set out under [section 64 of this title](./chapter-002-officers-of-indian-affairs.md#section-64).
+
+#### Transfer of Functions
+For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out in the Appendix to Title 5, Government Organization and Employees.
 
 
 <a id="section-138"></a>
@@ -618,9 +624,10 @@ The Secretary of the Interior shall cause to be stated annual accounts between t
 ### Statutory Notes
 
 #### Transfer of Functions
-For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out in the Appendix to Title 5, Government Organization and Employees.
-
 “Government Accountability Office” substituted in text for “General Accounting Office” pursuant to section 8(b) of Pub. L. 108–271, set out as a note under [section 702 of Title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section702&num=0&edition=prelim), Money and Finance, which redesignated the General Accounting Office and any references thereto as the Government Accountability Office. Previously, “General Accounting Office” substituted in text for “proper auditor of the Treasury Department” pursuant to act June 10, 1921, which transferred all powers and duties of the Comptroller, six auditors, and certain other employees of the Treasury to the General Accounting Office. See section 701 et seq. of Title 31.
+
+#### Transfer of Functions
+For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out in the Appendix to Title 5, Government Organization and Employees.
 
 
 <a id="section-146"></a>
@@ -633,11 +640,11 @@ Whenever the issue of food, clothing, or supplies of any kind to Indians is prov
 #### Codification
 R.S. § 2109 derived from act Feb. 14, 1873, ch. 138, § 7, 17 Stat. 463, 464.
 
-#### Transfer of Functions
-For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out in the Appendix to Title 5, Government Organization and Employees.
-
 #### Indian Agents
 The services of Indian agents have been dispensed with. See note set out under [section 64 of this title](./chapter-002-officers-of-indian-affairs.md#section-64).
+
+#### Transfer of Functions
+For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out in the Appendix to Title 5, Government Organization and Employees.
 
 
 <a id="section-147"></a>
@@ -662,13 +669,13 @@ Any United States Indian agent, superintendent, or other disbursing agent of the
 #### Codification
 This section is also set out in the last two provisos of [section 372 of this title](./chapter-010-descent-and-distribution-heirs-of-allottee.md#section-372).
 
+#### Indian Agents
+The services of Indian agents have been dispensed with. See note set out under [section 64 of this title](./chapter-002-officers-of-indian-affairs.md#section-64).
+
 #### Transfer of Functions
 For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out in the Appendix to Title 5, Government Organization and Employees.
 
 Transfer of disbursement functions of all Government agencies with certain exceptions to the Fiscal Service, Treasury Department, see note set out under [section 53 of this title](./chapter-002-officers-of-indian-affairs.md#section-53).
-
-#### Indian Agents
-The services of Indian agents have been dispensed with. See note set out under [section 64 of this title](./chapter-002-officers-of-indian-affairs.md#section-64).
 
 
 <a id="section-152"></a>
@@ -814,11 +821,11 @@ The Secretary of the Interior is authorized to deposit, in the Treasury of the U
 
 ### Statutory Notes
 
-#### Transfer of Functions
-For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out in the Appendix to Title 5, Government Organization and Employees.
-
 #### Appropriations
 Section 2 of act June 26, 1934, ch. 756, 48 Stat. 1225, which was classified to section 725a of former Title 31, Money and Finance, repealed the permanent appropriation provided for in the last clause of this section under the title “Interest on Indian trust funds” effective July 1, 1935, and provided that such portions of any Acts as make permanent appropriations to be expended under such account are amended so as to authorize, in lieu thereof, annual appropriations from the general fund of the Treasury in identical terms and in such amounts as now provided by the laws providing such permanent appropriations.
+
+#### Transfer of Functions
+For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out in the Appendix to Title 5, Government Organization and Employees.
 
 
 <a id="section-161a"></a>

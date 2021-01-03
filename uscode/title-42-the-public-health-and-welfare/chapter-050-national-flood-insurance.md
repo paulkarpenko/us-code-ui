@@ -150,9 +150,11 @@ Section was enacted as part of the Biggert-Waters Flood Insurance Reform Act of 
 ## § 4005. Levee certifications
 **(a) Implementation of Flood Protection Structure Accreditation Task Force** In carrying out section 100226 of Public Law 112–141 ([42 U.S.C. 4101](./chapter-050-national-flood-insurance.md#section-4101) note; 126 Stat. 942), the Secretary shall—
 
-(1) ensure that at least 1 program activity carried out under the inspection of completed works program of the Corps of Engineers provides adequate information to the Secretary to reach a levee accreditation decision under section 65.10 of title 44, Code of Federal Regulations (or successor regulation); and
+(1) ensure that at least 1 program activity carried out for levee systems under the levee safety and dam safety programs of the Corps of Engineers provides adequate information to the Secretary to reach a levee accreditation decision under section 65.10 of title 44, Code of Federal Regulations (or successor regulation);
 
-(2) to the maximum extent practicable, carry out activities under the inspection of completed works program of the Corps of Engineers in alignment with the schedule established for the national flood insurance program established under chapter 1 11 So in original. Probably should be “chapter I”. of the National Flood Insurance Act of 1968 ([42 U.S.C. 4011](./chapter-050-national-flood-insurance.md#section-4011) et seq.).
+(2) to the maximum extent practicable, carry out the activities referred to in paragraph (1) in alignment with the schedule established for the national flood insurance program established under chapter I of the National Flood Insurance Act of 1968 ([42 U.S.C. 4011](./chapter-050-national-flood-insurance.md#section-4011) et seq.); and
+
+(3) in the case of a levee system that is operated and maintained by the Corps of Engineers, to the maximum extent practicable, cooperate with local governments seeking a levee accreditation decision for the levee to provide information necessary to support the accreditation decision in a timely manner.
 
 **(b) Accelerated levee system evaluations**
 
@@ -170,6 +172,8 @@ Section was enacted as part of the Biggert-Waters Flood Insurance Reform Act of 
 
   (B) *Cost share* — The Secretary shall apply the cost share under [section 1962d–16(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1962d–16/b&num=0&edition=prelim) to any activities carried out under this subsection.
 
+  (C) *Contributed funds* — Notwithstanding subparagraph (B), a non-Federal interest may fund up to 100 percent of the cost of any activity carried out under this subsection.
+
 ### Statutory Notes
 
 #### References in Text
@@ -177,6 +181,15 @@ The National Flood Insurance Act of 1968, referred to in subsecs. (a)(2) and (b)
 
 #### Codification
 Section was enacted as part of the Water Resources Reform and Development Act of 2014, and not as part of the National Flood Insurance Act of 1968 which comprises this chapter.
+
+#### Amendments
+2020—Subsec. (a)(1). Pub. L. 116–260, § 142(b)(1)(A), substituted “for levee systems under the levee safety and dam safety programs” for “under the inspection of completed works program” and struck out “and” at end.
+
+Subsec. (a)(2). Pub. L. 116–260, § 142(b)(1)(B), substituted “the activities referred to in paragraph (1)” for “activities under the inspection of completed works program of the Corps of Engineers”, “chapter I” for “chapter 1”, and “; and” for period at end.
+
+Subsec. (a)(3). Pub. L. 116–260, § 142(b)(1)(C), added par. (3).
+
+Subsec. (b)(3)(C). Pub. L. 116–260, § 142(b)(2), added subpar. (C).
 
 #### Definition of “Secretary”
 Secretary means the Secretary of the Army, see section 2 of Pub. L. 113–121, set out as a note under [section 2201 of Title 33](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section2201&num=0&edition=prelim), Navigation and Navigable Waters.
@@ -1451,7 +1464,7 @@ Section 100230 of the Biggert-Waters Flood Insurance Reform Act of 2012, referre
 
 <a id="section-4020"></a>
 ## § 4020. Financing
-**(a) Authority to issue notes and other obligations** All authority which was vested in the Housing and Home Finance Administrator by virtue of [section 2414(e) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2414/e&num=0&edition=prelim) (pertaining to the issue of notes or other obligations to the Secretary of the Treasury), as amended by subsections (a) and (b) of section 1303 of this Act, shall be available to the Administrator for the purpose of carrying out the flood insurance program under this chapter; except that the total amount of notes and obligations which may be issued by the Administrator pursuant to such authority (1) without the approval of the President, may not exceed $500,000,000, and (2) with the approval of the President, may not exceed $1,500,000,000 through the date specified in [section 4026 of this title](./chapter-050-national-flood-insurance.md#section-4026), and $1,000,000,000 thereafter; except that, through September 30, 2019, clause (2) of this sentence shall be applied by substituting “$30,425,000,000” for “$1,500,000,000”. The Administrator shall report to the Committee on Banking, Finance and Urban Affairs of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate at any time when he requests the approval of the President in accordance with the preceding sentence.
+**(a) Authority to issue notes and other obligations** All authority which was vested in the Housing and Home Finance Administrator by virtue of [section 2414(e) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2414/e&num=0&edition=prelim) (pertaining to the issue of notes or other obligations to the Secretary of the Treasury), as amended by subsections (a) and (b) of section 1303 of this Act, shall be available to the Administrator for the purpose of carrying out the flood insurance program under this chapter; except that the total amount of notes and obligations which may be issued by the Administrator pursuant to such authority (1) without the approval of the President, may not exceed $500,000,000, and (2) with the approval of the President, may not exceed $1,500,000,000 through the date specified in [section 4026 of this title](./chapter-050-national-flood-insurance.md#section-4026), and $1,000,000,000 thereafter; except that, through September 30, 2021, clause (2) of this sentence shall be applied by substituting “$30,425,000,000” for “$1,500,000,000”. The Administrator shall report to the Committee on Banking, Finance and Urban Affairs of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate at any time when he requests the approval of the President in accordance with the preceding sentence.
 
 **(b) Deposit of borrowed funds** Any funds borrowed by the Administrator under this authority shall, from time to time, be deposited in the National Flood Insurance Fund established under [section 4017 of this title](./chapter-050-national-flood-insurance.md#section-4017).
 
@@ -1479,6 +1492,8 @@ Section 1303 of this Act, referred to in subsec. (a), means section 1303 of Pub.
 This chapter, referred to in subsec. (a), was in the original a reference to “this title” meaning title XIII of Pub. L. 90–448, Aug. 1, 1968, 82 Stat. 572, known as the National Flood Insurance Act of 1968, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 4001 of this title](./chapter-050-national-flood-insurance.md#section-4001) and Tables.
 
 #### Amendments
+2020—Subsec. (a). Pub. L. 116–159 substituted “September 30, 2021” for “September 30, 2019”.
+
 2019—Subsec. (a). Pub. L. 116–20 substituted “September 30, 2019” for “June 14, 2019”.
 
 Pub. L. 116–19 substituted “June 14, 2019” for “May 31, 2019”.
@@ -1543,6 +1558,9 @@ Pub. L. 108–3 substituted “December 31, 2003” for “December 31, 2002”.
 Reference to the Director of the Federal Emergency Management Agency in any law, rule, regulation, certificate, directive, instruction, or other official paper, considered to refer and apply to the Administrator of the Federal Emergency Management Agency, see section 612(f)(2) of Pub. L. 109–295, set out as a note under [section 313 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section313&num=0&edition=prelim), Domestic Security.
 
 Committee on Banking, Finance and Urban Affairs of House of Representatives treated as referring to Committee on Banking and Financial Services of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding [section 21 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section21&num=0&edition=prelim), The Congress. Committee on Banking and Financial Services of House of Representatives abolished and replaced by Committee on Financial Services of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred from Committee on Energy and Commerce of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
+
+#### Effective Date of 2020 Amendment
+Pub. L. 116–159, div. A, § 146(c), Oct. 1, 2020, 134 Stat. 718, provided that: “(1) This section [amending this section and [section 4026 of this title](./chapter-050-national-flood-insurance.md#section-4026)] shall become effective immediately upon enactment of this Act [div. A of Pub. L. 116–159, approved Oct. 1, 2020]. “(2) If this Act is enacted after September 30, 2020, this section shall be applied as if it were in effect on September 30, 2020.”
 
 #### Effective Date of 2019 Amendment
 Pub. L. 116–20, title XII, § 1207(c), June 6, 2019, 133 Stat. 901, provided that: “If this Act is enacted after June 14, 2019 [Pub. L. 116–20 enacted on June 6, 2019], the amendments made by subsections (a) and (b) [amending this section and [section 4026 of this title](./chapter-050-national-flood-insurance.md#section-4026)] shall take effect as if enacted on June 14, 2019.”
@@ -2103,7 +2121,7 @@ Advisory committees in existence on Jan. 5, 1973, to terminate not later than th
 <a id="section-4029"></a>
 ## § 4029. Expiration of program
 
-No new contract for flood insurance under this chapter shall be entered into after September 30, 2019.
+No new contract for flood insurance under this chapter shall be entered into after September 30, 2021.
 
 ### Statutory Notes
 
@@ -2111,6 +2129,8 @@ No new contract for flood insurance under this chapter shall be entered into aft
 This chapter, referred to in text, was in the original a reference to “this title” meaning title XIII of Pub. L. 90–448, Aug. 1, 1968, 82 Stat. 572, known as the National Flood Insurance Act of 1968, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 4001 of this title](./chapter-050-national-flood-insurance.md#section-4001) and Tables.
 
 #### Amendments
+2020—Pub. L. 116–159 substituted “September 30, 2021” for “September 30, 2019”.
+
 2019—Pub. L. 116–20 substituted “September 30, 2019” for “June 14, 2019”.
 
 Pub. L. 116–19 substituted “June 14, 2019” for “May 31, 2019”.
@@ -2213,6 +2233,9 @@ Pub. L. 93–38 substituted “$6,000,000,000” for “$4,000,000,000”.
 
 Pub. L. 93–4 substituted “$4,000,000,000” for “$2,500,000,000”.
 
+#### Effective Date of 2020 Amendment
+Amendment by Pub. L. 116–159 effective immediately upon enactment (Oct. 1, 2020), and applicable as if it were in effect on Sept. 30, 2020, see section 146(c) of Pub. L. 116–159, set out as a note under [section 4016 of this title](./chapter-050-national-flood-insurance.md#section-4016).
+
 #### Effective Date of 2018 Amendment
 Amendment by Pub. L. 115–396 effective as if enacted on Dec. 7, 2018, see section 2(c) of Pub. L. 115–396, set out as a note under [section 4016 of this title](./chapter-050-national-flood-insurance.md#section-4016).
 
@@ -2237,6 +2260,8 @@ Amendment by Pub. L. 97–35 effective Oct. 1, 1981, see section 371 of Pub. L. 
 Section effective 120 days following Aug. 1, 1968, or such later date prescribed by the Secretary but in no event more than 180 days following Aug. 1, 1968, see section 1377 of Pub. L. 90–448, set out as a note under [section 4001 of this title](./chapter-050-national-flood-insurance.md#section-4001).
 
 #### Extension of Program
+Pub. L. 116–94, div. I, title II, § 201, Dec. 20, 2019, 133 Stat. 3019, provided that: “Sections 1309(a) and 1319 of the National Flood Insurance Act of 1968 ([42 U.S.C. 4016(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4016/a&num=0&edition=prelim) and 4026) shall be applied by substituting ‘September 30, 2020’ for ‘September 30, 2019’.”
+
 Pub. L. 115–141, div. M, title III, § 301, Mar. 23, 2018, 132 Stat. 1049, provided that: “Sections 1309(a) and 1319 of the National Flood Insurance Act of 1968 ([42 U.S.C. 4016(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4016/a&num=0&edition=prelim) and 4026) shall be applied by substituting ‘July 31, 2018’ for ‘September 30, 2017’.”
 
 Pub. L. 110–329, div. A, § 145, Sept. 30, 2008, 122 Stat. 3581, as amended by Pub. L. 111–8, div. J, § 101, Mar. 11, 2009, 123 Stat. 988, provided that sections 1309(a) and 1319 of the National Flood Insurance Act of 1968 ([42 U.S.C. 4016(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4016/a&num=0&edition=prelim) and 4026) should each be applied by substituting “September 30, 2009” for “September 30, 2008”.
@@ -2842,7 +2867,7 @@ The expiration date of Oct. 23, 1997 (see 1997 Amendment note above) was tempora
 
 (2) **COASTAL Formula** — The term “COASTAL Formula” means the formula established under subsection (b).
 
-(3) **Coastal State** — The term “coastal State” has the meaning given the term “coastal state” in [section 1453 of title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1453&num=0&edition=prelim).
+(3) **Coastal State** — The term “coastal State” has the meaning given the term “coastal state” in [section 1453 of title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1453&num=0&edition=prelim), except that the term shall not apply with respect to a State or territory that has an operational wind and flood loss allocation system.
 
 (4) **Indeterminate loss**
 
@@ -2854,7 +2879,7 @@ The expiration date of Oct. 23, 1997 (see 1997 Amendment note above) was tempora
 
     (ii) there is insufficient or no tangible evidence created, yielded, or otherwise left behind of the specific property for which the claim is made as a result of the named storm.
 
-(5) **Named storm** — The term “named storm” means any organized weather system with a defined surface circulation and maximum winds of not less than 39 miles per hour which the National Hurricane Center of the United States National Weather Service names as a tropical storm or a hurricane.
+(5) **Named storm** — The term “named storm” means any organized weather system with a defined surface circulation and maximum sustained winds of not less than 39 miles per hour which the National Hurricane Center of the United States National Weather Service names as a tropical storm or a hurricane.
 
 (6) **Post-storm assessment** — The term “post-storm assessment” means the post-storm assessment developed under [section 3611(b) of title 33](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section3611/b&num=0&edition=prelim).
 
@@ -2870,13 +2895,13 @@ The expiration date of Oct. 23, 1997 (see 1997 Amendment note above) was tempora
 
 **(b) Establishment of flood loss allocation formula for indeterminate claims**
 
-(1) **In general** — Not later than 180 days after the date on which the protocol is established under [section 3611(c)(1) of title 33](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section3611/c/1&num=0&edition=prelim), the Secretary, acting through the Administrator and in consultation with the Under Secretary, shall establish by rule a standard formula to determine and allocate wind losses and flood losses for claims involving indeterminate losses.
+(1) **In general** — Not later than 180 days after the date on which the protocol is established under [section 3611(c)(1) of title 33](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section3611/c/1&num=0&edition=prelim), the Secretary, acting through the Administrator and in consultation with the Under Secretary, shall publish for comment in the Federal Register a standard formula to determine and allocate wind losses and flood losses for claims involving indeterminate losses.
 
 (2) **Contents** — The standard formula established under paragraph (1) shall—
 
   (A) incorporate data available from the Coastal Wind and Water Event Database established under [section 3611(f) of title 33](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section3611/f&num=0&edition=prelim);
 
-  (B) use relevant data provided on the National Flood Insurance Program Elevation Certificate for each indeterminate loss for which the formula is used;
+  (B) use relevant data provided on the National Flood Insurance Program Elevation Certificate, or other data or information used to determine a property’s current risk of flood, as determined by the Administrator, for each indeterminate loss for which the formula is used;
 
   (C) consider any sufficient and credible evidence, approved by the Administrator, of the pre-event condition of a specific property, including the findings of any policyholder or insurance claims adjuster in connection with the indeterminate loss to that specific property;
 
@@ -2904,7 +2929,7 @@ The expiration date of Oct. 23, 1997 (see 1997 Amendment note above) was tempora
 
   (A) *Evaluation required*
 
-    (i) *Evaluation* — Upon the issuance of the rule establishing the COASTAL Formula, and each time the Administrator modifies the COASTAL Formula, the National Academy of Sciences shall—
+    (i) *Evaluation* — Upon publication of the COASTAL Formula in the Federal Register as required by subsection (b)(1), and each time the Administrator modifies the COASTAL Formula, the National Academy of Sciences shall—
 
       (I) evaluate the expected financial impact on the national flood insurance program of the use of the COASTAL Formula as so established or modified; and
 
@@ -2920,7 +2945,7 @@ The expiration date of Oct. 23, 1997 (see 1997 Amendment note above) was tempora
 
   (C) *Funding* — Notwithstanding [section 4017 of this title](./chapter-050-national-flood-insurance.md#section-4017), there shall be available to the Administrator from the National Flood Insurance Fund, of amounts not otherwise obligated, not more than $750,000 to carry out this paragraph.
 
-**(d) Disclosure of COASTAL Formula** Not later than 30 days after the date on which a post-storm assessment is submitted to the Secretary under [section 3611(b)(2)(C) of title 33](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section3611/b/2/C&num=0&edition=prelim), for each indeterminate loss for which the COASTAL Formula is used pursuant to subsection (c)(2), the Administrator shall disclose to the policyholder that makes a claim relating to the indeterminate loss—
+**(d) Disclosure of COASTAL Formula** Not later than 30 days after the date on which a post-storm assessment is submitted to the Secretary under [section 3611(b)(2)(E) of title 33](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section3611/b/2/E&num=0&edition=prelim), for each indeterminate loss for which the COASTAL Formula is used pursuant to subsection (c)(2), the Administrator shall disclose to the policyholder that makes a claim relating to the indeterminate loss—
 
 (1) that the Administrator used the COASTAL Formula with respect to the indeterminate loss; and
 
@@ -2950,11 +2975,34 @@ The expiration date of Oct. 23, 1997 (see 1997 Amendment note above) was tempora
 
 (2) **Deposit** — Notwithstanding [section 3302 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section3302&num=0&edition=prelim) or any other law relating to the crediting of money, the Administrator shall deposit in the National Flood Insurance Fund any amounts received under this subsection, which shall remain available until expended and be available to the Administrator for purposes authorized for the National Flood Insurance Fund without further appropriation.
 
-**(h) Rule of construction** Nothing in this subsection 33 So in original. Probably should be “this section”. shall be construed to require the Administrator to make any payment under the national flood insurance program, or an insurance company to make any payment, for an indeterminate loss based upon post-storm assessment or the COASTAL Formula.
+**(h) Rule of construction** Nothing in this subsection 33 So in original. Probably should be “this section”. shall be construed to require the Administrator to make any payment under the national flood insurance program, or an insurance company that issues a standard flood insurance policy under the national flood insurance program to make any payment, for an indeterminate loss based upon post-storm assessment, the COASTAL Formula, or any other loss allocation or post-storm assessment arising under the laws or ordinances of any State.
 
-**(i) Applicability** Subsection (c) shall apply with respect to an indeterminate loss associated with a named storm that occurs after the date on which the Administrator issues the rule establishing the COASTAL Formula under subsection (b).
+**(i) Applicability** Subsection (c) shall apply with respect to an indeterminate loss associated with a named storm that occurs 60 days after publication of the COASTAL Formula in the Federal Register as required by subsection (b)(1).
 
 **(j) Rule of Construction** Nothing in this subsection 3 shall be construed to negate, set aside, or void any policy limit, including any loss limitation, set forth in a standard insurance policy.
+
+**(k) Rule of construction** Nothing in this section shall be construed to create a cause of action under this chapter.
+
+### Statutory Notes
+
+#### Amendments
+2020—Subsec. (a)(3). Pub. L. 116–271, § 201(b)(1)(A), inserted “, except that the term shall not apply with respect to a State or territory that has an operational wind and flood loss allocation system” before period at end.
+
+Subsec. (a)(5). Pub. L. 116–271, § 201(b)(1)(B), inserted “sustained” after “maximum”.
+
+Subsec. (b)(1). Pub. L. 116–271, § 201(b)(2)(A), substituted “publish for comment in the Federal Register” for “establish by rule”.
+
+Subsec. (b)(2)(B). Pub. L. 116–271, § 201(b)(2)(B), inserted “, or other data or information used to determine a property’s current risk of flood, as determined by the Administrator,” after “Elevation Certificate”.
+
+Subsec. (c)(3)(A)(i). Pub. L. 116–271, § 201(b)(3), substituted “publication of the COASTAL Formula in the Federal Register as required by subsection (b)(1)” for “the issuance of the rule establishing the COASTAL Formula”.
+
+Subsec. (d). Pub. L. 116–271, § 201(b)(4), substituted “section 3611(b)(2)(E)” for “section 3611(b)(2)(C)”.
+
+Subsec. (h). Pub. L. 116–271, § 201(b)(5), inserted “that issues a standard flood insurance policy under the national flood insurance program” after “company” and substituted “, the COASTAL Formula, or any other loss allocation or post-storm assessment arising under the laws or ordinances of any State” for “or the COASTAL Formula”.
+
+Subsec. (i). Pub. L. 116–271, § 201(b)(6), substituted “60 days after publication of the COASTAL Formula in the Federal Register as required by subsection (b)(1)” for “after the date on which the Administrator issues the rule establishing the COASTAL Formula under subsection (b)”.
+
+Subsec. (k). Pub. L. 116–271, § 201(b)(7), added subsec. (k).
 
 
 <a id="section-4101"></a>

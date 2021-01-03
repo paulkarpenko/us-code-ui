@@ -27,9 +27,6 @@ Pub. L. 101–576, title I, § 101, Nov. 15, 1990, 104 Stat. 2838, provided that
 #### Transfer of Functions
 Pub. L. 104–53, title II, § 211, Nov. 19, 1995, 109 Stat. 535, as amended by Pub. L. 104–316, title II, § 203, Oct. 19, 1996, 110 Stat. 3845, provided that: “Personnel transferred pursuant to this section, as in effect immediately before the effective date of section 303 [203] of the General Accounting Office Act of 1996 [Pub. L. 104–316, Oct. 19, 1996], shall not be separated or reduced in classification or compensation for one year after any such transfer, except for cause.”
 
-#### Emergency Preparedness Functions
-For assignment of certain emergency preparedness functions to Director of the Office of Management and Budget, see Parts 1, 2, and 28 of Ex. Ord. No. 12656, Nov. 18, 1988, 53 F.R. 47491, set out as a note under [section 5195 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5195&num=0&edition=prelim), The Public Health and Welfare.
-
 #### Disaster Relief Funding Guidance
 Pub. L. 115–123, div. B, title XII, § 21206(c), Feb. 9, 2018, 132 Stat. 108, provided that: “In order to proactively prepare for oversight of future disaster relief funding, not later than one year after the date of enactment of this Act [Feb. 9, 2018], the Director of the Office of Management and Budget shall issue standard guidance for Federal agencies to use in designing internal control plans for disaster relief funding. This guidance shall leverage existing internal control review processes and shall include, at a minimum, the following elements: “(1) Robust criteria for identifying and documenting incremental risks and mitigating controls related to the funding. “(2) Guidance for documenting the linkage between the incremental risks related to disaster funding and efforts to address known internal control risks.”
 
@@ -125,9 +122,13 @@ Pub. L. 110–161, div. E, title V, § 524, Dec. 26, 2007, 121 Stat. 2074.
 
 Pub. L. 109–295, title V, § 526, Oct. 4, 2006, 120 Stat. 1382.
 
-Pub. L. 116–6, div. A, title V, § 504, Feb. 15, 2019, 133 Stat. 38, provided that: “Section 504 of the Department of Homeland Security Appropriations Act, 2017 (division F of Public Law 115–31)[set out above], related to the operations of a working capital fund, shall apply with respect to funds made available in this Act [div. A of Pub. L. 116–6; see Tables for classification] in the same manner as such section applied to funds made available in that Act.”
+Pub. L. 116–260, div. F, title V, § 504, Dec. 27, 2020, 134 Stat. 1469, provided that: “Section 504 of the Department of Homeland Security Appropriations Act, 2017 (division F of Public Law 115–31) [set out above], related to the operations of a working capital fund, shall apply with respect to funds made available in this Act [div. F of Pub. L. 116–260; see Tables for classification] in the same manner as such section applied to funds made available in that Act: Provided, That funds from such working capital fund may be obligated and expended in anticipation of reimbursements from components of the Department of Homeland Security.”
 
 Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 116–93, div. D, title V, § 504, Dec. 20, 2019, 133 Stat. 2526.
+
+Pub. L. 116–6, div. A, title V, § 504, Feb. 15, 2019, 133 Stat. 38.
 
 Pub. L. 115–141, div. F, title V, § 504, Mar. 23, 2018, 132 Stat. 626.
 
@@ -160,6 +161,9 @@ Pub. L. 101–576, title I, § 102, Nov. 15, 1990, 104 Stat. 2838, provided that
 
 #### Duties and Functions of Department of the Treasury
 Pub. L. 101–576, title II, § 204, Nov. 15, 1990, 104 Stat. 2842, provided that: “Nothing in this Act [see Short Title of 1990 Amendment note above] shall be construed to interfere with the exercise of the functions, duties, and responsibilities of the Department of the Treasury, as in effect immediately before the enactment of this Act [Nov. 15, 1990].”
+
+#### Emergency Preparedness Functions
+For assignment of certain emergency preparedness functions to Director of the Office of Management and Budget, see Parts 1, 2, and 28 of Ex. Ord. No. 12656, Nov. 18, 1988, 53 F.R. 47491, set out as a note under [section 5195 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5195&num=0&edition=prelim), The Public Health and Welfare.
 
 #### Eff. July 1, 1970, 35 F.R. 7959, 84 Stat. 2085, as amended Pub. L. 97–258, § 5(b), Sept. 13, 1982, 96 Stat. 1068, 1085
 Prepared by the President and Transmitted to the Senate and the House of Representatives in Congress Assembled March 12, 1970, Pursuant to the Provisions of Chapter 9 of Title 5 of the United States Code.

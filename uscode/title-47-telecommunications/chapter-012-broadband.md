@@ -2,7 +2,7 @@
 title: 47
 chapter: '12'
 heading: BROADBAND
-section_count: 5
+section_count: 8
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title47&num=0&edition=prelim
 ---
@@ -23,6 +23,9 @@ The Congress finds the following:
 
 #### Short Title
 Pub. L. 110–385, title I, § 101, Oct. 10, 2008, 122 Stat. 4096, provided that: “This title [enacting this chapter and amending [section 1302 of this title](./chapter-012-broadband.md#section-1302)] may be cited as the ‘Broadband Data Improvement Act’.”
+
+#### Benefit for Broadband Service During Emergency Period Relating to COVID–19
+Pub. L. 116–260, div. N, title IX, § 904, Dec. 27, 2020, 134 Stat. 2129, provided that: “(a) Definitions.—In this section:“(1) Broadband internet access service.—The term ‘broadband internet access service’ has the meaning given such term in section 8.1(b) of title 47, Code of Federal Regulations, or any successor regulation. “(2) Broadband provider.—The term ‘broadband provider’ means a provider of broadband internet access service. “(3) Commission.—The term ‘Commission’ means the Federal Communications Commission. “(4) Connected device.—The term ‘connected device’ means a laptop or desktop computer or a tablet. “(5) Designated as an eligible telecommunications carrier.—The term ‘designated as an eligible telecommunications carrier’, with respect to a broadband provider, means the broadband provider is designated as an eligible telecommunications carrier under section 214(e) of the Communications Act of 1934 ([47 U.S.C. 214(e)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title47-section214/e&num=0&edition=prelim)). “(6) Eligible household.—The term ‘eligible household’ means, regardless of whether the household or any member of the household receives support under subpart E of part 54 of title 47, Code of Federal Regulations (or any successor regulation), and regardless of whether any member of the household has any past or present arrearages with a broadband provider, a household in which—“(A) at least one member of the household meets the qualifications in subsection (a) or (b) of section 54.409 of title 47, Code of Federal Regulations (or any successor regulation); “(B) at least one member of the household has applied for and been approved to receive benefits under the free and reduced price lunch program under the Richard B. Russell National School Lunch Act ([42 U.S.C. 1751](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1751&num=0&edition=prelim) et seq.) or the school breakfast program under section 4 of the Child Nutrition Act of 1966 ([42 U.S.C. 1773](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1773&num=0&edition=prelim)); “(C) at least one member of the household has experienced a substantial loss of income since February 29, 2020, that is documented by layoff or furlough notice, application for unemployment insurance benefits, or similar documentation or that is otherwise verifiable through the National Verifier or National Lifeline Accountability Database; “(D) at least one member of the household has received a Federal Pell Grant under section 401 of the Higher Education Act of 1965 ([20 U.S.C. 1070a](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1070a&num=0&edition=prelim)) in the current award year, if such award is verifiable through the National Verifier or National Lifeline Accountability Database or the participating provider verifies eligibility under subsection (a)(2)(B); or “(E) at least one member of the household meets the eligibility criteria for a participating provider’s existing low-income or COVID–19 program, subject to the requirements of subsection (a)(2)(B) and any other eligibility requirements the Commission may consider necessary for the public interest. “(7) Emergency broadband benefit.—The term ‘emergency broadband benefit’ means a monthly discount for an eligible household applied to the actual amount charged to such household, which shall be no more than the standard rate for an internet service offering and associated equipment, in an amount equal to such amount charged, but not more than $50, or, if an internet service offering is provided to an eligible household on Tribal land, not more than $75. “(8) Emergency period.—The term ‘emergency period’ means the period that—“(A) begins on the date of the enactment of this Act [Dec. 27, 2020]; and “(B) ends on the date that is 6 months after the date on which the determination by the Secretary of Health and Human Services pursuant to section 319 of the Public Health Service Act ([42 U.S.C. 247d](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section247d&num=0&edition=prelim)) that a public health emergency exists as a result of COVID–19, including any renewal thereof, terminates. “(9) Internet service offering.—The term ‘internet service offering’ means, with respect to a broadband provider, broadband internet access service provided by such provider to a household, offered in the same manner, and on the same terms, as described in any of such provider’s offerings for broadband internet access service to such household, as on December 1, 2020. “(10) National lifeline accountability database.—The term ‘National Lifeline Accountability Database’ has the meaning given such term in section 54.400 of title 47, Code of Federal Regulations (or any successor regulation). “(11) National verifier.—The term ‘National Verifier’ has the meaning given such term in section 54.400 of title 47, Code of Federal Regulations, or any successor regulation. “(12) Participating provider.—The term ‘participating provider’ means a broadband provider that—“(A)(i) is designated as an eligible telecommunications carrier; or “(ii) meets requirements established by the Commission for participation in the Emergency Broadband Benefit Program and is approved by the Commission under subsection (d)(2); and “(B) elects to participate in the Emergency Broadband Benefit Program. “(13) Standard rate.—The term ‘standard rate’ means the monthly retail rate for the applicable tier of broadband internet access service as of December 1, 2020, excluding any taxes or other governmental fees. “(b) Emergency Broadband Benefit Program.—“(1) Establishment.—The Commission shall establish a program, to be known as the ‘Emergency Broadband Benefit Program’, under which the Commission shall, in accordance with this section, reimburse, using funds from the Emergency Broadband Connectivity Fund established in subsection (i), a participating provider for an emergency broadband benefit, or an emergency broadband benefit and a connected device, provided to an eligible household during the emergency period. “(2) Verification of eligibility.—To verify whether a household is an eligible household, a participating provider shall—“(A) use the National Verifier or National Lifeline Accountability Database; “(B) rely upon an alternative verification process of the participating provider, if—“(i) the participating provider submits information as required by the Commission regarding the alternative verification process prior to seeking reimbursement; and “(ii) not later than 7 days after receiving the information required under clause (i), the Commission— “(I) determines that the alternative verification process will be sufficient to avoid waste, fraud, and abuse; and “(II) notifies the participating provider of the determination under subclause (I); or “(C) rely on a school to verify the eligibility of a household based on the participation of the household in the free and reduced price lunch program or the school breakfast program described in subsection (a)(6)(B). “(3) Use of national verifier and national lifeline accountability database.—The Commission shall—“(A) expedite the ability of all participating providers to access the National Verifier and National Lifeline Accountability Database for purposes of determining whether a household is an eligible household, without regard to whether a participating provider is designated as an eligible telecommunications carrier; and “(B) ensure that the National Verifier and National Lifeline Accountability Database approve an eligible household to receive the emergency broadband benefit not later than 2 days after the date of the submission of information necessary to determine if such household is an eligible household. “(4) Reimbursement.—From the Emergency Broadband Connectivity Fund established in subsection (i), the Commission shall reimburse a participating provider in an amount equal to the emergency broadband benefit with respect to an eligible household that receives such benefit from such participating provider during the emergency period. “(5) Reimbursement for connected device.—A participating provider that, during the emergency period, in addition to providing the emergency broadband benefit to an eligible household, supplies such household with a connected device may be reimbursed up to $100 from the Emergency Broadband Connectivity Fund established in subsection (i) for such connected device, if the charge to such eligible household is more than $10 but less than $50 for such connected device, except that a participating provider may receive reimbursement for no more than 1 connected device per eligible household. “(6) Certification required.—To receive a reimbursement under paragraph (4) or (5), a participating provider shall certify to the Commission the following:“(A) That the amount for which the participating provider is seeking reimbursement from the Emergency Broadband Connectivity Fund established in subsection (i) for providing an internet service offering to an eligible household is not more than the standard rate. “(B) That each eligible household for which the participating provider is seeking reimbursement for providing an internet service offering discounted by the emergency broadband benefit—“(i) has not been and will not be charged— “(I) for such offering, if the standard rate for such offering is less than or equal to the amount of the emergency broadband benefit for such household; or “(II) more for such offering than the difference between the standard rate for such offering and the amount of the emergency broadband benefit for such household; “(ii) will not be required to pay an early termination fee if such eligible household elects to enter into a contract to receive such internet service offering if such household later terminates such contract; “(iii) was not, after the date of the enactment of this Act, subject to a mandatory waiting period for such internet service offering based on having previously received broadband internet access service from such participating provider; and “(iv) will otherwise be subject to the participating provider’s generally applicable terms and conditions as applied to other customers. “(C) That each eligible household for which the participating provider is seeking reimbursement for supplying such household with a connected device has not been and will not be charged $10 or less or $50 or more for such device. “(D) A description of the process used by the participating provider to verify that a household is an eligible household, if the provider elects an alternative verification process under paragraph (2)(B), and that such verification process was designed to avoid waste, fraud, and abuse. “(7) Audit requirements.—The Commission shall adopt audit requirements to ensure that participating providers are in compliance with the requirements of this section and to prevent waste, fraud, and abuse in the Emergency Broadband Benefit Program. A finding of waste, fraud, or abuse or an improper payment (as such term is defined in [former] section 2(d) of the Improper Payments Information Act of 2002 [Pub. L. 107–300] ([former] [31 U.S.C. 3321](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section3321&num=0&edition=prelim) note [see now [31 U.S.C. 3351(4)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section3351/4&num=0&edition=prelim)])) identified by the Commission or the Inspector General of the Commission shall include the following:“(A) The name of the participating provider. “(B) The amount of funding made available from the Emergency Broadband Connectivity Fund to the participating provider. “(C) The amount of funding determined to be an improper payment to a participating provider. “(D) A description of to what extent funding made available from the Emergency Broadband Connectivity Fund that was an improper payment was used for a reimbursement for a connected device or a reimbursement for an internet service offering. “(E) Whether, in the case of a connected device, such device, or the value thereof, has been recovered. “(F) Whether any funding from the Emergency Broadband Connectivity Fund was made available to a participating provider for an emergency broadband benefit for a person outside the eligible household. “(G) Whether any funding from the Emergency Broadband Connectivity Fund was made available to reimburse a participating provider for an emergency broadband benefit made available to an eligible household in which all members of such household necessary to satisfy the eligibility requirements described in subsection (a)(6) were deceased. “(8) Random audit required.—Not later than 1 year after the date of the enactment of this Act, the Inspector General of the Commission shall conduct an audit of a representative sample of participating providers receiving reimbursements under the Emergency Broadband Benefit Program. “(9) Notification of audit findings.—Not later than 7 days after a finding made by the Commission under the requirements of paragraph (7), the Commission shall notify the Committee on Energy and Commerce of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate with any information described in such paragraph that the Commission has obtained. “(10) Expiration of program.—At the conclusion of the Emergency Broadband Benefit Program, any participating eligible households shall be subject to a participating provider’s generally applicable terms and conditions. “(c) Regulations Required.—“(1) In general.—Not later than 60 days after the date of the enactment of this Act [Dec. 27, 2020], the Commission shall promulgate regulations to implement this section. “(2) Comment periods.—As part of the rulemaking under paragraph (1), the Commission shall—“(A) provide a 20-day public comment period that begins not later than 5 days after the date of the enactment of this Act; “(B) provide a 20-day public reply comment period that immediately follows the period under subparagraph (A); and “(C) during the comment periods under subparagraphs (A) and (B), seek comment on—“(i) the provision of assistance from the Emergency Broadband Connectivity Fund established in subsection (i) consistent with this section; and “(ii) other related matters. “(d) Eligibility of Providers.—“(1) Relation to eligible telecommunications carrier designation.—The Commission may not require a broadband provider to be designated as an eligible telecommunications carrier in order to be a participating provider. “(2) Expedited approval process.—“(A) In general.—The Commission shall establish an expedited process by which the Commission approves as participating providers broadband providers that are not designated as eligible telecommunications carriers and elect to participate in the Emergency Broadband Benefit Program. “(B) Exception.—Notwithstanding subparagraph (A), the Commission shall automatically approve as a participating provider a broadband provider that has an established program as of April 1, 2020, that is widely available and offers internet service offerings to eligible households and maintains verification processes that are sufficient to avoid fraud, waste, and abuse. “(e) Rule of Construction.—Nothing in this section shall affect the collection, distribution, or administration of the Lifeline Assistance Program governed by the rules set forth in subpart E of part 54 of title 47, Code of Federal Regulations (or any successor regulation). “(f) Part 54 Regulations.—Nothing in this section shall be construed to prevent the Commission from providing that the regulations in part 54 of title 47, Code of Federal Regulations, or any successor regulation, shall apply in whole or in part to the Emergency Broadband Benefit Program, shall not apply in whole or in part to such Program, or shall be modified in whole or in part for purposes of application to such Program. “(g) Enforcement.—A violation of this section or a regulation promulgated under this section shall be treated as a violation of the Communications Act of 1934 ([47 U.S.C. 151](./chapter-005-wire-or-radio-communication.md#section-151) et seq.) or a regulation promulgated under such Act. The Commission shall enforce this section and the regulations promulgated under this section in the same manner, by the same means, and with the same jurisdiction, powers, and duties as though all applicable terms and provisions of the Communications Act of 1934 were incorporated into and made a part of this section. “(h) Exemptions.—“(1) Certain rulemaking requirements.—[Section 553 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section553&num=0&edition=prelim), United States Code, shall not apply to a regulation promulgated under subsection (c) or a rulemaking proceeding to promulgate such a regulation. “(2) Paperwork reduction act requirements.—A collection of information conducted or sponsored under the regulations required by subsection (c) shall not constitute a collection of information for the purposes of subchapter I of chapter 35 of title 44, United States Code (commonly referred to as the Paperwork Reduction Act). “(i) Emergency Broadband Connectivity Fund.—“(1) Establishment.—There is established in the Treasury of the United States a fund to be known as the Emergency Broadband Connectivity Fund. “(2) Appropriation.—There is appropriated to the Emergency Broadband Connectivity Fund, out of any money in the Treasury not otherwise appropriated, $3,200,000,000 for fiscal year 2021, to remain available until expended. “(3) Use of funds.—Amounts in the Emergency Broadband Connectivity Fund shall be available to the Commission for reimbursements to participating providers under this section, and the Commission may use not more than 2 percent of such amounts to administer the Emergency Broadband Benefit Program. “(4) Relationship to universal service contributions.—Reimbursements provided under this section shall be provided from amounts made available under this subsection and not from contributions under section 254(d) of the Communications Act of 1934 ([47 U.S.C. 254(d)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title47-section254/d&num=0&edition=prelim)). “(5) Use of universal service administrative company permitted.—The Commission shall have the authority to avail itself of the services of the Universal Service Administrative Company to implement the Emergency Broadband Benefit Program, including developing and processing reimbursements and distributing funds to participating providers. “(j) Safe Harbor.—The Commission may not enforce a violation of this section under section 501, 502, or 503 of the Communications Act of 1934 ([47 U.S.C. 501](./chapter-005-wire-or-radio-communication.md#section-501); 502; 503), or any rules of the Commission promulgated under such sections of such Act, if a participating provider demonstrates to the Commission that such provider relied in good faith on information provided to such provider to make the verification required by subsection (b)(2).”
 
 #### Tribal Digital Access
 Pub. L. 115–141, div. P, title V, § 508, Mar. 23, 2018, 132 Stat. 1095, provided that: “(a) Tribal Broadband Data Report.—“(1) In general.—Not later than 1 year after the date of the enactment of this Act [Mar. 23, 2018], the Commission [Federal Communications Commission] shall submit to the Committee on Energy and Commerce of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a report evaluating broadband coverage in Indian country (as defined in [section 1151 of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section1151&num=0&edition=prelim), United States Code) and on land held by a Native Corporation pursuant to the Alaska Native Claims Settlement Act [[43 U.S.C. 1601](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1601&num=0&edition=prelim) et seq.]. “(2) Required assessments.—The report required by paragraph (1) shall include the following:“(A) An assessment of areas of Indian country (as so defined) and land held by a Native Corporation pursuant to the Alaska Native Claims Settlement Act that have adequate broadband coverage. “(B) An assessment of unserved areas of Indian country (as so defined) and land held by a Native Corporation pursuant to the Alaska Native Claims Settlement Act. “(b) Tribal Broadband Proceeding.—Not later than 30 months after the date of the enactment of this Act, the Commission shall complete a proceeding to address the unserved areas identified in the report under subsection (a).”
@@ -555,3 +558,446 @@ The Broadband Data Improvement Act, referred to in subsec. (k)(3), is title I of
 
 #### Codification
 Section was enacted as part of the American Recovery and Reinvestment Act of 2009, and not as part of the Broadband Data Improvement Act which comprises this chapter.
+
+#### Grants for Broadband Connectivity
+Pub. L. 116–260, div. N, title IX, § 905, Dec. 27, 2020, 134 Stat. 2136, provided that: “(a) Definitions.—In this section:“(1) Assistant secretary.—The term ‘Assistant Secretary’ means the Assistant Secretary of Commerce for Communications and Information. “(2) Broadband or broadband service.—The term ‘broadband’ or ‘broadband service’ has the meaning given the term ‘broadband internet access service’ in section 8.1(b) of title 47, Code of Federal Regulations, or any successor regulation. “(3) Commission.—The term ‘Commission’ means the Federal Communications Commission. “(4) Covered broadband project.—The term ‘covered broadband project’ means a competitively and technologically neutral project for the deployment of fixed broadband service that provides qualifying broadband service in an eligible service area. “(5) Covered partnership.—The term ‘covered partnership’ means a partnership between—“(A) a State, or 1 or more political subdivisions of a State; and “(B) a provider of fixed broadband service. “(6) Department.—The term ‘Department’ means the Department of Commerce. “(7) Eligible service area.—The term ‘eligible service area’ means a census block in which broadband service is not available at 1 or more households or businesses in the census block, as determined by the Assistant Secretary on the basis of—“(A) the maps created under section 802(c)(1) of the Communications Act of 1934 ([47 U.S.C. 642(c)(1)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title47-section642/c/1&num=0&edition=prelim)); or “(B) if the maps described in subparagraph (A) are not available, the most recent information available to the Assistant Secretary, including information provided by the Commission. “(8) Eligible entity.—The term ‘eligible entity’ means—“(A) a Tribal Government; “(B) a Tribal College or University; “(C) the Department of Hawaiian Home Lands on behalf of the Native Hawaiian Community, including Native Hawaiian Education Programs; “(D) a Tribal organization; or “(E) a Native Corporation. “(9) Native corporation.—The term ‘Native Corporation’ has the meaning given the term in section 3 of the Alaska Native Claims Settlement Act ([43 U.S.C. 1602](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1602&num=0&edition=prelim)). “(10) Native hawaiian.—The term ‘Native Hawaiian’ has the meaning given the term in section 801 of the Native American Housing Assistance and Self-Determination Act of 1996 ([25 U.S.C. 4221](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section4221&num=0&edition=prelim)). “(11) Qualifying broadband service.—The term ‘qualifying broadband service’ means broadband service with—“(A) a download speed of not less than 25 megabits per second; “(B) an upload speed of not less than 3 megabits per second; and “(C) a latency sufficient to support real-time, interactive applications. “(12) Tribal government.—The term ‘Tribal Government’ means the governing body of any Indian or Alaska Native Tribe, band, nation, pueblo, village, community, component band, or component reservation, individually recognized (including parenthetically) in the list published most recently as of the date of enactment of this Act [Dec. 27, 2020] pursuant to section 104 of the Federally Recognized Indian Tribe List Act of 1994 ([25 U.S.C. 5131](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5131&num=0&edition=prelim)). “(13) Tribal land.—The term ‘Tribal land’ means—“(A) any land located within the boundaries of—“(i) an Indian reservation, pueblo, or rancheria; or “(ii) a former reservation within Oklahoma; “(B) any land not located within the boundaries of an Indian reservation, pueblo, or rancheria, the title to which is held—“(i) in trust by the United States for the benefit of an Indian Tribe or an individual Indian; “(ii) by an Indian Tribe or an individual Indian, subject to restriction against alienation under laws of the United States; or “(iii) by a dependent Indian community; “(C) any land located within a region established pursuant to section 7(a) of the Alaska Native Claims Settlement Act ([43 U.S.C. 1606(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1606/a&num=0&edition=prelim)); “(D) Hawaiian Home Lands, as defined in section 801 of the Native American Housing Assistance and Self-Determination Act of 1996 ([25 U.S.C. 4221](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section4221&num=0&edition=prelim)); or “(E) those areas or communities designated by the Assistant Secretary of Indian Affairs of the Department of the Interior that are near, adjacent, or contiguous to reservations where financial assistance and social service programs are provided to Indians because of their status as Indians. “(14) Unserved.—The term ‘unserved’, with respect to a household, means—“(A) the household lacks access to qualifying broadband service; and “(B) no broadband provider has been selected to receive, or is otherwise receiving, Federal or State funding subject to enforceable build out commitments to deploy qualifying broadband service in the specific area where the household is located by dates certain, even if such service is not yet available, provided that the Federal or State agency providing the funding has not deemed the service provider to be in default of its buildout obligations under the applicable Federal or State program. “(b) Direct Appropriation.—There is appropriated to the Assistant Secretary, out of amounts in the Treasury not otherwise appropriated, for the fiscal year ending September 30, 2021, to remain available until expended—“(1) $1,000,000,000 for grants under subsection (c); and “(2) $300,000,000 for grants under subsection (d). “(c) Tribal Broadband Connectivity Program.—“(1) Tribal broadband connectivity grants.—The Assistant Secretary shall use the funds made available under subsection (b)(1) to implement a program to make grants to eligible entities to expand access to and adoption of—“(A) broadband service on Tribal land; or “(B) remote learning, telework, or telehealth resources during the COVID–19 pandemic. “(2) Grants.—From the amounts appropriated under subsection (b)(1), the Assistant Secretary shall award a grant to each eligible entity that submits an application that the Assistant Secretary approves after consultation with the Commission to prevent duplication of funding. “(3) Allocations.—“(A) Equitable distribution.—The amounts appropriated under subsection (b)(1) shall be made available to eligible entities on an equitable basis, and not less than 3 percent of those amounts shall be made available for the benefit of Native Hawaiians. “(B) Administrative expenses of assistant secretary.—The Assistant Secretary may use not more than 2 percent of amounts appropriated under subsection (b)(1) for administrative purposes, including the provision of technical assistance to Tribal Governments to help those Governments take advantage of the program established under this subsection. “(4) Use of grant funds.—“(A) Commitment deadline.—“(i) In general.—Not later than 180 days after receiving grant funds under this subsection, an eligible entity shall commit the funds in accordance with the approved application of the entity. “(ii) Reversion of funds.—Any grant funds not committed by an eligible entity by the deadline under clause (i) shall revert to the general fund of the Treasury. “(B) Expenditure deadline.—“(i) In general.—Not later than 1 year after receiving grant funds under this subsection, an eligible entity shall expend the grant funds. “(ii) Extensions for infrastructure projects.—The Assistant Secretary may extend the period under clause (i) for an eligible entity that proposes to use the grant funds for construction of broadband infrastructure if the eligible entity certifies that— “(I) the eligible entity has a plan for use of the grant funds; “(II) the construction project is underway; or “(III) extenuating circumstances require an extension of time to allow the project to be completed. “(iii) Reversion of funds.—Any grant funds not expended by an eligible entity by the deadline under clause (i) shall be made available to other eligible entities for the purposes provided in this subsection. “(5) Eligible uses.—An eligible entity may use grant funds made available under this subsection for—“(A) broadband infrastructure deployment, including support for the establishment of carrier-neutral submarine cable landing stations; “(B) affordable broadband programs, including—“(i) providing free or reduced-cost broadband service; and “(ii) preventing disconnection of existing broadband service; “(C) distance learning; “(D) telehealth; “(E) digital inclusion efforts; and “(F) broadband adoption activities. “(6) Administrative expenses of eligible entities.—An eligible entity may use not more than 2 percent of grant funds received under this subsection for administrative purposes. “(7) Subgrantees.—“(A) In general.—An eligible entity may enter into a contract with a subgrantee, including a non-Tribal entity, as part of its use of grant funds pursuant to this subsection. “(B) Requirements.—An eligible entity that enters into a contract with a subgrantee for use of grant funds received under this subsection shall—“(i) before entering into the contract, after a reasonable investigation, make a determination that the subgrantee— “(I) is capable of carrying out the project for which grant funds will be provided in a competent manner in compliance with all applicable laws; “(II) has the financial capacity to meet the obligations of the project and the requirements of this subsection; and “(III) has the technical and operational capability to carry out the project; and “(ii) stipulate in the contract reasonable provisions for recovery of funds for nonperformance. “(8) Broadband infrastructure deployment.—In using grant funds received under this subsection for new construction of broadband infrastructure, an eligible entity shall prioritize projects that deploy broadband infrastructure to unserved households. “(d) Broadband Infrastructure Program.—“(1) Broadband infrastructure deployment grants.—The Assistant Secretary shall use the funds made available under subsection (b)(2) to implement a program under which the Assistant Secretary makes grants on a competitive basis to covered partnerships for covered broadband projects. “(2) Mapping.—“(A) Data from commission.—Not less frequently than annually, the Commission shall, through the process established under section 802(b)(7)) of the Communications Act of 1934 ([47 U.S.C. 642(b)(7)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title47-section642/b/7&num=0&edition=prelim)), provide the Assistant Secretary any data collected by the Commission pursuant to title VIII of that Act ([47 U.S.C. 641](./chapter-005-wire-or-radio-communication.md#section-641) et seq.). “(B) Use by assistant secretary.—The Assistant Secretary shall rely on the data provided under subparagraph (A) in carrying out this subsection to the greatest extent practicable. “(3) Eligibility requirements.—To be eligible for a grant under this subsection, a covered partnership shall submit an application at such time, in such manner, and containing such information as the Assistant Secretary may require, which application shall, at a minimum, include a description of—“(A) the covered partnership; “(B) the covered broadband project to be funded by the grant, including—“(i) the speed or speeds at which the covered partnership plans to offer broadband service; and “(ii) the cost of the project; “(C) the area to be served by the covered broadband project (in this paragraph referred to as the ‘proposed service area’); “(D) any support provided to the provider of broadband service that is part of the covered partnership through—“(i) any grant, loan, or loan guarantee provided by a State to the provider of broadband service for the deployment of broadband service in the proposed service area; “(ii) any grant, loan, or loan guarantee with respect to the proposed service area provided by the Secretary of Agriculture— “(I) under title VI of the Rural Electrification Act of 1936 ([7 U.S.C. 950bb](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section950bb&num=0&edition=prelim) et seq.), including—“(aa) any program to provide grants, loans, or loan guarantees under sections 601 through 603 of that Act ([7 U.S.C. 950bb](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section950bb&num=0&edition=prelim) et seq.); and “(bb) the Community Connect Grant Program established under section 604 of that Act ([7 U.S.C. 950bb–3](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section950bb–3&num=0&edition=prelim)); or “(II) the broadband loan and grant pilot program known as the ‘Rural eConnectivity Pilot Program’ or the ‘ReConnect Program’ authorized under section 779 of division A of the Consolidated Appropriations Act, 2018 (Public Law 115–141; 132 Stat. 348 [132 Stat. 399]); “(iii) any high-cost universal service support provided under section 254 of the Communications Act of 1934 ([47 U.S.C. 254](./chapter-005-wire-or-radio-communication.md#section-254)); “(iv) any grant provided under section 6001 of the American Recovery and Reinvestment Act of 2009 ([47 U.S.C. 1305](./chapter-012-broadband.md#section-1305)); “(v) amounts made available for the Education Stabilization Fund under the heading ‘DEPARTMENT OF EDUCATION’ in title VIII of division B of the CARES Act (Public Law 116–136; 134 Stat. 564); or “(vi) any other grant, loan, or loan guarantee provided by the Federal Government for the provision of broadband service. “(4) Priority.—In awarding grants under this subsection, the Assistant Secretary shall give priority to applications for covered broadband projects as follows, in decreasing order of priority:“(A) Covered broadband projects designed to provide broadband service to the greatest number of households in an eligible service area. “(B) Covered broadband projects designed to provide broadband service in an eligible service area that is wholly within any area other than—“(i) a county, city, or town that has a population of more than 50,000 inhabitants; and “(ii) the urbanized area contiguous and adjacent to a city or town described in clause (i). “(C) Covered broadband projects that are the most cost-effective, prioritizing such projects in areas that are the most rural. “(D) Covered broadband projects designed to provide broadband service with a download speed of not less than 100 megabits per second and an upload speed of not less than 20 megabits per second. “(E) Any other covered broadband project that meets the requirements of this subsection. “(5) Expenditure deadline.—“(A) In general.—Not later than 1 year after receiving grant funds under this subsection, a covered partnership shall expend the grant funds. “(B) Extensions.—The Assistant Secretary may extend the period under subparagraph (A) for a covered partnership that proposes to use the grant funds for construction of broadband infrastructure if the covered partnership certifies that—“(i) the covered partnership has a plan for use of the grant funds; “(ii) the construction project is underway; or “(iii) extenuating circumstances require an extension of time to allow the project to be completed. “(C) Reversion of funds.—Any grant funds not expended by an covered partnership by the deadline under subparagraph (A) shall be made available to other covered partnerships for the purposes provided in this subsection. “(6) Grant conditions.—“(A) Prohibitions.—As a condition of receiving a grant under this subsection, the Assistant Secretary shall prohibit a provider of broadband service that is part of a covered partnership receiving the grant—“(i) from using the grant amounts to repay, or make any other payment relating to, a loan made by any public or private lender; “(ii) from using grant amounts as collateral for a loan made by any public or private lender; and “(iii) from using more than $50,000 of the grant amounts to pay for the preparation of the grant. “(B) Nondiscrimination.—The Assistant Secretary may not require a provider of broadband service that is part of a covered partnership to be designated as an eligible telecommunications carrier pursuant to section 214(e) of the Communications Act of 1934 ([47 U.S.C. 214(e)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title47-section214/e&num=0&edition=prelim)) to be eligible to receive a grant under this subsection or as a condition of receiving a grant under this subsection. “(e) Implementation.—“(1) Requirements; outreach.—Not earlier than 30 days, and not later than 60 days, after the date of enactment of this Act [Dec. 27, 2020], the Assistant Secretary shall—“(A) issue a notice inviting eligible entities and covered partnerships to submit applications for grants under this section, which shall contain details about how awarding decisions will be made; and “(B) outline—“(i) the requirements for applications for grants under this section; and “(ii) the allowed uses of grant funds awarded under this section. “(2) Applications.—“(A) Submission.—During the 90-day period beginning on the date on which the Assistant Secretary issues the notice under paragraph (1), an eligible entity or covered partnership may submit an application for a grant under this section. “(B) Processing.—“(i) In general.—Not later than 90 days after receiving an application under subparagraph (A), the Assistant Secretary shall approve or deny the application. “(ii) Denial.—The Assistant Secretary may deny an application submitted under subparagraph (A) only if— “(I) the Assistant Secretary provides the applicant an opportunity to cure any defects in the application; and “(II) after receiving the opportunity under subclause (I), the applicant still fails to meet the requirements of this section. “(C) Single application.—An eligible entity or covered partnership may submit only 1 application under this paragraph. “(D) Proposed use of funds.—An application submitted by an eligible entity or a covered partnership under this paragraph shall describe each proposed use of grant funds. “(E) Allocation of funds.—Not later than 14 days after approving an application for a grant under this paragraph, the Assistant Secretary shall allocate the grant funds to the eligible entity or covered partnership. “(F) Treatment of unallocated funds.—“(i) In general.—If an eligible entity or covered partnership does not submit an application by the deadline under subparagraph (A), or the Assistant Secretary does not approve an application submitted by an eligible entity or a covered partnership under that subparagraph, the Assistant Secretary shall make the amounts allocated for, as applicable— “(I) the eligible entity under subsection (c) available to other eligible entities on an equitable basis; or “(II) the covered partnership under subsection (d) to other covered partnerships. “(ii) Second process.—The Assistant Secretary shall initiate a second notice and application process described in this subsection to reallocate any funds made available to other eligible entities or covered partnerships under clause (i). “(3) Transparency, accountability, and oversight required.—In implementing this section, the Assistant Secretary shall adopt measures, including audit requirements, to—“(A) ensure sufficient transparency, accountability, and oversight to provide the public with information regarding the award and use of grant funds under this section; “(B) ensure that a recipient of a grant under this section uses the grant funds in compliance with the requirements of this section and the overall purpose of the applicable grant program under this section; and “(C) deter waste, fraud, and abuse of grant funds. “(4) Prohibition on use for covered communications equipment or services.—An eligible entity or covered partnership may not use grant funds received under this section to purchase or support any covered communications equipment or service (as defined in section 9 of the Secure and Trusted Communications Networks Act of 2019 ([47 U.S.C. 1608](./chapter-015-secure-and-trusted-communications-networks.md#section-1608))). “(5) Unauthorized use of funds.—To the extent that the Assistant Secretary or the Inspector General of the Department determines that an eligible entity or covered partnership has expended grant funds received under this section in violation of this section, the Assistant Secretary shall recover the amount of funds that were so expended. “(f) Reporting.—“(1) Eligible entities and covered partnerships.—“(A) Annual report.—Not later than 1 year after receiving grant funds under this section, and annually thereafter until the funds have been expended, an eligible entity or covered partnership shall submit to the Assistant Secretary a report, with respect to the 1-year period immediately preceding the report date, that—“(i) describes how the eligible entity or covered partnership expended the funds; “(ii) certifies that the eligible entity or covered partnership complied with the requirements of this section and with any additional reporting requirements prescribed by the Assistant Secretary, including— “(I) a description of each service provided with the grant funds; and “(II) the number of locations or geographic areas at which broadband service was provided using the grant funds; and “(iii) identifies each subgrantee that received a subgrant from the eligible entity or covered partnership and a description of the specific project for which grant funds were provided. “(B) Provision of information to fcc and usda.—The Assistant Secretary shall provide the information collected under subparagraph (A) to the Commission and the Department of Agriculture to be used when determining whether to award funds for the deployment of broadband under any program administered by those agencies. “(C) Transmission of reports to congress.—Not later than 5 days after receiving a report from an eligible entity under subparagraph (A), the Assistant Secretary shall transmit the report to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Energy and Commerce of the House of Representatives. “(2) Inspector general and gao.—Not later than 6 months after the date on which the first grant is awarded under this section, and every 6 months thereafter until all of the grant funds awarded under this section are expended, the Inspector General of the Department and the Comptroller General of the United States shall each submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Energy and Commerce of the House of Representatives a report that reviews the grants awarded under this section during the preceding 6-month period. Each such report shall include recommendations to address waste, fraud, and abuse, if any. “(g) Impact on Other Federal Broadband Programs.—The use of grant funds received under this section by an eligible entity, covered partnership, or subgrantee shall not impact the eligibility of, or otherwise disadvantage, the eligible entity, covered partnership, or subgrantee with respect to participation in any other Federal broadband program.”
+
+
+<a id="section-1306"></a>
+## § 1306. Connecting minority communities
+**(a) Definitions** In this section:
+
+(1) **Anchor community**
+
+  (A) *In general* — The term “anchor community” means any area that—
+
+    (i) except as provided in subparagraph (B), is not more than 15 miles from a historically Black college or university, a Tribal College or University, or a Minority-serving institution; and
+
+    (ii) has an estimated median annual household income of not more than 250 percent of the poverty line, as that term is defined in [section 9902(2) of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section9902/2&num=0&edition=prelim).
+
+  (B) *Certain Tribal Colleges or Universities* — With respect to a Tribal College or University that is located on land held in trust by the United States, the Assistant Secretary, in consultation with the Secretary of the Interior, may establish a different maximum distance for the purposes of subparagraph (A)(i) if the Assistant Secretary is able to ensure that, in establishing that different maximum distance, each anchor community that is established as a result of that action is statistically comparable to other anchor communities described in subparagraph (A).
+
+(2) **Assistant Secretary** — The term “Assistant Secretary” means the Assistant Secretary of Commerce for Communications and Information.
+
+(3) **Broadband internet access service** — The term “broadband internet access service” has the meaning given the term in section 8.1(b) of title 47, Code of Federal Regulations, or any successor regulation.
+
+(4) **Commission** — The term “Commission” means the Federal Communications Commission.
+
+(5) **Connected device** — The term “connected device” means a laptop computer, tablet computer, or similar device that is capable of connecting to broadband internet access service.
+
+(6) **Director** — The term “Director” means the Director of the Office.
+
+(7) **Eligible equipment** — The term “eligible equipment” means—
+
+  (A) a Wi-Fi hotspot;
+
+  (B) a modem;
+
+  (C) a router;
+
+  (D) a device that combines a modem and router;
+
+  (E) a connected device; or
+
+  (F) any other equipment used to provide access to broadband internet access service.
+
+(8) **Eligible recipient** — The term “eligible recipient” means—
+
+  (A) a historically Black college or university;
+
+  (B) a Tribal College or University;
+
+  (C) a Minority-serving institution; or
+
+  (D) a consortium that is led by a historically Black college or university, a Tribal College or University, or a Minority-serving institution and that also includes—
+
+    (i) a minority business enterprise; or
+
+    (ii) an organization described in [section 501(c)(3) of title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section501/c/3&num=0&edition=prelim) and exempt from tax under section 501(a) of such title.
+
+(9) **Historically Black college or university** — The term “historically Black college or university” has the meaning given the term “part B institution” in [section 1061 of title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1061&num=0&edition=prelim).
+
+(10) **Minority-serving institution** — The term “Minority-serving institution” means any of the following:
+
+  (A) An Alaska Native-serving institution, as that term is defined in [section 1059d(b) of title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1059d/b&num=0&edition=prelim).
+
+  (B) A Native Hawaiian-serving institution, as that term is defined in [section 1059d(b) of title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1059d/b&num=0&edition=prelim).
+
+  (C) A Hispanic-serving institution, as that term is defined in [section 1101a(a) of title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1101a/a&num=0&edition=prelim).
+
+  (D) A Predominantly Black institution, as that term is defined in [section 1067q(c) of title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1067q/c&num=0&edition=prelim)).
+
+  (E) An Asian American and Native American Pacific Islander-serving institution, as that term is defined in [section 1059g(b) of title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1059g/b&num=0&edition=prelim).
+
+  (F) A Native American-serving, nontribal institution, as that term is defined in [section 1059f(b) of title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1059f/b&num=0&edition=prelim).
+
+(11) **Minority business enterprise** — The term “minority business enterprise” has the meaning given the term in section 1400.2 of title 15, Code of Federal Regulations, or any successor regulation.
+
+(12) **Office** — The term “Office” means the Office of Minority Broadband Initiatives established pursuant to subsection (b)(1).
+
+(13) **Pilot Program** — The term “Pilot Program” means the Connecting Minority Communities Pilot Program established under the rules promulgated by the Assistant Secretary under subsection (c)(1).
+
+(14) **Tribal College or University** — The term “Tribal College or University” has the meaning given the term in [section 1059c(b) of title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1059c/b&num=0&edition=prelim).
+
+(15) **Wi-Fi** — The term “Wi-Fi” means a wireless networking protocol based on Institute of Electrical and Electronics Engineers standard 802.11, or any successor standard.
+
+(16) **Wi-Fi hotspot** — The term “Wi-Fi hotspot” means a device that is capable of—
+
+  (A) receiving broadband internet access service; and
+
+  (B) sharing broadband internet access service with another device through the use of Wi-Fi.
+
+**(b) Office of Minority Broadband Initiatives**
+
+(1) **Establishment** — Not later than 180 days after December 27, 2020, the Assistant Secretary shall establish within the National Telecommunications and Information Administration the Office of Minority Broadband Initiatives.
+
+(2) **Director** — The Office shall be headed by the Director of the Office of Minority Broadband Initiatives, who shall be appointed by the Assistant Secretary.
+
+(3) **Duties** — The Office, acting through the Director, shall—
+
+  (A) collaborate with Federal agencies that carry out broadband internet access service support programs to determine how to expand access to broadband internet access service and other digital opportunities in anchor communities;
+
+  (B) collaborate with State, local, and Tribal governments, historically Black colleges or universities, Tribal Colleges or Universities, Minority-serving institutions, and stakeholders in the communications, education, business, and technology fields to—
+
+    (i) promote—
+
+      (I) initiatives relating to broadband internet access service connectivity for anchor communities; and
+
+      (II) digital opportunities for anchor communities;
+
+    (ii) develop recommendations to promote the rapid, expanded deployment of broadband internet access service to unserved historically Black colleges or universities, Tribal Colleges or Universities, Minority-serving institutions, and anchor communities, including to—
+
+      (I) students, faculty, and staff of historically Black colleges or universities, Tribal Colleges or Universities, and Minority-serving institutions; and
+
+      (II) senior citizens and veterans who live in anchor communities;
+
+    (iii) promote activities that would accelerate the adoption of broadband internet access service (including any associated equipment or personnel necessary to access and use that service, such as modems, routers, devices that combine a modem and a router, Wi-Fi hotspots, and connected devices)—
+
+      (I) by students, faculty, and staff of historically Black colleges or universities, Tribal Colleges or Universities, and Minority-serving institutions; and
+
+      (II) within anchor communities;
+
+    (iv) upon request, provide assistance to historically Black colleges or universities, Tribal Colleges or Universities, Minority-serving institutions, and leaders from anchor communities with respect to navigating Federal programs dealing with broadband internet access service;
+
+    (v) promote digital literacy skills, including by providing opportunities for virtual or in-person digital literacy training and education;
+
+    (vi) promote professional development opportunity partnerships between industry and historically Black colleges or universities, Tribal Colleges or Universities, and Minority-serving institutions to help ensure that information technology personnel and students of historically Black colleges or universities, Tribal Colleges or Universities, and Minority-serving institutions have the skills needed to work with new and emerging technologies with respect to broadband internet access service; and
+
+    (vii) explore how to leverage investment in infrastructure with respect to broadband internet access service to—
+
+      (I) expand connectivity with respect to that service in anchor communities and by students, faculty, and staff of historically Black colleges or universities, Tribal Colleges or Universities, and Minority-serving institutions;
+
+      (II) encourage investment in communities that have been designated as qualified opportunity zones under [section 1400Z–1 of title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section1400Z–1&num=0&edition=prelim); and
+
+      (III) serve as a catalyst for adoption of that service, so as to promote job growth and economic development and deployment of advanced technologies; and
+
+  (C) assume any functions carried out under the Minority Broadband Initiative of the National Telecommunications and Information Administration, as of the day before December 27, 2020.
+
+(4) **Reports**
+
+  (A) *In general* — Not later than 1 year after the date on which the Assistant Secretary establishes the Office under paragraph (1), and annually thereafter, the Assistant Secretary shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Energy and Commerce of the House of Representatives a report that—
+
+    (i) for the year covered by the report, details the work of the Office in expanding access to fixed and mobile broadband internet access service—
+
+      (I) at historically Black colleges or universities, Tribal Colleges or Universities, and Minority-serving institutions, including by expanding that access to students, faculty, and staff of historically Black colleges or universities, Tribal Colleges or Universities, and Minority-serving institutions; and
+
+      (II) within anchor communities; and
+
+    (ii) identifies barriers to providing access to broadband internet access service—
+
+      (I) at historically Black colleges or universities, Tribal Colleges or Universities, and Minority-serving institutions, including to students, faculty, and staff of historically Black colleges or universities, Tribal Colleges or Universities, and Minority-serving institutions; and
+
+      (II) within anchor communities.
+
+  (B) *Public availability* — Not later than 30 days after the date on which the Assistant Secretary submits a report under subparagraph (A), the Assistant Secretary shall, to the extent feasible, make that report publicly available.
+
+**(c) Connecting Minority Communities Pilot Program**
+
+(1) **Rules required**
+
+  (A) *In general* — Not later than 45 days after December 27, 2020, the Assistant Secretary shall promulgate rules establishing the Connecting Minority Communities Pilot Program, the purpose of which shall be to provide grants to eligible recipients in anchor communities for the purchase of broadband internet access service or any eligible equipment, or to hire and train information technology personnel—
+
+    (i) in the case of an eligible recipient described in subparagraph (A), (B), or (C) of subsection (a)(8), to facilitate educational instruction and learning, including through remote instruction;
+
+    (ii) in the case of an eligible recipient described in subsection (a)(8)(D)(i), to operate the minority business enterprise; or
+
+    (iii) in the case of an eligible recipient described in subsection (a)(8)(D)(ii), to operate the organization.
+
+  (B) *Content* — The rules promulgated under subparagraph (A) shall—
+
+    (i) establish a method for identifying which eligible recipients in anchor communities have the greatest unmet financial needs;
+
+    (ii) ensure that grants under the Pilot Program are made—
+
+      (I) to eligible recipients identified under the method established under clause (i); and
+
+      (II) in a manner that best achieves the purposes of the Pilot Program;
+
+    (iii) require that an eligible recipient described in subparagraph (A), (B), or (C) of subsection (a)(8) that receives a grant to provide broadband internet access service or eligible equipment to students prioritizes students who—
+
+      (I) are eligible to receive a Federal Pell Grant under [section 1070a of title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1070a&num=0&edition=prelim);
+
+      (II) are recipients of any other need-based financial aid from the Federal Government, a State, or that eligible recipient;
+
+      (III) are qualifying low-income consumers for the purposes of the program carried out under subpart E of part 54 of title 47, Code of Federal Regulations, or any successor regulations;
+
+      (IV) are low-income individuals, as that term is defined in [section 1058(g) of title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1058/g&num=0&edition=prelim); or
+
+      (V) have been approved to receive unemployment insurance benefits under any Federal or State law since March 1, 2020;
+
+    (iv) provide that a recipient of a grant under the Pilot Program—
+
+      (I) shall use eligible equipment for a purpose that the recipient considers to be appropriate, subject to any restriction provided in those rules (or any successor rules);
+
+      (II) if the recipient lends, or otherwise provides, eligible equipment to students or patrons, shall prioritize lending or providing to such individuals that the recipient believes do not have access to that equipment, subject to any restriction provided in those rules (or any successor rules); and
+
+      (III) may not sell or otherwise transfer eligible equipment in exchange for any thing (including a service) of value;
+
+    (v) include audit requirements that—
+
+      (I) ensure that a recipient of a grant made under the Pilot Program uses grant funds in compliance with the requirements of this section and the overall purpose of the Pilot Program; and
+
+      (II) prevent waste, fraud, and abuse in the operation of the Pilot Program;
+
+    (vi) provide that not less than 40 percent of the amount of the grants made under the Pilot Program are made to Historically Black colleges or universities; and
+
+    (vii) provide that not less than 20 percent of the amount of the grants made under the Pilot Program are made to eligible recipients described in subparagraphs (A), (B), and (C) of subsection (a)(8) to provide broadband internet access service or eligible equipment to students of those eligible recipients.
+
+(2) **Fund**
+
+  (A) *Establishment* — There is established in the Treasury of the United States a fund to be known as the Connecting Minority Communities Fund.
+
+  (B) *Use of Fund* — Amounts in the Connecting Minority Communities Fund established under subparagraph (A) shall be available to the Assistant Secretary to provide support under the rules promulgated under paragraph (1).
+
+(3) **Interagency coordination** — When making grants under the Pilot Program, the Assistant Secretary shall coordinate with other Federal agencies, including the Commission, the National Science Foundation, and the Department of Education, to ensure the efficient expenditure of Federal funds, including by preventing multiple expenditures of Federal funds for the same purpose.
+
+(4) **Audits**
+
+  (A) *In general* — For each of fiscal years 2021 and 2022, the Inspector General of the Department of Commerce shall conduct an audit of the Pilot Program according to the requirements established under paragraph (1)(B)(v).
+
+  (B) *Report* — After completing each audit conducted under subparagraph (A), the Inspector General of the Department of Commerce shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Energy and Commerce of the House of Representatives a report that details the findings of the audit.
+
+(5) **Direct appropriation** — There is appropriated, out of amounts in the Treasury not otherwise appropriated, for the fiscal year ending September 30, 2021, to remain available until expended, $285,000,000 to the Connecting Minority Communities Fund established under paragraph (2).
+
+(6) **Termination** — Except with respect to the report required under paragraph (7) and the authority of the Secretary of Commerce and the Inspector General of the Department of Commerce described in paragraph (8), the Pilot Program, including all reporting requirements under this section, shall terminate on the date on which the amounts made available to carry out the Pilot Program are fully expended.
+
+(7) **Report** — Not later than 90 days after the date on which the Pilot Program terminates under paragraph (6), the Assistant Secretary, after consulting with eligible recipients that received grants under the Pilot Program, shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Energy and Commerce of the House of Representatives a report that—
+
+  (A) describes the manner in which the Pilot Program was carried out;
+
+  (B) identifies each eligible recipient that received a grant under the Pilot Program; and
+
+  (C) contains information regarding the effectiveness of the Pilot Program, including lessons learned in carrying out the Pilot Program and recommendations for future action.
+
+(8) **Savings provision** — The termination of the Pilot Program under paragraph (6) shall not limit, alter, or affect the ability of the Secretary of Commerce or the Inspector General of the Department of Commerce to—
+
+  (A) investigate waste, fraud, and abuse with respect to the Pilot Program; or
+
+  (B) recover funds that are misused under the Pilot Program.
+
+### Statutory Notes
+
+#### Codification
+Section was enacted as part of the Consolidated Appropriations Act, 2021, and not as part of the Broadband Data Improvement Act which comprises this chapter.
+
+
+<a id="section-1307"></a>
+## § 1307. Office of Internet Connectivity and Growth
+**(a) Short title** This section may be cited as the “Advancing Critical Connectivity Expands Service, Small Business Resources, Opportunities, Access, and Data Based on Assessed Need and Demand Act” or the “ACCESS BROADBAND Act”.
+
+**(b) Establishment** Not later than 180 days after December 27, 2020, the Assistant Secretary shall establish the Office of Internet Connectivity and Growth within the National Telecommunications and Information Administration.
+
+**(c) Duties**
+
+(1) **Outreach** — The Office shall—
+
+  (A) connect with communities that need access to high-speed internet and improved digital inclusion efforts through various forms of outreach and communication techniques;
+
+  (B) hold regional workshops across the country to share best practices and effective strategies for promoting broadband access and adoption;
+
+  (C) develop targeted broadband training and presentations for various demographic communities through various media;
+
+  (D) develop and distribute publications (including toolkits, primers, manuals, and white papers) providing guidance, strategies, and insights to communities as the communities develop strategies to expand broadband access and adoption; and
+
+  (E) as applicable in carrying out subparagraphs (A) through (D), coordinate with State agencies that provide similar broadband investments, outreach, and coordination through Federal programs.
+
+(2) **Tracking of Federal dollars**
+
+  (A) *Broadband infrastructure* — The Office shall track the construction and use of and access to any broadband infrastructure built using any Federal support in a central database.
+
+  (B) *Accounting mechanism* — The Office shall develop a streamlined accounting mechanism by which any agency offering a Federal broadband support program and the Commission for any Universal Service Fund Program shall provide the information described in subparagraph (A) in a standardized and efficient fashion.
+
+  (C) *Report* — Not later than 1 year after December 27, 2020, and every year thereafter, the Office shall make public on the website of the Office and submit to the Committee on Energy and Commerce of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a report on the following:
+
+    (i) A description of the work of the Office for the previous year and the number of residents of the United States that received broadband as result of Federal broadband support programs and the Universal Service Fund Programs.
+
+    (ii) A description of how many residents of the United States were provided broadband by which universal service mechanism or which Federal broadband support program.
+
+    (iii) An estimate of the economic impact of such broadband deployment efforts on local economies, including any effect on small businesses or jobs.
+
+**(d) Relation to current broadband activities of NTIA** The Assistant Secretary shall assign to the Office all activities performed by the National Telecommunications and Information Administration as of December 27, 2020, that are similar to the activities required to be conducted by the Office under this section.
+
+**(e) Streamlined applications for support**
+
+(1) **Agency consultation** — The Office shall consult with any agency offering a Federal broadband support program to streamline and standardize the applications process for financial assistance or grants for such program.
+
+(2) **Agency streamlining** — Any agency offering a Federal broadband support program shall amend the applications of the agency for broadband support, to the extent practicable and as necessary, to streamline and standardize applications for Federal broadband support programs across the Government.
+
+(3) **Single application** — To the greatest extent practicable, the Office shall seek to create one application that may be submitted to apply for all, or substantially all, Federal broadband support programs.
+
+(4) **Website required** — Not later than 180 days after December 27, 2020, the Office shall create a central website through which potential applicants can learn about and apply for support through any Federal broadband support program.
+
+**(f) Coordination of support**
+
+(1) **In general** — To ensure that Federal support for broadband deployment is being distributed in an efficient, technology-neutral, and financially sustainable manner, and that a program does not duplicate any other Federal broadband support program or any Universal Service Fund high-cost program—
+
+  (A) any agency that offers a Federal broadband support program shall coordinate with the Office consistent with the goals described in paragraph (2); and
+
+  (B) the Office, with respect to Federal broadband support programs, and the Commission, with respect to the Universal Service Fund high-cost programs, shall coordinate with each other consistent with the goals described in paragraph (2).
+
+(2) **Goals** — The goals of any coordination conducted pursuant to this subsection are the following:
+
+  (A) Serving the largest number of unserved locations in the United States and ensuring all residents of the United States have access to high-speed broadband.
+
+  (B) Promoting the most job and economic growth for all residents of the United States.
+
+(3) **Broadband availability maps** — The Office and the Commission shall consult the broadband availability maps produced by the Commission when coordinating under paragraph (1).
+
+**(g) Definitions** In this section:
+
+(1) **Agency** — The term “agency” has the meaning given that term in [section 551 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section551&num=0&edition=prelim).
+
+(2) **Assistant Secretary** — The term “Assistant Secretary” means the Assistant Secretary of Commerce for Communications and Information.
+
+(3) **Commission** — The term “Commission” means the Federal Communications Commission.
+
+(4) **Federal broadband support program** — The term “Federal broadband support program” does not include any Universal Service Fund Program and means any of the following programs (or any other similar Federal program) to the extent the program offers broadband internet service, support for broadband deployment, or programs for promoting broadband access and adoption for various demographic communities through various media for residential, commercial, community providers, or academic establishments:
+
+  (A) The Telecommunications and Technology Program of the Appalachian Regional Commission.
+
+  (B) The Telecommunications Infrastructure Loan and Loan Guarantee Program established under the Rural Electrification Act of 1936 [[7 U.S.C. 901](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section901&num=0&edition=prelim) et seq.], the rural broadband access program established under title VI of that Act ([7 U.S.C. 950bb](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section950bb&num=0&edition=prelim) et seq.), the initiative under section 306F of that Act ([7 U.S.C. 936f](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section936f&num=0&edition=prelim)), the Community Connect Grant Program established under section 604 of that Act ([7 U.S.C. 950bb–3](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section950bb–3&num=0&edition=prelim)), the broadband loan and grant pilot program authorized under section 779 of division A of the Consolidated Appropriations Act, 2018 (Public Law 115–141; 132 Stat. 399) (commonly known as the “Rural eConnectivity Pilot Program” or the “ReConnect Program”), and the Distance Learning and Telemedicine Program under chapter 1 of subtitle D of title XXIII of the Food, Agriculture, Conservation, and Trade Act of 1990 ([7 U.S.C. 950aaa](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section950aaa&num=0&edition=prelim) et seq.).
+
+  (C) Community facility direct and guaranteed loans under [section 1926(a) of title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1926/a&num=0&edition=prelim), community facility grants under paragraph (19), (20), or (21) of [section 1926(a) of title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1926/a&num=0&edition=prelim), and the Rural Community Development Initiative authorized under the heading “Rural Housing Service—Rural Community Facilities Program Account” under title III of division B of the Further Consolidated Appropriations Act, 2020 (Public Law 116–94; 133 Stat. 2629).
+
+  (D) The Public Works and Economic Adjustment Assistance Programs and the Planning and Local Technical Assistance Programs of the Economic Development Administration of the Department of Commerce.
+
+  (E) The Community Development Block Grants and Section 108 Loan Guarantees Programs, the Funds for Public Housing Authorities: Capital Fund and Operating Fund, the Multifamily Housing Programs, the Indian Community Development Block Grant Program, the Indian Housing Block Grant Program, the Title VI Loan Guarantee Program, the Choice Neighborhoods Program, the HOME Investment Partnerships Program, the Housing Trust Fund, and the Housing Opportunities for Persons with AIDS Program of the Department of Housing and Urban Development.
+
+  (F) The American Job Centers of the Employment and Training Administration of the Department of Labor.
+
+  (G) The Library Services and Technology Grant Programs of the Institute of Museum and Library Services.
+
+(5) **Office** — The term “Office” means the Office of Internet Connectivity and Growth established pursuant to subsection (b).
+
+(6) **Universal Service Fund high-cost programs** — The term “Universal Service Fund high-cost programs” means—
+
+  (A) the program for Universal Service Support for High-Cost Areas set forth under subpart D of part 54 of title 47, Code of Federal Regulations, or any successor thereto;
+
+  (B) the Rural Digital Opportunity Fund set forth under subpart J of part 54 of title 47, Code of Federal Regulations, or any successor thereto;
+
+  (C) the Interstate Common Line Support Mechanism for Rate-of-Return Carriers set forth under subpart K of part 54 of title 47, Code of Federal Regulations, or any successor thereto;
+
+  (D) the Mobility Fund and 5G Fund set forth under subpart L of part 54 of title 47, Code of Federal Regulations, or any successor thereto; and
+
+  (E) the High Cost Loop Support for Rate-of-Return Carriers program set forth under subpart M of part 54 of title 47, Code of Federal Regulations, or any successor thereto.
+
+(7) **Universal Service Fund Program** — The term “Universal Service Fund Program” means any program authorized under [section 254 of this title](./chapter-005-wire-or-radio-communication.md#section-254) to help deploy broadband.
+
+(8) **Universal service mechanism** — The term “universal service mechanism” means any funding stream provided by a Universal Service Fund Program to support broadband access.
+
+**(h) Rule of construction** Nothing in this section is intended to alter or amend any provision of [section 254 of this title](./chapter-005-wire-or-radio-communication.md#section-254).
+
+### Statutory Notes
+
+#### References in Text
+This section, referred to in subsecs. (d), (g), and (h), was in the original “this Act”, which was translated as meaning section 903 of Pub. L. 116–260, div. FF, title IX, Dec. 27, 2020, 134 Stat. 3210, to reflect the probable intent of Congress.
+
+The Rural Electrification Act of 1936, referred to in subsec. (g)(4)(B), is act May 20, 1936, ch. 432, 49 Stat. 1363, which is classified generally to chapter 31 (§ 901 et seq.) of Title 7, Agriculture. Title VI of the Act is classified generally to subchapter VI (§ 950bb et seq.) of chapter 31 of Title 7. For complete classification of this Act to the Code, see [section 901 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section901&num=0&edition=prelim) and Tables.
+
+The Food, Agriculture, Conservation, and Trade Act of 1990, referred to in subsec. (g)(4)(B), is Pub. L. 101–624, Nov. 28, 1990, 104 Stat. 3359. Chapter 1 of subtitle D of title XXIII of the Act is classified generally to chapter 31A (§ 950aaa et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title of 1990 Amendment note set out under [section 1421 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1421&num=0&edition=prelim) and Tables.
+
+#### Codification
+Section was enacted as part of the Advancing Critical Connectivity Expands Service, Small Business Resources, Opportunities, Access, and Data Based on Assessed Need and Demand Act, also known as the ACCESS BROADBAND Act, and not as part of the Broadband Data Improvement Act which comprises this chapter.
+
+
+<a id="section-1308"></a>
+## § 1308. Interagency agreement
+**(a) Short title** This section may be cited as the “Broadband Interagency Coordination Act of 2020”.
+
+**(b) Interagency agreement**
+
+(1) **Definitions** — In this section—
+
+  (A) the term “covered agency” means—
+
+    (i) the Federal Communications Commission;
+
+    (ii) the Department of Agriculture; and
+
+    (iii) the National Telecommunications and Information Administration; and
+
+  (B) the term “high-cost programs” means—
+
+    (i) the program for Universal Service Support for High-Cost Areas set forth under subpart D of part 54 of title 47, Code of Federal Regulations, or any successor thereto;
+
+    (ii) the Rural Digital Opportunity Fund set forth under subpart J of part 54 of title 47, Code of Federal Regulations, or any successor thereto;
+
+    (iii) the Interstate Common Line Support Mechanism for Rate-of-Return Carriers set forth under subpart K of part 54 of title 47, Code of Federal Regulations, or any successor thereto;
+
+    (iv) the Mobility Fund and 5G Fund set forth under subpart L of part 54 of title 47, Code of Federal Regulations, or any successor thereto; and
+
+    (v) the High Cost Loop Support for Rate-of-Return Carriers program set forth under subpart M of part 54 of title 47, Code of Federal Regulations, or any successor thereto.
+
+(2) **Interagency agreement** — Not later than 180 days after December 27, 2020, the heads of the covered agencies shall enter into an interagency agreement requiring coordination between the covered agencies for the distribution of funds for broadband deployment under—
+
+  (A) the high-cost programs;
+
+  (B) the programs administered by the Rural Utilities Service of the Department of Agriculture and the Department of Agriculture; and
+
+  (C) the programs administered by or coordinated through the National Telecommunications and Information Administration.
+
+(3) **Requirements** — In entering into an interagency agreement with respect to the programs described in paragraph (2), the heads of the covered agencies shall—
+
+  (A) require that the covered agencies share information with each other about existing or planned projects that have received or will receive funds under the programs described in paragraph (2) for new broadband deployment;
+
+  (B) provide that—
+
+    (i) subject to clause (ii), upon request from another covered agency with authority to award or authorize any funds for new broadband deployment in a project area, a covered agency shall provide the other covered agency with any information the covered agency possesses regarding, with respect to the project area—
+
+      (I) each entity that provides broadband service in the area;
+
+      (II) levels of broadband service provided in the area, including the speed of broadband service and the technology provided;
+
+      (III) the geographic scope of broadband service coverage in the area; and
+
+      (IV) each entity that has received or will receive funds under the programs described in paragraph (2) to provide broadband service in the area; and
+
+    (ii) if a covered agency designates any information provided to another covered agency under clause (i) as confidential, the other covered agency shall protect the confidentiality of that information;
+
+  (C) consider basing the distribution of funds for broadband deployment under the programs described in paragraph (2) on standardized data regarding broadband coverage; and
+
+  (D) provide that the interagency agreement shall be updated periodically, except that the scope of the agreement with respect to the Federal Communications Commission may not expand beyond the high-cost programs.
+
+(4) **Assessment of agreement**
+
+  (A) *Public comment* — Not later than 1 year after entering into the interagency agreement required under paragraph (2), the Federal Communications Commission shall seek public comment on—
+
+    (i) the effectiveness of the interagency agreement in facilitating efficient use of funds for broadband deployment;
+
+    (ii) the availability of Tribal, State, and local data regarding broadband deployment and the inclusion of that data in interagency coordination; and
+
+    (iii) modifications to the interagency agreement that would improve the efficacy of interagency coordination.
+
+  (B) *Assessment; report* — Not later than 18 months after December 27, 2020, the Federal Communications Commission shall—
+
+    (i) review and assess the comments received under subparagraph (A); and
+
+    (ii) submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Energy and Commerce of the House of Representatives a report detailing any findings and recommendations from the assessment conducted under clause (i).
+
+### Statutory Notes
+
+#### References in Text
+This section, referred to in subsec. (b)(1), was in the original “this Act”, which was translated as meaning section 904 of Pub. L. 116–260, div. FF, title IX, Dec. 27, 2020, 134 Stat. 3214, to reflect the probable intent of Congress.
+
+#### Codification
+Section was enacted as part of the Broadband Interagency Coordination Act of 2020 and as part the Consolidated Appropriations Act, 2021, and not as part of the Broadband Data Improvement Act which comprises this chapter.

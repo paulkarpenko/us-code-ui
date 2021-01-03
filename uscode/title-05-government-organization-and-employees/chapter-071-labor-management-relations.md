@@ -485,6 +485,27 @@ Sec. 9. General Provisions. (a) Nothing in this order shall be construed to impa
 
 Donald J. Trump.
 
+#### Executive Orders 13836, 13837, and 13839
+Memorandum of President of the United States, Oct. 11, 2019, 84 F.R. 56095, provided:
+
+Memorandum for the Heads of Executive Departments and Agencies
+
+On May 25, 2018, I signed three Executive Orders requiring executive departments and agencies (agencies) to negotiate collective bargaining agreements that will reduce costs and promote government performance and accountability. These Executive Orders, Executive Order 13836 of May 25, 2018 (Developing Efficient, Effective, and Cost-Reducing Approaches to Federal Sector Collective Bargaining) [set out above], Executive Order 13837 of May 25, 2018 (Ensuring Transparency, Accountability, and Efficiency in Taxpayer-Funded Union Time Use) [[5 U.S.C. 7131](./chapter-071-labor-management-relations.md#section-7131) note], and Executive Order 13839 of May 25, 2018 (Promoting Accountability and Streamlining Removal Procedures Consistent with Merit System Principles) [5 U.S.C. note prec. 7501], were partially enjoined by the United States District Court for the District of Columbia on August 25, 2018. The District Court’s injunction barred enforcement of sections 5(a), 5(e), and 6 of Executive Order 13836, sections 3(a), 4(a), and 4(b) of Executive Order 13837, and sections 3, 4(a), and 4(c) of Executive Order 13839.
+
+On July 16, 2019, the United States Court of Appeals for the District of Columbia Circuit held that the District Court lacked jurisdiction and vacated its judgment, and the Court of Appeals has now issued the mandate making its judgment effective.
+
+Provisions of the Executive Orders that had been subject to the District Court’s injunction set presumptively reasonable goals that agencies must pursue during bargaining; directed agencies to refuse to bargain over permissive subjects of negotiation; and established Government-wide rules that displace agencies’ duty to bargain with unions over contrary matters, regardless of whether the Federal Service Labor-Management Relations Statute would otherwise require bargaining absent those rules. Sections 4(c)(ii) and 8(a) of Executive Order 13837 and section 8(b) of Executive Order 13839, however, recognized agencies’ ability to comply with collective bargaining agreements containing prohibited terms so long as such agreements were effective on the date of the Executive Orders.
+
+While the District Court’s injunction remained in effect, agencies retained the ability to bargain over subjects covered by the enjoined provisions. The Executive Orders, however, did not address collective bargaining agreements entered into during this period. As a result, it is necessary to clarify agencies’ obligations with respect to such collective bargaining agreements.
+
+Agencies shall adhere to the terms of collective bargaining agreements executed while the injunction was in effect. Agencies that remain engaged in collective-bargaining negotiations, to the extent consistent with law, shall comply with the terms of the Executive Orders. However, where, between the date of the Executive Orders and the date of the Court of Appeals’s mandate, the parties to collective bargaining negotiations have executed an agreement to incorporate into a new collective bargaining agreement specific terms prohibited by the Executive Orders, an agency may execute the new collective bargaining agreement containing such terms, and terms ancillary to those specific terms, notwithstanding the Executive Orders.
+
+To the extent it is necessary, this memorandum should be construed to amend Executive Orders 13836, 13837, and 13839.
+
+The Director of the Office of Personnel Management is hereby authorized and directed to publish this memorandum in the Federal Register.
+
+Donald J. Trump.
+
 
 <a id="section-7102"></a>
 ## § 7102. Employees’ rights
@@ -772,7 +793,7 @@ By the authority vested in me as President by the Constitution and statutes of t
 
 1–206. Agencies or subdivisions of the Department of the Air Force, Department of Defense:
 
-(a) Headquarters, 24th Air Force and Air Forces Cyber, Joint Force Headquarters, Air Force Space Command, and the following elements under its operational control:
+(a) Headquarters, 24th Air Force and Air Forces Cyber, Joint Force Headquarters, Air Force Space Command [now United States Space Force], and the following elements under its operational control:
 
 (1) 67th Cyberspace Wing.
 
@@ -1038,7 +1059,7 @@ Sec. 1–215. National Geospatial-Intelligence Agency (NGA), Department of Defen
 
 1–218. National Reconnaissance Office, Department of Defense.
 
-1–219. Office of the Under Secretary of Defense for Intelligence, Department of Defense.
+1–219. Office of the Under Secretary of Defense for Intelligence [now Under Secretary of Defense for Intelligence and Security], Department of Defense.
 
 1–220. Field Detachment, Defense Contract Audit Agency, Department of Defense.
 
@@ -1209,7 +1230,7 @@ Sec. 2. Department of Defense. Executive Order 12171 of November 19, 1979, as am
 
 “1–206. Agencies or subdivisions of the Department of the Air Force, Department of Defense:
 
-[“](a) Headquarters, 24th Air Force and Air Forces Cyber, Joint Force Headquarters, Air Force Space Command, and the following elements under its operational control:
+[“](a) Headquarters, 24th Air Force and Air Forces Cyber, Joint Force Headquarters, Air Force Space Command [now United States Space Force], and the following elements under its operational control:
 
 [“](1) 67th Cyberspace Wing.
 
@@ -1398,6 +1419,37 @@ Sec. 3. General Provisions. (a) Nothing in this order shall be construed to impa
 (c) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
 
 Barack Obama.
+
+#### Delegation of Certain Authority Under the Federal Service Labor-Management Relations Statute
+Memorandum of President of the United States, Jan. 29, 2020, 85 F.R. 10033, provided:
+
+Memorandum for the Secretary of Defense
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, including [section 301 of title 3](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title3-section301&num=0&edition=prelim), United States Code, it is hereby ordered as follows:
+
+Section 1. Policy. The national security interests of the United States require expedient and efficient decisionmaking. When new missions emerge or existing ones evolve, the Department of Defense requires maximum flexibility to respond to threats to carry out its mission of protecting the American people. This flexibility requires that military and civilian leadership manage their organizations to cultivate a lethal, agile force adaptive to new technologies and posture changes. Where collective bargaining is incompatible with these organizations’ missions, the Department of Defense should not be forced to sacrifice its national security mission and, instead, seek relief through third parties and administrative fora.
+
+Sec. 2. Delegation of Authority to the Secretary of Defense. (a) The Secretary of Defense (Secretary) is delegated authority under [5 U.S.C. 7103(b)(1)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section7103/b/1&num=0&edition=prelim) and 7103(b)(2) to issue orders excluding Department of Defense agencies or subdivisions thereof from Federal Service Labor-Management Relations Statute coverage. The Secretary is authorized to further delegate this authority to any official of the Department of Defense appointed by the President with the advice and consent of the Senate.
+
+(b) When making the determination required by [5 U.S.C. 7103(b)(1)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section7103/b/1&num=0&edition=prelim) or 7103(b)(2), the Secretary or other official delegated this authority pursuant to subsection (a) of this section shall publish this determination in the Federal Register.
+
+(c) Any official to whom the Secretary of Defense delegates the authority pursuant to subsection (a) of this section may not further delegate this authority.
+
+(d) For purposes of this memorandum, the term “Department of Defense agencies or subdivisions” includes without limitation the military departments.
+
+Sec. 3. General Provisions. (a) Nothing in this memorandum shall be construed to impair or otherwise affect:
+
+(i) the authority granted by law to an executive department or agency, or the head thereof; or
+
+(ii) the functions of the Director of the Office of Management and Budget relating to budgetary, administrative, or legislative proposals.
+
+(b) This memorandum shall be implemented consistent with applicable law and subject to the availability of appropriations.
+
+(c) This memorandum is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+
+You are authorized and directed to publish this memorandum in the Federal Register.
+
+Donald J. Trump.
 
 
 <a id="section-7104"></a>
@@ -2017,6 +2069,35 @@ The General Schedule, referred to in subsec. (c)(4), is set out under [section 5
 #### Effective Date
 Section effective 90 days after Oct. 13, 1978, see section 907 of Pub. L. 95–454, set out as an Effective Date of 1978 Amendment note under [section 1101 of this title](./chapter-011-office-of-personnel-management.md#section-1101).
 
+#### Delegation of Removal Authority Over the Federal Service Impasses Panel
+Memorandum of President of the United States, Nov. 12, 2019, 84 F.R. 63789, provided:
+
+Memorandum for the Federal Labor Relations Authority
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, including [section 301 of title 3](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title3-section301&num=0&edition=prelim), United States Code, it is hereby ordered as follows:
+
+Section 1. Delegation of Removal Authority. (a) The Federal Labor Relations Authority (FLRA) is delegated the authority under [5 U.S.C. 7119(c)(3)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section7119/c/3&num=0&edition=prelim) to remove the Chairman and any other member of the Federal Service Impasses Panel (FSIP) appointed by the President under [5 U.S.C. 7119(c)(2)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section7119/c/2&num=0&edition=prelim).
+
+(b) In exercising the authority delegated by this section, the FLRA shall consider the extent to which decisions of members of the FSIP are consistent with the requirements of Chapter 71 of title 5, United States Code, with particular attention to whether the decisions are consistent with the requirement of an effective and efficient Government, as those terms are used in [5 U.S.C. 7101(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section7101/b&num=0&edition=prelim), in addition to any other factors that the FLRA may consider appropriate.
+
+(c) Within 10 days of exercising the authority delegated by this section, the FLRA shall submit a report to the President, through the Assistant to the President for Domestic Policy, explaining the reasons for its action, with particular emphasis on explaining how such action promotes an effective and efficient Government under [5 U.S.C. 7101(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section7101/b&num=0&edition=prelim).
+
+(d) The authority delegated by this section may not be redelegated.
+
+Sec. 2. General Provisions. (a) Nothing in this memorandum shall be construed to impair or otherwise affect:
+
+(i) the authority granted by law to an executive department or agency, or the head thereof; or
+
+(ii) the functions of the Director of the Office of Management and Budget relating to budgetary, administrative, or legislative proposals.
+
+(b) This memorandum shall be implemented consistent with applicable law and subject to the availability of appropriations.
+
+(c) This memorandum is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+
+(d) The FLRA is hereby authorized and directed to publish this memorandum in the Federal Register.
+
+Donald J. Trump.
+
 
 <a id="section-7120"></a>
 ## § 7120. Standards of conduct for labor organizations
@@ -2352,6 +2433,8 @@ Sec. 9. General Provisions. (a) Nothing in this order shall abrogate any collect
 (f) If any provision of this order, including any of its applications, is held to be invalid, the remainder of this order and all of its other applications shall not be affected thereby.
 
 Donald J. Trump.
+
+[Ex. Ord. No. 13837, set out above, construed to be amended to the extent necessary, by Memorandum of President of the United States, Oct. 11, 2019, 84 F.R. 56095, set out as a note under [section 7101 of this title](./chapter-071-labor-management-relations.md#section-7101).]
 
 
 <a id="section-7132"></a>

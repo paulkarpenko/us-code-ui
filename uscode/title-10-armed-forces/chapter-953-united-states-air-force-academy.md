@@ -8,7 +8,7 @@ source: >-
 ---
 <a id="section-9431"></a>
 ## § 9431. Establishment; Superintendent; faculty
-**(a)** There is in the Department of the Air Force an Air Force Academy (hereinafter in this chapter referred to as the “Academy”) for the instruction and preparation for military service of selected persons called “Air Force cadets”. The organization of the Academy shall be prescribed by the Secretary of the Air Force.
+**(a)** There is in the Department of the Air Force an Air Force Academy (hereinafter in this chapter referred to as the “Academy”) for the instruction and preparation for military service of selected persons called “cadets”. The organization of the Academy shall be prescribed by the Secretary of the Air Force.
 
 **(b)** There shall be at the Academy the following:
 
@@ -18,7 +18,7 @@ source: >-
 
 (3) A Commandant of Cadets.
 
-(4) 23 permanent professors.
+(4) 25 permanent professors.
 
 (5) A chaplain.
 
@@ -38,6 +38,10 @@ In subsection (b), reference to the senior instructors of artillery, cavalry, an
 Subsection (b)(3) is based on those laws establishing the various departments at the United States Military Academy (see revision note for [section 4331 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section4331&num=0&edition=prelim)).
 
 #### Amendments
+2021—Subsec. (a). Pub. L. 116–283, § 923(d)(7), substituted “cadets” for “Air Force cadets”.
+
+Subsec. (b)(4). Pub. L. 116–283, § 573, substituted “25” for “23”.
+
 2018—Pub. L. 115–232 renumbered [section 9331 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section9331&num=0&edition=prelim) as this section.
 
 2008—Subsec. (b)(4). Pub. L. 110–417 substituted “23 permanent professors” for “21 permanent professors”.
@@ -102,7 +106,7 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 <a id="section-9433"></a>
 ## § 9433. Superintendent; faculty: appointment and detail
-**(a)** The Superintendent and the Commandant of Cadets of the Academy shall be detailed to those positions by the President from the officers of the Air Force.
+**(a)** The Superintendent and the Commandant of Cadets of the Academy shall be detailed to those positions by the President from the officers of the Air Force or the Space Force.
 
 **(b)** The permanent professors of the Academy shall be appointed by the President, by and with the advice and consent of the Senate.
 
@@ -121,6 +125,8 @@ In subsection (a), the word “detailed” is substituted for the word “select
 In subsection (b), the words “by and with the advice and consent of the Senate” are inserted, since many of the statutes establishing particular permanent professorships from time to time have so provided, and historically it has been the uniform practice to make these appointments in this manner. 10:1063 (last 14 words) is omitted as obsolete and as covered by [section 9349(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section9349/b&num=0&edition=prelim).
 
 #### Amendments
+2021—Subsec. (a). Pub. L. 116–283 inserted “or the Space Force” after “Air Force”.
+
 2018—Pub. L. 115–232 renumbered [section 9333 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section9333&num=0&edition=prelim) as this section.
 
 1989—Subsec. (c). Pub. L. 101–189 substituted “director of admissions” for “registrar”.
@@ -237,9 +243,9 @@ Amendment by Pub. L. 85–861 effective Aug. 10, 1956, see section 33(g) of Pub.
 
 <a id="section-9436"></a>
 ## § 9436. Permanent professors; director of admissions
-**(a)** A permanent professor of the Academy who is the head of a department of instruction, or who has served as such a professor for more than six years, has the grade of colonel. However, a permanent professor appointed from the Regular Air Force has the grade of colonel after the date when he completes six years of service as a professor, or after the date on which he would have been promoted had he been selected for promotion from among officers in the promotion zone, whichever is earlier. All other permanent professors have the grade of lieutenant colonel.
+**(a)** A permanent professor of the Academy who is the head of a department of instruction, or who has served as such a professor for more than six years, has the grade of colonel in the Air Force or the equivalent grade in the Space Force. However, a permanent professor appointed from the Regular Air Force has the grade of colonel and a permanent professor appointed from the Regular Space Force has the grade equivalent to the grade of colonel in the Regular Air Force after the date when such person completes six years of service as a professor, or after the date on which such person would have been promoted had such person been selected for promotion from among officers in the promotion zone, whichever is earlier. All other permanent professors have the grade of lieutenant colonel in the Air Force or the equivalent grade in the Space Force.
 
-**(b)** A person appointed as director of admissions of the Academy has the regular grade of lieutenant colonel, and, after he has served six years as director of admissions, has the regular grade of colonel. However, a person appointed from the Regular Air Force has the regular grade of colonel after the date when he completes six years of service as director of admissions, or after the date on which he would have been promoted had he been selected for promotion from among officers in the promotion zone, whichever is earlier.
+**(b)** A person appointed as director of admissions of the Academy has the regular grade of lieutenant colonel in the Air Force or the equivalent grade in the Space Force, and, after such person has served six years as director of admissions, has the regular grade of colonel in the Air Force or the equivalent grade in the Space Force. However, a person appointed from the Regular Air Force has the regular grade of colonel and a person appointed from the Regular Space Force has the grade equivalent to the grade of colonel in the Regular Air Force after the date when such person completes six years of service as director of admissions, or after the date on which such person would have been promoted had such person been selected for promotion from among officers in the promotion zone, whichever is earlier.
 
 ### Statutory Notes
 
@@ -255,6 +261,12 @@ The word “grade” is substituted for the word “rank”. The words “pay, a
 The word “regular” is deleted [in sections 9335 and 9336] to make clear that a Dean or professor of the United States Air Force Academy holds only the office of “Dean” or “professor” and not the office of “brigadier general” or “colonel”, as the case may be, even though he is entitled to the pay and allowances of that grade.
 
 #### Amendments
+2021—Pub. L. 116–283, § 923(d)(9)(B), substituted “such person” for “he” wherever appearing.
+
+Subsec. (a). Pub. L. 116–283, § 923(d)(9)(A)(i), inserted “in the Air Force or the equivalent grade in the Space Force” after “grade of colonel”, “and a permanent professor appointed from the Regular Space Force has the grade equivalent to the grade of colonel in the Regular Air Force” after “Force grade of colonel”, and “in the Air Force or the equivalent grade in the Space Force” after “lieutenant colonel”.
+
+Subsec. (b). Pub. L. 116–283, § 923(d)(9)(A)(ii), inserted “in the Air Force or the equivalent grade in the Space Force” after “colonel” in two places in first sentence, and “and a person appointed from the Regular Space Force has the grade equivalent to the grade of colonel in the Regular Air Force” before “after the date when” in second sentence.
+
 2018—Pub. L. 115–232 renumbered [section 9336 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section9336&num=0&edition=prelim) as this section.
 
 2003—Subsec. (a). Pub. L. 108–136 struck out “, other than the Dean of the Faculty,” after “Academy”.
@@ -363,7 +375,7 @@ Section effective with respect to nominations for appointment to the first class
 
 <a id="section-9442"></a>
 ## § 9442. Cadets: appointment; numbers, territorial distribution
-**(a)** The authorized strength of Air Force Cadets of the Academy (determined for any year as of the day before the last day of the academic year) is 4,400 or such lower number as may be prescribed by the Secretary of the Air Force under subsection (j). Subject to that limitation, Air Force Cadets are selected as follows:
+**(a)** The authorized strength of cadets of the Academy (determined for any year as of the day before the last day of the academic year) is 4,400 or such lower number as may be prescribed by the Secretary of the Air Force under subsection (j). Subject to that limitation, cadets are selected as follows:
 
 (1) 65 cadets selected in order of merit as established by competitive examination from the children of members of the armed forces who were killed in action or died of, or have a service-connected disability rated at not less than 100 per centum resulting from wounds or injuries received or diseases contracted in, or preexisting injury or disease aggravated by, active service, children of members who are in a “missing status” as defined in [section 551(2) of title 37](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section551/2&num=0&edition=prelim), and children of civilian employees who are in “missing status” as defined in [section 5561(5) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5561/5&num=0&edition=prelim). The determination of the Department of Veterans Affairs as to service connection of the cause of death or disability, and the percentage at which the disability is rated, is binding upon the Secretary of the Air Force.
 
@@ -399,17 +411,17 @@ Each Senator, Representative, and Delegate in Congress, including the Resident C
   (D) would be, or who died while they would have been, entitled to retired pay under chapter 1223 of this title except for not having attained 60 years of age;
   however, a person who is eligible for selection under paragraph (1) of subsection (a) may not be selected under this paragraph.
 
-(2) 85 nominated by the Secretary of the Air Force from enlisted members of the Regular Air Force.
+(2) 85 nominated by the Secretary of the Air Force from enlisted members of the Regular Air Force or the Regular Space Force.
 
 (3) 85 nominated by the Secretary of the Air Force from enlisted members of reserve components of the Air Force.
 
-(4) 20 nominated by the Secretary of the Air Force, under regulations prescribed by him, from the honor graduates of schools designated as honor schools by the Department of the Army, the Department of the Navy, or the Department of the Air Force, and from members of the Air Force Reserve Officers’ Training Corps.
+(4) 20 nominated by the Secretary of the Air Force, under regulations prescribed by the Secretary, from the honor graduates of schools designated as honor schools by the Department of the Army, the Department of the Navy, or the Department of the Air Force, and from members of the Air Force Reserve Officers’ Training Corps.
 
 (5) 150 selected by the Secretary of the Air Force in order of merit (prescribed pursuant to [section 9443 of this title](./chapter-953-united-states-air-force-academy.md#section-9443)) from qualified alternates nominated by persons named in paragraphs (3) and (4) of subsection (a).
 
 **(c)** The President may also appoint as cadets at the Academy children of persons who have been awarded the Medal of Honor for acts performed while in the armed forces.
 
-**(d)** The Superintendent may nominate for appointment each year 50 persons from the country at large. Persons nominated under this paragraph may not displace any appointment authorized under paragraphs (2) through (9) of subsection (a) and may not cause the total strength of Air Force Cadets to exceed the authorized number.
+**(d)** The Superintendent may nominate for appointment each year 50 persons from the country at large. Persons nominated under this paragraph may not displace any appointment authorized under paragraphs (2) through (9) of subsection (a) and may not cause the total strength of cadets to exceed the authorized number.
 
 **(e)** If the annual quota of cadets under subsection (b)(1), (2), or (3) is not filled, the Secretary may fill the vacancies by nominating for appointment other candidates from any of these sources who were found best qualified on examination for admission and not otherwise nominated.
 
@@ -441,7 +453,7 @@ Each Senator, Representative, and Delegate in Congress, including the Resident C
 
 **(h)** The Superintendent shall furnish to any Member of Congress, upon the written request of such Member, the name of the Congressman or other nominating authority responsible for the nomination of any named or identified person for appointment to the Academy.
 
-**(i)** For purposes of the limitation in subsection (a) establishing the aggregate authorized strength of Air Force Cadets, the Secretary of the Air Force may for any year permit a variance in that limitation by not more than one percent. In applying that limitation, and any such variance, the last day of an academic year shall be considered to be graduation day.
+**(i)** For purposes of the limitation in subsection (a) establishing the aggregate authorized strength of cadets, the Secretary of the Air Force may for any year permit a variance in that limitation by not more than one percent. In applying that limitation, and any such variance, the last day of an academic year shall be considered to be graduation day.
 
 **(j)**
 
@@ -451,7 +463,7 @@ Each Senator, Representative, and Delegate in Congress, including the Resident C
 
 (3) The amount of an increase under paragraph (1) in the cadet strength limit for an academic year may not exceed the increase (if any) for the preceding academic year in the total number of cadets enrolled in the Air Force Senior Reserve Officers’ Training Corps program under chapter 103 of this title who have entered into an agreement under section 2104 or 2107 of this title.
 
-(4) In this subsection, the term “cadet strength limit” means the authorized maximum strength of Air Force Cadets of the Academy.
+(4) In this subsection, the term “cadet strength limit” means the authorized maximum strength of cadets of the Academy.
 
 ### Statutory Notes
 
@@ -493,6 +505,12 @@ A prior section 9442 was renumbered [section 9492 of this title](./chapter-959-c
 Another prior section 9442, added Pub. L. 98–525, title XV, § 1533(b)(1), Oct. 19, 1984, 98 Stat. 2632, related to assistance of Civil Air Patrol by other agencies, prior to the general amendment of former chapter 909 (now 959) of this title by Pub. L. 106–398.
 
 #### Amendments
+2021—Pub. L. 116–283, § 923(d)(10)(A)(i), substituted “cadets” for “Air Force Cadets” wherever appearing.
+
+Subsec. (b)(2). Pub. L. 116–283, § 923(d)(10)(A)(ii), inserted “or the Regular Space Force” after “Regular Air Force”.
+
+Subsec. (b)(4). Pub. L. 116–283, § 923(d)(10)(B), substituted “the Secretary,” for “him,”.
+
 2018—Pub. L. 115–232, § 806(a)(3), renumbered [section 9342 of this title](./chapter-943-retired-grade.md#section-9342) as this section.
 
 Subsec. (b)(5). Pub. L. 115–232, § 809(a), substituted “section 9443” for “section 9343”.
@@ -766,13 +784,13 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 (2) That upon graduation from the Academy the cadet—
 
-  (A) will accept an appointment, if tendered, as a commissioned officer of the Regular Air Force; and
+  (A) will accept an appointment, if tendered, as a commissioned officer of the Regular Air Force or the Regular Space Force; and
 
   (B) will serve on active duty for at least five years immediately after such appointment.
 
 (3) That if an appointment described in paragraph (2) is not tendered or if the cadet is permitted to resign as a regular officer before completion of the commissioned service obligation of the cadet, the cadet—
 
-  (A) will accept an appointment as a commissioned officer as a Reserve in the Air Force for service in the Air Force Reserve; and
+  (A) will accept an appointment as a commissioned officer as a Reserve in the Air Force for service in the Air Force Reserve or as a Reserve in the Space Force for service in the Space Force Reserve; and
 
   (B) will remain in that reserve component until completion of the commissioned service obligation of the cadet.
 
@@ -780,7 +798,7 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 (5) That the cadet—
 
-  (A) will not seek release from the cadet’s commissioned service obligation to obtain employment as a professional athlete following graduation until the cadet completes a period of at least two consecutive years of commissioned service; and
+  (A) will not seek release from the cadet’s commissioned service obligation or seek or accept approval for off-duty employment while completing the cadet’s commissioned service obligation to obtain employment as a professional athlete following graduation until the cadet completes a period of at least two consecutive years of commissioned service; and
 
   (B) understands that the appointment alternative described in paragraph (2) will not be used to allow the cadet to obtain such employment until at least the end of that two-year period.
 
@@ -823,6 +841,12 @@ The word “agreement” is substituted for the word “articles”. The words �
 A prior section 9448 was renumbered [section 9498 of this title](./chapter-959-civil-air-patrol.md#section-9498).
 
 #### Amendments
+2021—Subsec. (a)(2)(A). Pub. L. 116–283, § 923(d)(11)(A), inserted “or the Regular Space Force” after “Regular Air Force”.
+
+Subsec. (a)(3)(A). Pub. L. 116–283, § 923(d)(11)(B), inserted “or as a Reserve in the Space Force for service in the Space Force Reserve” after “Air Force Reserve”.
+
+2019—Subsec. (a)(5)(A). Pub. L. 116–92 inserted “or seek or accept approval for off-duty employment while completing the cadet’s commissioned service obligation” before “to obtain employment”.
+
 2018—Pub. L. 115–232 renumbered [section 9348 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section9348&num=0&edition=prelim) as this section.
 
 2017—Subsec. (a)(5). Pub. L. 115–91, § 543(c), added par. (5).
@@ -902,8 +926,6 @@ Secretary of Defense to prescribe, not later than July 1, 2007, Department of De
 
 **(c)** The Secretary of the Air Force shall so arrange the course of studies at the Academy that cadets are not required to pursue their studies on Sunday.
 
-**(d)** Cadets shall be trained in the duties of members of the Air Force.
-
 ### Statutory Notes
 
 | Historical and Revision Notes |  |  |
@@ -920,6 +942,8 @@ In subsection (b), the word “perform” is substituted for the words “be sub
 In subsection (e), the words “members of the Air Force” are substituted for the words “private soldier, noncommissioned officer, and officer”. The words “taught and” are omitted as surplusage. 10:1105 (less 1st 18 words of last sentence) is omitted as inapplicable to the Air Force.
 
 #### Amendments
+2021—Subsec. (d). Pub. L. 116–283 struck out subsec. (d) which read as follows: “Cadets shall be trained in the duties of members of the Air Force.”
+
 2018—Pub. L. 115–232 renumbered [section 9349 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section9349&num=0&edition=prelim) as this section.
 
 #### Effective Date of 2018 Amendment
@@ -993,7 +1017,7 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 **(b)** If a cadet who is charged with violating a regulation issued under subsection (a), the penalty for which is or may be dismissal from the Academy, requests in writing a trial by a general court-martial, he may not be dismissed for that offense except under sentence of such a court.
 
-**(c)** A cadet dismissed from the Academy for hazing may not be reappointed as an Air Force cadet, and is ineligible for appointment as a commissioned officer in a regular component of the Army, Navy, Air Force, or Marine Corps, until two years after the graduation of his class.
+**(c)** A cadet dismissed from the Academy for hazing may not be reappointed as a cadet, and is ineligible for appointment as a commissioned officer in a regular component of the Army, Navy, Air Force, Marine Corps, or Space Force, until two years after the graduation of his class.
 
 ### Statutory Notes
 
@@ -1009,6 +1033,8 @@ In subsection (b), the words “the penalty for which is or may be” are substi
 In subsection (c), the words “a regular component” are inserted, since the source statute historically applied only to the regular components.
 
 #### Amendments
+2021—Subsec. (c). Pub. L. 116–283 substituted “a cadet” for “an Air Force cadet” and “Marine Corps, or Space Force” for “or Marine Corps”.
+
 2018—Pub. L. 115–232 renumbered [section 9352 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section9352&num=0&edition=prelim) as this section.
 
 #### Effective Date of 2018 Amendment
@@ -1019,7 +1045,7 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 ## § 9453. Cadets: degree and commission on graduation
 **(a)** The Superintendent of the Academy may, under such conditions as the Secretary of the Air Force may prescribe, confer the degree of bachelor of science upon graduates of the Academy.
 
-**(b)** Notwithstanding any other provision of law, a cadet who completes the prescribed course of instruction may, upon graduation, be appointed a second lieutenant in the Regular Air Force under [section 531 of this title](./chapter-033-original-appointments-of-regular-officers-in-grades-above-warrant-officer-grades.md#section-531).
+**(b)** Notwithstanding any other provision of law, a cadet who completes the prescribed course of instruction may, upon graduation, be appointed a second lieutenant in the Regular Air Force or in the equivalent grade in the Regular Space Force under [section 531 of this title](./chapter-033-original-appointments-of-regular-officers-in-grades-above-warrant-officer-grades.md#section-531).
 
 ### Statutory Notes
 
@@ -1044,6 +1070,8 @@ It is unnecessary to include a reference to [section 541 of title 10](./chapter-
 The change reflects the opinion of the Judge Advocate General of the Air Force (July 19, 1957) that the words “from and after the date of the accrediting of said academies” in the source law for section 9353(a) (Act of May 25, 1933, ch. 37 (48 Stat. 73), as amended) were a condition precedent to the authority to grant degrees and should not have been omitted.
 
 #### Amendments
+2021—Subsec. (b). Pub. L. 116–283 inserted “or in the equivalent grade in the Regular Space Force” after “Regular Air Force”.
+
 2018—Pub. L. 115–232 renumbered [section 9353 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section9353&num=0&edition=prelim) as this section.
 
 1997—Subsec. (a). Pub. L. 105–85 substituted “The” for “After the date of the accrediting of the Academy, the”.
@@ -1354,6 +1382,14 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
     (iv) any other issues relating to sexual harassment and sexual violence involving Academy personnel.
 
+(3)
+
+  (A) The Secretary of Defense may postpone the conduct of an assessment under this subsection if the Secretary determines that conducting such assessment is not practicable due to a war or national emergency declared by the President or Congress.
+
+  (B) The Secretary of Defense shall ensure that an assessment postponed under subparagraph (A) is conducted as soon as practicable after the end of the period of war or national emergency concerned, or earlier if the Secretary determines appropriate.
+
+  (C) The Secretary of Defense shall notify Congress of a determination under subparagraph (A) not later than 30 days after the date on which the Secretary makes such determination.
+
 **(d) Annual Report.—**
 
 (1) The Secretary of the Air Force shall direct the Superintendent of the Academy to submit to the Secretary a report on sexual harassment and sexual violence involving cadets or other personnel at the Academy for each Academy program year.
@@ -1374,9 +1410,43 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
   (B) The Secretary of Defense shall transmit each such report, together with the Secretary’s comments on the report, to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives.
 
+**(e) Consideration of Request for Transfer of a Cadet Who Is the Victim of a Sexual Assault or Related Offense.—**
+
+(1) The Secretary of the Air Force shall provide for timely consideration of and action on a request submitted by a cadet appointed to the United States Air Force Academy who is the victim of an alleged sexual assault or other offense covered by section 920, 920c, or 930 of this title (article 120, 120c, or 130 of the Uniform Code of Military Justice) for transfer to another military service academy or to enroll in a Senior Reserve Officers’ Training Corps program affiliated with another institution of higher education.
+
+(2) The Secretary of the Air Force shall prescribe regulations to carry out this subsection, within guidelines provided by the Secretary of Defense that—
+
+  (A) provide that the Superintendent of the United States Air Force Academy shall ensure that any cadet who has been appointed to the United States Air Force Academy and who is a victim of an alleged sexual assault or other offense referred to in paragraph (1), is informed of the right to request a transfer pursuant to this section, and that any formal request submitted by a cadet is processed as expeditiously as practicable through the chain of command for review and action by the Superintendent;
+
+  (B) direct the Superintendent of the United States Air Force Academy, in coordination with the Superintendent of the military service academy to which the cadet requests to transfer—
+
+    (i) to take action on a request for transfer under this subsection not later than 72 hours after receiving the formal request from the cadet;
+
+    (ii) to approve such request for transfer unless there are exceptional circumstances that require denial of the request; and
+
+    (iii) upon approval of such request, to take all necessary and appropriate action to effectuate the transfer of the cadet to the military service academy concerned as expeditiously as possible; and
+
+  (C) direct the Superintendent of the United States Air Force Academy, in coordination with the Secretary of the military department that sponsors the Senior Reserve Officers’ Training Corps program at the institution of higher education to which the cadet requests to transfer—
+
+    (i) to take action on a request for transfer under this subsection not later than 72 hours after receiving the formal request from the cadet;
+
+    (ii) subject to the cadet’s acceptance for admission to the institution of higher education to which the cadet wishes to transfer, to approve such request for transfer unless there are exceptional circumstances that require denial of the application; and
+
+    (iii) to take all necessary and appropriate action to effectuate the cadet’s enrollment in the institution of higher education to which the cadet wishes to transfer and to process the cadet for participation in the relevant Senior Reserve Officers’ Training Corps program as expeditiously as possible.
+
+(3) If the Superintendent of the United States Air Force Academy denies a request for transfer under this subsection, the cadet may request review of the denial by the Secretary of the Air Force, who shall take action on such request not later than 72 hours after receipt of the formal request for review.
+
+(4) The Secretary concerned shall ensure that all records of any request, determination, transfer, or other action under this subsection remain confidential, consistent with applicable law and regulation.
+
+(5) A cadet who transfers under this subsection may retain the cadet’s appointment to the United States Air Force Academy or may be appointed to the military service academy to which the cadet transfers without regard to the limitations and requirements set forth in sections 7442, 8454, and 9442 of this title.
+
 ### Statutory Notes
 
 #### Amendments
+2021—Subsec. (c)(3). Pub. L. 116–283 added par. (3).
+
+2019—Subsec. (e). Pub. L. 116–92 added subsec. (e).
+
 2018—Pub. L. 115–232 renumbered [section 9361 of this title](./chapter-945-computation-of-retired-pay.md#section-9361) as this section.
 
 #### Effective Date of 2018 Amendment
@@ -1384,6 +1454,15 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 #### Termination of Reporting Requirements
 For termination, effective Dec. 31, 2021, of provisions in subsec. (d)(4)(B) of this section requiring submittal of annual report to Congress, see section 1061 of Pub. L. 114–328, set out as a note under [section 111 of this title](./chapter-002-department-of-defense.md#section-111).
+
+#### Policy for Military Service Academies on Separation of Alleged Victims and Alleged Perpetrators in Incidents of Sexual Assault
+Secretary of Defense to consult with Secretaries of the military departments and Superintendent of each military service academy and prescribe in regulations a policy that allows a cadet or midshipman of a military service academy who is the alleged victim or alleged perpetrator of a sexual assault to complete their course of study at the academy with minimal disruption and does not preclude the academy from taking other administrative or disciplinary action, see section 539 of Pub. L. 116–283, set out as a note under [section 7461 of this title](./chapter-753-united-states-military-academy.md#section-7461).
+
+#### Applicability of Sexual Assault Prevention and Response and Related Military Justice Enhancements to Military Service Academies
+Secretary of the military department concerned to ensure that the provisions of title XVII of Pub. L. 113–66 and subtitle D of title V of div. A of Pub. L. 113–291 apply to the United States Military Academy, the Naval Academy, and the Air Force Academy, as applicable, see section 552(a) of Pub. L. 113—291, set out as a note under [section 7461 of this title](./chapter-753-united-states-military-academy.md#section-7461).
+
+#### Prevention of Sexual Assault at Military Service Academies
+Secretary of Defense to ensure that military service academy curricula include honor, respect, and character development pertaining to prevention of sexual assault in the Armed Forces; training provided within 14 days after a new cadet or midshipman arrives at the academy and repeated annually, see section 1746 of Pub. L. 113–66, set out as a note under [section 7461 of this title](./chapter-753-united-states-military-academy.md#section-7461).
 
 #### Further Information From Cadets and Midshipmen at the Service Academies on Sexual Assault and Sexual Harassment Issues
 Secretary of a military department to provide for focus groups to ascertain information relating to sexual assault and sexual harassment issues in any year in which the Secretary is not required by law to conduct a survey on such matters at the service academy under the Secretary’s jurisdiction and to include such information in the Secretary’s annual report to Congress, see section 532(b) of Pub. L. 109–364, set out as a note under [section 7461 of this title](./chapter-753-united-states-military-academy.md#section-7461).
@@ -1409,7 +1488,7 @@ Secretary of a military department to provide for focus groups to ascertain info
 
 (1) The members of the board of directors of the corporation shall serve without compensation as members of the board, except for reasonable travel and other related expenses for attendance at meetings of the board.
 
-(2) The Secretary of the Air Force may authorize military and civilian personnel of the Air Force under [section 1033 of this title](./chapter-053-miscellaneous-rights-and-benefits.md#section-1033) to serve, in their official capacities, as members of the board of directors of the corporation, but such personnel shall not hold more than one-third of the directorships.
+(2) The Secretary of the Air Force may authorize military and civilian personnel of the Department of the Air Force under [section 1033 of this title](./chapter-053-miscellaneous-rights-and-benefits.md#section-1033) to serve, in their official capacities, as members of the board of directors of the corporation, but such personnel shall not hold more than one-third of the directorships.
 
 **(d) Transfers From Nonappropriated Fund Operation.—** The Secretary of the Air Force may, subject to the acceptance of the corporation, transfer to the corporation all title to and ownership of the assets and liabilities of the Air Force nonappropriated fund instrumentality whose functions include providing support for the athletic programs of the Academy, including bank accounts and financial reserves in its accounts, equipment, supplies, and other personal property, but excluding any interest in real property.
 
@@ -1447,13 +1526,23 @@ Secretary of a military department to provide for focus groups to ascertain info
 
 ### Statutory Notes
 
+#### Amendment of Section
+Pub. L. 116–283, div. A, title XVIII, §§ 1801(d), 1883(b)(2), Jan. 1, 2021, 134 Stat. 4151, 4294, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, except as otherwise provided in title XVIII of Pub. L. 116–283, in title 10, United States Code, each reference in the text of such title to a source section that is redesignated by title XVIII of Pub. L. 116–283, is amended by striking such reference and inserting a reference to the appropriate section as so redesignated. See 2021 Amendment note(s) below.
+
 #### References in Text
 Section 501(c)(3) of the Internal Revenue Code of 1986, referred to in subsec. (b)(1), is classified to [section 501(c)(3) of Title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section501/c/3&num=0&edition=prelim), Internal Revenue Code.
 
 #### Amendments
+Subsec. (c)(2). Pub. L. 116–283, § 923(d)(15), substituted “personnel of the Department of the Air Force” for “personnel of the Air Force”.
+
+Subsec. (g). Pub. L. 116–283, § 1883(b)(2), substituted for “3201(e)” for “2304(k)” and “3204(a)(5)” for “2304(c)(5)”.
+
 2018—Pub. L. 115–232 renumbered [section 9362 of this title](./chapter-945-computation-of-retired-pay.md#section-9362) as this section.
 
 2014—Subsecs. (e) to (i). Pub. L. 113–291 added subsecs. (e) to (i) and struck out former subsecs. (e) to (g) which related to acceptance of gifts, leases of real and personal property, and cooperative agreements, respectively.
+
+#### Effective Date of 2021 Amendment
+Amendment by 1883(b)(2) of Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
 
 #### Effective Date of 2018 Amendment
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).

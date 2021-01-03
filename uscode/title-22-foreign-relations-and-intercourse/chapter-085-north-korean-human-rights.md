@@ -244,6 +244,9 @@ Subsec. (b)(1). Pub. L. 115–198, § 7(a)(2), substituted “2022” for “201
 
 Subsec. (a)(1). Pub. L. 115–198, § 4(2), substituted “broadcasting, including news rebroadcasting,” for “radio broadcasting”, “increase such broadcasts, including news rebroadcasts,” for “increase broadcasts”, and “Voice of America; and” for “Voice of America.”
 
+#### Change of Name
+Broadcasting Board of Governors renamed United States Agency for Global Media pursuant to [section 6204(a)(22) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section6204/a/22&num=0&edition=prelim). The renaming was effectuated by notice to congressional appropriations committees dated May 24, 2018, and became effective Aug. 22, 2018.
+
 
 <a id="section-7817"></a>
 ## § 7817. Actions to promote freedom of information
@@ -304,6 +307,9 @@ Subsec. (c). Pub. L. 115–198, § 7(b)(2), substituted “2022” for “2017�
 2008—Subsec. (b)(1). Pub. L. 110–346, § 7(1), substituted “2012” for “2008”.
 
 Subsec. (c). Pub. L. 110–346, § 7(2), substituted “annually through 2012” for “in each of the 3 years thereafter”.
+
+#### Change of Name
+Broadcasting Board of Governors renamed United States Agency for Global Media pursuant to [section 6204(a)(22) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section6204/a/22&num=0&edition=prelim). The renaming was effectuated by notice to congressional appropriations committees dated May 24, 2018, and became effective Aug. 22, 2018.
 
 #### Delegation of Functions
 Functions of President under section 301 of Pub. L. 114–122 (adding subsec. (d) of this section) delegated to Secretary of State by Memorandum of President of the United States, May 18, 2016, 81 F.R. 37479, set out as a note under [section 9212 of this title](./chapter-099-north-korea-sanctions-and-policy-enhancement.md#section-9212).

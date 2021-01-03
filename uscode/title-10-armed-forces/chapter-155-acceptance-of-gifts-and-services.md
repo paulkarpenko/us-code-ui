@@ -62,9 +62,9 @@ source: >-
 
 (3) The Secretary concerned may disburse funds deposited in a gift fund referred to in subsection (c) for the purposes specified in subsections (a) and (b), subject to the terms of the gift, devise, or bequest.
 
-**(e) Acceptance of Real Property Gifts; Naming Rights.—**
+**(e) Acceptance of Property Gifts; Naming Rights.—**
 
-(1) The Secretary concerned may accept a gift under subsection (a) or (b) consisting of the provision, acquisition, enhancement, or construction of real property offered to the United States Military Academy, the Naval Academy, the Air Force Academy, or the Coast Guard Academy even though the gift will be subject to the condition that the real property, or a portion thereof, bear a specified name.
+(1) The Secretary concerned may accept a gift under subsection (a) or (b) consisting of the provision, acquisition, enhancement, or construction of real or personal property offered to an eligible entity even though the gift will be subject to the condition that the real or personal property, or a portion thereof, bear a specified name.
 
 (2) The authority conferred by this subsection may be delegated by the Secretary concerned only to a civilian official appointed by the President, by and with the advice and consent of the Senate.
 
@@ -72,9 +72,17 @@ source: >-
 
   (A) the acceptance of the gift or the imposition of the naming-rights condition would reflect unfavorably upon the United States, as provided in subsection (d)(2); or
 
-  (B) the real property to be subject to the condition, or portion thereof, has been named by an act of Congress.
+  (B) the real or personal property to be subject to the condition, or portion thereof, has been named by an act of Congress.
 
 (4) The Secretaries concerned shall issue uniform regulations governing the circumstances under which gifts conditioned on naming rights may be accepted, appropriate naming conventions, and suitable display standards.
+
+(5) In this subsection, the term “eligible entity” means each of the following:
+
+  (A) The United States Military Academy, the Naval Academy, the Air Force Academy, and the Coast Guard Academy.
+
+  (B) The professional military education schools listed in [section 2162(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2162/d&num=0&edition=prelim) and the Defense Acquisition University.
+
+  (C) A military museum.
 
 **(f) Payment of Expenses.—** The Secretary concerned may pay all necessary expenses in connection with the conveyance or transfer of a gift, devise, or bequest accepted under this section.
 
@@ -108,6 +116,16 @@ In subsection (c), the words “any gift, devise, or bequest of” and “real o
 In subsection (d), the words “or any part thereof deposited in the Treasury pursuant to [section 150r of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section150r&num=0&edition=prelim)” are omitted as surplusage.
 
 #### Amendments
+2021—Subsec. (e). Pub. L. 116–283, § 2821(a)(1), struck out “Real” before “Property” in heading.
+
+Subsec. (e)(1). Pub. L. 116–283, § 2821(b)(1), substituted “an eligible entity” for “the United States Military Academy, the Naval Academy, the Air Force Academy, or the Coast Guard Academy”.
+
+Pub. L. 116–283, § 2821(a)(2), inserted “or personal” after “real” in two places.
+
+Subsec. (e)(3)(B). Pub. L. 116–283, § 2821(a)(3), inserted “or personal” after “real”.
+
+Subsec. (e)(5). Pub. L. 116–283, § 2821(b)(2), added par. (5).
+
 2015—Subsecs. (e) to (j). Pub. L. 114–92 added subsec. (e) and redesignated former subsecs. (e) to (i) as (f) to (j), respectively.
 
 2013—Subsec. (a). Pub. L. 112–239, § 2852(a)(1), designated existing provisions as par. (1), substituted “The” for “Subject to subsection (d)(2), the”, and added par. (2).

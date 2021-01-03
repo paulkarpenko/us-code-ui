@@ -2,7 +2,7 @@
 title: 42
 chapter: '44'
 heading: DEPARTMENT OF HOUSING AND URBAN DEVELOPMENT
-section_count: 26
+section_count: 27
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42&num=0&edition=prelim
 ---
@@ -1268,6 +1268,10 @@ Section was enacted as part of the appropriation act cited as the credit to this
 #### Similar Provisions
 Provisions similar to those in this section were contained in the following appropriation acts:
 
+Pub. L. 116–260, div. L, title II, § 216, Dec. 27, 2020, 134 Stat. 1897.
+
+Pub. L. 116–94, div. H, title II, § 216, Dec. 20, 2019, 133 Stat. 3004.
+
 Pub. L. 116–6, div. G, title II, § 218, Feb. 15, 2019, 133 Stat. 460.
 
 Pub. L. 115–141, div. L, title II, § 219, Mar. 23, 2018, 132 Stat. 1033.
@@ -1377,3 +1381,22 @@ Pub. L. 108–447, div. I, title II, Dec. 8, 2004, 118 Stat. 3312.
 Pub. L. 108–199, div. G, title II, Jan. 23, 2004, 118 Stat. 389.
 
 Pub. L. 108–7, div. K, title II, Feb. 20, 2003, 117 Stat. 499, as amended by Pub. L. 108–199, div. G, title II, Jan. 23, 2004, 118 Stat. 389.
+
+
+<a id="section-3550"></a>
+## § 3550. Audit of Department financial statements
+
+For this fiscal year and each fiscal year thereafter, subject to appropriations for that purpose, the Office of Inspector General shall procure and rely upon the services of an independent external auditor(s) to audit the financial statements of the Department of Housing and Urban Development, including the consolidated financial statement and the financial statements of the Federal Housing Administration and the Government National Mortgage Association.
+
+### Statutory Notes
+
+#### References in Text
+This fiscal year, referred to in text, is fiscal year 2021.
+
+#### Codification
+Section was enacted as part of the Department of Housing and Urban Development Appropriations Act, 2021, and also as part of the Transportation, Housing and Urban Development, and Related Agencies Appropriations Act, 2021, and not as part of the Department of Housing and Urban Development Act which comprises this chapter.
+
+#### Similar Provisions
+Provisions similar to this section were contained in the following prior appropriation act:
+
+Pub. L. 116–94, div. H, title II, Dec. 20, 2019, 133 Stat. 2999.

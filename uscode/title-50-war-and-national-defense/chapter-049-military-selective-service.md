@@ -918,7 +918,7 @@ Act July 9, 1956, ch. 523, § 2, 70 Stat. 509, provided that: “The amendment m
 #### References in Text
 This chapter, referred to in subsecs. (a) to (d), was in the original “this title”, meaning title I of act June 24, 1948, ch. 625, 62 Stat. 604, which is classified principally to this chapter. For complete classification of title I to the Code, see Tables.
 
-The Act of March 31, 1947, referred to in subsecs. (a)(4) and (b)(8), is act Mar. 31, 1947, ch. 26, 61 Stat. 31, which is classified as a note under [section 3815 of this title](./chapter-049-military-selective-service.md#section-3815).
+The Act of March 31, 1947, referred to in subsecs. (a)(4) and (b)(8), is act Mar. 31, 1947, ch. 26, 61 Stat. 31, which is classified as a note under this section.
 
 Section 14 of the Federal Employees’ Pay Act of 1946 (Public Law 390, Seventy-ninth Congress), referred to in subsec. (b)(10), is section 14 of act May 24, 1946, ch. 270, 60 Stat. 219, which amended section 947 of former Title 5, Executive Departments and Government Officers and Employees, prior to repeal by act Sept. 12, 1950, ch. 946, title III, § 301(85), 64 Stat. 843.
 
@@ -1059,6 +1059,9 @@ Under such rules and regulations as may be prescribed by the President, funds av
 
 ### Statutory Notes
 
+#### Amendment of Section
+Pub. L. 116–315, § 2202(b)(2), (d), Jan. 5, 2021, 134 Stat. 4985, provided that, applicable to deaths that occur on or after the date that is two years after Jan. 5, 2021, this section is amended by substituting “[section 2303 of title 38](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section2303&num=0&edition=prelim), United States Code, regarding veterans described in subparagraph (B) or (C) of subsection (a)(2) of such section” for “[section 2302(a) of title 38](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section2302/a&num=0&edition=prelim)”. See 2021 Amendment note below.
+
 #### References in Text
 This chapter, referred to in text, was in the original “this title”, meaning title I of act June 24, 1948, ch. 625, 62 Stat. 604, which is classified principally to this chapter. For complete classification of title I to the Code, see Tables.
 
@@ -1066,11 +1069,16 @@ This chapter, referred to in text, was in the original “this title”, meaning
 Section was formerly classified to section 461 of the former Appendix to this title prior to editorial reclassification and renumbering as this section.
 
 #### Amendments
+2021—Pub. L. 116–315 substituted “[section 2303 of title 38](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section2303&num=0&edition=prelim), United States Code, regarding veterans described in subparagraph (B) or (C) of subsection (a)(2) of such section” for “[section 2302(a) of title 38](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section2302/a&num=0&edition=prelim)”.
+
 1991—Pub. L. 102–83 substituted “[section 2302(a) of title 38](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section2302/a&num=0&edition=prelim)” for “[section 902(a) of title 38](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section902/a&num=0&edition=prelim)”.
 
 Pub. L. 102–54 substituted “Secretary of Veterans Affairs” for “Administrator of Veterans’ Affairs”.
 
 1971—Pub. L. 92–129 substituted “the maximum that the Administrator of Veterans’ Affairs may pay under the provisions of [section 902(a) of title 38](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section902/a&num=0&edition=prelim)” for “$150”.
+
+#### Effective Date of 2021 Amendment
+Amendment by Pub. L. 116–315 applicable to deaths that occur on or after the date that is two years after Jan. 5, 2021, see section 2202(d) of Pub. L. 116–315, set out as a note under [section 113 of Title 38](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section113&num=0&edition=prelim), Veterans’ Benefits.
 
 
 <a id="section-3811"></a>
@@ -1498,7 +1506,7 @@ Section was formerly classified to section 468 of the former Appendix to this ti
 1973—Subsec. (a). Pub. L. 93–155 provided for notification of Congressional Committees with respect to certain proposed payment orders, Congressional resolution of disapproval, continuity of Congressional session, and computation of period.
 
 #### Transfer of Functions
-National Security Resources Board, together with Office of Chairman, abolished by section 6 of Reorg. Plan No. 3 of 1953, eff. June 12, 1953, 18 F.R. 3375, 67 Stat. 634, set out in the Appendix to Title 5, Government Organization and Employees. Functions of Chairman of National Security Resources Board under this section, with respect to being consulted by and furnishing advice to President as required by this section, abolished by section 5(a) of Reorg. Plan No. 3 of 1953. Other functions of Chairman transferred to Office of Defense Mobilization by section 2(a) of Reorg. Plan No. 3 of 1953. For subsequent transfers to Office of Emergency Planning, Office of Emergency Preparedness, President, Federal Preparedness Agency, Federal Emergency Management Agency, and Secretary of Homeland Security, see notes set out under [section 3042 of this title](./chapter-044-national-security.md#section-3042).
+National Security Resources Board, together with Office of Chairman, abolished by section 6 of Reorg. Plan No. 3 of 1953, eff. June 12, 1953, 18 F.R. 3375, 67 Stat. 634, set out in the Appendix to Title 5, Government Organization and Employees. Functions of Chairman of National Security Resources Board under this section, with respect to being consulted by and furnishing advice to President as required by this section, abolished by section 5(a) of Reorg. Plan No. 3 of 1953. Other functions of Chairman transferred to Office of Defense Mobilization by section 2(a) of Reorg. Plan No. 3 of 1953. For subsequent transfers to Office of Emergency Planning, Office of Emergency Preparedness, President, Federal Preparedness Agency, Federal Emergency Management Agency, and Secretary of Homeland Security, see notes set out under former [section 3042 of this title](./chapter-044-national-security.md#section-3042).
 
 Atomic Energy Commission abolished and functions transferred by sections 5814 and 5841 of Title 42, The Public Health and Welfare. See also Transfer of Functions notes set out under those sections.
 

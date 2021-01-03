@@ -41,6 +41,12 @@ Amendment by Pub. L. 95–588 effective Jan. 1, 1979, see section 401 of Pub. L.
 #### Effective Date of 1975 Amendment
 Pub. L. 94–169, title I, § 106, Dec. 23, 1975, 89 Stat. 1017, provided that the amendment made by that section is effective Jan. 1, 1976.
 
+#### Plan To Address the Financial Exploitation of Veterans Receiving Pension From the Department of Veterans Affairs
+Pub. L. 116–315, title VI, § 6002, Jan. 5, 2021, 134 Stat. 5051, provided that: “(a) Development of Method for Solicitation and Collection of Information.—Not later than one year after the date of the enactment of this Act [Jan. 5, 2021], the Secretary of Veterans Affairs shall develop a method for systematically soliciting and collecting information on complaints received, referrals made, and actions taken by the pension management centers of the Department of Veterans Affairs and any other relevant components of the Department, in cases of potential financial exploitation of individuals receiving pension under chapter 15 of title 38, United States Code. “(b) Plan To Assess and Address Financial Exploitation of Veterans.—“(1) In general.—The Secretary shall develop and periodically update a plan—“(A) to regularly assess the information solicited and collected under subsection (a) to identify trends of potential financial exploitation of the individuals described in subsection (a) across the Department; and “(B) to outline actions that the Department can take to improve education and training to address those trends. “(2) Submission of plan.—Not later than one year after the date of the enactment of this Act and not less frequently than once every two years thereafter until the date that is six years after the date of the enactment of this Act, the Secretary shall submit the plan most recently developed or updated under paragraph (1) to—“(A) the Comptroller General of the United States; and “(B) the Committee on Veterans’ Affairs and the Special Committee on Aging of the Senate and the Committee on Veterans’ Affairs of the House of Representatives.”
+
+#### Notice Regarding Fees Charged in Connection With Filing an Application for Veterans Pension
+Pub. L. 116–315, title VI, § 6006, Jan. 5, 2021, 134 Stat. 5053, provided that: “The Under Secretary for Benefits of the Department of Veterans Affairs shall ensure that every paper or electronic document relating to the receipt of pension under chapter 15 of title 38, United States Code, that is available to individuals who apply for such pension, including educational forms about or applications for such pension, includes a notice that the Department does not charge any fee in connection with the filing of an application for such pension.”
+
 #### Secretary of Veterans Affairs Notice of Dishonest, Predatory, or Otherwise Unlawful Practices Targeting Individuals Who Are Eligible for Increased Pension on Basis of Need for Regular Aid and Attendance
 Pub. L. 115–131, § 2(a), Mar. 9, 2018, 132 Stat. 334, provided that: “The Secretary of Veterans Affairs shall include on the internet website of the Department of Veterans Affairs a warning to veterans relating to dishonest, predatory, or otherwise unlawful practices targeting individuals who are eligible for increased pension under chapter 15 of title 38, United States Code, on the basis of need for regular aid and attendance.”
 
@@ -296,6 +302,9 @@ Amendment by Pub. L. 87–268 effective Oct. 1, 1961, see section 3 of Pub. L. 8
 
 #### Effective Date of 1959 Amendment
 Amendment by Pub. L. 86–211 effective July 1, 1960, see section 10 of Pub. L. 86–211, set out as an Effective Date note under [section 1506 of this title](./chapter-015-pension-for-non-service-connected-disability-or-death-or-for-service.md#section-1506).
+
+#### Clarification of Treatment of Payments for Purposes of Eligibility for Veterans Pension and Other Veterans Benefits
+Pub. L. 116–136, div. B, title X, § 20010, Mar. 27, 2020, 134 Stat. 589, provided that: “Amounts paid to a person under the 2020 Recovery Rebate in the Coronavirus Aid, Relief, and Economic Security Act [Pub. L. 116–136, see Tables for classification] shall not be treated as income or resources for purposes of determining eligibility for pension under chapter 15 of title 38, United States Code, or any other benefit under a law administered by the Secretary of Veterans Affairs.”
 
 
 <a id="section-1504"></a>
@@ -676,7 +685,7 @@ Pub. L. 107–103, title II, § 207(c), Dec. 27, 2001, 115 Stat. 991, provided t
 
 **(i)** If the veteran is entitled under this section to pension on the basis of such veteran’s own service and is also entitled to pension on the basis of any other person’s service, the Secretary shall pay such veteran only the greater benefit.
 
-**(j)** A veteran meets the service requirements of this section if such veteran served in the active military, naval, or air service—
+**(j)** A veteran meets the service requirements of this section if such veteran served in the active military, naval, air, or space service—
 
 (1) for ninety days or more during a period of war;
 
@@ -692,6 +701,8 @@ Pub. L. 107–103, title II, § 207(c), Dec. 27, 2001, 115 Stat. 991, provided t
 Prior section 1521 was renumbered [section 3121 of this title](./chapter-031-training-and-rehabilitation-for-veterans-with-service-connected-disabilities.md#section-3121).
 
 #### Amendments
+2021—Subsec. (j). Pub. L. 116–283 substituted “air, or space service” for “or air service” in introductory provisions.
+
 2012—Subsec. (f)(2). Pub. L. 112–154 substituted “$32,433” for “$30,480”.
 
 2010—Subsec. (b). Pub. L. 111–275, § 608(a)(1), substituted “$11,830” for “$3,550”.
@@ -1215,7 +1226,7 @@ Whenever there is no surviving spouse entitled to pension under [section 1532 of
 ### Statutory Notes
 
 #### Amendments
-1991—Pub. L. 102–83, § 5(a), renumbered [section 533 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section533&num=0&edition=prelim) as this section.
+1991—Pub. L. 102–83, § 5(a), renumbered [section 533 of this title](./chapter-005-authority-and-duties-of-the-secretary.md#section-533) as this section.
 
 Pub. L. 102–83, § 5(c)(1), substituted “1532” for “532” in two places.
 
@@ -1419,11 +1430,13 @@ Pub. L. 94–169, title I, § 106, Dec. 23, 1975, 89 Stat. 1017, provided that t
 
 **(g)** In determining the annual income of a surviving spouse for the purposes of this section, if there is a child of the veteran in the custody of the surviving spouse, that portion of the annual income of the child that is reasonably available to or for the surviving spouse shall be considered to be income of the surviving spouse, unless in the judgment of the Secretary to do so would work a hardship on the surviving spouse.
 
-**(h)** As used in this section and [section 1542 of this title](./chapter-015-pension-for-non-service-connected-disability-or-death-or-for-service.md#section-1542), the term “veteran” includes a person who has completed at least two years of honorable active military, naval, or air service, as certified by the Secretary concerned, but whose death in such service was not in line of duty.
+**(h)** As used in this section and [section 1542 of this title](./chapter-015-pension-for-non-service-connected-disability-or-death-or-for-service.md#section-1542), the term “veteran” includes a person who has completed at least two years of honorable active military, naval, air, or space service, as certified by the Secretary concerned, but whose death in such service was not in line of duty.
 
 ### Statutory Notes
 
 #### Amendments
+2021—Subsec. (h). Pub. L. 116–283 substituted “air, or space service” for “or air service”.
+
 2010—Subsec. (b). Pub. L. 111–275, § 608(b)(1), substituted “$7,933” for “$2,379”.
 
 Subsec. (c). Pub. L. 111–275, § 608(b)(2), substituted “$10,385” for “$3,116” and “$2,020” for “$600”.
@@ -1759,19 +1772,33 @@ Repeal applicable with respect to Medals of Honor awarded on or after Dec. 26, 2
 
 <a id="section-1562"></a>
 ## § 1562. Special provisions relating to pension
-**(a)** The Secretary shall pay monthly to each living person whose name has been entered on the Army, Navy, Air Force, and Coast Guard Medal of Honor Roll, and a copy of whose certificate has been delivered to the Secretary under subsection (d) of [section 1134a of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1134a&num=0&edition=prelim), a special pension at the rate of $1,000, as adjusted from time to time under subsection (e), beginning as of the date on which the person’s name is entered on the Army, Navy, Air Force, and Coast Guard Medal of Honor Roll under subsection (b) of such section.
+**(a)**
+
+(1) The Secretary shall pay monthly to each living person whose name has been entered on the Army, Navy, Air Force, and Coast Guard Medal of Honor Roll, and a copy of whose certificate has been delivered to the Secretary under subsection (d) of [section 1134a of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1134a&num=0&edition=prelim), a special pension at the rate of $1,388.68, as adjusted from time to time under subsection (e), beginning as of the date on which the person’s name is entered on the Army, Navy, Air Force, and Coast Guard Medal of Honor Roll under subsection (b) of such section.
+
+(2)
+
+  (A) Except as provided in subparagraphs (B) and (C), the Secretary shall pay special pension under this section to the surviving spouse of a person whose name has been entered on the Army, Navy, Air Force, and Coast Guard Medal of Honor Roll and a copy of whose certificate has been delivered to the Secretary under [section 1134a(d) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1134a/d&num=0&edition=prelim).
+
+  (B) No special pension shall be paid to a surviving spouse of a person under this section unless such surviving spouse was married to such person—
+
+    (i) for one year or more prior to the veteran’s death; or
+
+    (ii) for any period of time if a child was born of the marriage, or was born to them before the marriage.
+
+  (C) No special pension shall be paid to a surviving spouse of a person under this section if such surviving spouse is receiving benefits under section 1311 or 1318 of this title.
 
 **(b)** The receipt of special pension shall not deprive any person of any other pension or other benefit, right, or privilege to which such person is or may hereafter be entitled under any existing or subsequent law. Special pension shall be paid in addition to all other payments under laws of the United States.
 
 **(c)** Special pension shall not be subject to any attachment, execution, levy, tax lien, or detention under any process whatever.
 
-**(d)** If any person has been awarded more than one medal of honor, such person shall not receive more than one special pension.
+**(d)** If any person has been awarded more than one medal of honor, or married to more than one person who has been awarded a medal of honor, such person shall not receive more than one special pension.
 
 **(e)** Effective as of December 1 each year, the Secretary shall increase the amount of monthly special pension payable under subsection (a) as of November 30 of such year by the same percentage as the percentage by which benefit amounts payable under title II of the Social Security Act ([42 U.S.C. 401](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section401&num=0&edition=prelim) et seq.) are increased effective December 1 of such year as a result of a determination under section 215(i) of that Act ([42 U.S.C. 415(i)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section415/i&num=0&edition=prelim)).
 
 **(f)**
 
-(1) The Secretary shall pay, in a lump sum, to each person who is in receipt of special pension payable under this section an amount equal to the total amount of special pension that the person would have received during the period beginning on the first day of the first month beginning after the date of the act for which the person was awarded the Medal of Honor and ending on the last day of the month preceding the month in which the person’s special pension in fact commenced.
+(1) The Secretary shall pay, in a lump sum, to each person who is in receipt of special pension payable under paragraph (1) of subsection (a), or under paragraph (2) of such subsection in the case of a posthumous entry on the Army, Navy, Air Force, and Coast Guard Medal of Honor Roll, an amount equal to the total amount of special pension that the person would have received during the period beginning on the first day of the first month beginning after the date of the act for which the person was awarded the Medal of Honor and ending on the last day of the month preceding the month in which the person’s special pension in fact commenced.
 
 (2) For each month of a period referred to in paragraph (1), the amount of special pension payable to a person shall be determined using the rate of special pension that was in effect for such month, and shall be payable only if the person would have been entitled to payment of special pension for such month under laws for eligibility for special pension (with the exception of the eligibility law requiring a person to have been awarded a Medal of Honor) in effect at the beginning of such month.
 
@@ -1813,7 +1840,7 @@ Section 1624 provided discontinuance for unsatisfactory progress. See [section 3
 
 Section 1625 provided for a period of operation for approval. See [section 3689 of this title](./chapter-036-administration-of-educational-benefits.md#section-3689).
 
-Section 1626 related to institutions listed by Attorney General. Similar provisions were classified to [section 1789 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section1789&num=0&edition=prelim), renumbered section 1793, and subsequently repealed by section 511(1) of Pub. L. 94–502.
+Section 1626 related to institutions listed by Attorney General. Similar provisions were classified to [section 1789 of this title](./chapter-017-hospital-nursing-home-domiciliary-and-medical-care.md#section-1789), renumbered section 1793, and subsequently repealed by section 511(1) of Pub. L. 94–502.
 
 Section 1631 provided for education and training allowance. See section 3481(a), (b), (d), and (e) of this title.
 
@@ -1910,6 +1937,14 @@ Section 1698, added Pub. L. 92–540, title III, § 308, Oct. 24, 1972, 86 Stat.
 Prior section 1700, which comprised the first section of chapter 35, was renumbered [section 3500 of this title](./chapter-035-survivors-and-dependents-educational-assistance.md#section-3500).
 
 #### Amendments
+2021—Subsec. (a). Pub. L. 116–315, § 2003(b)(1), designated existing provisions as par. (1) and added par. (2).
+
+Pub. L. 116–315, § 2003(a), substituted “$1,388.68” for “$1,000”.
+
+Subsec. (d). Pub. L. 116–315, § 2003(b)(2)(A)(i), inserted “or married to more than one person who has been awarded a medal of honor,” after “more than one medal of honor,”.
+
+Subsec. (f)(1). Pub. L. 116–315, § 2003(b)(2)(A)(ii), substituted “paragraph (1) of subsection (a), or under paragraph (2) of such subsection in the case of a posthumous entry on the Army, Navy, Air Force, and Coast Guard Medal of Honor Roll,” for “this section”.
+
 2013—Subsec. (a). Pub. L. 113–66, § 563(b)(1), substituted “each living person” for “each person”, “Honor Roll, and” for “Honor roll, and”, “subsection (d) of [section 1134a of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1134a&num=0&edition=prelim)” for “subsection (c) of [section 1561 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section1561&num=0&edition=prelim)”, and “date on which the person’s name is entered on the Army, Navy, Air Force, and Coast Guard Medal of Honor Roll under subsection (b) of such section” for “date of application therefor under [section 1560 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section1560&num=0&edition=prelim)”.
 
 Subsec. (g). Pub. L. 113–66, § 563(b)(2), added subsec. (g).
@@ -1939,6 +1974,9 @@ Subsecs. (b), (d). Pub. L. 94–169, § 106(45), substituted “such person” f
 1963—Subsec. (a). Pub. L. 88–77 inserted references to the Coast Guard.
 
 1961—Subsec. (a). Pub. L. 87–138 inserted “, and a copy of whose certificate has been delivered to him under subsection (c) of [section 561 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section561&num=0&edition=prelim),” after “Medal of Honor roll”, and increased pension from $10 to $100.
+
+#### Effective Date of 2021 Amendment
+Amendment by section 2003(b)(1), (2)(A) of Pub. L. 116–315 applicable with respect to payment of pension under this section for months beginning after Jan. 5, 2021, see section 2003(b)(3) of Pub. L. 116–315, set out as a note under [section 103 of this title](./chapter-001-general.md#section-103).
 
 #### Effective Date of 2013 Amendment
 Amendment by Pub. L. 113–66 applicable with respect to Medals of Honor awarded on or after Dec. 26, 2013, see section 563(d) of Pub. L. 113–66, set out as an Effective Date note under [section 1134a of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1134a&num=0&edition=prelim), Armed Forces.

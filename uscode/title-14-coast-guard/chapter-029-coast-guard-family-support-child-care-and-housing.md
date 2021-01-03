@@ -2,7 +2,7 @@
 title: 14
 chapter: '29'
 heading: 'COAST GUARD FAMILY SUPPORT, CHILD CARE, AND HOUSING'
-section_count: 18
+section_count: 19
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14&num=0&edition=prelim
 ---
@@ -40,7 +40,7 @@ A prior section 2901 was renumbered [section 5101 of this title](./chapter-051-r
 
 **(b) Voluntary Participation.—** Participation in any survey conducted under subsection (a) shall be voluntary.
 
-**(c) Federal Recordkeeping.—** Each person surveyed under subsection (a) shall be considered an employee of the United States for purposes of [section 3502(3)(A)(i) of title 44](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section3502/3/A/i&num=0&edition=prelim).
+**(c) Federal Recordkeeping.—** Each individual surveyed under subsection (a) shall be considered an employee of the United States for purposes of [section 3502(3)(A)(i) of title 44](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section3502/3/A/i&num=0&edition=prelim).
 
 ### Statutory Notes
 
@@ -48,6 +48,8 @@ A prior section 2901 was renumbered [section 5101 of this title](./chapter-051-r
 A prior section 2902 was renumbered [section 5102 of this title](./chapter-051-reports.md#section-5102).
 
 #### Amendments
+2021—Subsec. (c). Pub. L. 116–283 substituted “individual” for “person”.
+
 2018—Pub. L. 115–282 renumbered [section 532 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section532&num=0&edition=prelim) as this section.
 
 
@@ -55,7 +57,7 @@ A prior section 2902 was renumbered [section 5102 of this title](./chapter-051-r
 ## § 2903. Reimbursement for adoption expenses
 **(a) Authorization To Reimburse.—** The Secretary shall carry out a program under which a member of the Coast Guard may be reimbursed, as provided in this section, for qualifying adoption expenses incurred by the member in the adoption of a child under 18 years of age.
 
-**(b) Adoptions Covered.—** An adoption for which expenses may be reimbursed under this section includes an adoption by a single person, an infant adoption, an intercountry adoption, and an adoption of a child with special needs (as defined in section 473(c) of the Social Security Act ([42 U.S.C. 673(c)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section673/c&num=0&edition=prelim))).
+**(b) Adoptions Covered.—** An adoption for which expenses may be reimbursed under this section includes an adoption by a single individual, an infant adoption, an intercountry adoption, and an adoption of a child with special needs (as defined in section 473(c) of the Social Security Act ([42 U.S.C. 673(c)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section673/c&num=0&edition=prelim))).
 
 **(c) Benefits Paid After Adoption Is Final.—** Benefits paid under this section in the case of an adoption may be paid only after the adoption is final.
 
@@ -101,6 +103,8 @@ A prior section 2902 was renumbered [section 5102 of this title](./chapter-051-r
 A prior section 2903 was renumbered [section 5103 of this title](./chapter-051-reports.md#section-5103).
 
 #### Amendments
+2021—Subsec. (b). Pub. L. 116–283 substituted “individual” for “person”.
+
 2018—Pub. L. 115–282 renumbered [section 541 of this title](./chapter-005-functions-and-powers.md#section-541) as this section.
 
 2014—Pub. L. 113–281 renumbered [section 514 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section514&num=0&edition=prelim) as this section.
@@ -132,7 +136,7 @@ For provisions relating to reimbursement for adoption expenses and time period f
 
   (A) *In general.—* — The term “eligible spouse” means the spouse of a member of the Coast Guard who is serving on active duty and includes a spouse who receives transitional compensation under [section 1059 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1059&num=0&edition=prelim).
 
-  (B) *Exclusion.—* — The term “eligible spouse” does not include a person who—
+  (B) *Exclusion.—* — The term “eligible spouse” does not include an individual who—
 
     (i) is married to, but legally separated from, a member of the Coast Guard under a court order or statute of any State or territorial possession of the United States; or
 
@@ -146,7 +150,12 @@ For provisions relating to reimbursement for adoption expenses and time period f
 A prior section 2904 was renumbered [section 5104 of this title](./chapter-051-reports.md#section-5104).
 
 #### Amendments
+2021—Subsec. (b)(1)(B). Pub. L. 116–283 substituted “an individual” for “a person” in introductory provisions.
+
 2018—Pub. L. 115–282 renumbered [section 542 of this title](./chapter-005-functions-and-powers.md#section-542) as this section.
+
+#### Second Expansion of the My Career Advancement Account Program for Military Spouses
+Pub. L. 116–92, div. A, title V, § 580G, Dec. 20, 2019, 133 Stat. 1410, provided that: “The spouse of a member of the Coast Guard may participate in the My Career Advancement Account program of the Department of Defense if the Coast Guard reimburses the Department of Defense.”
 
 
 <a id="section-2905"></a>
@@ -239,11 +248,18 @@ Section 3 of the Child Abuse Prevention and Treatment Act, referred to in par. (
 
 (3) The Commandant is authorized to use appropriated funds available to the Coast Guard to provide assistance to family home daycare providers so that family home daycare services can be provided to uniformed service members and civilian employees of the Coast Guard at a cost comparable to the cost of services provided by Coast Guard child development centers.
 
+(4) To the maximum extent practicable, the Commandant shall ensure that, in a location in which Coast Guard family child care centers (as such term is defined in section 8239 of the Elijah E. Cummings Coast Guard Authorization Act of 2020) are necessary to meet the demand for child care for qualified families (as such term is defined in such section), not fewer than two housing units are maintained in accordance with safety inspection standards so as to accommodate family child care providers.
+
 **(c)** The Secretary shall promulgate regulations to implement this section. The regulations shall establish fees to be charged for child development services provided under this section which take into consideration total family income.
 
 ### Statutory Notes
 
+#### References in Text
+Section 8239 of the Elijah E. Cummings Coast Guard Authorization Act of 2020, referred to in subsec. (b)(4), is section 8239 of title LVXXXII [LXXXII] of div. G of Pub. L. 116–283, Jan. 1, 2021, 134 Stat. 4665, which is set out as a note below.
+
 #### Amendments
+2021—Subsec. (b)(4). Pub. L. 116–283 added par. (4).
+
 2018—Pub. L. 115–282, § 117(b), renumbered [section 552 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section552&num=0&edition=prelim) as this section.
 
 Subsec. (b)(2)(B). Pub. L. 115–282, § 123(b)(2), substituted “section 2925(b)” for “section 555(b)”.
@@ -264,15 +280,46 @@ Subsecs. (d) to (g). Pub. L. 111–281, § 222(2), (3), redesignated subsecs. (f
 
 “(e) The Commandant may use appropriated funds available to the Coast Guard to provide assistance to family home day care providers so that family home day care services can be provided to uniformed service members and civilian employees of the Coast Guard at a cost comparable to the cost of services provided by Coast Guard child development centers.”
 
+#### Review of Family Support Services Website and Online Tracking System
+Pub. L. 116–283, div. G, title LVXXXII [LXXXII], § 8232, Jan. 1, 2021, 134 Stat. 4661, provided that: “(a) Memorandum of Understanding.—“(1) In general.—The Commandant [of the Coast Guard] shall enter into a memorandum of understanding with the Secretary of Defense to enable qualified families to access the website at https://militarychildcare.com (or a successor website) for purposes of Coast Guard family access to information with respect to State-accredited child development centers and other child care support services as such services become available from the Department of Defense through such website. The memorandum shall provide for the expansion of the geographical areas covered by such website, including regions in which qualified families live that are not yet covered by the program. “(2) Inclusion of child development centers accessible under pilot program.—The information accessible pursuant to the memorandum of understanding required by paragraph (1) shall include information with respect to any child development center accessible pursuant to the pilot program under section 8234 [of Pub. L. 116–283, set out as a note below]. “(3) Electronic registration, payment, and tracking system.—Not later than 1 year after the date of the enactment of this Act [Jan. 1, 2021], the Commandant shall develop and maintain an internet website of the Coast Guard accessible to qualified families to carry out the following activities:“(A) Register children for a Coast Guard child development center. “(B) Make online child care payments to a Coast Guard child development center. “(C) Track the status of a child on the wait list of a Coast Guard child development center, including the placement and position of the child on the wait list. “(b) Wait List.—“(1) In general.—The Commandant shall maintain a record of the wait list for each Coast Guard child development center. “(2) Matters to be included.—Each record under paragraph (1) shall include the following:“(A) The total number of children of qualified families on the wait list. “(B) With respect to each child on the wait list—“(i) the age of the child; “(ii) the number of days the child has been on the wait list; “(iii) the position of the child on the wait list; “(iv) any special needs consideration; and “(v) information on whether a sibling of the child is on the wait list of, or currently enrolled in, the Coast Guard child development center concerned. “(3) Requirement to archive.—Information placed in the record of a Coast Guard child development center under paragraph (1) shall be archived for a period of not less than 10 years after the date of its placement in the record.”
+
+[For definitions of “Coast Guard child development center” and “qualified family” used in section 8232 of Pub. L. 116–283, set out above, see section 8239 of Pub. L. 116–283, set out as a note below.]
+
+#### Study and Survey on Coast Guard Child Care Needs
+Pub. L. 116–283, div. G, title LVXXXII [LXXXII], § 8233, Jan. 1, 2021, 134 Stat. 4662, provided that: “(a) Study.—“(1) In general.—Not later than 1 year after the date of the enactment of this Act [Jan. 1, 2021], and for each of the 2 fiscal years thereafter, the Commandant [of the Coast Guard] shall conduct a study on the child care needs of qualified families that incorporates—“(A) the results of the survey under subsection (b); and “(B) any other information the Commandant considers appropriate to ensure adequate tracking and future needs-based assessments with respect to adequate access to Coast Guard child development centers. “(2) Consultation.—In conducting a study under paragraph (1), the Commandant may consult a federally funded research and development center. “(3) Scope of data.—The data obtained through each study under paragraph (1) shall be obtained on a regional basis, including by Coast Guard unit, sector, and district. “(b) Survey.—“(1) In general.—Together with each study under subsection (a), and annually as the Commandant considers appropriate, the Commandant shall carry out a survey of individuals described in paragraph (2) on access to Coast Guard child development centers. “(2) Participants.—“(A) In general.—The Commandant shall seek the participation in the survey of the following Coast Guard individuals:“(i) Commanding officers, regardless of whether the commanding officers have children. “(ii) Regular and reserve personnel. “(iii) Spouses of individuals described in clauses (i) and (ii). “(B) Scope of participation.—Individuals described in clauses (i) through (iii) of subparagraph (A) shall be surveyed regardless of whether such individuals use or have access to Coast Guard child development centers or other Federal child care facilities. “(C) Voluntary participation.—Participation of any individual described in subparagraph (A) in a survey shall be on a voluntary basis. “(c) Availability.—On request, the Commandant shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives the results of any study or survey under this section.”
+
+[For definitions of “Coast Guard child development center” and “qualified family” used in section 8233 of Pub. L. 116–283, set out above, see section 8239 of Pub. L. 116–283, set out as a note below.]
+
+#### Pilot Program to Expand Access to Child Care
+Pub. L. 116–283, div. G, title LVXXXII [LXXXII], § 8234, Jan. 1, 2021, 134 Stat. 4663, provided that: “(a) In General.—Commencing not later than 60 days after the date on which the report under section 8231 [of Pub. L. 116–283, 134 Stat. 4659] is submitted, the Commandant [of the Coast Guard] shall carry out a pilot program, based on the recommendations provided in such report, to expand access to public or private child development centers for qualified families. “(b) Duration.—The duration of the pilot program under subsection (a) shall be not more than 3 years beginning on the date on which the pilot program is established. “(c) Discharge on District Basis.—The Commandant—“(1) may carry out the pilot program on a district basis; and “(2) shall include in the pilot program remote and urban locations. “(d) Reservation of Child Care Slots.—As part of the pilot program, the Commandant shall seek to enter into one or more memoranda of understanding with one or more child development centers to reserve slots for qualified families in locations in which—“(1) the Coast Guard lacks a Coast Guard child development center; or “(2) the wait lists for the nearest Coast Guard child development center or Department of Defense child development center, where applicable, indicate that qualified families may not be accommodated. “(e) Annual Assessment of Results.—As part of any study conducted pursuant to section 8233(a) [of Pub. L. 116–283, set out as a note above] after the end of the 1-year period beginning with the commencement of the pilot program, the Commandant shall also undertake a current assessment of the impact of the pilot program on access to child development centers for qualified families. The Commandant shall include the results of any such assessment in the results of the most current study or survey submitted pursuant to section 8233(a).”
+
+[For definitions of “Coast Guard child development center” and “qualified family” used in section 8234 of Pub. L. 116–283, set out above, see section 8239 of Pub. L. 116–283, set out as a note below.]
+
+#### Expanding Opportunities for Family Child Care
+Pub. L. 116–283, div. G, title LVXXXII [LXXXII], § 8238, Jan. 1, 2021, 134 Stat. 4665, provided that: “Not later than 1 year after the date of the enactment of this Act [Jan. 1, 2021], the Commandant [of the Coast Guard] shall— “(1) establish a procedure to allow Coast Guard family child care centers to occur at off-base housing, including off-base housing owned or subsidized by the Coast Guard; and “(2) establish a procedure to ensure that all requirements with respect to such family child care programs are met, including home inspections.”
+
+[For definition of “Coast Guard family child care center” used in section 8238 of Pub. L. 116–283, set out above, see section 8239 of Pub. L. 116–283, set out as a note below.]
+
 #### Use of Coast Guard and Military Child Development Centers
 Pub. L. 108–293, title II, § 225, Aug. 9, 2004, 118 Stat. 1040, provided that: “The Secretary of Defense and the Secretary of the department in which the Coast Guard is operating, when operating other than as a service in the Navy, may agree to provide child care services to members of the armed forces, with reimbursement, in Coast Guard and military child development centers supported in whole or in part with appropriated funds. For purposes of military child development centers operated under the authority of subchapter II of chapter 88 of title 10, United States Code, the child of a member of the Coast Guard shall be considered the same as the child of a member of any of the other armed forces.”
+
+#### Definitions
+Pub. L. 116–283, div. G, title LVXXXII [LXXXII], § 8239, Jan. 1, 2021, 134 Stat. 4665, provided that: “In this subtitle [subtitle C (§§8231–8239) of title LVXXXII [LXXXII] of div. G of Pub. L. 116–283, enacting [section 2926 of this title](./chapter-029-coast-guard-family-support-child-care-and-housing.md#section-2926), amending this section and [section 2923 of this title](./chapter-029-coast-guard-family-support-child-care-and-housing.md#section-2923), and enacting provisions set out as notes above]: “(1) Coast guard child development center.—The term ‘Coast Guard child development center’ has the meaning given that term in [section 2921(3) of title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section2921/3&num=0&edition=prelim), United States Code. “(2) Coast guard family child care center.—The term ‘Coast Guard family child care center’ means a location at which family home daycare is provided. “(3) Family child care provider.—The term ‘family child care provider’ means an individual who provides family home daycare. “(4) Family home daycare.—The term ‘family home daycare’ has the meaning given that term in [section 2921(5) of title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section2921/5&num=0&edition=prelim), United States Code. “(5) Qualified family.—The term ‘qualified family’ means any regular, reserve, or retired member of the Coast Guard, and any civilian employee of the Coast Guard, with one or more dependents.”
 
 
 <a id="section-2923"></a>
 ## § 2923. Child development center standards and inspections
 **(a) Standards.—** The Commandant shall require each Coast Guard child development center to meet standards that the Commandant considers appropriate to ensure the health, safety, and welfare of the children and employees at the center.
 
-**(b) Inspections.—** The Commandant shall provide for regular and unannounced inspections of each Coast Guard child development center to ensure compliance with this section.
+**(b) Inspections.—**
+
+(1) **In general.—** — Not less than twice annually, the Commandant shall ensure that each Coast Guard child development center is subject to an unannounced inspection.
+
+(2) **Responsibility for inspections.—** — Of the biannual inspections under paragraph (1)—
+
+  (A) 1 shall be carried out by a representative of the Coast Guard installation served by the Coast Guard child development center concerned; and
+
+  (B) 1 shall be carried out by a representative of the Coast Guard child development services work-life programs.
 
 **(c) National Reporting.—**
 
@@ -295,6 +342,8 @@ Pub. L. 108–293, title II, § 225, Aug. 9, 2004, 118 Stat. 1040, provided that
 ### Statutory Notes
 
 #### Amendments
+2021—Subsec. (b). Pub. L. 116–283 added subsec. (b) and struck out former subsec. (b). Prior to amendment, text read as follows: “The Commandant shall provide for regular and unannounced inspections of each Coast Guard child development center to ensure compliance with this section.”
+
 2018—Pub. L. 115–282 renumbered [section 553 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section553&num=0&edition=prelim) as this section.
 
 
@@ -365,6 +414,17 @@ The Federal Advisory Committee Act, referred to in subsec. (a)(3), is Pub. L. 92
 
 #### Amendments
 2018—Pub. L. 115–282 renumbered [section 555 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section555&num=0&edition=prelim) as this section.
+
+
+<a id="section-2926"></a>
+## § 2926. Family child care providers
+**(a) In General.—** Not less frequently than quarterly, the Commandant shall ensure that each family child care provider is subject to inspection.
+
+**(b) Responsibility for Inspections.—** Of the quarterly inspections under subsection (a) each year—
+
+(1) 3 inspections shall be carried out by a representative of the Coast Guard installation served by the family child care provider concerned; and
+
+(2) 1 inspection shall be carried out by a representative of the Coast Guard child development services work-life programs.
 
 
 <a id="section-2941"></a>
@@ -613,6 +673,9 @@ Pub. L. 111–330, § 1, Dec. 22, 2010, 124 Stat. 3569, provided that the amendm
 #### Effective Date of 2002 Amendment
 Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Guard to the Department of Homeland Security, see section 1704(g) of Pub. L. 107–296, set out as a note under [section 101 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section101&num=0&edition=prelim), Armed Forces.
 
+#### Amounts Credited to Coast Guard Housing Fund
+Pub. L. 116–93, div. D, title II, § 232, Dec. 20, 2019, 133 Stat. 2517, provided that: “Beginning in fiscal year 2021 and for each fiscal year thereafter, amounts credited to the Coast Guard Housing Fund pursuant to paragraphs (3) through (5) of subsection (b) of [section 2946 of title 14](./chapter-029-coast-guard-family-support-child-care-and-housing.md#section-2946), United States Code, shall be classified as discretionary offsetting receipts.”
+
 
 <a id="section-2947"></a>
 ## § 2947. Reports
@@ -632,4 +695,4 @@ The Secretary shall prepare and submit to Congress, concurrent with the budget s
 Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Guard to the Department of Homeland Security, see section 1704(g) of Pub. L. 107–296, set out as a note under [section 101 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section101&num=0&edition=prelim), Armed Forces.
 
 #### Final Report
-Pub. L. 104–324, title II, § 208(b), Oct. 19, 1996, 110 Stat. 3913, provided that: “Not later than March 1, 2000, the Secretary of the department in which the Coast Guard is operating shall submit to the Congress a report on the use by the Secretary of the authorities provided by [former] chapter 18 of title 14, United States Code, as added by subsection (a). The report shall assess the effectiveness of such authority in providing for the construction and improvement of military family housing and military unaccompanied housing.”
+Pub. L. 104–324, title II, § 208(b), Oct. 19, 1996, 110 Stat. 3913, provided that by March 1, 2000, the Secretary of the department in which the Coast Guard was operating was to submit to Congress a report on the use by the Secretary of the authorities provided by former chapter 18 of this title.

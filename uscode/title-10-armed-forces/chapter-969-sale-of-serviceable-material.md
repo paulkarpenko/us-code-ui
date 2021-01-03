@@ -10,20 +10,20 @@ source: >-
 ## § 9621. Subsistence and other supplies: members of armed forces; veterans; executive or military departments and employees; prices
 **(a)** The Secretary of the Air Force shall procure and sell, for cash or credit—
 
-(1) articles designated by him, to members of the Air Force; and
+(1) articles designated by him, to members of the Air Force and members of the Space Force; and
 
-(2) items of individual clothing and equipment, to officers of the Air Force, under such restrictions as the Secretary may prescribe.
+(2) items of individual clothing and equipment, to officers of the Air Force and officers of the Space Force, under such restrictions as the Secretary may prescribe.
 An account of sales on credit shall be kept and the amount due reported to the Secretary. Except for articles and items acquired through the use of working capital funds under [section 2208 of this title](./chapter-131-planning-and-coordination.md#section-2208), sales of articles shall be at cost, and sales of individual clothing and equipment shall be at average current prices, including overhead, as determined by the Secretary.
 
-**(b)** The Secretary shall sell subsistence supplies to members of other armed forces at the prices at which like property is sold to members of the Air Force.
+**(b)** The Secretary shall sell subsistence supplies to members of other armed forces at the prices at which like property is sold to members of the Air Force or the Space Force.
 
-**(c)** The Secretary may sell serviceable quartermaster property, other than subsistence supplies, to an officer of another armed force for his use in the service, in the same manner as these articles are sold to an officer of the Air Force.
+**(c)** The Secretary may sell serviceable quartermaster property, other than subsistence supplies, to an officer of another armed force for his use in the service, in the same manner as these articles are sold to an officer of the Air Force or the Space Force.
 
-**(d)** A person who has been discharged honorably or under honorable conditions from the Army, Navy, Air Force, or Marine Corps and who is receiving care and medical treatment from the Public Health Service or the Department of Veterans Affairs may buy subsistence supplies and other supplies, except articles of uniform, at the prices at which like property is sold to a member of the Air Force.
+**(d)** A person who has been discharged honorably or under honorable conditions from the Army, Navy, Air Force, Marine Corps, or Space Force and who is receiving care and medical treatment from the Public Health Service or the Department of Veterans Affairs may buy subsistence supplies and other supplies, except articles of uniform, at the prices at which like property is sold to a member of the Air Force.
 
-**(e)** Under such conditions as the Secretary may prescribe, exterior articles of uniform may be sold to a person who has been discharged from the Air Force honorably or under honorable conditions, at the prices at which like articles are sold to members of the Air Force. This subsection does not modify section 772 or 773 of this title.
+**(e)** Under such conditions as the Secretary may prescribe, exterior articles of uniform may be sold to a person who has been discharged from the Air Force or the Space Force honorably or under honorable conditions, at the prices at which like articles are sold to members of the Air Force or the Space Force, respectively. This subsection does not modify section 772 or 773 of this title.
 
-**(f)** Whenever, under regulations to be prescribed by the Secretary, subsistence supplies are furnished to any organization of the Air Force or sold to employees of any executive department other than the Department of Defense, payment shall be made in cash or by commercial credit.
+**(f)** Whenever, under regulations to be prescribed by the Secretary, subsistence supplies are furnished to any organization of the Air Force or the Space Force or sold to employees of any executive department other than the Department of Defense, payment shall be made in cash or by commercial credit.
 
 **(g)** The Secretary may, by regulation, provide for the procurement and sale of stores designated by him to such civilian officers and employees of the United States, and such other persons, as he considers proper—
 
@@ -32,7 +32,7 @@ An account of sales on credit shall be kept and the amount due reported to the S
 (2) at military installations inside the United States where he determines that it is impracticable for those civilian officers, employees, and persons to obtain those stores from private agencies without impairing the efficient operation of military activities.
 However, sales to those officers and employees inside the United States may be made only to those residing within military installations.
 
-**(h)** Appropriations for subsistence of the Air Force may be applied to the purchase of subsistence supplies for sale to members of the Air Force on active duty for the use of themselves and their families.
+**(h)** Appropriations for subsistence of the Air Force or the Space Force may be applied to the purchase of subsistence supplies for sale to members of the Air Force or members of the Space Force on active duty for the use of themselves and their families.
 
 ### Statutory Notes
 
@@ -76,6 +76,22 @@ In subsection (i), 10:1196 (last 30 words) is omitted as superseded by the Act o
 The change corrects an internal reference.
 
 #### Amendments
+2021—Subsec. (a)(1). Pub. L. 116–283, § 923(e)(9)(A)(i), inserted “and members of the Space Force” after “the Air Force”.
+
+Subsec. (a)(2). Pub. L. 116–283, § 923(e)(9)(A)(ii), inserted “and officers of the Space Force” after “the Air Force”.
+
+Subsec. (b). Pub. L. 116–283, § 923(e)(9)(B), inserted “or the Space Force” after “the Air Force”.
+
+Subsec. (c). Pub. L. 116–283, § 923(e)(9)(C), inserted “or the Space Force” after “the Air Force”.
+
+Subsec. (d). Pub. L. 116–283, § 923(e)(9)(D), substituted “Marine Corps, or Space Force” for “or Marine Corps”.
+
+Subsec. (e). Pub. L. 116–283, § 923(e)(9)(E), inserted “or the Space Force” after “from the Air Force” and “or the Space Force, respectively” after “of the Air Force”.
+
+Subsec. (f). Pub. L. 116–283, § 923(e)(9)(F), inserted “or the Space Force” after “the Air Force”.
+
+Subsec. (h). Pub. L. 116–283, § 923(e)(9)(G), inserted “or the Space Force” after “subsistence of the Air Force” and “or members of the Space Force” after “members of the Air Force”.
+
 1996—Subsec. (b). Pub. L. 104–106, § 375(b)(2)(A), substituted “The Secretary shall” for “The Air Force shall”.
 
 Subsec. (f). Pub. L. 104–106, § 375(b)(2)(B), inserted “or by commercial credit” before period at end.
@@ -97,7 +113,7 @@ Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of 
 <a id="section-9622"></a>
 ## § 9622. Rations: commissioned officers in field
 
-Commissioned officers of the Air Force serving in the field may buy rations for their own use, on credit. Amounts due for these purchases shall be reported monthly to the Secretary of the Air Force.
+Commissioned officers of the Air Force and commissioned officers of the Space Force serving in the field may buy rations for their own use, on credit. Amounts due for these purchases shall be reported monthly to the Secretary of the Air Force.
 
 ### Statutory Notes
 
@@ -107,6 +123,9 @@ Commissioned officers of the Air Force serving in the field may buy rations for 
 | 9622 | 10:1232. | R.S. 1145. |
 
 The words “at cost prices” are omitted to reflect Title IV of the National Security Act of 1947, as amended (63 Stat. 585), which authorized the Secretary of Defense to prescribe regulations governing the use and sale of certain inventories at cost, including applicable administrative expenses. (See opinion of the Assistant General Counsel (Fiscal Matters) of the Office of the Secretary of Defense, January 4, 1955.)
+
+#### Amendments
+2021—Pub. L. 116–283 inserted “and commissioned officers of the Space Force” after “officers of the Air Force”.
 
 
 <a id="section-9623"></a>
@@ -119,7 +138,7 @@ Section, act Aug. 10, 1956, ch. 1041, 70A Stat. 580, related to sale of tobacco 
 
 <a id="section-9624"></a>
 ## § 9624. Medical supplies: civilian employees of the Air Force; American National Red Cross; Armed Forces Retirement Home
-**(a)** Under regulations to be prescribed by the Secretary of the Air Force, a civilian employee of the Department of the Air Force who is stationed at an air base may buy necessary medical supplies from the Air Force when they are prescribed by a medical officer on active duty.
+**(a)** Under regulations to be prescribed by the Secretary of the Air Force, a civilian employee of the Department of the Air Force who is stationed at an Air Force or Space Force military installation may buy necessary medical supplies from the Department of the Air Force when they are prescribed by a medical officer on active duty.
 
 **(b)** The Secretary may sell medical supplies to the American National Red Cross for cash.
 
@@ -143,6 +162,8 @@ In subsections (b) and (c), the words “The Secretary” are substituted for th
 In subsection (c), the words “in the District of Columbia” are omitted as surplusage, since there is only one Soldiers’ Home. The words “Upon proper application therefor” are omitted as surplusage. The words “its contract prices” are omitted to reflect Title IV of the National Security Act of 1947, as amended (63 Stat. 585), which authorized the Secretary of Defense to prescribe regulations governing the use and sale of certain inventories at cost, including applicable administrative expenses. (See opinion of the Assistant General Counsel (Fiscal Matters) of the Office of the Secretary of Defense, January 4, 1955.)
 
 #### Amendments
+2021—Subsec. (a). Pub. L. 116–283 substituted “Air Force or Space Force military installation” for “air base” and “Department of the Air Force when” for “Air Force when”.
+
 1990—Pub. L. 101–510, § 1533(a)(8)(B), substituted “Armed Forces Retirement Home” for “Soldiers’ and Airmen’s Home” in section catchline.
 
 Subsec. (c). Pub. L. 101–510, § 1533(a)(8)(A), substituted “Armed Forces Retirement Home” for “United States Soldiers’ and Airmen’s Home”.
@@ -159,10 +180,10 @@ Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of 
 
 
 <a id="section-9625"></a>
-## § 9625. Ordnance property: officers of armed forces; civilian employees of Air Force; American National Red Cross; educational institutions; homes for veterans’ orphans
-**(a)** The Secretary of the Air Force may sell articles of ordnance property to officers of other armed forces for their use in the service, in the same manner as these articles are sold to officers of the Air Force.
+## § 9625. Ordnance property: officers of the armed forces; civilian employees of the Department of the Air Force; American National Red Cross; educational institutions; homes for veterans’ orphans
+**(a)** The Secretary of the Air Force may sell articles of ordnance property to officers of other armed forces for their use in the service, in the same manner as these articles are sold to officers of the Air Force or the Space Force.
 
-**(b)** Under such regulations as the Secretary may prescribe, ordnance stores may be sold to civilian employees of the Air Force and to the American National Red Cross.
+**(b)** Under such regulations as the Secretary may prescribe, ordnance stores may be sold to civilian employees of the Department of the Air Force and to the American National Red Cross.
 
 **(c)** Articles of ordnance property may be sold to educational institutions and to State soldiers’ and sailors’ orphans’ homes for maintaining the ordnance and ordnance stores issued to those institutions and homes.
 
@@ -176,6 +197,13 @@ Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of 
 |  |  | May 11, 1908, ch. 163 (4th par. under “National Trophy and Medals for Rifle Contests”), 35 Stat. 125. |
 
 In subsection (a), the words “Secretary of the Air Force” are substituted for the words “Chief of Ordnance”, since the functions which, for the Army, are assigned to subordinate officers of the Army, are, for the Air Force, assigned to the Secretary of the Air Force. The words “other armed forces” are substituted for the words “the Navy and Marine Corps”, in 34:540 and 50:70, since those sales may be made to officers of the Coast Guard under [section 114(c) of Title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section114/c&num=0&edition=prelim).
+
+#### Amendments
+2021—Pub. L. 116–283, § 923(e)(12)(B), amended section catchline generally. Prior to amendment, catchline read as follows: “Ordnance property: officers of armed forces; civilian employees of Air Force; American National Red Cross; educational institutions; homes for veterans’ orphans”.
+
+Subsec. (a). Pub. L. 116–283, § 923(e)(12)(A)(i), inserted “or the Space Force” after “officers of the Air Force”.
+
+Subsec. (b). Pub. L. 116–283, § 923(e)(12)(A)(ii), substituted “the Department of the Air Force” for “the Air Force”.
 
 
 <a id="section-9626"></a>
@@ -216,7 +244,7 @@ The last sentence is substituted for the words “except for shelter for which n
 <a id="section-9627"></a>
 ## § 9627. Supplies: educational institutions
 
-Under such regulations as the Secretary of the Air Force may prescribe, supplies and military publications procured for the Air Force may be sold to any educational institution to which an officer of the Air Force is detailed as professor of air science and tactics, for the use of its military students. Sales under this section shall be for cash.
+Under such regulations as the Secretary of the Air Force may prescribe, supplies and military publications procured for the Air Force or the Space Force may be sold to any educational institution to which an officer of the Air Force or the Space Force is detailed as professor of science and tactics, for the use of its military students. Sales under this section shall be for cash.
 
 ### Statutory Notes
 
@@ -226,6 +254,9 @@ Under such regulations as the Secretary of the Air Force may prescribe, supplies
 | 9627 | 10:1179 (less proviso). | July 17, 1914, ch. 149 (less proviso), 38 Stat. 512. |
 
 The words “procured for” are substituted for the words “as are furnished to”. The words “stores * * * matériel of war” are omitted as covered by the word “supplies”. The words “the price listed to the Army” are omitted to reflect Title IV of the National Security Act of 1947, as amended (63 Stat. 585), which authorized the Secretary of Defense to prescribe regulations governing the use and sale of certain inventories at cost, including applicable administrative expenses. (See opinion of the Assistant General Counsel (Fiscal Matters) of the Office of the Secretary of Defense, January 4, 1955.)
+
+#### Amendments
+2021—Pub. L. 116–283 inserted “or the Space Force” after “or the Air Force” and “or the Space Force” after “officer of the Air Force”, and substituted “science and tactics” for “air science and tactics”.
 
 
 <a id="section-9628"></a>

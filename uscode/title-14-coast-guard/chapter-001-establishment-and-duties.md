@@ -61,8 +61,11 @@ A prior section 90, act Aug. 4, 1949, ch. 393, 63 Stat. 502; Pub. L. 85–726, t
 #### Effective Date of 2002 Amendment
 Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Guard to the Department of Homeland Security, see section 1704(g) of Pub. L. 107–296, set out as a note under [section 101 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section101&num=0&edition=prelim), Armed Forces.
 
+#### Short Title of 2021 Amendment
+Pub. L. 116–283, div. G, title LVXXXII [LXXXII], § 8271, Jan. 1, 2021, 134 Stat. 4681, provided that: “This subtitle [subtitle E (§§ 8271–8278) of title LVXXXII [LXXXII] of div. G of Pub. L. 116–283, enacting sections 1905, 2131, and 5111 of this title and [section 417 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section417&num=0&edition=prelim), Domestic Security, amending [section 1903 of this title](./chapter-019-coast-guard-academy.md#section-1903), and enacting provisions set out as a note under [section 1901 of this title](./chapter-019-coast-guard-academy.md#section-1901)] may be cited as the ‘Coast Guard Academy Improvement Act’.”
+
 #### Short Title of 2018 Amendment
-Pub. L. 115–265, title III, § 301, Oct. 11, 2018, 132 Stat. 3752, provided that: “This title [enacting provisions set out as a note under [section 58 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section58&num=0&edition=prelim)] may be cited as the ‘Coast Guard Blue Technology Center of Expertise Act’.”
+Pub. L. 115–265, title III, § 301, Oct. 11, 2018, 132 Stat. 3752, provided that: “This title [enacting provisions set out as a note under [section 313 of this title](./chapter-003-composition-and-organization.md#section-313)] may be cited as the ‘Coast Guard Blue Technology Center of Expertise Act’.”
 
 #### Short Title of 2014 Amendment
 Pub. L. 113–281, § 1, Dec. 18, 2014, 128 Stat. 3022, provided that: “This Act [see Tables for classification] may be cited as the ‘Howard Coble Coast Guard and Maritime Transportation Act of 2014’.”
@@ -260,13 +263,13 @@ In this title, the term “Commandant” means the Commandant of the Coast Guard
 #### Prior Provisions
 For redesignation of prior sections 141 to 296 not listed below as having been previously repealed or renumbered, see Table Showing Redesignations Made by Title I of Pub. L. 115–282 preceding [section 101 of this title](./chapter-001-establishment-and-duties.md#section-101).
 
-Section 182, Aug. 4, 1949, ch. 393, 63 Stat. 508; Pub. L. 88–276, § 5(b), Mar. 3, 1964, 78 Stat. 153; Pub. L. 89–444, § 1(8), June 9, 1966, 80 Stat. 195; Pub. L. 91–278, § 1(4), June 12, 1970, 84 Stat. 304; Pub. L. 94–572, § 1, Oct. 21, 1976, 90 Stat. 2708; Pub. L. 97–295, § 2(8), Oct. 12, 1982, 96 Stat. 1302; Pub. L. 100–448, § 12, Sept. 28, 1988, 102 Stat. 1843; Pub. L. 109–163, div. A, title VI, § 687(d), Jan. 6, 2006, 119 Stat. 3336; Pub. L. 111–281, title IX, § 903(b)(4), Oct. 15, 2010, 124 Stat. 3011; Pub. L. 115–91, div. A, title VI, § 618(a)(2), Dec. 12, 2017, 131 Stat. 1426, related to cadets’ appointment to the Academy and agreement to serve, prior to repeal by Pub. L. 115–282, title I, § 110(c)(2), Dec. 4, 2018, 132 Stat. 4215.
+A prior section 182, Aug. 4, 1949, ch. 393, 63 Stat. 508; Pub. L. 88–276, § 5(b), Mar. 3, 1964, 78 Stat. 153; Pub. L. 89–444, § 1(8), June 9, 1966, 80 Stat. 195; Pub. L. 91–278, § 1(4), June 12, 1970, 84 Stat. 304; Pub. L. 94–572, § 1, Oct. 21, 1976, 90 Stat. 2708; Pub. L. 97–295, § 2(8), Oct. 12, 1982, 96 Stat. 1302; Pub. L. 100–448, § 12, Sept. 28, 1988, 102 Stat. 1843; Pub. L. 109–163, div. A, title VI, § 687(d), Jan. 6, 2006, 119 Stat. 3336; Pub. L. 111–281, title IX, § 903(b)(4), Oct. 15, 2010, 124 Stat. 3011; Pub. L. 115–91, div. A, title VI, § 618(a)(2), Dec. 12, 2017, 131 Stat. 1426, related to cadets’ appointment to the Academy and agreement to serve, prior to repeal by Pub. L. 115–282, title I, § 110(c)(2), Dec. 4, 2018, 132 Stat. 4215.
 
 A prior section 193, act Aug. 4, 1949, ch. 393, 63 Stat. 510; Pub. L. 94–546, § 1(16), Oct. 18, 1976, 90 Stat. 2520; Pub. L. 97–322, title I, § 118(b), Oct. 15, 1982, 96 Stat. 1586; Pub. L. 100–448, § 9, Sept. 28, 1988, 102 Stat. 1842; Pub. L. 102–241, § 15, Dec. 19, 1991, 105 Stat. 2213, provided for an Advisory Committee to the Academy, prior to repeal by Pub. L. 112–213, title II, § 216(e), Dec. 20, 2012, 126 Stat. 1555.
 
 A prior section 198, added Pub. L. 109–241, title II, § 209(a), July 11, 2006, 120 Stat. 522, provided for fellowships in Coast Guard history, prior to repeal by Pub. L. 112–213, title II, § 216(f), Dec. 20, 2012, 126 Stat. 1555.
 
-A prior section 200 was renumbered [section 199 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section199&num=0&edition=prelim) and subsequently renumbered as [section 1948 of this title](./chapter-019-coast-guard-academy.md#section-1948).
+A prior section 200 was renumbered [section 199 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section199&num=0&edition=prelim) and subsequently renumbered [section 1948 of this title](./chapter-019-coast-guard-academy.md#section-1948).
 
 Prior sections 212 and 213 were repealed by Pub. L. 103–337, div. A, title V, § 541(f)(5)(A), (h), Oct. 5, 1994, 108 Stat. 2767, effective on the first day of the fourth month beginning after Oct. 5, 1994.
 
@@ -340,3 +343,6 @@ A prior section 293, added Pub. L. 88–130, § 1(10)(C), Sept. 24, 1963, 77 Sta
 
 #### Amendments
 2018—Pub. L. 115–282 renumbered [section 5 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section5&num=0&edition=prelim) as this section.
+
+#### Definition of Commandant
+Pub. L. 116–283, div. G, § 8002, Jan. 1, 2021, 134 Stat. 4633, provided that: “In this division [div. G of Pub. L. 116–283, see Tables for classification], the term ‘Commandant’ means the Commandant of the Coast Guard.”

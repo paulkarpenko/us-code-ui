@@ -36,13 +36,14 @@ Pub. L. 95–454, title III, § 311, Oct. 13, 1978, 92 Stat. 1153, which provide
 
 Pub. L. 91–47, title V, § 503, July 22, 1969, 83 Stat. 83, repealed section 201 of Pub. L. 90–364, title II, June 28, 1968, 82 Stat. 270, which provided for limitation on the number of civilian officers and employees in the executive branch and which was formerly set out under this section.
 
-#### Freeze on Hiring of Federal Civilian Employees
-Memorandum of the President of the United States, dated Jan. 20, 1981, 46 F.R. 9907, provided for a freeze on the hiring of Federal civilian employees in the executive branch.
-
 #### Citizenship Requirement for Employees Compensated From Appropriated Funds
-Pub. L. 116–6, div. D, title VII, § 704, Feb. 15, 2019, 133 Stat. 187, provided that: “Unless otherwise specified in law during the current fiscal year, no part of any appropriation contained in this or any other Act shall be used to pay the compensation of any officer or employee of the Government of the United States (including any agency the majority of the stock of which is owned by the Government of the United States) whose post of duty is in the continental United States unless such person: (1) is a citizen of the United States; (2) is a person who is lawfully admitted for permanent residence and is seeking citizenship as outlined in [8 U.S.C. 1324b(a)(3)(B)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1324b/a/3/B&num=0&edition=prelim); (3) is a person who is admitted as a refugee under [8 U.S.C. 1157](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1157&num=0&edition=prelim) or is granted asylum under [8 U.S.C. 1158](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1158&num=0&edition=prelim) and has filed a declaration of intention to become a lawful permanent resident and then a citizen when eligible; or (4) is a person who owes allegiance to the United States: Provided, That for purposes of this section, affidavits signed by any such person shall be considered prima facie evidence that the requirements of this section with respect to his or her status are being complied with: Provided further, That for purposes of subsections (2) and (3) such affidavits shall be submitted prior to employment and updated thereafter as necessary: Provided further, That any person making a false affidavit shall be guilty of a felony, and upon conviction, shall be fined no more than $4,000 or imprisoned for not more than 1 year, or both: Provided further, That the above penal clause shall be in addition to, and not in substitution for, any other provisions of existing law: Provided further, That any payment made to any officer or employee contrary to the provisions of this section shall be recoverable in action by the Federal Government: Provided further, That this section shall not apply to any person who is an officer or employee of the Government of the United States on the date of enactment of this Act [Feb. 15, 2019], or to international broadcasters employed by the Broadcasting Board of Governors, or to temporary employment of translators, or to temporary employment in the field service (not to exceed 60 days) as a result of emergencies: Provided further, That this section does not apply to the employment as Wildland firefighters for not more than 120 days of nonresident aliens employed by the Department of the Interior or the USDA Forest Service pursuant to an agreement with another country.”
+Pub. L. 116–260, div. E, title VII, § 704, Dec. 27, 2020, 134 Stat. 1430, provided that: “Unless otherwise specified in law during the current fiscal year, no part of any appropriation contained in this or any other Act shall be used to pay the compensation of any officer or employee of the Government of the United States (including any agency the majority of the stock of which is owned by the Government of the United States) whose post of duty is in the continental United States unless such person: (1) is a citizen of the United States; (2) is a person who is lawfully admitted for permanent residence and is seeking citizenship as outlined in [8 U.S.C. 1324b(a)(3)(B)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1324b/a/3/B&num=0&edition=prelim); (3) is a person who is admitted as a refugee under [8 U.S.C. 1157](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1157&num=0&edition=prelim) or is granted asylum under [8 U.S.C. 1158](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1158&num=0&edition=prelim) and has filed a declaration of intention to become a lawful permanent resident and then a citizen when eligible; or (4) is a person who owes allegiance to the United States: Provided, That for purposes of this section, affidavits signed by any such person shall be considered prima facie evidence that the requirements of this section with respect to his or her status are being complied with: Provided further, That for purposes of subsections (2) and (3) such affidavits shall be submitted prior to employment and updated thereafter as necessary: Provided further, That any person making a false affidavit shall be guilty of a felony, and upon conviction, shall be fined no more than $4,000 or imprisoned for not more than 1 year, or both: Provided further, That the above penal clause shall be in addition to, and not in substitution for, any other provisions of existing law: Provided further, That any payment made to any officer or employee contrary to the provisions of this section shall be recoverable in action by the Federal Government: Provided further, That this section shall not apply to any person who is an officer or employee of the Government of the United States on the date of enactment of this Act [Dec. 27, 2020], or to international broadcasters employed by the Broadcasting Board of Governors [now the United States Agency for Global Media], or to temporary employment of translators, or to temporary employment in the field service (not to exceed 60 days) as a result of emergencies: Provided further, That this section does not apply to the employment as Wildland firefighters for not more than 120 days of nonresident aliens employed by the Department of the Interior or the USDA Forest Service pursuant to an agreement with another country.”
 
 Similar provisions to those in the Citizenship Requirement for Employees Compensated From Appropriated Funds note above were contained in the following prior appropriation acts:
+
+Pub. L. 116–93, div. C, title VII, § 704, Dec. 20, 2019, 133 Stat. 2484.
+
+Pub. L. 116–6, div. D, title VII, § 704, Feb. 15, 2019, 133 Stat. 187.
 
 Pub. L. 115–141, div. E, title VII, § 704, Mar. 23, 2018, 132 Stat. 588.
 
@@ -225,6 +226,9 @@ Sec. 4. Implementation. The Director of the Office of Management and Budget shal
 Sec. 5. Independent Agencies. All independent regulatory commissions and agencies are requested to comply with the provisions of this order.
 
 William J. Clinton.
+
+#### Freeze on Hiring of Federal Civilian Employees
+Memorandum of the President of the United States, dated Jan. 20, 1981, 46 F.R. 9907, provided for a freeze on the hiring of Federal civilian employees in the executive branch.
 
 
 <a id="section-3102"></a>
@@ -487,6 +491,9 @@ Standard changes are made to conform with the definitions applicable and the sty
 #### Amendments
 1978—Pub. L. 95–251 substituted references to administrative law judges for references to hearing examiners in section catchline and wherever appearing in text.
 
+#### Hearing Examiners Appointed for Indian Probate Work
+Hearing examiners appointed for Indian probate work pursuant to former [section 372–1 of Title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section372–1&num=0&edition=prelim), Indians, having met qualifications required for appointment pursuant to this section, deemed to have been appointed pursuant to this section, see section 12(b) of Pub. L. 101–301, set out as a Savings Provision note under former [section 372–1 of Title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section372–1&num=0&edition=prelim).
+
 #### References to Hearing Examiner Deemed References to Administrative Law Judge
 Pub. L. 95–251, § 3, Mar. 27, 1978, 92 Stat. 184, provided that: “Any reference in any law, regulation, or order to a hearing examiner appointed under [section 3105 of title 5](./chapter-031-authority-for-employment.md#section-3105), United States Code, shall be deemed to be a reference to an administrative law judge.”
 
@@ -507,9 +514,6 @@ Functions vested by section 551 et seq. of this title in hearing examiners emplo
 
 #### Hearing Examiners Employed by Department of the Treasury
 Functions vested by section 551 et seq. of this title in hearing examiners employed by Department of the Treasury not included in functions of officers, agencies, and employees of Department transferred to Secretary of the Treasury by 1950 Reorg. Plan No. 26, § 1, eff. July 31, 1950, 15 F.R. 4935, 64 Stat. 1280, set out in the Appendix to this title.
-
-#### Hearing Examiners Appointed for Indian Probate Work
-Hearing examiners appointed for Indian probate work pursuant to former [section 372–1 of Title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section372–1&num=0&edition=prelim), Indians, having met qualifications required for appointment pursuant to this section, deemed to have been appointed pursuant to this section, see section 12(b) of Pub. L. 101–301, set out as a Savings Provision note under former [section 372–1 of Title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section372–1&num=0&edition=prelim).
 
 
 <a id="section-3106"></a>
@@ -1059,7 +1063,7 @@ Section 1106 of the National Defense Authorization Act for Fiscal Year 2017, ref
 
 **(d) Limitation on Appointments.—**
 
-(1) **In general.—** — Except as provided in paragraph (2), the total number of students that the head of an agency may appoint under this section during a fiscal year may not exceed the number equal to 15 percent of the number of students that the agency head appointed during the previous fiscal year to a position in the competitive service at the GS–11 level, or an equivalent level, or below.
+(1) **In general.—** — Except as provided in paragraph (2), the total number of students that the head of an agency may appoint under this section during a fiscal year may not exceed the number equal to 15 percent of the number of students that the agency head appointed during the previous fiscal year to a position at the GS–11 level, or an equivalent level, or below.
 
 (2) **Exceptions.—** — Under a regulation prescribed under subsection (g), the Director may establish a lower limit on the number of students that may be appointed under paragraph (1) of this subsection during a fiscal year based on any factor the Director considers appropriate.
 
@@ -1111,6 +1115,9 @@ GS–11, referred to in subsecs. (b)(1), (d)(1), and (h)(2)(C), is contained in 
 The date of enactment of this section, referred to in subsecs. (g) and (h)(1), is the date of enactment of Pub. L. 115–232, which was approved Aug. 13, 2018.
 
 Section 1106 of the National Defense Authorization Act for Fiscal Year 2017, referred to in subsec. (i), is section 1106 of Pub. L. 114–328, which is set out as a note preceding [section 1580 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1580&num=0&edition=prelim), Armed Forces.
+
+#### Amendments
+2019—Subsec. (d)(1). Pub. L. 116–92 amended par. (1) generally. Prior to amendment, text read as follows: “Except as provided in paragraph (2), the total number of students that the head of an agency may appoint under this section during a fiscal year may not exceed the number equal to 15 percent of the number of students that the agency head appointed during the previous fiscal year to a position in the competitive service at the GS–11 level, or an equivalent level, or below.”
 
 
 <a id="section-3131"></a>

@@ -19,12 +19,13 @@ The cost of constructing, acquiring, purchasing, or maintaining the canals, ditc
 
 ### Statutory Notes
 
+#### Abolition of Office of Surveyor General and Transfer of Functions
+Act Mar. 3, 1925, abolished office of surveyor general and transferred administration of all activities in charge of surveyors general to Field Surveying Service under jurisdiction of United States Supervisor of Surveys.
+
 #### Transfer of Functions
 For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out under [section 1451 of this title](./chapter-031-department-of-the-interior.md#section-1451).
 
 “Officer designated by the Secretary of the Interior” substituted for “register” on authority of section 403 of Reorg. Plan No. 3 of 1946, which abolished all registers of district land offices and transferred functions of register of district land offices to Secretary of the Interior. See section 403 of Reorg. Plan No. 3 of 1946, set out as a note under [section 1 of this title](./chapter-001-bureau-of-land-management.md#section-1).
-
-Act Mar. 3, 1925, abolished office of surveyor general and transferred administration of all activities in charge of surveyors general to Field Surveying Service under jurisdiction of United States Supervisor of Surveys.
 
 
 <a id="section-623"></a>
@@ -45,12 +46,13 @@ Upon the approval of the district map or plat as hereinbefore provided by the Se
 
 ### Statutory Notes
 
+#### Abolition of Office of Surveyor General and Transfer of Functions
+Act Mar. 3, 1925, abolished office of surveyor general and transferred administration of all activities in charge of surveyors general to Field Surveying Service under jurisdiction of United States Supervisor of Surveys.
+
 #### Transfer of Functions
 For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out under [section 1451 of this title](./chapter-031-department-of-the-interior.md#section-1451).
 
 “Officer designated by the Secretary of the Interior” substituted for “register” on authority of section 403 of Reorg. Plan No. 3 of 1946, which abolished all registers of district land offices and transferred function of register of district land offices to Secretary of the Interior. See section 403 of Reorg. Plan No. 3 of 1946, set out as a note under [section 1 of this title](./chapter-001-bureau-of-land-management.md#section-1).
-
-Act Mar. 3, 1925, abolished office of surveyor general and transferred administration of all activities in charge of surveyors general to Field Surveying Service under jurisdiction of United States Supervisor of Surveys.
 
 
 <a id="section-625"></a>
@@ -102,9 +104,7 @@ The reclamation Act of June seventeenth, nineteen hundred and two, referred to i
 #### Transfer of Functions
 For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out under [section 1451 of this title](./chapter-031-department-of-the-interior.md#section-1451).
 
-“Officer designated by the Secretary of the Interior” substituted for “register” on authority of section 403 of Reorg. Plan No. 3 of 1946, which abolished all registers of district land offices and transferred functions of register of district land office to Secretary of the Interior. See section 403 of Reorg. Plan No. 3 of 1946, set out as a note under [section 1 of this title](./chapter-001-bureau-of-land-management.md#section-1).
-
-Previously, references to “receiver” were changed to “register” by acts Oct. 28, 1921, and Mar. 3, 1925.
+“Officer designated by the Secretary of the Interior” substituted for “register” on authority of section 403 of Reorg. Plan No. 3 of 1946, which abolished all registers of district land offices and transferred functions of register of district land office to Secretary of the Interior. See section 403 of Reorg. Plan No. 3 of 1946, set out as a note under [section 1 of this title](./chapter-001-bureau-of-land-management.md#section-1). Previously, references to “receiver” were changed to “register” by acts Oct. 28, 1921, and Mar. 3, 1925.
 
 
 <a id="section-629"></a>
@@ -117,9 +117,7 @@ All notices required by the irrigation district laws mentioned in this chapter s
 #### Transfer of Functions
 For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out under [section 1451 of this title](./chapter-031-department-of-the-interior.md#section-1451).
 
-“Officer designated by the Secretary of the Interior” substituted for “register” on authority of section 403 of Reorg. Plan No. 3 of 1946, which abolished all registers of district land offices and transferred functions of register of district land office to Secretary of the Interior. See section 403 of Reorg. Plan No. 3 of 1946, set out as a note under [section 1 of this title](./chapter-001-bureau-of-land-management.md#section-1).
-
-Previously, reference to “receiver” was changed to “register” by acts Oct. 28, 1921 and Mar. 3, 1925.
+“Officer designated by the Secretary of the Interior” substituted for “register” on authority of section 403 of Reorg. Plan No. 3 of 1946, which abolished all registers of district land offices and transferred functions of register of district land office to Secretary of the Interior. See section 403 of Reorg. Plan No. 3 of 1946, set out as a note under [section 1 of this title](./chapter-001-bureau-of-land-management.md#section-1). Previously, reference to “receiver” was changed to “register” by acts Oct. 28, 1921 and Mar. 3, 1925.
 
 
 <a id="section-630"></a>

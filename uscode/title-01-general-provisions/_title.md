@@ -1,7 +1,7 @@
 ---
 title: 1
 heading: GENERAL PROVISIONS
-positive_law: false
+positive_law: true
 sections: 39
 chapters: 3
 ---

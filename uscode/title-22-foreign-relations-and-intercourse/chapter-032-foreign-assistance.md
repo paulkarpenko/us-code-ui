@@ -2,7 +2,7 @@
 title: 22
 chapter: '32'
 heading: FOREIGN ASSISTANCE
-section_count: 390
+section_count: 382
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22&num=0&edition=prelim
 ---
@@ -11,9 +11,6 @@ source: >-
 (a) United States development cooperation policy
 
 ### Statutory Notes
-
-#### References to Subchapter I Deemed To Include Certain Parts of Subchapter II
-References to subchapter I of this chapter are deemed to include parts IV (§ 2346 et seq.), VI (§ 2348 et seq.), and VIII (§ 2349aa et seq.) of subchapter II of this chapter, and references to subchapter II are deemed to exclude such parts. See section 202(b) of Pub. L. 92–226, set out as a note under [section 2346 of this title](./chapter-032-foreign-assistance.md#section-2346), and sections 2348c and 2349aa–5 of this title.
 
 #### Amendments
 2000—Subsec. (a). Pub. L. 106–309 substituted “five principal goals” for “four principal goals” in introductory provisions of third paragraph and added par. (5).
@@ -46,11 +43,22 @@ Subsec. (e). Pub. L. 95–88, § 101(b), added subsec. (e).
 
 1962—Pub. L. 87–565 declared distinctions made by foreign nations between American citizens because of race, color, or religion, relating to rights available to such citizens, to be repugnant to our principals, required in the administration of these funds, that consideration be given those countries sharing our world views and which do not divert their resources to military or propaganda efforts, supported by the Soviet Union or Communist China, against the United States or countries receiving aid under this chapter, that the highest emphasis be given to programs for loans or loan guarantees for use by organizations in making low-interest loans to individuals in friendly countries for the purchase of small farms, purchase of homes, aiding or establishing small businesses, purchase of tools and equipment for an occupation or trade, or to obtain practical education in vocational skills, and to programs of technical assistance and development, each assisted country should be encouraged to recognize needs of the people in the preparation of national development programs, and declared that friendly nations are to be invited, where possible, to join in missions to consult with countries receiving assistance on the possibilities of joint action to assure effective development of economic development plans and effective use of assistance provided them, and that the President may request international financial institutions to assist in establishing such missions.
 
+#### References to Subchapter I Deemed To Include Certain Parts of Subchapter II
+References to subchapter I of this chapter are deemed to include parts IV (§ 2346 et seq.), VI (§ 2348 et seq.), and VIII (§ 2349aa et seq.) of subchapter II of this chapter, and references to subchapter II are deemed to exclude such parts. See section 202(b) of Pub. L. 92–226, set out as a note under [section 2346 of this title](./chapter-032-foreign-assistance.md#section-2346), and sections 2348c and 2349aa–5 of this title.
+
 #### Effective Date of 1979 Amendment
 Pub. L. 96–53, title V, § 512, Aug. 14, 1979, 93 Stat. 380, provided that: “(a) Except as provided in subsection (b) of this section and in section 503(b) [set out as an Effective Date of 1979 Amendment note under [section 2385a of this title](./chapter-032-foreign-assistance.md#section-2385a)] this Act [see Short Title of 1979 Amendments note below] shall take effect on October 1, 1979. “(b) Sections 114(b) [not classified to the Code], 123 [amending a provision set out as a note below], 501 [not classified to the Code], and 509 [set out as a note below] of this Act shall take effect on the date of enactment of this Act [Aug. 14, 1979].”
 
 #### Effective Date of 1978 Amendment
 Pub. L. 95–424, title VI, § 605, Oct. 6, 1978, 92 Stat. 961, provided that: “The amendments made by this Act [see Short Title of 1978 Amendment note below] shall take effect on October 1, 1978.”
+
+#### Short Title of 2021 Amendment
+Pub. L. 116–283, div. A, title XII, § 1271, Jan. 1, 2021, 134 Stat. 3978, provided that: “This subtitle [subtitle H (§§ 1271–1280B) of title XII of div. A of Pub. L. 116–283, enacting [section 8607 of this title](./chapter-093-united-states-israel-cooperation.md#section-8607), amending sections 2151d, 2321h, and 8606 of this title, and enacting provisions set out as notes under sections 2151, 2321h, and 8606 of this title] may be cited as the ‘United States-Israel Security Assistance Authorization Act of 2020’.”
+
+Pub. L. 116–283, div. A, title XII, § 1281, Jan. 1, 2021, 134 Stat. 3985, provided that: “This subtitle [subtitle I (§§ 1281–1285) of title XII of div. A of Pub. L. 116–283, enacting [section 2152k of this title](./chapter-032-foreign-assistance.md#section-2152k), amending [section 2152f of this title](./chapter-032-foreign-assistance.md#section-2152f), and enacting provisions set out as a note under [section 2152f of this title](./chapter-032-foreign-assistance.md#section-2152f)] may be cited as the ‘Global Child Thrive Act of 2020’.”
+
+#### Short Title of 2020 Amendment
+Pub. L. 116–260, div. FF, title III, § 351, Dec. 27, 2020, 134 Stat. 3127, provided that: “This subtitle [subtitle F (§§ 351–353) of title III of div. FF of Pub. L. 116–260, enacting sections 2277 and 2277a of this title] may be cited as the ‘The United States – Northern Triangle Enhanced Engagement Act’.”
 
 #### Short Title of 2019 Amendment
 Pub. L. 115–442, § 1, Jan. 14, 2019, 132 Stat. 5590, provided that: “This Act [enacting [section 2151c–1 of this title](./chapter-032-foreign-assistance.md#section-2151c-1) and provisions set out as notes under sections 2151c and 2151c–1 of this title] may be cited as the ‘Protecting Girls’ Access to Education in Vulnerable Settings Act’.”
@@ -127,7 +135,7 @@ Pub. L. 106–280, § 1(a), Oct. 6, 2000, 114 Stat. 845, provided that: “This 
 Pub. L. 106–264, title II, § 201, Aug. 19, 2000, 114 Stat. 758, provided that: “This title [amending [section 2151b of this title](./chapter-032-foreign-assistance.md#section-2151b) and enacting provisions set out as a note under [section 2151b of this title](./chapter-032-foreign-assistance.md#section-2151b)] may be cited as the ‘International Tuberculosis Control Act of 2000’.”
 
 #### Short Title of 1999 Amendments
-Pub. L. 106–158, § 1, Dec. 9, 1999, 113 Stat. 1745, provided that: “This Act [enacting [section 4727a of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section4727a&num=0&edition=prelim), Commerce and Trade, amending sections 2191a, 2193, 2195, and 2421 of this title and [section 4727 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section4727&num=0&edition=prelim), and enacting provisions set out as a note under [section 2191a of this title](./chapter-032-foreign-assistance.md#section-2191a)] may be cited as the ‘Export Enhancement Act of 1999’.”
+Pub. L. 106–158, § 1, Dec. 9, 1999, 113 Stat. 1745, provided that: “This Act [enacting [section 4727a of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section4727a&num=0&edition=prelim), Commerce and Trade, amending sections 2191a, 2193, 2195, and 2421 of this title and [section 4727 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section4727&num=0&edition=prelim), and enacting provisions set out as a note under [section 2191a of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2191a&num=0&edition=prelim)] may be cited as the ‘Export Enhancement Act of 1999’.”
 
 Pub. L. 106–113, div. B, § 1000(a)(2) [title V, § 596(a)], Nov. 29, 1999, 113 Stat. 1535, 1501A–123, provided that: “This section [enacting part XII of subchapter I of this chapter and amending sections 5812 and 5814 of this title] may be cited as the ‘Silk Road Strategy Act of 1999’.”
 
@@ -173,7 +181,7 @@ Pub. L. 99–570, title II, § 2001, Oct. 27, 1986, 100 Stat. 3207–60, provide
 Pub. L. 99–529, § 1, Oct. 24, 1986, 100 Stat. 3010, provided that: “This Act [enacting [section 2151p–1 of this title](./chapter-032-foreign-assistance.md#section-2151p-1), amending sections 290f, 2151b, 2151p, 2151q, 2222, 2291a, 2427, and 3929 of this title, and enacting provisions set out as a note under [section 290f of this title](./chapter-007-international-bureaus-congresses-etc.md#section-290f)] may be cited as the ‘Special Foreign Assistance Act of 1986’.”
 
 #### Short Title of 1985 Amendments
-Pub. L. 99–204, § 1, Dec. 23, 1985, 99 Stat. 1669, provided that: “This Act [enacting sections 2191a and 2194b of this title, amending sections 2191, 2194, 2195, and 2197 to 2200a of this title and [section 709 of Title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section709&num=0&edition=prelim), Crimes and Criminal Procedure, repealing [section 2200b of this title](./chapter-032-foreign-assistance.md#section-2200b), enacting provisions set out as a note under [section 2191a of this title](./chapter-032-foreign-assistance.md#section-2191a), and repealing provisions set out as a note under [section 2200a of this title](./chapter-032-foreign-assistance.md#section-2200a)] may be cited as the ‘Overseas Private Investment Corporation Amendments Act of 1985’.”
+Pub. L. 99–204, § 1, Dec. 23, 1985, 99 Stat. 1669, provided that: “This Act [enacting sections 2191a and 2194b of this title, amending sections 2191, 2194, 2195, and 2197 to 2200a of this title and [section 709 of Title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section709&num=0&edition=prelim), Crimes and Criminal Procedure, repealing [section 2200b of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2200b&num=0&edition=prelim), enacting provisions set out as a note under [section 2191a of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2191a&num=0&edition=prelim), and repealing provisions set out as a note under [section 2200a of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2200a&num=0&edition=prelim)] may be cited as the ‘Overseas Private Investment Corporation Amendments Act of 1985’.”
 
 Pub. L. 99–83, § 1(a), Aug. 8, 1985, 99 Stat. 190, provided that: “This Act [enacting sections 2227, 2271 to 2276, 2291b, 2346 to 2346c, 2347c, 2347d, 2349aa–7 to 2349aa–9, 2511, 2521a, and 2770a of this title, [section 469j of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section469j&num=0&edition=prelim), Conservation, and sections 1356b and 1515a of former Title 49, Transportation, amending sections 290f, 290h–8, 290h–9, 2151–1, 2151a to 2151d, 2151f, 2151h, 2151s, 2151u, 2151x, 2151z, 2174, 2182, 2182a, 2184, 2201, 2222, 2291, 2291a, 2292a, 2304, 2311, 2312, 2314, 2321h, 2321i, 2346b, 2347a, 2348a, 2349aa–2, 2349aa–4, 2354, 2361, 2364, 2370, 2371, 2375, 2394, 2394–1, 2396, 2411, 2413, 2420, 2421, 2427, 2429a, 2501, 2502, 2504, 2506, 2510, 2522, 2523, 2752, 2753, 2761, 2763 to 2767, 2771, 2776, 2778, 2791, 2792, 2794, and 2795 of this title, sections 1431, 1721, 1722, 1727a, and 1736b of Title 7, Agriculture, [section 7307 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section7307&num=0&edition=prelim), Armed Forces, and sections 1356, 1471, and 1515 of former Title 49, repealing sections 2293, 2294, 2346 to 2346c, 2346e to 2346i, and 2349aa–6 of this title, enacting provisions set out as notes under this section and sections 2151–1, 2151b, 2151u, 2291, 2346, 2374, 2429a, 2506, 2511, 2751, and 2778 of this title, [section 4011 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section4011&num=0&edition=prelim), Commerce and Trade, and section 1515 of former Title 49, amending provisions set out as notes under sections 2370 and 2501 of this title, and repealing provisions set out as a note under [section 2293 of this title](./chapter-032-foreign-assistance.md#section-2293)] may be cited as the ‘International Security and Development Cooperation Act of 1985’.”
 
@@ -204,7 +212,7 @@ Pub. L. 95–424, § 1, Oct. 6, 1978, 92 Stat. 937, provided that: “This Act [
 
 Pub. L. 95–384, § 1, Sept. 26, 1978, 92 Stat. 730, provided that: “This Act [enacting sections 2348 to 2348c, 2373, 2417, 2428b, and 2766 of this title, amending sections 1754, 2261, 2291, 2291a, 2304, 2312, 2321b, 2321h to 2321j, 2346 to 2346c, 2347a, 2347b, 2360, 2372, 2413, 2429, 2429a, 2751, 2761, 2762, 2765, 2771, and 2776 of this title and [section 4603 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4603&num=0&edition=prelim), War and National Defense, repealing sections 2441 to 2443 of this title, and enacting provisions set out as notes under this section and sections 287c, 1754, 2291, 2311, 2346, 2346a, 2370, and 2751 of this title] may be cited as the ‘International Security Assistance Act of 1978’.”
 
-Pub. L. 95–268, § 1, Apr. 24, 1978, 92 Stat. 213, provided that: “This Act [enacting [section 2200 of this title](./chapter-032-foreign-assistance.md#section-2200) and amending sections 2191, 2194, 2195, 2197, 2199, and 2200a of this title] may be cited as the ‘Overseas Private Investment Corporation Amendments Act of 1978’.”
+Pub. L. 95–268, § 1, Apr. 24, 1978, 92 Stat. 213, provided that: “This Act [enacting [section 2200 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2200&num=0&edition=prelim) and amending sections 2191, 2194, 2195, 2197, 2199, and 2200a of this title] may be cited as the ‘Overseas Private Investment Corporation Amendments Act of 1978’.”
 
 #### Short Title of 1977 Amendments
 Pub. L. 95–92, § 1, Aug. 4, 1977, 91 Stat. 614, provided that: “This Act [enacting sections 2294, 2346b, 2372, and 2429a of this title, amending sections 2261, 2291a, 2312, 2321h to 2321j, 2346, 2346a, 2347a, 2370, 2391, 2429, 2443, 2753, 2771, 2778, and 2792 of this title, and enacting provisions set out as notes under this section and sections 2346, 2370, 2406, 2431, and 2751 of this title] may be cited as the ‘International Security Assistance Act of 1977’.”
@@ -270,6 +278,15 @@ Pub. L. 87–195, pt. III, § 642, Sept. 4, 1961, 75 Stat. 460, as amended by Pu
 #### United States Agency for International Development Deemed Agency Primarily Responsible for Administering This Subchapter
 Any reference in this chapter to the agency primarily responsible for administering this subchapter, or to the Administrator of such agency, deemed reference to the United States Agency for International Development or to the Administrator of that agency, as appropriate, see section 1–200(a) of Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under [section 2381 of this title](./chapter-032-foreign-assistance.md#section-2381).
 
+#### Joint Cooperative Program Related to Innovation and High-Tech for the Middle East Region
+Pub. L. 116–283, div. A, title XII, § 1279, Jan. 1, 2021, 134 Stat. 3981, provided that: “(a) Sense of Congress.—It is the sense of Congress that—“(1) the United States should help foster cooperation in the Middle East region by financing and, as appropriate, cooperating in projects related to innovation and advanced technologies; and “(2) projects referred to in paragraph (1) should—“(A) contribute to development and the quality of life in the Middle East region through the application of research and advanced technology; and “(B) contribute to Arab-Israeli cooperation by establishing strong working relationships that last beyond the life of such projects. “(b) Establishment.—The Secretary of State, acting through the Administrator of the United States Agency for International Development, is authorized to seek to establish a program between the United States and appropriate regional partners to provide for cooperation in the Middle East region by supporting projects related to innovation and advanced technologies. “(c) Project Requirements.—Each project carried out under the program established pursuant to subsection (b)—“(1) shall include the participation of at least one entity from Israel and one entity from another regional partner; and “(2) shall be conducted in a manner that appropriately protects sensitive information, intellectual property, the national security interests of the United States, and the national security interests of Israel.”
+
+#### Statement of Policy Relating to the Conflict in Yemen
+Pub. L. 116–283, div. A, title XII, § 1295(a), Jan. 1, 2021, 134 Stat. 3994, provided that: “It is the policy of the United States— “(1) to protect United States citizens and strategic interests in the Middle East region; “(2) to support United Nations-led efforts to end violence in Yemen and secure a comprehensive political settlement to the conflict in Yemen that results in protection of civilians and civilian infrastructure and alleviates the humanitarian crisis including by facilitating unfettered access for all Yemenis to food, fuel, and medicine; “(3) to encourage all parties to the conflict in Yemen to participate in good faith in the United Nations-led process and to uphold interim agreements as part of that process to end the conflict, leading to reconstruction in Yemen; “(4) to support United States allies and partners in defending their borders and territories in order to maintain stability and security in the Middle East region and encourage burden sharing among such allies and partners; “(5) to assist United States allies and partners in countering destabilization of the Middle East region; “(6) to oppose Iranian arms transfers in violation of United Nations Security Council resolutions, including transfers to the Houthis; “(7) to encourage the Government of Saudi Arabia and the Government of the United Arab Emirates to assist significantly in the economic stabilization and eventual reconstruction of Yemen; and “(8) to encourage all parties to the conflict to comply with the law of armed conflict, including to investigate credible allegations of war crimes and provide redress to civilian victims.”
+
+#### Ending Neglected Tropical Diseases
+Pub. L. 116–94, div. J, title III, Dec. 20, 2019, 133 Stat. 3055, provided that: “SEC. 301. SHORT TITLE.“This title may be cited as the ‘End Neglected Tropical Diseases Act’. “SEC. 302. STATEMENT OF POLICY.“It is the policy of the United States to support a broad range of implementation and research and development activities that work toward the achievement of cost-effective and sustainable treatment, control, and, where possible, elimination of neglected tropical diseases for the economic and social well-being of all people. “SEC. 303. DEFINITION.“In this title, the terms ‘neglected tropical diseases’ and ‘NTDs’—“(1) mean infections caused by pathogens, including viruses, bacteria, protozoa, and helminths that disproportionately impact individuals living in extreme poverty, especially in developing countries; and “(2) include—“(A) Buruli ulcer (Mycobacterium Ulcerans infection); “(B) Chagas disease; “(C) dengue or severe dengue fever; “(D) dracunculiasis (Guinea worm disease); “(E) echinococcosis; “(F) foodborne trematodiases; “(G) human African trypanosomiasis (sleeping sickness); “(H) leishmaniasis; “(I) leprosy; “(J) lymphatic filariasis (elephantiasis); “(K) onchocerciasis (river blindness); “(L) scabies; “(M) schistosomiasis; “(N) soil-transmitted helminthiases (STH) (roundworm, whipworm, and hookworm); “(O) taeniasis/cysticercosis; “(P) trachoma; and “(Q) yaws (endemic treponematoses). “SEC. 304. EXPANSION OF UNITED STATES AGENCY FOR INTERNATIONAL DEVELOPMENT NEGLECTED TROPICAL DISEASES PROGRAM.“(a) Sense of Congress.—It is the sense of Congress that the Neglected Tropical Diseases Program, as in effect on the date of the enactment of this Act [Dec. 20, 2019], should—“(1) provide integrated drug treatment packages to as many individuals suffering from NTDs or at risk of acquiring NTDs, including individuals displaced by manmade and natural disasters, as logistically feasible; “(2) better integrate NTD control and treatment tools and approaches into complementary development and global health programs by coordinating, to the extent practicable and appropriate, across multiple sectors, including those relating to HIV/AIDS, malaria, tuberculosis, education, nutrition, other infectious diseases, maternal and child health, and water, sanitation, and hygiene; “(3) establish low-cost, high-impact community- and school-based NTD programs to reach large at-risk populations, including school-age children, with integrated drug treatment packages, as feasible; “(4) as opportunities emerge and resources allow, engage in research and development of new tools and approaches to reach the goals relating to the elimination of NTDs as set forth by the 2012 World Health Organization publication ‘Accelerating Work to Overcome the Global Impact of Neglected Tropical Diseases: A Roadmap for Implementation’, including for Chagas disease, Guinea worm, human African trypanosomiasis (sleeping sickness), leprosy, and visceral leishmaniasis; and “(5) monitor research on and developments in the prevention and treatment of other NTDs so breakthroughs can be incorporated into the Neglected Tropical Diseases Program, as practicable and appropriate. “(b) Program Priorities.—The Administrator of the United States Agency for International Development (referred to in this section as the ‘Administrator’) should incorporate the following priorities into the Neglected Tropical Diseases Program (as in effect on the date of the enactment of this Act):“(1) Planning for and conducting robust monitoring and evaluation of program investments in order to accurately measure impact, identify and share lessons learned, and inform future NTD control and elimination strategies. “(2) Coordinating program activities with complementary development and global health programs of the United States Agency for International Development, including programs relating to water, sanitation, and hygiene, food and nutrition security, and education (both primary and secondary), in order to advance the goals of the London Declaration on Neglected Tropical Diseases (2012). “(3) Including morbidity management in treatment plans for high-burden NTDs. “(4) Incorporating NTDs included in the Global Burden of Disease Study 2010 into the program as opportunities emerge, to the extent practicable and appropriate. “(5) Continuing investments in the research and development of new tools and approaches that complement existing research investments and ensure that new discoveries make it through the pipeline and become available to individuals who need them most. “SEC. 305. ACTIONS BY DEPARTMENT OF STATE.“(a) Office of the Global AIDS Coordinator.—It is the sense of Congress that the Coordinator of United States Government Activities to Combat HIV/AIDS Globally should fully consider evolving research on the impact of NTDs on efforts to control HIV/AIDS when making future programming decisions, as necessary and appropriate. “(b) Global Programming.—“(1) In general.—The Secretary of State should encourage the Global Fund to take into consideration evolving research on the impact of NTDs on efforts to control HIV/AIDS when making programming decisions, particularly with regard to female genital schistosomiasis, which studies suggest may be one of the most significant cofactors in the AIDS epidemic in Africa, as necessary and appropriate. “(2) Global fund.—In this subsection, the term ‘Global Fund’ means the public-private partnership known as the Global Fund to Fight AIDS, Tuberculosis and Malaria established pursuant to Article 80 of the Swiss Civil Code. “(c) G–20 Countries.—The Secretary of State, acting through the Office of Global Health Diplomacy, should encourage G–20 countries to significantly increase their role in the control and elimination of NTDs. “SEC. 306. MULTILATERAL DEVELOPMENT AND HEALTH INSTITUTIONS.“(a) Finding.—Congress finds that the treatment of NTDs, including community- and school-based deworming programs, can be a highly cost-effective intervention, and schools can serve as an effective delivery mechanism for reaching large numbers of children with safe treatment for soil-transmitted helminthiases (roundworm, whipworm, and hookworm) in particular. “(b) United Nations.—The President should direct the United States Permanent Representative to the United Nations to use the voice, vote, and influence of the United States to urge the World Health Organization and the United Nations Development Programme to—“(1) ensure the dissemination of best practices and programming on NTDs to governments and make data accessible to practitioners in an open and timely fashion; “(2) highlight impacts of community- and school-based deworming programs on children’s health and education, emphasizing the cost-effectiveness of such programs; “(3) encourage governments to implement deworming campaigns at the national level; “(4) consider the designation of a portion of grant funds of the institutions to deworming initiatives and cross-sectoral collaboration with water, sanitation, and hygiene efforts and nutrition or education programming, as practicable and appropriate; “(5) encourage accurate monitoring and evaluation of NTD programs, including deworming programs; and “(6) engage governments in cross-border initiatives for the treatment, control, prevention, and elimination of NTDs, and assist in developing transnational agreements, when and where necessary. “SEC. 307. RULE OF CONSTRUCTION.“Nothing in this title may be construed to increase authorizations of appropriations for the United States Agency for International Development.”
+
 #### References to Tropical Forest Conservation Act of 1998
 Pub. L. 115–440, § 2(b), Jan. 14, 2019, 132 Stat. 5580, provided that: “Any reference in any other provision of law, regulation, document, paper, or other record of the United States to the ‘Tropical Forest Conservation Act of 1998’ shall be deemed to be a reference to the ‘Tropical Forest and Coral Reef Conservation Act of 1998’.”
 
@@ -277,7 +294,7 @@ Pub. L. 115–440, § 2(b), Jan. 14, 2019, 132 Stat. 5580, provided that: “Any
 Pub. L. 114–291, Dec. 16, 2016, 130 Stat. 1497, provided that: “SECTION 1. SHORT TITLE.“This Act may be cited as the ‘United States–Caribbean Strategic Engagement Act of 2016’. “SEC. 2. STATEMENT OF POLICY.“Congress declares that it is the policy of the United States to increase engagement with the governments of the Caribbean region and with civil society, including the private sector, in both the United States and the Caribbean, in a concerted effort to—“(1) enhance diplomatic relations between the United States and the Caribbean region; “(2) increase economic cooperation between the United States and the Caribbean region; “(3) support regional economic, political, and security integration efforts in the Caribbean region; “(4) encourage enduring economic development and increased regional economic diversification and global competitiveness; “(5) reduce levels of crime and violence, curb the trafficking of illicit drugs, strengthen the rule of law, and improve citizen security; “(6) improve energy security by increasing access to diverse, reliable, and affordable power; “(7) advance cooperation on democracy and human rights at multilateral fora; “(8) continue support for public health advances and cooperation on health concerns and threats to the Caribbean region; and “(9) expand Internet access throughout the region, especially to countries lacking the appropriate infrastructure. “SEC. 3. STRATEGY.“Not later than 180 days after the date of the enactment of this Act [Dec. 16, 2016], the Secretary of State, in coordination with the Administrator of the United States Agency for International Development (USAID), shall submit to the appropriate congressional committees a multi-year strategy for United States engagement to support the efforts of interested nations in the Caribbean region that—“(1) identifies Department of State and USAID priorities, in coordination with other executive branch agencies, for United States policy towards the Caribbean region; “(2) outlines an approach to partner with governments of the Caribbean region to improve citizen security, reduce the trafficking of illicit drugs, strengthen the rule of law, and improve the effectiveness and longevity of the Caribbean Basin Security Initiative; “(3) establishes a comprehensive, integrated, multi-year strategy to encourage efforts of the Caribbean region to implement regional and national strategies that improve energy security, by increasing access to all available sources of energy, including by taking advantage of the indigenous energy sources of the Caribbean and the ongoing energy revolution in the United States; “(4) outlines an approach to improve diplomatic engagement with the governments of the Caribbean region, including with respect to human rights and democracy; “(5) Describes [sic] how the United States can develop an approach to supporting Caribbean countries in efforts they are willing to undertake with their own resources to diversify their economies; “(6) describes ways to ensure the active participation of citizens of the Caribbean in existing program[s] and initiatives administered by the Department of State’s Bureau of Educational and Cultural Affairs; and “(7) reflects the input of other executive branch agencies, as appropriate. “SEC. 4. BRIEFINGS.“The Secretary of State shall offer to the appropriate congressional committees annual briefings that review Department of State efforts to implement the strategy for United States engagement with the Caribbean region in accordance with section 3. “SEC. 5. PROGRESS REPORT.“Not later than 2 years after the submission of the strategy required under section 3, the President shall submit to the appropriate congressional committees a report on progress made toward implementing the strategy. “SEC. 6. REPORTING COST OFFSET. [Amended [section 4001 of this title](./chapter-052-foreign-service.md#section-4001).] “SEC. 7. DEFINITIONS.“In this Act:“(1) Appropriate congressional committees.—The term ‘appropriate congressional committees’ means the Committee on Foreign Affairs of the House of Representatives and the Committee on Foreign Relations of the Senate. “(2) Caribbean region.—The term ‘Caribbean region’ means the Caribbean Basin Security Initiative beneficiary countries. “(3) Security assistance.—The term ‘security assistance’ has the meaning given such term in section 502B(d)(2) of the Foreign Assistance Act of 1961 ([22 U.S.C. 2304(d)(2)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2304/d/2&num=0&edition=prelim)).”
 
 #### Support to Certain Governments for Border Security Operations
-Pub. L. 114–92, div. A, title XII, § 1226, Nov. 25, 2015, 129 Stat. 1056, as amended by Pub. L. 114–328, div. A, title XII, § 1294, Dec. 23, 2016, 130 Stat. 2561; Pub. L. 115–91, div. A, title XII, § 1279F, Dec. 12, 2017, 131 Stat. 1704; Pub. L. 115–232, div. A, title XII, § 1213, Aug. 13, 2018, 132 Stat. 2025, provided that: “(a) Authority to Provide Support.—“(1) In general.—The Secretary of Defense, with the concurrence of the Secretary of State, is authorized to provide support on a reimbursement basis as follows:“(A) To the Government of Jordan for purposes of supporting and enhancing efforts of the armed forces of Jordan to increase security and sustain increased security along the border of Jordan with Syria and Iraq. “(B) To the Government of Lebanon for purposes of supporting and enhancing efforts of the armed forces of Lebanon to increase security and sustain increased security along the border of Lebanon with Syria. “(C) To the Government of Egypt for purposes of supporting and enhancing efforts of the armed forces of Egypt to increase security and sustain increased security along the border of Egypt with Libya. “(D) To the Government of Tunisia for purposes of supporting and enhancing efforts of the armed forces of Tunisia to increase security and sustain increased security along the border of Tunisia with Libya. “(E) To the Government of Oman for purposes of supporting and enhancing efforts of the armed forces of Oman to increase security and sustain increased security along the border of Oman with Yemen. “(F) To the Government of Pakistan for purposes of supporting and enhancing efforts of the armed forces of Pakistan to increase security and sustain increased security along the border of Pakistan with Afghanistan. “(2) Frequency.—Support may be provided under this subsection on a quarterly basis. “(b) Funds Available for Support.—The following amounts made be used to provide support under the authority of subsection (a):“(1) In fiscal year 2016, amounts authorized to be appropriated for fiscal year 2016 and available for reimbursement of certain coalition nations for support provided to United States military operations pursuant to section 1233 of the National Defense Authorization Act for fiscal year 2008 (Public Law 110–181; 122 Stat. 393). “(2) In fiscal year 2016, amounts authorized to be appropriated for fiscal year 2016 for the Counterterrorism Partnerships Fund pursuant to section 1534 of the Carl Levin and Howard P. ‘Buck’ McKeon National Defense Authorization Act for fiscal year 2015 (Public Law 113–291; 128 Stat. 3616). “(3) In any fiscal year after fiscal year 2016, amounts authorized to be appropriated and available for Operation and Maintenance, Defense-Wide, and the Counter Islamic State of Iraq and the Levant Fund. “(c) Limitations.—“(1) Limitation on amount.—The total amount of support provided under the authority of subsection (a) may not exceed $150,000,000 for any country specified in subsection (a) in any fiscal year. “(2) Support to the government of lebanon.—Support provided under the authority of subsection (a) to the Government of Lebanon may be used only for the armed forces of Lebanon, and may not be used for or to reimburse Hezbollah or any forces other than the armed forces of Lebanon. “(3) Prohibition on contractual obligations.—The Secretary of Defense may not enter into any contractual obligation to provide support under the authority of subsection (a). “(4) Determination required.—The Secretary of Defense may not provide support to a country specified in subsection (a) if the Secretary determines that the government of such country fails to increase security and sustain increased security along the border of the country as specified in subsection (a)(1). “(d) Notice and Certification Before Exercise.—Not later than 15 days before providing support under the authority of subsection (a) to a country that has not previously received such support, the Secretary of Defense, in consultation with the Secretary of State, shall submit to the specified congressional committees a report that—“(1) sets forth a full description of the support to be provided, including—“(A) the purpose of such support; “(B) the amount of support to be provided; and “(C) the anticipated duration of the provision of such support; and “(2) includes a certification that—“(A) the recipient country has taken demonstrable steps to increase security along the border specified for such country in subsection (a); and “(B) the provision of such support is in the interest of United States national security. “(e) Limitation on Reimbursement of Pakistan Pending Certification.—No amount of reimbursement support under subsection (a)(1)(F) is authorized to be disbursed to the Government of Pakistan unless the Secretary of Defense certifies to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] that the following conditions are met:“(1) The military and security operations of Pakistan pertaining to border security and ancillary activities for which reimbursement is sought have been coordinated with United States military representatives in advance of the execution of such operations and activities. “(2) The goals and desired outcomes of each such operation or activity have been established and agreed upon in advance by the United States and Pakistan. “(3) A process exists to verify the achievement of the goals and desired outcomes established in accordance with paragraph (2). “(4) The Government of Pakistan is making an effort to actively coordinate with the Government of Afghanistan on issues relating to border security on the Afghanistan-Pakistan border. “(f) Quarterly Reports.—Not later than 30 days after the end of each fiscal quarter, the Secretary of Defense shall submit to the specified congressional committees a report on reimbursements pursuant to subsection (a) during the preceding fiscal quarter that includes—“(1) an identification of each country reimbursed; “(2) the date of each reimbursement; “(3) a description of any partner nation border security efforts for which reimbursement was provided; “(4) an assessment of the value of partner nation border security efforts for which reimbursement was provided; “(5) the total amounts of reimbursement provided to each partner nation in the preceding four fiscal quarters; and “(6) such other matters as the Secretary considers appropriate. “(g) Specified Congressional Committees.—In the section, the term ‘specified congressional committees’ means—“(1) the congressional defense committees; and “(2) the Committee on Foreign Relations of the Senate and the Committee on Foreign Affairs of the House of Representatives. “(h) Expiration of Authority.—No support may be provided under the authority of subsection (a) after December 31, 2021.”
+Pub. L. 114–92, div. A, title XII, § 1226, Nov. 25, 2015, 129 Stat. 1056, as amended by Pub. L. 114–328, div. A, title XII, § 1294, Dec. 23, 2016, 130 Stat. 2561; Pub. L. 115–91, div. A, title XII, § 1279F, Dec. 12, 2017, 131 Stat. 1704; Pub. L. 115–232, div. A, title XII, § 1213, Aug. 13, 2018, 132 Stat. 2025; Pub. L. 116–283, div. A, title XII, § 1210, Jan. 1, 2021, 134 Stat. 3915, provided that: “(a) Authority to Provide Support.—“(1) In general.—The Secretary of Defense, with the concurrence of the Secretary of State, is authorized to provide support on a reimbursement basis as follows:“(A) To the Government of Jordan for purposes of supporting and enhancing efforts of the armed forces of Jordan to increase security and sustain increased security along the border of Jordan with Syria and Iraq. “(B) To the Government of Lebanon for purposes of supporting and enhancing efforts of the armed forces of Lebanon to increase security and sustain increased security along the border of Lebanon with Syria. “(C) To the Government of Egypt for purposes of supporting and enhancing efforts of the armed forces of Egypt to increase security and sustain increased security along the border of Egypt with Libya. “(D) To the Government of Tunisia for purposes of supporting and enhancing efforts of the armed forces of Tunisia to increase security and sustain increased security along the border of Tunisia with Libya. “(E) To the Government of Oman for purposes of supporting and enhancing efforts of the armed forces of Oman to increase security and sustain increased security along the border of Oman with Yemen. “(F) To the Government of Pakistan for purposes of supporting and enhancing efforts of the armed forces of Pakistan to increase security and sustain increased security along the border of Pakistan with Afghanistan. “(2) Frequency.—Support may be provided under this subsection on a quarterly basis. “(b) Funds Available for Support.—Amounts to provide support under the authority of subsection (a) may be derived only from amounts authorized to be appropriated and available for operation and maintenance, Defense-wide. “(c) Limitations.—“(1) Limitation on amount.—The total amount of support provided under the authority of subsection (a) may not exceed $150,000,000 for any country specified in subsection (a) in any fiscal year. “(2) Support to the government of lebanon.—Support provided under the authority of subsection (a) to the Government of Lebanon may be used only for the armed forces of Lebanon, and may not be used for or to reimburse Hezbollah or any forces other than the armed forces of Lebanon. “(3) Prohibition on contractual obligations.—The Secretary of Defense may not enter into any contractual obligation to provide support under the authority of subsection (a). “(4) Determination required.—The Secretary of Defense may not provide support to a country specified in subsection (a) if the Secretary determines that the government of such country fails to increase security and sustain increased security along the border of the country as specified in subsection (a)(1). “(d) Notice and Certification Before Exercise.—Not later than 15 days before providing support under the authority of subsection (a) to a country that has not previously received such support, the Secretary of Defense, in consultation with the Secretary of State, shall submit to the specified congressional committees a report that—“(1) sets forth a full description of the support to be provided, including—“(A) the purpose of such support; “(B) the amount of support to be provided; and “(C) the anticipated duration of the provision of such support; and “(2) includes a certification that—“(A) the recipient country has taken demonstrable steps to increase security along the border specified for such country in subsection (a); and “(B) the provision of such support is in the interest of United States national security. “(e) Limitation on Reimbursement of Pakistan Pending Certification.—No amount of reimbursement support under subsection (a)(1)(F) is authorized to be disbursed to the Government of Pakistan unless the Secretary of Defense certifies to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] that the following conditions are met:“(1) The military and security operations of Pakistan pertaining to border security and ancillary activities for which reimbursement is sought have been coordinated with United States military representatives in advance of the execution of such operations and activities. “(2) The goals and desired outcomes of each such operation or activity have been established and agreed upon in advance by the United States and Pakistan. “(3) A process exists to verify the achievement of the goals and desired outcomes established in accordance with paragraph (2). “(4) The Government of Pakistan is making an effort to actively coordinate with the Government of Afghanistan on issues relating to border security on the Afghanistan-Pakistan border. “(f) Quarterly Reports.—Not later than 30 days after the end of each fiscal quarter, the Secretary of Defense shall submit to the specified congressional committees a report on reimbursements pursuant to subsection (a) during the preceding fiscal quarter that includes—“(1) an identification of each country reimbursed; “(2) the date of each reimbursement; “(3) a description of any partner nation border security efforts for which reimbursement was provided; “(4) an assessment of the value of partner nation border security efforts for which reimbursement was provided; “(5) the total amounts of reimbursement provided to each partner nation in the preceding four fiscal quarters; and “(6) such other matters as the Secretary considers appropriate. “(g) Specified Congressional Committees.—In the section, the term ‘specified congressional committees’ means—“(1) the congressional defense committees; and “(2) the Committee on Foreign Relations of the Senate and the Committee on Foreign Affairs of the House of Representatives. “(h) Expiration of Authority.—No support may be provided under the authority of subsection (a) after December 31, 2023.”
 
 #### Girls Count
 Pub. L. 114–24, June 12, 2015, 129 Stat. 314, provided that: “SECTION 1. SHORT TITLE.“This Act may be cited as the ‘Girls Count Act of 2015’. “SEC. 2. FINDINGS.“Congress makes the following findings:“(1) According to the United States Census Bureau’s 2013 international figures, 1 person in 12, or close to 900,000,000 people, is a girl or young woman age 10 through 24. “(2) The Census Bureau’s data also illustrates that young people are the fastest growing segment of the population in developing countries. “(3) Even though most countries do have birth registration laws, four out of ten babies born in 2012 were not registered worldwide. Moreover, an estimated 36 percent of children under the age of five worldwide (about 230,000,000 children) do not possess a birth certificate. “(4) A nationally recognized proof of birth system is important to determining a child’s citizenship, nationality, place of birth, parentage, and age. Without such a system, a passport, driver’s license, or other identification card is difficult to obtain. The lack of such documentation can prevent girls and women from officially participating in and benefitting from the formal economic, legal, and political sectors in their countries. “(5) The lack of birth registration among girls worldwide is particularly concerning as it can exacerbate the disproportionate vulnerability of women to trafficking, child marriage, and lack of access to health and education services. “(6) A lack of birth registration among women and girls can also aggravate what, in many places, amounts to an already reduced ability to seek employment, participate in civil society, or purchase or inherit land and other assets. “(7) Girls undertake much of the domestic labor needed for poor families to survive: carrying water, harvesting crops, tending livestock, caring for younger children, and doing chores. “(8) Accurate assessments of access to education, poverty levels, and overall census activities are hampered by the lack of official information on women and girls. Without this rudimentary information, assessments of foreign assistance and domestic social welfare programs are difficult to gauge. “(9) To help ensure that women and girls are considered in United States foreign assistance policies and programs, that their needs are addressed in the design, implementation, and evaluation of foreign assistance programs, and that women and girls have the opportunity to succeed, it is important that girls be counted and have access to birth certificates and other official documentation. “SEC. 3. STATEMENT OF POLICY.“It is the policy of the United States to—“(1) encourage countries to support the rule of law and ensure girls and boys of all ages are able to fully participate in society, including by providing birth certifications and other official documentation; “(2) enhance training and capacity-building in key developing countries, local nongovernmental organizations, and other civil society organizations, including faith-based organizations and organizations representing children and families in the design, implementation, and monitoring of programs under this Act, to effectively address the needs of birth registries in countries where girls are systematically undercounted; and “(3) incorporate into the design, implementation, and evaluation of policies and programs measures to evaluate the impact that such policies and programs have on girls. “SEC. 4. UNITED STATES ASSISTANCE TO SUPPORT COUNTING OF GIRLS IN THE DEVELOPING WORLD.“(a) Authorization.—The Secretary and the Administrator are authorized to prioritize and advance ongoing efforts to—“(1) support programs that will contribute to improved and sustainable Civil Registration and Vital Statistics Systems (CRVS) with a focus on birth registration; “(2) support programs that build the capacity of developing countries’ national and local legal and policy frameworks to prevent discrimination against girls in gaining access to birth certificates, particularly where this may help prevent exploitation, violence, and other abuse; and “(3) support programs and key ministries, including, interior, youth, and education ministries, to help increase property rights, social security, home ownership, land tenure security, inheritance rights, access to education, and economic and entrepreneurial opportunities, particularly for women and girls. “(b) Coordination With Multilateral Organizations.—The Secretary and the Administrator are authorized to coordinate with the World Bank, relevant United Nations agencies and programs, and other relevant organizations to encourage and work with countries to enact, implement, and enforce laws that specifically collect data on girls and establish registration programs to ensure girls are appropriately counted and have the opportunity to be active participants in the social, legal, and political sectors of society in their countries. “(c) Coordination With Private Sector and Civil Society Organizations.—The Secretary and the Administrator are authorized to work with the United States, international, and local private sector and civil society organizations to advocate for the registration and documentation of all girls and boys in developing countries, in order to help prevent exploitation, violence, and other abuses and to help provide economic and social opportunities. “SEC. 5. REPORT.“The Secretary and the Administrator shall include in relevant evaluations and reports to Congress the following information:“(1) To the extent practicable, a breakdown of United States foreign assistance beneficiaries by age, gender, marital status, location, and school enrollment status. “(2) A description, as appropriate, of how United States foreign assistance benefits girls. “(3) Specific information, as appropriate, on programs that address the particular needs of girls. “SEC. 6. DEFINITIONS.“In this Act:“(1) Administrator.—The term ‘Administrator’ means the Administrator of the United States Agency for International Development. “(2) Foreign assistance.—The term ‘foreign assistance’ has the meaning given the term in section 634(b) of the Foreign Assistance Act of 1961 ([22 U.S.C. 2394(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2394/b&num=0&edition=prelim)). “(3) Secretary.—The term ‘Secretary’ means the Secretary of State. “SEC. 7. SUNSET.“This Act shall expire on the date that is five years after the date of the enactment of this Act [June 12, 2015].”
@@ -301,7 +318,7 @@ Pub. L. 113–66, div. A, title XII, § 1208(a)–(f), Dec. 26, 2013, 127 Stat. 
 Pub. L. 112–239, div. A, title VIII, § 850, Jan. 2, 2013, 126 Stat. 1854, provided that: “(a) DoS and USAID Reports Required.—Not later than six months after the date of the enactment of this Act [Jan. 2, 2013], the Secretary of State and the Administrator of the United States Agency for International Development shall, in consultation with the Chief Acquisition Officer of the Department of State and the Chief Acquisition Officer of the United States Agency for International Development, respectively, each submit to the appropriate committees of Congress an assessment of Department of State and United States Agency for International Development policies governing contract support in overseas contingency operations. “(b) Elements.—Each report under subsection (a) shall include the following:“(1) A description and assessment of the roles and responsibilities of the officials, offices, and components of the Department of State or the United States Agency for International Development, as applicable, within the chain of authority and responsibility for policy, planning, and execution of contract support for overseas contingency operations. “(2) Procedures and processes of the Department or Agency, as applicable, on the following in connection with contract support for overseas contingency operations:“(A) Collection, inventory, and reporting of data. “(B) Acquisition planning. “(C) Solicitation and award of contracts. “(D) Requirements development and management. “(E) Contract tracking and oversight. “(F) Performance evaluations. “(G) Risk management. “(H) Interagency coordination and transition planning. “(3) Strategies and improvements necessary for the Department or the Agency, as applicable, to address reliance on contractors, workforce planning, and the recruitment and training of acquisition workforce personnel, including the anticipated number of personnel needed to perform acquisition management and oversight functions and plans for achieving personnel staffing goals, in connection with overseas contingency operations. “(c) Comptroller General Report.—Not later than one year after the date of the enactment of this Act [Jan. 2, 2013], the Comptroller General of the United States shall submit to the appropriate committees of Congress a report on the progress of the efforts of the Department of State and the United States Agency for International Development in implementing improvements and changes identified under paragraphs (1) through (3) of subsection (b) in the reports required by subsection (a), together with such additional information as the Comptroller General considers appropriate to further inform such committees on issues relating to the reports required by subsection (a). “(d) Appropriate Committees of Congress Defined.—In this section, the term ‘appropriate committees of Congress’ means—“(1) the Committee on Foreign Relations, the Committee on Armed Services, the Committee on Homeland Security and Governmental Affairs, and the Committee on Appropriations of the Senate; and “(2) the Committee on Foreign Affairs, the Committee on Armed Services, the Committee on Oversight and Government Reform, and the Committee on Appropriations of the House of Representatives.”
 
 #### Global Security Contingency Fund
-Pub. L. 112–81, div. A, title XII, § 1207, Dec. 31, 2011, 125 Stat. 1625, as amended by Pub. L. 113–66, div. A, title XII, § 1202, Dec. 26, 2013, 127 Stat. 893; Pub. L. 113–291, div. A, title XII, § 1201, Dec. 19, 2014, 128 Stat. 3529; Pub. L. 115–91, div. A, title X, § 1051(q)(2), title XII, § 1206, Dec. 12, 2017, 131 Stat. 1565, 1645, provided that: “(a) Establishment.—There is established on the books of the Treasury of the United States an account to be known as the ‘Global Security Contingency Fund’ (in this section referred to as the ‘Fund’). “(b) Authority.—Notwithstanding any other provision of law (other than the provisions of section 620A of the Foreign Assistance Act of 1961 ([22 U.S.C. 2371](./chapter-032-foreign-assistance.md#section-2371)) and the section 620J of such Act relating to limitations on assistance to security forces ([22 U.S.C. 2378d](./chapter-032-foreign-assistance.md#section-2378d))), amounts in the Fund shall be available to either the Secretary of State or the Secretary of Defense to provide assistance to countries or regions designated by the Secretary of State, with the concurrence of the Secretary of Defense, for purposes of this section, as follows:“(1) To enhance the capabilities of a country’s national military forces, or other national security forces that conduct border and maritime security, internal defense, and counterterrorism operations, as well as the government agencies responsible for such forces, to—“(A) conduct border and maritime security, internal defense, or counterterrorism operations; or “(B) participate in or support military, stability, or peace support operations consistent with United States foreign policy and national security interests. “(2) For the justice sector (including law enforcement and prisons), rule of law programs, and stabilization efforts in a country in cases in which the Secretary of State, in consultation with the Secretary of Defense, determines that conflict or instability in a country or region challenges the existing capability of civilian providers to deliver such assistance. “(c) Types of Assistance.—“(1) Authorized elements.—A program to provide the assistance under subsection (b)(1) may include the provision of the following:“(A) Equipment, including routine maintenance and repair of such equipment. “(B) Supplies. “(C) With respect to amounts in the Fund appropriated or transferred into the Fund after the date of the enactment of the Carl Levin and Howard P. ‘Buck’ McKeon National Defense Authorization Act for Fiscal Year 2015 [Dec. 19, 2014], small-scale construction not exceeding $750,000 on a per-project basis. “(D) Training. “(2) Required elements.—A program to provide the assistance under subsection (b)(1) shall include elements that promote—“(A) observance of and respect for human rights and fundamental freedoms; and “(B) respect for legitimate civilian authority within the country concerned. “(d) Formulation and Approval of Assistance Programs.—“(1) Security programs.—The Secretary of State and the Secretary of Defense shall jointly formulate assistance programs under subsection (b)(1). Assistance programs to be carried out pursuant to subsection (b)(1) shall be approved by the Secretary of State, with the concurrence of the Secretary of Defense, before implementation. “(2) Justice sector and stabilization programs.—The Secretary of State, in consultation with the Secretary of Defense, shall formulate assistance programs under subsection (b)(2). Assistance programs to be carried out under the authority in subsection (b)(2) shall be approved by the Secretary of State, with the concurrence of the Secretary of Defense, before implementation. “(e) Relation to Other Authorities.—The authority to provide assistance under this section is in addition to any other authority to provide assistance to foreign nations. The administrative authorities of the Foreign Assistance Act of 1961 ([22 U.S.C. 2151](./chapter-032-foreign-assistance.md#section-2151) et seq.) shall be available to the Secretary of State with respect to funds available to carry out this section. “(f) Transfer Authority.—“(1) Department of defense funds.—Funds authorized to be appropriated to the Department of Defense for operation and maintenance for Defense-wide activities may be transferred to the Fund by the Secretary of Defense in accordance with established procedures for reprogramming under section 1001 of this Act [125 Stat. 1554] and successor provisions of law. Amounts transferred under this paragraph shall be merged with funds otherwise made available under this section and remain available until expended as provided in subsection (i) for the purposes specified in subsection (b). “(2) Limitation.—The total amount of funds transferred to the Fund in any fiscal year from the Department of Defense may not exceed $200,000,000. “(3) Transfers to other accounts.—Funds available to carry out assistance authorized by this section may be transferred to an agency or account determined most appropriate to facilitate the provision of assistance authorized by this section. “(4) Relation to other transfer authorities.—The transfer authorities in paragraphs (1) and (3) are in addition to any other transfer authority available to the Department of Defense. “(g) Allocation of Contributions To Assistance.—The contribution of the Secretary of State to an activity under the authority in subsection (b) shall be not less than 20 percent of the total amount required for such activity. The contribution of the Secretary of Defense to such activity shall be not more than 80 percent of the total amount required. “(h) Authority To Accept Gifts.—The Secretary of State may use money, funds, property, and services accepted pursuant to the authority of section 635(d) of the Foreign Assistance Act of 1961 ([22 U.S.C. 2395(d)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2395/d&num=0&edition=prelim)) to fulfill the purposes of subsection (b). “(i) Availability of Funds.—“(1) In general.—Except as provided in paragraph (2), amounts in the Fund shall remain available until September 30, 2019, except that amounts appropriated or transferred to the Fund before that date shall remain available for obligation and expenditure after that date for activities under programs commenced under subsection (b) before that date. “(2) Exception.—Amounts appropriated and transferred to the Fund before the date of the enactment of the Carl Levin and Howard P. ‘Buck’ McKeon National Defense Authorization Act for Fiscal Year 2015 [Dec. 19, 2014] shall remain available for obligation and expenditure after September 30, 2015, only for activities under programs commenced under subsection (b) before September 30, 2015. “(j) Administrative Expenses.—Amounts in the Fund may be used for necessary administrative expenses in connection with the provision of assistance under this section. “(k) Detail of Personnel.—The head of an agency of the United States Government may detail personnel to the Department of State to carry out the purposes of this section, with or without reimbursement for all or part of the costs of salaries and other expenses associated with such personnel. “(l) Notices to Congress.—Not less than 30 days before initiating an activity under a program of assistance under subsection (b), the Secretary of State and the Secretary of Defense shall jointly submit to the specified congressional committees a notification that includes the following:“(1) A notification of the intent to transfer funds into the Fund under subsection (f) or any other authority, including the original source of the funds. “(2) A detailed justification for the total anticipated program for each country, including total anticipated costs and the specific activities contained therein. “(3) The budget, execution plan and timeline, and anticipated completion date for the activity. “(4) A list of other security-related assistance or justice sector and stabilization assistance that the United States is currently providing the country concerned and that is related to or supported by the activity. “(5) Such other information relating to the program or activity as the Secretary of State or Secretary of Defense considers appropriate. “(m) Guidance and Processes for Exercise of Authority.—Not later than 15 days after the date on which guidance and processes for implementation of the authority in subsection (b) have been issued, the Secretary of State and the Secretary of Defense shall jointly submit a report to the specified congressional committees on such guidance and processes. The Secretary of State and Secretary of Defense shall jointly submit additional reports not later than 15 days after the date on which any future modifications to the guidance and processes for implementation of the authority in subsection (b) are issued. “(n) Specified Congressional Committees.—In this section, the term ‘specified congressional committees’ means—“(1) the Committee on Armed Services, the Committee on Foreign Affairs, and the Committee on Appropriations of the House of Representatives; and “(2) the Committee on Armed Services, the Committee on Foreign Relations, and the Committee on Appropriations of the Senate. “(o) Expiration.—The authority under this section may not be exercised after September 30, 2019. An activity under a program authorized by subsection (b) commenced before that date may be completed after that date, but only using funds available for fiscal years 2012 through 2019 and subject to the requirements contained in paragraphs (1) and (2) of subsection (i).”
+Pub. L. 112–81, div. A, title XII, § 1207, Dec. 31, 2011, 125 Stat. 1625, as amended by Pub. L. 113–66, div. A, title XII, § 1202, Dec. 26, 2013, 127 Stat. 893; Pub. L. 113–291, div. A, title XII, § 1201, Dec. 19, 2014, 128 Stat. 3529; Pub. L. 115–91, div. A, title X, § 1051(q)(2), title XII, § 1206, Dec. 12, 2017, 131 Stat. 1565, 1645; Pub. L. 116–92, div. A, title XII, § 1209, Dec. 20, 2019, 133 Stat. 1624, provided that: “(a) Establishment.—There is established on the books of the Treasury of the United States an account to be known as the ‘Global Security Contingency Fund’ (in this section referred to as the ‘Fund’). “(b) Authority.—Notwithstanding any other provision of law (other than the provisions of section 620A of the Foreign Assistance Act of 1961 ([22 U.S.C. 2371](./chapter-032-foreign-assistance.md#section-2371)) and the section 620J of such Act relating to limitations on assistance to security forces ([22 U.S.C. 2378d](./chapter-032-foreign-assistance.md#section-2378d))), amounts in the Fund shall be available to either the Secretary of State or the Secretary of Defense to provide assistance to countries or regions designated by the Secretary of State, with the concurrence of the Secretary of Defense, for purposes of this section, as follows:“(1) To enhance the capabilities of a country’s national military forces, or other national security forces that conduct border and maritime security, internal defense, and counterterrorism operations, as well as the government agencies responsible for such forces, to—“(A) conduct border and maritime security, internal defense, or counterterrorism operations; or “(B) participate in or support military, stability, or peace support operations consistent with United States foreign policy and national security interests. “(2) For the justice sector (including law enforcement and prisons), rule of law programs, and stabilization efforts in a country in cases in which the Secretary of State, in consultation with the Secretary of Defense, determines that conflict or instability in a country or region challenges the existing capability of civilian providers to deliver such assistance. “(c) Types of Assistance.—“(1) Authorized elements.—A program to provide the assistance under subsection (b)(1) may include the provision of the following:“(A) Equipment, including routine maintenance and repair of such equipment. “(B) Supplies. “(C) With respect to amounts in the Fund appropriated or transferred into the Fund after the date of the enactment of the Carl Levin and Howard P. ‘Buck’ McKeon National Defense Authorization Act for Fiscal Year 2015 [Dec. 19, 2014], small-scale construction not exceeding $750,000 on a per-project basis. “(D) Training. “(2) Required elements.—A program to provide the assistance under subsection (b)(1) shall include elements that promote—“(A) observance of and respect for human rights and fundamental freedoms; and “(B) respect for legitimate civilian authority within the country concerned. “(d) Formulation and Approval of Assistance Programs.—“(1) Security programs.—The Secretary of State and the Secretary of Defense shall jointly formulate assistance programs under subsection (b)(1). Assistance programs to be carried out pursuant to subsection (b)(1) shall be approved by the Secretary of State, with the concurrence of the Secretary of Defense, before implementation. “(2) Justice sector and stabilization programs.—The Secretary of State, in consultation with the Secretary of Defense, shall formulate assistance programs under subsection (b)(2). Assistance programs to be carried out under the authority in subsection (b)(2) shall be approved by the Secretary of State, with the concurrence of the Secretary of Defense, before implementation. “(e) Relation to Other Authorities.—The authority to provide assistance under this section is in addition to any other authority to provide assistance to foreign nations. The administrative authorities of the Foreign Assistance Act of 1961 ([22 U.S.C. 2151](./chapter-032-foreign-assistance.md#section-2151) et seq.) shall be available to the Secretary of State with respect to funds available to carry out this section. “(f) Transfer Authority.—“(1) Department of defense funds.—Funds authorized to be appropriated to the Department of Defense for operation and maintenance for Defense-wide activities may be transferred to the Fund by the Secretary of Defense in accordance with established procedures for reprogramming under section 1001 of this Act [125 Stat. 1554] and successor provisions of law. Amounts transferred under this paragraph shall be merged with funds otherwise made available under this section and remain available until expended as provided in subsection (i) for the purposes specified in subsection (b). “(2) Limitation.—The total amount of funds transferred to the Fund in any fiscal year from the Department of Defense may not exceed $200,000,000. “(3) Transfers to other accounts.—Funds available to carry out assistance authorized by this section may be transferred to an agency or account determined most appropriate to facilitate the provision of assistance authorized by this section. “(4) Relation to other transfer authorities.—The transfer authorities in paragraphs (1) and (3) are in addition to any other transfer authority available to the Department of Defense. “(g) Allocation of Contributions To Assistance.—The contribution of the Secretary of State to an activity under the authority in subsection (b) shall be not less than 20 percent of the total amount required for such activity. The contribution of the Secretary of Defense to such activity shall be not more than 80 percent of the total amount required. “(h) Authority To Accept Gifts.—The Secretary of State may use money, funds, property, and services accepted pursuant to the authority of section 635(d) of the Foreign Assistance Act of 1961 ([22 U.S.C. 2395(d)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2395/d&num=0&edition=prelim)) to fulfill the purposes of subsection (b). “(i) Availability of Funds.—“(1) In general.—Except as provided in paragraph (2), amounts in the Fund shall remain available until September 30, 2021, except that amounts appropriated or transferred to the Fund before that date shall remain available for obligation and expenditure after that date for activities under programs commenced under subsection (b) before that date. “(2) Exception.—Amounts appropriated and transferred to the Fund before September 30, 2019, shall remain available for obligation and expenditure after that date, but only for activities under programs commenced under subsection (b) before September 30, 2019. “(j) Administrative Expenses.—Amounts in the Fund may be used for necessary administrative expenses in connection with the provision of assistance under this section. “(k) Detail of Personnel.—The head of an agency of the United States Government may detail personnel to the Department of State to carry out the purposes of this section, with or without reimbursement for all or part of the costs of salaries and other expenses associated with such personnel. “(l) Notices to Congress.—Not less than 30 days before initiating an activity under a program of assistance under subsection (b), the Secretary of State and the Secretary of Defense shall jointly submit to the specified congressional committees a notification that includes the following:“(1) A notification of the intent to transfer funds into the Fund under subsection (f) or any other authority, including the original source of the funds. “(2) A detailed justification for the total anticipated program for each country, including total anticipated costs and the specific activities contained therein. “(3) The budget, execution plan and timeline, and anticipated completion date for the activity. “(4) A list of other security-related assistance or justice sector and stabilization assistance that the United States is currently providing the country concerned and that is related to or supported by the activity. “(5) Such other information relating to the program or activity as the Secretary of State or Secretary of Defense considers appropriate. “(m) Guidance and Processes for Exercise of Authority.—Not later than 15 days after the date on which guidance and processes for implementation of the authority in subsection (b) have been issued, the Secretary of State and the Secretary of Defense shall jointly submit a report to the specified congressional committees on such guidance and processes. The Secretary of State and Secretary of Defense shall jointly submit additional reports not later than 15 days after the date on which any future modifications to the guidance and processes for implementation of the authority in subsection (b) are issued. “(n) Specified Congressional Committees.—In this section, the term ‘specified congressional committees’ means—“(1) the Committee on Armed Services, the Committee on Foreign Affairs, and the Committee on Appropriations of the House of Representatives; and “(2) the Committee on Armed Services, the Committee on Foreign Relations, and the Committee on Appropriations of the Senate. “(o) Expiration.—The authority under this section may not be exercised after September 30, 2021. An activity under a program authorized by subsection (b) commenced before that date may be completed after that date, but only using funds available for fiscal years 2012 through 2021 and subject to the requirements contained in paragraphs (1) and (2) of subsection (i).”
 
 [Pub. L. 115–91, § 1206(2), which directed amendment of section 1207 of Pub. L. 112–81, set out above, by substituting “September 30, 2019” for “September 30, 2017” and “through 2019” for “through 2017” in subsec. (p), was executed by making the substitution in subsec. (o) to reflect the probable intent of Congress and the redesignation of subsec. (p) as (o) by section 1051(q)(2)(B) of Pub. L. 115–91.]
 
@@ -355,6 +372,10 @@ Pub. L. 107–115, title V, § 587, Jan. 10, 2002, 115 Stat. 2173.
 Pub. L. 107–99, Dec. 21, 2001, 115 Stat. 962, as amended by Pub. L. 115–231, §§ 2–4, 6–8, Aug. 8, 2018, 132 Stat. 1632, 1634, provided that: “SECTION 1. SHORT TITLE.“This Act may be cited as the ‘Zimbabwe Democracy and Economic Recovery Act of 2001’. “SEC. 2. STATEMENT OF POLICY.“It is the policy of the United States to support the people of Zimbabwe in their struggle to effect peaceful, democratic change, achieve broad-based and equitable economic growth, restore the rule of law, reconstruct and rebuild Zimbabwe, and come to terms with the past through a process of genuine reconciliation that acknowledges past human rights abuses and orders inquiries into disappearances, including the disappearance of human rights activists, such as Patrick Nabanyama, Itai Dzamara, and Paul Chizuze. “SEC. 3. DEFINITIONS.“In this Act:“(1) International financial institutions.—The term ‘international financial institutions’ means the multilateral development banks and the International Monetary Fund. “(2) Multilateral development banks.—The term ‘multilateral development banks’ means the International Bank for Reconstruction and Development, the International Development Association, the International Finance Corporation, the Inter-American Development Bank, the Asian Development Bank, the Inter-American Investment Corporation, the African Development Bank, the African Development Fund, the European Bank for Reconstruction and Development, and the Multilateral Investment Guaranty Agency. “SEC. 4. SUPPORT FOR DEMOCRATIC TRANSITION AND ECONOMIC RECOVERY.“(a) Findings.—Congress makes the following findings:“(1) Through economic mismanagement, undemocratic practices, and the private appropriation of public assets, the Government of Zimbabwe has rendered itself ineligible to participate in International Bank for Reconstruction and Development and International Monetary Fund programs, which would otherwise be providing substantial resources to assist in the recovery and modernization of Zimbabwe’s economy. The people of Zimbabwe have thus been denied the economic and democratic benefits envisioned by the donors to such programs, including the United States. “(2) In September 1999 the IMF suspended its support under a ‘Stand By Arrangement’, approved the previous month, for economic adjustment and reform in Zimbabwe. “(3) In October 1999, the International Development Association (in this section referred to as the ‘IDA’) suspended all structural adjustment loans, credits, and guarantees to the Government of Zimbabwe. “(4) In May 2000, the IDA suspended all other new lending to the Government of Zimbabwe. “(5) In September 2000, the IDA suspended disbursement of funds for ongoing projects under previously-approved loans, credits, and guarantees to the Government of Zimbabwe. “(6) In October 2016, the Government of Zimbabwe cleared a small hurdle in its longstanding public sector arrears with the IMF. “(b) Support for Democratic Transition and Economic Recovery.—“(1) Bilateral debt relief.—Upon receipt by the appropriate congressional committees of a certification described in subsection (d), the Secretary of the Treasury shall undertake a review of the feasibility of restructuring, rescheduling, or eliminating the sovereign debt of Zimbabwe held by any agency of the United States Government. “(2) Multilateral debt relief and other financial assistance.—It is the sense of Congress that, upon receipt by the appropriate congressional committees of a certification described in subsection (d), the Secretary of the Treasury should—“(A) direct the United States executive director of each multilateral development bank to support efforts to reevaluate plans to restructure, rebuild, reschedule, or eliminate Zimbabwe’s sovereign debt held by that bank and provide an analysis based on reasonable financial options to achieve those goals; and “(B) direct the United States executive director of each international financial institution to which the United States is a member to propose to undertake financial and technical support for Zimbabwe, especially support that is intended to promote Zimbabwe’s economic recovery and development, the stabilization of the Zimbabwean currency, and the viability of Zimbabwe’s democratic institutions. “(c) Multilateral Financing Restriction.—Until the President makes the certification described in subsection (d), and except as may be required to meet basic human needs or for good governance, the Secretary of the Treasury shall instruct the United States executive director to each international financial institution to oppose and vote against—“(1) any extension by the respective institution of any loan, credit, or guarantee to the Government of Zimbabwe; or “(2) any cancellation or reduction of indebtedness owed by the Government of Zimbabwe to the United States or any international financial institution. “(d) Presidential Certification That Certain Conditions Are Satisfied.—A certification under this subsection is a certification transmitted to the appropriate congressional committees of a determination made by the President that the following conditions are satisfied:“(1) Restoration of the rule of law.—The rule of law has been restored in Zimbabwe, including respect for ownership and title to property, freedom of speech and association, and an end to the lawlessness, violence, and intimidation sponsored, condoned, or tolerated by the Government of Zimbabwe, the ruling party, and their supporters or entities. “(2) Election or pre-election conditions.—Either of the following two conditions is satisfied:“(A) Presidential election.—Zimbabwe has held a presidential election that is widely accepted as free and fair by independent international monitors, and the president-elect is free to assume the duties of the office. “(B) Pre-election conditions.—In the event the certification is made before the presidential election takes place, the Government of Zimbabwe has sufficiently improved the pre-election environment to a degree consistent with accepted international standards for security and freedom of movement and association. “(3) Commitment to equitable, legal, and transparent land reform.—The Government of Zimbabwe has demonstrated a commitment to an equitable, legal, and transparent land reform program. “(4) Military and national police subordinate to civilian government.—The Zimbabwean Armed Forces, the National Police of Zimbabwe, and other state security forces are responsible to and serve the elected civilian government. “(e) Waiver.—The President may waive the provisions of subsection (b)(1) or subsection (c), if the President determines that it is in the national interest of the United States to do so. “SEC. 5. SUPPORT FOR DEMOCRATIC INSTITUTIONS, THE FREE PRESS AND INDEPENDENT MEDIA, AND THE RULE OF LAW.“(a) In General.—The President is authorized to provide assistance under part I [[22 U.S.C. 2151](./chapter-032-foreign-assistance.md#section-2151) et seq.] and chapter 4 of part II [[22 U.S.C. 2346](./chapter-032-foreign-assistance.md#section-2346) et seq.] of the Foreign Assistance Act of 1961 to—“(1) support an independent and free press and electronic media in Zimbabwe; “(2) support equitable, legal, and transparent mechanisms of land reform in Zimbabwe; “(3) provide for democracy and governance programs in Zimbabwe; and “(4) identify and recover stolen public assets. “(b) Funding.—Of the funds authorized to be appropriated to carry out part I [[22 U.S.C. 2151](./chapter-032-foreign-assistance.md#section-2151) et seq.] and chapter 4 of part II [[22 U.S.C. 2346](./chapter-032-foreign-assistance.md#section-2346) et seq.] of the Foreign Assistance Act of 1961 for fiscal year 2002—“(1) $20,000,000 is authorized to be available to provide the assistance described in subsection (a)(2); and “(2) $6,000,000 is authorized to be available to provide the assistance described in subsection (a)(3). “(c) Supersedes Other Laws.—The authority in this section supersedes any other provision of law. “SEC. 6. SENSE OF CONGRESS ON THE ACTIONS TO BE TAKEN AGAINST INDIVIDUALS RESPONSIBLE FOR VIOLENCE AND THE BREAKDOWN OF THE RULE OF LAW IN ZIMBABWE.“It is the sense of Congress that the President should begin immediate consultation with the governments of European Union member states, Canada, Australia, the United Kingdom, the African Union, the Southern African Development Community, and other appropriate foreign countries on ways in which to—“(1) identify and share information regarding individuals responsible for the deliberate breakdown of the rule of law, politically motivated violence, and intimidation in Zimbabwe; “(2) identify assets of those individuals held outside Zimbabwe; “(3) implement travel and economic sanctions against those individuals and their associates and families; and “(4) provide for the eventual removal or amendment of those sanctions.”
 
 Provisions similar to those contained in section 4(c) of Pub. L. 107–99, set out above, were contained in the following appropriation acts:
+
+Pub. L. 116–260, div. K, title VII, § 7042(k)(1), Dec. 27, 2020, 134 Stat. 1772.
+
+Pub. L. 116–94, div. G, title VII, § 7042(j)(1), Dec. 20, 2019, 133 Stat. 2893.
 
 Pub. L. 116–6, div. F, title VII, § 7042(h)(1), Feb. 15, 2019, 133 Stat. 344.
 
@@ -984,9 +1005,6 @@ Amendment by Pub. L. 96–53 effective Oct. 1, 1979, see section 512(a) of Pub. 
 #### Effective Date of 1978 Amendment
 Amendment by Pub. L. 95–424 effective Oct. 1, 1978, see section 605 of Pub. L. 95–424, set out as a note under [section 2151 of this title](./chapter-032-foreign-assistance.md#section-2151).
 
-#### Delegation of Functions
-For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under [section 2381 of this title](./chapter-032-foreign-assistance.md#section-2381).
-
 #### International Fund for Agricultural Development; Sixth Replenishment
 Pub. L. 108–199, div. D, title V, § 577, Jan. 23, 2004, 118 Stat. 201, provided that: “The Secretary of the Treasury may, to fulfill commitments of the United States, contribute on behalf of the United States to the sixth replenishment of the resources of the International Fund for Agricultural Development. The following amount is authorized to be appropriated without fiscal year limitation for payment by the Secretary of the Treasury: $45,000,000 for the International Fund for Agricultural Development.”
 
@@ -999,6 +1017,9 @@ Pub. L. 96–533, title III, § 316, Dec. 16, 1980, 94 Stat. 3149, provided: “
 
 #### Reduction of Postharvest Losses of Food
 Pub. L. 96–533, title III, § 317, Dec. 16, 1980, 94 Stat. 3149, provided: “It is the sense of the Congress that— “(1) the President should reaffirm the policy of the United States Government to support the goal established by the United Nations General Assembly of reducing by 50 percent postharvest losses of food in developing countries; and “(2) the President, acting through the Agency for International Development, should increase substantially the proportion of funds made available under the Foreign Assistance Act of 1961 [see Short Title note set out under [section 2151 of this title](./chapter-032-foreign-assistance.md#section-2151)] for the purpose of assisting, together with other donor countries and with developing countries, in the reduction of post­harvest losses of food in developing countries.”
+
+#### Delegation of Functions
+For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under [section 2381 of this title](./chapter-032-foreign-assistance.md#section-2381).
 
 
 <a id="section-2151aa"></a>
@@ -1224,9 +1245,6 @@ The Consolidated Appropriations Resolution, 2003, referred to in subsec. (c)(4),
 
 This chapter, referred to in subsec. (e)(1), was in the original “this Act”, meaning Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, as amended, known as the Foreign Assistance Act of 1961. For complete classification of this Act to the Code, see Short Title note set out under [section 2151 of this title](./chapter-032-foreign-assistance.md#section-2151) and Tables.
 
-#### References to Subchapter I Deemed To Include Certain Parts of Subchapter II
-References to subchapter I of this chapter are deemed to include parts IV (§ 2346 et seq.), VI (§ 2348 et seq.), and VIII (§ 2349aa et seq.) of subchapter II of this chapter, and references to subchapter II are deemed to exclude such parts. See section 202(b) of Pub. L. 92–226, set out as a note under [section 2346 of this title](./chapter-032-foreign-assistance.md#section-2346), and sections 2348c and 2349aa–5 of this title.
-
 #### Codification
 Amendment by Pub. L. 98–473 is based on section 303 of H.R. 5119, Ninety-eighth Congress, as passed by the House of Representatives May 10, 1984, which was enacted into permanent law by Pub. L. 98–473.
 
@@ -1279,6 +1297,9 @@ Subsec. (b). Pub. L. 94–161, § 304(4), added subsec. (b).
 
 1974—Pub. L. 93–559 increased appropriations authorization for fiscal year 1975 to $165,000,000 from $145,000,000.
 
+#### References to Subchapter I Deemed To Include Certain Parts of Subchapter II
+References to subchapter I of this chapter are deemed to include parts IV (§ 2346 et seq.), VI (§ 2348 et seq.), and VIII (§ 2349aa et seq.) of subchapter II of this chapter, and references to subchapter II are deemed to exclude such parts. See section 202(b) of Pub. L. 92–226, set out as a note under [section 2346 of this title](./chapter-032-foreign-assistance.md#section-2346), and sections 2348c and 2349aa–5 of this title.
+
 #### Effective Date of 1985 Amendment
 Amendment by Pub. L. 99–83 effective Oct. 1, 1985, see section 1301 of Pub. L. 99–83, set out as a note under [section 2151–1 of this title](./chapter-032-foreign-assistance.md#section-2151-1).
 
@@ -1291,14 +1312,14 @@ Amendment by Pub. L. 95–424 effective Oct. 1, 1978, see section 605 of Pub. L.
 #### Effective Date of 1977 Amendment
 Pub. L. 95–88, title I, § 103(d), Aug. 3, 1977, 91 Stat. 535, provided that: “The amendment made by subsection (a) of this section [amending this section] shall take effect on October 1, 1977.”
 
-#### Delegation of Functions
-For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under [section 2381 of this title](./chapter-032-foreign-assistance.md#section-2381).
-
 #### Findings
 Pub. L. 106–264, title II, § 202, Aug. 19, 2000, 114 Stat. 758, provided that: “Congress makes the following findings: “(1) Since the development of antibiotics in the 1950s, tuberculosis has been largely controlled in the United States and the Western World. “(2) Due to societal factors, including growing urban decay, inadequate health care systems, persistent poverty, overcrowding, and malnutrition, as well as medical factors, including the HIV/AIDS epidemic and the emergence of multi-drug resistant strains of tuberculosis, tuberculosis has again become a leading and growing cause of adult deaths in the developing world. “(3) According to the World Health Organization—“(A) in 1998, about 1,860,000 people worldwide died of tuberculosis-related illnesses; “(B) one-third of the world’s total population is infected with tuberculosis; and “(C) tuberculosis is the world’s leading killer of women between 15 and 44 years old and is a leading cause of children becoming orphans. “(4) Because of the ease of transmission of tuberculosis, its international persistence and growth pose a direct public health threat to those nations that had previously largely controlled the disease. This is complicated in the United States by the growth of the homeless population, the rate of incarceration, international travel, immigration, and HIV/AIDS. “(5) With nearly 40 percent of the tuberculosis cases in the United States attributable to foreign-born persons, tuberculosis will never be controlled in the United States until it is controlled abroad. “(6) The means exist to control tuberculosis through screening, diagnosis, treatment, patient compliance, monitoring, and ongoing review of outcomes. “(7) Efforts to control tuberculosis are complicated by several barriers, including—“(A) the labor intensive and lengthy process involved in screening, detecting, and treating the disease; “(B) a lack of funding, trained personnel, and medicine in virtually every nation with a high rate of the disease; “(C) the unique circumstances in each country, which requires the development and implementation of country-specific programs; and “(D) the risk of having a bad tuberculosis program, which is worse than having no tuberculosis program because it would significantly increase the risk of the development of more widespread drug-resistant strains of the disease. “(8) Eliminating the barriers to the international control of tuberculosis through a well-structured, comprehensive, and coordinated worldwide effort would be a significant step in dealing with the increasing public health problem posed by the disease.”
 
 #### Progress Report on Implementation of Immunization and Oral Rehydration Promotion Programs
 Pub. L. 99–83, title III, § 305(b), Aug. 8, 1985, 99 Stat. 215, provided that: “Each annual report required by section 634 of the Foreign Assistance Act of 1961 [[22 U.S.C. 2394](./chapter-032-foreign-assistance.md#section-2394)] shall describe the progress achieved during the preceding fiscal year in carrying out section 104(c)(3) of such Act [[22 U.S.C. 2151b(c)(3)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2151b/c/3&num=0&edition=prelim)].”
+
+#### Delegation of Functions
+For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under [section 2381 of this title](./chapter-032-foreign-assistance.md#section-2381).
 
 
 <a id="section-2151b-1"></a>
@@ -1878,11 +1899,11 @@ Subsec. (f)(2)(C), (D). Pub. L. 110–293, § 301(e)(2), added subpars. (C) and 
 
 Subsecs. (g), (h). Pub. L. 110–293, § 301(d)(1), redesignated subsecs. (f) and (g) as (g) and (h), respectively.
 
-#### Delegation of Functions
-For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under [section 2381 of this title](./chapter-032-foreign-assistance.md#section-2381).
-
 #### Submission of Annual Report
 Pub. L. 113–76, div. K, title III, Jan. 17, 2014, 128 Stat. 477, provided in part: “That the annual report required by section 104(A)(f) [probably should be “104A(f)”] of the Foreign Assistance Act of 1961 [[22 U.S.C. 2151b–2(f)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2151b–2/f&num=0&edition=prelim)] shall also be submitted hereafter to the Committees on Appropriations”.
+
+#### Delegation of Functions
+For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under [section 2381 of this title](./chapter-032-foreign-assistance.md#section-2381).
 
 
 <a id="section-2151b-3"></a>
@@ -2140,14 +2161,14 @@ Amendment by Pub. L. 96–53 effective Oct. 1, 1979, see section 512(a) of Pub. 
 #### Effective Date of 1978 Amendment
 Amendment by Pub. L. 95–424 effective Oct. 1, 1978, see section 605 of Pub. L. 95–424, set out as a note under [section 2151 of this title](./chapter-032-foreign-assistance.md#section-2151).
 
-#### Delegation of Functions
-For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under [section 2381 of this title](./chapter-032-foreign-assistance.md#section-2381).
-
 #### Report
 Pub. L. 115–442, § 6, Jan. 14, 2019, 132 Stat. 5592, provided that: “The Secretary and the Administrator shall include in the report required under section 7 of the READ Act (division A of Public Law 115–56; [22 U.S.C. 2151c](./chapter-032-foreign-assistance.md#section-2151c) note) a description of any primary or secondary educational services supported by programs for natural or manmade disaster relief or response that specifically address the needs of displaced girls.”
 
 #### Reinforcing Education Accountability in Development
 Pub. L. 115–56, div. A, Sept. 8, 2017, 131 Stat. 1129, provided that: “SECTION 1. SHORT TITLE; TABLE OF CONTENTS.“(a) Short Title.—This Act [div. A of Pub. L. 115–56] may be cited as the ‘Reinforcing Education Accountability in Development Act’ or the ‘READ Act’. “(b) Table of Contents.— [Omitted.] “SEC. 2. DEFINITIONS.“(a) Appropriate Congressional Committees.—In this Act, the term ‘appropriate congressional committees’ means—“(1) the Committee on Appropriations of the Senate; “(2) the Committee on Foreign Relations of the Senate; “(3) the Committee on Appropriations of the House of Representatives; and “(4) the Committee on Foreign Affairs of the House of Representatives. “(b) Other Definitions.—In this Act, the terms ‘basic education’, ‘marginalized children and vulnerable groups’, ‘national education plan’, ‘partner country’, and ‘relevant Executive branch agencies and officials’ have the meanings given such terms in section 105(c) of the Foreign Assistance Act of 1961 [[22 U.S.C. 2151c(c)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2151c/c&num=0&edition=prelim)], as added by section 3. “SEC. 3. ASSISTANCE TO PROMOTE SUSTAINABLE, QUALITY BASIC EDUCATION. [Amended this section.] “SEC. 4. COMPREHENSIVE INTEGRATED UNITED STATES STRATEGY TO PROMOTE BASIC EDUCATION.“(a) Strategy Required.—Not later than one year after the date of the enactment of this Act [Sept. 8, 2017], the President shall submit to the appropriate congressional committees a comprehensive United States strategy to be carried out during the following five fiscal years to promote quality basic education in partner countries by—“(1) seeking to equitably expand access to basic education for all children, particularly marginalized children and vulnerable groups; and “(2) measurably improving the quality of basic education and learning outcomes. “(b) Requirement To Consult.—In developing the strategy required under subsection (a), the President shall consult with—“(1) the appropriate congressional committees; “(2) relevant Executive branch agencies and officials; “(3) partner country governments; and “(4) local and international nongovernmental organizations, including faith-based organizations and organizations representing students, teachers, and parents, and other development partners engaged in basic education assistance programs in developing countries. “(c) Public Comment.—The President shall provide an opportunity for public comment on the strategy required under subsection (a). “(d) Elements.—The strategy required under subsection (a)—“(1) shall be developed and implemented consistent with the principles set forth in section 105(c) of the Foreign Assistance Act of 1961 [[22 U.S.C. 2151c(c)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2151c/c&num=0&edition=prelim)], as added by section 3; and “(2) shall seek—“(A) to prioritize assistance provided under this subsection to countries that are partners of the United States and whose populations are most in need of improved basic education, as determined by indicators such as literacy and numeracy rates; “(B) to build the capacity of relevant actors in partner countries, including in government and in civil society, to develop and implement national education plans that measurably improve basic education; “(C) to identify and replicate successful interventions that improve access to and quality of basic education in conflict settings and in partner countries; “(D) to project general levels of resources needed to achieve stated program objectives; “(E) to develop means to track implementation in partner countries and ensure that such countries are expending appropriate domestic resources and instituting any relevant legal, regulatory, or institutional reforms needed to achieve stated program objectives; “(F) to leverage United States capabilities, including through technical assistance, training, and research; and “(G) to improve coordination and reduce duplication among relevant Executive branch agencies and officials, other donors, multilateral institutions, nongovernmental organizations, and governments in partner countries. “SEC. 5. IMPROVING COORDINATION AND OVERSIGHT.“(a) Senior Coordinator of United States International Basic Education Assistance.—There is established within the United States Agency for International Development a Senior Coordinator of United States International Basic Education Assistance (referred to in this section as the ‘Senior Coordinator’). The Senior Coordinator shall be appointed by the President, shall be a current USAID employee serving in a career or noncareer position in the Senior Executive Service or at the level of a Deputy Assistant Administrator or higher, and shall serve concurrently as the Senior Coordinator. “(b) Duties.—“(1) In general.—The Senior Coordinator shall have primary responsibility for the oversight and coordination of all resources and activities of the United States Government relating to the promotion of international basic education programs and activities. “(2) Specific duties.—The Senior Coordinator shall—“(A) facilitate program and policy coordination of international basic education programs and activities among relevant Executive branch agencies and officials, partner governments, multilateral institutions, the private sector, and nongovernmental and civil society organizations; “(B) develop and revise the strategy required under section 4; “(C) monitor, evaluate, and report on activities undertaken pursuant to the strategy required under section 4; and “(D) establish due diligence criteria for all recipients of funds provided by the United States to carry out activities under this Act and the amendments made by this Act. “(c) Offset.—In order to eliminate duplication of effort and activities and to offset any costs incurred by the United States Agency for International Development in appointing the Senior Coordinator under subsection (a), the President shall, after consulting with appropriate congressional committees, eliminate a position within the United States Agency for International Development (unless otherwise authorized or required by law) that the President determines to be necessary to fully offset such costs and eliminate duplication. “SEC. 6. MONITORING AND EVALUATION OF PROGRAMS.“The President shall seek to ensure that programs carried out under the strategy required under section 4 shall—“(1) apply rigorous monitoring and evaluation methodologies to determine if programs and activities provided under this subsection [sic] accomplish measurable improvements in literacy, numeracy, or other basic skills development that prepare an individual to be an active, productive member of society and the workforce; “(2) include methodological guidance in the implementation plan and support systemic data collection using internationally comparable indicators, norms, and methodologies, to the extent practicable and appropriate; “(3) disaggregate all data collected and reported by age, gender, marital status, disability, and location, to the extent practicable and appropriate; “(4) include funding for both short- and long-term monitoring and evaluation to enable assessment of the sustainability and scalability of assistance programs; and “(5) support the increased use and public availability of education data for improved decision making, program effectiveness, and monitoring of global progress. “SEC. 7. TRANSPARENCY AND REPORTING TO CONGRESS.“(a) Annual Report on the Implementation of Strategy.—Not later than 180 days after the end of each fiscal year during which the strategy developed pursuant to section 4(a) is carried out, the President shall—“(1) submit a report to the appropriate congressional committees that describes the implementation of such strategy; and “(2) make the report described in paragraph (1) available to the public. “(b) Matters To Be Included.—The report required under subsection (a) shall include—“(1) a description of the efforts made by relevant Executive branch agencies and officials to implement the strategy developed pursuant to section 4, with a particular focus on the activities carried out under the strategy; “(2) a description of the extent to which each partner country selected to receive assistance for basic education meets the priority criteria specified in section 105(c) of the Foreign Assistance Act [[22 U.S.C. 2151c(c)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2151c/c&num=0&edition=prelim)], as added by section 3; and “(3) a description of the progress achieved over the reporting period toward meeting the goals, objectives, benchmarks, and timeframes specified in the strategy developed pursuant to section 4 at the program level, as developed pursuant to monitoring and evaluation specified in section 6, with particular emphasis on whether there are demonstrable student improvements in literacy, numeracy, or other basic skills development that prepare an individual to be an active, productive member of society and the workforce.”
+
+#### Delegation of Functions
+For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under [section 2381 of this title](./chapter-032-foreign-assistance.md#section-2381).
 
 #### Delegation of Authorities Under the Reinforcing Education Accountability in Development Act
 Memorandum of President of the United States, Aug. 31, 2018, 83 F.R. 47795, provided:
@@ -2235,23 +2256,26 @@ Pub. L. 115–442, § 4, Jan. 14, 2019, 132 Stat. 5591, provided that: “It is 
 
 (5) programs of urban development, with particular emphasis on small, labor intensive enterprises, marketing systems for small producers, and financial and other institutions which enable the urban poor to participate in the economic and social development of their country.
 
-**(e) Authorization of appropriations**
+**(e) Authorization of appropriations** There is authorized to be appropriated $2,000,000 for fiscal years 2021 through 2023 to finance cooperative projects among the United States, Israel, and developing countries that identify and support local solutions to address sustainability challenges relating to water resources, agriculture, and energy storage, including—
 
-(1) There are authorized to be appropriated to the President for purposes of this section, in addition to funds otherwise available for such purposes, $207,000,000 for fiscal year 1986 and $207,000,000 for fiscal year 1987.
+(1) establishing public-private partnerships;
 
-(2) Amounts appropriated under this section are authorized to remain available until expended.
+(2) supporting the identification, research, development testing, and scaling of innovations that focus on populations that are vulnerable to environmental and resource-scarcity crises, such as subsistence farming communities;
 
-**(f) Financing cooperative projects among United States, Israel, and developing countries** Of the amounts authorized to be appropriated to carry out this part, $5,000,000 for fiscal year 1986 and $5,000,000 for fiscal year 1987 shall be used to finance cooperative projects among the United States, Israel, and developing countries.
+(3) seed or transition-to-scale funding;
+
+(4) clear and appropriate branding and marking of United States funded assistance, in accordance with [section 2401 of this title](./chapter-032-foreign-assistance.md#section-2401); and
+
+(5) accelerating demonstrations or applications of local solutions to sustainability challenges, or the further refinement, testing, or implementation of innovations that have previously effectively addressed sustainability challenges.
 
 ### Statutory Notes
-
-#### References to Subchapter I Deemed To Include Certain Parts of Subchapter II
-References to subchapter I of this chapter are deemed to include parts IV (§ 2346 et seq.), VI (§ 2348 et seq.), and VIII (§ 2349aa et seq.) of subchapter II of this chapter, and references to subchapter II are deemed to exclude such parts. See section 202(b) of Pub. L. 92–226, set out as a note under [section 2346 of this title](./chapter-032-foreign-assistance.md#section-2346), and sections 2348c and 2349aa–5 of this title.
 
 #### Prior Provisions
 A prior section 2151d, Pub. L. 87–195, pt. I, § 106, as added Pub. L. 93–189, § 2(3), Dec. 17, 1973, 87 Stat. 715, authorized additional appropriations of $53,000,000 for fiscal years 1974, and 1975, for assistance to solve selected development problems in such fields as transportation, power, industry, urban development, and export development, prior to repeal by section 306(1) of Pub. L. 94–161.
 
 #### Amendments
+2021—Subsecs. (e), (f). Pub. L. 116–283 added subsec. (e) and struck out former subsecs. (e) and (f) which related to authorization of appropriations and financing cooperative projects among United States, Israel, and developing countries, respectively.
+
 1985—Subsec. (b)(1). Pub. L. 99–83, § 1211(a)(2), struck out par. (A) designation, and struck out par. (B) which related to use of funds in fiscal year 1981 for geological and geophysical survey work.
 
 Subsec. (e)(1). Pub. L. 99–83, § 307(a), amended par. (1) generally, substituting provisions authorizing appropriations of $207,000,000 for fiscal years 1986 and 1987 for provisions authorizing appropriations of $147,200,000 for fiscal years 1982 and 1983.
@@ -2277,6 +2301,9 @@ Subsec. (d). Pub. L. 96–53, §§ 104(b)(2), 105, redesignated former subsec. (
 1978—Subsec. (b). Pub. L. 95–424 substituted “$126,244,000 for the fiscal year 1979, which amount is” for “$104,500,000 for the fiscal year 1977 and $105,000,000 for the fiscal year 1978, which amounts are”.
 
 1977—Subsec. (b). Pub. L. 95–88 struck out provisions authorizing an appropriation of $99,550,000 for fiscal year 1976 and inserted provisions authorizing an appropriation of $105,000,000 for fiscal year 1978.
+
+#### References to Subchapter I Deemed To Include Certain Parts of Subchapter II
+References to subchapter I of this chapter are deemed to include parts IV (§ 2346 et seq.), VI (§ 2348 et seq.), and VIII (§ 2349aa et seq.) of subchapter II of this chapter, and references to subchapter II are deemed to exclude such parts. See section 202(b) of Pub. L. 92–226, set out as a note under [section 2346 of this title](./chapter-032-foreign-assistance.md#section-2346), and sections 2348c and 2349aa–5 of this title.
 
 #### Effective Date of 1985 Amendment
 Amendment by Pub. L. 99–83 effective Oct. 1, 1985, see section 1301 of Pub. L. 99–83, set out as a note under [section 2151–1 of this title](./chapter-032-foreign-assistance.md#section-2151-1).
@@ -2353,9 +2380,6 @@ No assistance shall be furnished by the United States Government to a country un
 
 ### Statutory Notes
 
-#### References to Sections 2151a Through 2151d Deemed To Include Section 2293
-References to sections 2151a through 2151d of this title are deemed to include a reference to [section 2293 of this title](./chapter-032-foreign-assistance.md#section-2293). See [section 2293(d)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2293/d/1&num=0&edition=prelim).
-
 #### Amendments
 1985—Pub. L. 99–83 struck out subsec. (a) designation, and struck out subsec. (b) which set forth funding limits for grant assistance under sections 2151a to 2151d of this title.
 
@@ -2368,6 +2392,9 @@ Subsec. (b). Pub. L. 95–424 substituted “No” for “Except for grants to c
 Subsec. (b). Pub. L. 95–88, § 106(2), inserted provisions creating an exception for grants to countries determined to be relatively least developed based on the United Nations Conference on Trade and Development list of “relatively least developed countries” and substituted “sections 2151a through 2151d” for “sections 2151a through 2151e”.
 
 1975—Subsec. (a). Pub. L. 94–161 authorized Presidential waiver of cost-sharing as a condition for being furnished project or activity assistance in the case of a relatively least developed country.
+
+#### References to Sections 2151a Through 2151d Deemed To Include Section 2293
+References to sections 2151a through 2151d of this title are deemed to include a reference to [section 2293 of this title](./chapter-032-foreign-assistance.md#section-2293). See [section 2293(d)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2293/d/1&num=0&edition=prelim).
 
 #### Effective Date of 1985 Amendment
 Amendment by Pub. L. 99–83 effective Oct. 1, 1985, see section 1301 of Pub. L. 99–83, set out as a note under [section 2151–1 of this title](./chapter-032-foreign-assistance.md#section-2151-1).
@@ -2444,9 +2471,6 @@ Section, Pub. L. 87–195, pt. I, § 112, as added Pub. L. 93–189, § 2(3), De
 
 ### Statutory Notes
 
-#### References to Subchapter I Deemed To Include Certain Parts of Subchapter II
-References to subchapter I of this chapter are deemed to include parts IV (§ 2346 et seq.), VI (§ 2348 et seq.), and VIII (§ 2349aa et seq.) of subchapter II of this chapter, and references to subchapter II are deemed to exclude such parts. See section 202(b) of Pub. L. 92–226, set out as a note under [section 2346 of this title](./chapter-032-foreign-assistance.md#section-2346), and sections 2348c and 2349aa–5 of this title.
-
 #### Amendments
 1990—Subsec. (b)(1). Pub. L. 101–513 inserted “and part X of this subchapter” after “this part”.
 
@@ -2463,6 +2487,9 @@ Subsec. (d). Pub. L. 96–53 redesignated subsec. (d) as (b).
 1977—Pub. L. 95–88 designated existing provisions as subsec. (a), inserted provisions relating to a recognition of the fact that women in developing countries play a significant role in economic production, family support, and the overall development process of the national economies of such countries, and added subsecs. (b) and (c).
 
 1975—Pub. L. 94–161 substituted “This subchapter” for “Sections 2151a through 2151e of this title”.
+
+#### References to Subchapter I Deemed To Include Certain Parts of Subchapter II
+References to subchapter I of this chapter are deemed to include parts IV (§ 2346 et seq.), VI (§ 2348 et seq.), and VIII (§ 2349aa et seq.) of subchapter II of this chapter, and references to subchapter II are deemed to exclude such parts. See section 202(b) of Pub. L. 92–226, set out as a note under [section 2346 of this title](./chapter-032-foreign-assistance.md#section-2346), and sections 2348c and 2349aa–5 of this title.
 
 #### Effective Date of 1979 Amendment
 Amendment by Pub. L. 96–53 effective Oct. 1, 1979, see section 512(a) of Pub. L. 96–53, set out as a note under [section 2151 of this title](./chapter-032-foreign-assistance.md#section-2151).
@@ -2489,13 +2516,13 @@ Repeal effective Oct. 1, 1978, see section 605 of Pub. L. 95–424, set out as a
 
 <a id="section-2151n"></a>
 ## § 2151n. Human rights and development assistance
-**(a) Violations barring assistance; assistance for needy people** No assistance may be provided under subchapter I of this chapter to the government of any country which engages in a consistent pattern of gross violations of internationally recognized human rights, including torture or cruel, inhuman, or degrading treatment or punishment, prolonged detention without charges, causing the disappearance of persons by the abduction and clandestine detention of those persons, or other flagrant denial of the right to life, liberty, and the security of person, unless such assistance will directly benefit the needy people in such country.
+**(a) Violations barring assistance; assistance for needy people** No assistance may be provided under subchapter I of this chapter, and no support may be provided under subchapter II of chapter 103 of this title, to the government of any country which engages in a consistent pattern of gross violations of internationally recognized human rights, including torture or cruel, inhuman, or degrading treatment or punishment, prolonged detention without charges, causing the disappearance of persons by the abduction and clandestine detention of those persons, or other flagrant denial of the right to life, liberty, and the security of person, unless such assistance will directly benefit the needy people in such country.
 
-**(b) 11 So in original. Two subsecs. (b) have been enacted. Information to Congressional committees for realization of assistance for needy people; concurrent resolution terminating assistance** In determining whether this standard is being met with regard to funds allocated under subchapter I of this chapter, the Committee on Foreign Relations of the Senate or the Committee on Foreign Affairs of the House of Representatives may require the Administrator primarily responsible for administering subchapter I of this chapter to submit in writing information demonstrating that such assistance will directly benefit the needy people in such country, together with a detailed explanation of the assistance to be provided (including the dollar amounts of such assistance) and an explanation of how such assistance will directly benefit the needy people in such country. If either committee or either House of Congress disagrees with the Administrator’s justification it may initiate action to terminate assistance to any country by a concurrent resolution under [section 2367 of this title](./chapter-032-foreign-assistance.md#section-2367).
+**(b) 11 So in original. Two subsecs. (b) have been enacted. Information to Congressional committees for realization of assistance for needy people; concurrent resolution terminating assistance** In determining whether this standard is being met with regard to funds allocated under subchapter I of this chapter or subchapter II of chapter 103 of this title, the Committee on Foreign Relations of the Senate or the Committee on Foreign Affairs of the House of Representatives may require the Administrator primarily responsible for administering subchapter I of this chapter or the Chief Executive Officer of the United States International Development Finance Corporation, as applicable, to submit in writing information demonstrating that such assistance or support will directly benefit the needy people in such country, together with a detailed explanation of the assistance or support to be provided (including the dollar amounts of such assistance or support) and an explanation of how such assistance or support will directly benefit the needy people in such country. If either committee or either House of Congress disagrees with the Administrator’s justification it may initiate action to terminate assistance to any country by a concurrent resolution under [section 2367 of this title](./chapter-032-foreign-assistance.md#section-2367).
 
-**(b) 1 Protection of children from exploitation** No assistance may be provided to any government failing to take appropriate and adequate measures, within their means, to protect children from exploitation, abuse or forced conscription into military or paramilitary services.
+**(b) 1 Protection of children from exploitation** No assistance may be provided under subchapter I of this chapter, and no support may be provided under subchapter II of chapter 103 of this title, to any government failing to take appropriate and adequate measures, within their means, to protect children from exploitation, abuse or forced conscription into military or paramilitary services.
 
-**(c) Factors considered** In determining whether or not a government falls within the provisions of subsection (a) and in formulating development assistance programs under subchapter I of this chapter, the Administrator shall consider, in consultation with the Assistant Secretary of State for Democracy, Human Rights, and Labor and in consultation with the Ambassador at Large for International Religious Freedom—
+**(c) Factors considered** In determining whether or not a government falls within the provisions of subsection (a) and in formulating development assistance programs under subchapter I of this chapter, or support provided under subchapter II of chapter 103 of this title, the Administrator, or the Chief Executive Officer of the United States International Development Finance Corporation, as applicable, shall consider, in consultation with the Assistant Secretary of State for Democracy, Human Rights, and Labor and in consultation with the Ambassador at Large for International Religious Freedom—
 
 (1) the extent of cooperation of such government in permitting an unimpeded investigation of alleged violations of internationally recognized human rights by appropriate international organizations, including the International Committee of the Red Cross, or groups or persons acting under the authority of the United Nations or of the Organization of American States;
 
@@ -2615,24 +2642,10 @@ Repeal effective Oct. 1, 1978, see section 605 of Pub. L. 95–424, set out as a
 
 ### Statutory Notes
 
-#### Amendment of Subsections (a), (b), and (c)
-Pub. L. 115–254, div. F, title VI, § 1470(j)(1), (w), Oct. 5, 2018, 132 Stat. 3516, 3519, provided that, effective at the end of the transition period, as defined in [section 9681 of this title](./chapter-103-better-utilization-of-investments-leading-to-development.md#section-9681), this section is amended as follows:
-
-(1) in subsection (a), by inserting “, and no support may be provided under subchapter II of chapter 103 of this title,” after “subchapter I of this chapter”;
-
-(2) in the first subsection (b) relating to information to Congressional committees for realization of assistance for needy people; concurrent resolution terminating assistance, by inserting “or subchapter II of chapter 103 of this title” after “allocated under subchapter I of this chapter”, “or the Chief Executive Officer of the United States International Development Finance Corporation, as applicable,” after “administering subchapter I of this chapter”, “or support” after “the assistance”, and “or support” after “such assistance” in three places;
-
-(3) in the second subsection (b) relating to protection of children from exploitation, by inserting “under subchapter I of this chapter, and no support may be provided under subchapter II of chapter 103 of this title,” after “provided”; and
-
-(4) in subsection (c), by striking “under subchapter I of this chapter, the Administrator” and inserting “under subchapter I of this chapter, or support provided under subchapter II of chapter 103 of this title, the Administrator, or the Chief Executive Officer of the United States International Development Finance Corporation, as applicable,”.
-
-See 2018 Amendment notes below.
-
 #### References in Text
-Section 2(a) of the Genocide Convention Implementation Act of 1987, referred to in subsec. (d)(8), probably means section 2(a) of the Genocide Convention Implementation Act of 1987 (the Proxmire Act), Pub. L. 100–606, Nov. 4, 1988, 102 Stat. 3045, which enacted chapter 50A (§ 1091 et seq.) of Title 18, Crimes and Criminal Procedure.
+Subchapter II of chapter 103 of this title, referred to in subsec. (a), subsec. (b) relating to information to Congressional committees for realization of assistance for needy people; concurrent resolution terminating assistance, subsec. (b) relating to protection of children from exploitation, and subsec. (c), was in the original title II of the Better Utilization of Investments Leading to Development Act of 2018, meaning title II of div. F of Pub. L. 115–254, Oct. 5, 2018, 132 Stat. 3492, which enacted subchapter II of chapter 103 of this title. For complete classification of title II to the Code, see Tables.
 
-#### References to Subchapter I Deemed To Include Certain Parts of Subchapter II
-References to subchapter I of this chapter are deemed to include parts IV (§ 2346 et seq.), VI (§ 2348 et seq.), and VIII (§ 2349aa et seq.) of subchapter II of this chapter, and references to subchapter II are deemed to exclude such parts. See section 202(b) of Pub. L. 92–226, set out as a note under [section 2346 of this title](./chapter-032-foreign-assistance.md#section-2346), and sections 2348c and 2349aa–5 of this title.
+Section 2(a) of the Genocide Convention Implementation Act of 1987, referred to in subsec. (d)(8), probably means section 2(a) of the Genocide Convention Implementation Act of 1987 (the Proxmire Act), Pub. L. 100–606, Nov. 4, 1988, 102 Stat. 3045, which enacted chapter 50A (§ 1091 et seq.) of Title 18, Crimes and Criminal Procedure.
 
 #### Codification
 The amendment by section 102(d)(1) of Pub. L. 105–292 was executed before the amendment by Pub. L. 105–277 to reflect the probable intent of Congress.
@@ -2724,6 +2737,9 @@ Subsec. (d). Pub. L. 95–88, § 111(a), substituted provisions directing the Se
 
 Subsec. (e). Pub. L. 95–88, § 111(b), added subsec. (e).
 
+#### References to Subchapter I Deemed To Include Certain Parts of Subchapter II
+References to subchapter I of this chapter are deemed to include parts IV (§ 2346 et seq.), VI (§ 2348 et seq.), and VIII (§ 2349aa et seq.) of subchapter II of this chapter, and references to subchapter II are deemed to exclude such parts. See section 202(b) of Pub. L. 92–226, set out as a note under [section 2346 of this title](./chapter-032-foreign-assistance.md#section-2346), and sections 2348c and 2349aa–5 of this title.
+
 #### Effective Date of 2018 Amendment
 Amendment by Pub. L. 115–254 effective at the end of the transition period, as defined in [section 9681 of this title](./chapter-103-better-utilization-of-investments-leading-to-development.md#section-9681), see section 1470(w) of Pub. L. 115–254, set out as a note under [section 905 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section905&num=0&edition=prelim), The Congress.
 
@@ -2741,9 +2757,6 @@ Amendment by Pub. L. 96–53 effective Oct. 1, 1979, see section 512(a) of Pub. 
 
 #### Effective Date of 1978 Amendment
 Amendment by Pub. L. 95–424 effective Oct. 1, 1978, see section 605 of Pub. L. 95–424, set out as a note under [section 2151 of this title](./chapter-032-foreign-assistance.md#section-2151).
-
-#### Delegation of Functions
-For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under [section 2381 of this title](./chapter-032-foreign-assistance.md#section-2381).
 
 #### Annual Report on Advancing Freedom and Democracy
 Pub. L. 107–228, div. A, title VI, § 665(c), Sept. 30, 2002, 116 Stat. 1407, as amended by Pub. L. 110–53, title XXI, § 2121(b), (d), Aug. 3, 2007, 121 Stat. 532, provided that: “The information to be included in the report required by sections 116(d) and 502B(b) of the Foreign Assistance Act of 1961 [[22 U.S.C. 2151n(d)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2151n/d&num=0&edition=prelim), 2304(b)] pursuant to the amendments made by subsections (a) and (b) [amending this section and [section 2304 of this title](./chapter-032-foreign-assistance.md#section-2304)] may be submitted by the Secretary as a separate report entitled the Annual Report on Advancing Freedom and Democracy. If the Secretary elects to submit such information as a separate report, such report shall be submitted not later than 90 days after the date of submission of the report required by section [sic] 116(d) and 502B(b) of the Foreign Assistance Act of 1961.”
@@ -2763,6 +2776,9 @@ Pub. L. 102–391, title V, § 511(b), Oct. 6, 1992, 106 Stat. 1658, as amended 
 
 #### Report on Impact on Foreign Relations of United States of Reports on Human Rights Practices of Foreign Governments
 Pub. L. 96–53, title V, § 504(b), Aug. 14, 1979, 93 Stat. 378, which required Secretary of State to report by Nov. 15, 1979, foreign relations impact made by reports of human rights violations of foreign governments, was repealed by Pub. L. 97–113, title VII, § 734(a)(3), Dec. 29, 1981, 95 Stat. 1560.
+
+#### Delegation of Functions
+For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under [section 2381 of this title](./chapter-032-foreign-assistance.md#section-2381).
 
 
 <a id="section-2151n-1"></a>
@@ -2840,9 +2856,6 @@ A prior section 2151o, Pub. L. 87–195, pt. 1, § 117, as added Pub. L. 95–88
 
 ### Statutory Notes
 
-#### References to Subchapter I Deemed To Include Certain Parts of Subchapter II
-References to subchapter I of this chapter are deemed to include parts IV (§ 2346 et seq.), VI (§ 2348 et seq.), and VIII (§ 2349aa et seq.) of subchapter II of this chapter, and references to subchapter II are deemed to exclude such parts. See section 202(b) of Pub. L. 92–226, set out as a note under [section 2346 of this title](./chapter-032-foreign-assistance.md#section-2346), and sections 2348c and 2349aa–5 of this title.
-
 #### Codification
 Other sections 117 of Pub. L. 87–195, pt. I, were classified to section 2151o of this title prior to repeal by Pub. L. 95–424 and Pub. L. 103–149.
 
@@ -2857,14 +2870,14 @@ Other sections 117 of Pub. L. 87–195, pt. I, were classified to section 2151o 
 
 1978—Pub. L. 95–424 designated existing provisions as subsec. (a) and added subsecs. (b) and (c).
 
+#### References to Subchapter I Deemed To Include Certain Parts of Subchapter II
+References to subchapter I of this chapter are deemed to include parts IV (§ 2346 et seq.), VI (§ 2348 et seq.), and VIII (§ 2349aa et seq.) of subchapter II of this chapter, and references to subchapter II are deemed to exclude such parts. See section 202(b) of Pub. L. 92–226, set out as a note under [section 2346 of this title](./chapter-032-foreign-assistance.md#section-2346), and sections 2348c and 2349aa–5 of this title.
+
 #### Effective Date of 1979 Amendment
 Amendment by Pub. L. 96–53 effective Oct. 1, 1979, see section 512(a) of Pub. L. 96–53, set out as a note under [section 2151 of this title](./chapter-032-foreign-assistance.md#section-2151).
 
 #### Effective Date of 1978 Amendment
 Amendment by Pub. L. 95–424 effective Oct. 1, 1978, see section 605 of Pub. L. 95–424, set out as a note under [section 2151 of this title](./chapter-032-foreign-assistance.md#section-2151).
-
-#### Delegation of Functions
-For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under [section 2381 of this title](./chapter-032-foreign-assistance.md#section-2381).
 
 #### Defending Economic Livelihoods and Threatened Animals
 Pub. L. 115–353, Dec. 21, 2018, 132 Stat. 5070, provided that: “SECTION 1. SHORT TITLE.“This Act may be cited as the ‘Defending Economic Livelihoods and Threatened Animals Act’ or the ‘DELTA Act’. “SEC. 2. FINDINGS.“Congress finds the following:“(1) The greater Okavango River Basin, which ranges from the highland plateau of Angola to northeastern Namibia and northern Botswana, and also provides critical natural resources that sustain wildlife in Zambia and Zimbabwe, is the largest freshwater watershed in southern Africa. “(2) The greater Okavango River Basin is the main source of water and livelihoods for over 1 million people, and the effective management and protection of this critical watershed will help advance important conservation and economic growth objectives for Angola, Botswana, Namibia, local communities, and the broader region. “(3) The greater Okavango River Basin is home to the largest remaining elephant population in the world, as well as other threatened wildlife species. “(4) Poaching and trafficking of threatened wildlife species in the greater Okavango River Basin has increased in recent years, and has the potential to undermine regional stability by disrupting local governance and management of resources, and supplanting key economic opportunities for community members. “(5) Governments in the region have taken important steps to coordinate through existing conservation frameworks to combat trafficking, ensure responsible resource management, support local livelihoods, and protect threatened wildlife species. “SEC. 3. SENSE OF CONGRESS.“It is the sense of Congress that it is in the interest of the United States to engage, as appropriate, with the Governments of Angola, Botswana, Namibia, and neighboring countries, and in partnership with donors, regional organizations, nongovernmental organizations, local communities, and the private sector, to advance conservation efforts and promote economic growth and stability in the greater Okavango River Basin and neighboring watersheds and conservation areas. “SEC. 4. STATEMENT OF POLICY.“It is the policy of the United States to promote inclusive economic growth through conservation and biodiversity programs that facilitate transboundary cooperation, improve water and natural resource management, and build local capacity to protect and preserve threatened wildlife species in the greater Okavango River Basin and neighboring watersheds and conservation areas. “SEC. 5. STRATEGY.“(a) In General.—The Secretary and the Administrator, in coordination with the heads of other relevant Federal agencies, shall seek, as appropriate, to work with the Governments of Angola, Botswana, Namibia, and neighboring countries, and in partnership with donors, regional organizations, nongovernmental organizations, local communities, and the private sector, to develop a strategy to—“(1) create and advance a cooperative framework to promote responsible natural resource, water, and wildlife management practices in the greater Okavango River Basin; “(2) protect traditional migration routes of elephants and other threatened wildlife species; “(3) combat wildlife poaching and trafficking; “(4) address human health and development needs of local communities; and “(5) catalyze economic growth in such countries and across the broader region. “(b) Elements.—The strategy established pursuant to subsection (a) shall—“(1) promote cooperative and responsible water, natural resource, and wildlife management policies and practices within and among the countries of Angola, Botswana, and Namibia, with a particular focus on the greater Okavango River Basin and the critical headwaters located in Angola; “(2) protect and restore wildlife habitats and traditional migratory patterns of elephants and other threatened species; “(3) combat wildlife poaching and trafficking in Angola, Botswana, Namibia, and those areas of Zambia and Zimbabwe that border Angola, Botswana, or Namibia, including within regional and national parks and reserves, by building the capacity of the governments of such countries, local law enforcement, community leaders, and park rangers to detect, disrupt, and prosecute poachers and traffickers; “(4) promote conservation as a foundation for inclusive economic growth and development within a comprehensive assistance strategy that places Angola, Botswana, and Namibia on a trajectory toward graduation from the need for United States foreign assistance; “(5) identify opportunities and mechanisms to leverage regional organizations, nongovernmental organizations, and public-private partnerships to contribute to support the implementation of the strategy; “(6) establish monitoring and evaluation mechanisms, including measurable goals, objectives, and benchmarks of success, that are included in grants, contracts, and cooperative agreements to ensure the effective use of United States foreign assistance; and “(7) coordinate with and build the capacity of regional conservation frameworks in order to advance regional conservation objectives. “SEC. 6. UNITED STATES SUPPORT.“(a) In General.—The Secretary and the Administrator, in coordination with the heads of other relevant Federal agencies, are authorized to prioritize and advance ongoing efforts to—“(1) promote inclusive economic growth and development through responsible water and natural resource management and wildlife protection activities in the greater Okavango River Basin; “(2) provide technical assistance to governments and local communities in Angola, Botswana, and Namibia to create a policy-enabling environment for such responsible water and natural resource management and wildlife protection activities; and “(3) build the capacity of local law enforcement, park rangers, and community leaders to combat wildlife poaching and trafficking. “(b) Coordination and Integration With Regional Conservation Frameworks.—The Secretary and the Administrator, in coordination with the heads of other relevant Federal agencies, shall coordinate assistance provided by Department of State, the United States Agency for International Development, and such other relevant Federal agencies with existing regional conservation frameworks in order to ensure regional integration of conservation, wildlife trafficking, and water management initiatives, to prevent duplication of efforts, and to advance regional conservation objectives. “(c) Coordination With Private Sector.—The Secretary and the Administrator, in coordination with the heads of other relevant Federal agencies, are authorized to work with the private sector and nongovernmental organizations to leverage public and private capital to promote responsible resource management, combat wildlife poaching and trafficking, and support inclusive economic growth and local livelihoods in the greater Okavango River Basin. “(d) Monitoring and Evaluation.—The Secretary and the Administrator shall establish monitoring and evaluation mechanisms, to include measurable goals, objectives, and benchmarks, to ensure the effective use of United States foreign assistance to achieve the objectives of this section. “SEC. 7. REPORT.“(a) In General.—Not later than 1 year after the date of the enactment of this Act [Dec. 21, 2018], the Secretary and the Administrator, in coordination with the heads of other relevant Federal agencies, shall submit to the appropriate congressional committees a report on the implementation of this Act. “(b) Matters To Be Included.—The report required under subsection (a) shall include a description of the strategy required by section 5, including—“(1) the monitoring and evaluation plans and indicators used to measure performance under the strategy; “(2) any legislative impediments to meeting the objectives of such strategy; “(3) the extent to which Angola, Botswana, and Namibia have demonstrated a commitment and willingness to cooperate to advance efforts described in section 5(b); “(4) progress made to date in meeting the objectives of such strategy; “(5) efforts to coordinate, deconflict, and streamline conservation programs in order to maximize resource effectiveness; “(6) the extent to which Angola, Botswana, and Namibia and other government[s] in the region are investing resources to advance conservation initiatives; and “(7) the extent to which other funding sources, including through private sector investment and other investment by Angola, Botswana, and Namibia, have been identified to advance conservation initiatives. “SEC. 8. DEFINITIONS.“In this Act:“(1) Administrator.—The term ‘Administrator’ means the Administrator of the United States Agency for International Development. “(2) Appropriate congressional committees.—The term ‘appropriate congressional committees’ means—“(A) the Committee on Foreign Affairs and the Committee on Appropriations of the House of Representatives; and “(B) the Committee on Foreign Relations and the Committee on Appropriations of the Senate. “(3) Secretary.—The term ‘Secretary’ means the Secretary of State.”
@@ -2873,6 +2886,9 @@ Pub. L. 115–353, Dec. 21, 2018, 132 Stat. 5070, provided that: “SECTION 1. S
 Pub. L. 107–228, div. A, title VI, subtitle D, Sept. 30, 2002, 116 Stat. 1402, provided that: “SEC. 641. SHORT TITLE.“This subtitle may be cited as the ‘Clean Water for the Americas Partnership Act of 2002’. “SEC. 642. DEFINITIONS.“In this subtitle:“(1) Joint project.—The term ‘joint project’ means a project between a United States association or nonprofit entity and a Latin American or Caribbean association or nongovernmental organization. “(2) Latin american or caribbean nongovernmental organization.—The term ‘Latin American or Caribbean nongovernmental organization’ includes any institution of higher education, any private nonprofit entity involved in international education activities, or any research institute or other research organization, based in the region. “(3) Region.—The term ‘region’ refers to the region comprised of the member countries of the Organization of American States (other than the United States and Canada). “(4) United states association.—The term ‘United States association’ means a business league described in section 501(c)(6) of the Internal Revenue Code of 1986 ([26 U.S.C. 501(c)(6)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section501/c/6&num=0&edition=prelim)), and exempt from taxation under section 501(a) of such Code ([26 U.S.C. 501(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section501/a&num=0&edition=prelim)). “(5) United states nonprofit entity.—The term ‘United States nonprofit entity’ includes any institution of higher education (as defined in section 101(a) of the Higher Education Act of 1965 ([20 U.S.C. 1001(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1001/a&num=0&edition=prelim)), any private nonprofit entity involved in international education activities, or any research institute or other research organization, based in the United States. “SEC. 643. ESTABLISHMENT OF PROGRAM.“The President is authorized to establish a program which shall be known as the ‘Clean Water for the Americas Partnership’. “SEC. 644. ENVIRONMENTAL ASSESSMENT.“The President is authorized to conduct a comprehensive assessment of the environmental problems in the region to determine—“(1) which environmental problems threaten human health the most, particularly the health of the urban poor; “(2) which environmental problems are most threatening, in the long-term, to the region’s natural resources; “(3) which countries have the most pressing environmental problems; and “(4) whether and to what extent there is a market for United States environmental technology, practices, knowledge, and innovations in the region. “SEC. 645. ESTABLISHMENT OF TECHNOLOGY AMERICA CENTERS.“(a) Authority To Establish.—The President, acting through the Director General of the United States and Foreign Commercial Service of the Department of Commerce, is authorized to establish Technology America Centers (TEAMs) in the region to serve the entire region and, where appropriate, to establish TEAMs in urban areas of the region to focus on urban environmental problems. “(b) Functions.—The TEAMs would link United States private sector environmental technology firms with local partners, both public and private, by providing logistic and information support to United States firms seeking to find local partners and opportunities for environmental projects. TEAMs should emphasize assisting United States small businesses. “(c) Location.—In determining whether to locate a TEAM in a country, the President, acting through the Director General of the United States and Foreign Commercial Service of the Department of Commerce, shall take into account the country’s need for logistic and informational support and the opportunities presented for United States firms in the country. A TEAM may be located in a country without regard to whether a mission of the United States Agency for International Development is established in that country. “SEC. 646. PROMOTION OF WATER QUALITY, WATER TREATMENT SYSTEMS, AND ENERGY EFFICIENCY.“Subject to the availability of appropriations, the President is authorized to provide matching grants to United States associations and United States nonprofit entities for the purpose of promoting water quality, water treatment systems, and energy efficiency in the region. The grants shall be used to support joint projects, including professional exchanges, academic fellowships, training programs in the United States or in the region, cooperation in regulatory review, development of training materials, the establishment and development in the region of local chapters of the associations or nonprofit entities, and the development of online exchanges. “SEC. 647. GRANTS FOR PREFEASIBILITY STUDIES WITHIN A DESIGNATED SUBREGION.“(a) Grant Authority.—“(1) In general.—Subject to the availability of appropriations, the Director of the Trade and Development Agency is authorized to make grants for prefeasibility studies for water projects in any country within a single subregion or in a single country designated under paragraph (2). “(2) Designation of subregion.—The Director of the Trade and Development Agency shall designate in advance a single subregion or a single country for purposes of paragraph (1). “(b) Matching Requirement.—The Director of the Trade and Development Agency may not make any grant under this section unless there are made available non-Federal contributions in an amount equal to not less than 25 percent of the amount of Federal funds provided under the grant. “(c) Limitation Per Single Project.—With respect to any single project, grant funds under this section shall be available only for the prefeasibility portion of that project. “(d) Definitions.—In this section:“(1) Prefeasibility.—The term ‘prefeasibility’ means, with respect to a project, not more than 25 percent of the design phase of the project. “(2) Subregion.—The term ‘subregion’ means an area within the region and includes areas such as Central America, the Andean region, and the Southern cone. “SEC. 648. CLEAN WATER TECHNICAL SUPPORT COMMITTEE.“(a) In General.—The President is authorized to establish a Clean Water Technical Support Committee (in this section referred to as the ‘Committee’) to provide technical support and training services for individual water projects. “(b) Composition.—The Committee shall consist of international investors, lenders, water service providers, suppliers, advisers, and others with a direct interest in accelerating development of water projects in the region. “(c) Functions.—Members of the Committee shall act as field advisers and may form specialized working groups to provide in-country training and technical assistance, and shall serve as a source of technical support to resolve barriers to project development. “SEC. 649. AUTHORIZATION OF APPROPRIATIONS.“(a) In General.—There are authorized to be appropriated to the President $10,000,000 for each of the fiscal years 2003, 2004, and 2005 to carry out this subtitle. “(b) Availability of Funds.—Funds appropriated pursuant to subsection (a) are authorized to remain available until expended. “SEC. 650. REPORT.“Eighteen months after the establishment of the program pursuant to section 643, the President shall submit a report to the appropriate congressional committees containing—“(1) an assessment of the progress made in carrying out the program established under this subtitle; and “(2) any recommendations for the enactment of legislation to make changes in the program established under this subtitle. “SEC. 651. TERMINATION DATE.“(a) In General.—Except as provided in subsection (b), the authorities of this subtitle shall terminate 3 years after the date of establishment of the program described in section 643. “(b) Exception.—In lieu of the termination date specified in subsection (a), the termination required by that subsection shall take effect five years after the date of establishment of the program described in section 643 if, prior to the termination date specified in subsection (a), the President determines and certifies to the appropriate congressional committees that it would be in the national interest of the United States to continue the program described in such section 643 for an additional 2-year period. “SEC. 652. EFFECTIVE DATE.“This subtitle shall take effect 90 days after the date of enactment of this Act [Sept. 30, 2002].”
 
 [For definition of “appropriate congressional committees” as used in subtitle D of title VI of div. A of Pub. L. 107–228, set out above, see section 3 of Pub. L. 107–228, set out as a note under [section 2651 of this title](./chapter-038-department-of-state.md#section-2651).]
+
+#### Delegation of Functions
+For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under [section 2381 of this title](./chapter-032-foreign-assistance.md#section-2381).
 
 
 <a id="section-2151p-1"></a>
@@ -3016,9 +3032,6 @@ For delegation of functions of President under this section, see Ex. Ord. No. 12
 
 ### Statutory Notes
 
-#### References to Subchapter I Deemed To Include Certain Parts of Subchapter II
-References to subchapter I of this chapter are deemed to include parts IV (§ 2346 et seq.), VI (§ 2348 et seq.), and VIII (§ 2349aa et seq.) of subchapter II of this chapter, and references to subchapter II are deemed to exclude such parts. See section 202(b) of Pub. L. 92–226, set out as a note under [section 2346 of this title](./chapter-032-foreign-assistance.md#section-2346), and sections 2348c and 2349aa–5 of this title.
-
 #### Prior Provisions
 A prior section 2151q, Pub. L. 87–195, pt. I, § 119, as added Pub. L. 95–88, title I, § 114, Aug. 3, 1977, 91 Stat. 538; amended Pub. L. 95–424, title I, § 111, Oct. 6, 1978, 92 Stat. 948; Pub. L. 96–53, title I, §§ 104(c), 107, Aug. 14, 1979, 93 Stat. 362, related to renewable and unconventional energy technologies, prior to repeal by Pub. L. 96–533, title III, § 304(g), Dec. 16, 1980, 94 Stat. 3147.
 
@@ -3031,14 +3044,17 @@ Subsec. (d). Pub. L. 99–529 added subsec. (d) and struck out former subsec. (d
 
 Subsecs. (e) to (h). Pub. L. 99–529 added subsecs. (e) to (h).
 
+#### References to Subchapter I Deemed To Include Certain Parts of Subchapter II
+References to subchapter I of this chapter are deemed to include parts IV (§ 2346 et seq.), VI (§ 2348 et seq.), and VIII (§ 2349aa et seq.) of subchapter II of this chapter, and references to subchapter II are deemed to exclude such parts. See section 202(b) of Pub. L. 92–226, set out as a note under [section 2346 of this title](./chapter-032-foreign-assistance.md#section-2346), and sections 2348c and 2349aa–5 of this title.
+
 #### Short Title
 For short title of title VII of Pub. L. 98–164, which enacted this section and amended [section 2452 of this title](./chapter-033-mutual-educational-and-cultural-exchange-program.md#section-2452), as the “International Environment Protection Act of 1983”, see section 701 of Pub. L. 98–164, set out as a Short Title of 1983 Amendment note under [section 2151 of this title](./chapter-032-foreign-assistance.md#section-2151).
 
-#### Delegation of Functions
-For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under [section 2381 of this title](./chapter-032-foreign-assistance.md#section-2381).
-
 #### Increased International Cooperation To Protect Biological Diversity
 Pub. L. 100–530, Oct. 25, 1988, 102 Stat. 2651, provided that Congress supports United States efforts, consistent with [22 U.S.C. 2151q(g)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2151q/g&num=0&edition=prelim), to initiate discussions to develop an international agreement to preserve biological diversity and calls upon the President to continue exerting United States leadership in order to achieve the earliest possible negotiation of an international convention to conserve biological diversity, and directed the President to submit a report to Congress on progress toward goal of negotiating such convention not later than one year after Oct. 25, 1988.
+
+#### Delegation of Functions
+For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under [section 2381 of this title](./chapter-032-foreign-assistance.md#section-2381).
 
 
 <a id="section-2151r"></a>
@@ -3100,11 +3116,11 @@ Section, Pub. L. 87–195, pt. I, § 121, as added Pub. L. 95–88, title I, § 
 
 ### Statutory Notes
 
-#### References to Subchapter I Deemed To Include Certain Parts of Subchapter II
-References to subchapter I of this chapter are deemed to include parts IV (§ 2346 et seq.), VI (§ 2348 et seq.), and VIII (§ 2349aa et seq.) of subchapter II of this chapter, and references to subchapter II are deemed to exclude such parts. See section 202(b) of Pub. L. 92–226, set out as a note under [section 2346 of this title](./chapter-032-foreign-assistance.md#section-2346), and sections 2348c and 2349aa–5 of this title.
-
 #### Prior Provisions
 Subsec. (b) of this section consists of provisions formerly contained in subsections (b), (c), and (d) of [section 2161 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2161&num=0&edition=prelim). Subsec. (e) of this section consists of provisions formerly contained in [section 2164 of this title](./chapter-032-foreign-assistance.md#section-2164).
+
+#### References to Subchapter I Deemed To Include Certain Parts of Subchapter II
+References to subchapter I of this chapter are deemed to include parts IV (§ 2346 et seq.), VI (§ 2348 et seq.), and VIII (§ 2349aa et seq.) of subchapter II of this chapter, and references to subchapter II are deemed to exclude such parts. See section 202(b) of Pub. L. 92–226, set out as a note under [section 2346 of this title](./chapter-032-foreign-assistance.md#section-2346), and sections 2348c and 2349aa–5 of this title.
 
 #### Effective Date
 Section effective Oct. 1, 1978, see section 605 of Pub. L. 95–424, set out as an Effective Date of 1978 Amendment note under [section 2151 of this title](./chapter-032-foreign-assistance.md#section-2151).
@@ -3163,9 +3179,6 @@ This chapter, referred to in subsec. (e), was in the original “this Act”, me
 
 [Section 2151s of this title](./chapter-032-foreign-assistance.md#section-2151s), referred to in subsec. (f), was repealed by Pub. L. 101–513, title V, § 562(d)(5), Nov. 5, 1990, 104 Stat. 2031.
 
-#### References to Subchapter I Deemed To Include Certain Parts of Subchapter II
-References to subchapter I of this chapter are deemed to include parts IV (§ 2346 et seq.), VI (§ 2348 et seq.), and VIII (§ 2349aa et seq.) of subchapter II of this chapter, and references to subchapter II are deemed to exclude such parts. See section 202(b) of Pub. L. 92–226, set out as a note under [section 2346 of this title](./chapter-032-foreign-assistance.md#section-2346), and sections 2348c and 2349aa–5 of this title.
-
 #### Amendments
 1998—Subsec. (g). Pub. L. 105–277 struck out subsec. (g) which read as follows: “After December 31, 1984, funds made available to carry out section 2151a(a), 2151b(b), 2151b(c), 2151c, 2151d, 2292, or 2293 of this title may not be made available for programs of any United States private and voluntary organization which does not obtain at least 20 percent of its total annual financial support for its international activities from sources other than the United States Government, except that this restriction does not apply with respect to programs which, as of that date, are receiving financial support from the agency primarily responsible for administering subchapter I of this chapter. The Administrator of the agency primarily responsible for administering subchapter I of this chapter may, on a case-by-case basis, waive the restriction established by this subsection, after taking into account the effectiveness of the overseas development activities of the organization, its level of volunteer support, its financial viability and stability, and the degree of its dependence for its financial support on the agency primarily responsible for administering subchapter I of this chapter.”
 
@@ -3191,6 +3204,9 @@ Subsec. (e). Pub. L. 96–533, § 307(3), added subsec. (e).
 
 1979—Subsec. (b). Pub. L. 96–53 substituted “Agency for International Development” for “Advisory Committee on Voluntary Foreign Aid”.
 
+#### References to Subchapter I Deemed To Include Certain Parts of Subchapter II
+References to subchapter I of this chapter are deemed to include parts IV (§ 2346 et seq.), VI (§ 2348 et seq.), and VIII (§ 2349aa et seq.) of subchapter II of this chapter, and references to subchapter II are deemed to exclude such parts. See section 202(b) of Pub. L. 92–226, set out as a note under [section 2346 of this title](./chapter-032-foreign-assistance.md#section-2346), and sections 2348c and 2349aa–5 of this title.
+
 #### Effective Date of 1985 Amendment
 Amendment by Pub. L. 99–83 effective Oct. 1, 1985, see section 1301 of Pub. L. 99–83, set out as a note under [section 2151–1 of this title](./chapter-032-foreign-assistance.md#section-2151-1).
 
@@ -3199,9 +3215,6 @@ Amendment by Pub. L. 96–53 effective Oct. 1, 1979, see section 512(a) of Pub. 
 
 #### Effective Date
 Section effective Oct. 1, 1978, see section 605 of Pub. L. 95–424, set out as an Effective Date of 1978 Amendment note under [section 2151 of this title](./chapter-032-foreign-assistance.md#section-2151).
-
-#### Delegation of Functions
-For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under [section 2381 of this title](./chapter-032-foreign-assistance.md#section-2381).
 
 #### Private and Volunteer Organizations
 Pub. L. 108–199, div. D, title V, § 502, Jan. 23, 2004, 118 Stat. 166, which prohibited any funds appropriated or otherwise made available by div. D of Pub. L. 108–199 from being made available to any United States private and voluntary organization, except any cooperative development organization, which obtained less than 20 percent of its total annual funding for international activities from sources other than the United States Government, with certain exceptions, was from the Foreign Operations, Export Financing, and Related Programs Appropriations Act, 2004, and was not repeated in subsequent appropriation acts. Similar provisions were contained in the following prior appropriation acts:
@@ -3259,6 +3272,9 @@ Pub. L. 95–424, title I, § 122, Oct. 6, 1978, 92 Stat. 954, as amended by Pub
 
 [African Development Foundation changed to United States African Development Foundation by Pub. L. 113–76, div. K, title III, Jan. 17, 2014, 128 Stat. 482. See [section 290h–1 of this title](./chapter-007-international-bureaus-congresses-etc.md#section-290h-1).]
 
+#### Delegation of Functions
+For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under [section 2381 of this title](./chapter-032-foreign-assistance.md#section-2381).
+
 
 <a id="section-2151v"></a>
 ## § 2151v. Aid to relatively least developed countries
@@ -3287,13 +3303,13 @@ Pub. L. 95–424, title I, § 122, Oct. 6, 1978, 92 Stat. 954, as amended by Pub
 #### References in Text
 Section 321 of the International Development and Food Assistance Act of 1975, referred to in subsec. (c)(1), is section 321 of Pub. L. 94–161, Dec. 20, 1975, 89 Stat. 868, which is set out as a note under [section 2220a of this title](./chapter-032-foreign-assistance.md#section-2220a).
 
-#### References to Subchapter I Deemed To Include Certain Parts of Subchapter II
-References to subchapter I of this chapter are deemed to include parts IV (§ 2346 et seq.), VI (§ 2348 et seq.), and VIII (§ 2349aa et seq.) of subchapter II of this chapter, and references to subchapter II are deemed to exclude such parts. See section 202(b) of Pub. L. 92–226, set out as a note under [section 2346 of this title](./chapter-032-foreign-assistance.md#section-2346), and sections 2348c and 2349aa–5 of this title.
-
 #### Amendments
 1980—Subsec. (c)(2). Pub. L. 96–533 substituted “fiscal year 1981” and “$10,845,000” for “fiscal year 1980” and “$18,800,000”, respectively.
 
 1979—Subsec. (c)(2). Pub. L. 96–53 inserted provisions respecting use of funds due and payable during fiscal year 1980 to the United States.
+
+#### References to Subchapter I Deemed To Include Certain Parts of Subchapter II
+References to subchapter I of this chapter are deemed to include parts IV (§ 2346 et seq.), VI (§ 2348 et seq.), and VIII (§ 2349aa et seq.) of subchapter II of this chapter, and references to subchapter II are deemed to exclude such parts. See section 202(b) of Pub. L. 92–226, set out as a note under [section 2346 of this title](./chapter-032-foreign-assistance.md#section-2346), and sections 2348c and 2349aa–5 of this title.
 
 #### Effective Date of 1979 Amendment
 Amendment by Pub. L. 96–53 effective Oct. 1, 1979, see section 512(a) of Pub. L. 96–53, set out as a note under [section 2151 of this title](./chapter-032-foreign-assistance.md#section-2151).
@@ -3303,11 +3319,11 @@ Pub. L. 95–424, title I, § 112(a)(2), Oct. 6, 1978, 92 Stat. 949, provided th
 
 Section effective Oct. 1, 1978, see section 605 of Pub. L. 95–424, set out as an Effective Date of 1978 Amendment note under [section 2151 of this title](./chapter-032-foreign-assistance.md#section-2151).
 
-#### Delegation of Functions
-For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under [section 2381 of this title](./chapter-032-foreign-assistance.md#section-2381).
-
 #### Presidential Authority During Fiscal Years 1990 and 1991
 Pub. L. 100–461, title V, § 572, Oct. 1, 1988, 102 Stat. 2268–44, provided that during fiscal years 1990 and 1991, President could use authority of paragraphs (A) and (B) of subsection (c)(1) of this section with respect to such aggregate amounts of principal and interest payable during each of those fiscal years as President determined, or at any time after Sept. 30, 1989, President could, if he determined it was in national interest to do so, use authority of those paragraphs with respect to such aggregate amounts of outstanding principal and interest payable at any time after that date, and that such authority could be exercised with respect to specified countries, and be exercised notwithstanding subsection (c)(2) of this section.
+
+#### Delegation of Functions
+For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under [section 2381 of this title](./chapter-032-foreign-assistance.md#section-2381).
 
 
 <a id="section-2151w"></a>
@@ -3318,11 +3334,11 @@ Pub. L. 100–461, title V, § 572, Oct. 1, 1988, 102 Stat. 2268–44, provided 
 
 ### Statutory Notes
 
-#### References to Subchapter I Deemed To Include Certain Parts of Subchapter II
-References to subchapter I of this chapter are deemed to include parts IV (§ 2346 et seq.), VI (§ 2348 et seq.), and VIII (§ 2349aa et seq.) of subchapter II of this chapter, and references to subchapter II are deemed to exclude such parts. See section 202(b) of Pub. L. 92–226, set out as a note under [section 2346 of this title](./chapter-032-foreign-assistance.md#section-2346), and sections 2348c and 2349aa–5 of this title.
-
 #### Amendments
 1981—Subsec. (b). Pub. L. 97–113 struck out subsec. (b) which required an annual Presidential report on actions taken by the international financial institutions and the United Nations Development Program to improve the evaluation of their own programs.
+
+#### References to Subchapter I Deemed To Include Certain Parts of Subchapter II
+References to subchapter I of this chapter are deemed to include parts IV (§ 2346 et seq.), VI (§ 2348 et seq.), and VIII (§ 2349aa et seq.) of subchapter II of this chapter, and references to subchapter II are deemed to exclude such parts. See section 202(b) of Pub. L. 92–226, set out as a note under [section 2346 of this title](./chapter-032-foreign-assistance.md#section-2346), and sections 2348c and 2349aa–5 of this title.
 
 #### Effective Date
 Section effective Oct. 1, 1978, see section 605 of Pub. L. 95–424, set out as an Effective Date of 1978 Amendment note under [section 2151 of this title](./chapter-032-foreign-assistance.md#section-2151).
@@ -3342,13 +3358,13 @@ Section effective Oct. 1, 1978, see section 605 of Pub. L. 95–424, set out as 
 
 ### Statutory Notes
 
-#### References to Subchapter I Deemed To Include Certain Parts of Subchapter II
-References to subchapter I of this chapter are deemed to include parts IV (§ 2346 et seq.), VI (§ 2348 et seq.), and VIII (§ 2349aa et seq.) of subchapter II of this chapter, and references to subchapter II are deemed to exclude such parts. See section 202(b) of Pub. L. 92–226, set out as a note under [section 2346 of this title](./chapter-032-foreign-assistance.md#section-2346), and sections 2348c and 2349aa–5 of this title.
-
 #### Amendments
 1990—Subsec. (b)(1). Pub. L. 101–513 inserted “, and part X of this subchapter,” after “this part”.
 
 1985—Subsec. (b). Pub. L. 99–83 designated existing provisions as par. (1), inserted reference to part IV of subchapter II of this chapter, and added par. (2).
+
+#### References to Subchapter I Deemed To Include Certain Parts of Subchapter II
+References to subchapter I of this chapter are deemed to include parts IV (§ 2346 et seq.), VI (§ 2348 et seq.), and VIII (§ 2349aa et seq.) of subchapter II of this chapter, and references to subchapter II are deemed to exclude such parts. See section 202(b) of Pub. L. 92–226, set out as a note under [section 2346 of this title](./chapter-032-foreign-assistance.md#section-2346), and sections 2348c and 2349aa–5 of this title.
 
 #### Effective Date of 1985 Amendment
 Amendment by Pub. L. 99–83 effective Oct. 1, 1985, see section 1301 of Pub. L. 99–83, set out as a note under [section 2151–1 of this title](./chapter-032-foreign-assistance.md#section-2151-1).
@@ -3422,11 +3438,11 @@ Pub. L. 96–53, title V, § 508(b), Aug. 14, 1979, 93 Stat. 379, which related 
 #### Effective Date of 1985 Amendment
 Amendment by Pub. L. 99–83 effective Oct. 1, 1985, see section 1301 of Pub. L. 99–83, set out as a note under [section 2151–1 of this title](./chapter-032-foreign-assistance.md#section-2151-1).
 
-#### Delegation of Functions
-For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under [section 2381 of this title](./chapter-032-foreign-assistance.md#section-2381).
-
 #### Report of Administrator of Agency for International Development to Congress by June 21, 1983, on Implementation of Section
 Pub. L. 97–377, title I, § 101(b)(2), Dec. 21, 1982, 96 Stat. 1832, provided in part that within six months after Dec. 21, 1982, the Administrator of the Agency for International Development would report to Congress on the implementation of this section, the types of projects determined to meet these requirements, and the effect on the overall United States foreign assistance program.
+
+#### Delegation of Functions
+For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under [section 2381 of this title](./chapter-032-foreign-assistance.md#section-2381).
 
 
 <a id="section-2151-1"></a>
@@ -3582,9 +3598,6 @@ Pub. L. 115–428, § 2, Jan. 9, 2019, 132 Stat. 5509, provided that: “Congres
 
 ### Statutory Notes
 
-#### Delegation of Functions
-For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under [section 2381 of this title](./chapter-032-foreign-assistance.md#section-2381).
-
 #### Statement of Policy
 Pub. L. 109–165, § 2, Jan. 10, 2006, 119 Stat. 3574, provided that: “It is the policy of the United States— “(1) to ensure that, in its support abroad for programs and centers for the treatment of victims of torture, particular incentives and support should be given to establishing and supporting such programs and centers in emerging democracies, in post-conflict environments, and, with a view to providing services to refugees and internally displaced persons, in areas as close to ongoing conflict as safely as possible; and “(2) to ensure that, in its support for domestic programs and centers for the treatment of victims of torture, particular attention should be given to regions with significant immigrant or refugee populations.”
 
@@ -3594,6 +3607,9 @@ Pub. L. 105–320, Oct. 30, 1998, 112 Stat. 3016, as amended by Pub. L. 106–87
 [Pub. L. 108–179, § 2(b), Dec. 15, 2003, 117 Stat. 2643, provided that: “The amendment made by subsection (a) [amending section 5(b)(1) of Pub. L. 105–320, set out above] shall take effect October 1, 2003.” ]
 
 [Pub. L. 108–179, § 3(b), Dec. 15, 2003, 117 Stat. 2643, provided that: “The amendment made by subsection (a) [amending section 4(b)(1) of Pub. L. 105–320, set out above] shall take effect October 1, 2003.” ]
+
+#### Delegation of Functions
+For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under [section 2381 of this title](./chapter-032-foreign-assistance.md#section-2381).
 
 
 <a id="section-2152a"></a>
@@ -3666,9 +3682,6 @@ The Support for East European Democracy (SEED) Act of 1989, referred to in subse
 
 Section 907 of the Freedom for Russia and Emerging Eurasian Democracies and Open Markets Support Act of 1992, referred to in subsec. (a)(4)(B)(ii), is section 907 of Pub. L. 102–511, which is set out as a note under [section 5812 of this title](./chapter-067-freedom-for-russia-and-emerging-eurasian-democracies-and-open-markets-support.md#section-5812).
 
-#### References to Subchapter I Deemed To Include Certain Parts of Subchapter II
-References to subchapter I of this chapter are deemed to include parts IV (§ 2346 et seq.), VI (§ 2348 et seq.), and VIII (§ 2349aa et seq.) of subchapter II of this chapter, and references to subchapter II are deemed to exclude such parts. See section 202(b) of Pub. L. 92–226, set out as a note under [section 2346 of this title](./chapter-032-foreign-assistance.md#section-2346), and sections 2348c and 2349aa–5 of this title.
-
 #### Amendments
 2011—Subsec. (d). Pub. L. 112–74 struck out subsec. (d) which related to biennial reports.
 
@@ -3676,8 +3689,8 @@ References to subchapter I of this chapter are deemed to include parts IV (§ 23
 
 Subsec. (d)(1). Pub. L. 107–228, § 672(a)(2), substituted “a biennial report” for “an annual report” in introductory provisions and “preceding two-year period” for “prior year” in subpars. (A) and (B).
 
-#### Delegation of Functions
-For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under [section 2381 of this title](./chapter-032-foreign-assistance.md#section-2381).
+#### References to Subchapter I Deemed To Include Certain Parts of Subchapter II
+References to subchapter I of this chapter are deemed to include parts IV (§ 2346 et seq.), VI (§ 2348 et seq.), and VIII (§ 2349aa et seq.) of subchapter II of this chapter, and references to subchapter II are deemed to exclude such parts. See section 202(b) of Pub. L. 92–226, set out as a note under [section 2346 of this title](./chapter-032-foreign-assistance.md#section-2346), and sections 2348c and 2349aa–5 of this title.
 
 #### Transition
 Pub. L. 107–228, div. A, title VI, § 672(b), Sept. 30, 2002, 116 Stat. 1408, provided that: “The first biennial report under section 133(d) of the Foreign Assistance Act of 1961 ([former] [22 U.S.C. 2152c(d)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2152c/d&num=0&edition=prelim)), as amended by subsection (a), is required to be submitted not later than two years after the date of submission of the last annual report required under such section 133 (as in effect before the date of enactment of this Act [Sept. 30, 2002]).”
@@ -3687,6 +3700,9 @@ Pub. L. 106–309, title II, § 202, Oct. 17, 2000, 114 Stat. 1090, provided tha
 
 #### Deadline for Initial Report
 Pub. L. 106–309, title II, § 205(b), Oct. 17, 2000, 114 Stat. 1094, required transmission of the initial annual report under former [22 U.S.C. 2152c(d)(1)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2152c/d/1&num=0&edition=prelim) not later than 180 days after Oct. 17, 2000.
+
+#### Delegation of Functions
+For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under [section 2381 of this title](./chapter-032-foreign-assistance.md#section-2381).
 
 
 <a id="section-2152d"></a>
@@ -3708,13 +3724,13 @@ Pub. L. 106–309, title II, § 205(b), Oct. 17, 2000, 114 Stat. 1094, required 
 #### References in Text
 The Support for East European Democracy (SEED) Act of 1989, referred to in subsec. (b), is Pub. L. 101–179, Nov. 28, 1989, 103 Stat. 1298, as amended, which is classified principally to chapter 63 (§ 5401 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 5401 of this title](./chapter-063-support-for-east-european-democracy-seed.md#section-5401) and Tables.
 
-#### References to Subchapter I Deemed To Include Certain Parts of Subchapter II
-References to subchapter I of this chapter are deemed to include parts IV (§ 2346 et seq.), VI (§ 2348 et seq.), and VIII (§ 2349aa et seq.) of subchapter II of this chapter, and references to subchapter II are deemed to exclude such parts. See section 202(b) of Pub. L. 92–226, set out as a note under [section 2346 of this title](./chapter-032-foreign-assistance.md#section-2346), and sections 2348c and 2349aa–5 of this title.
-
 #### Amendments
 2008—Subsec. (a)(2). Pub. L. 110–457 inserted “, including investigation of individuals and entities that may be involved in trafficking in persons involving sexual exploitation” before semicolon at end.
 
 2003—Subsec. (b). Pub. L. 108–193 inserted at end “Assistance may be provided under this section notwithstanding [section 2420 of this title](./chapter-032-foreign-assistance.md#section-2420).”
+
+#### References to Subchapter I Deemed To Include Certain Parts of Subchapter II
+References to subchapter I of this chapter are deemed to include parts IV (§ 2346 et seq.), VI (§ 2348 et seq.), and VIII (§ 2349aa et seq.) of subchapter II of this chapter, and references to subchapter II are deemed to exclude such parts. See section 202(b) of Pub. L. 92–226, set out as a note under [section 2346 of this title](./chapter-032-foreign-assistance.md#section-2346), and sections 2348c and 2349aa–5 of this title.
 
 #### Delegation of Functions
 For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under [section 2381 of this title](./chapter-032-foreign-assistance.md#section-2381).
@@ -3814,9 +3830,9 @@ Section was enacted as part of the Department of State Authorization Act, Fiscal
 
 (2) **Duties** — The duties of the Special Advisor for Assistance to Orphans and Vulnerable Children shall include the following:
 
-  (A) Coordinate assistance to orphans and other vulnerable children among the various offices, bureaus, and field missions within the United States Agency for International Development.
+  (A) Coordinate assistance to orphans and other vulnerable children among the relevant Federal agencies and officials.
 
-  (B) Advise the various offices, bureaus, and field missions within the United States Agency for International Development to ensure that programs approved for assistance under this section are consistent with best practices, meet the requirements of this chapter, and conform to the strategy outlined in section 4 of the Assistance for Orphans and Other Vulnerable Children in Developing Countries Act of 2005.
+  (B) Advise the relevant Federal branch agencies and officials to ensure that programs approved for assistance under this section are consistent with best practices, meet the requirements of this chapter, and conform to the strategy outlined in section 4 of the Assistance for Orphans and Other Vulnerable Children in Developing Countries Act of 2005.
 
   (C) Advise the various offices, bureaus, and field missions within the United States Agency for International Development in developing any component of their annual plan, as it relates to assistance for orphans or other vulnerable children in developing countries, to ensure that each program, project, or activity relating to such assistance is consistent with best practices, meets the requirements of this chapter, and conforms to the strategy outlined in section 4 of the Assistance for Orphans and Other Vulnerable Children in Developing Countries Act of 2005.
 
@@ -3846,6 +3862,14 @@ Section 4 of the Assistance for Orphans and Other Vulnerable Children in Develop
 This chapter, referred to in subsec. (e)(2)(B), (C), was in the original “this Act”, meaning Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, as amended, known as the Foreign Assistance Act of 1961. For complete classification of this Act to the Code, see Short Title note set out under [section 2151 of this title](./chapter-032-foreign-assistance.md#section-2151) and Tables.
 
 The United States Leadership Against HIV/AIDS, Tuberculosis, and Malaria Act of 2003, referred to in subsec. (e)(2)(D), is Pub. L. 108–25, May 27, 2003, 117 Stat. 711, as amended, which is classified principally to chapter 83 (§ 7601 et seq.) of this title. Section 102 of the Act enacted [section 7612 of this title](./chapter-083-united-states-leadership-against-hiv-aids-tuberculosis-and-malaria.md#section-7612) and amended [section 2651a of this title](./chapter-038-department-of-state.md#section-2651a). For complete classification of this Act to the Code, see Short Title note set out under [section 7601 of this title](./chapter-083-united-states-leadership-against-hiv-aids-tuberculosis-and-malaria.md#section-7601) and Tables.
+
+#### Amendments
+2021—Subsec. (e)(2)(A). Pub. L. 116–283, § 1284(1), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “Coordinate assistance to orphans and other vulnerable children among the various offices, bureaus, and field missions within the United States Agency for International Development.”
+
+Subsec. (e)(2)(B). Pub. L. 116–283, § 1284(2), substituted “the relevant Federal branch agencies and officials” for “the various offices, bureaus, and field missions within the United States Agency for International Development”.
+
+#### Rule of Construction
+Pub. L. 116–283, div. A, title XII, § 1285, Jan. 1, 2021, 134 Stat. 3989, provided that: “Nothing in the amendments made by this subtitle [enacting [section 2152k of this title](./chapter-032-foreign-assistance.md#section-2152k) and amending this section] may be construed to restrict or abrogate any other authorization for United States Agency for International Development activities or programs.”
 
 #### Findings
 Pub. L. 109–95, § 2, Nov. 8, 2005, 119 Stat. 2111, provided that: “Congress makes the following findings: “(1) As of July 2004, there were more than 143,000,000 children living in sub-Saharan Africa, Asia, Latin America, and the Caribbean who were identified as orphans, having lost one or both of their parents. Of this number, approximately 16,200,000 children were identified as double orphans, having lost both parents—the vast majority of whom died of AIDS. These children often are disadvantaged in numerous and devastating ways and most households with orphans cannot meet the basic needs of health care, food, clothing, and educational expenses. “(2) It is estimated that 121,000,000 children worldwide do not attend school and that the majority of such children are young girls. According to the United Nations Children’s Fund (UNICEF), orphans are less likely to be in school and more likely to be working full time. “(3) School food programs, including take-home rations, in developing countries provide strong incentives for children to remain in school and continue their education. School food programs can reduce short-term hunger, improve cognitive functions, and enhance learning, behavior, and achievement. “(4) Financial barriers, such as school fees and other costs of education, prevent many orphans and other vulnerable children in developing countries from attending school. Providing children with free primary school education, while simultaneously ensuring that adequate resources exist for teacher training and infrastructure, would help more orphans and other vulnerable children obtain a quality education. “(5) The trauma that results from the loss of a parent can trigger behavior problems of aggression or emotional withdrawal and negatively affect a child’s performance in school and the child’s social relations. Children living in families affected by HIV/AIDS or who have been orphaned by AIDS often face stigmatization and discrimination. Providing culturally appropriate psychosocial support to such children can assist them in successfully accepting and adjusting to their circumstances. “(6) Orphans and other vulnerable children in developing countries routinely are denied their inheritance or encounter difficulties in claiming the land and other property which they have inherited. Even when the inheritance rights of women and children are spelled out in law, such rights are difficult to claim and are seldom enforced. In many countries it is difficult or impossible for a widow, even if she has young children, to claim property after the death of her husband. “(7) The HIV/AIDS pandemic has had a devastating affect on children and is deepening poverty in entire communities and jeopardizing the health, safety, and survival of all children in affected areas. “(8) The HIV/AIDS pandemic has increased the number of orphans worldwide and has exacerbated the poor living conditions of the world’s poorest and most vulnerable children. AIDS has created an unprecedented orphan crisis, especially in sub-Saharan Africa, where children have been hardest hit. An estimated 14,000,000 orphans have lost 1 or both parents to AIDS. By 2010, it is estimated that over 25,000,000 children will have been orphaned by AIDS. “(9) Approximately 2,500,000 children under the age of 15 worldwide have HIV/AIDS. Every day another 2,000 children under the age of 15 are infected with HIV. Without treatment, most children born with HIV can expect to die by age two, but with sustained drug treatment through childhood, the chances of long-term survival and a productive adulthood improve dramatically. “(10) Few international development programs specifically target the treatment of children with HIV/AIDS in developing countries. Reasons for this include the perceived low priority of pediatric treatment, a lack of pediatric health care professionals, lack of expertise and experience in pediatric drug dosing and monitoring, the perceived complexity of pediatric treatment, and mistaken beliefs regarding the risks and benefits of pediatric treatment. “(11) Although a number of organizations seek to meet the needs of orphans or other vulnerable children, extended families and local communities continue to be the primary providers of support for such children. “(12) The HIV/AIDS pandemic is placing huge burdens on communities and is leaving many orphans with little support. Alternatives to traditional orphanages, such as community-based resource centers, continue to evolve in response to the massive number of orphans that has resulted from the pandemic. “(13) The AIDS orphans crisis in sub-Saharan Africa has implications for political stability, human welfare, and development that extend far beyond the region, affecting governments and people worldwide, and this crisis requires an accelerated response from the international community. “(14) Although section 403(b) of the United States Leadership Against HIV/AIDS, Tuberculosis, and Malaria Act of 2003 ([22 U.S.C. 7673(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section7673/b&num=0&edition=prelim)) establishes the requirement that not less than 10 percent of amounts appropriated for HIV/AIDS assistance for each of fiscal years 2006 through 2008 shall be expended for assistance for orphans and other vulnerable children affected by HIV/AIDS, there is an urgent need to provide assistance to such children prior to 2006. “(15) Numerous United States and indigenous private voluntary organizations, including faith-based organizations, provide assistance to orphans and other vulnerable children in developing countries. Many of these organizations have submitted applications for grants to the Administrator of the United States Agency for International Development to provide increased levels of assistance for orphans and other vulnerable children in developing countries. “(16) Increasing the amount of assistance that is provided by the Administrator of the United States Agency for International Development through United States and indigenous private voluntary organizations, including faith-based organizations, will provide greater protection for orphans and other vulnerable children in developing countries. “(17) It is essential that the United States Government adopt a comprehensive approach for the provision of assistance to orphans and other vulnerable children in developing countries. A comprehensive approach would ensure that important services, such as basic care, psychosocial support, school food programs, increased educational opportunities and employment training and related services, the protection and promotion of inheritance rights for such children, and the treatment of orphans and other vulnerable children with HIV/AIDS, are made more accessible. “(18) Assistance for orphans and other vulnerable children can best be provided by a comprehensive approach of the United States Government that—“(A) ensures that Federal agencies and the private sector coordinate efforts to prevent and eliminate duplication of efforts and waste in the provision of such assistance; and “(B) to the maximum extent possible, focuses on community-based programs that allow orphans and other vulnerable children to remain connected to the traditions and rituals of their families and communities.”
@@ -4223,10 +4247,14 @@ Subsec. (e)(3). Pub. L. 114–113, § 7034(q)(3)(E), substituted “20” for �
 #### Renaming of Small Grants Program as Local Works
 Pub. L. 115–141, div. K, title VII, § 7034(p)(1), Mar. 23, 2018, 132 Stat. 897, provided that: “The ‘Small Grants Program’ established pursuant to section 7080 of the Department of State, Foreign Operations, and Related Programs Appropriations Act, 2015 (division J of Public Law 113–235) [[22 U.S.C. 2152i](./chapter-032-foreign-assistance.md#section-2152i)] shall hereafter be referred to as ‘Local Works’.”
 
-#### Definitions
-Pub. L. 116–6, div. F, title VII, § 7034(q)(2), Feb. 15, 2019, 133 Stat. 329, provided that: “For the purposes of section 7080 of the Department of State, Foreign Operations, and Related Programs Appropriations Act, 2015 (division J of Public Law 113–235) [[22 U.S.C. 2152i](./chapter-032-foreign-assistance.md#section-2152i)], ‘eligible entities’ shall be defined as small local, international, and United States-based nongovernmental organizations, educational institutions, and other small entities that have received less than a total of $5,000,000 from USAID [United States Agency for International Development] over the previous 5 fiscal years: Provided, That departments or centers of such educational institutions may be considered individually in determining such eligibility.”
+#### Definition of “Eligible Entities”
+Pub. L. 116–260, div. K, title VII, § 7034(p)(2), Dec. 27, 2020, 134 Stat. 1753, provided that: “For the purposes of section 7080 of the Department of State, Foreign Operations, and Related Programs Appropriations Act, 2015 (division J of Public Law 113–235) [[22 U.S.C. 2152i](./chapter-032-foreign-assistance.md#section-2152i)], ‘eligible entities’ shall be defined as small local, international, and United States-based nongovernmental organizations, educational institutions, and other small entities that have received less than a total of $5,000,000 from USAID [United States Agency for International Development] over the previous 5 fiscal years: Provided, That departments or centers of such educational institutions may be considered individually in determining such eligibility.”
 
 Similar provisions were contained in the following prior appropriations acts:
+
+Pub. L. 116–94, div. G, title VII, § 7034(p)(2), Dec. 20, 2019, 133 Stat. 2875.
+
+Pub. L. 116–6, div. F, title VII, § 7034(q)(2), Feb. 15, 2019, 133 Stat. 329.
 
 Pub. L. 115–141, div. K, title VII, § 7034(p)(3), Mar. 23, 2018, 132 Stat. 898.
 
@@ -4234,14 +4262,20 @@ Pub. L. 115–31, div. J, title VII, § 7034(p)(2), May 5, 2017, 131 Stat. 653.
 
 Pub. L. 114–113, div. K, title VII, § 7034(q)(4), Dec. 18, 2015, 129 Stat. 2768.
 
-Pub. L. 116–6, div. F, title VII, § 7034(r)(5), Feb. 15, 2019, 133 Stat. 330, provided that: “In this Act [div. F of Pub. L. 116–6, 133 Stat. 267, see Tables for classification], the term ‘USAID’ means the United States Agency for International Development.”
+#### Definition of “USAID”
+Pub. L. 116–260, div. K, title VII, § 7034(q)(6), Dec. 27, 2020, 134 Stat. 1754, provided that: “In this Act [titles I to VII of div. K of Pub. L. 116–260, 134 Stat. 1691, see Tables for classification], the term ‘USAID’ means the United States Agency for International Development.”
 
 Similar provisions were contained in the following prior appropriations acts:
+
+Pub. L. 116–94, div. G, title VII, § 7034(r)(5), Dec. 20, 2019, 133 Stat. 2876.
+
+Pub. L. 116–6, div. F, title VII, § 7034(r)(5), Feb. 15, 2019, 133 Stat. 330.
 
 Pub. L. 115–141, div. K, title VII, § 7034(r)(5), Mar. 23, 2018, 132 Stat. 898.
 
 Pub. L. 115–31, div. J, title VII, § 7034(r)(5), May 5, 2017, 131 Stat. 654.
 
+#### Definition of “Appropriate Congressional Committees”
 Pub. L. 113–235, div. J, title VII, § 7034(t)(1), Dec. 16, 2014, 128 Stat. 2627, provided that: “Unless otherwise defined in this Act [div. J of Pub. L. 113–235, 128 Stat. 2573, see Tables for classification], for purposes of this Act the term ‘appropriate congressional committees’ shall mean the Committees on Appropriations and Foreign Relations of the Senate and the Committees on Appropriations and Foreign Affairs of the House of Representatives.”
 
 
@@ -4385,6 +4419,130 @@ In sections 2152j to 2152j–4 of this title:
 Section was enacted as part of the Women, Peace, and Security Act of 2017, and not as part of the Foreign Assistance Act of 1961 which comprises this chapter.
 
 
+<a id="section-2152k"></a>
+## § 2152k. Assistance to improve early childhood outcomes globally
+**(a) Definitions** In this section:
+
+(1) **Appropriate congressional committees** — The term “appropriate congressional committees” means—
+
+  (A) the Committee on Appropriations of the Senate;
+
+  (B) the Committee on Foreign Relations of the Senate;
+
+  (C) the Committee on Appropriations of the House of Representatives; and
+
+  (D) the Committee on Foreign Affairs of the House of Representatives.
+
+(2) **Early childhood development** — The term “early childhood development” means the development and learning of a child younger than 8 years of age, including physical, cognitive, social, and emotional development and approaches to learning that allow a child to reach his or her full developmental potential.
+
+(3) **Early childhood development program** — The term “early childhood development program” means a program that seeks to ensure that every child has the conditions for healthy growth, nurturing family-based care, development and learning, and protection from violence, exploitation, abuse, and neglect, which may include—
+
+  (A) a health, safe water, sanitation, and hygiene program that serves pregnant women, children younger than 5 years of age, and the parents of such children;
+
+  (B) a nutrition program, combined with stimulating child development activity;
+
+  (C) age appropriate cognitive stimulation, especially for newborns, infants, and toddlers, including an early childhood intervention program for children experiencing at-risk situations, developmental delays, disabilities, and behavioral and mental health conditions;
+
+  (D) an early learning (36 months and younger), preschool, and basic education program for children until they reach 8 years of age or complete primary school; or
+
+  (E) a child protection program, with an emphasis on the promotion of permanent, safe, and nurturing families, rather than placement in residential care or institutions, including for children with disabilities.
+
+(4) **Relevant Federal departments and agencies** — The term “relevant Federal departments and agencies” means—
+
+  (A) the Department of State;
+
+  (B) the United States Agency for International Development;
+
+  (C) the Department of the Treasury;
+
+  (D) the Department of Labor;
+
+  (E) the Department of Education;
+
+  (F) the Department of Agriculture;
+
+  (G) the Department of Defense;
+
+  (H) the Department of Health and Human Services, including—
+
+    (i) the Centers for Disease Control and Prevention; and
+
+    (ii) the National Institutes of Health;
+
+  (I) the Millennium Challenge Corporation;
+
+  (J) the Peace Corps; and
+
+  (K) any other department or agency specified by the President for the purposes of this section.
+
+(5) **Residential care** — The term “residential care” means care provided in any non-family-based group setting, including orphanages, transit or interim care centers, children’s homes, children’s villages or cottage complexes, group homes, and boarding schools used primarily for care purposes as an alternative to a children’s home.
+
+**(b) Statement of policy** It is the policy of the United States—
+
+(1) to support early childhood development in relevant foreign assistance programs, including by integrating evidence-based, efficient, and effective interventions into relevant strategies and programs, in coordination with partner countries, other donors, international organizations, international financial institutions, local and international nongovernmental organizations, private sector partners, and civil society, including faith-based and community-based organizations; and
+
+(2) to encourage partner countries to lead early childhood development initiatives that include incentives for building local capacity for continued implementation and measurable results, by—
+
+  (A) scaling up the most effective, evidence-based, national interventions, including for the most vulnerable populations and children with disabilities and developmental delays, with a focus on adaptation to country resources, cultures, and languages;
+
+  (B) designing, implementing, monitoring, and evaluating programs in a manner that enhances their quality, transparency, equity, accountability, efficiency and effectiveness in improving child and family outcomes in partner countries; and
+
+  (C) utilizing and expanding innovative public-private financing mechanisms.
+
+**(c) Implementation**
+
+(1) **In general** — Not later than 1 year after January 1, 2021, the Administrator of the United States Agency for International Development on behalf of the President and in coordination with the Secretary of State, shall direct relevant Federal departments and agencies—
+
+  (A) to incorporate, to the extent practical and relevant, early childhood development into foreign assistance programs to be carried out during the following 5 fiscal years; and
+
+  (B) to promote inclusive early childhood development in partner countries.
+
+(2) **Elements** — In carrying out paragraph (1), the Administrator, the Secretary, and the heads of other relevant Federal departments and agencies as appropriate shall—
+
+  (A) build on the evidence and priorities outlined in “Advancing Protection and Care for Children in Adversity: A U.S. Government Strategy for International Assistance 2019–2023”, published in June 2019 (referred to in this section as “APCCA”);
+
+  (B) to the extent practicable, identify evidence-based strategic priorities, indicators, outcomes, and targets, particularly emphasizing the most vulnerable populations and children with disabilities and developmental delays, to support inclusive early childhood development;
+
+  (C) support the design, implementation, and evaluation of pilot projects in partner countries, with the goal of taking such projects to scale;
+
+  (D) support inclusive early childhood development within all relevant sector strategies and public laws, including—
+
+    (i) the Global Water Strategy required under [section 2152h(j) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2152h/j&num=0&edition=prelim);
+
+    (ii) the whole-of-government strategy required under [section 9304 of this title](./chapter-100-global-food-security.md#section-9304);
+
+    (iii) the Basic Education Strategy set forth in [section 2151c(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2151c/c&num=0&edition=prelim);
+
+    (iv) the U.S. Government Global Nutrition Coordination Plan, 2016–2021; and
+
+    (v) APCCA; and others as appropriate;
+
+  (E) improve coordination with foreign governments and international and regional organizations with respect to official country policies and plans to improve early childhood development, maternal, newborn, and child health and nutrition care, basic education, water, sanitation and hygiene, and child protection plans which promote nurturing, appropriate, protective, and permanent family care, while reducing the percentage of children living outside of family care, including in residential care or on the street; and
+
+  (F) consult with partner countries, other donors, international organizations, international financial institutions, local and international nongovernmental organizations, private sector partners and faith-based and community-based organizations, as appropriate.
+
+**(d) Annual report on the implementation of the strategy** The Special Advisor for Children in Adversity shall include, in the annual report required under [section 2152g of this title](./chapter-032-foreign-assistance.md#section-2152g), which shall be submitted to the appropriate congressional committees and made publicly available, a description of—
+
+(1) the progress made toward integrating early childhood development interventions into relevant strategies and programs;
+
+(2) the efforts made by relevant Federal departments and agencies to implement subsection (c), with a particular focus on the activities described in such subsection; and
+
+(3) the progress achieved during the reporting period toward meeting the goals, objectives, benchmarks, and timeframes described in subsection (c) at the program level, along with specific challenges or gaps that may require shifts in targeting or financing in the following fiscal year.
+
+**(e) Interagency task force** The Special Advisor for Assistance to Orphans and Vulnerable Children should establish and regularly convene an Interagency Working Group on Children in Adversity which, among other things, will coordinate—
+
+(1) intergovernmental and interagency monitoring, evaluation, and reporting of the activities carried out pursuant to this section;
+
+(2) early childhood development initiatives that include children with a variety of needs and circumstances; and
+
+(3) United States Government early childhood development programs, strategies, and partnerships across relevant Federal departments and agencies.
+
+### Statutory Notes
+
+#### Rule of Construction
+Nothing in enactment of this section to be construed to restrict or abrogate any other authorization for United States Agency for International Development activities or programs, see section 1285 of Pub. L. 116–283, set out as a note under [section 2152f of this title](./chapter-032-foreign-assistance.md#section-2152f).
+
+
 <a id="section-2161-2162"></a>
 ## § 2161, 2162. Repealed. Pub. L. 95–424, title I, § 102(g)(1)(A), Oct. 6, 1978, 92 Stat. 942
 
@@ -4435,14 +4593,14 @@ The President is requested to seek and to take appropriate action, in cooperatio
 
 ### Statutory Notes
 
-#### Delegation of Functions
-For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under [section 2381 of this title](./chapter-032-foreign-assistance.md#section-2381).
-
 #### African Assistance Policy; Presidential Report to Congress
 Pub. L. 93–559, § 49, Dec. 30, 1974, 88 Stat. 1816, which related to Presidential review and report on African assistance policy, was repealed by Pub. L. 97–113, title VII, § 734(a)(8), Dec. 29, 1981, 95 Stat. 1560.
 
 #### Portuguese African Territories of Angola, Mozambique, and Guinea-Bissau: Independence Policy
 Pub. L. 93–559, § 50, Dec. 30, 1974, 88 Stat. 1816, as amended by Pub. L. 97–113, title VII, § 734(a)(8), Dec. 29, 1981, 95 Stat. 1560, provided that: “(a)(1) Congress finds that the Government of Portugal’s recognition of the right to independence of the African territories of Angola, Mozambique, and Guinea-Bissau marks a significant advance toward the goal of self-determination for all the peoples of Africa, without which peace on the continent is not secure. “(2) Congress finds that progress toward independence for the Portuguese African territories will have a significant impact on the international organizations and the community of nations. “(3) Congress commends the Portuguese Government’s initiatives on these fronts as evidence of a reaffirmation of that Government’s support for her obligations under both the United Nations Charter and the North Atlantic Treaty Organization. “(b) Therefore, Congress calls upon the President and the Secretary of State to take the following actions designed to make clear United States support for a peaceful and orderly transition to independence in the Portuguese African territories:“(1) An official statement should be issued of United States support for the independence of Angola, Mozambique and Guinea-Bissau, and of our desire to have good relations with the future governments of the countries. “(2) It should be made clear to the Government of of Portugal that we view the efforts toward a peaceful and just settlement of the conflict in the African territories as consistent with Portugal’s obligations under the North Atlantic Treaty Organization partnership. “(3) The United States should encourage United Nations support for a peaceful transition to independence, negotiated settlement of all differences, and the protection of human rights of all citizens of the three territories. “(4) The United States should open a dialog with potential leaders of Angola, Mozambique, and Guinea-Bissau and assure them of our commitment to their genuine political and economic independence. “(5) The economic development needs of the three territories will be immense when independence is achieved. Therefore, it is urged that the United States Agency for International Development devote attention to assessing the economic situation in Angola, Mozambique, and Guinea-Bissau and be ready to cooperate with the future governments in providing the kind of assistance that will help make their independence viable. In addition, the United States Government should take the initiative among other donors, both bilateral and multilateral, in seeking significant contribution of development assistance for the three territories. “(6) In light of the need of Angola, Mozambique, and Guinea-Bissau for skilled and educated manpower, a priority consideration should be given to expanding current United States programs of educational assistance to the territories as a timely and substantive contribution to their independence. “(c) [Repealed. Pub. L. 97–113, title VII, § 734(a)(8), Dec. 29, 1981, 95 Stat. 1560.]”
+
+#### Delegation of Functions
+For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under [section 2381 of this title](./chapter-032-foreign-assistance.md#section-2381).
 
 #### Executive Order No. 12599
 Ex. Ord. No. 12599, June 23, 1987, 52 F.R. 23779, which established the Coordinating Committee for Sub-Saharan Africa and assigned its functions in order to establish procedures for development of a common long-term goal for all United States economic programs and policies in Sub-Saharan Africa, was revoked by Ex. Ord. No. 13118, § 10(3), Mar. 31, 1999, 64 F.R. 16598.
@@ -4483,14 +4641,14 @@ This chapter, referred to in subsec. (b), was in the original “this Act”, me
 
 Subsecs. (c), (d). Pub. L. 92–226, § 101(c)(2), added subsecs. (c) and (d).
 
-#### Delegation of Functions
-For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under [section 2381 of this title](./chapter-032-foreign-assistance.md#section-2381).
-
 #### Establishment of Standard Governing Allocation of Development Assistance for Production and Export of Commodities in Surplus in World Market; Presidential Initiation of International Consultations; Report by President to Congress
 Pub. L. 95–481, title VI, § 610, Oct. 18, 1978, 92 Stat. 1602, provided that: “The President shall initiate wide international consultations beginning with the member nations of the Organization of Economic Cooperation and Development (OECD), designed to develop a viable standard governing the allocation of development assistance for the production and export of commodities. Such consultations shall relate to commodities which are in surplus in the world market and if produced for export would cause substantial harm to producers of the same, similar or competing products. Not later than one year after the enactment of this Act [Oct. 18, 1978] the President shall report to the President of the Senate, the Speaker of the House of Representatives, and the Chairmen of the House and Senate Appropriations Committees on the progress made in carrying out this section.”
 
 #### Policy With Respect to Countries Most Seriously Affected by Food Shortages; Presidential Reports to Congress
 Pub. L. 93–559, § 55(a), Dec. 30, 1974, 88 Stat. 1819, provided that: “The United Nations has designated thirty-two countries as ‘Most Seriously Affected’ by the current economic crisis. These are countries without the internal food production capability or the foreign exchange availability to secure food to meet their immediate food requirements. The Congress calls upon the President and Secretary of State to take the following actions designed to mobilize appropriate resources to meet the food emergency: “(1) Review and make appropriate adjustments in the level of programming of our food and fertilizer assistance programs with the aim of increasing to the maximum extent feasible the volume of food and fertilizer available to those countries most seriously affected by current food shortages. “(2) Call upon all traditional and potential new donors of food, fertilizer, or the means of financing these commodities to immediately increase their participation in efforts to address the emergency food needs of the developing world. “(3) Make available to these most seriously affected countries the maximum feasible volume of food commodities, with appropriate regard to the current domestic price and supply situations. “(4) Maintain regular and full consultation with the appropriate committees of the Congress and report to the Congress and the Nation on steps which are being taken to help meet this food emergency. In accordance with this provision, the President shall report to the Congress on a global assessment of food needs for fiscal year 1975, specifying expected food grain deficits and currently planned programming of food assistance, and steps which are being taken to encourage other countries to increase their participation in food assistance or the financing of food assistance. Such report should reach the Congress promptly and should be supplemented quarterly for the remainder of fiscal year 1975. “(5) The Congress directs that during the fiscal year ending June 30, 1975, not more than 30 percent of concessional food aid should be allocated to countries other than those which are most seriously affected by current food shortages, unless the President demonstrates to the appropriate Committees of the Congress that the use of such food assistance is solely for humanitarian food purposes. “(6) The Congress calls upon the President to proceed with the implementation of resolutions and recommendations adopted by the World Food Conference. The Congress believes that it is incumbent upon the United States to take a leading role in assisting in the development of a viable and coherent world food policy which would begin the task of alleviating widespread hunger and suffering prevalent in famine-stricken nations. The President shall report to the Congress within 120 days of enactment of this Act [Dec. 30, 1974] on the implementation of the resolutions and the extent to which the United States is participating in the implementation of resolutions adopted at the World Food Conference.”
+
+#### Delegation of Functions
+For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under [section 2381 of this title](./chapter-032-foreign-assistance.md#section-2381).
 
 
 <a id="section-2171-2172"></a>
@@ -4665,11 +4823,11 @@ Repeal effective Oct. 1, 1978, see section 605 of Pub. L. 95–424, set out as a
 #### References in Text
 Act of July 11, 1969, referred to in subsec. (g), is Pub. L. 91–43, July 11, 1969, 83 Stat. 45, which is not classified to the Code.
 
-#### References to Subchapter I Deemed To Include Certain Parts of Subchapter II
-References to subchapter I of this chapter are deemed to include parts IV (§ 2346 et seq.), VI (§ 2348 et seq.), and VIII (§ 2349aa et seq.) of subchapter II of this chapter, and references to subchapter II are deemed to exclude such parts. See section 202(b) of Pub. L. 92–226, set out as a note under [section 2346 of this title](./chapter-032-foreign-assistance.md#section-2346), and sections 2348c and 2349aa–5 of this title.
-
 #### Codification
 In subsec. (c), “section 3324(a) and (b) of title 31 and [section 6101 of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section6101&num=0&edition=prelim)” substituted for “sections 3648 and 3709 of the Revised Statutes of the United States ([31 U.S.C. 529](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section529&num=0&edition=prelim) and [41 U.S.C. 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section5&num=0&edition=prelim))” on authority of Pub. L. 97–258, § 4(b), Sept. 13, 1982, 96 Stat. 1067, which Act enacted Title 31, Money and Finance, and Pub. L. 111–350, § 6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+
+#### References to Subchapter I Deemed To Include Certain Parts of Subchapter II
+References to subchapter I of this chapter are deemed to include parts IV (§ 2346 et seq.), VI (§ 2348 et seq.), and VIII (§ 2349aa et seq.) of subchapter II of this chapter, and references to subchapter II are deemed to exclude such parts. See section 202(b) of Pub. L. 92–226, set out as a note under [section 2346 of this title](./chapter-032-foreign-assistance.md#section-2346), and sections 2348c and 2349aa–5 of this title.
 
 #### Change of Name
 Office of Water Research and Technology formed through merger of Office of Saline Water and Office of Water Resources Research by order of Secretary of the Interior, Ord. No. 2966, July 26, 1974.
@@ -4728,7 +4886,7 @@ Pub. L. 90–249, title I, § 120, Jan. 2, 1968, 81 Stat. 941, provided that: �
 
 <a id="section-2182"></a>
 ## § 2182. Authorization for worldwide shelter guarantees
-**(a) Authorization to issue guarantees to eligible investors** To carry out the policy of [section 2181 of this title](./chapter-032-foreign-assistance.md#section-2181), the President is authorized to issue guaranties to eligible investors (as defined in [section 2198(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2198/c&num=0&edition=prelim)) assuring against losses incurred in connection with loans made for proj­ects meeting the criteria set forth in [section 2181 of this title](./chapter-032-foreign-assistance.md#section-2181). The total principal amount of guaranties issued under this subpart or heretofore issued under prior housing guaranty authorities, which are outstanding at any one time, shall not exceed $2,558,000,000. The authority of this section shall continue through September 30, 1992. The President may issue regulations from time to time with regard to the terms and conditions upon which such guaranties shall be issued and the eligibility of lenders.
+**(a) Authorization to issue guarantees to eligible investors** To carry out the policy of [section 2181 of this title](./chapter-032-foreign-assistance.md#section-2181), the President is authorized to issue guaranties to eligible investors (as defined in section 2198(c) 11 See References in Text note below. of this title) assuring against losses incurred in connection with loans made for projects meeting the criteria set forth in [section 2181 of this title](./chapter-032-foreign-assistance.md#section-2181). The total principal amount of guaranties issued under this subpart or heretofore issued under prior housing guaranty authorities, which are outstanding at any one time, shall not exceed $2,558,000,000. The authority of this section shall continue through September 30, 1992. The President may issue regulations from time to time with regard to the terms and conditions upon which such guaranties shall be issued and the eligibility of lenders.
 
 **(b) Emphasis on certain activities** Activities carried out under this section shall emphasize—
 
@@ -4744,9 +4902,12 @@ Pub. L. 90–249, title I, § 120, Jan. 2, 1968, 81 Stat. 941, provided that: �
 
 **(c) Use of solar energy technology** In issuing guaranties under this section with respect to projects in a country which require the use or conservation of energy, the President shall give consideration to the use of solar energy technologies, where such technologies are economically and technically feasible. Technologies which may be used include solar hot water systems, solar heating and cooling, passive solar heating, biomass conversion, photovoltaic and wind applications, and community-scale solar thermal applications.
 
-**(k) 11 So in original. No subsecs. (d) to (j) have been enacted. Minimum annual program levels** The total principal amount of guaranties issued under this section for each of the fiscal years 1986 and 1987 shall be comparable to the total principal amount of such guaranties issued for fiscal year 1984, subject to the dollar limitations on the issuance of guaranties under this section which are contained in subsection (a) and in appropriation Acts.
+**(k) 22 So in original. No subsecs. (d) to (j) have been enacted. Minimum annual program levels** The total principal amount of guaranties issued under this section for each of the fiscal years 1986 and 1987 shall be comparable to the total principal amount of such guaranties issued for fiscal year 1984, subject to the dollar limitations on the issuance of guaranties under this section which are contained in subsection (a) and in appropriation Acts.
 
 ### Statutory Notes
+
+#### References in Text
+[Section 2198(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2198/c&num=0&edition=prelim), referred to in subsec. (a), was repealed by Pub. L. 115–254, div. F, title VI, § 1464(2), Oct. 5, 2018, 132 Stat. 3513.
 
 #### Codification
 Amendment by Pub. L. 98–473 is based on section 311(b) of H.R. 5119, Ninety-eighth Congress, as passed by the House of Representatives May 10, 1984, which was enacted into permanent law by Pub. L. 98–473.
@@ -4802,11 +4963,11 @@ For delegation of functions of President under this section, see Ex. Ord. No. 12
 
 **(d) Inter-American Foundation consultations** The Inter-American Foundation shall be consulted in developing criteria for making loans eligible for guaranty coverage in Latin America under this section.
 
-**(e) Guaranty reserve** Not to exceed $3,000,000 of the guaranty reserve established under [section 2183(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2183/b&num=0&edition=prelim) shall be available to make such payments as may be necessary to discharge liabilities under guaranties issued under this section or any guaranties previously issued under [section 2200 of this title](./chapter-032-foreign-assistance.md#section-2200).
+**(e) Guaranty reserve** Not to exceed $3,000,000 of the guaranty reserve established under [section 2183(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2183/b&num=0&edition=prelim) shall be available to make such payments as may be necessary to discharge liabilities under guaranties issued under this section or any guaranties previously issued under section 2200 11 See References in Text note below. of this title.
 
-**(f) Administrative and operating expenses; funds** Funds held by the Overseas Private Investment Corporation pursuant to [section 2196 of this title](./chapter-032-foreign-assistance.md#section-2196) may be available for meeting necessary administrative and operating expenses for carrying out the provisions of this section through June 30, 1976.
+**(f) Administrative and operating expenses; funds** Funds held by the Overseas Private Investment Corporation pursuant to section 2196 1 of this title may be available for meeting necessary administrative and operating expenses for carrying out the provisions of this section through June 30, 1976.
 
-**(g) Transfer of Overseas Private Investment Corporation’s obligations and assets** The Overseas Private Investment Corporation shall, upon enactment of this subsection, transfer to the agency primarily responsible for administering subchapter I of this chapter all obligations, assets, and related rights and responsibilities arising out of, or related to the predecessor program provided for in [section 2200 of this title](./chapter-032-foreign-assistance.md#section-2200).
+**(g) Transfer of Overseas Private Investment Corporation’s obligations and assets** The Overseas Private Investment Corporation shall, upon enactment of this subsection, transfer to the agency primarily responsible for administering subchapter I of this chapter all obligations, assets, and related rights and responsibilities arising out of, or related to the predecessor program provided for in section 2200 1 of this title.
 
 **(h) Termination of authority** The authority of this section shall continue through September 30, 1988.
 
@@ -4815,10 +4976,9 @@ For delegation of functions of President under this section, see Ex. Ord. No. 12
 ### Statutory Notes
 
 #### References in Text
-[Section 2200 of this title](./chapter-032-foreign-assistance.md#section-2200), referred to in subsecs. (e) and (g), was in the original a reference to section 240 of this Act, meaning section 240 of Pub. L. 87–195, as added by section 105 of Pub. L. 91–175, which was repealed by section 8(b) of Pub. L. 93–559, and was replaced by this section. Another section 240 of Pub. L. 87–195, as added by section 9 of Pub. L. 95–268, was enacted Apr. 24, 1978, and is classified to [section 2200 of this title](./chapter-032-foreign-assistance.md#section-2200).
+[Section 2200 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2200&num=0&edition=prelim), referred to in subsecs. (e) and (g), was in the original a reference to section 240 of this Act, meaning section 240 of Pub. L. 87–195, as added by section 105 of Pub. L. 91–175, which was repealed by section 8(b) of Pub. L. 93–559, and was replaced by this section. Another section 240 of Pub. L. 87–195, as added by section 9 of Pub. L. 95–268, was enacted Apr. 24, 1978, and was classified to [section 2200 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2200&num=0&edition=prelim), prior to repeal by Pub. L. 115–254, div. F, title VI, § 1464(2), Oct. 5, 2018, 132 Stat. 3513.
 
-#### References to Subchapter I Deemed To Include Certain Parts of Subchapter II
-References to subchapter I of this chapter are deemed to include parts IV (§ 2346 et seq.), VI (§ 2348 et seq.), and VIII (§ 2349aa et seq.) of subchapter II of this chapter, and references to subchapter II are deemed to exclude such parts. See section 202(b) of Pub. L. 92–226, set out as a note under [section 2346 of this title](./chapter-032-foreign-assistance.md#section-2346), and sections 2348c and 2349aa–5 of this title.
+[Section 2196 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2196&num=0&edition=prelim), referred to in subsec. (f), was repealed by Pub. L. 115–254, div. F, title VI, § 1464(2), Oct. 5, 2018, 132 Stat. 3513.
 
 #### Codification
 Amendment by Pub. L. 106–113, div. B, § 1000(a)(2) [title V, § 586(h)(3)], Nov. 29, 1999, 113 Stat. 1535, 1501A–120, directing repeal of subsec. (d) of this section did not become effective pursuant to section 1000(a)(2) [title V, § 586] of div. B of Pub. L. 106–113, formerly set out as an Abolition of the Inter-American Foundation note under [section 290f of this title](./chapter-007-international-bureaus-congresses-etc.md#section-290f).
@@ -4848,6 +5008,9 @@ Subsec. (j). Pub. L. 95–424, § 502(d)(1), struck out subsec. (j) relating to 
 
 1977—Subsec. (h). Pub. L. 95–88 substituted “September 30, 1978” for “December 31, 1977”.
 
+#### References to Subchapter I Deemed To Include Certain Parts of Subchapter II
+References to subchapter I of this chapter are deemed to include parts IV (§ 2346 et seq.), VI (§ 2348 et seq.), and VIII (§ 2349aa et seq.) of subchapter II of this chapter, and references to subchapter II are deemed to exclude such parts. See section 202(b) of Pub. L. 92–226, set out as a note under [section 2346 of this title](./chapter-032-foreign-assistance.md#section-2346), and sections 2348c and 2349aa–5 of this title.
+
 #### Effective Date of 1985 Amendment
 Amendment by Pub. L. 99–83 effective Oct. 1, 1985, see section 1301 of Pub. L. 99–83, set out as a note under [section 2151–1 of this title](./chapter-032-foreign-assistance.md#section-2151-1).
 
@@ -4869,7 +5032,7 @@ For transfer of functions, personnel, assets, and liabilities of the Overseas Pr
 
 **(c) Priorities of funds for guaranty payments** Any payments made to discharge liabilities under guaranties issued under [section 2182 of this title](./chapter-032-foreign-assistance.md#section-2182) or heretofore under this subpart or under prior Latin American or other housing guaranty authorities repealed by the Foreign Assistance Act of 1969, shall be paid first out of fees referred to in subsection (b) (excluding amounts required for purposes other than the discharge of liabilities under guaranties) as long as such fees are available, and thereafter shall be paid out of funds, if any, realized from the sale of currencies or other assets acquired in connection with any payment made to discharge liabilities under such guaranties as long as funds are available, and finally out of funds hereafter made available pursuant to subsection (e).
 
-**(d) Guaranties as obligations backed by full faith and credit of United States** All guaranties issued under section 2182 or 2182a, or previously under [section 2200 of this title](./chapter-032-foreign-assistance.md#section-2200) or heretofore under this subpart or under prior Latin American or other housing guaranty authority repealed by the Foreign Assistance Act of 1969 shall constitute obligations, in accordance with the terms of such guaranties, of the United States of America and the full faith and credit of the United States of America is hereby pledged for the full payment and performance of such obligations.
+**(d) Guaranties as obligations backed by full faith and credit of United States** All guaranties issued under section 2182 or 2182a, or previously under section 2200 11 See References in Text note below. of this title or heretofore under this subpart or under prior Latin American or other housing guaranty authority repealed by the Foreign Assistance Act of 1969 shall constitute obligations, in accordance with the terms of such guaranties, of the United States of America and the full faith and credit of the United States of America is hereby pledged for the full payment and performance of such obligations.
 
 **(e) Authorization of appropriations; borrowing authority**
 
@@ -4900,13 +5063,7 @@ For transfer of functions, personnel, assets, and liabilities of the Overseas Pr
 #### References in Text
 The Foreign Assistance Act of 1969, referred to in subsecs. (b), (c), (d), and (g), is Pub. L. 91–175, Dec. 30, 1969, 83 Stat. 805, as amended. For complete classification of this Act to the Code, see Short Title note set out under [section 2151 of this title](./chapter-032-foreign-assistance.md#section-2151) and Tables. The guaranty authorities repealed by the 1969 Act were the guaranty authorities contained in sections 2181 to 2184 prior to the general reorganization of this subpart by the 1969 Act.
 
-[Section 2200 of this title](./chapter-032-foreign-assistance.md#section-2200), referred to in subsec. (d), was in the original a reference to section 240 of this Act, meaning section 240 of Pub. L. 87–195, as added by section 105 of Pub. L. 91–175, which was repealed by section 8(b) of Pub. L. 93–559, and was replaced by [section 2182a of this title](./chapter-032-foreign-assistance.md#section-2182a). Another section 240 of Pub. L. 87–195, as added by section 9 of Pub. L. 95–268, was enacted Apr. 24, 1978, and is classified to [section 2200 of this title](./chapter-032-foreign-assistance.md#section-2200).
-
-#### References to Subchapter I Deemed To Include Certain Parts of Subchapter II
-References to subchapter I of this chapter are deemed to include parts IV (§ 2346 et seq.), VI (§ 2348 et seq.), and VIII (§ 2349aa et seq.) of subchapter II of this chapter, and references to subchapter II are deemed to exclude such parts. See section 202(b) of Pub. L. 92–226, set out as a note under [section 2346 of this title](./chapter-032-foreign-assistance.md#section-2346), and sections 2348c and 2349aa–5 of this title.
-
-#### References to Part I Deemed To Include Section 2293
-References to part I of this subchapter are deemed to include a reference to [section 2293 of this title](./chapter-032-foreign-assistance.md#section-2293). See [section 2293(d)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2293/d/1&num=0&edition=prelim).
+[Section 2200 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2200&num=0&edition=prelim), referred to in subsec. (d), was in the original a reference to section 240 of this Act, meaning section 240 of Pub. L. 87–195, as added by section 105 of Pub. L. 91–175, which was repealed by section 8(b) of Pub. L. 93–559, and was replaced by [section 2182a of this title](./chapter-032-foreign-assistance.md#section-2182a). Another section 240 of Pub. L. 87–195, as added by section 9 of Pub. L. 95–268, was enacted Apr. 24, 1978, and was classified to [section 2200 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2200&num=0&edition=prelim), prior to repeal by Pub. L. 115–254, div. F, title VI, § 1464(2), Oct. 5, 2018, 132 Stat. 3513.
 
 #### Codification
 Amendment by Pub. L. 98–473 is based on section 311(c) of H.R. 5119, Ninety-eighth Congress, as passed by the House of Representatives May 10, 1984, which was enacted into permanent law by Pub. L. 98–473.
@@ -4959,13 +5116,19 @@ Subsec. (j). Pub. L. 94–161, § 311(5)(B), added subsec. (j).
 
 Subsec. (b). Pub. L. 93–559, § 8(a)(4), substituted in first sentence “section 2181 and [section 2182 of this title](./chapter-032-foreign-assistance.md#section-2182)” for “this subpart”.
 
-Subsec. (d). Pub. L. 93–559, § 8(a)(5), substituted “section 2181, 2182, 2182a, or previously under [section 2200 of this title](./chapter-032-foreign-assistance.md#section-2200)” for “section 2181 or [section 2182 of this title](./chapter-032-foreign-assistance.md#section-2182)”.
+Subsec. (d). Pub. L. 93–559, § 8(a)(5), substituted “section 2181, 2182, 2182a, or previously under [section 2200 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2200&num=0&edition=prelim)” for “section 2181 or [section 2182 of this title](./chapter-032-foreign-assistance.md#section-2182)”.
 
 Subsec. (i). Pub. L. 93–559, § 7(2), substituted “June 30, 1976” for “June 30, 1975”.
 
 1973—Subsec. (i). Pub. L. 93–189 substituted “June 30, 1975” for “June 30, 1974”.
 
 1972—Subsec. (i). Pub. L. 92–226 substituted “June 30, 1974” for “June 30, 1972”.
+
+#### References to Subchapter I Deemed To Include Certain Parts of Subchapter II
+References to subchapter I of this chapter are deemed to include parts IV (§ 2346 et seq.), VI (§ 2348 et seq.), and VIII (§ 2349aa et seq.) of subchapter II of this chapter, and references to subchapter II are deemed to exclude such parts. See section 202(b) of Pub. L. 92–226, set out as a note under [section 2346 of this title](./chapter-032-foreign-assistance.md#section-2346), and sections 2348c and 2349aa–5 of this title.
+
+#### References to Part I Deemed To Include Section 2293
+References to part I of this subchapter are deemed to include a reference to [section 2293 of this title](./chapter-032-foreign-assistance.md#section-2293). See [section 2293(d)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2293/d/1&num=0&edition=prelim).
 
 #### Effective Date of 1984 Amendment
 Section 311(d) of H.R. 5119, as passed by the House of Representatives on May 10, 1984, and enacted into permanent law by Pub. L. 98–473, § 101(1) [title V, § 541(a)], Oct. 12, 1984, 98 Stat. 1884, 1903, provided that: “The amendment made by subsection (c) of this section [amending this section] shall take effect on the date of enactment of this Act [Oct. 12, 1984].”
@@ -5007,9 +5170,6 @@ For delegation of functions of President under this section, see Ex. Ord. No. 12
 #### References in Text
 The Export-Import Bank Act of 1945, referred to in subsec. (a), is act July 31, 1945, ch. 341, 59 Stat. 526, as amended, which is classified generally to subchapter I (§ 635 et seq.) of chapter 6A of Title 12, Banks and Banking. For complete classification of the Act to the Code, see Short Title note set out under [section 635 of Title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section635&num=0&edition=prelim) and Tables.
 
-#### References to Subchapter I Deemed To Include Certain Parts of Subchapter II
-References to subchapter I of this chapter are deemed to include parts IV (§ 2346 et seq.), VI (§ 2348 et seq.), and VIII (§ 2349aa et seq.) of subchapter II of this chapter, and references to subchapter II are deemed to exclude such parts. See section 202(b) of Pub. L. 92–226, set out as a note under [section 2346 of this title](./chapter-032-foreign-assistance.md#section-2346), and sections 2348c and 2349aa–5 of this title.
-
 #### Codification
 Subsec. (g) of this section, which required, at intervals of six months, the administrator of the agency primarily responsible for administering subchapter I of this chapter and the President of the Export-Import Bank of the United States to prepare and transmit to the Speaker of the House of Representatives and the Chairman of the Committee on Foreign Relations of the Senate a report on the amount and extension of credits during the preceding six-month period, terminated, effective May 15, 2000, pursuant to section 3003 of Pub. L. 104–66, as amended, set out as a note under [section 1113 of Title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1113&num=0&edition=prelim), Money and Finance. See, also, page 148 of House Document No. 103–7.
 
@@ -5026,6 +5186,9 @@ A prior section 224 of Pub. L. 87–195, pt. I, Sept. 4, 1961, 75 Stat. 432, as 
 Subsec. (c). Pub. L. 101–167 substituted “1990” for “1989”.
 
 1985—Subsec. (e). Pub. L. 99–83 substituted “except that the aggregate amount of outstanding commitments under subsection (a) may not exceed $300,000,000 of contingent liability for loan principal during fiscal year 1986 and may not exceed $400,000,000 of contingent liability for loan principal during fiscal year 1987” for “not to exceed $300,000,000 in the fiscal year 1985”.
+
+#### References to Subchapter I Deemed To Include Certain Parts of Subchapter II
+References to subchapter I of this chapter are deemed to include parts IV (§ 2346 et seq.), VI (§ 2348 et seq.), and VIII (§ 2349aa et seq.) of subchapter II of this chapter, and references to subchapter II are deemed to exclude such parts. See section 202(b) of Pub. L. 92–226, set out as a note under [section 2346 of this title](./chapter-032-foreign-assistance.md#section-2346), and sections 2348c and 2349aa–5 of this title.
 
 #### Effective Date of 1985 Amendment
 Amendment by Pub. L. 99–83 effective Oct. 1, 1985, see section 1301 of Pub. L. 99–83, set out as a note under [section 2151–1 of this title](./chapter-032-foreign-assistance.md#section-2151-1).
@@ -5087,11 +5250,11 @@ The Export-Import Bank Act of 1945, referred to in subsec. (a)(2), is act July 3
 #### Codification
 Subsec. (h) of this section, which required the Administrator and the President of the Bank, every 6 months, to prepare and transmit to the Speaker of the House of Representatives and the Chairman of the Committee on Foreign Relations of the Senate a report on the amount and extension of guarantees and insurance provided by the Bank and guaranteed under this section during the preceding 6-month period, terminated, effective May 15, 2000, pursuant to section 3003 of Pub. L. 104–66, as amended, set out as a note under [section 1113 of Title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1113&num=0&edition=prelim), Money and Finance. See, also, page 148 of House Document No. 103–7.
 
-#### Delegation of Functions
-For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under [section 2381 of this title](./chapter-032-foreign-assistance.md#section-2381).
-
 #### Conforming Reference
 Pub. L. 101–179, title III, § 304(c), Nov. 28, 1989, 103 Stat. 1314, provided that: “With respect to Poland, any reference in the Foreign Operations, Export Financing, and Related Programs Appropriations Act, 1990 [Pub. L. 101–167, Nov. 21, 1989, 103 Stat. 1195], to section 224 of the Foreign Assistance Act of 1961 [[22 U.S.C. 2184](./chapter-032-foreign-assistance.md#section-2184)] shall be deemed to be a reference to section 225 of that Act [[22 U.S.C. 2185](./chapter-032-foreign-assistance.md#section-2185)] (as enacted by this section).”
+
+#### Delegation of Functions
+For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under [section 2381 of this title](./chapter-032-foreign-assistance.md#section-2381).
 
 
 <a id="section-2186"></a>
@@ -5144,7 +5307,7 @@ Pub. L. 101–179, title III, § 304(c), Nov. 28, 1989, 103 Stat. 1314, provided
 
 **(k) Reports** The President shall report to Congress by December 31 of each fiscal year until December 31, 1999, regarding the implementation of this section.
 
-**(l) Applicability of certain sections** [Section 2183 of this title](./chapter-032-foreign-assistance.md#section-2183) shall apply to guarantees issued under subsection (a) in the same manner as such section applies to guarantees issued under [section 2182 of this title](./chapter-032-foreign-assistance.md#section-2182), except that subsections (a), (e)(1), (g), and (j) of [section 2183 of this title](./chapter-032-foreign-assistance.md#section-2183) shall not apply to such guarantees and except that, to the extent [section 2183 of this title](./chapter-032-foreign-assistance.md#section-2183) is inconsistent with the Federal Credit Reform Act of 1990 [[2 U.S.C. 661](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section661&num=0&edition=prelim) et seq.], that Act shall apply. Loans shall be guaranteed under this section without regard to sections 2181, 2182, and 2198(c) of this title. Notwithstanding [section 2183(f) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2183/f&num=0&edition=prelim), the interest rate for loans guaranteed under this section may include a reasonable fee to cover the costs and fees incurred by the borrower in connection with this program or financing under this section in the event the borrower elects not to finance such costs or fees out of loan principal. Guarantees once issued hereunder shall be unconditional and fully and freely transferable.
+**(l) Applicability of certain sections** [Section 2183 of this title](./chapter-032-foreign-assistance.md#section-2183) shall apply to guarantees issued under subsection (a) in the same manner as such section applies to guarantees issued under [section 2182 of this title](./chapter-032-foreign-assistance.md#section-2182), except that subsections (a), (e)(1), (g), and (j) of [section 2183 of this title](./chapter-032-foreign-assistance.md#section-2183) shall not apply to such guarantees and except that, to the extent [section 2183 of this title](./chapter-032-foreign-assistance.md#section-2183) is inconsistent with the Federal Credit Reform Act of 1990 [[2 U.S.C. 661](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section661&num=0&edition=prelim) et seq.], that Act shall apply. Loans shall be guaranteed under this section without regard to sections 2181, 2182, and 2198(c) 11 See References in Text note below. of this title. Notwithstanding [section 2183(f) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2183/f&num=0&edition=prelim), the interest rate for loans guaranteed under this section may include a reasonable fee to cover the costs and fees incurred by the borrower in connection with this program or financing under this section in the event the borrower elects not to finance such costs or fees out of loan principal. Guarantees once issued hereunder shall be unconditional and fully and freely transferable.
 
 **(m) Terms and conditions**
 
@@ -5154,7 +5317,7 @@ Pub. L. 101–179, title III, § 304(c), Nov. 28, 1989, 103 Stat. 1314, provided
 
   (A) in the case of any loan issued on a discount basis, the original issue price (excluding any transaction costs) thereof; or
 
-  (B) in the case of any loan issue 11 So in original. Probably should be “issued”. on an interest-bearing basis, the stated principal amount thereof.
+  (B) in the case of any loan issue 22 So in original. Probably should be “issued”. on an interest-bearing basis, the stated principal amount thereof.
 
 ### Statutory Notes
 
@@ -5163,64 +5326,57 @@ The Federal Credit Reform Act of 1990, referred to in subsecs. (e)(1) and (l), i
 
 Section 601(b) of the International Security Assistance and Arms Export Control Act of 1976, referred to in subsec. (g)(3), is section 601(b) of Pub. L. 94–329, title VI, June 30, 1976, 90 Stat. 765, which is not classified to the Code.
 
+[Section 2198(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2198/c&num=0&edition=prelim), referred to in subsec. (l), was repealed by Pub. L. 115–254, div. F, title VI, § 1464(2), Oct. 5, 2018, 132 Stat. 3513.
+
 #### Delegation of Functions
 For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under [section 2381 of this title](./chapter-032-foreign-assistance.md#section-2381).
 
 
-<a id="section-2191"></a>
-## § 2191. Congressional statement of purpose; creation and functions of Corporation
-
-To mobilize and facilitate the participation of United States private capital and skills in the economic and social development of less developed countries and areas, and countries in transition from nonmarket to market economies, thereby complementing the development assistance objectives of the United States, there is hereby created the Overseas Private Investment Corporation (hereinafter called the “Corporation”), which shall be an agency of the United States under the policy guidance of the Secretary of State.
+<a id="section-2191-to-2194"></a>
+## § 2191 to 2194. Repealed. Pub. L. 115–254, div. F, title VI, § 1464(2), Oct. 5, 2018, 132 Stat. 3513
 
 ### Statutory Notes
 
-#### Repeal of Section
-Pub. L. 115–254, div. F, title VI, § 1464(2), Oct. 5, 2018, 132 Stat. 3513, provided that, effective at the end of the transition period, as defined in [section 9681 of this title](./chapter-103-better-utilization-of-investments-leading-to-development.md#section-9681), this section is repealed.
+Section 2191, Pub. L. 87–195, pt. I, § 231, as added Pub. L. 91–175, pt. I, § 105, Dec. 30, 1969, 83 Stat. 809; amended Pub. L. 93–390, § 2(1), Aug. 27, 1974, 88 Stat. 763; Pub. L. 95–268, § 2, Apr. 24, 1978, 92 Stat. 213; Pub. L. 97–65, § 2, Oct. 16, 1981, 95 Stat. 1021; Pub. L. 99–204, §§ 3, 4(a), Dec. 23, 1985, 99 Stat. 1669; Pub. L. 100–461, title V, § 555, Oct. 1, 1988, 102 Stat. 2268–36; Pub. L. 102–549, title I, § 101, Oct. 28, 1992, 106 Stat. 3651; Pub. L. 103–392, title I, § 105, Oct. 22, 1994, 108 Stat. 4099, related to congressional statement of purpose and the creation and functions of Overseas Private Investment Corporation.
 
-#### References to Subchapter I Deemed To Include Certain Parts of Subchapter II
-References to subchapter I of this chapter are deemed to include parts IV (§ 2346 et seq.), VI (§ 2348 et seq.), and VIII (§ 2349aa et seq.) of subchapter II of this chapter, and references to subchapter II are deemed to exclude such parts. See section 202(b) of Pub. L. 92–226, set out as a note under [section 2346 of this title](./chapter-032-foreign-assistance.md#section-2346), and sections 2348c and 2349aa–5 of this title.
+Section 2191a, Pub. L. 87–195, pt. I, § 231A, as added Pub. L. 99–204, § 5(a), Dec. 23, 1985, 99 Stat. 1670; amended Pub. L. 100–418, title II, § 2203(c), Aug. 23, 1988, 102 Stat. 1328; Pub. L. 102–549, title I, § 102(a), Oct. 28, 1992, 106 Stat. 3651; Pub. L. 104–188, title I, § 1954(b)(3), Aug. 20, 1996, 110 Stat. 1928; Pub. L. 106–158, § 3(a), Dec. 9, 1999, 113 Stat. 1745, related to additional requirements.
 
-#### Codification
-Amendment by Pub. L. 100–461 is based on sections 102 and 110(a)(1) of title I of H.R. 5263, One Hundredth Congress, as passed by the House of Representatives on Sept. 20, 1988, and sections 102 and 110(a)(1) of title I of S. 2757, One Hundredth Congress, as reported Sept. 7, 1988, and enacted into law by Pub. L. 100–461.
+Section 2191b, Pub. L. 111–117, div. F, title VII, § 7079(b), Dec. 16, 2009, 123 Stat. 3396, related to worker rights and human rights guidelines.
+
+Section 2192, Pub. L. 87–195, pt. I, § 232, as added Pub. L. 91–175, pt. I, § 105, Dec. 30, 1969, 83 Stat. 810, related to capital of the Corporation.
+
+Section 2193, Pub. L. 87–195, pt. I, § 233, as added Pub. L. 91–175, pt. I, § 105, Dec. 30, 1969, 83 Stat. 810; amended Pub. L. 97–65, § 3(a), (b), Oct. 16, 1981, 95 Stat. 1021, 1022; Pub. L. 106–158, § 4, Dec. 9, 1999, 113 Stat. 1746; Pub. L. 106–200, title I, § 123(c)(1), May 18, 2000, 114 Stat. 269; Pub. L. 108–158, § 3(e), Dec. 3, 2003, 117 Stat. 1950, related to organization and management of the Corporation.
+
+Section 2194, Pub. L. 87–195, pt. I, § 234, as added Pub. L. 91–175, pt. I, § 105, Dec. 30, 1969, 83 Stat. 811; amended 1970 Reorg. Plan No. 2, § 102, eff. July 1, 1970, 35 F.R. 7959, 84 Stat. 2085; Pub. L. 93–390, § 2(2), Aug. 27, 1974, 88 Stat. 764; Pub. L. 95–268, § 3, Apr. 24, 1978, 92 Stat. 214; Pub. L. 97–65, § 4, Oct. 16, 1981, 95 Stat. 1022; Pub. L. 99–204, §§ 6(a), 7, 8, Dec. 23, 1985, 99 Stat. 1671, 1672; Pub. L. 100–461, title V, § 555, Oct. 1, 1988, 102 Stat. 2268–36; Pub. L. 101–218, § 8(c), Dec. 11, 1989, 103 Stat. 1868; Pub. L. 102–549, title I, § 103, Oct. 28, 1992, 106 Stat. 3651; Pub. L. 106–31, title VI, § 6001, May 21, 1999, 113 Stat. 112; Pub. L. 108–158, §§ 4(a), 5(a), Dec. 3, 2003, 117 Stat. 1950, related to investment insurance and other programs.
 
 #### Prior Provisions
 A prior section 231 of Pub. L. 87–195, pt. 1, Sept. 4, 1961, 75 Stat. 432, related to general authority of President to participate in financing of surveys of investment opportunities in less developed friendly countries, prior to the general reorganization of this subpart by Pub. L. 91–175, pt. I, § 105, Dec. 30, 1969, 83 Stat. 807.
 
-#### Amendments
-1994—Pub. L. 103–392 inserted “, Ireland, and Northern Ireland” after “title 19” in par. (2) of second undesignated par.
+A prior section 232 of Pub. L. 87–195, pt. I, Sept. 4, 1961, 75 Stat. 432 as amended by Pub. L. 87–565, pt. I, § 105, Aug. 1, 1962, 76 Stat. 257; Pub. L. 88–633, pt. I, § 104, Oct. 7, 1964, 78 Stat. 1010; Pub. L. 90–137, pt. I, § 105, Nov. 14, 1967, 81 Stat. 451, authorized appropriations for surveys of investment opportunities, prior to the general reorganization of this subpart by Pub. L. 91–175, pt. I, § 105, Dec. 30, 1969, 83 Stat. 807.
 
-1992—Pub. L. 102–549, in first undesignated par., substituted “countries and areas, and countries in transition from nonmarket to market economies,” for “friendly countries and areas,”.
-
-1988—Pub. L. 100–461, in par. (2) of second undesignated par., substituted “984 or less in 1986 United States dollars” for “$896 or less in 1983 United States dollars” and “$4,269 or more in 1986 United States dollars (other than countries designated as beneficiary countries under [section 2702 of title 19](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section2702&num=0&edition=prelim))” for “$3,887 or more in 1983 United States dollars”.
-
-Pub. L. 100–461, in par. (3) of second undesignated par., substituted “[section 2151p of this title](./chapter-032-foreign-assistance.md#section-2151p), [section 2151p–1 of this title](./chapter-032-foreign-assistance.md#section-2151p-1), and section” for “sections 2151p of this title and” and “tropical forests and endangered species” for “biological diversity”.
-
-1985—Pub. L. 99–204, in second undesignated par., substituted “$896 or less in 1983 United States dollars” for “$680 or less in 1979 United States dollars” and “$3,887 or more in 1983 United States dollars” for “$2,950 or more in 1979 United States dollars” in par. (2), added par. (3), and added cl. (n).
-
-1981—Pub. L. 97–65 substituted “$680 or less in 1979 United States dollars” for “$520 or less in 1975 United States dollars” and “$2,950 or more in 1979 United States dollars” for “$1,000 or more in 1975 United States dollars” in par. (2) of undesignated paragraph covering the guidelines to be used with regard to operations in less developed countries, inserted “, and to seek to support those developmental projects having positive trade benefits for the United States” in cl. (i) of undesignated paragraph enumerating the activities of the Corporation, and, in that unnumbered paragraph, added cl. (m), relating to investments which would reduce positive trade benefits.
-
-1978—Pub. L. 95–268 inserted undesignated par. relating to determinations by the Corporation respecting insurance, financing, or reinsurance for a project, in cl. (e) designated existing provisions as subcl. (1) and, as so designated, substituted reference to guaranty activities for reference to financing activities and reference to small businesses for reference to businesses with a net worth of not more than $2,500,000 or with total assets of not more than $7,500,000, and added subcl. (2), struck out cl. (f) relating to encouragement and support of private investments for certain less developed friendly countries, redesignated former cls. (g) to (k) as (f) to (j), respectively, struck out former cl. (l) relating to preference by the Corporation for projects in countries having a per capita income of $450 or less in 1973 United States dollars, redesignated former cl. (m) as (k), and added cl. (n) which, as added, was redesignated as (l).
-
-1974—Pub. L. 93–390, in introductory par., substituted “social development” for “social progress”, in cl. (a) inserted provisions for conducting insurance and reinsurance operations and substituted provisions requiring in financial operations consideration of economic and financial soundness of projects for provisions requiring consideration of economic and financial soundness of projects and availability of financing from other sources on appropriate terms, in cl. (d) substituted “efforts to share its insurance and reinsurance” for “when appropriate, efforts to share its insurance”, in cl. (e) substituted provisions requiring preferential treatment to investment projects involving businesses with enumerated net worth or total assets for provisions requiring utilization and encouragement for full participation in Corporation programs of small businesses, in cl. (i) inserted “and employment” before “objectives”, and added cls. (l) and (m).
+A prior section 233 of Pub. L. 87–195, pt. I, Sept. 4, 1961, 75 Stat. 432, contained definitions, prior to the general reorganization of this subpart by Pub. L. 91–175, pt. I, § 105, Dec. 30, 1969, 83 Stat. 807.
 
 #### Effective Date of Repeal
 Repeal effective at the end of the transition period, as defined in [section 9681 of this title](./chapter-103-better-utilization-of-investments-leading-to-development.md#section-9681), see [section 9684 of this title](./chapter-103-better-utilization-of-investments-leading-to-development.md#section-9684).
 
+#### Appropriation of Moneys in Advance as Requisite to Purchases, Investments, or Other Acquisitions of Equity by Fund Created Under Pilot Equity Finance Program
+Pub. L. 100–461, title V, § 555, Oct. 1, 1988, 102 Stat. 2268–36, provided in part: “That purchases, investments or other acquisitions of equity by the fund created by section 104 of H.R. 5263 as hereby enacted [former [22 U.S.C. 2194(g)(5)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2194/g/5&num=0&edition=prelim)] are limited to such amounts as may be provided in advance in appropriations Acts” , and further provided “That purchases, investments or other acquisitions of equity by the fund created by section 104 of S. 2757 as hereby enacted [former [22 U.S.C. 2194(g)(5)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2194/g/5&num=0&edition=prelim)] are limited to such amounts as may be provided in advance in appropriations Acts”.
+
 #### Overseas Private Investment Corporation; Reaffirmation of Support
-Pub. L. 100–418, title II, § 2203(a), Aug. 23, 1988, 102 Stat. 1328, provided that: “The Congress reaffirms its support for the Overseas Private Investment Corporation as a United States Government agency serving important development assistance goals. In order to enhance the Corporation’s ability to meet these goals, the Overseas Private Investment Corporation should increase its loan guaranty and direct investment programs.”
+Pub. L. 100–418, title II, § 2203(a), Aug. 23, 1988, 102 Stat. 1328, provided that Congress reaffirmed its support for the former Overseas Private Investment Corporation as a United States Government agency serving important development assistance goals.
 
 #### Ex. Ord. No. 11579. Overseas Private Investment Corporation
 Ex. Ord. No. 11579, Jan. 19, 1971, 36 F.R. 969, as amended by Ex. Ord. No. 12107, Dec. 28, 1978, 44 F.R. 1055; Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, provided:
 
 By virtue of the authority vested in me by the Foreign Assistance Act of 1961 (75 Stat. 424), as amended (hereinafter the “Act”) [section 2151 et seq. of this title] and [section 301 of title 3](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title3-section301&num=0&edition=prelim) of the United States Code, and as President of the United States, it is ordered as follows:
 
-Section 1. Transfer to Overseas Private Investment Corporation. All obligations, assets and related rights and responsibilities arising out of, or related to, predecessor programs and authorities similar to those provided for in sections 234(a), (b) and (d) of the Act [section 2194(a), (b) and (d) of this title] are hereby transferred to the Overseas Private Investment Corporation (hereinafter the “Corporation”).
+Section 1. Transfer to Overseas Private Investment Corporation. All obligations, assets and related rights and responsibilities arising out of, or related to, predecessor programs and authorities similar to those provided for in sections 234(a), (b) and (d) of the Act [former section 2194(a), (b) and (d) of this title] are hereby transferred to the Overseas Private Investment Corporation (hereinafter the “Corporation”).
 
 Sec. 2. Delegation of functions. (a) [Revoked by Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673.]
 
 (b) The function of prescribing regulations relating to the reinstatement or restoration of officers and employees of the Corporation to other government positions, when their appointment to a position in the Corporation was made from another government position and their separation from the Corporation was not made for cause, is hereby delegated to the Office of Personnel Management.
 
-Sec. 3. Allocation and transfer of funds. Funds made available under section 232 of the Act (repealed by section 105 of the Foreign Assistance Act of 1969) [[section 2192 of this title](./chapter-032-foreign-assistance.md#section-2192)] which are obligated but unexpended are hereby transferred to the Corporation.
+Sec. 3. Allocation and transfer of funds. Funds made available under section 232 of the Act (repealed by section 105 of the Foreign Assistance Act of 1969) [former [section 2192 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2192&num=0&edition=prelim)] which are obligated but unexpended are hereby transferred to the Corporation.
 
 Sec. 4. General provisions. (a) As used in this order, the words “function” or “functions” include any duty, obligation, power, authority, responsibility, right, privilege, discretion, or activity.
 
@@ -5228,557 +5384,32 @@ Sec. 4. General provisions. (a) As used in this order, the words “function” 
 
 (c) Except to the extent that they may be inconsistent with this order, all determinations, authorizations, regulations, rulings, certificates, orders, directives, contracts, agreements, and other actions made, issued, or entered into with respect to any function affected by this order and not revoked, superseded or otherwise made inapplicable before the date of this order, shall continue in full force and effect until amended, modified, or terminated by appropriate authority.
 
-(d) Executive Order No. 10973 of November 3, 1961, as amended [set out as a note under this section], is hereby superseded insofar as any provision therein is in conflict with any provision herein.
+(d) Executive Order No. 10973 of November 3, 1961, as amended [formerly set out as a note under [section 2381 of this title](./chapter-032-foreign-assistance.md#section-2381)], is hereby superseded insofar as any provision therein is in conflict with any provision herein.
 
 (e) The provisions of this order shall become effective upon adoption by the Board of Directors of bylaws for the Corporation.
 
-
-<a id="section-2191a"></a>
-## § 2191a. Additional requirements
-**(a) Worker rights**
-
-(1) **Limitation on OPIC activities** — The Corporation may insure, reinsure, guarantee, or finance a project only if the country in which the project is to be undertaken is taking steps to adopt and implement laws that extend internationally recognized worker rights, as defined in [section 2467(4) of title 19](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section2467/4&num=0&edition=prelim), to workers in that country (including any designated zone in that country). The Corporation shall also include the following language, in substantially the following form, in all contracts which the Corporation enters into with eligible investors to provide financial support under this subpart: “The investor agrees not to take actions to prevent employees of the foreign enterprise from lawfully exercising their right of association and their right to organize and bargain collectively. The investor further agrees to observe applicable laws relating to a minimum age for employment of children, acceptable conditions of work with respect to minimum wages, hours of work, and occupational health and safety, and not to use forced labor. The investor is not responsible under this paragraph for the actions of a foreign government.”
-
-(2) **Use of annual reports on workers rights** — The Corporation shall, in making its determinations under paragraph (1), use the reports submitted to the Congress pursuant to [section 2464 of title 19](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section2464&num=0&edition=prelim). The restriction set forth in paragraph (1) shall not apply until the first such report is submitted to the Congress.
-
-(3) **Waiver** — Paragraph (1) shall not prohibit the Corporation from providing any insurance, reinsurance, guaranty, or financing with respect to a country if the President determines that such activities by the Corporation would be in the national economic interests of the United States. Any such determination shall be reported in writing to the Congress, together with the reasons for the determination.
-
-(4) **Operations of OPIC in the People’s Republic of China** — In making a determination under this section for the People’s Republic of China, the Corporation shall discuss fully and completely the justification for making such determination with respect to each item set forth in subparagraphs (A) through (E) of [section 2467(4) of title 19](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section2467/4&num=0&edition=prelim).
-
-**(b) Environmental impact** The Board of Directors of the Corporation shall not vote in favor of any action proposed to be taken by the Corporation that is likely to have significant adverse environmental impacts that are sensitive, diverse, or unprecedented, unless for at least 60 days before the date of the vote—
-
-(1) an environmental impact assessment or initial environmental audit, analyzing the environmental impacts of the proposed action and of alternatives to the proposed action has been completed by the project applicant and made available to the Board of Directors; and
-
-(2) such assessment or audit has been made available to the public of the United States, locally affected groups in the host country, and host country nongovernmental organizations.
-
-**(c) Public hearings**
-
-(1) The Board shall hold at least one public hearing each year in order to afford an opportunity for any person to present views as to whether the Corporation is carrying out its activities in accordance with [section 2191 of this title](./chapter-032-foreign-assistance.md#section-2191) and this section or whether any investment in a particular country should have been or should be extended insurance, reinsurance, guarantees, or financing under this subpart.
-
-(2) In conjunction with each meeting of its Board of Directors, the Corporation shall hold a public hearing in order to afford an opportunity for any person to present views regarding the activities of the Corporation. Such views shall be made part of the record.
-
-### Statutory Notes
-
-#### Repeal of Section
-Pub. L. 115–254, div. F, title VI, § 1464(2), Oct. 5, 2018, 132 Stat. 3513, provided that, effective at the end of the transition period, as defined in [section 9681 of this title](./chapter-103-better-utilization-of-investments-leading-to-development.md#section-9681), this section is repealed.
-
-#### Amendments
-1999—Subsec. (b). Pub. L. 106–158, § 3(a)(2) added subsec. (b). Former subsec. (b) redesignated (c).
-
-Subsec. (c). Pub. L. 106–158, § 3(a)(1), (3), redesignated subsec. (b) as (c), designated existing provisions as par. (1), and added par. (2).
-
-1996—Subsec. (a)(1). Pub. L. 104–188, § 1954(b)(3)(A), substituted “2467(4)” for “2462(a)(4)”.
-
-Subsec. (a)(2). Pub. L. 104–188, § 1954(b)(3)(B), substituted “2464” for “2465(c)”.
-
-Subsec. (a)(4). Pub. L. 104–188, § 1954(b)(3)(C), substituted “2467(4)” for “2462(a)(4)”.
-
-1992—Subsec. (a)(1). Pub. L. 102–549 inserted at end provisions requiring Corporation to include certain language about employee rights in all contracts with eligible investors.
-
-1988—Subsec. (a)(4). Pub. L. 100–418 added par. (4).
-
-#### Effective Date of Repeal
-Repeal effective at the end of the transition period, as defined in [section 9681 of this title](./chapter-103-better-utilization-of-investments-leading-to-development.md#section-9681), see [section 9684 of this title](./chapter-103-better-utilization-of-investments-leading-to-development.md#section-9684).
-
-#### Effective Date of 1999 Amendment
-Pub. L. 106–158, § 3(b), Dec. 9, 1999, 113 Stat. 1746, provided that: “The amendments made by subsection (a) [amending this section] shall take effect 90 days after the date of the enactment of this Act [Dec. 9, 1999].”
-
-#### Effective Date of 1996 Amendment
-Amendment by Pub. L. 104–188 applicable to articles entered on or after Oct. 1, 1996, with provisions relating to retroactive application, see section 1953 of Pub. L. 104–188, set out as an Effective Date note under [section 2461 of Title 19](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section2461&num=0&edition=prelim), Customs Duties.
-
-#### Effective Date
-Pub. L. 99–204, § 5(b), Dec. 23, 1985, 99 Stat. 1671, provided that: “Subsection (a) of section 231A [subsec. (a) of this section], as added by subsection (a) of this section, shall not apply to projects insured, reinsured, guaranteed, or financed before the date of the enactment of this Act [Dec. 23, 1985].”
-
-#### Delegation of Functions
-For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under [section 2381 of this title](./chapter-032-foreign-assistance.md#section-2381).
-
-
-<a id="section-2191b"></a>
-## § 2191b. Worker rights and human rights guidelines
-
-The President of the Overseas Private Investment Corporation is hereby authorized and directed to issue, not later than 9 months after December 16, 2009, a comprehensive set of environmental, transparency and internationally recognized worker rights and human rights guidelines with requirements binding on the Corporation and its investors that shall be consistently applied to all projects, funds and sub-projects supported by the Corporation: Provided, That these regulations shall be no less rigorous than the environmental and social guidelines that the Corporation has made publicly available as of June 3, 2009, and the environmental and social policies of the World Bank Group, and hereafter may be issued and further revised only following public notice and opportunity for comment: Provided further, That the Overseas Private Investment Corporation shall issue a report, not later than 180 days after December 16, 2009, highlighting its substantial commitment to invest in renewable and other clean energy technologies and plans to significantly reduce greenhouse gas emissions from its portfolio: Provided further, That such commitment shall include implementing a revised climate change mitigation plan to reduce greenhouse gas emissions associated with projects and sub-projects in the agency’s portfolio as of June 30, 2008 by at least 30 percent over a 10-year period and by at least 50 percent over a 15-year period.
-
-### Statutory Notes
-
-#### Codification
-Section was enacted as part of the Department of State, Foreign Operations, and Related Programs Appropriations Act, 2010, and also as part of the Consolidated Appropriations Act, 2010, and not as part of the Foreign Assistance Act of 1961 which comprises this chapter.
-
-
-<a id="section-2192"></a>
-## § 2192. Capital of the Corporation
-
-The President is authorized to pay in as capital of the Corporation, out of dollar receipts made available through the appropriation process from loans made pursuant to subchapter I of this chapter and from loans made under the Mutual Security Act of 1954, as amended, for the fiscal year 1970 not to exceed $20,000,000 and for the fiscal year 1971 not to exceed $20,000,000. Upon the payment of such capital by the President, the Corporation shall issue an equivalent amount of capital stock to the Secretary of the Treasury.
-
-### Statutory Notes
-
-#### References in Text
-The Mutual Security Act of 1954, referred to in text, is act Aug. 26, 1954, ch. 937, 68 Stat. 832, as amended by acts July 8, 1955, ch. 301, 69 Stat. 283; July 18, 1956, ch. 627, §§ 2 to 11, 70 Stat. 555; Aug. 14, 1957, Pub. L. 85–141, 71 Stat. 355; June 30, 1958, Pub. L. 85–477, ch. 1, §§ 101 to 103, ch. II, §§ 201 to 205, ch. III, § 301, ch. IV, § 401, ch. V, § 501, 72 Stat. 261; July 24, 1959, Pub. L. 86–108, § 2, ch. 1, § 101, ch. II, §§ 201 to 205(a) to (i), (k) to (n), ch. III, § 301, ch. IV, § 401(a) to (k), (m), 73 Stat. 246; May 14, 1960, Pub. L. 86–472, ch. I to V, 74 Stat. 134, which was principally classified to chapter 24 (§ 1750 et seq.) of this title and which was repealed by act July 18, 1956, ch. 627, § 8(m), 70 Stat. 559, Pub. L. 85–141, §§ 2(e), 3, 4(b), 11(d), Aug. 14, 1957, 71 Stat. 356, Pub. L. 86–108, ch. II, §§ 205(j), ch. IV, 401(1), July 24, 1959, 73 Stat. 250, Pub. L. 86–472, ch. II, §§ 203(d), 204(k), May 14, 1960, 74 Stat. 138, Pub. L. 87–195, pt. III, § 642(a)(2), Sept. 4, 1961, 75 Stat. 460, Pub. L. 94–329, title II, § 212(b)(1), June 30, 1976, 90 Stat. 745, Pub. L. 104–127, title II, § 228, Apr. 4, 1996, 110 Stat. 963, except for sections 1754, 1783, 1796, 1853, 1928, and 1937 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1754 of this title](./chapter-024-mutual-security-program.md#section-1754) and Tables.
-
-#### Repeal of Section
-Pub. L. 115–254, div. F, title VI, § 1464(2), Oct. 5, 2018, 132 Stat. 3513, provided that, effective at the end of the transition period, as defined in [section 9681 of this title](./chapter-103-better-utilization-of-investments-leading-to-development.md#section-9681), this section is repealed.
-
-#### References to Subchapter I Deemed To Include Certain Parts of Subchapter II
-References to subchapter I of this chapter are deemed to include parts IV (§ 2346 et seq.), VI (§ 2348 et seq.), and VIII (§ 2349aa et seq.) of subchapter II of this chapter, and references to subchapter II are deemed to exclude such parts. See section 202(b) of Pub. L. 92–226, set out as a note under [section 2346 of this title](./chapter-032-foreign-assistance.md#section-2346), and sections 2348c and 2349aa–5 of this title.
-
-#### Prior Provisions
-A prior section 232 of Pub. L. 87–195, pt. I, Sept. 4, 1961, 75 Stat. 432 as amended by Pub. L. 87–565, pt. I, § 105, Aug. 1, 1962, 76 Stat. 257; Pub. L. 88–633, pt. I, § 104, Oct. 7, 1964, 78 Stat. 1010; Pub. L. 90–137, pt. I, § 105, Nov. 14, 1967, 81 Stat. 451, authorized appropriations for surveys of investment opportunities, prior to the general reorganization of this subpart by Pub. L. 91–175, pt. I, § 105, Dec. 30, 1969, 83 Stat. 807.
-
-#### Effective Date of Repeal
-Repeal effective at the end of the transition period, as defined in [section 9681 of this title](./chapter-103-better-utilization-of-investments-leading-to-development.md#section-9681), see [section 9684 of this title](./chapter-103-better-utilization-of-investments-leading-to-development.md#section-9684).
-
-#### Delegation of Functions
-For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under [section 2381 of this title](./chapter-032-foreign-assistance.md#section-2381).
-
-
-<a id="section-2193"></a>
-## § 2193. Organization and management
-**(a) Structure** The Corporation shall have a Board of Directors, a President, an Executive Vice President, and such other officers and staff as the Board of Directors may determine.
-
-**(b) Board of directors** All powers of the Corporation shall vest in and be exercised by or under the authority of its Board of Directors (“the Board”) which shall consist of fifteen Directors, including the Chairman, with eight Directors constituting a quorum for the transaction of business. Eight Directors shall be appointed by the President of the United States, by and with the advice and consent of the Senate, and shall not be officials or employees of the Government of the United States. At least two of the eight Directors appointed under the preceding sentence shall be experienced in small business, one in organized labor, and one in cooperatives. Each such Director shall be appointed for a term of no more than three years. The terms of no more than three such Directors shall expire in any one year. Such Directors shall serve until their successors are appointed and qualified and may be reappointed. The other Directors shall be principal officers of the Government of the United States whose duties relate to the programs of the Corporation, including the President of the Corporation, the Administrator of the Agency for International Development, the United States Trade Representative, and one such officer of the Department of Labor, designated by and serving at the pleasure of the President of the United States. The United States Trade Representative may designate a Deputy United States Trade Representative to serve on the Board in place of the United States Trade Representative. There shall be a Chairman and a Vice Chairman of the Board, both of whom shall be designated by the President of the United States from among the Directors of the Board other than those appointed under the second sentence of the first paragraph of this subsection. All Directors who are not officers of the Corporation or officials of the Government of the United States shall be compensated at a rate equivalent to that of level IV of the Executive Schedule when actually engaged in the business of the Corporation and may be paid per diem in lieu of subsistence at the applicable rate prescribed in the standardized Government travel regulations, as amended from time to time, while away from their homes or usual places of business.
-
-**(c) President** The President of the Corporation shall be appointed by the President of the United States, by and with the advice and consent of the Senate, and shall serve at the pleasure of the President. In making such appointment, the President shall take into account private business experience of the appointee. The President of the Corporation shall be its Chief Executive Officer and responsible for the operations and management of the Corporation, subject to bylaws and policies established by the Board.
-
-**(d) Officers and staff** The Executive Vice President of the Corporation shall be appointed by the President of the United States, by and with the advice and consent of the Senate, and shall serve at the pleasure of the President. Other officers, attorneys, employees, and agents shall be selected and appointed by the Corporation, and shall be vested with such powers and duties as the Corporation may determine. Of such persons employed by the Corporation, not to exceed twenty may be appointed, compensated, or removed without regard to the civil service laws and regulations: Provided, That under such regulations as the President of the United States may prescribe, officers and employees of the United States Government who are appointed to any of the above positions may be entitled, upon removal from such position, except for cause, to reinstatement to the position occupied at the time of appointment or to a position of comparable grade and salary. Such positions shall be in addition to those otherwise authorized by law, including those authorized by [section 5108 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5108&num=0&edition=prelim).
-
-**(e) Investment advisory council** The Board shall take prompt measures to increase the loan, guarantee, and insurance programs, and financial commitments, of the Corporation in sub-Saharan Africa, including through the use of an investment advisory council to assist the Board in developing and implementing policies, programs, and financial instruments with respect to sub-Saharan Africa. In addition, the investment advisory council shall make recommendations to the Board on how the Corporation can facilitate greater support by the United States for trade and investment with and in sub-Saharan Africa. The investment advisory council shall terminate 4 years after May 18, 2000.
-
-### Statutory Notes
-
-#### Repeal of Section
-Pub. L. 115–254, div. F, title VI, § 1464(2), Oct. 5, 2018, 132 Stat. 3513, provided that, effective at the end of the transition period, as defined in [section 9681 of this title](./chapter-103-better-utilization-of-investments-leading-to-development.md#section-9681), this section is repealed.
-
-#### References in Text
-Level IV of the Executive Schedule, referred to in subsec. (b), is set out in [section 5315 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5315&num=0&edition=prelim), Government Organization and Employees.
-
-#### Prior Provisions
-A prior section 233 of Pub. L. 87–195, pt. I, Sept. 4, 1961, 75 Stat. 432, contained definitions, prior to the general reorganization of this subpart by Pub. L. 91–175, pt. I, § 105, Dec. 30, 1969, 83 Stat. 807.
-
-#### Amendments
-2003—Subsec. (b). Pub. L. 108–158, in second par., substituted “principal officers” for “officials” and “one such officer” for “an official” and inserted “whose duties relate to the programs of the Corporation” after “Government of the United States”.
-
-2000—Subsec. (e). Pub. L. 106–200 added subsec. (e).
-
-1999—Subsec. (b). Pub. L. 106–158, § 4(1), (2), in first par., struck out after first sentence “The Administrator of the Agency for International Development shall be the Chairman of the Board, ex officio. The United States Trade Representative shall be the Vice Chairman of the Board, ex officio, except that the United States Trade Representative may designate the Deputy United States Trade Representative to serve as Vice Chairman of the Board in place of the United States Trade Representative.” and struck out “(other than the President of the Corporation, appointed pursuant to subsection (c) of this section who shall serve as a Director, ex officio)” after “Eight Directors”.
-
-Pub. L. 106–158, § 4(3), in second par., inserted “the President of the Corporation, the Administrator of the Agency for International Development, the United States Trade Representative, and” after “United States, including” and inserted at end “The United States Trade Representative may designate a Deputy United States Trade Representative to serve on the Board in place of the United States Trade Representative.”
-
-Pub. L. 106–158, § 4(4), inserted after second par. “There shall be a Chairman and a Vice Chairman of the Board, both of whom shall be designated by the President of the United States from among the Directors of the Board other than those appointed under the second sentence of the first paragraph of this subsection.”
-
-1981—Subsec. (b). Pub. L. 97–65 expanded to 15 the number of Directors on the Board, raised to 8 the number required to constitute a quorum and made other technical changes in connection with the increased size of the Board, inserted provision directing that the United States Trade Representative be the Vice Chairman of the Board, ex officio, but authorizing the United States Trade Representative to designate the Deputy United States Trade Representative to serve as Vice Chairman of the Board in place of the United States Trade Representative, provided that the President of the Corporation serve as a Director, ex officio, and inserted provision that an official of the Department of Labor be added to the Board as a Director.
-
-#### Effective Date of Repeal
-Repeal effective at the end of the transition period, as defined in [section 9681 of this title](./chapter-103-better-utilization-of-investments-leading-to-development.md#section-9681), see [section 9684 of this title](./chapter-103-better-utilization-of-investments-leading-to-development.md#section-9684).
-
-#### Effective Date of 1981 Amendment
-Pub. L. 97–65, § 3(c), Oct. 16, 1981, 95 Stat. 1022, provided that: “The amendments made by this section [amending this section] shall take effect on October 1, 1981.”
-
-#### Delegation of Functions
-For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under [section 2381 of this title](./chapter-032-foreign-assistance.md#section-2381).
-
-#### Members of Board of Directors of Overseas Private Investment Corporation
-For provisions directing that the United States Trade Representative serve, ex officio, as an additional voting member of the Board of Directors of the Overseas Private Investment Corporation and to serve as the Vice Chair of that Board and authorizing and directing the appointment of an additional member of the Board of Directors of the Overseas Private Investment Corporation as part of the consolidation of the trade functions of the Federal government, see Reorg. Plan No. 3 of 1979, § 4, 44 F.R. 69274, 93 Stat. 1381, eff. Jan. 2, 1980, as provided in section 1–107(a) of Ex. Ord. No. 12188, 45 F.R. 993, set out in the Appendix to Title 5, Government Organization and Employees.
-
-
-<a id="section-2194"></a>
-## § 2194. Investment insurance and other programs
-
-The Corporation is hereby authorized to do the following:
-
-**(a) Investment insurance**
-
-(1) To issue insurance, upon such terms and conditions as the Corporation may determine, to eligible investors assuring protection in whole or in part against any or all of the following risks with respect to projects which the Corporation has approved—
-
-  (A) inability to convert into United States dollars other currencies, or credits in such currencies, received as earnings or profits from the approved project, as repayment or return of the investment therein, in whole or in part, or as compensation for the sale or disposition of all or any part thereof;
-
-  (B) loss of investment, in whole or in part, in the approved project due to expropriation or confiscation by action of a foreign government or any political subdivision thereof;
-
-  (C) loss due to war, revolution, insurrection, or civil strife; and
-
-  (D) loss due to business interruption caused by any of the risks set forth in subparagraphs (A), (B), and (C).
-
-(2) Recognizing that major private investments in less developed friendly countries or areas are often made by enterprises in which there is multinational participation, including significant United States private participation, the Corporation may make arrangements with foreign governments (including agencies, instrumentalities, or political subdivisions thereof) or with multilateral organizations and institutions for sharing liabilities assumed under investment insurance for such investments and may in connection therewith issue insurance to investors not otherwise eligible hereunder, except that liabilities assumed by the Corporation under the authority of this subsection shall be consistent with the purposes of this subpart and that the maximum share of liabilities so assumed shall not exceed the proportionate participation by eligible investors in the project.
-
-(3) Not more than 10 per centum of the maximum contingent liability of investment insurance which the Corporation is permitted to have outstanding under section 2195(a)(1) 11 See References in Text note below. of this title shall be issued to a single investor.
-
-(4) Before issuing insurance for the first time for loss due to business interruption, and in each subsequent instance in which a significant expansion is proposed in the type of risk to be insured under the definition of “civil strife” or “business interruption”, the Corporation shall, at least sixty days before such insurance is issued, submit to the Committee on Foreign Relations of the Senate and the Committee on Foreign Affairs of the House of Representatives a report with respect to such insurance, including a thorough analysis of the risks to be covered, anticipated losses, and proposed rates and reserves and, in the case of insurance for loss due to business interruption, an explanation of the underwriting basis upon which the insurance is to be offered. Any such report with respect to insurance for loss due to business interruption shall be considered in accordance with the procedures applicable to reprogramming notifications pursuant to [section 2394–1 of this title](./chapter-032-foreign-assistance.md#section-2394-1).
-
-**(b) Investment guaranties** To issue to eligible investors guaranties of loans and other investments made by such investors assuring against loss due to such risks and upon such terms and conditions as the Corporation may determine: Provided, however, That such guaranties on other than loan investments shall not exceed 75 per centum of such investment: Provided further, That except for loan investments for credit unions made by eligible credit unions or credit union associations, the aggregate amount of investment (exclusive of interest and earnings) so guaranteed with respect to any project shall not exceed, at the time of issuance of any such guaranty, 75 per centum of the total investment committed to any such project as determined by the Corporation, which determination shall be conclusive for purposes of the Corporation’s authority to issue any such guaranty: Provided further, That not more than 15 per centum of the maximum contingent liability of investment guaranties which the Corporation is permitted to have outstanding under section 2195(a)(2) 1 of this title shall be issued to a single investor.
-
-**(c) Direct investment** To make loans in United States dollars repayable in dollars or loans in foreign currencies (including, without regard to [section 1306 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1306&num=0&edition=prelim), such foreign currencies which the Secretary of the Treasury may determine to be excess to the normal requirements of the United States and the Director of the Office of Management and Budget may allocate) to firms privately owned or of mixed private and public ownership upon such terms and conditions as the Corporation may determine. Loans may be made under this subsection only for projects that are sponsored by or significantly involve United States small business or cooperatives. The Corporation may designate up to 25 percent of any loan under this subsection for use in the development or adaptation in the United States of new technologies or new products or services that are to be used in the project for which the loan is made and are likely to contribute to the economic or social development of less developed countries. No loan may be made under this subsection to finance any operation for the extraction of oil or gas. The aggregate amount of loans under this subsection to finance operations for the mining or other extraction of any deposit of ore or other nonfuel minerals may not in any fiscal year exceed $4,000,000.
-
-**(d) Investment encouragement** To initiate and support through financial participation, incentive grant, or otherwise, and on such terms and conditions as the Corporation may determine, the identification, assessment, surveying and promotion of private investment opportunities, utilizing wherever feasible and effective the facilities of private organizations or private investors, except that—
-
-(1) the Corporation shall not finance any survey to ascertain the existence, location, extent, or quality of, or to determine the feasibility of undertaking operations for the extraction of, oil or gas; and
-
-(2) expenditures financed by the Corporation during any fiscal year on surveys to ascertain the existence, location, extent, or quality of, or to determine the feasibility of undertaking operations for the extraction of nonfuel minerals may not exceed $200,000.
-
-**(e) Special projects and programs** To administer and manage special projects and programs, including programs of financial and advisory support which provide private technical, professional, or managerial assistance in the development of human resources, skills, technology, capital savings and intermediate financial and investment institutions and cooperatives and including the initiation of incentives, grants, and studies for renewable energy and other small business activities. The funds for these projects and programs may, with the Corporation’s concurrence, be transferred to it for such purposes under the authority of [section 2392(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2392/a&num=0&edition=prelim) or from other sources, public or private. Administrative funds may not be made available for incentives, grants, and studies for renewable energy and other small business activities.
-
-**(f) Additional insurance functions**
-
-(1) To make and carry out contracts of insurance or reinsurance, or agreements to associate or share risks, with insurance companies, financial institutions, any other persons, or groups thereof, and employing the same, where appropriate, as its agent, or acting as their agent, in the issuance and servicing of insurance, the adjustment of claims, the exercise of subrogation rights, the ceding and accepting of reinsurance, and in any other matter incident to an insurance business; except that such agreements and contracts shall be consistent with the purposes of the Corporation set forth in [section 2191 of this title](./chapter-032-foreign-assistance.md#section-2191) and shall be on equitable terms.
-
-(2) To enter into pooling or other risk-sharing arrangements with multinational insurance or financing agencies or groups of such agencies.
-
-(3) To hold an ownership interest in any association or other entity established for the purposes of sharing risks under investment insurance.
-
-(4) To issue, upon such terms and conditions as it may determine, reinsurance of liabilities assumed by other insurers or groups thereof in respect of risks referred to in subsection (a)(1).The amount of reinsurance of liabilities under this subpart which the Corporation may issue shall not in the aggregate exceed at any one time an amount equal to the amount authorized for the maximum contingent liability outstanding at any one time under section 2195(a)(1) 1 of this title. All reinsurance issued by the Corporation under this subsection shall require that the reinsured party retain for his own account specified portions of liability, whether first loss or otherwise.
-
-**(g) Pilot equity finance program**
-
-(1) **Authority for pilot program** — In order to study the feasibility and desirability of a program of equity financing, the Corporation is authorized to establish a 4-year pilot program under which it may, on the limited basis prescribed in paragraphs (2) through (5), purchase, invest in, or otherwise acquire equity or quasi-equity securities of any firm or entity, upon such terms and conditions as the Corporation may determine, for the purpose of providing capital for any project which is consistent with the provisions of this subpart, except that—
-
-  (A) the aggregate amount of the Corporation’s equity investment with respect to any project shall not exceed 30 percent of the aggregate amount of all equity investment made with respect to such project at the time that the Corporation’s equity investment is made, except for securities acquired through the enforcement of any lien, pledge, or contractual arrangement as a result of a default by any party under any agreement relating to the terms of the Corporation’s investment; and
-
-  (B) the Corporation’s equity investment under this subsection with respect to any project, when added to any other investments made or guaranteed by the Corporation under subsection (b) or (c) with respect to such project, shall not cause the aggregate amount of all such investment to exceed, at the time any such investment is made or guaranteed by the Corporation, 75 percent of the total investment committed to such project as determined by the Corporation.
-  The determination of the Corporation under subparagraph (B) shall be conclusive for purposes of the Corporation’s authority to make or guarantee any such investment.
-
-(2) **Equity authority limited to projects in sub-Saharan Africa and Caribbean basin and marine transportation projects globally** — Equity investments may be made under this subsection only in projects in countries eligible for financing under this subpart that are countries in sub-Saharan Africa or countries designated as beneficiary countries under [section 2702 of title 19](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section2702&num=0&edition=prelim) and in marine transportation projects in countries and areas eligible for OPIC support worldwide using United States commercial maritime expertise.
-
-(3) **Additional criteria** — In making investment decisions under this subsection, the Corporation shall give preferential consideration to projects sponsored by or significantly involving United States small business or cooperatives. The Corporation shall also consider the extent to which the Corporation’s equity investment will assist in obtaining the financing required for the project.
-
-(4) **Disposition of equity interest** — Taking into consideration, among other things, the Corporation’s financial interests and the desirability of fostering the development of local capital markets in less developed countries, the Corporation shall endeavor to dispose of any equity interest it may acquire under this subsection within a period of 10 years from the date of acquisition of such interest.
-
-(5) **Implementation** — To the extent provided in advance in appropriations Acts, the Corporation is authorized to create such legal vehicles as may be necessary for implementation of its authorities, which legal vehicles may be deemed non-Federal borrowers for purposes of the Federal Credit Reform Act of 1990 [[2 U.S.C. 661](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section661&num=0&edition=prelim) et seq.]. Income and proceeds of investments made pursuant to this subsection may be used to purchase equity or quasi-equity securities in accordance with the provisions of this section: Provided, however, That such purchases shall not be limited to the 4-year period of the pilot program: Provided further, That the limitations contained in paragraph (2) shall not apply to such purchases.
-
-(6) **Consultations with Congress** — The Corporation shall consult annually with the Committee on Foreign Affairs of the House of Representatives and the Committee on Foreign Relations of the Senate on the implementation of the pilot equity finance program established under this subsection.
-
-**(h) Local currency guaranties for eligible investors** To issue to—
-
-(1) eligible investors, or
-
-(2) local financial institutions, guaranties,
-denominated in currencies other than United States dollars, of loans and other investments made to projects sponsored by or significantly involving eligible investors, assuring against loss due to such risks and upon such terms and conditions as the Corporation may determine, for projects that the Corporation determines to have significant developmental effects or as the Corporation determines to be necessary or appropriate to carry out the purposes of this subpart.
-
-### Statutory Notes
-
-#### Repeal of Section
-Pub. L. 115–254, div. F, title VI, § 1464(2), Oct. 5, 2018, 132 Stat. 3513, provided that, effective at the end of the transition period, as defined in [section 9681 of this title](./chapter-103-better-utilization-of-investments-leading-to-development.md#section-9681), this section is repealed.
-
-#### References in Text
-[Section 2195(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2195/a&num=0&edition=prelim), referred to in subsecs. (a)(3), (b), and (f), was amended by Pub. L. 105–118, title V, § 581, Nov. 26, 1997, 111 Stat. 2435, and, as so amended, provisions formerly appearing in pars. (1) and (2) of subsec. (a) are now contained in par. (1).
-
-The Federal Credit Reform Act of 1990, referred to in subsec. (g)(5), is title V of Pub. L. 93–344, as added by Pub. L. 101–508, title XIII, § 13201(a), Nov. 5, 1990, 104 Stat. 1388–609, which is classified generally to subchapter III (§ 661 et seq.) of chapter 17A of Title 2, The Congress. For complete classification of this Act to the Code, see Short Title note set out under [section 621 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section621&num=0&edition=prelim) and Tables.
-
-#### Codification
-Amendment by Pub. L. 100–461 is based on sections 103 and 104 of title I of H.R. 5263, One Hundredth Congress, as passed by the House of Representatives on Sept. 20, 1988, and sections 103 and 104 of title I of S. 2757, One Hundredth Congress, as reported Sept. 7, 1988, and enacted into law by Pub. L. 100–461.
-
-In subsec. (c), “[section 1306 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1306&num=0&edition=prelim)” substituted for “section 1415 of the Supplemental Appropriation Act, 1953, [[31 U.S.C. 724](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section724&num=0&edition=prelim)]” on authority of Pub. L. 97–258, § 4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
-
-#### Amendments
-2003—Subsec. (a)(1)(B). Pub. L. 108–158, § 4(a), inserted “or any political subdivision thereof” after “government”.
-
-Subsec. (h). Pub. L. 108–158, § 5(a), added subsec. (h).
-
-1999—Subsec. (g). Pub. L. 106–31, § 6000(1), struck out heading and text of par. designated as (c). Text read as follows: “The Corporation is authorized to establish a revolving fund to be available solely for the purposes specified in this subsection and to make transfers to the fund of a total of $10,000,000 (less amounts transferred to the fund before October 28, 1992) from its noncredit account revolving fund. The Corporation shall transfer to the fund in each fiscal year all amounts received by the Corporation during the preceding fiscal year as income on securities acquired under this subsection, and from the proceeds on the disposition of such securities. Purchases of, investments in, and other acquisitions of equity from the fund are authorized for any fiscal year only to the extent or in such amounts as are provided in advance in appropriations Acts or are transferred to the Corporation pursuant to [section 2392(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2392/a&num=0&edition=prelim).”
-
-Subsec. (g)(2). Pub. L. 106–31, § 6001(2), in heading, substituted “Equity authority limited to projects in sub-Saharan Africa and Caribbean basin and marine transportation projects globally” for “Limitation to projects in sub-Saharan Africa and Caribbean basin”, and, in text, inserted “and in marine transportation projects in countries and areas eligible for OPIC support worldwide using United States commercial maritime expertise” after “[section 2702 of title 19](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section2702&num=0&edition=prelim)”.
-
-Subsec. (g)(5). Pub. L. 106–31, § 6001(3), added par. (5).
-
-1992—Subsec. (g)(5). Pub. L. 102–549 amended par. (5) generally, substituting designation “(c)” for “(5)”. Prior to amendment, par. (5) read as follows: “Creation of fund from corporate revenues.—The Corporation is authorized to establish a fund to be available solely for the purposes specified in this subsection and to make a one-time transfer to the fund of $10,000,000 from its income and revenues.”
-
-1989—Subsec. (e). Pub. L. 101–218 inserted “and including the initiation of incentives, grants, and studies for renewable energy and other small business activities” after “cooperatives” and inserted at end “Administrative funds may not be made available for incentives, grants, and studies for renewable energy and other small business activities.”
-
-1988—Subsec. (c). Pub. L. 100–461, at end of first undesignated par., struck out “The Corporation may not purchase or invest in any stock in any other corporation, except that it may (1) accept as evidence of indebtedness debt securities convertible to stock, but such debt securities shall not be converted to stock while held by the Corporation, and (2) acquire stock through the enforcement of any lien or pledge or otherwise to satisfy a previously contracted indebtedness which would otherwise be in default, or as the result of any payment under any contract of insurance or guaranty. The Corporation shall dispose of any stock it may so acquire as soon as reasonably feasible under the circumstances then pertaining.” and added second undesignated par. relating to designation of up to 25 percent of loan for use in development or adaptation of new technologies or new products or services.
-
-Subsec. (f). Pub. L. 100–461, which directed that first sentence of last par. be struck out, was executed as probable intent of Congress by striking out first sentence of concluding provisions, before “The amount of reinsurance”, which read as follows: “The authority granted by paragraph (3) may be exercised notwithstanding the prohibition under subsection (c) of this section against the Corporation purchasing or investing in any stock in any other corporation.”
-
-Subsec. (g). Pub. L. 100–461 added subsec. (g).
-
-1985—Subsec. (a)(1)(D). Pub. L. 99–204, § 6(a)(1), added subpar. (D).
-
-Subsec. (a)(4). Pub. L. 99–204, § 6(a)(2), substituted “insurance for the first time for loss due to business interruption” for “civil strife insurance for the first time” and “definition of ‘civil strife’ or ‘business interruption’ ” for “definition of civil strife” and inserted provision that in the case of insurance for loss due to business interruption an explanation of the underwriting basis upon which the insurance is to be offered be submitted and provision that any report with respect to insurance for loss due to business interruption be considered in accordance with procedures applicable to reprogramming notifications pursuant to [section 2394–1 of this title](./chapter-032-foreign-assistance.md#section-2394-1).
-
-Subsec. (b). Pub. L. 99–204, § 7, substituted “15” for “10”.
-
-Subsec. (f)(2). Pub. L. 99–204, § 8, struck out “other national or” after “arrangements with”.
-
-1981—Subsec. (a)(1)(C). Pub. L. 97–65, § 4(a)(1), inserted reference to civil strife.
-
-Subsec. (a)(2). Pub. L. 97–65, § 4(a)(2), substituted “eligible investors in the project” for “eligible investors in the total project financing”.
-
-Subsec. (a)(3). Pub. L. 97–65, § 4(a)(3), substituted “which the Corporation is permitted to have outstanding under [section 2195(a)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2195/a/1&num=0&edition=prelim)” for “which the Corporation is authorized to issue under this subsection”.
-
-Subsec. (a)(4). Pub. L. 97–65, § 4(a)(4), added par. (4).
-
-Subsec. (b). Pub. L. 97–65, § 4(b)(1), substituted “which the Corporation is permitted to have outstanding under [section 2195(a)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2195/a/2&num=0&edition=prelim)” for “which the Corporation is authorized to issue under this subsection”.
-
-Subsec. (f)(1). Pub. L. 97–65, § 4(b)(2), struck out provisions under which the Corporation was prohibited from making or carrying out any association or risk-sharing agreement for the direct underwriting of insurance by the Corporation with others, other than on an individual basis where such direct underwriting facilitated the purposes of the Corporation as set forth in [section 2191 of this title](./chapter-032-foreign-assistance.md#section-2191).
-
-Subsec. (f)(4). Pub. L. 97–65, § 4(b)(3), struck out provisions which had placed a $600,000,000 limit in any one year on the amount of reinsurance which the Corporation may issue and which had directed the Corporation to endeavor to increase to the maximum extent possible the specified portions of liability, whether first loss or otherwise, which a reinsured party must retain for his own account.
-
-1978—Subsec. (a)(2). Pub. L. 95–268, § 3(1), struck out provisions relating to limitations on maximum share of liabilities assumed under par. (1) of this subsection.
-
-Subsec. (a)(3). Pub. L. 95–268, § 3(2), substituted “maximum contingent liability” for “total face amount”.
-
-Subsec. (a)(4) to (7). Pub. L. 95–268, § 3(3), struck out pars. (4) to (7) which set forth requirements for participation by private insurance companies, multilateral organizations, or others in insurance programs, and limitations respecting participation by the Corporation as insurer under contracts of insurance.
-
-Subsec. (b). Pub. L. 95–268, § 3(2), substituted “maximum contingent liability” for “total face amount”.
-
-Subsec. (c). Pub. L. 95–268, § 3(4), (5), inserted provisions setting forth requirements respecting United States small businesses or cooperatives, and substituted provisions relating to aggregate amount of loans for mining or other extraction of ores or other nonfuel minerals, for provisions prohibiting loans for mining or other extraction of ores or other minerals.
-
-Subsec. (d). Pub. L. 95–268, § 3(6), substituted provisions setting forth exception for financing surveys relating to oil and gas and limitation on amount of expenditures for surveys relating to nonfuel minerals, for provisions setting forth proviso relating to surveys for mining of any deposit of ore, oil, gas, or other mineral.
-
-Subsec. (f)(1). Pub. L. 95–268, § 3(7), inserted provisions setting forth exceptions for agreements and contracts.
-
-1974—Subsec. (a)(2). Pub. L. 93–390, § 2(2)(B), inserted “and institutions” after “multilateral organizations” and provisions relating to the maximum share of liabilities assumed under par. (1)(A) to (C) of this subsection.
-
-Subsec. (a)(4) to (7). Pub. L. 93–390, § 2(2)(C), added pars. (4) to (7).
-
-Subsec. (f). Pub. L. 93–390, § 2(2)(D), added subsec. (f).
-
-#### Effective Date of Repeal
-Repeal effective at the end of the transition period, as defined in [section 9681 of this title](./chapter-103-better-utilization-of-investments-leading-to-development.md#section-9681), see [section 9684 of this title](./chapter-103-better-utilization-of-investments-leading-to-development.md#section-9684).
-
-#### Effective Date of 1999 Amendment
-Pub. L. 106–31, title VI, § 6001, May 21, 1999, 113 Stat. 112, provided that the amendment made by section 6001 is effective Oct. 1, 1999.
-
-#### Transfer of Functions
-Functions vested by law (including reorganization plan) in Bureau of the Budget or Director of Bureau of the Budget transferred to President of the United States by section 101 of 1970 Reorg. Plan No. 2, eff. July 1, 1970, 35 F.R. 7959, 84 Stat. 2085, set out in the Appendix to Title 5, Government Organization and Employees. Section 102 of 1970 Reorg. Plan No. 2 redesignated Bureau of the Budget as Office of Management and Budget. For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under [section 2381 of this title](./chapter-032-foreign-assistance.md#section-2381).
-
-#### Extension of OPIC Authority
-Pub. L. 116–6, div. F, title VII, § 7063(b), Feb. 15, 2019, 133 Stat. 379, provided that: “Notwithstanding section 235(a)(2) of the Foreign Assistance Act of 1961 [[22 U.S.C. 2195(a)(2)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2195/a/2&num=0&edition=prelim)], the authority of subsections (a) through (c) of section 234 of such Act [[22 U.S.C. 2194(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2194/a&num=0&edition=prelim)–(c)] shall remain in effect until September 30, 2019.”
-
-Similar provisions were contained in the following prior appropriations acts:
-
-Pub. L. 115–141, div. K, title VII, § 7061(b), Mar. 23, 2018, 132 Stat. 949.
-
-Pub. L. 115–31, div. J, title VII, § 7061(b), May 5, 2017, 131 Stat. 702.
-
-Pub. L. 114–113, div. K, title VII, § 7061(b), Dec. 18, 2015, 129 Stat. 2810.
-
-Pub. L. 113–235, div. J, title VII, § 7073(b), Dec. 16, 2014, 128 Stat. 2679.
-
-Pub. L. 113–76, div. K, title VII, § 7064(b), Jan. 17, 2014, 128 Stat. 557.
-
-Pub. L. 112–74, div. I, title VII, § 7065(b), Dec. 23, 2011, 125 Stat. 1252.
-
-Pub. L. 111–117, div. F, title VII, § 7079(c), Dec. 16, 2009, 123 Stat. 3396.
-
-Pub. L. 111–8, div. H, title VII, § 7081(a), Mar. 11, 2009, 123 Stat. 910.
-
-Pub. L. 110–161, div. J, title VI, § 634(t), Dec. 26, 2007, 121 Stat. 2331.
-
-#### Appropriation of Moneys in Advance as Requisite to Purchases, Investments, or Other Acquisitions of Equity by Fund Created Under Pilot Equity Finance Program
-Pub. L. 100–461, title V, § 555, Oct. 1, 1988, 102 Stat. 2268–36, provided in part: “That purchases, investments or other acquisitions of equity by the fund created by section 104 of H.R. 5263 as hereby enacted [[22 U.S.C. 2194(g)(5)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2194/g/5&num=0&edition=prelim)] are limited to such amounts as may be provided in advance in appropriations Acts” , and further provided “That purchases, investments or other acquisitions of equity by the fund created by section 104 of S. 2757 as hereby enacted [[22 U.S.C. 2194(g)(5)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2194/g/5&num=0&edition=prelim)] are limited to such amounts as may be provided in advance in appropriations Acts”.
+[For transfer of functions, personnel, assets, and liabilities of the Overseas Private Investment Corporation to the United States International Development Finance Corporation and treatment of related references, see sections 9683 and 9686(d) of this title.]
 
 
 <a id="section-2194a"></a>
-## § 2194a. Contract authority of Corporation; specific authorization in appropriation Acts required
-
-The authority of the Overseas Private Investment Corporation to enter into contracts under [section 2194(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2194/a&num=0&edition=prelim) shall be effective for any fiscal year beginning after September 30, 1981, only to such extent or in such amounts as are provided in appropriation Acts.
+## § 2194a. Omitted
 
 ### Statutory Notes
 
 #### Codification
-Section was enacted as part of the Overseas Private Investment Corporation Amendments of 1981, and not as part of the Foreign Assistance Act of 1961 which comprises this chapter.
+Section, Pub. L. 97–65, § 5(b)(2), Oct. 16, 1981, 95 Stat. 1023, which related to contract authority of the Overseas Private Investment Corporation, was omitted from the Code as obsolete pursuant to the termination of the Corporation by [section 9684 of this title](./chapter-103-better-utilization-of-investments-leading-to-development.md#section-9684).
 
 
-<a id="section-2194b"></a>
-## § 2194b. Enhancing private political risk insurance industry
-**(a) Cooperative programs** In order to encourage greater availability of political risk insurance for eligible investors by enhancing the private political risk insurance industry in the United States, and to the extent consistent with this subpart, the Corporation shall undertake programs of cooperation with such industry, and in connection with such programs may engage in the following activities:
-
-(1) Utilizing its statutory authorities, encourage the development of associations, pools, or consortia of United States private political risk insurers.
-
-(2) Share insurance risks (through coinsurance, contingent insurance, or other means) in a manner that is conducive to the growth and development of the private political risk insurance industry in the United States.
-
-(3) Notwithstanding [section 2197(e) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2197/e&num=0&edition=prelim), upon the expiration of insurance provided by the Corporation for an investment, enter into risk-sharing agreements with United States private political risk insurers to insure any such investment; except that, in cooperating in the offering of insurance under this paragraph, the Corporation shall not assume responsibility for more than 50 percent of the insurance being offered in each separate transaction.
-
-**(b) Advisory group**
-
-(1) **Establishment and membership** — The Corporation shall establish a group to advise the Corporation on the development and implementation of the cooperative programs under this section. The group shall be appointed by the Board and shall be composed of up to 12 members, including the following:
-
-  (A) Up to seven persons from the private political risk insurance industry, of whom no fewer than two shall represent private political risk insurers, one shall represent private political risk reinsurers, and one shall represent insurance or reinsurance brokerage firms.
-
-  (B) Up to four persons, other than persons described in subparagraph (A), who are purchasers of political risk insurance.
-
-(2) **Functions** — The Corporation shall call upon members of the advisory group, either collectively or individually, to advise it regarding the capability of the private political risk insurance industry to meet the political risk insurance needs of United States investors, and regarding the development of cooperative programs to enhance such capability.
-
-(3) **Meetings** — The advisory group shall meet not later than September 30, 1989, and at least annually thereafter. The Corporation may from time to time convene meetings of selected members of the advisory group to address particular questions requiring their specialized knowledge.
-
-(4) **Federal Advisory Committee Act** — The advisory group shall not be subject to the Federal Advisory Committee Act (5 U.S.C. App.).
+<a id="section-2194b-to-2196"></a>
+## § 2194b to 2196. Repealed. Pub. L. 115–254, div. F, title VI, § 1464(2), Oct. 5, 2018, 132 Stat. 3513
 
 ### Statutory Notes
 
-#### Repeal of Section
-Pub. L. 115–254, div. F, title VI, § 1464(2), Oct. 5, 2018, 132 Stat. 3513, provided that, effective at the end of the transition period, as defined in [section 9681 of this title](./chapter-103-better-utilization-of-investments-leading-to-development.md#section-9681), this section is repealed.
+Section 2194b, Pub. L. 87–195, pt. I, § 234A, as added Pub. L. 99–204, § 9(a), Dec. 23, 1985, 99 Stat. 1672; amended Pub. L. 100–461, title V, § 555, Oct. 1, 1988, 102 Stat. 2268–36, related to enhancing private political risk insurance industry.
 
-#### References in Text
-The Federal Advisory Committee Act, referred to in subsec. (b)(4), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
+Section 2195, Pub. L. 87–195, pt. I, § 235, as added Pub. L. 91–175, pt. I, § 105, Dec. 30, 1969, 83 Stat. 813; amended Pub. L. 93–189, § 6(1), Dec. 17, 1973, 87 Stat. 717; Pub. L. 93–390, § 2(3), Aug. 27, 1974, 88 Stat. 766; Pub. L. 95–268, § 4, Apr. 24, 1978, 92 Stat. 214; Pub. L. 97–65, § 5(a), (b)(1), (c), Oct. 16, 1981, 95 Stat. 1022, 1023; Pub. L. 99–204, §§ 9(b)(1), 10, 17(b), Dec. 23, 1985, 99 Stat. 1673, 1676; Pub. L. 100–418, title II, § 2203(b), Aug. 23, 1988, 102 Stat. 1328; Pub. L. 100–461, title V, § 555, Oct. 1, 1988, 102 Stat. 2268–36; Pub. L. 102–549, title I, § 104, Oct. 28, 1992, 106 Stat. 3652; Pub. L. 103–392, title I, §§ 101–104, Oct. 22, 1994, 108 Stat. 4098; Pub. L. 104–208, div. A, title I, § 101(c) [title I], Sept. 30, 1996, 110 Stat. 3009–121, 3009–123; Pub. L. 105–118, title V, § 581, Nov. 26, 1997, 111 Stat. 2435; Pub. L. 106–113, div. B, § 1000(a)(2) [title V, § 599E], Nov. 29, 1999, 113 Stat. 1535, 1501A–132; Pub. L. 106–158, § 2, Dec. 9, 1999, 113 Stat. 1745; Pub. L. 108–158, §§ 2, 3(a)–(d), Dec. 3, 2003, 117 Stat. 1949, related to issuing authority, direct investment authority and reserves.
 
-#### Codification
-Amendment by Pub. L. 100–461 is based on section 105(a) of title I of H.R. 5263, One Hundredth Congress, as passed by the House of Representatives on Sept. 20, 1988, and section 105(a) of title I of S. 2757, One Hundredth Congress, as reported Sept. 7, 1988, and enacted into law by Pub. L. 100–461.
-
-#### Amendments
-1988—Pub. L. 100–461 amended section generally, substituting provisions relating to enhancing private political risk insurance industry for provisions which related to facultative reinsurance program.
-
-#### Effective Date of Repeal
-Repeal effective at the end of the transition period, as defined in [section 9681 of this title](./chapter-103-better-utilization-of-investments-leading-to-development.md#section-9681), see [section 9684 of this title](./chapter-103-better-utilization-of-investments-leading-to-development.md#section-9684).
-
-
-<a id="section-2195"></a>
-## § 2195. Issuing authority, direct investment authority and reserves
-**(a) Issuing authority**
-
-(1) **Insurance and financing**
-
-  (A) The maximum contingent liability outstanding at any one time pursuant to insurance issued under [section 2194(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2194/a&num=0&edition=prelim), and the amount of financing issued under sections 11 So in original. Probably should be “section”. 2194(b) and (c) of this title, shall not exceed in the aggregate $29,000,000,000.
-
-  (B) Subject to spending authority provided in appropriations Acts pursuant to [section 661c(b) of title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section661c/b&num=0&edition=prelim), the Corporation is authorized to transfer such sums as are necessary from its noncredit activities to pay for the subsidy and administrative costs of the investment guaranties and direct loan programs under subsections (b) and (c) of [section 2194 of this title](./chapter-032-foreign-assistance.md#section-2194).
-
-(2) **Termination of authority** — The authority of subsections (a), (b), and (c) of [section 2194 of this title](./chapter-032-foreign-assistance.md#section-2194) shall continue until September 30, 2007.
-
-**(b) Repealed. Pub. L. 102–549, title I, § 104(a)(3), Oct. 28, 1992, 106 Stat. 3652**
-
-**(c) Insurance Reserve; Guaranty Reserve** There shall be established in the Treasury of the United States a noncredit account revolving fund, which shall be available for discharge of liabilities, as provided in subsection (d) of this section, until such time as all such liabilities have been discharged or have expired or until all of the fund has been expended in accordance with the provisions of this section. Such fund shall be funded by: (1) the funds heretofore available to discharge liabilities under predecessor guaranty authority (including housing guaranty authorities), less both the amount made available for housing guaranty programs pursuant to [section 2183(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2183/b&num=0&edition=prelim) and the amount made available to the Corporation pursuant to subsection (e) of this section; and (2) such sums as shall be appropriated pursuant to subsection (f) of this section for such purpose. Additional amounts may thereafter be transferred to such fund pursuant to [section 2196 of this title](./chapter-032-foreign-assistance.md#section-2196).
-
-**(d) Priority of funds used to discharge liabilities** Any payments made to discharge liabilities under investment insurance or reinsurance issued under [section 2194 of this title](./chapter-032-foreign-assistance.md#section-2194), under similar predecessor guaranty authority, or under [section 2194b of this title](./chapter-032-foreign-assistance.md#section-2194b) shall be paid first out of the noncredit account revolving fund, as long as such fund remains available, and thereafter out of funds made available pursuant to subsection (f) of this section. Any payments made to discharge liabilities under guaranties issued under [section 2194(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2194/b&num=0&edition=prelim) or 2194(c) of this title shall be paid in accordance with the Federal Credit Reform Act of 1990 [[2 U.S.C. 661](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section661&num=0&edition=prelim) et seq.].
-
-**(e) Reserves from predecessor guaranty authority** There is hereby authorized to be transferred to the Corporation at its call, for the purposes specified in [section 2196 of this title](./chapter-032-foreign-assistance.md#section-2196), all fees and other revenues collected under predecessor guaranty authority from December 31, 1968, available as of the date of such transfer.
-
-**(f) Authorization of appropriations; issuance, etc., of obligations by Corporation for purchase by Secretary of the Treasury** There are authorized to be appropriated to the Corporation, to remain available until expended, such amounts as may be necessary from time to time to replenish or increase the noncredit account revolving fund, to discharge the liabilities under insurance, reinsurance, or guaranties issued by the Corporation or issued under predecessor guaranty authority, or to discharge obligations of the Corporation purchased by the Secretary of the Treasury pursuant to this subsection. However, no appropriations shall be made to augment the noncredit account revolving fund until the amount of funds in the noncredit account revolving fund is less than $25,000,000. Any appropriations to augment the noncredit account revolving fund shall then only be made either pursuant to specific authorization enacted after August 27, 1974, or to satisfy the full faith and credit provision of [section 2197(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2197/c&num=0&edition=prelim). In order to discharge liabilities under investment insurance or reinsurance, the Corporation is authorized to issue from time to time for purchase by the Secretary of the Treasury its notes, debentures, bonds, or other obligations; but the aggregate amount of such obligations outstanding at any one time shall not exceed $100,000,000. Any such obligation shall be repaid to the Treasury within one year after the date of issue of such obligation. Any such obligation shall bear interest at a rate determined by the Secretary of the Treasury, taking into consideration the current average market yield on outstanding marketable obligations of the United States of comparable maturities during the month preceding the issuance of any obligation authorized by this subsection. The Secretary of the Treasury shall purchase any obligation of the Corporation issued under this subsection, and for such purchase he may use as a public debt transaction the proceeds of the sale of any securities issued under chapter 31 of title 31 after August 27, 1974. The purpose for which securities may be issued under such chapter shall include any such purchase.
-
-### Statutory Notes
-
-#### Repeal of Section
-Pub. L. 115–254, div. F, title VI, § 1464(2), Oct. 5, 2018, 132 Stat. 3513, provided that, effective at the end of the transition period, as defined in [section 9681 of this title](./chapter-103-better-utilization-of-investments-leading-to-development.md#section-9681), this section is repealed.
-
-#### References in Text
-The Federal Credit Reform Act of 1990, referred to in subsec. (d), is title V of Pub. L. 93–344, as added by Pub. L. 101–508, title XIII, § 13201(a), Nov. 5, 1990, 104 Stat. 1388–609, as amended, which is classified generally to subchapter III (§ 661 et seq.) of chapter 17A of Title 2, The Congress. For complete classification of this Act to the Code, see Short Title note set out under [section 621 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section621&num=0&edition=prelim) and Tables.
-
-#### Codification
-Amendment by Pub. L. 100–461 is based on sections 106 and 107 of title I of H.R. 5263, One Hundredth Congress, as passed by the House of Representatives on Sept. 20, 1988, and sections 106 and 107 of title I of S. 2757, One Hundredth Congress, as reported Sept. 7, 1988, and enacted into law by Pub. L. 100–461.
-
-In subsec. (f), “chapter 31 of title 31” and “such chapter” substituted for “the Second Liberty Bond Act” and “such Bond Act”, respectively, on authority of Pub. L. 97–258, § 4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
-
-#### Amendments
-2003—Subsec. (a)(1)(B). Pub. L. 108–158, § 3(a), substituted “subsidy and administrative costs” for “subsidy cost”.
-
-Subsec. (a)(2). Pub. L. 108–158, § 2, substituted “2007” for “November 1, 2000”.
-
-Subsec. (c). Pub. L. 108–158, § 3(b), substituted “a noncredit account revolving fund, which” for “an insurance and guaranty fund, which shall have separate accounts to be known as the Insurance Reserve and the Guaranty Reserve, which reserves” and “of the fund has” for “such reserves have” in first sentence, struck out third sentence which read: “The allocation of such funds to each such reserve shall be determined by the Board after consultation with the Secretary of the Treasury.”, and substituted “fund” for “reserves” in last sentence.
-
-Subsec. (d). Pub. L. 108–158, § 3(c), in first sentence, substituted “noncredit account revolving fund, as long as such fund” for “Insurance Reserve, as long as such reserve” and, in second sentence, substituted “or 2194(c) of this title shall be paid in accordance with the Federal Credit Reform Act of 1990” for “or under similar predecessor guaranty authority shall be paid first out of the Guaranty Reserve as long as such reserve remains available, and thereafter out of funds made available pursuant to subsection (f) of this section”.
-
-Subsec. (f). Pub. L. 108–158, § 3(d), substituted “noncredit account revolving fund” for “insurance and guaranty fund” in first sentence and for “Insurance Reserve” wherever appearing.
-
-1999—Subsec. (a)(2). Pub. L. 106–158, which directed the amendment of par. (2) by substituting “2003” for “1999” could not be executed because “1999” did not appear in text subsequent to amendment by Pub. L. 106–113. See below.
-
-Pub. L. 106–113 substituted “November 1, 2000” for “1999”.
-
-1997—Subsec. (a). Pub. L. 105–118 added heading and text of par. (1)(A), redesignated par. (2)(B) as subpar. (B) of par. (1), redesignated par. (3) as (2) and substituted “subsections (a), (b), and (c) of [section 2194 of this title](./chapter-032-foreign-assistance.md#section-2194)” for “subsections (a) and (b) of [section 2194 of this title](./chapter-032-foreign-assistance.md#section-2194)” and “September 30, 1999” for “September 30, 1997”, and struck out former pars. (1) and (2)(A) which read as follows:
-
-“(1) Insurance.—The maximum contingent liability outstanding at any one time pursuant to insurance issued under [section 2194(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2194/a&num=0&edition=prelim) shall not exceed in the aggregate $13,500,000,000.
-
-“(2) Financing.—(A) The maximum contingent liability outstanding at any one time pursuant to financing issued under subsections (b) and (c) of [section 2194 of this title](./chapter-032-foreign-assistance.md#section-2194) shall not exceed in the aggregate $9,500,000,000.”
-
-1996—Subsec. (a)(3). Pub. L. 104–208 substituted “1997” for “1996”.
-
-1994—Subsec. (a)(1). Pub. L. 103–392, § 101, substituted “$13,500,000,000” for “$9,000,000,000”.
-
-Subsec. (a)(2). Pub. L. 103–392, § 102, amended heading and text of par. (2). Prior to amendment, text read as follows:
-
-“(A) The maximum contingent liability outstanding at any one time pursuant to guarantees issued under [section 2194(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2194/b&num=0&edition=prelim) shall not exceed in the aggregate $2,500,000,000.
-
-“(B) Subject to spending authority provided in appropriations Acts, pursuant to [section 661c(b) of title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section661c/b&num=0&edition=prelim), the Corporation is authorized—
-
-“(i) to transfer $9,800,000, or such sums as are necessary, from its noncredit account revolving fund to pay for the subsidy cost of a program level for the loan and loan guarantee program under subsections (b) and (c) of [section 2194 of this title](./chapter-032-foreign-assistance.md#section-2194) of $650,000,000 for fiscal year 1993; and
-
-“(ii) to transfer such sums as are necessary from its noncredit account revolving fund to pay for the subsidy cost of a program level for the loan and loan guarantee program under subsections (b) and (c) of [section 2194 of this title](./chapter-032-foreign-assistance.md#section-2194) of $850,000,000 for fiscal year 1994.”
-
-Subsec. (a)(3). Pub. L. 103–392, § 103, substituted “1996” for “1994”.
-
-Subsec. (g). Pub. L. 103–392, § 104, struck out heading and text of subsec. (g). Text read as follows: “Subject to spending authority provided in appropriations Acts, the Corporation is authorized to draw from its noncredit account revolving fund for the administrative costs of its direct loan and loan guarantee programs—
-
-“(1) $8,128,000 for fiscal year 1993; and
-
-“(2) $11,000,000 for fiscal year 1994.”
-
-1992—Pub. L. 102–549, § 104(a)(1), amended section catchline.
-
-Subsec. (a). Pub. L. 102–549, § 104(a)(2), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows:
-
-“(1) The maximum contingent liability outstanding at any one time pursuant to insurance issued under [section 2194(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2194/a&num=0&edition=prelim) shall not exceed $7,500,000,000.
-
-“(2) The maximum contingent liability outstanding at any one time pursuant to guaranties issued under [section 2194(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2194/b&num=0&edition=prelim) shall not exceed in the aggregate $1,500,000,000. Commitments to guarantee loans are authorized for any fiscal year only to such extent or in such amounts as are provided in appropriation Acts.
-
-“(3) The Corporation shall not make any commitment to issue any guaranty which would result in a reserve less than 25 per centum of the maximum contingent liability then outstanding against guaranties issued or commitments made pursuant to [section 2194(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2194/b&num=0&edition=prelim) or similar predecessor guaranty authority.
-
-“(4) The Congress, in considering the budget programs transmitted by the President for the Corporation, pursuant to [section 9104 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section9104&num=0&edition=prelim), may limit the obligations and contingent liabilities to be undertaken under section 2194(a) and (b) of this title as well as the use of funds for operating and administrative expenses.
-
-“(5) Subject to paragraphs (2), (3), and (4), the Corporation shall issue guaranties under [section 2194(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2194/b&num=0&edition=prelim) having an aggregate contingent liability with respect to principal of not less than $200,000,000 in each fiscal year, to the extent that there are eligible projects which meet the Corporation’s criteria for such guaranties.
-
-“(6) The authority of section 2194(a) and (b) of this title shall continue until September 30, 1992.”
-
-Subsec. (b). Pub. L. 102–549, § 104(a)(3), struck out subsec. (b) which provided for establishment of a revolving fund, known as the Direct Investment Fund, to be held by the Corporation.
-
-Subsec. (g). Pub. L. 102–549, § 104(b), added subsec. (g).
-
-1988—Subsec. (a)(2). Pub. L. 100–461 substituted “$1,500,000,000” for “$1,000,000,000”.
-
-Pub. L. 100–418, § 2203(b)(1)(A), substituted “$1,000,000,000” for “$750,000,000”.
-
-Subsec. (a)(5). Pub. L. 100–418, § 2203(b)(1)(C), added par. (5). Former par. (5) redesignated (6).
-
-Subsec. (a)(6). Pub. L. 100–461 substituted “1992” for “1988”.
-
-Pub. L. 100–418, § 2203(b)(1)(B), redesignated par. (5) as (6).
-
-Subsec. (b). Pub. L. 100–418, § 2203(b)(2), in cl. (2), substituted “1981.” for “1981,”, and in closing provisions substituted “The Corporation shall make loans under [section 2194(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2194/c&num=0&edition=prelim) in an aggregate amount of not less than $25,000,000 in each fiscal year, to the extent that there are eligible projects which meet the Corporation’s criteria for such loans” for “and the Corporation shall use the funds so transferred to make loans under [section 2194(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2194/c&num=0&edition=prelim) to the extent that there are eligible projects which meet the Corporation’s criteria for funding”.
-
-1985—Subsec. (a)(5). Pub. L. 99–204, § 10, substituted “1988” for “1985”.
-
-Subsec. (c). Pub. L. 99–204, § 17(b)(1), substituted references to subsecs. (d), (e), and (f) of this section for references to sections 2195(d), 2194(e), and 2195(f), respectively, of this title.
-
-Subsec. (d). Pub. L. 99–204, § 9(b)(1), substituted “, under similar predecessor guaranty authority, or under [section 2194b of this title](./chapter-032-foreign-assistance.md#section-2194b)” for “or under similar predecessor guaranty authority”.
-
-Pub. L. 99–204, § 17(b)(2), substituted reference to subsec. (f) of this section for reference to [section 2195(f) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2195/f&num=0&edition=prelim) wherever appearing.
-
-1981—Subsec. (a)(2). Pub. L. 97–65, § 5(a)(1), substituted provisions that commitments to guarantee loans are authorized for any fiscal year only to such extent or in such amounts as are provided in appropriation Acts for provisions that the Corporation not make any commitment to issue any guaranty which would result in a fractional reserve less than 25 per centum of the maximum contingent liability then outstanding against guaranties issued or commitments made pursuant to [section 2194(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2194/b&num=0&edition=prelim) or similar predecessor guaranty authority. See par. (3).
-
-Subsec. (a)(3). Pub. L. 97–65, § 5(a)(2), added par. (3) which consisted of provisions formerly contained in par. (2). Former par. (3) redesignated (4).
-
-Subsec. (a)(4). Pub. L. 97–65, § 5(a)(2)(A), redesignated par. (3) as (4). Former par. (4) redesignated (5).
-
-Subsec. (a)(5). Pub. L. 97–65, § 5(a)(2)(A), (b)(1), redesignated former par. (4) as (5) and substituted “September 30, 1985” for “September 30, 1981”.
-
-Subsec. (b). Pub. L. 97–65, § 5(c), inserted provisions relating to the transfer to the Fund of certain moneys in fiscal year 1982 and in each fiscal year thereafter and the making of loans from those moneys under [section 2194(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2194/c&num=0&edition=prelim) to the extent that there are eligible projects which meet the Corporation’s criteria for funding.
-
-1978—Subsec. (a)(2). Pub. L. 95–268, § 4(1), struck out limitation on guaranties by credit unions of not to exceed $1,250,000.
-
-Subsec. (a)(4). Pub. L. 95–268, § 4(2), substituted “September 30, 1981” for “December 31, 1977”.
-
-1974—Subsec. (a)(4). Pub. L. 93–390, § 2(3)(A), substituted “December 31, 1977” for “December 31, 1974”.
-
-Subsec. (d). Pub. L. 93–390, § 2(3)(B), substituted “insurance or reinsurance issued under [section 2194 of this title](./chapter-032-foreign-assistance.md#section-2194)” for “insurance issued under [section 2194(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2194/a&num=0&edition=prelim)”.
-
-Subsec. (f). Pub. L. 93–390, § 2(3)(C), inserted provisions authorizing appropriations to discharge liabilities under reinsurance or obligations of the Corporation purchased by the Secretary of the Treasury, provisions relating to appropriations to augment the Insurance Reserve, and provisions relating to the issuance, sale, etc., of notes, debentures, bonds, or other obligations by the Corporation for purchase by the Secretary of the Treasury.
-
-1973—Subsec. (a)(4). Pub. L. 93–189 substituted “December 31, 1974” for “June 30, 1974”.
-
-#### Effective Date of Repeal
-Repeal effective at the end of the transition period, as defined in [section 9681 of this title](./chapter-103-better-utilization-of-investments-leading-to-development.md#section-9681), see [section 9684 of this title](./chapter-103-better-utilization-of-investments-leading-to-development.md#section-9684).
-
-#### Extension of Period Under Subsection (a)(2)
-For delayed applicability of subsec. (a)(2), see section 7079(c) of Pub. L. 111–117, set out as a note under [section 2194 of this title](./chapter-032-foreign-assistance.md#section-2194).
-
-
-<a id="section-2196"></a>
-## § 2196. Income and revenues
-
-In order to carry out the purposes of the Corporation, all revenues and income transferred to or earned by the Corporation, from whatever source derived, shall be held by the Corporation and shall be available to carry out its purposes, including without limitation—
-
-**(a)** payment of all expenses of the Corporation, including investment promotion expenses;
-
-**(b)** transfers and additions to the insurance or guaranty reserves, the Direct Investment Fund established pursuant to [section 2195 of this title](./chapter-032-foreign-assistance.md#section-2195), and such other funds or reserves as the Corporation may establish, at such time and in such amounts as the Board may determine; and
-
-**(c)** payment of dividends, on capital stock, which shall consist of and be paid from net earnings of the Corporation after payments, transfers, and additions under subsections (a) and (b) hereof.
-
-### Statutory Notes
-
-#### Repeal of Section
-Pub. L. 115–254, div. F, title VI, § 1464(2), Oct. 5, 2018, 132 Stat. 3513, provided that, effective at the end of the transition period, as defined in [section 9681 of this title](./chapter-103-better-utilization-of-investments-leading-to-development.md#section-9681), this section is repealed.
+Section 2196, Pub. L. 87–195, pt. I, § 236, as added Pub. L. 91–175, pt. I, § 105, Dec. 30, 1969, 83 Stat. 814, related to income and revenues.
 
 #### Effective Date of Repeal
 Repeal effective at the end of the transition period, as defined in [section 9681 of this title](./chapter-103-better-utilization-of-investments-leading-to-development.md#section-9681), see [section 9684 of this title](./chapter-103-better-utilization-of-investments-leading-to-development.md#section-9684).
@@ -5786,33 +5417,11 @@ Repeal effective at the end of the transition period, as defined in [section 968
 
 <a id="section-2197"></a>
 ## § 2197. General provisions relating to insurance, guaranty, financing, and reinsurance programs
-**(a) Scope** Insurance, guaranties, and reinsurance issued under this subpart shall cover investment made in connection with projects in any less developed friendly country or area with the government of which the President of the United States has agreed to institute a program for insurance, guaranties, or reinsurance.
-
-**(b) Protection of interest** The Corporation shall determine that suitable arrangements exist for protecting the interest of the Corporation in connection with any insurance, guaranty or reinsurance issued under this subpart, including arrangements concerning ownership, use, and disposition of the currency, credits, assets, or investments on account of which payment under such insurance, guaranty or reinsurance is to be made, and any right, title, claim, or cause of action existing in connection therewith.
-
-**(c) Guaranties as obligations backed by full faith and credit of United States** All guaranties issued prior to July 1, 1956, all guaranties issued under sections 1872(b) 11 See References in Text note below. and 1933(b) 1 of this title, all guaranties heretofore issued pursuant to prior guaranty authorities repealed by the Foreign Assistance Act of 1969, and all insurance, reinsurance and guaranties issued pursuant to this subpart shall constitute obligations, in accordance with the terms of such insurance, reinsurance or guaranties, of the United States of America and the full faith and credit of the United States of America is hereby pledged for the full payment and performance of such obligations.
-
-**(d) Fees**
-
-(1) **In general** — Fees may be charged for providing insurance, reinsurance, financing, and other services under this subpart in amounts to be determined by the Corporation. In the event fees charged for insurance, reinsurance, financing, or other services are reduced, fees to be paid under existing contracts for the same type of insurance, reinsurance, financing, or services and for similar guarantees issued under predecessor guarantee authority may be reduced.
-
-(2) **Credit transaction costs** — Project-specific transaction costs incurred by the Corporation relating to loan obligations or loan guarantee commitments covered by the provisions of the Federal Credit Reform Act of 1990 [[2 U.S.C. 661](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section661&num=0&edition=prelim) et seq.], including the costs of project-related travel and expenses for legal representation provided by persons outside the Corporation and other similar expenses which are charged to the borrower, shall be paid out of the appropriate finance account established pursuant to section 505(b) of such Act [[2 U.S.C. 661d(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section661d/b&num=0&edition=prelim)].
-
-(3) **Noncredit transaction costs** — Fees paid for the project-specific transaction costs and other direct costs associated with services provided to specific investors or potential investors pursuant to [section 2194 of this title](./chapter-032-foreign-assistance.md#section-2194) (other than those covered in paragraph (2)), including financing, insurance, reinsurance, missions, seminars, conferences, and other preinvestment services, shall be available for obligation for the purposes for which they were collected, notwithstanding any other provision of law.
-
-**(e) Maximum term of obligation** No insurance, guaranty, or reinsurance of any equity investment shall extend beyond twenty years from the date of issuance.
-
-**(f) Limitations on amounts** Compensation for insurance, reinsurance, or guaranties issued under this subpart shall not exceed the dollar value, as of the date of the investment, of the investment made in the proj­ect with the approval of the Corporation plus interest, earnings, or profits actually accrued on such investment to the extent provided by such insurance, reinsurance, or guaranty, except that the Corporation may provide that (1) appropriate adjustments in the insured dollar value be made to reflect the replacement cost of project assets, (2) compensation for a claim of loss under insurance of an equity investment may be computed on the basis of the net book value attributable to such equity investment on the date of loss, and (3) compensation for loss due to business interruption may be computed on a basis to be determined by the Corporation which reflects amounts lost. Notwithstanding the preceding sentence, the Corporation shall limit the amount of direct insurance and reinsurance issued by it under section 2194 or 2194b of this title so that risk of loss as to at least 10 per centum of the total investment of the insured and its affiliates in the project is borne by the insured and such affiliates, except that such limitation shall not apply to direct insurance or reinsurance of loans by banks or other financial institutions to unrelated parties.
+**(a) to (f). Repealed. Pub. L. 115–254, div. F, title VI, § 1464(2), Oct. 5, 2018, 132 Stat. 3513**
 
 **(g) Fraud or misrepresentation** No payment may be made under any guaranty, insurance, or reinsurance issued pursuant to this subpart for any loss arising out of fraud or misrepresentation for which the party seeking payment is responsible.
 
-**(h) Limits of obligation** Insurance, guaranties, or reinsurance of a loan or equity investment of an eligible investor in a foreign bank, finance company, or other credit institution shall extend only to such loan or equity investment and not to any individual loan or equity investment made by such foreign bank, finance company, or other credit institution.
-
-**(i) Claims settlement** Claims arising as a result of insurance, reinsurance, or guaranty operations under this subpart or under predecessor guaranty authority may be settled, and disputes arising as a result thereof may be arbitrated with the consent of the parties, on such terms and conditions as the Corporation may determine. Payment made pursuant to any such settlement, or as a result of an arbitration award, shall be final and conclusive notwithstanding any other provision of law.
-
-**(j) Presumption of compliance** Each guaranty contract executed by such officer or officers as may be designated by the Board shall be conclusively presumed to be issued in compliance with the requirements of this chapter.
-
-**(k) Balance of payments** In making a determination to issue insurance, guaranties, or reinsurance under this subpart, the Corporation shall consider the possible adverse effect of the dollar investment under such insurance, guaranty, or reinsurance upon the balance of payments of the United States.
+**(h) to (k) Repealed. Pub. L. 115–254, div. F, title VI, § 1464(2), Oct. 5, 2018, 132 Stat. 3513**
 
 **(l) Convictions under Foreign Corrupt Practices Act of 1977; prohibition on payments for losses resulting from unlawful activities; suspension from eligibility of receipt of financial support**
 
@@ -5827,7 +5436,7 @@ Repeal effective at the end of the transition period, as defined in [section 968
   (A) all guidelines and other standards adopted by the International Bank for Reconstruction and Development and any other international organization relating to the public health or safety or the environment which are applicable to the project; and
 
   (B) to the maximum extent practicable, any restriction under any law of the United States relating to public health or safety or the environment that would apply to the project if the project were undertaken in the United States.
-  The notification under the preceding sentence shall include a summary of the guidelines, standards, and restrictions referred to in subparagraphs (A) and (B), and may include any environmental impact statement, assessment, review, or study prepared with respect to the investment pursuant to [section 2199(g) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2199/g&num=0&edition=prelim).
+  The notification under the preceding sentence shall include a summary of the guidelines, standards, and restrictions referred to in subparagraphs (A) and (B), and may include any environmental impact statement, assessment, review, or study prepared with respect to the investment pursuant to section 2199(g) 11 See References in Text note below. of this title.
 
 (2) Before finally providing insurance, reinsurance, guarantees, or financing for any investment subject to paragraph (1), the Corporation shall take into account any comments it receives on the project involved.
 
@@ -5837,25 +5446,16 @@ Repeal effective at the end of the transition period, as defined in [section 968
 
   (B) for which the Corporation provided insurance, reinsurance, guarantees, or financing under this subpart before December 23, 1985, and which is in the Corporation’s portfolio on that date.
 
-**(n) Penalties for fraud** Whoever knowingly makes any false statement or report, or willfully overvalues any land, property, or security, for the purpose of influencing in any way the action of the Corporation with respect to any insurance, reinsurance, guarantee, loan, equity investment, or other activity of the Corporation under [section 2194 of this title](./chapter-032-foreign-assistance.md#section-2194) or any change or extension of any such insurance, reinsurance, guarantee, loan, equity investment, or activity, by renewal, deferment of action or otherwise, or the acceptance, release, or substitution of security therefor, shall be fined not more than $1,000,000 or imprisoned not more than 30 years, or both.
-
-**(o) Use of local currencies** Direct loans or investments made in order to preserve the value of funds received in inconvertible foreign currency by the Corporation as a result of activities conducted pursuant to [section 2194(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2194/a&num=0&edition=prelim) shall not be considered in determining whether the Corporation has made or has outstanding loans or investments to the extent of any limitation on obligations and equity investment imposed by or pursuant to this subpart. The provisions of section 504(b) of the Federal Credit Reform Act of 1990 [[2 U.S.C. 661c(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section661c/b&num=0&edition=prelim)] shall not apply to direct loan obligations made with funds described in this subsection.
+**(n) Penalties for fraud** Whoever knowingly makes any false statement or report, or willfully overvalues any land, property, or security, for the purpose of influencing in any way the action of the Corporation with respect to any insurance, reinsurance, guarantee, loan, equity investment, or other activity of the Corporation under section 2194 1 of this title or any change or extension of any such insurance, reinsurance, guarantee, loan, equity investment, or activity, by renewal, deferment of action or otherwise, or the acceptance, release, or substitution of security therefor, shall be fined not more than $1,000,000 or imprisoned not more than 30 years, or both.
 
 ### Statutory Notes
 
-#### Amendment of Section
-Pub. L. 115–254, div. F, title VI, § 1464(2), Oct. 5, 2018, 132 Stat. 3513, provided that, effective at the end of the transition period, as defined in [section 9681 of this title](./chapter-103-better-utilization-of-investments-leading-to-development.md#section-9681), subsections (a) to (f), (h) to (k), and (o) of this section are repealed. See 2018 Amendment note below.
-
 #### References in Text
-Sections 1872(b) and 1933(b) of this title, referred to in subsec. (c), were repealed by Pub. L. 87–195, pt. III, § 642(a)(2), Sept. 4, 1961, 75 Stat. 460. Section 642(b) of Pub. L. 87–195 provided that references to provisions of law repealed by subsec. (a) were to be deemed references to the appropriate provisions of Pub. L. 87–195. See sections 2163 and 2351 of this title.
-
-The Foreign Assistance Act of 1969, referred to in subsec. (c), is Pub. L. 91–175, Dec. 30, 1969, 83 Stat. 805, as amended. For complete classification of this Act to the Code, see Short Title note set out under [section 2151 of this title](./chapter-032-foreign-assistance.md#section-2151) and Tables. The guaranty authorities repealed by the 1969 Act were the guaranty authorities contained in sections 2181 to 2184 prior to the general reorganization of subpart III by the 1969 Act.
-
-The Federal Credit Reform Act of 1990, referred to in subsec. (d)(2), is title V of Pub. L. 93–344, as added by Pub. L. 101–508, title XIII, § 13201(a), Nov. 5, 1990, 104 Stat. 1388–609, which is classified generally to subchapter III (§ 661 et seq.) of chapter 17A of Title 2, The Congress. For complete classification of this Act to the Code, see Short Title note set out under [section 621 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section621&num=0&edition=prelim) and Tables.
-
-This chapter, referred to in subsec. (j), was in the original “this Act”, meaning Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, as amended, known as the Foreign Assistance Act of 1961. For complete classification of this Act to the Code, see Short Title note set out under [section 2151 of this title](./chapter-032-foreign-assistance.md#section-2151) and Tables.
-
 The Foreign Corrupt Practices Act of 1977, referred to in subsec. (l), is title I of Pub. L. 95–213, Dec. 19, 1977, 91 Stat. 1494, as amended, which enacted sections 78dd–1 to 78dd–3 of Title 15, Commerce and Trade, and amended sections 78m and 78ff of Title 15. For complete classification of this Act to the Code, see Short Title of 1977 Amendment note set out under [section 78a of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section78a&num=0&edition=prelim) and Tables.
+
+[Section 2199(g) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2199/g&num=0&edition=prelim), referred to in subsec. (m)(1), was repealed by Pub. L. 115–254, div. F, title VI, § 1464(2), Oct. 5, 2018, 132 Stat. 3513.
+
+[Section 2194 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2194&num=0&edition=prelim), referred to in subsec. (n), was repealed by Pub. L. 115–254, div. F, title VI, § 1464(2), Oct. 5, 2018, 132 Stat. 3513.
 
 #### Codification
 Amendment by Pub. L. 100–461 is based on section 110(c) of title I of H.R. 5263, One Hundredth Congress, as passed by the House of Representatives on Sept. 20, 1988, and section 110(c) of title I of S. 2757, One Hundredth Congress, as reported Sept. 7, 1988, and enacted into law by Pub. L. 100–461.
@@ -5900,332 +5500,30 @@ Amendment by Pub. L. 115–254 effective at the end of the transition period, as
 For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under [section 2381 of this title](./chapter-032-foreign-assistance.md#section-2381).
 
 
-<a id="section-2198"></a>
-## § 2198. Definitions
-
-As used in this subpart—
-
-**(a)** the term “investment” includes any contribution or commitment of funds, commodities, services, patents, processes, or techniques, in the form of (1) a loan or loans to an approved project, (2) the purchase of a share of ownership in any such project, (3) participation in royalties, earnings, or profits of any such project, and (4) the furnishing of commodities or services pursuant to a lease or other contract;
-
-**(b)** the term “expropriation” includes, but is not limited to, any abrogation, repudiation, or impairment by a foreign government, a political subdivision of a foreign government, or a corporation owned or controlled by a foreign government, of its own contract with an investor with respect to a project, where such abrogation, repudiation, or impairment is not caused by the investor’s own fault or misconduct, and materially adversely affects the continued operation of the project;
-
-**(c)** the term “eligible investor” means: (1) United States citizens; (2) corporations, partnerships, or other associations including nonprofit associations, created under the laws of the United States, any State or territory thereof, or the District of Columbia, and substantially beneficially owned by United States citizens; and (3) foreign corporations, partnerships, of other associations wholly owned by one or more such United States citizens, corporations, partnerships, or other associations: Provided, however, That the eligibility of such foreign corporation shall be determined without regard to any shares, in aggregate less than 5 per centum of the total of issued and subscribed share capital, held by other than the United States owners: Provided further, That in the case of any loan investment a final determination of eligibility may be made at the time the insurance or guaranty is issued; in all other cases, the investor must be eligible at the time a claim arises as well as at the time the insurance or guaranty is issued;
-
-**(d)** the term “noncredit account revolving fund” means the account in which funds under [section 2196 of this title](./chapter-032-foreign-assistance.md#section-2196) and all funds from noncredit activities are held;
-
-**(e)** the term “noncredit activities” means all activities of the Corporation other than its loan guarantee program under [section 2194(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2194/b&num=0&edition=prelim) and its direct loan program under [section 2194(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2194/c&num=0&edition=prelim);
-
-**(f)** the term “predecessor guaranty authority” means prior guaranty authorities (other than housing guaranty authorities) repealed by the Foreign Assistance Act of 1969, and sections 1509(b)(3), 1872(b), and 1933(b) 11 See References in Text note below. of this title (exclusive of authority relating to informational media guaranties); and
-
-**(g)** the term “local financial institution”—
-
-(1) means any bank or financial institution that is organized under the laws of any country or area in which the Corporation operates; but
-
-(2) does not include a branch, however organized, of a bank or other financial institution that is organized under the laws of a country in which the Corporation does not operate.
+<a id="section-2198-to-2200b"></a>
+## § 2198 to 2200b. Repealed. Pub. L. 115–254, div. F, title VI, § 1464(2), Oct. 5, 2018, 132 Stat. 3513
 
 ### Statutory Notes
 
-#### Repeal of Section
-Pub. L. 115–254, div. F, title VI, § 1464(2), Oct. 5, 2018, 132 Stat. 3513, provided that, effective at the end of the transition period, as defined in [section 9681 of this title](./chapter-103-better-utilization-of-investments-leading-to-development.md#section-9681), this section is repealed.
+Section 2198, Pub. L. 87–195, pt. I, § 238, as added Pub. L. 91–175, pt. I, § 105, Dec. 30, 1969, 83 Stat. 815; amended Pub. L. 92–226, pt. I, § 104(a), Feb. 7, 1972, 86 Stat. 22; Pub. L. 97–65, § 7, Oct. 16, 1981, 95 Stat. 1024; Pub. L. 99–204, § 17(a), Dec. 23, 1985, 99 Stat. 1676; Pub. L. 102–549, title I, § 106, Oct. 28, 1992, 106 Stat. 3653; Pub. L. 108–158, §§ 4(b), 5(b), Dec. 3, 2003, 117 Stat. 1950, defined terms as used in this subpart.
 
-#### References in Text
-The Foreign Assistance Act of 1969, referred to in subsec. (f), is Pub. L. 91–175, Dec. 30, 1969, 83 Stat. 805, as amended. For complete classification of this Act to the Code, see Short Title of 1969 Amendment note set out under [section 2151 of this title](./chapter-032-foreign-assistance.md#section-2151) and Tables. The guaranty authorities repealed by the 1969 Act were the guaranty authorities contained in sections 2181 to 2184 prior to the general reorganization of subpart III by the 1969 Act.
+Section 2199, Pub. L. 87–195, pt. I, § 239, as added Pub. L. 91–175, pt. I, § 105, Dec. 30, 1969, 83 Stat. 816; amended Pub. L. 92–226, pt. I, § 104(b), Feb. 7, 1972, 86 Stat. 22; Pub. L. 92–310, title II, § 227(d), June 6, 1972, 86 Stat. 207; Pub. L. 93–390, § 2(5), Aug. 27, 1974, 88 Stat. 768; Pub. L. 95–268, §§ 7, 8, Apr. 24, 1978, 92 Stat. 215, 216; Pub. L. 95–598, title III, § 318, Nov. 6, 1978, 92 Stat. 2678; Pub. L. 96–327, Aug. 8, 1980, 94 Stat. 1026; Pub. L. 97–65, § 8, Oct. 16, 1981, 95 Stat. 1024; Pub. L. 97–113, title VII, § 705(b)(2), Dec. 29, 1981, 95 Stat. 1545; Pub. L. 99–204, §§ 4(c), 11–13, Dec. 23, 1985, 99 Stat. 1670, 1673, 1674; Pub. L. 100–461, title V, § 555, Oct. 1, 1988, 102 Stat. 2268–36; Pub. L. 101–167, title V, § 597(a), Nov. 21, 1989, 103 Stat. 1257; Pub. L. 101–179, title III, § 302(a), Nov. 28, 1989, 103 Stat. 1311; Pub. L. 101–513, title V, § 576(a), Nov. 5, 1990, 104 Stat. 2044; Pub. L. 102–549, title I, § 107, Oct. 28, 1992, 106 Stat. 3654; Pub. L. 105–118, title V, § 579(a), Nov. 26, 1997, 111 Stat. 2435; Pub. L. 108–271, § 8(b), July 7, 2004, 118 Stat. 814, related to general provisions and powers.
 
-[Section 1509(b)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section1509/b/3&num=0&edition=prelim), referred to in subsec. (f), was repealed by act Aug. 26, 1954, ch. 937, title V, § 542(a)(4), 68 Stat. 861.
+Section 2200, Pub. L. 87–195, pt. I, § 240, as added Pub. L. 95–268, § 9, Apr. 24, 1978, 92 Stat. 216; amended Pub. L. 99–204, § 9(b)(3), Dec. 23, 1985, 99 Stat. 1673; Pub. L. 108–158, § 6(a), Dec. 3, 2003, 117 Stat. 1950, related to small business development in less developed friendly countries or areas; encouragement by other Federal departments, etc., of broadened participation by United States small business cooperatives and investors; project funding.
 
-Sections 1872(b) and 1933(b) of this title, referred to in subsec. (f), were repealed by Pub. L. 87–195, pt. III, § 642(a)(2), Sept. 4, 1961, 75 Stat. 460. Section 642(b) of Pub. L. 87–195 provided that references to provisions of law repealed by subsec. (a) were to be deemed references to the appropriate provisions of Pub. L. 87–195. See sections 2163 and 2351 of this title.
-
-#### Amendments
-2003—Subsec. (b). Pub. L. 108–158, § 4(b), inserted “, a political subdivision of a foreign government, or a corporation owned or controlled by a foreign government,” after “government”.
-
-Subsec. (d). Pub. L. 108–158, § 5(b)(1), struck out “and” after semicolon at end.
-
-Subsec. (g). Pub. L. 108–158, § 5(b)(2), (3), added subsec. (g).
-
-1992—Subsecs. (c) to (f). Pub. L. 102–549 struck out “and” at end of subsec. (c), added subsecs. (d) and (e), and redesignated former subsec. (d) as (f).
-
-1985—Subsec. (c)(2). Pub. L. 99–204 inserted reference to the District of Columbia.
-
-1981—Subsec. (a). Pub. L. 97–65 substituted “contribution or commitment of funds” for “contribution of funds”.
-
-1972—Subsec. (c). Pub. L. 92–226 struck out “required by law to be” after “share capital,” in first proviso.
-
-#### Effective Date of Repeal
-Repeal effective at the end of the transition period, as defined in [section 9681 of this title](./chapter-103-better-utilization-of-investments-leading-to-development.md#section-9681), see [section 9684 of this title](./chapter-103-better-utilization-of-investments-leading-to-development.md#section-9684).
-
-
-<a id="section-2199"></a>
-## § 2199. General provisions and powers
-**(a) Place of residence** The Corporation shall have its principal office in the District of Columbia and shall be deemed, for purposes of venue in civil actions, to be a resident thereof.
-
-**(b) Transfer of prior obligations, etc.; administration prior to transfer** The President shall transfer to the Corporation, at such time as he may determine, all obligations, assets and related rights and responsibilities arising out of, or related to, predecessor programs and authorities similar to those provided for in section 2194(a), (b), and (d) of this title. Until such transfer, the agency heretofore responsible for such predecessor programs shall continue to administer such assets and obligations, and such programs and activities authorized under this subpart as may be determined by the President.
-
-**(c) Audits of the Corporation**
-
-(1) The Corporation shall be subject to the applicable provisions of chapter 91 of title 31, except as otherwise provided in this subpart.
-
-(2) An independent certified public accountant shall perform a financial and compliance audit of the financial statements of the Corporation at least once every three years, in accordance with generally accepted Government auditing standards for a financial and compliance audit, as issued by the Comptroller General. The independent certified public accountant shall report the results of such audit to the Board. The financial statements of the Corporation shall be presented in accordance with generally accepted accounting principles. These financial statements and the report of the accountant shall be included in a report which contains, to the extent applicable, the information identified in [section 9106 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section9106&num=0&edition=prelim), and which the Corporation shall submit to the Congress not later than six and one-half months after the end of the last fiscal year covered by the audit. The Government Accountability Office may review the audit conducted by the accountant and the report to the Congress in the manner and at such times as the Government Accountability Office considers necessary.
-
-(3) In lieu of the financial and compliance audit required by paragraph (2), the Government Accountability Office shall, if the Office considers it necessary or upon the request of the Congress, audit the financial statements of the Corporation in the manner provided in paragraph (2). The Corporation shall reimburse the Government Accountability Office for the full cost of any audit conducted under this paragraph.
-
-(4) All books, accounts, financial records, reports, files, workpapers, and property belonging to or in use by the Corporation and the accountant who conducts the audit under paragraph (2), which are necessary for purposes of this subsection, shall be made available to the representatives of the Government Accountability Office.
-
-**(d) Powers of Corporation** To carry out the purposes of this subpart, the Corporation is authorized to adopt and use a corporate seal, which shall be judicially noticed; to sue and be sued in its corporate name; to adopt, amend, and repeal bylaws governing the conduct of its business and the performance of the powers and duties granted to or imposed upon it by law; to acquire, hold or dispose of, upon such terms and conditions as the Corporation may determine, any property, real, personal, or mixed, tangible or intangible, or any interest therein; to invest funds derived from fees and other revenues in obligations of the United States and to use the proceeds therefrom, including earnings and profits, as it shall deem appropriate; to indemnify directors, officers, employees and agents of the Corporation for liabilities and expenses incurred in connection with their Corporation activities; notwithstanding any other provision of law, to represent itself or to contract for representation in all legal and arbitral proceedings; to enter into limited-term contracts with nationals of the United States for personal services to carry out activities in the United States and abroad under subsections (d) and (e) of [section 2194 of this title](./chapter-032-foreign-assistance.md#section-2194); to purchase, discount, rediscount, sell, and negotiate, with or without its endorsement or guaranty, and guarantee notes, participation certificates, and other evidence of indebtedness (provided that the Corporation shall not issue its own securities, except participation certificates for the purpose of carrying out section 2191(c) or participation certificates as evidence of indebtedness held by the Corporation in connection with settlement of claims under [section 2197(i) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2197/i&num=0&edition=prelim)); to make and carry out such contracts and agreements as are necessary and advisable in the conduct of its business; to exercise any priority of the Government of the United States in collecting debts from bankrupt, insolvent, or decedents’ estates; to determine the character of and the necessity for its obligations and expenditures, and the manner in which they shall be incurred, allowed, and paid, subject to provisions of law specifically applicable to Government corporations; to collect or compromise any obligations assigned to or held by the Corporation, including any legal or equitable rights accruing to the Corporation; and to take such actions as may be necessary or appropriate to carry out the powers herein or hereafter specifically conferred upon it.
-
-**(e) Reviews, investigations, and inspections by Inspector General of Agency for International Development** The Inspector General of the Agency for International Development (1) may conduct reviews, investigations, and inspections of all phases of the Corporation’s operations and activities and (2) shall conduct all security activities of the Corporation relating to personnel and the control of classified material. With respect to his responsibilities under this subsection, the Inspector General shall report to the Board. The agency primarily responsible for administering subchapter I of this chapter shall be reimbursed by the Corporation for all expenses incurred by the Inspector General in connection with his responsibilities under this subsection.
-
-**(f) Programs for Yugoslavia, Poland, Hungary, Romania, the People’s Republic of China, or Pakistan; national interest** Except for the provisions of this subpart, no other provision of this chapter or any other law shall be construed to prohibit the operation in Yugoslavia, Poland, Hungary, or any other East European country, or the People’s Republic of China, or Pakistan of the programs authorized by this subpart, if the President determines that the operation of such program in such country is important to the national interest.
-
-**(g) Environmental impact assessments** The requirements of [section 2151p(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2151p/c&num=0&edition=prelim) relating to environmental impact statements and environmental assessments shall apply to any investment which the Corporation insures, reinsures, guarantees, or finances under this subpart in connection with a project in a country.
-
-**(h) Preparation, maintenance, and contents of development impact profile for investment projects; development of criteria for evaluating projects** In order to carry out the policy set forth in paragraph (1) of the second undesignated paragraph of [section 2191 of this title](./chapter-032-foreign-assistance.md#section-2191), the Corporation shall prepare and maintain for each investment project it insures, finances, or reinsures, a development impact profile consisting of data appropriate to measure the projected and actual effects of such project on development. Criteria for evaluating projects shall be developed in consultation with the Agency for International Development.
-
-**(i) Observance of and respect for human rights and fundamental freedoms as considerations for conduct of assistance programs, etc.; provisions applicable for determinations; exceptions** The Corporation shall take into account in the conduct of its programs in a country, in consultation with the Secretary of State, all available information about observance of and respect for human rights and fundamental freedoms in such country and the effect the operation of such programs will have on human rights and fundamental freedoms in such country. The provisions of [section 2151n of this title](./chapter-032-foreign-assistance.md#section-2151n) shall apply to any insurance, reinsurance, guaranty, or loan issued by the Corporation for proj­ects in a country, except that in addition to the exception (with respect to benefiting needy people) set forth in subsection (a) of such section, the Corporation may support a project if the national security interest so requires.
-
-**(j) Exemption from taxation** The Corporation, including its franchise, capital, reserves, surplus, advances, intangible property, and income, shall be exempt from all taxation at any time imposed by the United States, by any territory, dependency, or possession of the United States, or by any State, the District of Columbia, or any county, municipality, or local taxing authority.
-
-**(k) Publication of policy guidelines** The Corporation shall publish, and make available to applicants for insurance, reinsurance, guarantees, financing, or other assistance made available by the Corporation under this subpart, the policy guidelines of the Corporation relating to its programs.
-
-### Statutory Notes
-
-#### Repeal of Section
-Pub. L. 115–254, div. F, title VI, § 1464(2), Oct. 5, 2018, 132 Stat. 3513, provided that, effective at the end of the transition period, as defined in [section 9681 of this title](./chapter-103-better-utilization-of-investments-leading-to-development.md#section-9681), this section is repealed.
-
-#### References to Subchapter I Deemed To Include Certain Parts of Subchapter II
-References to subchapter I of this chapter are deemed to include parts IV (§ 2346 et seq.), VI (§ 2348 et seq.), and VIII (§ 2349aa et seq.) of subchapter II of this chapter, and references to subchapter II are deemed to exclude such parts. See section 202(b) of Pub. L. 92–226, set out as a note under [section 2346 of this title](./chapter-032-foreign-assistance.md#section-2346), and sections 2348c and 2349aa–5 of this title.
-
-#### Codification
-Amendment by Pub. L. 100–461 is based on sections 108 and 110(a)(2) of title I of H.R. 5263, One Hundredth Congress, as passed by the House of Representatives on Sept. 20, 1988, and sections 108 and 110(a)(2) of title I of S. 2757, One Hundredth Congress, as reported Sept. 7, 1988, and enacted into law by Pub. L. 100–461.
-
-#### Amendments
-2004—Subsec. (c)(2) to (4). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office” wherever appearing.
-
-1997—Subsec. (f). Pub. L. 105–118 inserted “, or Pakistan” after “China”.
-
-1992—Subsec. (d). Pub. L. 102–549, after “legal and arbitral proceedings;”, inserted “to enter into limited-term contracts with nationals of the United States for personal services to carry out activities in the United States and abroad under subsections (d) and (e) of [section 2194 of this title](./chapter-032-foreign-assistance.md#section-2194);”.
-
-1990—Subsec. (f). Pub. L. 101–513 inserted “or any other East European country,” after “Hungary,”.
-
-1989—Subsec. (f). Pub. L. 101–179 inserted “, Poland, Hungary,” after “Yugoslavia”.
-
-Pub. L. 101–167, which directed amendment of subsec. (f) by inserting “Poland, Hungary,” after “Yugoslavia,”, did not take effect due to similar amendment by section 302(a) of Pub. L. 101–179. See amendment note above and section 302(c) of Pub. L. 101–179, set out below.
-
-1988—Subsec. (f). Pub. L. 100–461, which directed that “, Romania,” be struck out, was executed by striking out “, Romania” after “Yugoslavia”, as the probable intent of Congress, because no comma followed “Romania” in original.
-
-Subsec. (g). Pub. L. 100–461 made technical amendment to reference to [section 2151p(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2151p/c&num=0&edition=prelim) to reflect renumbering of corresponding section of original act.
-
-1985—Subsec. (c). Pub. L. 99–204, § 11, amended subsec. (c) generally, designating existing provisions as par. (1), substituting “chapter 91 of title 31” for “the Government Corporation Control Act”, and adding pars. (2) to (4).
-
-Subsec. (g). Pub. L. 99–204, § 4(c), amended subsec. (g) generally. Prior to amendment, subsec. (g) read as follows: “Within six months after August 27, 1974, the Corporation shall develop and implement specific criteria intended to minimize the potential environmental implications of projects undertaken by investors abroad in accordance with any of the programs authorized by this subpart.”
-
-Subsecs. (j), (k). Pub. L. 99–204, §§ 12, 13, added subsecs. (j) and (k).
-
-1981—Subsec. (d). Pub. L. 97–65, § 8(1), inserted provision authorizing the Corporation to collect or compromise any obligations assigned to or held by the Corporation, including any legal or equitable rights accruing to the Corporation.
-
-Subsec. (e). Pub. L. 97–65, § 8(2)(A), and Pub. L. 97–113, § 705(b)(2), made identical amendments by substituting references to Inspector General for references to Auditor-General wherever appearing.
-
-Pub. L. 97–65, § 8(2)(B), substituted language referring to Inspector General’s authority to reviews, investigate, and conduct inspections of all phases of the Corporation’s operations and activities for provisions which had formerly placed upon that official the responsibility for planning and directing the execution of audits, reviews, investigations, and inspections of all phases of the Corporation’s operations and activities.
-
-Subsecs. (f) to (l). Pub. L. 97–65, § 8(3), redesignated subsecs. (g), (h), (i), and (l) as (f), (g), (h), and (i), respectively. Former subsecs. (f) providing for the establishment of an Advisory Council, (j) providing limits for projects involving the exploration for or the mining of or other extraction of copper, and (k) prohibiting the granting of insurance, reinsurance, guaranty, financing, or other financial support for projects to establish or expand production or processing of palm oil, sugar, or citrus crops for export, were struck out.
-
-1980—Subsec. (g). Pub. L. 96–327 substituted “Yugoslavia, Romania or the People’s Republic of China” for “Yugoslavia or Romania”.
-
-1978—Subsec. (b). Pub. L. 95–268, § 7(1), struck out provisions relating to the cessation on Dec. 31, 1979, of programs operated by the Corporation under sections 2194(b) to (e) and 2200 of this title and transfer by the President of such programs and all obligations, etc., arising out of such programs to other agencies of the United States.
-
-Subsec. (d). Pub. L. 95–598 substituted “any priority” for “the priority”.
-
-Pub. L. 95–268, § 7(2), inserted provision relating to participation certificates as evidence of indebtedness held by Corporation for settlement of claims under [section 2197(i) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2197/i&num=0&edition=prelim).
-
-Subsecs. (i) to (k). Pub. L. 95–268, § 7(3), added subsecs. (i) to (k).
-
-Subsec. (l). Pub. L. 95–268, § 8, added subsec. (l).
-
-1974—Subsec. (b). Pub. L. 93–390, § 2(5)(A), inserted provisions relating to the cessation on Dec. 31, 1979, of programs operated by the Corporation under sections 2194(b) to (e) and 2200 of this title and transfer by the President of such programs and all obligations, etc., arising out of such programs to other agencies of the United States.
-
-Subsec. (h). Pub. L. 93–390, § 2(5)(B), added subsec. (h).
-
-1972—Subsec. (d). Pub. L. 92–310 struck out provisions which authorized the Corporation to require bonds of officers and employees and to pay premiums therefor.
-
-Subsec. (g). Pub. L. 92–226 added subsec. (g).
-
-#### Effective Date of Repeal
-Repeal effective at the end of the transition period, as defined in [section 9681 of this title](./chapter-103-better-utilization-of-investments-leading-to-development.md#section-9681), see [section 9684 of this title](./chapter-103-better-utilization-of-investments-leading-to-development.md#section-9684).
-
-#### Effective Date of 1978 Amendment
-Amendment by Pub. L. 95–598 effective Oct. 1, 1979, see section 402(a) of Pub. L. 95–598, set out as an Effective Date note preceding [section 101 of Title 11](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title11-section101&num=0&edition=prelim), Bankruptcy.
-
-#### Delegation of Functions
-For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under [section 2381 of this title](./chapter-032-foreign-assistance.md#section-2381).
-
-#### Termination of Advisory Councils
-Advisory councils in existence on Jan. 5, 1973, to terminate not later than the expiration of the 2-year period following Jan. 5, 1973, unless, in the case of a council established by the President or an officer of the Federal Government, such council is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a council established by the Congress, its duration is otherwise provided by law. See sections 3(2) and 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, 776, set out in the Appendix to Title 5, Government Organization and Employees.
-
-#### Enhancement of Nongovernmental Sector in Poland and Hungary
-Pub. L. 101–179, title III, § 302(b), Nov. 28, 1989, 103 Stat. 1311, provided that: “In accordance with its mandate to foster private initiative and competition and enhance the ability of private enterprise to make its full contribution to the development process, the Overseas Private Investment Corporation shall support projects in Poland and Hungary which will result in enhancement of the nongovernmental sector and reduction of state involvement in the economy.”
-
-#### Avoidance of Duplicative Amendments
-Pub. L. 101–179, title III, § 302(c), Nov. 28, 1989, 103 Stat. 1311, provided that: “If the Foreign Operations, Export Financing, and Related Programs Appropriations Act, 1990 [Pub. L. 101–167], contains the same amendment that is made by subsection (a) of this section [see 1989 Amendment note set out above], the amendment made by that Act shall not be effective.”
-
-
-<a id="section-2200"></a>
-## § 2200. Small business development in less developed friendly countries or areas; encouragement by other Federal departments, etc., of broadened participation by United States small business cooperatives and investors; project funding
-**(a) In general** The Corporation shall undertake, in cooperation with appropriate departments, agencies, and instrumentalities of the United States as well as private entities and others, to broaden the participation of United States small business, cooperatives, and other small United States investors in the development of small private enterprise in less developed friendly countries or areas. The Corporation shall allocate up to 50 per cent of its annual net income, after making suitable provision for transfers and additions to reserves, to assist and facilitate the development of projects consistent with the provisions of this section. Such funds may be expended, notwithstanding the requirements of [section 2191(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2191/a&num=0&edition=prelim), on such terms and conditions as the Corporation may determine, through loans, grants, or other programs authorized by [section 2194 of this title](./chapter-032-foreign-assistance.md#section-2194) and [section 2194b of this title](./chapter-032-foreign-assistance.md#section-2194b).
-
-**(b) Outreach to minority-owned and women-owned businesses** The Corporation shall collect data on the involvement of minority- and women-owned businesses in projects supported by the Corporation, including—
-
-(1) the amount of insurance and financing provided by the Corporation to such businesses in connection with projects supported by the Corporation; and
-
-(2) to the extent such information is available, the involvement of such businesses in procurement activities conducted or supported by the Corporation.
-The Corporation shall include, in its annual report submitted to the Congress under [section 2200a of this title](./chapter-032-foreign-assistance.md#section-2200a), the aggregate data collected under this paragraph, in such form as to quantify the effectiveness of the Corporation’s outreach activities to minority- and women-owned businesses.
-
-### Statutory Notes
-
-#### Repeal of Section
-Pub. L. 115–254, div. F, title VI, § 1464(2), Oct. 5, 2018, 132 Stat. 3513, provided that, effective at the end of the transition period, as defined in [section 9681 of this title](./chapter-103-better-utilization-of-investments-leading-to-development.md#section-9681), this section is repealed.
-
-#### Prior Provisions
 A prior section 2200, Pub. L. 87–195, pt. I, § 240, as added Pub. L. 91–175, pt. I, § 105, Dec. 30, 1969, 83 Stat. 817; amended Pub. L. 92–226, pt. I, § 104(c), Feb. 7, 1972, 86 Stat. 22; Pub. L. 93–189, § 6(2), Dec. 17, 1973, 87 Stat. 717; Pub. L. 93–390, § 2(6), Aug. 27, 1974, 88 Stat. 768, provided for agricultural credit and self-help community development projects in Latin America, prior to repeal by Pub. L. 93–559, § 8(b), Dec. 30, 1974, 88 Stat. 1797. See [section 2182a of this title](./chapter-032-foreign-assistance.md#section-2182a).
 
-#### Amendments
-2003—Pub. L. 108–158 designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
+Section 2200a, Pub. L. 87–195, pt. I, § 240A, as added Pub. L. 91–175, pt. I, § 105, Dec. 30, 1969, 83 Stat. 818; amended Pub. L. 93–390, § 2(7), Aug. 27, 1974, 88 Stat. 768; Pub. L. 95–268, § 10, Apr. 24, 1978, 92 Stat. 216; Pub. L. 97–65, § 9, formerly § 9(a), Oct. 16, 1981, 95 Stat. 1024, renumbered § 9, Pub. L. 99–204, § 17(c)(1), Dec. 23, 1985, 99 Stat. 1677; Pub. L. 99–204, § 14(a), Dec. 23, 1985, 99 Stat. 1674; Pub. L. 100–461, title V, § 555, Oct. 1, 1988, 102 Stat. 2268–36; Pub. L. 102–549, title I, § 108, Oct. 28, 1992, 106 Stat. 3654, required report to Congress after the end of each fiscal year.
 
-1985—Pub. L. 99–204 inserted reference to [section 2194b of this title](./chapter-032-foreign-assistance.md#section-2194b).
+Section 2200b, Pub. L. 87–195, pt. I, § 240B, as added Pub. L. 102–549, title I, § 109, Oct. 28, 1992, 106 Stat. 3654, related to prohibition on noncompetitive awarding of insurance contracts on OPIC supported exports.
 
-#### Effective Date of Repeal
-Repeal effective at the end of the transition period, as defined in [section 9681 of this title](./chapter-103-better-utilization-of-investments-leading-to-development.md#section-9681), see [section 9684 of this title](./chapter-103-better-utilization-of-investments-leading-to-development.md#section-9684).
-
-
-<a id="section-2200a"></a>
-## § 2200a. Report to Congress
-**(a) Annual report** After the end of each fiscal year, the Corporation shall submit to the Congress a complete and detailed report of its operations during such fiscal year. Such report shall include—
-
-(1) an assessment, based upon the development impact profiles required by [section 2199(h) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2199/h&num=0&edition=prelim), of the economic and social development impact and benefits of the projects with respect to which such profiles are prepared, and of the extent to which the operations of the Corporation complement or are compatible with the development assistance programs of the United States and other donors; and
-
-(2) a description of any project for which the Corporation—
-
-  (A) refused to provide any insurance, reinsurance, guaranty, financing, or other financial support, on account of violations of human rights referred to in [section 2199(i) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2199/i&num=0&edition=prelim); or
-
-  (B) notwithstanding such violations, provided such insurance, reinsurance, guaranty, financing, or financial support, on the basis of a determination (i) that the project will directly benefit the needy people in the country in which the project is located, or (ii) that the national security interest so requires.
-
-**(b) Effect of all projects on employment in United States to be included in annual report**
-
-(1) Each annual report required by subsection (a) shall contain projections of the effects on employment in the United States of all projects for which, during the preceding fiscal year, the Corporation initially issued any insurance, reinsurance, or guaranty or made any direct loan. Each such report shall include projections of—
-
-  (A) the amount of United States exports to be generated by those projects, both during the start-up phase and over a period of years;
-
-  (B) the final destination of the products to be produced as a result of those projects; and
-
-  (C) the impact such production will have on the production of similar products in the United States with regard to both domestic sales and exports.
-
-(2) The projections required by this subsection shall be based on an analysis of each of the projects described in paragraph (1).
-
-(3) In reporting the projections on employment required by this subsection, the Corporation shall specify, with respect to each project—
-
-  (A) any loss of jobs in the United States caused by the project, whether or not the project itself creates other jobs;
-
-  (B) any jobs created by the project; and
-
-  (C) the country in which the project is located, and the economic sector involved in the project.
-  No proprietary information may be disclosed under this paragraph.
-
-**(c) Repealed. Pub. L. 100–461, title V, § 555, Oct. 1, 1988, 102 Stat. 2268–36**
-
-**(d) Maintenance of records** The Corporation shall maintain as part of its records—
-
-(1) all information collected in preparing the report required by subsection (c) (as in effect before October 1, 1988), whether the information was collected by the Corporation itself or by a contractor; and
-
-(2) a copy of the analysis of each project analyzed in preparing the reports required either by subsection (b), or by subsection (c) (as in effect before October 1, 1988).
-
-**(e) Assessment of cooperative political risk insurance program** Each annual report required by subsection (a) shall include an assessment of programs implemented by the Corporation under [section 2194b(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2194b/a&num=0&edition=prelim), including the following information, to the extent such information is available to the Corporation:
-
-(1) The nature and dollar value of political risk insurance provided by private insurers in conjunction with the Corporation, which the Corporation was not permitted to provide under this subpart.
-
-(2) The nature and dollar value of political risk insurance provided by private insurers in conjunction with the Corporation, which the Corporation was permitted to provide under this subpart.
-
-(3) The manner in which such private insurers and the Corporation cooperated in recovery efforts and claims management.
-
-**(f) Information not required to be made available to public excluded from reports** Subsections (b) and (e) do not require the inclusion in any report submitted pursuant to those subsections of any information which would not be required to be made available to the public pursuant to [section 552 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section552&num=0&edition=prelim) (relating to freedom of information).
-
-### Statutory Notes
-
-#### Repeal of Section
-Pub. L. 115–254, div. F, title VI, § 1464(2), Oct. 5, 2018, 132 Stat. 3513, provided that, effective at the end of the transition period, as defined in [section 9681 of this title](./chapter-103-better-utilization-of-investments-leading-to-development.md#section-9681), this section is repealed.
-
-#### Codification
-Amendment by Pub. L. 100–461 is based on sections 105(b) and 110(b) of title I of H.R. 5263, One Hundredth Congress, as passed by the House of Representatives on Sept. 20, 1988, and sections 105(b) and 110(b) of title I of S. 2757, One Hundredth Congress, as reported Sept. 7, 1988, and enacted into law by Pub. L. 100–461.
-
-#### Amendments
-1992—Subsec. (b)(2), (3). Pub. L. 102–549 added pars. (2) and (3) and struck out former par. (2) which read as follows: “Each report required by this subsection shall be based on an analysis of each of the projects described in paragraph (1). The reports may, however, present information and analysis in aggregate form, but only if—
-
-“(A) those projects which are projected to have a positive effect on employment in the United States and those projects which are projected to have a negative effect on employment in the United States are grouped separately; and
-
-“(B) there is set forth for each such grouping the key characteristics of the projects within that grouping, including the number of projects in each economic sector, the countries in which the projects in each economic sector are located, and the projected level of the impact of the projects in each economic sector on employment in the United States and on United States trade.”
-
-1988—Subsec. (c). Pub. L. 100–461 repealed subsec. (c) which related to actual effect of all projects on employment in United States as of Sept. 30, 1986, presentation of information, and methodology used in acquiring information and making analysis.
-
-Subsec. (d)(1). Pub. L. 100–461 inserted “(as in effect before October 1, 1988)” after “subsection (c)”.
-
-Subsec. (d)(2). Pub. L. 100–461 substituted “either by subsection (b), or by subsection (c) (as in effect before October 1, 1988)” for “by either subsection (b) or (c)”.
-
-Subsec. (e). Pub. L. 100–461 added subsec. (e). Former subsec. (e) redesignated (f).
-
-Subsec. (f). Pub. L. 100–461 redesignated subsec. (e) as (f) and substituted “(e)” for “(c)”.
-
-1985—Pub. L. 99–204, § 14(a), designated existing provisions as subsec. (a) and added subsecs. (b) to (e).
-
-1981—Pub. L. 97–65 struck out designation “(a)” before “After the end of each fiscal year”, substituted references to section 2199(h) and (i) of this title for references to section 2199(i) and (l) of this title, respectively, in pars. (1) and (2)(A), and struck out subsec. (b) which had provided that, not later than Sept. 30, 1980, the Corporation was to submit to the Congress a report on the development of private and multilateral programs for investment insurance and any reinsurance arrangements the Corporation had made with private insurance companies, multilateral organizations and institutions or other entities.
-
-1978—Subsec. (a). Pub. L. 95–268 added cls. (1) and (2) setting forth required contents of report.
-
-Subsec. (b). Pub. L. 95–268 substituted provisions relating to report to be submitted not later than Sept. 30, 1980 involving the development and any arrangements by the Corporation with private insurance companies, etc., for provisions relating to report submitted not later than Jan. 1, 1976 involving the possibilities of the Corporation transferring all of its activities to private insurance companies, etc.
-
-1974—Subsec. (b). Pub. L. 93–390 substituted “January 1, 1976” for “March 1, 1974” and “of its activities to private insurance companies, multilateral organizations and institutions, or other entities” for “or part of its activities to private United States citizens, corporations, or other associations”.
+A prior section 2200b, Pub. L. 87–195, pt. I, § 240B, as added Pub. L. 97–65, § 10, Oct. 16, 1981, 95 Stat. 1024, related to return of appropriated funds, prior to repeal by Pub. L. 99–204, § 15, Dec. 23, 1985, 99 Stat. 1676.
 
 #### Effective Date of Repeal
 Repeal effective at the end of the transition period, as defined in [section 9681 of this title](./chapter-103-better-utilization-of-investments-leading-to-development.md#section-9681), see [section 9684 of this title](./chapter-103-better-utilization-of-investments-leading-to-development.md#section-9684).
 
 #### Report to Congress Not Later Than June 30, 1982, on Methods for Estimating the Impact on Investments if Insurance or Other Support is Not Provided
 Pub. L. 97–65, § 9(b), Oct. 16, 1981, 95 Stat. 1024, which provided for a report to Congress by the Overseas Private Investment Corporation on the effect on investments of lack of insurance, was repealed by Pub. L. 99–204, § 17(c)(2), Dec. 23, 1985, 99 Stat. 1677.
-
-
-<a id="section-2200b"></a>
-## § 2200b. Prohibition on noncompetitive awarding of insurance contracts on OPIC supported exports
-**(a) Requirement for certification**
-
-(1) **In general** — Except as provided in paragraph (3), the investor on whose behalf insurance, reinsurance, guaranties, or other financing is provided under this subpart with respect to a project shall be required to certify to the Corporation that any contract for the export of goods as part of that project will include a clause requiring that United States insurance companies have a fair and open competitive opportunity to provide insurance against risk of loss of such export.
-
-(2) **When certification must be made** — The investor shall be required, in every practicable case, to so certify before the insurance, reinsurance, guarantee, or other financing is provided. In any case in which such a certification is not made in advance, the investor shall include in the certification the reasons for the failure to make a certification in advance.
-
-(3) **Exception** — Paragraph (1) does not apply with respect to an investor who does not, because of the nature of the investment, have a controlling interest in fact in the project in question.
-
-**(b) Reports by United States Trade Representative** The United States Trade Representative shall review the actions of the Corporation under subsection (a) and, after consultation with representatives of United States insurance companies, shall report to the Congress in the report required by [section 2241(b) of title 19](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section2241/b&num=0&edition=prelim) with respect to such actions.
-
-**(c) Definitions** For purposes of this section—
-
-(1) the term “United States insurance company” includes—
-
-  (A) an individual, partnership, corporation, holding company, or other legal entity which is authorized, or in the case of a holding company, subsidiaries of which are authorized, by a State to engage in the business of issuing insurance contracts or reinsuring the risk underwritten by insurance companies; and
-
-  (B) foreign operations, branches, agencies, subsidiaries, affiliates, or joint ventures of any entity described in subparagraph (A);
-
-(2) United States insurance companies shall be considered to have had a “fair and open competitive opportunity to provide insurance” if they—
-
-  (A) have received notice of the opportunity to provide insurance; and
-
-  (B) have been evaluated on a nondiscriminatory basis; and
-
-(3) the term “State” includes the District of Columbia and any commonwealth, territory, or possession of the United States.
-
-### Statutory Notes
-
-#### Repeal of Section
-Pub. L. 115–254, div. F, title VI, § 1464(2), Oct. 5, 2018, 132 Stat. 3513, provided that, effective at the end of the transition period, as defined in [section 9681 of this title](./chapter-103-better-utilization-of-investments-leading-to-development.md#section-9681), this section is repealed.
-
-#### Prior Provisions
-A prior section 2200b, Pub. L. 87–195, pt. I, § 240B, as added Pub. L. 97–65, § 10, Oct. 16, 1981, 95 Stat. 1024, related to return of appropriated funds, prior to repeal by Pub. L. 99–204, § 15, Dec. 23, 1985, 99 Stat. 1676.
-
-#### Effective Date of Repeal
-Repeal effective at the end of the transition period, as defined in [section 9681 of this title](./chapter-103-better-utilization-of-investments-leading-to-development.md#section-9681), see [section 9684 of this title](./chapter-103-better-utilization-of-investments-leading-to-development.md#section-9684).
 
 
 <a id="section-2201"></a>
@@ -6236,14 +5534,14 @@ Repeal effective at the end of the transition period, as defined in [section 968
 
 ### Statutory Notes
 
-#### References to Part I Deemed To Include Section 2293
-References to part I of this subchapter are deemed to include a reference to [section 2293 of this title](./chapter-032-foreign-assistance.md#section-2293). See [section 2293(d)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2293/d/1&num=0&edition=prelim).
-
 #### Prior Provisions
 A prior section 2201, Pub. L. 87–195, pt. I, § 241, Sept. 4, 1961, 75 Stat. 433; Pub. L. 88–205, pt. I, § 105, Dec. 16, 1963, 77 Stat. 382, related to general authority of President respecting development research and use of funds for research into problems of population growth, prior to repeal by Pub. L. 94–161, title III, § 306(1), Dec. 20, 1975, 89 Stat. 858.
 
 #### Amendments
 1985—Subsec. (b). Pub. L. 99–83 substituted “$3,000,000” for “$2,000,000”.
+
+#### References to Part I Deemed To Include Section 2293
+References to part I of this subchapter are deemed to include a reference to [section 2293 of this title](./chapter-032-foreign-assistance.md#section-2293). See [section 2293(d)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2293/d/1&num=0&edition=prelim).
 
 #### Effective Date of 1985 Amendment
 Amendment by Pub. L. 99–83 effective Oct. 1, 1985, see section 1301 of Pub. L. 99–83, set out as a note under [section 2151–1 of this title](./chapter-032-foreign-assistance.md#section-2151-1).
@@ -6460,9 +5758,6 @@ Notwithstanding any other provision of law, amounts made available for developme
 
 ### Statutory Notes
 
-#### References to Subchapter I Deemed To Include Certain Parts of Subchapter II
-References to subchapter I of this chapter are deemed to include parts IV (§ 2346 et seq.), VI (§ 2348 et seq.), and VIII (§ 2349aa et seq.) of subchapter II of this chapter, and references to subchapter II are deemed to exclude such parts. See section 202(b) of Pub. L. 92–226 set out as a note under [section 2346 of this title](./chapter-032-foreign-assistance.md#section-2346), and sections 2348c and 2349aa–5 of this title.
-
 #### Codification
 Section was formerly classified to [section 2151f of this title](./chapter-032-foreign-assistance.md#section-2151f).
 
@@ -6516,11 +5811,11 @@ Subsec. (f)(1). Pub. L. 108–31, § 2(e), substituted “for each of fiscal yea
 
 1985—Subsec. (b). Pub. L. 99–83 substituted “each of the fiscal years 1986 and 1987, up to $18,000,000” for “fiscal year 1984, up to $20,000,000”.
 
+#### References to Subchapter I Deemed To Include Certain Parts of Subchapter II
+References to subchapter I of this chapter are deemed to include parts IV (§ 2346 et seq.), VI (§ 2348 et seq.), and VIII (§ 2349aa et seq.) of subchapter II of this chapter, and references to subchapter II are deemed to exclude such parts. See section 202(b) of Pub. L. 92–226 set out as a note under [section 2346 of this title](./chapter-032-foreign-assistance.md#section-2346), and sections 2348c and 2349aa–5 of this title.
+
 #### Effective Date of 1985 Amendment
 Amendment by Pub. L. 99–83 effective Oct. 1, 1985, see section 1301 of Pub. L. 99–83, set out as a note under [section 2151–1 of this title](./chapter-032-foreign-assistance.md#section-2151-1).
-
-#### Delegation of Functions
-For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under [section 2381 of this title](./chapter-032-foreign-assistance.md#section-2381).
 
 #### Report to Congress
 Pub. L. 108–31, § 4, June 17, 2003, 117 Stat. 778, as amended by Pub. L. 108–484, § 8(b), Dec. 23, 2004, 118 Stat. 3931, provided that: “Not later than September 30, 2005, the Administrator of the United States Agency for International Development shall submit to Congress a report that documents the process of developing and applying poverty assessment procedures with its partners.”
@@ -6533,6 +5828,9 @@ Pub. L. 106–309, title I, § 103, Oct. 17, 2000, 114 Stat. 1081, as amended by
 
 #### Definitions
 Pub. L. 106–309, title I, § 104, Oct. 17, 2000, 114 Stat. 1082, as amended by Pub. L. 108–31, § 1(b), June 17, 2003, 117 Stat. 775, provided that: “In this title [see Short Title of 2000 Amendments note set out under [section 2151 of this title](./chapter-032-foreign-assistance.md#section-2151)]: “(1) Business development services.—The term ‘business development services’ means support for the growth of microenterprises through training, technical assistance, marketing assistance, improved production technologies, and other services. “(2) Microenterprise institution.—The term ‘microenterprise institution’ means an institution that provides services, including microfinance, training, or business development services, to microentrepreneurs and their households. “(3) Microfinance institution.—The term ‘microfinance institution’ means an institution that directly provides, or works to expand, the availability of credit, savings, and other financial services to microentrepreneurs. “(4) Practitioner institution.—The term ‘practitioner institution’ means any institution that provides services, including microfinance, training, or business development services, for microentrepreneurs, or provides assistance to microenterprise institutions. “(5) Very poor.—The term ‘very poor’ means individuals—“(A) living in the bottom 50 percent below the poverty line established by the national government of the country in which those individuals live; or “(B) living on the equivalent of less than $1 per day.”
+
+#### Delegation of Functions
+For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under [section 2381 of this title](./chapter-032-foreign-assistance.md#section-2381).
 
 
 <a id="section-2213"></a>
@@ -6585,9 +5883,6 @@ Pub. L. 106–309, title I, § 104, Oct. 17, 2000, 114 Stat. 1082, as amended by
 
 ### Statutory Notes
 
-#### References to Subchapter I Deemed To Include Certain Parts of Subchapter II
-References to subchapter I of this chapter are deemed to include parts IV (§ 2346 et seq.), VI (§ 2348 et seq.), and VIII (§ 2349aa et seq.) of subchapter II of this chapter, and references to subchapter II are deemed to exclude such parts. See section 202(b) of Pub. L. 92–226, set out as a note under [section 2346 of this title](./chapter-032-foreign-assistance.md#section-2346), and sections 2348c and 2349aa–5 of this title.
-
 #### Codification
 Section was formerly classified to [section 2152b of this title](./chapter-032-foreign-assistance.md#section-2152b).
 
@@ -6606,6 +5901,9 @@ Subsec. (b)(2). Pub. L. 115–428, § 4(g)(2)(B), substituted “financial inter
 Subsec.(d)(1). Pub. L. 108—484, § 5(c)(2)(B), substituted “for each of the fiscal years 2005 through 2009, such sums as may be necessary” for “for the fiscal year 2001, up to $5,000,000”.
 
 Subsec. (e). Pub. L. 108–484, § 5(c)(2)(C), struck out heading and text of subsec. (e) which defined “Administrator”, “appropriate congressional committees”, and “United States-supported microfinance institution” for purposes of this section.
+
+#### References to Subchapter I Deemed To Include Certain Parts of Subchapter II
+References to subchapter I of this chapter are deemed to include parts IV (§ 2346 et seq.), VI (§ 2348 et seq.), and VIII (§ 2349aa et seq.) of subchapter II of this chapter, and references to subchapter II are deemed to exclude such parts. See section 202(b) of Pub. L. 92–226, set out as a note under [section 2346 of this title](./chapter-032-foreign-assistance.md#section-2346), and sections 2348c and 2349aa–5 of this title.
 
 
 <a id="section-2214"></a>
@@ -6695,9 +5993,6 @@ In this subpart:
 
 ### Statutory Notes
 
-#### References to Subchapter I Deemed To Include Certain Parts of Subchapter II
-References to subchapter I of this chapter are deemed to include parts IV (§ 2346 et seq.), VI (§ 2348 et seq.), and VIII (§ 2349aa et seq.) of subchapter II of this chapter, and references to subchapter II are deemed to exclude such parts. See section 202(b) of Pub. L. 92–226, set out as a note under [section 2346 of this title](./chapter-032-foreign-assistance.md#section-2346), and sections 2348c and 2349aa–5 of this title.
-
 #### Amendments
 2019—Par. (3). Pub. L. 115–428, § 4(i)(1), substituted “Committee on Foreign Affairs of the House of Representatives” for “Committee on International Relations of the House of Representatives”.
 
@@ -6718,6 +6013,9 @@ Par. (11). Pub. L. 115–428, § 4(i)(6), redesignated par. (12) as (11). Former
 Par. (12). Pub. L. 115–428, § 4(i)(6), (9), redesignated par. (13) as (12) and substituted “United states-supported financial intermediary” for “United States-supported microfinance institution” in heading and text. Former par. (12) redesignated (11).
 
 Pars. (13), (14). Pub. L. 115–428, § 4(i)(6), (10), redesignated par. (14) as (13) and amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “living on less than the equivalent of $1 per day (as calculated using the purchasing power parity (PPP) exchange rate method).” Former par. (13) redesignated (12).
+
+#### References to Subchapter I Deemed To Include Certain Parts of Subchapter II
+References to subchapter I of this chapter are deemed to include parts IV (§ 2346 et seq.), VI (§ 2348 et seq.), and VIII (§ 2349aa et seq.) of subchapter II of this chapter, and references to subchapter II are deemed to exclude such parts. See section 202(b) of Pub. L. 92–226, set out as a note under [section 2346 of this title](./chapter-032-foreign-assistance.md#section-2346), and sections 2348c and 2349aa–5 of this title.
 
 #### Change of Name
 Committee on International Relations of House of Representatives changed to Committee on Foreign Affairs of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
@@ -6778,12 +6076,6 @@ Section, Pub. L. 87–195, pt. I, § 273, as added Pub. L. 89–583, pt. I, § 1
 #### References in Text
 This chapter, referred to in subsec. (b)(2), was in the original “this Act”, meaning Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, as amended, known as the Foreign Assistance Act of 1961. For complete classification of this Act to the Code, see Short Title note set out under [section 2151 of this title](./chapter-032-foreign-assistance.md#section-2151) and Tables.
 
-#### References to Subchapter I Deemed To Include Certain Parts of Subchapter II
-References to subchapter I of this chapter are deemed to include parts IV (§ 2346 et seq.), VI (§ 2348 et seq.), and VIII (§ 2349aa et seq.) of subchapter II of this chapter, and references to subchapter II are deemed to exclude such parts. See section 202(b) of Pub. L. 92–226, set out as a note under [section 2346 of this title](./chapter-032-foreign-assistance.md#section-2346), and sections 2348c and 2349aa–5 of this title.
-
-#### References to Part I Deemed To Include Section 2293
-References to part I of this subchapter are deemed to include a reference to [section 2293 of this title](./chapter-032-foreign-assistance.md#section-2293). See [section 2293(d)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2293/d/1&num=0&edition=prelim).
-
 #### Amendments
 1978—Subsecs. (a), (b), (c), (e). Pub. L. 95–424 inserted “and part 1 of this subchapter” after “this part”.
 
@@ -6792,6 +6084,12 @@ References to part I of this subchapter are deemed to include a reference to [se
 Subsec. (e). Pub. L. 90–554, § 106(b), added subsec. (e).
 
 1967—Pub. L. 90–137 designated existing provisions as subsec. (a) and added subsecs. (b) to (d).
+
+#### References to Subchapter I Deemed To Include Certain Parts of Subchapter II
+References to subchapter I of this chapter are deemed to include parts IV (§ 2346 et seq.), VI (§ 2348 et seq.), and VIII (§ 2349aa et seq.) of subchapter II of this chapter, and references to subchapter II are deemed to exclude such parts. See section 202(b) of Pub. L. 92–226, set out as a note under [section 2346 of this title](./chapter-032-foreign-assistance.md#section-2346), and sections 2348c and 2349aa–5 of this title.
+
+#### References to Part I Deemed To Include Section 2293
+References to part I of this subchapter are deemed to include a reference to [section 2293 of this title](./chapter-032-foreign-assistance.md#section-2293). See [section 2293(d)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2293/d/1&num=0&edition=prelim).
 
 #### Effective Date of 1978 Amendment
 Amendment by Pub. L. 95–424 effective Oct. 1, 1978, see section 605 of Pub. L. 95–424, set out as a note under [section 2151 of this title](./chapter-032-foreign-assistance.md#section-2151).
@@ -7160,11 +6458,11 @@ The President shall transmit to the Congress, not later than September 1 of each
 #### Amendments
 2000—Pub. L. 106–373 substituted “September 1” for “April 1”.
 
-#### Delegation of Functions
-For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under [section 2381 of this title](./chapter-032-foreign-assistance.md#section-2381).
-
 #### Termination of Reporting Requirements
 For termination, effective May 15, 2000, of provisions of law requiring submittal to Congress of any annual, semiannual, or other regular periodic report listed in House Document No. 103–7 (in which a report required under this section is listed on page 25), see section 3003 of Pub. L. 104–66, as amended, set out as a note under [section 1113 of Title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1113&num=0&edition=prelim), Money and Finance.
+
+#### Delegation of Functions
+For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under [section 2381 of this title](./chapter-032-foreign-assistance.md#section-2381).
 
 
 <a id="section-2221"></a>
@@ -7193,9 +6491,6 @@ For termination, effective May 15, 2000, of provisions of law requiring submitta
 
 #### References in Text
 This chapter, referred to in subsec. (d), was in the original “this Act”, meaning Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, as amended, known as the Foreign Assistance Act of 1961. For complete classification of this Act to the Code, see Short Title note set out under [section 2151 of this title](./chapter-032-foreign-assistance.md#section-2151) and Tables.
-
-#### References to Subchapter I Deemed To Include Certain Parts of Subchapter II
-References to subchapter I of this chapter are deemed to include parts IV (§ 2346 et seq.), VI (§ 2348 et seq.), and VIII (§ 2349aa et seq.) of subchapter II of this chapter, and references to subchapter II are deemed to exclude such parts. See section 202(b) of Pub. L. 92–226, set out as a note under [section 2346 of this title](./chapter-032-foreign-assistance.md#section-2346), and sections 2348c and 2349aa–5 of this title.
 
 #### Amendments
 1981—Subsec. (b). Pub. L. 97–113, § 734(a)(1), struck out subsec. (b) which limited contributions to United Nations Development Program and restricted assistance to Cuba. See [section 2370(f) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2370/f&num=0&edition=prelim).
@@ -7232,16 +6527,19 @@ Subsec. (c). Pub. L. 89–583, § 107(c), substituted provisions limiting contri
 
 1965—Subsec. (c). Pub. L. 89–171 limited contributions by the United States to the United Nations Relief and Works Agency for Palestine Refugees in the Near East to $15,200,000 for the calendar year 1966.
 
+#### References to Subchapter I Deemed To Include Certain Parts of Subchapter II
+References to subchapter I of this chapter are deemed to include parts IV (§ 2346 et seq.), VI (§ 2348 et seq.), and VIII (§ 2349aa et seq.) of subchapter II of this chapter, and references to subchapter II are deemed to exclude such parts. See section 202(b) of Pub. L. 92–226, set out as a note under [section 2346 of this title](./chapter-032-foreign-assistance.md#section-2346), and sections 2348c and 2349aa–5 of this title.
+
 #### Effective Date of 1978 Amendment
 Amendment by Pub. L. 95–424 effective Oct. 1, 1978, see section 605 of Pub. L. 95–424, set out as a note under [section 2151 of this title](./chapter-032-foreign-assistance.md#section-2151).
-
-#### Delegation of Functions
-For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under [section 2381 of this title](./chapter-032-foreign-assistance.md#section-2381).
 
 #### Use of Contributions for Projects in Cuba
 Pub. L. 91–194, title I, § 100, Feb. 9, 1970, 84 Stat. 5, provided in part: “That the President shall seek to assure that no contribution to the United Nations Development Program authorized by the Foreign Assistance Act of 1961, as amended [section 2151 et seq. of this title], shall be used for projects for economic or technical assistance to the Government of Cuba, so long as Cuba is governed by the Castro regime.”
 
 Similar provisions were contained in Pub. L. 89–691, title I, § 100, Oct. 15, 1966, 80 Stat. 1018; Pub. L. 90–249, title I, § 100, Jan. 2, 1968, 81 Stat. 936; Pub. L. 90–581, title I, § 100, Oct. 17, 1968, 82 Stat. 1137.
+
+#### Delegation of Functions
+For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under [section 2381 of this title](./chapter-032-foreign-assistance.md#section-2381).
 
 
 <a id="section-2222"></a>
@@ -7435,14 +6733,14 @@ Amendment by Pub. L. 96–53 effective Oct. 1, 1979, see section 512(a) of Pub. 
 #### Effective Date of 1978 Amendment
 Amendment by Pub. L. 95–424 effective Oct. 1, 1978, see section 605 of Pub. L. 95–424, set out as a note under [section 2151 of this title](./chapter-032-foreign-assistance.md#section-2151).
 
-#### Delegation of Functions
-For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under [section 2381 of this title](./chapter-032-foreign-assistance.md#section-2381).
-
 #### Report to Congress on Palestine Refugee Ration Distribution System
 Pub. L. 95–424, title I, § 117(b)(2), Oct. 6, 1978, 92 Stat. 953, which provided that, not later than Jan. 31, 1979, the Secretary of State provide the Committee on Foreign Relations of the Senate and the Committee on International Relations of the House of Representatives with a full and detailed report on the progress made by the Commissioner-General of the United Nations Relief and Works Agency to improve the ration distribution system so that food to Palestine refugees can be more equitably distributed on the basis of need, rather than entitlement, was repealed by Pub. L. 97–113, title VII, § 734(a)(5), Dec. 29, 1981, 95 Stat. 1560.
 
 #### Authorization of Appropriations for Contributions to the World Assembly on Aging
-Pub. L. 95–424, title I, § 117(e), Oct. 6, 1978, 92 Stat. 953, authorized, in addition to amounts otherwise available, expenditures to the President not to exceed $1,000,000 for contributions to the World Assembly on Aging to be convened under the auspices of the United Nations, except that the amount so contributed may not exceed 25 percent of the expenditures of such Assembly.
+Pub. L. 95–424, title I, § 117(e), Oct. 6, 1978, 92 Stat. 953, authorized, in addition to amounts otherwise available, expenditures to the President not to exceed $1,000,000 for contributions to the World Assembly on Aging to be convened under the auspices of the United Nations, except that the amount so contributed could not exceed 25 percent of the expenditures of such Assembly.
+
+#### Delegation of Functions
+For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under [section 2381 of this title](./chapter-032-foreign-assistance.md#section-2381).
 
 
 <a id="section-2223"></a>
@@ -7455,11 +6753,11 @@ In the event that funds made available under this chapter (other than subchapter
 #### References in Text
 This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, as amended, known as the Foreign Assistance Act of 1961. For complete classification of this Act to the Code, see Short Title note set out under [section 2151 of this title](./chapter-032-foreign-assistance.md#section-2151) and Tables.
 
-#### References to Subchapter II Deemed To Exclude Certain Parts of Subchapter II
-References to subchapter II of this chapter are deemed to exclude parts IV (§ 2346 et seq.), VI (§ 2348 et seq.), and VIII (§ 2349aa et seq.) of subchapter II, and references to subchapter I of this chapter are deemed to include such parts. See section 202(b) of Pub. L. 92–226, set out as a note under [section 2346 of this title](./chapter-032-foreign-assistance.md#section-2346), and sections 2348c and 2349aa–5 of this title.
-
 #### Codification
 In text, “[section 55305 of title 46](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section55305&num=0&edition=prelim)” substituted for “section 901(b) of the Merchant Marine Act, 1936, as amended ([46 U.S.C. 1241](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section1241&num=0&edition=prelim))” and “said section 55305” substituted for “said section 901(b)” on authority of Pub. L. 109–304, § 18(c), Oct. 6, 2006, 120 Stat. 1709, which Act enacted [section 55305 of Title 46](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section55305&num=0&edition=prelim), Shipping.
+
+#### References to Subchapter II Deemed To Exclude Certain Parts of Subchapter II
+References to subchapter II of this chapter are deemed to exclude parts IV (§ 2346 et seq.), VI (§ 2348 et seq.), and VIII (§ 2349aa et seq.) of subchapter II, and references to subchapter I of this chapter are deemed to include such parts. See section 202(b) of Pub. L. 92–226, set out as a note under [section 2346 of this title](./chapter-032-foreign-assistance.md#section-2346), and sections 2348c and 2349aa–5 of this title.
 
 #### Delegation of Functions
 For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under [section 2381 of this title](./chapter-032-foreign-assistance.md#section-2381).
@@ -7701,12 +6999,6 @@ For subject matters of sections 2241 to 2243 of this title, see sections 2346, 2
 #### References in Text
 This chapter, referred to in subsec. (a)(1), was in the original “this Act”, meaning Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, as amended, known as the Foreign Assistance Act of 1961. For complete classification of this Act to the Code, see Short Title note set out under [section 2151 of this title](./chapter-032-foreign-assistance.md#section-2151) and Tables.
 
-#### References to Subchapter I Deemed To Include Certain Parts of Subchapter II
-References to subchapter I of this chapter are deemed to include parts IV (§ 2346 et seq.), VI (§ 2348 et seq.), and VIII (§ 2349aa et seq.) of subchapter II of this chapter, and references to subchapter II are deemed to exclude such parts. See section 202(b) of Pub. L. 92–226, set out as a note under [section 2346 of this title](./chapter-032-foreign-assistance.md#section-2346), and sections 2348c and 2349aa–5 of this title.
-
-#### References to Part I Deemed To Include Section 2293
-References to part I of this subchapter are deemed to include a reference to [section 2293 of this title](./chapter-032-foreign-assistance.md#section-2293). See [section 2293(d)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2293/d/1&num=0&edition=prelim).
-
 #### Amendments
 1990—Subsec. (a)(1). Pub. L. 101–513 struck out “not to exceed $10,000,000 of” after “authorized to use” and “in any fiscal year” after “funds made available”, substituted “unanticipated contingencies” for “emergency purposes”, and directed the amendment of subsec. (a) by inserting before the period “, except that the authority of this subsection may not be used to authorize the use of more than $25,000,000 during any fiscal year”, which was executed by making the insertion before the period in par. (1) to reflect the probable intent of Congress.
 
@@ -7758,11 +7050,17 @@ Subsec. (b). Pub. L. 89–171, § 108(b), substituted “the first sentence of s
 
 Subsec. (b). Pub. L. 87–565, § 109(b), substituted “provide quarterly reports to” for “keep”, and “on the programing and the obligation” for “currently informed of the use”.
 
-#### Delegation of Functions
-For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under [section 2381 of this title](./chapter-032-foreign-assistance.md#section-2381).
+#### References to Subchapter I Deemed To Include Certain Parts of Subchapter II
+References to subchapter I of this chapter are deemed to include parts IV (§ 2346 et seq.), VI (§ 2348 et seq.), and VIII (§ 2349aa et seq.) of subchapter II of this chapter, and references to subchapter II are deemed to exclude such parts. See section 202(b) of Pub. L. 92–226, set out as a note under [section 2346 of this title](./chapter-032-foreign-assistance.md#section-2346), and sections 2348c and 2349aa–5 of this title.
+
+#### References to Part I Deemed To Include Section 2293
+References to part I of this subchapter are deemed to include a reference to [section 2293 of this title](./chapter-032-foreign-assistance.md#section-2293). See [section 2293(d)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2293/d/1&num=0&edition=prelim).
 
 #### Appropriation for Disaster Relief of Unallocated Excess Foreign Currencies Held in Pakistan
 Pub. L. 91–652, § 6(b), Jan. 5, 1971, 84 Stat. 1943, authorized the appropriation of excess foreign currencies held in Pakistan not allocated on Jan. 5, 1971, for a period of one year from such date to help Pakistan withstand the disaster which had occurred.
+
+#### Delegation of Functions
+For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under [section 2381 of this title](./chapter-032-foreign-assistance.md#section-2381).
 
 
 <a id="section-2262"></a>
@@ -7894,11 +7192,11 @@ Another section 463 of Pub. L. 87–195 is classified to [section 2283 of this t
 
 ### Statutory Notes
 
-#### References to Subchapter I Deemed To Include Certain Parts of Subchapter II
-References to subchapter I of this chapter are deemed to include parts IV (§ 2346 et seq.), VI (§ 2348 et seq.), and VIII (§ 2349aa et seq.) of subchapter II of this chapter, and references to subchapter II are deemed to exclude such parts. See section 202(b) of Pub. L. 92–226, set out as a note under [section 2346 of this title](./chapter-032-foreign-assistance.md#section-2346), and sections 2348c and 2349aa–5 of this title.
-
 #### Codification
 Another section 464 of Pub. L. 87–195 is classified to [section 2284 of this title](./chapter-032-foreign-assistance.md#section-2284).
+
+#### References to Subchapter I Deemed To Include Certain Parts of Subchapter II
+References to subchapter I of this chapter are deemed to include parts IV (§ 2346 et seq.), VI (§ 2348 et seq.), and VIII (§ 2349aa et seq.) of subchapter II of this chapter, and references to subchapter II are deemed to exclude such parts. See section 202(b) of Pub. L. 92–226, set out as a note under [section 2346 of this title](./chapter-032-foreign-assistance.md#section-2346), and sections 2348c and 2349aa–5 of this title.
 
 #### Delegation of Functions
 For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under [section 2381 of this title](./chapter-032-foreign-assistance.md#section-2381).
@@ -7925,11 +7223,11 @@ The National Endowment for Democracy Act, referred to in subsec. (b), is title V
 
 The State Department Basic Authorities Act of 1956, referred to in subsec. (b), is act Aug. 1, 1956, ch. 841, 70 Stat. 890. For complete classification of this Act to the Code, see Short Title note set out under [section 2651 of this title](./chapter-038-department-of-state.md#section-2651) and Tables.
 
-#### References to Subchapter I Deemed To Include Certain Parts of Subchapter II
-References to subchapter I of this chapter are deemed to include parts IV (§ 2346 et seq.), VI (§ 2348 et seq.), and VIII (§ 2349aa et seq.) of subchapter II of this chapter, and references to subchapter II are deemed to exclude such parts. See section 202(b) of Pub. L. 92–226, set out as a note under [section 2346 of this title](./chapter-032-foreign-assistance.md#section-2346), and sections 2348c and 2349aa–5 of this title.
-
 #### Codification
 Another section 465 of Pub. L. 87–195 is classified to [section 2285 of this title](./chapter-032-foreign-assistance.md#section-2285).
+
+#### References to Subchapter I Deemed To Include Certain Parts of Subchapter II
+References to subchapter I of this chapter are deemed to include parts IV (§ 2346 et seq.), VI (§ 2348 et seq.), and VIII (§ 2349aa et seq.) of subchapter II of this chapter, and references to subchapter II are deemed to exclude such parts. See section 202(b) of Pub. L. 92–226, set out as a note under [section 2346 of this title](./chapter-032-foreign-assistance.md#section-2346), and sections 2348c and 2349aa–5 of this title.
 
 #### Delegation of Functions
 For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under [section 2381 of this title](./chapter-032-foreign-assistance.md#section-2381).
@@ -7944,6 +7242,161 @@ For the purposes of this part, the term “Central American countries” include
 
 #### Codification
 Another section 466 of Pub. L. 87–195 is classified to [section 2286 of this title](./chapter-032-foreign-assistance.md#section-2286).
+
+
+<a id="section-2277"></a>
+## § 2277. Strategy to advance prosperity, combat corruption, strengthen democratic governance, and improve civilian security in El Salvador, Guatemala, and Honduras
+**(a) Elements** Not later than 180 days after December 27, 2020, the Secretary of State, in coordination with the Administrator of the United States Agency for International Development, and the heads of other relevant Federal agencies, shall submit to the appropriate congressional committees a 5-year strategy to advance economic prosperity, combat corruption, strengthen democratic governance, and improve civilian security in El Salvador, Guatemala, and Honduras and to curb irregular migration from the region.
+
+**(b) Consideration** In developing the strategy required under this section, the Secretary of State should consider the following priorities:
+
+(1) Promoting economic prosperity, including by—
+
+  (A) supporting market-based solutions to eliminate constraints to inclusive economic growth;
+
+  (B) addressing the underlying causes of poverty and inequality;
+
+  (C) responding to immediate humanitarian needs by improving humanitarian outcomes, including through access to sanitation, hygiene, and shelter, and by enabling the provision of health resources;
+
+  (D) supporting conservation and community resilience and strengthening community preparedness for natural disasters;
+
+  (E) identifying, as appropriate, a role for relevant United States agencies and the United States private sector in supporting efforts to increase private sector investment and advance economic prosperity; and
+
+  (F) improving domestic resource mobilization, including by strengthening tax collection and enforcement and legal arbitration mechanisms.
+
+(2) Combating corruption, including by—
+
+  (A) strengthening the capacity of national justice systems and attorneys generals to identify and prosecute money laundering and other financial crimes and breaking up financial holdings of organized criminal syndicates, including illegally acquired lands and proceeds from illegal activities;
+
+  (B) strengthening special prosecutorial offices and financial institutions to conduct asset forfeitures and criminal analysis, and to combat corruption, money laundering, financial crimes, extortion, and human rights crimes;
+
+  (C) implementing transparent, merit-based selection processes for prosecutors and judges and the development of professional and merit-based civil services;
+
+  (D) establishing or strengthening methods, procedures for internal and external control mechanisms for the security and police services and judiciary; and
+
+  (E) supporting anticorruption efforts through bilateral assistance and complementary support through multilateral anticorruption mechanisms when necessary.
+
+(3) Advancing democratic governance, including by—
+
+  (A) strengthening government institutions at the local and national levels to provide services and respond to citizen needs through transparent, inclusive, and democratic processes;
+
+  (B) strengthening access to information laws and reforming laws that currently limit access to information;
+
+  (C) building the capacity of independent media to engage in professional investigative journalism;
+
+  (D) ensuring that threats and attacks on journalists, labor leaders, human rights defenders, and other members of civil society are fully investigated and perpetrators are held accountable; and
+
+  (E) strengthening electoral institutions and processes to ensure free, fair, and transparent elections.
+
+(4) Improving security conditions, including by—
+
+  (A) implementing the Central America Regional Security Initiative;
+
+  (B) increasing the professionalization of security services, including the civilian police and military units;
+
+  (C) combating the illicit activities of transnational criminal organizations through support to fully vetted elements of attorneys general offices, appropriate government institutions, and security services; and
+
+  (D) enhancing the capacity of relevant security services and attorneys general to support counternarcotics efforts and combat human trafficking, forcible recruitment of children and youth by gangs, gender-based violence, and other illicit activities, including trafficking of wildlife, and natural resources.
+
+**(c) Consultation** In developing the strategy required under this section, the Secretary of State may consult with civil society and the private sector in the United States, El Salvador, Guatemala, and Honduras.
+
+**(d) Benchmarks** The strategy required under this section shall include annual benchmarks to track the strategy’s progress in curbing irregular migration from the region to the United States and improving conditions in El Salvador, Guatemala, and Honduras by measuring progress in key areas, including—
+
+(1) reducing poverty and unemployment, increasing private sector investment, responding to immediate humanitarian needs, sustainably reintegrating returnees, supporting conservation and community resilience, and addressing forced displacement in accordance with the priorities outlined in subsection (b)(1);
+
+(2) strengthening national justice systems and attorneys generals, supporting multilateral anticorruption mechanisms, identifying and prosecuting money laundering and other financial crimes, breaking up financial holdings of organized criminal syndicates, and advancing judicial integrity and investigative capacity of local authorities in accordance with the priorities outlined in subsection (b)(2);
+
+(3) strengthening government institutions at the local and national levels to provide services and respond to citizen needs through transparent, inclusive, and democratic processes, promoting human rights, building the capacity of independent media, developing the capacity of civil society to conduct oversight, affording legal protections for human rights defenders and members of civil society, and strengthening electoral institutions in accordance with priorities outlined in subsection (b)(3); and
+
+(4) implementing the objectives stated under the Central America Regional Security Initiative and building the capacity of civilian security services in accordance with the priorities outlined in subsection (b)(4).
+
+**(e) Public diplomacy** The strategy required under this section shall include a public diplomacy strategy for educating citizens of the region about United States assistance and its benefits to them, and informing such citizens of the dangers of irregular migration to the United States.
+
+**(f) Annual progress updates** Not later than 1 year after the submission of the strategy required under this section and annually thereafter for 4 years, the Secretary of State shall provide the appropriate congressional committees with a written description of progress made in meeting the benchmarks established in the strategy.
+
+**(g) Public availability** The strategy required under this section shall be made publicly available on the website of the Department of State. If appropriate, a classified annex may be submitted to the appropriate congressional committees.
+
+**(h) Definition** In this section, the term “appropriate congressional committees” means—
+
+(1) the Committee on Foreign Relations and the Committee on Appropriations of the Senate; and
+
+(2) the Committee on Foreign Affairs and the Committee on Appropriations of the House of Representatives.
+
+### Statutory Notes
+
+#### Codification
+Section was enacted as part of the United States – Northern Triangle Enhanced Engagement Act, and not as part of the Foreign Assistance Act of 1961 which comprises this chapter.
+
+
+<a id="section-2277a"></a>
+## § 2277a. Targeted sanctions to fight corruption in El Salvador, Guatemala, and Honduras
+**(a) Sense of Congress** It is the sense of Congress that—
+
+(1) corruption in El Salvador, Guatemala, and Honduras by private citizens and select officials in local, regional, and Federal governments significantly damages the economies of such countries and deprives citizens of opportunities;
+
+(2) corruption in El Salvador, Guatemala, and Honduras is facilitated and carried out not only by private citizens and select officials from those countries but also in many instances by individuals from third countries; and
+
+(3) imposing targeted sanctions on individuals from throughout the world and particularly in the Western Hemisphere who are engaged in acts of significant corruption that impact El Salvador, Guatemala, and Honduras or obstruction of investigations into such acts of corruption will benefit the citizens and governments of such countries.
+
+**(b) Report required** Not later than 180 days after December 27, 2020, and not less frequently than annually thereafter, the President shall submit to the appropriate congressional committees an unclassified report with classified annex if necessary that identifies each foreign person who the President determines to have knowingly engaged in actions that undermine democratic processes or institutions, or in significant corruption or obstruction of investigations into such acts of corruption in El Salvador, Guatemala, and Honduras, including the following:
+
+(1) Corruption related to government contracts.
+
+(2) Bribery and extortion.
+
+(3) The facilitation or transfer of the proceeds of corruption, including through money laundering.
+
+(4) Acts of violence, harassment, or intimidation directed at governmental and nongovernmental corruption investigators.
+
+**(c) Imposition of sanctions** The President shall impose the sanctions described in subsection (d) with respect to each foreign person identified in the report required under subsection (b).
+
+**(d) Sanctions described**
+
+(1) **In general** — The sanctions described in this subsection are the following:
+
+  (A) *Ineligibility for visas and admission to the United States* — In the case of a foreign person who is an individual, such foreign person is—
+
+    (i) inadmissible to the United States;
+
+    (ii) ineligible to receive a visa or other documentation to enter the United States; and
+
+    (iii) otherwise ineligible to be admitted or paroled into the United States or to receive any other benefit under the Immigration and Nationality Act ([8 U.S.C. 1101](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1101&num=0&edition=prelim) et seq.).
+
+  (B) *Current visas revoked*
+
+    (i) *In general* — The issuing consular officer or the Secretary of State, (or a designee of the Secretary of State) shall, in accordance with section 221(i) of the Immigration and Nationality Act ([8 U.S.C. 1201(i)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1201/i&num=0&edition=prelim)), revoke any visa or other entry documentation issued to a foreign person regardless of when the visa or other entry documentation is issued.
+
+    (ii) *Effect of revocation* — A revocation under clause (i) shall—
+
+      (I) take effect immediately; and
+
+      (II) automatically cancel any other valid visa or entry documentation that is in the foreign person’s possession.
+
+(2) **Exception to comply with international obligations** — Sanctions under subparagraph (B) and (C) 11 So in original. Probably should be “subparagraphs (A) and (B)”. of paragraph (1) shall not apply with respect to a foreign person if admitting or paroling such person into the United States is necessary to permit the United States to comply with the Agreement regarding the Headquarters of the United Nations, signed at Lake Success June 26, 1947, and entered into force November 21, 1947, between the United Nations and the United States, or other applicable international obligations.
+
+**(e) National security waiver** The President may waive the application of the sanctions under subsection (c) 22 So in original. Probably should be “subsection (d)”. if the President—
+
+(1) determines that such a waiver is in the national security interest of the United States; and
+
+(2) submits to the appropriate congressional committees within 15 days after such determination a notice of and justification for the waiver.
+
+**(f) Termination** The authority to impose sanctions under subsection (b),33 So in original. Probably should be “subsection (c),”. and any sanctions imposed pursuant to such authority, shall expire on the date that is 3 years after December 27, 2020.
+
+**(g) Public availability** The unclassified portion of the report required by subsection (b) shall be made available to the public, including through publication in the Federal Register. In any case in which the President concludes that such publication would be harmful to the national security of the United States, only a statement that a determination or finding has been made by the President, including the name and section of the Act under which it was made, shall be published.
+
+**(h) Definitions** In this section, the term “appropriate congressional committees” means—
+
+(1) the Committee on Foreign Relations and the Committee on the Judiciary of the Senate;
+
+(2) the Committee on Foreign Affairs and the Committee on the Judiciary of the House of Representatives.
+
+### Statutory Notes
+
+#### References in Text
+The Immigration and Nationality Act, referred to in subsec. (d)(1)(A)(iii), is act June 27, 1952, ch. 477, 66 Stat. 163, which is classified principally to chapter 12 (§ 1101 et seq.) of Title 8, Aliens and Nationality. For complete classification of this Act to the Code, see Short Title note set out under [section 1101 of Title 8](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1101&num=0&edition=prelim) and Tables.
+
+#### Codification
+Section was enacted as part of the United States – Northern Triangle Enhanced Engagement Act, and not as part of the Foreign Assistance Act of 1961 which comprises this chapter.
 
 
 <a id="section-2281"></a>
@@ -8141,7 +7594,7 @@ Another section 466 of Pub. L. 87–195 is classified to [section 2276 of this t
 
 (4) the term “United States assistance” means—
 
-  (A) any assistance under this chapter (including programs under subpart IV of part II of this subchapter, relating to the Overseas Private Investment Corporation), other than—
+  (A) any assistance under this chapter (and any support under subchapter II of chapter 103 of this title, relating to the United States International Development Finance Corporation), other than—
 
     (i) assistance under this part,
 
@@ -8172,9 +7625,6 @@ Another section 466 of Pub. L. 87–195 is classified to [section 2276 of this t
 (8) the term “appropriate congressional committees” means the Committee on Foreign Affairs and the Committee on Appropriations of the House of Representatives and the Committee on Foreign Relations and the Committee on Appropriations of the Senate.
 
 ### Statutory Notes
-
-#### Amendment of Subsection (e)(4)(A)
-Pub. L. 115–254, div. F, title VI, § 1470(j)(3), (w), Oct. 5, 2018, 132 Stat. 3517, 3519, provided that, effective at the end of the transition period, as defined in [section 9681 of this title](./chapter-103-better-utilization-of-investments-leading-to-development.md#section-9681), subsection (e)(4)(A) of this section is amended by striking “(including programs under subpart IV of part II of this subchapter, relating to the Overseas Private Investment Corporation)” and inserting “(and any support under subchapter II of chapter 103 of this title, relating to the United States International Development Finance Corporation)”. See 2018 Amendment note below.
 
 #### References in Text
 The National Narcotics Leadership Act of 1988, referred to in subsec. (b)(1), is subtitle A of title I of Pub. L. 100–690, Nov. 18, 1988, 102 Stat. 4181, as amended. Chapter 1 of the Act was classified principally to subchapter I (§ 1501 et seq.) of chapter 20 of Title 21, Food and Drugs, prior to repeal by Pub. L. 100–690, title I, § 1009, Nov. 18, 1988, 102 Stat. 4188. For complete classification of this Act to the Code, see Tables.
@@ -8439,9 +7889,6 @@ Pub. L. 100–202, § 101(e) [title V, § 585(b)], Dec. 22, 1987, 101 Stat. 1329
 #### Effective Date of 1985 Amendment
 Amendment by Pub. L. 99–83 effective Oct. 1, 1985, see section 1301 of Pub. L. 99–83, set out as a note under [section 2151–1 of this title](./chapter-032-foreign-assistance.md#section-2151-1).
 
-#### Delegation of Functions
-For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under [section 2381 of this title](./chapter-032-foreign-assistance.md#section-2381).
-
 #### Prevention of Smuggling of Methamphetamine Into the United States From Mexico
 Pub. L. 109–177, title VII, § 723, Mar. 9, 2006, 120 Stat. 269, provided that: “(a) In General.—The Secretary of State, acting through the Assistant Secretary of the Bureau for International Narcotics and Law Enforcement Affairs, shall take such actions as are necessary to prevent the smuggling of methamphetamine into the United States from Mexico. “(b) Specific Actions.—In carrying out subsection (a), the Secretary shall—“(1) improve bilateral efforts at the United States-Mexico border to prevent the smuggling of methamphetamine into the United States from Mexico; “(2) seek to work with Mexican law enforcement authorities to improve the ability of such authorities to combat the production and trafficking of methamphetamine, including by providing equipment and technical assistance, as appropriate; and “(3) encourage the Government of Mexico to take immediate action to reduce the diversion of pseudoephedrine by drug trafficking organizations for the production and trafficking of methamphetamine. “(c) Report.—Not later than one year after the date of the enactment of this Act [Mar. 9, 2006], and annually thereafter, the Secretary shall submit to the appropriate congressional committees a report on the implementation of this section for the prior year. “(d) Authorization of Appropriations.—There are authorized to be appropriated to the Secretary to carry out this section $4,000,000 for each of the fiscal years 2006 and 2007.”
 
@@ -8460,7 +7907,7 @@ Pub. L. 101–623, § 8, Nov. 21, 1990, 104 Stat. 3355, which required the Presi
 Pub. L. 101–513, title V, § 599H, Nov. 5, 1990, 104 Stat. 2068, provided that: “(a) Negotiations.—(1) The Attorney General shall enter into negotiations with the appropriate law enforcement and judicial agencies and any other officials of any foreign country with jurisdiction over companies who manufacture, market, sell or purchase certain precursor and/or essential chemicals used in the production of illicit narcotics. The priority of negotiations should be determined based on an assessment by the Attorney General which countries have jurisdiction over companies that may be knowingly or unknowingly supplying chemicals for the illicit manufacture of controlled substances. “(2) The purposes of the negotiations shall be to (a) establish a list of precursor and essential chemicals contributing to the illicit manufacture of controlled substances, as defined in section 102 of the Controlled Substances Act (21 USC 802); (b) reach one or more international agreements on a method for maintaining records of transactions of these listed chemicals; (c) establish a procedure by which such records may be made available to (and kept confidential as necessary by) United States law enforcement authorities for the exclusive purpose of conducting an investigation relative to precursor chemicals, essential chemicals and/or controlled substances contributing to the manufacture of illicit narcotics; and (d) encourage chemical source countries to enact national chemical control legislation which would (i) impose specific record keeping and reporting requirements for domestic transactions involving listed chemicals; (ii) establish a system of permits or declarations for imports and exports of listed chemicals; and (iii) authorize government officials to seize or suspend shipments of listed chemicals based on evidence that they may be destined for the illicit manufacture of controlled substances. “(b) Reports.—Not later than one year after the date of enactment of this Act [Nov. 5, 1990], the Attorney General shall submit an interim report to the Judiciary Committee and the Foreign Relations Committee of the Senate on progress in the negotiations. Not later than eighteen months from the date of enactment, the Attorney General shall submit a final report to the aforementioned Senate Committees on the result of negotiations identifying countries with which agreements have not been reached and which have jurisdiction over companies believed to be engaged in the manufacture, marketing, sale or purchase of precursor and/or essential chemicals used in illicit manufacture of controlled substances. “(c) Penalties.—After consulting with the Attorney General and the Director of the Office of National Drug Control Policy, the President shall impose penalties or sanctions including temporarily or permanently prohibiting any corporation, partnership, individual or business association (i) refusing to maintain records for the purpose of monitoring and regulating transactions of listed precursor chemicals, or (ii) refusing to make such records available to United States law enforcement authorities for investigative purposes (in coordination with the local law enforcement agency in which such corporation, partnership, individual, or business association resides, is created or has its principal place of business) from engaging in any or all transactions, in goods or services, within the commerce of the United States. “(d) Definitions.—A record under subsection (a) shall be retrievable and include the date of the transaction, the identity of each party to the transaction, including the ultimate consignee, and accounting of the quantity and form of listed chemical(s) and a description of the method of transfer. “(e) This section shall not apply to the manufacture, distribution, sale, import or export of any drug which may, under the Federal Food, Drug and Cosmetic Act [[21 U.S.C. 301](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section301&num=0&edition=prelim) et seq.] be lawfully sold over-the-counter without prescription.”
 
 #### Linkage of Debt Reduction Loans to Reduction in Drug Trafficking; Report to Congress
-Pub. L. 101–240, title IV, § 407, Dec. 19, 1989, 103 Stat. 2504, provided that: “(a) Findings.—The Congress finds that—“(1) the Brady Initiative is a positive step, recognizing as it does the need for reducing the debt and debt service burdens of the indebted developing countries; “(2) the multilateral development banks should, as part of this debt reduction process, encourage such countries to further reform their economies by reducing their dependence on production and trafficking of illicit narcotics; and “(3) reduction of debt should relieve some of the financial burden on these countries, and thereby enable them to rely on legal income-generating activities. “(b) Instruction of United States Executive Directors.—The Secretary of the Treasury shall instruct the United States Executive Director of each multilateral development bank that, in voting with respect to loans from the multilateral development bank to reduce the debt and debt burden of borrowing countries which are major producers, processors, traffickers, or exporters of illegal drugs to the United States, the Executive Director shall give preference to those countries which show marked improvement in reducing the volume of cultivation, processing, trafficking, and export to the United States of illegal drugs. In making a determination under the preceding sentence with respect to a country’s improvement, the Secretary of the Treasury shall consult with the heads of the relevant agencies. “(c) Report to Congress.—The Secretary of the Treasury shall include, in the detailed accounting required by section 2018(c) of the International Narcotics Control Act of 1986 ([22 U.S.C. 2191](./chapter-032-foreign-assistance.md#section-2191) note) [section 2018(c) of Pub. L. 99–570 set out below], relating to multilateral development bank assistance for drug eradication and crop substitution programs, an additional discussion of the steps taken and the progress made in implementing the goals set forth in subsection (b) of this section, and further steps needed to secure the achievement of these goals. “(d) Definitions.—As used in this section—“(1) the term ‘multilateral development bank’ includes the International Bank for Reconstruction and Development, the International Development Association, the International Finance Corporation, the Inter-American Development Bank, the Inter-American Investment Corporation, the Asian Development Bank, the African Development Bank, and the African Development Fund; and “(2) the term ‘illegal drugs’ means ‘narcotic and psychotropic drugs and other controlled substances’, as defined in section 481(i)(3) of the Foreign Assistance Act of 1961 ([22 U.S.C. 2291(i)(3)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2291/i/3&num=0&edition=prelim)).”
+Pub. L. 101–240, title IV, § 407, Dec. 19, 1989, 103 Stat. 2504, provided that: “(a) Findings.—The Congress finds that—“(1) the Brady Initiative is a positive step, recognizing as it does the need for reducing the debt and debt service burdens of the indebted developing countries; “(2) the multilateral development banks should, as part of this debt reduction process, encourage such countries to further reform their economies by reducing their dependence on production and trafficking of illicit narcotics; and “(3) reduction of debt should relieve some of the financial burden on these countries, and thereby enable them to rely on legal income-generating activities. “(b) Instruction of United States Executive Directors.—The Secretary of the Treasury shall instruct the United States Executive Director of each multilateral development bank that, in voting with respect to loans from the multilateral development bank to reduce the debt and debt burden of borrowing countries which are major producers, processors, traffickers, or exporters of illegal drugs to the United States, the Executive Director shall give preference to those countries which show marked improvement in reducing the volume of cultivation, processing, trafficking, and export to the United States of illegal drugs. In making a determination under the preceding sentence with respect to a country’s improvement, the Secretary of the Treasury shall consult with the heads of the relevant agencies. “(c) Report to Congress.—The Secretary of the Treasury shall include, in the detailed accounting required by section 2018(c) of the International Narcotics Control Act of 1986 ([22 U.S.C. 2191](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2191&num=0&edition=prelim) [2291] note) [section 2018(c) of Pub. L. 99–570 set out below], relating to multilateral development bank assistance for drug eradication and crop substitution programs, an additional discussion of the steps taken and the progress made in implementing the goals set forth in subsection (b) of this section, and further steps needed to secure the achievement of these goals. “(d) Definitions.—As used in this section—“(1) the term ‘multilateral development bank’ includes the International Bank for Reconstruction and Development, the International Development Association, the International Finance Corporation, the Inter-American Development Bank, the Inter-American Investment Corporation, the Asian Development Bank, the African Development Bank, and the African Development Fund; and “(2) the term ‘illegal drugs’ means ‘narcotic and psychotropic drugs and other controlled substances’, as defined in section 481(i)(3) of the Foreign Assistance Act of 1961 ([22 U.S.C. 2291(i)(3)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2291/i/3&num=0&edition=prelim)).”
 
 #### Debt-for-Drugs Exchanges
 Pub. L. 101–231, § 10, Dec. 13, 1989, 103 Stat. 1961, provided that: “(a) Authority.—The President may release Bolivia, Colombia, or Peru from its obligation to make payments to the United States Government of principal and interest on account of a loan made to that country under the Foreign Assistance Act of 1961 ([22 U.S.C. 2151](./chapter-032-foreign-assistance.md#section-2151) and following; relating to foreign assistance programs) or credits extended for that country under section 23 of the Arms Export Control Act ([22 U.S.C. 2763](./chapter-039-arms-export-control.md#section-2763); relating to foreign military sales credits) if the President determines that that country is implementing programs to reduce the flow of cocaine to the United States in accordance with a formal bilateral or multilateral agreement, to which the United States is a party, that contains specific, quantitative and qualitative, performance criteria with respect to those programs. “(b) Congressional Review of Agreements.—The President shall submit any such agreement with Bolivia, Colombia, or Peru to the Committee on Foreign Affairs of the House of Representatives and the Committee on Foreign Relations of the Senate at least 15 days before exercising the authority of [sub]section (a) with respect to that country. “(b) [(c)] Coordination with Multilateral Debt Relief Activities.—The authority provided in subsection (a) shall be exercised in coordination with multilateral debt relief activities. “(c) [(d)] Effective Date.—Subsection (a) takes effect on October 1, 1990.”
@@ -8504,6 +7951,9 @@ Pub. L. 97–113, title V, § 502(a)(2)–(4), Dec. 29, 1981, 95 Stat. 1539, pro
 
 #### United States Citizens Imprisoned in Mexico
 Pub. L. 94–329, title IV, § 408, June 30, 1976, 90 Stat. 759, as amended by Pub. L. 95–384, § 29(b), Sept. 26, 1978, 92 Stat. 747, provided that: “(a) The Congress, while sharing the concern of the President over the urgent need for international cooperation to restrict traffic in dangerous drugs, is convinced that such efforts must be consistent with respect for fundamental human rights. The Congress, therefore, calls upon the President to take steps to insure that United States efforts to secure stringent international law enforcement measures are combined with efforts to secure fair and humane treatment for citizens of all countries. “(b) The Congress requests that the President communicate directly to the President and Government of the Republic of Mexico, a nation with which we have friendly and cooperative relations, the continuing desire of the United States for such relations between our two countries and the concern of the United States over treatment of United States citizens arrested in Mexico.”
+
+#### Delegation of Functions
+For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under [section 2381 of this title](./chapter-032-foreign-assistance.md#section-2381).
 
 #### Delegation of Presidential Authorities Under International Narcotics Control Act of 1990
 Determination of President of the United States, No. 91–20, Jan. 25, 1991, 56 F.R. 8681, provided:
@@ -8626,11 +8076,11 @@ Subsec. (a)(4). Pub. L. 96–92 designated existing provision respecting availab
 #### Effective Date of 1985 Amendment
 Amendment by Pub. L. 99–83 effective Oct. 1, 1985, see section 1301 of Pub. L. 99–83, set out as a note under [section 2151–1 of this title](./chapter-032-foreign-assistance.md#section-2151-1).
 
-#### Delegation of Functions
-For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under [section 2381 of this title](./chapter-032-foreign-assistance.md#section-2381).
-
 #### Colombian Anti-Narcotics Enforcement Program
 Pub. L. 96–533, title IV, § 402(c), Dec. 16, 1980, 94 Stat. 3150, provided: “Notwithstanding the provisions of section 482(a)(2) of the Foreign Assistance Act of 1961 [subsec. (a)(2) of this section] as in effect immediately prior to the enactment of this Act [Dec. 16, 1980], funds appropriated for the fiscal year 1980 to carry out the purposes of section 481 of that Act [[section 2291 of this title](./chapter-032-foreign-assistance.md#section-2291)] which were obligated for assistance for Colombia may be used for fixed-wing aircraft, communications equipment, and such other equipment and operational support, including aviation services, as are essential to the Colombian anti-narcotics enforcement program.”
+
+#### Delegation of Functions
+For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under [section 2381 of this title](./chapter-032-foreign-assistance.md#section-2381).
 
 
 <a id="section-2291b"></a>
@@ -8698,13 +8148,13 @@ Subsecs. (b), (c). Pub. L. 102–583, § 4(f)(2)(D), redesignated subsecs. (a) a
 
 1990—Pub. L. 101–623 inserted at end “The requirement of this section does not apply with respect to aircraft made available to a foreign country under [section 635(b)(6)(B) of title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section635/b/6/B&num=0&edition=prelim) or under any provision of law that authorizes property that has been civilly or criminally forfeited to the United States to be made available to foreign countries.”
 
-#### Delegation of Functions
-For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under [section 2381 of this title](./chapter-032-foreign-assistance.md#section-2381).
-
 #### Training of Host Country Pilots
 Pub. L. 101–623, § 13, Nov. 21, 1990, 104 Stat. 3356, provided that: “(a) Instruction Program.—Not less than 90 days after the date of enactment of this Act [Nov. 21, 1990], the President shall implement, under chapter 8 of part I of the Foreign Assistance Act of 1961 ([22 U.S.C. 2291](./chapter-032-foreign-assistance.md#section-2291) and following; relating to international narcotics control assistance), a detailed program of instruction to train host country pilots, and other flight crew members, to fly host country aircraft involved in counternarcotics efforts in Andean countries. Such program shall be designed to eliminate direct participation of the United States Government (including participation through the use of either direct hire or contract personnel) in the operation of such aircraft. “(b) Requirement for Replacement of United States Government Pilots by Host Country Pilots.—The President shall ensure that, within 18 months after the date of enactment of this Act [Nov. 21, 1990], flight crews composed of host country personnel replace all United States Government pilots and other flight crew members (including both direct hire or contract personnel) for host country aircraft involved in airborne counternarcotics operations in the Andean countries. “(c) Aircraft Subject to Requirements.—As used in this section, the term ‘host country aircraft’ means any aircraft made available to an Andean country by the United States Government under chapter 8 of part I of the Foreign Assistance Act of 1961 [[22 U.S.C. 2291](./chapter-032-foreign-assistance.md#section-2291) et seq.], or any other provision of law, for use by that country for narcotics-related purposes.”
 
 [Functions of President under section 13 of Pub. L. 101–623, set out above, delegated to Secretary of State in consultation with Secretary of Defense by Determination of President of the United States, No. 91–20, Jan. 25, 1991, 56 F.R. 8681, set out as a note under [section 2291 of this title](./chapter-032-foreign-assistance.md#section-2291).]
+
+#### Delegation of Functions
+For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under [section 2381 of this title](./chapter-032-foreign-assistance.md#section-2381).
 
 
 <a id="section-2291d"></a>
@@ -8743,11 +8193,11 @@ The Arms Export Control Act, referred to in par. (1), is Pub. L. 90–629, Oct. 
 
 Subsec. (b). Pub. L. 102–583, § 6(b)(5)(B), substituted “(relating to the ‘Foreign Military Financing Program’)” for “(relating to foreign military sales financing)”.
 
-#### Delegation of Functions
-For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under [section 2381 of this title](./chapter-032-foreign-assistance.md#section-2381).
-
 #### Supersedure of Foreign Operations, Export Financing, and Related Programs Appropriations Act, 1989
 Pub. L. 100–690, title IV, § 4206(b), Nov. 18, 1988, 102 Stat. 4270, which provided that the enactment of this section superseded section 578(d) of Pub. L. 100–461, Oct. 1, 1988, 102 Stat. 2268–46, and that funds could be transferred under subsec. (a)(1) of this section notwithstanding section 514 of Pub. L. 100–461, 102 Stat. 2268–23, was repealed by Pub. L. 102–583, § 6(e)(1), Nov. 2, 1992, 106 Stat. 4933.
+
+#### Delegation of Functions
+For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under [section 2381 of this title](./chapter-032-foreign-assistance.md#section-2381).
 
 
 <a id="section-2291f"></a>
@@ -8900,6 +8350,16 @@ For delegation of functions of President under this section, see Ex. Ord. No. 12
 
     (ii) The best available data and other information regarding the production of methamphetamine in such countries and the diversion of such chemicals for use in the production of methamphetamine.
 
+(9)
+
+  (A) An assessment conducted by the Secretary of State, in consultation with the Secretary of the Treasury and the Director of National Intelligence, of the extent to which any diplomatic efforts described in section 7217(a) of the Fentanyl Sanctions Act have been successful.
+
+  (B) Each assessment required by subparagraph (A) shall include an identification of—
+
+    (i) the countries the governments of which have agreed to undertake measures to apply economic or other financial sanctions to foreign traffickers of illicit opioids and a description of those measures; and
+
+    (ii) the countries the governments of which have not agreed to measures described in clause (i), and, with respect to those countries, other measures the Secretary of State recommends that the United States take to apply economic and other financial sanctions to foreign traffickers of illicit opioids.
+
 **(b) Annual reports on assistance**
 
 (1) **In general** — At the time that the report required by subsection (a) is submitted each year, the Secretary of State, in consultation with appropriate United States Government agencies, shall report to the appropriate committees of the Congress on the assistance provided or proposed to be provided by the United States Government during the preceding fiscal year, the current fiscal year, and the next fiscal year to support international efforts to combat illicit narcotics production or trafficking.
@@ -8924,10 +8384,14 @@ Section 2015 of the International Narcotics Act of 1986, referred to in subsec. 
 
 Paragraph (3), referred to in subsec. (a)(4) to (7), means par. (3) of subsec. (a), which was amended by Pub. L. 103–447, § 101(f)(1)(B)(ii), by striking out subpar. (B) relating to sources of narcotics and psychotropic drugs and other controlled substances and redesignating subpars. (C) and (D) as (B) and (C), respectively. See 1994 Amendment note below.
 
+Section 7217(a) of the Fentanyl Sanctions Act, referred to in subsec. (a)(9)(A), is section 7217(a) of Pub. L. 116–92, div. F, title LXXII, 133 Stat. 2269, which is not classified to the Code.
+
 #### Prior Provisions
 A prior section 2291h, Pub. L. 87–195, pt. I, § 489, as added Pub. L. 100–690, title IV, § 4507, Nov. 18, 1988, 102 Stat. 4286, related to permissible uses of aircraft and other equipment, prior to amendment by Pub. L. 102–583, § 4(f)(2), Nov. 2, 1992, 106 Stat. 4917, which also transferred subsecs. (a) and (b) to section 2291c(b) and (c) of this title, respectively, and repealed the designation, heading, and subsecs. (c) and (d).
 
 #### Amendments
+2019—Subsec. (a)(9). Pub. L. 116–92 added par. (9).
+
 2006—Subsec. (a)(8). Pub. L. 109–177 added par. (8).
 
 1995—Pub. L. 104–66, § 1112(c)(1), struck out “for fiscal year 1995” after “Reporting requirements” in section catchline.
@@ -8955,14 +8419,14 @@ For transfer of functions, personnel, assets, and liabilities of the United Stat
 
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).
 
-#### Delegation of Functions
-For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under [section 2381 of this title](./chapter-032-foreign-assistance.md#section-2381).
-
 #### Plan To Address Diversion of Precursor Chemicals
 Pub. L. 109–177, title VII, § 722(d), Mar. 9, 2006, 120 Stat. 269, required the Secretary of State, not later than 180 days after the date on which the President transmits the report required by subsec. (a) of this section, to submit to Congress a comprehensive plan to address the diversion of the chemicals described in subsec. (a)(8)(A)(i) of this section to the illicit production of methamphetamine for each identified country for which the President has not submitted a certification under [section 2291j(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2291j/b&num=0&edition=prelim).
 
 #### Statutory References to Annual Reports, Certifications, and Definitions
 Pub. L. 102–583, § 6(a), Nov. 2, 1992, 106 Stat. 4932, provided that after Sept. 30, 1994, any reference in any provision of law to section 2291h or 2291j of this title would be deemed a reference to the corresponding provision of section 2291i or 2291k of this title, respectively, unless the context required otherwise; any reference in any provision of law enacted before Nov. 2, 1992, to section 2291(e) or (i) of this title be deemed a reference to section 2291h or 2291(e) of this title, respectively; and that any reference in any provision of law enacted before Nov. 2, 1992, to [section 2291(h) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2291/h&num=0&edition=prelim) be deemed, as of Oct. 1, 1992, to be a reference to [section 2291j of this title](./chapter-032-foreign-assistance.md#section-2291j), prior to repeal by Pub. L. 103–447, title I, § 103(a), Nov. 2, 1994, 108 Stat. 4693.
+
+#### Delegation of Functions
+For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under [section 2381 of this title](./chapter-032-foreign-assistance.md#section-2381).
 
 
 <a id="section-2291i"></a>
@@ -9218,8 +8682,11 @@ Section was enacted as part of the Department of State Authorization Act, Fiscal
 #### Amendments
 2006—Par. (5)(C). Pub. L. 109–177 added subpar. (C).
 
-#### Presidential Determination on Major Drug Transit or Major Illicit Drug Producing Countries for Fiscal Year 2020
-Determination of President of the United States, No. 2019–22, Aug. 8, 2019, 84 F.R. 44679, provided:
+#### Definitions
+For definition of “appropriate congressional committees” as used in this section, see section 3 of Pub. L. 107–228, set out as a note under [section 2651 of this title](./chapter-038-department-of-state.md#section-2651).
+
+#### Presidential Determination on Major Drug Transit or Major Illicit Drug Producing Countries for Fiscal Year 2021
+Determination of President of the United States, No. 2020–11, Sept. 16, 2020, 85 F.R. 60351, provided:
 
 Memorandum for the Secretary of State
 
@@ -9227,21 +8694,41 @@ By the authority vested in me as President by the Constitution and the laws of t
 
 A country’s presence on the foregoing list is not necessarily a reflection of its government’s counternarcotics efforts or level of cooperation with the United States. Consistent with the statutory definition of a major drug transit or major illicit drug producing country set forth in section 481(e)(2) and (5) of the Foreign Assistance Act of 1961, as amended (Public Law 87–195) (FAA) [[22 U.S.C. 2291(e)(2)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2291/e/2&num=0&edition=prelim), (5)], the reason countries are placed on the list is the combination of geographic, commercial, and economic factors that allow drugs to transit or be produced, even if a government has engaged in robust and diligent narcotics control measures.
 
-Pursuant to section 706(2)(A) of the FRAA, I hereby designate Bolivia and the illegitimate regime of Nicolas Maduro in Venezuela as having failed demonstrably during the previous 12 months to adhere to their obligations under international counternarcotics agreements and to take the measures required by section 489(a)(1) of the FAA [[22 U.S.C. 2291h(a)(1)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2291h/a/1&num=0&edition=prelim)]. Included with this determination are justifications for the designations of Bolivia and the Maduro regime, as required by section 706(2)(B) of the FRAA. I have also determined, in accordance with provisions of section 706(3)(A) of the FRAA, that United States programs that support the legitimate interim government in Venezuela are vital to the national interests of the United States.
+Illicit drugs inflict enormous harm on the health and safety of the American people and threaten the national security of the United States. While my Administration has achieved steady progress in stemming the tide of our country’s drug epidemic, transnational criminal organizations continually challenge our success by violating our borders and flooding our homeland with these deadly substances.
 
-My Administration has devoted unprecedented resources to combating the scourge of illicit drugs in the United States, including by strengthening our country’s borders and expanding programs to prevent illicit drug use and aid the recovery and treatment of those who need it. We are making steady progress to turn the tide of our country’s drug epidemic, but more needs to be accomplished. This includes further efforts beyond our Nation’s borders, by governments of countries where dangerous illegal drugs originate.
+The United States is taking the fight to these criminal organizations and their enablers on an unprecedented scale. This April, I initiated the most significant counternarcotic operations in decades targeting the illicit drug trade in the Caribbean and Eastern Pacific by deploying U.S. military assets to U.S. Southern Command in cooperation with 22 international allies. These operations led to the seizure of more than 80 metric tons of cocaine and other dangerous drugs, depriving transnational criminal organizations of more than $1.8 billion in profits and putting drug kingpins on notice that they are squarely in the crosshairs of the United States.
 
-In Colombia, President Ivan Duque has made early progress in rolling back the record-high coca cultivation and cocaine production levels inherited from his predecessor and in leading efforts to restart a Colombian-led aerial eradication program. This progress needs to continue and expand, and my Administration will work with our Colombian partners to reach our joint 5-year goal to reduce coca cultivation and cocaine production by half by the end of 2023. We will also continue to coordinate closely with Colombia and other like-minded partners in our hemisphere to restore democracy in Venezuela. With the end of the Maduro dictatorship rife with criminal elements, the United States will have a much better opportunity to work with Venezuela to stem the flow of drugs leaving South America.
+The most complicit kingpin in this Hemisphere is the Venezuelan dictator, Nicolas Maduro. This March, a U.S. court indicted Maduro for narcoterrorism and conspiracy to smuggle cocaine into the United States. In response, the U.S. Department of State announced a $15 million reward for information leading to his arrest or conviction. He joined a multitude of other regime cronies who are either under U.S. indictment or were sanctioned for drug crimes by the Department of the Treasury. The United States will continue to support the Venezuelan people, Interim President Juan Guaido, and the democratically elected National Assembly, and will work together with the legitimate Interim Government of Venezuela to stop drug trafficking and root out the criminal elements that have exploited that country. Maduro’s illegitimate narco-regime should face justice for its crimes.
 
-Along our southern border, Mexico needs to do more to stop the flow of deadly drugs entering our country. We need the Mexican government to intensify its efforts to increase poppy eradication, illicit drug interdiction, prosecutions, and asset seizures, and to develop a comprehensive drug control strategy. In particular, Mexico’s full cooperation is essential to reduce heroin production and confront illicit fentanyl production and every form of drug trafficking, including through United States ports of entry.
+While bringing criminals like Maduro to justice remains an urgent priority, the United States also needs other governments in the Western Hemisphere to assume greater responsibility for reducing illegal drug supplies.
 
-Many Mexican military and law enforcement professionals, in cooperation with their United States counterparts, are bravely meeting this challenge and confronting the transnational criminal organizations that threaten both of our countries. We need to see a sustained and unified commitment from Mexican government officials across military and civilian agencies and working with foreign partners. Without further progress over the coming year, I will consider determining that Mexico has failed demonstrably to uphold its international drug control commitments.
+In Colombia, President Ivan Duque and his government remain strong partners of the United States, and Colombian police and military forces have shown great bravery and commitment by targeting high-level drug traffickers, interdicting drug shipments, and manually eradicating coca. Nevertheless, coca cultivation and cocaine production remain at unacceptably high levels. To reach our shared 5-year goal to reduce coca cultivation and cocaine production by half by the end of 2023, Colombia must move forward with resuming aerial eradication, which remains an irreplaceable tool in the government’s arsenal alongside manual eradication and alternative economic development.
+
+It is also of great concern that coca cultivation and cocaine production remain near historical highs in Peru, another longstanding U.S. ally. Peru is a valued law enforcement partner of the United States and has demonstrated continuing commitment to fighting all aspects of the drug trade. I call on the Peruvian government to resume eradication operations in the country’s high yield coca producing regions, including the Valley of the Apurimac, Ene, and Mantaro Rivers.
+
+Since the resignation of former President Evo Morales in November 2019, U.S.-Bolivian cooperation against drug trafficking networks has increased under Bolivia’s transitional government. The transitional government made important strides in drug interdiction and resumed processing extradition requests of drug traffickers by the United States. Nevertheless, coca cultivation continues to exceed legal limits under Bolivia’s own domestic laws for medicinal and traditional use, and the Bolivian state has taken insufficient measures to safeguard the country’s licit coca markets from criminal exploitation. If the Bolivian government, including its Legislative Assembly, takes sufficient steps in the year ahead to remedy these shortcomings and continues the progress made over the past 10 months under the transitional government, I will consider removing Bolivia from next year’s list of countries that have failed demonstrably to uphold their drug control responsibilities.
+
+Last year, I warned that I would consider determining Mexico had failed demonstrably to uphold its international drug control commitments if it did not intensify its efforts to increase poppy eradication, interdict illicit drugs before they cross the border into the United States, increase its prosecutions of drug traffickers and seize their assets, and develop a comprehensive drug control strategy. This year, Mexico successfully passed asset forfeiture reforms, increased extraditions of dangerous drug traffickers to the United States, made substantial progress in completing its first poppy yield study in 17 years, and produced a counterdrug strategy. While these are signs of progress, more must be done.
+
+Mexico remains the source of nearly all heroin and methamphetamine seized in the United States, and a transit route for most of the cocaine available in our country. Moreover, Mexican cartels take advantage of uneven precursor chemical controls in Mexico to manufacture deadly drugs, such as fentanyl, inside Mexico and smuggle them into the United States. Mexican drug interdictions remain far too low in the face of these critical drug threats. These cartels present a clear threat to Mexico and the Mexican government’s ability to exert effective control over parts of its country.
+
+Mexico must clearly demonstrate its commitment to dismantling the cartels and their criminal enterprises and do more to protect the lives of Mexican and American citizens threatened by these groups. Mexico needs to continue to extradite key criminal actors, step up comprehensive investigations and drug and asset seizures, and implement a robust data-based poppy eradication program tied to sustainable alternative development. The Mexican government should acknowledge the alarming trend of fentanyl production inside its territory. It must prioritize law enforcement action targeting cartel production and trafficking of fentanyl—the leading substance involved in drug overdose deaths in the United States—and strengthen efforts targeting fentanyl precursor chemicals overwhelmingly trafficked from China, as well as fentanyl smuggling and production. More must also be done to target the cartels’ increasing production of methamphetamine.
+
+The United States remains ready to deepen its partnership with Mexico to address these shared challenges and welcomes the opportunity to develop joint drug control goals with Mexico and bilateral investigations built on transparent and open sharing of investigative information and evidence leading to successful prosecutions.
+
+Many Mexican military and law enforcement professionals, in cooperation with their U.S. counterparts, are bravely confronting the transnational criminal organizations that threaten both of our countries. Unless the Mexican government demonstrates substantial progress in the coming year backed by verifiable data, Mexico will be at serious risk of being found to have failed demonstrably to uphold its international drug control commitments.
+
+Pursuant to section 706(2)(A) of the FRAA, I hereby designate Bolivia and the illegitimate regime of Nicolas Maduro in Venezuela as having failed demonstrably during the previous 12 months to adhere to their obligations under international counternarcotics agreements and to take the measures required by section 489(a)(1) of the FAA [[22 U.S.C. 2291h(a)(1)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2291h/a/1&num=0&edition=prelim)]. Included with this determination are justifications for the designations of Bolivia and the Maduro regime, as required by section 706(2)(B) of the FRAA.
+
+I have also determined, in accordance with provisions of section 706(3)(A) of the FRAA, that United States programs that support the legitimate interim government in Venezuela and the Bolivian government are vital to the national interests of the United States.
 
 You are authorized and directed to submit this designation, with the Bolivia and Venezuela memoranda of justification, under section 706 of the FRAA, to the Congress, and to publish it in the Federal Register.
 
 Donald J. Trump.
 
 Prior identifications of major drug transit or major illicit drug producing countries were contained in the following:
+
+Determination of President of the United States, No. 2019–22, Aug. 8, 2019, 84 F.R. 44679.
 
 Determination of President of the United States, No. 2018–12, Sept. 11, 2018, 83 F.R. 50239.
 
@@ -9277,8 +8764,16 @@ Determination of President of the United States, No. 2003–38, Sept. 15, 2003, 
 
 Determination of President of the United States, No. 2003–14, Jan. 30, 2003, 68 F.R. 5787.
 
-#### Definitions
-For definition of “appropriate congressional committees” as used in this section, see section 3 of Pub. L. 107–228, set out as a note under [section 2651 of this title](./chapter-038-department-of-state.md#section-2651).
+#### Presidential Determination on Waiving a Restriction on United States Assistance to Bolivia Under Section 706 of the Foreign Relations Authorization Act, Fiscal Year 2003
+Determination of President of the United States, No. 2020–05, Jan. 6, 2020, 85 F.R. 6731, provided:
+
+Memorandum for the Secretary of State
+
+By the authority vested in me as President by the Constitution and the laws of the United States, including section 706(3)(A) of the Foreign Relations Authorization Act, Fiscal Year 2003 (Public Law 107–228) (FRAA) [[22 U.S.C. 2291j–1(3)(A)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2291j–1/3/A&num=0&edition=prelim)], I hereby determine that the provision of United States assistance to Bolivia in Fiscal Year 2020 is vital to the national interests of the United States.
+
+You are authorized and directed to submit this determination, with its memorandum of justification, under section 706 of the FRAA, to the Congress, and to publish it in the Federal Register.
+
+Donald J. Trump.
 
 
 <a id="section-2291k"></a>
@@ -9393,7 +8888,11 @@ Determination No. 2006–02, Oct. 16, 2005, 70 F.R. 62227.
 
 Determination No. 2005–03, Oct. 16, 2004, 69 F.R. 62797.
 
-Colombia.—Determination No. 2018–10, July 20, 2018, 83 F.R. 39579.
+Colombia.—Determination No. 2020–09, July 17, 2020, 85 F.R. 45751.
+
+Determination No. 2019–14, July 19, 2019, 84 F.R. 38109.
+
+Determination No. 2018–10, July 20, 2018, 83 F.R. 39579.
 
 Determination No. 2017–10, July 21, 2017, 82 F.R. 40667.
 
@@ -9515,9 +9014,6 @@ For delegation of functions of President under this section, see Ex. Ord. No. 12
 
 ### Statutory Notes
 
-#### References to Subchapter I Deemed To Include Certain Parts of Subchapter II
-References to subchapter I of this chapter are deemed to include parts IV (§ 2346 et seq.), VI (§ 2348 et seq.), and VIII (§ 2349aa et seq.) of subchapter II of this chapter, and references to subchapter II are deemed to exclude such parts. See section 202(b) of Pub. L. 92–226, set out as a note under [section 2346 of this title](./chapter-032-foreign-assistance.md#section-2346), and sections 2348c and 2349aa–5 of this title.
-
 #### References in Text
 This chapter, referred to in subsec. (d)(2), was in the original “this Act”, meaning Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, known as the Foreign Assistance Act of 1961. For complete classification of this Act to the Code, see Short Title note set out under [section 2151 of this title](./chapter-032-foreign-assistance.md#section-2151) and Tables.
 
@@ -9541,6 +9037,9 @@ Subsec. (b). Pub. L. 96–533, § 404(a)(2), added subsec. (b).
 1978—Pub. L. 95–424 substituted “the fiscal year 1979” for “each of the fiscal years 1977 and 1978” and struck out provision requiring the President to submit quarterly reports to the Committee on Foreign Relations of the Senate and to the Speaker of the House of Representatives on the programming and obligation of funds.
 
 1977—Pub. L. 95–88 substituted “fiscal years 1977 and 1978” for “fiscal years 1976 and 1977”.
+
+#### References to Subchapter I Deemed To Include Certain Parts of Subchapter II
+References to subchapter I of this chapter are deemed to include parts IV (§ 2346 et seq.), VI (§ 2348 et seq.), and VIII (§ 2349aa et seq.) of subchapter II of this chapter, and references to subchapter II are deemed to exclude such parts. See section 202(b) of Pub. L. 92–226, set out as a note under [section 2346 of this title](./chapter-032-foreign-assistance.md#section-2346), and sections 2348c and 2349aa–5 of this title.
 
 #### Effective Date of 1985 Amendment
 Amendment by Pub. L. 99–83 effective Oct. 1, 1985, see section 1301 of Pub. L. 99–83, set out as a note under [section 2151–1 of this title](./chapter-032-foreign-assistance.md#section-2151-1).
@@ -9785,15 +9284,10 @@ Subsec. (h)(4). Pub. L. 106–200, § 127(c)(1)(A), (2), redesignated par. (3) a
 
 Subsec. (i)(2). Pub. L. 106–264 inserted at end “In addition, providing training and training facilities, in sub-Saharan Africa, for doctors and other health care providers, notwithstanding any provision of law that restricts assistance to foreign countries.”
 
-#### Delegation of Functions
-For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under [section 2381 of this title](./chapter-032-foreign-assistance.md#section-2381).
-
 #### Electrify Africa
-Pub. L. 114–121, Feb. 8, 2016, 130 Stat. 86, provided that: “SECTION 1. SHORT TITLE.“This Act may be cited as the ‘Electrify Africa Act of 2015’. “SEC. 2. PURPOSE.“The purpose of this Act is to encourage the efforts of countries in sub-Saharan Africa to improve access to affordable and reliable electricity in Africa in order to unlock the potential for inclusive economic growth, job creation, food security, improved health, education, and environmental outcomes, and poverty reduction. “SEC. 3. STATEMENT OF POLICY.“It is the policy of the United States to partner, consult, and coordinate with the governments of sub-Saharan African countries, international financial institutions, and African regional economic communities, cooperatives, and the private sector, in a concerted effort to—“(1) promote first-time access to power and power services for at least 50,000,000 people in sub-Saharan Africa by 2020 in both urban and rural areas; “(2) encourage the installation of at least 20,000 additional megawatts of electrical power in sub-Saharan Africa by 2020 using a broad mix of energy options to help reduce poverty, promote sustainable development, and drive inclusive economic growth; “(3) promote non-discriminatory reliable, affordable, and sustainable power in urban areas (including small urban areas) to promote economic growth and job creation; “(4) promote policies to facilitate public-private partnerships to provide non-discriminatory reliable, sustainable, and affordable electrical service to rural and underserved populations; “(5) encourage the necessary in-country reforms, including facilitating public-private partnerships specifically to support electricity access projects to make such expansion of power access possible; “(6) promote reforms of power production, delivery, and pricing, as well as regulatory reforms and transparency, to support long-term, market-based power generation and distribution; “(7) promote policies to displace kerosene lighting with other technologies; “(8) promote an all-of-the-above energy development strategy for sub-Saharan Africa that includes the use of oil, natural gas, coal, hydroelectric, wind, solar, and geothermal power, and other sources of energy; and “(9) promote and increase the use of private financing and seek ways to remove barriers to private financing and assistance for projects, including through charitable organizations. “SEC. 4. DEVELOPMENT OF COMPREHENSIVE, MULTIYEAR STRATEGY.“(a) Strategy Required.—“(1) In general.—The President shall establish a comprehensive, integrated, multiyear strategy to encourage the efforts of countries in sub-Saharan Africa to implement national power strategies and develop an appropriate mix of power solutions to provide access to sufficient reliable, affordable, and sustainable power in order to reduce poverty and drive economic growth and job creation consistent with the policy stated in section 3. “(2) Flexibility and responsiveness.—The President shall ensure that the strategy required under paragraph (1) maintains sufficient flexibility for and remains responsive to concerns and interests of affected local communities and technological innovation in the power sector. “(b) Report Required.—Not later than 180 days after the date of the enactment of this Act [Feb. 8, 2016], the President shall transmit to the Committee on Foreign Relations of the Senate and the Committee on Foreign Affairs of the House of Representatives a report that contains the strategy required under subsection (a) and includes a discussion of the following elements:“(1) The objectives of the strategy and the criteria for determining the success of the strategy. “(2) A general description of efforts in sub-Saharan Africa to—“(A) increase power production; “(B) strengthen electrical transmission and distribution infrastructure; “(C) provide for regulatory reform and transparent and accountable governance and oversight; “(D) improve the reliability of power; “(E) maintain the affordability of power; “(F) maximize the financial sustainability of the power sector; and “(G) improve non-discriminatory access to power that is done in consultation with affected communities. “(3) A description of plans to support efforts of countries in sub-Saharan Africa to increase access to power in urban and rural areas, including a description of plans designed to address commercial, industrial, and residential needs. “(4) A description of plans to support efforts to reduce waste and corruption, ensure local community consultation, and improve existing power generation through the use of a broad power mix, including fossil fuel and renewable energy, distributed generation models, energy efficiency, and other technological innovations, as appropriate. “(5) An analysis of existing mechanisms for ensuring, and recommendations to promote—“(A) commercial cost recovery; “(B) commercialization of electric service through distribution service providers, including cooperatives, to consumers; “(C) improvements in revenue cycle management, power pricing, and fees assessed for service contracts and connections; “(D) reductions in technical losses and commercial losses; and “(E) non-discriminatory access to power, including recommendations on the creation of new service provider models that mobilize community participation in the provision of power services. “(6) A description of the reforms being undertaken or planned by countries in sub-Saharan Africa to ensure the long-term economic viability of power projects and to increase access to power, including—“(A) reforms designed to allow third parties to connect power generation to the grid; “(B) policies to ensure there is a viable and independent utility regulator; “(C) strategies to ensure utilities become or remain creditworthy; “(D) regulations that permit the participation of independent power producers and private-public partnerships; “(E) policies that encourage private sector and cooperative investment in power generation; “(F) policies that ensure compensation for power provided to the electrical grid by on-site producers; “(G) policies to unbundle power services; “(H) regulations to eliminate conflicts of interest in the utility sector; “(I) efforts to develop standardized power purchase agreements and other contracts to streamline project development; “(J) efforts to negotiate and monitor compliance with power purchase agreements and other contracts entered into with the private sector; and “(K) policies that promote local community consultation with respect to the development of power generation and transmission projects. “(7) A description of plans to ensure meaningful local consultation, as appropriate, in the planning, long-term maintenance, and management of investments designed to increase access to power in sub-Saharan Africa. “(8) A description of the mechanisms to be established for—“(A) selection of partner countries for focused engagement on the power sector; “(B) monitoring and evaluating increased access to, and reliability and affordability of, power in sub-Saharan Africa; “(C) maximizing the financial sustainability of power generation, transmission, and distribution in sub-Saharan Africa; “(D) establishing metrics to demonstrate progress on meeting goals relating to access to power, power generation, and distribution in sub-Saharan Africa; and “(E) terminating unsuccessful programs. “(9) A description of how the President intends to promote trade in electrical equipment with countries in sub-Saharan Africa, including a description of how the government of each country receiving assistance pursuant to the strategy—“(A) plans to lower or eliminate import tariffs or other taxes for energy and other power production and distribution technologies destined for sub-Saharan Africa, including equipment used to provide energy access, including solar lanterns, solar home systems, and micro and mini grids; and “(B) plans to protect the intellectual property of companies designing and manufacturing products that can be used to provide energy access in sub-Saharan Africa. “(10) A description of how the President intends to encourage the growth of distributed renewable energy markets in sub-Saharan Africa, including off-grid lighting and power, that includes—“(A) an analysis of the state of distributed renewable energy in sub-Saharan Africa; “(B) a description of market barriers to the deployment of distributed renewable energy technologies both on- and off-grid in sub-Saharan Africa; “(C) an analysis of the efficacy of efforts by the Overseas Private Investment Corporation and the United States Agency for International Development to facilitate the financing of the importation, distribution, sale, leasing, or marketing of distributed renewable energy technologies; and “(D) a description of how bolstering distributed renewable energy can enhance the overall effort to increase power access in sub-Saharan Africa. “(11) A description of plans to ensure that small and medium enterprises based in sub-Saharan Africa can fairly compete for energy development and energy access opportunities associated with this Act. “(12) A description of how United States investments to increase access to energy in sub-Saharan Africa may reduce the need for foreign aid and development assistance in the future. “(13) A description of policies or regulations, both domestically and internationally, that create barriers to private financing of the projects undertaken in this Act. “(14) A description of the specific national security benefits to the United States that will be derived from increased energy access in sub-Saharan Africa. “(c) Interagency Working Group.—“(1) In general.—The President may, as appropriate, establish an Interagency Working Group to coordinate the activities of relevant United States Government departments and agencies involved in carrying out the strategy required under this section. “(2) Functions.—The Interagency Working Group may, among other things—“(A) seek to coordinate the activities of the United States Government departments and agencies involved in implementing the strategy required under this section; “(B) ensure efficient and effective coordination between participating departments and agencies; and “(C) facilitate information sharing, and coordinate partnerships between the United States Government, the private sector, and other development partners to achieve the goals of the strategy. “SEC. 5. PRIORITIZATION OF EFFORTS AND ASSISTANCE FOR POWER PROJECTS IN SUB-SAHARAN AFRICA BY KEY UNITED STATES INSTITUTIONS.“(a) In General.—In pursuing the policy goals described in section 3, the Administrator of the United States Agency for International Development, the Director of the Trade and Development Agency, the Overseas Private Investment Corporation, and the Chief Executive Officer and Board of Directors of the Millennium Challenge Corporation should, as appropriate, prioritize and expedite institutional efforts and assistance to facilitate the involvement of such institutions in power projects and markets, both on- and off-grid, in sub-Saharan Africa and partner with other investors and local institutions in sub-Saharan Africa, including private sector actors, to specifically increase access to reliable, affordable, and sustainable power in sub-Saharan Africa, including through—“(1) maximizing the number of people with new access to power and power services; “(2) improving and expanding the generation, transmission and distribution of power; “(3) providing reliable power to people and businesses in urban and rural communities; “(4) addressing the energy needs of marginalized people living in areas where there is little or no access to a power grid and developing plans to systematically increase coverage in rural areas; “(5) reducing transmission and distribution losses and improving end-use efficiency and demand-side management; “(6) reducing energy-related impediments to business productivity and investment; and “(7) building the capacity of countries in sub-Saharan Africa to monitor and appropriately and transparently regulate the power sector and encourage private investment in power production and distribution. “(b) Effectiveness Measurement.—In prioritizing and expediting institutional efforts and assistance pursuant to this section, as appropriate, such institutions shall use clear, accountable, and metric-based targets to measure the effectiveness of such guarantees and assistance in achieving the goals described in section 3. “(c) Promotion of Use of Private Financing and Assistance.—In carrying out policies under this section, such institutions shall promote the use of private financing and assistance and seek ways to remove barriers to private financing for projects and programs under this Act, including through charitable organizations. “(d) Rule of Construction.—Nothing in this section may be construed to authorize modifying or limiting the portfolio of the institutions covered by subsection (a) in other developing regions. “SEC. 6. LEVERAGING INTERNATIONAL SUPPORT.“In implementing the strategy described in section 4, the President should direct the United States representatives to appropriate international bodies to use the influence of the United States, consistent with the broad development goals of the United States, to advocate that each such body—“(1) commit to significantly increase efforts to promote investment in well-designed power sector and electrification projects in sub-Saharan Africa that increase energy access, in partnership with the private sector and consistent with the host countries’ absorptive capacity; “(2) address energy needs of individuals and communities where access to an electricity grid is impractical or cost-prohibitive; “(3) enhance coordination with the private sector in sub-Saharan Africa to increase access to electricity; “(4) provide technical assistance to the regulatory authorities of sub-Saharan African governments to remove unnecessary barriers to investment in otherwise commercially viable projects; and “(5) utilize clear, accountable, and metric-based targets to measure the effectiveness of such projects. “SEC. 7. PROGRESS REPORT.“(a) In General.—Not later than three years after the date of the enactment of this Act [Feb. 8, 2016], the President shall transmit to the Committee on Foreign Affairs of the House of Representatives and the Committee on Foreign Relations of the Senate a report on progress made toward achieving the strategy described in section 4 that includes the following:“(1) A report on United States programs supporting implementation of policy and legislative changes leading to increased power generation and access in sub-Saharan Africa, including a description of the number, type, and status of policy, regulatory, and legislative changes initiated or implemented as a result of programs funded or supported by the United States in countries in sub-Saharan Africa to support increased power generation and access after the date of the enactment of this Act. “(2) A description of power projects receiving United States Government support and how such projects, including off-grid efforts, are intended to achieve the strategy described in section 4. “(3) For each project described in paragraph (2)—“(A) a description of how the project fits into, or encourages modifications of, the national energy plan of the country in which the project will be carried out, including encouraging regulatory reform in that county; “(B) an estimate of the total cost of the project to the consumer, the country in which the project will be carried out, and other investors; “(C) the amount of financing provided or guaranteed by the United States Government for the project; “(D) an estimate of United States Government resources for the project, itemized by funding source, including from the Overseas Private Investment Corporation, the United States Agency for International Development, the Department of the Treasury, and other appropriate United States Government departments and agencies; “(E) an estimate of the number and regional locations of individuals, communities, businesses, schools, and health facilities that have gained power connections as a result of the project, with a description of how the reliability, affordability, and sustainability of power has been improved as of the date of the report; “(F) an assessment of the increase in the number of people and businesses with access to power, and in the operating electrical power capacity in megawatts as a result of the project between the date of the enactment of this Act and the date of the report; “(G) a description of efforts to gain meaningful local consultation for projects associated with this Act and any significant estimated noneconomic effects of the efforts carried out pursuant to this Act; and “(H) a description of the participation by small and medium enterprises based in sub-Saharan Africa on projects associated with this Act.”
+Pub. L. 114–121, Feb. 8, 2016, 130 Stat. 86, as amended by Pub. L. 115–254, div. F, title VI, § 1470(k), Oct. 5, 2018, 132 Stat. 3517, provided that: “SECTION 1. SHORT TITLE.“This Act may be cited as the ‘Electrify Africa Act of 2015’. “SEC. 2. PURPOSE.“The purpose of this Act is to encourage the efforts of countries in sub-Saharan Africa to improve access to affordable and reliable electricity in Africa in order to unlock the potential for inclusive economic growth, job creation, food security, improved health, education, and environmental outcomes, and poverty reduction. “SEC. 3. STATEMENT OF POLICY.“It is the policy of the United States to partner, consult, and coordinate with the governments of sub-Saharan African countries, international financial institutions, and African regional economic communities, cooperatives, and the private sector, in a concerted effort to—“(1) promote first-time access to power and power services for at least 50,000,000 people in sub-Saharan Africa by 2020 in both urban and rural areas; “(2) encourage the installation of at least 20,000 additional megawatts of electrical power in sub-Saharan Africa by 2020 using a broad mix of energy options to help reduce poverty, promote sustainable development, and drive inclusive economic growth; “(3) promote non-discriminatory reliable, affordable, and sustainable power in urban areas (including small urban areas) to promote economic growth and job creation; “(4) promote policies to facilitate public-private partnerships to provide non-discriminatory reliable, sustainable, and affordable electrical service to rural and underserved populations; “(5) encourage the necessary in-country reforms, including facilitating public-private partnerships specifically to support electricity access projects to make such expansion of power access possible; “(6) promote reforms of power production, delivery, and pricing, as well as regulatory reforms and transparency, to support long-term, market-based power generation and distribution; “(7) promote policies to displace kerosene lighting with other technologies; “(8) promote an all-of-the-above energy development strategy for sub-Saharan Africa that includes the use of oil, natural gas, coal, hydroelectric, wind, solar, and geothermal power, and other sources of energy; and “(9) promote and increase the use of private financing and seek ways to remove barriers to private financing and assistance for projects, including through charitable organizations. “SEC. 4. DEVELOPMENT OF COMPREHENSIVE, MULTIYEAR STRATEGY.“(a) Strategy Required.—“(1) In general.—The President shall establish a comprehensive, integrated, multiyear strategy to encourage the efforts of countries in sub-Saharan Africa to implement national power strategies and develop an appropriate mix of power solutions to provide access to sufficient reliable, affordable, and sustainable power in order to reduce poverty and drive economic growth and job creation consistent with the policy stated in section 3. “(2) Flexibility and responsiveness.—The President shall ensure that the strategy required under paragraph (1) maintains sufficient flexibility for and remains responsive to concerns and interests of affected local communities and technological innovation in the power sector. “(b) Report Required.—Not later than 180 days after the date of the enactment of this Act [Feb. 8, 2016], the President shall transmit to the Committee on Foreign Relations of the Senate and the Committee on Foreign Affairs of the House of Representatives a report that contains the strategy required under subsection (a) and includes a discussion of the following elements:“(1) The objectives of the strategy and the criteria for determining the success of the strategy. “(2) A general description of efforts in sub-Saharan Africa to—“(A) increase power production; “(B) strengthen electrical transmission and distribution infrastructure; “(C) provide for regulatory reform and transparent and accountable governance and oversight; “(D) improve the reliability of power; “(E) maintain the affordability of power; “(F) maximize the financial sustainability of the power sector; and “(G) improve non-discriminatory access to power that is done in consultation with affected communities. “(3) A description of plans to support efforts of countries in sub-Saharan Africa to increase access to power in urban and rural areas, including a description of plans designed to address commercial, industrial, and residential needs. “(4) A description of plans to support efforts to reduce waste and corruption, ensure local community consultation, and improve existing power generation through the use of a broad power mix, including fossil fuel and renewable energy, distributed generation models, energy efficiency, and other technological innovations, as appropriate. “(5) An analysis of existing mechanisms for ensuring, and recommendations to promote—“(A) commercial cost recovery; “(B) commercialization of electric service through distribution service providers, including cooperatives, to consumers; “(C) improvements in revenue cycle management, power pricing, and fees assessed for service contracts and connections; “(D) reductions in technical losses and commercial losses; and “(E) non-discriminatory access to power, including recommendations on the creation of new service provider models that mobilize community participation in the provision of power services. “(6) A description of the reforms being undertaken or planned by countries in sub-Saharan Africa to ensure the long-term economic viability of power projects and to increase access to power, including—“(A) reforms designed to allow third parties to connect power generation to the grid; “(B) policies to ensure there is a viable and independent utility regulator; “(C) strategies to ensure utilities become or remain creditworthy; “(D) regulations that permit the participation of independent power producers and private-public partnerships; “(E) policies that encourage private sector and cooperative investment in power generation; “(F) policies that ensure compensation for power provided to the electrical grid by on-site producers; “(G) policies to unbundle power services; “(H) regulations to eliminate conflicts of interest in the utility sector; “(I) efforts to develop standardized power purchase agreements and other contracts to streamline project development; “(J) efforts to negotiate and monitor compliance with power purchase agreements and other contracts entered into with the private sector; and “(K) policies that promote local community consultation with respect to the development of power generation and transmission projects. “(7) A description of plans to ensure meaningful local consultation, as appropriate, in the planning, long-term maintenance, and management of investments designed to increase access to power in sub-Saharan Africa. “(8) A description of the mechanisms to be established for—“(A) selection of partner countries for focused engagement on the power sector; “(B) monitoring and evaluating increased access to, and reliability and affordability of, power in sub-Saharan Africa; “(C) maximizing the financial sustainability of power generation, transmission, and distribution in sub-Saharan Africa; “(D) establishing metrics to demonstrate progress on meeting goals relating to access to power, power generation, and distribution in sub-Saharan Africa; and “(E) terminating unsuccessful programs. “(9) A description of how the President intends to promote trade in electrical equipment with countries in sub-Saharan Africa, including a description of how the government of each country receiving assistance pursuant to the strategy—“(A) plans to lower or eliminate import tariffs or other taxes for energy and other power production and distribution technologies destined for sub-Saharan Africa, including equipment used to provide energy access, including solar lanterns, solar home systems, and micro and mini grids; and “(B) plans to protect the intellectual property of companies designing and manufacturing products that can be used to provide energy access in sub-Saharan Africa. “(10) A description of how the President intends to encourage the growth of distributed renewable energy markets in sub-Saharan Africa, including off-grid lighting and power, that includes—“(A) an analysis of the state of distributed renewable energy in sub-Saharan Africa; “(B) a description of market barriers to the deployment of distributed renewable energy technologies both on- and off-grid in sub-Saharan Africa; “(C) an analysis of the efficacy of efforts by the Overseas Private Investment Corporation [now the United States International Development Finance Corporation] and the United States Agency for International Development to facilitate the financing of the importation, distribution, sale, leasing, or marketing of distributed renewable energy technologies; and “(D) a description of how bolstering distributed renewable energy can enhance the overall effort to increase power access in sub-Saharan Africa. “(11) A description of plans to ensure that small and medium enterprises based in sub-Saharan Africa can fairly compete for energy development and energy access opportunities associated with this Act. “(12) A description of how United States investments to increase access to energy in sub-Saharan Africa may reduce the need for foreign aid and development assistance in the future. “(13) A description of policies or regulations, both domestically and internationally, that create barriers to private financing of the projects undertaken in this Act. “(14) A description of the specific national security benefits to the United States that will be derived from increased energy access in sub-Saharan Africa. “(c) Interagency Working Group.—“(1) In general.—The President may, as appropriate, establish an Interagency Working Group to coordinate the activities of relevant United States Government departments and agencies involved in carrying out the strategy required under this section. “(2) Functions.—The Interagency Working Group may, among other things—“(A) seek to coordinate the activities of the United States Government departments and agencies involved in implementing the strategy required under this section; “(B) ensure efficient and effective coordination between participating departments and agencies; and “(C) facilitate information sharing, and coordinate partnerships between the United States Government, the private sector, and other development partners to achieve the goals of the strategy. “SEC. 5. PRIORITIZATION OF EFFORTS AND ASSISTANCE FOR POWER PROJECTS IN SUB-SAHARAN AFRICA BY KEY UNITED STATES INSTITUTIONS.“(a) In General.—In pursuing the policy goals described in section 3, the Administrator of the United States Agency for International Development, the Director of the Trade and Development Agency, the United States International Development Finance Corporation, and the Chief Executive Officer and Board of Directors of the Millennium Challenge Corporation should, as appropriate, prioritize and expedite institutional efforts and assistance to facilitate the involvement of such institutions in power projects and markets, both on- and off-grid, in sub-Saharan Africa and partner with other investors and local institutions in sub-Saharan Africa, including private sector actors, to specifically increase access to reliable, affordable, and sustainable power in sub-Saharan Africa, including through—“(1) maximizing the number of people with new access to power and power services; “(2) improving and expanding the generation, transmission and distribution of power; “(3) providing reliable power to people and businesses in urban and rural communities; “(4) addressing the energy needs of marginalized people living in areas where there is little or no access to a power grid and developing plans to systematically increase coverage in rural areas; “(5) reducing transmission and distribution losses and improving end-use efficiency and demand-side management; “(6) reducing energy-related impediments to business productivity and investment; and “(7) building the capacity of countries in sub-Saharan Africa to monitor and appropriately and transparently regulate the power sector and encourage private investment in power production and distribution. “(b) Effectiveness Measurement.—In prioritizing and expediting institutional efforts and assistance pursuant to this section, as appropriate, such institutions shall use clear, accountable, and metric-based targets to measure the effectiveness of such guarantees and assistance in achieving the goals described in section 3. “(c) Promotion of Use of Private Financing and Assistance.—In carrying out policies under this section, such institutions shall promote the use of private financing and assistance and seek ways to remove barriers to private financing for projects and programs under this Act, including through charitable organizations. “(d) Rule of Construction.—Nothing in this section may be construed to authorize modifying or limiting the portfolio of the institutions covered by subsection (a) in other developing regions. “SEC. 6. LEVERAGING INTERNATIONAL SUPPORT.“In implementing the strategy described in section 4, the President should direct the United States representatives to appropriate international bodies to use the influence of the United States, consistent with the broad development goals of the United States, to advocate that each such body—“(1) commit to significantly increase efforts to promote investment in well-designed power sector and electrification projects in sub-Saharan Africa that increase energy access, in partnership with the private sector and consistent with the host countries’ absorptive capacity; “(2) address energy needs of individuals and communities where access to an electricity grid is impractical or cost-prohibitive; “(3) enhance coordination with the private sector in sub-Saharan Africa to increase access to electricity; “(4) provide technical assistance to the regulatory authorities of sub-Saharan African governments to remove unnecessary barriers to investment in otherwise commercially viable projects; and “(5) utilize clear, accountable, and metric-based targets to measure the effectiveness of such projects. “SEC. 7. PROGRESS REPORT.“(a) In General.—Not later than three years after the date of the enactment of this Act [Feb. 8, 2016], the President shall transmit to the Committee on Foreign Affairs of the House of Representatives and the Committee on Foreign Relations of the Senate a report on progress made toward achieving the strategy described in section 4 that includes the following:“(1) A report on United States programs supporting implementation of policy and legislative changes leading to increased power generation and access in sub-Saharan Africa, including a description of the number, type, and status of policy, regulatory, and legislative changes initiated or implemented as a result of programs funded or supported by the United States in countries in sub-Saharan Africa to support increased power generation and access after the date of the enactment of this Act. “(2) A description of power projects receiving United States Government support and how such projects, including off-grid efforts, are intended to achieve the strategy described in section 4. “(3) For each project described in paragraph (2)—“(A) a description of how the project fits into, or encourages modifications of, the national energy plan of the country in which the project will be carried out, including encouraging regulatory reform in that county; “(B) an estimate of the total cost of the project to the consumer, the country in which the project will be carried out, and other investors; “(C) the amount of financing provided or guaranteed by the United States Government for the project; “(D) an estimate of United States Government resources for the project, itemized by funding source, including from the United States International Development Finance Corporation, the United States Agency for International Development, the Department of the Treasury, and other appropriate United States Government departments and agencies; “(E) an estimate of the number and regional locations of individuals, communities, businesses, schools, and health facilities that have gained power connections as a result of the project, with a description of how the reliability, affordability, and sustainability of power has been improved as of the date of the report; “(F) an assessment of the increase in the number of people and businesses with access to power, and in the operating electrical power capacity in megawatts as a result of the project between the date of the enactment of this Act and the date of the report; “(G) a description of efforts to gain meaningful local consultation for projects associated with this Act and any significant estimated noneconomic effects of the efforts carried out pursuant to this Act; and “(H) a description of the participation by small and medium enterprises based in sub-Saharan Africa on projects associated with this Act.”
 
 [For delegation of functions vested in President by sections 4 and 7 of Pub. L. 114–121, set out above, see Memorandum of President of the United States, Aug. 3, 2016, 81 F.R. 52323, set out below.]
-
-[Pub. L. 115–254, div. F, title VI, § 1470(k), (w), Oct. 5, 2018, 132 Stat. 3517, 3519, provided that, effective at the end of the transition period, as defined in [section 9681 of this title](./chapter-103-better-utilization-of-investments-leading-to-development.md#section-9681), sections 5 and 7 of the Electrify Africa Act of 2015 (Public Law 114–121; [22 U.S.C. 2293](./chapter-032-foreign-assistance.md#section-2293) note), set out above, are amended by striking “Overseas Private Investment Corporation” each place it appears and inserting “United States International Development Finance Corporation”.]
 
 #### Agricultural and Rural Development in Sub-Saharan Africa
 Pub. L. 105–385, § 2, Nov. 13, 1998, 112 Stat. 3460, provided that: “(a) Findings.—Congress finds the following:“(1) The economic, security, and humanitarian interests of the United States and the nations of sub-Saharan Africa would be enhanced by sustainable, broad-based agricultural and rural development in each of the African nations. “(2) According to the Food and Agriculture Organization, the number of undernourished people in Africa has more than doubled, from approximately 100,000,000 in the late 1960s to 215,000,000 in 1998, and is projected to increase to 265,000,000 by the year 2010. According to the Food and Agriculture Organization, the term ‘under nutrition’ means inadequate consumption of nutrients, often adversely affecting children’s physical and mental development, undermining their future as productive and creative members of their communities. “(3) Currently, agricultural production in Africa employs about two-thirds of the workforce but produces less than one-fourth of the gross domestic product in sub-Saharan Africa, according to the World Bank Group. “(4) African women produce up to 80 percent of the total food supply in Africa according to the International Food Policy Research Institute. “(5) An effective way to improve conditions of the poor is to increase the productivity of the agricultural sector. Productivity increases can be fostered by increasing research and education in agriculture and rural development. “(6) In November 1996, the World Food Summit set a goal of reducing hunger worldwide by 50 percent by the year 2015 and encouraged national governments to develop domestic food plans and to support international aid efforts. “(7) Although the World Bank Group recently has launched a major initiative to support agricultural and rural development, only 10 percent, or $1,200,000,000, of its total lending to sub-Saharan Africa for fiscal years 1993 to 1997 was devoted to agriculture. “(8)(A) United States food processing and agricultural sectors benefit greatly from the liberalization of global trade and increased exports. “(B) Africa represents a growing market for United States food and agricultural products. Africa’s food imports are projected to rise from less than 8,000,000 metric tons in 1990 to more than 25,000,000 metric tons by the [sic] 2020. “(9)(A) Increased private sector investment in African countries and expanded trade between the United States and Africa can greatly help African countries achieve food self-sufficiency and graduate from dependency on international assistance. “(B) Development assistance, technical assistance, and training can facilitate and encourage commercial development in Africa, such as improving rural roads, agricultural research and extension, and providing access to credit and other resources. “(10)(A) Several United States private voluntary organizations have demonstrated success in empowering Africans through direct business ownership and helping African agricultural producers more efficiently and directly market their products. “(B) Rural business associations, owned and controlled by farmer shareholders, also greatly help agricultural producers to increase their household incomes. “(b) Declaration of Policy.—It is the policy of the United States, consistent with title XII of part I of the Foreign Assistance Act of 1961 [probably means title XII of chapter 2 of part I of the Foreign Assistance Act of 1961, [22 U.S.C. 2220a](./chapter-032-foreign-assistance.md#section-2220a) et seq.], to support governments of sub-Saharan African countries, United States and African nongovernmental organizations, universities, businesses, and international agencies, to help ensure the availability of basic nutrition and economic opportunities for individuals in sub-Saharan Africa, through sustainable agriculture and rural development.”
@@ -9802,6 +9296,9 @@ Pub. L. 105–385, title I, Nov. 13, 1998, 112 Stat. 3462, as amended by Pub. L.
 
 #### Reports to Congress
 Pub. L. 101–513, title V, § 562(c), Nov. 5, 1990, 104 Stat. 2030, provided that: “As part of the annual Congressional Presentation materials for economic assistance, the Administrator of the Agency for International Development shall include a description of the progress made during the previous fiscal year in carrying out chapter 10 of part I of the Foreign Assistance Act of 1961 [this part] in three countries in sub-Saharan Africa which represent differing economic situations and levels of progress. The description shall include— “(1) the nature and extent of consultation to ensure local perspectives, as described in subsections (e)(1) and (f) of section 496 [[22 U.S.C. 2293(e)(1)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2293/e/1&num=0&edition=prelim), (f)]; “(2) the degree of involvement of local people in the implementation of projects having a local focus; “(3) the extent to which there has been expansion of the participation and integration of African women in each of the critical sectors specified in section 496(i); “(4) program assistance provided, including the amounts obligated, the criteria used for assisting reforms, and the provisions made pursuant to section 496(h)(2)(B) to protect vulnerable groups from possible negative consequences of the reforms; and “(5) a description of the assistance for the critical sector priorities specified in section 496(i), by sector, including the amounts obligated.”
+
+#### Delegation of Functions
+For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under [section 2381 of this title](./chapter-032-foreign-assistance.md#section-2381).
 
 #### Ex. Ord. No. 13746. Advancing the Goals of the Power Africa Initiative To Expand Access to Electricity in Sub-Saharan Africa Through the Establishment of the President’s Power Africa Working Group
 Ex. Ord. No. 13746, Nov. 3, 2016, 81 F.R. 78697, provided:
@@ -10021,9 +9518,6 @@ Par. (2)(E) to (J). Pub. L. 107–246, § 4(a)(1)(B)–(E), added subpars. (E) t
 
 Pars. (3) to (14). Pub. L. 107–246, § 4(a)(2), added par. (3) and redesignated former pars. (3) to (13) as (4) to (14), respectively.
 
-#### Delegation of Functions
-For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under [section 2381 of this title](./chapter-032-foreign-assistance.md#section-2381), and section 3(b) of Ex. Ord. No. 12884, Dec. 1, 1993, 58 F.R. 64099, as amended, set out as a note under [section 5812 of this title](./chapter-067-freedom-for-russia-and-emerging-eurasian-democracies-and-open-markets-support.md#section-5812).
-
 #### Findings and Purposes
 Pub. L. 107–246, § 2, Oct. 23, 2002, 116 Stat. 1511, provided that: “(a) Findings.—Congress makes the following findings:“(1) Since the dissolution of the Soviet Union, the leadership of the Russian Federation has publicly committed itself to building—“(A) a society with democratic political institutions and practices, the observance of universally recognized standards of human rights, and religious and press freedom; and “(B) a market economy based on internationally accepted principles of transparency, accountability, and the rule of law. “(2) In order to facilitate this transition, the international community has provided multilateral and bilateral technical assistance, and the United States’ contribution to these efforts has played an important role in developing new institutions built on democratic and liberal economic foundations and the rule of law. “(3)(A) Since 1992, United States Government democratic reform programs and public diplomacy programs, including training, and small grants have provided access to and training in the use of the Internet, brought nearly 40,000 Russian citizens to the United States, and have led to the establishment of more than 65,000 nongovernmental organizations, thousands of independent local media outlets, despite governmental opposition, and numerous political parties. “(B) These efforts contributed to the substantially free and fair Russian parliamentary elections in 1995 and 1999. “(4) The United States has assisted Russian efforts to replace its centrally planned, state-controlled economy with a market economy and helped create institutions and infrastructure for a market economy. Approximately two-thirds of the Russian Federation’s gross domestic product is now generated by the private sector, and the United States recognized Russia as a market economy on June 7, 2002. “(5)(A) The United States has fostered grassroots entrepreneurship in the Russian Federation by focusing United States economic assistance on small- and medium-sized businesses and by providing training, consulting services, and small loans to more than 250,000 Russian entrepreneurs. “(B) There are now more than 900,000 small businesses in the Russian Federation, producing 12 to 15 percent, depending on the estimate, of the gross domestic product of the Russian Federation. “(C) United States-funded programs have contributed to fighting corruption and financial crime, such as money laundering, by helping to—“(i) establish a commercial legal infrastructure; “(ii) develop an independent judiciary; “(iii) support the drafting of a new criminal code, civil code, and bankruptcy law; “(iv) develop a legal and regulatory framework for the Russian Federation’s equivalent of the United States Securities and Exchange Commission; “(v) support Russian law schools; “(vi) create legal aid clinics; and “(vii) bolster law-related activities of nongovernmental organizations. “(6) Because the capability of Russian democratic forces and the civil society to organize and defend democratic gains without international support is uncertain, and because the gradual integration of the Russian Federation into the global order of free-market, democratic nations would enhance Russian cooperation with the United States on a wide range of political, economic, and security issues, the success of democracy in Russia is in the national security interest of the United States, and the United States Government should develop a far-reaching and flexible strategy aimed at strengthening Russian society’s support for democracy and a market economy, particularly by enhancing Russian democratic institutions and education, promoting the rule of law, and supporting Russia’s independent media. “(7) Since the tragic events of September 11, 2001, the Russian Federation has stood with the United States and the rest of the civilized world in the struggle against terrorism and has cooperated in the war in Afghanistan by sharing intelligence and through other means. “(8) United States-Russia relations have improved, leading to a successful summit between President Bush and President Putin in May 2002, resulting in a ‘Foundation for Cooperation’. “(b) Purposes.—The purposes of this Act [see Short Title of 2002 Amendments note set out under [section 2151 of this title](./chapter-032-foreign-assistance.md#section-2151)] are—“(1) to strengthen and advance institutions of democratic government and of free and independent media, and to sustain the development of an independent civil society in the Russian Federation based on religious and ethnic tolerance, internationally recognized human rights, and an internationally recognized rule of law; and “(2) to focus United States foreign assistance programs on using local expertise and to give local organizations a greater role in designing and implementing such programs, while maintaining appropriate oversight and monitoring.”
 
@@ -10032,6 +9526,9 @@ Pub. L. 107–246, § 3, Oct. 23, 2002, 116 Stat. 1513, provided that: “(a) Se
 
 #### Activities To Support the Russian Federation
 Pub. L. 107–246, § 5, Oct. 23, 2002, 116 Stat. 1515, provided that: “(a) Assistance Programs.—In providing assistance to the Russian Federation under chapter 11 of part I of the Foreign Assistance Act of 1961 ([22 U.S.C. 2295](./chapter-032-foreign-assistance.md#section-2295) et seq.), the President is authorized to—“(1) work with the Government of the Russian Federation, the Duma, and representatives of the Russian Federation judiciary to help implement a revised and improved code of criminal procedure and other laws; “(2) establish civic education programs relating to democracy, public policy, the rule of law, and the importance of independent media, including the establishment of ‘American Centers’ and public policy schools at Russian universities and encourage cooperative programs with universities in the United States to offer courses through Internet-based off-site learning centers at Russian universities; and “(3) support the Regional Initiatives (RI) program, which provides targeted assistance in those regions of the Russian Federation that have demonstrated a commitment to reform, democracy, and the rule of law, and which promotes the concept of such programs as a model for all regions of the Russian Federation. “(b) Radio Free Europe/Radio Liberty and Voice of America.—RFE/RL, Incorporated, and the Voice of America should use new and innovative techniques, in cooperation with local independent media sources and using local languages as appropriate and as possible, to disseminate throughout the Russian Federation information relating to democracy, free-market economics, the rule of law, and human rights.”
+
+#### Delegation of Functions
+For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under [section 2381 of this title](./chapter-032-foreign-assistance.md#section-2381), and section 3(b) of Ex. Ord. No. 12884, Dec. 1, 1993, 58 F.R. 64099, as amended, set out as a note under [section 5812 of this title](./chapter-067-freedom-for-russia-and-emerging-eurasian-democracies-and-open-markets-support.md#section-5812).
 
 
 <a id="section-2295a"></a>
@@ -10145,14 +9642,17 @@ Subsec. (d). Pub. L. 104–114, § 106(d)(2), added subsec. (d).
 
 1994—Subsec. (b)(4). Pub. L. 103–236 substituted “section 2799aa or 2799aa–1” for “section 2429 or 2429a”.
 
-#### Change of Name
-The Conference on Security and Cooperation in Europe to be called the Organization for Security and Cooperation in Europe effective Jan. 1, 1995, pursuant to Ex. Ord. No. 13029, Dec. 3, 1996, 61 F.R. 64591.
-
 #### Effective Date of 1994 Amendment
 Amendment by Pub. L. 103–236 effective 60 days after Apr. 30, 1994, see section 831 of Pub. L. 103–236, set out as an Effective Date note under [section 6301 of this title](./chapter-072-nuclear-proliferation-prevention.md#section-6301).
 
 #### Transfer of Functions
 United States Information Agency (other than Broadcasting Board of Governors and International Broadcasting Bureau) abolished and functions transferred to Secretary of State, see sections 6531 and 6532 of this title.
+
+#### Ineligibility for Assistance of Institutions Withholding Certain Documents of United States Nationals
+Pub. L. 102–511, title II, § 202, Oct. 24, 1992, 106 Stat. 3331, provided that: “(a) Prohibition.—Except as provided in subsections (b) and (c), an agency, instrumentality, or other governmental entity of an independent state of the former Soviet Union shall not be eligible to receive assistance under chapter 11 of part I of the Foreign Assistance Act of 1961 [[22 U.S.C. 2295](./chapter-032-foreign-assistance.md#section-2295) et seq.] if—“(1) on the date of enactment of this Act [Oct. 24, 1992], there is outstanding a final judgment by a court of competent jurisdiction in that independent state that that governmental entity is withholding unlawfully books or other documents of religious or historical significance that are the property of United States persons; and “(2) within 90 days of a request by such United States persons, the Secretary of State determines that execution of the court’s judgment is blocked as the result of extrajudicial causes such as any of the following:“(A) A declared refusal of the defendant to comply. “(B) The unwillingness or failure of local authorities to enforce compliance. “(C) The issuance of an administrative decree nullifying a court’s judgment or forbidding compliance. “(D) The passage of legislation, after a court’s judgment, nullifying that judgment or forbidding compliance with that judgment. “(b) Exception for Humanitarian Assistance.—The prohibition contained in subsection (a) shall not apply to the provision of assistance to alleviate suffering resulting from a natural or man-made disaster. “(c) Waiver Authority.—The Secretary of State may waive the application of subsection (a) whenever the Secretary finds that—“(1) the court’s judgment has been executed; or “(2) it is important to the national interest of the United States to do so. “(d) Report.—Nine months after the date of enactment of this Act [Oct. 24, 1992], the Secretary of State shall report to the Speaker of the House of Representatives and the Chairman of the Committee on Foreign Relations of the Senate on the status of final judgments described in subsection (a)(1). “(e) United States Person.—For purposes of this section, the term ‘United States person’ means—“(1) any citizen, national, or permanent resident alien of the United States; and “(2) any corporation, partnership, or other juridical entity which is 50 percent or more beneficially owned by individuals described in paragraph (1).”
+
+#### Change of Name
+The Conference on Security and Cooperation in Europe to be called the Organization for Security and Cooperation in Europe effective Jan. 1, 1995, pursuant to Ex. Ord. No. 13029, Dec. 3, 1996, 61 F.R. 64591.
 
 #### Delegation of Functions
 For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under [section 2381 of this title](./chapter-032-foreign-assistance.md#section-2381).
@@ -10162,9 +9662,6 @@ Functions of President under subsecs. (a) and (c)(2) of this section delegated t
 Functions of President under subsecs. (b)(1)–(3), (5), and (c)(1) of this section delegated to Secretary of State by section 1(2), (3) of Ex. Ord. No. 12884.
 
 Functions of President under subsec. (c)(3) of this section and requirement to make reports under this section regarding determinations under subsec. (c)(3) delegated to Secretary of State by section 3(c) of Ex. Ord. No. 12884, Dec. 1, 1993, 58 F.R. 64099, as amended.
-
-#### Ineligibility for Assistance of Institutions Withholding Certain Documents of United States Nationals
-Pub. L. 102–511, title II, § 202, Oct. 24, 1992, 106 Stat. 3331, provided that: “(a) Prohibition.—Except as provided in subsections (b) and (c), an agency, instrumentality, or other governmental entity of an independent state of the former Soviet Union shall not be eligible to receive assistance under chapter 11 of part I of the Foreign Assistance Act of 1961 [[22 U.S.C. 2295](./chapter-032-foreign-assistance.md#section-2295) et seq.] if—“(1) on the date of enactment of this Act [Oct. 24, 1992], there is outstanding a final judgment by a court of competent jurisdiction in that independent state that that governmental entity is withholding unlawfully books or other documents of religious or historical significance that are the property of United States persons; and “(2) within 90 days of a request by such United States persons, the Secretary of State determines that execution of the court’s judgment is blocked as the result of extrajudicial causes such as any of the following:“(A) A declared refusal of the defendant to comply. “(B) The unwillingness or failure of local authorities to enforce compliance. “(C) The issuance of an administrative decree nullifying a court’s judgment or forbidding compliance. “(D) The passage of legislation, after a court’s judgment, nullifying that judgment or forbidding compliance with that judgment. “(b) Exception for Humanitarian Assistance.—The prohibition contained in subsection (a) shall not apply to the provision of assistance to alleviate suffering resulting from a natural or man-made disaster. “(c) Waiver Authority.—The Secretary of State may waive the application of subsection (a) whenever the Secretary finds that—“(1) the court’s judgment has been executed; or “(2) it is important to the national interest of the United States to do so. “(d) Report.—Nine months after the date of enactment of this Act [Oct. 24, 1992], the Secretary of State shall report to the Speaker of the House of Representatives and the Chairman of the Committee on Foreign Relations of the Senate on the status of final judgments described in subsection (a)(1). “(e) United States Person.—For purposes of this section, the term ‘United States person’ means—“(1) any citizen, national, or permanent resident alien of the United States; and “(2) any corporation, partnership, or other juridical entity which is 50 percent or more beneficially owned by individuals described in paragraph (1).”
 
 
 <a id="section-2295b"></a>
@@ -10263,15 +9760,15 @@ Section 510 of the Foreign Operations, Export Financing, and Related Programs Ap
 #### Effective Date of 1994 Amendment
 Amendment by Pub. L. 103–236 effective 60 days after Apr. 30, 1994, see section 831 of Pub. L. 103–236, set out as an Effective Date note under [section 6301 of this title](./chapter-072-nuclear-proliferation-prevention.md#section-6301).
 
+#### Trans-Caucasus Enterprise Fund
+Pub. L. 104–107, title II, [(t)], Feb. 12, 1996, 110 Stat. 714, provided that: “The President shall establish a Trans-Caucasus Enterprise Fund to encourage regional peace through economic cooperation: Provided, That the President shall seek other bilateral and multilateral investors in the Fund: Provided further, That of the funds made available under this heading [Other Bilateral Economic Assistance, assistance for the new independent states of the former soviet union, see 110 Stat. 712], not less than $15,000,000 shall be made available for a United States investment in the Trans-Caucasus Enterprise Fund.”
+
 #### Delegation of Functions
 For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under [section 2381 of this title](./chapter-032-foreign-assistance.md#section-2381).
 
 Functions of President under subsecs. (c) and (g) of this section delegated to Coordinator by section 2(c) of Ex. Ord. No. 12884, Dec. 1, 1993, 58 F.R. 64099, set out as a note under [section 5812 of this title](./chapter-067-freedom-for-russia-and-emerging-eurasian-democracies-and-open-markets-support.md#section-5812).
 
 Functions of President under subsecs. (h) and (i) of this section delegated by section 5(a) of Ex. Ord. No. 12884 to head of agency responsible for administering the particular program or activity with respect to which the authority is to be exercised.
-
-#### Trans-Caucasus Enterprise Fund
-Pub. L. 104–107, title II, [(t)], Feb. 12, 1996, 110 Stat. 714, provided that: “The President shall establish a Trans-Caucasus Enterprise Fund to encourage regional peace through economic cooperation: Provided, That the President shall seek other bilateral and multilateral investors in the Fund: Provided further, That of the funds made available under this heading [Other Bilateral Economic Assistance, assistance for the new independent states of the former soviet union, see 110 Stat. 712], not less than $15,000,000 shall be made available for a United States investment in the Trans-Caucasus Enterprise Fund.”
 
 
 <a id="section-2295c"></a>
@@ -10351,16 +9848,13 @@ For delegation of functions of President under this section, see Ex. Ord. No. 12
 
 (1) Activities by the Export-Import Bank to complete the review process for eligibility for financing under the Export-Import Bank Act of 1945 [[12 U.S.C. 635](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section635&num=0&edition=prelim) et seq.].
 
-(2) The provision of insurance, reinsurance, financing, or other assistance by the Overseas Private Investment Corporation.
+(2) The provision of insurance, reinsurance, financing, or other assistance by the United States International Development Finance Corporation.
 
 (3) Assistance under [section 2421 of this title](./chapter-032-foreign-assistance.md#section-2421) (relating to the Trade and Development Agency).
 
 **(c) Activities supported** Activities that may be supported by programs under subsection (b) include promoting actively the participation of United States companies and investors in the planning, financing, and construction of infrastructure for communications, transportation, including air transportation, and energy and trade including highways, railroads, port facilities, shipping, banking, insurance, telecommunications networks, and gas and oil pipelines.
 
 ### Statutory Notes
-
-#### Amendment of Subsection (b)(2)
-Pub. L. 115–254, div. F, title VI, § 1470(j)(2), (w), Oct. 5, 2018, 132 Stat. 3517, 3519, provided that, effective at the end of the transition period, as defined in [section 9681 of this title](./chapter-103-better-utilization-of-investments-leading-to-development.md#section-9681), subsection (b)(2) of this section is amended by striking “Overseas Private Investment Corporation” and inserting “United States International Development Finance Corporation”. See 2018 Amendment note below.
 
 #### References in Text
 The Export-Import Bank Act of 1945, referred to in subsec. (b)(1), is act July 31, 1945, ch. 341, 59 Stat. 526, as amended, which is classified generally to subchapter I (§ 635 et seq.) of chapter 6A of Title 12, Banks and Banking. For complete classification of this Act to the Code, see Short Title note set out under [section 635 of Title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section635&num=0&edition=prelim) and Tables.
@@ -10456,9 +9950,6 @@ The Congress of the United States reaffirms the policy of the United States to a
 #### References in Text
 This legislation, referred to in fourth paragraph, means Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, as amended, known as the Foreign Assistance Act of 1961. For complete classification of this Act to the Code, see Short Title note set out under [section 2151 of this title](./chapter-032-foreign-assistance.md#section-2151) and Tables.
 
-#### References to Subchapter II Deemed To Exclude Certain Parts of Subchapter II
-References to subchapter II of this chapter are deemed to exclude parts IV (§ 2346 et seq.), VI (§ 2348 et seq.), and VIII (§ 2349aa et seq.) of subchapter II, and references to subchapter I of this chapter are deemed to include such parts. See section 202(b) of Pub. L. 92–226, set out as a note under [section 2346 of this title](./chapter-032-foreign-assistance.md#section-2346), and sections 2348c and 2349aa–5 of this title.
-
 #### Prior Provisions
 A prior section 501 of Pub. L. 87–195, provided that part II of Pub. L. 87–195 [subchapter II of this chapter] should be cited as the “International Peace and Security Act of 1961”, prior to repeal by Pub. L. 88–205, pt. II, § 201(b), Dec. 16, 1963, 77 Stat. 384.
 
@@ -10477,6 +9968,9 @@ Pub. L. 107–228, div. A, title VI, § 699, Sept. 30, 2002, 116 Stat. 1418, pro
 [Functions of President under section 699 of Pub. L. 107–228, set out above, delegated to Secretary of State by Memorandum of President of the United States, Apr. 30, 2009, 74 F.R. 22637.]
 
 [For definition of “appropriate congressional committees” as used in section 699 of Pub. L. 107–228, set out above, see section 3 of Pub. L. 107–228, set out as a note under [section 2651 of this title](./chapter-038-department-of-state.md#section-2651).]
+
+#### References to Subchapter II Deemed To Exclude Certain Parts of Subchapter II
+References to subchapter II of this chapter are deemed to exclude parts IV (§ 2346 et seq.), VI (§ 2348 et seq.), and VIII (§ 2349aa et seq.) of subchapter II, and references to subchapter I of this chapter are deemed to include such parts. See section 202(b) of Pub. L. 92–226, set out as a note under [section 2346 of this title](./chapter-032-foreign-assistance.md#section-2346), and sections 2348c and 2349aa–5 of this title.
 
 
 <a id="section-2302"></a>
@@ -10655,9 +10149,6 @@ The Arms Export Control Act, referred to in subsecs. (d)(2)(B) and (f), is Pub. 
 
 This chapter, referred to in subsec. (f), was in the original “this Act”, meaning Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, as amended, known as the Foreign Assistance Act of 1961. For complete classification of this Act to the Code, see Short Title note set out under [section 2151 of this title](./chapter-032-foreign-assistance.md#section-2151) and Tables.
 
-#### References to Subchapter I Deemed To Include Certain Parts of Subchapter II
-References to subchapter I of this chapter are deemed to include parts IV (§ 2346 et seq.), VI (§ 2348 et seq.), and VIII (§ 2349aa et seq.) of subchapter II of this chapter, and references to subchapter II are deemed to exclude such parts. See section 202(b) of Pub. L. 92–226, set out as a note under [section 2346 of this title](./chapter-032-foreign-assistance.md#section-2346), and sections 2348c and 2349aa–5 of this title.
-
 #### Codification
 The 1983 amendment by Pub. L. 98–151 is based on section 202(a) of H.R. 2992, Ninety-eighth Congress, 1st Session, as reported May 17, 1983, which was enacted into permanent law by Pub. L. 98–151.
 
@@ -10723,6 +10214,9 @@ Subsec. (d)(2)(A). Pub. L. 95–384, §§ 10(b)(1), 12(b), substituted “(econo
 1977—Subsecs. (b), (c)(1). Pub. L. 95–105 substituted “Assistant Secretary of State” for “Coordinator”.
 
 1976—Pub. L. 94–329 restricted the power of the President by eliminating the extraordinary circumstances exception to termination of assistance for gross violations of recognized human rights, directed the Secretary of State, as part of the presentation materials for an assistance program, to transmit a full and complete report to Congress on the human rights practices of the proposed recipient country and, within 30 days of a request by Congress, to supply information concerning the human rights practices of a country receiving assistance for determination as to whether the assistance should be continued, restricted, or terminated, and defined “security assistance”.
+
+#### References to Subchapter I Deemed To Include Certain Parts of Subchapter II
+References to subchapter I of this chapter are deemed to include parts IV (§ 2346 et seq.), VI (§ 2348 et seq.), and VIII (§ 2349aa et seq.) of subchapter II of this chapter, and references to subchapter II are deemed to exclude such parts. See section 202(b) of Pub. L. 92–226, set out as a note under [section 2346 of this title](./chapter-032-foreign-assistance.md#section-2346), and sections 2348c and 2349aa–5 of this title.
 
 #### Effective Date of 2004 Amendment
 Amendment by Pub. L. 108–332 applicable beginning with the first report under sections 2151n(d), 2304(b), and 6412(b) of this title submitted more than 180 days after Oct. 16, 2004, see section 6(c) of Pub. L. 108–332, set out as a note under [section 2151n of this title](./chapter-032-foreign-assistance.md#section-2151n).
@@ -10865,17 +10359,17 @@ Amendment by Pub. L. 99–83 effective Oct. 1, 1985, see section 1301 of Pub. L.
 #### Transfer of Functions
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).
 
-#### Delegation of Functions
-For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under [section 2381 of this title](./chapter-032-foreign-assistance.md#section-2381).
-
 #### Reports to Congressional Committees
 Pub. L. 100–461, title III, Oct. 1, 1988, 102 Stat. 2268–17 provided in part: “That the Committees on Appropriations shall be furnished on March 1 of each year a complete report of the status of military assistance funds appropriated by this or any future Act committed for the payment of any sales under the Arms Export Control Act [[22 U.S.C. 2751](./chapter-039-arms-export-control.md#section-2751) et seq.] as regards the individual sale, item description, and estimated sales price.”
 
-#### Findings by Secretary of State
-The Secretary of State, in the implementation of the functions delegated to him under section 2314(a)(1), (4), and (e) of this title, was authorized by section 1–701(e)(1) of Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56678, eff. Oct. 1, 1979, set out as a note under [section 2381 of this title](./chapter-032-foreign-assistance.md#section-2381), to find, in the case of a proposed transfer of a defense article or a related training or a related defense service by a foreign country or international organization to a foreign country or international organization not otherwise eligible under subsec. (a) of this section, whether the proposed transfer would strengthen the security of the United States and promote world peace.
-
 #### Review of Military Assistance Program; Reduction and Elimination Plan; Submittal to Congress
 Pub. L. 93–559, § 17, Dec. 30, 1974, 88 Stat. 1800, which set forth provisions respecting review of military assistance program and submittal to Congress of plan for reduction and elimination, was repealed by Pub. L. 95–384, § 29(c)(4), Sept. 26, 1978, 92 Stat. 747.
+
+#### Delegation of Functions
+For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under [section 2381 of this title](./chapter-032-foreign-assistance.md#section-2381).
+
+#### Findings by Secretary of State
+The Secretary of State, in the implementation of the functions delegated to him under section 2314(a)(1), (4), and (e) of this title, was authorized by section 1–701(e)(1) of Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56678, eff. Oct. 1, 1979, set out as a note under [section 2381 of this title](./chapter-032-foreign-assistance.md#section-2381), to find, in the case of a proposed transfer of a defense article or a related training or a related defense service by a foreign country or international organization to a foreign country or international organization not otherwise eligible under subsec. (a) of this section, whether the proposed transfer would strengthen the security of the United States and promote world peace.
 
 
 <a id="section-2312"></a>
@@ -11177,9 +10671,6 @@ The Arms Export Control Act, referred to in subsec. (a)(1)(B), is Pub. L. 90–6
 
 The Migration and Refugee Assistance Act of 1962, referred to in subsec. (a)(2)(A)(i)(V), is Pub. L. 87–510, June 28, 1962, 76 Stat. 121, as amended, which is classified principally to chapter 36 (§ 2601 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 2601 of this title](./chapter-036-migration-and-refugee-assistance.md#section-2601) and Tables.
 
-#### References to Subchapter II Deemed To Exclude Certain Parts of Subchapter II
-References to subchapter II of this chapter are deemed to exclude parts IV (§ 2346 et seq.), VI (§ 2348 et seq.), and VIII (§ 2349aa et seq.) of subchapter II, and references to subchapter I of this chapter are deemed to include such parts. See section 202(b) of Pub. L. 92–226, set out as a note under [section 2346 of this title](./chapter-032-foreign-assistance.md#section-2346), and sections 2348c and 2349aa–5 of this title.
-
 #### Amendments
 2000—Subsec. (a)(2)(A)(i)(III) to (V). Pub. L. 106–280, § 121(b), added subcls. (III) to (V) and struck out former subcl. (III) which read as follows: “the Migration and Refugee Assistance Act of 1962; or”.
 
@@ -11236,6 +10727,9 @@ Subsec. (c). Pub. L. 96–92 incorporated reimbursement provision of former subs
 1963—Subsec. (a). Pub. L. 88–205 substituted “1964” for “1963” wherever appearing.
 
 1962—Subsec. (a). Pub. L. 87–565 substituted “1963” for “1962” wherever appearing.
+
+#### References to Subchapter II Deemed To Exclude Certain Parts of Subchapter II
+References to subchapter II of this chapter are deemed to exclude parts IV (§ 2346 et seq.), VI (§ 2348 et seq.), and VIII (§ 2349aa et seq.) of subchapter II, and references to subchapter I of this chapter are deemed to include such parts. See section 202(b) of Pub. L. 92–226, set out as a note under [section 2346 of this title](./chapter-032-foreign-assistance.md#section-2346), and sections 2348c and 2349aa–5 of this title.
 
 #### Delegation of Functions
 For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under [section 2381 of this title](./chapter-032-foreign-assistance.md#section-2381).
@@ -11305,11 +10799,11 @@ Subsec. (e). Pub. L. 92–226, § 402(3), added subsec. (e).
 #### Effective Date of 1976 Amendment
 Pub. L. 94–329, title II, § 210(c)(2), June 30, 1976, 90 Stat. 740, provided in part that the amendment of subsecs. (a) to (c) and (e) by Pub. L. 94–329 is effective July 1, 1976.
 
-#### Delegation of Functions
-For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under [section 2381 of this title](./chapter-032-foreign-assistance.md#section-2381).
-
 #### Transfer of Suspense Account Funds to General Fund of Treasury
 Pub. L. 94–329, title II, § 210(c)(2), June 30, 1976, 90 Stat. 740, provided in part that all funds in the suspense account referred to in former subsec. (a) of this section on July 1, 1976, shall be transferred to the general fund of the Treasury.
+
+#### Delegation of Functions
+For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under [section 2381 of this title](./chapter-032-foreign-assistance.md#section-2381).
 
 
 <a id="section-2321c"></a>
@@ -11343,13 +10837,13 @@ Decisions to furnish military assistance made under subchapter II of this chapte
 
 ### Statutory Notes
 
-#### References to Subchapter II Deemed To Exclude Certain Parts of Subchapter II
-References to subchapter II of this chapter are deemed to exclude parts IV (§ 2346 et seq.), VI (§ 2348 et seq.), and VIII (§ 2349aa et seq.) of subchapter II, and references to subchapter I of this chapter are deemed to include such parts. See section 202(b) of Pub. L. 92–226, set out as a note under [section 2346 of this title](./chapter-032-foreign-assistance.md#section-2346), and sections 2348c and 2349aa–5 of this title.
-
 #### Amendments
 1998—Pub. L. 105–277 substituted “take into account” for “be made in coordination with the Director of the United States Arms Control and Disarmament Agency and shall take into account his opinion as to” in introductory provisions.
 
 1975—Pub. L. 94–141 substituted “be made in coordination with the Director of the United States Arms Control and Disarmament Agency and shall take into account his opinion as to” for “take into account”.
+
+#### References to Subchapter II Deemed To Exclude Certain Parts of Subchapter II
+References to subchapter II of this chapter are deemed to exclude parts IV (§ 2346 et seq.), VI (§ 2348 et seq.), and VIII (§ 2349aa et seq.) of subchapter II, and references to subchapter I of this chapter are deemed to include such parts. See section 202(b) of Pub. L. 92–226, set out as a note under [section 2346 of this title](./chapter-032-foreign-assistance.md#section-2346), and sections 2348c and 2349aa–5 of this title.
 
 #### Effective Date of 1998 Amendment
 Amendment by Pub. L. 105–277 effective Apr. 1, 1999, see section 1201 of Pub. L. 105–277, set out as an Effective Date note under [section 6511 of this title](./chapter-074-foreign-affairs-agencies-consolidation.md#section-6511).
@@ -11392,7 +10886,7 @@ Section 1–501(b) of Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56675, eff. Oc
 
 (2)
 
-  (A) The value of such additions to stockpiles of defense articles in foreign countries shall not exceed $200,000,000 for each of fiscal years 2013, 2014, 2015, 2016, 2017, 2018, 2019, and 2020.
+  (A) The value of such additions to stockpiles of defense articles in foreign countries shall not exceed $200,000,000 for each of fiscal years 2021, 2022, 2023, 2024, and 2025.
 
   (B) Of the amount specified in subparagraph (A) for a fiscal year, not more than $200,000,000 may be made available for stockpiles in the State of Israel.
 
@@ -11415,7 +10909,13 @@ The Arms Export Control Act, referred to in subsec. (a), is Pub. L. 90–629, Oc
 Amendment by Pub. L. 98–473 is based on section 116(a) of H.R. 5119, Ninety-eighth Congress, as passed by the House of Representatives May 10, 1984, which was enacted into permanent law by Pub. L. 98–473.
 
 #### Amendments
-2019—Subsec. (b)(2)(A). Pub. L. 116–6 substituted “2019, and 2020” for “and 2019”.
+2021—Subsec. (b)(2)(A). Pub. L. 116–283, which directed substitution of “2021, 2022, 2023, 2024, and 2025” for “2013, 2014, 2015, 2016, 2017, 2018, 2019, and 2020”, was executed by making the substitution for “2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, and 2023”, to reflect the probable intent of Congress and the intervening amendments by Pub. L. 116–260 and Pub. L. 116–94. See 2020 and 2019 Amendment notes below.
+
+2020—Subsec. (b)(2)(A). Pub. L. 116–260 substituted “2021, 2022, and 2023” for “and 2021”.
+
+2019—Subsec. (b)(2)(A). Pub. L. 116–94 substituted “2020, and 2021” for “and 2020”.
+
+Pub. L. 116–6 substituted “2019, and 2020” for “and 2019”.
 
 2018—Subsec. (b)(2)(A). Pub. L. 115–141 substituted “2018, and 2019” for “and 2018”.
 
@@ -11523,14 +11023,20 @@ Amendment by Pub. L. 99–83 effective Oct. 1, 1985, see section 1301 of Pub. L.
 #### Effective Date of 1984 Amendment
 Section 116(b) of H.R. 5119, as passed by the House of Representatives May 10, 1984, and enacted into permanent law by Pub. L. 98–473, title I, § 101(1) [title V, § 541(a)], Oct. 12, 1984, 98 Stat. 1884, 1903, provided that: “The amendment made by subsection (a) [amending this section] shall take effect on the date of enactment of this Act [Oct. 12, 1984].”
 
-#### Delegation of Functions
-For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under [section 2381 of this title](./chapter-032-foreign-assistance.md#section-2381).
+#### Rules Governing the Transfer of Precision-Guided Munitions to Israel Above the Annual Restriction
+Pub. L. 116–283, div. A, title XII, § 1275, Jan. 1, 2021, 134 Stat. 3979, provided that: “(a) In General.—Notwithstanding section 514(b) of the Foreign Assistance Act of 1961 ([22 U.S.C. 2321h(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2321h/b&num=0&edition=prelim)), and subject to subsections (b) and (c) of this section, the President, acting through the Secretary of Defense and with the concurrence of the Secretary of State, is authorized to transfer to Israel precision-guided munitions from reserve stocks, including the War Reserve Stockpile for Allies-Israel, consistent with—“(1) all other requirements set forth in the Foreign Assistance Act of 1961 ([22 U.S.C. 2151](./chapter-032-foreign-assistance.md#section-2151) et seq.); and “(2) the requirements set forth in the Arms Export Control Act ([22 U.S.C. 2751](./chapter-039-arms-export-control.md#section-2751) et seq.). “(b) Conditions.—Except in the case of an emergency, as determined by the President, a transfer under subsection (a) of this section may only occur if the transfer—“(1) does not affect the ability of the United States to maintain a sufficient supply of precision-guided munitions to satisfy United States warfighting requirements; “(2) does not harm the combat readiness of the United States; “(3) does not affect the ability of the United States to meet its commitments to allies with respect to the transfer of precision-guided munitions; and “(4) is in the national security interest of the United States. “(c) Certification.—“(1) In general.—Except in the case of an emergency, as determined by the President, not later than 15 days before making a transfer under subsection (a) of this section, the Secretary of Defense, with the concurrence of the Secretary of State, shall certify to the appropriate congressional committees that the transfer meets the conditions specified in subsection (b) of this section. “(2) Emergencies.—In the case of an emergency, as determined by the President, not later than 5 days after making a transfer under subsection (a) of this section, the President shall—“(A) certify to the appropriate congressional committees that the transfer supports the national security interests of the United States; and “(B) provide to the appropriate committees of Congress an assessment of the impacts, risks, and mitigation measures with respect to the matters referred to in paragraphs (1) through (4) of subsection (b) of this section. “(d) Assessment.—“(1) In general.—The Secretary of Defense shall conduct an assessment with respect to the following matters:“(A) The current quantity and type of precision-guided munitions in the stockpile pursuant to section 12001(d) of the Department of Defense Appropriations Act, 2005 (Public Law 108–287; 118 Stat. 1011), as amended. “(B) The quantity and type of precision-guided munitions necessary for Israel to combat Hezbollah and hostile forces that threaten Israel. “(C) The quantity and type of precision-guided munitions necessary for Israel in the event of a sustained armed confrontation with other armed groups and terrorist organizations. “(D) The current United States inventory of precision-guided munitions of the type specified in subparagraphs (A), (B), and (C) and ability of that inventory to meet requirements of current Operation Plans. “(E) Department of Defense efforts to expand precision-guided munitions production and stockpiles to meet operational requirements. “(F) Israel’s efforts to expand precision-guided munitions production and stockpiles to meet operational requirements. “(2) Report.—“(A) In general.—Not later than 180 days after the date of the enactment of this Act [Jan. 1, 2021], the Secretary of Defense shall submit to the appropriate congressional committees [Committees on Foreign Relations and Armed Services of the Senate and Committees on Foreign Affairs and Armed Services of the House of Representatives] a report on the results of the assessment required by paragraph (1), including a description of such results with respect to each matter described in that paragraph. “(B) Form.—The report required by subparagraph (A) shall be submitted in classified form. “(e) Termination.—The authority of the President to transfer precision-guided munitions under this section shall terminate on the date that is three years after the date of the enactment of this Act.”
 
 #### Fiscal Year 1992 Additions to Stockpiles in Israel
 Pub. L. 102–145, § 118, as added by Pub. L. 102–266, § 102, Apr. 1, 1992, 106 Stat. 93, provided in part that the authority and conditions provided in section 571 of H.R. 2621, One Hundred Second Congress, 1st Session, as passed by the House on June 19, 1991, shall be applicable to funds appropriated by Pub. L. 102–145 (and are hereby enacted) in lieu of the authority and conditions provided in section 573 of Pub. L. 101–513 [amending this section]. Section 571 of H.R. 2621, as referred to above, provided that: “Notwithstanding section 514(b) of the Foreign Assistance Act of 1961 [subsec. (b) of this section], additions may be made to stockpiles in Israel during fiscal year 1992 having a value of $300,000,000: Provided, That the word ‘value’ as used in this section shall have the same meaning as in section 514 of the Foreign Assistance Act of 1961 [this section].”
 
 #### Republic of Korea Stockpiling Authorities; Report to Congress
 Pub. L. 96–92, § 6(b), Oct. 29, 1979, 93 Stat. 703, directed President to transmit to Congress, not later than Dec. 31, 1979, a report regarding stockpiling authorities for Republic of Korea, prior to repeal by Pub. L. 97–113, title VII, § 734(a)(11), Dec. 29, 1981, 95 Stat. 1560.
+
+#### Appropriate Congressional Committees Defined
+Pub. L. 116–283, div. A, title XII, § 1280B, Jan. 1, 2021, 134 Stat. 3985, provided that: “In this subtitle [subtitle H (§§ 1271–1280B) of title XII of div. A of Pub. L. 116–283, see Short Title of 2021 Amendment note set out under [section 2151 of this title](./chapter-032-foreign-assistance.md#section-2151)], the term ‘appropriate congressional committees’ means— “(1) the Committee on Foreign Relations and the Committee on Armed Services of the Senate; and “(2) the Committee on Foreign Affairs and the Committee on Armed Services of the House of Representatives.”
+
+#### Delegation of Functions
+For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under [section 2381 of this title](./chapter-032-foreign-assistance.md#section-2381).
 
 
 <a id="section-2321i"></a>
@@ -11775,9 +11281,6 @@ Pub. L. 103–160, title XI, § 1182(c)(2), Nov. 30, 1993, 107 Stat. 1772, provi
 #### Transfer of Functions
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).
 
-#### Delegation of Functions
-For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under [section 2381 of this title](./chapter-032-foreign-assistance.md#section-2381).
-
 #### Mediterranean Excess Defense Articles
 Pub. L. 104–208, div. A, title I, § 101(c) [title V, § 535], Sept. 30, 1996, 110 Stat. 3009–121, 3009–153, provided that: “For the four-year period beginning on October 1, 1996, the President shall ensure that excess defense articles will be made available under section[s] 516 and 519 of the Foreign Assistance Act of 1961 [[22 U.S.C. 2321j](./chapter-032-foreign-assistance.md#section-2321j), 2321m] consistent with the manner in which the President made available excess defense articles under those sections during the four-year period that began on October 1, 1992, pursuant to section 573(e) of the Foreign Operations, Export Financing, Related Programs Appropriations Act, 1990 [Pub. L. 101–167, set out below].”
 
@@ -11798,6 +11301,9 @@ Provisions similar to those appearing in section 573(e) of Pub. L. 101–167, se
 Pub. L. 100–461, title V, § 569, Oct. 1, 1988, 102 Stat. 2268–43.
 
 Pub. L. 100–202, § 101(e) [title V, § 582], Dec. 22, 1987, 101 Stat. 1329–131, 1329–182.
+
+#### Delegation of Functions
+For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under [section 2381 of this title](./chapter-032-foreign-assistance.md#section-2381).
 
 
 <a id="section-2321k"></a>
@@ -11822,34 +11328,36 @@ The effective date of this section, referred to in subsec. (b), is July 21, 1996
 #### Prior Provisions
 A prior section 2321k, Pub. L. 87–195, pt. II, § 517, as added Pub. L. 101–231, § 5, Dec. 13, 1989, 103 Stat. 1957; amended Pub. L. 101–623, § 15, Nov. 21, 1990, 104 Stat. 3357; Pub. L. 102–583, § 9(a), Nov. 2, 1992, 106 Stat. 4934; Pub. L. 103–236, title VII, § 731(b), Apr. 30, 1994, 108 Stat. 502, related to modernization of counternarcotics capabilities of certain Latin America and Caribbean countries, prior to repeal by Pub. L. 104–164, title I, § 104(b)(2)(B), July 21, 1996, 110 Stat. 1427.
 
-#### Delegation of Functions
-For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under [section 2381 of this title](./chapter-032-foreign-assistance.md#section-2381).
-
 #### Treatment of Taiwan Relating to Transfers of Defense Articles and Defense Services
 Pub. L. 107–228, div. B, title XII, § 1206, Sept. 30, 2002, 116 Stat. 1428, provided that: “Notwithstanding any other provision of law, for purposes of the transfer or possible transfer of defense articles or defense services under the Arms Export Control Act ([22 U.S.C. 2751](./chapter-039-arms-export-control.md#section-2751) et seq.), the Foreign Assistance Act of 1961 ([22 U.S.C. 2151](./chapter-032-foreign-assistance.md#section-2151) et seq.), or any other provision of law, Taiwan shall be treated as though it were designated a major non-NATO ally (as defined in section 644(q) of the Foreign Assistance Act of 1961 ([22 U.S.C. 2403(q)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2403/q&num=0&edition=prelim))[)].”
 
 [For definitions of “defense article” and “defense service” as used in section 1206 of Pub. L. 107–228, set out above, see section 1002 of Pub. L. 107–228, set out as a note under [section 2151 of this title](./chapter-032-foreign-assistance.md#section-2151).]
 
+#### Delegation of Functions
+For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under [section 2381 of this title](./chapter-032-foreign-assistance.md#section-2381).
+
 #### Presidential Determinations Relating to Designations of Countries as Major Non-NATO Allies
 The following Presidential Determinations designated the countries listed as major non-NATO allies of the United States for purposes of the Foreign Assistance Act of 1961 ([22 U.S.C. 2151](./chapter-032-foreign-assistance.md#section-2151) et seq.) and the Arms Export Control Act ([22 U.S.C. 2751](./chapter-039-arms-export-control.md#section-2751) et seq.):
 
-Determination No. 97–4, Nov. 12, 1996, 61 F.R. 59809.—Jordan.
+Argentina.—Determination No. 98–9, Jan. 6, 1998, 63 F.R. 3635.
 
-Determination No. 98–9, Jan. 6, 1998, 63 F.R. 3635.—Argentina.
+Bahrain.—Determination No. 2002–10, Mar. 14, 2002, 67 F.R. 13247.
 
-Determination No. 2002–10, Mar. 14, 2002, 67 F.R. 13247.—Bahrain.
+Brazil.—Determination No. 2019–21, July 31, 2019, 84 F.R. 43035.
 
-Determination No. 2004–02, Oct. 6, 2003, 68 F.R. 59855.—Philippines.
+Jordan.—Determination No. 97–4, Nov. 12, 1996, 61 F.R. 59809.
 
-Determination No. 2004–16, Dec. 30, 2003, 69 F.R. 2053.—Thailand.
+Kuwait.—Determination No. 2004–21, Jan. 15, 2004, 69 F.R. 4843.
 
-Determination No. 2004–21, Jan. 15, 2004, 69 F.R. 4843.—Kuwait.
+Morocco.—Determination No. 2004–35, June 3, 2004, 69 F.R. 34049.
 
-Determination No. 2004–35, June 3, 2004, 69 F.R. 34049.—Morocco.
+Pakistan.—Determination No. 2004–37, June 16, 2004, 69 F.R. 38797.
 
-Determination No. 2004–37, June 16, 2004, 69 F.R. 38797.—Pakistan.
+Philippines.—Determination No. 2004–02, Oct. 6, 2003, 68 F.R. 59855.
 
-Determination No. 2015–09, July 10, 2015, 80 F.R. 43613.—Tunisia.
+Thailand.—Determination No. 2004–16, Dec. 30, 2003, 69 F.R. 2053.
+
+Tunisia.—Determination No. 2015–09, July 10, 2015, 80 F.R. 43613.
 
 
 <a id="section-2321l-to-2321n"></a>
@@ -11934,9 +11442,6 @@ Pub. L. 90–629, § 46, Oct. 22, 1968, 82 Stat. 1328, provided that: “Except 
 
 ### Statutory Notes
 
-#### References to Subchapter II Deemed To Exclude Certain Parts of Subchapter II
-References to subchapter II of this chapter are deemed to exclude parts IV (§ 2346 et seq.), VI (§ 2348 et seq.), and VIII (§ 2349aa et seq.) of subchapter II, and references to subchapter I of this chapter are deemed to include such parts. See section 202(b) of Pub. L. 92–226, set out as a note under [section 2346 of this title](./chapter-032-foreign-assistance.md#section-2346), and sections 2348c and 2349aa–5 of this title.
-
 #### Codification
 Section was formerly classified to [section 2316 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2316&num=0&edition=prelim).
 
@@ -11949,14 +11454,14 @@ Section was formerly classified to [section 2316 of this title](https://uscode.h
 
 1965—Pub. L. 89–171 inserted “receipts received from the disposition of evidences of indebtedness and charges (including fees and premiums) or interest collected” and substituted “have been or are used” for “are used” and “financing sales and guaranties, including the overhead costs thereof” for “furnishing further military assistance on cash or credit terms.”
 
+#### References to Subchapter II Deemed To Exclude Certain Parts of Subchapter II
+References to subchapter II of this chapter are deemed to exclude parts IV (§ 2346 et seq.), VI (§ 2348 et seq.), and VIII (§ 2349aa et seq.) of subchapter II, and references to subchapter I of this chapter are deemed to include such parts. See section 202(b) of Pub. L. 92–226, set out as a note under [section 2346 of this title](./chapter-032-foreign-assistance.md#section-2346), and sections 2348c and 2349aa–5 of this title.
+
 #### Effective Date of 1968 Amendment
 Amendment by Pub. L. 90–629 effective July 1, 1968, see section 41 of Pub. L. 90–629, set out as an Effective Date note under [section 2751 of this title](./chapter-039-arms-export-control.md#section-2751).
 
 #### Savings Provision
 Determinations, authorizations, regulations, orders, contracts, agreements, and other actions issued, undertaken, or entered into under authority of any provision of former subsec. (b)(3) of this section as continuing in full force and effect until modified by appropriate authority, see section 46 of Pub. L. 90–629, set out as a note under former [section 2341 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2341&num=0&edition=prelim).
-
-#### Delegation of Functions
-For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under [section 2381 of this title](./chapter-032-foreign-assistance.md#section-2381).
 
 #### Increases in Military Assistance Programs; Reports to Congress on Presidential Determinations
 Pub. L. 91–194, title I, § 100, Feb. 9, 1970, 84 Stat. 7, in part, limited increases in the military assistance program for any country to twenty per cent of the amount justified to Congress unless the President determined that such an increase was essential to the national interest of the United States and reported such determination to the Congress within thirty days after each such determination.
@@ -11970,6 +11475,9 @@ Similar provisions were contained in Pub. L. 90–249, title I, § 119, Jan. 2, 
 
 #### Arms Races and Weapons Systems Restraints; Prohibitions Against Diversion of Resources for Economic and Agricultural Development to Military Purposes
 Pub. L. 91–194, title I, § 120, Feb. 9, 1970, 84 Stat. 10, as amended by Pub. L. 110–246, title III, § 3001(c), June 18, 2008, 122 Stat. 1821, provided that: “(a) In order to restrain arms races and proliferation of sophisticated weapons, and to ensure that resources intended for economic development are not diverted to military purposes, the President shall take into account before furnishing development loans, Alliance loans, or supporting assistance to any country under this Act [Pub. L. 91–194], and before making sales under the Food for Peace Act, as amended [[7 U.S.C. 1691](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1691&num=0&edition=prelim) et seq.]:“(1) the percentage of the recipient or purchasing country’s budget which is devoted to military purposes, “(2) the degree to which the recipient or purchasing country is using its foreign exchange resources to acquire military equipment; and “(3) the amount spent by the recipient or purchasing country for the purchase of sophisticated weapons systems, such as missile systems and jet aircraft for military purposes, from any country. “(b) The President shall report annually to the Speaker of the House of Representatives and the Committee on Foreign Relations of the Senate his actions in carrying out this provision.”
+
+#### Delegation of Functions
+For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under [section 2381 of this title](./chapter-032-foreign-assistance.md#section-2381).
 
 
 <a id="section-2345"></a>
@@ -12000,14 +11508,6 @@ Determinations, authorizations, regulations, orders, contracts, agreements, and 
 
 ### Statutory Notes
 
-#### References to Subchapter I Deemed To Include This and Certain Other Parts of Subchapter II, and References to Subchapter II Deemed To Exclude Such Parts
-Pub. L. 92–226, pt. II, § 202(b), Feb. 7, 1972, 86 Stat. 27, provided that: “Chapter 4 of part I of the Foreign Assistance Act of 1961 [part IV of subchapter I of this chapter (sections 2241 to 2243 of this title)] is hereby repealed. References to such chapter [4 of part I of the Foreign Assistance Act of 1961 (former sections 2241 to 2243 of this title)] or any sections thereof shall hereafter [on and after Feb. 7, 1972] be deemed to be references to chapter 4 of part II of the Foreign Assistance Act of 1961, as added by subsection (a) of this section [this part], or to appropriate sections thereof. All references to part I of the Foreign Assistance Act of 1961 [subchapter I of this chapter] shall hereafter be deemed to be references also to chapter 4 of part II [this part], and all references to part II of such Act [subchapter II of this chapter] shall be deemed not to include chapter 4 of such part II [this part]”.
-
-References to subchapter I of this chapter are deemed to include parts VI (§ 2348 et seq.) and VIII (§ 2349aa et seq.) of subchapter II of this chapter, and references to subchapter II are deemed to exclude such parts. See sections 2348c and 2349aa–5 of this title.
-
-#### Reference to Part I Deemed To Include Section 2293
-Reference to part I of subchapter I of this chapter deemed to include a reference to [section 2293 of this title](./chapter-032-foreign-assistance.md#section-2293). See [section 2293(d)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2293/d/1&num=0&edition=prelim).
-
 #### Prior Provisions
 A prior section 2346, Pub. L. 87–195, pt. II, § 531, as added Pub. L. 92–226, pt. II, § 202(a), Feb. 7, 1972, 86 Stat. 26; amended Pub. L. 95–92, § 8(a), Aug. 4, 1977, 91 Stat. 617; Pub. L. 95–384, § 10(a), Sept. 26, 1978, 92 Stat. 733; 1979 Reorg. Plan No. 2, § 6(b)(1), eff. Oct. 1, 1979, 44 F.R. 41166, 93 Stat. 1379; Pub. L. 96–92, § 8(a), Oct. 29, 1979, 93 Stat. 703; Pub. L. 96–533, title II, § 201, Dec. 16, 1980, 94 Stat. 3142; Pub. L. 97–113, title II, § 201, Dec. 29, 1981, 95 Stat. 1528, authorized President to furnish assistance to countries and organizations to promote economic or political stability, prior to repeal by Pub. L. 99–83, title II, § 201(a), Aug. 8, 1985, 99 Stat. 210.
 
@@ -12016,11 +11516,16 @@ A prior section 2346, Pub. L. 87–195, pt. II, § 531, as added Pub. L. 92–22
 
 1990—Subsec. (a). Pub. L. 101–513 inserted “or, in the case of countries in sub-Saharan Africa, part X of subchapter I of this chapter” after “part I of subchapter I of this chapter”.
 
+#### References to Subchapter I Deemed To Include This and Certain Other Parts of Subchapter II, and References to Subchapter II Deemed To Exclude Such Parts
+Pub. L. 92–226, pt. II, § 202(b), Feb. 7, 1972, 86 Stat. 27, provided that: “Chapter 4 of part I of the Foreign Assistance Act of 1961 [part IV of subchapter I of this chapter (sections 2241 to 2243 of this title)] is hereby repealed. References to such chapter [4 of part I of the Foreign Assistance Act of 1961 (former sections 2241 to 2243 of this title)] or any sections thereof shall hereafter [on and after Feb. 7, 1972] be deemed to be references to chapter 4 of part II of the Foreign Assistance Act of 1961, as added by subsection (a) of this section [this part], or to appropriate sections thereof. All references to part I of the Foreign Assistance Act of 1961 [subchapter I of this chapter] shall hereafter be deemed to be references also to chapter 4 of part II [this part], and all references to part II of such Act [subchapter II of this chapter] shall be deemed not to include chapter 4 of such part II [this part]”.
+
+References to subchapter I of this chapter are deemed to include parts VI (§ 2348 et seq.) and VIII (§ 2349aa et seq.) of subchapter II of this chapter, and references to subchapter II are deemed to exclude such parts. See sections 2348c and 2349aa–5 of this title.
+
+#### Reference to Part I Deemed To Include Section 2293
+Reference to part I of subchapter I of this chapter deemed to include a reference to [section 2293 of this title](./chapter-032-foreign-assistance.md#section-2293). See [section 2293(d)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2293/d/1&num=0&edition=prelim).
+
 #### Effective Date
 Section effective Oct. 1, 1985, see section 1301 of Pub. L. 99–83, set out as an Effective Date of 1985 Amendment note under [section 2151–1 of this title](./chapter-032-foreign-assistance.md#section-2151-1).
-
-#### Delegation of Functions
-For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under [section 2381 of this title](./chapter-032-foreign-assistance.md#section-2381).
 
 #### Assistance to Lebanon
 Pub. L. 107–228, div. B, title XII, § 1224, Sept. 30, 2002, 116 Stat. 1432, provided that: “(a) Prohibition.—Notwithstanding any other provision of law, $10,000,000 of the amounts made available for fiscal year 2003 or any subsequent fiscal year that are allocated for assistance to Lebanon under chapter 4 of part II of the Foreign Assistance Act of 1961 ([22 U.S.C. 2346](./chapter-032-foreign-assistance.md#section-2346) et seq.; relating to the economic support fund) may not be obligated unless and until the President certifies to the appropriate congressional committees that—“(1) the armed forces of Lebanon have been deployed to the internationally recognized border between Lebanon and Israel; and “(2) the Government of Lebanon is effectively asserting its authority in the area in which such armed forces have been deployed. “(b) Requirement Relating to Funds Withheld.—Notwithstanding any other provision of law, any funds withheld pursuant to subsection (a) may not be programmed in order to be used for a purpose other than for assistance to Lebanon until the last month of the fiscal year in which the authority to obligate such funds lapses.”
@@ -12040,6 +11545,9 @@ Pub. L. 95–384, § 10(b)(6), Sept. 26, 1978, 92 Stat. 735, provided that: “A
 
 #### Security Supporting Assistance Program for Egypt
 Pub. L. 95–92, § 9, Aug. 4, 1977, 91 Stat. 619, as amended by Pub. L. 95–384, § 29(c)(2)(A), Sept. 26, 1978, 92 Stat. 747, provided that: “It is the sense of the Congress that the security supporting assistance program for Egypt plays an important role in the Middle East peace effort and that the Executive branch should concentrate its efforts in order to make the program a success.”
+
+#### Delegation of Functions
+For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under [section 2381 of this title](./chapter-032-foreign-assistance.md#section-2381).
 
 
 <a id="section-2346a"></a>
@@ -12064,9 +11572,6 @@ Another prior section 2346a, Pub. L. 87–195, pt. II, § 532, as added Pub. L. 
 #### Effective Date
 Section effective Oct. 1, 1985, see section 1301 of Pub. L. 99–83, set out as an Effective Date of 1985 Amendment note under [section 2151–1 of this title](./chapter-032-foreign-assistance.md#section-2151-1).
 
-#### Delegation of Functions
-For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under [section 2381 of this title](./chapter-032-foreign-assistance.md#section-2381).
-
 #### Termination of Assistance Programs to Syria
 Pub. L. 98–164, title X, § 1004, Nov. 22, 1983, 97 Stat. 1057, provided that: “(a) After the enactment of this section [Nov. 22, 1983], funds available to the Agency for International Development may not be used for any payment or reimbursement of any kind to the Government of Syria or for the delivery of any goods or services of any kind to the Government of Syria. “(b) The Administrator of the Agency for International Development shall deobligate all funds which have been obligated for Syria under the Foreign Assistance Act of 1961 [this chapter] prior to the enactment of this section [Nov. 22, 1983], except that—“(1) such funds may continue to be used to finance the training or studies outside of Syria of students whose course of study began before the enactment of this section; “(2) the Administrator may adopt as a contract of the United States Government any contract with a United States or third-country contractor which would otherwise be terminated pursuant to this subsection, and may assume in whole or in part any liabilities arising under such contract, except that the authority provided by this paragraph may be exercised only to the extent that budget authority is available to meet the obligations of the United States under such contracts; and “(3) amounts certified pursuant to section 1311 of the Supplemental Appropriation Act, 1955 [[31 U.S.C. 1108(c)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1108/c&num=0&edition=prelim), 1501, 1502(a)], as having been obligated for Syria under chapter 4 of part II of the Foreign Assistance Act of 1961 [this part] shall continue to be available until expended to meet necessary expenses arising from the termination of assistance programs for Syria pursuant to this subsection.”
 
@@ -12074,6 +11579,9 @@ Pub. L. 98–151, § 101(b)(1), Nov. 14, 1983, 97 Stat. 964, provided that: “N
 
 #### Negotiations Between Israel and Egypt; Promotion, Etc.
 Pub. L. 95–384, § 28, Sept. 26, 1978, 92 Stat. 746, provided that: “(a) The Congress finds that—“(1) a lasting settlement of the Arab-Israel conflict is vital to United States national interests as well as to the interests of the countries of the region; “(2) support for a strong and secure Israel and the maintenance for this purpose of Israel’s effective defense capabilities as essential to peace remains a fundamental tenet of United States foreign policy; “(3) direct, face-to-face negotiations between Israel and Egypt without preconditions is an historic opening for peace, and the support of such negotiations by other moderate Arab countries, can best promote a peace settlement based on mutual concessions and accommodations; “(4) the establishment of secure, recognized, and defensible borders between Israel and its neighbors will discourage hostilities; and “(5) full, normalized relations between Israel and its Arab neighbors, including trade, travel, tourism, communications, and diplomatic relations are vital for peace. “(b) It is the sense of the Congress that the Government of the United States should continue to promote direct negotiations between Israel and Egypt and to encourage other Arab countries to enter into negotiations leading to peace treaties with Israel. “(c) It is further the sense of the Congress that the United States should be responsive to Israel’s economic needs and defense requirements, including the provision of additional advanced aircraft, in order to maintain Israel’s defense capability which is essential to peace.”
+
+#### Delegation of Functions
+For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under [section 2381 of this title](./chapter-032-foreign-assistance.md#section-2381).
 
 
 <a id="section-2346b"></a>
@@ -12160,9 +11668,6 @@ Subsec. (e). Pub. L. 100–202, § 101(e) [title V, § 579(b)], amended subsec. 
 #### Effective Date
 Section effective Oct. 1, 1985, see section 1301 of Pub. L. 99–83, set out as an Effective Date of 1985 Amendment note under [section 2151–1 of this title](./chapter-032-foreign-assistance.md#section-2151-1).
 
-#### Delegation of Functions
-For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under [section 2381 of this title](./chapter-032-foreign-assistance.md#section-2381).
-
 #### Administration of Justice Activities
 Pub. L. 108–199, div. D, title V, § 536, Jan. 23, 2004, 118 Stat. 183, provided that: “Of the funds appropriated or otherwise made available by this Act or any subsequent Act for ‘Economic Support Fund’, assistance may be provided to strengthen the administration of justice in countries in Latin America and the Caribbean and in other regions consistent with the provisions of section 534(b) of the Foreign Assistance Act of 1961 [[22 U.S.C. 2346c(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2346c/b&num=0&edition=prelim)], except that programs to enhance protection of participants in judicial cases may be conducted notwithstanding section 660 of that Act [[22 U.S.C. 2420](./chapter-032-foreign-assistance.md#section-2420)]. Funds made available pursuant to this section may be made available notwithstanding section 534(c) and the second and third sentences of section 534(e) of the Foreign Assistance Act of 1961 [[22 U.S.C. 2346c(c)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2346c/c&num=0&edition=prelim), (e)].”
 
@@ -12193,13 +11698,61 @@ Pub. L. 102–391, title V, § 588(a)(1), (b), Oct. 6, 1992, 106 Stat. 1689, 169
 #### Anti-Narcotics Update
 Pub. L. 102–145, § 124, as added by Pub. L. 102–266, § 102, Apr. 1, 1992, 106 Stat. 97, provided that: “The program authorized by section 534 of the Foreign Assistance Act of 1961 [[22 U.S.C. 2346c](./chapter-032-foreign-assistance.md#section-2346c)] may continue from funds appropriated by this joint resolution for foreign operations, export financing, and related programs, notwithstanding the last sentence of section 534(e) of that Act: Provided, That such programs may include the protection of participants in judicial cases, notwithstanding section 660 of that Act [[22 U.S.C. 2420](./chapter-032-foreign-assistance.md#section-2420)]: Provided further, That, notwithstanding sections 534(c) and 660 of that Act, (1) up to $10,000,000 to provide support for a professional civilian police force for Panama, except that such assistance shall not include more than $5,000,000 for the procurement of equipment for law enforcement purposes, and shall not include lethal equipment, and (2) up to $16,000,000 for Bolivia, Colombia, and Peru.”
 
+#### Delegation of Functions
+For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under [section 2381 of this title](./chapter-032-foreign-assistance.md#section-2381).
+
 
 <a id="section-2346d"></a>
-## § 2346d. Repealed. Pub. L. 103–149, § 4(a)(3)(B), Nov. 23, 1993, 107 Stat. 1505
+## § 2346d. People-to-People Partnership for Peace Fund
+**(a) Establishment** Beginning on the date that is one year after Dec. 27, 2020, the Administrator of the United States Agency for International Development is authorized to establish a program to provide funding for projects to help build the foundation for peaceful co-existence between Israelis and Palestinians and for a sustainable two-state solution. The program established under this subsection shall be known as the “People-to-People Partnership for Peace Fund” (referred to in this section as the “Fund”).
+
+**(b) Eligibility for support** In providing funding for projects through the Fund, the Administrator may provide support for qualified organizations, prioritizing those organizations that seek to build better cooperation between Israelis and Palestinians, including Palestinian organizations, Israeli organizations, and international organizations that bring Israelis and Palestinians together.
+
+**(c) Additional eligibility for support** In providing funding for projects through the Fund, the Administrator may additionally provide support to qualified organizations that further shared community building, peaceful co-existence, dialogue, and reconciliation between Arab and Jewish citizens of Israel.
+
+**(d) Contributions** The Administrator—
+
+(1) is encouraged to work with foreign governments and international organizations to leverage the impact of United States resources and achieve the objectives of this section; and
+
+(2) is authorized to accept contributions for the purposes of the Fund, consistent with subsection (d) of [section 2395 of this title](./chapter-032-foreign-assistance.md#section-2395).
+
+**(e) Advisory board**
+
+(1) **Establishment** — The Administrator shall establish an advisory board to make recommendations to the Administrator regarding the types of projects that should be considered for funding through the Fund.
+
+(2) **Membership**
+
+  (A) *In general* — Subject to subparagraph (B), the advisory board shall be composed of 13 members, none of whom may be Members of Congress, who shall be appointed for renewable periods of 3 years, as follows:
+
+    (i) One member to serve as chair, appointed by the Administrator, in consultation with the Secretary of State.
+
+    (ii) One member appointed by the chair, and one member appointed by the ranking member, of the Committee on Foreign Relations of the Senate.
+
+    (iii) One member appointed by the chair, and one member appointed by the ranking member, of the Committee on Foreign Affairs of the House of Representatives.
+
+    (iv) One member appointed by the chair, and one member appointed by the ranking member, of the Committee on Appropriations of the Senate.
+
+    (v) One member appointed by the chair, and one member appointed by the ranking member, of the Committee on Appropriations of the House of Representatives.
+
+    (vi) One member appointed by the majority leader, and one member appointed by the minority leader, of the Senate.
+
+    (vii) One member appointed by the Speaker, and one member appointed by the minority leader, of the House of Representatives.
+
+  (B) *International participation* — The Administrator may appoint up to two additional members to the advisory board who are representatives of foreign governments or international organizations for renewable periods of 3 years.
+
+  (C) *Qualifications* — Members of the advisory board shall have demonstrated regional expertise and experience and expertise in conflict mitigation and people-to-people programs, and shall not receive compensation on account of their service on the advisory board.
+
+**(f) USAID mission recommendations** The Administrator shall consider the input and recommendations from missions of the United States Agency for International Development in the region and mission directors regarding projects that should be considered for funding through the Fund.
+
+**(g) Coordination** The Administrator shall coordinate with the Secretary of State in carrying out the provisions of this section.
 
 ### Statutory Notes
 
-Section, Pub. L. 87–195, pt. II, § 535, as added Pub. L. 99–440, title V, § 511(a), Oct. 2, 1986, 100 Stat. 1111; amended Pub. L. 99–631, § 1(b)(3), Nov. 7, 1986, 100 Stat. 3519, related to economic support for disadvantaged South Africans.
+#### Prior Provisions
+A prior section 2346d, Pub. L. 87–195, pt. II, § 535, as added Pub. L. 99–440, title V, § 511(a), Oct. 2, 1986, 100 Stat. 1111; amended Pub. L. 99–631, § 1(b)(3), Nov. 7, 1986, 100 Stat. 3519, related to economic support for disadvantaged South Africans, prior to repeal by Pub. L. 103–149, § 4(a)(3)(B), Nov. 23, 1993, 107 Stat. 1505.
+
+#### Nita M. Lowey Middle East Partnership for Peace
+Pub. L. 116–260, div. K, title VIII, Dec. 27, 2020, 134 Stat. 1815, provided that: “SHORT TITLE“Sec. 8001. This title may be cited as the ‘Nita M. Lowey Middle East Partnership for Peace Act of 2020’. “FINDINGS“Sec. 8002. Congress finds the following:“(1) Economic development in conflict settings has been shown to support stabilization by empowering entrepreneurs, growing the middle class, and mitigating unemployment. “(2) In 2018, unemployment in the Palestinian territories was 32.4 percent. Gross Domestic Product (GDP) growth in the Palestinian territories declined from 2017 to 2019, and it is projected to further decline in 2020. “(3) According to the World Bank Ad Hoc Liaison Committee’s April 2019 Economic Monitoring Report, ‘to achieve sustainable economic growth, in the Palestinian territories, growth and job creation going forward will need to be private sector driven’. “(4) According to the 2018 Joint Strategic Plan of the Department of State and the United States Agency for International Development, ‘assistance can help prevent new recruitment to terrorist organizations, reduce levels of violence, promote legitimate governance structures that strengthen inclusion, and reduce policies that marginalize communities’. “(5) Although economic development is an important tool for stabilizing conflict-prone settings and establishing connections between communities, economic development by itself will not lead to lasting peace. People-to-people peace-building programs further advance reconciliation efforts by promoting greater understanding, mutual trust, and cooperation between communities. “(6) While the United States and its international partners continue to support diplomatic and political negotiations between the representatives of the parties to the Israeli-Palestinian conflict, such efforts require broad popular support among the people on the ground to succeed. “(7) Achieving sustainable, high-level agreements for lasting peace in the Middle East must come through, and with the support of, the people who live there, and the United States and its international partners can help the people of the region build popular support for sustainable agreements for lasting peace. “SENSE OF CONGRESS“Sec. 8003. It is the sense of Congress that—“(1) building a viable Palestinian economy is central to the effort to preserve the possibility of a negotiated settlement leading to a sustainable two-state solution with the democratic, Jewish state of Israel and a demilitarized, democratic Palestinian state living side-by-side in peace, security, and mutual recognition; “(2) United States and international support for grassroots, people-to-people efforts aimed at fostering tolerance, and building support for such solution, can help counter extremist propaganda and the growing issue of incitement; “(3) strengthening engagement between Palestinians and Israelis, including through people-to-people peace-building programs can increase the bonds of friendship and understanding; “(4) investing in the development of the Palestinian economy and in joint economic ventures can advance multiple sectors to the benefit of local, regional, and global parties; and “(5) Congress encourages cooperation between Palestinian, American, and Israeli business sectors in order to benefit the Palestinian, American, and Israeli peoples and economies. “PEOPLE-TO-PEOPLE PARTNERSHIP FOR PEACE FUND“Sec. 8004. [Enacted this section.] “JOINT INVESTMENT FOR PEACE INITIATIVE“Sec. 8005. (a) Establishment.—Beginning on the date that is 180 days after the date of the enactment of this Act [Dec. 27, 2020], the Chief Executive Officer of the United States International Development Finance Corporation (referred to in this section as the ‘Chief Executive Officer’ and the ‘Corporation’, respectively) is authorized to establish a program to provide investments in, and support to, entities that carry out projects that contribute to the development of the Palestinian private sector economy in the West Bank and Gaza. The program established under this subsection shall be known as the ‘Joint Investment for Peace Initiative’ (referred to in this section as the ‘Initiative’) and shall be subject to all existing terms, conditions, restrictions, oversight requirements, and applicable provisions of law, including the Better Utilization of Investments Leading to Development Act of 2018 ([22 U.S.C. 9611](./chapter-103-better-utilization-of-investments-leading-to-development.md#section-9611) et seq) [div. F of Pub. L. 115–254, [22 U.S.C. 9601](./chapter-103-better-utilization-of-investments-leading-to-development.md#section-9601) et seq.], including through strict adherence to the less-developed country focus under section 1412(c) of such Act [[22 U.S.C. 9612(c)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section9612/c&num=0&edition=prelim)]. “(b) Participation Requirement.—In carrying out the Initiative, the Chief Executive Officer shall ensure participation by small and medium-sized enterprises owned by Palestinians, which may include the technology sector, the agriculture sector, and other high value-added or emerging industries. “(c) Priority.—In carrying out the Initiative, the Chief Executive Officer shall prioritize support to projects that increase economic cooperation between Israelis and Palestinians. “(d) Use of Existing Authorities.—In carrying out the Initiative, the Chief Executive Officer shall utilize the authorities under section 1421 of the Better Utilization of Investments Leading to Development Act of 2018 ([22 U.S.C. 9621](./chapter-103-better-utilization-of-investments-leading-to-development.md#section-9621)), including to—“(1) select a manager of the Initiative; “(2) oversee and direct the operation of the Initiative consistent with such Act and other provisions of law; “(3) provide the Initiative with loans, guaranties, equity, and insurance, as appropriate, to enable the Initiative to attract private investment; “(4) support the private sector in entering into joint ventures between Palestinian and Israeli entities; and “(5) carry out the purposes of the Initiative consistent with the provisions of this section and other applicable provisions of law. “(e) Annual Report.—“(1) In general.—Not later than December 31, 2021, and each December 31 thereafter until December 31, 2031, the Chief Executive Officer shall submit to the appropriate congressional committees a report that describes the following:“(A) The extent to which the Initiative has contributed to promoting and supporting Palestinian economic development. “(B) The extent to which the Initiative has contributed to greater integration of the Palestinian economy into the international rules-based business system. “(C) The extent to which projects that increase economic cooperation between Palestinians and Israelis and between Palestinians and Americans have been prioritized, including through support to the private sector to enter into joint ventures. “(D) Information on the following:“(i) Investments received and provided through the Initiative. “(ii) The mechanisms established for transparency and accountability of investments provided through the Initiative. “(E) The extent to which entities supported by the Initiative have impacted the efficacy of people-to-people programs. “(F) To the extent practicable, an assessment of the sustainability of commercial endeavors that receive support from the Initiative. “(G) A description of the process for vetting and oversight of entities eligible for support from the Initiative to ensure compliance with the requirements of section 8006(b) of this Act [probably means “this title”]. “(2) Form.—The reports required under this subsection shall be submitted in unclassified form, without the designation ‘For Official Use Only’ or any related or successor designation, but may be accompanied by a classified annex. “(f) Termination.—“(1) In general.—The Initiative shall terminate at the end of the fiscal year that is 10 years after the date on which the Chief Executive Officer makes the first investment under the Initiative. “(2) Exception.—The Chief Executive Officer is authorized to continue to manage investments made under the Initiative on and after the date specified in paragraph (1). “(g) Coordination.—The Chief Executive Officer shall coordinate with the Secretary of State and the Administrator of the United States Agency for International Development in carrying out the provisions of this section. “LIMITATIONS, VETTING, COORDINATION, AND OVERSIGHT“Sec. 8006. (a) Limitations.—None of the funds made available to carry out this title, or any amendment made by this title, may be used to provide—“(1) financial assistance to the national government of any foreign country; “(2) assistance for—“(A) any individual or group the Secretary of State determines to be involved in, or advocating, terrorist activity; or “(B) any individual who is a member of a foreign terrorist organization (as designated pursuant to section 219 of the Immigration and Nationality Act ([8 U.S.C. 1189](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1189&num=0&edition=prelim))); or “(3) assistance for the Palestinian Authority or the Palestine Liberation Organization. “(b) Applicable Regulations.—Assistance made available under this title, and any amendment made by this title, shall adhere to the mission directives and vetting practices for assistance for the West Bank and Gaza, as set forth by the United States Agency for International Development. “(c) Coordination.—“(1) The Chief Executive Officer of the United States International Development Finance Corporation, acting through the Chief Development Officer of such Corporation, shall coordinate with the Administrator of the United States Agency for International Development and the Secretary of State to ensure that all expenditures from the Joint Investment for Peace Initiative comply with this section. “(2) To the extent practicable, the Administrator of the United States Agency for International Development and the Chief Executive Officer of the United States International Development Finance Corporation should coordinate and share information in advance of providing resources through the People-to-People Partnership for Peace Fund and the Joint Investment for Peace Initiative. “(d) Report.—“(1) In general.—Not later than 90 days after the end of the first fiscal year in which both the People-to-People Partnership for Peace Fund and the Joint Investment for Peace Initiative are in effect, and annually thereafter, the Administrator of the United States Agency for International Development and the Chief Executive Officer of the United States International Development Finance Corporation shall, in coordination with the Secretary of State, jointly submit to the appropriate congressional committees a report in writing that describes—“(A)(i) lessons learned and best practices developed from funding for projects under the People-to-People Partnership for Peace Fund during the prior fiscal year; and “(ii) the extent to which such projects have contributed to the purposes of the People-to-People Partnership for Peace Fund; “(B)(i) lessons learned and best practices developed from investments provided under the Joint Investment for Peace Initiative during the prior fiscal year; and “(ii) the extent to which such investments have contributed to the purposes of the Joint Investment for Peace Initiative; and “(C) how the United States International Development Finance Corporation and the United States Agency for International Development coordinate and share information with respect to the People-to-People Partnership for Peace Fund and the Joint Investment for Peace Initiative. “(2) Consultation.—The Administrator of the United States Agency for International Development, in consultation with the Secretary of State, shall consult with the advisory board established by subsection (e) of section 535 of the Foreign Assistance Act of 1961 [[22 U.S.C. 2346d(e)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2346d/e&num=0&edition=prelim)] (as added by section 8004 of this Act [probably means “this title”]) to inform the reports required by paragraph (1). “APPROPRIATE CONGRESSIONAL COMMITTEES DEFINED“Sec. 8007. In this title, the term ‘appropriate congressional committees’ has the meaning given that term in section 1402 of the Better Utilization of Investments Leading to Development Act of 2018 ([22 U.S.C. 9601](./chapter-103-better-utilization-of-investments-leading-to-development.md#section-9601)). “AUTHORIZATION OF APPROPRIATIONS“Sec. 8008. (a) In General.—There is authorized to be appropriated to carry out this title, and the amendments made by this title, $50,000,000 for each of the first 5 fiscal years beginning after the date of the enactment of this Act [Dec. 27, 2020]. “(b) Consultation Requirement.—Not later than 90 days after enactment of this Act, and prior to the obligation of funds made available to implement this title, the Administrator of the United States Agency for International Development and the Chief Executive Officer of the United States International Development Finance Corporation, in coordination with the Secretary of State, shall consult with the Committees on Appropriations on the proposed uses of funds. “(c) Administrative Expenses.—Not more than 5 percent of amounts authorized to be appropriated by subsection (a) for a fiscal year should be made available for administrative expenses to carry out section 535 of the Foreign Assistance Act of 1961 [[22 U.S.C. 2346d](./chapter-032-foreign-assistance.md#section-2346d)] (as added by section 8004 of this Act [probably means “this title”]). “(d) Availability.—Amounts authorized to be appropriated by subsection (a) for a fiscal year are authorized to remain available for such fiscal year and the subsequent 4 fiscal years.”
 
 
 <a id="section-2346e-to-2346i"></a>
@@ -12249,11 +11802,14 @@ This chapter, referred to in subsec. (a), was in the original “this Act”, me
 
 1990—Pub. L. 101–513 inserted after first sentence “Such civilian personnel shall include foreign governmental personnel of ministries other than ministries of defense if the military education and training would (i) contribute to responsible defense resource management, (ii) foster greater respect for and understanding of the principle of civilian control of the military, or (iii) improve military justice systems and procedures in accordance with internationally recognized human rights.”
 
-#### Delegation of Functions
-For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under [section 2381 of this title](./chapter-032-foreign-assistance.md#section-2381).
+#### Plan To Increase Participation in International Military Education and Training Programs
+Pub. L. 116–283, div. A, title XII, § 1210C, Jan. 1, 2021, 134 Stat. 3915, provided that: “(a) In General.—Not later than one year after the date of the enactment of this Act [Jan. 1, 2021], the Secretary of State, in coordination with the Secretary of Defense, shall submit to the appropriate congressional committees a plan to increase the number of foreign female participants receiving training under the International Military Education and Training program authorized under chapter 5 of part II of the Foreign Assistance Act of 1961 ([22 U.S.C. 2347](./chapter-032-foreign-assistance.md#section-2347) et seq.) and any other military exchange program offered to foreign participants, with the goal of doubling such participation over the 10-year period beginning on the date of the enactment of this Act. “(b) Interim Progress Reports.—Not later than 2 years after the date of the submission of the plan required by subsection (a), and every 2 years thereafter until the end of the 10-year period beginning on the date of the enactment of this Act, the Secretary of State, in coordination with the Secretary of Defense, shall submit to the appropriate congressional committees a report that includes the most recently available data on foreign female participation in activities conducted under the International Military Education and Training program and any other military exchange programs and describes the manner and extent to which the goal described in subsection (a) has been achieved as of the date of the submission of the report. “(c) Appropriate Congressional Committees Defined.—In this section, the term ‘appropriate congressional committees’ means—“(1) the Committee on Armed Services and the Committee on Foreign Affairs of the House of Representatives; and “(2) the Committee on Armed Services and the Committee on Foreign Relations of the Senate.”
 
 #### Funds Made Available Pursuant to Other Provisions of Law
 Pub. L. 94–329, title I, § 106(d), June 30, 1976, 90 Stat. 734, provided that: “Funds made available pursuant to other provisions of law for foreign military educational and training activities shall remain available for obligation and expenditure for their original purposes in accordance with the provisions of law originally applicable to those purposes or in accordance with the provisions of law currently applicable to those purposes.”
+
+#### Delegation of Functions
+For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under [section 2381 of this title](./chapter-032-foreign-assistance.md#section-2381).
 
 
 <a id="section-2347a"></a>
@@ -12330,11 +11886,11 @@ Education and training activities conducted under this part shall be designed—
 #### Effective Date
 Section effective Oct. 1, 1985, see section 1301 of Pub. L. 99–83, set out as an Effective Date of 1985 Amendment note under [section 2151–1 of this title](./chapter-032-foreign-assistance.md#section-2151-1).
 
-#### Delegation of Functions
-For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under [section 2381 of this title](./chapter-032-foreign-assistance.md#section-2381).
-
 #### Authority for Exchange Training Through Specified Professional Military Education Institution Outside United States
 Pub. L. 101–189, div. A, title IX, § 935, Nov. 29, 1989, 103 Stat. 1538, provided that: “(a) Authority.—The United States Army Russian Institute in Garmisch-Partenkirchen, Federal Republic of Germany, shall be treated for purposes of section 544 of the Foreign Assistance Act of 1961 ([22 U.S.C. 2347c](./chapter-032-foreign-assistance.md#section-2347c)) as if it were located in the United States. “(b) Expiration of Authority.—Subsection (a) shall cease to be in effect upon the enactment in foreign assistance authorizing legislation of an amendment to section 544 of the Foreign Assistance Act of 1961 that provides the same authority as is provided by subsection (a).”
+
+#### Delegation of Functions
+For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under [section 2381 of this title](./chapter-032-foreign-assistance.md#section-2381).
 
 
 <a id="section-2347d"></a>
@@ -12395,11 +11951,11 @@ The President is authorized to furnish assistance to friendly countries and inte
 #### Amendments
 1979—Pub. L. 96–92 authorized reimbursement of Department of Defense for expenses incurred in furnishing assistance to the United States limited to $5,000,000 per fiscal year unless specifically authorized.
 
-#### Delegation of Functions
-For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under [section 2381 of this title](./chapter-032-foreign-assistance.md#section-2381).
-
 #### United States Proposal for the Early Warning System in Sinai
 Pub. L. 94–110, Oct. 13, 1975, 89 Stat. 572, provided that: “Whereas an agreement signed on September 4, 1975, by the Government of the Arab Republic of Egypt and the Government of Israel may, when it enters into force, constitute a significant step toward peace in the Middle East; “Whereas the President of the United States on September 1, 1975, transmitted to the Government of the Arab Republic of Egypt and to the Government of Israel identical proposals for United States participation in an early-warning system, the text of which has been submitted to the Congress, providing for the assignment of no more than two hundred United States civilian personnel to carry out certain specified noncombat functions and setting forth the terms and conditions thereof; “Whereas that proposal would permit the Government of the United States to withdraw such personnel if it concludes that their safety is jeopardized or that continuation of their role is no longer necessary; and “Whereas the implementation of the United States proposals for the early-warning system in Sinai may enhance the prospect of compliance in good faith with the terms of the Egyptian-Israeli agreements and thereby promote the cause of peace: Now, therefore, be it “Resolved by the Senate and House of Representatives of the United States of America in Congress assembled, That the President is authorized to implement the ‘United States Proposal for the Early Warning System in Sinai’: Provided, however, That United States civilian personnel assigned to Sinai under such proposal shall be removed immediately in the event of an outbreak of hostilities between Egypt and Israel or if the Congress by concurrent resolution determines that the safety of such personnel is jeopardized or that continuation of their role is no longer necessary. Nothing contained in this resolution shall be construed as granting any authority to the President with respect to the introduction of United States Armed Forces into hostilities or into situations wherein involvement in hostilities is clearly indicated by the circumstances which authority he would not have had in the absence of this joint resolution. “Sec. 2. Any concurrent resolution of the type described in the first section of this resolution which is introduced in either House of Congress shall be privileged in the same manner and to the same extent as a concurrent resolution of the type described in section 5(c) of Public Law 93–148 [[section 1544(c) of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1544/c&num=0&edition=prelim), War and National Defense] is privileged under section 7 of such law [[section 1546 of title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1546&num=0&edition=prelim), War and National Defense]. “Sec. 3. The United States civilian personnel participating in the early warning system in Sinai shall include only individuals who have volunteered to participate in such system. “Sec. 4. Whenever United States civilian personnel, pursuant to this resolution, participate in an early warning system, the President shall, so long as the participation of such personnel continues, submit written reports to the Congress periodically, but no less frequently than once every six months, on (1) the status, scope, and anticipated duration of their participation, and (2) the feasibility of ending or reducing as soon as possible their participation by substituting nationals of other countries or by making technological changes. The appropriate committees of the Congress shall promptly hold hearings on each report of the President and report to the Congress any findings, conclusions, and recommendations. “Sec. 5. The authority contained in this joint resolution to implement the ‘United States Proposal for the Early Warning System in Sinai’ does not signify approval of the Congress of any other agreement, understanding, or commitment made by the executive branch.”
+
+#### Delegation of Functions
+For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under [section 2381 of this title](./chapter-032-foreign-assistance.md#section-2381).
 
 #### Executive Order No. 11896
 Ex. Ord. No. 11896, Jan. 13, 1976, 41 F.R. 2067, as amended by Ex. Ord. No. 12150, July 23, 1979, 44 F.R. 43455; Ex. Ord. No. 12227, July 22, 1980, 45 F.R. 49237; Ex. Ord. No. 12357, Apr. 6, 1982, 47 F.R. 15093, which established the United States Sinai Support Mission, was revoked by Ex. Ord. No. 12553, Feb. 25, 1986, 51 F.R. 7237.
@@ -12700,14 +12256,14 @@ Except where expressly provided to the contrary, any reference in any law to sub
 
 ### Statutory Notes
 
-#### References to Subchapter I Deemed To Include Certain Parts of Subchapter II, and References to Subchapter II Deemed To Exclude Such Parts
-References to subchapter I of this chapter are deemed to include parts IV (§ 2346 et seq.) and VI (§ 2348 et seq.) of subchapter II of this chapter, and references to subchapter II are deemed to exclude such parts. See section 202(b) of Pub. L. 92–226, set out as a note under [section 2346 of this title](./chapter-032-foreign-assistance.md#section-2346), and [section 2348c of this title](./chapter-032-foreign-assistance.md#section-2348c).
-
 #### Codification
 Section 575, formerly 576, of Pub. L. 87–195 is based on section 201 of title II of H.R. 2992, Ninety-eighth Congress, as reported May 17, 1983, and enacted into law by Pub. L. 98–151.
 
 #### Prior Provisions
 A prior section 575 of Pub. L. 87–195 was renumbered section 574 and is classified to [section 2349aa–4 of this title](./chapter-032-foreign-assistance.md#section-2349aa-4).
+
+#### References to Subchapter I Deemed To Include Certain Parts of Subchapter II, and References to Subchapter II Deemed To Exclude Such Parts
+References to subchapter I of this chapter are deemed to include parts IV (§ 2346 et seq.) and VI (§ 2348 et seq.) of subchapter II of this chapter, and references to subchapter II are deemed to exclude such parts. See section 202(b) of Pub. L. 92–226, set out as a note under [section 2346 of this title](./chapter-032-foreign-assistance.md#section-2346), and [section 2348c of this title](./chapter-032-foreign-assistance.md#section-2348c).
 
 
 <a id="section-2349aa-6"></a>
@@ -13027,9 +12583,6 @@ Pub. L. 112–81, div. A, title XII, § 1235, Dec. 31, 2011, 125 Stat. 1638, pro
 #### References in Text
 This chapter, referred to in subsecs. (b) and (d), was in the original “this Act”, meaning Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, as amended, known as the Foreign Assistance Act of 1961. For complete classification of this Act to the Code, see Short Title note set out under [section 2151 of this title](./chapter-032-foreign-assistance.md#section-2151) and Tables.
 
-#### References to Subchapter I Deemed To Include Certain Parts of Subchapter II
-References to subchapter I of this chapter are deemed to include parts IV (§ 2346 et seq.), VI (§ 2348 et seq.), and VIII (§ 2349aa et seq.) of subchapter II of this chapter, and references to subchapter II are deemed to exclude such parts. See section 202(b) of Pub. L. 92–226, set out as a note under [section 2346 of this title](./chapter-032-foreign-assistance.md#section-2346), and sections 2348c and 2349aa–5 of this title.
-
 #### Amendments
 1981—Subsec. (e)(2). Pub. L. 97–113 struck out par. (2) which required reports to Congress on Agency for International Development contracts over $100,000 entered into without competitive selection. See [section 2394(a)(2)(F) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2394/a/2/F&num=0&edition=prelim).
 
@@ -13051,14 +12604,17 @@ Subsec. (d). Pub. L. 88–633, § 301(b), added subsec. (d).
 
 Subsec. (c). Pub. L. 88–205, § 301(b), added subsec. (c).
 
+#### References to Subchapter I Deemed To Include Certain Parts of Subchapter II
+References to subchapter I of this chapter are deemed to include parts IV (§ 2346 et seq.), VI (§ 2348 et seq.), and VIII (§ 2349aa et seq.) of subchapter II of this chapter, and references to subchapter II are deemed to exclude such parts. See section 202(b) of Pub. L. 92–226, set out as a note under [section 2346 of this title](./chapter-032-foreign-assistance.md#section-2346), and sections 2348c and 2349aa–5 of this title.
+
 #### Effective Date of 1978 Amendment
 Amendment by Pub. L. 95–424 effective Oct. 1, 1978, see section 605 of Pub. L. 95–424, set out as a note under [section 2151 of this title](./chapter-032-foreign-assistance.md#section-2151).
 
-#### Delegation of Functions
-For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under [section 2381 of this title](./chapter-032-foreign-assistance.md#section-2381).
-
 #### Termination of Advisory Council
 Advisory council in existence on Jan. 5, 1973, to terminate not later than the expiration of the 2-year period following Jan. 5, 1973, unless, in the case of a council established by the President or an officer of the Federal Government, such council is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a council established by the Congress, its duration is otherwise provided by law. See sections 3(2) and 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, 776, set out in the Appendix to Title 5, Government Organization and Employees.
+
+#### Delegation of Functions
+For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under [section 2381 of this title](./chapter-032-foreign-assistance.md#section-2381).
 
 
 <a id="section-2352"></a>
@@ -13083,19 +12639,19 @@ This chapter, referred to in subsec. (a), was in the original “this Act”, me
 #### References to Subchapter II Deemed To Exclude Certain Parts of Subchapter II
 References to subchapter II of this chapter are deemed to exclude parts IV (§ 2346 et seq.), VI (§ 2348 et seq.), and VIII (§ 2349aa et seq.) of subchapter II, and references to subchapter I of this chapter are deemed to include such parts. See section 202(b) of Pub. L. 92–226, set out as a note under [section 2346 of this title](./chapter-032-foreign-assistance.md#section-2346), and sections 2348c and 2349aa–5 of this title.
 
-#### Delegation of Functions
-For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under [section 2381 of this title](./chapter-032-foreign-assistance.md#section-2381).
-
 #### Reports on Participation by Small Businesses in Procurement Contracts of USAID
 Pub. L. 107–228, div. A, title VI, § 687, Sept. 30, 2002, 116 Stat. 1411, provided that: “(a) Initial Report.—Not later than 120 days after the date of the enactment of this Act [Sept. 30, 2002], the Administrator shall submit to the designated congressional committees a report that contains the following:“(1) For each of the fiscal years 2000, 2001, and 2002:“(A) The total number of the contracts that were awarded by the Agency to—“(i) all small businesses; “(ii) small business concerns owned and controlled by socially and economically disadvantaged individuals; “(iii) small business concerns owned and controlled by women; “(iv) small businesses participating in the program under section 8(a) of such Act [probably means section 8(a) of the Small Business Act] ([15 U.S.C. 637(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section637/a&num=0&edition=prelim)); and “(v) qualified HUBZone small business concerns. “(B) The percentage of all contracts awarded by the Agency that were awarded to the small businesses in each category of small businesses specified in clauses (i) through (v) of subparagraph (A), as computed on the basis of dollar amounts. “(C) Of all contracts awarded by the Agency for performance in the United States, the percentage of the contracts that were awarded to the small businesses in each category of small businesses specified in clauses (i) through (v) of subparagraph (A), as computed on the basis of dollar amounts. “(D) To the extent available—“(i) the total number of grant and cooperative agreements that were made by the Agency to the small businesses in each category of small businesses specified in clauses (i) through (v) of subparagraph (A); “(ii) the percentage of all grant and cooperative agreements awarded by the Agency that were awarded to small businesses in each category of small businesses specified in clauses (i) through (v) of subparagraph (A), as computed on the basis of dollar amounts; and “(iii) of all grant and cooperative agreements made by the Agency to entities in the United States, the percentage of the grant and cooperative agreements that were awarded to small businesses in each category of small businesses specified in clauses (i) through (v) of subparagraph (A), as computed on the basis of dollar amounts. “(E) To the extent available—“(i) the total dollar amount of all subcontracts entered into with the small businesses in each category specified in clauses (i) through (v) of subparagraph (A) by the prime contractors for contracts entered into by the Agency; and “(ii) the percentage of all contracts entered into by the Agency that were performed under subcontracts described in clause (i), as computed on the basis of dollar amounts. “(2) An analysis of any specific industries or sectors that are underrepresented by small businesses in the awarding of contracts by the Agency and, to the extent such information is available, such analysis pertaining to the making of grants and cooperative agreements by the Agency. “(3) A specific plan of outreach, including measurable achievement milestones, to increase the total number of contracts that are awarded by the Agency, and the percentage of all contracts awarded by the Agency (computed on the basis of dollar amount) that are awarded, to—“(A) all small businesses; “(B) small business concerns owned and controlled by socially and economically disadvantaged individuals; “(C) small business concerns owned and controlled by women; “(D) small businesses participating in the program under section 8(a) of such Act ([15 U.S.C. 637(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section637/a&num=0&edition=prelim)); and “(E) qualified HUBZone small business concerns, in order to meet the statutory and voluntary targets established by the Agency and the Small Business Administration, with a particular focus on the industries or sectors identified in paragraph (2). “(4) Any other information the Administrator determines appropriate. “(b) Plan To Increase Small Business Contracting.—The plan required for the report under subsection (a)(3) shall include the following matters:“(1) Proposals and milestones that apply to all contracts entered into by or on behalf of the Agency in Washington, D.C., and proposals and milestones that apply to all contracts entered into by or on behalf of the Agency by offices outside Washington, D.C. “(2) Proposals and milestones of the Agency to increase the amount of subcontracting to businesses described in such subsection (a)(3) by the prime contractors of the Agency. “(3) With the milestones described in paragraph (2), a description of how the Administrator plans to use the failure of a prime contractor to meet goals as a ranking factor for evaluating any other submission from the contractor for future contracts by the Agency. “(c) Annual Reports.—Not later than January 31, 2004, January 31, 2005, and January 31, 2006, the Administrator shall submit to the designated congressional committees a report for the preceding fiscal year that contains a description of the percentage of total contract and grant and cooperative agreement dollar amounts that were entered into by the Agency, and the total number of contracts and grants and cooperative agreements that were awarded by the Agency, to small businesses in each category specified in clauses (i) through (v) of subsection (a)(1)(A) during such fiscal year. The report for a fiscal year shall include, separately stated for contracts and grant and cooperative agreements entered into by the Agency, the percentage of the contracts and grant and cooperative agreements, respectively, that were awarded to small businesses in each such category, as computed on the basis of dollar amounts. The report shall also include a description of achievements toward measurable milestones for direct contracts of the Agency entered into by offices outside of Washington, D.C., and for subcontracting by prime contractors of the Agency. “(d) Definitions.—In this section:“(1) Administrator.—The term ‘Administrator’ means the Administrator of the United States Agency for International Development. “(2) Agency.—The term ‘Agency’ means the United States Agency for International Development. “(3) Designated congressional committees.—The term ‘designated congressional committees’ means—“(A) the Committee on International Relations [now Committee on Foreign Affairs] and the Committee on Small Business of the House of Representatives; and “(B) the Committee on Foreign Relations and the Committee on Small Business [now Committee on Small Business and Entrepreneurship] of the Senate.”
-
-#### Office in Agency for International Development
-For location of the Office of Small Business, provided for in subsec. (b), in the United States Agency for International Development, see section 1–200(d) of Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under [section 2381 of this title](./chapter-032-foreign-assistance.md#section-2381).
 
 #### Procurements From Small Businesses
 Pub. L. 94–329, title VI, § 602, June 30, 1976, 90 Stat. 766, provided that: “In order to encourage procurements from small business concerns under chapter 4 of the Foreign Assistance Act of 1961 [part IV of subchapter II of this chapter], the Administrator of the Agency for International Development shall report to the Congress every six months on the extent to which small businesses have participated in procurements under such chapter [part] and on what efforts the Agency has made to foster such procurements from small business concerns. The Small Business Administration shall lend all available assistance to the Agency for the purposes of carrying out this section.”
 
 [For termination, effective May 15, 2000, of reporting provisions in section 602 of Pub. L. 94–329, set out above, see section 3003 of Pub. L. 104–66, as amended, set out as a note under [section 1113 of Title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1113&num=0&edition=prelim), Money and Finance, and page 130 of House Document No. 103–7.]
+
+#### Delegation of Functions
+For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under [section 2381 of this title](./chapter-032-foreign-assistance.md#section-2381).
+
+#### Office in Agency for International Development
+For location of the Office of Small Business, provided for in subsec. (b), in the United States Agency for International Development, see section 1–200(d) of Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under [section 2381 of this title](./chapter-032-foreign-assistance.md#section-2381).
 
 
 <a id="section-2353"></a>
@@ -13215,11 +12771,11 @@ For delegation of functions of President under this section, see Ex. Ord. No. 12
 #### References in Text
 This chapter, referred to in subsecs. (a) to (c), was in the original “this Act”, meaning Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, as amended, known as the Foreign Assistance Act of 1961. For complete classification of this Act to the Code, see Short Title note set out under [section 2151 of this title](./chapter-032-foreign-assistance.md#section-2151) and Tables.
 
-#### References to Subchapter I Deemed To Include Certain Parts of Subchapter II
-References to subchapter I of this chapter are deemed to include parts IV (§ 2346 et seq.), VI (§ 2348 et seq.), and VIII (§ 2349aa et seq.) of subchapter II of this chapter, and references to subchapter II are deemed to exclude such parts. See section 202(b) of Pub. L. 92–226, set out as a note under [section 2346 of this title](./chapter-032-foreign-assistance.md#section-2346), and sections 2348c and 2349aa–5 of this title.
-
 #### Amendments
 1965—Subsecs. (c), (d). Pub. L. 89–171 added subsecs. (c) and (d).
+
+#### References to Subchapter I Deemed To Include Certain Parts of Subchapter II
+References to subchapter I of this chapter are deemed to include parts IV (§ 2346 et seq.), VI (§ 2348 et seq.), and VIII (§ 2349aa et seq.) of subchapter II of this chapter, and references to subchapter II are deemed to exclude such parts. See section 202(b) of Pub. L. 92–226, set out as a note under [section 2346 of this title](./chapter-032-foreign-assistance.md#section-2346), and sections 2348c and 2349aa–5 of this title.
 
 #### Delegation of Functions
 For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under [section 2381 of this title](./chapter-032-foreign-assistance.md#section-2381).
@@ -13290,12 +12846,6 @@ Amendment by Pub. L. 97–164 effective Oct. 1, 1982, see section 402 of Pub. L.
 #### References in Text
 This chapter, referred to in subsec. (a), was in the original “this Act”, meaning Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, as amended, known as the Foreign Assistance Act of 1961. For complete classification of this Act to the Code, see Short Title note set out under [section 2151 of this title](./chapter-032-foreign-assistance.md#section-2151) and Tables.
 
-#### References to Subchapter I Deemed To Include Certain Parts of Subchapter II
-References to subchapter I of this chapter are deemed to include parts IV (§ 2346 et seq.), VI (§ 2348 et seq.), and VIII (§ 2349aa et seq.) of subchapter II of this chapter, and references to subchapter II are deemed to exclude such parts. See section 202(b) of Pub. L. 92–226, set out as a note under [section 2346 of this title](./chapter-032-foreign-assistance.md#section-2346), and sections 2348c and 2349aa–5 of this title.
-
-#### References to Part I Deemed To Include Section 2293
-References to part I of subchapter I of this chapter are deemed to include a reference to [section 2293 of this title](./chapter-032-foreign-assistance.md#section-2293). See [section 2293(d)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2293/d/1&num=0&edition=prelim).
-
 #### Amendments
 1985—Subsec. (c)(1). Pub. L. 99–93, § 129(1)(A), (B), designated existing provisions of subsec. (c) as par. (1), redesignated existing pars. (1), (2), and (3) as subpars. (A), (B), and (C), respectively, and in introductory provisions of par. (1) as so designated substituted “Except as provided in subsection (d), no” for “No”.
 
@@ -13313,6 +12863,12 @@ Subsec. (d). Pub. L. 99–93, § 129(2), added subsec. (d).
 
 1968—Pub. L. 90–554 designated existing provisions as subsec. (a) and added subsec. (b).
 
+#### References to Subchapter I Deemed To Include Certain Parts of Subchapter II
+References to subchapter I of this chapter are deemed to include parts IV (§ 2346 et seq.), VI (§ 2348 et seq.), and VIII (§ 2349aa et seq.) of subchapter II of this chapter, and references to subchapter II are deemed to exclude such parts. See section 202(b) of Pub. L. 92–226, set out as a note under [section 2346 of this title](./chapter-032-foreign-assistance.md#section-2346), and sections 2348c and 2349aa–5 of this title.
+
+#### References to Part I Deemed To Include Section 2293
+References to part I of subchapter I of this chapter are deemed to include a reference to [section 2293 of this title](./chapter-032-foreign-assistance.md#section-2293). See [section 2293(d)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2293/d/1&num=0&edition=prelim).
+
 #### Effective Date of 1979 Amendment
 Amendment by Pub. L. 96–53 effective Oct. 1, 1979, see section 512(a) of Pub. L. 96–53, set out as a note under [section 2151 of this title](./chapter-032-foreign-assistance.md#section-2151).
 
@@ -13322,11 +12878,14 @@ Amendment by Pub. L. 95–424 effective Oct. 1, 1978, see section 605 of Pub. L.
 #### Regulations
 Pub. L. 95–88, title I, § 122(b), Aug. 3, 1977, 91 Stat. 541, provided that: “For purposes of implementing the amendment made by subsection (a) [amending this section], the President shall issue regulations governing registration with and approval by the Advisory Committee on Voluntary Foreign Aid of foreign voluntary nonprofit agencies.”
 
-#### Transfer of Functions
-“Director of the Office of Personnel Management” substituted for “Civil Service Commission” in subsec. (b) pursuant to Reorg. Plan No. 2 of 1978, § 102, 43 F.R. 36037, 92 Stat. 3783, set out under [section 1101 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section1101&num=0&edition=prelim), Government Organization and Employees, which transferred all functions vested by statute in the United States Civil Service Commission to the Director of the Office of Personnel Management (except as otherwise specified), effective Jan. 1, 1979, as provided by section 1–102 of Ex. Ord. No. 12107, Dec. 28, 1978, 44 F.R. 1055, set out under [section 1101 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section1101&num=0&edition=prelim).
-
 #### Authority of Secretary of State
 Except as otherwise provided, Secretary of State to have and exercise any authority vested by law in any official or office of Department of State and references to such officials or offices deemed to refer to Secretary of State or Department of State, as appropriate, see [section 2651a of this title](./chapter-038-department-of-state.md#section-2651a) and section 161(d) of Pub. L. 103–236, set out as a note under [section 2651a of this title](./chapter-038-department-of-state.md#section-2651a).
+
+#### Termination of Advisory Committees
+Advisory committees in existence on Jan. 5, 1973, to terminate not later than the expiration of the 2-year period following Jan. 5, 1973, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided by law. See section 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 776, set out in the Appendix to Title 5, Government Organization and Employees.
+
+#### Transfer of Functions
+“Director of the Office of Personnel Management” substituted for “Civil Service Commission” in subsec. (b) pursuant to Reorg. Plan No. 2 of 1978, § 102, 43 F.R. 36037, 92 Stat. 3783, set out under [section 1101 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section1101&num=0&edition=prelim), Government Organization and Employees, which transferred all functions vested by statute in the United States Civil Service Commission to the Director of the Office of Personnel Management (except as otherwise specified), effective Jan. 1, 1979, as provided by section 1–102 of Ex. Ord. No. 12107, Dec. 28, 1978, 44 F.R. 1055, set out under [section 1101 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section1101&num=0&edition=prelim).
 
 #### Delegation of Functions
 For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under [section 2381 of this title](./chapter-032-foreign-assistance.md#section-2381).
@@ -13354,9 +12913,6 @@ The Secretary of State is authorized and directed to publish this memorandum in 
 
 William J. Clinton.
 
-#### Termination of Advisory Committees
-Advisory committees in existence on Jan. 5, 1973, to terminate not later than the expiration of the 2-year period following Jan. 5, 1973, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided by law. See section 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 776, set out in the Appendix to Title 5, Government Organization and Employees.
-
 
 <a id="section-2358"></a>
 ## § 2358. Foreign and domestic excess property
@@ -13365,12 +12921,6 @@ Advisory committees in existence on Jan. 5, 1973, to terminate not later than th
 **(b) Transfer of domestic excess property** Property classified as domestic excess property under chapters 1 to 11 of title 40 and division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41 shall not be transferred to the agency primarily responsible for administering subchapter I of this chapter for use pursuant to the provisions of subchapter I of this chapter or [section 2357 of this title](./chapter-032-foreign-assistance.md#section-2357) unless (1) such property is transferred for use exclusively by an agency of the United States Government, or (2) it has been determined in the same manner as provided for surplus property in section 549(a) to (e) of title 40, that such property is not needed for donation pursuant to those subsections. The foregoing restrictions shall not apply to the transfer in any fiscal year for use pursuant to the provisions of subchapter I of this chapter of amounts of such property with a total original acquisition cost to the United States Government not exceeding $45,000,000.
 
 ### Statutory Notes
-
-#### References to Subchapter I Deemed To Include Certain Parts of Subchapter II
-References to subchapter I of this chapter are deemed to include parts IV (§ 2346 et seq.), VI (§ 2348 et seq.), and VIII (§ 2349aa et seq.) of subchapter II of this chapter, and references to subchapter II are deemed to exclude such parts. See section 202(b) of Pub. L. 92–226, set out as a note under [section 2346 of this title](./chapter-032-foreign-assistance.md#section-2346), and sections 2348c and 2349aa–5 of this title.
-
-#### References to Part I Deemed To Include Section 2293
-References to part I of subchapter I of this chapter are deemed to include a reference to [section 2293 of this title](./chapter-032-foreign-assistance.md#section-2293). See [section 2293(d)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2293/d/1&num=0&edition=prelim).
 
 #### Codification
 In text, “chapters 1 to 11 of title 40 and division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41” substituted for references to the Federal Property and Administrative Services Act of 1949, as amended, on authority of Pub. L. 107–217, § 5(c), Aug. 21, 2002, 116 Stat. 1303, which Act enacted Title 40, Public Buildings, Property, and Works, and Pub. L. 111–350, § 6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
@@ -13387,6 +12937,12 @@ In subsec. (b), “section 549(a) to (e) of title 40” substituted for “secti
 1967—Subsec. (a). Pub. L. 90–137 required, in furnishing assistance under subchapter I of this chapter, utilization of excess personal property wherever practicable in lieu of new items for United States-assisted projects and programs.
 
 1966—Subsec. (a). Pub. L. 89–583 permitted personnel costs attributable to the excess property program to be charged to the separate account for the advance acquisition of property.
+
+#### References to Subchapter I Deemed To Include Certain Parts of Subchapter II
+References to subchapter I of this chapter are deemed to include parts IV (§ 2346 et seq.), VI (§ 2348 et seq.), and VIII (§ 2349aa et seq.) of subchapter II of this chapter, and references to subchapter II are deemed to exclude such parts. See section 202(b) of Pub. L. 92–226, set out as a note under [section 2346 of this title](./chapter-032-foreign-assistance.md#section-2346), and sections 2348c and 2349aa–5 of this title.
+
+#### References to Part I Deemed To Include Section 2293
+References to part I of subchapter I of this chapter are deemed to include a reference to [section 2293 of this title](./chapter-032-foreign-assistance.md#section-2293). See [section 2293(d)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2293/d/1&num=0&edition=prelim).
 
 #### Effective Date of 1978 Amendment
 Amendment by Pub. L. 95–424 effective Oct. 1, 1978, see section 605 of Pub. L. 95–424, set out as a note under [section 2151 of this title](./chapter-032-foreign-assistance.md#section-2151).
@@ -13463,12 +13019,6 @@ For delegation of functions of President under this section, see Ex. Ord. No. 12
 #### References in Text
 The Water Resources Planning Act, referred to in subsec. (b), is Pub. L. 89–80, July 22, 1965, 79 Stat. 244, as amended, which is classified generally to chapter 19B (§ 1962 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 1962 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1962&num=0&edition=prelim) and Tables.
 
-#### References to Subchapter I Deemed To Include Certain Parts of Subchapter II
-References to subchapter I of this chapter are deemed to include parts IV (§ 2346 et seq.), VI (§ 2348 et seq.), and VIII (§ 2349aa et seq.) of subchapter II of this chapter, and references to subchapter II are deemed to exclude such parts. See section 202(b) of Pub. L. 92–226, set out as a note under [section 2346 of this title](./chapter-032-foreign-assistance.md#section-2346), and sections 2348c and 2349aa–5 of this title.
-
-#### References to Part I Deemed To Include Section 2293
-References to part I of subchapter I of this chapter are deemed to include a reference to [section 2293 of this title](./chapter-032-foreign-assistance.md#section-2293). See [section 2293(d)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2293/d/1&num=0&edition=prelim).
-
 #### Amendments
 1985—Subsec. (a). Pub. L. 99–83, § 1208(1), substituted “$500,000” for “$100,000”.
 
@@ -13487,6 +13037,12 @@ Subsec. (e). Pub. L. 95–424, § 102(g)(2)(E), substituted “part I of subchap
 1963—Subsec. (b). Pub. L. 88–205 substituted “the Memorandum of the President dated May 15, 1962,” for “circular A–47 of the Bureau of the Budget.”
 
 1962—Subsec. (a). Pub. L. 87–565 included subpart VI of part II of subchapter I of this chapter within the restriction.
+
+#### References to Subchapter I Deemed To Include Certain Parts of Subchapter II
+References to subchapter I of this chapter are deemed to include parts IV (§ 2346 et seq.), VI (§ 2348 et seq.), and VIII (§ 2349aa et seq.) of subchapter II of this chapter, and references to subchapter II are deemed to exclude such parts. See section 202(b) of Pub. L. 92–226, set out as a note under [section 2346 of this title](./chapter-032-foreign-assistance.md#section-2346), and sections 2348c and 2349aa–5 of this title.
+
+#### References to Part I Deemed To Include Section 2293
+References to part I of subchapter I of this chapter are deemed to include a reference to [section 2293 of this title](./chapter-032-foreign-assistance.md#section-2293). See [section 2293(d)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2293/d/1&num=0&edition=prelim).
 
 #### Effective Date of 1985 Amendment
 Amendment by Pub. L. 99–83 effective Oct. 1, 1985, see section 1301 of Pub. L. 99–83, set out as a note under [section 2151–1 of this title](./chapter-032-foreign-assistance.md#section-2151-1).
@@ -13517,9 +13073,6 @@ The Mutual Security Act of 1954, referred to in subsec. (a), is act Aug. 26, 195
 
 The Food for Peace Act, as amended, referred to in subsec. (d), is act July 10, 1954, ch. 469, 68 Stat. 454, which is classified principally to chapter 41 (§ 1691 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under [section 1691 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1691&num=0&edition=prelim) and Tables.
 
-#### References to Subchapter I Deemed To Include Certain Parts of Subchapter II
-References to subchapter I of this chapter are deemed to include parts IV (§ 2346 et seq.), VI (§ 2348 et seq.), and VIII (§ 2349aa et seq.) of subchapter II of this chapter, and references to subchapter II are deemed to exclude such parts. See section 202(b) of Pub. L. 92–226, set out as a note under [section 2346 of this title](./chapter-032-foreign-assistance.md#section-2346), and sections 2348c and 2349aa–5 of this title.
-
 #### Amendments
 2008—Subsec. (d). Pub. L. 110–246 substituted “Food for Peace Act” for “Agricultural Trade Development and Assistance Act of 1954”.
 
@@ -13535,16 +13088,20 @@ Subsec. (c). Pub. L. 88–633 added subsec. (c).
 
 1963—Pub. L. 88–205 designated existing provisions as subsec. (a) and added subsec. (b).
 
+#### References to Subchapter I Deemed To Include Certain Parts of Subchapter II
+References to subchapter I of this chapter are deemed to include parts IV (§ 2346 et seq.), VI (§ 2348 et seq.), and VIII (§ 2349aa et seq.) of subchapter II of this chapter, and references to subchapter II are deemed to exclude such parts. See section 202(b) of Pub. L. 92–226, set out as a note under [section 2346 of this title](./chapter-032-foreign-assistance.md#section-2346), and sections 2348c and 2349aa–5 of this title.
+
 #### Effective Date of 2008 Amendment
 Amendment by Pub. L. 110–246 effective May 22, 2008, see section 4(b) of Pub. L. 110–246, set out as an Effective Date note under [section 8701 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section8701&num=0&edition=prelim), Agriculture.
 
-#### Delegation of Functions
-For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under [section 2381 of this title](./chapter-032-foreign-assistance.md#section-2381).
-
 #### Separate Accounts for Local Currencies and Cash Transfers
-Pub. L. 116–6, div. F, title VII, § 7026, Feb. 15, 2019, 133 Stat. 312, provided that: “(a) Separate Accounts for Local Currencies.—“(1) Agreements.—If assistance is furnished to the government of a foreign country under chapters 1 and 10 of part I [[22 U.S.C. 2151](./chapter-032-foreign-assistance.md#section-2151) et seq., 2293 et seq.] or chapter 4 of part II [[22 U.S.C. 2346](./chapter-032-foreign-assistance.md#section-2346) et seq.] of the Foreign Assistance Act of 1961 under agreements which result in the generation of local currencies of that country, the Administrator of the United States Agency for International Development shall—“(A) require that local currencies be deposited in a separate account established by that government; “(B) enter into an agreement with that government which sets forth—“(i) the amount of the local currencies to be generated; and “(ii) the terms and conditions under which the currencies so deposited may be utilized, consistent with this section; and “(C) establish by agreement with that government the responsibilities of USAID [United States Agency for International Development] and that government to monitor and account for deposits into and disbursements from the separate account. “(2) Uses of local currencies.—As may be agreed upon with the foreign government, local currencies deposited in a separate account pursuant to subsection (a), or an equivalent amount of local currencies, shall be used only—“(A) to carry out chapter 1 or 10 of part I or chapter 4 of part II of the Foreign Assistance Act of 1961 (as the case may be), for such purposes as—“(i) project and sector assistance activities; or “(ii) debt and deficit financing; or “(B) for the administrative requirements of the United States Government. “(3) Programming accountability.—USAID shall take all necessary steps to ensure that the equivalent of the local currencies disbursed pursuant to subsection (a)(2)(A) from the separate account established pursuant to subsection (a)(1) are used for the purposes agreed upon pursuant to subsection (a)(2). “(4) Termination of assistance programs.—Upon termination of assistance to a country under chapter 1 or 10 of part I or chapter 4 of part II of the Foreign Assistance Act of 1961 (as the case may be), any unencumbered balances of funds which remain in a separate account established pursuant to subsection (a) shall be disposed of for such purposes as may be agreed to by the government of that country and the United States Government. “(5) Report.—The USAID Administrator shall report as part of the congressional budget justification submitted to the Committees on Appropriations on the use of local currencies for the administrative requirements of the United States Government as authorized in subsection (a)(2)(B), and such report shall include the amount of local currency (and United States dollar equivalent) used or to be used for such purpose in each applicable country. “(b) Separate Accounts for Cash Transfers.—“(1) In general.—If assistance is made available to the government of a foreign country, under chapter 1 or 10 of part I [[22 U.S.C. 2151](./chapter-032-foreign-assistance.md#section-2151) et seq., 2293 et seq.] or chapter 4 of part II [[22 U.S.C. 2346](./chapter-032-foreign-assistance.md#section-2346) et seq.] of the Foreign Assistance Act of 1961, as cash transfer assistance or as nonproject sector assistance, that country shall be required to maintain such funds in a separate account and not commingle with any other funds. “(2) Applicability of other provisions of law.—Such funds may be obligated and expended notwithstanding provisions of law which are inconsistent with the nature of this assistance including provisions which are referenced in the Joint Explanatory Statement of the Committee of Conference accompanying House Joint Resolution 648 (House Report No. 98–1159). “(3) Notification.—At least 15 days prior to obligating any such cash transfer or nonproject sector assistance, the President shall submit a notification through the regular notification procedures of the Committees on Appropriations, which shall include a detailed description of how the funds proposed to be made available will be used, with a discussion of the United States interests that will be served by such assistance (including, as appropriate, a description of the economic policy reforms that will be promoted by such assistance). “(4) Exemption.—Nonproject sector assistance funds may be exempt from the requirements of paragraph (1) only through the regular notification procedures of the Committees on Appropriations.”
+Pub. L. 116–260, div. K, title VII, § 7026, Dec. 27, 2020, 134 Stat. 1737, provided that: “(a) Separate Accounts for Local Currencies.—“(1) Agreements.—If assistance is furnished to the government of a foreign country under chapters 1 and 10 of part I [[22 U.S.C. 2151](./chapter-032-foreign-assistance.md#section-2151) et seq., 2293 et seq.] or chapter 4 of part II [[22 U.S.C. 2346](./chapter-032-foreign-assistance.md#section-2346) et seq.] of the Foreign Assistance Act of 1961 under agreements which result in the generation of local currencies of that country, the Administrator of the United States Agency for International Development shall—“(A) require that local currencies be deposited in a separate account established by that government; “(B) enter into an agreement with that government which sets forth—“(i) the amount of the local currencies to be generated; and “(ii) the terms and conditions under which the currencies so deposited may be utilized, consistent with this section; and “(C) establish by agreement with that government the responsibilities of USAID [United States Agency for International Development] and that government to monitor and account for deposits into and disbursements from the separate account. “(2) Uses of local currencies.—As may be agreed upon with the foreign government, local currencies deposited in a separate account pursuant to subsection (a), or an equivalent amount of local currencies, shall be used only—“(A) to carry out chapter 1 or 10 of part I or chapter 4 of part II of the Foreign Assistance Act of 1961 (as the case may be), for such purposes as—“(i) project and sector assistance activities; or “(ii) debt and deficit financing; or “(B) for the administrative requirements of the United States Government. “(3) Programming accountability.—USAID shall take all necessary steps to ensure that the equivalent of the local currencies disbursed pursuant to subsection (a)(2)(A) from the separate account established pursuant to subsection (a)(1) are used for the purposes agreed upon pursuant to subsection (a)(2). “(4) Termination of assistance programs.—Upon termination of assistance to a country under chapter 1 or 10 of part I or chapter 4 of part II of the Foreign Assistance Act of 1961 (as the case may be), any unencumbered balances of funds which remain in a separate account established pursuant to subsection (a) shall be disposed of for such purposes as may be agreed to by the government of that country and the United States Government. “(b) Separate Accounts for Cash Transfers.—“(1) In general.—If assistance is made available to the government of a foreign country, under chapter 1 or 10 of part I [[22 U.S.C. 2151](./chapter-032-foreign-assistance.md#section-2151) et seq., 2293 et seq.] or chapter 4 of part II [[22 U.S.C. 2346](./chapter-032-foreign-assistance.md#section-2346) et seq.] of the Foreign Assistance Act of 1961, as cash transfer assistance or as nonproject sector assistance, that country shall be required to maintain such funds in a separate account and not commingle with any other funds. “(2) Applicability of other provisions of law.—Such funds may be obligated and expended notwithstanding provisions of law which are inconsistent with the nature of this assistance including provisions which are referenced in the Joint Explanatory Statement of the Committee of Conference accompanying House Joint Resolution 648 (House Report No. 98–1159). “(3) Notification.—At least 15 days prior to obligating any such cash transfer or nonproject sector assistance, the President shall submit a notification through the regular notification procedures of the Committees on Appropriations, which shall include a detailed description of how the funds proposed to be made available will be used, with a discussion of the United States interests that will be served by such assistance (including, as appropriate, a description of the economic policy reforms that will be promoted by such assistance). “(4) Exemption.—Nonproject sector assistance funds may be exempt from the requirements of paragraph (1) only through the regular notification procedures of the Committees on Appropriations.”
 
 Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 116–94, div. G, title VII, § 7026, Dec. 20, 2019, 133 Stat. 2859.
+
+Pub. L. 116–6, div. F, title VII, § 7026, Feb. 15, 2019, 133 Stat. 312.
 
 Pub. L. 115–141, div. K, title VII, § 7026, Mar. 23, 2018, 132 Stat. 877.
 
@@ -13601,6 +13158,9 @@ Pub. L. 100–461, title II, Oct. 1, 1988, 102 Stat. 2268–12.
 Pub. L. 100–202, § 101(e) [title II], Dec. 22, 1987, 101 Stat. 1329–131, 1329–143.
 
 Pub. L. 99–500, § 101(f) [title II], Oct. 18, 1986, 100 Stat. 1783–213, 1783–221, and Pub. L. 99–591, § 101(f) [title II], Oct. 30, 1986, 100 Stat. 3341–214, 3341–221.
+
+#### Delegation of Functions
+For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under [section 2381 of this title](./chapter-032-foreign-assistance.md#section-2381).
 
 
 <a id="section-2363"></a>
@@ -13666,9 +13226,6 @@ This chapter, referred to in subsecs. (a) and (c), was in the original “this A
 
 The Arms Export Control Act, referred to in subsec. (a)(1), (2), (4)(A), (B), is Pub. L. 90–629, Oct. 22, 1968, 82 Stat. 1320, as amended, which is classified principally to chapter 39 (§ 2751 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 2751 of this title](./chapter-039-arms-export-control.md#section-2751) and Tables.
 
-#### References to Part IV of Subchapter I Deemed References to Part IV of Subchapter II
-Part IV of subchapter I (§ 2241 et seq.) of this chapter has been repealed. References to part IV of subchapter I, or any sections thereof, are deemed references to part IV of subchapter II (§ 2346 et seq.) of this chapter, or to appropriate sections thereof. See section 202(b) of Pub. L. 92–226, set out as a note under [section 2346 of this title](./chapter-032-foreign-assistance.md#section-2346).
-
 #### Amendments
 1993—Subsec. (a)(4)(C). Pub. L. 103–199 struck out “Communist or Communist-supported” after “victim of active”.
 
@@ -13685,6 +13242,9 @@ Part IV of subchapter I (§ 2241 et seq.) of this chapter has been repealed. Ref
 1966—Subsec. (a). Pub. L. 89–583, § 301(f), provided that the $50,000,000 limitation on allocation of funds to any country in any one fiscal year shall not apply to any country which is a victim of active Communist or Communist-supported aggression.
 
 Subsec. (c). Pub. L. 89–583, § 301(g), inserted provision for reports to Congress of use of funds under this subsec.
+
+#### References to Part IV of Subchapter I Deemed References to Part IV of Subchapter II
+Part IV of subchapter I (§ 2241 et seq.) of this chapter has been repealed. References to part IV of subchapter I, or any sections thereof, are deemed references to part IV of subchapter II (§ 2346 et seq.) of this chapter, or to appropriate sections thereof. See section 202(b) of Pub. L. 92–226, set out as a note under [section 2346 of this title](./chapter-032-foreign-assistance.md#section-2346).
 
 #### Effective Date of 1985 Amendment
 Amendment by Pub. L. 99–83 effective Oct. 1, 1985, see section 1301 of Pub. L. 99–83, set out as a note under [section 2151–1 of this title](./chapter-032-foreign-assistance.md#section-2151-1).
@@ -13714,11 +13274,11 @@ Except as otherwise provided in this chapter, funds shall be available to carry 
 #### References in Text
 This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, as amended, known as the Foreign Assistance Act of 1961. For complete classification of this Act to the Code, see Short Title note set out under [section 2151 of this title](./chapter-032-foreign-assistance.md#section-2151) and Tables.
 
-#### Delegation of Functions
-For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under [section 2381 of this title](./chapter-032-foreign-assistance.md#section-2381).
-
 #### Administration of Funds
 Pub. L. 87–329, title I, § 112, Sept. 30, 1961, 75 Stat. 719, provided that funds appropriated under Pub. L. 87–329, popularly known as the Foreign Assistance and Related Agencies Appropriation Act, 1962, should be administered with a favorable view toward those recipient nations which share the view of the United States on the world crisis.
+
+#### Delegation of Functions
+For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under [section 2381 of this title](./chapter-032-foreign-assistance.md#section-2381).
 
 
 <a id="section-2367"></a>
@@ -13839,7 +13399,7 @@ Repeal effective Oct. 1, 1978, see section 605 of Pub. L. 95–424, set out as a
 
 **(k) Maximum amount of assistance, including military assistance to individual countries without approval of or presentation to Congress** Without the express approval of Congress, no assistance shall be furnished under this chapter to any country for construction of any productive enterprise with respect to which the aggregate value of assistance to be furnished by the United States will exceed $100,000,000, except that this sentence does not apply with respect to assistance for construction of any productive enterprise in Egypt which is described in the presentation materials to Congress. Except as otherwise provided in [section 2318 of this title](./chapter-032-foreign-assistance.md#section-2318), no military assistance shall be furnished to any country under this chapter for carrying out any program, with respect to which the aggregate value of assistance to be furnished beginning July 1, 1966, by the United States will exceed $100,000,000 unless such program has been included in the presentation to the Congress during its consideration of authorizations for appropriations under this chapter or of appropriations pursuant to authorizations contained in this chapter. No provision of this chapter or any other Act shall be construed to authorize the President to waive the provisions of this subsection.
 
-**(l) Institution of investment guaranty program** The President shall consider denying assistance under this chapter to the government of any less developed country which, after December 31, 1966, has failed to enter into an agreement with the President to institute the investment guaranty program under [section 2194(a)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2194/a/1&num=0&edition=prelim), providing protection against the specific risks of inconvertibility under subparagraph (A), and expropriation or confiscation under subparagraph (B), of such section 2194(a)(1).
+**(l) Institution of investment guaranty program** The President shall consider denying assistance under this chapter to the government of any less developed country which, after December 31, 1966, has failed to enter into an agreement with the President to institute the investment guaranty program under section 2194(a)(1) 22 See References in Text note below. of this title, providing protection against the specific risks of inconvertibility under subparagraph (A), and expropriation or confiscation under subparagraph (B), of such section 2194(a)(1).2
 
 **(m) Repealed. Pub. L. 97–113, title VII, § 734(a)(1), Dec. 29, 1981, 95 Stat. 1560**
 
@@ -13897,10 +13457,9 @@ This chapter, referred to in subsecs. (a), (c), (e), (f)(1), (g), (j) to (l), (o
 
 Reorganization Plan No. 1 of 1954, 68 Stat. 1279, referred to in subsec. (e)(1), is set out in the Appendix to Title 5, Government Organization and Employees.
 
-The Food for Peace Act, referred to in subsecs. (s)(1) and (t), is act July 10, 1954, ch. 469, 68 Stat. 454, which is classified principally to chapter 41 (§ 1691 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under [section 1691 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1691&num=0&edition=prelim) and Tables.
+[Section 2194(a)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2194/a/1&num=0&edition=prelim), referred to in subsec. (l), was repealed by Pub. L. 115–254, div. F, title VI, § 1464(2), Oct. 5, 2018, 132 Stat. 3513.
 
-#### References to Part I Deemed To Include Section 2293
-References to part I of subchapter I of this chapter are deemed to include a reference to [section 2293 of this title](./chapter-032-foreign-assistance.md#section-2293). See [section 2293(d)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2293/d/1&num=0&edition=prelim).
+The Food for Peace Act, referred to in subsecs. (s)(1) and (t), is act July 10, 1954, ch. 469, 68 Stat. 454, which is classified principally to chapter 41 (§ 1691 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under [section 1691 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1691&num=0&edition=prelim) and Tables.
 
 #### Codification
 Subsec. (s)(2) of this section, which required the President to report annually to the Speaker of the House of Representatives and the Committee on Foreign Relations of the Senate on actions taken to carry out this provision, terminated, effective May 15, 2000, pursuant to section 3003 of Pub. L. 104–66, as amended, set out as a note under [section 1113 of Title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1113&num=0&edition=prelim), Money and Finance. See, also, page 26 of House Document No. 103–7.
@@ -14018,6 +13577,9 @@ Subsec. (c). Pub. L. 87–565, § 301(d)(2), extended the prohibition against pr
 
 Subsecs. (e) to (h). Pub. L. 87–565, § 301(d)(3), added subsecs. (e) to (h).
 
+#### References to Part I Deemed To Include Section 2293
+References to part I of subchapter I of this chapter are deemed to include a reference to [section 2293 of this title](./chapter-032-foreign-assistance.md#section-2293). See [section 2293(d)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2293/d/1&num=0&edition=prelim).
+
 #### Effective Date of 2008 Amendment
 Amendment by Pub. L. 110–246 effective May 22, 2008, see section 4(b) of Pub. L. 110–246, set out as an Effective Date note under [section 8701 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section8701&num=0&edition=prelim), Agriculture.
 
@@ -14035,9 +13597,6 @@ Pub. L. 94–104, § 2(c)(5), Oct. 6, 1975, 89 Stat. 510, provided that: “This
 
 #### Repeals
 Pub. L. 95–92, § 22(d), Aug. 4, 1977, 91 Stat. 624, cited as a credit to this section, was repealed by Pub. L. 97–113, title VII, § 734(a)(13), Dec. 29, 1981, 95 Stat. 1560.
-
-#### Delegation of Functions
-For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under [section 2381 of this title](./chapter-032-foreign-assistance.md#section-2381).
 
 #### Assistance and Sales to Argentina
 Pub. L. 97–113, title VII, § 725(b), (c), Dec. 29, 1981, 95 Stat. 1553, related to the provision of assistance and credits, loan guarantees, defense articles and services, export licenses, etc., by United States to Argentina, prior to repeal by Pub. L. 101–162, title V, Nov. 21, 1989, 103 Stat. 1030.
@@ -14145,6 +13704,9 @@ Pub. L. 90–249, title I, § 116, Jan. 2, 1968, 81 Stat. 940.
 Pub. L. 89–691, title I, § 116, Oct. 15, 1966, 80 Stat. 1022.
 
 Pub. L. 89–273, title I, § 116, Oct. 20, 1965, 79 Stat. 1005.
+
+#### Delegation of Functions
+For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under [section 2381 of this title](./chapter-032-foreign-assistance.md#section-2381).
 
 #### Interdiction of the Delivery of Offensive Weapons to Cuba
 For Presidential proclamation prohibiting the delivery of offensive weapons to Cuba, see Proc. No. 3504, Oct. 23, 1962, 27 F.R. 10401, set out as a note preceding [section 1 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1&num=0&edition=prelim), War and National Defense.
@@ -14552,11 +14114,11 @@ Amendment by Pub. L. 110–246 effective May 22, 2008, see section 4(b) of Pub. 
 #### Effective Date of 1985 Amendment
 Amendment by Pub. L. 99–83 effective Oct. 1, 1985, see section 1301 of Pub. L. 99–83, set out as a note under [section 2151–1 of this title](./chapter-032-foreign-assistance.md#section-2151-1).
 
-#### Delegation of Functions
-For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under [section 2381 of this title](./chapter-032-foreign-assistance.md#section-2381).
-
 #### Self-Defense in Accordance With International Law
 Pub. L. 101–222, § 10, Dec. 12, 1989, 103 Stat. 1900, provided that: “The use by any government of armed force in the exercise of individual or collective self-defense in accordance with applicable international agreements and customary international law shall not be considered an act of international terrorism for purposes of the amendments made by this Act [see Short Title of 1989 Amendment note, set out under [section 2151 of this title](./chapter-032-foreign-assistance.md#section-2151)].”
+
+#### Delegation of Functions
+For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under [section 2381 of this title](./chapter-032-foreign-assistance.md#section-2381).
 
 
 <a id="section-2372"></a>
@@ -14615,9 +14177,11 @@ Section was enacted as part of the Supplemental Appropriations Act, 1978, and no
 
 **(e) Arms sales agreements to prohibit transfer to Cyprus**
 
-(1) Any agreement for the sale or provision of any article on the United States Munitions List (established pursuant to section 38 of the Arms Export Control Act [[22 U.S.C. 2778](./chapter-039-arms-export-control.md#section-2778)]) entered into by the United States after December 22, 1987, shall expressly state that the article is being provided by the United States only with the understanding that it will not be transferred to Cyprus or otherwise used to further the severance or division of Cyprus.
+(1) Except as provided in paragraph (3), any agreement for the sale or provision of any article on the United States Munitions List (established pursuant to section 38 of the Arms Export Control Act [[22 U.S.C. 2778](./chapter-039-arms-export-control.md#section-2778)]) entered into by the United States after December 22, 1987, shall expressly state that the article is being provided by the United States only with the understanding that it will not be transferred to Cyprus or otherwise used to further the severance or division of Cyprus.
 
 (2) The President shall report to Congress any substantial evidence that equipment provided under any such agreement has been used in a manner inconsistent with the purposes of this subsection.
+
+(3) The requirement under paragraph (1) shall not apply to any sale or other provision of any defense article or defense service to Cyprus if the end-user of such defense article or defense service is the Government of the Republic of Cyprus.
 
 ### Statutory Notes
 
@@ -14640,13 +14204,36 @@ Pub. L. 101–167, title V, § 570, Nov. 21, 1989, 103 Stat. 1245.
 Pub. L. 100–461, title V, § 579, Oct. 1, 1988, 102 Stat. 2268–48.
 
 #### Amendments
+2019—Subsec. (e)(1). Pub. L. 116–92, § 1250A(b)(1), and Pub. L. 116–94, § 205(b)(1), made identical amendments, substituting “Except as provided in paragraph (3), any agreement” for “Any agreement”.
+
+Subsec. (e)(3). Pub. L. 116–92, § 1250A(b)(2), and Pub. L. 116–94, § 205(b)(2), made identical amendments, adding par. (3).
+
 1987—Subsec. (e). Pub. L. 100–202 added subsec. (e).
+
+#### Eastern Mediterranean Security and Energy Partnership
+Pub. L. 116–94, div. J, title II, Dec. 20, 2019, 133 Stat. 3048, provided that: “SEC. 201. SHORT TITLE.“This title may be cited as the ‘Eastern Mediterranean Security and Energy Partnership Act of 2019’. “SEC. 202. FINDINGS.“Congress makes the following findings:“(1) The security of partners and allies in the Eastern Mediterranean region is critical to the security of the United States and Europe. “(2) Greece is a valuable member of the North Atlantic Treaty Organization (NATO) and a key pillar of stability in the Eastern Mediterranean. “(3) Israel is a steadfast ally of the United States and has been designated a ‘major non-NATO ally’ and ‘major strategic partner’. “(4) Cyprus is a key strategic partner and signed a Statement of Intent with the United States on November 6, 2018, to enhance bilateral security cooperation. “(5) The countries of Greece, Cyprus, and Israel have participated in critical trilateral summits to improve cooperation on energy and security issues. “(6) Secretary of State Mike Pompeo participated in the trilateral summit among Israel, Greece, and Cyprus on March 20, 2019. “(7) The United States, Israel, Greece, and Cyprus oppose any action in the Eastern Mediterranean and the Aegean Sea that could challenge stability, violate international law, or undermine good neighborly relations, and in a joint declaration on March 21, 2019, agreed to ‘defend against external malign influences in the Eastern Mediterranean and the broader Middle East’. “(8) The recent discovery of what may be the region’s largest natural gas field off the Egyptian coast and the newest discoveries of natural gas off the coast of Cyprus could represent a significant and positive development for the Eastern Mediterranean and the Middle East, enhancing the region’s strategic energy significance. “(9) It is in the national security interest of the United States to promote, achieve, and maintain energy security among, and through cooperation with, allies. “(10) Natural gas developments in the Eastern Mediterranean have the potential to provide economic gains and contribute to energy security in the region and Europe, as well as support European efforts to diversify away from natural gas supplied by the Russian Federation. “(11) The soon to be completed Trans Adriatic Pipeline is a critical component of the Southern Gas Corridor and the European Union’s efforts to diversify energy resources. “(12) The proposed Eastern Mediterranean pipeline, if commercially viable, would provide for energy diversification in accordance with the European Union’s third energy package of reforms. “(13) The United States acknowledges the achievements and importance of the Binational Industrial Research and Development Foundation (BIRD) and the United States-Israel Binational Science Foundation (BSF) and supports continued multiyear funding to ensure the continuity of the programs of the Foundations. “(14) The United States has welcomed Greece’s allocation of 2 percent of its gross domestic product (GDP) to defense in accordance with commitments made at the 2014 NATO Summit in Wales. “(15) Energy exploration in the Eastern Mediterranean region must be safeguarded against threats posed by terrorist and extremist groups, including Hezbollah and any other actor in the region. “(16) The energy exploration in the Republic of Cyprus’s Exclusive Economic Zone and territorial waters—“(A) furthers United States interests by providing a potential alternative to Russian gas for United States allies and partners; and “(B) should not be impeded by other sovereign states. “(17) The United States Government cooperates closely with Cyprus, Greece, and Israel through information sharing agreements. “(18) United States officials have assisted the Government of the Republic of Cyprus with crafting that nation’s national security strategy. “(19) The United States Government provides training to Cypriot officials in areas such as cybersecurity, counterterrorism, and explosive ordnance disposal and stockpile management. “(20) Israel, Greece, and Cyprus are valued members of the Proliferation Security Initiative to combat the trafficking of weapons of mass destruction. “(21) The Republic of Cyprus continues to work closely with the United Nations and regional partners in Europe to combat terrorism and violent extremism. “(22) Despite robust economic and security relations with the United States, the Republic of Cyprus has been subject to a United States prohibition on the export of defense articles and services since 1987. “(23) The 1987 arms prohibition was designed to restrict United States arms sales and transfers to the Republic of Cyprus and the occupied part of Cyprus to avoid hindering reunification efforts. “(24) At least 40,000 Turkish troops are stationed in the occupied part of Cyprus with some weapons procured from the United States through mainland Turkey. “(25) While the United States has, as a matter of policy, avoided the provision of defense articles and services to the Republic of Cyprus, the Government of Cyprus has, in the past, sought to obtain defense articles from other countries, including countries, such as Russia, that pose challenges to United States interests around the world. “SEC. 203. STATEMENT OF POLICY.“It is the policy of the United States—“(1) to continue to actively participate in the trilateral dialogue on energy, maritime security, cybersecurity and protection of critical infrastructure conducted among Israel, Greece, and Cyprus; “(2) to support diplomatic efforts with partners and allies to deepen energy security cooperation among Greece, Cyprus, and Israel and to encourage the private sector to make investments in energy infrastructure in the Eastern Mediterranean region; “(3) to strongly support the completion of the Trans Adriatic and Eastern Mediterranean Pipelines and the establishment of liquified natural gas (LNG) terminals across the Eastern Mediterranean as a means of diversifying regional energy needs away from the Russian Federation; “(4) to maintain a robust United States naval presence and investments in the naval facility at Souda Bay, Greece and develop deeper security cooperation with Greece to include the recent MQ–9 deployments to the Larissa Air Force Base and United States Army helicopter training in central Greece; “(5) to welcome Greece’s commitment to move forward with the Interconnector Greece-Bulgaria (IGB pipeline) and additional LNG terminals that will help facilitate delivery of non-Russian gas to the Balkans and central Europe; “(6) to support deepened security cooperation with the Republic of Cyprus through the removal of the arms embargo on the country; “(7) to support robust International Military Education and Training (IMET) programming with Greece and the Republic of Cyprus; “(8) to leverage relationships within the European Union to encourage investments in Cypriot border and maritime security; “(9) to support efforts to counter Russian Federation interference and influence in the Eastern Mediterranean through increased security cooperation with Greece, Cyprus, and Israel, to include intelligence sharing, cyber, and maritime domain awareness; “(10) to support the Republic of Cyprus’ efforts to regulate its banking industry to ensure that it is not used as a source of international money laundering and encourage additional measures toward that end; “(11) to strongly oppose any actions that would trigger mandatory sanctions pursuant to section 231 of the Countering America’s Adversaries Through Sanctions Act (CAATSA) (Public Law 115–44) [[22 U.S.C. 9525](./chapter-102-countering-russian-influence-in-europe-and-eurasia.md#section-9525)], to include the purchase of military equipment from the Russian Federation; “(12) to continue robust official strategic engagement with Israel, Greece, and Cyprus; “(13) to urge countries in the region to deny port services to Russian Federation vessels deployed to support the government of Bashar Al-Assad in Syria; “(14) to support joint military exercises among Israel, Greece, and Cyprus; “(15) to fully implement relevant CAATSA provisions to prevent interference by the Russian Federation in the region; “(16) to support efforts by countries in the region to demobilize military equipment supplied by the Russian Federation in favor of equipment provided by NATO and NATO-allied member countries; and “(17) to strongly support the active and robust participation of Israel, Cyprus, and Greece in the Combating Terrorism Fellowship Program. “SEC. 204. UNITED STATES-EASTERN MEDITERRANEAN ENERGY COOPERATION.“(a) In General.—The Secretary of State, in coordination with the Secretary of Energy, may enter into cooperative agreements supporting and enhancing dialogue and planning involving international partnerships between the United States and Israel, Greece, and the Republic of Cyprus. “(b) Annual Reports.—If the Secretary of State, in coordination with the Secretary of Energy, enters into agreements authorized under subsection (a), the Secretary shall submit an annual report to the appropriate congressional committees that describes—“(1) actions taken to implement such agreements; and “(2) any projects undertaken pursuant to such agreements. “(c) United States-Eastern Mediterranean Energy Center.—The Secretary of Energy, in coordination with the Secretary of State, may establish a joint United States-Eastern Mediterranean Energy Center in the United States leveraging the experience, knowledge, and expertise of institutions of higher education and entities in the private sector, among others, in offshore energy development to further dialogue and collaboration to develop more robust academic cooperation in energy innovation technology and engineering, water science, technology transfer, and analysis of emerging geopolitical implications, which include opportunities as well as crises and threats from foreign natural resource and energy acquisitions. “SEC. 205. REPEAL OF PROHIBITION ON TRANSFER OF ARTICLES ON THE UNITED STATES MUNITIONS LIST TO THE REPUBLIC OF CYPRUS.“(a) Sense of Congress.—It is the sense of Congress that—“(1) allowing for the export, re-export or transfer of arms subject to the United States Munitions List (part 121 of title 22, Code of Federal Regulations) to the Republic of Cyprus would advance United States security interests in Europe by helping to reduce the dependence of the Government of the Republic of Cyprus on other countries, including countries that pose challenges to United States interests around the world, for defense-related materiel; and “(2) it is in the interest of the United States to continue to support United Nations-facilitated efforts toward a comprehensive solution to the division of Cyprus. “(b) Modification of Prohibition.— [Amended this section.] “(c) Exclusion of the Government of the Republic of Cyprus From Certain Related Regulations.—“(1) In general.—Subject to subsection (d) and except as provided in paragraph (2), beginning on the date of the enactment of this Act [Dec. 20, 2019], the Secretary of State shall not apply a policy of denial for exports, re-exports, or transfers of defense articles and defense services destined for or originating in the Republic of Cyprus if—“(A) the request is made by or on behalf of the Government of the Republic of Cyprus; and “(B) the end-user of such defense articles or defense services is the Government of the Republic of Cyprus. “(2) Exception.—This exclusion shall not apply to any denial based upon credible human rights concerns. “(d) Limitations on the Transfer of Articles on the United States Munitions List to the Republic of Cyprus.—“(1) In general.—The policy of denial for exports, re-exports, or transfers of defense articles on the United States Munitions List to the Republic of Cyprus shall remain in place unless the President determines and certifies to the appropriate congressional committees not less than annually that—“(A) the Government of the Republic of Cyprus is continuing to cooperate with the United States Government in efforts to implement reforms on anti-money laundering regulations and financial regulatory oversight; and “(B) the Government of the Republic of Cyprus has made and is continuing to take the steps necessary to deny Russian military vessels access to ports for refueling and servicing. “(2) Waiver.—The President may waive the limitations contained in this subsection for one fiscal year if the President determines that it is essential to the national security interests of the United States to do so. “(3) Appropriate congressional committees defined.—In this section, the term ‘appropriate congressional committees’ means—“(A) the Committee on Foreign Relations and the Committee on Armed Services of the Senate; and “(B) the Committee on Foreign Affairs and the Committee on Armed Services of the House of Representatives. “SEC. 206. IMET COOPERATION WITH GREECE AND THE REPUBLIC OF CYPRUS.“There is authorized to be appropriated $1,300,000 for fiscal year 2020, $1,500,000 for fiscal year 2021, and $1,800,000 for fiscal year 2022 for International Military Education and Training (IMET) assistance for Greece and $200,000 for fiscal year 2020, $500,000 for fiscal year 2021, and $750,000 for fiscal year 2022 for such assistance for the Republic of Cyprus. The assistance shall be made available for the following purposes:“(1) Training of future leaders. “(2) Fostering a better understanding of the United States. “(3) Establishing a rapport between the United States military and the country’s military to build alliances for the future. “(4) Enhancement of interoperability and capabilities for joint operations. “(5) Focusing on professional military education. “(6) Enabling countries to use their national funds to receive a reduced cost for other Department of Defense education and training. “SEC. 207. FOREIGN MILITARY FINANCING.“(a) Authorization of Appropriations.—There is authorized to be appropriated for fiscal year 2021 up to $3,000,000 for Foreign Military Financing (FMF) assistance for Greece to assist the country in meeting its commitment as a member of the North Atlantic Treaty Organization (NATO) to dedicate 20 percent of its defense budget to enhance research and development. “(b) Sense of Congress.—It is the sense of Congress that Greece should receive robust support under the European Recapitalization Incentive Program implemented by the Department of Defense. “SEC. 208. STRATEGY ON UNITED STATES SECURITY AND ENERGY COOPERATION IN THE EASTERN MEDITERRANEAN.“(a) In General.—Not later than 90 days after the date of the enactment of this Act [Dec. 20, 2019], the Secretary of State, in consultation with the Secretary of Defense and the Secretary of Energy, shall submit to the appropriate congressional committees a strategy on enhanced security and energy cooperation with countries in the Eastern Mediterranean region, including Israel, the Republic of Cyprus, and Greece. “(b) Elements.—The report required under subsection (a) shall include the following elements:“(1) A description of United States participation in and support for the Eastern Mediterranean Natural Gas Forum. “(2) An evaluation of all possible delivery mechanisms into Europe for natural gas discoveries in the Eastern Mediterranean region. “(3) An evaluation of efforts to protect energy exploration infrastructure in the region, including infrastructure owned or operated by United States companies. “(4) An assessment of the capacity of the Republic of Cyprus to host an Energy Crisis Center in the region which could provide basing facilities in support of search and rescue efforts in the event of an accident. “(5) An assessment of the timing of potential natural gas delivery in the region as well as an assessment of the ultimate destination countries for the natural gas delivery from the region. “(6) A plan to work with United States businesses seeking to invest in Eastern Mediterranean energy exploration, development, and cooperation. “(c) Form.—The report required under subsection (a) shall be submitted in unclassified form, but may contain a classified annex. “SEC. 209. REPORT ON RUSSIAN FEDERATION MALIGN INFLUENCE IN THE EASTERN MEDITERRANEAN.“(a) In General.—Not later than 90 days after the date of the enactment of this Act [Dec. 20, 2019], the Secretary of State shall submit to the appropriate congressional committees a report on Russian Federation malign influence in the Republic of Cyprus, Greece, and Israel since January 1, 2017. “(b) Elements.—The report required under subsection (a) shall include the following elements:“(1) An assessment of security, political, and energy goals of the Russian Federation in the Eastern Mediterranean. “(2) A description of energy projects of the Government of the Russian Federation in the Eastern Mediterranean. “(3) A listing of Russian national ownership of media outlets in these countries, including the name of the media outlet, approximate viewership, and assessment of whether the outlet promotes pro-Kremlin views. “(4) An assessment of military engagement by the Government of the Russian Federation in the security sector, including engagement by military equipment and personnel contractors. “(5) An assessment of efforts supported by the Government of the Russian Federation to influence elections in the three countries, through the use of cyber attacks, social media campaigns, or other malign influence techniques. “(6) An assessment of efforts by the Government of the Russian Federation to intimidate and influence the decision by His All Holiness Ecumenical Patriarch Bartholomew, leader of 300,000,000 Orthodox Christians worldwide, to grant autocephaly to the Ukrainian Orthodox Church. “(c) Form.—The report required under subsection (a) shall be submitted in unclassified form, but may contain a classified annex. “SEC. 210. REPORT ON INTERFERENCE BY OTHER COUNTRIES IN THE EXCLUSIVE ECONOMIC ZONE OF THE REPUBLIC OF CYPRUS.“(a) In General.—Not later than 90 days after the date of the enactment of this Act [Dec. 20, 2019], the Secretary of State, in consultation with the Secretary of Defense and the Secretary of Energy, shall submit to the appropriate congressional committees a report listing incidents since January 1, 2017, determined by the Secretary of State to interfere in efforts by the Republic of Cyprus to explore and exploit natural resources in its Exclusive Economic Zone. “(b) Form.—The report required under subsection (a) shall be submitted in unclassified form, but may contain a classified annex. “SEC. 211. REPORT ON INTERFERENCE BY OTHER COUNTRIES IN THE AIRSPACE OF GREECE.“(a) In General.—Not later than 90 days after the date of the enactment of this Act [Dec. 20, 2019], the Secretary of State, in consultation with the Secretary of Defense, shall submit to the appropriate congressional committees a report listing incidents since January 1, 2017, determined by the Secretary of State to be violations of the airspace of the sovereign territory of Greece by its neighbors. “(b) Form.—The report required under subsection (a) shall be submitted in unclassified form, but may contain a classified annex. “SEC. 212. APPROPRIATE CONGRESSIONAL COMMITTEES.“In this title, the term ‘appropriate congressional committees’ means the Committee on Foreign Relations of the Senate and the Committee on Foreign Affairs of the House of Representatives.”
+
+#### Repeal of Prohibition on Transfer of Articles on the United States Munitions List to the Republic of Cyprus
+Pub. L. 116–92, div. A, title XII, § 1250A, Dec. 20, 2019, 133 Stat. 1665, provided that: “(a) Sense of Congress.—It is the sense of Congress that—“(1) allowing for the export, re-export or transfer of arms subject to the United States Munitions List (part 121 of title 22, Code of Federal Regulations) to the Republic of Cyprus would advance United States security interests in Europe by helping to reduce the dependence of the Government of the Republic of Cyprus on other countries, including countries that pose challenges to United States interests around the world, for defense-related materiel; and “(2) it is in the interest of the United States to continue to support United Nations-facilitated efforts toward a comprehensive solution to the division of Cyprus. “(b) Modification of Prohibition.— [Amended this section.] “(c) Exclusion of the Government of the Republic of Cyprus From Certain Related Regulations.—“(1) In general.—Subject to subsection (d) and except as provided in paragraph (2), beginning on the date of the enactment of this Act [Dec. 20, 2019], the Secretary of State shall not apply a policy of denial for exports, re-exports, or transfers of defense articles and defense services destined for or originating in the Republic of Cyprus if—“(A) the request is made by or on behalf of the Government of the Republic of Cyprus; and “(B) the end-user of such defense articles or defense services is the Government of the Republic of Cyprus. “(2) Exception.—This exclusion shall not apply to any denial based upon credible human rights concerns. “(d) Limitations on the Transfer of Articles on the United States Munitions List to the Republic of Cyprus.—“(1) In general.—The policy of denial for exports, re-exports, or transfers of defense articles on the United States Munitions List to the Republic of Cyprus shall remain in place unless the President determines and certifies to the appropriate congressional committees not less than annually that—“(A) the Government of the Republic of Cyprus is continuing to cooperate with the United States Government in efforts to implement reforms on anti-money laundering regulations and financial regulatory oversight; and “(B) the Government of the Republic of Cyprus has made and is continuing to take the steps necessary to deny Russian military vessels access to ports for refueling and servicing. “(2) Waiver.—The President may waive the limitations contained in this subsection for one fiscal year if the President determines that it is essential to the national security interests of the United States to do so. “(3) Appropriate congressional committees defined.—In this section, the term ‘appropriate congressional committees’ means—“(A) the Committee on Foreign Relations and the Committee on Armed Services of the Senate; and “(B) the Committee on Foreign Affairs and the Committee on Armed Services of the House of Representatives.”
+
+#### Special Ambassadorial Commission for Cyprus and the Aegean
+Pub. L. 100–202, § 101(e) [title V, § 586], Dec. 22, 1987, 101 Stat. 1329–131, 1329–185, provided that: “(a) Findings.—The Congress finds that—“(1) the inability to achieve a just and lasting Cyprus settlement will continue to affect relations among the United States and its close NATO allies, Greece and Turkey, to the detriment of larger, mutually shared, security interests in the Eastern Mediterranean region; “(2) it is of paramount importance that Cyprus, Greece, and Turkey resolve their differences through negotiations and otherwise peaceful procedures, and that the United States should support the resolution of these differences through all the diplomatic means at its disposal; “(3) it is in the national interest of the United States that the President make a significant new diplomatic demarche towards bringing this dispute to a resolution; and “(4) it is also in the national interest of the United States to undertake a diplomatic initiative to promote the peaceful and equitable resolution of differences between Greece and Turkey in the Aegean by fostering a renewed and sustained bilateral dialogue between those countries on such issues as: the delineation of the continental shelf, the definition of the territorial seas, air traffic control over the Aegean, NATO command and control arrangements in the Aegean, and the status of Lemnos and NATO exercises in the Aegean. “(b) Appointment of Special Ambassador.—The President is authorized to appoint a special ambassadorial level envoy who shall be responsible for representing the United States in direct negotiations with the parties to the Cyprus dispute, for representing the United States in negotiations through international intermediaries and, generally, lending the good offices of the United States to the parties in this dispute in order to facilitate a peaceful settlement on Cyprus. As agreed to by Greece and Turkey, the special envoy shall also represent the United States in promoting mutual discussions between those countries concerning their differences on Aegean issues. The special ambassador appointed under this section shall have available the services of two deputies (one to specialize on the Cyprus question, the other on general Aegean issues) and such senior level Department of State personnel as may be required by the special ambassador in order to carry out his responsibilities. “(c) Report.—Not later than June 1, 1988, the President shall submit a report to the Congress describing in detail the activities being undertaken by the special ambassador, the progress being made toward achievement of a peaceful resolution of the Cyprus dispute, an assessment of the obstacles to achievement of such a resolution and of the future role of the United States in acheiving [sic] a settlement on Cyprus, and an assessment of the progress being made toward resolution of issues affecting the Aegean region. “(d) Funding.—Up to $500,000 of the funds appropriated under any heading of this Act [Foreign Operations, Export Financing, and Related Programs Appropriations Act, 1988, as enacted by section 101(e) of Pub. L. 101–202] which are allocated for Greece and up to $500,000 of the funds appropriated under any heading of this Act which are allocated for Turkey, may be used by the Department of State for any administrative costs associated with the activities of the special ambassador and supporting personnel, including transportation, salaries and per diem.”
 
 #### Delegation of Functions
 For delegation of congressional reporting functions of President under subsec. (c) of this section, see section 1 of Ex. Ord. No. 13313, July 31, 2003, 68 F.R. 46073, set out as a note under [section 301 of Title 3](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title3-section301&num=0&edition=prelim), The President.
 
-#### Special Ambassadorial Commission for Cyprus and the Aegean
-Pub. L. 100–202, § 101(e) [title V, § 586], Dec. 22, 1987, 101 Stat. 1329–131, 1329–185, provided that: “(a) Findings.—The Congress finds that—“(1) the inability to achieve a just and lasting Cyprus settlement will continue to affect relations among the United States and its close NATO allies, Greece and Turkey, to the detriment of larger, mutually shared, security interests in the Eastern Mediterranean region; “(2) it is of paramount importance that Cyprus, Greece, and Turkey resolve their differences through negotiations and otherwise peaceful procedures, and that the United States should support the resolution of these differences through all the diplomatic means at its disposal; “(3) it is in the national interest of the United States that the President make a significant new diplomatic demarche towards bringing this dispute to a resolution; and “(4) it is also in the national interest of the United States to undertake a diplomatic initiative to promote the peaceful and equitable resolution of differences between Greece and Turkey in the Aegean by fostering a renewed and sustained bilateral dialogue between those countries on such issues as: the delineation of the continental shelf, the definition of the territorial seas, air traffic control over the Aegean, NATO command and control arrangements in the Aegean, and the status of Lemnos and NATO exercises in the Aegean. “(b) Appointment of Special Ambassador.—The President is authorized to appoint a special ambassadorial level envoy who shall be responsible for representing the United States in direct negotiations with the parties to the Cyprus dispute, for representing the United States in negotiations through international intermediaries and, generally, lending the good offices of the United States to the parties in this dispute in order to facilitate a peaceful settlement on Cyprus. As agreed to by Greece and Turkey, the special envoy shall also represent the United States in promoting mutual discussions between those countries concerning their differences on Aegean issues. The special ambassador appointed under this section shall have available the services of two deputies (one to specialize on the Cyprus question, the other on general Aegean issues) and such senior level Department of State personnel as may be required by the special ambassador in order to carry out his responsibilities. “(c) Report.—Not later than June 1, 1988, the President shall submit a report to the Congress describing in detail the activities being undertaken by the special ambassador, the progress being made toward achievement of a peaceful resolution of the Cyprus dispute, an assessment of the obstacles to achievement of such a resolution and of the future role of the United States in acheiving [sic] a settlement on Cyprus, and an assessment of the progress being made toward resolution of issues affecting the Aegean region. “(d) Funding.—Up to $500,000 of the funds appropriated under any heading of this Act [Foreign Operations, Export Financing, and Related Programs Appropriations Act, 1988, as enacted by section 101(e) of Pub. L. 101–202] which are allocated for Greece and up to $500,000 of the funds appropriated under any heading of this Act which are allocated for Turkey, may be used by the Department of State for any administrative costs associated with the activities of the special ambassador and supporting personnel, including transportation, salaries and per diem.”
+#### Delegation of Authorities Under the National Defense Authorization Act for Fiscal Year 2020 and the Eastern Mediterranean Security and Energy Partnership Act of 2019
+Memorandum of President of the United States, Apr. 14, 2020, 85 F.R. 35797, provided:
+
+Memorandum for the Secretary of State
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, including [section 301 of title 3](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title3-section301&num=0&edition=prelim), United States Code, I hereby delegate to the Secretary of State the authorities vested in the President by section 1250A(d) of the National Defense Authorization Act for Fiscal Year 2020 (Public Law 116–92) [[22 U.S.C. 2373](./chapter-032-foreign-assistance.md#section-2373) note] and section 205(d) of the Eastern Mediterranean Security and Energy Partnership Act of 2019 (Title II, Div. J, Public Law 116–94) [[22 U.S.C. 2373](./chapter-032-foreign-assistance.md#section-2373) note].
+
+Any reference in this memorandum to either Act shall be deemed to be a reference to such Acts as amended from time to time.
+
+You are authorized and directed to publish this memorandum in the Federal Register.
+
+Donald J. Trump.
 
 
 <a id="section-2374"></a>
@@ -14730,15 +14317,15 @@ Amendment by Pub. L. 103–236 effective 60 days after Apr. 30, 1994, see sectio
 #### Effective Date of 1985 Amendment
 Amendment by Pub. L. 99–83 effective Oct. 1, 1985, see section 1301 of Pub. L. 99–83, set out as a note under [section 2151–1 of this title](./chapter-032-foreign-assistance.md#section-2151-1).
 
-#### Delegation of Functions
-For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under [section 2381 of this title](./chapter-032-foreign-assistance.md#section-2381).
-
 #### Strategy for the United States Relationship With Pakistan
 Pub. L. 110–53, title XX, § 2042(a)–(f), Aug. 3, 2007, 121 Stat. 520–523, provided that: “(a) Congressional Findings.—Congress finds the following:“(1) A democratic, stable, and prosperous Pakistan that is a full and reliable partner in the struggle against the Taliban, al Qaeda, and other terrorist groups, and is a responsible steward of its nuclear weapons and technology, is vital to the national security of the United States. “(2) Since September 11, 2001, the Government of Pakistan has been a critical ally and an important partner in removing the Taliban regime in Afghanistan and combating al Qaeda. “(3) Pakistan has made great sacrifices in the shared struggle against al Qaeda-affiliated terrorist groups, engaging in military operations that have led to the deaths of hundreds of Pakistani security personnel and enduring acts of terrorism that have killed hundreds of Pakistani civilians. “(4) Publicly-stated goals of the Government of Pakistan and the national interests of the United States are in close agreement in many areas, including—“(A) curbing the proliferation of nuclear weapons technology; “(B) combating poverty and corruption; “(C) enabling effective government institutions, including public education; “(D) promoting democracy and the rule of law, particularly at the national level; “(E) addressing the continued presence of Taliban and other violent extremist forces throughout the country; “(F) maintaining the authority of the Government of Pakistan in all parts of its national territory; “(G) securing the borders of Pakistan to prevent the movement of militants and terrorists into other countries and territories; and “(H) effectively dealing with violent extremism. “(5) The opportunity exists for shared effort in helping to achieve correlative goals with the Government of Pakistan, particularly—“(A) increased United States assistance to Pakistan, as appropriate, to achieve progress in meeting the goals of subparagraphs (A) through (C) of paragraph (4); “(B) increased commitment on the part of the Government of Pakistan to achieve the goals of paragraph (4)(D), particularly given continued concerns, based on the conduct of previous elections, regarding whether parliamentary elections scheduled for 2007 will be free, fair, and inclusive of all political parties and carried out in full accordance with internationally-recognized democratic norms; and “(C) increased commitment on the part of the Government of Pakistan to take actions described in paragraph (4)(E), particularly given—“(i) the continued operation of the Taliban’s Quetta shura, as noted by then-North Atlantic Treaty Organization Supreme Allied Commander General James Jones in testimony before the Senate Foreign Relations Committee on September 21, 2006; and “(ii) the continued operation of al Qaeda affiliates Lashkar-e Taiba and Jaish-e Muhammad, sometimes under different names, as demonstrated by the lack of meaningful action taken against Hafiz Muhammad Saeed, Maulana Masood Azhar, and other known leaders and members of such terrorist organizations; and “(D) increased commitment on the part of the Government of the United States in regard to working with all elements of Pakistan [sic] society in helping to achieve the correlative goals described in subparagraphs (A) through (H) of paragraph (4). “(b) Statements of Policy.—The following shall be the policy of the United States:“(1) To maintain and deepen its friendship and long-term strategic relationship with Pakistan. “(2) To work with the Government of Pakistan to combat international terrorism, especially in the frontier provinces of Pakistan, and to end the use of Pakistan as a safe haven for terrorist groups, including those associated with al Qaeda or the Taliban. “(3) To support robust funding for programs of the United States Agency for International Development and the Department of State that assist the Government of Pakistan in working toward the goals described in subsection (a)(4), as the Government of Pakistan demonstrates a clear commitment to building a moderate, democratic state. “(4) To work with the international community to secure additional financial and political support to effectively implement the policies set forth in this subsection. “(5) To facilitate a just resolution of the dispute over the territory of Kashmir, to the extent that such facilitation is invited and welcomed by the Governments of Pakistan and India and by the people of Kashmir. “(6) To facilitate greater communication and cooperation between the Governments of Afghanistan and Pakistan for the improvement of bilateral relations and cooperation in combating terrorism in both countries. “(7) To work with the Government of Pakistan to dismantle existing proliferation networks and prevent the proliferation of nuclear technology. “(c) Strategy Relating to Pakistan.—“(1) Requirement for report on strategy.—Not later than 90 days after the date of the enactment of this Act [Aug. 3, 2007], the President shall transmit to the appropriate congressional committees a report that describes the long-term strategy of the United States to engage with the Government of Pakistan to achieve the goals described in subparagraphs (A) through (H) of subsection (a)(4) and to carry out the policies described in subsection (b). “(2) Form.—The report required by paragraph (1) shall be transmitted in unclassified form, but may include a classified annex, if necessary. “(d) Limitation on United States Security Assistance to Pakistan.—“(1) Limitation.—For fiscal year 2008, United States assistance under chapter 2 of part II of the Foreign Assistance Act of 1961 ([22 U.S.C. 2311](./chapter-032-foreign-assistance.md#section-2311) et seq.) or section 23 of the Arms Export Control Act ([22 U.S.C. 2763](./chapter-039-arms-export-control.md#section-2763)) may not be provided to, and a license for any item controlled under the Arms Export Control Act ([22 U.S.C. 2751](./chapter-039-arms-export-control.md#section-2751) et seq.) may not be approved for, Pakistan until the President transmits to the appropriate congressional committees a report that contains a determination of the President that the Government of Pakistan—“(A) is committed to eliminating from Pakistani territory any organization such as the Taliban, al Qaeda, or any successor, engaged in military, insurgent, or terrorist activities in Afghanistan; “(B) is undertaking a comprehensive military, legal, economic, and political campaign to achieving the goal described in subparagraph (A); and “(C) is currently making demonstrated, significant, and sustained progress toward eliminating support or safe haven for terrorists. “(2) Memorandum of justification.—The President shall include in the report required by paragraph (1) a memorandum of justification setting forth the basis for the President’s determination under paragraph (1). “(3) Form.—The report required by paragraph (1) and the memorandum of justification required by paragraph (2) shall be transmitted in unclassified form, but may include a classified annex, if necessary. “(e) Nuclear Proliferation.—“(1) Congressional finding.—Congress finds that the maintenance by any country of a procurement or supply network for the illicit proliferation of nuclear and missile technologies would be inconsistent with that country being considered an ally of the United States. “(2) Sense of congress.—It is the sense of Congress that the national security interest of the United States will best be served if the United States develops and implements a long-term strategy to improve the United States relationship with Pakistan and works with the Government of Pakistan to stop nuclear proliferation. “(f) Authorization of Appropriations.—“(1) In general.—There is authorized to be appropriated to the President such sums as may be necessary to provide assistance described in subsection (d)(1) for Pakistan for fiscal year 2008 in accordance with the requirements of subsection (d)(1). “(2) Other funds.—Amounts authorized to be appropriated under this subsection are in addition to amounts otherwise available for such purposes. “(3) Declaration of policy.—Congress declares that the amount of funds appropriated pursuant to the authorization of appropriations under paragraph (1) and for subsequent fiscal years shall be determined by the extent to which the Government of Pakistan displays demonstrable progress in—“(A) preventing al Qaeda and other terrorist organizations from operating in the territory of Pakistan, including eliminating terrorist training camps or facilities, arresting members and leaders of terrorist organizations, and countering recruitment efforts; “(B) preventing the Taliban from using the territory of Pakistan as a sanctuary from which to launch attacks within Afghanistan, including by arresting Taliban leaders, stopping cross-border incursions, and countering recruitment efforts; and “(C) implementing democratic reforms, including allowing free, fair, and inclusive elections at all levels of government in accordance with internationally-recognized democratic norms, and respecting the independence of the press and judiciary. “(4) Biannual reports to congress.—“(A) In general.—The Secretary of State shall submit to the appropriate congressional committees a biannual report describing in detail the extent to which the Government of Pakistan has displayed demonstrable progress in meeting the goals described in subparagraphs (A) through (C) of paragraph (3). “(B) Schedule for submission.—The report required by subparagraph (A) shall be submitted not later than April 15 and October 15 of each year until October 15, 2009. “(C) Form.—The report required by subparagraph (A) shall be submitted in unclassified form, but may include a classified annex, if necessary.”
 
 [For definition of “appropriate congressional committees” as used in section 2042(a)–(f) of Pub. L. 110–53, set out above, see section 2002 of Pub. L. 110–53, set out as a note under [section 2151 of this title](./chapter-032-foreign-assistance.md#section-2151).]
 
 [Functions of President under section 2042(c)(1), (d) of Pub. L. 110–53, set out above, assigned to Secretary of State by Memorandum of President of the United States, Sept. 28, 2007, 72 F.R. 56871, set out as a note under [section 2228 of this title](./chapter-032-foreign-assistance.md#section-2228).]
+
+#### Delegation of Functions
+For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under [section 2381 of this title](./chapter-032-foreign-assistance.md#section-2381).
 
 #### Nuclear Non-Proliferation Conditions on Assistance for Pakistan
 Determination of President of the United States, No. 90–15, Mar. 28, 1990, 55 F.R. 17417, provided:
@@ -14833,14 +14420,14 @@ This chapter, referred to in subsec. (a), was in the original “this Act”, me
 #### Prior Provisions
 Another section 620G of Pub. L. 87–195 was renumbered section 620J and is classified to [section 2378a of this title](./chapter-032-foreign-assistance.md#section-2378a).
 
-#### Delegation of Functions
-For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under [section 2381 of this title](./chapter-032-foreign-assistance.md#section-2381).
-
 #### Congressional Findings
 Pub. L. 104–132, title III, § 324, Apr. 24, 1996, 110 Stat. 1255, provided that: “The Congress finds that— “(1) international terrorism is among the most serious transnational threats faced by the United States and its allies, far eclipsing the dangers posed by population growth or pollution; “(2) the President should continue to make efforts to counter international terrorism a national security priority; “(3) because the United Nations has been an inadequate forum for the discussion of cooperative, multilateral responses to the threat of international terrorism, the President should undertake immediate efforts to develop effective multilateral responses to international terrorism as a complement to national counter terrorist efforts; “(4) the President should use all necessary means, including covert action and military force, to disrupt, dismantle, and destroy international infrastructure used by international terrorists, including overseas terrorist training facilities and safe havens; “(5) the Congress deplores decisions to ease, evade, or end international sanctions on state sponsors of terrorism, including the recent decision by the United Nations Sanctions Committee to allow airline flights to and from Libya despite Libya’s noncompliance with United Nations resolutions; and “(6) the President should continue to undertake efforts to increase the international isolation of state sponsors of international terrorism, including efforts to strengthen international sanctions, and should oppose any future initiatives to ease sanctions on Libya or other state sponsors of terrorism.”
 
 #### “Assistance” Defined
 Assistance defined for purposes of title III of Pub. L. 104–132, see section 329 of Pub. L. 104–132, set out as a note under [section 2349aa–10 of this title](./chapter-032-foreign-assistance.md#section-2349aa-10).
+
+#### Delegation of Functions
+For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under [section 2381 of this title](./chapter-032-foreign-assistance.md#section-2381).
 
 
 <a id="section-2378"></a>
@@ -14871,11 +14458,11 @@ This chapter, referred to in subsec. (a)(1), was in the original “this Act”,
 #### Codification
 April 24, 1966, referred to in subsec. (a)(2), was in the original “the date of enactment of this Act”, which was translated as meaning the date of enactment of Pub. L. 104–132, which enacted this section, to reflect the probable intent of Congress.
 
-#### Delegation of Functions
-For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under [section 2381 of this title](./chapter-032-foreign-assistance.md#section-2381).
-
 #### “Assistance” Defined
 Assistance defined for purposes of title III of Pub. L. 104–132, see section 329 of Pub. L. 104–132, set out as a note under [section 2349aa–10 of this title](./chapter-032-foreign-assistance.md#section-2349aa-10).
+
+#### Delegation of Functions
+For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under [section 2381 of this title](./chapter-032-foreign-assistance.md#section-2381).
 
 
 <a id="section-2378a"></a>
@@ -15215,9 +14802,6 @@ This chapter, referred to in text, was in the original “this Act”, meaning P
 
 1962—Pub. L. 87–565 struck out designation “(a)” from provisions of subsec. (a), and repealed subsecs. (b) to (e) which related to the abolition of the Development Loan Fund, International Cooperation Administration, and the Office of Inspector General and Comptroller, the transfer of their functions, and the transfer of the function of the Export-Import Bank under [section 1704(e) of title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1704/e&num=0&edition=prelim).
 
-#### Delegation of Functions
-For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out below.
-
 #### AID Office of Security
 Pub. L. 105–277, div. A, § 101(d) [title V, § 587], Oct. 21, 1998, 112 Stat. 2681–150, 2681–204, as amended by Pub. L. 106–31, title V, § 5002(b), May 21, 1999, 113 Stat. 109, provided that: “(a) Establishment of Office.—There shall be established within the Office of the Administrator of the Agency for International Development, an Office of Security. Such Office of Security shall, notwithstanding any other provision of law except section 207 of the Foreign Service Act of 1980 [[22 U.S.C. 3927](./chapter-052-foreign-service.md#section-3927)] and section 103 of Public Law 99–339 [[22 U.S.C. 4802](./chapter-058-diplomatic-security.md#section-4802)], have the responsibility for the supervision, direction, and control of all security activities relating to the programs and operations of that Agency. “(b) Transfer and Allocation of Appropriations and Personnel.—There are transferred to the Office of Security all security functions exercised by the Office of Inspector General of the Agency for International Development exercised before the date of enactment of this Act [Oct. 21, 1998]. The Administrator shall transfer from the Office of the Inspector General of such Agency to the Office of Security established by subsection (a), the personnel (including the Senior Executive Service position designated for the Assistant Inspector General for Security), assets, liabilities, grants, contracts, property, records, and unexpended balances of appropriations, and other funds held, used, available to, or to be made available in connection with such functions. Unexpended balances of appropriations, and other funds made available or to be made available in connection with such functions, shall be transferred to and merged with funds appropriated by this Act under the heading ‘Operating Expenses of the Agency for International Development’ [112 Stat. 2681–157]. “(c) Transfer of Employees.—Any employee in the career service who is transferred pursuant to this section shall be placed in a position in the Office of Security established by subsection (a) which is comparable to the position the employee held in the Office of the Inspector General of the Agency for International Development.”
 
@@ -15228,13 +14812,16 @@ Pub. L. 106–113, div. B, § 1000(a)(2) [title V, § 581], Nov. 29, 1999, 113 S
 
 Pub. L. 102–391, title V, § 599E, Oct. 6, 1992, 106 Stat. 1698, provided that: “The President shall include with each budget for a fiscal year submitted to the Congress under [section 1105 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1105&num=0&edition=prelim), United States Code, materials that shall identify clearly and separately the amounts requested in the budget for appropriation for that fiscal year for salaries and expenses related to administrative activities of the Agency for International Development.”
 
-#### REORGANIZATION PLAN NO. 2 OF 1979
+#### Repeal of Reorganization Plan No. 2 OF 1979
 Reorganization Plan No. 2 of 1979, 44 F.R. 41165, 93 Stat. 1378, which established the United States International Development Cooperation Agency, was repealed by Pub. L. 105–277, div. G, subdiv. A, title XIV, §§ 1401, 1422(a)(1), Oct. 21, 1998, 112 Stat. 2681–790, 2681–792, effective Apr. 1, 1999.
+
+#### Delegation of Functions
+For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out below.
 
 #### Executive Order No. 10973
 Ex. Ord. No. 10973, Nov. 3, 1961, 26 F.R. 10469, as amended, which related to the administration of foreign assistance and related functions, was revoked by Ex. Ord. No. 12163, § 1–903(a)(1), Sept. 29, 1979, 44 F.R. 56679, eff. Oct. 1, 1979, set out below.
 
-Ex. Ord. No. 10973, Nov. 3, 1961, 26 F.R. 10469, as amended, was superseded insofar as any provision therein was in conflict with any provision of Ex. Ord. No. 11579, Jan. 19, 1971, 36 F.R. 969, set out as a note under [section 2191 of this title](./chapter-032-foreign-assistance.md#section-2191).
+Ex. Ord. No. 10973, Nov. 3, 1961, 26 F.R. 10469, as amended, was superseded insofar as any provision therein was in conflict with any provision of Ex. Ord. No. 11579, Jan. 19, 1971, 36 F.R. 969, formerly set out as a note under [section 2191 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2191&num=0&edition=prelim).
 
 #### Ex. Ord. No. 12163. Administration of Foreign Assistance and Related Functions
 Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended by Ex. Ord. No. 12226, July 22, 1980, 45 F.R. 49235; Ex. Ord. No. 12292, Feb. 23, 1981, 46 F.R. 13968; Ex. Ord. No. 12321, Sept. 14, 1981, 46 F.R. 46109; Ex. Ord. No. 12365, May 24, 1982, 47 F.R. 22933; Ex. Ord. No. 12423, May 26, 1983, 48 F.R. 24025; Ex. Ord. No. 12458, Jan. 14, 1984, 49 F.R. 1977; Ex. Ord. No. 12500, Jan. 24, 1985, 50 F.R. 3733; Ex. Ord. No. 12560, May 24, 1986, 51 F.R. 19159; Ex. Ord. No. 12608, Sept. 9, 1987, 52 F.R. 34617; Ex. Ord. No. 12620, Dec. 24, 1987, 52 F.R. 49135; Ex. Ord. No. 12639, May 6, 1988, 53 F.R. 16691; Ex. Ord. No. 12680, July 5, 1989, 54 F.R. 28995; Ex. Ord. No. 12695, Nov. 1, 1989, 54 F.R. 46589; Ex. Ord. No. 12738, §§ 1–6, Dec. 14, 1990, 55 F.R. 52033; Ex. Ord. No. 13030, § 1, Dec. 12, 1996, 61 F.R. 66187; Ex. Ord. No. 13091, § 2, June 29, 1998, 63 F.R. 36153; Pub. L. 105–277, div. G, subdiv. A, title XIV, § 1422(a)(2), Oct. 21, 1998, 112 Stat. 2681–792; Ex. Ord. No. 13118, §§ 1–9, Mar. 31, 1999, 64 F.R. 16595–16598; Ex. Ord. No. 13346, § 3, July 8, 2004, 69 F.R. 41905; Ex. Ord. No. 13361, Nov. 16, 2004, 69 F.R. 67633; Ex. Ord. No. 13656, § 6, Jan. 17, 2014, 79 F.R. 4263, provided:
@@ -15242,7 +14829,7 @@ Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended by Ex. Ord. No. 12
 By virtue of the authority vested in me by the Foreign Assistance Act of 1961 [this chapter], Reorganization Plan No. 2 of 1979 [set out above], the International Development Cooperation Act of 1979 [see Short Title of 1979 Amendment note set out under [section 2151 of this title](./chapter-032-foreign-assistance.md#section-2151)], and [section 301 of title 3](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title3-section301&num=0&edition=prelim) of the United States Code, and as President of the United States, it is hereby ordered as follows:
 
 #### 1–1. Department of State
-1–100. Delegation of Functions. (a) Exclusive of the functions otherwise delegated, or reserved to the President, by this order, Executive Order 12884 [[22 U.S.C. 5812](./chapter-067-freedom-for-russia-and-emerging-eurasian-democracies-and-open-markets-support.md#section-5812) note], Executive Order 11579 [[22 U.S.C. 2191](./chapter-032-foreign-assistance.md#section-2191) note], and Executive Order 12757 [former [7 U.S.C. 1738](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1738&num=0&edition=prelim) note], and subject to the provisions of such orders, there are hereby delegated to the Secretary of State (referred to in this Part as the “Secretary”) all functions conferred upon the President by:
+1–100. Delegation of Functions. (a) Exclusive of the functions otherwise delegated, or reserved to the President, by this order, Executive Order 12884 [[22 U.S.C. 5812](./chapter-067-freedom-for-russia-and-emerging-eurasian-democracies-and-open-markets-support.md#section-5812) note], Executive Order 11579 [[22 U.S.C. 2191](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2191&num=0&edition=prelim) note], and Executive Order 12757 [former [7 U.S.C. 1738](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1738&num=0&edition=prelim) note], and subject to the provisions of such orders, there are hereby delegated to the Secretary of State (referred to in this Part as the “Secretary”) all functions conferred upon the President by:
 
 (1) the Foreign Assistance Act of 1961 ([22 U.S.C. 2151](./chapter-032-foreign-assistance.md#section-2151) et seq.) (“Act”);
 
@@ -15282,7 +14869,7 @@ By virtue of the authority vested in me by the Foreign Assistance Act of 1961 [t
 
 (b) The functions under section 653 of the Act [[22 U.S.C. 2413](./chapter-032-foreign-assistance.md#section-2413)] delegated to the Secretary shall be exercised in consultation with the Secretary of Defense, insofar as they relate to functions under the Act administered by the Department of Defense, and the Director of the Office of Management and Budget.
 
-(c) The functions under sections 239(f), 620(e), 620(g), 620(j), 620(q), and 620(s) of the Act [[22 U.S.C. 2199(f)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2199/f&num=0&edition=prelim), 2370(e), (g), (j), (q), (s)] delegated to the Secretary shall be exercised in consultation with the Administrator of the United States Agency for International Development.
+(c) The functions under sections 239(f), 620(e), 620(g), 620(j), 620(q), and 620(s) of the Act [former [22 U.S.C. 2199(f)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2199/f&num=0&edition=prelim), [22 U.S.C. 2370(e)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2370/e&num=0&edition=prelim), (g), (j), (q), (s)] delegated to the Secretary shall be exercised in consultation with the Administrator of the United States Agency for International Development.
 
 (d) The Secretary shall perform all public information functions abroad with respect to the foreign assistance, aid, and development programs of the United States Government, to the extent such functions are not specifically assigned by statute to be performed by a different officer.
 
@@ -15372,7 +14959,7 @@ By virtue of the authority vested in me by the Foreign Assistance Act of 1961 [t
 
 (a) The functions conferred upon the President by sections 122(e), 298(a), 493, 504(b), 613(a), 614(a), 620(a), 620(d), 620(x), 620A, 620C(c), 621(a), 622(b), 622(c), 633(a), 633(b), 640B, and 663(b) of the Act [[22 U.S.C. 2151t(e)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2151t/e&num=0&edition=prelim), 2220c(a), 2292b, 2312(b), 2363(a), 2364(a), 2370(a), (d), (x), 2371, 2373(c), 2381(a), 2382(b), (c), 2393(a), (b), 2399c, and 2423(b)].
 
-(b) The functions conferred upon the President by the Act [this chapter] and section 408(b) of the Mutual Security Act of 1954 [[22 U.S.C. 1928](./chapter-024-mutual-security-program.md#section-1928)] with respect to the appointment of officers required to be appointed by and with the advice and consent of the Senate and with respect to the appointment of officers pursuant to sections 233(b) and 624(c) of the Act [[22 U.S.C. 2193(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2193/b&num=0&edition=prelim), 2384(c)].
+(b) The functions conferred upon the President by the Act [this chapter] and section 408(b) of the Mutual Security Act of 1954 [[22 U.S.C. 1928](./chapter-024-mutual-security-program.md#section-1928)] with respect to the appointment of officers required to be appointed by and with the advice and consent of the Senate and with respect to the appointment of officers pursuant to sections 233(b) and 624(c) of the Act [former [22 U.S.C. 2193(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2193/b&num=0&edition=prelim), [22 U.S.C. 2384(c)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2384/c&num=0&edition=prelim)].
 
 (c) The functions conferred upon the President with respect to determinations, certifications, directives, or transfers of funds, as the case may be, by sections 209(d), 303, 465(b), 490(h), 505(d)(2)(A), 505(d)(3), 506(a), 552(c), 552(e), 610, 614(c), 620E, 632(b), 633A, 663(a) of the Act [[22 U.S.C. 2169(d)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2169/d&num=0&edition=prelim), 2223, 2275(b), 2291j(h), 2314(d)(2)(A), (d)(3), 2318(a), 2348a(c), (e), 2360, 2364(c), 2375, 2392(b), 2393a, 2423(a)].
 
@@ -15436,7 +15023,7 @@ By virtue of the authority vested in me by the Foreign Assistance Act of 1961 [t
 
 (1) Executive Order No. 10973 [[22 U.S.C. 2381](./chapter-032-foreign-assistance.md#section-2381) note] of November 3, 1961, as amended;
 
-(2) section 2(a) of Executive Order No. 11579 [[22 U.S.C. 2191](./chapter-032-foreign-assistance.md#section-2191) note], of January 19, 1971; and
+(2) section 2(a) of Executive Order No. 11579 [former [22 U.S.C. 2191](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2191&num=0&edition=prelim) note], of January 19, 1971; and
 
 (3) Executive Order No. 10893 [[22 U.S.C. 2382](./chapter-032-foreign-assistance.md#section-2382) note] of November 8, 1960.
 
@@ -15587,13 +15174,13 @@ Ex. Ord. No. 12066, June 29, 1978, 43 F.R. 28965, which related to the inspectio
 
 ### Statutory Notes
 
-#### References to Subchapter II Deemed To Exclude Certain Parts of Subchapter II
-References to subchapter II of this chapter are deemed to exclude parts IV (§ 2346 et seq.), VI (§ 2348 et seq.), and VIII (§ 2349aa et seq.) of subchapter II, and references to subchapter I of this chapter are deemed to include such parts. See section 202(b) of Pub. L. 92–226, set out as a note under [section 2346 of this title](./chapter-032-foreign-assistance.md#section-2346), and sections 2348c and 2349aa–5 of this title.
-
 #### Amendments
 1976—Subsec. (a)(4). Pub. L. 94–329, § 106(b)(3)(A), inserted “and related civilian” after “military”.
 
 Subsec. (a)(6). Pub. L. 94–329, § 106(b)(3)(B), inserted “education and training” after “assistance”.
+
+#### References to Subchapter II Deemed To Exclude Certain Parts of Subchapter II
+References to subchapter II of this chapter are deemed to exclude parts IV (§ 2346 et seq.), VI (§ 2348 et seq.), and VIII (§ 2349aa et seq.) of subchapter II, and references to subchapter I of this chapter are deemed to include such parts. See section 202(b) of Pub. L. 92–226, set out as a note under [section 2346 of this title](./chapter-032-foreign-assistance.md#section-2346), and sections 2348c and 2349aa–5 of this title.
 
 
 <a id="section-2384"></a>
@@ -15612,9 +15199,6 @@ Subsec. (a)(6). Pub. L. 94–329, § 106(b)(3)(B), inserted “education and tra
 
 #### References in Text
 Section 642(a), referred to in subsec. (c), means section 642(a) of Pub. L. 87–195, which is set out as a note under [section 2151 of this title](./chapter-032-foreign-assistance.md#section-2151).
-
-#### References to Subchapter I Deemed To Include Certain Parts of Subchapter II
-References to subchapter I of this chapter are deemed to include parts IV (§ 2346 et seq.), VI (§ 2348 et seq.), and VIII (§ 2349aa et seq.) of subchapter II of this chapter, and references to subchapter II are deemed to exclude such parts. See section 202(b) of Pub. L. 92–226, set out as a note under [section 2346 of this title](./chapter-032-foreign-assistance.md#section-2346), and sections 2348c and 2349aa–5 of this title.
 
 #### Amendments
 1994—Subsec. (f). Pub. L. 103–236 struck out subsec. (f) which provided for an Assistant Secretary of State for Human Rights and Humanitarian Affairs and prescribed the Assistant Secretary’s duties.
@@ -15661,6 +15245,9 @@ Subsec. (d)(1). Pub. L. 88–205, § 302(b)(4), inserted “who shall be appoint
 
 1962—Subsecs. (d), (e). Pub. L. 87–565 redesignated subsec. (e) as (d), inserted “, and programs being conducted by United States Government Agencies under sections 1942 to 1945 of this title,” in par. 2(A), and “, and sections 1942 to 1945 of this title,” in pars. (5) and (7), and repealed former subsec. (d) which related to the temporary continuation of certain statutory positions.
 
+#### References to Subchapter I Deemed To Include Certain Parts of Subchapter II
+References to subchapter I of this chapter are deemed to include parts IV (§ 2346 et seq.), VI (§ 2348 et seq.), and VIII (§ 2349aa et seq.) of subchapter II of this chapter, and references to subchapter II are deemed to exclude such parts. See section 202(b) of Pub. L. 92–226, set out as a note under [section 2346 of this title](./chapter-032-foreign-assistance.md#section-2346), and sections 2348c and 2349aa–5 of this title.
+
 #### Effective Date of 1994 Amendment
 Amendment by Pub. L. 103–236 applicable with respect to officials, offices, and bureaus of Department of State when executive orders, regulations, or departmental directives implementing the amendments by sections 161 and 162 of Pub. L. 103–236 become effective, or 90 days after Apr. 30, 1994, whichever comes earlier, see section 161(b) of Pub. L. 103–236, as amended, set out as a note under [section 2651a of this title](./chapter-038-department-of-state.md#section-2651a).
 
@@ -15673,9 +15260,6 @@ Pub. L. 95–88, title I, § 124(c), Aug. 3, 1977, 91 Stat. 542, provided that: 
 #### Effective Date of 1964 Amendment
 Amendment by Pub. L. 88–426 effective on first day of first pay period which begins on or after July 1, 1964, except to the extent provided in section 501(c) of Pub. L. 88–426, see Pub. L. 88–426, title V, § 501, Aug. 14, 1964, 78 Stat. 435.
 
-#### Delegation of Functions
-For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under [section 2381 of this title](./chapter-032-foreign-assistance.md#section-2381).
-
 #### Assistant Administrator for Management
 Pub. L. 112–166, § 2(v)(1), Aug. 10, 2012, 126 Stat. 1288, provided that: “Notwithstanding section 624(a) of the Foreign Assistance Act of 1961 ([22 U.S.C. 2384(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2384/a&num=0&edition=prelim)), the appointment by the President of the Assistant Administrator for Management at the United States Agency for International Development shall not be subject to the advice and consent of the Senate.”
 
@@ -15687,6 +15271,9 @@ Pub. L. 95–105, title I, § 109(a)(7), Aug. 17, 1977, 91 Stat. 847, which requ
 
 #### Assignment of Duties and Responsibilities to Inspector General, Foreign Service
 Pub. L. 95–88, title I, § 124(a)(2), Aug. 3, 1977, 91 Stat. 542, which provided that the President (A) may assign to the Inspector General, Foreign Service, any of the duties and responsibilities vested by such section 624(d) [subsec. (d) of this section] in the Inspector General, Foreign Assistance, and (B) may authorize the Inspector General, Foreign Service, to exercise such of the authorities granted by such section 624(d) [subsec. (d) of this section] to the Inspector General, Foreign Assistance, as the President determines are necessary to carry out any duties or responsibilities so assigned, was repealed by Pub. L. 96–465, title II, § 2205(11), Oct. 17, 1980, 94 Stat. 2160. See [section 3929 of this title](./chapter-052-foreign-service.md#section-3929).
+
+#### Delegation of Functions
+For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under [section 2381 of this title](./chapter-032-foreign-assistance.md#section-2381).
 
 #### Agency for International Development
 For appointments under subsec. (a) to United States Agency for International Development, see section 1–200(b) and (c) of Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under [section 2381 of this title](./chapter-032-foreign-assistance.md#section-2381).
@@ -15718,7 +15305,7 @@ For appointments under subsec. (a) to United States Agency for International Dev
 
   (A) To facilitate the assignment of persons to Iraq, Pakistan, and Afghanistan or to posts vacated by members of the Service assigned to Iraq, Pakistan, and Afghanistan, the Administrator of the United States Agency for International Development may waive the application of the provisions of section 8344 or 8468 of title 5 on a case-by-case basis for employment of an annuitant in a position in the United States Agency for International Development for which there is exceptional difficulty in recruiting or retaining a qualified employee, or when a temporary emergency hiring need exists.
 
-  (B) The authority of the Administrator under subparagraph (A) shall terminate on October 1, 2010. An annuitant reemployed pursuant to such authority prior to such termination date may be employed for a period ending not later than one year after such date.
+  (B) The authority of the Administrator under subparagraph (A) shall terminate on October 1, 2010.11 See Extension of Authority note below. An annuitant reemployed pursuant to such authority prior to such termination date may be employed for a period ending not later than one year after such date.
 
 (2) The Administrator should prescribe procedures for the exercise of any authority under this subsection, including criteria for any exercise of authority and procedures for a delegation of authority.
 
@@ -15787,13 +15374,14 @@ Repeal of subsec. (k) by Pub. L. 96–465 effective Oct. 17, 1980, see Pub. L. 9
 #### Effective Date of 1962 Amendment
 Amendment by Pub. L. 87–793 effective on first day of first pay period which begins on or after Oct. 11, 1962, see Pub. L. 87–793, pt. II, § 1008, Oct. 11, 1962, 76 Stat. 868.
 
-#### Delegation of Functions
-For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under [section 2381 of this title](./chapter-032-foreign-assistance.md#section-2381).
-
 #### Extension of Authority
-Pub. L. 116–6, div. F, title VII, § 7034(m)(3), Feb. 15, 2019, 133 Stat. 327, provided that: “Section 625(j)(1) of the Foreign Assistance Act of 1961 ([22 U.S.C. 2385(j)(1)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2385/j/1&num=0&edition=prelim)) shall be applied by substituting ‘September 30, 2019’ for ‘October 1, 2010’ in subparagraph (B).”
+Pub. L. 116–260, div. K, title VII, § 7034(l)(3), Dec. 27, 2020, 134 Stat. 1749, provided that: “Section 625(j)(1) of the Foreign Assistance Act of 1961 ([22 U.S.C. 2385(j)(1)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2385/j/1&num=0&edition=prelim)) shall be applied by substituting ‘September 30, 2021’ for ‘October 1, 2010’ in subparagraph (B).”
 
 Prior extensions were contained in the following prior acts:
+
+Pub. L. 116–94, div. G, title VII, § 7034(l)(3), Dec. 20, 2019, 133 Stat. 2872.
+
+Pub. L. 116–6, div. F, title VII, § 7034(m)(3), Feb. 15, 2019, 133 Stat. 327.
 
 Pub. L. 115–141, div. K, title VII, § 7034(l)(3), Mar. 23, 2018, 132 Stat. 895.
 
@@ -15809,6 +15397,9 @@ Pub. L. 112–74, div. I, title VII, § 7034(m)(6), Dec. 23, 2011, 125 Stat. 121
 
 #### References in Other Laws to GS–16, 17, or 18 Pay Rates
 References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 [title I, § 101(c)(1)] of Pub. L. 101–509, set out in a note under [section 5376 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5376&num=0&edition=prelim).
+
+#### Delegation of Functions
+For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under [section 2381 of this title](./chapter-032-foreign-assistance.md#section-2381).
 
 #### Entitlement to Benefits for Services Performed Outside United States; Service Exceeding Thirty Months
 Persons appointed, employed, or assigned after May 19, 1959, under former [section 1787(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section1787/c&num=0&edition=prelim) or subsec. (d) of this section for the purpose of performing functions under the Mutual Security Act of 1954 (see Short Title note set out under [section 1754 of this title](./chapter-024-mutual-security-program.md#section-1754)) and this chapter, outside the United States, shall not, unless otherwise agreed by the agency in which such benefits may be exercised, be entitled to the benefits provided for by [section 3950 of this title](./chapter-052-foreign-service.md#section-3950) in cases in which their service under the appointment, employment, or assignment exceeds thirty months, see Ex. Ord. No. 12163, § 1–602(b), Sept. 29, 1979, 44 F.R. 56677, as amended, set out as a note under [section 2381 of this title](./chapter-032-foreign-assistance.md#section-2381).
@@ -15984,9 +15575,6 @@ The Foreign Service Act of 1980, referred to in subsecs. (b) and (c), is Pub. L.
 
 Section 102(a)(3) of that Act, referred to in subsecs. (b) and (c), was redesignated section 102(3) pursuant to Pub. L. 98–164, which struck out designation “(a)” and struck out subsec. (b) of section 102.
 
-#### References to Subchapter I Deemed To Include Certain Parts of Subchapter II
-References to subchapter I of this chapter are deemed to include parts IV (§ 2346 et seq.), VI (§ 2348 et seq.), and VIII (§ 2349aa et seq.) of subchapter II of this chapter, and references to subchapter II are deemed to exclude such parts. See section 202(b) of Pub. L. 92–226, set out as a note under [section 2346 of this title](./chapter-032-foreign-assistance.md#section-2346), and sections 2348c and 2349aa–5 of this title.
-
 #### Amendments
 1980—Subsec. (b). Pub. L. 96–465, § 2203(c), among other changes, substituted references to the Foreign Service Act of 1980 for references to the Foreign Service Act of 1946 and [section 2385(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2385/d&num=0&edition=prelim).
 
@@ -15998,14 +15586,17 @@ Subsec. (c). Pub. L. 96–465, § 2203(d), among other changes, substituted refe
 
 1963—Subsec. (c). Pub. L. 88–205 added subsec. (c).
 
+#### References to Subchapter I Deemed To Include Certain Parts of Subchapter II
+References to subchapter I of this chapter are deemed to include parts IV (§ 2346 et seq.), VI (§ 2348 et seq.), and VIII (§ 2349aa et seq.) of subchapter II of this chapter, and references to subchapter II are deemed to exclude such parts. See section 202(b) of Pub. L. 92–226, set out as a note under [section 2346 of this title](./chapter-032-foreign-assistance.md#section-2346), and sections 2348c and 2349aa–5 of this title.
+
 #### Effective Date of 1980 Amendment
 Amendment by Pub. L. 96–465 effective Feb. 15, 1981, except as otherwise provided, see section 2403 of Pub. L. 96–465, set out as an Effective Date note under [section 3901 of this title](./chapter-052-foreign-service.md#section-3901).
 
-#### Delegation of Functions
-For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under [section 2381 of this title](./chapter-032-foreign-assistance.md#section-2381).
-
 #### Flag and General Officers
 Pub. L. 94–11, title I, § 100, Mar. 26, 1975, 89 Stat. 20, provided in part that: “The total number of flag and general officers of the United States Armed Forces assigned or detailed to military assistance advisory groups, military missions, or similar organizations, or performing duties primarily with respect to the Military Assistance Program and the Foreign Military Sales Program shall not exceed twenty after May 1, 1975.”
+
+#### Delegation of Functions
+For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under [section 2381 of this title](./chapter-032-foreign-assistance.md#section-2381).
 
 #### Approval of Secretary of State
 The maintenance of special missions or staffs abroad, the fixing of ranks of chiefs thereof after the chiefs of United States diplomatic missions, and authorization of same compensation and allowances as chief of mission, as defined in [section 3902(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section3902/3&num=0&edition=prelim), all under this section, shall be subject to approval of Secretary of State, see section 1–603 of Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56677, as amended, set out as a note under [section 2381 of this title](./chapter-032-foreign-assistance.md#section-2381).
@@ -16036,9 +15627,6 @@ The Assignment of Claims Act of 1940, as amended, referred to in subsec. (e), me
 
 [Section 1782(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section1782/a&num=0&edition=prelim), referred to in subsec. (f), was repealed by Pub. L. 87–195, pt. III, § 642(a)(2), Sept. 4, 1961, 75 Stat. 460.
 
-#### References to Subchapter I Deemed To Include Certain Parts of Subchapter II, and References to Subchapter II Deemed To Exclude Such Parts
-References to subchapter I of this chapter are deemed to include parts IV (§ 2346 et seq.), VI (§ 2348 et seq.), and VIII (§ 2349aa et seq.) of subchapter II of this chapter, and references to subchapter II are deemed to exclude such parts. See section 202(b) of Pub. L. 92–226, set out as a note under [section 2346 of this title](./chapter-032-foreign-assistance.md#section-2346), and sections 2348c and 2349aa–5 of this title.
-
 #### Amendments
 1989—Subsec. (d). Pub. L. 101–165 inserted at end of second sentence “(other than salaries of the Armed Forces of the United States and unfunded estimated costs of civilian retirement and other benefits)”.
 
@@ -16054,17 +15642,20 @@ Subsec. (e). Pub. L. 94–329, § 106(b)(4)(A), inserted “military education a
 
 1967—Subsec. (d). Pub. L. 90–137 substituted reference to sections 2318, 2342, and 2343 for former reference to sections 2315 and 2318 of this title.
 
+#### References to Subchapter I Deemed To Include Certain Parts of Subchapter II, and References to Subchapter II Deemed To Exclude Such Parts
+References to subchapter I of this chapter are deemed to include parts IV (§ 2346 et seq.), VI (§ 2348 et seq.), and VIII (§ 2349aa et seq.) of subchapter II of this chapter, and references to subchapter II are deemed to exclude such parts. See section 202(b) of Pub. L. 92–226, set out as a note under [section 2346 of this title](./chapter-032-foreign-assistance.md#section-2346), and sections 2348c and 2349aa–5 of this title.
+
 #### Change of Name
 “Export-Import Bank of Washington” changed to “Export-Import Bank of the United States” in text to conform to such change in name in the Export-Import Bank Act of 1945, section 635 et seq. of Title 12, Banks and Banking, provided for in section 1(a) of Pub. L. 90–267, Mar. 13, 1968, 82 Stat. 47.
 
 #### Effective Date of 1968 Amendment
 Amendment by Pub. L. 90–629 effective July 1, 1968, see section 41 of Pub. L. 90–629, set out as an Effective Date note under [section 2751 of this title](./chapter-039-arms-export-control.md#section-2751).
 
-#### Delegation of Functions
-For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under [section 2381 of this title](./chapter-032-foreign-assistance.md#section-2381).
-
 #### Accounting Adjustments Between Appropriations
 Charge of expenses to appropriation or account not affected by provisions for accounting adjustments between appropriations, see section 3 of Pub. L. 89–473, June 29, 1966, 80 Stat. 221, set out as a note under [section 628a of Title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section628a&num=0&edition=prelim), Money and Finance.
+
+#### Delegation of Functions
+For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under [section 2381 of this title](./chapter-032-foreign-assistance.md#section-2381).
 
 
 <a id="section-2393"></a>
@@ -16253,9 +15844,6 @@ The Export-Import Bank Act of 1945, referred to in subsec. (a)(4), is act July 3
 
 This chapter, referred to in subsecs. (a)(5)(A), (10), (b)(1), was in the original “this Act”, meaning Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, as amended, known as the Foreign Assistance Act of 1961. For complete classification of this Act to the Code, see Short Title note set out under [section 2151 of this title](./chapter-032-foreign-assistance.md#section-2151) and Tables.
 
-#### References to Part I Deemed To Include Section 2293
-References to part I of subchapter I of this chapter are deemed to include a reference to [section 2293 of this title](./chapter-032-foreign-assistance.md#section-2293). See [section 2293(d)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2293/d/1&num=0&edition=prelim).
-
 #### Codification
 Prior to the complete revision of this section by section 502(a)(2) of Pub. L. 95–424, section 501(a)(1) of Pub. L. 95–424 redesignated former subsec. (c), relating to requests by the General Accounting Office and Congressional committees for documents and other material, as [section 2393a of this title](./chapter-032-foreign-assistance.md#section-2393a).
 
@@ -16302,7 +15890,7 @@ Subsec. (g). Pub. L. 93–189 added subsec. (g).
 
 Subsec. (d). Pub. L. 92–226, § 304(a)(3), substituted in last sentence reference to section “2360(b)” for prior reference to sections “2360, 2364(a)”.
 
-1969—Subsec. (a). Pub. L. 91–175 excluded operations reported to Congress pursuant to [section 2200a of this title](./chapter-032-foreign-assistance.md#section-2200a) from report required by this section, and struck out of last sentence reference to the operation of the investment guaranty program.
+1969—Subsec. (a). Pub. L. 91–175 excluded operations reported to Congress pursuant to [section 2200a of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2200a&num=0&edition=prelim) from report required by this section, and struck out of last sentence reference to the operation of the investment guaranty program.
 
 1968—Subsec. (d). Pub. L. 90–629, § 45(b)(4), required the presentation material to include in the chart foreign assistance data under any other Act.
 
@@ -16317,6 +15905,9 @@ Subsecs. (g), (h). Pub. L. 90–137, § 302(h)(2), added subsecs. (g) and (h).
 1962—Subsec. (a). Pub. L. 87–565, § 302(e), required reports to include information on progress under the freedom of navigation and nondiscriminatory declaration contained in [section 2151 of this title](./chapter-032-foreign-assistance.md#section-2151).
 
 Subsec. (d). Pub. L. 87–565, § 302(f), substituted “At the end of each fiscal year” and “fiscal year” for “In January of each year” and “preceding twelve months”, respectively, and provided that the presentation material submitted to Congress during its consideration of amendments to this chapter, or of any Act appropriating funds pursuant to authorizations contained in this chapter, should include a comparison of the current fiscal year programs and activities with those presented to Congress in the previous year and an explanation of any substantial changes.
+
+#### References to Part I Deemed To Include Section 2293
+References to part I of subchapter I of this chapter are deemed to include a reference to [section 2293 of this title](./chapter-032-foreign-assistance.md#section-2293). See [section 2293(d)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2293/d/1&num=0&edition=prelim).
 
 #### Effective Date of 2008 Amendment
 Amendment by Pub. L. 110–246 effective May 22, 2008, see section 4(b) of Pub. L. 110–246, set out as an Effective Date note under [section 8701 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section8701&num=0&edition=prelim), Agriculture.
@@ -16659,9 +16250,7 @@ Pub. L. 114–191, § 3, July 15, 2016, 130 Stat. 667, provided that: “(a) Pur
 [For delegation of functions of President under section 3(b) and (d) of Pub. L. 114–191, set out above, see Memorandum of President of the United States, Nov. 21, 2017, 82 F.R. 56529, set out below.]
 
 #### Definitions
-Pub. L. 114–191, § 2, July 15, 2016, 130 Stat. 666, provided that: “In this Act [enacting this section and provisions set out as notes under this section and [section 2151 of this title](./chapter-032-foreign-assistance.md#section-2151)]: “(1) Appropriate congressional committees.—The term ‘appropriate congressional committees’ means—“(A) the Committee on Foreign Relations of the Senate; “(B) the Committee on Appropriations of the Senate; “(C) the Committee on Foreign Affairs of the House of Representatives; and “(D) the Committee on Appropriations of the House of Representatives. “(2) Evaluation.—The term ‘evaluation’ means, with respect to a covered United States foreign assistance program, the systematic collection and analysis of information about the characteristics and outcomes of the program, including projects conducted under such program, as a basis for—“(A) making judgments and evaluations regarding the program; “(B) improving program effectiveness; and “(C) informing decisions about current and future programming. “(3) Covered united states foreign assistance.—The term ‘covered United States foreign assistance’ means assistance authorized under—“(A) part I of the Foreign Assistance Act of 1961 ([22 U.S.C. 2151](./chapter-032-foreign-assistance.md#section-2151) et seq.), except for—“(i) title IV of chapter 2 of such part [[22 U.S.C. 2191](./chapter-032-foreign-assistance.md#section-2191) et seq.] (relating to the Overseas Private Investment Corporation); and “(ii) chapter 3 of such part [[22 U.S.C. 2221](./chapter-032-foreign-assistance.md#section-2221) et seq.] (relating to International Organizations and Programs); “(B) chapter 4 of part II of the Foreign Assistance Act of 1961 ([22 U.S.C. 2346](./chapter-032-foreign-assistance.md#section-2346) et seq.; relating to Economic Support Fund); “(C) the Millennium Challenge Act of 2003 ([22 U.S.C. 7701](./chapter-084-millennium-challenge.md#section-7701) et seq.); and “(D) the Food for Peace Act ([7 U.S.C. 1721](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1721&num=0&edition=prelim) [1691] et seq.).”
-
-[Pub. L. 115–254, div. F, title VI, § 1470(l), (w), Oct. 5, 2018, 132 Stat. 3517, 3519, provided that, effective at the end of the transition period, as defined in [section 9681 of this title](./chapter-103-better-utilization-of-investments-leading-to-development.md#section-9681), section 2(3) of the Foreign Aid Transparency and Accountability Act of 2016 (Public Law 114–191; [22 U.S.C. 2394c](./chapter-032-foreign-assistance.md#section-2394c) note), set out above, is amended in subparagraph (A), by striking “except for” and all that follows through “chapter 3” and inserting “except for chapter 3”; in subparagraph (C), by striking “and” at the end; in subparagraph (D), by striking the period at the end and inserting “; and”; and by adding at the end the following: “(E) the Better Utilization of Investments Leading to Development Act of 2018 [[22 U.S.C. 9601](./chapter-103-better-utilization-of-investments-leading-to-development.md#section-9601) et seq.].”]
+Pub. L. 114–191, § 2, July 15, 2016, 130 Stat. 666, as amended by Pub. L. 115–254, div. F, title VI, § 1470(l), Oct. 5, 2018, 132 Stat. 3517, provided that: “In this Act [enacting this section and provisions set out as notes under this section and [section 2151 of this title](./chapter-032-foreign-assistance.md#section-2151)]: “(1) Appropriate congressional committees.—The term ‘appropriate congressional committees’ means—“(A) the Committee on Foreign Relations of the Senate; “(B) the Committee on Appropriations of the Senate; “(C) the Committee on Foreign Affairs of the House of Representatives; and “(D) the Committee on Appropriations of the House of Representatives. “(2) Evaluation.—The term ‘evaluation’ means, with respect to a covered United States foreign assistance program, the systematic collection and analysis of information about the characteristics and outcomes of the program, including projects conducted under such program, as a basis for—“(A) making judgments and evaluations regarding the program; “(B) improving program effectiveness; and “(C) informing decisions about current and future programming. “(3) Covered united states foreign assistance.—The term ‘covered United States foreign assistance’ means assistance authorized under—“(A) part I of the Foreign Assistance Act of 1961 ([22 U.S.C. 2151](./chapter-032-foreign-assistance.md#section-2151) et seq.), except for chapter 3 of such part [[22 U.S.C. 2221](./chapter-032-foreign-assistance.md#section-2221) et seq.] (relating to International Organizations and Programs); “(B) chapter 4 of part II of the Foreign Assistance Act of 1961 ([22 U.S.C. 2346](./chapter-032-foreign-assistance.md#section-2346) et seq.; relating to Economic Support Fund); “(C) the Millennium Challenge Act of 2003 ([22 U.S.C. 7701](./chapter-084-millennium-challenge.md#section-7701) et seq.); “(D) the Food for Peace Act ([7 U.S.C. 1721](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1721&num=0&edition=prelim) [1691] et seq.); and “(E) the Better Utilization of Investments Leading to Development Act of 2018 [[22 U.S.C. 9601](./chapter-103-better-utilization-of-investments-leading-to-development.md#section-9601) et seq.].”
 
 #### Delegation of Authority Under the Foreign Aid Transparency and Accountability Act of 2016
 Memorandum of President of the United States, Nov. 21, 2017, 82 F.R. 56529, provided:
@@ -16700,9 +16289,6 @@ This chapter, referred to in subsec. (a), was in the original “this Act”, me
 
 The Arms Export Control Act, referred to in subsec. (a), is Pub. L. 90–629, Oct. 22, 1968, 82 Stat. 1320, as amended, which is classified principally to chapter 39 (§ 2751 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 2751 of this title](./chapter-039-arms-export-control.md#section-2751) and Tables.
 
-#### References to Part I Deemed To Include Section 2293
-References to part I of subchapter I of this chapter are deemed to include a reference to [section 2293 of this title](./chapter-032-foreign-assistance.md#section-2293). See [section 2293(d)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2293/d/1&num=0&edition=prelim).
-
 #### Codification
 Section was formerly classified to [section 2429b of this title](./chapter-032-foreign-assistance.md#section-2429b).
 
@@ -16712,6 +16298,9 @@ Section was formerly classified to [section 2429b of this title](./chapter-032-f
 1985—Pub. L. 99–83 designated existing provisions as subsec. (a), inserted references to the Arms Export Control Act in two places, and added subsecs. (b) and (c).
 
 1981—Pub. L. 97–113 inserted provision respecting notification of proposed reprograming of assistance.
+
+#### References to Part I Deemed To Include Section 2293
+References to part I of subchapter I of this chapter are deemed to include a reference to [section 2293 of this title](./chapter-032-foreign-assistance.md#section-2293). See [section 2293(d)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2293/d/1&num=0&edition=prelim).
 
 #### Effective Date of 1985 Amendment
 Amendment by Pub. L. 99–83 effective Oct. 1, 1985, see section 1301 of Pub. L. 99–83, set out as a note under [section 2151–1 of this title](./chapter-032-foreign-assistance.md#section-2151-1).
@@ -16808,9 +16397,6 @@ This chapter, referred to in subsecs. (a) to (d), (g), and (j), was in the origi
 #### References to Subchapter I Deemed To Include Certain Parts of Subchapter II, and References to Subchapter II Deemed To Exclude Such Parts
 References to subchapter I of this chapter are deemed to include parts IV (§ 2346 et seq.), VI (§ 2348 et seq.), and VIII (§ 2349aa et seq.) of subchapter II of this chapter, and references to subchapter II are deemed to exclude such parts. See section 202(b) of Pub. L. 92–226, set out as a note under [section 2346 of this title](./chapter-032-foreign-assistance.md#section-2346), and sections 2348c and 2349aa–5 of this title.
 
-#### References to Part I Deemed To Include Section 2293
-References to part I of subchapter I of this chapter are deemed to include a reference to [section 2293 of this title](./chapter-032-foreign-assistance.md#section-2293). See [section 2293(d)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2293/d/1&num=0&edition=prelim).
-
 #### Codification
 In subsec. (g)(5), “chapter 91 of title 31” substituted for “the Government Corporation Control Act, as amended ([31 U.S.C. 841](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section841&num=0&edition=prelim) et seq.)” on authority of Pub. L. 97–258, § 4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
 
@@ -16837,6 +16423,9 @@ Subsec. (g). Pub. L. 90–137, § 302(i)(2), struck out “and sales” after �
 
 1962—Subsec. (h). Pub. L. 87–565 included sections 2211 to 2213 of this title within the limitation on the duration of contracts and agreements.
 
+#### References to Part I Deemed To Include Section 2293
+References to part I of subchapter I of this chapter are deemed to include a reference to [section 2293 of this title](./chapter-032-foreign-assistance.md#section-2293). See [section 2293(d)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2293/d/1&num=0&edition=prelim).
+
 #### Effective Date of 1979 Amendment
 Amendment by Pub. L. 96–53 effective Oct. 1, 1979, see section 512(a) of Pub. L. 96–53, set out as a note under [section 2151 of this title](./chapter-032-foreign-assistance.md#section-2151).
 
@@ -16846,17 +16435,17 @@ Amendment by Pub. L. 95–424 effective Oct. 1, 1978, see section 605 of Pub. L.
 #### Effective Date of 1967 Amendment
 Pub. L. 90–137, pt. III, § 302(i)(2), Nov. 14, 1967, 81 Stat. 461, provided in part that amendment of subsec. (g) by such section 302(i)(2) shall take effect on June 30, 1968.
 
-#### Delegation of Functions
-For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under [section 2381 of this title](./chapter-032-foreign-assistance.md#section-2381).
-
-#### International Agreements
-The negotiation, conclusion, and termination of international agreements pursuant to this chapter shall be subject to requirements of [section 112b of Title 1](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title1-section112b&num=0&edition=prelim), General Provisions, and to applicable regulations and procedures, see section 1–604 of Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56677, eff. Oct. 1, 1979, set out as a note under [section 2381 of this title](./chapter-032-foreign-assistance.md#section-2381).
-
 #### Information to Congressional Committees on Negotiations Regarding Debts Owed United States by Foreign Governments; Transmittal to Congress of Debt Modification Proposals
 Pub. L. 93–333, § 4, July 8, 1974, 88 Stat. 290, relating to cancellation, renegotiation, etc., of any debt owed by a foreign government, was repealed by Pub. L. 95–424, title VI, § 603(b), Oct. 6, 1978, 92 Stat. 961.
 
 #### Termination of Advisory Committees
 Advisory committees in existence on Jan. 5, 1973, to terminate not later than the expiration of the 2-year period following Jan. 5, 1973, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided by law. See section 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 776, set out in the Appendix to Title 5, Government Organization and Employees.
+
+#### Delegation of Functions
+For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under [section 2381 of this title](./chapter-032-foreign-assistance.md#section-2381).
+
+#### International Agreements
+The negotiation, conclusion, and termination of international agreements pursuant to this chapter shall be subject to requirements of [section 112b of Title 1](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title1-section112b&num=0&edition=prelim), General Provisions, and to applicable regulations and procedures, see section 1–604 of Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56677, eff. Oct. 1, 1979, set out as a note under [section 2381 of this title](./chapter-032-foreign-assistance.md#section-2381).
 
 
 <a id="section-2395a"></a>
@@ -16880,7 +16469,7 @@ Section enacted as part of the International Development and Food Assistance Act
 Section effective Oct. 1, 1978, see section 605 of Pub. L. 95–424, set out as an Effective Date of 1978 Amendment note under [section 2151 of this title](./chapter-032-foreign-assistance.md#section-2151).
 
 #### Actions To Provide Bilateral Debt Relief
-Pub. L. 106–113, div. B, § 1000(a)(5) [title V, § 501], Nov. 29, 1999, 113 Stat. 1536, 1501A–311, as amended by Pub. L. 108–447, div. D, title V, § 591(b), Dec. 8, 2004, 118 Stat. 3037; Pub. L. 109–102, title V, § 578, Nov. 14, 2005, 119 Stat. 2232; Pub. L. 110–161, div. J, title VI, § 699H(b)(1), Dec. 26, 2007, 121 Stat. 2372, provided that: “(a) Cancellation of Debt.—Subject to the availability of amounts provided in advance in appropriations Acts, the President shall cancel all amounts owed to the United States (or any agency of the United States) by any country eligible for debt reduction under this section, as a result of loans made or credits extended prior to June 20, 1999, under any of the provisions of law specified in subsection (b). “(b) Provisions of Law.—The provisions of law referred to in subsection (a) are the following:“(1) Sections 221 and 222 of the Foreign Assistance Act [of 1961] [[22 U.S.C. 2181](./chapter-032-foreign-assistance.md#section-2181), 2182]. “(2) The Arms Export Control Act ([22 U.S.C. 2751](./chapter-039-arms-export-control.md#section-2751) et seq.). “(3) Section 5(f) of the Commodity Credit Corporation Charter Act [[15 U.S.C. 714c(f)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section714c/f&num=0&edition=prelim)], section 201 of the Agricultural Trade Act of 1978 ([7 U.S.C. 5621](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section5621&num=0&edition=prelim)), or section 202 of such Act ([7 U.S.C. 5622](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section5622&num=0&edition=prelim)), or predecessor provisions under the Food for Peace Act of 1966. “(4) Title I of the Agricultural Trade Development and Assistance Act of 1954 [now Food for Peace Act] ([7 U.S.C. 1701](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1701&num=0&edition=prelim) et seq.). “(5) The Act of March 11, 1941 (chapter 11; 55 Stat. 31; [22 U.S.C. 411](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section411&num=0&edition=prelim) et seq.; commonly known as the ‘Lend-Lease Act’). “(c) Other Debt Reduction Authorities.—The authority provided in this section is in addition to any other debt relief authority and does not in any way limit such authority. “(d) Eligible Countries.—A country that is performing satisfactorily under an economic reform program shall be eligible for cancellation of debt under this section if—“(1) the country, as of December 31, 2000, is eligible to borrow from the International Development Association; “(2) the country, as of December 31, 2000, is not eligible to borrow from the International Bank for Reconstruction and Development; and “(3)(A) the country has outstanding public and publicly guaranteed debt, the net present value of which on December 31, 1996, was at least 150 percent of the average annual value of the exports of the country for the period 1994 through 1996; or “(B)(i) the country has outstanding public and publicly guaranteed debt, the net present value of which, as of the date the President determines that the country is eligible for debt relief under this section, is at least 150 percent of the annual value of the exports of the country; or “(ii) the country has outstanding public and publicly guaranteed debt, the net present value of which, as of the date the President determines that the country is eligible for debt relief under this section, is at least 250 percent of the annual fiscal revenues of the country, and has minimum ratios of exports to Gross Domestic Product of 30 percent, and of fiscal revenues to Gross Domestic Product of 15 percent. “(e) Priority.—In carrying out subsection (a), the President should seek to leverage scarce foreign assistance and give priority to heavily indebted poor countries with demonstrated need and the capacity to use such relief effectively. “(f) Exceptions.—A country shall not be eligible for cancellation of debt under this section if the government of the country—“(1) has an excessive level of military expenditures; “(2) has repeatedly provided support for acts of international terrorism, as determined by the Secretary of State under [former] section 6(j)(1) of the Export Administration Act of 1979 (50 U.S.C. App. 2405(j)(1)) [former [50 U.S.C. 4605(j)(1)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4605/j/1&num=0&edition=prelim)] or section 620A(a) of the Foreign Assistance Act of 1961 ([22 U.S.C. 2371(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2371/a&num=0&edition=prelim)); “(3) is failing to cooperate on international narcotics control matters; or “(4) (including its military or other security forces), engages in a consistent pattern of gross violations of internationally recognized human rights. “(g) Additional Requirement.—A country which is otherwise eligible to receive cancellation of debt under this section may receive such cancellation only if the country has committed, in connection with a social and economic reform program—“(1) to enable, facilitate, or encourage the implementation of policy changes and institutional reforms under economic reform programs, in a manner that ensures that such policy changes and institutional reforms are designed and adopted through transparent and participatory processes; “(2) to adopt an integrated development strategy of the type described in section 1624(a) of the International Financial Institutions Act [[22 U.S.C. 262p–7](./chapter-007-international-bureaus-congresses-etc.md#section-262p-7)], to support poverty reduction through economic growth, that includes monitorable poverty reduction goals; “(3) to take steps so that the financial benefits of debt relief are applied to programs to combat poverty (in particular through concrete measures to improve economic infrastructure, basic services in education, nutrition, and health, particularly treatment and prevention of the leading causes of mortality) and to redress environmental degradation; “(4) to take steps to strengthen and expand the private sector, encourage increased trade and investment, support the development of free markets, and promote broad-scale economic growth; “(5) to implement transparent policy making and budget procedures, good governance, and effective anticorruption measures; “(6) to broaden public participation and popular understanding of the principles and goals of poverty reduction, particularly through economic growth, and good governance; and “(7) to promote the participation of citizens and nongovernmental organizations in the economic policy choices of the government. “(h) Certain Prohibitions Inapplicable.—Except as the President may otherwise determine for reasons of national security, a cancellation of debt under this section shall not be considered to be assistance for purposes of any provision of law limiting assistance to a country. The authority to provide for cancellation of debt under this section may be exercised notwithstanding section 620(r) of the Foreign Assistance Act of 1961 [[22 U.S.C. 2370(r)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2370/r&num=0&edition=prelim)], or any similar provision of law. “(i) Authorization of Appropriations.—For the cost (as defined in section 502(5) of the Federal Credit Reform Act of 1990 [[2 U.S.C. 661a(5)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section661a/5&num=0&edition=prelim)]) of the cancellation of any debt under this section, there are authorized to be appropriated to the President such sums as may be necessary for each of the fiscal years 2000–2010, which shall remain available until expended. “(j) Annual Reports to the Congress.—Not later than December 31 of each year, the President shall prepare and transmit to the Committees on Banking and Financial Services [now Committee on Financial Services], Appropriations, and International Relations [now Committee on Foreign Affairs] of the House of Representatives, and the Committees on Banking, Housing, and Urban Affairs, Foreign Relations, and Appropriations of the Senate a report, which shall be made available to the public, concerning the cancellation of debt under subsection (a), and a detailed description of debt relief provided by the United States as a member of the Paris Club of Official Creditors for the prior fiscal year.”
+Pub. L. 106–113, div. B, § 1000(a)(5) [title V, § 501], Nov. 29, 1999, 113 Stat. 1536, 1501A–311, as amended by Pub. L. 108–447, div. D, title V, § 591(b), Dec. 8, 2004, 118 Stat. 3037; Pub. L. 109–102, title V, § 578, Nov. 14, 2005, 119 Stat. 2232; Pub. L. 110–161, div. J, title VI, § 699H(b)(1), Dec. 26, 2007, 121 Stat. 2372; Pub. L. 116–94, div. J, title IX, § 904(b), Dec. 20, 2019, 133 Stat. 3086; Pub. L. 116–260, div. K, title VII, § 7042(j)(2), Dec. 27, 2020, 134 Stat. 1772, provided that: “(a) Cancellation of Debt.—Subject to the availability of amounts provided in advance in appropriations Acts, the President shall cancel all amounts owed to the United States (or any agency of the United States) by any country eligible for debt reduction under this section, as a result of loans made or credits extended prior to June 20, 1999, under any of the provisions of law specified in subsection (b). “(b) Provisions of Law.—The provisions of law referred to in subsection (a) are the following:“(1) Sections 221 and 222 of the Foreign Assistance Act [of 1961] [[22 U.S.C. 2181](./chapter-032-foreign-assistance.md#section-2181), 2182]. “(2) The Arms Export Control Act ([22 U.S.C. 2751](./chapter-039-arms-export-control.md#section-2751) et seq.). “(3) Section 5(f) of the Commodity Credit Corporation Charter Act [[15 U.S.C. 714c(f)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section714c/f&num=0&edition=prelim)], section 201 of the Agricultural Trade Act of 1978 ([7 U.S.C. 5621](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section5621&num=0&edition=prelim)), or section 202 of such Act ([7 U.S.C. 5622](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section5622&num=0&edition=prelim)), or predecessor provisions under the Food for Peace Act of 1966. “(4) Title I of the Agricultural Trade Development and Assistance Act of 1954 [now Food for Peace Act] ([7 U.S.C. 1701](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1701&num=0&edition=prelim) et seq.). “(5) The Act of March 11, 1941 (chapter 11; 55 Stat. 31; [22 U.S.C. 411](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section411&num=0&edition=prelim) et seq.; commonly known as the ‘Lend-Lease Act’). “(c) Other Debt Reduction Authorities.—The authority provided in this section is in addition to any other debt relief authority and does not in any way limit such authority. “(d) Eligible Countries.—A country that is performing satisfactorily under an economic reform program shall be eligible for cancellation of debt under this section if—“(1) the country, as of December 31, 2000, is eligible to borrow from the International Development Association; “(2) the country, as of December 31, 2000, is not eligible to borrow from the International Bank for Reconstruction and Development; and “(3)(A) the country has outstanding public and publicly guaranteed debt, the net present value of which on December 31, 1996, was at least 150 percent of the average annual value of the exports of the country for the period 1994 through 1996; or “(B)(i) the country has outstanding public and publicly guaranteed debt, the net present value of which, as of the date the President determines that the country is eligible for debt relief under this section, is at least 150 percent of the annual value of the exports of the country; or “(ii) the country has outstanding public and publicly guaranteed debt, the net present value of which, as of the date the President determines that the country is eligible for debt relief under this section, is at least 250 percent of the annual fiscal revenues of the country, and has minimum ratios of exports to Gross Domestic Product of 30 percent, and of fiscal revenues to Gross Domestic Product of 15 percent. “(e) Priority.—In carrying out subsection (a), the President should seek to leverage scarce foreign assistance and give priority to heavily indebted poor countries with demonstrated need and the capacity to use such relief effectively. “(f) Exceptions.—A country shall not be eligible for cancellation of debt under this section if the government of the country—“(1) has an excessive level of military expenditures; “(2) has repeatedly provided support for acts of international terrorism, as determined by the Secretary of State under [former] section 6(j)(1) of the Export Administration Act of 1979 (50 U.S.C. App. 2405(j)(1)) [former [50 U.S.C. 4605(j)(1)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4605/j/1&num=0&edition=prelim)] or section 620A(a) of the Foreign Assistance Act of 1961 ([22 U.S.C. 2371(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2371/a&num=0&edition=prelim)); “(3) is failing to cooperate on international narcotics control matters; or “(4) (including its military or other security forces), engages in a consistent pattern of gross violations of internationally recognized human rights. “(g) Additional Requirement.—A country which is otherwise eligible to receive cancellation of debt under this section may receive such cancellation only if the country has committed, in connection with a social and economic reform program—“(1) to enable, facilitate, or encourage the implementation of policy changes and institutional reforms under economic reform programs, in a manner that ensures that such policy changes and institutional reforms are designed and adopted through transparent and participatory processes; “(2) to adopt an integrated development strategy of the type described in section 1624(a) of the International Financial Institutions Act [[22 U.S.C. 262p–7](./chapter-007-international-bureaus-congresses-etc.md#section-262p-7)], to support poverty reduction through economic growth, that includes monitorable poverty reduction goals; “(3) to take steps so that the financial benefits of debt relief are applied to programs to combat poverty (in particular through concrete measures to improve economic infrastructure, basic services in education, nutrition, and health, particularly treatment and prevention of the leading causes of mortality) and to redress environmental degradation; “(4) to take steps to strengthen and expand the private sector, encourage increased trade and investment, support the development of free markets, and promote broad-scale economic growth; “(5) to implement transparent policy making and budget procedures, good governance, and effective anticorruption measures; “(6) to broaden public participation and popular understanding of the principles and goals of poverty reduction, particularly through economic growth, and good governance; and “(7) to promote the participation of citizens and nongovernmental organizations in the economic policy choices of the government. “(h) Certain Prohibitions Inapplicable.—Except as the President may otherwise determine for reasons of national security, a cancellation of debt under this section shall not be considered to be assistance for purposes of any provision of law limiting assistance to a country. The authority to provide for cancellation of debt under this section may be exercised notwithstanding section 620(r) of the Foreign Assistance Act of 1961 [[22 U.S.C. 2370(r)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2370/r&num=0&edition=prelim)], or any similar provision of law. “(i) Authorization of Appropriations.—For the cost (as defined in section 502(5) of the Federal Credit Reform Act of 1990 [[2 U.S.C. 661a(5)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section661a/5&num=0&edition=prelim)]) of the cancellation of any debt under this section, there are authorized to be appropriated to the President such sums as may be necessary for each of the fiscal years 2000–2025, which shall remain available until expended. “(j) Annual Reports to the Congress.—Not later than December 31 of each year, the President shall prepare and transmit to the Committees on Banking and Financial Services [now Committee on Financial Services], Appropriations, and International Relations [now Committee on Foreign Affairs] of the House of Representatives, and the Committees on Banking, Housing, and Urban Affairs, Foreign Relations, and Appropriations of the Senate a report, which shall be made available to the public, concerning the cancellation of debt under subsection (a), and a detailed description of debt relief provided by the United States as a member of the Paris Club of Official Creditors for the prior fiscal year.”
 
 [Pub. L. 108–447, § 591(b), which directed amendment of section 501(i) of Public Law 106–113 by substituting “2000–2006” for “2003–2004”, was executed in section 1000(a)(5) [title V, § 501] of div. B of Pub. L. 106–113, set out above, by making substitution for “2000 through 2004”, to reflect the probable intent of Congress.]
 
@@ -16977,12 +16566,6 @@ The Arms Export Control Act, referred to in subsec. (g), is Pub. L. 90–629, Oc
 
 [Section 2399a of this title](./chapter-032-foreign-assistance.md#section-2399a), referred to in subsec. (i), was repealed by Pub. L. 90–629, ch. 4, § 45(a), Oct. 22, 1968, 82 Stat. 1327. See [section 2753(a)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2753/a/1&num=0&edition=prelim).
 
-#### References to Subchapter I Deemed To Include Certain Parts of Subchapter II, and References to Subchapter II Deemed To Exclude Such Parts
-References to subchapter I of this chapter are deemed to include parts IV (§ 2346 et seq.), VI (§ 2348 et seq.), and VIII (§ 2349aa et seq.) of subchapter II of this chapter, and references to subchapter II are deemed to exclude such parts. See section 202(b) of Pub. L. 92–226, set out as a note under [section 2346 of this title](./chapter-032-foreign-assistance.md#section-2346), and sections 2348c and 2349aa–5 of this title.
-
-#### References to Part I Deemed To Include Section 2293
-References to part I of subchapter I of this chapter are deemed to include a reference to [section 2293 of this title](./chapter-032-foreign-assistance.md#section-2293). See [section 2293(d)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2293/d/1&num=0&edition=prelim).
-
 #### Codification
 In subsec. (a)(2), “section 1346(a) and (c) of title 31” substituted for “section 9 of Public Law 60–328 ([31 U.S.C. 673](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section673&num=0&edition=prelim)))” on authority of Pub. L. 97–258, § 4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
 
@@ -17037,8 +16620,11 @@ Subsec. (f). Pub. L. 89–171, § 302(h)(2), substituted “Latin American Devel
 
 1963—Subsec. (h). Pub. L. 88–205 added subsec. (h).
 
-#### Change of Name
-Commissioned Officer Corps of the Environmental Science Services Administration changed to Commissioned Officer Corps of the National Oceanic and Atmospheric Administration, see 1970 Reorg Plan No. 4, § 4(d), eff. Oct. 3, 1970, 35 F.R. 15627, 84 Stat. 2090, set out in the Appendix to Title 5, Government Organization and Employees.
+#### References to Subchapter I Deemed To Include Certain Parts of Subchapter II, and References to Subchapter II Deemed To Exclude Such Parts
+References to subchapter I of this chapter are deemed to include parts IV (§ 2346 et seq.), VI (§ 2348 et seq.), and VIII (§ 2349aa et seq.) of subchapter II of this chapter, and references to subchapter II are deemed to exclude such parts. See section 202(b) of Pub. L. 92–226, set out as a note under [section 2346 of this title](./chapter-032-foreign-assistance.md#section-2346), and sections 2348c and 2349aa–5 of this title.
+
+#### References to Part I Deemed To Include Section 2293
+References to part I of subchapter I of this chapter are deemed to include a reference to [section 2293 of this title](./chapter-032-foreign-assistance.md#section-2293). See [section 2293(d)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2293/d/1&num=0&edition=prelim).
 
 #### Effective Date of 2008 Amendment
 Amendment by Pub. L. 110–246 effective May 22, 2008, see section 4(b) of Pub. L. 110–246, set out as an Effective Date note under [section 8701 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section8701&num=0&edition=prelim), Agriculture.
@@ -17051,6 +16637,9 @@ Amendment by Pub. L. 99–83 effective Oct. 1, 1985, see section 1301 of Pub. L.
 
 #### Effective Date of 1978 Amendment
 Amendment by Pub. L. 95–424 effective Oct. 1, 1978, see section 605 of Pub. L. 95–424, set out as a note under [section 2151 of this title](./chapter-032-foreign-assistance.md#section-2151).
+
+#### Change of Name
+Commissioned Officer Corps of the Environmental Science Services Administration changed to Commissioned Officer Corps of the National Oceanic and Atmospheric Administration, see 1970 Reorg Plan No. 4, § 4(d), eff. Oct. 3, 1970, 35 F.R. 15627, 84 Stat. 2090, set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Delegation of Functions
 For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under [section 2381 of this title](./chapter-032-foreign-assistance.md#section-2381).
@@ -17212,9 +16801,6 @@ The President shall keep the Congress advised of his actions under this subsecti
 
 ### Statutory Notes
 
-#### References to Subchapter I Deemed To Include Certain Parts of Subchapter II
-References to subchapter I of this chapter are deemed to include parts IV (§ 2346 et seq.), VI (§ 2348 et seq.), and VIII (§ 2349aa et seq.) of subchapter II of this chapter, and references to subchapter II are deemed to exclude such parts. See section 202(b) of Pub. L. 92–226, set out as a note under [section 2346 of this title](./chapter-032-foreign-assistance.md#section-2346), and sections 2348c and 2349aa–5 of this title.
-
 #### Amendments
 1981—Subsec. (g). Pub. L. 97–113 struck our subsec. (g) which required annual reports to Congress by the Chairman of the Development Coordination Committee on the activities of the Committee respecting aid to low-income countries. See [section 2394(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2394/a&num=0&edition=prelim).
 
@@ -17230,17 +16816,20 @@ Subsec. (d). Pub. L. 95–88, § 127(b), substituted “less developed countries
 
 Subsecs. (e) to (g). Pub. L. 95–88, § 127(c), added subsecs. (e) to (g).
 
+#### References to Subchapter I Deemed To Include Certain Parts of Subchapter II
+References to subchapter I of this chapter are deemed to include parts IV (§ 2346 et seq.), VI (§ 2348 et seq.), and VIII (§ 2349aa et seq.) of subchapter II of this chapter, and references to subchapter II are deemed to exclude such parts. See section 202(b) of Pub. L. 92–226, set out as a note under [section 2346 of this title](./chapter-032-foreign-assistance.md#section-2346), and sections 2348c and 2349aa–5 of this title.
+
 #### Effective Date of 1979 Amendment
 Amendment by Pub. L. 96–53 effective Oct. 1, 1979, see section 512(a) of Pub. L. 96–53, set out as a note under [section 2151 of this title](./chapter-032-foreign-assistance.md#section-2151).
 
 #### Effective Date of 1978 Amendment
 Amendment by Pub. L. 95–424 effective Oct. 1, 1978, see section 605 of Pub. L. 95–424, set out as a note under [section 2151 of this title](./chapter-032-foreign-assistance.md#section-2151).
 
-#### Delegation of Functions
-For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under [section 2381 of this title](./chapter-032-foreign-assistance.md#section-2381).
-
 #### Termination of Advisory Committees
 Advisory committees established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided for by law. See section 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 776, set out in the Appendix to Title 5, Government Organization and Employees.
+
+#### Delegation of Functions
+For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under [section 2381 of this title](./chapter-032-foreign-assistance.md#section-2381).
 
 
 <a id="section-2399d"></a>
@@ -17250,14 +16839,14 @@ For the purpose of facilitating implementation of [section 55305 of title 46](ht
 
 ### Statutory Notes
 
-#### References to Part I Deemed To Include Section 2293
-References to part I of subchapter I of this chapter are deemed to include a reference to [section 2293 of this title](./chapter-032-foreign-assistance.md#section-2293). See [section 2293(d)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2293/d/1&num=0&edition=prelim).
-
 #### Codification
 In text, “[section 55305 of title 46](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section55305&num=0&edition=prelim)” substituted for “section 901(b) of the Merchant Marine Act, 1936 ([46 U.S.C. 1241(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section1241/b&num=0&edition=prelim))” on authority of Pub. L. 109–304, § 18(c), Oct. 6, 2006, 120 Stat. 1709, which Act enacted [section 55305 of Title 46](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section55305&num=0&edition=prelim), Shipping.
 
 #### Amendments
 1980—Pub. L. 96–533 substituted “part IV of subchapter II of this chapter” for “subchapter IV of this chapter”.
+
+#### References to Part I Deemed To Include Section 2293
+References to part I of subchapter I of this chapter are deemed to include a reference to [section 2293 of this title](./chapter-032-foreign-assistance.md#section-2293). See [section 2293(d)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2293/d/1&num=0&edition=prelim).
 
 
 <a id="section-2399-1a-2399-1b"></a>
@@ -17280,6 +16869,9 @@ This chapter shall take effect on September 4, 1961. Programs under this chapter
 
 #### References in Text
 This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, as amended, known as the Foreign Assistance Act of 1961. For complete classification of this Act to the Code, see Short Title note set out under [section 2151 of this title](./chapter-032-foreign-assistance.md#section-2151) and Tables.
+
+#### USAID Branding Modernization
+Pub. L. 116–334, Jan. 13, 2021, 134 Stat. 5115, provided that: “SECTION 1. SHORT TITLE.“This Act may be cited as the ‘USAID Branding Modernization Act’. “SEC. 2. AUTHORIZATION FOR BRANDING.“(a) In General.—The Administrator of the United States Agency for International Development (referred to in this section as ‘USAID’), in coordination with the Secretary of State, as appropriate, and with due consideration for the safety and security of implementing partners and beneficiaries, is authorized to prescribe, as appropriate, the use of logos or other insignia of the USAID Identity, or the use of additional or substitute markings, including the United States flag, to appropriately identify, including as required by section 641 of the Foreign Assistance Act of 1961 ([22 U.S.C. 2401](./chapter-032-foreign-assistance.md#section-2401)), overseas programs administered by USAID. “(b) Audit.—Not later than 1 year after the date of the enactment of this Act [Jan. 13, 2021], the Inspector General of USAID shall submit to Congress an audit of compliance with relevant branding and marking requirements of USAID by implementing partners funded by USAID, including any requirements prescribed pursuant to the authorization under subsection (a).”
 
 
 <a id="section-2402"></a>
@@ -17564,11 +17156,11 @@ This chapter, referred to in text, was in the original “this Act”, meaning P
 #### Effective Date of 1985 Amendment
 Amendment by Pub. L. 99–83 effective Oct. 1, 1985, see section 1301 of Pub. L. 99–83, set out as a note under [section 2151–1 of this title](./chapter-032-foreign-assistance.md#section-2151-1).
 
-#### Delegation of Functions
-For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under [section 2381 of this title](./chapter-032-foreign-assistance.md#section-2381).
-
 #### Funds Not To Be Used To Finance Introduction of United States Ground Combat Troops Into Cambodia or Provide Advisers for Security or Intelligence Forces in Cambodia; Assistance to Cambodia Not To Be Construed as Commitment by United States to Cambodia for Its Defense
 Pub. L. 91–652, § 7, Jan. 5, 1971, 84 Stat. 1943, as amended by Pub. L. 92–226, pt. IV, § 408, Feb. 7, 1972, 86 Stat. 35, provided that: “(a) In line with the expressed intention of the President of the United States, none of the funds authorized or appropriated pursuant to this or any other Act may be used to finance the introduction of United States ground combat troops into Cambodia, or to provide United States advisers to or for military, paramilitary, police, or other security or intelligence forces in Cambodia. “(b) Military and economic assistance provided by the United States to Cambodia and authorized or appropriated pursuant to this or any other Act shall not be construed as a commitment by the United States to Cambodia for its defense.”
+
+#### Delegation of Functions
+For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under [section 2381 of this title](./chapter-032-foreign-assistance.md#section-2381).
 
 
 <a id="section-2412"></a>
@@ -17878,13 +17470,13 @@ Subsecs. (c), (d). Pub. L. 99–83, § 711, added subsecs. (c) and (d).
 #### Effective Date of 1985 Amendment
 Amendment by Pub. L. 99–83 effective Oct. 1, 1985, see section 1301 of Pub. L. 99–83, set out as a note under [section 2151–1 of this title](./chapter-032-foreign-assistance.md#section-2151-1).
 
-#### Delegation of Functions
-For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under [section 2381 of this title](./chapter-032-foreign-assistance.md#section-2381).
-
 #### Exemption of Narcotics-Related Military Assistance for Specific Fiscal Years From Prohibition on Assistance for Law Enforcement Agencies
 Pub. L. 103–447, title I, § 104, Nov. 2, 1994, 108 Stat. 4694, provided that: “(a) Exemption.—For fiscal year 1995, section 660 of the Foreign Assistance Act of 1961 ([22 U.S.C. 2420](./chapter-032-foreign-assistance.md#section-2420)) shall not apply with respect to—“(1) transfers of excess defense articles under section 517 of that Act ([22 U.S.C. 2321k](./chapter-032-foreign-assistance.md#section-2321k)); “(2) funds made available for the ‘Foreign Military Financing Program’ under section 23 of the Arms Export Control Act ([22 U.S.C. 2763](./chapter-039-arms-export-control.md#section-2763)) that are used for assistance provided for narcotics-related purposes; or “(3) international military education and training under chapter 5 of part II of the Foreign Assistance Act of 1961 ([22 U.S.C. 2347](./chapter-032-foreign-assistance.md#section-2347) and following) that is provided for narcotics-related purposes. “(b) Notification to Congress.—At least 15 days before any transfer under subsection (a)(1) or any obligation of funds under subsection (a)(2) or (a)(3), the President shall notify the appropriate congressional committees (as defined in section 481(e) of the Foreign Assistance Act of 1961 ([22 U.S.C. 2291(e)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2291/e&num=0&edition=prelim))[)] in accordance with the procedures applicable to reprogramming notifications under section 634A of that Act ([22 U.S.C. 2394](./chapter-032-foreign-assistance.md#section-2394)) [[22 U.S.C. 2394–1](./chapter-032-foreign-assistance.md#section-2394-1)]. “(c) Coordination With International Narcotics Control Assistance Program.—Assistance provided pursuant to this section shall be coordinated with international narcotics control assistance under chapter 8 of part 1 of the Foreign Assistance Act of 1961 ([22 U.S.C. 2291](./chapter-032-foreign-assistance.md#section-2291) et seq.).”
 
 Pub. L. 102–583, § 7, Nov. 2, 1992, 106 Stat. 4933, provided for exemption of narcotics-related military assistance for fiscal years 1993 and 1994 from prohibition on assistance for law enforcement agencies, prior to repeal by Pub. L. 103–447, title I, § 103(a), Nov. 2, 1994, 108 Stat. 4693.
+
+#### Delegation of Functions
+For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under [section 2381 of this title](./chapter-032-foreign-assistance.md#section-2381).
 
 #### Assistance to Public Security Forces of El Salvador; Delegation of Functions
 Determination of President of the United States, No. 86–2, Oct. 29, 1985, 50 F.R. 48073, provided:
@@ -17960,7 +17552,7 @@ Ronald Reagan.
 
 (1) **Authorization**
 
-  (A) There are authorized to be appropriated for purposes of this section, in addition to funds otherwise available for such purposes, $48,000,000 for fiscal year 2000 and such sums as may be necessary for each fiscal year thereafter.
+  (A) There are authorized to be appropriated for purposes of this section, in addition to funds otherwise available for such purposes, $79,500,000 for fiscal year 2020 and such sums as may be necessary for each fiscal year thereafter.
 
   (B) Amounts appropriated pursuant to the authorization of appropriations under subparagraph (A) are authorized to remain available until expended.
 
@@ -17976,10 +17568,9 @@ Ronald Reagan.
 
 ### Statutory Notes
 
-#### References to Subchapter I Deemed To Include Certain Parts of Subchapter II
-References to subchapter I of this chapter are deemed to include parts IV (§ 2346 et seq.), VI (§ 2348 et seq.), and VIII (§ 2349aa et seq.) of subchapter II of this chapter, and references to subchapter II are deemed to exclude such parts. See section 202(b) of Pub. L. 92–226, set out as a note under [section 2346 of this title](./chapter-032-foreign-assistance.md#section-2346), and sections 2348c and 2349aa–5 of this title.
-
 #### Amendments
+2019—Pub. L. 116–94 substituted “$79,500,000 for fiscal year 2020” for “$48,000,000 for fiscal year 2000”.
+
 2004—Subsec. (e)(4). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
 
 1999—Subsec. (a). Pub. L. 106–158, § 5(a), inserted before period at end: “, with special emphasis on economic sectors with significant United States export potential, such as energy, transportation, telecommunications, and environment”.
@@ -18012,6 +17603,9 @@ Subsecs. (b) to (d). Pub. L. 100–418, § 2204(b)(2), added subsecs. (b) and (c
 
 1975—Pub. L. 94–161 increased usable funds in fiscal year 1976 to $2,000,000 from $1,000,000 and authorized use of $2,000,000 in fiscal year 1977.
 
+#### References to Subchapter I Deemed To Include Certain Parts of Subchapter II
+References to subchapter I of this chapter are deemed to include parts IV (§ 2346 et seq.), VI (§ 2348 et seq.), and VIII (§ 2349aa et seq.) of subchapter II of this chapter, and references to subchapter II are deemed to exclude such parts. See section 202(b) of Pub. L. 92–226, set out as a note under [section 2346 of this title](./chapter-032-foreign-assistance.md#section-2346), and sections 2348c and 2349aa–5 of this title.
+
 #### Change of Name
 Pub. L. 102–549, title II, § 202(a), (e), Oct. 28, 1992, 106 Stat. 3657, 3658, provided that: “(a) Renaming of Trade and Development Program.—The Trade and Development Program shall, on or after the effective date of this section [Oct. 28, 1992], be known as the Trade and Development Agency. “(e) Reference in Other Laws.—Any reference in any law to the Trade and Development Program shall be deemed to be a reference to the Trade and Development Agency.”
 
@@ -18024,9 +17618,6 @@ Amendment by Pub. L. 96–53 effective Oct. 1, 1979, see section 512(a) of Pub. 
 #### Effective Date of 1978 Amendment
 Amendment by Pub. L. 95–424 effective Oct. 1, 1978, see section 605 of Pub. L. 95–424, set out as a note under [section 2151 of this title](./chapter-032-foreign-assistance.md#section-2151).
 
-#### Delegation of Functions
-For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under [section 2381 of this title](./chapter-032-foreign-assistance.md#section-2381).
-
 #### Appointment of Present Director Not Affected
 Pub. L. 102–549, title II, § 202(b), Oct. 28, 1992, 106 Stat. 3657, provided that: “The enactment of this title [amending this section and [section 5401 of this title](./chapter-063-support-for-east-european-democracy-seed.md#section-5401), [section 5314 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5314&num=0&edition=prelim), Government Organization and Employees, and sections 635q to 635s of Title 12, Banks and Banking, enacting provisions set out as a note above, and amending provisions set out as a note under [section 2151 of this title](./chapter-032-foreign-assistance.md#section-2151)] shall not affect the appointment of the individual who is the Director of the Trade and Development Program on the effective date of this section [Oct. 28, 1992].”
 
@@ -18035,6 +17626,9 @@ Pub. L. 101–179, title III, § 305, Nov. 28, 1989, 103 Stat. 1314, authorized 
 
 #### Trade and Development Program; Reaffirmation of Support
 Pub. L. 100–418, title II, § 2204(a), Aug. 23, 1988, 102 Stat. 1328, provided that: “The Congress reaffirms its support for the Trade and Development Program [now Trade and Development Agency], and believes that the Program’s [Agency’s] ability to support high priority development projects in developing countries would be enhanced by an increase in the funds authorized for the Program as well as by a clarification of the Program’s status as a separate component of the International Development Cooperation Agency.”
+
+#### Delegation of Functions
+For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under [section 2381 of this title](./chapter-032-foreign-assistance.md#section-2381).
 
 
 <a id="section-2421a"></a>
@@ -18301,9 +17895,6 @@ For delegation of functions of President under this section, see Ex. Ord. No. 12
 
 ### Statutory Notes
 
-#### References to Subchapter I Deemed To Include Certain Parts of Subchapter II
-References to subchapter I of this chapter are deemed to include parts IV (§ 2346 et seq.), VI (§ 2348 et seq.), and VIII (§ 2349aa et seq.) of subchapter II of this chapter, and references to subchapter II are deemed to exclude such parts. See section 202(b) of Pub. L. 92–226, set out as a note under [section 2346 of this title](./chapter-032-foreign-assistance.md#section-2346), and sections 2348c and 2349aa–5 of this title.
-
 #### Amendments
 1986—Subsec. (a)(1). Pub. L. 99–529 inserted “, of which $21,750,000 for the fiscal year 1987 is authorized for the necessary operating expenses of the Office of the Inspector General of the Agency for International Development and the remaining amount for the fiscal year is authorized for other necessary operating expenses of that agency”.
 
@@ -18318,6 +17909,9 @@ References to subchapter I of this chapter are deemed to include parts IV (§ 23
 1978—Subsec. (a). Pub. L. 95–424 substituted in provisions preceding par. (1) “1979” for “1978” and in par. (1) “$261,000,000” for “$220,200,000”.
 
 1977—Pub. L. 95–88 substituted provisions authorizing appropriations for fiscal year 1978 for provisions stating that nothing in this chapter was intended to preclude the Committees on Appropriations from setting a ceiling on operating expenses of the agency primarily responsible for administering subchapter I of this chapter or limiting the availability of other sums therefor.
+
+#### References to Subchapter I Deemed To Include Certain Parts of Subchapter II
+References to subchapter I of this chapter are deemed to include parts IV (§ 2346 et seq.), VI (§ 2348 et seq.), and VIII (§ 2349aa et seq.) of subchapter II of this chapter, and references to subchapter II are deemed to exclude such parts. See section 202(b) of Pub. L. 92–226, set out as a note under [section 2346 of this title](./chapter-032-foreign-assistance.md#section-2346), and sections 2348c and 2349aa–5 of this title.
 
 #### Effective Date of 1985 Amendment
 Amendment by Pub. L. 99–83 effective Oct. 1, 1985, see section 1301 of Pub. L. 99–83, set out as a note under [section 2151–1 of this title](./chapter-032-foreign-assistance.md#section-2151-1).
@@ -18583,11 +18177,11 @@ For delegation of functions of President under this section, see section 1 of Ex
 #### References in Text
 Section 321 of the International Development and Food Assistance Act of 1975, referred to in subsec. (a)(3)(B), is section 321 of Pub. L. 94–161, which is set out as a note under [section 2220a of this title](./chapter-032-foreign-assistance.md#section-2220a).
 
-#### References to Subchapter I Deemed To Include Certain Parts of Subchapter II
-References to subchapter I of this chapter are deemed to include parts IV (§ 2346 et seq.), VI (§ 2348 et seq.), and VIII (§ 2349aa et seq.) of subchapter II of this chapter, and references to subchapter II are deemed to exclude such parts. See section 202(b) of Pub. L. 92–226, set out as a note under [section 2346 of this title](./chapter-032-foreign-assistance.md#section-2346), and sections 2348c and 2349aa–5 of this title.
-
 #### Prior Provisions
 A prior section 704 of Pub. L. 87–195, pt. IV, Sept. 4, 1961, 75 Stat. 463, amended [section 1704 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1704&num=0&edition=prelim), Agriculture, prior to repeal by Pub. L. 87–565, pt. IV, § 401, Aug. 1, 1962, 76 Stat. 263, except insofar as section 704 affected section 1704.
+
+#### References to Subchapter I Deemed To Include Certain Parts of Subchapter II
+References to subchapter I of this chapter are deemed to include parts IV (§ 2346 et seq.), VI (§ 2348 et seq.), and VIII (§ 2349aa et seq.) of subchapter II of this chapter, and references to subchapter II are deemed to exclude such parts. See section 202(b) of Pub. L. 92–226, set out as a note under [section 2346 of this title](./chapter-032-foreign-assistance.md#section-2346), and sections 2348c and 2349aa–5 of this title.
 
 #### Delegation of Functions
 For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under [section 2381 of this title](./chapter-032-foreign-assistance.md#section-2381).
@@ -19023,9 +18617,6 @@ This chapter, referred to in section catchline, was in the original “the Forei
 
 Section 321 of the International Development and Food Assistance Act of 1975, referred to in subsec. (a)(3)(B), is section 321 of Pub. L. 94–161, Dec. 20, 1975, 89 Stat. 868, which is set out as a note under [section 2220a of this title](./chapter-032-foreign-assistance.md#section-2220a).
 
-#### References to Subchapter I Deemed To Include Certain Parts of Subchapter II
-References to subchapter I of this chapter are deemed to include parts IV (§ 2346 et seq.), VI (§ 2348 et seq.), and VIII (§ 2349aa et seq.) of subchapter II of this chapter, and references to subchapter II are deemed to exclude such parts. See section 202(b) of Pub. L. 92–226, set out as a note under [section 2346 of this title](./chapter-032-foreign-assistance.md#section-2346), and sections 2348c and 2349aa–5 of this title.
-
 #### Prior Provisions
 A prior section 806 of Pub. L. 87–195, pt. V, was classified to [section 2435 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2435&num=0&edition=prelim) prior to repeal by Pub. L. 94–329.
 
@@ -19043,6 +18634,9 @@ Subsec. (d)(4) to (6). Pub. L. 108–323, § 1, added pars. (4) to (6).
 Subsec. (e). Pub. L. 108–323, § 2, added subsec. (e).
 
 2001—Subsec. (d). Pub. L. 107–26 added subsec. (d).
+
+#### References to Subchapter I Deemed To Include Certain Parts of Subchapter II
+References to subchapter I of this chapter are deemed to include parts IV (§ 2346 et seq.), VI (§ 2348 et seq.), and VIII (§ 2349aa et seq.) of subchapter II of this chapter, and references to subchapter II are deemed to exclude such parts. See section 202(b) of Pub. L. 92–226, set out as a note under [section 2346 of this title](./chapter-032-foreign-assistance.md#section-2346), and sections 2348c and 2349aa–5 of this title.
 
 #### Delegation of Functions
 For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under [section 2381 of this title](./chapter-032-foreign-assistance.md#section-2381).
@@ -19143,13 +18737,13 @@ For delegation of functions of President under subsec. (a) of this section, see 
 
 ### Statutory Notes
 
-#### References to Subchapter I Deemed To Include Certain Parts of Subchapter II
-References to subchapter I of this chapter are deemed to include parts IV (§ 2346 et seq.), VI (§ 2348 et seq.), and VIII (§ 2349aa et seq.) of subchapter II of this chapter, and references to subchapter II are deemed to exclude such parts. See section 202(b) of Pub. L. 92–226, set out as a note under [section 2346 of this title](./chapter-032-foreign-assistance.md#section-2346), and sections 2348c and 2349aa–5 of this title.
-
 #### Amendments
 2019—Subsec. (a)(5)(C). Pub. L. 115–440 added subpar. (C).
 
 2001—Subsec. (a)(1)(D). Pub. L. 107–26 substituted “to be appropriated under sections 2431d(a)(2), 2431e(a)(2), and 2431d(d) of this title” for “to appropriated under sections 2431d(a)(2) and 2431e(a)(2) of this title”.
+
+#### References to Subchapter I Deemed To Include Certain Parts of Subchapter II
+References to subchapter I of this chapter are deemed to include parts IV (§ 2346 et seq.), VI (§ 2348 et seq.), and VIII (§ 2349aa et seq.) of subchapter II of this chapter, and references to subchapter II are deemed to exclude such parts. See section 202(b) of Pub. L. 92–226, set out as a note under [section 2346 of this title](./chapter-032-foreign-assistance.md#section-2346), and sections 2348c and 2349aa–5 of this title.
 
 #### Delegation of Functions
 For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under [section 2381 of this title](./chapter-032-foreign-assistance.md#section-2381).

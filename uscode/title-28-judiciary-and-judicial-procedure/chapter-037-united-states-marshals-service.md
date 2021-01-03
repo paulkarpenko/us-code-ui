@@ -244,7 +244,7 @@ A prior section 569, added Pub. L. 89–554, § 4(c), Sept. 6, 1966, 80 Stat. 62
 1988—Pub. L. 100–690 renumbered [section 576 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section576&num=0&edition=prelim) as this section.
 
 #### Effective Date
-Section 1212 of subpart B (§§ 1211, 1212) of part F of chapter XII of title II of Pub. L. 98–473 provided that: “The amendments made by this subpart [enacting this section] shall take effect on October 1, 1984.”
+Pub. L. 98–473, title II, § 1212, Oct. 12, 1984, 98 Stat. 2163, provided that: “The amendments made by this subpart [subpart B (§§ 1211, 1212) of part F of chapter XII of title II of Pub. L. 98–473, enacting this section] shall take effect on October 1, 1984.”
 
 
 <a id="section-570-571"></a>

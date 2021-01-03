@@ -929,7 +929,7 @@ Pub. L. 99–499, title I, § 124(b), Oct. 17, 1986, 100 Stat. 1689, provided th
 For transfer of certain enforcement functions of Administrator or other official of Environmental Protection Agency under this chapter to Federal Inspector, Office of Federal Inspector for the Alaska Natural Gas Transportation System, and subsequent transfer to Secretary of Energy, then to Federal Coordinator for Alaska Natural Gas Transportation Projects, see note set out under [section 6903 of this title](./chapter-082-solid-waste-disposal.md#section-6903).
 
 #### Ash Management and Disposal
-Pub. L. 101–549, title III, § 306, Nov. 15, 1990, 104 Stat. 2584, provided that: “For a period of 2 years after the date of enactment of the Clean Air Act Amendments of 1990 [Nov. 15, 1990], ash from solid waste incineration units burning municipal waste shall not be regulated by the Administrator of the Environmental Protection Agency pursuant to section 3001 of the Solid Waste Disposal Act [[42 U.S.C. 6921](./chapter-082-solid-waste-disposal.md#section-6921)]. Such reference and limitation shall not be construed to prejudice, endorse or otherwise affect any activity by the Administrator following the 2-year period from the date of enactment of the Clean Air Act Amendments of 1990.”
+Pub. L. 101–549, title III, § 306, Nov. 15, 1990, 104 Stat. 2584, provided that for 2 years after Nov. 15, 1990, ash from solid waste incineration units burning municipal waste would not be regulated by the Administrator of the Environmental Protection Agency pursuant to this section.
 
 #### Small Quantity Generator Waste; Inform and Educate; Waste Generators
 Pub. L. 98–616, title II, § 221(b), Nov. 8, 1984, 98 Stat. 3249, directed Administrator of Environmental Protection Agency to undertake activities to inform and educate waste generators of their responsibilities under subsec. (d) of this section during the period within thirty months after Nov. 8, 1984, to help assure compliance.
@@ -2583,6 +2583,9 @@ Subsec. (g)(2)(D), (E). Pub. L. 114–182, § 10(c)(3)(C), added subpars. (D) an
 
 #### Codification
 Section was enacted as part of the Mercury Export Ban Act of 2008, and not as part of the Solid Waste Disposal Act which comprises this chapter.
+
+#### Deposit of Fees
+Pub. L. 116–94, div. C, title III, § 309, Dec. 20, 2019, 133 Stat. 2681, provided that: “Beginning in fiscal year 2021 and for each fiscal year thereafter, fees collected pursuant to subsection (b)(1) of [section 6939f of title 42](./chapter-082-solid-waste-disposal.md#section-6939f), United States Code, shall be deposited in ‘Department of Energy—Energy Programs—Non-Defense Environmental Cleanup’ as discretionary offsetting collections.”
 
 
 <a id="section-6939g"></a>

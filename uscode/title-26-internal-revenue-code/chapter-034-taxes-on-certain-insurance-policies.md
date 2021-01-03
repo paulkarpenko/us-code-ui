@@ -174,7 +174,12 @@ Pub. L. 85–859, title I, § 141(b), Sept. 2, 1958, 72 Stat. 1304, mandated tha
 
 (2) the percentage increase in the projected per capita amount of National Health Expenditures, as most recently published by the Secretary before the beginning of the fiscal year.
 
-**(e) Termination** This section shall not apply to policy years ending after September 30, 2019.
+**(e) Termination** This section shall not apply to policy years ending after September 30, 2029.
+
+### Statutory Notes
+
+#### Amendments
+2019—Subsec. (e). Pub. L. 116–94 substituted “2029” for “2019”.
 
 
 <a id="section-4376"></a>
@@ -225,12 +230,15 @@ Pub. L. 85–859, title I, § 141(b), Sept. 2, 1958, 72 Stat. 1304, mandated tha
 
 (2) the percentage increase in the projected per capita amount of National Health Expenditures, as most recently published by the Secretary before the beginning of the fiscal year.
 
-**(e) Termination** This section shall not apply to plan years ending after September 30, 2019.
+**(e) Termination** This section shall not apply to plan years ending after September 30, 2029.
 
 ### Statutory Notes
 
 #### References in Text
 Section 3(40) of Employee Retirement Income Security Act of 1974, referred to in subsec. (c)(2)(F), is classified to [section 1002(40) of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1002/40&num=0&edition=prelim), Labor.
+
+#### Amendments
+2019—Subsec. (e). Pub. L. 116–94 substituted “2029” for “2019”.
 
 
 <a id="section-4377"></a>

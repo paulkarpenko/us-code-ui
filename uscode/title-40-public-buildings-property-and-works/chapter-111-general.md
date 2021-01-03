@@ -11,7 +11,7 @@ source: >-
 
 In this subtitle, the following definitions apply:
 
-(1) **Commercial item.—** — The term “commercial item” has the meaning given that term in [section 103 of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section103&num=0&edition=prelim).
+(1) **Commercial product.—** — The term “commercial product” has the meaning given that term in [section 103 of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section103&num=0&edition=prelim).
 
 (2) **Executive agency.—** — The term “executive agency” has the meaning given that term in [section 133 of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section133&num=0&edition=prelim).
 
@@ -34,9 +34,6 @@ In this subtitle, the following definitions apply:
   (C) does not include any equipment acquired by a federal contractor incidental to a federal contract.
 
 ### Statutory Notes
-
-#### Amendment of Paragraph (1)
-Pub. L. 115–232, div. A, title VIII, § 836(g)(7)(A), (h), Aug. 13, 2018, 132 Stat. 1874, provided that, effective Jan. 1, 2020, subject to a savings provision, paragraph (1) of this section is amended by striking “Commercial item.—The term ‘commercial item’ has” and inserting “Commercial product.—The term ‘commercial product’ has”. See 2018 Amendment note below.
 
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |

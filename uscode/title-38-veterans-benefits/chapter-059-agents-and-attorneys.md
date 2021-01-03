@@ -2,7 +2,7 @@
 title: 38
 chapter: '59'
 heading: AGENTS AND ATTORNEYS
-section_count: 5
+section_count: 6
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38&num=0&edition=prelim
 ---
@@ -188,9 +188,6 @@ Pub. L. 102–83, § 4(a)(1), substituted “administered by the Secretary” fo
 
 ### Statutory Notes
 
-#### Applicability of Amendment
-Amendment of section by section 2(n) of Pub. L. 115–55 applicable to all claims for which the Secretary of Veterans Affairs provides notice of a decision under [section 5104 of this title](./chapter-051-claims-effective-dates-and-payments.md#section-5104) on or after the later of 540 days after Aug. 23, 2017, or 30 days after the date on which the Secretary submits to Congress a certification of certain capabilities of the Department of Veterans Affairs to carry out the new appeals system established by Pub. L. 115–55 and to address appeals of decisions on legacy claims, with provision for early applicability of the new appeals system to certain claims. See 2017 Amendment note below.
-
 #### Amendments
 2017—Subsec. (c)(1), (2). Pub. L. 115–55 substituted “claimant is provided notice of the agency of original jurisdiction’s initial decision under [section 5104 of this title](./chapter-051-claims-effective-dates-and-payments.md#section-5104)” for “notice of disagreement is filed”.
 
@@ -263,7 +260,7 @@ Subsec. (d)(2)(A), (3). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Sec
 1986—Subsec. (b). Pub. L. 99–576 substituted “the Administrator” for “he” in introductory text.
 
 #### Effective Date of 2017 Amendment
-Amendment by Pub. L. 115–55 applicable to all claims for which the Secretary of Veterans Affairs provides notice of a decision under [section 5104 of this title](./chapter-051-claims-effective-dates-and-payments.md#section-5104) on or after the later of 540 days after Aug. 23, 2017, or 30 days after the date on which the Secretary submits to Congress a certification of certain capabilities of the Department of Veterans Affairs to carry out the new appeals system established by Pub. L. 115–55 and to address appeals of decisions on legacy claims, with provision for early applicability of the new appeals system to certain claims, see section 2(x) of Pub. L. 115–55, set out as a note under [section 101 of this title](./chapter-001-general.md#section-101).
+Amendment by Pub. L. 115–55 applicable to all claims for which the Secretary of Veterans Affairs provides notice of a decision under [section 5104 of this title](./chapter-051-claims-effective-dates-and-payments.md#section-5104) on or after the later of 540 days after Aug. 23, 2017, or 30 days after the date on which the Secretary submits to Congress a certification of certain capabilities of the Department of Veterans Affairs to carry out the new appeals system established by Pub. L. 115–55 and to address appeals of decisions on legacy claims, with provision for early applicability of the new appeals system to certain claims, see section 2(x) of Pub. L. 115–55, set out as a note under [section 101 of this title](./chapter-001-general.md#section-101), and bracketed note thereunder.
 
 #### Effective Date of 2006 Amendment
 Pub. L. 109–461, title I, § 101(h), Dec. 22, 2006, 120 Stat. 3408, provided that: “The amendments made by subsections (c)(1) and (d) [amending this section] shall take effect on the date that is 180 days after the date of the enactment of this Act [Dec. 22, 2006] and shall apply with respect to services of agents and attorneys that are provided with respect to cases in which notices of disagreement are filed on or after that date.”
@@ -311,3 +308,53 @@ Pub. L. 102–83 substituted “1984” for “784”.
 
 #### Effective Date of 1988 Amendment
 Amendment by Pub. L. 100–687 effective Sept. 1, 1989, see section 401(a) of Pub. L. 100–687, set out as an Effective Date note under [section 7251 of this title](./chapter-072-united-states-court-of-appeals-for-veterans-claims.md#section-7251).
+
+
+<a id="section-5906"></a>
+## § 5906. Availability of legal assistance at Department facilities
+**(a) In General.—** Not less frequently than three times each year, the Secretary shall facilitate the provision by a qualified legal assistance clinic of pro bono legal assistance described in subsection (c) to eligible individuals at not fewer than one medical center of the Department of Veterans Affairs, or such other facility of the Department as the Secretary considers appropriate, in each State.
+
+**(b) Eligible Individuals.—** For purposes of this section, an eligible individual is—
+
+(1) any veteran;
+
+(2) any surviving spouse; or
+
+(3) any child of a veteran who has died.
+
+**(c) Pro Bono Legal Assistance Described.—** The pro bono legal assistance described in this subsection is the following:
+
+(1) Legal assistance with any program administered by the Secretary.
+
+(2) Legal assistance associated with—
+
+  (A) improving the status of a military discharge or characterization of service in the Armed Forces, including through a discharge review board; or
+
+  (B) seeking a review of a military record before a board of correction for military or naval records.
+
+(3) Such other legal assistance as the Secretary—
+
+  (A) considers appropriate; and
+
+  (B) determines may be needed by eligible individuals.
+
+**(d) Limitation on Use of Facilities.—** Space in a medical center or facility designated under subsection (a) shall be reserved for and may only be used by the following, subject to review and removal from participation by the Secretary:
+
+(1) A veterans service organization or other nonprofit organization.
+
+(2) A legal assistance clinic associated with an accredited law school.
+
+(3) A legal services organization.
+
+(4) A bar association.
+
+(5) Such other attorneys and entities as the Secretary considers appropriate.
+
+**(e) Legal Assistance in Rural Areas.—** In carrying out this section, the Secretary shall ensure that pro bono legal assistance is provided under subsection (a) in rural areas.
+
+**(f) Definition of Veterans Service Organization.—** In this section, the term “veterans service organization” means any organization recognized by the Secretary for the representation of veterans under [section 5902 of this title](./chapter-059-agents-and-attorneys.md#section-5902).
+
+### Statutory Notes
+
+#### Pilot Program to Establish and Support Legal Assistance Clinics
+Pub. L. 116–283, div. A, title V, § 548(b)–(e), Jan. 1, 2021, 134 Stat. 3618, provided that: “(b)(1) Pilot program required.—“(A) In general.—Not later than one year after the date of the enactment of this Act [Jan. 1, 2021], the Secretary of Veterans Affairs shall establish a pilot program to assess the feasibility and advisability of awarding grants to eligible entities to establish new legal assistance clinics, or enhance existing legal assistance clinics or other pro bono efforts, for the provision of pro bono legal assistance described in subsection (c) of [section 5906 of title 38](./chapter-059-agents-and-attorneys.md#section-5906), United States Code, as added by subsection (a), on a year-round basis to individuals who served in the Armed Forces, including individuals who served in a reserve component of the Armed Forces, and who were discharged or released therefrom, regardless of the conditions of such discharge or release, at locations other than medical centers and facilities described in subsection (a) of such section. “(B) Rule of construction.—Nothing in subparagraph (A) shall be construed to limit or affect—“(i) the provision of pro bono legal assistance to eligible individuals at medical centers and facilities of the Department of Veterans Affairs under [section 5906(a) of title 38](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section5906/a&num=0&edition=prelim), United States Code, as added by subsection (a); or “(ii) any other legal assistance provided pro bono at medical centers or facilities of the Department as of the date of the enactment of this Act. “(2) Eligible entities.—For purposes of the pilot program, an eligible entity is—“(A) a veterans service organization or other nonprofit organization specifically focused on assisting veterans; “(B) an entity specifically focused on assisting veterans and associated with an accredited law school; “(C) a legal services organization or bar association; or “(D) such other type of entity as the Secretary considers appropriate for purposes of the pilot program. “(3) Locations.—The Secretary shall ensure that at least one grant is awarded under paragraph (1)(A) to at least one eligible entity in each State, if the Secretary determines that there is such an entity in a State that has applied for, and meets requirements for the award of, such a grant. “(4) Duration.—The Secretary shall carry out the pilot program during the five-year period beginning on the date on which the Secretary establishes the pilot program. “(5) Application.—An eligible entity seeking a grant under the pilot program shall submit to the Secretary an application therefore at such time, in such manner, and containing such information as the Secretary may require. “(6) Selection.—The Secretary shall select eligible entities who submit applications under paragraph (5) for the award of grants under the pilot program using a competitive process that takes into account the following:“(A) Capacity of the applicant entity to serve veterans and ability of the entity to provide sound legal advice. “(B) Demonstrated need of the veteran population the applicant entity would serve. “(C) Demonstrated need of the applicant entity for assistance from the grants. “(D) Geographic diversity of applicant entities. “(E) Such other criteria as the Secretary considers appropriate. “(7) Grantee reports.—Each recipient of a grant under the pilot program shall, in accordance with such criteria as the Secretary may establish, submit to the Secretary a report on the activities of the recipient and how the grant amounts were used. “(c) Review of Pro Bono Eligibility of Federal Workers.—“(1) In general.—The Secretary of Veterans Affairs shall, in consultation with the Attorney General and the Director of the Office of Government Ethics, conduct a review of the rules and regulations governing the circumstances under which attorneys employed by the Federal Government can provide pro bono legal assistance. “(2) Recommendations.—In conducting the review required by paragraph (1), the Secretary shall develop recommendations for such legislative or administrative action as the Secretary considers appropriate to facilitate greater participation by Federal employees in pro bono legal and other volunteer services for veterans. “(3) Submittal to congress.—Not later than one year after the date of the enactment of this Act [Jan. 1, 2021], the Secretary shall submit to the appropriate committees of Congress—“(A) the findings of the Secretary with respect to the review conducted under paragraph (1); and “(B) the recommendations developed by the Secretary under paragraph (2). “(d) Report.—Not later than 180 days after the date of the enactment of this Act, the Secretary shall submit to the appropriate committees of Congress a report on the status of the implementation of this section. “(e) Definitions.—In this section:“(1) Appropriate committees of congress.—The term ‘appropriate committees of Congress’ means—“(A) the Committee on Veterans’ Affairs and the Committee on Appropriations of the Senate; and “(B) the Committee on Veterans’ Affairs and the Committee on Appropriations of the House of Representatives. “(2) Veterans service organization.—The term ‘veterans service organization’ means any organization recognized by the Secretary for the representation of veterans under [section 5902 of title 38](./chapter-059-agents-and-attorneys.md#section-5902), United States Code.”

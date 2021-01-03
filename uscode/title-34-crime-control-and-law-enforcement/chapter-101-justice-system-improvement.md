@@ -2,7 +2,7 @@
 title: 34
 chapter: '101'
 heading: JUSTICE SYSTEM IMPROVEMENT
-section_count: 228
+section_count: 234
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34&num=0&edition=prelim
 ---
@@ -27,7 +27,20 @@ Another prior section 101 of Pub. L. 90–351, title I, June 19, 1968, 82 Stat. 
 #### Effective Date
 Pub. L. 98–473, title II, § 609AA, Oct. 12, 1984, 98 Stat. 2107, provided that: “(a) Except as provided in subsection (b), this division and the amendments made by this title [probably means division, see Short Title of 1984 Act note below] shall take effect on the date of the enactment of this joint resolution [Oct. 12, 1984] or October 1, 1984, whichever is later. “(b)(1) The amendment made by section 609F [amending sections 10281, 10282, 10284, and 10285 of this title] shall take effect on October 1, 1984, and shall not apply with respect to injuries sustained before October 1, 1984. “(2) Section 609Z [repealing section 204 of Pub. L. 98–411, which had amended sections 10281, 10282, and 10284 of this title and enacted provisions set out as a note under [section 10281 of this title](./chapter-101-justice-system-improvement.md#section-10281)] shall take effect on October 1, 1984.”
 
+#### Short Title of 2020 Amendment
+Pub. L. 116–281, § 1, Dec. 31, 2020, 134 Stat. 3381, provided that: “This Act [enacting subchapter XLI of this chapter] may be cited as the ‘Crisis Stabilization and Community Reentry Act of 2020’.”
+
+Pub. L. 116–277, § 1, Dec. 31, 2020, 134 Stat. 3368, provided that: “This Act [enacting sections 40501, 40503, and 40505 of this title and [section 224 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section224&num=0&edition=prelim), Domestic Security, amending [section 40502 of this title](./chapter-405-reporting-of-unidentified-and-missing-persons.md#section-40502) and [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim), repealing sections 40501 and 40503 of this title, and amending provisions set out as a note under [section 40504 of this title](./chapter-405-reporting-of-unidentified-and-missing-persons.md#section-40504)] may be cited as the ‘Missing Persons and Unidentified Remains Act of 2019’.”
+
+Pub. L. 116–252, § 1, Dec. 22, 2020, 134 Stat. 1133, provided that: “This Act [amending [section 21711 of this title](./chapter-217-elder-abuse-prevention-and-prosecution.md#section-21711) and enacting provisions set out as notes under [section 21711 of this title](./chapter-217-elder-abuse-prevention-and-prosecution.md#section-21711)] may be cited as the ‘Promoting Alzheimer’s Awareness to Prevent Elder Abuse Act’.”
+
+Pub. L. 116–153, § 1, Aug. 8, 2020, 134 Stat. 688, provided that: “This Act [enacting [section 10651a of this title](./chapter-101-justice-system-improvement.md#section-10651a)] may be cited as the ‘Veteran Treatment Court Coordination Act of 2019’.”
+
+Pub. L. 116–143, § 1, June 16, 2020, 134 Stat. 644, provided that: “This Act [enacting chapter 507 of this title] may be cited as the ‘Law Enforcement Suicide Data Collection Act’.”
+
 #### Short Title of 2019 Amendment
+Pub. L. 116–104, § 1, Dec. 30, 2019, 133 Stat. 3272, provided that: “This Act [amending sections 40701, 40722, and 40723 of this title] may be cited as the ‘Debbie Smith Reauthorization Act of 2019’.”
+
 Pub. L. 116–69, div. B, title VII, § 1701(a), Nov. 21, 2019, 133 Stat. 1140, provided that: “This section [amending [section 20144 of this title](./chapter-201-victim-rights-compensation-and-assistance.md#section-20144) and enacting provisions set out as notes under [section 20144 of this title](./chapter-201-victim-rights-compensation-and-assistance.md#section-20144)] may be cited as the ‘United States Victims of State Sponsored Terrorism Fund Clarification Act’.”
 
 Pub. L. 116–32, § 1, July 25, 2019, 133 Stat. 1036, provided that: “This Act [amending sections 10261 and 10491 to 10493 of this title] may be cited as the ‘Supporting and Treating Officers In Crisis Act of 2019’.”
@@ -1060,6 +1073,9 @@ Amendment by Pub. L. 98–473 effective Oct. 12, 1984, see section 609AA(a) of P
 Pub. L. 111–211, title II, § 251(c), July 29, 2010, 124 Stat. 2298, provided that: “Nothing in this section [amending this section and [section 41507 of this title](./chapter-415-resource-centers-task-forces-databases-and-programs.md#section-41507)] or any amendment made by this section— “(1) allows the grant to be made to, or used by, an entity for law enforcement activities that the entity lacks jurisdiction to perform; or “(2) has any effect other than to authorize, award, or deny a grant of funds to a federally recognized Indian tribe for the purposes described in the relevant grant program.”
 
 [For definition of “Indian tribe” as used in section 251(c) of Pub. L. 111–211, set out above, see section 203(a) of Pub. L. 111–211, set out as a note under [section 2801 of Title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section2801&num=0&edition=prelim), Indians.]
+
+#### Report on Employment of Individuals Formerly Incarcerated in Federal Prisons
+Pub. L. 116–92, div. A, title XI, § 1124, Dec. 20, 2019, 133 Stat. 1614, provided that: “(a) Definition.—In this section, the term ‘covered individual’—“(1) means an individual who has completed a term of imprisonment in a Federal prison for a Federal criminal offense; and “(2) does not include an alien who is or will be removed from the United States for a violation of the immigration laws (as such term is defined in section 101 of the Immigration and Nationality Act ([8 U.S.C. 1101](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1101&num=0&edition=prelim))). “(b) Study and Report Required.—The Director of the Bureau of Justice Statistics, in coordination with the Director of the Bureau of the Census, shall—“(1) not later than 180 days after the date of enactment of this subtitle [subtitle B of title XI of div. A of Pub. L. 116–92, approved Dec. 20, 2019], design and initiate a study on the employment of covered individuals after their release from Federal prison, including by collecting—“(A) demographic data on covered individuals, including race, age, and sex; and “(B) data on employment and earnings of covered individuals who are denied employment, including the reasons for the denials; and “(2) not later than 2 years after the date of enactment of this subtitle, and every 5 years thereafter, submit a report that does not include any personally identifiable information on the study conducted under paragraph (1) to—“(A) the Committee on Homeland Security and Governmental Affairs of the Senate; “(B) the Committee on Health, Education, Labor, and Pensions of the Senate; “(C) the Committee on Oversight and Reform of the House of Representatives; and “(D) the Committee on Education and Labor of the House of Representatives.”
 
 #### Data Collection
 Pub. L. 115–391, title VI, § 610, Dec. 21, 2018, 132 Stat. 5245, provided that: “(a) National Prisoner Statistics Program.—Beginning not later than 1 year after the date of enactment of this Act [Dec. 21, 2018], and annually thereafter, pursuant to the authority under section 302 of the Omnibus Crime Control and Safe Streets Act of 1968 ([42 U.S.C. 3732](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3732&num=0&edition=prelim)) [now [34 U.S.C. 10132](./chapter-101-justice-system-improvement.md#section-10132)], the Director of the Bureau of Justice Statistics, with information that shall be provided by the Director of the Bureau of Prisons, shall include in the National Prisoner Statistics Program the following:“(1) The number of prisoners (as such term is defined in [section 3635 of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section3635&num=0&edition=prelim), United States Code, as added by section 101(a) of this Act) who are veterans of the Armed Forces of the United States. “(2) The number of prisoners who have been placed in solitary confinement at any time during the previous year. “(3) The number of female prisoners known by the Bureau of Prisons to be pregnant, as well as the outcomes of such pregnancies, including information on pregnancies that result in live birth, stillbirth, miscarriage, abortion, ectopic pregnancy, maternal death, neonatal death, and preterm birth. “(4) The number of prisoners who volunteered to participate in a substance abuse treatment program, and the number of prisoners who have participated in such a program. “(5) The number of prisoners provided medication-assisted treatment with medication approved by the Food and Drug Administration while in custody in order to treat substance use disorder. “(6) The number of prisoners who were receiving medication-assisted treatment with medication approved by the Food and Drug Administration prior to the commencement of their term of imprisonment. “(7) The number of prisoners who are the parent or guardian of a minor child. “(8) The number of prisoners who are single, married, or otherwise in a committed relationship. “(9) The number of prisoners who have not achieved a GED, high school diploma, or equivalent prior to entering prison. “(10) The number of prisoners who, during the previous year, received their GED or other equivalent certificate while incarcerated. “(11) The numbers of prisoners for whom English is a second language. “(12) The number of incidents, during the previous year, in which restraints were used on a female prisoner during pregnancy, labor, or postpartum recovery, as well as information relating to the type of restraints used, and the circumstances under which each incident occurred. “(13) The vacancy rate for medical and healthcare staff positions, and average length of such a vacancy. “(14) The number of facilities that operated, at any time during the previous year, without at least 1 clinical nurse, certified paramedic, or licensed physician on site. “(15) The number of facilities that during the previous year were accredited by the American Correctional Association. “(16) The number and type of recidivism reduction partnerships described in [section 3621(h)(5) of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section3621/h/5&num=0&edition=prelim), United States Code, as added by section 102(a) of this Act, entered into by each facility. “(17) The number of facilities with remote learning capabilities. “(18) The number of facilities that offer prisoners video conferencing. “(19) Any changes in costs related to legal phone calls and visits following implementation of [section 3632(d)(1) of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section3632/d/1&num=0&edition=prelim), United States Code, as added by section 101(a) of this Act. “(20) The number of aliens in prison during the previous year. “(21) For each Bureau of Prisons facility, the total number of violations that resulted in reductions in rewards, incentives, or time credits, the number of such violations for each category of violation, and the demographic breakdown of the prisoners who have received such reductions. “(22) The number of assaults on Bureau of Prisons staff by prisoners and the number of criminal prosecutions of prisoners for assaulting Bureau of Prisons staff. “(23) The capacity of each recidivism reduction program and productive activity to accommodate eligible inmates at each Bureau of Prisons facility. “(24) The number of volunteers who were certified to volunteer in a Bureau of Prisons facility, broken down by level (level I and level II), and by each Bureau of Prisons facility. “(25) The number of prisoners enrolled in recidivism reduction programs and productive activities at each Bureau of Prisons facility, broken down by risk level and by program, and the number of those enrolled prisoners who successfully completed each program. “(26) The breakdown of prisoners classified at each risk level by demographic characteristics, including age, sex, race, and the length of the sentence imposed. “(b) Report to Judiciary Committees.—Beginning not later than 1 year after the date of enactment of this Act [Dec. 21, 2018], and annually thereafter for a period of 7 years, the Director of the Bureau of Justice Statistics shall submit a report containing the information described in paragraphs (1) through (26) of subsection (a) to the Committee on the Judiciary of the Senate and the Committee on the Judiciary of the House of Representatives.”
@@ -3342,6 +3358,9 @@ Pub. L. 100–690, title VI, § 6105(e), Nov. 18, 1988, 102 Stat. 4341, provided
 #### Effective Date
 Subchapter effective Oct. 1, 1984, and inapplicable with respect to injuries sustained before Oct. 1, 1984, see section 609AA(b)(1) of Pub. L. 98–473, set out as a note under [section 10101 of this title](./chapter-101-justice-system-improvement.md#section-10101).
 
+#### Safeguarding America’s First Responders
+Pub. L. 116–157, Aug. 14, 2020, 134 Stat. 704, provided that: “SECTION 1. SHORT TITLE.“This Act may be cited as the ‘Safeguarding America’s First Responders Act of 2020’. “SEC. 2. SENSE OF CONGRESS; PURPOSE.“(a) Sense of Congress.—It is the sense of Congress that—“(1) an infectious disease pandemic known as COVID–19 exists; “(2) to date, there is much still unknown about COVID–19, but it is known that COVID–19 and related complications may be fatal; “(3) services provided by public safety officers are nonetheless essential during this pandemic; “(4) due to the COVID–19 pandemic and what is currently known about how the disease is spread, public safety officers are uncharacteristically at risk of contracting the disease; and “(5) although the Public Safety Officers’ Benefits program currently covers deaths and permanent and total disabilities resulting from infectious disease sustained by public safety officers in carrying out their duties, the determination of claims involving personal injuries believed to have resulted from COVID–19 or its complications may be uniquely challenging or delayed given the lack of—“(A) definitive testing and medical records at this time; and “(B) a definitive uniform body of medical information about how the disease is spread or its effects. “(b) Purpose.—The purpose of this Act is to establish a carefully drawn framework wherein claims under the Public Safety Officers’ Benefits program, arising under the unique circumstances described in subsection (a), can be processed expeditiously and under fair and clear standards. “SEC. 3. PUBLIC SAFETY OFFICER BENEFITS.“(a) Death Benefits.—As determined by the Bureau of Justice Assistance, unless competent medical evidence establishes that the death of a public safety officer (as defined in section 1204 of title I of the Omnibus Crime Control and Safe Streets Act of 1968 ([34 U.S.C. 10284](./chapter-101-justice-system-improvement.md#section-10284))) was directly and proximately caused by something other than COVID–19, COVID–19 (or complications therefrom) suffered by the public safety officer shall be presumed to constitute a personal injury within the meaning of section 1201(a) of title I of the Omnibus Crime Control and Safe Streets Act of 1968 ([34 U.S.C. 10281(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section10281/a&num=0&edition=prelim)), sustained in the line of duty by the officer and directly and proximately resulting in death, if—“(1) the officer engaged in a line of duty action or activity between January 1, 2020, and December 31, 2021; “(2) the officer was diagnosed with COVID–19 (or evidence indicates that the officer had COVID–19) during the 45-day period beginning on the last day of duty of the officer; and “(3) evidence indicates that the officer had COVID–19 (or complications therefrom) at the time of the officer’s death. “(b) Disability Benefits.—As determined by the Bureau of Justice Assistance, COVID–19 (or complications therefrom) suffered by a public safety officer shall be presumed to constitute a personal injury within the meaning of section 1201(b) of title I of the Omnibus Crime Control and Safe Streets Act of 1968 ([34 U.S.C. 10281(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section10281/b&num=0&edition=prelim)), sustained in the line of duty by the officer, if—“(1) the officer engaged in a line of duty action or activity between January 1, 2020, and December 31, 2021; and “(2) the officer was diagnosed with COVID–19 (or evidence indicates that the officer had COVID–19) during the 45-day period beginning on the last day of duty of the officer.”
+
 
 <a id="section-10282"></a>
 ## § 10282. Limitations on benefits
@@ -3477,18 +3496,32 @@ As used in this subchapter—
 
     (ii) are determined by the head of the agency to be hazardous duties;
 
-  (D) a member of a rescue squad or ambulance crew who, as authorized or licensed by law and by the applicable agency or entity, is engaging in rescue activity or in the provision of emergency medical services; or
+  (D) a member of a rescue squad or ambulance crew who, as authorized or licensed by law and by the applicable agency or entity, is engaging in rescue activity or in the provision of emergency medical services;
 
   (E) an individual appointed to the National Disaster Medical System under [section 300hh–11 of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section300hh–11&num=0&edition=prelim) who is performing official duties of the Department of Health and Human Services, if those official duties are—
 
     (i) related to responding to a public health emergency or potential public health emergency, or other activities for which the Secretary of Health and Human Services has activated such National Disaster Medical System; and
 
-    (ii) determined by the Secretary of Health and Human Services to be hazardous.
+    (ii) determined by the Secretary of Health and Human Services to be hazardous; or
+
+  (F) an employee or contractor of the Department of Energy who—
+
+    (i) is—
+
+      (I) a nuclear materials courier (as defined in [section 8331(27) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section8331/27&num=0&edition=prelim)); or
+
+      (II) designated by the Secretary of Energy as a member of an emergency response team; and
+
+    (ii) is performing official duties of the Department, pursuant to a deployment order issued by the Secretary, to protect the public, property, or the interests of the United States by—
+
+      (I) assessing, locating, identifying, securing, rendering safe, or disposing of weapons of mass destruction (as defined in [section 2302 of title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section2302&num=0&edition=prelim)); or
+
+      (II) managing the immediate consequences of a radiological release or exposure.
 
 ### Statutory Notes
 
 #### Amendment of Section
-For termination of amendment by section 301(d)(2) of Pub. L. 116–22, see Termination Date of 2019 Amendment note below.
+For termination of amendment by section 301(d)(3) of Pub. L. 116–22, see Termination Date of 2019 Amendment note below.
 
 #### References in Text
 The Robert T. Stafford Disaster Relief and Emergency Assistance Act, referred to in par. (9), is Pub. L. 93–288, May 22, 1974, 88 Stat. 143, which is classified principally to chapter 68 (§ 5121 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 5121 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5121&num=0&edition=prelim) and Tables.
@@ -3502,6 +3535,8 @@ Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
 A prior section 1204 of Pub. L. 90–351 was renumbered section 1205 and is classified to [section 10285 of this title](./chapter-101-justice-system-improvement.md#section-10285).
 
 #### Amendments
+2021—Par. (9)(F). Pub. L. 116–283 added subpar. (F).
+
 2019—Par. (9)(E). Pub. L. 116–22, § 301(d)(2), (3), temporarily added subpar. (E). See Termination Date of 2019 Amendment note below.
 
 2013—Par. (1). Pub. L. 112–239, § 1086(b)(1)(E)(i), substituted “an injury, the direct and proximate consequences of which” for “consequences of an injury that”.
@@ -6224,9 +6259,13 @@ Section not effective until the beginning of fiscal year 2007, see section 4 of 
 
 (8) provide legal assistance necessary to provide effective aid to victims of domestic violence, dating violence, stalking, sex trafficking, or sexual assault who are seeking relief in legal matters arising as a consequence of that abuse or violence, at minimal or no cost to the victims;
 
-(9) provide services to address the needs of youth who are victims of domestic violence, dating violence, sexual assault, sex trafficking, or stalking and the needs of youth and children exposed to domestic violence, dating violence, sexual assault, or stalking, including support for the nonabusing parent or the caretaker of the youth or child; and
+(9) provide services to address the needs of youth who are victims of domestic violence, dating violence, sexual assault, sex trafficking, or stalking and the needs of youth and children exposed to domestic violence, dating violence, sexual assault, or stalking, including support for the nonabusing parent or the caretaker of the youth or child;
 
-(10) develop and promote legislation and policies that enhance best practices for responding to violent crimes against Indian women, including the crimes of domestic violence, dating violence, sexual assault, sex trafficking, and stalking.
+(10) develop and promote legislation and policies that enhance best practices for responding to violent crimes against Indian women, including the crimes of domestic violence, dating violence, sexual assault, sex trafficking, and stalking;
+
+(11) develop, strengthen, and implement policies, protocols, and training for law enforcement regarding cases of missing or murdered Indians, as described in [section 5704 of title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5704&num=0&edition=prelim); and
+
+(12) compile and annually report data to the Attorney General related to missing or murdered Indians, as described in [section 5705 of title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5705&num=0&edition=prelim).
 
 **(b) Collaboration** All applicants under this section shall demonstrate their proposal was developed in consultation with a nonprofit, nongovernmental Indian victim services program, including sexual assault and domestic violence victim services providers in the tribal or local community, or a nonprofit tribal domestic violence and sexual assault coalition to the extent that they exist. In the absence of such a demonstration, the applicant may meet the requirement of this subsection through consultation with women in the community to be served.
 
@@ -6236,6 +6275,8 @@ Section not effective until the beginning of fiscal year 2007, see section 4 of 
 Section was formerly classified to [section 3796gg–10 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3796gg–10&num=0&edition=prelim), The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
 
 #### Amendments
+2020—Subsec. (a)(11), (12). Pub. L. 116–165, which directed addition of pars. (11) and (12) to this section, was executed by making the addition to subsec. (a) of this section to reflect the probable intent of Congress.
+
 2013—Subsec. (a)(2). Pub. L. 113–4, § 901(1), inserted “sex trafficking,” after “sexual assault,”.
 
 Subsec. (a)(4). Pub. L. 113–4, § 901(2), inserted “sex trafficking,” after “sexual assault,”.
@@ -6384,6 +6425,10 @@ Section not effective until the beginning of fiscal year 2007, see section 4 of 
 
   (C) providing ongoing victim advocacy and referrals to comprehensive services including legal, housing, health care, and economic assistance.
 
+(23) To develop, strengthen, and implement policies, protocols, and training for law enforcement regarding cases of missing or murdered Indians, as described in [section 5704 of title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5704&num=0&edition=prelim).
+
+(24) To compile and annually report data to the Attorney General related to missing or murdered Indians, as described in [section 5705 of title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5705&num=0&edition=prelim).
+
 **(c) Eligibility** Eligible grantees are—
 
 (1) States, Indian tribal governments 1 State and local courts (including juvenile courts), or units of local government that—
@@ -6446,6 +6491,8 @@ Section was formerly classified to [section 3796hh of Title 42](https://uscode.h
 A prior section 2101 of Pub. L. 90–351 was renumbered section 2601 and is classified to [section 10541 of this title](./chapter-101-justice-system-improvement.md#section-10541).
 
 #### Amendments
+2020—Subsec. (b)(23), (24). Pub. L. 116–165 added pars. (23) and (24).
+
 2013—Subsec. (b). Pub. L. 113–4, § 102(a)(1)(A)(i), in introductory provisions, substituted “grantees” for “States, Indian tribal governments State, tribal, territorial, and local courts (including juvenile courts),, or units of local government”.
 
 Subsec. (b)(1). Pub. L. 113–4, § 102(a)(1)(A)(ii), inserted “and enforcement of protection orders across State and tribal lines” before period at end.
@@ -9569,6 +9616,26 @@ Pub. L. 108–414, § 2, Oct. 30, 2004, 118 Stat. 2327, provided that: “Congre
 Pub. L. 108–414, § 3, Oct. 30, 2004, 118 Stat. 2328, provided that: “The purpose of this Act [see Short Title of 2004 Act note set out under [section 10101 of this title](./chapter-101-justice-system-improvement.md#section-10101)] is to increase public safety by facilitating collaboration among the criminal justice, juvenile justice, mental health treatment, and substance abuse systems. Such collaboration is needed to— “(1) protect public safety by intervening with adult and juvenile offenders with mental illness or co-occurring mental illness and substance abuse disorders; “(2) provide courts, including existing and new mental health courts, with appropriate mental health and substance abuse treatment options; “(3) maximize the use of alternatives to prosecution through graduated sanctions in appropriate cases involving nonviolent offenders with mental illness; “(4) promote adequate training for criminal justice system personnel about mental illness and substance abuse disorders and the appropriate responses to people with such illnesses; “(5) promote adequate training for mental health and substance abuse treatment personnel about criminal offenders with mental illness or co-occurring substance abuse disorders and the appropriate response to such offenders in the criminal justice system; “(6) promote communication among adult or juvenile justice personnel, mental health and co-occurring mental illness and substance abuse disorders treatment personnel, nonviolent offenders with mental illness or co-occurring mental illness and substance abuse disorders, and support services such as housing, job placement, community, faith-based, and crime victims organizations; and “(7) promote communication, collaboration, and intergovernmental partnerships among municipal, county, and State elected officials with respect to mentally ill offenders.”
 
 
+<a id="section-10651a"></a>
+## § 10651a. Veteran Treatment Court Program
+**(a) Establishment** Subject to the availability of appropriations, in coordination with the Secretary of Veterans Affairs, the Attorney General shall establish and carry out a Veteran Treatment Court Program to provide grants and technical assistance to court systems that—
+
+(1) have adopted a Veterans Treatment Court Program; or
+
+(2) have filed a notice of intent to establish a Veterans Treatment Court Program with the Secretary.
+
+**(b) Purpose** The purpose of the Veterans Treatment Court Program established under subsection (a) is to ensure the Department of Justice has a single office to coordinate the provision of grants, training, and technical assistance to help State, local, and Tribal governments to develop and maintain veteran treatment courts.
+
+**(c) Programs included** The Veterans Treatment Court Program established under subsection (a) shall include the grant programs relating to veterans treatment courts carried out by the Attorney General pursuant to sections 10651 and 10701 of this title or any other provision of law.
+
+**(d) Regulations** The Attorney General shall promulgate regulations to carry out this section.
+
+### Statutory Notes
+
+#### Codification
+Section was enacted as part of the Veteran Treatment Court Coordination Act of 2019, and not as part of the Omnibus Crime Control and Safe Streets Act of 1968 which comprises this chapter.
+
+
 <a id="section-10652"></a>
 ## § 10652. National criminal justice and mental health training and technical assistance
 **(a) Authority** The Attorney General may make grants to eligible organizations to provide for the establishment of a National Criminal Justice and Mental Health Training and Technical Assistance Center.
@@ -9755,7 +9822,7 @@ Section was formerly classified to [section 3797cc–2 of Title 42](https://usco
 
 (2) **Criminal justice agency** — The term “criminal justice agency” means an agency of the State, territory, Indian tribe, or local government or its contracted agency that is responsible for detection, arrest, enforcement, prosecution, defense, adjudication, incarceration, probation, or parole relating to the violation of the criminal laws of that State, territory, Indian tribe, or local government.
 
-  (C) *22 So in original. Probably should be par. “(3)”. Indian tribe* — The term “Indian tribe” has the meaning given the term in [section 10554 of this title](./chapter-101-justice-system-improvement.md#section-10554).
+(C) **22 So in original. Probably should be par. “(3)”. Indian tribe** — The term “Indian tribe” has the meaning given the term in [section 10554 of this title](./chapter-101-justice-system-improvement.md#section-10554).
 
 **(c) Applications**
 
@@ -10336,3 +10403,105 @@ The Director of the Bureau of Justice Assistance shall promulgate such rules and
 **(c) Best practices** Not later than 180 days after December 21, 2018, the Attorney General shall identify and publish best practices relating to academic and vocational education for offenders in prisons, jails, and juvenile facilities. The best practices shall consider the evaluations performed and recommendations made under grants made under subsection (a) before December 21, 2018.
 
 **(d) Report** Not later than 90 days after the last day of the final fiscal year of a grant under this subchapter, each entity described in subsection (a) receiving such a grant shall submit to the Attorney General a detailed report of the progress made by the entity using such grant, to permit the Attorney General to evaluate and improve academic and vocational education methods carried out with grants under this subchapter.
+
+
+<a id="section-10751"></a>
+## § 10751. Grant authorization
+**(a) In general** The Attorney General may make grants under this subchapter to States, Indian Tribes, units of local government, and community-based nonprofit organizations for the purpose of providing clinical services for people with serious mental illness and substance use disorders that establish treatment, suicide prevention, and continuity of recovery in the community upon release from the correctional facility.
+
+**(b) Use of funds** A grant awarded under this subchapter shall be used to support—
+
+(1) programs involving criminal and juvenile justice agencies, mental health agencies, community-based organizations that focus on reentry, and community-based behavioral health providers that improve clinical stabilization during pre-trial detention and incarceration and continuity of care leading to recovery in the community by providing services and supports that may include peer support services, enrollment in healthcare, and introduction to long-acting injectable medications or, as clinically indicated, other medications, by—
+
+  (A) providing training and education for criminal and juvenile justice agencies, mental health agencies, and community-based behavioral health providers on interventions that support—
+
+    (i) engagement in recovery supports and services;
+
+    (ii) access to medication while in an incarcerated setting; and
+
+    (iii) continuity of care during reentry into the community;
+
+  (B) ensuring that individuals with serious mental illness are provided appropriate access to evidence-based recovery supports that may include peer support services, medication (including long-acting injectable medications where clinically appropriate), and psycho-social therapies;
+
+  (C) offering technical assistance to criminal justice agencies on how to modify their administrative and clinical processes to accommodate evidence-based interventions, such as long-acting injectable medications and other recovery supports; and
+
+  (D) participating in data collection activities specified by the Attorney General, in consultation with the Secretary of Health and Human Services;
+
+(2) programs that support cooperative efforts between criminal and juvenile justice agencies, mental health agencies, and community-based behavioral health providers to establish or enhance serious mental illness recovery support by—
+
+  (A) strengthening or establishing crisis response services delivered by hotlines, mobile crisis teams, crisis stabilization and triage centers, peer support specialists, public safety officers, community-based behavioral health providers, and other stakeholders, including by providing technical support for interventions that promote long-term recovery;
+
+  (B) engaging criminal and juvenile justice agencies, mental health agencies and community-based behavioral health providers, preliminary qualified offenders, and family and community members in program design, program implementation, and training on crisis response services, including connection to recovery services and supports;
+
+  (C) examining health care reimbursement issues that may pose a barrier to ensuring the long-term financial sustainability of crisis response services and interventions that promote long-term engagement with recovery services and supports; and
+
+  (D) participating in data collection activities specified by the Attorney General, in consultation with the Secretary of Health and Human Services; and
+
+(3) programs that provide training and additional resources to criminal and juvenile justice agencies, mental health agencies, and community-based behavioral health providers on serious mental illness, suicide prevention strategies, recovery engagement strategies, and the special health and social needs of justice-involved individuals who are living with serious mental illness.
+
+**(c) Consultation** The Attorney General shall consult with the Secretary of Health and Human Services to ensure that serious mental illness treatment and recovery support services provided under this grant program incorporate evidence-based approaches that facilitate long-term engagement in recovery services and supports.
+
+**(d) Behavioral health provider defined** In this section, the term “behavioral health provider” means—
+
+(1) a community mental health center that meets the criteria under [section 300x–2(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section300x–2/c&num=0&edition=prelim); or
+
+(2) a certified community behavioral health clinic described in section 223(d) of the Protecting Access to Medicare Act of 2014 ([42 U.S.C. 1396a](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1396a&num=0&edition=prelim) note).
+
+### Statutory Notes
+
+#### References in Text
+Section 223(d) of the Protecting Access to Medicare Act of 2014, referred to in subsec. (d)(2), is section 223(d) of Pub. L. 113–93, which is set out as a note under [section 1396a of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1396a&num=0&edition=prelim), The Public Health and Welfare.
+
+
+<a id="section-10752"></a>
+## § 10752. Applications
+**(a) In general** To request a grant under this subchapter, the chief executive of a State, Indian Tribe, unit of local government, or community-based non-profit organization shall submit an application to the Attorney General—
+
+(1) in such form and containing such information as the Attorney General may reasonably require;
+
+(2) that includes assurances that Federal funds received under this subchapter shall be used to supplement, not supplant, non-Federal funds that would otherwise be available for activities funded under this subchapter; and
+
+(3) that describes the coordination between State, Tribal, or local criminal and juvenile justice agencies, mental health agencies and community-based behavioral health providers, preliminary qualified offenders, and family and community members in—
+
+  (A) program design;
+
+  (B) program implementation; and
+
+  (C) training on crisis response, medication adherence, and continuity of recovery in the community.
+
+**(b) Eligibility for preference with community care component**
+
+(1) **In general** — In awarding grants under this subchapter, the Attorney General shall give preference to a State, Indian Tribe, unit of local government, or community-based nonprofit organization that ensures that individuals who participate in a program, funded by a grant under this subchapter will be provided with continuity of care, in accordance with paragraph (2), in a community care provider program upon release from a correctional facility and adopt policies that focus on programming, strategies, and educational components for reducing recidivism and probation violations.
+
+(2) **Requirements** — For purposes of paragraph (1), the continuity of care shall involve the coordination of the correctional facility treatment program with qualified community behavioral health providers and other recovery supports, pre-trial release programs, parole supervision programs, half-way house programs, and participation in peer recovery group programs, which may aid in ongoing recovery after the individual is released from the correctional facility.
+
+(3) **Community care provider program defined** — For purposes of this subsection, the term “community care provider program” means a community mental health center or certified community behavioral health clinic that directly provides to an individual, or assists in connecting an individual to the provision of, appropriate community-based treatment, medication management, and other recovery supports, when the individual leaves a correctional facility at the end of a sentence or on parole.
+
+**(c) Coordination of Federal assistance** Each application submitted for a grant under this subchapter shall include a description of how the funds made available under this subchapter will be coordinated with Federal assistance for behavioral health services currently provided by the Department of Health and Human Services’ Substance Abuse and Mental Health Services Administration.
+
+
+<a id="section-10753"></a>
+## § 10753. Review of applications
+**(a) In general** The Attorney General shall make a grant under [section 10751 of this title](./chapter-101-justice-system-improvement.md#section-10751) to carry out the projects described in the application submitted under [section 10752 of this title](./chapter-101-justice-system-improvement.md#section-10752) upon determining that—
+
+(1) the application is consistent with the requirements of this subchapter; and
+
+(2) before the approval of the application, the Attorney General has made an affirmative finding in writing that the proposed project has been reviewed in accordance with this subchapter.
+
+**(b) Approval** Each application submitted under [section 10752 of this title](./chapter-101-justice-system-improvement.md#section-10752) shall be considered approved, in whole or in part, by the Attorney General not later than 90 days after first received, unless the Attorney General informs the applicant of specific reasons for disapproval.
+
+**(c) Restriction** Grant funds received under this subchapter shall not be used for land acquisition or construction projects.
+
+**(d) Disapproval notice and reconsideration** The Attorney General may not disapprove any application without first affording the applicant reasonable notice and an opportunity for reconsideration.
+
+
+<a id="section-10754"></a>
+## § 10754. Evaluation
+
+Each State, Indian Tribe, unit of local government, or community-based nonprofit organization that receives a grant under this subchapter shall submit to the Attorney General an evaluation not later than 1 year after receipt of the grant in such form and containing such information as the Attorney General, in consultation with the Secretary of Health and Human Services, may reasonably require.
+
+
+<a id="section-10755"></a>
+## § 10755. Authorization of funding
+
+Subject to the availability of appropriations, for purposes of carrying out this subchapter, the Attorney General is authorized to award not more than $10,000,000 of funds appropriated to the Department of Justice for these purposes for each of fiscal years 2021 through 2025.

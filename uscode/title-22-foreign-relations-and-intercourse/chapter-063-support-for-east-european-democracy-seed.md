@@ -115,7 +115,7 @@ The Foreign Assistance Act of 1961, referred to in subsec. (b)(1), is Pub. L. 87
 
 (11) **Normal trade relations** — The granting of temporary or permanent nondiscriminatory treatment to the products of an East European country through the application of the criteria and procedures established by [section 2432 of title 19](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section2432&num=0&edition=prelim) (commonly referred to as the “Jackson-Vanik amendment”).
 
-(12) **Overseas Private Investment Corporation** — Programs of the Overseas Private Investment Corporation.
+(12) **United States International Development Finance Corporation** — Programs of the United States International Development Finance Corporation.
 
 (13) **Export-Import Bank programs** — Programs of the Export-Import Bank of the United States.
 
@@ -144,15 +144,6 @@ The Foreign Assistance Act of 1961, referred to in subsec. (b)(1), is Pub. L. 87
 (25) **Encouragement for private investment and voluntary assistance** — Encouraging private investment and voluntary private assistance, using a variety of means including a SEED Information Center System and the provision by the Department of Defense of transportation for private nonfinancial contributions.
 
 ### Statutory Notes
-
-#### Amendment of Subsection (c)(12)
-Pub. L. 115–254, div. F, title VI, § 1470(m)(1), (w), Oct. 5, 2018, 132 Stat. 3518, 3519, provided that, effective at the end of the transition period, as defined in [section 9681 of this title](./chapter-103-better-utilization-of-investments-leading-to-development.md#section-9681), subsection (c) of this section is amended by striking paragraph (12) and inserting the following new paragraph (12):
-
-(12) United States International Development Finance Corporation
-
-Programs of the United States International Development Finance Corporation.
-
-See 2018 Amendment note below.
 
 #### References in Text
 This chapter, referred to in subsec. (b), was in the original “this Act”, meaning Pub. L. 101–179, Nov. 28, 1989, 103 Stat. 1298, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out below and Tables.
@@ -350,7 +341,11 @@ Such amounts are authorized to be made available until expended.
 
 (5) **Private character of Enterprise Funds** — Nothing in this section shall be construed to make an Enterprise Fund an agency or establishment of the United States Government, or to make the officers, employees, or members of the Board of Directors of an Enterprise Fund officers or employees of the United States for purposes of title 5.
 
-**(e) Grants to Enterprise Funds** Funds appropriated to the President pursuant to subsection (b) shall be granted to the Enterprise Funds by the Agency for International Development to enable the Enterprise Funds to carry out the purposes specified in subsection (a) and for the administrative expenses of each Enterprise Fund.
+**(e) Grants to Enterprise Funds** Funds appropriated to the President pursuant to subsection (b) shall be granted to the Enterprise Funds to carry out the purposes specified in subsection (a) and for the administrative expenses of each Enterprise Fund—
+
+(1) except as provided in paragraph (2), by the United States Agency for International Development; or
+
+(2) if the Enterprise Funds are transferred to the United States International Development Finance Corporation pursuant to [section 9683(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section9683/b&num=0&edition=prelim), by the Corporation.
 
 **(f) Eligible programs and projects**
 
@@ -409,19 +404,6 @@ Such amounts are authorized to be made available until expended.
 **(p) Annual reports** Each Enterprise Fund shall publish an annual report, which shall include a comprehensive and detailed description of the Enterprise Fund’s operations, activities, financial condition, and accomplishments under this section for the preceding fiscal year. This report shall be published not later than January 31 each year, beginning in 1991.
 
 ### Statutory Notes
-
-#### Amendment of Subsection (e)
-Pub. L. 115–254, div. F, title VI, § 1470(m)(2), (w), Oct. 5, 2018, 132 Stat. 3518, 3519, provided that, effective at the end of the transition period, as defined in [section 9681 of this title](./chapter-103-better-utilization-of-investments-leading-to-development.md#section-9681), this section is amended by striking subsection (e) and inserting the following new subsection (e):
-
-(e) Grants to Enterprise Funds
-
-Funds appropriated to the President pursuant to subsection (b) shall be granted to the Enterprise Funds to carry out the purposes specified in subsection (a) and for the administrative expenses of each Enterprise Fund—
-
-(1) except as provided in paragraph (2), by the United States Agency for International Development; or
-
-(2) if the Enterprise Funds are transferred to the United States International Development Finance Corporation pursuant to [section 9683(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section9683/b&num=0&edition=prelim), by the Corporation.
-
-See 2018 Amendment note below.
 
 #### References in Text
 This chapter, referred to in subsec. (d)(1), was in the original “this Act”, meaning Pub. L. 101–179, Nov. 28, 1989, 103 Stat. 1298, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 5401 of this title](./chapter-063-support-for-east-european-democracy-seed.md#section-5401) and Tables.

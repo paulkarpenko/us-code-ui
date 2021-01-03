@@ -2,7 +2,7 @@
 title: 40
 chapter: '33'
 heading: 'ACQUISITION, CONSTRUCTION, AND ALTERATION'
-section_count: 18
+section_count: 19
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40&num=0&edition=prelim
 ---
@@ -305,23 +305,21 @@ The Demonstration Cities and Metropolitan Development Act of 1966, referred to i
 2014—Subsec. (a)(4). Pub. L. 113–287 substituted “chapter 3021 of title 54” for “section 101 of the National Historic Preservation Act ([16 U.S.C. 470a](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section470a&num=0&edition=prelim))”.
 
 #### Ex. Ord. No. 13006. Locating Federal Facilities on Historic Properties in Our Nation’s Central Cities
-Ex. Ord. No. 13006, May 21, 1996, 61 F.R. 26071, provided:
+Ex. Ord. No. 13006, May 21, 1996, 61 F.R. 26071, as amended by Ex. Ord. No. 13946, § 2, Aug. 24, 2020, 85 F.R. 52879, provided:
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, including the National Historic Preservation Act ([16 U.S.C. 470](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section470&num=0&edition=prelim) et seq.) [see [54 U.S.C. 300101](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section300101&num=0&edition=prelim) et seq.] and the Public Buildings Cooperative Use Act of 1976 (90 Stat. 2505) [title I of Pub. L. 94–541, see Tables for classification], and in furtherance of and consistent with Executive Order No. 12072 of August 16, 1978 [[40 U.S.C. 121](./chapter-001-general.md#section-121) note], and Executive Order No. 11593 of May 13, 1971 [[54 U.S.C. 300101](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section300101&num=0&edition=prelim) note], it is hereby ordered as follows:
 
-Section 1. Statement of Policy. Through the Administration’s community empowerment initiatives, the Federal Government has undertaken various efforts to revitalize our central cities, which have historically served as the centers for growth and commerce in our metropolitan areas. Accordingly, the Administration hereby reaffirms the commitment set forth in Executive Order No. 12072 to strengthen our Nation’s cities by encouraging the location of Federal facilities in our central cities. The Administration also reaffirms the commitments set forth in the National Historic Preservation Act to provide leadership in the preservation of historic resources, and in the Public Buildings Cooperative Use Act of 1976 to acquire and utilize space in suitable buildings of historic, architectural, or cultural significance.
+Section 1. Statement of Policy. Through community empowerment initiatives, the Federal Government has undertaken various efforts to revitalize distressed communities. This order reaffirms the commitment set forth in Executive Order No. 12072 [[40 U.S.C. 121](./chapter-001-general.md#section-121) note], as amended, to strengthen our Nation’s distressed communities by encouraging the location of Federal facilities in qualified opportunity zones (as defined in [26 U.S.C. 1400Z–1](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section1400Z–1&num=0&edition=prelim)), other distressed areas, and centralized business districts. This order also reaffirms the commitments set forth in the National Historic Preservation Act to provide leadership in the preservation of historic resources, and in the Public Buildings Cooperative Use Act of 1976 to acquire and utilize space in suitable buildings of historic, architectural, or cultural significance.
 
 To this end, the Federal Government shall utilize and maintain, wherever operationally appropriate and economically prudent, historic properties and districts, especially those located in our central business areas. When implementing these policies, the Federal Government shall institute practices and procedures that are sensible, understandable, and compatible with current authority and that impose the least burden on, and provide the maximum benefit to, society.
 
-Sec. 2. Encouraging the Location of Federal Facilities on Historic Properties in Our Central Cities. When operationally appropriate and economically prudent, and subject to the requirements of section 601 of title VI of the Rural Development Act of 1972, as amended ([42 U.S.C. 3122](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3122&num=0&edition=prelim)) [now [7 U.S.C. 2204b–1](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section2204b–1&num=0&edition=prelim)], and Executive Order No. 12072, when locating Federal facilities, Federal agencies shall give first consideration to historic properties within historic districts. If no such property is suitable, then Federal agencies shall consider other developed or undeveloped sites within historic districts. Federal agencies shall then consider historic properties outside of historic districts, if no suitable site within a district exists. Any rehabilitation or construction that is undertaken pursuant to this order must be architecturally compatible with the character of the surrounding historic district or properties.
+Sec. 2. Encouraging the Location of Federal Facilities on Historic Properties in Our Central Cities. When operationally appropriate and economically prudent, and subject to the requirements of section 601 of title VI of the Rural Development Act of 1972, as amended ([42 U.S.C. 3122](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3122&num=0&edition=prelim)) [now [7 U.S.C. 2204b–1](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section2204b–1&num=0&edition=prelim)], and Executive Order No. 12072,, [sic] as amended, when locating Federal facilities, Federal agencies shall give consideration to historic properties within historic districts. If no such property is suitable, then such consideration shall include other developed or undeveloped sites within historic districts or historic properties outside of historic districts. Any rehabilitation or construction that is undertaken pursuant to this order must be architecturally compatible with the character of the surrounding historic district or properties.
 
 Sec. 3. Identifying and Removing Regulatory Barriers. Federal agencies with responsibilities for leasing, acquiring, locating, maintaining, or managing Federal facilities or with responsibilities for the planning for, or managing of, historic resources shall take steps to reform, streamline, and otherwise minimize regulations, policies, and procedures that impede the Federal Government’s ability to establish or maintain a presence in historic districts or to acquire historic properties to satisfy Federal space needs, unless such regulations, policies, and procedures are designed to protect human health and safety or the environment. Federal agencies are encouraged to seek the assistance of the Advisory Council on Historic Preservation when taking these steps.
 
-Sec. 4. Improving Preservation Partnerships. In carrying out the authorities of the National Historic Preservation Act, the Secretary of the Interior, the Advisory Council on Historic Preservation, and each Federal agency shall seek appropriate partnerships with States, local governments, Indian tribes, and appropriate private organizations with the goal of enhancing participation of these parties in the National Historic Preservation Program. Such partnerships should embody the principles of administrative flexibility, reduced paperwork, and increased service to the public.
+Sec. 4. Improving Preservation Partnerships. In carrying out the authorities of the National Historic Preservation Act, the Secretary of the Interior, the Advisory Council on Historic Preservation, and each Federal agency shall seek appropriate partnerships with State, local, and tribal governments,, [sic] and appropriate private organizations with the goal of enhancing participation of these parties in the National Historic Preservation Program. Such partnerships should embody the principles of administrative flexibility, reduced paperwork, and increased service to the public.
 
 Sec. 5. Judicial Review. This order is not intended to create, nor does it create, any right or benefit, substantive or procedural, enforceable at law by a party against the United States, its agencies or instrumentalities, its officers or employees, or any other person.
-
-William J. Clinton.
 
 
 <a id="section-3307"></a>
@@ -835,3 +833,39 @@ Amendment by Pub. L. 110–140 effective on the date that is 1 day after Dec. 19
 
 #### Effective Date
 Pub. L. 116–30, § 2(c), July 25, 2019, 133 Stat. 1033, provided that: “The amendments made by this section [enacting this section] shall take effect 1 year after the date of the enactment of this Act [July 25, 2019].”
+
+
+<a id="section-3318"></a>
+## § 3318. Availability of Federal building project information
+**(a) In General.—** Not later than 180 days after the date of enactment of this section, and, at a minimum, on a quarterly basis thereafter, the Administrator shall make publicly available on a subpage of the website of the General Services Administration all prospectuses submitted pursuant to sections 3307 and 3316, and associated information subject to the following requirements:
+
+(1) The Administrator shall maintain such information in an easily accessible and readable, organized, downloadable, and searchable format.
+
+(2) The Administrator shall ensure the information is current and prospectuses and associated information updated on a regular basis.
+
+(3) The information required under this section shall be inclusive for a period of not less than 10 years.
+
+(4) The information shall include—
+
+  (A) the last date on which the relevant webpage was updated;
+
+  (B) approval dates of respective authorizing resolutions by each committee of jurisdiction, if applicable;
+
+  (C) copies of respective committee of jurisdiction resolutions authorizing such prospectuses, as appropriate;
+
+  (D) cross-references to any resubmitted or amended prospectuses and associated resolutions; and
+
+  (E) such other information as determined by the Administrator.
+
+**(b) Definitions.—** In this section, the following definitions apply:
+
+(1) **Prospectus.—** — The term “prospectus” means prospectuses, building surveys, and factsheets submitted to the committees of jurisdiction pursuant to sections 3307 and 3316.
+
+(2) **Committees of jurisdiction.—** — The term “committees of jurisdiction” means the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Environment and Public Works of the Senate.
+
+(3) **Associated information.—** — The term “associated information” means resolutions approved by the committees of jurisdiction and other information as required pursuant to subsection (a).
+
+### Statutory Notes
+
+#### References in Text
+The date of enactment of this section, referred to in subsec. (a), is the date of enactment of Pub. L. 116–333, which was approved Jan. 13, 2021.

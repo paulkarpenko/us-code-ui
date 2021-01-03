@@ -7,18 +7,18 @@ source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10&num=0&edition=prelim
 ---
 <a id="section-9401"></a>
-## § 9401. Members of Air Force: detail as students, observers, and investigators at educational institutions, industrial plants, and hospitals
-**(a)** The Secretary of the Air Force may detail members of the Air Force as students at such technical, professional, and other civilian educational institutions, or as students, observers, or investigators at such industrial plants, hospitals, and other places, as are best suited to enable them to acquire knowledge or experience in the specialties in which it is considered necessary that they perfect themselves.
+## § 9401. Members of Air Force and Space Force: detail as students, observers and investigators at educational institutions, industrial plants, and hospitals
+**(a)** The Secretary of the Air Force may detail members of the Air Force and members of the Space Force as students at such technical, professional, and other civilian educational institutions, or as students, observers, or investigators at such industrial plants, hospitals, and other places, as are best suited to enable them to acquire knowledge or experience in the specialties in which it is considered necessary that they perfect themselves.
 
-**(b)** An officer, other than one of the Regular Air Force on the active-duty list, who is detailed under subsection (a) shall be ordered to additional active duty immediately upon termination of the detail, for a period at least as long as the detail. However, if the detail is for 90 days or less, the officer may be ordered to that additional duty only with his consent and in the discretion of the Secretary.
+**(b)** An officer, other than one of the Regular Air Force or the Regular Space Force on the active-duty list, who is detailed under subsection (a) shall be ordered to additional active duty immediately upon termination of the detail, for a period at least as long as the detail. However, if the detail is for 90 days or less, the officer may be ordered to that additional duty only with his consent and in the discretion of the Secretary.
 
-**(c)** No Reserve of the Air Force may be detailed as a student, observer, or investigator, or ordered to active duty under this section, without his consent and, if a member of the Air National Guard of the United States, without the approval of the governor or other appropriate authority of the State, the Commonwealth of Puerto Rico, the District of Columbia, Guam, or the Virgin Islands of whose Air National Guard he is a member.
+**(c)** No Reserve of the Air Force or Reserve of the Space Force may be detailed as a student, observer, or investigator, or ordered to active duty under this section, without the Reserve’s consent and, if a member of the Air National Guard of the United States, without the approval of the governor or other appropriate authority of the State, the Commonwealth of Puerto Rico, the District of Columbia, Guam, or the Virgin Islands of whose Air National Guard the Reserve is a member.
 
 **(d)** The Secretary may require, as a condition of a detail under subsection (a), that an enlisted member accept a discharge and be reenlisted in his component for at least three years.
 
-**(e)** The total length of details of an enlisted member of the Air Force under subsection (a) during one enlistment period may not exceed 50 percent of that enlistment.
+**(e)** The total length of details of an enlisted member of the Air Force or the Space Force under subsection (a) during one enlistment period may not exceed 50 percent of that enlistment.
 
-**(f)** At no time may more than 8 percent of the authorized strength in commissioned officers, 8 percent of the authorized strength in warrant officers, or 2 percent of the authorized strength in enlisted members, of the Regular Air Force, or more than 8 percent of the actual strength in commissioned officers, 8 percent of the actual strength in warrant officers, or 2 percent of the actual strength in enlisted members, of the total of reserve components of the Air Force, be detailed as students under subsection (a). For the purposes of this subsection, the actual strength of each category of Reserves includes both members on active duty and those not on active duty.
+**(f)** At no time may more than 8 percent of the authorized strength in commissioned officers, 8 percent of the authorized strength in warrant officers, or 2 percent of the authorized strength in enlisted members, of the Regular Air Force or the Regular Space Force, or more than 8 percent of the actual strength in commissioned officers, 8 percent of the actual strength in warrant officers, or 2 percent of the actual strength in enlisted members, of the total of reserve components of the Air Force or the Space Force Reserve, be detailed as students under subsection (a). For the purposes of this subsection, the actual strength of each category of Reserves includes both members on active duty and those not on active duty.
 
 **(g)** Expenses incident to the detail of members under this section shall be paid from any funds appropriated for the Department of the Air Force.
 
@@ -45,6 +45,20 @@ In subsection (f), the last sentence is substituted for 5:626q (words within par
 In subsection (g), the words “under this section” are substituted for 5:626r (9th through 41st words).
 
 #### Amendments
+2021—Pub. L. 116–283, § 923(d)(1)(C), substituted “Members of Air Force and Space Force: detail as students, observers and investigators at educational institutions, industrial plants, and hospitals” for “Members of Air Force: detail as students, observers, and investigators at educational institutions, industrial plants, and hospitals” in section catchline.
+
+Subsec. (a). Pub. L. 116–283, § 923(d)(1)(A)(i), inserted “and members of the Space Force” after “members of the Air Force”.
+
+Subsec. (b). Pub. L. 116–283, § 923(d)(1)(A)(ii), inserted “or the Regular Space Force” after “Regular Air Force”.
+
+Subsec. (c). Pub. L. 116–283, § 923(d)(1)(A)(iii), (B), inserted “or Reserve of the Space Force” after “Reserve of the Air Force” and substituted “the Reserve’s” for “his” and “the Reserve” for “he”.
+
+Subsec. (e). Pub. L. 116–283, § 923(d)(1)(A)(iv), inserted “or the Space Force” after “Air Force”.
+
+Subsec. (f). Pub. L. 116–283, § 923(d)(1)(A)(v)(II), which directed amendment of subsec. (f) by inserting “or the Space Force Reserve” after “the reserve components of the Air Force”, was executed by making the insertion after “the total of reserve components of the Air Force” to reflect the probable intent of Congress.
+
+Pub. L. 116–283, § 923(d)(1)(A)(v)(I), inserted “or the Regular Space Force” after “Regular Air Force”.
+
 2018—Pub. L. 115–232 renumbered [section 9301 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section9301&num=0&edition=prelim) as this section.
 
 2006—Subsec. (c). Pub. L. 109–163 substituted “State, the Commonwealth of Puerto Rico, the District of Columbia, Guam, or the Virgin Islands” for “State or Territory, Puerto Rico, or the District of Columbia”.
@@ -63,10 +77,10 @@ Amendment by Pub. L. 96–513 effective Sept. 15, 1981, see section 701 of Pub. 
 
 
 <a id="section-9402"></a>
-## § 9402. Enlisted members of Air Force: schools
-**(a)** So far as consistent with the requirements of military training and service, and under regulations to be prescribed by the Secretary of the Air Force with the approval of the President, enlisted members of the Air Force shall be permitted to study and receive instruction to increase their military efficiency and to enable them to return to civilian life better equipped for industrial, commercial, and business occupations. Part of this instruction may be vocational education in agriculture or the mechanic arts. Civilian teachers may be employed to aid Air Force officers in this instruction.
+## § 9402. Enlisted members Air Force or Space Force: schools
+**(a)** So far as consistent with the requirements of military training and service, and under regulations to be prescribed by the Secretary of the Air Force with the approval of the President, enlisted members of the Air Force and enlisted members of the Space Force shall be permitted to study and receive instruction to increase their military efficiency and to enable them to return to civilian life better equipped for industrial, commercial, and business occupations. Part of this instruction may be vocational education in agriculture or the mechanic arts. Civilian teachers may be employed to aid Air Force officers and Space Force officers in this instruction.
 
-**(b)** Schools for the instruction of enlisted members of the Air Force in the common branches of education, including United States history, shall be maintained at all air bases at which members of the Air Force are stationed. The Secretary may detail members of the Air Force to carry out this subsection. The commander of each air base where schools are maintained under this subsection shall provide a suitable room or building for school and religious purposes.
+**(b)** Schools for the instruction of enlisted members of the Air Force or the Space Force in the common branches of education, including United States history, shall be maintained at all air bases at which members of the Air Force or the Space Force are stationed. The Secretary may detail members of the Air Force or the Space Force to carry out this subsection. The commander of each air base where schools are maintained under this subsection shall provide a suitable room or building for school and religious purposes.
 
 ### Statutory Notes
 
@@ -81,6 +95,12 @@ In subsection (a), the first 12 words are substituted for 10:1176 (1st 5, and la
 In subsection (b), the words “garrisons, and permanent camps” are omitted as covered by the word “posts”. The word “including” is substituted for the words “and especially in”. The word “members” is substituted for the words “officers and enlisted men”. The words “as may be necessary”, “It * * * be the duty”, and “or garrison” are omitted as surplusage.
 
 #### Amendments
+2021—Pub. L. 116–283, § 923(d)(2)(B), amended section catchline generally. Prior to amendment, catchline read as follows: “Enlisted members of Air Force: schools”.
+
+Subsec. (a). Pub. L. 116–283, § 923(d)(2)(A)(i), inserted “and enlisted members of the Space Force” after “members of the Air Force” and “and Space Force officers” after “Air Force officers”.
+
+Subsec. (b). Pub. L. 116–283, § 923(d)(2)(A)(ii), inserted “or the Space Force” after “Air Force” wherever appearing.
+
 2018—Pub. L. 115–232 renumbered [section 9302 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section9302&num=0&edition=prelim) as this section.
 
 #### Effective Date of 2018 Amendment
@@ -170,7 +190,7 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 <a id="section-9406"></a>
 ## § 9406. Service schools: leaves of absence for instructors
 
-The officer in charge of an Air Force service school may grant a leave of absence for the period of the suspension of the ordinary academic studies, without deduction of pay or allowances, to any officer on duty exclusively as an instructor at the school.
+The officer in charge of an Air Force or Space Force service school may grant a leave of absence for the period of the suspension of the ordinary academic studies, without deduction of pay or allowances, to any officer on duty exclusively as an instructor at the school.
 
 ### Statutory Notes
 
@@ -185,6 +205,8 @@ The words “The provisions of [section 1144 of this title](./chapter-058-benefi
 Prior sections 9411 to 9413 were renumbered sections 9481 to 9483 of this title, respectively.
 
 #### Amendments
+2021—Pub. L. 116–283 inserted “or Space Force” after “Air Force”.
+
 2018—Pub. L. 115–232 renumbered [section 9306 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section9306&num=0&edition=prelim) as this section.
 
 #### Effective Date of 2018 Amendment
@@ -215,7 +237,7 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 **(d) Civilian Faculty.—**
 
-(1) The Secretary of the Air Force may employ as many civilian faculty members at the United States Air Force Institute of Technology as is consistent with the needs of the Air Force and with Department of Defense personnel limits.
+(1) The Secretary of the Air Force may employ as many civilian faculty members at the United States Air Force Institute of Technology as is consistent with the needs of the Air Force or the Space Force and with Department of Defense personnel limits.
 
 (2) The Secretary shall prescribe regulations determining—
 
@@ -241,13 +263,13 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 **(f) Acceptance of Research Grants.—**
 
-(1) The Secretary of the Air Force may authorize the Commandant of the United States Air Force Institute of Technology to accept qualifying research grants. Any such grant may only be accepted if the work under the grant is to be carried out by a professor or instructor of the Institute for a scientific, literary, or educational purpose.
+(1) The Secretary of the Air Force may authorize the Director and Chancellor of the United States Air Force Institute of Technology to accept qualifying research grants. Any such grant may only be accepted if the work under the grant is to be carried out by a professor or instructor of the Institute for a scientific, literary, or educational purpose.
 
 (2) A qualifying research grant under this subsection is a grant that is awarded on a competitive basis by an entity referred to in paragraph (3) for a research project with a scientific, literary, or educational purpose.
 
 (3) A grant may be accepted under this subsection only from a corporation, fund, foundation, educational institution, or similar entity that is organized and operated primarily for scientific, literary, or educational purposes.
 
-(4) The Secretary shall establish an account for administering funds received as research grants under this section. The Commandant of the Institute shall use the funds in the account in accordance with applicable provisions of the regulations and the terms and condition of the grants received.
+(4) The Secretary shall establish an account for administering funds received as research grants under this section. The Director and Chancellor of the Institute shall use the funds in the account in accordance with applicable provisions of the regulations and the terms and condition of the grants received.
 
 (5) Subject to such limitations as may be provided in appropriations Acts, appropriations available for the Institute may be used to pay expenses incurred by the Institute in applying for, and otherwise pursuing, the award of qualifying research grants.
 
@@ -264,6 +286,10 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 A prior section 9414 was renumbered [section 9484 of this title](./chapter-957-schools-and-camps.md#section-9484).
 
 #### Amendments
+2021—Subsec. (d)(1). Pub. L. 116–283 inserted “or the Space Force” after “needs of the Air Force”.
+
+2019—Subsec. (f). Pub. L. 116–92 substituted “Director and Chancellor” for “Commandant” in pars. (1) and (4).
+
 2018—Pub. L. 115–232 renumbered [section 9314 of this title](./chapter-941-retirement-for-length-of-service.md#section-9314) as this section.
 
 2008—Pub. L. 110–417, § 543(h)(1), amended section generally. Prior to amendment, section consisted of subsecs. (a) to (d) relating to conferral of degrees, civilian faculty, costs of instruction, and research grants at the United States Air Force Institute of Technology.
@@ -380,17 +406,17 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 <a id="section-9414b"></a>
 ## § 9414b. United States Air Force Institute of Technology: administration
-**(a) Commandant.—**
+**(a) Director and Chancellor.—**
 
-(1) **Selection.—** — The Commandant of the United States Air Force Institute of Technology shall be selected by the Secretary of the Air Force.
+(1) **Selection.—** — The Director and Chancellor of the United States Air Force Institute of Technology shall be selected by the Secretary of the Air Force.
 
-(2) **Eligibility.—** — The Commandant shall be one of the following:
+(2) **Eligibility.—** — The Director and Chancellor shall be one of the following:
 
-  (A) An officer of the Air Force on active duty in a grade not below the grade of colonel who possesses such qualifications as the Secretary considers appropriate and is assigned or detailed to such position.
+  (A) An officer of the Air Force or the Space Force on active duty in a grade not below the grade of colonel who possesses such qualifications as the Secretary considers appropriate and is assigned or detailed to such position.
 
-  (B) A member of the Senior Executive Service or a civilian individual, including an individual who was retired from the Air Force in a grade not below brigadier general, who has the qualifications appropriate for the position of Commandant and is selected by the Secretary as the best qualified from among candidates for the position in accordance with a process and criteria determined by the Secretary.
+  (B) A member of the Senior Executive Service or a civilian individual, including an individual who was retired from the Air Force or the Space Force in a grade not below brigadier general or the equivalent grade in the Space Force, who has the qualifications appropriate for the position of Director and Chancellor and is selected by the Secretary as the best qualified from among candidates for the position in accordance with a process and criteria determined by the Secretary.
 
-(3) **Term for civilian commandant.—** — An individual selected for the position of Commandant under paragraph (2)(B) shall serve in that position for a term of not more than five years and may be continued in that position for an additional term of up to five years.
+(3) **Term for civilian director and chancellor.—** — An individual selected for the position of Director and Chancellor under paragraph (2)(B) shall serve in that position for a term of not more than five years and may be continued in that position for an additional term of up to five years.
 
 **(b) Provost and Academic Dean.—**
 
@@ -406,7 +432,18 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 Level IV of the Executive Schedule, referred to in subsec. (b)(3), is set out in [section 5315 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5315&num=0&edition=prelim), Government Organization and Employees.
 
 #### Amendments
+2021—Subsec. (a)(2). Pub. L. 116–283, § 923(d)(5)(A), inserted “or the Space Force” after “the Air Force” in two places.
+
+Subsec. (a)(2)(B). Pub. L. 116–283, § 923(d)(5)(B), inserted “or the equivalent grade in the Space Force” after “brigadier general”.
+
+2019—Subsec. (a). Pub. L. 116–92, § 556(a)(1), (2), substituted “Director and Chancellor” for “Commandant” in heading and “Director and Chancellor” for “Commandant” wherever appearing in text.
+
+Subsec. (a)(3). Pub. L. 116–92, § 556(a)(3), which directed substitution of “Director and Chancellor” for “Commandant” in heading, was executed by substituting “director and chancellor” for “commandant” to reflect the probable intent of Congress and conform the style of paragraph headings to that used in this title.
+
 2018—Pub. L. 115–232 renumbered [section 9314b of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section9314b&num=0&edition=prelim) as this section.
+
+#### Change of Name
+Pub. L. 116–92, div. A, title V, § 556(c), Dec. 20, 2019, 133 Stat. 1392, provided that: “Any reference in any law, regulation, map, document, paper, or other record of the United States to the Commandant of the United States Air Force Institute of Technology shall be deemed to be a reference to the Director and Chancellor of the United States Air Force Institute of Technology.”
 
 #### Effective Date of 2018 Amendment
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
@@ -414,7 +451,7 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 <a id="section-9415"></a>
 ## § 9415. Community College of the Air Force: associate degrees
-**(a) Establishment and Mission.—** There is in the Air Force a Community College of the Air Force. Such college, in cooperation with civilian colleges and universities, shall—
+**(a) Establishment and Mission.—** There is in the Department of the Air Force a Community College of the Air Force. Such college, in cooperation with civilian colleges and universities, shall—
 
 (1) prescribe programs of higher education for enlisted members described in subsection (b) designed to improve the technical, managerial, and related skills of such members and to prepare such members for military jobs which require the utilization of such skills; and
 
@@ -422,9 +459,11 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 **(b) Members Eligible for Programs.—** Subject to such other eligibility requirements as the Secretary concerned may prescribe, the following members of the armed forces are eligible to participate in programs of higher education under subsection (a)(1):
 
-(1) Enlisted members of the Air Force.
+(1) Enlisted members of the Air Force or the Space Force.
 
-(2) Enlisted members of the armed forces other than the Air Force who are serving as instructors at Air Force training schools.
+(2) Enlisted members of the armed forces other than the Air Force or the Space Force who are serving as instructors at Department of the Air Force training schools.
+
+(3) Enlisted members of the armed forces other than the Air Force or the Space Force who are participating in Community College of the Air Force affiliated joint-service training and education courses.
 
 **(c) Seriously Wounded, Ill, or Injured Former and Retired Enlisted Members.—**
 
@@ -452,6 +491,16 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 A prior section 9415 was renumbered [section 349 of this title](./chapter-016-security-cooperation.md#section-349).
 
 #### Amendments
+2021—Subsec. (a). Pub. L. 116–283, § 923(d)(6)(A), substituted “in the Department of the Air Force” for “in the Air Force” in introductory provisions.
+
+Subsec. (b)(1). Pub. L. 116–283, § 923(d)(6)(B)(i), inserted “or the Space Force” after “Air Force”.
+
+Subsec. (b)(2). Pub. L. 116–283, § 923(d)(6)(B)(ii), substituted “other than the Air Force or the Space Force who are serving as instructors at Department of the Air Force training schools.” for “other than the Air Force who are serving as instructors at Air Force training schools.”
+
+Subsec. (b)(3). Pub. L. 116–283, § 923(d)(6)(B)(iii), which directed amendment of par. (3) by inserting “or the Space Force” after “Air Force”, was executed by making the insertion after “Air Force” first place appearing to reflect the probable intent of Congress.
+
+2019—Subsec. (b)(3). Pub. L. 116–92 added par. (3).
+
 2018—Pub. L. 115–232, § 806(a)(3), renumbered [section 9315 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section9315&num=0&edition=prelim) as this section.
 
 Subsec. (d)(1). Pub. L. 115–232, § 809(a), substituted “section 9417” for “section 9317”.

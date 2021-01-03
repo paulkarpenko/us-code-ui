@@ -122,6 +122,12 @@ Pub. L. 101–650, title VII, § 706, Dec. 1, 1990, 104 Stat. 5134, provided tha
 #### Effective Date of 1988 Amendment
 Pub. L. 100–568, § 13, Oct. 31, 1988, 102 Stat. 2861, provided that: “(a) Effective Date.—This Act and the amendments made by this Act [enacting [section 116A of this title](./chapter-001-subject-matter-and-scope-of-copyright.md#section-116a), amending this section and sections 104, 116, 205, 301, 401 to 408, 411, 501, 504, 801, and 804 of this title, and enacting provisions set out as notes under this section] take effect on the date on which the Berne Convention (as defined in [section 101 of title 17](./chapter-001-subject-matter-and-scope-of-copyright.md#section-101), United States Code) enters into force with respect to the United States [Mar. 1, 1989]. [The Berne Convention entered into force with respect to the United States on Mar. 1, 1989.] “(b) Effect on Pending Cases.—Any cause of action arising under title 17, United States Code, before the effective date of this Act shall be governed by the provisions of such title as in effect when the cause of action arose.”
 
+#### Short Title of 2020 Amendment
+Pub. L. 116–260, div. Q, title II, § 212(a), Dec. 27, 2020, 134 Stat. 2176, provided that: “This section [enacting chapter 15 of this title and enacting provisions set out as notes under sections 1501 and 1502 of this title] may be cited as the ‘Copyright Alternative in Small-Claims Enforcement Act of 2020’ or the ‘CASE Act of 2020’.”
+
+#### Short Title of 2019 Amendment
+Pub. L. 116–94, div. P, title XI, § 1101, Dec. 20, 2019, 133 Stat. 3201, provided that: “This title [amending sections 119 and 501 of this title and enacting provisions set out as a note under [section 119 of this title](./chapter-001-subject-matter-and-scope-of-copyright.md#section-119)] may be cited as the ‘Satellite Television Community Protection and Promotion Act of 2019’.”
+
 #### Short Title of 2018 Amendment
 Pub. L. 115–264, § 1(a), Oct. 11, 2018, 132 Stat. 3676, provided that: “This Act [enacting chapter 14 of this title, amending sections 114, 115, 301, 801, 803, and 804 of this title, [section 58c of Title 19](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section58c&num=0&edition=prelim), Customs Duties, and [section 137 of Title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section137&num=0&edition=prelim), Judiciary and Judicial Procedure, and enacting provisions set out as notes under this section and sections 106, 114, and 115 of this title] may be cited as the ‘Orrin G. Hatch–Bob Goodlatte Music Modernization Act’.”
 
@@ -707,7 +713,7 @@ Subsec. (h)(2), (3). Pub. L. 105–80, § 2(3), (4), amended pars. (2) and (3) g
 Subsec. (h)(1)(A), (B), (E), (3)(A), (B), (E) of this section and amendment by section 102(c)(4), (5) of Pub. L. 105–304 effective Oct. 28, 1998, except as otherwise provided, subsec. (h)(1)(C), (3)(C) of this section effective Mar. 6, 2002, and subsec. (h)(1)(D), (3)(D) of this section and amendment by section 102(c)(3) of Pub. L. 105–304 effective May 20, 2002, see section 105(a), (b)(1)(C), (D), (2)(D)–(F) of Pub. L. 105–304, set out as a note under [section 101 of this title](./chapter-001-subject-matter-and-scope-of-copyright.md#section-101).
 
 #### Effective Date
-Section effective on the date the North American Free Trade Agreement enters into force with respect to the United States [Jan. 1, 1994], see section 335(a) of Pub. L. 103–182, set out in an Effective Date of 1993 Amendment note under [section 1052 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1052&num=0&edition=prelim), Commerce and Trade.
+Section effective on the date the North American Free Trade Agreement enters into force with respect to the United States (Jan. 1, 1994), see section 335(a) of Pub. L. 103–182, formerly set out in an Effective Date of 1993 Amendment note under [section 1052 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1052&num=0&edition=prelim), Commerce and Trade.
 
 #### Uruguay Round Agreements: Entry Into Force
 The Uruguay Round Agreements, including the World Trade Organization Agreement and agreements annexed to that Agreement, as referred to in [section 3511(d) of Title 19](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section3511/d&num=0&edition=prelim), Customs Duties, entered into force with respect to the United States on Jan. 1, 1995. See note set out under [section 3511 of Title 19](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section3511&num=0&edition=prelim).
@@ -715,8 +721,43 @@ The Uruguay Round Agreements, including the World Trade Organization Agreement a
 
 <a id="section-105"></a>
 ## § 105. Subject matter of copyright: United States Government works
+**(a) In General.—** Copyright protection under this title is not available for any work of the United States Government, but the United States Government is not precluded from receiving and holding copyrights transferred to it by assignment, bequest, or otherwise.
 
-Copyright protection under this title is not available for any work of the United States Government, but the United States Government is not precluded from receiving and holding copyrights transferred to it by assignment, bequest, or otherwise.
+**(b) Copyright Protection of Certain of 11 So in original. Works.—** Subject to subsection (c),22 So in original. There are two subsecs. designated (c). the covered author of a covered work owns the copyright to that covered work.
+
+**(c) 2 Use by Federal Government.—** The Secretary of Defense may direct the covered author of a covered work to provide the Federal Government with an irrevocable, royalty-free, world-wide, nonexclusive license to reproduce, distribute, perform, or display such covered work for purposes of the United States Government.
+
+**(c) 2 Definitions.—** In this section:
+
+(1) The term “covered author” means a civilian member of the faculty of a covered institution.
+
+(2) The term “covered institution” means the following:
+
+  (A) National Defense University.
+
+  (B) United States Military Academy.
+
+  (C) Army War College.
+
+  (D) United States Army Command and General Staff College.
+
+  (E) United States Naval Academy.
+
+  (F) Naval War College.
+
+  (G) Naval Post Graduate School.
+
+  (H) Marine Corps University.
+
+  (I) United States Air Force Academy.
+
+  (J) Air University.
+
+  (K) Defense Language Institute.
+
+  (L) United States Coast Guard Academy.
+
+(3) The term “covered work” means a literary work produced by a covered author in the course of employment at a covered institution for publication by a scholarly press or journal.
 
 ### Statutory Notes
 
@@ -743,6 +784,9 @@ Proposed Saving Clause. Section 8 of the statute now in effect [section 8 of for
 Retention of a saving clause has been urged on the ground that the present statutory provision is frequently cited, and that having the provision expressly stated in the law would avoid questions and explanations. The committee here observes: (1) there is nothing in section 105 that would relieve the Government of its obligation to secure permission in order to publish a copyrighted work; and (2) publication or other use by the Government of a private work would not affect its copyright protection in any way. The question of use of copyrighted material in documents published by the Congress and its Committees is discussed below in connection with section 107.
 
 Works of the United States Postal Service. The intent of section 105 [this section] is to restrict the prohibition against Government copyright to works written by employees of the United States Government within the scope of their official duties. In accordance with the objectives of the Postal Reorganization Act of 1970 [Pub. L. 91–375, which enacted title 39, Postal Service], this section does not apply to works created by employees of the United States Postal Service. In addition to enforcing the criminal statutes proscribing the forgery or counterfeiting of postage stamps, the Postal Service could, if it chooses, use the copyright law to prevent the reproduction of postage stamp designs for private or commercial non-postal services (for example, in philatelic publications and catalogs, in general advertising, in art reproductions, in textile designs, and so forth). However, any copyright claimed by the Postal Service in its works, including postage stamp designs, would be subject to the same conditions, formalities, and time limits as other copyrightable works.
+
+#### Amendments
+2019—Pub. L. 116–92 designated existing provisions as subsec. (a), inserted heading, and added subsec. (b) and two subsecs. (c). Heading of subsec. (a) was conformed to the style used in this title.
 
 
 <a id="section-106"></a>
@@ -883,7 +927,7 @@ Section 610(a) of the Visual Artists Rights Act of 1990 [Pub. L. 101–650], ref
 Pub. L. 101–650, title VI, § 610, Dec. 1, 1990, 104 Stat. 5132, provided that: “(a) In General.—Subject to subsection (b) and except as provided in subsection (c), this title [enacting this section, amending sections 101, 107, 113, 301, 411, 412, 501, and 506 of this title, and enacting provisions set out as notes under this section and [section 101 of this title](./chapter-001-subject-matter-and-scope-of-copyright.md#section-101)] and the amendments made by this title take effect 6 months after the date of the enactment of this Act [Dec. 1, 1990]. “(b) Applicability.—The rights created by [section 106A of title 17](./chapter-001-subject-matter-and-scope-of-copyright.md#section-106a), United States Code, shall apply to—“(1) works created before the effective date set forth in subsection (a) but title to which has not, as of such effective date, been transferred from the author, and “(2) works created on or after such effective date, but shall not apply to any destruction, distortion, mutilation, or other modification (as described in section 106A(a)(3) of such title) of any work which occurred before such effective date. “(c) Section 608.—Section 608 [set out below] takes effect on the date of the enactment of this Act.”
 
 #### Studies by Copyright Office
-Pub. L. 101–650, title VI, § 608, Dec. 1, 1990, 104 Stat. 5132, provided that: “(a) Study on Waiver of Rights Provision.—“(1) Study.—The Register of Copyrights shall conduct a study on the extent to which rights conferred by subsection (a) of [section 106A of title 17](./chapter-001-subject-matter-and-scope-of-copyright.md#section-106a), United States Code, have been waived under subsection (e)(1) of such section. “(2) Report to congress.—Not later than 2 years after the date of the enactment of this Act [Dec. 1, 1990], the Register of Copyrights shall submit to the Congress a report on the progress of the study conducted under paragraph (1). Not later than 5 years after such date of enactment, the Register of Copyrights shall submit to the Congress a final report on the results of the study conducted under paragraph (1), and any recommendations that the Register may have as a result of the study. “(b) Study on Resale Royalties.—“(1) Nature of study.—The Register of Copyrights, in consultation with the Chair of the National Endowment for the Arts, shall conduct a study on the feasibility of implementing—“(A) a requirement that, after the first sale of a work of art, a royalty on any resale of the work, consisting of a percentage of the price, be paid to the author of the work; and “(B) other possible requirements that would achieve the objective of allowing an author of a work of art to share monetarily in the enhanced value of that work. “(2) Groups to be consulted.—The study under paragraph (1) shall be conducted in consultation with other appropriate departments and agencies of the United States, foreign governments, and groups involved in the creation, exhibition, dissemination, and preservation of works of art, including artists, art dealers, collectors of fine art, and curators of art museums. “(3) Report to congress.—Not later than 18 months after the date of the enactment of this Act [Dec. 1, 1990], the Register of Copyrights shall submit to the Congress a report containing the results of the study conducted under this subsection.”
+Pub. L. 101–650, title VI, § 608, Dec. 1, 1990, 104 Stat. 5132, directed the Register of Copyrights to study the extent to which authorship rights have been waived by visual artists under this section and to submit a final report to Congress not later than 5 years after Dec. 1, 1990, and also directed the Register of Copyrights to study the feasibility of implementing a requirement that, after the first sale of a work of art, would enable authors of visual art to share monetarily in the resale and enhanced value of that work, with a report to Congress due not later than 18 months after Dec. 1, 1990.
 
 
 <a id="section-107"></a>
@@ -1368,7 +1412,7 @@ Pub. L. 101–650, title VIII, § 804, Dec. 1, 1990, 104 Stat. 5136, as amended 
 #### Effective Date of 1984 Amendment
 Pub. L. 98–450, § 4, Oct. 4, 1984, 98 Stat. 1728, as amended by Pub. L. 100–617, § 1, Nov. 5, 1988, 102 Stat. 3194; Pub. L. 103–182, title III, § 332, Dec. 8, 1993, 107 Stat. 2114, provided that: “(a) The amendments made by this Act [amending this section and [section 115 of this title](./chapter-001-subject-matter-and-scope-of-copyright.md#section-115) and enacting provisions set out as a note under [section 101 of this title](./chapter-001-subject-matter-and-scope-of-copyright.md#section-101)] shall take effect on the date of the enactment of this Act [Oct. 4, 1984]. “(b) The provisions of [section 109(b) of title 17](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title17-section109/b&num=0&edition=prelim), United States Code, as added by section 2 of this Act, shall not affect the right of an owner of a particular phonorecord of a sound recording, who acquired such ownership before the date of the enactment of this Act [Oct. 4, 1984], to dispose of the possession of that particular phonorecord on or after such date of enactment in any manner permitted by [section 109 of title 17](./chapter-001-subject-matter-and-scope-of-copyright.md#section-109), United States Code, as in effect on the day before the date of the enactment of this Act.”
 
-[Amendment by Pub. L. 103–182 to section 4 of Pub. L. 98–450, set out above, effective on the date the North American Free Trade Agreement enters into force with respect to the United States [Jan. 1, 1994], see section 335 of Pub. L. 103–182, set out as an Effective Date of 1993 Amendment note under [section 1052 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1052&num=0&edition=prelim), Commerce and Trade.]
+[Amendment by Pub. L. 103–182 to section 4 of Pub. L. 98–450, set out above, effective on the date the North American Free Trade Agreement enters into force with respect to the United States (Jan. 1, 1994), see section 335 of Pub. L. 103–182, formerly set out as an Effective Date of 1993 Amendment note under [section 1052 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1052&num=0&edition=prelim), Commerce and Trade.]
 
 #### Evaluation of Impact of Copyright Law and Amendments on Electronic Commerce and Technological Development
 Pub. L. 105–304, title I, § 104, Oct. 28, 1998, 112 Stat. 2876, provided that: “(a) Evaluation by the Register of Copyrights and the Assistant Secretary for Communications and Information.—The Register of Copyrights and the Assistant Secretary for Communications and Information of the Department of Commerce shall jointly evaluate—“(1) the effects of the amendments made by this title [enacting chapter 12 of this title and amending sections 101, 104, 104A, 411, and 507 of this title] and the development of electronic commerce and associated technology on the operation of sections 109 and 117 of title 17, United States Code; and “(2) the relationship between existing and emergent technology and the operation of sections 109 and 117 of title 17, United States Code. “(b) Report to Congress.—The Register of Copyrights and the Assistant Secretary for Communications and Information of the Department of Commerce shall, not later than 24 months after the date of the enactment of this Act [Oct. 28, 1998], submit to the Congress a joint report on the evaluation conducted under subsection (a), including any legislative recommendations the Register and the Assistant Secretary may have.”
@@ -2599,7 +2643,7 @@ Amendment by Pub. L. 101–650 effective 6 months after Dec. 1, 1990, see sectio
 
   (A) *In general.—* — A nonprofit collective designated by the Copyright Royalty Judges to distribute receipts from the licensing of transmissions in accordance with subsection (f) shall adopt and reasonably implement a policy that provides, in circumstances determined by the collective to be appropriate, for acceptance of instructions from a payee identified under subparagraph (A) or (D) of paragraph (2) to distribute, to a producer, mixer, or sound engineer who was part of the creative process that created a sound recording, a portion of the payments to which the payee would otherwise be entitled from the licensing of transmissions of the sound recording. In this section, such instructions shall be referred to as a “letter of direction”.
 
-  (B) *22 See last Effective Date of 2018 Amendment note below. Acceptance of letter.—* — To the extent that a collective described in subparagraph (A) accepts a letter of direction under that subparagraph, the person entitled to payment pursuant to the letter of direction shall, during the period in which the letter of direction is in effect and carried out by the collective, be treated for all purposes as the owner of the right to receive such payment, and the payee providing the letter of direction to the collective shall be treated as having no interest in such payment.
+  (B) *Acceptance of letter.—* — To the extent that a collective described in subparagraph (A) accepts a letter of direction under that subparagraph, the person entitled to payment pursuant to the letter of direction shall, during the period in which the letter of direction is in effect and carried out by the collective, be treated for all purposes as the owner of the right to receive such payment, and the payee providing the letter of direction to the collective shall be treated as having no interest in such payment.
 
   (C) *Authority of collective.—* — This paragraph shall not be construed in such a manner so that the collective is not authorized to accept or act upon payment instructions in circumstances other than those to which this paragraph applies.
 
@@ -2635,7 +2679,7 @@ Amendment by Pub. L. 101–650 effective 6 months after Dec. 1, 1990, see sectio
 
   (D) *Objection to payment.—* — Not later than 10 business days after the date on which the collective receives from the artist payee a written objection to a distribution made pursuant to subparagraph (A), the collective shall cease making any further payment relating to such distribution. In any case in which the collective has made 1 or more distributions pursuant to subparagraph (A) to a person described in subparagraph (B) before the date that is 10 business days after the date on which the collective receives from the artist payee an objection to such distribution, the objection shall not affect that person’s entitlement to any distribution made before the collective ceases such distribution under this subparagraph.
 
-  (E) *2 Ownership of the right to receive payments.—* — To the extent that the collective determines that a distribution will be made under subparagraph (A) to a person described in subparagraph (B), such person shall, during the period covered by such distribution, be treated for all purposes as the owner of the right to receive such payments, and the artist payee to whom such payments would otherwise be payable shall be treated as having no interest in such payments.
+  (E) *Ownership of the right to receive payments.—* — To the extent that the collective determines that a distribution will be made under subparagraph (A) to a person described in subparagraph (B), such person shall, during the period covered by such distribution, be treated for all purposes as the owner of the right to receive such payments, and the artist payee to whom such payments would otherwise be payable shall be treated as having no interest in such payments.
 
   (F) *Artist payee defined.—* — In this paragraph, the term “artist payee” means a person, other than a person described in subparagraph (B), who owns the right to receive all or part of the receipts payable under paragraph (2)(D) with respect to a sound recording. In a case in which there are multiple artist payees with respect to a sound recording, an objection by 1 such payee shall apply only to that payee’s share of the receipts payable under paragraph (2)(D), and shall not preclude payment under subparagraph (A) from the share of an artist payee that does not so object.
 
@@ -2917,7 +2961,7 @@ Pub. L. 107–321, § 5(a), Dec. 4, 2002, 116 Stat. 2783, provided that: “Cong
 Pub. L. 107–321, § 3, Dec. 4, 2002, 116 Stat. 2781, provided that: “(a) Noncommercial Webcasters.—“(1) In general.—The payments to be made by noncommercial webcasters for the digital performance of sound recordings under [section 114 of title 17](./chapter-001-subject-matter-and-scope-of-copyright.md#section-114), United States Code, and the making of ephemeral phonorecords under [section 112 of title 17](./chapter-001-subject-matter-and-scope-of-copyright.md#section-112), United States Code, during the period beginning on October 28, 1998, and ending on May 31, 2003, which have not already been paid, shall not be due until June 20, 2003. “(2) Definition.—In this subsection, the term ‘noncommercial webcaster’ has the meaning given that term in section 114(f)(5)(E)(i) [now 114(f)(4)(E)(i)] of title 17, United States Code, as added by section 4 of this Act. “(b) Small Commercial Webcasters.—“(1) In general.—The receiving agent may, in a writing signed by an authorized representative thereof, delay the obligation of any 1 or more small commercial webcasters to make payments pursuant to sections 112 and 114 of title 17, United States Code, for a period determined by such entity to allow negotiations as permitted in section 4 of this Act [amending this section], except that any such period shall end no later than December 15, 2002. The duration and terms of any such delay shall be as set forth in such writing. “(2) Definitions.—In this subsection—“(A) the term ‘webcaster’ has the meaning given that term in section 114(f)(5)(E)(iii) [now 114(f)(4)(E)(iii)] of title 17, United States Code, as added by section 4 of this Act; and “(B) the term ‘receiving agent’ shall have the meaning given that term in section 261.2 of title 37, Code of Federal Regulations, as published in the Federal Register on July 8, 2002.”
 
 #### Report to Congress
-Pub. L. 107–321, § 6, Dec. 4, 2002, 116 Stat. 2785, provided that: “By not later than June 1, 2004, the Comptroller General of the United States, in consultation with the Register of Copyrights, shall conduct and submit to the Committee on the Judiciary of the House of Representatives and the Committee on the Judiciary of the Senate a study concerning the economic arrangements among small commercial webcasters covered by agreements entered into pursuant to section 114(f)(5)(A) [now 114(f)(4)(A)] of title 17, United States Code, as added by section 4 of this Act, and third parties, and the effect of those arrangements on royalty fees payable on a percentage of revenue or expense basis.”
+Pub. L. 107–321, § 6, Dec. 4, 2002, 116 Stat. 2785, required that, by not later than June 1, 2004, the Comptroller General, in consultation with the Register of Copyrights, was to conduct and submit to Congress a study concerning the economic arrangements among small commercial webcasters covered by agreements entered into pursuant to subsec. (f) of this section and third parties, and the effect of those arrangements on royalty fees payable on a percentage of revenue or expense basis.
 
 
 <a id="section-115"></a>
@@ -4270,29 +4314,17 @@ Section effective Oct. 19, 1976, see section 102 of Pub. L. 94–553, set out as
 ## § 119. Limitations on exclusive rights: Secondary transmissions of distant television programming by satellite
 **(a) Secondary Transmissions by Satellite Carriers.—**
 
-(1) **Non-network stations.—** — Subject to the provisions of paragraphs (4), (5), and (7) of this subsection and section 114(d), secondary transmissions of a performance or display of a work embodied in a primary transmission made by a non-network station shall be subject to statutory licensing under this section if the secondary transmission is made by a satellite carrier to the public for private home viewing or for viewing in a commercial establishment, with regard to secondary transmissions the satellite carrier is in compliance with the rules, regulations, or authorizations of the Federal Communications Commission governing the carriage of television broadcast station signals, and the carrier makes a direct or indirect charge for each retransmission service to each subscriber receiving the secondary transmission or to a distributor that has contracted with the carrier for direct or indirect delivery of the secondary transmission to the public for private home viewing or for viewing in a commercial establishment.
+(1) **Non-network stations.—** — Subject to the provisions of paragraphs (3), (4), and (6) of this subsection and section 114(d), secondary transmissions of a performance or display of a work embodied in a primary transmission made by a non-network station shall be subject to statutory licensing under this section if the secondary transmission is made by a satellite carrier to the public for private home viewing or for viewing in a commercial establishment, with regard to secondary transmissions the satellite carrier is in compliance with the rules, regulations, or authorizations of the Federal Communications Commission governing the carriage of television broadcast station signals, and the carrier makes a direct or indirect charge for each retransmission service to each subscriber receiving the secondary transmission or to a distributor that has contracted with the carrier for direct or indirect delivery of the secondary transmission to the public for private home viewing or for viewing in a commercial establishment.
 
 (2) **Network stations.—**
 
-  (A) *In general.—* — Subject to the provisions of subparagraph (B) of this paragraph and paragraphs (4), (5), (6), and (7) of this subsection and section 114(d), secondary transmissions of a performance or display of a work embodied in a primary transmission made by a network station shall be subject to statutory licensing under this section if the secondary transmission is made by a satellite carrier to the public for private home viewing, with regard to secondary transmissions the satellite carrier is in compliance with the rules, regulations, or authorizations of the Federal Communications Commission governing the carriage of television broadcast station signals, and the carrier makes a direct or indirect charge for such retransmission service to each subscriber receiving the secondary transmission.
+  (A) *In general.—* — Subject to the provisions of subparagraph (B) of this paragraph and paragraphs (3), (4), (5), and (6) of this subsection and section 114(d), secondary transmissions of a performance or display of a work embodied in a primary transmission made by a network station shall be subject to statutory licensing under this section if the secondary transmission is made by a satellite carrier to the public for private home viewing, with regard to secondary transmissions the satellite carrier is in compliance with the rules, regulations, or authorizations of the Federal Communications Commission governing the carriage of television broadcast station signals, the carrier makes a direct or indirect charge for such retransmission service to each subscriber receiving the secondary transmission, and the carrier provides local-into-local service to all DMAs. Failure to reach an agreement with a network station to retransmit the signals of the station shall not be construed to affect compliance with providing local-into-local service to all DMAs if the satellite carrier has the capability to retransmit such signals when an agreement is reached.
 
   (B) *Secondary transmissions to unserved households.—*
 
     (i) *In general.—* — The statutory license provided for in subparagraph (A) shall be limited to secondary transmissions of the signals of no more than two network stations in a single day for each television network to persons who reside in unserved households.
 
-    (ii) *Accurate determinations of eligibility.—*
-
-      (I) *Accurate predictive model.—* — In determining presumptively whether a person resides in an unserved household under subsection (d)(10)(A), a court shall rely on the Individual Location Longley-Rice model set forth by the Federal Communications Commission in Docket No. 98–201, as that model may be amended by the Commission over time under section 339(c)(3) of the Communications Act of 1934 to increase the accuracy of that model.
-
-      (II) *Accurate measurements.—* — For purposes of site measurements to determine whether a person resides in an unserved household under subsection (d)(10)(A), a court shall rely on section 339(c)(4) of the Communications Act of 1934.
-
-      (III) *Accurate predictive model with respect to digital signals.—* — Notwithstanding subclause (I), in determining presumptively whether a person resides in an unserved household under subsection (d)(10)(A) with respect to digital signals, a court shall rely on a predictive model set forth by the Federal Communications Commission pursuant to a rulemaking as provided in section 339(c)(3) of the Communications Act of 1934 ([47 U.S.C. 339(c)(3)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title47-section339/c/3&num=0&edition=prelim)), as that model may be amended by the Commission over time under such section to increase the accuracy of that model. Until such time as the Commission sets forth such model, a court shall rely on the predictive model as recommended by the Commission with respect to digital signals in its Report to Congress in ET Docket No. 05–182, FCC 05–199 (released December 9, 2005).
-
-    (iii) *C-band exemption to unserved households.—*
-
-      (I) *In general.—* — The limitations of clause (i) shall not apply to any secondary transmissions by C-band services of network stations that a subscriber to C-band service received before any termination of such secondary transmissions before October 31, 1999.
-
-      (II) *Definition.—* — In this clause, the term “C-band service” means a service that is licensed by the Federal Communications Commission and operates in the Fixed Satellite Service under part 25 of title 47, Code of Federal Regulations.
+    (ii) *Short markets.—* — In the case of secondary transmissions to households located in short markets, subject to clause (i), the statutory license shall be further limited to secondary transmissions of only those primary transmissions of network stations that embody the programming of networks not offered on the primary stream or the multicast stream transmitted by any network station in that market.
 
   (C) *Submission of subscriber lists to networks.—*
 
@@ -4304,45 +4336,11 @@ Section effective Oct. 19, 1976, see section 102 of Pub. L. 94–553, set out as
 
     (iv) *Applicability.—* — The submission requirements of this subparagraph shall apply to a satellite carrier only if the network to which the submissions are to be made places on file with the Register of Copyrights a document identifying the name and address of the person to whom such submissions are to be made. The Register shall maintain for public inspection a file of all such documents.
 
-(3) **Statutory license where retransmissions into local market available.—**
+(3) **Noncompliance with reporting and payment requirements.—** — Notwithstanding the provisions of paragraphs (1) and (2), the willful or repeated secondary transmission to the public by a satellite carrier of a primary transmission made by a non-network station or a network station and embodying a performance or display of a work is actionable as an act of infringement under section 501, and is fully subject to the remedies provided by sections 502 through 506, where the satellite carrier has not deposited the statement of account and royalty fee required by subsection (b), or has failed to make the submissions to networks required by paragraph (2)(C).
 
-  (A) *Rules for subscribers to signals under subsection (e).—*
+(4) **Willful alterations.—** — Notwithstanding the provisions of paragraphs (1) and (2), the secondary transmission to the public by a satellite carrier of a performance or display of a work embodied in a primary transmission made by a non-network station or a network station is actionable as an act of infringement under section 501, and is fully subject to the remedies provided by sections 502 through 506 and section 510, if the content of the particular program in which the performance or display is embodied, or any commercial advertising or station announcement transmitted by the primary transmitter during, or immediately before or after, the transmission of such program, is in any way willfully altered by the satellite carrier through changes, deletions, or additions, or is combined with programming from any other broadcast signal.
 
-    (i) *For those receiving distant signals.—* — In the case of a subscriber of a satellite carrier who is eligible to receive the secondary transmission of the primary transmission of a network station solely by reason of subsection (e) (in this subparagraph referred to as a “distant signal”), and who, as of October 1, 2004, is receiving the distant signal of that network station, the following shall apply:
-
-      (I) In a case in which the satellite carrier makes available to the subscriber the secondary transmission of the primary transmission of a local network station affiliated with the same television network pursuant to the statutory license under section 122, the statutory license under paragraph (2) shall apply only to secondary transmissions by that satellite carrier to that subscriber of the distant signal of a station affiliated with the same television network—
-
-        (aa) if, within 60 days after receiving the notice of the satellite carrier under section 338(h)(1) of the Communications Act of 1934, the subscriber elects to retain the distant signal; but
-
-        (bb) only until such time as the subscriber elects to receive such local signal.
-
-      (II) Notwithstanding subclause (I), the statutory license under paragraph (2) shall not apply with respect to any subscriber who is eligible to receive the distant signal of a television network station solely by reason of subsection (e), unless the satellite carrier, within 60 days after the date of the enactment of the Satellite Home Viewer Extension and Reauthorization Act of 2004, submits to that television network a list, aggregated by designated market area (as defined in section 122(j)(2)(C)), that—
-
-        (aa) identifies that subscriber by name and address (street or rural route number, city, State, and zip code) and specifies the distant signals received by the subscriber; and
-
-        (bb) states, to the best of the satellite carrier’s knowledge and belief, after having made diligent and good faith inquiries, that the subscriber is eligible under subsection (e) to receive the distant signals.
-
-    (ii) *For those not receiving distant signals.—* — In the case of any subscriber of a satellite carrier who is eligible to receive the distant signal of a network station solely by reason of subsection (e) and who did not receive a distant signal of a station affiliated with the same network on October 1, 2004, the statutory license under paragraph (2) shall not apply to secondary transmissions by that satellite carrier to that subscriber of the distant signal of a station affiliated with the same network.
-
-  (B) *Rules for lawful subscribers as of date of enactment of 2010 act.—* — In the case of a subscriber of a satellite carrier who, on the day before the date of the enactment of the Satellite Television Extension and Localism Act of 2010, was lawfully receiving the secondary transmission of the primary transmission of a network station under the statutory license under paragraph (2) (in this subparagraph referred to as the “distant signal”), other than subscribers to whom subparagraph (A) applies, the statutory license under paragraph (2) shall apply to secondary transmissions by that satellite carrier to that subscriber of the distant signal of a station affiliated with the same television network, and the subscriber’s household shall continue to be considered to be an unserved household with respect to such network, until such time as the subscriber elects to terminate such secondary transmissions, whether or not the subscriber elects to subscribe to receive the secondary transmission of the primary transmission of a local network station affiliated with the same network pursuant to the statutory license under section 122.
-
-  (C) *Future applicability.—*
-
-    (i) *When local signal available at time of subscription.—* — The statutory license under paragraph (2) shall not apply to the secondary transmission by a satellite carrier of the primary transmission of a network station to a person who is not a subscriber lawfully receiving such secondary transmission as of the date of the enactment of the Satellite Television Extension and Localism Act of 2010 and, at the time such person seeks to subscribe to receive such secondary transmission, resides in a local market where the satellite carrier makes available to that person the secondary transmission of the primary transmission of a local network station affiliated with the same network pursuant to the statutory license under section 122.
-
-    (ii) *When local signal available after subscription.—* — In the case of a subscriber who lawfully subscribes to and receives the secondary transmission by a satellite carrier of the primary transmission of a network station under the statutory license under paragraph (2) (in this clause referred to as the “distant signal”) on or after the date of the enactment of the Satellite Television Extension and Localism Act of 2010, the statutory license under paragraph (2) shall apply to secondary transmissions by that satellite carrier to that subscriber of the distant signal of a station affiliated with the same television network, and the subscriber’s household shall continue to be considered to be an unserved household with respect to such network, until such time as the subscriber elects to terminate such secondary transmissions, but only if such subscriber subscribes to the secondary transmission of the primary transmission of a local network station affiliated with the same network within 60 days after the satellite carrier makes available to the subscriber such secondary transmission of the primary transmission of such local network station.
-
-  (D) *Other provisions not affected.—* — This paragraph shall not affect the applicability of the statutory license to secondary transmissions to unserved households included under paragraph (11).
-
-  (E) *Waiver.—* — A subscriber who is denied the secondary transmission of a network station under subparagraph (B) or (C) may request a waiver from such denial by submitting a request, through the subscriber’s satellite carrier, to the network station in the local market affiliated with the same network where the subscriber is located. The network station shall accept or reject the subscriber’s request for a waiver within 30 days after receipt of the request. If the network station fails to accept or reject the subscriber’s request for a waiver within that 30-day period, that network station shall be deemed to agree to the waiver request. Unless specifically stated by the network station, a waiver that was granted before the date of the enactment of the Satellite Home Viewer Extension and Reauthorization Act of 2004 under section 339(c)(2) of the Communications Act of 1934 shall not constitute a waiver for purposes of this subparagraph.
-
-  (F) *Available defined.—* — For purposes of this paragraph, a satellite carrier makes available a secondary transmission of the primary transmission of a local station to a subscriber or person if the satellite carrier offers that secondary transmission to other subscribers who reside in the same 9-digit zip code as that subscriber or person.
-
-(4) **Noncompliance with reporting and payment requirements.—** — Notwithstanding the provisions of paragraphs (1) and (2), the willful or repeated secondary transmission to the public by a satellite carrier of a primary transmission made by a non-network station or a network station and embodying a performance or display of a work is actionable as an act of infringement under section 501, and is fully subject to the remedies provided by sections 502 through 506, where the satellite carrier has not deposited the statement of account and royalty fee required by subsection (b), or has failed to make the submissions to networks required by paragraph (2)(C).
-
-(5) **Willful alterations.—** — Notwithstanding the provisions of paragraphs (1) and (2), the secondary transmission to the public by a satellite carrier of a performance or display of a work embodied in a primary transmission made by a non-network station or a network station is actionable as an act of infringement under section 501, and is fully subject to the remedies provided by sections 502 through 506 and section 510, if the content of the particular program in which the performance or display is embodied, or any commercial advertising or station announcement transmitted by the primary transmitter during, or immediately before or after, the transmission of such program, is in any way willfully altered by the satellite carrier through changes, deletions, or additions, or is combined with programming from any other broadcast signal.
-
-(6) **Violation of territorial restrictions on statutory license for network stations.—**
+(5) **Violation of territorial restrictions on statutory license for network stations.—**
 
   (A) *Individual violations.—* — The willful or repeated secondary transmission by a satellite carrier of a primary transmission made by a network station and embodying a performance or display of a work to a subscriber who is not eligible to receive the transmission under this section is actionable as an act of infringement under section 501 and is fully subject to the remedies provided by sections 502 through 506, except that—
 
@@ -4359,29 +4357,13 @@ Section effective Oct. 19, 1976, see section 102 of Pub. L. 94–553, set out as
   (C) *Previous subscribers excluded.—* — Subparagraphs (A) and (B) do not apply to secondary transmissions by a satellite carrier to persons who subscribed to receive such secondary transmissions from the satellite carrier or a distributor before November 16, 1988.
 
   (D) *Burden of proof.—* — In any action brought under this paragraph, the satellite carrier shall have the burden of proving that its secondary transmission of a primary transmission by a network station is to a subscriber who is eligible to receive the secondary transmission under this section.
-
-  (E) *Exception.—* — The secondary transmission by a satellite carrier of a performance or display of a work embodied in a primary transmission made by a network station to subscribers who do not reside in unserved households shall not be an act of infringement if—
-
-    (i) the station on May 1, 1991, was retransmitted by a satellite carrier and was not on that date owned or operated by or affiliated with a television network that offered interconnected program service on a regular basis for 15 or more hours per week to at least 25 affiliated television licensees in 10 or more States;
-
-    (ii) as of July 1, 1998, such station was retransmitted by a satellite carrier under the statutory license of this section; and
-
-    (iii) the station is not owned or operated by or affiliated with a television network that, as of January 1, 1995, offered interconnected program service on a regular basis for 15 or more hours per week to at least 25 affiliated television licensees in 10 or more States.
   The court shall direct one half of any statutory damages ordered under clause (i) 11 So in original. Probably means subpar. (B)(i). to be deposited with the Register of Copyrights for distribution to copyright owners pursuant to subsection (b). The Copyright Royalty Judges shall issue regulations establishing procedures for distributing such funds, on a proportional basis, to copyright owners whose works were included in the secondary transmissions that were the subject of the statutory damages.
 
-(7) **Discrimination by a satellite carrier.—** — Notwithstanding the provisions of paragraph (1), the willful or repeated secondary transmission to the public by a satellite carrier of a performance or display of a work embodied in a primary transmission made by a non-network station or a network station is actionable as an act of infringement under section 501, and is fully subject to the remedies provided by sections 502 through 506, if the satellite carrier unlawfully discriminates against a distributor.
+(6) **Discrimination by a satellite carrier.—** — Notwithstanding the provisions of paragraph (1), the willful or repeated secondary transmission to the public by a satellite carrier of a performance or display of a work embodied in a primary transmission made by a non-network station or a network station is actionable as an act of infringement under section 501, and is fully subject to the remedies provided by sections 502 through 506, if the satellite carrier unlawfully discriminates against a distributor.
 
-(8) **Geographic limitation on secondary transmissions.—** — The statutory license created by this section shall apply only to secondary transmissions to households located in the United States.
+(7) **Geographic limitation on secondary transmissions.—** — The statutory license created by this section shall apply only to secondary transmissions to households located in the United States.
 
-(9) **Loser pays for signal intensity measurement; recovery of measurement costs in a civil action.—** — In any civil action filed relating to the eligibility of subscribing households as unserved households—
-
-  (A) a network station challenging such eligibility shall, within 60 days after receipt of the measurement results and a statement of such costs, reimburse the satellite carrier for any signal intensity measurement that is conducted by that carrier in response to a challenge by the network station and that establishes the household is an unserved household; and
-
-  (B) a satellite carrier shall, within 60 days after receipt of the measurement results and a statement of such costs, reimburse the network station challenging such eligibility for any signal intensity measurement that is conducted by that station and that establishes the household is not an unserved household.
-
-(10) **Inability to conduct measurement.—** — If a network station makes a reasonable attempt to conduct a site measurement of its signal at a subscriber’s household and is denied access for the purpose of conducting the measurement, and is otherwise unable to conduct a measurement, the satellite carrier shall within 60 days notice thereof, terminate service of the station’s network to that household.
-
-(11) **Service to recreational vehicles and commercial trucks.—**
+(8) **Service to recreational vehicles and commercial trucks.—**
 
   (A) *Exemption.—*
 
@@ -4409,11 +4391,9 @@ Section effective Oct. 19, 1976, see section 102 of Pub. L. 94–553, set out as
 
   (C) *Updated documentation requirements.—* — If a satellite carrier wishes to continue to make secondary transmissions to a recreational vehicle or commercial truck for more than a 2-year period, that carrier shall provide each network, upon request, with updated documentation in the form described under subparagraph (B) during the 90 days before expiration of that 2-year period.
 
-(12) **Statutory license contingent on compliance with fcc rules and remedial steps.—** — Notwithstanding any other provision of this section, the willful or repeated secondary transmission to the public by a satellite carrier of a primary transmission embodying a performance or display of a work made by a broadcast station licensed by the Federal Communications Commission is actionable as an act of infringement under section 501, and is fully subject to the remedies provided by sections 502 through 506, if, at the time of such transmission, the satellite carrier is not in compliance with the rules, regulations, and authorizations of the Federal Communications Commission concerning the carriage of television broadcast station signals.
+(9) **Statutory license contingent on compliance with fcc rules and remedial steps.—** — Notwithstanding any other provision of this section, the willful or repeated secondary transmission to the public by a satellite carrier of a primary transmission embodying a performance or display of a work made by a broadcast station licensed by the Federal Communications Commission is actionable as an act of infringement under section 501, and is fully subject to the remedies provided by sections 502 through 506, if, at the time of such transmission, the satellite carrier is not in compliance with the rules, regulations, and authorizations of the Federal Communications Commission concerning the carriage of television broadcast station signals.
 
-(13) **Waivers.—** — A subscriber who is denied the secondary transmission of a signal of a network station under subsection (a)(2)(B) may request a waiver from such denial by submitting a request, through the subscriber’s satellite carrier, to the network station asserting that the secondary transmission is prohibited. The network station shall accept or reject a subscriber’s request for a waiver within 30 days after receipt of the request. If a television network station fails to accept or reject a subscriber’s request for a waiver within the 30-day period after receipt of the request, that station shall be deemed to agree to the waiver request and have filed such written waiver. Unless specifically stated by the network station, a waiver that was granted before the date of the enactment of the Satellite Home Viewer Extension and Reauthorization Act of 2004 under section 339(c)(2) of the Communications Act of 1934, and that was in effect on such date of enactment, shall constitute a waiver for purposes of this paragraph.
-
-(14) **Restricted transmission of out-of-state distant network signals into certain markets.—**
+(10) **Restricted transmission of out-of-state distant network signals into certain markets.—**
 
   (A) *Out-of-state network affiliates.—* — Notwithstanding any other provision of this title, the statutory license in this subsection and subsection (b) shall not apply to any secondary transmission of the primary transmission of a network station located outside of the State of Alaska to any subscriber in that State to whom the secondary transmission of the primary transmission of a television station located in that State is made available by the satellite carrier pursuant to section 122.
 
@@ -4465,7 +4445,7 @@ Section effective Oct. 19, 1976, see section 102 of Pub. L. 94–553, set out as
 
       (III) *Adoption of fees.—* — The Copyright Royalty Judges shall adopt the royalty fees from the voluntary agreement for all satellite carriers, distributors, and copyright owners without convening the proceeding under subparagraph (F) unless a party with an intent to participate in that proceeding and a significant interest in the outcome of that proceeding objects under subclause (II).
 
-  (E) *Period agreement is in effect.—* — The obligation to pay the royalty fees established under a voluntary agreement which has been filed with the Copyright Royalty Judges in accordance with this paragraph shall become effective on the date specified in the agreement, and shall remain in effect until December 31, 2019, or in accordance with the terms of the agreement, whichever is later.
+  (E) *Period agreement is in effect.—* — The obligation to pay the royalty fees established under a voluntary agreement which has been filed with the Copyright Royalty Judges in accordance with this paragraph shall become effective on the date specified in the agreement and shall remain in effect in accordance with the terms of the agreement until the subscriber for which the royalty is payable is no longer eligible to receive a secondary transmission pursuant to the license under this section.
 
   (F) *Fee set by copyright royalty judges proceeding.—*
 
@@ -4521,19 +4501,9 @@ Section effective Oct. 19, 1976, see section 102 of Pub. L. 94–553, set out as
 
 (10) **Unserved household.—** — The term “unserved household”, with respect to a particular television network, means a household that—
 
-  (A) cannot receive, through the use of an antenna, an over-the-air signal containing the primary stream, or, on or after the qualifying date, the multicast stream, originating in that household’s local market and affiliated with that network of—
+  (A) is a subscriber to whom subsection (a)(8) applies; or
 
-    (i) if the signal originates as an analog signal, Grade B intensity as defined by the Federal Communications Commission in section 73.683(a) of title 47, Code of Federal Regulations, as in effect on January 1, 1999; or
-
-    (ii) if the signal originates as a digital signal, intensity defined in the values for the digital television noise-limited service contour, as defined in regulations issued by the Federal Communications Commission (section 73.622(e) of title 47, Code of Federal Regulations), as such regulations may be amended from time to time;
-
-  (B) is subject to a waiver that meets the standards of subsection (a)(13), whether or not the waiver was granted before the date of the enactment of the Satellite Television Extension and Localism Act of 2010;
-
-  (C) is a subscriber to whom subsection (e) applies;
-
-  (D) is a subscriber to whom subsection (a)(11) applies; or
-
-  (E) is a subscriber to whom the exemption under subsection (a)(2)(B)(iii) applies.
+  (B) is a subscriber located in a short market.
 
 (11) **Local market.—** — The term “local market” has the meaning given such term under section 122(j).
 
@@ -4543,15 +4513,9 @@ Section effective Oct. 19, 1976, see section 102 of Pub. L. 94–553, set out as
 
   (B) does not include a multi-unit permanent or temporary dwelling where private home viewing occurs, such as a hotel, dormitory, hospital, apartment, condominium, or prison.
 
-(13) **Qualifying date.—** — The term “qualifying date”, for purposes of paragraph (10)(A), means—
+(13) **Multicast stream.—** — The term “multicast stream” means a digital stream containing programming and program-related material affiliated with a television network, other than the primary stream.
 
-  (A) October 1, 2010, for multicast streams that exist on March 31, 2010; and
-
-  (B) January 1, 2011, for all other multicast streams.
-
-(14) **Multicast stream.—** — The term “multicast stream” means a digital stream containing programming and program-related material affiliated with a television network, other than the primary stream.
-
-(15) **Primary stream.—** — The term “primary stream” means—
+(14) **Primary stream.—** — The term “primary stream” means—
 
   (A) the single digital stream of programming as to which a television broadcast station has the right to mandatory carriage with a satellite carrier under the rules of the Federal Communications Commission in effect on July 1, 2009; or
 
@@ -4561,9 +4525,11 @@ Section effective Oct. 19, 1976, see section 102 of Pub. L. 94–553, set out as
 
     (ii) if there is no stream described in clause (i), then the single digital stream of programming affiliated with the network that, as of July 1, 2009, had been offered by the television broadcast station for the longest period of time.
 
-**(e) Moratorium on Copyright Liability.—** Until December 31, 2019, a subscriber who does not receive a signal of Grade A intensity (as defined in the regulations of the Federal Communications Commission under section 73.683(a) of title 47, Code of Federal Regulations, as in effect on January 1, 1999, or predicted by the Federal Communications Commission using the Individual Location Longley-Rice methodology described by the Federal Communications Commission in Docket No. 98–201) of a local network television broadcast station shall remain eligible to receive signals of network stations affiliated with the same network, if that subscriber had satellite service of such network signal terminated after July 11, 1998, and before October 31, 1999, as required by this section, or received such service on October 31, 1999.
+(15) **Local-into-local service to all dmas.—** — The term “local-into-local service to all DMAs” has the meaning given such term in subsection (f)(7).
 
-**(f) Expedited Consideration by Justice Department of Voluntary Agreements to Provide Satellite Secondary Transmissions to Local Markets.—**
+(16) **Short market.—** — The term “short market” means a local market in which programming of one or more of the four most widely viewed television networks nationwide is not offered on either the primary stream or multicast stream transmitted by any network station in that market or is temporarily or permanently unavailable as a result of an act of god 22 So in original. Probably should be capitalized. or other force majeure event beyond the control of the carrier.
+
+**(e) Expedited Consideration by Justice Department of Voluntary Agreements to Provide Satellite Secondary Transmissions to Local Markets.—**
 
 (1) **In general.—** — In a case in which no satellite carrier makes available, to subscribers located in a local market, as defined in section 122(j)(2), the secondary transmission into that market of a primary transmission of one or more television broadcast stations licensed by the Federal Communications Commission, and two or more satellite carriers request a business review letter in accordance with section 50.6 of title 28, Code of Federal Regulations (as in effect on July 7, 2004), in order to assess the legality under the antitrust laws of proposed business conduct to make or carry out an agreement to provide such secondary transmission into such local market, the appropriate official of the Department of Justice shall respond to the request no later than 90 days after the date on which the request is received.
 
@@ -4573,13 +4539,13 @@ Section effective Oct. 19, 1976, see section 102 of Pub. L. 94–553, set out as
 
   (B) includes any State law similar to the laws referred to in paragraph (1).
 
-**(g) Certain Waivers Granted to Providers of Local-into-local Service to All DMAs.—**
+**(f) Certain Waivers Granted to Providers of Local-into-local Service to All DMAs.—**
 
-(1) **Injunction waiver.—** — A court that issued an injunction pursuant to subsection (a)(7)(B) before the date of the enactment of this subsection shall waive such injunction if the court recognizes the entity against which the injunction was issued as a qualified carrier.
+(1) **Injunction waiver.—** — A court that issued an injunction pursuant to subsection (a)(5)(B) before the date of the enactment of this subsection shall waive such injunction if the court recognizes the entity against which the injunction was issued as a qualified carrier.
 
 (2) **Limited temporary waiver.—**
 
-  (A) *In general.—* — Upon a request made by a satellite carrier, a court that issued an injunction against such carrier under subsection (a)(7)(B) before the date of the enactment of this subsection shall waive such injunction with respect to the statutory license provided under subsection (a)(2) to the extent necessary to allow such carrier to make secondary transmissions of primary transmissions made by a network station to unserved households located in short markets in which such carrier was not providing local service pursuant to the license under section 122 as of December 31, 2009.
+  (A) *In general.—* — Upon a request made by a satellite carrier, a court that issued an injunction against such carrier under subsection (a)(5)(B) before the date of the enactment of this subsection shall waive such injunction with respect to the statutory license provided under subsection (a)(2) to the extent necessary to allow such carrier to make secondary transmissions of primary transmissions made by a network station to unserved households located in short markets in which such carrier was not providing local service pursuant to the license under section 122 as of December 31, 2009.
 
   (B) *Expiration of temporary waiver.—* — A temporary waiver of an injunction under subparagraph (A) shall expire after the end of the 120-day period beginning on the date such temporary waiver is issued unless extended for good cause by the court making the temporary waiver.
 
@@ -4587,7 +4553,7 @@ Section effective Oct. 19, 1976, see section 102 of Pub. L. 94–553, set out as
 
     (i) *Failure to act reasonably and in good faith.—* — If the court issuing a temporary waiver under subparagraph (A) determines that the satellite carrier that made the request for such waiver has failed to act reasonably or has failed to make a good faith effort to provide local-into-local service to all DMAs, such failure—
 
-      (I) is actionable as an act of infringement under section 501 and the court may in its discretion impose the remedies provided for in sections 502 through 506 and subsection (a)(6)(B) of this section; and
+      (I) is actionable as an act of infringement under section 501 and the court may in its discretion impose the remedies provided for in sections 502 through 506 and subsection (a)(6)(B) of this section; 33 See References in Text note below. and
 
       (II) shall result in the termination of the waiver issued under subparagraph (A).
 
@@ -4663,7 +4629,7 @@ Section effective Oct. 19, 1976, see section 102 of Pub. L. 94–553, set out as
 
   (A) *Penalties.—* — If the court recognizing an entity as a qualified carrier finds that such entity has willfully failed to provide local-into-local service to all DMAs, such finding shall result in the loss of recognition of the entity as a qualified carrier and the termination of the waiver provided under paragraph (1), and the court may, in its discretion—
 
-    (i) treat such failure as an act of infringement under section 501, and subject such infringement to the remedies provided for in sections 502 through 506 and subsection (a)(6)(B) of this section; and
+    (i) treat such failure as an act of infringement under section 501, and subject such infringement to the remedies provided for in sections 502 through 506 and subsection (a)(6)(B) of this section; 3 and
 
     (ii) impose a fine of not less than $250,000 and not more than $5,000,000.
 
@@ -4675,35 +4641,92 @@ Section effective Oct. 19, 1976, see section 102 of Pub. L. 94–553, set out as
 
     (iii) the severity and duration of any service interruption.
 
-(6) **Penalties for violations of license.—** — A court that finds, under subsection (a)(6)(A), that an entity recognized as a qualified carrier has willfully made a secondary transmission of a primary transmission made by a network station and embodying a performance or display of a work to a subscriber who is not eligible to receive the transmission under this section shall reinstate the injunction waived under paragraph (1), and the court may order statutory damages of not more than $2,500,000.
+(6) **Penalties for violations of license.—** — A court that finds, under subsection (a)(6)(A),3 that an entity recognized as a qualified carrier has willfully made a secondary transmission of a primary transmission made by a network station and embodying a performance or display of a work to a subscriber who is not eligible to receive the transmission under this section shall reinstate the injunction waived under paragraph (1), and the court may order statutory damages of not more than $2,500,000.
 
 (7) **Local-into-local service to all dmas defined.—** — For purposes of this subsection:
 
-  (A) *In general.—* — An entity provides “local-into-local service to all DMAs” if the entity provides local service in all designated market areas (as such term is defined in section 122(j)(2)(C)) pursuant to the license under section 122.
+  (A) *In general.—* — An entity provides “local-into-local service to all DMAs” if the entity provides local service in all designated market areas (as such term is defined in section 122(j)(2)(C)) pursuant to the license under section 122, except for designated market areas where the entity is temporarily or permanently unable to provide local service as a result of an act of god 2 or other force majeure event beyond the control of the entity.
 
   (B) *Household coverage.—* — For purposes of subparagraph (A), an entity that makes available local-into-local service with a good quality satellite signal to at least 90 percent of the households in a designated market area based on the most recent census data released by the United States Census Bureau shall be considered to be providing local service to such designated market area.
 
-  (C) *Good quality satellite signal defined.—* — The term “good quality satellite signal” has the meaning given such term under section 342(e)(2) of Communications 22 So in original. Probably should be preceded by “the”. Act of 1934.
-
-**(h) Termination of License.—** This section shall cease to be effective on December 31, 2019.
+  (C) *Good quality satellite signal defined.—* — The term “good quality satellite signal” has the meaning given such term under section 342(e)(2) of Communications 44 So in original. Probably should be preceded by “the”. Act of 1934.
 
 ### Statutory Notes
 
-#### Termination of Section
-For termination of section, see subsection (h) of this section.
-
 #### References in Text
-The date of the enactment of the Satellite Home Viewer Extension and Reauthorization Act of 2004, referred to in subsec. (a)(3)(A)(i)(II), (E), (13), is the date of the enactment of Pub. L. 108–447, which was approved Dec. 8, 2004.
-
-The date of the enactment of the Satellite Television Extension and Localism Act of 2010, referred to in subsecs. (a)(3)(B), (C) and (d)(10)(B), is the date of enactment of Pub. L. 111–175, which shall be deemed to refer to Feb. 27, 2010, see section 307(a) of Pub. L. 111–175, set out as an Effective Date of 2010 Amendment note under [section 111 of this title](./chapter-001-subject-matter-and-scope-of-copyright.md#section-111).
-
 The Communications Act of 1934, referred to in subsec. (d)(6), is act June 19, 1934, ch. 652, 48 Stat. 1064, which is classified principally to chapter 5 (§ 151 et seq.) of Title 47, Telecommunications. Sections 338, 339, 342, and 397 of the Act are classified to sections 338, 339, 342, and 397, respectively, of Title 47. For complete classification of this Act to the Code, see [section 609 of Title 47](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title47-section609&num=0&edition=prelim) and Tables.
 
-The date of the enactment of this subsection, referred to in subsec. (g)(1), (2)(A), (E), is the date of enactment of Pub. L. 111–175, which shall be deemed to refer to Feb. 27, 2010. See section 307(a) of Pub. L. 111–175, set out as an Effective Date of 2010 Amendment note under [section 111 of this title](./chapter-001-subject-matter-and-scope-of-copyright.md#section-111).
+The date of the enactment of this subsection, referred to in subsec. (f)(1), (2)(A), (E), is the date of enactment of Pub. L. 111–175, which shall be deemed to refer to Feb. 27, 2010. See section 307(a) of Pub. L. 111–175, set out as an Effective Date of 2010 Amendment note under [section 111 of this title](./chapter-001-subject-matter-and-scope-of-copyright.md#section-111).
 
-The Federal Rules of Civil Procedure, referred to in subsec. (g)(3)(A)(iii), are set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
+Subsection (a)(6) of this section, referred to in subsec. (f)(2)(C)(i)(I), (5)(A)(i), (6), was redesignated subsec. (a)(5) of this section by Pub. L. 116–94, div. P, title XI, § 1102(a)(1)(C), Dec. 20, 2019, 133 Stat. 3202.
+
+The Federal Rules of Civil Procedure, referred to in subsec. (f)(3)(A)(iii), are set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
 
 #### Amendments
+2019—Subsec. (a)(1). Pub. L. 116–94, § 1102(c)(1)(A)(i), substituted “paragraphs (3), (4), and (6)” for “paragraphs (4), (5), and (7)”.
+
+Subsec. (a)(2)(A). Pub. L. 116–94, § 1102(a)(1)(A)(i), (c)(1)(A)(ii), substituted “paragraphs (3), (4), (5), and (6)” for “paragraphs (4), (5), (6), and (7)” and “signals,” for “signals, and”, inserted “, and the carrier provides local-into-local service to all DMAs” after “receiving the secondary transmission”, and inserted at end “Failure to reach an agreement with a network station to retransmit the signals of the station shall not be construed to affect compliance with providing local-into-local service to all DMAs if the satellite carrier has the capability to retransmit such signals when an agreement is reached.”
+
+Subsec. (a)(2)(B)(ii), (iii). Pub. L. 116–94, § 1102(a)(1)(A)(ii), added cl. (ii) and struck out former cls. (ii) and (iii) which related to accurate determinations of eligibility and C-band exemption to unserved households, respectively.
+
+Subsec. (a)(3). Pub. L. 116–94, § 1102(a)(1)(B), (C), redesignated par. (4) as (3) and struck out former par. (3) which related to statutory license where retransmissions into local market available.
+
+Subsec. (a)(4), (5). Pub. L. 116–94, § 1102(a)(1)(C), redesignated pars. (5) and (6) as (4) and (5), respectively. Former par. (4) redesignated (3).
+
+Subsec. (a)(6). Pub. L. 116–94, § 1102(a)(1)(C), redesignated par. (7) as (6). Former par. (6) redesignated (5).
+
+Subsec. (a)(6)(E). Pub. L. 116–94, § 1102(a)(1)(B), struck out subpar. (E). Text read as follows: “The secondary transmission by a satellite carrier of a performance or display of a work embodied in a primary transmission made by a network station to subscribers who do not reside in unserved households shall not be an act of infringement if—
+
+“(i) the station on May 1, 1991, was retransmitted by a satellite carrier and was not on that date owned or operated by or affiliated with a television network that offered interconnected program service on a regular basis for 15 or more hours per week to at least 25 affiliated television licensees in 10 or more States;
+
+“(ii) as of July 1, 1998, such station was retransmitted by a satellite carrier under the statutory license of this section; and
+
+“(iii) the station is not owned or operated by or affiliated with a television network that, as of January 1, 1995, offered interconnected program service on a regular basis for 15 or more hours per week to at least 25 affiliated television licensees in 10 or more States.”
+
+Subsec. (a)(7), (8). Pub. L. 116–94, § 1102(a)(1)(C), redesignated pars. (8) and (11) as (7) and (8), respectively. Former par. (7) redesignated (6).
+
+Subsec. (a)(9). Pub. L. 116–94, § 1102(a)(1)(B), (C), redesignated par. (12) as (9) and struck out former par. (9). Prior to amendment, text of par. (9) read as follows: “In any civil action filed relating to the eligibility of subscribing households as unserved households—
+
+“(A) a network station challenging such eligibility shall, within 60 days after receipt of the measurement results and a statement of such costs, reimburse the satellite carrier for any signal intensity measurement that is conducted by that carrier in response to a challenge by the network station and that establishes the household is an unserved household; and
+
+“(B) a satellite carrier shall, within 60 days after receipt of the measurement results and a statement of such costs, reimburse the network station challenging such eligibility for any signal intensity measurement that is conducted by that station and that establishes the household is not an unserved household.”
+
+Subsec. (a)(10). Pub. L. 116–94, § 1102(a)(1)(B), (C), redesignated par. (14) as (10) and struck out former par. (10). Prior to amendment, text of par. (10) read as follows: “If a network station makes a reasonable attempt to conduct a site measurement of its signal at a subscriber’s household and is denied access for the purpose of conducting the measurement, and is otherwise unable to conduct a measurement, the satellite carrier shall within 60 days notice thereof, terminate service of the station’s network to that household.”
+
+Subsec. (a)(11), (12). Pub. L. 116–94, § 1102(a)(1)(C), redesignated pars. (11) and (12) as (8) and (9), respectively.
+
+Subsec. (a)(13). Pub. L. 116–94, § 1102(a)(1)(B), struck out par. (13). Text read as follows: “A subscriber who is denied the secondary transmission of a signal of a network station under subsection (a)(2)(B) may request a waiver from such denial by submitting a request, through the subscriber’s satellite carrier, to the network station asserting that the secondary transmission is prohibited. The network station shall accept or reject a subscriber’s request for a waiver within 30 days after receipt of the request. If a television network station fails to accept or reject a subscriber’s request for a waiver within the 30-day period after receipt of the request, that station shall be deemed to agree to the waiver request and have filed such written waiver. Unless specifically stated by the network station, a waiver that was granted before the date of the enactment of the Satellite Home Viewer Extension and Reauthorization Act of 2004 under section 339(c)(2) of the Communications Act of 1934, and that was in effect on such date of enactment, shall constitute a waiver for purposes of this paragraph.”
+
+Subsec. (a)(14). Pub. L. 116–94, § 1102(a)(1)(C), redesignated par. (14) as (10).
+
+Subsec. (c)(1)(E). Pub. L. 116–94, § 1102(a)(2), substituted “in the agreement and shall remain in effect in accordance with the terms of the agreement until the subscriber for which the royalty is payable is no longer eligible to receive a secondary transmission pursuant to the license under this section.” for “in the agreement, and shall remain in effect until December 31, 2019, or in accordance with the terms of the agreement, whichever is later.”
+
+Subsec. (d)(10). Pub. L. 116–94, § 1102(a)(3)(A), redesignated subpar. (D) as (A) and substituted “subsection (a)(8)” for “subsection (a)(11)”, added subpar. (B), and struck out former subpars. (A) to (C) and (E) which read as follows:
+
+“(A) cannot receive, through the use of an antenna, an over-the-air signal containing the primary stream, or, on or after the qualifying date, the multicast stream, originating in that household’s local market and affiliated with that network of—
+
+“(i) if the signal originates as an analog signal, Grade B intensity as defined by the Federal Communications Commission in section 73.683(a) of title 47, Code of Federal Regulations, as in effect on January 1, 1999; or
+
+“(ii) if the signal originates as a digital signal, intensity defined in the values for the digital television noise-limited service contour, as defined in regulations issued by the Federal Communications Commission (section 73.622(e) of title 47, Code of Federal Regulations), as such regulations may be amended from time to time;
+
+“(B) is subject to a waiver that meets the standards of subsection (a)(13), whether or not the waiver was granted before the date of the enactment of the Satellite Television Extension and Localism Act of 2010;
+
+“(C) is a subscriber to whom subsection (e) applies;
+
+“(E) is a subscriber to whom the exemption under subsection (a)(2)(B)(iii) applies.”
+
+Subsec. (d)(13) to (16). Pub. L. 116–94, § 1102(a)(3)(B)–(D), redesignated pars. (14) and (15) as (13) and (14), respectively, added pars. (15) and (16), and struck out former par. (13) which defined the term “qualifying date” for purposes of former subsec. (d)(10)(A).
+
+Subsec. (e). Pub. L. 116–94, § 1102(a)(4), (6), redesignated subsec. (f) as (e) and struck out former subsec. (e). Prior to amendment, text of subsec. (e) read as follows: “Until December 31, 2019, a subscriber who does not receive a signal of Grade A intensity (as defined in the regulations of the Federal Communications Commission under section 73.683(a) of title 47, Code of Federal Regulations, as in effect on January 1, 1999, or predicted by the Federal Communications Commission using the Individual Location Longley-Rice methodology described by the Federal Communications Commission in Docket No. 98–201) of a local network television broadcast station shall remain eligible to receive signals of network stations affiliated with the same network, if that subscriber had satellite service of such network signal terminated after July 11, 1998, and before October 31, 1999, as required by this section, or received such service on October 31, 1999.”
+
+Subsec. (f). Pub. L. 116–94, § 1102(a)(6), (c)(1)(B), redesignated subsec. (g) as (f) and substituted “subsection (a)(5)(B)” for “subsection (a)(7)(B)” in pars. (1) and (2)(A). Former subsec. (f) redesignated (e).
+
+Subsec. (g). Pub. L. 116–94, § 1102(a)(6), redesignated subsec. (g) as (f).
+
+Subsec. (g)(7)(A). Pub. L. 116–94, § 1102(a)(5), inserted “, except for designated market areas where the entity is temporarily or permanently unable to provide local service as a result of an act of god or other force majeure event beyond the control of the entity” after “section 122”.
+
+Subsec. (h). Pub. L. 116–94, § 1102(a)(4), struck out subsec. (h). Text read as follows: “This section shall cease to be effective on December 31, 2019.”
+
 2014—Subsec. (c)(1)(E). Pub. L. 113–200, § 201(2)(A), substituted “2019” for “2014”.
 
 Subsec. (e). Pub. L. 113–200, § 201(2)(B), substituted “2019” for “2014”.
@@ -5123,7 +5146,7 @@ Pub. L. 105–80, § 13, Nov. 13, 1997, 111 Stat. 1536, provided that: “(a) In
 Amendment by Pub. L. 104–39 effective 3 months after Nov. 1, 1995, see section 6 of Pub. L. 104–39, set out as a note under [section 101 of this title](./chapter-001-subject-matter-and-scope-of-copyright.md#section-101).
 
 #### Effective and Termination Dates of 1994 Amendment
-Pub. L. 103–369, § 6, Oct. 18, 1994, 108 Stat. 3481, provided that: “(a) In General.—Except as provided in subsections (b) and (d), this Act [amending this section and [section 111 of this title](./chapter-001-subject-matter-and-scope-of-copyright.md#section-111), enacting provisions set out as notes under this section and [section 101 of this title](./chapter-001-subject-matter-and-scope-of-copyright.md#section-101), and repealing provisions set out as a note under this section] and the amendments made by this Act take effect on the date of the enactment of this Act [Oct. 18, 1994]. “(b) Burden of Proof Provisions.—The provisions of section 119(a)(5)(D) [now section 119(a)(6)(D)] of title 17, United States Code (as added by section 2(2) of this Act) relating to the burden of proof of satellite carriers, shall take effect on January 1, 1997, with respect to civil actions relating to the eligibility of subscribers who subscribed to service as an unserved household before the date of the enactment of this Act. “(c) Transitional Signal Intensity Measurement Procedures.—The provisions of [former] [section 119(a)(8) of title 17](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title17-section119/a/8&num=0&edition=prelim), United States Code (as added by section 2(5) of this Act), relating to transitional signal intensity measurements, shall cease to be effective on December 31, 1996. “(d) Local Service Area of a Primary Transmitter.—The amendment made by section 3(b) [amending [section 111 of this title](./chapter-001-subject-matter-and-scope-of-copyright.md#section-111)], relating to the definition of the local service area of a primary transmitter, shall take effect on July 1, 1994.”
+Pub. L. 103–369, § 6, Oct. 18, 1994, 108 Stat. 3481, provided that: “(a) In General.—Except as provided in subsections (b) and (d), this Act [amending this section and [section 111 of this title](./chapter-001-subject-matter-and-scope-of-copyright.md#section-111), enacting provisions set out as notes under this section and [section 101 of this title](./chapter-001-subject-matter-and-scope-of-copyright.md#section-101), and repealing provisions set out as a note under this section] and the amendments made by this Act take effect on the date of the enactment of this Act [Oct. 18, 1994]. “(b) Burden of Proof Provisions.—The provisions of [section 119(a)(5)(D) of title 17](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title17-section119/a/5/D&num=0&edition=prelim), United States Code (as added by section 2(2) of this Act) relating to the burden of proof of satellite carriers, shall take effect on January 1, 1997, with respect to civil actions relating to the eligibility of subscribers who subscribed to service as an unserved household before the date of the enactment of this Act. “(c) Transitional Signal Intensity Measurement Procedures.—The provisions of [former] [section 119(a)(8) of title 17](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title17-section119/a/8&num=0&edition=prelim), United States Code (as added by section 2(5) of this Act), relating to transitional signal intensity measurements, shall cease to be effective on December 31, 1996. “(d) Local Service Area of a Primary Transmitter.—The amendment made by section 3(b) [amending [section 111 of this title](./chapter-001-subject-matter-and-scope-of-copyright.md#section-111)], relating to the definition of the local service area of a primary transmitter, shall take effect on July 1, 1994.”
 
 #### Effective Date
 Pub. L. 100–667, title II, § 206, Nov. 16, 1988, 102 Stat. 3960, provided that: “This title and the amendments made by this title [enacting this section and sections 612 and 613 of Title 47, Telecommunications, amending sections 111, 501, 801, and 804 of this title and [section 605 of Title 47](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title47-section605&num=0&edition=prelim), and enacting provisions set out as notes under this section and [section 101 of this title](./chapter-001-subject-matter-and-scope-of-copyright.md#section-101)] take effect on January 1, 1989, except that the authority of the Register of Copyrights to issue regulations pursuant to [section 119(b)(1) of title 17](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title17-section119/b/1&num=0&edition=prelim), United States Code, as added by section 202 of this Act, takes effect on the date of the enactment of this Act [Nov. 16, 1988].”
@@ -5131,13 +5154,14 @@ Pub. L. 100–667, title II, § 206, Nov. 16, 1988, 102 Stat. 3960, provided tha
 Pub. L. 100–667, title II, § 207, Nov. 16, 1988, 102 Stat. 3960, provided that this title and the amendments made by this title (other than the amendments made by section 205 [amending [section 605 of Title 47](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title47-section605&num=0&edition=prelim)]) cease to be effective on Dec. 31, 1994, prior to repeal by Pub. L. 103–369, § 4(b), Oct. 18, 1994, 108 Stat. 3481.
 
 #### Termination of Section
-For termination of section, see subsection (h) of this section.
-
 Pub. L. 111–175, title I, § 107(a), May 27, 2010, 124 Stat. 1245, which provided that this section would cease to be effective on Dec. 31, 2014, was repealed by Pub. L. 113–200, title II, § 202(b), Dec. 4, 2014, 128 Stat. 2066.
 
 Pub. L. 111–118, div. B, § 1003(a)(2)(A), Dec. 19, 2009, 123 Stat. 3469, as amended by Pub. L. 111–144, § 10(a)(2), Mar. 2, 2010, 124 Stat. 47; Pub. L. 111–151, § 2(a)(2), Mar. 26, 2010, 124 Stat. 1027; Pub. L. 111–157, § 9(a)(2), Apr. 15, 2010, 124 Stat. 1119, which provided that this section would cease to be effective on May 31, 2010, was repealed by Pub. L. 111–175, title I, § 107(b), May 27, 2010, 124 Stat. 1245.
 
 Pub. L. 103–369, § 4(a), Oct. 18, 1994, 108 Stat. 3481, as amended by Pub. L. 106–113, div. B, § 1000(a)(9) [title I, § 1003], Nov. 29, 1999, 113 Stat. 1536, 1501A–527; Pub. L. 108–447, div. J, title IX [title I, § 101(a)], Dec. 8, 2004, 118 Stat. 3394, which provided that this section would cease to be effective on Dec. 31, 2009, was repealed by Pub. L. 111–118, div. B, § 1003(a)(2)(B), Dec. 19, 2009, 123 Stat. 3469.
+
+#### Previously Covered Subscribers Under the STELA Reauthorization Act of 2014
+Pub. L. 116–94, div. P, title XI, § 1102(b), Dec. 20, 2019, 133 Stat. 3203, provided that: “(1) In general.—A subscriber of a satellite carrier who receives the secondary transmission of a network station under the statutory license in [section 119 of title 17](./chapter-001-subject-matter-and-scope-of-copyright.md#section-119), United States Code, as in effect on the day before the date of the enactment of this Act [Dec. 20, 2019], and to whom subsection (a)(2)(B) of such section, as amended by subsection (a), does not apply, shall continue to be eligible to receive that secondary transmission from such carrier under such license, and at the royalty rate established for such license by the Copyright Royalty Board or voluntary agreement, as applicable, until the date that is the earlier of—“(A) May 31, 2020; or “(B) the date on which such carrier provides local-into-local service to all DMAs. “(2) Definitions.—In this subsection, the terms ‘satellite carrier’, ‘subscriber’, ‘secondary transmission’, ‘network station’, and ‘local-into-local service to all DMAs’ have the meaning given those terms in [section 119 of title 17](./chapter-001-subject-matter-and-scope-of-copyright.md#section-119), United States Code.”
 
 #### Removal of Inconsistent Provisions
 Pub. L. 109–303, § 4(g), Oct. 6, 2006, 120 Stat. 1483, provided that: “The amendments contained in subsection (h) of section 5 of the Copyright Royalty and Distribution Reform Act of 2004 [Pub. L. 108–419, amending this section] shall be deemed never to have been enacted.”

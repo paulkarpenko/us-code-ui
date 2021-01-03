@@ -20,11 +20,7 @@ source: >-
 
 (5)
 
-  (A) The Director shall receive compensation at an annual rate of pay that is equal to the lower of—
-
-    (i) the highest annual rate of compensation of any officer of the Senate; or
-
-    (ii) the highest annual rate of compensation of any officer of the House of Representatives.
+  (A) The Director shall receive compensation at an annual rate of pay that is equal to the maximum rate of pay in effect under [section 4575(f) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section4575/f&num=0&edition=prelim).
 
   (B) The Deputy Director shall receive compensation at an annual rate of pay that is $1,000 less than the annual rate of pay received by the Director, as determined under subparagraph (A).
 
@@ -49,6 +45,12 @@ This Act, referred to in subsec. (f), means Pub. L. 93–344, July 12, 1974, 88 
 Pub. L. 101–508, § 12302(b), transferred section 273 of Pub. L. 99–177, which was classified to [section 921 of this title](./chapter-020-emergency-powers-to-eliminate-budget-deficits.md#section-921), to subsec. (g) (now (f)) of this section, relating to revenue estimates.
 
 #### Amendments
+2019—Subsec. (a)(5)(A). Pub. L. 116–94 substituted “the maximum rate of pay in effect under [section 4575(f) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section4575/f&num=0&edition=prelim).” for “the lower of—
+
+“(i) the highest annual rate of compensation of any officer of the Senate; or
+
+“(ii) the highest annual rate of compensation of any officer of the House of Representatives.”
+
 2004—Subsec. (e). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
 
 1999—Subsec. (a)(5). Pub. L. 106–113 amended par. (5) generally. Prior to amendment, par. (5) read as follows: “The Director shall receive compensation at a per annum gross rate equal to the rate of basic pay, as in effect from time to time, for level III of the Executive Schedule in [section 5314 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5314&num=0&edition=prelim). The Deputy Director shall receive compensation at a per annum gross rate equal to the rate of basic pay, as so in effect, for level IV of the Executive Schedule in section 5315 of such title.”
@@ -64,6 +66,9 @@ Subsecs. (f), (g). Pub. L. 105–33, § 10102(c), redesignated subsec. (g), rela
 Subsec. (g). Pub. L. 101–508, § 13202(a), redesignated subsec. (f), relating to authorization of appropriations, as (g).
 
 Pub. L. 101–508, § 12302(b), (c), redesignated [section 921 of this title](./chapter-020-emergency-powers-to-eliminate-budget-deficits.md#section-921) as subsec. (g) of this section, inserted heading “Revenue estimates” and substituted “this Act” for “this title and the Congressional Budget and Impoundment Control Act of 1974”.
+
+#### Effective Date of 2019 Amendment
+Amendment by Pub. L. 116–94 effective on the later of the first day of the first applicable pay period beginning on or after Jan. 1, 2020, or the first day of the first applicable pay period beginning on or after Dec. 20, 2019, see section 212(c) of Pub. L. 116–94, set out as a note under [section 282b of this title](./chapter-009-office-of-legislative-counsel.md#section-282b).
 
 #### Effective Date
 Subsec. (a) effective July 12, 1974, see section 905(a) of Pub. L. 93–344, and subsecs. (b) to (f) effective on day on which first Director of Congressional Budget Office is appointed under subsec. (a), see section 905(a), (b) of Pub. L. 93–344, formerly set out as a note under [section 621 of this title](./chapter-17a-congressional-budget-and-fiscal-operations.md#section-621).

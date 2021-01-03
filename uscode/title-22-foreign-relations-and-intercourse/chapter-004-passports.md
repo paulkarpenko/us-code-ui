@@ -208,10 +208,17 @@ Pub. L. 92–14, § 2, May 14, 1971, 85 Stat. 38, as amended by Pub. L. 93–126
 #### Effective Date of 1968 Amendment
 Amendment by Pub. L. 90–428 effective on thirtieth day following July 26, 1968, see section 4 of Pub. L. 90–428, set out as a note under [section 217a of this title](./chapter-004-passports.md#section-217a).
 
+#### Extension of Consular Fees
+Pub. L. 116–260, div. K, title VII, § 7069(a), Dec. 27, 2020, 134 Stat. 1812, provided that: “Section 1(b)(1) of the Passport Act of June 4, 1920 ([22 U.S.C. 214(b)(1)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section214/b/1&num=0&edition=prelim)) shall be applied through fiscal year 2021 by substituting ‘the costs of providing consular services’ for ‘such costs’.”
+
 #### Extension of Authority
-Pub. L. 116–6, div. F, title VII, § 7034(m)(1), Feb. 15, 2019, 133 Stat. 326, provided that: “Section 1(b)(2) of the Passport Act of June 4, 1920 ([22 U.S.C. 214(b)(2)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section214/b/2&num=0&edition=prelim)) shall be applied by substituting ‘September 30, 2019’ for ‘September 30, 2010’.”
+Pub. L. 116–260, div. K, title VII, § 7034(l)(1), Dec. 27, 2020, 134 Stat. 1749, provided that: “Section 1(b)(2) of the Passport Act of June 4, 1920 ([22 U.S.C. 214(b)(2)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section214/b/2&num=0&edition=prelim)) shall be applied by substituting ‘September 30, 2021’ for ‘September 30, 2010’.”
 
 Prior extensions were contained in the following prior acts:
+
+Pub. L. 116–94, div. G, title VII, § 7034(l)(1), Dec. 20, 2019, 133 Stat. 2872.
+
+Pub. L. 116–6, div. F, title VII, § 7034(m)(1), Feb. 15, 2019, 133 Stat. 326.
 
 Pub. L. 115–141, div. K, title VII, § 7034(l)(1), Mar. 23, 2018, 132 Stat. 895.
 

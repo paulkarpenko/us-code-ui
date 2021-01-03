@@ -2,7 +2,7 @@
 title: 42
 chapter: '77'
 heading: ENERGY CONSERVATION
-section_count: 145
+section_count: 146
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42&num=0&edition=prelim
 ---
@@ -838,7 +838,7 @@ Subsec. (h). Pub. L. 97–229, § 4(b)(2)(B), added subsec. (h).
 1978—Subsecs. (a)(1), (c), (d), (e)(1), (f), (f)(I), (g). Pub. L. 95–619 substituted “Secretary” for “Administrator”, meaning Administrator of the Federal Energy Administration, wherever appearing.
 
 #### Energy Security and Infrastructure Modernization Fund
-Pub. L. 114–74, title IV, § 404, Nov. 2, 2015, 129 Stat. 590, provided that: “(a) Establishment.—There is hereby established in the Treasury of the United States a fund to be known as the Energy Security and Infrastructure Modernization Fund (referred to in this section as the ‘Fund’), consisting of—“(1) collections deposited in the Fund under subsection (c); and “(2) amounts otherwise appropriated to the Fund. “(b) Purpose.—The purpose of the Fund is to provide for the construction, maintenance, repair, and replacement of Strategic Petroleum Reserve facilities. “(c) Collection and Deposit of Sale Proceeds in Fund.—“(1) Drawdown and sale.—Notwithstanding section 161 of the Energy Policy and Conservation Act ([42 U.S.C. 6241](./chapter-077-energy-conservation.md#section-6241)), to the extent provided in advance in appropriation Acts, the Secretary of Energy shall draw down and sell crude oil from the Strategic Petroleum Reserve in amounts as authorized under subsection (e), except as provided in paragraph (2). Amounts received for a sale under this paragraph shall be deposited into the Fund during the fiscal year in which the sale occurs. Such amounts shall remain available in the Fund without fiscal year limitation. “(2) Emergency protection.—The Secretary shall not draw down and sell crude oil under this subsection in amounts that would limit the authority to sell petroleum products under section 161(h) of the Energy Policy and Conservation Act ([42 U.S.C. 6241(h)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section6241/h&num=0&edition=prelim)) in the full amount authorized by that subsection. “(d) Authorized Uses of Fund.—“(1) In general.—Amounts in the Fund may be used for, or may be credited as offsetting collections for amounts used for, carrying out the program described in paragraph (2)(B), to the extent provided in advance in appropriation Acts. “(2) Program to modernize the strategic petroleum reserve.—“(A) Findings.—Congress finds the following:“(i) The Strategic Petroleum Reserve is one of the Nation’s most valuable energy security assets. “(ii) The age and condition of the Strategic Petroleum Reserve have diminished its value as a Federal energy security asset. “(iii) Global oil markets and the location and amount of United States oil production and refining capacity have dramatically changed in the 40 years since the establishment of the Strategic Petroleum Reserve. “(iv) Maximizing the energy security value of the Strategic Petroleum Reserve requires a modernized infrastructure that meets the drawdown and distribution needs of changed domestic and international oil and refining market conditions. “(B) Program.—The Secretary of Energy shall establish a Strategic Petroleum Reserve modernization program to protect the United States economy from the impacts of emergency product supply disruptions. The program may include—“(i) operational improvements to extend the useful life of surface and subsurface infrastructure; “(ii) maintenance of cavern storage integrity; and “(iii) addition of infrastructure and facilities to optimize the drawdown and incremental distribution capacity of the Strategic Petroleum Reserve. “(e) Authorization of Appropriations.—There are authorized to be appropriated (and drawdowns and sales under subsection (c) in an equal amount are authorized) for carrying out subsection (d)(2)(B), $2,000,000,000 for the period encompassing fiscal years 2017 through 2020. “(f) Transmission of Department Budget Requests.—The Secretary of Energy shall prepare and submit in the Department’s annual budget request to Congress—“(1) an itemization of the amounts of funds necessary to carry out subsection (d); and “(2) a designation of any activities thereunder for which a multiyear budget authority would be appropriate. “(g) Sunset.—The authority of the Secretary to draw down and sell crude oil from the Strategic Petroleum Reserve under this section shall expire at the end of fiscal year 2020.”
+Pub. L. 114–74, title IV, § 404, Nov. 2, 2015, 129 Stat. 590, as amended by Pub. L. 116–136, div. B, title IV, § 14002(a), Mar. 27, 2020, 134 Stat. 526, provided that: “(a) Establishment.—There is hereby established in the Treasury of the United States a fund to be known as the Energy Security and Infrastructure Modernization Fund (referred to in this section as the ‘Fund’), consisting of—“(1) collections deposited in the Fund under subsection (c); and “(2) amounts otherwise appropriated to the Fund. “(b) Purpose.—The purpose of the Fund is to provide for the construction, maintenance, repair, and replacement of Strategic Petroleum Reserve facilities. “(c) Collection and Deposit of Sale Proceeds in Fund.—“(1) Drawdown and sale.—Notwithstanding section 161 of the Energy Policy and Conservation Act ([42 U.S.C. 6241](./chapter-077-energy-conservation.md#section-6241)), to the extent provided in advance in appropriation Acts, the Secretary of Energy shall draw down and sell crude oil from the Strategic Petroleum Reserve in amounts as authorized under subsection (e), except as provided in paragraph (2). Amounts received for a sale under this paragraph shall be deposited into the Fund during the fiscal year in which the sale occurs. Such amounts shall remain available in the Fund without fiscal year limitation. “(2) Emergency protection.—The Secretary shall not draw down and sell crude oil under this subsection in amounts that would limit the authority to sell petroleum products under section 161(h) of the Energy Policy and Conservation Act ([42 U.S.C. 6241(h)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section6241/h&num=0&edition=prelim)) in the full amount authorized by that subsection. “(d) Authorized Uses of Fund.—“(1) In general.—Amounts in the Fund may be used for, or may be credited as offsetting collections for amounts used for, carrying out the program described in paragraph (2)(B), to the extent provided in advance in appropriation Acts. “(2) Program to modernize the strategic petroleum reserve.—“(A) Findings.—Congress finds the following:“(i) The Strategic Petroleum Reserve is one of the Nation’s most valuable energy security assets. “(ii) The age and condition of the Strategic Petroleum Reserve have diminished its value as a Federal energy security asset. “(iii) Global oil markets and the location and amount of United States oil production and refining capacity have dramatically changed in the 40 years since the establishment of the Strategic Petroleum Reserve. “(iv) Maximizing the energy security value of the Strategic Petroleum Reserve requires a modernized infrastructure that meets the drawdown and distribution needs of changed domestic and international oil and refining market conditions. “(B) Program.—The Secretary of Energy shall establish a Strategic Petroleum Reserve modernization program to protect the United States economy from the impacts of emergency product supply disruptions. The program may include—“(i) operational improvements to extend the useful life of surface and subsurface infrastructure; “(ii) maintenance of cavern storage integrity; and “(iii) addition of infrastructure and facilities to optimize the drawdown and incremental distribution capacity of the Strategic Petroleum Reserve. “(e) Authorization of Appropriations.—There are authorized to be appropriated (and drawdowns and sales under subsection (c) in an equal amount are authorized) for carrying out subsection (d)(2)(B), $2,000,000,000 for the period encompassing fiscal years 2017 through 2022. “(f) Transmission of Department Budget Requests.—The Secretary of Energy shall prepare and submit in the Department’s annual budget request to Congress—“(1) an itemization of the amounts of funds necessary to carry out subsection (d); and “(2) a designation of any activities thereunder for which a multiyear budget authority would be appropriate. “(g) Sunset.—The authority of the Secretary to draw down and sell crude oil from the Strategic Petroleum Reserve under this section shall expire at the end of fiscal year 2022.”
 
 
 <a id="section-6242"></a>
@@ -1249,6 +1249,10 @@ Pub. L. 105–388, § 9(b), Nov. 13, 1998, 112 Stat. 3484, provided that: “(1)
 
 #### Strategic Petroleum Reserve Drawdown and Sale
 Provisions related to drawdown and sale from the Strategic Petroleum Reserve were contained in the following acts:
+
+Pub. L. 116–136, div. B, title IV, § 14002(b), Mar. 27, 2020, 134 Stat. 526.
+
+Pub. L. 116–94, div. C, title III, Dec. 20, 2019, 133 Stat. 2671.
 
 Pub. L. 115–270, title III, § 3009, Oct. 23, 2018, 132 Stat. 3870.
 
@@ -5063,6 +5067,26 @@ Amendment by Pub. L. 110–140 effective on the date that is 1 day after Dec. 19
 
     (ii) establishing separate exempted product classes for highly decorative fans for which air movement performance is a secondary design feature.
 
+  (C)
+
+    (i) Large-diameter ceiling fans manufactured on or after January 21, 2020, shall—
+
+      (I) not be required to meet minimum ceiling fan efficiency in terms of ratio of the total airflow to the total power consumption as described in the final rule titled “Energy Conservation Program: Energy Conservation Standards for Ceiling Fans” (82 Fed. Reg. 6826 (January 19, 2017)); and
+
+      (II) have a CFEI greater than or equal to—
+
+        (aa) 1.00 at high speed; and
+
+        (bb) 1.31 at 40 percent speed or the nearest speed that is not less than 40 percent speed.
+
+    (ii) For purposes of this subparagraph, the term “CFEI” means the Fan Energy Index for large-diameter ceiling fans, calculated in accordance with ANSI/AMCA Standard 208–18 titled “Calculation of the Fan Energy Index”, with the following modifications:
+
+      (I) Using an Airflow Constant (Q0) of 26,500 cubic feet per minute.
+
+      (II) Using a Pressure Constant (P0) of 0.0027 inches water gauge.
+
+      (III) Using a Fan Efficiency Constant (η0) of 42 percent.
+
 (7) [Section 6297 of this title](./chapter-077-energy-conservation.md#section-6297) shall apply to the products covered in paragraphs (1) through (4) beginning on August 8, 2005, except that any State or local labeling requirement for ceiling fans prescribed or enacted before August 8, 2005, shall not be preempted until the labeling requirements applicable to ceiling fans established under [section 6294 of this title](./chapter-077-energy-conservation.md#section-6294) take effect.
 
 **(gg) Standby mode energy use**
@@ -5201,6 +5225,8 @@ Subpar. (C) of [section 6294(a)(2) of this title](https://uscode.house.gov/view.
 Subsection (i), referred to in subsec. (l)(4)(F)(ii)(I), was amended by Pub. L. 110–140, title III, § 322(b), Dec. 19, 2007, 121 Stat. 1588, by striking out par. (1) and adding a new par. (1), and as so amended, subsec. (i)(1)(A) does not relate to maximum wattage requirements. However, provisions similar to those contained in former subsec. (i)(1)(A) are now contained in subsec. (i)(1)(B). See 2007 Amendment notes below.
 
 #### Amendments
+2020—Subsec. (ff)(6)(C). Pub. L. 116–260 added subpar. (C).
+
 2018—Subsec. (l)(1), (2). Pub. L. 115–115 substituted “paragraph (20)” for “paragraph (19)”.
 
 2017—Subsec. (u)(3)(D)(ii). Pub. L. 115–78, § 2(a), substituted “2021” for “2015” in heading and subcl. (I) and “2023” for “2017” in subcl. (II)(bb).
@@ -5400,6 +5426,9 @@ Pub. L. 112–210, § 10(b)(2), Dec. 18, 2012, 126 Stat. 1525, provided that: �
 
 #### Effective Date of 2007 Amendment
 Amendment by Pub. L. 110–140 effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as an Effective Date note under [section 1824 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1824&num=0&edition=prelim), The Congress.
+
+#### Revision
+Pub. L. 116–260, div. Z, title I, § 1008(b), Dec. 27, 2020, 134 Stat. 2437, provided that: “For purposes of section 325(m) of the Energy Policy and Conservation Act ([42 U.S.C. 6295(m)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section6295/m&num=0&edition=prelim)), the standard established in section 325(ff)(6)(C) of such Act [[42 U.S.C. 6295(ff)(6)(C)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section6295/ff/6/C&num=0&edition=prelim)] (as added by subsection (a) of this section) shall be treated as if such standard was issued on January 19, 2017.”
 
 #### Lighting Technology Research and Development Program
 Pub. L. 110–140, title III, § 321(g), Dec. 19, 2007, 121 Stat. 1586, provided that: “(1) In general.—The Secretary [of Energy] may carry out a lighting technology research and development program—“(A) to support the research, development, demonstration, and commercial application of lamps and related technologies sold, offered for sale, or otherwise made available in the United States; and “(B) to assist manufacturers of general service lamps in the manufacturing of general service lamps that, at a minimum, achieve the wattage requirements imposed as a result of the amendments made by subsection (a) [amending this section and sections 6291 and 6292 of this title]. “(2) Authorization of appropriations.—There are authorized to be appropriated to carry out this subsection $10,000,000 for each of fiscal years 2008 through 2013. “(3) Termination of authority.—The program under this subsection shall terminate on September 30, 2015.”
@@ -6397,6 +6426,9 @@ Pars. (8) to (18). Pub. L. 102–486, § 122(a)(3), added pars. (8) to (18).
 
 #### Effective Date of 2007 Amendment
 Amendment by Pub. L. 110–140 effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as an Effective Date note under [section 1824 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1824&num=0&edition=prelim), The Congress.
+
+#### Extended Product System Rebate Program
+Pub. L. 116–260, div. Z, title I, § 1005, Dec. 27, 2020, 134 Stat. 2430, provided that: “(a) Definitions.—In this section:“(1) Electric motor.—The term ‘electric motor’ has the meaning given the term in section 431.12 of title 10, Code of Federal Regulations (as in effect on the date of enactment of this Act [Dec. 27, 2020]). “(2) Electronic control.—The term ‘electronic control’ means—“(A) a power converter; or “(B) a combination of a power circuit and control circuit included on 1 chassis. “(3) Extended product system.—The term ‘extended product system’ means an electric motor and any required associated electronic control and driven load that—“(A) offers variable speed or multispeed operation; “(B) offers partial load control that reduces input energy requirements (as measured in kilowatt-hours) as compared to identified base levels set by the Secretary of Energy (in this section referred to as the ‘Secretary’); and “(C)(i) has greater than 1 horsepower; and “(ii) uses an extended product system technology, as determined by the Secretary. “(4) Qualified extended product system.—“(A) In general.—The term ‘qualified extended product system’ means an extended product system that—“(i) includes an electric motor and an electronic control; and “(ii) reduces the input energy (as measured in kilowatt-hours) required to operate the extended product system by not less than 5 percent, as compared to identified base levels set by the Secretary. “(B) Inclusions.—The term ‘qualified extended product system’ includes commercial or industrial machinery or equipment that—“(i)(I) did not previously make use of the extended product system prior to the redesign described in subclause (II); and “(II) incorporates an extended product system that has greater than 1 horsepower into redesigned machinery or equipment; and “(ii) was previously used prior to, and was placed back into service during, calendar year 2021 or 2022. “(b) Establishment.—Not later than 180 days after the date of enactment of this Act, the Secretary shall establish a program to provide rebates for expenditures made by qualified entities for the purchase or installation of a qualified extended product system. “(c) Qualified Entities.—“(1) Eligibility requirements.—A qualified entity under this section shall be—“(A) in the case of a qualified extended product system described in subsection (a)(4)(A), the purchaser of the qualified extended product that is installed; and “(B) in the case of a qualified extended product system described in subsection (a)(4)(B), the manufacturer of the commercial or industrial machinery or equipment that incorporated the extended product system into that machinery or equipment. “(2) Application.—To be eligible to receive a rebate under this section, a qualified entity shall submit to the Secretary—“(A) an application in such form, at such time, and containing such information as the Secretary may require; and “(B) a certification that includes demonstrated evidence—“(i) that the entity is a qualified entity; and “(ii)(I) in the case of a qualified entity described in paragraph (1)(A)— “(aa) that the qualified entity installed the qualified extended product system during the 2 fiscal years following the date of enactment of this Act; “(bb) that the qualified extended product system meets the requirements of subsection (a)(4)(A); and “(cc) showing the serial number, manufacturer, and model number from the nameplate of the installed motor of the qualified entity on which the qualified extended product system was installed; or “(II) in the case of a qualified entity described in paragraph (1)(B), demonstrated evidence— “(aa) that the qualified extended product system meets the requirements of subsection (a)(4)(B); and “(bb) showing the serial number, manufacturer, and model number from the nameplate of the installed motor of the qualified entity with which the extended product system is integrated. “(d) Authorized Amount of Rebate.—“(1) In general.—The Secretary may provide to a qualified entity a rebate in an amount equal to the product obtained by multiplying—“(A) an amount equal to the sum of the nameplate rated horsepower of—“(i) the electric motor to which the qualified extended product system is attached; and “(ii) the electronic control; and “(B) $25. “(2) Maximum aggregate amount.—A qualified entity shall not be entitled to aggregate rebates under this section in excess of $25,000 per calendar year. “(e) Authorization of Appropriations.—There is authorized to be appropriated to carry out this section $5,000,000 for each of fiscal years 2022 and 2023.”
 
 
 <a id="section-6314"></a>
@@ -7424,8 +7456,11 @@ Amendment by Pub. L. 110–140 effective on the date that is 1 day after Dec. 19
 #### Amendments
 1992—Pub. L. 102–486 amended section generally, substituting provisions requiring energy conservation standards for high-intensity discharge lamps, distribution transformers, and small electric motors, for provisions authorizing appropriations for fiscal years 1978 and 1979.
 
+#### Energy Efficient Transformer Rebate Program
+Pub. L. 116–260, div. Z, title I, § 1006, Dec. 27, 2020, 134 Stat. 2432, provided that: “(a) Definitions.—In this section:“(1) Qualified energy efficient transformer.—The term ‘qualified energy efficient transformer’ means a transformer that meets or exceeds the applicable energy conservation standards described in the tables in subsection (b)(2) and paragraphs (1) and (2) of subsection (c) of section 431.196 of title 10, Code of Federal Regulations (as in effect on the date of enactment of this Act [Dec. 27, 2020]). “(2) Qualified energy inefficient transformer.—The term ‘qualified energy inefficient transformer’ means a transformer with an equal number of phases and capacity to a transformer described in any of the tables in subsection (b)(2) and paragraphs (1) and (2) of subsection (c) of section 431.196 of title 10, Code of Federal Regulations (as in effect on the date of enactment of this Act) that—“(A) does not meet or exceed the applicable energy conservation standards described in paragraph (1); and “(B)(i) was manufactured between January 1, 1987, and December 31, 2008, for a transformer with an equal number of phases and capacity as a transformer described in the table in subsection (b)(2) of section 431.196 of title 10, Code of Federal Regulations (as in effect on the date of enactment of this Act); or “(ii) was manufactured between January 1, 1992, and December 31, 2011, for a transformer with an equal number of phases and capacity as a transformer described in the table in paragraph (1) or (2) of subsection (c) of that section (as in effect on the date of enactment of this Act). “(3) Qualified entity.—The term ‘qualified entity’ means an owner of industrial or manufacturing facilities, commercial buildings, or multifamily residential buildings, a utility, or an energy service company that fulfills the requirements of subsection (c). “(b) Establishment.—Not later than 90 days after the date of enactment of this Act, the Secretary of Energy (in this section referred to as the ‘Secretary’) shall establish a program to provide rebates to qualified entities for expenditures made by the qualified entity for the replacement of a qualified energy inefficient transformer with a qualified energy efficient transformer. “(c) Requirements.—To be eligible to receive a rebate under this section, an entity shall submit to the Secretary an application in such form, at such time, and containing such information as the Secretary may require, including demonstrated evidence—“(1) that the entity purchased a qualified energy efficient transformer; “(2) of the core loss value of the qualified energy efficient transformer; “(3) of the age of the qualified energy inefficient transformer being replaced; “(4) of the core loss value of the qualified energy inefficient transformer being replaced—“(A) as measured by a qualified professional or verified by the equipment manufacturer, as applicable; or “(B) for transformers described in subsection (a)(2)(B)(i), as selected from a table of default values as determined by the Secretary in consultation with applicable industry; and “(5) that the qualified energy inefficient transformer has been permanently decommissioned and scrapped. “(d) Authorized Amount of Rebate.—The amount of a rebate provided under this section shall be—“(1) for a 3-phase or single-phase transformer with a capacity of not less than 10 and not greater than 2,500 kilovolt-amperes, twice the amount equal to the difference in Watts between the core loss value (as measured in accordance with paragraphs (2) and (4) of subsection (c)) of—“(A) the qualified energy inefficient transformer; and “(B) the qualified energy efficient transformer; or “(2) for a transformer described in subsection (a)(2)(B)(i), the amount determined using a table of default rebate values by rated transformer output, as measured in kilovolt-amperes, as determined by the Secretary in consultation with applicable industry. “(e) Authorization of Appropriations.—There is authorized to be appropriated to carry out this section $5,000,000 for each of fiscal years 2022 and 2023. “(f) Termination of Effectiveness.—The authority provided by this section terminates on December 31, 2023.”
+
 #### Study of Utility Distribution Transformers; Report to Congress
-Pub. L. 102–486, title I, § 124(c), Oct. 24, 1992, 106 Stat. 2833, provided that: “The Secretary shall evaluate the practicability, cost-effectiveness, and potential energy savings of replacing, or upgrading components of, existing utility distribution transformers during routine maintenance and, not later than 18 months after the date of the enactment of this Act [Oct. 24, 1992], report the findings of such evaluation to the Congress with recommendations on how such energy savings, if any, could be achieved.”
+Pub. L. 102–486, title I, § 124(c), Oct. 24, 1992, 106 Stat. 2833, directed the Secretary to evaluate the practicability, cost-effectiveness, and potential energy savings of replacing or upgrading utility distribution transformers during routine maintenance and, not later than 18 months after Oct. 24, 1992, report the findings of the evaluation to Congress with recommendations.
 
 
 <a id="section-6323"></a>
@@ -8081,6 +8116,9 @@ Barack Obama.
 
 ### Statutory Notes
 
+#### References in Text
+Clean Energy Application Centers, referred to in subsec. (g), were redesignated as the CHP Technical Assistance Partnership Program. See [section 6345 of this title](./chapter-077-energy-conservation.md#section-6345).
+
 #### Prior Provisions
 A prior section 6342, Pub. L. 94–163, title III, § 372, Dec. 22, 1975, 89 Stat. 936; Pub. L. 95–91, title III, § 301(a), title VII, §§ 703, 707, Aug. 4, 1977, 91 Stat. 577, 606, 607; Pub. L. 95–619, title VI, § 691(b)(2), Nov. 9, 1978, 92 Stat. 3288, related to establishment and maintenance of an energy efficiency program, prior to repeal by Pub. L. 99–509, title III, § 3101(b), Oct. 21, 1986, 100 Stat. 1888.
 
@@ -8297,81 +8335,74 @@ Section effective on the date that is 1 day after Dec. 19, 2007, see section 160
 
 
 <a id="section-6347"></a>
-## § 6347. Clean Energy Application Centers
+## § 6347. CHP Technical Assistance Partnership Program
 **(a) Renaming**
 
-(1) **In general** — The Combined Heat and Power Application Centers of the Department of Energy are redesignated as Clean Energy Application Centers.
+(1) **In general** — The Clean Energy Application Centers of the Department of Energy are redesignated as the CHP Technical Assistance Partnership Program (referred to in this section as the “Program”).
 
-(2) **References** — Any reference in any law, rule, regulation, or publication to a Combined Heat and Power Application Center shall be treated as a reference to a Clean Energy Application Center.
+(2) **Program description** — The Program shall consist of—
 
-**(b) Relocation**
+  (A) the 10 regional CHP Technical Assistance Partnerships in existence on December 27, 2020;
 
-(1) **In general** — In order to better coordinate efforts with the separate Industrial Assessment Centers and to ensure that the energy efficiency and, when applicable, the renewable nature of deploying mature clean energy technology is fully accounted for, the Secretary shall relocate the administration of the Clean Energy Application Centers to the Office of Energy Efficiency and Renewable Energy within the Department of Energy.
+  (B) such other regional CHP Technical Assistance Partnerships as the Secretary may establish with consideration given to establishing such partnerships in rural communities; and
 
-(2) **Office of Electricity Delivery and Energy Reliability** — The Office of Electricity Delivery and Energy Reliability shall—
+  (C) any supporting technical activities under the Technical Partnership Program of the Advanced Manufacturing Office.
 
-  (A) continue to perform work on the role of technology described in paragraph (1) in support of the grid and the reliability and security of the technology; and
+(3) **References** — Any reference in any law, rule, regulation, or publication to a Combined Heat and Power Application Center or a Clean Energy Application Center shall be deemed to be a reference to the Program.
 
-  (B) shall assist the Clean Energy Application Centers in the work of the Centers with regard to the grid and with electric utilities.
+**(b) CHP Technical Assistance Partnership Program**
 
-**(c) Grants**
+(1) **In general** — The Program shall—
 
-(1) **In general** — The Secretary shall make grants to universities, research centers, and other appropriate institutions to ensure the continued operations and effectiveness of 8 Regional Clean Energy Application Centers in each of the following regions (as designated for such purposes as of December 19, 2007):
+  (A) operate programs to encourage deployment of combined heat and power, waste heat to power, and efficient district energy (collectively referred to in this subsection as “CHP”) technologies by providing education and outreach to—
 
-  (A) Gulf Coast.
+    (i) building, industrial, and electric and natural gas utility professionals;
 
-  (B) Intermountain.
+    (ii) State and local policymakers; and
 
-  (C) Mid-Atlantic.
+    (iii) other individuals and organizations with an interest in efficient energy use, local or opportunity fuel use, resiliency, or energy security, microgrids, and district energy; and
 
-  (D) Midwest.
+  (B) provide project specific support to building and industrial professionals through economic and engineering assessments and advisory activities.
 
-  (E) Northeast.
+(2) **Funding for certain activities**
 
-  (F) Northwest.
+  (A) *In general* — The Program shall make funds available to institutions of higher education, research centers, and other appropriate institutions to ensure the continued operations and effectiveness of the regional CHP Technical Assistance Partnerships.
 
-  (G) Pacific.
+  (B) *Use of funds* — Funds made available under subparagraph (A) may be used—
 
-  (H) Southeast.
+    (i) to collect and distribute informational materials relevant to manufacturers, commercial buildings, institutional facilities, and Federal sites, including continued support of the mission goals of the Department of Defense, on CHP and microgrid technologies, including continuation and updating of—
 
-(2) **Establishment of goals and compliance** — In making grants under this subsection, the Secretary shall ensure that sufficient goals are established and met by each Center throughout the program duration concerning outreach and technology deployment.
+      (I) the CHP installation database;
 
-**(d) Activities**
+      (II) CHP technology potential analyses;
 
-(1) **In general** — Each Clean Energy Application Center shall—
+      (III) State CHP resource pages; and
 
-  (A) operate a program to encourage deployment of clean energy technologies through education and outreach to building and industrial professionals; 11 So in original. The semicolon probably should not appear. and other individuals and organizations with an interest in efficient energy use; and
+      (IV) CHP Technical Assistance Partnerships websites;
 
-  (B) provide project specific support to building and industrial professionals through assessments and advisory activities.
+    (ii) to produce and conduct workshops, reports, seminars, internet programs, CHP resiliency resources, and other activities to provide education to end users, regulators, and stakeholders in a manner that leads to the deployment of CHP technologies;
 
-(2) **Types of activities** — Funds made available under this section may be used—
+    (iii) to provide or coordinate onsite assessments for sites and enterprises that may consider deployment of CHP technology, including the potential use of biomass CHP systems;
 
-  (A) to develop and distribute informational materials on clean energy technologies, including continuation of the 8 websites in existence on December 19, 2007;
+    (iv) to identify candidates for deployment of CHP technologies, hybrid renewable-CHP technologies, biomass CHP, microgrids, and clean energy;
 
-  (B) to develop and conduct target market workshops, seminars, Internet programs, and other activities to educate end users, regulators, and stakeholders in a manner that leads to the deployment of clean energy technologies;
+    (v) to provide nonbiased engineering support to sites considering deployment of CHP technologies;
 
-  (C) to provide or coordinate onsite assessments for sites and enterprises that may consider deployment of clean energy technology;
+    (vi) to assist organizations and communities, including rural communities, developing clean energy technologies and policies in overcoming barriers to deployment; and
 
-  (D) to perform market research to identify high profile candidates for clean energy deployment;
+    (vii) to assist companies, communities (including rural communities), and organizations with field validation and performance evaluations of CHP and other clean energy technologies implemented.
 
-  (E) to provide consulting support to sites considering deployment of clean energy technologies;
+  (C) *Duration* — The Program shall make funds available under subparagraph (A) for a period of 5 years.
 
-  (F) to assist organizations developing clean energy technologies to overcome barriers to deployment; and
-
-  (G) to assist companies and organizations with performance evaluations of any clean energy technology implemented.
-
-**(e) Duration**
-
-(1) **In general** — A grant awarded under this section shall be for a period of 5 years 22 So in original. Probably should be followed by a period.
-
-(2) **Annual evaluations** — Each grant shall be evaluated annually for the continuation of the grant based on the activities and results of the grant.
-
-**(f) Authorization** There is authorized to be appropriated to carry out this section $10,000,000 for each of fiscal years 2008 through 2012.
+**(c) Authorization of appropriations** There are authorized to be appropriated to carry out this section $12,000,000 for each of fiscal years 2021 through 2025.
 
 ### Statutory Notes
 
 #### Prior Provisions
 A prior section 6345, Pub. L. 94–163, title III, § 375, Dec. 22, 1975, 89 Stat. 937; Pub. L. 95–619, title VI, § 601(b), Nov. 9, 1978, 92 Stat. 3282, required reports on progress made in improving energy efficiency and achievement of energy efficiency improvement targets, prior to repeal by Pub. L. 99–509, title III, § 3101(b), Oct. 21, 1986, 100 Stat. 1888.
+
+#### Amendments
+2020—Pub. L. 116–260 amended section generally. Prior to amendment, section related to Clean Energy Application Centers.
 
 #### Effective Date
 Section effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as a note under [section 1824 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1824&num=0&edition=prelim), The Congress.
@@ -8554,13 +8585,13 @@ Section was enacted as part of the Energy Policy Act of 1992, and not as part of
 
 <a id="section-6362"></a>
 ## § 6362. Coordination of research and development of energy efficient technologies for industry
-**(a) In general** As part of the research and development activities of the Industrial Technologies Program of the Department of Energy, the Secretary of Energy (referred to in this section as the “Secretary”) shall establish, as appropriate, collaborative research and development partnerships with other programs within the Office of Energy Efficiency and Renewable Energy (including the Building Technologies Program), the Office of Electricity Delivery and Energy Reliability, and the Office of Science that—
+**(a) In general** As part of the research and development activities of the Advanced Manufacturing Office of the Department of Energy, the Secretary of Energy (referred to in this section as the “Secretary”) shall establish, as appropriate, collaborative research and development partnerships with other programs within the Department of Energy that—
 
 (1) leverage the research and development expertise of those programs to promote early stage energy efficiency technology development;
 
 (2) support the use of innovative manufacturing processes and applied research for development, demonstration, and commercialization of new technologies and processes to improve efficiency (including improvements in efficient use of water), reduce emissions, reduce industrial waste, and improve industrial cost-competitiveness; and
 
-(3) apply the knowledge and expertise of the Industrial Technologies Program to help achieve the program goals of the other programs.
+(3) apply the knowledge and expertise of the Advanced Manufacturing Office to help achieve the program goals of the other programs.
 
 **(b) Reports** Not later than 2 years after December 18, 2012, and biennially thereafter, the Secretary shall submit to Congress a report that describes actions taken to carry out subsection (a) and the results of those actions.
 
@@ -8568,6 +8599,11 @@ Section was enacted as part of the Energy Policy Act of 1992, and not as part of
 
 #### Codification
 Section was enacted as part of the American Energy Manufacturing Technical Corrections Act, and not as part of the Energy Policy and Conservation Act which comprises this chapter.
+
+#### Amendments
+2020—Subsec. (a). Pub. L. 116–260, in introductory provisions, substituted “Advanced Manufacturing Office” for “Industrial Technologies Program” and “Department of Energy” for “Office of Energy Efficiency and Renewable Energy (including the Building Technologies Program), the Office of Electricity Delivery and Energy Reliability, and the Office of Science”.
+
+Subsec. (a)(3). Pub. L. 116–260, § 6002(1), substituted “Advanced Manufacturing Office” for “Industrial Technologies Program”.
 
 
 <a id="section-6363"></a>
@@ -9367,8 +9403,8 @@ Reorganization Plan Number 14 of 1950, referred to in subsec. (g)(4)(B), is set 
 Section effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as a note under [section 1824 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1824&num=0&edition=prelim), The Congress.
 
 
-<a id="section-6372"></a>
-## § 6372. Records
+<a id="section-6371k"></a>
+## § 6371k. Records
 
 Each recipient of assistance under this part shall keep such records, provide such reports, and furnish such access to books and records as the Secretary may by rule prescribe.
 
@@ -9378,8 +9414,8 @@ Each recipient of assistance under this part shall keep such records, provide su
 1998—Pub. L. 105–388 struck out “(a)” before “Each recipient”.
 
 
-<a id="section-6372a"></a>
-## § 6372a. Application of sections 3141–3144, 3146, and 3147 of title 40
+<a id="section-6372"></a>
+## § 6372. Application of sections 3141–3144, 3146, and 3147 of title 40
 
 No grant for a project (other than so much of a grant as is used for a preliminary energy audit, energy audit, or technical assistance or a grant the total project cost of which is $5,000 or less, excluding costs for a preliminary energy audit, energy audit, or technical assistance) shall be made under this part or part 1 unless the Secretary finds that all laborers and mechanics employed by contractors or subcontractors in the performance of work on any construction utilizing such grants will be paid at rates not less than those prevailing on similar construction in the locality, as determined by the Secretary of Labor in accordance with sections 3141–3144, 3146, and 3147 of title 40; and the Secretary of Labor shall have with respect to the labor standards specified in this section the authority and functions set forth in Reorganization Plan Numbered 14 of 1950 (15 F.R. 3176; 5 U.S.C. Appendix) and [section 3145 of title 40](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40-section3145&num=0&edition=prelim).
 
@@ -9396,6 +9432,69 @@ Reorganization Plan Numbered 14 of 1950, referred to in text, is set out in the 
 In text, “sections 3141–3144, 3146, and 3147 of title 40” substituted for “the Act of March 31, 1931 ([40 U.S.C. 276a](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40-section276a&num=0&edition=prelim)—276a–5, known as the Davis-Bacon Act)” and “[section 3145 of title 40](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40-section3145&num=0&edition=prelim)” substituted for “section 2 of the Act of June 13, 1934 ([40 U.S.C. 276c](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40-section276c&num=0&edition=prelim))” on authority of Pub. L. 107–217, § 5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
 
 Section was enacted as a part of the National Energy Conservation Policy Act, and not as a part of the Energy Policy and Conservation Act which comprises this chapter, and consequently is not a part of part E of this subchapter.
+
+
+<a id="section-6372a"></a>
+## § 6372a. Coordination of energy retrofitting assistance for schools
+**(a) Definition of school** In this section, the term “school” means—
+
+(1) an elementary school or secondary school (as defined in section 8101 7801 of title 20);
+
+(2) an institution of higher education (as defined in [section 1001(a) of title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1001/a&num=0&edition=prelim));
+
+(3) a postsecondary vocational institution (as defined in [section 1002(c) of title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1002/c&num=0&edition=prelim));
+
+(4) a school of the defense dependents’ education system under the Defense Dependents’ Education Act of 1978 ([20 U.S.C. 921](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section921&num=0&edition=prelim) et seq.) or established under [section 2164 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2164&num=0&edition=prelim);
+
+(5) a school operated by the Bureau of Indian Education;
+
+(6) a tribally controlled school (as defined in [section 2511 of title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section2511&num=0&edition=prelim)); and
+
+(7) a Tribal College or University (as defined in [section 1059c(b) of title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1059c/b&num=0&edition=prelim)).
+
+**(b) Designation of lead agency** The Secretary of Energy (in this section referred to as the “Secretary”), acting through the Office of Energy Efficiency and Renewable Energy, shall act as the lead Federal agency for coordinating and disseminating information on existing Federal programs and assistance that may be used to help initiate, develop, and finance energy efficiency, renewable energy, and energy retrofitting projects for schools.
+
+**(c) Requirements** In carrying out coordination and outreach under subsection (b), the Secretary shall—
+
+(1) in consultation and coordination with the appropriate Federal agencies, carry out a review of existing programs and financing mechanisms (including revolving loan funds and loan guarantees) available in or from the Department of Agriculture, the Department of Energy, the Department of Education, the Department of the Treasury, the Internal Revenue Service, the Environmental Protection Agency, and other appropriate Federal agencies with jurisdiction over energy financing and facilitation that are currently used or may be used to help initiate, develop, and finance energy efficiency, renewable energy, and energy retrofitting projects for schools;
+
+(2) establish a Federal cross-departmental collaborative coordination, education, and outreach effort to streamline communication and promote available Federal opportunities and assistance described in paragraph (1), for energy efficiency, renewable energy, and energy retrofitting projects that enables States, local educational agencies, and schools—
+
+  (A) to use existing Federal opportunities more effectively; and
+
+  (B) to form partnerships with Governors, State energy programs, local educational, financial, and energy officials, State and local government officials, nonprofit organizations, and other appropriate entities, to support the initiation of the projects;
+
+(3) provide technical assistance for States, local educational agencies, and schools to help develop and finance energy efficiency, renewable energy, and energy retrofitting projects—
+
+  (A) to increase the energy efficiency of buildings or facilities;
+
+  (B) to install systems that individually generate energy from renewable energy resources;
+
+  (C) to establish partnerships to leverage economies of scale and additional financing mechanisms available to larger clean energy initiatives; or
+
+  (D) to promote—
+
+    (i) the maintenance of health, environmental quality, and safety in schools, including the ambient air quality, through energy efficiency, renewable energy, and energy retrofit projects; and
+
+    (ii) the achievement of expected energy savings and renewable energy production through proper operations and maintenance practices;
+
+(4) develop and maintain a single online resource website with contact information for relevant technical assistance and support staff in the Office of Energy Efficiency and Renewable Energy for States, local educational agencies, and schools to effectively access and use Federal opportunities and assistance described in paragraph (1) to develop energy efficiency, renewable energy, and energy retrofitting projects; and
+
+(5) establish a process for recognition of schools that—
+
+  (A) have successfully implemented energy efficiency, renewable energy, and energy retrofitting projects; and
+
+  (B) are willing to serve as resources for other local educational agencies and schools to assist initiation of similar efforts.
+
+**(d) Report** Not later than 180 days after December 27, 2020, the Secretary shall submit to Congress a report describing the implementation of this section.
+
+### Statutory Notes
+
+#### References in Text
+The Defense Dependents’ Education Act of 1978, referred to in subsec. (a)(4), is title XIV of Pub. L. 95–561, Nov. 1, 1978, 92 Stat. 2365, which is classified principally to chapter 25A (§ 921 et seq.) of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under [section 921 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section921&num=0&edition=prelim) and Tables.
+
+#### Codification
+Section was enacted as part of the Energy Act of 2020, and not as part of the Energy Policy and Conservation Act which comprises this chapter.
 
 
 <a id="section-6372b"></a>

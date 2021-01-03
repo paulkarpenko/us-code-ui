@@ -2,7 +2,7 @@
 title: 47
 chapter: '11'
 heading: COMMERCIAL MOBILE SERVICE ALERTS
-section_count: 5
+section_count: 6
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title47&num=0&edition=prelim
 ---
@@ -40,7 +40,11 @@ source: >-
 
     (iii) under which a subscriber may terminate a subscription to service provided by a commercial mobile service licensee that withdraws its election without penalty or early termination fee.
 
-  (E) *Consumer choice technology* — Any commercial mobile service licensee electing to transmit emergency alerts may offer subscribers the capability of preventing the subscriber’s device from receiving such alerts, or classes of such alerts, other than an alert issued by the President. Within 2 years after the Commission completes the proceeding under paragraph (1), the Commission shall examine the issue of whether a commercial mobile service provider should continue to be permitted to offer its subscribers such capability. The Commission shall submit a report with its recommendations to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Energy and Commerce of the House of Representatives.
+  (E) *Consumer choice technology* — Any commercial mobile service licensee electing to transmit emergency alerts may offer subscribers the capability of preventing the subscriber’s device from receiving such alerts, or classes of such alerts, other than an alert issued by—
+
+    (i) the President; or
+
+    (ii) the Administrator of the Federal Emergency Management Agency.
 
 **(c) Digital television transmission towers retransmission capability** Within 90 days after the date on which the Commission adopts relevant technical standards based on recommendations of the Commercial Mobile Service Alert Advisory Committee, established pursuant to [section 1202(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title47-section1202/a&num=0&edition=prelim), the Commission shall complete a proceeding to require licensees and permittees of noncommercial educational broadcast stations or public broadcast stations (as those terms are defined in [section 397(6) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title47-section397/6&num=0&edition=prelim)) to install necessary equipment and technologies on, or as part of, any broadcast television digital signal transmitter to enable the distribution of geographically targeted alerts by commercial mobile service providers that have elected to transmit emergency alerts under this section.
 
@@ -62,6 +66,9 @@ source: >-
 
 #### References in Text
 This chapter, referred to in subsecs. (d) and (e)(1), was in the original “this title”, meaning title VI of Pub. L. 109–347, Oct. 13, 2006, 120 Stat. 1936, which is classified principally to this chapter. For complete classification of title VI to the Code, see Short Title note set out below and Tables.
+
+#### Amendments
+2021—Subsec. (b)(2)(E). Pub. L. 116–283 , substituted in first sentence, “other than an alert issued by—” for “other than an alert issued by the President.”, and added cls. (i) and (ii), and struck out after first sentence “Within 2 years after the Commission completes the proceeding under paragraph (1), the Commission shall examine the issue of whether a commercial mobile service provider should continue to be permitted to offer its subscribers such capability. The Commission shall submit a report with its recommendations to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Energy and Commerce of the House of Representatives.”
 
 #### Short Title
 Pub. L. 109–347, title VI, § 601, Oct. 13, 2006, 120 Stat. 1936, provided that: “This title [enacting this chapter, [section 314a of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section314a&num=0&edition=prelim), Domestic Security, and [section 5189e of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5189e&num=0&edition=prelim), The Public Health and Welfare, and amending [section 101 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section101&num=0&edition=prelim) and sections 5150, 5172, 5173, and 5184 of Title 42] may be cited as the ‘Warning, Alert, and Response Network Act’.”
@@ -185,3 +192,106 @@ The Federal Advisory Committee Act, referred to in subsec. (f), is Pub. L. 92–
 This chapter, referred to in subsecs. (a) and (c), was in the original “this title”, meaning title VI of Pub. L. 109–347, Oct. 13, 2006, 120 Stat. 1936, which is classified principally to this chapter. For complete classification of title VI to the Code, see Short Title note set out under [section 1201 of this title](./chapter-011-commercial-mobile-service-alerts.md#section-1201) and Tables.
 
 Section 3010 of the Digital Television Transition and Public Safety Act of 2005, referred to in subsec. (a), is section 3010 of Pub. L. 109–171, which is set out in a note under [section 309 of this title](./chapter-005-wire-or-radio-communication.md#section-309).
+
+
+<a id="section-1206"></a>
+## § 1206. Reliable emergency alert distribution improvement
+**(a) Wireless emergency alerts system offerings**
+
+(1) **Omitted**
+
+(2) **Regulations** — Not later than 180 days after January 1, 2021, the Commission, in consultation with the Administrator, shall adopt regulations to implement the amendment made by paragraph (1)(B).11 See References in Text note below.
+
+**(b) State emergency alert system plans and emergency communications committees**
+
+(1) **State emergency communications committee** — Not later than 180 days after January 1, 2021, the Commission shall adopt regulations that—
+
+  (A) encourage the chief executive of each State—
+
+    (i) to establish an SECC if the State does not have an SECC; or
+
+    (ii) if the State has an SECC, to review the composition and governance of the SECC;
+
+  (B) provide that—
+
+    (i) each SECC, not less frequently than annually, shall—
+
+      (I) meet to review and update its State EAS Plan;
+
+      (II) certify to the Commission that the SECC has met as required under subclause (I); and
+
+      (III) submit to the Commission an updated State EAS Plan; and
+
+    (ii) not later than 60 days after the date on which the Commission receives an updated State EAS Plan under clause (i)(III), the Commission shall—
+
+      (I) approve or disapprove the updated State EAS Plan; and
+
+      (II) notify the chief executive of the State of the Commission’s approval or disapproval of such plan, and reason therefor; and
+
+  (C) establish a State EAS Plan content checklist for SECCs to use when reviewing and updating a State EAS Plan for submission to the Commission under subparagraph (B)(i).
+
+(2) **Consultation** — The Commission shall consult with the Administrator regarding the adoption of regulations under paragraph (1)(C).
+
+(3) **Definitions** — In this subsection—
+
+  (A) the term “SECC” means a State Emergency Communications Committee;
+
+  (B) the term “State” means any State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the United States Virgin Islands, Guam, American Samoa, the Commonwealth of the Northern Mariana Islands, and any possession of the United States; and
+
+  (C) the term “State EAS Plan” means a State Emergency Alert System Plan.
+
+**(c) False alert reporting** Not later than 180 days after January 1, 2021, the Commission, in consultation with the Administrator, shall complete a rulemaking proceeding to establish a system to receive from the Administrator or State, Tribal, or local governments reports of false alerts under the Emergency Alert System or the Wireless Emergency Alerts System for the purpose of recording such false alerts and examining the causes of such false alerts.
+
+**(d) Repeating emergency alert system messages for national security**
+
+(1) **In general** — Not later than 180 days after January 1, 2021, the Commission, in consultation with the Administrator, shall complete a rulemaking proceeding to modify the Emergency Alert System to provide for repeating Emergency Alert System messages while an alert remains pending that is issued by—
+
+  (A) the President;
+
+  (B) the Administrator; or
+
+  (C) any other entity determined appropriate under the circumstances by the Commission, in consultation with the Administrator.
+
+(2) **Scope of rulemaking** — Paragraph (1) shall—
+
+  (A) apply to warnings of national security events, meaning emergencies of national significance, such as a missile threat, terror attack, or other act of war or threat to public safety; and
+
+  (B) not apply to more typical warnings, such as a weather alert, AMBER Alert, or disaster alert.
+
+(3) **Rule of construction** — Nothing in this subsection shall be construed to impair, limit, or otherwise change—
+
+  (A) the authority of the President granted by law to alert and warn the public; or
+
+  (B) the role of the President as commander-in-chief with respect to the identification, dissemination, notification, or alerting of information of missile threats against the United States, or threats to public safety.
+
+**(e) Internet and online streaming services emergency alert examination**
+
+(1) **Study** — Not later than 180 days after January 1, 2021, and after providing public notice and opportunity for comment, the Commission shall complete an inquiry to examine the feasibility of updating the Emergency Alert System to enable or improve alerts to consumers provided through the internet, including through streaming services.
+
+(2) **Report** — Not later than 90 days after completing the inquiry under paragraph (1), the Commission shall submit a report on the findings and conclusions of the inquiry to—
+
+  (A) the Committee on Commerce, Science, and Transportation of the Senate; and
+
+  (B) the Committee on Energy and Commerce of the House of Representatives.
+
+**(f) Definitions** In this section—
+
+(1) the term “Administrator” means the Administrator of the Federal Emergency Management Agency;
+
+(2) the term “Commission” means the Federal Communications Commission;
+
+(3) the term “Emergency Alert System” means the national public warning system, the rules for which are set forth in part 11 of title 47, Code of Federal Regulations (or any successor regulation); and
+
+(4) the term “Wireless Emergency Alerts System” means the wireless national public warning system established under the Warning, Alert, and Response Network Act ([47 U.S.C. 1201](./chapter-011-commercial-mobile-service-alerts.md#section-1201) et seq.), the rules for which are set forth in part 10 of title 47, Code of Federal Regulations (or any successor regulation).
+
+### Statutory Notes
+
+#### References in Text
+The amendment made by paragraph (1)(B), referred to in subsec. (a)(2), means the amendment made by Pub. L. 116–283, § 9201(a)(1)(B) which amended [section 1201 of this title](./chapter-011-commercial-mobile-service-alerts.md#section-1201).
+
+The Warning, Alert, and Response Network Act, referred to in subsec. (f)(4), is title VI of Pub. L. 109–347, Oct. 13, 2006, 120 Stat. 1936, which is classified principally to chapter 11 (§ 1201 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set under [section 1201 of this title](./chapter-011-commercial-mobile-service-alerts.md#section-1201) and Tables.
+
+#### Codification
+Section was enacted as part of the William M. (Mac) Thornberry National Defense Authorization Act for Fiscal Year 2021 and not as part of the Warning, Alert, and Response Network Act which comprises this chapter.
+
+Section is comprised of section 9201 of Pub. L. 116–283. Subsec. (a) of section 9201 of Pub. L. 116–283 amended [section 1201 of this title](./chapter-011-commercial-mobile-service-alerts.md#section-1201).

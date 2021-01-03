@@ -7,567 +7,267 @@ source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33&num=0&edition=prelim
 ---
 <a id="section-3201"></a>
-## § 3201. Definitions
+## § 3201. Powers of program Director
 
-In this chapter:
+The Director of the program, in carrying out the program, shall—
 
-(1) The term “Administration” means the National Oceanic and Atmospheric Administration.
+(1) cooperate with institutions of higher education and other educational marine and ocean science organizations, and shall make available undersea research facilities, equipment, technologies, information, and expertise to support undersea research efforts by these organizations;
 
-(2) The term “Administrator” means the Administrator of the National Oceanic and Atmospheric Administration.
+(2) enter into partnerships, as appropriate and using existing authorities, with the private sector to achieve the goals of the program and to promote technological advancement of the marine industry; and
 
-### Statutory Notes
-
-#### Codification
-Pub. L. 109–424 and title VIII of Pub. L. 109–479 enacted substantially identical sections. Pub. L. 109–424 was repealed by section 512(a) of Pub. L. 115–25.
-
-#### Short Title of 2017 Amendment
-Pub. L. 115–25, title V, § 501, Apr. 18, 2017, 131 Stat. 115, provided that: “This title [enacting sections 3206a and 3208 of this title, amending this section and sections 3202 to 3207 of this title, and enacting and repealing provisions set out as notes under this section] may be cited as the ‘Tsunami Warning, Education, and Research Act of 2017’.”
-
-#### Short Title
-Pub. L. 109–479, title VIII, § 801, Jan. 12, 2007, 120 Stat. 3653, provided that: “This title [enacting this chapter] may be cited as the ‘Tsunami Warning and Education Act’.”
-
-Pub. L. 109–424, § 1, Dec. 20, 2006, 120 Stat. 2902, which provided that Pub. L. 109–424 could be cited as the Tsunami Warning and Education Act, was repealed by Pub. L. 115–25, title V, § 512(a), Apr. 18, 2017, 131 Stat. 128.
-
-#### Construction
-Pub. L. 115–25, title V, § 512(b), Apr. 18, 2017, 131 Stat. 128, provided that: “Nothing in this section [repealing Pub. L. 109–424] may be construed to repeal, or affect in any way, the Tsunami Warning and Education Act [this chapter] enacted as title VIII of the Magnuson-Stevens Fishery Conservation and Management Reauthorization Act of 2006 (Public Law 109–479; [33 U.S.C. 3201](./chapter-045-tsunami-warning-and-education.md#section-3201) et seq.).”
+(3) coordinate the development of agency budgets and identify the items in their annual budget that support the activities described in paragraphs (1) and (2).
 
 
 <a id="section-3202"></a>
-## § 3202. Purposes
+## § 3202. Administrative structure
+**(a) In general** The program shall be conducted through a national headquarters, a network of extramural regional undersea research centers that represent all relevant National Oceanic and Atmospheric Administration regions, and the National Institute for Undersea Science and Technology.
 
-The purposes of this chapter are—
-
-(1) to improve tsunami detection, forecasting, warnings, research, notification, outreach, and mitigation to protect life and property in the United States;
-
-(2) to enhance and modernize the existing United States Tsunami Warning System to increase the accuracy of forecasts and warnings, to ensure full coverage of tsunami threats to the United States with a network of detection assets, and to reduce false alarms;
-
-(3) to improve and develop standards and guidelines for mapping, modeling, and assessment efforts to improve tsunami detection, forecasting, warnings, notification, mitigation, resiliency, response, outreach, and recovery;
-
-(4) to improve research efforts related to improving tsunami detection, forecasting, warnings, notification, mitigation, resiliency, response, outreach, and recovery;
-
-(5) to improve, increase, and develop uniform standards and guidelines for education and outreach activities and ensure that those receiving tsunami warnings and the at-risk public know what to do when a tsunami is approaching, including the warning signs of locally generated tsunami;
-
-(6) to provide technical and other assistance to speed international efforts to establish regional tsunami warning systems in vulnerable areas worldwide;
-
-(7) to foster resilient communities in the face of tsunami and other similar coastal hazards; and
-
-(8) to improve Federal, State, and international coordination for detection, warnings, and outreach for tsunami and other coastal impacts.
-
-### Statutory Notes
-
-#### Codification
-Pub. L. 109–424 and title VIII of Pub. L. 109–479 enacted substantially identical sections. Pub. L. 109–424 was repealed by section 512(a) of Pub. L. 115–25.
-
-#### Amendments
-2017—Par. (1). Pub. L. 115–25, § 503(1), inserted “research,” after “warnings,”.
-
-Par. (2). Pub. L. 115–25, § 503(2), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “to enhance and modernize the existing Pacific Tsunami Warning System to increase coverage, reduce false alarms, and increase the accuracy of forecasts and warnings, and to expand detection and warning systems to include other vulnerable States and United States territories, including the Atlantic Ocean, Caribbean Sea, and Gulf of Mexico areas;”.
-
-Par. (3). Pub. L. 115–25, § 503(3), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “to improve mapping, modeling, research, and assessment efforts to improve tsunami detection, forecasting, warnings, notification, outreach, mitigation, response, and recovery;”.
-
-Par. (4). Pub. L. 115–25, § 503(5), added par. (4). Former par. (4) redesignated (5).
-
-Par. (5). Pub. L. 115–25, § 503(4), (6), redesignated par. (4) as (5), substituted “, increase, and develop uniform standards and guidelines for” for “and increase”, and inserted “, including the warning signs of locally generated tsunami” after “approaching”. Former par. (5) redesignated (6).
-
-Par. (6). Pub. L. 115–25, § 503(4), (7), redesignated par. (5) as (6) and substituted semicolon at end for “, including the Indian Ocean; and”. Former par. (6) redesignated (8).
-
-Par. (7). Pub. L. 115–25, § 503(8), added par. (7).
-
-Par. (8). Pub. L. 115–25, § 503(4), redesignated par. (6) as (8).
+**(b) Direction** The Director shall develop the overall direction of the program in coordination with a Council of Center Directors comprised of the directors of the extramural regional centers and the National Institute for Undersea Science and Technology. The Director shall publish a draft program direction document not later than 1 year after March 30, 2009, in the Federal Register for a public comment period of not less than 120 days. The Director shall publish a final program direction, including responses to the comments received during the public comment period, in the Federal Register within 90 days after the close of the comment period. The program director shall update the program direction, with opportunity for public comment, at least every 5 years.
 
 
 <a id="section-3203"></a>
-## § 3203. Tsunami forecasting and warning program
-**(a) In general** The Administrator, through the National Weather Service and in consultation with other relevant Administration offices, shall operate a program to provide tsunami detection, forecasting, and warnings for the Pacific and Arctic Ocean regions and for the Atlantic Ocean region, including the Caribbean Sea and the Gulf of Mexico.
+## § 3203. Research, exploration, education, and technology programs
+**(a) In general** The following research, exploration, education, and technology programs shall be conducted through the network of regional centers and the National Institute for Undersea Science and Technology:
 
-**(b) Components** The program under this section shall—
+(1) Core research and exploration based on national and regional undersea research priorities.
 
-(1) include the tsunami warning centers supported or maintained under subsection (d);
+(2) Advanced undersea technology development to support the National Oceanic and Atmospheric Administration’s research mission and programs.
 
-(2) to the degree practicable, maintain not less than 80 percent of the Deep-ocean Assessment and Reporting of Tsunamis buoy array at operational capacity to optimize data reliability;
+(3) Undersea science-based education and outreach programs to enrich ocean science education and public awareness of the oceans and Great Lakes.
 
-(3) utilize and maintain an array of robust tsunami detection technologies;
+(4) Development, testing, and transition of advanced undersea technology associated with ocean observatories, submersibles, advanced diving technologies, remotely operated vehicles, autonomous underwater vehicles, and new sampling and sensing technologies.
 
-(4) maintain detection equipment in operational condition to fulfill the detection, forecasting, and warning requirements of this chapter;
+(5) Discovery, study, and development of natural resources and products from ocean, coastal, and aquatic systems.
 
-(5) provide tsunami forecasting capability based on models and measurements, including tsunami inundation models and maps for use in increasing the preparedness of communities and safeguarding port and harbor operations, that incorporate inputs, including—
-
-  (A) the United States and global ocean and coastal observing system;
-
-  (B) the global Earth observing system;
-
-  (C) the global seismic network;
-
-  (D) the Advanced National Seismic system;
-
-  (E) tsunami model validation using historical and paleotsunami data;
-
-  (F) digital elevation models and bathymetry; and
-
-  (G) newly developing tsunami detection methodologies using satellites and airborne remote sensing;
-
-(6) maintain data quality and management systems to support the requirements of the program;
-
-(7) include a cooperative effort among the Administration, the United States Geological Survey, and the National Science Foundation under which the Director of the United States Geological Survey and the Director of the National Science Foundation shall—
-
-  (A) provide rapid and reliable seismic information to the Administrator from international and domestic seismic networks; and
-
-  (B) support seismic stations installed before April 18, 2017, to supplement coverage in areas of sparse instrumentation;
-
-(8) provide a capability for the dissemination of warnings, including graphical warning products, to at-risk States, territories, and tsunami communities through rapid and reliable notification to government officials and the public, including utilization of and coordination with existing Federal warning systems, including the National Oceanic and Atmospheric Administration Weather Radio All Hazards Program and Wireless Emergency Alerts;
-
-(9) provide and allow, as practicable, for integration of tsunami detection technologies with other environmental observing technologies and commercial and Federal undersea communications cables; and
-
-(10) include any technology the Administrator considers appropriate to fulfill the objectives of the program under this section.
-
-**(c) Tsunami warning system** The program under this section shall operate a tsunami warning system that—
-
-(1) is capable of forecasting tsunami, including forecasting tsunami arrival time and inundation estimates, anywhere in the Pacific and Arctic Ocean regions and providing adequate warnings;
-
-(2) is capable of forecasting and providing adequate warnings, including tsunami arrival time and inundation models where applicable, in areas of the Atlantic Ocean, including the Caribbean Sea and Gulf of Mexico, that are determined—
-
-  (A) to be geologically active, or to have significant potential for geological activity; and
-
-  (B) to pose significant risks of tsunami for States along the coastal areas of the Atlantic Ocean, Caribbean Sea, or Gulf of Mexico; and
-
-(3) supports other international tsunami forecasting and warning efforts.
-
-**(d) Tsunami warning centers**
-
-(1) **In general** — The Administrator shall support or maintain centers to support the tsunami warning system required by subsection (c). The Centers 11 So in original. shall include—
-
-  (A) the National Tsunami Warning Center, located in Alaska, which is primarily responsible for Alaska and the continental United States;
-
-  (B) the Pacific Tsunami Warning Center, located in Hawaii, which is primarily responsible for Hawaii, the Caribbean, and other areas of the Pacific not covered by the National Center; and
-
-  (C) any additional forecast and warning centers determined by the National Weather Service to be necessary.
-
-(2) **Responsibilities** — The responsibilities of the centers supported or maintained under paragraph (1) shall include the following:
-
-  (A) Continuously monitoring data from seismological, deep ocean, coastal sea level, and tidal monitoring stations and other data sources as may be developed and deployed.
-
-  (B) Evaluating earthquakes, landslides, and volcanic eruptions that have the potential to generate tsunami.
-
-  (C) Evaluating deep ocean buoy data and tidal monitoring stations for indications of tsunami resulting from earthquakes and other sources.
-
-  (D) To the extent practicable, utilizing a range of models, including ensemble models, to predict tsunami, including arrival times, flooding estimates, coastal and harbor currents, and duration.
-
-  (E) Using data from the Integrated Ocean Observing System of the Administration in coordination with regional associations to calculate new inundation estimates and periodically update existing inundation estimates.
-
-  (F) Disseminating forecasts and tsunami warning bulletins to Federal, State, tribal, and local government officials and the public.
-
-  (G) Coordinating with the tsunami hazard mitigation program conducted under [section 3204 of this title](./chapter-045-tsunami-warning-and-education.md#section-3204) to ensure ongoing sharing of information between forecasters and emergency management officials.
-
-  (H) In coordination with the Commandant of the Coast Guard and the Administrator of the Federal Emergency Management Agency, evaluating and recommending procedures for ports and harbors at risk of tsunami inundation, including review of readiness, response, and communication strategies, and data sharing policies, to the maximum extent practicable.
-
-  (I) Making data gathered under this chapter and post-warning analyses conducted by the National Weather Service or other relevant Administration offices available to the public.
-
-  (J) Integrating and modernizing the program operated under this section with advances in tsunami science to improve performance without compromising service.
-
-(3) **Fail-safe warning capability** — The tsunami warning centers supported or maintained under paragraph (1) shall maintain a fail-safe warning capability and perform back-up duties for each other.
-
-(4) **Coordination with National Weather Service** — The Administrator shall coordinate with the forecast offices of the National Weather Service, the centers supported or maintained under paragraph (1), and such program offices of the Administration as the Administrator or the coordinating committee, as established in section 3204(d) 22 So in original. Probably should be “section 3204(b)”. of this title, consider appropriate to ensure that regional and local forecast offices—
-
-  (A) have the technical knowledge and capability to disseminate tsunami warnings for the communities they serve;
-
-  (B) leverage connections with local emergency management officials for optimally disseminating tsunami warnings and forecasts; and
-
-  (C) implement mass communication tools in effect on the day before April 18, 2017, used by the National Weather Service on such date and newer mass communication technologies as they are developed as a part of the Weather-Ready Nation program of the Administration, or otherwise, for the purpose of timely and effective delivery of tsunami warnings.
-
-(5) **Uniform operating procedures** — The Administrator shall—
-
-  (A) develop uniform operational procedures for the centers supported or maintained under paragraph (1), including the use of software applications, checklists, decision support tools, and tsunami warning products that have been standardized across the program supported under this section;
-
-  (B) ensure that processes and products of the warning system operated under subsection (c)—
-
-    (i) reflect industry best practices when practicable;
-
-    (ii) conform to the maximum extent practicable with internationally recognized standards for information technology; and
-
-    (iii) conform to the maximum extent practicable with other warning products and practices of the National Weather Service;
-
-  (C) ensure that future adjustments to operational protocols, processes, and warning products—
-
-    (i) are made consistently across the warning system operated under subsection (c); and
-
-    (ii) are applied in a uniform manner across such warning system;
-
-  (D) establish a systematic method for information technology product development to improve long-term technology planning efforts; and
-
-  (E) disseminate guidelines and metrics for evaluating and improving tsunami forecast models.
-
-(6) **Available resources** — The Administrator, through the National Weather Service, shall ensure that resources are available to fulfill the obligations of this chapter. This includes ensuring supercomputing resources are available to run, as rapidly as possible, such computer models as are needed for purposes of the tsunami warning system operated under subsection (c).
-
-**(e) Transfer of technology; maintenance and upgrades** In carrying out this section, the Administrator shall—
-
-(1) develop requirements for the equipment used to forecast tsunami, including—
-
-  (A) provisions for multipurpose detection platforms;
-
-  (B) reliability and performance metrics; and
-
-  (C) to the maximum extent practicable, requirements for the integration of equipment with other United States and global ocean and coastal observation systems, the global Earth observing system of systems, the global seismic networks, and the Advanced National Seismic System;
-
-(2) develop and execute a plan for the transfer of technology from ongoing research conducted as part of the program supported or maintained under [section 3205 of this title](./chapter-045-tsunami-warning-and-education.md#section-3205) into the program under this section; and
-
-(3) ensure that the Administration’s operational tsunami detection equipment is properly maintained.
-
-**(f) Federal cooperation** When deploying and maintaining tsunami detection technologies under the program under this section, the Administrator shall—
-
-(1) identify which assets of other Federal agencies are necessary to support such program; and
-
-(2) work with each agency identified under paragraph (1)—
-
-  (A) to acquire the agency’s assistance; and
-
-  (B) to prioritize the necessary assets in support of the tsunami forecast and warning program.
-
-**(g) Congressional notifications**
-
-(1) **In general** — The Administrator shall notify the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Science of the House of Representatives within 30 days of—
-
-  (A) impaired regional forecasting capabilities due to equipment or system failures;
-
-  (B) significant contractor failures or delays in completing work associated with the tsunami forecasting and warning system; and
-
-  (C) the occurrence of a significant tsunami warning.
-
-(2) **Contents** — In a case in which notice is submitted under paragraph (1) within 30 days of a significant tsunami warning described in subparagraph (C) of such paragraph, such notice shall include, as appropriate, brief information and analysis of—
-
-  (A) the accuracy of the tsunami model used;
-
-  (B) the specific deep ocean or other monitoring equipment that detected the incident, as well as the deep ocean or other monitoring equipment that did not detect the incident due to malfunction or other reasons;
-
-  (C) the effectiveness of the warning communication, including the dissemination of warnings with State, territory, local, and tribal partners in the affected area under the jurisdiction of the National Weather Service; and
-
-  (D) such other findings as the Administrator considers appropriate.
-
-### Statutory Notes
-
-#### References in Text
-[Section 3205 of this title](./chapter-045-tsunami-warning-and-education.md#section-3205), referred to in subsec. (e)(2), was in the original “section 6”, meaning section 6 of Pub. L. 109–424, and was translated as if it referred to section 806 of Pub. L. 109–479, which enacted a substantially identical [section 3205 of this title](./chapter-045-tsunami-warning-and-education.md#section-3205). Section 6 of Pub. L. 109–424 was repealed by section 512(a) of Pub. L. 115–25.
-
-#### Codification
-Pub. L. 109–424 and title VIII of Pub. L. 109–479 enacted substantially identical sections. Pub. L. 109–424 was repealed by section 512(a) of Pub. L. 115–25.
-
-#### Amendments
-2017—Subsec. (a). Pub. L. 115–25, § 504(a), substituted “Atlantic Ocean region, including the Caribbean Sea and the Gulf of Mexico” for “Atlantic Ocean, Caribbean Sea, and Gulf of Mexico region”.
-
-Subsec. (b)(1). Pub. L. 115–25, § 504(b)(1), substituted “supported or maintained” for “established”.
-
-Subsec. (b)(2). Pub. L. 115–25, § 504(b)(4), added par. (2). Former par. (2) redesignated (3).
-
-Subsec. (b)(3), (4). Pub. L. 115–25, § 504(b)(3), redesignated pars. (2) and (3) as (3) and (4), respectively. Former par. (4) redesignated (5).
-
-Subsec. (b)(5). Pub. L. 115–25, § 504(b)(5), amended par. (5) generally. Prior to amendment, par. (5) read as follows: “provide tsunami forecasting capability based on models and measurements, including tsunami inundation models and maps for use in increasing the preparedness of communities, including through the TsunamiReady program;”.
-
-Pub. L. 115–25, § 504(b)(3), redesignated par. (4) as (5). Former par. (5) redesignated (6).
-
-Subsec. (b)(6). Pub. L. 115–25, § 504(b)(3), redesignated par. (5) as (6). Former par. (6) redesignated (7).
-
-Subsec. (b)(7). Pub. L. 115–25, § 504(b)(6), amended par. (7) generally. Prior to amendment, par. (7) read as follows: “include a cooperative effort among the Administration, the United States Geological Survey, and the National Science Foundation under which the Geological Survey and the National Science Foundation shall provide rapid and reliable seismic information to the Administration from international and domestic seismic networks;”.
-
-Pub. L. 115–25, § 504(b)(3), redesignated par. (6) as (7). Former par. (7) redesignated (8).
-
-Subsec. (b)(8). Pub. L. 115–25, § 504(b)(2), (7), redesignated par. (7) as (8) and inserted “, including graphical warning products,” after “warnings”, “, territories,” after “States” and “and Wireless Emergency Alerts” after “Hazards Program”. Former par. (8) redesignated (9).
-
-Subsec. (b)(9). Pub. L. 115–25, § 504(b)(2), (8), redesignated par. (8) as (9) and inserted “provide and” before “allow” and “and commercial and Federal undersea communications cables” after “observing technologies”. Former par. (9) redesignated (10).
-
-Subsec. (b)(10). Pub. L. 115–25, § 504(b)(2), redesignated par. (9) as (10).
-
-Subsec. (c). Pub. L. 115–25, § 504(c), amended subsec. (c) generally. Prior to amendment, subsec. (c) related to tsunami warning system areas.
-
-Subsec. (d). Pub. L. 115–25, § 504(d), amended subsec. (d) generally. Prior to amendment, subsec. (d) related to the location of tsunami warning centers and the responsibilities of the centers.
-
-Subsec. (e). Pub. L. 115–25, § 504(e), amended subsec. (e) generally. Prior to amendment, subsec. (e) related to the National Weather Service’s responsibilities regarding tsunami equipment and technology.
-
-Subsec. (f). Pub. L. 115–25, § 504(f), amended subsec. (f) generally. Prior to amendment, text read as follows: “When deploying and maintaining tsunami detection technologies, the Administrator shall seek the assistance and assets of other appropriate Federal agencies.”
-
-Subsec. (g). Pub. L. 115–25, § 504(h), designated existing provisions as par. (1) and inserted heading, redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, of par. (1) and realigned margins, added subpar. (C) of par. (1), and added par. (2).
-
-Pub. L. 115–25, § 504(g)(1), (3), redesignated subsec. (h) as (g) and struck out former subsec. (g) which related to annual equipment certification.
-
-Subsec. (h). Pub. L. 115–25, § 504(g)(3), redesignated subsec. (h) as (g).
-
-Subsecs. (i) to (k). Pub. L. 115–25, § 504(g)(2), struck out subsecs. (i) to (k) which related to Comptroller General report, external review by the National Academy of Sciences, and establishment of a process for monitoring and certifying contractor performance, respectively.
-
-#### Change of Name
-Committee on Science of House of Representatives changed to Committee on Science and Technology of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007. Committee on Science and Technology of House of Representatives changed to Committee on Science, Space, and Technology of House of Representatives by House Resolution No. 5, One Hundred Twelfth Congress, Jan. 5, 2011.
+**(b) Operations** The Director of the program, through operation of the extramural regional centers and the National Institute for Undersea Science and Technology, shall leverage partnerships and cooperative research with academia and private industry.
 
 
 <a id="section-3204"></a>
-## § 3204. National tsunami hazard mitigation program
-**(a) Program required** The Administrator, in coordination with the Administrator of the Federal Emergency Management Agency and the heads of such other agencies as the Administrator considers relevant, shall conduct a community-based tsunami hazard mitigation program to improve tsunami preparedness and resiliency of at-risk areas in the United States and the territories of the United States.
+## § 3204. Competitiveness
+**(a) Discretionary fund** The Program shall allocate no more than 10 percent of its annual budget to a discretionary fund that may be used only for program administration and priority undersea research projects identified by the Director but not covered by funding available from centers.
 
-**(b) Coordinating committee** In conducting the program under this section, the Administrator shall establish a coordinating committee comprising representatives of Federal, State, local, and tribal government officials. The Administrator may establish subcommittees to address region-specific issues. The committee shall—
-
-(1) recommend how funds appropriated for carrying out the program under this section will be allocated;
-
-(2) ensure that areas described in [section 3203(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section3203/c&num=0&edition=prelim) in the United States and its territories can have the opportunity to participate in the program;
-
-(3) provide recommendations to the National Weather Service on how to improve the TsunamiReady program, particularly on ways to make communities more tsunami resilient through the use of inundation maps and other mitigation practices; and
-
-(4) ensure that all components of the program are integrated with ongoing hazard warning and risk management activities, emergency response plans, and mitigation programs in affected areas, including integrating information to assist in tsunami evacuation route planning.
-
-**(c) Program components** The Program conducted under subsection (a) shall include the following:
-
-(1) Technical and financial assistance to coastal States, territories, tribes, and local governments to develop and implement activities under this section.
-
-(2) Integration of tsunami preparedness and mitigation programs into ongoing State-based hazard warning, resilience planning, and risk management activities, including predisaster planning, emergency response, evacuation planning, disaster recovery, hazard mitigation, and community development and redevelopment planning programs in affected areas.
-
-(3) Coordination with other Federal preparedness and mitigation programs to leverage Federal investment, avoid duplication, and maximize effort.
-
-(4) Activities to promote the adoption of tsunami resilience, preparedness, warning, and mitigation measures by Federal, State, territorial, tribal, and local governments and nongovernmental entities, including educational and risk communication programs to discourage development in high-risk areas.
-
-(5) Activities to support the development of regional tsunami hazard and risk assessments. Such regional risk assessments may include the following:
-
-  (A) The sources, sizes, and other relevant historical data of tsunami in the region, including paleotsunami data.
-
-  (B) Inundation models and maps of critical infrastructure and socioeconomic vulnerability in areas subject to tsunami inundation.
-
-  (C) Maps of evacuation areas and evacuation routes, including, when appropriate, traffic studies that evaluate the viability of evacuation routes.
-
-  (D) Evaluations of the size of populations that will require evacuation, including populations with special evacuation needs.
-
-  (E) Evaluations and technical assistance for vertical evacuation structure planning for communities where models indicate limited or no ability for timely evacuation, especially in areas at risk of near shore generated tsunami.
-
-  (F) Evaluation of at-risk ports and harbors.
-
-  (G) Evaluation of the effect of tsunami currents on the foundations of closely-spaced, coastal high-rise structures.
-
-(6) Activities to promote preparedness in at-risk ports and harbors, including the following:
-
-  (A) Evaluation and recommendation of procedures for ports and harbors in the event of a distant or near-field tsunami.
-
-  (B) A review of readiness, response, and communication strategies to ensure coordination and data sharing with the Coast Guard.
-
-(7) Activities to support the development of community-based outreach and education programs to ensure community readiness and resilience, including the following:
-
-  (A) The development, implementation, and assessment of technical training and public education programs, including education programs that address unique characteristics of distant and near-field tsunami.
-
-  (B) The development of decision support tools.
-
-  (C) The incorporation of social science research into community readiness and resilience efforts.
-
-  (D) The development of evidence-based education guidelines.
-
-(8) Dissemination of guidelines and standards for community planning, education, and training products, programs, and tools, including—
-
-  (A) standards for—
-
-    (i) mapping products;
-
-    (ii) inundation models; and
-
-    (iii) effective emergency exercises; and
-
-  (B) recommended guidance for at-risk port and harbor tsunami warning, evacuation, and response procedures in coordination with the Coast Guard and the Federal Emergency Management Agency.
-
-**(d) Authorized activities** In addition to activities conducted under subsection (c), the program conducted under subsection (a) may include the following:
-
-(1) Multidisciplinary vulnerability assessment research, education, and training to help integrate risk management and resilience objectives with community development planning and policies.
-
-(2) Risk management training for local officials and community organizations to enhance understanding and preparedness.
-
-(3) In coordination with the Federal Emergency Management Agency, interagency, Federal, State, tribal, and territorial intergovernmental tsunami response exercise planning and implementation in high risk areas.
-
-(4) Development of practical applications for existing or emerging technologies, such as modeling, remote sensing, geospatial technology, engineering, and observing systems, including the integration of tsunami sensors into Federal and commercial submarine telecommunication cables if practicable.
-
-(5) Risk management, risk assessment, and resilience data and information services, including—
-
-  (A) access to data and products derived from observing and detection systems; and
-
-  (B) development and maintenance of new integrated data products to support risk management, risk assessment, and resilience programs.
-
-(6) Risk notification systems that coordinate with and build upon existing systems and actively engage decisionmakers, State, local, tribal, and territorial governments and agencies, business communities, nongovernmental organizations, and the media.
-
-**(e) No preemption with respect to designation of at-risk areas** The establishment of national standards for inundation models under this section shall not prevent States, territories, tribes, and local governments from designating additional areas as being at risk based on knowledge of local conditions.
-
-**(f) No new regulatory authority** Nothing in this chapter may be construed as establishing new regulatory authority for any Federal agency.
-
-### Statutory Notes
-
-#### Codification
-Pub. L. 109–424 and title VIII of Pub. L. 109–479 enacted substantially identical sections. Pub. L. 109–424 was repealed by section 512(a) of Pub. L. 115–25.
-
-#### Amendments
-2017—Subsec. (a). Pub. L. 115–25, § 505(a), amended subsec. (a) generally. Prior to amendment, text read as follows: “The Administrator, through the National Weather Service and in consultation with other relevant Administration offices, shall conduct a community-based tsunami hazard mitigation program to improve tsunami preparedness of at-risk areas in the United States and its territories.”
-
-Subsecs. (c) to (f). Pub. L. 115–25, § 505(b), added subsecs. (c) to (f) and struck out former subsecs. (c) and (d) which related to program components and provided a savings clause, respectively.
+**(b) Competitive selection** The Administrator shall conduct an initial competition to select the regional centers that will participate in the program 90 days after the publication of the final program direction under [section 3423 of this title](./chapter-047-ocean-exploration.md#section-3423) and every 5 years thereafter. Funding for projects conducted through the regional centers shall be awarded through a competitive, merit-reviewed process on the basis of their relevance to the goals of the program and their technical feasibility.
 
 
 <a id="section-3205"></a>
-## § 3205. Tsunami research program
-**(a) In general** The Administrator shall, in consultation with such other Federal agencies, State, tribal, and territorial governments, and academic institutions as the Administrator considers appropriate, the coordinating committee under section 3204(d) 11 So in original. Probably should read “section 3204(b)”. of this title, and the panel under [section 3206a(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section3206a/a&num=0&edition=prelim), support or maintain a tsunami research program to develop detection, forecast, communication, and mitigation science and technology, including advanced sensing techniques, information and communication technology, data collection, analysis, assessment for tsunami tracking and numerical forecast modeling, and standards development.
+## § 3205. Authorization of appropriations
 
-**(b) Responsibilities** The research program supported or maintained under subsection (a) shall—
+There are authorized to be appropriated to the National Oceanic and Atmospheric Administration—
 
-(1) consider other appropriate and cost effective solutions to mitigate the impact of tsunami, including the improvement of near-field and distant tsunami detection and forecasting capabilities, which may include use of a new generation of the Deep-ocean Assessment and Reporting of Tsunamis array, integration of tsunami sensors into commercial and Federal telecommunications cables, and other real-time tsunami monitoring systems and supercomputer capacity of the Administration to develop a rapid tsunami forecast for all United States coastlines;
+(1) for fiscal year 2009—
 
-(2) coordinate with the National Weather Service on technology to be transferred to operations;
+  (A) $13,750,000 for the regional centers, of which 50 percent shall be for West Coast regional centers and 50 percent shall be for East Coast regional centers; and
 
-(3) conduct social science research to develop and assess community warning, education, and evacuation materials;
+  (B) $5,500,000 for the National Technology Institute;
 
-(4) develop the technical basis for validation of tsunami maps, numerical tsunami models, digital elevation models, and forecasts; and
+(2) for fiscal year 2010—
 
-(5) ensure that research and findings are available to the public and the scientific community.
+  (A) $15,125,000 for the regional centers, of which 50 percent shall be for West Coast regional centers and 50 percent shall be for East Coast regional centers; and
 
-### Statutory Notes
+  (B) $6,050,000 for the National Technology Institute;
 
-#### Codification
-Pub. L. 109–424 and title VIII of Pub. L. 109–479 enacted substantially identical sections. Pub. L. 109–424 was repealed by section 512(a) of Pub. L. 115–25.
+(3) for fiscal year 2011—
 
-#### Amendments
-2017—Pub. L. 115–25, § 506(1), (2), designated first and second sentences of existing provisions as subsecs. (a) and (b), respectively, and inserted headings.
+  (A) $16,638,000 for the regional centers, of which 50 percent shall be for West Coast regional centers and 50 percent shall be for East Coast regional centers; and
 
-Subsec. (a). Pub. L. 115–25, § 506(1), (2), substituted “The Administrator shall, in consultation with such other Federal agencies, State, tribal, and territorial governments, and academic institutions as the Administrator considers appropriate, the coordinating committee under [section 3204(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section3204/d&num=0&edition=prelim), and the panel under [section 3206a(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section3206a/a&num=0&edition=prelim), support or maintain” for “The Administrator shall, in consultation with other agencies and academic institutions, and with the coordinating committee established under [section 3204(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section3204/b&num=0&edition=prelim), establish or maintain” and “assessment for tsunami tracking and numerical forecast modeling, and standards development.” for “and assessment for tsunami tracking and numerical forecast modeling.”
+  (B) $6,655,000 for the National Technology Institute;
 
-Subsec. (b). Pub. L. 115–25, § 506(2), substituted “The research program supported or maintained under subsection (a) shall—” for “Such research program shall—”.
+(4) for fiscal year 2012—
 
-Subsec. (b)(1). Pub. L. 115–25, § 506(3)(A), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “consider other appropriate research to mitigate the impact of tsunami;”.
+  (A) $18,301,000 for the regional centers, of which 50 percent shall be for West Coast regional centers and 50 percent shall be for East Coast regional centers; and
 
-Subsec. (b)(3). Pub. L. 115–25, § 506(3)(B), substituted “conduct” for “include” and struck out “and” at end.
+  (B) $7,321,000 for the National Technology Institute;
 
-Subsec. (b)(4). Pub. L. 115–25, § 506(3)(D), added par. (4). Former par. (4) redesignated (5).
+(5) for fiscal year 2013—
 
-Subsec. (b)(5). Pub. L. 115–25, § 506(3)(C), (E), redesignated par. (4) as (5) and substituted “to the public and the scientific community” for “to the scientific community”.
+  (A) $20,131,000 for the regional centers, of which 50 percent shall be for West Coast regional centers and 50 percent shall be for East Coast regional centers; and
+
+  (B) $8,053,000 for the National Technology Institute;
+
+(6) for fiscal year 2014—
+
+  (A) $22,145,000 for the regional centers, of which 50 percent shall be for West Coast regional centers and 50 percent shall be for East Coast regional centers; and
+
+  (B) $8,859,000 for the National Technology Institute; and
+
+(7) for fiscal year 2015—
+
+  (A) $24,359,000 for the regional centers, of which 50 percent shall be for West Coast regional centers and 50 percent shall be for East Coast regional centers; and
+
+  (B) $9,744,000 for the National Technology Institute.
 
 
 <a id="section-3206"></a>
-## § 3206. Global tsunami warning and mitigation network
-**(a) Support for development of an international tsunami warning system** The Administrator shall, in coordination with the Secretary of State and in consultation with such other agencies as the Administrator considers relevant, provide technical assistance, operational support, and training to the Intergovernmental Oceanographic Commission of the United Nations Educational, Scientific, and Cultural Organization, the World Meteorological Organization of the United Nations, and such other international entities as the Administrator considers appropriate, as part of the international efforts to develop a fully functional global tsunami forecast and warning system comprised of regional tsunami warning networks.
+## § 3206. Establishment of program
+**(a) In general** The President, in coordination with the Interagency Committee on Ocean and Coastal Mapping and affected coastal states, shall establish a program to develop a coordinated and comprehensive Federal ocean and coastal mapping plan for the Great Lakes and coastal state waters, the territorial sea, the exclusive economic zone, and the continental shelf of the United States that enhances ecosystem approaches in decision-making for conservation and management of marine resources and habitats, establishes research and mapping priorities, supports the siting of research and other platforms, and advances ocean and coastal science.
 
-**(b) International Tsunami Information Center** The Administrator, through the National Weather Service and in consultation with other relevant Administration offices, in cooperation with the Intergovernmental Oceanographic Commission, may operate an International Tsunami Information Center to improve tsunami preparedness for all Pacific Ocean nations participating in the International Tsunami Warning System of the Pacific, and may also provide such assistance to other nations participating in a global tsunami warning system established through the Intergovernmental Oceanographic Commission. As part of its responsibilities around the world, the Center may—
+**(b) Membership** The Committee shall be comprised of high-level representatives of the Department of Commerce, through the National Oceanic and Atmospheric Administration, the Department of the Interior, the National Science Foundation, the Department of Defense, the Environmental Protection Agency, the Department of Homeland Security, the National Aeronautics and Space Administration, and other appropriate Federal agencies involved in ocean and coastal mapping.
 
-(1) monitor international tsunami warning activities around the world;
+**(c) Program parameters** In developing such a program, the President, through the Committee, shall—
 
-(2) assist member states in establishing national warning systems, and make information available on current technologies for tsunami warning systems;
+(1) identify all Federal and federally-funded programs conducting shoreline delineation and ocean or coastal mapping, noting geographic coverage, frequency, spatial coverage, resolution, and subject matter focus of the data and location of data archives;
 
-(3) maintain a library of materials to promulgate knowledge about tsunami in general and for use by the scientific community; and
+(2) facilitate cost-effective, cooperative mapping efforts that incorporate policies for contracting with non-governmental entities among all Federal agencies conducting ocean and coastal mapping, by increasing data sharing, developing appropriate data acquisition and metadata standards, and facilitating the interoperability of in situ data collection systems, data processing, archiving, and distribution of data products;
 
-(4) disseminate information, including educational materials and research reports.
+(3) facilitate the adaptation of existing technologies as well as foster expertise in new ocean and coastal mapping technologies, including through research, development, and training conducted among Federal agencies and in cooperation with non-governmental entities;
 
-**(c) Detection equipment; technical advice and training** In carrying out this section, the National Weather Service—
+(4) develop standards and protocols for testing innovative experimental mapping technologies and transferring new technologies between the Federal Government, coastal state, and non-governmental entities;
 
-(1) shall give priority to assisting nations in identifying vulnerable coastal areas, creating inundation maps, obtaining or designing real-time detection and reporting equipment, and supporting communication and warning networks and contact points in each vulnerable nation;
+(5) provide for the archiving, management, and distribution of data sets through a national registry as well as provide mapping products and services to the general public in service of statutory requirements;
 
-(2) may support a process for transfer of detection and communication technology to affected nations for the purposes of supporting the international tsunami warning system; and
+(6) develop data standards and protocols consistent with standards developed by the Federal Geographic Data Committee for use by Federal, coastal state, and other entities in mapping and otherwise documenting locations of federally permitted activities, living and nonliving coastal and marine resources, marine ecosystems, sensitive habitats, submerged cultural resources, undersea cables, offshore aquaculture projects, offshore energy projects, and any areas designated for purposes of environmental protection or conservation and management of living and nonliving coastal and marine resources;
 
-(3) shall provide technical and other assistance to support international tsunami programs.
+(7) identify the procedures to be used for coordinating the collection and integration of Federal ocean and coastal mapping data with coastal state and local government programs;
 
-**(d) Data-sharing requirement** The National Weather Service, when deciding to provide assistance under this section, may take into consideration the data sharing policies and practices of nations proposed to receive such assistance, with a goal to encourage all nations to support full and open exchange of data.
+(8) facilitate, to the extent practicable, the collection of real-time tide data and the development of hydrodynamic models for coastal areas to allow for the application of V-datum tools that will facilitate the seamless integration of onshore and offshore maps and charts;
+
+(9) establish a plan for the acquisition and collection of ocean and coastal mapping data; and
+
+(10) set forth a timetable for completion and implementation of the plan.
 
 ### Statutory Notes
 
-#### Codification
-Pub. L. 109–424 and title VIII of Pub. L. 109–479 enacted substantially identical sections. Pub. L. 109–424 was repealed by section 512(a) of Pub. L. 115–25.
+#### Short Title
+Pub. L. 111–11, title XII, § 12201, Mar. 30, 2009, 123 Stat. 1421, provided that: “This subtitle [subtitle B (§§ 12201–12208) of title XII of Pub. L. 111–11, enacting this chapter] may be cited as the ‘Ocean and Coastal Mapping Integration Act’.”
 
-#### Amendments
-2017—Subsec. (a). Pub. L. 115–25, § 507(1), amended subsec. (a) generally. Prior to amendment, text read as follows: “The Administrator, through the National Weather Service and in consultation with other relevant Administration offices, in coordination with other members of the United States Interagency Committee of the National Tsunami Hazard Mitigation Program, shall provide technical assistance and training to the Intergovernmental Oceanographic Commission, the World Meteorological Organization, and other international entities, as part of international efforts to develop a fully functional global tsunami forecast and warning system comprising regional tsunami warning networks, modeled on the International Tsunami Warning System of the Pacific.”
+#### Ocean Mapping of the United States Exclusive Economic Zone and the Shoreline and Nearshore of Alaska
+Memorandum of President of the United States, Nov. 19, 2019, 84 F.R. 64699, provided:
 
-Subsec. (b). Pub. L. 115–25, § 507(2), in introductory provisions, substituted “may operate” for “shall operate” and “the Center may” for “the Center shall”.
+Memorandum for the Secretary of State[,] the Secretary of Defense[,] the Attorney General[,] the Secretary of the Interior[,] the Secretary of Agriculture[,] the Secretary of Commerce[,] the Secretary of Transportation[,] the Secretary of Energy[,] the Secretary of Homeland Security[,] the Administrator of the Environmental Protection Agency[,] the Director of the Office of Management and Budget[,] the Administrator of the National Aeronautics and Space Administration[,] the Director of the National Science Foundation[,] the Director of National Intelligence[,] the Chairman of the Joint Chiefs of Staff[,] the Administrator of the National Oceanic and Atmospheric Administration[,] the Assistant Secretary of the Army for Civil Works[,] the Commandant of the Coast Guard[,] the Assistant to the President for National Security Affairs[,] the Assistant to the President for Domestic Policy[,] the Assistant to the President for Economic Policy[,] the Director of the Office of Science and Technology Policy[,] the Chairman of the Council on Environmental Quality[, and] the Deputy Assistant to the President for Homeland Security and Counterterrorism
 
-Subsec. (c)(1). Pub. L. 115–25, § 507(3)(A), substituted “supporting” for “establishing”.
+By the authority vested in me as President by the Constitution and the laws of the United States of America, I hereby direct the following:
 
-Subsec. (c)(2). Pub. L. 115–25, § 507(3)(B), substituted “support” for “establish” and “supporting” for “establishing”.
+Section 1. Policy. It is the policy of the United States to act boldly to safeguard our future prosperity, health, and national security through ocean mapping, exploration, and characterization. Data and information about the ocean help to advance maritime commerce, domestic seafood production, healthy and sustainable fisheries, coastal resilience, energy production, tourism and recreation, environmental protection, national and homeland security, and other interests. Such activities contribute more than $300 billion per year of economic activity, 3 million jobs, and $129 billion in wages.
+
+On March 10, 1983, President Reagan issued Proclamation 5030 (Exclusive Economic Zone of the United States of America) [[16 U.S.C. 1453](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1453&num=0&edition=prelim) note], which established the United States Exclusive Economic Zone (U.S. EEZ) to advance the development of ocean resources and promote the protection of the marine environment. With more than 13,000 miles of coastline and 3.4 million square nautical miles of ocean within our territorial jurisdiction, our country’s EEZ is among the largest in the world and is larger than the combined land area of all 50 States. The U.S. EEZ contains a vast array of underutilized, and likely many undiscovered, natural resources, including critical minerals, marine-derived pharmaceuticals, energy, and areas of significant ecological and conservation value. However, only about 40 percent of the U.S. EEZ has been mapped and significantly less of the area has natural resources and ocean systems that have been characterized, including identification and evaluation, by executive departments and agencies (agencies).
+
+The Nation is poised to harness cutting-edge science, new technologies, and partnerships to unlock the potential of our oceans through increased ocean mapping.
+
+Maps and charts that present accurate and contemporary coastal elevation data support economic growth, resource management, and the safety and security of coastal residents. Completed mapping is especially lacking for Alaska and for the Alaskan Arctic, which lack the comprehensive shoreline and nearshore maps available for much of the rest of the Nation.
+
+To improve our Nation’s understanding of our vast ocean resources and to advance the economic, security, and environmental interests of the United States, it is the policy of the United States to support the conservation, management, and balanced use of America’s oceans by exploring, mapping, and characterizing the U.S. EEZ, including mapping the Arctic and Sub-Arctic shoreline and nearshore of Alaska. Further, to ensure that these activities produce the broadest possible benefits and provide the greatest return on investment of Federal resources, it is the policy of the United States to support these activities, when appropriate, in collaboration with non-United States Government entities.
+
+Sec. 2. National Strategy for Mapping, Exploring, and Characterizing the U.S. EEZ. Mapping, exploring, and characterizing the U.S. EEZ is necessary for a systematic and efficient approach to understanding our resources. Mapping will reveal the terrain of the ocean floor and identify areas of particular interest; exploration and characterization will identify and evaluate natural and cultural resources within these areas. This knowledge will inform conservation, management, and balanced use of the U.S. EEZ.
+
+To advance these objectives, the Director of the Office of Science and Technology Policy (Director) and the Chairman of the Council on Environmental Quality (Chairman), who serve as co-chairs of the Ocean Policy Committee established by Executive Order 13840 of June 19, 2018 (Ocean Policy to Advance the Economic, Security, and Environmental Interests of the United States) [[33 U.S.C. 857–19](./chapter-017-national-oceanic-and-atmospheric-administration.md#section-857-19) note], shall coordinate the development of a national strategy for mapping, exploring, and characterizing the U.S. EEZ, and for enhancing opportunities for collaboration among interagency and non-United States Government entities with respect to those activities. Specifically, within 180 days of the date of this memorandum [Nov. 19, 2019], the Ocean Policy Committee, working through its Ocean Science and Technology Subcommittee and in coordination with the Administrator of the National Oceanic and Atmospheric Administration, shall develop a proposed strategy to map the U.S. EEZ, to identify priority areas within the U.S. EEZ, and to explore and characterize the priority areas, and shall submit it to the Director and the Chairman.
+
+Sec. 3. Strategy for Mapping the Arctic and Sub-Arctic Shoreline and Nearshore of Alaska. Within 180 days of the date of this memorandum, the Administrator of the National Oceanic and Atmospheric Administration, in coordination, as appropriate, with the State of Alaska and the Alaska Mapping Executive Committee, shall develop a proposed strategy to map the shoreline and nearshore of Alaska and shall submit it to the Director and the Chairman to inform actions of the Ocean Policy Committee and relevant agencies.
+
+Sec. 4. Efficient Permitting of Mapping, Exploration, and Characterization Activities. The United States Government, in coordination with non-United States Government entities, conducts hundreds of ocean exploration, mapping, and research activities every year across the U.S. EEZ. These activities improve our understanding of our oceans, including by identifying potential new sources of critical minerals, biopharmaceuticals, energy, and other resources. These activities frequently require multiple environmental reviews, consultations, permits, and other authorizations under Federal laws and regulations that protect resources such as maritime heritage sites and sensitive or protected marine natural resources. In order to reduce duplication and promote efficiency across agencies, within 180 days of the date of this memorandum, the Ocean Policy Committee, working through its Ocean Resource Management Subcommittee, shall identify opportunities and recommend actions to the Director and the Chairman to increase the efficiency of the permitting and authorization processes for ocean research, mapping, and characterization activities across agencies.
+
+Sec. 5. General Provisions. (a) Nothing in this memorandum shall be construed to impair or otherwise affect:
+
+(i) the authority granted by law to an executive department or agency, or the head thereof; or
+
+(ii) the functions of the Director of the Office of Management and Budget relating to budgetary, administrative, or legislative proposals.
+
+(b) This memorandum shall be implemented consistent with applicable law and subject to the availability of appropriations.
+
+(c) This memorandum is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+
+(d) The Secretary of Commerce is hereby authorized and directed to publish this memorandum in the Federal Register.
+
+Donald J. Trump.
 
 
 <a id="section-3206a"></a>
-## § 3206a. Tsunami Science and Technology Advisory Panel
-**(a) Designation** The Administrator shall designate an existing working group within the Science Advisory Board of the Administration to serve as the Tsunami Science and Technology Advisory Panel to provide advice to the Administrator on matters regarding tsunami science, technology, and regional preparedness.
+## § 3206a. Interagency committee on ocean and coastal mapping
+**(a) In general** The Administrator of the National Oceanic and Atmospheric Administration, within 30 days after March 30, 2009, shall convene or utilize an existing interagency committee on ocean and coastal mapping to implement [section 3501 of this title](./chapter-048-ocean-and-coastal-mapping-integration.md#section-3501).
 
-**(b) Membership**
+**(b) Membership** The committee shall be comprised of senior representatives from Federal agencies with ocean and coastal mapping and surveying responsibilities. The representatives shall be high-ranking officials of their respective agencies or departments and, whenever possible, the head of the portion of the agency or department that is most relevant to the purposes of this chapter. Membership shall include senior representatives from the National Oceanic and Atmospheric Administration, the Chief of Naval Operations, the United States Geological Survey, the Minerals Management Service, the National Science Foundation, the National Geospatial-Intelligence Agency, the United States Army Corps of Engineers, the Coast Guard, the Environmental Protection Agency, the Federal Emergency Management Agency, the National Aeronautics and Space Administration, and other appropriate Federal agencies involved in ocean and coastal mapping.
 
-(1) **Composition** — The Panel shall be composed of no fewer than 7 members selected by the Administrator from among individuals from academia or State agencies who have academic or practical expertise in physical sciences, social sciences, information technology, coastal resilience, emergency management, or such other disciplines as the Administrator considers appropriate.
+**(c) Co-chairmen** The Committee shall be co-chaired by the representative of the Department of Commerce and a representative of the Department of the Interior.
 
-(2) **Federal employment** — No member of the Panel may be a Federal employee.
+**(d) Subcommittee** The co-chairmen shall establish a subcommittee to carry out the day-to-day work of the Committee, comprised of senior representatives of any member agency of the committee. Working groups may be formed by the full Committee to address issues of short duration. The subcommittee shall be chaired by the representative from the National Oceanic and Atmospheric Administration. The chairmen of the Committee may create such additional subcommittees and working groups as may be needed to carry out the work of Committee.
 
-**(c) Responsibilities** Not less frequently than once every 4 years, the Panel shall—
+**(e) Meetings** The committee shall meet on a quarterly basis, but each subcommittee and each working group shall meet on an as-needed basis.
 
-(1) review the activities of the Administration, and other Federal activities as appropriate, relating to tsunami research, detection, forecasting, warning, mitigation, resiliency, and preparation; and
+**(f) Coordination** The committee shall coordinate activities when appropriate, with—
 
-(2) submit to the Administrator and such others as the Administrator considers appropriate—
+(1) other Federal efforts, including the Digital Coast, Geospatial One-Stop, and the Federal Geographic Data Committee;
 
-  (A) the findings of the working group with respect to the most recent review conducted under paragraph (1); and
+(2) international mapping activities;
 
-  (B) such recommendations for legislative or administrative action as the working group considers appropriate to improve Federal tsunami research, detection, forecasting, warning, mitigation, resiliency, and preparation.
+(3) coastal states;
 
-**(d) Reports to Congress** Not less frequently than once every 4 years, the Administrator shall submit to the Committee on Commerce, Science, and Transportation of the Senate, and the Committee on Science, Space, and Technology of the House of Representatives a report on the findings and recommendations received by the Administrator under subsection (c)(2).
+(4) user groups through workshops and other appropriate mechanisms; and
+
+(5) representatives of nongovernmental entities.
+
+**(g) Advisory panel** The Administrator may convene an ocean and coastal mapping advisory panel consisting of representatives from non-governmental entities to provide input regarding activities of the committee in consultation with the interagency committee.
 
 ### Statutory Notes
 
-#### Prior Provisions
-A prior section 808 of Pub. L. 109–479 was renumbered section 809 and is classified to [section 3207 of this title](./chapter-045-tsunami-warning-and-education.md#section-3207).
+#### Transfer of Functions
+The Minerals Management Service was abolished and functions divided among the Office of Natural Resources Revenue, the Bureau of Ocean Energy Management, and the Bureau of Safety and Environmental Enforcement. See Secretary of the Interior Orders No. 3299 of May 19, 2010, and No. 3302 of June 18, 2010, and chapters II, V, and XII of title 30, Code of Federal Regulations, as revised by final rules of the Department of the Interior at 75 F.R. 61051 and 76 F.R. 64432.
 
 
 <a id="section-3207"></a>
-## § 3207. Authorization of appropriations
+## § 3207. Biennial reports
 
-There are authorized to be appropriated to the Administrator to carry out this chapter—
+No later than 18 months after March 30, 2009, and biennially thereafter, the co-chairmen of the Committee shall transmit to the Committees on Commerce, Science, and Transportation and Energy and Natural Resources of the Senate and the Committee on Natural Resources of the House of Representatives a report detailing progress made in implementing this chapter, including—
 
-(1) $25,000,000 for fiscal year 2008, of which—
+(1) an inventory of ocean and coastal mapping data within the territorial sea and the exclusive economic zone and throughout the Continental Shelf of the United States, noting the age and source of the survey and the spatial resolution (metadata) of the data;
 
-  (A) not less than 27 percent of the amount appropriated shall be for the tsunami hazard mitigation program under [section 3204 of this title](./chapter-045-tsunami-warning-and-education.md#section-3204); and
+(2) identification of priority areas in need of survey coverage using present technologies;
 
-  (B) not less than 8 percent of the amount appropriated shall be for the tsunami research program under [section 3205 of this title](./chapter-045-tsunami-warning-and-education.md#section-3205);
+(3) a resource plan that identifies when priority areas in need of modern ocean and coastal mapping surveys can be accomplished;
 
-(2) $26,000,000 for fiscal year 2009, of which—
+(4) the status of efforts to produce integrated digital maps of ocean and coastal areas;
 
-  (A) not less than 27 percent of the amount appropriated shall be for the tsunami hazard mitigation program under [section 3204 of this title](./chapter-045-tsunami-warning-and-education.md#section-3204); and
+(5) a description of any products resulting from coordinated mapping efforts under this chapter that improve public understanding of the coasts and oceans, or regulatory decisionmaking;
 
-  (B) not less than 8 percent of the amount appropriated shall be for the tsunami research program under [section 3205 of this title](./chapter-045-tsunami-warning-and-education.md#section-3205);
+(6) documentation of minimum and desired standards for data acquisition and integrated metadata;
 
-(3) $27,000,000 for fiscal year 2010, of which—
+(7) a statement of the status of Federal efforts to leverage mapping technologies, coordinate mapping activities, share expertise, and exchange data;
 
-  (A) not less than 27 percent of the amount appropriated shall be for the tsunami hazard mitigation program under [section 3204 of this title](./chapter-045-tsunami-warning-and-education.md#section-3204); and
+(8) a statement of resource requirements for organizations to meet the goals of the program, including technology needs for data acquisition, processing, and distribution systems;
 
-  (B) not less than 8 percent of the amount appropriated shall be for the tsunami research program under [section 3205 of this title](./chapter-045-tsunami-warning-and-education.md#section-3205);
+(9) a statement of the status of efforts to declassify data gathered by the Navy, the National Geospatial-Intelligence Agency, and other agencies to the extent possible without jeopardizing national security, and make it available to partner agencies and the public;
 
-(4) $28,000,000 for fiscal year 2011, of which—
+(10) a resource plan for a digital coast integrated mapping pilot project for the northern Gulf of Mexico that will—
 
-  (A) not less than 27 percent of the amount appropriated shall be for the tsunami hazard mitigation program under [section 3204 of this title](./chapter-045-tsunami-warning-and-education.md#section-3204); and
+  (A) cover the area from the authorized coastal counties through the territorial sea;
 
-  (B) not less than 8 percent of the amount appropriated shall be for the tsunami research program under [section 3205 of this title](./chapter-045-tsunami-warning-and-education.md#section-3205);
+  (B) identify how such a pilot project will leverage public and private mapping data and resources, such as the United States Geological Survey National Map, to result in an operational coastal change assessment program for the subregion;
 
-(5) $29,000,000 for fiscal year 2012, of which—
+(11) the status of efforts to coordinate Federal programs with coastal state and local government programs and leverage those programs;
 
-  (A) not less than 27 percent of the amount appropriated shall be for the tsunami hazard mitigation program under [section 3204 of this title](./chapter-045-tsunami-warning-and-education.md#section-3204); and
+(12) a description of efforts of Federal agencies to increase contracting with nongovernmental entities; and
 
-  (B) not less than 8 percent of the amount appropriated shall be for the tsunami research program under [section 3205 of this title](./chapter-045-tsunami-warning-and-education.md#section-3205); and
-
-(6) $25,800,000 for each of fiscal years 2016 through 2021, of which—
-
-  (A) not less than 27 percent of the amount appropriated for each fiscal year shall be for activities conducted at the State level under the tsunami hazard mitigation program under [section 3204 of this title](./chapter-045-tsunami-warning-and-education.md#section-3204); and
-
-  (B) not less than 8 percent of the amount appropriated shall be for the tsunami research program under [section 3205 of this title](./chapter-045-tsunami-warning-and-education.md#section-3205).
-
-### Statutory Notes
-
-#### Codification
-Pub. L. 109–424 and title VIII of Pub. L. 109–479 enacted substantially identical sections. Pub. L. 109–424 was repealed by section 512(a) of Pub. L. 115–25.
-
-#### Amendments
-2017—Par. (6). Pub. L. 115–25, § 510, which directed the addition of par. (6) to this section “as redesignated by section _08(a)(1)” of Pub. L. 115–25, was executed by adding par. (6) to this section as redesignated by section 508(a)(1) of Pub. L. 115–25, to reflect the probable intent of Congress.
+(13) an inventory and description of any new Federal or federally funded programs conducting shoreline delineation and ocean or coastal mapping since the previous reporting cycle.
 
 
 <a id="section-3208"></a>
-## § 3208. Outreach responsibilities
+## § 3208. Plan
+**(a) In general** Not later than 6 months after March 30, 2009, the Administrator, in consultation with the Committee, shall develop and submit to the Congress a plan for an integrated ocean and coastal mapping initiative within the National Oceanic and Atmospheric Administration.
 
-The Administrator of the National Oceanic and Atmospheric Administration, in coordination with State and local emergency managers, shall develop and carry out formal outreach activities to improve tsunami education and awareness and foster the development of resilient communities. Outreach activities may include—
+**(b) Plan requirements** The plan shall—
 
-(1) the development of outreach plans to ensure the close integration of tsunami warning centers supported or maintained under [section 3203(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section3203/d&num=0&edition=prelim), as amended by this Act, with local Weather Forecast Offices of the National Weather Service and emergency managers;
+(1) identify and describe all ocean and coastal mapping programs within the agency, including those that conduct mapping or related activities in the course of existing missions, such as hydrographic surveys, ocean exploration projects, living marine resource conservation and management programs, coastal zone management projects, and ocean and coastal observations and science projects;
 
-(2) working with appropriate local Weather Forecast Offices to ensure they have the technical knowledge and capability to disseminate tsunami warnings to the communities they serve; and
+(2) establish priority mapping programs and establish and periodically update priorities for geographic areas in surveying and mapping across all missions of the National Oceanic and Atmospheric Administration, as well as minimum data acquisition and metadata standards for those programs;
 
-(3) evaluating the effectiveness of warnings and of coordination with local Weather Forecast Offices after significant tsunami events.
+(3) encourage the development of innovative ocean and coastal mapping technologies and applications, through research and development through cooperative or other agreements with joint or cooperative research institutes or centers and with other non-governmental entities;
 
-### Statutory Notes
+(4) document available and developing technologies, best practices in data processing and distribution, and leveraging opportunities with other Federal agencies, coastal states, and non-governmental entities;
 
-#### References in Text
-[Section 3203(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section3203/d&num=0&edition=prelim), as amended by this Act, referred to in par. (1), means [section 3203(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section3203/d&num=0&edition=prelim), as amended by Pub. L. 115–25.
+(5) identify training, technology, and other resource requirements for enabling the National Oceanic and Atmospheric Administration’s programs, vessels, and aircraft to support a coordinated ocean and coastal mapping program;
 
-#### Codification
-Section was enacted as part of the Tsunami Warning, Education, and Research Act of 2017, and also as part of the Weather Research and Forecasting Innovation Act of 2017, and not as part of the Tsunami Warning and Education Act which comprises this chapter.
+(6) identify a centralized mechanism or office for coordinating data collection, processing, archiving, and dissemination activities of all such mapping programs within the National Oceanic and Atmospheric Administration that meets Federal mandates for data accuracy and accessibility and designate a repository that is responsible for archiving and managing the distribution of all ocean and coastal mapping data to simplify the provision of services to benefit Federal and coastal state programs; and
 
-#### Definitions
-For definition of “State” as used in this section, see [section 8501 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section8501&num=0&edition=prelim), Commerce and Trade.
+(7) set forth a timetable for implementation and completion of the plan, including a schedule for submission to the Congress of periodic progress reports and recommendations for integrating approaches developed under the initiative into the interagency program.
+
+**(c) NOAA joint ocean and coastal mapping centers** The Administrator may maintain and operate up to 3 joint ocean and coastal mapping centers, including a joint hydrographic center, which shall each be co-located with an institution of higher education. The centers shall serve as hydrographic centers of excellence and may conduct activities necessary to carry out the purposes of this chapter, including—
+
+(1) research and development of innovative ocean and coastal mapping technologies, equipment, and data products;
+
+(2) mapping of the United States Outer Continental Shelf and other regions;
+
+(3) data processing for nontraditional data and uses;
+
+(4) advancing the use of remote sensing technologies, for related issues, including mapping and assessment of essential fish habitat and of coral resources, ocean observations, and ocean exploration; and
+
+(5) providing graduate education and training in ocean and coastal mapping sciences for members of the National Oceanic and Atmospheric Administration Commissioned Officer Corps, personnel of other agencies with ocean and coastal mapping programs, and civilian personnel.
+
+**(d) NOAA report** The Administrator shall continue developing a strategy for expanding contracting with non-governmental entities to minimize duplication and take maximum advantage of nongovernmental capabilities in fulfilling the Administration’s mapping and charting responsibilities. Within 120 days after March 30, 2009, the Administrator shall transmit a report describing the strategy developed under this subsection to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Natural Resources of the House of Representatives.

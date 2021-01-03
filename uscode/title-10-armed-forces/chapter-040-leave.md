@@ -78,7 +78,7 @@ Leave accumulated while in missing status shall be accounted for separately. It 
 
   (B) is approved by the commander of the member.
 
-(5) Any leave taken by a member under this subsection, including leave under paragraphs (1) and (4), may be taken only in one increment in connection with such birth or adoption.
+(5) Any leave taken by a member under this subsection, including leave under paragraphs (1) and (4), may be taken in more than one increment in connection with such birth or adoption in accordance with regulations prescribed by the Secretary concerned.
 
 (6)
 
@@ -118,6 +118,12 @@ Leave accumulated while in missing status shall be accounted for separately. It 
 
 **(k)** A member of a reserve component who accumulates leave during a period of active service may carry over any leave so accumulated to the member’s next period of active service, subject to the accumulation limits in subsections (b), (d), and (f), without regard to separation or release from active service if the separation or release is under honorable conditions. The taking of leave carried over under this subsection shall be subject to the provisions of this section.
 
+**(l)** A member of the armed forces who gives birth while on active duty may be deployed during the period of 12 months beginning on the date of such birth only with the approval of a health care provider employed at a military medical treatment facility and—
+
+(1) at the election of such member; or
+
+(2) in the interest of national security, as determined by the Secretary of Defense.
+
 ### Statutory Notes
 
 | Historical and Revision Notes |  |  |
@@ -134,6 +140,10 @@ In subsections (b) and (c), the word “accrued” is omitted as covered by the 
 In subsection (e), the words “before or after August 9, 1946” and section 31a(a) (words after semicolon in 9th sentence) of existing title 37 are omitted as executed.
 
 #### Amendments
+2019—Subsec. (i)(5). Pub. L. 116–92, § 571, substituted “in more than one increment” for “only in one increment” and inserted “in accordance with regulations prescribed by the Secretary concerned” before period at end.
+
+Subsec. (l). Pub. L. 116–92, § 572, added subsec. (l).
+
 2016—Subsecs. (i), (j). Pub. L. 114–328 added subsecs. (i) and (j) and struck out former subsecs. (i) and (j) which read as follows:
 
 “(i)(1) Under regulations prescribed by the Secretary of Defense, a member of the armed forces adopting a child in a qualifying child adoption is allowed up to 21 days of leave in a calendar year to be used in connection with the adoption.
@@ -726,7 +736,7 @@ Pub. L. 98–525, title VII, § 707(b), Oct. 19, 1984, 98 Stat. 2572, provided t
 
 **(c) Agreement.—** Each member of the armed forces who participates in a program under this section shall enter into a written agreement with the Secretary of the military department concerned under which agreement that member shall agree as follows:
 
-(1) To accept an appointment or enlist, as applicable, and serve in the Ready Reserve of the armed force concerned during the period of the inactivation of the member from active service under the program.
+(1) To accept an appointment or enlist, as applicable, and serve in the Ready Reserve of an armed force during the period of the inactivation of the member from active service under the program.
 
 (2) To undergo during the period of the inactivation of the member from active service under the program such inactive service training as the Secretary concerned shall require in order to ensure that the member retains proficiency, at a level determined by the Secretary concerned to be sufficient, in the military skills, professional qualifications, and physical readiness of the member during the inactivation of the member from active service.
 
@@ -800,6 +810,19 @@ Pub. L. 98–525, title VII, § 707(b), Oct. 19, 1984, 98 Stat. 2572, provided t
 
 **(h) Continued Entitlements.—** A member participating in a program under this section shall, while participating in the program, be treated as a member of the armed forces on active duty for a period of more than 30 days for purposes of—
 
-(1) the entitlement of the member and of the dependents of the member to medical and dental care under the provisions of chapter 55 of this title; and
+(1) the entitlement of the member and of the dependents of the member to medical and dental care under the provisions of chapter 55 of this title;
 
-(2) retirement or separation for physical disability under the provisions of chapters 55 and 61 of this title.
+(2) retirement or separation for physical disability under the provisions of chapters 55 and 61 of this title;
+
+(3) the entitlement of the member and of the survivors of the member to all death benefits under the provisions of chapter 75 of this title;
+
+(4) the provision of all travel and transportation allowances for the survivors of deceased members to attend burial ceremonies under [section 481f of title 37](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section481f&num=0&edition=prelim); and
+
+(5) the eligibility of the member for general benefits as provided in part II of title 38.
+
+### Statutory Notes
+
+#### Amendments
+2021—Subsec. (c)(1). Pub. L. 116–283 substituted “an armed force” for “the armed force concerned”.
+
+2019—Subsec. (h)(3) to (5). Pub. L. 116–92 added pars. (3) to (5).

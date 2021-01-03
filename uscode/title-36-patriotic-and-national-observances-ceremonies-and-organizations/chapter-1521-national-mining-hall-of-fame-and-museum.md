@@ -224,4 +224,4 @@ The corporation shall submit an annual report to Congress on the activities of t
 | 152112 | 36:4111. | Nov. 14, 1988, Pub. L. 100–655, § 112, 102 Stat. 3851. |
 
 #### Termination of Reporting Requirements
-For termination, effective May 15, 2000, of reporting provisions in this section, see section 3003 of Pub. L. 104–66, as amended, set out as a note under [section 1113 of Title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1113&num=0&edition=prelim), Money and Finance, and page 204 of House Document No. 103–7.
+For termination, effective May 15, 2000, of reporting provisions in this section, see section 3003 of Pub. L. 104–66, set out as a note under [section 1113 of Title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1113&num=0&edition=prelim), Money and Finance, and page 204 of House Document No. 103–7.

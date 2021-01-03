@@ -44,15 +44,6 @@ This chapter may be cited as the “Federal Credit Union Act”.
 #### Amendments
 1959—Pub. L. 86–354 reenacted section without change.
 
-#### Transfer of Functions
-Secretary and Department of Health, Education, and Welfare redesignated Secretary and Department of Health and Human Services by [section 3508 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section3508&num=0&edition=prelim), Education.
-
-Transfer of functions of Farm Credit Administration and Governor thereof to Bureau of Farm Credit Unions and Director thereof under jurisdiction of Federal Security Agency by act June 29, 1948, ch. 711, §§ 1, 2, 62 Stat. 1091, and abolishment of Agency and transfer of its functions to Department of Health, Education, and Welfare by Reorg. Plan No. 1 of 1953, § 5, eff. Apr. 11, 1953, 18 F.R. 2053, 67 Stat. 632, see [section 1752a of this title](./chapter-014-federal-credit-unions.md#section-1752a), and notes thereunder.
-
-Functions of Farm Credit Administration and Governor thereof under this chapter, together with functions of Secretary of Agriculture with respect thereto, transferred to Federal Deposit Insurance Corporation by Reorg. Plan No. 1 of 1947, § 401, eff. July 1, 1947, 12 F.R. 4534, 61 Stat. 952, set out in the Appendix to Title 5, Government Organization and Employees. A similar transfer of functions for duration of World War II was effected by Ex. Ord. No. 9148, Apr. 27, 1942, 7 F.R. 3145.
-
-Farm Credit Administration transferred to Department of Agriculture by Reorg. Plan No. I of 1939, § 401, eff. July 1, 1939, 4 F.R. 2730, 53 Stat. 1429, set out in the Appendix to Title 5.
-
 #### Short Title of 2014 Amendment
 Pub. L. 113–252, § 1, Dec. 18, 2014, 128 Stat. 2893, provided that: “This Act [amending [section 1787 of this title](./chapter-014-federal-credit-unions.md#section-1787)] may be cited as the ‘Credit Union Share Insurance Fund Parity Act’.”
 
@@ -67,6 +58,16 @@ Pub. L. 95–630, title XVIII, § 1801, Nov. 10, 1978, 92 Stat. 3719, provided t
 
 #### Congressional Findings
 Pub. L. 105–219, § 2, Aug. 7, 1998, 112 Stat. 913, provided that: “The Congress finds the following: “(1) The American credit union movement began as a cooperative effort to serve the productive and provident credit needs of individuals of modest means. “(2) Credit unions continue to fulfill this public purpose, and current members and membership groups should not face divestiture from the financial services institution of their choice as a result of recent court action. “(3) To promote thrift and credit extension, a meaningful affinity and bond among members, manifested by a commonality of routine interaction, shared and related work experiences, interests, or activities, or the maintenance of an otherwise well-understood sense of cohesion or identity is essential to the fulfillment of the public mission of credit unions. “(4) Credit unions, unlike many other participants in the financial services market, are exempt from Federal and most State taxes because they are member-owned, democratically operated, not-for-profit organizations generally managed by volunteer boards of directors and because they have the specified mission of meeting the credit and savings needs of consumers, especially persons of modest means. “(5) Improved credit union safety and soundness provisions will enhance the public benefit that citizens receive from these cooperative financial services institutions.”
+
+#### Transfer of Functions
+Secretary and Department of Health, Education, and Welfare redesignated Secretary and Department of Health and Human Services by [section 3508 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section3508&num=0&edition=prelim), Education.
+
+#### Transfer of Functions
+Transfer of functions of Farm Credit Administration and Governor thereof to Bureau of Farm Credit Unions and Director thereof under jurisdiction of Federal Security Agency by act June 29, 1948, ch. 711, §§ 1, 2, 62 Stat. 1091, and abolishment of Agency and transfer of its functions to Department of Health, Education, and Welfare by Reorg. Plan No. 1 of 1953, § 5, eff. Apr. 11, 1953, 18 F.R. 2053, 67 Stat. 632, see [section 1752a of this title](./chapter-014-federal-credit-unions.md#section-1752a), and notes thereunder.
+
+Functions of Farm Credit Administration and Governor thereof under this chapter, together with functions of Secretary of Agriculture with respect thereto, transferred to Federal Deposit Insurance Corporation by Reorg. Plan No. 1 of 1947, § 401, eff. July 1, 1947, 12 F.R. 4534, 61 Stat. 952, set out in the Appendix to Title 5, Government Organization and Employees. A similar transfer of functions for duration of World War II was effected by Ex. Ord. No. 9148, Apr. 27, 1942, 7 F.R. 3145.
+
+Farm Credit Administration transferred to Department of Agriculture by Reorg. Plan No. I of 1939, § 401, eff. July 1, 1939, 4 F.R. 2730, 53 Stat. 1429, set out in the Appendix to Title 5.
 
 
 <a id="section-1752a"></a>
@@ -394,6 +395,7 @@ Functions of Governor of Farm Credit Administration under this section transferr
 
 ### Statutory Notes
 
+#### Editorial Notes
 Section, act July 22, 1942, ch. 516, 56 Stat. 700, which authorized reimbursement of Farm Credit Administration personnel for use of private automobiles for examining, supervising, and servicing Federal credit unions, was from the Department of Agriculture Appropriation Act, 1943, and was not repeated in subsequent appropriation acts. Similar provisions were contained in act July 1, 1941, ch. 267, 55 Stat. 444, the Department of Agriculture Appropriation Act, 1942.
 
 
@@ -1549,7 +1551,7 @@ Any District of Columbia credit union converting into a Federal credit union in 
 #### References in Text
 The Federal Credit Union Act, referred to in text, is act June 26, 1934, ch. 750, 48 Stat. 1216, which is classified generally to this chapter. For complete classification of this Act to the Code, see [section 1751 of this title](./chapter-014-federal-credit-unions.md#section-1751) and Tables.
 
-The District of Columbia Credit Unions Act, referred to in par. (2), was act June 23, 1932, ch. 272, 47 Stat. 326, and was, was repealed by Pub. L. 88–395, § 4, Aug. 1, 1964, 78 Stat. 377.
+The District of Columbia Credit Unions Act, referred to in par. (2), was act June 23, 1932, ch. 272, 47 Stat. 326, and was repealed by Pub. L. 88–395, § 4, Aug. 1, 1964, 78 Stat. 377.
 
 #### Codification
 Section was not enacted as part of the Federal Credit Union Act which comprises this chapter.
@@ -4947,7 +4949,7 @@ For short title of title XVIII of Pub. L. 95–630, Nov. 10, 1978, 92 Stat. 3719
 
 As used in this subchapter, the term—
 
-(1) “liquidity needs” means the needs of credit unions primarily serving natural persons for—
+(1) “liquidity needs” means the needs of credit unions for—
 
   (A) short-term adjustment credit available to assist in meeting temporary requirements for funds or to cushion more persist­ent outflows of funds pending an orderly adjustment of credit union assets and liabilities;
 
@@ -4963,11 +4965,21 @@ As used in this subchapter, the term—
 
 ### Statutory Notes
 
+#### Amendment of Paragraph (1)
+Pub. L. 116–136, div. A, title IV, § 4016(b)(1)(A), (2), Mar. 27, 2020, 134 Stat. 482, as amended by Pub. L. 116–260, div. N, title V, § 540(a)(2), Dec. 27, 2020, 134 Stat. 2090, effective Dec. 31, 2021, inserted “primarily serving natural persons” after “credit unions” in introductory provisions of paragraph (1) of this section. See 2020 Amendment note below.
+
 #### Codification
 Section 309(b)(1) of Pub. L. 96–221 redesignated subch. III as title III of act June 26, 1934, ch. 750, cited as a credit to this section.
 
 #### Amendments
+2020—Par. (1). Pub. L. 116–136, § 4016(b)(1)(A), inserted “primarily serving natural persons” after “credit unions” in introductory provisions.
+
+Pub. L. 116–136, § 4016(a)(1), struck out “primarily serving natural persons” after “credit unions” in introductory provisions.
+
 1980—Pub. L. 96–221, § 309(b)(2), substituted “title” for “subchapter”, which for purposes of codification has been editorially translated as “subchapter”, thereby requiring no further change in text.
+
+#### Effective Date of 2020 Amendment
+Pub. L. 116–136, div. A, title IV, § 4016(b)(2), Mar. 27, 2020, 134 Stat. 482, as amended by Pub. L. 116–260, div. N, title V, § 540(a)(2), Dec. 27, 2020, 134 Stat. 2090, provided that: “The amendments made by paragraph (1) [amending this section and sections 1795c and 1795e of this title] shall take effect on December 31, 2021.”
 
 #### Effective Date
 Section effective Oct. 1, 1979, see section 1806 of Pub. L. 95–630, set out as a note under [section 1795 of this title](./chapter-014-federal-credit-unions.md#section-1795).
@@ -5008,7 +5020,7 @@ Section effective Oct. 1, 1979, see section 1806 of Pub. L. 95–630, set out as
 
 (1) obtaining the approval of the Board;
 
-(2) subscribing to the capital stock of the Facility in an amount not less than one-half of 1 per centum of the paid-in and unimpaired capital and surplus of all those credit unions which primarily serve natural persons, which are members of such credit union or of any credit union comprising such credit union group, and which are not regular members;
+(2) subscribing to the capital stock of the Facility in an amount not less than one-half of 1 per centum of the paid-in and unimpaired capital and surplus of such credit unions as the Board may in its discretion determine which primarily serve natural persons, which are members of such credit union or of any credit union comprising such credit union group, and which are not regular members;
 
 (3) agreeing to comply with rules and regulations the Board shall prescribe with respect to, but not limited to, management quality, asset and liability safety and soundness, internal operating and control practices and procedures, and participation of natural persons in the affairs of such credit union or credit union group; and
 
@@ -5032,10 +5044,17 @@ Section effective Oct. 1, 1979, see section 1806 of Pub. L. 95–630, set out as
 
 ### Statutory Notes
 
+#### Amendment of Subsection (b)(2)
+Pub. L. 116–136, div. A, title IV, § 4016(b)(1)(B), (2), Mar. 27, 2020, 134 Stat. 482, as amended by Pub. L. 116–260, div. N, title V, § 540(a)(2), Dec. 27, 2020, 134 Stat. 2090, provided that, effective Dec. 31, 2021, subsection (b)(2) of this section is amended by striking “such credit unions as the Board may in its discretion determine” and inserting “all those credit unions”. See 2020 Amendment note below.
+
 #### Codification
 Section 309(b)(1) of Pub. L. 96–221 redesignated subch. III as title III of act June 26, 1934, ch. 750, cited as a credit to this section.
 
 #### Amendments
+2020—Subsec. (b)(2). Pub. L. 116–136, § 4016(b)(1)(B), substituted “all those credit unions” for “such credit unions as the Board may in its discretion determine”.
+
+Pub. L. 116–136, § 4016(a)(2), substituted “such credit unions as the Board may in its discretion determine” for “all those credit unions”.
+
 2006—Subsec. (b)(3). Pub. L. 109–351 substituted “the affairs of such credit union” for “the affairs or such credit union”.
 
 1980—Subsecs. (b), (c). Pub. L. 96–221, § 309(a)(4), substituted “Board” for “Administrator” wherever appearing, such change having been made previously by Pub. L. 95–630.
@@ -5043,6 +5062,9 @@ Section 309(b)(1) of Pub. L. 96–221 redesignated subch. III as title III of ac
 Subsecs. (d), (e). Pub. L. 96–221, § 309(a)(4), (b)(2), substituted “Board” for “Administrator” wherever appearing, such change having been made previously by Pub. L. 95–630, and “title” for “subchapter” wherever appearing, which for purposes of codification has been editorially translated as “subchapter”, thereby requiring no further change in text.
 
 1978—Pub. L. 95–630, § 502(b), substituted “Board” for “Administrator” wherever appearing.
+
+#### Effective Date of 2020 Amendment
+Amendment by section 4016(b)(1)(B) of Pub. L. 116–136, effective Dec. 31, 2021, see section 4016(b)(2) of Pub. L. 116–136, as amended,set out as a note under [section 1795a of this title](./chapter-014-federal-credit-unions.md#section-1795a).
 
 #### Effective Date of 1978 Amendment
 Amendment effective on expiration of 120 days after Nov. 10, 1978, and transitional provisions, see section 509 of Pub. L. 95–630 set out as a note under [section 1752 of this title](./chapter-014-federal-credit-unions.md#section-1752).
@@ -5096,7 +5118,7 @@ Section effective Oct. 1, 1979, see section 1806 of Pub. L. 95–630, set out as
 ## § 1795g. Extensions of credit
 **(a)**
 
-(1) A member may apply for an extension of credit from the Facility to meet its liquidity needs. The Board shall approve or deny any such application within five working days after receiving it. The Board shall not approve an application for credit the intent of which is to expand credit union portfolios.
+(1) A member may apply for an extension of credit from the Facility to meet its liquidity needs. The Board shall approve or deny any such application within five working days after receiving it. The Board shall not approve an application for credit without first having obtained evidence from the applicant that the applicant has made reasonable efforts to first use primary sources of liquidity of the applicant, including balance sheet and market funding sources, to address the liquidity needs of the applicant.
 
 (2) The Board may advance funds to a member on terms and conditions prescribed by the Board after giving due consideration to creditworthiness.
 
@@ -5106,13 +5128,23 @@ Section effective Oct. 1, 1979, see section 1806 of Pub. L. 95–630, set out as
 
 ### Statutory Notes
 
+#### Amendment of Subsection (a)(1)
+Pub. L. 116–136, div. A, title IV, § 4016(b)(1)(C), (2), Mar. 27, 2020, 134 Stat. 482, as amended by Pub. L. 116–260, div. N, title V, § 540(a)(2), Dec. 27, 2020, 134 Stat. 2090, provided that, effective Dec. 31, 2021, subsection (a)(1) of this section is amended, in the second sentence, by striking “without first having obtained evidence from the applicant that the applicant has made reasonable efforts to first use primary sources of liquidity of the applicant, including balance sheet and market funding sources, to address the liquidity needs of the applicant” and inserting “the intent of which is to expand credit union portfolios”. See 2020 Amendment note below.
+
 #### Codification
 Section 309(b)(1) of Pub. L. 96–221 redesignated subch. III as title III of act June 26, 1934, ch. 750, cited as a credit to this section.
 
 #### Amendments
+2020—Subsec. (a)(1). Pub. L. 116–136, § 4016(b)(1)(C), which directed substitution of “the intent of which is to expand credit union portfolios” for “without first having obtained evidence from the applicant that the applicant has made reasonable efforts to first use primary sources of liquidity of the applicant, including balance sheet and market funding sources, to address the liquidity needs of the applicant” in the second sentence, was executed by making the substitution in the third sentence, to reflect the probable intent of Congress.
+
+Pub. L. 116–136, § 4016(a)(3), which directed substitution of “without first having obtained evidence from the applicant that the applicant has made reasonable efforts to first use primary sources of liquidity of the applicant, including balance sheet and market funding sources, to address the liquidity needs of the applicant” for “the intent of which is to expand credit union portfolios” in the second sentence, was executed by making the substitution in the third sentence, to reflect the probable intent of Congress.
+
 1980—Subsecs. (a), (b). Pub. L. 96–221, § 309(a)(4), substituted “Board” for “Administrator” wherever appearing, such change having been previously made by Pub. L. 95–630.
 
 1978—Pub. L. 95–630, § 502(b), substituted “Board” for “Administrator” wherever appearing.
+
+#### Effective Date of 2020 Amendment
+Amendment by section 4016(b)(1)(C) of Pub. L. 116–136, effective Dec. 31, 2020, see section 4016(b)(2) of Pub. L. 116–136, as amended, set out as a note under [section 1795a of this title](./chapter-014-federal-credit-unions.md#section-1795a).
 
 #### Effective Date of 1978 Amendment
 Amendment effective on expiration of 120 days after Nov. 10, 1978, and transitional provisions, see section 509 of Pub. L. 95–630, set out as a note under [section 1752 of this title](./chapter-014-federal-credit-unions.md#section-1752).
@@ -5133,7 +5165,7 @@ Section effective Oct. 1, 1979, see section 1806 of Pub. L. 95–630, set out as
 
 (4) borrow from—
 
-  (A) any source, provided that the total face value of these obligations shall not exceed twelve times the subscribed capital stock and surplus of the Facility; and
+  (A) any source, provided that the total face value of these obligations shall not exceed twelve times the subscribed capital stock and surplus of the Facility, provided that, the total face value of such obligations shall not exceed 16 times the subscribed capital stock and surplus of the Facility for the period beginning on March 27, 2020, and ending on December 31, 2021; and
 
   (B) the National Credit Union Share Insurance Fund up to $500,000 to defray initial organizational and operating expenses of the Facility at such rates and terms consistent with prevailing market conditions;
 
@@ -5179,6 +5211,10 @@ Section effective Oct. 1, 1979, see section 1806 of Pub. L. 95–630, set out as
 Section 309(b)(1) of Pub. L. 96–221 redesignated subch. III as title III of act June 26, 1934, ch. 750, cited as a credit to this section.
 
 #### Amendments
+2020—Subsec. (a)(4)(A). Pub. L. 116–260 substituted “December 31, 2021” for “December 31, 2020”.
+
+Pub. L. 116–136 inserted before semicolon “, provided that, the total face value of such obligations shall not exceed 16 times the subscribed capital stock and surplus of the Facility for the period beginning on March 27, 2020, and ending on December 31, 2020”.
+
 1982—Subsec. (a)(17), (18). Pub. L. 97–320 added pars. (17) and (18).
 
 1980—Pub. L. 96–221, §§ 309(a)(3), (4), (b)(2), (3), 312, designated existing provisions as subsec. (a) substituted “Board” for “Administrator”, such change having been made previously by Pub. L. 95–630, and “title” and “titles” for “subchapter” and “subchapters”, which for purposes of codification has been editorially translated as “subchapter” or “subchapters” thereby requiring no further change in text, in par. (15) struck out requirement respecting advance appropriation of amounts, and added subsec. (b).

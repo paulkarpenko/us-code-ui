@@ -140,7 +140,7 @@ Members retired prior to June 1, 1958, authorized to include active service perf
 
 <a id="section-9362"></a>
 ## § 9362. Recomputation of retired pay to reflect advancement on retired list
-**(a) Entitlement to Recomputation.—** An enlisted member or warrant officer of the Air Force who is advanced on the retired list under [section 9344 of this title](./chapter-943-retired-grade.md#section-9344) is entitled to recompute his retired pay in accordance with this section.
+**(a) Entitlement to Recomputation.—** An enlisted member or warrant officer of the Air Force or the Space Force who is advanced on the retired list under [section 9344 of this title](./chapter-943-retired-grade.md#section-9344) is entitled to recompute his retired pay in accordance with this section.
 
 **(b) Formula.—** The monthly retired pay of a member entitled to recompute that pay under this section is computed by multiplying—
 
@@ -168,6 +168,8 @@ This amends 10:8992 to correct an inadvertent error in the codification of title
 A prior section 9362 was renumbered [section 9462 of this title](./chapter-953-united-states-air-force-academy.md#section-9462).
 
 #### Amendments
+2021—Subsec. (a). Pub. L. 116–283 inserted “or the Space Force” after “Air Force”.
+
 2018—Pub. L. 115–232, § 806(b)(15), renumbered [section 8992 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section8992&num=0&edition=prelim) as this section.
 
 Subsec. (a). Pub. L. 115–232, § 809(a), substituted “section 9344” for “section 8964”.

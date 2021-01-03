@@ -99,9 +99,11 @@ In this title the following definitions shall apply:
 
       (II) payments to victims of war crimes or crimes against humanity on account of their status as victims of such crimes;
 
-      (III) payments to victims of international terrorism or domestic terrorism, as those terms are defined in [section 2331 of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section2331&num=0&edition=prelim), on account of their status as victims of such terrorism; and
+      (III) payments to victims of international terrorism or domestic terrorism, as those terms are defined in [section 2331 of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section2331&num=0&edition=prelim), on account of their status as victims of such terrorism;
 
-      (IV) any monthly compensation, pension, pay, annuity, or allowance paid under title 10, 37, or 38 in connection with a disability, combat-related injury or disability, or death of a member of the uniformed services, except that any retired pay excluded under this subclause shall include retired pay paid under chapter 61 of title 10 only to the extent that such retired pay exceeds the amount of retired pay to which the debtor would otherwise be entitled if retired under any provision of title 10 other than chapter 61 of that title.
+      (IV) any monthly compensation, pension, pay, annuity, or allowance paid under title 10, 37, or 38 in connection with a disability, combat-related injury or disability, or death of a member of the uniformed services, except that any retired pay excluded under this subclause shall include retired pay paid under chapter 61 of title 10 only to the extent that such retired pay exceeds the amount of retired pay to which the debtor would otherwise be entitled if retired under any provision of title 10 other than chapter 61 of that title; and
+
+      (V) Payments made under Federal law relating to the national emergency declared by the President under the National Emergencies Act ([50 U.S.C. 1601](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1601&num=0&edition=prelim) et seq.) with respect to the coronavirus disease 2019 (COVID–19).
 
 (11) The term “custodian” means—
 
@@ -586,11 +588,7 @@ In this title the following definitions shall apply:
 
     (ii) any debtor that is a corporation subject to the reporting requirements under section 13 or 15(d) of the Securities Exchange Act of 1934 ([15 U.S.C. 78m](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section78m&num=0&edition=prelim), 78o(d)); or
 
-    (iii) any corporation that—
-
-      (I) is subject to the reporting requirements under section 13 or 15(d) of the Securities Exchange Act of 1934 ([15 U.S.C. 78m](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section78m&num=0&edition=prelim), 78o(d)); and
-
-      (II) is an affiliate of a debtor.
+    (iii) any debtor that is an affiliate of an issuer (as defined in section 3 of the Securities Exchange Act of 1934 ([15 U.S.C. 78c](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section78c&num=0&edition=prelim))).
 
 (52) The term “State” includes the District of Columbia and Puerto Rico, except for the purpose of defining who may be a debtor under chapter 9 of this title.
 
@@ -673,6 +671,9 @@ In this title the following definitions shall apply:
 (55) The term “United States”, when used in a geographical sense, includes all locations where the judicial jurisdiction of the United States extends, including territories and possessions of the United States.
 
 ### Statutory Notes
+
+#### Amendment of Paragraph (10A)(B)(ii)(V)
+Pub. L. 116–136, div. A, title I, § 1113(b)(2)(A)(i), (B), Mar. 27, 2020, 134 Stat. 311, 312, provided that effective 1 year after Mar. 27, 2020, paragraph (10A)(B)(ii)(V) of this section is amended by striking subclause (V). See 2020 Amendment note below.
 
 #### legislative statements
 Section 101(2) defines “affiliate.” The House amendment contains a provision that is a compromise between the definition in the House-passed version of H.R. 8200 and the Senate amendment in the nature of a substitute to H.R. 8200. Subparagraphs (A) and (B) are derived from the Senate amendment and subparagraph (D) is taken from the House bill, while subparagraph (C) represents a compromise, taking the House position with respect to a person whose business is operated under a lease or an operating agreement by the debtor and with respect to a person substantially all of whose property is operated under an operating agreement by the debtor and with respect to a person substantially all of whose property is operated under an operating agreement by the debtor and the Senate position on leased property. Thus, the definition of “affiliate” excludes persons substantially all of whose property is operated under a lease agreement by a debtor, such as a small company which owns equipment all of which is leased to a larger nonrelated company.
@@ -795,6 +796,8 @@ Paragraph (40) defines “transfer.” It is derived and adapted, with stylistic
 #### References in Text
 The Social Security Act, referred to in par. (10A)(B)(ii)(I), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, which is classified generally to chapter 7 (§ 301 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see [section 1305 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1305&num=0&edition=prelim) and Tables.
 
+The National Emergencies Act, referred to in par. (10A)(B)(ii)(V), is Pub. L. 94–412, Sept. 14, 1976, 90 Stat. 1255, which is classified principally to chapter 34 (§ 1601 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under [section 1601 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1601&num=0&edition=prelim) and Tables.
+
 The Internal Revenue Code of 1986, referred to in pars. (12A)(B) and (41)(C), is classified generally to Title 26, Internal Revenue Code.
 
 Section 3 of the Federal Deposit Insurance Act, referred to in pars. (12A)(D), (21B)(A), (33)(A), (35)(A), and (54A), is classified to [section 1813 of Title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1813&num=0&edition=prelim), Banks and Banking.
@@ -815,8 +818,23 @@ The Legal Certainty for Bank Products Act of 2000, referred to in par. (53B)(B),
 
 The Commodity Exchange Act, referred to in par. (53B)(B), is act Sept. 21, 1922, ch. 369, 42 Stat. 998, which is classified generally to chapter 1 (§ 1 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see [section 1 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1&num=0&edition=prelim) and Tables.
 
+#### Codification
+Pub. L. 116–52, effective Aug. 23, 2019, and Pub. L. 116–92, effective Dec. 20, 2019, made similar amendments, striking out subpar. (B) of par. (10A) and enacting almost identical subpars. (B). The text of par. (10A)(B) is based on the text enacted by Pub. L. 116–52.
+
 #### Amendments
-2019—Par. (10A)(B). Pub. L. 116–52 added subpar. (B) and struck out former subpar. (B) which read as follows: “includes any amount paid by any entity other than the debtor (or in a joint case the debtor and the debtor’s spouse), on a regular basis for the household expenses of the debtor or the debtor’s dependents (and in a joint case the debtor’s spouse if not otherwise a dependent), but excludes benefits received under the Social Security Act, payments to victims of war crimes or crimes against humanity on account of their status as victims of such crimes, and payments to victims of international terrorism (as defined in [section 2331 of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section2331&num=0&edition=prelim)) or domestic terrorism (as defined in [section 2331 of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section2331&num=0&edition=prelim)) on account of their status as victims of such terrorism.”
+2020—Par. (10A)(B)(ii)(V). Pub. L. 116–136, § 1113(b)(2)(A)(i), struck out subcl. (V) which read as follows: “Payments made under Federal law relating to the national emergency declared by the President under the National Emergencies Act ([50 U.S.C. 1601](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1601&num=0&edition=prelim) et seq.) with respect to the coronavirus disease 2019 (COVID–19).”
+
+Pub. L. 116–136, § 1113(b)(1)(A), added subcl. (V).
+
+Par. (51D)(B)(iii). Pub. L. 116–136, § 1113(a)(4)(A), amended cl. (iii) generally. Prior to amendment, cl. (iii) read as follows: “any corporation that—
+
+“(I) is subject to the reporting requirements under section 13 or 15(d) of the Securities Exchange Act of 1934 ([15 U.S.C. 78m](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section78m&num=0&edition=prelim), 78o(d)); and
+
+“(II) is an affiliate of a debtor.”
+
+2019—Par. (10A)(B). Pub. L. 116–92 added subpar. (B) almost identical to that added by Pub. L. 116–52 and struck out former subpar. (B). See Codification note above.
+
+Pub. L. 116–52 added subpar. (B) and struck out former subpar. (B) which read as follows: “includes any amount paid by any entity other than the debtor (or in a joint case the debtor and the debtor’s spouse), on a regular basis for the household expenses of the debtor or the debtor’s dependents (and in a joint case the debtor’s spouse if not otherwise a dependent), but excludes benefits received under the Social Security Act, payments to victims of war crimes or crimes against humanity on account of their status as victims of such crimes, and payments to victims of international terrorism (as defined in [section 2331 of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section2331&num=0&edition=prelim)) or domestic terrorism (as defined in [section 2331 of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section2331&num=0&edition=prelim)) on account of their status as victims of such terrorism.” See Codification note above.
 
 Par. (18). Pub. L. 116–51 substituted “$10,000,000” for “$3,237,000” in two places.
 
@@ -1286,6 +1304,11 @@ Pars. (37) to (39). Pub. L. 97–222, § 1(a)(1), redesignated pars. (36) to (38
 
 Pars. (40), (41). Pub. L. 97–222, § 1(a)(1), (d), redesignated former par. (39) as (40) and restructured its provisions by dividing the former introductory provisions into subpars. (A) and (B) and by redesignating former subpars. (A) and (B) as cls. (i) and (ii), respectively, of subpar. (B). Former par. (40) redesignated (41).
 
+#### Effective Date of 2020 Amendment
+Pub. L. 116–136, div. A, title I, § 1113(b)(1)(D)(i), Mar. 27, 2020, 134 Stat. 312, provided that: “The amendments made by subparagraphs (A) and (B) [amending this section and [section 1325 of this title](./chapter-013-adjustment-of-debts-of-an-individual-with-regular-income.md#section-1325)] shall apply to any case commenced before, on, or after the date of enactment of this Act [Mar. 27, 2020].”
+
+Pub. L. 116–136, div. A, title I, § 1113(b)(2)(B), Mar. 27, 2020, 134 Stat. 312, provided that: “The amendments made by subparagraph (A) [amending this section and sections 1325 and 1329 of this title] shall take effect on the date that is 1 year after the date of enactment of this Act [Mar. 27, 2020].”
+
 #### Effective Date of 2019 Amendment
 Pub. L. 116–54, § 5, Aug. 23, 2019, 133 Stat. 1087, provided that: “This Act [see Short Title of 2019 Amendment note set out under this section] and the amendments made by this Act shall take effect 180 days after the date of enactment of this Act [Aug. 23, 2019].”
 
@@ -1500,7 +1523,7 @@ Amendment by Pub. L. 98–353 effective with respect to cases filed 90 days afte
 
 **(h)** Subchapter IV of chapter 11 of this title applies only in a case under such chapter concerning a railroad.
 
-**(i)** Subchapter V of chapter 11 of this title applies only in a case under chapter 11 in which a small business debtor elects that subchapter V of chapter 11 shall apply.
+**(i)** Subchapter V of chapter 11 of this title applies only in a case under chapter 11 in which a debtor (as defined in section 1182) elects that subchapter V of chapter 11 shall apply.
 
 **(j)** Chapter 13 of this title applies only in a case under such chapter.
 
@@ -1523,6 +1546,8 @@ Section 25A of the Federal Reserve Act, referred to in subsec. (e), popularly kn
 Section 409 of the Federal Deposit Insurance Corporation Improvement Act of 1991, referred to in subsec. (e), was classified to [section 4422 of Title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section4422&num=0&edition=prelim), Banks and Banking, prior to repeal by Pub. L. 111–203, title VII, § 740, July 21, 2010, 124 Stat. 1729.
 
 #### Amendments
+2020—Subsec. (i). Pub. L. 116–136 substituted “debtor (as defined in section 1182)” for “small business debtor”.
+
 2019—Subsecs. (i) to (l). Pub. L. 116–54 added subsec. (i) and redesignated former subsecs. (i) to (k) as (j) to (l), respectively.
 
 2010—Subsec. (a). Pub. L. 111–327 substituted “362(o)” for “362(n)”.

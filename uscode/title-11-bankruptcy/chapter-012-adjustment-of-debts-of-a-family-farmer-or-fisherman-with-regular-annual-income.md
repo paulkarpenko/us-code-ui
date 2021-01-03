@@ -512,15 +512,31 @@ Permanent reenactment of section effective July 1, 2005, see section 1001(a)(2) 
 
 ### Statutory Notes
 
+#### Amendment of Section and Termination of Amendment
+Pub. L. 116–260, div. N, title III, § 320(d), (f)(1), Dec. 27, 2020, 134 Stat. 2016, provided that, effective on the date on which the Administrator of the Small Business Administration submits to the Director of the Executive Office for United States Trustees a written determination that, subject to satisfying any other eligibility requirements, any debtor in possession or trustee that is authorized to operate the business of the debtor under section 1183, 1184, 1203, 1204, or 1304 of this title would be eligible for a loan under paragraphs (36) and (37) of [section 636(a) of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section636/a&num=0&edition=prelim), Commerce and Trade, and applicable to any case pending on or commenced on or after such effective date, this section is amended by adding at the end the following:
+
+(d) Notwithstanding [section 1222(a)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title11-section1222/a/2&num=0&edition=prelim) and subsection (b)(1) of this section, a plan that provides for payment of a claim of a kind specified in [section 503(b)(10) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title11-section503/b/10&num=0&edition=prelim) may be confirmed if the plan proposes to make payments on account of such claim when due under the terms of the loan giving rise to such claim.
+
+Pub. L. 116–260, div. N, title III, § 320(f)(2), Dec. 27, 2020, 134 Stat. 2016, provided that, if the amendment made to this section by Pub. L. 116–260, § 320(d), takes effect, effective on the date that is 2 years after Dec. 27, 2020, with provisions relating to applicability to cases commenced before such date, this section is amended by striking subsection (d).
+
+See 2020 Amendment notes below.
+
 #### Codification
 For repeal of section effective Oct. 1, 1998, and subsequent reenactment of section, see note set out preceding [section 1201 of this title](./chapter-012-adjustment-of-debts-of-a-family-farmer-or-fisherman-with-regular-annual-income.md#section-1201).
 
 #### Amendments
+2020—Subsec. (d). Pub. L. 116–260, § 320(f)(2)(A)(iv), contingent on its addition by Pub. L. 116–260, § 320(d), struck out subsec. (d) which read as follows: “Notwithstanding [section 1222(a)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title11-section1222/a/2&num=0&edition=prelim) and subsection (b)(1) of this section, a plan that provides for payment of a claim of a kind specified in [section 503(b)(10) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title11-section503/b/10&num=0&edition=prelim) may be confirmed if the plan proposes to make payments on account of such claim when due under the terms of the loan giving rise to such claim.”
+
+Pub. L. 116–260, § 320(d), added subsec. (d).
+
 2005—Subsec. (a)(7). Pub. L. 109–8, § 213(5), added par. (7).
 
 Subsec. (b)(1)(C). Pub. L. 109–8, § 1006(a), added subpar. (C).
 
 Subsec. (b)(2)(A). Pub. L. 109–8, § 218, inserted “or for a domestic support obligation that first becomes payable after the date of the filing of the petition” after “dependent of the debtor”.
+
+#### Effective and Termination Dates of 2020 Amendment
+Amendment by section 320(d) of div. N of Pub. L. 116–260 effective on the date on which the Administrator of the Small Business Administration submits to the Director of the Executive Office for United States Trustees a written determination relating to loan eligibility under pars. (36) and (37) of [section 636(a) of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section636/a&num=0&edition=prelim), Commerce and Trade, and applicable to any case pending on or commenced on or after such date, and amendment by section 320(f)(2)(A)(iv) of div. N of Pub. L. 116–260, relating to repeal of such amendment if it became effective, effective two years after Dec. 27, 2020, see section 320(f) of Pub. L. 116–260, set out as a note under [section 364 of this title](./chapter-003-case-administration.md#section-364).
 
 #### Effective Date of 2005 Amendment
 Amendment by sections 213(5), 218, and 1006(a) of Pub. L. 109–8 effective 180 days after Apr. 20, 2005, and not applicable with respect to cases commenced under this title before such effective date, except as otherwise provided, see section 1501 of Pub. L. 109–8, set out as a note under [section 101 of this title](./chapter-001-general-provisions.md#section-101).

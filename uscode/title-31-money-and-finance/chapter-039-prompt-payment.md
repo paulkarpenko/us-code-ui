@@ -30,7 +30,7 @@ source: >-
 
       (I) the agency has actually accepted such property or services before such 7th day; or
 
-      (II) the contract (except in the case of a contract for the procurement of a brand-name commercial item for authorized resale) specifies a longer acceptance period, as determined by the contracting officer to be required to afford the agency a practicable opportunity to inspect and test the property furnished or evaluate the services performed; or
+      (II) the contract (except in the case of a contract for the procurement of a brand-name commercial product for authorized resale) specifies a longer acceptance period, as determined by the contracting officer to be required to afford the agency a practicable opportunity to inspect and test the property furnished or evaluate the services performed; or
 
   (B) on the date of the invoice, if the agency has failed to annotate the invoice with the date of receipt at the time of actual receipt by the place or person designated by the agency to first receive such invoice.
 
@@ -59,9 +59,6 @@ source: >-
 (5) Except as provided in [section 3904 of this title](./chapter-039-prompt-payment.md#section-3904), this chapter does not require an interest penalty on a payment that is not made because of a dispute between the head of an agency and a business concern over the amount of payment or compliance with the contract. A claim related to the dispute, and any interest payable for the period during which the dispute is being resolved, is subject to the laws and regulations governing claims under contracts to provide property or services for the District of Columbia Courts.
 
 ### Statutory Notes
-
-#### Amendment of Subsection (a)(4)(A)(ii)(II)
-Pub. L. 115–232, div. A, title VIII, § 836(g)(3), (h), Aug. 13, 2018, 132 Stat. 1873, 1874, provided that, effective Jan. 1, 2020, subject to a savings provision, subsection (a)(4)(A)(ii)(II) of this section is amended by striking “commercial item” and inserting “commercial product”. See 2018 Amendment note below.
 
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
@@ -244,7 +241,7 @@ Pub. L. 106–398, § 1 [[div. A], title X, § 1010], Oct. 30, 2000, 114 Stat. 1
 
   (A) the date payment is due under the contract for the item of property or service provided; or
 
-  (B) 30 days after a proper invoice for the amount due is received if a specific payment date is not established by contract;
+  (B) except as provided in paragraphs (10) and (11), 30 days after a proper invoice for the amount due is received if a specific payment date is not established by contract;
 
 (2) for the acquisition of meat or a meat food product (as defined in section 2(a)(3) of the Packers and Stockyards Act, 1921 ([7 U.S.C. 182(3)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section182/3&num=0&edition=prelim))), including any edible fresh or frozen poultry meat, any perishable poultry meat food product, fresh eggs, and any perishable egg product, or of fresh or frozen fish (as defined in section 204(3) of the Fish and Seafood Promotion Act of 1986 ([16 U.S.C. 4003(3)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section4003/3&num=0&edition=prelim)), provide a required payment date of not later than 7 days after the meat, meat food product, or fish is delivered; and
 
@@ -280,9 +277,17 @@ Pub. L. 106–398, § 1 [[div. A], title X, § 1010], Oct. 30, 2000, 114 Stat. 1
 
   (C) the number of days available to an agency to make a timely payment of an invoice without incurring an interest penalty shall be reduced by the number of days by which an agency exceeds the requirements of subparagraph (B) of this paragraph;
 
-(8) permit an agency to make payment up to 7 days prior to the required payment date, or earlier as determined by the agency to be necessary on a case-by-case basis; and
+(8) permit an agency to make payment up to 7 days prior to the required payment date, or earlier as determined by the agency to be necessary on a case-by-case basis;
 
-(9) prescribe the methods for computing interest under section 3903(c) 1 of this title.
+(9) prescribe the methods for computing interest under section 3903(c) 1 of this title;
+
+(10) for a prime contractor (as defined in [section 8701(5) of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section8701/5&num=0&edition=prelim)) that is a small business concern (as defined under section 3 of the Small Business Act ([15 U.S.C. 632](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section632&num=0&edition=prelim))), to the fullest extent permitted by law, require that the head of an agency establish an accelerated payment date with a goal of 15 days after a proper invoice for the amount due is received if a specific payment date is not established by contract; and
+
+(11) for a prime contractor (as defined in [section 8701(5) of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section8701/5&num=0&edition=prelim)) that subcontracts with a small business concern (as defined under section 3 of the Small Business Act ([15 U.S.C. 632](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section632&num=0&edition=prelim))), to the fullest extent permitted by law, require that the head of an agency establish an accelerated payment date with a goal of 15 days after a proper invoice for the amount due is received if—
+
+  (A) a specific payment date is not established by contract; and
+
+  (B) such prime contractor agrees to make payments to such subcontractor in accordance with such accelerated payment date, to the maximum extent practicable, without any further consideration from or fees charged to such subcontractor.
 
 **(b)**
 
@@ -327,6 +332,10 @@ The Perishable Agricultural Commodities Act, 1930, referred to in subsec. (a)(3)
 [Section 3903(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section3903/c&num=0&edition=prelim), referred to in subsec. (a)(9), was redesignated section 3903(d) by Pub. L. 106–65, div. A, title X, § 1009(1), Oct. 5, 1999, 113 Stat. 738.
 
 #### Amendments
+2019—Subsec. (a)(1)(B). Pub. L. 116–92, § 873(1), inserted “except as provided in paragraphs (10) and (11),” before “30 days”.
+
+Subsec. (a)(10), (11). Pub. L. 116–92, § 873(2)–(4), added pars. (10) and (11).
+
 1999—Subsecs. (c), (d). Pub. L. 106–65 added subsec. (c) and redesignated former subsec. (c) as (d).
 
 1991—Subsec. (a)(2). Pub. L. 102–190 inserted provisions relating to fresh or frozen fish as defined in [16 U.S.C. 4003(3)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section4003/3&num=0&edition=prelim) and substituted “meat, meat food product, or fish” for “meat or meat food product”.

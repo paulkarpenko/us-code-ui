@@ -274,16 +274,11 @@ The Commission may allow the narrowband spectrum to be used in a flexible manner
 
 
 <a id="section-1424"></a>
-## § 1424. 470–512 MHz public safety spectrum
-**(a) In general** Not later than 9 years after February 22, 2012, the Commission shall—
+## § 1424. Repealed. Pub. L. 116–260, div. FF, title IX, § 902(b)(1), Dec. 27, 2020, 134 Stat. 3206
 
-(1) reallocate the spectrum in the 470–512 MHz band (referred to in this section as the “T-Band spectrum”) currently used by public safety eligibles as identified in section 90.303 of title 47, Code of Federal Regulations; and
+### Statutory Notes
 
-(2) begin a system of competitive bidding under [section 309(j) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title47-section309/j&num=0&edition=prelim) to grant new initial licenses for the use of the spectrum described in paragraph (1).
-
-**(b) Auction proceeds** Proceeds (including deposits and upfront payments from successful bidders) from the competitive bidding system described in subsection (a)(2) shall be available to the Assistant Secretary to make grants in such sums as necessary to cover relocation costs for the relocation of public safety entities from the T-Band spectrum.
-
-**(c) Relocation** Relocation shall be completed not later than 2 years after the date on which the system of competitive bidding described in subsection (a)(2) is completed.
+Section, Pub. L. 112–96, title VI, § 6103, Feb. 22, 2012, 126 Stat. 205, related to 470–512 MHz public safety spectrum.
 
 
 <a id="section-1425"></a>

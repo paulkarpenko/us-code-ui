@@ -24,6 +24,12 @@ In this title:
 
 Title-wide definitions for the terms “Administration” and “Administrator” are added for clarity and convenience.
 
+#### Short Title of 2020 Amendment
+Pub. L. 116–181, § 1, Oct. 21, 2020, 134 Stat. 882, provided that: “This Act [enacting chapter 606 of this title, repealing [section 18388 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section18388&num=0&edition=prelim), The Public Health and Welfare, and enacting provisions set out as a note under [section 60601 of this title](./chapter-606-space-weather.md#section-60601)] may be cited as the ‘Promoting Research and Observations of Space Weather to Improve the Forecasting of Tomorrow Act’ or the ‘PROSWIFT Act’.”
+
+#### Short Title of 2019 Amendment
+Pub. L. 116–94, div. I, title VI, § 601, Dec. 20, 2019, 133 Stat. 3027, provided that: “This title [amending [section 20145 of this title](./chapter-201-national-aeronautics-and-space-program.md#section-20145)] may be cited as the ‘NASA Enhanced Use Leasing Extension Act of 2019’.”
+
 #### Short Title of 2018 Amendment
 Pub. L. 115–403, § 1, Dec. 31, 2018, 132 Stat. 5348, provided that: “This Act [amending [section 20145 of this title](./chapter-201-national-aeronautics-and-space-program.md#section-20145)] may be cited as the ‘NASA Enhanced Use Leasing Extension Act of 2018’.”
 

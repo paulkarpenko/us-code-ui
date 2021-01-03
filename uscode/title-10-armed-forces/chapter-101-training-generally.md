@@ -2,7 +2,7 @@
 title: 10
 chapter: '101'
 heading: TRAINING GENERALLY
-section_count: 19
+section_count: 20
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10&num=0&edition=prelim
 ---
@@ -65,32 +65,60 @@ To be eligible to receive an aeronautical rating as a pilot in the Army or Air F
 
 
 <a id="section-2004"></a>
-## § 2004. Detail of commissioned officers as students at law schools
-**(a)** The Secretary of each military department may, under regulations prescribed by the Secretary of Defense, detail commissioned officers of the armed forces as students at accredited law schools, located in the United States, for a period of training leading to the degree of bachelor of laws or juris doctor. No more than twenty-five officers from each military department may commence such training in any single fiscal year.
+## § 2004. Detail as students at law schools; commissioned officers; certain enlisted members
+**(a)** The Secretary of each military department may, under regulations prescribed by the Secretary of Defense, detail commissioned officers and enlisted members of the armed forces as students at accredited law schools, located in the United States, for a period of training leading to the degree of juris doctor. No more than twenty-five officers and enlisted members from each military department may commence such training in any single fiscal year.
 
-**(b)** To be eligible for detail under subsection (a), an officer must be a citizen of the United States and must—
+**(b)** To be eligible for detail under subsection (a), an officer or enlisted member must be a citizen of the United States and must—
 
-(1) have served on active duty for a period of not less than two years nor more than six years and be in the pay grade O–3 or below as of the time the training is to begin; and
+(1) either—
 
-(2) sign an agreement that unless sooner separated he will—
+  (A) have served on active duty for a period of not less than two years nor more than six years and be an officer in the pay grade O–3 or below as of the time the training is to begin; or
+
+  (B) have served on active duty for a period of not less than four years nor more than eight years and be an enlisted member in the pay grade E–5, E–6, or E–7 as of the time the training is to begin;
+
+(2) in the case of an enlisted member, meet all requirements for acceptance of a commission as a commissioned officer in the armed forces; and
+
+(3) sign an agreement that unless sooner separated he will—
 
   (A) complete the educational course of legal training;
 
-  (B) accept transfer or detail as a judge advocate or law specialist within the department concerned when his legal training is completed; and
+  (B) accept transfer or detail as a judge advocate within the department concerned when his legal training is completed; and
 
   (C) agree to serve on active duty following completion or other termination of training for a period of two years for each year or part thereof of his legal training under subsection (a).
 
-**(c)** Officers detailed for legal training under subsection (a) shall be selected on a competitive basis by the Secretary of the military department concerned, under regulations prescribed by the Secretary of Defense. Any service obligation incurred by an officer under an agreement entered into under subsection (b) shall be in addition to any service obligation incurred by any such officer under any other provision of law or agreement.
+**(c)** Officers and enlisted members detailed for legal training under subsection (a) shall be selected on a competitive basis by the Secretary of the military department concerned, under regulations prescribed by the Secretary of Defense. Any service obligation incurred by an officer or enlisted member under an agreement entered into under subsection (b) shall be in addition to any service obligation incurred by any such officer or enlisted member under any other provision of law or agreement.
 
-**(d)** Expenses incident to the detail of officers under this section shall be paid from any funds appropriated for the military department concerned.
+**(d)** Expenses incident to the detail of officers and enlisted members under this section shall be paid from any funds appropriated for the military department concerned.
 
-**(e)** An officer who, under regulations prescribed by the Secretary of Defense, is dropped from the program of legal training authorized by subsection (a) for deficiency in conduct or studies, or for other reasons, may be required to perform active duty in an appropriate military capacity in accordance with the active duty obligation imposed by regulations issued by the Secretary of Defense, except that in no case shall any such member be required to serve on active duty for any period in excess of one year for each year or part thereof he participated in the program.
+**(e)** An officer or enlisted member who, under regulations prescribed by the Secretary of Defense, is dropped from the program of legal training authorized by subsection (a) for deficiency in conduct or studies, or for other reasons, may be required to perform active duty in an appropriate military capacity in accordance with the active duty obligation imposed by regulations issued by the Secretary of Defense, except that in no case shall any such member be required to serve on active duty for any period in excess of one year for each year or part thereof he participated in the program.
 
-**(f)** No agreement detailing any officer of the armed forces to an accredited law school may be entered into during any period that the President is authorized by law to induct persons into the armed forces involuntarily. Nothing in this subsection shall affect any agreement entered into during any period when the President is not authorized by law to so induct persons into the armed forces.
+**(f)** No agreement detailing any officer or enlisted member of the armed forces to an accredited law school may be entered into during any period that the President is authorized by law to induct persons into the armed forces involuntarily. Nothing in this subsection shall affect any agreement entered into during any period when the President is not authorized by law to so induct persons into the armed forces.
 
 ### Statutory Notes
 
 #### Amendments
+2021—Subsecs. (d), (e). Pub. L. 116–283 substituted “enlisted” for “enlistment”.
+
+2019—Pub. L. 116–92, § 551(b)(1), substituted “Detail as students at law schools; commissioned officers; certain enlisted members” for “Detail of commissioned officers as students at law schools” in section catchline.
+
+Subsec. (a). Pub. L. 116–92, § 551(a)(1), inserted “and enlisted members” after “commissioned officers” and after “twenty-five officers” and struck out “bachelor of laws or” before “juris doctor”.
+
+Subsec. (b). Pub. L. 116–92, § 551(a)(2)(A), inserted “or enlisted member” after “officer” in introductory provisions.
+
+Subsec. (b)(1). Pub. L. 116–92, § 551(a)(2)(B), added par. (1) and struck out former par. (1) which read as follows: “have served on active duty for a period of not less than two years nor more than six years and be in the pay grade O–3 or below as of the time the training is to begin; and”.
+
+Subsec. (b)(2), (3). Pub. L. 116–92, § 551(a)(2)(C), (D), added par. (2) and redesignated former par. (2) as (3).
+
+Subsec. (b)(3)(B). Pub. L. 116–92, § 551(a)(2)(E), struck out “or law specialist” after “judge advocate”.
+
+Subsec. (c). Pub. L. 116–92, § 551(a)(3), inserted “and enlisted members” after “Officers” and, in two places, inserted “or enlisted member” after “officer”.
+
+Subsec. (d). Pub. L. 116–92, § 551(a)(4), inserted “and enlistment members” after “officers”.
+
+Subsec. (e). Pub. L. 116–92, § 551(a)(5), inserted “or enlistment member” after “officer”.
+
+Subsec. (f). Pub. L. 116–92, § 551(a)(6), inserted “or enlisted member” after “officer”.
+
 1990—Pub. L. 101–510 struck out “of the military departments” after “officers” in section catchline.
 
 #### Selection of Officers in Missing Status for Legal Training on a Noncompetitive Basis; Exemption From Numerical Limitations
@@ -629,6 +657,9 @@ Section effective Oct. 1, 1985, see section 1404 of Pub. L. 98–525, set out as
 #### Savings Provision
 For savings provision relating to payment or repayment of any bonus, incentive pay, special pay, or similar pay obligated to be paid before Apr. 1, 2006, under a provision of this section amended by section 687(c) of Pub. L. 109–163, see section 687(f) of Pub. L. 109–163, set out as a note under [section 510 of this title](./chapter-031-enlistments.md#section-510).
 
+#### Information on Institutions of Higher Education Participating in the Department of Defense Tuition Assistance Program
+Pub. L. 116–92, div. A, title V, § 560, Dec. 20, 2019, 133 Stat. 1393, provided that: “(a) List of Participating Institutions.—The Secretary of Defense shall make available, on a publicly accessible website of the Department of Defense, a list that identifies—“(1) each institution of higher education that receives funds under the Department of Defense Tuition Assistance Program; and “(2) the amount of such funds received by the institution. “(b) Annual Updates.—The Secretary of Defense shall update the list described in subsection (a) not less frequently than once annually.”
+
 #### Tuition Payments Contingent Upon Agreement by Officer To Remain in Ready Reserve for At Least Four Years
 Pub. L. 104–61, title VIII, § 8019, Dec. 1, 1995, 109 Stat. 655, provided that: “Funds appropriated for the Department of Defense during the current fiscal year and hereafter shall be available for the payment of not more than 75 percent of the charges of a postsecondary educational institution for the tuition or expenses of an officer in the Ready Reserve of the Army National Guard or Army Reserve for education or training during his off-duty periods, except that no part of the charges may be paid unless the officer agrees to remain a member of the Ready Reserve for at least four years after completion of such training or education.”
 
@@ -833,7 +864,7 @@ Pub. L. 104–106, div. A, title V, § 574, Feb. 10, 1996, 110 Stat. 356, provid
 
 (2) pay, or reimburse the member of a uniformed service for, all or a part of the necessary expenses of the training (without regard to subsections (a) and (b) of [section 3324 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section3324&num=0&edition=prelim)), including among those expenses the necessary costs of the following:
 
-  (A) Travel and per diem instead of subsistence under sections 474 and 475 of title 37 and the Joint Travel Regulations for the Uniformed Services.
+  (A) Travel and per diem instead of subsistence under sections 474 and 475 11 See References in Text note below. of title 37 and the Joint Travel Regulations for the Uniformed Services.
 
   (B) Transportation of immediate family, household goods and personal effects, packing, crating, temporarily storing, draying, and unpacking under sections 476 and 479 of title 37 and the Joint Travel Regulations for the Uniformed Services when the estimated costs of transportation and related services are less than the estimated aggregate per diem payments for the period of training.
 
@@ -848,6 +879,9 @@ Pub. L. 104–106, div. A, title V, § 574, Feb. 10, 1996, 110 Stat. 356, provid
 **(c) Certain Expenses Excluded.—** The expenses of training do not include membership fees except to the extent that the fee is a necessary cost directly related to the training itself or that payment of the fee is a condition precedent to undergoing the training.
 
 ### Statutory Notes
+
+#### References in Text
+[Section 475 of title 37](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section475&num=0&edition=prelim), referred to in subsec. (b)(2)(A), was renumbered [section 405 of title 37](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section405&num=0&edition=prelim) by Pub. L. 116–283, div. A, title VI, § 604(a)(1), Jan. 1, 2021, 134 Stat. 3672.
 
 #### Amendments
 2014—Subsec. (a)(1). Pub. L. 113–291 substituted “[section 6101 of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section6101&num=0&edition=prelim)” for “section 6101(b)–(d) of title 41”.
@@ -991,6 +1025,12 @@ Subsec. (c)(2). Pub. L. 114–328, § 561(b)(2), added par. (2) and struck out f
 
 2014—Pub. L. 113–291 amended section generally. Prior to amendment, section related to payment of certain expenses to obtain professional credentials.
 
+#### Improvements to the Credentialing Opportunities On-Line Programs of the Armed Forces
+Pub. L. 116–283, div. A, title V, § 578, Jan. 1, 2021, 134 Stat. 3649, provided that: “(a) Study on Performance Measures.—The Secretary of Defense shall conduct a study to determine additional performance measures to evaluate the effectiveness of the Credentialing Opportunities On-Line programs (in this section referred to as the ‘COOL programs’) of each Armed Force in connecting members of the Armed Forces with professional credential programs. The study shall include the following:“(1) The percentage of members of the Armed Force concerned described in [section 1142(a) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1142/a&num=0&edition=prelim), United States Code, who participate in a professional credential program through the COOL program of the Armed Force concerned. “(2) The percentage of members of the Armed Force concerned described in paragraph (1) who have completed a professional credential program described in that paragraph. “(3) The amount of funds obligated and expended to execute the COOL program of each Armed Force during the five fiscal years immediately preceding the date of the study. “(4) Any other element determined by the Secretary of Defense. “(b) Information Tracking.—The Secretary of Defense shall establish a process to standardize the tracking of information regarding the COOL programs across the Armed Forces. “(c) Coordination.—To carry out this section, the Secretary of Defense may coordinate with the Secretaries of Veterans Affairs and Labor. “(d) Report.—Not later than 180 days after the date of the enactment of this Act [Jan. 1, 2021], the Secretary of Defense shall submit to the Committees on Armed Services of the Senate and House of Representatives a report on—“(1) the study conducted under subsection (a); and “(2) the process established under subsection (b), including a timeline to implement such process.”
+
+#### Programs To Facilitate the Award of Private Pilot’s Certificates
+Pub. L. 116–92, div. A, title V, § 560B, Dec. 20, 2019, 133 Stat. 1393, provided that: “(a) Programs Authorized.—Each Secretary of a military department may carry out a program under which qualified participants may obtain a private pilot’s certificate through an institution of higher education with an accredited aviation program that is approved by such Secretary pursuant to subsection (c). “(b) Participant Qualifications and Types of Assistance.—“(1) In general.—In carrying out a program under subsection (a), the Secretary of a military department shall prescribe—“(A) the standards to be met for participation in the program; and “(B) the types of assistance, if any, to be provided to individuals who participate in the program. “(2) Uniformity across military departments.—To the extent practicable, the standards and types of assistance prescribed under paragraph (1) shall be uniform across the military departments. “(c) Approved Institutions of Higher Education.—“(1) In general.—In carrying out a program under subsection (a), the Secretary of a military department shall maintain a list of institutions of higher education (as that term is defined in section 101 of the Higher Education Act of 1965 ([20 U.S.C. 1001](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1001&num=0&edition=prelim))) through which an individual participating in the program may obtain a private pilot’s certificate. “(2) Qualifications and standards.—Any institution of higher education included on a list under paragraph (1), and any course of instruction toward obtaining a private pilot’s certificate offered by such institution, shall meet such qualifications and standards as the Secretary shall prescribe for purposes of the program. Such qualifications and standards shall include a requirement that any institution included on the list award, to individual participating in the program, academic credit at such institution for any portion of course work completed on the ground school course of instruction of such institution in connection with obtaining a private pilot’s certificate, regardless of whether the participant fully completed the ground school course of instruction. “(d) Annual Reports on Programs.—“(1) In general.—Not later than February 28, 2021, and each year thereafter, each Secretary of a military department shall submit to Congress a report on the program, if any, carried out by such Secretary under subsection (a) during the preceding calendar year. “(2) Elements.—Each report under paragraph (1) shall include, for the program and year covered by such report, the following:“(A) The total number of participants in the program. “(B) The number of private pilot’s certificates awarded to participants in the program. “(C) The number of participants in the program who fully completed a ground school course of instruction in connection with obtaining a private pilot’s certificate.”
+
 #### Pilot Program on Earning by Special Operations Forces Medics of Credit Toward a Physician Assistant Degree
 Pub. L. 115–232, div. A, title VII, § 735, Aug. 13, 2018, 132 Stat. 1819, provided that: “(a) In General.—The Assistant Secretary of Defense for Health Affairs may conduct a pilot program to assess the feasibility and advisability of partnerships between special operations forces and institutions of higher education, and health care systems if determined appropriate by the Assistant Secretary for purposes of the pilot program, through which special operations forces medics earn credit toward the master’s degree of physician assistant for military operational work and training performed by the medics. “(b) Duration.—The Assistant Secretary shall conduct the pilot program for a period not to exceed five years. “(c) Clinical Training.—Partnerships under subsection (a) shall permit medics participating in the pilot program to conduct clinical training at medical facilities of the Department of Defense and the civilian sector. “(d) Evaluation.—The evaluation of work and training performed by medics for which credits are earned under the pilot program shall comply with civilian clinical evaluation standards applicable to the awarding of the master’s degree of physician assistant. “(e) Reports.—“(1) Initial report.—Not later than 180 days after the date of the enactment of this Act [Aug. 13, 2018], the Secretary of Defense shall submit to the Committees on Armed Services of the Senate and the House of Representatives a report on the pilot program that shall include the following:“(A) A comprehensive framework for the military education to be provided to special operations forces medics under the pilot program, including courses of instruction at institutions of higher education and any health care systems participating in the pilot program. “(B) Metrics to be used to assess the effectiveness of the pilot program. “(C) A description of the mechanisms to be used by the Department, medics, or both to cover the costs of education received by medics under the pilot program through institutions of higher education or health care systems, including payment by the Department in return for a military service commitment, tuition or other educational assistance by the Department, use by medics of post-9/11 educational assistance available through the Department of Veterans Affairs, and any other mechanisms the Secretary considers appropriate for purposes of the pilot program. “(2) Final report.—Not later than 180 days after completion of the pilot program, the Secretary shall submit to the committees of Congress referred to in paragraph (1) a final report on the pilot program. The report shall include the following:“(A) An evaluation of the pilot program using the metrics of assessment set forth pursuant to paragraph (1)(B). “(B) An assessment of the utility of the funding mechanisms set forth pursuant to paragraph (1)(C). “(C) An assessment of the effects of the pilot program on recruitment and retention of medics for special operations forces. “(D) An assessment of the feasibility and advisability of extending one or more authorities for joint professional military education under chapter 107 of title 10, United States Code, to warrant officers or enlisted personnel, and if the Secretary considers the extension of any such authorities feasible and advisable, recommendations for legislative or administrative action to so extend such authorities. “(f) Construction of Authorities.—Nothing in this section may be construed to—“(1) authorize an officer or employee of the Federal Government to create, endorse, or otherwise incentivize a particular curriculum or degree track; or “(2) require, direct, review, or control a State or educational institution, or the instructional content, curriculum, and related activities of a State or educational institution.”
 
@@ -1079,3 +1119,15 @@ Subsec. (d). Pub. L. 111–383, § 551(c), amended subsec. (d) generally. Prior 
 
 #### Plan and Pilot Program To Establish Undergraduate Nurse Training Program
 Pub. L. 111–84, div. A, title V, § 525(c)–(f), Oct. 28, 2009, 123 Stat. 2287, 2288, as amended by Pub. L. 111–383, div. A, title V, § 551(d), Jan. 7, 2011, 124 Stat. 4219, provided that: “(c) Undergraduate Nurse Training Program Plan.—Not later than 180 days after the date of the enactment of this Act [Oct. 28, 2009], the Secretary of Defense shall submit to the Committees on Armed Services of the Senate and House of Representatives a plan to establish an undergraduate nurse training program in the Department of Defense in accordance with the authority provided by [section 2169 of title 10](./chapter-108-department-of-defense-schools.md#section-2169), United States Code, as added by subsection (a), section 2016 of such title, as added by subsection (b), or any other authority available to the Secretary. “(d) Pilot Program.—“(1) Pilot program required.—The plan required by subsection (c) shall provide for the establishment of a pilot program to increase the number of nurses serving in the Armed Forces. “(2) Implementation and duration.—The pilot program shall begin not later than December 31, 2011, and be of not less than five years in duration. “(3) Graduation rates.—The goal of the pilot program is to achieve graduation rates at least equal to the rates required for the undergraduate nurse training programs authorized by [section 2016 of title 10](./chapter-101-training-generally.md#section-2016), United States Code, as added by subsection (b). “(4) Implementation report.—Not later than 270 days after the date of the enactment of this Act [Oct. 28, 2009], the Secretary of Defense shall submit to the Committees on Armed Services of the Senate and House of Representatives a report on the pilot program, including a description of the program selected to be undertaken, the program’s goals, and any additional legal authorities that may be needed to undertake the program. “(5) Progress reports.—Not later than 90 days after the end of each academic year of the pilot program, the Secretary of Defense shall submit to the Committees on Armed Services of the Senate and House of Representatives a report specifying the number of nurses accessed into the Armed Forces through the program and the number of students accepted for the upcoming academic year. “(6) Final report.—Not later than one year before the end of the pilot program, the Secretary of Defense shall submit to the Committees on Armed Services of the Senate and House of Representatives a report specifying the number of nurses accessed through the program, evaluating the overall effectiveness of the program, and containing the Secretary’s recommendations regarding whether the program should be extended. “(e) Effect on Other Nursing Programs.—Notwithstanding the development of undergraduate nurse training programs under the amendments made by this section [enacting this section and [section 2169 of this title](./chapter-108-department-of-defense-schools.md#section-2169) and repealing [section 2117 of this title](./chapter-104-uniformed-services-university-of-the-health-sciences.md#section-2117)] and subsection (d), the Secretary of Defense shall ensure that graduate degree programs in nursing, including advanced practice nursing, continue. “(f) Effect on Other Recruitment Efforts.—Nothing in this section shall be construed as limiting or terminating any current or future program of the Department of Defense related to the recruitment, accession, training, or retention of nurses.”
+
+
+<a id="section-2017"></a>
+## § 2017. Limitation on establishment of postsecondary educational institutions pending notice to Congress
+**(a) Limitation.—** The Secretary of Defense may not establish a postsecondary educational institution within the Department of Defense until a period of one year has elapsed following the date on which the Secretary notifies the congressional defense committees of the intent of the Secretary to establish the institution.
+
+**(b) Postsecondary Educational Institution Defined.—** In this section, the term “postsecondary educational institution” means a school or other educational institution that is intended to provide students with a course of instruction that is comparable, in length and academic rigor, to a course of instruction for which an associate’s, bachelor’s, or graduate degree may be awarded.
+
+### Statutory Notes
+
+#### Applicability
+Pub. L. 116–92, div. A, title V, § 553(b)(3), Dec. 20, 2019, 133 Stat. 1387, provided that: “[Section 2017 of title 10](./chapter-101-training-generally.md#section-2017), United States Code, as added by paragraph (1), shall apply with respect to postsecondary educational institutions intended to be established by the Secretary of Defense on or after the date of the enactment of this Act [Dec. 20, 2019].”

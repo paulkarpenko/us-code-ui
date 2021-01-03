@@ -92,6 +92,15 @@ For effective date and applicability of amendment by Pub. L. 103–355, see sect
 
 ### Statutory Notes
 
+#### Amendment of Subsection (d)
+Pub. L. 116–283, div. A, title XVIII, §§ 1801(d)(1), 1831(j)(6), Jan. 1, 2021, 134 Stat. 4151, 4217, provided that, effective Jan. 1, 2022, subsection (d) of this section is amended by striking “section 2306a” and inserting “chapter 271”. See 2021 Amendment note below.
+
+#### Amendments
+2021—Subsec. (d). Pub. L. 116–283 substituted “chapter 271” for “section 2306a”.
+
+#### Effective Date of 2021 Amendment
+Amendment by Pub. L. 116–283 effective Jan. 1, 2022, see section 1801(d)(1) of Pub. L. 116–283, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
+
 #### Initial Regulations
 Pub. L. 112–81, div. A, title III, § 366(c), Dec. 31, 2011, 125 Stat. 1381, provided that: “Regulations shall be prescribed under [section 9511a(b) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section9511a/b&num=0&edition=prelim), United States Code, as added by subsection (a), not later than 180 days after the date of the enactment of this Act [Dec. 31, 2011].”
 
@@ -275,14 +284,14 @@ Subsec. (f). Pub. L. 108–136, § 1031(a)(60)(B), struck out heading and text o
 
 **(j) Definition.—** In this section, the term “charter air transportation” has the meaning given such term in [section 40102(14) of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section40102/14&num=0&edition=prelim).
 
-**(k) Sunset.—** The authorities in this section shall expire on December 31, 2020.
-
 ### Statutory Notes
 
 #### References in Text
 Section 356 of the National Defense Authorization Act for Fiscal Year 2008, referred to in subsec. (b), is section 356 of Pub. L. 110–181, div. A, title III, Jan. 28, 2008, 122 Stat. 74, which is not classified to the Code.
 
 #### Amendments
+2021—Subsec. (k). Pub. L. 116–283 struck out subsec. (k). Text read as follows: “The authorities in this section shall expire on December 31, 2020.”
+
 2013—Subsec. (a)(3). Pub. L. 112–239, § 1055(b)(1), struck out “passenger” after “commercial air”.
 
 Subsec. (b). Pub. L. 112–239, § 1076(f)(44), substituted “required by section 356 of the National Defense Authorization Act for Fiscal Year 2008” for “required by section 1356 of the National Defense Authorization Act for Fiscal Year 2008”.

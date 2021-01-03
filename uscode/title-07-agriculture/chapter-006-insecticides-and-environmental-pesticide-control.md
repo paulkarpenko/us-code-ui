@@ -3569,7 +3569,7 @@ Section 1651 of the Food, Agriculture, Conservation, and Trade Act of 1990, refe
 
 (4) **Subsequent authority** — If the Administrator does not assess registration service fees under subsection (b) during any portion of a fiscal year as the result of paragraph (2) and is subsequently permitted to assess the fees under subsection (b) during the fiscal year, the Administrator shall assess and collect the fees, without any modification in rate, at any time during the fiscal year, notwithstanding any provisions of subsection (b) relating to the date fees are to be paid.
 
-**(e) Reforms to reduce decision time review periods** To the maximum extent practicable consistent with the degrees of risk presented by pesticides and the type of review appropriate to evaluate risks, the Administrator shall identify and evaluate reforms to the pesticide registration process under this subchapter with the goal of reducing decision review periods in effect on the effective date of the PPesticide Registration Improvement Extension Act of 2018 for pesticide registration actions for covered pesticide registration applications (including reduced risk applications). Such reforms shall include identifying opportunities for streamlining review processes for applications for a new active ingredient or a new use and providing prompt feedback to applicants during such review process.
+**(e) Reforms to reduce decision time review periods** To the maximum extent practicable consistent with the degrees of risk presented by pesticides and the type of review appropriate to evaluate risks, the Administrator shall identify and evaluate reforms to the pesticide registration process under this subchapter with the goal of reducing decision review periods in effect on the effective date of the Pesticide Registration Improvement Extension Act of 2018 for pesticide registration actions for covered pesticide registration applications (including reduced risk applications). Such reforms shall include identifying opportunities for streamlining review processes for applications for a new active ingredient or a new use and providing prompt feedback to applicants during such review process.
 
 **(f) Decision time review periods**
 
@@ -3866,7 +3866,7 @@ The Federal Food, Drug, and Cosmetic Act, referred to in subsec. (b)(2)(B)(ii), 
 
 Section 2 of Public Law 89–106, referred to in subsec. (b)(7)(E)(i), was formerly classified to secton 450i of this title prior to editorial reclassification and renumbering as [section 3157 of this title](./chapter-064-agricultural-research-extension-and-teaching.md#section-3157).
 
-The effective date of the Pesticide Registration Improvement Extension Act of 2018, referred to in subsecs. (e) and (f)(1), means the effective date of Pub. L. 116–8, which was approved Mar. 8, 2018.
+The effective date of the Pesticide Registration Improvement Extension Act of 2018, referred to in subsecs. (e) and (f)(1), means the effective date of Pub. L. 116–8, which was approved Mar. 8, 2019.
 
 The Chief Financial Officers Act of 1990, referred to in subsec. (h)(1)(A), is Pub. L. 101–576, Nov. 15, 1990, 104 Stat. 2838. For complete classification of this Act to the Code, see Short Title of 1990 Amendment note set out under [section 501 of Title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section501&num=0&edition=prelim), Money and Finance, and Tables.
 
@@ -3920,11 +3920,11 @@ Subsec. (f)(4)(A). Pub. L. 116–8, § 5(d)(3), substituted “a covered applica
 
 Subsec. (k)(1). Pub. L. 116–8, § 5(e)(1), substituted “2023” for “2017”.
 
-Subsec. (k)(2)(D)(i). Pub. L. 116–8, § 5(e)(2)(A), added cl. (i) and struck out former subcl. (i) which read as follows: “the number of pesticides or pesticide cases reviewed;”.
+Subsec. (k)(2)(D)(i). Pub. L. 116–8, § 5(e)(2)(A), added cl. (i) and struck out former cl. (i) which read as follows: “the number of pesticides or pesticide cases reviewed;”.
 
 Subsec. (k)(2)(G)(i). Pub. L. 116–8, § 5(e)(2)(B)(i), substituted “paragraphs (4) and (5) of [section 136a–1(k) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section136a–1/k&num=0&edition=prelim)” for “[section 136a–1(k)(4) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section136a–1/k/4&num=0&edition=prelim)” and “such paragraphs” for “that section”.
 
-Subsec. (k)(2)(G)(ii) to (vii). Pub. L. 116–8, § 5(e)(2)(B)(ii)–(iv), added cl. (ii), redesignated cl. (vii) as (iii), and struck out former cls. (ii) to (v) which read as follows:
+Subsec. (k)(2)(G)(ii) to (vii). Pub. L. 116–8, § 5(e)(2)(B)(ii)–(iv), added cl. (ii), redesignated cl. (vii) as (iii), and struck out former cls. (ii) to (vi) which read as follows:
 
 “(ii) implementing systems for the electronic tracking of registration submissions by December 31, 2013;
 

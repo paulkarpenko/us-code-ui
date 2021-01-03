@@ -136,7 +136,7 @@ The Secretary may issue regulations under this chapter only to the extent necess
 A prior section 2398, Pub. L. 88–210, title III, § 318, as added Pub. L. 105–332, § 1(b), Oct. 31, 1998, 112 Stat. 3123, related to participation of private school personnel, prior to the general amendment of this chapter by Pub. L. 109–270.
 
 #### Effective Date of 2018 Amendment
-Amendment by Pub. L. 115–224 effective July 1, 2019, see section 4 of Pub. L. 115–224, set out as a note under [section 2301 of this title](./chapter-044-career-and-technical-education.md#section-2301).*demo*
+Amendment by Pub. L. 115–224 effective July 1, 2019, see section 4 of Pub. L. 115–224, set out as a note under [section 2301 of this title](./chapter-044-career-and-technical-education.md#section-2301).
 
 
 <a id="section-2305"></a>
@@ -180,6 +180,9 @@ Section 2403, Pub. L. 88–210, title IV, § 403, as added Pub. L. 98–524, § 
 
 Section 2404, Pub. L. 88–210, title IV, § 404, as added Pub. L. 98–524, § 1, Oct. 19, 1984, 98 Stat. 2468; amended Pub. L. 101–392, title IV, § 405, Sept. 25, 1990, 104 Stat. 809; Pub. L. 103–382, title III, § 351(a)(2), Oct. 20, 1994, 108 Stat. 3966, related to National Center or Centers for Research in Vocational Education.
 
+#### Change of Name
+Committee on Education and the Workforce of House of Representatives changed to Committee on Education and Labor of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
+
 #### Effective Date
 Section effective July 1, 2019, see section 4 of Pub. L. 115–224, set out as an Effective Date of 2018 Amendment note under [section 2301 of this title](./chapter-044-career-and-technical-education.md#section-2301).
 
@@ -206,9 +209,6 @@ Section effective July 1, 2019, see section 4 of Pub. L. 115–224, set out as a
 
 ### Statutory Notes
 
-#### Amendment of Section
-Pub. L. 115–224, § 4, title II, § 201(a)(5), (7), July 31, 2018, 132 Stat. 1564, 1621, provided that, effective July 1, 2019, this section is renumbered section 221 of title II of Pub. L. 88–210.
-
 #### References in Text
 The Workforce Innovation and Opportunity Act, referred to in subsec. (b)(1), is Pub. L. 113–128, July 22, 2014, 128 Stat. 1425. Chapters 2 and 3 of subtitle B of title I of the Act are classified generally to subparts 2 (§ 3161 et seq.) and 3 (§ 3171 et seq.), respectively, of part B of subchapter I of chapter 32 of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under [section 3101 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3101&num=0&edition=prelim) and Tables.
 
@@ -220,10 +220,6 @@ A prior section 2411, Pub. L. 88–210, title III, § 321, as added Pub. L. 105�
 Another prior section 2411, Pub. L. 88–210, title IV, § 411, as added Pub. L. 101–392, title IV, § 406(a), Sept. 25, 1990, 104 Stat. 812, authorized grants for demonstration programs, prior to the general amendment of this chapter by Pub. L. 105–332.
 
 Another prior section 2411, Pub. L. 88–210, title IV, § 411, as added Pub. L. 98–524, § 1, Oct. 19, 1984, 98 Stat. 2470, related to programs and projects Secretary was authorized to carry out from available funds, prior to the general amendment of part B of former subchapter IV of this chapter by Pub. L. 101–392.
-
-A prior section 321 of Pub. L. 88–210 was classified to [section 2381 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section2381&num=0&edition=prelim), prior to the general amendment of this chapter by Pub. L. 105–332.
-
-Another prior section 321 of Pub. L. 88–210 was classified to [section 2371 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section2371&num=0&edition=prelim), prior to repeal by Pub. L. 101–392.
 
 #### Amendments
 2014—Subsec. (b)(1). Pub. L. 113–128 substituted “Chapters 2 and 3 of subtitle B of title I of the Workforce Innovation and Opportunity Act” for “Chapters 4 and 5 of subtitle B of title I of Public Law 105–220”.
@@ -374,33 +370,6 @@ Amendment by Pub. L. 115–224 effective July 1, 2019, see section 4 of Pub. L. 
 <a id="section-2321"></a>
 ## § 2321. Purpose
 
-The purpose of this chapter is to develop more fully the academic and career and technical skills of secondary education students and postsecondary education students who elect to enroll in career and technical education programs, by—
-
-(1) building on the efforts of States and localities to develop challenging academic and technical standards and to assist students in meeting such standards, including preparation for high skill, high wage, or high demand occupations in current or emerging professions;
-
-(2) promoting the development of services and activities that integrate rigorous and challenging academic and career and technical instruction, and that link secondary education and postsecondary education for participating career and technical education students;
-
-(3) increasing State and local flexibility in providing services and activities designed to develop, implement, and improve career and technical education, including tech prep education;
-
-(4) conducting and disseminating national research and disseminating information on best practices that improve career and technical education programs, services, and activities;
-
-(5) providing technical assistance that—
-
-  (A) promotes leadership, initial preparation, and professional development at the State and local levels; and
-
-  (B) improves the quality of career and technical education teachers, faculty, administrators, and counselors;
-
-(6) supporting partnerships among secondary schools, postsecondary institutions, baccalaureate degree granting institutions, area career and technical education schools, local workforce investment boards, business and industry, and intermediaries; and
-
-(7) providing individuals with opportunities throughout their lifetimes to develop, in conjunction with other education and training programs, the knowledge and skills needed to keep the United States competitive.
-
-### Statutory Notes
-
-#### Amendment of Section
-Pub. L. 115–224, §§ 4, 6, July 31, 2018, 132 Stat. 1564, 1565, made amendments to this section, effective July 1, 2019. After July 1, 2019, this section will read as follows:
-
-§ 2301. Purpose
-
 The purpose of this chapter is to develop more fully the academic knowledge and technical and employability skills of secondary education students and postsecondary education students who elect to enroll in career and technical education programs and programs of study, by—
 
 (1) building on the efforts of States and localities to develop challenging academic and technical standards and to assist students in meeting such standards, including preparation for high skill, high wage, or in-demand occupations in current or emerging professions;
@@ -413,9 +382,9 @@ The purpose of this chapter is to develop more fully the academic knowledge and 
 
 (5) providing technical assistance that—
 
-(A) promotes leadership, initial preparation, and professional development at the State and local levels; and
+  (A) promotes leadership, initial preparation, and professional development at the State and local levels; and
 
-(B) improves the quality of career and technical education teachers, faculty, administrators, and counselors;
+  (B) improves the quality of career and technical education teachers, faculty, administrators, and counselors;
 
 (6) supporting partnerships among secondary schools, postsecondary institutions, baccalaureate degree granting institutions, area career and technical education schools, local workforce investment boards, business and industry, and intermediaries;
 
@@ -423,7 +392,7 @@ The purpose of this chapter is to develop more fully the academic knowledge and 
 
 (8) increasing the employment opportunities for populations who are chronically unemployed or underemployed, including individuals with disabilities, individuals from economically disadvantaged families, out-of-workforce individuals, youth who are in, or have aged out of, the foster care system, and homeless individuals.
 
-See 2018 Amendment notes below.
+### Statutory Notes
 
 #### Prior Provisions
 A prior section 2301, Pub. L. 88–210, § 2, as added Pub. L. 105–332, § 1(b), Oct. 31, 1998, 112 Stat. 3077, stated purpose of this chapter, prior to the general amendment of this chapter by Pub. L. 109–270.
@@ -949,20 +918,20 @@ Pub. L. 116–6, div. H, title II, § 201(b), Feb. 15, 2019, 133 Stat. 475, prov
 Amendment by Pub. L. 115–224 effective July 1, 2019, see section 4 of Pub. L. 115–224, set out as a note under [section 2301 of this title](./chapter-044-career-and-technical-education.md#section-2301).
 
 #### Effective Date of 2015 Amendment
-Amendment by Pub. L. 114–95 effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 114–95, set out as a note under [section 6301 of this title](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-6301).*demo*
+Amendment by Pub. L. 114–95 effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 114–95, set out as a note under [section 6301 of this title](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-6301).
 
 
 <a id="section-2323"></a>
 ## § 2323. Transition provisions
 
-The Secretary shall take such steps as are necessary to provide for the orderly transition to the authority of this chapter (as amended by the Strengthening Career and Technical Education for the 21st Century Act) from any authority under the provisions of the Carl D. Perkins Vocational and Technical Education Act of 2006, as in effect on the day before July 31, 2018. The Secretary shall give each eligible agency the opportunity to submit a transition plan for the first fiscal year following July 31, 2018.
+The Secretary shall take such steps as are necessary to provide for the orderly transition to the authority of this chapter (as amended by the Strengthening Career and Technical Education for the 21st Century Act) from any authority under the provisions of the Carl D. Perkins Vocational and Technical Education Act of 2006,11 See References in Text note below. as in effect on the day before July 31, 2018. The Secretary shall give each eligible agency the opportunity to submit a transition plan for the first fiscal year following July 31, 2018.
 
 ### Statutory Notes
 
 #### References in Text
 This chapter (as amended by the Strengthening Career and Technical Education for the 21st Century Act), referred to in text, is this chapter as amended by Pub. L. 115–224, July 31, 2018, 132 Stat. 1563.
 
-The Carl D. Perkins Vocational and Technical Education Act of 2006, as in effect on the day before July 31, 2018, referred to in text, probably means the Carl D. Perkins Career and Technical Education Act of 2006, which is classified generally to this chapter, as in effect on the day before the enactment of Pub. L. 115–224, July 31, 2018, 132 Stat. 1563, which amended this chapter extensively.
+The Carl D. Perkins Vocational and Technical Education Act of 2006, as in effect on the day before July 31, 2018, referred to in text, probably means the Carl D. Perkins Career and Technical Education Act of 2006, which is classified generally to this chapter, as in effect on the day before the enactment of Pub. L. 115–224, July 31, 2018, 132 Stat. 1563, which amended this chapter extensively. A prior version of the Act was named the Carl D. Perkins Vocational and Technical Education Act of 1998, but no act with the title “Carl D. Perkins Vocational and Technical Education Act of 2006” has been enacted.
 
 #### Prior Provisions
 A prior section 2303, Pub. L. 88–210, § 4, as added Pub. L. 105–332, § 1(b), Oct. 31, 1998, 112 Stat. 3082, related to transition provisions, prior to the general amendment of this chapter by Pub. L. 109–270.
@@ -2109,7 +2078,7 @@ Subsecs. (d) to (g). Pub. L. 115–224, § 115(4)–(7), substituted “Tribe”
 Amendment by Pub. L. 115–224 effective July 1, 2019, see section 4 of Pub. L. 115–224, set out as a note under [section 2301 of this title](./chapter-044-career-and-technical-education.md#section-2301).
 
 #### Effective Date of 2015 Amendment
-Amendment by Pub. L. 114–95 effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 114–95, set out as a note under [section 6301 of this title](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-6301).*demo*
+Amendment by Pub. L. 114–95 effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 114–95, set out as a note under [section 6301 of this title](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-6301).
 
 
 <a id="section-2354"></a>
@@ -2130,7 +2099,7 @@ Amendment by Pub. L. 114–95 effective Dec. 10, 2015, except with respect to ce
 
 (3) **Indirect costs** — Notwithstanding any other provision of law or regulation, the Secretary shall not require the use of a restricted indirect cost rate for grants issued under this section.
 
-**(d) Applications** To be eligible to receive a grant under this section, a tribally controlled postsecondary career and technical institution that is not receiving Federal assistance under title I of the Tribally Controlled Colleges and Universities Assistance Act of 1978 ([25 U.S.C. 1802](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section1802&num=0&edition=prelim) et seq.) or the Navajo Community College Act ([25 U.S.C. 640a](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section640a&num=0&edition=prelim) et seq.) 1 shall submit to the Secretary an application at such time, in such manner, and containing such information as the Secretary may require.
+**(d) Applications** To be eligible to receive a grant under this section, a tribally controlled postsecondary career and technical institution that is not receiving Federal assistance under title I of the Tribally Controlled Colleges and Universities Assistance Act of 1978 ([25 U.S.C. 1802](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section1802&num=0&edition=prelim) et seq.) or the Navajo Community College Act (Public Law 92–189; 85 Stat. 646) shall submit to the Secretary an application at such time, in such manner, and containing such information as the Secretary may require.
 
 **(e) Expenses**
 
@@ -2152,7 +2121,7 @@ Amendment by Pub. L. 114–95 effective Dec. 10, 2015, except with respect to ce
 
 (2) **Prohibition on alteration of grant amount** — The amount of any grant for which tribally controlled postsecondary career and technical institutions are eligible under this section shall not be altered because of funds allocated to any such institution from funds appropriated under [section 13 of title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section13&num=0&edition=prelim).
 
-(3) **Prohibition on contract denial** — No tribally controlled postsecondary career and technical institution for which an Indian tribe has designated a portion of the funds appropriated for the tribe from funds appropriated under [section 13 of title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section13&num=0&edition=prelim), may be denied a contract for such portion under the Indian Self-Determination and Education Assistance Act [[25 U.S.C. 5301](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5301&num=0&edition=prelim) et seq.] (except as provided in that Act), or denied appropriate contract support to administer such portion of the appropriated funds.
+(3) **Prohibition on contract denial** — No tribally controlled postsecondary career and technical institution for which an Indian Tribe has designated a portion of the funds appropriated for the Tribe from funds appropriated under [section 13 of title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section13&num=0&edition=prelim), may be denied a contract for such portion under the Indian Self-Determination and Education Assistance Act [[25 U.S.C. 5301](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5301&num=0&edition=prelim) et seq.] (except as provided in that Act), or denied appropriate contract support to administer such portion of the appropriated funds.
 
 **(g) Complaint resolution procedure** The Secretary shall establish (after consultation with tribally controlled postsecondary career and technical institutions) a complaint resolution procedure for grant determinations and calculations under this section for tribally controlled postsecondary career and technical institutions.
 
@@ -2206,35 +2175,6 @@ Amendment by Pub. L. 114–95 effective Dec. 10, 2015, except with respect to ce
 
 ### Statutory Notes
 
-#### Amendment of Section
-Pub. L. 115–224, § 4, title I, § 116, July 31, 2018, 132 Stat. 1564, 1599, provided that, effective July 1, 2019, this section is amended as follows:
-
-(1) in subsections (a)(2) and (d), by striking “([25 U.S.C. 640a](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section640a&num=0&edition=prelim) et seq.)” and inserting “(Public Law 92–189; 85 Stat. 646)”;
-
-(2) in subsection (f)(3), by striking “tribe” each place the term appears and inserting “Tribe”;
-
-(3) in subsection (h), by striking “indian tribe” and inserting “Indian tribe” in the heading of the original Act and by striking “terms ‘Indian’ and ‘Indian tribe’ have the meanings given the terms in” and inserting “terms ‘Indian’ and ‘Indian Tribe’ have the meanings given the terms ‘Indian’ and ‘Indian tribe’, respectively, in”; and
-
-(4) by striking subsection (i) and inserting the following:
-
-(i) Authorization of appropriations
-
-There are authorized to be appropriated to carry out this section—
-
-(1) $9,762,539 for fiscal year 2019;
-
-(2) $9,899,215 for fiscal year 2020;
-
-(3) $10,037,804 for fiscal year 2021;
-
-(4) $10,178,333 for fiscal year 2022;
-
-(5) $10,320,829 for fiscal year 2023; and
-
-(6) $10,465,321 for fiscal year 2024.
-
-See 2018 Amendment notes below.
-
 #### References in Text
 The Tribally Controlled Colleges and Universities Assistance Act of 1978, referred to in subsecs. (a)(1) and (d), is Pub. L. 95–471, Oct. 17, 1978, 92 Stat. 1325. Title I of the Act is classified generally to subchapter I (§ 1802 et seq.) of chapter 20 of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under [section 1801 of Title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section1801&num=0&edition=prelim) and Tables.
 
@@ -2267,18 +2207,14 @@ Subsec. (h)(1). Pub. L. 110–315, § 941(k)(2)(D)(ii), substituted “the Triba
 #### Effective Date of 2018 Amendment
 Amendment by Pub. L. 115–224 effective July 1, 2019, see section 4 of Pub. L. 115–224, set out as a note under [section 2301 of this title](./chapter-044-career-and-technical-education.md#section-2301).
 
-#### Effective Date of 2014 Amendment
-Amendment by Pub. L. 113–128 effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as an Effective Date note under [section 3101 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3101&num=0&edition=prelim), Labor.*demo*
-
 
 <a id="section-2355"></a>
 ## § 2355. Repealed. Pub. L. 115–224, title I, § 117, July 31, 2018, 132 Stat. 1599
 
 ### Statutory Notes
 
-Section, Pub. L. 88–210, title I, § 118, as added Pub. L. 109–270, § 1(b), Aug. 12, 2006, 120 Stat. 713; amended Pub. L. 113–128, title V, § 512(e)(1), July 22, 2014, 128 Stat. 1706, Pub. L. 115 related to occupational and employment information.
+Section, Pub. L. 88–210, title I, § 118, as added Pub. L. 109–270, § 1(b), Aug. 12, 2006, 120 Stat. 713; amended Pub. L. 113–128, title V, § 512(e)(1), July 22, 2014, 128 Stat. 1706, Pub. L. 115 related to occupational and employment information and grants to States.
 
-#### Prior Provisions
 A prior section 2328, Pub. L. 88–210, title I, § 118, as added Pub. L. 105–332, § 1(b), Oct. 31, 1998, 112 Stat. 3100, related to occupational and employment information, prior to the general amendment of this chapter by Pub. L. 109–270.
 
 Another prior section 2328, Pub. L. 88–210, title I, § 118, as added Pub. L. 101–392, title I, § 116, Sept. 25, 1990, 104 Stat. 773, related to criteria for services and activities for individuals who are members of special populations, prior to the general amendment of this chapter by Pub. L. 105–332.
@@ -2305,12 +2241,15 @@ Section 2335b, Pub. L. 88–210, title II, § 223, as added Pub. L. 101–392, t
 
 Section 2336, Pub. L. 88–210, title II, § 225, as added Pub. L. 101–392, title II, § 201, Sept. 25, 1990, 104 Stat. 778, related to programs for criminal offenders.
 
+#### Effective Date of Repeal
+Repeal effective July 1, 2019, see section 4 of Pub. L. 115–224, set out as an Effective Date of 2018 Amendment note under [section 2301 of this title](./chapter-044-career-and-technical-education.md#section-2301).
+
 
 <a id="section-2391"></a>
 ## § 2391. State administration
 **(a) Eligible agency responsibilities** The responsibilities of an eligible agency under this subchapter shall include—
 
-(1) coordination of the development, submission, and implementation of the State plan, and the evaluation of the program, services, and activities assisted under this subchapter 11 See References in Text note below., including preparation for non-traditional fields;
+(1) coordination of the development, submission, and implementation of the State plan, and the evaluation of the program, services, and activities assisted under this subchapter, including preparation for non-traditional fields;
 
 (2) consultation with the Governor and appropriate agencies, groups, and individuals including teachers, faculty, specialized instructional support personnel, paraprofessionals, school leaders, authorized public chartering agencies and charter school leaders (consistent with State law), employers, representatives of business (including small businesses), labor organizations, eligible recipients, local program administrators, State and local officials, Indian Tribes or Tribal organizations present in the State, parents, students, and community organizations;
 
@@ -2325,8 +2264,6 @@ Section 2336, Pub. L. 88–210, title II, § 225, as added Pub. L. 101–392, ti
 **(b) Exception** Except with respect to the responsibilities set forth in subsection (a), the eligible agency may delegate any of the other responsibilities of the eligible agency that involve the administration, operation, or supervision of activities assisted under this subchapter, in whole or in part, to 1 or more appropriate State agencies.
 
 ### Statutory Notes
-
-Section 2328, referred to in subsec. (a)(1), was repealed by Pub. ...
 
 #### Prior Provisions
 A prior section 2341, Pub. L. 88–210, title I, § 121, as added Pub. L. 105–332, § 1(b), Oct. 31, 1998, 112 Stat. 3102, related to State administration, prior to the general amendment of this chapter by Pub. L. 109–270.

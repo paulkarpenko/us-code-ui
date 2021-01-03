@@ -2,7 +2,7 @@
 title: 16
 chapter: 15B
 heading: GREAT LAKES FISH AND WILDLIFE RESTORATION
-section_count: 8
+section_count: 9
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16&num=0&edition=prelim
 ---
@@ -461,3 +461,68 @@ Par. (2). Pub. L. 114–322, § 3901(f)(3), substituted “the activities of the
 1998—Pub. L. 105–265 amended section generally, substituting provisions authorizing appropriations for fiscal years 1999 to 2004 for provisions authorizing appropriations for fiscal years 1991 to 1994 to conduct a study under [section 941c of this title](./chapter-15b-great-lakes-fish-and-wildlife-restoration.md#section-941c) and for fiscal years 1991 to 1995 to establish and operate Great Lakes Coordination and Upper and Lower Great Lakes Fishery Resources Offices.
 
 1996—Pub. L. 104–332 made technical amendment to Pub. L. 101–646, § 2009, which enacted this section.
+
+
+<a id="section-941h"></a>
+## § 941h. Great Lakes monitoring, assessment, science, and research
+**(a) Definitions** In this section:
+
+(1) **Director** — The term “Director” means the Director of the United States Geological Survey.
+
+(2) **Great Lakes Basin** — The term “Great Lakes Basin” means the air, land, water, and living organisms in the United States within the drainage basin of the Saint Lawrence River at and upstream from the point at which such river and the Great Lakes become the international boundary between Canada and the United States.
+
+**(b) Findings** Congress finds the following:
+
+(1) The Great Lakes support a diverse ecosystem, on which the vibrant and economically valuable Great Lakes fisheries depend.
+
+(2) To continue successful fisheries management and coordination, as has occurred since signing of the Convention on Great Lakes Fisheries between the United States and Canada on September 10, 1954, management of the ecosystem and its fisheries require sound, reliable science, and the use of modern scientific technologies.
+
+(3) Fisheries research is necessary to support multi-jurisdictional fishery management decisions and actions regarding recreational and sport fishing, commercial fisheries, tribal harvest, allocation decisions, and fish stocking activities.
+
+(4) President Richard Nixon submitted, and the Congress approved, Reorganization Plan No. 4 (84 Stat. 2090), conferring science activities and management of marine fisheries to the National Oceanic and Atmospheric Administration.
+
+(5) Reorganization Plan No. 4 expressly excluded fishery research activities within the Great Lakes from the transfer, retaining management and scientific research duties within the already-established jurisdictions under the 1954 Convention on Great Lakes Fisheries, including those of the Great Lakes Fishery Commission and the Department of the Interior.
+
+**(c) Monitoring, assessment, science, and research**
+
+(1) **In general** — The Director may conduct monitoring, assessment, science, and research, in support of the binational fisheries within the Great Lakes Basin.
+
+(2) **Specific authorities** — The Director shall, under paragraph (1)—
+
+  (A) execute a comprehensive, multi-lake, freshwater fisheries science program;
+
+  (B) coordinate with and work cooperatively with regional, State, tribal, and local governments; and
+
+  (C) consult with other interested entities groups, including academia and relevant Canadian agencies.
+
+(3) **Included research** — To properly serve the needs of fisheries managers, monitoring, assessment, science, and research under this section may include—
+
+  (A) deepwater ecosystem sciences;
+
+  (B) biological and food-web components;
+
+  (C) fish movement and behavior investigations;
+
+  (D) fish population structures;
+
+  (E) fish habitat investigations;
+
+  (F) invasive species science;
+
+  (G) use of existing, new, and experimental biological assessment tools, equipment, vessels, other scientific instrumentation and laboratory capabilities necessary to support fishery management decisions; and
+
+  (H) studies to assess impacts on Great Lakes Fishery resources.
+
+(4) **Savings clause** — Nothing in this section is intended or shall be construed to impede, supersede, or alter the authority of the Great Lakes Fishery Commission, States, and Indian tribes under the Convention on Great Lakes Fisheries between the United States of America and Canada on September 10, 1954, and the Great Lakes Fishery Act of 1956 ([16 U.S.C. 931](./chapter-15a-great-lakes-fisheries.md#section-931) et seq.).
+
+**(d) Authorization of appropriations** For each of fiscal years 2021 through 2025, there is authorized to be appropriated $15,000,000 to carry out this section.
+
+### Statutory Notes
+
+#### References in Text
+Reorganization Plan No. 4, referred to in subsec. (b)(4), (5), probably means Reorganization Plan No. 4 of 1970, which is set out as a note under [section 1511 of title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1511&num=0&edition=prelim), Commerce and Trade, and in the Appendix to Title 5, Government Organization and Employees.
+
+The Great Lakes Fishery Act of 1956, referred to in subsec. (c)(4), is act June 4, 1956, ch. 358, 70 Stat. 242, which is classified generally to chapter 15A (§ 931 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 931 of this title](./chapter-15a-great-lakes-fisheries.md#section-931) and Tables.
+
+#### Codification
+Section was enacted as part of the Further Consolidated Appropriations Act, 2020, and not as part of the Great Lakes Fish and Wildlife Restoration Act of 1990 which comprises this chapter.

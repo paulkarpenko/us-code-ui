@@ -35,7 +35,7 @@ A vessel engaged in the coastwise transportation of coal produced in the United 
 In subsection (a), the words “by sea” are added for clarity. The words “a territory or possession of the United States” are substituted for “any of the possessions of the United States” for consistency in the revised title.
 
 #### Exemptions
-Functions authorized by Foreign Assistance Act of 1961, as amended, as exempt, see Ex. Ord. No. 11223, eff. May 12, 1965, 30 F.R. 6635, set out under [section 2393 of Title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2393&num=0&edition=prelim), Foreign Relations and Intercourse.
+Functions authorized by Foreign Assistance Act of 1961 as exempt, see Ex. Ord. No. 11223, eff. May 12, 1965, 30 F.R. 6635, set out under [section 2393 of Title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2393&num=0&edition=prelim), Foreign Relations and Intercourse.
 
 
 <a id="section-55303"></a>
@@ -338,7 +338,7 @@ In this subchapter:
 
 (2) **Great lakes.—** — The term “Great Lakes” means Lake Superior, Lake Michigan, Lake Huron, Lake Erie, Lake Ontario, the Saint Lawrence River west of Saint Regis, New York, and their connecting and tributary waters.
 
-(3) **Great lakes shipping season.—** — The term “Great Lakes shipping season” means the period each year during which the Saint Lawrence Seaway is open for navigation by vessels, as declared by the Saint Lawrence Seaway Development Corporation.
+(3) **Great lakes shipping season.—** — The term “Great Lakes shipping season” means the period each year during which the Saint Lawrence Seaway is open for navigation by vessels, as declared by the Great Lakes St. Lawrence Seaway Development Corporation.
 
 ### Statutory Notes
 
@@ -352,6 +352,9 @@ In paragraph (1), the words “but only during the period the designation is in 
 In paragraph (3), the words “created by the Act of May 13, 1954 ([33 U.S.C. 981](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section981&num=0&edition=prelim) et seq.)” are omitted as unnecessary.
 
 The definition of “Secretary” in 46 App. U.S.C. 1241v(4) is omitted as unnecessary because the full title of the Secretary of Transportation is used the first time the Secretary is referred to in each section.
+
+#### Amendments
+2020—Par. (3). Pub. L. 116–260 substituted “Great Lakes St. Lawrence Seaway Development Corporation” for “Saint Lawrence Seaway Development Corporation”.
 
 
 <a id="section-55332"></a>

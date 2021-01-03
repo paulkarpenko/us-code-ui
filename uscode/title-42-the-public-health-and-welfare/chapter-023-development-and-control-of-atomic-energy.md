@@ -775,7 +775,7 @@ Pub. L. 97–90, title II, § 213, Dec. 4, 1981, 95 Stat. 1171, directed Preside
 #### West Valley Demonstration Project; Radioactive Waste Management; Project Activities; Public Hearings; Review of Project and Consultations; Authorization of Appropriations; Report to Congress
 Pub. L. 107–66, title III, Nov. 12, 2001, 115 Stat. 503, provided in part: “That funding for the West Valley Demonstration Project shall be reduced in subsequent fiscal years to the minimum necessary to maintain the project in a safe and stable condition, unless, not later than September 30, 2002, the Secretary: (1) provides written notification to the Committees on Appropriations of the House of Representatives and the Senate that agreement has been reached with the State of New York on the final scope of Federal activities at the West Valley site and on the respective Federal and State cost shares for those activities; (2) submits a written copy of that agreement to the Committees on Appropriations of the House of Representatives and the Senate; and (3) provides a written certification that the Federal actions proposed in the agreement will be in full compliance with all relevant Federal statutes and are in the best interest of the Federal Government.”
 
-Pub. L. 96–368, Oct. 1, 1980, 94 Stat. 1347, as amended by Pub. L. 102–154, title I, Nov. 13, 1991, 105 Stat. 1000, provided that: “Section 1. This Act may be cited as the ‘West Valley Demonstration Project Act’. “Sec. 2. (a) The Secretary shall carry out, in accordance with this Act, a high level radioactive waste management demonstration project at the Western New York Service Center in West Valley, New York, for the purpose of demonstrating solidification techniques which can be used for preparing high level radioactive waste for disposal. Under the project the Secretary shall carry out the following activities:“(1) The Secretary shall solidify, in a form suitable for transportation and disposal, the high level radioactive waste at the Center by vitrification or by such other technology which the Secretary determines to be the most effective for solidification. “(2) The Secretary shall develop containers suitable for the permanent disposal of the high level radioactive waste solidified at the Center. “(3) The Secretary shall, as soon as feasible, transport, in accordance with applicable provisions of law, the waste solidified at the Center to an appropriate Federal repository for permanent disposal. “(4) The Secretary shall, in accordance with applicable licensing requirements, dispose of low level radioactive waste and transuranic waste produced by the solidification of the high level radioactive waste under the project. “(5) The Secretary shall decontaminate and decommission—“(A) the tanks and other facilities of the Center in which the high level radioactive waste solidified under the project was stored, “(B) the facilities used in the solidification of the waste, and “(C) any material and hardware used in connection with the project, in accordance with such requirements as the Commission may prescribe. “(b) Before undertaking the project and during the fiscal year ending September 30, 1981, the Secretary shall carry out the following:“(1) The Secretary shall hold in the vicinity of the Center public hearings to inform the residents of the area in which the Center is located of the activities proposed to be undertaken under the project and to receive their comments on the project. “(2) The Secretary shall consider the various technologies available for the solidification and handling of high level radioactive waste taking into account the unique characteristics of such waste at the Center. “(3) The Secretary shall—“(A) undertake detailed engineering and cost estimates for the project, “(B) prepare a plan for the safe removal of the high level radioactive waste at the Center for the purposes of solidification and include in the plan provisions respecting the safe breaching of the tanks in which the waste is stored, operating equipment to accomplish the removal, and sluicing techniques, “(C) conduct appropriate safety analyses of the project, and “(D) prepare required environmental impact analyses of the project. “(4) The Secretary shall enter into a cooperative agreement with the State in accordance with the Federal Grant and Cooperative Agreement Act of 1977 [see section 6301 et seq. of Title 31, Money and Finance] under which the State will carry out the following:“(A) The State will make available to the Secretary the facilities of the Center and the high level radioactive waste at the Center which are necessary for the completion of the project. The facilities and the waste shall be made available without the transfer of title and for such period as may be required for completion of the project. “(B) The Secretary shall provide technical assistance in securing required license amendments. “(C) The State shall pay 10 per centum of the costs of the project, as determined by the Secretary. In determining the costs of the project, the Secretary shall consider the value of the use of the Center for the project. The State may not use Federal funds to pay its share of the cost of the proj­ect, but may use the perpetual care fund to pay such share. “(D) Submission jointly by the Department of Energy and the State of New York of an application for a licensing amendment as soon as possible with the Nuclear Regulatory Commission providing for the demonstration. “(c) Within one year from the date of the enactment of this Act [Oct. 1, 1980], the Secretary shall enter into an agreement with the Commission to establish arrangements for review and consultation by the Commission with respect to the project: Provided, That review and consultation by the Commission pursuant to this subsection shall be conducted informally by the Commission and shall not include nor require formal procedures or actions by the Commission pursuant to the Atomic Energy Act of 1954, as amended [this chapter], the Energy Reorganization Act of 1974, as amended [section 5801 et seq. of this title], or any other law. The agreement shall provide for the following:“(1) The Secretary shall submit to the Commission, for its review and comment, a plan for the solidification of the high level radioactive waste at the Center, the removal of the waste for purposes of its solidification, the preparation of the waste for disposal, and the decontamination of the facilities to be used in solidifying the waste. In preparing its comments on the plan, the Commission shall specify with precision its objections to any provision of the plan. Upon submission of a plan to the Commission, the Secretary shall publish a notice in the Federal Register of the submission of the plan and of its availability for public inspection, and, upon receipt of the comments of the Commission respecting a plan, the Secretary shall publish a notice in the Federal Register of the receipt of the comments and of the availability of the comments for public inspection. If the Secretary does not revise the plan to meet objections specified in the comments of the Commission, the Secretary shall publish in the Federal Register a detailed statement for not so revising the plan. “(2) The Secretary shall consult with the Commission with respect to the form in which the high level radioactive waste at the Center shall be solidified and the containers to be used in the permanent disposal of such waste. “(3) The Secretary shall submit to the Commission safety analysis reports and such other information as the Commission may require to identify any danger to the public health and safety which may be presented by the project. “(4) The Secretary shall afford the Commission access to the Center to enable the Commission to monitor the activities under the project for the purpose of assuring the public health and safety. “(d) In carrying out the project, the Secretary shall consult with the Administrator of the Environmental Protection Agency, the Secretary of Transportation, the Director of the United States Geological Survey, and the commercial operator of the Center. “Sec. 3. (a) There are authorized to be appropriated to the Secretary for the project not more than $5,000,000 for the fiscal year ending September 30, 1981. “(b) The total amount obligated for the project by the Secretary shall be 90 per centum of the costs of the project. “(c) The authority of the Secretary to enter into contracts under this Act shall be effective for any fiscal year only to such extent or in such amounts as are provided in advance by appropriation Acts. “Sec. 4. Not later than February 1, 1981, and on February 1 of each calendar year thereafter during the term of the project, the Secretary shall transmit to the Speaker of the House of Representatives and the President pro tempore of the Senate an up-to-date report containing a detailed description of the activities of the Secretary in carrying out the project, including agreements entered into and the costs incurred during the period reported on and the activities to be undertaken in the next fiscal year and the estimated costs thereof. “Sec. 5. (a) Other than the costs and responsibilities established by this Act for the project, nothing in this Act shall be construed as affecting any rights, obligations, or liabilities of the commercial operator of the Center, the State, or any person, as is appropriate, arising under the Atomic Energy Act of 1954 [this chapter] or under any other law, contract, or agreement for the operation, maintenance, or decontamination of any facility or property at the Center or for any wastes at the Center. Nothing in this Act shall be construed as affecting any applicable licensing requirement of the Atomic Energy Act of 1954 or the Energy Reorganization Act of 1974 [section 5801 et seq. of this title]. This Act shall not apply or be extended to any facility or property at the Center which is not used in conducting the project. This Act may not be construed to expand or diminish the rights of the Federal Government. “(b) This Act does not authorize the Federal Government to acquire title to any high level radioactive waste at the Center or to the Center or any portion thereof. “Sec. 6. For purposes of this Act:“(1) The term ‘Secretary’ means the Secretary of Energy. “(2) The term ‘Commission’ means the Nuclear Regulatory Commission. “(3) The term ‘State’ means the State of New York. “(4) The term ‘high level radioactive waste’ means the high level radioactive waste which was produced by the reprocessing at the Center of spent nuclear fuel. Such term includes both liquid wastes which are produced directly in reprocessing, dry solid material derived from such liquid waste, and such other material as the Commission designates as high level radioactive waste for purposes of protecting the public health and safety. “(5) The term ‘transuranic waste’ means material contaminated with elements which have an atomic number greater than 92, including neptunium, plutonium, americium, and curium, and which are in concentrations greater than 10 nanocuries per gram, or in such other concentrations as the Commission may prescribe to protect the public health and safety. “(6) The term ‘low level radioactive waste’ means radioactive waste not classified as high level radioactive waste, transuranic waste, or byproduct material as defined in section 11e. (2) of the Atomic Energy Act of 1954 [[section 2014(e)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2014/e/2&num=0&edition=prelim)]. “(7) The term ‘project’ means the project prescribed by section 2(a). “(8) The term ‘Center’ means the Western New York Service Center in West Valley, New York.”
+Pub. L. 96–368, Oct. 1, 1980, 94 Stat. 1347, as amended by Pub. L. 102–154, title I, Nov. 13, 1991, 105 Stat. 1000; Pub. L. 116–95, § 1(a), Dec. 20, 2019, 133 Stat. 3249, provided that: “Section 1. This Act may be cited as the ‘West Valley Demonstration Project Act’. “Sec. 2. (a) The Secretary shall carry out, in accordance with this Act, a high level radioactive waste management demonstration project at the Western New York Service Center in West Valley, New York, for the purpose of demonstrating solidification techniques which can be used for preparing high level radioactive waste for disposal. Under the project the Secretary shall carry out the following activities:“(1) The Secretary shall solidify, in a form suitable for transportation and disposal, the high level radioactive waste at the Center by vitrification or by such other technology which the Secretary determines to be the most effective for solidification. “(2) The Secretary shall develop containers suitable for the permanent disposal of the high level radioactive waste solidified at the Center. “(3) The Secretary shall, as soon as feasible, transport, in accordance with applicable provisions of law, the waste solidified at the Center to an appropriate Federal repository for permanent disposal. “(4) The Secretary shall, in accordance with applicable licensing requirements, dispose of low level radioactive waste and transuranic waste produced by the solidification of the high level radioactive waste under the project. “(5) The Secretary shall decontaminate and decommission—“(A) the tanks and other facilities of the Center in which the high level radioactive waste solidified under the project was stored, “(B) the facilities used in the solidification of the waste, and “(C) any material and hardware used in connection with the project, in accordance with such requirements as the Commission may prescribe. “(b) Before undertaking the project and during the fiscal year ending September 30, 1981, the Secretary shall carry out the following:“(1) The Secretary shall hold in the vicinity of the Center public hearings to inform the residents of the area in which the Center is located of the activities proposed to be undertaken under the project and to receive their comments on the project. “(2) The Secretary shall consider the various technologies available for the solidification and handling of high level radioactive waste taking into account the unique characteristics of such waste at the Center. “(3) The Secretary shall—“(A) undertake detailed engineering and cost estimates for the project, “(B) prepare a plan for the safe removal of the high level radioactive waste at the Center for the purposes of solidification and include in the plan provisions respecting the safe breaching of the tanks in which the waste is stored, operating equipment to accomplish the removal, and sluicing techniques, “(C) conduct appropriate safety analyses of the project, and “(D) prepare required environmental impact analyses of the project. “(4) The Secretary shall enter into a cooperative agreement with the State in accordance with the Federal Grant and Cooperative Agreement Act of 1977 [see section 6301 et seq. of Title 31, Money and Finance] under which the State will carry out the following:“(A) The State will make available to the Secretary the facilities of the Center and the high level radioactive waste at the Center which are necessary for the completion of the project. The facilities and the waste shall be made available without the transfer of title and for such period as may be required for completion of the project. “(B) The Secretary shall provide technical assistance in securing required license amendments. “(C) The State shall pay 10 per centum of the costs of the project, as determined by the Secretary. In determining the costs of the project, the Secretary shall consider the value of the use of the Center for the project. The State may not use Federal funds to pay its share of the cost of the proj­ect, but may use the perpetual care fund to pay such share. “(D) Submission jointly by the Department of Energy and the State of New York of an application for a licensing amendment as soon as possible with the Nuclear Regulatory Commission providing for the demonstration. “(c) Within one year from the date of the enactment of this Act [Oct. 1, 1980], the Secretary shall enter into an agreement with the Commission to establish arrangements for review and consultation by the Commission with respect to the project: Provided, That review and consultation by the Commission pursuant to this subsection shall be conducted informally by the Commission and shall not include nor require formal procedures or actions by the Commission pursuant to the Atomic Energy Act of 1954, as amended [this chapter], the Energy Reorganization Act of 1974, as amended [section 5801 et seq. of this title], or any other law. The agreement shall provide for the following:“(1) The Secretary shall submit to the Commission, for its review and comment, a plan for the solidification of the high level radioactive waste at the Center, the removal of the waste for purposes of its solidification, the preparation of the waste for disposal, and the decontamination of the facilities to be used in solidifying the waste. In preparing its comments on the plan, the Commission shall specify with precision its objections to any provision of the plan. Upon submission of a plan to the Commission, the Secretary shall publish a notice in the Federal Register of the submission of the plan and of its availability for public inspection, and, upon receipt of the comments of the Commission respecting a plan, the Secretary shall publish a notice in the Federal Register of the receipt of the comments and of the availability of the comments for public inspection. If the Secretary does not revise the plan to meet objections specified in the comments of the Commission, the Secretary shall publish in the Federal Register a detailed statement for not so revising the plan. “(2) The Secretary shall consult with the Commission with respect to the form in which the high level radioactive waste at the Center shall be solidified and the containers to be used in the permanent disposal of such waste. “(3) The Secretary shall submit to the Commission safety analysis reports and such other information as the Commission may require to identify any danger to the public health and safety which may be presented by the project. “(4) The Secretary shall afford the Commission access to the Center to enable the Commission to monitor the activities under the project for the purpose of assuring the public health and safety. “(d) In carrying out the project, the Secretary shall consult with the Administrator of the Environmental Protection Agency, the Secretary of Transportation, the Director of the United States Geological Survey, and the commercial operator of the Center. “Sec. 3. (a) There are authorized to be appropriated to the Secretary for the project not more than $75,000,000 for each of fiscal years 2020 through 2026. “(b) The total amount obligated for the project by the Secretary shall be 90 per centum of the costs of the project. “(c) The authority of the Secretary to enter into contracts under this Act shall be effective for any fiscal year only to such extent or in such amounts as are provided in advance by appropriation Acts. “Sec. 4. Not later than February 1, 1981, and on February 1 of each calendar year thereafter during the term of the project, the Secretary shall transmit to the Speaker of the House of Representatives and the President pro tempore of the Senate an up-to-date report containing a detailed description of the activities of the Secretary in carrying out the project, including agreements entered into and the costs incurred during the period reported on and the activities to be undertaken in the next fiscal year and the estimated costs thereof. “Sec. 5. (a) Other than the costs and responsibilities established by this Act for the project, nothing in this Act shall be construed as affecting any rights, obligations, or liabilities of the commercial operator of the Center, the State, or any person, as is appropriate, arising under the Atomic Energy Act of 1954 [this chapter] or under any other law, contract, or agreement for the operation, maintenance, or decontamination of any facility or property at the Center or for any wastes at the Center. Nothing in this Act shall be construed as affecting any applicable licensing requirement of the Atomic Energy Act of 1954 or the Energy Reorganization Act of 1974 [section 5801 et seq. of this title]. This Act shall not apply or be extended to any facility or property at the Center which is not used in conducting the project. This Act may not be construed to expand or diminish the rights of the Federal Government. “(b) This Act does not authorize the Federal Government to acquire title to any high level radioactive waste at the Center or to the Center or any portion thereof. “Sec. 6. For purposes of this Act:“(1) The term ‘Secretary’ means the Secretary of Energy. “(2) The term ‘Commission’ means the Nuclear Regulatory Commission. “(3) The term ‘State’ means the State of New York. “(4) The term ‘high level radioactive waste’ means the high level radioactive waste which was produced by the reprocessing at the Center of spent nuclear fuel. Such term includes both liquid wastes which are produced directly in reprocessing, dry solid material derived from such liquid waste, and such other material as the Commission designates as high level radioactive waste for purposes of protecting the public health and safety. “(5) The term ‘transuranic waste’ means material contaminated with elements which have an atomic number greater than 92, including neptunium, plutonium, americium, and curium, and which are in concentrations greater than 10 nanocuries per gram, or in such other concentrations as the Commission may prescribe to protect the public health and safety. “(6) The term ‘low level radioactive waste’ means radioactive waste not classified as high level radioactive waste, transuranic waste, or byproduct material as defined in section 11e. (2) of the Atomic Energy Act of 1954 [[section 2014(e)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2014/e/2&num=0&edition=prelim)]. “(7) The term ‘project’ means the project prescribed by section 2(a). “(8) The term ‘Center’ means the Western New York Service Center in West Valley, New York.”
 
 [For termination, effective May 15, 2000, of provisions of law requiring submittal to Congress of any annual, semiannual, or other regular periodic report listed in House Document No. 103–7 (in which a report required under section 4 of Pub. L. 96–368, set out above, is listed in item 1 on page 84), see section 3003 of Pub. L. 104–66, as amended, and section 1(a)(4) [div. A, § 1402(1)] of Pub. L. 106–554, set out as notes under [section 1113 of Title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1113&num=0&edition=prelim), Money and Finance.]
 
@@ -3161,6 +3161,9 @@ Amendment by Pub. L. 95–242 effective Mar. 10, 1978, except as otherwise provi
 
 #### Effective Date of 1974 Amendment
 Pub. L. 93–485, § 2, Oct. 26, 1974, 88 Stat. 1460, provided that: “This Act [amending this section] shall apply to proposed agreements for cooperation and to proposed amendments to agreements for cooperation hereafter [Oct. 26, 1974] submitted to the Congress.”
+
+#### Limitation on Production of Nuclear Proliferation Assessment Statements
+Pub. L. 116–92, div. A, title XII, § 1264, Dec. 20, 2019, 133 Stat. 1692, provided that: “(a) Limitation.—The Secretary of State may not provide to the President, and the President may not submit to Congress, a Nuclear Proliferation Assessment Statement described in subsection a. of section 123 of the Atomic Energy Act of 1954 ([42 U.S.C. 2153](./chapter-023-development-and-control-of-atomic-energy.md#section-2153)) with respect to a proposed cooperation agreement with any country that has not signed and implemented an Additional Protocol with the International Atomic Energy Agency, other than a country with which, as of June 19, 2019, there is in effect a civilian nuclear cooperation agreement pursuant to such section 123. “(b) Waiver.—The limitation under subsection (a) shall be waived with respect to a particular country beginning on the date that is 90 days after the date on which the President submits to the appropriate congressional committees a report describing the manner in which such agreement would advance the national security and defense interests of the United States and not contribute to the proliferation of nuclear weapons. “(c) Form.—The report described in subsection (b) shall be submitted in unclassified form but may include a classified annex. “(d) Appropriate Congressional Committees Defined.—In this section, the term ‘appropriate congressional committees’ means—“(1) the Committee on Armed Services and the Committee on Foreign Relations of the Senate; and “(2) the Committee on Armed Services and the Committee on Foreign Affairs of the House of Representatives.”
 
 #### Support for United States-Republic of Korea Civil Nuclear Cooperation
 Pub. L. 113–81, Feb. 12, 2014, 128 Stat. 1007, provided that: “SECTION 1. SHORT TITLE.“This Act may be cited as the ‘Support for United States-Republic of Korea Civil Nuclear Cooperation Act’. “SEC. 2. FINDINGS.“Congress makes the following findings:“(1) In the 60th year of the alliance, the relationship between the United States and the Republic of Korea could not be stronger. It is based on mutual sacrifice, mutual respect, shared interests, and shared responsibility to promote peace and security in the Asia-Pacific region and throughout the world. “(2) North Korea’s nuclear weapons programs, including uranium enrichment and plutonium reprocessing technologies, undermine security on the Korean Peninsula. The United States and the Republic of Korea have a shared interest in preventing further proliferation, including through the implementation of the 2005 Joint Statement of the Six-Party Talks. “(3) Both the United States and Republic of Korea have a shared objective in strengthening the Treaty on the Non-Proliferation of Nuclear Weapons, done at London, Moscow, and Washington July 1, 1968, and a political and a commercial interest in working collaboratively to address challenges to their respective peaceful civil nuclear programs. “(4) The nuclear energy agreement referred to in section 3 is scheduled to expire on March 19, 2014. In order to maintain healthy and uninterrupted cooperation in this area between the two countries while a new agreement is being negotiated, Congress should authorize the President to extend the duration of the current agreement until March 19, 2016. “SEC. 3. EXTENSION OF NUCLEAR ENERGY AGREEMENT WITH THE REPUBLIC OF KOREA.“Notwithstanding section 123 of the Atomic Energy Act of 1954 ([42 U.S.C. 2153](./chapter-023-development-and-control-of-atomic-energy.md#section-2153)), the President is authorized to take such actions as may be required to extend the term of the Agreement for Cooperation between the Government of the United States of America and the Government of the Republic of Korea Concerning Civil Uses of Atomic Energy, done at Washington November 24, 1972 (24 UST 775; TIAS 7583), and amended on May 15, 1974 (25 UST 1102; TIAS 7842), to a date that is not later than March 19, 2016. “SEC. 4. REPORT TO CONGRESS ON PROGRESS OF NEGOTIATIONS BETWEEN THE UNITED STATES AND REPUBLIC OF KOREA.“Not later than 180 days after the date of the enactment of this Act [Feb. 12, 2014], and every 180 days thereafter until a new Agreement for Cooperation between the Government of the United States of America and the Government of the Republic of Korea Concerning Civil Uses of Nuclear Energy is submitted to Congress, the President shall provide to the Committee on Foreign Relations and the Committee on Appropriations of the Senate and the Committee on Foreign Affairs and the Committee on Appropriations of the House of Representatives a report on the progress of negotiations on a new civil nuclear cooperation agreement.”
@@ -6443,124 +6446,18 @@ A prior section 2212, Pub. L. 98–525, title XVI, § 1631, Oct. 19, 1984, 98 St
 Section, Pub. L. 99–272, title VII, § 7601, Apr. 7, 1986, 100 Stat. 146; Pub. L. 100–203, title V, § 5601, Dec. 22, 1987, 101 Stat. 1330–275; Pub. L. 101–239, title III, § 3201, Dec. 19, 1989, 103 Stat. 2132; Pub. L. 101–508, title VI, § 6101(e), Nov. 5, 1990, 104 Stat. 1388–299, related to assessment and collection of annual charges from Nuclear Regulatory Commission licensees.
 
 #### Effective Date of Repeal
-Repeal effective Oct. 1, 2006, see section 637(c) of Pub. L. 109–58, set out as an Effective Date of 2005 Amendment note under [section 2214 of this title](./chapter-023-development-and-control-of-atomic-energy.md#section-2214).
+Pub. L. 109–58, title VI, § 637(c), Aug. 8, 2005, 119 Stat. 791, provided that: “The amendments made by this section [amending [section 2214 of this title](./chapter-023-development-and-control-of-atomic-energy.md#section-2214) and repealing this section] take effect on October 1, 2006.”
 
 
 <a id="section-2214"></a>
-## § 2214. NRC user fees and annual charges
-**(a) Annual assessment**
-
-(1) **In general** — The Nuclear Regulatory Commission (in this section referred to as the “Commission”) shall annually assess and collect such fees and charges as are described in subsections (b) and (c).
-
-(2) **First assessment** — The first assessment of fees under subsection (b) and annual charges under subsection (c) shall be made not later than September 30, 1991.
-
-**(b) Fees for service or thing of value** Pursuant to [section 9701 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section9701&num=0&edition=prelim), any person who receives a service or thing of value from the Commission shall pay fees to cover the Commission’s costs in providing any such service or thing of value.
-
-**(c) Annual charges**
-
-(1) **Persons subject to charge** — Except as provided in paragraph (4), any licensee or certificate holder of the Commission may be required to pay, in addition to the fees set forth in subsection (b), an annual charge.
-
-(2) **Aggregate amount of charges**
-
-  (A) *In general* — The aggregate amount of the annual charges collected from all licensees and certificate holders in a fiscal year shall equal an amount that approximates the percentages of the budget authority of the Commission for the fiscal year stated in subparagraph (B), less—
-
-    (i) amounts collected under subsection (b) during the fiscal year;
-
-    (ii) amounts appropriated to the Commission from the Nuclear Waste Fund for the fiscal year;
-
-    (iii) amounts appropriated to the Commission for the fiscal year for implementation of section 3116 of the Ronald W. Reagan National Defense Authorization Act for Fiscal Year 2005;
-
-    (iv) amounts appropriated to the Commission for homeland security activities of the Commission for the fiscal year, except for the costs of fingerprinting and background checks required by [section 2169 of this title](./chapter-023-development-and-control-of-atomic-energy.md#section-2169) and the costs of conducting security inspections; and
-
-    (v) amounts appropriated to the Commission for the fiscal year for activities related to the development of regulatory infrastructure for advanced nuclear reactor technologies, including activities required under section 103 11 See References in Text note below. of the Nuclear Energy Innovation and Modernization Act.
-
-  (B) *Percentages* — The percentages referred to in subparagraph (A) are—
-
-    (i) 98 percent for fiscal year 2001;
-
-    (ii) 96 percent for fiscal year 2002;
-
-    (iii) 94 percent for fiscal year 2003;
-
-    (iv) 92 percent for fiscal year 2004; and
-
-    (v) 90 percent for fiscal year 2005 and each fiscal year thereafter.
-
-(3) **Amount per licensee** — The Commission shall establish, by rule, a schedule of charges fairly and equitably allocating the aggregate amount of charges described in paragraph (2) among licensees. To the maximum extent practicable, the charges shall have a reasonable relationship to the cost of providing regulatory services and may be based on the allocation of the Commission’s resources among licensees or classes of licensees.
-
-(4) **Exemption**
-
-  (A) *In general* — Paragraph (1) shall not apply to the holder of any license for a federally owned research reactor used primarily for educational training and academic research purposes.
-
-  (B) *Research reactor* — For purposes of subparagraph (A), the term “research reactor” means a nuclear reactor that—
-
-    (i) is licensed by the Nuclear Regulatory Commission under [section 2134(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2134/c&num=0&edition=prelim) for operation at a thermal power level of 10 megawatts or less; and
-
-    (ii) if so licensed for operation at a thermal power level of more than 1 megawatt, does not contain—
-
-      (I) a circulating loop through the core in which the licensee conducts fuel experiments;
-
-      (II) a liquid fuel loading; or
-
-      (III) an experimental facility in the core in excess of 16 square inches in cross-section.
-
-**(d) “Nuclear Waste Fund” defined** As used in this section, the term “Nuclear Waste Fund” means the fund established pursuant to [section 10222(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section10222/c&num=0&edition=prelim).
+## § 2214. Repealed. Pub. L. 115–439, title I, § 101(b), Jan. 14, 2019, 132 Stat. 5568
 
 ### Statutory Notes
 
-#### Repeal of Section
-Pub. L. 115–439, title I, § 101(b), Jan. 14, 2019, 132 Stat. 5568, provided that, effective Oct. 1, 2020, this section is repealed.
-
-#### References in Text
-Section 3116 of the Ronald W. Reagan National Defense Authorization Act for Fiscal Year 2005, referred to in subsec. (c)(2)(A)(iii), is section 3116 of Pub. L. 108–375, which is set out as a note under [section 2602 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section2602&num=0&edition=prelim), War and National Defense.
-
-Section 103 of the Nuclear Energy Innovation and Modernization Act, referred to in subsec. (c)(2)(A)(v), is section 103 of Pub. L. 115–439, title I, Jan. 14, 2019, 132 Stat. 5571. Subsec. (a) of section 103 of Pub. L. 115–439 enacted provisions set out as a note under [section 2133 of this title](./chapter-023-development-and-control-of-atomic-energy.md#section-2133). Subsecs. (b) to (e) of section 103 of Pub. L. 115–439 are not classified to the Code.
-
-#### Codification
-Section is comprised of section 6101 of Pub. L. 101–508. Subsec. (e) of section 6101 of Pub. L. 101–508 amended former [section 2213 of this title](./chapter-023-development-and-control-of-atomic-energy.md#section-2213).
-
-Section was enacted as part of the Omnibus Budget Reconciliation Act of 1990, and not as part of the Atomic Energy Act of 1954 which comprises this chapter.
-
-#### Amendments
-2019—Subsec. (c)(2)(A)(v). Pub. L. 115–439 added cl. (v).
-
-2005—Subsec. (a)(1). Pub. L. 109–58, § 637(a)(1)(A), substituted “The” for “Except as provided in paragraph (3), the”.
-
-Subsec. (a)(3). Pub. L. 109–58, § 637(a)(1)(B), struck out heading and text of par. (3). Text read as follows: “The last assessment of annual charges under subsection (c) of this section shall be made not later than September 20, 2005.”
-
-Subsec. (c)(2)(A)(iii), (iv). Pub. L. 109–58, § 637(a)(2)(A)–(C), added cls. (iii) and (iv).
-
-Subsec. (c)(2)(B)(v). Pub. L. 109–58, § 637(a)(2)(D), amended cl. (v) generally. Prior to amendment, cl. (v) read as follows: “90 percent for fiscal year 2005 and fiscal year 2006.”
-
-Pub. L. 109–103 inserted “and fiscal year 2006” before period at end.
-
-2000—Subsec. (a)(3). Pub. L. 106–377, § 1(a)(2) [title VIII], which directed substitution of “September 20, 2005” for “September 30, 1999”, was executed by making the substitution for “September 30, 2000” to reflect the probable intent of Congress and the amendment by Pub. L. 106–60, § 604. See 1999 Amendment note below.
-
-Subsec. (c)(1). Pub. L. 106–377, § 1(a)(2) [title VIII], inserted “or certificate holder” after “licensee”.
-
-Subsec. (c)(2). Pub. L. 106–377, § 1(a)(2) [title VIII], added par. (2) and struck out heading and text of former par. (2). Text read as follows: “The aggregate amount of the annual charge collected from all licensees shall equal an amount that approximates 100 percent of the budget authority of the Commission in the fiscal year in which such charge is collected, less any amount appropriated to the Commission from the Nuclear Waste Fund and the amount of fees collected under subsection (b) of this section in such fiscal year.”
-
-1999—Subsec. (a)(3). Pub. L. 106–60 substituted “September 30, 2000” for “September 30, 1999”.
-
-1998—Subsec. (a)(3). Pub. L. 105–245 substituted “September 30, 1999” for “September 30, 1998”.
-
-1993—Subsec. (a)(3). Pub. L. 103–66 substituted “September 30, 1998” for “September 30, 1995”.
-
-1992—Subsec. (c)(1). Pub. L. 102–486, § 2903(a)(1), substituted “Except as provided in paragraph (4), any licensee” for “Any licensee”.
-
-Subsec. (c)(4). Pub. L. 102–486, § 2903(a)(2), added par. (4).
+Section, Pub. L. 101–508, title VI, § 6101, Nov. 5, 1990, 104 Stat. 1388–298; Pub. L. 102–486, title XXIX, § 2903(a), Oct. 24, 1992, 106 Stat. 3125; Pub. L. 103–66, title VII, § 7001, Aug. 10, 1993, 107 Stat. 401; Pub. L. 105–245, title V, § 505, Oct. 7, 1998, 112 Stat. 1856; Pub. L. 106–60, title VI, § 604, Sept. 29, 1999, 113 Stat. 501; Pub. L. 106–377, § 1(a)(2) [title VIII], Oct. 27, 2000, 114 Stat. 1441, 1441A–86; Pub. L. 109–58, title VI, § 637(a), Aug. 8, 2005, 119 Stat. 791; Pub. L. 109–103, title IV, Nov. 19, 2005, 119 Stat. 2283; Pub. L. 115–439, title I, § 101(a), Jan. 14, 2019, 132 Stat. 5567, related to NRC user fees and annual charges. See [section 2215 of this title](./chapter-023-development-and-control-of-atomic-energy.md#section-2215).
 
 #### Effective Date of Repeal
 Pub. L. 115–439, title I, § 101(b), Jan. 14, 2019, 132 Stat. 5568, provided that: “Effective October 1, 2020, section 6101 of the Omnibus Budget Reconciliation Act of 1990 ([42 U.S.C. 2214](./chapter-023-development-and-control-of-atomic-energy.md#section-2214)) is repealed.”
-
-#### Effective Date of 2005 Amendment
-Pub. L. 109–58, title VI, § 637(c), Aug. 8, 2005, 119 Stat. 791, provided that: “The amendments made by this section [amending this section and repealing [section 2213 of this title](./chapter-023-development-and-control-of-atomic-energy.md#section-2213)] take effect on October 1, 2006.”
-
-#### Effective Date of 1992 Amendment
-Pub. L. 102–486, title XXIX, § 2903(b), Oct. 24, 1992, 106 Stat. 3125, provided that: “The amendments made [by] subsection (a) [amending this section] shall apply to annual charges assessed under section 6101(c) of the Omnibus Budget Reconciliation Act of 1990 [[42 U.S.C. 2214(c)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2214/c&num=0&edition=prelim)] for fiscal year 1992 or any succeeding fiscal year.”
-
-#### Policy Review
-Pub. L. 102–486, title XXIX, § 2903(c), Oct. 24, 1992, 106 Stat. 3125, provided that: “The Nuclear Regulatory Commission shall review its policy for assessment of annual charges under section 6101(c) of the Omnibus Budget Reconciliation Act of 1990 [[42 U.S.C. 2214(c)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2214/c&num=0&edition=prelim)], solicit public comment on the need for changes to such policy, and recommend to the Congress such changes in existing law as the Commission finds are needed to prevent the placement of an unfair burden on certain licensees of the Commission, in particular those that hold licenses to operate federally owned research reactors used primarily for educational training and academic research purposes.”
 
 
 <a id="section-2215"></a>
@@ -7404,8 +7301,8 @@ Provisions similar to this section were contained in [section 1816(d) of this ti
 
 
 <a id="section-2282a"></a>
-## § 2282a. Civil monetary penalties for violation of Department of Energy safety regulations
-**(a) Persons subject to penalty** Any person who has entered into an agreement of indemnification under [section 2210(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2210/d&num=0&edition=prelim) (or any subcontractor or supplier thereto) who violates (or whose employee violates) any applicable rule, regulation or order related to nuclear safety prescribed or issued by the Secretary of Energy pursuant to this chapter (or expressly incorporated by reference by the Secretary for purposes of nuclear safety, except any rule, regulation, or order issued by the Secretary of Transportation) shall be subject to a civil penalty of not to exceed $100,000 for each such violation. If any violation under this subsection is a continuing one, each day of such violation shall constitute a separate violation for the purpose of computing the applicable civil penalty.
+## § 2282a. Civil monetary penalties for violation of Department of Energy safety and whistleblower regulations
+**(a) Persons subject to penalty** Any person who has entered into an agreement of indemnification under [section 2210(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2210/d&num=0&edition=prelim) (or any subcontractor or supplier thereto) who violates (or whose employee violates) any applicable rule, regulation or order related to nuclear safety prescribed or issued by the Secretary of Energy pursuant to this chapter (or expressly incorporated by reference by the Secretary for purposes of nuclear safety, except any rule, regulation, or order issued by the Secretary of Transportation), or who violates any applicable law, rule, regulation, or order related to nuclear safety whistleblower protections, shall be subject to a civil penalty of not to exceed $100,000 for each such violation. If any violation under this subsection is a continuing one, each day of such violation shall constitute a separate violation for the purpose of computing the applicable civil penalty. The Secretary of Energy may carry out this section with respect to the National Nuclear Security Administration by acting through the Administrator for Nuclear Security.
 
 **(b) Determination of amount**
 
@@ -7437,7 +7334,7 @@ Provisions similar to this section were contained in [section 1816(d) of this ti
 
 (1) Notwithstanding subsection (a), in the case of any not-for-profit contractor, subcontractor, or supplier, the total amount of civil penalties paid under subsection (a) may not exceed the total amount of fees paid within any 1-year period (as determined by the Secretary) under the contract under which the violation occurs.
 
-(2) For purposes of this section, the term “not-for-profit” means that no part of the net earnings of the contractor, subcontractor, or supplier inures to the benefit of any natural person or for-profit artificial person.
+(2) For purposes of this section, the term “not-for-profit” means that no part of the net earnings of the contractor, subcontractor, or supplier inures to the benefit of any natural person or for-profit artificial person.e 11 So in original. Probably should be “(e)”. Nuclear safety whistleblower protections In this section, the term “nuclear safety whistleblower protections” means the protections for employees of contractors or subcontractors from reprisals pursuant to [section 4712 of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section4712&num=0&edition=prelim), [section 5851 of this title](./chapter-073-development-of-energy-sources.md#section-5851), or other provisions of Federal law (including rules, regulations, or orders) affording such protections, with respect to disclosures or other activities covered by such protections that relate to nuclear safety.
 
 ### Statutory Notes
 
@@ -7445,6 +7342,12 @@ Provisions similar to this section were contained in [section 1816(d) of this ti
 This chapter, referred to in subsec. (a), was in the original “this Act”, meaning act Aug. 1, 1946, ch. 724, as added by act Aug. 30, 1954, ch. 1073, § 1, 68 Stat. 919, known as the Atomic Energy Act of 1954, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 2011 of this title](./chapter-023-development-and-control-of-atomic-energy.md#section-2011) and Tables.
 
 #### Amendments
+2019—Pub. L. 116–92, § 3131(1), inserted “and whistleblower” after “safety” in section catchline.
+
+Subsec. (a). Pub. L. 116–92, § 3131(2), inserted “, or who violates any applicable law, rule, regulation, or order related to nuclear safety whistleblower protections,” before “shall be subject to a civil penalty” and inserted at end “The Secretary of Energy may carry out this section with respect to the National Nuclear Security Administration by acting through the Administrator for Nuclear Security.”
+
+Subsec. (e). Pub. L. 116–92, § 3131(3), added subsec. (e).
+
 2005—Subsec. (b)(2). Pub. L. 109–58, § 610(a), struck out at end “In implementing this section, the Secretary shall determine by rule whether nonprofit educational institutions should receive automatic remission of any penalty under this section.”
 
 Subsec. (d). Pub. L. 109–58, § 610(b), amended subsec. (d) generally. Prior to amendment, subsec. (d) provided that the provisions of this section would not apply to the University of Chicago for activities associated with Argonne National Laboratory; the University of California for activities associated with Los Alamos National Laboratory, Lawrence Livermore National Laboratory, and Lawrence Berkeley National Laboratory; American Telephone and Telegraph Company and its subsidiaries for activities associated with Sandia National Laboratories; Universities Research Association, Inc. for activities associated with FERMI National Laboratory; Princeton University for activities associated with Princeton Plasma Physics Laboratory; the Associated Universities, Inc. for activities associated with the Brookhaven National Laboratory; and Battelle Memorial Institute for activities associated with Pacific Northwest Laboratory.
@@ -7606,11 +7509,13 @@ Subsec. (b). Pub. L. 107–56, §§ 810(f)(1), (3), 811(h)(2), struck out “or 
 
 (3) No member of the Board may be an employee of, or have any significant financial relationship with, the Department of Energy or any contractor of the Department of Energy.
 
+(4) The President shall enter into an arrangement with the National Academy of Sciences under which the National Academy shall maintain a list of individuals who meet the qualifications described in paragraph (1) to assist the President in selecting individuals to nominate for positions as members of the Board.
+
 **(c) Chairman, Vice Chairman, and Members**
 
 (1) The President shall designate a Chairman and Vice Chairman of the Board from among members of the Board.
 
-(2) In accordance with paragraphs (5), (6), and (7), the Chairman shall be the chief executive officer of the Board and, subject to such policies as the Board may establish, shall exercise the functions of the Board with respect to—
+(2) In accordance with paragraphs (5) and (6), the Chairman shall be the chief executive officer of the Board and, subject to such policies as the Board may establish, shall exercise the functions of the Board with respect to—
 
   (A) the appointment and supervision of employees of the Board;
 
@@ -7618,7 +7523,25 @@ Subsec. (b). Pub. L. 107–56, §§ 810(f)(1), (3), 811(h)(2), struck out “or 
 
   (C) the use and expenditure of funds.
 
-(3) The Chairman may delegate any of the functions under this paragraph to any other member or to any appropriate officer of the Board.
+(3)
+
+  (A) The Chairman may delegate any of the functions under this paragraph to any other member or to any appropriate officer of the Board.
+
+  (B) In carrying out subparagraph (A), the Chairman shall delegate to the Executive Director of Operations established under [section 2286b(b)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2286b/b/3&num=0&edition=prelim) the following functions:
+
+    (i) Administrative functions of the Board.
+
+    (ii) Appointment and supervision of employees of the Board not specified under paragraph (6).
+
+    (iii) Distribution of business among the employees and administrative units and offices of the Board.
+
+    (iv) Preparation of—
+
+      (I) proposals for the reorganization of the administrative units or offices of the Board;
+
+      (II) the budget estimate for the Board; and
+
+      (III) the proposed distribution of funds according to purposes approved by the Board.
 
 (4) The Vice Chairman shall act as Chairman in the event of the absence or incapacity of the Chairman or in case of a vacancy in the office of Chairman.
 
@@ -7630,21 +7553,17 @@ Subsec. (b). Pub. L. 107–56, §§ 810(f)(1), (3), 811(h)(2), struck out “or 
 
   (C) have one vote.
 
-(6) In carrying out paragraph (5)(B), the Chairman may not withhold from any member of the Board any information that is made available to the Chairman regarding the Board’s functions, powers, and mission (including with respect to the management and evaluation of employees of the Board).
+(6)
 
-(7)
+  (A) The Chairman, subject to the approval of the Board, shall appoint the senior employees described in subparagraph (C). Any member of the Board may propose to the Chairman an individual to be so appointed.
 
-  (A) The Chairman, subject to the approval of the Board, shall appoint the senior employees described in subparagraph (C).
-
-  (B) The Chairman, subject to the approval of the Board, may remove a senior employee described in subparagraph (C).
+  (B) The Chairman, subject to the approval of the Board, may remove a senior employee described in subparagraph (C). Any member of the Board may propose to the Chairman an individual to be so removed.
 
   (C) The senior employees described in this subparagraph are the following senior employees of the Board:
 
-    (i) The senior employee responsible for budgetary and general administration matters.
+    (i) The Executive Director of Operations established under [section 2286b(b)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2286b/b/3&num=0&edition=prelim).
 
     (ii) The general counsel.
-
-    (iii) The senior employee responsible for technical matters.
 
 **(d) Terms**
 
@@ -7665,11 +7584,72 @@ Subsec. (b). Pub. L. 107–56, §§ 810(f)(1), (3), 811(h)(2), struck out “or 
 
 (3) Any member appointed to fill a vacancy occurring before the expiration of the term of office for which such member’s predecessor was appointed shall be appointed only for the remainder of such term. A member may serve after the expiration of that member’s term until a successor has taken office.
 
+(4)
+
+  (A) Not later than 180 days after the expiration of the term of a member of the Board, the President shall—
+
+    (i) submit to the Senate the nomination of an individual to fill the vacancy; or
+
+    (ii) submit to the Committee on Armed Services of the Senate a report that includes—
+
+      (I) a description of the reasons the President did not submit such a nomination; and
+
+      (II) a plan for submitting such a nomination during the 90-day period following the submission of the report.
+
+  (B) If the President does not submit to the Senate the nomination of an individual to fill a vacancy during the 90-day period described in subclause (II) of subparagraph (A)(ii), the President shall submit to the Committee on Armed Services a report described in that subparagraph not less frequently than every 90 days until the President submits such a nomination.
+
 **(e) Quorum** Three members of the Board shall constitute a quorum, but a lesser number may hold hearings.
 
 ### Statutory Notes
 
+#### Amendment of Subsection (d)
+Pub. L. 116–92, div. C, title XXXII, § 3203(b), Dec. 20, 2019, 133 Stat. 1966, provided that, effective on the date that is one year after Dec. 20, 2019, subsection (d) of this section is amended:
+
+(1) in paragraph (1), by striking the second sentence and inserting the following new sentences: “A member may be reappointed for a second term only if the member was confirmed by the Senate more than two years into the member’s first term. A member may not be reappointed for a third term.”; and
+
+(2) in paragraph (3)—
+
+(A) by striking “Any member” and inserting “(A) Any member”;
+
+(B) by striking the second sentence; and
+
+(C) by adding at the end the following new subparagraph:
+
+(B) A member may not serve after the expiration of the member’s term, unless the departure of the member would result in the loss of a quorum for the Board. If more than one member is serving after the expiration of the member’s term and a new member is appointed to the Board so that one of the members serving after the expiration of the member’s term is no longer necessary to maintain a quorum, the member whose term expired first may no longer serve on the Board.
+
+See 2019 Amendment notes below.
+
 #### Amendments
+2019—Subsec. (b)(4). Pub. L. 116–92, § 3203(a), added par. (4).
+
+Subsec. (c)(2). Pub. L. 116–92, § 3202(a)(2)(A), substituted “paragraphs (5) and (6)” for “paragraphs (5), (6), and (7)”.
+
+Subsec. (c)(3). Pub. L. 116–92, § 3202(a)(1)(B), designated existing provisions as subpar. (A) and added subpar. (B).
+
+Subsec. (c)(6). Pub. L. 116–92, § 3202(a)(3), amended par. (6) generally. Prior to amendment, par. (6) read as follows:
+
+“(6)(A) The Chairman, subject to the approval of the Board, shall appoint the senior employees described in subparagraph (C).
+
+“(B) The Chairman, subject to the approval of the Board, may remove a senior employee described in subparagraph (C).
+
+“(C) The senior employees described in this subparagraph are the following senior employees of the Board:
+
+“(i) The senior employee responsible for budgetary and general administration matters.
+
+“(ii) The general counsel.
+
+“(iii) The senior employee responsible for technical matters.”
+
+Pub. L. 116–92, § 3202(a)(2)(B), (C), redesignated par. (7) as (6) and struck out former par. (6) which read as follows: “In carrying out paragraph (5)(B), the Chairman may not withhold from any member of the Board any information that is made available to the Chairman regarding the Board’s functions, powers, and mission (including with respect to the management and evaluation of employees of the Board).”
+
+Subsec. (c)(7). Pub. L. 116–92, § 3202(a)(2)(C), redesignated par. (7) as (6).
+
+Subsec. (d)(1). Pub. L. 116–92, § 3203(b)(1)(A), substituted “A member may be reappointed for a second term only if the member was confirmed by the Senate more than two years into the member’s first term. A member may not be reappointed for a third term.” for “Members of the Board may be reappointed.”
+
+Subsec. (d)(3). Pub. L. 116–92, § 3203(b)(1)(B), designated existing provisions as subpar. (A), struck out at end “A member may serve after the expiration of that member’s term until a successor has taken office.”, and added subpar. (B).
+
+Subsec. (d)(4). Pub. L. 116–92, § 3203(c), added par. (4).
+
 2015—Subsec. (c)(2). Pub. L. 114–92, § 3202(a)(1), substituted “paragraphs (5), (6), and (7)” for “paragraph (5)” in introductory provisions.
 
 Subsec. (c)(6). Pub. L. 114–92, § 3202(a)(2), added par. (6).
@@ -7684,6 +7664,9 @@ Subsec. (c)(2). Pub. L. 112–239, § 3202(a)(2)(B), substituted “In accordanc
 
 Subsec. (c)(5). Pub. L. 112–239, § 3202(a)(2)(C), added par. (5).
 
+#### Effective Date of 2019 Amendment
+Pub. L. 116–92, div. C, title XXXII, § 3203(b)(2), Dec. 20, 2019, 133 Stat. 1966, provided that: “The amendments made by paragraph (1) [amending this section] shall take effect on the date that is one year after the date of the enactment of this Act [Dec. 20, 2019].”
+
 #### Construction of Section 3202 of Pub. L. 112–239; Safety Standards
 Pub. L. 112–239, div. C, title XXXII, § 3202(h), Jan. 2, 2013, 126 Stat. 2220, provided that: “Nothing in this section [enacting [section 2286k of this title](./chapter-023-development-and-control-of-atomic-energy.md#section-2286k) and amending this section and sections 2286a, 2286b, 2286d, 2286e, and 2286h–1 of this title] or in the amendments made by this section shall be construed to cause a reduction in nuclear safety standards.”
 
@@ -7693,7 +7676,7 @@ Pub. L. 105–85, div. C, title XXXII, § 3202, Nov. 18, 1997, 111 Stat. 2054, p
 
 <a id="section-2286a"></a>
 ## § 2286a. Mission and functions of Board
-**(a) Mission** The mission of the Board shall be to provide independent analysis, advice, and recommendations to the Secretary of Energy to inform the Secretary, in the role of the Secretary as operator and regulator of the defense nuclear facilities of the Department of Energy, in providing adequate protection of public health and safety at such defense nuclear facilities.
+**(a) Mission** The mission of the Board shall be to provide independent analysis, advice, and recommendations to the Secretary of Energy to inform the Secretary, in the role of the Secretary as operator and regulator of the defense nuclear facilities of the Department of Energy, in providing adequate protection of public health and safety at such defense nuclear facilities, including with respect to the health and safety of employees and contractors at such facilities.
 
 **(b) Functions** The Board shall perform the following functions:
 
@@ -7724,6 +7707,8 @@ Pub. L. 105–85, div. C, title XXXII, § 3202, Nov. 18, 1997, 111 Stat. 2054, p
 ### Statutory Notes
 
 #### Amendments
+2019—Subsec. (a). Pub. L. 116–92 inserted “, including with respect to the health and safety of employees and contractors at such facilities” before period at end.
+
 2013—Pub. L. 112–239, § 3202(b)(1)(A), substituted “Mission and functions” for “Functions” in section catchline.
 
 Subsec. (a). Pub. L. 112–239, § 3202(b)(1)(C), added subsec. (a). Former subsec. (a) redesignated (b).
@@ -7759,11 +7744,27 @@ Subsec. (c). Pub. L. 112–239, § 3202(b)(1)(B), redesignated subsec. (b) as (c
 
 (1) The Board may, for the purpose of performing its responsibilities under this subchapter—
 
-  (A) in accordance with [section 2286(c)(7) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2286/c/7&num=0&edition=prelim), hire such staff as it considers necessary to perform the functions of the Board, including such scientific and technical personnel as the Board may determine necessary, but not more than the equivalent of 130 full-time employees; and
+  (A) in accordance with [section 2286(c)(6) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2286/c/6&num=0&edition=prelim), hire such staff as it considers necessary to perform the functions of the Board, including such scientific and technical personnel as the Board may determine necessary, but not more than the equivalent of 130 full-time employees; and
 
   (B) procure the temporary and intermittent services of experts and consultants to the extent authorized by [section 3109(b) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section3109/b&num=0&edition=prelim) at rates the Board determines to be reasonable.
 
 (2) The authority and requirements provided in [section 2201(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2201/d&num=0&edition=prelim) with respect to officers and employees of the Commission shall apply with respect to scientific and technical personnel hired under paragraph (1)(A).
+
+(3)
+
+  (A) The Board shall have an Executive Director of Operations who shall be appointed under [section 2286(c)(6) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2286/c/6&num=0&edition=prelim).
+
+  (B) The Executive Director of Operations shall report to the Chairman.
+
+  (C) The Executive Director of Operations shall be the senior employee of the Board responsible for—
+
+    (i) general administration and technical matters;
+
+    (ii) ensuring that the members of the Board are fully and currently informed with respect to matters for which the members are responsible; and
+
+    (iii) the functions delegated by the Chairman pursuant to [section 2286(c)(3)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2286/c/3/B&num=0&edition=prelim).
+
+(4) Subject to the approval of the Board, the Chairman may organize the staff of the Board as the Chairman considers appropriate to best accomplish the mission of the Board described in [section 2286a(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2286a/a&num=0&edition=prelim).
 
 **(c) Regulations** The Board may prescribe regulations to carry out the responsibilities of the Board under this subchapter.
 
@@ -7785,12 +7786,52 @@ Subsec. (c). Pub. L. 112–239, § 3202(b)(1)(B), redesignated subsec. (b) as (c
 
 (2) suggestions for specific measures to improve the content of standards described in [section 2286a(b)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2286a/b/1&num=0&edition=prelim), the implementation of such standards, or research relating to such standards at Department of Energy defense nuclear facilities.
 
+**(k) Nonpublic collaborative discussions**
+
+(1) **In general** — Notwithstanding [section 552b of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section552b&num=0&edition=prelim), a quorum of the members of the Board may hold a meeting that is not open to public observation to discuss official business of the Board if—
+
+  (A) no formal or informal vote or other official action is taken at the meeting;
+
+  (B) each individual present at the meeting is a member or an employee of the Board;
+
+  (C) at least one member of the Board from each political party is present at the meeting, unless all members of the Board are of the same political party at the time of the meeting; and
+
+  (D) the general counsel of the Board, or a designee of the general counsel, is present at the meeting.
+
+(2) **Disclosure of nonpublic collaborative discussions**
+
+  (A) *In general* — Except as provided by subparagraph (B), not later than two business days after the conclusion of a meeting described in paragraph (1), the Board shall make available to the public, in a place easily accessible to the public—
+
+    (i) a list of the individuals present at the meeting; and
+
+    (ii) a summary of the matters, including key issues, discussed at the meeting, except for any matter the Board properly determines may be withheld from the public under [section 552b(c) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section552b/c&num=0&edition=prelim).
+
+  (B) *Information about matters withheld from public* — If the Board properly determines under subparagraph (A)(ii) that a matter may be withheld from the public under [section 552b(c) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section552b/c&num=0&edition=prelim), the Board shall include in the summary required by that subparagraph as much general information as possible with respect to the matter.
+
+(3) **Rules of construction** — Nothing in this subsection may be construed—
+
+  (A) to limit the applicability of [section 552b of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section552b&num=0&edition=prelim) with respect to—
+
+    (i) a meeting of the members of the Board other than a meeting described in paragraph (1); or
+
+    (ii) any information that is proposed to be withheld from the public under paragraph (2)(A)(ii); or
+
+  (B) to authorize the Board to withhold from any individual any record that is accessible to that individual under [section 552a of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section552a&num=0&edition=prelim).
+
 ### Statutory Notes
 
 #### References in Text
 The Federal Rules of Civil Procedure, referred to in subsec. (a)(2)(D), are set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
 
 #### Amendments
+2021—Subsec. (k). Pub. L. 116–283 added subsec. (k).
+
+2019—Subsec. (b)(1)(A). Pub. L. 116–92, § 3202(a)(4)(A), substituted “section 2286(c)(6)” for “section 2286(c)(7)”.
+
+Subsec. (b)(3). Pub. L. 116–92, § 3202(a)(1)(A), added par. (3).
+
+Subsec. (b)(4). Pub. L. 116–92, § 3202(a)(4)(B), added par. (4).
+
 2015—Subsec. (b)(1)(A). Pub. L. 114–92 substituted “in accordance with [section 2286(c)(7) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2286/c/7&num=0&edition=prelim), hire” for “hire”.
 
 2014—Subsec. (b)(1)(A). Pub. L. 113–291 substituted “130 full-time employees” for “150 full-time employees”.
@@ -7809,13 +7850,40 @@ Pub. L. 113–291, div. C, title XXXII, § 3203(b), Dec. 19, 2014, 128 Stat. 390
 
 <a id="section-2286c"></a>
 ## § 2286c. Responsibilities of Secretary of Energy
-**(a) Cooperation** The Secretary of Energy shall fully cooperate with the Board and provide the Board with ready access to such facilities, personnel, and information as the Board considers necessary to carry out its responsibilities under this subchapter. Each contractor operating a Department of Energy defense nuclear facility under a contract awarded by the Secretary shall, to the extent provided in such contract or otherwise with the contractor’s consent, fully cooperate with the Board and provide the Board with ready access to such facilities, personnel, and information of the contractor as the Board considers necessary to carry out its responsibilities under this subchapter.
+**(a) Cooperation** Except as specifically provided by this section, the Secretary of Energy shall fully cooperate with the Board and provide the Board with prompt and unfettered access to such facilities, personnel, and information as the Board considers necessary to carry out its responsibilities under this subchapter. Each contractor operating a Department of Energy defense nuclear facility under a contract awarded by the Secretary shall, to the extent provided in such contract or otherwise with the contractor’s consent, fully cooperate with the Board and provide the Board with prompt and unfettered access to such facilities, personnel, and information of the contractor as the Board considers necessary to carry out its responsibilities under this subchapter. The access provided to defense nuclear facilities, personnel, and information under this subsection shall be provided without regard to the hazard or risk category assigned to a facility by the Secretary.
 
-**(b) Access to information** The Secretary of Energy may deny access to information provided to the Board to any person who—
+**(b) Authority of Secretary to deny information**
 
-(1) has not been granted an appropriate security clearance or access authorization by the Secretary of Energy; or
+(1) The Secretary may deny access to information under subsection (a) only to any person who—
 
-(2) does not need such access in connection with the duties of such person.
+  (A) has not been granted an appropriate security clearance or access authorization by the Secretary; or
+
+  (B) does not need such access in connection with the duties of such person.
+
+(2) If the Board requests access to information under subsection (a) in written form, and the Secretary denies access to such information pursuant to paragraph (1)—
+
+  (A) the Secretary shall provide the Board notice of such denial in written form; and
+
+  (B) not later than January 1 and July 1 of each year beginning in 2020—
+
+    (i) the Board shall submit to the congressional defense committees a report identifying each request for access to information under subsection (a) submitted to the Secretary in written form during the preceding six-month period and denied by the Secretary; and
+
+    (ii) the Secretary shall submit to the congressional defense committees a report identifying—
+
+      (I) each such request denied by the Secretary during that period; and
+
+      (II) the reason for the denial.
+
+(3) In this subsection, the term “congressional defense committees” has the meaning given that term in [section 101(a) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section101/a&num=0&edition=prelim).
+
+**(c) Application of nondisclosure protections by Board** The Board may not publicly disclose information provided under this section if such information is otherwise protected from disclosure by law, including deliberative process information.
+
+### Statutory Notes
+
+#### Amendments
+2019—Subsec. (a). Pub. L. 116–92, § 3202(c)(1), substituted “Except as specifically provided by this section, the Secretary of Energy” for “The Secretary of Energy” and “prompt and unfettered access” for “ready access” in two places, and inserted at end “The access provided to defense nuclear facilities, personnel, and information under this subsection shall be provided without regard to the hazard or risk category assigned to a facility by the Secretary.”
+
+Subsecs. (b), (c). Pub. L. 116–92, § 3202(c)(2), added subsecs. (b) and (c) and struck out former subsec. (b), which authorized the Secretary of Energy to deny access to unauthorized persons to information provided to the Board.
 
 
 <a id="section-2286d"></a>
@@ -8299,7 +8367,7 @@ Section was enacted as part of the Energy Policy Act of 1992, and not as part of
 ## § 2296b. Overfeed program
 **(a) Uranium purchases** To the maximum extent permitted by sound business practice, the Corporation shall purchase uranium in accordance with subsection (b) and overfeed it into the enrichment process to reduce the amount of power required to produce the enriched uranium ordered by enrichment services customers, taking into account costs associated with depleted tailings.
 
-**(b) Use of domestic uranium** Uranium purchased by the Corporation for purposes of this section shall be of domestic origin and purchased from domestic uranium producers to the extent permitted under the multilateral trade agreements (as defined in [section 3501(4) of title 19](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section3501/4&num=0&edition=prelim)) and the North American Free Trade Agreement.
+**(b) Use of domestic uranium** Uranium purchased by the Corporation for purposes of this section shall be of domestic origin and purchased from domestic uranium producers to the extent permitted under the multilateral trade agreements (as defined in [section 3501(4) of title 19](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section3501/4&num=0&edition=prelim)) and the USMCA (as defined in [section 4502 of title 19](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section4502&num=0&edition=prelim)).
 
 ### Statutory Notes
 
@@ -8307,7 +8375,12 @@ Section was enacted as part of the Energy Policy Act of 1992, and not as part of
 Section was enacted as part of the Energy Policy Act of 1992, and not as part of the Atomic Energy Act of 1954 which comprises this chapter.
 
 #### Amendments
+2020—Subsec. (b). Pub. L. 116–260 substituted “USMCA (as defined in [section 4502 of title 19](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section4502&num=0&edition=prelim))” for “North American Free Trade Agreement”.
+
 1999—Subsec. (b). Pub. L. 106–36 substituted “multilateral trade agreements (as defined in [section 3501(4) of title 19](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section3501/4&num=0&edition=prelim)) and the North American Free Trade Agreement” for “General Agreement on Tariffs and Trade and the United States-Canada Free Trade Agreement”.
+
+#### Effective Date of 2020 Amendment
+Amendment by Pub. L. 116–260 effective July 1, 2020, see section 602(g) of div. O of Pub. L. 116–260, set out as a note under [section 2578b of Title 19](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section2578b&num=0&edition=prelim), Customs Duties.
 
 
 <a id="section-2296b-1"></a>
@@ -8394,7 +8467,7 @@ Section was enacted as part of the Energy Policy Act of 1992, and not as part of
 
 **(b) Report** Within 1 year after October 24, 1992, and annually thereafter, the Secretary shall report to the Congress on the progress of the Secretary in encouraging actions by State regulatory authorities pursuant to subsection (a). Such report shall include detailed information on programs initiated by the Secretary to encourage appropriate State regulatory action and recommendations, if any, on further action that could be taken by the Secretary, other Federal agencies, or the Congress in order to further the purposes of this part.
 
-**(c) Savings provision** This section may not be construed to authorize the Secretary to take any action in violation of the multilateral trade agreements (as defined in [section 3501(4) of title 19](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section3501/4&num=0&edition=prelim)) or the North American Free Trade Agreement.
+**(c) Savings provision** This section may not be construed to authorize the Secretary to take any action in violation of the multilateral trade agreements (as defined in [section 3501(4) of title 19](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section3501/4&num=0&edition=prelim)) or the USMCA (as defined in [section 4502 of title 19](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section4502&num=0&edition=prelim)).
 
 ### Statutory Notes
 
@@ -8402,7 +8475,12 @@ Section was enacted as part of the Energy Policy Act of 1992, and not as part of
 Section was enacted as part of the Energy Policy Act of 1992, and not as part of the Atomic Energy Act of 1954 which comprises this chapter.
 
 #### Amendments
+2020—Subsec. (c). Pub. L. 116–113 substituted “USMCA (as defined in [section 4502 of title 19](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section4502&num=0&edition=prelim))” for “North American Free Trade Agreement”.
+
 1999—Subsec. (c). Pub. L. 106–36 substituted “multilateral trade agreements (as defined in [section 3501(4) of title 19](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section3501/4&num=0&edition=prelim)) or the North American Free Trade Agreement” for “General Agreement on Tariffs and Trade or the United States-Canada Free Trade Agreement”.
+
+#### Effective Date of 2020 Amendment
+Pub. L. 116–113, title V, § 507(b), Jan. 29, 2020, 134 Stat. 78, provided that: “The amendment made by subsection (a) [amending this section] shall take effect on the date on which the USMCA enters into force [July 1, 2020].”
 
 
 <a id="section-2296b-7"></a>
@@ -8943,9 +9021,19 @@ For transfer of functions, personnel, assets, and liabilities of the United Stat
 
 (6) **Russian HEU Agreement** — The term “Russian HEU Agreement” has the meaning given that term in [section 2297h(11) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2297h/11&num=0&edition=prelim).
 
-(7) **Uranium-235** — The term “uranium-235” means the isotope 235U.
+(7) **Suspension Agreement** — The term “Suspension Agreement” has the meaning given that term in [section 2297h(13) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2297h/13&num=0&edition=prelim).
 
-**(b) Statement of policy** It is the policy of the United States to support the continued downblending of highly enriched uranium of weapons origin in the Russian Federation in order to protect the essential security interests of the United States with respect to the nonproliferation of nuclear weapons.
+(8) **Uranium-235** — The term “uranium-235” means the isotope 235U.
+
+**(b) Statement of policy** It is the policy of the United States—
+
+(1) to support the continued downblending of highly enriched uranium of weapons origin in the Russian Federation in order to protect the essential security interests of the United States with respect to the nonproliferation of nuclear weapons;
+
+(2) to reduce reliance on uranium imports in order to protect essential national security interests;
+
+(3) to revive and strengthen the supply chain for nuclear fuel produced and used in the United States; and
+
+(4) to expand production of nuclear fuel in the United States.
 
 **(c) Promotion of downblending of Russian highly enriched uranium**
 
@@ -8971,11 +9059,67 @@ For transfer of functions, personnel, assets, and liabilities of the United Stat
 
     (v) in calendar year 2018, 492,731 kilograms;
 
-    (vi) in calendar year 2019, 509,058 kilograms; and
+    (vi) in calendar year 2019, 509,058 kilograms;
 
-    (vii) in calendar year 2020, 514,754 kilograms.
+    (vii) in calendar year 2020, 514,754 kilograms;
 
-  (B) *Additional imports in exchange for a commitment to downblend an additional 300 metric tons of highly enriched uranium*
+    (viii) in calendar year 2021, 596,682 kilograms;
+
+    (ix) in calendar year 2022, 489,617 kilograms;
+
+    (x) in calendar year 2023, 578,877 kilograms;
+
+    (xi) in calendar year 2024, 476,536 kilograms;
+
+    (xii) in calendar year 2025, 470,376 kilograms;
+
+    (xiii) in calendar year 2026, 464,183 kilograms;
+
+    (xiv) in calendar year 2027, 459,083 kilograms;
+
+    (xv) in calendar year 2028, 344,312 kilograms;
+
+    (xvi) in calendar year 2029, 340,114 kilograms;
+
+    (xvii) in calendar year 2030, 332,141 kilograms;
+
+    (xviii) in calendar year 2031, 328,862 kilograms;
+
+    (xix) in calendar year 2032, 322,255 kilograms;
+
+    (xx) in calendar year 2033, 317,536 kilograms;
+
+    (xxi) in calendar year 2034, 298,088 kilograms;
+
+    (xxii) in calendar year 2035, 294,511 kilograms;
+
+    (xxiii) in calendar year 2036, 286,066 kilograms;
+
+    (xxiv) in calendar year 2037, 281,272 kilograms;
+
+    (xxv) in calendar year 2038, 277,124 kilograms;
+
+    (xxvi) in calendar year 2039, 277,124 kilograms; and
+
+    (xxvii) in calendar year 2040, 267,685 kilograms.
+
+  (B) *Administration*
+
+    (i) *In general* — The Secretary of Commerce shall administer the import limitations described in subparagraph (A) in accordance with the provisions of the Suspension Agreement, including—
+
+      (I) the limitations on sales of enriched uranium product and separative work units plus conversion, in amounts determined in accordance with Section IV.B.1 of the Suspension Agreement (as amended by the amendment published in the Federal Register on October 9, 2020 (85 Fed. Reg. 64112));
+
+      (II) the export limit allocations set forth in Appendix 5 of the Suspension Agreement (as so amended);
+
+      (III) the requirements for natural uranium returned feed associated with imports of low-enriched uranium, including pursuant to sales of enrichment, with or without conversion, from the Russian Federation, as set forth in Section IV.B.1 of the Suspension Agreement (as so amended);
+
+      (IV) any other provisions of the Suspension Agreement (as so amended); and
+
+      (V) any related administrative guidance issued by the Department of Commerce.
+
+    (ii) *Effect of termination of Suspension Agreement* — Clause (i) shall remain in effect if the Suspension Agreement is terminated.
+
+  (C) *Additional imports in exchange for a commitment to downblend an additional 300 metric tons of highly enriched uranium*
 
     (i) *In general* — In addition to the amount authorized to be imported under subparagraph (A) and except as provided in clause (ii), if the Russian Federation enters into a bilateral agreement with the United States under which the Russian Federation agrees to downblend an additional 300 metric tons of highly enriched uranium after the completion of the Russian HEU Agreement, 4 kilograms of low-enriched uranium, whether or not such low-enriched uranium is derived from highly enriched uranium of weapons origin and including low-enriched uranium obtained under contracts for separative work units, may be imported in a calendar year for every 1 kilogram of Russian highly enriched uranium of weapons origin that was downblended in the preceding calendar year, subject to the verification of the Secretary of Energy under paragraph (10).
 
@@ -8983,11 +9127,9 @@ For transfer of functions, personnel, assets, and liabilities of the United Stat
 
 (3) **Exceptions** — The import limitations described in paragraphs (1) and (2) shall not apply to low-enriched uranium produced in the Russian Federation that is imported into the United States—
 
-  (A) for use in the initial core of a new nuclear reactor;
+  (A) for use in the initial core of a new nuclear reactor; or
 
-  (B) for processing and to be certified for reexportation and not for consumption in the United States; or
-
-  (C) to be added to the inventory of the Department of Energy.
+  (B) for processing and to be certified for reexportation and not for consumption in the United States.
 
 (4) **Limited waiver authority**
 
@@ -9007,11 +9149,17 @@ For transfer of functions, personnel, assets, and liabilities of the United Stat
 
 (5) **Adjustments to import limitations**
 
-  (A) *In general* — The import limitations described in paragraph (2)(A) are based on the reference data in the 2005 Market Report on the Global Nuclear Fuel Market Supply and Demand 2005–2030 of the World Nuclear Association. In each of calendar years 2016 and 2019, the Secretary of Commerce shall review the projected demand for uranium for nuclear reactors in the United States and adjust the import limitations described in paragraph (2)(A) to account for changes in such demand in years after the year in which that report or a subsequent report is published.
+  (A) *In general* — The import limitations described in paragraph (2)(A) are based on the lower scenario data in the report of the World Nuclear Association entitled “The Nuclear Fuel Report: Global Scenarios for Demand and Supply Availability 2019–2040”. In each of calendar years 2023, 2029, and 2035, the Secretary of Commerce shall review the projected demand for uranium for nuclear reactors in the United States and adjust the import limitations described in paragraph (2)(A) to account for changes in such demand in years after the year in which that report or a subsequent report is published.
 
-  (B) *Incentive adjustment* — Beginning in the second calendar year after the calendar year of the completion of the Russian HEU Agreement, the Secretary of Energy shall increase or decrease the amount of low-enriched uranium that may be imported in a calendar year under paragraph (2)(B) (including the amount of low-enriched uranium that may be imported for each kilogram of highly enriched uranium downblended under paragraph (2)(B)(i)) by a percentage equal to the percentage increase or decrease, as the case may be, in the average amount of uranium loaded into nuclear power reactors in the United States in the most recent 3-calendar-year period for which data are available, as reported by the Energy Information Administration of the Department of Energy, compared to the average amount of uranium loaded into such reactors during the 3-calendar-year period beginning on January 1, 2011, as reported by the Energy Information Administration.
+  (B) *Report required* — Not later than one year after December 27, 2020, and every 3 years thereafter, the Secretary shall submit to Congress a report that includes—
 
-  (C) *Publication of adjustments* — As soon as practicable, but not later than July 31 of each calendar year, the Secretary of Energy shall publish in the Federal Register the amount of low-enriched uranium that may be imported in the current calendar year after the adjustments under subparagraph (B).
+    (i) a recommendation on the use of all publicly available data to ensure accurate forecasting by scenario data to comport to actual demand for low-enriched uranium for nuclear reactors in the United States; and
+
+    (ii) an identification of the steps to be taken to adjust the import limitations described in paragraph (2)(A) based on the most accurate scenario data.
+
+  (C) *Incentive adjustment* — Beginning in the second calendar year after the calendar year of the completion of the Russian HEU Agreement, the Secretary of Energy shall increase or decrease the amount of low-enriched uranium that may be imported in a calendar year under paragraph (2)(C) (including the amount of low-enriched uranium that may be imported for each kilogram of highly enriched uranium downblended under paragraph (2)(C)(i)) by a percentage equal to the percentage increase or decrease, as the case may be, in the average amount of uranium loaded into nuclear power reactors in the United States in the most recent 3-calendar-year period for which data are available, as reported by the Energy Information Administration of the Department of Energy, compared to the average amount of uranium loaded into such reactors during the 3-calendar-year period beginning on January 1, 2011, as reported by the Energy Information Administration.
+
+  (D) *Publication of adjustments* — As soon as practicable, but not later than July 31 of each calendar year, the Secretary of Energy shall publish in the Federal Register the amount of low-enriched uranium that may be imported in the current calendar year after the adjustments under subparagraph (C).
 
 (6) **Authority for additional adjustment** — In addition to the adjustment under paragraph (5)(A), the Secretary of Commerce may adjust the import limitations under paragraph (2)(A) for a calendar year if the Secretary—
 
@@ -9027,15 +9175,15 @@ For transfer of functions, personnel, assets, and liabilities of the United Stat
 
 (8) **Downblending of other highly enriched uranium**
 
-  (A) *In general* — The downblending of highly enriched uranium not of weapons origin may be counted for purposes of paragraph (2)(B), subject to verification under paragraph (10), if the Secretary of Energy determines that the highly enriched uranium to be downblended poses a risk to the national security of the United States.
+  (A) *In general* — The downblending of highly enriched uranium not of weapons origin may be counted for purposes of paragraph (2)(C), subject to verification under paragraph (10), if the Secretary of Energy determines that the highly enriched uranium to be downblended poses a risk to the national security of the United States.
 
-  (B) *Equivalent quantities of highly enriched uranium* — For purposes of determining the additional low-enriched uranium imports allowed under paragraph (2)(B), highly enriched uranium not of weapons origin downblended pursuant to subparagraph (A) shall count as downblended highly enriched uranium of weapons origin in amounts calculated as the quantity of highly enriched uranium containing 90 percent uranium-235 necessary to equal the total amount of uranium-235 contained in the highly enriched uranium not of weapons origin downblended pursuant to subparagraph (A).
+  (B) *Equivalent quantities of highly enriched uranium* — For purposes of determining the additional low-enriched uranium imports allowed under paragraph (2)(C), highly enriched uranium not of weapons origin downblended pursuant to subparagraph (A) shall count as downblended highly enriched uranium of weapons origin in amounts calculated as the quantity of highly enriched uranium containing 90 percent uranium-235 necessary to equal the total amount of uranium-235 contained in the highly enriched uranium not of weapons origin downblended pursuant to subparagraph (A).
 
-(9) **Termination of import restrictions** — The provisions of this subsection shall terminate on December 31, 2020.
+(9) **Termination of import restrictions** — The provisions of this subsection shall terminate on December 31, 2040.
 
 (10) **Technical verifications by Secretary of Energy**
 
-  (A) *In general* — The Secretary of Energy shall verify the origin, quantity, and uranium-235 content of the highly enriched uranium downblended for purposes of paragraphs (2)(B) and (8).
+  (A) *In general* — The Secretary of Energy shall verify the origin, quantity, and uranium-235 content of the highly enriched uranium downblended for purposes of paragraphs (2)(C) and (8).
 
   (B) *Methods of verification* — In conducting the verification required under subparagraph (A), the Secretary of Energy shall employ the transparency measures and access provisions agreed to under the Russian HEU Agreement for monitoring the downblending of Russian highly enriched uranium of weapons origin and such other methods as the Secretary determines appropriate.
 
@@ -9045,12 +9193,36 @@ For transfer of functions, personnel, assets, and liabilities of the United Stat
 
   (A) *Russian HEU Agreement* — Nothing in this section shall be construed to modify the terms of the Russian HEU Agreement, including the provisions of the Agreement relating to the amount of low-enriched uranium that may be imported into the United States.
 
-  (B) *Other agreements* — If a provision of any agreement between the United States and the Russian Federation, other than the Russian HEU Agreement, relating to the importation of low-enriched uranium, including low-enriched uranium obtained under contracts for separative work units, into the United States conflicts with a provision of this section, the provision of this section shall supersede the provision of the agreement to the extent of the conflict.
+  (B) *Other agreements* — If a provision of any agreement between the United States and the Russian Federation, other than the Russian HEU Agreement or the Suspension Agreement, relating to the importation of low-enriched uranium, including low-enriched uranium obtained under contracts for separative work units, into the United States conflicts with a provision of this section, the provision of this section shall supersede the provision of the agreement to the extent of the conflict.
 
 ### Statutory Notes
 
 #### Codification
 Section was enacted as part of the USEC Privatization Act and also as part of the Omnibus Consolidated Rescissions and Appropriations Act of 1996, and not as part of the Atomic Energy Act of 1954 which comprises this chapter.
+
+#### Amendments
+2020—Subsec. (a)(7), (8). Pub. L. 116–260, § 2007(a)(1), added par. (7) and redesignated former par. (7) as (8).
+
+Subsec. (b). Pub. L. 116–260, § 2007(a)(2), substituted “United States—” and “(1) to support” for “United States to support” and added pars. (2) to (4).
+
+Subsec. (c). Pub. L. 116–260, § 2007(a)(3)(F), substituted “(2)(C)” for “(2)(B)” wherever appearing.
+
+Subsec. (c)(2)(A)(viii) to (xxvi). Pub. L. 116–260, § 2007(a)(3)(A)(i), added cls. (viii) to (xxvi).
+
+Subsec. (c)(2)(B), (C). Pub. L. 116–260, § 2007(a)(3)(A)(ii), (iii), added subpar. (B) and redesignated former subpar. (B) as (C).
+
+Subsec. (c)(3)(C). Pub. L. 116–260, § 2007(a)(3)(B), struck out subpar. (C) which read as follows: “to be added to the inventory of the Department of Energy”.
+
+Subsec. (c)(5)(A). Pub. L. 116–260, § 2007(a)(3)(C)(i), substituted “lower scenario data in the report of the World Nuclear Association entitled ‘The Nuclear Fuel Report: Global Scenarios for Demand and Supply Availability 2019–2040’. In each of calendar years 2023, 2029, and 2035” for “reference data in the 2005 Market Report on the Global Nuclear Fuel Market Supply and Demand 2005–2030 of the World Nuclear Association. In each of calendar years 2016 and 2019”.
+
+Subsec. (c)(5)(B) to (D). Pub. L. 116–260, § 2007(a)(3)(C)(ii)–(iv), added subpar. (B), redesignated former subpars. (B) and (C) as (C) and (D), respectively, and, in subpar. (D), as redesignated, substituted “subparagraph (C)” for “subparagraph (B)”.
+
+Subsec. (c)(9). Pub. L. 116–260, § 2007(a)(3)(D), substituted “2040” for “2020”.
+
+Subsec. (c)(12)(B). Pub. L. 116–260, § 2007(a)(3)(E), inserted “or the Suspension Agreement” after “the Russian HEU Agreement”.
+
+#### Applicability
+Pub. L. 116–260, div. Z, title II, § 2007(b), Dec. 27, 2020, 134 Stat. 2474, provided that: “The amendments made by subsection (a) [amending this section] apply with respect to uranium imported from the Russian Federation on or after January 1, 2021.”
 
 
 <a id="section-2297h-10b"></a>

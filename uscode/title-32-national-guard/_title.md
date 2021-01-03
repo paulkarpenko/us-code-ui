@@ -1,7 +1,7 @@
 ---
 title: 32
 heading: NATIONAL GUARD
-positive_law: false
+positive_law: true
 sections: 75
 chapters: 5
 ---

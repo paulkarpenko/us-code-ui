@@ -2,7 +2,7 @@
 title: 52
 heading: VOTING AND ELECTIONS
 positive_law: false
-sections: 169
+sections: 170
 chapters: 10
 ---
 # Title 52. VOTING AND ELECTIONS

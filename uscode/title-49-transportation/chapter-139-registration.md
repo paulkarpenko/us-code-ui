@@ -203,6 +203,8 @@ Section effective Jan. 1, 1996, except as otherwise provided in Pub. L. 104–88
 
 (2) may not arrange transportation except as described in paragraph (1) unless the motor carrier has obtained a separate registration as a freight forwarder or broker for transportation under section 13903 or 13904, as applicable.
 
+**(j) Mexico-Domiciled Motor Carriers.—** Notwithstanding any other provision of this section, upon an order in accordance with section 324(a) of the United States-Mexico-Canada Agreement Implementation Act, the Secretary shall carry out the relief specified by denying or imposing limitations on a request for registration or capping the number of requests for registration by Mexico-domiciled motor carriers of cargo to operate beyond the municipalities along the United States-Mexico international border and the commercial zones of those municipalities as directed.
+
 ### Statutory Notes
 
 #### Pub. L. 104–287, § 5(32)(A)
@@ -225,10 +227,14 @@ Section 10102, referred to in subsec. (d)(2), was omitted and a new section 1010
 
 The date of enactment of the Unified Carrier Registration Act of 2005, referred to in subsec. (f)(3), is the date of enactment of subtitle C of title IV of Pub. L. 109–59, which was approved Aug. 10, 2005.
 
+Section 324(a) of the United States-Mexico-Canada Agreement Implementation Act, referred to in subsec. (j), is classified to [section 4574(a) of Title 19](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section4574/a&num=0&edition=prelim), Customs Duties.
+
 #### Prior Provisions
 Provisions similar to those in this section were contained in [section 10922 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section10922&num=0&edition=prelim) prior to the general amendment of this subtitle by Pub. L. 104–88, § 102(a).
 
 #### Amendments
+2020—Subsec. (j). Pub. L. 116–113 added subsec. (j).
+
 2015—Subsec. (i)(2). Pub. L. 114–94 inserted “except as” before “described”.
 
 2012—Subsec. (a)(1). Pub. L. 112–141, § 32915(1)(A), inserted “using self-propelled vehicles the motor carrier owns, rents, or leases” after “motor carrier” in introductory provisions.
@@ -641,6 +647,8 @@ Section effective Jan. 1, 1996, except as otherwise provided in Pub. L. 104–88
 
 (3) **Notice; period of suspension.—** — The Secretary may suspend or revoke under this subsection the registration only after giving notice of the suspension or revocation to the registrant. A suspension remains in effect until the registrant complies with the applicable sections or, in the case of a suspension under paragraph (2), until the Secretary revokes the suspension.
 
+**(g) Mexico-Domiciled Motor Carriers.—** Notwithstanding any other provision of this section, upon an order in accordance with section 324(a) of the United States-Mexico-Canada Agreement Implementation Act, the Secretary shall carry out the relief specified by revoking or imposing limitations on existing registrations of Mexico-domiciled motor carriers of cargo to operate beyond the municipalities along the United States-Mexico international border and the commercial zones of those municipalities as directed.
+
 ### Statutory Notes
 
 #### Pub. L. 104–287
@@ -654,7 +662,11 @@ The date of enactment of the Commercial Motor Vehicle Safety Enhancement Act of 
 
 The date of the enactment of this paragraph, referred to in subsec. (d)(4), is the date of enactment of Pub. L. 106–159, which was approved Dec. 9, 1999.
 
+Section 324(a) of the United States-Mexico-Canada Agreement Implementation Act, referred to in subsec. (g), is classified to [section 4574(a) of Title 19](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section4574/a&num=0&edition=prelim), Customs Duties.
+
 #### Amendments
+2020—Subsec. (g). Pub. L. 116–113 added subsec. (g).
+
 2015—Subsec. (d)(2)(D). Pub. L. 114–94 substituted “the Secretary finds that” for “the Secretary finds that—”, struck out cl. (i) designation before “the motor carrier,”, and inserted period at end.
 
 2012—Subsec. (c). Pub. L. 112–141, § 32917, amended subsec. (c) generally. Prior to amendment, text read as follows: “Except as otherwise provided in this part, each registration issued under section 13902, 13903, or 13904 shall be effective from the date specified by the Secretary and shall remain in effect for such period as the Secretary determines appropriate by regulation.”

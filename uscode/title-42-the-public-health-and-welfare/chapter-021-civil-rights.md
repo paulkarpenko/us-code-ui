@@ -1197,6 +1197,41 @@ Sec. 8. Judicial Review.
 
 William J. Clinton.
 
+#### Ex. Ord. No. 13899. Combating Anti-Semitism
+Ex. Ord. No. 13899, Dec. 11, 2019, 84 F.R. 68779, provided:
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered as follows:
+
+Section 1. Policy. My Administration is committed to combating the rise of anti-Semitism and anti-Semitic incidents in the United States and around the world. Anti-Semitic incidents have increased since 2013, and students, in particular, continue to face anti-Semitic harassment in schools and on university and college campuses.
+
+Title VI of the Civil Rights Act of 1964 (Title VI), [42 U.S.C. 2000d](./chapter-021-civil-rights.md#section-2000d) et seq., prohibits discrimination on the basis of race, color, and national origin in programs and activities receiving Federal financial assistance. While Title VI does not cover discrimination based on religion, individuals who face discrimination on the basis of race, color, or national origin do not lose protection under Title VI for also being a member of a group that shares common religious practices. Discrimination against Jews may give rise to a Title VI violation when the discrimination is based on an individual’s race, color, or national origin.
+
+It shall be the policy of the executive branch to enforce Title VI against prohibited forms of discrimination rooted in anti-Semitism as vigorously as against all other forms of discrimination prohibited by Title VI.
+
+Sec. 2. Ensuring Robust Enforcement of Title VI. (a) In enforcing Title VI, and identifying evidence of discrimination based on race, color, or national origin, all executive departments and agencies (agencies) charged with enforcing Title VI shall consider the following:
+
+(i) the non-legally binding working definition of anti-Semitism adopted on May 26, 2016, by the International Holocaust Remembrance Alliance (IHRA), which states, “Antisemitism is a certain perception of Jews, which may be expressed as hatred toward Jews. Rhetorical and physical manifestations of antisemitism are directed toward Jewish or non-Jewish individuals and/or their property, toward Jewish community institutions and religious facilities”; and
+
+(ii) the “Contemporary Examples of Anti-Semitism” identified by the IHRA, to the extent that any examples might be useful as evidence of discriminatory intent.
+
+(b) In considering the materials described in subsections (a)(i) and (a)(ii) of this section, agencies shall not diminish or infringe upon any right protected under Federal law or under the First Amendment. As with all other Title VI complaints, the inquiry into whether a particular act constitutes discrimination prohibited by Title VI will require a detailed analysis of the allegations.
+
+Sec. 3. Additional Authorities Prohibiting Anti-Semitic Discrimination. Within 120 days of the date of this order [Dec. 11, 2019], the head of each agency charged with enforcing Title VI shall submit a report to the President, through the Assistant to the President for Domestic Policy, identifying additional nondiscrimination authorities within its enforcement authority with respect to which the IHRA definition of anti-Semitism could be considered.
+
+Sec. 4. Rule of Construction. Nothing in this order shall be construed to alter the evidentiary requirements pursuant to which an agency makes a determination that conduct, including harassment, amounts to actionable discrimination, or to diminish or infringe upon the rights protected under any other provision of law.
+
+Sec. 5. General Provisions. (a) Nothing in this order shall be construed to impair or otherwise affect:
+
+(i) the authority granted by law to an executive department or agency, or the head thereof; or
+
+(ii) the functions of the Director of the Office of Management and Budget relating to budgetary, administrative, or legislative proposals.
+
+(b) This order shall be implemented consistent with applicable law and subject to the availability of appropriations.
+
+(c) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+
+Donald J. Trump.
+
 
 <a id="section-2000d-1"></a>
 ## § 2000d–1. Federal authority and financial assistance to programs or activities by way of grant, loan, or contract other than contract of insurance or guaranty; rules and regulations; approval by President; compliance with requirements; reports to Congressional committees; effective date of administrative action
@@ -1557,6 +1592,9 @@ Pub. L. 95–555, § 2, Oct. 31, 1978, 92 Stat. 2076, provided that: “(a) Exce
 #### Effective Date
 Pub. L. 88–352, title VII, § 716(a), (b), July 2, 1964, 78 Stat. 266, provided that: “(a) This title [enacting this section and sections 2000e–1, 2000e–4, 2000e–7 to 2000e–15 of this title, and amending sections 2204 and 2205(a)(45) of former Title 5, Executive Departments and Government Officers and Employees] shall become effective one year after the date of its enactment [July 2, 1964]. “(b) Notwithstanding subsection (a), sections of this title other than sections 703, 704, 706, and 707 [sections 2000e–2, 2000e–3, 2000e–5, and 2000e–6 of this title] shall become effective immediately [July 2, 1964].”
 
+#### Short Title of 1978 Amendment
+Pub. L. 95–555, Oct. 31, 1978, 92 Stat. 2076, which enacted subsec. (k) of this section and notes set out below, is popularly known as the “Pregnancy Discrimination Act”.
+
 #### Glass Ceiling
 Pub. L. 102–166, title II, Nov. 21, 1991, 105 Stat. 1081–1087, entitled the “Glass Ceiling Act of 1991”, established a Glass Ceiling Commission which was to submit to Congress, no later than 15 months after Nov. 21, 1991, study and recommendations concerning eliminating artificial barriers to advancement of women and minorities in the workplace and increasing opportunities and developmental experiences of women and minorities to foster advancement to management and decisionmaking positions in businesses, authorized creation of a National Award for Diversity and Excellence in American Executive Management which was to be awarded annually by the Commission to a qualified business concern which promoted more diverse skilled work force at management and decisionmaking levels in business, and further provided for composition of Commission, powers, staff and consultants, confidentiality of information, appropriations, and termination of Commission and authority to make awards 4 years after Nov. 21, 1991.
 
@@ -1566,7 +1604,7 @@ Pub. L. 95–555, § 3, Oct. 31, 1978, 92 Stat. 2076, provided that: “Until th
 #### Executive Order No. 11126
 Ex. Ord. No. 11126, Nov. 1, 1963, 28 F.R. 11717, as amended by Ex. Ord. No. 11221, May 6, 1965, 30 F.R. 6427; Ex. Ord. No. 12007, Aug. 22, 1977, 42 F.R. 42839, which related to the Interdepartmental Committee on the Status of Women and the Citizens’ Advisory Council on the Status of Women, was revoked by Ex. Ord. No. 12050, Apr. 4, 1978, 43 F.R. 14431, formerly set out below.
 
-#### Ex. Ord. No. 11246. Equal Opportunity in Federal Employment
+#### Ex. Ord. No. 11246. Equal Employment Opportunity
 Ex. Ord. No. 11246, Sept. 24, 1965, 30 F.R. 12319, as amended by Ex. Ord. No. 11375, Oct. 13, 1967, 32 F.R. 14303; Ex. Ord. No. 11478, Aug. 8, 1969, 34 F.R. 12985; Ex. Ord. No. 12086, Oct. 5, 1978, 43 F.R. 46501; Ex. Ord. No. 13279, § 4, Dec. 12, 2002, 67 F.R. 77143; Ex. Ord. No. 13665, § 2, Apr. 8, 2014, 79 F.R. 20749; Ex. Ord. No. 13672, § 2, July 21, 2014, 79 F.R. 42971, provided:
 
 Under and by virtue of the authority vested in me as President of the United States by the Constitution and statutes of the United States, it is ordered as follows:
@@ -2582,7 +2620,7 @@ Amendment by Pub. L. 111–2 effective as if enacted May 28, 2007, and applicabl
 Amendment by Pub. L. 105–220 effective Aug. 7, 1998, and applicable to and may be raised in any administrative or judicial claim or action brought before Aug. 7, 1998, but pending on such date, and any administrative or judicial claim or action brought after such date regardless of whether the claim or action arose prior to such date, if the claim or action was brought within the applicable statute of limitations, see section 341(d) of Pub. L. 105–220, formerly set out as a note under [section 633a of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section633a&num=0&edition=prelim), Labor.
 
 #### Effective Date of 1995 Amendment
-Amendment by Pub. L. 104–1 effective 1 year after Jan. 23, 1995, see [section 1311(d) of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1311/d&num=0&edition=prelim), The Congress.
+Amendment by Pub. L. 104–1 effective 1 year after Jan. 23, 1995, see [section 1311(e) of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1311/e&num=0&edition=prelim), The Congress.
 
 #### Effective Date of 1991 Amendment
 Amendment by Pub. L. 102–166 effective Nov. 21, 1991, except as otherwise provided, see section 402 of Pub. L. 102–166, set out as a note under [section 1981 of this title](./chapter-021-civil-rights.md#section-1981).

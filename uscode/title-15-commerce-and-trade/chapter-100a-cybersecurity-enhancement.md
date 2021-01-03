@@ -2,7 +2,7 @@
 title: 15
 chapter: 100A
 heading: CYBERSECURITY ENHANCEMENT
-section_count: 11
+section_count: 13
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15&num=0&edition=prelim
 ---
@@ -70,8 +70,8 @@ This chapter, referred to in text, was in the original “this Act”, meaning P
 Pub. L. 113–274, § 1(a), Dec. 18, 2014, 128 Stat. 2971, provided that: “This Act [enacting this chapter and amending sections 272, 278g–3, 7403, and 7406 of this title] may be cited as the ‘Cybersecurity Enhancement Act of 2014’.”
 
 
-<a id="section-7441"></a>
-## § 7441. No regulatory authority
+<a id="section-7432"></a>
+## § 7432. No regulatory authority
 
 Nothing in this chapter shall be construed to confer any regulatory authority on any Federal, State, tribal, or local department or agency.
 
@@ -81,8 +81,8 @@ Nothing in this chapter shall be construed to confer any regulatory authority on
 This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 113–274, Dec. 18, 2014, 128 Stat. 2971, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 7421 of this title](./chapter-100a-cybersecurity-enhancement.md#section-7421) and Tables.
 
 
-<a id="section-7442"></a>
-## § 7442. No additional funds authorized
+<a id="section-7441"></a>
+## § 7441. No additional funds authorized
 
 No additional funds are authorized to carry out this Act, and the amendments made by this Act. This Act, and the amendments made by this Act, shall be carried out using amounts otherwise authorized or appropriated.
 
@@ -92,8 +92,8 @@ No additional funds are authorized to carry out this Act, and the amendments mad
 This Act, and the amendments made by this Act, referred to in text, is Pub. L. 113–274, Dec. 18, 2014, 128 Stat. 2971, which enacted this chapter and amended sections 272, 278g–3, 7403, and 7406 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 7421 of this title](./chapter-100a-cybersecurity-enhancement.md#section-7421) and Tables.
 
 
-<a id="section-7451"></a>
-## § 7451. Federal cybersecurity research and development
+<a id="section-7442"></a>
+## § 7442. Federal cybersecurity research and development
 **(a) Fundamental cybersecurity research**
 
 (1) **Federal cybersecurity research and development strategic plan** — The heads of the applicable agencies and departments, working through the National Science and Technology Council and the Networking and Information Technology Research and Development Program, shall develop and update every 4 years a Federal cybersecurity research and development strategic plan (referred to in this subsection as the “strategic plan”) based on an assessment of cybersecurity risk to guide the overall direction of Federal cybersecurity and information assurance research and development for information technology and networking systems. The heads of the applicable agencies and departments shall build upon existing programs and plans to develop the strategic plan to meet objectives in cybersecurity, such as—
@@ -116,9 +116,11 @@ This Act, and the amendments made by this Act, referred to in text, is Pub. L. 1
 
   (I) how improved consumer education and digital literacy initiatives can address human factors that contribute to cybersecurity;
 
-  (J) how to protect information processed, transmitted, or stored using cloud computing or transmitted through wireless services; and
+  (J) how to protect information processed, transmitted, or stored using cloud computing or transmitted through wireless services;
 
-  (K) any additional objectives the heads of the applicable agencies and departments, in coordination with the head of any relevant Federal agency and with input from stakeholders, including appropriate national laboratories, industry, and academia, determine appropriate.
+  (K) implementation of [section 7432 of this title](./chapter-100a-cybersecurity-enhancement.md#section-7432) through research and development on the topics identified under subsection (a) of such section; and
+
+  (L) any additional objectives the heads of the applicable agencies and departments, in coordination with the head of any relevant Federal agency and with input from stakeholders, including appropriate national laboratories, industry, and academia, determine appropriate.
 
 (2) **Requirements**
 
@@ -213,11 +215,80 @@ This Act, and the amendments made by this Act, referred to in text, is Pub. L. 1
 Section is comprised of section 201 of Pub. L. 113–274. Subsec. (e) of section 201 of Pub. L. 113–274 amended [section 7403 of this title](./chapter-100-cyber-security-research-and-development.md#section-7403).
 
 #### Amendments
+2021—Subsec. (a)(1)(K), (L). Pub. L. 116–283 added subpar. (K) and redesignated former subpar. (K) as (L).
+
 2017—Subsec. (a)(4). Pub. L. 114–329 substituted “clauses (i) through (xi)” for “clauses (i) through (x)” and “under clause (xii)” for “under clause (xi)”.
 
 
-<a id="section-7461"></a>
-## § 7461. Cybersecurity competitions and challenges
+<a id="section-7443"></a>
+## § 7443. National cybersecurity challenges
+**(a) Establishment of national cybersecurity challenges**
+
+(1) **In general** — To achieve high-priority breakthroughs in cybersecurity by 2028, the Secretary of Commerce shall establish the following national cybersecurity challenges:
+
+  (A) *Economics of a cyber attack* — Building more resilient systems that measurably and exponentially raise adversary costs of carrying out common cyber attacks.
+
+  (B) *Cyber training*
+
+    (i) Empowering the people of the United States with an appropriate and measurably sufficient level of digital literacy to make safe and secure decisions online.
+
+    (ii) Developing a cybersecurity workforce with measurable skills to protect and maintain information systems.
+
+  (C) *Emerging technology* — Advancing cybersecurity efforts in response to emerging technology, such as artificial intelligence, quantum science, next generation communications, autonomy, data science, and computational technologies.
+
+  (D) *Reimagining digital identity* — Maintaining a high sense of usability while improving the privacy, security, and safety of online activity of individuals in the United States.
+
+  (E) *Federal agency resilience* — Reducing cybersecurity risks to Federal networks and systems, and improving the response of Federal agencies to cybersecurity incidents on such networks and systems.
+
+(2) **Coordination** — In establishing the challenges under paragraph (1), the Secretary shall coordinate with the Secretary of Homeland Security on the challenges under subparagraphs (B) and (E) of such paragraph.
+
+**(b) Pursuit of national cybersecurity challenges**
+
+(1) **In general** — Not later than 180 days after January 1, 2021, the Secretary, acting through the Under Secretary of Commerce for Standards and Technology, shall commence efforts to pursue the national cybersecurity challenges established under subsection (a).
+
+(2) **Competitions** — The efforts required by paragraph (1) shall include carrying out programs to award prizes, including cash and noncash prizes, competitively pursuant to the authorities and processes established under [section 3719 of this title](./chapter-063-technology-innovation.md#section-3719) or any other applicable provision of law.
+
+(3) **Additional authorities** — In carrying out paragraph (1), the Secretary may enter into and perform such other transactions as the Secretary considers necessary and on such terms as the Secretary considers appropriate.
+
+(4) **Coordination** — In pursuing national cybersecurity challenges under paragraph (1), the Secretary shall coordinate with the following:
+
+  (A) The Director of the National Science Foundation.
+
+  (B) The Secretary of Homeland Security.
+
+  (C) The Director of the Defense Advanced Research Projects Agency.
+
+  (D) The Director of the Office of Science and Technology Policy.
+
+  (E) The Director of the Office of Management and Budget.
+
+  (F) The Administrator of the General Services Administration.
+
+  (G) The Federal Trade Commission.
+
+  (H) The heads of such other Federal agencies as the Secretary of Commerce considers appropriate for purposes of this section.
+
+(5) **Solicitation of acceptance of funds**
+
+  (A) *In general* — Pursuant to [section 3719 of this title](./chapter-063-technology-innovation.md#section-3719), the Secretary shall request and accept funds from other Federal agencies, State, United States territory, local, or Tribal government agencies, private sector for-profit entities, and nonprofit entities to support efforts to pursue a national cybersecurity challenge under this section.
+
+  (B) *Rule of construction* — Nothing in subparagraph (A) may be construed to require any person or entity to provide funds or otherwise participate in an effort or competition under this section.
+
+**(c) Recommendations**
+
+(1) **In general** — In carrying out this section, the Secretary of Commerce shall designate an advisory council to seek recommendations.
+
+(2) **Elements** — The recommendations required by paragraph (1) shall include the following:
+
+  (A) A scope for efforts carried out under subsection (b).
+
+  (B) Metrics to assess submissions for prizes under competitions carried out under subsection (b) as the submissions pertain to the national cybersecurity challenges established under subsection (a).
+
+(3) **No additional compensation** — The Secretary may not provide any additional compensation, except for travel expenses, to a member of the advisory council designated under paragraph (1) for participation in the advisory council.
+
+
+<a id="section-7451"></a>
+## § 7451. Cybersecurity competitions and challenges
 **(a) In general** The Secretary of Commerce, Director of the National Science Foundation, and Secretary of Homeland Security, in consultation with the Director of the Office of Personnel Management, shall—
 
 (1) support competitions and challenges under [section 3719 of this title](./chapter-063-technology-innovation.md#section-3719) (as amended by section 105 of the America COMPETES Reauthorization Act of 2010 (124 Stat. 3989)) or any other provision of law, as appropriate—
@@ -284,19 +355,25 @@ Section is comprised of section 201 of Pub. L. 113–274. Subsec. (e) of section
 [Section 3719 of this title](./chapter-063-technology-innovation.md#section-3719) (as amended by section 105 of the America COMPETES Reauthorization Act of 2010 (124 Stat. 3989)), referred to in subsec. (a)(1), probably means [section 3719 of this title](./chapter-063-technology-innovation.md#section-3719) as enacted by section 105(a) of Pub. L. 111–358.
 
 
-<a id="section-7462"></a>
-## § 7462. Federal Cyber Scholarship-for-Service Program
+<a id="section-7461"></a>
+## § 7461. Federal Cyber Scholarship-for-Service Program
 **(a) In general** The Director of the National Science Foundation, in coordination with the Director of the Office of Personnel Management and Secretary of Homeland Security, shall continue a Federal cyber scholarship-for-service program to recruit and train the next generation of information technology professionals, industrial control system security professionals, and security managers to meet the needs of the cybersecurity mission for Federal, State, local, and tribal governments.
 
 **(b) Program description and components** The Federal Cyber Scholarship-for-Service Program shall—
 
 (1) provide scholarships through qualified institutions of higher education, including community colleges, to students who are enrolled in programs of study at institutions of higher education leading to degrees or specialized program certifications in the cybersecurity field;
 
-(2) provide the scholarship recipients with summer internship opportunities or other meaningful temporary appointments in the Federal information technology workforce;
+(2) provide the scholarship recipients with summer internship opportunities or other meaningful temporary appointments in the Federal information technology and cybersecurity workforce;
 
-(3) prioritize the employment placement of at least 80 percent of scholarship recipients in an executive agency (as defined in [section 105 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section105&num=0&edition=prelim)); and
+(3) prioritize the placement of scholarship recipients fulfilling the post-award employment obligation under this section to ensure that—
 
-(4) provide awards to improve cybersecurity education at the kindergarten through grade 12 level—
+  (A) not less than 70 percent of such recipients are placed in an executive agency (as defined in [section 105 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section105&num=0&edition=prelim));
+
+  (B) not more than 10 percent of such recipients are placed as educators in the field of cybersecurity at qualified institutions of higher education that provide scholarships under this section; and
+
+  (C) not more than 20 percent of such recipients are placed in positions described in paragraphs (2) through (5) of subsection (d); and
+
+(4) provide awards to improve cybersecurity education, including by seeking to provide awards in coordination with other relevant agencies for summer cybersecurity camp or other experiences, including teacher training, in each of the 50 States, at the kindergarten through grade 12 level—
 
   (A) to increase interest in cybersecurity careers;
 
@@ -316,9 +393,11 @@ Section is comprised of section 201 of Pub. L. 113–274. Subsec. (e) of section
 
 (3) an interstate agency;
 
-(4) a State, local, or Tribal government; or
+(4) a State, local, or Tribal government;
 
-(5) a State, local, or Tribal government-affiliated non-profit that is considered to be critical infrastructure (as defined in [section 5195c(e) of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5195c/e&num=0&edition=prelim)).
+(5) a State, local, or Tribal government-affiliated non-profit that is considered to be critical infrastructure (as defined in [section 5195c(e) of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5195c/e&num=0&edition=prelim)); or
+
+(6) as provided by subsection (b)(3)(B), a qualified institution of higher education.
 
 **(e) Hiring authority**
 
@@ -336,15 +415,19 @@ Section is comprised of section 201 of Pub. L. 113–274. Subsec. (e) of section
 
 (2) demonstrate a commitment to a career in improving the security of information technology;
 
-(3) have demonstrated a high level of competency in relevant knowledge, skills, and abilities, as defined by the national cybersecurity awareness and education program under [section 7451 of this title](./chapter-100a-cybersecurity-enhancement.md#section-7451);
+(3) have demonstrated a high level of competency in relevant knowledge, skills, and abilities, as defined by the national cybersecurity awareness and education program under [section 7443 of this title](./chapter-100a-cybersecurity-enhancement.md#section-7443);
 
-(4) be a full-time student in an eligible degree program at a qualified institution of higher education, as determined by the Director of the National Science Foundation, except that in the case of a student who is enrolled in a community college, be a student pursuing a degree on a less than full-time basis, but not less than half-time basis; and
+(4) be a full-time student in an eligible degree program at a qualified institution of higher education, as determined by the Director of the National Science Foundation, except that in the case of a student who is enrolled in a community college, be a student pursuing a degree on a less than full-time basis, but not less than half-time basis;
 
-(5) accept the terms of a scholarship under this section.
+(5) enter into an agreement accepting and acknowledging the post award employment obligations, pursuant to section 11 So in original. Probably should be “subsection”. (d);
+
+(6) accept and acknowledge the conditions of support under section 1 (g); and
+
+(7) accept all terms and conditions of a scholarship under this section.
 
 **(g) Conditions of support**
 
-(1) **In general** — As a condition of receiving a scholarship under this section, a recipient shall agree to provide the qualified institution of higher education with annual verifiable documentation of post-award employment and up-to-date contact information.
+(1) **In general** — As a condition of receiving a scholarship under this section, a recipient shall agree to provide the Office of Personnel Management (in coordination with the National Science Foundation) and the qualified institution of higher education with annual verifiable documentation of post-award employment and up-to-date contact information.
 
 (2) **Terms** — A scholarship recipient under this section shall be liable to the United States as provided in subsection (i) if the individual—
 
@@ -354,15 +437,17 @@ Section is comprised of section 201 of Pub. L. 113–274. Subsec. (e) of section
 
   (C) withdraws from the eligible degree program before completing the program;
 
-  (D) declares that the individual does not intend to fulfill the post-award employment obligation under this section; or
+  (D) declares that the individual does not intend to fulfill the post-award employment obligation under this section;
 
-  (E) fails to fulfill the post-award employment obligation of the individual under this section.
+  (E) fails to maintain or fulfill any of the post-graduation or post-award obligations or requirements of the individual; or
+
+  (F) fails to fulfill the requirements of paragraph (1).
 
 **(h) Monitoring compliance** As a condition of participating in the program, a qualified institution of higher education shall—
 
 (1) enter into an agreement with the Director of the National Science Foundation, to monitor the compliance of scholarship recipients with respect to their post-award employment obligations; and
 
-(2) provide to the Director of the National Science Foundation, on an annual basis, the post-award employment documentation required under subsection (g)(1) for scholarship recipients through the completion of their post-award employment obligations.
+(2) provide to the Director of the National Science Foundation and the Director of the Office of Personnel Management, on an annual basis, the post-award employment documentation required under subsection (g)(1) for scholarship recipients through the completion of their post-award employment obligations.
 
 **(i) Amount of repayment**
 
@@ -388,7 +473,7 @@ Section is comprised of section 201 of Pub. L. 113–274. Subsec. (e) of section
 
 (1) **In general** — In the event that a scholarship recipient is required to repay the scholarship award under this section, the qualified institution of higher education providing the scholarship shall—
 
-  (A) determine the repayment amounts and notify the recipient and the Director of the National Science Foundation of the amounts owed; and
+  (A) determine the repayment amounts and notify the recipient, the Director of the National Science Foundation, and the Director of the Office of Personnel Management of the amounts owed; and
 
   (B) collect the repayment amounts within a period of time as determined by the Director of the National Science Foundation, or the repayment amounts shall be treated as a loan in accordance with subsection (j).
 
@@ -400,7 +485,7 @@ Section is comprised of section 201 of Pub. L. 113–274. Subsec. (e) of section
 
 **(m) Public information**
 
-(1) **Evaluation** — The Director of the National Science Foundation, in coordination with the Director of the Office of Personnel Management, shall periodically evaluate and make public, in a manner that protects the personally identifiable information of scholarship recipients, information on the success of recruiting individuals for scholarships under this section and on hiring and retaining those individuals in the public sector cyber workforce, including information on—
+(1) **Evaluation** — The Director of the National Science Foundation, in coordination with the Director of the Office of Personnel Management, shall periodically evaluate and make public, in a manner that protects the personally identifiable information of scholarship recipients, information on the success of recruiting individuals for scholarships under this section and on hiring and retaining those individuals in the public sector cybersecurity workforce, including information on—
 
   (A) placement rates;
 
@@ -416,7 +501,13 @@ Section is comprised of section 201 of Pub. L. 113–274. Subsec. (e) of section
 
   (G) what, if any, remedial training is required.
 
-(2) **Reports** — The Director of the National Science Foundation, in coordination with the Office of Personnel Management, shall submit, not less frequently than once every 3 years, to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Science, Space, and Technology of the House of Representatives a report, including the results of the evaluation under paragraph (1) and any recent statistics regarding the size, composition, and educational requirements of the Federal cyber workforce.
+(2) **Reports** — The Director of the National Science Foundation, in coordination with the Office of Personnel Management, shall submit, not less frequently than once every two years, to the Committee on Commerce, Science, and Transportation and the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Science, Space, and Technology and the Committee on Oversight and Reform of the House of Representatives a report, including—
+
+  (A) the results of the evaluation under paragraph (1);
+
+  (B) the disparity in any reporting between scholarship recipients and their respective institutions of higher education; and
+
+  (C) any recent statistics regarding the size, composition, and educational requirements of the Federal cyber workforce..
 
 (3) **Resources** — The Director of the National Science Foundation, in coordination with the Director of the Office of Personnel Management, shall provide consolidated and user-friendly online resources for prospective scholarship recipients, including, to the extent practicable—
 
@@ -430,6 +521,32 @@ Section is comprised of section 201 of Pub. L. 113–274. Subsec. (e) of section
 The Higher Education Act of 1965, referred to in subsec. (j)(1), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219. Part D of title IV of the Act is classified to part D (§ 1087a et seq.) of subchapter IV of chapter 28 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under [section 1001 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1001&num=0&edition=prelim) and Tables.
 
 #### Amendments
+2021—Subsec. (b)(2). Pub. L. 116–283, § 9403(1)(A), substituted “information technology and cybersecurity” for “information technology”.
+
+Subsec. (b)(3). Pub. L. 116–283, § 9403(1)(B), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “prioritize the employment placement of at least 80 percent of scholarship recipients in an executive agency (as defined in [section 105 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section105&num=0&edition=prelim)); and”.
+
+Subsec. (b)(4). Pub. L. 116–283, § 9403(1)(C), inserted “, including by seeking to provide awards in coordination with other relevant agencies for summer cybersecurity camp or other experiences, including teacher training, in each of the 50 States,” after “cybersecurity education” in introductory provisions.
+
+Subsec. (d)(6). Pub. L. 116–283, § 9403(2), added par. (6).
+
+Subsec. (f)(3). Pub. L. 116–283, § 9401(g)(4)(C), substituted “under section 7443” for “under section 7451”.
+
+Subsec. (f)(5) to (7). Pub. L. 116–283, § 9404(1), added pars. (5) to (7) and struck out former par. (5) which read as follows: “accept the terms of a scholarship under this section.”.
+
+Subsec. (g)(1). Pub. L. 116–283, § 9404(2)(A), inserted “the Office of Personnel Management (in coordination with the National Science Foundation) and” before “the qualified institution”.
+
+Subsec. (g)(2)(E), (F). Pub. L. 116–283, § 9404(2)(B), added subpars. (E) and (F) and struck out former subpar. (E) which read as follows: “fails to fulfill the post-award employment obligation of the individual under this section.”
+
+Subsec. (h)(2). Pub. L. 116–283, § 9404(3), inserted “and the Director of the Office of Personnel Management” after “Foundation”.
+
+Subsec. (k)(1)(A). Pub. L. 116–283, § 9404(4), substituted “, the Director of the National Science Foundation, and the Director of the Office of Personnel Management of the amounts owed” for “and the Director of the National Science Foundation of the amounts owed”.
+
+Subsec. (m)(1). Pub. L. 116–283, § 9403(3)(A), substituted “cybersecurity” for “cyber” in introductory provisions.
+
+Subsec. (m)(2). Pub. L. 116–283, § 9404(5), substituted “once every two years, to the Committee on Commerce, Science, and Transportation and the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Science, Space, and Technology and the Committee on Oversight and Reform of the House of Representatives a report, including—” and subpars. (A) to (C) for “once every 3 years, to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Science, Space, and Technology of the House of Representatives a report, including the results of the evaluation under paragraph (1) and any recent statistics regarding the size, composition, and educational requirements of the Federal cybersecurity workforce”.
+
+Pub. L. 116–283, § 9403(3)(B), substituted “cybersecurity” for “cyber”.
+
 2017—Subsec. (b)(3), (4). Pub. L. 115–91, § 1649B(a)(1), added pars. (3) and (4) and struck out former par. (3) which read as follows: “prioritize the employment placement of scholarship recipients in the Federal Government.”
 
 Subsec. (d). Pub. L. 115–91, § 1649B(a)(2), amended subsec. (d) generally. Prior to amendment, text read as follows: “Each scholarship recipient, as a condition of receiving a scholarship under the program, shall enter into an agreement under which the recipient agrees to work in the cybersecurity mission of a Federal, State, local, or tribal agency for a period equal to the length of the scholarship following receipt of the student’s degree.”
@@ -447,8 +564,8 @@ Pub. L. 115–91, div. A, title XVI, § 1649B(b), Dec. 12, 2017, 131 Stat. 1755,
 Pub. L. 115–91, div. A, title XVI, § 1649A, Dec. 12, 2017, 131 Stat. 1753, provided that: “(a) Pilot Program.—Not later than 1 year after the date of enactment of this subtitle [Dec. 12, 2017], as part of the Federal Cyber Scholarship-for-Service program established under section 302 of the Cybersecurity Enhancement Act of 2014 ([15 U.S.C. 7442](./chapter-100a-cybersecurity-enhancement.md#section-7442)), the Director of the National Science Foundation, in coordination with the Director of the Office of Personnel Management, shall develop and implement a pilot program at not more than 10, but at least 5, community colleges to provide scholarships to eligible students who—“(1) are pursuing associate degrees or specialized program certifications in the field of cybersecurity; and “(2)(A) have bachelor’s degrees; or “(B) are veterans of the Armed Forces. “(b) Assessment.—Not later than 1 year after the date of enactment of this subtitle, as part of the Federal Cyber Scholarship-for-Service program established under section 302 of the Cybersecurity Enhancement Act of 2014 ([15 U.S.C. 7442](./chapter-100a-cybersecurity-enhancement.md#section-7442)), the Director of the National Science Foundation, in coordination with the Director of the Office of Personnel Management, shall assess the potential benefits and feasibility of providing scholarships through community colleges to eligible students who are pursuing associate degrees, but do not have bachelor’s degrees.”
 
 
-<a id="section-7463"></a>
-## § 7463. National cybersecurity awareness and education program
+<a id="section-7462"></a>
+## § 7462. National cybersecurity awareness and education program
 **(a) National cybersecurity awareness and education program** The Director of the National Institute of Standards and Technology (referred to in this section as the “Director”), in consultation with appropriate Federal agencies, industry, educational institutions, National Laboratories, the Networking and Information Technology Research and Development program, and other organizations shall continue to coordinate a national cybersecurity awareness and education program, that includes activities such as—
 
 (1) the widespread dissemination of cybersecurity technical standards and best practices identified by the Director;
@@ -463,15 +580,116 @@ Pub. L. 115–91, div. A, title XVI, § 1649A, Dec. 12, 2017, 131 Stat. 1753, pr
 
   (B) the methods to mitigate and remediate vulnerabilities;
 
-(5) supporting formal cybersecurity education programs at all education levels to prepare and improve a skilled cybersecurity and computer science workforce for the private sector and Federal, State, local, and tribal government; and
+(5) supporting formal cybersecurity education programs at all education levels to prepare and improve a skilled cybersecurity and computer science workforce for the private sector and Federal, State, local, and tribal government;
 
-(6) promoting initiatives to evaluate and forecast future cybersecurity workforce needs of the Federal Government and develop strategies for recruitment, training, and retention.
+(6) supporting efforts to identify cybersecurity workforce skill gaps in public and private sectors;
+
+(7) facilitating Federal programs to advance cybersecurity education, training, and workforce development;
+
+(8) in coordination with the Department of Defense, the Department of Homeland Security, and other appropriate agencies, considering any specific needs of the cybersecurity workforce of critical infrastructure, including cyber physical systems and control systems;
+
+(9) advising the Director of the Office of Management and Budget, as needed, in developing metrics to measure the effectiveness and effect of programs and initiatives to advance the cybersecurity workforce; and
+
+(10) promoting initiatives to evaluate and forecast future cybersecurity workforce needs of the Federal Government and develop strategies for recruitment, training, and retention.
 
 **(b) Considerations** In carrying out the authority described in subsection (a), the Director, in consultation with appropriate Federal agencies, shall leverage existing programs designed to inform the public of safety and security of products or services, including self-certifications and independently verified assessments regarding the quantification and valuation of information security risk.
 
-**(c) Strategic plan** The Director, in cooperation with relevant Federal agencies and other stakeholders, shall build upon programs and plans in effect as of December 18, 2014, to develop and implement a strategic plan to guide Federal programs and activities in support of the national cybersecurity awareness and education program under subsection (a).
+**(c) Strategic plan**
+
+(1) **In general** — The Director, in cooperation with relevant Federal agencies and other stakeholders, shall build upon programs and plans in effect as of December 18, 2014, to develop and implement a strategic plan to guide Federal programs and activities in support of the national cybersecurity awareness and education program under subsection (a).
+
+(2) **Requirement** — The strategic plan developed and implemented under paragraph (1) shall include an indication of how the Director will carry out this section.
 
 **(d) Report** Not later than 1 year after December 18, 2014, and every 5 years thereafter, the Director shall transmit the strategic plan under subsection (c) to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Science, Space, and Technology of the House of Representatives.
+
+**(e) Cybersecurity metrics** In carrying out subsection (a), the Director of the Office of Management and Budget may seek input from the Director of the National Institute of Standards and Technology, in coordination with the Department of Homeland Security, the Department of Defense, the Office of Personnel Management, and such agencies as the Director of the National Institute of Standards and Technology considers relevant, to develop quantifiable metrics for evaluating Federally funded cybersecurity workforce programs and initiatives based on the outcomes of such programs and initiatives.
+
+**(f) Regional alliances and multistakeholder partnerships**
+
+(1) **In general** — Pursuant to [section 272(b)(4) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section272/b/4&num=0&edition=prelim), the Director shall establish cooperative agreements between the National Initiative for Cybersecurity Education (NICE) of the Institute and regional alliances or partnerships for cybersecurity education and workforce.
+
+(2) **Agreements** — The cooperative agreements established under paragraph (1) shall advance the goals of the National Initiative for Cybersecurity Education Cybersecurity Workforce Framework (NIST Special Publication 800–181), or successor framework, by facilitating local and regional partnerships to—
+
+  (A) identify the workforce needs of the local economy and classify such workforce in accordance with such framework;
+
+  (B) identify the education, training, apprenticeship, and other opportunities available in the local economy; and
+
+  (C) support opportunities to meet the needs of the local economy.
+
+(3) **Financial assistance**
+
+  (A) *Financial assistance authorized* — The Director may award financial assistance to a regional alliance or partnership with whom the Director enters into a cooperative agreement under paragraph (1) in order to assist the regional alliance or partnership in carrying out the terms of the cooperative agreement.
+
+  (B) *Amount of assistance* — The aggregate amount of financial assistance awarded under subparagraph (A) per cooperative agreement shall not exceed $200,000.
+
+  (C) *Matching requirement* — The Director may not award financial assistance to a regional alliance or partnership under subparagraph (A) unless the regional alliance or partnership agrees that, with respect to the costs to be incurred by the regional alliance or partnership in carrying out the cooperative agreement for which the assistance was awarded, the regional alliance or partnership will make available (directly or through donations from public or private entities) non-Federal contributions, including in-kind contributions, in an amount equal to 50 percent of Federal funds provided under the award.
+
+(4) **Application**
+
+  (A) *In general* — A regional alliance or partnership seeking to enter into a cooperative agreement under paragraph (1) and receive financial assistance under paragraph (3) shall submit to the Director an application therefore at such time, in such manner, and containing such information as the Director may require.
+
+  (B) *Requirements* — Each application submitted under subparagraph (A) shall include the following:
+
+    (i)
+
+      (I) A plan to establish (or identification of, if it already exists) a multistakeholder workforce partnership that includes—
+
+        (aa) at least one institution of higher education or nonprofit training organization; and
+
+        (bb) at least one local employer or owner or operator of critical infrastructure.
+
+      (II) Participation from academic institutions in the Federal Cyber Scholarships for Service Program, the National Centers of Academic Excellence in Cybersecurity Program, or advanced technological education programs, as well as elementary and secondary schools, training and certification providers, State and local governments, economic development organizations, or other community organizations is encouraged.
+
+    (ii) A description of how the workforce partnership would identify the workforce needs of the local economy.
+
+    (iii) A description of how the multistakeholder workforce partnership would leverage the programs and objectives of the National Initiative for Cybersecurity Education, such as the Cybersecurity Workforce Framework and the strategic plan of such initiative.
+
+    (iv) A description of how employers in the community will be recruited to support internships, externships, apprenticeships, or cooperative education programs in conjunction with providers of education and training. Inclusion of programs that seek to include veterans, Indian Tribes, and underrepresented groups, including women, minorities, persons from rural and underserved areas, and persons with disabilities is encouraged.
+
+    (v) A definition of the metrics to be used in determining the success of the efforts of the regional alliance or partnership under the agreement.
+
+  (C) *Priority consideration* — In awarding financial assistance under paragraph (3)(A), the Director shall give priority consideration to a regional alliance or partnership that includes an institution of higher education that is designated as a National Center of Academic Excellence in Cybersecurity or which received an award under the Federal Cyber Scholarship for Service program located in the State or region of the regional alliance or partnership.
+
+(5) **Audits** — Each cooperative agreement for which financial assistance is awarded under paragraph (3) shall be subject to audit requirements under part 200 of title 2, Code of Federal Regulations (relating to uniform administrative requirements, cost principles, and audit requirements for Federal awards), or successor regulation.
+
+(6) **Reports**
+
+  (A) *In general* — Upon completion of a cooperative agreement under paragraph (1), the regional alliance or partnership that participated in the agreement shall submit to the Director a report on the activities of the regional alliance or partnership under the agreement, which may include training and education outcomes.
+
+  (B) *Contents* — Each report submitted under subparagraph (A) by a regional alliance or partnership shall include the following:
+
+    (i) An assessment of efforts made by the regional alliance or partnership to carry out paragraph (2).
+
+    (ii) The metrics used by the regional alliance or partnership to measure the success of the efforts of the regional alliance or partnership under the cooperative agreement.
+
+### Statutory Notes
+
+#### Codification
+Section was classified to [section 7451 of this title](./chapter-100a-cybersecurity-enhancement.md#section-7451) prior to amendment and renumbering by Pub. L. 116–283.
+
+#### Amendments
+2021—Subsec. (a)(6) to (10). Pub. L. 116–283, § 9401(a), added pars. (6) to (9) and redesignated former par. (6) as (10).
+
+Subsec. (c). Pub. L. 116–283, § 9401(b), designated existing provisions as par. (1), inserted heading, and added par. (2).
+
+Subsec. (e). Pub. L. 116–283, § 9401(e), added subsec. (e).
+
+Subsec. (f). Pub. L. 116–283, § 9401(f), added subsec. (f).
+
+#### Cybersecurity Career Pathways
+Pub. L. 116–283, div. H, title XCIV, § 9401(c), Jan. 1, 2021, 134 Stat. 4806, provided that: “(1) Identification of multiple cybersecurity career pathways.—In carrying out subsection (a) of such section [[15 U.S.C. 7451(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section7451/a&num=0&edition=prelim)] and not later than 540 days after the date of the enactment of this Act [Jan. 1, 2021], the Director of the National Institute of Standards and Technology shall, in coordination with the Secretary of Defense, the Secretary of Homeland Security, the Director of the Office of Personnel Management, and the heads of other appropriate agencies, use a consultative process with other Federal agencies, academia, and industry to identify multiple career pathways for cybersecurity work roles that can be used in the private and public sectors. “(2) Requirements.—The Director shall ensure that the multiple cybersecurity career pathways identified under paragraph (1) indicate the knowledge, skills, and abilities, including relevant education, training, internships, apprenticeships, certifications, and other experiences, that—“(A) align with employers’ cybersecurity skill needs, including proficiency level requirements, for its workforce; and “(B) prepare an individual to be successful in entering or advancing in a cybersecurity career. “(3) Exchange program.—Consistent with requirements under chapter 37 of title 5, United States Code, the Director of the National Institute of Standards and Technology, in coordination with the Director of the Office of Personnel Management, may establish a voluntary program for the exchange of employees engaged in one of the cybersecurity work roles identified in the National Initiative for Cybersecurity Education (NICE) Cybersecurity Workforce Framework (NIST Special Publication 800–181), or successor framework, between the National Institute of Standards and Technology and private sector institutions, including nonpublic or commercial businesses, research institutions, or institutions of higher education, as the Director of the National Institute of Standards and Technology considers feasible.”
+
+#### Proficiency to Perform Cybersecurity Tasks
+Pub. L. 116–283, div. H, title XCIV, § 9401(d), Jan. 1, 2021, 134 Stat. 4806, provided that: “Not later than 540 days after the date of the enactment of this Act [Jan. 1, 2021], the Director of the National Institute of Standards and Technology shall, in coordination with the Secretary of Defense, the Secretary of Homeland Security, and the heads of other appropriate agencies— “(1) in carrying out subsection (a) of such section, assess the scope and sufficiency of efforts to measure an individual’s capability to perform specific tasks found in the National Initiative for Cybersecurity Education (NICE) Cybersecurity Workforce Framework (NIST Special Publication 800–181) at all proficiency levels; and “(2) submit to Congress a report—“(A) on the findings of the Director with respect to the assessment carried out under paragraph (1); and “(B) with recommendations for effective methods for measuring the cybersecurity proficiency of learners.”
+
+
+<a id="section-7463"></a>
+## § 7463. Transferred
+
+### Statutory Notes
+
+#### Codification
+Section, Pub. L. 113–274, title IV, § 401, Dec. 18, 2014, 128 Stat. 2985, which related to national cybersecurity awareness and education program, was renumbered § 303 of title III of Pub. L. 113–274, by Pub. L. 116–283, div. H, title XCIV, § 9401(g)(1), Jan. 1, 2021, 134 Stat. 4809, and transferred to [section 7443 of this title](./chapter-100a-cybersecurity-enhancement.md#section-7443).
 
 
 <a id="section-7464"></a>

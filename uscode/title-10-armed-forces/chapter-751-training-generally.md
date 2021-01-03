@@ -2,7 +2,7 @@
 title: 10
 chapter: '751'
 heading: TRAINING GENERALLY
-section_count: 12
+section_count: 13
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10&num=0&edition=prelim
 ---
@@ -45,7 +45,7 @@ In subsection (f), the last sentence is substituted for 10:535 (words within par
 In subsection (g), the words “under this section” are substituted for 10:535a (9th through 41st words).
 
 #### Amendments
-2018—Pub. L. 115–232 renumbered [section 4301 of this title](./chapter-323-innovation.md#section-4301) as this section.
+2018—Pub. L. 115–232 renumbered [section 4301 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section4301&num=0&edition=prelim) as this section.
 
 2006—Subsec. (c). Pub. L. 109–163 substituted “State, the Commonwealth of Puerto Rico, the District of Columbia, Guam, or the Virgin Islands” for “State or Territory, Puerto Rico, or the District of Columbia”.
 
@@ -112,7 +112,7 @@ Function of the President under subsec. (a) of this section delegated to the Sec
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
 
 #### Accomplishment of Required Manning Levels; GAO Assessment
-Pub. L. 104–106, div. A, title V, § 562(b), (c), Feb. 10, 1996, 110 Stat. 324, provided that if on Feb. 10, 1996, the number of officers, and the number of enlisted members, permanently assigned to the Army Ranger Training Brigade were not each at (or above) the requirement specified in this section, the Secretary of the Army was to take such steps as necessary to accomplish that requirement within 12 months and submit to Congress within 90 days a plan to achieve and maintain that requirement, and the Comptroller General was to submit to Congress by one year after Feb. 10, 1996, a preliminary assessment of the implementation and effectiveness of all corrective actions taken by the Army as a result of the February 1995 accident at the Florida Ranger Training Camp, including an evaluation of the implementation of the required manning levels established by this section, with a final assesment due 2 years after the required manning levels referred to in paragraph (1) are first attained.
+Pub. L. 104–106, div. A, title V, § 562(b), (c), Feb. 10, 1996, 110 Stat. 324, provided that if on Feb. 10, 1996, the number of officers, and the number of enlisted members, permanently assigned to the Army Ranger Training Brigade were not each at (or above) the requirement specified in this section, the Secretary of the Army was to take such steps as necessary to accomplish that requirement within 12 months and submit to Congress within 90 days a plan to achieve and maintain that requirement, and the Comptroller General was to submit to Congress by one year after Feb. 10, 1996, a preliminary assessment of the implementation and effectiveness of all corrective actions taken by the Army as a result of the February 1995 accident at the Florida Ranger Training Camp, including an evaluation of the implementation of the required manning levels established by this section, with a final assessment due 2 years after the required manning levels referred to in paragraph (1) are first attained.
 
 
 <a id="section-7406"></a>
@@ -379,14 +379,14 @@ Pub. L. 105–261, div. A, title V, § 522(a)(3), Oct. 17, 1998, 112 Stat. 2012,
 ### Statutory Notes
 
 #### Prior Provisions
-Prior sections 7421 to 7425 were renumbered sections 8721 to 8725 of this title, respectively.
+A prior section 7421 was renumbered [section 8721 of this title](./chapter-869-naval-petroleum-reserves.md#section-8721).
 
 A prior section 7426, acts Aug. 10, 1956, ch. 1041, 70A Stat. 459; Pub. L. 94–258, title II, § 201(7), Apr. 5, 1976, 90 Stat. 309; Pub. L. 96–513, title V, § 513(32)(A), (B), Dec. 12, 1980, 94 Stat. 2933; Pub. L. 98–525, title XIV, § 1405(52), Oct. 19, 1984, 98 Stat. 2625; Pub. L. 104–106, div. A, title XV, § 1502(a)(2), Feb. 10, 1996, 110 Stat. 502; Pub. L. 106–65, div. A, title X, § 1067(1), Oct. 5, 1999, 113 Stat. 774, related to cooperative or unit plans affecting Naval Petroleum Reserve Numbered 1, prior to repeal by Pub. L. 106–398, § 1 [div. C, title XXXIV, § 3402(a)], Oct. 30, 2000, 114 Stat. 1654, 1654A–484. Pub. L. 106–398, § 1 [div. C, title XXXIV, § 3402(c)], Oct. 30, 2000, 114 Stat. 1654, 1654A–484, provided that the repeal of section 7426 would not affect the validity of contracts in effect under that section on the day before Oct. 30, 2000, and that no such contracts could be extended or renewed on or after Oct. 30, 2000.
 
 Prior sections 7427 to 7430 were renumbered sections 8727 to 8730 of this title, respectively.
 
 #### Amendments
-2018—Pub. L. 115–232 renumbered [section 4321 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section4321&num=0&edition=prelim) as this section.
+2018—Pub. L. 115–232 renumbered [section 4321 of this title](./chapter-323-life-cycle-and-sustainment.md#section-4321) as this section.
 
 2008—Pub. L. 110–417 amended section generally. Prior to amendment, text read as follows: “Under regulations prescribed by the Secretary of the Army, the Commandant of the United States Army War College, upon the recommendation of the faculty and dean of the college, may confer the degree of master of strategic studies upon graduates of the college who have fulfilled the requirements for that degree.”
 
@@ -395,3 +395,35 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 #### Effective Date of 2008 Amendment
 Amendment by Pub. L. 110–417 applicable to any degree granting authority established, modified, or redesignated on or after Oct. 14, 2008, for an institution of professional military education referred to in such amendment, see section 543(j) of Pub. L. 110–417, set out as a note under [section 2161 of this title](./chapter-108-department-of-defense-schools.md#section-2161).
+
+
+<a id="section-7422"></a>
+## § 7422. Degree granting authority for United States Army Armament Graduate School
+**(a) Authority.—** Under regulations prescribed by the Secretary of the Army, the Chancellor of the United States Army Armament Graduate School may, upon the recommendation of the faculty and provost of the school, confer appropriate degrees upon graduates who meet the degree requirements.
+
+**(b) Limitation.—** A degree may not be conferred under this section unless—
+
+(1) the Secretary of Education has recommended approval of the degree in accordance with the Federal Policy Governing Granting of Academic Degrees by Federal Agencies; and
+
+(2) the United States Army Armament Graduate School is accredited by the appropriate civilian academic accrediting agency or organization to award the degree, as determined by the Secretary of Education.
+
+**(c) Congressional Notification Requirements.—**
+
+(1) When seeking to establish degree granting authority under this section, the Secretary of Defense shall submit to the Committees on Armed Services of the Senate and the House of Representatives—
+
+  (A) a copy of the self-assessment questionnaire required by the Federal Policy Governing Granting of Academic Degrees by Federal Agencies, at the time the assessment is submitted to the Department of Education’s National Advisory Committee on Institutional Quality and Integrity; and
+
+  (B) the subsequent recommendations and rationale of the Secretary of Education regarding the establishment of the degree granting authority.
+
+(2) Upon any modification or redesignation of existing degree granting authority, the Secretary of Defense shall submit to the Committees on Armed Services of the Senate and House of Representatives a report containing the rationale for the proposed modification or redesignation and any subsequent recommendation of the Secretary of Education on the proposed modification or redesignation.
+
+(3) The Secretary of Defense shall submit to the Committees on Armed Services of the Senate and House of Representatives a report containing an explanation of any action by the appropriate academic accrediting agency or organization not to accredit the United States Army Armament Graduate School to award any new or existing degree.
+
+### Statutory Notes
+
+#### Prior Provisions
+Prior sections 7422 to 7425 were renumbered sections 8722 to 8725 of this title, respectively.
+
+A prior section 7426, acts Aug. 10, 1956, ch. 1041, 70A Stat. 459; Pub. L. 94–258, title II, § 201(7), Apr. 5, 1976, 90 Stat. 309; Pub. L. 96–513, title V, § 513(32)(A), (B), Dec. 12, 1980, 94 Stat. 2933; Pub. L. 98–525, title XIV, § 1405(52), Oct. 19, 1984, 98 Stat. 2625; Pub. L. 104–106, div. A, title XV, § 1502(a)(2), Feb. 10, 1996, 110 Stat. 502; Pub. L. 106–65, div. A, title X, § 1067(1), Oct. 5, 1999, 113 Stat. 774, related to cooperative or unit plans affecting Naval Petroleum Reserve Numbered 1, prior to repeal by Pub. L. 106–398, § 1 [div. C, title XXXIV, § 3402(a)], Oct. 30, 2000, 114 Stat. 1654, 1654A–484. Pub. L. 106–398, § 1 [div. C, title XXXIV, § 3402(c)], Oct. 30, 2000, 114 Stat. 1654, 1654A–484, provided that the repeal of section 7426 would not affect the validity of contracts in effect under that section on the day before Oct. 30, 2000, and that no such contracts could be extended or renewed on or after Oct. 30, 2000.
+
+Prior sections 7427 to 7430 were renumbered sections 8727 to 8730 of this title, respectively.

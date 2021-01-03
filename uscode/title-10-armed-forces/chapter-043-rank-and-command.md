@@ -12,15 +12,15 @@ source: >-
 
 **(b)** Rank among officers of the same grade or of equivalent grades is determined by comparing dates of rank. An officer whose date of rank is earlier than the date of rank of another officer of the same or equivalent grade is senior to that officer.
 
-**(c)** Rank among officers of the Army, Navy, Air Force, and Marine Corps of the same grade or of equivalent grades who have the same date of rank is determined by regulations prescribed by the Secretary of Defense which shall apply uniformly among the Army, Navy, Air Force, and Marine Corps.
+**(c)** Rank among officers of the Army, Navy, Air Force, Marine Corps, and Space Force of the same grade or of equivalent grades who have the same date of rank is determined by regulations prescribed by the Secretary of Defense which shall apply uniformly among the Army, Navy, Air Force, Marine Corps, and Space Force.
 
 **(d)**
 
-(1) The date of rank of an officer of the Army, Navy, Air Force, or Marine Corps who holds a grade as the result of an original appointment shall be determined by the Secretary of the military department concerned at the time of such appointment. The date of rank of an officer of the Army, Navy, Air Force, or Marine Corps who holds a grade as the result of an original appointment and who at the time of such appointment was awarded service credit for prior commissioned service or constructive credit for advanced education or training, or special experience shall be determined so as to reflect such prior commissioned service or constructive service. Determinations by the Secretary concerned under this paragraph shall be made under regulations prescribed by the Secretary of Defense which shall apply uniformly among the Army, Navy, Air Force, and Marine Corps.
+(1) The date of rank of an officer of the Army, Navy, Air Force, Marine Corps, or Space Force who holds a grade as the result of an original appointment shall be determined by the Secretary of the military department concerned at the time of such appointment. The date of rank of an officer of the Army, Navy, Air Force, Marine Corps, or Space Force who holds a grade as the result of an original appointment and who at the time of such appointment was awarded service credit for prior commissioned service or constructive credit for advanced education or training, or special experience shall be determined so as to reflect such prior commissioned service or constructive service. Determinations by the Secretary concerned under this paragraph shall be made under regulations prescribed by the Secretary of Defense which shall apply uniformly among the Army, Navy, Air Force, Marine Corps, and Space Force.
 
 (2) Except as otherwise provided by law, the date of rank of an officer who holds a grade as the result of a promotion is the date of his appointment to that grade.
 
-(3) Under regulations prescribed by the Secretary of Defense, which shall apply uniformly among the Army, Navy, Air Force, and Marine Corps, the date of rank of a reserve commissioned officer (other than a warrant officer) of the Army, Navy, Air Force, or Marine Corps who is to be placed on the active-duty list and who has not been on continuous active duty since his original appointment as a reserve commissioned officer in a grade above chief warrant officer, W–5, or who is transferred from an inactive status to an active status and placed on the active-duty list or the reserve active-status list may, effective on the date on which he is placed on the active-duty list or reserve active-status list, be changed by the Secretary concerned to a later date to reflect such officer’s qualifications and experience. The authority to change the date of rank of a reserve officer who is placed on the active-duty list to a later date does not apply in the case of an officer who (A) has served continuously in the Selected Reserve of the Ready Reserve since the officer’s last promotion, or (B) is placed on the active-duty list while on a promotion list as described in [section 14317(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section14317/b&num=0&edition=prelim).
+(3) Under regulations prescribed by the Secretary of Defense, which shall apply uniformly among the Army, Navy, Air Force, Marine Corps, and Space Force, the date of rank of a reserve commissioned officer (other than a warrant officer) of the Army, Navy, Air Force, Marine Corps, or Space Force who is to be placed on the active-duty list and who has not been on continuous active duty since his original appointment as a reserve commissioned officer in a grade above chief warrant officer, W–5, or who is transferred from an inactive status to an active status and placed on the active-duty list or the reserve active-status list may, effective on the date on which he is placed on the active-duty list or reserve active-status list, be changed by the Secretary concerned to a later date to reflect such officer’s qualifications and experience. The authority to change the date of rank of a reserve officer who is placed on the active-duty list to a later date does not apply in the case of an officer who (A) has served continuously in the Selected Reserve of the Ready Reserve since the officer’s last promotion, or (B) is placed on the active-duty list while on a promotion list as described in [section 14317(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section14317/b&num=0&edition=prelim).
 
 (4)
 
@@ -44,7 +44,7 @@ source: >-
 
   (D) When under subparagraph (A) the Secretary concerned adjusts the date of rank of an officer in a grade to which the officer was appointed by and with the advice and consent of the Senate and the adjustment is to a date before the date of the advice and consent of the Senate to that appointment, the Secretary shall promptly transmit to the Committee on Armed Services of the Senate a notification of that adjustment. Any such notification shall include the name of the officer and a discussion of the reasons for the adjustment of date of rank.
 
-  (E) Any adjustment in date of rank under this paragraph shall be made under regulations prescribed by the Secretary of Defense, which shall apply uniformly among the Army, Navy, Air Force, and Marine Corps.
+  (E) Any adjustment in date of rank under this paragraph shall be made under regulations prescribed by the Secretary of Defense, which shall apply uniformly among the Army, Navy, Air Force, Marine Corps, and Space Force.
 
 ### Statutory Notes
 
@@ -68,6 +68,12 @@ In subsection (b), the words “in such grades”, in 10:517 and 34:241a, are om
 In subsection (c), the words “A commissioned officer of the Army or the Air Force” are substituted for the words “All officers of the Army of the United States, including all components thereof”, since rank among officers of the Regular Army and Regular Air Force is determined under sections 3573, 3574, 8573, and 8574 of this title.
 
 #### Amendments
+2021—Subsec. (c). Pub. L. 116–283, § 924(b)(1)(G), substituted “Marine Corps, and Space Force” for “and Marine Corps” in two places.
+
+Subsec. (d). Pub. L. 116–283, § 924(b)(3)(M), substituted “Marine Corps, or Space Force” for “or Marine Corps” wherever appearing.
+
+Pub. L. 116–283, § 924(b)(1)(G), substituted “Marine Corps, and Space Force” for “and Marine Corps” wherever appearing.
+
 2001—Subsec. (d)(4). Pub. L. 107–107 added par. (4).
 
 1996—Subsec. (d)(3). Pub. L. 104–106 made technical correction to directory language of Pub. L. 103–337, § 1626(1). See 1994 Amendment note below.
@@ -138,9 +144,9 @@ Section effective Feb. 1, 1992, see section 1132 of Pub. L. 102–190, set out a
 
 
 <a id="section-743"></a>
-## § 743. Rank: Chief of Staff of the Army; Chief of Naval Operations; Chief of Staff of the Air Force; Commandant of the Marine Corps
+## § 743. Rank: Chief of Staff of the Army; Chief of Naval Operations; Chief of Staff of the Air Force; Commandant of the Marine Corps; Chief of Space Operations
 
-The Chief of Staff of the Army, the Chief of Naval Operations, the Chief of Staff of the Air Force, and the Commandant of the Marine Corps rank among themselves according to dates of appointment to those offices, and rank above all other officers on the active-duty list of the Army, Navy, Air Force, and Marine Corps, except the Chairman and the Vice Chairman of the Joint Chiefs of Staff.
+The Chief of Staff of the Army, the Chief of Naval Operations, the Chief of Staff of the Air Force, the Commandant of the Marine Corps, and the Chief of Space Operations rank among themselves according to dates of appointment to those offices, and rank above all other officers on the active-duty list of the Army, Navy, Air Force, Marine Corps, and Space Force, except the Chairman and the Vice Chairman of the Joint Chiefs of Staff.
 
 ### Statutory Notes
 
@@ -152,6 +158,12 @@ The Chief of Staff of the Army, the Chief of Naval Operations, the Chief of Staf
 5:626c(b) (1st sentence) is omitted as superseded by sections 8031(a)(1) and 8034(a) of this title. 5:626c(b) (2d sentence) is omitted as covered by [section 8034(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section8034/d&num=0&edition=prelim). 5:626c(b) (3d and 4th sentences) is omitted as executed. 5:626c(b) (5th sentence) is omitted as covered by [section 8034(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section8034/b&num=0&edition=prelim). 5:626c(b) (proviso of last sentence) is omitted as executed, since the incumbents to whom it is applied no longer hold the offices mentioned. The exception as to the Chairman of the Joint Chiefs of Staff is included because of [section 142(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section142/c&num=0&edition=prelim). The words “and the Marine Corps” are inserted, since under [section 5081 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section5081&num=0&edition=prelim) the Chief of Naval Operations takes precedence over all other officers of the naval service.
 
 #### Amendments
+2021—Pub. L. 116–283, § 924(b)(20)(B), amended section catchline generally. Prior to amendment, section catchline read as follows: “Rank: Chief of Staff of the Army; Chief of Naval Operations; Chief of Staff of the Air Force; Commandant of the Marine Corps”.
+
+Pub. L. 116–283, § 924(b)(20)(A), substituted “the Commandant of the Marine Corps, and the Chief of Space Operations” for “and the Commandant of the Marine Corps”.
+
+Pub. L. 116–283, § 924(b)(1)(H), substituted “Marine Corps, and Space Force” for “and Marine Corps”.
+
 1987—Pub. L. 100–180, § 1314(b)(5)(A), inserted “; Commandant of the Marine Corps” after “Air Force” in section catchline.
 
 Pub. L. 100–180, § 1314(a)(2), made technical correction in directory language of Pub. L. 99–433. See 1986 Amendment note below.
@@ -187,11 +199,16 @@ Repeal effective Feb. 1, 1992, see section 1132 of Pub. L. 102–190, set out as
 
 
 <a id="section-747"></a>
-## § 747. Command: when different commands of Army, Navy, Air Force, Marine Corps, and Coast Guard join
+## § 747. Command: when different commands of Army, Navy, Air Force, Marine Corps, Space Force, and Coast Guard join
 
-When different commands of the Army, Navy, Air Force, Marine Corps, and Coast Guard join or serve together, the officer highest in rank in the Army, Navy, Air Force, Marine Corps, or Coast Guard on duty there, who is otherwise eligible to command, commands all those forces unless otherwise directed by the President.
+When different commands of the Army, Navy, Air Force, Marine Corps, Space Force, and Coast Guard join or serve together, the officer highest in rank in the Army, Navy, Air Force, Marine Corps, Space Force, or Coast Guard on duty there, who is otherwise eligible to command, commands all those forces unless otherwise directed by the President.
 
 ### Statutory Notes
+
+#### Amendments
+2021—Pub. L. 116–283, § 924(b)(2)(B), amended section catchline generally. Prior to amendment, section catchline read as follows: “Command: when different commands of Army, Navy, Air Force, Marine Corps, and Coast Guard join”.
+
+Pub. L. 116–283, § 924(b)(2)(A)(iv), substituted “Marine Corps, Space Force,” for “Marine Corps,” in two places.
 
 #### Transfer of Functions
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).
@@ -199,11 +216,14 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
 <a id="section-749"></a>
 ## § 749. Command: commissioned officers in same grade or corresponding grades on duty at same place
-**(a)** When the Army, Navy, Air Force, Marine Corps, or Coast Guard, as the case may be, has on duty in the same area, field command, or organization two or more commissioned officers of the same grade who are otherwise eligible to command, the President may assign the command without regard to rank in that grade.
+**(a)** When the Army, Navy, Air Force, Marine Corps, Space Force, or Coast Guard, as the case may be, has on duty in the same area, field command, or organization two or more commissioned officers of the same grade who are otherwise eligible to command, the President may assign the command without regard to rank in that grade.
 
-**(b)** When officers of the Army, Navy, Air Force, Marine Corps, or Coast Guard are on duty in the same area, field, command, or organization and two or more commissioned officers of different services, who are otherwise eligible to command, have the same grade or corresponding grades, the President may assign the command without regard to rank in that grade.
+**(b)** When officers of the Army, Navy, Air Force, Marine Corps, Space Force, or Coast Guard are on duty in the same area, field, command, or organization and two or more commissioned officers of different services, who are otherwise eligible to command, have the same grade or corresponding grades, the President may assign the command without regard to rank in that grade.
 
 ### Statutory Notes
+
+#### Amendments
+2021—Pub. L. 116–283 substituted “Marine Corps, Space Force,” for “Marine Corps,” in subsecs. (a) and (b).
 
 #### Transfer of Functions
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).

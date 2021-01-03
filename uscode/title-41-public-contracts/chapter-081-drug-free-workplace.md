@@ -52,7 +52,7 @@ source: >-
 ## § 8102. Drug-free workplace requirements for Federal contractors
 **(a) In General.—**
 
-(1) **Persons other than individuals.—** — A person other than an individual shall not be considered a responsible source (as defined in [section 113 of this title](./chapter-001-chapter-1.md#section-113)) for the purposes of being awarded a contract for the procurement of any property or services of a value greater than the simplified acquisition threshold (as defined in [section 134 of this title](./chapter-001-chapter-1.md#section-134)) by a Federal agency, other than a contract for the procurement of commercial items (as defined in [section 103 of this title](./chapter-001-chapter-1.md#section-103)), unless the person agrees to provide a drug-free workplace by—
+(1) **Persons other than individuals.—** — A person other than an individual shall not be considered a responsible source (as defined in [section 113 of this title](./chapter-001-chapter-1.md#section-113)) for the purposes of being awarded a contract for the procurement of any property or services of a value greater than the simplified acquisition threshold (as defined in [section 134 of this title](./chapter-001-chapter-1.md#section-134)) by a Federal agency, other than a contract for the procurement of commercial products or commercial services (as defined in sections 103 and 103a, respectively, of this title), unless the person agrees to provide a drug-free workplace by—
 
   (A) publishing a statement notifying employees that the unlawful manufacture, distribution, dispensation, possession, or use of a controlled substance is prohibited in the person’s workplace and specifying the actions that will be taken against employees for violations of the prohibition;
 
@@ -95,9 +95,6 @@ source: >-
 (3) **Effect of debarment.—** — A contractor or individual debarred by a final decision under this subsection is ineligible for award of a contract by a Federal agency, and for participation in a future procurement by a Federal agency, for a period specified in the decision, not to exceed 5 years.
 
 ### Statutory Notes
-
-#### Amendment of Subsection (a)(1)
-Pub. L. 115–232, div. A, title VIII, § 836(b)(20), (h), Aug. 13, 2018, 132 Stat. 1864, 1874, provided that, effective Jan. 1, 2020, subject to a savings provision, subsection (a)(1) of this section is amended by striking “commercial items (as defined in [section 103 of this title](./chapter-001-chapter-1.md#section-103))” and inserting “commercial products or commercial services (as defined in sections 103 and 103a, respectively, of this title)”. See 2018 Amendment note below.
 
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |

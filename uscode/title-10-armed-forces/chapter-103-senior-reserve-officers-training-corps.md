@@ -34,6 +34,9 @@ Par. (3). Pub. L. 98–94, § 1268(11)(F), substituted “Advanced” for “adv
 
 Pub. L. 98–94, § 1003(a)(1), inserted parenthetical provision relating to a fifth academic year or a combination of a fifth academic year and summer sessions.
 
+#### Pilot Programs Authorized in Connection With SROTC Units and CSPI Programs at Historically Black Colleges and Universities and Minority Institutions
+Pub. L. 116–283, div. A, title V, § 519, Jan. 1, 2021, 134 Stat. 3591, provided that: “(a) Pilot Programs Required.—The Secretary of Defense may carry out two pilot programs as follows:“(1) A pilot program, with elements as provided for in subsection (c), at covered institutions in order to assess the feasibility and advisability of mechanisms to reduce barriers to participation in the Senior Reserve Officers’ Training Corps at such institutions by creating partnerships between satellite or extension Senior Reserve Officers’ Training Corps units at such institutions and covered military installations. “(2) In consultation with the Secretary of Homeland Security, a pilot program, with elements as provided for in subsection (d), in order to assess the feasibility and advisability of the provision of financial assistance to members of the Senior Reserve Officers’ Training Corps, and members of the Coast Guard College Student Pre-Commissioning Initiative, at covered institutions for participation in flight training. “(b) Duration.—The duration of each pilot program under subsection (a) may not exceed 5 years. “(c) Pilot Program on Partnerships Between Satellite or Extension SROTC Units and Covered Military Installations.—“(1) Participating institutions.—The Secretary of Defense shall carry out the pilot program required by subsection (a)(1) at not fewer than five covered institutions selected by the Secretary for purposes of the pilot program. “(2) Requirements for selection.—Each covered institution selected by the Secretary for purposes of the pilot program under subsection (a)(1) shall—“(A) currently maintain a satellite or extension Senior Reserve Officers’ Training Corps unit under chapter 103 of title 10, United States Code, that is located more than 20 miles from the host unit of such unit; or “(B) establish and maintain a satellite or extension Senior Reserve Officers’ Training Corps unit that meets the requirements in subparagraph (A). “(3) Preference in selection of institutions.—In selecting covered institutions under this subsection for participation in the pilot program under subsection (a)(1), the Secretary shall give preference to covered institutions that are located within 20 miles of a covered military installation of the same Armed Force as the host unit of the Senior Reserve Officers’ Training Corps of the covered institution concerned. “(4) Partnership activities.—The activities conducted under the pilot program under subsection (a)(1) between a satellite or extension Senior Reserve Officers’ Training Corps unit and the covered military installation concerned shall include such activities designed to reduce barriers to participation in the Senior Reserve Officers’ Training Corps at the covered institution concerned as the Secretary considers appropriate, including measures to mitigate travel time and expenses in connection with receipt of Senior Reserve Officers’ Training Corps instruction. “(d) Pilot Program on Financial Assistance for SROTC and CSPI Members for Flight Training.—“(1) Eligibility for participation by srotc and cspi members.—A member of a Senior Reserve Officers’ Training Corps unit, or a member of a Coast Guard College Student Pre-Commissioning Initiative program, at a covered institution may participate in the pilot program under subsection (a)(2) if the member meets such academic requirements at the covered institution, and such other requirements, as the Secretary concerned shall establish for purposes of the pilot program. “(2) Preference in selection of participants.—In selecting members under this subsection for participation in the pilot program under subsection (a)(2), the Secretary concerned shall give a preference to members who will pursue flight training under the pilot program at a covered institution. “(3) Financial assistance for flight training.—“(A) In general.—The Secretary concerned may provide any member of a Senior Reserve Officers’ Training Corps unit or a College Student Pre-Commissioning Initiative program who participates in the pilot program under subsection (a)(2) financial assistance to defray, whether in whole or in part, the charges and fees imposed on the member for flight training. “(B) Flight training.—Financial assistance may be used under subparagraph (A) for a course of flight training only if the course meets Federal Aviation Administration standards and is approved by the Federal Aviation Administration and the applicable State approving agency. “(C) Use.—Financial assistance received by a member under subparagraph (A) may be used only to defray the charges and fees imposed on the member as described in that subparagraph. “(D) Cessation of eligibility.—Financial assistance may not be provided to a member under subparagraph (A) as follows:“(i) If the member ceases to meet the academic and other requirements established pursuant to paragraph (1). “(ii) If the member ceases to be a member of the Senior Reserve Officers’ Training Corps or the College Student Pre-Commissioning Initiative, as applicable. “(e) Evaluation Metrics.—The Secretary of Defense shall establish metrics to evaluate the effectiveness of the pilot programs under subsection (a). “(f) Reports.—“(1) Initial report.—Not later than 180 days after the commencement of the pilot programs under subsection (a), the Secretary of Defense shall submit to the Committees on Armed Services of the Senate and the House of Representatives a report on the pilot programs. The report shall include the following:“(A) A description of each pilot program, including in the case of the pilot program under subsection (a)(2) the requirements established pursuant to subsection (d)(1). “(B) The evaluation metrics established under subsection (e). “(C) Such other matters relating to the pilot programs as the Secretary considers appropriate. “(2) Annual report.—Not later than 90 days after the end of each fiscal year in which the Secretary carries out the pilot programs, the Secretary shall submit to the Committees on Armed Services of the Senate and the House of Representatives a report on the pilot programs during such fiscal year. Each report shall include, for the fiscal year covered by such report, the following:“(A) In the case of the pilot program required by subsection (a)(1), a description of the partnerships between satellite or extension Senior Reserve Officers’ Training Corps units and covered military installations under the pilot program. “(B) In the case of the pilot program required by subsection (a)(2), the following:“(i) The number of members of Senior Reserve Officers’ Training Corps units, and the number of members of Coast Guard College Student Pre-Commissioning Initiative programs, at covered institutions selected for purposes of the pilot program, including the number of such members participating in the pilot program. “(ii) The number of recipients of financial assistance provided under the pilot program, including the number who— “(I) completed a ground school course of instruction in connection with obtaining a private pilot’s certificate; “(II) completed flight training, and the type of training, certificate, or both received; “(III) were selected for a pilot training slot in the Armed Forces; “(IV) initiated pilot training in the Armed Forces; or “(V) successfully completed pilot training in the Armed Forces. “(iii) The amount of financial assistance provided under the pilot program, broken out by covered institution, course of study, and such other measures as the Secretary considers appropriate. “(C) Data collected in accordance with the evaluation metrics established under subsection (e). “(3) Final report.—Not later than 180 days prior to the completion of the pilot programs, the Secretary shall submit to the Committees on Armed Services of the Senate and the House of Representatives a report on the pilot programs. The report shall include the following:“(A) A description of the pilot programs. “(B) An assessment of the effectiveness of each pilot program. “(C) A description of the cost of each pilot program, and an estimate of the cost of making each pilot program permanent. “(D) An estimate of the cost of expanding each pilot program throughout all eligible Senior Reserve Officers’ Training Corps units and College Student Pre-Commissioning Initiative programs. “(E) Such recommendations for legislative or administrative action as the Secretary considers appropriate in light of the pilot programs, including recommendations for extending or making permanent the authority for each pilot program. “(g) Definitions.—In this section:“(1) The term ‘covered institution’ has the meaning given that term in section 262(g)(2) of the National Defense Authorization Act for Fiscal Year 2020 (Public Law 116–92; [[10 U.S.C. 2362](./chapter-139-research-and-development.md#section-2362) note]). “(2) The term ‘covered military installation’ means an installation of the Department of Defense for the regular components of the Armed Forces. “(3) The term ‘flight training’ means a course of instruction toward obtaining any of the following:“(A) A private pilot’s certificate. “(B) A commercial pilot certificate. “(C) A certified flight instructor certificate. “(D) A multi-crew pilot’s license. “(E) A flight instrument rating. “(F) Any other certificate, rating, or pilot privilege the Secretary considers appropriate for purposes of this section.”
+
 #### Sexual Assault Prevention and Response Training for Administrators and Instructors of Senior Reserve Officers’ Training Corps
 Pub. L. 114–92, div. A, title V, § 540, Nov. 25, 2015, 129 Stat. 818, provided that: “The Secretary of a military department shall ensure that the commander of each unit of the Senior Reserve Officers’ Training Corps and all Professors of Military Science, senior military instructors, and civilian employees detailed, assigned, or employed as administrators and instructors of the Senior Reserve Officers’ Training Corps receive regular sexual assault prevention and response training and education.”
 
@@ -43,7 +46,7 @@ Pub. L. 109–163, div. A, title V, § 535, Jan. 6, 2006, 119 Stat. 3249, as ame
 
 <a id="section-2102"></a>
 ## § 2102. Establishment
-**(a)** For the purpose of preparing selected students for commissioned service in the Army, Navy, Air Force, or Marine Corps, the Secretary of each military department, under regulations prescribed by the President, may establish and maintain a Senior Reserve Officers’ Training Corps program, organized into one or more units, at any accredited civilian educational institution authorized to grant baccalaureate degrees, and at any school essentially military that does not confer baccalaureate degrees, upon the request of the authorities at that institution.
+**(a)** For the purpose of preparing selected students for commissioned service in the Army, Navy, Air Force, Marine Corps, or Space Force, the Secretary of each military department, under regulations prescribed by the President, may establish and maintain a Senior Reserve Officers’ Training Corps program, organized into one or more units, at any accredited civilian educational institution authorized to grant baccalaureate degrees, and at any school essentially military that does not confer baccalaureate degrees, upon the request of the authorities at that institution.
 
 **(b)** No unit may be established or maintained at an institution unless—
 
@@ -66,13 +69,15 @@ Pub. L. 109–163, div. A, title V, § 535, Jan. 6, 2006, 119 Stat. 3249, as ame
 ### Statutory Notes
 
 #### Amendments
-1977—Subsec. (d). Pub. L. 95–79 added subsec. (d).
+2021—Subsec. (a). Pub. L. 116–283 substituted “Marine Corps, or Space Force” for “or Marine Corps”.
 
-#### Delegation of Functions
-Functions of President under subsec. (a) of this section delegated to Secretary of Defense, see section 1(10) of Ex. Ord. No. 11390, Jan. 22, 1968, 33 F.R. 841, set out as a note under [section 301 of Title 3](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title3-section301&num=0&edition=prelim), The President.
+1977—Subsec. (d). Pub. L. 95–79 added subsec. (d).
 
 #### Military Training for Female Undergraduates at Military Colleges; Regulations
 Pub. L. 95–485, title VIII, § 809, Oct. 20, 1978, 92 Stat. 1623, directed the Secretary of Defense to require that any college or university designated as a military college provide that qualified female undergraduate students be eligible to participate in military training at such college or university, and prohibited the Secretary from requiring such college or university to require female undergraduate students enrolled in such college or university to participate in military training, prior to repeal by Pub. L. 98–525, title XIV, §§ 1403(b), 1404, Oct. 19, 1984, 98 Stat. 2621, eff. Oct. 1, 1985. See [section 2009 of this title](./chapter-101-training-generally.md#section-2009).
+
+#### Delegation of Functions
+Functions of President under subsec. (a) of this section delegated to Secretary of Defense, see section 1(10) of Ex. Ord. No. 11390, Jan. 22, 1968, 33 F.R. 841, set out as a note under [section 301 of Title 3](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title3-section301&num=0&edition=prelim), The President.
 
 
 <a id="section-2103"></a>
@@ -99,7 +104,7 @@ Pub. L. 95–485, title VIII, § 809, Oct. 20, 1978, 92 Stat. 1623, directed the
 
 (1) contract with the Secretary of the military department concerned, or the Secretary’s designated representative, to serve for the period required by the program; and
 
-(2) agree in writing to accept an appointment, if offered, as a commissioned officer in the Army, Navy, Air Force, or Marine Corps, as the case may be, and to serve in the armed forces for the period prescribed by the Secretary.
+(2) agree in writing to accept an appointment, if offered, as a commissioned officer in the Army, Navy, Air Force, Marine Corps, or Space Force, as the case may be, and to serve in the armed forces for the period prescribed by the Secretary.
 
 **(b) Eligibility Requirements.—** A member of the program may enter into a contract and agreement under this section (and receive a subsistence allowance under [section 209(c) of title 37](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section209/c&num=0&edition=prelim)) only if the person—
 
@@ -114,6 +119,8 @@ Pub. L. 95–485, title VIII, § 809, Oct. 20, 1978, 92 Stat. 1623, directed the
 ### Statutory Notes
 
 #### Amendments
+2021—Subsec. (a)(2). Pub. L. 116–283 substituted “Marine Corps, or Space Force” for “or Marine Corps”.
+
 2006—Subsec. (b). Pub. L. 109–364 substituted “Eligibility” for “Eligibilty” in heading.
 
 2004—Subsec. (d). Pub. L. 108–375 struck out heading and text of subsec. (d). Text read as follows: “No contract may be entered into under subsection (a)(1) after December 31, 2006.”
@@ -136,7 +143,7 @@ Pub. L. 108–136, div. A, title V, § 523(c), Nov. 24, 2003, 117 Stat. 1464, pr
 
 (4) contract, with the consent of his parent or guardian if he is a minor, with the Secretary of the military department concerned, or his designated representative, to serve for the period required by the program;
 
-(5) agree in writing that he will accept an appointment, if offered, as a commissioned officer in the Army, Navy, Air Force, or Marine Corps, as the case may be, and that he will serve in the armed forces for the period prescribed by the Secretary;
+(5) agree in writing that he will accept an appointment, if offered, as a commissioned officer in the Army, Navy, Air Force, Marine Corps, or Space Force, as the case may be, and that he will serve in the armed forces for the period prescribed by the Secretary;
 
 (6) either—
 
@@ -222,6 +229,8 @@ July 13, 1955, ch. 358, title VI, § 629, 69 Stat. 320.
 June 30, 1954, ch. 432, title VII, § 731, 68 Stat. 356.
 
 #### Amendments
+2021—Subsec. (b)(5). Pub. L. 116–283 substituted “Marine Corps, or Space Force” for “or Marine Corps”.
+
 2001—Subsec. (b)(3). Pub. L. 107–107 struck out “a reserve component of” before “an armed force”.
 
 1996—Subsec. (b)(6)(A)(ii). Pub. L. 104–106 substituted “a duration” for “not less than six weeks’ duration”.
@@ -279,7 +288,7 @@ Pub. L. 104–201, div. A, title V, § 507(c), Sept. 23, 1996, 110 Stat. 2512, p
 
 <a id="section-2107"></a>
 ## § 2107. Financial assistance program for specially selected members
-**(a)** The Secretary of the military department concerned may appoint as a cadet or midshipman, as appropriate, in the reserve of an armed force under his jurisdiction any eligible member of the program who will be under 31 years of age on December 31 of the calendar year in which he is eligible under this section for appointment as an ensign in the Navy or as a second lieutenant in the Army, Air Force, or Marine Corps, as the case may be.
+**(a)** The Secretary of the military department concerned may appoint as a cadet or midshipman, as appropriate, in the reserve of an armed force under his jurisdiction any eligible member of the program who will be under 31 years of age on December 31 of the calendar year in which he is eligible under this section for appointment as an ensign in the Navy, as a second lieutenant in the Army, Air Force, Marine Corps, or as an officer in the equivalent grade in the Space Force or Space Force,11 So in original. See 2021 Amendment notes below. as the case may be.
 
 **(b)** To be eligible for appointment as a cadet or midshipman under this section a member must—
 
@@ -287,7 +296,7 @@ Pub. L. 104–201, div. A, title V, § 507(c), Sept. 23, 1996, 110 Stat. 2512, p
 
 (2) be specially selected for the financial assistance program under procedures prescribed by the Secretary of the military department concerned;
 
-(3) enlist in the reserve component of the armed force in which he is appointed as a cadet or midshipman for the period prescribed by the Secretary of the military department concerned;
+(3) enlist in the reserve component of an armed force for the period prescribed by the Secretary of the military department concerned;
 
 (4) contract, with the consent of his parent or guardian if he is a minor, with the Secretary of the military department concerned, or his designated representative, to serve for the period required by the program; and
 
@@ -295,21 +304,21 @@ Pub. L. 104–201, div. A, title V, § 507(c), Sept. 23, 1996, 110 Stat. 2512, p
 
   (A)
 
-    (i) accept an appointment, if offered, as a commissioned officer in the Army, Navy, Air Force, or Marine Corps, as the case may be, and that, if he is commissioned as a regular officer and his regular commission is terminated before the sixth anniversary of his date of rank, he will accept an appointment, if offered, in the reserve component of that armed force and not resign before that anniversary or before such other date, not beyond the eighth anniversary of the midshipman’s date of rank, that the Secretary of Defense may prescribe; and
+    (i) accept an appointment, if offered, as a commissioned officer in the Army, Navy, Air Force, Marine Corps, or Space Force, as the case may be, and that, if he is commissioned as a regular officer and his regular commission is terminated before the sixth anniversary of his date of rank, he will accept an appointment, if offered, in the reserve component of an armed force and not resign before that anniversary or before such other date, not beyond the eighth anniversary of the midshipman’s date of rank, that the Secretary of Defense may prescribe; and
 
     (ii) serve on active duty for four or more years;
 
   (B)
 
-    (i) accept an appointment, if offered, as a commissioned officer in the Army, Navy, Air Force, or Marine Corps, as the case may be; and
+    (i) accept an appointment, if offered, as a commissioned officer in the Army, Navy, Air Force, Marine Corps, or Space Force, as the case may be; and
 
-    (ii) serve in a reserve component of that armed force until the eighth anniversary of the receipt of such appointment, unless otherwise extended by subsection (d) of [section 2108 of this title](./chapter-103-senior-reserve-officers-training-corps.md#section-2108), under such terms and conditions as shall be prescribed by the Secretary of the military department concerned; or
+    (ii) serve in a reserve component of an armed force until the eighth anniversary of the receipt of such appointment, unless otherwise extended by subsection (d) of [section 2108 of this title](./chapter-103-senior-reserve-officers-training-corps.md#section-2108), under such terms and conditions as shall be prescribed by the Secretary of the military department concerned; or
 
   (C)
 
-    (i) accept an appointment, if offered, as a commissioned officer in the Army, Navy, Air Force, or Marine Corps, as the case may be; and
+    (i) accept an appointment, if offered, as a commissioned officer in the Army, Navy, Air Force, Marine Corps, or Space Force, as the case may be; and
 
-    (ii) serve in a reserve component of that armed force until at least the sixth anniversary and, at the discretion of the Secretary of Defense, up to the eighth anniversary of the receipt of such appointment, unless such appointment is otherwise extended by subsection (d) of [section 2108 of this title](./chapter-103-senior-reserve-officers-training-corps.md#section-2108), under such terms and conditions as may be prescribed by the Secretary of the military department concerned.
+    (ii) serve in a reserve component of an armed force until at least the sixth anniversary and, at the discretion of the Secretary of Defense, up to the eighth anniversary of the receipt of such appointment, unless such appointment is otherwise extended by subsection (d) of [section 2108 of this title](./chapter-103-senior-reserve-officers-training-corps.md#section-2108), under such terms and conditions as may be prescribed by the Secretary of the military department concerned.
 The performance of service under clause (5)(B) or (5)(C) may include periods of active duty, active duty for training, and other service in an active or inactive status in the reserve component in which appointed, except that performance of service under clause (5)(C) shall include not less than two years of active duty.
 
 **(c)**
@@ -338,7 +347,7 @@ The performance of service under clause (5)(B) or (5)(C) may include periods of 
 
   (G) Any service obligation incurred by an officer under an agreement entered into under this paragraph shall be in addition to any service obligation incurred by that officer under any other provision of law or agreement.
 
-**(d)** Upon satisfactorily completing the academic and military requirements of the four-year program, a cadet or midshipman may be appointed as a regular or reserve officer in the appropriate armed force in the grade of second lieutenant or ensign, even though he is under 21 years of age.
+**(d)** Upon satisfactorily completing the academic and military requirements of the four-year program, a cadet or midshipman may be appointed as a regular or reserve officer in the appropriate armed force in the grade of second lieutenant, ensign, or an equivalent grade in the Space Force, even though he is under 21 years of age.
 
 **(e)** The date of rank of officers appointed under this section in May or June of any year is the date of graduation of cadets or midshipmen from the United States Military Academy, the United States Naval Academy, or the United States Air Force Academy, as the case may be in that year. The Secretary of the military department concerned shall establish the date of rank of all other officers appointed under this section.
 
@@ -381,6 +390,16 @@ The performance of service under clause (5)(B) or (5)(C) may include periods of 
 ### Statutory Notes
 
 #### Amendments
+2021—Pub. L. 116–283, § 924(b)(3)(EE), substituted “Marine Corps, or Space Force” for “or Marine Corps” wherever appearing.
+
+Subsec. (a). Pub. L. 116–283, § 924(b)(30)(A), substituted “, as a second lieutenant” for “or as a second lieutenant” and inserted “or as an officer in the equivalent grade in the Space Force” after “Marine Corps,”.
+
+Subsec. (b)(3). Pub. L. 116–283, § 924(b)(30)(B)(i), substituted “the reserve component of an armed force” for “the reserve component of the armed force in which he is appointed as a cadet or midshipman”.
+
+Subsec. (b)(5). Pub. L. 116–283, § 924(b)(30)(B)(ii), substituted “reserve component of an armed force” for “reserve component of that armed force” wherever appearing.
+
+Subsec. (d). Pub. L. 116–283, § 924(b)(30)(C), substituted “second lieutenant, ensign, or an equivalent grade in the Space Force” for “second lieutenant or ensign”.
+
 2013—Subsec. (c)(1). Pub. L. 112–239 struck out at end “At least 50 percent of the cadets and midshipmen appointed under this section must qualify for in-State tuition rates at their respective institutions and will receive tuition benefits at that rate.”
 
 2006—Subsec. (b)(1). Pub. L. 109–163, § 534(a), inserted “or national” after “citizen”.

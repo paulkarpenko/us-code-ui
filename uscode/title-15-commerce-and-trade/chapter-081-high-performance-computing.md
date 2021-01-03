@@ -2,46 +2,12 @@
 title: 15
 chapter: '81'
 heading: HIGH-PERFORMANCE COMPUTING
-section_count: 17
+section_count: 18
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15&num=0&edition=prelim
 ---
 <a id="section-5501"></a>
-## § 5501. Definitions
-
-In this subchapter:
-
-(1) **Department** — The term “Department” means the Department of Energy.
-
-(2) **Exascale computing** — The term “exascale computing” means computing through the use of a computing machine that performs near or above 10 to the 18th power operations per second.
-
-(3) **High-end computing system** — The term “high-end computing system” means a computing system with performance that substantially exceeds that of systems that are commonly available for advanced scientific and engineering applications.
-
-(4) **Leadership System** — The term “Leadership System” means a high-end computing system that is among the most advanced in the world in terms of performance in solving scientific and engineering problems.
-
-(5) **Institution of higher education** — The term “institution of higher education” has the meaning given the term in [section 1001(a) of title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1001/a&num=0&edition=prelim).
-
-(6) **Secretary** — The term “Secretary” means the Secretary of Energy.
-
-### Statutory Notes
-
-#### References in Text
-This subchapter, referred to in text, was in the original “this Act”, meaning Pub. L. 108–423, Nov. 30, 2004, 118 Stat. 2400, which is classified principally to this subchapter. For complete classification of this Act to the Code, see Short Title note set out under [section 5501 of this title](./chapter-081-high-performance-computing.md#section-5501) and Tables.
-
-#### Codification
-This section was enacted as part of the American Super Computing Leadership Act of 2017 which comprises this subchapter, and not as part of the High-Performance Computing Act of 1991 which comprises this chapter.
-
-#### Amendments
-2018—Pars. (1) to (5). Pub. L. 115–246, § 304(a)(2)(A), (B), added pars. (1) and (2), redesignated former pars. (2) to (4) as (3) to (5), respectively, and struck out former par. (1) which defined “Center”. Former par. (5) redesignated (6).
-
-Par. (6). Pub. L. 115–246, § 304(a)(2)(A), (C), redesignated par. (5) as (6) and struck out “, acting through the Director of the Office of Science of the Department of Energy” before period at end.
-
-#### Short Title
-This subchapter known as the “American Super Computing Leadership Act of 2017”, see Short Title note set out under [section 5501 of this title](./chapter-081-high-performance-computing.md#section-5501).
-
-
-<a id="section-5502"></a>
-## § 5502. Department of Energy high-end computing research and development program
+## § 5501. Department of Energy high-end computing research and development program
 **(a) In general** The Secretary shall—
 
 (1) carry out a coordinated program across the Department of research and development (including development of software and hardware) to advance high-end computing systems; and
@@ -134,12 +100,21 @@ Subsec. (b)(2). Pub. L. 115–246, § 304(a)(3)(B), struck out “, which may in
 Subsec. (d). Pub. L. 115–246, § 304(a)(3)(C), added subsec. (d) and struck out former subsec. (d) which related to the establishment of a High-End Software Development Center.
 
 
-<a id="section-5503"></a>
-## § 5503. Repealed. Pub. L. 114–329, title I, § 105(u), Jan. 6, 2017, 130 Stat. 2985
+<a id="section-5502"></a>
+## § 5502. Repealed. Pub. L. 114–329, title I, § 105(u), Jan. 6, 2017, 130 Stat. 2985
 
 ### Statutory Notes
 
 Section, Pub. L. 108–423, § 4, Nov. 30, 2004, 118 Stat. 2402, authorized appropriations for fiscal years 2005 to 2007.
+
+
+<a id="section-5503"></a>
+## § 5503. Transferred
+
+### Statutory Notes
+
+#### Codification
+Section, Pub. L. 116–260, div. Z, title IX, § 9008, Dec. 27, 2020, 134 Stat. 2600, which related to veterans’ health initiative, was transferred to [section 9462 of this title](./chapter-119-national-artificial-intelligence-initiative.md#section-9462).
 
 
 <a id="section-5511"></a>
@@ -664,7 +639,7 @@ Subsec. (b). Pub. L. 105–305, § 4(b), struck out “High-performance computin
 Advisory committees established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided for by law. See section 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 776, set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Delegation of Functions
-President’s Council of Advisors on Science and Technology to serve as the advisory committee identified in section 5511(b) and former [section 5513(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section5513/b&num=0&edition=prelim) and to be known as the President’s Innovation and Technology Advisory Committee when so serving, see section 2(a)(iii) of Ex. Ord. No. 13539, set out as a note under [section 6601 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section6601&num=0&edition=prelim), The Public Health and Welfare.
+President’s Council of Advisors on Science and Technology to serve as the advisory committee identified in [section 5511(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section5511/b&num=0&edition=prelim) and to be known as the President’s Innovation and Technology Advisory Committee when so serving, see section 3(a)(iii) of Ex. Ord. No. 13895, set out as a note under [section 6601 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section6601&num=0&edition=prelim), The Public Health and Welfare.
 
 #### Ex. Ord. No. 13035. President’s Information Technology Advisory Committee
 Ex. Ord. No. 13035, Feb. 11, 1997, 62 F.R. 7131, as amended by Ex. Ord. No. 13092, July 24, 1998, 63 F.R. 40167; Ex. Ord. No. 13113, Feb. 10, 1999, 64 F.R. 7489; Ex. Ord. No. 13200, Feb. 11, 2001, 66 F.R. 10183; Ex. Ord. No. 13215, May 31, 2001, 66 F.R. 30285; Ex. Ord. No. 13305, May 28, 2003, 68 F.R. 32323, provided:
@@ -867,3 +842,37 @@ Subsec. (b). Pub. L. 114–329, § 105(p)(2), substituted “networking and info
 ### Statutory Notes
 
 Section, Pub. L. 102–194, title II, § 208, Dec. 9, 1991, 105 Stat. 1603; Pub. L. 110–69, title III, § 3002(c)(6), Aug. 9, 2007, 121 Stat. 587, related to findings and annual reports for fostering United States competitiveness in high-performance computing and related activities.
+
+
+<a id="section-5544"></a>
+## § 5544. Definitions
+
+In this subchapter:
+
+(1) **Department** — The term “Department” means the Department of Energy.
+
+(2) **Exascale computing** — The term “exascale computing” means computing through the use of a computing machine that performs near or above 10 to the 18th power operations per second.
+
+(3) **High-end computing system** — The term “high-end computing system” means a computing system with performance that substantially exceeds that of systems that are commonly available for advanced scientific and engineering applications.
+
+(4) **Leadership System** — The term “Leadership System” means a high-end computing system that is among the most advanced in the world in terms of performance in solving scientific and engineering problems.
+
+(5) **Institution of higher education** — The term “institution of higher education” has the meaning given the term in [section 1001(a) of title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1001/a&num=0&edition=prelim).
+
+(6) **Secretary** — The term “Secretary” means the Secretary of Energy.
+
+### Statutory Notes
+
+#### References in Text
+This subchapter, referred to in text, was in the original “this Act”, meaning Pub. L. 108–423, Nov. 30, 2004, 118 Stat. 2400, which is classified principally to this subchapter. For complete classification of this Act to the Code, see Short Title note set out under [section 5501 of this title](./chapter-081-high-performance-computing.md#section-5501) and Tables.
+
+#### Codification
+This section was enacted as part of the American Super Computing Leadership Act of 2017 which comprises this subchapter, and not as part of the High-Performance Computing Act of 1991 which comprises this chapter.
+
+#### Amendments
+2018—Pars. (1) to (5). Pub. L. 115–246, § 304(a)(2)(A), (B), added pars. (1) and (2), redesignated former pars. (2) to (4) as (3) to (5), respectively, and struck out former par. (1) which defined “Center”. Former par. (5) redesignated (6).
+
+Par. (6). Pub. L. 115–246, § 304(a)(2)(A), (C), redesignated par. (5) as (6) and struck out “, acting through the Director of the Office of Science of the Department of Energy” before period at end.
+
+#### Short Title
+This subchapter known as the “American Super Computing Leadership Act of 2017”, see Short Title note set out under [section 5501 of this title](./chapter-081-high-performance-computing.md#section-5501).

@@ -8,7 +8,7 @@ source: >-
 ---
 <a id="section-9217"></a>
 ## § 9217. Duties: chaplains; assistance required of commanding officers
-**(a)** Each chaplain shall, when practicable, hold appropriate religious services at least once on each Sunday for the command to which he is assigned, and shall perform appropriate religious burial services for members of the Air Force who die while in that command.
+**(a)** Each chaplain shall, when practicable, hold appropriate religious services at least once on each Sunday for the command to which he is assigned, and shall perform appropriate religious burial services for members of the Air Force or the Space Force who die while in that command.
 
 **(b)** Each commanding officer shall furnish facilities, including necessary transportation, to any chaplain assigned to his command, to assist the chaplain in performing his duties.
 
@@ -26,6 +26,8 @@ In subsection (a), the words “members of the Air Force” are substituted for 
 In subsection (b), the words “regiments, hospitals, and posts”, in 10:239, are omitted, since at the time of the enactment of section 1127 of the Revised Statutes, chaplains were authorized only for regiments, hospitals, and posts. The revised section preserves the broad coverage of the original statute. The words “each commanding officer shall” are substituted for the words “It shall be the duty of commanders”, in 10:239. The word “furnish” is substituted for the words “to afford”, in 10:239. The words “including necessary transportation” are substituted for the last sentence of section 12 of the Act of February 2, 1901, ch. 192, 31 Stat. 750. The words “his command” are substituted for the words “the same”, in 10:239. The words “to assist” are substituted for the words “as may aid them”, in 10:239.
 
 #### Amendments
+2021—Subsec. (a). Pub. L. 116–283 inserted “or the Space Force” after “the Air Force”.
+
 2018—Pub. L. 115–232 renumbered [section 8547 of this title](./chapter-855-united-states-naval-postgraduate-school.md#section-8547) as this section.
 
 #### Effective Date of 2018 Amendment

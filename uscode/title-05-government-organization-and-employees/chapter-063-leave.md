@@ -28,7 +28,7 @@ For the purpose of this subchapter—
 
   (iv) an employee of the Panama Canal Commission when employed on the Isthmus of Panama;
 
-  (v) a physician, dentist, or nurse in the Veterans Health Administration of the Department of Veterans Affairs;
+  (v) an employee of the Veterans Health Administration who is covered by a leave system established under [section 7421 of title 38](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section7421&num=0&edition=prelim);
 
   (vi) an employee of either House of Congress or of the two Houses;
 
@@ -73,6 +73,8 @@ Section 102(a)(3) of the Foreign Service Act of 1980, referred to in par. (2)(xi
 Section 312 of the Foreign Service Act of 1980, referred to in text, is classified to [section 3952 of Title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section3952&num=0&edition=prelim).
 
 #### Amendments
+2021—Par. (2)(B)(v). Pub. L. 116–283 which directed the general amendment of cl. (v) without specifying the subpar., was executed by amending cl. (v) of subpar. (B) generally to reflect the probable intent of Congress. Prior to amendment, cl. (v) read as follows: “a physician, dentist, or nurse in the Veterans Health Administration of the Department of Veterans Affairs;”.
+
 1991—Par. (2)(v). Pub. L. 102–54 substituted “Veterans Health Administration of the Department of Veterans Affairs” for “Department of Medicine and Surgery, Veterans’ Administration”.
 
 1986—Par. (2)(B). Pub. L. 99–335 amended subpar. (B) generally, substituting “first employed” for “employed” and inserting “before October 1, 1987”.
@@ -479,6 +481,9 @@ Amendment by section 410 of Pub. L. 95–454 effective 9 months after Oct. 13, 1
 
 Amendment by section 906(a)(2), (3) of Pub. L. 95–454 effective 90 days after Oct. 13, 1978, see section 907 of Pub. L. 95–454, set out as an Effective Date of 1978 Amendment note under [section 1101 of this title](./chapter-011-office-of-personnel-management.md#section-1101).
 
+#### Temporary Increase in Limitation on Accumulation of Annual Leave for Executive Branch Employees
+Pub. L. 116–283, div. A, title XI, § 1111, Jan. 1, 2021, 134 Stat. 3893, provided that: “(a) In General.—At the discretion of the Director of the Office of Personnel Management, annual leave provided to an Executive branch employee may accumulate for use in leave year 2021 in an amount equal to 125% of the maximum amount of annual leave permitted, but for this subsection, to accumulate for use in that leave year under the leave system covering such employee. “(b) Exclusion From Lump-sum Payment.—Any annual leave accumulated pursuant to subsection (a) in excess of the maximum amount of annual leave permitted, but for this section, to accumulate for use in succeeding years shall not be included in any lump-sum payment for leave to an individual, including any lump-sum payment under section 5551 or 5552 of title 5, United States Code. “(c) Definitions.—In this section—“(1) the term ‘agency’ means each agency, office, or other establishment in the executive branch of the Federal Government; and “(2) the term ‘Executive branch employee’—“(A) means—“(i) an employee of an agency; “(ii) an employee appointed under chapter 74 of title 38, United States Code, notwithstanding section 7421(a), section 7425(b), or any other provision of chapter 74 of such title; and “(iii) any other individual occupying a position in the civil service (as that term is defined in [section 2101(1) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section2101/1&num=0&edition=prelim), United States Code) in the executive branch of the Federal Government; and “(B) does not include any individual occupying a position that is classified at or above the level of a Senior Executive Service position or the equivalent thereof.”
+
 #### Restoration of Annual Leave for Certain Department of Defense Employees
 Pub. L. 108–136, div. A, title XI, § 1114, Nov. 24, 2003, 117 Stat. 1635, provided that: “(a) Restoration of Annual Leave.—During the period October 1, 1992, through December 31, 1997, all employees transferring from a closing or realigning Department of Defense installation or activity as defined under [section 6304(d)(3) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section6304/d/3&num=0&edition=prelim), United States Code, to another Department of Defense installation or activity—“(1) may be deemed eligible by the Secretary of Defense for automatic restoration of forfeited annual leave under [section 6304(d)(3) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section6304/d/3&num=0&edition=prelim), United States Code, during the year of transfer; and “(2) may be deemed by the Secretary of Defense to have used all forfeited annual leave properly restored under [section 6304(d)(3) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section6304/d/3&num=0&edition=prelim), United States Code, within the appropriate time limits, only if such restored annual leave was used by the employee or paid to the employee in the form of a lump sum payment under [section 5551(a) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5551/a&num=0&edition=prelim), United States Code, by the last day of the 2001 leave year. “(b) Payment of Restored Annual Leave.—(1) On or after September 23, 1996, all employees transferring from a closing or realigning Department of Defense installation or activity as defined under [section 6304(d)(3)(A) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section6304/d/3/A&num=0&edition=prelim), United States Code, to another Department of Defense installation or activity who, upon transfer, were entitled to payment of a lump sum payment under [section 5551(c) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5551/c&num=0&edition=prelim), United States Code, for forfeited annual leave properly restored under [section 6304(d)(3) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section6304/d/3&num=0&edition=prelim), United States Code—“(A) may be paid only for any such restored annual leave currently remaining to their credit at the hourly rate payable on the date of transfer with appropriate back pay interest; and “(B) shall be deemed paid for all such restored annual leave to which that employee was entitled to payment upon transfer, but subsequently used or was otherwise paid for upon separation. “(2) This subsection shall take effect on the date of the enactment of this Act [Nov. 24, 2003].”
 
@@ -600,9 +605,7 @@ Amendment by Pub. L. 95–454 effective 90 days after Oct. 13, 1978, see section
 
 **(d)** When required by the exigencies of the situation, a maximum of 30 days sick leave with pay may be advanced for serious disability or ailment, or for purposes relating to the adoption of a child, except that a maximum of 24 days sick leave with pay may be advanced to a member of the Firefighting Division of the Fire Department of the District of Columbia.
 
-**(d)**
-
-(1) 11 So in original. Probably should be “(e)(1)”. For the purpose of this subsection, the term “family member” shall have such meaning as the Office of Personnel Management shall by regulation prescribe, except that such term shall include any individual who meets the definition given that term, for purposes of the leave transfer program under subchapter III, under regulations prescribed by the Office (as in effect on January 1, 1993).
+**(d)** (1) 11 So in original. Probably should be “(e)(1)”. For the purpose of this subsection, the term “family member” shall have such meaning as the Office of Personnel Management shall by regulation prescribe, except that such term shall include any individual who meets the definition given that term, for purposes of the leave transfer program under subchapter III, under regulations prescribed by the Office (as in effect on January 1, 1993).
 
 (2) Subject to paragraph (3) and in addition to any other allowable purpose, sick leave may be used by an employee—
 
@@ -2127,9 +2130,9 @@ For the purpose of this subchapter—
 
 (1) the term “employee” means any individual who—
 
-  (A) is an “employee”, as defined by section 6301(2), including any individual employed in a position referred to in clause (v) or (ix) of section 6301(2), but excluding any individual employed by the government of the District of Columbia 11 So in original. Probably should be followed by a comma. any individual employed on a temporary or intermittent basis, and any employee of the Government Accountability Office or the Library of Congress; and
+  (A) is an “employee”, as defined by section 6301(2), including any individual employed in a position referred to in clause (ix) of section 6301(2), but excluding any individual employed by the government of the District of Columbia 11 So in original. Probably should be followed by a comma. any individual employed on a temporary or intermittent basis, and any employee of the Government Accountability Office or the Library of Congress; and
 
-  (B) has completed at least 12 months of service as an employee (within the meaning of subparagraph (A));
+  (B) has completed at least 12 months of service as an employee (as defined in section 2105) of the Government of the United States, including service with the United States Postal Service, the Postal Regulatory Commission, and a nonappropriated fund instrumentality as described in section 2105(c);
 
 (2) the term “health care provider” means—
 
@@ -2184,6 +2187,10 @@ For the purpose of this subchapter—
 ### Statutory Notes
 
 #### Amendments
+2021—Par. (1)(A). Pub. L. 116–283, § 1103(f)(2)(A), struck out “(v) or” before “(ix) of section 6301(2)”.
+
+Par. (1)(B). Pub. L. 116–283, § 1103(f)(2)(B), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “has completed at least 12 months of service as an employee (within the meaning of subparagraph (A));”.
+
 2009—Par. (7). Pub. L. 111–84, § 565(b)(1)(A), amended par. (7) generally. Prior to amendment, par. (7) read as follows: “the term ‘active duty’ means duty under a call or order to active duty under a provision of law referred to in [section 101(a)(13)(B) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section101/a/13/B&num=0&edition=prelim);”.
 
 Par. (8). Pub. L. 111–84, § 565(b)(2), amended par. (8) generally. Prior to amendment, par. (8) read as follows: “the term ‘covered servicemember’ means a member of the Armed Forces, including a member of the National Guard or Reserves, who is undergoing medical treatment, recuperation, or therapy, is otherwise in an outpatient status, or is otherwise on the temporary disability retired list, for a serious injury or illness;”.
@@ -2197,7 +2204,7 @@ Pars. (11), (12). Pub. L. 111–84, § 565(b)(3), added pars. (11) and (12) and 
 1995—Par. (1)(A). Pub. L. 104–1 struck out “and” after “District of Columbia” and inserted “, and any employee of the General Accounting Office or the Library of Congress” before semicolon.
 
 #### Effective Date of 1995 Amendment
-Amendment by Pub. L. 104–1 effective 1 year after transmission to Congress of the study under [section 1371 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1371&num=0&edition=prelim), The Congress, see [section 1312(e)(2) of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1312/e/2&num=0&edition=prelim). The study required under [section 1371 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1371&num=0&edition=prelim), dated Dec. 31, 1996, was transmitted to Congress by the Board of Directors of the Office of Compliance on Dec. 30, 1996.
+Amendment by Pub. L. 104–1 effective 1 year after transmission to Congress of the study under [section 1371 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1371&num=0&edition=prelim), The Congress, see [section 1312(f)(2) of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1312/f/2&num=0&edition=prelim). The study required under [section 1371 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1371&num=0&edition=prelim), dated Dec. 31, 1996, was transmitted to Congress by the Board of Directors of the Office of Compliance on Dec. 30, 1996.
 
 #### Effective Date
 Section effective 6 months after Feb. 5, 1993, see section 405(b)(1) of Pub. L. 103–3, set out as a note under [section 2601 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2601&num=0&edition=prelim), Labor.
@@ -2210,7 +2217,7 @@ Pub. L. 111–84, div. A, title V, § 565(b)(5), Oct. 28, 2009, 123 Stat. 2312, 
 ## § 6382. Leave requirement
 **(a)**
 
-(1) Subject to section 6383, an employee shall be entitled to a total of 12 administrative workweeks of leave during any 12-month period for one or more of the following:
+(1) Subject to section 6383 and subsection (d)(2) of this section, an employee shall be entitled to a total of 12 administrative workweeks of leave during any 12-month period for one or more of the following:
 
   (A) Because of the birth of a son or daughter of the employee and in order to care for such son or daughter.
 
@@ -2226,7 +2233,7 @@ Pub. L. 111–84, div. A, title V, § 565(b)(5), Oct. 28, 2009, 123 Stat. 2312, 
 
 (3) Subject to section 6383, an employee who is the spouse, son, daughter, parent, or next of kin of a covered servicemember shall be entitled to a total of 26 administrative workweeks of leave during a 12-month period to care for the servicemember. The leave described in this paragraph shall only be available during a single 12-month period.
 
-(4) During the single 12-month period described in paragraph (3), an employee shall be entitled to a combined total of 26 administrative workweeks of leave under paragraphs (1) and (3). Nothing in this paragraph shall be construed to limit the availability of leave under paragraph (1) during any other 12-month period.
+(4) Subject to subsection (d)(2), during the single 12-month period described in paragraph (3), an employee shall be entitled to a combined total of 26 administrative workweeks of leave under paragraphs (1) and (3). Nothing in this paragraph shall be construed to limit the availability of leave under paragraph (1) during any other 12-month period.
 
 **(b)**
 
@@ -2240,7 +2247,49 @@ Pub. L. 111–84, div. A, title V, § 565(b)(5), Oct. 28, 2009, 123 Stat. 2312, 
 
 **(c)** Except as provided in subsection (d), leave granted under subsection (a) shall be leave without pay.
 
-**(d)** An employee may elect to substitute for leave under subparagraph (A), (B), (C), (D), or (E) of subsection (a)(1) any of the employee’s accrued or accumulated annual or sick leave under subchapter I for any part of the 12-week period of leave under such subsection, except that nothing in this subchapter shall require an employing agency to provide paid sick leave in any situation in which such employing agency would not normally provide any such paid leave. An employee may elect to substitute for leave under subsection (a)(3) any of the employee’s accrued or accumulated annual or sick leave under subchapter I for any part of the 26-week period of leave under such subsection.
+**(d)**
+
+(1) An employee may elect to substitute for leave under subparagraph (C), (D), or (E) of subsection (a)(1) any of the employee’s accrued or accumulated annual or sick leave for any part of the 12-week period of leave under such subsection, except that nothing in this subchapter shall require an employing agency to provide paid sick leave in any situation in which such employing agency would not normally provide any such paid leave. An employee may elect to substitute for leave under subsection (a)(3) any of the employee’s accrued or accumulated annual or sick leave for any part of the 26-week period of leave under such subsection.
+
+(2)
+
+  (A) An employee may elect to substitute for any leave without pay under subparagraph (A) or (B) of subsection (a)(1) any paid leave which is available to such employee for that purpose.
+
+  (B) The paid leave that is available to an employee for purposes of subparagraph (A) is—
+
+    (i) 12 administrative workweeks of paid parental leave under this subparagraph in connection with the birth or placement involved; and
+
+    (ii) during the 12-month period referred to in subsection (a)(1), and in addition to the 12 administrative workweeks under clause (i), any annual or sick leave accrued or accumulated by such employee.
+
+  (C) Nothing in this subsection shall be considered to require that an employee first use all or any portion of the leave described in subparagraph (B)(ii) before being allowed to use the paid parental leave described in subparagraph (B)(i).
+
+  (D) Paid parental leave under subparagraph (B)(i)—
+
+    (i) shall be payable from any appropriation or fund available for salaries or expenses for positions within the employing agency;
+
+    (ii) shall not be considered to be annual or vacation leave for purposes of section 5551 or 5552 or for any other purpose; and
+
+    (iii) if not used by the employee before the end of the 12-month period (as referred to in subsection (a)(1)) to which it relates, shall not accumulate for any subsequent use.
+
+  (E) Nothing in this paragraph shall be construed to modify the requirement to complete at least 12 months of service as an employee (within the meaning of section 6381(1)(A)) before the date of the applicable birth or placement involved to be eligible for paid parental leave under subparagraph (B)(i) of this paragraph.
+
+  (F)
+
+    (i) An employee may not take leave under this paragraph unless the employee agrees (in writing), before the commencement of such leave, to work for the applicable employing agency for not less than a period of 12 weeks beginning on the date such leave concludes.
+
+    (ii) The head of the agency shall waive the requirement in clause (i) in any instance where the employee is unable to return to work because of the continuation, recurrence, or onset of a serious health condition (including mental health), related to the applicable birth or placement of a child, of the employee or the child.
+
+    (iii) The head of the employing agency may require that an employee who claims to be unable to return to work because of a health condition described under clause (ii) provide certification supporting such claim by the health care provider of the employee or the child (as the case may be). The employee shall provide such certification to the head in a timely manner.
+
+  (G)
+
+    (i) If an employee fails to return from paid leave provided under this paragraph after the date such leave concludes, the employing agency may recover, from such employee, an amount equal to the total amount of Government contributions paid by the agency under section 8906 on behalf of the employee for maintaining such employee’s health coverage under chapter 89 during the period of such leave.
+
+    (ii) Clause (i) shall not apply to any employee who fails to return from such leave due to—
+
+      (I) the continuation, recurrence, or onset of a serious health condition as described under, and consistent with the requirements of, subparagraph (F); or
+
+      (II) any other circumstance beyond the control of the employee.
 
 **(e)**
 
@@ -2257,6 +2306,16 @@ Pub. L. 111–84, div. A, title V, § 565(b)(5), Oct. 28, 2009, 123 Stat. 2312, 
 ### Statutory Notes
 
 #### Amendments
+2021—Subsec. (d)(1). Pub. L. 116–283, § 1103(f)(3)(A), struck out “under subchapter I” before “for any part” in two places.
+
+Subsec. (d)(2)(B)(ii). Pub. L. 116–283, § 1103(f)(3)(B), struck out before period at end “under subchapter I”.
+
+2019—Subsec. (a)(1). Pub. L. 116–92, § 7602(b)(1), which directed amendment of section 6382(a)(1), without specifying the title to be amended, by inserting “and subsection (d)(2) of this section” after “section 6383” in introductory provisions, was executed to this section, to reflect the probable intent of Congress.
+
+Subsec. (a)(4). Pub. L. 116–92, § 7602(b)(2), which directed amendment of section 6382(a)(4), without specifying the title to be amended, by substituting “Subject to subsection (d)(2), during” for “During”, was executed to this section, to reflect the probable intent of Congress.
+
+Subsec. (d). Pub. L. 116–92, § 7602(a), designated existing provisions as par. (1), substituted “subparagraph (C),” for “subparagraph (A), (B), (C),”, and added par. (2). Amendment made by section 7602(a)(1) directing substitution of “(1) An employee” for “An employee” was executed to “An employee” appearing at the beginning of the subsection, to reflect the probable intent of Congress.
+
 2009—Subsec. (a)(1)(E). Pub. L. 111–84, § 565(b)(1)(B)(i), added subpar. (E).
 
 Subsec. (b)(1). Pub. L. 111–84, § 565(b)(1)(B)(ii), inserted after second sentence “Subject to subsection (e)(3) and section 6383(f), leave under subsection (a)(1)(E) may be taken intermittently or on a reduced leave schedule.”
@@ -2277,11 +2336,17 @@ Subsec. (d). Pub. L. 110–181, § 585(b)(3)(B), inserted at end “An employee 
 
 Subsec. (e). Pub. L. 110–181, § 585(b)(3)(C), as amended by Pub. L. 110–417, inserted “or under subsection (a)(3)” after “subsection (a)(1)” in par. (1) and in introductory provisions of par. (2).
 
+#### Effective Date of 2019 Amendment
+Pub. L. 116–92, div. F, title LXXVI, § 7602(c), Dec. 20, 2019, 133 Stat. 2306, provided that: “The amendments made by this section [amending this section] shall not be effective with respect to any birth or placement occurring before October 1, 2020.”
+
 #### Effective Date of 2008 Amendment
 Pub. L. 110–417, [div. A], title X, § 1061(b), Oct. 14, 2008, 122 Stat. 4612, provided that the amendment made by section 1061(b)(2) is effective as of Jan. 28, 2008, and as if included in Pub. L. 110–181 as enacted.
 
 #### Effective Date
 Section effective 6 months after Feb. 5, 1993, see section 405(b)(1) of Pub. L. 103–3, set out as a note under [section 2601 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2601&num=0&edition=prelim), Labor.
+
+#### Clarification for Members of the National Guard and Reserves: Executive Branch Employees
+Pub. L. 116–92, div. F, title LXXVI, § 7605(a), Dec. 20, 2019, 133 Stat. 2308, provided that: “For purposes of determining the eligibility of an employee who is a member of the National Guard or Reserves to take leave under [section 6382(a) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section6382/a&num=0&edition=prelim), United States Code, or to substitute such leave pursuant to subsection (d)(2)(A) of section 6382 of such title (as added by section 1102 [probably means section “7602” of Pub. L. 116–92]), any service by such employee on active duty (as defined in section 6381(7) of such title) shall be counted as service as an employee for purposes of section 6381(1)(B) of such title.”
 
 
 <a id="section-6383"></a>

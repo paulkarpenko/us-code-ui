@@ -25,11 +25,11 @@ The Congress makes the following findings:
 
 ### Statutory Notes
 
-#### Amendments
-2004—Par. (6). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
-
 #### References in Text
 Executive Order Numbered 11961, referred to in par. (4), is set out as a note under [section 3101 of this title](./chapter-046-international-investment-and-trade-in-services-survey.md#section-3101).
+
+#### Amendments
+2004—Par. (6). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
 
 #### Short Title
 Pub. L. 101–533, § 1, Nov. 7, 1990, 104 Stat. 2344, provided that: “This Act [enacting this chapter and [section 401 of Title 13](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title13-section401&num=0&edition=prelim), Census, and amending sections 3101 and 3103 to 3105 of this title and [section 9 of Title 13](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title13-section9&num=0&edition=prelim)] may be cited as the ‘Foreign Direct Investment and International Financial Data Improvements Act of 1990’.”

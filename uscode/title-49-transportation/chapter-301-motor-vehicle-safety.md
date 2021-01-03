@@ -24,6 +24,11 @@ The purpose of this chapter is to reduce traffic accidents and deaths and injuri
 
 The words “Congress hereby declares that”, “to persons”, and “Congress determines that” are omitted as surplus. The words “motor vehicle” before “equipment” are added for consistency. The words “and to expand the national driver register” are omitted because section 401 of the National Traffic and Motor Vehicle Safety Act of 1966 (Public Law 89–563, 80 Stat. 730), the only section in this law related to the national driver register, was superseded by the National Driver Register Act of 1982 (Public Law 97–364, 96 Stat. 1740).
 
+#### Short Title of 2020 Amendment
+Pub. L. 116–260, div. N, title IV, § 440, Dec. 27, 2020, 134 Stat. 2068, provided that: “This subtitle [subtitle C (§§ 440, 441) of title IV of div. N of Pub. L. 116–260, enacting provisions set out as a note under [section 31102 of this title](./chapter-311-commercial-motor-vehicle-safety.md#section-31102)] may be cited as the ‘Motor Carrier Safety Grant Relief Act of 2020’.”
+
+Pub. L. 116–260, div. U, title X, § 1001(a), Dec. 27, 2020, 134 Stat. 2304, provided that: “This title [enacting provisions set out as a note under [section 30301 of this title](./chapter-303-national-driver-register.md#section-30301) and amending provisions set out as a note under [section 30301 of this title](./chapter-303-national-driver-register.md#section-30301)] may be cited as the ‘REAL ID Modernization Act’.”
+
 #### Short Title of 2018 Amendment
 Pub. L. 115–323, § 1, Dec. 17, 2018, 132 Stat. 4443, provided that: “This Act [amending provisions set out as a note under [section 30301 of this title](./chapter-303-national-driver-register.md#section-30301)] may be cited as the ‘REAL ID Act Modification for Freely Associated States Act’.”
 
@@ -1293,7 +1298,7 @@ In subsection (d), the words “Notwithstanding [section 30163(c) of this title]
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
-| 30122(a) | 15:1397(a)(2)(A) (last sentence). | Sept. 9, 1966, Pub. L. 89–563, 80 Stat. 718, § 108(a)(2)(A)– (C); added Oct. 27, 1974, Pub. L. 93–492, § 103(a) (1)(A), 88 Stat. 1477. |
+| 30122(a) | 15:1397(a)(2)(A) (last sentence). | Sept. 9, 1966, Pub. L. 89–563, 80 Stat. 718, § 108(a)(2)(A)– (C); added Oct. 27, 1974, Pub. L. 93–492, § 103(a)(1)(A), 88 Stat. 1477. |
 | 30122(b) | 15:1397(a)(2)(A) (1st sentence). |  |
 | 30122(c) | 15:1397(a)(2)(B). |  |
 | 30122(d) | 15:1397(a)(2)(C). |  |

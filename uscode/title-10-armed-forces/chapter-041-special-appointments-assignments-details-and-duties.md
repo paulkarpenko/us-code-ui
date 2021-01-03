@@ -2,14 +2,14 @@
 title: 10
 chapter: '41'
 heading: 'SPECIAL APPOINTMENTS, ASSIGNMENTS, DETAILS, AND DUTIES'
-section_count: 13
+section_count: 14
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10&num=0&edition=prelim
 ---
 <a id="section-711"></a>
 ## § 711. Senior members of Military Staff Committee of United Nations: appointment
 
-The President, by and with the advice and consent of the Senate, may appoint an officer of the Army, an officer of the Navy or the Marine Corps, and an officer of the Air Force, as senior members of the Military Staff Committee of the United Nations.
+The President, by and with the advice and consent of the Senate, may appoint an officer of the Army, an officer of the Navy or the Marine Corps, and an officer of the Air Force or the Space Force, as senior members of the Military Staff Committee of the United Nations.
 
 ### Statutory Notes
 
@@ -21,6 +21,8 @@ The President, by and with the advice and consent of the Senate, may appoint an 
 The words “Within the limitations as to numbers in grade prescribed in this Act”, so far as they relate to the Army and the Air Force, are omitted as executed by the declaration of the national emergency on December 16, 1950, in accordance with an opinion of the Judge Advocate General of the Army (JAGA 1951/6180, 17 Oct. 1951). So far as they relate to the Navy and the Marine Corps they are omitted as surplusage. The words “may appoint” are inserted to make it explicit that the revised section prescribes the appointment as well as the rank and pay that go with it. The word “grade” is substituted for the word “rank”. The words “Navy or Marine Corps” are substituted for the words “Navy, including the Marine Corps”. The words “Army, * * * Air Force” are substituted for the words “Army less the Air Corps * * * Air Corps”. The words “pay and allowances of a vice admiral or lieutenant general” are omitted as surplusage, since this is implicit upon appointment to the grade. The words “and Naval” are omitted to conform to the name “Military Staff Committee” established by Article 47 of the United Nations Charter.
 
 #### Amendments
+2021—Pub. L. 116–283 inserted “or the Space Force” after “Air Force”.
+
 2016—Pub. L. 114–328 struck out second sentence which read as follows: “An officer so appointed has the grade of lieutenant general or vice admiral, as the case may be, while serving under that appointment.”
 
 
@@ -58,7 +60,7 @@ Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of 
 
 <a id="section-712"></a>
 ## § 712. Foreign governments: detail to assist
-**(a)** Upon the application of the country concerned, the President, whenever he considers it in the public interest, may detail members of the Army, Navy, Air Force, and Marine Corps to assist in military matters—
+**(a)** Upon the application of the country concerned, the President, whenever he considers it in the public interest, may detail members of the Army, Navy, Air Force, Marine Corps, and Space Force to assist in military matters—
 
 (1) any republic in North America, Central America, or South America;
 
@@ -80,6 +82,8 @@ In subsection (a), the words “and the Commonwealth of the Philippine Islands�
 In subsection (b), the words “entitled to credit for all service” are substituted for the words “and shall be allowed the same credit for longevity, retirement, and for all other purposes”, in 10:540 and 34:441a.
 
 #### Amendments
+2021—Subsec. (a). Pub. L. 116–283 substituted “Marine Corps, and Space Force” for “and Marine Corps” in introductory provisions.
+
 1958—Subsec. (b). Pub. L. 85–477 struck out provisions which authorized members of the armed forces to accept compensation or emoluments from countries to which they are detailed, and inserted provisions permitting arrangements for reimbursement or other sharing of cost.
 
 #### Effective Date of 1958 Amendment
@@ -297,7 +301,7 @@ Functions of President under subsec. (a) of this section delegated to Secretary 
 
 **(c)**
 
-(1) Not more than $3,000,000, to be apportioned among the military departments as the Secretary of Defense prescribes, may be spent during each successive four-year period beginning on October 1, 1980, for the participation of members of the Army, Navy, Air Force, and Marine Corps in the competitions covered by subsection (a).
+(1) Not more than $3,000,000, to be apportioned among the military departments as the Secretary of Defense prescribes, may be spent during each successive four-year period beginning on October 1, 1980, for the participation of members of the Army, Navy, Air Force, Marine Corps, and Space Force in the competitions covered by subsection (a).
 
 (2) Not more than $100,000 may be spent during each successive four-year period beginning on October 1, 1980, for the participation of members of the Coast Guard in the competitions covered by subsection (a).
 
@@ -321,6 +325,8 @@ In subsection (c), the words “materiel, and equipment” are omitted as covere
 This section corrects a duplication in numbering occasioned by the addition of a duplicate section 716 by Pub. L. 85–861. (The first section 716 was added by Pub. L. 85–599.)
 
 #### Amendments
+2021—Subsec. (c)(1). Pub. L. 116–283 substituted “Marine Corps, and Space Force” for “and Marine Corps”.
+
 2006—Subsec. (a). Pub. L. 109–163 substituted “participate in any of the following sports competitions:
 
 “(1) The Pan-American Games and the Olympic Games, and qualifying events and preparatory competition for those games.
@@ -410,3 +416,18 @@ Section, added Pub. L. 105–85, div. A, title V, § 501(a), Nov. 18, 1997, 111 
 ### Statutory Notes
 
 Section, added Pub. L. 109–364, div. A, title V, § 507(a)(1)(A), Oct. 17, 2006, 120 Stat. 2180, related to grade of Attending Physician to the Congress.
+
+
+<a id="section-723"></a>
+## § 723. Support of Federal authorities in response to civil disturbances: requirement for use of members of the Armed Forces and Federal law enforcement personnel
+**(a) Requirement.—** Whenever a member of the armed forces (including the National Guard) or Federal law enforcement personnel provide support to Federal authorities to respond to a civil disturbance, each individual employed in the capacity of providing such support shall visibly display—
+
+(1) the individual’s name or other individual identifier that is unique to that individual; and
+
+(2) the name of the armed force, Federal entity, or other organization by which such individual is employed.
+
+**(b) Exception.—** The requirement under subsection (a) shall not apply to individuals referred to in such subsection who—
+
+(1) do not wear a uniform or other distinguishing clothing or equipment in the regular performance of their official duties; or
+
+(2) are engaged in undercover operations in the regular performance of their official duties.

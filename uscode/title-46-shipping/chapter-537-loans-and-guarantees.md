@@ -2,7 +2,7 @@
 title: 46
 chapter: '537'
 heading: LOANS AND GUARANTEES
-section_count: 28
+section_count: 29
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46&num=0&edition=prelim
 ---
@@ -31,13 +31,7 @@ In this chapter:
 
     (ii) any amount paid or obligated to be paid for the reconstruction or reconditioning, depreciated on a straight line basis using a useful life of the vessel determined by the Secretary or Administrator.
 
-(5) **Eligible export vessel.—** — The term “eligible export vessel” means a vessel that—
-
-  (A) is constructed, reconstructed, or reconditioned in the United States for use in world-wide trade; and
-
-  (B) will, on delivery or redelivery, become or remain documented under the laws of a country other than the United States.
-
-(6) **Fishery facility.—**
+(5) **Fishery facility.—**
 
   (A) *In general.—* — Subject to subparagraph (B), the term “fishery facility” means—
 
@@ -67,9 +61,9 @@ In this chapter:
 
     (ii) an entity that is a citizen of the United States under [section 50501 of this title](./chapter-505-other-general-provisions.md#section-50501) and that is at least 75 percent owned (as determined under that section) by citizens of the United States.
 
-(7) **Fishing vessel.—** — The term “fishing vessel” has the meaning given that term in section 3 of the Magnuson-Stevens Fishery Conservation and Management Act ([16 U.S.C. 1802](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1802&num=0&edition=prelim)), and any reference in this chapter to a vessel designed principally for commercial use in the fishing trade or industry is deemed to be a reference to a fishing vessel.
+(6) **Fishing vessel.—** — The term “fishing vessel” has the meaning given that term in section 3 of the Magnuson-Stevens Fishery Conservation and Management Act ([16 U.S.C. 1802](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1802&num=0&edition=prelim)), and any reference in this chapter to a vessel designed principally for commercial use in the fishing trade or industry is deemed to be a reference to a fishing vessel.
 
-(8) **Historical uses.—** — The term “historical uses” includes—
+(7) **Historical uses.—** — The term “historical uses” includes—
 
   (A) refurbishing, repairing, rebuilding, or replacing equipment on a fishing vessel, without materially increasing harvesting capacity;
 
@@ -93,23 +87,23 @@ In this chapter:
 
     (v) safety.
 
-(9) **Mortgage.—** — The term “mortgage” includes—
+(8) **Mortgage.—** — The term “mortgage” includes—
 
   (A) a preferred mortgage as defined in [section 31301 of this title](./chapter-313-commercial-instruments-and-maritime-liens.md#section-31301); and
 
   (B) a mortgage on a vessel that will become a preferred mortgage when filed or recorded under chapter 313 of this title.
 
-(10) **Obligation.—** — The term “obligation” means an instrument of indebtedness issued for a purpose described in [section 53706 of this title](./chapter-537-loans-and-guarantees.md#section-53706), except—
+(9) **Obligation.—** — The term “obligation” means an instrument of indebtedness issued for a purpose described in [section 53706 of this title](./chapter-537-loans-and-guarantees.md#section-53706), except—
 
   (A) an obligation issued by the Secretary or Administrator under [section 53723 of this title](./chapter-537-loans-and-guarantees.md#section-53723); and
 
   (B) an obligation eligible for investment of funds under section 53715(f) or 53717 of this title.
 
-(11) **Obligee.—** — The term “obligee” means the holder of an obligation.
+(10) **Obligee.—** — The term “obligee” means the holder of an obligation.
 
-(12) **Obligor.—** — The term “obligor” means a party primarily liable for payment of the principal of or interest on an obligation.
+(11) **Obligor.—** — The term “obligor” means a party primarily liable for payment of the principal of or interest on an obligation.
 
-(13) **Ocean thermal energy conversion facility or plantship.—** — The term “ocean thermal energy conversion facility or plantship” means an at-sea facility or vessel, whether mobile, floating unmoored, moored, or standing on the seabed, that uses temperature differences in ocean water to produce electricity or another form of energy capable of being used directly to perform work, and includes—
+(12) **Ocean thermal energy conversion facility or plantship.—** — The term “ocean thermal energy conversion facility or plantship” means an at-sea facility or vessel, whether mobile, floating unmoored, moored, or standing on the seabed, that uses temperature differences in ocean water to produce electricity or another form of energy capable of being used directly to perform work, and includes—
 
   (A) equipment installed on the facility or vessel to use the electricity or other form of energy to produce, process, refine, or manufacture a product;
 
@@ -117,9 +111,9 @@ In this chapter:
 
   (C) other associated equipment and appurtenances of the facility or vessel to the extent they are located seaward of the high water mark.
 
-(14) **Secretary.—** — The term “Secretary” means the Secretary of Commerce with respect to fishing vessels and fishery facilities.
+(13) **Secretary.—** — The term “Secretary” means the Secretary of Commerce with respect to fishing vessels and fishery facilities.
 
-(15) **Vessel.—** — The term “vessel” means any type of vessel, whether in existence or under construction, including—
+(14) **Vessel.—** — The term “vessel” means any type of vessel, whether in existence or under construction, including—
 
   (A) a cargo vessel;
 
@@ -146,6 +140,8 @@ In this chapter:
   (L) a fishing vessel whose ownership meets the citizenship requirements under [section 50501 of this title](./chapter-505-other-general-provisions.md#section-50501) for documenting vessels to operate in the coastwise trade; and
 
   (M) an ocean thermal energy conversion facility or plantship that is or will be documented under the laws of the United States.
+
+(15) **Vessel of national interest.—** — The term “Vessel of National Interest” means a vessel deemed to be of national interest that meets characteristics determined by the Administrator, in consultation with the Secretary of Defense, the Secretary of the Department in which the Coast Guard is operating when it is not operating as a service in the Department of the Navy, or the heads of other Federal agencies, as described in section 53703(d).
 
 ### Statutory Notes
 
@@ -177,6 +173,8 @@ In paragraph (5)(B)(ii), the words “corporation, partnership, association, or 
 In paragraph (8), before subparagraph (A), the words “instrument of indebtedness” are substituted for “note, bond, debenture, or other evidence of indebtedness” to eliminate unnecessary words. In subparagraph (B), the reference to section 53717 is substituted for the reference to 46 App. U.S.C. 1272 because the accounts under section 53717 replace the Federal Ship Financing Fund. See the explanation for section 53717.
 
 #### Amendments
+2019—Pars. (5) to (15). Pub. L. 116–92 redesignated pars. (6) to (15) as (5) to (14), respectively, added a new par. (15), and struck out former par. (5) which defined “eligible export vessel”.
+
 2016—Pars. (8) to (15). Pub. L. 114–120 added par. (8) and redesignated former pars. (8) to (14) as (9) to (15), respectively.
 
 2008—Pub. L. 110–181, § 3522(b), repealed Pub. L. 109–163, § 3507(a)(1)(A), (b)(1). See 2006 Amendment note below.
@@ -190,7 +188,11 @@ Pub. L. 110–181, § 3522(a)(1), incorporated the substance of the amendment by
 
 <a id="section-53702"></a>
 ## § 53702. General authority
-**(a) In General.—** The Secretary or Administrator, on terms the Secretary or Administrator may prescribe, may guarantee or make a commitment to guarantee the payment of the principal of and interest on an obligation eligible to be guaranteed under this chapter. A guarantee or commitment to guarantee shall cover 100 percent of the principal and interest.
+**(a) In General.—**
+
+(1) **Guarantee of payments.—** — The Secretary or Administrator, on terms the Secretary or Administrator may prescribe, may guarantee or make a commitment to guarantee the payment of the principal of and interest on an obligation eligible to be guaranteed under this chapter. A guarantee or commitment to guarantee shall cover 100 percent of the principal and interest.
+
+(2) **Preferred eligible lender.—** — The Federal Financing Bank shall be the preferred eligible lender of the principal and interest of the guaranteed obligations issued under this chapter.
 
 **(b) Direct Loans for Fisheries.—**
 
@@ -220,6 +222,8 @@ In subsection (a), the words “on terms the Secretary may prescribe” are adde
 Subsec. (b) of this section was derived from section 1112 of act June 29, 1936, as added by Pub. L. 104–297, § 303(a), which was classified to section 1279g of the former Appendix to this title. Section 1112 was renumbered section 1114 of the Act by Pub. L. 109–163, div. C, title XXXV, § 3507(d), Jan. 6, 2006, 119 Stat. 3557, which was repealed by Pub. L. 110–181, div. C, title XXXV, § 3522(b), Jan. 28, 2008, 122 Stat. 598. See Historical and Revision notes above and section 18(a) of Pub. L. 109–304, set out as a Legislative Purpose and Construction note preceding [section 101 of this title](./chapter-001-definitions.md#section-101).
 
 #### Amendments
+2019—Subsec. (a). Pub. L. 116–92 amended subsec. (a) generally. Prior to amendment, text read as follows: “The Secretary or Administrator, on terms the Secretary or Administrator may prescribe, may guarantee or make a commitment to guarantee the payment of the principal of and interest on an obligation eligible to be guaranteed under this chapter. A guarantee or commitment to guarantee shall cover 100 percent of the principal and interest.”
+
 2016—Subsec. (b)(3), (4). Pub. L. 114–120 added pars. (3) and (4).
 
 2008—Pub. L. 110–181, § 3522(b), repealed Pub. L. 109–163, § 3507(a)(1)(C), (d). See 2006 Amendment note below and Codification note above.
@@ -230,7 +234,7 @@ Subsec. (a). Pub. L. 110–181, § 3522(a)(10)(B), incorporated the substance of
 
 
 <a id="section-53703"></a>
-## § 53703. Application procedures
+## § 53703. Application and administration
 **(a) Time for Decision.—**
 
 (1) **In general.—** — The Secretary or Administrator shall approve or deny an application for a loan guarantee under this chapter within 270 days after the date on which the signed application is received by the Secretary or Administrator.
@@ -238,6 +242,36 @@ Subsec. (a). Pub. L. 110–181, § 3522(a)(10)(B), incorporated the substance of
 (2) **Extension.—** — On request by an applicant, the Secretary or Administrator may extend the 270-day period in paragraph (1) to a date not later than 2 years after the date on which the signed application was received by the Secretary or Administrator.
 
 **(b) Certification of Review.—** The Secretary or Administrator may not guarantee or make a commitment to guarantee an obligation under this chapter unless the Secretary or Administrator certifies that a full and fair consideration of all the regulatory requirements, including economic soundness and financial requirements applicable to the obligor and related parties, and a thorough assessment of the technical, economic, and financial aspects of the loan application, has been made.
+
+**(c) Independent Analysis.—**
+
+(1) **In general.—** — To assess and mitigate the risks due to factors associated with markets, technology, financial, or legal structures related to an application or guarantee under this chapter, the Secretary or Administrator may utilize third party experts, including legal counsel, to—
+
+  (A) process and review applications under this chapter, including conducting independent analysis and review of aspects of an application;
+
+  (B) represent the Secretary or Administrator in structuring and documenting the obligation guarantee;
+
+  (C) analyze and review aspects of, structure, and document the obligation guarantee during the term of the guarantee;
+
+  (D) recommend financial covenants or financial ratios to be met by the applicant during the time a guarantee under this chapter is outstanding that are—
+
+    (i) based on the financial covenants or financial ratios, if any, that are then applicable to the obligor under private sector credit agreements; and
+
+    (ii) in lieu of other financial covenants applicable to the obligor under this chapter with respect to requirements regarding long-term debt-to-equity, minimum working capital, or minimum amount of equity; and
+
+  (E) represent the Secretary or Administrator to protect the security interests of the Government relating to an obligation guarantee.
+
+(2) **Private sector expert.—** — Independent analysis, review, and representation conducted under this subsection shall be performed by a private sector expert in the applicable field who is selected by the Secretary or Administrator.
+
+**(d) Vessels of National Interest.—**
+
+(1) **Notice of funding.—** — The Secretary or Administrator may post a notice in the Federal Register regarding the availability of funding for obligation guarantees under this chapter for the construction, reconstruction, or reconditioning of a Vessel of National Interest and include a timeline for the submission of applications for such vessels.
+
+(2) **Vessel characteristics.—**
+
+  (A) *In general.—* — The Secretary or Administrator, in consultation with the Secretary of Defense, the Secretary of the Department in which the Coast Guard is operating when it is not operating as service in the Department of the Navy, or the heads of other Federal agencies, shall develop and publish a list of vessel types that would be considered Vessels of National Interest.
+
+  (B) *Review.—* — Such list shall be reviewed and revised every four years or as necessary, as determined by the Administrator.
 
 ### Statutory Notes
 
@@ -248,11 +282,18 @@ Subsec. (a). Pub. L. 110–181, § 3522(a)(10)(B), incorporated the substance of
 | 53703(b) | 46 App.:1274(l). |  |
 
 #### Amendments
+2019—Pub. L. 116–92, § 3506(c)(1), substituted “and administration” for “procedures” in section catchline.
+
+Subsecs. (c), (d). Pub. L. 116–92, § 3506(c)(2), added subsecs. (c) and (d).
+
 2008—Pub. L. 110–181, § 3522(b), repealed Pub. L. 109–163, § 3507(a)(1)(D), (2)(G), (b)(7). See 2006 Amendment note below.
 
 Pub. L. 110–181, § 3522(a)(10)(B), incorporated the substance of the amendment by Pub. L. 109–163, § 3507(a)(1)(D), (2)(G), (b)(7), into this section by inserting “or Administrator” after “Secretary” wherever appearing. See 2006 Amendment note below and section 18(a) of Pub. L. 109–304, set out as a Legislative Purpose and Construction note preceding [section 101 of this title](./chapter-001-definitions.md#section-101).
 
 2006—Pub. L. 109–163, § 3507(a)(1)(D), (2)(G), (b)(7), which directed the amendment of section 1274(l), (n) of the former Appendix to this title from which this section was derived, was repealed by Pub. L. 110–181, § 3522(b). See 2008 Amendment notes and Historical and Revision notes above.
+
+#### Expedited Consideration of Low-Risk Applications
+Pub. L. 116–92, div. C, title XXXV, § 3506(j), Dec. 20, 2019, 133 Stat. 1974, provided that: “(1) In general.—In accordance with the requirements of this subsection, the Administrator shall establish an administrative process and issue guidance for the expedited consideration of low-risk applications submitted under chapter 537 of title 46, United States Code. “(2) Stakeholder comment.—Not later than 180 days after the date of enactment of this section [Dec. 20, 2019], the Administrator of the Maritime Administration shall publish in the Federal Register a notice of a 45-day public comment period to request stakeholder input and recommendations to establish the administrative process required under this subsection, including proposals to assist applicants—“(A) in the development and submission of initial applications; “(B) in meeting requests for supplemental information made by the Administrator; and “(C) to comply with other requirements made by the Administrator to ensure the expedited consideration of applications. “(3) Industry best practices.—The administrative process established under this subsection shall utilize, to the extent practicable, relevant Federal and industry best practices found in the maritime and shipbuilding industries. “(4) Final guidance.—Not later than 90 days after the conclusion of the public comment period required under paragraph (2), the Administrator shall publish in the Federal Register final guidance to assist applicants in the preparation and filing of applications under this subsection.”
 
 #### Review of Applications for Loans and Guarantees
 Pub. L. 110–181, div. C, title XXXV, § 3517, Jan. 28, 2008, 122 Stat. 595, provided that: “(a) Findings.—The Congress makes the following findings:“(1) The maritime loan guarantee program was established by the Congress through the Merchant Marine Act, 1936 [see Short Title of 1936 Amendment note set out under [section 101 of this title](./chapter-001-definitions.md#section-101)] to encourage domestic shipbuilding by making available federally backed loan guarantees for new construction to ship owners and operators. “(2) The maritime loan guarantee program has a long and successful history of ship construction with a low historical default rate. “(3) The current process for review of applications for maritime loans in the Department of Transportation has effectively discontinued the program as envisioned by the Congress. “(4) The President has requested no funding for the loan guarantee program despite the stated national policy to foster the development and encourage the maintenance of a merchant marine in [section 50101 of title 46](./chapter-501-policy-studies-and-reports.md#section-50101), United States Code. “(5) United States commercial shipyards were placed at a competitive disadvantage in the world shipbuilding market by government subsidized foreign commercial shipyards. “(6) The maritime loan guarantee program has the potential to modernize shipyards and the ships of the United States coastwise trade and restore a competitive position in the world shipbuilding market for United States shipyards. “(7) The maritime loan guarantee program is a useful tool to encourage domestic shipbuilding, preserving a vital industrial capacity critical to the security of the United States. “(b) Requirements.—“(1) In general.—Within 180 days after the date of enactment of this Act [Jan. 28, 2008], the Administrator of the Maritime Administration shall develop and implement a comprehensive plan for the review of applications for loan guarantees under chapter 537 of title 46, United States Code. “(2) Deadline for action on application.—“(A) Traditional applications.—In the comprehensive plan the Administrator will ensure that within the 90-day period following receipt of all pertinent documentation required for review of a traditional loan application, the application shall be either accepted or rejected. “(B) Nontraditional applications.—In the comprehensive plan the Administrator will ensure that within the 180-day period following receipt of all pertinent documentation required for review of a nontraditional loan application, the application shall be either accepted or rejected. “(c) Submission to Congress.—The Administrator shall submit a copy of the comprehensive plan to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Armed Services of the House of Representatives within 180 days after the date of enactment of this Act [Jan. 28, 2008]. “(d) Definitions.—In this section:“(1) Traditional application.—The term ‘traditional application’ means an application for a loan, guarantee, or commitment to guarantee submitted pursuant to chapter 537 of title 46, United States Code, that involves a market, technology, and financial structure of a type that has proven successful in previous applications and does not present an unreasonable risk to the United States, as determined by the Administrator of the Maritime Administration. “(2) Nontraditional application.—The term ‘nontraditional application’ means an application for a loan, guarantee, or commitment to guarantee submitted pursuant to chapter 537 of title 46, United States Code, that is not a traditional application, as determined by the Administrator of the Maritime Administration.”
@@ -260,11 +301,7 @@ Pub. L. 110–181, div. C, title XXXV, § 3517, Jan. 28, 2008, 122 Stat. 595, pr
 
 <a id="section-53704"></a>
 ## § 53704. Funding limits
-**(a) General Limitations.—** The total unpaid principal amount of obligations guaranteed under this chapter and outstanding at one time may not exceed $12,000,000,000. Of that amount—
-
-(1) $850,000,000 shall be limited to obligations related to fishing vessels and fishery facilities; and
-
-(2) $3,000,000,000 shall be limited to obligations related to eligible export vessels.
+**(a) General Limitations.—** The total unpaid principal amount of obligations guaranteed under this chapter and outstanding at one time may not exceed $12,000,000,000. Of that amount, $850,000,000 shall be limited to obligations related to fishing vessels and fishery facilities.
 
 **(b) Additional Limitations.—** Additional limitations may not be imposed on new commitments to guarantee loans for any fiscal year, except in amounts established in advance by annual authorization laws. A vessel eligible for a guarantee under this chapter may not be denied eligibility because of its type.
 
@@ -296,27 +333,25 @@ Pub. L. 110–181, div. C, title XXXV, § 3517, Jan. 28, 2008, 122 Stat. 595, pr
 
 (4) **Risk factors.—** — The risk factors referred to in this subsection are—
 
-  (A) if applicable, the country risk for each eligible export vessel financed or to be financed by an obligation;
+  (A) the period for which an obligation is guaranteed or to be guaranteed;
 
-  (B) the period for which an obligation is guaranteed or to be guaranteed;
+  (B) the amount of an obligation guaranteed or to be guaranteed in relation to the total cost of the project financed or to be financed by the obligation;
 
-  (C) the amount of an obligation guaranteed or to be guaranteed in relation to the total cost of the project financed or to be financed by the obligation;
+  (C) the financial condition of an obligor or applicant for a guarantee;
 
-  (D) the financial condition of an obligor or applicant for a guarantee;
+  (D) if applicable, other guarantees related to the project;
 
-  (E) if applicable, other guarantees related to the project;
+  (E) if applicable, the projected employment of each vessel or equipment to be financed with an obligation;
 
-  (F) if applicable, the projected employment of each vessel or equipment to be financed with an obligation;
+  (F) if applicable, the projected market that will be served by each vessel or equipment to be financed with an obligation;
 
-  (G) if applicable, the projected market that will be served by each vessel or equipment to be financed with an obligation;
+  (G) the collateral provided for a guarantee for an obligation;
 
-  (H) the collateral provided for a guarantee for an obligation;
+  (H) the management and operating experience of an obligor or applicant for a guarantee;
 
-  (I) the management and operating experience of an obligor or applicant for a guarantee;
+  (I) whether a guarantee under this chapter is or will be in effect during the construction period of the project; and
 
-  (J) whether a guarantee under this chapter is or will be in effect during the construction period of the project; and
-
-  (K) the concentration risk presented by an unduly large percentage of loans outstanding by any one borrower or group of affiliated borrowers.
+  (J) the concentration risk presented by an unduly large percentage of loans outstanding by any one borrower or group of affiliated borrowers.
 
 ### Statutory Notes
 
@@ -328,6 +363,14 @@ Pub. L. 110–181, div. C, title XXXV, § 3517, Jan. 28, 2008, 122 Stat. 595, pr
 | 53704(c) | 46 App.:1273(h). | June 29, 1936, ch. 858, title XI, § 1103(h), as added Pub. L. 104–239, § 13(a), Oct. 8, 1996, 110 Stat. 3134; Pub. L. 108–136, title XXXV, § 3528(b), Nov. 24, 2003, 117 Stat. 1802. |
 
 #### Amendments
+2019—Subsec. (a). Pub. L. 116–92, § 3506(d)(1), substituted “that amount, $850,000,000 shall be limited to obligations related to fishing vessels and fishery facilities.” for “that amount—” and pars. (1) and (2) which read as follows:
+
+“(1) $850,000,000 shall be limited to obligations related to fishing vessels and fishery facilities; and
+
+“(2) $3,000,000,000 shall be limited to obligations related to eligible export vessels.”
+
+Subsec. (c)(4). Pub. L. 116–92, § 3506(d)(2), redesignated subpars. (B) to (K) as (A) to (J), respectively, and struck out former subpar. (A) which read as follows: “if applicable, the country risk for each eligible export vessel financed or to be financed by an obligation;”.
+
 2008—Pub. L. 110–181, § 3522(b), repealed Pub. L. 109–163, § 3507(a)(1)(C). See 2006 Amendment note below.
 
 Subsec. (c). Pub. L. 110–181, § 3522(a)(10)(B), incorporated the substance of the amendment by Pub. L. 109–163, § 3507(a)(1)(C), into this section by inserting “or Administrator” after “Secretary” wherever appearing. See 2006 Amendment note below and section 18(a) of Pub. L. 109–304, set out as a Legislative Purpose and Construction note preceding [section 101 of this title](./chapter-001-definitions.md#section-101).
@@ -361,7 +404,7 @@ Subsec. (c). Pub. L. 110–181, § 3522(a)(10)(B), incorporated the substance of
 
 (1)
 
-  (A) Financing (including reimbursement of an obligor for expenditures previously made for) the construction, reconstruction, or reconditioning of a vessel (including an eligible export vessel) designed principally for research, or for commercial use—
+  (A) Financing (including reimbursement of an obligor for expenditures previously made for) the construction, reconstruction, or reconditioning of a vessel designed principally for research, or for commercial use—
 
     (i) in the coastwise or intercoastal trade;
 
@@ -369,11 +412,9 @@ Subsec. (c). Pub. L. 110–181, § 3522(a)(10)(B), incorporated the substance of
 
     (iii) in foreign trade as defined in [section 109(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section109/b&num=0&edition=prelim);
 
-    (iv) as an ocean thermal energy conversion facility or plantship;
+    (iv) as an ocean thermal energy conversion facility or plantship; or
 
-    (v) as a floating drydock in the construction, reconstruction, reconditioning, or repair of vessels; or
-
-    (vi) as an eligible export vessel in worldwide trade.
+    (v) as a floating drydock in the construction, reconstruction, reconditioning, or repair of vessels.
 
   (B) A guarantee under subparagraph (A) may not be made more than one year after delivery of the vessel (or redelivery if the vessel was reconstructed or reconditioned) unless the proceeds of the obligation are used to finance the construction, reconstruction, or reconditioning of a vessel or of facilities or equipment related to marine operations.
 
@@ -411,13 +452,15 @@ Subsec. (c). Pub. L. 110–181, § 3522(a)(10)(B), incorporated the substance of
 
 (1) **Vessels.—** — In guaranteeing or making a commitment to guarantee an obligation under this chapter, the Administrator shall give priority to—
 
-  (A) a vessel that is otherwise eligible for a guarantee and is constructed with assistance under subtitle D of the Maritime Security Act of 2003 ([46 U.S.C. 53101](./chapter-531-maritime-security-fleet.md#section-53101) note); and
+  (A) a vessel that is otherwise eligible for a guarantee and is constructed with assistance under subtitle D of the Maritime Security Act of 2003 ([46 U.S.C. 53101](./chapter-531-maritime-security-fleet.md#section-53101) note);
 
   (B) after applying subparagraph (A), a vessel that is otherwise eligible for a guarantee and that the Secretary of Defense determines—
 
     (i) is suitable for service as a naval auxiliary in time of war or national emergency; and
 
-    (ii) meets a shortfall in sealift capacity or capability.
+    (ii) meets a shortfall in sealift capacity or capability; and
+
+  (C) after applying subparagraphs (A) and (B), Vessels of National Interest.
 
 (2) **Time for determination.—** — The Secretary of Defense shall determine whether a vessel satisfies paragraph (1)(B) not later than 30 days after receipt of a request from the Administrator for such a determination.
 
@@ -440,6 +483,12 @@ Section 303(d)(4) of the Magnuson-Stevens Fishery Conservation and Management Ac
 The Maritime Security Act of 2003, referred to in subsec. (c)(1)(A), is title XXXV of div. C of Pub. L. 108–136, Nov. 24, 2003, 117 Stat. 1788. Subtitle D of the Act amended section 1273 of the former Appendix to this title and enacted provisions set out as a note under [section 53101 of this title](./chapter-531-maritime-security-fleet.md#section-53101). For complete classification of this Act to the Code, see Short Title of 2003 Amendment note set out under [section 101 of this title](./chapter-001-definitions.md#section-101) and Tables.
 
 #### Amendments
+2019—Subsec. (a)(1)(A). Pub. L. 116–92, § 3506(e)(1)(A), struck out “(including an eligible export vessel)” after “reconditioning of a vessel” in introductory provisions.
+
+Subsec. (a)(1)(A)(vi). Pub. L. 116–92, § 3506(e)(1)(B)–(D), struck out cl. (vi) which read as follows: “as an eligible export vessel in worldwide trade.”
+
+Subsec. (c)(1)(C). Pub. L. 116–92, § 3506(e)(2), added subpar. (C).
+
 2008—Pub. L. 110–181, § 3522(b), repealed Pub. L. 109–163, § 3507(a)(1)(D), (2)(A), (B), (b)(2). See 2006 Amendment note below.
 
 Subsec. (a)(3)(B)(iii). Pub. L. 110–181, § 3522(a)(10)(B), incorporated the substance of the amendment by Pub. L. 109–163, § 3507(a)(1)(D), into this section by inserting “or Administrator” after “Secretary”. See 2006 Amendment note below and section 18(a) of Pub. L. 109–304, set out as a Legislative Purpose and Construction note preceding [section 101 of this title](./chapter-001-definitions.md#section-101).
@@ -605,13 +654,9 @@ Subsec. (e). Pub. L. 110–181, § 3522(a)(4)(F), incorporated the substance of 
 
   (C) the vessel is of a type described in that section for which the minimum down payment required by that section is 12.5 percent of the cost of the vessel.
 
-(3) **Barges.—** — For a barge constructed without a construction-differential subsidy or for which the subsidy has been repaid, the principal amount may not exceed 87.5 percent of the actual cost or depreciated actual cost.
+(3) **Fishing vessels and fishery facilities.—** — For a fishing vessel or fishery facility, the principal amount may not exceed 80 percent of the actual cost or depreciated actual cost. However, debt for the vessel or facility may not be placed through the Federal Financing Bank.
 
-(4) **Fishing vessels and fishery facilities.—** — For a fishing vessel or fishery facility, the principal amount may not exceed 80 percent of the actual cost or depreciated actual cost. However, debt for the vessel or facility may not be placed through the Federal Financing Bank.
-
-(5) **OTEC.—** — For an ocean thermal energy conversion facility or plantship constructed without a construction-differential subsidy, the principal amount may not exceed 87.5 percent of the actual cost or depreciated actual cost of the facility or plantship.
-
-(6) **Eligible export vessels.—** — For an eligible export vessel, the principal amount may not exceed 87.5 percent of the actual cost or depreciated actual cost.
+(4) **OTEC.—** — For an ocean thermal energy conversion facility or plantship constructed without a construction-differential subsidy, the principal amount may not exceed 87.5 percent of the actual cost or depreciated actual cost of the facility or plantship.
 
 **(c) Security Involving Multiple Vessels.—** The principal amount of an obligation having more than one vessel as security for the guarantee may not exceed the sum of the principal amounts allowable for all the vessels.
 
@@ -636,6 +681,12 @@ Subsections (a) and (d) are substituted for the source provisions for clarity an
 Section 509 of the Merchant Marine Act, 1936, referred to in subsec. (b)(2)(B), is section 509 of act June 29, 1936, ch. 858, 49 Stat. 1985, which is set out as a note under [section 53101 of this title](./chapter-531-maritime-security-fleet.md#section-53101).
 
 #### Amendments
+2019—Subsec. (b)(3) to (6). Pub. L. 116–92 redesignated pars. (4) and (5) as (3) and (4), respectively, and struck out former par. (3) and par. (6) which read as follows:
+
+“(3) Barges.—For a barge constructed without a construction-differential subsidy or for which the subsidy has been repaid, the principal amount may not exceed 87.5 percent of the actual cost or depreciated actual cost.
+
+“(6) Eligible export vessels.—For an eligible export vessel, the principal amount may not exceed 87.5 percent of the actual cost or depreciated actual cost.”
+
 2008—Pub. L. 110–181, § 3522(b), repealed Pub. L. 109–163, § 3507(a)(1)(C), (D). See 2006 Amendment note below.
 
 Subsecs. (a)(1), (b)(1), (2)(A), (d). Pub. L. 110–181, § 3522(a)(10)(B), incorporated the substance of the amendment by Pub. L. 109–163, § 3507(a)(1)(C), (D), into this section by inserting “or Administrator” after “Secretary”. See 2006 Amendment note below and section 18(a) of Pub. L. 109–304, set out as a Legislative Purpose and Construction note preceding [section 101 of this title](./chapter-001-definitions.md#section-101).
@@ -663,9 +714,11 @@ Subsecs. (a)(1), (b)(1), (2)(A), (d). Pub. L. 110–181, § 3522(a)(10)(B), inco
 
 (4) provide, or a related agreement must provide, that if the vessel used as security for the guarantee is a delivered vessel, the vessel shall be—
 
-  (A) in class A–1, American Bureau of Shipping, or meet other standards acceptable to the Secretary or Administrator, with all required certificates, including marine inspection certificates of the Coast Guard or, in the case of an eligible export vessel, of the appropriate foreign authorities under a treaty, convention, or other international agreement to which the United States is a party, and with all outstanding requirements and recommendations necessary for class retention accomplished, unless the Secretary or Administrator permits a deferment of repairs necessary to meet these requirements; and
+  (A) in class A–1, American Bureau of Shipping, or meet other standards acceptable to the Secretary or Administrator, with all required certificates, including marine inspection certificates of the Coast Guard, and with all outstanding requirements and recommendations necessary for class retention accomplished, unless the Secretary or Administrator permits a deferment of repairs necessary to meet these requirements;
 
-  (B) well equipped, in good repair, and in every respect seaworthy and fit for service.
+  (B) well equipped, in good repair, and in every respect seaworthy and fit for service; and
+
+  (C) documented under the laws of the United States for the term of the guarantee of the obligation or until the obligation is paid in full, whichever is sooner.
 
 **(b) Provisions for Certain Passenger Vessels.—**
 
@@ -687,7 +740,11 @@ Subsecs. (a)(1), (b)(1), (2)(A), (d). Pub. L. 110–181, § 3522(a)(10)(B), inco
 
   (B) *Covering deficiencies by insurance.—* — To the extent covered by insurance, a deficiency related to a requirement in subparagraph (A) may be satisfied by assignment of the obligor’s insurance claims to the Government.
 
-**(c) Other Provisions To Protect Security Interests.—** An obligation guaranteed under this chapter and any related agreement must contain other provisions for the protection of the security interests of the Government (including acceleration, assumption, and subrogation provisions and the issuance of notes by the obligor to the Secretary or Administrator), liens and releases of liens, payment of taxes, and other matters that the Secretary or Administrator may prescribe.
+**(c) Other Provisions To Protect Security Interests and Provide for the Financial Stability of the Obligor.—** An obligation guaranteed under this chapter and any related agreement must contain other provisions, which shall include—
+
+(1) provisions for the protection of the security interests of the Government (including acceleration, assumption, and subrogation provisions and the issuance of notes by the obligor to the Secretary or Administrator), liens and releases of liens, payment of taxes; and
+
+(2) any other provisions that the Secretary or Administrator may prescribe.
 
 ### Statutory Notes
 
@@ -713,6 +770,12 @@ In subsection (b)(1), the reference to section 503 of the Merchant Marine Act, 1
 Section 503 of the Merchant Marine Act, 1936, referred to in subsec. (b)(1), is section 503 of act June 29, 1936, ch. 858, 49 Stat. 1985, which is set out as a note under [section 53101 of this title](./chapter-531-maritime-security-fleet.md#section-53101).
 
 #### Amendments
+2019—Subsec. (a)(4)(A). Pub. L. 116–92, § 3506(g)(1)(A)(i), struck out “or, in the case of an eligible export vessel, of the appropriate foreign authorities under a treaty, convention, or other international agreement to which the United States is a party” after “certificates of the Coast Guard”.
+
+Subsec. (a)(4)(C). Pub. L. 116–92, § 3506(a)(1)(A)(ii)–(C), added subpar. (C).
+
+Subsec. (c). Pub. L. 116–92, § 3506(g)(2), in heading, inserted “and Provide for the Financial Stability of the Obligor” after “Interests” and, in text, inserted “provisions, which shall include—” after “must contain other” and par. (1) designation before “provisions for the protection of”, substituted “; and” for “, and other matters that the Secretary or Administrator may prescribe.”, and added par. (2).
+
 2008—Pub. L. 110–181, § 3522(b), repealed Pub. L. 109–163, § 3507(a)(1)(D), (2)(C). See 2006 Amendment note below.
 
 Subsec. (a). Pub. L. 110–181, § 3522(a)(10)(B), incorporated the substance of the amendment by Pub. L. 109–163, § 3507(a)(1)(D), into this section by inserting “or Administrator” after “Secretary” wherever appearing. See 2006 Amendment note below and section 18(a) of Pub. L. 109–304, set out as a Legislative Purpose and Construction note preceding [section 101 of this title](./chapter-001-definitions.md#section-101).
@@ -772,7 +835,7 @@ Pub. L. 110–181, § 3522(a)(6), (10)(B), incorporated the substance of the ame
 
 <a id="section-53713"></a>
 ## § 53713. Administrative fees
-**(a) In General.—** The Secretary or Administrator shall charge and collect from the obligor fees the Secretary or Administrator considers reasonable for—
+**(a) In General.—** The Secretary or Administrator shall charge and collect from the obligor fees the Secretary or Administrator considers reasonable for processing the application and monitoring the loan guarantee, including for—
 
 (1) investigating an application for a guarantee;
 
@@ -780,19 +843,25 @@ Pub. L. 110–181, § 3522(a)(6), (10)(B), incorporated the substance of the ame
 
 (3) issuing a commitment;
 
-(4) providing services related to an escrow fund under [section 53715 of this title](./chapter-537-loans-and-guarantees.md#section-53715); and
+(4) providing services related to an escrow fund under [section 53715 of this title](./chapter-537-loans-and-guarantees.md#section-53715) or a deposit fund under [section 53716 of this title](./chapter-537-loans-and-guarantees.md#section-53716);
 
-(5) inspecting property during construction, reconstruction, or reconditioning.
+(5) inspecting property during construction, reconstruction, or reconditioning; and
+
+(6) monitoring and providing services related to the obligor’s compliance with any terms related to the obligations, the guarantee, or maintenance of the Secretary or Administrator’s security interests under this chapter.
 
 **(b) Total Fee Limitation.—** The total fees under subsection (a) may not exceed 0.5 percent of the original principal amount of the obligations to be guaranteed.
 
-**(c) Fees for Independent Analysis.—** The Secretary or Administrator may charge and collect fees to cover the costs of independent analysis under [section 53708(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section53708/d&num=0&edition=prelim). Notwithstanding [section 3302 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section3302&num=0&edition=prelim), any fee collected under this subsection shall—
+**(c) Fees for Independent Analysis.—**
 
-(1) be credited as an offsetting collection to the account that finances the administration of the loan guarantee program;
+(1) **In general.—** — The Secretary or Administrator may charge and collect fees to cover the costs of independent analysis under [section 53703(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section53703/c&num=0&edition=prelim). Notwithstanding [section 3302 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section3302&num=0&edition=prelim), any fee collected under this subsection shall—
 
-(2) be available for expenditure only to pay the costs of activities and services for which the fee is imposed; and
+  (A) be credited as an offsetting collection to the account that finances the administration of the loan guarantee program;
 
-(3) remain available until expended.
+  (B) be available for expenditure only to pay the costs of activities and services for which the fee is imposed; and
+
+  (C) remain available until expended.
+
+(2) **Fee limitation inapplicable.—** — Fees collected under this subsection are not subject to the limitation of subsection (b).
 
 ### Statutory Notes
 
@@ -804,6 +873,16 @@ Pub. L. 110–181, § 3522(a)(6), (10)(B), incorporated the substance of the ame
 | 53713(c) | 46 App.:1274(f)(4). |  |
 
 #### Amendments
+2019—Subsec. (a). Pub. L. 116–92, § 3506(h)(1)(A), substituted “reasonable for processing the application and monitoring the loan guarantee, including for—” for “reasonable for—” in introductory provisions.
+
+Subsec. (a)(4). Pub. L. 116–92, § 3506(h)(1)(B), substituted “or a deposit fund under [section 53716 of this title](./chapter-537-loans-and-guarantees.md#section-53716);” for “; and”.
+
+Subsec. (a)(6). Pub. L. 116–92, § 3506(h)(1)(C), (D), added par. (6).
+
+Subsec. (c). Pub. L. 116–92, § 3506(h)(2)(B)–(D), designated existing provisions as par. (1) and inserted heading, redesignated former pars. (1) to (3) as subpars. (A) to (C), respectively, of par. (1) and realigned margins, and added par. (2).
+
+Pub. L. 116–92, § 3506(h)(2)(A), which directed amendment of par. (1) of subsec. (c) by substituting “under [section 53703(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section53703/c&num=0&edition=prelim)” for “under [section 53708(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section53708/d&num=0&edition=prelim)”, was executed by making the substitution in introductory provisions of subsec. (c) to reflect the probable intent of Congress and the subsequent designation of the provisions of subsec. (c) as subsec. (c)(1). See above.
+
 2008—Pub. L. 110–181, § 3522(b), repealed Pub. L. 109–163, § 3507(a)(1)(D). See 2006 Amendment note below.
 
 Subsecs. (a), (c). Pub. L. 110–181, § 3522(a)(10)(B), incorporated the substance of the amendment by Pub. L. 109–163, § 3507(a)(1)(D), into this section, by inserting “or Administrator” after “Secretary” wherever appearing in introductory provisions. See 2006 Amendment note below and section 18(a) of Pub. L. 109–304, set out as a Legislative Purpose and Construction note preceding [section 101 of this title](./chapter-001-definitions.md#section-101).
@@ -1058,6 +1137,12 @@ Pub. L. 110–181, § 3522(a)(9)(C), incorporated the substance of the amendment
 2006—Pub. L. 109–163, § 3507(c)(3), which directed the amendment of section 1280b of the former Appendix to this title from which this section was derived, was repealed by Pub. L. 110–181, § 3522(b). See 2008 Amendment notes and Historical and Revision notes above.
 
 
+<a id="section-53719"></a>
+## § 53719. Best practices
+
+The Secretary or Administrator shall ensure that all standard documents and agreements that relate to loan guarantees made pursuant to this chapter are reviewed and updated every four years to ensure that such documents and agreements meet the current commercial best practices to the extent permitted by law.
+
+
 <a id="section-53721"></a>
 ## § 53721. Rights of obligee
 **(a) Demands by Obligees.—** Except as provided in subsection (c), if an obligor has continued in default for 30 days in the payment of principal or interest on an obligation guaranteed under this chapter, the obligee or the obligee’s agent may demand that the Secretary or Administrator pay the unpaid principal amount of the obligation and the unpaid interest on the obligation to the date of payment. The demand must be made within the earlier of—
@@ -1300,90 +1385,11 @@ Pub. L. 110–181, § 3522(a)(9)(D), incorporated the substance of the amendment
 
 
 <a id="section-53732"></a>
-## § 53732. Eligible export vessels
-**(a) Applicable Terms.—** The Administrator may guarantee an obligation for an eligible export vessel in accordance with—
-
-(1) the terms applicable under this chapter for vessels documented under the laws of the United States; or
-
-(2) other terms the Administrator determines are more favorable than those terms and compatible with export credit terms offered by foreign governments for the sale of vessels built in foreign shipyards.
-
-**(b) Interagency Council.—**
-
-(1) **Establishment.—** — There is an interagency council to carry out this section.
-
-(2) **Composition.—** — The council is composed of the following individuals or their designees:
-
-  (A) The Administrator, who is the chairman of the council.
-
-  (B) The Secretary of the Treasury.
-
-  (C) The Secretary of State.
-
-  (D) The Assistant to the President for Economic Policy.
-
-  (E) The United States Trade Representative.
-
-  (F) The President and Chairman of the Export-Import Bank of the United States.
-
-(3) **Functions.—** — The council shall—
-
-  (A) obtain information on shipbuilding loan guarantees, direct and indirect subsidies, and other favorable treatment of shipyards provided by foreign governments to shipyards in competition with United States shipyards;
-
-  (B) consult regularly with United States shipbuilders to obtain the essential information about international shipbuilding competition on which to set terms for loan guarantees under subsection (a)(2); and
-
-  (C) provide guidance to the Administrator in establishing terms for loan guarantees under subsection (a)(2).
-
-(4) **Annual report.—** — Not later than January 31 of each year, the Administrator shall submit to Congress a report on activities of the Administrator under this section during the preceding year. The report shall include—
-
-  (A) documentation of sources of information about assistance by governments of other countries to shipyards in those countries; and
-
-  (B) a summary of recommendations made to the Administrator during the preceding year about applications submitted to the Administrator during that year for loan guarantees to construct eligible export vessels.
-
-**(c) Required Findings.—**
-
-(1) **Benefit to shipbuilding industry.—** — The Administrator may not guarantee or make a commitment to guarantee an obligation for an eligible export vessel unless the Administrator finds that the construction, reconstruction, or reconditioning of the vessel will aid in the transition of United States shipyards to commercial activities or will preserve shipbuilding assets that would be essential in time of war or national emergency.
-
-(2) **Priority of documented vessels.—** — The Administrator may not make a commitment to guarantee an obligation for an eligible export vessel unless the Administrator determines that making the commitment will not result in denial of an economically sound application for a commitment to guarantee an obligation for a vessel documented under the laws of the United States and operating in the domestic or foreign commerce of the United States. The Administrator has sole discretion in making the determination. In making the determination, the Administrator shall consider—
-
-  (A) the status and economic soundness of pending applications for commitments to guarantee obligations for vessels documented under the laws of the United States that are operating or will be operating in the domestic or foreign commerce of the United States; and
-
-  (B) the amount of guarantee authority available.
-
-**(d) Restriction on Transfer of Vessel.—** The Administrator may not guarantee or make a commitment to guarantee an obligation for an eligible export vessel unless the owner of the vessel agrees with the Administrator that the vessel will not be transferred to a country designated by the Secretary of Defense as a country whose interests are hostile to the interests of the United States.
-
-**(e) Review by Secretary of Defense.—**
-
-(1) **Notification.—** — The Administrator shall promptly notify the Secretary of Defense of the receipt of an application for a loan guarantee for an eligible export vessel.
-
-(2) **Disapproval.—** — The Secretary of Defense, within 30 days after receiving the notice, may disapprove the guarantee based on an assessment of the potential use of the vessel in a manner that may harm the national security interests of the United States. The Secretary of Defense may not disapprove a guarantee solely because of the type of vessel to be constructed.
-
-(3) **Delegation.—** — The authority of the Secretary of Defense to disapprove a guarantee under this subsection may be delegated only to a civilian officer of the Department of Defense appointed by the President by and with the advice and consent of the Senate.
-
-(4) **Prohibition.—** — The Administrator may not make a loan guarantee disapproved by the Secretary of Defense under this subsection.
-
-**(f) Expiration of Authority.—** The Administrator may not issue a commitment to guarantee an obligation for an eligible export vessel under this chapter after the last date on which such a commitment may be issued under any treaty or convention entered into after November 30, 1993, that prohibits guarantee of such an obligation.
+## § 53732. Repealed. Pub. L. 116–92, div. C, title XXXV, § 3506(i)(2), Dec. 20, 2019, 133 Stat. 1974]
 
 ### Statutory Notes
 
-| Historical and Revision Notes |  |  |
-| --- | --- | --- |
-| Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
-| 53732(a) | 46 App.:1279d(a). | June 29, 1936, ch. 858, title XI, § 1111, as added Pub. L. 103–160, div. A, title XIII, § 1355(a), Nov. 30, 1993, 107 Stat. 1811. |
-| 53732(b) | 46 App.:1279d(b). |  |
-| 53732(c)(1) | 46 App.:1274(d)(3)(A). | June 29, 1936, ch. 858, title XI, § 1104A(d)(3), (j), as added Pub. L. 103–160, div. A, title XIII, § 1356(3)(D), (E), Nov. 30, 1993, 107 Stat. 1813, 1814. |
-| 53732(c)(2) | 46 App.:1273(g)(1). | June 29, 1936, ch. 858, title XI, § 1103(g), as added Pub. L. 103–160, div. A, title XIII, § 1356(2)(B), Nov. 30, 1993, 107 Stat. 1812. |
-| 53732(d) | 46 App.:1274(d)(3)(B). |  |
-| 53732(e) | 46 App.:1274(j). |  |
-| 53732(f) | 46 App.:1273(g)(2). |  |
-
-In subsection (f), the source provides that the authority to issue commitments to guarantee obligations for eligible export vessels expires after the later of three events. The first event, which is “(A) the 5th anniversary of the date on which the Secretary publishes final regulations setting forth the application procedures for the issuance of commitments to guarantee obligations for eligible export vessels”, is omitted because the final regulations were published on September 16, 1994. See 59 Fed. Reg. 47548. The second event, which is “(B) the last day of any 5-year period in which funding and guarantee authority for obligations for eligible export vessels have been continuously available”, is omitted because that date was November 11, 1998, five years after enactment of the Department of Defense Appropriations Act, 1994 (Pub. L. 103–139, Nov. 11, 1993, 107 Stat. 1418).
-
-#### Amendments
-2008—Pub. L. 110–181, § 3522(b), repealed Pub. L. 109–163, § 3507(a)(1)(C), (D), (2)(E), (F), (I), (J), (b)(3)(A), (5), (8). See 2006 Amendment note below.
-
-Pub. L. 110–181, § 3522(a)(8), (9)(E), incorporated the substance of the amendment by Pub. L. 109–163, § 3507(a)(1)(C), (D), (2)(E), (F), (I), (J), (b)(3)(A), (5), (8), into this section by substituting “Administrator” for “Secretary of Transportation” in subsec. (b)(2)(A) and “Administrator” for “Secretary” wherever else appearing, except where “Secretary” was followed by “of the Treasury”, “of State”, or “of Defense”, and by inserting “of Defense” after “United States. The Secretary” in subsec. (e)(2). See 2006 Amendment note below and section 18(a) of Pub. L. 109–304, set out as a Legislative Purpose and Construction note preceding [section 101 of this title](./chapter-001-definitions.md#section-101).
-
-2006—Pub. L. 109–163, § 3507(a)(1)(C), (D), (2)(E), (F), (I), (J), (b)(3)(A), (5), (8), which directed the amendment of sections 1273(g), 1274(d)(1)(A), (3), (j)(1), (2), and 1279d(a), (b)(1), (2), (4) of the former Appendix to this title from which this section was derived in part, was repealed by Pub. L. 110–181, § 3522(b). See 2008 Amendment notes and Historical and Revision notes above.
+Section, Pub. L. 109–304, § 8(c), Oct. 6, 2006, 120 Stat. 1621; Pub. L. 109–163, div. C, title XXXV, § 3507(a)(1)(C), (D), (2)(E), (F), (I), (J), (b)(3)(A), (5), (8), Jan. 6, 2006, 119 Stat. 3555, 3556; Pub. L. 110–181, div. C, title XXXV, § 3522(a)(8), (9)(E), (b), Jan. 28, 2008, 122 Stat. 598, authorized the Administrator to guarantee an obligation for an eligible export vessel in accordance with certain laws and terms and established an interagency council.
 
 
 <a id="section-53733"></a>

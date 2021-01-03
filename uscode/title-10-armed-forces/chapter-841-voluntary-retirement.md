@@ -87,7 +87,7 @@ Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of 
 
 (2) his years of service as a commissioned officer are computed by adding all his active service in the armed forces under permanent or temporary appointments in grades above warrant officer, W–1.
 
-**(c)** The retired grade of an officer retired under this section is the grade determined under [section 1370 of this title](./chapter-069-retired-grade.md#section-1370).
+**(c)** The retired grade of an officer retired under this section is the grade determined under section 1370 or 1370a of this title, as applicable.
 
 **(d)** A warrant officer who retires under this section may elect to be placed on the retired list in the highest grade and with the highest retired pay to which he is entitled under any provision of this title. If the pay of that highest grade is less than the pay of any warrant grade satisfactorily held by him on active duty, his retired pay shall be based on the higher pay.
 
@@ -132,6 +132,8 @@ Subsection (f) was formerly subsection (c).
 Section 213(b) of the Armed Forces Reserve Act of 1952 (66 Stat. 485), referred to in subsec. (f), was classified to [section 933 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section933&num=0&edition=prelim), War and National Defense, and was repealed by section 53 of act Aug. 10, 1956.
 
 #### Amendments
+2021—Subsec. (c). Pub. L. 116–283 substituted “section 1370 or 1370a of this title, as applicable” for “[section 1370 of this title](./chapter-069-retired-grade.md#section-1370)”.
+
 2018—Pub. L. 115–232, § 807(b)(15), renumbered [section 6323 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section6323&num=0&edition=prelim) as this section.
 
 Subsec. (e). Pub. L. 115–232, § 809(a), substituted “section 8333” for “section 6333”.
@@ -183,13 +185,13 @@ Amendment by section 503(47) of Pub. L. 96–513 effective Sept. 15, 1981, and a
 #### Effective Date of 1963 Amendment
 Amendment by Pub. L. 88–132 effective Oct. 1, 1963, see section 14 of Pub. L. 88–132, set out as a note under [section 201 of Title 37](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section201&num=0&edition=prelim), Pay and Allowances of the Uniformed Services.
 
+#### Temporary Early Retirement Authority
+For provisions authorizing the Secretary of the Navy, during the period beginning Oct. 23, 1992, and ending Oct. 1, 1995, to apply this section to an officer with at least 15 but less than 20 years of service by substituting “at least 15 years” for “at least 20 years” in subsec. (a) of this section, see section 4403 of Pub. L. 102–484, set out as a note under [section 1293 of this title](./chapter-065-retirement-of-warrant-officers-for-length-of-service.md#section-1293).
+
 #### Delegation of Functions
 Functions of President under subsec. (a) to approve application of an officer of Navy or Marine Corps for retirement after completion of more than 20 years of active service and to designate month in which such retirements shall become effective delegated to Secretary of Defense to perform, without approval, ratification, or other action by President, and with authority for Secretary to redelegate, see Ex. Ord. No. 12396, §§ 1(e), 3, Dec. 9, 1982, 47 F.R. 55897, 55898, set out as a note under [section 301 of Title 3](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title3-section301&num=0&edition=prelim), The President.
 
 For delegation to Secretary of Homeland Security of authority vested in President, see section 2(g) of Ex. Ord. No. 10637, Sept. 16, 1955, 20 F.R. 7025, as amended, set out as a note under [section 301 of Title 3](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title3-section301&num=0&edition=prelim), The President.
-
-#### Temporary Early Retirement Authority
-For provisions authorizing the Secretary of the Navy, during the period beginning Oct. 23, 1992, and ending Oct. 1, 1995, to apply this section to an officer with at least 15 but less than 20 years of service by substituting “at least 15 years” for “at least 20 years” in subsec. (a) of this section, see section 4403 of Pub. L. 102–484, set out as a note under [section 1293 of this title](./chapter-065-retirement-of-warrant-officers-for-length-of-service.md#section-1293).
 
 
 <a id="section-8324"></a>

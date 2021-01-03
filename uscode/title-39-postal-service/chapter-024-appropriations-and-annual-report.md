@@ -134,7 +134,7 @@ For termination, effective May 15, 2000, of provisions of law requiring submitta
 #### Reduction of Authorization for Revenue Foregone
 Pub. L. 99–272, title XV, § 15101, Apr. 7, 1986, 100 Stat. 330, provided that: “Notwithstanding subsection (c) of [section 2401 of title 39](./chapter-024-appropriations-and-annual-report.md#section-2401), United States Code, the amount authorized to be appropriated pursuant to such subsection for fiscal year 1986 shall be $749,000,000.”
 
-Section 1723 of Pub. L. 97–35, as amended effective Oct. 1, 1982, by Pub. L. 97–216, title I, § 101, July 18, 1982, 96 Stat. 189, provided that: “Notwithstanding [section 2401(c) of title 39](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title39-section2401/c&num=0&edition=prelim), United States Code, the amount authorized to be appropriated under such section shall not exceed— “(1) $696,000,000 for fiscal year 1982; “(2) $708,000,000 for fiscal year 1983; or “(3) $760,000,000 for fiscal year 1984.”
+Pub. L. 97–35, title XVII, § 1723, Aug. 13, 1981, 95 Stat. 759, as amended effective Oct. 1, 1982, by Pub. L. 97–216, title I, § 101, July 18, 1982, 96 Stat. 189, provided that: “Notwithstanding [section 2401(c) of title 39](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title39-section2401/c&num=0&edition=prelim), United States Code, the amount authorized to be appropriated under such section shall not exceed— “(1) $696,000,000 for fiscal year 1982; “(2) $708,000,000 for fiscal year 1983; or “(3) $760,000,000 for fiscal year 1984.”
 
 
 <a id="section-2402"></a>

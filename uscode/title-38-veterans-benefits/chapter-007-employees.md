@@ -9,7 +9,7 @@ source: >-
 <a id="section-701"></a>
 ## § 701. Placement of employees in military installations
 
-The Secretary may place employees of the Department in such Army, Navy, and Air Force installations as may be considered advisable for the purpose of adjudicating disability claims of, and giving aid and advice to, members of the Armed Forces who are about to be discharged or released from active military, naval, or air service.
+The Secretary may place employees of the Department in such Army, Navy, Air Force, and Space Force installations as may be considered advisable for the purpose of adjudicating disability claims of, and giving aid and advice to, members of the Armed Forces who are about to be discharged or released from active military, naval, air, or space service.
 
 ### Statutory Notes
 
@@ -17,6 +17,9 @@ The Secretary may place employees of the Department in such Army, Navy, and Air 
 Prior sections 701 and 702 were renumbered sections 1901 and 1902 of this title, respectively.
 
 Provisions similar to those in this section were contained in [section 231 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section231&num=0&edition=prelim) prior to repeal by Pub. L. 102–83, § 2(a).
+
+#### Amendments
+2021—Pub. L. 116–283 substituted “Air Force, and Space Force” for “and Air Force” and “air, or space service” for “or air service”.
 
 #### Reemployment of Former Employees at Department of Veterans Affairs
 Pub. L. 115–46, title II, § 204, Aug. 12, 2017, 131 Stat. 963, provided that: “(a) In General.—Notwithstanding sections 3309 through 3318 of title 5, United States Code, the Secretary of Veterans Affairs may noncompetitively appoint a qualified former career or career conditional employee to any position within the competitive service at the Department of Veterans Affairs that is one grade or equivalent higher than the grade or equivalent of the position at the Department most recently occupied by the employee. “(b) Limitation.—The Secretary may not appoint a qualified former employee to a position that is more than one grade (or equivalent) higher than the position at the Department most recently occupied by the employee. “(c) Definition of Qualified Former Employee.—For purposes of this section, the term ‘qualified former employee’ means any individual who—“(1) formerly occupied any career or career conditional position at the Department of Veterans Affairs within 2 years before applying for reemployment at the Department; “(2) voluntarily left such position, or was subject to a reduction in force, and had a satisfactory performance record while occupying such position; and “(3) since leaving such position has maintained licensing requirements, related to the position, if any, and gained skill, knowledge, or other factors related to the position.”

@@ -2,7 +2,7 @@
 title: 38
 chapter: '53'
 heading: SPECIAL PROVISIONS RELATING TO BENEFITS
-section_count: 25
+section_count: 26
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38&num=0&edition=prelim
 ---
@@ -231,11 +231,11 @@ Pub. L. 110–252, title I, § 1303(b), June 30, 2008, 122 Stat. 2327, provided 
 
 **(e)**
 
-(1) Notwithstanding any other provision of law, (A) no benefits under laws administered by the Secretary shall be provided, as a result of a change in or new issuance of a discharge under [section 1553 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1553&num=0&edition=prelim), except upon a case-by-case review by the board of review concerned, subject to review by the Secretary concerned, under such section, of all the evidence and factors in each case under published uniform standards (which shall be historically consistent with criteria for determining honorable service and shall not include any criterion for automatically granting or denying such change or issuance) and procedures generally applicable to all persons administratively discharged or released from active military, naval, or air service under other than honorable conditions; and (B) any such person shall be afforded an opportunity to apply for such review under such section 1553 for a period of time terminating not less than one year after the date on which such uniform standards and procedures are promulgated and published.
+(1) Notwithstanding any other provision of law, (A) no benefits under laws administered by the Secretary shall be provided, as a result of a change in or new issuance of a discharge under [section 1553 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1553&num=0&edition=prelim), except upon a case-by-case review by the board of review concerned, subject to review by the Secretary concerned, under such section, of all the evidence and factors in each case under published uniform standards (which shall be historically consistent with criteria for determining honorable service and shall not include any criterion for automatically granting or denying such change or issuance) and procedures generally applicable to all persons administratively discharged or released from active military, naval, air, or space service under other than honorable conditions; and (B) any such person shall be afforded an opportunity to apply for such review under such section 1553 for a period of time terminating not less than one year after the date on which such uniform standards and procedures are promulgated and published.
 
 (2) Notwithstanding any other provision of law—
 
-  (A) no person discharged or released from active military, naval, or air service under other than honorable conditions who has been awarded a general or honorable discharge under revised standards for the review of discharges, (i) as implemented by the President’s directive of January 19, 1977, initiating further action with respect to the President’s Proclamation 4313 of September 16, 1974, (ii) as implemented on or after April 5, 1977, under the Department of Defense’s special discharge review program, or (iii) as implemented subsequent to April 5, 1977, and not made applicable to all persons administratively discharged or released from active military, naval, or air service under other than honorable conditions, shall be entitled to benefits under laws administered by the Secretary except upon a determination, based on a case-by-case review, under standards (meeting the requirements of paragraph (1) of this subsection) applied by the board of review concerned under [section 1553 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1553&num=0&edition=prelim), subject to review by the Secretary concerned, that such person would be awarded an upgraded discharge under such standards; and
+  (A) no person discharged or released from active military, naval, air, or space service under other than honorable conditions who has been awarded a general or honorable discharge under revised standards for the review of discharges, (i) as implemented by the President’s directive of January 19, 1977, initiating further action with respect to the President’s Proclamation 4313 of September 16, 1974, (ii) as implemented on or after April 5, 1977, under the Department of Defense’s special discharge review program, or (iii) as implemented subsequent to April 5, 1977, and not made applicable to all persons administratively discharged or released from active military, naval, air, or space service under other than honorable conditions, shall be entitled to benefits under laws administered by the Secretary except upon a determination, based on a case-by-case review, under standards (meeting the requirements of paragraph (1) of this subsection) applied by the board of review concerned under [section 1553 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1553&num=0&edition=prelim), subject to review by the Secretary concerned, that such person would be awarded an upgraded discharge under such standards; and
 
   (B) such determination shall be made by such board (i) on an expedited basis after notification by the Department to the Secretary concerned that such person has received, is in receipt of, or has applied for such benefits or after a written request is made by such person or such determination, (ii) on its own initiative before October 9, 1978, in any case where a general or honorable discharge has been awarded before October 9, 1977, under revised standards referred to in clause (A)(i), (ii), or (iii) of this paragraph, or (iii) on its own initiative at the time a general or honorable discharge is so awarded in any case where a general or honorable discharge is awarded after October 8, 1977.
   If such board makes a preliminary determination that such person would not have been awarded an upgraded discharge under standards meeting the requirements of paragraph (1) of this subsection, such person shall be entitled to an appearance before the board, as provided for in [section 1553(c) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1553/c&num=0&edition=prelim), prior to a final determination on such question and shall be given written notice by the board of such preliminary determination and of the right to such appearance. The Secretary shall, as soon as administratively feasible, notify the appropriate board of review of the receipt of benefits under laws administered by the Secretary, or of the application for such benefits, by any person awarded an upgraded discharge under revised standards referred to in clause (A)(i), (ii), or (iii) of this paragraph with respect to whom a favorable determination has not been made under this paragraph.
@@ -246,6 +246,8 @@ Pub. L. 110–252, title I, § 1303(b), June 30, 2008, 122 Stat. 2327, provided 
 President’s Proclamation 4313 of September 16, 1974, referred to in subsec. (e)(2)(A), is set out as a note under [section 3811 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3811&num=0&edition=prelim), War and National Defense.
 
 #### Amendments
+2021—Subsec. (e). Pub. L. 116–283 substituted “air, or space service” for “or air service” wherever appearing.
+
 2016—Subsec. (d). Pub. L. 114–315 substituted “not apply to the following:” and pars. (1) and (2) for “not apply to any war-risk insurance, Government (converted) or National Service Life Insurance policy.”
 
 1991—Pub. L. 102–40 renumbered [section 3103 of this title](./chapter-031-training-and-rehabilitation-for-veterans-with-service-connected-disabilities.md#section-3103) as this section.
@@ -1035,7 +1037,7 @@ Section effective Oct. 1, 1980, except as otherwise specifically provided, see s
 
 **(f)** The Secretary shall pay the expenses of carrying out this section from amounts available to the Department for the payment of compensation and pension.
 
-**(g)** The authority of the Secretary to obtain information from the Secretary of the Treasury or the Commissioner of Social Security under section 6103(l)(7)(D)(viii) of the Internal Revenue Code of 1986 expires on September 30, 2027.
+**(g)** The authority of the Secretary to obtain information from the Secretary of the Treasury or the Commissioner of Social Security under section 6103(l)(7)(D)(viii) of the Internal Revenue Code of 1986 expires on September 30, 2030.
 
 ### Statutory Notes
 
@@ -1043,6 +1045,8 @@ Section effective Oct. 1, 1980, except as otherwise specifically provided, see s
 Section 6103(l)(7)(D)(viii) of the Internal Revenue Code, referred to in subsecs. (a), (b), and (g), is classified to section 6103(l)(7)(D)(viii) of Title 26, Internal Revenue Code.
 
 #### Amendments
+2021—Subsec. (g). Pub. L. 116–315 substituted “September 30, 2030” for “September 30, 2027”.
+
 2017—Subsec. (g). Pub. L. 115–46 substituted “September 30, 2027” for “September 30, 2024”.
 
 2014—Subsec. (g). Pub. L. 113–146 substituted “September 30, 2024” for “September 30, 2016”.
@@ -1148,3 +1152,14 @@ Subsec. (b). Pub. L. 108–183, § 708(c)(4)(A)(ii), substituted “Social Secur
 
 #### References in Text
 The Right to Financial Privacy Act of 1978, referred to in subsec. (c), is title XI of Pub. L. 95–630, Nov. 10, 1978, 92 Stat. 3697, as amended, which is classified generally to chapter 35 (§ 3401 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, see Short Title note set out under [section 3401 of Title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section3401&num=0&edition=prelim) and Tables.
+
+
+<a id="section-5320"></a>
+## § 5320. Threshold for reporting debts to consumer reporting agencies
+
+The Secretary shall prescribe regulations that establish the minimum amount of a claim or debt, arising from a benefit administered by the Under Secretary for Benefits or Under Secretary for Health, that the Secretary will report to a consumer reporting agency under [section 3711 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section3711&num=0&edition=prelim).
+
+### Statutory Notes
+
+#### Deadline
+Pub. L. 116–315, title II, § 2007(c), Jan. 5, 2021, 134 Stat. 4977, provided that: “The Secretary of Veterans Affairs shall prescribe regulations under section 5320 of such title [title 38], as added by subsection (a), not later than 180 days after the date of the enactment of this Act [Jan. 5, 2021].”

@@ -2,7 +2,7 @@
 title: 38
 chapter: '33'
 heading: POST–9/11 EDUCATIONAL ASSISTANCE
-section_count: 19
+section_count: 20
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38&num=0&edition=prelim
 ---
@@ -29,7 +29,7 @@ In this chapter:
 
   (B) In the case of members of the Navy, Recruit Training (or Boot Camp) and Skill Training (or so-called “A” School).
 
-  (C) In the case of members of the Air Force, Basic Military Training and Technical Training.
+  (C) In the case of members of the Air Force or the Space Force, Basic Military Training and Technical Training.
 
   (D) In the case of members of the Marine Corps, Recruit Training and Marine Corps Training (or School of Infantry Training).
 
@@ -45,6 +45,8 @@ In this chapter:
 [Section 712 of title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section712&num=0&edition=prelim), referred to in par. (1)(B), was redesignated [section 3713 of title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section3713&num=0&edition=prelim) by Pub. L. 115–282, title I, § 118(b), Dec. 4, 2018, 132 Stat. 4233, and references to [section 712 of title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section712&num=0&edition=prelim) deemed to refer to such redesignated section, see section 123(b)(1) of Pub. L. 115–282, set out as a References to Redesignated Sections of Title 14 note preceding [section 101 of Title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section101&num=0&edition=prelim), Coast Guard.
 
 #### Amendments
+2021—Par. (2)(C). Pub. L. 116–283 inserted “or the Space Force” after “Air Force”.
+
 2017—Par. (1)(B). Pub. L. 115–48, § 401(a), substituted “12304, 12304a, or 12304b” for “or 12304”.
 
 Pub. L. 115–48, § 101(a), inserted “12301(h),” after “12301(g),”.
@@ -209,7 +211,7 @@ Barack Obama.
 
 (6) An individual who—
 
-  (A) commencing on or after September 11, 2001, serves an aggregate of at least 12 months, but less than 18 months, on active duty in the Armed Forces (excluding service on active duty in entry level and skill training); and
+  (A) commencing on or after September 11, 2001, serves an aggregate of at least 6 months, but less than 18 months, on active duty in the Armed Forces (excluding service on active duty in entry level and skill training); and
 
   (B) after completion of service described in subparagraph (A)—
 
@@ -219,16 +221,6 @@ Barack Obama.
 
 (7) An individual who—
 
-  (A) commencing on or after September 11, 2001, serves an aggregate of at least 6 months, but less than 12 months, on active duty in the Armed Forces (excluding service on active duty in entry level and skill training); and
-
-  (B) after completion of service described in subparagraph (A)—
-
-    (i) continues on active duty for an aggregate of less than 12 months; or
-
-    (ii) before completion of service on active duty of an aggregate of 12 months, is discharged or released from active duty as described in subsection (c).
-
-(8) An individual who—
-
   (A) commencing on or after September 11, 2001, serves an aggregate of at least 90 days, but less than 6 months, on active duty in the Armed Forces (excluding service on active duty in entry level and skill training); and
 
   (B) after completion of service described in subparagraph (A)—
@@ -237,9 +229,13 @@ Barack Obama.
 
     (ii) before completion of service on active duty of an aggregate of 6 months, is discharged or released from active duty as described in subsection (c).
 
-(9) An individual who is the child or spouse of a person who, on or after September 11, 2001, dies in line of duty while serving on active duty as a member of the Armed Forces.
+(8) An individual who is the child or spouse of a person who, on or after September 11, 2001, dies in line of duty while serving on active duty as a member of the Armed Forces.
 
-(10) An individual who is awarded the Purple Heart for service in the Armed Forces occurring on or after September 11, 2001, and continues to serve on active duty in the Armed Forces or is discharged or released from active duty as described in subsection (c).
+(9) An individual who is the child or spouse of a person who, on or after September 11, 2001, dies in line of duty while serving on duty other than active duty as a member of the Armed Forces.
+
+(10) An individual who is the child or spouse of a member of the Selected Reserve who dies on or after September 11, 2001, while a member of the Selected Reserve from a service-connected disability.
+
+(11) An individual who is awarded the Purple Heart for service in the Armed Forces occurring on or after September 11, 2001, and continues to serve on active duty in the Armed Forces or is discharged or released from active duty as described in subsection (c).
 
 **(c) Covered Discharges and Releases.—** A discharge or release from active duty of an individual described in this subsection is a discharge or release as follows:
 
@@ -275,15 +271,15 @@ Barack Obama.
 
 **(f) Marine Gunnery Sergeant John David Fry Scholarship.—**
 
-(1) **In general.—** — Educational assistance payable by reason of paragraph (9) of subsection (b) shall be known as the “Marine Gunnery Sergeant John David Fry scholarship”.
+(1) **In general.—** — Educational assistance payable by reason of paragraphs (8), (9), and (10) of subsection (b) shall be known as the “Marine Gunnery Sergeant John David Fry scholarship”.
 
-(2) **Limitation.—** — The entitlement of an individual to assistance under subsection (a) pursuant to paragraph (9) of subsection (b) because the individual was a spouse of a person described in such paragraph shall expire on the earlier of—
+(2) **Limitation.—** — The entitlement of an individual to assistance under subsection (a) pursuant to paragraphs (8), (9), and (10) of subsection (b) because the individual was a spouse of a person described in such paragraph shall expire on the earlier of—
 
   (A) the date that is 15 years after the date on which the person died; or
 
   (B) the date on which the individual remarries.
 
-(3) **Election on receipt of certain benefits.—** — Except as provided in paragraph (4), a surviving spouse entitled to assistance under subsection (a) pursuant to paragraph (9) of subsection (b) who is also entitled to educational assistance under chapter 35 of this title may not receive assistance under both this section and such chapter, but shall make an irrevocable election (in such form and manner as the Secretary may prescribe) under which section or chapter to receive educational assistance.
+(3) **Election on receipt of certain benefits.—** — Except as provided in paragraph (4), a surviving spouse entitled to assistance under subsection (a) pursuant to paragraphs (8), (9), and (10) of subsection (b) who is also entitled to educational assistance under chapter 35 of this title may not receive assistance under both this section and such chapter, but shall make an irrevocable election (in such form and manner as the Secretary may prescribe) under which section or chapter to receive educational assistance.
 
 (4) **Exception for certain elections.—**
 
@@ -291,28 +287,13 @@ Barack Obama.
 
   (B) *Eligible surviving spouse.—* — A spouse described in this subparagraph is an individual—
 
-    (i) who is entitled to assistance under subsection (a) pursuant to paragraph (9) of subsection (b); and
+    (i) who is entitled to assistance under subsection (a) pursuant to paragraphs (8), (9), and (10) of subsection (b); and
 
     (ii) who was the spouse of a member of the Armed Forces who died during the period beginning on September 11, 2001, and ending on December 31, 2005.
 
-(5) **Definition of child.—** — For purposes of paragraph (9) of subsection (b), the term “child” includes a married individual or an individual who is above the age of twenty-three years.
+(5) **Definition of child.—** — For purposes of paragraphs (8), (9), and (10) of subsection (b), the term “child” includes a married individual or an individual who is above the age of twenty-three years.
 
 ### Statutory Notes
-
-#### Amendment of Section
-Pub. L. 115–48, title I, §105(a), (c)(1), (d), Aug. 16, 2017, 131 Stat. 975, 977, provided that, effective Aug. 1, 2020, this section is amended—
-
-(1) in subsection (b)—
-
-(A) in paragraph (6)(A), by striking “12 months” and inserting “6 months”;
-
-(B) by striking paragraph (7); and
-
-(C) by redesignating paragraphs (8), (9), and (10) as paragraphs (7), (8), and (9), respectively; and
-
-(2) in subsection (f), by striking “paragraph (9)” each place it appears and inserting “paragraph (8)”.
-
-See 2017 Amendment notes below.
 
 #### References in Text
 [Section 182 of title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section182&num=0&edition=prelim), referred to in subsec. (d)(2), was repealed by Pub. L. 115–282, title I, § 110(c)(2), Dec. 4, 2018, 132 Stat. 4215.
@@ -320,6 +301,10 @@ See 2017 Amendment notes below.
 The date of the enactment of this paragraph, referred to in subsec. (f)(4)(A), is the date of enactment of Pub. L. 114–315, which was approved Dec. 16, 2016.
 
 #### Amendments
+2021—Subsec. (b)(9) to (11). Pub. L. 116–315, § 1002(a), added pars. (9) and (10) and redesignated former par. (9) as (11).
+
+Subsec. (f). Pub. L. 116–315, § 1002(b)(1), substituted “paragraphs (8), (9), and (10)” for “paragraph (8)” wherever appearing.
+
 2018—Subsec. (d)(2). Pub. L. 115–232 substituted “section 7448, 8459, or 9448 of title 10” for “section 4348, 6959, or 9348 of title 10”.
 
 2017—Subsec. (b)(6)(A). Pub. L. 115–48, § 105(a)(1), substituted “6 months” for “12 months”.
@@ -358,13 +343,16 @@ Subsec. (d)(2). Pub. L. 111–377, § 101(c), inserted “or [section 182 of tit
 
 Subsec. (f). Pub. L. 111–32, § 1002(a)(2), added subsec. (f).
 
+#### Effective Date of 2021 Amendment
+Pub. L. 116–315, title I, § 1002(c), Jan. 5, 2021, 134 Stat. 4939, provided that: “The amendments made by this section [amending this section and sections 3313, 3317, 3320, and 3322 of this title] shall take effect immediately after the amendments made by section 105 of the Harry W. Colmery Veterans Educational Assistance Act of 2017 (Public Law 115–48) [see section 105(d) of Pub. L. 115–48 set out as a note below] take effect [Aug. 1, 2020] and shall apply with respect to a quarter, semester, or term, as applicable, commencing on or after August 1, 2021.”
+
+#### Effective Date of 2018 Amendment
+Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding [section 3001 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section3001&num=0&edition=prelim), Armed Forces.
+
 #### Effective Date of 2017 Amendment
 Pub. L. 115–48, title I, § 102(c), Aug. 16, 2017, 131 Stat. 975, provided that: “The amendments made by this section [amending this section and [section 3313 of this title](./chapter-033-post-9-11-educational-assistance.md#section-3313)] shall take effect on August 1, 2018.”
 
 Pub. L. 115–48, title I, § 105(d), Aug. 16, 2017, 131 Stat. 977, provided that: “The amendments made by this section [amending this section and sections 3313, 3316, 3317, 3321, 3322, and 3679 of this title] shall take effect on August 1, 2020.”
-
-#### Effective Date of 2018 Amendment
-Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding [section 3001 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section3001&num=0&edition=prelim), Armed Forces.
 
 #### Effective Date of 2014 Amendment
 Pub. L. 113–146, title VII, § 701(d), Aug. 7, 2014, 128 Stat. 1796, as amended by Pub. L. 114–315, title IV, § 401(a), Dec. 16, 2016, 130 Stat. 1553, provided that: “(1) In general.—The amendments made by this section [amending this section and [section 3321 of this title](./chapter-033-post-9-11-educational-assistance.md#section-3321)] shall apply with respect to a quarter, semester, or term, as applicable, commencing on or after January 1, 2015. “(2) Deaths that occurred between september 11, 2001, and december 31, 2005.—For purposes of [section 3311(f)(2) of title 38](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section3311/f/2&num=0&edition=prelim), United States Code, any member of the Armed Forces who died during the period beginning on September 11, 2001, and ending on December 31, 2005, is deemed to have died on January 1, 2006.”
@@ -373,7 +361,7 @@ Pub. L. 113–146, title VII, § 701(d), Aug. 7, 2014, 128 Stat. 1796, as amende
 Pub. L. 111–377, title I, § 101(d)(4), (5), Jan. 4, 2011, 124 Stat. 4108, provided that: “(4) Honorable service requirement.—The amendment made by subsection (b) [amending this section] shall take effect on the date of the enactment of this Act [Jan. 4, 2011], and shall apply with respect to discharges and releases from the Armed Forces that occur on or after that date. “(5) Service in connection with attendance at coast guard academy.—The amendment made by subsection (c) [amending this section] shall take effect on the date of the enactment of this Act, and shall apply with respect to individuals entering into agreements on service in the Coast Guard on or after that date.”
 
 #### Effective Date of 2009 Amendment
-Pub. L. 111–32, title X, § 1002(d), June 24, 2009, 123 Stat. 1890, provided that: “(1) Effective date.—The amendments made by this section [amending this section and sections 3313 and 3321 of this title] shall take effect on August 1, 2009. “(2) Applicability.—The Secretary of Veterans Affairs shall begin making payments to individuals entitled to educational assistance by reason of paragraph (9) of [section 3311(b) of title 38](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section3311/b&num=0&edition=prelim), United States Code, as added by subsection (a), by not later than August 1, 2010. In the case of an individual entitled to educational assistance by reason of such paragraph for the period beginning on August 1, 2009, and ending on July 31, 2010, the Secretary shall make retroactive payments to such individual for such period by not later than August 1, 2010.”
+Pub. L. 111–32, title X, § 1002(d), June 24, 2009, 123 Stat. 1890, provided that: “(1) Effective date.—The amendments made by this section [amending this section and sections 3313 and 3321 of this title] shall take effect on August 1, 2009. “(2) Applicability.—The Secretary of Veterans Affairs shall begin making payments to individuals entitled to educational assistance by reason of paragraph (9) of section 3311(b) [now [38 U.S.C. 3311(b)(8)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section3311/b/8&num=0&edition=prelim)] of title 38, United States Code, as added by subsection (a), by not later than August 1, 2010. In the case of an individual entitled to educational assistance by reason of such paragraph for the period beginning on August 1, 2009, and ending on July 31, 2010, the Secretary shall make retroactive payments to such individual for such period by not later than August 1, 2010.”
 
 #### Effective Date
 Section effective Aug. 1, 2009, see section 5003(d) of Pub. L. 110–252, set out as an Effective Date of 2008 Amendment note under [section 16163 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section16163&num=0&edition=prelim), Armed Forces.
@@ -422,7 +410,7 @@ Section effective Aug. 1, 2009, see section 5003(d) of Pub. L. 110–252, set ou
 
 **(c) Programs of Education Leading to a Degree Pursued at Institutions of Higher Learning on More Than Half-time Basis.—** The amounts payable under this subsection for pursuit of an approved program of education leading to a degree at an institution of higher learning (as that term is defined in section 3452(f)) are amounts as follows:
 
-(1) In the case of an individual entitled to educational assistance under this chapter by reason of paragraph (1), (2), (9), or (10) of section 3311(b), amounts as follows:
+(1) In the case of an individual entitled to educational assistance under this chapter by reason of paragraph (1), (2), (8), (9), (10), or (11) of section 3311(b), amounts as follows:
 
   (A) An amount equal to the following:
 
@@ -484,15 +472,13 @@ Section effective Aug. 1, 2009, see section 5003(d) of Pub. L. 110–252, set ou
 
 (5) In the case of an individual entitled to educational assistance under this chapter by reason of section 3311(b)(6), amounts equal to 60 percent of the amounts that would be payable to the individual under paragraph (1) for the program of education if the individual were entitled to amounts for the program of education under paragraph (1) rather than this paragraph.
 
-(6) In the case of an individual entitled to educational assistance under this chapter by reason of section 3311(b)(7), amounts equal to 50 percent of the amounts that would be payable to the individual under paragraph (1) for the program of education if the individual were entitled to amounts for the program of education under paragraph (1) rather than this paragraph.
-
-(7) In the case of an individual entitled to educational assistance under this chapter by reason of section 3311(b)(8), amounts equal to 40 percent of the amounts that would be payable to the individual under paragraph (1) for the program of education if the individual were entitled to amounts for the program of education under paragraph (1) rather than this paragraph.
+(6) In the case of an individual entitled to educational assistance under this chapter by reason of section 3311(b)(7),11 See References in Text note below. amounts equal to 50 percent of the amounts that would be payable to the individual under paragraph (1) for the program of education if the individual were entitled to amounts for the program of education under paragraph (1) rather than this paragraph.
 
 **(d) Frequency of Payment.—**
 
-(1) **Quarter, semester, or term payments.—** — Payment of the amounts payable under subsection (c)(1)(A), and of similar amounts payable under paragraphs (2) through (7) of subsection (c), for pursuit of a program of education shall be made for the entire quarter, semester, or term, as applicable, of the program of education.
+(1) **Quarter, semester, or term payments.—** — Payment of the amounts payable under subsection (c)(1)(A), and of similar amounts payable under paragraphs (2) through (6) of subsection (c), for pursuit of a program of education shall be made for the entire quarter, semester, or term, as applicable, of the program of education.
 
-(2) **Monthly payments.—** — Payment of the amount payable under subsection (c)(1)(B), and of similar amounts payable under paragraphs (2) through (7) of subsection (c), for pursuit of a program of education shall be made on a monthly basis.
+(2) **Monthly payments.—** — Payment of the amount payable under subsection (c)(1)(B), and of similar amounts payable under paragraphs (2) through (6) of subsection (c), for pursuit of a program of education shall be made on a monthly basis.
 
 (3) **Regulations.—** — The Secretary shall prescribe in regulations methods for determining the number of months (including fractions thereof) of entitlement of an individual to educational assistance under this chapter that are chargeable under this chapter for an advance payment of amounts under paragraphs (1) and (2) for pursuit of a program of education on a quarter, semester, term, or other basis.
 
@@ -532,7 +518,7 @@ Section effective Aug. 1, 2009, see section 5003(d) of Pub. L. 110–252, set ou
 
     (ii) the fraction of a complete academic year under the program of education that such quarter, semester, or term constitutes.
 
-  (C) In the case of an individual entitled to educational assistance by reason of paragraphs (3) through (8) of section 3311(b), the amounts payable to the individual pursuant to subparagraphs (A)(i), (A)(ii), and (B) shall be the amounts otherwise determined pursuant to such subparagraphs multiplied by the same percentage applicable to the monthly amounts payable to the individual under paragraphs (2) through (7) of subsection (c).
+  (C) In the case of an individual entitled to educational assistance by reason of paragraphs (3) through (7) of section 3311(b), the amounts payable to the individual pursuant to subparagraphs (A)(i), (A)(ii), and (B) shall be the amounts otherwise determined pursuant to such subparagraphs multiplied by the same percentage applicable to the monthly amounts payable to the individual under paragraphs (2) through (6) of subsection (c).
 
 (3) **Quarter, semester, or term payments.—** — Payment of the amount payable under paragraph (2) for pursuit of a program of education shall be made for the entire quarter, semester, or term, as applicable, of the program of education.
 
@@ -552,7 +538,7 @@ Section effective Aug. 1, 2009, see section 5003(d) of Pub. L. 110–252, set ou
 
       (II) any scholarship, or other Federal, State, institutional, or employer-based aid or assistance (other than loans and any funds provided under section 401(b) of the Higher Education Act of 1965 ([20 U.S.C. 1070a(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1070a/b&num=0&edition=prelim))) that is provided directly to the institution and specifically designated for the sole purpose of defraying tuition and fees; or
 
-    (ii) the maximum amount that would be payable to the individual for the program of education under paragraph (1)(A) of subsection (c), or under the provisions of paragraphs (2) through (7) of subsection (c) applicable to the individual, for the program of education if the individual were entitled to amounts for the program of education under subsection (c) rather than this subsection.
+    (ii) the maximum amount that would be payable to the individual for the program of education under paragraph (1)(A) of subsection (c), or under the provisions of paragraphs (2) through (6) of subsection (c) applicable to the individual, for the program of education if the individual were entitled to amounts for the program of education under subsection (c) rather than this subsection.
 
   (B) A stipend in an amount equal to the amount of the appropriately reduced amount of the lump sum amount for books, supplies, equipment, and other educational costs otherwise payable to the individual under subsection (c).
 
@@ -604,7 +590,7 @@ Section effective Aug. 1, 2009, see section 5003(d) of Pub. L. 110–252, set ou
 
     (iii) Subject to clause (iv), a monthly stipend in an amount equal to $83 for each month (or pro rata amount for a partial month) of training pursued for books, supplies, equipment, and other educational costs.
 
-    (iv) In the case of an individual entitled to educational assistance by reason of paragraphs (3) through (8) of section 3311(b), the amounts payable pursuant to clauses (i), (ii), and (iii) shall be the amounts otherwise determined pursuant to such clauses multiplied by the same percentage applicable to the monthly amounts payable to the individual under paragraphs (2) through (7) of subsection (c).
+    (iv) In the case of an individual entitled to educational assistance by reason of paragraphs (3) through (7) of section 3311(b), the amounts payable pursuant to clauses (i), (ii), and (iii) shall be the amounts otherwise determined pursuant to such clauses multiplied by the same percentage applicable to the monthly amounts payable to the individual under paragraphs (2) through (6) of subsection (c).
 
   (B) In the case of an individual pursuing a full-time program of apprenticeship or other on-job training, amounts as follows:
 
@@ -622,7 +608,7 @@ Section effective Aug. 1, 2009, see section 5003(d) of Pub. L. 110–252, set ou
 
     (ii) Subject to clauses (iii) and (iv), a monthly stipend in an amount equal to $83 for each month (or pro rata amount for each partial month) of training pursued for books, supplies, equipment, and other educational costs.
 
-    (iii) In the case of an individual entitled to educational assistance by reason of paragraphs (3) through (8) of sections 3311(b), the amounts payable pursuant to clauses (i) and (ii) shall be the amounts otherwise determined pursuant to such clauses multiplied by the same percentage applicable to the monthly amounts payable to the individual under paragraphs (2) through (7) of subsection (c).
+    (iii) In the case of an individual entitled to educational assistance by reason of paragraphs (3) through (7) of sections 22 So in original. Probably should be “section”. 3311(b), the amounts payable pursuant to clauses (i) and (ii) shall be the amounts otherwise determined pursuant to such clauses multiplied by the same percentage applicable to the monthly amounts payable to the individual under paragraphs (2) through (6) of subsection (c).
 
     (iv) In any month in which an individual pursuing a program of education consisting of a program of apprenticeship or other on-job training fails to complete 120 hours of training, the amount of monthly educational assistance allowance payable under clauses (i) and (iii) to the individual shall be limited to the same proportion of the applicable rate determined under this subparagraph as the number of hours worked during such month, rounded to the nearest eight hours, bears to 120 hours.
 
@@ -644,9 +630,9 @@ Section effective Aug. 1, 2009, see section 5003(d) of Pub. L. 110–252, set ou
 
     (ii) either—
 
-      (I) in the case of an individual entitled to educational assistance by reason of paragraphs (1), (2), or (9) of section 3311(b), 100 percent; or
+      (I) in the case of an individual entitled to educational assistance by reason of paragraphs (1), (2), or (8) of section 3311(b), 100 percent; or
 
-      (II) in the case of an individual entitled to educational assistance by reason of paragraphs (3) through (8) of section 3311(b), the same percentage as would otherwise apply to the monthly amounts payable to the individual under paragraphs (2) through (7) of subsection (c).
+      (II) in the case of an individual entitled to educational assistance by reason of paragraphs (3) through (7) of section 3311(b), the same percentage as would otherwise apply to the monthly amounts payable to the individual under paragraphs (2) through (6) of subsection (c).
 
   (D) In the case of an individual enrolled in a program of education that is pursued exclusively by correspondence (regardless of the institution providing such program of education), an amount equal to—
 
@@ -666,9 +652,9 @@ Section effective Aug. 1, 2009, see section 5003(d) of Pub. L. 110–252, set ou
 
     (ii) either—
 
-      (I) in the case of an individual entitled to educational assistance by reason of paragraphs (1), (2), or (9) of section 3311(b), 100 percent; or
+      (I) in the case of an individual entitled to educational assistance by reason of paragraphs (1), (2), or (8) of section 3311(b), 100 percent; or
 
-      (II) in the case of an individual entitled to educational assistance by reason of paragraphs (3) through (8) of section 3311(b), the same percentage as would otherwise apply to the monthly amounts payable to the individual under paragraphs (2) through (7) of subsection (c).
+      (II) in the case of an individual entitled to educational assistance by reason of paragraphs (3) through (7) of section 3311(b), the same percentage as would otherwise apply to the monthly amounts payable to the individual under paragraphs (2) through (6) of subsection (c).
 
 (4) **Frequency of payment.—**
 
@@ -694,7 +680,7 @@ Section effective Aug. 1, 2009, see section 5003(d) of Pub. L. 110–252, set ou
 
   (B) *Pro rata adjustment based on certain eligibility.—* — If the amount otherwise payable with respect to an individual under paragraph (3)(A)(i) is subject to a percentage adjustment under paragraph (3)(A)(iv), the amount applicable with respect to the individual under subparagraph (A)(ii) shall be the amount otherwise determined pursuant to such subparagraph subject to a percentage adjustment equal to the percentage adjustment applicable with respect to the individual under paragraph (3)(A)(iv).
 
-**(h) Payment of Established Charges to Educational Institutions.—** Amounts payable under subsections (c)(1)(A) (and of similar amounts payable under paragraphs (2) through (7) of subsection (c)), (e)(2), and (f)(2)(A), and under subparagraphs (A)(i), (C), and (D) of subsection (g)(3), shall be paid directly to the educational institution concerned.
+**(h) Payment of Established Charges to Educational Institutions.—** Amounts payable under subsections (c)(1)(A) (and of similar amounts payable under paragraphs (2) through (6) of subsection (c)), (e)(2), and (f)(2)(A), and under subparagraphs (A)(i), (C), and (D) of subsection (g)(3), shall be paid directly to the educational institution concerned.
 
 **(i) Determination of Housing Stipend Payments for Academic Years.—** Any monthly housing stipend payable under this section during the academic year beginning on August 1 of a calendar year shall be determined utilizing rates for basic allowances for housing payable under [section 403 of title 37](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section403&num=0&edition=prelim) in effect as of January 1 of such calendar year.
 
@@ -708,51 +694,50 @@ Section effective Aug. 1, 2009, see section 5003(d) of Pub. L. 110–252, set ou
 
 ### Statutory Notes
 
-#### Amendment of Section
-Pub. L. 115–48, title I, § 105(b), (c)(2), (d), Aug. 16, 2017, 131 Stat. 975, 977, provided that, effective Aug. 1, 2020, this section is amended—
+#### Amendment of Subsection (e)
+Pub. L. 116–315, title I, § 1009, Jan. 5, 2021, 134 Stat. 4938, provided that, effective Aug. 1, 2022, subsection (e) of this section is amended:
 
-(1) in subsection (c)—
+(1) in the heading, by inserting “for a Period of More Than 30 Days” after “Active Duty”;
 
-(A) in paragraph (1), by striking “(9), or (10)” and inserting “(8), or (9)”; and
+(2) in paragraph (1), by inserting “for a period of more than 30 days” after “active duty”; and
 
-(B) by striking paragraph (7);
+(3) in paragraph (2), in the matter preceding subparagraph (A), by inserting “for a period of more than 30 days” after “active duty”.
 
-(2) in subsection (d), by striking “paragraphs (2) through (7)” each place it appears and inserting “paragraphs (2) through (6)”;
+See 2021 Amendment notes below.
 
-(3) in subsection (e)(2)(C)—
+#### Amendment of Subsection (l)
+Pub. L. 116–315, title I, § 1010, Jan. 5, 2021, 134 Stat. 4941, provided that, effective Aug. 1, 2021, this section is amended by adding at the end the following new subsection:
 
-(A) by striking “paragraphs (3) through (8)” and inserting “paragraphs (3) through (7)”; and
+(l) Verification of Enrollment.—(1) The Secretary shall require—
 
-(B) by striking “paragraphs (2) through (7)” and inserting “paragraphs (2) through (6)”;
+(A) each educational institution to submit to the Secretary verification of each individual who is enrolled in a course or program of education at the educational institution and is receiving educational assistance under this chapter—
 
-(4) in subsection (f)(2)(A)(ii), by striking “paragraphs (2) through (7)” and inserting “paragraphs (2) through (6)”;
+(i) not later than such time as the Secretary determines reasonable after the date on which the individual is enrolled; and
 
-(5) in subsection (g)(3)—
+(ii) not later than such time as the Secretary determines reasonable after the last date on which a student is able to withdraw from the course or program of education without penalty; and
 
-(A) in subparagraphs (A)(iv) and (B)(iii)—
+(B) each individual who is enrolled in a course or program of education and is receiving educational assistance under this chapter to submit to the Secretary verification of such enrollment for each month during which the individual is so enrolled and receiving such educational assistance.
 
-(i) by striking “paragraphs (3) through (8)” and inserting “paragraphs (3) through (7)”; and
+(2) Verification under this subsection shall be in an electronic form prescribed by the Secretary.
 
-(ii) by striking “paragraphs (2) through (7)” and inserting “paragraphs (2) through (6)”; and
+(3) If an individual fails to submit the verification required under paragraph (1)(B) for two consecutive months, the Secretary may not make a monthly stipend payment to the individual under this section until the individual submits such verification.
 
-(B) in subparagraphs (C)(ii) and (D)(ii)—
-
-(i) in subclause (I), by striking “(9)” and inserting “(8)”; and
-
-(ii) in subclause (II)—
-
-(I) by striking “paragraphs (3) through (8)” and inserting “paragraphs (3) through (7)”; and
-
-(II) by striking “paragraphs (2) through (7)” and inserting “paragraphs (2) through (6)”; and
-
-(6) in subsection (h), by striking “paragraphs (2) through (7)” and inserting “paragraphs (2) through (6)”.
-
-See 2017 Amendment notes below.
+See 2021 Amendment note below.
 
 #### References in Text
 Section 401(b) of the Higher Education Act of 1965, referred to in subsecs. (c)(1)(A)(i)(II), (ii)(I)(bb), (e)(2)(A)(i)(II), (ii)(I)(bb), (f)(2)(A)(i)(II), and (g)(3)(A)(i)(I)(bb), (C)(i)(I)(bb), (D)(i)(I)(bb), is classified to [section 1070a(b) of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1070a/b&num=0&edition=prelim), Education.
 
+Subsection (b)(7) of [section 3311 of this title](./chapter-033-post-9-11-educational-assistance.md#section-3311), referred to in subsec. (c)(6), was repealed and subsection (b)(8) was redesignated (b)(7) by Pub. L. 115–48, title I, §105(a)(2), (3), Aug. 16, 2017, 131 Stat. 975.
+
 #### Amendments
+2021—Subsec. (c)(1). Pub. L. 116–315, § 1002(b)(2), substituted “(8), (9), (10), or (11)” for “(8), or (9)”.
+
+Subsec. (e). Pub. L. 116–315, § 1009(a)(1), inserted “for a Period of More Than 30 Days” after “Active Duty” in heading.
+
+Subsec. (e)(1), (2). Pub. L. 116–315, § 1009(a)(2), (3), inserted “for a period of more than 30 days” after “active duty”.
+
+Subsec. (l). Pub. L. 116–315, § 1010(a), added subsec. (l).
+
 2019—Subsec. (g)(3)(B)(ii). Pub. L. 116–61 inserted comma after “for books”.
 
 2018—Subsec. (k). Pub. L. 115–407 added subsec. (k).
@@ -844,6 +829,13 @@ Subsec. (d)(3). Pub. L. 111–275, § 1001(g)(2), substituted “assistance unde
 Subsec. (e)(2)(B). Pub. L. 111–275, § 1001(g)(3), inserted period at end.
 
 2009—Subsec. (c)(1). Pub. L. 111–32 substituted “paragraph (1), (2), or (9) of section 3311(b)” for “section 3311(b)(1) or 3311(b)(2)”.
+
+#### Effective Date of 2021 Amendment
+Amendment by section 1002(b)(2) of Pub. L. 116–315 effective immediately after the amendments made by section 105 of Pub. L. 115–48 [amendments effective Aug. 1, 2020] and applicable with respect to a quarter, semester, or term, commencing on or after Aug. 1, 2021, see section 1002(c) of Pub. L. 116–315, set out as a note under [section 3311 of this title](./chapter-033-post-9-11-educational-assistance.md#section-3311).
+
+Pub. L. 116–315, title I, § 1009(b), Jan. 5, 2021, 134 Stat. 4941, provided that: “The amendments made by subsection (a) [amending this section] shall take effect on August 1, 2022.”
+
+Pub. L. 116–315, title I, § 1010(b), Jan. 5, 2021, 134 Stat. 4941, provided that: “The amendment made by subsection (a) [amending this section] shall take effect on August 1, 2021.”
 
 #### Effective Date of 2017 Amendment
 Pub. L. 115–62, title V, § 501(b)(2), Sept. 29, 2017, 131 Stat. 1165, provided that: “The amendment made by paragraph (1) [amending this section] shall apply with respect to enrollment for a quarter, semester, or term, as applicable, commencing on or after August 1, 2018.”
@@ -985,17 +977,48 @@ Amendment by Pub. L. 115–48 applicable to a test taken on or after Aug. 1, 201
 Pub. L. 111–377, title I, § 108(b), Jan. 4, 2011, 124 Stat. 4119, provided that: “The amendments made by this section [enacting this section] shall take effect on August 1, 2011, and shall apply with respect to national tests taken on or after that date.”
 
 
+<a id="section-3315b"></a>
+## § 3315B. Preparatory courses for licensure, certification, or national tests
+**(a) In General.—** An individual entitled to educational assistance under this chapter shall also be entitled to payment for a covered preparatory course.
+
+**(b) Amount.—** The amount of educational assistance payable under this chapter for a covered preparatory course is the lesser of—
+
+(1) the fee charged for the covered preparatory course; or
+
+(2) the amount of entitlement available to the individual under this chapter at the time of payment for the covered preparatory course under this section.
+
+**(c) Charge Against Entitlement.—** The number of months of entitlement charged an individual under this chapter for a covered preparatory course shall be pro-rated based on the actual amount of the fee charged for the covered preparatory course relative to the rate for 1 month payable—
+
+(1) for the academic year beginning on August 1, 2020, $2,042; or
+
+(2) for an academic year beginning on any subsequent August 1, the amount for the previous academic year beginning on August 1 under this subsection, as increased by the percentage increase equal to the most recent percentage increase determined under section 3015(h).
+
+**(d) Covered Preparatory Course Defined.—** In this section, the term “covered preparatory course” means a course—
+
+(1) for a licensing or certification test that is required or used to enter into, maintain, or advance in employment in a predetermined and identified vocation or profession; and
+
+(2) that has been approved by the State approving agency concerned.
+
+### Statutory Notes
+
+#### Delayed Effective Date of Section
+Section effective Aug. 1, 2021, see Effective Date note below.
+
+#### Effective Date
+Pub. L. 116–154, § 5(d), Aug. 8, 2020, 134 Stat. 692, provided that: “The amendment made by subsection (a) [enacting this section] shall take effect on August 1, 2021.”
+
+
 <a id="section-3316"></a>
 ## § 3316. Supplemental educational assistance: members with critical skills or specialty; members serving additional service
 **(a) Increased Assistance for Members With Critical Skills or Specialty.—**
 
-(1) **In general.—** — In the case of an individual who has a skill or specialty designated by the Secretary concerned as a skill or specialty in which there is a critical shortage of personnel or for which it is difficult to recruit or, in the case of critical units, retain personnel, the Secretary concerned may increase the monthly amount of educational assistance otherwise payable to the individual under paragraph (1)(B) of section 3313(c), or under paragraphs (2) through (7) of such section (as applicable).
+(1) **In general.—** — In the case of an individual who has a skill or specialty designated by the Secretary concerned as a skill or specialty in which there is a critical shortage of personnel or for which it is difficult to recruit or, in the case of critical units, retain personnel, the Secretary concerned may increase the monthly amount of educational assistance otherwise payable to the individual under paragraph (1)(B) of section 3313(c), or under paragraphs (2) through (6) of such section (as applicable).
 
 (2) **Maximum amount of increase in assistance.—** — The amount of the increase in educational assistance authorized by paragraph (1) may not exceed the amount equal to the monthly amount of increased basic educational assistance providable under section 3015(d)(1) at the time of the increase under paragraph (1).
 
 **(b) Supplemental Assistance for Additional Service.—**
 
-(1) **In general.—** — The Secretary concerned may provide for the payment to an individual entitled to educational assistance under this chapter of supplemental educational assistance for additional service authorized by subchapter III of chapter 30. The amount so payable shall be payable as an increase in the monthly amount of educational assistance otherwise payable to the individual under paragraph (1)(B) of section 3313(c), or under paragraphs (2) through (7) of such section (as applicable).
+(1) **In general.—** — The Secretary concerned may provide for the payment to an individual entitled to educational assistance under this chapter of supplemental educational assistance for additional service authorized by subchapter III of chapter 30. The amount so payable shall be payable as an increase in the monthly amount of educational assistance otherwise payable to the individual under paragraph (1)(B) of section 3313(c), or under paragraphs (2) through (6) of such section (as applicable).
 
 (2) **Eligibility.—** — Eligibility for supplemental educational assistance under this subsection shall be determined in accordance with the provisions of subchapter III of chapter 30, except that any reference in such provisions to eligibility for basic educational assistance under a provision of subchapter II of chapter 30 shall be treated as a reference to eligibility for educational assistance under the appropriate provision of this chapter.
 
@@ -1022,9 +1045,6 @@ Pub. L. 111–377, title I, § 108(b), Jan. 4, 2011, 124 Stat. 4119, provided th
 **(e) Regulations.—** The Secretaries concerned shall administer this section in accordance with such regulations as the Secretary of Defense shall prescribe.
 
 ### Statutory Notes
-
-#### Amendment of Subsections (a)(1) and (b)(1)
-Pub. L. 115–48, title I, § 105(c)(3), (d), Aug. 16, 2017, 131 Stat. 976, 977, provided that, effective Aug. 1, 2020, subsections (a)(1) and (b)(1) of this section are amended by striking “paragraphs (2) through (7)” and inserting “paragraphs (2) through (6)”. See 2017 Amendment note below.
 
 #### References in Text
 Section 5003(c)(1)(A) of the Post-9/11 Veterans Educational Assistance Act of 2008, referred to in subsec. (c)(1), is section 5003(c)(1)(A) of Pub. L. 110–252, which is set out as a note under [section 3301 of this title](./chapter-033-post-9-11-educational-assistance.md#section-3301).
@@ -1054,7 +1074,7 @@ Section effective Aug. 1, 2009, see section 5003(d) of Pub. L. 110–252, set ou
 
 <a id="section-3317"></a>
 ## § 3317. Public-private contributions for additional educational assistance
-**(a) Establishment of Program.—** In instances where the educational assistance provided pursuant to section 3313(c)(1)(A) does not cover the full cost of established charges (as specified in section 3313), the Secretary shall carry out a program under which colleges and universities can, voluntarily, enter into an agreement with the Secretary to cover a portion of those established charges not otherwise covered under section 3313(c)(1)(A), which contributions shall be matched by equivalent contributions toward such costs by the Secretary. The program shall only apply to covered individuals described in paragraphs (1), (2), (9), and (10) of section 3311(b).
+**(a) Establishment of Program.—** In instances where the educational assistance provided pursuant to section 3313(c)(1)(A) does not cover the full cost of tuition and fees for a program of education, the Secretary shall carry out a program under which colleges and universities can, voluntarily, enter into an agreement with the Secretary to cover a portion of such tuition and fees not otherwise covered under section 3313(c)(1)(A), which contributions shall be matched by equivalent contributions toward such costs by the Secretary. The program shall only apply to covered individuals described in paragraphs (1), (2), (8), (9), (10), and (11) of section 3311(b).
 
 **(b) Designation of Program.—** The program under this section shall be known as the “Yellow Ribbon G.I. Education Enhancement Program”.
 
@@ -1079,18 +1099,21 @@ Section effective Aug. 1, 2009, see section 5003(d) of Pub. L. 110–252, set ou
 ### Statutory Notes
 
 #### Amendment of Subsection (a)
-Pub. L. 115–48, title I, § 104, Aug. 16, 2017, 131 Stat. 975, provided that, effective Aug. 1, 2022, subsection (a) of this section is amended, in the first sentence, by striking “section 3313(c)(1)(A)” and inserting “subsection (c)(1)(A) or (e)(2)(A) of [section 3313 of this title](./chapter-033-post-9-11-educational-assistance.md#section-3313)”.
-
-Pub. L. 115–48, title I, § 105(c)(4), (d), Aug. 16, 2017, 131 Stat. 976, 977, provided that, effective Aug. 1, 2020, subsection (a) of this section is amended, in the second sentence, by striking “paragraphs (1), (2), (9), and (10)” and inserting “paragraphs (1), (2), (8), and (9)”.
-
-See 2017 Amendment notes below.
+Pub. L. 115–48, title I, § 104, Aug. 16, 2017, 131 Stat. 975, provided that, effective Aug. 1, 2022, subsection (a) of this section is amended, in the first sentence, by striking “section 3313(c)(1)(A)” and inserting “subsection (c)(1)(A) or (e)(2)(A) of [section 3313 of this title](./chapter-033-post-9-11-educational-assistance.md#section-3313)”. See 2017 Amendment note below.
 
 #### Amendments
+2021—Subsec. (a). Pub. L. 116–315, § 1008, substituted “the full cost of tuition and fees for a program of education” for “the full cost of established charges (as specified in section 3313)” and “such tuition and fees” for “those established charges”.
+
+Pub. L. 116–315, § 1002(b)(3), substituted “paragraphs (1), (2), (8), (9), (10), and (11)” for “paragraphs (1), (2), (8), and (9)”.
+
 2017—Subsec. (a). Pub. L. 115–48, § 105(c)(4), substituted “paragraphs (1), (2), (8), and (9)” for “paragraphs (1), (2), (9), and (10)”.
 
 Pub. L. 115–48, § 104(a), which directed substitution of “subsection (c)(1)(A) or (e)(2)(A) of [section 3313 of this title](./chapter-033-post-9-11-educational-assistance.md#section-3313)” for “section 3313(c)(1)(A)” in the first sentence, was executed in both places where “section 3313(c)(1)(A)” appeared, to reflect the probable intent of Congress.
 
 Pub. L. 115–48, § 103(a), substituted “paragraphs (1), (2), (9), and (10)” for “paragraphs (1) and (2)”.
+
+#### Effective Date of 2021 Amendment
+Amendment by section 1002(b)(3) of Pub. L. 116–315 effective immediately after the amendments made by section 105 of Pub. L. 115–48 [amendments effective Aug. 1, 2020] and applicable with respect to a quarter, semester, or term, commencing on or after Aug. 1, 2021, see section 1002(c) of Pub. L. 116–315, set out as a note under [section 3311 of this title](./chapter-033-post-9-11-educational-assistance.md#section-3311).
 
 #### Effective Date of 2017 Amendment
 Pub. L. 115–48, title I, § 103(b), Aug. 16, 2017, 131 Stat. 975, provided that: “The amendment made by subsection (a) [amending this section] shall take effect on August 1, 2018.”
@@ -1155,13 +1178,11 @@ Section effective Aug. 1, 2009, see section 5003(d) of Pub. L. 110–252, set ou
 
 (2) the years of service as determined in regulations pursuant to subsection (j).
 
-**(c) Eligible Dependents.—** An individual approved to transfer an entitlement to educational assistance under this section may transfer the individual’s entitlement as follows:
+**(c) Eligible Dependents.—**
 
-(1) To the individual’s spouse.
+(1) **Transfer.—** — An individual approved to transfer an entitlement to educational assistance under this section may transfer the individual’s entitlement to an eligible dependent or a combination of eligible dependents.
 
-(2) To one or more of the individual’s children.
-
-(3) To a combination of the individuals referred to in paragraphs (1) and (2).
+(2) **Definition of eligible dependent.—** — For purposes of this subsection, the term “eligible dependent” has the meaning given the term “dependent” under subparagraphs (A), (I), and (D) of [section 1072(2) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1072/2&num=0&edition=prelim).
 
 **(d) Limitation on Months of Transfer.—** The total number of months of entitlement transferred by a individual under this section may not exceed 36 months. The Secretary of Defense may prescribe regulations that would limit the months of entitlement that may be transferred under this section to no less than 18 months.
 
@@ -1227,7 +1248,7 @@ Section effective Aug. 1, 2009, see section 5003(d) of Pub. L. 110–252, set ou
 
 (5) **Limitation on age of use by child transferees.—**
 
-  (A) *In general.—* — A child to whom entitlement is transferred under this section may use the benefits transferred without regard to the 15-year delimiting date specified in section 3321, but may not, except as provided in subparagraph (B), use any benefits so transferred after attaining the age of 26 years.
+  (A) *In general.—* — A child to whom entitlement is transferred under this section may use the benefits transferred without regard to the 15-year delimiting date specified in section 3321, but may not, except as provided in subparagraph (B),11 See Extension of Time Limitations for Use of Entitlement: Transfer Period note below. use any benefits so transferred after attaining the age of 26 years.
 
   (B) *Primary caregivers of seriously injured members of the armed forces and veterans.—*
 
@@ -1283,6 +1304,8 @@ Section effective Aug. 1, 2009, see section 5003(d) of Pub. L. 110–252, set ou
 
   (C) the manner and effect of an election to modify or revoke a transfer of entitlement under subsection (f)(2).
 
+(3) The Secretary of Defense may not prescribe any regulation that would provide for a limitation on eligibility to transfer unused education benefits to family members based on a maximum number of years of service in the Armed Forces.
+
 **(k) Additional Transfer Upon Death of Dependent.—** In the case of a dependent to whom entitlement to educational assistance is transferred under this section who dies before using all of such entitlement, the individual who transferred the entitlement to the dependent may transfer any remaining entitlement to a different eligible dependent, notwithstanding whether the individual is serving as a member of the Armed Forces when such transfer is executed.
 
 **(l) Transfer by Dependent.—** In the case of an individual who transfers entitlement to educational assistance under this section who dies before the dependent to whom entitlement to educational assistance is so transferred has used all of such entitlement, such dependent may transfer such entitlement to another eligible dependent in accordance with the provisions of this section.
@@ -1290,6 +1313,16 @@ Section effective Aug. 1, 2009, see section 5003(d) of Pub. L. 110–252, set ou
 ### Statutory Notes
 
 #### Amendments
+2021—Subsec. (c). Pub. L. 116–315 amended subsec. (c) generally. Prior to amendment, text read as follows: “An individual approved to transfer an entitlement to educational assistance under this section may transfer the individual’s entitlement as follows:
+
+“(1) To the individual’s spouse.
+
+“(2) To one or more of the individual’s children.
+
+“(3) To a combination of the individuals referred to in paragraphs (1) and (2).”
+
+2019—Subsec. (j)(3). Pub. L. 116–92 added par. (3).
+
 2017—Subsec. (f)(1). Pub. L. 115–48, § 110(a)(1), inserted “, and except as provided in subsection (k) or (l),” after “section 3321”.
 
 Subsecs. (k), (l). Pub. L. 115–48, § 110(a)(2), added subsecs. (k) and (l).
@@ -1316,6 +1349,9 @@ Subsec. (k). Pub. L. 111–377, § 110(a)(2), struck out subsec. (k). Text read 
 
 2010—Subsec. (b)(2). Pub. L. 111–275 substituted “subsection (j)” for “section (k)”.
 
+#### Effective Date of 2021 Amendment
+Pub. L. 116–315, title I, § 1011(b), Jan. 5, 2021, 134 Stat. 4942, provided that: “The amendment made by subsection (a) [amending this section] shall apply with respect to educational assistance payable under chapter 33 of title 38, United States Code, before, on, or after the date that is 90 days after the date of the enactment of this Act [Jan. 5, 2021].”
+
 #### Effective Date of 2017 Amendment
 Pub. L. 115–48, title I, § 110(b), Aug. 16, 2017, 131 Stat. 981, provided that: “(1) Eligible deaths.—The amendments made by this section [amending this section] shall apply with respect to deaths occurring on or after August 1, 2009. “(2) Use of entitlement.—A dependent to whom entitlement to educational assistance is transferred under subsection (k) or (l) of [section 3319 of title 38](./chapter-033-post-9-11-educational-assistance.md#section-3319), United States Code, as added by subsection (a), may use such entitlement to pursue a course of education beginning on or after August 1, 2018.”
 
@@ -1326,6 +1362,13 @@ Amendment by section 201(b) of Pub. L. 111–377 effective Aug. 1, 2011, and app
 
 #### Effective Date
 Section effective Aug. 1, 2009, see section 5003(d) of Pub. L. 110–252, set out as an Effective Date of 2008 Amendment note under [section 16163 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section16163&num=0&edition=prelim), Armed Forces.
+
+#### Extension of Time Limitations for Use of Entitlement: Transfer Period
+Pub. L. 116–315, title I, § 1107(d)(2), Jan. 5, 2021, 134 Stat. 4966, provided that: “The subparagraph (C) temporarily added to section 3319(h)(5) of such title by section 6 of the Student Veteran Coronavirus Response Act of 2020 (Public Law 116–140)[set out as a note below] is amended by inserting ‘or training establishment’ after ‘educational institution’.”
+
+Pub. L. 116–140, § 6(b)(2), Apr. 28, 2020, 134 Stat. 633, provided that: “During the covered period, the Secretary of Veterans Affairs shall apply section 3319(h)(5) of such title as if it were amended— “(A) in subparagraph (A) by inserting ‘or (C)’ after ‘subparagraph (B)’; and “(B) by adding at the end the following new subparagraph:“ ‘(C) Emergency situations.—In any case in which the Secretary determines that an individual to whom entitlement is transferred under this section has been prevented from pursuing the individual’s chosen program of education before the individual attains the age of 26 years because the educational institution closed (temporarily or permanently) under an established policy based on an Executive order of the President or due to an emergency situation, the Secretary shall extend the period during which the individual may use such entitlement for a period equal to the number of months that the individual was so prevented from pursuing the program of education, as determined by the Secretary.’.”
+
+[The term “covered period” as used in section 6(b)(2) of Pub. L. 116–140, set out above, means Mar. 1, 2020, to Dec. 21, 2021, see section 2 of Pub. L. 116–140, set out as a note under [section 3031 of this title](./chapter-030-all-volunteer-force-educational-assistance-program.md#section-3031).]
 
 
 <a id="section-3320"></a>
@@ -1344,7 +1387,7 @@ Section effective Aug. 1, 2009, see section 5003(d) of Pub. L. 110–252, set ou
 
   (A) is an individual who—
 
-    (i) is enrolled in a program of education leading to a post-secondary degree that, in accordance with the guidelines of the applicable regional or national accrediting agency, requires at least the standard 120 semester (or 180 quarter) credit hours for completion in a standard, undergraduate college degree in—
+    (i) is enrolled in a program of education leading to a post-secondary degree that, in accordance with the guidelines of the applicable regional or national accrediting agency, requires at least the standard 120 semester (or 180 quarter) credit hours for completion in a standard, undergraduate college degree, or a dual degree program that includes such an undergraduate college degree, in—
 
       (I) biological or biomedical science;
 
@@ -1362,21 +1405,35 @@ Section effective Aug. 1, 2009, see section 5003(d) of Pub. L. 110–252, set ou
 
       (VIII) a health profession or related program;
 
-      (IX) a medical residency program;
+      (IX) an agriculture science program or a natural resources science program; or
 
-      (X) an agriculture science program or a natural resources science program; or
-
-      (XI) other subjects and fields identified by the Secretary as meeting national needs;
+      (X) other subjects and fields identified by the Secretary as meeting national needs;
 
     (ii) has completed at least 60 standard semester (or 90 quarter) credit hours in a field referred to in clause (i); or
 
-  (B) is an individual who has earned a post-secondary degree in a field referred to in subparagraph (A)(i) and is enrolled in a program of education leading to a teaching certification.
+  (B) is an individual who has earned a post-secondary degree in a field referred to in subparagraph (A)(i) and is enrolled in a covered clinical training program for health care professionals or a program of education leading to a teaching certification; or
 
-**(c) Priority.—** In selecting eligible individuals to receive additional benefits under this section, the Secretary shall give priority to the following individuals:
+  (C) is an individual who has earned a graduate degree in a field referred to in subparagraph (A)(i) and is enrolled in a covered clinical training program for health care professionals.
 
-(1) Individuals who require the most credit hours described in subsection (b)(4).
+**(c) Priority.—**
 
-(2) Individuals who are entitled to educational assistance under this chapter by reason of paragraph (1), (2), (8), or (9) of [section 3311(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section3311/b&num=0&edition=prelim).
+(1) If the Secretary determines that there are insufficient funds available in a fiscal year to provide additional benefits under this section to all eligible individuals, the Secretary may give priority to the following eligible individuals:
+
+  (A) Individuals who require the most credit hours described in subsection (b)(4).
+
+  (B) Individuals who are entitled to educational assistance under this chapter by reason of paragraph (1), (2), (8), (9), (10), or (11) of [section 3311(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section3311/b&num=0&edition=prelim).
+
+(2) The Secretary shall give priority to individuals under paragraph (1) in the following order:
+
+  (A) Individuals who are enrolled in a program of education leading to an undergraduate degree in a field referred to in subsection (b)(4)(A)(i).
+
+  (B) Individuals who are enrolled in a program of education leading to a teaching certificate.
+
+  (C) Individuals who are enrolled in a dual-degree program leading to both an undergraduate and graduate degree in a field referred to in subsection (b)(4)(A)(i).
+
+  (D) Individuals who have earned an undergraduate degree and are enrolled in a covered clinical training program for health care professionals.
+
+  (E) Individuals who have earned a graduate degree and are enrolled in a covered clinical training program for health care professionals.
 
 **(d) Amount of Assistance.—**
 
@@ -1385,6 +1442,8 @@ Section effective Aug. 1, 2009, see section 5003(d) of Pub. L. 110–252, set ou
 (2) The Secretary may not pay to such an individual an amount in addition to the amount payable under paragraph (1) by reason of [section 3317 of this title](./chapter-033-post-9-11-educational-assistance.md#section-3317).
 
 (3) An individual who receives additional benefits under this section may also receive amounts payable by a college or university pursuant to [section 3317 of this title](./chapter-033-post-9-11-educational-assistance.md#section-3317).
+
+(4) Notwithstanding any other provision of this chapter or chapter 36 of this title, any additional benefits under this section may not be counted toward the aggregate period for which [section 3695 of this title](./chapter-036-administration-of-educational-benefits.md#section-3695) limits an individual’s receipt of allowance or assistance.
 
 **(e) Prohibition on Transfer.—** An individual who receives additional benefits under this section may not transfer any amount of such additional benefits under [section 3319 of this title](./chapter-033-post-9-11-educational-assistance.md#section-3319).
 
@@ -1398,10 +1457,33 @@ Section effective Aug. 1, 2009, see section 5003(d) of Pub. L. 110–252, set ou
 
 **(g) Congressional Notice.—** If the Secretary identifies a new subject or field pursuant to subsection (b)(4)(A)(i)(XI) as meeting a national need, the Secretary shall submit to Congress notice of such identification at least 90 days before conferring eligibility on any individual for purposes of this section on the basis of such identification, including any analysis of labor market supply and demand used in identifying the new subject or field, as applicable.
 
+**(h) Covered Clinical Training Program Defined.—** In this section, the term “covered clinical training program” means any clinical training required by a health care professional to be licensed to practice in a State or locality.
+
 ### Statutory Notes
 
 #### Amendments
+2021—Subsec. (b)(4)(A)(i). Pub. L. 116–315, § 1001(a)(1), inserted “, or a dual degree program that includes such an undergraduate college degree,” after “standard, undergraduate college degree” in introductory provisions, redesignated subcls. (X) and (XI) as (IX) and (X), respectively, and struck out former subcl. (IX) which read as follows: “a medical residency program;”.
+
+Subsec. (b)(4)(B). Pub. L. 116–315, § 1001(a)(2), inserted “covered clinical training program for health care professionals or a” before “program of education” and substituted “; or” for period at end.
+
+Subsec. (b)(4)(C). Pub. L. 116–315, § 1001(a)(3), added subpar. (C).
+
+Subsec. (c). Pub. L. 116–315, § 1001(b), amended subsec. (c) generally. Prior to amendment, text read as follows: “In selecting eligible individuals to receive additional benefits under this section, the Secretary shall give priority to the following individuals:
+
+“(1) Individuals who require the most credit hours described in subsection (b)(4).
+
+“(2) Individuals who are entitled to educational assistance under this chapter by reason of paragraph (1), (2), (8), or (9) of [section 3311(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section3311/b&num=0&edition=prelim).”
+
+Subsec. (c)(1)(B). Pub. L. 116–315, § 1002(b)(4), substituted “(8), (9), (10), or (11)” for “(8), or (9)”.
+
+Subsec. (d)(4). Pub. L. 116–315, § 1001(c), added par. (4).
+
+Subsec. (h). Pub. L. 116–315, § 1001(d), added subsec. (h).
+
 2019—Subsec. (b)(4)(A)(i). Pub. L. 116–36 substituted “at least the standard 120 semester (or 180 quarter) credit hours” for “more than the standard 128 semester (or 192 quarter) credit hours” in introductory provisions.
+
+#### Effective Date of 2021 Amendment
+Amendment by section 1002(b)(4) of Pub. L. 116–315 effective immediately after the amendments made by section 105 of Pub. L. 115–48 [amendments effective Aug. 1, 2020] and applicable with respect to a quarter, semester, or term, commencing on or after Aug. 1, 2021, see section 1002(c) of Pub. L. 116–315, set out as a note under [section 3311 of this title](./chapter-033-post-9-11-educational-assistance.md#section-3311).
 
 #### Effective Date
 Pub. L. 115–48, title I, § 111(c), Aug. 16, 2017, 131 Stat. 983, provided that: “[Section 3320 of title 38](./chapter-033-post-9-11-educational-assistance.md#section-3320), United States Code, shall take effect on August 1, 2019.”
@@ -1417,19 +1499,19 @@ Pub. L. 115–48, title I, § 111(c), Aug. 16, 2017, 131 Stat. 983, provided tha
 
 **(b) Exceptions.—**
 
-(1) **Applicability of section 3031 to running of period.—** — Subsections (b), (c), and (d) of section 3031 shall apply with respect to the running of the 15-year period described in subsection (a) of this section in the same manner as such subsections apply under section 3031 with respect to the running of the 10-year period described in section 3031(a).
+(1) **Applicability of section 3031 to running of period.—** — Subsections (b), (c), and (d) 11 See Extension of Time Limitations for Use of Entitlement: Post-9/11 Educational Assistance note below. of section 3031 shall apply with respect to the running of the 15-year period described in subsection (a) of this section in the same manner as such subsections apply under section 3031 with respect to the running of the 10-year period described in section 3031(a).
 
 (2) **Applicability of section 3031 to termination.—** — Section 3031(f) shall apply with respect to the termination of an individual’s entitlement to educational assistance under this chapter in the same manner as such section applies to the termination of an individual’s entitlement to educational assistance under chapter 30, except that, in the administration of such section for purposes of this chapter, the reference to section 3013 shall be deemed to be a reference to [section 3312 of this title](./chapter-033-post-9-11-educational-assistance.md#section-3312).
 
 (3) **Determination of last discharge or release.—** — For purposes of subsection (a), an individual’s last discharge or release from active duty shall not include any discharge or release from a period of active duty of less than 90 days of continuous service, unless the individual is discharged or released as described in section 3311(b)(2).
 
-(4) **Applicability to children of deceased members.—** — The period during which a child entitled to educational assistance by reason of [section 3311(b)(9) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section3311/b/9&num=0&edition=prelim) may use such child’s entitlement—
+(4) **Applicability to children of deceased members.—** — The period during which a child entitled to educational assistance by reason of [section 3311(b)(8) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section3311/b/8&num=0&edition=prelim) may use such child’s entitlement—
 
   (A) in the case of a child who first becomes entitled to such entitlement before January 1, 2013, expires at the end of the 15-year period beginning on the date of such child’s eighteenth birthday; or
 
   (B) in the case of a child who first becomes entitled to such entitlement on or after January 1, 2013, shall not expire.
 
-(5) **Applicability to spouses of deceased members.—** — The period during which a spouse entitled to educational assistance by reason of section 3311(b)(9) may use such spouse’s entitlement—
+(5) **Applicability to spouses of deceased members.—** — The period during which a spouse entitled to educational assistance by reason of section 3311(b)(9) 22 See References in Text note below. may use such spouse’s entitlement—
 
   (A) in the case of a spouse who first becomes entitled to such entitlement before January 1, 2013, expires at the end of the 15-year period beginning on the date on which the spouse first becomes entitled to such entitlement; or
 
@@ -1437,11 +1519,11 @@ Pub. L. 115–48, title I, § 111(c), Aug. 16, 2017, 131 Stat. 983, provided tha
 
 ### Statutory Notes
 
-#### Amendment of Subsection (b)(4)
-Pub. L. 115–48, title I, § 105(c)(5), (d), Aug. 16, 2017, 131 Stat. 976, 977, provided that, effective Aug. 1, 2020, subsection (b)(4) of this section is amended by striking “section 3311(b)(9)” and inserting “section 3311(b)(8)”. See 2017 Amendment note below.
+#### References in Text
+Subsection (b)(9) of [section 3311 of this title](./chapter-033-post-9-11-educational-assistance.md#section-3311), referred to in subsec. (b)(5), was redesignated subsection (b)(8) by Pub. L. 115–48, title I, §105(a)(3), Aug. 16, 2017, 131 Stat. 975.
 
 #### Amendments
-2019—Subsec. (a)(1). Pub. L. 116–61 substituted “January” for “January,”
+2019—Subsec. (a)(1). Pub. L. 116–61 substituted “January” for “January,”.
 
 2017—Subsec. (a). Pub. L. 115–48, § 112(a), substituted “individual’s entitlement—” for “individual’s entitlement expires at the end of the 15-year period beginning on the date of such individual’s last discharge or release from active duty.” and added pars. (1) and (2).
 
@@ -1469,6 +1551,11 @@ Amendment by Pub. L. 111–32 effective Aug. 1, 2009, see section 1002(d)(1) of 
 #### Effective Date
 Section effective Aug. 1, 2009, see section 5003(d) of Pub. L. 110–252, set out as an Effective Date of 2008 Amendment note under [section 16163 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section16163&num=0&edition=prelim), Armed Forces.
 
+#### Extension of Time Limitations for Use of Entitlement: Post-9/11 Educational Assistance
+Pub. L. 116–140, § 6(b)(1), Apr. 28, 2020, 134 Stat. 632, provided that: “During the covered period, the Secretary of Veterans Affairs shall apply section 3321(b)(1) of such title as if it were amended— “(A) by inserting ‘(A)’ before ‘Subsections’; “(B) by striking ‘and (d)’ and inserting ‘(d), and (i)’; and [(C)] by adding at the end the following new subparagraph:“ ‘(B) Subsection (i) of section 3031 (as described in section 6 of the Student Veteran Coronavirus Response Act of 2020 [see section 6(a) of Pub. L. 116–140, [38 U.S.C. 3031](./chapter-030-all-volunteer-force-educational-assistance-program.md#section-3031) note]) shall apply with respect to the running of the 15-year period described in paragraphs (4)(A) and (5)(A) of this subsection in the same manner as such subsection applies under section 3031 with respect to the running of the 10-year period described in section 3031(a).’.”
+
+[The term “covered period” as used in section 6(b)(1) of Pub. L. 116–140, set out above, means Mar. 1, 2020, to Dec. 21, 2020, see section 2 of Pub. L. 116–140, set out as a note under [section 3031 of this title](./chapter-030-all-volunteer-force-educational-assistance-program.md#section-3031).]
+
 
 <a id="section-3322"></a>
 ## § 3322. Bar to duplication of educational assistance benefits
@@ -1480,9 +1567,9 @@ Section effective Aug. 1, 2009, see section 5003(d) of Pub. L. 110–252, set ou
 
 **(d) Additional Coordination Matters.—** In the case of an individual entitled to educational assistance under chapter 30, 31, 32, or 35 of this title, chapter 107, 1606, or 1607 of title 10, or the provisions of the Hostage Relief Act of 1980, or making contributions toward entitlement to educational assistance under chapter 30 of this title, as of August 1, 2009, coordination of entitlement to educational assistance under this chapter, on the one hand, and such chapters or provisions, on the other, shall be governed by the provisions of section 5003(c) of the Post-9/11 Veterans Educational Assistance Act of 2008.
 
-**(e) Bar To Concurrent Receipt of Transferred Education Benefits and Marine Gunnery Sergeant John David Fry Scholarship Assistance.—** An individual entitled to educational assistance under both sections 3311(b)(9) and 3319 may not receive assistance under both provisions concurrently, but shall elect (in such form and manner as the Secretary may prescribe) under which provision to receive educational assistance.
+**(e) Bar To Concurrent Receipt of Transferred Education Benefits and Marine Gunnery Sergeant John David Fry Scholarship Assistance.—** An individual entitled to educational assistance under both section 3319 and paragraph (8), (9), or (10) of [section 3311 of this title](./chapter-033-post-9-11-educational-assistance.md#section-3311) may not receive assistance under both provisions concurrently, but shall elect (in such form and manner as the Secretary may prescribe) under which provision to receive educational assistance.
 
-**(f) Bar To Receipt of Compensation and Pension and Marine Gunnery Sergeant John David Fry Scholarship Assistance.—** The commencement of a program of education under section 3311(b)(9) shall be a bar to the following:
+**(f) Bar To Receipt of Compensation and Pension and Marine Gunnery Sergeant John David Fry Scholarship Assistance.—** The commencement of a program of education under paragraph (8), (9), or (10) of [section 3311 of this title](./chapter-033-post-9-11-educational-assistance.md#section-3311) shall be a bar to the following:
 
 (1) Subsequent payments of dependency and indemnity compensation or pension based on the death of a parent to an eligible person over the age of 18 years by reason of pursuing a course in an educational institution.
 
@@ -1494,12 +1581,9 @@ Section effective Aug. 1, 2009, see section 5003(d) of Pub. L. 110–252, set ou
 
 (1) **Active-duty service.—** — An individual with qualifying service in the Armed Forces that establishes eligibility on the part of such individual for educational assistance under this chapter, chapter 30 or 32 of this title, and chapter 1606 or 1607 of title 10, shall elect (in such form and manner as the Secretary may prescribe) under which authority such service is to be credited.
 
-(2) **Eligibility for educational assistance based on parent’s service.—** — A child of a member of the Armed Forces who, on or after September 11, 2001, dies in the line of duty while serving on active duty, who is eligible for educational assistance under either section 3311(b)(9) or chapter 35 of this title based on the parent’s death may not receive such assistance under both this chapter and chapter 35 of this title, but shall elect (in such form and manner as the Secretary may prescribe) under which chapter to receive such assistance.
+(2) **Eligibility for educational assistance based on parent’s service.—** — A child of a member of the Armed Forces who, on or after September 11, 2001, dies in the line of duty while serving on active duty, who is eligible for educational assistance under either chapter 35 or paragraph (8), (9), or (10) of [section 3311 of this title](./chapter-033-post-9-11-educational-assistance.md#section-3311) based on the parent’s death may not receive such assistance under both this chapter and chapter 35 of this title, but shall elect (in such form and manner as the Secretary may prescribe) under which chapter to receive such assistance.
 
 ### Statutory Notes
-
-#### Amendment of Subsections (e), (f), and (h)(2)
-Pub. L. 115–48, title I, § 105(c)(6), (d), Aug. 16, 2017, 131 Stat. 976, 977, provided that, effective Aug. 1, 2020, subsections (e), (f), and (h)(2) of this section are amended by striking “3311(b)(9)” and inserting “3311(b)(8)”. See 2017 Amendment note below.
 
 #### References in Text
 The Hostage Relief Act of 1980, referred to in subsecs. (a) and (d), is Pub. L. 96–449, Oct. 14, 1980, 94 Stat. 1967, which was formerly set out as a note under [section 5561 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5561&num=0&edition=prelim), Government Organization and Employees.
@@ -1507,6 +1591,12 @@ The Hostage Relief Act of 1980, referred to in subsecs. (a) and (d), is Pub. L. 
 Section 5003(c) of the Post-9/11 Veterans Educational Assistance Act of 2008, referred to in subsec. (d), is section 5003(c) of Pub. L. 110–252, which is set out as a note under [section 3301 of this title](./chapter-033-post-9-11-educational-assistance.md#section-3301).
 
 #### Amendments
+2021—Subsec. (e). Pub. L. 116–315, § 1002(b)(5)(A), substituted “section 3319 and paragraph (8), (9), or (10) of [section 3311 of this title](./chapter-033-post-9-11-educational-assistance.md#section-3311)” for “sections 3311(b)(8) and 3319”.
+
+Subsec. (f). Pub. L. 116–315, § 1002(b)(5)(B), substituted “paragraph (8), (9), or (10) of [section 3311 of this title](./chapter-033-post-9-11-educational-assistance.md#section-3311)” for “section 3311(b)(8)”.
+
+Subsec. (h)(2). Pub. L. 116–315, § 1002(b)(5)(C), substituted “either chapter 35 or paragraph (8), (9), or (10) of section 3311” for “either section 3311(b)(8) or chapter 35”.
+
 2017—Subsecs. (e), (f), (h)(2). Pub. L. 115–48 substituted “3311(b)(8)” for “3311(b)(9)”.
 
 2011—Subsec. (a). Pub. L. 111–377, § 202(a), inserted “or section 510” after “or 1607”.
@@ -1518,6 +1608,9 @@ Subsec. (f). Pub. L. 111–377, § 111(b), added subsec. (f).
 Subsec. (g). Pub. L. 111–377, § 111(c), added subsec. (g).
 
 Subsec. (h). Pub. L. 111–377, § 111(d), added subsec. (h).
+
+#### Effective Date of 2021 Amendment
+Amendment by Pub. L. 116–315 effective immediately after the amendments made by section 105 of Pub. L. 115–48 [amendments effective Aug. 1, 2020] and applicable with respect to a quarter, semester, or term, commencing on or after Aug. 1, 2021, see section 1002(c) of Pub. L. 116–315, set out as a note under [section 3311 of this title](./chapter-033-post-9-11-educational-assistance.md#section-3311).
 
 #### Effective Date of 2017 Amendment
 Amendment by Pub. L. 115–48 effective Aug. 1, 2020, see section 105(d) of Pub. L. 115–48, set out as a note under [section 3311 of this title](./chapter-033-post-9-11-educational-assistance.md#section-3311).
@@ -1689,7 +1782,7 @@ Section effective 1 year after Dec. 16, 2016, see section 404(c) of Pub. L. 114�
 
 **(f) Additional Post-9/11 Assistance for Members Having Made Contributions Toward GI Bill.—**
 
-(1) **Additional assistance.—** — In the case of an individual making an election under subsection (a) who is described by subparagraph (A), (C), or (E) of paragraph (1) of that subsection, the amount of educational assistance payable to the individual under this chapter as a monthly stipend payable under paragraph (1)(B) of [section 3313(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section3313/c&num=0&edition=prelim), or under paragraphs (2) through (7) of that section (as applicable), shall be the amount otherwise payable as a monthly stipend under the applicable paragraph increased by the amount equal to—
+(1) **Additional assistance.—** — In the case of an individual making an election under subsection (a) who is described by subparagraph (A), (C), or (E) of paragraph (1) of that subsection, the amount of educational assistance payable to the individual under this chapter as a monthly stipend payable under paragraph (1)(B) of [section 3313(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section3313/c&num=0&edition=prelim), or under paragraphs (2) through (7) 11 See References in Text note below. of that section (as applicable), shall be the amount otherwise payable as a monthly stipend under the applicable paragraph increased by the amount equal to—
 
   (A) the total amount of contributions toward basic educational assistance made by the individual under section 3011(b) or 3012(c) of this title, as of the date of the election, multiplied by
 
@@ -1705,7 +1798,7 @@ Section effective 1 year after Dec. 16, 2016, see section 404(c) of Pub. L. 114�
 
 (2) **Months of remaining entitlement for certain individuals.—** — In the case of an individual covered by paragraph (1) who is described by subsection (a)(1)(E), the number of months of entitlement to basic educational assistance remaining to the individual for purposes of paragraph (1)(B)(i)(II) shall be 36 months.
 
-(3) **Timing of payment.—** — The amount payable with respect to an individual under paragraph (1) shall be paid to the individual together with the last payment of the monthly stipend payable to the individual under paragraph (1)(B) of [section 3313(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section3313/c&num=0&edition=prelim), or under paragraphs (2) through (7) of that section (as applicable), before the exhaustion of the individual’s entitlement to educational assistance under this chapter.
+(3) **Timing of payment.—** — The amount payable with respect to an individual under paragraph (1) shall be paid to the individual together with the last payment of the monthly stipend payable to the individual under paragraph (1)(B) of [section 3313(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section3313/c&num=0&edition=prelim), or under paragraphs (2) through (7) 1 of that section (as applicable), before the exhaustion of the individual’s entitlement to educational assistance under this chapter.
 
 **(g) Continuing Entitlement to Additional Assistance for Critical Skills or Specialty and Additional Service.—** An individual making an election under subsection (a)(1) who, at the time of the election, is entitled to increased educational assistance under [section 3015(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section3015/d&num=0&edition=prelim), or [section 16131(i) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section16131/i&num=0&edition=prelim), or supplemental educational assistance under subchapter III of chapter 30 of this title, shall remain entitled to such increased educational assistance or supplemental educational assistance in the utilization of entitlement to educational assistance under this chapter, in an amount equal to the quarter, semester, or term, as applicable, equivalent of the monthly amount of such increased educational assistance or supplemental educational assistance payable with respect to the individual at the time of the election.
 
@@ -1718,6 +1811,9 @@ Section effective 1 year after Dec. 16, 2016, see section 404(c) of Pub. L. 114�
 **(i) Irrevocability of Elections.—** An election under subsection (a) or (c)(1) is irrevocable.
 
 ### Statutory Notes
+
+#### References in Text
+Paragraph (7) of [section 3313(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section3313/c&num=0&edition=prelim), referred to in subsec. (f)(1), (3), was repealed by Pub. L. 115–48, title I, § 105(b), Aug. 16, 2017, 131 Stat. 975.
 
 #### Prior Provisions
 Provisions similar to those comprising this section were contained in Pub. L. 110–252, title V, § 5003(c), June 30, 2008, 122 Stat. 2375, which was formerly set out as a note under [section 3301 of this title](./chapter-033-post-9-11-educational-assistance.md#section-3301) prior to repeal by Pub. L. 114–315, title IV, § 405(c), Dec. 16, 2016, 130 Stat. 1558.

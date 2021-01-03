@@ -2,7 +2,7 @@
 title: 42
 chapter: '16'
 heading: NATIONAL SCIENCE FOUNDATION
-section_count: 108
+section_count: 111
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42&num=0&edition=prelim
 ---
@@ -12,6 +12,17 @@ source: >-
 There is established in the executive branch of the Government an independent agency to be known as the National Science Foundation (hereinafter referred to as the “Foundation”). The Foundation shall consist of a National Science Board (hereinafter referred to as the “Board”) and a Director.
 
 ### Statutory Notes
+
+#### Short Title of 2021 Amendment
+Pub. L. 116–339, § 1, Jan. 13, 2021, 134 Stat. 5126, provided that: “This Act [enacting [section 1862v of this title](./chapter-016-national-science-foundation.md#section-1862v) and provisions set out as a note under [section 1862v of this title](./chapter-016-national-science-foundation.md#section-1862v)] may be cited as the ‘Advancing Research to Prevent Suicide Act’.”
+
+Pub. L. 116–335, § 1(a), Jan. 13, 2021, 134 Stat. 5117, provided that: “This Act [enacting [section 1862u of this title](./chapter-016-national-science-foundation.md#section-1862u) and provisions set out as a note under [section 1862u of this title](./chapter-016-national-science-foundation.md#section-1862u)] may be cited as the ‘Expanding Findings for Federal Opioid Research and Treatment Act’ or the ‘EFFORT Act’.”
+
+#### Short Title of 2020 Amendment
+Pub. L. 116–115, § 1, Feb. 11, 2020, 134 Stat. 106, provided that: “This Act [enacting [section 1862t of this title](./chapter-016-national-science-foundation.md#section-1862t), amending sections 1862n–1 and 1862n–1a of this title and [section 7404 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section7404&num=0&edition=prelim), Commerce and Trade, and enacting provisions set out as a note under [section 1862t of this title](./chapter-016-national-science-foundation.md#section-1862t)] may be cited as the ‘Supporting Veterans in STEM Careers Act’.”
+
+#### Short Title of 2019 Amendment
+Pub. L. 116–102, § 1, Dec. 24, 2019, 133 Stat. 3263, provided that: “This Act [amending sections 1862s–5 and 1862s–7 of this title and enacting provisions set out as notes under [section 1862s–5 of this title](./chapter-016-national-science-foundation.md#section-1862s-5)] may be cited as the ‘Building Blocks of STEM Act’.”
 
 #### Short Title of 2018 Amendment
 Pub. L. 115–402, § 1, Dec. 31, 2018, 132 Stat. 5343, provided that: “This Act [amending [section 1862i of this title](./chapter-016-national-science-foundation.md#section-1862i) and enacting provisions set out as notes under sections 1862i and 1862p of this title] may be cited as the ‘Innovations in Mentoring, Training, and Apprenticeships Act’.”
@@ -652,7 +663,7 @@ Section was enacted as part of the Scientific and Advanced-Technology Act of 199
 
 (5) the development and dissemination of instructional materials in support of improving the advanced scientific and technical education and training capabilities of associate-degree-granting colleges, including programs for students who are not pursuing a science degree.
 
-**(b) National centers of scientific and technical education** The Director shall award grants for the establishment of centers of excellence, not to exceed 10 in number, among associate-degree-granting colleges. Centers shall meet one or both of the following criteria:
+**(b) National centers of scientific and technical education** The Director shall award grants for the establishment of centers of excellence, not to exceed 12 in number, among associate-degree-granting colleges. Centers shall meet one or both of the following criteria:
 
 (1) Exceptional instructional programs in advanced-technology fields.
 
@@ -796,7 +807,7 @@ The centers shall serve as national and regional clearinghouses and models for t
 
 (8) the term “region” means a labor market area, as that term is defined in [section 3102 of title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3102&num=0&edition=prelim); and
 
-(9) the terms “mathematics, science, engineering, or technology” or “STEM” mean science, technology, engineering, and mathematics, including computer science.
+(9) the terms “mathematics, science, engineering, or technology” or “STEM” mean science, technology, engineering, and mathematics, including computer science and cybersecurity.
 
 ### Statutory Notes
 
@@ -811,6 +822,10 @@ The Higher Education Act of 1965, referred to in subsecs. (c)(1)(C) and (g), is 
 Section was enacted as part of the Scientific and Advanced-Technology Act of 1992, and not as part of the National Science Foundation Act of 1950 which comprises this chapter.
 
 #### Amendments
+2021—Subsec. (b). Pub. L. 116–283, § 5401(e)(3)(A), substituted “12” for “10” in introductory provisions.
+
+Subsec. (j)(9). Pub. L. 116–283, § 9405(b), inserted “and cybersecurity” after “computer science”.
+
 2018—Subsec. (a)(3)(A). Pub. L. 115–402, § 3(3), substituted semicolon for comma at end.
 
 Subsec. (c)(1)(B). Pub. L. 115–402, § 3(4), which directed substitution of “subsection (i)(3)” for “subsection (f)(3)” in cl. (iv), was executed by making the substitution in concluding provisions of subpar. (B) following cl. (iv), to reflect the probable intent of Congress.
@@ -1279,9 +1294,11 @@ Pub. L. 107–368, § 4, Dec. 19, 2002, 116 Stat. 3035, as amended by Pub. L. 11
 
 (5) **Awards** — In awarding grants under this section, the Director shall ensure that the eligible entities (and participating institutions of higher education of the consortia, if applicable) represent a variety of types of institutions of higher education. In support of this goal, the Director shall broadly disseminate information about when and how to apply for grants under this section, including by conducting outreach to—
 
-  (A) historically Black colleges and universities that are part B institutions, as defined in section 322(2) of the Higher Education Act of 1965 ([20 U.S.C. 1061(2)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1061/2&num=0&edition=prelim)); and
+  (A) historically Black colleges and universities that are part B institutions, as defined in section 322(2) of the Higher Education Act of 1965 ([20 U.S.C. 1061(2)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1061/2&num=0&edition=prelim));
 
-  (B) minority institutions, as defined in section 365(3) of the Higher Education Act of 1965 ([20 U.S.C. 1067k(3)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1067k/3&num=0&edition=prelim)).
+  (B) minority institutions, as defined in section 365(3) of the Higher Education Act of 1965 ([20 U.S.C. 1067k(3)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1067k/3&num=0&edition=prelim)); and
+
+  (C) higher education programs that serve or support veterans.
 
 (6) **Supplement not supplant** — Grant funds provided under this section shall be used to supplement, and not supplant, other Federal or State funds available for the type of activities supported by the grant.
 
@@ -1321,7 +1338,7 @@ Pub. L. 107–368, § 4, Dec. 19, 2002, 116 Stat. 3035, as amended by Pub. L. 11
 
   (E) the number and academic qualifications of the students who will be served by the program; and
 
-  (F) the ability of the applicant (and the participating institutions of higher education of the consortium, if applicable) to recruit students who would otherwise not pursue a career in teaching in elementary schools or secondary schools and students who are individuals identified in section 1885a or 1885b of this title.
+  (F) the ability of the applicant (and the participating institutions of higher education of the consortium, if applicable) to recruit students who would otherwise not pursue a career in teaching in elementary schools or secondary schools, students who are individuals identified in section 1885a or 1885b of this title, and veterans.
 
 **(c) Scholarship requirements**
 
@@ -1331,7 +1348,7 @@ Pub. L. 107–368, § 4, Dec. 19, 2002, 116 Stat. 3035, as amended by Pub. L. 11
 
   (B) have attained at least junior status in a baccalaureate degree program.
 
-(2) **Selection** — Individuals shall be selected to receive scholarships primarily on the basis of academic merit, with consideration given to financial need and to the goal of promoting the participation of individuals identified in section 1885a or 1885b of this title.
+(2) **Selection** — Individuals shall be selected to receive scholarships primarily on the basis of academic merit, with consideration given to financial need and to the goal of promoting the participation of individuals identified in section 1885a or 1885b of this title and veterans.
 
 (3) **Amount** — The Director shall establish for each year the amount to be awarded for scholarships under this section for that year, which shall be not less than $10,000 per year, except that no individual shall receive for any year more than the cost of attendance at that individual’s institution. Full-time students may receive annual scholarships through the completion of a baccalaureate degree program, not to exceed a maximum of 3 years. Part-time students may receive scholarships that are prorated according to such students’ enrollment status, not to exceed 6 years of scholarship support.
 
@@ -1341,7 +1358,7 @@ Pub. L. 107–368, § 4, Dec. 19, 2002, 116 Stat. 3035, as amended by Pub. L. 11
 
 (1) **In general** — Stipends under this section shall be available only to science, technology, engineering, or mathematics professionals who, while receiving the stipend, are enrolled in a program established under subsection (a)(3)(B).
 
-(2) **Selection** — Individuals shall be selected to receive stipends under this section primarily on the basis of academic merit and professional achievement, with consideration given to financial need and to the goal of promoting the participation of individuals identified in section 1885a or 1885b of this title.
+(2) **Selection** — Individuals shall be selected to receive stipends under this section primarily on the basis of academic merit and professional achievement, with consideration given to financial need and to the goal of promoting the participation of individuals identified in section 1885a or 1885b of this title and veterans.
 
 (3) **Amount and duration** — Stipends under this section shall be not less than $10,000 per year, except that no individual shall receive for any year more than the cost of attendance at such individual’s institution. Individuals may receive a maximum of 1 year of stipend support, except that if an individual is enrolled in a part-time program, such amount shall be prorated according to the length of the program.
 
@@ -1416,7 +1433,7 @@ Pub. L. 107–368, § 4, Dec. 19, 2002, 116 Stat. 3035, as amended by Pub. L. 11
 
 (4) the term “high need local educational agency” has the meaning given such term in section 201 of the Higher Education Act of 1965 ([20 U.S.C. 1021](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1021&num=0&edition=prelim));
 
-(5) the term “mathematics and science teacher” means a science, technology, engineering, mathematics, or computer science, including cybersecurity, teacher at the elementary school or secondary school level;
+(5) the term “mathematics and science teacher” means a science, technology, engineering, mathematics, or computer science and artificial intelligence, including cybersecurity, teacher at the elementary school or secondary school level;
 
 (6) the term “scholarship” means an award under subsection (c);
 
@@ -1447,6 +1464,16 @@ Section 7030 of Pub. L. 110–69, which directed that “Section 10 of the Natio
 Section was enacted as part of the National Science Foundation Authorization Act of 2002, and not as part of the National Science Foundation Act of 1950 which comprises this chapter.
 
 #### Amendments
+2021—Subsec. (i)(5). Pub. L. 116–283 inserted “and artificial intelligence” after “computer science”.
+
+2020—Subsec. (a)(5)(C). Pub. L. 116–115, § 3(d)(1), added subpar. (C).
+
+Subsec. (b)(2)(F). Pub. L. 116–115, § 3(d)(2), substituted “, students” for “and students” and inserted “, and veterans” before period at end.
+
+Subsec. (c)(2). Pub. L. 116–115, § 3(d)(3), inserted “and veterans” before period at end.
+
+Subsec. (d)(2). Pub. L. 116–115, § 3(d)(4), inserted “and veterans” before period at end.
+
 2018—Subsec. (a)(3)(A)(iv). Pub. L. 115–303 inserted “, including research experiences at national laboratories and NASA centers” before semicolon.
 
 2017—Subsec. (i)(5). Pub. L. 115–91, § 1649C(1), amended par. (5) generally. Prior to amendment, par. (5) read as follows: “the term ‘mathematics and science teacher’ means a science, computer science, technology, engineering, or mathematics teacher at the elementary school or secondary school level;”.
@@ -1588,7 +1615,7 @@ For definitions of terms used in this section, see section 4 of Pub. L. 107–36
 
   (E) the number and quality of the individuals that will be served by the program; and
 
-  (F) in the case of the National Science Foundation Teaching Fellowship, the ability of the applicant (and participating institutions of higher education of the consortium, if applicable) to recruit individuals who would otherwise not pursue a career in teaching and individuals identified in section 1885a or 1885b of this title.
+  (F) in the case of the National Science Foundation Teaching Fellowship, the ability of the applicant (and participating institutions of higher education of the consortium, if applicable) to recruit individuals who would otherwise not pursue a career in teaching, individuals identified in section 1885a or 1885b of this title, and veterans.
 
 (4) **Selection of fellows**
 
@@ -1602,7 +1629,7 @@ For definitions of terms used in this section, see section 4 of Pub. L. 107–36
 
     (iv) in the case of National Science Foundation Master Teaching Fellows, demonstrated success in improving student academic achievement in science, technology, engineering, or mathematics.
 
-  (B) *Promoting participation of certain individuals* — Among individuals demonstrating equivalent qualifications, consideration may be given to the goal of promoting the participation of individuals identified in section 1885a or 1885b of this title.
+  (B) *Promoting participation of certain individuals* — Among individuals demonstrating equivalent qualifications, consideration may be given to the goal of promoting the participation of individuals identified in section 1885a or 1885b of this title and veterans.
 
 **(e) Duties of National Science Foundation Teaching Fellows and Master Teaching Fellows** A National Science Foundation Teaching Fellow or a National Science Foundation Master Teaching Fellow, while fulfilling the service obligation under subsection (h) and in addition to regular classroom activities, shall take on a leadership role within the school or local educational agency in which the fellow is employed, as defined by the partnership according to such fellow’s expertise, including serving as a mentor or master teacher, developing curricula, and assisting in the development and implementation of professional development activities.
 
@@ -1674,6 +1701,10 @@ Section 7030 of Pub. L. 110–69, which directed that “Section 10 of the Natio
 Section was enacted as part of the National Science Foundation Authorization Act of 2002, and not as part of the National Science Foundation Act of 1950 which comprises this chapter.
 
 #### Amendments
+2020—Subsec. (d)(3)(F). Pub. L. 116–115, § 3(e)(1), substituted “, individuals” for “and individuals” and inserted “, and veterans” before period at end.
+
+Subsec. (d)(4)(B). Pub. L. 116–115, § 3(e)(2), inserted “and veterans” before period at end.
+
 2018—Subsec. (c)(4)(C). Pub. L. 115–303 added subpar. (C).
 
 2017—Subsec. (k). Pub. L. 114–329 added subsec. (k).
@@ -3355,15 +3386,7 @@ For definitions of terms used in this section, see section 2 of Pub. L. 114–32
 
 (1) **Appropriate committees of Congress** — The term “appropriate committees of Congress” means the Committee on Commerce, Science, and Transportation and the Committee on Appropriations of the Senate and the Committee on Science, Space, and Technology and the Committee on Appropriations of the House of Representatives.
 
-(2) **Major multi-user research facility project** — The term “ ‘major multi-user research facility project’ ” 11 So in original. The single quotation marks probably should not appear. means a science and engineering facility project that—
-
-  (A) exceeds the lesser of—
-
-    (i) 10 percent of a Directorate’s annual budget; or
-
-    (ii) $100,000,000 in total project costs; or
-
-  (B) is funded by the major research equipment and facilities construction account, or any successor account.
+(2) **Major multi-user research facility project** — The term “major multi-user research facility project” means a science and engineering facility project that exceeds $100,000,000 in total construction, acquisition, or upgrade costs to the Foundation.
 
 ### Statutory Notes
 
@@ -3372,6 +3395,9 @@ Section 2 of the National Science Foundation Authorization Act of 1998, referred
 
 #### Codification
 Section was enacted as part of the American Innovation and Competitiveness Act, and not as part of the National Science Foundation Act of 1950 which comprises this chapter.
+
+#### Amendments
+2021—Subsec. (g)(2). Pub. L. 116–283 added par. (2) and struck out former par. (2), which defined “major multi-user research facility project”.
 
 #### Definitions
 For definitions of terms used in this section, see section 2 of Pub. L. 114–329, set out as a note under [section 1862s of this title](./chapter-016-national-science-foundation.md#section-1862s).
@@ -3452,6 +3478,22 @@ For definitions of terms used in this section, see section 2 of Pub. L. 114–32
 
   (B) *Purpose* — The purpose of a Center of Excellence under this subsection is to promote diversity in STEM fields by building on the success of the INCLUDES programs, providing technical assistance, maintaining best practices, and providing related training at federally funded academic institutions.
 
+(3) **Research** — As a component of improving participation of women in STEM fields, research funded by a grant under this subsection may include research on—
+
+  (A) the role of teacher training and professional development, including effective incentive structures to encourage teachers to participate in such training and professional development, in encouraging or discouraging female students in prekindergarten through elementary school from participating in STEM activities;
+
+  (B) the role of teachers in shaping perceptions of STEM in female students in prekindergarten through elementary school and discouraging such students from participating in STEM activities;
+
+  (C) the role of other facets of the learning environment on the willingness of female students in prekindergarten through elementary school to participate in STEM activities, including learning materials and textbooks, seating arrangements, use of media and technology, classroom culture, and composition of students during group work;
+
+  (D) the role of parents and other caregivers in encouraging or discouraging female students in prekindergarten through elementary school from participating in STEM activities;
+
+  (E) the types of STEM activities that encourage greater participation by female students in prekindergarten through elementary school;
+
+  (F) the role of mentorship and best practices in finding and utilizing mentors; and
+
+  (G) the role of informal and after-school STEM learning opportunities on the perception of and participation in STEM activities of female students in prekindergarten through elementary school.
+
 **(e) Accountability and dissemination**
 
 (1) **Evaluation**
@@ -3477,6 +3519,15 @@ For definitions of terms used in this section, see section 2 of Pub. L. 114–32
 #### Codification
 Section was enacted as part of the American Innovation and Competitiveness Act, and not as part of the National Science Foundation Act of 1950 which comprises this chapter.
 
+#### Amendments
+2019—Subsec. (d)(3). Pub. L. 116–102 added par. (3).
+
+#### Findings
+Pub. L. 116–102, § 2, Dec. 24, 2019, 133 Stat. 3263, provided that: “Congress finds the following: “(1) The National Science Foundation is a large investor in STEM education and plays a key role in setting research and policy agendas. “(2) While studies have found that children who engage in scientific activities from an early age develop positive attitudes toward science and are more likely to pursue STEM expertise and careers later on, the majority of current research focuses on increasing STEM opportunities for middle school-aged children and older. “(3) Women remain widely underrepresented in the STEM workforce, and this disparity extends down through all levels of education.”
+
+#### Supporting Early Childhood and Elementary STEM Education Research
+Pub. L. 116–102, § 3, Dec. 24, 2019, 133 Stat. 3263, provided that: “In awarding grants under the Discovery Research PreK–12 program, the Director of the National Science Foundation shall consider the age distribution of a STEM education research and development project to improve the focus of research and development on elementary and prekindergarten education.”
+
 #### Definitions
 For definitions of terms used in this section, see section 2 of Pub. L. 114–329, set out as a note under [section 1862s of this title](./chapter-016-national-science-foundation.md#section-1862s).
 
@@ -3495,6 +3546,9 @@ Section was enacted as part of the American Innovation and Competitiveness Act, 
 #### Definitions
 For definitions of terms used in this section, see section 2 of Pub. L. 114–329, set out as a note under [section 1862s of this title](./chapter-016-national-science-foundation.md#section-1862s).
 
+#### Presidential Awards for Educators and Mentors in Fields Relating to Cybersecurity
+Pub. L. 116–283, div. H, title XCIV, § 9405(d), Jan. 1, 2021, 134 Stat. 4812, provided that: “The Director of the National Science Foundation shall ensure that educators and mentors in fields relating to cybersecurity can be considered for— “(1) Presidential Awards for Excellence in Mathematics and Science Teaching made under section 117 of the National Science Foundation Authorization Act of 1988 ([42 U.S.C. 1881b](./chapter-016-national-science-foundation.md#section-1881b)); and “(2) Presidential Awards for Excellence in STEM Mentoring administered under section 307 of the American Innovation and Competitiveness Act ([42 U.S.C. 1862s–6](./chapter-016-national-science-foundation.md#section-1862s-6)).”
+
 
 <a id="section-1862s-7"></a>
 ## § 1862s–7. Computer science education research
@@ -3502,7 +3556,7 @@ For definitions of terms used in this section, see section 2 of Pub. L. 114–32
 
 **(b) Grant program**
 
-(1) **In general** — The Director of the Foundation shall award grants to eligible entities to research computer science education and computational thinking.
+(1) **In general** — The Director of the Foundation shall award grants to eligible entities to research computer science and cybersecurity education and computational thinking.
 
 (2) **Research** — The research described in paragraph (1) may include the development or adaptation, piloting or full implementation, and testing of—
 
@@ -3510,11 +3564,37 @@ For definitions of terms used in this section, see section 2 of Pub. L. 114–32
 
   (B) scalable and sustainable models of professional development and ongoing support for the teachers described in subparagraph (A);
 
-  (C) tools and models for teaching and learning aimed at supporting student success and inclusion in computing within and across diverse populations, particularly poor, rural, and tribal populations and other populations that have been historically underrepresented in computer science and STEM fields; and
+  (C) tools and models for teaching and learning aimed at supporting student success and inclusion in computing within and across diverse populations, particularly poor, rural, and tribal populations and other populations that have been historically underrepresented in computer science and STEM fields;
 
-  (D) high-quality learning opportunities for teaching computer science and, especially in poor, rural, or tribal schools at the elementary school and middle school levels, for integrating computational thinking into STEM teaching and learning.
+  (D) high-quality learning opportunities for teaching computer science and, especially in poor, rural, or tribal schools at the elementary school and middle school levels, for integrating computational thinking into STEM teaching and learning; and
 
-**(c) Collaborations** In carrying out the grants established in subsection (b), eligible entities may collaborate and partner with local or remote schools to support the integration of computing and computational thinking within pre-kindergarten through grade 12 STEM curricula and instruction.
+  (E) tools and models for the integration of cybersecurity and other interdisciplinary efforts into computer science education and computational thinking at secondary and postsecondary levels of education.
+
+(3) **Uses of funds** — The tools and models described in paragraph (2)(C) may include—
+
+  (A) offering training and professional development programs, including summer or academic year institutes or workshops, designed to strengthen the capabilities of prekindergarten and elementary school teachers and to familiarize such teachers with the role of bias against female students in the classroom;
+
+  (B) offering innovative pre-service and in-service programs that instruct teachers on female-inclusive practices for teaching computing concepts;
+
+  (C) developing distance learning programs for teachers or students, including developing curricular materials, play-based computing activities, and other resources for the in-service professional development of teachers that are made available to teachers through the Internet;
+
+  (D) developing or adapting prekindergarten and elementary school computer science curricular materials that incorporate contemporary research on the science of learning, particularly with respect to female inclusion;
+
+  (E) developing and offering female-inclusive computer science enrichment programs for students, including after-school and summer programs;
+
+  (F) providing mentors for female students in prekindergarten through elementary school to support such students in participating in computer science activities;
+
+  (G) engaging female students in prekindergarten through elementary school, and their guardians (if such communication takes place on school premises during otherwise-scheduled conferences or formal conversations between teachers and guardians) about—
+
+    (i) the difficulties faced by female students with regard to maintaining an interest in participating in computer science activities; and
+
+    (ii) the potential positive career benefits of engaging in such activities;
+
+  (H) acquainting female students in prekindergarten through elementary school with careers in computer science and encouraging such students to consider careers in the computer science field; and
+
+  (I) developing tools to evaluate activities conducted under this subsection, including reports for evaluating the effectiveness of activities under this section.
+
+**(c) Collaborations** In carrying out the grants established in subsection (b), eligible entities may collaborate and partner with local or remote schools to support the integration of computing, cybersecurity, and computational thinking within pre-kindergarten through grade 12 STEM curricula and instruction.
 
 **(d) Metrics** The Director of the Foundation shall develop metrics to measure the success of the grant program funded under this section in achieving program goals.
 
@@ -3526,6 +3606,15 @@ For definitions of terms used in this section, see section 2 of Pub. L. 114–32
 
 #### Codification
 Section was enacted as part of the American Innovation and Competitiveness Act, and not as part of the National Science Foundation Act of 1950 which comprises this chapter.
+
+#### Amendments
+2021—Subsec. (b)(1). Pub. L. 116–283, § 9405(a)(1)(A), inserted “and cybersecurity” after “computer science”.
+
+Subsec. (b)(2)(E). Pub. L. 116–283, § 9405(a)(1)(B), added subpar. (E).
+
+Subsec. (c). Pub. L. 116–283, § 9405(a)(2), inserted “, cybersecurity,” after “computing”.
+
+2019—Subsec. (b)(3). Pub. L. 116–102 added par. (3).
 
 #### Definitions
 For definitions of terms used in this section, see section 2 of Pub. L. 114–329, set out as a note under [section 1862s of this title](./chapter-016-national-science-foundation.md#section-1862s).
@@ -3649,6 +3738,98 @@ Section was enacted as part of the American Innovation and Competitiveness Act, 
 
 #### Definitions
 For definitions of terms used in this section, see section 2 of Pub. L. 114–329, set out as a note under [section 1862s of this title](./chapter-016-national-science-foundation.md#section-1862s).
+
+
+<a id="section-1862t"></a>
+## § 1862t. Supporting veterans in STEM education and computer science
+**(a) Supporting veteran involvement in scientific research and STEM education** The Director shall, through the research and education activities of the Foundation, encourage veterans to study and pursue careers in STEM and computer science, in coordination with other Federal agencies that serve veterans.
+
+**(b) Veteran outreach plan** Not later than 180 days after February 11, 2020, the Director shall submit to the Committee on Science, Space, and Technology of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a plan for how the Foundation can enhance its outreach efforts to veterans. Such plan shall—
+
+(1) report on the Foundation’s existing outreach activities;
+
+(2) identify the best method for the Foundation to leverage existing authorities and programs to facilitate and support veterans in STEM careers and studies, including teaching programs; and
+
+(3) include options for how the Foundation could track veteran participation in research and education programs of the Foundation, and describe any barriers to collecting such information.
+
+**(c) National Science Board indicators report** The National Science Board shall provide in its annual report on indicators of the state of science and engineering in the United States any available and relevant data on veterans in science and engineering careers or education programs.
+
+**(d) to (g) Omitted**
+
+**(h) Veterans and military families STEM education interagency working group**
+
+(1) **In general** — The Director of the Office of Science and Technology Policy shall establish, or designate, an interagency working group to improve veteran and military spouse equity and representation in STEM fields.
+
+(2) **Duties of interagency working group** — An interagency working group established under paragraph (1) shall develop and facilitate the implementation by participating agencies of a strategic plan, which shall—
+
+  (A) specify and prioritize short- and long-term objectives;
+
+  (B) specify the common metrics that will be used by Federal agencies to assess progress toward achieving such objectives;
+
+  (C) identify barriers veterans face in reentering the workforce, including a lack of formal STEM education, career guidance, and the process of transferring military credits and skills to college credits;
+
+  (D) identify barriers military spouses face in establishing careers in STEM fields;
+
+  (E) describe the approaches that each participating agency will take to address administratively the barriers described in subparagraphs (C) and (D); and
+
+  (F) identify any barriers that require Federal or State legislative or regulatory changes in order to be addressed.
+
+(3) **Report** — The Director of the Office of Science and Technology Policy shall—
+
+  (A) not later than 1 year after February 11, 2020, submit to Congress the strategic plan required under paragraph (2); and
+
+  (B) include in the annual report required by [section 6621(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section6621/d&num=0&edition=prelim) a description of any progress made in carrying out the activities described in paragraph (2) of this subsection.
+
+(4) **Sunset** — An interagency working group established under paragraph (1) shall terminate on the date that is 3 years after the date that it is established.
+
+### Statutory Notes
+
+#### Codification
+Section is comprised of section 3 of Pub. L. 116–115. Subsec. (d) of section 3 of Pub. L. 116–115 amended [section 1862n–1 of this title](./chapter-016-national-science-foundation.md#section-1862n-1). Subsec. (e) of section 3 of Pub. L. 116–115 amended [section 1862n–1a of this title](./chapter-016-national-science-foundation.md#section-1862n-1a). Subsecs. (f) and (g) of section 3 of Pub. L. 116–115 amended [section 7404 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section7404&num=0&edition=prelim), Commerce and Trade.
+
+Section was enacted as part of the Supporting Veterans in STEM Careers Act, and not as part of the National Science Foundation Act of 1950 which comprises this chapter.
+
+#### Definitions
+Pub. L. 116–115, § 2, Feb. 11, 2020, 134 Stat. 106, provided that: “In this Act [see Short Title of 2020 Amendment note set out under [section 1861 of this title](./chapter-016-national-science-foundation.md#section-1861)]: “(1) Director.—The term ‘Director’ means the Director of the National Science Foundation. “(2) Foundation.—The term ‘Foundation’ means the National Science Foundation. “(3) STEM.—The term ‘STEM’ has the meaning given the term in section 2 of the America COMPETES Reauthorization Act of 2010 [Pub. L. 111–358] ([42 U.S.C. 6621](./chapter-079-science-and-technology-policy-organization-and-priorities.md#section-6621) note). “(4) Veteran.—The term ‘veteran’ has the meaning given the term in [section 101 of title 38](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section101&num=0&edition=prelim), United States Code.”
+
+
+<a id="section-1862u"></a>
+## § 1862u. NSF support of research on opioid addiction
+
+The Director of the National Science Foundation, in consultation with the Director of the National Institutes of Health, shall support merit-reviewed and competitively awarded research on the science of opioid addiction.
+
+### Statutory Notes
+
+#### Codification
+Section was enacted as part of the Expanding Findings for Federal Opioid Research and Treatment Act, also known as the EFFORT Act, and not as part of the National Science Foundation Act of 1950 which comprises this chapter.
+
+#### Findings
+Pub. L. 116–335, § 1(b), Jan. 13, 2021, 134 Stat. 5117, provided that: “The Congress finds that— “(1) research gaps currently exist in the prevention and treatment of opioid addiction; “(2) the National Science Foundation’s research on opioid addiction has increased understanding of the neuroscience of addiction, substance abuse intervention, the role of illicit supply networks, the secondary effects on families, the use of technology to address the opioid epidemic, and options for alternative, non-addictive therapeutics for pain; and “(3) the National Science Foundation and the National Institutes of Health have recognized that fundamental questions in basic, clinical, and translational research would benefit greatly from multidisciplinary approaches and collaboration.”
+
+
+<a id="section-1862v"></a>
+## § 1862v. National Science Foundation research
+**(a) In general** The Director of the National Science Foundation, in consultation with the Director of the National Institutes of Health and the Director of the National Institute of Mental Health and taking into consideration prioritized research agendas or strategic plans, as appropriate, shall, subject to the availability of appropriations, award grants on a competitive, merit-reviewed basis to institutions of higher education (or consortia of such institutions) to support multidisciplinary, fundamental research with potential relevance to suicide, including potential relevance to prevention and treatment, including, but not limited to—
+
+(1) basic understanding of human social behavior;
+
+(2) the neural basis of human cognition;
+
+(3) basic understanding of cognitive, linguistic, social, cultural, and biological processes related to human development across the lifespan;
+
+(4) basic understanding of perceptual, motor, and cognitive processes, and their interaction, in typical human behavior; and
+
+(5) basic understanding of the relevance of drug and alcohol abuse.
+
+**(b) Encouraging applications from early career researchers** To promote the development of early career researchers, in awarding funds under subsection (a), the Director of the National Science Foundation shall encourage applications submitted by early career researchers, including doctoral students or postdoctoral researchers.
+
+### Statutory Notes
+
+#### Codification
+Section was enacted as part of the Advancing Research to Prevent Suicide Act, and not as part of the National Science Foundation Act of 1950 which comprises this chapter.
+
+#### Findings
+Pub. L. 116–339, § 2, Jan. 13, 2021, 134 Stat. 5126, provided that: “Congress finds the following: “(1) The rate of Americans dying by suicide is on the rise, increasing 10.7 to 14.0 deaths per 100,000 people from 2001 to 2017. “(2) Suicide is the tenth-leading cause of death among people in the United States and the second-leading cause of death for young people between the ages of 15 and 34. “(3) The National Science Foundation funds research that is improving our basic understanding of factors with potential relevance to suicide, including potential relevance to prevention and treatment. “(4) Despite progress in mental health research, current gaps exist in scientific understanding and basic knowledge of human neural, genetic, cognitive, perceptual, behavioral, social, and environmental factors with potential relevance to suicide.”
 
 
 <a id="section-1863"></a>
@@ -3994,7 +4175,7 @@ Section was not enacted as part of the National Science Foundation Act of 1950 w
 
 <a id="section-1869c"></a>
 ## § 1869c. Low-income scholarship program
-(1) **Establishment** — The Director of the National Science Foundation (referred to in this section as the “Director”) shall award scholarships to low-income individuals to enable such individuals to pursue associate, undergraduate, or graduate level degrees in mathematics, engineering, or computer science.
+(1) **Establishment** — The Director of the National Science Foundation (referred to in this section as the “Director”) shall award scholarships to low-income individuals to enable such individuals to pursue associate, undergraduate, or graduate level degrees in mathematics, engineering, computer science, or cybersecurity.
 
 (2) **Eligibility**
 
@@ -4004,7 +4185,7 @@ Section was not enacted as part of the National Science Foundation Act of 1950 w
 
     (ii) shall prepare and submit to the Director an application at such time, in such manner, and containing such information as the Director may require; and
 
-    (iii) shall certify to the Director that the individual intends to use amounts received under the scholarship to enroll or continue enrollment at an institution of higher education (as defined in [section 1001(a) of title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1001/a&num=0&edition=prelim)) in order to pursue an associate, undergraduate, or graduate level degree in mathematics, engineering, computer science, or other technology and science programs designated by the Director.
+    (iii) shall certify to the Director that the individual intends to use amounts received under the scholarship to enroll or continue enrollment at an institution of higher education (as defined in [section 1001(a) of title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1001/a&num=0&edition=prelim)) in order to pursue an associate, undergraduate, or graduate level degree in mathematics, engineering, computer science, cybersecurity, or other technology and science programs designated by the Director.
 
   (B) *Ability* — Awards of scholarships under this section shall be made by the Director solely on the basis of the ability of the applicant, except that in any case in which 2 or more applicants for scholarships are deemed by the Director to be possessed of substantially equal ability, and there are not sufficient scholarships available to grant one to each of such applicants, the available scholarship or scholarships shall be awarded to the applicants in a manner that will tend to result in a geographically wide distribution throughout the United States of recipients’ places of permanent residence.
 
@@ -4023,6 +4204,10 @@ Section was not enacted as part of the National Science Foundation Act of 1950 w
 Section was enacted as part of the American Competitiveness and Workforce Improvement Act of 1998, and also as part of the Omnibus Consolidated and Emergency Supplemental Appropriations Act, 1999, and not as part of the National Science Foundation Act of 1950 which comprises this chapter.
 
 #### Amendments
+2021—Par. (1). Pub. L. 116–283, § 9405(c)(1), substituted “computer science, or cybersecurity” for “or computer science”.
+
+Par. (2)(A)(iii). Pub. L. 116–283, § 9405(c)(2), inserted “cybersecurity,” after “computer science,”.
+
 2004—Par. (2)(A)(iii). Pub. L. 108–447, § 429(a), substituted “computer science, or other technology and science programs designated by the Director” for “or computer science”.
 
 Par. (3). Pub. L. 108–447, § 429(b), substituted “$10,000 per year” for “$3,125 per year”.
@@ -4481,9 +4666,11 @@ Sec. 6. Prior Orders. (a) Subject to the provisions of this Order, the President
 (b) Executive Order No. 10910 of January 17, 1961, is hereby amended by deleting from its title the words “AND AWARD”, and by deleting the last two sentences of Section 1, and all of Section 2, thereof.
 
 #### Extension of Term of President’s Committee on the National Medal of Science
-Term of President’s Committee on the National Medal of Science extended until Sept. 30, 2019, by Ex. Ord. No. 13811, Sept. 29, 2017, 82 F.R. 46363, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
+Term of President’s Committee on the National Medal of Science extended until Sept. 30, 2021, by Ex. Ord. No. 13889, Sept. 27, 2019, 84 F.R. 52743, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
 
 Previous extensions of term of President’s Committee on the National Medal of Science were contained in the following prior Executive Orders:
+
+Ex. Ord. No. 13811, Sept. 29, 2017, 82 F.R. 46363, extended term until Sept. 30, 2019.
 
 Ex. Ord. No. 13708, Sept. 30, 2015, 80 F.R. 60271, extended term until Sept. 30, 2017.
 

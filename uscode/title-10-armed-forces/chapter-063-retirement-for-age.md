@@ -8,11 +8,11 @@ source: >-
 ---
 <a id="section-1251"></a>
 ## § 1251. Age 62: regular commissioned officers in grades below general and flag officer grades; exceptions
-**(a) General Rule.—** Unless retired or separated earlier, each regular commissioned officer of the Army, Navy, Air Force, or Marine Corps (other than an officer covered by [section 1252 of this title](./chapter-063-retirement-for-age.md#section-1252) or a commissioned warrant officer) serving in a grade below brigadier general or rear admiral (lower half), in the case of an officer in the Navy, shall be retired on the first day of the month following the month in which the officer becomes 62 years of age.
+**(a) General Rule.—** Unless retired or separated earlier, each regular commissioned officer of the Army, Navy, Air Force, Marine Corps, or Space Force (other than an officer covered by [section 1252 of this title](./chapter-063-retirement-for-age.md#section-1252) or a commissioned warrant officer) serving in a grade below brigadier general or rear admiral (lower half), in the case of an officer in the Navy, shall be retired or separated, as specified in subsection (e), on the first day of the month following the month in which the officer becomes 62 years of age.
 
-**(b) Deferred Retirement of Health Professions Officers.—**
+**(b) Deferred Retirement or Separation of Health Professions Officers.—**
 
-(1) The Secretary of the military department concerned may, subject to subsection (d), defer the retirement under subsection (a) of a health professions officer if during the period of the deferment the officer—
+(1) The Secretary of the military department concerned may, subject to subsection (d), defer the retirement or separation under subsection (a) of a health professions officer if during the period of the deferment the officer—
 
   (A) will be performing duties consisting primarily of providing patient care or performing other clinical duties; or
 
@@ -34,7 +34,7 @@ source: >-
 
     (iii) performing health care-related administrative duties.
 
-**(c) Deferred Retirement of Chaplains.—** The Secretary of the military department concerned may, subject to subsection (d), defer the retirement under subsection (a) of an officer who is appointed or designated as a chaplain if the Secretary determines that such deferral is in the best interest of the military department concerned.
+**(c) Deferred Retirement or Separation of Other Officers.—** The Secretary of the military department concerned may, subject to subsection (d), defer the retirement or separation under subsection (a) of any officer other than a health professions officer described in subsection (b)(2) if the Secretary determines that such deferral is in the best interest of the military department concerned.
 
 **(d) Limitation on Deferment of Retirements.—**
 
@@ -42,9 +42,36 @@ source: >-
 
 (2) The Secretary of the military department concerned may extend a deferment under subsection (b) or (c) beyond the day referred to in paragraph (1) if the Secretary determines that extension of the deferment is necessary for the needs of the military department concerned. Such an extension shall be made on a case-by-case basis and shall be for such period as the Secretary considers appropriate.
 
+**(e) Retirement or Separation Based on Years of Creditable Service.—**
+
+(1) The following rules shall apply to a regular commissioned officer who is to be retired or separated under subsection (a):
+
+  (A) If the officer has at least 6 but fewer than 20 years of creditable service, the officer shall be separated, with separation pay computed under [section 1174(d)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1174/d/1&num=0&edition=prelim).
+
+  (B) If the officer has fewer than 6 years of creditable service, the officer shall be separated under subsection (a).
+
+(2) Notwithstanding paragraph (1), in the case of a regular commissioned officer who was added to the retired list before the date of the enactment of the William M. (Mac) Thornberry National Defense Authorization Act for Fiscal Year 2021, the officer shall be retired, with retired pay computed under [section 1401 of this title](./chapter-071-computation-of-retired-pay.md#section-1401).
+
 ### Statutory Notes
 
+#### References in Text
+The date of the enactment of the William M. (Mac) Thornberry National Defense Authorization Act for Fiscal Year 2021, referred to in subsec. (e)(2), is the date of enactment of Pub. L. 116–283, which was approved Jan. 1, 2021.
+
 #### Amendments
+2021—Subsec. (a). Pub. L. 116–283, § 924(b)(3)(T), substituted “Marine Corps, or Space Force” for “or Marine Corps”.
+
+Pub. L. 116–283, § 507(a)(2), inserted “or separated, as specified in subsection (e),” after “shall be retired”.
+
+Pub. L. 116–283, § 507(a)(1), which directed substitution of “Marine Corps, or Space Force” for “or Marine Corps,”, could not be executed because “or Marine Corps,” did not appear in text. Similar amendment was made by Pub. L. 116–283, § 924(b)(3)(T), see above.
+
+Subsec. (b). Pub. L. 116–283, § 507(b)(1), inserted “or Separation” after “Retirement” in heading.
+
+Subsec. (b)(1). Pub. L. 116–283, § 507(b)(2), inserted “or separation” after “retirement” in introductory provisions.
+
+Subsec. (c). Pub. L. 116–283, § 507(c), in heading, substituted “or Separation of Other Officers” for “of Chaplains” and, in text, inserted “or separation” after “retirement” and substituted “any officer other than a health professions officer described in subsection (b)(2)” for “an officer who is appointed or designated as a chaplain”.
+
+Subsec. (e). Pub. L. 116–283, § 507(d), added subsec. (e).
+
 2011—Subsec. (b)(1). Pub. L. 111–383, § 501(b)(2), substituted “the officer—” for “the officer will be performing duties consisting primarily of providing patient care or performing other clinical duties.” and added subpars. (A) and (B).
 
 Subsec. (b)(2)(D). Pub. L. 111–383, § 501(b)(1), added subpar. (D).
@@ -73,7 +100,7 @@ For provision that this section not apply to any officer who on the effective da
 
 <a id="section-1252"></a>
 ## § 1252. Age 64: permanent professors at academies
-**(a) Mandatory Retirement for Age.—** Unless retired or separated earlier, each regular commissioned officer of the Army, Navy, Air Force, or Marine Corps covered by subsection (b) shall be retired on the first day of the month following the month in which the officer becomes 64 years of age.
+**(a) Mandatory Retirement for Age.—** Unless retired or separated earlier, each regular commissioned officer of the Army, Navy, Air Force, Marine Corps, or Space Force covered by subsection (b) shall be retired on the first day of the month following the month in which the officer becomes 64 years of age.
 
 **(b) Covered Officers.—** This section applies to the following officers:
 
@@ -83,10 +110,15 @@ For provision that this section not apply to any officer who on the effective da
 
 (3) An officer who is a permanent professor or the registrar of the United States Air Force Academy.
 
+### Statutory Notes
+
+#### Amendments
+2021—Subsec. (a). Pub. L. 116–283 substituted “Marine Corps, or Space Force” for “or Marine Corps”.
+
 
 <a id="section-1253"></a>
 ## § 1253. Age 64: regular commissioned officers in general and flag officer grades; exceptions
-**(a) General Rule.—** Unless retired or separated earlier, each regular commissioned officer of the Army, Navy, Air Force, or Marine Corps serving in a general or flag officer grade shall be retired on the first day of the month following the month in which the officer becomes 64 years of age.
+**(a) General Rule.—** Unless retired or separated earlier, each regular commissioned officer of the Army, Navy, Air Force, Marine Corps, or Space Force serving in a general or flag officer grade shall be retired on the first day of the month following the month in which the officer becomes 64 years of age.
 
 **(b) Exception for Officers Serving in O–9 and O–10 Positions.—** In the case of an officer serving in a position that carries a grade above major general or rear admiral, the retirement under subsection (a) of that officer may be deferred—
 
@@ -100,11 +132,13 @@ For provision that this section not apply to any officer who on the effective da
 
 (2) A deferment of the retirement of an officer referred to in paragraph (1) may not extend beyond the first day of the month following the month in which the officer becomes 68 years of age.
 
-(3) The authority to defer the retirement of an officer referred to in paragraph (1) expires December 31, 2020. Subject to paragraph (2), a deferment granted before that date may continue on and after that date.
-
 ### Statutory Notes
 
 #### Amendments
+2021—Subsec. (a). Pub. L. 116–283 substituted “Marine Corps, or Space Force” for “or Marine Corps”.
+
+2019—Subsec. (c)(3). Pub. L. 116–92 struck out par. (3) which read as follows: “The authority to defer the retirement of an officer referred to in paragraph (1) expires December 31, 2020. Subject to paragraph (2), a deferment granted before that date may continue on and after that date.”
+
 2015—Pub. L. 114–92, § 504(b)(1), substituted “Age 64: regular commissioned officers in general and flag officer grades; exceptions” for “Age 64: regular commissioned officers in general and flag officer grades; exception” in section catchline.
 
 Subsec. (c). Pub. L. 114–92, § 504(a), added subsec. (c).

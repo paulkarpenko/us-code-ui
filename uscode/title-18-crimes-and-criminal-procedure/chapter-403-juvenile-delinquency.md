@@ -26,7 +26,7 @@ Minor change was made in translation of section references to “this chapter”
 1974—Pub. L. 93–415 amended section generally, inserting “or for the purpose of proceedings and disposition under this chapter for an alleged act of juvenile delinquency, a person who has not attained his twenty-first birthday” after “eighteenth birthday,” and substituting “committed by a person prior to his eighteenth birthday which would have been a crime if committed by an adult”, for “committed by a juvenile and not punishable by death or life imprisonment.”
 
 #### Repeals
-Section 501 of Pub. L. 93–415, title V, Sept. 7, 1974, 88 Stat. 1133, cited as a credit to this section, was repealed by Pub. L. 115–385, title III, § 307, Dec. 21, 2018, 132 Stat. 5152.
+Pub. L. 93–415, title V, § 501, Sept. 7, 1974, 88 Stat. 1133, cited as a credit to this section, was repealed by Pub. L. 115–385, title III, § 307, Dec. 21, 2018, 132 Stat. 5152.
 
 
 <a id="section-5032"></a>
@@ -77,7 +77,7 @@ Pub. L. 98–473, § 1201(c), added three pars. at end of section relating to ju
 1974—Pub. L. 93–415 amended section generally, substituting “Delinquency proceedings in district courts; transfer for criminal prosecution”, for “Proceedings against juvenile delinquent” in section catchline, inserting provisions relating to certification to, and procedures in, district courts, transfer upon motion by Attorney General with respect to a juvenile sixteen years and older, factors considered in transfer, notice of transfer, barring of subsequent criminal or juvenile delinquency proceedings upon entering plea of guilty or upon taking of evidence, and admissibility of statements by a juvenile in subsequent criminal prosecution, and substituting provision relating to consent upon advice of counsel for treatment as an adult, for provision requiring consent for treatment as a juvenile.
 
 #### Repeals
-Section 502 of Pub. L. 93–415, title V, Sept. 7, 1974, 88 Stat. 1134, cited as a credit to this section, was repealed by Pub. L. 115–385, title III, § 307, Dec. 21, 2018, 132 Stat. 5152.
+Pub. L. 93–415, title V, § 502, Sept. 7, 1974, 88 Stat. 1134, cited as a credit to this section, was repealed by Pub. L. 115–385, title III, § 307, Dec. 21, 2018, 132 Stat. 5152.
 
 
 <a id="section-5033"></a>
@@ -103,7 +103,7 @@ The other provisions of said section 922 are incorporated in [section 5032 of th
 Words “magistrate judge” substituted for “magistrate” in catchline and wherever appearing in text pursuant to section 321 of Pub. L. 101–650, set out as a note under [section 631 of Title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section631&num=0&edition=prelim), Judiciary and Judicial Procedure.
 
 #### Repeals
-Section 503 of Pub. L. 93–415, title V, Sept. 7, 1974, 88 Stat. 1135, cited as a credit to this section, was repealed by Pub. L. 115–385, title III, § 307, Dec. 21, 2018, 132 Stat. 5152.
+Pub. L. 93–415, title V, § 503, Sept. 7, 1974, 88 Stat. 1135, cited as a credit to this section, was repealed by Pub. L. 115–385, title III, § 307, Dec. 21, 2018, 132 Stat. 5152.
 
 
 <a id="section-5034"></a>
@@ -133,7 +133,7 @@ Changes were made in phraseology and arrangement.
 Words “magistrate judge” substituted for “magistrate” in catchline and wherever appearing in text pursuant to section 321 of Pub. L. 101–650, set out as a note under [section 631 of Title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section631&num=0&edition=prelim), Judiciary and Judicial Procedure.
 
 #### Repeals
-Section 504 of Pub. L. 93–415, title V, Sept. 7, 1974, 88 Stat. 1135, cited as a credit to this section, was repealed by Pub. L. 115–385, title III, § 307, Dec. 21, 2018, 132 Stat. 5152.
+Pub. L. 93–415, title V, § 504, Sept. 7, 1974, 88 Stat. 1135, cited as a credit to this section, was repealed by Pub. L. 115–385, title III, § 307, Dec. 21, 2018, 132 Stat. 5152.
 
 
 <a id="section-5035"></a>
@@ -152,7 +152,7 @@ Minor changes were made in arrangement and phraseology.
 1974—Pub. L. 93–415 amended section generally, substituting “Detention prior to disposition”, for “Arrest, detention and bail” in section catchline, striking out provisions relating to discretionary power of arresting officer or marshal to confine juvenile in jail, provisions relating to bail and default of bail, and inserting provisions relating to mandatory separation of juvenile from adjudicated delinquents, and provisions relating to the physical conditions of confining facility.
 
 #### Repeals
-Section 505 of Pub. L. 93–415, title V, Sept. 7, 1974, 88 Stat. 1135, cited as a credit to this section, was repealed by Pub. L. 115–385, title III, § 307, Dec. 21, 2018, 132 Stat. 5152.
+Pub. L. 93–415, title V, § 505, Sept. 7, 1974, 88 Stat. 1135, cited as a credit to this section, was repealed by Pub. L. 115–385, title III, § 307, Dec. 21, 2018, 132 Stat. 5152.
 
 
 <a id="section-5036"></a>
@@ -171,7 +171,7 @@ The words “foster homes” were inserted to remove any doubt as to the authori
 1974—Pub. L. 93–415 amended section generally, substituting “Speedy trial” for “Contracts for support; payment” in section catchline, and substituting provisions relating to dismissal of information due to delay, for provisions relating to contracts with public or private agencies for custody and care of juvenile delinquents.
 
 #### Repeals
-Section 506 of Pub. L. 93–415, title V, Sept. 7, 1974, 88 Stat. 1136, cited as a credit to this section, was repealed by Pub. L. 115–385, title III, § 307, Dec. 21, 2018, 132 Stat. 5152.
+Pub. L. 93–415, title V, § 506, Sept. 7, 1974, 88 Stat. 1136, cited as a credit to this section, was repealed by Pub. L. 115–385, title III, § 307, Dec. 21, 2018, 132 Stat. 5152.
 
 
 <a id="section-5037"></a>
@@ -292,7 +292,7 @@ Pub. L. 99–646, § 21(b), Nov. 10, 1986, 100 Stat. 3597, provided that: “The
 Amendment by Pub. L. 98–473 effective Nov. 1, 1987, and applicable only to offenses committed after the taking effect of such amendment, see section 235(a)(1) of Pub. L. 98–473, set out as an Effective Date note under [section 3551 of this title](./chapter-227-sentences.md#section-3551).
 
 #### Repeals
-Section 507 of Pub. L. 93–415, title V, Sept. 7, 1974, 88 Stat. 1136, cited as a credit to this section, was repealed by Pub. L. 115–385, title III, § 307, Dec. 21, 2018, 132 Stat. 5152.
+Pub. L. 93–415, title V, § 507, Sept. 7, 1974, 88 Stat. 1136, cited as a credit to this section, was repealed by Pub. L. 115–385, title III, § 307, Dec. 21, 2018, 132 Stat. 5152.
 
 
 <a id="section-5038"></a>
@@ -344,7 +344,7 @@ Subsec. (f). Pub. L. 104–294 substituted “section 401 of the Controlled Subs
 Amendment by Pub. L. 95–115 effective Oct. 1, 1977, see section 263(c) of Pub. L. 93–415, as added by Pub. L. 95–115, formerly set out as a note under [section 11101 of Title 34](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section11101&num=0&edition=prelim), Crime Control and Law Enforcement.
 
 #### Repeals
-Section 508 of Pub. L. 93–415, title V, Sept. 7, 1974, 88 Stat. 1137, cited as a credit to this section, was repealed by Pub. L. 115–385, title III, § 307, Dec. 21, 2018, 132 Stat. 5152.
+Pub. L. 93–415, title V, § 508, Sept. 7, 1974, 88 Stat. 1137, cited as a credit to this section, was repealed by Pub. L. 115–385, title III, § 307, Dec. 21, 2018, 132 Stat. 5152.
 
 
 <a id="section-5039"></a>
@@ -358,7 +358,7 @@ No juvenile committed, whether pursuant to an adjudication of delinquency or con
 1994—Pub. L. 103–322 inserted “, whether pursuant to an adjudication of delinquency or conviction for an offense,” after “committed” in first par.
 
 #### Repeals
-Section 509 of Pub. L. 93–415, title V, Sept. 7, 1974, 88 Stat. 1138, cited as a credit to this section, was repealed by Pub. L. 115–385, title III, § 307, Dec. 21, 2018, 132 Stat. 5152.
+Pub. L. 93–415, title V, § 509, Sept. 7, 1974, 88 Stat. 1138, cited as a credit to this section, was repealed by Pub. L. 115–385, title III, § 307, Dec. 21, 2018, 132 Stat. 5152.
 
 
 <a id="section-5040"></a>
@@ -369,7 +369,7 @@ The Attorney General may contract with any public or private agency or individua
 ### Statutory Notes
 
 #### Repeals
-Section 510 of Pub. L. 93–415, title V, Sept. 7, 1974, 88 Stat. 1138, cited as a credit to this section, was repealed by Pub. L. 115–385, title III, § 307, Dec. 21, 2018, 132 Stat. 5152.
+Pub. L. 93–415, title V, § 510, Sept. 7, 1974, 88 Stat. 1138, cited as a credit to this section, was repealed by Pub. L. 115–385, title III, § 307, Dec. 21, 2018, 132 Stat. 5152.
 
 
 <a id="section-5041"></a>
@@ -397,7 +397,7 @@ Any juvenile probationer shall be accorded notice and a hearing with counsel bef
 Amendment by Pub. L. 98–473 effective Nov. 1, 1987, and applicable only to offenses committed after the taking effect of such amendment, with section as in effect prior to such amendment to remain in effect for five years as and individual who committed an offense or an act of juvenile delinquency before Nov. 1, 1987, and as to a term of imprisonment during the period described in section 235(a)(1)(B) of Pub. L. 98–473, see section 235(a)(1), (b)(1)(D) of Pub. L. 98–473, set out as an Effective Date note under [section 3551 of this title](./chapter-227-sentences.md#section-3551).
 
 #### Repeals
-Section 512 of Pub. L. 93–415, title V, Sept. 7, 1974, 88 Stat. 1138, cited as a credit to this section, was repealed by Pub. L. 115–385, title III, § 307, Dec. 21, 2018, 132 Stat. 5152.
+Pub. L. 93–415, title V, § 512, Sept. 7, 1974, 88 Stat. 1138, cited as a credit to this section, was repealed by Pub. L. 115–385, title III, § 307, Dec. 21, 2018, 132 Stat. 5152.
 
 
 <a id="section-5043"></a>

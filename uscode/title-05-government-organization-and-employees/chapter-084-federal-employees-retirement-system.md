@@ -2,7 +2,7 @@
 title: 5
 chapter: '84'
 heading: FEDERAL EMPLOYEES’ RETIREMENT SYSTEM
-section_count: 76
+section_count: 77
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5&num=0&edition=prelim
 ---
@@ -195,7 +195,7 @@ For the purpose of this chapter—
 
     (iii) has less than 5 years of creditable civilian service under section 8411; and
 
-  (B) after December 31, 2012, and before January 1, 2014, becomes employed as an employee or becomes a Member covered under this chapter performing service which is creditable service under section 8411; and
+  (B) after December 31, 2012, and before January 1, 2014, becomes employed as an employee or becomes a Member covered under this chapter performing service which is creditable service under section 8411;
 
 (38) the term “further revised annuity employee” means any individual who—
 
@@ -207,7 +207,9 @@ For the purpose of this chapter—
 
     (iii) has less than 5 years of creditable civilian service under section 8411; and
 
-  (B) after December 31, 2013, becomes employed as an employee or becomes a Member covered under this chapter performing service which is creditable service under section 8411.
+  (B) after December 31, 2013, becomes employed as an employee or becomes a Member covered under this chapter performing service which is creditable service under section 8411; and
+
+(39) “representative payee” means a person (including an organization) designated under section 8466(c)(1) to receive payments on behalf of a minor or an individual mentally incompetent or under other legal disability.
 
 ### Statutory Notes
 
@@ -225,6 +227,8 @@ The Federal Employees’ Retirement Contribution Temporary Adjustment Act of 198
 The date of the enactment of the Legislative Branch Appropriations Act, 2004, referred to in par. (20), is the date of enactment of Pub. L. 108–83, which was approved Sept. 30, 2003.
 
 #### Amendments
+2020—Par. (39). Pub. L. 116–126 added par. (39).
+
 2013—Par. (37)(B). Pub. L. 113–67, § 401(a)(2), inserted “and before January 1, 2014,” after “after December 31, 2012,”.
 
 Par. (38). Pub. L. 113–67, § 401(a)(1), added par. (38).
@@ -287,6 +291,9 @@ Par. (18). Pub. L. 99–556, § 109, amended par. (18) generally. Prior to amend
 
 Par. (19)(C), (D). Pub. L. 99–556, § 107, added subpar. (C) and redesignated former subpar. (C) as (D).
 
+#### Effective Date of 2020 Amendment
+Amendment by Pub. L. 116–126 effective on Mar. 18, 2020, and applicable on and after the effective date of regulations promulgated under section 3(b)(1) of Pub. L. 116–126, see sections 4 and 3(b) of Pub. L. 116–126, set out respectively as an Effective Date of 2020 Amendment note and a Regulations note under [section 8331 of this title](./chapter-083-retirement.md#section-8331).
+
 #### Effective Date of 2008 Amendment
 Amendment by Pub. L. 110–181 applicable to any annuity, eligibility for which is based upon a separation occurring before, on, or after Jan. 28, 2008, and any period of service as a cadet at the United States Military Academy, the United States Air Force Academy, or the United States Coast Guard Academy, or as a midshipman at the United States Naval Academy, occurring before, on, or after Jan. 28, 2008, see section 1115(c) of Pub. L. 110–181, set out as a note under [section 8331 of this title](./chapter-083-retirement.md#section-8331).
 
@@ -344,6 +351,9 @@ Pub. L. 99–556, § 1, Oct. 27, 1986, 100 Stat. 3131, provided that: “This Ac
 
 #### Short Title
 Pub. L. 99–335, title I, § 100(a), June 6, 1986, 100 Stat. 514, provided that: “This Act [enacting this chapter, sections 8343a, 8349, 8350, and 8351 of this title, and sections 4068 and 4071 to 4071k of Title 22, Foreign Relations and Intercourse, amending sections 2105, 2109, 5102, 5314, 6301, 6303, 8116, 8331, 8332, 8334, 8342, 8347, 8348, 8701, 8706, 8714, 8714b, 8714c, 8901, and 8905 of this title, [section 1605 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1605&num=0&edition=prelim), Armed Forces, sections 4041 to 4049, 4054 to 4056, 4058, 4060, 4061, 4063, 4064, 4066, and 4067 of Title 22, sections 3121 and 6103 of Title 26, Internal Revenue Code, [section 1005 of Title 39](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title39-section1005&num=0&edition=prelim), Postal Service, and [section 410 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section410&num=0&edition=prelim), The Public Health and Welfare, enacting provisions set out as notes under this section and sections 8331, 8351, 8432, and 8472 of this title, sections 3901 and 4046 of Title 22, and [section 6103 of Title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section6103&num=0&edition=prelim), and amending provisions set out as notes under [section 8331 of this title](./chapter-083-retirement.md#section-8331) and sections 402 and 403 of Title 50, War and National Defense] may be cited as the ‘Federal Employees’ Retirement System Act of 1986’.”
+
+#### Regulations
+Regulations to carry out amendment by Pub. L. 116–126 to be promulgated by Office of Personnel Management no later than 1 year after Mar. 18, 2020, with allowance for additional regulations relating to administration of representative payee program, see section 3(b) of Pub. L. 116–126, set out as a note under [section 8331 of this title](./chapter-083-retirement.md#section-8331).
 
 #### Transfer of Functions
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).
@@ -1718,7 +1728,7 @@ Amendment by Pub. L. 101–194 effective Jan. 1, 1991, see section 506(d) of Pub
 
 (5) Notwithstanding paragraphs (1) through (4), the reduction required by subsection (a) shall be effective with respect to the annuity supplement payable for each month in the 12-month period beginning on the first day of the seventh month after the end of the calendar year in which the excess earnings were earned.
 
-**(c)** This section shall not apply to an individual described in section 8412(e) during any period in which the individual, after separating from the service as described in that section, is employed full-time as an air traffic control instructor under contract with the Federal Aviation Administration, including an instructor working at an on-site facility (such as an airport).
+**(c)** This section shall not apply to an individual described in section 8412(e) during any period in which the individual, after separating from the service as described in that section, is employed as an air traffic control instructor, or supervisor thereof, under contract with the Federal Aviation Administration, including an instructor or supervisor working at an on-site facility (such as an airport).
 
 **(d)** The Office shall prescribe regulations under which this section shall be applied in the case of a reemployed annuitant.
 
@@ -1728,6 +1738,8 @@ Amendment by Pub. L. 101–194 effective Jan. 1, 1991, see section 506(d) of Pub
 Section 203 of the Social Security Act, referred to in subsec. (b)(4)(A), is classified to [section 403 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section403&num=0&edition=prelim), The Public Health and Welfare.
 
 #### Amendments
+2019—Subsec. (c). Pub. L. 116–92 substituted “as an air traffic control instructor, or supervisor thereof,” for “full-time as an air traffic control instructor” and inserted “or supervisor” after “an instructor”.
+
 2016—Subsec. (a). Pub. L. 114–251, § 1(1), substituted “Except as provided in subsection (c), the amount” for “The amount”.
 
 Subsecs. (c), (d). Pub. L. 114–251, § 1(2), (3), added subsec. (c) and redesignated former subsec. (c) as (d).
@@ -1999,7 +2011,7 @@ Pub. L. 105–33, title VII, § 7001(b)(2), Aug. 5, 1997, 111 Stat. 658, provide
 
   (B) the product of—
 
-    (i) the normal-cost percentage, as determined for Members, Congressional employees, law enforcement officers, members of the Supreme Court Police, firefighters, nuclear materials couriers, customs and border protection officers, air traffic controllers, military reserve technicians, and employees under sections 302 and 303 of the Central Intelligence Agency Retirement Act, multiplied by
+    (i) the normal-cost percentage, as determined for Members, Congressional employees (including a separate normal-cost percentage for Congressional employees that are members of the Capitol Police covered under subsection (d) of section 8412 and subsection (c) of section 8425), law enforcement officers, members of the Supreme Court Police, firefighters, nuclear materials couriers, customs and border protection officers, air traffic controllers, military reserve technicians, and employees under sections 302 and 303 of the Central Intelligence Agency Retirement Act, multiplied by
 
     (ii) the aggregate amount of basic pay payable by the agency, for the period involved, to employees and Members (under clause (i)) who are within such agency.
 
@@ -2066,6 +2078,8 @@ Sections 302 and 303 of the Central Intelligence Agency Retirement Act, referred
 Section 401(b) of the Bipartisan Budget Act of 2013, referred to in subsec. (a)(2)(B)(i), is section 401(b) of div. A of Pub. L. 113–67, which amended [section 8422 of this title](./chapter-084-federal-employees-retirement-system.md#section-8422).
 
 #### Amendments
+2019—Subsec. (a)(1)(B)(i). Pub. L. 116–94 inserted “(including a separate normal-cost percentage for Congressional employees that are members of the Capitol Police covered under subsection (d) of section 8412 and subsection (c) of section 8425)” after “Congressional employees”.
+
 2013—Subsec. (a)(2). Pub. L. 113–67 designated existing provisions as subpar. (A) and added subpar. (B).
 
 2007—Subsec. (a)(1)(B)(i), (3)(A). Pub. L. 110–161 inserted “customs and border protection officers,” after “nuclear materials couriers,” wherever appearing.
@@ -5057,7 +5071,59 @@ Section effective Jan. 1, 1987, and applicable with respect to benefits payable 
 
 **(b)** Notwithstanding subsection (a), after the death of an employee, Member, or annuitant, or former employee or Member, a benefit based on the service of such employee, Member, or annuitant, or former employee or Member, shall not be paid under subchapter II or IV of this chapter unless an application therefor is received by the Office within 30 years after the death or other event which establishes the entitlement to the benefit.
 
-**(c)** Payment due a minor, or an individual mentally incompetent or under other legal disability, may be made to the person who is constituted guardian or other fiduciary by the law of the State of residence of the claimant or is otherwise legally vested with the care of the claimant or his estate. If a guardian or other fiduciary of the individual under legal disability has not been appointed under the law of the State of residence of the claimant, payment may be made to any person who, in the judgment of the Office, is responsible for the care of the claimant, and the payment bars recovery by any other person.
+**(c)**
+
+(1) Payment due a minor, or an individual mentally incompetent or under other legal disability, may be made to the person (including an organization) who is constituted guardian or other fiduciary by the law of the State of residence of the claimant or is otherwise legally vested with the care of the claimant or his estate. If a guardian or other fiduciary of the individual under legal disability has not been appointed under the law of the State of residence of the claimant, payment may be made to any person (including an organization) who, in the judgment of the Office, is responsible for the care of the claimant and may appropriately receive such payments on behalf of the claimant, and the payment bars recovery by any other person.
+
+(2) If the Office determines that direct payment of a benefit to an individual mentally incompetent or under other legal disability would cause substantial harm to the individual, the Office may defer or suspend direct payment of the benefit until such time as the appointment of a representative payee is made. The Office shall resume payment as soon as practicable, including all amounts due.
+
+**(d)** The Office may not authorize a person to receive payments on behalf of a minor or individual of legal disability under subsection (c) if that person has been convicted of a violation of—
+
+(1) section 8345a or 8466a;
+
+(2) section 208 or 1632 of the Social Security Act ([42 U.S.C. 408](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section408&num=0&edition=prelim), 1383a); or
+
+(3) [section 6101 of title 38](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section6101&num=0&edition=prelim).
+
+### Statutory Notes
+
+#### Amendments
+2020—Subsec. (c). Pub. L. 116–126, § 2(c)(2), designated existing provisions as par. (1), inserted “(including an organization)” after “to the person” and after “to any person”, inserted “and may appropriately receive such payments on behalf of the claimant” after “care of the claimant”, and added par. (2).
+
+Subsec. (d). Pub. L. 116–126, § 2(d)(2), added subsec. (d).
+
+#### Effective Date of 2020 Amendment
+Amendment by Pub. L. 116–126 effective on Mar. 18, 2020, and applicable on and after the effective date of regulations promulgated under section 3(b)(1) of Pub. L. 116–126, see sections 4 and 3(b) of Pub. L. 116–126, set out respectively as an Effective Date of 2020 Amendment note and a Regulations note under [section 8331 of this title](./chapter-083-retirement.md#section-8331).
+
+#### Regulations
+Regulations to carry out amendment by Pub. L. 116–126 to be promulgated by Office of Personnel Management no later than 1 year after Mar. 18, 2020, with allowance for additional regulations relating to administration of representative payee program, see section 3(b) of Pub. L. 116–126, set out as a note under [section 8331 of this title](./chapter-083-retirement.md#section-8331).
+
+
+<a id="section-8466a"></a>
+## § 8466a. Embezzlement or conversion of payments
+**(a) Embezzling and Conversion Generally.—**
+
+(1) **In general.—** — It shall be unlawful for a representative payee to embezzle or in any manner convert all or any part of the amounts received from payments received as a representative payee to a use other than for the use and benefit of the minor or individual on whose behalf such payments were received.
+
+(2) **Revocation.—** — If the Office determines that a representative payee has embezzled or converted payments as described in paragraph (1), the Office shall promptly—
+
+  (A) revoke the certification for payment of benefits to the representative payee; and
+
+  (B) certify payment—
+
+    (i) to another representative payee; or
+
+    (ii) if the interest of the individual under this title would be served thereby, to the individual.
+
+**(b) Penalty.—** Any person who violates subsection (a)(1) shall be fined under title 18, imprisoned for not more than 5 years, or both.
+
+### Statutory Notes
+
+#### Effective Date
+Section effective on Mar. 18, 2020, and applicable on and after the effective date of regulations promulgated under section 3(b)(1) of Pub. L. 116–126, see sections 4 and 3(b) of Pub. L. 116–126, set out respectively as an Effective Date of 2020 Amendment note and a Regulations note under [section 8331 of this title](./chapter-083-retirement.md#section-8331).
+
+#### Regulations
+Regulations to carry out this section to be promulgated by Office of Personnel Management no later than 1 year after Mar. 18, 2020, with allowance for additional regulations relating to administration of representative payee program, see section 3(b) of Pub. L. 116–126, set out as a note under [section 8331 of this title](./chapter-083-retirement.md#section-8331).
 
 
 <a id="section-8467"></a>
@@ -5224,7 +5290,7 @@ Amendment by Pub. L. 103–358 effective Oct. 14, 1994, and applicable with resp
 
   (B) If the primary service performed by any limited time appointee employed under this subsection is training or mentoring of employees, the hours of that service shall be included in the hours of service performed for purposes of paragraph (3).
 
-(7) The authority of the head of an agency under this subsection to waive the application of subsection (a) shall terminate on December 31, 2019.
+(7) The authority of the head of an agency under this subsection to waive the application of subsection (a) shall terminate on December 31, 2024.
 
 **(j)**
 
@@ -5240,6 +5306,8 @@ The American Recovery and Reinvestment Act of 2009, referred to in subsec. (i)(2
 The Emergency Economic Stabilization Act of 2008, referred to in subsec. (i)(2)(B), is div. A of Pub. L. 110–343, Oct. 3, 2008, 122 Stat. 3765. Title I of the Act is classified principally to subchapter I (§ 5211 et seq.) of chapter 52 of Title 12, Banks and Banking. For complete classification of this Act to the Code, see Short Title note set out under [section 5201 of Title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section5201&num=0&edition=prelim) and Tables.
 
 #### Amendments
+2019—Subsec. (i)(7). Pub. L. 116–92 substituted “December 31, 2024” for “December 31, 2019”.
+
 2014—Subsec. (i)(7). Pub. L. 113–291 substituted “on December 31, 2019” for “5 years after the date of enactment of the National Defense Authorization Act for Fiscal Year 2010”.
 
 2012—Subsec. (b)(1)(A). Pub. L. 112–96 substituted “section 8415(a) through (i)” for “section 8415(a) through (h)”.

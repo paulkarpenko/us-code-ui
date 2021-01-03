@@ -104,9 +104,19 @@ Pars. (11) to (14). Pub. L. 102–550, § 606(c)(3), added pars. (11) to (14).
 
   (A) *Allocation formula* — The Secretary shall allocate 90 percent of the amount approved in appropriations Acts under [section 12912 of this title](./chapter-131-housing-opportunities-for-persons-with-aids.md#section-12912) among States and metropolitan statistical areas as follows:
 
-    (I) 11 So in original. Probably should be “(i)”. 75 percent of such amounts among— (I) cities that are the most populous unit of general local government in a metropolitan statistical area with a population greater than 500,000, as determined on the basis of the most recent census, and with more than 2,000 individuals living with HIV or AIDS, using the data specified in subparagraph (B); and (II) States with more than 2,000 individuals living with HIV or AIDS outside of metropolitan statistical areas.
+    (I) 11 So in original. Probably should be “(i)”. 75 percent of such amounts among—
 
-**(ii)** 25 percent of such amounts among States and metropolitan statistical areas based on the method described in subparagraph (C). (B) Source of dataFor purposes of allocating amounts under this paragraph for any fiscal year, the number of individuals living with HIV or AIDS shall be the number of such individuals as confirmed by the Director of the Centers for Disease Control and Prevention, as of December 31 of the most recent calendar year for which such data is available. (C) Allocation under subparagraph (A)(ii)For purposes of allocating amounts under subparagraph (A)(ii), the Secretary shall develop a method that accounts for—(I) 1 differences in housing costs among States and metropolitan statistical areas based on the fair market rental established pursuant to [section 1437f(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1437f/c&num=0&edition=prelim) or another methodology established by the Secretary through regulation; and
+      (I) cities that are the most populous unit of general local government in a metropolitan statistical area with a population greater than 500,000, as determined on the basis of the most recent census, and with more than 2,000 individuals living with HIV or AIDS, using the data specified in subparagraph (B); and
+
+      (II) States with more than 2,000 individuals living with HIV or AIDS outside of metropolitan statistical areas.
+
+    (ii) 25 percent of such amounts among States and metropolitan statistical areas based on the method described in subparagraph (C).
+
+  (B) *Source of data* — For purposes of allocating amounts under this paragraph for any fiscal year, the number of individuals living with HIV or AIDS shall be the number of such individuals as confirmed by the Director of the Centers for Disease Control and Prevention, as of December 31 of the most recent calendar year for which such data is available.
+
+  (C) *Allocation under subparagraph (A)(ii)* — For purposes of allocating amounts under subparagraph (A)(ii), the Secretary shall develop a method that accounts for—
+
+    (I) 1 differences in housing costs among States and metropolitan statistical areas based on the fair market rental established pursuant to [section 1437f(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1437f/c&num=0&edition=prelim) or another methodology established by the Secretary through regulation; and
 
 **(ii)** differences in poverty rates among States and metropolitan statistical areas based on area poverty indexes or another methodology established by the Secretary through regulation. (2) Maintaining grants(A) Continued eligibility of fiscal year 2016 granteesA grantee that received an allocation in fiscal year 2016 shall continue to be eligible for allocations under paragraph (1) in subsequent fiscal years, subject to—(i) the amounts available from appropriations Acts under [section 12912 of this title](./chapter-131-housing-opportunities-for-persons-with-aids.md#section-12912);
 
@@ -265,10 +275,25 @@ Par. (6). Pub. L. 102–550, § 606(e), inserted before period at end “, excep
 
 ### Statutory Notes
 
+#### Amendment of Section
+Pub. L. 116–260, div. Q, title I, § 101(e), (h), Dec. 27, 2020, 134 Stat. 2164, 2165, provided that, effective 2 years after Dec. 27, 2020, this section is amended by adding at the end the following new subsection:
+
+“(i) Carbon monoxide alarms
+
+“Each dwelling unit assisted under this chapter shall contain installed carbon monoxide alarms or detectors that meet or exceed—
+
+“(1) the standards described in chapters 9 and 11 of the 2018 publication of the International Fire Code, as published by the International Code Council; or
+
+“(2) any other standards as may be adopted by the Secretary, including any relevant updates to the International Fire Code, through a notice published in the Federal Register.”
+
+See 2020 Amendment note below.
+
 #### References in Text
 Under this chapter, referred to in subsec. (g)(2), was in the original “under this title”, and was translated as reading “under this subtitle”, meaning under subtitle D (§§ 851–863) of title VIII of Pub. L. 101–625, to reflect the probable intent of Congress.
 
 #### Amendments
+2020—Subsec. (i). Pub. L. 116–260 added subsec. (i).
+
 2000—Subsec. (h). Pub. L. 106–377 added subsec. (h).
 
 1992—Subsec. (c). Pub. L. 102–550, § 606(j)(4), (11)(A), substituted “eligible persons” for “individuals with acquired immunodeficiency syndrome or related diseases” and “services for such eligible persons” for “services for such individuals”.
@@ -276,6 +301,12 @@ Under this chapter, referred to in subsec. (g)(2), was in the original “under 
 Subsec. (d). Pub. L. 102–550, § 606(f)(1), added subsec. (d) and struck out former subsec. (d) which read as follows: “No Fee.—The recipient shall agree that no fee will be charged of any low-income individual for any services provided with amounts from a grant under this chapter and that if fees are charged of any other individuals, the fees will be based on the income and resources of the individual.”
 
 Subsec. (g). Pub. L. 102–550, § 606(f)(2), added subsec. (g).
+
+#### Effective Date of 2020 Amendment
+Amendment by Pub. L. 116–260 effective 2 years after Dec. 27, 2020, see section 101(h) of div. Q of Pub. L. 116–260, set out as a note under [section 1701q of Title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1701q&num=0&edition=prelim), Banks and Banking.
+
+#### Construction of 2020 Amendment
+Nothing in amendment made by Pub. L. 116–260 to be construed to preempt or limit applicability of certain State or local laws relating to carbon monoxide devices, see section 101(j) of Pub. L. 116–260, set out as a note under [section 1437a of this title](./chapter-008-low-income-housing.md#section-1437a).
 
 
 <a id="section-12906"></a>

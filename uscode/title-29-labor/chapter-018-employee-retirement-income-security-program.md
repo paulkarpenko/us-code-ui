@@ -2,7 +2,7 @@
 title: 29
 chapter: '18'
 heading: EMPLOYEE RETIREMENT INCOME SECURITY PROGRAM
-section_count: 180
+section_count: 191
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29&num=0&edition=prelim
 ---
@@ -357,6 +357,12 @@ For purposes of this subchapter:
     (ii) supplemental retirement income payments, under which the pension benefits of retirees or their beneficiaries are supplemented to take into account some portion or all of the increases in the cost of living (as determined by the Secretary of Labor) since retirement,
     shall, for purposes of this subchapter, be treated as welfare plans rather than pension plans. In the case of any arrangement or payment a principal effect of which is the evasion of the standards or purposes of this chapter applicable to pension plans, such arrangement or payment shall be treated as a pension plan. An applicable voluntary early retirement incentive plan (as defined in [section 457(e)(11)(D)(ii) of title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section457/e/11/D/ii&num=0&edition=prelim)) making payments or supplements described in [section 457(e)(11)(D)(i) of title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section457/e/11/D/i&num=0&edition=prelim), and an applicable employment retention plan (as defined in [section 457(f)(4)(C) of title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section457/f/4/C&num=0&edition=prelim)) making payments of benefits described in [section 457(f)(4)(A) of title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section457/f/4/A&num=0&edition=prelim), shall, for purposes of this subchapter, be treated as a welfare plan (and not a pension plan) with respect to such payments and supplements.
 
+  (C) A pooled employer plan shall be treated as—
+
+    (i) a single employee pension benefit plan or single pension plan; and
+
+    (ii) a plan to which [section 1060(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1060/a&num=0&edition=prelim) applies.
+
 (3) The term “employee benefit plan” or “plan” means an employee welfare benefit plan or an employee pension benefit plan or a plan which is both an employee welfare benefit plan and an employee pension benefit plan.
 
 (4) The term “employee organization” means any labor union or any organization of any kind, or any agency or employee representation committee, association, group, or plan, in which employees participate and which exists for the purpose, in whole or in part, of dealing with employers concerning an employee benefit plan, or other matters incidental to employment relationships; or any employees’ beneficiary association organized for the purpose in whole or in part, of establishing such a plan.
@@ -426,7 +432,7 @@ For purposes of this subchapter:
 
     (iii) in the case of a plan for which an administrator is not designated and a plan sponsor cannot be identified, such other person as the Secretary may by regulation prescribe.
 
-  (B) The term “plan sponsor” means (i) the employer in the case of an employee benefit plan established or maintained by a single employer, (ii) the employee organization in the case of a plan established or maintained by an employee organization, or (iii) in the case of a plan established or maintained by two or more employers or jointly by one or more employers and one or more employee organizations, the association, committee, joint board of trustees, or other similar group of representatives of the parties who establish or maintain the plan.
+  (B) The term “plan sponsor” means (i) the employer in the case of an employee benefit plan established or maintained by a single employer, (ii) the employee organization in the case of a plan established or maintained by an employee organization, (iii) in the case of a plan established or maintained by two or more employers or jointly by one or more employers and one or more employee organizations, the association, committee, joint board of trustees, or other similar group of representatives of the parties who establish or maintain the plan, or (iv) in the case of a pooled employer plan, the pooled plan provider.
 
 (17) The term “separate account” means an account established or maintained by an insurance company under which income, gains, and losses, whether or not realized, from assets allocated to such account, are, in accordance with the applicable contract, credited to or charged against such account without regard to other income, gains, or losses of the insurance com­pany.
 
@@ -645,16 +651,88 @@ For purposes of this subchapter:
 
     (v) the term “rural telephone cooperative association” means an organization described in paragraph (4) or (6) of [section 501(c) of title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section501/c&num=0&edition=prelim) which is exempt from tax under [section 501(a) of title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section501/a&num=0&edition=prelim) and at least 80 percent of the members of which are organizations engaged primarily in providing telephone service to rural areas of the United States on a mutual, cooperative, or other basis.
 
-(41) **44 So in original. Two pars. (41) have been enacted. Single-employer plan.—** — The term “single-employer plan” means an employee benefit plan other than a multiemployer plan.
+(41) **Single-employer plan.—** — The term “single-employer plan” means an employee benefit plan other than a multiemployer plan.
 
-(41) 4 The term “single-employer plan” means a plan which is not a multiemployer plan.
+(42) the 44 So in original. Probably should be “The”. term “plan assets” means plan assets as defined by such regulations as the Secretary may prescribe, except that under such regulations the assets of any entity shall not be treated as plan assets if, immediately after the most recent acquisition of any equity interest in the entity, less than 25 percent of the total value of each class of equity interest in the entity is held by benefit plan investors. For purposes of determinations pursuant to this paragraph, the value of any equity interest held by a person (other than such a benefit plan investor) who has discretionary authority or control with respect to the assets of the entity or any person who provides investment advice for a fee (direct or indirect) with respect to such assets, or any affiliate of such a person, shall be disregarded for purposes of calculating the 25 percent threshold. An entity shall be considered to hold plan assets only to the extent of the percentage of the equity interest held by benefit plan investors. For purposes of this paragraph, the term “benefit plan investor” means an employee benefit plan subject to part 4,55 So in original. Probably should be “part 4 of subtitle B,”. any plan to which [section 4975 of title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section4975&num=0&edition=prelim) applies, and any entity whose underlying assets include plan assets by reason of a plan’s investment in such entity.
 
-(42) the 55 So in original. Probably should be “The”. term “plan assets” means plan assets as defined by such regulations as the Secretary may prescribe, except that under such regulations the assets of any entity shall not be treated as plan assets if, immediately after the most recent acquisition of any equity interest in the entity, less than 25 percent of the total value of each class of equity interest in the entity is held by benefit plan investors. For purposes of determinations pursuant to this paragraph, the value of any equity interest held by a person (other than such a benefit plan investor) who has discretionary authority or control with respect to the assets of the entity or any person who provides investment advice for a fee (direct or indirect) with respect to such assets, or any affiliate of such a person, shall be disregarded for purposes of calculating the 25 percent threshold. An entity shall be considered to hold plan assets only to the extent of the percentage of the equity interest held by benefit plan investors. For purposes of this paragraph, the term “benefit plan investor” means an employee benefit plan subject to part 4,66 So in original. Probably should be “part 4 of subtitle B,”. any plan to which [section 4975 of title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section4975&num=0&edition=prelim) applies, and any entity whose underlying assets include plan assets by reason of a plan’s investment in such entity.
+(43) **Pooled employer plan.—**
+
+  (A) *In general.—* — The term “pooled employer plan” means a plan—
+
+    (i) which is an individual account plan established or maintained for the purpose of providing benefits to the employees of 2 or more employers;
+
+    (ii) which is a plan described in [section 401(a) of title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section401/a&num=0&edition=prelim) which includes a trust exempt from tax under [section 501(a) of title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section501/a&num=0&edition=prelim) or a plan that consists of individual retirement accounts described in [section 408 of title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section408&num=0&edition=prelim) (including by reason of subsection (c) thereof); and
+
+    (iii) the terms of which meet the requirements of subparagraph (B).
+    Such term shall not include a plan maintained by employers which have a common interest other than having adopted the plan.
+
+  (B) *Requirements for plan terms.—* — The requirements of this subparagraph are met with respect to any plan if the terms of the plan—
+
+    (i) designate a pooled plan provider and provide that the pooled plan provider is a named fiduciary of the plan;
+
+    (ii) designate one or more trustees meeting the requirements of [section 408(a)(2) of title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section408/a/2&num=0&edition=prelim) (other than an employer in the plan) to be responsible for collecting contributions to, and holding the assets of, the plan and require such trustees to implement written contribution collection procedures that are reasonable, diligent, and systematic;
+
+    (iii) provide that each employer in the plan retains fiduciary responsibility for—
+
+      (I) the selection and monitoring in accordance with [section 1104(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1104/a&num=0&edition=prelim) of the person designated as the pooled plan provider and any other person who, in addition to the pooled plan provider, is designated as a named fiduciary of the plan; and
+
+      (II) to the extent not otherwise delegated to another fiduciary by the pooled plan provider and subject to the provisions of [section 1104(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1104/c&num=0&edition=prelim), the investment and management of the portion of the plan’s assets attributable to the employees of the employer (or beneficiaries of such employees);
+
+    (iv) provide that employers in the plan, and participants and beneficiaries, are not subject to unreasonable restrictions, fees, or penalties with regard to ceasing participation, receipt of distributions, or otherwise transferring assets of the plan in accordance with [section 1058 of this title](./chapter-018-employee-retirement-income-security-program.md#section-1058) or paragraph (44)(C)(i)(II); 66 So in original. Probably should be “(44)(C)(ii)(I);”.
+
+    (v) require—
+
+      (I) the pooled plan provider to provide to employers in the plan any disclosures or other information which the Secretary may require, including any disclosures or other information to facilitate the selection or any monitoring of the pooled plan provider by employers in the plan; and
+
+      (II) each employer in the plan to take such actions as the Secretary or the pooled plan provider determines are necessary to administer the plan or for the plan to meet any requirement applicable under this chapter or title 26 to a plan described in [section 401(a) of title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section401/a&num=0&edition=prelim) or to a plan that consists of individual retirement accounts described in [section 408 of title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section408&num=0&edition=prelim) (including by reason of subsection (c) thereof), whichever is applicable, including providing any disclosures or other information which the Secretary may require or which the pooled plan provider otherwise determines are necessary to administer the plan or to allow the plan to meet such requirements; and
+
+    (vi) provide that any disclosure or other information required to be provided under clause (v) may be provided in electronic form and will be designed to ensure only reasonable costs are imposed on pooled plan providers and employers in the plan.
+
+  (C) *Exceptions.—* — The term “pooled employer plan” does not include—
+
+    (i) a multiemployer plan; or
+
+    (ii) a plan established before December 20, 2019, unless the plan administrator elects that the plan will be treated as a pooled employer plan and the plan meets the requirements of this subchapter applicable to a pooled employer plan established on or after such date.
+
+  (D) *Treatment of employers as plan sponsors.—* — Except with respect to the administrative duties of the pooled plan provider described in paragraph (44)(A)(i), each employer in a pooled employer plan shall be treated as the plan sponsor with respect to the portion of the plan attributable to employees of such employer (or beneficiaries of such employees).
+
+(44) **Pooled plan provider.—**
+
+  (A) *In general.—* — The term “pooled plan provider” means a person who—
+
+    (i) is designated by the terms of a pooled employer plan as a named fiduciary, as the plan administrator, and as the person responsible for the performance of all administrative duties (including conducting proper testing with respect to the plan and the employees of each employer in the plan) which are reasonably necessary to ensure that—
+
+      (I) the plan meets any requirement applicable under this chapter or title 26 to a plan described in [section 401(a) of title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section401/a&num=0&edition=prelim) or to a plan that consists of individual retirement accounts described in [section 408 of title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section408&num=0&edition=prelim) (including by reason of subsection (c) thereof), whichever is applicable; and
+
+      (II) each employer in the plan takes such actions as the Secretary or pooled plan provider determines are necessary for the plan to meet the requirements described in subclause (I), including providing the disclosures and information described in paragraph (43)(B)(v)(II);
+
+    (ii) registers as a pooled plan provider with the Secretary, and provides to the Secretary such other information as the Secretary may require, before beginning operations as a pooled plan provider;
+
+    (iii) acknowledges in writing that such person is a named fiduciary, and the plan administrator, with respect to the pooled employer plan; and
+
+    (iv) is responsible for ensuring that all persons who handle assets of, or who are fiduciaries of, the pooled employer plan are bonded in accordance with [section 1112 of this title](./chapter-018-employee-retirement-income-security-program.md#section-1112).
+
+  (B) *Audits, examinations and investigations.—* — The Secretary may perform audits, examinations, and investigations of pooled plan providers as may be necessary to enforce and carry out the purposes of this paragraph and paragraph (43).
+
+  (C) *Guidance.—* — The Secretary shall issue such guidance as the Secretary determines appropriate to carry out this paragraph and paragraph (43), including guidance—
+
+    (i) to identify the administrative duties and other actions required to be performed by a pooled plan provider under either such paragraph; and
+
+    (ii) which requires in appropriate cases that if an employer in the plan fails to take the actions required under subparagraph (A)(i)(II)—
+
+      (I) the assets of the plan attributable to employees of such employer (or beneficiaries of such employees) are transferred to a plan maintained only by such employer (or its successor), to an eligible retirement plan as defined in [section 402(c)(8)(B) of title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section402/c/8/B&num=0&edition=prelim) for each individual whose account is transferred, or to any other arrangement that the Secretary determines is appropriate in such guidance; and
+
+      (II) such employer (and not the plan with respect to which the failure occurred or any other employer in such plan) shall, except to the extent provided in such guidance, be liable for any liabilities with respect to such plan attributable to employees of such employer (or beneficiaries of such employees).
+      The Secretary shall take into account under clause (ii) whether the failure of an employer or pooled plan provider to provide any disclosures or other information, or to take any other action, necessary to administer a plan or to allow a plan to meet requirements described in subparagraph (A)(i)(II) has continued over a period of time that demonstrates a lack of commitment to compliance. The Secretary may waive the requirements of subclause (ii)(I) in appropriate circumstances if the Secretary determines it is in the best interests of the employees of the employer referred to in such clause (and the beneficiaries of such employees) to retain the assets in the plan with respect to which the employer’s failure occurred.
+
+  (D) *Good faith compliance with law before guidance.—* — An employer or pooled plan provider shall not be treated as failing to meet a requirement of guidance issued by the Secretary under subparagraph (C) if, before the issuance of such guidance, the employer or pooled plan provider complies in good faith with a reasonable interpretation of the provisions of this paragraph, or paragraph (43), to which such guidance relates.
+
+  (E) *Aggregation rules.—* — For purposes of this paragraph, in determining whether a person meets the requirements of this paragraph to be a pooled plan provider with respect to any plan, all persons who perform services for the plan and who are treated as a single employer under subsection (b), (c), (m), or (o) of [section 414 of title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section414&num=0&edition=prelim) shall be treated as one person.
 
 ### Statutory Notes
 
 #### References in Text
-This chapter, referred to in pars. (2)(B) and (37)(E), (G)(ii), (vii), was in the original “this Act”, meaning Pub. L. 93–406, known as the Employee Retirement Income Security Act of 1974. Titles I, III, and IV of such Act are classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 1001 of this title](./chapter-018-employee-retirement-income-security-program.md#section-1001) and Tables.
+This chapter, referred to in pars. (2)(B), (37)(E), (G)(ii), (vii), (43)(B)(v)(II), and (44)(A)(i)(I), was in the original “this Act”, meaning Pub. L. 93–406, known as the Employee Retirement Income Security Act of 1974. Titles I, III, and IV of such Act are classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 1001 of this title](./chapter-018-employee-retirement-income-security-program.md#section-1001) and Tables.
 
 The Outer Continental Shelf Lands Act, referred to in par. (10), is act Aug. 7, 1953, ch. 345, 67 Stat. 462, as amended, which is classified generally to subchapter III (§ 1331 et seq.) of chapter 29 of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under [section 1301 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1301&num=0&edition=prelim) and Tables.
 
@@ -679,6 +757,14 @@ For the effective date of the Multiemployer Pension Plan Amendments Act of 1980,
 The Investment Advisers Act of 1940, referred to in par. (38)(B), is title II of act Aug. 22, 1940, ch. 686, 54 Stat. 847, as amended, which is classified generally to subchapter II (§ 80b–1 et seq.) of chapter 2D of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see [section 80b–20 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section80b–20&num=0&edition=prelim) and Tables.
 
 #### Amendments
+2019—Par. (2)(C). Pub. L. 116–94, § 101(b), added subpar. (C).
+
+Par. (16)(B)(iv). Pub. L. 116–94, § 101(c)(3)(A), added cl. (iv).
+
+Par. (41). Pub. L. 116–94, § 101(c)(3)(B), struck out second par. (41) which read as follows: “The term ‘single-employer plan’ means a plan which is not a multiemployer plan.”
+
+Pars. (43), (44). Pub. L. 116–94, § 101(c)(1), added pars. (43) and (44).
+
 2008—Par. (37)(G). Pub. L. 110–458 substituted “subparagraph” for “paragraph” in cls. (ii), (iii), and (v)(I), “clause (i)(II)” for “subclause (i)(II)” in cl. (iii), “clause” for “subparagraph” in cl. (v)(II), and “section 1021(b)(1)” for “section 1021(b)(4)” in cl. (v)(III).
 
 2007—Par. (37)(G)(i)(II)(aa). Pub. L. 110–28, § 6611(a)(1)(A), substituted “for each of the 3 plan years immediately preceding the first plan year for which the election under this paragraph is effective with respect to the plan,” for “for each of the 3 plan years immediately before August 17, 2006,”.
@@ -756,6 +842,9 @@ Par. (14). Pub. L. 96–364, § 305, inserted provisions respecting a trust desc
 Par. (33). Pub. L. 96–364, § 407(a), substituted provisions defining “church plan” as a plan established and maintained (to the extent required in cl. (ii) of subpar. (B)) for employees or beneficiaries by a church, etc., exempt from tax under [section 501 of title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section501&num=0&edition=prelim), for provisions defining “church plan” as a plan established and maintained for employees by a church, etc., exempt from tax under [section 501 of title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section501&num=0&edition=prelim), or a plan in existence on Jan. 1, 1974, established and maintained by a church, etc., for employees and employees of agencies of the church, etc.
 
 Par. (37). Pub. L. 96–364, § 302(a), substantially revised definition of term “multiemployer plan” by, among other changes, restructuring subpar. (A), resulting in elimination of provisions covering amount of contributions and payment of benefits, and subpar. (B), resulting in elimination of provisions reworking amount of contributions for subsequent plan years, and added subpars. (C) to (E).
+
+#### Effective Date of 2019 Amendment
+Amendment by Pub. L. 116–94 applicable to plan years beginning after Dec. 31, 2020, see section 101(e) of Pub. L. 116–94, set out as a note under [section 408 of Title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section408&num=0&edition=prelim), Internal Revenue Code.
 
 #### Effective Date of 2008 Amendment
 Amendment by Pub. L. 110–458 effective as if included in the provisions of Pub. L. 109–280 to which the amendment relates, except as otherwise provided, see section 112 of Pub. L. 110–458, set out as a note under [section 72 of Title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section72&num=0&edition=prelim), Internal Revenue Code.
@@ -1503,7 +1592,7 @@ Secretary authorized, effective Sept. 2, 1974, to promulgate regulations whereve
 
   (A) An annual report shall be published with respect to every employee benefit plan to which this part applies. Such report shall be filed with the Secretary in accordance with [section 1024(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1024/a&num=0&edition=prelim), and shall be made available and furnished to participants in accordance with [section 1024(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1024/b&num=0&edition=prelim).
 
-  (B) The annual report shall include the information described in subsections (b) and (c) and where applicable subsections (d), (e), and (f) and shall also include—
+  (B) The annual report shall include the information described in subsections (b) and (c) and where applicable subsections (d), (e), (f), and (g) and shall also include—
 
     (i) a financial statement and opinion, as required by paragraph (3) of this subsection, and
 
@@ -1692,11 +1781,19 @@ Such actuary shall make an actuarial valuation of the plan for every third plan 
 
   (I) In the case of a multiemployer plan that has merged with another plan or to which assets and liabilities have been transferred, the actuarial valuation of the assets and liabilities of each affected plan during the year preceding the effective date of the merger or transfer, based upon the most recent data available as of the day before the first day of the plan year, or other valuation method performed under standards and procedures as the Secretary may prescribe by regulation.
 
-**(g) Additional information with respect to multiple employer plans** With respect to any multiple employer plan, an annual report under this section for a plan year shall include a list of participating employers and a good faith estimate of the percentage of total contributions made by such participating employers during the plan year.
+**(g) Additional information with respect to pooled employer and multiple employer plans** An annual report under this section for a plan year shall include—
+
+(1) with respect to any plan to which [section 1060(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1060/a&num=0&edition=prelim) applies (including a pooled employer plan), a list of employers in the plan and a good faith estimate of the percentage of total contributions made by such employers during the plan year and the aggregate account balances attributable to each employer in the plan (determined as the sum of the account balances of the employees of such employer (and the beneficiaries of such employees)); and
+
+(2) with respect to a pooled employer plan, the identifying information for the person designated under the terms of the plan as the pooled plan provider.
 
 ### Statutory Notes
 
 #### Amendments
+2019—Subsec. (a)(1)(B). Pub. L. 116–94, § 101(d)(1)(A), substituted “applicable subsections (d), (e), (f), and (g)” for “applicable subsections (d), (e), and (f)” in introductory provisions.
+
+Subsec. (g). Pub. L. 116–94, § 101(d)(1)(B), amended subsec. (g) generally. Prior to amendment, text read as follows: “With respect to any multiple employer plan, an annual report under this section for a plan year shall include a list of participating employers and a good faith estimate of the percentage of total contributions made by such participating employers during the plan year.”
+
 2014—Subsec. (d)(8)(B). Pub. L. 113–97, § 102(b)(5), substituted “sections 1083(h), 1084(c)(3), and 1085a(c)(3) of this title” for “sections 1083(h) and 1084(c)(3) of this title”.
 
 Subsec. (g). Pub. L. 113–97, § 104(c), added subsec. (g).
@@ -1722,6 +1819,9 @@ Subsec. (f). Pub. L. 109–280, § 503(a)(1)(B), added subsec. (f).
 1986—Subsec. (d)(6). Pub. L. 99–272 amended par. (6) generally. Prior to amendment, par. (6) read as follows: “The present value of all of the plan’s liabilities for nonforfeitable pension benefits allocated by the termination priority categories as set forth in [section 1344 of this title](./chapter-018-employee-retirement-income-security-program.md#section-1344), and the actuarial assumptions used in these computations. The Secretary shall establish regulations defining (for purposes of this section) ‘termination priority categories’ and acceptable methods, including approximate methods, for allocating the plan’s liabilities to such termination priority categories.”
 
 1980—Subsec. (d)(10) to (12). Pub. L. 96–364 added par. (10) and redesignated former pars. (10) and (11) as (11) and (12), respectively.
+
+#### Effective Date of 2019 Amendment
+Amendment by Pub. L. 116–94 applicable to plan years beginning after Dec. 31, 2020, see section 101(e) of Pub. L. 116–94, set out as a note under [section 408 of Title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section408&num=0&edition=prelim), Internal Revenue Code.
 
 #### Effective Date of 2014 Amendment
 Amendment by Pub. L. 113–97 applicable to years beginning after Dec. 31, 2013, see section 3 of Pub. L. 113–97, set out as a note under [section 401 of Title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section401&num=0&edition=prelim), Internal Revenue Code.
@@ -1770,7 +1870,11 @@ Secretary of the Treasury and Secretary of Labor to take such steps as may be ne
 
 (2)
 
-  (A) With respect to annual reports required to be filed with the Secretary under this part, he may by regulation prescribe simplified annual reports for any pension plan which covers less than 100 participants.
+  (A) With respect to annual reports required to be filed with the Secretary under this part, the Secretary may by regulation prescribe simplified annual reports for any pension plan that—
+
+    (i) covers fewer than 100 participants; or
+
+    (ii) is a plan described in [section 1060(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1060/a&num=0&edition=prelim) that covers fewer than 1,000 participants, but only if no single employer in the plan has 100 or more participants covered by the plan.
 
   (B) Nothing contained in this paragraph shall preclude the Secretary from requiring any information or data from any such plan to which this part applies where he finds such data or information is necessary to carry out the purposes of this subchapter nor shall the Secretary be precluded from revoking provisions for simplified reports for any such plan if he finds it necessary to do so in order to carry out the objectives of this subchapter.
 
@@ -1855,6 +1959,8 @@ Secretary of the Treasury and Secretary of Labor to take such steps as may be ne
 ### Statutory Notes
 
 #### Amendments
+2019—Subsec. (a)(2)(A). Pub. L. 116–94 added subpar. (A) and struck out former subpar. (A) which read as follows: “With respect to annual reports required to be filed with the Secretary under this part, he may by regulation prescribe simplified annual reports for any pension plan which covers less than 100 participants.”
+
 2008—Subsec. (b)(3). Pub. L. 110–458, § 105(c)(1)(A)(ii), which directed substitution of “the administrator” for “the administrators” in par. (3), could not be executed because the words “the administrators” did not appear.
 
 Pub. L. 110–458, § 105(c)(1)(A)(i), substituted “section 1021(f)” for “section 1023(f)”.
@@ -1890,6 +1996,9 @@ Subsec. (b)(1). Pub. L. 101–239, § 7894(b)(4), struck out comma after “summ
 1987—Subsec. (b)(3). Pub. L. 100–203 inserted “(including the percentage determined under [section 1023(d)(11) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1023/d/11&num=0&edition=prelim))” after “material”.
 
 1986—Subsec. (a)(2)(A). Pub. L. 99–272 struck out provision permitting the Secretary to waive or modify the requirements of [section 1023(d)(6) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1023/d/6&num=0&edition=prelim) if he found that the interests of the plan participants were not harmed and the expense of compliance was not justified by the needs of the participants, the Pension Benefit Guaranty Corporation, and the Department of Labor for some portion or all of the information otherwise required under [section 1023(d)(6) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1023/d/6&num=0&edition=prelim).
+
+#### Effective Date of 2019 Amendment
+Amendment by Pub. L. 116–94 applicable to plan years beginning after Dec. 31, 2020, see section 101(e) of Pub. L. 116–94, set out as a note under [section 408 of Title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section408&num=0&edition=prelim), Internal Revenue Code.
 
 #### Effective Date of 2008 Amendment
 Amendment by Pub. L. 110–458 effective as if included in the provisions of Pub. L. 109–280 to which the amendment relates, except as otherwise provided, see section 112 of Pub. L. 110–458, set out as a note under [section 72 of Title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section72&num=0&edition=prelim), Internal Revenue Code.
@@ -1959,7 +2068,7 @@ For provisions requiring the Secretary of Labor to publish a model form for prov
 
   (B) *Additional information* — In the case of an individual account plan, any pension benefit statement under clause (i) or (ii) of paragraph (1)(A) shall include—
 
-    (i) the value of each investment to which assets in the individual account have been allocated, determined as of the most recent valuation date under the plan, including the value of any assets held in the form of employer securities, without regard to whether such securities were contributed by the plan sponsor or acquired at the direction of the plan or of the participant or beneficiary, and
+    (i) the value of each investment to which assets in the individual account have been allocated, determined as of the most recent valuation date under the plan, including the value of any assets held in the form of employer securities, without regard to whether such securities were contributed by the plan sponsor or acquired at the direction of the plan or of the participant or beneficiary,
 
     (ii) in the case of a pension benefit statement under paragraph (1)(A)(i)—
 
@@ -1967,13 +2076,53 @@ For provisions requiring the Secretary of Labor to publish a model form for prov
 
       (II) an explanation, written in a manner calculated to be understood by the average plan participant, of the importance, for the long-term retirement security of participants and beneficiaries, of a well-balanced and diversified investment portfolio, including a statement of the risk that holding more than 20 percent of a portfolio in the security of one entity (such as employer securities) may not be adequately diversified, and
 
-      (III) a notice directing the participant or beneficiary to the Internet website of the Department of Labor for sources of information on individual investing and diversification.
+      (III) a notice directing the participant or beneficiary to the Internet website of the Department of Labor for sources of information on individual investing and diversification, and
+
+    (iii) the lifetime income disclosure described in subparagraph (D)(i).
+    In the case of pension benefit statements described in clause (i) of paragraph (1)(A), a lifetime income disclosure under clause (iii) of this subparagraph shall be required to be included in only one pension benefit statement during any one 12-month period.
 
   (C) *Alternative notice* — The requirements of subparagraph (A)(i)(II) are met if, at least annually and in accordance with requirements of the Secretary, the plan—
 
     (i) updates the information described in such paragraph which is provided in the pension benefit statement, or
 
     (ii) provides in a separate statement such information as is necessary to enable a participant or beneficiary to determine their nonforfeitable vested benefits.
+
+  (D) *Lifetime income disclosure*
+
+    (i) *In general*
+
+      (I) *Disclosure* — A lifetime income disclosure shall set forth the lifetime income stream equivalent of the total benefits accrued with respect to the participant or beneficiary.
+
+      (II) *Lifetime income stream equivalent of the total benefits accrued* — For purposes of this subparagraph, the term “lifetime income stream equivalent of the total benefits accrued” means the amount of monthly payments the participant or beneficiary would receive if the total accrued benefits of such participant or beneficiary were used to provide lifetime income streams described in subclause (III), based on assumptions specified in rules prescribed by the Secretary.
+
+      (III) *Lifetime income streams* — The lifetime income streams described in this subclause are a qualified joint and survivor annuity (as defined in [section 1055(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1055/d&num=0&edition=prelim)), based on assumptions specified in rules prescribed by the Secretary, including the assumption that the participant or beneficiary has a spouse of equal age, and a single life annuity. Such lifetime income streams may have a term certain or other features to the extent permitted under rules prescribed by the Secretary.
+
+    (ii) *Model disclosure* — Not later than 1 year after December 20, 2019, the Secretary shall issue a model lifetime income disclosure, written in a manner so as to be understood by the average plan participant, which—
+
+      (I) explains that the lifetime income stream equivalent is only provided as an illustration;
+
+      (II) explains that the actual payments under the lifetime income stream described in clause (i)(III) which may be purchased with the total benefits accrued will depend on numerous factors and may vary substantially from the lifetime income stream equivalent in the disclosures;
+
+      (III) explains the assumptions upon which the lifetime income stream equivalent was determined; and
+
+      (IV) provides such other similar explanations as the Secretary considers appropriate.
+
+    (iii) *Assumptions and rules* — Not later than 1 year after December 20, 2019, the Secretary shall—
+
+      (I) prescribe assumptions which administrators of individual account plans may use in converting total accrued benefits into lifetime income stream equivalents for purposes of this subparagraph; and
+
+      (II) issue interim final rules under clause (i).
+    In prescribing assumptions under subclause (I), the Secretary may prescribe a single set of specific assumptions (in which case the Secretary may issue tables or factors which facilitate such conversions), or ranges of permissible assumptions. To the extent that an accrued benefit is or may be invested in a lifetime income stream described in clause (i)(III), the assumptions prescribed under subclause (I) shall, to the extent appropriate, permit administrators of individual account plans to use the amounts payable under such lifetime income stream as a lifetime income stream equivalent.
+
+    (iv) *Limitation on liability* — No plan fiduciary, plan sponsor, or other person shall have any liability under this subchapter solely by reason of the provision of lifetime income stream equivalents which are derived in accordance with the assumptions and rules described in clause (iii) and which include the explanations contained in the model lifetime income disclosure described in clause (ii). This clause shall apply without regard to whether the provision of such lifetime income stream equivalent is required by subparagraph (B)(iii).
+
+    (v) *Effective date* — The requirement in subparagraph (B)(iii) shall apply to pension benefit statements furnished more than 12 months after the latest of the issuance by the Secretary of—
+
+      (I) interim final rules under clause (i);
+
+      (II) the model disclosure under clause (ii); or
+
+      (III) the assumptions under clause (iii).
 
 (3) **Defined benefit plans**
 
@@ -1988,6 +2137,10 @@ For provisions requiring the Secretary of Labor to publish a model form for prov
 ### Statutory Notes
 
 #### Amendments
+2019—Subsec. (a)(2)(B). Pub. L. 116–94, § 203(a), added cl. (iii) and concluding provisions.
+
+Subsec. (a)(2)(D). Pub. L. 116–94, § 203(b), added subpar. (D).
+
 2006—Subsec. (a). Pub. L. 109–280, § 508(a)(1), amended heading and text of subsec. (a) generally. Prior to amendment, text read as follows: “Each administrator of an employee pension benefit plan shall furnish to any plan participant or beneficiary who so requests in writing, a statement indicating, on the basis of the latest available information—
 
 “(1) the total benefits accrued, and
@@ -4452,7 +4605,7 @@ Secretary authorized, effective Sept. 2, 1974, to promulgate regulations whereve
 
     (iii) paragraph (3)(B);
 
-  (B) that, as of June 25, 2010, was maintained by more than one employer and all of the employers were organizations described in [section 501(c)(3) of title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section501/c/3&num=0&edition=prelim); or
+  (B) that, as of June 25, 2010, was maintained by more than one employer and all of the employers were organizations described in [section 501(c)(3) of title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section501/c/3&num=0&edition=prelim);
 
   (C) that, as of June 25, 2010, was maintained by an employer—
 
@@ -4462,7 +4615,17 @@ Secretary authorized, effective Sept. 2, 1974, to promulgate regulations whereve
 
     (iii) with employees in at least 40 States, and
 
-    (iv) whose primary exempt purpose is to provide services with respect to children.
+    (iv) whose primary exempt purpose is to provide services with respect to children; or
+
+  (D) that, as of January 1, 2000, was maintained by an employer—
+
+    (i) described in [section 501(c)(3) of title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section501/c/3&num=0&edition=prelim),
+
+    (ii) who has been in existence since at least 1938,
+
+    (iii) who conducts medical research directly or indirectly through grant making, and
+
+    (iv) whose primary exempt purpose is to provide services with respect to mothers and children.
 
 (2) **Aggregation** — All employers that are treated as a single employer under subsection (b) or (c) of [section 414 of title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section414&num=0&edition=prelim) shall be treated as a single employer for purposes of determining if a plan was maintained by more than one employer under subparagraph 22 So in original. Probably should be “subparagraphs”. (B) and (C) of paragraph (1).
 
@@ -4482,6 +4645,8 @@ Section 104 of the Pension Protection Act of 2006, referred to in subsec. (f)(1)
 The Preservation of Access to Care for Medicare Beneficiaries and Pension Relief Act of 2010, referred to in subsec. (f)(3)(B), is Pub. L. 111–192, June 25, 2010, 124 Stat. 1280. For complete classification of this Act to the Code, see Short Title of 2010 Amendment note set out under [section 1001 of this title](./chapter-018-employee-retirement-income-security-program.md#section-1001) and Tables.
 
 #### Amendments
+2020—Subsec. (f)(1)(D). Pub. L. 116–136 added subpar. (D).
+
 2014—Subsec. (f). Pub. L. 113–97, § 101, added subsec. (f).
 
 Subsec. (f)(1)(C). Pub. L. 113–235, § 3(a)(1), added subpar. (C).
@@ -4501,6 +4666,9 @@ Subsec. (e). Pub. L. 109–280, § 903(b)(1), added subsec. (e).
 1989—Subsec. (c). Pub. L. 101–239, § 7894(c)(10), substituted “and (e)(3)(C) of such Code” for “and (e)(3)(C) of such code”, which for purposes of codification was translated as “and (e)(3)(C) of title 26” thus requiring no change in text.
 
 Pub. L. 101–239, § 7891(a)(1), substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
+
+#### Effective Date of 2020 Amendment
+Amendment by Pub. L. 116–136 applicable to plan years beginning after Dec. 31, 2018, see section 3609(c) of Pub. L. 116–136, set out as a note under [section 414 of Title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section414&num=0&edition=prelim), Internal Revenue Code.
 
 #### Effective Date of 2014 Amendment
 Amendments by Pub. L. 113–235 effective as if included in the amendments made by the Cooperative and Small Employer Charity Pension Flexibility Act, Pub. L. 113–97, see section 3(c) of Pub. L. 113–235, set out as a note under [section 414 of Title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section414&num=0&edition=prelim), Internal Revenue Code.
@@ -5187,7 +5355,7 @@ For applicability of amendment by section 202(d) of Pub. L. 109–280 to a multi
 
 (5) **Election to reduce balance prior to determinations of value of plan assets and crediting against minimum required contribution**
 
-  (A) *In general* — The plan sponsor may elect to reduce by any amount the balance of the prefunding balance and the funding standard carryover balance for any plan year (but not below zero). Such reduction shall be effective prior to any determination of the value of plan assets for such plan year under this section and application of the balance in reducing the minimum required contribution for such plan for such plan year pursuant to an election under paragraph (2).
+  (A) *In general* — The plan sponsor may elect to reduce by any amount the balance of the prefunding balance and the funding standard carryover balance for any plan year (but not below zero). Such reduction shall be effective prior to any determination of the value of plan assets for such plan year under this section and application of the balance in reducing the minimum required contribution for such plan for such plan year pursuant to an election under paragraph (2).22 So in original. Probably should be “paragraph (3).”
 
   (B) *Coordination between prefunding balance and funding standard carryover balance* — To the extent that any plan has a funding standard carryover balance greater than zero, no election may be made under subparagraph (A) with respect to the prefunding balance.
 
@@ -5315,7 +5483,7 @@ For applicability of amendment by section 202(d) of Pub. L. 109–280 to a multi
 
   (E) *Applicable month* — For purposes of this paragraph, the term “applicable month” means, with respect to any plan for any plan year, the month which includes the valuation date of such plan for such plan year or, at the election of the plan sponsor, any of the 4 months which precede such month. Any election made under this subparagraph shall apply to the plan year for which the election is made and all succeeding plan years, unless the election is revoked with the consent of the Secretary of the Treasury.
 
-  (F) *Publication requirements* — The Secretary of the Treasury shall publish for each month the corporate bond yield curve (and the corporate bond yield curve reflecting the modification described in section 1055(g)(3)(B)(iii)(I) 22 See References in Text note below. of this title for such month) and each of the rates determined under subparagraph (C) and the averages determined under subparagraph (C)(iv) for such month. The Secretary of the Treasury shall also publish a description of the methodology used to determine such yield curve and such rates which is sufficiently detailed to enable plans to make reasonable projections regarding the yield curve and such rates for future months based on the plan’s projection of future interest rates.
+  (F) *Publication requirements* — The Secretary of the Treasury shall publish for each month the corporate bond yield curve (and the corporate bond yield curve reflecting the modification described in section 1055(g)(3)(B)(iii)(I) 33 See References in Text note below. of this title for such month) and each of the rates determined under subparagraph (C) and the averages determined under subparagraph (C)(iv) for such month. The Secretary of the Treasury shall also publish a description of the methodology used to determine such yield curve and such rates which is sufficiently detailed to enable plans to make reasonable projections regarding the yield curve and such rates for future months based on the plan’s projection of future interest rates.
 
 (3) **Mortality tables**
 
@@ -5505,7 +5673,7 @@ For applicability of amendment by section 202(d) of Pub. L. 109–280 to a multi
       (I) 90 percent of the minimum required contribution (determined without regard to this subsection) to the plan for the plan year under this section, or
 
       (II) 100 percent of the minimum required contribution (determined without regard to this subsection or to any waiver under [section 1082(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1082/c&num=0&edition=prelim)) to the plan for the preceding plan year.
-    Subclause (II) shall not apply if the preceding plan year referred to in such clause was not a year of 12 months.
+    Subclause (II) shall not apply if the preceding plan year referred to in such clause 44 So in original. Probably should be “subclause”. was not a year of 12 months.
 
   (E) *Fiscal years, short years, and years with alternate valuation date*
 
@@ -5578,7 +5746,7 @@ For applicability of amendment by section 202(d) of Pub. L. 109–280 to a multi
 
   (B) *Period of lien* — The lien imposed by paragraph (1) shall arise on the due date for the required contribution payment and shall continue until the last day of the first plan year in which the plan ceases to be described in paragraph (1)(B). Such lien shall continue to run without regard to whether such plan continues to be described in paragraph (2) during the period referred to in the preceding sentence.
 
-  (C) *Certain rules to apply* — Any amount with respect to which a lien is imposed under paragraph (1) shall be treated as taxes due and owing the United States and rules similar to the rules of subsections (c), (d), and (e) of [section 1368 of this title](./chapter-018-employee-retirement-income-security-program.md#section-1368) shall apply with respect to a lien imposed by subsection (a) and the amount with respect to such lien.
+  (C) *Certain rules to apply* — Any amount with respect to which a lien is imposed under paragraph (1) shall be treated as taxes due and owing the United States and rules similar to the rules of subsections (c), (d), and (e) of [section 1368 of this title](./chapter-018-employee-retirement-income-security-program.md#section-1368) shall apply with respect to a lien imposed by subsection (a) 55 So in original. Probably should be “paragraph (1)”. and the amount with respect to such lien.
 
 (5) **Enforcement** — Any lien created under paragraph (1) may be perfected and enforced only by the Pension Benefit Guaranty Corporation, or at the direction of the Pension Benefit Guaranty Corporation, by the contributing sponsor (or any member of the controlled group of the contributing sponsor).
 
@@ -5591,6 +5759,70 @@ For applicability of amendment by section 202(d) of Pub. L. 109–280 to a multi
   (C) *Controlled group* — The term “controlled group” means any group treated as a single employer under subsections (b), (c), (m), and (o) of [section 414 of title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section414&num=0&edition=prelim).
 
 **(l) Qualified transfers to health benefit accounts** In the case of a qualified transfer (as defined in [section 420 of title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section420&num=0&edition=prelim)), any assets so transferred shall not, for purposes of this section, be treated as assets in the plan.
+
+**(m) Special rules for community newspaper plans**
+
+(1) **In general** — The plan sponsor of a community newspaper plan under which no participant has had the participant’s accrued benefit increased (whether because of service or compensation) after December 31, 2017, may elect to have the alternative standards described in paragraph (3) apply to such plan, and any plan sponsored by any member of the same controlled group.
+
+(2) **Election** — An election under paragraph (1) shall be made at such time and in such manner as prescribed by the Secretary of the Treasury. Such election, once made with respect to a plan year, shall apply to all subsequent plan years unless revoked with the consent of the Secretary of the Treasury.
+
+(3) **Alternative minimum funding standards** — The alternative standards described in this paragraph are the following:
+
+  (A) *Interest rates*
+
+    (i) *In general* — Notwithstanding subsection (h)(2)(C) and except as provided in clause (ii), the first, second, and third segment rates in effect for any month for purposes of this section shall be 8 percent.
+
+    (ii) *New benefit accruals* — Notwithstanding subsection (h)(2), for purposes of determining the funding target and normal cost of a plan for any plan year, the present value of any benefits accrued or earned under the plan for a plan year with respect to which an election under paragraph (1) is in effect shall be determined on the basis of the United States Treasury obligation yield curve for the day that is the valuation date of such plan for such plan year.
+
+    (iii) *United States Treasury obligation yield curve* — For purposes of this subsection, the term “United States Treasury obligation yield curve” means, with respect to any day, a yield curve which shall be prescribed by the Secretary of the Treasury for such day on interest-bearing obligations of the United States.
+
+  (B) *Shortfall amortization base*
+
+    (i) *Previous shortfall amortization bases* — The shortfall amortization bases determined under subsection (c)(3) for all plan years preceding the first plan year to which the election under paragraph (1) applies (and all shortfall amortization installments determined with respect to such bases) shall be reduced to zero under rules similar to the rules of subsection (c)(6).
+
+    (ii) *New shortfall amortization base* — Notwithstanding subsection (c)(3), the shortfall amortization base for the first plan year to which the election under paragraph (1) applies shall be the funding shortfall of such plan for such plan year (determined using the interest rates as modified under subparagraph (A)).
+
+  (C) *Determination of shortfall amortization installments*
+
+    (i) *30-year period* — Subparagraphs (A) and (B) of subsection (c)(2) shall be applied by substituting “30-plan-year” for “7-plan-year” each place it appears.
+
+    (ii) *No special election* — The election under subparagraph (D) of subsection (c)(2) shall not apply to any plan year to which the election under paragraph (1) applies.
+
+  (D) *Exemption from at-risk treatment* — Subsection (i) shall not apply.
+
+(4) **Community newspaper plan** — For purposes of this subsection—
+
+  (A) *In general* — The term “community newspaper plan” means a plan to which this section applies maintained by an employer which, as of December 31, 2017—
+
+    (i) publishes and distributes daily, either electronically or in printed form—
+
+      (I) a community newspaper, or
+
+      (II) 1 or more community newspapers in the same State,
+
+    (ii) is not a company the stock of which is publicly traded (on a stock exchange or in an over-the-counter market), and is not controlled, directly or indirectly, by such a company,
+
+    (iii) is controlled, directly or indirectly—
+
+      (I) by 1 or more persons residing primarily in the State in which the community newspaper is published,
+
+      (II) for not less than 30 years by individuals who are members of the same family,
+
+      (III) by a trust created or organized in the State in which the community newspaper is published, the sole trustees of which are persons described in subclause (I) or (II),
+
+      (IV) by an entity which is described in [section 501(c)(3) of title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section501/c/3&num=0&edition=prelim) and exempt from taxation under [section 501(a) of title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section501/a&num=0&edition=prelim), which is organized and operated in the State in which the community newspaper is published, and the primary purpose of which is to benefit communities in such State, or
+
+      (V) by a combination of persons described in subclause (I), (III), or (IV), and
+
+    (iv) does not control, directly or indirectly, any newspaper in any other State.
+
+  (B) *Community newspaper* — The term “community newspaper” means a newspaper which primarily serves a metropolitan statistical area, as determined by the Office of Management and Budget, with a population of not less than 100,000.
+
+  (C) *Control* — A person shall be treated as controlled by another person if such other person possesses, directly or indirectly, the power to direct or cause the direction and management of such person (including the power to elect a majority of the members of the board of directors of such person) through the ownership of voting securities.
+
+(5) **Controlled group** — For purposes of this subsection, the term “controlled group” means all persons treated as a single employer under subsection (b), (c), (m), or (o) of [section 414 of title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section414&num=0&edition=prelim) as of December 20, 2019.
+
+(6) **Effect on premium rate calculation** — Notwithstanding any other provision of law or any regulation issued by the Pension Benefit Guaranty Corporation, in the case of a plan for which an election is made to apply the alternative standards described in paragraph (3), the additional premium under [section 1306(a)(3)(E) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1306/a/3/E&num=0&edition=prelim) shall be determined as if such election had not been made.
 
 ### Statutory Notes
 
@@ -5605,6 +5837,8 @@ The Social Security Act, referred to in subsec. (h)(3)(D)(ii), is act Aug. 14, 1
 A prior section 1083, Pub. L. 93–406, title I, § 303, Sept. 2, 1974, 88 Stat. 872; Pub. L. 99–272, title XI, §§ 11015(b)(1)(A), 11016(c)(2), Apr. 7, 1986, 100 Stat. 267, 273; Pub. L. 100–203, title IX, § 9306(a)(2), (b)(2), (c)(2)(A), (d)(2), Dec. 22, 1987, 101 Stat. 1330–353 to 1330–355; Pub. L. 101–239, title VII, §§ 7881(b)(6)(B)(ii), (7), (8), (c)(2), 7891(a)(1), Dec. 19, 1989, 103 Stat. 2438, 2439, 2445, related to variance from minimum funding standard, prior to repeal by Pub. L. 109–280, title I, § 101(a), (d), Aug. 17, 2006, 120 Stat. 784, 789, applicable to plan years beginning after 2007.
 
 #### Amendments
+2019—Subsec. (m). Pub. L. 116–94 added subsec. (m).
+
 2015—Subsec. (h)(2)(C)(iv)(II). Pub. L. 114–74 amended table generally. Prior to amendment, table related to applicable minimum and maximum percentages for each calendar year from 2012 to 2020 and for calendar years after 2020.
 
 2014—Subsec. (c)(5). Pub. L. 113–295, § 221(a)(57)(C)(ii), struck out subpar. (A) designation and heading and struck out subpar. (B) which related to transition rule and availability of transition relief.
@@ -5658,6 +5892,9 @@ Subsec. (j)(3)(A). Pub. L. 110–458, § 101(b)(1)(G)(i), inserted last sentence
 Subsec. (j)(3)(E). Pub. L. 110–458, § 101(b)(1)(G)(ii), (iii), substituted “, short years, and years with alternate valuation date” for “and short years” in heading and added cl. (iii).
 
 Subsec. (k)(6)(B). Pub. L. 110–458, § 101(b)(1)(H), struck out “, except that in the case of a payment other than a required installment, the due date shall be the date such payment is required to be made under this section” after “subsection (j)”.
+
+#### Effective Date of 2019 Amendment
+Amendment by Pub. L. 116–94 applicable to plan years ending after Dec. 31, 2017, see section 115(c) of Pub. L. 116–94, set out as a note under [section 430 of Title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section430&num=0&edition=prelim), Internal Revenue Code.
 
 #### Effective Date of 2015 Amendment
 Amendment by Pub. L. 114–74 applicable with respect to plan years beginning after Dec. 31, 2015, see section 504(c) of Pub. L. 114–74, set out as a note under [section 430 of Title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section430&num=0&edition=prelim), Internal Revenue Code.
@@ -6217,7 +6454,7 @@ For applicability of this section to a multiemployer plan that is a party to an 
 
     (i) paragraphs (3)(B) and (4)(B) shall apply only if the plan’s actuary certifies, within 30 days after the certification under subsection (b)(3)(A) for the initial determination year, that, based on the terms of the plan and the collective bargaining agreements in effect at the time of such certification, the plan is not projected to meet the requirements of paragraph (3)(A) (without regard to paragraphs (3)(B) and (4)(B)), and
 
-    (ii) if there is a certification under clause (i), the plan may, in formulating its funding improvement plan, only take into account the rules of paragraph (3)(B) and (4)(B) for plan years in the funding improvement period beginning on or before the date on which the last of the collective bargaining agreements described in paragraph (4)(A)(ii) expires.
+    (ii) if there is a certification under clause (i), the plan may, in formulating its funding improvement plan, only take into account the rules of paragraph 44 So in original. Probably should be “paragraphs”. (3)(B) and (4)(B) for plan years in the funding improvement period beginning on or before the date on which the last of the collective bargaining agreements described in paragraph (4)(A)(ii) expires.
 
   (B) *Special rule after expiration of agreements* — Notwithstanding subparagraph (A)(ii), if, for any plan year ending after the date described in subparagraph (A)(ii), the plan actuary certifies (at the time of the annual certification under subsection (b)(3)(A) for such plan year) that, based on the terms of the plan and collective bargaining agreements in effect at the time of that annual certification, the plan is not projected to be able to meet the requirements of paragraph (3)(A) (without regard to paragraphs (3)(B) and (4)(B)), paragraphs (3)(B) and (4)(B) shall continue to apply for such year.
 
@@ -6319,7 +6556,7 @@ For applicability of this section to a multiemployer plan that is a party to an 
       (II) after receiving one or more updated schedules from the plan sponsor under subparagraph (B)(ii), the bargaining parties with respect to such agreement fail to adopt a contribution schedule with terms consistent with the updated rehabilitation plan and a schedule from the plan sponsor,
     then the contribution schedule applicable under the expired collective bargaining agreement, as updated and in effect on the date the collective bargaining agreement expires, shall be implemented by the plan sponsor beginning on the date specified in clause (iii).
 
-    (iii) *Date of implementation* — The date specified in this subparagraph is the date which is 180 days after the date on which the collective bargaining agreement described in clause (i) or (ii) expires.
+    (iii) *Date of implementation* — The date specified in this subparagraph 55 So in original. Probably should be “clause”. is the date which is 180 days after the date on which the collective bargaining agreement described in clause (i) or (ii) expires.
 
     (iv) *Failure to make scheduled contributions* — Any failure to make a contribution under a schedule of contribution rates provided under this subsection shall be treated as a delinquent contribution under [section 1145 of this title](./chapter-018-employee-retirement-income-security-program.md#section-1145) and shall be enforceable as such.
 
@@ -6329,7 +6566,7 @@ For applicability of this section to a multiemployer plan that is a party to an 
 
     (i) the second anniversary of the date of the adoption of the rehabilitation plan, or
 
-    (ii) the expiration of the collective bargaining agreements in effect on the due date for the actuarial certification of critical status for the initial critical year under subsection (a)(1) and covering, as of such date at least 75 percent of the active participants in such multiemployer plan.
+    (ii) the expiration of the collective bargaining agreements in effect on the due date for the actuarial certification of critical status for the initial critical year under subsection (a)(1) and covering, as of such date 66 So in original. Probably should be followed by a comma. at least 75 percent of the active participants in such multiemployer plan.
     If a plan emerges from critical status as provided under subparagraph (B) before the end of such 10-year period, the rehabilitation period shall end with the plan year preceding the plan year for which the determination under subparagraph (B) is made.
 
   (B) *Emergence*
@@ -6701,7 +6938,7 @@ For applicability of this section to a multiemployer plan that is a party to an 
 
 **(g) Adjustments disregarded in withdrawal liability determination**
 
-(1) **Benefit reduction** — Any benefit reductions under subsection (e)(8) or (f) or benefit reductions or suspensions while in critical and declining status under subsection (e)(9)),44 So in original. There is no opening parenthesis corresponding to the second closing parenthesis. unless the withdrawal occurs more than ten years after the effective date of a benefit suspension by a plan in critical and declining status, shall be disregarded in determining a plan’s unfunded vested benefits for purposes of determining an employer’s withdrawal liability under [section 1381 of this title](./chapter-018-employee-retirement-income-security-program.md#section-1381).
+(1) **Benefit reduction** — Any benefit reductions under subsection (e)(8) or (f) or benefit reductions or suspensions while in critical and declining status under subsection (e)(9)),77 So in original. There is no opening parenthesis corresponding to the second closing parenthesis. unless the withdrawal occurs more than ten years after the effective date of a benefit suspension by a plan in critical and declining status, shall be disregarded in determining a plan’s unfunded vested benefits for purposes of determining an employer’s withdrawal liability under [section 1381 of this title](./chapter-018-employee-retirement-income-security-program.md#section-1381).
 
 (2) **Surcharges** — Any surcharges under subsection (e)(7) shall be disregarded in determining the allocation of unfunded vested benefits to an employer under [section 1391 of this title](./chapter-018-employee-retirement-income-security-program.md#section-1391) and in determining the highest contribution rate under [section 1399(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1399/c&num=0&edition=prelim), except for purposes of determining the unfunded vested benefits attributable to an employer under [section 1391(c)(4) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1391/c/4&num=0&edition=prelim) or a comparable method approved under [section 1391(c)(5) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1391/c/5&num=0&edition=prelim).
 
@@ -7184,7 +7421,7 @@ For applicability of this section to a multiemployer plan that is a party to an 
 
   (B) *Period of lien* — The lien imposed by paragraph (1) shall arise on the due date for the required installment or other payment and shall continue until the last day of the first plan year in which the plan ceases to be described in paragraph (1)(B). Such lien shall continue to run without regard to whether such plan continues to be described in paragraph (2) during the period referred to in the preceding sentence.
 
-  (C) *Certain rules to apply* — Any amount with respect to which a lien is imposed under paragraph (1) shall be treated as taxes due and owing the United States and rules similar to the rules of subsections (c), (d), and (e) of [section 1368 of this title](./chapter-018-employee-retirement-income-security-program.md#section-1368) shall apply with respect to a lien imposed by subsection (a) and the amount with respect to such lien.
+  (C) *Certain rules to apply* — Any amount with respect to which a lien is imposed under paragraph (1) shall be treated as taxes due and owing the United States and rules similar to the rules of subsections (c), (d), and (e) of [section 1368 of this title](./chapter-018-employee-retirement-income-security-program.md#section-1368) shall apply with respect to a lien imposed by subsection (a) 11 So in original. Probably should be “paragraph (1)”. and the amount with respect to such lien.
 
 (5) **Enforcement** — Any lien created under paragraph (1) may be perfected and enforced only by the Pension Benefit Guaranty Corporation, or at the direction of the Pension Benefit Guaranty Corporation, by any contributing employer (or any member of the controlled group of the contributing employer).
 
@@ -7464,7 +7701,7 @@ For provisions directing that if any amendments made by subtitle D [§§ 1401–
 
 **(c) Assets of plan not to inure to benefit of employer; allowable purposes of holding plan assets**
 
-(1) Except as provided in paragraph (2), (3), or (4) or subsection (d), or under sections 1342 and 1344 of this title (relating to termination of insured plans), or under [section 420 of title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section420&num=0&edition=prelim) (as in effect on July 31, 2015), the assets of a plan shall never inure to the benefit of any employer and shall be held for the exclusive purposes of providing benefits to participants in the plan and their beneficiaries and defraying reasonable expenses of administering the plan.
+(1) Except as provided in paragraph (2), (3), or (4) 11 See References in Text note below. or subsection (d), or under sections 1342 and 1344 of this title (relating to termination of insured plans), or under [section 420 of title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section420&num=0&edition=prelim) (as in effect on July 31, 2015), the assets of a plan shall never inure to the benefit of any employer and shall be held for the exclusive purposes of providing benefits to participants in the plan and their beneficiaries and defraying reasonable expenses of administering the plan.
 
 (2)
 
@@ -7490,6 +7727,8 @@ For provisions directing that if any amendments made by subtitle D [§§ 1401–
 
 #### References in Text
 This chapter, referred to in subsecs. (a)(1) and (b)(4), (6), was in the original “this Act”, meaning Pub. L. 93–406, known as the Employee Retirement Income Security Act of 1974. Titles I, III, and IV of such Act are classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 1001 of this title](./chapter-018-employee-retirement-income-security-program.md#section-1001) and Tables.
+
+Paragraph (2), (3), or (4), referred to in subsec. (c)(1), probably should be a reference only to par. (2) or (3) of subsec. (c), as par. (3) was struck out, and par. (4) was redesignated as (3), by Pub. L. 101–239, title VII, § 7881(k), Dec. 19, 1989, 103 Stat. 2443.
 
 #### Amendments
 2015—Subsec. (c)(1). Pub. L. 114–41 substituted “July 31, 2015” for “July 6, 2012”. Amendment was executed to reflect the probable intent of Congress notwithstanding an extra closing quotation mark in the directory language.
@@ -7671,12 +7910,75 @@ For special rules on applicability of amendments by subtitles A (§§ 101–108)
 
   (B) any reference in this subsection to title 26 shall be a reference to title 26 as in effect immediately after the enactment of the Omnibus Budget Reconciliation Act of 1990.
 
+**(e) Safe harbor for annuity selection**
+
+(1) **In general** — With respect to the selection of an insurer for a guaranteed retirement income contract, the requirements of subsection (a)(1)(B) will be deemed to be satisfied if a fiduciary—
+
+  (A) engages in an objective, thorough, and analytical search for the purpose of identifying insurers from which to purchase such contracts;
+
+  (B) with respect to each insurer identified under subparagraph (A)—
+
+    (i) considers the financial capability of such insurer to satisfy its obligations under the guaranteed retirement income contract; and
+
+    (ii) considers the cost (including fees and commissions) of the guaranteed retirement income contract offered by the insurer in relation to the benefits and product features of the contract and administrative services to be provided under such contract; and
+
+  (C) on the basis of such consideration, concludes that—
+
+    (i) at the time of the selection, the insurer is financially capable of satisfying its obligations under the guaranteed retirement income contract; and
+
+    (ii) the relative cost of the selected guaranteed retirement income contract as described in subparagraph (B)(ii) is reasonable.
+
+(2) **Financial capability of the insurer** — A fiduciary will be deemed to satisfy the requirements of paragraphs (1)(B)(i) and (1)(C)(i) if—
+
+  (A) the fiduciary obtains written representations from the insurer that—
+
+    (i) the insurer is licensed to offer guaranteed retirement income contracts;
+
+    (ii) the insurer, at the time of selection and for each of the immediately preceding 7 plan years—
+
+      (I) operates under a certificate of authority from the insurance commissioner of its domiciliary State which has not been revoked or suspended;
+
+      (II) has filed audited financial statements in accordance with the laws of its domiciliary State under applicable statutory accounting principles;
+
+      (III) maintains (and has maintained) reserves which satisfies all the statutory requirements of all States where the insurer does business; and
+
+      (IV) is not operating under an order of supervision, rehabilitation, or liquidation;
+
+    (iii) the insurer undergoes, at least every 5 years, a financial examination (within the meaning of the law of its domiciliary State) by the insurance commissioner of the domiciliary State (or representative, designee, or other party approved by such commissioner); and
+
+    (iv) the insurer will notify the fiduciary of any change in circumstances occurring after the provision of the representations in clauses (i), (ii), and (iii) which would preclude the insurer from making such representations at the time of issuance of the guaranteed retirement income contract; and
+
+  (B) after receiving such representations and as of the time of selection, the fiduciary has not received any notice described in subparagraph (A)(iv) and is in possession of no other information which would cause the fiduciary to question the representations provided.
+
+(3) **No requirement to select lowest cost** — Nothing in this subsection shall be construed to require a fiduciary to select the lowest cost contract. A fiduciary may consider the value of a contract, including features and benefits of the contract and attributes of the insurer (including, without limitation, the insurer’s financial strength) in conjunction with the cost of the contract.
+
+(4) **Time of selection**
+
+  (A) *In general* — For purposes of this subsection, the time of selection is—
+
+    (i) the time that the insurer and the contract are selected for distribution of benefits to a specific participant or beneficiary; or
+
+    (ii) if the fiduciary periodically reviews the continuing appropriateness of the conclusion described in paragraph (1)(C) with respect to a selected insurer, taking into account the considerations described in such paragraph, the time that the insurer and the contract are selected to provide benefits at future dates to participants or beneficiaries under the plan.
+    Nothing in the preceding sentence shall be construed to require the fiduciary to review the appropriateness of a selection after the purchase of a contract for a participant or beneficiary.
+
+  (B) *Periodic review* — A fiduciary will be deemed to have conducted the periodic review described in subparagraph (A)(ii) if the fiduciary obtains the written representations described in clauses (i), (ii), and (iii) of paragraph (2)(A) from the insurer on an annual basis, unless the fiduciary receives any notice described in paragraph (2)(A)(iv) or otherwise becomes aware of facts that would cause the fiduciary to question such representations.
+
+(5) **Limited liability** — A fiduciary which satisfies the requirements of this subsection shall not be liable following the distribution of any benefit, or the investment by or on behalf of a participant or beneficiary pursuant to the selected guaranteed retirement income contract, for any losses that may result to the participant or beneficiary due to an insurer’s inability to satisfy its financial obligations under the terms of such contract.
+
+(6) **Definitions** — For purposes of this subsection—
+
+  (A) *Insurer* — The term “insurer” means an insurance company, insurance service, or insurance organization, including affiliates of such companies.
+
+  (B) *Guaranteed retirement income contract* — The term “guaranteed retirement income contract” means an annuity contract for a fixed term or a contract (or provision or feature thereof) which provides guaranteed benefits annually (or more frequently) for at least the remainder of the life of the participant or the joint lives of the participant and the participant’s designated beneficiary as part of an individual account plan.
+
 ### Statutory Notes
 
 #### References in Text
 The enactment of the Omnibus Budget Reconciliation Act of 1990, referred to in subsec. (d)(2)(B), is the enactment of Pub. L. 101–508, which was approved Nov. 5, 1990.
 
 #### Amendments
+2019—Subsec. (e). Pub. L. 116–94 added subsec. (e).
+
 2008—Subsec. (c)(5). Pub. L. 110–458 substituted “participant or beneficiary” for “participant” wherever appearing.
 
 2006—Subsec. (c)(1). Pub. L. 109–280, § 621(a)(1), designated existing provisions as subpar. (A), redesignated former subpars. (A) and (B) as cls. (i) and (ii), respectively, of subpar. (A), in cl. (ii), inserted “, except that this clause shall not apply in connection with such participant or beneficiary for any blackout period during which the ability of such participant or beneficiary to direct the investment of the assets in his or her account is suspended by a plan sponsor or fiduciary” before period at end, and added subpars. (B) and (C).
@@ -7831,7 +8133,7 @@ For provisions directing that if any amendments made by subtitle D [§§ 1401–
 
     (ii) the fair market value of the assets of the plan determined on January 1, 1975.
 
-  (B) Subparagraph (A) of this paragraph shall not apply to any plan which on any date after December 31, 1974; and before January 1, 1985, did not hold employer securities or employer real property (or both) the aggregate fair market value of which determined on such date exceeded 10 percent of the greater of
+  (B) Subparagraph (A) of this paragraph shall not apply to any plan which on any date after December 31, 1974; and before January 1, 1985, did not hold employer securities or employer real property (or both) the aggregate fair market value of which determined on such date exceeded 10 percent of the greater of 11 So in original. Probably should be followed by a dash.
 
     (i) the fair market value of the assets of the plan, determined on such date, or
 
@@ -8042,7 +8344,125 @@ Before granting an exemption under this subsection from section 1106(a) or 1107(
 
 (1) Any loans made by the plan to parties in interest who are participants or beneficiaries of the plan if such loans (A) are available to all such participants and beneficiaries on a reasonably equivalent basis, (B) are not made available to highly compensated employees (within the meaning of [section 414(q) of title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section414/q&num=0&edition=prelim)) in an amount greater than the amount made available to other employees, (C) are made in accordance with specific provisions regarding such loans set forth in the plan, (D) bear a reasonable rate of interest, and (E) are adequately secured. A loan made by a plan shall not fail to meet the requirements of the preceding sentence by reason of a loan repayment suspension described under [section 414(u)(4) of title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section414/u/4&num=0&edition=prelim).
 
-(2) Contracting or making reasonable arrangements with a party in interest for office space, or legal, accounting, or other services necessary for the establishment or operation of the plan, if no more than reasonable compensation is paid therefor.
+(2)
+
+  (A) Contracting or making reasonable arrangements with a party in interest for office space, or legal, accounting, or other services necessary for the establishment or operation of the plan, if no more than reasonable compensation is paid therefor.
+
+  (B)
+
+    (i) No contract or arrangement for services between a covered plan and a covered service provider, and no extension or renewal of such a contract or arrangement, is reasonable within the meaning of this paragraph unless the requirements of this clause 11 So in original. Probably should be “this subparagraph”. are met.
+
+    (ii)
+
+      (I) For purposes of this subparagraph:
+
+        (aa) The term “covered plan” means a group health plan as defined section 22 So in original. Probably should be preceded by “in”. 1191b(a) of this title.
+
+        (bb) The term “covered service provider” means a service provider that enters into a contract or arrangement with the covered plan and reasonably expects $1,000 (or such amount as the Secretary may establish in regulations to account for inflation since December 27, 2020, as appropriate) or more in compensation, direct or indirect, to be received in connection with providing one or more of the following services, pursuant to the contract or arrangement, regardless of whether such services will be performed, or such compensation received, by the covered service provider, an affiliate, or a subcontractor:
+
+          (AA) Brokerage services, for which the covered service provider, an affiliate, or a subcontractor reasonably expects to receive indirect compensation or direct compensation described in item (dd), provided to a covered plan with respect to selection of insurance products (including vision and dental), recordkeeping services, medical management vendor, benefits administration (including vision and dental), stop-loss insurance, pharmacy benefit management services, wellness services, transparency tools and vendors, group purchasing organization preferred vendor panels, disease management vendors and products, compliance services, employee assistance programs, or third party administration services.
+
+          (BB) Consulting, for which the covered service provider, an affiliate, or a subcontractor reasonably expects to receive indirect compensation or direct compensation described in item (dd), related to the development or implementation of plan design, insurance or insurance product selection (including vision and dental), recordkeeping, medical management, benefits administration selection (including vision and dental), stop-loss insurance, pharmacy benefit management services, wellness design and management services, transparency tools, group purchasing organization agreements and services, participation in and services from preferred vendor panels, disease management, compliance services, employee assistance programs, or third party administration services.
+
+        (cc) The term “affiliate”, with respect to a covered service provider, means an entity that directly or indirectly (through one or more intermediaries) controls, is controlled by, or is under common control with, such provider, or is an officer, director, or employee of, or partner in, such provider.
+
+        (dd)
+
+          (AA) The term “compensation” means anything of monetary value, but does not include non-monetary compensation valued at $250 (or such amount as the Secretary may establish in regulations to account for inflation since December 27, 2020, as appropriate) or less, in the aggregate, during the term of the contract or arrangement.
+
+          (BB) The term “direct compensation” means compensation received directly from a covered plan.
+
+          (CC) The term “indirect compensation” means compensation received from any source other than the covered plan, the plan sponsor, the covered service provider, or an affiliate. Compensation received from a subcontractor is indirect compensation, unless it is received in connection with services performed under a contract or arrangement with a subcontractor.
+
+        (ee) The term “responsible plan fiduciary” means a fiduciary with authority to cause the covered plan to enter into, or extend or renew, the contract or arrangement.
+
+        (ff) The term “subcontractor” means any person or entity (or an affiliate of such person or entity) that is not an affiliate of the covered service provider and that, pursuant to a contract or arrangement with the covered service provider or an affiliate, reasonably expects to receive $1,000 (or such amount as the Secretary may establish in regulations to account for inflation since December 27, 2020, as appropriate) or more in compensation for performing one or more services described in item (bb) under a contract or arrangement with the covered plan.
+
+      (II) For purposes of this subparagraph, a description of compensation or cost may be expressed as a monetary amount, formula, or a per capita charge for each enrollee or, if the compensation or cost cannot reasonably be expressed in such terms, by any other reasonable method, including a disclosure that additional compensation may be earned but may not be calculated at the time of contract if such a disclosure includes a description of the circumstances under which the additional compensation may be earned and a reasonable and good faith estimate if the covered service provider cannot otherwise readily describe compensation or cost and explains the methodology and assumptions used to prepare such estimate. Any such description shall contain sufficient information to permit evaluation of the reasonableness of the compensation or cost.
+
+      (III) No person or entity is a “covered service provider” within the meaning of subclause (I)(bb) solely on the basis of providing services as an affiliate or a subcontractor that is performing one or more of the services described in subitem (AA) or (BB) of such subclause under the contract or arrangement with the covered plan.
+
+    (iii) A covered service provider shall disclose to a responsible plan fiduciary, in writing, the following:
+
+      (I) A description of the services to be provided to the covered plan pursuant to the contract or arrangement.
+
+      (II) If applicable, a statement that the covered service provider, an affiliate, or a subcontractor will provide, or reasonably expects to provide, services pursuant to the contract or arrangement directly to the covered plan as a fiduciary (within the meaning of [section 1002(21) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1002/21&num=0&edition=prelim)).
+
+      (III) A description of all direct compensation, either in the aggregate or by service, that the covered service provider, an affiliate, or a subcontractor reasonably expects to receive in connection with the services described in subclause (I).
+
+      (IV)
+
+        (aa) A description of all indirect compensation that the covered service provider, an affiliate, or a subcontractor reasonably expects to receive in connection with the services described in subclause (I)—
+
+          (AA) including compensation from a vendor to a brokerage firm based on a structure of incentives not solely related to the contract with the covered plan; and
+
+          (BB) not including compensation received by an employee from an employer on account of work performed by the employee.
+
+        (bb) A description of the arrangement between the payer and the covered service provider, an affiliate, or a subcontractor, as applicable, pursuant to which such indirect compensation is paid.
+
+        (cc) Identification of the services for which the indirect compensation will be received, if applicable.
+
+        (dd) Identification of the payer of the indirect compensation.
+
+      (V) A description of any compensation that will be paid among the covered service provider, an affiliate, or a subcontractor, in connection with the services described in subclause (I) if such compensation is set on a transaction basis (such as commissions, finder’s fees, or other similar incentive compensation based on business placed or retained), including identification of the services for which such compensation will be paid and identification of the payers and recipients of such compensation (including the status of a payer or recipient as an affiliate or a subcontractor), regardless of whether such compensation also is disclosed pursuant to subclause (III) or (IV).
+
+      (VI) A description of any compensation that the covered service provider, an affiliate, or a subcontractor reasonably expects to receive in connection with termination of the contract or arrangement, and how any prepaid amounts will be calculated and refunded upon such termination.
+
+    (iv) A covered service provider shall disclose to a responsible plan fiduciary, in writing a description of the manner in which the compensation described in clause (iii), as applicable, will be received.
+
+    (v)
+
+      (I) A covered service provider shall disclose the information required under clauses (iii) and (iv) to the responsible plan fiduciary not later than the date that is reasonably in advance of the date on which the contract or arrangement is entered into, and extended or renewed.
+
+      (II) A covered service provider shall disclose any change to the information required under clause (iii) and (iv) as soon as practicable, but not later than 60 days from the date on which the covered service provider is informed of such change, unless such disclosure is precluded due to extraordinary circumstances beyond the covered service provider’s control, in which case the information shall be disclosed as soon as practicable.
+
+    (vi)
+
+      (I) Upon the written request of the responsible plan fiduciary or covered plan administrator, a covered service provider shall furnish any other information relating to the compensation received in connection with the contract or arrangement that is required for the covered plan to comply with the reporting and disclosure requirements under this chapter.
+
+      (II) The covered service provider shall disclose the information required under clause (iii)(I) reasonably in advance of the date upon which such responsible plan fiduciary or covered plan administrator states that it is required to comply with the applicable reporting or disclosure requirement, unless such disclosure is precluded due to extraordinary circumstances beyond the covered service provider’s control, in which case the information shall be disclosed as soon as practicable.
+
+    (vii) No contract or arrangement will fail to be reasonable under this subparagraph solely because the covered service provider, acting in good faith and with reasonable diligence, makes an error or omission in disclosing the information required pursuant to clause (iii) (or a change to such information disclosed pursuant to clause (v)(II)) or clause (vi), provided that the covered service provider discloses the correct information to the responsible plan fiduciary as soon as practicable, but not later than 30 days from the date on which the covered service provider knows of such error or omission.
+
+    (viii)
+
+      (I) Pursuant to subsection (a), subparagraphs (C) and (D) of [section 1106(a)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1106/a/1&num=0&edition=prelim) shall not apply to a responsible plan fiduciary, notwithstanding any failure by a covered service provider to disclose information required under clause (iii), if the following conditions are met:
+
+        (aa) The responsible plan fiduciary did not know that the covered service provider failed or would fail to make required disclosures and reasonably believed that the covered service provider disclosed the information required to be disclosed.
+
+        (bb) The responsible plan fiduciary, upon discovering that the covered service provider failed to disclose the required information, requests in writing that the covered service provider furnish such information.
+
+        (cc) If the covered service provider fails to comply with a written request described in subclause (II) within 90 days of the request, the responsible plan fiduciary notifies the Secretary of the covered service provider’s failure, in accordance with subclauses (II) and (III).
+
+      (II) A notice described in subclause (I)(cc) shall contain—
+
+        (aa) the name of the covered plan;
+
+        (bb) the plan number used for the annual report on the covered plan;
+
+        (cc) the plan sponsor’s name, address, and employer identification number;
+
+        (dd) the name, address, and telephone number of the responsible plan fiduciary;
+
+        (ee) the name, address, phone number, and, if known, employer identification number of the covered service provider;
+
+        (ff) a description of the services provided to the covered plan;
+
+        (gg) a description of the information that the covered service provider failed to disclose;
+
+        (hh) the date on which such information was requested in writing from the covered service provider; and
+
+        (ii) a statement as to whether the covered service provider continues to provide services to the plan.
+
+      (III) A notice described in subclause (I)(cc) shall be filed with the Department not later than 30 days following the earlier of—
+
+        (aa) The covered service provider’s refusal to furnish the information requested by the written request described in subclause (I)(bb); or
+
+        (bb) 90 days after the written request referred to in subclause (I)(cc) is made.
+
+      (IV) If the covered service provider fails to comply with the written request under subclause (I)(bb) within 90 days of such request, the responsible plan fiduciary shall determine whether to terminate or continue the contract or arrangement under [section 1104 of this title](./chapter-018-employee-retirement-income-security-program.md#section-1104). If the requested information relates to future services and is not disclosed promptly after the end of the 90-day period, the responsible plan fiduciary shall terminate the contract or arrangement as expeditiously as possible, consistent with such duty of prudence.
+
+    (ix) Nothing in this subparagraph shall be construed to supersede any provision of State law that governs disclosures by parties that provide the services described in this section, except to the extent that such law prevents the application of a requirement of this section.
 
 (3) A loan to an employee stock ownership plan (as defined in [section 1107(d)(6) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1107/d/6&num=0&edition=prelim)), if—
 
@@ -8116,9 +8536,9 @@ Before granting an exemption under this subsection from section 1106(a) or 1107(
 
     (ii) at the time of the transaction, the interest of the plan (together with the interests of any other plans maintained by the same plan sponsor), does not exceed 10 percent of the aggregate size of the block trade,
 
-    (iii) the terms of the transaction, including the price, are at least as favorable to the plan as an arm’s length 11 So in original. Probably should be “arm’s-length”. transaction, and
+    (iii) the terms of the transaction, including the price, are at least as favorable to the plan as an arm’s length 33 So in original. Probably should be “arm’s-length”. transaction, and
 
-    (iv) the compensation associated with the purchase and sale is not greater than the compensation associated with an arm’s length 1 transaction with an unrelated party.
+    (iv) the compensation associated with the purchase and sale is not greater than the compensation associated with an arm’s length 3 transaction with an unrelated party.
 
   (B) For purposes of this paragraph, the term “block trade” means any trade of at least 10,000 shares or with a market value of at least $200,000 which will be allocated across two or more unrelated client accounts of a fiduciary.
 
@@ -8136,7 +8556,7 @@ Before granting an exemption under this subsection from section 1106(a) or 1107(
 
     (ii) neither the execution system nor the parties to the transaction take into account the identity of the parties in the execution of trades,
 
-  (C) the price and compensation associated with the purchase and sale are not greater than the price and compensation associated with an arm’s length 1 transaction with an unrelated party,
+  (C) the price and compensation associated with the purchase and sale are not greater than the price and compensation associated with an arm’s length 3 transaction with an unrelated party,
 
   (D) if the party in interest has an ownership interest in the system or venue described in subparagraph (A), the system or venue has been authorized by the plan sponsor or other independent fiduciary for transactions described in this paragraph, and
 
@@ -8160,7 +8580,7 @@ Before granting an exemption under this subsection from section 1106(a) or 1107(
 
   (A) the transaction is in connection with the purchase, holding, or sale of securities or other investment assets (other than a foreign exchange transaction unrelated to any other investment in securities or other investment assets),
 
-  (B) at the time the foreign exchange transaction is entered into, the terms of the transaction are not less favorable to the plan than the terms generally available in comparable arm’s length 1 foreign exchange transactions between unrelated parties, or the terms afforded by the bank or broker-dealer (or any affiliate of either) in comparable arm’s-length foreign exchange transactions involving unrelated parties,
+  (B) at the time the foreign exchange transaction is entered into, the terms of the transaction are not less favorable to the plan than the terms generally available in comparable arm’s length 3 foreign exchange transactions between unrelated parties, or the terms afforded by the bank or broker-dealer (or any affiliate of either) in comparable arm’s-length foreign exchange transactions involving unrelated parties,
 
   (C) the exchange rate used by such bank or broker-dealer (or affiliate) for a particular foreign exchange transaction does not deviate by more than 3 percent from the interbank bid and asked rates for transactions of comparable size and maturity at the time of the transaction as displayed on an independent service that reports rates of exchange in the foreign currency market for such currency, and
 
@@ -8328,7 +8748,7 @@ Before granting an exemption under this subsection from section 1106(a) or 1107(
 
     (iv) of any material affiliation or contractual relationship of the fiduciary adviser or affiliates thereof in the security or other property,
 
-    (v) 22 So in original. The word “of” probably should appear. the manner, and under what circumstances, any participant or beneficiary information provided under the arrangement will be used or disclosed,
+    (v) 44 So in original. The word “of” probably should appear. the manner, and under what circumstances, any participant or beneficiary information provided under the arrangement will be used or disclosed,
 
     (vi) of the types of services provided by the fiduciary adviser in connection with the provision of investment advice by the fiduciary adviser,
 
@@ -8354,7 +8774,7 @@ Before granting an exemption under this subsection from section 1106(a) or 1107(
 
   (C) the compensation received by the fiduciary adviser and affiliates thereof in connection with the sale, acquisition, or holding of the security or other property is reasonable, and
 
-  (D) the terms of the sale, acquisition, or holding of the security or other property are at least as favorable to the plan as an arm’s length 1 transaction would be.
+  (D) the terms of the sale, acquisition, or holding of the security or other property are at least as favorable to the plan as an arm’s length 3 transaction would be.
 
 (8) **Standards for presentation of information**
 
@@ -8399,16 +8819,54 @@ Before granting an exemption under this subsection from section 1106(a) or 1107(
 
   (C) *Registered representative* — The term “registered representative” of another entity means a person described in section 3(a)(18) of the Securities Exchange Act of 1934 ([15 U.S.C. 78c(a)(18)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section78c/a/18&num=0&edition=prelim)) (substituting the entity for the broker or dealer referred to in such section) or a person described in section 202(a)(17) of the Investment Advisers Act of 1940 ([15 U.S.C. 80b–2(a)(17)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section80b–2/a/17&num=0&edition=prelim)) (substituting the entity for the investment adviser referred to in such section).
 
+**(h) Provision of pharmacy benefit services**
+
+(1) **In general** — Provided that all of the conditions described in paragraph (2) are met, the restrictions imposed by subsections (a), (b)(1), and (b)(2) of [section 1106 of this title](./chapter-018-employee-retirement-income-security-program.md#section-1106) shall not apply to—
+
+  (A) the offering of pharmacy benefit services to a group health plan that is sponsored by an entity described in [section 1002(37)(G)(vi) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1002/37/G/vi&num=0&edition=prelim) or to any other group health plan that is sponsored by a regional council, local union, or other labor organization affiliated with such entity;
+
+  (B) the purchase of pharmacy benefit services by plan participants and beneficiaries of a group health plan that is sponsored by an entity described in [section 1002(37)(G)(vi) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1002/37/G/vi&num=0&edition=prelim) or of any other group health plan that is sponsored by a regional council, local union, or other labor organization affiliated with such entity; or
+
+  (C) the operation or implementation of pharmacy benefit services by an entity described in [section 1002(37)(G)(vi) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1002/37/G/vi&num=0&edition=prelim) or by any other group health plan that is sponsored by a regional council, local union, or other labor organization affiliated with such entity,
+  in any arrangement where such entity described in [section 1002(37)(G)(vi) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1002/37/G/vi&num=0&edition=prelim) or any related organization or subsidiary of such entity provides pharmacy benefit services that include prior authorization and appeals, a retail pharmacy network, pharmacy benefit administration, mail order fulfillment, formulary support, manufacturer payments, audits, and specialty pharmacy and goods, to any such group health plan.
+
+(2) **Conditions** — The conditions described in this paragraph are the following:
+
+  (A) The terms of the arrangement are at least as favorable to the group health plan as such group health plan could obtain in a similar arm’s length arrangement with an unrelated third party.
+
+  (B) At least 50 percent of the providers participating in the pharmacy benefit services offered by the arrangement are unrelated to the contributing employers or any other party in interest with respect to the group health plan.
+
+  (C) The group health plan retains an independent fiduciary who will be responsible for monitoring the group health plan’s consultants, contractors, subcontractors, and other service providers for purposes of pharmacy benefit services described in paragraph (1) offered by such entity or any of its related organizations or subsidiaries and monitors the transactions of such entity and any of its related organizations or subsidiaries to ensure that all conditions of this exemption are satisfied during each plan year.
+
+  (D) Any decisions regarding the provision of pharmacy benefit services described in paragraph (1) are made by the group health plan’s independent fiduciary, based on objective standards developed by the independent fiduciary in reliance on information provided by the arrangement.
+
+  (E) The independent fiduciary of the group health plan provides an annual report to the Secretary and the congressional committees of jurisdiction attesting that the conditions described in subparagraphs (C) and (D) have been met for the applicable plan year, together with a statement that use of the arrangement’s services are in the best interest of the participants and beneficiaries in the aggregate for that plan year compared to other similar arrangements the group health plan could have obtained in transactions with an unrelated third party.
+
+  (F) The arrangement is not designed to benefit any party in interest with respect to the group health plan.
+
+(3) **Violations** — In the event an entity described in [section 1002(37)(G)(vi) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1002/37/G/vi&num=0&edition=prelim) or any affiliate of such entity violates any of the conditions of such exemption, such exemption shall not apply with respect to such entity or affiliate and all enforcement and claims available under this chapter shall apply with respect to such entity or affiliate.
+
+(4) **Rule of construction** — Nothing in this subsection shall be construed to modify any obligation of a group health plan otherwise set forth in this chapter.
+
+(5) **Group health plan** — In this subsection, the term “group health plan” has the meaning given such term in [section 1191b(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1191b/a&num=0&edition=prelim).
+
 ### Statutory Notes
 
+#### Applicability of 2020 Amendment
+Amendment by section 202(a) of Pub. L. 116–260 applicable beginning 1 year after Dec. 27, 2020. See 2021 Amendment note below.
+
 #### References in Text
-This chapter, referred to in subsec. (a), was in the original “this Act”, meaning Pub. L. 93–406, known as the Employee Retirement Income Security Act of 1974. Titles I, III, and IV of such Act are classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 1001 of this title](./chapter-018-employee-retirement-income-security-program.md#section-1001) and Tables.
+This chapter, referred to in subsecs. (a), (b)(2)(B)(vi)(I), and (h)(3), (4), was in the original “this Act”, meaning Pub. L. 93–406, known as the Employee Retirement Income Security Act of 1974. Titles I, III, and IV of such Act are classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 1001 of this title](./chapter-018-employee-retirement-income-security-program.md#section-1001) and Tables.
 
 The Investment Advisers Act of 1940, referred to in subsec. (g)(11)(A)(i), is title II of act Aug. 22, 1940, ch. 686, 54 Stat. 847, which is classified generally to subchapter II (§ 80b–1 et seq.) of chapter 2D of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see [section 80b–20 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section80b–20&num=0&edition=prelim) and Tables.
 
 The Securities Exchange Act of 1934, referred to in subsec. (g)(11)(A)(iv), is act June 6, 1934, ch. 404, 48 Stat. 881, which is classified principally to chapter 2B (§ 78a et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see [section 78a of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section78a&num=0&edition=prelim) and Tables.
 
 #### Amendments
+2020—Subsec. (b)(2). Pub. L. 116–260 designated existing provisions as subpar. (A) and added subpar. (B).
+
+2019—Subsec. (h). Pub. L. 116–94 added subsec. (h).
+
 2015—Subsec. (b)(13). Pub. L. 114–41 substituted “January 1, 2026” for “January 1, 2022” and “July 31, 2015” for “July 6, 2012”. The latter substitution was executed to reflect the probable intent of Congress notwithstanding an extra closing quotation mark in the directory language.
 
 2012—Subsec. (b)(13). Pub. L. 112–141 substituted “January 1, 2022” for “January 1, 2014” and “July 6, 2012” for “August 17, 2006”.
@@ -8465,6 +8923,9 @@ Subsec. (d). Pub. L. 99–514, § 1898(i)(1), struck out “(a),” before “(b
 
 Subsec. (f). Pub. L. 96–364, § 308(b), added subsec. (f).
 
+#### Effective Date of 2020 Amendment
+Pub. L. 116–260, div. BB, title II, § 202(e), Dec. 27, 2020, 134 Stat. 2900, provided that: “The amendments made by subsections (a) and (c) [enacting [section 300gg–46 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section300gg–46&num=0&edition=prelim), The Public Health and Welfare, and amending this section] shall apply beginning 1 year after the date of enactment of this Act [Dec. 27, 2020].”
+
 #### Effective Date of 2008 Amendment
 Amendment by Pub. L. 110–458 effective as if included in the provisions of Pub. L. 109–280 to which the amendment relates, except as otherwise provided, see section 112 of Pub. L. 110–458, set out as a note under [section 72 of Title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section72&num=0&edition=prelim), Internal Revenue Code.
 
@@ -8516,6 +8977,15 @@ Pub. L. 109–280, title VI, § 611(g)(3), Aug. 17, 2006, 120 Stat. 975, provide
 Secretary of the Treasury or his delegate to issue before Feb. 1, 1988, final regulations to carry out amendments made by section 1114 of Pub. L. 99–514, see section 1141 of Pub. L. 99–514, set out as a note under [section 401 of Title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section401&num=0&edition=prelim), Internal Revenue Code.
 
 Secretary authorized, effective Sept. 2, 1974, to promulgate regulations wherever provisions of this part call for the promulgation of regulations, see sections 1031 and 1114 of this title.
+
+#### Applicability of Existing Regulations
+Pub. L. 116–260, div. BB, title II, § 202(b), Dec. 27, 2020, 134 Stat. 2899, provided that: “Nothing in the amendments made by subsection (a) [amending this section] shall be construed to affect the applicability of section 2550.408b–2 of title 29, Code of Federal Regulations (or any successor regulations), with respect to any applicable entity other than a covered plan or a covered service provider (as defined in section 408(b)(2)(B)(ii) of the Employee Retirement Income Security Act of 1974 [[29 U.S.C. 1108(b)(2)(B)(ii)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1108/b/2/B/ii&num=0&edition=prelim)], as amended by subsection (a)).”
+
+#### Transition Rule
+Pub. L. 116–260, div. BB, title II, § 202(d), Dec. 27, 2020, 134 Stat. 2900, provided that: “No contract executed prior to the effective date described in subsection (e) [see Effective Date of 2020 Amendment note above] by a group health plan subject to the requirements of section 408(b)(2)(B) of the Employee Retirement Income Security Act of 1974 [[29 U.S.C. 1108(b)(2)(B)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1108/b/2/B&num=0&edition=prelim)] (as amended by subsection (a)) or by a health insurance issuer subject to the requirements of section 2746 of the Public Health Service Act [[42 U.S.C. 300gg–46](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section300gg–46&num=0&edition=prelim)] (as added by subsection (c)) shall be subject to the requirements of such section 408(b)(2)(B) or such section 2746, as applicable.”
+
+#### Applicability of Amendments by Pub. L. 116–94
+With respect to a group health plan subject to subsec. (h) of this section and [section 4975(c) of Title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section4975/c&num=0&edition=prelim), Internal Revenue Code, as amended by section 1302(a), (b) of div. P of Pub. L. 116–94, beginning at the end of the fifth plan year of such group health plan that begins after Dec. 20, 2019, subsec. (h) of this section and [section 4975(c) of Title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section4975/c&num=0&edition=prelim) to have no force or effect, see section 1302(c) of div. P of Pub. L. 116–94, set out as a note under [section 4975 of Title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section4975&num=0&edition=prelim).
 
 #### Applicability of Amendments by Subtitles A and B of Title I of Pub. L. 109–280
 For special rules on applicability of amendments by subtitles A (§§ 101–108) and B (§§ 111–116) of title I of Pub. L. 109–280 to certain eligible cooperative plans, PBGC settlement plans, and eligible government contractor plans, see sections 104, 105, and 106 of Pub. L. 109–280, set out as notes under [section 401 of Title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section401&num=0&edition=prelim), Internal Revenue Code.
@@ -8623,7 +9093,7 @@ Amendment by section 802 of Pub. L. 98–473 effective with respect to any judgm
   (C) is subject to supervision or examination by Federal or State authority; and
 
   (D) has at all times a combined capital and surplus in excess of such a minimum amount as may be established by regulations issued by the Secretary, which amount shall be at least $1,000,000. Paragraph (2) shall apply to a bank or other financial institution which is authorized to exercise trust powers and the deposits of which are not insured by the Federal Deposit Insurance Corporation, only if such bank or institution meets bonding or similar requirements under State law which the Secretary determines are at least equivalent to those imposed on banks by Federal law.
-  The amount of such bond shall be fixed at the beginning of each fiscal year of the plan. Such amount shall be not less than 10 per centum of the amount of funds handled. In no case shall such bond be less than $1,000 nor more than $500,000, except that the Secretary, after due notice and opportunity for hearing to all interested parties, and after consideration of the record, may prescribe an amount in excess of $500,000, subject to the 10 per centum limitation of the preceding sentence. For purposes of fixing the amount of such bond, the amount of funds handled shall be determined by the funds handled by the person, group, or class to be covered by such bond and by their predecessor or predecessors, if any, during the preceding reporting year, or if the plan has no preceding reporting year, the amount of funds to be handled during the current reporting year by such person, group, or class, estimated as provided in regulations of the Secretary. Such bond shall provide protection to the plan against loss by reason of acts of fraud or dishonesty on the part of the plan official, directly or through connivance with others. Any bond shall have as surety thereon a corporate surety company which is an acceptable surety on Federal bonds under authority granted by the Secretary of the Treasury pursuant to sections 9304–9308 of title 31. Any bond shall be in a form or of a type approved by the Secretary, including individual bonds or schedule or blanket forms of bonds which cover a group or class. In the case of a plan that holds employer securities (within the meaning of [section 1107(d)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1107/d/1&num=0&edition=prelim)), this subsection shall be applied by substituting “$1,000,000” for “$500,000” each place it appears.
+  The amount of such bond shall be fixed at the beginning of each fiscal year of the plan. Such amount shall be not less than 10 per centum of the amount of funds handled. In no case shall such bond be less than $1,000 nor more than $500,000, except that the Secretary, after due notice and opportunity for hearing to all interested parties, and after consideration of the record, may prescribe an amount in excess of $500,000, subject to the 10 per centum limitation of the preceding sentence. For purposes of fixing the amount of such bond, the amount of funds handled shall be determined by the funds handled by the person, group, or class to be covered by such bond and by their predecessor or predecessors, if any, during the preceding reporting year, or if the plan has no preceding reporting year, the amount of funds to be handled during the current reporting year by such person, group, or class, estimated as provided in regulations of the Secretary. Such bond shall provide protection to the plan against loss by reason of acts of fraud or dishonesty on the part of the plan official, directly or through connivance with others. Any bond shall have as surety thereon a corporate surety company which is an acceptable surety on Federal bonds under authority granted by the Secretary of the Treasury pursuant to sections 9304–9308 of title 31. Any bond shall be in a form or of a type approved by the Secretary, including individual bonds or schedule or blanket forms of bonds which cover a group or class. In the case of a plan that holds employer securities (within the meaning of [section 1107(d)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1107/d/1&num=0&edition=prelim)) or in the case of a pooled employer plan (as defined in [section 1002(43) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1002/43&num=0&edition=prelim)), this subsection shall be applied by substituting “$1,000,000” for “$500,000” each place it appears.
 
 **(b) Unlawful acts** It shall be unlawful for any plan official to whom subsection (a) applies, to receive, handle, disburse, or otherwise exercise custody or control of any of the funds or other property of any employee benefit plan, without being bonded as required by subsection (a) and it shall be unlawful for any plan official of such plan, or any other person having authority to direct the performance of such functions, to permit such functions, or any of them, to be performed by any plan official, with respect to whom the requirements of subsection (a) have not been met.
 
@@ -8639,9 +9109,14 @@ Amendment by section 802 of Pub. L. 98–473 effective with respect to any judgm
 In subsec. (a), “sections 9304–9308 of title 31” substituted for “sections 6 through 13 of title 6, United States Code” on authority of Pub. L. 97–258, § 4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
 
 #### Amendments
+2019—Subsec. (a). Pub. L. 116–94, in concluding provisions, inserted “or in the case of a pooled employer plan (as defined in [section 1002(43) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1002/43&num=0&edition=prelim))” after “[section 1107(d)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1107/d/1&num=0&edition=prelim)”.
+
 2006—Subsec. (a). Pub. L. 109–280, § 622(a), inserted at end of concluding provisions “In the case of a plan that holds employer securities (within the meaning of [section 1107(d)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1107/d/1&num=0&edition=prelim)), this subsection shall be applied by substituting ‘$1,000,000’ for ‘$500,000’ each place it appears.”
 
 Subsec. (a)(2), (3). Pub. L. 109–280, § 611(b), added par. (2) and redesignated former par. (2) as (3).
+
+#### Effective Date of 2019 Amendment
+Amendment by Pub. L. 116–94 applicable to plan years beginning after Dec. 31, 2020, see section 101(e) of Pub. L. 116–94, set out as a note under [section 408 of Title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section408&num=0&edition=prelim), Internal Revenue Code.
 
 #### Effective Date of 2006 Amendment
 Amendment by section 611(b) of Pub. L. 109–280 applicable to plan years beginning after Aug. 17, 2006, see section 611(h)(2) of Pub. L. 109–280, set out as a note under [section 4975 of Title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section4975&num=0&edition=prelim), Internal Revenue Code.
@@ -9358,7 +9833,7 @@ Secretary authorized, effective Sept. 2, 1974, to promulgate regulations whereve
 
 (1) Members of the Council shall each be entitled to receive the daily equivalent of the annual rate of basic pay in effect for grade GS–18 of the General Schedule for each day (including travel time) during which they are engaged in the actual performance of duties vested in the Council.
 
-(2) While away from their homes or regular places of business in the performance of services for Council, members of the Council shall be allowed travel expenses, including per diem in lieu of subsistence, in the same manner as persons employed intermittently in the Government service are allowed expenses under [section 5703(b) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5703/b&num=0&edition=prelim).1
+(2) While away from their homes or regular places of business in the performance of services for Council, 22 So in original. Probably should be “for the Council,”. members of the Council shall be allowed travel expenses, including per diem in lieu of subsistence, in the same manner as persons employed intermittently in the Government service are allowed expenses under [section 5703(b) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5703/b&num=0&edition=prelim).1
 
 **(e) Termination** Section 14(a) of the Federal Advisory Committee Act (relating to termination) shall not apply to the Council.
 
@@ -9825,12 +10300,15 @@ Committee on Labor and Human Resources of Senate changed to Committee on Health,
 <a id="section-1148"></a>
 ## § 1148. Authority to postpone certain deadlines by reason of Presidentially declared disaster or terroristic or military actions
 
-In the case of a pension or other employee benefit plan, or any sponsor, administrator, participant, beneficiary, or other person with respect to such plan, affected by a Presidentially declared disaster (as defined in [section 1033(h)(3) of title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section1033/h/3&num=0&edition=prelim)) or a terroristic or military action (as defined in section 692(c)(2) of such title), the Secretary may, notwithstanding any other provision of law, prescribe, by notice or otherwise, a period of up to 1 year which may be disregarded in determining the date by which any action is required or permitted to be completed under this chapter. No plan shall be treated as failing to be operated in accordance with the terms of the plan solely as the result of disregarding any period by reason of the preceding sentence.
+In the case of a pension or other employee benefit plan, or any sponsor, administrator, participant, beneficiary, or other person with respect to such plan, affected by a Presidentially declared disaster (as defined in [section 1033(h)(3) of title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section1033/h/3&num=0&edition=prelim)) 11 So in original. Probably should be followed by a comma. a terroristic or military action (as defined in section 692(c)(2) of such title), or a public health emergency declared by the Secretary of Health and Human Services pursuant to [section 247d of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section247d&num=0&edition=prelim), the Secretary may, notwithstanding any other provision of law, prescribe, by notice or otherwise, a period of up to 1 year which may be disregarded in determining the date by which any action is required or permitted to be completed under this chapter. No plan shall be treated as failing to be operated in accordance with the terms of the plan solely as the result of disregarding any period by reason of the preceding sentence.
 
 ### Statutory Notes
 
 #### References in Text
 This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 93–406, known as the Employee Retirement Income Security Act of 1974. Titles I, III, and IV of such Act are classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 1001 of this title](./chapter-018-employee-retirement-income-security-program.md#section-1001) and Tables.
+
+#### Amendments
+2020—Pub. L. 116–136 substituted “a terroristic or military action (as defined in section 692(c)(2) of such title), or a public health emergency declared by the Secretary of Health and Human Services pursuant to [section 247d of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section247d&num=0&edition=prelim), the Secretary may” for “or a terroristic or military action (as defined in section 692(c)(2) of such title), the Secretary may”.
 
 #### Effective Date
 Section applicable to disasters and terroristic or military actions occurring on or after Sept. 11, 2001, with respect to any action of the Secretary of the Treasury, the Secretary of Labor, or the Pension Benefit Guaranty Corporation occurring on or after Jan. 23, 2002, see section 112(f) of Pub. L. 107–134, set out as an Effective Date of 2002 Amendment note under [section 6081 of Title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section6081&num=0&edition=prelim), Internal Revenue Code.
@@ -9882,6 +10360,22 @@ The Liability Risk Retention Act of 1986, referred to in text, is Pub. L. 97–4
 **(f) Regulations** The Secretary may promulgate such regulations or other guidance as may be necessary or appropriate to carry out this section.
 
 **(g) Exception** This section shall not apply to any plan or arrangement that does not fall within the meaning of the term “multiple employer welfare arrangement” under [section 1002(40)(A) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1002/40/A&num=0&edition=prelim).
+
+
+<a id="section-1152"></a>
+## § 1152. Coordination of enforcement regarding violations of certain health care provider requirements; complaint process
+**(a) Investigating violations** Upon receiving a notice from a State or the Secretary of Health and Human Services of violations of sections 300gg–131, 300gg–132, or 300gg–135 of title 42, the Secretary of Labor shall identify patterns of such violations with respect to participants or beneficiaries under a group health plan or group health insurance coverage offered by a health insurance issuer and conduct an investigation pursuant to [section 1134 of this title](./chapter-018-employee-retirement-income-security-program.md#section-1134) where appropriate, as determined by the Secretary. The Secretary shall coordinate with States and the Secretary of Health and Human Services, in accordance with [section 1136 of this title](./chapter-018-employee-retirement-income-security-program.md#section-1136) and with section 104 of Health Insurance Portability and Accountability Act of 1996, where appropriate, as determined by the Secretary, to ensure that appropriate measures have been taken to correct such violations retrospectively and prospectively with respect to participants or beneficiaries under a group health plan or group health insurance coverage offered by a health insurance issuer.
+
+**(b) Complaint process** Not later than January 1, 2022, the Secretary shall ensure a process under which the Secretary—
+
+(1) may receive complaints from participants and beneficiaries of group health plans or group health insurance coverage offered by a health insurance issuer relating to alleged violations of the sections specified in subsection (a); and
+
+(2) transmits such complaints to States or the Secretary of Health and Human Services (as determined appropriate by the Secretary) for potential enforcement actions.
+
+### Statutory Notes
+
+#### References in Text
+Section 104 of Health Insurance Portability and Accountability Act of 1996, referred to in subsec. (a), is section 104 of Pub. L. 104–191, which is set out as a note under [section 300gg–92 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section300gg–92&num=0&edition=prelim), The Public Health and Welfare.
 
 
 <a id="section-1161"></a>
@@ -9950,7 +10444,7 @@ For purposes of [section 1161 of this title](./chapter-018-employee-retirement-i
   (A) shall not exceed 102 percent of the applicable premium for such period, and
 
   (B) may, at the election of the payor, be made in monthly installments.
-  In no event may the plan require the payment of any premium before the day which is 45 days after the day on which the qualified beneficiary made the initial election for continuation coverage. In the case of an individual described in the last sentence of paragraph (2)(A), any reference in subparagraph (A) of this paragraph to “102 percent” is deemed a reference to “150 percent” for any month after the 18th month of continuation coverage described in clause (i) or (ii) of paragraph (2)(A).
+  In no event may the plan require the payment of any premium before the day which is 45 days after the day on which the qualified beneficiary made the initial election for continuation coverage. In the case of an individual described in the last sentence of paragraph (2)(A),22 See References in Text note below. any reference in subparagraph (A) of this paragraph to “102 percent” is deemed a reference to “150 percent” for any month after the 18th month of continuation coverage described in clause (i) or (ii) of paragraph (2)(A).
 
 (4) **No requirement of insurability** — The coverage may not be conditioned upon, or discriminate on the basis of lack of, evidence of insurability.
 
@@ -9964,6 +10458,8 @@ The Social Security Act, referred to in par. (2)(A)(vii), (viii), (D)(ii), (E), 
 [Section 1166(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1166/3&num=0&edition=prelim), referred to in par. (2)(A)(viii), was redesignated as [section 1166(a)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1166/a/3&num=0&edition=prelim) by Pub. L. 101–239, title VII, § 7891(d)(1)(A)(ii)(I), Dec. 19, 1989, 103 Stat. 2445.
 
 The Public Health Service Act, referred to in par. (2)(D)(i), is act July 1, 1944, ch. 373, 58 Stat. 682. Title XXVII of the Act is classified generally to subchapter XXV (§ 300gg et seq.) of chapter 6A of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 201 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section201&num=0&edition=prelim) and Tables.
+
+The last sentence of paragraph (2)(A), referred to in par. (3), probably means par. (2)(A)(viii) of this section, which was originally enacted as the concluding provisions of par. (2)(A) and subsequently designated as cl. (vi) and redesignated as cl. (viii) of par. (2)(A) by Pub. L. 111–5, div. B, title I, § 1899F(a)(2), (3), Feb. 17, 2009, 123 Stat. 428.
 
 #### Amendments
 2011—Par. (2)(A)(v), (vi). Pub. L. 112–40 substituted “January 1, 2014” for “February 12, 2011”.
@@ -10457,7 +10953,7 @@ The Secretary may prescribe regulations to carry out the provisions of this part
 ### Statutory Notes
 
 #### References in Text
-Section 401(b) of the Child Support Performance and Incentive Act of 1998, referred to in subsec. (a)(5)(C)(i), is section 401(b) of Pub. L. 105–200, which is set out as a note under [section 651 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section651&num=0&edition=prelim), The Public Health and Welfare.
+Section 401(b) of the Child Support Performance and Incentive Act of 1998, referred to in subsec. (a)(5)(C)(i), is section 401(b) of Pub. L. 105–200, which was formerly set out as a note under [section 651 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section651&num=0&edition=prelim), The Public Health and Welfare.
 
 This chapter, referred to in subsec. (a)(7)(A), was in the original “this Act”, meaning Pub. L. 93–406, known as the Employee Retirement Income Security Act of 1974. Titles I, III, and IV of such Act are classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 1001 of this title](./chapter-018-employee-retirement-income-security-program.md#section-1001) and Tables.
 
@@ -11000,6 +11496,128 @@ Section applicable with respect to group health plans for plan years beginning o
 
 (5) **Out-of-network providers** — In the case of a plan or coverage that provides both medical and surgical benefits and mental health or substance use disorder benefits, if the plan or coverage provides coverage for medical or surgical benefits provided by out-of-network providers, the plan or coverage shall provide coverage for mental health or substance use disorder benefits provided by out-of-network providers in a manner that is consistent with the requirements of this section.
 
+(6) **Compliance program guidance document**
+
+  (A) *In general* — The Secretary, the Secretary of Health and Human Services, and the Secretary of the Treasury, in consultation with the Inspector General of the Department of Health and Human Services, the Inspector General of the Department of Labor, and the Inspector General of the Department of the Treasury, shall issue a compliance program guidance document to help improve compliance with this section, [section 300gg–26 of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section300gg–26&num=0&edition=prelim), and [section 9812 of title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section9812&num=0&edition=prelim), as applicable. In carrying out this paragraph, the Secretaries may take into consideration the 2016 publication of the Department of Health and Human Services and the Department of Labor, entitled “Warning Signs - Plan or Policy Non-Quantitative Treatment Limitations (NQTLs) that Require Additional Analysis to Determine Mental Health Parity Compliance”.
+
+  (B) *Examples illustrating compliance and noncompliance*
+
+    (i) *In general* — The compliance program guidance document required under this paragraph shall provide illustrative, de-identified examples (that do not disclose any protected health information or individually identifiable information) of previous findings of compliance and noncompliance with this section, [section 300gg–26 of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section300gg–26&num=0&edition=prelim), or [section 9812 of title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section9812&num=0&edition=prelim), as applicable, based on investigations of violations of such sections, including—
+
+      (I) examples illustrating requirements for information disclosures and nonquantitative treatment limitations; and
+
+      (II) descriptions of the violations uncovered during the course of such investigations.
+
+    (ii) *Nonquantitative treatment limitations* — To the extent that any example described in clause (i) involves a finding of compliance or noncompliance with regard to any requirement for nonquantitative treatment limitations, the example shall provide sufficient detail to fully explain such finding, including a full description of the criteria involved for approving medical and surgical benefits and the criteria involved for approving mental health and substance use disorder benefits.
+
+    (iii) *Access to additional information regarding compliance* — In developing and issuing the compliance program guidance document required under this paragraph, the Secretaries specified in subparagraph (A)—
+
+      (I) shall enter into interagency agreements with the Inspector General of the Department of Health and Human Services, the Inspector General of the Department of Labor, and the Inspector General of the Department of the Treasury to share findings of compliance and noncompliance with this section, [section 300gg–26 of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section300gg–26&num=0&edition=prelim), or [section 9812 of title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section9812&num=0&edition=prelim), as applicable; and
+
+      (II) shall seek to enter into an agreement with a State to share information on findings of compliance and noncompliance with this section, [section 300gg–26 of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section300gg–26&num=0&edition=prelim), or [section 9812 of title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section9812&num=0&edition=prelim), as applicable.
+
+  (C) *Recommendations* — The compliance program guidance document shall include recommendations to advance compliance with this section, [section 300gg–26 of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section300gg–26&num=0&edition=prelim), or [section 9812 of title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section9812&num=0&edition=prelim), as applicable, and encourage the development and use of internal controls to monitor adherence to applicable statutes, regulations, and program requirements. Such internal controls may include illustrative examples of nonquantitative treatment limitations on mental health and substance use disorder benefits, which may fail to comply with this section, [section 300gg–26 of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section300gg–26&num=0&edition=prelim), or [section 9812 of title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section9812&num=0&edition=prelim), as applicable, in relation to nonquantitative treatment limitations on medical and surgical benefits.
+
+  (D) *Updating the compliance program guidance document* — The Secretary, the Secretary of Health and Human Services, and the Secretary of the Treasury, in consultation with the Inspector General of the Department of Health and Human Services, the Inspector General of the Department of Labor, and the Inspector General of the Department of the Treasury, shall update the compliance program guidance document every 2 years to include illustrative, de-identified examples (that do not disclose any protected health information or individually identifiable information) of previous findings of compliance and noncompliance with this section, [section 300gg–26 of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section300gg–26&num=0&edition=prelim), or [section 9812 of title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section9812&num=0&edition=prelim), as applicable.
+
+(7) **Additional guidance**
+
+  (A) *In general* — The Secretary, the Secretary of Health and Human Services, and the Secretary of the Treasury shall issue guidance to group health plans and health insurance issuers offering group health insurance coverage to assist such plans and issuers in satisfying the requirements of this section, [section 300gg–26 of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section300gg–26&num=0&edition=prelim), or [section 9812 of title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section9812&num=0&edition=prelim), as applicable.
+
+  (B) *Disclosure*
+
+    (i) *Guidance for plans and issuers* — The guidance issued under this paragraph shall include clarifying information and illustrative examples of methods that group health plans and health insurance issuers offering group or individual health insurance coverage may use for disclosing information to ensure compliance with the requirements under this section, [section 300gg–26 of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section300gg–26&num=0&edition=prelim), or [section 9812 of title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section9812&num=0&edition=prelim), as applicable, (and any regulations promulgated pursuant to such sections, as applicable).
+
+    (ii) *Documents for participants, beneficiaries, contracting providers, or authorized representatives* — The guidance issued under this paragraph shall include clarifying information and illustrative examples of methods that group health plans and health insurance issuers offering group health insurance coverage may use to provide any participant, beneficiary, contracting provider, or authorized representative, as applicable, with documents containing information that the health plans or issuers are required to disclose to participants, beneficiaries, contracting providers, or authorized representatives to ensure compliance with this section, [section 300gg–26 of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section300gg–26&num=0&edition=prelim), or [section 9812 of title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section9812&num=0&edition=prelim), as applicable, compliance with any regulation issued pursuant to such respective section, or compliance with any other applicable law or regulation. Such guidance shall include information that is comparative in nature with respect to—
+
+      (I) nonquantitative treatment limitations for both medical and surgical benefits and mental health and substance use disorder benefits;
+
+      (II) the processes, strategies, evidentiary standards, and other factors used to apply the limitations described in subclause (I); and
+
+      (III) the application of the limitations described in subclause (I) to ensure that such limitations are applied in parity with respect to both medical and surgical benefits and mental health and substance use disorder benefits.
+
+  (C) *Nonquantitative treatment limitations* — The guidance issued under this paragraph shall include clarifying information and illustrative examples of methods, processes, strategies, evidentiary standards, and other factors that group health plans and health insurance issuers offering group health insurance coverage may use regarding the development and application of nonquantitative treatment limitations to ensure compliance with this section, [section 300gg–26 of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section300gg–26&num=0&edition=prelim), or [section 9812 of title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section9812&num=0&edition=prelim), as applicable, (and any regulations promulgated pursuant to such respective section), including—
+
+    (i) examples of methods of determining appropriate types of nonquantitative treatment limitations with respect to both medical and surgical benefits and mental health and substance use disorder benefits, including nonquantitative treatment limitations pertaining to—
+
+      (I) medical management standards based on medical necessity or appropriateness, or whether a treatment is experimental or investigative;
+
+      (II) limitations with respect to prescription drug formulary design; and
+
+      (III) use of fail-first or step therapy protocols;
+
+    (ii) examples of methods of determining—
+
+      (I) network admission standards (such as credentialing); and
+
+      (II) factors used in provider reimbursement methodologies (such as service type, geographic market, demand for services, and provider supply, practice size, training, experience, and licensure) as such factors apply to network adequacy;
+
+    (iii) examples of sources of information that may serve as evidentiary standards for the purposes of making determinations regarding the development and application of nonquantitative treatment limitations;
+
+    (iv) examples of specific factors, and the evidentiary standards used to evaluate such factors, used by such plans or issuers in performing a nonquantitative treatment limitation analysis;
+
+    (v) examples of how specific evidentiary standards may be used to determine whether treatments are considered experimental or investigative;
+
+    (vi) examples of how specific evidentiary standards may be applied to each service category or classification of benefits;
+
+    (vii) examples of methods of reaching appropriate coverage determinations for new mental health or substance use disorder treatments, such as evidence-based early intervention programs for individuals with a serious mental illness and types of medical management techniques;
+
+    (viii) examples of methods of reaching appropriate coverage determinations for which there is an indirect relationship between the covered mental health or substance use disorder benefit and a traditional covered medical and surgical benefit, such as residential treatment or hospitalizations involving voluntary or involuntary commitment; and
+
+    (ix) additional illustrative examples of methods, processes, strategies, evidentiary standards, and other factors for which the Secretary determines that additional guidance is necessary to improve compliance with this section, [section 300gg–26 of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section300gg–26&num=0&edition=prelim), or [section 9812 of title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section9812&num=0&edition=prelim), as applicable.
+
+  (D) *Public comment* — Prior to issuing any final guidance under this paragraph, the Secretary shall provide a public comment period of not less than 60 days during which any member of the public may provide comments on a draft of the guidance.
+
+(8) **Compliance requirements**
+
+  (A) *Nonquantitative treatment limitation (NQTL) requirements* — In the case of a group health plan or a health insurance issuer offering group health insurance coverage that provides both medical and surgical benefits and mental health or substance use disorder benefits and that imposes nonquantitative treatment limitations (referred to in this section as “NQTLs”) on mental health or substance use disorder benefits, such plan or issuer shall perform and document comparative analyses of the design and application of NQTLs and, beginning 45 days after December 27, 2020, make available to the Secretary, upon request, the comparative analyses and the following information:
+
+    (i) The specific plan or coverage terms or other relevant terms regarding the NQTLs, that applies to such plan or coverage, and a description of all mental health or substance use disorder and medical or surgical benefits to which each such term applies in each respective benefits classification.
+
+    (ii) The factors used to determine that the NQTLs will apply to mental health or substance use disorder benefits and medical or surgical benefits.
+
+    (iii) The evidentiary standards used for the factors identified in clause (ii), when applicable, provided that every factor shall be defined, and any other source or evidence relied upon to design and apply the NQTLs to mental health or substance use disorder benefits and medical or surgical benefits.
+
+    (iv) The comparative analyses demonstrating that the processes, strategies, evidentiary standards, and other factors used to apply the NQTLs to mental health or substance use disorder benefits, as written and in operation, are comparable to, and are applied no more stringently than, the processes, strategies, evidentiary standards, and other factors used to apply the NQTLs to medical or surgical benefits in the benefits classification.
+
+    (v) The specific findings and conclusions reached by the group health plan or health insurance issuer with respect to the health insurance coverage, including any results of the analyses described in this subparagraph that indicate that the plan or coverage is or is not in compliance with this section.
+
+  (B) *Secretary request process*
+
+    (i) *Submission upon request* — The Secretary shall request that a group health plan or a health insurance issuer offering group health insurance coverage submit the comparative analyses described in subparagraph (A) for plans that involve potential violations of this section or complaints regarding noncompliance with this section that concern NQTLs and any other instances in which the Secretary determines appropriate. The Secretary shall request not fewer than 20 such analyses per year.
+
+    (ii) *Additional information* — In instances in which the Secretary has concluded that the group health plan or health insurance issuer with respect to group health insurance coverage has not submitted sufficient information for the Secretary to review the comparative analyses described in subparagraph (A), as requested under clause (i), the Secretary shall specify to the plan or issuer the information the plan or issuer must submit to be responsive to the request under clause (i) for the Secretary to review the comparative analyses described in subparagraph (A) for compliance with this section. Nothing in this paragraph shall require the Secretary to conclude that a group health plan or health insurance issuer is in compliance with this section solely based upon the inspection of the comparative analyses described in subparagraph (A), as requested under clause (i).
+
+    (iii) *Required action*
+
+      (I) *In general* — In instances in which the Secretary has reviewed the comparative analyses described in subparagraph (A), as requested under clause (i), and determined that the group health plan or health insurance issuer is not in compliance with this section, the plan or issuer—
+
+        (aa) shall specify to the Secretary the actions the plan or issuer will take to be in compliance with this section and provide to the Secretary additional comparative analyses described in subparagraph (A) that demonstrate compliance with this section not later than 45 days after the initial determination by the Secretary that the plan or issuer is not in compliance; and
+
+        (bb) following the 45-day corrective action period under item (aa), if the Secretary makes a final determination that the plan or issuer still is not in compliance with this section, not later than 7 days after such determination, shall notify all individuals enrolled in the plan or applicable health insurance coverage offered by the issuer that the plan or issuer, with respect to such coverage, has been determined to be not in compliance with this section.
+
+      (II) *Exemption from disclosure* — Documents or communications produced in connection with the Secretary’s recommendations to a group health plan or health insurance issuer shall not be subject to disclosure pursuant to [section 552 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section552&num=0&edition=prelim).
+
+    (iv) *Report* — Not later than 1 year after December 27, 2020, and not later than October 1 of each year thereafter, the Secretary shall submit to Congress, and make publicly available, a report that contains—
+
+      (I) a summary of the comparative analyses requested under clause (i), including the identity of each group health plan or health insurance issuer, with respect to certain health insurance coverage that is determined to be not in compliance after the final determination by the Secretary described in clause (iii)(I)(bb);
+
+      (II) the Secretary’s conclusions as to whether each group health plan or health insurance issuer submitted sufficient information for the Secretary to review the comparative analyses requested under clause (i) for compliance with this section;
+
+      (III) for each group health plan or health insurance issuer that did submit sufficient information for the Secretary to review the comparative analyses requested under clause (i), the Secretary’s conclusions as to whether and why the plan or issuer is in compliance with the disclosure requirements under this section;
+
+      (IV) the Secretary’s specifications described in clause (ii) for each group health plan or health insurance issuer that the Secretary determined did not submit sufficient information for the Secretary to review the comparative analyses requested under clause (i) for compliance with this section; and
+
+      (V) the Secretary’s specifications described in clause (iii) of the actions each group health plan or health insurance issuer that the Secretary determined is not in compliance with this section must take to be in compliance with this section, including the reason why the Secretary determined the plan or issuer is not in compliance.
+
+  (C) *Compliance program guidance document update process*
+
+    (i) *In general* — The Secretary shall include instances of noncompliance that the Secretary discovers upon reviewing the comparative analyses requested under subparagraph (B)(i) in the compliance program guidance document described in paragraph (6), as it is updated every 2 years, except that such instances shall not disclose any protected health information or individually identifiable information.
+
+    (ii) *Guidance and regulations* — Not later than 18 months after December 27, 2020, the Secretary shall finalize any draft or interim guidance and regulations relating to mental health parity under this section. Such draft guidance shall include guidance to clarify the process and timeline for current and potential participants and beneficiaries (and authorized representatives and health care providers of such participants and beneficiaries) with respect to plans to file complaints of such plans or issuers being in violation of this section, including guidance, by plan type, on the relevant State, regional, or national office with which such complaints should be filed.
+
+    (iii) *State* — The Secretary shall share information on findings of compliance and noncompliance discovered upon reviewing the comparative analyses requested under subparagraph (B)(i) shall be shared with the State where the group health plan is located or the State where the health insurance issuer is licensed to do business for coverage offered by a health insurance issuer in the group market, in accordance with paragraph (6)(B)(iii)(II).
+
 **(b) Construction** Nothing in this section shall be construed—
 
 (1) as requiring a group health plan (or health insurance coverage offered in connection with such a plan) to provide any mental health or substance use disorder benefits; or
@@ -11077,6 +11695,8 @@ Section applicable with respect to group health plans for plan years beginning o
 ### Statutory Notes
 
 #### Amendments
+2020—Subsec. (a)(6) to (8). Pub. L. 116–260 added pars. (6) to (8).
+
 2008—Pub. L. 110–343, § 512(g)(1)(A), amended section catchline generally. Prior to amendment, catchline read as follows: “Parity in application of certain limits to mental health benefits”.
 
 Subsec. (a)(1), (2). Pub. L. 110–343, § 512(a)(8), substituted “mental health or substance use disorder benefits” for “mental health benefits” wherever appearing in pars. (1)(introductory provisions), (A), and (B)(ii) and (2)(introductory provisions), (A), and (B)(ii).
@@ -11234,6 +11854,906 @@ The Public Health Service Act, referred to in text, is act July 1, 1944, ch. 373
 
 The Patient Protection and Affordable Care Act, referred to in text, is Pub. L. 111–148, Mar. 23, 2010, 124 Stat. 119. For complete classification of this Act to the Code, see Short Title note set out under [section 18001 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section18001&num=0&edition=prelim), The Public Health and Welfare, and Tables.
 
+#### Codification
+Pub. L. 111–148, which directed amendment of subpart B of part 7 of “subtitle A” of title I of the Employee Retirement Income Security Act of 1974 by adding this section at the end, was executed by adding this section at the end of this subpart, which is subpart B of part 7 of subtitle B of title I of the Act, to reflect the probable intent of Congress.
+
+
+<a id="section-1185e"></a>
+## § 1185e. Preventing surprise medical bills
+**(a) Coverage of emergency services**
+
+(1) **In general** — If a group health plan, or a health insurance issuer offering group health insurance coverage, provides or covers any benefits with respect to services in an emergency department of a hospital or with respect to emergency services in an independent freestanding emergency department (as defined in paragraph (3)(D)), the plan or issuer shall cover emergency services (as defined in paragraph (3)(C))—
+
+  (A) without the need for any prior authorization determination;
+
+  (B) whether the health care provider furnishing such services is a participating provider or a participating emergency facility, as applicable, with respect to such services;
+
+  (C) in a manner so that, if such services are provided to a participant or beneficiary by a nonparticipating provider or a nonparticipating emergency facility—
+
+    (i) such services will be provided without imposing any requirement under the plan for prior authorization of services or any limitation on coverage that is more restrictive than the requirements or limitations that apply to emergency services received from participating providers and participating emergency facilities with respect to such plan or coverage, respectively;
+
+    (ii) the cost-sharing requirement is not greater than the requirement that would apply if such services were provided by a participating provider or a participating emergency facility;
+
+    (iii) such cost-sharing requirement is calculated as if the total amount that would have been charged for such services by such participating provider or participating emergency facility were equal to the recognized amount (as defined in paragraph (3)(H)) for such services, plan or coverage, and year;
+
+    (iv) the group health plan or health insurance issuer, respectively—
+
+      (I) not later than 30 calendar days after the bill for such services is transmitted by such provider or facility, sends to the provider or facility, as applicable, an initial payment or notice of denial of payment; and
+
+      (II) pays a total plan or coverage payment directly to such provider or facility, respectively (in accordance, if applicable, with the timing requirement described in subsection (c)(6)) that is, with application of any initial payment under subclause (I), equal to the amount by which the out-of-network rate (as defined in paragraph (3)(K)) for such services exceeds the cost-sharing amount for such services (as determined in accordance with clauses (ii) and (iii)) and year; and
+
+    (v) any cost-sharing payments made by the participant or beneficiary with respect to such emergency services so furnished shall be counted toward any in-network deductible or out-of-pocket maximums applied under the plan or coverage, respectively (and such in-network deductible and out-of-pocket maximums shall be applied) in the same manner as if such cost-sharing payments were made with respect to emergency services furnished by a participating provider or a participating emergency facility; and
+
+  (D) without regard to any other term or condition of such coverage (other than exclusion or coordination of benefits, or an affiliation or waiting period, permitted under [section 300gg–3 of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section300gg–3&num=0&edition=prelim), including as incorporated pursuant to [section 1185d of this title](./chapter-018-employee-retirement-income-security-program.md#section-1185d) and [section 9815 of title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section9815&num=0&edition=prelim), and other than applicable cost-sharing).
+
+(2) **Regulations for qualifying payment amounts** — Not later than July 1, 2021, the Secretary, in consultation with the Secretary of the Treasury and the Secretary of Health and Human Services, shall establish through rulemaking—
+
+  (A) the methodology the group health plan or health insurance issuer offering health insurance coverage in the group market shall use to determine the qualifying payment amount, differentiating by large group market, and small group market;
+
+  (B) the information such plan or issuer, respectively, shall share with the nonparticipating provider or nonparticipating facility, as applicable, when making such a determination;
+
+  (C) the geographic regions applied for purposes of this subparagraph, taking into account access to items and services in rural and underserved areas, including health professional shortage areas, as defined in [section 254e of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section254e&num=0&edition=prelim); and
+
+  (D) a process to receive complaints of violations of the requirements described in subclauses (I) and (II) of subparagraph (A)(i) by group health plans and health insurance issuers offering health insurance coverage in the group market.
+  Such rulemaking shall take into account payments that are made by such plan or issuer, respectively, that are not on a fee-for-service basis. Such methodology may account for relevant payment adjustments that take into account quality or facility type (including higher acuity settings and the case-mix of various facility types) that are otherwise taken into account for purposes of determining payment amounts with respect to participating facilities. In carrying out clause (iii), the Secretary shall consult with the National Association of Insurance Commissioners to establish the geographic regions under such clause and shall periodically update such regions, as appropriate, taking into account the findings of the report submitted under section 109(a) of the No Surprises Act.
+
+(3) **Definitions** — In this subpart:
+
+  (A) *Emergency department of a hospital* — The term “emergency department of a hospital” includes a hospital outpatient department that provides emergency services (as defined in subparagraph (C)(i)).
+
+  (B) *Emergency medical condition* — The term “emergency medical condition” means a medical condition manifesting itself by acute symptoms of sufficient severity (including severe pain) such that a prudent layperson, who possesses an average knowledge of health and medicine, could reasonably expect the absence of immediate medical attention to result in a condition described in clause (i), (ii), or (iii) of section 1867(e)(1)(A) of the Social Security Act [[42 U.S.C. 1395dd(e)(1)(A)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395dd/e/1/A&num=0&edition=prelim)].
+
+  (C) *Emergency services*
+
+    (i) *In general* — The term “emergency services”, with respect to an emergency medical condition, means—
+
+      (I) a medical screening examination (as required under section 1867 of the Social Security Act [[42 U.S.C. 1395dd](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395dd&num=0&edition=prelim)], or as would be required under such section if such section applied to an independent freestanding emergency department) that is within the capability of the emergency department of a hospital or of an independent freestanding emergency department, as applicable, including ancillary services routinely available to the emergency department to evaluate such emergency medical condition; and
+
+      (II) within the capabilities of the staff and facilities available at the hospital or the independent freestanding emergency department, as applicable, such further medical examination and treatment as are required under section 1867 of such Act [[42 U.S.C. 1395dd](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395dd&num=0&edition=prelim)], or as would be required under such section if such section applied to an independent freestanding emergency department, to stabilize the patient (regardless of the department of the hospital in which such further examination or treatment is furnished).
+
+    (ii) *Inclusion of additional services*
+
+      (I) *In general* — For purposes of this subsection and [section 300gg–131 of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section300gg–131&num=0&edition=prelim), in the case of a participant or beneficiary who is enrolled in a group health plan or group health insurance coverage offered by a health insurance issuer and who is furnished services described in clause (i) with respect to an emergency medical condition, the term “emergency services” shall include, unless each of the conditions described in subclause (II) are met, in addition to the items and services described in clause (i), items and services—
+
+        (aa) for which benefits are provided or covered under the plan or coverage, respectively; and
+
+        (bb) that are furnished by a nonparticipating provider or nonparticipating emergency facility (regardless of the department of the hospital in which such items or services are furnished) after the participant or beneficiary is stabilized and as part of outpatient observation or an inpatient or outpatient stay with respect to the visit in which the services described in clause (i) are furnished.
+
+      (II) *Conditions* — For purposes of subclause (I), the conditions described in this subclause, with respect to a participant or beneficiary who is stabilized and furnished additional items and services described in subclause (I) after such stabilization by a provider or facility described in subclause (I), are the following;
+
+        (aa) Such provider or facility determines such individual is able to travel using nonmedical transportation or nonemergency medical transportation.
+
+        (bb) Such provider furnishing such additional items and services satisfies the notice and consent criteria of section 300gg–132(d) 11 See References in Text note below. of title 42 with respect to such items and services.
+
+        (cc) Such individual is in a condition to receive (as determined in accordance with guidelines issued by the Secretary pursuant to rulemaking) the information described in section 300gg–132 1 of title 42 and to provide informed consent under such section, in accordance with applicable State law.
+
+        (dd) Such other conditions, as specified by the Secretary, such as conditions relating to coordinating care transitions to participating providers and facilities.
+
+  (D) *Independent freestanding emergency department* — The term “independent freestanding emergency department” means a health care facility that—
+
+    (i) is geographically separate and distinct and licensed separately from a hospital under applicable State law; and
+
+    (ii) provides any of the emergency services (as defined in subparagraph (C)(i)).
+
+  (E) *Qualifying payment amount*
+
+    (i) *In general* — The term “qualifying payment amount” means, subject to clauses (ii) and (iii), with respect to a sponsor of a group health plan and health insurance issuer offering group health insurance coverage—
+
+      (I) for an item or service furnished during 2022, the median of the contracted rates recognized by the plan or issuer, respectively (determined with respect to all such plans of such sponsor or all such coverage offered by such issuer that are offered within the same insurance market (specified in subclause (I), (II), or (III) of clause (iv)) as the plan or coverage) as the total maximum payment (including the cost-sharing amount imposed for such item or service and the amount to be paid by the plan or issuer, respectively) under such plans or coverage, respectively, on January 31, 2019, for the same or a similar item or service that is provided by a provider in the same or similar specialty and provided in the geographic region in which the item or service is furnished, consistent with the methodology established by the Secretary under paragraph (2), increased by the percentage increase in the consumer price index for all urban consumers (United States city average) over 2019, such percentage increase over 2020, and such percentage increase over 2021; and
+
+      (II) for an item or service furnished during 2023 or a subsequent year, the qualifying payment amount determined under this clause for such an item or service furnished in the previous year, increased by the percentage increase in the consumer price index for all urban consumers (United States city average) over such previous year.
+
+    (ii) *New plans and coverage* — The term “qualifying payment amount” means, with respect to a sponsor of a group health plan or health insurance issuer offering group health insurance coverage in a geographic region in which such sponsor or issuer, respectively, did not offer any group health plan or health insurance coverage during 2019—
+
+      (I) for the first year in which such group health plan or health insurance coverage, respectively, is offered in such region, a rate (determined in accordance with a methodology established by the Secretary) for items and services that are covered by such plan and furnished during such first year; and
+
+      (II) for each subsequent year such group health plan or health insurance coverage, respectively, is offered in such region, the qualifying payment amount determined under this clause for such items and services furnished in the previous year, increased by the percentage increase in the consumer price index for all urban consumers (United States city average) over such previous year.
+
+    (iii) *Insufficient information; newly covered items and services* — In the case of a sponsor of a group health plan or health insurance issuer offering group health insurance coverage that does not have sufficient information to calculate the median of the contracted rates described in clause (i)(I) in 2019 (or, in the case of a newly covered item or service (as defined in clause (v)(III)), in the first coverage year (as defined in clause (v)(I)) for such item or service with respect to such plan or coverage) for an item or service (including with respect to provider type, or amount, of claims for items or services (as determined by the Secretary) provided in a particular geographic region (other than in a case with respect to which clause (ii) applies)) the term “qualifying payment amount”—
+
+      (I) for an item or service furnished during 2022 (or, in the case of a newly covered item or service, during the first coverage year for such item or service with respect to such plan or coverage), means such rate for such item or service determined by the sponsor or issuer, respectively, through use of any database that is determined, in accordance with rulemaking described in paragraph (2), to not have any conflicts of interest and to have sufficient information reflecting allowed amounts paid to a health care provider or facility for relevant services furnished in the applicable geographic region (such as a State all-payer claims database);
+
+      (II) for an item or service furnished in a subsequent year (before the first sufficient information year (as defined in clause (v)(II)) for such item or service with respect to such plan or coverage), means the rate determined under subclause (I) or this subclause, as applicable, for such item or service for the year previous to such subsequent year, increased by the percentage increase in the consumer price index for all urban consumers (United States city average) over such previous year;
+
+      (III) for an item or service furnished in the first sufficient information year for such item or service with respect to such plan or coverage, has the meaning given the term qualifying payment amount in clause (i)(I), except that in applying such clause to such item or service, the reference to “furnished during 2022” shall be treated as a reference to furnished during such first sufficient information year, the reference to “in 2019” 1 shall be treated as a reference to such sufficient information year, and the increase described in such clause shall not be applied; and
+
+      (IV) for an item or service furnished in any year subsequent to the first sufficient information year for such item or service with respect to such plan or coverage, has the meaning given such term in clause (i)(II), except that in applying such clause to such item or service, the reference to “furnished during 2023 or a subsequent year” shall be treated as a reference to furnished during the year after such first sufficient information year or a subsequent year.
+
+    (iv) *Insurance market* — For purposes of clause (i)(I), a health insurance market specified in this clause is one of the following:
+
+      (I) The large group market (other than plans described in subclause (III)).
+
+      (II) The small group market (other than plans described in subclause (III)).
+
+      (III) In the case of a self-insured group health plan, other self-insured group health plans.
+
+    (v) *Definitions* — For purposes of this subparagraph:
+
+      (I) *First coverage year* — The term “first coverage year” means, with respect to a group health plan or group health insurance coverage offered by a health insurance issuer and an item or service for which coverage is not offered in 2019 under such plan or coverage, the first year after 2019 for which coverage for such item or service is offered under such plan or health insurance coverage.
+
+      (II) *First sufficient information year* — The term “first sufficient information year” means, with respect to a group health plan or group health insurance coverage offered by a health insurance issuer—
+
+        (aa) in the case of an item or service for which the plan or coverage does not have sufficient information to calculate the median of the contracted rates described in clause (i)(I) in 2019, the first year subsequent to 2022 for which such sponsor or issuer has such sufficient information to calculate the median of such contracted rates in the year previous to such first subsequent year; and
+
+        (bb) in the case of a newly covered item or service, the first year subsequent to the first coverage year for such item or service with respect to such plan or coverage for which the sponsor or issuer has sufficient information to calculate the median of the contracted rates described in clause (i)(I) in the year previous to such first subsequent year.
+
+      (III) *Newly covered item or service* — The term “newly covered item or service” means, with respect to a group health plan or health insurance issuer offering group health insurance coverage, an item or service for which coverage was not offered in 2019 under such plan or coverage, but is offered under such plan or coverage in a year after 2019.
+
+  (F) *Nonparticipating emergency facility; participating emergency facility*
+
+    (i) *Nonparticipating emergency facility* — The term “nonparticipating emergency facility” means, with respect to an item or service and a group health plan or group health insurance coverage offered by a health insurance issuer, an emergency department of a hospital, or an independent freestanding emergency department, that does not have a contractual relationship directly or indirectly with the plan or issuer, respectively, for furnishing such item or service under the plan or coverage, respectively.
+
+    (ii) *Participating emergency facility* — The term “participating emergency facility” means, with respect to an item or service and a group health plan or group health insurance coverage offered by a health insurance issuer, an emergency department of a hospital, or an independent freestanding emergency department, that has a contractual relationship directly or indirectly with the plan or issuer, respectively, with respect to the furnishing of such an item or service at such facility.
+
+  (G) *Nonparticipating providers; participating providers*
+
+    (i) *Nonparticipating provider* — The term “nonparticipating provider” means, with respect to an item or service and a group health plan or group health insurance coverage offered by a health insurance issuer, a physician or other health care provider who is acting within the scope of practice of that provider’s license or certification under applicable State law and who does not have a contractual relationship with the plan or issuer, respectively, for furnishing such item or service under the plan or coverage, respectively.
+
+    (ii) *Participating provider* — The term “participating provider” means, with respect to an item or service and a group health plan or group health insurance coverage offered by a health insurance issuer, a physician or other health care provider who is acting within the scope of practice of that provider’s license or certification under applicable State law and who has a contractual relationship with the plan or issuer, respectively, for furnishing such item or service under the plan or coverage, respectively.
+
+  (H) *Recognized amount* — The term “recognized amount” means, with respect to an item or service furnished by a nonparticipating provider or nonparticipating emergency facility during a year and a group health plan or group health insurance coverage offered by a health insurance issuer—
+
+    (i) subject to clause (iii), in the case of such item or service furnished in a State that has in effect a specified State law with respect to such plan, coverage, or issuer, respectively; such a nonparticipating provider or nonparticipating emergency facility; and such an item or service, the amount determined in accordance with such law;
+
+    (ii) subject to clause (iii), in the case of such item or service furnished in a State that does not have in effect a specified State law, with respect to such plan, coverage, or issuer, respectively; such a nonparticipating provider or nonparticipating emergency facility; and such an item or service, the amount that is the qualifying payment amount (as defined in subparagraph (E)) for such year and determined in accordance with rulemaking described in paragraph (2)) for such item or service; or
+
+    (iii) in the case of such item or service furnished in a State with an All-Payer Model Agreement under section 1115A of the Social Security Act [[42 U.S.C. 1315a](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1315a&num=0&edition=prelim)], the amount that the State approves under such system for such item or service so furnished.
+
+      (I) *Specified State law* — The term “specified State law” means, with respect to a State, an item or service furnished by a nonparticipating provider or nonparticipating emergency facility during a year and a group health plan or group health insurance coverage offered by a health insurance issuer, a State law that provides for a method for determining the total amount payable under such a plan, coverage, or issuer, respectively (to the extent such State law applies to such plan, coverage, or issuer, subject to [section 1144 of this title](./chapter-018-employee-retirement-income-security-program.md#section-1144)) in the case of a participant or beneficiary covered under such plan or coverage and receiving such item or service from such a nonparticipating provider or nonparticipating emergency facility.
+
+  (J) *Stabilize* — The term “to stabilize”, with respect to an emergency medical condition (as defined in subparagraph (B)), has the meaning give in section 1867(e)(3) of the Social Security Act ([42 U.S.C. 1395dd(e)(3)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395dd/e/3&num=0&edition=prelim)).
+
+  (K) *Out-of-network rate* — The term “out-of-network rate” means, with respect to an item or service furnished in a State during a year to a participant or beneficiary of a group health plan or group health insurance coverage offered by a health insurance issuer receiving such item or service from a nonparticipating provider or nonparticipating emergency facility—
+
+    (i) subject to clause (iii), in the case of such item or service furnished in a State that has in effect a specified State law with respect to such plan, coverage, or issuer, respectively; such a nonparticipating provider or nonparticipating emergency facility; and such an item or service, the amount determined in accordance with such law;
+
+    (ii) subject to clause (iii), in the case such State does not have in effect such a law with respect to such item or service, plan, and provider or facility—
+
+      (I) subject to subclause (II), if the provider or facility (as applicable) and such plan or coverage agree on an amount of payment (including if such agreed on amount is the initial payment sent by the plan under subsection (a)(1)(C)(iv)(I), subsection (b)(1)(C), or [section 1185f(a)(3)(A) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1185f/a/3/A&num=0&edition=prelim), as applicable, or is agreed on through open negotiations under subsection (c)(1)) with respect to such item or service, such agreed on amount; or
+
+      (II) if such provider or facility (as applicable) and such plan or coverage enter the independent dispute resolution process under subsection (c) and do not so agree before the date on which a certified IDR entity (as defined in paragraph (4) of such subsection) makes a determination with respect to such item or service under such subsection, the amount of such determination; or
+
+    (iii) in the case such State has an All-Payer Model Agreement under section 1115A of the Social Security Act [[42 U.S.C. 1315a](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1315a&num=0&edition=prelim)], the amount that the State approves under such system for such item or service so furnished.
+
+  (L) *Cost-sharing* — The term “cost-sharing” includes copayments, coinsurance, and deductibles.
+
+**(b) Coverage of non-emergency services performed by nonparticipating providers at certain participating facilities**
+
+(1) **In general** — In the case of items or services (other than emergency services to which subsection (a) applies) for which any benefits are provided or covered by a group health plan or health insurance issuer offering group health insurance coverage furnished to a participant or beneficiary of such plan or coverage by a nonparticipating provider (as defined in subsection (a)(3)(G)(i)) (and who, with respect to such items and services, has not satisfied the notice and consent criteria of [section 300gg–132(d) of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section300gg–132/d&num=0&edition=prelim)) with respect to a visit (as defined by the Secretary in accordance with paragraph (2)(B)) at a participating health care facility (as defined in paragraph (2)(A)), with respect to such plan or coverage, respectively, the plan or coverage, respectively—
+
+  (A) shall not impose on such participant or beneficiary a cost-sharing requirement for such items and services so furnished that is greater than the cost-sharing requirement that would apply under such plan or coverage, respectively, had such items or services been furnished by a participating provider (as defined in subsection (a)(3)(G)(ii));
+
+  (B) shall calculate such cost-sharing requirement as if the total amount that would have been charged for such items and services by such participating provider were equal to the recognized amount (as defined in subsection (a)(3)(H)) for such items and services, plan or coverage, and year;
+
+  (C) not later than 30 calendar days after the bill for such items or services is transmitted by such provider, shall send to the provider an initial payment or notice of denial of payment;
+
+  (D) shall pay a total plan or coverage payment directly, in accordance, if applicable, with the timing requirement described in subsection (c)(6), to such provider furnishing such items and services to such participant or beneficiary that is, with application of any initial payment under subparagraph (C), equal to the amount by which the out-of-network rate (as defined in subsection (a)(3)(K)) for such items and services exceeds the cost-sharing amount imposed under the plan or coverage, respectively, for such items and services (as determined in accordance with subparagraphs (A) and (B)) and year; and
+
+  (E) shall count toward any in-network deductible and in-network out-of-pocket maximums (as applicable) applied under the plan or coverage, respectively, any cost-sharing payments made by the participant or beneficiary (and such in-network deductible and out-of-pocket maximums shall be applied) with respect to such items and services so furnished in the same manner as if such cost-sharing payments were with respect to items and services furnished by a participating provider.
+
+(2) **Definitions** — In this section:
+
+  (A) *Participating health care facility*
+
+    (i) *In general* — The term “participating health care facility” means, with respect to an item or service and a group health plan or health insurance issuer offering group health insurance coverage, a health care facility described in clause (ii) that has a direct or indirect contractual relationship with the plan or issuer, respectively, with respect to the furnishing of such an item or service at the facility.
+
+    (ii) *Health care facility described* — A health care facility described in this clause, with respect to a group health plan or group health insurance coverage, is each of the following:
+
+      (I) A hospital (as defined in 1861(e) of the Social Security Act [[42 U.S.C. 1395x(e)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395x/e&num=0&edition=prelim)]).
+
+      (II) A hospital outpatient department.
+
+      (III) A critical access hospital (as defined in section 1861(mm)(1) of such Act [[42 U.S.C. 1395x(mm)(1)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395x/mm/1&num=0&edition=prelim)]).
+
+      (IV) An ambulatory surgical center described in section 1833(i)(1)(A) of such Act [42 U.S.C. 1395](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395&num=0&edition=prelim)l(i)(1)(A)].
+
+      (V) Any other facility, specified by the Secretary, that provides items or services for which coverage is provided under the plan or coverage, respectively.
+
+  (B) *Visit* — The term “visit” shall, with respect to items and services furnished to an individual at a health care facility, include equipment and devices, telemedicine services, imaging services, laboratory services, preoperative and postoperative services, and such other items and services as the Secretary may specify, regardless of whether or not the provider furnishing such items or services is at the facility.
+
+**(c) Determination of out-of-network rates to be paid by health plans; independent dispute resolution process**
+
+(1) **Determination through open negotiation**
+
+  (A) *In general* — With respect to an item or service furnished in a year by a nonparticipating provider or a nonparticipating facility, with respect to a group health plan or health insurance issuer offering group health insurance coverage, in a State described in subsection (a)(3)(K)(ii) with respect to such plan or coverage and provider or facility, and for which a payment is required to be made by the plan or coverage pursuant to subsection (a)(1) or (b)(1), the provider or facility (as applicable) or plan or coverage may, during the 30-day period beginning on the day the provider or facility receives an initial payment or a notice of denial of payment from the plan or coverage regarding a claim for payment for such item or service, initiate open negotiations under this paragraph between such provider or facility and plan or coverage for purposes of determining, during the open negotiation period, an amount agreed on by such provider or facility, respectively, and such plan or coverage for payment (including any cost-sharing) for such item or service. For purposes of this subsection, the open negotiation period, with respect to an item or service, is the 30-day period beginning on the date of initiation of the negotiations with respect to such item or service.
+
+  (B) *Accessing independent dispute resolution process in case of failed negotiations* — In the case of open negotiations pursuant to subparagraph (A), with respect to an item or service, that do not result in a determination of an amount of payment for such item or service by the last day of the open negotiation period described in such subparagraph with respect to such item or service, the provider or facility (as applicable) or group health plan or health insurance issuer offering group health insurance coverage that was party to such negotiations may, during the 4-day period beginning on the day after such open negotiation period, initiate the independent dispute resolution process under paragraph (2) with respect to such item or service. The independent dispute resolution process shall be initiated by a party pursuant to the previous sentence by submission to the other party and to the Secretary of a notification (containing such information as specified by the Secretary) and for purposes of this subsection, the date of initiation of such process shall be the date of such submission or such other date specified by the Secretary pursuant to regulations that is not later than the date of receipt of such notification by both the other party and the Secretary.
+
+(2) **Independent dispute resolution process available in case of failed open negotiations**
+
+  (A) *Establishment* — Not later than 1 year after December 27, 2020, the Secretary, jointly with the Secretary of Health and Human Services and the Secretary of the Treasury, shall establish by regulation one independent dispute resolution process (referred to in this subsection as the “IDR process”) under which, in the case of an item or service with respect to which a provider or facility (as applicable) or group health plan or health insurance issuer offering group health insurance coverage submits a notification under paragraph (1)(B) (in this subsection referred to as a “qualified IDR item or service”), a certified IDR entity under paragraph (4) determines, subject to subparagraph (B) and in accordance with the succeeding provisions of this subsection, the amount of payment under the plan or coverage for such item or service furnished by such provider or facility.
+
+  (B) *Authority to continue negotiations* — Under the independent dispute resolution process, in the case that the parties to a determination for a qualified IDR item or service agree on a payment amount for such item or service during such process but before the date on which the entity selected with respect to such determination under paragraph (4) makes such determination under paragraph (5), such amount shall be treated for purposes of subsection (a)(3)(K)(ii) as the amount agreed to by such parties for such item or service. In the case of an agreement described in the previous sentence, the independent dispute resolution process shall provide for a method to determine how to allocate between the parties to such determination the payment of the compensation of the entity selected with respect to such determination.
+
+  (C) *Clarification* — A nonparticipating provider may not, with respect to an item or service furnished by such provider, submit a notification under paragraph (1)(B) if such provider is exempt from the requirement under subsection (a) of [section 300gg–132 of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section300gg–132&num=0&edition=prelim) with respect to such item or service pursuant to subsection (b) of such section.
+
+(3) **Treatment of batching of items and services**
+
+  (A) *In general* — Under the IDR process, the Secretary shall specify criteria under which multiple qualified IDR dispute items and services are permitted to be considered jointly as part of a single determination by an entity for purposes of encouraging the efficiency (including minimizing costs) of the IDR process. Such items and services may be so considered only if—
+
+    (i) such items and services to be included in such determination are furnished by the same provider or facility;
+
+    (ii) payment for such items and services is required to be made by the same group health plan or health insurance issuer;
+
+    (iii) such items and services are related to the treatment of a similar condition; and
+
+    (iv) such items and services were furnished during the 30 day 22 So in original. Probably should be “30-day”. period following the date on which the first item or service included with respect to such determination was furnished or an alternative period as determined by the Secretary, for use in limited situations, such as by the consent of the parties or in the case of low-volume items and services, to encourage procedural efficiency and minimize health plan and provider administrative costs.
+
+  (B) *Treatment of bundled payments* — In carrying out subparagraph (A), the Secretary shall provide that, in the case of items and services which are included by a provider or facility as part of a bundled payment, such items and services included in such bundled payment may be part of a single determination under this subsection.
+
+(4) **Certification and selection of IDR entities**
+
+  (A) *In general* — The Secretary, jointly with the Secretary of Health and Human Services and Secretary of the Treasury, shall establish a process to certify (including to recertify) entities under this paragraph. Such process shall ensure that an entity so certified—
+
+    (i) has (directly or through contracts or other arrangements) sufficient medical, legal, and other expertise and sufficient staffing to make determinations described in paragraph (5) on a timely basis;
+
+    (ii) is not—
+
+      (I) a group health plan or health insurance issuer offering group health insurance coverage, provider, or facility;
+
+      (II) an affiliate or a subsidiary of such a group health plan or health insurance issuer, provider, or facility; or
+
+      (III) an affiliate or subsidiary of a professional or trade association of such group health plans or health insurance issuers or of providers or facilities;
+
+    (iii) carries out the responsibilities of such an entity in accordance with this subsection;
+
+    (iv) meets appropriate indicators of fiscal integrity;
+
+    (v) maintains the confidentiality (in accordance with regulations promulgated by the Secretary) of individually identifiable health information obtained in the course of conducting such determinations;
+
+    (vi) does not under the IDR process carry out any determination with respect to which the entity would not pursuant to subclause (I), (II), or (III) of subparagraph (F)(i) be eligible for selection; and
+
+    (vii) meets such other requirements as determined appropriate by the Secretary.
+
+  (B) *Period of certification* — Subject to subparagraph (C), each certification (including a recertification) of an entity under the process described in subparagraph (A) shall be for a 5-year period.
+
+  (C) *Revocation* — A certification of an entity under this paragraph may be revoked under the process described in subparagraph (A) if the entity has a pattern or practice of noncompliance with any of the requirements described in such subparagraph.
+
+  (D) *Petition for denial or withdrawal* — The process described in subparagraph (A) shall ensure that an individual, provider, facility, or group health plan or health insurance issuer offering group health insurance coverage may petition for a denial of a certification or a revocation of a certification with respect to an entity under this paragraph for failure of meeting a requirement of this subsection.
+
+  (E) *Sufficient number of entities* — The process described in subparagraph (A) shall ensure that a sufficient number of entities are certified under this paragraph to ensure the timely and efficient provision of determinations described in paragraph (5).
+
+  (F) *Selection of certified IDR entity* — The Secretary shall, with respect to the determination of the amount of payment under this subsection of an item or service, provide for a method—
+
+    (i) that allows for the group health plan or health insurance issuer offering group health insurance coverage and the nonparticipating provider or the nonparticipating emergency facility (as applicable) involved in a notification under paragraph (1)(B) to jointly select, not later than the last day of the 3-business day period following the date of the initiation of the process with respect to such item or service, for purposes of making such determination, an entity certified under this paragraph that—
+
+      (I) is not a party to such determination or an employee or agent of such a party;
+
+      (II) does not have a material familial, financial, or professional relationship with such a party; and
+
+      (III) does not otherwise have a conflict of interest with such a party (as determined by the Secretary); and
+
+    (ii) that requires, in the case such parties do not make such selection by such last day, the Secretary to, not later than 6 business days after such date of initiation—
+
+      (I) select such an entity that satisfies subclauses (I) through (III) of clause (i)); and
+
+      (II) provide notification of such selection to the provider or facility (as applicable) and the plan or issuer (as applicable) party to such determination.
+  An entity selected pursuant to the previous sentence to make a determination described in such sentence shall be referred to in this subsection as the “certified IDR entity” with respect to such determination.
+
+(5) **Payment determination**
+
+  (A) *In general* — Not later than 30 days after the date of selection of the certified IDR entity with respect to a determination for a qualified IDR item or service, the certified IDR entity shall—
+
+    (i) taking into account the considerations specified in subparagraph (C), select one of the offers submitted under subparagraph (B) to be the amount of payment for such item or service determined under this subsection for purposes of subsection (a)(1) or (b)(1), as applicable; and
+
+    (ii) notify the provider or facility and the group health plan or health insurance issuer offering group health insurance coverage party to such determination of the offer selected under clause (i).
+
+  (B) *Submission of offers* — Not later than 10 days after the date of selection of the certified IDR entity with respect to a determination for a qualified IDR item or service, the provider or facility and the group health plan or health insurance issuer offering group health insurance coverage party to such determination—
+
+    (i) shall each submit to the certified IDR entity with respect to such determination—
+
+      (I) an offer for a payment amount for such item or service furnished by such provider or facility; and
+
+      (II) such information as requested by the certified IDR entity relating to such offer; and
+
+    (ii) may each submit to the certified IDR entity with respect to such determination any information relating to such offer submitted by either party, including information relating to any circumstance described in subparagraph (C)(ii).
+
+  (C) *Considerations in determination*
+
+    (i) *In general* — In determining which offer is the payment to be applied pursuant to this paragraph, the certified IDR entity, with respect to the determination for a qualified IDR item or service shall consider—
+
+      (I) the qualifying payment amounts (as defined in subsection (a)(3)(E)) for the applicable year for items or services that are comparable to the qualified IDR item or service and that are furnished in the same geographic region (as defined by the Secretary for purposes of such subsection) as such qualified IDR item or service; and
+
+      (II) subject to subparagraph (D), information on any circumstance described in clause (ii), such information as requested in subparagraph (B)(i)(II), and any additional information provided in subparagraph (B)(ii).
+
+    (ii) *Additional circumstances* — For purposes of clause (i)(II), the circumstances described in this clause are, with respect to a qualified IDR item or service of a nonparticipating provider, nonparticipating emergency facility, group health plan, or health insurance issuer of group health insurance coverage the following:
+
+      (I) The level of training, experience, and quality and outcomes measurements of the provider or facility that furnished such item or service (such as those endorsed by the consensus-based entity authorized in section 1890 of the Social Security Act [[42 U.S.C. 1395aaa](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395aaa&num=0&edition=prelim)]).
+
+      (II) The market share held by the nonparticipating provider or facility or that of the plan or issuer in the geographic region in which the item or service was provided.
+
+      (III) The acuity of the individual receiving such item or service or the complexity of furnishing such item or service to such individual.
+
+      (IV) The teaching status, case mix, and scope of services of the nonparticipating facility that furnished such item or service.
+
+      (V) Demonstrations of good faith efforts (or lack of good faith efforts) made by the nonparticipating provider or nonparticipating facility or the plan or issuer to enter into network agreements and, if applicable, contracted rates between the provider or facility, as applicable, and the plan or issuer, as applicable, during the previous 4 plan years.
+
+  (D) *Prohibition on consideration of certain factors* — In determining which offer is the payment to be applied with respect to qualified IDR items and services furnished by a provider or facility, the certified IDR entity with respect to a determination shall not consider usual and customary charges, the amount that would have been billed by such provider or facility with respect to such items and services had the provisions of [section 300gg–131 of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section300gg–131&num=0&edition=prelim) or section 300gg–132 of such title (as applicable) not applied, or the payment or reimbursement rate for such items and services furnished by such provider or facility payable by a public payor, including under the Medicare program under title XVIII of the Social Security Act [[42 U.S.C. 1395](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395&num=0&edition=prelim) et seq.], under the Medicaid program under title XIX of such Act [[42 U.S.C. 1396](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1396&num=0&edition=prelim) et seq.], under the Children’s Health Insurance Program under title XXI of such Act [[42 U.S.C. 1397aa](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1397aa&num=0&edition=prelim) et seq.], under the TRICARE program under chapter 55 of title 10, or under chapter 17 of title 38.
+
+  (E) *Effects of determination*
+
+    (i) *In general* — A determination of a certified IDR entity under subparagraph (A)—
+
+      (I) shall be binding upon the parties involved, in the absence of a fraudulent claim or evidence of misrepresentation of facts presented to the IDR entity involved regarding such claim; and
+
+      (II) shall not be subject to judicial review, except in a case described in any of paragraphs (1) through (4) of [section 10(a) of title 9](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title9-section10/a&num=0&edition=prelim).
+
+    (ii) *Suspension of certain subsequent IDR requests* — In the case of a determination of a certified IDR entity under subparagraph (A), with respect to an initial notification submitted under paragraph (1)(B) with respect to qualified IDR items and services and the two parties involved with such notification, the party that submitted such notification may not submit during the 90-day period following such determination a subsequent notification under such paragraph involving the same other party to such notification with respect to such an item or service that was the subject of such initial notification.
+
+    (iii) *Subsequent submission of requests permitted* — In the case of a notification that pursuant to clause (ii) is not permitted to be submitted under paragraph (1)(B) during a 90-day period specified in such clause, if the end of the open negotiation period specified in paragraph (1)(A), that but for this clause would otherwise apply with respect to such notification, occurs during such 90-day period, such paragraph (1)(B) shall be applied as if the reference in such paragraph to the 4-day period beginning on the day after such open negotiation period were instead a reference to the 30-day period beginning on the day after the last day of such 90-day period.
+
+    (iv) *Reports* — The Secretary, jointly with the Secretary of Health and Human Services and the Secretary of the Treasury, shall examine the impact of the application of clause (ii) and whether the application of such clause delays payment determinations or impacts early, alternative resolution of claims (such as through open negotiations), and shall submit to Congress, not later than 2 years after the date of implementation of such clause an interim report (and not later than 4 years after such date of implementation, a final report) on whether any group health plans or health insurance issuers offering group or individual health insurance coverage or types of such plans or coverage have a pattern or practice of routine denial, low payment, or down-coding of claims, or otherwise abuse the 90-day period described in such clause, including recommendations on ways to discourage such a pattern or practice.
+
+  (F) *Costs of independent dispute resolution process* — In the case of a notification under paragraph (1)(B) submitted by a nonparticipating provider, nonparticipating emergency facility, group health plan, or health insurance issuer offering group health insurance coverage and submitted to a certified IDR entity—
+
+    (i) if such entity makes a determination with respect to such notification under subparagraph (A), the party whose offer is not chosen under such subparagraph shall be responsible for paying all fees charged by such entity; and
+
+    (ii) if the parties reach a settlement with respect to such notification prior to such a determination, each party shall pay half of all fees charged by such entity, unless the parties otherwise agree.
+
+(6) **Timing of payment** — The total plan or coverage payment required pursuant to subsection (a)(1) or (b)(1), with respect to a qualified IDR item or service for which a determination is made under paragraph (5)(A) or with respect to an item or service for which a payment amount is determined under open negotiations under paragraph (1), shall be made directly to the nonparticipating provider or facility not later than 30 days after the date on which such determination is made.
+
+(7) **Publication of information relating to the IDR process**
+
+  (A) *Publication of information* — For each calendar quarter in 2022 and each calendar quarter in a subsequent year, the Secretary shall make available on the public website of the Department of Labor—
+
+    (i) the number of notifications submitted under paragraph (1)(B) during such calendar quarter;
+
+    (ii) the size of the provider practices and the size of the facilities submitting notifications under paragraph (1)(B) during such calendar quarter;
+
+    (iii) the number of such notifications with respect to which a determination was made under paragraph (5)(A);
+
+    (iv) the information described in subparagraph (B) with respect to each notification with respect to which such a determination was so made;
+
+    (v) the number of times the payment amount determined (or agreed to) under this subsection exceeds the qualifying payment amount, specified by items and services;
+
+    (vi) the amount of expenditures made by the Secretary during such calendar quarter to carry out the IDR process;
+
+    (vii) the total amount of fees paid under paragraph (8) during such calendar quarter; and
+
+    (viii) the total amount of compensation paid to certified IDR entities under paragraph (5)(F) during such calendar quarter.
+
+  (B) *Information* — For purposes of subparagraph (A), the information described in this subparagraph is, with respect to a notification under paragraph (1)(B) by a nonparticipating provider, nonparticipating emergency facility, group health plan, or health insurance issuer offering group health insurance coverage—
+
+    (i) a description of each item and service included with respect to such notification;
+
+    (ii) the geography in which the items and services with respect to such notification were provided;
+
+    (iii) the amount of the offer submitted under paragraph (5)(B) by the group health plan or health insurance issuer (as applicable) and by the nonparticipating provider or nonparticipating emergency facility (as applicable) expressed as a percentage of the qualifying payment amount;
+
+    (iv) whether the offer selected by the certified IDR entity under paragraph (5) to be the payment applied was the offer submitted by such plan or issuer (as applicable) or by such provider or facility (as applicable) and the amount of such offer so selected expressed as a percentage of the qualifying payment amount;
+
+    (v) the category and practice specialty of each such provider or facility involved in furnishing such items and services;
+
+    (vi) the identity of the health plan or health insurance issuer, provider, or facility, with respect to the notification;
+
+    (vii) the length of time in making each determination;
+
+    (viii) the compensation paid to the certified IDR entity with respect to the settlement or determination; and
+
+    (ix) any other information specified by the Secretary.
+
+  (C) *IDR entity requirements* — For 2022 and each subsequent year, an IDR entity, as a condition of certification as an IDR entity, shall submit to the Secretary such information as the Secretary determines necessary to carry out the provisions of this subsection.
+
+  (D) *Clarification* — The Secretary shall ensure the public reporting under this paragraph does not contain information that would disclose privileged or confidential information of a group health plan or health insurance issuer offering group or individual health insurance coverage or of a provider or facility.
+
+(8) **Administrative fee**
+
+  (A) *In general* — Each party to a determination under paragraph (5) to which an entity is selected under paragraph (3) 33 So in original. Probably should be “paragraph (4)”. in a year shall pay to the Secretary, at such time and in such manner as specified by the Secretary, a fee for participating in the IDR process with respect to such determination in an amount described in subparagraph (B) for such year.
+
+  (B) *Amount of fee* — The amount described in this subparagraph for a year is an amount established by the Secretary in a manner such that the total amount of fees paid under this paragraph for such year is estimated to be equal to the amount of expenditures estimated to be made by the Secretary for such year in carrying out the IDR process.
+
+(9) **Waiver authority** — The Secretary may modify any deadline or other timing requirement specified under this subsection (other than the establishment date for the IDR process under paragraph (2)(A) and other than under paragraph (6)) in cases of extenuating circumstances, as specified by the Secretary, or to ensure that all claims that occur during a 90-day period described in paragraph (5)(E)(ii), but with respect to which a notification is not permitted by reason of such paragraph to be submitted under paragraph (1)(B) during such period, are eligible for the IDR process.
+
+**(d) Certain access fees to certain databases** In the case of a sponsor of a group health plan or health insurance issuer offering group health insurance coverage that, pursuant to subsection (a)(3)(E)(iii), uses a database described in such subsection to determine a rate to apply under such subsection for an item or service by reason of having insufficient information described in such subsection with respect to such item or service, such sponsor or issuer shall cover the cost for access to such database.
+
+**(e) Transparency regarding in-network and out-of-network deductibles and out-of-pocket limitations** A group health plan or a health insurance issuer offering group health insurance coverage and providing or covering any benefit with respect to items or services shall include, in clear writing, on any physical or electronic plan or insurance identification card issued to the participants or beneficiaries in the plan or coverage the following:
+
+(1) Any deductible applicable to such plan or coverage.
+
+(2) Any out-of-pocket maximum limitation applicable to such plan or coverage.
+
+(3) A telephone number and Internet website address through which such individual may seek consumer assistance information, such as information related to hospitals and urgent care facilities that have in effect a contractual relationship with such plan or coverage for furnishing items and services under such plan or coverage 44 So in original. Probably should be followed by a period.
+
+**(f) Advanced explanation of benefits**
+
+(1) **In general** — For plan years beginning on or after January 1, 2022, each group health plan, or a health insurance issuer offering group health insurance coverage shall, with respect to a notification submitted under [section 300gg–136 of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section300gg–136&num=0&edition=prelim) by a health care provider or health care facility to the plan or issuer for a participant or beneficiary under plan or coverage scheduled to receive an item or service from the provider or facility (or authorized representative of such participant or beneficiary), not later than 1 business day (or, in the case such item or service was so scheduled at least 10 business days before such item or service is to be furnished (or in the case of a request made to such plan or coverage by such participant or beneficiary), 3 business days) after the date on which the plan or coverage receives such notification (or such request), provide to the participant or beneficiary (through mail or electronic means, as requested by the participant or beneficiary) a notification (in clear and understandable language) including the following:
+
+  (A) Whether or not the provider or facility is a participating provider or a participating facility with respect to the plan or coverage with respect to the furnishing of such item or service and—
+
+    (i) in the case the provider or facility is a participating provider or facility with respect to the plan or coverage with respect to the furnishing of such item or service, the contracted rate under such plan for such item or service (based on the billing and diagnostic codes provided by such provider or facility); and
+
+    (ii) in the case the provider or facility is a nonparticipating provider or facility with respect to such plan or coverage, a description of how such individual may obtain information on providers and facilities that, with respect to such plan or coverage, are participating providers and facilities, if any.
+
+  (B) The good faith estimate included in the notification received from the provider or facility (if applicable) based on such codes.
+
+  (C) A good faith estimate of the amount the health plan is responsible for paying for items and services included in the estimate described in subparagraph (B).
+
+  (D) A good faith estimate of the amount of any cost-sharing for which the participant or beneficiary would be responsible for such item or service (as of the date of such notification).
+
+  (E) A good faith estimate of the amount that the participant or beneficiary has incurred toward meeting the limit of the financial responsibility (including with respect to deductibles and out-of-pocket maximums) under the plan or coverage (as of the date of such notification).
+
+  (F) In the case such item or service is subject to a medical management technique (including concurrent review, prior authorization, and step-therapy or fail-first protocols) for coverage under the plan or coverage, a disclaimer that coverage for such item or service is subject to such medical management technique.
+
+  (G) A disclaimer that the information provided in the notification is only an estimate based on the items and services reasonably expected, at the time of scheduling (or requesting) the item or service, to be furnished and is subject to change.
+
+  (H) Any other information or disclaimer the plan or coverage determines appropriate that is consistent with information and disclaimers required under this section.
+
+(2) **Authority to modify timing requirements in the case of specified items and services**
+
+  (A) *In general* — In the case of a participant or beneficiary scheduled to receive an item or service that is a specified item or service (as defined in subparagraph (B)), the Secretary may modify any timing requirements relating to the provision of the notification described in paragraph (1) to such participant or beneficiary with respect to such item or service. Any modification made by the Secretary pursuant to the previous sentence may not result in the provision of such notification after such participant or beneficiary has been furnished such item or service.
+
+  (B) *Specified item or service defined* — For purposes of subparagraph (A), the term “specified item or service” means an item or service that has low utilization or significant variation in costs (such as when furnished as part of a complex treatment), as specified by the Secretary.
+
+### Statutory Notes
+
+#### Applicability of Amendment
+Amendment of section by section 107(b) of div. BB of Pub. L. 116–260 applicable with respect to plan years beginning on or after Jan. 1, 2022. See 2020 Amendment note below.
+
+#### References in Text
+Section 109(a) of the No Surprises Act, referred to in subsec. (a)(2), is section 109(a) of Pub. L. 116–260, div. BB, title I, Dec. 27, 2020, 134 Stat. 2859, which is not classified to the Code.
+
+[Section 300gg–132 of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section300gg–132&num=0&edition=prelim), referred to in subsec. (a)(3)(C)(ii)(II)(bb), (cc), was in the original “section 2799B–2”, which was translated as reading section 2799B–2 of the Public Health Service Act, to reflect the probable intent of Congress.
+
+The phrase “in 2019”, referred to in subsec. (a)(3)(E)(iii)(III), does not appear in cl. (i)(I) of subsec. (a)(3)(E). However, subsec. (a)(3)(E)(iii)(III) of [section 9816 of Title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section9816&num=0&edition=prelim), Internal Revenue Code, which contains text similar to that in this subclause, refers to the phrase “on January 31, 2019”, which does appear in cl. (i)(I).
+
+The Social Security Act, referred to in subsec. (c)(5)(D), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Titles XVIII, XIX, and XXI of the Act are classified generally to subchapters XVIII (§ 1395 et seq.), XIX (§ 1396 et seq.), and XXI (§ 1397aa et seq.), respectively, of chapter 7 of this title. For complete classification of this Act to the Code, see [section 1305 of this title](./chapter-018-employee-retirement-income-security-program.md#section-1305) and Tables.
+
+#### Amendments
+2020—Subsecs. (c), (d). Pub. L. 116–260, § 103(b), added subsec. (c) and redesignated former subsec. (c) as (d).
+
+Subsec. (e). Pub. L. 116–260, § 107(b), added subsec. (e).
+
+Subsec. (f). Pub. L. 116–260, § 111(c), added subsec. (f).
+
+#### Effective Date of 2020 Amendment
+Amendment by section 107(b) of Pub. L. 116–260 applicable with respect to plan years beginning on or after Jan. 1, 2022, see section 107(d) of div. BB of Pub. L. 116–260, set out as a note under [section 9816 of Title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section9816&num=0&edition=prelim), Internal Revenue Code.
+
+#### Effective Date
+Section applicable with respect to plan years beginning on or after Jan. 1, 2022, see section 102(e) of div. BB of Pub. L. 116–260, set out as an Effective Date of 2020 Amendment note under [section 8902 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section8902&num=0&edition=prelim), Government Organization and Employees.
+
+
+<a id="section-1185f"></a>
+## § 1185f. Ending surprise air ambulance bills
+**(a) In general** In the case of a participant or beneficiary who is in a group health plan or group health insurance coverage offered by a health insurance issuer and who receives air ambulance services from a nonparticipating provider (as defined in [section 1185e(a)(3)(G) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1185e/a/3/G&num=0&edition=prelim)) with respect to such plan or coverage, if such services would be covered if provided by a participating provider (as defined in such section) with respect to such plan or coverage—
+
+(1) the cost-sharing requirement with respect to such services shall be the same requirement that would apply if such services were provided by such a participating provider, and any coinsurance or deductible shall be based on rates that would apply for such services if they were furnished by such a participating provider;
+
+(2) such cost-sharing amounts shall be counted towards the in-network deductible and in-network out-of-pocket maximum amount under the plan or coverage for the plan year (and such in-network deductible shall be applied) with respect to such items and services so furnished in the same manner as if such cost-sharing payments were with respect to items and services furnished by a participating provider; and
+
+(3) the group health plan or health insurance issuer, respectively, shall—
+
+  (A) not later than 30 calendar days after the bill for such services is transmitted by such provider, send to the provider, an initial payment or notice of denial of payment; and
+
+  (B) pay a total plan or coverage payment, in accordance with, if applicable, subsection (b)(6), directly to such provider furnishing such services to such participant, beneficiary, or enrollee that is, with application of any initial payment under subparagraph (A), equal to the amount by which the out-of-network rate (as defined in [section 1185e(a)(3)(K) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1185e/a/3/K&num=0&edition=prelim)) for such services and year involved exceeds the cost-sharing amount imposed under the plan or coverage, respectively, for such services (as determined in accordance with paragraphs (1) and (2)).
+
+**(b) Determination of out-of-network rates to be paid by health plans; independent dispute resolution process**
+
+(1) **Determination through open negotiation**
+
+  (A) *In general* — With respect to air ambulance services furnished in a year by a nonparticipating provider, with respect to a group health plan or health insurance issuer offering group health insurance coverage, and for which a payment is required to be made by the plan or coverage pursuant to subsection (a)(3), the provider or plan or coverage may, during the 30-day period beginning on the day the provider receives a payment or a statement of denial of payment from the plan or coverage regarding a claim for payment for such service, initiate open negotiations under this paragraph between such provider and plan or coverage for purposes of determining, during the open negotiation period, an amount agreed on by such provider, and such plan or coverage for payment (including any cost-sharing) for such service. For purposes of this subsection, the open negotiation period, with respect to air ambulance services, is the 30-day period beginning on the date of initiation of the negotiations with respect to such services.
+
+  (B) *Accessing independent dispute resolution process in case of failed negotiations* — In the case of open negotiations pursuant to subparagraph (A), with respect to air ambulance services, that do not result in a determination of an amount of payment for such services by the last day of the open negotiation period described in such subparagraph with respect to such services, the provider or group health plan or health insurance issuer offering group health insurance coverage that was party to such negotiations may, during the 4-day period beginning on the day after such open negotiation period, initiate the independent dispute resolution process under paragraph (2) with respect to such item or service. The independent dispute resolution process shall be initiated by a party pursuant to the previous sentence by submission to the other party and to the Secretary of a notification (containing such information as specified by the Secretary) and for purposes of this subsection, the date of initiation of such process shall be the date of such submission or such other date specified by the Secretary pursuant to regulations that is not later than the date of receipt of such notification by both the other party and the Secretary.
+
+(2) **Independent dispute resolution process available in case of failed open negotiations**
+
+  (A) *Establishment* — Not later than 1 year after December 27, 2020, the Secretary, jointly with the Secretary of Health and Human Services and the Secretary of the Treasury, shall establish by regulation one independent dispute resolution process (referred to in this subsection as the “IDR process”) under which, in the case of air ambulance services with respect to which a provider or group health plan or health insurance issuer offering group health insurance coverage submits a notification under paragraph (1)(B) (in this subsection referred to as a “qualified IDR air ambulance services”), a certified IDR entity under paragraph (4) determines, subject to subparagraph (B) and in accordance with the succeeding provisions of this subsection, the amount of payment under the plan or coverage for such services furnished by such provider.
+
+  (B) *Authority to continue negotiations* — Under the independent dispute resolution process, in the case that the parties to a determination for qualified IDR air ambulance services agree on a payment amount for such services during such process but before the date on which the entity selected with respect to such determination under paragraph (4) makes such determination under paragraph (5), such amount shall be treated for purposes of [section 1185e(a)(3)(K)(ii) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1185e/a/3/K/ii&num=0&edition=prelim) as the amount agreed to by such parties for such services. In the case of an agreement described in the previous sentence, the independent dispute resolution process shall provide for a method to determine how to allocate between the parties to such determination the payment of the compensation of the entity selected with respect to such determination.
+
+  (C) *Clarification* — A nonparticipating provider may not, with respect to an item or service furnished by such provider, submit a notification under paragraph (1)(B) if such provider is exempt from the requirement under subsection (a) of [section 300gg–132 of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section300gg–132&num=0&edition=prelim) with respect to such item or service pursuant to subsection (b) of such section.
+
+(3) **Treatment of batching of services** — The provisions of [section 1185e(c)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1185e/c/3&num=0&edition=prelim) shall apply with respect to a notification submitted under this subsection with respect to air ambulance services in the same manner and to the same extent such provisions apply with respect to a notification submitted under [section 1185e(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1185e/c&num=0&edition=prelim) with respect to items and services described in such section.
+
+(4) **IDR entities**
+
+  (A) *Eligibility* — An IDR entity certified under this subsection is an IDR entity certified under [section 1185e(c)(4) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1185e/c/4&num=0&edition=prelim).
+
+  (B) *Selection of certified IDR entity* — The provisions of subparagraph (F) of [section 1185e(c)(4) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1185e/c/4&num=0&edition=prelim) shall apply with respect to selecting an IDR entity certified pursuant to subparagraph (A) with respect to the determination of the amount of payment under this subsection of air ambulance services in the same manner as such provisions apply with respect to selecting an IDR entity certified under such section with respect to the determination of the amount of payment under [section 1185e(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1185e/c&num=0&edition=prelim) of an item or service. An entity selected pursuant to the previous sentence to make a determination described in such sentence shall be referred to in this subsection as the “certified IDR entity” with respect to such determination.
+
+(5) **Payment determination**
+
+  (A) *In general* — Not later than 30 days after the date of selection of the certified IDR entity with respect to a determination for qualified IDR ambulance services, the certified IDR entity shall—
+
+    (i) taking into account the considerations specified in subparagraph (C), select one of the offers submitted under subparagraph (B) to be the amount of payment for such services determined under this subsection for purposes of subsection (a)(3); and
+
+    (ii) notify the provider or facility and the group health plan or health insurance issuer offering group health insurance coverage party to such determination of the offer selected under clause (i).
+
+  (B) *Submission of offers* — Not later than 10 days after the date of selection of the certified IDR entity with respect to a determination for qualified IDR air ambulance services, the provider and the group health plan or health insurance issuer offering group health insurance coverage party to such determination—
+
+    (i) shall each submit to the certified IDR entity with respect to such determination—
+
+      (I) an offer for a payment amount for such services furnished by such provider; and
+
+      (II) such information as requested by the certified IDR entity relating to such offer; and
+
+    (ii) may each submit to the certified IDR entity with respect to such determination any information relating to such offer submitted by either party, including information relating to any circumstance described in subparagraph (C)(ii).
+
+  (C) *Considerations in determination*
+
+    (i) *In general* — In determining which offer is the payment to be applied pursuant to this paragraph, the certified IDR entity, with respect to the determination for a qualified IDR air ambulance service shall consider—
+
+      (I) the qualifying payment amounts (as defined in [section 1185e(a)(3)(E) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1185e/a/3/E&num=0&edition=prelim)) for the applicable year for items and services that are comparable to the qualified IDR air ambulance service and that are furnished in the same geographic region (as defined by the Secretary for purposes of such subsection) as such qualified IDR air ambulance service; and
+
+      (II) subject to clause (iii), information on any circumstance described in clause (ii), such information as requested in subparagraph (B)(i)(II), and any additional information provided in subparagraph (B)(ii).
+
+    (ii) *Additional circumstances* — For purposes of clause (i)(II), the circumstances described in this clause are, with respect to air ambulance services included in the notification submitted under paragraph (1)(B) of a nonparticipating provider, group health plan, or health insurance issuer the following:
+
+      (I) The quality and outcomes measurements of the provider that furnished such services.
+
+      (II) The acuity of the individual receiving such services or the complexity of furnishing such services to such individual.
+
+      (III) The training, experience, and quality of the medical personnel that furnished such services.
+
+      (IV) Ambulance vehicle type, including the clinical capability level of such vehicle.
+
+      (V) Population density of the pick up location (such as urban, suburban, rural, or frontier).
+
+      (VI) Demonstrations of good faith efforts (or lack of good faith efforts) made by the nonparticipating provider or nonparticipating facility or the plan or issuer to enter into network agreements and, if applicable, contracted rates between the provider and the plan or issuer, as applicable, during the previous 4 plan years.
+
+    (iii) *Prohibition on consideration of certain factors* — In determining which offer is the payment amount to be applied with respect to qualified IDR air ambulance services furnished by a provider, the certified IDR entity with respect to such determination shall not consider usual and customary charges, the amount that would have been billed by such provider with respect to such services had the provisions of [section 300gg–135 of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section300gg–135&num=0&edition=prelim) not applied, or the payment or reimbursement rate for such services furnished by such provider payable by a public payor, including under the Medicare program under title XVIII of the Social Security Act [[42 U.S.C. 1395](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395&num=0&edition=prelim) et seq.], under the Medicaid program under title XIX of such Act [[42 U.S.C. 1396](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1396&num=0&edition=prelim) et seq.], under the Children’s Health Insurance Program under title XXI of such Act [[42 U.S.C. 1397aa](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1397aa&num=0&edition=prelim) et seq.], under the TRICARE program under chapter 55 of title 10, or under chapter 17 of title 38.
+
+  (D) *Effects of determination* — The provisions of [section 1185e(c)(5)(E) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1185e/c/5/E&num=0&edition=prelim) shall apply with respect to a determination of a certified IDR entity under subparagraph (A), the notification submitted with respect to such determination, the services with respect to such notification, and the parties to such notification in the same manner as such provisions apply with respect to a determination of a certified IDR entity under [section 1185e(c)(5)(E) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1185e/c/5/E&num=0&edition=prelim), the notification submitted with respect to such determination, the items and services with respect to such notification, and the parties to such notification.
+
+  (E) *Costs of independent dispute resolution process* — The provisions of [section 1185e(c)(5)(F) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1185e/c/5/F&num=0&edition=prelim) shall apply to a notification made under this subsection, the parties to such notification, and a determination under subparagraph (A) in the same manner and to the same extent such provisions apply to a notification under [section 1185e(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1185e/c&num=0&edition=prelim), the parties to such notification and a determination made under [section 1185e(c)(5)(A) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1185e/c/5/A&num=0&edition=prelim).
+
+(6) **Timing of payment** — The total plan or coverage payment required pursuant to subsection (a)(3), with respect to qualified IDR air ambulance services for which a determination is made under paragraph (5)(A) or with respect to air ambulance services for which a payment amount is determined under open negotiations under paragraph (1), shall be made directly to the nonparticipating provider not later than 30 days after the date on which such determination is made.
+
+(7) **Publication of information relating to the IDR process**
+
+  (A) *In general* — For each calendar quarter in 2022 and each calendar quarter in a subsequent year, the Secretary shall publish on the public website of the Department of Labor—
+
+    (i) the number of notifications submitted under the IDR process during such calendar quarter;
+
+    (ii) the number of such notifications with respect to which a final determination was made under paragraph (5)(A);
+
+    (iii) the information described in subparagraph (B) with respect to each notification with respect to which such a determination was so made.11 So in original. The period probably should be a semicolon.
+
+    (iv) the number of times the payment amount determined (or agreed to) under this subsection exceeds the qualifying payment amount;
+
+    (v) the amount of expenditures made by the Secretary during such calendar quarter to carry out the IDR process;
+
+    (vi) the total amount of fees paid under paragraph (8) during such calendar quarter; and
+
+    (vii) the total amount of compensation paid to certified IDR entities under paragraph (5)(E) during such calendar quarter.
+
+  (B) *Information with respect to requests* — For purposes of subparagraph (A), the information described in this subparagraph is, with respect to a notification under the IDR process of a nonparticipating provider, group health plan, or health insurance issuer offering group health insurance coverage—
+
+    (i) a description of each air ambulance service included in such notification;
+
+    (ii) the geography in which the services included in such notification were provided;
+
+    (iii) the amount of the offer submitted under paragraph (2) by the group health plan or health insurance issuer (as applicable) and by the nonparticipating provider expressed as a percentage of the qualifying payment amount;
+
+    (iv) whether the offer selected by the certified IDR entity under paragraph (5) to be the payment applied was the offer submitted by such plan or issuer (as applicable) or by such provider and the amount of such offer so selected expressed as a percentage of the qualifying payment amount;
+
+    (v) ambulance vehicle type, including the clinical capability level of such vehicle;
+
+    (vi) the identity of the group health plan or health insurance issuer or air ambulance provider with respect to such notification;
+
+    (vii) the length of time in making each determination;
+
+    (viii) the compensation paid to the certified IDR entity with respect to the settlement or determination; and
+
+    (ix) any other information specified by the Secretary.
+
+  (C) *IDR entity requirements* — For 2022 and each subsequent year, an IDR entity, as a condition of certification as an IDR entity, shall submit to the Secretary such information as the Secretary determines necessary for the Secretary to carry out the provisions of this paragraph.
+
+  (D) *Clarification* — The Secretary shall ensure the public reporting under this paragraph does not contain information that would disclose privileged or confidential information of a group health plan or health insurance issuer offering group or individual health insurance coverage or of a provider or facility.
+
+(8) **Administrative fee**
+
+  (A) *In general* — Each party to a determination under paragraph (5) to which an entity is selected under paragraph (4) in a year shall pay to the Secretary, at such time and in such manner as specified by the Secretary, a fee for participating in the IDR process with respect to such determination in an amount described in subparagraph (B) for such year.
+
+  (B) *Amount of fee* — The amount described in this subparagraph for a year is an amount established by the Secretary in a manner such that the total amount of fees paid under this paragraph for such year is estimated to be equal to the amount of expenditures estimated to be made by the Secretary for such year in carrying out the IDR process.
+
+(9) **Waiver authority** — The Secretary may modify any deadline or other timing requirement specified under this subsection (other than the establishment date for the IDR process under paragraph (2)(A) and other than under paragraph (6)) in cases of extenuating circumstances, as specified by the Secretary, or to ensure that all claims that occur during a 90-day period applied through paragraph (5)(D), but with respect to which a notification is not permitted by reason of such paragraph to be submitted under paragraph (1)(B) during such period, are eligible for the IDR process.
+
+**(c) Definition** For purposes of this section:
+
+(1) **Air ambulance services** — The term “air ambulance service” means medical transport by helicopter or airplane for patients.
+
+(2) **Qualifying payment amount** — The term “qualifying payment amount” has the meaning given such term in [section 1185e(a)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1185e/a/3&num=0&edition=prelim).
+
+(3) **Nonparticipating provider** — The term “nonparticipating provider” has the meaning given such term in [section 1185e(a)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1185e/a/3&num=0&edition=prelim).
+
+### Statutory Notes
+
+#### References in Text
+The Social Security Act, referred to in subsec. (b)(5)(C)(iii), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Titles XVIII, XIX, and XXI of the Act are classified generally to subchapters XVIII (§ 1395 et seq.), XIX (§ 1396 et seq.), and XXI (§ 1397aa et seq.), respectively, of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see [section 1305 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1305&num=0&edition=prelim) and Tables.
+
+#### Effective Date
+Section applicable with respect to plan years beginning on or after Jan. 1, 2022, see section 105(a)(4) of div. BB of Pub. L. 116–260, set out as a note under [section 9817 of Title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section9817&num=0&edition=prelim), Internal Revenue Code.
+
+
+<a id="section-1185g"></a>
+## § 1185g. Continuity of care
+**(a) Ensuring continuity of care with respect to terminations of certain contractual relationships resulting in changes in provider network status**
+
+(1) **In general** — In the case of an individual with benefits under a group health plan or group health insurance coverage offered by a health insurance issuer and with respect to a health care provider or facility that has a contractual relationship with such plan or such issuer (as applicable) for furnishing items and services under such plan or such coverage, if, while such individual is a continuing care patient (as defined in subsection (b)) with respect to such provider or facility—
+
+  (A) such contractual relationship is terminated (as defined in paragraph (b));
+
+  (B) benefits provided under such plan or such health insurance coverage with respect to such provider or facility are terminated because of a change in the terms of the participation of the provider or facility in such plan or coverage; or
+
+  (C) a contract between such group health plan and a health insurance issuer offering health insurance coverage in connection with such plan is terminated, resulting in a loss of benefits provided under such plan with respect to such provider or facility;
+  the plan or issuer, respectively, shall meet the requirements of paragraph (2) with respect to such individual.
+
+(2) **Requirements** — The requirements of this paragraph are that the plan or issuer—
+
+  (A) notify each individual enrolled under such plan or coverage who is a continuing care patient with respect to a provider or facility at the time of a termination described in paragraph (1) affecting such provider or facility on a timely basis of such termination and such individual’s right to elect continued transitional care from such provider or facility under this section;
+
+  (B) provide such individual with an opportunity to notify the plan or issuer of the individual’s need for transitional care; and
+
+  (C) permit the patient to elect to continue to have benefits provided under such plan or such coverage, under the same terms and conditions as would have applied and with respect to such items and services as would have been covered under such plan or coverage had such termination not occurred, with respect to the course of treatment furnished by such provider or facility relating to such individual’s status as a continuing care patient during the period beginning on the date on which the notice under subparagraph (A) is provided and ending on the earlier of—
+
+    (i) the 90-day period beginning on such date; or
+
+    (ii) the date on which such individual is no longer a continuing care patient with respect to such provider or facility.
+
+**(b) Definitions** In this section:
+
+(1) **Continuing care patient** — The term “continuing care patient” means an individual who, with respect to a provider or facility—
+
+  (A) is undergoing a course of treatment for a serious and complex condition from the provider or facility;
+
+  (B) is undergoing a course of institutional or inpatient care from the provider or facility;
+
+  (C) is scheduled to undergo nonelective surgery from the provide or facility, including receipt of postoperative care from such provider or facility with respect to such a surgery;
+
+  (D) is pregnant and undergoing a course of treatment for the pregnancy from the provider or facility; or
+
+  (E) is or was determined to be terminally ill (as determined under [section 1395x(dd)(3)(A) of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395x/dd/3/A&num=0&edition=prelim)) and is receiving treatment for such illness from such provider or facility.
+
+(2) **Serious and complex condition** — The term “serious and complex condition” means, with respect to a participant or beneficiary under a group health plan or group health insurance coverage—
+
+  (A) in the case of an acute illness, a condition that is serious enough to require specialized medical treatment to avoid the reasonable possibility of death or permanent harm; or
+
+  (B) in the case of a chronic illness or condition, a condition that—
+
+    (i) is life-threatening, degenerative, potentially disabling, or congenital; and
+
+    (ii) requires specialized medical care over a prolonged period of time.
+
+(3) **Terminated** — The term “terminated” includes, with respect to a contract, the expiration or nonrenewal of the contract, but does not include a termination of the contract for failure to meet applicable quality standards or for fraud.
+
+### Statutory Notes
+
+#### Effective Date
+Section applicable with respect to plan years beginning on or after Jan. 1, 2022, see section 113(e) of div. BB of Pub. L. 116–260, set out as a note under [section 9818 of Title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section9818&num=0&edition=prelim), Internal Revenue Code.
+
+
+<a id="section-1185h"></a>
+## § 1185h. Maintenance of price comparison tool
+
+A group health plan or a health insurance issuer offering group health insurance coverage shall offer price comparison guidance by telephone and make available on the Internet website of the plan or issuer a price comparison tool that (to the extent practicable) allows an individual enrolled under such plan or coverage, with respect to such plan year, such geographic region, and participating providers with respect to such plan or coverage, to compare the amount of cost-sharing that the individual would be responsible for paying under such plan or coverage with respect to the furnishing of a specific item or service by any such provider.
+
+### Statutory Notes
+
+#### Effective Date
+Section applicable with respect to plan years beginning on or after Jan. 1, 2022, see section 114(d) of div. BB of Pub. L. 116–260, set out as a note under [section 9819 of Title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section9819&num=0&edition=prelim), Internal Revenue Code.
+
+
+<a id="section-1185i"></a>
+## § 1185i. Protecting patients and improving the accuracy of provider directory information
+**(a) Provider directory information requirements**
+
+(1) **In general** — For plan years beginning on or after January 1, 2022, each group health plan and health insurance issuer offering group health insurance coverage shall—
+
+  (A) establish the verification process described in paragraph (2);
+
+  (B) establish the response protocol described in paragraph (3);
+
+  (C) establish the database described in paragraph (4); and
+
+  (D) include in any directory (other than the database described in subparagraph (C)) containing provider directory information with respect to such plan or such coverage the information described in paragraph (5).
+
+(2) **Verification process** — The verification process described in this paragraph is, with respect to a group health plan or a health insurance issuer offering group health insurance coverage, a process—
+
+  (A) under which, not less frequently than once every 90 days, such plan or such issuer (as applicable) verifies and updates the provider directory information included on the database described in paragraph (4) of such plan or issuer of each health care provider and health care facility included in such database;
+
+  (B) that establishes a procedure for the removal of such a provider or facility with respect to which such plan or issuer has been unable to verify such information during a period specified by the plan or issuer; and
+
+  (C) that provides for the update of such database within 2 business days of such plan or issuer receiving from such a provider or facility information pursuant to [section 300gg–139 of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section300gg–139&num=0&edition=prelim).
+
+(3) **Response protocol** — The response protocol described in this paragraph is, in the case of an individual enrolled under a group health plan or group health insurance coverage offered by a health insurance issuer who requests information through a telephone call or electronic, web-based, or Internet-based means on whether a health care provider or health care facility has a contractual relationship to furnish items and services under such plan or such coverage, a protocol under which such plan or such issuer (as applicable), in the case such request is made through a telephone call—
+
+  (A) responds to such individual as soon as practicable and in no case later than 1 business day after such call is received, through a written electronic or print (as requested by such individual) communication; and
+
+  (B) retains such communication in such individual’s file for at least 2 years following such response.
+
+(4) **Database** — The database described in this paragraph is, with respect to a group health plan or health insurance issuer offering group health insurance coverage, a database on the public website of such plan or issuer that contains—
+
+  (A) a list of each health care provider and health care facility with which such plan or such issuer has a direct or indirect contractual relationship for furnishing items and services under such plan or such coverage; and
+
+  (B) provider directory information with respect to each such provider and facility.
+
+(5) **Information** — The information described in this paragraph is, with respect to a print directory containing provider directory information with respect to a group health plan or group health insurance coverage offered by a health insurance issuer, a notification that such information contained in such directory was accurate as of the date of publication of such directory and that an individual enrolled under such plan or such coverage should consult the database described in paragraph (4) with respect to such plan or such coverage or contact such plan or the issuer of such coverage to obtain the most current provider directory information with respect to such plan or such coverage.
+
+(6) **Definition** — For purposes of this subsection, the term “provider directory information” includes, with respect to a group health plan and a health insurance issuer offering group health insurance coverage, the name, address, specialty, telephone number, and digital contact information of each health care provider or health care facility with which such plan or such issuer has a contractual relationship for furnishing items and services under such plan or such coverage.
+
+(7) **Rule of construction** — Nothing in this section shall be construed to preempt any provision of State law relating to health care provider directories, to the extent such State law applies to such plan, coverage, or issuer, subject to [section 1144 of this title](./chapter-018-employee-retirement-income-security-program.md#section-1144).
+
+**(b) Cost-sharing for services provided based on reliance on incorrect provider network information**
+
+(1) **In general** — For plan years beginning on or after January 1, 2022, in the case of an item or service furnished to a participant or beneficiary of a group health plan or group health insurance coverage offered by a health insurance issuer by a nonparticipating provider or a nonparticipating facility, if such item or service would otherwise be covered under such plan or coverage if furnished by a participating provider or participating facility and if either of the criteria described in paragraph (2) applies with respect to such participant or beneficiary and item or service, the plan or coverage—
+
+  (A) shall not impose on such participant or beneficiary a cost-sharing amount for such item or service so furnished that is greater than the cost-sharing amount that would apply under such plan or coverage had such item or service been furnished by a participating provider; and
+
+  (B) shall apply the deductible or out-of-pocket maximum, if any, that would apply if such services were furnished by a participating provider or a participating facility.
+
+(2) **Criteria described** — For purposes of paragraph (1), the criteria described in this paragraph, with respect to an item or service furnished to a participant or beneficiary of a group health plan or group health insurance coverage offered by a health insurance issuer by a nonparticipating provider or a nonparticipating facility, are the following:
+
+  (A) The participant or beneficiary received through a database, provider directory, or response protocol described in subsection (a) information with respect to such item and service to be furnished and such information provided that the provider was a participating provider or facility was a participating facility, with respect to the plan for furnishing such item or service.
+
+  (B) The information was not provided, in accordance with subsection (a), to the participant or beneficiary and the participant or beneficiary requested through the response protocol described in subsection (a)(3) of the plan or coverage information on whether the provider was a participating provider or facility was a participating facility with respect to the plan for furnishing such item or service and was informed through such protocol that the provider was such a participating provider or facility was such a participating facility.
+
+**(c) Disclosure on patient protections against balance billing** For plan years beginning on or after January 1, 2022, each group health plan and health insurance issuer offering group health insurance coverage shall make publicly available, post on a public website of such plan or issuer, and include on each explanation of benefits for an item or service with respect to which the requirements under [section 1185e of this title](./chapter-018-employee-retirement-income-security-program.md#section-1185e) applies—
+
+(1) information in plain language on—
+
+  (A) the requirements and prohibitions applied under sections 300gg–131 and 300gg–132 of title 42 (relating to prohibitions on balance billing in certain circumstances);
+
+  (B) if provided for under applicable State law, any other requirements on providers and facilities regarding the amounts such providers and facilities may, with respect to an item or service, charge a participant or beneficiary of such plan or coverage with respect to which such a provider or facility does not have a contractual relationship for furnishing such item or service under the plan or coverage after receiving payment from the plan or coverage for such item or service and any applicable cost sharing payment from such participant or beneficiary; and
+
+  (C) the requirements applied under [section 1185e of this title](./chapter-018-employee-retirement-income-security-program.md#section-1185e); and
+
+(2) information on contacting appropriate State and Federal agencies in the case that an individual believes that such a provider or facility has violated any requirement described in paragraph (1) with respect to such individual.
+
+
+<a id="section-1185k"></a>
+## § 1185k. Other patient protections
+**(a) Choice of health care professional** If a group health plan, or a health insurance issuer offering group health insurance coverage, requires or provides for designation by a participant or beneficiary of a participating primary care provider, then the plan or issuer shall permit each participant and beneficiary to designate any participating primary care provider who is available to accept such individual.
+
+**(b) Access to pediatric care**
+
+(1) **Pediatric care** — In the case of a person who has a child who is a participant or beneficiary under a group health plan, or group health insurance coverage offered by a health insurance issuer, if the plan or issuer requires or provides for the designation of a participating primary care provider for the child, the plan or issuer shall permit such person to designate a physician (allopathic or osteopathic) who specializes in pediatrics as the child’s primary care provider if such provider participates in the network of the plan or issuer.
+
+(2) **Construction** — Nothing in paragraph (1) shall be construed to waive any exclusions of coverage under the terms and conditions of the plan or health insurance coverage with respect to coverage of pediatric care.
+
+**(c) Patient access to obstetrical and gynecological care**
+
+(1) **General rights**
+
+  (A) *Direct access* — A group health plan, or health insurance issuer offering group health insurance coverage, described in paragraph (2) may not require authorization or referral by the plan, issuer, or any person (including a primary care provider described in paragraph (2)(B)) in the case of a female participant or beneficiary who seeks coverage for obstetrical or gynecological care provided by a participating health care professional who specializes in obstetrics or gynecology. Such professional shall agree to otherwise adhere to such plan’s or issuer’s policies and procedures, including procedures regarding referrals and obtaining prior authorization and providing services pursuant to a treatment plan (if any) approved by the plan or issuer.
+
+  (B) *Obstetrical and gynecological care* — A group health plan or health insurance issuer described in paragraph (2) shall treat the provision of obstetrical and gynecological care, and the ordering of related obstetrical and gynecological items and services, pursuant to the direct access described under subparagraph (A), by a participating health care professional who specializes in obstetrics or gynecology as the authorization of the primary care provider.
+
+(2) **Application of paragraph** — A group health plan, or health insurance issuer offering group health insurance coverage, described in this paragraph is a group health plan or coverage that—
+
+  (A) provides coverage for obstetric or gynecologic care; and
+
+  (B) requires the designation by a participant or beneficiary of a participating primary care provider.
+
+(3) **Construction** — Nothing in paragraph (1) shall be construed to—
+
+  (A) waive any exclusions of coverage under the terms and conditions of the plan or health insurance coverage with respect to coverage of obstetrical or gynecological care; or
+
+  (B) preclude the group health plan or health insurance issuer involved from requiring that the obstetrical or gynecological provider notify the primary care health care professional or the plan or issuer of treatment decisions.
+
+### Statutory Notes
+
+#### Effective Date
+Section applicable with respect to plan years beginning on or after Jan. 1, 2022, see section 102(e) of div. BB of Pub. L. 116–260, set out as an Effective Date of 2020 Amendment note under [section 8902 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section8902&num=0&edition=prelim), Government Organization and Employees.
+
+
+<a id="section-1185l"></a>
+## § 1185l. Air ambulance report requirements
+**(a) In general** Each group health plan and health insurance issuer offering group health insurance coverage shall submit to the Secretary, jointly with the Secretary of Health and Human Services and the Secretary of the Treasury—
+
+(1) not later than the date that is 90 days after the last day of the first calendar year beginning on or after the date on which a final rule is promulgated pursuant to the rulemaking described in section 106(d) of the No Surprises Act, the information described in subsection (b) with respect to such plan year; and
+
+(2) not later than the date that is 90 days after the last day of the plan year immediately succeeding the calendar year described in paragraph (1), such information with respect to such immediately succeeding plan year.
+
+**(b) Information described** For purposes of subsection (a), information described in this subsection, with respect to a group health plan or a health insurance issuer offering group health insurance coverage, is each of the following:
+
+(1) Claims data for air ambulance services furnished by providers of such services, disaggregated by each of the following factors:
+
+  (A) Whether such services were furnished on an emergent or nonemergent basis.
+
+  (B) Whether the provider of such services is part of a hospital-owned or sponsored program, municipality-sponsored program, hospital independent partnership (hybrid) program, independent program, or tribally operated program in Alaska.
+
+  (C) Whether the transport in which the services were furnished originated in a rural or urban area.
+
+  (D) The type of aircraft (such as rotor transport or fixed wing transport) used to furnish such services.
+
+  (E) Whether the provider of such services has a contract with the plan or issuer, as applicable, to furnish such services under the plan or coverage, respectively.
+
+(2) Such other information regarding providers of air ambulance services as the Secretary may specify.
+
+### Statutory Notes
+
+#### References in Text
+Section 106(d) of the No Surprises Act, referred to in subsec. (a)(1), is section 106(d) of div. BB of Pub. L. 116–260, which is set out as a note under [section 300gg–118 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section300gg–118&num=0&edition=prelim), The Public Health and Welfare.
+
+
+<a id="section-1185m"></a>
+## § 1185m. Increasing transparency by removing gag clauses on price and quality information
+**(a) 11 So in original. There is no subsec. (b). Increasing price and quality transparency for plan sponsors and consumers**
+
+(1) **In general** — A group health plan (or an issuer of health insurance coverage offered in connection with such a plan) may not enter into an agreement with a health care provider, network or association of providers, third-party administrator, or other service provider offering access to a network of providers that would directly or indirectly restrict a group health plan or health insurance issuer offering such coverage from—
+
+  (A) providing provider-specific cost or quality of care information or data, through a consumer engagement tool or any other means, to referring providers, the plan sponsor, participants or beneficiaries, or individuals eligible to become participants or beneficiaries of the plan or coverage;
+
+  (B) electronically accessing de-identified claims and encounter information or data for each participant or beneficiary in the plan or coverage, upon request and consistent with the privacy regulations promulgated pursuant to section 264(c) of the Health Insurance Portability and Accountability Act of 1996, the amendments made by the Genetic Information Nondiscrimination Act of 2008, and the Americans with Disabilities Act of 1990 [[42 U.S.C. 12101](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section12101&num=0&edition=prelim) et seq.], including, on a per claim basis—
+
+    (i) financial information, such as the allowed amount, or any other claim-related financial obligations included in the provider contract;
+
+    (ii) provider information, including name and clinical designation;
+
+    (iii) service codes; or
+
+    (iv) any other data element included in claim or encounter transactions; or
+
+  (C) sharing information or data described in subparagraph (A) or (B), or directing that such data be shared, with a business associate as defined in section 160.103 of title 45, Code of Federal Regulations (or successor regulations), consistent with the privacy regulations promulgated pursuant to section 264(c) of the Health Insurance Portability and Accountability Act of 1996, the amendments made by the Genetic Information Nondiscrimination Act of 2008, and the Americans with Disabilities Act of 1990 [[42 U.S.C. 12101](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section12101&num=0&edition=prelim) et seq.].
+
+(2) **Clarification regarding public disclosure of information** — Nothing in paragraph (1)(A) prevents a health care provider, network or association of providers, or other service provider from placing reasonable restrictions on the public disclosure of the information described in such paragraph (1).
+
+(3) **Attestation** — A group health plan (or health insurance coverage offered in connection with such a plan) shall annually submit to the Secretary an attestation that such plan or issuer of such coverage is in compliance with the requirements of this subsection.
+
+(4) **Rules of construction** — Nothing in this section shall be construed to modify or eliminate existing privacy protections and standards under State and Federal law. Nothing in this subsection shall be construed to otherwise limit access by a group health plan, plan sponsor, or health insurance issuer to data as permitted under the privacy regulations promulgated pursuant to section 264(c) of the Health Insurance Portability and Accountability Act of 1996, the amendments made by the Genetic Information Nondiscrimination Act of 2008, and the Americans with Disabilities Act of 1990 [[42 U.S.C. 12101](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section12101&num=0&edition=prelim) et seq.].
+
+### Statutory Notes
+
+#### References in Text
+Section 264(c) of the Health Insurance Portability and Accountability Act of 1996, referred to in subsec. (a)(1)(B), (C), (4), is section 264 of Pub. L. 104–191, which is set out as a note under [section 1320d–2 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1320d–2&num=0&edition=prelim), The Public Health and Welfare.
+
+The Genetic Information Nondiscrimination Act of 2008, referred to in subsec. (a)(1)(B), (C), (4), is Pub. L. 110–233, May 21, 2008, 122 Stat. 881. For complete classification of this Act to the Code, see Short Title note set out under [section 2000ff of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2000ff&num=0&edition=prelim), The Public Health and Welfare, and Tables.
+
+The Americans with Disabilities Act of 1990, referred to in subsec. (a)(1)(B), (C), (4), is Pub. L. 101–336, July 26, 1990, 104 Stat. 327, which is classified principally to chapter 126 (§ 12101 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 12101 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section12101&num=0&edition=prelim) and Tables.
+
+
+<a id="section-1185n"></a>
+## § 1185n. Reporting on pharmacy benefits and drug costs
+**(a) In general** Not later than 1 year after December 27, 2020, and not later than June 1 of each year thereafter, a group health plan (or health insurance coverage offered in connection with such a plan) shall submit to the Secretary, the Secretary of Health and Human Services, and the Secretary of the Treasury the following information with respect to the health plan or coverage in the previous plan year:
+
+(1) The beginning and end dates of the plan year.
+
+(2) The number of participants and beneficiaries.
+
+(3) Each State in which the plan or coverage is offered.
+
+(4) The 50 brand prescription drugs most frequently dispensed by pharmacies for claims paid by the plan or coverage, and the total number of paid claims for each such drug.
+
+(5) The 50 most costly prescription drugs with respect to the plan or coverage by total annual spending, and the annual amount spent by the plan or coverage for each such drug.
+
+(6) The 50 prescription drugs with the greatest increase in plan expenditures over the plan year preceding the plan year that is the subject of the report, and, for each such drug, the change in amounts expended by the plan or coverage in each such plan year.
+
+(7) Total spending on health care services by such group health plan or health insurance coverage, broken down by—
+
+  (A) the type of costs, including—
+
+    (i) hospital costs;
+
+    (ii) health care provider and clinical service costs, for primary care and specialty care separately;
+
+    (iii) costs for prescription drugs; and
+
+    (iv) other medical costs, including wellness services; and
+
+  (B) spending on prescription drugs by—
+
+    (i) the health plan or coverage; and
+
+    (ii) the participants and beneficiaries.
+
+(8) The average monthly premium—
+
+  (A) paid by employers on behalf of participants and beneficiaries, as applicable; and
+
+  (B) paid by participants and beneficiaries.
+
+(9) Any impact on premiums by rebates, fees, and any other remuneration paid by drug manufacturers to the plan or coverage or its administrators or service providers, with respect to prescription drugs prescribed to participants or beneficiaries in the plan or coverage, including—
+
+  (A) the amounts so paid for each therapeutic class of drugs; and
+
+  (B) the amounts so paid for each of the 25 drugs that yielded the highest amount of rebates and other remuneration under the plan or coverage from drug manufacturers during the plan year.
+
+(10) Any reduction in premiums and out-of-pocket costs associated with rebates, fees, or other remuneration described in paragraph (9).
+
+**(b) Report** Not later than 18 months after the date on which the first report is required under subsection (a) and biannually thereafter, the Secretary, acting in coordination with the Inspector General of the Department of Labor, shall make available on the internet website of the Department of Labor a report on prescription drug reimbursements under group health plans (or health insurance coverage offered in connection with such a plan), prescription drug pricing trends, and the role of prescription drug costs in contributing to premium increases or decreases under such plans or coverage, aggregated in such a way as no drug or plan specific information will be made public.
+
+**(c) Privacy protections** No confidential or trade secret information submitted to the Secretary under subsection (a) shall be included in the report under subsection (b).
+
 
 <a id="section-1191"></a>
 ## § 1191. Preemption; State flexibility; construction
@@ -11253,15 +12773,15 @@ The Patient Protection and Affordable Care Act, referred to in text, is Pub. L. 
 
   (B) substitutes for the reference to “12 months” and “18 months” in [section 1181(a)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1181/a/2&num=0&edition=prelim) a reference to any shorter period of time;
 
-  (C) substitutes for the references to “63 days” in sections 1181(c)(2)(A) and (d)(4)(A) of this title a reference to any greater number of days;
+  (C) substitutes for the references to “63 days” in sections 1181(c)(2)(A) and (d)(4)(A) 11 So in original. [Section 1181(d)(4) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1181/d/4&num=0&edition=prelim) does not contain subpars. of this title a reference to any greater number of days;
 
-  (D) substitutes for the reference to “30-day period” in sections 1181(b)(2) and (d)(1) of this title a reference to any greater period;
+  (D) substitutes for the reference to “30-day period” in sections 1181(b)(2) 22 So in original. [Section 1181(b)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1181/b/2&num=0&edition=prelim) does not refer to a 30-day period. and (d)(1) of this title a reference to any greater period;
 
   (E) prohibits the imposition of any preexisting condition exclusion in cases not described in [section 1181(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1181/d&num=0&edition=prelim) or expands the exceptions described in such section;
 
   (F) requires special enrollment periods in addition to those required under [section 1181(f) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1181/f&num=0&edition=prelim); or
 
-  (G) reduces the maximum period permitted in an affiliation period under [section 1181(g)(1)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1181/g/1/B&num=0&edition=prelim).
+  (G) reduces the maximum period permitted in an affiliation period under section 1181(g)(1)(B) 33 So in original. Probably should be “1181(g)(1)(C)”. of this title.
 
 **(c) Rules of construction** Except as provided in [section 1185 of this title](./chapter-018-employee-retirement-income-security-program.md#section-1185), nothing in this part shall be construed as requiring a group health plan or health insurance coverage to provide specific benefits under the terms of such plan or coverage.
 
@@ -11496,6 +13016,61 @@ Section 104 of the Health Care Portability and Accountability Act of 1996, refer
 
 #### Effective Date
 Section applicable with respect to group health plans for plan years beginning after June 30, 1997, except as otherwise provided, see section 101(g) of Pub. L. 104–191, set out as a note under [section 1181 of this title](./chapter-018-employee-retirement-income-security-program.md#section-1181).
+
+
+<a id="section-1191d"></a>
+## § 1191d. Standardized reporting format
+**(a) In general** Not later than 1 year after December 27, 2020, the Secretary shall establish (and periodically update) a standardized reporting format for the voluntary reporting, by group health plans to State All Payer Claims Databases, of medical claims, pharmacy claims, dental claims, and eligibility and provider files that are collected from private and public payers, and shall provide guidance to States on the process by which States may collect such data from such plans in the standardized reporting format.
+
+**(b) Consultation**
+
+(1) **Advisory Committee** — Not later than 90 days after December 27, 2020, the Secretary shall convene an Advisory Committee (referred to in this section as the “Committee”), consisting of 15 members to advise the Secretary regarding the format and guidance described in paragraph (1).11 So in original. Probably should be “subsection (a).”
+
+(2) **Membership**
+
+  (A) *Appointment* — In accordance with subparagraph (B), not later than 90 days after December 27, 2020, the Secretary, in coordination with the Secretary of Health and Human Services, shall appoint under subparagraph (B)(iii), and the Comptroller General of the United States shall appoint under subparagraph (B)(iv), members who have distinguished themselves in the fields of health services research, health economics, health informatics, data privacy and security, or the governance of State All Payer Claims Databases, or who represent organizations likely to submit data to or use the database, including patients, employers, or employee organizations that sponsor group health plans, health care providers, health insurance issuers, or third-party administrators of group health plans. Such members shall serve 3-year terms on a staggered basis. Vacancies on the Committee shall be filled by appointment consistent with this paragraph not later than 3 months after the vacancy arises.
+
+  (B) *Composition* — The Committee shall be comprised of—
+
+    (i) the Assistant Secretary of Employee Benefits and Security Administration of the Department of Labor, or a designee of such Assistant Secretary;
+
+    (ii) the Assistant Secretary for Planning and Evaluation of the Department of Health and Human Services, or a designee of such Assistant Secretary;
+
+    (iii) members appointed by the Secretary, in coordination with the Secretary of Health and Human Services, including—
+
+      (I) 1 member to serve as the chair of the Committee;
+
+      (II) 1 representative of the Centers for Medicare & Medicaid Services;
+
+      (III) 1 representative of the Agency for Healthcare Research and Quality;
+
+      (IV) 1 representative of the Office for Civil Rights of the Department of Health and Human Services with expertise in data privacy and security;
+
+      (V) 1 representative of the National Center for Health Statistics;
+
+      (VI) 1 representative of the Office of the National Coordinator for Health Information Technology; and
+
+      (VII) 1 representative of a State All-Payer 22 So in original. Probably should be “All Payer”. Claims Database;
+
+    (iv) members appointed by the Comptroller General of the United States, including—
+
+      (I) 1 representative of an employer that sponsors a group health plan;
+
+      (II) 1 representative of an employee organization that sponsors a group health plan;
+
+      (III) 1 academic researcher with expertise in health economics or health services research;
+
+      (IV) 1 consumer advocate; and
+
+      (V) 2 additional members.
+
+(3) **Report** — Not later than 180 days after December 27, 2020, the Committee shall report to the Secretary, the Committee on Health, Education, Labor, and Pensions of the Senate, and the Committee on Energy and Commerce and the Committee on Education and Labor of the House of Representatives. Such report shall include recommendations on the establishment of the format and guidance described in subsection (a).
+
+**(c) State All Payer Claims Database** In this section, the term “State All Payer Claims Database” means, with respect to a State, a database that may include medical claims, pharmacy claims, dental claims, and eligibility and provider files, which are collected from private and public payers.
+
+**(d) Authorization of appropriations** To carry out this section, there are authorized to be appropriated $5,000,000 for fiscal year 2021, to remain available until expended or, if sooner, until the date described in subsection (e).
+
+**(e) Sunset** Beginning on the date on which the report is submitted under subsection (b)(3), subsection (b) shall have no force or effect.
 
 
 <a id="section-1201"></a>
@@ -12389,7 +13964,7 @@ Section applicable to years beginning after Dec. 31, 2013, see section 3 of Pub.
 
 <a id="section-1305"></a>
 ## § 1305. Pension benefit guaranty funds
-**(a) Establishment of four revolving funds on books of Treasury of the United States** There are established on the books of the Treasury of the United States for revolving funds to be used by the corporation in carrying out its duties under this subchapter. One of the funds shall be used with respect to basic benefits guaranteed under [section 1322 of this title](./chapter-018-employee-retirement-income-security-program.md#section-1322), one of the funds shall be used with respect to basic benefits guaranteed under [section 1322a of this title](./chapter-018-employee-retirement-income-security-program.md#section-1322a), one of the funds shall be used with respect to nonbasic benefits guaranteed under [section 1322 of this title](./chapter-018-employee-retirement-income-security-program.md#section-1322) (if any), and the remaining fund shall be used with respect to nonbasic benefits guaranteed under [section 1322a of this title](./chapter-018-employee-retirement-income-security-program.md#section-1322a) (if any), other than subsection (g)(2) thereof (if any). Whenever in this subchapter reference is made to the term “fund” the reference shall be considered to refer to the appropriate fund established under this subsection.
+**(a) Establishment of four revolving funds on books of Treasury of the United States** There are established on the books of the Treasury of the United States four revolving funds to be used by the corporation in carrying out its duties under this subchapter. One of the funds shall be used with respect to basic benefits guaranteed under [section 1322 of this title](./chapter-018-employee-retirement-income-security-program.md#section-1322), one of the funds shall be used with respect to basic benefits guaranteed under [section 1322a of this title](./chapter-018-employee-retirement-income-security-program.md#section-1322a), one of the funds shall be used with respect to nonbasic benefits guaranteed under [section 1322 of this title](./chapter-018-employee-retirement-income-security-program.md#section-1322) (if any), and the remaining fund shall be used with respect to nonbasic benefits guaranteed under [section 1322a of this title](./chapter-018-employee-retirement-income-security-program.md#section-1322a) (if any), other than subsection (g)(2) thereof (if any). Whenever in this subchapter reference is made to the term “fund” the reference shall be considered to refer to the appropriate fund established under this subsection.
 
 **(b) Credits to funds; availability of funds; investment of moneys in excess of current needs**
 
@@ -12567,7 +14142,7 @@ Amendment by Pub. L. 96–364 effective Sept. 26, 1980, except as specifically p
 
   (A) Except as provided in subparagraph (C), the annual premium rate payable to the corporation by all plans for basic benefits guaranteed under this subchapter is—
 
-    (i) in the case of a single-employer plan, an amount for each individual who is a participant in such plan during the plan year equal to the sum of the additional premium (if any) determined under subparagraph (E) and—
+    (i) in the case of a single-employer plan other than a CSEC plan (as defined in [section 1060(f)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1060/f/1&num=0&edition=prelim)) an amount for each individual who is a participant in such plan during the plan year equal to the sum of the additional premium (if any) determined under subparagraph (E) and—
 
       (I) for plan years beginning after December 31, 2005, and before January 1, 2013, $30;
 
@@ -12583,7 +14158,7 @@ Amendment by Pub. L. 96–364 effective Sept. 26, 1980, except as specifically p
 
       (VII) for plan years beginning after December 31, 2017, and before January 1, 2019, $74; and
 
-      (VIII) for plan years beginning after December 31, 2018, $80.
+      (VIII) for plan years beginning after December 31, 2018, $80.33 So in original. The period probably should be a comma.
 
     (ii) in the case of a multiemployer plan, for the plan year within which the date of enactment of the Multiemployer Pension Plan Amendments Act of 1980 falls, an amount for each individual who is a participant in such plan for such plan year equal to the sum of—
 
@@ -12603,9 +14178,15 @@ Amendment by Pub. L. 96–364 effective Sept. 26, 1980, except as specifically p
 
     (iv) in the case of a multiemployer plan, for plan years beginning after December 31, 2005, and before January 1, 2013, $8.00 for each individual who is a participant in such plan during the applicable plan year,
 
-    (v) in the case of a multiemployer plan, for plan years beginning after December 31, 2012, and before January 1, 2015, $12.00 for each individual who is a participant in such plan during the applicable plan year, or
+    (v) in the case of a multiemployer plan, for plan years beginning after December 31, 2012, and before January 1, 2015, $12.00 for each individual who is a participant in such plan during the applicable plan year,
 
-    (vi) in the case of a multiemployer plan, for plan years beginning after December 31, 2014, $26 for each individual who is a participant in such plan during the applicable plan year.
+    (vi) in the case of a multiemployer plan, for plan years beginning after December 31, 2014, $26 for each individual who is a participant in such plan during the applicable plan year, or
+
+    (vii) in the case of a CSEC plan (as defined in [section 1060(f)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1060/f/1&num=0&edition=prelim)), for plan years beginning after December 31, 2018, for each individual who is a participant in such plan during the plan year an amount equal to the sum of—
+
+      (I) the additional premium (if any) determined under subparagraph (E), and
+
+      (II) $19.
 
   (B) The corporation may prescribe by regulation the extent to which the rate described in subparagraph (A)(i) applies more than once for any plan year to an individual participating in more than one plan maintained by the same employer, and the corporation may prescribe regulations under which the rate described in clause (iii) or (iv) of subparagraph (A) will not apply to the same participant in any multiemployer plan more than once for any plan year.
 
@@ -12636,19 +14217,25 @@ Amendment by Pub. L. 96–364 effective Sept. 26, 1980, except as specifically p
 
       (I) shall be an amount equal to the amount determined under clause (ii) divided by the number of participants in such plan as of the close of the preceding plan year;
 
-      (II) in the case of plan years beginning in a calendar year after 2012 and before 2016, shall not exceed $400 33 So in original. Probably should be followed by a semicolon. and
+      (II) in the case of plan years beginning in a calendar year after 2012 and before 2016, shall not exceed $400 44 So in original. Probably should be followed by a semicolon. and
 
       (III) in the case of plan years beginning in a calendar year after 2015, shall not exceed $500.
 
     (ii) The amount determined under this clause for any plan year shall be an amount equal to the applicable dollar amount under paragraph (8) for each $1,000 (or fraction thereof) of unfunded vested benefits under the plan as of the close of the preceding plan year.
 
-    (iii) For purposes of clause (ii), the term “unfunded vested benefits” means, for a plan year, the excess (if any) of—
+    (iii) Except as provided in clause (v), for purposes of clause (ii), the term “unfunded vested benefits” means, for a plan year, the excess (if any) of—
 
       (I) the funding target of the plan as determined under [section 1083(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1083/d&num=0&edition=prelim) for the plan year by only taking into account vested benefits and by using the interest rate described in clause (iv), over
 
       (II) the fair market value of plan assets for the plan year which are held by the plan on the valuation date.
 
     (iv) The interest rate used in valuing benefits for purposes of subclause (I) of clause (iii) shall be equal to the first, second, or third segment rate for the month preceding the month in which the plan year begins, which would be determined under [section 1083(h)(2)(C) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1083/h/2/C&num=0&edition=prelim) (notwithstanding any regulations issued by the corporation, determined by not taking into account any adjustment under clause (iv) thereof) if [section 1083(h)(2)(D) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1083/h/2/D&num=0&edition=prelim) were applied by using the monthly yields for the month preceding the month in which the plan year begins on investment grade corporate bonds with varying maturities and in the top 3 quality levels rather than the average of such yields for a 24-month period.
+
+    (v) For purposes of clause (ii), in the case of a CSEC plan (as defined in [section 1060(f)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1060/f/1&num=0&edition=prelim)), the term “unfunded vested benefits” means, for plan years beginning after December 31, 2018, the excess (if any) of—
+
+      (I) the funding liability of the plan as determined under [section 1085a(j)(5)(C) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1085a/j/5/C&num=0&edition=prelim) for the plan year by only taking into account vested benefits, over
+
+      (II) the fair market value of plan assets for the plan year which are held by the plan on the valuation date.
 
   (F) For each plan year beginning in a calendar year after 2006 and before 2013, there shall be substituted for the premium rate specified in clause (i) of subparagraph (A) an amount equal to the greater of—
 
@@ -12760,7 +14347,7 @@ Amendment by Pub. L. 96–364 effective Sept. 26, 1980, except as specifically p
     (iii) total guaranteed basic benefits, but such premium rates shall not exceed the rates for additional charges referred to in subparagraph (B)(ii).
     If the corporation uses two or more of the rate bases described in this subparagraph, the premium rates shall be designed to produce approximately equal amounts of aggregate premium revenue from each of the rate bases used.
 
-  (D) For purposes of this paragraph, the corporation shall by regulation define the terms “value of assets” and “present value of the benefits of the plan which are guaranteed” in a manner consistent with the purposes of this subchapter and the provisions of this section.
+  (D) For purposes of this paragraph, the corporation shall by regulation define the terms “value of assets” and “present value of the benefits 55 So in original. Probably should be preceded by “basic”. of the plan which are guaranteed” in a manner consistent with the purposes of this subchapter and the provisions of this section.
 
 (7) **Premium Rate for Certain Terminated Single-Employer Plans.—**
 
@@ -12790,7 +14377,7 @@ Amendment by Pub. L. 96–364 effective Sept. 26, 1980, except as specifically p
 
 (8) **Applicable dollar amount for variable rate premium.—** — For purposes of paragraph (3)(E)(ii)—
 
-  (A) *In general.—* — Except as provided in subparagraphs (B) and (C), the applicable dollar amount shall be—
+  (A) *In general.—* — Except as provided in subparagraphs (B), (C), and (E), the applicable dollar amount shall be—
 
     (i) $9 for plan years beginning in a calendar year before 2015;
 
@@ -12847,6 +14434,8 @@ Amendment by Pub. L. 96–364 effective Sept. 26, 1980, except as specifically p
 
     (vii) 2017, in the case of plan years beginning after calendar year 2019.
 
+  (E) *CSEC plans.—* — In the case of a CSEC plan (as defined in [section 1060(f)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1060/f/1&num=0&edition=prelim)), the applicable dollar amount shall be $9.
+
 **(b) Revised schedule; Congressional procedures applicable**
 
 (1) In order to place a revised schedule (other than a schedule described in subsection (a)(2)(C), (D), or (E)) in effect, the corporation shall transmit the proposed schedule, its proposed effective date, and the reasons for its proposal to the Committee on Ways and Means and the Committee on Education and Labor of the House of Representatives, and to the Committee on Finance and the Committee on Labor and Human Resources of the Senate.
@@ -12871,7 +14460,7 @@ Amendment by Pub. L. 96–364 effective Sept. 26, 1980, except as specifically p
 
     (i) with respect to each plan year beginning before January 1, 1978, an amount equal to $1 for each individual who was a participant in such plan during the plan year,
 
-    (ii) with respect to each plan year beginning after December 31, 1977, and before January 1, 1986, an amount equal to $2.60 for each individual who was a participant in such plan during the plan year, and 44 So in original. The word “and” probably should not appear.
+    (ii) with respect to each plan year beginning after December 31, 1977, and before January 1, 1986, an amount equal to $2.60 for each individual who was a participant in such plan during the plan year, and 66 So in original. The word “and” probably should not appear.
 
     (iii) with respect to each plan year beginning after December 31, 1985, and before January 1, 1988, an amount equal to $8.50 for each individual who was a participant in such plan during the plan year, and
 
@@ -12895,6 +14484,18 @@ Amendment by Pub. L. 96–364 effective Sept. 26, 1980, except as specifically p
 The plan year within which the date of enactment of the Multiemployer Pension Plan Amendments Act of 1980 falls, referred to in subsec. (a)(3)(A)(ii), refers to the plan year within which the date of the enactment of Pub. L. 96–364 falls, such enactment being approved Sept. 26, 1980.
 
 #### Amendments
+2019—Subsec. (a)(3)(A)(i). Pub. L. 116–94, § 206(a)(1), substituted “plan other than a CSEC plan (as defined in [section 1060(f)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1060/f/1&num=0&edition=prelim))” for “plan,” in introductory provisions.
+
+Subsec. (a)(3)(A)(vii). Pub. L. 116–94, § 206(a)(2)–(4), added cl. (vii).
+
+Subsec. (a)(3)(E). Pub. L. 116–94, § 206(b)(1)(B), substituted “Except as provided in clause (v), for purposes” for “For purposes” in introductory provisions.
+
+Subsec. (a)(3)(E)(v). Pub. L. 116–94, § 206(b)(1)(A), added cl. (v).
+
+Subsec. (a)(8)(A). Pub. L. 116–94, § 206(b)(2)(B), substituted “(B), (C), and (E)” for “(B) and (C)” in introductory provisions.
+
+Subsec. (a)(8)(E). Pub. L. 116–94, § 206(b)(2)(A), added subpar. (E).
+
 2015—Subsec. (a)(3)(A)(i)(VI) to (VIII). Pub. L. 114–74, § 501(a)(1), added subcls. (VI) to (VIII).
 
 Subsec. (a)(3)(G). Pub. L. 114–74, § 501(a)(2)(A), substituted “2019” for “2016” in introductory provisions.
@@ -13242,11 +14843,14 @@ Amendment by Pub. L. 101–239 effective, except as otherwise provided, as if in
 
   (C) *At-risk status* — The term “at-risk status” has the meaning provided in [section 1083(i)(4) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1083/i/4&num=0&edition=prelim).
 
-(3) **Pension stabilization disregarded** — For purposes of this section, the segment rates used in determining the funding target and funding target attainment percentage shall be determined by not taking into account any adjustment under [section 1082(h)(2)(C)(iv) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1082/h/2/C/iv&num=0&edition=prelim).
+(3) **Pension stabilization disregarded** — For purposes of this section, the segment rates used in determining the funding target and funding target attainment percentage shall be determined by not taking into account any adjustment under section 1083(h)(2)(C)(iv) 11 See References in Text note below. of this title.
 
 **(e) Notice to Congress** The corporation shall, on an annual basis, submit to the Committee on Health, Education, Labor, and Pensions and the Committee on Finance of the Senate and the Committee on Education and the Workforce and the Committee on Ways and Means of the House of Representatives, a summary report in the aggregate of the information submitted to the corporation under this section.
 
 ### Statutory Notes
+
+#### References in Text
+[Section 1083(h)(2)(C)(iv) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1083/h/2/C/iv&num=0&edition=prelim), referred to in subsec. (d)(3), was in the original “section 302(h)((2)(C)(iv)” (sic) and was translated as if it had read “section 303(h)(2)(C)(iv)” to reflect the probable intent of Congress.
 
 #### Amendments
 2014—Subsec. (b)(2). Pub. L. 113–97 substituted “section 1083(k)(1)(A) and (B) or 1085a(g)(1)(A) and (B) of this title or section 430(k)(1)(A) and (B) or 433(g)(1)(A) and (B) of title 26” for “section 1083(k)(1)(A) and (B) of this title or section 430(k)(1)(A) and (B) of title 26”.
@@ -13318,7 +14922,7 @@ For purposes of this subchapter, a successor plan is considered to be a continua
 
 (2) established and maintained for its employees by the Government of the United States, by the government of any State or political subdivision thereof, or by any agency or instrumentality of any of the foregoing, or to which the Railroad Retirement Act of 1935 or 1937 [[45 U.S.C. 231](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title45-section231&num=0&edition=prelim) et seq.] applies and which is financed by contributions required under that Act, or which is described in the last sentence of [section 1002(32) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1002/32&num=0&edition=prelim) 22 So in original. A semicolon probably should appear.
 
-(3) which is a church plan as defined in [section 414(e) of title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section414/e&num=0&edition=prelim), unless that plan has made an election under [section 410(d) of title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section410/d&num=0&edition=prelim), and has notified the corporation in accordance with procedures prescribed by the corporation, that it wishes to have the provisions of this part apply to it,1
+(3) which is a church plan as defined in [section 414(e) of title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section414/e&num=0&edition=prelim), unless that plan has made an election under [section 410(d) of title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section410/d&num=0&edition=prelim), and has notified the corporation in accordance with procedures prescribed by the corporation, that it wishes to have the provisions of this part 33 So in original. Subtitle B of title IV of Pub. L. 93–406, classified to this subtitle, does not contain parts. apply to it,1
 
 (4)
 
@@ -13425,7 +15029,7 @@ Amendment by Pub. L. 96–364 effective Sept. 26, 1980, except as specifically p
   (A) his average monthly gross income from his employer during the 5 consecutive calendar year period (or, if less, during the number of calendar years in such period in which he actively participates in the plan) during which his gross income from that employer was greater than during any other such period with that employer determined by dividing 1⁄12 of the sum of all such gross income by the number of such calendar years in which he had such gross income, or
 
   (B) $750 multiplied by a fraction, the numerator of which is the contribution and benefit base (determined under section 230 of the Social Security Act [[42 U.S.C. 430](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section430&num=0&edition=prelim)]) in effect at the time the plan terminates and the denominator of which is such contribution and benefit base in effect in calendar year 1974.
-  The provisions of this paragraph do not apply to non-basic benefits. The maximum guaranteed monthly benefit shall not be reduced solely on account of the age of a participant in the case of a benefit payable by reason of disability that occurred on or before the termination date, if the participant demonstrates to the satisfaction of the corporation that the Social Security Administration has determined that the participant satisfies the definition of disability under title II or XVI of the Social Security Act [[42 U.S.C. 401](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section401&num=0&edition=prelim) et seq.; 1381 et seq.], and the regulations thereunder. If a benefit payable by reason of disability is converted to an early or normal retirement benefit for reasons other than a change in the health of the participant, such early or normal retirement benefit shall be treated as a continuation of the benefit payable by reason of disability and this subparagraph shall continue to apply.
+  The provisions of this paragraph do not apply to non-basic benefits. The maximum guaranteed monthly benefit shall not be reduced solely on account of the age of a participant in the case of a benefit payable by reason of disability that occurred on or before the termination date, if the participant demonstrates to the satisfaction of the corporation that the Social Security Administration has determined that the participant satisfies the definition of disability under title II or XVI of the Social Security Act [[42 U.S.C. 401](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section401&num=0&edition=prelim) et seq.; 1381 et seq.], and the regulations thereunder. If a benefit payable by reason of disability is converted to an early or normal retirement benefit for reasons other than a change in the health of the participant, such early or normal retirement benefit shall be treated as a continuation of the benefit payable by reason of disability and this subparagraph 11 So in original. shall continue to apply.
 
 (4)
 
@@ -13567,7 +15171,7 @@ Subsec. (c)(3)(B)(ii). Pub. L. 101–239, § 7881(f)(5), inserted before period 
 
 1987—Subsecs. (c) to (e). Pub. L. 100–203 added subsec. (c) and redesignated former subsecs. (c) and (d) as (d) and (e), respectively.
 
-Subsec. (b)(7). Pub. L. 99–272, § 11016(c)(8), in provisions following subpar. (B) substituted “12 months beginning with” for “12 months following”.
+1986—Subsec. (b)(7). Pub. L. 99–272, § 11016(c)(8), in provisions following subpar. (B) substituted “12 months beginning with” for “12 months following”.
 
 Subsec. (d). Pub. L. 99–272, § 11016(c)(9), added subsec. (d).
 
@@ -13765,9 +15369,9 @@ Pub. L. 100–203, title IX, § 9312(b)(3)(B), Dec. 22, 1987, 101 Stat. 1330–3
 
 (1) Except as provided in paragraph (3), subsections (b) and (c) shall not apply with respect to the nonforfeitable benefits accrued as of July 29, 1980, with respect to a participant or beneficiary under a multiemployer plan—
 
-(1) who is in pay status on July 29, 1980, or
+(1) 2 who is in pay status on July 29, 1980, or
 
-(2) who is within 36 months of the normal retirement age and has a nonforfeitable right to a pension as of that date.
+  (2) 33 So in original. Probably should be “(B)”. who is within 36 months of the normal retirement age and has a nonforfeitable right to a pension as of that date.
 
 (2) The benefits described in paragraph (1) shall be guaranteed by the corporation in the same manner and to the same extent as benefits are guaranteed by the corporation under [section 1322 of this title](./chapter-018-employee-retirement-income-security-program.md#section-1322) (without regard to this section).
 
@@ -14419,12 +16023,12 @@ The corporation shall as soon as practicable institute proceedings under this se
 
     (iv) to limit payment of benefits under the plan to basic benefits or to continue payment of some or all of the benefits which were being paid prior to his appointment;
 
-    (v) in the case of a multiemployer plan, to reduce benefits or suspend benefit payments under the plan, give appropriate notices, amend the plan, and perform other acts required or authorized by subtitle (E) to be performed by the plan sponsor or administrator;
+    (v) in the case of a multiemployer plan, to reduce benefits or suspend benefit payments under the plan, give appropriate notices, amend the plan, and perform other acts required or authorized by subtitle (E) 11 So in original. Probably should be “subtitle E”. to be performed by the plan sponsor or administrator;
 
     (vi) to do such other acts as he deems necessary to continue operation of the plan without increasing the potential liability of the corporation, if such acts may be done under the provisions of the plan; and
 
     (vii) to require the plan sponsor, the plan administrator, any contributing or withdrawn employer, and any employee organization representing plan participants to furnish any information with respect to the plan which the trustee may reasonably need in order to administer the plan.
-    If the court to which application is made under subsection (c) dismisses the application with prejudice, or if the corporation fails to apply for a decree under subsection (c), within 30 days after the date on which the trustee is appointed under subsection (b), the trustee shall transfer all assets and records of the plan held by him to the plan administrator within 3 business days after such dismissal or the expiration of such 30-day period, and shall not be liable to the plan or any other person for his acts as trustee except for willful misconduct, or for conduct in violation of the provisions of part 4 of subtitle B of subchapter I of this chapter (except as provided in subsection (d)(1)(A)(v)). The 30-day period referred to in this subparagraph may be extended as provided by agreement between the plan administrator and the corporation or by court order obtained by the corporation.
+    If the court to which application is made under subsection (c) dismisses the application with prejudice, or if the corporation fails to apply for a decree under subsection (c), within 30 days after the date on which the trustee is appointed under subsection (b), the trustee shall transfer all assets and records of the plan held by him to the plan administrator within 3 business days after such dismissal or the expiration of such 30-day period, and shall not be liable to the plan or any other person for his acts as trustee except for willful misconduct, or for conduct in violation of the provisions of part 4 of subtitle B of subchapter I of this chapter (except as provided in subsection (d)(1)(A)(v)).22 See References in Text note below. The 30-day period referred to in this subparagraph may be extended as provided by agreement between the plan administrator and the corporation or by court order obtained by the corporation.
 
   (B) If the court to which an application is made under subsection (c) issues the decree requested in such application, in addition to the powers described in subparagraph (A), the trustee shall have the power—
 
@@ -14452,7 +16056,7 @@ The corporation shall as soon as practicable institute proceedings under this se
 
   (C) each employer who may be subject to liability under section 1362, 1363, or 1364 of this title,
 
-  (D) each employer who is or may be liable to the plan under section 11 So in original. part 1 of subtitle E,
+  (D) each employer who is or may be liable to the plan under section 33 So in original. part 1 of subtitle E,
 
   (E) each employer who has an obligation to contribute, within the meaning of [section 1392(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1392/a&num=0&edition=prelim), under a multiemployer plan, and
 
@@ -14475,6 +16079,8 @@ The corporation shall as soon as practicable institute proceedings under this se
 ### Statutory Notes
 
 #### References in Text
+Subsection (d)(1)(A)(v), referred to in subsec. (d)(1)(A), was redesignated subsec. (d)(1)(A)(vi) of this section by Pub. L. 96–364, title IV, § 402(a)(6)(E)(ii), Sept. 26, 1980, 94 Stat. 1298.
+
 This chapter, referred to in subsec. (d)(3), was in the original “this Act”, meaning Pub. L. 93–406, known as the Employee Retirement Income Security Act of 1974. Titles I, III, and IV of such Act are classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 1001 of this title](./chapter-018-employee-retirement-income-security-program.md#section-1001) and Tables.
 
 #### Amendments

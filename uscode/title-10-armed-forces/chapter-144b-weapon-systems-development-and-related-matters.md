@@ -8,17 +8,27 @@ source: >-
 ---
 <a id="section-2446a"></a>
 ## § 2446a. Requirement for modular open system approach in major defense acquisition programs; definitions
-**(a) Modular Open System Approach Requirement.—** A major defense acquisition program that receives Milestone A or Milestone B approval after January 1, 2019, shall be designed and developed, to the maximum extent practicable, with a modular open system approach to enable incremental development and enhance competition, innovation, and interoperability.
+**(a) Modular Open System Approach Requirement.—** A major defense acquisition program that receives Milestone A or Milestone B approval after January 1, 2019, shall be designed and developed, to the maximum extent practicable, with a modular open system approach to enable incremental development and enhance competition, innovation, and interoperability. Other defense acquisition programs shall also be designed and developed, to the maximum extent practicable, with a modular open system approach to enable incremental development and enhance competition, innovation, and interoperability.
 
 **(b) Definitions.—** In this chapter:
 
 (1) The term “modular open system approach” means, with respect to a major defense acquisition program, an integrated business and technical strategy that—
 
-  (A) employs a modular design that uses major system interfaces between a major system platform and a major system component, between major system components, or between major system platforms;
+  (A) employs a modular design that uses modular system interfaces between major systems, major system components and modular systems;
 
-  (B) is subjected to verification to ensure major system interfaces comply with, if available and suitable, widely supported and consensus-based standards;
+  (B) is subjected to verification to ensure that relevant modular system interfaces—
 
-  (C) uses a system architecture that allows severable major system components at the appropriate level to be incrementally added, removed, or replaced throughout the life cycle of a major system platform to afford opportunities for enhanced competition and innovation while yielding—
+    (i) comply with, if available and suitable, widely supported and consensus-based standards; or
+
+    (ii) are delivered pursuant to the requirements established in subsection (a)(2)(B) of section 804 of the William M. (Mac) Thornberry National Defense Authorization Act for Fiscal Year 2021, including the delivery of—
+
+      (I) software-defined interface syntax and properties, specifically governing how values are validly passed and received between major subsystems and components, in machine-readable format;
+
+      (II) a machine-readable definition of the relationship between the delivered interface and existing common standards or interfaces available in Department interface repositories; and
+
+      (III) documentation with functional descriptions of software-defined interfaces, conveying semantic meaning of interface elements, such as the function of a given interface field;
+
+  (C) uses a system architecture that allows severable major system components and modular systems at the appropriate level to be incrementally added, removed, or replaced throughout the life cycle of a major system platform to afford opportunities for enhanced competition and innovation while yielding—
 
     (i) significant cost savings or avoidance;
 
@@ -36,25 +46,53 @@ source: >-
 
 (3) The term “major system component”—
 
-  (A) means a high level subsystem or assembly, including hardware, software, or an integrated assembly of both, that can be mounted or installed on a major system platform through well-defined major system interfaces; and
+  (A) means a high level subsystem or assembly, including hardware, software, or an integrated assembly of both, that can be mounted or installed on a major system platform through modular system interfaces; and
 
   (B) includes a subsystem or assembly that is likely to have additional capability requirements, is likely to change because of evolving technology or threat, is needed for interoperability, facilitates incremental deployment of capabilities, or is expected to be replaced by another major system component.
 
-(4) The term “major system interface”—
+(4) The term “modular system interface” means a shared boundary between major systems, major system components, or modular systems, defined by various physical, logical, and functional characteristics, such as electrical, mechanical, fluidic, optical, radio frequency, data, networking, or software elements.
 
-  (A) means a shared boundary between a major system platform and a major system component, between major system components, or between major system platforms, defined by various physical, logical, and functional characteristics, such as electrical, mechanical, fluidic, optical, radio frequency, data, networking, or software elements; and
+(5) The term “modular system” refers to a weapon system or weapon system component that—
 
-  (B) is characterized clearly in terms of form, function, and the content that flows across the interface in order to enable technological innovation, incremental improvements, integration, and interoperability.
+  (A) is able to execute without requiring coincident execution of other specific weapon systems or components;
 
-(5) The term “program capability document” means, with respect to a major defense acquisition program, a document that specifies capability requirements for the program, such as a capability development document or a capability production document.
+  (B) can communicate across component boundaries and through interfaces; and
 
-(6) The terms “program cost targets” and “fielding target” have the meanings provided in [section 2448a(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2448a/a&num=0&edition=prelim).
+  (C) functions as a module that can be separated, recombined, and connected with other weapon systems or weapon system components in order to achieve various effects, missions, or capabilities.
 
-(7) The term “major defense acquisition program” has the meaning provided in [section 2430 of this title](./chapter-144-major-defense-acquisition-programs.md#section-2430).
+(6) The term “program capability document” means, with respect to a major defense acquisition program, a document that specifies capability requirements for the program, such as a capability development document or a capability production document.
 
-(8) The term “major weapon system” has the meaning provided in [section 2379(f) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2379/f&num=0&edition=prelim).
+(7) The terms “program cost targets” and “fielding target” have the meanings provided in [section 2448a(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2448a/a&num=0&edition=prelim).
+
+(8) The term “major defense acquisition program” has the meaning provided in [section 2430 of this title](./chapter-144-major-defense-acquisition-programs.md#section-2430).
+
+(9) The term “major weapon system” has the meaning provided in [section 2379(f) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2379/f&num=0&edition=prelim).
 
 ### Statutory Notes
+
+#### Transfer of Section
+Pub. L. 116–283, div. A, title XVIII, §§ 1801(d), 1851(b)(1), Jan. 1, 2021, 134 Stat. 4151, 4272, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, this section is transferred to chapter 327 of this title, inserted after the table of sections at the beginning of subchapter I, and redesignated as [section 4401 of this title](./chapter-327-weapon-systems-development-and-related-matters.md#section-4401). See Effective Date of 2021 Amendment note below.
+
+#### References in Text
+Section 804 of the William M. (Mac) Thornberry National Defense Authorization Act for Fiscal Year 2021, referred to in subsec. (b)(1)(B)(ii), is section 804 of Pub. L. 116–283, which is set out as a note under [section 4401 of this title](./chapter-327-weapon-systems-development-and-related-matters.md#section-4401).
+
+#### Amendments
+2021—Subsec. (a). Pub. L. 116–283, § 804(b)(1)(A), inserted at end “Other defense acquisition programs shall also be designed and developed, to the maximum extent practicable, with a modular open system approach to enable incremental development and enhance competition, innovation, and interoperability.”
+
+Subsec. (b)(1)(A). Pub. L. 116–283, § 804(b)(1)(B)(i)(I), substituted “modular system interfaces between major systems, major system components and modular systems;” for “major system interfaces between a major system platform and a major system component, between major system components, or between major system platforms;”.
+
+Subsec. (b)(1)(B). Pub. L. 116–283, § 804(b)(1)(B)(i)(II), substituted “that relevant modular system interfaces—” for “major system interfaces comply with, if available and suitable, widely supported and consensus-based standards;” and added cls. (i) and (ii).
+
+Subsec. (b)(1)(C). Pub. L. 116–283, § 804(b)(1)(B)(i)(III), inserted “and modular systems” after “severable major system components” in introductory provisions.
+
+Subsec. (b)(3)(A). Pub. L. 116–283, § 804(b)(1)(B)(ii), substituted “modular system interfaces” for “well-defined major system interfaces”.
+
+Subsec. (b)(4). Pub. L. 116–283, § 804(b)(1)(B)(iii), amended par. (4) generally. Prior to amendment, par. (4) defined major system interface.
+
+Subsec. (b)(5) to (9). Pub. L. 116–283, § 804(b)(1)(B)(iv), (v), added par. (5) and redesignated former pars. (5) to (8) as (6) to (9), respectively.
+
+#### Effective Date of 2021 Amendment
+Amendment by section 1851(b)(1) of Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
 
 #### Effective Date
 Pub. L. 114–328, div. A, title VIII, § 805(a)(4), Dec. 23, 2016, 130 Stat. 2255, provided that: “Subchapter I of chapter 144B of title 10, United States Code, as added by paragraph (1), shall take effect on January 1, 2017.”
@@ -98,10 +136,20 @@ Pub. L. 114–328, div. A, title VIII, § 805(a)(4), Dec. 23, 2016, 130 Stat. 22
 
 (2) in the case of a program that does not use a modular open system approach, that the use of a modular open system approach is not practicable.
 
+**(f) Implementation Guidance.—** The Secretaries of the military departments shall issue guidance to implement the requirements of this section.
+
 ### Statutory Notes
 
+#### Transfer of Section
+Pub. L. 116–283, div. A, title XVIII, §§ 1801(d), 1851(b)(1), Jan. 1, 2021, 134 Stat. 4151, 4272, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, this section is transferred to chapter 327 of this title, as added by section 1851(a) of Pub. L. 116–283, inserted after the table of sections at the beginning of subchapter I, and redesignated as [section 4402 of this title](./chapter-327-weapon-systems-development-and-related-matters.md#section-4402). See Effective Date of 2021 Amendment note below.
+
 #### Amendments
+2019—Subsec. (f). Pub. L. 116–92 added subsec. (f).
+
 2017—Subsec. (e). Pub. L. 115–91 substituted “in writing—” for “in writing that—” in introductory provisions and inserted “, that” after “open system approach” in introductory provisions of par. (1).
+
+#### Effective Date of 2021 Amendment
+Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
 
 #### Effective Date
 Section effective Jan. 1, 2017, see section 805(a)(4) of Pub. L. 114–328, set out as a note under [section 2446a of this title](./chapter-144b-weapon-systems-development-and-related-matters.md#section-2446a).
@@ -118,11 +166,22 @@ The Secretary of each military department shall—
 
 (3) ensure that sufficient systems engineering and development expertise and resources are available to support the use of a modular open system approach in requirements development and acquisition program planning;
 
-(4) ensure that necessary planning, programming, and budgeting resources are provided to specify, identify, develop, and sustain the modular open system approach, associated major system interfaces, systems integration, and any additional program activities necessary to sustain innovation and interoperability; and
+(4) ensure that necessary planning, programming, and budgeting resources are provided to specify, identify, develop, and sustain the modular open system approach, associated major system interfaces, systems integration, and any additional program activities necessary to sustain innovation and interoperability;
 
-(5) ensure that adequate training in the use of a modular open system approach is provided to members of the requirements and acquisition workforce.
+(5) ensure that adequate training in the use of a modular open system approach is provided to members of the requirements and acquisition workforce; and
+
+(6) issue guidance to implement the requirements of this section.
 
 ### Statutory Notes
+
+#### Transfer of Section
+Pub. L. 116–283, div. A, title XVIII, §§ 1801(d), 1851(b)(1), Jan. 1, 2021, 134 Stat. 4151, 4272, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, this section is transferred to chapter 327 of this title, as added by section 1851(a) of Pub. L. 116–283, inserted after the table of sections at the beginning of subchapter I, and redesignated as [section 4403 of this title](./chapter-327-weapon-systems-development-and-related-matters.md#section-4403). See Effective Date of 2021 Amendment note below.
+
+#### Amendments
+2019—Par. (6). Pub. L. 116–92 added par. (6).
+
+#### Effective Date of 2021 Amendment
+Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
 
 #### Effective Date
 Section effective Jan. 1, 2017, see section 805(a)(4) of Pub. L. 114–328, set out as a note under [section 2446a of this title](./chapter-144b-weapon-systems-development-and-related-matters.md#section-2446a).
@@ -130,11 +189,11 @@ Section effective Jan. 1, 2017, see section 805(a)(4) of Pub. L. 114–328, set 
 
 <a id="section-2447a"></a>
 ## § 2447a. Weapon system component or technology prototype projects: display of budget information
-**(a) Requirements for Budget Display.—** In the defense budget materials for any fiscal year after fiscal year 2017, the Secretary of Defense shall, with respect to advanced component development and prototype activities (within the research, development, test, and evaluation budget), set forth the amounts requested for each of the following:
+**(a) Requirements for Budget Display.—** In the defense budget materials for any fiscal year, the Secretary of Defense shall, with respect to advanced component development and prototype activities (within the research, development, test, and evaluation budget), set forth the amounts requested for each of the following:
 
 (1) Acquisition programs of record.
 
-(2) Development, prototyping, and experimentation of weapon system components or other technologies, including those based on commercial items and technologies, separate from acquisition programs of record.
+(2) Development, prototyping, and experimentation of weapon system components or other technologies, including those based on commercial products and technologies, separate from acquisition programs of record.
 
 (3) Other budget line items as determined by the Secretary of Defense.
 
@@ -144,21 +203,22 @@ Section effective Jan. 1, 2017, see section 805(a)(4) of Pub. L. 114–328, set 
 
 (2) justified with general descriptions of the types of capability areas and technologies being funded or expected to be funded during the fiscal year concerned.
 
-**(c) Definitions.—** In this section, the terms “budget” and “defense budget materials” have the meaning given those terms in [section 234 of this title](./chapter-009-defense-budget-matters.md#section-234).
+**(c) Definitions.—** In this section, the terms “budget” and “defense budget materials” have the meaning given those terms in [section 234 of this title](./chapter-009-defense-budget-matters.md#section-234) and the term “commercial product” has the meaning given that term in [section 103 of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section103&num=0&edition=prelim).
 
 ### Statutory Notes
 
-#### Amendment of Section
-Pub. L. 115–232, div. A, title VIII, § 836(e)(8), (h), Aug. 13, 2018, 132 Stat. 1870, 1874, provided that, effective Jan. 1, 2020, subject to a savings provision, this section is amended as follows:
-
-(1) in subsection (a)(2), by striking “commercial items and technologies” and inserting “commercial products and technologies”; and
-
-(2) in subsection (c), by inserting before the period at the end the following: “and the term ‘commercial product’ has the meaning given that term in [section 103 of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section103&num=0&edition=prelim)”.
+#### Transfer of Section
+Pub. L. 116–283, div. A, title XVIII, §§ 1801(d), 1851(c)(1), Jan. 1, 2021, 134 Stat. 4151, 4272, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, this section is transferred to chapter 327 of this title, as added by section 1851(a) of Pub. L. 116–283, inserted after the table of sections at the beginning of subchapter II, and redesignated as [section 4421 of this title](./chapter-327-weapon-systems-development-and-related-matters.md#section-4421). See Effective Date of 2021 Amendment note below.
 
 #### Amendments
+2019—Subsec. (a). Pub. L. 116–92 struck out “after fiscal year 2017” after “any fiscal year” in introductory provisions.
+
 2018—Subsec. (a)(2). Pub. L. 115–232, § 836(e)(8)(A), substituted “commercial products and technologies” for “commercial items and technologies”.
 
 Subsec. (c). Pub. L. 115–232, § 836(e)(8)(B), inserted before period at end “and the term ‘commercial product’ has the meaning given that term in [section 103 of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section103&num=0&edition=prelim)”.
+
+#### Effective Date of 2021 Amendment
+Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
 
 #### Effective Date of 2018 Amendment
 Amendment by Pub. L. 115–232 effective Jan. 1, 2020, subject to a savings provision, see section 836(h) of Pub. L. 115–232, set out as an Effective Date of 2018 Amendment; Savings Provision note under [section 453b of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section453b&num=0&edition=prelim), Domestic Security.
@@ -211,6 +271,12 @@ Pub. L. 114–328, div. A, title VIII, § 806(a)(2), Dec. 23, 2016, 130 Stat. 22
 
 ### Statutory Notes
 
+#### Transfer of Section
+Pub. L. 116–283, div. A, title XVIII, §§ 1801(d), 1851(c)(1), Jan. 1, 2021, 134 Stat. 4151, 4272, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, this section is transferred to chapter 327 of this title, as added by section 1851(a) of Pub. L. 116–283, inserted after the table of sections at the beginning of subchapter II, and redesignated as [section 4422 of this title](./chapter-327-weapon-systems-development-and-related-matters.md#section-4422). See Effective Date of 2021 Amendment note below.
+
+#### Effective Date of 2021 Amendment
+Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
+
 #### Effective Date
 Section effective Jan. 1, 2017, see section 806(a)(2) of Pub. L. 114–328, set out as a note under [section 2447a of this title](./chapter-144b-weapon-systems-development-and-related-matters.md#section-2447a).
 
@@ -243,6 +309,12 @@ Section effective Jan. 1, 2017, see section 806(a)(2) of Pub. L. 114–328, set 
 
 ### Statutory Notes
 
+#### Transfer of Section
+Pub. L. 116–283, div. A, title XVIII, §§ 1801(d), 1851(c)(1), Jan. 1, 2021, 134 Stat. 4151, 4272, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, this section is transferred to chapter 327 of this title, as added by section 1851(a) of Pub. L. 116–283, inserted after the table of sections at the beginning of subchapter II, and redesignated as [section 4423 of this title](./chapter-327-weapon-systems-development-and-related-matters.md#section-4423). See Effective Date of 2021 Amendment note below.
+
+#### Effective Date of 2021 Amendment
+Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
+
 #### Effective Date
 Section effective Jan. 1, 2017, see section 806(a)(2) of Pub. L. 114–328, set out as a note under [section 2447a of this title](./chapter-144b-weapon-systems-development-and-related-matters.md#section-2447a).
 
@@ -271,6 +343,12 @@ Section effective Jan. 1, 2017, see section 806(a)(2) of Pub. L. 114–328, set 
 
 ### Statutory Notes
 
+#### Transfer of Section
+Pub. L. 116–283, div. A, title XVIII, §§ 1801(d), 1851(c)(1), Jan. 1, 2021, 134 Stat. 4151, 4272, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, this section is transferred to chapter 327 of this title, as added by section 1851(a) of Pub. L. 116–283, inserted after the table of sections at the beginning of subchapter II, and redesignated as [section 4424 of this title](./chapter-327-weapon-systems-development-and-related-matters.md#section-4424). See Effective Date of 2021 Amendment note below.
+
+#### Effective Date of 2021 Amendment
+Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
+
 #### Effective Date
 Section effective Jan. 1, 2017, see section 806(a)(2) of Pub. L. 114–328, set out as a note under [section 2447a of this title](./chapter-144b-weapon-systems-development-and-related-matters.md#section-2447a).
 
@@ -281,6 +359,12 @@ Section effective Jan. 1, 2017, see section 806(a)(2) of Pub. L. 114–328, set 
 In this subchapter, the term “weapon system component” has the meaning given the term “major system component” in [section 2446a of this title](./chapter-144b-weapon-systems-development-and-related-matters.md#section-2446a).
 
 ### Statutory Notes
+
+#### Transfer of Section
+Pub. L. 116–283, div. A, title XVIII, §§ 1801(d), 1851(c)(1), Jan. 1, 2021, 134 Stat. 4151, 4272, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, this section is transferred to chapter 327 of this title, as added by section 1851(a) of Pub. L. 116–283, inserted after the table of sections at the beginning of subchapter II, and redesignated as [section 4425 of this title](./chapter-327-weapon-systems-development-and-related-matters.md#section-4425). See Effective Date of 2021 Amendment note below.
+
+#### Effective Date of 2021 Amendment
+Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
 
 #### Effective Date
 Section effective Jan. 1, 2017, see section 806(a)(2) of Pub. L. 114–328, set out as a note under [section 2447a of this title](./chapter-144b-weapon-systems-development-and-related-matters.md#section-2447a).
@@ -314,10 +398,16 @@ Section effective Jan. 1, 2017, see section 806(a)(2) of Pub. L. 114–328, set 
 
 ### Statutory Notes
 
+#### Transfer of Section
+Pub. L. 116–283, div. A, title XVIII, §§ 1801(d), 1847(e)(1), Jan. 1, 2021, 134 Stat. 4151, 4256, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, this section is transferred to chapter 322 of this title, inserted after the table of sections at the beginning of subchapter IV, and redesignated as [section 4271 of this title](./chapter-322-major-systems-and-major-defense-acquisition-programs-generally.md#section-4271). See Effective Date of 2021 Amendment note below.
+
 #### Amendments
 2018—Subsec. (a)(1). Pub. L. 115–232, § 831(a)(1), (2), in introductory provisions, substituted “designated milestone decision authority for the program shall ensure, by establishing the goals described in paragraph (2), that the program” for “Secretary of Defense shall ensure, by establishing the goals described in paragraph (2), that the milestone decision authority for the major defense acquisition program approves a program that”.
 
 Subsecs. (b), (c). Pub. L. 115–232, § 831(a)(3), (4), redesignated subsec. (c) as (b) and struck out former subsec. (b). Prior to amendment, text of subsec. (b) read as follows: “The responsibilities of the Secretary of Defense in subsection (a) may be delegated only to the Deputy Secretary of Defense.”
+
+#### Effective Date of 2021 Amendment
+Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
 
 #### Effective Date
 Pub. L. 114–328, div. A, title VIII, § 807(a)(2), Dec. 23, 2016, 130 Stat. 2261, provided that: “Subchapter III of chapter 144B of title 10, United States Code, as added by paragraph (1), shall apply with respect to major defense acquisition programs that reach Milestone A after October 1, 2017.”
@@ -328,15 +418,32 @@ Pub. L. 114–328, div. A, title IX, § 925(b), Dec. 23, 2016, 130 Stat. 2361, a
 
 <a id="section-2448b"></a>
 ## § 2448b. Independent technical risk assessments
-**(a) In General.—** With respect to a major defense acquisition program, the Secretary of Defense shall ensure that an independent technical risk assessment is conducted—
+**(a) In General.—** With respect to a major defense acquisition program, the Secretary of Defense shall conduct or approve independent technical risk assessments—
 
 (1) before any decision to grant Milestone A approval for the program pursuant to [section 2366a of this title](./chapter-139-research-and-development.md#section-2366a), that identifies critical technologies and manufacturing processes that need to be matured; and
 
 (2) before any decision to grant Milestone B approval for the program pursuant to [section 2366b of this title](./chapter-139-research-and-development.md#section-2366b), any decision to enter into low-rate initial production or full-rate production, or at any other time considered appropriate by the Secretary, that includes the identification of any critical technologies or manufacturing processes that have not been successfully demonstrated in a relevant environment.
 
-**(b) Categorization of Technical Risk Levels.—** The Secretary shall issue guidance and a framework for categorizing the degree of technical and manufacturing risk in a major defense acquisition program.
+**(b) Guidance.—** The Secretary shall issue guidance and a framework for the conduct, execution, and approval of independent technical risk assessments.
 
 ### Statutory Notes
+
+#### Transfer of Section
+Pub. L. 116–283, div. A, title XVIII, §§ 1801(d), 1847(e)(2), Jan. 1, 2021, 134 Stat. 4151, 4256, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, this section is transferred to chapter 322 of this title, inserted after [section 4271 of this title](./chapter-322-major-systems-and-major-defense-acquisition-programs-generally.md#section-4271), and redesignated as [section 4272 of this title](./chapter-322-major-systems-and-major-defense-acquisition-programs-generally.md#section-4272). See Effective Date of 2021 Amendment note below.
+
+#### Amendments
+2019—Pub. L. 116–92 added subsecs. (a) and (b) and struck out former subsecs. (a) and (b) which read as follows:
+
+“(a) In General.—With respect to a major defense acquisition program, the Secretary of Defense shall ensure that an independent technical risk assessment is conducted—
+
+“(1) before any decision to grant Milestone A approval for the program pursuant to [section 2366a of this title](./chapter-139-research-and-development.md#section-2366a), that identifies critical technologies and manufacturing processes that need to be matured; and
+
+“(2) before any decision to grant Milestone B approval for the program pursuant to [section 2366b of this title](./chapter-139-research-and-development.md#section-2366b), any decision to enter into low-rate initial production or full-rate production, or at any other time considered appropriate by the Secretary, that includes the identification of any critical technologies or manufacturing processes that have not been successfully demonstrated in a relevant environment.
+
+“(b) Categorization of Technical Risk Levels.—The Secretary shall issue guidance and a framework for categorizing the degree of technical and manufacturing risk in a major defense acquisition program.”
+
+#### Effective Date of 2021 Amendment
+Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
 
 #### Effective Date
 Section applicable with respect to major defense acquisition programs that reach Milestone A after Oct. 1, 2017, see section 807(a)(2) of Pub. L. 114–328, set out as a note under [section 2448a of this title](./chapter-144b-weapon-systems-development-and-related-matters.md#section-2448a).

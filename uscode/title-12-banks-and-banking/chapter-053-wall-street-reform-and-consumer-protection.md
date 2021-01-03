@@ -953,9 +953,6 @@ This subchapter, referred to in text, was in the original “this title”, mean
 
 ### Statutory Notes
 
-#### Delayed Effective Date of Amendment
-For delayed effective date of amendment by Pub. L. 115–174, except with respect to certain bank holding companies, see Effective Date of 2018 Amendment note set out under [section 5365 of this title](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5365).
-
 #### Amendments
 2018—Subsec. (a)(2)(B). Pub. L. 115–174 substituted “the applicable threshold” for “$50,000,000,000”.
 
@@ -993,9 +990,6 @@ For construction of amendment by Pub. L. 115–174 as applied to certain foreign
 (3) **Confidentiality** — The Council shall maintain the confidentiality of the reports obtained under subsection (a) and paragraph (1)(A) of this subsection.
 
 ### Statutory Notes
-
-#### Delayed Effective Date of Amendment
-For delayed effective date of amendment by Pub. L. 115–174, except with respect to certain bank holding companies, see Effective Date of 2018 Amendment note set out under [section 5365 of this title](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5365).
 
 #### Amendments
 2018—Subsec. (a). Pub. L. 115–174 substituted “$250,000,000,000” for “$50,000,000,000” in introductory provisions.
@@ -1163,9 +1157,6 @@ Title X, referred to in subsec. (a)(1), is title X of Pub. L. 111–203, July 21
 (2) taking into account the extent to which the foreign nonbank financial company or foreign-based bank holding company is subject on a consolidated basis to home country standards that are comparable to those applied to financial companies in the United States.
 
 ### Statutory Notes
-
-#### Delayed Effective Date of Amendment
-For delayed effective date of amendment by Pub. L. 115–174, except with respect to certain bank holding companies, see Effective Date of 2018 Amendment note set out under [section 5365 of this title](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5365).
 
 #### Amendments
 2018—Subsec. (a). Pub. L. 115–174 substituted “$250,000,000,000” for “$50,000,000,000” in introductory provisions.
@@ -1470,9 +1461,6 @@ This Act, referred to in subsec. (a)(7), is Pub. L. 111–203, July 21, 2010, 12
 
 ### Statutory Notes
 
-#### Delayed Effective Date of Amendment
-For delayed effective date of amendment by Pub. L. 115–174, except with respect to certain bank holding companies, see Effective Date of 2018 Amendment note set out under [section 5365 of this title](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5365).
-
 #### Codification
 Amendment by Pub. L. 115–174 was executed to subsec. (d) of this section as it appeared in the enrolled bill for H.R. 4173 (111th Congress, 2d session), which contained the text “$50,000,000,000”. As published in the Statutes at Large for Pub. L. 111–203, text appeared as “50,000,000,000”.
 
@@ -1635,9 +1623,6 @@ This Act, referred to in subsec. (b)(1), is Pub. L. 111–203, July 21, 2010, 12
 
 ### Statutory Notes
 
-#### Delayed Effective Date of Amendment
-For delayed effective date of amendment by Pub. L. 115–174, except with respect to certain bank holding companies, see Effective Date of 2018 Amendment note set out under [section 5365 of this title](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5365).
-
 #### Amendments
 2018—Subsec. (b)(1), (3). Pub. L. 115–174 substituted “$250,000,000,000” for “$50,000,000,000”.
 
@@ -1654,9 +1639,6 @@ For construction of amendment by Pub. L. 115–174 as applied to certain foreign
 A nonbank financial company supervised by the Board of Governors shall be treated as a bank holding company for purposes of the Depository Institutions 11 So in original. Probably should be “Institution”. Management Interlocks Act ([12 U.S.C. 3201](./chapter-033-depository-institution-management-interlocks.md#section-3201) et seq.), except that the Board of Governors shall not exercise the authority provided in section 7 22 So in original. There is no section 7 of such Act. of that Act ([12 U.S.C. 3207](./chapter-033-depository-institution-management-interlocks.md#section-3207)) to permit service by a management official of a nonbank financial company supervised by the Board of Governors as a management official of any bank holding company with total consolidated assets equal to or greater than $250,000,000,000, or other nonaffiliated nonbank financial company supervised by the Board of Governors (other than to provide a temporary exemption for interlocks resulting from a merger, acquisition, or consolidation).
 
 ### Statutory Notes
-
-#### Delayed Effective Date of Amendment
-For delayed effective date of amendment by Pub. L. 115–174, except with respect to certain bank holding companies, see Effective Date of 2018 Amendment note set out under [section 5365 of this title](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5365).
 
 #### References in Text
 The Depository Institution Management Interlocks Act, referred to in text, is title II of Pub. L. 95–630, Nov. 10, 1978, 92 Stat. 3672, which is classified principally to chapter 33 (§ 3201 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 3201 of this title](./chapter-033-depository-institution-management-interlocks.md#section-3201) and Tables.
@@ -1948,9 +1930,6 @@ For construction of amendment by Pub. L. 115–174 as applied to certain foreign
   (K) Such other activities or transactions as the Board of Governors may, by rule, define.
 
 ### Statutory Notes
-
-#### Delayed Effective Date of Amendment
-For delayed effective date of amendment by Pub. L. 115–174, except with respect to certain bank holding companies, see Effective Date of 2018 Amendment note below.
 
 #### References in Text
 Subchapter II, referred to in subsec. (d)(6), was in the original “title II”, meaning title II of Pub. L. 111–203, July 21, 2010, 124 Stat. 1442, which is classified principally to subchapter II (§ 5381 et seq.) of this chapter. For complete classification of title II to the Code, see Tables.
@@ -5142,7 +5121,7 @@ In this subchapter, the following definitions shall apply:
 ### Statutory Notes
 
 #### References in Text
-The Federal Credit Union Act, referred to in par. (1)(B), is act June 26, 1934, ch. 750, 48 Stat. 1216, which is classified principally to chapter 14 (§ 1751 et seq.) of this title. Section 101 of the Act, classified to [section 1752 of this title](./chapter-014-federal-credit-unions.md#section-1752), does not contain a definition of “credit union”. For complete classification of this Act to the Code, see [section 1751 of this title](./chapter-014-federal-credit-unions.md#section-1751) and Tables.
+The Federal Credit Union Act, referred to in pars. (1)(B) and (5)(A)(iv), is act June 26, 1934, ch. 750, 48 Stat. 1216, which is classified principally to chapter 14 (§ 1751 et seq.) of this title. Section 101 of the Act, classified to [section 1752 of this title](./chapter-014-federal-credit-unions.md#section-1752), does not contain a definition of “credit union”. For complete classification of this Act to the Code, see [section 1751 of this title](./chapter-014-federal-credit-unions.md#section-1751) and Tables.
 
 Sections 25 and 25A of the Federal Reserve Act, referred to in pars. (1)(C) and (5)(A)(iii), are classified to subchapters I (§ 601 et seq.) and II (§ 611 et seq.), respectively, of chapter 6 of this title.
 
@@ -8540,9 +8519,9 @@ Part effective 1 day after July 21, 2010, except as otherwise provided, see sect
 
   (A) a written determination that orderly implementation of this title 22 See References in Text note below. is not feasible before the date that is 12 months after July 21, 2010;
 
-  (B) an explanation of why an extension is necessary for the orderly implementation of this title; 1 and
+  (B) an explanation of why an extension is necessary for the orderly implementation of this title; 2 and
 
-  (C) a description of the steps that will be taken to effect an orderly and timely implementation of this title 1 within the extended time period.
+  (C) a description of the steps that will be taken to effect an orderly and timely implementation of this title 2 within the extended time period.
 
 (3) **Extension limited** — In no case may any date designated under this section be later than 18 months after July 21, 2010.
 
@@ -9175,7 +9154,7 @@ Subchapter effective 1 day after July 21, 2010, except as otherwise provided, se
 
 (5) **Authority of the Secretary** — The Secretary may purchase any obligations issued under paragraph (3)(A). For such purpose, the Secretary may use the proceeds of the sale of any securities issued under chapter 31 of title 31, and the purposes for which securities may be issued under that chapter 31 are extended to include such purchases, and the amount of any securities issued under that chapter 31 for such purpose shall be treated in the same manner as securities issued under section 208(n)(5)(E).11 See References in Text note below.
 
-**(f) Rule of construction** For purposes of this section, a guarantee of deposits held by insured depository institutions shall not be treated as a debt guarantee program.
+**(f) Rule of construction** For purposes of this section, a guarantee of deposits held by insured depository institutions in noninterest-bearing transaction accounts may be treated as a debt guarantee program.
 
 **(g) Definitions** For purposes of this section, the following definitions shall apply:
 
@@ -9195,12 +9174,25 @@ Subchapter effective 1 day after July 21, 2010, except as otherwise provided, se
 
 (4) **Solvent** — The term “solvent” means that the value of the assets of an entity exceed its obligations to creditors.
 
+**(h) Approval of guarantee program during the COVID–19 crisis**
+
+(1) **In general** — For purposes of the congressional joint resolution of approval provided for in subsections (c)(1) and (2) and (d), notwithstanding any other provision of this section, the Federal Deposit Insurance Corporation is approved upon enactment of this Act to establish a program provided for in subsection (a), provided that any such program and any such guarantee shall terminate not later than December 31, 2020.
+
+(2) **Maximum amount** — Any debt guarantee program authorized by this subsection shall include a maximum amount of outstanding debt that is guaranteed.
+
 ### Statutory Notes
 
 #### References in Text
 Section 1105 of the Dodd-Frank Wall Street Reform and Consumer Protection Act, referred to in subsec. (d)(4)(C), (D), is section 1105 of Pub. L. 111–203, which is classified to this section.
 
 Section 208(n)(5)(E), referred to in subsec. (e)(5), probably means section 210(n)(5)(E) of Pub. L. 111–203, which is classified to [section 5390(n)(5)(E) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section5390/n/5/E&num=0&edition=prelim), because section 208 does not contain a subsec. (n) and section 210(n)(5)(E) relates to treatment of certain purchases and sales of obligations by the Secretary as public debt.
+
+Enactment of this Act, referred to in subsec. (h)(1), probably means the date of enactment of subtitle A of title IV of div. A of Pub. L. 116–136, known as the Coronavirus Economic Stabilization Act of 2020, which was approved Mar. 27, 2020. For complete classification of this Act to the Code, see section 4001 of div. A of title IV of Pub. L. 116–136, set out as a Short Title note under [section 9001 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section9001&num=0&edition=prelim), and Tables.
+
+#### Amendments
+2020—Subsec. (f). Pub. L. 116–136, § 4008(a)(1), inserted “in noninterest-bearing transaction accounts” after “institutions” and substituted “may” for “shall not”.
+
+Subsec. (h). Pub. L. 116–136, § 4008(a)(2), added subsec. (h).
 
 
 <a id="section-5622"></a>

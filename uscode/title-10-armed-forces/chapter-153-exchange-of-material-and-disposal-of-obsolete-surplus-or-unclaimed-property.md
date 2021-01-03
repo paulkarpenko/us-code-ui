@@ -121,6 +121,9 @@ Pub. L. 110–329, div. C, title VIII, § 8075, Sept. 30, 2008, 122 Stat. 3638, 
 
 ### Statutory Notes
 
+#### Amendment of Subsection (e)(2)(A)
+Pub. L. 116–283, div. A, title XVIII, §§ 1801(d), 1870(d)(4), Jan. 1, 2021, 134 Stat. 4151, 4286, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, subsection (e)(2)(A) of this section is amended by striking “section 2536(c)(1)” and inserting “section 4872(c)(1)”. See Effective Date of 2021 Amendment note below.
+
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
 | Revised section | Source (U.S. Code) | Source (Statutes at Large) |
@@ -129,6 +132,8 @@ Pub. L. 110–329, div. C, title VIII, § 8075, Sept. 30, 2008, 122 Stat. 3638, 
 The word “may” is substituted for the words “are each authorized, in their discretion”. The reference to posts of the Grand Army of the Republic is omitted, since that organization disbanded in 1950. The words “under regulations to be prescribed by him” are substituted for the words “subject to rules and regulations covering the same in each department”. The words “without expense to the United States” are substituted for the words “and the Government shall be at no expense in connection with any such loan or gift”. The words “local unit” are inserted in clause (7) to conform to clauses (5), (6), and (8).
 
 #### Amendments
+2021—Subsec. (e)(2)(A). Pub. L. 116–283 substituted “section 4872(c)(1)” for “section 2536(c)(1)”.
+
 2017—Subsec. (e)(2)(B)(iii). Pub. L. 115–91, § 2864(a), substituted “from abroad before 1907” for “from abroad”.
 
 Subsec. (e)(3)(B). Pub. L. 115–91, § 2864(b), substituted “September 30, 2022” for “September 30, 2017”.
@@ -180,6 +185,9 @@ Subsec. (b)(2). Pub. L. 101–510, § 325(2), inserted “, or services provided
 “(8) a post of the Sons of Veterans Reserve.”
 
 1980—Pub. L. 96–513 substituted “section 205 of the Federal Property and Administrative Services Act of 1949 ([40 U.S.C. 486](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40-section486&num=0&edition=prelim)), the Secretary of a military department or the Secretary of Transportation” for “[section 486 of title 40](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40-section486&num=0&edition=prelim), the Secretary of a military department or the Secretary of the Treasury”.
+
+#### Effective Date of 2021 Amendment
+Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
 
 #### Effective Date of 2017 Amendment
 Pub. L. 115–91, div. B, title XXVIII, § 2864(d), Dec. 12, 2017, 131 Stat. 1869, provided that: “The amendments made by this section [amending this section] shall take effect October 1, 2017.”
@@ -364,7 +372,7 @@ Pub. L. 104–307, Oct. 14, 1996, 110 Stat. 3811, as amended by Pub. L. 106–65
 
 (1) Notwithstanding any other provision of law and subject to subsection (b), the Secretary of Defense may transfer to Federal and State agencies personal property of the Department of Defense, including small arms and ammunition, that the Secretary determines is—
 
-  (A) suitable for use by the agencies in law enforcement activities, including counterdrug, counterterrorism, and border security activities; and
+  (A) suitable for use by the agencies in law enforcement activities, including counterdrug, counterterrorism, disaster-related emergency preparedness, and border security activities; and
 
   (B) excess to the needs of the Department of Defense.
 
@@ -382,13 +390,23 @@ Pub. L. 104–307, Oct. 14, 1996, 110 Stat. 3811, as amended by Pub. L. 106–65
 
 (5) the recipient, on an annual basis, and with the authorization of the relevant local governing body or authority, certifies that it has adopted publicly available protocols for the appropriate use of controlled property, the supervision of such use, and the evaluation of the effectiveness of such use, including auditing and accountability policies; and
 
-(6) after the completion of the assessment required by section 1051(e) of the National Defense Authorization Act for Fiscal Year 2016, the recipient, on an annual basis, certifies that it provides annual training to relevant personnel on the maintenance, sustainment, and appropriate use of controlled property.
+(6) after the completion of the assessment required by section 1051(e) of the National Defense Authorization Act for Fiscal Year 2016, the recipient, on an annual basis, certifies that it provides annual training to relevant personnel on the maintenance, sustainment, and appropriate use of controlled property, including respect for the rights of citizens under the Constitution of the United States and de-escalation of force.
 
 **(c) Consideration.—** Subject to subsection (b)(4), the Secretary may transfer personal property under this section without charge to the recipient agency.
 
-**(d) Preference for Certain Transfers.—** In considering applications for the transfer of personal property under this section, the Secretary shall give a preference to those applications indicating that the transferred property will be used in the counterdrug, counterterrorism, or border security activities of the recipient agency.
+**(d) Preference for Certain Transfers.—** In considering applications for the transfer of personal property under this section, the Secretary shall give a preference to applications indicating that the transferred property will be used in the counterdrug, counterterrorism, disaster-related emergency preparedness, or border security activities of the recipient agency. Applications that request vehicles used for disaster-related emergency preparedness, such as high-water rescue vehicles, should receive the highest preference.
 
-**(e) Publicly Accessible Website.—**
+**(e) Property Not Transferrable.—** The Secretary may not transfer to a Tribal, State, or local law enforcement agency under this section the following:
+
+(1) Bayonets.
+
+(2) Grenades (other than stun and flash-bang grenades).
+
+(3) Weaponized tracked combat vehicles.
+
+(4) Weaponized drones.
+
+**(f) Publicly Accessible Website.—**
 
 (1) The Secretary shall create and maintain a publicly available Internet website that provides information on the controlled property transferred under this section and the recipients of such property.
 
@@ -400,7 +418,7 @@ Pub. L. 104–307, Oct. 14, 1996, 110 Stat. 3811, as amended by Pub. L. 106–65
 
   (C) all reports required to be submitted to the Secretary under this section by Federal and State agencies that receive controlled property under this section.
 
-**(f) Controlled Property.—** In this section, the term “controlled property” means any item assigned a demilitarization code of B, C, D, E, G, or Q under Department of Defense Manual 4160.21–M, “Defense Materiel Disposition Manual”, or any successor document.
+**(g) Controlled Property.—** In this section, the term “controlled property” means any item assigned a demilitarization code of B, C, D, E, G, or Q under Department of Defense Manual 4160.21–M, “Defense Materiel Disposition Manual”, or any successor document.
 
 ### Statutory Notes
 
@@ -411,6 +429,14 @@ Section 1051(e) of the National Defense Authorization Act for Fiscal Year 2016, 
 Provisions similar to those in this section were contained in Pub. L. 101–189, div. A, title XII, § 1208, Nov. 29, 1989, 103 Stat. 1566, as amended, which was set out as a note under [section 372 of this title](./chapter-016-security-cooperation.md#section-372), prior to repeal by Pub. L. 104–201, § 1033(b)(1). [Section 372 of this title](./chapter-016-security-cooperation.md#section-372) was renumbered [section 272 of this title](./chapter-015-military-support-for-civilian-law-enforcement-agencies.md#section-272) by Pub. L. 114–328, div. A, title XII, § 1241(a)(2), Dec. 23, 2016, 130 Stat. 2497.
 
 #### Amendments
+2021—Subsec. (a)(1)(A). Pub. L. 116–283, § 1053(a)(1), inserted “disaster-related emergency preparedness,” after “counterterrorism,”.
+
+Subsec. (b)(6). Pub. L. 116–283, § 1053(b)(1), inserted “, including respect for the rights of citizens under the Constitution of the United States and de-escalation of force” before period at end.
+
+Subsec. (d). Pub. L. 116–283, § 1053(a)(2), amended subsec. (d) generally. Prior to amendment, text read as follows: “In considering applications for the transfer of personal property under this section, the Secretary shall give a preference to those applications indicating that the transferred property will be used in the counterdrug, counterterrorism, or border security activities of the recipient agency.”
+
+Subsecs. (e) to (g). Pub. L. 116–283, § 1053(b)(2), added subsec. (e) and redesignated former subsecs. (e) and (f) as (f) and (g), respectively.
+
 2017—Subsec. (b)(4). Pub. L. 115–91 struck out “and” at end.
 
 2015—Subsec. (a)(1)(A). Pub. L. 114–92, § 1052(1)(A), substituted “counterdrug, counterterrorism, and border security activities” for “counter-drug and counter-terrorism activities”.
@@ -472,6 +498,8 @@ Pub. L. 106–398, § 1 [[div. A], title XVII, § 1707], Oct. 30, 2000, 114 Stat
 
 (2) Any sale of recyclable materials by the Secretary of Defense or Secretary of a military department shall be in accordance with the procedures in sections 541–555 of title 40 for the sale of surplus property.
 
+(3) In this section, the term “recyclable materials” may include any quality recyclable material provided to the Department by a State or local government entity, if such material is authorized by the Office of the Secretary of Defense and identified in the regulations prescribed under paragraph (1).
+
 **(b)**
 
 (1) Proceeds from the sale of recyclable materials at an installation shall be credited to funds available for operations and maintenance at that installation in amounts sufficient to cover the costs of operations, maintenance, and overhead for processing recyclable materials at the installation (including the cost of any equipment purchased for recycling purposes).
@@ -480,11 +508,15 @@ Pub. L. 106–398, § 1 [[div. A], title XVII, § 1707], Oct. 30, 2000, 114 Stat
 
 (3) The remaining balance available to a military installation may be transferred to the nonappropriated morale and welfare account of the installation to be used for any morale or welfare activity.
 
-**(c)** If the balance available to a military installation under this section at the end of any fiscal year is in excess of $2,000,000, the amount of that excess shall be covered into the Treasury as miscellaneous receipts.
+**(c)** If the balance available to a military installation under this section at the end of any fiscal year is in excess of $10,000,000, the amount of that excess shall be covered into the Treasury as miscellaneous receipts.
 
 ### Statutory Notes
 
 #### Amendments
+2019—Subsec. (a)(3). Pub. L. 116–92, § 314, added par. (3).
+
+Subsec. (c). Pub. L. 116–92, § 313, substituted “$10,000,000” for “$2,000,000”.
+
 2002—Subsec. (a)(2). Pub. L. 107–217 substituted “sections 541–555 of title 40” for “section 203 of the Federal Property and Administrative Services Act of 1949 ([40 U.S.C. 484](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40-section484&num=0&edition=prelim))”.
 
 1984—Subsec. (a)(1). Pub. L. 98–525 substituted “purposes” for “puposes”.
@@ -584,77 +616,114 @@ Another section 2582 was renumbered [section 2583 of this title](./chapter-153-e
 
 <a id="section-2583"></a>
 ## § 2583. Military animals: transfer and adoption
-**(a) Availability for Adoption.—** The Secretary of the military department concerned shall make a military animal of such military department available for adoption by a person or entity referred to in subsection (c), unless the animal has been determined to be unsuitable for adoption under subsection (b), under circumstances as follows:
+**(a) Availability for Transfer or Adoption.—** The Secretary of the military department concerned shall make a military animal of such military department available for transfer or adoption by a person or entity referred to in subsection (c), unless the animal has been determined to be unsuitable for transfer or adoption under subsection (b), under circumstances as follows:
 
 (1) At the end of the animal’s useful life.
 
-(2) Before the end of the animal’s useful life, if such Secretary, in such Secretary’s discretion, determines that unusual or extraordinary circumstances, including circumstances under which the handler of a military working dog is killed in action, dies of wounds received in action, or is medically retired as a result of injuries received in action, justify making the animal available for adoption before that time.
+(2) Before the end of the animal’s useful life, if such Secretary, in such Secretary’s discretion, determines that unusual or extraordinary circumstances, including circumstances under which the handler of a military working dog is killed in action, dies of wounds received in action, or is medically retired as a result of injuries received in action, justify making the animal available for transfer or adoption before that time.
 
 (3) When the animal is otherwise excess to the needs of such military department.
 
-**(b) Suitability for Adoption.—** The decision whether a particular military animal is suitable or unsuitable for adoption under this section shall be made by the commander of the last unit to which the animal is assigned before being declared excess. The unit commander shall consider the recommendations of the unit’s veterinarian in making the decision regarding the adoptability of the animal.
+**(b) Suitability for Transfer or Adoption.—** The decision whether a particular military animal is suitable or unsuitable for transfer or adoption under this section shall be made by the commander of the last unit to which the animal is assigned before being declared excess. The unit commander shall consider the recommendations of the unit’s veterinarian in making the decision regarding the transferability or adoptability of the animal.
 
 **(c) Authorized Recipients.—**
 
-(1) A military animal shall be made available for adoption under this section, in order of recommended priority—
+(1) A military animal shall be made available for transfer or adoption under this section, in order of recommended priority, by—
 
-  (A) by former handlers of the animal;
+  (A) adoption by former handlers of the animal;
 
-  (B) by other persons capable of humanely caring for the animal; and
+  (B) adoption by other persons or organizations capable of humanely caring for the animal; and
 
-  (C) by law enforcement agencies.
+  (C) transfer to law enforcement agencies.
 
 (2) If the Secretary of the military department concerned determines that an adoption is justified under subsection (a)(2) under circumstances under which the handler of a military working dog is wounded in action, the dog shall be made available for adoption only by the handler. If the Secretary of the military department concerned determines that such an adoption is justified under circumstances under which the handler of a military working dog is killed in action or dies of wounds received in action, the military working dog shall be made available for adoption only by a parent, child, spouse, or sibling of the deceased handler.
 
 **(d) Consideration.—** The transfer of a military animal under this section may be without charge to the recipient.
 
-**(e) Limitations on Liability for Transferred Animals.—**
+**(e) Limitations on Liability for Transferred or Adopted Animals.—**
 
-(1) Notwithstanding any other provision of law, the United States shall not be subject to any suit, claim, demand or action, liability, judgment, cost, or other fee arising out of any claim for personal injury or property damage (including death, illness, or loss of or damage to property or other economic loss) that results from, or is in any manner predicated upon, the act or omission of a former military animal transferred under this section, including any training provided to the animal while a military animal.
+(1) Notwithstanding any other provision of law, the United States shall not be subject to any suit, claim, demand or action, liability, judgment, cost, or other fee arising out of any claim for personal injury or property damage (including death, illness, or loss of or damage to property or other economic loss) that results from, or is in any manner predicated upon, the act or omission of a former military animal transferred or adopted under this section, including any training provided to the animal while a military animal.
 
-(2) Notwithstanding any other provision of law, the United States shall not be liable for any veterinary expense associated with a military animal transferred under this section for a condition of the military animal before transfer under this section, whether or not such condition is known at the time of transfer under this section.
+(2) Notwithstanding any other provision of law, the United States shall not be liable for any veterinary expense associated with a military animal transferred or adopted under this section for a condition of the military animal before transfer or adoption under this section, whether or not such condition is known at the time of transfer or adoption under this section.
 
-**(f) Transfer of Retired Military Working Dogs.—**
+**(f) Veterinary Screening and Care for Military Working Dogs To Be Retired.—**
 
-(1) If the Secretary of the military department concerned determines that a military working dog should be retired the Secretary shall transfer the dog—
+(1)
+
+  (A) If the Secretary of the military department concerned determines that a military working dog should be retired, such Secretary shall transport the dog to the Veterinary Treatment Facility at Lackland Air Force Base, Texas.
+
+  (B) In the case of a contract working dog to be retired, transportation required by subparagraph (A) is satisfied by the transfer of the dog to the 341st Training Squadron at the end of the dog’s service life as required by [section 2410r of this title](./chapter-141-miscellaneous-procurement-provisions.md#section-2410r) and assignment of the dog to the Veterinary Treatment Facility referred to in that subparagraph.
+
+(2)
+
+  (A) The Secretary of Defense shall ensure that each dog transported as described in paragraph (1) to the Veterinary Treatment Facility referred to in that paragraph is provided with a full veterinary screening, and necessary veterinary care (including surgery for any mental, dental, or stress-related illness), before transportation of the dog in accordance with subsection (g).
+
+  (B) For purposes of this paragraph, stress-related illness includes illness in connection with post-traumatic stress, anxiety that manifests in a physical ailment, obsessive compulsive behavior, and any other stress-related ailment.
+
+(3) Transportation is not required under paragraph (1), and screening and care is not required under paragraph (2), for a military working dog located outside the United States if the Secretary of the military department concerned determines that transportation of the dog to the United States would not be in the best interests of the dog for medical reasons.
+
+**(g) Transportation of Retiring Military Working Dogs.—** Upon completion of veterinary screening and care for a military working dog to be retired pursuant to subsection (f), the Secretary of the military department concerned shall—
+
+(1) if the dog was at a location outside the United States immediately prior to transportation for such screening and care and a United States citizen or member of the armed forces living abroad agrees to adopt the dog, transport the dog to such location for adoption; or
+
+(2) for any other dog, transport the dog—
 
   (A) to the 341st Training Squadron; or
 
-  (B) to another location within the United States for adoption under this section.
+  (B) to another location within the United States for transfer or adoption under this section.
 
-(2) Paragraph (1) shall not apply if at the time of retirement—
-
-  (A) the dog is located outside the United States and a United States citizen or service member living abroad adopts the dog; or
-
-  (B) the dog is located within the United States and suitable adoption is available where the dog is located.
-
-(3)
-
-  (A) In the case of a military working dog located outside the continental United States at the time of retirement that is suitable for adoption at that time, the Secretary of the military department concerned shall undertake transportation of the dog to the continental United States (including transportation by contract at United States expense) for adoption under this section unless—
-
-    (i) the dog is adopted as described in paragraph (2)(A); or
-
-    (ii) transportation of the dog to the continental United States would not be in the best interests of the dog for medical reasons.
-
-  (B) Nothing in this paragraph shall be construed to alter the preference in adoption of retired military working dogs for former handlers as set forth in subsection (g).
-
-**(g) Preference in Adoption of Retired Military Working Dogs for Former Handlers.—**
+**(h) Preference in Adoption of Retired Military Working Dogs for Former Handlers.—**
 
 (1) In providing for the adoption under this section of a retired military working dog described in paragraph (1) or (3) of subsection (a), the Secretary of the military department concerned shall accord a preference to the former handler of the dog unless the Secretary determines that adoption of the dog by the former handler would not be in the best interests of the dog.
 
 (2) In the case of a dog covered by paragraph (1) with more than one former handler seeking adoption of the dog at the time of adoption, the Secretary shall provide for the adoption of the dog by such former handler whose adoption of the dog will best serve the interests of the dog and such former handlers. The Secretary shall make any determination required by this paragraph with respect to a dog following consultation with the kennel master of the unit at which the dog was last located before adoption under this section.
 
-(3) Nothing in this subsection shall be construed as altering, revising, or overriding any policy of a military department for the adoption of military working dogs by law enforcement agencies before the end of the dogs’ useful lives.
+(3) Nothing in this subsection shall be construed as altering, revising, or overriding any policy of a military department for the transfer of military working dogs to law enforcement agencies before the end of the dogs’ useful working lives.
 
-**(h) Military Animal Defined.—** In this section, the term “military animal” means the following:
+**(i) Military Animal Defined.—** In this section, the term “military animal” means the following:
 
 (1) A military working dog, which may include a contract working dog (as such term is defined in section 2410r) that has been transferred to the 341st Training Squadron.
 
-(2) A horse owned by the Department of Defense.
+(2) An equid (horse, mule, or donkey) owned by the Department of Defense.
 
 ### Statutory Notes
 
+#### Amendment of Section
+Pub. L. 116–283, div. A, title XVIII, §§ 1801(d), 1883(b)(2), Jan. 1, 2021, 134 Stat. 4151, 4294, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, except as otherwise provided in title XVIII of Pub. L. 116–283, in title 10, United States Code, each reference in the text of such title to a source section that is redesignated by title XVIII of Pub. L. 116–283, is amended by striking such reference and inserting a reference to the appropriate section as so redesignated. See 2021 Amendment notes and Effective Date of 2021 Amendment note below.
+
 #### Amendments
+2021—Subsec. (f)(1)(B). Pub. L. 116–283, § 1883(b)(2), substituted “section 2387” for “section 2410r”.
+
+Subsec. (g)(2)(A). Pub. L. 116–283, § 1081(a)(42), inserted “or” after semicolon at end.
+
+Subsec. (i)(1). Pub. L. 116–283, § 1883(b)(2), substituted “section 2387” for “section 2410r”.
+
+2019—Subsec. (a). Pub. L. 116–92, § 372(a)(1), inserted “Transfer or” before “Adoption” in heading and substituted “transfer or adoption” for “adoption” wherever appearing.
+
+Subsec. (b). Pub. L. 116–92, § 372(a)(2), inserted “Transfer or” before “Adoption” in heading and substituted “transfer or adoption” for “adoption” in first sentence and “transferability or adoptability” for “adoptability” in second sentence.
+
+Subsec. (c)(1). Pub. L. 116–92, § 372(a)(3)(A), inserted “transfer or” before “adoption” and “, by” after “recommended priority” in introductory provisions.
+
+Subsec. (c)(1)(A). Pub. L. 116–92, § 372(a)(3)(B), inserted “adoption” before “by”.
+
+Subsec. (c)(1)(B). Pub. L. 116–92, § 372(a)(3)(B), (C), inserted “adoption” before “by” and “or organizations” after “persons”.
+
+Subsec. (c)(1)(C). Pub. L. 116–92, § 372(a)(3)(D), substituted “transfer to” for “by”.
+
+Subsec. (e). Pub. L. 116–92, § 372(a)(4), inserted “or Adopted” after “Transferred” in heading and substituted “transferred or adopted” for “transferred” in pars. (1) and (2), and “transfer or adoption” for “transfer” in two places in par. (2).
+
+Subsec. (f). Pub. L. 116–92, § 372(b)(2), added subsec. (f). Former subsec. (f) redesignated (g).
+
+Subsec. (g). Pub. L. 116–92, § 372(b)(1), (c), redesignated subsec. (f) as (g) and amended it generally. Prior to amendment, subsec. consisted of pars. (1) to (3) relating to transfer of retired military working dogs. Former subsec. (g) redesignated (h).
+
+Subsec. (h). Pub. L. 116–92, § 372(b)(1), redesignated subsec. (g) as (h). Former subsec. (h) redesignated (i).
+
+Subsec. (h)(3). Pub. L. 116–92, § 372(d), substituted “transfer of military working dogs to law enforcement agencies before the end of the dogs’ useful working lives.” for “adoption of military working dogs by law enforcement agencies before the end of the dogs’ useful lives.”
+
+Subsec. (i). Pub. L. 116–92, § 372(b)(1), redesignated subsec. (h) as (i).
+
+Subsec. (i)(2). Pub. L. 116–92, § 372(e), added par. (2) and struck out former par. (2) which read as follows: “A horse owned by the Department of Defense.”
+
 2018—Subsec. (f)(3). Pub. L. 115–232 added par. (3).
 
 2016—Subsec. (h)(1). Pub. L. 114–328 amended par. (1) generally. Prior to amendment, par. (1) read as follows: “A military working dog.”
@@ -708,6 +777,9 @@ Pub. L. 109–163, § 599(c), inserted “of Defense” after “Secretary”.
 Subsec. (g). Pub. L. 109–364, § 352(a)(6), added subsec. (g).
 
 2001—Pub. L. 107–107 renumbered [section 2582 of this title](./chapter-153-exchange-of-material-and-disposal-of-obsolete-surplus-or-unclaimed-property.md#section-2582) as this section.
+
+#### Effective Date of 2021 Amendment
+Amendment by section 1883(b)(2) of Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
 
 #### Effective Date of 2013 Amendment
 Pub. L. 113–66, div. A, title X, § 1091(b), Dec. 26, 2013, 127 Stat. 876, provided in part that the amendment made by section 1091(b)(2) is effective as of Jan. 2, 2013, and as if included in Pub. L. 112–239 as enacted.

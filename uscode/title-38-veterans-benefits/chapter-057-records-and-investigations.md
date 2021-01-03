@@ -137,9 +137,6 @@ source: >-
 
 ### Statutory Notes
 
-#### Applicability of Amendment
-Amendment of section by section 2(u)(2) of Pub. L. 115–55 applicable to all claims for which the Secretary of Veterans Affairs provides notice of a decision under [section 5104 of this title](./chapter-051-claims-effective-dates-and-payments.md#section-5104) on or after the later of 540 days after Aug. 23, 2017, or 30 days after the date on which the Secretary submits to Congress a certification of certain capabilities of the Department of Veterans Affairs to carry out the new appeals system established by Pub. L. 115–55 and to address appeals of decisions on legacy claims, with provision for early applicability of the new appeals system to certain claims. See 2017 Amendment note below.
-
 #### References in Text
 Section 264 of the Health Insurance Portability and Accountability Act of 1996, referred to in subsec. (k)(1)(A)(ii), is section 264 of title II of Pub. L. 104–191, Aug. 21, 1996, 110 Stat. 2033, which is set out as a note under [section 1320d–2 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1320d–2&num=0&edition=prelim), The Public Health and Welfare.
 
@@ -247,7 +244,7 @@ Subsec. (g). Pub. L. 94–321, § 1(a)(5), added subsec. (g).
 1962—Par. (1). Pub. L. 87–671 inserted provisions authorizing disclosure to an independent medical expert or experts for an advisory opinion pursuant to [section 4009 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section4009&num=0&edition=prelim).
 
 #### Effective Date of 2017 Amendment
-Amendment by Pub. L. 115–55 applicable to all claims for which the Secretary of Veterans Affairs provides notice of a decision under [section 5104 of this title](./chapter-051-claims-effective-dates-and-payments.md#section-5104) on or after the later of 540 days after Aug. 23, 2017, or 30 days after the date on which the Secretary submits to Congress a certification of certain capabilities of the Department of Veterans Affairs to carry out the new appeals system established by Pub. L. 115–55 and to address appeals of decisions on legacy claims, with provision for early applicability of the new appeals system to certain claims, see section 2(x) of Pub. L. 115–55, set out as a note under [section 101 of this title](./chapter-001-general.md#section-101).
+Amendment by Pub. L. 115–55 applicable to all claims for which the Secretary of Veterans Affairs provides notice of a decision under [section 5104 of this title](./chapter-051-claims-effective-dates-and-payments.md#section-5104) on or after the later of 540 days after Aug. 23, 2017, or 30 days after the date on which the Secretary submits to Congress a certification of certain capabilities of the Department of Veterans Affairs to carry out the new appeals system established by Pub. L. 115–55 and to address appeals of decisions on legacy claims, with provision for early applicability of the new appeals system to certain claims, see section 2(x) of Pub. L. 115–55, set out as a note under [section 101 of this title](./chapter-001-general.md#section-101), and bracketed note thereunder.
 
 #### Effective Date of 1989 Amendment
 Pub. L. 101–94, title III, § 302(c), Aug. 16, 1989, 103 Stat. 628, provided that: “The amendments made by subsections (a) and (b) [amending this section and section 4092 [now 7292] of this title] shall take effect as if included in the Veterans’ Judicial Review Act [div. A of Pub. L. 100–687].”
@@ -735,12 +732,15 @@ Pub. L. 109–461, title IX, § 902(c), Dec. 22, 2006, 120 Stat. 3460, provided 
 
 (1) For each data breach with respect to sensitive personal information processed or maintained by the Secretary, the Secretary shall promptly submit to the Committees on Veterans’ Affairs of the Senate and House of Representatives a report containing the findings of any independent risk analysis conducted under subsection (a)(1), any determination of the Secretary under subsection (a)(2), and a description of any services provided pursuant to subsection (b).
 
-(2) In the event of a data breach with respect to sensitive personal information processed or maintained by the Secretary that is the sensitive personal information of a member of the Army, Navy, Air Force, or Marine Corps or a civilian officer or employee of the Department of Defense, the Secretary shall submit the report required under paragraph (1) to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives in addition to the Committees on Veterans’ Affairs of the Senate and House of Representatives.
+(2) In the event of a data breach with respect to sensitive personal information processed or maintained by the Secretary that is the sensitive personal information of a member of the Army, Navy, Air Force, Marine Corps, or Space Force or a civilian officer or employee of the Department of Defense, the Secretary shall submit the report required under paragraph (1) to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives in addition to the Committees on Veterans’ Affairs of the Senate and House of Representatives.
 
 ### Statutory Notes
 
 #### References in Text
 The date of the enactment of the Veterans Benefits, Health Care, and Information Technology Act of 2006, referred to in subsec. (b), is the date of enactment of Pub. L. 109–461, which was approved Dec. 22, 2006.
+
+#### Amendments
+2021—Subsec. (c)(2). Pub. L. 116–283 substituted “Marine Corps, or Space Force” for “or Marine Corps”.
 
 
 <a id="section-5725"></a>

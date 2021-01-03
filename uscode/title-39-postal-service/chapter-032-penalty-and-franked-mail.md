@@ -290,17 +290,15 @@ Section effective July 1, 1971, pursuant to Resolution No. 71–9 of the Board o
 
   (E) mail matter directed by one Member of Congress to another Member of Congress or to representatives of the legislative bodies of State and local governments;
 
-  (F) mail matter expressing congratulations to a person who has achieved some public distinction;
+  (F) mail matter expressing congratulations;
 
   (G) mail matter, including general mass mailings, which consists of Federal laws, Federal regulations, other Federal publications, publications purchased with Federal funds, or publications containing items of general information;
 
-  (H) mail matter which consists of voter registration or election information or assistance prepared and mailed in a nonpartisan manner;
+  (H) mail matter which consists of voter registration or election information or assistance prepared and mailed in a nonpartisan manner; or
 
-  (I) mail matter which constitutes or includes a biography or autobiography of any Member of, or Member-elect to, Congress or any biographical or autobiographical material concerning such Member or Member-elect or the spouse or other members of the family of such Member or Member-elect, and which is so mailed as a part of a Federal publication or in response to a specific request therefor and is not included for publicity purposes in a newsletter or other general mass mailing of the Member or Member-elect under the franking privilege; or
+  (I) mail matter which constitutes or includes a biography or autobiography of any Member of, or Member-elect to, Congress or any biographical or autobiographical material concerning such Member or Member-elect or the spouse or other members of the family of such Member or Member-elect, and which is so mailed as a part of a Federal publication, in response to a specific request therefor, or which relates to the Member’s or Member-elect’s official and representational duties, and is not included for publicity purposes in a newsletter or other general mass mailing of the Member or Member-elect under the franking privilege.
 
-  (J) mail matter which contains a picture, sketch, or other likeness of any Member or Member-elect and which is so mailed as a part of a Federal publication or in response to a specific request therefor and, when contained in a newsletter or other general mass mailing of any Member or Member-elect, is not of such size, or does not occur with such frequency in the mail matter concerned, as to lead to the conclusion that the purpose of such picture, sketch, or likeness is to advertise the Member or Member-elect rather than to illustrate accompanying text.
-
-(4) It is the intent of the Congress that the franking privilege under this section shall not permit, and may not be used for, the transmission through the mails as franked mail, of matter which in its nature is purely personal to the sender or to any other person and is unrelated to the official business, activities, and duties of the public officials covered by subsection (b)(1) of this section.
+(4) It is the intent of the Congress that the franking privilege under this section shall not permit, and may not be used for, the transmission through the mails as franked mail, of matter which in its nature is purely personal to the sender or to any other person and is unrelated to the official business, activities, and duties of the public officials covered by subsection (b)(1) of this section, except that nothing in this paragraph may be construed to prohibit the use of the franking privilege for the transmission of matter which is purely personal to a recipient who is a constituent of a Member of Congress and which is related to the official business, activities, and duties of the Member.
 
 (5) It is the intent of the Congress that a Member of or Member-elect to Congress may not mail as franked mail—
 
@@ -315,33 +313,35 @@ Section effective July 1, 1971, pursuant to Resolution No. 71–9 of the Board o
     (iii) any card expressing holiday greetings from such Member or Member-elect; or
 
   (C) mail matter which specifically solicits political support for the sender or any other person or any political party, or a vote or financial assistance for any candidate for any public office.
-  The House Commission on Congressional Mailing Standards and the Select Committee on Standards and Conduct of the Senate shall prescribe for their respective Houses such rules and regulations and shall take such other action, as the Commission or Committee considers necessary and proper for the Members and Members-elect to conform to the provisions of this clause and applicable rules and regulations. Such rules and regulations shall include, but not be limited to, provisions prescribing the time within which such mailings shall be mailed at or delivered to any postal facility to attain compliance with this clause and the time when such mailings shall be deemed to have been so mailed or delivered and such compliance attained.
+  The House Communications Standards Commission and the Select Committee on Standards and Conduct of the Senate shall prescribe for their respective Houses such rules and regulations and shall take such other action, as the Commission or Committee considers necessary and proper for the Members and Members-elect to conform to the provisions of this clause and applicable rules and regulations. Such rules and regulations shall include, but not be limited to, provisions prescribing the time within which such mailings shall be mailed at or delivered to any postal facility to attain compliance with this clause and the time when such mailings shall be deemed to have been so mailed or delivered and such compliance attained.
 
 (6)
 
   (A) It is the intent of Congress that a Member of, or Member-elect to, Congress may not mail any mass mailing as franked mail—
 
-    (i) if the mass mailing is postmarked fewer than 60 days (or, in the case of a Member of the House, fewer than 90 days) immediately before the date of any primary election or general election (whether regular, special, or runoff) in which the Member is a candidate for reelection; or
+    (i) if the mass mailing is postmarked fewer than 60 days immediately before the date of any primary election or general election (whether regular, special, or runoff) in which the Member is a candidate for reelection; or
 
     (ii) in the case of a Member of, or Member-elect to, the House who is a candidate for any other public office, if the mass mailing—
 
       (I) is prepared for delivery within any portion of the jurisdiction of or the area covered by the public office which is outside the area constituting the congressional district from which the Member or Member-elect was elected; or
 
-      (II) is postmarked fewer than 90 days immediately before the date of any primary election or general election (whether regular, special, or runoff) in which the Member or Member-elect is a candidate for any other public office.
+      (II) is postmarked fewer than 60 days immediately before the date of any primary election or general election (whether regular, special, or runoff) in which the Member or Member-elect is a candidate for any other public office.
 
   (B) Any mass mailing which is mailed by the chairman of any organization referred to in the last sentence of [section 3215 of this title](./chapter-032-penalty-and-franked-mail.md#section-3215) which relates to the normal and regular business of the organization may be mailed without regard to the provisions of this paragraph.
 
   (C) No Member of the Senate may mail any mass mailing as franked mail if such mass mailing is postmarked fewer than 60 days immediately before the date of any primary election or general election (whether regular, special, or runoff) for any national, State or local office in which such Member is a candidate for election.
 
-  (D) The Select Committee on Ethics of the Senate and the House Commission on Congressional Mailing Standards shall prescribe for their respective Houses rules and regulations, and shall take other action as the Committee or the Commission considers necessary and proper for Members and Members-elect to comply with the provisions of this paragraph and applicable rules and regulations. The rules and regulations shall include provisions prescribing the time within which mailings shall be mailed at or delivered to any postal facility and the time when the mailings shall be deemed to have been mailed or delivered to comply with the provisions of this paragraph.
+  (D) The Select Committee on Ethics of the Senate and the House Communications Standards Commission shall prescribe for their respective Houses rules and regulations, and shall take other action as the Committee or the Commission considers necessary and proper for Members and Members-elect to comply with the provisions of this paragraph and applicable rules and regulations, and in the case of the Commission, to waive this paragraph in the case of mailings sent in response to or to address threats to life safety. The rules and regulations shall include provisions prescribing the time within which mailings shall be mailed at or delivered to any postal facility and the time when the mailings shall be deemed to have been mailed or delivered to comply with the provisions of this paragraph.
 
   (E) As used in this section, the term “mass mailing” means, with respect to a session of Congress, any mailing of newsletters or other pieces of mail with substantially identical content (whether such mail is deposited singly or in bulk, or at the same time or different times), totaling more than 500 pieces in that session, except that such term does not include any mailing—
 
     (i) of matter in direct response to a communication from a person to whom the matter is mailed;
 
-    (ii) from a Member of Congress to other Members of Congress, or to Federal, State, or local government officials; or
+    (ii) from a Member of Congress to other Members of Congress, or to Federal, State, or local government officials;
 
-    (iii) of a news release to the communications media.
+    (iii) of a news release to the communications media; or
+
+    (iv) providing information exclusively on competitions which are officially sanctioned by the House of Representatives or Senate, nominations to military service academies, official employment listings for positions in the House of Representatives (including listings for positions in the Wounded Warrior Program or the Gold Star Family Fellowship Program), or natural disasters or other threats to public health and life safety.
 
   (F) For purposes of subparagraphs (A) and (C) if mail matter is of a type which is not customarily postmarked, the date on which such matter would have been postmarked if it were of a type customarily postmarked shall apply.
 
@@ -353,7 +353,7 @@ Section effective July 1, 1971, pursuant to Resolution No. 71–9 of the Board o
 
 (2) If a vacancy occurs in the Office of the Secretary of the Senate, the Sergeant at Arms of the Senate, an elected officer of the House of Representatives (other than a Member of the House), the Legislative Counsel of the House of Representatives or the Senate, the Law Revision Counsel of the House of Representatives, or the Senate Legal Counsel, any authorized person may exercise the franking privilege in the officer’s name during the period of the vacancy.
 
-(3) The Vice President, each Member of Congress, the Secretary of the Senate, the Sergeant at Arms of the Senate, and each of the elected officers of the House (other than a Member of the House), during the 90-day period immediately following the date on which they leave office, may send, as franked mail, matter on official business relating to the closing of their respective offices. The House Commission on Congressional Mailing Standards and the Select Committee on Standards and Conduct of the Senate shall prescribe for their respective Houses such rules and regulations, and shall take such other action as the Commission or Committee considers necessary and proper, to carry out the provisions of this paragraph.
+(3) The Vice President, each Member of Congress, the Secretary of the Senate, the Sergeant at Arms of the Senate, and each of the elected officers of the House (other than a Member of the House), during the 90-day period immediately following the date on which they leave office, may send, as franked mail, matter on official business relating to the closing of their respective offices. The House Communications Standards Commission and the Select Committee on Standards and Conduct of the Senate shall prescribe for their respective Houses such rules and regulations, and shall take such other action as the Commission or Committee considers necessary and proper, to carry out the provisions of this paragraph.
 
 **(c)** Franked mail may be in any form appropriate for mail matter, including, but not limited to, correspondence, newsletters, questionnaires, recordings, facsimiles, reprints, and reproductions. Franked mail shall not include matter which is intended by Congress to be nonmailable as franked mail under subsection (a)(4) and (5) of this section.
 
@@ -367,11 +367,11 @@ Section effective July 1, 1971, pursuant to Resolution No. 71–9 of the Board o
 
 (4) Any franked mail which is mailed under this subsection shall be mailed at the equivalent rate of postage which assures that the mail will be sent by the most economical means practicable.
 
-(5) The Senate Committee on Rules and Administration and the House Commission on Congressional Mailing Standards shall prescribe for their respective Houses rules and regulations governing any franked mail which is mailed under this subsection and shall by regulation limit the number of such mailings allowed under this subsection
+(5) The Senate Committee on Rules and Administration and the House Communications Standards Commission shall prescribe for their respective Houses rules and regulations governing any franked mail which is mailed under this subsection and shall by regulation limit the number of such mailings allowed under this subsection.
 
 (6)
 
-  (A) Any Member of, or Member-elect to, the House of Representatives entitled to make any mailing as franked mail under this subsection shall, before making any mailing, submit a sample or description of the mail matter involved to the House Commission on Congressional Mailing Standards for an advisory opinion as to whether the proposed mailing is in compliance with the provisions of this subsection.
+  (A) Any Member of, or Member-elect to, the House of Representatives entitled to make any mailing as franked mail under this subsection shall, before making any mailing, submit a sample or description of the mail matter involved to the House Communications Standards Commission for an advisory opinion as to whether the proposed mailing is in compliance with the provisions of this subsection.
 
   (B) The Senate Select Committee on Ethics may require any Member of, or Member-elect to, the Senate entitled to make any mailings as franked mail under this subsection to submit a sample or description of the mail matter to the Committee for an advisory opinion as to whether the proposed mailing is in compliance with the provisions of this subsection.
 
@@ -398,6 +398,32 @@ Section effective July 1, 1971, pursuant to Resolution No. 71–9 of the Board o
 ### Statutory Notes
 
 #### Amendments
+2020—Subsec. (a)(3)(F). Pub. L. 116–260, § 116(e)(1), struck out “to a person who has achieved some public distinction” after “congratulations”.
+
+Subsec. (a)(3)(I). Pub. L. 116–260, § 116(e)(2), substituted “publication, in response to a specific request therefor, or which relates to the Member’s or Member-elect’s official and representational duties,” for “publication or in response to a specific request therefor”.
+
+Subsec. (a)(3)(J). Pub. L. 116–260, § 116(e)(3), struck out subpar. (J) which read as follows: “mail matter which contains a picture, sketch, or other likeness of any Member or Member-elect and which is so mailed as a part of a Federal publication or in response to a specific request therefor and, when contained in a newsletter or other general mass mailing of any Member or Member-elect, is not of such size, or does not occur with such frequency in the mail matter concerned, as to lead to the conclusion that the purpose of such picture, sketch, or likeness is to advertise the Member or Member-elect rather than to illustrate accompanying text.”
+
+Subsec. (a)(4). Pub. L. 116–260, § 116(e)(4), substituted “, except that nothing in this paragraph may be construed to prohibit the use of the franking privilege for the transmission of matter which is purely personal to a recipient who is a constituent of a Member of Congress and which is related to the official business, activities, and duties of the Member.” for period at end.
+
+Subsec. (a)(5). Pub. L. 116–260, § 116(b)(2)(A)(i), substituted “House Communications Standards Commission” for “House Commission on Congressional Mailing Standards” in concluding provisions.
+
+Subsec. (a)(6)(A)(i). Pub. L. 116–260, § 116(e)(5)(A)(i), struck out “(or, in the case of a Member of the House, fewer than 90 days)” after “60 days”.
+
+Subsec. (a)(6)(A)(ii)(II). Pub. L. 116–260, § 116(e)(5)(A)(ii), substituted “60 days” for “90 days”.
+
+Subsec. (a)(6)(D). Pub. L. 116–260, § 116(b)(2)(A)(i), substituted “House Communications Standards Commission” for “House Commission on Congressional Mailing Standards”.
+
+Pub. L. 116–136 substituted “regulations, and in the case of the Commission, to waive this paragraph in the case of mailings sent in response to or to address threats to life safety.” for “regulations.”
+
+Subsec. (a)(6)(E)(iv). Pub. L. 116–260, § 116(e)(6), added cl. (iv).
+
+Subsec. (b)(3). Pub. L. 116–260, § 116(b)(2)(A)(i), substituted “House Communications Standards Commission” for “House Commission on Congressional Mailing Standards”.
+
+Subsec. (d)(5). Pub. L. 116–260, § 116(b)(2)(A)(i), substituted “House Communications Standards Commission” for “House Commission on Congressional Mailing Standards”.
+
+Subsec. (d)(6)(A). Pub. L. 116–260, § 116(b)(2)(A)(i), substituted “House Communications Standards Commission” for “House Commission on Congressional Mailing Standards”.
+
 2006—Subsec. (a)(6)(C). Pub. L. 109–435 substituted “is postmarked fewer” for “is mailed fewer”.
 
 1996—Subsec. (a)(6)(A)(i). Pub. L. 104–197, § 102(a)(1), inserted “(or, in the case of a Member of the House, fewer than 90 days)” after “60 days”.
@@ -457,6 +483,13 @@ Subsec. (b)(2). Pub. L. 93–191 incorporated former second sentence in provisio
 Subsecs. (c) to (f). Pub. L. 93–191 added subsecs. (c) to (f).
 
 1971—Pub. L. 92–51 inserted reference to Legislative Counsel of House of Representatives.
+
+#### Effective Date of 2020 Amendment
+Pub. L. 116–260, div. I, title I, § 116(e)(5)(B), Dec. 27, 2020, 134 Stat. 1641, provided that: “The amendments made by paragraph (1) [probably should be “subparagraph (A)”, amending this section] shall apply with respect to the regularly scheduled general election for Federal office held in November 2020 and each succeeding election for public office.”
+
+Amendment by Pub. L. 116–260, except as provided in section 116(e)(5)(B) of div. I of Pub. L. 116–260, applicable with respect to communications disseminated on or after Dec. 27, 2020, see section 116(f) of div. I of Pub. L. 116–260, set out as a note under [section 501 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section501&num=0&edition=prelim), The Congress.
+
+Pub. L. 116–136, div. B, title IX, § 19006(b), Mar. 27, 2020, 134 Stat. 579, provided that: “The amendments made by this subsection [probably should be “this section”, amending this section] shall apply with respect to mailings sent on or after the date of the enactment of this Act [Mar. 27, 2020].”
 
 #### Effective Date of 1996 Amendment
 Pub. L. 104–197, title I, § 102(b), Sept. 16, 1996, 110 Stat. 2401, provided that: “The amendments made by subsection (a) [amending this section] shall take effect on October 1, 1996, and shall apply with respect to any mailing postmarked on or after that date.”
@@ -617,13 +650,15 @@ shall be paid by appropriations for the official mail costs of the Senate and th
 
 **(e)**
 
-(1) Not later than two weeks after the last day of each quarter of the fiscal year, or as soon as practicable thereafter, the Postmaster General shall send to the Chief Administrative Officer of the House of Representatives, the House Commission on Congressional Mailing Standards, the Secretary of the Senate, and the Senate Committee on Rules and Administration a report which shall contain a tabulation of the estimated number of pieces and costs of franked mail, as defined in [section 3201 of this title](./chapter-032-penalty-and-franked-mail.md#section-3201), in each mail classification sent through the mail for that quarter and for the preceding quarters in the fiscal year, together with separate tabulations of the number of pieces and costs of such mail sent by the House and by the Senate.
+(1) Not later than two weeks after the last day of each quarter of the fiscal year, or as soon as practicable thereafter, the Postmaster General shall send to the Chief Administrative Officer of the House of Representatives, the House Communications Standards Commission, the Secretary of the Senate, and the Senate Committee on Rules and Administration a report which shall contain a tabulation of the estimated number of pieces and costs of franked mail, as defined in [section 3201 of this title](./chapter-032-penalty-and-franked-mail.md#section-3201), in each mail classification sent through the mail for that quarter and for the preceding quarters in the fiscal year, together with separate tabulations of the number of pieces and costs of such mail sent by the House and by the Senate.
 
-(2) Two weeks after the close of the second quarter of the fiscal year, or as soon as practicable thereafter, the Postmaster General shall send to the Chief Administrative Officer of the House of Representatives, the House Commission on Congressional Mailing Standards, the Committee on House Oversight, the Secretary of the Senate, and the Senate Committee on Rules and Administration, a statement of the costs of postage on, and fees and charges in connection with, mail matter sent through the mails as described in paragraph (1) of this subsection for the preceding two quarters together with an estimate of such costs for the balance of the fiscal year. As soon as practicable after receipt of this statement, the House Commission on Congressional Mailing Standards, the Committee on House Oversight, and the Senate Committee on Rules and Administration shall consider promulgating such regulations for their respective Houses as may be necessary to ensure that total postage costs, as described in paragraph (1) of this subsection, will not exceed the amounts available for the fiscal year.
+(2) Two weeks after the close of the second quarter of the fiscal year, or as soon as practicable thereafter, the Postmaster General shall send to the Chief Administrative Officer of the House of Representatives, the House Communications Standards CommissionHouse Communications Standards Commission, the Committee on House Oversight, the Secretary of the Senate, and the Senate Committee on Rules and Administration, a statement of the costs of postage on, and fees and charges in connection with, mail matter sent through the mails as described in paragraph (1) of this subsection for the preceding two quarters together with an estimate of such costs for the balance of the fiscal year. As soon as practicable after receipt of this statement, the House Communications Standards Commission, the Committee on House Oversight, and the Senate Committee on Rules and Administration shall consider promulgating such regulations for their respective Houses as may be necessary to ensure that total postage costs, as described in paragraph (1) of this subsection, will not exceed the amounts available for the fiscal year.
 
 ### Statutory Notes
 
 #### Amendments
+2020—Subsec. (e). Pub. L. 116–260 substituted “House Communications Standards Commission” for “House Commission on Congressional Mailing Standards” wherever appearing.
+
 1996—Subsec. (e). Pub. L. 104–186 substituted “Chief Administrative Officer of the House of Representatives” for “Clerk of the House” in pars. (1) and (2) and “House Oversight” for “House Administration” in two places in par. (2).
 
 1991—Subsec. (e)(2). Pub. L. 102–90 substituted “paragraph (1) of this subsection” for “subsection (1) of this section” in two places.
@@ -653,8 +688,11 @@ Subsecs. (c), (d). Pub. L. 93–191 added subsecs. (c) and (d).
 #### Change of Name
 Committee on House Oversight of House of Representatives changed to Committee on House Administration of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999.
 
+#### Effective Date of 2020 Amendment
+Amendment by Pub. L. 116–260 applicable with respect to communications disseminated on or after Dec. 27, 2020, see section 116(f) of div. I of Pub. L. 116–260, set out as a note under [section 501 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section501&num=0&edition=prelim), The Congress.
+
 #### Effective Date of 1989 Amendment
-Section 316(b), formerly section 316(c), of Pub. L. 101–163, as renumbered by Pub. L. 101–520, title III, § 311(h)(3)(B), Nov. 5, 1990, 104 Stat. 2280, provided that the amendment made by that section is effective Oct. 1, 1989.
+Pub. L. 101–163, title III, § 316(b), formerly § 316(c), Nov. 21, 1989, 103 Stat. 1067, renumbered § 316(b), Pub. L. 101–520, title III, § 311(h)(3)(B), Nov. 5, 1990, 104 Stat. 2280, provided that the amendment made by that section is effective Oct. 1, 1989.
 
 #### Effective Date of 1978 Amendment
 Amendment by Pub. L. 95–521 effective Jan. 3, 1979, see section 717 of Pub. L. 95–521, set out as an Effective Date note under [section 288 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section288&num=0&edition=prelim), The Congress.
@@ -734,7 +772,7 @@ Section effective Dec. 18, 1973, see section 14 of Pub. L. 93–191, set out as 
 
 (2) Each executive department and independent establishment of the Government of the United States shall prescribe regulations under which penalty mail sent by such department or establishment may be used in conformance with the guidelines prescribed under paragraph (1).
 
-**(b)** The Senate Committee on Rules and Administration and the House Commission on Congressional Mailing Standards shall prescribe for their respective Houses rules and regulations, and shall take such other action as the Committee or Commission considers necessary and proper, in order that purposes similar to those of subsection (a) may, in the discretion of the congressional official or office concerned, be carried out by the use of franked mail sent by such official or office.
+**(b)** The Senate Committee on Rules and Administration and the House Communications Standards Commission shall prescribe for their respective Houses rules and regulations, and shall take such other action as the Committee or Commission considers necessary and proper, in order that purposes similar to those of subsection (a) may, in the discretion of the congressional official or office concerned, be carried out by the use of franked mail sent by such official or office.
 
 **(c)** As used in this section, “Office of Juvenile Justice and Delinquency Prevention” and “Office” each means the Office of Juvenile Justice and Delinquency Prevention within the Department of Justice, as established by section 201 of the Juvenile Justice and Delinquency Prevention Act of 1974.
 
@@ -742,6 +780,12 @@ Section effective Dec. 18, 1973, see section 14 of Pub. L. 93–191, set out as 
 
 #### References in Text
 Section 201 of the Juvenile Justice and Delinquency Prevention Act of 1974, referred to in subsec. (c), is section 201 of Pub. L. 93–415, which enacted [section 11111 of Title 34](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section11111&num=0&edition=prelim), Crime Control and Law Enforcement, and amended [section 5108 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5108&num=0&edition=prelim), Government Organization and Employees.
+
+#### Amendments
+2020—Subsec. (b). Pub. L. 116–260 substituted “House Communications Standards Commission” for “House Commission on Congressional Mailing Standards”.
+
+#### Effective Date of 2020 Amendment
+Amendment by Pub. L. 116–260 applicable with respect to communications disseminated on or after Dec. 27, 2020, see section 116(f) of div. I of Pub. L. 116–260, set out as a note under [section 501 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section501&num=0&edition=prelim), The Congress.
 
 #### Termination Date
 Pub. L. 99–87, § 5, Aug. 9, 1985, 99 Stat. 290, as amended by Pub. L. 100–202, § 101(m) [title VI, § 627(a)], Dec. 22, 1987, 101 Stat. 1329–390, 1329–430; Pub. L. 102–514, § 1(2), Oct. 24, 1992, 106 Stat. 3371; Pub. L. 105–126, § 1(2), Dec. 1, 1997, 111 Stat. 2542, which provided that the amendments made by section 1 of Pub. L. 99–87, enacting this section and amending sections 3201 and 3204 of this title and [section 733 of Title 44](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section733&num=0&edition=prelim), Public Printing and Documents, and any guidelines, rules, or regulations prescribed to carry out such amendments were to cease to be effective after December 31, 2002, was repealed by Pub. L. 109–426, § 1, Dec. 20, 2006, 120 Stat. 2911.

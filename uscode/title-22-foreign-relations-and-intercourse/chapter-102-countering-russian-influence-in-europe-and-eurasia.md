@@ -2,7 +2,7 @@
 title: 22
 chapter: '102'
 heading: COUNTERING RUSSIAN INFLUENCE IN EUROPE AND EURASIA
-section_count: 23
+section_count: 27
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22&num=0&edition=prelim
 ---
@@ -88,6 +88,8 @@ Executive Order No. 13694, referred to in par. (3), is Ex. Ord. No. 13694, Apr. 
 The annex to Executive Order No. 13694, referred to in par. (5), probably means Ex. Ord. No. 13757, §§ 1–3, Dec. 28, 2016, 82 F.R. 1, 2, which amended Ex. Ord. No. 13694.
 
 #### Short Title
+Pub. L. 116–94, div. P, title XX, § 2001, Dec. 20, 2019, 133 Stat. 3222, provided that: “This title [enacting subchapter III of this chapter and amending sections 2421 and 9543 of this title] may be cited as the ‘European Energy Security and Diversification Act of 2019’.”
+
 Pub. L. 115–44, title II, § 201, Aug. 2, 2017, 131 Stat. 898, provided that: “This title [enacting this chapter and sections 8909 and 8910 of this title, amending sections 8901, 8907, 8908, 8923, and 8924 of this title, [section 5326 of Title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section5326&num=0&edition=prelim), Money and Finance, and [section 3021 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3021&num=0&edition=prelim), War and National Defense, and enacting provisions set out as notes under this section and [section 3021 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3021&num=0&edition=prelim)] may be cited as the ‘Countering Russian Influence in Europe and Eurasia Act of 2017’.”
 
 Pub. L. 115–44, title II, § 215, Aug. 2, 2017, 131 Stat. 900, provided that: “This part [part 1 (§§ 215, 216) of subtitle A of title II of Pub. L. 115–44, enacting part A of this subchapter] may be cited as the ‘Russia Sanctions Review Act of 2017’.”
@@ -635,6 +637,9 @@ This chapter, referred to in subsec. (b)(1)(B), was in the original “this titl
 #### Construction
 Pub. L. 115–232, div. A, title XII, § 1294(b), Aug. 13, 2018, 132 Stat. 2087, provided that: “Nothing in subsection (d) of section 231 of the Countering America’s Adversaries Through Sanctions Act (Public Law 115–44; [22 U.S.C. 9525](./chapter-102-countering-russian-influence-in-europe-and-eurasia.md#section-9525)), as added by subsection (a) of this section, shall be construed to modify, waive, or terminate any existing sanctions with respect to the Russian Federation, including any Russian person or entity, that are in effect on the date of the enactment of this Act [Aug. 13, 2018].”
 
+#### Determination and Imposition of Sanctions With Respect to Turkey’s Acquisition of the S–400 Air Defense System
+Pub. L. 116–283, div. A, title XII, § 1241, Jan. 1, 2021, 134 Stat. 3944, provided that: “(a) Sense of Congress.—It is the sense of Congress that it is in the national security interest of the United States—“(1) to deter aggression against North Atlantic Treaty Organization (NATO) allies by the Russian Federation or any other adversary; “(2) to continue to work with NATO allies to ensure they meet their alliance defense commitments, including through adequate and efficient investments in national defense; “(3) to work to maintain and strengthen the democratic institutions and practices of all NATO allies, in accordance with the goals of Article 2 of the North Atlantic Treaty; “(4) to ensure that Turkey remains a critical NATO ally and important military partner for the United States, contributing to key NATO and United States missions and providing support for United States military operations and logistics needs; “(5) to assist NATO allies in acquiring and deploying modern, NATO-interoperable military equipment and reducing their dependence on Russian or former Soviet-era defense articles; “(6) to promote opportunities to strengthen the capacity of NATO member states to counter Russian malign influence; and “(7) to enforce fully the Countering America’s Adversaries Through Sanctions Act ([22 U.S.C. 9401](./chapter-101-countering-irans-destabilizing-activities.md#section-9401) et seq.), including by imposing sanctions with respect to any person that the President determines knowingly engages in a significant transaction with a person that is part of, or operates for or on behalf of, the defense or intelligence sectors of the Government of the Russian Federation, as described in section 231 of that Act ([22 U.S.C. 9525](./chapter-102-countering-russian-influence-in-europe-and-eurasia.md#section-9525)). “(b) Determination.—The acquisition by the Government of Turkey of the S–400 air defense system from the Russian Federation beginning on July 12, 2019, constitutes a significant transaction as described in section 231 of the Countering America’s Adversaries Through Sanctions Act ([22 U.S.C. 9525](./chapter-102-countering-russian-influence-in-europe-and-eurasia.md#section-9525)). “(c) Imposition of Sanctions.—Not later than 30 days after the date of the enactment of this Act [Jan. 1, 2021], the President shall impose five or more of the sanctions described in section 235 of the Countering America’s Adversaries Through Sanctions Act ([22 U.S.C. 9529](./chapter-102-countering-russian-influence-in-europe-and-eurasia.md#section-9529)) with respect to each person that knowingly engaged in the acquisition of the S-400 air defense system referred to in subsection (b). “(d) Exception Relating to Importation of Goods.—“(1) In general.—Notwithstanding any other provision of this section, the authorities and requirements to impose sanctions under this section shall not include the authority or a requirement to impose sanctions on the importation of goods. “(2) Good defined.—In this subsection, the term ‘good’ means any article, natural or man-made substance, material, supply or manufactured product, including inspection and test equipment, and excluding technical data. “(e) Termination.—On and after the date that is one year after the date on which the President imposes sanctions under subsection (c) with respect to a person, the President may terminate the application of such sanctions with respect to that person if the President submits to the appropriate congressional committees a certification that—“(1) the Government of Turkey and any person acting on its behalf no longer possesses the S–400 air defense system or a successor system; “(2) no S-400 air defense system or successor system is operated or maintained inside Turkey by nationals of the Russian Federation or persons acting on behalf of the Government of the Russian Federation or the defense sector of the Russian Federation; and “(3) the President has received reliable assurances from the Government of Turkey that the Government of Turkey will not knowingly engage, or allow any foreign person to engage on its behalf, in pursuing any activity subject to sanctions under section 231 of the Countering America’s Adversaries Through Sanctions Act ([22 U.S.C. 9525](./chapter-102-countering-russian-influence-in-europe-and-eurasia.md#section-9525)) to reacquire the S-400 air defense system or a successor system. “(f) Appropriate Congressional Committees Defined.—In this section, the term ‘appropriate congressional committees’ means—“(1) the Committee on Foreign Relations and the Committee on Armed Services of the Senate; and “(2) the Committee on Foreign Affairs and the Committee on Armed Services of the House of Representatives.”
+
 #### Exception Relating to Importation of Goods
 Pub. L. 115–232, div. A, title XII, § 1294(d), Aug. 13, 2018, 132 Stat. 2088, provided that: “No provision affecting sanctions under this section [amending this section and enacting provisions set out as notes under this section] or an amendment made by this section shall apply to any portion of a sanction that affects the importation of goods.”
 
@@ -663,6 +668,15 @@ Donald J. Trump.
 **(b) Investment described** An investment described in this subsection is an investment that directly and significantly contributes to the enhancement of the ability of the Russian Federation to construct energy export pipelines.
 
 **(c) Goods, services, technology, information, or support described** Goods, services, technology, information, or support described in this subsection are goods, services, technology, information, or support that could directly and significantly facilitate the maintenance or expansion of the construction, modernization, or repair of energy export pipelines by the Russian Federation.
+
+### Statutory Notes
+
+#### Protecting Europe’s Energy Security
+Pub. L. 116–92, div. F, title LXXV, Dec. 20, 2019, 133 Stat. 2300, as amended by Pub. L. 116–283, div. A, title XII, § 1242(a)–(e), Jan. 1, 2021, 134 Stat. 3945–3947, provided that: “SEC. 7501. SHORT TITLE.“This title may be cited as the ‘Protecting Europe’s Energy Security Act of 2019’. “SEC. 7502. SENSE OF CONGRESS.“It is the sense of Congress that—“(1) the United States and Europe share a common history, a common identity, and common values built upon the principles of democracy, rule of law, and individual freedoms; “(2) the United States has encouraged and admired the European project, which has resulted in a common market and common policies, has achieved unprecedented prosperity and stability on the continent, and serves as a model for other countries to reform their institutions and prioritize anticorruption measures; “(3) the relationships between the United States and Europe and the United States and Germany are critical to the national security interests of the United States as well as to global prosperity and peace, and Germany in particular is a crucial partner for the United States in multilateral efforts aimed at promoting global prosperity and peace; “(4) the United States should stand against any effort designed to weaken those relationships; and “(5) Germany has demonstrated leadership within the European Union and in international fora to ensure that sanctions imposed with respect to the Russian Federation for its malign activities are maintained. “SEC. 7503. IMPOSITION OF SANCTIONS WITH RESPECT TO PROVISION OF CERTAIN VESSELS FOR THE CONSTRUCTION OF CERTAIN RUSSIAN ENERGY EXPORT PIPELINES.“(a) Report Required.—“(1) In general.—Not later than 60 days after the date of the enactment of this Act [Dec. 20, 2019], and every 90 days thereafter, the Secretary of State, in consultation with the Secretary of the Treasury, shall submit to the appropriate congressional committees a report that identifies, for the period specified in paragraph (2)—“(A) vessels that engaged in pipe-laying or pipe-laying activities at depths of 100 feet or more below sea level for the construction of the Nord Stream 2 pipeline project, the TurkStream pipeline project, or any project that is a successor to either such project; “(B) foreign persons that the Secretary of State, in consultation with the Secretary of the Treasury, determines have knowingly—“(i) sold, leased, or provided, or facilitated selling, leasing, or providing, those vessels for the construction of such a project; “(ii) facilitated deceptive or structured transactions to provide those vessels for the construction of such a project; “(iii) provided for those vessels underwriting services or insurance or reinsurance necessary or essential for the completion of such a project; “(iv) provided services or facilities for technology upgrades or installation of welding equipment for, or retrofitting or tethering of, those vessels if the services or facilities are necessary or essential for the completion of such a project; or “(v) provided services for the testing, inspection, or certification necessary or essential for the completion or operation of the Nord Stream 2 pipeline; and “(C) the consultations carried out pursuant to subsection (i) and describes the nature of the consultations and any concerns raised by the government of Norway, Switzerland, the United Kingdom, or any member country of the European Union. “(2) Period specified.—The period specified in this paragraph is—“(A) in the case of the first report required to be submitted by paragraph (1), the period beginning on the date of the enactment of this Act and ending on the date on which the report is submitted; and “(B) in the case of any subsequent such report, the 90-day period preceding submission of the report. “(b) Ineligibility for Visas, Admission, or Parole of Identified Persons and Corporate Officers.—“(1) In general.—“(A) Visas, admission, or parole.—An alien described in paragraph (2) is—“(i) inadmissible to the United States; “(ii) ineligible to receive a visa or other documentation to enter the United States; and “(iii) otherwise ineligible to be admitted or paroled into the United States or to receive any other benefit under the Immigration and Nationality Act ([8 U.S.C. 1101](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1101&num=0&edition=prelim) et seq.). “(B) Current visas revoked.—“(i) In general.—The visa or other entry documentation of an alien described in paragraph (2) shall be revoked, regardless of when such visa or other entry documentation is or was issued. “(ii) Immediate effect.—A revocation under clause (i) shall— “(I) take effect immediately; and “(II) automatically cancel any other valid visa or entry documentation that is in the alien’s possession. “(2) Aliens described.—An alien is described in this paragraph if the alien is—“(A) a foreign person identified under subsection (a)(1)(B); “(B) a corporate officer of a person described in subparagraph (A); or “(C) a principal shareholder with a controlling interest in a person described in subparagraph (A). “(c) Blocking of Property of Identified Persons.—The President shall exercise all powers granted to the President by the International Emergency Economic Powers Act ([50 U.S.C. 1701](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1701&num=0&edition=prelim) et seq.) to the extent necessary to block and prohibit all transactions in all property and interests in property of any person identified under subsection (a)(1)(B) if such property and interests in property are in the United States, come within the United States, or are or come within the possession or control of a United States person. “(d) Wind-down Period.—The President may not impose sanctions under this section with respect to a person identified in the first report submitted under subsection (a) if the President certifies in that report that the person has, not later than 30 days after the date of the enactment of this Act, engaged in good faith efforts to wind down operations that would otherwise subject the person to the imposition of sanctions under this section. “(e) Exceptions.—“(1) Exception for intelligence, law enforcement, and national security activities.—Sanctions under this section shall not apply to any authorized intelligence, law enforcement, or national security activities of the United States. “(2) Exception to comply with united nations headquarters agreement.—Sanctions under this section shall not apply with respect to the admission of an alien to the United States if the admission of the alien is necessary to permit the United States to comply with the Agreement regarding the Headquarters of the United Nations, signed at Lake Success June 26, 1947, and entered into force November 21, 1947, between the United Nations and the United States, the Convention on Consular Relations, done at Vienna April 24, 1963, and entered into force March 19, 1967, or other applicable international obligations. “(3) Exception for safety of vessels and crew.—Sanctions under this section shall not apply with respect to a person providing provisions to a vessel identified under subsection (a)(1)(A) if such provisions are intended for the safety and care of the crew aboard the vessel, the protection of human life aboard the vessel, or the maintenance of the vessel to avoid any environmental or other significant damage. “(4) Exception for repair or maintenance of pipelines.—Sanctions under this section shall not apply with respect to a person for engaging in activities necessary for or related to the repair or maintenance of, or environmental remediation with respect to, a pipeline project described in subsection (a)(1)(A). “(5) Exception relating to importation of goods.—“(A) In general.—Notwithstanding any other provision of this section, the authorities and requirements to impose sanctions authorized under this section shall not include the authority or a requirement to impose sanctions on the importation of goods. “(B) Good defined.—In this paragraph, the term ‘good’ means any article, natural or man-made substance, material, supply or manufactured product, including inspection and test equipment, and excluding technical data. “(6) Exception for certain governments and governmental entities.—Sanctions under this section shall not apply with respect to—“(A) the European Union; “(B) the government of Norway, Switzerland, the United Kingdom, or any member country of the European Union; or “(C) any entity of the European Union or a government described in subparagraph (B) that is not operating as a business enterprise. “(f) National Interest Waiver.—The President may waive the application of sanctions under this section with respect to a person if the President—“(1) determines that the waiver is in the national interests of the United States; and “(2) submits to the appropriate congressional committees a report on the waiver and the reasons for the waiver. “(g) Implementation; Penalties.—“(1) Implementation.—The President may exercise all authorities provided to the President under sections 203 and 205 of the International Emergency Economic Powers Act ([50 U.S.C. 1702](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1702&num=0&edition=prelim) and 1704) to carry out this section. “(2) Penalties.—A person that violates, attempts to violate, conspires to violate, or causes a violation of this section or any regulation, license, or order issued to carry out this section shall be subject to the penalties set forth in subsections (b) and (c) of section 206 of the International Emergency Economic Powers Act ([50 U.S.C. 1705](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1705&num=0&edition=prelim)) to the same extent as a person that commits an unlawful act described in subsection (a) of that section. “(h) Termination and Sunset.—The authority to impose sanctions under this section with respect to a person involved in the construction of a pipeline project described in subsection (a)(1)(A), and any sanctions imposed under this section with respect to that project, shall terminate on the date that is the earlier of—“(1) the date on which the President certifies to the appropriate congressional committees that appropriate safeguards have been put in place—“(A) to minimize the ability of the Government of the Russian Federation to use that project as a tool of coercion and political leverage, including by achieving the unbundling of energy production and transmission so that entities owned or controlled by that Government do not control the transmission network for the pipeline; and “(B) to ensure, barring unforeseen circumstances, that the project would not result in a decrease of more than 25 percent in the volume of Russian energy exports transiting through existing pipelines in other countries, particularly Ukraine, relative to the average monthly volume of Russian energy exports transiting through such pipelines in 2018; or “(2) the date that is 5 years after the date of the enactment of this Act [Dec. 20, 2019]. “(i) Consultations.—Before imposing sanctions under this section, the Secretary of State shall consult with the relevant governments of Norway, Switzerland, the United Kingdom, and member countries of the European Union with respect to the imposition of such sanctions. “(j) Report on Impact of Sanctions.—Not later than one year after the date of the enactment of the William M. (Mac) Thornberry National Defense Authorization Act for Fiscal Year 2021 [Jan. 1, 2021], and annually thereafter until all sanctions imposed under this section have terminated under subsection (h), the Secretary of State, in consultation with the Secretary of the Treasury, shall submit to the appropriate congressional committees a report detailing the impact of the imposition of sanctions under this section that includes information on—“(1) whether the goals of the sanctions have been met; “(2) the diplomatic impact of the sanctions, including on relationships with the governments of Norway, Switzerland, the United Kingdom, and member countries of the European Union; and “(3) the economic impact of the sanctions, including the impact on United States persons. “(k) Definitions.—In this section:“(1) Admission; admitted; alien.—The terms ‘admission’, ‘admitted’, and ‘alien’ have the meanings given those terms in section 101 of the Immigration and Nationality Act ([8 U.S.C. 1101](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1101&num=0&edition=prelim)). “(2) Appropriate congressional committees.—The term ‘appropriate congressional committees’ means—“(A) the Committee on Foreign Relations and the Committee on Banking, Housing, and Urban Affairs of the Senate; and “(B) the Committee on Foreign Affairs and the Committee on Financial Services of the House of Representatives. “(3) Foreign person.—The term ‘foreign person’ means an individual or entity that is not a United States person. “(4) Knowingly.—The term ‘knowingly’, with respect to conduct, a circumstance, or a result, means that a person has actual knowledge, or should have known, of the conduct, the circumstance, or the result. “(5) Pipe-laying activities.—The term ‘pipe-laying activities’ means activities that facilitate pipe-laying, including site preparation, trenching, surveying, placing rocks, backfilling, stringing, bending, welding, coating, and lowering of pipe. “(6) United states person.—The term ‘United States person’ means—“(A) a United States citizen or an alien lawfully admitted for permanent residence to the United States; “(B) an entity organized under the laws of the United States or any jurisdiction within the United States, including a foreign branch of such an entity; or “(C) any person within the United States.”
+
+[Pub. L. 116–283, div. A, title XII, § 1242(f), Jan. 1, 2021, 134 Stat. 3947, provided that: “The President may not impose sanctions with respect to a person identified in the first report submitted under section 7503(a) of the Protecting Europe’s Energy Security Act of 2019 [set out above], as amended by this section, after the date of the enactment of this Act [Jan. 1, 2021] for operations subject to sanctions by reason of the amendments made by this section [amending section 7503 of Pub. L. 116–92, set out above] if the President certifies in that report that the person has, not later than 30 days after such date of enactment, engaged in good faith efforts to wind down such operations.” ]
+
+[Functions and authorities of President under sections 7503(d), (f), and (h) of Pub. L. 116–92, set out above, delegated to Secretary of State, in consultation with the Secretary of the Treasury, and under sections 7503(c) and (g) of Pub. L. 116–92 to Secretary of the Treasury, in consultation with the Secretary of State, by section 1(a)(i)–(iii) and (b)(i), (ii) of Memorandum of President of the United States, Feb. 21, 2020, 85 F.R. 13717, set out as a note under [section 286yy of this title](./chapter-007-international-bureaus-congresses-etc.md#section-286yy).]
 
 
 <a id="section-9529"></a>
@@ -909,7 +923,7 @@ The Global Magnitsky Human Rights Accountability Act, referred to in par. (10)(B
 
 <a id="section-9543"></a>
 ## § 9543. Coordinating aid and assistance across Europe and Eurasia
-**(a) Authorization of appropriations** There are authorized to be appropriated for the Countering Russian Influence Fund $250,000,000 for fiscal years 2018 and 2019.
+**(a) Authorization of appropriations** There are authorized to be appropriated for the Countering Russian Influence Fund $250,000,000 for fiscal years 2020, 2021, 2022, and 2023.
 
 **(b) Use of funds** Amounts in the Countering Russian Influence Fund shall be used to effectively implement, prioritized in the following order and subject to the availability of funds, the following goals:
 
@@ -932,6 +946,8 @@ The Global Magnitsky Human Rights Accountability Act, referred to in par. (10)(B
 (5) To build the capacity of civil society, media, and other nongovernmental organizations countering the influence and propaganda of the Russian Federation to combat corruption, prioritize access to truthful information, and operate freely in all regions in the countries described in paragraph (1).
 
 (6) To assist the Secretary of State in executing the functions specified in section 1287(b) of the National Defense Authorization Act for Fiscal Year 2017 (Public Law 114–328; [22 U.S.C. 2656](./chapter-038-department-of-state.md#section-2656) note) for the purposes of recognizing, understanding, exposing, and countering propaganda and disinformation efforts by foreign governments, in coordination with the relevant regional Assistant Secretary or Assistant Secretaries of the Department of State.
+
+(7) To assist United States agencies that operate under the foreign policy guidance of the Secretary of State in providing assistance under [section 9563 of this title](./chapter-102-countering-russian-influence-in-europe-and-eurasia.md#section-9563).
 
 **(c) Revision of activities for which amounts may be used** The Secretary of State may modify the goals described in subsection (b) if, not later than 15 days before revising such a goal, the Secretary notifies the appropriate congressional committees of the revision.
 
@@ -984,6 +1000,16 @@ The Global Magnitsky Human Rights Accountability Act, referred to in par. (10)(B
 **(f) Rule of construction** Nothing in this section shall be construed to apply to or limit United States foreign assistance not provided using amounts available in the Countering Russian Influence Fund.
 
 **(g) Ensuring adequate staffing for governance activities** In order to ensure that the United States Government is properly focused on combating corruption, improving rule of law, and building the capacity of civil society, media, and other nongovernmental organizations in countries described in subsection (b)(1), the Secretary of State shall establish a pilot program for Foreign Service officer positions focused on governance and anticorruption activities in such countries.
+
+### Statutory Notes
+
+#### Amendments
+2019—Subsec. (a). Pub. L. 116–94, § 2004(d)(2)(A), substituted “fiscal years 2020, 2021, 2022, and 2023” for “fiscal years 2018 and 2019”.
+
+Subsec. (b)(7). Pub. L. 116–94, § 2004(d)(2)(B), added par. (7).
+
+#### Change of Name
+Broadcasting Board of Governors renamed United States Agency for Global Media pursuant to [section 6204(a)(22) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section6204/a/22&num=0&edition=prelim). The renaming was effectuated by notice to congressional appropriations committees dated May 24, 2018, and became effective Aug. 22, 2018.
 
 
 <a id="section-9544"></a>
@@ -1094,7 +1120,7 @@ The Global Magnitsky Human Rights Accountability Act, referred to in par. (10)(B
 
   (A) the United States should assist the efforts of the countries of Europe and Eurasia to enhance their energy security through diversification of energy supplies in order to lessen dependencies on Russian Federation energy resources and state-owned entities; and
 
-  (B) the Export-Import Bank of the United States and the Overseas Private Investment Corporation should play key roles in supporting critical energy projects that contribute to that goal.
+  (B) the Export-Import Bank of the United States and the United States International Development Finance Corporation should play key roles in supporting critical energy projects that contribute to that goal.
 
 (3) **Use of Countering Russian Influence Fund to provide technical assistance** — Amounts in the Countering Russian Influence Fund pursuant to [section 9543 of this title](./chapter-102-countering-russian-influence-in-europe-and-eurasia.md#section-9543) shall be used to provide technical advice to countries described in subsection (b)(1) of such section designed to enhance energy security and lessen dependence on energy from Russian Federation sources.
 
@@ -1103,9 +1129,6 @@ The Global Magnitsky Human Rights Accountability Act, referred to in par. (10)(B
 **(e) Rule of construction** Nothing in this section shall be construed as affecting the responsibilities required and authorities provided under section 7 of the Ukraine Freedom Support Act of 2014 ([22 U.S.C. 8926](./chapter-96a-ukraine-freedom-support.md#section-8926)).
 
 ### Statutory Notes
-
-#### Amendment of Subsection (c)(2)(B)
-Pub. L. 115–254, div. F, title VI, § 1470(t), (w), Oct. 5, 2018, 132 Stat. 3519, provided that, effective at the end of the transition period, as defined in [section 9681 of this title](./chapter-103-better-utilization-of-investments-leading-to-development.md#section-9681), subsection (c)(2)(B) of this section is amended by striking “Overseas Private Investment Corporation” and inserting “United States International Development Finance Corporation”. See 2018 Amendment note below.
 
 #### References in Text
 The Ukraine Freedom Support Act of 2014, referred to in subsec. (b)(3)(A), is Pub. L. 113–272, Dec. 18, 2014, 128 Stat. 2952, which is classified generally to chapter 96A (§ 8921 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 8921 of this title](./chapter-96a-ukraine-freedom-support.md#section-8921) and Tables.
@@ -1131,3 +1154,165 @@ Except as otherwise provided, in this subchapter, the term “appropriate congre
 (1) the Committee on Foreign Relations, the Committee on Banking, Housing, and Urban Affairs, the Committee on Armed Services, the Committee on Homeland Security and Governmental Affairs, the Committee on Appropriations, and the Select Committee on Intelligence of the Senate; and
 
 (2) the Committee on Foreign Affairs, the Committee on Financial Services, the Committee on Armed Services, the Committee on Homeland Security, the Committee on Appropriations, and the Permanent Select Committee on Intelligence of the House of Representatives.
+
+
+<a id="section-9561"></a>
+## § 9561. Definitions
+
+In this subchapter:
+
+(1) **Early-stage project support** — The term “early-stage project support” includes—
+
+  (A) feasibility studies;
+
+  (B) resource evaluations;
+
+  (C) project appraisal and costing;
+
+  (D) pilot projects;
+
+  (E) commercial support, such as trade missions, reverse trade missions, technical workshops, international buyer programs, and international partner searchers to link suppliers to projects;
+
+  (F) technical assistance and other guidance to improve the local regulatory environment and market frameworks to encourage transparent competition and enhance energy security; and
+
+  (G) long-term energy sector planning.
+
+(2) **Late-stage project support** — The term “late-stage project support” includes debt financing, insurance, and transaction advisory services.
+
+### Statutory Notes
+
+#### References in Text
+This subchapter, referred to in text, was in the original “this title”, meaning title XX of div. P of Pub. L. 116–94, Dec. 20, 2019, 133 Stat. 3222, which is classified generally to this subchapter. For complete classification of title XX to the Code, see Short Title note set out under [section 9501 of this title](./chapter-102-countering-russian-influence-in-europe-and-eurasia.md#section-9501) and Tables.
+
+#### Codification
+Section was enacted as part of the European Energy Security and Diversification Act of 2019, and also as part of the Further Consolidated Appropriations Act, 2020, and not as part of the Countering Russian Influence in Europe and Eurasia Act of 2017 which comprises this chapter.
+
+
+<a id="section-9562"></a>
+## § 9562. Statement of policy
+**(a) Sense of Congress** It is the sense of Congress that the United States has economic and national security interests in assisting European and Eurasian countries achieve energy security through diversification of their energy sources and supply routes.
+
+**(b) Statement of policy** It is the policy of the United States—
+
+(1) to advance United States foreign policy and development goals by assisting European and Eurasian countries to reduce their dependence on energy resources from countries that use energy dependence for undue political influence, such as the Russian Federation, which has used natural gas to coerce, intimidate, and influence other countries;
+
+(2) to promote the energy security of allies and partners of the United States by encouraging the development of accessible, transparent, and competitive energy markets that provide diversified sources, types, and routes of energy;
+
+(3) to encourage United States public and private sector investment in European energy infrastructure projects to bridge the gap between energy security requirements and commercial demand in a way that is consistent with the region’s absorptive capacity; and
+
+(4) to help facilitate the export of United States energy resources, technology, and expertise to global markets in a way that benefits the energy security of allies and partners of the United States, including in Europe and Eurasia.
+
+### Statutory Notes
+
+#### Codification
+Section was enacted as part of the European Energy Security and Diversification Act of 2019, and also as part of the Further Consolidated Appropriations Act, 2020, and not as part of the Countering Russian Influence in Europe and Eurasia Act of 2017 which comprises this chapter.
+
+
+<a id="section-9563"></a>
+## § 9563. Prioritization of efforts and assistance for energy infrastructure projects in Europe and Eurasia
+**(a) In general** In pursuing the policy described in [section 9562 of this title](./chapter-102-countering-russian-influence-in-europe-and-eurasia.md#section-9562), the Secretary of State, in consultation with the Secretary of Energy and the heads of other relevant United States agencies, shall, as appropriate, prioritize and expedite the efforts of the Department of State and those agencies in supporting the efforts of the European Commission and the governments of European and Eurasian countries to increase their energy security, including through—
+
+(1) providing diplomatic and political support to the European Commission and those governments, as necessary—
+
+  (A) to facilitate international negotiations concerning cross-border infrastructure;
+
+  (B) to enhance Europe’s regulatory environment with respect to energy; and
+
+  (C) to develop accessible, transparent, and competitive energy markets supplied by diverse sources, types, and routes of energy; and
+
+(2) providing support to improve European and Eurasian energy markets, including early-stage project support and late-stage project support for the construction or improvement of energy and related infrastructure, as necessary—
+
+  (A) to diversify the energy sources and supply routes of European and Eurasian countries;
+
+  (B) to enhance energy market integration across the region; and
+
+  (C) to increase competition within energy markets.
+
+**(b) Project selection**
+
+(1) **In general** — The agencies described in subsection (a) shall identify energy infrastructure projects that would be appropriate for United States assistance under this section.
+
+(2) **Project eligibility** — A project is eligible for United States assistance under this section if the project—
+
+  (A)
+
+    (i) improves electricity transmission infrastructure, power generation through the use of a broad power mix (including fossil fuel and renewable energy), or energy efficiency; or
+
+    (ii) advances electricity storage projects, smart grid projects, distributed generation models, or other technological innovations, as appropriate; and
+
+  (B) is located in a European or Eurasian country.
+
+(3) **Preference** — In selecting among projects that are eligible under paragraph (2), the agencies described in subsection (a) shall give preference to projects that—
+
+  (A) link the energy systems of 2 or more European or Eurasian countries;
+
+  (B) have already been identified by the European Commission as being integral for the energy security of European countries;
+
+  (C) are expected to enhance energy market integration;
+
+  (D) can attract funding from the private sector, an international financial institution, the government of the country in which the project will be carried out, or the European Commission; or
+
+  (E) have the potential to use United States goods and services during project implementation.
+
+**(c) Types of assistance**
+
+(1) **Diplomatic and political support** — The Secretary of State shall provide diplomatic and political support to the European Commission and the governments of European and Eurasian countries, as necessary, including by using the diplomatic and political influence and expertise of the Department of State to build the capacity of those countries to resolve any impediments to the development of projects selected under subsection (b).
+
+(2) **Early-stage project support** — The Director of the Trade and Development Agency shall provide early-stage project support with respect to projects selected under subsection (b), as necessary.
+
+(3) **Late-stage project support** — Agencies described in subsection (a) that provide late-stage project support shall do so with respect to projects selected under subsection (b), as necessary.
+
+**(d) Omitted**
+
+**(e) Exception from certain limitation under BUILD Act**
+
+(1) **In general** — For purposes of providing support for projects under this section—
+
+  (A) the United States International Development Finance Corporation may provide support for projects in countries with upper-middle-income economies or high-income economies (as those terms are defined by the World Bank);
+
+  (B) the restriction under [section 9612(c)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section9612/c/2&num=0&edition=prelim) shall not apply; and
+
+  (C) the Corporation shall restrict the provision of such support in a country described in subparagraph (A) unless—
+
+    (i) the President certifies to the appropriate congressional committees that such support furthers the national economic or foreign policy interests of the United States; and
+
+    (ii) such support is—
+
+      (I) designed to produce significant developmental outcomes or provide developmental benefits to the poorest population of that country; or
+
+      (II) necessary to preempt or counter efforts by a strategic competitor of the United States to secure significant political or economic leverage or acquire national security-sensitive technologies or infrastructure in a country that is an ally or partner of the United States.
+
+(2) **Definitions** — In this subsection, the terms “appropriate congressional committees” and “less developed country” have the meanings given those terms in [section 9601 of this title](./chapter-103-better-utilization-of-investments-leading-to-development.md#section-9601).
+
+### Statutory Notes
+
+#### References in Text
+The BUILD Act, referred to in subsec. (e), probably means the BUILD Act of 2018, also known as the Better Utilization of Investments Leading to Development Act of 2018, which is classified principally to chapter 103 (§ 9601 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 9601 of this title](./chapter-103-better-utilization-of-investments-leading-to-development.md#section-9601) and Tables.
+
+#### Codification
+Section was enacted as part of the European Energy Security and Diversification Act of 2019, and also as part of the Further Consolidated Appropriations Act, 2020, and not as part of the Countering Russian Influence in Europe and Eurasia Act of 2017 which comprises this chapter.
+
+Section is comprised of section 2004 of Pub. L. 116–94. Subsec. (d) of section 2004 of Pub. L. 116–94 amended sections 2421 and 9543 of this title.
+
+
+<a id="section-9564"></a>
+## § 9564. Progress reports
+
+Not later than one year after December 20, 2019, and annually thereafter, the President shall submit to the Committee on Foreign Relations of the Senate and the Committee on Foreign Affairs of the House of Representatives a report on progress made in providing assistance for projects under [section 9563 of this title](./chapter-102-countering-russian-influence-in-europe-and-eurasia.md#section-9563) that includes—
+
+(1) a description of the energy infrastructure projects the United States has identified for such assistance; and
+
+(2) for each such project—
+
+  (A) a description of the role of the United States in the project, including in early-stage project support and late-stage project support;
+
+  (B) the amount and form of any debt financing and insurance provided by the United States Government for the project;
+
+  (C) the amount and form of any early-stage project support; and
+
+  (D) an update on the progress made on the project as of the date of the report.
+
+### Statutory Notes
+
+#### Codification
+Section was enacted as part of the European Energy Security and Diversification Act of 2019, and also as part of the Further Consolidated Appropriations Act, 2020, and not as part of the Countering Russian Influence in Europe and Eurasia Act of 2017 which comprises this chapter.

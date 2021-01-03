@@ -22,7 +22,7 @@ source: >-
 
 (5) strengthen the Nation’s competitiveness in commercial space transportation infrastructure and increase resilience for the Federal Government and commercial customers.
 
-**(c) Recognition.—** In carrying out the functions assigned in subsection (b), the Secretary shall recognize the unique needs and distinctions of spaceports that host—
+**(c) Recognition.—** In carrying out the functions assigned in subsection (b), the Secretary shall recognize the unique needs and distinctions of spaceports that host— 11 So in original. The dash probably should follow “that” and the word “host” probably should appear at the beginning of par. (1).
 
 (1) launches to or reentries from orbit; and
 

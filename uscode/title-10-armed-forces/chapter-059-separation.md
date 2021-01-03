@@ -186,6 +186,9 @@ The new [section 1168 of title 10](./chapter-059-separation.md#section-1168) is 
 #### Amendments
 1989—Subsec. (b). Pub. L. 101–189 substituted “facility of the Department of Veterans Affairs” for “Veterans’ Administration facility”.
 
+#### Machine Readability and Electronic Transferability of Certificate of Release or Discharge From Active Duty (DD Form 214)
+Pub. L. 116–92, div. A, title V, § 569, Dec. 20, 2019, 133 Stat. 1397, provided that: “(a) Modification Required.—The Secretary of Defense shall modify the Certificate of Release or Discharge from Active Duty (DD Form 214) to—“(1) be machine readable and electronically transferable; and “(2) include a specific block explicitly identified as the location in which a member of the Armed Forces may provide one or more email addresses by which the member may be contacted after discharge or release from active duty. “(b) Deadline for Modification.—The Secretary of Defense shall release a revised Certificate of Release or Discharge from Active Duty (DD Form 214), modified pursuant to subsection (a), not later than four years after the date of the enactment of this Act [Dec. 20, 2019]. “(c) Report.—Not later than 180 days after the date of the enactment of this Act, the Secretary of Defense shall submit a report to Congress regarding the following:“(1) What systems of the Department of Defense require an individual to manually enter information from DD Form 214. “(2) What activities of the Department of Defense require a veteran or former member of the Armed Forces to provide a physical copy of DD Form 214. “(3) The order of priority for modernizing items identified under paragraphs (1) and (2) as determined by the Secretary. “(4) The estimated cost, as determined by the Secretary, to automate items identified under paragraphs (1) and (2).”
+
 #### Modification of Certificate of Release or Discharge From Active Duty (DD Form 214)
 Pub. L. 110–181, div. A, title V, § 596, Jan. 28, 2008, 122 Stat. 139, provided that: “The Secretary of Defense, in consultation with the Secretary of Veterans Affairs, shall modify the Certificate of Release or Discharge from Active Duty (DD Form 214) in order to permit a member of the Armed Forces, upon discharge or release from active duty in the Armed Forces, to elect that the DD–214 issued with regard to the member be forwarded to the following: “(1) The Central Office of the Department of Veterans Affairs in the District of Columbia. “(2) The appropriate office of the Department of Veterans Affairs for the State or other locality in which the member will first reside after such discharge or release.”
 
@@ -253,7 +256,7 @@ Section effective July 1, 1973, see section 206 of Pub. L. 93–64, set out as a
 
 (1) A regular officer who is discharged under chapter 36 of this title (except under section 630(1)(A) or 643 of such chapter) or under section 580 or 8372 of this title and who has completed six or more, but less than twenty, years of active service immediately before that discharge is entitled to separation pay computed under subsection (d)(1).
 
-(2) A regular commissioned officer of the Army, Navy, Air Force, or Marine Corps who is discharged under section 630(1)(A), 643, or 1186 of this title, and a regular warrant officer of the Army, Navy, Air Force, or Marine Corps who is separated under section 1165 or 1166 of this title, who has completed six or more, but less than twenty, years of active service immediately before that discharge or separation is entitled to separation pay computed under subsection (d)(1) or (d)(2), as determined by the Secretary of the military department concerned, unless the Secretary concerned determines that the conditions under which the officer is discharged or separated do not warrant payment of such pay.
+(2) A regular commissioned officer of the Army, Navy, Air Force, Marine Corps, or Space Force who is discharged under section 630(1)(A), 643, or 1186 of this title, and a regular warrant officer of the Army, Navy, Air Force, Marine Corps, or Space Force who is separated under section 1165 or 1166 of this title, who has completed six or more, but less than twenty, years of active service immediately before that discharge or separation is entitled to separation pay computed under subsection (d)(1) or (d)(2), as determined by the Secretary of the military department concerned, unless the Secretary concerned determines that the conditions under which the officer is discharged or separated do not warrant payment of such pay.
 
 (3) Notwithstanding paragraphs (1) and (2), an officer discharged under any provision of chapter 36 of this title for twice failing of selection for promotion to the next higher grade is not entitled to separation pay under this section if either (or both) of those failures of selection for promotion was by the action of a selection board to which the officer submitted a request in writing not to be selected for promotion or who otherwise directly caused his nonselection through written communication to the Board under [section 614(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section614/b&num=0&edition=prelim).
 
@@ -335,7 +338,7 @@ Section effective July 1, 1973, see section 206 of Pub. L. 93–64, set out as a
 
 **(j) Regulations; Crediting of Other Commissioned Service.—**
 
-(1) The Secretary of Defense shall prescribe regulations, which shall be uniform for the Army, Navy, Air Force, and Marine Corps, for the administration of this section.
+(1) The Secretary of Defense shall prescribe regulations, which shall be uniform for the Army, Navy, Air Force, Marine Corps, and Space Force, for the administration of this section.
 
 (2) Active commissioned service in the National Oceanic and Atmospheric Administration or the Public Health Service shall be credited as active service in the armed forces for the purposes of this section.
 
@@ -345,6 +348,10 @@ Section effective July 1, 1973, see section 206 of Pub. L. 93–64, set out as a
 Chapter 24 of the Internal Revenue Code of 1986, referred to in subsec. (h)(2), is classified generally to chapter 24 (§ 3401 et seq.) of Title 26, Internal Revenue Code.
 
 #### Amendments
+2021—Subsec. (a)(2). Pub. L. 116–283, § 924(b)(3)(S), substituted “Marine Corps, or Space Force” for “or Marine Corps” in two places.
+
+Subsec. (j)(1). Pub. L. 116–283, § 924(b)(1)(K), substituted “Marine Corps, and Space Force” for “and Marine Corps”.
+
 2018—Subsec. (a)(1), (4). Pub. L. 115–232 substituted “section 580 or 8372” for “section 580 or 6383”.
 
 2011—Subsec. (i). Pub. L. 111–383 substituted “armed forces” for “Armed Forces” wherever appearing.
@@ -910,13 +917,19 @@ Pub. L. 102–190, div. A, title VI, § 662(b), Dec. 5, 1991, 105 Stat. 1398, pr
 
 **(j) Repayment for Members Who Return to Active Duty.—**
 
-(1) Except as provided in paragraphs (2) and (3), a member of the armed forces who, after having received all or part of voluntary separation pay under this section, returns to active duty shall have deducted from each payment of basic pay, in such schedule of monthly installments as the Secretary concerned shall specify, until the total amount deducted from such basic pay equals the total amount of voluntary separation pay received.
+(1) Except as provided in paragraphs (2), (3), and (4), a member of the armed forces who, after having received all or part of voluntary separation pay under this section, returns to active duty shall have deducted from each payment of basic pay, in such schedule of monthly installments as the Secretary concerned shall specify, until the total amount deducted from such basic pay equals the total amount of voluntary separation pay received.
 
 (2) Members who are involuntarily recalled to active duty or full-time National Guard duty in accordance with section 12301(a), 12301(b), 12301(g), 12302, 12303, 12304, 12304a, or 12304b of this title or [section 502(f)(1)(A) of title 32](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title32-section502/f/1/A&num=0&edition=prelim) shall not be subject to this subsection.
 
 (3) Members who are recalled or perform active duty or full-time National Guard duty in accordance with section 101(d)(1), 101(d)(2), 101(d)(5), 12301(d) (insofar as the period served is less than 180 consecutive days with the consent of the member), 12319, or 12503 of this title, or section 114, 115, or 502(f)(1)(B) of title 32 (insofar as the period served is less than 180 consecutive days with consent of the member), shall not be subject to this subsection.
 
-(4) The Secretary of Defense may waive, in whole or in part, repayment required under paragraph (1) if the Secretary determines that recovery would be against equity and good conscience or would be contrary to the best interests of the United States. The authority in this paragraph may be delegated only to the Undersecretary of Defense for Personnel and Readiness and the Principal Deputy Undersecretary of Defense for Personnel and Readiness.
+(4) This subsection shall not apply to a member who—
+
+  (A) is involuntarily recalled to active duty or full-time National Guard duty; and
+
+  (B) in the course of such duty, incurs a service-connected disability rated as total under [section 1155 of title 38](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section1155&num=0&edition=prelim).
+
+(5) The Secretary of Defense may waive, in whole or in part, repayment required under paragraph (1) if the Secretary determines that recovery would be against equity and good conscience or would be contrary to the best interests of the United States. The authority in this paragraph may be delegated only to the Undersecretary of Defense for Personnel and Readiness and the Principal Deputy Undersecretary of Defense for Personnel and Readiness.
 
 **(k) Termination of Authority.—**
 
@@ -930,6 +943,10 @@ Pub. L. 102–190, div. A, title VI, § 662(b), Dec. 5, 1991, 105 Stat. 1398, pr
 Chapter 24 of the Internal Revenue Code of 1986, referred to in subsec. (h)(2)(A), is classified generally to chapter 24 (§ 3401 et seq.) of Title 26, Internal Revenue Code.
 
 #### Amendments
+2019—Subsec. (j)(1). Pub. L. 116–92, § 603(1), substituted “paragraphs (2), (3), and (4)” for “paragraphs (2) and (3)”.
+
+Subsec. (j)(4), (5). Pub. L. 116–92, § 603(2), (3), added par. (4) and redesignated former par. (4) as (5).
+
 2016—Subsec. (j)(2). Pub. L. 114–328, § 526(1), substituted “12304, 12304a, or 12304b” for “or 12304” and “502(f)(1)(A)” for “502(f)(1)”.
 
 Subsec. (j)(3). Pub. L. 114–328, § 526(2), substituted “502(f)(1)(B)” for “502(f)(2)”.

@@ -2,7 +2,7 @@
 title: 16
 chapter: 5A
 heading: PROTECTION AND CONSERVATION OF WILDLIFE
-section_count: 38
+section_count: 39
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16&num=0&edition=prelim
 ---
@@ -325,13 +325,17 @@ This Act, referred to in text, is act Mar. 10, 1934, ch. 55, 48 Stat. 401, known
 
   (A) in coordination with affected—
 
-    (i) eligible States; and
+    (i) relevant Federal agencies;
 
-    (ii) political subdivisions of eligible States;
+    (ii) eligible States; and
 
-  (B) in consultation with federally recognized Indian tribes; and
+    (iii) political subdivisions of eligible States;
 
-  (C) in accordance with the priorities established by 1 or more Governors of the eligible States in which an ecosystem affected by an invasive species is located.
+  (B) in consultation with stakeholders, including nongovernmental organizations and industry;
+
+  (C) in consultation with federally recognized Indian tribes; and
+
+  (D) in accordance with the priorities established by 1 or more Governors of the eligible States in which an ecosystem affected by an invasive species is located.
 
 (3) **Factors for consideration** — In developing a strategic plan under this subsection, the Secretary concerned shall take into consideration the economic and ecological costs of action or inaction, as applicable.
 
@@ -439,10 +443,23 @@ This Act, referred to in text, is act Mar. 10, 1934, ch. 55, 48 Stat. 401, known
 
 **(o) Coordination with affected local governments** Each project and activity carried out pursuant to this section shall be coordinated with affected local governments in a manner that is consistent with [section 1712(c)(9) of title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1712/c/9&num=0&edition=prelim).
 
+**(p) Authorization of appropriations** There are authorized to be appropriated to carry out this section for each of fiscal years 2021 through 2025—
+
+(1) $2,500,000 to the Secretary of the Army, acting through the Chief of Engineers; and
+
+(2) $2,500,000 to the Secretary of the Interior.
+
 ### Statutory Notes
 
 #### References in Text
 The Federal Insecticide, Fungicide, and Rodenticide Act, referred to in subsec. (g)(2), is act June 25, 1947, ch. 125, as amended generally by Pub. L. 92–516, § 2, Oct. 21, 1972, 86 Stat. 973, which is classified generally to subchapter II (§ 136 et seq.) of chapter 6 of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under [section 136 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section136&num=0&edition=prelim) and Tables.
+
+#### Amendments
+2020—Subsec. (c)(2)(A). Pub. L. 116–188, § 105(1)(A), added cl. (i) and redesignated former cls. (i) and (ii) as (ii) and (iii), respectively.
+
+Subsec. (c)(2)(B) to (D). Pub. L. 116–188, § 105(1)(B), (C), added subpar. (B) and redesignated former subpars. (B) and (C) as (C) and (D), respectively.
+
+Subsec. (p). Pub. L. 116–188, § 105(2), added subsec. (p).
 
 
 <a id="section-666d"></a>
@@ -638,6 +655,195 @@ There are authorized to be appropriated such sums as may be necessary to reimbur
 Section was formerly classified to [section 449 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section449&num=0&edition=prelim), Agriculture, prior to editorial reclassification and renumbering as this section.
 
 
+<a id="section-667h"></a>
+## § 667h. Chronic wasting disease task force
+**(a) Definitions** In this section:
+
+(1) **Cervid** — The term “cervid” means any species within the family Cervidae.
+
+(2) **Chronic wasting disease** — The term “chronic wasting disease” means the animal disease afflicting deer, elk, and moose populations that—
+
+  (A) is a transmissible disease of the nervous system resulting in distinctive lesions in the brain; and
+
+  (B) belongs to the group of diseases known as transmissible spongiform encephalopathies, which group includes scrapie, bovine spongiform encephalopathy, and Creutzfeldt-Jakob disease.
+
+(3) **Secretaries** — The term “Secretaries” means the Secretary of Agriculture, acting through the Administrator of the Animal and Plant Health Inspection Service, and the Secretary of the Interior, acting through the Director of the United States Geological Survey and the Director of the United States Fish and Wildlife Service, acting jointly.
+
+**(b) Establishment**
+
+(1) **In general** — The Secretaries shall establish within the United States Fish and Wildlife Service a task force, to be known as the “Chronic Wasting Disease Task Force” (referred to in this subsection as the “Task Force”) after the completion of the study required by subsection (c).
+
+(2) **Duties** — The Task Force shall—
+
+  (A) collaborate with foreign governments to share research, coordinate efforts, and discuss best management practices to reduce, minimize, prevent, or eliminate chronic wasting disease in the United States;
+
+  (B) develop recommendations, including recommendations based on findings of the study conducted under subsection (c), and a set of best practices regarding—
+
+    (i) the interstate coordination of practices to prevent the new introduction of chronic wasting disease;
+
+    (ii) the prioritization and coordination of the future study of chronic wasting disease, based on evolving research needs;
+
+    (iii) ways to leverage the collective resources of Federal, State, and local agencies, Indian Tribes, and foreign governments, and resources from private, nongovernmental entities, to address chronic wasting disease in the United States and along the borders of the United States; and
+
+    (iv) any other area where containment or management efforts relating to chronic wasting disease may differ across jurisdictions; and
+
+  (C) develop, from the recommendations developed under subparagraph (B), an action plan that gives States, the Federal Government, Indian Tribes, and the farmed cervid industry specific recommendations to ensure consistent and coordinated management and focused, prioritized research to stop the spread of and mitigate the impacts of chronic wasting disease.
+
+(3) **Membership**
+
+  (A) *In general* — The Task Force shall be composed of—
+
+    (i) 1 representative of the United States Fish and Wildlife Service with experience in chronic wasting disease, to be appointed by the Secretary of the Interior (referred to in this subsection as the “Secretary”);
+
+    (ii) 1 representative of the United States Geological Survey;
+
+    (iii) 2 representatives of the Department of Agriculture with experience in chronic wasting disease, to be appointed by the Secretary of Agriculture—
+
+      (I) 1 of whom shall have expertise in cervid health research; and
+
+      (II) 1 of whom shall have expertise in wildlife management;
+
+    (iv) in the case of each State in which chronic wasting disease among elk, mule deer, white-tailed deer, or moose has been reported to the appropriate State agency, not more than 2 representatives, to be nominated by the Governor of the State—
+
+      (I) not more than 1 of whom shall be a representative of the State agency with jurisdiction over wildlife management or wildlife disease in the State; and
+
+      (II) in the case of a State with a farmed cervid program or economy, not more than 1 of whom shall be a representative of the State agency with jurisdiction over farmed cervid regulation in the State;
+
+    (v) in the case of each State in which chronic wasting disease among elk, mule deer, white-tailed deer, or moose has not been documented, but that has carried out measures to prevent the introduction of chronic wasting disease among those species, not more than 2 representatives, to be nominated by the Governor of the State;
+
+    (vi) not more than 2 representatives from an Indian Tribe or Tribal organization chosen in a process determined, in consultation with Indian Tribes, by the Secretary; and
+
+    (vii) not more than 5 nongovernmental members with relevant expertise appointed, after the date on which the members are first appointed under clauses (i) through (vi), by a majority vote of the State representatives appointed under clause (iv).
+
+  (B) *Effect* — Nothing in this paragraph requires a State to participate in the Task Force.
+
+(4) **Co-Chairs** — The Co-Chairs of the Task Force shall be—
+
+  (A) the Federal representative described in paragraph (3)(A)(i);
+
+  (B) 1 of the Federal representatives described in paragraph (3)(A)(iii); and
+
+  (C) 1 State representative appointed under paragraph (3)(A)(iv), to be selected by a majority vote of those State representatives.
+
+(5) **Date of initial appointment**
+
+  (A) *In general* — The members of the Task Force shall be appointed not later than 180 days after the date on which the study is completed under subsection (c).
+
+  (B) *Notification* — On appointment of the members of the Task Force, the Co-Chairs of the Task Force shall notify the Chairs and Ranking Members of the Committees on Environment and Public Works and Agriculture, Nutrition, and Forestry of the Senate and Natural Resources and Agriculture of the House of Representatives.
+
+(6) **Vacancies** — Any vacancy in the members appointed to the Task Force—
+
+  (A) shall not affect the power or duty of the Task Force; and
+
+  (B) shall be filled not later than 30 days after the date of the vacancy.
+
+(7) **Meetings** — The Task Force shall convene—
+
+  (A) not less frequently than twice each year; and
+
+  (B) at such time and place, and by such means, as the Co-Chairs of the Task Force determine to be appropriate, which may include the use of remote conference technology.
+
+(8) **Interstate action plan**
+
+  (A) *In general* — Not later than 1 year after the date on which the members of the Task Force are appointed, the Task Force shall submit to the Secretaries, and the heads of the State agencies with jurisdiction over wildlife disease and farmed cervid regulation of each State with a representative on the Task Force, the interstate action plan developed by the Task Force under paragraph (2)(C).
+
+  (B) *Cooperative agreements*
+
+    (i) *In general* — To the maximum extent practicable, the Secretaries, any other applicable Federal agency, and each applicable State may enter into a cooperative agreement to fund necessary actions under the interstate action plan submitted under subparagraph (A).
+
+    (ii) *Target date* — The Secretaries shall make the best effort of the Secretaries to enter into any cooperative agreement under clause (i) not later than 180 days after the date of submission of the interstate action plan under subparagraph (A).
+
+  (C) *Matching funds*
+
+    (i) *In general* — Subject to clause (ii), for each fiscal year, the Secretaries may provide funds to carry out an interstate action plan through a cooperative agreement under subparagraph (B) in the amount of funds provided by the applicable States.
+
+    (ii) *Limitation* — The amount provided by the United States Fish and Wildlife Service under clause (i) for a fiscal year shall be not greater than $5,000,000.
+
+(9) **Reports** — Not later than September 30 of the first full fiscal year after the date on which the first members of the Task Force are appointed, and each September 30 thereafter, the Task Force shall submit to the Secretaries, and the heads of the State agencies with jurisdiction over wildlife disease and farmed cervid regulation of each State with a representatives on the Task Force, a report describing—
+
+  (A) progress on the implementation of actions identified in the interstate action plan submitted under paragraph (8)(A), including the efficacy of funding under the cooperative agreement entered into under paragraph (8)(B);
+
+  (B) updated resource requirements that are needed to reduce and eliminate chronic wasting disease in the United States;
+
+  (C) any relevant updates to the recommended best management practices included in the interstate action plan submitted under paragraph (8)(B) to reduce or eliminate chronic wasting disease;
+
+  (D) new research findings and emerging research needs relating to chronic wasting disease; and
+
+  (E) any other relevant information.
+
+**(c) Chronic wasting disease transmission in cervidae resource study**
+
+(1) **Definition of academy** — In this subsection, the term “Academy” means the National Academy of Sciences.
+
+(2) **Study**
+
+  (A) *In general* — The Secretaries shall enter into an arrangement with the Academy under which the Academy shall conduct, and submit to the Secretaries a report describing the findings of, a special resource study to identify the predominant pathways and mechanisms of the transmission of chronic wasting disease in wild, captive, and farmed populations of cervids in the United States.
+
+  (B) *Requirements* — The arrangement under subparagraph (A) shall provide that the actual expenses incurred by the Academy in conducting the study under subparagraph (A) shall be paid by the Secretaries, subject to the availability of appropriations.
+
+(3) **Contents of the study** — The study under paragraph (2) shall—
+
+  (A) with respect to wild, captive, and farmed populations of cervids in the United States, identify—
+
+    (i)
+
+      (I) to the extent possible, the pathways and mechanisms for the transmission of chronic wasting disease within live cervid populations and cervid products, which may include pathways and mechanisms for transmission from Canada;
+
+      (II) the infection rates for each pathway and mechanism identified under subclause (I); and
+
+      (III) the relative frequency of transmission of each pathway and mechanism identified under subclause (I);
+
+    (ii)
+
+      (I) anthropogenic and environmental factors contributing to new chronic wasting disease emergence events;
+
+      (II) the development of geographical areas with increased chronic wasting disease prevalence; and
+
+      (III) the overall geographical patterns of chronic wasting disease distribution;
+
+    (iii) significant gaps in current scientific knowledge regarding the transmission pathways and mechanisms identified under clause (i)(I) and potential prevention, detection, and control methods identified under clause (v);
+
+    (iv) for prioritization the scientific research projects that will address the knowledge gaps identified under clause (iii), based on the likelihood that a project will contribute significantly to the prevention or control of chronic wasting disease; and
+
+    (v) potential prevention, detection, or control measures, practices, or technologies to be used to mitigate the transmission and spread of chronic wasting disease in wild, captive, and farmed populations of cervids in the United States;
+
+  (B) assess the effectiveness of the potential prevention, detection, or control measures, practices, or technologies identified under subparagraph (A)(v); and
+
+  (C) review and compare science-based best practices, standards, and guidance regarding the prevention, detection, and management of chronic wasting disease in wild, captive, and farmed populations of cervids in the United States that have been developed by—
+
+    (i) the National Chronic Wasting Disease Herd Certification Program of the Animal and Plant Health Inspection Service;
+
+    (ii) the National Wildlife Research Center of the Animal and Plant Health Inspection Service;
+
+    (iii) the United States Geological Survey;
+
+    (iv) State wildlife and agricultural agencies, in the case of practices, standards, and guidance that provide practical, science-based recommendations to State and Federal agencies for minimizing or eliminating the risk of transmission of chronic wasting disease in the United States; and
+
+    (v) industry or academia, in the case of any published guidance on practices that provide practical, science-based recommendations to cervid producers for minimizing or eliminating the risk of transmission of chronic wasting disease within or between herds.
+
+(4) **Deadline** — The study under paragraph (2) shall be completed not later than 180 days after the date on which funds are first made available for the study.
+
+(5) **Data sharing** — The Secretaries shall share with the Academy, as necessary to conduct the study under paragraph (2), subject to the avoidance of a violation of a privacy or confidentiality requirement and the protection of confidential or privileged commercial, financial, or proprietary information, data and access to databases and research information on chronic wasting disease under the jurisdiction of—
+
+  (A) the Animal and Plant Health Inspection Service; and
+
+  (B) the United States Geological Survey.
+
+(6) **Report** — Not later than 60 days after the date of completion of the study, the Secretaries shall submit to the Committee on Agriculture, Nutrition, and Forestry, the Committee on Energy and Natural Resources, and the Committee on Environment and Public Works of the Senate and the Committee on Agriculture and the Committee on Natural Resources of the House of Representatives a report that describes—
+
+  (A) the findings of the study; and
+
+  (B) any conclusions and recommendations that the Secretaries determine to be appropriate.
+
+**(d) Authorization of appropriations** There are authorized to be appropriated to carry out this section—
+
+(1) for the period of fiscal years 2021 through 2025, $5,000,000 to the Secretary of the Interior, acting through the Director of the United States Fish and Wildlife Service, to carry out administrative activities under subsection (b);
+
+(2) for fiscal year 2021, $1,200,000 to the Secretary of the Interior, acting through the Director of the United States Geological Survey, to carry out activities to fund research under subsection (c); and
+
+(3) for fiscal year 2021, $1,200,000 to the Secretary of Agriculture, acting through the Administrator of the Animal and Plant Health Inspection Service, to carry out activities to fund research under subsection (c).
+
+
 <a id="section-668"></a>
 ## § 668. Bald and golden eagles
 **(a) Prohibited acts; criminal penalties** Whoever, within the United States or any place subject to the jurisdiction thereof, without being permitted to do so as provided in this subchapter, shall knowingly, or with wanton disregard for the consequences of his act take, possess, sell, purchase, barter, offer to sell, purchase or barter, transport, export or import, at any time or in any manner any bald eagle commonly known as the American eagle or any golden eagle, alive or dead, or any part, nest, or egg thereof of the foregoing eagles, or whoever violates any permit or regulation issued pursuant to this subchapter, shall be fined not more than $5,000 or imprisoned not more than one year or both: Provided, That in the case of a second or subsequent conviction for a violation of this section committed after October 23, 1972, such person shall be fined not more than $10,000 or imprisoned not more than two years, or both: Provided further, That the commission of each taking or other act prohibited by this section with respect to a bald or golden eagle shall constitute a separate violation of this section: Provided further, That one-half of any such fine, but not to exceed $2,500, shall be paid to the person or persons giving information which leads to conviction: Provided further, That nothing herein shall be construed to prohibit possession or transportation of any bald eagle, alive or dead, or any part, nest, or egg thereof, lawfully taken prior to June 8, 1940, and that nothing herein shall be construed to prohibit possession or transportation of any golden eagle, alive or dead, or any part, nest, or egg thereof, lawfully taken prior to the addition to this subchapter of the provisions relating to preservation of the golden eagle.
@@ -657,6 +863,9 @@ Prior to the addition to this subchapter of the provisions relating to preservat
 1962—Pub. L. 87–884 extended prohibitions against the enumerated acts to the golden eagle and changed proviso by substituting “bald eagle”, “June 8, 1940” and “and that nothing in said sections shall be construed to prohibit possession or transportation of any golden eagle, alive or dead, or any part, nest, or egg thereof, lawfully taken prior to the addition to said sections of the provisions relating to preservation of the golden eagle” for “such eagle,” “the effective date of said sections” and “but the proof of such taking shall lie upon the accused in any prosecution under said sections”, respectively.
 
 1959—Pub. L. 86–70 struck out “except the Territory of Alaska,” after “subject to the jurisdiction thereof,”.
+
+#### Short Title
+Act June 8, 1940, ch. 278, 54 Stat. 250, which is classified to this subchapter, is popularly known as the “Bald and Golden Eagle Protection Act” and also as the “Bald Eagle Protection Act”.
 
 #### Transfer of Functions
 Enforcement functions of Secretary or other official in Department of the Interior related to compliance with this subchapter with respect to pre-construction, construction, and initial operation of transportation system for Canadian and Alaskan natural gas transferred to Federal Inspector, Office of Federal Inspector for Alaska Natural Gas Transportation System, until first anniversary of date of initial operation of Alaska Natural Gas Transportation System, see Reorg. Plan No. 1 of 1979, §§ 102(e), 203(a), 44 F.R. 33663, 33666, 93 Stat. 1373, 1376, effective July 1, 1979, set out in the Appendix to Title 5, Government Organization and Employees. Office of Federal Inspector for the Alaska Natural Gas Transportation System abolished and functions and authority vested in Inspector transferred to Secretary of Energy by section 3012(b) of Pub. L. 102–486, set out as an Abolition of Office of Federal Inspector note under [section 719e of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section719e&num=0&edition=prelim), Commerce and Trade. Functions and authority vested in Secretary of Energy subsequently transferred to Federal Coordinator for Alaska Natural Gas Transportation Projects by [section 720d(f) of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section720d/f&num=0&edition=prelim).
@@ -1155,6 +1364,7 @@ Pub. L. 102–154, title III, § 319, Nov. 13, 1991, 105 Stat. 1036, provided th
 | Cibola National Wildlife Refuge, California.—Pub. L. 109–127, Dec. 7, 2005, 119 Stat. 2548. |
 | Clarks River National Wildlife Refuge, Kentucky.—Pub. L. 104–208, div. A, title I, § 101(d) [title I], Sept. 30, 1996, 110 Stat. 3009–181, 3009–185. |
 | Columbia National Wildlife Refuge, Washington.—Pub. L. 106–291, title I, § 138, Oct. 11, 2000, 114 Stat. 949. |
+| Congressman Lester Wolff Oyster Bay National Wildlife Refuge, New York.—Pub. L. 116–110, Jan. 27, 2020, 134 Stat. 6. |
 | Cossatot National Wildlife Refuge, Arkansas.—Pub. L. 104–333, div. I, title III, § 305(h), Nov. 12, 1996, 110 Stat. 4130. |
 | Desert National Wildlife Range, Nevada.—Pub. L. 107–282, title III, § 301, Nov. 6, 2002, 116 Stat. 2006; Pub. L. 108–424, title VI, § 601, Nov. 30, 2004, 118 Stat. 2419. |
 | Detroit River International Wildlife Refuge (former Wyandotte National Wildlife Refuge), Michigan.—Pub. L. 87–119, Aug. 3, 1961, 75 Stat. 243; Pub. L. 107–91, Dec. 21, 2001, 115 Stat. 894; Pub. L. 108–23, May 19, 2003, 117 Stat. 704. |

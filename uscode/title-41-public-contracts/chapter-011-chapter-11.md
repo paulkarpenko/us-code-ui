@@ -146,9 +146,9 @@ Pub. L. 100–679, § 7, Nov. 17, 1988, 102 Stat. 4068, provided that: “(a) In
 
 (10) providing for a Government-wide award to recognize and promote excellence in officers and employees of the Federal Government serving in procurement-related positions;
 
-(11) developing policies, in consultation with the Administrator of the Small Business Administration, that ensure that small businesses, qualified HUBZone small business concerns (as defined in section 3(p) of the Small Business Act ([15 U.S.C. 632(p)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section632/p&num=0&edition=prelim))), small businesses owned and controlled by socially and economically disadvantaged individuals, and small businesses owned and controlled by women are provided with the maximum practicable opportunities to participate in procurements that are conducted for amounts below the simplified acquisition threshold;
+(11) developing policies, in consultation with the Administrator of the Small Business Administration, that ensure that small businesses, qualified HUBZone small business concerns (as defined in section 31(b) of the Small Business Act), small businesses owned and controlled by socially and economically disadvantaged individuals, and small businesses owned and controlled by women are provided with the maximum practicable opportunities to participate in procurements that are conducted for amounts below the simplified acquisition threshold;
 
-(12) developing policies that will promote achievement of goals for participation by small businesses, small business concerns owned and controlled by service-disabled veterans, qualified HUBZone small business concerns (as defined in section 3(p) of the Small Business Act ([15 U.S.C. 632(p)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section632/p&num=0&edition=prelim))), small businesses owned and controlled by socially and economically disadvantaged individuals, and small businesses owned and controlled by women; and
+(12) developing policies that will promote achievement of goals for participation by small businesses, small business concerns owned and controlled by service-disabled veterans, qualified HUBZone small business concerns (as defined in section 31(b) of the Small Business Act), small businesses owned and controlled by socially and economically disadvantaged individuals, and small businesses owned and controlled by women; and
 
 (13) completing action, as appropriate, on the recommendations of the Commission on Government Procurement.
 
@@ -172,9 +172,6 @@ Pub. L. 100–679, § 7, Nov. 17, 1988, 102 Stat. 4068, provided that: “(a) In
 
 ### Statutory Notes
 
-#### Amendment of Paragraphs (11) and (12)
-Pub. L. 115–91, div. A, title XVII, § 1701(a)(4)(F)(i), (j), Dec. 12, 2017, 131 Stat. 1796, 1803, provided that, effective Jan. 1, 2020, this section is amended by striking “section 3(p) of the Small Business Act ([15 U.S.C. 632(p)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section632/p&num=0&edition=prelim))” each place it appears and inserting “section 31(b) of the Small Business Act”. See 2017 Amendment note below.
-
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
@@ -186,13 +183,19 @@ Pub. L. 115–91, div. A, title XVII, § 1701(a)(4)(F)(i), (j), Dec. 12, 2017, 1
 
 In clause (12), the words “small business concerns owned and controlled by service-disabled veterans” are added to conform to section 15(g)(1) of the Small Business Act (15:644(g)(1)).
 
+#### References in Text
+Section 31(b) of the Small Business Act, referred to in subsec. (a)(11), (12), is classified to [section 657a(b) of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section657a/b&num=0&edition=prelim), Commerce and Trade.
+
 #### Amendments
-2017—Pars. (11), (12). Pub. L. 115–91, § 1701(a)(4)(F)(i), substituted “section 31(b) of the Small Business Act” for “section 3(p) of the Small Business Act ([15 U.S.C. 632(p)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section632/p&num=0&edition=prelim))”.
+2017—Subsec. (a)(11), (12). Pub. L. 115–91, § 1701(a)(4)(F)(i), substituted “section 31(b) of the Small Business Act” for “section 3(p) of the Small Business Act ([15 U.S.C. 632(p)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section632/p&num=0&edition=prelim))”.
 
 2011—Subsec. (a)(5). Pub. L. 112–81 amended par. (5) generally. Prior to amendment, par. (5) related to the purposes of the activities of the Federal Acquisition Institute.
 
 #### Effective Date of 2017 Amendment
 Amendment by Pub. L. 115–91 effective Jan. 1, 2020, see section 1701(j) of Pub. L. 115–91, set out as a note under [section 657a of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section657a&num=0&edition=prelim), Commerce and Trade.
+
+#### Revision to the Federal Procurement Data System
+Pub. L. 116–92, div. A, title VIII, § 806(b), Dec. 20, 2019, 133 Stat. 1485, provided that: “Not later than 180 days after the date of the enactment of this Act [Dec. 20, 2019], the Administrator of General Services, in coordination with the Administrator for Federal Procurement Policy, shall direct appropriate revisions to the Federal procurement data system established pursuant to [section 1122(a)(4) of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section1122/a/4&num=0&edition=prelim), United States Code (or any successor system), to facilitate the collection of complete, timely, and reliable data on the source selection processes used by Federal agencies for the contract actions being reported in the system. The Administrator of General Services shall ensure that data are collected— “(1) at a minimum, on the usage of the lowest price technically acceptable contracting methods and best value contracting methods process; and “(2) on all applicable contracting actions, including task orders or delivery orders issued under indefinite delivery-indefinite quantity contracts.”
 
 #### Procurement Administrative Lead Time Definition and Plan
 Pub. L. 115–232, div. A, title VIII, § 878, Aug. 13, 2018, 132 Stat. 1908, provided that: “(a) In General.—Not later than 180 days after the date of the enactment of this Act [Aug. 13, 2018], the Administrator for Federal Procurement Policy shall develop, make available for public comment, and finalize—“(1) a definition of the term ‘Procurement administrative lead time’ or ‘PALT’, to be applied Government-wide, that describes the amount of time from the date on which a solicitation for a contract or task order is issued to the date of an initial award of the contract or task order; and “(2) a plan for measuring and publicly reporting data on PALT for Federal Government contracts and task orders in amounts greater than the simplified acquisition threshold. “(b) Requirement for Definition.—Unless the Administrator determines otherwise, the amount of time in the definition of PALT developed under subsection (a) shall—“(1) begin on the date on which an initial solicitation is issued by a Federal department or agency for a contract or task order; and “(2) end on the date of the award of the contract or task order. “(c) Coordination.—In developing the definition of PALT, the Administrator shall coordinate with—“(1) the senior procurement executives of Federal agencies; “(2) the Secretary of Defense; and “(3) the Administrator of the General Services Administration on modifying the existing data system of the Federal Government to determine the date on which the initial solicitation is issued. “(d) Use of Existing Procurement Data System.—In developing the plan for measuring and publicly reporting data on PALT required by subsection (a), the Administrator shall, to the maximum extent practicable, rely on the information contained in the Federal procurement data system established pursuant to [section 1122(a)(4) of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section1122/a/4&num=0&edition=prelim), United States Code, including any modifications to that system.”

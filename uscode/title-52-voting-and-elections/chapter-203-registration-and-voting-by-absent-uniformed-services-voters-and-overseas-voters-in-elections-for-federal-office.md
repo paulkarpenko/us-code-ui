@@ -4,7 +4,7 @@ chapter: '203'
 heading: >-
   REGISTRATION AND VOTING BY ABSENT UNIFORMED SERVICES VOTERS AND OVERSEAS
   VOTERS IN ELECTIONS FOR FEDERAL OFFICE
-section_count: 11
+section_count: 12
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title52&num=0&edition=prelim
 ---
@@ -121,6 +121,21 @@ Section 1. The Secretary of Defense is hereby designated as the “Presidential 
 Sec. 2. In order to effectuate the purposes of the Act, the Secretary of Defense is hereby authorized to delegate any or all of the functions, responsibilities, powers, authority, or discretion devolving upon him in consequence of this Order to any person or persons within the Department of Defense.
 
 Ronald Reagan.
+
+
+<a id="section-20301a"></a>
+## § 20301a. Duties of Secretary under Uniformed and Overseas Citizens Absentee Voting Act
+**(a) Ensuring ability of absent uniformed services voters serving at diplomatic and consular posts to receive and transmit balloting materials** In carrying out the Secretary’s duties as the Presidential designee under the Uniformed and Overseas Citizens Absentee Voting Act ([52 U.S.C. 20301](./chapter-203-registration-and-voting-by-absent-uniformed-services-voters-and-overseas-voters-in-elections-for-federal-office.md#section-20301) et seq.), the Secretary shall take such actions as may be necessary, feasible, and practical to ensure that a uniformed services voter under such Act who is absent from the United States by reason of active duty or service at a diplomatic and consular post of the United States is able to receive and transmit balloting materials in the same manner and with the same rights and protections as a uniformed services voter under such Act who is absent from the United States by reason of active duty or service at a military installation.
+
+**(b) Effective date** This section shall apply with respect to elections held on or after January 1, 2021.
+
+### Statutory Notes
+
+#### References in Text
+The Uniformed and Overseas Citizens Absentee Voting Act, referred to in subsec. (a), is Pub. L. 99–410, Aug. 28, 1986, 100 Stat. 924, which is classified principally to this chapter. For complete classification of this Act to the Code, see Tables.
+
+#### Codification
+Section was enacted as part of the William M. (Mac) Thornberry National Defense Authorization Act for Fiscal Year 2021, and not as part of title I of the Uniformed and Overseas Citizens Absentee Voting Act which comprises this chapter.
 
 
 <a id="section-20302"></a>
@@ -547,7 +562,7 @@ Section was formerly classified to [section 1973ff–4 of Title 42](https://usco
 
 (3) A detailed description of the specific steps taken towards the implementation of voter registration assistance for absent uniformed services voters under [section 1566a of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1566a&num=0&edition=prelim).
 
-**(b) Annual report on effectiveness of activities and utilization of certain procedures** Not later than March 31 of each year, the Presidential designee shall transmit to the President and to the relevant committees of Congress a report containing the following information:
+**(b) Biennial report on effectiveness of activities and utilization of certain procedures** Not later than September 30 of each odd-numbered year, the Presidential designee shall transmit to the President and to the relevant committees of Congress a report containing the following information with respect to the Federal elections held during the preceding calendar year:
 
 (1) An assessment of the effectiveness of activities carried out under [section 20305 of this title](./chapter-203-registration-and-voting-by-absent-uniformed-services-voters-and-overseas-voters-in-elections-for-federal-office.md#section-20305), including the activities and actions of the Federal Voting Assistance Program of the Department of Defense, a separate assessment of voter registration and participation by absent uniformed services voters, a separate assessment of voter registration and participation by overseas voters who are not members of the uniformed services, and a description of the cooperation between States and the Federal Government in carrying out such section.
 
@@ -557,7 +572,7 @@ Section was formerly classified to [section 1973ff–4 of Title 42](https://usco
 
   (B) The number of absent uniformed services voters who utilized voter registration assistance provided under such section.
 
-(3) In the case of a report submitted under this subsection in the year following a year in which a regularly scheduled general election for Federal office is held, a description of the utilization of the procedures for the collection and delivery of marked absentee ballots established pursuant to [section 20304 of this title](./chapter-203-registration-and-voting-by-absent-uniformed-services-voters-and-overseas-voters-in-elections-for-federal-office.md#section-20304), which shall include the number of marked absentee ballots collected and delivered under such procedures and the number of such ballots which were not delivered by the time of the closing of the polls on the date of the election (and the reasons such ballots were not so delivered).
+(3) A description of the utilization of the procedures for the collection and delivery of marked absentee ballots established pursuant to [section 20304 of this title](./chapter-203-registration-and-voting-by-absent-uniformed-services-voters-and-overseas-voters-in-elections-for-federal-office.md#section-20304), which shall include the number of marked absentee ballots collected and delivered under such procedures and the number of such ballots which were not delivered by the time of the closing of the polls on the date of the election (and the reasons such ballots were not so delivered).
 
 **(c) Definitions** In this section:
 
@@ -578,6 +593,11 @@ This Act, referred to in subsec. (a)(2)(C), is Pub. L. 99–410, Aug. 28, 1986, 
 
 #### Codification
 Section was formerly classified to [section 1973ff–4a of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1973ff–4a&num=0&edition=prelim), The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
+
+#### Amendments
+2021—Subsec. (b). Pub. L. 116–283, § 595(a), (b)(1), in heading, substituted “Biennial report” for “Annual report” and, in introductory provisions, substituted “September 30 of each odd-numbered year” for “March 31 of each year” and “the following information with respect to the Federal elections held during the preceding calendar year” for “the following information”.
+
+Subsec. (b)(3). Pub. L. 116–283, § 595(b)(2), substituted “A description” for “In the case of a report submitted under this subsection in the year following a year in which a regularly scheduled general election for Federal office is held, a description”.
 
 #### Termination of Reporting Requirements
 For termination, effective Dec. 31, 2021, of provisions in subsec. (b) of this section requiring submittal of annual report to Congress, see section 1061 of Pub. L. 114–328, set out as a note under [section 111 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section111&num=0&edition=prelim), Armed Forces.

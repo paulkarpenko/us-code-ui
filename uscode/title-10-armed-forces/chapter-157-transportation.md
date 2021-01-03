@@ -7,20 +7,64 @@ source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10&num=0&edition=prelim
 ---
 <a id="section-2631"></a>
-## § 2631. Supplies: preference to United States vessels
-**(a)** Only vessels of the United States or belonging to the United States may be used in the transportation by sea of supplies bought for the Army, Navy, Air Force, or Marine Corps. However, if the President finds that the freight charged by those vessels is excessive or otherwise unreasonable, contracts for transportation may be made as otherwise provided by law. Charges made for the transportation of those supplies by those vessels may not be higher than the charges made for transporting like goods for private persons.
+## § 2631. Preference for United States vessels in transporting supplies by sea
+**(a) In General.—** Supplies bought for the Army, Navy, Air Force, Marine Corps, or Space Force, or for a Defense Agency, or otherwise transported by the Department of Defense, may only be transported by sea in—
 
-**(b)**
+(1) a vessel belonging to the United States; or
 
-(1) In each request for proposals to enter into a time-charter contract for the use of a vessel for the transportation of supplies under this section, the Secretary of Defense shall require that any reflagging or repair work on a vessel for which a proposal is submitted in response to the request for proposals be performed in the United States (including any territory of the United States).
+(2) a vessel of the United States (as such term is defined in [section 116 of title 46](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section116&num=0&edition=prelim)).
 
-(2) In paragraph (1), the term “reflagging or repair work” means work performed on a vessel—
+**(b) Waiver and Notification.—**
 
-  (A) to enable the vessel to meet applicable standards to become a vessel of the United States; or
+(1) The Secretary of Defense may waive the requirement under subsection (a) if such a vessel is—
 
-  (B) to convert the vessel to a more useful military configuration.
+  (A) not available at a fair and reasonable rate for commercial vessels of the United States; or
 
-(3) The Secretary of Defense may waive the requirement described in paragraph (1) if the Secretary determines that such waiver is critical to the national security of the United States. The Secretary shall immediately notify the Congress of any such waiver and the reasons for such waiver.
+  (B) otherwise not available.
+
+(2) At least once each fiscal year, the Secretary of Defense shall submit, in writing, to the appropriate congressional committees a notice of any waiver granted under this subsection and the reasons for such waiver.
+
+**(c) Requirements for Reflagging or Repair Work.—**
+
+(1) In each request for proposals to enter into a time-charter contract for the use of a vessel for the transportation of supplies under this section, the Secretary of Defense shall require that—
+
+  (A) any reflagging or repair work on a vessel for which a proposal is submitted in response to the request for proposals be performed in the United States (including any territory of the United States); and
+
+  (B) any corrective and preventive maintenance or repair work on a vessel under contract pursuant to this section relevant to the purpose of such contract be performed in the United States (including any territory of the United States) for the duration of the contract, to the greatest extent practicable.
+
+(2) The Secretary of Defense may waive a requirement under paragraph (1) if the Secretary determines that such waiver is critical to the national security of the United States. The Secretary shall immediately submit, in writing, to the appropriate congressional committees a notice of any waiver granted under this paragraph and the reasons for such waiver.
+
+(3) In this subsection:
+
+  (A) The term “reflagging or repair work” means work performed on a vessel—
+
+    (i) to enable the vessel to meet applicable standards to become a vessel of the United States; or
+
+    (ii) to convert the vessel to a more useful military configuration.
+
+  (B) The term “corrective and preventive maintenance or repair” means—
+
+    (i) maintenance or repair actions performed as a result of a failure in order to return or restore equipment to acceptable performance levels; and
+
+    (ii) scheduled maintenance or repair actions to prevent or discover functional failures.
+
+**(d) Compliance.—** The Secretary of Defense shall ensure that contracting officers of the Department of Defense award contracts under this section to responsible offerors and monitor and ensure compliance with the requirements of this section. The Secretary shall—
+
+(1) ensure that timely, accurate, and complete information on contractor performance under this section is included in any contractor past performance database used by an executive agency; and
+
+(2) exercise appropriate contractual rights and remedies against contractors who fail to comply with this section, or subchapter I of chapter 553 of title 46, as determined by the Secretary of Transportation under such subchapter, including by—
+
+  (A) determining that a contractor is ineligible for an award of such a contract; or
+
+  (B) terminating such a contract or suspension or debarment of the contractor for such contract.
+
+**(e) Appropriate Congressional Committees Defined.—** In this section, the term “appropriate congressional committees” means—
+
+(1) the Committees on Armed Services of the Senate and the House of Representatives;
+
+(2) the Committee on Transportation and Infrastructure of the House of Representatives; and
+
+(3) the Committee on Commerce, Science, and Transportation of the Senate.
 
 ### Statutory Notes
 
@@ -32,6 +76,14 @@ source: >-
 The word “supplies” is substituted for the words “coal, provisions, fodder, or supplies of any description”, in 10:1365 and 34:528. The words “pursuant to law” and “the use of”, in 10:1365 and 34:528, are omitted as surplusage. The words “as otherwise provided by law”, in 10:1365 and 34:528, are used rather than the words “under the law as it now exists”, in section 1 of the Act of April 28, 1904, ch. 1766, 33 Stat. 518. The word “may” is substituted for the word “shall”. The words “However, if” are substituted for the words “unless * * * in which case”. The words “private persons” are substituted for the words “private parties or companies”, in 10:1365 and 34:528. The last sentence is substituted for the proviso of 10:1365 and 34:528.
 
 #### Amendments
+2021—Pub. L. 116–283, § 1024(a)(1), amended section generally. Prior to amendment, section related to preference to United States vessels for transportation by sea of supplies.
+
+Subsec. (a). Pub. L. 116–283, § 924(b)(3)(GG), which directed amendment of subsec. (a) by substituting “Marine Corps, or Space Force” for “or Marine Corps”, was executed by making the substitution in subsec. (a) as amended by section 1024(a)(1) of Pub. L. 116–283, to reflect the probable intent of Congress.
+
+2019—Subsec. (a). Pub. L. 116–92, § 1033(1), inserted “or for a Defense Agency” after “Marine Corps” in first sentence.
+
+Subsec. (b)(2) to (4). Pub. L. 116–92, § 1033(2), added par. (2), redesignated former pars. (2) and (3) as (3) and (4), respectively, and in par. (4), substituted “a requirement under paragraph (1) or (2)” for “the requirement described in paragraph (1)”.
+
 1993—Pub. L. 103–160 designated existing provisions as subsec. (a) and added subsec. (b).
 
 #### Effective Date of 1993 Amendment
@@ -105,7 +157,7 @@ Ronald Reagan.
 
 (2) maintain and operate that equipment by—
 
-  (A) enlisted members of the Army, Navy, Air Force, Marine Corps, or the Coast Guard, as the case may be;
+  (A) enlisted members of the Army, Navy, Air Force, Marine Corps, Space Force, or the Coast Guard, as the case may be;
 
   (B) employees of the department concerned; and
 
@@ -144,6 +196,8 @@ In subsection (c), the introductory clause is substituted for the words “The e
 In subsection (d), the words “Treasury as” are substituted for the words “Treasury of the United States to the credit of”.
 
 #### Amendments
+2021—Subsec. (c)(2)(A). Pub. L. 116–283 substituted “Marine Corps, Space Force,” for “Marine Corps,”.
+
 1987—Subsec. (a). Pub. L. 100–180, § 318(a), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “Whenever the Secretary of a military department determines that it is necessary for the effective conduct of the affairs of that department, he may, at reasonable rates of fare under regulations to be prescribed by the Secretary of Defense, provide assured and adequate transportation by motor vehicle or water carrier—
 
 “(1) among places on any military installation (including any subinstallation thereof) under the jurisdiction of that department; and
@@ -533,11 +587,13 @@ Section effective Oct. 1, 1985, see section 1404 of Pub. L. 98–525, set out as
 
 (1) The terms “air carrier”, “aircraft”, “air transportation”, and “charter air transportation” have the meanings given such terms by [section 40102(a) of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section40102/a&num=0&edition=prelim).
 
-(2) The term “members of the armed forces” means members of the Army, Navy, Air Force, and Marine Corps.
+(2) The term “members of the armed forces” means members of the Army, Navy, Air Force, Marine Corps, and Space Force.
 
 ### Statutory Notes
 
 #### Amendments
+2021—Subsec. (j)(2). Pub. L. 116–283 substituted “Marine Corps, and Space Force” for “and Marine Corps”.
+
 1997—Subsecs. (h) to (j). Pub. L. 105–85 added subsec. (h) and redesignated former subsecs. (h) and (i) as (i) and (j), respectively.
 
 1994—Subsecs. (a)(1)(A), (d)(1)(B)(i). Pub. L. 103–272, § 5(b)(1)(A), substituted “chapter 447 of title 49” for “title VI of the Federal Aviation Act of 1958 (49 U.S.C. App. 1421 et seq.)”.
@@ -647,7 +703,7 @@ Subsec. (d). Pub. L. 106–65, § 1066(a)(24)(B), struck out heading and text of
 
   (A) the basis for the determination;
 
-  (B) any additional categories of individuals to be eligible for the travel program under subsection (c)(5); 11 See References in Text note below.
+  (B) any additional categories of individuals to be eligible for the travel program under subsection (c)(6);
 
   (C) how the Secretary will ensure that the travel program is established and operated in compliance with the conditions specified in subsection (b); and
 
@@ -715,10 +771,9 @@ Subsec. (d). Pub. L. 106–65, § 1066(a)(24)(B), struck out heading and text of
 
 ### Statutory Notes
 
-#### References in Text
-Subsection (c)(5), referred to in subsec. (a)(3)(B), was redesignated subsec. (c)(6) of this section by Pub. L. 115–232, div. A, title VI, § 624(a), Aug. 13, 2018, 132 Stat. 1801.
-
 #### Amendments
+2021—Subsec. (a)(3)(B). Pub. L. 116–283 substituted “subsection (c)(6)” for “subsection (c)(5)”.
+
 2018—Subsec. (c)(4) to (6). Pub. L. 115–232, § 624(a), added par. (4) and redesignated former pars. (4) and (5) as (5) and (6), respectively.
 
 Subsecs. (f), (g). Pub. L. 115–232, § 624(b), added subsec. (f) and redesignated former subsec. (f) as (g).
@@ -745,13 +800,15 @@ Pub. L. 114–328, div. A, title III, § 352, Dec. 23, 2016, 130 Stat. 2089, pro
 
 (6) For military transportation services provided to a Department of Defense contractor when transporting supplies that are for, or destined for, a Department of Defense entity.
 
-**(b) Termination of Authority for Certain Categories of Transportation.—** The provisions of paragraphs (3), (4), (5), and (6) of subsection (a) shall apply only to military transportation services provided before October 1, 2019.
+**(b) Termination of Authority for Certain Categories of Transportation.—** The provisions of paragraphs (3), (4), (5), and (6) of subsection (a) shall apply only to military transportation services provided before October 1, 2024.
 
 **(c) Definition.—** In this section, the term “Department of Defense reimbursement rate” means the amount charged a component of the Department of Defense by another component of the Department of Defense.
 
 ### Statutory Notes
 
 #### Amendments
+2019—Subsec. (b). Pub. L. 116–92 substituted “October 1, 2024” for “October 1, 2019”.
+
 2017—Subsec. (a)(3). Pub. L. 115–91, § 1081(f), which directed substitution of “September 30” for “October 28” in the amendment made by Pub. L. 113–291, § 1044(a)(2)(A), was executed by making the substitution the second place appearing in the quoted language to be stricken by that amendment, to reflect the probable intent of Congress. See 2014 Amendment note below.
 
 2014—Pub. L. 113–291, § 1044(c)(1), amended section catchline generally, substituting “Transportation services provided to certain non-Department of Defense agencies and entities: use of Department of Defense reimbursement rate” for “Transportation services provided to certain other agencies: use of Department of Defense reimbursement rate”.
@@ -913,6 +970,15 @@ Subsec. (g). Pub. L. 108–136, § 1031(a)(26)(B), struck out heading and text o
 **(d) Inapplicability to Coast Guard and NASA.—** This section does not apply to the Coast Guard when it is not operating as a service in the Navy, nor to the National Aeronautics and Space Administration.
 
 ### Statutory Notes
+
+#### Amendment of Subsection (c)(1)
+Pub. L. 116–283, div. A, title XVIII, §§ 1801(d), 1806(e)(1)(B), Jan. 1, 2021, 134 Stat. 4151, 4155, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, subsection (c)(1) of this section is amended by striking “section 2302(1)” and inserting “section 3004”. See 2021 Amendment note below.
+
+#### Amendments
+2021—Subsec. (c)(1). Pub. L. 116–283 substituted “section 3004” for “section 2302(1)”.
+
+#### Effective Date of 2021 Amendment
+Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
 
 #### Transfer of Functions
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).

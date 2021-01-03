@@ -2,7 +2,7 @@
 title: 25
 chapter: '18'
 heading: INDIAN HEALTH CARE
-section_count: 165
+section_count: 166
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25&num=0&edition=prelim
 ---
@@ -212,6 +212,9 @@ Amendment by Pub. L. 111–148 is based on section 102 of title I of S. 1790, On
 2010—Pub. L. 111–148 redesignated subsecs. (a), (b), (c), and (d) as pars. (1), (3), (4), and (5), respectively, realigned margins, and added par. (2).
 
 1992—Pub. L. 102–573 substituted “finds the following:” for “finds that—” in introductory provisions and struck out last sentence of subsec. (d) which compared death rates of Indians to those of all Americans for tuberculosis, influenza and pneumonia, and compared death rates for infants, subsec. (e) which related to threat to fulfillment of Federal responsibility to Indians posed by low health status of American Indian people, subsec. (f) which enumerated causes imperiling improvements in Indian health, and subsec. (g) which related to confidence of Indian people in Federal Indian health services.
+
+#### Short Title of 2021 Amendment
+Pub. L. 116–311, § 1, Jan. 5, 2021, 134 Stat. 4927, provided that: “This Act [amending [section 1645 of this title](./chapter-018-indian-health-care.md#section-1645)] may be cited as the ‘Proper and Reimbursed Care for Native Veterans Act’ or the ‘PRC for Native Veterans Act’.”
 
 #### Short Title of 2010 Amendment
 Section 1(a) of S. 1790, One Hundred Eleventh Congress, as reported by the Committee on Indian Affairs of the Senate in Dec. 2009, which was enacted into law by Pub. L. 111–148, title X, § 10221(a), Mar. 23, 2010, 124 Stat. 935, provided that: “This Act [probably means S. 1790 as enacted into law by Pub. L. 111–148, enacting subchapter V–A of this chapter, sections 1616p to 1616r, 1621y, 1638a, 1638e to 1638g, 1647 to 1647d, 1660d to 1660h, 1663, 1663a, 1675, 1678, 1678a, 1679, and 1680p to 1680v of this title, amending sections 1601 to 1603, 1615, 1616l, 1621, 1621a, 1621c to 1621f, 1621h, 1621j to 1621m, 1621o to 1621q, 1621t to 1621v, 1631, 1637, 1638b, 1641, 1642, 1644, 1645, 1652, 1659, 1660b, 1661, 1680b, 1680c, 1680l, and 1680o of this title and sections 1395l, 1395qq, 11705, 11706, 11709, and 11711 of Title 42, The Public Health and Welfare, repealing sections 1616p, 1621w, 1638a, 1647, 1660d, 1663, 1675, 1678, 1679, and 1680k of this title, and enacting provisions set out as a note under [section 11705 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section11705&num=0&edition=prelim)] may be cited as the ‘Indian Health Care Improvement Reauthorization and Extension Act of 2009’.”
@@ -902,9 +905,9 @@ Subsec. (b)(5). Pub. L. 102–573, § 105(3), substituted “maintain” for “
 
 (2)
 
-  (A) be eligible for, or hold, an appointment as a commissioned officer in the Regular or Reserve Corps of the Public Health Service;
+  (A) be eligible for, or hold, an appointment as a commissioned officer in the Regular or Reserve Corps 22 See Change of Name note below. of the Public Health Service;
 
-  (B) be eligible for selection for civilian service in the Regular or Reserve Corps of the Public Health Service;
+  (B) be eligible for selection for civilian service in the Regular or Reserve Corps 2 of the Public Health Service;
 
   (C) meet the professional standards for civil service employment in the Indian Health Service; or
 
@@ -914,7 +917,7 @@ Subsec. (b)(5). Pub. L. 102–573, § 105(3), substituted “maintain” for “
 
 **(c) Application and contract forms**
 
-(1) In disseminating application forms and contract forms to individuals desiring to participate in the Loan Repayment Program, the Secretary shall include with such forms a fair summary of the rights and liabilities of an individual whose application is approved (and whose contract is accepted) by the Secretary, including in the summary a clear explanation of the damages to which the United States is entitled under subsection (l) in the case of the individual’s breach of the contract. The Secretary shall provide such individuals with sufficient information regarding the advantages and disadvantages of service as a commissioned officer in the Regular or Reserve Corps of the Public Health Service or a civilian employee of the Indian Health Service to enable the individual to make a decision on an informed basis.
+(1) In disseminating application forms and contract forms to individuals desiring to participate in the Loan Repayment Program, the Secretary shall include with such forms a fair summary of the rights and liabilities of an individual whose application is approved (and whose contract is accepted) by the Secretary, including in the summary a clear explanation of the damages to which the United States is entitled under subsection (l) in the case of the individual’s breach of the contract. The Secretary shall provide such individuals with sufficient information regarding the advantages and disadvantages of service as a commissioned officer in the Regular or Reserve Corps 2 of the Public Health Service or a civilian employee of the Indian Health Service to enable the individual to make a decision on an informed basis.
 
 (2) The application form, contract form, and all other information furnished by the Secretary under this section shall be written in a manner calculated to be understood by the average individual applying to participate in the Loan Repayment Program.
 
@@ -1141,6 +1144,9 @@ Subsec. (k). Pub. L. 102–573, § 106(h), amended subsec. (k) generally. Prior 
 Subsec. (n). Pub. L. 102–573, § 106(i), amended subsec. (n) generally. Prior to amendment, subsec. (n) consisted of pars. (1) and (2) requiring submission of annual reports to Congress by the first of March and the first of July of each year.
 
 Subsec. (o). Pub. L. 102–573, § 117(b)(3), struck out subsec. (o) which read as follows: “There are authorized to be appropriated such sums as may be necessary for each fiscal year to carry out the provisions of this section.”
+
+#### Change of Name
+Reference to Reserve Corps of the Public Health Service deemed to be a reference to the Ready Reserve Corps, see [section 402(c)(3) of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section402/c/3&num=0&edition=prelim), The Public Health and Welfare.
 
 #### Effective Date of 1992 Amendment
 Pub. L. 102–573, title I, § 106(g)(2), Oct. 29, 1992, 106 Stat. 4537, provided that: “The amendment made by paragraph (1) [amending this section] shall apply only with respect to contracts under section 108 of the Indian Health Care Improvement Act [this section] entered into on or after the date of enactment of this Act [Oct. 29, 1992].”
@@ -1492,7 +1498,7 @@ Subsec. (e). Pub. L. 102–573, § 117(b)(8), struck out subsec. (e) which autho
 
 <a id="section-1616m"></a>
 ## § 1616m. Retention bonus
-**(a) Eligibility** The Secretary may pay a retention bonus to any physician or nurse employed by, or assigned to, and serving in, the Service either as a civilian employee or as a commissioned officer in the Regular or Reserve Corps of the Public Health Service who—
+**(a) Eligibility** The Secretary may pay a retention bonus to any physician or nurse employed by, or assigned to, and serving in, the Service either as a civilian employee or as a commissioned officer in the Regular or Reserve Corps 11 See Change of Name note below. of the Public Health Service who—
 
 (1) is assigned to, and serving in, a position included in the list established under [section 1616i(b)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section1616i/b/1&num=0&edition=prelim) for which recruitment or retention of personnel is difficult,
 
@@ -1531,6 +1537,9 @@ The Indian Self-Determination Act, referred to in subsec. (f), is title I of Pub
 
 #### Amendments
 1992—Subsecs. (b) to (f). Pub. L. 102–573 added subsec. (b), redesignated former subsecs. (b) to (e) as (c) to (f), respectively, and amended subsec. (f) generally, substituting provisions relating to physicians and nurses employed under the Indian Self-Determination Act for provisions which authorized appropriations for fiscal years 1990 to 1992.
+
+#### Change of Name
+Reference to Reserve Corps of the Public Health Service deemed to be a reference to the Ready Reserve Corps, see [section 402(c)(3) of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section402/c/3&num=0&edition=prelim), The Public Health and Welfare.
 
 
 <a id="section-1616n"></a>
@@ -2954,6 +2963,9 @@ Amendment by Pub. L. 111–148 is based on section 133 of title I of S. 1790, On
 
 1994—Subsec. (d)(4). Pub. L. 103–437 substituted “Committee on Indian” for “Select Committee on Indian” and “Natural Resources” for “Interior and Insular Affairs”.
 
+#### Coverage of Testing for COVID–19 at No Cost Sharing for Indians Receiving Purchased/Referred Care
+Pub. L. 116–127, div. F, § 6007, Mar. 18, 2020, 134 Stat. 208, provided that: “The Secretary of Health and Human Services shall cover, without the imposition of any cost sharing requirements, the cost of providing any COVID–19 related items and services as described in paragraph (1) of section 6001(a) [of Pub. L. 116–127, [42 U.S.C. 1320b–5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1320b–5&num=0&edition=prelim) note] (or the administration of such products) or visits described in paragraph (2) of such section furnished during any portion of the emergency period defined in paragraph (1)(B) of section 1135(g) of the Social Security Act ([42 U.S.C. 320b–5(g)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section320b–5/g&num=0&edition=prelim) [1320b–5(g)]) beginning on or after the date of the enactment of this Act [Mar. 18, 2020] to Indians (as defined in section 4 of the Indian Health Care Improvement Act ([25 U.S.C. 1603](./chapter-018-indian-health-care.md#section-1603))) receiving health services through the Indian Health Service, including through an Urban Indian Organization, regardless of whether such items or services have been authorized under the purchased/referred care system funded by the Indian Health Service or is covered as a health service of the Indian Health Service.”
+
 
 <a id="section-1621u"></a>
 ## § 1621u. Contract health services payment study
@@ -3030,6 +3042,9 @@ Amendment by Pub. L. 111–148 is based on section 135 of title I of S. 1790, On
 
 #### Amendments
 2010—Pub. L. 111–148 amended section generally. Prior to amendment, section related to absence of patient liability for payment of charges or costs for contract health care services and requirement that Secretary notify contract care provider and patient of absence of patient’s liability.
+
+#### Rule of Construction
+Pub. L. 116–260, div. BB, title I, § 102(d)(3), Dec. 27, 2020, 134 Stat. 2797, provided that: “Nothing in this title [probably means “this section”, enacting sections 9816 and 9822 of Title 26, Internal Revenue Code, sections 1185e and 1185k of Title 29, Labor, and sections 300gg–111 and 300gg–117 of Title 42, The Public Health and Welfare, amending [section 8902 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section8902&num=0&edition=prelim), Government Organization and Employees, [section 223 of Title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section223&num=0&edition=prelim), and sections 300gg–19a, 300gg–21, 300gg–22, 300gg–23, and 18011 of Title 42, and enacting provisions set out as notes under [section 8902 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section8902&num=0&edition=prelim) and [section 223 of Title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section223&num=0&edition=prelim)], including the amendments made by this title [probably means “this section”] may be construed as modifying, reducing, or eliminating— “(A) the protections under section 222 of the Indian Health Care Improvement Act ([25 U.S.C. 1621u](./chapter-018-indian-health-care.md#section-1621u)) and under subpart I of part 136 of title 42, Code of Federal Regulations (or any successor regulation), against payment liability for a patient who receives contract health services that are authorized by the Indian Health Service; or “(B) the requirements under section 1866(a)(1)(U) of the Social Security Act ([42 U.S.C. 1395cc(a)(1)(U)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395cc/a/1/U&num=0&edition=prelim)).”
 
 
 <a id="section-1621y"></a>
@@ -4153,7 +4168,7 @@ Subsec. (c). Pub. L. 102–573, § 403(2), amended subsec. (c) generally. Prior 
 ## § 1647a. Sharing arrangements with Federal agencies
 **(a) Authority**
 
-(1) **In general** — The Secretary may enter into (or expand) arrangements for the sharing of medical facilities and services between the Service, Indian tribes, and tribal organizations and the Department of Veterans Affairs and the Department of Defense.
+(1) **In general** — The Secretary may enter into (or expand) arrangements for the sharing of medical facilities and services between the Service, Indian tribes, urban Indian organizations, and tribal organizations and the Department of Veterans Affairs and the Department of Defense.
 
 (2) **Consultation by Secretary required** — The Secretary may not finalize any arrangement between the Service and a Department described in paragraph (1) without first consulting with the Indian tribes which will be significantly affected by the arrangement.
 
@@ -4169,7 +4184,7 @@ Subsec. (c). Pub. L. 102–573, § 403(2), amended subsec. (c) generally. Prior 
 
 (5) the eligibility of any Indian who is a veteran to receive health services through the Department of Veterans Affairs.
 
-**(c) Reimbursement** The Service, Indian tribe, or tribal organization shall be reimbursed by the Department of Veterans Affairs or the Department of Defense (as the case may be) where services are provided through the Service, an Indian tribe, or a tribal organization to beneficiaries eligible for services from either such Department, notwithstanding any other provision of law.
+**(c) Reimbursement** The Service, Indian tribe, urban Indian organization, or tribal organization shall be reimbursed by the Department of Veterans Affairs or the Department of Defense (as the case may be) where services are provided through the Service, an Indian tribe, an urban Indian organization, or a tribal organization to beneficiaries eligible for services from either such Department, notwithstanding any other provision of law, regardless of whether such services are provided directly by the Service, an Indian tribe, or tribal organization, through purchased/referred care, or through a contract for travel described in section 1621l(b) of this title.
 
 **(d) Construction** Nothing in this section may be construed as creating any right of a non-Indian veteran to obtain health services from the Service.
 
@@ -4181,6 +4196,12 @@ Amendment by Pub. L. 111–148 is based on section 154 of title I of S. 1790, On
 Section was formerly set out as a note under [section 1395qq of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395qq&num=0&edition=prelim), The Public Health and Welfare.
 
 #### Amendments
+2021—Subsec. (c). Pub. L. 116–311 inserted “, regardless of whether such services are provided directly by the Service, an Indian tribe, or tribal organization, through purchased/referred care, or through a contract for travel described in section 1621l(b) of this title” before period at end.
+
+2020—Subsec. (a)(1). Pub. L. 116–260, § 1113(1), inserted “urban Indian organizations,” before “and tribal organizations”.
+
+Subsec. (c). Pub. L. 116–260, § 1113(2), inserted “urban Indian organization,” before “or tribal organization” and “an urban Indian organization,” before “or a tribal organization”.
+
 2010—Pub. L. 111–148 amended section generally. Prior to amendment, section related to establishment of program for direct billing of medicare, medicaid, and other third party payors by Indian tribes, tribal organizations, and Alaska Native health organizations.
 
 2003—Subsec. (d)(1). Pub. L. 108–173 substituted “Centers for Medicare & Medicaid Services” for “Health Care Financing Administration” in introductory provisions.
@@ -4347,15 +4368,20 @@ Section 408 of Pub. L. 94–437 is based on section 156 of title I of S. 1790, O
 <a id="section-1651"></a>
 ## § 1651. Access to Federal insurance
 
-Notwithstanding the provisions of title 5, Executive order, or administrative regulation, an Indian tribe or tribal organization carrying out programs under the Indian Self-Determination and Education Assistance Act ([25 U.S.C. 450](./chapter-014-miscellaneous.md#section-450) et seq.) 11 See References in Text note below. or an urban Indian organization carrying out programs under subchapter IV of this chapter shall be entitled to purchase coverage, rights, and benefits for the employees of such Indian tribe or tribal organization, or urban Indian organization, under chapter 89 of title 5 and chapter 87 of such title if necessary employee deductions and agency contributions in payment for the coverage, rights, and benefits for the period of employment with such Indian tribe or tribal organization, or urban Indian organization, are currently deposited in the applicable Employee’s Fund under such title.
+Notwithstanding the provisions of title 5, Executive order, or administrative regulation, an Indian tribe or tribal organization carrying out programs under the Indian Self-Determination and Education Assistance Act ([25 U.S.C. 5301](./chapter-046-indian-self-determination-and-education-assistance.md#section-5301) et seq.) or the Tribally Controlled Schools Act of 1988 ([25 U.S.C. 2501](./chapter-027-tribally-controlled-school-grants.md#section-2501) et seq.) or an urban Indian organization carrying out programs under subchapter IV of this chapter shall be entitled to purchase coverage, rights, and benefits for the employees of such Indian tribe or tribal organization, or urban Indian organization, under chapter 89 of title 5 and chapter 87 of such title if necessary employee deductions and agency contributions in payment for the coverage, rights, and benefits for the period of employment with such Indian tribe or tribal organization, or urban Indian organization, are currently deposited in the applicable Employee’s Fund under such title.
 
 ### Statutory Notes
 
 #### References in Text
-The Indian Self-Determination and Education Assistance Act ([25 U.S.C. 450](./chapter-014-miscellaneous.md#section-450) et seq.), referred to in text, is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which was classified principally to subchapter II (§ 450 et seq.) of chapter 14 of this title prior to editorial reclassification as chapter 46 (§ 5301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 5301 of this title](./chapter-046-indian-self-determination-and-education-assistance.md#section-5301) and Tables.
+The Indian Self-Determination and Education Assistance Act, referred to in text, is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which is classified principally to chapter 46 (§ 5301 et seq.) of this title. For complete classification of this Act to the Code, see section 1 of Pub. L. 93–638, set out as a Short Title note under [section 5301 of this title](./chapter-046-indian-self-determination-and-education-assistance.md#section-5301) and Tables.
+
+The Tribally Controlled Schools Act of 1988, referred to in text, is part B (§§ 5201–5212) of title V of Pub. L. 100–297, Apr. 28, 1988, 102 Stat. 385, which is classified generally to chapter 27 (§ 2501 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 2501 of this title](./chapter-027-tribally-controlled-school-grants.md#section-2501) and Tables.
 
 #### Codification
 Section 409 of Pub. L. 94–437 is based on section 157 of title I of S. 1790, One Hundred Eleventh Congress, as reported by the Committee on Indian Affairs of the Senate in Dec. 2009, which was enacted into law by section 10221(a) of Pub. L. 111–148.
+
+#### Amendments
+2020—Pub. L. 116–260 substituted “([25 U.S.C. 5301](./chapter-046-indian-self-determination-and-education-assistance.md#section-5301) et seq.) or the Tribally Controlled Schools Act of 1988 ([25 U.S.C. 2501](./chapter-027-tribally-controlled-school-grants.md#section-2501) et seq.)” for “([25 U.S.C. 450](./chapter-014-miscellaneous.md#section-450) et seq.)”.
 
 
 <a id="section-1652"></a>
@@ -4573,7 +4599,7 @@ Subsec. (f)(5). Pub. L. 102–573, § 505(b)(1)(D), struck out par. (5) which au
 1990—Subsecs. (c) to (f). Pub. L. 101–630 added subsecs. (c) to (f).
 
 #### Facilities Assessment
-Pub. L. 101–630, title V, § 506(a), (b), Nov. 28, 1990, 104 Stat. 4566, provided that: “(a) Survey.—The Secretary shall conduct a survey of all facilities used by contractors under title V of the Indian Health Care Improvement Act [[25 U.S.C. 1651](./chapter-018-indian-health-care.md#section-1651) et seq.] and shall submit a report to the Congress on such survey not later than one year after the date of enactment of this Act [Nov. 28, 1990]. The report shall, at a minimum, contain the following information for each location:“(1) The extent to which the facility meets safety and building codes and, if direct care is provided, the extent of compliance with Joint Commission for Accreditation of Health Care Organizations (JCAHO) standards. “(2) The extent to which improvements, expansion, or relocation is necessary to meet program requirements, provide adequate services, or achieve building code compliance. “(3) Any lease restriction that would hamper accomplishment of needed improvement, expansion, or relocation. “(4) The term of the lease, if appropriate, the age of the structure, and the structure’s life expectancy with and without improvement. “(5) An assessment of the deficiencies of the facility. “(b) Report.—The report shall contain general recommendations for addressing the deficiencies of facilities in which programs funded under title V of the Indian Health Care Improvement Act [[25 U.S.C. 1651](./chapter-018-indian-health-care.md#section-1651) et seq.] are located and shall propose specific policies for accomplishing those recommendations.”
+Pub. L. 101–630, title V, § 506(a), (b), Nov. 28, 1990, 104 Stat. 4566, directed the Secretary to conduct a survey of all facilities used by contractors under title V of the Indian Health Care Improvement Act ([25 U.S.C. 1651](./chapter-018-indian-health-care.md#section-1651) et seq.) and submit a report to Congress on the survey not later than one year after Nov. 28, 1990, containing information for each location on safety and building codes, lease restrictions and requirements, and an assessment of any building deficiencies and recommendations for improvements.
 
 
 <a id="section-1657"></a>
@@ -4887,8 +4913,8 @@ This chapter, referred to in text, was in the original “this Act”, meaning P
 Section 515 of Pub. L. 94–437 is based on section 164 of title I of S. 1790, One Hundred Eleventh Congress, as reported by the Committee on Indian Affairs of the Senate in Dec. 2009, which was enacted into law by section 10221(a) of Pub. L. 111–148.
 
 
-<a id="section-1661"></a>
-## § 1661. Community Health Representatives
+<a id="section-1660i"></a>
+## § 1660i. Community Health Representatives
 
 The Secretary, acting through the Service, may enter into contracts with, and make grants to, urban Indian organizations for the employment of Indians trained as health service providers through the Community Health Representative Program under [section 1616 of this title](./chapter-018-indian-health-care.md#section-1616) in the provision of health care, health promotion, and disease prevention services to urban Indians.
 
@@ -4898,8 +4924,8 @@ The Secretary, acting through the Service, may enter into contracts with, and ma
 Section 516 of Pub. L. 94–437 is based on section 165 of title I of S. 1790, One Hundred Eleventh Congress, as reported by the Committee on Indian Affairs of the Senate in Dec. 2009, which was enacted into law by section 10221(a) of Pub. L. 111–148.
 
 
-<a id="section-1662"></a>
-## § 1662. Use of Federal Government facilities and sources of supply
+<a id="section-1661"></a>
+## § 1661. Use of Federal Government facilities and sources of supply
 **(a) In general** The Secretary may permit an urban Indian organization that has entered into a contract or received a grant pursuant to this subchapter, in carrying out the contract or grant, to use, in accordance with such terms and conditions for use and maintenance as are agreed on by the Secretary and the urban Indian organizations—
 
 (1) any existing facility under the jurisdiction of the Secretary;
@@ -4926,8 +4952,8 @@ Section 516 of Pub. L. 94–437 is based on section 165 of title I of S. 1790, O
 Section 517 of Pub. L. 94–437 is based on section 166 of title I of S. 1790, One Hundred Eleventh Congress, as reported by the Committee on Indian Affairs of the Senate in Dec. 2009, which was enacted into law by section 10221(a) of Pub. L. 111–148.
 
 
-<a id="section-1663"></a>
-## § 1663. Health information technology
+<a id="section-1662"></a>
+## § 1662. Health information technology
 
 The Secretary, acting through the Service, may make grants to urban Indian organizations under this subchapter for the development, adoption, and implementation of health information technology (as defined in [section 300jj of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section300jj&num=0&edition=prelim)), telemedicine services development, and related infrastructure.
 
@@ -4935,6 +4961,16 @@ The Secretary, acting through the Service, may make grants to urban Indian organ
 
 #### Codification
 Section 518 of Pub. L. 94–437 is based on section 166 of title I of S. 1790, One Hundred Eleventh Congress, as reported by the Committee on Indian Affairs of the Senate in Dec. 2009, which was enacted into law by section 10221(a) of Pub. L. 111–148.
+
+
+<a id="section-1663"></a>
+## § 1663. Deeming an Urban Indian organization and employees thereof to be a part of the public health service for the purposes of certain claims for personal injury
+
+[Section 5321(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5321/d&num=0&edition=prelim) shall apply—
+
+(1) to an Urban Indian organization to the same extent and in the same manner as such section applies to an Indian tribe, a tribal organization, and an Indian contractor; and
+
+(2) to the employees of an Urban Indian organization to the same extent and in the same manner as such section applies to employees of an Indian tribe, a tribal organization, or an Indian contractor.
 
 
 <a id="section-1663a"></a>
@@ -6608,7 +6644,7 @@ the Service shall, at the request of such Indian, render appropriate medical car
 “United States Bureau of Mines” substituted for “Bureau of Mines” in subsec. (d)(1) pursuant to section 10(b) of Pub. L. 102–285, set out as a note under [section 1 of Title 30](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title30-section1&num=0&edition=prelim), Mineral Lands and Mining. For provisions relating to closure and transfer of functions of the United States Bureau of Mines, see note set out under [section 1 of Title 30](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title30-section1&num=0&edition=prelim), Minerals and Mining.
 
 #### Nuclear Resource Development Health Hazards; Study and Report
-Pub. L. 100–713, title VII, § 717, Nov. 23, 1988, 102 Stat. 4837, provided that: “(a) The Secretary of Health and Human Services (acting through the Indian Health Service), the Secretary of the Interior (acting through the Bureau of Indian Affairs), and the Secretary of Energy shall jointly conduct a study for the purpose of determining—“(1) the number of active nuclear resource development sites on Indian lands in the United States; “(2) the Federal agencies that carry out Federal responsibilities with respect to each such site; “(3) the health hazards that exist as a result of such sites; “(4) the remedial actions which have been undertaken with respect to such health hazards; “(5) remedial actions that are needed with respect to such health hazards; and “(6) the amount of funds that would be necessary each year to implement and maintain such needed remedial actions and the date by which the remedial actions would be implemented if sufficient funds were to provide for the remedial actions. “(b) By no later than the date that is 2 years after the date of enactment of this Act [Nov. 23, 1988], a report shall be submitted to the Congress describing the findings and conclusions made as a result of carrying out the study required in subsection (a).”
+Pub. L. 100–713, title VII, § 717, Nov. 23, 1988, 102 Stat. 4837, provided for a study to determine the number of active nuclear resource development sites on Indian lands in the United States and the health hazards that exist as a result of such sites and required a report to Congress describing the findings and conclusions of the study by no later than 2 years after Nov. 23, 1988.
 
 
 <a id="section-1680"></a>

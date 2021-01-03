@@ -2,7 +2,7 @@
 title: 10
 chapter: '87'
 heading: DEFENSE ACQUISITION WORKFORCE
-section_count: 33
+section_count: 35
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10&num=0&edition=prelim
 ---
@@ -23,14 +23,19 @@ Pub. L. 101–510, div. A, title XII, § 1201, Nov. 5, 1990, 104 Stat. 1638, pro
 #### Regulations
 Pub. L. 101–510, div. A, title XII, § 1210(a), Nov. 5, 1990, 104 Stat. 1667, provided that: “Unless otherwise provided in this title [see Short Title note above] and in subsection (b) [set out below], the Secretary of Defense shall promulgate regulations to implement this title and the amendments made by this title not later than one year after the date of the enactment of this Act [Nov. 5, 1990].”
 
+#### Continuation of Pay
+Pub. L. 116–283, div. A, title XI, § 1114(c)(2), Jan. 1, 2021, 134 Stat. 3895, provided that: “The repeal in paragraph (1) [repealing section 1111 of Pub. L. 114–92, formerly set out as a note below] shall not be interpreted to prohibit the payment of basic pay at rates fixed under such section 1111 before the date of the enactment of this Act [Jan. 1, 2021] for positions having terms that continue after that date.”
+
 #### Exchange Program for Acquisition Workforce Employees
 Pub. L. 115–232, div. A, title VIII, § 884, Aug. 13, 2018, 132 Stat. 1915, provided that: “(a) Program Authorized.—The Secretary of Defense shall establish an exchange program under which the Under Secretary of Defense for Acquisition and Sustainment shall arrange for the temporary assignment of civilian personnel in the Department of Defense acquisition workforce. “(b) Purposes.—The purposes of the exchange program established pursuant to subsection (a) are—“(1) to familiarize personnel from the acquisition workforce with the equities, priorities, processes, culture, and workforce of the acquisition-related defense agencies; “(2) to enable participants in the exchange program to return the expertise gained through their exchanges to their original organizations; and “(3) to improve communication between and integration of the organizations that support the policy, implementation, and oversight of defense acquisition through lasting relationships. “(c) Participants.—“(1) Number of participants.—The Under Secretary shall select not less than 10 and no more than 20 participants per year for participation in the exchange program established under subsection (a). “(2) Criteria for selection.—The Under Secretary shall select participants for the exchange program established under subsection (a) from among mid-career employees and based on—“(A) the qualifications and desire to participate in the program of the employee; and “(B) the technical needs and capacities of the acquisition workforce, as applicable. “(d) Terms.—Exchanges pursuant to the exchange program established under subsection (a) shall be for terms of one to two years, as determined and negotiated by the Under Secretary. The terms may begin and end on a rolling basis. “(e) Guidance and Implementation.—“(1) Guidance.—Not later than 90 days after the date of the enactment of this Act [Aug. 13, 2018], the Under Secretary shall develop and submit to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] interim guidance on the form and contours of the exchange program established under subsection (a). “(2) Implementation.—Not later than 180 days after the date of the enactment of this Act, the Under Secretary shall implement the guidance developed under paragraph (1).”
 
 #### Pilot Program on Temporary Exchange of Financial Management and Acquisition Personnel
-Pub. L. 114–92, div. A, title XI, § 1110, Nov. 25, 2015, 129 Stat. 1030, provided that: “(a) In General.—The Secretary of Defense may carry out a pilot program to assess the feasibility and advisability of the temporary assignment of covered employees of the Department of Defense to nontraditional defense contractors and of covered employees of such contractors to the Department. “(b) Covered Employees; Nontraditional Defense Contractors.—“(1) Covered employees.—An employee of the Department of Defense or a nontraditional Defense contractor is a covered employee for purposes of this section if the employee—“(A) works in the field of financial management or in the acquisition field; “(B) is considered by the Secretary of Defense to be an exceptional employee; and “(C) is compensated at not less than the GS–11 level (or the equivalent). “(2) Nontraditional defense contractors.—For purposes of this section, the term ‘nontraditional defense contractor’ has the meaning given that term in [section 2302(9) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2302/9&num=0&edition=prelim), United States Code. “(c) Agreements.—“(1) In general.—The Secretary of Defense shall provide for a written agreement among the Department of Defense, the nontraditional defense contractor concerned, and the employee concerned regarding the terms and conditions of the employee’s assignment under this section. “(2) Elements.—An agreement under this subsection—“(A) shall require, in the case of an employee of the Department, that upon completion of the assignment, the employee will serve in the civil service for a period at least equal to three times the length of the assignment, unless the employee is sooner involuntarily separated from the service of the employee’s agency; and “(B) shall provide that if the employee of the Department or of the contractor (as the case may be) fails to carry out the agreement, or if the employee is voluntarily separated from the service of the employee’s agency before the end of the period stated in the agreement, the employee shall be liable to the United States for payment of all expenses of the assignment unless that failure or voluntary separation was for good and sufficient reason, as determined by the Secretary. “(3) Debt to the united states.—An amount for which an employee is liable under paragraph (2)(B) shall be treated as a debt due the United States. The Secretary may waive, in whole or in part, collection of such a debt based on a determination that the collection would be against equity and good conscience and not in the best interests of the United States. “(d) Termination.—An assignment under this section may, at any time and for any reason, be terminated by the Department of Defense or the nontraditional defense contractor concerned. “(e) Duration.—An assignment under this section shall be for a period of not less than three months and not more than one year. “(f) Status of Federal Employees Assigned to Contractors.—An employee of the Department of Defense who is assigned to a nontraditional defense contractor under this section shall be considered, during the period of assignment, to be on detail to a regular work assignment in the Department for all purposes. The written agreement established under subsection (c) shall address the specific terms and conditions related to the employee’s continued status as a Federal employee. “(g) Terms and Conditions for Private Sector Employees.—An employee of a nontraditional defense contractor who is assigned to a Department of Defense organization under this section—“(1) shall continue to receive pay and benefits from the contractor from which such employee is assigned; “(2) shall be deemed to be an employee of the Department of Defense for the purposes of—“(A) chapter 73 of title 5, United States Code; “(B) sections 201, 203, 205, 207, 208, 209, 603, 606, 607, 643, 654, 1905, and 1913 of title 18, United States Code, and any other conflict of interest statute; “(C) sections 1343, 1344, and 1349(b) of title 31, United States Code; “(D) chapter 171 and [section 1346(b) of title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section1346/b&num=0&edition=prelim), United States Code (popularly known as the Federal Tort Claims Act), and any other Federal tort liability statute; “(E) the Ethics in Government Act of 1978 (5 U.S.C. App. 101 et seq.); “(F) chapter 21 of title 41, United States Code; and “(G) subchapter I of chapter 81 of title 5, United States Code, relating to compensation for work-related injuries; and “(3) may not have access, while the employee is assigned to a Department organization, to any trade secrets or to any other nonpublic information which is of commercial value to the contractor from which such employee is assigned. “(h) Prohibition Against Charging Certain Costs to Federal Government.—A nontraditional defense contractor may not charge the Department of Defense or any other agency of the Federal Government, as direct or indirect costs under a Federal contract, the costs of pay or benefits paid by the contractor to an employee assigned to a Department organization under this section for the period of the assignment. “(i) Consideration.—In providing for assignments of employees under this section, the Secretary of Defense shall take into consideration the question of how assignments might best be used to help meet the needs of the Department of Defense with respect to the training of employees in financial management or in acquisition. “(j) Numerical Limitations.—“(1) Department employees.—The number of employees of the Department of Defense who may be assigned to nontraditional defense contractors under this section at any given time may not exceed the following:“(A) Five employees in the field of financial management. “(B) Five employees in the acquisition field. “(2) Nontraditional defense contractor employees.—The total number of nontraditional defense contractor employees who may be assigned to the Department under this section at any given time may not exceed 10 such employees. “(k) Termination of Authority for Assignments.—No assignment of an employee may commence under this section after September 30, 2019.”
+Pub. L. 114–92, div. A, title XI, § 1110, Nov. 25, 2015, 129 Stat. 1030, as amended by Pub. L. 116–283, div. A, title XVIII, § 1806(e)(3)(A), Jan. 1, 2021, 134 Stat. 4156, provided that: “(a) In General.—The Secretary of Defense may carry out a pilot program to assess the feasibility and advisability of the temporary assignment of covered employees of the Department of Defense to nontraditional defense contractors and of covered employees of such contractors to the Department. “(b) Covered Employees; Nontraditional Defense Contractors.—“(1) Covered employees.—An employee of the Department of Defense or a nontraditional Defense contractor is a covered employee for purposes of this section if the employee—“(A) works in the field of financial management or in the acquisition field; “(B) is considered by the Secretary of Defense to be an exceptional employee; and “(C) is compensated at not less than the GS–11 level (or the equivalent). “(2) Nontraditional defense contractors.—For purposes of this section, the term ‘nontraditional defense contractor’ has the meaning given that term in [section 2302(9) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2302/9&num=0&edition=prelim), United States Code. “(c) Agreements.—“(1) In general.—The Secretary of Defense shall provide for a written agreement among the Department of Defense, the nontraditional defense contractor concerned, and the employee concerned regarding the terms and conditions of the employee’s assignment under this section. “(2) Elements.—An agreement under this subsection—“(A) shall require, in the case of an employee of the Department, that upon completion of the assignment, the employee will serve in the civil service for a period at least equal to three times the length of the assignment, unless the employee is sooner involuntarily separated from the service of the employee’s agency; and “(B) shall provide that if the employee of the Department or of the contractor (as the case may be) fails to carry out the agreement, or if the employee is voluntarily separated from the service of the employee’s agency before the end of the period stated in the agreement, the employee shall be liable to the United States for payment of all expenses of the assignment unless that failure or voluntary separation was for good and sufficient reason, as determined by the Secretary. “(3) Debt to the united states.—An amount for which an employee is liable under paragraph (2)(B) shall be treated as a debt due the United States. The Secretary may waive, in whole or in part, collection of such a debt based on a determination that the collection would be against equity and good conscience and not in the best interests of the United States. “(d) Termination.—An assignment under this section may, at any time and for any reason, be terminated by the Department of Defense or the nontraditional defense contractor concerned. “(e) Duration.—An assignment under this section shall be for a period of not less than three months and not more than one year. “(f) Status of Federal Employees Assigned to Contractors.—An employee of the Department of Defense who is assigned to a nontraditional defense contractor under this section shall be considered, during the period of assignment, to be on detail to a regular work assignment in the Department for all purposes. The written agreement established under subsection (c) shall address the specific terms and conditions related to the employee’s continued status as a Federal employee. “(g) Terms and Conditions for Private Sector Employees.—An employee of a nontraditional defense contractor who is assigned to a Department of Defense organization under this section—“(1) shall continue to receive pay and benefits from the contractor from which such employee is assigned; “(2) shall be deemed to be an employee of the Department of Defense for the purposes of—“(A) chapter 73 of title 5, United States Code; “(B) sections 201, 203, 205, 207, 208, 209, 603, 606, 607, 643, 654, 1905, and 1913 of title 18, United States Code, and any other conflict of interest statute; “(C) sections 1343, 1344, and 1349(b) of title 31, United States Code; “(D) chapter 171 and [section 1346(b) of title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section1346/b&num=0&edition=prelim), United States Code (popularly known as the Federal Tort Claims Act), and any other Federal tort liability statute; “(E) the Ethics in Government Act of 1978 (5 U.S.C. App. 101 et seq.); “(F) chapter 21 of title 41, United States Code; and “(G) subchapter I of chapter 81 of title 5, United States Code, relating to compensation for work-related injuries; and “(3) may not have access, while the employee is assigned to a Department organization, to any trade secrets or to any other nonpublic information which is of commercial value to the contractor from which such employee is assigned. “(h) Prohibition Against Charging Certain Costs to Federal Government.—A nontraditional defense contractor may not charge the Department of Defense or any other agency of the Federal Government, as direct or indirect costs under a Federal contract, the costs of pay or benefits paid by the contractor to an employee assigned to a Department organization under this section for the period of the assignment. “(i) Consideration.—In providing for assignments of employees under this section, the Secretary of Defense shall take into consideration the question of how assignments might best be used to help meet the needs of the Department of Defense with respect to the training of employees in financial management or in acquisition. “(j) Numerical Limitations.—“(1) Department employees.—The number of employees of the Department of Defense who may be assigned to nontraditional defense contractors under this section at any given time may not exceed the following:“(A) Five employees in the field of financial management. “(B) Five employees in the acquisition field. “(2) Nontraditional defense contractor employees.—The total number of nontraditional defense contractor employees who may be assigned to the Department under this section at any given time may not exceed 10 such employees. “(k) Termination of Authority for Assignments.—No assignment of an employee may commence under this section after September 30, 2019.”
+
+[Pub. L. 116–283, div. A, title XVIII, §§ 1801(d), 1806(e)(3)(A), Jan. 1, 2021, 134 Stat. 4151, 4156, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, section 1110(b)(2) of Pub. L. 114–92, set out above, is amended by substituting “section 3014” for “section 2302(9)”.]
 
 #### Pilot Program on Enhanced Pay Authority for Certain Acquisition and Technology Positions in the Department of Defense
-Pub. L. 114–92, div. A, title XI, § 1111, Nov. 25, 2015, 129 Stat. 1032, provided that: “(a) Pilot Program Authorized.—The Secretary of Defense may carry out a pilot program to assess the feasibility and advisability of using the pay authority specified in subsection (d) to fix the rate of basic pay for positions described in subsection (c) in order to assist the Office of the Secretary of Defense and the military departments in attracting and retaining high-quality acquisition and technology experts in positions responsible for managing and developing complex, high-cost, technological acquisition efforts of the Department of Defense. “(b) Approval Required.—The pilot program may be carried out only with approval as follows:“(1) Approval of the Under Secretary of Defense for Acquisition, Technology, and Logistics, in the case of positions in the Office of the Secretary of Defense. “(2) Approval of the Service Acquisition Executive of the military department concerned, in the case of positions in a military department. “(c) Positions.—The positions described in this subsection are positions that—“(1) require expertise of an extremely high level in a scientific, technical, professional, or acquisition management field; and “(2) are critical to the successful accomplishment of an important acquisition or technology development mission. “(d) Rate of Basic Pay.—The pay authority specified in this subsection is authority as follows:“(1) Authority to fix the rate of basic pay for a position at a rate not to exceed 150 percent of the rate of basic pay payable for level I of the Executive Schedule, upon the approval of the Under Secretary of Defense for Acquisition, Technology, and Logistics or the Service Acquisition Executive concerned, as applicable. “(2) Authority to fix the rate of basic pay for a position at a rate in excess of 150 percent of the rate of basic pay payable for level I of the Executive Schedule, upon the approval of the Secretary of Defense. “(e) Limitations.—“(1) In general.—The authority in subsection (a) may be used only to the extent necessary to competitively recruit or retain individuals exceptionally well qualified for positions described in subsection (c). “(2) Number of positions.—The authority in subsection (a) may not be used with respect to more than five positions in the Office of the Secretary of Defense and more than five positions in each military department at any one time. “(3) Term of positions.—The authority in subsection (a) may be used only for positions having terms less than five years. “(f) Termination.—“(1) In general.—The authority to fix rates of basic pay for a position under this section shall terminate on October 1, 2020. “(2) Continuation of pay.—Nothing in paragraph (1) shall be construed to prohibit the payment after October 1, 2020, of basic pay at rates fixed under this section before that date for positions whose terms continue after that date.”
+Pub. L. 114–92, div. A, title XI, § 1111, Nov. 25, 2015, 129 Stat. 1032, as amended by Pub. L. 116–92, div. A, title IX, § 902(9), Dec. 20, 2019, 133 Stat. 1543, which authorized a pilot program on enhanced pay authority for certain acquisition and technology positions in the Department of Defense, was repealed by Pub. L. 116–283, div. A, title XI, § 1114(c)(1), Jan. 1, 2021, 134 Stat. 3895. See Continuation of Pay note above and [section 1701b of this title](./chapter-087-defense-acquisition-workforce.md#section-1701b).
 
 #### Pilot Program on Direct Hire Authority for Veteran Technical Experts Into the Defense Acquisition Workforce
 Pub. L. 114–92, div. A, title XI, § 1112, Nov. 25, 2015, 129 Stat. 1033, provided that: “(a) Pilot Program.—The Secretary of Defense may carry out a pilot program to assess the feasibility and advisability of appointing qualified veteran candidates to positions described in subsection (b) in the defense acquisition workforce of the military departments without regard to the provisions of subchapter I of chapter 33 of title 5, United States Code. The Secretary shall carry out the pilot program in each military department through the service acquisition executive of such military department. “(b) Positions.—The positions described in this subsection are scientific, technical, engineering, and mathematics positions, including technicians, within the defense acquisition workforce. “(c) Limitation.—Authority under subsection (a) may not, in any calendar year and with respect to any military department, be exercised with respect to a number of candidates greater than the number equal to 1 percent of the total number of positions in the acquisition workforce of that military department that are filled as of the close of the fiscal year last ending before the start of such calendar year. “(d) Definitions.—In this section:“(1) The term ‘employee’ has the meaning given that term in [section 2105 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section2105&num=0&edition=prelim), United States Code. “(2) The term ‘veteran’ has the meaning given that term in [section 101 of title 38](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section101&num=0&edition=prelim), United States Code. “(e) Termination.—“(1) In general.—The authority to appoint candidates to positions under the pilot program shall expire on the date that is five years after the date of the enactment of this Act [Nov. 25, 2015]. “(2) Effect on existing appointments.—The termination by paragraph (1) of the authority in subsection (a) shall not affect any appointment made under that authority before the termination date specified in paragraph (1) in accordance with the terms of such appointment.”
@@ -39,7 +44,7 @@ Pub. L. 114–92, div. A, title XI, § 1112, Nov. 25, 2015, 129 Stat. 1033, prov
 Pub. L. 114–92, div. A, title XI, § 1113, Nov. 25, 2015, 129 Stat. 1033, provided that: “(a) Authority.—Each Secretary of a military department may appoint qualified candidates possessing a scientific or engineering degree to positions described in subsection (b) for that military department without regard to the provisions of subchapter I of chapter 33 of title 5, United States Code. “(b) Applicability.—Positions described in this subsection are scientific and engineering positions within the defense acquisition workforce. “(c) Limitation.—Authority under this section may not, in any calendar year and with respect to any military department, be exercised with respect to a number of candidates greater than the number equal to 5 percent of the total number of scientific and engineering positions within the acquisition workforce of that military department that are filled as of the close of the fiscal year last ending before the start of such calendar year. “(d) Nature of Appointment.—Any appointment under this section shall be treated as an appointment on a full-time equivalent basis, unless such appointment is made on a term or temporary basis. “(e) Employee Defined.—In this section, the term ‘employee’ has the meaning given that term in [section 2105 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section2105&num=0&edition=prelim), United States Code. “(f) Termination.—The authority to make appointments under this section shall not be available after December 31, 2020.”
 
 #### Coordination of Human Systems Integration Activities Related to Acquisition Programs
-Pub. L. 110–181, div. A, title II, § 231, Jan. 28, 2008, 122 Stat. 45, as amended by Pub. L. 115–232, div. A, title VIII, § 811(f), Aug. 13, 2018, 132 Stat. 1845, provided that: “The Secretary of Defense, acting through the Under Secretary of Defense for Acquisition, Technology, and Logistics, shall coordinate and manage human systems integration activities throughout the acquisition programs of the Department of Defense.”
+Pub. L. 110–181, div. A, title II, § 231, Jan. 28, 2008, 122 Stat. 45, as amended by Pub. L. 115–232, div. A, title VIII, § 811(f), Aug. 13, 2018, 132 Stat. 1845; Pub. L. 116–92, div. A, title IX, § 902(10), Dec. 20, 2019, 133 Stat. 1543, provided that: “The Secretary of Defense, acting through the Under Secretary of Defense for Acquisition and Sustainment, shall coordinate and manage human systems integration activities throughout the acquisition programs of the Department of Defense.”
 
 #### Requirements for Senior Department of Defense Officials Seeking Employment With Defense Contractors
 Pub. L. 110–181, div. A, title VIII, § 847, Jan. 28, 2008, 122 Stat. 243, as amended by Pub. L. 113–291, div. A, title VIII, § 855, title X, § 1071(b)(2)(C), Dec. 19, 2014, 128 Stat. 3460, 3506, provided that: “(a) Requirement to Seek and Obtain Written Opinion.—“(1) Request.—An official or former official of the Department of Defense described in subsection (c) who, within two years after leaving service in the Department of Defense, expects to receive compensation from a Department of Defense contractor, shall, prior to accepting such compensation, request a written opinion regarding the applicability of post-employment restrictions to activities that the official or former official may undertake on behalf of a contractor. “(2) Submission of request.—A request for a written opinion under paragraph (1) shall be submitted in writing to an ethics official of the Department of Defense having responsibility for the organization in which the official or former official serves or served and shall set forth all information relevant to the request, including information relating to government positions held and major duties in those positions, actions taken concerning future employment, positions sought, and future job descriptions, if applicable. “(3) Written opinion.—Not later than 30 days after receiving a request by an official or former official of the Department of Defense described in subsection (c), the appropriate ethics counselor shall provide such official or former official a written opinion regarding the applicability or inapplicability of post-employment restrictions to activities that the official or former official may undertake on behalf of a contractor. “(4) Contractor requirement.—A Department of Defense contractor may not knowingly provide compensation to a former Department of Defense official described in subsection (c) within two years after such former official leaves service in the Department of Defense, without first determining that the former official has sought and received (or has not received after 30 days of seeking) a written opinion from the appropriate ethics counselor regarding the applicability of post-employment restrictions to the activities that the former official is expected to undertake on behalf of the contractor. “(5) Administrative actions.—In the event that an official or former official of the Department of Defense described in subsection (c), or a Department of Defense contractor, knowingly fails to comply with the requirements of this subsection, the Secretary of Defense may take any of the administrative actions set forth in [section 2105 of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section2105&num=0&edition=prelim), United States Code[,] that the Secretary of Defense determines to be appropriate. “(b) Recordkeeping Requirement.—“(1) Database.—Each request for a written opinion made pursuant to this section, and each written opinion provided pursuant to such a request, shall be retained by the Department of Defense in a central database or repository maintained by the General Counsel of the Department for not less than five years beginning on the date on which the written opinion was provided. “(2) Inspector general review.—The Inspector General of the Department of Defense shall conduct periodic reviews to ensure that written opinions are being provided and retained in accordance with the requirements of this section. The first such review shall be conducted no later than two years after the date of the enactment of this Act [Jan. 28, 2008]. “(c) Covered Department of Defense Officials.—An official or former official of the Department of Defense is covered by the requirements of this section if such official or former official—“(1) participated personally and substantially in an acquisition as defined in [section 131 of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section131&num=0&edition=prelim), United States Code[,] with a value in excess of $10,000,000 and serves or served—“(A) in an Executive Schedule position under subchapter II of chapter 53 of title 5, United States Code; “(B) in a position in the Senior Executive Service under subchapter VIII of chapter 53 of title 5, United States Code; or “(C) in a general or flag officer position compensated at a rate of pay for grade O–7 or above under [section 201 of title 37](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section201&num=0&edition=prelim), United States Code; or “(2) serves or served as a program manager, deputy program manager, procuring contracting officer, administrative contracting officer, source selection authority, member of the source selection evaluation board, or chief of a financial or technical evaluation team for a contract in an amount in excess of $10,000,000. “(d) Definition.—In this section, the term ‘post-employment restrictions’ includes—“(1) chapter 21 of title 41, United States Code; “(2) [section 207 of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section207&num=0&edition=prelim), United States Code; and “(3) any other statute or regulation restricting the employment or activities of individuals who leave government service in the Department of Defense.”
@@ -77,15 +82,17 @@ Pub. L. 101–510, div. A, title XII, § 1210(b), Nov. 5, 1990, 104 Stat. 1667, 
 
 (3) to the extent appropriate, use the lessons learned from the acquisition demonstration project carried out under [section 1762 of this title](./chapter-087-defense-acquisition-workforce.md#section-1762) related to contribution-based compensation and appraisal, and how those lessons may be applied within the General Schedule system;
 
-(4) develop attractive career paths;
+(4) develop and implement a career path, as described in [section 1722(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1722/a&num=0&edition=prelim), for each career field designated by the Secretary under [section 1721(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1721/a&num=0&edition=prelim) as an acquisition workforce career field;
 
-(5) encourage continuing education and training;
+(5) direct continuing education and training;
 
-(6) develop appropriate procedures for warnings during performance evaluations for members of the acquisition workforce who consistently fail to meet performance standards;
+(6) authorize a member of the acquisition workforce to participate in professional associations, consistent with the performance plan of such a member in order to provide the member with the opportunity to gain leadership and management skills;
 
-(7) take full advantage of the Defense Civilian Leadership Program established under section 1112 of the National Defense Authorization Act for Fiscal Year 2010 (Public Law 111–84; 123 Stat. 2496; [10 U.S.C. 1580](./chapter-081-civilian-employees.md#section-1580) note prec.);
+(7) develop appropriate procedures for warnings and consequences during performance evaluations for members of the acquisition workforce who consistently fail to meet performance standards;
 
-(8) use the authorities for highly qualified experts under [section 9903 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section9903&num=0&edition=prelim), to hire experts who are skilled acquisition professionals to—
+(8) take full advantage of the Defense Civilian Leadership Program established under section 1112 of the National Defense Authorization Act for Fiscal Year 2010 (Public Law 111–84; 123 Stat. 2496; [10 U.S.C. 1580](./chapter-081-civilian-employees.md#section-1580) note prec.);
+
+(9) use the authorities for highly qualified experts under [section 9903 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section9903&num=0&edition=prelim), to hire experts who are skilled acquisition professionals to—
 
   (A) serve in leadership positions within the acquisition workforce to strengthen management and oversight;
 
@@ -93,26 +100,109 @@ Pub. L. 101–510, div. A, title XII, § 1210(b), Nov. 5, 1990, 104 Stat. 1667, 
 
   (C) assist with the design of education and training courses and the training of individuals in the acquisition workforce; and
 
-(9) use the authorities for expedited security clearance processing pursuant to [section 1564 of this title](./chapter-080-miscellaneous-investigation-requirements-and-other-duties.md#section-1564).
+(10) use the authorities for expedited security clearance processing pursuant to [section 1564 of this title](./chapter-080-miscellaneous-investigation-requirements-and-other-duties.md#section-1564).
 
-**(c) Negotiations.—** Any action taken by the Secretary under this section, or to implement this section, shall be subject to the requirements of chapter 71 of title 5.
+**(c) Professional Certification.—**
 
-**(d) Regulations.—** Any rules or regulations prescribed pursuant to this section shall be deemed an agency rule or regulation under [section 7117(a)(2) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section7117/a/2&num=0&edition=prelim), and shall not be deemed a Government-wide rule or regulation under section 7117(a)(1) of such title.
+(1) The Secretary of Defense shall implement a certification program to provide for a professional certification requirement for all members of the acquisition workforce. Except as provided in paragraph (2), the certification requirement for any acquisition workforce career field shall be based on standards developed by a third-party accredited program based on nationally or internationally recognized standards.
+
+(2) If the Secretary determines that, for a particular acquisition workforce career field, a third-party accredited program based on nationally or internationally recognized standards does not exist, the Secretary shall establish the certification requirement for that career field that conforms with the practices of national or international accrediting organizations. The Secretary shall determine the best approach for meeting the certification requirement for any such career field, including by implementing such certification requirement through entities outside the Department of Defense, and may design and implement such certification requirement without regard to [section 1746 of this title](./chapter-087-defense-acquisition-workforce.md#section-1746).
+
+**(d) Negotiations.—** Any action taken by the Secretary under this section, or to implement this section, shall be subject to the requirements of chapter 71 of title 5.
+
+**(e) Regulations.—** Any rules or regulations prescribed pursuant to this section shall be deemed an agency rule or regulation under [section 7117(a)(2) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section7117/a/2&num=0&edition=prelim), and shall not be deemed a Government-wide rule or regulation under section 7117(a)(1) of such title.
 
 ### Statutory Notes
+
+#### Amendment of Section
+Pub. L. 116–283, div. A, title XVIII, §§ 1801(d), 1808(d)(2), 1883(b)(2), Jan. 1, 2021, 134 Stat. 4151, 4160, 4294, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, this section is amended as follows:
+
+(1) by striking “chapter 149” and inserting “chapter 205”; and
+
+(2) for any other reference in the text to a source section that is redesignated by title XVIII of Pub. L. 116–283, by striking such reference and inserting a reference to the appropriate section as so redesignated.
+
+See 2021 Amendment notes below.
+
+#### Amendments
+2021—Subsec. (a)(4). Pub. L. 116–283, § 1808(d)(2), substituted “chapter 205” for “chapter 149”.
+
+Subsec. (b)(2). Pub. L. 116–283, § 1883(b)(2), which directed that each reference in the text of title 10 to a section that was redesignated by title XVIII of Pub. L. 116–283, as such section was in effect before the redesignation, be amended by striking such reference and inserting a reference to the appropriate redesignated section, was not executed with respect to “section 2545”, which was redesignated as multiple sections.
+
+Subsec. (b)(6). Pub. L. 116–283, § 1081(a)(31)(A), substituted a semicolon for the period at end.
+
+Subsec. (c). Pub. L. 116–283, § 1081(a)(31)(B), struck out par. (1) heading “In General” and par. (2) heading “Requirements for Secretary”.
+
+2019—Subsec. (b)(4). Pub. L. 116–92, § 861(e)(1), amended par. (4) generally. Prior to amendment, par. (4) read as follows: “develop attractive career paths;”.
+
+Subsec. (b)(5). Pub. L. 116–92, § 861(a)(2)(A), substituted “direct” for “encourage”.
+
+Subsec. (b)(6). Pub. L. 116–92, § 861(a)(3)(B), added par. (6). Former par. (6) redesignated (7).
+
+Pub. L. 116–92, § 861(a)(2)(B), inserted “and consequences” after “warnings”.
+
+Subsec. (b)(7) to (10). Pub. L. 116–92, § 861(a)(3)(A), redesignated pars. (6) to (9) as (7) to (10), respectively.
+
+Subsecs. (c) to (e). Pub. L. 116–92, § 861(a)(1), added subsec. (c) and redesignated former subsecs. (c) and (d) as (d) and (e), respectively.
+
+#### Effective Date of 2021 Amendment
+Amendment by sections 1808(d)(2) and 1883(b)(2) of Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
+
+#### Deadline for Implementation of Procedures To Institute Certification Program
+Pub. L. 116–92, div. A, title VIII, § 861(a)(5), Dec. 20, 2019, 133 Stat. 1516, provided that: “The Secretary of Defense shall implement procedures to institute the program required by subsection (c) of [section 1701a of title 10](./chapter-087-defense-acquisition-workforce.md#section-1701a), United States Code, as added by paragraph (1), not later than 180 days after the date of the enactment of this Act [Dec. 20, 2019].”
+
+#### Deadline for Implementation of Career Paths
+Pub. L. 116–92, div. A, title VIII, § 861(e)(3), Dec. 20, 2019, 133 Stat. 1517, provided that: “Not later than the end of the two-year period beginning on the date of the enactment of this Act [Dec. 20, 2019], the Secretary of Defense shall carry out the requirements of paragraph (4) of [section 1701a(b) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1701a/b&num=0&edition=prelim), United States Code (as amended by paragraph (1)).”
 
 #### Flexibility in Contracting Award Program
 Pub. L. 114–328, div. A, title VIII, § 834, Dec. 23, 2016, 130 Stat. 2285, provided that: “(a) Establishment of Award Program.—The Secretary of Defense shall create an award to recognize those acquisition programs and professionals that make the best use of the flexibilities and authorities granted by the Federal Acquisition Regulation and Department of Defense Instruction 5000.02 (Operation of the Defense Acquisition System). “(b) Purpose of Award.—The award established under subsection (a) shall recognize outstanding performers whose approach to program management emphasizes innovation and local adaptation, including the use of—“(1) simplified acquisition procedures; “(2) inherent flexibilities within the Federal Acquisition Regulation; “(3) commercial contracting approaches; “(4) public-private partnership agreements and practices; “(5) cost-sharing arrangements; “(6) innovative contractor incentive practices; and “(7) other innovative implementations of acquisition flexibilities.”
 
 
-<a id="section-1702"></a>
-## § 1702. Under Secretary of Defense for Acquisition, Technology, and Logistics: authorities and responsibilities
+<a id="section-1701b"></a>
+## § 1701b. Enhanced pay authority for certain acquisition and technology positions
+**(a) In General.—** The Secretary of Defense may carry out a program using the pay authority specified in subsection (d) to fix the rate of basic pay for positions described in subsection (c) in order to assist the Office of the Secretary of Defense and the military departments in attracting and retaining high-quality acquisition and technology experts in positions responsible for managing and developing complex, high-cost, technological acquisition efforts of the Department of Defense.
 
-Subject to the authority, direction, and control of the Secretary of Defense, the Under Secretary of Defense for Acquisition, Technology, and Logistics shall carry out all powers, functions, and duties of the Secretary of Defense with respect to the acquisition workforce in the Department of Defense. The Under Secretary shall ensure that the policies of the Secretary of Defense established in accordance with this chapter are implemented throughout the Department of Defense. The Under Secretary shall prescribe policies and requirements for the educational programs of the defense acquisition university structure established under [section 1746 of this title](./chapter-087-defense-acquisition-workforce.md#section-1746).
+**(b) Approval Required.—** The program may be carried out only with approval as follows:
+
+(1) Approval of the Under Secretary of Defense for Acquisition and Sustainment, in the case of positions in the Office of the Secretary of Defense.
+
+(2) Approval of the service acquisition executive of the military department concerned, in the case of positions in a military department.
+
+**(c) Positions.—** The positions described in this subsection are positions that—
+
+(1) require expertise of an extremely high level in a scientific, technical, professional, or acquisition management field; and
+
+(2) are critical to the successful accomplishment of an important acquisition or technology development mission.
+
+**(d) Rate of Basic Pay.—** The pay authority specified in this subsection is authority as follows:
+
+(1) Authority to fix the rate of basic pay for a position at a rate not to exceed 150 percent of the rate of basic pay payable for level I of the Executive Schedule, upon the approval of the Under Secretary of Defense for Acquisition and Sustainment or the service acquisition executive concerned, as applicable.
+
+(2) Authority to fix the rate of basic pay for a position at a rate in excess of 150 percent of the rate of basic pay payable for level I of the Executive Schedule, upon the approval of the Secretary of Defense.
+
+**(e) Limitations.—**
+
+(1) **In general.—** — The authority in subsection (a) may be used only to the extent necessary to competitively recruit or retain individuals exceptionally well qualified for positions described in subsection (c).
+
+(2) **Number of positions.—** — The authority in subsection (a) may not be used with respect to more than five positions in the Office of the Secretary of Defense and more than five positions in each military department at any one time.
+
+(3) **Term of positions.—** — The authority in subsection (a) may be used only for positions having terms less than five years.
+
+### Statutory Notes
+
+#### References in Text
+Level I of the Executive Schedule, referred to in subsec. (d), is set out in [section 5312 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5312&num=0&edition=prelim), Government Organization and Employees.
+
+
+<a id="section-1702"></a>
+## § 1702. Under Secretary of Defense for Acquisition and Sustainment: authorities and responsibilities
+
+Subject to the authority, direction, and control of the Secretary of Defense, the Under Secretary of Defense for Acquisition and Sustainment shall carry out all powers, functions, and duties of the Secretary of Defense with respect to the acquisition workforce in the Department of Defense. The Under Secretary shall ensure that the policies of the Secretary of Defense established in accordance with this chapter are implemented throughout the Department of Defense. The Under Secretary shall prescribe policies and requirements for the educational programs of the defense acquisition university structure established under [section 1746 of this title](./chapter-087-defense-acquisition-workforce.md#section-1746).
 
 ### Statutory Notes
 
 #### Amendments
+2019—Pub. L. 116–92 substituted “Under Secretary of Defense for Acquisition and Sustainment” for “Under Secretary of Defense for Acquisition, Technology, and Logistics” in section catchline and in text.
+
 2001—Pub. L. 107–107 substituted “Under Secretary of Defense for Acquisition, Technology, and Logistics” for “Under Secretary of Defense for Acquisition and Technology” in section catchline and in text.
 
 1998—Pub. L. 105–261 inserted at end “The Under Secretary shall prescribe policies and requirements for the educational programs of the defense acquisition university structure established under [section 1746 of this title](./chapter-087-defense-acquisition-workforce.md#section-1746).”
@@ -120,7 +210,7 @@ Subject to the authority, direction, and control of the Secretary of Defense, th
 1993—Pub. L. 103–160 substituted “Under Secretary of Defense for Acquisition and Technology” for “Under Secretary of Defense for Acquisition” in section catchline and in text.
 
 #### Quick-Reaction Special Projects Acquisition Team
-Pub. L. 107–314, div. A, title VIII, § 807, Dec. 2, 2002, 116 Stat. 2608, provided that: “(a) Establishment.—The Under Secretary of Defense for Acquisition, Technology, and Logistics shall establish a team of highly qualified acquisition professionals who shall be available to advise the Under Secretary on actions that can be taken to expedite the acquisition of urgently needed systems. “(b) Duties.—The issues on which the team may provide advice shall include the following:“(1) Industrial base issues, including the limited availability of suppliers. “(2) Technology development and technology transition issues. “(3) Issues of acquisition policy, including the length of the acquisition cycle. “(4) Issues of testing policy and ensuring that weapon systems perform properly in combat situations. “(5) Issues of procurement policy, including the impact of socio-economic requirements. “(6) Issues relating to compliance with environmental requirements.”
+Pub. L. 107–314, div. A, title VIII, § 807, Dec. 2, 2002, 116 Stat. 2608, as amended by Pub. L. 116–92, div. A, title IX, § 902(12), Dec. 20, 2019, 133 Stat. 1544, provided that: “(a) Establishment.—The Under Secretary of Defense for Acquisition and Sustainment shall establish a team of highly qualified acquisition professionals who shall be available to advise the Under Secretary on actions that can be taken to expedite the acquisition of urgently needed systems. “(b) Duties.—The issues on which the team may provide advice shall include the following:“(1) Industrial base issues, including the limited availability of suppliers. “(2) Technology development and technology transition issues. “(3) Issues of acquisition policy, including the length of the acquisition cycle. “(4) Issues of testing policy and ensuring that weapon systems perform properly in combat situations. “(5) Issues of procurement policy, including the impact of socio-economic requirements. “(6) Issues relating to compliance with environmental requirements.”
 
 
 <a id="section-1703"></a>
@@ -138,54 +228,30 @@ Subject to the authority, direction, and control of the Secretary of the militar
 
 
 <a id="section-1705"></a>
-## § 1705. Department of Defense Acquisition Workforce Development Fund
-**(a) Establishment.—** The Secretary of Defense shall establish a fund to be known as the “Department of Defense Acquisition Workforce Development Fund” (in this section referred to as the “Fund”) to provide funds, in addition to other funds that may be available, for the recruitment, training, and retention of acquisition personnel of the Department of Defense.
+## § 1705. Department of Defense Acquisition Workforce Development Account
+**(a) Establishment.—** The Secretary of Defense shall establish a fund 11 So in original. Probably should be “an account”. to be known as the “Department of Defense Acquisition Workforce Development Account” (in this section referred to as the “Account”) to provide funds, in addition to other funds that may be available, for the recruitment, training, and retention of acquisition personnel of the Department of Defense.
 
-**(b) Purpose.—** The purpose of the Fund is to ensure that the Department of Defense acquisition workforce has the capacity, in both personnel and skills, needed to properly perform its mission, provide appropriate oversight of contractor performance, and ensure that the Department receives the best value for the expenditure of public resources.
+**(b) Purpose.—** The purpose of the Account is to ensure that the Department of Defense acquisition workforce has the capacity, in both personnel and skills, needed to properly perform its mission, provide appropriate oversight of contractor performance, and ensure that the Department receives the best value for the expenditure of public resources.
 
-**(c) Management.—** The Fund shall be managed by a senior official of the Department of Defense designated by the Under Secretary of Defense for Acquisition, Technology, and Logistics for that purpose, from among persons with an extensive background in management relating to acquisition and personnel.
+**(c) Management.—** The Account shall be managed by a senior official of the Department of Defense designated by the Under Secretary of Defense for Acquisition and Sustainment for that purpose, from among persons with an extensive background in management relating to acquisition and personnel.
 
-**(d) Elements.—**
-
-(1) **In general.—** — The Fund shall consist of amounts as follows:
-
-  (A) Amounts credited to the Fund under paragraph (2).
-
-  (B) Amounts transferred to the Fund pursuant to paragraph (3).
-
-  (C) Any other amounts appropriated to, credited to, or deposited into the Fund by law.
-
-(2) **Credits to the fund.—**
-
-  (A) There shall be credited to the Fund an amount equal to the applicable percentage for a fiscal year of all amounts expended by the Department of Defense in such fiscal year for contract services from amounts available for contract services for operation and maintenance.
-
-  (B) Subject to paragraph (4), not later than 30 days after the end of the first quarter of each fiscal year, the head of each military department and Defense Agency shall remit to the Secretary of Defense, from amounts available to such military department or Defense Agency, as the case may be, for contract services for operation and maintenance, an amount equal to the applicable percentage for such fiscal year of the amount expended by such military department or Defense Agency, as the case may be, during such fiscal year for services covered by subparagraph (A). Any amount so remitted shall be credited to the Fund under subparagraph (A).
-
-  (C) For purposes of this paragraph, the applicable percentage for a fiscal year is the percentage that results in the credit to the Fund of $500,000,000 in such fiscal year.
-
-  (D) The Secretary of Defense may adjust the amount specified in subparagraph (C) for a fiscal year if the Secretary determines that the amount is greater or less than reasonably needed for purposes of the Fund for such fiscal year. The Secretary may not adjust the amount for a fiscal year to an amount that is more than $600,000,000 or less than $400,000,000.
-
-(3) **Transfer of certain unobligated balances.—** — To the extent provided in appropriations Acts, the Secretary of Defense may, during the 36-month period following the expiration of availability for obligation of any appropriations made to the Department of Defense for procurement, research, development, test, and evaluation, or operation and maintenance, transfer to the Fund any unobligated balance of such appropriations. Any amount so transferred shall be credited to the Fund.
-
-(4) **Additional requirements and limitations on remittances.—**
-
-  (A) In the event amounts are transferred to the Fund during a fiscal year pursuant to paragraph (1)(B) or appropriated to the Fund for a fiscal year pursuant to paragraph (1)(C), the aggregate amount otherwise required to be remitted to the Fund for that fiscal year pursuant to paragraph (2)(B) shall be reduced by the amount equal to the amounts so transferred or appropriated to the Fund during or for that fiscal year. Any reduction in the aggregate amount required to be remitted to the Fund for a fiscal year under this subparagraph shall be allocated as provided in applicable provisions of appropriations Acts or, absent such provisions, on a pro rata basis among the military departments and Defense Agencies required to make remittances to the Fund for that fiscal year under paragraph (2)(B), subject to any exclusions the Secretary of Defense determines to be necessary in the best interests of the Department of Defense.
-
-  (B) Any remittance of amounts to the Fund for a fiscal year under paragraph (2) shall be subject to the availability of appropriations for that purpose.
+**(d) Elements.—** The Account shall consist of amounts appropriated to the Account by law.
 
 **(e) Availability of Funds.—**
 
 (1) **In general.—**
 
-  (A) Subject to the provisions of this subsection, amounts in the Fund shall be available to the Secretary of Defense for expenditure, or for transfer to a military department or Defense Agency, for the recruitment, training, and retention of acquisition personnel of the Department of Defense for the purpose of the Fund, including for the provision of training and retention incentives to the acquisition workforce of the Department and to develop acquisition tools and methodologies, and undertake research and development activities, leading to acquisition policies and practices that will improve the efficiency and effectiveness of defense acquisition efforts. In the case of temporary members of the acquisition workforce designated pursuant to subsection (g)(2), such funds shall be available only for the limited purpose of providing training in the performance of acquisition-related functions and duties.
+  (A) Subject to the provisions of this subsection, amounts in the Account shall be available to the Secretary of Defense for expenditure, or for transfer to a military department or Defense Agency, for the recruitment, training, and retention of acquisition personnel of the Department of Defense for the purpose of the Account, including for the provision of training and retention incentives to the acquisition workforce of the Department and to develop acquisition tools and methodologies, and undertake research and development activities, leading to acquisition policies and practices that will improve the efficiency and effectiveness of defense acquisition efforts. In the case of temporary members of the acquisition workforce designated pursuant to subsection (g)(2), such funds shall be available only for the limited purpose of providing training in the performance of acquisition-related functions and duties.
 
-  (B) Amounts in the Fund also may be used to pay salaries of personnel at the Office of the Secretary of Defense, military departments, and Defense Agencies to manage the Fund.
+  (B) Amounts in the Account also may be used to pay salaries of personnel at the Office of the Secretary of Defense, military departments, and Defense Agencies to manage the Account.
 
-(2) **Prohibition.—** — Amounts in the Fund may not be obligated for any purpose other than purposes described in paragraph (1) or otherwise in accordance with this subsection.
+  (C) Amounts in the Account may be used to pay the expenses of the public-private talent exchange program established under [section 1599g of this title](./chapter-081-civilian-employees.md#section-1599g).
 
-(3) **Guidance.—** — The Under Secretary of Defense for Acquisition, Technology, and Logistics, acting through the senior official designated to manage the Fund, shall issue guidance for the administration of the Fund. Such guidance shall include provisions—
+(2) **Prohibition.—** — Amounts in the Account may not be obligated for any purpose other than purposes described in paragraph (1) or otherwise in accordance with this subsection.
 
-  (A) identifying areas of need in the acquisition workforce for which amounts in the Fund may be used, including—
+(3) **Guidance.—** — The Under Secretary of Defense for Acquisition and Sustainment, acting through the senior official designated to manage the Account, shall issue guidance for the administration of the Account. Such guidance shall include provisions—
+
+  (A) identifying areas of need in the acquisition workforce for which amounts in the Account may be used, including—
 
     (i) changes to the types of skills needed in the acquisition workforce;
 
@@ -193,15 +259,15 @@ Subject to the authority, direction, and control of the Secretary of the militar
 
     (iii) incentives for attracting new, high-quality personnel to the acquisition workforce;
 
-  (B) describing the manner and timing for applications for amounts in the Fund to be submitted;
+  (B) describing the manner and timing for applications for amounts in the Account to be submitted;
 
-  (C) describing the evaluation criteria to be used for approving or prioritizing applications for amounts in the Fund in any fiscal year;
+  (C) describing the evaluation criteria to be used for approving or prioritizing applications for amounts in the Account in any fiscal year;
 
-  (D) describing measurable objectives of performance for determining whether amounts in the Fund are being used in compliance with this section; and
+  (D) describing measurable objectives of performance for determining whether amounts in the Account are being used in compliance with this section; and
 
-  (E) describing the amount from the Fund that may be used to pay salaries of personnel at the Office of the Secretary of Defense, military departments, and Defense Agencies to manage the Fund and the circumstances under which such amounts may be used for such purpose.
+  (E) describing the amount from the Account that may be used to pay salaries of personnel at the Office of the Secretary of Defense, military departments, and Defense Agencies to manage the Account and the circumstances under which such amounts may be used for such purpose.
 
-(4) **Limitation on payments to or for contractors.—** — Amounts in the Fund shall not be available for payments to contractors or contractor employees, other than for the purposes of—
+(4) **Limitation on payments to or for contractors.—** — Amounts in the Account shall not be available for payments to contractors or contractor employees, other than for the purposes of—
 
   (A) providing advanced training to Department of Defense employees;
 
@@ -209,9 +275,9 @@ Subject to the authority, direction, and control of the Secretary of the militar
 
   (C) supporting human capital and talent management of the acquisition workforce, including benchmarking studies, assessments, and requirements planning.
 
-(5) **Prohibition on payment of base salary of current employees.—** — Amounts in the Fund may not be used to pay the base salary of any person who was an employee of the Department serving in a position in the acquisition workforce as of January 28, 2008, and who has continued in the employment of the Department since such time without a break in such employment of more than a year.
+(5) **Prohibition on payment of base salary of current employees.—** — Amounts in the Account may not be used to pay the base salary of any person who was an employee of the Department serving in a position in the acquisition workforce as of January 28, 2008, and who has continued in the employment of the Department since such time without a break in such employment of more than a year.
 
-(6) **Duration of availability.—** — Amounts credited to the Fund in accordance with subsection (d)(2), transferred to the Fund pursuant to subsection (d)(3), appropriated to the Fund, or deposited to the Fund shall remain available for obligation in the fiscal year for which credited, transferred, appropriated, or deposited and the two succeeding fiscal years.
+(6) **Duration of availability.—** — Amounts appropriated to the Account pursuant to subsection (d) shall remain available for expenditure for the fiscal year in which appropriated and the succeeding fiscal year.
 
 **(f) Expedited Hiring Authority.—** For purposes of sections 3304, 5333, and 5753 of title 5, the Secretary of Defense may—
 
@@ -231,7 +297,7 @@ Subject to the authority, direction, and control of the Secretary of the militar
 
     (ii) contribute significantly to the acquisition or development of systems relating to cybersecurity; and
 
-  (B) are designated as temporary members of the acquisition workforce by the Under Secretary of Defense for Acquisition, Technology, and Logistics, or by the senior acquisition executive of a military department, for the limited purpose of receiving training for the performance of acquisition-related functions and duties.
+  (B) are designated as temporary members of the acquisition workforce by the Under Secretary of Defense for Acquisition and Sustainment, or by the senior acquisition executive of a military department, for the limited purpose of receiving training for the performance of acquisition-related functions and duties.
 
 ### Statutory Notes
 
@@ -239,6 +305,22 @@ Subject to the authority, direction, and control of the Secretary of the militar
 A prior section 1705, added Pub. L. 101–510, div. A, title XII, § 1202(a), Nov. 5, 1990, 104 Stat. 1639, related to Directors of Acquisition Career Management in the military departments, prior to repeal by Pub. L. 108–136, div. A, title VIII, § 831(a), Nov. 24, 2003, 117 Stat. 1549.
 
 #### Amendments
+2019—Pub. L. 116–92, § 1010(a)(2)(A), substituted “Department of Defense Acquisition Workforce Development Account” for “Department of Defense Acquisition Workforce Development Fund” in section catchline.
+
+Pub. L. 116–92, § 1010(a)(1)(B), substituted “Account” for “Fund” wherever appearing except in subsec. (e)(6) prior to its subsequent amendment.
+
+Pub. L. 116–92, § 1010(b), substituted “Under Secretary of Defense for Acquisition and Sustainment” for “Under Secretary of Defense for Acquisition, Technology, and Logistics” wherever appearing.
+
+Pub. L. 116–92, § 902(13)(A)–(C), which directed amendment of subsecs. (c), (e)(3), and (g)(2)(B), respectively, by substituting “Under Secretary of Defense for Acquisition and Sustainment” for “Under Secretary of Defense for Acquisition, Technology, and Logistics”, effective Dec. 20, 2019, could not be executed because of the identical amendment made by Pub. L. 116–92, § 1010(b), effective Oct. 1, 2019. See Amendment note above and Effective Date of 2019 Amendment note below.
+
+Subsec. (a). Pub. L. 116–92, § 1010(a)(1)(A), substituted “the ‘Department of Defense Acquisition Workforce Development Account’ (in this section referred to as the ‘Account’)” for “the ‘Department of Defense Acquisition Workforce Development Fund’ (in this section referred to as the ‘Fund’)”.
+
+Subsec. (d). Pub. L. 116–92, § 1010(c), amended subsec. (d) generally. Prior to amendment, subsec. (d) listed elements comprising the Fund.
+
+Subsec. (e)(1)(C). Pub. L. 116–92, § 863(b), added subpar. (C).
+
+Subsec. (e)(6). Pub. L. 116–92, § 1010(d), substituted “appropriated to the Account pursuant to subsection (d) shall remain available for expenditure for the fiscal year in which appropriated and the succeeding fiscal year.” for “credited to the Fund in accordance with subsection (d)(2), transferred to the Fund pursuant to subsection (d)(3), appropriated to the Fund, or deposited to the Fund shall remain available for obligation in the fiscal year for which credited, transferred, appropriated, or deposited and the two succeeding fiscal years.”
+
 2017—Subsec. (d)(2)(D). Pub. L. 115–91, § 842, amended subpar. (D) generally. Prior to amendment, subpar. (D) read as follows: “The Secretary of Defense may reduce the amount specified in subparagraph (C) for a fiscal year if the Secretary determines that the amount is greater than is reasonably needed for purposes of the Fund for such fiscal year. The Secretary may not reduce the amount for a fiscal year to an amount that is less than $400,000,000.”
 
 Subsec. (e)(1). Pub. L. 115–91, § 843(a)(1)(A), designated existing provisions as subpar. (A) and added subpar. (B).
@@ -331,6 +413,9 @@ Subsec. (h)(2). Pub. L. 111–84, § 831(b), substituted “September 30, 2015�
 
 2008—Subsec. (h). Pub. L. 110–417 added subsec. (h).
 
+#### Effective Date of 2019 Amendment
+Pub. L. 116–92, div. A, title X, § 1010(e), Dec. 20, 2019, 133 Stat. 1576, provided that: “(1) In general.—The amendments made by this section [amending this section] shall take effect on October 1, 2019, and shall apply with respect to fiscal years that begin on or after that date. “(2) Duration of availability of previously deposited funds.—Nothing in the amendments made by this section shall modify the duration of availability of amounts in the Department of Defense Acquisition Workforce Development Fund that were appropriated or credited to, or deposited, in the Fund, before October 1, 2019, as provided for in [section 1705(e)(6) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1705/e/6&num=0&edition=prelim), United States Code, as in effect on the day before such date.”
+
 #### Effective Date of 2011 Amendment
 Pub. L. 112–81, div. A, title VIII, § 804(b), Dec. 31, 2011, 125 Stat. 1486, provided that: “Paragraph (6) of such section [[10 U.S.C. 1705(e)(6)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1705/e/6&num=0&edition=prelim)], as amended by subsection (a), shall not apply to funds directly appropriated to the Fund before the date of the enactment of this Act [Dec. 31, 2011].”
 
@@ -344,12 +429,12 @@ Pub. L. 110–181, div. A, title VIII, § 852(b), Jan. 28, 2008, 122 Stat. 250, 
 Pub. L. 115–91, div. A, title VIII, § 843(a)(2), Dec. 12, 2017, 131 Stat. 1480, provided that: “Not later than 180 days after the date of the enactment of this Act [Dec. 12, 2017], the Secretary of Defense shall issue, and submit to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives], the policy guidance required by subparagraph (E) of [section 1705(e)(3) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1705/e/3&num=0&edition=prelim), United States Code, as added by paragraph (1).”
 
 #### Plan Required for Temporary Members of Defense Acquisition Workforce
-Pub. L. 112–239, div. A, title VIII, § 803(c), Jan. 2, 2013, 126 Stat. 1825, provided that: “Not later than 180 days after the date of the enactment of this Act [Jan. 2, 2013], the Under Secretary of Defense for Acquisition, Technology, and Logistics shall develop a plan for the implementation of the authority provided by the amendments made by subsection (a) [amending this section] with regard to temporary members of the defense acquisition workforce. The plan shall include policy, criteria, and processes for designating temporary members and appropriate safeguards to prevent the abuse of such authority.”
+Pub. L. 112–239, div. A, title VIII, § 803(c), Jan. 2, 2013, 126 Stat. 1825, as amended by Pub. L. 116–92, div. A, title IX, § 902(14), Dec. 20, 2019, 133 Stat. 1544, provided that: “Not later than 180 days after the date of the enactment of this Act [Jan. 2, 2013], the Under Secretary of Defense for Acquisition and Sustainment shall develop a plan for the implementation of the authority provided by the amendments made by subsection (a) [amending this section] with regard to temporary members of the defense acquisition workforce. The plan shall include policy, criteria, and processes for designating temporary members and appropriate safeguards to prevent the abuse of such authority.”
 
 
 <a id="section-1706"></a>
 ## § 1706. Government performance of certain acquisition functions
-**(a) Goal.—** It shall be the goal of the Department of Defense and each of the military departments to ensure that, for each major defense acquisition program and each major automated information system program, each of the following positions is performed by a properly qualified member of the armed forces or full-time employee of the Department of Defense:
+**(a) Goal.—** It shall be the goal of the Department of Defense and each of the military departments to ensure that, for each major defense acquisition program (as defined in [section 2430 of this title](./chapter-144-major-defense-acquisition-programs.md#section-2430)), each acquisition program that is estimated by the Secretary of Defense to require an eventual total expenditure greater than the amount described in [section 2430(a)(1)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2430/a/1/B&num=0&edition=prelim), and any other acquisition program identified by the Secretary, each of the following positions is performed by a properly qualified member of the armed forces or full-time employee of the Department of Defense:
 
 (1) Program executive officer.
 
@@ -377,37 +462,94 @@ Pub. L. 112–239, div. A, title VIII, § 803(c), Jan. 2, 2013, 126 Stat. 1825, 
 
 (13) Program lead information technology.
 
+(14) Program lead software.
+
 **(b) Plan of Action.—** The Secretary of Defense shall develop and implement a plan of action for recruiting, training, and ensuring appropriate career development of military and civilian personnel to achieve the objective established in subsection (a).
-
-**(c) Definitions.—** In this section:
-
-(1) The term “major defense acquisition program” has the meaning given such term in [section 2430(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2430/a&num=0&edition=prelim).
-
-(2) The term “major automated information system program” has the meaning given such term in section 2445a(a) 11 See References in Text note below. of this title.
 
 ### Statutory Notes
 
-#### References in Text
-[Section 2445a of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2445a&num=0&edition=prelim), referred to in subsec. (c)(2), was repealed by Pub. L. 114–328, div. A, title VIII, § 846(1), Dec. 23, 2016, 130 Stat. 2292, effective Sept. 30, 2017.
-
 #### Prior Provisions
 A prior section 1706, added Pub. L. 101–510, div. A, title XII, § 1202(a), Nov. 5, 1990, 104 Stat. 1639, which related to acquisition career program boards, was repealed by Pub. L. 108–136, div. A, title VIII, § 831(a), Nov. 24, 2003, 117 Stat. 1549.
+
+#### Amendments
+2021—Subsec. (a). Pub. L. 116–283, § 812(1)(A), substituted “(as defined in [section 2430 of this title](./chapter-144-major-defense-acquisition-programs.md#section-2430)), each acquisition program that is estimated by the Secretary of Defense to require an eventual total expenditure greater than the amount described in [section 2430(a)(1)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2430/a/1/B&num=0&edition=prelim), and any other acquisition program identified by the Secretary” for “and each major automated information system program” in introductory provisions.
+
+Subsec. (a)(14). Pub. L. 116–283, § 812(1)(B), added par. (14).
+
+Subsec. (c). Pub. L. 116–283, § 812(2), struck out subsec. (c) which related to definitions.
+
+Subsec. (c)(1). Pub. L. 116–283, § 1846(i)(3), which directed substitution of “section 4201” for “section 2430(a)”, could not be executed because of the intervening amendment by Pub. L. 116–283, § 812(2). See above.
 
 #### Similar Provisions
 Provisions similar to this section were contained in section 820 of Pub. L. 109–364, which was set out as a note under [section 1701 of this title](./chapter-087-defense-acquisition-workforce.md#section-1701) prior to repeal by Pub. L. 112–239, div. A, title VIII, § 824(b), Jan. 2, 2013, 126 Stat. 1833.
 
 
 <a id="section-1707"></a>
-## § 1707. Repealed. Pub. L. 108–136, div. A, title VIII, § 831(a), Nov. 24, 2003, 117 Stat. 1549]
+## § 1707. Cadre of intellectual property experts
+**(a) Cadre.—** The Secretary of Defense, acting through the Under Secretary of Defense for Acquisition and Sustainment, shall establish a cadre of personnel who are experts in intellectual property matters. The purpose of the cadre is to ensure a consistent, strategic, and highly knowledgeable approach to acquiring or licensing intellectual property by providing expert advice, assistance, and resources to the acquisition workforce on intellectual property matters, including acquiring or licensing intellectual property.
+
+**(b) Leadership Structure.—** The Under Secretary—
+
+(1) shall establish an appropriate leadership structure and office within which the cadre shall be managed; and
+
+(2) shall determine the appropriate official to whom members of the cadre shall report.
+
+**(c) Duties.—** The cadre of experts shall be assigned to a program office or an acquisition command within a military department to advise, assist, and provide resources to a program manager or program executive officer on intellectual property matters at various stages of the life cycle of a system. In performing such duties, the experts shall—
+
+(1) interpret and provide counsel on laws, regulations, and policies relating to intellectual property;
+
+(2) advise and assist in the development of an acquisition strategy, product support strategy, and intellectual property strategy for a system;
+
+(3) conduct or assist with financial analysis and valuation of intellectual property;
+
+(4) assist in the drafting of a solicitation, contract, or other transaction;
+
+(5) interact with or assist in interactions with contractors, including communications and negotiations with contractors on solicitations and awards; and
+
+(6) conduct or assist with mediation if technical data delivered pursuant to a contract is incomplete or does not comply with the terms of agreements.
+
+**(d) Administration.—**
+
+(1) In order to achieve the purpose set forth in subsection (a), the Under Secretary shall ensure the cadre has the appropriate number of staff and such staff possesses the necessary skills, knowledge, and experience to carry out the duties under subsection (b), including in relevant areas of law, contracting, acquisition, logistics, engineering, financial analysis, and valuation. The Under Secretary, in coordination with the Defense Acquisition University and in consultation with academia and industry, shall develop a career path, including development opportunities, exchanges, talent management programs, and training, for the cadre. The Under Secretary may use existing authorities to staff the cadre, including those in paragraphs (2), (3), (4), and (6).
+
+(2) Civilian personnel from within the Office of the Secretary of Defense, Joint Staff, military departments, Defense Agencies, and combatant commands may be assigned to serve as members of the cadre, upon request of the Director.
+
+(3) The Under Secretary may use the authorities for highly qualified experts under [section 9903 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section9903&num=0&edition=prelim), to hire experts as members of the cadre who are skilled professionals in intellectual property and related matters.
+
+(4) The Under Secretary may enter into a contract with a private-sector entity for specialized expertise to support the cadre. Such entity may be considered a covered Government support contractor, as defined in [section 3775(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section3775/a&num=0&edition=prelim).
+
+(5) In establishing the cadre, the Under Secretary shall give preference to civilian employees of the Department of Defense, rather than members of the armed forces, to maintain continuity in the cadre.
+
+(6) The Under Secretary is authorized to use amounts in the Defense Acquisition Workforce Development Fund for the purpose of recruitment, training, and retention of the cadre, including paying salaries of newly hired members of the cadre for up to three years.
 
 ### Statutory Notes
 
-Section 1707, added Pub. L. 101–510, div. A, title XII, § 1202(a), Nov. 5, 1990, 104 Stat. 1639; amended Pub. L. 103–160, div. A, title IX, § 904(d)(1), Nov. 30, 1993, 107 Stat. 1728; Pub. L. 107–107, div. A, title X, § 1048(b)(2), Dec. 28, 2001, 115 Stat. 1225, related to personnel in the Office of the Secretary of Defense and in the Defense Agencies.
+#### Prior Provisions
+A prior section 1707, added Pub. L. 101–510, div. A, title XII, § 1202(a), Nov. 5, 1990, 104 Stat. 1639; amended Pub. L. 103–160, div. A, title IX, § 904(d)(1), Nov. 30, 1993, 107 Stat. 1728; Pub. L. 107–107, div. A, title X, § 1048(b)(2), Dec. 28, 2001, 115 Stat. 1225, related to personnel in the Office of the Secretary of Defense and in the Defense Agencies, prior to repeal by Pub. L. 108–136, div. A, title VIII, § 831(a), Nov. 24, 2003, 117 Stat. 1549.
+
+#### Codification
+The text of subsec. (b) of section 2322 of title, which was transferred to this section and amended by Pub. L. 116–283, § 1877(b)–(e), was based on Pub. L. 115–91, div. A, title VIII, § 802(a)(1), Dec. 12, 2017, 131 Stat. 1450.
+
+#### Amendments
+2021—Subsec. (a). Pub. L. 116–283, § 1877(b)(1), redesignated subsec. (b)(1) of [section 2322 of this title](./chapter-137-procurement-generally.md#section-2322) as subsec. (a) of this section and inserted heading.
+
+Subsec. (b). Pub. L. 116–283, § 1877(b)(3), (c), redesignated subsec. (b)(2) of [section 2322 of this title](./chapter-137-procurement-generally.md#section-2322) as subsec. (b) of this section, inserted heading, inserted dash after “Secretary”, and reorganized remainder of text as pars. (1) and (2).
+
+Subsec. (c). Pub. L. 116–283, § 1877(b)(3), (d), redesignated subsec. (b)(3) of [section 2322 of this title](./chapter-137-procurement-generally.md#section-2322) as subsec. (c) of this section, inserted heading, and redesignated subpars. (A) to (F) as pars. (1) to (6), respectively. Amendment by section 1877(d) was executed to subsec. (c) of this section to reflect the probable intent of Congress, notwithstanding directory language amending subsec. (c) of section “17017”.
+
+Subsec. (d). Pub. L. 116–283, § 1877(b)(3), (e)(1), (2), redesignated subsec. (b)(4) of [section 2322 of this title](./chapter-137-procurement-generally.md#section-2322) as subsec. (d) of this section, inserted heading, and redesignated subpar.s. (A) to (F) as pars. (1) to (6), respectively.
+
+Subsec. (d)(1). Pub. L. 116–283, § 1877(e)(3), in first sentence, substituted “subsection (a)” for “paragraph (1)” and “subsection (b)” for “paragraph (2)” and, in third sentence, substituted “paragraphs (2), (3), (4), and (6)” for “subparagraphs (B), (C), (D), and (F)”.
+
+Subsec. (d)(4). Pub. L. 116–283, § 1877(e)(4), substituted “section 3775(a)” for “section 2320”.
+
+#### Effective Date
+Section and amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as an Effective Date of 2021 Amendment note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
 
 
 <a id="section-1721"></a>
-## § 1721. Designation of acquisition positions
-**(a) Designation.—** The Secretary of Defense shall designate in regulations those positions in the Department of Defense that are acquisition positions for purposes of this chapter.
+## § 1721. Designation of acquisition positions and acquisition workforce career fields
+**(a) Designation.—** The Secretary of Defense shall designate in regulations those positions in the Department of Defense that are acquisition positions for purposes of this chapter. The Secretary shall also designate in regulations those career fields in the Department of Defense that are acquisition workforce career fields for purposes of this chapter.
 
 **(b) Required Positions.—** In designating the positions under subsection (a), the Secretary shall include, at a minimum, all acquisition-related positions in the following areas:
 
@@ -431,20 +573,33 @@ Section 1707, added Pub. L. 101–510, div. A, title XII, § 1202(a), Nov. 5, 19
 
 (10) Construction.
 
-(11) Joint development and production with other government agencies and foreign countries.
+(11) Security cooperation.
 
 (12) Intellectual property.
+
+(13) Other positions, as necessary.
 
 **(c) Management Headquarters Activities.—** The Secretary also shall designate as acquisition positions under subsection (a) those acquisition-related positions which are in management headquarters activities and in management headquarters support activities. For purposes of this subsection, the terms “management headquarters activities” and “management headquarters support activities” have the meanings given those terms in Department of Defense Directive 5100.73, entitled “Department of Defense Management Headquarters and Headquarters Support Activities”, dated November 12, 1996.
 
 ### Statutory Notes
 
 #### Amendments
+2019—Pub. L. 116–92, § 861(f)(2)(A), substituted “Designation of acquisition positions and acquisition workforce career fields” for “Designation of acquisition positions” in section catchline.
+
+Subsec. (a). Pub. L. 116–92, § 861(f)(1), inserted at end “The Secretary shall also designate in regulations those career fields in the Department of Defense that are acquisition workforce career fields for purposes of this chapter.”
+
+Subsec. (b)(11). Pub. L. 116–92, § 861(d)(1), amended par. (11) generally. Prior to amendment, par. (11) read as follows: “Joint development and production with other government agencies and foreign countries.”
+
+Subsec. (b)(13). Pub. L. 116–92, § 861(d)(2), added par. (13).
+
 2017—Subsec. (b)(12). Pub. L. 115–91 added par. (12).
 
 1997—Subsec. (c). Pub. L. 105–85 substituted “November 12, 1996” for “November 25, 1988”.
 
 1991—Subsec. (c). Pub. L. 102–25 substituted “Activities’, dated” for “Activities,’ dated” in last sentence.
+
+#### Deadline for Designation of Career Fields
+Pub. L. 116–92, div. A, title VIII, § 861(f)(4), Dec. 20, 2019, 133 Stat. 1518, provided that: “Not later than the end of the six-month period beginning on the date of the enactment of this Act [Dec. 20, 2019], the Secretary of Defense shall carry out the requirements of the second sentence of [section 1721(a) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1721/a&num=0&edition=prelim), United States Code (as added by paragraph (1)).”
 
 #### Twenty Percent Reduction in Defense Acquisition Workforce
 Pub. L. 101–510, div. A, title IX, § 905, Nov. 5, 1990, 104 Stat. 1621, required Secretary of Defense to reduce number of employees in Department of Defense acquisition workforce on last day of each of fiscal years 1991 through 1995 below number of employees in such workforce on last day of preceding fiscal year by not less than number equal to 4 percent of number of employees in such workforce on Sept. 30, 1990, and which defined “Department of Defense acquisition workforce”, prior to repeal by Pub. L. 102–190, div. A, title IX, § 904, Dec. 5, 1991, 105 Stat. 1451.
@@ -455,7 +610,7 @@ Pub. L. 101–510, div. A, title XII, § 1209(b), Nov. 5, 1990, 104 Stat. 1666, 
 
 <a id="section-1722"></a>
 ## § 1722. Career development
-**(a) Career Paths.—** The Secretary of Defense, acting through the Under Secretary of Defense for Acquisition, Technology, and Logistics, shall ensure that appropriate career paths for civilian and military personnel who wish to pursue careers in acquisition are identified in terms of the education, training, experience, and assignments necessary for career progression of civilians and members of the armed forces to the most senior acquisition positions. The Secretary shall make available published information on such career paths.
+**(a) Career Paths.—** The Secretary of Defense, acting through the Under Secretary of Defense for Acquisition and Sustainment, shall ensure that an appropriate career path for civilian and military personnel who wish to pursue careers in acquisition is identified for each acquisition workforce career field in terms of the education, training, experience, and assignments necessary for career progression of civilians and members of the armed forces to the most senior acquisition positions. The Secretary shall make available published information on such career paths.
 
 **(b) Limitation on Preference for Military Personnel.—**
 
@@ -465,7 +620,7 @@ Pub. L. 101–510, div. A, title XII, § 1209(b), Nov. 5, 1990, 104 Stat. 1666, 
 
   (A) The Secretary shall establish a policy permitting a particular acquisition position to be specified as available only to members of the armed forces if a determination is made, under criteria specified in the policy, that a member of the armed forces is required for that position by law, is essential for performance of the duties of the position, or is necessary for another compelling reason.
 
-  (B) Not later than December 15 of each year, the Under Secretary of Defense for Acquisition, Technology, and Logistics shall submit to the Secretary a report that lists each acquisition position that is restricted to members of the armed forces under such policy and the recommendation of the Under Secretary as to whether such position should remain so restricted.
+  (B) Not later than December 15 of each year, the Under Secretary of Defense for Acquisition and Sustainment shall submit to the Secretary a report that lists each acquisition position that is restricted to members of the armed forces under such policy and the recommendation of the Under Secretary as to whether such position should remain so restricted.
 
 **(c) Opportunities for Civilians To Qualify.—** The Secretary of Defense shall ensure that civilian personnel are provided the opportunity to acquire the education, training, and experience necessary to qualify for senior acquisition positions.
 
@@ -486,6 +641,12 @@ Pub. L. 101–510, div. A, title XII, § 1209(b), Nov. 5, 1990, 104 Stat. 1666, 
 ### Statutory Notes
 
 #### Amendments
+2019—Subsec. (a). Pub. L. 116–92, § 902(15)(A), substituted “Under Secretary of Defense for Acquisition and Sustainment” for “Under Secretary of Defense for Acquisition”.
+
+Pub. L. 116–92, § 861(e)(2), substituted “an appropriate career path” for “appropriate career paths” and “is identified for each acquisition workforce career field” for “are identified”.
+
+Subsec. (b)(2)(B). Pub. L. 116–92, § 902(15)(B), substituted “Under Secretary of Defense for Acquisition and Sustainment” for “Secretary of Defense for Acquisition, Technology, and Logistics”.
+
 2001—Subsecs. (a), (b)(2)(B). Pub. L. 107–107, § 1048(b)(2), substituted “Under Secretary of Defense for Acquisition, Technology, and Logistics” for “Under Secretary of Defense for Acquisition and Technology”.
 
 Subsec. (e). Pub. L. 107–107, § 1048(e)(3), struck out heading and text of subsec. (e). Text read as follows: “The Secretary of Defense shall ensure that the acquisition workforce is managed such that, for each fiscal year from October 1, 1991, through September 30, 1996, there is a substantial increase in the proportion of civilians (as compared to armed forces personnel) serving in critical acquisition positions in general, in program manager positions, and in division head positions over the proportion of civilians (as compared to armed forces personnel) in such positions on October 1, 1990.”
@@ -498,7 +659,7 @@ Pub. L. 101–510, div. A, title XII, § 1209(c), (d), Nov. 5, 1990, 104 Stat. 1
 
 <a id="section-1722a"></a>
 ## § 1722a. Special requirements for military personnel in the acquisition field
-**(a) Requirement for Policy and Guidance Regarding Military Personnel in Acquisition.—** The Secretary of Defense shall require the Secretary of each military department (with respect to such military department), in collaboration with the Chief of Staff of the Army, the Chief of Naval Operations, the Chief of Staff of the Air Force, and the Commandant of the Marine Corps (with respect to the Army, Navy, Air Force, and Marine Corps, respectively), and the Under Secretary of Defense for Acquisition, Technology, and Logistics (with respect to the Office of the Secretary of Defense, the unified combatant commands, the Defense Agencies, and the Defense Field Activities) to establish policies and issue guidance to ensure the proper development, assignment, and employment of members of the armed forces in the acquisition field to achieve the objectives of this section as specified in subsection (b).
+**(a) Requirement for Policy and Guidance Regarding Military Personnel in Acquisition.—** The Secretary of Defense shall require the Secretary of each military department (with respect to such military department), in collaboration with the Chief of Staff of the Army, the Chief of Naval Operations, the Chief of Staff of the Air Force,,11 So in original. the Commandant of the Marine Corps, and the Chief of Space Operations (with respect to the Army, Navy, Air Force, Marine Corps, and Space Force, respectively), and the Under Secretary of Defense for Acquisition and Sustainment (with respect to the Office of the Secretary of Defense, the unified combatant commands, the Defense Agencies, and the Defense Field Activities) to establish policies and issue guidance to ensure the proper development, assignment, and employment of members of the armed forces in the acquisition field to achieve the objectives of this section as specified in subsection (b).
 
 **(b) Objectives.—** Policies established and guidance issued pursuant to subsection (a) shall ensure, at a minimum, the following:
 
@@ -528,11 +689,17 @@ Pub. L. 101–510, div. A, title XII, § 1209(c), (d), Nov. 5, 1990, 104 Stat. 1
 
 **(d) Relationship to Limitation on Preference for Military Personnel.—** Any designation or reservation of a position for a member of the armed forces as a result of a policy established or guidance issued pursuant to this section shall be deemed to meet the requirements for an exception under paragraph (2) of [section 1722(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1722/b&num=0&edition=prelim) from the limitation in paragraph (1) of such section.
 
-**(e) Report.—** Not later than January 1 of each year, the Secretary of each military department shall submit to the Under Secretary of Defense for Acquisition, Technology, and Logistics a report describing how the Secretary fulfilled the objectives of this section in the preceding calendar year. The report shall include information on the reservation of acquisition billets for general officers and flag officers within the department concerned.
+**(e) Report.—** Not later than January 1 of each year, the Secretary of each military department shall submit to the Under Secretary of Defense for Acquisition and Sustainment a report describing how the Secretary fulfilled the objectives of this section in the preceding calendar year. The report shall include information on the reservation of acquisition billets for general officers and flag officers within the department concerned.
 
 ### Statutory Notes
 
 #### Amendments
+2021—Subsec. (a). Pub. L. 116–283, § 924(b)(27)(B), which directed substitution of “the Under Secretary of Defense for Acquisition and Sustainment” for “the Under Secretary of Defense for Acquisition, Technology, and Logistics”, could not be executed because of the intervening amendment by Pub. L. 116–92. See 2019 Amendment note below.
+
+Pub. L. 116–283, § 924(b)(27)(A), substituted “, the Commandant of the Marine Corps, and the Chief of Space Operations (with respect to the Army, Navy, Air Force, Marine Corps, and Space Force, respectively)” for “and the Commandant of the Marine Corps (with respect to the Army, Navy, Air Force, and Marine Corps, respectively)”.
+
+2019—Subsecs. (a), (e). Pub. L. 116–92 substituted “Under Secretary of Defense for Acquisition and Sustainment” for “Under Secretary of Defense for Acquisition, Technology, and Logistics”.
+
 2015—Subsec. (a). Pub. L. 114–92, § 842(a), inserted “, in collaboration with the Chief of Staff of the Army, the Chief of Naval Operations, the Chief of Staff of the Air Force, and the Commandant of the Marine Corps (with respect to the Army, Navy, Air Force, and Marine Corps, respectively),” after “military department)”.
 
 Subsec. (b)(1). Pub. L. 114–92, § 842(b)(2), inserted “single-track” before “career path”.
@@ -542,7 +709,7 @@ Subsec. (b)(2) to (4). Pub. L. 114–92, § 842(b)(1), (3), added par. (2) and r
 
 <a id="section-1722b"></a>
 ## § 1722b. Special requirements for civilian employees in the acquisition field
-**(a) Requirement for Policy and Guidance Regarding Civilian Personnel in Acquisition.—** The Secretary of Defense, acting through the Under Secretary of Defense for Acquisition, Technology, and Logistics, shall establish policies and issue guidance to ensure the proper development, assignment, and employment of civilian members of the acquisition workforce to achieve the objectives specified in subsection (b).
+**(a) Requirement for Policy and Guidance Regarding Civilian Personnel in Acquisition.—** The Secretary of Defense, acting through the Under Secretary of Defense for Acquisition and Sustainment, shall establish policies and issue guidance to ensure the proper development, assignment, and employment of civilian members of the acquisition workforce to achieve the objectives specified in subsection (b).
 
 **(b) Objectives.—** Policies established and guidance issued pursuant to subsection (a) shall ensure, at a minimum, the following:
 
@@ -556,14 +723,23 @@ Subsec. (b)(2) to (4). Pub. L. 114–92, § 842(b)(1), (3), added par. (2) and r
 
 (5) A deliberate workforce development strategy that ensures diversity in promotion, advancement, and experiential opportunities commensurate with the general workforce outlined in this section.
 
+**(c) Key Work Experiences.—** In carrying out subsection (b)(2), the Secretary shall ensure that key work experiences, in the form of multidisciplinary experiences, are developed for each acquisition workforce career field.
+
 ### Statutory Notes
 
 #### Amendments
+2019—Subsec. (a). Pub. L. 116–92, § 902(17), substituted “Under Secretary of Defense for Acquisition and Sustainment” for “Under Secretary of Defense for Acquisition, Technology, and Logistics”.
+
+Subsec. (c). Pub. L. 116–92, § 861(g)(1), added subsec. (c).
+
 2017—Subsec. (c). Pub. L. 115–91 struck out subsec. (c) which related to inclusion of information in annual report to Congress required under former [section 115b(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section115b/d&num=0&edition=prelim).
 
 2013—Subsec. (c)(3). Pub. L. 112–239, § 1076(d)(1)(A), substituted “subsections (b)(1)(A) and (b)(1)(B)” for “subsections (b)(2)(A) and (b)(2)(B)”.
 
 Subsec. (c)(4). Pub. L. 112–239, § 1076(d)(1)(B), substituted “or 1734(d)” for “1734(d), or 1736(c)”.
+
+#### Plan for Implementation of Key Work Experiences
+Pub. L. 116–92, div. A, title VIII, § 861(g)(2), Dec. 20, 2019, 133 Stat. 1518, provided that: “Not later than one year after the date of the enactment of this Act [Dec. 20, 2019], the Secretary of Defense shall submit to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] a plan identifying the specific actions the Secretary has taken, and is planning to take, to develop and establish key work experiences for each acquisition workforce career field as required by subsection (c) of [section 1722b of title 10](./chapter-087-defense-acquisition-workforce.md#section-1722b), United States Code (as added by paragraph (1)). The plan shall specify the percentage of the acquisition workforce, or funds available for administration of the acquisition workforce on an annual basis, that the Secretary will dedicate towards developing and establishing such key work experiences.”
 
 #### Enhancements to the Civilian Program Management Workforce
 Pub. L. 115–91, div. A, title VIII, § 841(a), Dec. 12, 2017, 131 Stat. 1477, provided that: “(a) Establishment of Program Manager Development Program.—“(1) In general.—The Secretary of Defense, in consultation with the Secretaries of the military departments, shall implement a program manager development program to provide for the professional development of high-potential, experienced civilian personnel. Personnel shall be competitively selected for the program based on their potential to become a program manager of a major defense acquisition program, as defined in [section 2430 of title 10](./chapter-144-major-defense-acquisition-programs.md#section-2430), United States Code. The program shall be administered and overseen by the Secretary of each military department, acting through the service acquisition executive for the department concerned. “(2) Plan required.—Not later than one year after the date of the enactment of this Act [Dec. 12, 2017], the Secretary of Defense shall provide to the Committees on Armed Services of the Senate and the House of Representatives a comprehensive plan to implement the program established under paragraph (1). In developing the plan, the Secretary of Defense shall seek the input of relevant external parties, including professional associations, other government entities, and industry. The plan shall include the following elements:“(A) An assessment of the minimum level of subject matter experience, education, years of experience, certifications, and other qualifications required to be selected into the program, set forth separately for current Department of Defense employees and for personnel hired into the program from outside the Department of Defense. “(B) A description of hiring flexibilities to be used to recruit qualified personnel from outside the Department of Defense. “(C) A description of the extent to which mobility agreements will be required to be signed by personnel selected for the program during their participation in the program and after their completion of the program. The use of mobility agreements shall be applied to help maximize the flexibility of the Department of Defense in assigning personnel, while not inhibiting the participation of the most capable candidates. “(D) A description of the tenure obligation required of personnel selected for the program. “(E) A plan for training during the course of the program, including training in leadership, program management, engineering, finance and budgeting, market research, business acumen, contracting, supplier management, requirement setting and tradeoffs, intellectual property matters, and software. “(F) A description of career paths to be followed by personnel in the program in order to ensure that personnel in the program gain expertise in the program management functional career field competencies identified by the Department in existing guidance and the topics listed in subparagraph (E), including—“(i) a determination of the types of advanced educational degrees that enhance program management skills and the mechanisms available to the Department of Defense to facilitate the attainment of those degrees by personnel in the program; “(ii) a determination of required assignments to positions within acquisition programs, including position type and acquisition category of the program office; “(iii) a determination of required or encouraged rotations to career broadening positions outside of acquisition programs; and “(iv) a determination of how the program will ensure the opportunity for a required rotation to industry of at least six months to develop an understanding of industry motivation and business acumen, such as by developing an industry exchange program for civilian program managers, similar to the Corporate Fellows Program of the Secretary of Defense. “(G) A general description of the number of personnel anticipated to be selected into the program, how frequently selections will occur, how long personnel selected into the program will participate in the program, and how personnel will be placed into an assignment at the completion of the program. “(H) A description of benefits that will be offered under the program using existing human capital flexibilities to retain qualified employees, such as student loan repayments, bonuses, or pay banding. “(I) An assessment of personnel flexibilities needed to allow the military departments and the Defense Agencies to reassign or remove program managers that do not perform effectively. “(J) A description of how the program will be administered and overseen by the Secretaries of each military department, acting through the service acquisition executive for the department concerned. “(K) A description of how the program will be integrated with existing program manager development efforts at each military department. “(3) Use of defense acquisition workforce development fund.—Amounts in the Department of Defense Acquisition Workforce Development Fund (established under [section 1705 of title 10](./chapter-087-defense-acquisition-workforce.md#section-1705), United States Code) may be used to pay the base salary of personnel in the program established under paragraph (1) during the period of time such personnel are temporarily assigned to a developmental rotation or training program anticipated to last at least six months. “(4) Implementation.—The program established under paragraph (1) shall be implemented not later than September 30, 2019.”
@@ -575,13 +751,13 @@ Pub. L. 115–91, div. A, title VIII, § 841(a), Dec. 12, 2017, 131 Stat. 1477, 
 
 (1) The Secretary of Defense shall establish education, training, and experience requirements for each acquisition position, based on the level of complexity of duties carried out in the position. In establishing such requirements, the Secretary shall ensure the availability and sufficiency of training in all areas of acquisition, including additional training courses with an emphasis on services contracting, market research strategies (including assessments of local contracting capabilities), long-term sustainment strategies, information technology, and rapid acquisition.
 
-(2) In establishing such requirements for positions other than critical acquisition positions designated pursuant to [section 1733 of this title](./chapter-087-defense-acquisition-workforce.md#section-1733), the Secretary may state the requirements by categories of positions.
+(2) In establishing such requirements for positions other than critical acquisition positions designated pursuant to [section 1731 of this title](./chapter-087-defense-acquisition-workforce.md#section-1731), the Secretary may state the requirements by categories of positions.
 
-(3) The Secretary of Defense, acting through the Under Secretary of Defense for Acquisition, Technology, and Logistics, shall establish requirements for continuing education and periodic renewal of an individual’s certification. Any requirement for a certification renewal shall not require a renewal more often than once every five years.
+(3) The Secretary of Defense, acting through the Under Secretary of Defense for Acquisition and Sustainment, shall establish requirements for continuing education and periodic renewal of an individual’s certification.
 
-**(b) Career Path Requirements.—** For each career path, the Secretary of Defense, acting through the Under Secretary of Defense for Acquisition, Technology, and Logistics, shall establish requirements for the completion of course work and related on-the-job training and demonstration of qualifications in the critical acquisition-related duties and tasks of the career path. The Secretary of Defense, acting through the Under Secretary, shall also—
+**(b) Career Path Requirements.—** For each career path, the Secretary of Defense, acting through the Under Secretary of Defense for Acquisition and Sustainment, shall establish requirements for the completion of course work and related on-the-job training and demonstration of qualifications in duties and tasks of the career path. The Secretary of Defense, acting through the Under Secretary, shall also—
 
-(1) encourage individuals in the acquisition workforce to maintain the currency of their acquisition knowledge and generally enhance their knowledge of related acquisition management disciplines through academic programs and other self-developmental activities; and
+(1) direct individuals in the acquisition workforce to maintain the currency of their acquisition knowledge and generally enhance their knowledge of related acquisition management disciplines through academic programs and other self-developmental activities; and
 
 (2) develop key work experiences, including the creation of a program sponsored by the Department of Defense that facilitates the periodic interaction between individuals in the acquisition workforce and the end user in such end user’s environment to enhance the knowledge base of such workforce, for individuals in the acquisition workforce so that the individuals may gain in-depth knowledge and experience in the acquisition process and become seasoned, well-qualified members of the acquisition workforce.
 
@@ -590,6 +766,18 @@ Pub. L. 115–91, div. A, title VIII, § 841(a), Dec. 12, 2017, 131 Stat. 1477, 
 ### Statutory Notes
 
 #### Amendments
+2019—Subsec. (a)(2). Pub. L. 116–92, § 861(j)(8), substituted “[section 1731 of this title](./chapter-087-defense-acquisition-workforce.md#section-1731)” for “[section 1733 of this title](./chapter-087-defense-acquisition-workforce.md#section-1733)”.
+
+Subsec. (a)(3). Pub. L. 116–92, § 902(18)(A), substituted “Under Secretary of Defense for Acquisition and Sustainment” for “Under Secretary of Defense for Acquisition, Technology, and Logistics”.
+
+Pub. L. 116–92, § 861(a)(4)(A), struck out second sentence which read as follows: “Any requirement for a certification renewal shall not require a renewal more often than once every five years.”
+
+Subsec. (b). Pub. L. 116–92, § 902(18)(B), substituted “Under Secretary of Defense for Acquisition and Sustainment” for “Under Secretary of Defense for Acquisition, Technology, and Logistics” in introductory provisions.
+
+Pub. L. 116–92, § 861(h), struck out “the critical acquisition-related” after “qualifications in” in introductory provisions.
+
+Subsec. (b)(1). Pub. L. 116–92, § 861(a)(4)(B), substituted “direct” for “encourage”.
+
 2011—Subsec. (a). Pub. L. 111–383, § 874(a), amended subsec. (a) generally. Prior to amendment, text read as follows: “The Secretary of Defense shall establish education, training, and experience requirements for each acquisition position, based on the level of complexity of duties carried out in the position. In establishing such requirements for positions other than critical acquisition positions designated pursuant to [section 1733 of this title](./chapter-087-defense-acquisition-workforce.md#section-1733), the Secretary may state the requirements by categories of positions.”
 
 Subsecs. (b), (c). Pub. L. 111–383, § 873(b), added subsec. (b) and redesignated former subsec. (b) as (c).
@@ -614,17 +802,15 @@ Pub. L. 102–484, div. A, title VIII, § 812(c), Oct. 23, 1992, 106 Stat. 2451,
 
 (2) have at least two years of experience in a contracting position;
 
-(3)
-
-  (A) have received a baccalaureate degree from an accredited educational institution authorized to grant baccalaureate degrees, and (B) have completed at least 24 semester credit hours (or the equivalent) of study from an accredited institution of higher education in any of the following disciplines: accounting, business, finance, law, contracts, purchasing, economics, industrial management, marketing, quantitative methods, and organization and management; and
+(3) have received a baccalaureate degree from an accredited educational institution authorized to grant baccalaureate degrees; and
 
 (4) meet such additional requirements, based on the dollar value and complexity of the contracts awarded or administered in the position, as may be established by the Secretary of Defense for the position.
 
 **(b) GS–1102 Series Positions and Similar Military Positions.—**
 
-(1) The Secretary of Defense shall require that in order to qualify to serve in a position in the Department of Defense that is in the GS–1102 occupational series an employee or potential employee of the Department of Defense meet the requirements set forth in paragraph (3) of subsection (a). The Secretary may not require that in order to serve in such a position an employee or potential employee meet any of the requirements of paragraphs (1) and (2) of that subsection.
+(1) The Secretary of Defense shall require that in order to qualify to serve in a position in the Department of Defense that is in the GS–1102 occupational series an employee or potential employee of the Department of Defense meet the requirement set forth in paragraph (3) of subsection (a). The Secretary may not require that in order to serve in such a position an employee or potential employee meet any of the requirements of paragraphs (1) and (2) of that subsection.
 
-(2) The Secretary of Defense shall require that in order for a member of the armed forces to be selected for an occupational specialty within the armed forces that (as determined by the Secretary) is similar to the GS–1102 occupational series a member of the armed forces meet the requirements set forth in paragraph (3) of subsection (a). The Secretary may not require that in order to be selected for such an occupational specialty a member meet any of the requirements of paragraphs (1) and (2) of that subsection.
+(2) The Secretary of Defense shall require that in order for a member of the armed forces to be selected for an occupational specialty within the armed forces that (as determined by the Secretary) is similar to the GS–1102 occupational series a member of the armed forces meet the requirement set forth in paragraph (3) of subsection (a). The Secretary may not require that in order to be selected for such an occupational specialty a member meet any of the requirements of paragraphs (1) and (2) of that subsection.
 
 **(c) Exceptions.—** The qualification requirements imposed by the Secretary of Defense pursuant to subsections (a) and (b) shall not apply to an employee of the Department of Defense or member of the armed forces who—
 
@@ -642,30 +828,43 @@ Pub. L. 102–484, div. A, title VIII, § 812(c), Oct. 23, 1992, 106 Stat. 2451,
 
 (1) The Secretary of Defense may—
 
-  (A) establish or continue one or more programs for the purpose of recruiting, selecting, appointing, educating, qualifying, and developing the careers of individuals to meet the requirements in subparagraphs (A) and (B) of subsection (a)(3);
+  (A) establish or continue one or more programs for the purpose of recruiting, selecting, appointing, educating, qualifying, and developing the careers of individuals to meet the requirement of subsection (a)(3);
 
   (B) appoint individuals to developmental positions in those programs; and
 
-  (C) separate from the civil service after a three-year probationary period any individual appointed under this subsection who fails to meet the requirements described in subsection (a)(3).
+  (C) separate from the civil service after a three-year probationary period any individual appointed under this subsection who fails to meet the requirement described in subsection (a)(3).
 
-(2) To qualify for any developmental program described in paragraph (1)(B), an individual shall have—
+(2) To qualify for any developmental program described in paragraph (1)(B), an individual shall have been awarded a baccalaureate degree, with a grade point average of at least 3.0 (or the equivalent), from an accredited institution of higher education authorized to grant baccalaureate degrees.
 
-  (A) been awarded a baccalaureate degree, with a grade point average of at least 3.0 (or the equivalent), from an accredited institution of higher education authorized to grant baccalaureate degrees; or
-
-  (B) completed at least 24 semester credit hours or the equivalent of study from an accredited institution of higher education in any of the disciplines of accounting, business, finance, law, contracts, purchasing, economics, industrial management, marketing, quantitative methods, or organization and management.
-
-**(f) Contingency Contracting Force.—** The Secretary shall establish qualification requirements for the contingency contracting force consisting of members of the armed forces whose mission is to deploy in support of contingency operations and other operations of the Department of Defense, including—
-
-(1) completion of at least 24 semester credit hours or the equivalent of study from an accredited institution of higher education or similar educational institution in any of the disciplines of accounting, business, finance, law, contracts, purchasing, economics, industrial management, marketing, quantitative methods, or organization and management; or
-
-(2) passing an examination that demonstrates skills, knowledge, or abilities comparable to that of an individual who has completed at least 24 semester credit hours or the equivalent of study in any of the disciplines described in paragraph (1).
+**(f) Contingency Contracting Force.—** The Secretary shall establish qualification requirements for the contingency contracting force consisting of members of the armed forces whose mission is to deploy in support of contingency operations and other operations of the Department of Defense.
 
 ### Statutory Notes
+
+#### Amendment of Section
+Pub. L. 116–283, div. A, title XVIII, §§ 1801(d), 1883(b)(2), Jan. 1, 2021, 134 Stat. 4151, 4294, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, except as otherwise provided in title XVIII of Pub. L. 116–283, in title 10, United States Code, each reference in the text of such title to a source section that is redesignated by title XVIII of Pub. L. 116–283, is amended by striking such reference and inserting a reference to the appropriate section as so redesignated. See 2021 Amendment note below.
 
 #### References in Text
 The General Schedule, referred to in subsec. (a)(1)(A), is set out under [section 5332 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5332&num=0&edition=prelim), Government Organization and Employees.
 
 #### Amendments
+2021—Subsec. (a). Pub. L. 116–283 substituted “section 3205”for “section 2304(g)”.
+
+2019—Subsec. (a)(3). Pub. L. 116–92, § 861(b)(1)(A), struck out “(A)” before “have received a baccalaureate degree” and “, and (B) have completed at least 24 semester credit hours (or the equivalent) of study from an accredited institution of higher education in any of the following disciplines: accounting, business, finance, law, contracts, purchasing, economics, industrial management, marketing, quantitative methods, and organization and management” after “grant baccalaureate degrees”.
+
+Subsec. (b). Pub. L. 116–92, § 861(b)(1)(B), substituted “requirement set forth” for “requirements set forth” in pars. (1) and (2).
+
+Subsec. (e)(1)(A). Pub. L. 116–92, § 861(b)(1)(C)(i)(I), substituted “requirement of subsection (a)(3)” for “requirements in subparagraphs (A) and (B) of subsection (a)(3)”.
+
+Subsec. (e)(1)(C). Pub. L. 116–92, § 861(b)(1)(C)(i)(II), substituted “requirement” for “requirements”.
+
+Subsec. (e)(2). Pub. L. 116–92, § 861(b)(1)(C)(ii), struck out dash after “shall have” and subpar. (A) designation before “been awarded”, substituted period at end for “; or”, and struck out subpar. (B) which read as follows: “completed at least 24 semester credit hours or the equivalent of study from an accredited institution of higher education in any of the disciplines of accounting, business, finance, law, contracts, purchasing, economics, industrial management, marketing, quantitative methods, or organization and management.”
+
+Subsec. (f). Pub. L. 116–92, § 861(b)(1)(D), substituted “Department of Defense.” for “Department of Defense, including—
+
+“(1) completion of at least 24 semester credit hours or the equivalent of study from an accredited institution of higher education or similar educational institution in any of the disciplines of accounting, business, finance, law, contracts, purchasing, economics, industrial management, marketing, quantitative methods, or organization and management; or
+
+“(2) passing an examination that demonstrates skills, knowledge, or abilities comparable to that of an individual who has completed at least 24 semester credit hours or the equivalent of study in any of the disciplines described in paragraph (1).”
+
 2004—Subsec. (a)(3)(B). Pub. L. 108–375, § 1084(h)(1), amended directory language of Pub. L. 107–107, § 824(a)(1)(C). See 2001 Amendment note below.
 
 Subsec. (d). Pub. L. 108–375, § 1084(d)(14), substituted “the decision of the Secretary” for “its decision” before “to waive such requirements”.
@@ -708,6 +907,9 @@ Subsec. (b). Pub. L. 104–201, § 1074(a)(9)(B)(ii), struck out “, beginning 
 
 1993—Subsec. (c)(2). Pub. L. 103–35 inserted “or lower” before “grade” and before “level”.
 
+#### Effective Date of 2021 Amendment
+Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
+
 #### Effective Date of 2004 Amendment
 Pub. L. 108–375, div. A, title X, § 1084(h), Oct. 28, 2004, 118 Stat. 2064, provided that the amendment made by section 1084(h) [amending this section, [section 1732 of this title](./chapter-087-defense-acquisition-workforce.md#section-1732), and provisions set out as a note under [section 5949 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5949&num=0&edition=prelim), Government Organization and Employees] is effective as of Dec. 28, 2001, and as if included in Pub. L. 107–107 as enacted.
 
@@ -728,7 +930,7 @@ Pub. L. 101–510, div. A, title XII, § 1209(i), Nov. 5, 1990, 104 Stat. 1667, 
 ## § 1725. Senior Military Acquisition Advisors
 **(a) Position.—**
 
-(1) **In general.—** — The Secretary of Defense may establish in the Defense Acquisition Corps a position to be known as “Senior Military Acquisition Advisor”.
+(1) **In general.—** — The Secretary of Defense may establish in the acquisition workforce a position to be known as “Senior Military Acquisition Advisor”.
 
 (2) **Appointment.—** — A Senior Military Acquisition Advisor shall be appointed by the President, by and with the advice and consent of the Senate.
 
@@ -750,7 +952,7 @@ Pub. L. 101–510, div. A, title XII, § 1209(i), Nov. 5, 1990, 104 Stat. 1667, 
 
 (1) **In general.—** — Selection of an officer for recommendation for appointment as a Senior Military Acquisition Advisor shall be made competitively, and shall be based upon demonstrated experience and expertise in acquisition.
 
-(2) **Officers eligible.—** — Officers shall be selected for recommendation for appointment as Senior Military Acquisition Advisors from among officers of the Defense Acquisition Corps who are serving in the grade of colonel or, in the case of the Navy, captain, and who have at least 12 years of acquisition experience. An officer selected for recommendation for appointment as a Senior Military Acquisition Advisor shall have at least 30 years of active commissioned service at the time of appointment.
+(2) **Officers eligible.—** — Officers shall be selected for recommendation for appointment as Senior Military Acquisition Advisors from among officers in the acquisition workforce serving in critical acquisition positions who are serving in the grade of colonel or, in the case of the Navy, captain, and who have at least 12 years of acquisition experience. An officer selected for recommendation for appointment as a Senior Military Acquisition Advisor shall have at least 30 years of active commissioned service at the time of appointment.
 
 (3) **Term.—** — The appointment of an officer as a Senior Military Acquisition Advisor shall be for a term of not longer than five years.
 
@@ -762,9 +964,9 @@ Pub. L. 101–510, div. A, title XII, § 1209(i), Nov. 5, 1990, 104 Stat. 1667, 
 
   (B) not more than five may be officers of the Navy and Marine Corps; and
 
-  (C) not more than five may be officers of the Air Force.
+  (C) not more than five may be officers of the Air Force and Space Force.
 
-(2) **Number in each military department.—** — Subject to paragraph (1), the number of Senior Military Acquisition Advisors for each military department shall be as required and identified by the service acquisition executive of such military department and approved by the Under Secretary of Defense for Acquisition, Technology, and Logistics.
+(2) **Number in each military department.—** — Subject to paragraph (1), the number of Senior Military Acquisition Advisors for each military department shall be as required and identified by the service acquisition executive of such military department and approved by the Under Secretary of Defense for Acquisition and Sustainment.
 
 **(f) Advice to Service Acquisition Executive.—** An officer who is a Senior Military Acquisition Advisor shall have as the officer’s primary duty providing strategic, technical, and programmatic advice to the service acquisition executive of the officer’s military department on matters pertaining to the Defense Acquisition System, including matters pertaining to procurement, research and development, advanced technology, test and evaluation, production, program management, systems engineering, and lifecycle logistics.
 
@@ -773,132 +975,19 @@ Pub. L. 101–510, div. A, title XII, § 1209(i), Nov. 5, 1990, 104 Stat. 1667, 
 #### Prior Provisions
 A prior section 1725, added Pub. L. 101–510, div. A, title XII, § 1202(a), Nov. 5, 1990, 104 Stat. 1643, which related to Office of Personnel Management approval, was repealed by Pub. L. 108–136, div. A, title VIII, § 832(a), Nov. 24, 2003, 117 Stat. 1550; amended Pub. L. 108–375, div. A, title X, § 1084(f)(1), Oct. 28, 2004, 118 Stat. 2064.
 
+#### Amendments
+2021—Subsec. (e)(1)(C). Pub. L. 116–283 inserted “and Space Force” before period at end.
+
+2019—Subsec. (a)(1). Pub. L. 116–92, § 861(j)(9)(A), substituted “acquisition workforce” for “Defense Acquisition Corps”.
+
+Subsec. (d)(2). Pub. L. 116–92, § 861(j)(9)(B), substituted “in the acquisition workforce serving in critical acquisition positions” for “of the Defense Acquisition Corps”.
+
+Subsec. (e)(2). Pub. L. 116–92, § 902(19), substituted “Under Secretary of Defense for Acquisition and Sustainment” for “Under Secretary of Defense for Acquisition, Technology, and Logistics”.
+
 
 <a id="section-1731"></a>
-## § 1731. Acquisition Corps: in general
-**(a) Acquisition Corps.—** The Secretary of Defense shall ensure that an Acquisition Corps is established for the Department of Defense.
-
-**(b) Promotion Rate for Officers in Acquisition Corps.—** The Secretary of Defense shall ensure that the qualifications of commissioned officers selected for the Acquisition Corps are such that those officers are expected, as a group, to be promoted at a rate not less than the rate for all line (or the equivalent) officers of the same armed force (both in the zone and below the zone) in the same grade.
-
-### Statutory Notes
-
-#### Amendments
-2003—Subsec. (a). Pub. L. 108–136, § 833(1)(A), struck out “each of the military departments and one or more Corps, as he considers appropriate, for the other components of” after “established for” in first sentence, and struck out last sentence which read “A separate Acquisition Corps may be established for each of the Navy and the Marine Corps.”
-
-Subsec. (b). Pub. L. 108–136, § 833(1)(B), substituted “the Acquisition Corps” for “an Acquisition Corps”.
-
-Subsec. (c). Pub. L. 108–136, § 832(b)(1), struck out heading and text of subsec. (c). Text read as follows: “The Secretary of Defense shall submit any requirement with respect to civilian employees established under [section 1732 of this title](./chapter-087-defense-acquisition-workforce.md#section-1732) to the Director of the Office of Personnel Management for approval. If the Director does not disapprove the requirement within 30 days after the date on which the Director receives the requirement, the requirement is deemed to be approved by the Director.”
-
-#### Promotion Rate for Officers in an Acquisition Corps
-Pub. L. 105–85, div. A, title VIII, § 849, Nov. 18, 1997, 111 Stat. 1846, as amended by Pub. L. 106–65, div. A, title IX, § 911(a)(1), title X, § 1067(4), Oct. 5, 1999, 113 Stat. 717, 774, directed the Secretary of a military department, upon approval, to submit to the Under Secretary of Defense for Acquisition, Technology, and Logistics a copy for review of the report of a selection board which had considered members of an Acquisition Corps of a military department for promotion to a grade above O–4, directed such Under Secretary to submit to committees of Congress a report containing the Under Secretary’s assessment of the extent to which each military department was complying with the requirement set forth in [section 1731(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1731/b&num=0&edition=prelim), and provided that this section would cease to be effective on Oct. 1, 2000.
-
-
-<a id="section-1732"></a>
-## § 1732. Selection criteria and procedures
-**(a) Selection Criteria and Procedures.—** Selection for membership in the Acquisition Corps shall be made in accordance with criteria and procedures established by the Secretary of Defense.
-
-**(b) Eligibility Criteria.—** Except as provided in subsections (c) and (d), only persons who meet all of the following requirements may be considered for service in the Corps:
-
-(1) The person must meet the educational requirements prescribed by the Secretary of Defense. Such requirements, at a minimum, shall include both of the following:
-
-  (A) A requirement that the person—
-
-    (i) has received a baccalaureate degree at an accredited educational institution authorized to grant baccalaureate degrees, or
-
-    (ii) possess significant potential for advancement to levels of greater responsibility and authority, based on demonstrated analytical and decisionmaking capabilities, job performance, and qualifying experience.
-
-  (B) A requirement that the person has completed—
-
-    (i) at least 24 semester credit hours (or the equivalent) of study from an accredited institution of higher education from among the following disciplines: accounting, business finance, law, contracts, purchasing, economics, industrial management, marketing, quantitative methods, and organization and management; or
-
-    (ii) at least 24 semester credit hours (or the equivalent) from an accredited institution of higher education in the person’s career field and 12 semester credit hours (or the equivalent) from such an institution from among the disciplines listed in clause (i) or equivalent training as prescribed by the Secretary to ensure proficiency in the disciplines listed in clause (i).
-
-(2) The person must meet experience requirements prescribed by the Secretary of Defense. Such requirements shall, at a minimum, include a requirement for at least four years of experience in an acquisition position in the Department of Defense or in a comparable position in industry or government.
-
-(3) The person must meet such other requirements as the Secretary of Defense or the Secretary of the military department concerned prescribes by regulation.
-
-**(c) Exceptions.—**
-
-(1) The requirements of subsections (b)(1)(A) and (b)(1)(B) shall not apply to any employee who, on October 1, 1991, has at least 10 years of experience in acquisition positions or in comparable positions in other government agencies or the private sector.
-
-(2) The requirements of subsections (b)(1)(A) and (b)(1)(B) shall not apply to any employee who is serving in an acquisition position on October 1, 1991, and who does not have 10 years of experience as described in paragraph (1) if the employee passes an examination considered by the Secretary of Defense to demonstrate skills, knowledge, or abilities comparable to that of an individual who has completed at least 24 semester credit hours (or the equivalent) of study from an accredited institution of higher education from among the following disciplines: accounting, business, finance, law, contracts, purchasing, economics, industrial management, marketing, quantitative methods, and organization and management.
-
-**(d) Waiver.—**
-
-(1) Except as provided in paragraph (2), the Secretary of Defense may waive any or all of the requirements of subsection (b) with respect to an employee if the Secretary determines that the employee possesses significant potential for advancement to levels of greater responsibility and authority, based on demonstrated analytical and decisionmaking capabilities, job performance, and qualifying experience. With respect to each waiver granted under this subsection, the Secretary shall set forth in a written document the rationale for the decision of the Secretary to waive such requirements.
-
-(2) The Secretary may not waive the requirements of subsection (b)(1)(A)(ii).
-
-**(e) Mobility Statements.—**
-
-(1) The Secretary of Defense is authorized to require civilians in the Acquisition Corps to sign mobility statements.
-
-(2) The Secretary of Defense shall identify which categories of civilians in the Acquisition Corps, as a condition of serving in the Corps, shall be required to sign mobility statements. The Secretary shall make available published information on such identification of categories.
-
-### Statutory Notes
-
-#### Amendments
-2006—Subsec. (c)(1), (2). Pub. L. 109–163, § 1056(c)(3)(A)(i), substituted “(b)(1)(A) and (b)(1)(B)” for “(b)(2)(A) and (b)(2)(B)”.
-
-Subsec. (c)(3). Pub. L. 109–163, § 1056(c)(3)(A)(ii), struck out par. (3) which read as follows: “Paragraph (1) of subsection (b) shall not apply to an employee who—
-
-“(A) having previously served in a position within a grade referred to in subparagraph (A) of that paragraph, is currently serving in the same position within a grade below GS–13 of the General Schedule, or in another position within that grade, by reason of a reduction in force or the closure or realignment of a military installation, or for any other reason other than by reason of an adverse personnel action for cause; and
-
-“(B) except as provided in paragraphs (1) and (2), satisfies the educational, experience, and other requirements prescribed under paragraphs (2), (3), and (4) of that subsection.”
-
-Subsec. (d)(2). Pub. L. 109–163, § 1056(c)(3)(B), substituted “(b)(1)(A)(ii)” for “(b)(2)(A)(ii)”.
-
-2004—Subsec. (a). Pub. L. 108–375, § 1084(h)(2), amended directory language of Pub. L. 107–107, § 1048(e)(4). See 2001 Amendment note below.
-
-Subsec. (b). Pub. L. 108–375, § 812(a)(1), redesignated pars. (2) to (4) as pars. (1) to (3), respectively, and struck out former par. (1) which read as follows:
-
-“(1)(A) In the case of an employee, the person must be currently serving in a position within grade GS–13 or above of the General Schedule.
-
-“(B) In the case of a member of the armed forces, the person must be currently serving in the grade of major or, in the case of the Navy, lieutenant commander, or a higher grade.
-
-“(C) In the case of an applicant for employment, the person must have experience in government or industry equivalent to the experience of a person in a position described in subparagraph (A) or (B).”
-
-Subsec. (d)(1). Pub. L. 108–375, § 1084(d)(14), substituted “the decision of the Secretary” for “its decision” before “to waive such requirements.”
-
-2003—Subsec. (a). Pub. L. 108–136, § 833(2), substituted “the Acquisition Corps” for “an Acquisition Corps”.
-
-Subsec. (b)(1)(C). Pub. L. 108–136, § 831(b)(2)(A), struck out “, as validated by the appropriate career program management board” after “subparagraph (A) or (B)”.
-
-Subsec. (b)(2)(A)(ii). Pub. L. 108–136, § 831(b)(2)(B), substituted “possess” for “has been certified by the acquisition career program board of the employing military department as possessing”.
-
-Subsec. (c)(2). Pub. L. 108–136, § 832(b)(2), struck out at end “The Secretary of Defense shall submit examinations to be given to civilian employees under this paragraph to the Director of the Office of Personnel Management for approval. If the Director does not disapprove an examination within 30 days after the date on which the Director receives the examination, the examination is deemed to be approved by the Director.”
-
-Subsec. (d)(1). Pub. L. 108–136, § 831(b)(3)(A), substituted “the Secretary of Defense may waive any or all of the requirements of subsection (b) with respect to an employee if the Secretary determines” for “the acquisition career program board of a military department may waive any or all of the requirements of subsection (b) with respect to an employee of that military department if the board certifies” in first sentence, substituted “the Secretary” for “the board” in second sentence, and struck out third sentence which read “The document shall be submitted to and retained by the Director of Acquisition Education, Training, and Career Development.”
-
-Subsec. (d)(2). Pub. L. 108–136, § 831(b)(3)(B), substituted “The Secretary” for “The acquisition career program board of a military department”.
-
-Subsec. (e). Pub. L. 108–136, § 833(2), substituted “the Acquisition Corps” for “an Acquisition Corps” in pars. (1) and (2).
-
-2001—Subsec. (a). Pub. L. 107–107, § 1048(e)(4), as amended by Pub. L. 108–375, § 1084(h)(2), struck out at end “Such criteria and procedures shall be in effect on and after October 1, 1993.”
-
-Subsec. (c)(2). Pub. L. 107–107, § 824(b), inserted a comma after “business”.
-
-1998—Subsec. (c)(3). Pub. L. 105–261 added par. (3).
-
-1993—Subsec. (b)(1)(A). Pub. L. 103–89 substituted “Schedule” for “Schedule (including any employee covered by chapter 54 of title 5)”.
-
-1992—Subsec. (b)(2)(B)(ii). Pub. L. 102–484 inserted before period at end “or equivalent training as prescribed by the Secretary to ensure proficiency in the disciplines listed in clause (i)”.
-
-#### Effective Date of 2004 Amendment
-Pub. L. 108–375, div. A, title X, § 1084(h), Oct. 28, 2004, 118 Stat. 2064, provided that the amendment made by section 1084(h)(1) is effective as of Dec. 28, 2001, and as if included in Pub. L. 107–107 as enacted.
-
-#### Effective Date of 1993 Amendment
-Amendment by Pub. L. 103–89 effective Nov. 1, 1993, see section 3(c) of Pub. L. 103–89, set out as a note under [section 3372 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section3372&num=0&edition=prelim), Government Organization and Employees.
-
-#### Equivalent Training Under Subsection (b)(2)(B)(ii)
-Pub. L. 102–484, div. A, title VIII, § 812(e)(2), Oct. 23, 1992, 106 Stat. 2451, provided that: “The Secretary of Defense shall prescribe equivalent training for purposes of clause (ii) of [section 1732(b)(2)(B) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1732/b/2/B&num=0&edition=prelim), United States Code (as amended by paragraph (1)), not later than 120 days after the date of the enactment of this Act [Oct. 23, 1992].”
-
-
-<a id="section-1733"></a>
-## § 1733. Critical acquisition positions
-**(a) Requirement for Corps Member.—** A critical acquisition position may be filled only by a member of the Acquisition Corps.
-
-**(b) Designation of Critical Acquisition Positions.—**
+## § 1731. Critical acquisition positions
+**(a) Designation of Critical Acquisition Positions.—**
 
 (1) The Secretary of Defense shall designate the acquisition positions in the Department of Defense that are critical acquisition positions. Such positions shall include the following:
 
@@ -906,7 +995,7 @@ Pub. L. 102–484, div. A, title VIII, § 812(e)(2), Oct. 23, 1992, 106 Stat. 24
 
     (i) in the case of employees, is required to be filled by an employee in a senior position in the National Security Personnel System, as determined in accordance with guidelines prescribed by the Secretary, or in the Senior Executive Service; or
 
-    (ii) in the case of members of the armed forces, is required to be filled by a commissioned officer of the Army, Navy, Air Force, or Marine Corps who is serving in the grade of lieutenant colonel, or, in the case of the Navy, commander, or a higher grade.
+    (ii) in the case of members of the armed forces, is required to be filled by a commissioned officer of the Army, Navy, Air Force, Marine Corps, or Space Force who is serving in the grade of lieutenant colonel, or, in the case of the Navy, commander, or a higher grade.
 
   (B) Other selected acquisition positions not covered by subparagraph (A), including the following:
 
@@ -920,9 +1009,40 @@ Pub. L. 102–484, div. A, title VIII, § 812(e)(2), Oct. 23, 1992, 106 Stat. 24
 
 (2) The Secretary shall periodically publish a list of the positions designated under this subsection.
 
+**(b) Promotion Rate for Officers in the Acquisition Workforce.—** The Secretary of Defense shall ensure that the qualifications of commissioned officers in the acquisition workforce are such that those officers are expected, as a group, to be promoted at a rate not less than the rate for all line (or the equivalent) officers of the same armed force (both in the zone and below the zone) in the same grade.
+
+**(c) Mobility Statements.—**
+
+(1) The Secretary of Defense is authorized to require civilians in critical acquisition positions to sign mobility statements.
+
+(2) The Secretary of Defense shall identify which categories of civilians in critical acquisition positions, as a condition of employment, shall be required to sign mobility statements. The Secretary shall make available published information on such identification of categories.
+
 ### Statutory Notes
 
+#### Amendment of Section
+Pub. L. 116–283, div. A, title XVIII, §§ 1801(d), 1846(i)(4), Jan. 1, 2021, 134 Stat. 4151, 4252, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, subsection (b)(1)(B)(ii) [probably should be “subsection (a)(1)(B)(ii)”] of this section is amended by striking “section 2430” and inserting “section 4201”. See 2021 Amendment note below.
+
+#### Codification
+The text of former [section 1731(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1731/b&num=0&edition=prelim), which was transferred to [section 1733(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1733/b&num=0&edition=prelim) and then to subsec. (b) of this section by Pub. L. 116–92, § 861(j)(3), (6)(A), was based on Pub. L. 101–510, div. A, title XII, § 1202(a), Nov. 5, 1990, 104 Stat. 1644; Pub. L. 108–136, div. A, title VIII, § 833(1)(B), Nov. 24, 2003, 117 Stat. 1550.
+
+The text of [section 1732(e) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1732/e&num=0&edition=prelim), which was transferred to [section 1733(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1733/c&num=0&edition=prelim) and then to subsec. (c) of this section by Pub. L. 116–92, § 861(j)(4), (6)(A), was based on Pub. L. 101–510, div. A, title XII, § 1202(a), Nov. 5, 1990, 104 Stat. 1644; Pub. L. 108–136, div. A, title VIII, § 833(2), Nov. 24, 2003, 117 Stat. 1550.
+
+#### Prior Provisions
+A prior section 1731, added Pub. L. 101–510, div. A, title XII, § 1202(a), Nov. 5, 1990, 104 Stat. 1644; amended Pub. L. 108–136, div. A, title VIII, §§ 832(b)(1), 833(1), Nov. 24, 2003, 117 Stat. 1550; Pub. L. 116–92, div. A, title VIII, § 861(j)(3), Dec. 20, 2019, 133 Stat. 1519, related to establishment of the Acquisition Corps, prior to repeal by Pub. L. 116–92, div. A, title VIII, § 861(j)(5), Dec. 20, 2019, 133 Stat. 1519.
+
 #### Amendments
+2021—Subsec. (a)(1)(A)(ii). Pub. L. 116–283, § 924(b)(3)(AA), substituted “Marine Corps, or Space Force” for “or Marine Corps”.
+
+Subsec. (a)(1)(B)(ii). Pub. L. 116–283, § 1846(i)(4), which directed amendment of subsec. (b)(1)(B)(ii) of this section by substituting “section 4201” for “section 2430”, was executed to subsec. (a)(1)(B)(ii) of this section, to reflect the probable intent of Congress.
+
+2019—Pub. L. 116–92, § 861(j)(6)(A), renumbered [section 1733 of this title](./chapter-087-defense-acquisition-workforce.md#section-1733) as this section.
+
+Subsec. (a). Pub. L. 116–92, § 861(j)(2), in [section 1733 of this title](./chapter-087-defense-acquisition-workforce.md#section-1733) prior to renumbering as this section, redesignated subsec. (b) as (a) and struck out former subsec. (a). Prior to amendment, text of subsec. (a) of section 1733 read as follows: “A critical acquisition position may be filled only by a member of the Acquisition Corps.”
+
+Subsec. (b). Pub. L. 116–92, § 861(j)(3), prior to repeal of former section 1731, transferred subsec. (b) of that section to [section 1733 of this title](./chapter-087-defense-acquisition-workforce.md#section-1733) and substituted “the Acquisition Workforce” for “Acquisition Corps” in heading and “in the acquisition workforce” for “selected for the Acquisition Corps” in text. See Codification note above. Section 1733 was subsequently renumbered as this section.
+
+Subsec. (c). Pub. L. 116–92, § 861(j)(4), prior to repeal of [section 1732 of this title](./chapter-087-defense-acquisition-workforce.md#section-1732), transferred subsec. (e) of that section to [section 1733 of this title](./chapter-087-defense-acquisition-workforce.md#section-1733), redesignated it as (c), and substituted “in critical acquisition positions” for “in the Acquisition Corps” in pars. (1) and (2) and “employment” for “serving in the Corps” in par. (2). See Codification note above. Section 1733 was subsequently renumbered as this section.
+
 2004—Subsec. (b)(1)(A)(i). Pub. L. 108–375 substituted “in a senior position in the National Security Personnel System, as determined in accordance with guidelines prescribed by the Secretary,” for “in a position within grade GS–14 or above of the General Schedule,”.
 
 2003—Subsec. (a). Pub. L. 108–136 substituted “the Acquisition Corps” for “an Acquisition Corps”.
@@ -933,14 +1053,29 @@ Pub. L. 102–484, div. A, title VIII, § 812(e)(2), Oct. 23, 1992, 106 Stat. 24
 
 1992—Subsec. (b)(1)(B)(ii). Pub. L. 102–484 substituted “1737(a)(3)” for “1736(a)(3)”.
 
+#### Effective Date of 2021 Amendment
+Amendment by section 1846(i)(4) of Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
+
 #### Effective Date of 1993 Amendment
 Amendment by Pub. L. 103–89 effective Nov. 1, 1993, see section 3(c) of Pub. L. 103–89, set out as a note under [section 3372 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section3372&num=0&edition=prelim), Government Organization and Employees.
 
 #### Effective Date for Requirement for Corps Members To Fill Critical Acquisition Positions
 Pub. L. 101–510, div. A, title XII, § 1209(f), Nov. 5, 1990, 104 Stat. 1666, as amended by Pub. L. 102–25, title VII, § 704(b)(3)(C), Apr. 6, 1991, 105 Stat. 119; Pub. L. 103–160, div. A, title IX, § 904(f), Nov. 30, 1993, 107 Stat. 1729, provided that the Secretaries of the military departments were to make every effort to fill critical acquisition positions by Acquisition Corps members as soon as possible after Nov. 5, 1990, and that for each of the first three years after Nov. 5, 1990, the report of the Under Secretary of Defense for Acquisition and Technology to the Secretary of Defense under [section 1762 of this title](./chapter-087-defense-acquisition-workforce.md#section-1762) was to include the number of critical acquisition positions filled by Acquisition Corps members.
 
-#### Publication of List of Critical Acquisition Positions
-Pub. L. 101–510, div. A, title XII, § 1209(g), Nov. 5, 1990, 104 Stat. 1666, directed the Secretary of Defense to publish the first list of positions designated as critical acquisition positions under subsec. (b)(2) of this section not later than Oct. 1, 1992.
+#### Termination of Defense Acquisition Corps
+Pub. L. 116–92, div. A, title VIII, § 861(j)(1), Dec. 20, 2019, 133 Stat. 1519, provided that: “The Acquisition Corps for the Department of Defense referred to in [former] [section 1731(a) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1731/a&num=0&edition=prelim), United States Code, is terminated.”
+
+
+<a id="section-1732"></a>
+## § 1732. Repealed. Pub. L. 116–92, div. A, title VIII, § 861(j)(5), Dec. 20, 2019, 133 Stat. 1519]
+
+### Statutory Notes
+
+Section, added Pub. L. 101–510, div. A, title XII, § 1202(a), Nov. 5, 1990, 104 Stat. 1644; amended Pub. L. 102–484, div. A, title VIII, § 812(e)(1), Oct. 23, 1992, 106 Stat. 2451; Pub. L. 103–89, § 3(b)(3)(B), Sept. 30, 1993, 107 Stat. 982; Pub. L. 105–261, div. A, title VIII, § 811, Oct. 17, 1998, 112 Stat. 2086; Pub. L. 107–107, div. A, title VIII, § 824(b), title X, § 1048(e)(4), Dec. 28, 2001, 115 Stat. 1185, 1227; Pub. L. 108–136, div. A, title VIII, §§ 831(b)(2), (3), 832(b)(2), 833(2), Nov. 24, 2003, 117 Stat. 1549, 1550; Pub. L. 108–375, div. A, title VIII, § 812(a)(1), title X, § 1084(d)(14), (h)(2), Oct. 28, 2004, 118 Stat. 2013, 2062, 2064; Pub. L. 109–163, div. A, title X, § 1056(c)(3), Jan. 6, 2006, 119 Stat. 3439; Pub. L. 116–92, div. A, title VIII, § 861(b)(2), (j)(4), Dec. 20, 2019, 133 Stat. 1516, 1519, related to selection criteria and procedures for membership in the Acquisition Corps.
+
+
+<a id="section-1733"></a>
+## § 1733. Renumbered § 1731]
 
 
 <a id="section-1734"></a>
@@ -980,19 +1115,38 @@ Pub. L. 101–510, div. A, title XII, § 1209(g), Nov. 5, 1990, 104 Stat. 1666, 
 
 **(e) Rotation Policy.—**
 
-(1) The Secretary of Defense shall establish a policy encouraging the rotation of members of the Acquisition Corps serving in critical acquisition positions to new assignments after completion of five years of service in such positions, or, in the case of a program manager, after completion of a major program milestone, whichever is longer. Such rotation policy shall be designed to ensure opportunities for career broadening assignments and an infusion of new ideas into critical acquisition positions.
+(1) The Secretary of Defense shall establish a policy encouraging the rotation of members of the acquisition workforce serving in critical acquisition positions to new assignments after completion of five years of service in such positions, or, in the case of a program manager, after completion of a major program milestone, whichever is longer. Such rotation policy shall be designed to ensure opportunities for career broadening assignments and an infusion of new ideas into critical acquisition positions.
 
 (2) The Secretary of Defense shall establish a procedure under which the assignment of each person assigned to a critical acquisition position shall be reviewed on a case-by-case basis for the purpose of determining whether the Government and such person would be better served by a reassignment to a different position. Such a review shall be carried out with respect to each such person not later than five years after that person is assigned to a critical position.
 
 **(f) Centralized Job Referral System.—** The Secretary of Defense shall prescribe regulations providing for the use of centralized lists to ensure that persons are selected for critical positions without regard to geographic location of applicants for such positions.
 
-**(g) Exchange Program.—** The Secretary of Defense shall establish, for purposes of broadening the experience of members of the Acquisition Corps, a test program in which members of the Corps serving in a military department or Defense Agency are assigned or detailed to an acquisition position in another department or agency. Under the test program, the Secretary of Defense shall ensure that, to the maximum extent practicable, at least 5 percent of the members of the Acquisition Corps shall serve in such exchange assignments each year. The test program shall operate for not less than a period of three years.
+**(g) Exchange Program.—** The Secretary of Defense shall establish, for purposes of broadening the experience of members of the acquisition workforce, a test program in which members of the acquisition workforce serving in a military department or Defense Agency are assigned or detailed to an acquisition position in another department or agency. Under the test program, the Secretary of Defense shall ensure that, to the maximum extent practicable, at least 5 percent of the members of the acquisition workforce in critical acquisition positions shall serve in such exchange assignments each year. The test program shall operate for not less than a period of three years.
 
-**(h) Responsibility for Assignments.—** The Secretary of each military department, acting through the service acquisition executive for that department, is responsible for making assignments of civilian and military personnel of that military department who are members of the Acquisition Corps to critical acquisition positions.
+**(h) Responsibility for Assignments.—** The Secretary of each military department, acting through the service acquisition executive for that department, is responsible for making assignments of civilian and military personnel of that military department who are members of the acquisition workforce to critical acquisition positions.
 
 ### Statutory Notes
 
+#### Amendment of Section
+Pub. L. 116–283, div. A, title XVIII, §§ 1801(d), 1849(m), 1883(b)(2), Jan. 1, 2021, 134 Stat. 4151, 4264, 4294, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, this section is amended as follows:
+
+(1) in subsection (c)(2), by striking “section 2432” and inserting “chapter 324”; and
+
+(2) for any other reference in the text to a source section that is redesignated by title XVIII of Pub. L. 116–283, by striking such reference and inserting a reference to the appropriate section as so redesignated.
+
+See 2021 Amendment notes below.
+
 #### Amendments
+2021—Subsec. (c)(2). Pub. L. 116–283, § 1883(b)(2), substituted “section 4214(a)” for “section 2435(a)”.
+
+Pub. L. 116–283, § 1849(m), substituted “chapter 324” for “section 2432”.
+
+2019—Subsec. (e)(1). Pub. L. 116–92, § 861(j)(10)(A), substituted “of the acquisition workforce” for “of the Acquisition Corps”.
+
+Subsec. (g). Pub. L. 116–92, § 861(j)(10)(B), substituted “experience of members of the acquisition workforce” for “experience of members of the Acquisition Corps”, “in which members of the acquisition workforce” for “in which members of the Corps”, and “of the acquisition workforce in critical acquisition positions” for “of the Acquisition Corps”.
+
+Subsec. (h). Pub. L. 116–92, § 861(j)(10)(A), substituted “of the acquisition workforce” for “of the Acquisition Corps”.
+
 2003—Subsec. (d)(2). Pub. L. 108–136, § 831(b)(4)(A)(ii), redesignated par. (3) as (2) and struck out at end “The document shall be submitted to the Director of Acquisition Education, Training, and Career Development.”
 
 Pub. L. 108–136, § 831(b)(4)(A)(i), struck out par. (2) which read as follows: “The authority to grant such waivers may be delegated by the service acquisition executive of a military department only to the Director of Acquisition Career Management for the military department.”
@@ -1027,6 +1181,9 @@ Subsec. (b)(3). Pub. L. 102–484, § 812(b)(2)(B), added par. (3).
 
 Subsec. (e)(2). Pub. L. 102–484, § 812(a), inserted at end “Reviews under this subsection shall be carried out after October 1, 1995, but may be carried out before that date.”
 
+#### Effective Date of 2021 Amendment
+Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
+
 #### Job Referral System Deadline
 Pub. L. 101–510, div. A, title XII, § 1209(e), Nov. 5, 1990, 104 Stat. 1666, provided that: “Not later than October 1, 1991, the Secretary of Defense shall prescribe regulations required under [section 1734(f) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1734/f&num=0&edition=prelim), United States Code (as added by section 1202).”
 
@@ -1053,7 +1210,7 @@ Pub. L. 101–510, div. A, title XII, § 1209(e), Nov. 5, 1990, 104 Stat. 1666, 
 
 **(c) Program Executive Officers.—** Before being assigned to a position as a program executive officer, a person—
 
-(1) must have completed the program management course at the Defense Systems Management College or a management program at an accredited educational institution in the private sector determined to be comparable by the Secretary of Defense, acting through the Under Secretary of Defense for Acquisition, Technology, and Logistics;
+(1) must have completed the program management course at the Defense Systems Management College or a management program at an accredited educational institution in the private sector determined to be comparable by the Secretary of Defense, acting through the Under Secretary of Defense for Acquisition and Sustainment;
 
 (2) must have at least 10 years experience in an acquisition position, at least four years of which were performed while assigned to a critical acquisition position; and
 
@@ -1066,6 +1223,8 @@ Pub. L. 101–510, div. A, title XII, § 1209(e), Nov. 5, 1990, 104 Stat. 1666, 
 ### Statutory Notes
 
 #### Amendments
+2019—Subsec. (c)(1). Pub. L. 116–92 substituted “Under Secretary of Defense for Acquisition and Sustainment” for “Under Secretary of Defense for Acquisition, Technology, and Logistics”.
+
 2001—Subsec. (c)(1). Pub. L. 107–107 substituted “Under Secretary of Defense for Acquisition, Technology, and Logistics” for “Under Secretary of Defense for Acquisition and Technology”.
 
 1993—Subsec. (c)(1). Pub. L. 103–160 substituted “Under Secretary of Defense for Acquisition and Technology” for “Under Secretary of Defense for Acquisition”.
@@ -1088,7 +1247,7 @@ Section, added Pub. L. 101–510, div. A, title XII, § 1202(a), Nov. 5, 1990, 1
 ## § 1737. Definitions and general provisions
 **(a) Definitions.—** In this subchapter:
 
-(1) The term “program manager” means, with respect to a defense acquisition program, the member of the Acquisition Corps responsible for managing the program, regardless of the title given the member.
+(1) The term “program manager” means, with respect to a defense acquisition program, the member of the acquisition workforce responsible for managing the program, regardless of the title given the member.
 
 (2) The term “deputy program manager” means the person who has authority to act on behalf of the program manager in the absence of the program manager.
 
@@ -1098,13 +1257,24 @@ Section, added Pub. L. 101–510, div. A, title XII, § 1202(a), Nov. 5, 1990, 1
 
 (5) The term “senior contracting official” means a director of contracting, or a principal deputy to a director of contracting, serving in the office of the Secretary of a military department, the headquarters of a military department, the head of a Defense Agency, a subordinate command headquarters, or in a major systems or logistics contracting activity in the Department of Defense.
 
-**(b) Limitation.—** Any civilian or military member of the Corps who does not meet the education, training, and experience requirements for a critical acquisition position established under this subchapter may not carry out the duties or exercise the authorities of that position, except for a period not to exceed six months, unless a waiver of the requirements is granted under subsection (c).
+**(b) Limitation.—** Any civilian or military member of the acquisition workforce who does not meet the education, training, and experience requirements for a critical acquisition position established under this subchapter may not carry out the duties or exercise the authorities of that position, except for a period not to exceed six months, unless a waiver of the requirements is granted under subsection (c).
 
-**(c) Waiver.—** The Secretary of each military department (acting through the service acquisition executive for that department) or the Secretary of Defense (acting through the Under Secretary of Defense for Acquisition, Technology, and Logistics) for Defense Agencies and other components of the Department of Defense may waive, on a case-by-case basis, the requirements established under this subchapter with respect to the assignment of an individual to a particular critical acquisition position. Such a waiver may be granted only if unusual circumstances justify the waiver or if the Secretary concerned (or official to whom the waiver authority is delegated) determines that the individual’s qualifications obviate the need for meeting the education, training, and experience requirements established under this subchapter.
+**(c) Waiver.—** The Secretary of each military department (acting through the service acquisition executive for that department) or the Secretary of Defense (acting through the Under Secretary of Defense for Acquisition and Sustainment) for Defense Agencies and other components of the Department of Defense may waive, on a case-by-case basis, the requirements established under this subchapter with respect to the assignment of an individual to a particular critical acquisition position. Such a waiver may be granted only if unusual circumstances justify the waiver or if the Secretary concerned (or official to whom the waiver authority is delegated) determines that the individual’s qualifications obviate the need for meeting the education, training, and experience requirements established under this subchapter.
 
 ### Statutory Notes
 
+#### Amendment of Section
+Pub. L. 116–283, div. A, title XVIII, §§ 1801(d), 1806(e)(4), 1846(i)(4), Jan. 1, 2021, 134 Stat. 4151, 4156, 4252, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, subsection (a)(3) of this section is amended by striking “section 2430” and inserting “section 4201” and by striking “section 2302(5)(A)” both places it appears and inserting “section 3041(b)(1)”. See 2021 Amendment note below.
+
 #### Amendments
+2021—Subsec. (a)(3). Pub. L. 116–283 substituted “section 4201” for “section 2430” and substituted “section 3041(b)(1)” for “section 2302(5)(A)” in two places.
+
+2019—Subsec. (a)(1). Pub. L. 116–92, § 861(j)(11)(A), substituted “of the acquisition workforce” for “of the Acquisition Corps”.
+
+Subsec. (b). Pub. L. 116–92, § 861(j)(11)(B), substituted “of the acquisition workforce” for “of the Corps”.
+
+Subsec. (c). Pub. L. 116–92, § 902(21), substituted “Under Secretary of Defense for Acquisition and Sustainment” for “Under Secretary of Defense for Acquisition, Technology, and Logistics”.
+
 2003—Subsec. (a)(1). Pub. L. 108–136, § 833(2), substituted “the Acquisition Corps” for “an Acquisition Corps”.
 
 Subsec. (c). Pub. L. 108–136, § 831(b)(5), substituted “The Secretary” for “(1) The Secretary” and struck out par. (2) which read as follows: “The authority to grant such waivers may be delegated—
@@ -1123,21 +1293,32 @@ Subsec. (d). Pub. L. 108–136, § 832(b)(4), struck out heading and text of sub
 
 Subsec. (c)(2)(B). Pub. L. 102–190, § 1061(a)(8), struck out comma after “Director of Acquisition”.
 
+#### Effective Date of 2021 Amendment
+Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
+
 
 <a id="section-1741"></a>
 ## § 1741. Policies and programs: establishment and implementation
 **(a) Policies and Procedures.—** The Secretary of Defense shall establish policies and procedures for the establishment and implementation of the education and training programs authorized by this subchapter.
 
-**(b) Funding Levels.—** The Under Secretary of Defense for Acquisition, Technology, and Logistics each year shall recommend to the Secretary of Defense the funding levels to be requested in the defense budget to implement the education and training programs under this subchapter. The Secretary of Defense shall set forth separately the funding levels requested for such programs in the Department of Defense budget justification documents submitted in support of the President’s budget submitted to Congress under [section 1105 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1105&num=0&edition=prelim).
+**(b) Funding Levels.—** The Under Secretary of Defense for Acquisition and Sustainment each year shall recommend to the Secretary of Defense the funding levels to be requested in the defense budget to implement the education and training programs under this subchapter. The Secretary of Defense shall set forth separately the funding levels requested for such programs in the Department of Defense budget justification documents submitted in support of the President’s budget submitted to Congress under [section 1105 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1105&num=0&edition=prelim).
 
 **(c) Programs.—** The Secretary of each military department, acting through the service acquisition executive for that department, shall establish and implement the education and training programs authorized by this subchapter. In carrying out such requirement, the Secretary concerned shall ensure that such programs are established and implemented throughout the military department concerned and, to the maximum extent practicable, uniformly with the programs of the other military departments.
 
 ### Statutory Notes
 
 #### Amendments
+2019—Subsec. (b). Pub. L. 116–92 substituted “Under Secretary of Defense for Acquisition and Sustainment” for “Under Secretary of Defense for Acquisition, Technology, and Logistics”.
+
 2001—Subsec. (b). Pub. L. 107–107 substituted “Under Secretary of Defense for Acquisition, Technology, and Logistics” for “Under Secretary of Defense for Acquisition and Technology”.
 
 1993—Subsec. (b). Pub. L. 103–160 substituted “Under Secretary of Defense for Acquisition and Technology” for “Under Secretary of Defense for Acquisition”.
+
+#### Software Development and Software Acquisition Training and Management Programs
+Pub. L. 116–92, div. A, title VIII, § 862, Dec. 20, 2019, 133 Stat. 1520, provided that: “(a) Establishment of Software Development and Software Acquisition Training and Management Programs.—“(1) In general.—The Secretary of Defense, acting through the Under Secretary of Defense for Acquisition and Sustainment and in consultation with the Under Secretary of Defense for Research and Engineering, the Under Secretary of Defense for Personnel and Readiness, and the Chief Information Officer of the Department of Defense, shall establish software development and software acquisition training and management programs for all software acquisition professionals, software developers, and other appropriate individuals (as determined by the Secretary of Defense), to earn a certification in software development and software acquisition. “(2) Program contents.—The programs established under paragraph (1) shall—“(A) develop and expand the use of specialized training programs for chief information officers of the military departments and the Defense Agencies, service acquisition executives, program executive officers, and program managers to include training on and experience in—“(i) continuous software development; and “(ii) acquisition pathways available to acquire software; “(B) ensure that appropriate program managers—“(i) have demonstrated competency in current software processes; “(ii) have the skills to lead a workforce that can quickly meet challenges, use software tools that prioritize continuous or frequent upgrades as such tools become available, take up opportunities provided by new innovations, and plan software activities in short iterations to learn from risks of software testing; and “(iii) have the experience and training to delegate technical oversight and execution decisions; and “(C) include continuing education courses, exchanges with private-sector organizations, and experiential training to help individuals maintain skills learned through the programs. “(b) Reports.—“(1) Reports required.—The Secretary shall submit to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives]—“(A) not later than 90 days after the date of the enactment of this Act [Dec. 20, 2019], an initial report; and “(B) not later than one year after the date of the enactment of this Act, a final report. “(2) Contents.—Each report required under paragraph (1) shall include—“(A) the status of implementing the software development and software acquisition training and management programs established under subsection (a)(1); “(B) a description of the requirements for certification, including the requirements for competencies in current software processes; “(C) a description of potential career paths in software development and software acquisition within the Department of Defense; “(D) an independent assessment conducted by the Defense Innovation Board of the progress made on implementing the programs established under subsection (a)(1); and “(E) any recommendations for changes to existing law to facilitate the implementation of the programs established under subsection (a)(1). “(c) Definitions.—In this section:“(1) Program executive officer; program manager.—The terms ‘program executive officer’ and ‘program manager’ have the meanings given those terms, respectively, in [section 1737 of title 10](./chapter-087-defense-acquisition-workforce.md#section-1737), United States Code. “(2) Service acquisition executive.—The terms ‘military department’, ‘Defense Agency’, and ‘service acquisition executive’ have the meanings given those terms, respectively, in [section 101 of title 10](./chapter-001-definitions.md#section-101), United States Code. “(3) Major defense acquisition program.—The term ‘major defense acquisition program’ has the meaning given in [section 2430 of title 10](./chapter-144-major-defense-acquisition-programs.md#section-2430), United States Code. “(4) Defense business system.—The term ‘defense business system’ has the meaning given in [section 2222(i)(1) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2222/i/1&num=0&edition=prelim), United States Code.”
+
+#### Review of Guidance to Contractors on Nondiscrimination on the Basis of Sex
+Pub. L. 116–92, div. A, title VIII, § 885, Dec. 20, 2019, 133 Stat. 1535, provided that: “(a) Review.—Not later than 180 days after the date of the enactment of this Act [Dec. 20, 2019], the Under Secretary of Defense for Acquisition and Sustainment, serving as the senior procurement executive for the Department of Defense pursuant to [section 133b(b)(4)(B) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section133b/b/4/B&num=0&edition=prelim), United States Code, shall conduct a review of the implementation of the requirement for Government contracting agencies under Executive Order 11246 ([42 U.S.C. 2000e](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2000e&num=0&edition=prelim) note) relating to expectations of contractors and subcontractors to ensure nondiscrimination on the basis of sex. “(b) Elements.—The review required under subsection (a) shall, at a minimum, consider—“(1) existing contracting processes and tools for oversight of contracts, including contractor responsibility determinations and documentation of performance; and “(2) the extent to which best practices for contractors and subcontractors identified in the appendix to part 60–20 of title 41 of the Code of Federal Regulations, such as establishing and implementing procedures for handling and resolving complaints about harassment and intimidation based on sex, have been incorporated in Department policies and procedures. “(c) Updated Training Guidance.—Not later than 180 days after the date of the completion of the review required under subsection (a), the Under Secretary of Defense for Acquisition and Sustainment shall update any relevant training guidance for the acquisition workforce to account for the conclusions of the review. “(d) Briefing Required.—Not later than December 15, 2020, the Secretary of Defense shall brief the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] on the review required under subsection (a), which shall include any updates to training guidance or contracting procedures resulting from the review.”
 
 #### Guidance Regarding Training and Development of the Acquisition Workforce
 Pub. L. 114–328, div. A, title VIII, § 803(b), Dec. 23, 2016, 130 Stat. 2249, provided that: “(1) In general.—Not later than 180 days after the date of the enactment of this Act [Dec. 23, 2016], the Secretary of Defense shall issue guidance addressing the training and development of the Department of Defense workforce engaged in the procurement of services, including those personnel not designated as members of the acquisition workforce. “(2) Identification of training and professional development opportunities and alternatives.—The guidance required under paragraph (1) shall identify training and professional development opportunities and alternatives, not limited to existing Department of Defense institutions, that focus on and provide relevant training and professional development in commercial business models and contracting. “(3) Treatment of training and professional development.—Any training and professional development provided pursuant to this subsection outside Department of Defense institutions shall be deemed to be equivalent to similar training certified or provided by the Defense Acquisition University.”
@@ -1147,7 +1328,7 @@ Pub. L. 114–328, div. A, title VIII, § 803(b), Dec. 23, 2016, 130 Stat. 2249,
 ## § 1742. Internship, cooperative education, and scholarship programs
 **(a) Programs.—** The Secretary of Defense shall conduct the following education and training programs:
 
-(1) An intern program for purposes of providing highly qualified and talented individuals an opportunity for accelerated promotions, career broadening assignments, and specified training to prepare them for entry into the Acquisition Corps.
+(1) An intern program for purposes of providing highly qualified and talented individuals an opportunity for accelerated promotions, career broadening assignments, and specified training to prepare them for entry into acquisition positions in the Department of Defense.
 
 (2) A cooperative education credit program under which the Secretary arranges, through cooperative arrangements entered into with one or more accredited institutions of higher education, for such institutions to grant undergraduate credit for work performed by students who are employed by the Department of Defense in acquisition positions.
 
@@ -1158,6 +1339,8 @@ Pub. L. 114–328, div. A, title VIII, § 803(b), Dec. 23, 2016, 130 Stat. 2249,
 ### Statutory Notes
 
 #### Amendments
+2019—Subsec. (a)(1). Pub. L. 116–92 substituted “acquisition positions in the Department of Defense” for “the Acquisition Corps”.
+
 2004—Pub. L. 108–375, § 1084(f)(1), amended directory language of Pub. L. 108–136, § 834(a). See 2003 Amendment note below.
 
 Pub. L. 108–375, § 812(b), designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
@@ -1205,7 +1388,7 @@ Pub. L. 106–65, div. A, title IX, § 925(b), Oct. 5, 1999, 113 Stat. 726, prov
 
 <a id="section-1746"></a>
 ## § 1746. Defense Acquisition University
-**(a) Defense Acquisition University Structure.—** The Secretary of Defense, acting through the Under Secretary of Defense for Acquisition, Technology, and Logistics, shall establish and maintain a defense acquisition university structure to provide for—
+**(a) Defense Acquisition University Structure.—** The Secretary of Defense, acting through the Under Secretary of Defense for Acquisition and Sustainment, shall establish and maintain a defense acquisition university structure to provide for—
 
 (1) the professional educational development and training of the acquisition workforce; and
 
@@ -1215,11 +1398,19 @@ Pub. L. 106–65, div. A, title IX, § 925(b), Oct. 5, 1999, 113 Stat. 726, prov
 
 (1) The Secretary of Defense may employ as many civilians as professors, instructors, and lecturers in the defense acquisition university structure as the Secretary considers necessary.
 
-(2) The compensation of persons employed under this subsection shall be as prescribed by the Secretary.
+(2) The professors, instructors, and lecturers employed under paragraph (1) shall include individuals from civilian colleges or universities that are not owned or operated by the Federal Government, commercial learning and development organizations, industry, or federally funded research and development centers.
 
-(3) In this subsection, the term “defense acquisition university” includes the Defense Systems Management College.
+(3) The Secretary of Defense shall ensure that—
 
-**(c) Curriculum Development.—** The President of the Defense Acquisition University shall work with the relevant professional schools and degree-granting institutions of the Department of Defense and military departments to ensure that best practices are used in curriculum development to support acquisition workforce positions.
+  (A) not later than September 1, 2021, not less than five full-time visiting professors employed under paragraph (1) are from civilian colleges or universities described under paragraph (2); and
+
+  (B) not later than September 1, 2022, not less than ten full-time visiting professors employed under paragraph (1) are from such civilian colleges or universities.
+
+(4) The compensation of persons employed under this subsection shall be as prescribed by the Secretary.
+
+(5) In this subsection, the term “defense acquisition university” includes the Defense Systems Management College.
+
+**(c) Curriculum Development.—** The President of the Defense Acquisition University shall work with the relevant professional schools and degree-granting institutions of the Department of Defense and military departments, and with commercial training providers, to ensure that best practices are used in curriculum development to support acquisition workforce positions.
 
 **(d) Cooperative Research and Development Agreements.—**
 
@@ -1229,7 +1420,20 @@ Pub. L. 106–65, div. A, title IX, § 925(b), Oct. 5, 1999, 113 Stat. 726, prov
 
 ### Statutory Notes
 
+#### Amendment of Subsection (d)(1)
+Pub. L. 116–283, div. A, title XVIII, §§ 1801(d), 1841(e)(1), Jan. 1, 2021, 134 Stat. 4151, 4244, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, subsection (d)(1) of this section is amended by striking “section 2358” and inserting “section 4001”. See 2021 Amendment note below.
+
 #### Amendments
+2021—Subsec. (b)(3)(A). Pub. L. 116–283, § 1081(a)(32), struck out the second semicolon before “and”.
+
+Subsec. (d)(1). Pub. L. 116–283, § 1841(e)(1), substituted “section 4001” for “section 2358”.
+
+2019—Subsec. (a). Pub. L. 116–92, § 902(23), substituted “Under Secretary of Defense for Acquisition and Sustainment” for “Under Secretary of Defense for Acquisition, Technology, and Logistics” in introductory provisions.
+
+Subsec. (b)(2) to (5). Pub. L. 116–92, § 861(c)(1), added pars. (2) and (3) and redesignated former pars. (2) and (3) as (4) and (5), respectively.
+
+Subsec. (c). Pub. L. 116–92, § 861(c)(2), inserted “, and with commercial training providers,” after “military departments”.
+
 2016—Subsec. (d). Pub. L. 114–328 added subsec. (d).
 
 2011—Pub. L. 111–383, § 877(c)(2)(A), substituted “Defense Acquisition University” for “Defense acquisition university structure” in section catchline.
@@ -1241,6 +1445,9 @@ Subsec. (c). Pub. L. 111–383, § 877(c)(1), added subsec. (c).
 1996—Subsec. (a). Pub. L. 104–106 struck out “(1)” before “The Secretary of Defense” and redesignated subpars. (A) and (B) as pars. (1) and (2), respectively.
 
 1993—Subsec. (a)(1). Pub. L. 103–160 substituted “Under Secretary of Defense for Acquisition and Technology” for “Under Secretary of Defense for Acquisition”.
+
+#### Effective Date of 2021 Amendment
+Amendment by section 1841(e)(1) of Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
 
 #### Effective Date
 Pub. L. 101–510, div. A, title XII, § 1209(h)(1), Nov. 5, 1990, 104 Stat. 1667, provided that: “Subsection (b) of [section 1746 of title 10](./chapter-087-defense-acquisition-workforce.md#section-1746), United States Code (as added by section 1202), shall take effect with respect to the Defense Systems Management College on the date of the enactment of this Act [Nov. 5, 1990].”
@@ -1281,12 +1488,15 @@ Pub. L. 101–510, div. A, title XII, § 1205, Nov. 5, 1990, 104 Stat. 1658, as 
 <a id="section-1748"></a>
 ## § 1748. Fulfillment standards for acquisition workforce training
 
-The Secretary of Defense, acting through the Under Secretary of Defense for Acquisition, Technology, and Logistics, shall develop fulfillment standards, and implement and maintain a program, for purposes of the training requirements of sections 1723, 1724, and 1735 of this title. Such fulfillment standards shall consist of criteria for determining whether an individual has demonstrated competence in the areas that would be taught in the training courses required under those sections. If an individual meets the appropriate fulfillment standard, the applicable training requirement is fulfilled.
+The Secretary of Defense, acting through the Under Secretary of Defense for Acquisition and Sustainment, shall develop fulfillment standards, and implement and maintain a program, for purposes of the training requirements of sections 1723, 1724, and 1735 of this title. Such fulfillment standards shall consist of criteria for determining whether an individual has demonstrated competence in the areas that would be taught in the training courses required under those sections. If an individual meets the appropriate fulfillment standard, the applicable training requirement is fulfilled.
 
 ### Statutory Notes
 
 #### Prior Provisions
 Provisions similar to those in this section were contained in Pub. L. 105–85, div. A, title VIII, § 853, Nov. 18, 1997, 111 Stat. 1851, which was set out as a note under [section 1723 of this title](./chapter-087-defense-acquisition-workforce.md#section-1723), prior to repeal by Pub. L. 111–383, § 874(b)(4).
+
+#### Amendments
+2019—Pub. L. 116–92 substituted “Under Secretary of Defense for Acquisition and Sustainment” for “Under Secretary of Defense for Acquisition, Technology, and Logistics”.
 
 #### Deadline for Fulfillment Standards
 Pub. L. 111–383, div. A, title VIII, § 874(b)(3), Jan. 7, 2011, 124 Stat. 4305, provided that: “The fulfillment standards required under [section 1748 of title 10](./chapter-087-defense-acquisition-workforce.md#section-1748), United States Code, as added by paragraph (1), shall be developed not later than 270 days after the date of the enactment of this Act [Jan. 7, 2011].”
@@ -1345,7 +1555,7 @@ Pub. L. 101–510, div. A, title XII, § 1209(k), Nov. 5, 1990, 104 Stat. 1667, 
 
 (4) The Secretary of Defense shall exercise the authorities granted to the Office of Personnel Management under [section 4703 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section4703&num=0&edition=prelim) for purposes of the demonstration project authorized under this section.
 
-**(c) Limitation on Number of Participants.—** The total number of persons who may participate in at 11 So in original. any one time the demonstration project under this section may not exceed 130,000.
+**(c) Limitation on Number of Participants.—** The total number of persons who may participate at any one time in the demonstration project under this section may not exceed 130,000.
 
 **(d) Effect of Reorganizations.—** The applicability of paragraph (2) of subsection (b) to an organization or team shall not terminate by reason that the organization or team, after having satisfied the conditions in paragraph (3) of such subsection when it began to participate in a demonstration project under this section, ceases to meet one or both of the conditions set forth in subparagraph (A) of such paragraph (3) as a result of a reorganization, restructuring, realignment, consolidation, or other organizational change.
 
@@ -1405,6 +1615,8 @@ A prior section 1762, added Pub. L. 101–510, div. A, title XII, § 1202(a), No
 Provisions similar to those in this section were contained in Pub. L. 104–106, div. D, title XLIII, § 4308, Feb. 10, 1996, 110 Stat. 669, which was set out as a note under [section 1701 of this title](./chapter-087-defense-acquisition-workforce.md#section-1701), prior to repeal by Pub. L. 111–383, § 872(b).
 
 #### Amendments
+2019—Subsec. (c). Pub. L. 116–92 substituted “at any one time in” for “in at any one time”.
+
 2017—Subsec. (c). Pub. L. 115–91, § 844(b), substituted “at any one time the demonstration project under this section may not exceed 130,000” for “the demonstration project under this section may not exceed 120,000”.
 
 Subsec. (g). Pub. L. 115–91, § 844(a), substituted “December 31, 2023” for “December 31, 2020”.
@@ -1458,3 +1670,18 @@ A prior section 1764, added Pub. L. 101–510, div. A, title XII, § 1202(a), No
 2004—Subsec. (b)(1). Pub. L. 108–375, § 812(c)(2), substituted “in paragraph (6)” for “in paragraph (5)”.
 
 Subsec. (b)(5), (6). Pub. L. 108–375, § 812(c)(1), added par. (5) and redesignated former par. (5) as (6).
+
+
+<a id="section-1765"></a>
+## § 1765. Competency development
+
+For each acquisition workforce career field, the Secretary of Defense shall—
+
+(1) establish, for the civilian personnel in that career field, defined proficiency standards and technical and nontechnical competencies which shall be used in personnel qualification assessments; and
+
+(2) assign resources to accomplish such technical and nontechnical competencies.
+
+### Statutory Notes
+
+#### Deadline for Implementation
+Pub. L. 116–92, div. A, title VIII, § 861(i)(3), Dec. 20, 2019, 133 Stat. 1519, provided that: “Not later than the end of the two-year period beginning on the date of the enactment of this Act [Dec. 20, 2019], the Secretary of Defense shall carry out the requirements of [section 1765 of title 10](./chapter-087-defense-acquisition-workforce.md#section-1765), United States Code (as added by paragraph (1)).”

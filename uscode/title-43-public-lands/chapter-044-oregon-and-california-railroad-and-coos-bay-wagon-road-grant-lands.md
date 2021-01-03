@@ -2,7 +2,7 @@
 title: 43
 chapter: '44'
 heading: OREGON AND CALIFORNIA RAILROAD AND COOS BAY WAGON ROAD GRANT LANDS
-section_count: 14
+section_count: 15
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43&num=0&edition=prelim
 ---
@@ -120,6 +120,45 @@ Public Law 93–205, referred to in subsecs. (a)(1) and (b)(1), is Pub. L. 93–
 
 #### Codification
 Section was enacted as part of the Wildfire Suppression Funding and Forest Management Activities Act, and also as part of the Consolidated Appropriations Act, 2018, and not as part of the Act of August 28, 1937, which comprises this subchapter.
+
+
+<a id="section-2607"></a>
+## § 2607. Protection of Oregon and California Railroad grant lands
+**(a) Definitions** For purposes of this section:
+
+(1) **O & C land** — The term “O & C land” means the land (commonly known as “Oregon and California Railroadgrant land”) that—
+
+  (A) revested in the United States under the Act of June 9, 1916 (39 Stat. 218, chapter 137); and
+
+  (B) is managed by the Secretary of the Interior through the Bureau of Land Management under the Act of August 28, 1937 ([43 U.S.C. 1181a](./chapter-028-miscellaneous-provisions-relating-to-public-lands.md#section-1181a) et seq.).
+
+(2) **CBWR land** — The term “CBWR land” means the land (commonly known as “Coos Bay Wagon Road grant land”) that—
+
+  (A) was reconveyed to the United States under the Act of February 26, 1919 (40 Stat. 1179, chapter 47); and
+
+  (B) is managed by the Secretary of the Interior through the Bureau of Land Management under the Act of August 28, 1937 ([43 U.S.C. 1181a](./chapter-028-miscellaneous-provisions-relating-to-public-lands.md#section-1181a) et seq.).
+
+(3) **Geographic area** — The term “geographic area” means the area in the State of Oregon within the boundaries of theMedford District, Roseburg District, Eugene District, Salem District, Coos Bay District, and Klamath Resource Area of the Lakeview District of the Bureau of Land Management, as the districts and the resource area were constituted on January 1, 1998.
+
+(4) **Secretary** — The term “Secretary” means the Secretary of the Interior.
+
+**(b) Policy of no net loss of O & C land and CBWR land** In carrying out sales, purchases, and exchanges of land in the geographic area, the Secretary shall ensure that on October 30, 2008, and on the expiration of each 10-year period thereafter, the number of acres of O & C land and CBWR land in the geographic area is not less than the number of acres of such land on October 30, 1998.
+
+**(c) Relationship to Umpqua land exchange authority** Notwithstanding any other provision of this section, this section shall not apply to an exchange of land authorized pursuant to section 1028 of the Omnibus Parks and Public Lands Management Act of 1996 (Public Law 104–333; 110 Stat. 4231), or any implementing legislation or administrative rule, if the land exchange is consistent with the memorandum of understanding between the Umpqua Land Exchange Project and the Association of Oregon and California Land Grant Counties dated February 19, 1998.
+
+### Statutory Notes
+
+#### References in Text
+Act of June 9, 1916, referred to in subsec. (a)(1)(A), is act June 9, 1916, ch. 137, 39 Stat. 218, which is not classified to the Code.
+
+Act of August 28, 1937 ([43 U.S.C. 1181a](./chapter-028-miscellaneous-provisions-relating-to-public-lands.md#section-1181a) et seq.), referred to in subsec. (a)(1)(B), (2)(B), probably means act Aug. 28, 1937, ch. 876, 50 Stat. 874, which was formerly classified principally to sections 1181a to 1181f of this title prior to editorial reclassification, and is now classified principally to this subchapter. Section 3 of the Act, former [section 1181c of this title](./chapter-028-miscellaneous-provisions-relating-to-public-lands.md#section-1181c), was repealed by Pub. L. 94–579, title VII, § 702, Oct. 21, 1976, 90 Stat. 2787. Sections 1181f–1 to 1181f–4 of this title, included within the parenthetical reference to sections 1181a to 1181j, were enacted by act May 24, 1939, ch. 144, 53 Stat. 753, and were editorially reclassified as subchapter II (§ 2621 et seq.) of this chapter. Sections 1181g to 1181j of this title, also included within the parenthetical reference to sections 1181a to 1181j, were enacted by act June 24, 1954, ch. 357, 68 Stat. 270, and were editorially reclassified as subchapter III (§ 2631 et seq.) of this chapter. For complete classification of these Acts to the Code, see Tables.
+
+Act of February 26, 1919, referred to in subsec. (a)(2)(A), is act Feb. 26, 1919, ch. 47, 40 Stat. 1179, which is not classified to the Code.
+
+Section 1028 of the Omnibus Parks and Public Lands Management Act of 1996, referred to in subsec. (c), is section 1028 of Pub. L. 104–333, div. I, title X, § 1028, Nov. 12, 1996, 110 Stat. 4231, which is not classified to the Code.
+
+#### Codification
+Section was enacted as part of the Oregon Public Lands Transfer and Protection Act of 1998, and not as part of the Act of August 28, 1937, which comprises this subchapter.
 
 
 <a id="section-2621"></a>

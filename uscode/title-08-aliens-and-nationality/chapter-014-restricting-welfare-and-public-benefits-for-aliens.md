@@ -332,6 +332,8 @@ Pub. L. 104–208, div. C, title V, § 506, Sept. 30, 1996, 110 Stat. 3009–672
 
   (F) *Medicaid exception for aliens receiving SSI* — An alien who is receiving benefits under the program defined in subsection (a)(3)(A) (relating to the supplemental security income program) shall be eligible for medical assistance under a State plan under title XIX of the Social Security Act ([42 U.S.C. 1396](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1396&num=0&edition=prelim) et seq.) under the same terms and conditions that apply to other recipients of benefits under the program defined in such subsection.
 
+  (G) *Medicaid exception for citizens of freely associated states* — With respect to eligibility for benefits for the designated Federal program defined in paragraph (3)(C) (relating to the Medicaid program), paragraph (1) shall not apply to any individual who lawfully resides in 1 of the 50 States or the District of Columbia in accordance with the Compacts of Free Association between the Government of the United States and the Governments of the Federated States of Micronesia, the Republic of the Marshall Islands, and the Republic of Palau and shall not apply, at the option of the Governor of Puerto Rico, the Virgin Islands, Guam, the Northern Mariana Islands, or American Samoa as communicated to the Secretary of Health and Human Services in writing, to any individual who lawfully resides in the respective territory in accordance with such Compacts.
+
 (3) **“Designated Federal program” defined** — For purposes of this chapter, the term “designated Federal program” means any of the following:
 
   (A) *Temporary assistance for needy families* — The program of block grants to States for temporary assistance for needy families under part A of title IV of the Social Security Act [[42 U.S.C. 601](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section601&num=0&edition=prelim) et seq.].
@@ -367,6 +369,8 @@ Subsection (a)(2)(A)(i)(V) of this section, referred to in subsec. (b)(2)(A)(i)(
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
+2020—Subsec. (b)(2)(G). Pub. L. 116–260 added subpar. (G).
+
 2008—Subsec. (a)(2)(F)(ii). Pub. L. 110–246, § 4115(c)(2)(D)(i), substituted “section 3(j)” for “section 3(r)”.
 
 Subsec. (a)(2)(M). Pub. L. 110–328 added subpar. (M).
@@ -470,6 +474,9 @@ Subsec. (b)(2)(F). Pub. L. 105–33, § 5305(b), added subpar. (F).
 #### Change of Name
 References to the food stamp program established under the Food and Nutrition Act of 2008, formerly known as the Food Stamp Act of 1977, considered to refer to the supplemental nutrition assistance program established under that Act, see section 4002(c) of Pub. L. 110–246, set out as a note under [section 2012 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section2012&num=0&edition=prelim), Agriculture.
 
+#### Effective Date of 2020 Amendment
+Pub. L. 116–260, div. CC, title II, § 208(e), Dec. 27, 2020, 134 Stat. 2986, provided that: “The amendments made by this section [amending this section and sections 1613 and 1641 of this title and [section 1308 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1308&num=0&edition=prelim), The Public Health and Welfare] shall apply to benefits for items and services furnished on or after the date of the enactment of this Act [Dec. 27, 2020].”
+
 #### Effective Date of 2008 Amendment
 Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, except as otherwise provided, see section 4 of Pub. L. 110–246, set out as an Effective Date note under [section 8701 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section8701&num=0&edition=prelim), Agriculture.
 
@@ -521,6 +528,8 @@ Pub. L. 104–208, div. C, title V, § 510, Sept. 30, 1996, 110 Stat. 3009–673
   (B) on active duty (other than active duty for training) in the Armed Forces of the United States, or
 
   (C) the spouse or unmarried dependent child of an individual described in subparagraph (A) or (B) or the unremarried surviving spouse of an individual described in clause (i) or (ii) 22 So in original. Probably should be “subparagraph (A) or (B)”. who is deceased if the marriage fulfills the requirements of [section 1304 of title 38](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section1304&num=0&edition=prelim).
+
+(3) **Exception for citizens of freely associated states** — An individual described in [section 1612(b)(2)(G) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1612/b/2/G&num=0&edition=prelim), but only with respect to the designated Federal program defined in [section 1612(b)(3)(C) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1612/b/3/C&num=0&edition=prelim).
 
 **(c) Application of term Federal means-tested public benefit**
 
@@ -586,6 +595,8 @@ The Workforce Innovation and Opportunity Act, referred to in subsec. (c)(2)(K), 
 The Food Stamp Act of 1977, referred to in subsec. (c)(2)(L), subsequently renamed the Food and Nutrition Act of 2008, is Pub. L. 88–525, Aug. 31, 1964, 78 Stat. 703, which is classified generally to chapter 51 (§ 2011 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under [section 2011 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section2011&num=0&edition=prelim) and Tables.
 
 #### Amendments
+2020—Subsec. (b)(3). Pub. L. 116–260 added par. (3).
+
 2014—Subsec. (c)(2)(K). Pub. L. 113–128 substituted “Benefits under title I of the Workforce Innovation and Opportunity Act” for “Benefits under the title I of the Workforce Investment Act of 1998”.
 
 2002—Subsec. (c)(2)(L). Pub. L. 107–171 added subpar. (L).
@@ -613,6 +624,9 @@ Subsec. (b)(2)(C). Pub. L. 105–33, § 5563(b), inserted before period at end �
 Subsec. (d). Pub. L. 105–33, § 5303(c), added subsec. (d).
 
 Pub. L. 105–33, § 5302(c)(1)(B), struck out heading and text of subsec. (d). Text read as follows: “The limitation under subsection (a) of this section shall not apply to refugee and entrant assistance activities, authorized by title IV of the Immigration and Nationality Act [[8 U.S.C. 1521](./chapter-012-immigration-and-nationality.md#section-1521) et seq.] and section 501 of the Refugee Education Assistance Act of 1980, for Cuban and Haitian entrants as defined in section 501(e)(2) of the Refugee Education Assistance Act of 1980.”
+
+#### Effective Date of 2020 Amendment
+Amendment by section 208(b) of Pub. L. 116–260 applicable to benefits for items and services furnished on or after Dec. 27, 2020, see section 208(e) of Pub. L. 116–260, set out as a note under [section 1612 of this title](./chapter-014-restricting-welfare-and-public-benefits-for-aliens.md#section-1612).
 
 #### Effective Date of 2014 Amendment
 Amendment by Pub. L. 113–128 effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as an Effective Date note under [section 3101 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3101&num=0&edition=prelim), Labor.
@@ -739,7 +753,7 @@ Subsec. (c)(3). Pub. L. 105–33, § 5581(b)(1), made technical amendment to ref
 Amendment by Pub. L. 105–33 effective as if included in the enactment of title IV of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996, Pub. L. 104–193, see section 5582 of Pub. L. 105–33, set out as a note under [section 1367 of this title](./chapter-012-immigration-and-nationality.md#section-1367).
 
 #### Pilot Programs on Limiting Issuance of Driver’s License to Illegal Aliens
-Pub. L. 104–208, div. C, title V, § 502, Sept. 30, 1996, 110 Stat. 3009–671, provided that: “(a) In General.—Pursuant to guidelines prescribed by the Attorney General not later than 6 months after the date of the enactment of this Act [Sept. 30, 1996], all States may conduct pilot programs within their State to determine the viability, advisability, and cost-effectiveness of the State’s denying driver’s licenses to aliens who are not lawfully present in the United States. Under a pilot program a State may deny a driver’s license to aliens who are not lawfully present in the United States. Such program shall be conducted in cooperation with relevant State and local authorities. “(b) Report.—Not later than 3 years after the date of the enactment of this Act, the Attorney General shall submit a report to the Judiciary Committees of the House of Representatives and of the Senate on the results of the pilot programs conducted under subsection (a).”
+Pub. L. 104–208, div. C, title V, § 502, Sept. 30, 1996, 110 Stat. 3009–671, provided that pursuant to guidelines by the Attorney General, all States could conduct pilot programs to determine the viability, advisability, and cost-effectiveness of denying driver’s licenses to aliens not lawfully present in the United States and, not later than 3 years after Sept. 30, 1996, the Attorney General should submit a report to the Judiciary Committees of Congress.
 
 
 <a id="section-1623"></a>
@@ -985,9 +999,11 @@ Amendment by Pub. L. 104–208 applicable to affidavits of support executed on o
 
 (5) an alien whose deportation is being withheld under section 243(h) of such Act [[8 U.S.C. 1253](./chapter-012-immigration-and-nationality.md#section-1253)] (as in effect immediately before the effective date of section 307 of division C of Public Law 104–208) or section 241(b)(3) of such Act [[8 U.S.C. 1231(b)(3)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1231/b/3&num=0&edition=prelim)] (as amended by section 305(a) of division C of Public Law 104–208),
 
-(6) an alien who is granted conditional entry pursuant to section 203(a)(7) of such Act [[8 U.S.C. 1153(a)(7)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1153/a/7&num=0&edition=prelim)] as in effect prior to April 1, 1980; 11 So in original. The semicolon probably should be a comma. or
+(6) an alien who is granted conditional entry pursuant to section 203(a)(7) of such Act [[8 U.S.C. 1153(a)(7)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1153/a/7&num=0&edition=prelim)] as in effect prior to April 1, 1980,
 
-(7) an alien who is a Cuban and Haitian entrant (as defined in section 501(e) of the Refugee Education Assistance Act of 1980).
+(7) an alien who is a Cuban and Haitian entrant (as defined in section 501(e) of the Refugee Education Assistance Act of 1980), or
+
+(8) an individual who lawfully resides in the United States in accordance with a Compact of Free Association referred to in [section 1612(b)(2)(G) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1612/b/2/G&num=0&edition=prelim), but only with respect to the designated Federal program defined in [section 1612(b)(3)(C) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1612/b/3/C&num=0&edition=prelim) (relating to the Medicaid program).
 
 **(c) Treatment of certain battered aliens as qualified aliens** For purposes of this chapter, the term “qualified alien” includes—
 
@@ -1001,9 +1017,9 @@ Amendment by Pub. L. 104–208 applicable to affidavits of support executed on o
 
     (ii) classification pursuant to clause (ii) or (iii) of section 204(a)(1)(B) of the Act [[8 U.S.C. 1154(a)(1)(B)(ii)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1154/a/1/B/ii&num=0&edition=prelim), (iii)],
 
-    (iii) suspension of deportation under section 244(a)(3) of the Immigration and Nationality Act [[8 U.S.C. 1254(a)(3)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1254/a/3&num=0&edition=prelim)] (as in effect before the title III–A effective date in section 309 of the Illegal Immigration Reform and Immigrant Responsibility Act of 1996).22 So in original. The period probably should be a comma.
+    (iii) suspension of deportation under section 244(a)(3) of the Immigration and Nationality Act [[8 U.S.C. 1254(a)(3)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1254/a/3&num=0&edition=prelim)] (as in effect before the title III–A effective date in section 309 of the Illegal Immigration Reform and Immigrant Responsibility Act of 1996).11 So in original. The period probably should be a comma.
 
-    (iv) status as a spouse or child of a United States citizen pursuant to clause (i) of section 204(a)(1)(A) of such Act [[8 U.S.C. 1154(a)(1)(A)(i)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1154/a/1/A/i&num=0&edition=prelim)], or classification pursuant to clause (i) of section 204(a)(1)(B) of such Act [[8 U.S.C. 1154(a)(1)(B)(i)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1154/a/1/B/i&num=0&edition=prelim)]; 33 So in original. The semicolon probably should be “, or”.
+    (iv) status as a spouse or child of a United States citizen pursuant to clause (i) of section 204(a)(1)(A) of such Act [[8 U.S.C. 1154(a)(1)(A)(i)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1154/a/1/A/i&num=0&edition=prelim)], or classification pursuant to clause (i) of section 204(a)(1)(B) of such Act [[8 U.S.C. 1154(a)(1)(B)(i)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1154/a/1/B/i&num=0&edition=prelim)]; 22 So in original. The semicolon probably should be “, or”.
 
     (v) cancellation of removal pursuant to section 240A(b)(2) of such Act [[8 U.S.C. 1229b(b)(2)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1229b/b/2&num=0&edition=prelim)];
 
@@ -1039,6 +1055,8 @@ Section 501(e) of the Refugee Education Assistance Act of 1980, referred to in s
 Section 309 of the Illegal Immigration Reform and Immigrant Responsibility Act of 1996, referred to in subsec. (c)(1)(B)(iii), is section 309 of title III of div. C of Pub. L. 104–208, as amended, which is set out as a note under [section 1101 of this title](./chapter-012-immigration-and-nationality.md#section-1101).
 
 #### Amendments
+2020—Subsec. (b)(8). Pub. L. 116–260 added par. (8).
+
 2008—Subsec. (c)(4). Pub. L. 110–457 added par. (4).
 
 2000—Subsec. (c)(1)(B)(iii). Pub. L. 106–386 amended cl. (iii) generally. Prior to amendment, cl. (iii) read as follows: “cancellation of removal under section 240A of such Act (as in effect prior to April 1, 1997),”.
@@ -1064,6 +1082,9 @@ Subsec. (c)(3). Pub. L. 105–33, § 5571(c), added par. (3).
 1996—Subsec. (c). Pub. L. 104–208, § 501, added subsec. (c).
 
 Subsec. (c)(1)(B)(iii). Pub. L. 104–208, § 308(g)(8)(E), substituted “cancellation of removal under section 240A of such Act” for “suspension of deportation and adjustment of status pursuant to section 244(a)(3) of such Act”.
+
+#### Effective Date of 2020 Amendment
+Amendment by section 208(c) of Pub. L. 116–260 applicable to benefits for items and services furnished on or after Dec. 27, 2020, see section 208(e) of Pub. L. 116–260, set out as a note under [section 1612 of this title](./chapter-014-restricting-welfare-and-public-benefits-for-aliens.md#section-1612).
 
 #### Effective Date of 2008 Amendment
 Pub. L. 110–457, title II, § 211(b), Dec. 23, 2008, 122 Stat. 5063, provided that: “The amendments made by subsection (a) [amending this section] shall apply to applications for public benefits and public benefits provided on or after the date of the enactment of this Act [Dec. 23, 2008] without regard to whether regulations have been implemented to carry out such amendments.”

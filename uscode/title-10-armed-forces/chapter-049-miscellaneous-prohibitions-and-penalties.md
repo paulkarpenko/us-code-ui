@@ -2,7 +2,7 @@
 title: 10
 chapter: '49'
 heading: MISCELLANEOUS PROHIBITIONS AND PENALTIES
-section_count: 16
+section_count: 17
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10&num=0&edition=prelim
 ---
@@ -14,7 +14,7 @@ source: >-
 
 (1) An officer of the Navy or Marine Corps.
 
-(2) A commissioned officer of the Army or Air Force.
+(2) A commissioned officer of the Army, Air Force, or Space Force.
 
 (3) An officer of the Coast Guard.
 
@@ -34,6 +34,8 @@ source: >-
 | 971 | 50:1414. | June 25, 1956, ch. 439, § 4, 70 Stat. 333. |
 
 #### Amendments
+2021—Subsec. (b)(2). Pub. L. 116–283 substituted “, Air Force, or Space Force” for “or Air Force”.
+
 2006—Subsec. (a). Pub. L. 109–163 substituted “Navy Reserve” for “Naval Reserve” in heading and “Navy Reserve” for “Naval Reserve” in text.
 
 1997—Subsec. (b)(4). Pub. L. 105–85 substituted “Commissioned Corps” for “commissioned corps”.
@@ -689,7 +691,7 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
 (2) access by military recruiters for purposes of military recruiting to the following information pertaining to students (who are 17 years of age or older) enrolled at that institution (or any subelement of that institution):
 
-  (A) Names, addresses, and telephone listings.
+  (A) Names, addresses, electronic mail addresses (which shall be the electronic mail addresses provided by the institution, if available), and telephone listings.
 
   (B) Date and place of birth, levels of education, academic majors, degrees received, and the most recent educational institution enrolled in by the student.
 
@@ -732,6 +734,8 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 Provisions similar to those in this section were contained in Pub. L. 103–337, div. A, title V, § 558, Oct. 5, 1994, 108 Stat. 2776, as amended, and Pub. L. 104–208, div. A, title I, § 101(e) [title V, § 514], Sept. 30, 1996, 110 Stat. 3009–233, 3009–270, which were set out as notes under [section 503 of this title](./chapter-031-enlistments.md#section-503), prior to repeal by Pub. L. 106–65, § 549(b).
 
 #### Amendments
+2021—Subsec. (b)(2)(A). Pub. L. 116–283 substituted “electronic mail addresses (which shall be the electronic mail addresses provided by the institution, if available), and telephone listings” for “and telephone listings”.
+
 2013—Subsec. (b)(1). Pub. L. 112–239, § 1076(f)(10), substituted “or the Secretary” for “or Secretary”.
 
 Subsec. (f). Pub. L. 112–239, § 586, struck out subsec. (f). Text read as follows: “The Secretary of Defense shall publish in the Federal Register once every six months a list of each institution of higher education that is currently ineligible for contracts and grants by reason of a determination of the Secretary under subsection (a) or (b).”
@@ -1026,3 +1030,33 @@ Pub. L. 114–92, div. A, title V, § 594(b)(3), Nov. 25, 2015, 129 Stat. 834, p
 
 #### Interim Regulations
 Pub. L. 109–364, div. A, title VI, § 670(d), Oct. 17, 2006, 120 Stat. 2269, provided for the prescription of interim regulations to carry out this section, with interim rules not superseded by final rules expiring no later than 270 days after the effective date of this section (see Effective Date note above).
+
+
+<a id="section-988"></a>
+## § 988. Prohibition on ownership or trading of stocks in certain companies by certain officials of the Department of Defense
+**(a) Prohibition.—** Except as provided in subsection (b), a covered official of the Department of Defense may not own or purchase publicly traded stock of a company if that company is one of the 10 entities awarded the most amount of contract funds by the Department of Defense in a fiscal year during the five preceding fiscal years.
+
+**(b) Exceptions.—** This section shall not apply to the purchase or ownership of a publicly traded stock of a company otherwise described in subsection (a) as follows:
+
+(1) If the aggregate market value of the holdings of the covered official, and the spouse and minor children of the covered official, in the stock of that company, both before and after purchase (in the case of a purchase), does not exceed the de minimis threshold established in section 2640.202(a)(2) of title 5, Code of Federal Regulations.
+
+(2) If the stock is purchased and owned as part of an Excepted Investment Fund or mutual fund.
+
+**(c) Definitions.—** In this section:
+
+(1) The term “covered official of the Department of Defense” means any of the following:
+
+  (A) A civilian appointed to a position in the Department of Defense by the President, by and with the advice and consent of the Senate.
+
+  (B) If serving in a key acquisition position (as designated by the Secretary of Defense or the Secretary concerned for purposes of this section), the following:
+
+    (i) A member of the armed forces in a grade above O–6.
+
+    (ii) A civilian officer or employee in a Senior Executive Service, Senior-Level, or Scientific or Professional position.
+
+(2) The term “Excepted Investment Fund” means a widely-held investment fund described in section 102(f)(8) of the Ethics in Government Act of 1978 (5 U.S.C. App.).
+
+### Statutory Notes
+
+#### References in Text
+Section 102(f)(8) of the Ethics in Government Act of 1978, referred to in subsec. (c)(2), is section 102(f)(8) of Pub. L. 95–521, which is set out in the Appendix to Title 5, Government Organization and Employees.

@@ -233,7 +233,7 @@ Pub. L. 106–65, div. A, title V, § 532(a)(5), Oct. 5, 1999, 113 Stat. 604, pr
 | Revised section | Source (U.S. Code) | Source (Statutes at Large) |
 | 3924(a) 3924(b) | 10:942 (as applicable to commissioned officers). 10:942 (less applicability to commissioned officers). | June 30, 1882, ch. 254 (last 21 words of 3d proviso under “Pay Department”), 22 Stat. 118. |
 
-In subsection (a), the words “except as provided in [section 3786 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section3786&num=0&edition=prelim)” are inserted, since, under that revised section, when board proceedings are pending against a commissioned officer, his right to retire under this revised section, which is otherwise absolute, is discretionary with the Secretary under that revised section.
+In subsection (a), the words “except as provided in [section 3786 of this title](./chapter-275-proprietary-contractor-data-and-rights-in-technical-data.md#section-3786)” are inserted, since, under that revised section, when board proceedings are pending against a commissioned officer, his right to retire under this revised section, which is otherwise absolute, is discretionary with the Secretary under that revised section.
 
 In subsections (a) and (b), the words “or volunteer service, or both” are omitted as obsolete in accordance with an opinion of the Attorney General, 22 Ops. Atty. Gen. 199, August 30, 1898, holding that such words refer to volunteer service in the Civil War. The words “upon his request” are substituted for the words “if he make application therefor to the President”.
 
@@ -324,7 +324,7 @@ Amendment by Pub. L. 96–343 effective with respect to retired pay payable for 
 ## § 7326. Computation of years of service: voluntary retirement; regular and reserve commissioned officers
 **(a)** For the purpose of determining whether an officer of the Army may be retired under section 7311, 7318, or 7324 of this title, his years of service are computed by adding—
 
-(1) all active service performed as a member of the Army or the Air Force;
+(1) all active service performed as a member of the Army, the Air Force, or the Space Force;
 
 (2) all service in the Navy or Marine Corps that may be included in determining the eligibility of an officer of the Navy or Marine Corps for retirement;
 
@@ -361,6 +361,8 @@ Subsection (c) is substituted for 10:953a (less 1st sentence).
 [Section 3683 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section3683&num=0&edition=prelim), referred to in subsecs. (a)(3) and (d), was repealed (subject to a savings clause) by Pub. L. 99–145, title XIII, § 1301(b)(1)(A), (C), Nov. 8, 1985, 99 Stat. 735.
 
 #### Amendments
+2021—Subsec. (a)(1). Pub. L. 116–283 substituted “, the Air Force, or the Space Force” for “or the Air Force”.
+
 2018—Pub. L. 115–232, § 808(b)(12), renumbered [section 3926 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section3926&num=0&edition=prelim) as this section.
 
 Subsecs. (a) to (c). Pub. L. 115–232, § 809(a), substituted “section 7311, 7318, or 7324” for “section 3911, 3918, or 3924” in introductory provisions in subsec. (a) and in subsecs. (b) and (c).

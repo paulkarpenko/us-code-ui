@@ -2,7 +2,7 @@
 title: 42
 chapter: '81'
 heading: ENERGY CONSERVATION AND RESOURCE RENEWAL
-section_count: 36
+section_count: 39
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42&num=0&edition=prelim
 ---
@@ -722,7 +722,7 @@ As used in this part:
 
   (I) wood-heating appliances; and
 
-  (J) such other insulating or energy conserving devices or technologies as the Secretary may determine, after consulting with the Secretary of Housing and Urban Development, the Secretary of Agriculture, and the Director, of the Community Services Administration.
+  (J) such other insulating or energy conserving devices or technologies, including renewable energy technologies and other advanced technologies, as the Secretary may determine, after consulting with the Secretary of Housing and Urban Development.
 
 ### Statutory Notes
 
@@ -736,6 +736,8 @@ The Social Security Act, referred to in par. (7), is act Aug. 14, 1935, ch. 531,
 The Low-Income Home Energy Assistance Act of 1981, referred to in par. (7), is title XXVI of Pub. L. 97–35, Aug. 13, 1981, 95 Stat. 893, which is classified generally to subchapter II (§ 8621 et seq.) of chapter 94 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 8621 of this title](./chapter-094-low-income-energy-assistance.md#section-8621) and Tables.
 
 #### Amendments
+2020—Par. (9)(J). Pub. L. 116–260 inserted “, including renewable energy technologies and other advanced technologies,” after “devices or technologies” and struck out “, the Secretary of Agriculture, and the Director, of the Community Services Administration” before period at end.
+
 2009—Par. (7). Pub. L. 111–5 substituted “200 percent” for “150 percent” in two places.
 
 2007—Par. (8). Pub. L. 110–140 added par. (8) and struck out former par. (8) which read as follows: “The term ‘State’ means each of the States and the District of Columbia.”
@@ -794,18 +796,20 @@ Community Services Administration, which was established by section 601 of Econo
 
   (C) that secure the Federal investment made under this part and address the issues of eviction from and sale of property receiving weatherization materials under this part.
 
-(3) The Secretary, in coordination with the Secretaries and Director described in paragraph (2)(A) and with the Director of the Community Services Administration and the Secretary of Agriculture, shall develop and publish in the Federal Register for public comment, not later than 60 days after November 9, 1978, proposed amendments to the regulations prescribed under paragraph (1). Such amendments shall provide that the standards described in paragraph (2)(A) shall include a set of procedures to be applied to each dwelling unit to determine the optimum set of cost-effective measures, within the cost guidelines set for the program, to be installed in such dwelling unit. Such standards shall, in order to achieve such optimum savings of energy, take into consideration the following factors—
+(3) The Secretary, in coordination with the Secretaries and Director described in paragraph (2)(A) and the Secretary of Agriculture, shall develop and publish in the Federal Register for public comment, not later than 60 days after November 9, 1978, proposed amendments to the regulations prescribed under paragraph (1). Such amendments shall provide that the standards described in paragraph (2)(A) shall include a set of procedures to be applied to each dwelling unit to determine the optimum set of cost-effective measures, within the cost guidelines set for the program, to be installed in such dwelling unit. Such standards shall, in order to achieve such optimum savings of energy, take into consideration the following factors—
 
   (A) the cost of the weatherization material;
 
   (B) variation in climate; and
 
   (C) the value of energy saved by the application of the weatherization material.
-  Such standards shall be utilized by the Secretary in carrying out this part, the Secretary of Agriculture in carrying out the weatherization program under [section 1474(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1474/c&num=0&edition=prelim), and the Director of the Community Services Administration in carrying out weatherization programs under section 222(a)(12) of the Economic Opportunity Act of 1964 [[42 U.S.C. 2809(a)(12)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2809/a/12&num=0&edition=prelim)]. The Secretary shall take into consideration comments submitted regarding such proposed amendment and shall promulgate and publish final amended regulations not later than 120 days after November 9, 1978.
+  Such standards shall be utilized by the Secretary in carrying out this part, and by the Secretary of Agriculture in carrying out the weatherization program under [section 1474(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1474/c&num=0&edition=prelim). The Secretary shall take into consideration comments submitted regarding such proposed amendment and shall promulgate and publish final amended regulations not later than 120 days after November 9, 1978.
 
-(4) In carrying out paragraphs (2)(A) and (3), the Secretary shall establish the standards and procedures described in such paragraphs so that weatherization efforts being carried out under this part and under programs described in the fourth sentence of paragraph (3) will accomplish uniform results among the States in any area with a similar climatic condition.
+(4) The Secretary may amend the regulations prescribed under paragraph (1) to provide that the standards described in paragraph (2)(A) take into consideration improvements in the health and safety of occupants of dwelling units, and other non-energy benefits, from weatherization.
 
-(5) In any case in which a dwelling consists of a rental unit or rental units, the State, in the implementation of this part, shall ensure that—
+(5) In carrying out paragraphs (2)(A) and (3), the Secretary shall establish the standards and procedures described in such paragraphs so that weatherization efforts being carried out under this part and under programs described in the fourth sentence of paragraph (3) will accomplish uniform results among the States in any area with a similar climatic condition.
+
+(6) In any case in which a dwelling consists of a rental unit or rental units, the State, in the implementation of this part, shall ensure that—
 
   (A) the benefits of weatherization assistance in connection with such rental units, including units where the tenants pay for their energy through their rent, will accrue primarily to the low-income tenants residing in such units;
 
@@ -815,7 +819,7 @@ Community Services Administration, which was established by section 601 of Econo
 
   (D) no undue or excessive enhancement will occur to the value of such dwelling units.
 
-(6) As a condition of having assistance provided under this part with respect to multifamily buildings, a State may require financial participation from the owners of such buildings.
+(7) As a condition of having assistance provided under this part with respect to multifamily buildings, a State may require financial participation from the owners of such buildings.
 
 **(c) Failure of State to submit application; alternate application by any unit of general purpose local government or community action agency; submission of amended application by State** If a State does not, within 90 days after the date on which final regulations are promulgated under this section, submit an application to the Secretary which meets the requirements set forth in [section 6864 of this title](./chapter-081-energy-conservation-and-resource-renewal.md#section-6864), any unit of general purpose local government of sufficient size (as determined by the Secretary), or a community action agency carrying out programs under title II of the Economic Opportunity Act of 1964 [[42 U.S.C. 2781](./chapter-034-economic-opportunity-program.md#section-2781) et seq.], may, in lieu of such State, submit an application (meeting such requirements and subject to all other provisions of this part) for carrying out projects under this part within the geographical area which is subject to the jurisdiction of such government or is served by such agency. A State may, in accordance with regulations promulgated under this part, submit an amended application.
 
@@ -842,9 +846,13 @@ Community Services Administration, which was established by section 601 of Econo
 ### Statutory Notes
 
 #### References in Text
-The Economic Opportunity Act of 1964, referred to in subsecs. (b)(3), (c), and (e), is Pub. L. 88–452, Aug. 20, 1964, 78 Stat. 508, as amended. Title II of the Economic Opportunity Act of 1964 was classified generally to subchapter II (§ 2781 et seq.) of chapter 34 of this title prior to repeal by Pub. L. 97–35, title VI, § 683(a), Aug. 13, 1981, 95 Stat. 519. Prior to that repeal, section 222(a)(12) of that Act [[42 U.S.C. 2809(a)(12)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2809/a/12&num=0&edition=prelim)] was redesignated as section 222(a)(5) [[42 U.S.C. 2809(a)(5)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2809/a/5&num=0&edition=prelim)] by Pub. L. 95–568, § 5(a)(2)(E), Nov. 2, 1978, 94 Stat. 2426. For complete classification of this Act to the Code, see Tables.
+The Economic Opportunity Act of 1964, referred to in subsec. (c), is Pub. L. 88–452, Aug. 20, 1964, 78 Stat. 508. Title II of the Economic Opportunity Act of 1964 was classified generally to subchapter II (§ 2781 et seq.) of chapter 34 of this title prior to repeal by Pub. L. 97–35, title VI, § 683(a), Aug. 13, 1981, 95 Stat. 519. Prior to that repeal, section 222(a)(12) of that Act [[42 U.S.C. 2809(a)(12)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2809/a/12&num=0&edition=prelim)] was redesignated as section 222(a)(5) [[42 U.S.C. 2809(a)(5)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2809/a/5&num=0&edition=prelim)] by Pub. L. 95–568, § 5(a)(2)(E), Nov. 2, 1978, 94 Stat. 2426. For complete classification of this Act to the Code, see Tables.
 
 #### Amendments
+2020—Subsec. (b)(3). Pub. L. 116–260, § 1011(c)(1), in introductory provisions, struck out “and with the Director of the Community Services Administration” after “Director described in paragraph (2)(A)” and, in concluding provisions, inserted “and by” after “in carrying out this part,” and struck out “, and the Director of the Community Services Administration in carrying out weatherization programs under section 222(a)(12) of the Economic Opportunity Act of 1964” after “[section 1474(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1474/c&num=0&edition=prelim)”.
+
+Subsec. (b)(4) to (7). Pub. L. 116–260, § 1011(c)(2), (3), added par. (4) and redesignated former pars. (4) to (6) as (5) to (7), respectively.
+
 2018—Subsec. (d)(1). Pub. L. 115–325, § 203(1), added par. (1) and struck out former par. (1) which related to conditions for reserving funds for direct grants to provide assistance to low-income members of Indian tribes.
 
 Subsec. (d)(2). Pub. L. 115–325, § 203(2), inserted heading, substituted “The amounts” for “The sums”, “low-income members of the Indian tribe” for “individuals for whom such a determination has been made”, and “as the Secretary determines” for “as he determines”, and struck out “on the basis of his determination” before “under this subsection”.
@@ -963,8 +971,8 @@ Amendment by section 101(f) [title VIII, § 405(d)(38)] of Pub. L. 105–277 eff
 (3) A recipient of financial assistance under this section shall have up to three years to complete projects undertaken with such assistance.
 
 
-<a id="section-6865"></a>
-## § 6865. Technical transfer grants
+<a id="section-6864c"></a>
+## § 6864c. Technical transfer grants
 **(a) In general** The Secretary may, to the extent funds are made available, provide financial assistance to entities receiving funding from the Federal Government or from a State through a weatherization assistance program under section 6863 or [section 6864 of this title](./chapter-081-energy-conservation-and-resource-renewal.md#section-6864) for—
 
 (1) evaluating technical and management measures which increase program and/or private entity performance in weatherizing low-income housing;
@@ -982,11 +990,163 @@ Amendment by section 101(f) [title VIII, § 405(d)(38)] of Pub. L. 105–277 eff
 (2) A recipient of financial assistance under this section may contract with nonprofit entities to carry out all or part of the activities for which such financial assistance is provided.
 
 
+<a id="section-6864d"></a>
+## § 6864d. Contractor optimization
+**(a) In general** The Secretary may request that entities receiving funding from the Federal Government or from a State through a weatherization assistance program under [section 6863 of this title](./chapter-081-energy-conservation-and-resource-renewal.md#section-6863) or [section 6864 of this title](./chapter-081-energy-conservation-and-resource-renewal.md#section-6864) perform periodic reviews of the use of private contractors in the provision of weatherization assistance, and encourage expanded use of contractors as appropriate.
+
+**(b) Use of training funds** Entities described in subsection (a) may use funding described in such subsection to train private, non-Federal entities that are contracted to provide weatherization assistance under a weatherization program, in accordance with rules determined by the Secretary.
+
+
+<a id="section-6864e"></a>
+## § 6864e. Financial assistance for WAP enhancement and innovation
+**(a) Purposes** The purposes of this section are—
+
+(1) to expand the number of dwelling units that are occupied by low-income persons that receive weatherization assistance by making such dwelling units weatherization-ready;
+
+(2) to promote the deployment of renewable energy in dwelling units that are occupied by low-income persons;
+
+(3) to ensure healthy indoor environments by enhancing or expanding health and safety measures and resources available to dwellings that are occupied by low-income persons;
+
+(4) to disseminate new methods and best practices among entities providing weatherization assistance; and
+
+(5) to encourage entities providing weatherization assistance to hire and retain employees who are individuals—
+
+  (A) from the community in which the assistance is provided; and
+
+  (B) from communities or groups that are underrepresented in the home energy performance workforce, including religious and ethnic minorities, women, veterans, individuals with disabilities, and individuals who are socioeconomically disadvantaged.
+
+**(b) Financial assistance** The Secretary shall, to the extent funds are made available, award financial assistance, on an annual basis, through a competitive process to entities receiving funding from the Federal Government or from a State, tribal organization, or unit of general purpose local government through a weatherization program under [section 6863 of this title](./chapter-081-energy-conservation-and-resource-renewal.md#section-6863) or [section 6864 of this title](./chapter-081-energy-conservation-and-resource-renewal.md#section-6864), or to nonprofit entities, to be used by such an entity—
+
+(1) with respect to dwelling units that are occupied by low-income persons, to—
+
+  (A) implement measures to make such dwelling units weatherization-ready by addressing structural, plumbing, roofing, and electrical issues, environmental hazards, or other measures that the Secretary determines to be appropriate;
+
+  (B) install energy efficiency technologies, including home energy management systems, smart devices, and other technologies the Secretary determines to be appropriate;
+
+  (C) install renewable energy systems (as defined in [section 6865(c)(6)(A) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section6865/c/6/A&num=0&edition=prelim)); and
+
+  (D) implement measures to ensure healthy indoor environments by improving indoor air quality, accessibility, and other healthy homes measures as determined by the Secretary;
+
+(2) to improve the capability of the entity—
+
+  (A) to significantly increase the number of energy retrofits performed by such entity;
+
+  (B) to replicate best practices for work performed pursuant to this section on a larger scale;
+
+  (C) to leverage additional funds to sustain the provision of weatherization assistance and other work performed pursuant to this section after financial assistance awarded under this section is expended; and
+
+  (D) to hire and retain employees who are individuals described subsection (a)(5);
+
+(3) for innovative outreach and education regarding the benefits and availability of weatherization assistance and other assistance available pursuant to this section;
+
+(4) for quality control of work performed pursuant to this section;
+
+(5) for data collection, measurement, and verification with respect to such work;
+
+(6) for program monitoring, oversight, evaluation, and reporting regarding such work;
+
+(7) for labor, training, and technical assistance relating to such work;
+
+(8) for planning, management, and administration (up to a maximum of 15 percent of the assistance provided); and
+
+(9) for such other activities as the Secretary determines to be appropriate.
+
+**(c) Award factors** In awarding financial assistance under this section, the Secretary shall consider—
+
+(1) the applicant’s record of constructing, renovating, repairing, or making energy efficient single-family, multifamily, or manufactured homes that are occupied by low-income persons, either directly or through affiliates, chapters, or other partners (using the most recent year for which data are available);
+
+(2) the number of dwelling units occupied by low-income persons that the applicant has built, renovated, repaired, weatherized, or made more energy efficient in the 5 years preceding the date of the application;
+
+(3) the qualifications, experience, and past performance of the applicant, including experience successfully managing and administering Federal funds;
+
+(4) the strength of an applicant’s proposal to achieve one or more of the purposes under subsection (a);
+
+(5) the extent to which such applicant will utilize partnerships and regional coordination to achieve one or more of the purposes under subsection (a);
+
+(6) regional and climate zone diversity;
+
+(7) urban, suburban, and rural localities; and
+
+(8) such other factors as the Secretary determines to be appropriate.
+
+**(d) Applications**
+
+(1) **Administration** — To be eligible for an award of financial assistance under this section, an applicant shall submit to the Secretary an application in such manner and containing such information as the Secretary may require.
+
+(2) **Awards** — Subject to the availability of appropriations, not later than 270 days after December 27, 2020, the Secretary shall make a first award of financial assistance under this section.
+
+**(e) Maximum amount and term**
+
+(1) **In general** — The total amount of financial assistance awarded to an entity under this section shall not exceed $2,000,000.
+
+(2) **Technical and training assistance** — The total amount of financial assistance awarded to an entity under this section shall be reduced by the cost of any technical and training assistance provided by the Secretary that relates to such financial assistance.
+
+(3) **Term** — The term of an award of financial assistance under this section shall not exceed 3 years.
+
+(4) **Relationship to formula grants** — An entity may use financial assistance awarded to such entity under this section in conjunction with other financial assistance provided to such entity under this part.
+
+**(f) Requirements** Not later than 90 days after December 27, 2020, the Secretary shall issue requirements to implement this section, including, for entities receiving financial assistance under this section—
+
+(1) standards for allowable expenditures;
+
+(2) a minimum saving-to-investment ratio; and
+
+(3) standards for—
+
+  (A) training programs;
+
+  (B) energy audits;
+
+  (C) the provision of technical assistance;
+
+  (D) monitoring activities carried out using such financial assistance;
+
+  (E) verification of energy and cost savings;
+
+  (F) liability insurance requirements; and
+
+  (G) recordkeeping and reporting requirements, which shall include reporting to the Office of Weatherization and Intergovernmental Programs of the Department of Energy applicable data on each dwelling unit retrofitted or otherwise assisted pursuant to this section.
+
+**(g) Compliance with State and local law** Nothing in this section supersedes or otherwise affects any State or local law, to the extent that the State or local law contains a requirement that is more stringent than the applicable requirement of this section.
+
+**(h) Review and evaluation** The Secretary shall review and evaluate the performance of each entity that receives an award of financial assistance under this section (which may include an audit).
+
+**(i) Annual report** The Secretary shall submit to Congress an annual report that provides a description of—
+
+(1) actions taken under this section to achieve the purposes of this section; and
+
+(2) accomplishments as a result of such actions, including energy and cost savings achieved.
+
+**(j) Funding**
+
+(1) **Amounts**
+
+  (A) *In general* — For each of fiscal years 2021 through 2025, of the amount made available under [section 6872 of this title](./chapter-081-energy-conservation-and-resource-renewal.md#section-6872) for such fiscal year to carry out the weatherization program under this part (not including any of such amount made available for Department of Energy headquarters training or technical assistance), not more than—
+
+    (i) 2 percent of such amount (if such amount is $225,000,000 or more but less than $260,000,000) may be used to carry out this section;
+
+    (ii) 4 percent of such amount (if such amount is $260,000,000 or more but less than $300,000,000) may be used to carry out this section; and
+
+    (iii) 6 percent of such amount (if such amount is $300,000,000 or more) may be used to carry out this section.
+
+  (B) *Minimum* — For each of fiscal years 2021 through 2025, if the amount made available under [section 6872 of this title](./chapter-081-energy-conservation-and-resource-renewal.md#section-6872) (not including any of such amount made available for Department of Energy headquarters training or technical assistance) for such fiscal year is less than $225,000,000, no funds shall be made available to carry out this section.
+
+(2) **Limitation** — For any fiscal year, the Secretary may not use more than $25,000,000 of the amount made available under [section 6872 of this title](./chapter-081-energy-conservation-and-resource-renewal.md#section-6872) to carry out this section.
+
+**(k) Termination** The Secretary may not award financial assistance under this section after September 30, 2025.
+
+
+<a id="section-6865"></a>
+## § 6865. Hiring
+
+The Secretary may, as the Secretary determines appropriate, encourage entities receiving funding from the Federal Government or from a State through a weatherization program under [section 6863 of this title](./chapter-081-energy-conservation-and-resource-renewal.md#section-6863) or [section 6864 of this title](./chapter-081-energy-conservation-and-resource-renewal.md#section-6864), to prioritize the hiring and retention of employees who are individuals described in [section 6864d(a)(5) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section6864d/a/5&num=0&edition=prelim).
+
+
 <a id="section-6866"></a>
 ## § 6866. Limitations on financial assistance
 **(a) Purchase of materials and administration of projects**
 
-(1) Not more than an amount equal to 10 percent of any grant made by the Secretary under this part may be used for administrative purposes in carrying out duties under this part, except that not more than one-half of such amount may be used by any State for such purposes, and a State may provide in the plan adopted pursuant to subsection (b) for recipients of grants of less than $350,000 to use up to an additional 5 percent of such grant for administration if the State has determined that such recipient requires such additional amount to implement effectively the administrative requirements established by the Secretary pursuant to this part.
+(1) Not more than an amount equal to 15 percent of any grant made by the Secretary under this part may be used for administrative purposes in carrying out duties under this part, except that not more than one-half of such amount may be used by any State for such purposes, and a State may provide in the plan adopted pursuant to subsection (b) for recipients of grants of less than $350,000 to use up to an additional 5 percent of such grant for administration if the State has determined that such recipient requires such additional amount to implement effectively the administrative requirements established by the Secretary pursuant to this part.
 
 (2) The Secretary shall establish energy audit procedures and techniques which (i) meet standards established by the Secretary after consultation with the State Energy Advisory Board established under [section 6325(g) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section6325/g&num=0&edition=prelim), (ii) establish priorities for selection of weatherization measures based on their cost and contribution to energy efficiency, (iii) measure the energy requirement of individual dwellings and the rate of return of the total conservation investment in a dwelling, and (iv) account for interaction among energy efficiency measures.
 
@@ -1016,7 +1176,7 @@ Amendment by section 101(f) [title VIII, § 405(d)(38)] of Pub. L. 105–277 eff
 
   (E) the cost of making heating and cooling modifications, including replacement 22 So in original. Probably should be followed by a period.
 
-(2) Dwelling units partially weatherized under this part or under other Federal programs during the period September 30, 1975, through September 30, 1994, may receive further financial assistance for weatherization under this part.
+(2) Dwelling units weatherized (including dwelling units partially weatherized) under this part, or under other Federal programs (in this paragraph referred to as “previous weatherization”), may not receive further financial assistance for weatherization under this part until the date that is 15 years after the date such previous weatherization was completed. This paragraph does not preclude dwelling units that have received previous weatherization from receiving assistance and services (including the provision of information and education to assist with energy management and evaluation of the effectiveness of installed weatherization materials) other than weatherization under this part or under other Federal programs, or from receiving non-Federal assistance for weatherization.
 
 (3) Beginning with fiscal year 2000, the dwelling unit averages provided in paragraphs (1) and (4) shall be adjusted annually by increasing the average amount by an amount equal to—
 
@@ -1088,6 +1248,10 @@ The Economic Opportunity Act of 1964, referred to in subsec. (b)(2), is Pub. L. 
 [Section 6872 of this title](./chapter-081-energy-conservation-and-resource-renewal.md#section-6872), referred to in subsecs. (d) and (e)(1)(A), was amended by Pub. L. 105–388, § 3, Nov. 13, 1998, 112 Stat. 3477, and, as so amended, no longer contains a subsec. (b).
 
 #### Amendments
+2020—Subsec. (a)(1). Pub. L. 116–260, § 1011(g), substituted “15 percent” for “10 percent”.
+
+Subsec. (c)(2). Pub. L. 116–260, § 1011(h), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “Dwelling units partially weatherized under this part or under other Federal programs during the period September 30, 1975, through September 30, 1994, may receive further financial assistance for weatherization under this part.”
+
 2009—Subsec. (c)(1). Pub. L. 111–5, § 407(b), substituted “$6,500” for “$2,500” in introductory provisions.
 
 Subsec. (c)(2). Pub. L. 111–5, § 407(e), substituted “September 30, 1994” for “September 30, 1979”.
@@ -1229,11 +1393,13 @@ The Civil Rights Act of 1964, referred to in subsec. (b)(2), is Pub. L. 88–352
 <a id="section-6872"></a>
 ## § 6872. Annual report by Secretary and Director to President and Congress on weatherization program
 
-The Secretary and (with respect to the operation and effectiveness of activities carried out through community action agencies) the Director shall each submit, on or before March 31, 1977, and annually thereafter, a report to the Congress and the President describing the weatherization assistance program carried out under this part or any other provision of law, including the results of the periodic evaluations and monitoring activities required by [section 6866 of this title](./chapter-081-energy-conservation-and-resource-renewal.md#section-6866). Such report shall include information and data furnished by each State on the average costs incurred in weatherization of individual dwelling units, the average size of the dwellings being weatherized, and the average income of households receiving assistance under this part.
+The Secretary and (with respect to the operation and effectiveness of activities carried out through community action agencies) the Director shall each submit, on or before March 31, 1977, and annually thereafter, a report to the Congress and the President describing the weatherization assistance program carried out under this part or any other provision of law, including the results of the periodic evaluations and monitoring activities required by [section 6866 of this title](./chapter-081-energy-conservation-and-resource-renewal.md#section-6866). Such report shall include information and data furnished by each State on the average costs incurred in weatherization of individual dwelling units, the average size of the dwellings being weatherized, the number of multifamily buildings in which individual dwelling units were weatherized during the previous year, the number of individual dwelling units in multifamily buildings weatherized during the previous year, and the average income of households receiving assistance under this part.
 
 ### Statutory Notes
 
 #### Amendments
+2020—Pub. L. 116–260 inserted “the number of multifamily buildings in which individual dwelling units were weatherized during the previous year, the number of individual dwelling units in multifamily buildings weatherized during the previous year,” after “the average size of the dwellings being weatherized,”.
+
 1990—Pub. L. 101–440 struck out “through 1979” after “and annually thereafter” and inserted at end “Such report shall include information and data furnished by each State on the average costs incurred in weatherization of individual dwelling units, the average size of the dwellings being weatherized, and the average income of households receiving assistance under this part.”
 
 1980—Pub. L. 96–294 substituted “Secretary” for “Administrator”.
@@ -1244,19 +1410,15 @@ The Secretary and (with respect to the operation and effectiveness of activities
 
 For the purpose of carrying out the weatherization program under this part, there are authorized to be appropriated—
 
-(1) $750,000,000 for fiscal year 2008;
+(1) $330,000,000 for fiscal year 2021; and
 
-(2) $900,000,000 for fiscal year 2009;
-
-(3) $1,050,000,000 for fiscal year 2010;
-
-(4) $1,200,000,000 for fiscal year 2011; and
-
-(5) $1,400,000,000 for fiscal year 2012..11 So in original.
+(2) $350,000,000 for each of fiscal years 2022 through 2025.
 
 ### Statutory Notes
 
 #### Amendments
+2020—Pars. (1) to (5). Pub. L. 116–260 added pars. (1) and (2) and struck out former pars. (1) to (5) which authorized appropriations for fiscal years 2008 to 2012.
+
 2007—Pub. L. 110–140 substituted “appropriated—” and pars. (1) to (5) for “appropriated $500,000,000 for fiscal year 2006, $600,000,000 for fiscal year 2007, and $700,000,000 for fiscal year 2008”.
 
 2005—Pub. L. 109–58 substituted “$500,000,000 for fiscal year 2006, $600,000,000 for fiscal year 2007, and $700,000,000 for fiscal year 2008” for “for fiscal years 1999 through 2003 such sums as may be necessary”.

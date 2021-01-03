@@ -23,7 +23,7 @@ source: >-
 ### Statutory Notes
 
 #### References in Text
-This chapter, referred to in subsec. (b), was in the original “this Act”, meaning Pub. L. 95–619, Nov. 9, 1978, 92 Stat. 3206, as amended, known as the National Energy Conservation Policy Act. For complete classification of this Act to the Code, see Short Title note set out below and Tables.
+This chapter, referred to in subsec. (b), was in the original “this Act”, meaning Pub. L. 95–619, Nov. 9, 1978, 92 Stat. 3206, known as the National Energy Conservation Policy Act. For complete classification of this Act to the Code, see Short Title note set out below and Tables.
 
 #### Amendments
 1986—Subsec. (a). Pub. L. 99–412 amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “The Congress finds that—
@@ -533,7 +533,7 @@ It is the purpose of this part to promote the conservation and the efficient use
 
 
 <a id="section-8253"></a>
-## § 8253. Energy management requirements
+## § 8253. Energy and water management requirements
 **(a) Energy performance requirement for Federal buildings**
 
 (1) Subject to paragraph (2), each agency shall apply energy conservation measures to, and shall improve the design for the construction of, the Federal buildings of the agency (including each industrial or laboratory facility) so that the energy consumption per gross square foot of the Federal buildings of the agency in fiscal years 2006 through 2015 is reduced, as compared with the energy consumption per gross square foot of the Federal buildings of the agency in fiscal year 2003, by the percentage specified in the following table: Fiscal YearPercentage Reduction 20062 20074 20089 200912 201015 201118 201221 201324 201427 201530.
@@ -542,11 +542,19 @@ It is the purpose of this part to promote the conservation and the efficient use
 
 (3) Not later than December 31, 2014, the Secretary shall review the results of the implementation of the energy performance requirement established under paragraph (1) and submit to Congress recommendations concerning energy performance requirements for fiscal years 2016 through 2025.
 
-**(b) Energy management requirement for Federal agencies**
+**(b) Energy and water management requirement for Federal agencies**
 
-(1) Not later than January 1, 2005, each agency shall, to the maximum extent practicable, install in Federal buildings owned by the United States all energy and water conservation measures with payback periods of less than 10 years, as determined by using the methods and procedures developed pursuant to [section 8254 of this title](./chapter-091-national-energy-conservation-policy.md#section-8254).
+(1) **In general** — Each agency shall—
 
-(2) The Secretary may waive the requirements of this subsection for any agency for such periods as the Secretary may determine if the Secretary finds that the agency is taking all practicable steps to meet the requirements and that the requirements of this subsection will pose an unacceptable burden upon the agency. If the Secretary waives the requirements of this subsection, the Secretary shall, as part of the report required under [section 8258(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section8258/b&num=0&edition=prelim), notify the Congress in writing with an explanation and a justification of the reasons for such waiver.
+  (A) not later than October 1, 2022, to the maximum extent practicable, begin installing in Federal buildings owned by the United States all energy and water conservation measures determined by the Secretary to be life cycle cost-effective (as defined in subsection (f)(1)); and
+
+  (B) complete the installation described in subparagraph (A) as soon as practicable after the date referred to in that subparagraph.
+
+(2) **Explanation of noncompliance**
+
+  (A) *In general* — If an agency fails to comply with paragraph (1), the agency shall submit to the Secretary, using guidelines developed by the Secretary, an explanation of the reasons for the failure.
+
+  (B) *Report to Congress* — Not later than January 1, 2022, and every 2 years thereafter, the Secretary shall submit to Congress a report that describes any noncompliance by an agency with the requirements of paragraph (1).
 
 (3) This subsection shall not apply to an agency’s facilities that generate or transmit electric energy or to the uranium enrichment facilities operated by the Department of Energy.
 
@@ -556,19 +564,19 @@ It is the purpose of this part to promote the conservation and the efficient use
 
 (1)
 
-  (A) An agency may exclude, from the energy performance requirement for a fiscal year established under subsection (a) and the energy management requirement established under subsection (b), any Federal building or collection of Federal buildings, if the head of the agency finds that—
+  (A) The head of each agency may exclude, from the energy or water performance requirement for a fiscal year established under subsection (a) and the energy or water management requirement established under subsection (b), any Federal building or collection of Federal buildings, if the head of the agency finds that—
 
     (i) compliance with those requirements would be impracticable;
 
-    (ii) the agency has completed and submitted all federally required energy management reports;
+    (ii) the agency has completed and submitted all federally required energy or water management reports;
 
-    (iii) the agency has achieved compliance with the energy efficiency requirements of this chapter, the Energy Policy Act of 1992, Executive orders, and other Federal law; and
+    (iii) the agency has achieved compliance with the energy or water efficiency requirements of this chapter, the Energy Policy Act of 1992, Executive orders, and other Federal law; and
 
     (iv) the agency has implemented all practicable, life cycle cost-effective projects with respect to the Federal building or collection of Federal buildings to be excluded.
 
   (B) A finding of impracticability under subparagraph (A)(i) shall be based on—
 
-    (i) the energy intensiveness of activities carried out in the Federal building or collection of Federal buildings; or
+    (i) the energy or water intensiveness of activities carried out in the Federal building or collection of Federal buildings; or
 
     (ii) the fact that the Federal building or collection of Federal buildings is used in the performance of a national security function.
 
@@ -588,7 +596,7 @@ It is the purpose of this part to promote the conservation and the efficient use
 
   (D) otherwise implement this part;
 
-(2) perform energy surveys of its Federal buildings to the extent necessary and update such surveys as needed, incorporating any relevant information obtained from the survey conducted pursuant to [section 8258b of this title](./chapter-091-national-energy-conservation-policy.md#section-8258b);
+(2) perform energy and water surveys of its Federal buildings to the extent necessary and update such surveys as needed, incorporating any relevant information obtained from the survey conducted pursuant to [section 8258b of this title](./chapter-091-national-energy-conservation-policy.md#section-8258b);
 
 (3) using such surveys, determine the cost and payback period of energy and water conservation measures likely to achieve the requirements of this section;
 
@@ -596,13 +604,13 @@ It is the purpose of this part to promote the conservation and the efficient use
 
 (5) ensure that the operation and maintenance procedures applied under this section are continued.
 
-**(e) Metering of energy use**
+**(e) Metering of energy and water use**
 
-(1) **Deadline** — By October 1, 2012, in accordance with guidelines established by the Secretary under paragraph (2), all Federal buildings shall, for the purposes of efficient use of energy and reduction in the cost of electricity used in such buildings, be metered. Each agency shall use, to the maximum extent practicable, advanced meters or advanced metering devices that provide data at least daily and that measure at least hourly consumption of electricity in the Federal buildings of the agency. Not later than October 1, 2016, each agency shall provide for equivalent metering of natural gas and steam, in accordance with guidelines established by the Secretary under paragraph (2). Such data shall be incorporated into existing Federal energy tracking systems and made available to Federal facility managers.
+(1) **Deadline** — By October 1, 2022, in accordance with guidelines established by the Secretary under paragraph (2), all Federal buildings shall, for the purposes of efficient use of energy and water and reduction in the cost of electricity and water used in such buildings, be metered. Each agency shall use, to the maximum extent practicable, advanced meters or advanced metering devices that provide data at least daily and that measure at least hourly consumption of electricity and water in the Federal buildings of the agency. Not later than October 1, 2016, each agency shall provide for equivalent metering of natural gas and steam, in accordance with guidelines established by the Secretary under paragraph (2). Such data shall be incorporated into existing Federal energy and water tracking systems and made available to Federal facility managers.
 
 (2) **Guidelines**
 
-  (A) *In general* — Not later than 180 days after August 8, 2005, the Secretary, in consultation with the Department of Defense, the General Services Administration, representatives from the metering industry, utility industry, energy services industry, energy efficiency industry, energy efficiency advocacy organizations, national laboratories, universities, and Federal facility managers, shall establish guidelines for agencies to carry out paragraph (1).
+  (A) *In general* — Not later than 180 days after August 8, 2005, the Secretary, in consultation with the Department of Defense, the General Services Administration, representatives from the metering industry, utility industry, energy services industry, energy efficiency industry, energy efficiency advocacy organizations, national laboratories, universities, Federal facility managers, and any other person the Secretary deems necessary, shall establish guidelines for agencies to carry out paragraph (1).
 
   (B) *Requirements for guidelines* — The guidelines shall—
 
@@ -610,17 +618,19 @@ It is the purpose of this part to promote the conservation and the efficient use
 
       (I) the cost of metering and the reduced cost of operation and maintenance expected to result from metering;
 
-      (II) the extent to which metering is expected to result in increased potential for energy management, increased potential for energy savings and energy efficiency improvement, and cost and energy savings due to utility contract aggregation; and
+      (II) the extent to which metering is expected to result in increased potential for energy and water management, increased potential for energy and water savings and energy and water efficiency improvement, and cost and energy and water savings due to utility contract aggregation; and
 
       (III) the measurement and verification protocols of the Department of Energy;
 
-    (ii) include recommendations concerning the amount of funds and the number of trained personnel necessary to gather and use the metering information to track and reduce energy use;
+    (ii) include recommendations concerning the amount of funds and the number of trained personnel necessary to gather and use the metering information to track and reduce energy and water use;
 
     (iii) establish priorities for types and locations of buildings to be metered based on cost-effectiveness and a schedule of one or more dates, not later than 1 year after the date of issuance of the guidelines, on which the requirements specified in paragraph (1) shall take effect; and
 
-    (iv) establish exclusions from the requirements specified in paragraph (1) based on the de minimis quantity of energy use of a Federal building, industrial process, or structure.
+    (iv) establish exclusions from the requirements specified in paragraph (1) based on the de minimis quantity of energy and water use of a Federal building, industrial process, or structure.
 
-(3) **Plan** — Not later than 180 days after the date on which guidelines are established under paragraph (2), in a report submitted by the agency under [section 8258(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section8258/a&num=0&edition=prelim), each agency shall submit to the Secretary a plan describing the manner in which the agency will implement the requirements of paragraph (1), including—
+  (C) *Update* — Not later than 180 days after December 27, 2020, the Secretary shall update the guidelines established under subparagraph (A) to take into account water efficiency requirements under this section.
+
+(3) **Plan** — Not later than 180 days after the date on which guidelines are updated under paragraph (2)(C), in a report submitted by the agency under [section 8258(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section8258/a&num=0&edition=prelim), each agency shall submit to the Secretary a plan describing the manner in which the agency will implement the requirements of paragraph (1), including—
 
   (A) how the agency will designate personnel primarily responsible for achieving the requirements; and
 
@@ -628,13 +638,13 @@ It is the purpose of this part to promote the conservation and the efficient use
 
 (4) **Best practices report**
 
-  (A) *In general* — Not later than 180 days after December 18,2012, the Secretary of Energy, in consultation with the Secretary of Defense and the Administrator of General Services, shall develop, and issue a report on, best practices for the use of advanced metering of energy use in Federal facilities, buildings, and equipment by Federal agencies.
+  (A) *In general* — Not later than 180 days after December 27, 2020, the Secretary of Energy, in consultation with the Secretary of Defense and the Administrator of General Services, shall develop, and issue a report on, best practices for the use of advanced metering of energy and water use in Federal facilities, buildings, and equipment by Federal agencies.
 
   (B) *Components* — The report shall include, at a minimum—
 
     (i) summaries and analysis of the reports by agencies under paragraph (3);
 
-    (ii) recommendations on standard requirements or guidelines for automated energy management systems, including—
+    (ii) recommendations on standard requirements or guidelines for automated energy and water management systems, including—
 
       (I) potential common communications standards to allow data sharing and reporting;
 
@@ -692,7 +702,9 @@ It is the purpose of this part to promote the conservation and the efficient use
 
   (D) *Life cycle cost-effective* — The term “life cycle cost-effective”, with respect to a measure, means a measure, the estimated savings of which exceed the estimated costs over the lifespan of the measure, as determined in accordance with [section 8254 of this title](./chapter-091-national-energy-conservation-policy.md#section-8254).
 
-  (E) *Payback period*
+  (E) *Ongoing commissioning* — The term “ongoing commissioning” means an ongoing process of commissioning using monitored data, the primary goal of which is to ensure continuous optimum performance of a facility, in accordance with design or operating needs, over the useful life of the facility, while meeting facility occupancy requirements.
+
+  (F) *Payback period*
 
     (i) *In general* — Subject to clause (ii), the term “payback period”, with respect to a measure, means a value equal to the quotient obtained by dividing—
 
@@ -706,31 +718,67 @@ It is the purpose of this part to promote the conservation and the efficient use
 
     (ii) *Modifications and exceptions* — The Secretary, in guidelines issued pursuant to paragraph (6), may make such modifications and provide such exceptions to the calculation of the payback period of a measure as the Secretary determines to be appropriate to achieve the purposes of this chapter.
 
-  (F) *Recommissioning* — The term “recommissioning” means a process—
+  (G) *Recommissioning* — The term “recommissioning” means a process—
 
     (i) of commissioning a facility or system beyond the project development and warranty phases of the facility or system; and
 
     (ii) the primary goal of which is to ensure optimum performance of a facility, in accordance with design or current operating needs, over the useful life of the facility, while meeting building occupancy requirements.
 
-  (G) *Retrocommissioning* — The term “retrocommissioning” means a process of commissioning a facility or system that was not commissioned at the time of construction of the facility or system.
+  (H) *Retrocommissioning* — The term “retrocommissioning” means a process of commissioning a facility or system that was not commissioned at the time of construction of the facility or system.
 
 (2) **Facility energy managers**
 
-  (A) *In general* — Each Federal agency shall designate an energy manager responsible for implementing this subsection and reducing energy use at each facility that meets criteria under subparagraph (B).
+  (A) *In general* — Each Federal agency shall designate an energy manager responsible for implementing this subsection and reducing energy and water use at each facility that meets criteria under subparagraph (B).
 
-  (B) *Covered facilities* — The Secretary shall develop criteria, after consultation with affected agencies, energy efficiency advocates, and energy and utility service providers, that cover, at a minimum, Federal facilities, including central utility plants and distribution systems and other energy intensive operations, that constitute at least 75 percent of facility energy use at each agency.
+  (B) *Covered facilities* — The Secretary shall develop criteria, after consultation with affected agencies, efficiency advocates, and energy and utility service providers, that cover, at a minimum, Federal facilities, including central utility plants and distribution systems and other energy intensive operations, that constitute at least 75 percent of facility energy or water use at each agency.
 
-(3) **Energy and water evaluations**
+  (C) *Energy management system* — An energy manager designated for a facility under subparagraph (A) shall take into consideration—
 
-  (A) *Evaluations* — Effective beginning on the date that is 180 days after December 19, 2007, and annually thereafter, energy managers shall complete, for each calendar year, a comprehensive energy and water evaluation for approximately 25 percent of the facilities of each agency that meet the criteria under paragraph (2)(B) in a manner that ensures that an evaluation of each such facility is completed at least once every 4 years.
+    (i) the use of a system to manage energy and water use at the facility; and
 
-  (B) *Recommissioning and retrocommissioning* — As part of the evaluation under subparagraph (A), the energy manager shall identify and assess recommissioning measures (or, if the facility has never been commissioned, retrocommissioning measures) for each such facility.
+    (ii) the applicability of the certification of the facility in accordance with the International Organization for Standardization standard numbered 50001 and entitled “Energy Management Systems”.
 
-(4) **Implementation of identified energy and water efficiency measures** — Not later than 2 years after the completion of each evaluation under paragraph (3), each energy manager may—
+(3) **Energy and water evaluations and commissioning**
 
-  (A) implement any energy- or water-saving measure that the Federal agency identified in the evaluation conducted under paragraph (3) that is life cycle cost-effective; and
+  (A) *Evaluations* — Except as provided in subparagraph (B), not later than the date that is 180 days after December 27, 2020, and annually thereafter, each energy manager shall complete, for the preceding calendar year, a comprehensive energy and water evaluation and recommissioning or retrocommissioning for approximately 25 percent of the facilities of the applicable agency that meet the criteria under paragraph (2)(B) in a manner that ensures that an evaluation of each facility is completed not less frequently than once every 4 years.
 
-  (B) bundle individual measures of varying paybacks together into combined projects.
+  (B) *Exceptions* — An evaluation and recommissioning or retrocommissioning shall not be required under subparagraph (A) with respect to a facility that, as of the date on which the evaluation and recommissioning or retrocommissioning would occur—
+
+    (i) has had a comprehensive energy and water evaluation during the preceding 8-year period;
+
+    (ii)
+
+      (I) has been commissioned, recommissioned, or retrocommissioned during the preceding 10-year period; or
+
+      (II) is under ongoing commissioning, recommissioning, or retrocomissioning;
+
+    (iii) has not had a major change in function or use since the previous evaluation and recommissioning or retrocommissioning;
+
+    (iv) has been benchmarked with public disclosure under paragraph (8) during the preceding calendar year; and
+
+    (v)
+
+      (I) based on the benchmarking described in clause (iv), has achieved at a facility level the most recent cumulative energy savings target under subsection (a) compared to the earlier of—
+
+        (aa) the date of the most recent evaluation; or
+
+        (bb) the date—
+
+  (AA) of the most recent commissioning, recommissioning, or retrocommissioning; or
+
+  (BB) on which ongoing commissioning began; or
+
+  (II) has a long-term contract in place guaranteeing energy savings at least as great as the energy savings target under subclause (I).
+
+(4) **Implementation of identified energy and water efficiency measures**
+
+  (A) *In general* — Not later than 2 years after the date of completion of each evaluation under paragraph (3), each energy manager shall implement any energy- or water-saving measure that—
+
+    (i) the Federal agency identified in the evaluation; and
+
+    (ii) is life cycle cost-effective, as determined by evaluating an individual measure or a bundle of measures with varying paybacks.
+
+  (B) *Performance contracting* — Each Federal agency shall use performance contracting to address at least 50 percent of the measures identified under subparagraph (A)(i).
 
 (5) **Follow-up on implemented measures** — For each measure implemented under paragraph (4), each energy manager shall ensure that—
 
@@ -784,7 +832,7 @@ It is the purpose of this part to promote the conservation and the efficient use
 
       (I) can be accomplished with the use of streamlined procedures and templates that minimize the time demands on Federal employees; and
 
-      (II) is coordinated with other applicable energy reporting requirements.
+      (II) is coordinated with other applicable energy and water reporting requirements.
 
   (C) *Availability*
 
@@ -806,7 +854,7 @@ It is the purpose of this part to promote the conservation and the efficient use
 
 (9) **Federal agency scorecards**
 
-  (A) *In general* — The Director of the Office of Management and Budget shall issue semiannual scorecards for energy management activities carried out by each Federal agency that includes—
+  (A) *In general* — The Director of the Office of Management and Budget shall issue semiannual scorecards for energy and water management activities carried out by each Federal agency that includes—
 
     (i) summaries of the status of implementing the various requirements of the agency and its energy managers under this subsection; and
 
@@ -844,14 +892,202 @@ It is the purpose of this part to promote the conservation and the efficient use
 
 (3) **Compliance report** — Not later than 1 year after December 19, 2007, the Director of the Office of Management and Budget shall evaluate and report to Congress on the compliance of each agency with this subsection.
 
+**(h) Federal implementation strategy for energy-efficient and energy-saving information technologies**
+
+(1) **Definitions** — In this subsection:
+
+  (A) *Director* — The term “Director” means the Director of the Office of Management and Budget.
+
+  (B) *Information technology* — The term “information technology” has the meaning given that term in [section 11101 of title 40](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40-section11101&num=0&edition=prelim).
+
+(2) **Development of implementation strategy** — Not later than 1 year after December 27, 2020, each Federal agency shall coordinate with the Director, the Secretary, and the Administrator of the Environmental Protection Agency to develop an implementation strategy (including best-practices and measurement and verification techniques) for the maintenance, purchase, and use by the Federal agency of energy-efficient and energy-saving information technologies at or for facilities owned and operated by the Federal agency, taking into consideration the performance goals established under paragraph (4).
+
+(3) **Administration** — In developing an implementation strategy under paragraph (2), each Federal agency shall consider—
+
+  (A) advanced metering infrastructure;
+
+  (B) energy efficient data center strategies and methods of increasing asset and infrastructure utilization;
+
+  (C) advanced power management tools;
+
+  (D) building information modeling, including building energy management;
+
+  (E) secure telework and travel substitution tools; and
+
+  (F) mechanisms to ensure that the agency realizes the energy cost savings of increased efficiency and utilization.
+
+(4) **Performance goals**
+
+  (A) *In general* — Not later than 180 days after December 27, 2020, the Director, in consultation with the Secretary, shall establish performance goals for evaluating the efforts of Federal agencies in improving the maintenance, purchase, and use of energy-efficient and energy-saving information technology at or for facilities owned and operated by the Federal agencies.
+
+  (B) *Best practices* — The Chief Information Officers Council established under [section 3603 of title 44](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section3603&num=0&edition=prelim), shall recommend best practices for the attainment of the performance goals established under subparagraph (A), which shall include, to the extent applicable by law, consideration by a Federal agency of the use of—
+
+    (i) energy savings performance contracting; and
+
+    (ii) utility energy services contracting.
+
+(5) **Reports**
+
+  (A) *Agency reports* — Each Federal agency shall include in the report of the agency under [section 17143 of this title](./chapter-152-energy-independence-and-security.md#section-17143) a description of the efforts and results of the agency under this subsection.
+
+  (B) *OMB government efficiency reports and scorecards* — Effective beginning not later than October 1, 2022, the Director shall include in the annual report and scorecard of the Director required under [section 17144 of this title](./chapter-152-energy-independence-and-security.md#section-17144) a description of the efforts and results of Federal agencies under this subsection.
+
+  (C) *Use of existing reporting structures* — The Director may require Federal agencies to submit any information required to be submitted under this subsection though reporting structures in use as of December 27, 2020.
+
+**(i) Federal Energy Management Program**
+
+(1) **In general** — The Secretary shall carry out a program, to be known as the “Federal Energy Management Program” (referred to in this subsection as the “Program”), to facilitate the implementation by the Federal Government of cost-effective energy and water management and energy-related investment practices—
+
+  (A) to coordinate and strengthen Federal energy and water resilience; and
+
+  (B) to promote environmental stewardship.
+
+(2) **Federal Director** — The Secretary shall appoint an individual to serve as the director of the Program (referred to in this subsection as the “Federal Director”), which shall be a career position in the Senior Executive service, to administer the Program.
+
+(3) **Program activities**
+
+  (A) *Strategic planning and technical assistance* — In administering the Program, the Federal Director shall—
+
+    (i) provide technical assistance and project implementation support and guidance to agencies to identify, implement, procure, and track energy and water conservation measures required under this chapter and under other provisions of law;
+
+    (ii) in coordination with the Administrator of the General Services Administration, establish appropriate procedures, methods, and best practices for use by agencies to select, monitor, and terminate contracts entered into pursuant to a utility incentive program under [section 8256(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section8256/c&num=0&edition=prelim) with utilities;
+
+    (iii) carry out the responsibilities of the Secretary under [section 8287 of this title](./chapter-091-national-energy-conservation-policy.md#section-8287), as determined appropriate by the Secretary;
+
+    (iv) establish and maintain internet-based information resources and project tracking systems and tools for energy and water management;
+
+    (v) coordinate comprehensive and strategic approaches to energy and water resilience planning for agencies; and
+
+    (vi) establish a recognition program for Federal achievement in energy and water management, energy-related investment practices, environmental stewardship, and other relevant areas, through events such as individual recognition award ceremonies and public announcements.
+
+  (B) *Energy and water management and reporting* — In administering the Program, the Federal Director shall—
+
+    (i) track and report on the progress of agencies in meeting the requirements of the agency under this section;
+
+    (ii) make publicly available agency performance data required under—
+
+      (I) this section and sections 8254, 8256, 8257, and 8258 of this title; and
+
+      (II) [section 15852 of this title](./chapter-149-national-energy-policy-and-programs.md#section-15852);
+
+    (iii)
+
+      (I) collect energy and water use and consumption data from each agency; and
+
+      (II) based on that data, submit to each agency a report that will facilitate the energy and water management, energy-related investment practices, and environmental stewardship of the agency in support of Federal goals under this chapter and under other provisions of law;
+
+    (iv) carry out the responsibilities of the Secretary under [section 6834 of this title](./chapter-081-energy-conservation-and-resource-renewal.md#section-6834);
+
+    (v) in consultation with the Administrator of the General Services Administration, acting through the head of the Office of High-Performance Green Buildings, establish and implement sustainable design principles for Federal facilities; and
+
+    (vi) designate products that meet the highest energy conservation standards for categories not covered under the Energy Star program established under [section 6294a of this title](./chapter-077-energy-conservation.md#section-6294a).
+
+  (C) *Federal interagency coordination* — In administering the Program, the Federal Director shall—
+
+    (i) develop and implement accredited training consistent with existing Federal programs and activities—
+
+      (I) relating to energy and water use, management, and resilience in Federal facilities, energy-related investment practices, and environmental stewardship; and
+
+      (II) that includes in-person training, internet-based programs, and national in-person training events;
+
+    (ii) carry out the functions of the Secretary with respect to the Interagency Energy Management Task Force under [section 8257 of this title](./chapter-091-national-energy-conservation-policy.md#section-8257); and
+
+    (iii) report on the implementation of the priorities of the President, including Executive orders, relating to energy and water use in Federal facilities, in coordination with—
+
+      (I) the Office of Management and Budget;
+
+      (II) the Council on Environmental Quality; and
+
+      (III) any other entity, as considered necessary by the Federal Director.
+
+  (D) *Facility and fleet optimization* — In administering the Program, the Federal Director shall develop guidance, supply assistance to, and track the progress of agencies—
+
+    (i) in conducting portfolio-wide facility energy and water resilience planning and project integration;
+
+    (ii) in building new construction and major renovations to meet the sustainable design and energy and water performance standards required under this section;
+
+    (iii) in developing guidelines for—
+
+      (I) facility commissioning; and
+
+      (II) facility operations and maintenance; and
+
+    (iv) in coordination with the Administrator of the General Services Administration, in meeting statutory and agency goals for Federal fleet vehicles.
+
+(4) **Management council** — The Federal Director shall establish a management council to advise the Federal Director that shall—
+
+  (A) convene not less frequently than once every quarter; and
+
+  (B) consist of representatives from—
+
+    (i) the Council on Environmental Quality;
+
+    (ii) the Office of Management and Budget; and
+
+    (iii) the Office of Federal High-Performance Green Buildings in the General Services Administration.
+
+(5) **Authorization of appropriations** — There is authorized to be appropriated to the Secretary to carry out this subsection $36,000,000 for each of fiscal years 2021 through 2025.
+
 ### Statutory Notes
 
 #### References in Text
-This chapter, referred to in subsecs. (c)(1)(A)(iii) and (f)(1)(E)(ii), was in the original “this Act”, meaning Pub. L. 95–619, Nov. 9, 1978, 92 Stat. 3206, known as the National Energy Conservation Policy Act. For complete classification of this Act to the Code, see Short Title note set out under [section 8201 of this title](./chapter-091-national-energy-conservation-policy.md#section-8201) and Tables.
+This chapter, referred to in subsecs. (c)(1)(A)(iii), (f)(1)(F)(ii), and (i)(3)(A)(i), (B)(iii)(II), was in the original “this Act”, meaning Pub. L. 95–619, Nov. 9, 1978, 92 Stat. 3206, known as the National Energy Conservation Policy Act. For complete classification of this Act to the Code, see Short Title note set out under [section 8201 of this title](./chapter-091-national-energy-conservation-policy.md#section-8201) and Tables.
 
 The Energy Policy Act of 1992, referred to in subsec. (c)(1)(A)(iii), is Pub. L. 102–486, Oct. 24, 1992, 106 Stat. 2776, as amended. For complete classification of this Act to the Code, see Short Title note set out under [section 13201 of this title](./chapter-134-energy-policy.md#section-13201) and Tables.
 
 #### Amendments
+2020—Pub. L. 116–260, § 1002(g)(1), inserted “and water” after “Energy” in section catchline.
+
+Subsec. (b). Pub. L. 116–260, § 1002(g)(2)(A), inserted “and water” after “Energy” in heading.
+
+Subsec. (b)(1), (2). Pub. L. 116–260, § 1002(g)(2)(B), added pars. (1) and (2) and struck out former pars. (1) and (2) which read as follows:
+
+“(1) Not later than January 1, 2005, each agency shall, to the maximum extent practicable, install in Federal buildings owned by the United States all energy and water conservation measures with payback periods of less than 10 years, as determined by using the methods and procedures developed pursuant to [section 8254 of this title](./chapter-091-national-energy-conservation-policy.md#section-8254).
+
+“(2) The Secretary may waive the requirements of this subsection for any agency for such periods as the Secretary may determine if the Secretary finds that the agency is taking all practicable steps to meet the requirements and that the requirements of this subsection will pose an unacceptable burden upon the agency. If the Secretary waives the requirements of this subsection, the Secretary shall, as part of the report required under [section 8258(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section8258/b&num=0&edition=prelim), notify the Congress in writing with an explanation and a justification of the reasons for such waiver.”
+
+Subsec. (c)(1)(A). Pub. L. 116–260, § 1002(g)(3)(A), in introductory provisions, substituted “The head of each agency” for “An agency” and inserted “or water” after “energy” in two places.
+
+Subsec. (c)(1)(A)(ii), (iii). Pub. L. 116–260, § 1002(g)(3)(A)(ii), inserted “or water” after “energy”.
+
+Subsec. (c)(1)(B)(i). Pub. L. 116–260, § 1002(g)(3)(B), inserted “or water” after “energy”.
+
+Subsec. (d)(2). Pub. L. 116–260, § 1002(g)(4), inserted “and water” after “energy”.
+
+Subsec. (e). Pub. L. 116–260, § 1002(g)(5)(A), inserted “and water” after “energy” in heading.
+
+Subsec. (e)(1). Pub. L. 116–260, § 1002(g)(5)(B), substituted “October 1, 2022” for “October 1, 2012” and inserted “and water” after “energy” in two places and after “electricity” in two places.
+
+Subsec. (e)(2)(A). Pub. L. 116–260, § 1002(g)(5)(C)(i), struck out “and” before “Federal” and inserted “and any other person the Secretary deems necessary,” before “shall”.
+
+Subsec. (e)(2)(B). Pub. L. 116–260, § 1002(g)(5)(C)(ii), inserted “and water” after “energy” wherever appearing.
+
+Subsec. (e)(2)(C). Pub. L. 116–260, § 1002(g)(5)(C)(iii), added subpar. (C).
+
+Subsec. (e)(3). Pub. L. 116–260, §1002(g)(5)(D), substituted “updated under paragraph (2)(C)” for “established under paragraph (2)” in introductory provisions.
+
+Subsec. (e)(4)(A). Pub. L. 116–260, § 1002(g)(5)(E)(i), substituted “December 27, 2020” for “December 18, 2012” and inserted “and water” before “use in”.
+
+Subsec. (e)(4)(B)(ii). Pub. L. 116–260, § 1002(g)(5)(E)(ii), inserted “and water” after “energy” in introductory provisions.
+
+Subsec. (f)(1)(E) to (H). Pub. L. 116–260, § 1002(g)(6)(A), added subpar. (E) and redesignated former subpars. (E) to (G) as (F) to (H), respectively.
+
+Subsec. (f)(2)(A). Pub. L. 116–260, § 1002(g)(6)(B)(i), inserted “and water” before “use”.
+
+Subsec. (f)(2)(B). Pub. L. 116–260, § 1002(g)(6)(B)(ii), struck out “energy” before “efficiency” and inserted “or water” before “use”.
+
+Subsec. (f)(2)(C). Pub. L. 116–260, § 1002(g)(6)(B)(iii), added subpar. (C).
+
+Subsec. (f)(3), (4). Pub. L. 116–260, § 1002(g)(6)(C), added pars. (3) and (4) and struck out former pars. (3) and (4) which related to energy and water evaluations and implementation of identified energy and water efficiency measures.
+
+Subsec. (f)(7)(B)(ii)(II). Pub. L. 116–260, § 1002(g)(6)(D), inserted “and water” after “energy”.
+
+Subsec. (f)(9)(A). Pub. L. 116–260, § 1002(g)(6)(E), inserted “and water” after “energy” in introductory provisions.
+
+Subsec. (h). Pub. L. 116–260, § 1004, added subsec. (h).
+
+Subsec. (i). Pub. L. 116–260, § 1012, added subsec. (i).
+
 2012—Subsec. (e)(3), (4). Pub. L. 112–210, § 8, added pars. (3) and (4) and struck out former par. (3). Prior to amendment, text read as follows: “Not later than 6 months after the date guidelines are established under paragraph (2), in a report submitted by the agency under [section 8258(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section8258/a&num=0&edition=prelim), each agency shall submit to the Secretary a plan describing how the agency will implement the requirements of paragraph (1), including (A) how the agency will designate personnel primarily responsible for achieving the requirements and (B) demonstration by the agency, complete with documentation, of any finding that advanced meters or advanced metering devices, as defined in paragraph (1), are not practicable.”
 
 Subsec. (f). Pub. L. 112–210, § 9(1), redesignated subsec. (f) relating to large capital energy investments as (g).
@@ -1104,15 +1340,31 @@ Pub. L. 104–52, title VI, § 625, Nov. 19, 1995, 109 Stat. 502, provided that:
 
   (A) a copy of the list of the exclusions made under sections 8253(a)(2) and 8253(c)(3) of this title;
 
-  (B) the information required under [section 8253(b)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section8253/b/2&num=0&edition=prelim); and
+  (B) the information required under section 8253(b)(2) 11 See References in Text note below. of this title; and
 
   (C) a statement detailing the amount of funds awarded to each agency under [section 8256(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section8256/b&num=0&edition=prelim), the energy and water conservation measures installed with such funds, the projected energy and water savings to be realized from installed measures, and, for each installed measure for which the projected energy and water savings reported in the previous year were not realized, the percentage of such projected savings that was not realized, the reasons such savings were not realized, and proposals for, and projected costs of, achieving such projected savings in the future;
 
 (2) the number of contracts entered into by all agencies under subchapter VII of this chapter, the difficulties (if any) encountered in attempting to enter into such contracts, and proposed solutions to those difficulties;
 
-(3) the extent and nature of interagency exchange of information concerning the conservation and efficient utilization of energy; and
+(3) the extent and nature of interagency exchange of information concerning the conservation and efficient utilization of energy;
 
-(4) the information required under [section 8262g(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section8262g/d&num=0&edition=prelim).
+(4) the information required under [section 8262g(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section8262g/d&num=0&edition=prelim); and
+
+(5)
+
+  (A) the status of the energy savings performance contracts and utility energy service contracts of each agency, to the extent that the information is not duplicative of information provided to the Secretary under a separate authority;
+
+  (B) the quantity and investment value of the contracts for the previous year;
+
+  (C) the guaranteed energy savings, or for contracts without a guarantee, the estimated energy savings, for the previous year, as compared to the measured energy savings for the previous year;
+
+  (D) a forecast of the estimated quantity and investment value of contracts anticipated in the following year for each agency; and
+
+  (E)
+
+    (i) a comparison of the information described in subparagraph (B) and the forecast described in subparagraph (D) in the report of the previous year; and
+
+    (ii) if applicable, the reasons for any differences in the data compared under clause (i).
 
 **(c) Other report** The Secretary, in consultation with the Administrator of General Services, shall—
 
@@ -1122,7 +1374,12 @@ Pub. L. 104–52, title VI, § 625, Nov. 19, 1995, 109 Stat. 502, provided that:
 
 ### Statutory Notes
 
+#### References in Text
+[Section 8253(b)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section8253/b/2&num=0&edition=prelim), referred to in subsec. (b)(1)(B), was repealed, and a new section 8253(b)(2) was added which required the Secretary to report to Congress on any noncompliance by an agency with the requirements of [section 8253(b)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section8253/b/1&num=0&edition=prelim) not later than January 1, 2022, and every 2 years thereafter, by Pub. L. 116–260, div. Z, title I, § 1002(g)(2)(B), Dec. 27, 2020, 134 Stat. 2423.
+
 #### Amendments
+2020—Subsec. (b)(5). Pub. L. 116–260 added par. (5).
+
 2007—Subsec. (a)(2). Pub. L. 110–140 inserted “and any termination penalty exposure” after “from such contracts”.
 
 2005—Subsec. (b). Pub. L. 109–58 inserted “the President and” before “Congress” in heading and “President and” before “Congress” in introductory provisions.
@@ -1274,7 +1531,7 @@ For the purposes of this part—
 
 (3) the term “cogeneration facilities” has the same meaning given such term in [section 796(18)(A) of title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section796/18/A&num=0&edition=prelim);
 
-(4) the term “energy conservation measures” means measures that are applied to a Federal building that improve energy efficiency and are life cycle cost effective and that involve energy conservation, cogeneration facilities, renewable energy sources, improvements in operations and maintenance efficiencies, or retrofit activities;
+(4) the term “energy conservation measures” means measures that are applied to a Federal building that improve energy efficiency and are life cycle cost effective and that involve energy conservation, cogeneration facilities, renewable energy sources, improvements in operations and maintenance efficiencies, retrofit activities, or energy consuming devices and required support structures;
 
 (5) the term “energy survey” means a procedure used to determine energy and cost savings likely to result from the use of appropriate energy related maintenance and operating procedures and modifications, including the purchase and installation of particular energy-related equipment and the use of renewable energy sources;
 
@@ -1292,6 +1549,8 @@ For the purposes of this part—
 A prior section 551 of Pub. L. 95–619 was classified to [section 8261 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section8261&num=0&edition=prelim) prior to the general amendment of this part by Pub. L. 100–615.
 
 #### Amendments
+2020—Par. (4). Pub. L. 116–260 substituted “retrofit activities, or energy consuming devices and required support structures” for “or retrofit activities”.
+
 1998—Par. (8). Pub. L. 105–388 substituted “geothermal” for “goethermal”.
 
 1988—Pub. L. 100–615 amended section generally, substituting provisions relating to definitions for Federal energy management for former provision relating to budget treatment of energy conserving improvements by Federal agencies.
@@ -2079,15 +2338,25 @@ Section, Pub. L. 96–294, title V, § 597, June 30, 1980, 94 Stat. 762, which r
 
   (F) *Promotion of contracts.—* — In carrying out this section, a Federal agency shall not—
 
-    (i) establish a Federal agency policy that limits the maximum contract term under subparagraph (D) to a period shorter than 25 years; or
+    (i) establish a Federal agency policy that limits the maximum contract term under subparagraph (D) to a period shorter than 25 years;
 
-    (ii) limit the total amount of obligations under energy savings performance contracts or other private financing of energy savings measures.
+    (ii) limit the total amount of obligations under energy savings performance contracts or other private financing of energy savings measures; or
+
+    (iii) limit the recognition of operation and maintenance savings associated with systems modernized or replaced with the implementation of energy conservation measures, water conservation measures, or any combination of energy conservation measures and water conservation measures.
 
   (G) *Measurement and verification requirements for private financing.—*
 
     (i) *In general.—* — In the case of energy savings performance contracts, the evaluations and savings measurement and verification required under paragraphs (2) and (4) of [section 8253(f) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section8253/f&num=0&edition=prelim) shall be used by a Federal agency to meet the requirements for the need for energy audits, calculation of energy savings, and any other evaluation of costs and savings needed to implement the guarantee of savings under this section.
 
     (ii) *Modification of existing contracts.—* — Not later than 18 months after December 19, 2007, each Federal agency shall, to the maximum extent practicable, modify any indefinite delivery and indefinite quantity energy savings performance contracts, and other indefinite delivery and indefinite quantity contracts using private financing, to conform to the amendments made by subtitle B of title V of the Energy Independence and Security Act of 2007.
+
+  (H) *Miscellaneous authority.—* — Notwithstanding subtitle I of title 40, a Federal agency may accept, retain, sell, or transfer, and apply the proceeds of the sale or transfer of, any energy and water incentive, rebate, grid services revenue, or credit (including a renewable energy certificate) to fund a contract under this subchapter.
+
+  (I) *Excluded contracts.—* — A contract entered into under this subchapter may not be for work performed—
+
+    (i) at a Federal hydroelectric facility that provides power marketed by a Power Marketing Administration; or
+
+    (ii) at a hydroelectric facility owned and operated by the Tennessee Valley Authority established under the Tennessee Valley Authority Act of 1933 ([16 U.S.C. 831](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section831&num=0&edition=prelim) et seq.).
 
 **(b) Implementation**
 
@@ -2154,6 +2423,8 @@ Section, Pub. L. 96–294, title V, § 597, June 30, 1980, 94 Stat. 762, which r
 #### References in Text
 The Energy Independence and Security Act of 2007, referred to in subsec. (a)(2)(G)(ii), is Pub. L. 110–140, Dec. 19, 2007, 121 Stat. 1492. Subtitle B of title V of the Act enacted part A (§ 17131) of subchapter IV of chapter 152 of this title and amended this section and sections 8256, 8258, and 8287c of this title and [section 2913 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2913&num=0&edition=prelim), Armed Forces. For complete classification of this Act to the Code, see Short Title note set out under [section 17001 of this title](./chapter-152-energy-independence-and-security.md#section-17001) and Tables.
 
+The Tennessee Valley Authority Act of 1933, referred to in subsec. (a)(2)(I)(ii), is act May 18, 1933, ch. 32, 48 Stat. 58, which is classified generally to chapter 12A (§ 831 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see [section 831 of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section831&num=0&edition=prelim) and Tables.
+
 #### Codification
 The following substitutions were made on authority of Pub. L. 111–350, § 6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts:
 
@@ -2164,6 +2435,10 @@ In subsec. (b)(1)(A), “[section 1302(a) of title 41](https://uscode.house.gov/
 In subsec. (c)(2), “[section 4106(d) of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section4106/d&num=0&edition=prelim)” substituted for “section 303J(d) of the Federal Property and Administrative Services Act of 1949 ([41 U.S.C. 253j(d)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section253j/d&num=0&edition=prelim))”.
 
 #### Amendments
+2020—Subsec. (a)(2)(F)(iii). Pub. L. 116–260, § 1002(c), added cl. (iii).
+
+Subsec. (a)(2)(H), (I). Pub. L. 116–260, § 1002(d), added subpars. (H) and (I).
+
 2011—Subsec. (c). Pub. L. 111–383 added subsec. (c).
 
 2007—Subsec. (a)(2)(D). Pub. L. 110–140, § 513(1), inserted “beginning on the date of the delivery order” after “25 years” in introductory provisions.
@@ -2203,7 +2478,7 @@ Amendment by Pub. L. 104–106 effective 180 days after Feb. 10, 1996, see secti
 Pub. L. 103–211, title III, § 402, Feb. 12, 1994, 108 Stat. 40, provided that: “The Architect of the Capitol shall be considered the agency for the purposes of the election in section 801(b)(2)(B) of the National Energy Conservation Policy Act [[42 U.S.C. 8287(b)(2)(B)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section8287/b/2/B&num=0&edition=prelim)] and the head of the agency for purposes of subsection (b)(2)(C) of such section.”
 
 #### Review
-Pub. L. 108–375, div. A, title X, § 1090(f), Oct. 28, 2004, 118 Stat. 2068, provided that: “Not later than 180 days after the date of the enactment of this Act [Oct. 28, 2004], the Secretary of Energy shall complete a review of the Energy Savings Performance Contract program to identify statutory, regulatory, and administrative obstacles that prevent Federal agencies from fully utilizing the program. In addition, this review shall identify all areas for increasing program flexibility and effectiveness, including audit and measurement verification requirements, accounting for energy use in determining savings, contracting requirements, including the identification of additional qualified contractors, and energy efficiency services covered. The Secretary shall report these findings to Congress and shall implement identified administrative and regulatory changes to increase program flexibility and effectiveness to the extent that such changes are consistent with statutory authority.”
+Pub. L. 108–375, div. A, title X, § 1090(f), Oct. 28, 2004, 118 Stat. 2068, provided that, not later than 180 days after tOct. 28, 2004, the Secretary of Energy was to complete a review, and report its findings to Congress, of the Energy Savings Performance Contract program, which was to identify statutory, regulatory, and administrative obstacles that prevent Federal agencies from fully utilizing the program.
 
 #### Extension of Authority
 Pub. L. 109–58, title I, § 105(b), Aug. 8, 2005, 119 Stat. 611, provided that: “Any energy savings performance contract entered into under section 801 of the National Energy Conservation Policy Act ([42 U.S.C. 8287](./chapter-091-national-energy-conservation-policy.md#section-8287)) after October 1, 2003, and before the date of enactment of this Act [Aug. 8, 2005], shall be considered to have been entered into under that section.”
@@ -2217,11 +2492,13 @@ Pub. L. 100–456, div. A, title VII, § 736, Sept. 29, 1988, 102 Stat. 2006, as
 <a id="section-8287a"></a>
 ## § 8287a. Payment of costs
 
-Any amount paid by a Federal agency pursuant to any contract entered into under this subchapter may be paid only from funds appropriated or otherwise made available to the agency for fiscal year 1986 or any fiscal year thereafter for the payment of energy, water, or wastewater treatment expenses (and related operation and maintenance expenses).
+Any amount paid by a Federal agency pursuant to any contract entered into under this subchapter may be paid only from funds appropriated or otherwise made available to the agency for fiscal year 1986 or any fiscal year thereafter for the payment of energy, water, or wastewater treatment expenses, including related operations and maintenance expense.
 
 ### Statutory Notes
 
 #### Amendments
+2020—Pub. L. 116–260 substituted “, including related operations and maintenance expenses” for “(and related operation and maintenance expenses)”.
+
 2004—Pub. L. 108–375 inserted “, water, or wastewater treatment” after “payment of energy”.
 
 
@@ -2249,19 +2526,23 @@ For purposes of this subchapter, the following definitions apply:
 
 (2) The term “energy savings” means—
 
-  (A) a reduction in the cost of energy, water, or wastewater treatment, from a base cost established through a methodology set forth in the contract, used in an existing federally owned building or buildings or other federally owned facilities as a result of—
+  (A) a reduction in the cost of energy, water, or wastewater treatment, from a base cost established through a methodology set forth in the contract, used in an existing Federal building (as defined in [section 8259 of this title](./chapter-091-national-energy-conservation-policy.md#section-8259)) as a result of—
 
     (i) the lease or purchase of operating equipment, improvements, altered operation and maintenance, or technical services;
 
-    (ii) the increased efficient use of existing energy sources by cogeneration or heat recovery, excluding any cogeneration process for other than a federally owned building or buildings or other federally owned facilities; or
+    (ii) the increased efficient use of existing energy sources by cogeneration or heat recovery, excluding any cogeneration process for other than a Federal building (as defined in [section 8259 of this title](./chapter-091-national-energy-conservation-policy.md#section-8259); or
 
     (iii) the increased efficient use of existing water sources in either interior or exterior applications;
 
   (B) the increased efficient use of an existing energy source by cogeneration or heat recovery;
 
-  (C) if otherwise authorized by Federal or State law (including regulations), the sale or transfer of electrical or thermal energy generated on-site from renewable energy sources or cogeneration, but in excess of Federal needs, to utilities or non-Federal energy users; and
+  (C) if otherwise authorized by Federal or State law (including regulations), the sale or transfer of electrical or thermal energy generated on-site from renewable energy sources or cogeneration, but in excess of Federal needs, to utilities or non-Federal energy users;
 
-  (D) the increased efficient use of existing water sources in interior or exterior applications.
+  (D) the increased efficient use of existing water sources in interior or exterior applications;
+
+  (E) the use, sale, or transfer of any energy and water incentive, rebate, grid services revenue, or credit (including a renewable energy certificate); and
+
+  (F) any revenue generated from a reduction in energy or water use, more efficient waste recycling, or additional energy generated from more efficient equipment.
 
 (3) The terms “energy savings contract” and “energy savings performance contract” mean a contract that provides for the performance of services for the design, acquisition, installation, testing, and, where appropriate, operation, maintenance, and repair, of an identified energy or water conservation measure or series of measures at 1 or more locations. Such contracts shall, with respect to an agency facility that is a public building (as such term is defined in [section 3301 of title 40](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40-section3301&num=0&edition=prelim)), be in compliance with the prospectus requirements and procedures of [section 3307 of title 40](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40-section3307&num=0&edition=prelim).
 
@@ -2274,6 +2555,10 @@ For purposes of this subchapter, the following definitions apply:
 ### Statutory Notes
 
 #### Amendments
+2020—Par. (2)(A). Pub. L. 116–260, § 1002(f)(1), substituted “Federal building (as defined in [section 8259 of this title](./chapter-091-national-energy-conservation-policy.md#section-8259))” for “federally owned building or buildings or other federally owned facilities” in introductory provisions and in cl. (ii).
+
+Par. (2)(E), (F). Pub. L. 116–260, § 1002(f)(2)–(4), added subpars. (E) and (F).
+
 2007—Par. (2). Pub. L. 110–140 substituted “means—” for “means” in introductory provisions, inserted subpar. (A) designation before “a reduction”, redesignated former subpars. (A) to (C) as cls. (i) to (iii) of subpar. (A), respectively, and added subpars. (B) to (D).
 
 2004—Par. (2). Pub. L. 108–375, § 1090(c), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “The term ‘energy savings’ means a reduction in the cost of energy, from a base cost established through a methodology set forth in the contract, utilized in an existing federally owned building or buildings or other federally owned facilities as a result of—

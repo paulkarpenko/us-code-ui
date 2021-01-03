@@ -58,13 +58,6 @@ Pub. L. 104–52, title VI, § 624, Nov. 19, 1995, 109 Stat. 502.
 
 Pub. L. 103–329, title VI, § 638, Sept. 30, 1994, 108 Stat. 2432.
 
-#### Designation of Director of the Bureau of the Budget as Member of Federal Labor Relations Council
-Presidential Order of December 8, 1969, provided that:
-
-Pursuant to the provisions of section 4 of Executive Order 11491 [set out as a note under this section], I hereby designate the Director of the Bureau of the Budget [now the Office of Management and Budget] as a member of the Federal Labor Relations Council. This order of designation shall be published in the Federal Register.
-
-Richard Nixon.
-
 #### Display in Federal Buildings of Code of Ethics for Government Service
 Pub. L. 96–303, July 3, 1980, 94 Stat. 855, which provided that each agency, under regulations prescribed by Administrator of General Services Administration, display in appropriate areas of Federal buildings copies of the Code of Ethics for Government Service, authorized publication and distribution of such Code, and set forth text of the Code of Ethics for Government Service, was repealed by Pub. L. 104–179, § 4(a), Aug. 6, 1996, 110 Stat. 1566.
 
@@ -78,6 +71,13 @@ Pub. L. 100–71, title V, § 503, July 11, 1987, 101 Stat. 468, as amended by P
 
 #### Limitation on Gratuities at Naval Shipbuilding Ceremonies
 Pub. L. 99–145, title XIV, § 1461, Nov. 8, 1985, 99 Stat. 765, provided that: “(a) General Rule.—A Federal officer, employee, or Member of Congress may not accept, directly or indirectly, any tangible thing of value as a gift or memento in connection with a ceremony to mark the completion of a naval shipbuilding milestone. “(b) Exclusion.—Subsection (a) does not apply to a gift or memento that has a value of less than $100. “(c) Definitions.—For purposes of this section, the terms ‘officer’, ‘employee’, and ‘Member of Congress’ have the meanings given those terms in sections 2104, 2105, and 2106, respectively, of title 5, United States Code.”
+
+#### Designation of Director of the Bureau of the Budget as Member of Federal Labor Relations Council
+Presidential Order of December 8, 1969, provided that:
+
+Pursuant to the provisions of section 4 of Executive Order 11491 [set out as a note under this section], I hereby designate the Director of the Bureau of the Budget [now the Office of Management and Budget] as a member of the Federal Labor Relations Council. This order of designation shall be published in the Federal Register.
+
+Richard Nixon.
 
 #### Executive Order No. 9845
 Ex. Ord. No. 9845, Apr. 28, 1947, 12 F.R. 2799, which permitted Bureau of Reclamation employees to accept appointments as constables or deputy sheriffs under state or territorial laws, was revoked by Ex. Ord. No. 11408, Apr. 25, 1968, 33 F.R. 6459.

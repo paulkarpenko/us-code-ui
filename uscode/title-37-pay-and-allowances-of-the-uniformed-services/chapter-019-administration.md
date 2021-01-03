@@ -131,9 +131,9 @@ A member of a uniformed service who is entitled to pay and allowances under this
 
 
 <a id="section-1005"></a>
-## § 1005. Army and Air Force: prompt payments required
+## § 1005. Army, Air Force, and Space Force: prompt payments required
 
-Members of the Army and of the Air Force shall be paid at such times that arrears will at no time be more than two months, unless circumstances make further arrears unavoidable.
+Members of the Army, the Air Force, and the Space Force shall be paid at such times that arrears will at no time be more than two months, unless circumstances make further arrears unavoidable.
 
 ### Statutory Notes
 
@@ -143,6 +143,9 @@ Members of the Army and of the Air Force shall be paid at such times that arrear
 | 1005 | 37:310b. | R.S. 1189. |
 
 The applicability of this section to members of the Air Force is based on Department of Defense Transfer Order No. 25, dated October 14, 1948.
+
+#### Amendments
+2021—Pub. L. 116–283 substituted “Army, Air Force, and Space Force: prompt payments required” for “Army and Air Force: prompt payments required” in section catchline and “, the Air Force, and the Space Force” for “and of the Air Force” in text.
 
 
 <a id="section-1006"></a>
@@ -291,7 +294,7 @@ Pub. L. 94–212, title VII, § 744, Feb. 9, 1976, 90 Stat. 175, provided that: 
 ## § 1007. Deductions from pay
 **(a)** The pay of an officer of an armed force may be withheld, under [section 5512 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5512&num=0&edition=prelim), only for an indebtedness to the United States admitted by the officer or shown by the judgment of a court, or upon a special order issued in the discretion of the Secretary of Defense (or the Secretary of Homeland Security, in the case of an officer of the Coast Guard when the Coast Guard is not operating as a service in the Navy), or upon the denial of relief of an officer pursuant to [section 3527 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section3527&num=0&edition=prelim).
 
-**(b)** An amount due to the United States from an enlisted member of the Army or the Air Force for articles sold to him on credit under section 4621(a)(1) or 9621(a)(1) of title 10, as the case may be, shall be deducted from the next pay due him after the sale is reported.
+**(b)** An amount due to the United States from an enlisted member of the Army, the Air Force, or the Space Force for articles sold to the member on credit under section 4621(a)(1) or 9621(a)(1) of title 10, as the case may be, shall be deducted from the next pay due the member after the sale is reported.
 
 **(c)**
 
@@ -335,13 +338,13 @@ Pub. L. 94–212, title VII, § 744, Feb. 9, 1976, 90 Stat. 175, provided that: 
 
   (B) Subparagraph (A) shall not apply if the member, after receiving notification of the overpayment, requests or consents to initiation at an earlier date of the collection of the overpayment of the pay or allowances.
 
-**(d)** Subject to subsection (c), an amount due the United States from an enlisted member of the Army or the Air Force may be deducted from his pay on final statement, or from his savings on his clothing allowance.
+**(d)** Subject to subsection (c), an amount due the United States from an enlisted member of the Army, the Air Force, or the Space Force may be deducted from the member’s pay on final statement, or from the member’s savings on his clothing allowance.
 
-**(e)** The amount of any damage, or cost of repairs, to arms or equipment caused by the abuse or negligence of a member of the Army, Navy, Air Force, or Marine Corps, as the case may be, who had the care of, or was using, the property when it was damaged, shall be deducted from his pay.
+**(e)** The amount of any damage, or cost of repairs, to arms or equipment caused by the abuse or negligence of a member of the Army, Navy, Air Force, Marine Corps, or Space Force, as the case may be, who had the care of, or was using, the property when it was damaged, shall be deducted from his pay.
 
-**(f)** If, upon final settlement of the accounts of an officer of the Army or the Air Force charged with the issue of an article of military supply, there is a deficiency of that article, or if an article of military supply with whose issue an officer is charged is damaged, the value of the lost article or the amount of the damage shall be charged against the officer and deducted from his monthly pay, unless he shows to the satisfaction of the Secretary of the Army or the Secretary of the Air Force, as the case may be, by one or more affidavits setting forth the circumstances, that he was not at fault.
+**(f)** If, upon final settlement of the accounts of an officer of the Army, the Air Force, or the Space Force charged with the issue of an article of military supply, there is a deficiency of that article, or if an article of military supply with whose issue an officer is charged is damaged, the value of the lost article or the amount of the damage shall be charged against the officer and deducted from the officer’s monthly pay, unless the officer shows to the satisfaction of the Secretary of the Army or the Secretary of the Air Force, as the case may be, by one or more affidavits setting forth the circumstances, that the officer was not at fault.
 
-**(g)** An amount due the United States from an officer of the Army or the Air Force for rations bought on credit, and for articles bought on credit under section 4621(a)(1) or 9621(a)(1) of title 10, shall be deducted from the next pay due that officer after the sale is reported.
+**(g)** An amount due the United States from an officer of the Army, the Air Force, or the Space Force for rations bought on credit, and for articles bought on credit under section 4621(a)(1) or 9621(a)(1) of title 10, shall be deducted from the next pay due that officer after the sale is reported.
 
 **(h)**
 
@@ -359,7 +362,7 @@ Pub. L. 94–212, title VII, § 744, Feb. 9, 1976, 90 Stat. 175, provided that: 
 
 (2) Amounts deducted under paragraph (1) shall be deposited in the Armed Forces Retirement Home Trust Fund.
 
-(3) The Secretary of Defense or, in the case of the Coast Guard, the Commandant, after consultation with the Armed Forces Retirement Home Board, shall determine from time to time the amount to be deducted under paragraph (1) from the pay of enlisted members, warrant officers, and limited duty officers on the basis of the financial needs of the Armed Forces Retirement Home. The amount to be deducted may be fixed at different amounts on the basis of grade or length of service, or both.
+(3) The Secretary of Defense or, in the case of the Coast Guard, the Commandant, after consultation with the Chief Operating Officer of the Armed Forces Retirement Home, shall determine from time to time the amount to be deducted under paragraph (1) from the pay of enlisted members, warrant officers, and limited duty officers on the basis of the financial needs of the Armed Forces Retirement Home. The amount to be deducted may be fixed at different amounts on the basis of grade or length of service, or both.
 
 (4) This subsection does not apply to an enlisted member, warrant officer, or limited duty officer of a reserve component.
 
@@ -390,6 +393,20 @@ The date of the enactment of the National Defense Authorization Act for Fiscal Y
 Provisions similar to those in subsec. (i) of this section were contained in [section 44c of Title 24](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title24-section44c&num=0&edition=prelim), Hospitals and Asylums, prior to repeal by Pub. L. 101–189, § 347(4).
 
 #### Amendments
+2021—Subsec. (b). Pub. L. 116–283, § 925(k)(2)(B)(i), which directed substitution of “the member” for “him”, was executed by making the substitution in both places it appeared, to reflect to the probable intent of Congress.
+
+Pub. L. 116–283, § 925(k)(2)(A)(i), substituted “, the Air Force, or the Space Force” for “or the Air Force”.
+
+Subsec. (d). Pub. L. 116–283, § 925(k)(2)(A)(i), (B)(ii), substituted “, the Air Force, or the Space Force” for “or the Air Force” and substituted “the member’s” for “his” in two places.
+
+Subsec. (e). Pub. L. 116–283, § 925(k)(2)(A)(ii), substituted “Marine Corps, or Space Force” for “or Marine Corps”.
+
+Subsec. (f). Pub. L. 116–283, § 925(k)(2)(A)(i), (B)(iii), substituted “, the Air Force, or the Space Force” for “or the Air Force” and “the officer’s” for “his” and substituted “the officer” for “he” in two places.
+
+Subsec. (g). Pub. L. 116–283, § 925(k)(2)(A)(i), substituted “, the Air Force, or the Space Force” for “or the Air Force”.
+
+Subsec. (i)(3). Pub. L. 116–283, § 1412(c), substituted “Chief Operating Officer of the Armed Forces Retirement Home” for “Armed Forces Retirement Home Board”.
+
 2016—Subsec. (c)(3)(C), (D). Pub. L. 114–328 added subpars. (C) and (D).
 
 2010—Subsec. (i)(3). Pub. L. 111–281, § 205(b)(2)(A), inserted “or, in the case of the Coast Guard, the Commandant” after “Secretary of Defense”.
@@ -603,84 +620,86 @@ Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of 
 #### Effective Date
 Pub. L. 93–419, § 9, Sept. 19, 1974, 88 Stat. 1153, provided that: “This Act [enacting this section, amending sections 101, 203, 402, and 403 of this title, and enacting provisions set out as notes under this section] is effective upon enactment [Sept. 19, 1974].”
 
-#### Increase in Basic Pay for Fiscal Year 2018
-Pub. L. 115–91, div. A, title VI, § 601, Dec. 12, 2017, 131 Stat. 1417, provided that: “The adjustment in the rates of monthly basic pay required by subsection (a) of [section 1009 of title 37](./chapter-019-administration.md#section-1009), United States Code, to be made on January 1, 2018, shall take effect, notwithstanding any determination made by the President under subsection (e) of such section with respect to an alternative pay adjustment to be made on such date.”
+#### Increase in Basic Pay
+Pub. L. 116–283, div. A, title VI, § 601, Jan. 1, 2021, 134 Stat. 3670, provided that: “Effective on January 1, 2021, the rates of monthly basic pay for members of the uniformed services are increased by 3.0 percent.”
 
-Provisions relating to adjustment of compensation for members of the uniformed services for prior fiscal years were contained in the following acts:
+Provisions relating to adjustment of compensation for members of the uniformed services for prior years were contained in the following acts:
 
-2016—Pub. L. 114–328, div. A, title VI, § 601, Dec. 23, 2016, 130 Stat. 2155.
+Pub. L. 116–92, div. A, title VI, § 609, Dec. 20, 2019, 133 Stat. 1425.
 
-2013—Pub. L. 112–239, div. A, title VI, § 601, Jan. 2, 2013, 126 Stat. 1773.
+Pub. L. 115–91, div. A, title VI, § 601, Dec. 12, 2017, 131 Stat. 1417.
 
-2010—Pub. L. 111–84, div. A, title VI, § 601, Oct. 28, 2009, 123 Stat. 2347.
+Pub. L. 114–328, div. A, title VI, § 601, Dec. 23, 2016, 130 Stat. 2155.
 
-2009—Pub. L. 110–417, [div. A], title VI, § 601, Oct. 14, 2008, 122 Stat. 4482.
+Pub. L. 112–239, div. A, title VI, § 601, Jan. 2, 2013, 126 Stat. 1773.
 
-2008—Pub. L. 110–181, div. A, title VI, § 601, Jan. 28, 2008, 122 Stat. 145.
+Pub. L. 111–84, div. A, title VI, § 601, Oct. 28, 2009, 123 Stat. 2347.
 
-2007—Pub. L. 109–364, div. A, title VI, § 601, Oct. 17, 2006, 120 Stat. 2240.
+Pub. L. 110–417, [div. A], title VI, § 601, Oct. 14, 2008, 122 Stat. 4482.
 
-2006—Pub. L. 109–163, div. A, title VI, § 601, Jan. 6, 2006, 119 Stat. 3286.
+Pub. L. 110–181, div. A, title VI, § 601, Jan. 28, 2008, 122 Stat. 145.
 
-2005—Pub. L. 108–375, div. A, title VI, § 601, Oct. 28, 2004, 118 Stat. 1943.
+Pub. L. 109–364, div. A, title VI, § 601, Oct. 17, 2006, 120 Stat. 2240, as amended by Pub. L. 116–283, div. A, title IX, § 925(b), Jan. 1, 2021, 134 Stat. 3826.
 
-2004—Pub. L. 108–136, div. A, title VI, § 601, Nov. 24, 2003, 117 Stat. 1495, as amended by Pub. L. 109–148, div. A, title VIII, § 8124(a)(1), Dec. 30, 2005, 119 Stat. 2727.
+Pub. L. 109–163, div. A, title VI, § 601, Jan. 6, 2006, 119 Stat. 3286.
 
-2003—Pub. L. 107–314, div. A, title VI, § 601, Dec. 2, 2002, 116 Stat. 2563.
+Pub. L. 108–375, div. A, title VI, § 601, Oct. 28, 2004, 118 Stat. 1943.
 
-2002—Pub. L. 107–107, div. A, title VI, § 601, Dec. 28, 2001, 115 Stat. 1129.
+Pub. L. 108–136, div. A, title VI, § 601, Nov. 24, 2003, 117 Stat. 1495, as amended by Pub. L. 109–148, div. A, title VIII, § 8124(a)(1), Dec. 30, 2005, 119 Stat. 2727.
 
-2001—Pub. L. 106–398, § 1 [[div. A], title VI, §§ 601, 602], Oct. 30, 2000, 114 Stat. 1654, 1654A–143.
+Pub. L. 107–314, div. A, title VI, § 601, Dec. 2, 2002, 116 Stat. 2563.
 
-2000—Pub. L. 106–65, div. A, title VI, § 601(a)–(c), Oct. 5, 1999, 113 Stat. 645, as amended by Pub. L. 106–398, § 1 [[div. A], title X, § 1087(c)(1)(C)], Oct. 30, 2000, 114 Stat. 1654, 1654A–292.
+Pub. L. 107–107, div. A, title VI, § 601, Dec. 28, 2001, 115 Stat. 1129.
 
-1999—Pub. L. 105–261, div. A, title VI, § 601, Oct. 17, 1998, 112 Stat. 2036.
+Pub. L. 106–398, § 1 [[div. A], title VI, §§ 601, 602], Oct. 30, 2000, 114 Stat. 1654, 1654A–143.
 
-1998—Pub. L. 105–85, div. A, title VI, § 601, Nov. 18, 1997, 111 Stat. 1771.
+Pub. L. 106–65, div. A, title VI, § 601(a)–(c), Oct. 5, 1999, 113 Stat. 645, as amended by Pub. L. 106–398, § 1 [[div. A], title X, § 1087(c)(1)(C)], Oct. 30, 2000, 114 Stat. 1654, 1654A–292.
 
-1997—Pub. L. 104–201, div. A, title VI, § 601, Sept. 23, 1996, 110 Stat. 2539.
+Pub. L. 105–261, div. A, title VI, § 601, Oct. 17, 1998, 112 Stat. 2036.
 
-1996—Pub. L. 104–106, div. A, title VI, § 601, Feb. 10, 1996, 110 Stat. 356.
+Pub. L. 105–85, div. A, title VI, § 601, Nov. 18, 1997, 111 Stat. 1771.
 
-1995—Pub. L. 103–337, div. A, title VI, § 601(a), (b), Oct. 5, 1994, 108 Stat. 2779.
+Pub. L. 104–201, div. A, title VI, § 601, Sept. 23, 1996, 110 Stat. 2539.
 
-1994—Pub. L. 103–160, div. A, title VI, § 601, Nov. 30, 1993, 107 Stat. 1677.
+Pub. L. 104–106, div. A, title VI, § 601, Feb. 10, 1996, 110 Stat. 356.
 
-1993—Pub. L. 102–484, div. A, title VI, § 601, Oct. 23, 1992, 106 Stat. 2420.
+Pub. L. 103–337, div. A, title VI, § 601(a), (b), Oct. 5, 1994, 108 Stat. 2779.
+
+Pub. L. 103–160, div. A, title VI, § 601, Nov. 30, 1993, 107 Stat. 1677.
+
+Pub. L. 102–484, div. A, title VI, § 601, Oct. 23, 1992, 106 Stat. 2420.
 
 Pub. L. 102–484, div. D, title XLIV, § 4402, Oct. 23, 1992, 106 Stat. 2701, as amended by Pub. L. 103–160, div. A, title VI, § 602(a), (b)(1), Nov. 30, 1993, 107 Stat. 1678.
 
-1992—Pub. L. 102–190, div. A, title VI, § 601, Dec. 5, 1991, 105 Stat. 1372.
+Pub. L. 102–190, div. A, title VI, § 601, Dec. 5, 1991, 105 Stat. 1372.
 
 Pub. L. 102–190, div. A, title XI, § 1111(c), Dec. 5, 1991, 105 Stat. 1491.
 
-1991—Pub. L. 101–510, div. A, title VI, § 601, Nov. 5, 1990, 104 Stat. 1575.
+Pub. L. 101–510, div. A, title VI, § 601, Nov. 5, 1990, 104 Stat. 1575.
 
-1990—Pub. L. 101–189, div. A, title VI, § 601(a), (b), Nov. 29, 1989, 103 Stat. 1444.
+Pub. L. 101–189, div. A, title VI, § 601(a), (b), Nov. 29, 1989, 103 Stat. 1444.
 
-1989—Pub. L. 100–456, div. A, title VI, § 601(a), (b), Sept. 29, 1988, 102 Stat. 1976.
+Pub. L. 100–456, div. A, title VI, § 601(a), (b), Sept. 29, 1988, 102 Stat. 1976.
 
-1988—Pub. L. 100–180, div. A, title VI, § 601(a), (b), Dec. 4, 1987, 101 Stat. 1092, as amended by Pub. L. 100–202, § 110(b), Dec. 22, 1987, 101 Stat. 1329–436.
+Pub. L. 100–180, div. A, title VI, § 601(a), (b), Dec. 4, 1987, 101 Stat. 1092, as amended by Pub. L. 100–202, § 110(b), Dec. 22, 1987, 101 Stat. 1329–436.
 
-1987—Pub. L. 99–661, div. A, title VI, § 601(a), (b), title XIII, § 1310(c), Nov. 14, 1986, 100 Stat. 3873, 3983.
+Pub. L. 99–661, div. A, title VI, § 601(a), (b), title XIII, § 1310(c), Nov. 14, 1986, 100 Stat. 3873, 3983.
 
 Pub. L. 99–500, § 144(b), Oct. 18, 1986, 100 Stat. 1783–350, and Pub. L. 99–591, § 144(b), Oct. 30, 1986, 100 Stat. 3341–353.
 
-1986—Pub. L. 99–145, title VI, § 601, Nov. 8, 1985, 99 Stat. 635.
+Pub. L. 99–145, title VI, § 601, Nov. 8, 1985, 99 Stat. 635.
 
-1985—Pub. L. 98–525, title VI, § 601, Oct. 19, 1984, 98 Stat. 2533.
+Pub. L. 98–525, title VI, § 601, Oct. 19, 1984, 98 Stat. 2533.
 
-1984—Pub. L. 98–94, title IX, § 901, Sept. 24, 1983, 97 Stat. 634.
+Pub. L. 98–94, title IX, § 901, Sept. 24, 1983, 97 Stat. 634.
 
-1982—Pub. L. 97–60, title I, § 101, Oct. 14, 1981, 95 Stat. 989, as amended by Pub. L. 98–557, § 35(a), (c), Oct. 30, 1984, 98 Stat. 2877, eff. Oct. 1, 1984; Pub. L. 100–180, div. A, title XIII, § 1314(d)(3), (e)(2), Dec. 4, 1987, 101 Stat. 1176, eff. Oct. 1, 1986.
+Pub. L. 97–60, title I, § 101, Oct. 14, 1981, 95 Stat. 989, as amended by Pub. L. 98–557, § 35(a), (c), Oct. 30, 1984, 98 Stat. 2877, eff. Oct. 1, 1984; Pub. L. 100–180, div. A, title XIII, § 1314(d)(3), (e)(2), Dec. 4, 1987, 101 Stat. 1176, eff. Oct. 1, 1986.
 
-1981—Pub. L. 96–342, title VIII, § 801, Sept. 8, 1980, 94 Stat. 1090.
-
-1976—
+Pub. L. 96–342, title VIII, § 801, Sept. 8, 1980, 94 Stat. 1090.
 
 Pub. L. 94–106, title VIII, § 819, Oct. 7, 1975, 89 Stat. 544.
 
-1975—Pub. L. 93–419, §§ 5–7, Sept. 19, 1974, 88 Stat. 1153.
+Pub. L. 93–419, §§ 5–7, Sept. 19, 1974, 88 Stat. 1153.
 
 #### Adjustment of Pay Rates
 For adjustment of pay rates under this section, see the executive order detailing the adjustment of certain rates of pay set out as a note under [section 5332 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5332&num=0&edition=prelim), Government Organization and Employees.
@@ -802,7 +821,7 @@ Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
 Amendment by Pub. L. 105–85 effective Jan. 1, 1998, see section 603(e) of Pub. L. 105–85, set out as a note under [section 5561 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5561&num=0&edition=prelim), Government Organization and Employees.
 
 #### Effective Date
-Section 101(c) [title IX, § 9103(4)] of Pub. L. 99–500 and Pub. L. 99–591, as amended by Pub. L. 100–26, § 4(a)(2), Apr. 21, 1987, 101 Stat. 274, provided that: “[Section 1014 of title 37](./chapter-019-administration.md#section-1014), United States Code, as added by paragraph (1) and redesignated by section 8(b)(2) of the Defense Technical Corrections Act of 1987 [Pub. L. 100–26], and the amendments made by paragraph (3) [amending [section 1466 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1466&num=0&edition=prelim), Armed Forces], shall take effect on September 1, 1987.”
+Pub. L. 99–500, § 101(c) [title IX, § 9103(4)], Oct. 18, 1986, 100 Stat. 1783–82, 1783–118, and Pub. L. 99–591, § 101(c) [title IX, § 9103(4)], Oct. 30, 1986, 100 Stat. 3341–82, 3341–118, as amended by Pub. L. 100–26, § 4(a)(2), Apr. 21, 1987, 101 Stat. 274, provided that: “[Section 1014 of title 37](./chapter-019-administration.md#section-1014), United States Code, as added by paragraph (1) and redesignated by section 8(b)(2) of the Defense Technical Corrections Act of 1987 [Pub. L. 100–26], and the amendments made by paragraph (3) [amending [section 1466 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1466&num=0&edition=prelim), Armed Forces], shall take effect on September 1, 1987.”
 
 
 <a id="section-1015"></a>

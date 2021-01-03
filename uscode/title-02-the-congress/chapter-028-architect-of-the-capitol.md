@@ -70,7 +70,7 @@ Pub. L. 107–68, title I, § 132, Nov. 12, 2001, 115 Stat. 581, which directed 
 <a id="section-1802"></a>
 ## § 1802. Compensation
 
-The compensation of the Architect of the Capitol shall be at an annual rate which is equal to the lesser of the annual salary for the Sergeant at Arms of the House of Representatives or the annual salary for the Sergeant at Arms and Doorkeeper of the Senate.
+The compensation of the Architect of the Capitol shall be at an annual rate which is equal to the maximum rate of pay in effect under [section 4575(f) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section4575/f&num=0&edition=prelim).
 
 ### Statutory Notes
 
@@ -85,7 +85,12 @@ Pub. L. 88–426, title II, § 203(c), Aug. 14, 1964, 78 Stat. 415; Pub. L. 90�
 Acts Oct. 15, 1949, ch. 695, § 5(a), 63 Stat. 880; Aug. 5, 1955, ch. 568, § 101, 69 Stat. 515, which was repealed by Pub. L. 89–554, § 8(a), Sept. 6, 1966, 80 Stat. 655.
 
 #### Amendments
+2019—Pub. L. 116–94 amended section generally. Prior to amendment, text read as follows: “The compensation of the Architect of the Capitol shall be at an annual rate which is equal to the lesser of the annual salary for the Sergeant at Arms of the House of Representatives or the annual salary for the Sergeant at Arms and Doorkeeper of the Senate.”
+
 2001—Pub. L. 107–68, which directed amendment of “Section 203(c) of the Federal Legislative Salary Act of 1964 ([40 U.S.C. 162a](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40-section162a&num=0&edition=prelim))” by striking “the annual rate of basic pay” and all that follows and inserting “the lesser of the annual salary for the Sergeant at Arms of the House of Representatives or the annual salary for the Sergeant at Arms and Doorkeeper of the Senate.”, was executed by substituting the new language for “the annual rate of basic pay payable for positions at level III of the Executive Schedule under [section 5314 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5314&num=0&edition=prelim)” in this section, which is section 1(1) of Pub. L. 96–146, to reflect the probable intent of Congress.
+
+#### Effective Date of 2019 Amendment
+Amendment by Pub. L. 116–94 effective on the later of the first day of the first applicable pay period beginning on or after Jan. 1, 2020, or the first day of the first applicable pay period beginning on or after Dec. 20, 2019, see section 212(c) of Pub. L. 116–94, set out as a note under [section 282b of this title](./chapter-009-office-of-legislative-counsel.md#section-282b).
 
 #### Effective Date of 2001 Amendment
 Pub. L. 107–68, title I, § 129(e), Nov. 12, 2001, 115 Stat. 580, provided that: “Except as provided in subsections (c)(2) and (d) [enacting provisions set out as notes under sections 1801 and 1849 of this title], this section [amending this section and [section 1849 of this title](./chapter-028-architect-of-the-capitol.md#section-1849) and enacting provisions set out as notes under sections 1801, 1848, and 1849 of this title] and the amendments made by this section shall apply with respect to pay periods beginning on or after October 1, 2001.”
@@ -104,12 +109,9 @@ Pub. L. 96–146, § 2, Dec. 14, 1979, 93 Stat. 1086, provided that: “The prov
 <a id="section-1803"></a>
 ## § 1803. Delegation of authority
 
-The Architect of the Capitol may delegate to the assistants of the Architect such authority of the Architect as the Architect may determine proper, except those authorities, duties, and responsibilities specifically assigned to the Deputy Architect of the Capitol by the Legislative Branch Appropriations Act, 2003.
+The Architect of the Capitol may delegate the duties and authorities of the Architect to officers and employees of the Office of the Architect of the Capitol, as the Architect determines appropriate.
 
 ### Statutory Notes
-
-#### References in Text
-The Legislative Branch Appropriations Act, 2003, referred to in text, is div. H of Pub. L. 108–7, Feb. 20, 2003, 117 Stat. 345. For complete classification of this Act to the Code, see Tables.
 
 #### Codification
 Section was classified to section 163b of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, § 1, Aug. 21, 2002, 116 Stat. 1062.
@@ -117,6 +119,8 @@ Section was classified to section 163b of former Title 40, prior to the enactmen
 Section is from the Legislative Branch Appropriation Act, 1956.
 
 #### Amendments
+2020—Pub. L. 116–260 substituted “delegate the duties and authorities of the Architect to officers and employees of the Office of the Architect of the Capitol, as the Architect determines appropriate” for “delegate to the assistants of the Architect such authority of the Architect as the Architect may determine proper, except those authorities, duties, and responsibilities specifically assigned to the Deputy Architect of the Capitol by the Legislative Branch Appropriations Act, 2003”.
+
 2003—Pub. L. 108–7 substituted “Architect of the Capitol may delegate to the assistants of the Architect such authority of the Architect as the Architect may determine proper, except those authorities, duties, and responsibilities specifically assigned to the Deputy Architect of the Capitol by the Legislative Branch Appropriations Act, 2003” for “Architect of the Capitol is authorized on and after August 5, 1955, to delegate to the Assistant Architect and other assistants such authority of the Architect as he may deem proper”.
 
 
@@ -210,46 +214,10 @@ June 6, 1930, ch. 407, 46 Stat. 513.
 
 
 <a id="section-1805"></a>
-## § 1805. Deputy Architect of the Capitol/Chief Operating Officer
-**(a) Establishment of Deputy Architect of the Capitol** There shall be a Deputy Architect of the Capitol who shall serve as the Chief Operating Officer of the Office of the Architect of the Capitol. The Deputy Architect of the Capitol shall be appointed by the Architect of the Capitol and shall report directly to the Architect of the Capitol and shall be subject to the authority of the Architect of the Capitol. The Architect of the Capitol shall appoint the Deputy Architect of the Capitol not later than 180 days after February 20, 2003. The Architect of the Capitol shall consult with the Comptroller General or his designee before making the appointment.
+## § 1805. Deputy Architect of the Capitol
+**(a) Establishment of Deputy Architect of the Capitol** The Architect of the Capitol shall appoint a suitable individual to be the Deputy Architect of the Capitol. The Architect may delegate to the Deputy Architect such duties as the Architect determines are necessary or appropriate.
 
-**(b) Qualifications** The Deputy Architect of the Capitol shall have strong leadership skills and demonstrated ability in management, including in such areas as strategic planning, performance management, worker safety, customer satisfaction, and service quality.
-
-**(c) Responsibilities**
-
-(1) **In general** — The Deputy Architect of the Capitol shall be responsible to the Architect of the Capitol for the overall direction, operation, and management of the Office of the Architect of the Capitol, including implementing the Office’s goals and mission; providing overall organization management to improve the Office’s performance; and assisting the Architect of the Capitol in promoting reform, and measuring results.
-
-(2) **Responsibilities** — The Deputy Architect’s responsibilities include—
-
-  (A) developing, implementing, annually updating, and maintaining a long-term strategic plan covering a period of not less than 5 years for the Office of the Architect of the Capitol;
-
-  (B) developing and implementing an annual performance plan that includes annual performance goals covering each of the general goals and objectives in the strategic plan and including to the extent practicable quantifiable performance measures for the annual goals;
-
-  (C) proposing organizational changes and staffing needed to carry out the Office of the Architect of the Capitol’s mission and strategic and annual performance goals; and
-
-  (D) reviewing and directing the operational functions of the Office of the Architect of the Capitol.
-
-**(d) Additional responsibilities** The Architect of the Capitol may delegate to the Deputy Architect such additional duties as the Architect determines are necessary or appropriate.
-
-**(e) Action plan**
-
-(1) **In general** — No later than 90 days after the appointment, the Deputy Architect shall prepare and submit to the Committees on Appropriations of the House of Representatives and Senate and the Committee on Rules and Administration of the Senate, an action plan describing the policies, procedures, and actions the Deputy Architect will implement and timeframes for carrying out the responsibilities under this section.
-
-(2) **Action plan** — The action plan shall be—
-
-  (A) approved and signed by both the Architect of the Capitol and the Deputy Architect; and
-
-  (B) developed concurrently and consistent with the development of a strategic plan.
-
-**(f) Evaluation** The Government Accountability Office shall evaluate annually the implementation of the action plan and provide the results of the evaluation to the Architect of the Capitol, the Committees on Appropriations of the House of Representatives and Senate and the Committee on Rules and Administration of the Senate.
-
-**(g) Removal** The Deputy Architect of the Capitol may be removed by the Architect of the Capitol for misconduct or failure to meet performance goals set forth in the performance agreement in subsection (i). Upon the removal of the Deputy Architect of the Capitol, the Architect of the Capitol shall immediately notify in writing the Committees on Appropriations of the House of Representatives and Senate, and the Committee on Rules and Administration of the Senate, stating the specific reasons for the removal.
-
-**(h) Compensation** The Deputy Architect of the Capitol shall be paid at an annual rate of pay to be determined by the Architect but not to exceed $1,500 less than the annual rate of pay for the Architect of the Capitol.
-
-**(i) Annual performance report** The Deputy Architect of the Capitol shall prepare and transmit to the Architect of the Capitol an annual performance report. This report shall contain an evaluation of the extent to which the Office of the Architect of the Capitol met its goals and objectives.
-
-**(j) Termination of role** As of October 1, 2006, the role of the Comptroller General and the Government Accountability Office, as established by this section, will cease.
+**(b) Compensation** The Deputy Architect of the Capitol shall be paid at an annual rate of pay to be determined by the Architect but not to exceed $1,500 less than the annual rate of pay for the Architect of the Capitol.
 
 ### Statutory Notes
 
@@ -257,6 +225,14 @@ June 6, 1930, ch. 407, 46 Stat. 513.
 Section is from the Legislative Branch Appropriations Act, 2003, which is div. H of Pub. L. 108–7.
 
 #### Amendments
+2020—Pub. L. 116–260, § 701(b)(1), substituted “Capitol” for “Capitol/Chief Operating Officer” in section catchline.
+
+Subsec. (a). Pub. L. 116–260, § 701(b)(2), inserted text of subsec. (a) and struck out former text of subsec. (a) which read as follows: “There shall be a Deputy Architect of the Capitol who shall serve as the Chief Operating Officer of the Office of the Architect of the Capitol. The Deputy Architect of the Capitol shall be appointed by the Architect of the Capitol and shall report directly to the Architect of the Capitol and shall be subject to the authority of the Architect of the Capitol. The Architect of the Capitol shall appoint the Deputy Architect of the Capitol not later than 180 days after February 20, 2003. The Architect of the Capitol shall consult with the Comptroller General or his designee before making the appointment.”
+
+Subsecs. (b) to (h). Pub. L. 116–260, § 701(b)(3), (4), redesignated subsec. (h) as (b) and struck out former subsecs. (b) to (g) which related to Deputy Architect qualifications and responsibilities, submission of an action plan and annual evaluation of its implementation, and removal of the Deputy Architect.
+
+Subsecs. (i), (j). Pub. L. 116–260, § 702(b)(5), struck out subsecs. (i) and (j) which required the Deputy Architect to prepare and transmit an annual performance report and terminated the role of the Comptroller General and the Government Accountability Office in this section as of Oct. 1, 2006.
+
 2010—Subsec. (e)(3). Pub. L. 111–316 struck out par. (3). Text read as follows: “Notwithstanding [section 1849(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1849/a&num=0&edition=prelim), as amended by section 129(c) of the Legislative Branch Appropriations Act, 2002, the Architect of the Capitol may fix the rate of basic pay for not more than 3 additional positions at a rate not to exceed the highest total rate of pay for the Senior Executive Service under subchapter VIII of chapter 53 of title 5 for the locality involved.”
 
 2004—Subsecs. (f), (j). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
@@ -298,7 +274,7 @@ Section, Pub. L. 110–161, div. H, title I, § 1309, Dec. 26, 2007, 121 Stat. 2
 
 (3) provide a means of keeping the Architect of the Capitol and the Congress fully and currently informed about problems and deficiencies relating to the administration of programs and operations of the Architect of the Capitol.
 
-**(c) Appointment of Inspector General; supervision; removal**
+**(c) Appointment of Inspector General; supervision; removal; pay; limits on bonuses; counsel**
 
 (1) **Appointment and supervision**
 
@@ -314,9 +290,23 @@ Section, Pub. L. 110–161, div. H, title I, § 1309, Dec. 26, 2007, 121 Stat. 2
 
     (iv) carrying out any other duty or responsibility of the Inspector General under this section.
 
-(2) **Removal** — The Inspector General may be removed from office by the Architect of the Capitol. The Architect of the Capitol shall, promptly upon such removal, communicate in writing the reasons for any such removal to each House of Congress.
+(2) **Removal or transfer**
+
+  (A) *In general* — The Inspector General may be removed from office, or transferred to another position within, or another location of, the Office of the Architect of the Capitol, by the Architect of the Capitol.
+
+  (B) *Notice* — Not later than 30 days before the Architect of the Capitol removes or transfers the Inspector General under subparagraph (A), the Architect of the Capitol shall communicate in writing the reason for the removal or transfer to—
+
+    (i) the Committee on House Administration and the Committee on Appropriations of the House of Representatives; and
+
+    (ii) the Committee on Rules and Administration and the Committee on Appropriations of the Senate.
+
+  (C) *Applicability* — Nothing in this paragraph shall prohibit a personnel action (except for removal or transfer) that is otherwise authorized by law.
 
 (3) **Compensation** — The Inspector General shall be paid at an annual rate of pay equal to $1,500 less than the annual rate of pay of the Architect of the Capitol.
+
+(4) **No bonuses** — The Inspector General may not receive any cash award or cash bonus, including a cash award under chapter 45 of title 5.
+
+(5) **Counsel** — The Inspector General shall, in accordance with applicable laws and regulations governing selections, appointments, and employment at the Office of the Architect of the Capitol, obtain legal advice from a counsel reporting directly to the Inspector General or another Inspector General.
 
 **(d) Duties, responsibilities, authority, and reports**
 
@@ -326,7 +316,69 @@ Section, Pub. L. 110–161, div. H, title I, § 1309, Dec. 26, 2007, 121 Stat. 2
 
   (B) “Architect of the Capitol” for “head of the establishment”.
 
-(2) **Employees** — The Inspector General, in carrying out this section, is authorized to select, appoint, and employ such officers and employees (including consultants) as may be necessary for carrying out the functions, powers, and duties of the Office of Inspector General subject to the provisions of law governing selections, appointments, and employment in the Office of the Architect of the Capitol.
+(2) **Employees**
+
+  (A) *In general* — The Inspector General, in carrying out this section, is authorized, without the supervision or approval of any other employee, office, or other entity within the Office of the Architect of the Capitol, to select, appoint, and employ such officers and employees (including consultants) as may be necessary for carrying out the functions, powers, and duties of the Office of Inspector General subject to the provisions of law governing selections, appointments, and employment in the Office of the Architect of the Capitol.
+
+  (B) *Security and suitability* — Appointments under the authority under subparagraph (A) shall be made consistent with personnel security and suitability requirements.
+
+  (C) *Consultants* — Any appointment of a consultant under the authority under subparagraph (A) shall be made consistent with section 6(a)(8) of the Inspector General Act of 1978 (5 U.S.C. App.).
+
+(3) **Law enforcement authority**
+
+  (A) *In general* — Subject to subparagraph (B), any supervisory special agent under the Inspector General and any special agent supervised by such a supervisory special agent is authorized to—
+
+    (i) make an arrest without a warrant while engaged in official duties as authorized under this section or any other statute for any offense against the United States committed in the presence of such supervisory special agent or special agent, or for any felony cognizable under the laws of the United States if such supervisory special agent or special agent has reasonable grounds to believe that the person to be arrested has committed or is committing such felony;
+
+    (ii) seek and execute warrants for arrest, search of a premises, or seizure of evidence issued under the authority of the United States upon probable cause to believe that a violation has been committed; and
+
+    (iii) carry a firearm while engaged in official duties as authorized under this section or any other statute.
+
+  (B) *Requirements to exercise authority*
+
+    (i) *Required certification*
+
+      (I) *In general* — In order to exercise the authority under subparagraph (A), a supervisory special agent or a special agent supervised by such a supervisory special agent shall certify that he or she—
+
+        (aa) is a citizen of the United States;
+
+        (bb) has successfully completed a basic law enforcement training program or military or other equivalent; and
+
+        (cc) is not prohibited from receiving a firearm under Federal law, including under [section 922(g)(9) of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section922/g/9&num=0&edition=prelim), because of a conviction of a misdemeanor crime of domestic violence.
+
+      (II) *Additional requirements* — After providing notice to the appropriate committees of Congress, the Inspector General may add requirements to the certification required under subclause (I), as determined appropriate by the Inspector General.
+
+    (ii) *Maintenance of requirements* — The Inspector General shall maintain firearms-related requirements (including quarterly firearms qualifications) and use of force training requirements that, except to the extent the Inspector General determines necessary to effectively carry out the duties of the Office of the Inspector General, are in accordance with the Council of the Inspectors General on Integrity and Efficiency use of force policies, which incorporate Department of Justice guidelines.
+
+    (iii) *Eligibility determination*
+
+      (I) *In general* — The Inspector General shall—
+
+        (aa) determine whether an individual meets the requirements under this paragraph; and
+
+        (bb) revoke any authority granted to an individual under subparagraph (A) if the individual is not in compliance with the requirements of this paragraph.
+
+      (II) *Reauthorization* — The Inspector General may reauthorize an individual to exercise the authority granted under subparagraph (A) if the Inspector General determines the individual has achieved compliance with the requirements under this paragraph.
+
+      (III) *Limitation on appeal* — A revocation of the authority granted under subparagraph (A) shall not be subject to administrative, judicial, or other review, unless the revocation results in an adverse action. Such an adverse action may, at the election of the applicable individual, be reviewed in accordance with the otherwise applicable procedures.
+
+  (C) *Semiannual certification of program*
+
+    (i) *In general* — Before the first grant of authority under subparagraph (A), and semiannually thereafter as part of the report under section 5 of the Inspector General Act of 1978 (5 U.S.C. App.), the Inspector General shall submit to the appropriate committees of Congress a written certification that adequate internal safeguards and management procedures exist that, except to the extent the Inspector General determines necessary to effectively carry out the duties of the Office of the Inspector General, are in compliance with standards established by the Council of the Inspectors General on Integrity and Efficiency, which incorporate Department of Justice guidelines, to ensure proper exercise of the powers authorized under this paragraph.
+
+    (ii) *Suspension of authority* — The authority granted under this paragraph (including any grant of authority to an individual under subparagraph (A), without regard to whether the individual is in compliance with subparagraph (B)) may be suspended by the Inspector General if the Office of Inspector General fails to comply with the reporting and review requirements under clause (i) of this subparagraph or subparagraph (D). Any suspension of authority under this clause shall be reported to the appropriate committees of Congress.
+
+  (D) *Peer review* — To ensure the proper exercise of the law enforcement powers authorized under this paragraph, the Office of Inspector General shall submit to and participate in the external review process established by the Council of the Inspectors General on Integrity and Efficiency for ensuring that adequate internal safeguards and management procedures continue to exist. Under the review process, the exercise of the law enforcement powers by the Office of Inspector General shall be reviewed periodically by another Office of Inspector General or by a committee of Inspectors General. The results of each review shall be communicated in writing to the Inspector General, the Council of the Inspectors General on Integrity and Efficiency, and the appropriate committees of Congress.
+
+  (E) *Alleged misconduct* — Any allegation of misconduct by an individual granted authority under subparagraph (A) may be reviewed by the Integrity Committee of the Council of the Inspectors General on Integrity and Efficiency.
+
+  (F) *Appropriate committees of Congress* — In this paragraph, the term “appropriate committees of Congress” means—
+
+    (i) the Committee on Rules and Administration and the Committee on Appropriations of the Senate; and
+
+    (ii) the Committee on House Administration and the Committee on Appropriations of the House of Representatives.
+
+(4) **Budget independence** — The Architect of the Capitol shall include the annual budget request of the Inspector General in the budget of the Office of the Architect of the Capitol without change.
 
 **(e) Transfers** All functions, personnel, and budget resources of the Office of the Inspector General of the Architect of the Capitol as in effect before the effective date of this section are transferred to the Office of Inspector General described under subsection (b).
 
@@ -343,10 +395,23 @@ Section, Pub. L. 110–161, div. H, title I, § 1309, Dec. 26, 2007, 121 Stat. 2
 ### Statutory Notes
 
 #### References in Text
-The Inspector General Act of 1978, referred to in subsec. (d)(1), is Pub. L. 95–452, Oct. 12, 1978, 92 Stat. 1101, which is set out in the Appendix to Title 5, Government Organization and Employees.
+The Inspector General Act of 1978, referred to in subsec. (d)(1), (2)(C), (3)(C)(i), is Pub. L. 95–452, Oct. 12, 1978, 92 Stat. 1101, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Codification
 Section is from the Legislative Branch Appropriations Act, 2008, which is div. H of the Consolidated Appropriations Act, 2008.
+
+#### Amendments
+2019—Subsec. (c). Pub. L. 116–94, § 1602(b)(1), inserted “; pay; limits on bonuses; counsel” after “removal” in heading.
+
+Subsec. (c)(2). Pub. L. 116–94, § 1602(b)(2), added par. (2) and struck out former par. (2). Prior to amendment, text read as follows: “The Inspector General may be removed from office by the Architect of the Capitol. The Architect of the Capitol shall, promptly upon such removal, communicate in writing the reasons for any such removal to each House of Congress.”
+
+Subsec. (c)(4), (5). Pub. L. 116–94, § 1602(b)(3), added pars. (4) and (5).
+
+Subsec. (d)(2). Pub. L. 116–94, § 1605(b), designated existing provisions as subpar. (A), inserted subpar. heading and “, without the supervision or approval of any other employee, office, or other entity within the Office of the Architect of the Capitol,” after “is authorized”, and added subpars. (B) and (C).
+
+Subsec. (d)(3). Pub. L. 116–94, § 1603(b), added par. (3).
+
+Subsec. (d)(4). Pub. L. 116–94, § 1604(b), added par. (4).
 
 #### Change of Name
 “Government Publishing Office” substituted for “Government Printing Office” in subsec. (c)(1)(A) on authority of section 1301(b) of Pub. L. 113–235, set out as a note preceding [section 301 of Title 44](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section301&num=0&edition=prelim), Public Printing and Documents.
@@ -525,6 +590,11 @@ Notwithstanding any other provision of law, the Architect of the Capitol is auth
 In text, “[section 6101 of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section6101&num=0&edition=prelim)” substituted for “section 3709 of the Revised Statutes of the United States ([41 U.S.C. 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section5&num=0&edition=prelim))” on authority of Pub. L. 111–350, § 6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
 Section was classified to section 6a–2 of former Title 41, prior to the enactment of Title 41, Public Contracts, by Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3677.
+
+#### Authorizing Payments Under Service Contracts During the Coronavirus Emergency
+Pub. L. 116–136, div. B, title IX, § 19005, Mar. 27, 2020, 134 Stat. 578, as amended by Pub. L. 116–159, div. A, § 159(3), Oct. 1, 2020, 134 Stat. 722, provided that: “(a) Authorizing Payments.—Notwithstanding [section 3324(a) of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section3324/a&num=0&edition=prelim), United States Code, or any other provision of law and subject to subsection (b), if the employees of a contractor with a service contract with the Architect of the Capitol are furloughed or otherwise unable to work during closures, stop work orders, or reductions in service arising from or related to the impacts of coronavirus, the Architect of the Capitol may continue to make the payments provided for under the contract for the weekly salaries and benefits of such employees until the termination of the public health emergency declared pursuant to section 319 of the Public Health Service Act ([42 U.S.C. 247d](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section247d&num=0&edition=prelim)) resulting from the COVID–19 pandemic. “(b) Availability of Appropriations.—The authority of the Architect of the Capitol to make payments under the authority of subsection (a) is subject to the availability of appropriations to make such payments. “(c) Regulations.—The Architect of the Capitol shall promulgate such regulations as may be necessary to carry out this section.”
+
+[For definition of “coronavirus” as used in section 19005 of Pub. L. 116–136, set out above, see section 23005 of Pub. L. 116–136, set out as a note under [section 162b of this title](./chapter-005-library-of-congress.md#section-162b).]
 
 
 <a id="section-1817"></a>
@@ -899,7 +969,7 @@ Section is comprised of section 312 of Pub. L. 103–283. Subsec. (f) of section
 Pub. L. 104–1, title V, § 504(c)(1), Jan. 23, 1995, 109 Stat. 41, provided in part that subsec. (e) of this section is repealed, except as provided in [section 1435 of this title](./chapter-024-congressional-accountability.md#section-1435).
 
 #### Flexible Work Schedules
-Pub. L. 110–161, div. H, title I, § 1302, Dec. 26, 2007, 121 Stat. 2242, as amended by Pub. L. 110–437, § 505(a), Oct. 20, 2008, 122 Stat. 4998, provided authority, through Sept. 30, 2010, to the Architect of the Capitol to establish and conduct a pilot program to test flexible work schedules within the Architect of the Capitol and Botanic Garden in accordance with chapter 61 of Title 5.
+Pub. L. 110–161, div. H, title I, § 1302, Dec. 26, 2007, 121 Stat. 2242, as amended by Pub. L. 110–437, § 505(a), Oct. 20, 2008, 122 Stat. 4998, provided authority, through Sept. 30, 2010, to the Architect of the Capitol to establish and conduct a pilot program to test flexible work schedules within the Architect of the Capitol and Botanic Garden in accordance with chapter 61 of Title 5, United States Code.
 
 #### Temporary Employees; Benefits
 Pub. L. 108–83, title I, § 1101(b)–(d), Sept. 30, 2003, 117 Stat. 1027, provided that: “(b) Any individual who exercised an option offered by the Architect of the Capitol under section 133(a)(2) of the Legislative Branch Appropriations Act, 2002 [Pub. L. 107–68, set out below], prior to the date of the enactment of this Act [Sept. 30, 2003] may revoke the option during the 90-day period which begins on the date of the enactment of this Act. “(c) The amendments made by subsection (a) [amending Pub. L. 107–68, § 133(a), set out below] shall take effect as if included in the enactment of section 133(a) of the Legislative Branch Appropriations Act, 2002. “(d) Notwithstanding any other provision of law, upon enactment of this Act the Architect of the Capitol shall take all steps which may be required to carry out section 133(a) of the Legislative Branch Appropriations Act, 2002 [Pub. L. 107–68, set out as a note below].”
@@ -1147,7 +1217,7 @@ Section was classified to section 166b–3a of former Title 40, prior to the ena
 1989—Subsec. (b). Pub. L. 101–163 amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “The positions referred to in subsection (a) of this section are: (1) the two positions of assistant referred to in the proviso in the first undesignated paragraph under the center subheadings ‘Office of the Architect of the Capitol’ and ‘Salaries’ in the Legislative Branch Appropriation Act, 1971 ([40 U.S.C. 164a](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40-section164a&num=0&edition=prelim)), and (2) the seven positions provided for in the third and fourth undesignated paragraphs under the center subheadings ‘Office of the Architect of the Capitol’ and ‘Salaries’ in the Legislative Branch Appropriation Act, 1960 ([40 U.S.C. 166b–3](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40-section166b–3&num=0&edition=prelim)).”
 
 #### Compensation of Assistant Architect of the Capitol
-Pub. L. 108–7, div. H, title I, § 1206, Feb. 20, 2003, 117 Stat. 375, provided that: “Notwithstanding any other provision of law, the compensation of the Assistant Architect who is incumbent in that position when the position of Assistant Architect is abolished shall not be reduced so long as the former Assistant Architect is employed at the Office of the Architect of the Capitol. Whenever the Architect of the Capitol receives a pay adjustment after the date of enactment of this section [Feb. 20, 2003], the compensation of such former Assistant Architect shall be adjusted by the same percentage as the compensation of the Architect of the Capitol. The authority granted in this section shall be in addition to the authority the Architect of the Capitol has in section 129(c)(1)(A) of the Legislative Branch Appropriations Act, 2002 [amending [2 U.S.C. 1849](./chapter-028-architect-of-the-capitol.md#section-1849)], as amended by this Act [see [2 U.S.C. 1805(e)(3)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1805/e/3&num=0&edition=prelim)], to fix the rate of basic pay for not more than 15 positions at a rate not to exceed the highest total rate of pay for the Senior Executive Service under subchapter VIII of chapter 53 of title 5, United States Code, for the locality involved.”
+Pub. L. 108–7, div. H, title I, § 1206, Feb. 20, 2003, 117 Stat. 375, provided that: “Notwithstanding any other provision of law, the compensation of the Assistant Architect who is incumbent in that position when the position of Assistant Architect is abolished shall not be reduced so long as the former Assistant Architect is employed at the Office of the Architect of the Capitol. Whenever the Architect of the Capitol receives a pay adjustment after the date of enactment of this section [Feb. 20, 2003], the compensation of such former Assistant Architect shall be adjusted by the same percentage as the compensation of the Architect of the Capitol. The authority granted in this section shall be in addition to the authority the Architect of the Capitol has in section 129(c)(1)(A) of the Legislative Branch Appropriations Act, 2002 [amending [2 U.S.C. 1849](./chapter-028-architect-of-the-capitol.md#section-1849)], as amended by this Act [see former [2 U.S.C. 1805(e)(3)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1805/e/3&num=0&edition=prelim)], to fix the rate of basic pay for not more than 15 positions at a rate not to exceed the highest total rate of pay for the Senior Executive Service under subchapter VIII of chapter 53 of title 5, United States Code, for the locality involved.”
 
 Pub. L. 107–68, title I, § 129(b), Nov. 12, 2001, 115 Stat. 580, provided that: “Pursuant to the authority described in section 308(a) of the Legislative Branch Appropriations Act, 1988 ([40 U.S.C. 166b–3a(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40-section166b–3a/a&num=0&edition=prelim)) [now [2 U.S.C. 1848(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1848/a&num=0&edition=prelim)], the pay for the position of assistant referred to in the proviso in the first undesignated paragraph under the center subheadings ‘Office of the Architect of the Capitol’ and ‘salaries’ in the first section of the Legislative Branch Appropriation Act, 1971 ([40 U.S.C. 164a](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40-section164a&num=0&edition=prelim)) [now [2 U.S.C. 1804](./chapter-028-architect-of-the-capitol.md#section-1804)] shall be an amount equal to $1,000 less than the annual rate of pay for the Architect of the Capitol.”
 

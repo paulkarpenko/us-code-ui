@@ -37,10 +37,23 @@ In this chapter:
 
 ### Statutory Notes
 
+#### Amendment of Section
+Pub. L. 116–283, div. A, title XVIII, §§ 1801(d), 1872(a)(3)(A), Jan. 1, 2021, 134 Stat. 4151, 4288, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, this section is amended by transferring the text of this section to [section 4951 of this title](./chapter-388-procurement-technical-assistance-cooperative-agreement-program.md#section-4951) after subsection (a) and redesignating it as subsection (b). See 2021 Amendment note below.
+
+#### Amendment of Paragraph (3)
+Pub. L. 116–92, div. A, title VIII, § 852(a), Dec. 20, 2019, 133 Stat. 1511, as amended by Pub. L. 116–283, div. A, title XVIII, § 1872(a)(3)(B), Jan. 1, 2021, 134 Stat. 4288, provided that, effective Oct. 1, 2021, paragraph (3) of this section is amended by striking “Director of the Defense Logistics Agency” and inserting “Under Secretary of Defense for Acquisition and Sustainment”. See 2019 Amendment note below.
+
+#### Repeal of Section
+Pub. L. 116–283, div. A, title XVIII, §§ 1801(d), 1872(b)(1), Jan. 1, 2021, 134 Stat. 4151, 4289, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, this section is repealed.
+
 #### Codification
 Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
 
 #### Amendments
+2021—Pub. L. 116–283 transferred the text of this section to [section 4951 of this title](./chapter-388-procurement-technical-assistance-cooperative-agreement-program.md#section-4951) after subsec. (a) and redesignated it as subsec. (b).
+
+2019—Par. (3). Pub. L. 116–92 substituted “Under Secretary of Defense for Acquisition and Sustainment” for “Director of the Defense Logistics Agency”.
+
 2017—Par. (1)(D). Pub. L. 115–91 substituted “([25 U.S.C. 5304](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5304&num=0&edition=prelim)(l))” for “(Public Law 93–638; [25 U.S.C. 450b](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section450b&num=0&edition=prelim)(l))”.
 
 1992—Par. (1)(D). Pub. L. 102–484 substituted “organized for profit purposes or nonprofit purposes” for “organized for-profit, or nonprofit purposes”.
@@ -63,6 +76,17 @@ Par. (2). Pub. L. 100–180, § 807(b)(2), substituted “means—” for “mea
 
 “(2) ‘Secretary’ means the Secretary of Defense acting through the Director of the Defense Logistics Agency.”
 
+#### Effective Date of Repeal
+Repeal by section 1872(b)(1) of Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
+
+#### Effective Date of 2021 Amendment
+Amendment by section 1872(a)(3)(A) of Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
+
+#### Effective Date of 2019 Amendment
+Pub. L. 116–92, div. A, title VIII, § 852(a), Dec. 20, 2019, 133 Stat. 1511, as amended by Pub. L. 116–283, div. A, title XVIII, § 1872(a)(3)(B), Jan. 1, 2021, 134 Stat. 4288, provided that the amendment made by section 852(a) is effective on Oct. 1, 2021.
+
+[Pub. L. 116–283, div. A, title XVIII, § 1872(a)(3)(B), Jan. 1, 2021, 134 Stat. 4288, provided that the amendment made by section 852(a) of Pub. L. 116–92, set out above, should not be made if the effective date of this section is after Oct. 1, 2021. This section is effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).]
+
 #### Effective Date of 1985 Amendment
 Pub. L. 99–145, title IX, § 919(d), Nov. 8, 1985, 99 Stat. 693, provided that: “The amendments made by subsections (a) and (b) [amending this section and sections 2412 to 2415 of this title] shall take effect on October 1, 1985.”
 
@@ -78,8 +102,22 @@ The purposes of the program authorized by this chapter are—
 
 ### Statutory Notes
 
+#### Amendment of Section
+Pub. L. 116–283, div. A, title XVIII, §§ 1801(d), 1872(a)(2), Jan. 1, 2021, 134 Stat. 4151, 4287, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, this section is amended by transferring the text of this section to [section 4951 of this title](./chapter-388-procurement-technical-assistance-cooperative-agreement-program.md#section-4951) and redesignating it as subsection (a). See 2021 Amendment note below.
+
+#### Repeal of Section
+Pub. L. 116–283, div. A, title XVIII, §§ 1801(d), 1872(b)(1), Jan. 1, 2021, 134 Stat. 4151, 4289, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, this section is repealed.
+
 #### Amendments
+2021—Pub. L. 116–283 transferred the text of this section to [section 4951 of this title](./chapter-388-procurement-technical-assistance-cooperative-agreement-program.md#section-4951) and redesignated it as subsec. (a).
+
 1985—Pub. L. 99–145 amended section generally, substituting “assistance by the Department of Defense to eligible entities” for “Department of Defense assistance for eligible entities” in par. (1).
+
+#### Effective Date of Repeal
+Repeal effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
+
+#### Effective Date of 2021 Amendment
+Amendment by section 1872(a)(2) of Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
 
 #### Effective Date of 1985 Amendment
 Amendment by Pub. L. 99–145 effective Oct. 1, 1985, see section 919(d) of Pub. L. 99–145, set out as a note under [section 2411 of this title](./chapter-142-procurement-technical-assistance-cooperative-agreement-program.md#section-2411).
@@ -102,6 +140,9 @@ Amendment by Pub. L. 99–145 effective Oct. 1, 1985, see section 919(d) of Pub.
 **(e)** In determining the level of funding to provide under an agreement under subsection (b), the Secretary shall consider the forecast by the eligible entity of demand for procurement technical assistance, and, in the case of an established program under this chapter, the outlays and receipts of such program during prior years of operation.
 
 ### Statutory Notes
+
+#### Transfer of Section
+Pub. L. 116–283, div. A, title XVIII, §§ 1801(d), 1872(a)(5), Jan. 1, 2021, 134 Stat. 4151, 4288, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, this section is transferred to chapter 385 of this title, as amended by section 1872(a)(1) of Pub. L. 116–283, inserted after section 4951, redesignated as [section 4952 of this title](./chapter-388-procurement-technical-assistance-cooperative-agreement-program.md#section-4952). See Effective Date of 2021 Amendment note below.
 
 #### Codification
 Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
@@ -136,6 +177,9 @@ Subsec. (e). Pub. L. 113–66, § 1611(c)(2), added subsec. (e).
 1986—Subsec. (b). Pub. L. 99–500, Pub. L. 99–591, and Pub. L. 99–661, as amended by Pub. L. 100–180, amended subsec. (b) identically, inserting “sponsor programs to” after first reference to “agree to”, “under such programs” after “such assistance”, and “with respect to such program” after “such cost” and substituting “a program sponsored by such an entity that provides services solely in a distressed area” for “an eligible entity that is a distressed entity”.
 
 1985—Pub. L. 99–145 amended section generally, substituting “, in accordance with the provisions of this chapter, may enter” for “may, in accordance with the provisions of this chapter, enter” in subsec. (a), adding subsec. (b), and redesignating former subsec. (b) as (c).
+
+#### Effective Date of 2021 Amendment
+Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
 
 #### Effective Date of 1987 Amendment
 Pub. L. 100–180, div. A, title XII, § 1233(c)(2), Dec. 4, 1987, 101 Stat. 1161, provided that: “The amendment made by subsection (b) [amending Public Laws 99–500, 99–591, and 99–661 which amended this section] shall apply as if included in the enactment of Public Laws 99–500, 99–591, and 99–661.”
@@ -173,6 +217,9 @@ Amendment by Pub. L. 99–145 effective Oct. 1, 1985, see section 919(d) of Pub.
 (3) In determining the value of assistance furnished by the Secretary under this section for any fiscal year, the Secretary shall account for the amount of any income the eligible entity carried over from the previous fiscal year.
 
 ### Statutory Notes
+
+#### Transfer of Section
+Pub. L. 116–283, div. A, title XVIII, §§ 1801(d), 1872(a)(6), Jan. 1, 2021, 134 Stat. 4151, 4288, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, this section is transferred to chapter 385 of this title, as amended by section 1872(a)(1) of Pub. L. 116–283, inserted after section 4952, and redesignated as [section 4953 of this title](./chapter-388-procurement-technical-assistance-cooperative-agreement-program.md#section-4953). See Effective Date of 2021 Amendment note below.
 
 #### Amendments
 2018—Pub. L. 115–232, § 1081(a)(24)(A), substituted “Funding” for “FUNDING” in section catchline.
@@ -221,6 +268,9 @@ Subsec. (b). Pub. L. 101–189, § 819(c)(2), inserted “or is operated wholly 
 
 1985—Pub. L. 99–145 amended section generally, substituting “Secretary” for “Department of Defense” and “program under” for “program pursuant to”.
 
+#### Effective Date of 2021 Amendment
+Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
+
 #### Effective Date of 1985 Amendment
 Amendment by Pub. L. 99–145 effective Oct. 1, 1985, see section 919(d) of Pub. L. 99–145, set out as a note under [section 2411 of this title](./chapter-142-procurement-technical-assistance-cooperative-agreement-program.md#section-2411).
 
@@ -231,6 +281,9 @@ Amendment by Pub. L. 99–145 effective Oct. 1, 1985, see section 919(d) of Pub.
 The Secretary shall allocate funds available for assistance under this chapter equally to each Department of Defense contract administrative services district. If in any such fiscal year there is an insufficient number of satisfactory proposals in a district for cooperative agreements to allow effective use of the funds allocated to that district, the funds remaining with respect to that district shall be reallocated among the remaining districts.
 
 ### Statutory Notes
+
+#### Transfer of Section
+Pub. L. 116–283, div. A, title XVIII, §§ 1801(d), 1872(a)(7), Jan. 1, 2021, 134 Stat. 4151, 4288, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, this section is transferred to chapter 385 of this title, as amended by section 1872(a)(1) of Pub. L. 116–283, inserted after section 4953, and redesignated as [section 4954 of this title](./chapter-388-procurement-technical-assistance-cooperative-agreement-program.md#section-4954). See Effective Date of 2021 Amendment note below.
 
 #### Amendments
 2000—Pub. L. 106–398 made technical amendment to directory language of Pub. L. 105–261, § 802(b). See 1998 Amendment note below.
@@ -248,6 +301,9 @@ Subsec. (a)(3). Pub. L. 99–145, § 919(b)(1)(B), added par. (3).
 Subsec. (b). Pub. L. 99–145, § 919(b)(2), substituted “1987” for “1986”.
 
 Subsec. (c). Pub. L. 99–145, § 919(b)(3), added subsec. (c).
+
+#### Effective Date of 2021 Amendment
+Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
 
 #### Effective Date of 2000 Amendment
 Pub. L. 106–398, § 1 [[div. A], title X, § 1087(d)], Oct. 30, 2000, 114 Stat. 1654, 1654A–292, provided that the amendment made by section 1 [[div. A], title X, § 1087(d)(5)] is effective Oct. 17, 1998, and as if included in the Strom Thurmond National Defense Authorization Act for Fiscal Year 1999, Pub. L. 105–261, as enacted.
@@ -268,6 +324,9 @@ Amendment by Pub. L. 99–145 effective Oct. 1, 1985, see section 919(d) of Pub.
 
 ### Statutory Notes
 
+#### Transfer of Section
+Pub. L. 116–283, div. A, title XVIII, §§ 1801(d), 1872(a)(8), Jan. 1, 2021, 134 Stat. 4151, 4289, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, this section is transferred to chapter 385 of this title, as amended by section 1872(a)(1) of Pub. L. 116–283, inserted after section 4954, and redesignated as [section 4955 of this title](./chapter-388-procurement-technical-assistance-cooperative-agreement-program.md#section-4955). See Effective Date of 2021 Amendment note below.
+
 #### Codification
 Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
 
@@ -278,6 +337,9 @@ A prior section 2416 was renumbered [section 2420 of this title](./chapter-142-p
 
 #### Amendments
 2004—Subsec. (d). Pub. L. 108–375 substituted “$1,000,000” for “$500,000”.
+
+#### Effective Date of 2021 Amendment
+Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
 
 #### Effective Date
 Pub. L. 99–500, § 101(c) [title X, § 957(b)], Oct. 18, 1986, 100 Stat. 1783–82, 1783–175, Pub. L. 99–591, § 101(c) [title X, § 957(b)], Oct. 30, 1986, 100 Stat. 3341–82, 3341–175, and Pub. L. 99–661, div. A, title IX, formerly title IV, § 957(b), Nov. 14, 1986, 100 Stat. 3955, renumbered title IX, Pub. L. 100–26, § 3(5), Apr. 21, 1987, 101 Stat. 273, provided that: “[Section 2416 of title 10](./chapter-142-procurement-technical-assistance-cooperative-agreement-program.md#section-2416), United States Code, as added by subsection (a), shall take effect on January 1, 1987.”
@@ -290,7 +352,7 @@ The Director of the Defense Logistics Agency may use, out of the amount appropri
 
 (1) an amount not exceeding three percent of such amount to defray the expenses of administering the provisions of this chapter during such fiscal year; and
 
-(2) an amount determined appropriate by the Director to assist eligible entities in payment of costs of eligible entities — 11 So in original.
+(2) an amount determined appropriate by the Director to assist eligible entities in payment of costs of eligible entities—
 
   (A) for meetings to discuss best practices for the improvement of the operations of procurement technical assistance centers; and
 
@@ -298,13 +360,21 @@ The Director of the Defense Logistics Agency may use, out of the amount appropri
 
 ### Statutory Notes
 
+#### Transfer of Section
+Pub. L. 116–283, div. A, title XVIII, §§ 1801(d), 1872(a)(11), Jan. 1, 2021, 134 Stat. 4151, 4289, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, this section is transferred to chapter 385 of this title, as amended by section 1872(a)(1) of Pub. L. 116–283, inserted after section 4957, and redesignated as [section 4959 of this title](./chapter-388-procurement-technical-assistance-cooperative-agreement-program.md#section-4959). See Effective Date of 2021 Amendment note below.
+
 #### Prior Provisions
 A prior section 2417 was renumbered [section 2420 of this title](./chapter-142-procurement-technical-assistance-cooperative-agreement-program.md#section-2420).
 
 #### Amendments
+2021—Par. (2). Pub. L. 116–283 substituted “entities—” for “entities —”.
+
 2018—Pub. L. 115–232, § 859(a)(2)–(4), substituted “chapter—” for “chapter,”, inserted par. (1) designation before “an amount”, and added par. (2).
 
 Pub. L. 115–232, § 859(a)(1), inserted “and other” after “Administrative” in section catchline.
+
+#### Effective Date of 2021 Amendment
+Amendment by section 1872(a)(11) of Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
 
 #### Effective Date
 Pub. L. 101–510, div. A, title VIII, § 814(b), Nov. 5, 1990, 104 Stat. 1597, provided that: “[Section 2417 of title 10](./chapter-142-procurement-technical-assistance-cooperative-agreement-program.md#section-2417), United States Code, as added by subsection (a), shall apply with respect to fiscal year 1991 and each fiscal year thereafter.”
@@ -324,6 +394,9 @@ Pub. L. 101–510, div. A, title VIII, § 814(b), Nov. 5, 1990, 104 Stat. 1597, 
 
 ### Statutory Notes
 
+#### Transfer of Section
+Pub. L. 116–283, div. A, title XVIII, §§ 1801(d), 1872(a)(9), Jan. 1, 2021, 134 Stat. 4151, 4289, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, this section is transferred to chapter 385 of this title, as amended by section 1872(a)(1) of Pub. L. 116–283, inserted after section 4955, and redesignated as [section 4956 of this title](./chapter-388-procurement-technical-assistance-cooperative-agreement-program.md#section-4956). See Effective Date of 2021 Amendment note below.
+
 #### References in Text
 The Defense Conversion, Reinvestment, and Transition Assistance Act of 1992, referred to in subsec. (b), is division D of Pub. L. 102–484, Oct. 23, 1992, 106 Stat. 2658. For complete classification of division D to the Code, see Short Title note set out under [section 2500 of this title](./chapter-148-national-defense-technology-and-industrial-base-defense-reinvestment-and-defense-conversion.md#section-2500) and Tables.
 
@@ -335,12 +408,15 @@ A prior section 2418 was renumbered [section 2420 of this title](./chapter-142-p
 
 2014—Subsec. (c). Pub. L. 113–291 added subsec. (c).
 
+#### Effective Date of 2021 Amendment
+Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
+
 
 <a id="section-2419"></a>
 ## § 2419. Advancing small business growth
 **(a) Contract Clause Required.—**
 
-(1) The Under Secretary of Defense for Acquisition, Technology, and Logistics shall require the clause described in paragraph (2) to be included in each covered contract awarded by the Department of Defense.
+(1) The Under Secretary of Defense for Acquisition and Sustainment shall require the clause described in paragraph (2) to be included in each covered contract awarded by the Department of Defense.
 
 (2) The clause described in this paragraph is a clause that—
 
@@ -366,11 +442,20 @@ A prior section 2418 was renumbered [section 2420 of this title](./chapter-142-p
 
 ### Statutory Notes
 
+#### Transfer of Section
+Pub. L. 116–283, div. A, title XVIII, §§ 1801(d), 1872(a)(10), Jan. 1, 2021, 134 Stat. 4151, 4289, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, this section is transferred to chapter 385 of this title, as amended by section 1872(a)(1) of Pub. L. 116–283, inserted after section 4956, and redesignated as [section 4957 of this title](./chapter-388-procurement-technical-assistance-cooperative-agreement-program.md#section-4957). See Effective Date of 2021 Amendment note below.
+
 #### References in Text
 Section 3(a) of the Small Business Act, referred to in subsecs. (a)(2)(A) and (c)(1)(A), (2), is classified to [section 632(a) of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section632/a&num=0&edition=prelim), Commerce and Trade.
 
 #### Prior Provisions
 A prior section 2419 was renumbered [section 2420 of this title](./chapter-142-procurement-technical-assistance-cooperative-agreement-program.md#section-2420).
+
+#### Amendments
+2019—Subsec. (a)(1). Pub. L. 116–92 substituted “Under Secretary of Defense for Acquisition and Sustainment” for “Under Secretary of Defense for Acquisition, Technology, and Logistics”.
+
+#### Effective Date of 2021 Amendment
+Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
 
 
 <a id="section-2420"></a>
@@ -380,10 +465,18 @@ The Secretary of Defense shall prescribe regulations to carry out this chapter.
 
 ### Statutory Notes
 
+#### Amendment of Section
+Pub. L. 116–283, div. A, title XVIII, §§ 1801(d), 1872(a)(4), Jan. 1, 2021, 134 Stat. 4151, 4288, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, this section is amended by transferring the text of this section to [section 4951 of this title](./chapter-388-procurement-technical-assistance-cooperative-agreement-program.md#section-4951), inserting it after after subsection (b), and redesignating it as subsection (c). See 2021 Amendment note below.
+
+#### Repeal of Section
+Pub. L. 116–283, div. A, title XVIII, §§ 1801(d), 1872(b)(1), Jan. 1, 2021, 134 Stat. 4151, 4289, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, this section is repealed.
+
 #### Codification
 Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
 
 #### Amendments
+2021—Pub. L. 116–283 transferred the text of this section to [section 4951 of this title](./chapter-388-procurement-technical-assistance-cooperative-agreement-program.md#section-4951), inserted it after subsec. (b), and redesignated it as subsec. (c).
+
 2013—Pub. L. 113–66 renumbered [section 2419 of this title](./chapter-142-procurement-technical-assistance-cooperative-agreement-program.md#section-2419) as this section.
 
 1992—Pub. L. 102–484 renumbered [section 2418 of this title](./chapter-142-procurement-technical-assistance-cooperative-agreement-program.md#section-2418) as this section.
@@ -391,3 +484,9 @@ Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
 1990—Pub. L. 101–510 renumbered [section 2417 of this title](./chapter-142-procurement-technical-assistance-cooperative-agreement-program.md#section-2417) as this section.
 
 1986—Pub. L. 99–500, Pub. L. 99–591, and Pub. L. 99–661, renumbered [section 2416 of this title](./chapter-142-procurement-technical-assistance-cooperative-agreement-program.md#section-2416) as this section.
+
+#### Effective Date of Repeal
+Repeal effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
+
+#### Effective Date of 2021 Amendment
+Amendment by section 1872(a)(4) of Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).

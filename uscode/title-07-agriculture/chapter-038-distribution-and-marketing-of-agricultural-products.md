@@ -2831,7 +2831,7 @@ In order to achieve the goals, purposes, and objectives of this chapter on a nat
 <a id="section-1636i"></a>
 ## § 1636i. Termination of authority
 
-The authority provided by this subchapter terminates on September 30, 2020.
+The authority provided by this subchapter terminates on September 30, 2020.11 See Mandatory Livestock Reporting Extension note below.
 
 ### Statutory Notes
 
@@ -2839,6 +2839,9 @@ The authority provided by this subchapter terminates on September 30, 2020.
 2015—Pub. L. 114–54 substituted “September 30, 2020” for “September 30, 2015”.
 
 2010—Pub. L. 111–239 substituted “September 30, 2015” for “September 30, 2010”.
+
+#### Mandatory Livestock Reporting Extension
+Pub. L. 116–260, div. O, title IV, § 401, Dec. 27, 2020, 134 Stat. 2149, provided that: “Section 260 of the Agricultural Marketing Act of 1946 ([7 U.S.C. 1636i](./chapter-038-distribution-and-marketing-of-agricultural-products.md#section-1636i)) and section 942 of the Livestock Mandatory Reporting Act of 1999 ([7 U.S.C. 1635](./chapter-038-distribution-and-marketing-of-agricultural-products.md#section-1635) note; Public Law 106–78) shall be applied by substituting ‘September 30, 2021’ for ‘September 30, 2020’.”
 
 
 <a id="section-1637"></a>

@@ -551,7 +551,7 @@ For authority to waive maximum age limitation in subsec. (a)(1) of this section 
 
 (5) That the midshipman—
 
-  (A) will not seek release from the midshipman’s commissioned service obligation to obtain employment as a professional athlete following graduation until the midshipman completes a period of at least two consecutive years of commissioned service; and
+  (A) will not seek release from the midshipman’s commissioned service obligation or seek or accept approval for off-duty employment while completing the midshipman’s commissioned service obligation to obtain employment as a professional athlete following graduation until the midshipman completes a period of at least two consecutive years of commissioned service; and
 
   (B) understands that the appointment alternative described in paragraph (3) will not be used to allow the midshipman to obtain such employment until at least the end of that two-year period.
 
@@ -591,6 +591,8 @@ For authority to waive maximum age limitation in subsec. (a)(1) of this section 
 The words “Hereafter” and “appointed to the United States Naval Academy” are omitted as surplusage. The words “an agreement that * * * he will” are substituted for the words “articles * * * by which he shall engage”. The word “separated” is substituted for the words “discharged by competent authority”. The words “if tendered an appointment”, “upon graduation from the United States Naval Academy”, and “consecutive” are omitted as surplusage. The words “if he is permitted to resign” are substituted for the words “in the event of the acceptance of his resignation”, since a resignation is effective only if accepted. The first 43 words of clause (3) are substituted for [34 U.S.C. 1048](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section1048&num=0&edition=prelim) (last 30 words of clause (3)). The last sentence is substituted for the words “with the consent of his parents or guardian if he be a minor, and if any he have.”
 
 #### Amendments
+2019—Subsec. (a)(5)(A). Pub. L. 116–92 inserted “or seek or accept approval for off-duty employment while completing the midshipman’s commissioned service obligation” before “to obtain employment”.
+
 2018—Pub. L. 115–232 renumbered [section 6959 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section6959&num=0&edition=prelim) as this section.
 
 2017—Subsec. (a)(5). Pub. L. 115–91, § 543(b), added par. (5).
@@ -763,7 +765,7 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 **(e)** A midshipman who is sentenced to imprisonment for hazing may not be confined with persons who have been convicted of crimes or misdemeanors.
 
-**(f)** A midshipman who is dismissed from the Academy for hazing may not be reappointed as a midshipman or be appointed as a commissioned officer in the Army, Navy, Air Force, or Marine Corps until two years after the graduation of the class of which he was a member.
+**(f)** A midshipman who is dismissed from the Academy for hazing may not be reappointed as a midshipman or be appointed as a commissioned officer in the Army, Navy, Air Force, Marine Corps, or Space Force until two years after the graduation of the class of which he was a member.
 
 ### Statutory Notes
 
@@ -785,6 +787,8 @@ In subsection (c) the words “dealt with” are substituted for the words “pr
 In subsections (d) and (e) all that part of the source text preceding the proviso is omitted as superseded by the Uniform Code of Military Justice. The words “in a military or naval prison or elsewhere” are omitted as surplusage.
 
 #### Amendments
+2021—Subsec. (f). Pub. L. 116–283 substituted “Marine Corps, or Space Force” for “or Marine Corps”.
+
 2018—Pub. L. 115–232 renumbered [section 6964 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section6964&num=0&edition=prelim) as this section.
 
 1989—Subsec. (a). Pub. L. 101–189 inserted “, the term” after “In this chapter”.
@@ -1354,6 +1358,14 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
     (iv) any other issues relating to sexual harassment and sexual violence involving Academy personnel.
 
+(3)
+
+  (A) The Secretary of Defense may postpone the conduct of an assessment under this subsection if the Secretary determines that conducting such assessment is not practicable due to a war or national emergency declared by the President or Congress.
+
+  (B) The Secretary of Defense shall ensure that an assessment postponed under subparagraph (A) is conducted as soon as practicable after the end of the period of war or national emergency concerned, or earlier if the Secretary determines appropriate.
+
+  (C) The Secretary of Defense shall notify Congress of a determination under subparagraph (A) not later than 30 days after the date on which the Secretary makes such determination.
+
 **(d) Annual Report.—**
 
 (1) The Secretary of the Navy shall direct the Superintendent of the Naval Academy to submit to the Secretary a report on sexual harassment and sexual violence involving midshipmen or other personnel at the Academy for each Academy program year.
@@ -1374,9 +1386,43 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
   (B) The Secretary of Defense shall transmit each such report, together with the Secretary’s comments on the report, to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives.
 
+**(e) Consideration of Request for Transfer of a Midshipman Who Is the Victim of a Sexual Assault or Related Offense.—**
+
+(1) The Secretary of the Navy shall provide for timely consideration of and action on a request submitted by a midshipman appointed to the United States Naval Academy who is the victim of an alleged sexual assault or other offense covered by section 920, 920c, or 930 of this title (article 120, 120c, or 130 of the Uniform Code of Military Justice) for transfer to another military service academy or to enroll in a Senior Reserve Officers’ Training Corps program affiliated with another institution of higher education.
+
+(2) The Secretary of the Navy shall prescribe regulations to carry out this subsection, within guidelines provided by the Secretary of Defense that—
+
+  (A) provide that the Superintendent of the United States Naval Academy shall ensure that any midshipman who has been appointed to the United States Naval Academy and who is a victim of an alleged sexual assault or other offense referred to in paragraph (1), is informed of the right to request a transfer pursuant to this section, and that any formal request submitted by a midshipman is processed as expeditiously as practicable through the chain of command for review and action by the Superintendent;
+
+  (B) direct the Superintendent of the United States Naval Academy, in coordination with the Superintendent of the military service academy to which the midshipman requests to transfer—
+
+    (i) to take action on a request for transfer under this subsection not later than 72 hours after receiving the formal request from the midshipman;
+
+    (ii) to approve such request for transfer unless there are exceptional circumstances that require denial of the request; and
+
+    (iii) upon approval of such request, to take all necessary and appropriate action to effectuate the transfer of the midshipman to the military service academy concerned as expeditiously as possible; and
+
+  (C) direct the Superintendent of the United States Naval Academy, in coordination with the Secretary of the military department that sponsors the Senior Reserve Officers’ Training Corps program at the institution of higher education to which the midshipman requests to transfer—
+
+    (i) to take action on a request for transfer under this subsection not later than 72 hours after receiving the formal request from the midshipman;
+
+    (ii) subject to the midshipman’s acceptance for admission to the institution of higher education to which the midshipman wishes to transfer, to approve such request for transfer unless there are exceptional circumstances that require denial of the application; and
+
+    (iii) to take all necessary and appropriate action to effectuate the midshipman’s enrollment in the institution of higher education to which the midshipman wishes to transfer and to process the midshipman for participation in the relevant Senior Reserve Officers’ Training Corps program as expeditiously as possible.
+
+(3) If the Superintendent of the United States Naval Academy denies a request for transfer under this subsection, the midshipman may request review of the denial by the Secretary of the Navy, who shall take action on such request not later than 72 hours after receipt of the formal request for review.
+
+(4) The Secretary concerned shall ensure that all records of any request, determination, transfer, or other action under this subsection remain confidential, consistent with applicable law and regulation.
+
+(5) A midshipman who transfers under this subsection may retain the midshipman’s appointment to the United States Naval Academy or may be appointed to the military service academy to which the midshipman transfers without regard to the limitations and requirements set forth in sections 7442, 8454, and 9442 of this title.
+
 ### Statutory Notes
 
 #### Amendments
+2021—Subsec. (c)(3). Pub. L. 116–283 added par. (3).
+
+2019—Subsec. (e). Pub. L. 116–92 added subsec. (e).
+
 2018—Pub. L. 115–232 renumbered [section 6980 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section6980&num=0&edition=prelim) as this section.
 
 #### Effective Date of 2018 Amendment
@@ -1384,6 +1430,15 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 #### Termination of Reporting Requirements
 For termination, effective Dec. 31, 2021, of provisions in subsec. (d)(4)(B) of this section requiring submittal of annual report to Congress, see section 1061 of Pub. L. 114–328, set out as a note under [section 111 of this title](./chapter-002-department-of-defense.md#section-111).
+
+#### Policy for Military Service Academies on Separation of Alleged Victims and Alleged Perpetrators in Incidents of Sexual Assault
+Secretary of Defense to consult with Secretaries of the military departments and Superintendent of each military service academy and prescribe in regulations a policy that allows a cadet or midshipman of a military service academy who is the alleged victim or alleged perpetrator of a sexual assault to complete their course of study at the academy with minimal disruption and does not preclude the academy from taking other administrative or disciplinary action, see section 539 of Pub. L. 116–283, set out as a note under [section 7461 of this title](./chapter-753-united-states-military-academy.md#section-7461).
+
+#### Applicability of Sexual Assault Prevention and Response and Related Military Justice Enhancements to Military Service Academies
+Secretary of the military department concerned to ensure that the provisions of title XVII of Pub. L. 113–66 and subtitle D of title V of div. A of Pub. L. 113–291 apply to the United States Military Academy, the Naval Academy, and the Air Force Academy, as applicable, see section 552(a) of Pub. L. 113—291, set out as a note under [section 7461 of this title](./chapter-753-united-states-military-academy.md#section-7461).
+
+#### Prevention of Sexual Assault at Military Service Academies
+Secretary of Defense to ensure that military service academy curricula include honor, respect, and character development pertaining to prevention of sexual assault in the Armed Forces; training provided within 14 days after a new cadet or midshipman arrives at the academy and repeated annually, see section 1746 of Pub. L. 113–66, set out as a note under [section 7461 of this title](./chapter-753-united-states-military-academy.md#section-7461).
 
 #### Further Information From Cadets and Midshipmen at the Service Academies on Sexual Assault and Sexual Harassment Issues
 Secretary of a military department to provide for focus groups to ascertain information relating to sexual assault and sexual harassment issues in any year in which the Secretary is not required by law to conduct a survey on such matters at the service academy under the Secretary’s jurisdiction and to include such information in the Secretary’s annual report to Congress, see section 532(b) of Pub. L. 109–364, set out as a note under [section 7461 of this title](./chapter-753-united-states-military-academy.md#section-7461).
@@ -1427,6 +1482,9 @@ Secretary of a military department to provide for focus groups to ascertain info
 
 ### Statutory Notes
 
+#### Amendment of Section
+Pub. L. 116–283, div. A, title XVIII, §§ 1801(d), 1883(b)(2), Jan. 1, 2021, 134 Stat. 4151, 4294, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, except as otherwise provided in title XVIII of Pub. L. 116–283, in title 10, United States Code, each reference in the text of such title to a source section that is redesignated by title XVIII of Pub. L. 116–283, is amended by striking such reference and inserting a reference to the appropriate section as so redesignated. See 2021 Amendment note below.
+
 #### References in Text
 Section 501(c)(3) of the Internal Revenue Code of 1986, referred to in subsec. (g)(1), is classified to [section 501(c)(3) of Title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section501/c/3&num=0&edition=prelim), Internal Revenue Code.
 
@@ -1462,9 +1520,14 @@ A prior section 8537, act Aug. 10, 1956, ch. 1041, 70A Stat. 526, provided for d
 A prior section 8540, act Aug. 10, 1956, ch. 1041, 70A Stat. 527, related to detail of members of regular or reserve components as professors and instructors in air science and tactics, prior to repeal by Pub. L. 88–647, title III, § 301(23), Oct. 13, 1964, 78 Stat. 1073. See [section 2111 of this title](./chapter-103-senior-reserve-officers-training-corps.md#section-2111).
 
 #### Amendments
+2021—Subsec. (a)(1). Pub. L. 116–283 substituted “section 3201(e)” for “section 2304(k)” and “section 3204(a)(5)” for “section 2304(c)(5)”.
+
 2018—Pub. L. 115–232, § 807(c)(1), renumbered [section 6981 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section6981&num=0&edition=prelim) as this section.
 
 Subsec. (e)(1). Pub. L. 115–232, § 809(a), substituted “and 8022(b)(3)” for “and 5022(b)(3)”.
+
+#### Effective Date of 2021 Amendment
+Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
 
 #### Effective Date of 2018 Amendment
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).

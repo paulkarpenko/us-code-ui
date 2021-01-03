@@ -764,7 +764,7 @@ Section, Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 507, related to refund of pena
 <a id="section-2109"></a>
 ## § 2109. Public vessels
 
-Except as otherwise provided, this subtitle does not apply to a public vessel of the United States. However, this subtitle does apply to a vessel (except a Saint Lawrence Seaway Development Corporation vessel) owned or operated by the Department of Transportation or by any corporation organized or controlled by the Department.
+Except as otherwise provided, this subtitle does not apply to a public vessel of the United States. However, this subtitle does apply to a vessel (except a Great Lakes St. Lawrence Seaway Development Corporation vessel) owned or operated by the Department of Transportation or by any corporation organized or controlled by the Department.
 
 ### Statutory Notes
 
@@ -776,6 +776,8 @@ Except as otherwise provided, this subtitle does not apply to a public vessel of
 Section 2109 exempts public vessels from the applicability of the maritime safety and seamen’s welfare laws of this subtitle although some public vessels are inspected under interagency voluntary agreements.
 
 #### Amendments
+2020—Pub. L. 116–260 substituted “Great Lakes St. Lawrence Seaway Development Corporation” for “Saint Lawrence Seaway Development Corporation”.
+
 2010—Pub. L. 111–281 amended directory language of Pub. L. 109–241, § 902(e)(1). See 2006 Amendment note below.
 
 2006—Pub. L. 109–241, § 902(e)(1), as amended by Pub. L. 111–281, struck out “a Coast Guard or” after “(except”.

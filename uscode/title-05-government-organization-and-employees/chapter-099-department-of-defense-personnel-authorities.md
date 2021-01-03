@@ -431,10 +431,56 @@ Reference to the Director of Central Intelligence or the Director of the Central
 
 (1) Any position involved with Department maintenance activities, including depot-level maintenance and repair.
 
-(2) Any position involved with cybersecurity.
+(2) Any cyber workforce position.
 
 (3) Any individual in the acquisition workforce that manages any services contracts necessary to the operation and maintenance of programs of the Department.
 
 (4) Any science, technology, or engineering position, including any such position at the Major Range and Test Facilities Base, in order to allow development of new systems and provide for the maintenance of legacy systems.
 
-**(b) Sunset.—** Effective on September 30, 2025, the authority provided under subsection (a) shall expire.
+(5) Any scientific, technical, engineering, or mathematics positions, including technicians, within the defense acquisition workforce, or any category of acquisition positions within the Department designated by the Secretary as a shortage or critical need category.
+
+(6) Any scientific, technical, engineering, or mathematics position, except any such position within any defense Scientific and Technology Reinvention Laboratory, for which a qualified candidate is required to possess a bachelor’s degree or an advanced degree, or for which a veteran candidate is being considered.
+
+(7) Any category of medical or health professional positions within the Department designated by the Secretary as a shortage category or critical need occupation.
+
+(8) Any childcare services position for which there is a critical hiring need and a shortage of childcare providers.
+
+(9) Any financial management, accounting, auditing, actuarial, cost estimation, operational research, or business or business administration position for which a qualified candidate is required to possess a finance, accounting, management or actuarial science degree or a related degree, or a related degree of equivalent experience.
+
+(10) Any position, as determined by the Secretary, for the purpose of assisting and facilitating the efforts of the Department in business transformation and management innovation.
+
+(11) Any position in the military housing office of a military installation whose primary function is supervision of military housing covered by subchapter IV of chapter 169 of title 10.
+
+**(b) Sunset.—**
+
+(1) **In general.—** — Except as provided in paragraph (2), effective on September 30, 2025, the authority provided under subsection (a) shall expire.
+
+(2) **Exception.—** — Paragraph (1) shall not apply to the authority provided under subsection (a) to make appointments to positions described under paragraph (5) of such subsection.
+
+**(c) Suspension of Other Hiring Authorities.—** During the period beginning on the effective date of the regulations issued to carry out the hiring authority with respect to positions described in paragraphs (5) through (10) of subsection (a) and ending on the date described in subsection (b)(1), the Secretary of Defense may not exercise or otherwise use any hiring authority provided under the following provisions of law:
+
+(1) Sections 1599c(a)(2) and 1705(h) of title 10.
+
+(2) Sections 1112 and 1113 of the National Defense Authorization Act for Fiscal Year 2016 (Public Law 114–92; 129 Stat. 1033).
+
+(3) Sections 1110 and 1643(a)(3) of the National Defense Authorization Act for Fiscal Year 2017 (Public Law 114–328; 130 Stat. 2450 and 2602).
+
+(4) Sections 559 and 1101 of the National Defense Authorization Act for Fiscal Year 2018 (Public Law 115–91; 131 Stat. 1406 and 1627).
+
+### Statutory Notes
+
+#### References in Text
+Sections 1112 and 1113 of Pub. L. 114–92, referred to in subsec. (c)(2), are sections 1112 and 1113 of Pub. L. 114–92, div. A, title XI, Nov. 25, 2015, 129 Stat. 1033, which are set out as notes under [section 1701 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1701&num=0&edition=prelim), Armed Forces.
+
+Sections 1110 and 1643(a)(3) of Pub. L. 114–328, referred to in subsec. (c)(3), are section 1110 of Pub. L. 114–328, div. A, title XI, Dec. 23, 2016, 130 Stat. 2450, which is set out as a note preceding [section 1580 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1580&num=0&edition=prelim), Armed Forces, and section 1643(a)(3) of Pub. L. 114–328, div. A, title XVI, Dec. 23, 2016, 130 Stat. 2602, which is set out in a note under [section 1599f of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1599f&num=0&edition=prelim).
+
+Sections 559 and 1101 of Pub. L. 115–91, referred to in subsec. (c)(4), are section 559 of Pub. L. 115–91, div. A, title V, Dec. 12, 2017, 131 Stat. 1406, which is set out as a note under [section 1792 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1792&num=0&edition=prelim), Armed Forces, and section 1101 of Pub. L. 115–91, div. A, title XI, Dec. 12, 2017, 131 Stat. 1627, which is set out as a note preceding [section 1580 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1580&num=0&edition=prelim).
+
+#### Amendments
+2021—Subsec. (a)(11). Pub. L. 116–283 added par. (11).
+
+2019—Subsec. (a)(2). Pub. L. 116–92, § 1109(a)(1)(A), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “Any position involved with cybersecurity.”
+
+Subsec. (a)(5) to (10). Pub. L. 116–92, § 1109(a)(1)(B), added pars. (5) to (10).
+
+Subsecs. (b), (c). Pub. L. 116–92, § 1109(a)(2), added subsecs. (b) and (c) and struck out former subsec. (b) which provided that effective on Sept. 30, 2025, the authority provided under subsec. (a) would expire.

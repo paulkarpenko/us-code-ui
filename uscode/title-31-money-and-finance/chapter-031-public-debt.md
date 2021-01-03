@@ -568,6 +568,9 @@ Subsec. (c)(5). Pub. L. 97–452, § 1(7), struck out “(expressed in terms of 
 #### Effective Date of 1994 Amendment
 Pub. L. 103–465, title VII, § 745(b), Dec. 8, 1994, 108 Stat. 5011, provided that: “The amendment made by this section [amending this section] shall apply to bonds issued after October 31, 1994.”
 
+#### Transitional Rule
+Pub. L. 97–248, title II, § 289(b), Sept. 3, 1982, 96 Stat. 57, provided that for a savings bond issued before the 30th day after Sept. 3, 1982, for purposes of sections 757c and 757c–2 of former Title 31, the minimum yield for the period held is the scheduled investment yield for the period in effect on the 30th day.
+
 #### Ex. Ord. No. 11981. Interagency Committee for the Purchase of United States Bonds
 Ex. Ord. No. 11981, Mar. 29, 1977, 42 F.R. 17095, provided:
 
@@ -598,9 +601,6 @@ Sec. 4. As used in this Order, the term “Federal agencies” means departments
 Sec. 5. This Order supersedes Executive Order No. 11532 of June 2, 1970.
 
 Jimmy Carter.
-
-#### Transitional Rule
-Pub. L. 97–248, title II, § 289(b), Sept. 3, 1982, 96 Stat. 57, provided that for a savings bond issued before the 30th day after Sept. 3, 1982, for purposes of sections 757c and 757c–2 of former Title 31, the minimum yield for the period held is the scheduled investment yield for the period in effect on the 30th day.
 
 
 <a id="section-3106"></a>

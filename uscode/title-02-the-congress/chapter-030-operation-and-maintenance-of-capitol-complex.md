@@ -926,13 +926,21 @@ Committee on House Oversight of House of Representatives changed to Committee on
 
 (1) There is established in the Treasury of the United States a revolving fund for the House of Representatives to be known as the “House Child Care Center Revolving Fund” (hereafter in this section referred to as the “Fund”), consisting of the amounts received under subsection (c) and any other funds deposited by the Chief Administrative Officer of the House of Representatives from amounts received by the House of Representatives with respect to the operation of the center. Except as provided in paragraphs (2) and (3), the Fund shall be the exclusive source for all salaries and expenses for activities carried out under this section.
 
-(2) With respect to employees of the center, the House of Representatives shall make Government contributions and payments for health insurance, retirement, employment taxes, and similar benefits and programs in the same manner as such contributions and payments are made for other employees of the House of Representatives.
+(2) With respect to employees of the center, the House of Representatives shall make Government contributions and payments for health insurance, retirement, employment taxes, and similar benefits and programs (including the subsidies provided on behalf of employees of the center as a result of reductions in the amount of tuition otherwise charged with respect to children of such employees under paragraph (4)) in the same manner as such contributions and payments are made for other employees of the House of Representatives.
 
 (3) The House of Representatives shall make payments from amounts provided in appropriations acts for salaries and expenses of the Office of the Chief Administrative Officer for the following activities carried out under this section:
 
-  (A) The payment of the salary of the director of the center.
+  (A) The payment of the salary of the director of the center, and, at the option of the Chief Administrative Officer during an emergency situation, the payment of the salary of other employees of the Center.
 
   (B) The reimbursement of individuals employed by the center for the cost of training classes and conferences in connection with the provision of child care services, together with the cost of travel (including transportation and subsistence) incurred in connection with such classes and conferences.
+
+  (C) During an emergency situation, the payment of such other expenses for activities carried out under this section as the Chief Administrative Officer determines appropriate.
+
+(4) In the case of a child of an employee of the center who is furnished care at the center, the Chief Administrative Officer shall reduce the amount of tuition otherwise charged with respect to such child during a month by the greater of—
+
+  (A) 50 percent; or
+
+  (B) such percentage as may be necessary to ensure that the total amount of tuition paid by the employee with respect to all children of the employee who are furnished care at the center during the month does not exceed $1,000.
 
 **(e) Fund as category of allowances and expenses** The Fund shall be treated as a category of allowances and expenses for purposes of [section 5507(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section5507/a&num=0&edition=prelim).
 
@@ -952,6 +960,14 @@ Section was classified to section 184g of former Title 40, prior to the enactmen
 Section is comprised of section 312 of Pub. L. 102–90. Another subsec. (f) of section 312 of Pub. L. 102–90 repealed sections 184b to 184f of former Title 40, Public Buildings, Property, and Works.
 
 #### Amendments
+2020—Subsec. (d)(3)(A). Pub. L. 116–136, § 19002(a)(1), substituted “, and, at the option of the Chief Administrative Officer during an emergency situation, the payment of the salary of other employees of the Center.” for period at end.
+
+Subsec. (d)(3)(C). Pub. L. 116–136, § 19002(a)(2), which directed that subpar. (C) be added “at the end” of subsec. (d)(3)(A), was executed by adding subpar. (C) at the end of subsec. (d)(3), to reflect the probable intent of Congress.
+
+2019—Subsec. (d)(2). Pub. L. 116–94, § 117(b), inserted “(including the subsidies provided on behalf of employees of the center as a result of reductions in the amount of tuition otherwise charged with respect to children of such employees under paragraph (4))” after “similar benefits and programs”.
+
+Subsec. (d)(4). Pub. L. 116–94, § 117(a), added par. (4).
+
 2010—Subsec. (d)(1). Pub. L. 111–248, § 2(a)(1), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “There is established an account which, subject to appropriation, and except as provided in paragraphs (2) and (3), shall be the exclusive source for all salaries and expenses for activities carried out under this section. The Chief Administrative Officer shall deposit in the account any amounts received under subsection (c) of this section.”
 
 Subsecs. (e), (f). Pub. L. 111–248, § 2(b), added subsec. (e) and redesignated former subsec. (e) as (f).
@@ -984,6 +1000,12 @@ Subsec. (d)(2). Pub. L. 104–186, § 221(5)(C), substituted “With respect” 
 Committee on House Oversight of House of Representatives changed to Committee on House Administration of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999.
 
 “Government Publishing Office” substituted for “Government Printing Office” in subsec. (f)(2) on authority of section 1301(b) of Pub. L. 113–235, set out as a note preceding [section 301 of Title 44](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section301&num=0&edition=prelim), Public Printing and Documents.
+
+#### Effective Date of 2020 Amendment
+Pub. L. 116–136, div. B, title IX, § 19002(b), Mar. 27, 2020, 134 Stat. 577, provided that: “The amendment made by subsection (a) [amending this section] shall apply with respect to fiscal year 2020 and each succeeding fiscal year.”
+
+#### Effective Date of 2019 Amendment
+Pub. L. 116–94, div. E, title I, § 117(c), Dec. 20, 2019, 133 Stat. 2761, provided that: “The amendments made by this section [amending this section] shall apply with respect to fiscal year 2020 and each succeeding fiscal year.”
 
 #### Effective Date of 2010 Amendment
 Pub. L. 111–248, § 2(c), Sept. 30, 2010, 124 Stat. 2626, provided that: “This section [amending this section and enacting provisions set out as a note under this section] and the amendments made by this section shall take effect October 1, 2010, and shall apply with respect to fiscal year 2011 and each succeeding fiscal year.”
@@ -1036,6 +1058,11 @@ For Senate Resolution 269, referred to in subsec. (a), see References in Text no
 
 #### Codification
 Section was classified to section 214c of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, § 1, Aug. 21, 2002, 116 Stat. 1062.
+
+#### Source of Funds Used for Payment of Salaries and Expenses of Senate Employee Child Care Center
+Pub. L. 116–136, div. B, title IX, § 19001, Mar. 27, 2020, 134 Stat. 577, as amended by Pub. L. 116–260, div. O, title XI, § 1101(a), Dec. 27, 2020, 134 Stat. 2156, provided that: “(a) Reimbursements.—During the period beginning on July 1, 2020 and ending on the termination date of the public health emergency declared pursuant to section 319 of the Public Health Service Act ([42 U.S.C. 247d](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section247d&num=0&edition=prelim)) resulting from the COVID–19 pandemic, the Secretary of the Senate shall reimburse the Senate Employee Child Care Center for expenses, due to measures taken in the Capitol complex to combat coronavirus, as calculated under subsection (b) and from amounts in the appropriations account ‘Miscellaneous Items’ within the contingent fund of the Senate. “(b) Amount.—The amount of the reimbursement under this section for each month of the period described in subsection (a) shall be equal to the difference between—“(1) the lesser of—“(A) the amount of the operating costs (including payroll, general, and administrative expenses) of the Center for such month; or “(B) $105,000; and “(2) the amount of tuition payments collected by the Center for such month.”
+
+[For definition of “coronavirus” as used in section 19001 of Pub. L. 116–136, set out above, see section 23005 of Pub. L. 116–136, set out as a note under [section 162b of this title](./chapter-005-library-of-congress.md#section-162b).]
 
 
 <a id="section-2064"></a>

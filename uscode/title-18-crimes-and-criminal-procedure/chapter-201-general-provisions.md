@@ -598,7 +598,7 @@ Section effective 30 days after Oct. 12, 1984, see section 1409(a) of Pub. L. 98
 
 (3) **Grants.—** — Of the amounts in the Fund used under paragraph (1), not less than $2,000,000, if such amounts are available in the Fund during the relevant fiscal year, shall be used for grants to provide services for child pornography victims and child victims of a severe form of trafficking (as defined in section 103 of the Victims of Trafficking and Violence Protection Act of 2000 ([22 U.S.C. 7102](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section7102&num=0&edition=prelim))) under section 214(b) of the Victims of Child Abuse Act of 1990 ([42 U.S.C. 13002(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section13002/b&num=0&edition=prelim)).1
 
-(4) **Application of provision.—** — The application of the provisions of section 221(c) of the Medicare Access and CHIP Reauthorization Act of 2015, section 50901(e) of the Advancing Chronic Care, Extenders, and Social Services Act,,22 So in original. section 1101(d) of division B of the Continuing Appropriations Act, 2020, and Health Extenders Act of 2019, and section 1101(d) of the Further Continuing Appropriations Act, 2020, and Further Health Extenders Act of 2019 shall continue to apply to the amounts transferred pursuant to paragraph (1).
+(4) **Application of provision.—** — The application of the provisions of section 221(c) of the Medicare Access and CHIP Reauthorization Act of 2015, section 50901(e) of the Advancing Chronic Care, Extenders, and Social Services Act, section 3831 of the CARES Act, section 2101 of the Continuing Appropriations Act, 2021 and Other Extensions Act,,22 So in original. section 1201(d) of the Further Continuing Appropriations Act, 2021, and Other Extensions Act, and section 301(d) of division BB of the Consolidated Appropriations Act, 2021.2 shall continue to apply to the amounts transferred pursuant to paragraph (1).
 
 ### Statutory Notes
 
@@ -611,16 +611,30 @@ Section 214(b) of the Victims of Child Abuse Act of 1990, referred to in subsecs
 
 Section 106 of the PROTECT Our Children Act of 2008, referred to in subsec. (e)(1)(D), is section 106 of Pub. L. 110–401, which was classified to [section 17616 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section17616&num=0&edition=prelim), The Public Health and Welfare, prior to editorial reclassification as [section 21116 of Title 34](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section21116&num=0&edition=prelim), Crime Control and Law Enforcement.
 
-Section 221 of the Medicare Access and CHIP Reauthorization Act of 2015, referred to in subsec. (h)(1), (4), is section 221 of Pub. L. 114–10, title II, Apr. 16, 2015, 129 Stat. 154. Section 221(a)(1) of the Act amended [section 254b–2(b)(1)(E) of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section254b–2/b/1/E&num=0&edition=prelim), The Public Health and Welfare. Section 221(c) of the Act provided for a condition on certain appropriations and is not classified to the Code.
+Section 221 of the Medicare Access and CHIP Reauthorization Act of 2015, referred to in subsec. (h)(4), is section 221 of Pub. L. 114–10, title II, Apr. 16, 2015, 129 Stat. 154. Section 221(c) of the Act provided for a condition on certain appropriations and is not classified to the Code.
 
 Section 50901(e) of the Advancing Chronic Care, Extenders, and Social Services Act, referred to in subsec. (h)(4), is section 50901(e) of Pub. L. 115–123, div. E, title IX, Feb. 9, 2018, 132 Stat. 289. Section 50901(e) of the Act related to application of amounts appropriated pursuant to that section and is not classified to the Code.
 
-Section 1101(d) of division B of the Continuing Appropriations Act, 2020, and Health Extenders Act of 2019, referred to in subsec. (h)(4), is section 1101(d) of Pub. L. 116–59, div. B, title I, Sept. 27, 2019, 133 Stat. 1102. Section 1101(d) of the Act related to application of amounts appropriated pursuant to that section and is not classified to the Code.
+Section 3831 of the CARES Act, referred to in subsec. (h)(4), is section 3831 of Pub. L. 116–136, div. A, title III, Mar. 27, 2020, 134 Stat. 433, which amended this section and sections 254b–2 and 256h of Title 42, The Public Health and Welfare, and contained provisions related to application of amounts appropriated pursuant to the amendments made by that section which are not classified to the Code.
 
-Section 1101(d) of the Further Continuing Appropriations Act, 2020, and Further Health Extenders Act of 2019, referred to in subsec. (h)(4), is section 1101(d) of Pub. L. 116–69, div. B, title I, Nov. 21, 2019, 133 Stat. 1136. Section 1101(d) of the Act related to application of amounts appropriated pursuant to that section and is not classified to the Code.
+Section 2101 of the Continuing Appropriations Act, 2021 and Other Extensions Act, referred to in subsec. (h)(4), is section 2101 of Pub. L. 116–159, div. C, title I, Oct. 1, 2020, 134 Stat. 728, which amended this section and sections 254b–2 and 256h of Title 42, The Public Health and Welfare, and contained provisions related to application of amounts appropriated pursuant to the amendments made by that section which are not classified to the Code.
+
+Section 1201(d) of the Further Continuing Appropriations Act, 2021, and Other Extensions Act, referred to in subsec. (h)(4), is section 1201(d) of Pub. L. 116–215, div. B, title II, Dec. 11, 2020, 134 Stat. 1044, which related to application of amounts appropriated pursuant to the amendments made by that section and is not classified to the Code.
+
+Section 301(d) of division BB of the Consolidated Appropriations Act, 2021, referred to in subsec. (h)(4), is section 301(d) of Pub. L. 116–260, div. BB, title III, Dec. 27, 2020, 134 Stat. 2922, which related to application of amounts appropriated pursuant to the amendments made by that section and is not classified to the Code.
 
 #### Amendments
-2019—Subsec. (h)(4). Pub. L. 116–69 substituted “, section 1101(d) of division B of the Continuing Appropriations Act, 2020, and Health Extenders Act of 2019, and section 1101(d) of the Further Continuing Appropriations Act, 2020, and Further Health Extenders Act of 2019” for “and section 1101(d) of division B of the Continuing Appropriations Act, 2020, and Health Extenders Act of 2019”.
+2020—Subsec. (h)(4). Pub. L. 116–260 substituted “, section 1201(d) of the Further Continuing Appropriations Act, 2021, and Other Extensions Act, and section 301(d) of division BB of the Consolidated Appropriations Act, 2021.” for “and section 1201(d) of the Further Continuing Appropriations Act, 2021, and Other Extensions Act”.
+
+Pub. L. 116–215 substituted “Social Services Act,” for “Social Services Act,,” and “section 2101 of the Continuing Appropriations Act, 2021 and Other Extensions Act, and section 1201(d) of the Further Continuing Appropriations Act, 2021, and Other Extensions Act” for “and section 2101 of the Continuing Appropriations Act, 2021 and Other Extensions Act”.
+
+Pub. L. 116–159 substituted “Social Services Act,” for “Social Services Act,,,” and “, section 3831 of the CARES Act, and section 2101 of the Continuing Appropriations Act, 2021 and Other Extensions Act” for “and section 3831 of the CARES Act”.
+
+Pub. L. 116–136 substituted “section 3831 of the CARES Act” for “section 401(d) of division N of the Further Consolidated Appropriations Act, 2020”.
+
+2019—Subsec. (h)(4). Pub. L. 116–94 substituted “, and section 401(d) of division N of the Further Consolidated Appropriations Act, 2020” for “section 1101(d) of division B of the Continuing Appropriations Act, 2020, and Health Extenders Act of 2019, and section 1101(d) of the Further Continuing Appropriations Act, 2020, and Further Health Extenders Act of 2019”.
+
+Pub. L. 116–69 substituted “, section 1101(d) of division B of the Continuing Appropriations Act, 2020, and Health Extenders Act of 2019, and section 1101(d) of the Further Continuing Appropriations Act, 2020, and Further Health Extenders Act of 2019” for “and section 1101(d) of division B of the Continuing Appropriations Act, 2020, and Health Extenders Act of 2019”.
 
 Pub. L. 116–59 substituted “, section 50901(e) of the Advancing Chronic Care, Extenders, and Social Services Act, and section 1101(d) of division B of the Continuing Appropriations Act, 2020, and Health Extenders Act of 2019” for “and section 50901(e) of the Advancing Chronic Care, Extenders, and Social Services Act”.
 

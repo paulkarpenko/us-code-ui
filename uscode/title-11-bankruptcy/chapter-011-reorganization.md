@@ -2737,11 +2737,38 @@ Section effective 180 days after Aug. 23, 2019, see section 5 of Pub. L. 116–5
 
 In this subchapter:
 
-(1) **Debtor.—** — The term “debtor” means a small business debtor.
+(1) **Debtor.—** — The term “debtor”—
+
+  (A) subject to subparagraph (B), means a person engaged in commercial or business activities (including any affiliate of such person that is also a debtor under this title and excluding a person whose primary activity is the business of owning single asset real estate) that has aggregate noncontingent liquidated secured and unsecured debts as of the date of the filing of the petition or the date of the order for relief in an amount not more than $7,500,000 (excluding debts owed to 1 or more affiliates or insiders) not less than 50 percent of which arose from the commercial or business activities of the debtor; and
+
+  (B) does not include—
+
+    (i) any member of a group of affiliated debtors that has aggregate noncontingent liquidated secured and unsecured debts in an amount greater than $7,500,000 (excluding debt owed to 1 or more affiliates or insiders);
+
+    (ii) any debtor that is a corporation subject to the reporting requirements under section 13 or 15(d) of the Securities Exchange Act of 1934 ([15 U.S.C. 78m](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section78m&num=0&edition=prelim), 78o(d)); or
+
+    (iii) any debtor that is an affiliate of an issuer, as defined in section 3 of the Securities Exchange Act of 1934 ([15 U.S.C. 78c](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section78c&num=0&edition=prelim)).
 
 (2) **Debtor in possession.—** — The term “debtor in possession” means the debtor, unless removed as debtor in possession under [section 1185(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title11-section1185/a&num=0&edition=prelim).
 
 ### Statutory Notes
+
+#### Amendment of Paragraph (1)
+Pub. L. 116–136, div. A, title I, § 1113(a)(5), Mar. 27, 2020, 134 Stat. 311, provided that 1 year after Mar. 27, 2020, paragraph (1) of this section is amended to read as follows:
+
+(1) Debtor.—The term “debtor” means a small business debtor.
+
+See 2020 Amendment note below.
+
+#### Amendments
+2020—Par. (1). Pub. L. 116–136, § 1113(a)(5), amended par. (1) generally. Prior to amendment, par. (1) consisted of subpars. (A) and (B) defining “debtor”.
+
+Pub. L. 116–136, § 1113(a)(1), temporarily amended par. (1) generally. Prior to amendment, text read as follows: “The term ‘debtor’ means a small business debtor.”
+
+#### Effective Date of 2020 Amendment
+Pub. L. 116–136, div. A, title I, § 1113(a)(3), Mar. 27, 2020, 134 Stat. 311, provided that: “The amendment made by paragraph (1) [amending this section] shall apply only with respect to cases commenced under title 11, United States Code, on or after the date of enactment of this Act [Mar. 27, 2020].”
+
+Pub. L. 116–136, div. A, title I, § 1113(a)(5), Mar. 27, 2020, 134 Stat. 311, provided in part that the amendment made by section 1113(a)(5) of Pub. L. 116–136 is effective 1 year after Mar. 27, 2020.
 
 #### Effective Date
 Section effective 180 days after Aug. 23, 2019, see section 5 of Pub. L. 116–54, set out as an Effective Date of 2019 Amendment note under [section 101 of this title](./chapter-001-general-provisions.md#section-101).
@@ -2932,6 +2959,23 @@ Section effective 180 days after Aug. 23, 2019, see section 5 of Pub. L. 116–5
 **(e) Special Rule.—** Notwithstanding [section 1129(a)(9)(A) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title11-section1129/a/9/A&num=0&edition=prelim), a plan that provides for the payment through the plan of a claim of a kind specified in paragraph (2) or (3) of [section 507(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title11-section507/a&num=0&edition=prelim) may be confirmed under subsection (b) of this section.
 
 ### Statutory Notes
+
+#### Amendment of Section and Termination of Amendment
+Pub. L. 116–260, div. N, title III, § 320(c), (f)(1), Dec. 27, 2020, 134 Stat. 2016, provided that, effective on the date on which the Administrator of the Small Business Administration submits to the Director of the Executive Office for United States Trustees a written determination that, subject to satisfying any other eligibility requirements, any debtor in possession or trustee that is authorized to operate the business of the debtor under section 1183, 1184, 1203, 1204, or 1304 of this title would be eligible for a loan under paragraphs (36) and (37) of [section 636(a) of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section636/a&num=0&edition=prelim), Commerce and Trade, and applicable to any case pending on or commenced on or after such effective date, this section is amended by adding at the end the following:
+
+(f) Special Provision Related to COVID–19 Pandemic.—Notwithstanding [section 1129(a)(9)(A) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title11-section1129/a/9/A&num=0&edition=prelim) and subsection (e) of this section, a plan that provides for payment of a claim of a kind specified in [section 503(b)(10) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title11-section503/b/10&num=0&edition=prelim) may be confirmed under subsection (b) of this section if the plan proposes to make payments on account of such claim when due under the terms of the loan giving rise to such claim.
+
+Pub. L. 116–260, div. N, title III, § 320(f)(2), Dec. 27, 2020, 134 Stat. 2016, provided that, if the amendment made to this section by Pub. L. 116–260, § 320(c), takes effect, effective on the date that is 2 years after Dec. 27, 2020, with provisions relating to applicability to cases commenced before such date, this section is amended by striking subsection (f).
+
+See 2020 Amendment notes below.
+
+#### Amendments
+2020—Subsec. (f). Pub. L. 116–260, § 320(f)(2)(A)(iii), contingent on its addition by Pub. L. 116–260, § 320(c), struck out subsec. (f). Text read as follows: “Notwithstanding [section 1129(a)(9)(A) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title11-section1129/a/9/A&num=0&edition=prelim) and subsection (e) of this section, a plan that provides for payment of a claim of a kind specified in [section 503(b)(10) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title11-section503/b/10&num=0&edition=prelim) may be confirmed under subsection (b) of this section if the plan proposes to make payments on account of such claim when due under the terms of the loan giving rise to such claim.”
+
+Pub. L. 116–260, § 320(c), added subsec. (f).
+
+#### Effective and Termination Dates of 2020 Amendment
+Amendment by section 320(c) of div. N of Pub. L. 116–260 effective on the date on which the Administrator of the Small Business Administration submits to the Director of the Executive Office for United States Trustees a written determination relating to loan eligibility under pars. (36) and (37) of [section 636(a) of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section636/a&num=0&edition=prelim), Commerce and Trade, and applicable to any case pending on or commenced on or after such date, and amendment by section 320(f)(2)(A)(iii) of div. N of Pub. L. 116–260, relating to repeal of such amendment if it became effective, effective two years after Dec. 27, 2020, see section 320(f) of Pub. L. 116–260, set out as a note under [section 364 of this title](./chapter-003-case-administration.md#section-364).
 
 #### Effective Date
 Section effective 180 days after Aug. 23, 2019, see section 5 of Pub. L. 116–54, set out as an Effective Date of 2019 Amendment note under [section 101 of this title](./chapter-001-general-provisions.md#section-101).

@@ -2,7 +2,7 @@
 title: 7
 chapter: '55'
 heading: DEPARTMENT OF AGRICULTURE
-section_count: 159
+section_count: 161
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7&num=0&edition=prelim
 ---
@@ -1448,6 +1448,28 @@ Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110�
 Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as a note under [section 8701 of this title](./chapter-113-agricultural-commodity-support-programs.md#section-8701).
 
 
+<a id="section-2209k"></a>
+## § 2209k. Prohibition on payments to fossil fuel refiners and importers
+**(a) In general** The Secretary of Agriculture may not use any funds, facilities, or authorities of the Commodity Credit Corporation or the Department of Agriculture—
+
+(1) to provide a payment to a refiner or importer (as those terms are defined in section 80.2 of title 40, Code of Federal Regulations (or successor regulations)); or
+
+(2) to otherwise support, directly or indirectly, a refiner or importer (as so defined) in meeting any requirements under—
+
+  (A) the renewable fuel program under section 7545(o) of title 42; or
+
+  (B) any other provision of law that requires the blending of fossil fuel with renewable fuel.
+
+**(b) The exclusion in (a) shall not apply to any payments or support to producers, refiners, or importers of biofuel (as defined in [section 8101 of this title](./chapter-107-renewable-energy-research-and-development.md#section-8101)).**
+
+**(c) Moratorium on authorities relating to exchanges of agricultural products for petroleum products** The authorities under the ninth and tenth sentences of [section 714b(h) of title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section714b/h&num=0&edition=prelim) (relating to the availability of agricultural products for the Secretary of Energy to exchange for petroleum products and the terms and conditions of those exchanges, respectively) shall not be used during the 180-day period beginning on October 1, 2020.
+
+### Statutory Notes
+
+#### References in Text
+[Section 8101 of this title](./chapter-107-renewable-energy-research-and-development.md#section-8101), referred to in subsec. (b), was in the original “[7 U.S.C. 8101](./chapter-107-renewable-energy-research-and-development.md#section-8101)” but probably should have been a reference to section 9001 of the Farm Security and Rural Investment Act of 2002, Pub. L. 107–171, which is classified to [section 8101 of this title](./chapter-107-renewable-energy-research-and-development.md#section-8101).
+
+
 <a id="section-2210"></a>
 ## § 2210. Deputy Secretary of Agriculture; appointment
 
@@ -2419,6 +2441,10 @@ Section was formerly classified to [section 568a of Title 5](https://uscode.hous
 #### Prior Provisions
 Provisions similar to those in this section were contained in the following prior appropriation acts:
 
+Pub. L. 116–94, div. B, title I, Dec. 20, 2019, 133 Stat. 2615.
+
+Pub. L. 116–6, div. B, title I, Feb. 15, 2019, 133 Stat. 48.
+
 Pub. L. 115–141, div. A, title I, Mar. 23, 2018, 132 Stat. 354.
 
 Pub. L. 115–31, div. A, title I, May 5, 2017, 131 Stat. 141.
@@ -2578,6 +2604,12 @@ On and after December 26, 2007, none of the funds appropriated under this headin
 
 #### References in Text
 This heading, referred to in text, refers to the headings “Cooperative State Research, Education, and Extension Service” and “research and education activities” of title I of div. A of the Consolidated Appropriations Act, 2008, Pub. L. 110–161.
+
+
+<a id="section-2254c"></a>
+## § 2254c. Research
+
+There is appropriated, out of any funds in the Treasury not otherwise appropriated, $20,000,000 for fiscal year 2021 and each fiscal year thereafter for the Agricultural Research Service to address gaps in nutrition research at the critical intersections of responsive agriculture, quality food production, and human nutrition and health.
 
 
 <a id="section-2255"></a>

@@ -73,7 +73,7 @@ Subsec. (d)(2)(A)(ii). Pub. L. 115–282, § 123(b)(2), substituted “section 9
 1996—Pub. L. 104–324 inserted “of the Coast Guard Auxiliary” after “Administration” in section catchline and amended text generally. Prior to amendment, text read as follows: “The Coast Guard Auxiliary established on February 19, 1941, is a nonmilitary organization administered by the Commandant under the direction of the Secretary.”
 
 #### Use of Coast Guard Auxiliary
-Pub. L. 99–640, § 9, Nov. 10, 1986, 100 Stat. 3548, provided that: “(a) It is the sense of the Congress that the Coast Guard Auxiliary performs a broad range of services in behalf of the safety and security of the American people, and that the continued strength and vitality of the Coast Guard Auxiliary is important to the United States. “(b)(1) The Secretary of Transportation shall investigate and submit to the Congress a report within 1 year after the date of enactment of this Act [Nov. 10, 1986] regarding—“(A) the extent to which membership of the Coast Guard Auxiliary has declined in recent years and the causes of such decline; “(B) the effect, if any, on the maritime community of any such decline in the performance levels of the Coast Guard Auxiliary in the areas of life-saving, assistance to persons in distress, safety patrols and inspections, and support missions for the Coast Guard; and “(C) the effect, if any, of the Coast Guard’s non-emergency assistance policy on the overall effectiveness of the Coast Guard Auxiliary. “(2) The report submitted by the Secretary under this section shall include such recommendations for legislative and administrative action as the Secretary considers appropriate to achieve and maintain the Coast Guard Auxiliary at its optimum strength.”
+Pub. L. 99–640, § 9, Nov. 10, 1986, 100 Stat. 3548, required the Secretary of Transportation to investigate and submit to Congress a report within 1 year after Nov. 10, 1986, regarding the membership decline in the Coast Guard Auxiliary, its effect on the maritime community, and recommendations for legislative and administrative action to achieve and maintain the Coast Guard Auxiliary at its optimum strength.
 
 
 <a id="section-3902"></a>
@@ -159,7 +159,7 @@ Changes were made in phraseology. 81st Congress, House Report No. 557.
 
 (7) Compensation for work injuries under chapter 81 of title 5.
 
-(8) The resolution of claims relating to damage to or loss of personal property of the member incident to service under the Military Personnel and Civilian Employees’ Claims Act of 1964 ([31 U.S.C. 3721](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section3721&num=0&edition=prelim)).1
+(8) The resolution of claims relating to damage to or loss of personal property of the member incident to service under the Military Personnel and Civilian Employees’ Claims Act of 1964 ([31 U.S.C. 3721](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section3721&num=0&edition=prelim)).11 See References in Text note below.
 
 (9) Section 651 of Public Law 104–208.
 

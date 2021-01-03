@@ -8,7 +8,7 @@ source: >-
 ---
 <a id="section-661"></a>
 ## § 661. Management policies for joint qualified officers
-**(a) Establishment.—** The Secretary of Defense shall establish policies, procedures, and practices for the effective management of officers of the Army, Navy, Air Force, and Marine Corps on the active-duty list who are particularly trained in, and oriented toward, joint matters (as defined in [section 668 of this title](./chapter-038-joint-officer-management.md#section-668)). Such officers shall be identified or designated (in addition to their principal military occupational specialty) as a joint qualified officer or in such other manner as the Secretary of Defense directs.
+**(a) Establishment.—** The Secretary of Defense shall establish policies, procedures, and practices for the effective management of officers of the Army, Navy, Air Force, Marine Corps, and Space Force on the active-duty list who are particularly trained in, and oriented toward, joint matters (as defined in [section 668 of this title](./chapter-038-joint-officer-management.md#section-668)). Such officers shall be identified or designated (in addition to their principal military occupational specialty) as a joint qualified officer or in such other manner as the Secretary of Defense directs.
 
 **(b) Levels, Designation, and Numbers.—**
 
@@ -74,7 +74,7 @@ source: >-
 
     (ii) was selected for the joint specialty before October 1, 2007.
 
-  (B) The Secretary of Defense may waive the requirement in subparagraph (A) with respect to the assignment of an officer to a position designated under paragraph (2). Any such waiver shall be granted on a case-by-case basis. The authority of the Secretary to grant such a waiver may be delegated only to the Chairman of the Joint Chiefs of Staff.
+  (B) The Secretary of Defense may waive the requirement in subparagraph (A) with respect to the assignment of an officer to a position designated under paragraph (2). Any such waiver shall be granted on a case-by-case basis. The authority of the Secretary to grant such a waiver may be delegated only to the Chairman of the Joint Chiefs of Staff or a designee of the Chairman who is an officer of the armed forces in grade O–9 or higher.
 
 (4) The Secretary of Defense shall ensure that, of those joint duty assignment positions that are filled by general or flag officers, a substantial portion are among those positions that are designated under paragraph (2) as critical joint duty assignment positions.
 
@@ -95,6 +95,10 @@ source: >-
 ### Statutory Notes
 
 #### Amendments
+2021—Subsec. (a). Pub. L. 116–283 substituted “Marine Corps, and Space Force” for “and Marine Corps”.
+
+2019—Subsec. (d)(3)(B). Pub. L. 116–92 inserted “or a designee of the Chairman who is an officer of the armed forces in grade O–9 or higher” after “Chairman of the Joint Chiefs of Staff”.
+
 2017—Subsec. (c)(1)(B)(i), (3)(A). Pub. L. 115–91 substituted “664(d)” for “664(f)”.
 
 2008—Pub. L. 110–417 amended section catchline generally, substituting “Management policies for joint qualified officers” for “Management policies for officers who are joint qualified”, and in subsec. (a), substituted “as a joint qualified officer or in such other manner as the Secretary of Defense directs” for “in such manner as the Secretary of Defense directs”.

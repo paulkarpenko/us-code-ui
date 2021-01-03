@@ -116,7 +116,7 @@ For provisions to prevent extinction or premature termination of rights, duties,
 <a id="section-906"></a>
 ## § 906. Extension of enlistment: effect on pay and allowances
 
-A member of the Army, Navy, Air Force, Marine Corps, or Coast Guard, as the case may be, who extends his enlistment under [section 509 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section509&num=0&edition=prelim) is entitled to the same pay and allowances as though he had reenlisted. For the purposes of determining entitlement to reenlistment bonus or to travel and transportation allowances upon discharge, all such extensions of an enlistment are considered one continuous extension.
+A member of the Army, Navy, Air Force, Marine Corps, Space Force, or Coast Guard, as the case may be, who extends his enlistment under [section 509 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section509&num=0&edition=prelim) is entitled to the same pay and allowances as though he had reenlisted. For the purposes of determining entitlement to reenlistment bonus or to travel and transportation allowances upon discharge, all such extensions of an enlistment are considered one continuous extension.
 
 ### Statutory Notes
 
@@ -130,6 +130,8 @@ A member of the Army, Navy, Air Force, Marine Corps, or Coast Guard, as the case
 In subsection (a), the words “who extends his enlistment” are substituted for the words “While serving under an enlistment extended”. The words “same pay and allowances as though he had reenlisted” are substituted for the last 31 words of [section 3263(b) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section3263/b&num=0&edition=prelim) and the last 31 words of [section 8263(b) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section8263/b&num=0&edition=prelim).
 
 #### Amendments
+2021—Pub. L. 116–283 inserted “Space Force,” after “Marine Corps,”.
+
 1968—Pub. L. 90–235 struck out provisions formerly set out as subsec. (a) which provided that a member of the Army or Air Force who had extended his enlistment was entitled to the same pay as though he had reenlisted, redesignated as entire section provisions formerly set out as subsec. (b) and substituted “Army, Navy, Air Force, Marine Corps, or Coast Guard” for “Regular Navy or the Regular Marine Corps” and “[section 509 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section509&num=0&edition=prelim)” for “[section 5539 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section5539&num=0&edition=prelim)”.
 
 #### Transfer of Functions
@@ -255,18 +257,32 @@ Pub. L. 96–343, § 6(c), Sept. 8, 1980, 94 Stat. 1127, provided that: “The a
 
 
 <a id="section-908"></a>
-## § 908. Employment of reserves and retired members by foreign governments
-**(a) Congressional Consent.—** Subject to subsection (b), Congress consents to the following persons accepting civil employment (and compensation for that employment) for which the consent of Congress is required by the last paragraph of section 9 of article I of the Constitution, related to acceptance of emoluments, offices, or titles from a foreign government:
+## § 908. Reserves and retired members: acceptance of employment, payments, and awards from foreign governments
+**(a) Congressional Consent.—** Subject to subsections (b) and (c), Congress consents to the following persons accepting civil employment (and compensation for that employment), accepting payment for speeches, travel, meals, lodging, or registration fees, or accepting a non-cash award, for which the consent of Congress is required by the last paragraph of section 9 of article I of the Constitution, related to acceptance of emoluments, offices, or titles from a foreign government:
 
 (1) Retired members of the uniformed services.
 
-(2) Members of a reserve component of the armed forces.
+(2) Members of a reserve component of the armed forces, except members serving on active duty under a call or order to active duty for a period in excess of 30 days.
 
-(3) Members of the Commissioned Reserve Corps of the Public Health Service.
+(3) Members of the Commissioned Reserve Corps 11 See Change of Name note below. of the Public Health Service.
 
-**(b) Approval Required.—** A person described in subsection (a) may accept employment or compensation described in that subsection only if the Secretary concerned and the Secretary of State approve the employment.
+**(b) Approval Required for Employment and Compensation.—** A person described in subsection (a) may accept employment or compensation described in that subsection only if the Secretary concerned and the Secretary of State approve the employment.
 
-**(c) Military Service in Foreign Armed Forces.—** For a provision of law providing the consent of Congress to service in the military forces of certain foreign nations, see [section 1060 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1060&num=0&edition=prelim).
+**(c) Approval Required for Certain Payments and Awards.—** A person described in subsection (a) may accept payment for speeches, travel, meals, lodging, or registration fees described in that subsection, or accept a non-cash award described in that subsection, only if the Secretary concerned approves the payment or award.
+
+**(d) Annual Reports on Approvals for Retired General and Flag Officers.—**
+
+(1) Not later than January 31 each year, the Secretaries of the military departments, after consulting with the Secretary of State, shall jointly submit to the Committees on Armed Services of the Senate and House of Representatives a report on each approval under subsection (b) for employment or compensation described in subsection (a), and each approval under subsection (c) for a payment or award described in subsection (a), for a retired member of the armed forces in general or flag officer grade that was issued during the preceding year.
+
+(2) The report under paragraph (1) on an approval described in that paragraph with respect to an officer shall set forth the following:
+
+  (A) The foreign government providing the employment or compensation or payment or award.
+
+  (B) The duties, if any, to be performed in connection with the employment or compensation or payment or award.
+
+  (C) The total amount of compensation, if any, or payment to be provided.
+
+**(e) Military Service in Foreign Armed Forces.—** For a provision of law providing the consent of Congress to service in the military forces of certain foreign nations, see [section 1060 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1060&num=0&edition=prelim).
 
 ### Statutory Notes
 
@@ -280,6 +296,22 @@ In subsection (a), the words “for which” are substituted for “with respect
 The text of section 509(c) of the Act of August 17, 1977, is omitted as unnecessary because of the definitions in 37:101.
 
 #### Amendments
+2021—Pub. L. 116–283, § 641(c)(1), amended section catchline generally, substituting “Reserves and retired members: acceptance of employment, payments, and awards from foreign governments” for “Employment of reserves and retired members by foreign governments”.
+
+Subsec. (a). Pub. L. 116–283, § 641(a)(1)(A), in introductory provisions, substituted “subsections (b) and (c)” for “subsection (b)” and inserted “, accepting payment for speeches, travel, meals, lodging, or registration fees, or accepting a non-cash award,” after “that employment)”.
+
+Subsec. (a)(2). Pub. L. 116–283, § 641(a)(1)(B), substituted “armed forces, except members serving on active duty under a call or order to active duty for a period in excess of 30 days” for “armed forces”.
+
+Subsec. (b). Pub. L. 116–283, § 641(a)(2), inserted “for Employment and Compensation” after “Approval Required” in heading.
+
+Subsec. (c). Pub. L. 116–283, § 641(a)(4), added subsec. (c). Former subsec. (c) redesignated (d).
+
+Subsec. (d). Pub. L. 116–283, § 641(a)(3), (b), redesignated subsec. (c) as (d), designated existing provisions as par. (1), inserted “, and each approval under subsection (c) for a payment or award described in subsection (a),” after “in subsection (a)”, and added par. (2). Former subsec. (d) redesignated (e).
+
+Subsec. (e). Pub. L. 116–283, § 641(a)(3), redesignated subsec. (d) as (e).
+
+2019—Subsecs. (c), (d). Pub. L. 116–92, § 651(a), added subsec. (c) and redesignated former subsec. (c) as (d).
+
 1994—Subsec. (c). Pub. L. 103–337 substituted “1060” for “1058”.
 
 1993—Pub. L. 103–160 inserted headings in subsecs. (a) and (b) and added subsec. (c).
@@ -287,6 +319,12 @@ The text of section 509(c) of the Act of August 17, 1977, is omitted as unnecess
 1991—Subsec. (a). Pub. L. 102–25 struck out “of this section” after “subsection (b)”.
 
 Subsec. (b). Pub. L. 102–25 struck out “of this section” after “subsection (a)”.
+
+#### Change of Name
+Reference to Reserve Corps of the Public Health Service deemed to be a reference to the Ready Reserve Corps, see [section 402(c)(3) of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section402/c/3&num=0&edition=prelim), The Public Health and Welfare.
+
+#### Scope of First Report
+Pub. L. 116–92, div. A, title VI, § 651(b), Dec. 20, 2019, 133 Stat. 1431, provided that: “The first report submitted pursuant to subsection (c) of [section 908 of title 37](./chapter-017-miscellaneous-rights-and-benefits.md#section-908), United States Code (as amended by subsection (a) of this section), after the date of the enactment of this Act [Dec. 20, 2019] shall cover the five-year period ending with the year before the year in which such report is submitted.”
 
 
 <a id="section-909"></a>
@@ -353,11 +391,15 @@ Pub. L. 107–107, div. A, title VI, § 623(b), Dec. 28, 2001, 115 Stat. 1143, p
 
 **(f) Regulations.—** This section shall be administered under regulations to be prescribed by the Secretary of Defense.
 
-**(g) Termination.—** No payment shall be made to a member under this section for months beginning after December 31, 2019, unless the entitlement of the member to payments under this section commenced on or before that date.
+**(g) Termination.—** No payment shall be made to a member under this section for months beginning after December 31, 2021, unless the entitlement of the member to payments under this section commenced on or before that date.
 
 ### Statutory Notes
 
 #### Amendments
+2021—Subsec. (g). Pub. L. 116–283 substituted “December 31, 2021” for “December 31, 2020”.
+
+2019—Subsec. (g). Pub. L. 116–92 substituted “December 31, 2020” for “December 31, 2019”.
+
 2018—Subsec. (g). Pub. L. 115–232 substituted “December 31, 2019” for “December 31, 2018”.
 
 2017—Subsec. (g). Pub. L. 115–91 substituted “December 31, 2018” for “December 31, 2017”.

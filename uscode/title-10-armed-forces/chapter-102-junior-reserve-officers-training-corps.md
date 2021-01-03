@@ -2,7 +2,7 @@
 title: 10
 chapter: '102'
 heading: JUNIOR RESERVE OFFICERS’ TRAINING CORPS
-section_count: 5
+section_count: 6
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10&num=0&edition=prelim
 ---
@@ -12,15 +12,15 @@ source: >-
 
 (1) The Secretary of each military department shall establish and maintain a Junior Reserve Officers’ Training Corps, organized into units, at public and private secondary educational institutions which apply for a unit and meet the standards and criteria prescribed pursuant to this section. The President shall promulgate regulations prescribing the standards and criteria to be followed by the military departments in selecting the institutions at which units are to be established and maintained and shall provide for the fair and equitable distribution of such units throughout the Nation, except that more than one such unit may be established and maintained at any military institute.
 
-(2) It is a purpose of the Junior Reserve Officers’ Training Corps to instill in students in United States secondary educational institutions the values of citizenship, service to the United States, and personal responsibility and a sense of accomplishment.
+(2) It is a purpose of the Junior Reserve Officers’ Training Corps to instill in students in United States secondary educational institutions the values of citizenship, service to the United States (including an introduction to service opportunities in military, national, and public service), and personal responsibility and a sense of accomplishment.
 
 **(b)** No unit may be established or maintained at an institution unless—
 
-(1) the number of physically fit students in such unit who are in a grade above the 8th grade and are citizens or nationals of the United States, or aliens lawfully admitted to the United States for permanent residence, is not less than (A) 10 percent of the number of students enrolled in the institution who are in a grade above the 8th grade, or (B) 100, whichever is less;
+(1) the number of physically fit students in such unit who are in a grade above the 7th grade and physically co-located with the 9th grade participating unit and are citizens or nationals of the United States, or aliens lawfully admitted to the United States for permanent residence, is not less than (A) 10 percent of the number of students enrolled in the institution who are in a grade above the 7th grade and physically co-located with the 9th grade participating unit, or (B) 100, whichever is less;
 
 (2) the institution has adequate facilities for classroom instruction, storage of arms and other equipment which may be furnished in support of the unit, and adequate drill areas at or in the immediate vicinity of the institution, as determined by the Secretary of the military department concerned;
 
-(3) the institution provides a course of military instruction of not less than three academic years’ duration, as prescribed by the Secretary of the military department concerned;
+(3) the institution provides a course of military instruction of not less than three academic years’ duration and which may include instruction or activities in the fields of science, technology, engineering, and mathematics, as prescribed by the Secretary of the military department concerned;
 
 (4) the institution agrees to limit membership in the unit to students who maintain acceptable standards of academic achievement and conduct, as prescribed by the Secretary of the military department concerned; and
 
@@ -72,9 +72,23 @@ source: >-
 
 (5) The provision of reimbursement under paragraph (1) or (4) shall be subject to regulations prescribed by the Secretary of Defense for purposes of this subsection.
 
+**(g)**
+
+(1) Each public secondary educational institution that maintains a unit under this section shall permit membership in the unit to homeschooled students residing in the area served by the institution who are qualified for membership in the unit (but for lack of enrollment in the institution).
+
+(2) A student who is a member of a unit pursuant to this subsection shall count toward the satisfaction by the institution concerned of the requirement in subsection (b)(1) relating to the minimum number of student members in the unit necessary for the continuing maintenance of the unit.
+
 ### Statutory Notes
 
 #### Amendments
+2021—Subsec. (a)(2). Pub. L. 116–283 inserted “(including an introduction to service opportunities in military, national, and public service)” after “service to the United States”.
+
+2019—Subsec. (b)(1). Pub. L. 116–92, § 511, substituted “above the 7th grade and physically co-located with the 9th grade participating unit” for “above the 8th grade” in two places.
+
+Subsec. (b)(3). Pub. L. 116–92, § 512(a), inserted “and which may include instruction or activities in the fields of science, technology, engineering, and mathematics” after “duration”.
+
+Subsec. (g). Pub. L. 116–92, § 513, added subsec. (g).
+
 2008—Subsec. (f). Pub. L. 110–181 added subsec. (f).
 
 2006—Subsec. (d). Pub. L. 109–364, § 540(b), inserted “who are in receipt of retired pay” after “retired officers and noncommissioned officers” in introductory provisions.
@@ -110,6 +124,9 @@ Subsec. (b)(5). Pub. L. 98–525, § 422(2)–(4), added par. (5).
 1967—Subsecs. (c), (d). Pub. L. 90–83 substituted “officers and noncommissioned officers” for “noncommissioned and commissioned officers” wherever appearing.
 
 1966—Subsec. (d). Pub. L. 89–718 capitalized first letter of first word in cls. (1) and (2).
+
+#### Effective Date of 2019 Amendment
+Pub. L. 116–92, div. A, title V, § 512(b), Dec. 20, 2019, 133 Stat. 1348, provided that: “The amendment made by subsection (a) [amending this section] shall take effect 180 days after the date of the enactment of this Act [Dec. 20, 2019].”
 
 #### Effective Date of 1992 Amendment
 Pub. L. 102–484, div. A, title V, § 533(e)(2), Oct. 23, 1992, 106 Stat. 2412, provided that: “The amendment made by paragraph (1) [amending this section] shall apply with respect to payments for periods of instructor service performed after September 30, 1992.”
@@ -229,3 +246,71 @@ The Secretary of a military department may issue arms, tentage, and equipment to
 **(c) Flexibility in Allocation and Use of Travel Funding.—** The Secretaries of the military departments shall take appropriate actions to provide so-called regional directors of the Junior Reserve Officers’ Training Corps programs located at remote rural schools enhanced discretion in the allocation and use of funds for travel in connection with Junior Reserve Officers’ Training Corps activities.
 
 **(d) Standardization of Program Data.—** The Secretary of Defense shall take appropriate actions to standardize the data collected and maintained on the Junior Reserve Officers’ Training Corps programs in order to facilitate and enhance the collection and analysis of such data. Such actions shall include a requirement for the use of the National Center for Education Statistics (NCES) identification code for each school with a unit under a Junior Reserve Officers’ Training Corps program in order to facilitate identification of such schools and their units under the Junior Reserve Officers’ Training Corps programs.
+
+
+<a id="section-2036"></a>
+## § 2036. Grants to support science, technology, engineering, and mathematics education
+**(a) Authority.—** The Secretary, in consultation with the Secretary of Education, may carry out a program to make grants to eligible entities to assist such entities in providing education in covered subjects to students in the Junior Reserve Officers’ Training Corps.
+
+**(b) Coordination.—** In carrying out a program under subsection (a), the Secretary may coordinate with the following:
+
+(1) The Director of the National Science Foundation.
+
+(2) The Administrator of the National Aeronautics and Space Administration.
+
+(3) The heads of such other Federal, State, and local government entities the Secretary of Defense determines to be appropriate.
+
+**(c) Activities.—** Activities funded with grants under this section may include the following:
+
+(1) Training and other support for instructors to teach courses in covered subjects to students.
+
+(2) The acquisition of materials, hardware, and software necessary for the instruction of covered subjects.
+
+(3) Activities that improve the quality of educational materials, training opportunities, and curricula available to students and instructors in covered subjects.
+
+(4) Development of travel opportunities, demonstrations, mentoring programs, and informal education in covered subjects for students and instructors.
+
+(5) Students’ pursuit of certifications in covered subjects.
+
+**(d) Preference.—** In making any grants under this section, the Secretary shall give preference to eligible entities that are eligible for assistance under part A of title I of the Elementary and Secondary Education Act of 1965 ([20 U.S.C. 6311](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6311&num=0&edition=prelim) et seq.).
+
+**(e) Evaluations.—** In carrying out a program under this section, the Secretary shall establish outcome-based metrics and internal and external assessments to evaluate the merits and benefits of the activities funded with grants under this section with respect to the needs of the Department of Defense.
+
+**(f) Authorities.—** In carrying out a program under this section, the Secretary shall, to the extent practicable, make use of the authorities under chapter 111 and sections 2601 and 2605 of this title, and other authorities the Secretary determines appropriate.
+
+**(g) Definitions.—** In this section:
+
+(1) The term “eligible entity” means a local education agency that hosts a unit of the Junior Reserve Officers’ Training Corps.
+
+(2) The term “covered subjects” means—
+
+  (A) science;
+
+  (B) technology;
+
+  (C) engineering;
+
+  (D) mathematics;
+
+  (E) computer science;
+
+  (F) computational thinking;
+
+  (G) artificial intelligence;
+
+  (H) machine learning;
+
+  (I) data science;
+
+  (J) cybersecurity;
+
+  (K) robotics;
+
+  (L) health sciences; and
+
+  (M) other subjects determined by the Secretary of Defense to be related to science, technology, engineering, and mathematics.
+
+### Statutory Notes
+
+#### References in Text
+The Elementary and Secondary Education Act of 1965, referred to in subsec. (d), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27. Part A of title I of the Act is classified generally to part A (§ 6311 et seq.) of subchapter I of chapter 70 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under [section 6301 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6301&num=0&edition=prelim) and Tables.

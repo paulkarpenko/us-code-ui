@@ -38,9 +38,6 @@ The Bureau of Labor Statistics, under the direction of the Secretary of Labor, s
 #### Amendments
 1930—Act July 7, 1930, inserted second par.
 
-#### Transfer of Functions
-For transfer of functions of other officers, employees, and agencies of Department of Labor, with certain exceptions, to Secretary of Labor, with power to delegate, see Reorg. Plan No. 6 of 1950, §§ 1, 2, 15 F.R. 3174, 64 Stat. 1263, set out in the Appendix to Title 5, Government Organization and Employees.
-
 #### Census Data on Women-Owned Businesses; Study and Report
 For provisions requiring Bureaus of Labor Statistics and the Census to include certain data on women-owned businesses in census reports, and requiring a study and report on the most cost effective and accurate means to gather and present such data, see section 501 of Pub. L. 100–533, set out as a note under [section 131 of Title 13](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title13-section131&num=0&edition=prelim), Census.
 
@@ -49,6 +46,9 @@ Pub. L. 100–175, title I, § 191, Nov. 29, 1987, 101 Stat. 967, provided that:
 
 #### Prison Statistics Report
 Joint Res. June 17, 1940, ch. 389, 54 Stat. 401, authorized Bureau of Labor Statistics to furnish a report to Congress before May 1, 1941, on kind, amount, and value of all goods produced in State and Federal prisons.
+
+#### Transfer of Functions
+For transfer of functions of other officers, employees, and agencies of Department of Labor, with certain exceptions, to Secretary of Labor, with power to delegate, see Reorg. Plan No. 6 of 1950, §§ 1, 2, 15 F.R. 3174, 64 Stat. 1263, set out in the Appendix to Title 5, Government Organization and Employees.
 
 
 <a id="section-2a"></a>
@@ -132,11 +132,11 @@ Act Mar. 18, 1904, changed name of Department of Labor to Bureau of Labor.
 
 Act Mar. 4, 1913, authorized substitution of “Commissioner of Labor Statistics” and “Bureau of Labor Statistics” for “Commissioner of Labor” and “Bureau of Labor”, respectively.
 
-#### Transfer of Functions
-For transfer of functions of other officers, employees, and agencies of Department of Labor, with certain exceptions, to Secretary of Labor, with power to delegate, see Reorg. Plan No. 6 of 1950, §§ 1, 2, 15 F.R. 3174, 64 Stat. 1263, set out in the Appendix to Title 5, Government Organization and Employees.
-
 #### Statistics of Cities
 Commissioner authorized to compile, as part of bulletin of Department, an abstract of main features of official statistics of cities having over 30,000 population, by a provision of act July 1, 1898, ch. 546, § 1, 30 Stat. 648.
+
+#### Transfer of Functions
+For transfer of functions of other officers, employees, and agencies of Department of Labor, with certain exceptions, to Secretary of Labor, with power to delegate, see Reorg. Plan No. 6 of 1950, §§ 1, 2, 15 F.R. 3174, 64 Stat. 1263, set out in the Appendix to Title 5, Government Organization and Employees.
 
 
 <a id="section-6"></a>

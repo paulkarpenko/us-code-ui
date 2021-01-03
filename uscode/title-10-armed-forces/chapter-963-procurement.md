@@ -42,7 +42,7 @@ Section 9535, act Aug. 10, 1956, ch. 1041, 70A Stat. 576, related to purchases w
 <a id="section-9536"></a>
 ## § 9536. Equipment: bakeries, schools, kitchens, and mess halls
 
-Money necessary for the following items for the use of enlisted members of the Air Force may be spent from appropriations for regular supplies:
+Money necessary for the following items for the use of enlisted members of the Air Force or the Space Force may be spent from appropriations for regular supplies:
 
 (1) Equipment for air base bakeries.
 
@@ -58,6 +58,9 @@ Money necessary for the following items for the use of enlisted members of the A
 | 9536 | 10:1334. | June 13, 1890, ch. 423 (1st proviso under “Quartermaster’s De- partment”), 26 Stat. 152. |
 
 The words “Money necessary * * * may be spent” are substituted for the words “There may be expended * * * the amounts required”. The word “bakeries” is substituted for the words “bake house to carry on post bakeries”. The words “each and all” are omitted as surplusage.
+
+#### Amendments
+2021—Pub. L. 116–283 inserted “or the Space Force” after “the Air Force” in introductory provisions.
 
 
 <a id="section-9537-9538"></a>

@@ -2,7 +2,7 @@
 title: 31
 chapter: '53'
 heading: MONETARY TRANSACTIONS
-section_count: 42
+section_count: 46
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31&num=0&edition=prelim
 ---
@@ -38,6 +38,13 @@ In subsection (a), before clause (1), the text of 31:821(b)(matter before (1)) i
 
 In subsection (b), before clause (1), the words “(and the Board is authorized to permit the banks notwithstanding another law)” are substituted for “notwithstanding any provisions of law or rules and regulations to the contrary” for clarity. In clause (1), the words “pursuant to existing law” are omitted as surplus. The words “through each entire” are substituted for “throughout” for clarity. In clause (2), the words “in portfolio”, “or periods of time Treasury bills or other” and “in an aggregate sum of” are omitted as surplus.
 
+#### Short Title of 2021 Amendment
+Pub. L. 116–283, div. F, § 6001, Jan. 1, 2021, 134 Stat. 4547, provided that: “This division [see Tables for classification] may be cited as the ‘Anti-Money Laundering Act of 2020’.”
+
+Pub. L. 116–283, div. F, title LXIV, § 6401, Jan. 1, 2021, 134 Stat. 4604, provided that: “This title [enacting [section 5336 of this title](./chapter-053-monetary-transactions.md#section-5336), amending sections 5321 and 5322 of this title, and enacting provisions set out as notes under sections 5311 and 5336 of this title] may be cited as the ‘Corporate Transparency Act’.”
+
+Pub. L. 116–283, div. H, title XCVII, § 9711, Jan. 1, 2021, 134 Stat. 4838, provided that: “This subtitle [subtitle B (§§ 9711–9714) of title XCVII of div. H of Pub. L. 116–283, enacting provisions set out as notes under sections 5311 and 5318A of this title] may be cited as the ‘Combating Russian Money Laundering Act’.”
+
 #### Short Title of 2006 Amendment
 Pub. L. 109–347, title VIII, § 801, Oct. 13, 2006, 120 Stat. 1952, provided that: “This title [enacting sections 5361 to 5367 of this title and provisions set out as a note under [section 5361 of this title](./chapter-053-monetary-transactions.md#section-5361)] may be cited as the ‘Unlawful Internet Gambling Enforcement Act of 2006’.”
 
@@ -58,7 +65,7 @@ Pub. L. 103–325, title IV, § 401, Sept. 23, 1994, 108 Stat. 2243, provided th
 ## § 5302. Stabilizing exchange rates and arrangements
 **(a)**
 
-(1) The Department of the Treasury has a stabilization fund. The fund is available to carry out this section, section 18 of the Bretton Woods Agreement Act ([22 U.S.C. 286e–3](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section286e–3&num=0&edition=prelim)), and section 3 of the Special Drawing Rights Act ([22 U.S.C. 286](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section286&num=0&edition=prelim)o), and for investing in obligations of the United States Government those amounts in the fund the Secretary of the Treasury, with the approval of the President, decides are not required at the time to carry out this section. Proceeds of sales and investments, earnings, and interest shall be paid into the fund and are available to carry out this section. However, the fund is not available to pay administrative expenses.
+(1) The Department of the Treasury has a stabilization fund. The fund is available to carry out this section, section 18 of the Bretton Woods Agreement Act ([22 U.S.C. 286e–3](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section286e–3&num=0&edition=prelim)), section 3 of the Special Drawing Rights Act ([22 U.S.C. 286](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section286&num=0&edition=prelim)o), and the Coronavirus Economic Stabilization Act of 2020, and for investing in obligations of the United States Government those amounts in the fund the Secretary of the Treasury, with the approval of the President, decides are not required at the time to carry out this section. Proceeds of sales and investments, earnings, and interest shall be paid into the fund and are available to carry out this section. However, the fund is not available to pay administrative expenses.
 
 (2) Subject to approval by the President, the fund is under the exclusive control of the Secretary, and may not be used in a way that direct control and custody pass from the President and the Secretary. Decisions of the Secretary are final and may not be reviewed by another officer or employee of the Government.
 
@@ -90,6 +97,12 @@ In subsection (b), the words “directly . . . through” and “for the account
 In subsection (c)(1), the word “calendar” is omitted as surplus. The words “beginning after the effective date of this paragraph” are omitted as executed. The words “to occur” are omitted as surplus.
 
 In subsection (d), the words “any part of the first subscription payment of the Government to the International Monetary Fund, previously paid from the stabilization fund” are substituted for 31:822a(c)(words before semicolon) and “thereof” for clarity because the payment has been made.
+
+#### References in Text
+The Coronavirus Economic Stabilization Act of 2020, referred to in subsec. (a)(1), is subtitle A (§§ 4001–4029) of title IV of div. A of Pub. L. 116–136, which enacted part A (§ 9041 et seq.) of subchapter III of chapter 116 of Title 15, Commerce and Trade, amended this section, sections 84, 1795a, 1795c, 1795e, 1795f, and 5612 of Title 12, Banks and Banking, and [section 1681s–2 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1681s–2&num=0&edition=prelim), and enacted provisions set out as notes under sections 84, 1795a, and 5236 of Title 12 and [section 4532 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4532&num=0&edition=prelim), War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under [section 9001 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section9001&num=0&edition=prelim) and Tables.
+
+#### Amendments
+2020—Subsec. (a)(1). Pub. L. 116–136 struck out “and” before “section 3” and inserted “and the Coronavirus Economic Stabilization Act of 2020,” before “and for investing”.
 
 #### Change of Name
 Committee on Banking, Finance and Urban Affairs of House of Representatives treated as referring to Committee on Banking and Financial Services of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding [section 21 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section21&num=0&edition=prelim), The Congress. Committee on Banking and Financial Services of House of Representatives abolished and replaced by Committee on Financial Services of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred from Committee on Energy and Commerce of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
@@ -171,23 +184,85 @@ Before clause (1), the words “prescribe regulations” are substituted for “
 <a id="section-5311"></a>
 ## § 5311. Declaration of purpose
 
-It is the purpose of this subchapter (except section 5315) to require certain reports or records where they have a high degree of usefulness in criminal, tax, or regulatory investigations or proceedings, or in the conduct of intelligence or counterintelligence activities, including analysis, to protect against international terrorism.
+It is the purpose of this subchapter (except section 5315) to—
+
+(1) require certain reports or records that are highly useful in—
+
+  (A) criminal, tax, or regulatory investigations, risk assessments, or proceedings; or
+
+  (B) intelligence or counterintelligence activities, including analysis, to protect against terrorism;
+
+(2) prevent the laundering of money and the financing of terrorism through the establishment by financial institutions of reasonably designed risk-based programs to combat money laundering and the financing of terrorism;
+
+(3) facilitate the tracking of money that has been sourced through criminal activity or is intended to promote criminal or terrorist activity;
+
+(4) assess the money laundering, terrorism finance, tax evasion, and fraud risks to financial institutions, products, or services to—
+
+  (A) protect the financial system of the United States from criminal abuse; and
+
+  (B) safeguard the national security of the United States; and
+
+(5) establish appropriate frameworks for information sharing among financial institutions, their agents and service providers, their regulatory authorities, associations of financial institutions, the Department of the Treasury, and law enforcement authorities to identify, stop, and apprehend money launderers and those who finance terrorists.
 
 ### Statutory Notes
 
-| Historical and Revision Notes |  |  |
-| --- | --- | --- |
-| Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
-| 5311 | 31:1051. | Oct. 26, 1970, Pub. L. 91–508, § 202, 84 Stat. 1118. |
-
-#### Amendments
-2001—Pub. L. 107–56 inserted “, or in the conduct of intelligence or counterintelligence activities, including analysis, to protect against international terrorism” before period at end.
-
-#### Effective Date of 2001 Amendment
-Amendment by Pub. L. 107–56 applicable with respect to reports filed or records maintained on, before, or after Oct. 26, 2001, see section 358(h) of Pub. L. 107–56, set out as a note under [section 1829b of Title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1829b&num=0&edition=prelim), Banks and Banking.
+#### Prior Provisions
+A prior section 5311, Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 995; Pub. L. 107–56, title III, § 358(a), Oct. 26, 2001, 115 Stat. 326, related to purpose of this subchapter, prior to repeal by by Pub. L. 116–283, div. F, title LXI, § 6101(a), Jan. 1, 2021, 134 Stat. 4549.
 
 #### Short Title
 This subchapter and chapter 21 (§ 1951 et seq.) of Title 12, Banks and Banking, are each popularly known as the “Bank Secrecy Act”. See Short Title note set out under [section 1951 of Title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1951&num=0&edition=prelim).
+
+#### Severability
+Pub. L. 116–283, div. F, title LXV, § 6511, Jan. 1, 2021, 134 Stat. 4633, provided that: “If any provision of this division [see Tables for classification], an amendment made by this division, or the application of such provision or amendment to any person or circumstance is held to be unconstitutional, the remainder of this division, the amendments made by this division, and the application of the provisions of such to any person or circumstance shall not be affected thereby.”
+
+#### Purposes
+Pub. L. 116–283, div. F, § 6002, Jan. 1, 2021, 134 Stat. 4547, provided that: “The purposes of this division [see Tables for classification] are— “(1) to improve coordination and information sharing among the agencies tasked with administering anti-money laundering and countering the financing of terrorism requirements, the agencies that examine financial institutions for compliance with those requirements, Federal law enforcement agencies, national security agencies, the intelligence community, and financial institutions; “(2) to modernize anti-money laundering and countering the financing of terrorism laws to adapt the government and private sector response to new and emerging threats; “(3) to encourage technological innovation and the adoption of new technology by financial institutions to more effectively counter money laundering and the financing of terrorism; “(4) to reinforce that the anti-money laundering and countering the financing of terrorism policies, procedures, and controls of financial institutions shall be risk-based; “(5) to establish uniform beneficial ownership information reporting requirements to—“(A) improve transparency for national security, intelligence, and law enforcement agencies and financial institutions concerning corporate structures and insight into the flow of illicit funds through those structures; “(B) discourage the use of shell corporations as a tool to disguise and move illicit funds; “(C) assist national security, intelligence, and law enforcement agencies with the pursuit of crimes; and “(D) protect the national security of the United States; and “(6) to establish a secure, nonpublic database at FinCEN [Financial Crimes Enforcement Network of the Department of the Treasury] for beneficial ownership information.”
+
+[For definition of “financial institution” as used in section 6002 of Pub. L. 116–283, set out above, see section 6003 of Pub. L. 116–283, set out below.]
+
+#### Interagency Anti-Money Laundering and Countering the Financing of Terrorism Personnel Rotation Program
+Pub. L. 116–283, div. F, title LXI, § 6104, Jan. 1, 2021, 134 Stat. 4555, provided that: “To promote greater effectiveness and efficiency in combating money laundering, the financing of terrorism, proliferation financing, serious tax fraud, trafficking, sanctions evasion and other financial crimes, the Secretary [of the Treasury] shall maintain and accelerate efforts to strengthen anti-money laundering and countering the financing of terrorism efforts through a personnel rotation program between the Federal functional regulators and the Department of Justice, the Federal Bureau of Investigation, the Department of Homeland Security, the Department of Defense, and such other agencies as the Secretary determines are appropriate.”
+
+[For definition of “Federal functional regulator” as used in section 6104 of Pub. L. 116–283, set out above, see section 6003 of Pub. L. 116–283, set out below.]
+
+#### International Coordination
+Pub. L. 116–283, div. F, title LXI, § 6112(a), Jan. 1, 2021, 134 Stat. 4564, provided that: “The Secretary [of the Treasury] shall work with foreign counterparts of the Secretary, including through bilateral contacts, the Financial Action Task Force, the International Monetary Fund, the World Bank, the Egmont Group of Financial Intelligence Units, the Organisation for Economic Co-operation and Development, the Basel Committee on Banking Supervision, and the United Nations, to promote stronger anti-money laundering frameworks and enforcement of anti-money laundering laws.”
+
+#### Annual Reporting Requirements
+Pub. L. 116–283, div. F, title LXII, § 6201, Jan. 1, 2021, 134 Stat. 4565, provided that: “(a) Annual Report.—Not later than 1 year after the date of enactment of this Act [Jan. 1, 2021], and annually thereafter, the Attorney General, in consultation with the Secretary [of the Treasury], Federal law enforcement agencies, the Director of National Intelligence, Federal functional regulators, and the heads of other appropriate Federal agencies, shall submit to the Secretary a report that contains statistics, metrics, and other information on the use of data derived from financial institutions reporting under the Bank Secrecy Act (referred to in this subsection as the ‘reported data’), including—“(1) the frequency with which the reported data contains actionable information that leads to—“(A) further procedures by law enforcement agencies, including the use of a subpoena, warrant, or other legal process; or “(B) actions taken by intelligence, national security, or homeland security agencies; “(2) calculations of the time between the date on which the reported data is reported and the date on which the reported data is used by law enforcement, intelligence, national security, or homeland security agencies, whether through the use of—“(A) a subpoena or warrant; or “(B) other legal process or action; “(3) an analysis of the transactions associated with the reported data, including whether—“(A) the suspicious accounts that are the subject of the reported data were held by legal entities or individuals; and “(B) there are trends and patterns in cross-border transactions to certain countries; “(4) the number of legal entities and individuals identified by the reported data; “(5) information on the extent to which arrests, indictments, convictions, criminal pleas, civil enforcement or forfeiture actions, or actions by national security, intelligence, or homeland security agencies were related to the use of the reported data; and “(6) data on the investigations carried out by State and Federal authorities resulting from the reported data. “(b) Report.—Beginning with the fifth report submitted under subsection (a), and once every 5 years thereafter, that report shall include a section describing the use of data derived from reporting by financial institutions under the Bank Secrecy Act over the 5 years preceding the date on which the report is submitted, which shall include a description of long-term trends and the use of long-term statistics, metrics, and other information. “(c) Trends, Patterns, and Threats.—Each report required under subsection (a) and each section included under subsection (b) shall contain a description of retrospective trends and emerging patterns and threats in money laundering and the financing of terrorism, including national and regional trends, patterns, and threats relevant to the classes of financial institutions that the Attorney General determines appropriate. “(d) Use of Report Information.—The Secretary shall use the information reported under subsections (a), (b), and (c)—“(1) to help assess the usefulness of reporting under the Bank Secrecy Act to—“(A) criminal and civil law enforcement agencies; “(B) intelligence, defense, and homeland security agencies; and “(C) Federal functional regulators; “(2) to enhance feedback and communications with financial institutions and other entities subject to requirements under the Bank Secrecy Act, including by providing more detail in the reports published and distributed under section 314(d) of the USA PATRIOT Act ([31 U.S.C. 5311](./chapter-053-monetary-transactions.md#section-5311) note); “(3) to assist FinCEN [Financial Crimes Enforcement Network of Department of the Treasury] in considering revisions to the reporting requirements promulgated under section 314(d) of the USA PATRIOT Act ([31 U.S.C. 5311](./chapter-053-monetary-transactions.md#section-5311) note); and “(4) for any other purpose the Secretary determines is appropriate. “(e) Confidentiality.—Any information received by a financial institution under this section shall be subject to confidentiality requirements established by the Secretary.”
+
+[For definitions of terms used in section 6201 of Pub. L. 116–283, set out above, see section 6003 of Pub. L. 116–283, set out below.]
+
+#### Establishment of Bank Secrecy Act Innovation Officers
+Pub. L. 116–283, div. F, title LXII, § 6208, Jan. 1, 2021, 134 Stat. 4573, provided that: “(a) Appointment of Officers.—Not later than 1 year after the effective date of the regulations promulgated under subsection (d) of [section 310 of title 31](./chapter-003-department-of-the-treasury.md#section-310), United States Code, as added by section 6103 of this division, an Innovation Officer shall be appointed within FinCEN [Financial Crimes Enforcement Network of Department of the Treasury] and each Federal functional regulator. “(b) Innovation Officer.—The Innovation Officer shall be appointed by, and report to, the Director of FinCEN or the head of the Federal functional regulator, as applicable. “(c) Duties.—Each Innovation Officer, in coordination with other Innovation Officers and the agencies of the Innovation Officers, shall—“(1) provide outreach to law enforcement agencies, State bank supervisors, financial institutions and associations of financial institutions, agents of financial institutions, and other persons (including service providers, vendors and technology companies) with respect to innovative methods, processes, and new technologies that may assist in compliance with the requirements of the Bank Secrecy Act; “(2) provide technical assistance or guidance relating to the implementation of responsible innovation and new technology by financial institutions and associations of financial institutions, agents of financial institutions, and other persons (including service providers, vendors and technology companies), in a manner that complies with the requirements of the Bank Secrecy Act; “(3) if appropriate, explore opportunities for public-private partnerships; and “(4) if appropriate, develop metrics of success.”
+
+[For definitions of terms used in section 6208 of Pub. L. 116–283, set out above, see section 6003 of Pub. L. 116–283, set out below.]
+
+#### Financial Crimes Tech Symposium
+Pub. L. 116–283, div. F, title LXII, § 6211, Jan. 1, 2021, 134 Stat. 4575, provided that: “(a) Purpose.—The purposes of this section are to—“(1) promote greater international collaboration in the effort to prevent and detect financial crimes and suspicious activities; and “(2) facilitate the investigation, development, and timely adoption of new technologies aimed at preventing and detecting financial crimes and other illicit activities. “(b) Periodic Meetings.—The Secretary [of the Treasury] shall, in coordination with the Subcommittee on Innovation and Technology established under subsection (d) of section 1564 of the Annunzio-Wylie Anti-Money Laundering Act, as added by section 6207 of this division [section 1564(d) of title XV of Pub. L. 102–550, set out as a note below], periodically convene a global anti-money laundering and financial crime symposium focused on how new technology can be used to more effectively combat financial crimes and other illicit activities. “(c) Attendees.—Attendees at each symposium convened under this section shall include domestic and international financial regulators, senior executives from regulated firms, technology providers, representatives from law enforcement and national security agencies, academic and other experts, and other individuals that the Secretary determines are appropriate. “(d) Panels.—At each symposium convened under this section, the Secretary shall convene panels in order to review new technologies and permit attendees to demonstrate proof of concept. “(e) Implementation and Reports.—The Secretary shall, to the extent practicable and necessary, work to provide policy clarity, which may include providing reports or guidance to stakeholders, regarding innovative technologies and practices presented at each symposium convened under this section, to the extent that those technologies and practices further the purposes of this section. “(f) FinCEN Briefing.—Not later than 90 days after the date of enactment of this Act [Jan. 1, 2021], the Director of FinCEN [Financial Crimes Enforcement Network of the Department of the Treasury] shall brief the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives on the use of emerging technologies, including—“(1) the status of implementation and internal use of emerging technologies, including artificial intelligence, digital identity technologies, distributed ledger technologies, and other innovative technologies within FinCEN; “(2) whether artificial intelligence, digital identity technologies, distributed ledger technologies, and other innovative technologies can be further leveraged to make data analysis by FinCEN more efficient and effective; “(3) whether FinCEN could better use artificial intelligence, digital identity technologies, distributed ledger technologies, and other innovative technologies to—“(A) more actively analyze and disseminate the information FinCEN collects and stores to provide investigative leads to Federal, State, Tribal, and local law enforcement agencies and other Federal agencies; and “(B) better support ongoing investigations by FinCEN when referring a case to the agencies described in subparagraph (A); “(4) with respect to each of paragraphs (1), (2), and (3), any best practices or significant concerns identified by the Director, and their applicability to artificial intelligence, digital identity technologies, distributed ledger technologies, and other innovative technologies with respect to United States efforts to combat money laundering and other forms of illicit finance; “(5) any policy recommendations that could facilitate and improve communication and coordination between the private sector, FinCEN, and the agencies described in paragraph (3) through the implementation of innovative approaches to meet the obligations of the agencies under the Bank Secrecy Act and anti-money laundering compliance; and “(6) any other matter the Director determines is appropriate.”
+
+[For definition of “Bank Secrecy Act” as used in section 6211 of Pub. L. 116–283, set out above, see section 6003 of Pub. L. 116–283, set out below.]
+
+#### Supervisory Team for Encouraging Information Sharing and Public-Private Partnerships
+Pub. L. 116–283, div. F, title LXII, § 6214, Jan. 1, 2021, 134 Stat. 4579, provided that: “(a) In General.—The Secretary [of the Treasury] shall convene a supervisory team of relevant Federal agencies, private sector experts in banking, national security, and law enforcement, and other stakeholders to examine strategies to increase cooperation between the public and private sectors for purposes of countering illicit finance, including proliferation finance and sanctions evasion. “(b) Meetings.—The supervisory team convened under subsection (a) shall meet periodically to advise on strategies to combat the risk relating to proliferation financing. “(c) Federal Advisory Committee Act.—The Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to the supervisory team convened under subsection (a) or to the activities of the supervisory team.”
+
+#### Review of Regulations and Guidance
+Pub. L. 116–283, div. F, title LXII, § 6216, Jan. 1, 2021, 134 Stat. 4582, provided that: “(a) In General.—The Secretary [of the Treasury], in consultation with the Federal functional regulators, the Financial Institutions Examination Council, the Attorney General, Federal law enforcement agencies, the Director of National Intelligence, the Secretary of Homeland Security, and the Commissioner of Internal Revenue, shall—“(1) undertake a formal review of the regulations implementing the Bank Secrecy Act and guidance related to that Act—“(A) to ensure the Department of the Treasury provides, on a continuing basis, for appropriate safeguards to protect the financial system from threats, including money laundering and the financing of terrorism and proliferation, to national security posed by various forms of financial crime; “(B) to ensure that those provisions will continue to require certain reports or records that are highly useful in countering financial crime; and “(C) to identify those regulations and guidance that—“(i) may be outdated, redundant, or otherwise do not promote a risk-based anti-money laundering compliance and countering the financing of terrorism regime for financial institutions; or “(ii) do not conform with the commitments of the United States to meet international standards to combat money laundering, financing of terrorism, serious tax fraud, or other financial crimes; and “(2) make appropriate changes to the regulations and guidance described in paragraph (1) to improve, as appropriate, the efficiency of those provisions. “(b) Public Comment.—The Secretary shall solicit public comment as part of the review required under subsection (a). “(c) Report.—Not later than 1 year after the date of enactment of this Act [Jan. 1, 2021], the Secretary, in consultation with the Financial Institutions Examination Council, the Federal functional regulators, the Attorney General, Federal law enforcement agencies, the Director of National Intelligence, the Secretary of Homeland Security, and the Commissioner of Internal Revenue, shall submit to Congress a report that contains all findings and determinations made in carrying out the review required under subsection (a), including administrative or legislative recommendations.”
+
+[For definitions of “Federal functional regulator” and “Bank Secrecy Act” as used in section 6216 of Pub. L. 116–283, set out above, see section 6003 of Pub. L. 116–283, set out below.]
+
+#### Establishment of Bank Secrecy act Information Security Officers
+Pub. L. 116–283, div. F, title LXIII, § 6303, Jan. 1, 2021, 134 Stat. 4585, provided that: “(a) Appointment of Officers.—Not later than 1 year after the effective date of the regulations promulgated under subsection (d) of [section 310 of title 31](./chapter-003-department-of-the-treasury.md#section-310), United States Code, as added by section 6103 of this division, a Bank Secrecy Act Information Security Officer shall be appointed, from among individuals with expertise in Federal information security or privacy laws or Bank Secrecy Act disclosure policies and procedures—“(1) within each Federal functional regulator, by the head of the Federal functional regulator; “(2) within FinCEN [Financial Crimes Enforcement Network of the Department of the Treasury], by the Director of FinCEN; and “(3) within the Internal Revenue Service, by the Secretary. “(b) Duties.—Each Bank Secrecy Act Information Security Officer shall, with respect to the applicable regulator, bureau, or Center within which the Officer is located—“(1) be consulted each time Bank Secrecy Act regulations affecting information security or disclosure of Bank Secrecy Act information are developed or reviewed; “(2) be consulted on information-sharing policies under the Bank Secrecy Act, including those that allow financial institutions to share information with each other and foreign affiliates, and those that allow Federal agencies to share with regulated entities; “(3) be consulted on coordination and clarity between proposed Bank Secrecy Act regulations and information security and confidentiality requirements, including with respect to the reporting of suspicious transactions under [section 5318(g) of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section5318/g&num=0&edition=prelim), United States Code; “(4) be consulted on—“(A) the development of new technologies that may strengthen information security and compliance with the Bank Secrecy Act; and “(B) the protection of information collected by each Federal functional regulator under the Bank Secrecy Act; and “(5) develop metrics of program success.”
+
+[For definitions of “Bank Secrecy Act” and “Federal functional regulator” as used in section 6303 of Pub. L. 116–283, set out above, see section 6003 of Pub. L. 116–283, set out below.]
+
+#### Revised Due Diligence Rulemaking
+Pub. L. 116–283, div. F, title LXIV, § 6403(d), Jan. 1, 2021, 134 Stat. 4624, provided that: “(1) In general.—Not later than 1 year after the effective date of the regulations promulgated under [section 5336(b)(4) of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section5336/b/4&num=0&edition=prelim), United States Code, as added by subsection (a) of this section, the Secretary of the Treasury shall revise the final rule entitled ‘Customer Due Diligence Requirements for Financial Institutions’ (81 Fed. Reg. 29397 (May 11, 2016)) to—“(A) bring the rule into conformance with this division [see Tables for classification] and the amendments made by this division; “(B) account for the access of financial institutions to beneficial ownership information filed by reporting companies under section 5336, and provided in the form and manner prescribed by the Secretary [of the Treasury], in order to confirm the beneficial ownership information provided directly to the financial institutions to facilitate the compliance of those financial institutions with anti-money laundering, countering the financing of terrorism, and customer due diligence requirements under applicable law; and “(C) reduce any burdens on financial institutions and legal entity customers that are, in light of the enactment of this division and the amendments made by this division, unnecessary or duplicative. “(2) Conformance.—“(A) In general.—In carrying out paragraph (1), the Secretary of the Treasury shall rescind paragraphs (b) through (j) of section 1010.230 of title 31, Code of Federal Regulations upon the effective date of the revised rule promulgated under this subsection. “(B) Rule of construction.—Nothing in this section may be construed to authorize the Secretary of the Treasury to repeal the requirement that financial institutions identify and verify beneficial owners of legal entity customers under section 1010.230(a) of title 31, Code of Federal Regulations. “(3) Considerations.—In fulfilling the requirements under this subsection, the Secretary of the Treasury shall consider—“(A) the use of risk-based principles for requiring reports of beneficial ownership information; “(B) the degree of reliance by financial institutions on information provided by FinCEN [Financial Crimes Enforcement Network of the Department of the Treasury] for purposes of obtaining and updating beneficial ownership information; “(C) strategies to improve the accuracy, completeness, and timeliness of the beneficial ownership information reported to the Secretary; and “(D) any other matter that the Secretary determines is appropriate.”
+
+[For definition of “financial institution” as used in section 6403(d) of Pub. L. 116–283, set out above, see section 6003 of Pub. L. 116–283, set out below.]
+
+#### Statement of Policy
+Pub. L. 116–283, div. H, title XCVII, § 9712, Jan. 1, 2021, 134 Stat. 4838, provided that: “It is the policy of the United States to— “(1) protect the United States financial sector from abuse by malign actors; and “(2) use all available financial tools to counter adversaries.”
 
 #### Stored Value
 Pub. L. 111–24, title V, § 503, May 22, 2009, 123 Stat. 1756, provided that: “(a) In General.—Not later than 270 days after the date of enactment of this Act [May 22, 2009], the Secretary of the Treasury, in consultation with the Secretary of Homeland Security, shall issue regulations in final form implementing the Bank Secrecy Act [see Short Title note under [section 1951 of Title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1951&num=0&edition=prelim), Banks and Banking], regarding the sale, issuance, redemption, or international transport of stored value, including stored value cards. “(b) Consideration of International Transport.—Regulations under this section regarding international transport of stored value may include reporting requirements pursuant to [section 5316 of title 31](./chapter-053-monetary-transactions.md#section-5316), United States Code. “(c) Emerging Methods for Transmittal and Storage in Electronic Form.—Regulations under this section shall take into consideration current and future needs and methodologies for transmitting and storing value in electronic form.”
@@ -217,7 +292,7 @@ Pub. L. 107–56, title III, § 329, Oct. 26, 2001, 115 Stat. 319, provided that
 Pub. L. 107–56, title III, § 356(c), Oct. 26, 2001, 115 Stat. 324, as amended by Pub. L. 108–458, title VI, § 6202(j), Dec. 17, 2004, 118 Stat. 3746, provided that: “(1) In general.—Not later than 1 year after the date of enactment of this Act [Oct. 26, 2001], the Secretary [of the Treasury], the Board of Governors of the Federal Reserve System, and the Securities and Exchange Commission shall jointly submit a report to the Congress on recommendations for effective regulations to apply the requirements of subchapter II of chapter 53 of title 31, United States Code, to investment companies pursuant to [section 5312(a)(2)(I) of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section5312/a/2/I&num=0&edition=prelim), United States Code. “(2) Definition.—For purposes of this subsection, the term ‘investment company’—“(A) has the same meaning as in section 3 of the Investment Company Act of 1940 ([15 U.S.C. 80a–3](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section80a–3&num=0&edition=prelim)); and “(B) includes any person that, but for the exceptions provided for in paragraph (1) or (7) of section 3(c) of the Investment Company Act of 1940 ([15 U.S.C. 80a–3(c)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section80a–3/c&num=0&edition=prelim)), would be an investment company. “(3) Additional recommendations.—The report required by paragraph (1) may make different recommendations for different types of entities covered by this subsection. “(4) Beneficial ownership of personal holding companies.—The report described in paragraph (1) shall also include recommendations as to whether the Secretary should promulgate regulations to treat any corporation, business trust, or other grantor trust whose assets are predominantly securities, bank certificates of deposit, or other securities or investment instruments (other than such as relate to operating subsidiaries of such corporation or trust) and that has 5 or fewer common shareholders or holders of beneficial or other equity interest, as a financial institution within the meaning of that phrase in section 5312(a)(2)(I) and whether to require such corporations or trusts to disclose their beneficial owners when opening accounts or initiating funds transfers at any domestic financial institution.”
 
 #### Report on Need for Additional Legislation Relating to Informal Money Transfer Systems
-Pub. L. 107–56, title III, § 359(d), Oct. 26, 2001, 115 Stat. 329, provided that: “Not later than 1 year after the date of enactment of this Act [Oct. 26, 2001], the Secretary of the Treasury shall report to Congress on the need for any additional legislation relating to persons who engage as a business in an informal money transfer system or any network of people who engage as a business in facilitating the transfer of money domestically or internationally outside of the conventional financial institutions system, counter money laundering and regulatory controls relating to underground money movement and banking systems, including whether the threshold for the filing of suspicious activity reports under [section 5318(g) of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section5318/g&num=0&edition=prelim), United States Code should be lowered in the case of such systems.”
+Pub. L. 107–56, title III, § 359(d), Oct. 26, 2001, 115 Stat. 329, provided that by 1 year after Oct. 26, 2001, the Secretary of the Treasury would report to Congress on the need for any additional legislation relating to persons who engage as a business in an informal money transfer system or any network of people who engage as a business in facilitating the transfer of money domestically or internationally outside of the conventional financial institutions system.
 
 #### Uniform State Licensing and Regulation of Check Cashing, Currency Exchange, and Money Transmitting Businesses
 Pub. L. 103–325, title IV, § 407, Sept. 23, 1994, 108 Stat. 2247, provided that: “(a) Uniform Laws and Enforcement.—For purposes of preventing money laundering and protecting the payment system from fraud and abuse, it is the sense of the Congress that the several States should—“(1) establish uniform laws for licensing and regulating businesses which—“(A) provide check cashing, currency exchange, or money transmitting or remittance services, or issue or redeem money orders, travelers’ checks, and other similar instruments; and “(B) are not depository institutions (as defined in [section 5313(g) of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section5313/g&num=0&edition=prelim), United States Code); and “(2) provide sufficient resources to the appropriate State agency to enforce such laws and regulations prescribed pursuant to such laws. “(b) Model Statute.—It is the sense of the Congress that the several States should develop, through the auspices of the National Conference of Commissioners on Uniform State Laws, the American Law Institute, or such other forum as the States may determine to be appropriate, a model statute to carry out the goals described in subsection (a) which would include the following:“(1) Licensing requirements.—A requirement that any business described in subsection (a)(1) be licensed and regulated by an appropriate State agency in order to engage in any such activity within the State. “(2) Licensing standards.—A requirement that—“(A) in order for any business described in subsection (a)(1) to be licensed in the State, the appropriate State agency shall review and approve—“(i) the business record and the capital adequacy of the business seeking the license; and “(ii) the competence, experience, integrity, and financial ability of any individual who— “(I) is a director, officer, or supervisory employee of such business; or “(II) owns or controls such business; and “(B) any record, on the part of any business seeking the license or any person referred to in subparagraph (A)(ii), of—“(i) any criminal activity; “(ii) any fraud or other act of personal dishonesty; “(iii) any act, omission, or practice which constitutes a breach of a fiduciary duty; or “(iv) any suspension or removal, by any agency or department of the United States or any State, from participation in the conduct of any federally or State licensed or regulated business, may be grounds for the denial of any such license by the appropriate State agency. “(3) Reporting requirements.—A requirement that any business described in subsection (a)(1)—“(A) disclose to the appropriate State agency the fees charged to consumers for services described in subsection (a)(1)(A); and “(B) conspicuously disclose to the public, at each location of such business, the fees charged to consumers for such services. “(4) Procedures to ensure compliance with federal cash transaction reporting requirements.—A civil or criminal penalty for operating any business referred to in paragraph (1) without establishing and complying with appropriate procedures to ensure compliance with subchapter II of chapter 53 of title 31, United States Code (relating to records and reports on monetary instruments transactions). “(5) Criminal penalties for operation of business without a license.—A criminal penalty for operating any business referred to in paragraph (1) without a license within the State after the end of an appropriate transition period beginning on the date of enactment of such model statute by the State. “(c) Study Required.—The Secretary of the Treasury shall conduct a study of—“(1) the progress made by the several States in developing and enacting a model statute which—“(A) meets the requirements of subsection (b); and “(B) furthers the goals of—“(i) preventing money laundering by businesses which are required to be licensed under any such statute; and “(ii) protecting the payment system, including the receipt, payment, collection, and clearing of checks, from fraud and abuse by such businesses; and “(2) the adequacy of—“(A) the activity of the several States in enforcing the requirements of such statute; and “(B) the resources made available to the appropriate State agencies for such enforcement activity. “(d) Report Required.—Not later than the end of the 3-year period beginning on the date of enactment of this Act [Sept. 23, 1994] and not later than the end of each of the first two 1-year periods beginning after the end of such 3-year period, the Secretary of the Treasury shall submit a report to the Congress containing the findings and recommendations of the Secretary in connection with the study under subsection (c), together with such recommendations for legislative and administrative action as the Secretary may determine to be appropriate. “(e) Recommendations in Cases of Inadequate Regulation and Enforcement by States.—If the Secretary of the Treasury determines that any State has been unable to—“(1) enact a statute which meets the requirements described in subsection (b); “(2) undertake adequate activity to enforce such statute; or “(3) make adequate resources available to the appropriate State agency for such enforcement activity, the report submitted pursuant to subsection (d) shall contain recommendations of the Secretary which are designed to facilitate the enactment and enforcement by the State of such a statute. “(f) Federal Funding Study.—“(1) Study required.—The Secretary of the Treasury shall conduct a study to identify possible available sources of Federal funding to cover costs which will be incurred by the States in carrying out the purposes of this section. “(2) Report.—The Secretary of the Treasury shall submit a report to the Congress on the study conducted pursuant to paragraph (1) not later than the end of the 18-month period beginning on the date of enactment of this Act [Sept. 23, 1994].”
@@ -226,7 +301,7 @@ Pub. L. 103–325, title IV, § 407, Sept. 23, 1994, 108 Stat. 2247, provided th
 Pub. L. 102–550, title XV, § 1518, Oct. 28, 1992, 106 Stat. 4060, provided that: “The Secretary of the Treasury and the Attorney General shall jointly establish a team of experts to assist and provide training to foreign governments and agencies thereof in developing and expanding their capabilities for investigating and prosecuting violations of money laundering and related laws.”
 
 #### Advisory Group on Reporting Requirements
-Pub. L. 102–550, title XV, § 1564, Oct. 28, 1992, 106 Stat. 4073, provided that: “(a) Establishment.—Not later than 90 days after the date of the enactment of this Act [Oct. 28, 1992], the Secretary of the Treasury shall establish a Bank Secrecy Act Advisory Group consisting of representatives of the Department of the Treasury, the Department of Justice, and the Office of National Drug Control Policy and of other interested persons and financial institutions subject to the reporting requirements of subchapter II of chapter 53 of title 31, United States Code, or section 6050I of the Internal Revenue Code of 1986 [[26 U.S.C. 6050I](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section6050I&num=0&edition=prelim)]. “(b) Purposes.—The Advisory Group shall provide a means by which the Secretary—“(1) informs private sector representatives, on a regular basis, of the ways in which the reports submitted pursuant to the requirements referred to in subsection (a) have been used; “(2) informs private sector representatives, on a regular basis, of how information regarding suspicious financial transactions provided voluntarily by financial institutions has been used; and “(3) receives advice on the manner in which the reporting requirements referred to in subsection (a) should be modified to enhance the ability of law enforcement agencies to use the information provided for law enforcement purposes. “(c) Inapplicability of Federal Advisory Committee Act.—The Federal Advisory Committee Act [5 U.S.C. App.] shall not apply to the Bank Secrecy Act Advisory Group established pursuant to subsection (a).”
+Pub. L. 102–550, title XV, § 1564, Oct. 28, 1992, 106 Stat. 4073, as amended by Pub. L. 116–283, div. F, title LXII, § 6207, title LXIII, § 6302, Jan. 1, 2021, 134 Stat. 4572, 4584, provided that: “(a) Establishment.—Not later than 90 days after the date of the enactment of this Act [Oct. 28, 1992], the Secretary of the Treasury shall establish a Bank Secrecy Act Advisory Group consisting of representatives of the Department of the Treasury, the Department of Justice, and the Office of National Drug Control Policy and of other interested persons and financial institutions subject to the reporting requirements of subchapter II of chapter 53 of title 31, United States Code, or section 6050I of the Internal Revenue Code of 1986 [[26 U.S.C. 6050I](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section6050I&num=0&edition=prelim)]. “(b) Purposes.—The Advisory Group shall provide a means by which the Secretary—“(1) informs private sector representatives, on a regular basis, of the ways in which the reports submitted pursuant to the requirements referred to in subsection (a) have been used; “(2) informs private sector representatives, on a regular basis, of how information regarding suspicious financial transactions provided voluntarily by financial institutions has been used; and “(3) receives advice on the manner in which the reporting requirements referred to in subsection (a) should be modified to enhance the ability of law enforcement agencies to use the information provided for law enforcement purposes. “(c) Inapplicability of Federal Advisory Committee Act.—The Federal Advisory Committee Act [5 U.S.C. App.] shall not apply to the Bank Secrecy Act Advisory Group established pursuant to subsection (a). “(d) Subcommittee on Innovation and Technology.—“(1) Definitions.—In this subsection, the terms ‘Bank Secrecy Act’, ‘State bank supervisor’, and ‘State credit union supervisor’ have the meanings given the terms in section 6003 of the Anti-Money Laundering Act of 2020 [div. F of Pub. L. 116–283; see note below]. “(2) Establishment.—There shall be within the Bank Secrecy Act Advisory Group a subcommittee to be known as the ‘Subcommittee on Innovation and Technology’ to—“(A) advise the Secretary of the Treasury regarding means by which the Department of the Treasury, FinCEN, the Federal functional regulators, State bank supervisors, and State credit union supervisors, as appropriate, can most effectively encourage and support technological innovation in the area of anti-money laundering and countering the financing of terrorism and proliferation; and “(B) reduce, to the extent practicable, obstacles to innovation that may arise from existing regulations, guidance, and examination practices related to compliance of financial institutions with the Bank Secrecy Act. “(3) Membership.—“(A) In general.—The subcommittee established under paragraph (1) shall consist of the representatives of the heads of the Federal functional regulators, including, as appropriate, the Bank Secrecy Act Innovation Officers as established in section 6208 of the Anti-Money Laundering Act of 2020 [see note above], a representative of State bank supervisors, a representative of State credit union supervisors, representatives of a cross-section of financial institutions subject to the Bank Secrecy Act, law enforcement, FinCEN, and any other representative as determined by the Secretary of the Treasury. “(B) Requirements.—Each agency representative described in subparagraph (A) shall be an individual who has demonstrated knowledge and competence concerning the application of the Bank Secrecy Act. “(4) Sunset.—“(A) In general.—Except as provided in subparagraph (B), the Subcommittee on Innovation and Technology shall terminate on the date that is 5 years after the date of enactment of this subsection [Jan. 1, 2021]. “(B) Exception.—The Secretary of the Treasury may renew the Subcommittee on Innovation for 1-year periods beginning on the date that is 5 years after the date of enactment of this subsection. “(e) Subcommittee on Information Security and Confidentiality.—“(1) In general.—There shall be within the Bank Secrecy Act Advisory Group a subcommittee to be known as the Subcommittee on Information Security and Confidentiality (in this subsection referred to as the ‘Subcommittee’) to advise the Secretary of the Treasury regarding the information security and confidentiality implications of regulations, guidance, information sharing programs, and the examination for compliance with and enforcement of the provisions of the Bank Secrecy Act. “(2) Membership.—“(A) In general.—The Subcommittee shall consist of the representatives of the heads of the Federal functional regulators, including, as appropriate, the Bank Secrecy Act Information Security Officers as established in section 6303 of the Anti-Money Laundering Act of 2020 [see note above], and representatives from financial institutions subject to the Bank Secrecy Act, law enforcement, FinCEN, and any other representatives as determined by the Secretary of the Treasury. “(B) Requirements.—Each agency representative described in subparagraph (A) shall be an individual who has demonstrated knowledge and competence concerning the application of the Bank Secrecy Act and familiarity with and expertise in applicable laws. “(3) Sunset.—“(A) In general.—Except as provided in subparagraph (B), the Subcommittee shall terminate on the date that is 5 years after the date of enactment of this subsection [Jan. 1, 2021]. “(B) Exception.—The Secretary of the Treasury may renew the Subcommittee for 1-year periods beginning on the date that is 5 years after the date of enactment of this subsection. “(f) Definitions.—In this section:“(1) Bank secrecy act.—The term ‘Bank Secrecy Act’ has the meaning given the term in section 6003 of the Anti-Money Laundering Act of 2020 [see note below]. “(2) Federal functional regulator.—The term ‘Federal functional regulator’ has the meaning given the term in section 509 of the Gramm-Leach-Bliley Act ([15 U.S.C. 6809](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section6809&num=0&edition=prelim)). “(3) FinCEN.—The term ‘FinCEN’ means the Financial Crimes Enforcement Network of the Department of the Treasury. “(4) Financial institution.—The term ‘financial institution’ has the meaning given the term in [section 5312 of title 31](./chapter-053-monetary-transactions.md#section-5312), United States Code. “(5) State credit union supervisor.—The term ‘State credit union supervisor’ means a State official described in section 107A(e) of the Federal Credit Union Act ([12 U.S.C. 1757a(e)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1757a/e&num=0&edition=prelim)).”
 
 #### GAO Feasibility Study of Financial Crimes Enforcement Network
 Pub. L. 102–550, title XV, § 1565, Oct. 28, 1992, 106 Stat. 4074, provided that: “(a) Study Required.—The Comptroller General of the United States shall conduct a feasibility study of the Financial Crimes Enforcement Network (popularly referred to as ‘Fincen’) established by the Secretary of the Treasury in cooperation with other agencies and departments of the United States and appropriate Federal banking agencies. “(b) Specific Requirements.—In conducting the study required under subsection (a), the Comptroller General shall examine and evaluate—“(1) the extent to which Federal, State, and local governmental and nongovernmental organizations are voluntarily providing information which is necessary for the system to be useful for law enforcement purposes; “(2) the extent to which the operational guidelines established for the system provide for the coordinated and efficient entry of information into, and withdrawal of information from, the system; “(3) the extent to which the operating procedures established for the system provide appropriate standards or guidelines for determining—“(A) who is to be given access to the information in the system; “(B) what limits are to be imposed on the use of such information; and “(C) how information about activities or relationships which involve or are closely associated with the exercise of constitutional rights is to be screened out of the system; and “(4) the extent to which the operating procedures established for the system provide for the prompt verification of the accuracy and completeness of information entered into the system and the prompt deletion or correction of inaccurate or incomplete information. “(c) Report to Congress.—Before the end of the 1-year period, beginning on the date of the enactment of this Act [Oct. 28, 1992], the Comptroller General of the United States shall submit a report to the Congress containing the findings and conclusions of the Comptroller General in connection with the study conducted pursuant to subsection (a), together with such recommendations for legislative or administrative action as the Comptroller General may determine to be appropriate.”
@@ -243,12 +318,15 @@ Pub. L. 100–690, title IV, § 4702, Nov. 18, 1988, 102 Stat. 4291, as amended 
 #### International Information Exchange System; Study of Foreign Branches of Domestic Institutions
 Pub. L. 99–570, title I, § 1363, Oct. 27, 1986, 100 Stat. 3207–33, required the Secretary of the Treasury to initiate discussions with the central banks or other appropriate governmental authorities of other countries and propose that an information exchange system be established to reduce international flow of money derived from illicit drug operations and other criminal activities and to report to Congress before the end of the 9-month period beginning Oct. 27, 1986. The Secretary of the Treasury was also required to conduct a study of (1) the extent to which foreign branches of domestic institutions are used to facilitate illicit transfers of or to evade reporting requirements on transfers of coins, currency, and other monetary instruments into and out of the United States; (2) the extent to which the law of the United States is applicable to the activities of such foreign branches; and (3) methods for obtaining the cooperation of the country in which any such foreign branch is located for purposes of enforcing the law of the United States with respect to transfers, and reports on transfers, of such monetary instruments into and out of the United States and to report to Congress before the end of the 9-month period beginning Oct. 27, 1986.
 
+#### Definitions
+Pub. L. 116–283, div. F, § 6003, Jan. 1, 2021, 134 Stat. 4548, provided that: “In this division [see Tables for classification]: “(1) Bank secrecy act.—The term ‘Bank Secrecy Act’ means—“(A) section 21 of the Federal Deposit Insurance Act ([12 U.S.C. 1829b](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1829b&num=0&edition=prelim)); “(B) chapter 2 of title I of Public Law 91–508 ([12 U.S.C. 1951](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1951&num=0&edition=prelim) et seq.); and “(C) subchapter II of chapter 53 of title 31, United States Code. “(2) Electronic fund transfer.—The term ‘electronic fund transfer’ has the meaning given the term in section 903 of the Electronic Fund Transfer Act ([15 U.S.C. 1693a](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1693a&num=0&edition=prelim)). “(3) Federal functional regulator.—The term ‘Federal functional regulator’—“(A) has the meaning given the term in section 509 of the Gramm-Leach-Bliley Act ([15 U.S.C. 6809](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section6809&num=0&edition=prelim)); and “(B) includes any Federal regulator that examines a financial institution for compliance with the Bank Secrecy Act. “(4) Financial agency.—The term ‘financial agency’ has the meaning given the term in [section 5312(a) of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section5312/a&num=0&edition=prelim), United States Code, as amended by section 6102 of this division. “(5) Financial institution.—The term ‘financial institution’—“(A) has the meaning given the term in [section 5312 of title 31](./chapter-053-monetary-transactions.md#section-5312), United States Code; and “(B) includes—“(i) an electronic fund transfer network; and “(ii) a clearing and settlement system. “(6) FinCEN.—The term ‘FinCEN’ means the Financial Crimes Enforcement Network of the Department of the Treasury. “(7) Secretary.—The term ‘Secretary’ means the Secretary of the Treasury. “(8) State bank supervisor.—The term ‘State bank supervisor’ has the meaning given the term in section 3 of the Federal Deposit Insurance Act ([12 U.S.C. 1813](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1813&num=0&edition=prelim)). “(9) State credit union supervisor.—The term ‘State credit union supervisor’ means a State official described in section 107A(e) of the Federal Credit Union Act ([12 U.S.C. 1757a(e)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1757a/e&num=0&edition=prelim)).”
+
 
 <a id="section-5312"></a>
 ## § 5312. Definitions and application
 **(a)** In this subchapter—
 
-(1) “financial agency” means a person acting for a person (except for a country, a monetary or financial authority acting as a monetary or financial authority, or an international financial institution of which the United States Government is a member) as a financial institution, bailee, depository trustee, or agent, or acting in a similar way related to money, credit, securities, gold, or a transaction in money, credit, securities, or gold.
+(1) “financial agency” means a person acting for a person (except for a country, a monetary or financial authority acting as a monetary or financial authority, or an international financial institution of which the United States Government is a member) as a financial institution, bailee, depository trustee, or agent, or acting in a similar way related to money, credit, securities, gold, a transaction in money, credit, securities or gold, or a service provided with respect to money, securities, futures, precious metals, stones and jewels, or value that substitutes for currency.
 
 (2) “financial institution” means—
 
@@ -270,7 +348,7 @@ Pub. L. 99–570, title I, § 1363, Oct. 27, 1986, 100 Stat. 3207–33, required
 
   (I) an investment banker or investment company;
 
-  (J) a currency exchange;
+  (J) a currency exchange, or a business engaged in the exchange of currency, funds, or value that substitutes for currency or funds;
 
   (K) an issuer, redeemer, or cashier of travelers’ checks, checks, money orders, or similar instruments;
 
@@ -286,7 +364,7 @@ Pub. L. 99–570, title I, § 1363, Oct. 27, 1986, 100 Stat. 3207–33, required
 
   (Q) a travel agency;
 
-  (R) a licensed sender of money or any other person who engages as a business in the transmission of funds, including any person who engages as a business in an informal money transfer system or any network of people who engage as a business in facilitating the transfer of money domestically or internationally outside of the conventional financial institutions system;
+  (R) a licensed sender of money or any other person who engages as a business in the transmission of currency, funds, or value that substitutes for currency, including any person who engages as a business in an informal money transfer system or any network of people who engage as a business in facilitating the transfer of money domestically or internationally outside of the conventional financial institutions system;
 
   (S) a telegraph company;
 
@@ -312,9 +390,11 @@ Pub. L. 99–570, title I, § 1363, Oct. 27, 1986, 100 Stat. 3207–33, required
 
   (A) United States coins and currency;
 
-  (B) as the Secretary may prescribe by regulation, coins and currency of a foreign country, travelers’ checks, bearer negotiable instruments, bearer investment securities, bearer securities, stock on which title is passed on delivery, and similar material; and
+  (B) as the Secretary may prescribe by regulation, coins and currency of a foreign country, travelers’ checks, bearer negotiable instruments, bearer investment securities, bearer securities, stock on which title is passed on delivery, and similar material;
 
-  (C) as the Secretary of the Treasury shall provide by regulation for purposes of sections 5316 and 5331, checks, drafts, notes, money orders, and other similar instruments which are drawn on or by a foreign financial institution and are not in bearer form.
+  (C) as the Secretary of the Treasury shall provide by regulation for purposes of sections 5316 and 5331, checks, drafts, notes, money orders, and other similar instruments which are drawn on or by a foreign financial institution and are not in bearer form; and
+
+  (D) as the Secretary shall provide by regulation, value that substitutes for any monetary instrument described in subparagraph (A), (B), or (C).
 
 (4) **Nonfinancial trade or business.—** — The term “nonfinancial trade or business” means any trade or business other than a financial institution that is subject to the reporting requirements of section 5313 and regulations prescribed under such section.
 
@@ -364,6 +444,17 @@ In subsection (a)(5), the words “used in a geographic sense” are omitted bec
 
 Subsection (b) is substituted for 31:1052(f) and (h) to eliminate unnecessary words and for consistency.
 
+#### Amendment of Subsection (a)(2)
+Pub. L. 116–283, div. F, title LXI, § 6110(a), Jan. 1, 2021, 134 Stat. 4561, provided that, effective on the effective date of the final rules issued by the Secretary of the Treasury pursuant to section 6110(b) of Pub. L. 116–283 (set out below), subsection (a)(2) of this section is amended—
+
+(1) by redesignating subparagraphs (Y) and (Z) as subparagraphs (Z) and (AA), respectively; and
+
+(2) by inserting after subparagraph (X) the following:
+
+“(Y) a person engaged in the trade of antiquities, including an advisor, consultant, or any other person who engages as a business in the solicitation or the sale of antiquities, subject to regulations prescribed by the Secretary;”.
+
+See 2021 Amendment note and Rulemaking note below.
+
 #### References in Text
 The Securities Exchange Act of 1934, referred to in subsec. (a)(2)(G), is act June 6, 1934, ch. 404, 48 Stat. 881, as amended, which is classified principally to chapter 2B (§ 78a et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see [section 78a of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section78a&num=0&edition=prelim) and Tables.
 
@@ -372,6 +463,16 @@ The Indian Gaming Regulatory Act, referred to in subsec. (a)(2)(X)(ii), is Pub. 
 The Commodity Exchange Act, referred to in subsec. (c)(1)(A), is act Sept. 21, 1922, ch. 369, 42 Stat. 998, as amended, which is classified generally to chapter 1 (§ 1 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see [section 1 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1&num=0&edition=prelim) and Tables.
 
 #### Amendments
+2021—Subsec. (a)(1). Pub. L. 116–283, § 6102(d)(1)(A), substituted “, a transaction in money, credit, securities or gold, or a service provided with respect to money, securities, futures, precious metals, stones and jewels, or value that substitutes for currency” for “, or a transaction in money, credit, securities, or gold”.
+
+Subsec. (a)(2)(J). Pub. L. 116–283, § 6102(d)(1)(B)(i), inserted “, or a business engaged in the exchange of currency, funds, or value that substitutes for currency or funds” before semicolon at end.
+
+Subsec. (a)(2)(R). Pub. L. 116–283, § 6102(d)(i)(B)(ii), substituted “currency, funds, or value that substitutes for currency,” for “funds,”.
+
+Subsec. (a)(2)(Y) to (AA). Pub. L. 116–283, § 6110(a)(1), added subpar. (Y) and redesignated former subpars. (Y) and (Z) as (Z) and (AA), respectively.
+
+Subsec. (a)(3)(D). Pub. L. 116–283, § 6102(d)(1)(C), added subpar. (D).
+
 2004—Subsec. (a)(2)(E). Pub. L. 108–458, § 6202(g), made technical correction to directory language of Pub. L. 107–56, § 321(a). See 2001 Amendment note below.
 
 Subsec. (a)(3)(C). Pub. L. 108–458, § 6203(b), substituted “sections 5316 and 5331” for “sections 5333 and 5316”.
@@ -402,8 +503,14 @@ Subsec. (a)(5). Pub. L. 100–690, § 6185(g)(1), inserted a comma after “Puer
 
 Subsec. (a)(5). Pub. L. 99–570, § 1362(b), inserted “the Virgin Islands, Guam, the Northern Mariana Islands, American Samoa, the Trust Territory of the Pacific Islands,” after “Puerto Rico”.
 
+#### Effective Date of 2021 Amendment
+Pub. L. 116–283, div. F, title LXI, § 6110(a)(2), Jan. 1, 2021, 134 Stat. 4562, provided that: “[Section 5312(a)(2)(Y) of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section5312/a/2/Y&num=0&edition=prelim), United States Code, as added by paragraph (1), shall take effect on the effective date of the final rules issued by the Secretary of the Treasury pursuant to subsection (b) [see note below].”
+
 #### Effective Date of 2004 Amendment
 Amendment by Pub. L. 108–458 effective as if included in Pub. L. 107–56, as of the date of enactment of such Act, and no amendment made by Pub. L. 107–56 that is inconsistent with such amendment to be deemed to have taken effect, see section 6205 of Pub. L. 108–458, set out as a note under [section 1828 of Title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1828&num=0&edition=prelim), Banks and Banking.
+
+#### Rulemaking
+Pub. L. 116–283, div. F, title LXI, § 6110(b), Jan. 1, 2021, 134 Stat. 4562, provided that: “(1) In general.—Not later than 360 days after the date of enactment of this Act [Jan. 1, 2021], the Secretary of the Treasury shall issue proposed rules to carry out the amendments made by subsection (a) [amending this section]. “(2) Considerations.—Before issuing a proposed rule under paragraph (1), the Secretary of the Treasury (acting through the Director of the FinCEN [Financial Crimes Enforcement Network of the Department of the Treasury]), in coordination with the Federal Bureau of Investigation, the Attorney General, and Homeland Security Investigations, shall consider—“(A) the appropriate scope for the rulemaking, including determining which persons should be subject to the rulemaking, by size, type of business, domestic or international geographical locations, or otherwise; “(B) the degree to which the regulations should focus on high-value trade in antiquities, and on the need to identify the actual purchasers of such antiquities, in addition to the agents or intermediaries acting for or on behalf of such purchasers; “(C) the need, if any, to identify persons who are dealers, advisors, consultants, or any other persons who engage as a business in the trade in antiquities; “(D) whether thresholds should apply in determining which persons to regulate; “(E) whether certain exemptions should apply to the regulations; and “(F) any other matter the Secretary determines appropriate.”
 
 #### Termination of Trust Territory of the Pacific Islands
 For termination of Trust Territory of the Pacific Islands, see note set out preceding [section 1681 of Title 48](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title48-section1681&num=0&edition=prelim), Territories and Insular Possessions.
@@ -528,6 +635,11 @@ Sections 25 and 25A of the Federal Reserve Act, referred to in subsec. (g)(2)(B)
 
 #### Amendments
 1994—Subsecs. (d) to (g). Pub. L. 103–325 added subsecs. (d) to (g).
+
+#### Currency Transaction Reports and Suspicious Activity Reports Thresholds Review
+Pub. L. 116–283, div. F, title LXII, § 6205, Jan. 1, 2021, 134 Stat. 4570, provided that: “(a) Review of Thresholds for Certain Currency Transaction Reports and Suspicious Activity Reports.—The Secretary [of the Treasury], in consultation with the Attorney General, the Director of National Intelligence, the Secretary of Homeland Security, the Federal functional regulators, State bank supervisors, State credit union supervisors, and other relevant stakeholders, shall review and determine whether the dollar thresholds, including aggregate thresholds, under sections 5313, 5318(g), and 5331 of title 31, United States Code, including regulations issued under those sections, should be adjusted. “(b) Considerations.—In making the determinations required under subsection (a), the Secretary, in consultation with the Attorney General, the Director of National Intelligence, the Secretary of Homeland Security, the Federal functional regulators, State bank supervisors, State credit union supervisors, and other relevant stakeholders, shall—“(1) rely substantially on information obtained through the BSA Data Value Analysis Project conducted by FinCEN [Financial Crimes Enforcement Network of the Department of the Treasury] and on information obtained through the Currency Transaction Report analyses conducted by the Comptroller General of the United States; and “(2) consider—“(A) the effects that adjusting the thresholds would have on law enforcement, intelligence, national security, and homeland security agencies; “(B) the costs likely to be incurred or saved by financial institutions from any adjustment to the thresholds; “(C) whether adjusting the thresholds would better conform the United States with international norms and standards to counter money laundering and the financing of terrorism; “(D) whether currency transaction report thresholds should be tied to inflation or otherwise be adjusted based on other factors consistent with the purposes of the Bank Secrecy Act; “(E) any other matter that the Secretary determines is appropriate. “(c) Report and Rulemakings.—Not later than 1 year after the date of enactment of this Act [Jan. 1, 2021], the Secretary, in consultation with the Attorney General, the Director of National Intelligence, the Secretary of Homeland Security, the Federal functional regulators, State bank supervisors, State credit union supervisors, and other relevant stakeholders, shall—“(1) publish a report of the findings from the review required under subsection (a); and “(2) propose rulemakings, as appropriate, to implement the findings and determinations described in paragraph (1). “(d) Updates.—Not less frequently than once every 5 years during the 10-year period beginning on the date of enactment of this Act, the Secretary shall—“(1) evaluate findings and rulemakings described in subsection (c); and “(2) transmit a written summary of the evaluation to the Committee on Financial Services of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate; and “(3) propose rulemakings, as appropriate, in response to the evaluation required under paragraph (1).”
+
+[For definitions of terms used in section 6205 of Pub. L. 116–283, set out above, see section 6003 of Pub. L. 116–283, set out as a Definitions note under [section 5311 of this title](./chapter-053-monetary-transactions.md#section-5311).]
 
 #### Efficient Use of Currency Transaction Report System
 Pub. L. 107–56, title III, § 366, Oct. 26, 2001, 115 Stat. 335, provided that: “(a) Findings.—The Congress finds the following:“(1) The Congress established the currency transaction reporting requirements in 1970 because the Congress found then that such reports have a high degree of usefulness in criminal, tax, and regulatory investigations and proceedings and the usefulness of such reports has only increased in the years since the requirements were established. “(2) In 1994, in response to reports and testimony that excess amounts of currency transaction reports were interfering with effective law enforcement, the Congress reformed the currency transaction report exemption requirements to provide—“(A) mandatory exemptions for certain reports that had little usefulness for law enforcement, such as cash transfers between depository institutions and cash deposits from government agencies; and “(B) discretionary authority for the Secretary of the Treasury to provide exemptions, subject to criteria and guidelines established by the Secretary, for financial institutions with regard to regular business customers that maintain accounts at an institution into which frequent cash deposits are made. “(3) Today there is evidence that some financial institutions are not utilizing the exemption system, or are filing reports even if there is an exemption in effect, with the result that the volume of currency transaction reports is once again interfering with effective law enforcement. “(b) Study and Report.—“(1) Study required.—The Secretary shall conduct a study of—“(A) the possible expansion of the statutory exemption system in effect under [section 5313 of title 31](./chapter-053-monetary-transactions.md#section-5313), United States Code; and “(B) methods for improving financial institution utilization of the statutory exemption provisions as a way of reducing the submission of currency transaction reports that have little or no value for law enforcement purposes, including improvements in the systems in effect at financial institutions for regular review of the exemption procedures used at the institution and the training of personnel in its effective use. “(2) Report required.—The Secretary of the Treasury shall submit a report to the Congress before the end of the 1-year period beginning on the date of enactment of this Act [Oct. 26, 2001] containing the findings and conclusions of the Secretary with regard to the study required under subsection (a), and such recommendations for legislative or administrative action as the Secretary determines to be appropriate.”
@@ -737,9 +849,9 @@ Pub. L. 99–570, title I, § 1364(b), Oct. 27, 1986, 100 Stat. 3207–34, provi
 ## § 5318. Compliance, exemptions, and summons authority
 **(a) General Powers of Secretary.—** The Secretary of the Treasury may (except under [section 5315 of this title](./chapter-053-monetary-transactions.md#section-5315) and regulations prescribed under section 5315)—
 
-(1) except as provided in subsection (b)(2), delegate duties and powers under this subchapter to an appropriate supervising agency and the United States Postal Service;
+(1) except as provided in subsections (b)(2) and (h)(4), delegate duties and powers under this subchapter to an appropriate supervising agency and the United States Postal Service;
 
-(2) require a class of domestic financial institutions or nonfinancial trades or businesses to maintain appropriate procedures to ensure compliance with this subchapter and regulations prescribed under this subchapter or to guard against money laundering;
+(2) require a class of domestic financial institutions or nonfinancial trades or businesses to maintain appropriate procedures, including the collection and reporting of certain information as the Secretary of the Treasury may prescribe by regulation, to ensure compliance with this subchapter and regulations prescribed under this subchapter or to guard against money laundering, the financing of terrorism, or other forms of illicit finance;
 
 (3) examine any books, papers, records, or other data of domestic financial institutions or nonfinancial trades or businesses relevant to the recordkeeping or reporting requirements of this subchapter;
 
@@ -808,9 +920,9 @@ Pub. L. 99–570, title I, § 1364(b), Oct. 27, 1986, 100 Stat. 3207–34, provi
 
   (A) *In general.—* — If a financial institution or any director, officer, employee, or agent of any financial institution, voluntarily or pursuant to this section or any other authority, reports a suspicious transaction to a government agency—
 
-    (i) neither the financial institution, director, officer, employee, or agent of such institution (whether or not any such person is still employed by the institution), nor any other current or former director, officer, or employee of, or contractor for, the financial institution or other reporting person, may notify any person involved in the transaction that the transaction has been reported; and
+    (i) neither the financial institution, director, officer, employee, or agent of such institution (whether or not any such person is still employed by the institution), nor any other current or former director, officer, or employee of, or contractor for, the financial institution or other reporting person, may notify any person involved in the transaction that the transaction has been reported or otherwise reveal any information that would reveal that the transaction has been reported,; 22 So in original. and
 
-    (ii) no current or former officer or employee of or contractor for the Federal Government or of or for any State, local, tribal, or territorial government within the United States, who has any knowledge that such report was made may disclose to any person involved in the transaction that the transaction has been reported, other than as necessary to fulfill the official duties of such officer or employee.
+    (ii) no current or former officer or employee of or contractor for the Federal Government or of or for any State, local, tribal, or territorial government within the United States, who has any knowledge that such report was made may disclose to any person involved in the transaction that the transaction has been reported, or otherwise reveal any information that would reveal that the transaction has been reported, other than as necessary to fulfill the official duties of such officer or employee.
 
   (B) *Disclosures in certain employment references.—*
 
@@ -841,9 +953,135 @@ Pub. L. 99–570, title I, § 1364(b), Oct. 27, 1986, 100 Stat. 3207–34, provi
 
   (C) *Coordination with other reporting requirements.—* — Subparagraph (A) shall not be construed as precluding any supervisory agency for any financial institution from requiring the financial institution to submit any information or report to the agency or another agency pursuant to any other applicable provision of law.
 
+(5) **Considerations in imposing reporting requirements.—**
+
+  (A) *Definitions.—* — In this paragraph, the terms “Bank Secrecy Act”, “Federal functional regulator”, “State bank supervisor”, and “State credit union supervisor” have the meanings given the terms in section 6003 of the Anti-Money Laundering Act of 2020.
+
+  (B) *Requirements.—* — In imposing any requirement to report any suspicious transaction under this subsection, the Secretary of the Treasury, in consultation with the Attorney General, appropriate representatives of State bank supervisors, State credit union supervisors, and the Federal functional regulators, shall consider items that include—
+
+    (i) the national priorities established by the Secretary;
+
+    (ii) the purposes described in section 5311; and
+
+    (iii) the means by or form in which the Secretary shall receive such reporting, including the burdens imposed by such means or form of reporting on persons required to provide such reporting, the efficiency of the means or form, and the benefits derived by the means or form of reporting by Federal law enforcement agencies and the intelligence community in countering financial crime, including money laundering and the financing of terrorism.
+
+  (C) *Compliance program.—* — Reports filed under this subsection shall be guided by the compliance program of a covered financial institution with respect to the Bank Secrecy Act, including the risk assessment processes of the covered institution that should include a consideration of priorities established by the Secretary of the Treasury under section 5318.
+
+  (D) *Streamlined data and real-time reporting.—*
+
+    (i) *Requirement to establish system.—* — In considering the means by or form in which the Secretary of the Treasury shall receive reporting pursuant to subparagraph (B)(iii), the Secretary of the Treasury, acting through the Director of the Financial Crimes Enforcement Network, and in consultation with appropriate representatives of the State bank supervisors, State credit union supervisors, and Federal functional regulators, shall—
+
+      (I) establish streamlined, including automated, processes to, as appropriate, permit the filing of noncomplex categories of reports that—
+
+        (aa) reduce burdens imposed on persons required to report; and
+
+        (bb) do not diminish the usefulness of the reporting to Federal law enforcement agencies, national security officials, and the intelligence community in combating financial crime, including the financing of terrorism;
+
+      (II) subject to clause (ii)—
+
+        (aa) permit streamlined, including automated, reporting for the categories described in subclause (I); and
+
+        (bb) establish the conditions under which the reporting described in item (aa) is permitted; and
+
+      (III) establish additional systems and processes as necessary to allow for the reporting described in subclause (II)(aa).
+
+    (ii) *Standards.—* — The Secretary of the Treasury—
+
+      (I) in carrying out clause (i), shall establish standards to ensure that streamlined reports relate to suspicious transactions relevant to potential violations of law (including regulations); and
+
+      (II) in establishing the standards under subclause (I), shall consider transactions, including structured transactions, designed to evade any regulation promulgated under this subchapter, certain fund and asset transfers with little or no apparent economic or business purpose, transactions without lawful purposes, and any other transaction that the Secretary determines to be appropriate.
+
+    (iii) *Rule of construction.—* — Nothing in this subparagraph may be construed to preclude the Secretary of the Treasury from—
+
+      (I) requiring reporting as provided for in subparagraphs (B) and (C); or
+
+      (II) notifying Federal law enforcement with respect to any transaction that the Secretary has determined implicates a national priority established by the Secretary.
+
+(6) **Sharing of threat pattern and trend information.—**
+
+  (A) *Definitions.—* — In this paragraph—
+
+    (i) the terms “Bank Secrecy Act” and “Federal functional regulator” have the meanings given the terms in section 6003 of the Anti-Money Laundering Act of 2020; and
+
+    (ii) the term “typology” means a technique to launder money or finance terrorism.
+
+  (B) *Suspicious activity report activity review.—* — Not less frequently than semiannually, the Director of the Financial Crimes Enforcement Network shall publish threat pattern and trend information to provide meaningful information about the preparation, use, and value of reports filed under this subsection by financial institutions, as well as other reports filed by financial institutions under the Bank Secrecy Act.
+
+  (C) *Inclusion of typologies.—* — In each publication published under subparagraph (B), the Director shall provide financial institutions and the Federal functional regulators with typologies, including data that can be adapted in algorithms if appropriate, relating to emerging money laundering and terrorist financing threat patterns and trends.
+
+(7) **Rules of construction.—** — Nothing in this subsection may be construed as precluding the Secretary of the Treasury from—
+
+  (A) requiring reporting as provided under subparagraphs (A) and (B) of paragraph (6); or
+
+  (B) notifying a Federal law enforcement agency with respect to any transaction that the Secretary has determined directly implicates a national priority established by the Secretary.
+
+(8) **Pilot program on sharing with foreign branches, subsidiaries, and affiliates.—**
+
+  (A) *In general.—*
+
+    (i) *Issuance of rules.—* — Not later than 1 year after the date of enactment of this paragraph, the Secretary of the Treasury shall issue rules, in coordination with the Director of the Financial Crimes Enforcement Network, establishing the pilot program described in subparagraph (B).
+
+    (ii) *Considerations.—* — In issuing the rules required under clause (i), the Secretary shall ensure that the sharing of information described in subparagraph (B)—
+
+      (I) is limited by the requirements of Federal and State law enforcement operations;
+
+      (II) takes into account potential concerns of the intelligence community; and
+
+      (III) is subject to appropriate standards and requirements regarding data security and the confidentiality of personally identifiable information.
+
+  (B) *Pilot program described.—* — The pilot program described in this paragraph shall—
+
+    (i) permit a financial institution with a reporting obligation under this subsection to share information related to reports under this subsection, including that such a report has been filed, with the institution’s foreign branches, subsidiaries, and affiliates for the purpose of combating illicit finance risks, notwithstanding any other provision of law except subparagraph (A) or (C);
+
+    (ii) permit the Secretary to consider, implement, and enforce provisions that would hold a foreign affiliate of a United States financial institution liable for the disclosure of information related to reports under this section;
+
+    (iii) terminate on the date that is 3 years after the date of enactment of this paragraph, except that the Secretary of the Treasury may extend the pilot program for not more than 2 years upon submitting to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives a report that includes—
+
+      (I) a certification that the extension is in the national interest of the United States, with a detailed explanation of the reasons that the extension is in the national interest of the United States;
+
+      (II) after appropriate consultation by the Secretary with participants in the pilot program, an evaluation of the usefulness of the pilot program, including a detailed analysis of any illicit activity identified or prevented as a result of the program; and
+
+      (III) a detailed legislative proposal providing for a long-term extension of activities under the pilot program, measures to ensure data security, and confidentiality of personally identifiable information, including expected budgetary resources for those activities, if the Secretary of the Treasury determines that a long-term extension is appropriate.
+
+  (C) *Prohibition involving certain jurisdictions.—*
+
+    (i) *In general.—* — In issuing the rules required under subparagraph (A), the Secretary of the Treasury may not permit a financial institution to share information on reports under this subsection with a foreign branch, subsidiary, or affiliate located in—
+
+      (I) the People’s Republic of China;
+
+      (II) the Russian Federation; or
+
+      (III) a jurisdiction that—
+
+        (aa) is a state sponsor of terrorism;
+
+        (bb) is subject to sanctions imposed by the Federal Government; or
+
+        (cc) the Secretary has determined cannot reasonably protect the security and confidentiality of such information.
+
+    (ii) *Exceptions.—* — The Secretary is authorized to make exceptions, on a case-by-case basis, for a financial institution located in a jurisdiction listed in subclause (I) or (II) of clause (i), if the Secretary notifies the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives that such an exception is in the national security interest of the United States.
+
+  (D) *Implementation updates.—* — Not later than 360 days after the date on which rules are issued under subparagraph (A), and annually thereafter for 3 years, the Secretary of the Treasury, or the designee of the Secretary, shall brief the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives on—
+
+    (i) the degree of any information sharing permitted under the pilot program and a description of criteria used by the Secretary to evaluate the appropriateness of the information sharing;
+
+    (ii) the effectiveness of the pilot program in identifying or preventing the violation of a United States law or regulation and mechanisms that may improve that effectiveness; and
+
+    (iii) any recommendations to amend the design of the pilot program.
+
+(9) **Treatment of foreign jurisdiction-originated reports.—** — Information related to a report received by a financial institution from a foreign affiliate with respect to a suspicious transaction relevant to a possible violation of law or regulation shall be subject to the same confidentiality requirements provided under this subsection for a report of a suspicious transaction described in paragraph (1).
+
+(10) **No offshoring compliance.—** — No financial institution may establish or maintain any operation located outside of the United States the primary purpose of which is to ensure compliance with the Bank Secrecy Act as a result of the sharing granted under this subsection.
+
+(11) **Definitions.—** — In this subsection:
+
+  (A) *Affiliate.—* — The term “affiliate” means an entity that controls, is controlled by, or is under common control with another entity.
+
+  (B) *Bank secrecy act; state bank supervisor; state credit union supervisor.—* — The terms “Bank Secrecy Act”, “State bank supervisor”, and “State credit union supervisor” have the meanings given the terms in section 6003 of the Anti-Money Laundering Act of 2020.
+
 **(h) Anti-Money Laundering Programs.—**
 
-(1) **In general.—** — In order to guard against money laundering through financial institutions, each financial institution shall establish anti-money laundering programs, including, at a minimum—
+(1) **In general.—** — In order to guard against money laundering and the financing of terrorism through financial institutions, each financial institution shall establish anti-money laundering and countering the financing of terrorism programs, including, at a minimum—
 
   (A) the development of internal policies, procedures, and controls;
 
@@ -853,7 +1091,23 @@ Pub. L. 99–570, title I, § 1364(b), Oct. 27, 1986, 100 Stat. 3207–34, provi
 
   (D) an independent audit function to test programs.
 
-(2) **Regulations.—** — The Secretary of the Treasury, after consultation with the appropriate Federal functional regulator (as defined in section 509 of the Gramm-Leach-Bliley Act), may prescribe minimum standards for programs established under paragraph (1), and may exempt from the application of those standards any financial institution that is not subject to the provisions of the rules contained in part 103 of title 31, of the Code of Federal Regulations, or any successor rule thereto, for so long as such financial institution is not subject to the provisions of such rules.
+(2) **Regulations.—**
+
+  (A) *In general.—* — The Secretary of the Treasury, after consultation with the appropriate Federal functional regulator (as defined in section 509 of the Gramm-Leach-Bliley Act), may prescribe minimum standards for programs established under paragraph (1), and may exempt from the application of those standards any financial institution that is not subject to the provisions of the rules contained in part 103 of title 31, of the Code of Federal Regulations, or any successor rule thereto, for so long as such financial institution is not subject to the provisions of such rules.
+
+  (B) *Factors.—* — In prescribing the minimum standards under subparagraph (A), and in supervising and examining compliance with those standards, the Secretary of the Treasury, and the appropriate Federal functional regulator (as defined in section 509 of the Gramm-Leach-Bliley Act ([12 U.S.C. 6809](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section6809&num=0&edition=prelim))) shall take into account the following:
+
+    (i) Financial institutions are spending private compliance funds for a public and private benefit, including protecting the United States financial system from illicit finance risks.
+
+    (ii) The extension of financial services to the underbanked and the facilitation of financial transactions, including remittances, coming from the United States and abroad in ways that simultaneously prevent criminal persons from abusing formal or informal financial services networks are key policy goals of the United States.
+
+    (iii) Effective anti-money laundering and countering the financing of terrorism programs safeguard national security and generate significant public benefits by preventing the flow of illicit funds in the financial system and by assisting law enforcement and national security agencies with the identification and prosecution of persons attempting to launder money and undertake other illicit activity through the financial system.
+
+    (iv) Anti-money laundering and countering the financing of terrorism programs described in paragraph (1) should be—
+
+      (I) reasonably designed to assure and monitor compliance with the requirements of this subchapter and regulations promulgated under this subchapter; and
+
+      (II) risk-based, including ensuring that more attention and resources of financial institutions should be directed toward higher-risk customers and activities, consistent with the risk profile of a financial institution, rather than toward lower-risk customers and activities.
 
 (3) **Concentration accounts.—** — The Secretary may prescribe regulations under this subsection that govern maintenance of concentration accounts by financial institutions, in order to ensure that such accounts are not used to prevent association of the identity of an individual customer with the movement of funds of which the customer is the direct or beneficial owner, which regulations shall, at a minimum—
 
@@ -862,6 +1116,20 @@ Pub. L. 99–570, title I, § 1364(b), Oct. 27, 1986, 100 Stat. 3207–34, provi
   (B) prohibit financial institutions and their employees from informing customers of the existence of, or the means of identifying, the concentration accounts of the institution; and
 
   (C) require each financial institution to establish written procedures governing the documentation of all transactions involving a concentration account, which procedures shall ensure that, any time a transaction involving a concentration account commingles funds belonging to 1 or more customers, the identity of, and specific amount belonging to, each customer is documented.
+
+(4) **Priorities.—**
+
+  (A) *In general.—* — Not later than 180 days after the date of enactment of this paragraph, the Secretary of the Treasury, in consultation with the Attorney General, Federal functional regulators (as defined in section 509 of the Gramm-Leach-Bliley Act ([15 U.S.C. 6809](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section6809&num=0&edition=prelim))), relevant State financial regulators, and relevant national security agencies, shall establish and make public priorities for anti-money laundering and countering the financing of terrorism policy.
+
+  (B) *Updates.—* — Not less frequently than once every 4 years, the Secretary of the Treasury, in consultation with the Attorney General, Federal functional regulators (as defined in section 509 of the Gramm-Leach-Bliley Act ([15 U.S.C. 6809](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section6809&num=0&edition=prelim))), relevant State financial regulators, and relevant national security agencies, shall update the priorities established under subparagraph (A).
+
+  (C) *Relation to national strategy.—* — The Secretary of the Treasury shall ensure that the priorities established under subparagraph (A) are consistent with the national strategy for countering the financing of terrorism and related forms of illicit finance developed under section 261 of the Countering Russian Influence in Europe and Eurasia Act of 2017 (Public Law 115–44; 131 Stat. 934).
+
+  (D) *Rulemaking.—* — Not later than 180 days after the date on which the Secretary of the Treasury establishes the priorities under subparagraph (A), the Secretary of the Treasury, acting through the Director of the Financial Crimes Enforcement Network and in consultation with the Federal functional regulators (as defined in section 509 of the Gramm-Leach-Bliley Act ([15 U.S.C. 6809](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section6809&num=0&edition=prelim))) and relevant State financial regulators, shall, as appropriate, promulgate regulations to carry out this paragraph.
+
+  (E) *Supervision and examination.—* — The review by a financial institution of the priorities established under subparagraph (A) and the incorporation of those priorities, as appropriate, into the risk-based programs established by the financial institution to meet obligations under this subchapter, the USA PATRIOT Act (Public Law 107–56; 115 Stat. 272), and other anti-money laundering and countering the financing of terrorism laws and regulations shall be included as a measure on which a financial institution is supervised and examined for compliance with those obligations.
+
+(5) **Duty.—** — The duty to establish, maintain and enforce an anti-money laundering and countering the financing of terrorism program as required by this subsection shall remain the responsibility of, and be performed by, persons in the United States who are accessible to, and subject to oversight and supervision by, the Secretary of the Treasury and the appropriate Federal functional regulator (as defined in section 509 of the Gramm-Leach-Bliley Act ([15 U.S.C. 6809](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section6809&num=0&edition=prelim))).
 
 **(i) Due Diligence for United States Private Banking and Correspondent Bank Accounts Involving Foreign Persons.—**
 
@@ -939,35 +1207,139 @@ Pub. L. 99–570, title I, § 1364(b), Oct. 27, 1986, 100 Stat. 3207–34, provi
 
   (A) *Appropriate federal banking agency.—* — The term “appropriate Federal banking agency” has the same meaning as in section 3 of the Federal Deposit Insurance Act ([12 U.S.C. 1813](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1813&num=0&edition=prelim)).
 
-  (B) *Incorporated term.—* — The term “correspondent account” has the same meaning as in section 5318A(e)(1)(B).
+  (B) *Covered financial institution.—* — The term “covered financial institution” means an institution referred to in subsection (j)(1).
+
+  (C) *Incorporated term.—* — The term “correspondent account” has the same meaning as in section 5318A(e)(1)(B).
 
 (2) **120-hour rule.—** — Not later than 120 hours after receiving a request by an appropriate Federal banking agency for information related to anti-money laundering compliance by a covered financial institution or a customer of such institution, a covered financial institution shall provide to the appropriate Federal banking agency, or make available at a location specified by the representative of the appropriate Federal banking agency, information and account documentation for any account opened, maintained, administered or managed in the United States by the covered financial institution.
 
 (3) **Foreign bank records.—**
 
-  (A) *Summons or subpoena of records.—*
+  (A) *Subpoena of records.—*
 
-    (i) *In general.—* — The Secretary of the Treasury or the Attorney General may issue a summons or subpoena to any foreign bank that maintains a correspondent account in the United States and request records related to such correspondent account, including records maintained outside of the United States relating to the deposit of funds into the foreign bank.
+    (i) *In general.—* — Notwithstanding subsection (b), the Secretary of the Treasury or the Attorney General may issue a subpoena to any foreign bank that maintains a correspondent account in the United States and request any records relating to the correspondent account or any account at the foreign bank, including records maintained outside of the United States, that are the subject of—
 
-    (ii) *Service of summons or subpoena.—* — A summons or subpoena referred to in clause (i) may be served on the foreign bank in the United States if the foreign bank has a representative in the United States, or in a foreign country pursuant to any mutual legal assistance treaty, multilateral agreement, or other request for international law enforcement assistance.
+      (I) any investigation of a violation of a criminal law of the United States;
+
+      (II) any investigation of a violation of this subchapter;
+
+      (III) a civil forfeiture action; or
+
+      (IV) an investigation pursuant to section 5318A.
+
+    (ii) *Production of records.—* — The foreign bank on which a subpoena described in clause (i) is served shall produce all requested records and authenticate all requested records with testimony in the manner described in—
+
+      (I) rule 902(12) of the Federal Rules of Evidence; or
+
+      (II) [section 3505 of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section3505&num=0&edition=prelim).
+
+    (iii) *Issuance and service of subpoena.—* — A subpoena described in clause (i)—
+
+      (I) shall designate—
+
+        (aa) a return date; and
+
+        (bb) the judicial district in which the related investigation is proceeding; and
+
+      (II) may be served—
+
+        (aa) in person;
+
+        (bb) by mail or fax in the United States if the foreign bank has a representative in the United States; or
+
+        (cc) if applicable, in a foreign country under any mutual legal assistance treaty, multilateral agreement, or other request for international legal or law enforcement assistance.
+
+    (iv) *Relief from subpoena.—*
+
+      (I) *In general.—* — At any time before the return date of a subpoena described in clause (i), the foreign bank on which the subpoena is served may petition the district court of the United States for the judicial district in which the related investigation is proceeding, as designated in the subpoena, to modify or quash—
+
+        (aa) the subpoena; or
+
+        (bb) the prohibition against disclosure described in subparagraph (C).
+
+      (II) *Conflict with foreign secrecy or confidentiality.—* — An assertion that compliance with a subpoena described in clause (i) would conflict with a provision of foreign secrecy or confidentiality law shall not be a sole basis for quashing or modifying the subpoena.
 
   (B) *Acceptance of service.—*
 
-    (i) *Maintaining records in the united states.—* — Any covered financial institution which maintains a correspondent account in the United States for a foreign bank shall maintain records in the United States identifying the owners of such foreign bank and the name and address of a person who resides in the United States and is authorized to accept service of legal process for records regarding the correspondent account.
+    (i) *Maintaining records in the united states.—* — Any covered financial institution that maintains a correspondent account in the United States for a foreign bank shall maintain records in the United States identifying—
 
-    (ii) *Law enforcement request.—* — Upon receipt of a written request from a Federal law enforcement officer for information required to be maintained under this paragraph, the covered financial institution shall provide the information to the requesting officer not later than 7 days after receipt of the request.
+      (I) the owners of record and the beneficial owners of the foreign bank; and
 
-  (C) *Termination of correspondent relationship.—*
+      (II) the name and address of a person who—
 
-    (i) *Termination upon receipt of notice.—* — A covered financial institution shall terminate any correspondent relationship with a foreign bank not later than 10 business days after receipt of written notice from the Secretary or the Attorney General (in each case, after consultation with the other) that the foreign bank has failed—
+        (aa) resides in the United States; and
 
-      (I) to comply with a summons or subpoena issued under subparagraph (A); or
+        (bb) is authorized to accept service of legal process for records covered under this subsection.
 
-      (II) to initiate proceedings in a United States court contesting such summons or subpoena.
+    (ii) *Law enforcement request.—* — Upon receipt of a written request from a Federal law enforcement officer for information required to be maintained under this paragraph, a covered financial institution shall provide the information to the requesting officer not later than 7 days after receipt of the request.
 
-    (ii) *Limitation on liability.—* — A covered financial institution shall not be liable to any person in any court or arbitration proceeding for terminating a correspondent relationship in accordance with this subsection.
+  (C) *Nondisclosure of subpoena.—*
 
-    (iii) *Failure to terminate relationship.—* — Failure to terminate a correspondent relationship in accordance with this subsection shall render the covered financial institution liable for a civil penalty of up to $10,000 per day until the correspondent relationship is so terminated.
+    (i) *In general.—* — No officer, director, partner, employee, or shareholder of, or agent or attorney for, a foreign bank on which a subpoena is served under this paragraph shall, directly or indirectly, notify any account holder involved or any person named in the subpoena issued under subparagraph (A)(i) and served on the foreign bank about the existence or contents of the subpoena.
+
+    (ii) *Damages.—* — Upon application by the Attorney General for a violation of this subparagraph, a foreign bank on which a subpoena is served under this paragraph shall be liable to the United States Government for a civil penalty in an amount equal to—
+
+      (I) double the amount of the suspected criminal proceeds sent through the correspondent account of the foreign bank in the related investigation; or
+
+      (II) if no such proceeds can be identified, not more than $250,000.
+
+  (D) *Enforcement.—*
+
+    (i) *In general.—* — If a foreign bank fails to obey a subpoena issued under subparagraph (A)(i), the Attorney General may invoke the aid of the district court of the United States for the judicial district in which the investigation or related proceeding is occurring to compel compliance with the subpoena.
+
+    (ii) *Court orders and contempt of court.—* — A court described in clause (i) may—
+
+      (I) issue an order requiring the foreign bank to appear before the Secretary of the Treasury or the Attorney General to produce—
+
+        (aa) certified records, in accordance with—
+
+          (AA) rule 902(12) of the Federal Rules of Evidence; or
+
+          (BB) [section 3505 of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section3505&num=0&edition=prelim); or
+
+        (bb) testimony regarding the production of the certified records; and
+
+      (II) punish any failure to obey an order issued under subclause (I) as contempt of court.
+
+    (iii) *Service of process.—* — All process in a case under this subparagraph shall be served on the foreign bank in the same manner as described in subparagraph (A)(iii).
+
+  (E) *Termination of correspondent relationship.—*
+
+    (i) *Termination upon receipt of notice.—* — A covered financial institution shall terminate any correspondent relationship with a foreign bank not later than 10 business days after the date on which the covered financial institution receives written notice from the Secretary of the Treasury or the Attorney General if, after consultation with the other, the Secretary of the Treasury or the Attorney General, as applicable, determines that the foreign bank has failed—
+
+      (I) to comply with a subpoena issued under subparagraph (A)(i); or
+
+      (II) to prevail in proceedings before—
+
+        (aa) the appropriate district court of the United States after challenging a subpoena described in subclause (I) under subparagraph (A)(iv)(I); or
+
+        (bb) a court of appeals of the United States after appealing a decision of a district court of the United States under item (aa).
+
+    (ii) *Limitation on liability.—* — A covered financial institution shall not be liable to any person in any court or arbitration proceeding for—
+
+      (I) terminating a correspondent relationship under this subparagraph; or
+
+      (II) complying with a nondisclosure order under subparagraph (C).
+
+    (iii) *Failure to terminate relationship or failure to comply with a subpoena.—*
+
+      (I) *Failure to terminate relationship.—* — A covered financial institution that fails to terminate a correspondent relationship under clause (i) shall be liable for a civil penalty in an amount that is not more than $25,000 for each day that the covered financial institution fails to terminate the relationship.
+
+      (II) *Failure to comply with a subpoena.—*
+
+        (aa) *In general.—* — Upon failure to comply with a subpoena under subparagraph (A)(i), a foreign bank may be liable for a civil penalty assessed by the issuing agency in an amount that is not more than $50,000 for each day that the foreign bank fails to comply with the terms of a subpoena.
+
+        (bb) *Additional penalties.—* — Beginning after the date that is 60 days after a foreign bank fails to comply with a subpoena under subparagraph (A)(i), the Secretary of the Treasury or the Attorney General may seek additional penalties and compel compliance with the subpoena in the appropriate district court of the United States.
+
+        (cc) *Venue for relief.—* — A foreign bank may seek review in the appropriate district court of the United States of any penalty assessed under this clause and the issuance of a subpoena under subparagraph (A)(i).
+
+  (F) *Enforcement of civil penalties.—* — Upon application by the United States, any funds held in the correspondent account of a foreign bank that is maintained in the United States with a covered financial institution may be seized by the United States to satisfy any civil penalties that are imposed—
+
+    (i) under subparagraph (C)(ii);
+
+    (ii) by a court for contempt under subparagraph (D); or
+
+    (iii) under subparagraph (E)(iii)(II).
 
 **(l) Identification and Verification of Accountholders.—**
 
@@ -1023,6 +1395,72 @@ Pub. L. 99–570, title I, § 1364(b), Oct. 27, 1986, 100 Stat. 3207–34, provi
 
   (B) *Technological feasibility.—* — No regulations shall be prescribed under this subsection before the Secretary certifies to the Congress that the Financial Crimes Enforcement Network has the technological systems in place to effectively and efficiently receive, keep, exploit, protect the security of, and disseminate information from reports of cross-border electronic transmittals of funds to law enforcement and other entities engaged in efforts against money laundering and terrorist financing.
 
+**(o) Testing.—**
+
+(1) **In general.—** — The Secretary of the Treasury, in consultation with the head of each agency to which the Secretary has delegated duties or powers under subsection (a), shall issue a rule to specify with respect to technology and related technology internal processes designed to facilitate compliance with the requirements under this subchapter, the standards by which financial institutions are to test the technology and related technology internal processes.
+
+(2) **Standards.—** — The standards described in paragraph (1) may include—
+
+  (A) an emphasis on using innovative approaches such as machine learning or other enhanced data analytics processes;
+
+  (B) risk-based testing, oversight, and other risk management approaches of the regime, prior to and after implementation, to facilitate calibration of relevant systems and prudently evaluate and monitor the effectiveness of their implementation;
+
+  (C) specific criteria for when and how risk-based testing against existing processes should be considered to test and validate the effectiveness of relevant systems and situations and standards for when other risk management processes, including those developed by or through third party risk and compliance management systems, and oversight may be more appropriate;
+
+  (D) specific standards for a risk governance framework for financial institutions to provide oversight and to prudently evaluate and monitor systems and testing processes both pre- and post-implementation;
+
+  (E) requirements for appropriate data privacy and information security; and
+
+  (F) a requirement that the system configurations, including any applicable algorithms and any validation of those configurations used by the regime be disclosed to the Financial Crimes Enforcement Network and the appropriate Federal functional regulator upon request.
+
+(3) **Confidentiality of algorithms.—**
+
+  (A) *In general.—* — If a financial institution or any director, officer, employee, or agent of any financial institution, voluntarily or pursuant to this subsection or any other authority, discloses the algorithms of the financial institution to a government agency, the algorithms and any materials associated with the creation or adaption of such algorithms shall be considered confidential and not subject to public disclosure.
+
+  (B) *Freedom of information act.—* — [Section 552(a)(3) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section552/a/3&num=0&edition=prelim) (commonly known as the “Freedom of Information Act”) shall not apply to any request for algorithms described in subparagraph (A) and any materials associated with the creation or adaptation of the algorithms.
+
+(4) **Definition.—** — In this subsection, the term “Federal functional regulator” means—
+
+  (A) the Board of Governors of the Federal Reserve System;
+
+  (B) the Office of the Comptroller of the Currency;
+
+  (C) the Federal Deposit Insurance Corporation;
+
+  (D) the National Credit Union Administration;
+
+  (E) the Securities and Exchange Commission; and
+
+  (F) the Commodity Futures Trading Commission.
+
+**(p) Sharing of Compliance Resources.—**
+
+(1) **Sharing permitted.—** — In order to more efficiently comply with the requirements of this subchapter, 2 or more financial institutions may enter into collaborative arrangements, as described in the statement entitled “Interagency Statement on Sharing Bank Secrecy Act Resources”, published on October 3, 2018, by the Board of Governors of the Federal Reserve System, the Federal Deposit Insurance Corporation, the Financial Crimes Enforcement Network, the National Credit Union Administration, and the Office of the Comptroller of the Currency.
+
+(2) **Outreach.—** — The Secretary of the Treasury and the appropriate supervising agencies shall carry out an outreach program to provide financial institutions with information, including best practices, with respect to the collaborative arrangements described in paragraph (1).
+
+**(q) Interagency Coordination and Consultation.—**
+
+(1) **In general.—** — The Secretary of the Treasury shall, as appropriate, invite an appropriate State bank supervisor and an appropriate State credit union supervisor to participate in the interagency consultation and coordination with the Federal depository institution regulators regarding the development or modification of any rule or regulation carrying out this subchapter.
+
+(2) **Rules of construction.—** — Nothing in this subsection may be construed to—
+
+  (A) affect, modify, or limit the discretion of the Secretary of the Treasury with respect to the methods or forms of interagency consultation and coordination; or
+
+  (B) require the Secretary of the Treasury or a Federal depository institution regulator to coordinate or consult with an appropriate State bank supervisor or to invite such supervisor to participate in interagency consultation and coordination with respect to a matter, including a rule or regulation, specifically affecting only Federal depository institutions or Federal credit unions.
+
+(3) **Definitions.—** — In this subsection:
+
+  (A) *Appropriate state bank supervisor.—* — The term “appropriate State bank supervisor” means the Chairman or members of the State Liaison Committee of the Financial Institutions Examination Council.
+
+  (B) *Appropriate state credit union supervisor.—* — The term “appropriate State credit union supervisor” means the Chairman or members of the State Liaison Committee of the Financial Institutions Examination Council.
+
+  (C) *Federal credit union.—* — The term “Federal credit union” has the meaning given the term in section 101 of the Federal Credit Union Act ([12 U.S.C. 1752](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1752&num=0&edition=prelim)).
+
+  (D) *Federal depository institution.—* — The term “Federal depository institution” has the meaning given the term in section 3 of the Federal Deposit Insurance Act ([12 U.S.C. 1813](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1813&num=0&edition=prelim)).
+
+  (E) *Federal depository institution regulators.—* — The term “Federal depository institution regulator” means a member of the Financial Institutions Examination Council to which is delegated any authority of the Secretary under subsection (a)(1).
+
 ### Statutory Notes
 
 | Historical and Revision Notes |  |  |
@@ -1044,7 +1482,17 @@ Subsection (a)(5), referred to in subsec. (f), was redesignated subsection (a)(6
 
 Section 18(w) of the Federal Deposit Insurance Act, referred to in subsec. (g)(2)(B)(i)(I), is classified to [section 1828(w) of Title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1828/w&num=0&edition=prelim), Banks and Banking.
 
-Section 509 of the Gramm-Leach-Bliley Act, referred to in subsecs. (h)(2) and (l)(4), is classified to [section 6809 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section6809&num=0&edition=prelim), Commerce and Trade.
+Section 6003 of the Anti-Money Laundering Act of 2020, referred to in subsec. (g)(5)(A), (6)(A)(i), (11)(B), is section 6003 of Pub. L. 116–283, div. F, Jan. 1, 2021, 134 Stat. 4548, which is set out as a note under [section 5311 of this title](./chapter-053-monetary-transactions.md#section-5311).
+
+The date of enactment of this paragraph, referred to in subsecs. (g)(8)(A)(i), (B)(iii), and (h)(4)(A), is the date of enactment of Pub. L. 116–283, which was approved Jan. 1, 2021.
+
+Section 509 of the Gramm-Leach-Bliley Act, referred to in subsecs. (h)(2), (4)(A), (B), (D), (5) and (l)(4), is classified to [section 6809 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section6809&num=0&edition=prelim), Commerce and Trade.
+
+Section 261 of the Countering Russian Influence in Europe and Eurasia Act of 2017 (Public Law 115–44; 131 Stat. 934), referred to in subsec. (h)(4)(C), probably means section 261 of title II of Pub. L. 115–44, Aug. 2, 2017, 131 Stat. 934, which is not classified to the Code.
+
+The USA PATRIOT Act (Public Law 107–56; 115 Stat. 272), referred to in subsec. (h)(4)(E), is Pub. L. 107—56, Oct. 26, 2001, 115 Stat. 272, also known as the Uniting and Strengthening America by Providing Appropriate Tools Required to Intercept and Obstruct Terrorism Act of 2001. For complete classification of this Act to the Code, see Short Title of 2001 Amendment note set out under [section 1 of Title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section1&num=0&edition=prelim), Crimes and Criminal Procedure, and Tables.
+
+The Federal Rules of Evidence, referred to in subsec. (k)(3)(A)(ii)(I), (D)(ii)(I)(aa)(AA), are set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
 
 Section 4(k) of the Bank Holding Company Act of 1956, referred to in subsec. (l)(4), is classified to [section 1843(k) of Title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1843/k&num=0&edition=prelim), Banks and Banking.
 
@@ -1057,6 +1505,36 @@ The date of enactment of the National Intelligence Reform Act of 2004, referred 
 For provisions relating to the Bank Secrecy Act Advisory Group, referred to in subsec. (n)(4)(B), see section 1564 of Pub. L. 102–550, which is set out as a note under [section 5311 of this title](./chapter-053-monetary-transactions.md#section-5311).
 
 #### Amendments
+2021—Subsec. (a)(1). Pub. L. 116–283, § 6101(b)(1), substituted “subsections (b)(2) and (h)(4)” for “subsection (b)(2)”.
+
+Subsec. (a)(2). Pub. L. 116–283, § 6101(c), inserted “, including the collection and reporting of certain information as the Secretary of the Treasury may prescribe by regulation,” after “appropriate procedures” and “, the financing of terrorism, or other forms of illicit finance” after “money laundering”.
+
+Subsec. (g)(2)(A)(i). Pub. L. 116–283, § 6212(b)(1), inserted “or otherwise reveal any information that would reveal that the transaction has been reported,” after “transaction has been reported”.
+
+Subsec. (g)(2)(A)(ii). Pub. L. 116–283, § 6212(b)(2), inserted “or otherwise reveal any information that would reveal that the transaction has been reported,” after “transaction has been reported,”.
+
+Subsec. (g)(5). Pub. L. 116–283, § 6202, added par. (5).
+
+Subsec. (g)(6), (7). Pub. L. 116–283, § 6206, added pars. (6) and (7).
+
+Subsec. (g)(8) to (11). Pub. L. 116–283, § 6212(a), added pars. (8) to (11).
+
+Subsec. (h)(1). Pub. L. 116–283, § 6101(b)(2)(A), inserted “and the financing of terrorism” after “money laundering” and “and countering the financing of terrorism” after “anti-money laundering” in introductory provisions.
+
+Subsec. (h)(2). Pub. L. 116–283, § 6101(b)(2)(B), inserted subpar. (A) designation and heading and added subpar. (B).
+
+Subsec. (h)(4), (5). Pub. L. 116–283, § 6101(b)(2)(C), added pars. (4) and (5).
+
+Subsec. (k)(1)(B), (C). Pub. L. 116–283, § 6308(a)(1), added subpar. (B) and redesignated subpar. (B) as (C).
+
+Subsec. (k)(3). Pub. L. 116–283, § 6308(a)(2), added par. (3) and struck out former par (3), which related to foreign bank records, including summons or subpoena of records, acceptance of service, and termination of correspondent relationship.
+
+Subsec. (o). Pub. L. 116–283, § 6209(a), added subsec. (o).
+
+Subsec. (p). Pub. L. 116–283, § 6213(a), added subsec. (p).
+
+Subsec. (q). Pub. L. 116–283, § 6301, added subsec. (q).
+
 2014—Subsec. (a)(6), (7). Pub. L. 113–156 added par. (6) and redesignated former par. (6) as (7).
 
 2011—Subsec. (g)(2)(A)(i). Pub. L. 112–74, § 118(1), added cl. (i) and struck out former cl. (i) which read as follows: “the financial institution, director, officer, employee, or agent may not notify any person involved in the transaction that the transaction has been reported; and”.
@@ -1171,6 +1649,19 @@ Secretary of the Treasury required to consult with State supervisory agencies in
 Pub. L. 107–56, title III, § 312(b)(1), Oct. 26, 2001, 115 Stat. 305, provided that: “Not later than 180 days after the date of enactment of this Act [Oct. 26, 2001], the Secretary [of the Treasury], in consultation with the appropriate Federal functional regulators (as defined in section 509 of the Gramm-Leach-Bliley Act [[15 U.S.C. 6809](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section6809&num=0&edition=prelim)]) of the affected financial institutions, shall further delineate, by regulation, the due diligence policies, procedures, and controls required under [section 5318(i)(1) of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section5318/i/1&num=0&edition=prelim), United States Code, as added by this section.”
 
 Pub. L. 107–56, title III, § 352(c), Oct. 26, 2001, 115 Stat. 322, provided that: “Before the end of the 180-day period beginning on the date of enactment of this Act [Oct. 26, 2001], the Secretary [of the Treasury] shall prescribe regulations that consider the extent to which the requirements imposed under this section [amending this section and enacting provisions set out as a note above] are commensurate with the size, location, and activities of the financial institutions to which such regulations apply.”
+
+#### Rule of Construction
+Pub. L. 116–283, div. F, title LXII, § 6213(b), Jan. 1, 2021, 134 Stat. 4579, provided that: “The amendment made by subsection (a) [amending this section] may not be construed to require financial institutions to share resources.”
+
+[For definition of “financial institution” as used in section 6213(b) of Pub. L. 116–283, set out above, see section 6003 of Pub. L. 116–283, set out as a Definitions note under [section 5311 of this title](./chapter-053-monetary-transactions.md#section-5311).]
+
+#### Law Enforcement Feedback on Suspicious Activity Reports
+Pub. L. 116–283, div. F, title LXII, § 6203, Jan. 1, 2021, 134 Stat. 4568, provided that: “(a) Feedback.—“(1) In general.—FinCEN [Financial Crimes Enforcement Network of Department of the Treasury] shall, to the extent practicable, periodically solicit feedback from individuals designated under [section 5318(h)(1)(B) of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section5318/h/1/B&num=0&edition=prelim), United States Code, by a variety of financial institutions representing a cross-section of the reporting industry to review the suspicious activity reports filed by those financial institutions and discuss trends in suspicious activity observed by FinCEN. “(2) Coordination with federal functional regulators and state bank supervisors and state credit union supervisors.—FinCEN shall provide any feedback solicited under paragraph (1) to the appropriate Federal functional regulator, State bank supervisor, or State credit union supervisor during the regularly scheduled examination of the applicable financial institution by the Federal functional regulator, State bank supervisor, or State credit union supervisor, as applicable. “(b) Disclosure Required.—“(1) In general.—“(A) Periodic disclosure.—Except as provided in paragraph (2), FinCEN shall, to the extent practicable, periodically disclose to each financial institution, in summary form, information on suspicious activity reports filed that proved useful to Federal or State criminal or civil law enforcement agencies during the period since the most recent disclosure under this paragraph to the financial institution. “(B) Rule of construction.—Nothing in this paragraph may be construed to require the public disclosure of any information filed with the Department of the Treasury under the Bank Secrecy Act. “(2) Exception for ongoing or closed investigations and to protect national security.—FinCEN shall not be required to disclose to a financial institution any information under paragraph (1) that relates to an ongoing or closed investigation or implicates the national security of the United States. “(3) Maintenance of statistics.—With respect to the actions described in paragraph (1), FinCEN shall keep records of all such actions taken to assist with the production of the reports described in paragraph (5) of [section 5318(g) of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section5318/g&num=0&edition=prelim), United States Code, as added by section 6202 of this division, and for other purposes. “(4) Coordination with department of justice.—The information disclosed by FinCEN under this subsection shall include information from the Department of Justice regarding—“(A) the review and use by the Department of suspicious activity reports filed by the applicable financial institution during the period since the most recent disclosure under this subsection; and “(B) any trends in suspicious activity observed by the Department.”
+
+[For definition of terms used in section 6203 of Pub. L. 116–283, set out above, see section 6003 of Pub. L. 116–283, set out as a Definitions note under [section 5311 of this title](./chapter-053-monetary-transactions.md#section-5311).]
+
+#### Update of Manual
+For requirement that Financial Institutions Examination Council manual be updated to reflect the rulemaking required by subsec. (o) of this section, as added by Pub. L. 116–283, see section 6209(b)(1) of Pub. L. 116–283, set out as a note under [section 3305 of Title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section3305&num=0&edition=prelim), Banks and Banking.
 
 #### Grace Period
 Pub. L. 107–56, title III, § 319(c), Oct. 26, 2001, 115 Stat. 314, provided that: “Financial institutions shall have 60 days from the date of enactment of this Act [Oct. 26, 2001] to comply with the provisions of [section 5318(k) of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section5318/k&num=0&edition=prelim), United States Code, as added by this section.”
@@ -1345,6 +1836,9 @@ Subsec. (e)(3). Pub. L. 108–458, § 6203(f)(4), inserted “or subsection (i) 
 #### Effective Date of 2004 Amendment
 Amendment by Pub. L. 108–458 effective as if included in Pub. L. 107–56, as of the date of enactment of such Act, and no amendment made by Pub. L. 107–56 that is inconsistent with such amendment to be deemed to have taken effect, see section 6205 of Pub. L. 108–458, set out as a note under [section 1828 of Title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1828&num=0&edition=prelim), Banks and Banking.
 
+#### Determination With Respect to Primary Money Laundering Concern of Russian Illicit Finance
+Pub. L. 116–283, div. H, title XCVII, § 9714(a), Jan. 1, 2021, 134 Stat. 4838, provided that: “(a) Determination.—If the Secretary of the Treasury determines that reasonable grounds exist for concluding that one or more financial institutions operating outside of the United States, or 1 or more classes of transactions within, or involving, a jurisdiction outside of the United States, or 1 or more types of accounts within, or involving, a jurisdiction outside of the United States is of primary money laundering concern in connection with Russian illicit finance, the Secretary of the Treasury may, by order, regulation, or otherwise as permitted by law—“(1) require domestic financial institutions and domestic financial agencies to take 1 or more of the special measures described in [section 5318A(b) of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section5318A/b&num=0&edition=prelim), United States Code; or “(2) prohibit, or impose conditions upon, certain transmittals of funds (to be defined by the Secretary) by any domestic financial institution or domestic financial agency, if such transmittal of funds involves any such institution, class of transaction, or type of account.”
+
 “Federal Functional Regulator” Includes Commodity Futures Trading Commission
 
 For purposes of Pub. L. 107–56 and any amendment by Pub. L. 107–56, the term “Federal functional regulator” includes the Commodity Futures Trading Commission, see section 321(c) of Pub. L. 107–56, set out as a note under [section 5318 of this title](./chapter-053-monetary-transactions.md#section-5318).
@@ -1353,7 +1847,7 @@ For purposes of Pub. L. 107–56 and any amendment by Pub. L. 107–56, the term
 <a id="section-5319"></a>
 ## § 5319. Availability of reports
 
-The Secretary of the Treasury shall make information in a report filed under this subchapter available to an agency, including any State financial institutions supervisory agency, United States intelligence agency or self-regulatory organization registered with the Securities and Exchange Commission or the Commodity Futures Trading Commission, upon request of the head of the agency or organization. The report shall be available for a purpose that is consistent with this subchapter. The Secretary may only require reports on the use of such information by any State financial institutions supervisory agency for other than supervisory purposes or by United States intelligence agencies. However, a report and records of reports are exempt from disclosure under [section 552 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section552&num=0&edition=prelim), and may not be disclosed under any State, local, tribal, or territorial “freedom of information”, “open government”, or similar law.
+The Secretary of the Treasury shall make information in a report filed under this subchapter available to an agency, including any State financial institutions supervisory agency, United States intelligence agency or self-regulatory organization registered with the Securities and Exchange Commission or the Commodity Futures Trading Commission, upon request of the head of the agency or organization. The report shall be available for a purpose that is consistent with this subchapter. The Secretary may only require reports on the use of such information by any State financial institutions supervisory agency for other than supervisory purposes or by United States intelligence agencies. However, a report and records of reports are exempt from search and disclosure under [section 552 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section552&num=0&edition=prelim), and may not be disclosed under any State, local, tribal, or territorial “freedom of information”, “open government”, or similar law.
 
 ### Statutory Notes
 
@@ -1366,6 +1860,8 @@ The Secretary of the Treasury shall make information in a report filed under thi
 The words “upon such conditions and pursuant to such procedures as he may by regulation prescribe” and “set forth” in 31:1061, and the word “specifically” in 31:1052(j), are omitted as surplus.
 
 #### Amendments
+2021—Pub. L. 116–283 inserted “search and” before “disclosure”.
+
 2011—Pub. L. 112–74 inserted “, and may not be disclosed under any State, local, tribal, or territorial ‘freedom of information’, ‘open government’, or similar law” after “[section 552 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section552&num=0&edition=prelim)”.
 
 2001—Pub. L. 107–56 reenacted section catchline without change and amended text generally. Prior to amendment, text read as follows: “The Secretary of the Treasury shall make information in a report filed under section 5313, 5314, or 5316 of this title available to an agency, including any State financial institutions supervisory agency, on request of the head of the agency. The report shall be available for a purpose consistent with those sections or a regulation prescribed under those sections. The Secretary may only require reports on the use of such information by any State financial institutions supervisory agency for other than supervisory purposes. However, a report and records of reports are exempt from disclosure under [section 552 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section552&num=0&edition=prelim).”
@@ -1396,7 +1892,7 @@ The words “has violated, is violating, or will violate this subchapter” are 
 ## § 5321. Civil penalties
 **(a)**
 
-(1) A domestic financial institution or nonfinancial trade or business, and a partner, director, officer, or employee of a domestic financial institution or nonfinancial trade or business, willfully violating this subchapter or a regulation prescribed or order issued under this subchapter (except sections 5314 and 5315 of this title or a regulation prescribed under sections 5314 and 5315), or willfully violating a regulation prescribed under section 21 of the Federal Deposit Insurance Act or section 123 of Public Law 91–508, is liable to the United States Government for a civil penalty of not more than the greater of the amount (not to exceed $100,000) involved in the transaction (if any) or $25,000. For a violation of [section 5318(a)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section5318/a/2&num=0&edition=prelim) or a regulation prescribed under section 5318(a)(2), a separate violation occurs for each day the violation continues and at each office, branch, or place of business at which a violation occurs or continues.
+(1) A domestic financial institution or nonfinancial trade or business, and a partner, director, officer, or employee of a domestic financial institution or nonfinancial trade or business, willfully violating this subchapter or a regulation prescribed or order issued under this subchapter (except sections 5314, 5315, and 5336 of this title or a regulation prescribed under sections 5314, 5315, and 5336), or willfully violating a regulation prescribed under section 21 of the Federal Deposit Insurance Act or section 123 of Public Law 91–508, is liable to the United States Government for a civil penalty of not more than the greater of the amount (not to exceed $100,000) involved in the transaction (if any) or $25,000. For a violation of [section 5318(a)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section5318/a/2&num=0&edition=prelim) or a regulation prescribed under section 5318(a)(2), a separate violation occurs for each day the violation continues and at each office, branch, or place of business at which a violation occurs or continues.
 
 (2) The Secretary of the Treasury may impose an additional civil penalty on a person not filing a report, or filing a report containing a material omission or misstatement, under [section 5316 of this title](./chapter-053-monetary-transactions.md#section-5316) or a regulation prescribed under section 5316. A civil penalty under this paragraph may not be more than the amount of the monetary instrument for which the report was required. A civil penalty under this paragraph is reduced by an amount forfeited under [section 5317(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section5317/b&num=0&edition=prelim).
 
@@ -1442,9 +1938,9 @@ The words “has violated, is violating, or will violate this subchapter” are 
 
 (6) **Negligence.—**
 
-  (A) *In general.—* — The Secretary of the Treasury may impose a civil money penalty of not more than $500 on any financial institution or nonfinancial trade or business which negligently violates any provision of this subchapter or any regulation prescribed under this subchapter.
+  (A) *In general.—* — The Secretary of the Treasury may impose a civil money penalty of not more than $500 on any financial institution or nonfinancial trade or business which negligently violates any provision of this subchapter (except section 5336) or any regulation prescribed under this subchapter (except section 5336).
 
-  (B) *Pattern of negligent activity.—* — If any financial institution or nonfinancial trade or business engages in a pattern of negligent violations of any provision of this subchapter or any regulation prescribed under this subchapter, the Secretary of the Treasury may, in addition to any penalty imposed under subparagraph (A) with respect to any such violation, impose a civil money penalty of not more than $50,000 on the financial institution or nonfinancial trade or business.
+  (B) *Pattern of negligent activity.—* — If any financial institution or nonfinancial trade or business engages in a pattern of negligent violations of any provision of this subchapter (except section 5336) or any regulation prescribed under this subchapter (except section 5336), the Secretary of the Treasury may, in addition to any penalty imposed under subparagraph (A) with respect to any such violation, impose a civil money penalty of not more than $50,000 on the financial institution or nonfinancial trade or business.
 
 (7) **Penalties for international counter money laundering violations.—** — The Secretary may impose a civil money penalty in an amount equal to not less than 2 times the amount of the transaction, but not more than $1,000,000, on any financial institution or agency that violates any provision of subsection (i) or (j) of section 5318 or any special measures imposed under section 5318A.
 
@@ -1474,6 +1970,34 @@ The words “has violated, is violating, or will violate this subchapter” are 
 
   (B) *Maximum dollar amount.—* — The terms and conditions authorized under subparagraph (A) may include, in the Secretary’s sole discretion, a limitation on the amount of any civil penalty which may be assessed by an appropriate Federal banking agency pursuant to a delegation under paragraph (1).
 
+**(f) Additional Damages for Repeat Violators.—**
+
+(1) **In general.—** — In addition to any other fines permitted under this section and section 5322, with respect to a person who has previously violated a provision of (or rule issued under) this subchapter, section 21 of the Federal Deposit Insurance Act ([12 U.S.C. 1829b](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1829b&num=0&edition=prelim)), or section 123 of Public Law 91–508 ([12 U.S.C. 1953](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1953&num=0&edition=prelim)), the Secretary of the Treasury, if practicable, may impose an additional civil penalty against such person for each additional such violation in an amount that is not more than the greater of—
+
+  (A) if practicable to calculate, 3 times the profit gained or loss avoided by such person as a result of the violation; or
+
+  (B) 2 times the maximum penalty with respect to the violation.
+
+(2) **Application.—** — For purposes of determining whether a person has committed a previous violation under paragraph (1), the determination shall only include violations occurring after the date of enactment of the Anti-Money Laundering Act of 2020.
+
+**(g) Certain Violators Barred From Serving on Boards of United States Financial Institutions.—**
+
+(1) **Definition.—** — In this subsection, the term “egregious violation” means, with respect to an individual—
+
+  (A) a criminal violation—
+
+    (i) for which the individual is convicted; and
+
+    (ii) for which the maximum term of imprisonment is more than 1 year; and
+
+  (B) a civil violation in which—
+
+    (i) the individual willfully committed the violation; and
+
+    (ii) the violation facilitated money laundering or the financing of terrorism.
+
+(2) **Bar.—** — An individual found to have committed an egregious violation of the Bank Secrecy Act, as defined in section 6003 of the Anti-Money Laundering Act of 2020, or any rules issued under the Bank Secrecy Act, shall be barred from serving on the board of directors of a United States financial institution during the 10-year period that begins on the date on which the conviction or judgment, as applicable, with respect to the egregious violation is entered.
+
 ### Statutory Notes
 
 | Historical and Revision Notes |  |  |
@@ -1497,11 +2021,23 @@ In subsection (b), the words “in the discretion of”, “in the name of the U
 In subsection (c), the words “in his discretion” and “upon such terms and conditions as he deems reasonable and just” are omitted as surplus. The word “civil” is added for clarity.
 
 #### References in Text
-Sections 3 and 21 of the Federal Deposit Insurance Act, referred to in subsecs. (a)(1) and (e)(1), are classified to sections 1813 and 1829b, respectively, of Title 12, Banks and Banking.
+Section 21 of the Federal Deposit Insurance Act, referred to in subsecs. (a)(1) and (f)(1), is classified to [section 1829b of Title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1829b&num=0&edition=prelim), Banks and Banking.
 
-Section 123 of Public Law 91–508, referred to in subsec. (a)(1), is classified to [section 1953 of Title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1953&num=0&edition=prelim), Banks and Banking.
+Section 123 of Public Law 91–508, referred to in subsecs. (a)(1) and (f)(1), is classified to [section 1953 of Title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1953&num=0&edition=prelim), Banks and Banking.
+
+The date of enactment of the Anti-Money Laundering Act of 2020, referred to in subsec. (f)(2), is the date of enactment of div. F of Pub. L. 116–283, which was approved Jan. 1, 2021.
+
+Section 6003 of the Anti-Money Laundering Act of 2020, referred to in subsec. (g)(2), is section 6003 of div. F of Pub. L. 116–283, which is set out as a note under [section 5311 of this title](./chapter-053-monetary-transactions.md#section-5311). Such section 6003 defines terms, including the Bank Secrecy Act, as used in div. F of Pub. L. 116–283.
 
 #### Amendments
+2021—Subsec. (a)(1). Pub. L. 116–283, § 6403(b)(1)(A), substituted “sections 5314, 5315, and 5336” for “sections 5314 and 5315” in two places.
+
+Subsec. (a)(6). Pub. L. 116–283, § 6403(b)(1)(B), inserted “(except section 5336)” after “subchapter” wherever appearing.
+
+Subsec. (f). Pub. L. 116–283, § 6309, added subsec. (f).
+
+Subsec. (g). Pub. L. 116–283, § 6310(a), added subsec. (g).
+
 2004—Subsec. (a)(5). Pub. L. 108–357 amended heading and text of par. (5) generally, inserting provisions changing the penalties for violating [section 5314 of this title](./chapter-053-monetary-transactions.md#section-5314) and providing a reasonable cause exception.
 
 2001—Subsec. (a)(1). Pub. L. 107–56, §§ 353(a), 365(c)(2)(B)(i), inserted “or nonfinancial trade or business” after “financial institution” in two places, “or order issued” after “subchapter or a regulation prescribed”, and “, or willfully violating a regulation prescribed under section 21 of the Federal Deposit Insurance Act or section 123 of Public Law 91–508,” after “sections 5314 and 5315)”.
@@ -1561,16 +2097,25 @@ Amendment by section 1357(a) of Pub. L. 99–570, applicable with respect to vio
 
 Pub. L. 99–570, title I, § 1364(c), Oct. 27, 1986, 100 Stat. 3207–34, provided that: “The amendments made by section 1357 (other than subsection (a) of such section) [amending sections 5321 and 5322 of this title] shall apply with respect to violations committed after the date of the enactment of this Act [Oct. 27, 1986].”
 
+#### Construction of 2021 Amendment
+Pub. L. 116–283, div. F, title LXIII, § 6310(b), Jan. 1, 2021, 134 Stat. 4595, provided that: “Nothing in the amendment made by subsection (a) [amending this section] shall be construed to limit the application of section 19 of the Federal Deposit Insurance Act ([12 U.S.C. 1829](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1829&num=0&edition=prelim)).”
+
 
 <a id="section-5322"></a>
 ## § 5322. Criminal penalties
-**(a)** A person willfully violating this subchapter or a regulation prescribed or order issued under this subchapter (except section 5315 or 5324 of this title or a regulation prescribed under section 5315 or 5324), or willfully violating a regulation prescribed under section 21 of the Federal Deposit Insurance Act or section 123 of Public Law 91–508, shall be fined not more than $250,000, or imprisoned for not more than five years, or both.
+**(a)** A person willfully violating this subchapter or a regulation prescribed or order issued under this subchapter (except section 5315, 5324, or 5336 of this title or a regulation prescribed under section 5315, 5324, or 5336), or willfully violating a regulation prescribed under section 21 of the Federal Deposit Insurance Act or section 123 of Public Law 91–508, shall be fined not more than $250,000, or imprisoned for not more than five years, or both.
 
-**(b)** A person willfully violating this subchapter or a regulation prescribed or order issued under this subchapter (except section 5315 or 5324 of this title or a regulation prescribed under section 5315 or 5324), or willfully violating a regulation prescribed under section 21 of the Federal Deposit Insurance Act or section 123 of Public Law 91–508, while violating another law of the United States or as part of a pattern of any illegal activity involving more than $100,000 in a 12-month period, shall be fined not more than $500,000, imprisoned for not more than 10 years, or both.
+**(b)** A person willfully violating this subchapter or a regulation prescribed or order issued under this subchapter (except section 5315, 5324, or 5336 of this title or a regulation prescribed under section 5315, 5324, or 5336), or willfully violating a regulation prescribed under section 21 of the Federal Deposit Insurance Act or section 123 of Public Law 91–508, while violating another law of the United States or as part of a pattern of any illegal activity involving more than $100,000 in a 12-month period, shall be fined not more than $500,000, imprisoned for not more than 10 years, or both.
 
 **(c)** For a violation of [section 5318(a)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section5318/a/2&num=0&edition=prelim) or a regulation prescribed under section 5318(a)(2), a separate violation occurs for each day the violation continues and at each office, branch, or place of business at which a violation occurs or continues.
 
 **(d)** A financial institution or agency that violates any provision of subsection (i) or (j) of section 5318, or any special measures imposed under section 5318A, or any regulation prescribed under subsection (i) or (j) of section 5318 or section 5318A, shall be fined in an amount equal to not less than 2 times the amount of the transaction, but not more than $1,000,000.
+
+**(e)** A person convicted of violating a provision of (or rule issued under) the Bank Secrecy Act, as defined in section 6003 of the Anti-Money Laundering Act of 2020, shall—
+
+(1) in addition to any other fine under this section, be fined in an amount that is equal to the profit gained by such person by reason of such violation, as determined by the court; and
+
+(2) if the person is an individual who was a partner, director, officer, or employee of a financial institution at the time the violation occurred, repay to such financial institution any bonus paid to the individual during the calendar year in which the violation occurred or the calendar year after which the violation occurred.
 
 ### Statutory Notes
 
@@ -1594,7 +2139,13 @@ Section 21 of the Federal Deposit Insurance Act, referred to in subsecs. (a) and
 
 Section 123 of Public Law 91–508, referred to in subsecs. (a) and (b), is classified to [section 1953 of Title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1953&num=0&edition=prelim), Banks and Banking.
 
+Section 6003 of the Anti-Money Laundering Act of 2020, referred to in subsec. (e), is section 6003 of div. F of Pub. L. 116–283, which is set out as a note under [section 5311 of this title](./chapter-053-monetary-transactions.md#section-5311). Such section 6003 defines terms, including the Bank Secrecy Act, as used in div. F of Pub. L. 116–283.
+
 #### Amendments
+2021—Subsecs. (a), (b). Pub. L. 116–283, § 6403(b)(2), substituted “section 5315, 5324, or 5336” for “section 5315 or 5324” in two places.
+
+Subsec. (e). Pub. L. 116–283, § 6312(a), added subsec. (e).
+
 2001—Subsec. (a). Pub. L. 107–56, § 353(b)(1), inserted “or order issued” after “willfully violating this subchapter or a regulation prescribed” and “, or willfully violating a regulation prescribed under section 21 of the Federal Deposit Insurance Act or section 123 of Public Law 91–508,” after “under section 5315 or 5324)”.
 
 Subsec. (b). Pub. L. 107–56, § 353(b)(2), inserted “or order issued” after “willfully violating this subchapter or a regulation prescribed” and “or willfully violating a regulation prescribed under section 21 of the Federal Deposit Insurance Act or section 123 of Public Law 91–508,” after “under section 5315 or 5324),”.
@@ -1614,16 +2165,218 @@ Subsec. (c). Pub. L. 99–570, § 1356(c)(1), substituted “5318(a)(2)” for �
 #### Effective Date of 1986 Amendment
 Amendment by section 1357(g) of Pub. L. 99–570 applicable with respect to violations committed after Oct. 27, 1986, see section 1364(c) of Pub. L. 99–570, set out as a note under [section 5321 of this title](./chapter-053-monetary-transactions.md#section-5321).
 
+#### Construction of 2021 Amendment
+Pub. L. 116–283, div. F, title LXIII, § 6312(b), Jan. 1, 2021, 134 Stat. 4596, provided that: “The amendment made by subsection (a) [amending this section] may not be construed to prohibit a financial institution from requiring the repayment of a bonus paid to a partner, director, officer, or employee if the financial institution determines that the partner, director, officer, or employee engaged in unethical, but non-criminal, activities.”
+
 
 <a id="section-5323"></a>
-## § 5323. Rewards for informants
-**(a)** The Secretary may pay a reward to an individual who provides original information which leads to a recovery of a criminal fine, civil penalty, or forfeiture, which exceeds $50,000, for a violation of this chapter.
+## § 5323. Whistleblower incentives and protections
+**(a) Definitions.—** In this section:
 
-**(b)** The Secretary shall determine the amount of a reward under this section. The Secretary may not award more than 25 per centum of the net amount of the fine, penalty, or forfeiture collected or $150,000, whichever is less.
+(1) **Covered judicial or administrative action.—** — The term “covered judicial or administrative action” means any judicial or administrative action brought by the Secretary of the Treasury (referred to in this section as the “Secretary”) or the Attorney General under this subchapter or subchapter III that results in monetary sanctions exceeding $1,000,000.
 
-**(c)** An officer or employee of the United States, a State, or a local government who provides information described in subsection (a) in the performance of official duties is not eligible for a reward under this section.
+(2) **Monetary sanctions.—** — The term “monetary sanctions”, when used with respect to any judicial or administrative action—
 
-**(d)** There are authorized to be appropriated such sums as may be necessary to carry out the provisions of this section.
+  (A) means any monies, including penalties, disgorgement, and interest, ordered to be paid; and
+
+  (B) does not include—
+
+    (i) forfeiture;
+
+    (ii) restitution; or
+
+    (iii) any victim compensation payment.
+
+(3) **Original information.—** — The term “original information” means information that—
+
+  (A) is derived from the independent knowledge or analysis of a whistleblower;
+
+  (B) is not known to the Secretary or the Attorney General from any other source, unless the whistleblower is the original source of the information; and
+
+  (C) is not exclusively derived from an allegation made in a judicial or administrative hearing, in a governmental report, hearing, audit, or investigation, or from the news media, unless the whistleblower is a source of the information.
+
+(4) **Related action.—** — The term “related action”, when used with respect to any judicial or administrative action brought by the Secretary or the Attorney General under this subchapter or subchapter III, means any judicial or administrative action brought by an entity described in any of subclauses (I) through (III) of subsection (g)(4)(D)(i) that is based upon the original information provided by a whistleblower pursuant to subsection (b) that led to the successful enforcement of the action by the Secretary or the Attorney General.
+
+(5) **Whistleblower.—**
+
+  (A) *In general.—* — The term “whistleblower” means any individual who provides, or 2 or more individuals acting jointly who provide, information relating to a violation of this subchapter or subchapter III to the employer of the individual or individuals, including as part of the job duties of the individual or individuals, or to the Secretary or the Attorney General.
+
+  (B) *Special rule.—* — Solely for the purposes of subsection (g)(1), the term “whistleblower” includes any individual who takes, or 2 or more individuals acting jointly who take, an action described in subsection (g)(1)(A).
+
+**(b) Awards.—**
+
+(1) **In general.—** — In any covered judicial or administrative action, or related action, the Secretary, under regulations prescribed by the Secretary, in consultation with the Attorney General and subject to subsection (c) and to amounts made available in advance by appropriation Acts, shall pay an award or awards to 1 or more whistleblowers who voluntarily provided original information to the employer of the individual, the Secretary, or the Attorney General, as applicable, that led to the successful enforcement of the covered judicial or administrative action, or related action, in an aggregate amount equal to not more than 30 percent, in total, of what has been collected of the monetary sanctions imposed in the action or related actions.
+
+(2) **Source of awards.—** — For the purposes of paying any award under this section, the Secretary may, subject to amounts made available in advance by appropriation Acts, use monetary sanction amounts recovered based on the original information with respect to which the award is being paid.
+
+**(c) Determination of Amount of Award; Denial of Award.—**
+
+(1) **Determination of amount of award.—**
+
+  (A) *Discretion.—* — The determination of the amount of an award made under subsection (b) shall be in the discretion of the Secretary.
+
+  (B) *Criteria.—* — In determining the amount of an award made under subsection (b), the Secretary shall take into consideration—
+
+    (i) the significance of the information provided by the whistleblower to the success of the covered judicial or administrative action;
+
+    (ii) the degree of assistance provided by the whistleblower and any legal representative of the whistleblower in a covered judicial or administrative action;
+
+    (iii) the programmatic interest of the Department of the Treasury in deterring violations of this subchapter and subchapter III by making awards to whistleblowers who provide information that lead to the successful enforcement of either such subchapter; and
+
+    (iv) such additional relevant factors as the Secretary, in consultation with the Attorney General, may establish by rule or regulation.
+
+(2) **Denial of award.—** — No award under subsection (b) may be made—
+
+  (A) to any whistleblower who is, or was at the time the whistleblower acquired the original information submitted to the Secretary or the Attorney General, as applicable, a member, officer, or employee—
+
+    (i) of—
+
+      (I) an appropriate regulatory or banking agency;
+
+      (II) the Department of the Treasury or the Department of Justice; or
+
+      (III) a law enforcement agency; and
+
+    (ii) acting in the normal course of the job duties of the whistleblower;
+
+  (B) to any whistleblower who is convicted of a criminal violation related to the judicial or administrative action for which the whistleblower otherwise could receive an award under this section; or
+
+  (C) to any whistleblower who fails to submit information to the Secretary or the Attorney General, as applicable, in such form as the Secretary, in consultation with the Attorney General, may, by rule, require.
+
+**(d) Representation.—**
+
+(1) **Permitted representation.—** — Any whistleblower who makes a claim for an award under subsection (b) may be represented by counsel.
+
+(2) **Required representation.—**
+
+  (A) *In general.—* — Any whistleblower who anonymously makes a claim for an award under subsection (b) shall be represented by counsel if the whistleblower anonymously submits the information upon which the claim is based.
+
+  (B) *Disclosure of identity.—* — Before the payment of an award, a whistleblower shall disclose the identity of the whistleblower and provide such other information as the Secretary may require, directly or through counsel for the whistleblower.
+
+**(e) No Contract Necessary.—** No contract with the Department of the Treasury is necessary for any whistleblower to receive an award under subsection (b), unless otherwise required by the Secretary by rule or regulation.
+
+**(f) Appeals.—**
+
+(1) **In general.—** — Any determination made under this section, including whether, to whom, or in what amount to make awards, shall be in the discretion of the Secretary.
+
+(2) **Requirements.—**
+
+  (A) *In general.—* — Any determination described in paragraph (1), except the determination of the amount of an award if the award was made in accordance with subsection (b), may be appealed to the appropriate court of appeals of the United States not more than 30 days after the determination is issued by the Secretary.
+
+  (B) *Scope of review.—* — The court to which a determination by the Secretary is appealed under subparagraph (A) shall review the determination in accordance with [section 706 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section706&num=0&edition=prelim).
+
+**(g) Protection of Whistleblowers.—**
+
+(1) **Prohibition against retaliation.—** — No employer may, directly or indirectly, discharge, demote, suspend, threaten, blacklist, harass, or in any other manner discriminate against a whistleblower in the terms and conditions of employment or post-employment because of any lawful act done by the whistleblower—
+
+  (A) in providing information in accordance with this section to—
+
+    (i) the Secretary or the Attorney General;
+
+    (ii) a Federal regulatory or law enforcement agency;
+
+    (iii) any Member of Congress or any committee of Congress; or
+
+    (iv) a person with supervisory authority over the whistleblower, or such other person working for the employer who has the authority to investigate, discover, or terminate misconduct; or
+
+  (B) in initiating, testifying in, or assisting in any investigation or judicial or administrative action of the Department of the Treasury or the Department of Justice based upon or related to the information described in subparagraph (A); or
+
+  (C) in providing information regarding any conduct that the whistleblower reasonably believes constitutes a violation of any law, rule, or regulation subject to the jurisdiction of the Department of the Treasury, or a violation of section 1956, 1957, or 1960 of title 18 (or any rule or regulation under any such provision), to—
+
+    (i) a person with supervisory authority over the whistleblower at the employer of the whistleblower; or
+
+    (ii) another individual working for the employer described in clause (i) who the whistleblower reasonably believes has the authority to—
+
+      (I) investigate, discover, or terminate the misconduct; or
+
+      (II) take any other action to address the misconduct.
+
+(2) **Enforcement.—** — Any individual who alleges discharge or other discrimination, or is otherwise aggrieved by an employer, in violation of paragraph (1), may seek relief by—
+
+  (A) filing a complaint with the Secretary of Labor in accordance with the requirements of this subsection; or
+
+  (B) if the Secretary of Labor has not issued a final decision within 180 days of the filing of a complaint under subparagraph (A), and there is no showing that such a delay is due to the bad faith of the claimant, bringing an action against the employer at law or in equity in the appropriate district court of the United States, which shall have jurisdiction over such an action without regard to the amount in controversy.
+
+(3) **Procedure.—**
+
+  (A) *Department of labor complaint.—*
+
+    (i) *In general.—* — Except as provided in clause (ii) and subparagraph (C), the requirements under [section 42121(b) of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section42121/b&num=0&edition=prelim), including the legal burdens of proof described in such section 42121(b), shall apply with respect to a complaint filed under paragraph (2)(A) by an individual against an employer.
+
+    (ii) *Exception.—* — With respect to a complaint filed under paragraph (2)(A), notification required to be made under [section 42121(b)(1) of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section42121/b/1&num=0&edition=prelim) shall be made to each person named in the complaint, including the employer.
+
+  (B) *District court complaint.—*
+
+    (i) *Jury trial.—* — A party to an action brought under paragraph (2)(B) shall be entitled to trial by jury.
+
+    (ii) *Statute of limitations.—*
+
+      (I) *In general.—* — An action may not be brought under paragraph (2)(B)—
+
+        (aa) more than 6 years after the date on which the violation of paragraph (1) occurs; or
+
+        (bb) more than 3 years after the date on which when facts material to the right of action are known, or reasonably should have been known, by the employee alleging a violation of paragraph (1).
+
+      (II) *Required action within 10 years.—* — Notwithstanding subclause (I), an action under paragraph (2)(B) may not in any circumstance be brought more than 10 years after the date on which the violation occurs.
+
+  (C) *Relief.—* — Relief for an individual prevailing with respect to a complaint filed under subparagraph (A) of paragraph (2) or an action brought under subparagraph (B) of that paragraph shall include—
+
+    (i) reinstatement with the same seniority status that the individual would have had, but for the conduct that is the subject of the complaint or action, as applicable;
+
+    (ii) 2 times the amount of back pay otherwise owed to the individual, with interest;
+
+    (iii) the payment of compensatory damages, which shall include compensation for litigation costs, expert witness fees, and reasonable attorneys’ fees; and
+
+    (iv) any other appropriate remedy with respect to the conduct that is the subject of the complaint or action, as applicable.
+
+(4) **Confidentiality.—**
+
+  (A) *In general.—* — Except as provided in subparagraphs (C) and (D), the Secretary or the Attorney General, as applicable, and any officer or employee of the Department of the Treasury or the Department of Justice, shall not disclose any information, including information provided by a whistleblower to either such official, which could reasonably be expected to reveal the identity of a whistleblower, except in accordance with the provisions of [section 552a of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section552a&num=0&edition=prelim), unless and until required to be disclosed to a defendant or respondent in connection with a public proceeding instituted by the appropriate such official or any entity described in subparagraph (D).
+
+  (B) *Exempted statute.—* — For purposes of [section 552 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section552&num=0&edition=prelim), this paragraph shall be considered a statute described in subsection (b)(3)(B) of such section 552.
+
+  (C) *Rule of construction.—* — Nothing in this section is intended to limit, or shall be construed to limit, the ability of the Attorney General to present such evidence to a grand jury or to share such evidence with potential witnesses or defendants in the course of an ongoing criminal investigation.
+
+  (D) *Availability to government agencies.—*
+
+    (i) *In general.—* — Without the loss of its status as confidential in the hands of the Secretary or the Attorney General, as applicable, all information referred to in subparagraph (A) may, in the discretion of the appropriate such official, when determined by that official to be necessary to accomplish the purposes of this subchapter, be made available to—
+
+      (I) any appropriate Federal authority;
+
+      (II) a State attorney general in connection with any criminal investigation;
+
+      (III) any appropriate State regulatory authority; and
+
+      (IV) a foreign law enforcement authority.
+
+    (ii) *Confidentiality.—*
+
+      (I) *In general.—* — Each of the entities described in subclauses (I) through (III) of clause (i) shall maintain such information as confidential in accordance with the requirements established under subparagraph (A).
+
+      (II) *Foreign authorities.—* — Each entity described in clause (i)(IV) shall maintain such information in accordance with such assurances of confidentiality as determined by the Secretary or Attorney General, as applicable.
+
+(5) **Rights retained.—** — Nothing in this section shall be deemed to diminish the rights, privileges, or remedies of any whistleblower under any Federal or State law or under any collective bargaining agreement.
+
+(6) **Coordination with other provisions of law.—** — This subsection shall not apply with respect to any employer that is subject to section 33 of the Federal Deposit Insurance Act ([12 U.S.C. 1831j](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1831j&num=0&edition=prelim)) or section 213 or 214 of the Federal Credit Union Act ([12 U.S.C. 1790b](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1790b&num=0&edition=prelim), 1790c).
+
+**(h) Provision of False Information.—** A whistleblower shall not be entitled to an award under this section if the whistleblower—
+
+(1) knowingly and willfully makes any false, fictitious, or fraudulent statement or representation; or
+
+(2) uses any false writing or document knowing the writing or document contains any false, fictitious, or fraudulent statement or entry.
+
+**(i) Rulemaking Authority.—** The Secretary, in consultation with the Attorney General, shall have the authority to issue such rules and regulations as may be necessary or appropriate to implement the provisions of this section consistent with the purposes of this section.
+
+**(j) Nonenforceability of Certain Provisions Waiving Rights and Remedies or Requiring Arbitration of Disputes.—**
+
+(1) **Waiver of rights and remedies.—** — The rights and remedies provided for in this section may not be waived by any agreement, policy form, or condition of employment, including by a predispute arbitration agreement.
+
+(2) **Predispute arbitration agreements.—** — No predispute arbitration agreement shall be valid or enforceable, to the extent the agreement requires arbitration of a dispute arising under this section.
+
+### Statutory Notes
+
+#### Amendments
+2021—Pub. L. 116–283 amended section generally. Prior to amendment, section related to rewards for informants.
 
 
 <a id="section-5324"></a>
@@ -1783,38 +2536,11 @@ Section, added Pub. L. 102–550, title XV, § 1511(a), Oct. 28, 1992, 106 Stat.
 
 
 <a id="section-5328"></a>
-## § 5328. Whistleblower protections
-**(a) Prohibition Against Discrimination.—** No financial institution or nonfinancial trade or business may discharge or otherwise discriminate against any employee with respect to compensation, terms, conditions, or privileges of employment because the employee (or any person acting pursuant to the request of the employee) provided information to the Secretary of the Treasury, the Attorney General, or any Federal supervisory agency regarding a possible violation of any provision of this subchapter or section 1956, 1957, or 1960 of title 18, or any regulation under any such provision, by the financial institution or nonfinancial trade or business or any director, officer, or employee of the financial institution or nonfinancial trade or business.
-
-**(b) Enforcement.—** Any employee or former employee who believes that such employee has been discharged or discriminated against in violation of subsection (a) may file a civil action in the appropriate United States district court before the end of the 2-year period beginning on the date of such discharge or discrimination.
-
-**(c) Remedies.—** If the district court determines that a violation has occurred, the court may order the financial institution or nonfinancial trade or business which committed the violation to—
-
-(1) reinstate the employee to the employee’s former position;
-
-(2) pay compensatory damages; or
-
-(3) take other appropriate actions to remedy any past discrimination.
-
-**(d) Limitation.—** The protections of this section shall not apply to any employee who—
-
-(1) deliberately causes or participates in the alleged violation of law or regulation; or
-
-(2) knowingly or recklessly provides substantially false information to the Secretary, the Attorney General, or any Federal supervisory agency.
-
-**(e) Coordination With Other Provisions of Law.—** This section shall not apply with respect to any financial institution or nonfinancial trade or business which is subject to section 33 of the Federal Deposit Insurance Act, section 213 of the Federal Credit Union Act, or section 21A(q) 11 See References in Text note below. of the Home Owners’ Loan Act (as added by section 251(c) of the Federal Deposit Insurance Corporation Improvement Act of 1991).
+## § 5328. Repealed. Pub. L. 116–283, div. F, title LXIII, § 6314(b), Jan. 1, 2021, 134 Stat. 4603]
 
 ### Statutory Notes
 
-#### References in Text
-Section 33 of the Federal Deposit Insurance Act, referred to in subsec. (e), is classified to [section 1831j of Title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1831j&num=0&edition=prelim), Banks and Banking.
-
-Section 213 of the Federal Credit Union Act, referred to in subsec. (e), is classified to [section 1790b of Title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1790b&num=0&edition=prelim), Banks and Banking.
-
-Section 21A(q) of the Home Owners’ Loan Act, referred to in subsec. (e), probably means section 21A(q) of the Federal Home Loan Bank Act, which was classified to former [section 1441a(q) of Title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1441a/q&num=0&edition=prelim), Banks and Banking, prior to repeal by Pub. L. 111–203, title III, § 364(b), July 21, 2010, 124 Stat. 1555.
-
-#### Amendments
-2001—Subsecs. (a), (c), (e). Pub. L. 107–56 inserted “or nonfinancial trade or business” after “financial institution” wherever appearing.
+Section, added Pub. L. 102–550, title XV, § 1563(a), Oct. 28, 1992, 106 Stat. 4072; amended Pub. L. 107–56, title III, § 365(c)(2)(B)(i), Oct. 26, 2001, 115 Stat. 335, related to whistleblower protections. See [section 5323 of this title](./chapter-053-monetary-transactions.md#section-5323).
 
 
 <a id="section-5329"></a>
@@ -1875,13 +2601,13 @@ The Secretary shall—
 
 (1) **Money transmitting business.—** — The term “money transmitting business” means any business other than the United States Postal Service which—
 
-  (A) provides check cashing, currency exchange, or money transmitting or remittance services, or issues or redeems money orders, travelers’ checks, and other similar instruments or any other person who engages as a business in the transmission of funds, including any person who engages as a business in an informal money transfer system or any network of people who engage as a business in facilitating the transfer of money domestically or internationally outside of the conventional financial institutions system;; 11 So in original.
+  (A) provides check cashing, currency exchange, or money transmitting or remittance services, or issues or redeems money orders, travelers’ checks, and other similar instruments or any other person who engages as a business in the transmission of currency, funds, or value that substitutes for currency, including any person who engages as a business in an informal money transfer system or any network of people who engage as a business in facilitating the transfer of money domestically or internationally outside of the conventional financial institutions system;
 
   (B) is required to file reports under section 5313; and
 
   (C) is not a depository institution (as defined in section 5313(g)).
 
-(2) **Money transmitting service.—** — The term “money transmitting service” includes accepting currency or funds denominated in the currency of any country and transmitting the currency or funds, or the value of the currency or funds, by any means through a financial agency or institution, a Federal reserve bank or other facility of the Board of Governors of the Federal Reserve System, or an electronic funds transfer network.
+(2) **Money transmitting service.—** — The term “money transmitting service” includes accepting currency, funds, or value that substitutes for currency and transmitting the currency, funds, or value that substitutes for currency by any means, including through a financial agency or institution, a Federal reserve bank or other facility of the Board of Governors of the Federal Reserve System, or an electronic funds transfer network.
 
 **(e) Civil Penalty for Failure To Comply With Registration Requirements.—**
 
@@ -1899,6 +2625,10 @@ The date of enactment of the Money Laundering Suppression Act of 1994, referred 
 Section 19(b)(1)(C) of the Federal Reserve Act, referred to in subsec. (b)(3), is classified to [section 461(b)(1)(C) of Title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section461/b/1/C&num=0&edition=prelim), Banks and Banking.
 
 #### Amendments
+2021—Subsec. (d)(1)(A). Pub. L. 116–283, § 6102(d)(2)(A), substituted “currency, funds, or value that substitutes for currency,” for “funds,” and “system;” for “system;;”.
+
+Subsec. (d)(2). Pub. L. 116–283, § 6102(d)(2)(B), substituted “currency, funds, or value that substitutes for currency” for “currency or funds denominated in the currency of any country” after “accepting”, substituted “currency, funds, or value that substitutes for currency” for “currency or funds, or the value of the currency or funds,” after “transmitting the”, and inserted “, including” after “means”.
+
 2001—Subsec. (d)(1)(A). Pub. L. 107–56 inserted before semicolon “or any other person who engages as a business in the transmission of funds, including any person who engages as a business in an informal money transfer system or any network of people who engage as a business in facilitating the transfer of money domestically or internationally outside of the conventional financial institutions system;”.
 
 #### Findings and Purposes
@@ -2004,6 +2734,695 @@ Amendment by Pub. L. 108–458 effective as if included in Pub. L. 107–56, as 
 
 #### Bulk Cash Smuggling Into or Out of the United States
 Pub. L. 107–56, title III, § 371(a), (b), Oct. 26, 2001, 115 Stat. 336, 337, provided that: “(a) Findings.—The Congress finds the following:“(1) Effective enforcement of the currency reporting requirements of subchapter II of chapter 53 of title 31, United States Code, and the regulations prescribed under such subchapter, has forced drug dealers and other criminals engaged in cash-based businesses to avoid using traditional financial institutions. “(2) In their effort to avoid using traditional financial institutions, drug dealers and other criminals are forced to move large quantities of currency in bulk form to and through the airports, border crossings, and other ports of entry where the currency can be smuggled out of the United States and placed in a foreign financial institution or sold on the black market. “(3) The transportation and smuggling of cash in bulk form may now be the most common form of money laundering, and the movement of large sums of cash is one of the most reliable warning signs of drug trafficking, terrorism, money laundering, racketeering, tax evasion and similar crimes. “(4) The intentional transportation into or out of the United States of large amounts of currency or monetary instruments, in a manner designed to circumvent the mandatory reporting provisions of subchapter II of chapter 53 of title 31, United States Code,, [sic] is the equivalent of, and creates the same harm as, the smuggling of goods. “(5) The arrest and prosecution of bulk cash smugglers are important parts of law enforcement’s effort to stop the laundering of criminal proceeds, but the couriers who attempt to smuggle the cash out of the United States are typically low-level employees of large criminal organizations, and thus are easily replaced. Accordingly, only the confiscation of the smuggled bulk cash can effectively break the cycle of criminal activity of which the laundering of the bulk cash is a critical part. “(6) The current penalties for violations of the currency reporting requirements are insufficient to provide a deterrent to the laundering of criminal proceeds. In particular, in cases where the only criminal violation under current law is a reporting offense, the law does not adequately provide for the confiscation of smuggled currency. In contrast, if the smuggling of bulk cash were itself an offense, the cash could be confiscated as the corpus delicti of the smuggling offense. “(b) Purposes.—The purposes of this section [enacting this section] are—“(1) to make the act of smuggling bulk cash itself a criminal offense; “(2) to authorize forfeiture of any cash or instruments of the smuggling offense; and “(3) to emphasize the seriousness of the act of bulk cash smuggling.”
+
+
+<a id="section-5333"></a>
+## § 5333. Safe harbor with respect to keep open directives
+**(a) In General.—** With respect to a customer account or customer transaction of a financial institution, if a Federal law enforcement agency, after notifying FinCEN of the intent to submit a written request to the financial institution that the financial institution keep that account or transaction open (referred to in this section as a “keep open request”), or if a State, Tribal, or local law enforcement agency with the concurrence of FinCEN submits a keep open request—
+
+(1) the financial institution shall not be liable under this subchapter for maintaining that account or transaction consistent with the parameters and timing of the request; and
+
+(2) no Federal or State department or agency may take any adverse supervisory action under this subchapter with respect to the financial institution solely for maintaining that account or transaction consistent with the parameters of the request.
+
+**(b) Rule of Construction.—** Nothing in this section may be construed—
+
+(1) to prevent a Federal or State department or agency from verifying the validity of a keep open request submitted under subsection (a) with the law enforcement agency submitting that request;
+
+(2) to relieve a financial institution from complying with any reporting requirements or any other provisions of this subchapter, including the reporting of suspicious transactions under section 5318(g); or
+
+(3) to extend the safe harbor described in subsection (a) to any actions taken by the financial institution—
+
+  (A) before the date of the keep open request to maintain a customer account; or
+
+  (B) after the termination date stated in the keep open request.
+
+**(c) Letter Termination Date.—** For the purposes of this section, any keep open request submitted under subsection (a) shall include a termination date after which that request shall no longer apply.
+
+**(d) Record Keeping.—** Any Federal, State, Tribal, or local law enforcement agency that submits to a financial institution a keep open request shall, not later than 2 business days after the date on which the request is submitted to the financial institution—
+
+(1) submit to FinCEN a copy of the request; and
+
+(2) alert FinCEN as to whether the financial institution has implemented the request.
+
+**(e) Guidance.—** The Secretary of the Treasury, in consultation with the Attorney General and Federal, State, Tribal, and local law enforcement agencies, shall issue guidance on the required elements of a keep open request.
+
+
+<a id="section-5334"></a>
+## § 5334. Training regarding anti-money laundering and countering the financing of terrorism
+**(a) Training Requirement.—** Each Federal examiner reviewing compliance with the Bank Secrecy Act, as defined in section 6003 of the Anti-Money Laundering Act of 2020, shall attend appropriate annual training, as determined by the Secretary of the Treasury, relating to anti-money laundering activities and countering the financing of terrorism, including with respect to—
+
+(1) potential risk profiles and warning signs that an examiner may encounter during examinations;
+
+(2) financial crime patterns and trends;
+
+(3) the high-level context for why anti-money laundering and countering the financing of terrorism programs are necessary for law enforcement agencies and other national security agencies and what risks those programs seek to mitigate; and
+
+(4) de-risking and the effect of de-risking on the provision of financial services.
+
+**(b) Training Materials and Standards.—** The Secretary of the Treasury shall, in consultation with the Financial Institutions Examination Council, the Financial Crimes Enforcement Network, and Federal, State, Tribal, and local law enforcement agencies, establish appropriate training materials and standards for use in the training required under subsection (a).
+
+### Statutory Notes
+
+#### References in Text
+Section 6003 of the Anti-Money Laundering Act of 2020, referred to in subsec. (a), is section 6003 of div. F of Pub. L. 116–283, which is set out as a note under [section 5311 of this title](./chapter-053-monetary-transactions.md#section-5311). Such section 6003 defines terms, including the Bank Secrecy Act, as used in div. F of Pub. L. 116–283.
+
+
+<a id="section-5335"></a>
+## § 5335. Prohibition on concealment of the source of assets in monetary transactions
+**(a) Definition of Monetary Transaction.—** In this section, the term the term “monetary transaction”—
+
+(1) means the deposit, withdrawal, transfer, or exchange, in or affecting interstate or foreign commerce, of funds or a monetary instrument (as defined in [section 1956(c)(5) of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section1956/c/5&num=0&edition=prelim)) by, through, or to a financial institution (as defined in [section 1956(c)(6) of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section1956/c/6&num=0&edition=prelim));
+
+(2) includes any transaction that would be a financial transaction under [section 1956(c)(4)(B) of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section1956/c/4/B&num=0&edition=prelim); and
+
+(3) does not include any transaction necessary to preserve the right to representation of a person as guaranteed by the Sixth Amendment to the Constitution of the United States.
+
+**(b) Prohibition.—** No person shall knowingly conceal, falsify, or misrepresent, or attempt to conceal, falsify, or misrepresent, from or to a financial institution, a material fact concerning the ownership or control of assets involved in a monetary transaction if—
+
+(1) the person or entity who owns or controls the assets is a senior foreign political figure, or any immediate family member or close associate of a senior foreign political figure, as set forth in this title or the regulations promulgated under this title; and
+
+(2) the aggregate value of the assets involved in 1 or more monetary transactions is not less than $1,000,000.
+
+**(c) Source of Funds.—** No person shall knowingly conceal, falsify, or misrepresent, or attempt to conceal, falsify, or misrepresent, from or to a financial institution, a material fact concerning the source of funds in a monetary transaction that—
+
+(1) involves an entity found to be a primary money laundering concern under section 5318A or the regulations promulgated under this title; and
+
+(2) violates the prohibitions or conditions prescribed under section 5318A(b)(5) or the regulations promulgated under this title.
+
+**(d) Penalties.—** A person convicted of an offense under subsection (b) or (c), or a conspiracy to commit an offense under subsection (b) or (c), shall be imprisoned for not more than 10 years, fined not more than $1,000,000, or both.
+
+**(e) Forfeiture.—**
+
+(1) **Criminal forfeiture.—**
+
+  (A) *In general.—* — The court, in imposing a sentence under subsection (d), shall order that the defendant forfeit to the United States any property involved in the offense and any property traceable thereto.
+
+  (B) *Procedure.—* — The seizure, restraint, and forfeiture of property under this paragraph shall be governed by section 413 of the Controlled Substances Act ([21 U.S.C. 853](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section853&num=0&edition=prelim)).
+
+(2) **Civil forfeiture.—**
+
+  (A) *In general.—* — Any property involved in a violation of subsection (b) or (c), or a conspiracy to commit a violation of subsection (b) or (c), and any property traceable thereto may be seized and forfeited to the United States.
+
+  (B) *Procedure.—* — Seizures and forfeitures under this paragraph shall be governed by the provisions of chapter 46 of title 18 relating to civil forfeitures, except that such duties, under the customs laws described in [section 981(d) of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section981/d&num=0&edition=prelim), given to the Secretary of the Treasury shall be performed by such officers, agents, and other persons as may be designated for that purpose by the Secretary of Homeland Security or the Attorney General.
+
+
+<a id="section-5336"></a>
+## § 5336. Beneficial ownership information reporting requirements
+**(a) Definitions.—** In this section:
+
+(1) **Acceptable identification document.—** — The term “acceptable identification document” means, with respect to an individual—
+
+  (A) a nonexpired passport issued by the United States;
+
+  (B) a nonexpired identification document issued by a State, local government, or Indian Tribe to the individual acting for the purpose of identification of that individual;
+
+  (C) a nonexpired driver’s license issued by a State; or
+
+  (D) if the individual does not have a document described in subparagraph (A), (B), or (C), a nonexpired passport issued by a foreign government.
+
+(2) **Applicant.—** — The term “applicant” means any individual who—
+
+  (A) files an application to form a corporation, limited liability company, or other similar entity under the laws of a State or Indian Tribe; or
+
+  (B) registers or files an application to register a corporation, limited liability company, or other similar entity formed under the laws of a foreign country to do business in the United States by filing a document with the secretary of state or similar office under the laws of a State or Indian Tribe.
+
+(3) **Beneficial owner.—** — The term “beneficial owner”—
+
+  (A) means, with respect to an entity, an individual who, directly or indirectly, through any contract, arrangement, understanding, relationship, or otherwise—
+
+    (i) exercises substantial control over the entity; or
+
+    (ii) owns or controls not less than 25 percent of the ownership interests of the entity; and
+
+  (B) does not include—
+
+    (i) a minor child, as defined in the State in which the entity is formed, if the information of the parent or guardian of the minor child is reported in accordance with this section;
+
+    (ii) an individual acting as a nominee, intermediary, custodian, or agent on behalf of another individual;
+
+    (iii) an individual acting solely as an employee of a corporation, limited liability company, or other similar entity and whose control over or economic benefits from such entity is derived solely from the employment status of the person;
+
+    (iv) an individual whose only interest in a corporation, limited liability company, or other similar entity is through a right of inheritance; or
+
+    (v) a creditor of a corporation, limited liability company, or other similar entity, unless the creditor meets the requirements of subparagraph (A).
+
+(4) **Director.—** — The term “Director” means the Director of FinCEN.
+
+(5) **FinCEN.—** — The term “FinCEN” means the Financial Crimes Enforcement Network of the Department of the Treasury.
+
+(6) **FinCEN identifier.—** — The term “FinCEN identifier” means the unique identifying number assigned by FinCEN to a person under this section.
+
+(7) **Foreign person.—** — The term “foreign person” means a person who is not a United States person, as defined in section 7701(a) of the Internal Revenue Code of 1986.
+
+(8) **Indian tribe.—** — The term “Indian Tribe” has the meaning given the term “Indian tribe” in section 102 of the Federally Recognized Indian Tribe List Act of 1994 ([25 U.S.C. 5130](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5130&num=0&edition=prelim)).
+
+(9) **Lawfully admitted for permanent residence.—** — The term “lawfully admitted for permanent residence” has the meaning given the term in section 101(a) of the Immigration and Nationality Act ([8 U.S.C. 1101(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1101/a&num=0&edition=prelim)).
+
+(10) **Pooled investment vehicle.—** — The term “pooled investment vehicle” means—
+
+  (A) any investment company, as defined in section 3(a) of the Investment Company Act of 1940 ([15 U.S.C. 80a–3(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section80a–3/a&num=0&edition=prelim)); or
+
+  (B) any company that—
+
+    (i) would be an investment company under that section but for the exclusion provided from that definition by paragraph (1) or (7) of section 3(c) of that Act ([15 U.S.C. 80a–3(c)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section80a–3/c&num=0&edition=prelim)); and
+
+    (ii) is identified by its legal name by the applicable investment adviser in its Form ADV (or successor form) filed with the Securities and Exchange Commission.
+
+(11) **Reporting company.—** — The term “reporting company”—
+
+  (A) means a corporation, limited liability company, or other similar entity that is—
+
+    (i) created by the filing of a document with a secretary of state or a similar office under the law of a State or Indian Tribe; or
+
+    (ii) formed under the law of a foreign country and registered to do business in the United States by the filing of a document with a secretary of state or a similar office under the laws of a State or Indian Tribe; and
+
+  (B) does not include—
+
+    (i) an issuer—
+
+      (I) of a class of securities registered under section 12 of the Securities Exchange Act of 1934 ([15 U.S.C. 78](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section78&num=0&edition=prelim)l); or
+
+      (II) that is required to file supplementary and periodic information under section 15(d) of the Securities Exchange Act of 1934 ([15 U.S.C. 78](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section78&num=0&edition=prelim)o(d));
+
+    (ii) an entity—
+
+      (I) established under the laws of the United States, an Indian Tribe, a State, or a political subdivision of a State, or under an interstate compact between 2 or more States; and
+
+      (II) that exercises governmental authority on behalf of the United States or any such Indian Tribe, State, or political subdivision;
+
+    (iii) a bank, as defined in—
+
+      (I) section 3 of the Federal Deposit Insurance Act ([12 U.S.C. 1813](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1813&num=0&edition=prelim));
+
+      (II) section 2(a) of the Investment Company Act of 1940 ([15 U.S.C. 80a–2(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section80a–2/a&num=0&edition=prelim)); or
+
+      (III) section 202(a) of the Investment Advisers Act of 1940 ([15 U.S.C. 80b–2(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section80b–2/a&num=0&edition=prelim));
+
+    (iv) a Federal credit union or a State credit union (as those terms are defined in section 101 of the Federal Credit Union Act ([12 U.S.C. 1752](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1752&num=0&edition=prelim)));
+
+    (v) a bank holding company (as defined in section 2 of the Bank Holding Company Act of 1956 ([12 U.S.C. 1841](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1841&num=0&edition=prelim))) or a savings and loan holding company (as defined in section 10(a) of the Home Owners’ Loan Act ([12 U.S.C. 1467a(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1467a/a&num=0&edition=prelim)));
+
+    (vi) a money transmitting business registered with the Secretary of the Treasury under section 5330;
+
+    (vii) a broker or dealer (as those terms are defined in section 3 of the Securities Exchange Act of 1934 ([15 U.S.C. 78c](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section78c&num=0&edition=prelim))) that is registered under section 15 of that Act ([15 U.S.C. 78](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section78&num=0&edition=prelim)o);
+
+    (viii) an exchange or clearing agency (as those terms are defined in section 3 of the Securities Exchange Act of 1934 ([15 U.S.C. 78c](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section78c&num=0&edition=prelim))) that is registered under section 6 or 17A of that Act ([15 U.S.C. 78f](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section78f&num=0&edition=prelim), 78q–1);
+
+    (ix) any other entity not described in clause (i), (vii), or (viii) that is registered with the Securities and Exchange Commission under the Securities Exchange Act of 1934 ([15 U.S.C. 78a](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section78a&num=0&edition=prelim) et seq.);
+
+    (x) an entity that—
+
+      (I) is an investment company (as defined in section 3 of the Investment Company Act of 1940 ([15 U.S.C. 80a–3](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section80a–3&num=0&edition=prelim))) or an investment adviser (as defined in section 202 of the Investment Advisers Act of 1940 ([15 U.S.C. 80b–2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section80b–2&num=0&edition=prelim))); and
+
+      (II) is registered with the Securities and Exchange Commission under the Investment Company Act of 1940 ([15 U.S.C. 80a–1](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section80a–1&num=0&edition=prelim) et seq.) or the Investment Advisers Act of 1940 ([15 U.S.C. 80b–1](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section80b–1&num=0&edition=prelim) et seq.);
+
+    (xi) an investment adviser—
+
+      (I) described in section 203(l) of the Investment Advisers Act of 1940 ([15 U.S.C. 80b–3](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section80b–3&num=0&edition=prelim)(l)); and
+
+      (II) that has filed Item 10, Schedule A, and Schedule B of Part 1A of Form ADV, or any successor thereto, with the Securities and Exchange Commission;
+
+    (xii) an insurance company (as defined in section 2 of the Investment Company Act of 1940 ([15 U.S.C. 80a–2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section80a–2&num=0&edition=prelim)));
+
+    (xiii) an entity that—
+
+      (I) is an insurance producer that is authorized by a State and subject to supervision by the insurance commissioner or a similar official or agency of a State; and
+
+      (II) has an operating presence at a physical office within the United States;
+
+    (xiv)
+
+      (I) a registered entity (as defined in section 1a of the Commodity Exchange Act ([7 U.S.C. 1a](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1a&num=0&edition=prelim))); or
+
+      (II) an entity that is—
+
+        (aa)
+
+          (AA) a futures commission merchant, introducing broker, swap dealer, major swap participant, commodity pool operator, or commodity trading advisor (as those terms are defined in section 1a of the Commodity Exchange Act ([7 U.S.C. 1a](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1a&num=0&edition=prelim))); or
+
+          (BB) a retail foreign exchange dealer, as described in section 2(c)(2)(B) of that Act ([7 U.S.C. 2(c)(2)(B)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section2/c/2/B&num=0&edition=prelim)); and
+
+        (bb) registered with the Commodity Futures Trading Commission under the Commodity Exchange Act ([7 U.S.C. 1](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1&num=0&edition=prelim) et seq.);
+
+    (xv) a public accounting firm registered in accordance with section 102 of the Sarbanes-Oxley Act of 2002 ([15 U.S.C. 7212](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section7212&num=0&edition=prelim));
+
+    (xvi) a public utility that provides telecommunications services, electrical power, natural gas, or water and sewer services within the United States;
+
+    (xvii) a financial market utility designated by the Financial Stability Oversight Council under section 804 of the Payment, Clearing, and Settlement Supervision Act of 2010 ([12 U.S.C. 5463](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section5463&num=0&edition=prelim));
+
+    (xviii) any pooled investment vehicle that is operated or advised by a person described in clause (iii), (iv), (vii), (x), or (xi);
+
+    (xix) any—
+
+      (I) organization that is described in section 501(c) of the Internal Revenue Code of 1986 (determined without regard to section 508(a) of such Code) and exempt from tax under section 501(a) of such Code, except that in the case of any such organization that loses an exemption from tax, such organization shall be considered to be continued to be described in this subclause for the 180-day period beginning on the date of the loss of such tax-exempt status;
+
+      (II) political organization (as defined in section 527(e)(1) of such Code) that is exempt from tax under section 527(a) of such Code; or
+
+      (III) trust described in paragraph (1) or (2) of section 4947(a) of such Code;
+
+    (xx) any corporation, limited liability company, or other similar entity that—
+
+      (I) operates exclusively to provide financial assistance to, or hold governance rights over, any entity described in clause (xix);
+
+      (II) is a United States person;
+
+      (III) is beneficially owned or controlled exclusively by 1 or more United States persons that are United States citizens or lawfully admitted for permanent residence; and
+
+      (IV) derives at least a majority of its funding or revenue from 1 or more United States persons that are United States citizens or lawfully admitted for permanent residence;
+
+    (xxi) any entity that—
+
+      (I) employs more than 20 employees on a full-time basis in the United States;
+
+      (II) filed in the previous year Federal income tax returns in the United States demonstrating more than $5,000,000 in gross receipts or sales in the aggregate, including the receipts or sales of—
+
+        (aa) other entities owned by the entity; and
+
+        (bb) other entities through which the entity operates; and
+
+      (III) has an operating presence at a physical office within the United States;
+
+    (xxii) any corporation, limited liability company, or other similar entity of which the ownership interests are owned or controlled, directly or indirectly, by 1 or more entities described in clause (i), (ii), (iii), (iv), (v), (vii), (viii), (ix), (x), (xi), (xii), (xiii), (xiv), (xv), (xvi), (xvii) (xix), or (xxi);
+
+    (xxiii) any corporation, limited liability company, or other similar entity—
+
+      (I) in existence for over 1 year;
+
+      (II) that is not engaged in active business;
+
+      (III) that is not owned, directly or indirectly, by a foreign person;
+
+      (IV) that has not, in the preceding 12-month period, experienced a change in ownership or sent or received funds in an amount greater than $1,000 (including all funds sent to or received from any source through a financial account or accounts in which the entity, or an affiliate of the entity, maintains an interest); and
+
+      (V) that does not otherwise hold any kind or type of assets, including an ownership interest in any corporation, limited liability company, or other similar entity;
+
+    (xxiv) any entity or class of entities that the Secretary of the Treasury, with the written concurrence of the Attorney General and the Secretary of Homeland Security, has, by regulation, determined should be exempt from the requirements of subsection (b) because requiring beneficial ownership information from the entity or class of entities—
+
+      (I) would not serve the public interest; and
+
+      (II) would not be highly useful in national security, intelligence, and law enforcement agency efforts to detect, prevent, or prosecute money laundering, the financing of terrorism, proliferation finance, serious tax fraud, or other crimes.
+
+(12) **State.—** — The term “State” means any State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the Commonwealth of the Northern Mariana Islands, American Samoa, Guam, the United States Virgin Islands, and any other commonwealth, territory, or possession of the United States.
+
+(13) **Unique identifying number.—** — The term “unique identifying number” means, with respect to an individual or an entity with a sole member, the unique identifying number from an acceptable identification document.
+
+(14) **United states person.—** — The term “United States person” has the meaning given the term in section 7701(a) of the Internal Revenue Code of 1986.
+
+**(b) Beneficial Ownership Information Reporting.—**
+
+(1) **Reporting.—**
+
+  (A) *In general.—* — In accordance with regulations prescribed by the Secretary of the Treasury, each reporting company shall submit to FinCEN a report that contains the information described in paragraph (2).
+
+  (B) *Reporting of existing entities.—* — In accordance with regulations prescribed by the Secretary of the Treasury, any reporting company that has been formed or registered before the effective date of the regulations prescribed under this subsection shall, in a timely manner, and not later than 2 years after the effective date of the regulations prescribed under this subsection, submit to FinCEN a report that contains the information described in paragraph (2).
+
+  (C) *Reporting at time of formation or registration.—* — In accordance with regulations prescribed by the Secretary of the Treasury, any reporting company that has been formed or registered after the effective date of the regulations promulgated under this subsection shall, at the time of formation or registration, submit to FinCEN a report that contains the information described in paragraph (2).
+
+  (D) *Updated reporting for changes in beneficial ownership.—* — In accordance with regulations prescribed by the Secretary of the Treasury, a reporting company shall, in a timely manner, and not later than 1 year after the date on which there is a change with respect to any information described in paragraph (2), submit to FinCEN a report that updates the information relating to the change.
+
+  (E) *Treasury review of updated reporting for changes in beneficial ownership.—* — The Secretary of the Treasury, in consultation with the Attorney General and the Secretary of Homeland Security, shall conduct a review to evaluate—
+
+    (i) the necessity of a requirement for corporations, limited liability companies, or other similar entities to update the report on beneficial ownership information in paragraph (2), related to a change in ownership, within a shorter period of time than required under subparagraph (D), taking into account the updating requirements under subparagraph (D) and the information contained in the reports;
+
+    (ii) the benefit to law enforcement and national security officials that might be derived from,11 So in original. and the burden that a requirement to update the list of beneficial owners within a shorter period of time after a change in the list of beneficial owners would impose on corporations, limited liability companies, or other similar entities; and
+
+    (iii) not later than 2 years after the date of enactment of this section, incorporate 1 into the regulations, as appropriate, any changes necessary to implement the findings and determinations based on the review required under this subparagraph.
+
+  (F) *Regulation requirements.—* — In promulgating the regulations required under subparagraphs (A) through (D), the Secretary of the Treasury shall, to the greatest extent practicable—
+
+    (i) establish partnerships with State, local, and Tribal governmental agencies;
+
+    (ii) collect information described in paragraph (2) through existing Federal, State, and local processes and procedures;
+
+    (iii) minimize burdens on reporting companies associated with the collection of the information described in paragraph (2), in light of the private compliance costs placed on legitimate businesses, including by identifying any steps taken to mitigate the costs relating to compliance with the collection of information; and
+
+    (iv) collect information described in paragraph (2) in a form and manner that ensures the information is highly useful in—
+
+      (I) facilitating important national security, intelligence, and law enforcement activities; and
+
+      (II) confirming beneficial ownership information provided to financial institutions to facilitate the compliance of the financial institutions with anti-money laundering, countering the financing of terrorism, and customer due diligence requirements under applicable law.
+
+  (G) *Regulatory simplification.—* — To simplify compliance with this section for reporting companies and financial institutions, the Secretary of the Treasury shall ensure that the regulations prescribed by the Secretary under this subsection are added to part 1010 of title 31, Code of Federal Regulations, or any successor thereto.
+
+(2) **Required information.—**
+
+  (A) *In general.—* — In accordance with regulations prescribed by the Secretary of the Treasury, a report delivered under paragraph (1) shall, except as provided in subparagraph (B), identify each beneficial owner of the applicable reporting company and each applicant with respect to that reporting company by—
+
+    (i) full legal name;
+
+    (ii) date of birth;
+
+    (iii) current, as of the date on which the report is delivered, residential or business street address; and
+
+    (iv)
+
+      (I) unique identifying number from an acceptable identification document; or
+
+      (II) FinCEN identifier in accordance with requirements in paragraph (3).
+
+  (B) *Reporting requirement for exempt entities having an ownership interest.—* — If an exempt entity described in subsection (a)(11)(B) has or will have a direct or indirect ownership interest in a reporting company, the reporting company or the applicant—
+
+    (i) shall, with respect to the exempt entity, only list the name of the exempt entity; and
+
+    (ii) shall not be required to report the information with respect to the exempt entity otherwise required under subparagraph (A).
+
+  (C) *Reporting requirement for certain pooled investment vehicles.—* — Any corporation, limited liability company, or other similar entity that is an exempt entity described in subsection (a)(11)(B)(xviii) and is formed under the laws of a foreign country shall file with FinCEN a written certification that provides identification information of an individual that exercises substantial control over the pooled investment vehicle in the same manner as required under this subsection.
+
+  (D) *Reporting requirement for exempt subsidiaries.—* — In accordance with the regulations promulgated by the Secretary, any corporation, limited liability company, or other similar entity that is an exempt entity described in subsection (a)(11)(B)(xxii), shall, at the time such entity no longer meets the criteria described in subsection (a)(11)(B)(xxii), submit to FinCEN a report containing the information required under subparagraph (A).
+
+  (E) *Reporting requirement for exempt grandfathered entities.—* — In accordance with the regulations promulgated by the Secretary, any corporation, limited liability company, or other similar entity that is an exempt entity described in subsection (a)(11)(B)(xxiii), shall, at the time such entity no longer meets the criteria described in subsection (a)(11)(B)(xxiii), submit to FinCEN a report containing the information required under subparagraph (A).
+
+(3) **FinCEN identifier.—**
+
+  (A) *Issuance of fincen identifier.—*
+
+    (i) *In general.—* — Upon request by an individual who has provided FinCEN with the information described in paragraph (2)(A) pertaining to the individual, or by an entity that has reported its beneficial ownership information to FinCEN in accordance with this section, FinCEN shall issue a FinCEN identifier to such individual or entity.
+
+    (ii) *Updating of information.—* — An individual or entity with a FinCEN identifier shall submit filings with FinCEN pursuant to paragraph (1) updating any information described in paragraph (2) in a timely manner consistent with paragraph (1)(D).
+
+    (iii) *Exclusive identifier.—* — FinCEN shall not issue more than 1 FinCEN identifier to the same individual or to the same entity (including any successor entity).
+
+  (B) *Use of fincen identifier for individuals.—* — Any person required to report the information described in paragraph (2) with respect to an individual may instead report the FinCEN identifier of the individual.
+
+  (C) *Use of fincen identifier for entities.—* — If an individual is or may be a beneficial owner of a reporting company by an interest held by the individual in an entity that, directly or indirectly, holds an interest in the reporting company, the reporting company may report the FinCEN identifier of the entity in lieu of providing the information required by paragraph (2)(A) with respect to the individual.
+
+(4) **Regulations.—** — The Secretary of the Treasury shall—
+
+  (A) by regulation prescribe procedures and standards governing any report under paragraph (2) and any FinCEN identifier under paragraph (3); and
+
+  (B) in promulgating the regulations under subparagraph (A) to the extent practicable, consistent with the purposes of this section—
+
+    (i) minimize burdens on reporting companies associated with the collection of beneficial ownership information, including by eliminating duplicative requirements; and
+
+    (ii) ensure the beneficial ownership information reported to FinCEN is accurate, complete, and highly useful.
+
+(5) **Effective date.—** — The requirements of this subsection shall take effect on the effective date of the regulations prescribed by the Secretary of the Treasury under this subsection, which shall be promulgated not later than 1 year after the date of enactment of this section.
+
+(6) **Report.—** — Not later than 1 year after the effective date described in paragraph (5), and annually thereafter for 2 years, the Secretary of the Treasury shall submit to Congress a report describing the procedures and standards prescribed to carry out paragraph (2), which shall include an assessment of—
+
+  (A) the effectiveness of those procedures and standards in minimizing reporting burdens (including through the elimination of duplicative requirements) and strengthening the accuracy of reports submitted under paragraph (2); and
+
+  (B) any alternative procedures and standards prescribed to carry out paragraph (2).
+
+**(c) Retention and Disclosure of Beneficial Ownership Information by FinCEN.—**
+
+(1) **Retention of information.—** — Beneficial ownership information required under subsection (b) relating to each reporting company shall be maintained by FinCEN for not fewer than 5 years after the date on which the reporting company terminates.
+
+(2) **Disclosure.—**
+
+  (A) *Prohibition.—* — Except as authorized by this subsection and the protocols promulgated under this subsection, beneficial ownership information reported under this section shall be confidential and may not be disclosed by—
+
+    (i) an officer or employee of the United States;
+
+    (ii) an officer or employee of any State, local, or Tribal agency; or
+
+    (iii) an officer or employee of any financial institution or regulatory agency receiving information under this subsection.
+
+  (B) *Scope of disclosure by fincen.—* — FinCEN may disclose beneficial ownership information reported pursuant to this section only upon receipt of—
+
+    (i) a request, through appropriate protocols—
+
+      (I) from a Federal agency engaged in national security, intelligence, or law enforcement activity, for use in furtherance of such activity; or
+
+      (II) from a State, local, or Tribal law enforcement agency, if a court of competent jurisdiction, including any officer of such a court, has authorized the law enforcement agency to seek the information in a criminal or civil investigation;
+
+    (ii) a request from a Federal agency on behalf of a law enforcement agency, prosecutor, or judge of another country, including a foreign central authority or competent authority (or like designation), under an international treaty, agreement, convention, or official request made by law enforcement, judicial, or prosecutorial authorities in trusted foreign countries when no treaty, agreement, or convention is available—
+
+      (I) issued in response to a request for assistance in an investigation or prosecution by such foreign country; and
+
+      (II) that—
+
+        (aa) requires compliance with the disclosure and use provisions of the treaty, agreement, or convention, publicly disclosing any beneficial ownership information received; or
+
+        (bb) limits the use of the information for any purpose other than the authorized investigation or national security or intelligence activity;
+
+    (iii) a request made by a financial institution subject to customer due diligence requirements, with the consent of the reporting company, to facilitate the compliance of the financial institution with customer due diligence requirements under applicable law; or
+
+    (iv) a request made by a Federal functional regulator or other appropriate regulatory agency consistent with the requirements of subparagraph (C).
+
+  (C) *Form and manner of disclosure to financial institutions and regulatory agencies.—* — The Secretary of the Treasury shall, by regulation, prescribe the form and manner in which information shall be provided to a financial institution under subparagraph (B)(iii), which regulation shall include that the information shall also be available to a Federal functional regulator or other appropriate regulatory agency, as determined by the Secretary, if the agency—
+
+    (i) is authorized by law to assess, supervise, enforce, or otherwise determine the compliance of the financial institution with the requirements described in that subparagraph;
+
+    (ii) uses the information solely for the purpose of conducting the assessment, supervision, or authorized investigation or activity described in clause (i); and
+
+    (iii) enters into an agreement with the Secretary providing for appropriate protocols governing the safekeeping of the information.
+
+(3) **Appropriate protocols.—** — The Secretary of the Treasury shall establish by regulation protocols described in paragraph (2)(A) that—
+
+  (A) protect the security and confidentiality of any beneficial ownership information provided directly by the Secretary;
+
+  (B) require the head of any requesting agency, on a non-delegable basis, to approve the standards and procedures utilized by the requesting agency and certify to the Secretary semi-annually that such standards and procedures are in compliance with the requirements of this paragraph;
+
+  (C) require the requesting agency to establish and maintain, to the satisfaction of the Secretary, a secure system in which such beneficial ownership information provided directly by the Secretary shall be stored;
+
+  (D) require the requesting agency to furnish a report to the Secretary, at such time and containing such information as the Secretary may prescribe, that describes the procedures established and utilized by such agency to ensure the confidentiality of the beneficial ownership information provided directly by the Secretary;
+
+  (E) require a written certification for each authorized investigation or other activity described in paragraph (2) from the head of an agency described in paragraph (2)(B)(i)(I), or their designees, that—
+
+    (i) states that applicable requirements have been met, in such form and manner as the Secretary may prescribe; and
+
+    (ii) at a minimum, sets forth the specific reason or reasons why the beneficial ownership information is relevant to an authorized investigation or other activity described in paragraph (2);
+
+  (F) require the requesting agency to limit, to the greatest extent practicable, the scope of information sought, consistent with the purposes for seeking beneficial ownership information;
+
+  (G) restrict, to the satisfaction of the Secretary, access to beneficial ownership information to whom disclosure may be made under the provisions of this section to only users at the requesting agency—
+
+    (i) who are directly engaged in the authorized investigation or activity described in paragraph (2);
+
+    (ii) whose duties or responsibilities require such access;
+
+    (iii) who—
+
+      (I) have undergone appropriate training; or
+
+      (II) use staff to access the database who have undergone appropriate training;
+
+    (iv) who use appropriate identity verification mechanisms to obtain access to the information; and
+
+    (v) who are authorized by agreement with the Secretary to access the information;
+
+  (H) require the requesting agency to establish and maintain, to the satisfaction of the Secretary, a permanent system of standardized records with respect to an auditable trail of each request for beneficial ownership information submitted to the Secretary by the agency, including the reason for the request, the name of the individual who made the request, the date of the request, any disclosure of beneficial ownership information made by or to the agency, and any other information the Secretary of the Treasury determines is appropriate;
+
+  (I) require that the requesting agency receiving beneficial ownership information from the Secretary conduct an annual audit to verify that the beneficial ownership information received from the Secretary has been accessed and used appropriately, and in a manner consistent with this paragraph and provide the results of that audit to the Secretary upon request;
+
+  (J) require the Secretary to conduct an annual audit of the adherence of the agencies to the protocols established under this paragraph to ensure that agencies are requesting and using beneficial ownership information appropriately; and
+
+  (K) provide such other safeguards which the Secretary determines (and which the Secretary prescribes in regulations) to be necessary or appropriate to protect the confidentiality of the beneficial ownership information.
+
+(4) **Violation of protocols.—** — Any employee or officer of a requesting agency under paragraph (2)(B) that violates the protocols described in paragraph (3), including unauthorized disclosure or use, shall be subject to criminal and civil penalties under subsection (h)(3)(B).
+
+(5) **Department of the treasury access.—**
+
+  (A) *In general.—* — Beneficial ownership information shall be accessible for inspection or disclosure to officers and employees of the Department of the Treasury whose official duties require such inspection or disclosure subject to procedures and safeguards prescribed by the Secretary of the Treasury.
+
+  (B) *Tax administration purposes.—* — Officers and employees of the Department of the Treasury may obtain access to beneficial ownership information for tax administration purposes in accordance with this subsection.
+
+(6) **Rejection of request.—** — The Secretary of the Treasury—
+
+  (A) shall reject a request not submitted in the form and manner prescribed by the Secretary under paragraph (2)(C); and
+
+  (B) may decline to provide information requested under this subsection upon finding that—
+
+    (i) the requesting agency has failed to meet any other requirement of this subsection;
+
+    (ii) the information is being requested for an unlawful purpose; or
+
+    (iii) other good cause exists to deny the request.
+
+(7) **Suspension.—** — The Secretary of the Treasury may suspend or debar a requesting agency from access for any of the grounds set forth in paragraph (6), including for repeated or serious violations of any requirement under paragraph (2).
+
+(8) **Security protections.—** — The Secretary of the Treasury shall maintain information security protections, including encryption, for information reported to FinCEN under subsection (b) and ensure that the protections—
+
+  (A) are consistent with standards and guidelines developed under subchapter II of chapter 35 of title 44; and
+
+  (B) incorporate Federal information system security controls for high-impact systems, excluding national security systems, consistent with applicable law to prevent the loss of confidentiality, integrity, or availability of information that may have a severe or catastrophic adverse effect.
+
+(9) **Report by the secretary.—** — Not later than 1 year after the effective date of the regulations prescribed under this subsection, and annually thereafter for 5 years, the Secretary of the Treasury shall submit to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives a report, which—
+
+  (A) may include a classified annex; and
+
+  (B) shall, with respect to each request submitted under paragraph (2)(B)(i)(II) during the period covered by the report, and consistent with protocols established by the Secretary that are necessary to protect law enforcement sensitive, tax-related, or classified information, include—
+
+    (i) the date on which the request was submitted;
+
+    (ii) the source of the request;
+
+    (iii) whether the request was accepted or rejected or is pending; and
+
+    (iv) a general description of the basis for rejecting the such request, if applicable.
+
+(10) **Audit by the comptroller general.—** — Not later than 1 year after the effective date of the regulations prescribed under this subsection, and annually thereafter for 6 years, the Comptroller General of the United States shall—
+
+  (A) audit the procedures and safeguards established by the Secretary of the Treasury under those regulations, including duties for verification of requesting agencies systems and adherence to the protocols established under this subsection, to determine whether such safeguards and procedures meet the requirements of this subsection and that the Department of the Treasury is using beneficial ownership information appropriately in a manner consistent with this subsection; and
+
+  (B) submit to the Secretary of the Treasury, the Committee on Banking, Housing, and Urban Affairs of the Senate, and the Committee on Financial Services of the House of Representatives a report that contains the findings and determinations with respect to any audit conducted under this paragraph.
+
+(11) **Department of the treasury testimony.—**
+
+  (A) *In general.—* — Not later than March 31 of each year for 5 years beginning in 2022, the Director shall be made available to testify before the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives, or an appropriate subcommittee thereof, regarding FinCEN issues, including, specifically, issues relating to—
+
+    (i) anticipated plans, goals, and resources necessary for operations of FinCEN in implementing the requirements of the Anti-Money Laundering Act of 2020 and the amendments made by that Act;
+
+    (ii) the adequacy of appropriations for FinCEN in the current and the previous fiscal year to—
+
+      (I) ensure that the requirements and obligations imposed upon FinCEN by the Anti-Money Laundering Act of 2020 and the amendments made by that Act are completed as efficiently, effectively, and expeditiously as possible; and
+
+      (II) provide for robust and effective implementation and enforcement of the provisions of the Anti-Money Laundering Act of 2020 and the amendments made by that Act;
+
+    (iii) strengthen 1 FinCEN management efforts, as necessary and as identified by the Director, to meet the requirements of the Anti-Money Laundering Act of 2020 and the amendments made by that Act;
+
+    (iv) provide 1 for the necessary public outreach to ensure the broad dissemination of information regarding any new program requirements provided for in the Anti-Money Laundering Act of 2020 and the amendments made by that Act, including—
+
+      (I) educating the business community on the goals and operations of the new beneficial ownership database; and
+
+      (II) disseminating to the governments of countries that are allies or partners of the United States information on best practices developed by FinCEN related to beneficial ownership information retention and use;
+
+    (v) any policy recommendations that could facilitate and improve communication and coordination between the private sector, FinCEN, and the Federal, State, and local agencies and entities involved in implementing innovative approaches to meet their obligations under the Anti-Money Laundering Act of 2020 and the amendments made by that Act, the Bank Secrecy Act (as defined in section 6003 of the Anti-Money Laundering Act of 2020), and other anti-money laundering compliance laws; and
+
+    (vi) any other matter that the Director determines is appropriate.
+
+  (B) *Testimony classification.—* — The testimony required under subparagraph (A)—
+
+    (i) shall be submitted in unclassified form; and
+
+    (ii) may include a classified portion.
+
+**(d) Agency Coordination.—**
+
+(1) **In general.—** — The Secretary of the Treasury shall, to the greatest extent practicable, update the information described in subsection (b) by working collaboratively with other relevant Federal, State, and Tribal agencies.
+
+(2) **Information from relevant federal, state, and tribal agencies.—** — Relevant Federal, State, and Tribal agencies, as determined by the Secretary of the Treasury, shall, to the extent practicable, and consistent with applicable legal protections, cooperate with and provide information requested by FinCEN for purposes of maintaining an accurate, complete, and highly useful database for beneficial ownership information.
+
+(3) **Regulations.—** — The Secretary of the Treasury, in consultation with the heads of other relevant Federal agencies, may promulgate regulations as necessary to carry out this subsection.
+
+**(e) Notification of Federal Obligations.—**
+
+(1) **Federal.—** — The Secretary of the Treasury shall take reasonable steps to provide notice to persons of their obligations to report beneficial ownership information under this section, including by causing appropriate informational materials describing such obligations to be included in 1 or more forms or other informational materials regularly distributed by the Internal Revenue Service and FinCEN.
+
+(2) **States and indian tribes.—**
+
+  (A) *In general.—* — As a condition of the funds made available under this section, each State and Indian Tribe shall, not later than 2 years after the effective date of the regulations promulgated under subsection (b)(4), take the following actions:
+
+    (i) The secretary of a State or a similar office in each State or Indian Tribe responsible for the formation or registration of entities created by the filing of a public document with the office under the law of the State or Indian Tribe shall periodically, including at the time of any initial formation or registration of an entity, assessment of an annual fee, or renewal of any license to do business in the United States and in connection with State or Indian Tribe corporate tax assessments or renewals—
+
+      (I) notify filers of their requirements as reporting companies under this section, including the requirements to file and update reports under paragraphs (1) and (2) of subsection (b); and
+
+      (II) provide the filers with a copy of the reporting company form created by the Secretary of the Treasury under this subsection or an internet link to that form.
+
+    (ii) The secretary of a State or a similar office in each State or Indian Tribe responsible for the formation or registration of entities created by the filing of a public document with the office under the law of the State or Indian Tribes shall update the websites, forms relating to incorporation, and physical premises of the office to notify filers of their requirements as reporting companies under this section, including providing an internet link to the reporting company form created by the Secretary of the Treasury under this section.
+
+  (B) *Notification from the department of the treasury.—* — A notification under clause (i) or (ii) of subparagraph (A) shall explicitly state that the notification is on behalf of the Department of the Treasury for the purpose of preventing money laundering, the financing of terrorism, proliferation financing, serious tax fraud, and other financial crime by requiring nonpublic registration of business entities formed or registered to do business in the United States.
+
+**(f) No Bearer Share Corporations or Limited Liability Companies.—** A corporation, limited liability company, or other similar entity formed under the laws of a State or Indian Tribe may not issue a certificate in bearer form evidencing either a whole or fractional interest in the entity.
+
+**(g) Regulations.—** In promulgating regulations carrying out this section, the Director shall reach out to members of the small business community and other appropriate parties to ensure efficiency and effectiveness of the process for the entities subject to the requirements of this section.
+
+**(h) Penalties.—**
+
+(1) **Reporting violations.—** — It shall be unlawful for any person to—
+
+  (A) willfully provide, or attempt to provide, false or fraudulent beneficial ownership information, including a false or fraudulent identifying photograph or document, to FinCEN in accordance with subsection (b); or
+
+  (B) willfully fail to report complete or updated beneficial ownership information to FinCEN in accordance with subsection (b).
+
+(2) **Unauthorized disclosure or use.—** — Except as authorized by this section, it shall be unlawful for any person to knowingly disclose or knowingly use the beneficial ownership information obtained by the person through—
+
+  (A) a report submitted to FinCEN under subsection (b); or
+
+  (B) a disclosure made by FinCEN under subsection (c).
+
+(3) **Criminal and civil penalties.—**
+
+  (A) *Reporting violations.—* — Any person that violates subparagraph (A) or (B) of paragraph (1)—
+
+    (i) shall be liable to the United States for a civil penalty of not more than $500 for each day that the violation continues or has not been remedied; and
+
+    (ii) may be fined not more than $10,000, imprisoned for not more than 2 years, or both.
+
+  (B) *Unauthorized disclosure or use violations.—* — Any person that violates paragraph (2)—
+
+    (i) shall be liable to the United States for a civil penalty of not more than $500 for each day that the violation continues or has not been remedied; and
+
+    (ii)
+
+      (I) shall be fined not more than $250,000, or imprisoned for not more than 5 years, or both; or
+
+      (II) while violating another law of the United States or as part of a pattern of any illegal activity involving more than $100,000 in a 12-month period, shall be fined not more than $500,000, imprisoned for not more than 10 years, or both.
+
+  (C) *Safe harbor.—*
+
+    (i) *Safe harbor.—*
+
+      (I) *In general.—* — Except as provided in subclause (II), a person shall not be subject to civil or criminal penalty under subparagraph (A) if the person—
+
+        (aa) has reason to believe that any report submitted by the person in accordance with subsection (b) contains inaccurate information; and
+
+        (bb) in accordance with regulations issued by the Secretary, voluntarily and promptly, and in no case later than 90 days after the date on which the person submitted the report, submits a report containing corrected information.
+
+      (II) *Exceptions.—* — A person shall not be exempt from penalty under clause (i) if, at the time the person submits the report required by subsection (b), the person—
+
+        (aa) acts for the purpose of evading the reporting requirements under subsection (b); and
+
+        (bb) has actual knowledge that any information contained in the report is inaccurate.
+
+    (ii) *Assistance.—* — FinCEN shall provide assistance to any person seeking to submit a corrected report in accordance with clause (i)(I).
+
+(4) **User complaint process.—**
+
+  (A) *In general.—* — The Inspector General of the Department of the Treasury, in coordination with the Secretary of the Treasury, shall provide public contact information to receive external comments or complaints regarding the beneficial ownership information notification and collection process or regarding the accuracy, completeness, or timeliness of such information.
+
+  (B) *Report.—* — The Inspector General of the Department of the Treasury shall submit to Congress a periodic report that—
+
+    (i) summarizes external comments or complaints and related investigations conducted by the Inspector General related to the collection of beneficial ownership information; and
+
+    (ii) includes recommendations, in coordination with FinCEN, to improve the form and manner of the notification, collection and updating processes of the beneficial ownership information reporting requirements to ensure the beneficial ownership information reported to FinCEN is accurate, complete, and highly useful.
+
+(5) **Treasury office of inspector general investigation in the event of a cybersecurity breach.—**
+
+  (A) *In general.—* — In the event of a cybersecurity breach that results in substantial unauthorized access and disclosure of sensitive beneficial ownership information, the Inspector General of the Department of the Treasury shall conduct an investigation into FinCEN cybersecurity practices that, to the extent possible, determines any vulnerabilities within FinCEN information security and confidentiality protocols and provides recommendations for fixing those deficiencies.
+
+  (B) *Report.—* — The Inspector General of the Department of the Treasury shall submit to the Secretary of the Treasury a report on each investigation conducted under subparagraph (A).
+
+  (C) *Actions of the secretary.—* — Upon receiving a report submitted under subparagraph (B), the Secretary of the Treasury shall—
+
+    (i) determine whether the Director had any responsibility for the cybersecurity breach or whether policies, practices, or procedures implemented at the direction of the Director led to the cybersecurity breach; and
+
+    (ii) submit to Congress a written report outlining the findings of the Secretary, including a determination by the Secretary on whether to retain or dismiss the individual serving as the Director.
+
+(6) **Definition.—** — In this subsection, the term “willfully” means the voluntary, intentional violation of a known legal duty.
+
+**(i) Continuous Review of Exempt Entities.—**
+
+(1) **In general.—** — On and after the effective date of the regulations promulgated under subsection (b)(4), if the Secretary of the Treasury makes a determination, which may be based on information contained in the report required under section 6502(c) of the Anti-Money Laundering Act of 2020 or on any other information available to the Secretary, that an entity or class of entities described in subsection (a)(11)(B) has been involved in significant abuse relating to money laundering, the financing of terrorism, proliferation finance, serious tax fraud, or any other financial crime, not later than 90 days after the date on which the Secretary makes the determination, the Secretary shall submit to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives a report that explains the reasons for the determination and any administrative or legislative recommendations to prevent such abuse.
+
+(2) **Classified annex.—** — The report required by paragraph (1)—
+
+  (A) shall be submitted in unclassified form; and
+
+  (B) may include a classified annex.
+
+**(j) Authorization of Appropriations.—** There are authorized to be appropriated to FinCEN for each of the 3 fiscal years beginning on the effective date of the regulations promulgated under subsection (b)(4), such sums as may be necessary to carry out this section, including allocating funds to the States to pay reasonable costs relating to compliance with the requirements of such section.
+
+### Statutory Notes
+
+#### References in Text
+The Internal Revenue Code of 1986, referred to in subsec. (a)(7), (11)(B)(xix), (14), is classified generally to Title 26, Internal Revenue Code. Sections 501(a), (c), 508(a), 527(a), (e)(1), 4947(a), and 7701(a) are classified to sections 501(a), (c), 508(a), 527(a), (e)(1), 4947(a), and 7701(a), respectively, of Title 26.
+
+The date of enactment of this section, referred to in subsec. (b)(1)(E)(iii), (5), is the date of enactment of Pub. L. 116–283, which was approved Jan. 1, 2021.
+
+The Anti-Money Laundering Act of 2020, referred to in subsecs. (c)(11)(A) and (i)(1), is div. F of Pub. L. 116–283, Jan. 1, 2021, 134 Stat. 4547. Section 6003 of the Act is set out as a note under [section 5311 of this title](./chapter-053-monetary-transactions.md#section-5311). Such section 6003 defines terms, including the Bank Secrecy Act, as used in div. F of Pub. L. 116–283. Section 6502(c) of the Act is section 6502(c) of title LXV of div. F of Pub. L. 116–283, Jan. 1, 2021, 134 Stat. 4627, which is not classified to the Code. For complete classification of this Act to the Code, see Short Title of 2021 Amendment note set out under [section 5301 of this title](./chapter-053-monetary-transactions.md#section-5301) and Tables.
+
+#### Amendments
+2021—Subsec. (j). Pub. L. 116–283, § 6509(b), added subsec. (j).
+
+#### Sense of Congress
+Pub. L. 116–283, div. F, title LXIV, § 6402, Jan. 1, 2021, 134 Stat. 4604, provided that: “It is the sense of Congress that— “(1) more than 2,000,000 corporations and limited liability companies are being formed under the laws of the States each year; “(2) most or all States do not require information about the beneficial owners of the corporations, limited liability companies, or other similar entities formed under the laws of the State; “(3) malign actors seek to conceal their ownership of corporations, limited liability companies, or other similar entities in the United States to facilitate illicit activity, including money laundering, the financing of terrorism, proliferation financing, serious tax fraud, human and drug trafficking, counterfeiting, piracy, securities fraud, financial fraud, and acts of foreign corruption, harming the national security interests of the United States and allies of the United States; “(4) money launderers and others involved in commercial activity intentionally conduct transactions through corporate structures in order to evade detection, and may layer such structures, much like Russian nesting ‘Matryoshka’ dolls, across various secretive jurisdictions such that each time an investigator obtains ownership records for a domestic or foreign entity, the newly identified entity is yet another corporate entity, necessitating a repeat of the same process; “(5) Federal legislation providing for the collection of beneficial ownership information for corporations, limited liability companies, or other similar entities formed under the laws of the States is needed to—“(A) set a clear, Federal standard for incorporation practices; “(B) protect vital Unites States national security interests; “(C) protect interstate and foreign commerce; “(D) better enable critical national security, intelligence, and law enforcement efforts to counter money laundering, the financing of terrorism, and other illicit activity; and “(E) bring the United States into compliance with international anti-money laundering and countering the financing of terrorism standards; “(6) beneficial ownership information collected under the amendments made by this title is sensitive information and will be directly available only to authorized government authorities, subject to effective safeguards and controls, to—“(A) facilitate important national security, intelligence, and law enforcement activities; and “(B) confirm beneficial ownership information provided to financial institutions to facilitate the compliance of the financial institutions with anti-money laundering, countering the financing of terrorism, and customer due diligence requirements under applicable law; “(7) consistent with applicable law, the Secretary of the Treasury shall—“(A) maintain the information described in paragraph (1) in a secure, nonpublic database, using information security methods and techniques that are appropriate to protect nonclassified information systems at the highest security level; and “(B) take all steps, including regular auditing, to ensure that government authorities accessing beneficial ownership information do so only for authorized purposes consistent with this title; and “(8) in prescribing regulations to provide for the reporting of beneficial ownership information, the Secretary shall, to the greatest extent practicable consistent with the purposes of this title—“(A) seek to minimize burdens on reporting companies associated with the collection of beneficial ownership information; “(B) provide clarity to reporting companies concerning the identification of their beneficial owners; and “(C) collect information in a form and manner that is reasonably designed to generate a database that is highly useful to national security, intelligence, and law enforcement agencies and Federal functional regulators.”
+
+[For definition of “Federal functional regulator” as used in section 6402 of Pub. L. 116–283, set out above, see section 6003 of Pub. L. 116–283, set out as a Definitions note under [section 5311 of this title](./chapter-053-monetary-transactions.md#section-5311).]
+
+#### Reporting Requirements for Federal Contractors
+Pub. L. 116–283, div. F, title LXIV, § 6403(c), Jan. 1, 2021, 134 Stat. 4623, provided that: “(1) In general.—Not later than 2 years after the date of enactment of this Act [Jan. 1, 2021], the Administrator for Federal Procurement Policy shall revise the Federal Acquisition Regulation maintained under [section 1303(a)(1) of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section1303/a/1&num=0&edition=prelim), United States Code, to require any contractor or subcontractor that is subject to the requirement to disclose beneficial ownership information under [section 5336 of title 31](./chapter-053-monetary-transactions.md#section-5336), United States Code, as added by subsection (a) of this section, to provide the information required to be disclosed under such section to the Federal Government as part of any bid or proposal for a contract with a value threshold in excess of the simplified acquisition threshold under [section 134 of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section134&num=0&edition=prelim), United States Code. “(2) Applicability.—The revision required under paragraph (1) shall not apply to a covered contractor or subcontractor, as defined in section 847[(a)(3)] of the National Defense Authorization Act for Fiscal Year 2020 (Public Law 116–92) [[10 U.S.C. 2509](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2509&num=0&edition=prelim) note], that is subject to the beneficial ownership disclosure and review requirements under that section.”
 
 
 <a id="section-5340"></a>

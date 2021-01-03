@@ -16,7 +16,7 @@ source: >-
 
 **(d)** For any secondary transmission by a cable system that is actionable as an act of infringement pursuant to section 111(c)(3), the following shall also have standing to sue: (i) the primary transmitter whose transmission has been altered by the cable system; and (ii) any broadcast station within whose local service area the secondary transmission occurs.
 
-**(e)** With respect to any secondary transmission that is made by a satellite carrier of a performance or display of a work embodied in a primary transmission and is actionable as an act of infringement under section 119(a)(5),11 See References in Text note below. a network station holding a copyright or other license to transmit or perform the same version of that work shall, for purposes of subsection (b) of this section, be treated as a legal or beneficial owner if such secondary transmission occurs within the local service area of that station.
+**(e)** With respect to any secondary transmission that is made by a satellite carrier of a performance or display of a work embodied in a primary transmission and is actionable as an act of infringement under section 119(a)(3), a network station holding a copyright or other license to transmit or perform the same version of that work shall, for purposes of subsection (b) of this section, be treated as a legal or beneficial owner if such secondary transmission occurs within the local service area of that station.
 
 **(f)**
 
@@ -42,11 +42,11 @@ Section 501 contains two provisions conferring standing to sue under the statue 
 Vicarious Liability for Infringing Performances. The committee has considered and rejected an amendment to this section intended to exempt the proprietors of an establishment, such as a ballroom or night club, from liability for copyright infringement committed by an independent contractor, such as an orchestra leader. A well-established principle of copyright law is that a person who violates any of the exclusive rights of the copyright owner is an infringer, including persons who can be considered related or vicarious infringers. To be held a related or vicarious infringer in the case of performing rights, a defendant must either actively operate or supervise the operation of the place wherein the performances occur, or control the content of the infringing program, and expect commercial gain from the operation and either direct or indirect benefit from the infringing performance. The committee has decided that no justification exists for changing existing law, and causing a significant erosion of the public performance right.
 
 #### References in Text
-[Section 119(a)(5) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title17-section119/a/5&num=0&edition=prelim), referred to in subsec. (e), was redesignated as [section 119(a)(4) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title17-section119/a/4&num=0&edition=prelim) by Pub. L. 111–175, title I, § 102(h)(1)(B), May 27, 2010, 124 Stat. 1224.
-
 Section 338(a) of the Communications Act of 1934, referred to in subsec. (f)(2), is classified to [section 338(a) of Title 47](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title47-section338/a&num=0&edition=prelim), Telecommunications.
 
 #### Amendments
+2019—Subsec. (e). Pub. L. 116–94 substituted “section 119(a)(3)” for “section 119(a)(5)”.
+
 2002—Subsec. (a). Pub. L. 107–273 substituted “122” for “121”.
 
 1999—Subsec. (a). Pub. L. 106–44 substituted “121” for “118”.

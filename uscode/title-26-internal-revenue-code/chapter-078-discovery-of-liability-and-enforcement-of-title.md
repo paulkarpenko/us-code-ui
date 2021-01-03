@@ -1612,6 +1612,19 @@ Pub. L. 95–30, title IV, § 407, May 23, 1977, 91 Stat. 156, provided that: �
 
 ### Statutory Notes
 
+#### Amendment of Section
+Pub. L. 116–260, div. EE, title I, § 107(a)(2), (3), Dec. 27, 2020, 134 Stat. 3046, provided that, applicable to distilled spirits brought into the United States and removed after Dec. 31, 2022, this section is amended:
+
+(1) by adding at the end the following new subsection:
+
+“(i) Determination of taxes collected
+
+“For purposes of subsections (a)(3), (b)(3), and (e)(1), refunds under section 5001(c)(4) shall not be taken into account as a refund, and the amount of taxes imposed by and collected under section 5001(a)(1) shall be determined without regard to section 5001(c).”; and
+
+(2) by striking paragraph (5) of subsection (e).
+
+See 2020 Amendment notes below.
+
 #### References in Text
 The date of the enactment of the Trade and Development Act of 2000, referred to in subsec. (b)(3)(A), is the date of enactment of Pub. L. 106–200, which was approved May 18, 2000.
 
@@ -1620,6 +1633,10 @@ Section 213 of the Caribbean Basin Economic Recovery Act, referred to in subsec.
 The Harmonized Tariff Schedule of the United States ([19 U.S.C. 1202](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1202&num=0&edition=prelim)), referred to in subsec. (e)(3), is not set out in the Code. See Publication of Harmonized Tariff Schedule note set out under [section 1202 of Title 19](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1202&num=0&edition=prelim).
 
 #### Amendments
+2020—Subsec. (e)(5). Pub. L. 116–260, § 106(a)(2)(B), struck out par. (5). Text read as follows: “For purposes of this subsection, the amount of taxes collected under section 5001(a)(1) shall be determined without regard to section 5001(c).”
+
+Subsec. (i). Pub. L. 116–260, § 106(a)(2)(A), added subsec. (i).
+
 2018—Subsec. (e)(5). Pub. L. 115–123, § 41102(b)(1), added par. (5).
 
 Subsec. (f)(1). Pub. L. 115–123, § 41102(a)(1), substituted “January 1, 2022” for “January 1, 2017”.
@@ -1689,6 +1706,9 @@ Pub. L. 94–202 substituted “calendar quarter ending September 30, 1975, and 
 1958—Subsec. (a)(1). Pub. L. 85–859, § 204(17), substituted “section 5314” for “section 5318”.
 
 Subsec. (b)(1). Pub. L. 85–859, § 204(18), substituted “section 5314” for “section 5318”.
+
+#### Effective Date of 2020 Amendment
+Amendment by Pub. L. 116–260 applicable to distilled spirits brought into the United States and removed after Dec. 31, 2022, see section 107(a)(3) of div. EE of Pub. L. 116–260, set out as a note under [section 5001 of this title](./chapter-051-distilled-spirits-wines-and-beer.md#section-5001).
 
 #### Effective Date of 2018 Amendment
 Pub. L. 115–123, div. D, title II, § 41102(a)(2), Feb. 9, 2018, 132 Stat. 155, provided that: “The amendment made by this subsection [amending this section] shall apply to distilled spirits brought into the United States after December 31, 2016.”

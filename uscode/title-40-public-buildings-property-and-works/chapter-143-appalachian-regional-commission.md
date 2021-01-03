@@ -365,7 +365,7 @@ Not later than six months after the close of each fiscal year, the Appalachian R
 
     (i) *Grants to which percentage limitation doesn’t apply.—* — Discretionary grants made by the Commission to implement significant regional initiatives, to take advantage of special development opportunities, or to respond to emergency economic distress in the region may be made without regard to the percentage limitations specified in subparagraph (A).
 
-    (ii) *Limitation on aggregate amount.—* — For each fiscal year, the aggregate amount of discretionary grants referred to in clause (i) shall not be more than 10 percent of the amount appropriated under [section 14703 of this title](./chapter-147-miscellaneous.md#section-14703) for the fiscal year.
+    (ii) *Limitation on aggregate amount.—* — For each fiscal year, the aggregate amount of discretionary grants referred to in clause (i) shall not be more than 10 percent of the amount appropriated under [section 14703 of this title](./chapter-147-miscellaneous.md#section-14703) for the fiscal year, except that a discretionary grant to respond to economic distress directly related to the impacts of the Coronavirus Disease 2019 (COVID–19) shall not be included in such aggregate amount.
 
 (3) **Sources of grants.—** — Grant amounts may be provided entirely from appropriations to carry out this section, in combination with amounts available under other federal or federal grant programs, or from any other source.
 
@@ -413,6 +413,8 @@ In subsection (c)(2), the words “or their duly authorized representatives” a
 The Public Works and Economic Development Act of 1965, referred to in subsec. (a)(1)(B), is Pub. L. 89–136, Aug. 26, 1965, 79 Stat. 552, as amended, which is classified generally to chapter 38 (§ 3121 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 3121 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3121&num=0&edition=prelim) and Tables.
 
 #### Amendments
+2020—Subsec. (a)(2)(B)(ii). Pub. L. 116–136 inserted before period at end “, except that a discretionary grant to respond to economic distress directly related to the impacts of the Coronavirus Disease 2019 (COVID–19) shall not be included in such aggregate amount”.
+
 2008—Subsec. (a)(1)(A)(i). Pub. L. 110–371, § 2(a)(1), added cl. (i) and struck out former cl. (i) which read as follows: “the amount of a grant shall not exceed 50 percent of administrative expenses or, at the discretion of the Commission, 75 percent of administrative expenses if the grant is to a local development district that has a charter or authority that includes the economic development of a county or part of a county for which a distressed county designation is in effect under [section 14526 of this title](./chapter-145-special-appalachian-programs.md#section-14526);”.
 
 Subsec. (a)(2)(A). Pub. L. 110–371, § 2(a)(2), added subpar. (A) and struck out heading and text of former subpar. (A). Text read as follows: “Except as provided in subparagraph (B), not more than 50 percent (or 80 percent in the case of a project to be carried out in a county for which a distressed county designation is in effect under [section 14526 of this title](./chapter-145-special-appalachian-programs.md#section-14526)) of the cost of any activity eligible for financial assistance under this section may be provided from amounts appropriated to carry out this subtitle.”

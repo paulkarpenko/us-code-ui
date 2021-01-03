@@ -8,7 +8,11 @@ source: >-
 ---
 <a id="section-201"></a>
 ## § 201. Pay grades: assignment to; general rules
-**(a)** For the purpose of computing their basic pay, commissioned officers of the uniformed services (other than commissioned warrant officers) are assigned by the grade or rank in which serving to the following pay grades: Pay gradeArmy, Air Force, and Marine CorpsNavy, Coast Guard, andNational Oceanic and Atmospheric AdministrationPublic Health Service O–10GeneralAdmiralAssistant Secretary for Health. O–9Lieutenant generalVice admiralSurgeon General. O–8Major generalRear admiralDeputy Surgeon General.Assistant Surgeon General having rank of major general. O–7Brigadier generalRear admiral (lower half)Assistant Surgeon General having rank of brigadier general. O–6ColonelCaptainDirector grade. O–5Lieutenant colonelCommanderSenior grade. O–4MajorLieutenant commanderFull grade. O–3CaptainLieutenantSenior assistant grade. O–21st lieu­tenantLieutenant (junior grade)Assistant grade. O–12d lieu­tenantEnsignJunior assistant grade.
+**(a)**
+
+(1) Subject to paragraph (2), for the purpose of computing their basic pay, commissioned officers of the uniformed services (other than commissioned warrant officers) are assigned by the grade or rank in which serving to the following pay grades: Pay gradeArmy, Air Force, and Marine CorpsNavy, Coast Guard, andNational Oceanic and Atmospheric AdministrationPublic Health Service O–10GeneralAdmiralAssistant Secretary for Health. O–9Lieutenant generalVice admiralSurgeon General. O–8Major generalRear admiralDeputy Surgeon General.Assistant Surgeon General having rank of major general. O–7Brigadier generalRear admiral (lower half)Assistant Surgeon General having rank of brigadier general. O–6ColonelCaptainDirector grade. O–5Lieutenant colonelCommanderSenior grade. O–4MajorLieutenant commanderFull grade. O–3CaptainLieutenantSenior assistant grade. O–21st lieu­tenantLieutenant (junior grade)Assistant grade. O–12d lieu­tenantEnsignJunior assistant grade.
+
+(2) For the purpose of computing their basic pay, commissioned officers of the Space Force are assigned to the pay grades in the table in paragraph (1) by grade or rank in the Air Force that is equivalent to the grade or rank in which such officers are serving in the Space Force.
 
 **(b)** For the purpose of computing their basic pay, warrant officers of the armed forces are assigned, by the warrant officer grade in which serving, to the following pay grades: Pay Grade:Warrant Officer Grade: W–5 Chief Warrant Officer, W–5. W–4 Chief Warrant Officer, W–4. W–3 Chief Warrant Officer, W–3. W–2 Chief Warrant Officer, W–2. W–1 Warrant Officer, W–1.
 
@@ -44,6 +48,8 @@ In subsection (f), the words “While on active duty”, in [section 6915(f) of 
 In subsection (g), the words “Except as provided by subsections (e) and (f)” are inserted to reflect those subsections relating to enlisted aviation cadets or aviation pilots.
 
 #### Amendments
+2021—Subsec. (a). Pub. L. 116–283 designated existing provisions as par. (1), substituted “Subject to paragraph (2), for the purpose” for “For the purpose”, and added par. (2).
+
 2006—Subsec. (d). Pub. L. 109–163 substituted “Navy Reserve” for “Naval Reserve”.
 
 1991—Subsec. (b). Pub. L. 102–190, § 1111(b), amended table generally, adding provisions relating to Chief Warrant Officer at grade W–5.
@@ -100,6 +106,7 @@ Pub. L. 88–132, § 14, Oct. 2, 1963, 77 Stat. 218, provided that: “This Act 
 #### Transfer of Functions
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).
 
+#### Transfer of Functions
 Functions of Public Health Service, Surgeon General of Public Health Service, and all other officers and employees of Public Health Service, and functions of all agencies of or in Public Health Service, transferred to Secretary of Health, Education, and Welfare by Reorg. Plan No. 3 of 1966, eff. June 25, 1966, 31 F.R. 8855, 80 Stat. 1610, set out in the Appendix to Title 5, Government Organization and Employees. Secretary of Health, Education, and Welfare redesignated Secretary of Health and Human Services by [section 3508(b) of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section3508/b&num=0&edition=prelim), Education.
 
 
@@ -200,7 +207,7 @@ Subsec. (h). Pub. L. 89–718, § 50(2), struck out par. (2) relating to Chief o
 #### Effective Date of 1980 Amendment
 Amendment by Pub. L. 96–513 effective Sept. 15, 1981, but the authority to prescribe regulations under the amendment by Pub. L. 96–513 effective on Dec. 12, 1980, see section 701 of Pub. L. 96–513, set out as a note under [section 101 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section101&num=0&edition=prelim), Armed Forces.
 
-Pub. L. 96–342, title X, § 1004(b), Sept. 8, 1980, 94 Stat. 1120, provided that: “The amendment made by subsection (a) [amending this section] shall apply with respect to basic pay payable for periods beginning on or after the date of the enactment of this Act [Sept 8, 1980].”
+Pub. L. 96–342, title X, § 1004(b), Sept. 8, 1980, 94 Stat. 1120, provided that: “The amendment made by subsection (a) [amending this section] shall apply with respect to basic pay payable for periods beginning on or after the date of the enactment of this Act [Sept. 8, 1980].”
 
 #### Effective Date of 1972 Amendment
 Amendment by Pub. L. 92–451 effective Oct. 2, 1972, except that continuation boards may not be held until one year thereafter, see section 3 of Pub. L. 92–451, set out as a note under [section 2151 of Title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section2151&num=0&edition=prelim), Coast Guard.
@@ -245,6 +252,12 @@ For provisions to prevent extinction or premature termination of rights, duties,
 
 (3) The monthly student pay of a student described in paragraph (1) shall be treated for purposes of the accrual charge for the Department of Defense Military Retirement Fund established under [section 1461 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1461&num=0&edition=prelim) in the same manner as monthly cadet pay or midshipman pay under subsection (c).
 
+**(f)**
+
+(1) An officer candidate enrolled in the basic officer training program of the commissioned officer corps of the National Oceanic and Atmospheric Administration is entitled, while participating in such program, to monthly officer candidate pay at monthly rates equal to the basic pay of an enlisted member in the pay grade E–5 with less than two years of service.
+
+(2) An individual who graduates from such program shall receive credit for the time spent participating in such program as if such time were time served while on active duty as a commissioned officer. If the individual does not graduate from such program, such time shall not be considered creditable for active duty or pay.
+
 ### Statutory Notes
 
 | Historical and Revision Notes |  |  |
@@ -259,6 +272,8 @@ Section 142(d) (as applicable to basic pay) of title 10 is omitted as superseded
 Levels II and V of the Executive Schedule, referred to in subsec. (a)(2), are set out in sections 5313 and 5316, respectively, of Title 5, Government Organization and Employees.
 
 #### Amendments
+2020—Subsec. (f). Pub. L. 116–259 added subsec. (f).
+
 2006—Subsec. (a)(2). Pub. L. 109–364 substituted “level II” for “level III”.
 
 Subsec. (b). Pub. L. 109–163, § 602, inserted “, the United States Naval Academy,” after “Military Academy”.
@@ -418,7 +433,7 @@ Pub. L. 95–79, title III, § 302(b), (c), July 30, 1977, 91 Stat. 326, 327, pr
 Pub. L. 92–455, § 5, Oct. 2, 1972, 86 Stat. 761, provided that: “An enlisted member of the Coast Guard who has served as the master chief petty officer of the Coast Guard before enactment of this Act [Oct. 2, 1972] is entitled to recover the differences between the basic pay (including proficiency pay) received while so serving and the amount he would have received if his basic pay had been the same as the basic pay of the senior enlisted advisers of the other Armed Forces from the time of his original appointment to serve as the master chief petty officer of the Coast Guard.”
 
 #### Report on Effectiveness of 1971 Pay Increases in Increasing Volunteers
-Section 211 of Pub. L. 92–129 directed Secretary of Defense to report to Chairman of Armed Services Committees of Senate and of House of Representatives not later than June 30, 1972, on effectiveness of provisions of title II of Pub. L. 92–129, authorizing pay increases for uniformed services, in increasing number of volunteers enlisting for active duty in Armed Forces of United States.
+Pub. L. 92–129, title II, § 211, Sept. 28, 1971, 85 Stat. 360, directed Secretary of Defense to report to Chairman of Armed Services Committees of Senate and of House of Representatives not later than June 30, 1972, on effectiveness of provisions of title II of Pub. L. 92–129, authorizing pay increases for uniformed services, in increasing number of volunteers enlisting for active duty in Armed Forces of United States.
 
 #### Pay Continuation
 Pub. L. 92–129, title II, § 210, Sept. 28, 1971, 85 Stat. 360, provided that: “The enactment of this title [enacting sections 302a, 308a, and 428 of this title and amending this section, [section 403 of this title](./chapter-007-allowances-other-than-travel-and-transportation-allowances.md#section-403), and sections 2203, 2204, and 2207 of the former Appendix to Title 50, War and National Defense] shall not reduce the pay to which any member of the uniformed services was entitled on June 30, 1971.”
@@ -808,7 +823,7 @@ For provisions to prevent extinction or premature termination of rights, duties,
 
 (1) for each regular period of instruction, or period of appropriate duty, at which the member is engaged for at least two hours, including that performed on a Sunday or holiday;
 
-(2) for the performance of such other equivalent training, instruction, duty, or appropriate duties, as the Secretary may prescribe; or
+(2) for the performance of such other equivalent training, instruction, duty, or appropriate duties, as the Secretary may prescribe;
 
 (3) for a regular period of instruction that the member is scheduled to perform but is unable to perform because of physical disability resulting from an injury, illness, or disease incurred or aggravated—
 
@@ -820,7 +835,9 @@ For provisions to prevent extinction or premature termination of rights, duties,
 
   (B) while traveling directly to or from that duty or training (unless such injury, illness, disease, or aggravation of an injury, illness, or disease is the result of the gross negligence or misconduct of the member); or
 
-  (C) in line of duty while remaining overnight immediately before the commencement of inactive-duty training, or while remaining overnight, between successive periods of inactive-duty training, at or in the vicinity of the site of the inactive-duty training.
+  (C) in line of duty while remaining overnight immediately before the commencement of inactive-duty training, or while remaining overnight, between successive periods of inactive-duty training, at or in the vicinity of the site of the inactive-duty training; or
+
+(4) for each of six days for each period during which the member is on maternity leave.
 
 **(b)** The regulations prescribed under subsection (a) for each uniformed service, the National Guard, and each of the classes of organization of the reserve components within each uniformed service, may be different. The Secretary concerned shall, for the National Guard and each of the classes of organization within each uniformed service, prescribe—
 
@@ -880,6 +897,8 @@ Pub. L. 96–154, title VII, § 726, Dec. 21, 1979, 93 Stat. 1157.
 Pub. L. 95–457, title VIII, § 826, Oct. 13, 1978, 92 Stat. 1248.
 
 #### Amendments
+Subsec. (a)(4). Pub. L. 116–283 added par. (4).
+
 2008—Subsec. (f). Pub. L. 110–181 added subsec. (f).
 
 2006—Subsec. (d)(1). Pub. L. 109–163 inserted “or by a member of the National Guard while not in Federal service” after “reserve component”.
@@ -901,6 +920,9 @@ Subsec. (d). Pub. L. 107–107, § 603(a), designated existing provisions as par
 1986—Subsec. (a). Pub. L. 99–661, substituted “entitled to basic pay—” and pars. (1) to (3) for “entitled to basic pay, for each regular period of instruction, or period of appropriate duty, at which he is engaged for at least two hours, including that performed on a Sunday or holiday, or for the performance of such other equivalent training, instruction, duty, or appropriate duties, as the Secretary may prescribe.”
 
 1984—Subsec. (e). Pub. L. 98–525 added subsec. (e).
+
+#### Effective Date of 2021 Amendment
+Amendment by Pub. L. 116–283 effective, and applicable with respect to periods of maternity leave that commence on or after, Jan. 1, 2021, see section 602(c) of Pub. L. 116–283, set out as a note under [section 12732 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section12732&num=0&edition=prelim), Armed Forces.
 
 #### Effective Date of 1988 Amendment
 Amendment by Pub. L. 100–456 applicable with respect to persons who, after Sept. 29, 1988, incur or aggravate an injury, illness, or disease, or who die as the result of incurring or aggravating an injury, illness, or disease, see section 631(d) of Pub. L. 100–456, set out as a note under [section 204 of this title](./chapter-003-basic-pay.md#section-204).
@@ -1098,11 +1120,15 @@ Pub. L. 92–172, Nov. 24, 1971, 85 Stat. 491, as amended by Pub. L. 94–361, t
 
 (4) The Sergeant Major of the Marine Corps.
 
-(5) The Master Chief Petty Officer of the Coast Guard.
+(5) The senior enlisted advisor of the Space Force.
+
+(6) The Master Chief Petty Officer of the Coast Guard.
 
 ### Statutory Notes
 
 #### Amendments
+2021—Subsec. (c)(5), (6). Pub. L. 116–283 added par. (5) and redesignated former par. (5) as (6).
+
 2014—Subsec. (a). Pub. L. 113–291, § 603(b)(1), inserted “or the senior enlisted advisor to the Chairman of the Joint Chiefs of Staff or the Chief of the National Guard Bureau” after “that armed force” the first place appearing.
 
 Subsec. (c)(6). Pub. L. 113–291, § 603(b)(2), struck out par. (6) which read as follows: “The Senior Enlisted Advisor to the Chairman of the Joint Chiefs of Staff.”

@@ -46,11 +46,17 @@ Section effective on the date of entry into force of the WTO Agreement with resp
 
   (C) regarding plant health, developed under the auspices of the Secretariat of the International Plant Protection Convention in cooperation with the North American Plant Protection Organization; or
 
-  (D) established by or developed under any other international organization agreed to by the NAFTA countries (as defined in [section 3301(4) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section3301/4&num=0&edition=prelim)) or by the WTO members (as defined in [section 3501(10) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section3501/10&num=0&edition=prelim)).
+  (D) established by or developed under any other international organization agreed to by the USMCA countries (as defined in [section 4502 of this title](./chapter-029-united-states-mexico-canada-agreement-implementation.md#section-4502)) or by the WTO members (as defined in [section 3501(10) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section3501/10&num=0&edition=prelim)).
 
 **(b) Other definitions** The definitions set forth in [section 2575b of this title](./chapter-013-trade-agreements-act-of-1979.md#section-2575b) apply for purposes of this part except that in applying paragraph (7) of [section 2575b of this title](./chapter-013-trade-agreements-act-of-1979.md#section-2575b) with respect to a sanitary or phytosanitary measure of a foreign country, any reference in such paragraph to the United States shall be deemed to be a reference to that foreign country.
 
 ### Statutory Notes
+
+#### Amendments
+2020—Subsec. (a)(5)(D). Pub. L. 116–260 substituted “the USMCA countries (as defined in [section 4502 of this title](./chapter-029-united-states-mexico-canada-agreement-implementation.md#section-4502))” for “the NAFTA countries (as defined in section 2(4) of the North American Free Trade Agreement Implementation Act)”.
+
+#### Effective Date of 2020 Amendment
+Pub. L. 116–260, div. O, title VI, § 602(g), Dec. 27, 2020, 134 Stat. 2154, provided that: “This section [amending this section, sections 2702 to 2703a, 3721, 3722, and 4362 of this title, [section 11 of Title 35](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title35-section11&num=0&edition=prelim), Patents, and [section 2296b of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2296b&num=0&edition=prelim), The Public Health and Welfare] and the amendments made by this section shall take effect on July 1, 2020.”
 
 #### Effective Date
 Section effective on the date of entry into force of the WTO Agreement with respect to the United States (Jan. 1, 1995), except as otherwise provided, see section 451 of Pub. L. 103–465, set out as a note under [section 3601 of this title](./chapter-022-uruguay-round-trade-agreements.md#section-3601).
@@ -368,7 +374,7 @@ Subsec. (c) of this section applicable as if United States-Canada Free-Trade Agr
 
 **(b) Designation of eligible countries and instrumentalities** The President may designate a foreign country or instrumentality for purposes of subsection (a) only if he determines that such country or instrumentality—
 
-(1) is a country or instrumentality which (A) has become a party to the Agreement or the North American Free Trade Agreement, and (B) will provide appropriate reciprocal competitive government procurement opportunities to United States products and suppliers of such products;
+(1) is a country or instrumentality which (A) has become a party to the Agreement or the USMCA (as defined in [section 4502 of this title](./chapter-029-united-states-mexico-canada-agreement-implementation.md#section-4502)), and (B) will provide appropriate reciprocal competitive government procurement opportunities to United States products and suppliers of such products;
 
 (2) is a country or instrumentality, other than a major industrial country, which (A) will otherwise assume the obligations of the Agreement, and (B) will provide such opportunities to such products and suppliers;
 
@@ -380,13 +386,17 @@ Subsec. (c) of this section applicable as if United States-Canada Free-Trade Agr
 
 **(d) Omitted**
 
-**(e) Procurement procedures by certain Federal agencies** Notwithstanding any other provision of law, the President may direct any agency of the United States listed in Annex 1001.1a–2 of the North American Free Trade Agreement to procure eligible products in compliance with the procedural provisions of chapter 10 of such Agreement.
+**(e) Procurement procedures by certain Federal agencies** Notwithstanding any other provision of law, the President may direct any agency of the United States listed in Annex 13–A of the USMCA (as defined in [section 4502 of this title](./chapter-029-united-states-mexico-canada-agreement-implementation.md#section-4502)) to procure eligible products in compliance with the procedural provisions of chapter 10 of such Agreement.
 
 **(f) Small business and minority preferences** The authority of the President under subsection (a) of this section to waive any law, regulation, procedure, or practice regarding Government procurement does not authorize the waiver of any small business or minority preference.
 
 ### Statutory Notes
 
 #### Amendments
+2020—Subsec. (b)(1). Pub. L. 116–113, § 505(a)(1), substituted “the USMCA (as defined in [section 4502 of this title](./chapter-029-united-states-mexico-canada-agreement-implementation.md#section-4502))” for “the North American Free Trade Agreement”.
+
+Subsec. (e). Pub. L. 116–113, § 505(a)(2), substituted “Annex 13–A of the USMCA (as defined in [section 4502 of this title](./chapter-029-united-states-mexico-canada-agreement-implementation.md#section-4502))” for “Annex 1001.1a–2 of the North American Free Trade Agreement” and “chapter 13 of the USMCA” for “chapter 10 of such Agreement”.
+
 1993—Subsec. (a). Pub. L. 103–182, § 381(a)(1), substituted “Subject to subsection (f) of this section, the President” for “The President”.
 
 Subsec. (b)(1). Pub. L. 103–182, § 381(a)(2), inserted “or the North American Free Trade Agreement” after “the Agreement”.
@@ -395,8 +405,13 @@ Subsecs. (e), (f). Pub. L. 103–182, § 381(a)(3), added subsecs. (e) and (f).
 
 1988—Subsec. (d). Pub. L. 100–418, §§ 7004, 7005(e), temporarily added subsec. (d) which read as follows: “The authority of the President under subsection (a) of this section to waive any laws, regulation, procedure, or practice shall be effective notwithstanding any other provision of law hereafter enacted (excluding the provisions of and amendments made by the Buy American Act of 1988) unless such other provision specifically refers to and amends this section.” See Effective and Termination Dates of 1988 Amendment note below.
 
+#### Effective Date of 2020 Amendment
+Pub. L. 116–113, title V, § 505(c), Jan. 29, 2020, 134 Stat. 77, provided that: “(1) In general.—The amendments made by subsections (a) and (b) [amending this section and [section 2518 of this title](./chapter-013-trade-agreements-act-of-1979.md#section-2518)] shall—“(A) take effect on the date on which the USMCA enters into force [July 1, 2020]; and “(B) apply with respect to a procurement on or after that date. “(2) Transition from nafta treatment.—In the case of a procurement before the date on which the USMCA enters into force—“(A) the amendments made by subsections (a) and (b) to sections 301 and 308 of the Trade Agreements Act of 1979 ([19 U.S.C. 2511](./chapter-013-trade-agreements-act-of-1979.md#section-2511) and 2518) shall not apply with respect to the contract; and “(B) sections 301 and 308 of such Act, as in effect on the day before that date, shall continue to apply on and after that date with respect to the contract.”
+
+[For definition of “USMCA” as used in section 505(c) of Pub. L. 116–113, set out above, see [section 4502 of this title](./chapter-029-united-states-mexico-canada-agreement-implementation.md#section-4502).]
+
 #### Effective Date of 1993 Amendment
-Pub. L. 103–182, title III, § 381(e), Dec. 8, 1993, 107 Stat. 2129, provided that: “The provisions of this subtitle [subtitle G (§ 381) of title III of Pub. L. 103–182, amending this section, sections 2512 and 2518 of this title, and provisions set out as a note under [section 903 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section903&num=0&edition=prelim), Agriculture] take effect on the date the Agreement [North American Free Trade Agreement] enters into force with respect to the United States [Jan. 1, 1994].”
+Pub. L. 103–182, title III, § 381(e), Dec. 8, 1993, 107 Stat. 2129, which provided that subtitle G of title III of Pub. L. 103–182 would take effect on the date the North American Free Trade Agreement entered into force with respect to the United States (Jan. 1, 1994), was repealed by Pub. L. 116–113, title VI, § 601, Jan. 29, 2020, 134 Stat. 78, effective on the date the USMCA entered into force (July 1, 2020).
 
 #### Effective and Termination Dates of 1988 Amendment
 Pub. L. 100–418, title VII, § 7004, Aug. 23, 1988, 102 Stat. 1552, provided that: “The amendments made by this title [see Tables for classification] shall cease to be effective on April 30, 1996, unless the Congress, after reviewing the report required by section 305(k) of the Trade Agreements Act of 1979 [former [19 U.S.C. 2515(k)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section2515/k&num=0&edition=prelim)], and other relevant information, extends such date. After such date, the President may modify or terminate any or all actions taken pursuant to such amendments.”
@@ -788,7 +803,7 @@ Committee on Government Operations of House of Representatives treated as referr
 Pub. L. 103–465, title III, § 344, Dec. 8, 1994, 108 Stat. 4955, provided that: “(a) In General.—Except as provided in subsection (b), the amendments made by this subtitle [subtitle E (§§ 341–344 of title III of Pub. L. 103–465, amending this section and sections 2513 to 2515, 2517, and 2518 of this title, repealing [section 2516 of this title](./chapter-013-trade-agreements-act-of-1979.md#section-2516), and amending provisions set out as a note under [section 903 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section903&num=0&edition=prelim), Agriculture] take effect on the date on which the Agreement on Government Procurement referred to in section 101(d)(17) [[19 U.S.C. 3511(d)(17)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section3511/d/17&num=0&edition=prelim)] enters into force with respect to the United States [Jan. 1, 1995]. “(b) Section 342(g).—The amendments made by section 342(g) [amending provisions set out as a note under [section 903 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section903&num=0&edition=prelim)] take effect on the date on which the WTO Agreement enters into force with respect to the United States [Jan. 1, 1995].”
 
 #### Effective Date of 1993 Amendment
-Amendment by Pub. L. 103–182 effective on the date the North American Free Trade Agreement enters into force with respect to the United States [Jan. 1, 1994], see section 381(e) of Pub. L. 103–182, set out as a note under [section 2511 of this title](./chapter-013-trade-agreements-act-of-1979.md#section-2511).
+Amendment by Pub. L. 103–182 effective on the date the North American Free Trade Agreement enters into force with respect to the United States (Jan. 1, 1994), see section 381(e) of Pub. L. 103–182, formerly set out as a note under [section 2511 of this title](./chapter-013-trade-agreements-act-of-1979.md#section-2511).
 
 #### Delegation of Functions
 Functions of President under this section delegated to United States Trade Representative, with authority delegated to Secretary of Defense to waive the prohibitions contained in subsec. (b)(3), see section 1–201 of Ex. Ord. No. 12260, Dec. 31, 1980, 46 F.R. 1653, set out as a note under [section 2511 of this title](./chapter-013-trade-agreements-act-of-1979.md#section-2511).
@@ -1147,7 +1162,7 @@ As used in this subchapter—
 
     (i) a party to the Agreement, a product or service of that country or instrumentality which is covered under the Agreement for procurement by the United States;
 
-    (ii) a party to the North American Free Trade Agreement, a product or service of that country or instrumentality which is covered under the North American Free Trade Agreement for procurement by the United States;
+    (ii) Mexico, as a party to the USMCA (as defined in [section 4502 of this title](./chapter-029-united-states-mexico-canada-agreement-implementation.md#section-4502)), a product or service of that country or instrumentality which is covered under the USMCA for procurement by the United States;
 
     (iii) a party to a free trade agreement that entered into force with respect to the United States after December 31, 2003, and before January 2, 2005, a product or service of that country or instrumentality which is covered under the free trade agreement for procurement by the United States;
 
@@ -1206,6 +1221,8 @@ For termination of amendment by section 501(c) of Pub. L. 100–449, see Effecti
 Section 601(a)(2), referred to in par. (2), is section 601(a)(2) of Pub. L. 96–39 title VI, July 26, 1979, 93 Stat. 267, which directed a duty rate of “Free” in the rate column numbered 1 of the Tariff Schedules of the United States for articles classified under specified items between 518.51 and 772.65 which the President determines would provide coverage comparable to that provided by foreign countries in the Annex to the Agreement on Trade in Civil Aircraft if such articles were certified for use in civil aircraft in accordance with headnote 3 to schedule 6, part 6, subpart C of the Tariff Schedules of the United States. The Tariff Schedules of the United States were replaced by the Harmonized Tariff Schedule of the United States, which is not set out in the Code. See Publication of Harmonized Tariff Schedule note set out under section 1202 of the title.
 
 #### Amendments
+2020—Par. (4)(A)(ii). Pub. L. 116–113 substituted “Mexico, as a party to the USMCA (as defined in [section 4502 of this title](./chapter-029-united-states-mexico-canada-agreement-implementation.md#section-4502)),” for “a party to the North American Free Trade Agreement,” and “the USMCA for” for “the North American Free Trade Agreement for”.
+
 2011—Par. (4)(A)(viii). Pub. L. 112–41, §§ 107(c), 401, temporarily added cl. (viii). See Effective and Termination Dates of 2011 Amendment note below.
 
 Par. (4)(A)(ix). Pub. L. 112–42, §§ 107(c), 401, temporarily added cl. (ix). See Effective and Termination Dates of 2011 Amendment note below.
@@ -1236,6 +1253,9 @@ Par. (4)(D). Pub. L. 103–465, § 342(f)(2)(B), substituted “the Agreement (a
 
 1985—Par. (4)(C). Pub. L. 99–47 added subpar. (C).
 
+#### Effective Date of 2020 Amendment
+Amendment by Pub. L. 116–113 effective on the date on which the USMCA enters into force (July 1, 2020) and applicable with respect to a procurement on or after that date, see section 505(c) of Pub. L. 116–113, set out as a note under [section 2511 of this title](./chapter-013-trade-agreements-act-of-1979.md#section-2511).
+
 #### Effective and Termination Dates of 2011 Amendment
 Amendment by Pub. L. 112–43 effective Oct. 21, 2011, applicable with respect to Panama on the date the United States–Panama Trade Promotion Agreement enters into force (Oct. 31, 2012), and to cease to be effective on the date the Agreement terminates, see section 107(b), (c) of Pub. L. 112–43, set out in a note under [section 3805 of this title](./chapter-024-bipartisan-trade-promotion-authority.md#section-3805).
 
@@ -1261,7 +1281,7 @@ Amendment by Pub. L. 108–286 effective on the date on which the United States-
 Amendment by Pub. L. 103–465 effective on the date on which the Agreement on Government Procurement, referred to in [section 3511(d)(17) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section3511/d/17&num=0&edition=prelim), enters into force with respect to the United States (Jan. 1, 1995), see section 344(a) of Pub. L. 103–465, set out as a note under [section 2512 of this title](./chapter-013-trade-agreements-act-of-1979.md#section-2512).
 
 #### Effective Date of 1993 Amendment
-Amendment by Pub. L. 103–182 effective on the date the North American Free Trade Agreement enters into force with respect to the United States (Jan. 1, 1994), see section 381(e) of Pub. L. 103–182, set out as a note under [section 2511 of this title](./chapter-013-trade-agreements-act-of-1979.md#section-2511).
+Amendment by Pub. L. 103–182 effective on the date the North American Free Trade Agreement enters into force with respect to the United States (Jan. 1, 1994), see section 381(e) of Pub. L. 103–182, formerly set out as a note under [section 2511 of this title](./chapter-013-trade-agreements-act-of-1979.md#section-2511).
 
 #### Effective and Termination Dates of 1988 Amendment
 Amendment by Pub. L. 100–449 effective on date United States-Canada Free-Trade Agreement enters into force (Jan. 1, 1989), and to cease to have effect on date Agreement ceases to be in force, see section 501(a), (c) of Pub. L. 100–449, set out in a note under [section 2112 of this title](./chapter-012-trade-act-of-1974.md#section-2112).

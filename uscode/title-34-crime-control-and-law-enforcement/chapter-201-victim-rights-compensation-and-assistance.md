@@ -308,9 +308,13 @@ Pub. L. 98–473, title II, § 1409, Oct. 12, 1984, 98 Stat. 2178, provided that
 Pub. L. 107–56, title VI, § 621(e), Oct. 26, 2001, 115 Stat. 371, provided that: “Amounts transferred to the Crime Victims Fund for use in responding to the airplane hijackings and terrorist acts (including any related search, rescue, relief, assistance, or other similar activities) that occurred on September 11, 2001, shall not be subject to any limitation on obligations from amounts deposited to or available in the Fund, notwithstanding— “(1) section 619 of the Departments of Commerce, Justice, and State, the Judiciary, and Related Agencies Appropriations Act, 2001 [section 1(a)(2) [title VI, § 619] of Pub. L. 106–553, formerly set out as a note below], and any similar limitation on Fund obligations in such Act for Fiscal Year 2002 [see Pub. L. 107–77, title VI, § 619, Nov. 28, 2001, 115 Stat. 802, formerly set out as a note below]; and “(2) subsections (c) and (d) of section 1402 of the Victims of Crime Act of 1984 ([42 U.S.C. 10601](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section10601&num=0&edition=prelim)) [now [34 U.S.C. 20101](./chapter-201-victim-rights-compensation-and-assistance.md#section-20101)].”
 
 #### Limitation on Amounts Available for Obligation
-Pub. L. 116–6, div. C, title V, § 510, Feb. 15, 2019, 133 Stat. 130, provided in part that: “Notwithstanding any other provision of law, amounts deposited or available in the Fund established by section 1402 of chapter XIV of title II of Public Law 98–473 ([34 U.S.C. 20101](./chapter-201-victim-rights-compensation-and-assistance.md#section-20101)) in any fiscal year in excess of $3,353,000,000 shall not be available for obligation until the following fiscal year.”
+Pub. L. 116–260, div. B, title V, § 510, Dec. 27, 2020, 134 Stat. 1277, provided in part that: “Notwithstanding any other provision of law, amounts deposited or available in the Fund established by section 1402 of chapter XIV of title II of Public Law 98–473 ([34 U.S.C. 20101](./chapter-201-victim-rights-compensation-and-assistance.md#section-20101)) in any fiscal year in excess of $2,015,000,000 shall not be available for obligation until the following fiscal year”.
 
 Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 116–93, div. B, title V, § 510, Dec. 20, 2019, 133 Stat. 2426.
+
+Pub. L. 116–6, div. C, title V, § 510, Feb. 15, 2019, 133 Stat. 130.
 
 Pub. L. 115–141, div. B, title V, § 510, Mar. 23, 2018, 132 Stat. 437.
 
@@ -1492,9 +1496,11 @@ Section not effective until the beginning of fiscal year 2007, see section 4 of 
 
 (1) administering tribal funds and programs;
 
-(2) enhancing the safety of Indian women from domestic violence, dating violence, sexual assault, stalking, and sex trafficking; and
+(2) enhancing the safety of Indian women from domestic violence, dating violence, sexual assault, homicide, stalking, and sex trafficking;
 
-(3) strengthening the Federal response to such violent crimes.
+(3) strengthening the Federal response to such violent crimes; and
+
+(4) improving access to local, regional, State, and Federal crime information databases and criminal justice information systems.
 
 **(c) Annual report** The Attorney General shall submit to Congress an annual report on the annual consultations required under subsection (a) that—
 
@@ -1521,6 +1527,10 @@ The Violence Against Women Reauthorization Act of 2013, referred to in subsec. (
 Section was formerly classified to [section 14045d of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section14045d&num=0&edition=prelim), The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
 
 #### Amendments
+2020—Subsec. (b)(2). Pub. L. 116–165, § 4(b)(3)(A), added par. (2) and struck out former par. (2) which read as follows: “enhancing the safety of Indian women from domestic violence, dating violence, sexual assault, stalking, and sex trafficking; and”.
+
+Subsec. (b)(4). Pub. L. 116–165, § 4(b)(3)(B), (C), added par. (4).
+
 2013—Subsec. (a). Pub. L. 113–4, § 903(1), substituted “, the Violence Against Women Act of 2000” for “and the Violence Against Women Act of 2000” and inserted “, and the Violence Against Women Reauthorization Act of 2013” before period at end.
 
 Subsec. (b). Pub. L. 113–4, § 903(2)(A), substituted “Secretary of Health and Human Services, the Secretary of the Interior,” for “Secretary of the Department of Health and Human Services” in introductory provisions.
@@ -1919,7 +1929,7 @@ Section was formerly classified to [section 3743 of Title 42](https://uscode.hou
 
   (A) compensatory damages awarded to a United States person in a final judgment—
 
-    (i) issued by a United States district court under State or Federal law against a state sponsor of terrorism; and
+    (i) issued by a United States district court under State or Federal law against a foreign state that was designated as a state sponsor of terrorism at the time the acts described in clause (ii) occurred or was so designated as a result of such acts; and
 
     (ii) arising from acts of international terrorism, for which the foreign state was determined not to be immune from the jurisdiction of the courts of the United States under section 1605A, or section 1605(a)(7) (as such section was in effect on January 27, 2008), of title 28;
 
@@ -1939,9 +1949,9 @@ Section was formerly classified to [section 3743 of Title 42](https://uscode.hou
 
       (I) a final judgment described in paragraph (2)(A) obtained before that date of publication; or
 
-      (II) a claim described in paragraph (2)(B) or (2)(C), except that any United States person with an eligible claim described in paragraph (2)(B) who did not have an eligible claim before November 21, 2019 shall have 90 days from November 21, 2019 to submit an application for payment.
+      (II) a claim described in paragraph (2)(B) or (2)(C), except that any United States person with an eligible claim described in paragraph (2)(B) who did not have an eligible claim before November 21, 2019, shall have 90 days from November 21, 2019, to submit an application for payment.
 
-    (ii) Not later than 90 days after the date of obtaining a final judgment, with regard to a final judgment obtained on or after the date of that publication, unless the final judgment was awarded to a 9/11 victim, 9/11 spouse, or 9/11 dependent before November 21, 2019, in which case such United States person shall have 90 days from November 21, 2019 to submit an application for payment.
+    (ii) Not later than 90 days after the date of obtaining a final judgment, with regard to a final judgment obtained on or after the date of that publication, unless the final judgment was awarded to a 9/11 victim, 9/11 spouse, or 9/11 dependent before November 21, 2019, in which case such United States person shall have 90 days from November 21, 2019, to submit an application for payment.
 
   (B) *Good cause* — For good cause shown, the Special Master may grant a claimant a reasonable extension of a deadline under this paragraph.
 
@@ -1981,9 +1991,25 @@ Section was formerly classified to [section 3743 of Title 42](https://uscode.hou
 
 (4) **Additional payments**
 
-  (A) *In general* — Except as provided in subparagraph (B), on January 1 of the second calendar year that begins after the date of the initial payments described in paragraph (1) if funds are available in the Fund, the Special Master shall authorize additional payments on a pro rata basis to those claimants with eligible claims under subsection (c)(2) and shall authorize additional payments for eligible claims annually thereafter if funds are available in the Fund.
+  (A) *In general* — Except as provided in subparagraphs (B) and (C), on January 1 of the second calendar year that begins after the date of the initial payments described in paragraph (1) if funds are available in the Fund, the Special Master shall authorize additional payments on a pro rata basis to those claimants with eligible claims under subsection (c)(2) and shall authorize additional payments for eligible claims annually thereafter if funds are available in the Fund.
 
   (B) *Third round payments* — The Special Master shall authorize third-round payments to satisfy eligible claims under this section not earlier than 90 days, and not later than 180 days, after November 21, 2019. The Special Master shall accept applications from eligible applicants (consistent with the deadlines for application submission prescribed in subsection (c)(3)) until the date that is 90 days after November 21, 2019.
+
+  (C) *Lump sum catch-up payments for 9/11 victims, 9/11 spouses, and 9/11 dependents*
+
+    (i) *In general* — Not later than 90 days after December 27, 2020, and in accordance with clauses (i) and (ii) of subsection (d)(3)(A), the Comptroller General of the United States shall conduct an audit and publish in the Federal Register a notice of proposed lump sum catch-up payments to 9/11 victims, 9/11 spouses, and 9/11 dependents who have submitted applications in accordance with subparagraph (B) in amounts that, after receiving the lump sum catch-up payments, would result in the percentage of the claims of 9/11 victims, 9/11 spouses, and 9/11 dependents received from the Fund being equal to the percentage of the claims of 9/11 family members received from the Fund, as of December 27, 2020.
+
+    (ii) *Public comment* — The Comptroller General shall provide an opportunity for public comment for a 30-day period beginning on the date on which the notice is published under clause (i).
+
+    (iii) *Report* — Not later than 30 days after the expiration comment period in clause (ii), the Comptroller General of the United States shall submit to the Committee on the Judiciary and the Committee on Appropriations of the Senate, the Committee on the Judiciary and the Committee on Appropriations of the House of Representatives, and the Special Master a report that includes the determination of the Comptroller General on—
+
+      (I) the amount of the lump sum catch-up payment for each 9/11 victim;
+
+      (II) the amount of the lump sum catch-up payment for each 9/11 spouse;
+
+      (III) the amount of the lump sum catch-up payment for each 9/11 dependent; and
+
+      (IV) the total amount of lump sum catch-up payments described in subclauses (I) through (III).
 
 (5) **Subrogation and retention of rights**
 
@@ -2037,9 +2063,9 @@ Section was formerly classified to [section 3743 of Title 42](https://uscode.hou
 
 (6) **Termination**
 
-  (A) *In general* — Amounts in the Fund may not be obligated on or after January 2, 2030.
+  (A) *In general* — Amounts in the Fund may not be obligated on or after January 2, 2039.
 
-  (B) *Closing of Fund* — Effective on the day after all amounts authorized to be paid from the Fund under this section that were obligated before January 2, 2030 are expended, any unobligated balances in the Fund shall be transferred, as appropriate, to either the Department of the Treasury Forfeiture Fund established under [section 9705 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section9705&num=0&edition=prelim) or to the Department of Justice Assets Forfeiture Fund established under [section 524(c)(1) of title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section524/c/1&num=0&edition=prelim).
+  (B) *Closing of Fund* — Effective on the day after all amounts authorized to be paid from the Fund under this section that were obligated before January 2, 2039 are expended, any unobligated balances in the Fund shall be transferred, as appropriate, to either the Department of the Treasury Forfeiture Fund established under [section 9705 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section9705&num=0&edition=prelim) or to the Department of Justice Assets Forfeiture Fund established under [section 524(c)(1) of title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section524/c/1&num=0&edition=prelim).
 
 **(f) Attorneys’ fees and costs**
 
@@ -2097,7 +2123,7 @@ Section was formerly classified to [section 3743 of Title 42](https://uscode.hou
 
 (5) **Fund** — The term “Fund” means the United States Victims of State Sponsored Terrorism Fund established by this section.
 
-(6) **Source other than this Fund** — The term “source other than this Fund” means all collateral sources, including life insurance, pension funds, death benefit programs, payments by Federal, State, or local governments, and court awarded compensation related to the act of international terrorism that gave rise to a claimant’s final judgment. The term “entitled or scheduled to receive” in subsection (d)(3)(B)(i) includes any potential recovery where that person or their representative is a party to any civil or administrative action pending in any court or agency of competent jurisdiction in which the party seeks to enforce the judgment giving rise to the application to the Fund.
+(6) **Source other than this Fund** — The term “source other than this Fund” means all collateral sources, including life insurance, pension funds, death benefit programs, payments by Federal, State, or local governments, and court awarded compensation related to the act of international terrorism that gave rise to a claimant’s final judgment, except that the term does not include payments received in connection with an international claims agreement to which the United States is a state party or any other settlement of terrorism-related claims against Sudan. The term “entitled or scheduled to receive” in subsection (d)(3)(B)(i) includes any potential recovery where that person or their representative is a party to any civil or administrative action pending in any court or agency of competent jurisdiction in which the party seeks to enforce the judgment giving rise to the application to the Fund.
 
 (7) **State sponsor of terrorism** — The term “state sponsor of terrorism” means a country the government of which the Secretary of State has determined, for purposes of section 4605(j) 1 of title 50, [section 2371 of title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2371&num=0&edition=prelim), [section 2780 of title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2780&num=0&edition=prelim), or any other provision of law, is a government that has repeatedly provided support for acts of international terrorism.
 
@@ -2128,37 +2154,43 @@ The United States Victims of State Sponsored Terrorism Fund Clarification Act, r
 
 [Section 1605(a)(7) of title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section1605/a/7&num=0&edition=prelim) (as such section was in effect on January 27, 2008), referred to in subsecs. (c)(2)(A)(ii) and (j)(8), refers to subsec. (a)(7) of [section 1605 of title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section1605&num=0&edition=prelim) as it existed prior to being struck out by Pub. L. 110–181, § 1083(b)(1)(A). See 2008 Amendment note under that section.
 
-Section 405 of the Air Transportation Safety and System Stabilization Act, referred to in subsec. (j)(12) to (14), is section 405 of Pub. L. 107–42, which is set out in a note under [section 40101 of Title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section40101&num=0&edition=prelim), Transportation.
-
 The International Emergency Economic Powers Act, referred to in subsec. (e)(2)(A), is title II of Pub. L. 95–223, Dec. 28, 1977, 91 Stat. 1626, which is classified generally to chapter 35 (§ 1701 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under [section 1701 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1701&num=0&edition=prelim) and Tables.
 
 The Trading with the Enemy Act, referred to in subsec. (e)(2)(A), is act Oct. 6, 1917, ch. 106, 40 Stat. 411, which was classified generally to sections 1 to 6, 7 to 39, and 41 to 44 of the former Appendix to Title 50, War and National Defense, prior to editorial reclassification and renumbering as chapter 53 (§ 4301 et seq.) of Title 50. For complete classification of this Act to the Code, see Tables.
 
 [Section 4605(j) of title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4605/j&num=0&edition=prelim), referred to in subsec. (j)(7), was repealed by Pub. L. 115–232, div. A, title XVII, § 1766(a), Aug. 13, 2018, 132 Stat. 2232. Provisions similar to those in former [section 4605(j) of title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4605/j&num=0&edition=prelim) can be found in [section 4813(c) of title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4813/c&num=0&edition=prelim), as enacted by Pub. L. 115–232.
 
+Section 405 of the Air Transportation Safety and System Stabilization Act, referred to in subsec. (j)(12) to (14), is section 405 of Pub. L. 107–42, which is set out in a note under [section 40101 of Title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section40101&num=0&edition=prelim), Transportation.
+
 #### Codification
 Section was formerly classified to [section 10609 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section10609&num=0&edition=prelim), The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
 
 #### Amendments
+2020—Subsec. (c)(2)(A)(i). Pub. L. 116–260, § 1705(a)(1), substituted “foreign state that was designated as a state sponsor of terrorism at the time the acts described in clause (ii) occurred or was so designated as a result of such acts” for “state sponsor of terrorism”.
+
+Subsec. (d)(4)(A). Pub. L. 116–260, § 1705(b)(1), substituted “subparagraphs (B) and (C)” for “subparagraph (B)”.
+
+Subsec. (d)(4)(C). Pub. L. 116–260, § 1705(b)(2), added subpar. (C).
+
+Subsec. (e)(6). Pub. L. 116–260, § 1705(a)(2), substituted “January 2, 2039” for “January 2, 2030” in two places.
+
+Subsec. (j)(6). Pub. L. 116–260, § 1705(a)(3), inserted “, except that the term does not include payments received in connection with an international claims agreement to which the United States is a state party or any other settlement of terrorism-related claims against Sudan” after “final judgment”.
+
 2019—Subsec. (b)(1)(B). Pub. L. 116–69, § 1701(b)(1)(A)(i), substituted “section, except that, during the 1-year period beginning on November 21, 2019, the Special Master may utilize an additional 5 full-time equivalent Department of Justice personnel.” for “section.”
 
 Subsec. (b)(2)(A). Pub. L. 116–69, § 1701(b)(1)(A)(ii), substituted “Not later than 30 days after the date of enactment of the United States Victims of State Sponsored Terrorism Fund Clarification Act, the Special Master shall update, as necessary as a result of the enactment of such Act, such procedures and other guidance previously issued by the Special Master. Such notice and any updates to that notice or other guidance are” for “Such notice is”.
 
 Subsec. (c)(2)(B). Pub. L. 116–69, § 1701(b)(1)(B)(i), substituted “January 20, 1981” for “January 20, 1981, if such person is identified as a member of the proposed class in case number 1:00-CV-03110 (EGS) of the United States District Court for the District of Columbia”.
 
-Subsec. (c)(3)(A)(i)(II). Pub. L. 116–69, § 1701(b)(1)(B)(ii)(I), substituted for period at end “, except that any United States person with an eligible claim described in paragraph (2)(B) who did not have an eligible claim before November 21, 2019 shall have 90 days from November 21, 2019 to submit an application for payment.”
+Subsec. (c)(3)(A)(i)(II). Pub. L. 116–69, § 1701(b)(1)(B)(ii)(I), substituted for period at end “, except that any United States person with an eligible claim described in paragraph (2)(B) who did not have an eligible claim before November 21, 2019, shall have 90 days from November 21, 2019, to submit an application for payment.”
 
-Subsec. (c)(3)(A)(ii). Pub. L. 116–69, § 1701(b)(1)(B)(ii)(II), substituted for period at end “, unless the final judgment was awarded to a 9/11 victim, 9/11 spouse, or 9/11 dependent before November 21, 2019, in which case such United States person shall have 90 days from November 21, 2019 to submit an application for payment.”
+Subsec. (c)(3)(A)(ii). Pub. L. 116–69, § 1701(b)(1)(B)(ii)(II), substituted for period at end “, unless the final judgment was awarded to a 9/11 victim, 9/11 spouse, or 9/11 dependent before November 21, 2019, in which case such United States person shall have 90 days from November 21, 2019, to submit an application for payment.”
 
 Subsec. (d)(3)(A). Pub. L. 116–69, § 1701(b)(1)(C)(i), added cls. (i) and (ii) and struck out former cls. (i) and (ii) which read as follows:
 
-“(i) Pro rata basis
+“(i) Pro rata basis.—Except as provided in subparagraph (B) and subject to the limitations described in clause (ii), the Special Master shall carry out paragraph (1), by dividing all available funds on a pro rata basis, based on the amounts outstanding and unpaid on eligible claims, until all such amounts have been paid in full.
 
-“Except as provided in subparagraph (B) and subject to the limitations described in clause (ii), the Special Master shall carry out paragraph (1), by dividing all available funds on a pro rata basis, based on the amounts outstanding and unpaid on eligible claims, until all such amounts have been paid in full.
-
-“(ii) Limitations
-
-“The limitations described in this clause are as follows:
+“(ii) Limitations.—The limitations described in this clause are as follows:
 
 “(I) In the event that a United States person has an eligible claim that exceeds $20,000,000, the Special Master shall treat that claim as if it were for $20,000,000 for purposes of this section.
 
@@ -2182,4 +2214,4 @@ Subsec. (j)(9) to (14). Pub. L. 116–69, § 1701(b)(1)(F)(ii), added pars. (9) 
 Pub. L. 116–69, div. B, title VII, § 1701(d), Nov. 21, 2019, 133 Stat. 1143, provided that: “This section [amending this section and enacting provisions set out as a note below] and the amendments made by this section shall take effect on the date of enactment of this Act [Nov. 21, 2019].”
 
 #### Construction of 2019 Amendment
-Pub. L. 116–69, div. B, title VII, § 1701(c), Nov. 21, 2019, 133 Stat. 1143, provided that: “A determination by the Special Master before the date of enactment of the United States Victims of State Sponsored Terrorism Fund Clarification Act [Nov. 21,2019] that an award or award determination under section 405 of the Air Transportation Safety and Stabilization Act [Pub. L. 107–42] ([49 U.S.C. 40101](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section40101&num=0&edition=prelim) note) was controlling for purposes of the Fund (pursuant to subsection (d)(3)(A)(ii)(III) of the Justice for United States Victims of State Sponsored Terrorism Act ([34 U.S.C. 20144(d)(3)(A)(ii)(III)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section20144/d/3/A/ii/III&num=0&edition=prelim)), as such section was in effect on the day before the date of enactment of this Act [Nov. 21, 2019]) shall not prejudice a claim of a 9/11 victim, 9/11 spouse, or 9/11 dependent.”
+Pub. L. 116–69, div. B, title VII, § 1701(c), Nov. 21, 2019, 133 Stat. 1143, provided that: “A determination by the Special Master before the date of enactment of the United States Victims of State Sponsored Terrorism Fund Clarification Act [Nov. 21, 2019] that an award or award determination under section 405 of the Air Transportation Safety and Stabilization Act [Pub. L. 107–42] ([49 U.S.C. 40101](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section40101&num=0&edition=prelim) note) was controlling for purposes of the Fund (pursuant to subsection (d)(3)(A)(ii)(III) of the Justice for United States Victims of State Sponsored Terrorism Act ([34 U.S.C. 20144(d)(3)(A)(ii)(III)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section20144/d/3/A/ii/III&num=0&edition=prelim)), as such section was in effect on the day before the date of enactment of this Act [Nov. 21, 2019]) shall not prejudice a claim of a 9/11 victim, 9/11 spouse, or 9/11 dependent.”

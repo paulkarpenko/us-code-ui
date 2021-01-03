@@ -21,7 +21,7 @@ The Department of the Army is separately organized under the Secretary of the Ar
 The word “operates” is substituted for the words “shall function”.
 
 #### Amendments
-2018—Pub. L. 115–232 renumbered [section 3011 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section3011&num=0&edition=prelim) as this section.
+2018—Pub. L. 115–232 renumbered [section 3011 of this title](./chapter-201-definitions.md#section-3011) as this section.
 
 1986—Pub. L. 99–433 renumbered [section 3010 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section3010&num=0&edition=prelim) as this section.
 
@@ -44,9 +44,9 @@ The Secretary of the Army shall have a seal for the Department of the Army. The 
 The words “of office” are omitted as surplusage.
 
 #### Amendments
-2018—Pub. L. 115–232 renumbered [section 3012 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section3012&num=0&edition=prelim) as this section.
+2018—Pub. L. 115–232 renumbered [section 3012 of this title](./chapter-201-definitions.md#section-3012) as this section.
 
-1986—Pub. L. 99–433 renumbered [section 3011 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section3011&num=0&edition=prelim) as this section.
+1986—Pub. L. 99–433 renumbered [section 3011 of this title](./chapter-201-definitions.md#section-3011) as this section.
 
 #### Effective Date of 2018 Amendment
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
@@ -119,7 +119,7 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 ### Statutory Notes
 
 #### Amendments
-2018—Pub. L. 115–232 renumbered [section 3013 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section3013&num=0&edition=prelim) as this section.
+2018—Pub. L. 115–232 renumbered [section 3013 of this title](./chapter-201-definitions.md#section-3013) as this section.
 
 2016—Subsec. (a)(1). Pub. L. 114–328 inserted “The Secretary shall, to the greatest extent practicable, be appointed from among persons most highly qualified for the position by reason of background and experience, including persons with appropriate management or leadership experience.” after first sentence.
 
@@ -226,9 +226,9 @@ For order of succession in event of death, permanent disability, or resignation 
 
 **(f)**
 
-(1) The total number of members of the armed forces and civilian employees of the Department of the Army assigned or detailed to permanent duty in the Office of the Secretary of the Army and on the Army Staff may not exceed 3,105.
+(1) The total number of members of the armed forces and civilian employees of the Department of the Army assigned or detailed to permanent duty in the Office of the Secretary of the Army and on the Army Staff may not exceed 3,250.
 
-(2) Not more than 1,865 officers of the Army on the active-duty list may be assigned or detailed to permanent duty in the Office of the Secretary of the Army and on the Army Staff.
+(2) Not more than 1,900 officers of the Army on the active-duty list may be assigned or detailed to permanent duty in the Office of the Secretary of the Army and on the Army Staff.
 
 (3) The total number of general officers assigned or detailed to permanent duty in the Office of the Secretary of the Army and on the Army Staff may not exceed 67.
 
@@ -239,7 +239,11 @@ For order of succession in event of death, permanent disability, or resignation 
 ### Statutory Notes
 
 #### Amendments
-2018—Pub. L. 115–232 renumbered [section 3014 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section3014&num=0&edition=prelim) as this section.
+2019—Subsec. (f)(1). Pub. L. 116–92, § 901(a)(3)(A), substituted “3,250” for “3,105”.
+
+Subsec. (f)(2). Pub. L. 116–92, § 901(a)(3)(B), substituted “1,900” for “1,865”.
+
+2018—Pub. L. 115–232 renumbered [section 3014 of this title](./chapter-201-definitions.md#section-3014) as this section.
 
 2016—Subsec. (f)(4). Pub. L. 114–328, § 903(c)(1), substituted “time of war.” for “time of war or during a national emergency declared by the President or Congress. The limitation in paragraph (2) does not apply whenever the President determines that it is in the national interest to increase the number of officers assigned or detailed to permanent duty in the Office of the Secretary of the Army or on the Army Staff.”
 
@@ -277,10 +281,10 @@ Baseline personnel limitations in this section inapplicable to certain acquisiti
 ### Statutory Notes
 
 #### Prior Provisions
-Provisions similar to those in this section were contained in [section 3013 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section3013&num=0&edition=prelim) prior to enactment of Pub. L. 99–433.
+Provisions similar to those in this section were contained in [section 3013 of this title](./chapter-201-definitions.md#section-3013) prior to enactment of Pub. L. 99–433.
 
 #### Amendments
-2018—Pub. L. 115–232 renumbered [section 3015 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section3015&num=0&edition=prelim) as this section.
+2018—Pub. L. 115–232 renumbered [section 3015 of this title](./chapter-201-definitions.md#section-3015) as this section.
 
 #### Effective Date of 2018 Amendment
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
@@ -311,17 +315,29 @@ For order of succession in event of death, permanent disability, or resignation 
 
 (5)
 
-  (A) One of the Assistant Secretaries shall be the Assistant Secretary of the Army for Acquisition, Technology, and Logistics. The principal duty of the Assistant Secretary shall be the overall supervision of acquisition, technology, and logistics matters of the Department of the Army.
+  (A) One of the Assistant Secretaries shall be the Assistant Secretary of the Army for Acquisition, Logistics, and Technology. The principal duty of the Assistant Secretary shall be the overall supervision of acquisition, technology, and logistics matters of the Department of the Army.
 
-  (B) The Assistant Secretary shall have a Principal Military Deputy, who shall be an officer of the Army on active duty. The Principal Military Deputy shall be appointed from among officers who have significant experience in the areas of acquisition and program management. The position of Principal Military Deputy shall be designated as a critical acquisition position under [section 1733 of this title](./chapter-087-defense-acquisition-workforce.md#section-1733). In the event of a vacancy in the position of Assistant Secretary of the Army for Acquisition, Logistics, and Technology, the Principal Military Deputy may serve as Acting Assistant Secretary for a period of not more than one year.
+  (B) The Assistant Secretary shall have a Principal Military Deputy, who shall be an officer of the Army on active duty. The Principal Military Deputy shall be appointed from among officers who have significant experience in the areas of acquisition and program management. The position of Principal Military Deputy shall be designated as a critical acquisition position under [section 1731 of this title](./chapter-087-defense-acquisition-workforce.md#section-1731). In the event of a vacancy in the position of Assistant Secretary of the Army for Acquisition, Logistics, and Technology, the Principal Military Deputy may serve as Acting Assistant Secretary for a period of not more than one year.
+
+(6)
+
+  (A) One of the Assistant Secretaries shall be the Assistant Secretary for Energy, Installations, and Environment.
+
+  (B) The principal duty of the Assistant Secretary for Energy, Installations, and Environment shall be the overall supervision of energy, installation, and environment matters for the Department of the Army.
 
 ### Statutory Notes
 
 #### Prior Provisions
-Provisions similar to those in this section were contained in [section 3013 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section3013&num=0&edition=prelim) prior to enactment of Pub. L. 99–433.
+Provisions similar to those in this section were contained in [section 3013 of this title](./chapter-201-definitions.md#section-3013) prior to enactment of Pub. L. 99–433.
 
 #### Amendments
-2018—Pub. L. 115–232 renumbered [section 3016 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section3016&num=0&edition=prelim) as this section.
+2019—Subsec. (b)(5)(A). Pub. L. 116–92, § 1731(a)(64), substituted “Assistant Secretary of the Army for Acquisition, Logistics, and Technology” for “Assistant Secretary of the Army for Acquisition, Technology, and Logistics”.
+
+Subsec. (b)(5)(B). Pub. L. 116–92, § 861(j)(14), substituted “under [section 1731 of this title](./chapter-087-defense-acquisition-workforce.md#section-1731)” for “under [section 1733 of this title](./chapter-087-defense-acquisition-workforce.md#section-1733)”.
+
+Subsec. (b)(6). Pub. L. 116–92, § 911(a), added par. (6).
+
+2018—Pub. L. 115–232 renumbered [section 3016 of this title](./chapter-201-definitions.md#section-3016) as this section.
 
 2017—Subsec. (b)(4). Pub. L. 115–91, § 921(a), designated first sentence as subpar. (A), designated second and third sentences as subpar. (C) and, in subpar. (C), substituted “The principal responsibility of the Assistant Secretary shall be” for “The Assistant Secretary shall have as his principal responsibility”, and added subpar. (B).
 
@@ -417,7 +433,7 @@ In subsection (c), the words “during the temporary absence of the Secretary”
 #### Amendments
 2018—Pub. L. 115–232 renumbered [section 3018 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section3018&num=0&edition=prelim) as this section.
 
-1986—Pub. L. 99–433 renumbered [section 3016 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section3016&num=0&edition=prelim) as this section.
+1986—Pub. L. 99–433 renumbered [section 3016 of this title](./chapter-201-definitions.md#section-3016) as this section.
 
 #### Effective Date of 2018 Amendment
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
@@ -482,7 +498,7 @@ There is in the Office of the Secretary of the Army an Army Reserve Forces Polic
 ### Statutory Notes
 
 #### Amendments
-2018—Pub. L. 115–232 renumbered [section 3021 of this title](./chapter-203-general-matters.md#section-3021) as this section.
+2018—Pub. L. 115–232 renumbered [section 3021 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section3021&num=0&edition=prelim) as this section.
 
 #### Effective Date of 2018 Amendment
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).

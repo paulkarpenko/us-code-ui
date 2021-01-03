@@ -24,6 +24,9 @@ source: >-
 
 ### Statutory Notes
 
+#### Transfer of Section
+Pub. L. 116–283, div. A, title XVIII, §§ 1801(d), 1813(e), Jan. 1, 2021, 134 Stat. 4151, 4181, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, this section is transferred to chapter 223 of this title, as added by section 1813 of Pub. L. 116–283, inserted after [section 3243 of this title](./chapter-223-other-provisions-relating-to-planning-and-solicitation-generally.md#section-3243), as transferred and redesignated by section 1813(d) of Pub. L. 116–283, and redesignated as [section 3247 of this title](./chapter-223-other-provisions-relating-to-planning-and-solicitation-generally.md#section-3247). See Effective Date of 2021 Amendment note below.
+
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
 | Revised section | Source (U.S. Code) | Source (Statutes at Large) |
@@ -54,6 +57,9 @@ for “The Secretary of a military department may—
 “(1) prescribe regulations for the preparation, submission, and opening of bids for contracts with that department; and”.
 
 1984—Subsec. (c). Pub. L. 98–525 substituted “section 205 of the Federal Property and Administrative Services Act of 1949 ([40 U.S.C. 486](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40-section486&num=0&edition=prelim))” for “[section 486 of title 40](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40-section486&num=0&edition=prelim)” and “section 201(a) of that Act ([40 U.S.C. 481(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40-section481/a&num=0&edition=prelim))” for “[section 481(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section481/a&num=0&edition=prelim)”.
+
+#### Effective Date of 2021 Amendment
+Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
 
 
 <a id="section-2382"></a>
@@ -92,10 +98,16 @@ A prior section 2382, acts Aug. 10, 1956, ch. 1041, 70A Stat. 136; Dec. 1, 1981,
 
 ### Statutory Notes
 
+#### Transfer of Section
+Pub. L. 116–283, div. A, title XVIII, §§ 1801(d), 1856(g), Jan. 1, 2021, 134 Stat. 4151, 4275, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, this section is transferred to chapter 341 of this title, inserted after [section 4502 of this title](./chapter-341-acquisition-of-services-generally.md#section-4502), as designated by section 1856(c) of Pub. L. 116–283, and redesignated as [section 4508 of this title](./chapter-341-acquisition-of-services-generally.md#section-4508). See Effective Date of 2021 Amendment note below.
+
 #### Prior Provisions
 A prior section 2383, added Pub. L. 100–456, div. A, title VIII, § 805(a)(1), Sept. 29, 1988, 102 Stat. 2010; amended Pub. L. 102–190, div. A, title X, § 1061(a)(13), Dec. 5, 1991, 105 Stat. 1473; Pub. L. 103–355, title II, § 2401, Oct. 13, 1994, 108 Stat. 3324, related to quality control in procurement of critical aircraft and ship spare or repair parts, prior to repeal by Pub. L. 104–106, div. A, title VIII, § 803(a), Feb. 10, 1996, 110 Stat. 390.
 
 Another prior section 2383, act Aug. 10, 1956, ch. 1041, 70A Stat. 137, permitted Secretary of a military department to make emergency purchases of war material abroad, and provided that such material may be admitted free of duty, prior to repeal by Pub. L. 87–456, title III, § 303(c), May 24, 1962, 76 Stat. 78.
+
+#### Effective Date of 2021 Amendment
+Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
 
 #### Effective Date
 Pub. L. 108–375, div. A, title VIII, § 804(b), Oct. 28, 2004, 118 Stat. 2008, provided that: “[Section 2383 of title 10](./chapter-141-miscellaneous-procurement-provisions.md#section-2383), United States Code (as added by subsection (a)), shall apply to contracts entered into on or after the date of the enactment of this Act [Oct. 28, 2004].”
@@ -115,7 +127,7 @@ Pub. L. 108–375, div. A, title VIII, § 804(b), Oct. 28, 2004, 118 Stat. 2008,
 
   (C) the source of any technical data delivered under the contract.
 
-(2) The regulations prescribed pursuant to paragraph (1) do not apply to a contract that requires the delivery of supplies that are commercial items (as defined in [section 103 of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section103&num=0&edition=prelim)).
+(2) The regulations prescribed pursuant to paragraph (1) do not apply to a contract that requires the delivery of supplies that are commercial products (as defined in [section 103 of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section103&num=0&edition=prelim)).
 
 (3) The regulations prescribed pursuant to paragraph (1) do not apply to a contract for an amount not greater than the simplified acquisition threshold (as defined in [section 134 of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section134&num=0&edition=prelim)).
 
@@ -123,8 +135,8 @@ Pub. L. 108–375, div. A, title VIII, § 804(b), Oct. 28, 2004, 118 Stat. 2008,
 
 ### Statutory Notes
 
-#### Amendment of Subsection (b)(2)
-Pub. L. 115–232, div. A, title VIII, § 836(e)(2), (h), Aug. 13, 2018, 132 Stat. 1869, 1874, provided that, effective Jan. 1, 2020, subject to a savings provision, subsection (b)(2) of this section is amended by striking “commercial items” and inserting “commercial products”. See 2018 Amendment note below.
+#### Transfer of Section
+Pub. L. 116–283, div. A, title XVIII, §§ 1801(d), 1864(b), Jan. 1, 2021, 134 Stat. 4151, 4279, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, this section is transferred to chapter 367 of this title, as amended by section 1864(a) of Pub. L. 116–283, inserted after the table of sections, and redesignated as [section 4753 of this title](./chapter-367-other-administrative-matters.md#section-4753). See Effective Date of 2021 Amendment note below.
 
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
@@ -159,6 +171,9 @@ Subsec. (b)(3). Pub. L. 103–355, § 4102(d), added par. (3).
 
 1984—Pub. L. 98–525 amended section generally, substituting “identification of supplier and sources” for “marking with name of contractor” in section catchline, and, in text, substituting provisions designated subsec. (a) and relating to the marking of supplies, providing the national stock number for the supplies furnished, and the contractor’s identification number for requirement that each contractor furnishing supplies to a military department mark the supplies with his name in the manner directed by the Secretary of the Department and prohibition of receipt of supplies unless so marked and adding subsecs. (b) and (c).
 
+#### Effective Date of 2021 Amendment
+Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
+
 #### Effective Date of 2018 Amendment
 Amendment by Pub. L. 115–232 effective Jan. 1, 2020, subject to a savings provision, see section 836(h) of Pub. L. 115–232, set out as an Effective Date of 2018 Amendment; Savings Provision note under [section 453b of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section453b&num=0&edition=prelim), Domestic Security.
 
@@ -186,6 +201,12 @@ Pub. L. 98–525, title XII, § 1231(b), Oct. 19, 1984, 98 Stat. 2600, provided 
 **(b)** Each solicitation for a contract for supplies shall, if practicable, include a provision inviting each offeror responding to the solicitation to state an opinion on whether the quantity of the supplies proposed to be procured is economically advantageous to the United States and, if applicable, to recommend a quantity or quantities which would be more economically advantageous to the United States. Each such recommendation shall include a quotation of the total price and the unit price for supplies procured in each recommended quantity.
 
 ### Statutory Notes
+
+#### Transfer of Section
+Pub. L. 116–283, div. A, title XVIII, §§ 1801(d), 1813(c), Jan. 1, 2021, 134 Stat. 4151, 4179, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, this section is transferred to chapter 223 of this title, inserted after [section 3241 of this title](./chapter-223-other-provisions-relating-to-planning-and-solicitation-generally.md#section-3241), as transferred and redesignated by section 1813(b) of Pub. L. 116–283, and redesignated as [section 3242 of this title](./chapter-223-other-provisions-relating-to-planning-and-solicitation-generally.md#section-3242). See Effective Date of 2021 Amendment note below.
+
+#### Effective Date of 2021 Amendment
+Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
 
 #### Effective Date
 Pub. L. 98–525, title XII, § 1233(b), Oct. 19, 1984, 98 Stat. 2601, provided that: “The amendment made by subsection (a) [enacting this section] shall take effect at the end of the 180-day period beginning on the date of the enactment of this Act [Oct. 19, 1984].”
@@ -221,6 +242,9 @@ Funds appropriated for a military department available for making or procuring s
 
 ### Statutory Notes
 
+#### Transfer of Section
+Pub. L. 116–283, div. A, title XVIII, §§ 1801(d), 1833(o)(2), Jan. 1, 2021, 134 Stat. 4151, 4234, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, this section is transferred to subchapter III of chapter 275 of this title, as added by section 1833(n) of Pub. L. 116–283, inserted after [section 3791 of this title](./chapter-275-proprietary-contractor-data-and-rights-in-technical-data.md#section-3791), and redesignated as [section 3793 of this title](./chapter-275-proprietary-contractor-data-and-rights-in-technical-data.md#section-3793). See Effective Date of 2021 Amendment note below.
+
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
 | Revised section | Source (U.S. Code) | Source (Statutes at Large) |
@@ -239,17 +263,72 @@ The words “equipment, and materials” are omitted as covered by the word “s
 
 1960—Pub. L. 86–726 inserted “or copyrights” after “patents” in cl. (4).
 
+#### Effective Date of 2021 Amendment
+Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
+
 
 <a id="section-2387"></a>
-## § 2387. Repealed. Pub. L. 114–328, div. A, title VIII, § 833(b)(4)(A), Dec. 23, 2016, 130 Stat. 2285]
+## § 2387. Contract working dogs: requirement to transfer animals to 341st Training Squadron after service life
+**(a) In General.—** Each contract entered into by the Secretary of Defense for the provision of a contract working dog shall require, and shall contain a contract term, that the dog be transferred to the 341st Training Squadron and assigned for veterinary screening and care in accordance with [section 2583 of this title](./chapter-153-exchange-of-material-and-disposal-of-obsolete-surplus-or-unclaimed-property.md#section-2583) after the service life of the dog has terminated as described in subsection (b) for reclassification as a military animal and placement for adoption in accordance with such section.
+
+**(b) Service Life.—** The service life of a contract working dog has terminated and the dog is available for transfer to the 341st Training Squadron pursuant to a contract under subsection (a) only if the contracting officer concerned has determined that—
+
+(1) the final contractual obligation of the dog preceding such transfer is with the Department of Defense; and
+
+(2) the dog cannot be used by another department or agency of the Federal Government due to age, injury, or performance.
+
+**(c) Contract Working Dog.—** In this section, the term “contract working dog” means a dog—
+
+(1) that performs a service for the Department of Defense pursuant to a contract; and
+
+(2) that is trained and kenneled by an entity that provides such a dog pursuant to such a contract.
 
 ### Statutory Notes
 
-Section, added Pub. L. 85–861, § 1(45), Sept. 2, 1958, 72 Stat. 1458, related to limitation on procurement of table and kitchen equipment for officers’ quarters.
+#### Renumbering of Section
+Pub. L. 116–283, div. A, title XVIII, §§ 1801(d), 1882(b), Jan. 1, 2021, 134 Stat. 4151, 4293, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, [section 2410r of this title](./chapter-141-miscellaneous-procurement-provisions.md#section-2410r) is renumbered as this section. See Effective Date of 2021 Amendment note below.
+
+#### Prior Provisions
+A prior section 2387, added Pub. L. 85–861, § 1(45), Sept. 2, 1958, 72 Stat. 1458, related to limitation on procurement of table and kitchen equipment for officers’ quarters, prior to repeal by Pub. L. 114–328, div. A, title VIII, § 833(b)(4)(A), Dec. 23, 2016, 130 Stat. 2285.
+
+#### Amendments
+2021—Pub. L. 116–283 renumbered [section 2410r of this title](./chapter-141-miscellaneous-procurement-provisions.md#section-2410r) as this section.
+
+2019—Subsec. (a). Pub. L. 116–92 inserted “, and shall contain a contract term,” after “shall require” and “and assigned for veterinary screening and care in accordance with [section 2583 of this title](./chapter-153-exchange-of-material-and-disposal-of-obsolete-surplus-or-unclaimed-property.md#section-2583)” after “341st Training Squadron” and substituted “such section” for “[section 2583 of this title](./chapter-153-exchange-of-material-and-disposal-of-obsolete-surplus-or-unclaimed-property.md#section-2583)”.
+
+#### Effective Date of 2021 Amendment
+Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
 
 
 <a id="section-2388"></a>
-## § 2388. Renumbered § 2922]
+## § 2388. Security clearances for facilities of certain companies
+**(a) Authority.—** If the senior management official of a covered company does not have a security clearance, the Secretary of Defense may grant a security clearance to a facility of such company only if the following criteria are met:
+
+(1) The company has appointed a senior officer, director, or employee of the company who has a security clearance at the level of the security clearance of the facility to act as the senior management official of the company with respect to such facility.
+
+(2) Any senior management official, senior officer, or director of the company who does not have such a security clearance will not have access to any classified information, including with respect to such facility.
+
+(3) The company has certified to the Secretary that the senior officer, director, or employee appointed under paragraph (1) has the authority to act on behalf of the company with respect to such facility independent of any senior management official, senior officer, or director described in paragraph (2).
+
+(4) The facility meets all of the requirements to be granted a security clearance other than any requirement relating to the senior management official of the company having an appropriate security clearance.
+
+**(b) Covered Company.—** In this section, the term “covered company” means a company that has entered into a contract or agreement with the Department of Defense, assists the Department, or requires a facility to process classified information.
+
+### Statutory Notes
+
+#### Renumbering of Section
+Pub. L. 116–283, div. A, title XVIII, §§ 1801(d), 1882(b), Jan. 1, 2021, 134 Stat. 4151, 4293, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, [section 2410s of this title](./chapter-141-miscellaneous-procurement-provisions.md#section-2410s) is renumbered as this section. See Effective Date of 2021 Amendment note below.
+
+#### Prior Provisions
+A prior section 2388 was renumbered [section 2922 of this title](./chapter-173-energy-security.md#section-2922).
+
+#### Amendments
+2021—Pub. L. 116–283 renumbered [section 2410s of this title](./chapter-141-miscellaneous-procurement-provisions.md#section-2410s) as this section.
+
+2018—Pub. L. 115–232 struck out period at end of section catchline.
+
+#### Effective Date of 2021 Amendment
+Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
 
 
 <a id="section-2389"></a>
@@ -355,13 +434,31 @@ A prior section 2390, added Pub. L. 95–79, title VIII, § 815(a), July 30, 197
 
 **(d) Defense Community Infrastructure Pilot Program.—**
 
-(1) The Secretary of Defense may make grants, conclude cooperative agreements, and supplement funds available under Federal programs administered by agencies other than the Department of Defense to assist State and local governments to address deficiencies in community infrastructure supportive of a military installation, if the Secretary determines that such assistance will enhance the military value, resilience, or military family quality of life at such military installation.
+(1)
 
-(2) The Secretary shall establish criteria for the selection of community infrastructure projects to receive assistance under paragraph (1). The criteria shall include a requirement that the State or local government agree to contribute not less than 30 percent of the funding for the community infrastructure project, unless the community infrastructure project is located in a rural area, or for reasons related to national security, in which case the Secretary may waive the requirement for a State or local government contribution.
+  (A) The Secretary of Defense may make grants, conclude cooperative agreements, and supplement funds available under Federal programs administered by agencies other than the Department of Defense to assist State and local governments to address deficiencies in community infrastructure supportive of a military installation.
+
+  (B) The Secretary shall establish criteria for the selection of community infrastructure projects to receive assistance under this subsection, including selection of community infrastructure projects in the following order of priority:
+
+    (i) Projects that will enhance military value at a military installation, taking into consideration the military value criteria originally developed by the Secretary in compliance with the amendment made by section 3002 of the Military Construction Authorization Act for Fiscal Year 2002 (division B of Public Law 107–107; 115 Stat. 1344).
+
+    (ii) Projects that will enhance military installation resilience, as defined in [section 101(e)(8) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section101/e/8&num=0&edition=prelim).
+
+    (iii) Projects that will enhance military family quality of life at a military installation, taking into consideration subsection (e)(4)(C).
+
+(2)
+
+  (A) The criteria established for the selection of community infrastructure projects to receive assistance under this subsection shall include a requirement that, except as provided in subparagraph (B), the State or local government agree to contribute not less than 30 percent of the funding for the community infrastructure project.
+
+  (B) If a proposed community infrastructure project will be carried out in a rural area or the Secretary of Defense determines that a proposed community infrastructure project is advantageous for reasons related to national security, the Secretary—
+
+    (i) shall not penalize a State or local government for offering to make a contribution of 30 percent or less of the funding for the community infrastructure project; and
+
+    (ii) may reduce the requirement for a State or local government contribution to 30 percent or less or waive the cost-sharing requirement entirely.
 
 (3) Amounts appropriated or otherwise made available for assistance under paragraph (1) may remain available until expended.
 
-(4) The authority under this subsection shall expire upon the expiration of the 10-year period which begins on the date of the enactment of the National Defense Authorization Act for Fiscal Year 2019.
+(4) The authority under this subsection shall expire on September 30, 2028.
 
 **(e) Definitions.—** In this section:
 
@@ -371,9 +468,29 @@ A prior section 2390, added Pub. L. 95–79, title VIII, § 815(a), July 30, 197
 
 (3) The terms “community adjustment” and “economic diversification” include the development of feasibility studies and business plans for market diversification within a community adversely affected by an action described in clause (A), (B), (C), or (E) of subsection (b)(1) by adversely affected businesses and labor organizations located in the community.
 
-(4) The term “community infrastructure” means any transportation project; school, hospital, police, fire, emergency response, or other community support facility; or water, waste-water, telecommunications, electric, gas, or other utility infrastructure project that is located off of a military installation and owned by a State or local government.
+(4)
 
-(5) The term “rural area” means a city, town, or unincorporated area that has a population of not more than 50,000 inhabitants.
+  (A) The term “community infrastructure” means a project or facility described in subparagraph (B) that—
+
+    (i) is located off of a military installation; and
+
+    (ii) is—
+
+      (I) owned by a State or local government; or
+
+      (II) a not-for-profit, member-owned utility service.
+
+  (B) A project or facility described in this subparagraph is any of the following:
+
+    (i) Any transportation project.
+
+    (ii) A school, hospital, police, fire, emergency response, or other community support facility.
+
+    (iii) A water, waste-water, telecommunications, electric, gas, or other utility infrastructure project.
+
+  (C) For the purposes of determining whether proposed community infrastructure will enhance quality of life, the Secretary of Defense shall consider the impact of the community infrastructure on alleviating installation commuter workforce issues and the benefit of schools or other local infrastructure located off of a military installation that will support members of the armed forces and their dependents residing in the community.
+
+(5) The term “rural area” means a city, town, or unincorporated area that has a population of not more than 100,000 inhabitants.
 
 **(f) Assistance Subject to Appropriations.—** The authority of the Secretary of Defense to make grants under this section in any fiscal year is subject to the availability of appropriations for that purpose.
 
@@ -384,9 +501,21 @@ The National Environmental Policy Act of 1969, referred to in subsec. (a), is Pu
 
 Executive Order 12788, referred to in subsec. (c), is set out below.
 
-The date of the enactment of the National Defense Authorization Act for Fiscal Year 2019, referred to in subsec. (d)(4), is the date of enactment of Pub. L. 115–232, which was approved Aug. 13, 2018.
+The amendment made by section 3002 of the Military Construction Authorization Act for Fiscal Year 2002, referred to in subsec. (d)(1)(B)(i), is the amendment made by section 3002 of title XXX of div. B of Pub. L. 107–107, Dec. 28, 2001, 115 Stat. 1344, which amended the Defense Base Closure and Realignment Act of 1990 (Pub. L. 101–510, div. B, title XXIX, part A [§ 2901 et seq.], Nov. 5, 1990, 104 Stat. 1808, which is set out as a note under [section 2687 of this title](./chapter-159-real-property-related-personal-property-and-lease-of-non-excess-property.md#section-2687)) by adding section 2912 of such Act.
 
 #### Amendments
+2021—Subsec. (d)(1). Pub. L. 116–283, § 2882(a), designated existing provisions as subpar. (A), struck out “, if the Secretary determines that such assistance will enhance the military value, resilience, or military family quality of life at such military installation” after “supportive of a military installation”, and added subpar. (B).
+
+Subsec. (d)(2). Pub. L. 116–283, § 2882(b), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “The Secretary shall establish criteria for the selection of community infrastructure projects to receive assistance under paragraph (1). The criteria shall include a requirement that the State or local government agree to contribute not less than 30 percent of the funding for the community infrastructure project, unless the community infrastructure project is located in a rural area, or for reasons related to national security, in which case the Secretary may waive the requirement for a State or local government contribution.”
+
+Subsec. (d)(4). Pub. L. 116–283, § 2882(c), substituted “on September 30, 2028” for “upon the expiration of the 10-year period which begins on the date of the enactment of the National Defense Authorization Act for Fiscal Year 2019”.
+
+Subsec. (e)(4)(C). Pub. L. 116–283, § 2882(d), added subpar. (C).
+
+Subsec. (e)(5). Pub. L. 116–283, § 2882(e), substituted “100,000 inhabitants” for “50,000 inhabitants”.
+
+2019—Subsec. (e)(4). Pub. L. 116–92 amended par. (4) generally. Prior to amendment, text read as follows: “The term ‘community infrastructure’ means any transportation project; school, hospital, police, fire, emergency response, or other community support facility; or water, waste-water, telecommunications, electric, gas, or other utility infrastructure project that is located off of a military installation and owned by a State or local government.”
+
 2018—Subsec. (b)(1). Pub. L. 115–232, § 2805(f), substituted “, (E) by threats to military installation resilience, or (F) by the closure” for “, or (E) by the closure”, “(A), (B), (C), or (F)” for “(A), (B), (C), or (E)”, and “action described in clause (D) or (E), if the Secretary determines that either the encroachment of the civilian community or threats to military installation resilience” for “action described in clause (D), if the Secretary determines that the encroachment of the civilian community”.
 
 Subsecs. (d), (e). Pub. L. 115–232, § 2861(1), (2), added subsec. (d) and redesignated former subsec. (d) as (e). Former subsec. (e) redesignated (f).
@@ -663,6 +792,12 @@ Sec. 7. Construction. (a) Nothing in this order shall be construed as subjecting
 
 ### Statutory Notes
 
+#### Transfer of Section
+Pub. L. 116–283, div. A, title XVIII, §§ 1801(d), 1862(b), Jan. 1, 2021, 134 Stat. 4151, 4277, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, this section is transferred to chapter 363 of this title, as amended by section 1862(a) of Pub. L. 116–283, inserted after the table of sections at the beginning of such chapter, and redesignated as [section 4653 of this title](./chapter-363-prohibition-and-penalties.md#section-4653). See Effective Date of 2021 Amendment note below.
+
+#### Effective Date of 2021 Amendment
+Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
+
 #### Contracts Made by Defense Logistics Agency; Payments of Price Differentials To Relieve Economic Dislocations; Test Program; Interim Reports
 Pub. L. 97–252, title XI, § 1109, Sept. 8, 1982, 96 Stat. 746, as amended by Pub. L. 98–94, title XII, § 1205, Sept. 24, 1983, 97 Stat. 683; Pub. L. 98–525, title XII, § 1254, Oct. 19, 1984, 98 Stat. 2611, authorized the Secretary of Defense to conduct a test program during fiscal years 1983, 1984, and 1985 to test the effect of exempting certain contracts of the Department of Defense from the provisions of this section and paying a price differential under such contracts for the purpose of relieving economic dislocations, provided that the Secretary could exempt any contract (other than a contract for the purchase of fuel) made by the Defense Logistics Agency during fiscal years 1983, 1984, and 1985 if the contract was to be awarded to an individual or firm located in a Labor Surplus Area, and directed the President to submit a report to Congress not later than Apr. 15, 1983, Apr. 15, 1984, and Apr. 15, 1985, on the implementation and results to that date of the program. Similar provisions were contained in Pub. L. 97–86, title IX, § 913(b), (c), Dec. 1, 1981, 95 Stat. 1124.
 
@@ -687,12 +822,12 @@ Pub. L. 97–252, title XI, § 1109, Sept. 8, 1982, 96 Stat. 746, as amended by 
 
 (2) The term “suspend” means to disqualify, pursuant to established administrative procedures, from Government contracting and subcontracting for a temporary period of time because a concern or individual is suspected of engaging in criminal, fraudulent, or seriously improper conduct.
 
-**(d)** The Secretary of Defense shall prescribe in regulations a requirement that each contractor under contract with the Department of Defense shall require each contractor to whom it awards a contract (in this section referred to as a subcontractor) to disclose to the contractor whether the subcontractor is or is not, as of the time of the award of the subcontract, debarred or suspended by the Federal Government from Government contracting or subcontracting. The requirement shall apply to any subcontractor whose subcontract is in an amount greater than the simplified acquisition threshold (as defined in [section 134 of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section134&num=0&edition=prelim)). The requirement shall not apply in the case of a subcontract for the acquisition of commercial items (as defined in [section 103 of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section103&num=0&edition=prelim)).
+**(d)** The Secretary of Defense shall prescribe in regulations a requirement that each contractor under contract with the Department of Defense shall require each contractor to whom it awards a contract (in this section referred to as a subcontractor) to disclose to the contractor whether the subcontractor is or is not, as of the time of the award of the subcontract, debarred or suspended by the Federal Government from Government contracting or subcontracting. The requirement shall apply to any subcontractor whose subcontract is in an amount greater than the simplified acquisition threshold (as defined in [section 134 of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section134&num=0&edition=prelim)). The requirement shall not apply in the case of a subcontract for the acquisition of commercial products or commercial services (as defined in sections 103 and 103a, respectively, of title 41).
 
 ### Statutory Notes
 
-#### Amendment of Subsection (d)
-Pub. L. 115–232, div. A, title VIII, § 836(e)(3), (h), Aug. 13, 2018, 132 Stat. 1869, 1874, provided that, effective Jan. 1, 2020, subject to a savings provision, subsection (d) of this section is amended by striking “commercial items (as defined in [section 103 of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section103&num=0&edition=prelim))” and inserting “commercial products or commercial services (as defined in sections 103 and 103a, respectively, of title 41)”. See 2018 Amendment note below.
+#### Transfer of Section
+Pub. L. 116–283, div. A, title XVIII, §§ 1801(d), 1862(b), Jan. 1, 2021, 134 Stat. 4151, 4277, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, this section is transferred to chapter 363 of this title, as amended by subsection 1862(a) of Pub. L. 116–283, inserted after the table of sections at the beginning of such chapter, and redesignated as [section 4654 of this title](./chapter-363-prohibition-and-penalties.md#section-4654). See Effective Date of 2021 Amendment note below.
 
 #### Amendments
 2018—Subsec. (d). Pub. L. 115–232 substituted “commercial products or commercial services (as defined in sections 103 and 103a, respectively, of title 41)” for “commercial items (as defined in [section 103 of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section103&num=0&edition=prelim))”.
@@ -708,6 +843,9 @@ Pub. L. 115–232, div. A, title VIII, § 836(e)(3), (h), Aug. 13, 2018, 132 Sta
 1990—Subsec. (d). Pub. L. 101–510 added subsec. (d).
 
 1987—Subsec. (c). Pub. L. 100–180 inserted “The term” after each par. designation and revised first word in quotes in each par. to make initial letter of such word lowercase.
+
+#### Effective Date of 2021 Amendment
+Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
 
 #### Effective Date of 2018 Amendment
 Amendment by Pub. L. 115–232 effective Jan. 1, 2020, subject to a savings provision, see section 836(h) of Pub. L. 115–232, set out as an Effective Date of 2018 Amendment; Savings Provision note under [section 453b of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section453b&num=0&edition=prelim), Domestic Security.
@@ -736,6 +874,9 @@ Funds appropriated to the Department of Defense for the procurement of technical
 
 ### Statutory Notes
 
+#### Transfer of Section
+Pub. L. 116–283, div. A, title XVIII, §§ 1801(d), 1809(c), Jan. 1, 2021, 134 Stat. 4151, 4161, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, this section is transferred to chapter 207 of this title, as amended by subsection 1809(a) of Pub. L. 116–283, inserted after [section 3131 of this title](./chapter-207-budgeting-and-appropriations.md#section-3131), as transferred and redesignated by subsection 1809(b) of Pub. L. 116–283, and redesignated as [section 3132 of this title](./chapter-207-budgeting-and-appropriations.md#section-3132). See Effective Date of 2021 Amendment note below.
+
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
 | 1982 Act (Pub. L. 97–258) |  |  |
@@ -756,6 +897,9 @@ Another section 2395 was renumbered [section 2396 of this title](./chapter-141-m
 
 #### Amendments
 1982—Pub. L. 97–295 struck out “and the construction of military public works” after “supplies”.
+
+#### Effective Date of 2021 Amendment
+Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
 
 
 <a id="section-2396"></a>
@@ -872,7 +1016,7 @@ For effective date and applicability of repeal, see section 4401 of Pub. L. 104�
 
   (B) additional information on the operational capabilities of the items or components that the Director considers appropriate based on the testing conducted.
 
-(3) The Director shall submit each report under paragraph (2) to the Secretary of Defense, the Under Secretary of Defense for Acquisition, Technology, and Logistics, and the congressional defense committees. Each such report shall be submitted to those committees in precisely the same form and with precisely the same content as the report originally was submitted to the Secretary and Under Secretary and shall be accompanied by such comments as the Secretary may wish to make on the report.
+(3) The Director shall submit each report under paragraph (2) to the Secretary of Defense, the Under Secretary of Defense for Acquisition and Sustainment, the Under Secretary of Defense for Research and Engineering, and the congressional defense committees. Each such report shall be submitted to those committees in precisely the same form and with precisely the same content as the report originally was submitted to the Secretary and Under Secretary and shall be accompanied by such comments as the Secretary may wish to make on the report.
 
 (4) A final decision within the Department of Defense to proceed with a major defense acquisition program beyond low-rate initial production may not be made until the Director has submitted to the Secretary of Defense the report with respect to that program under paragraph (2) and the congressional defense committees have received that report.
 
@@ -914,10 +1058,15 @@ For effective date and applicability of repeal, see section 4401 of Pub. L. 104�
 
 ### Statutory Notes
 
+#### Transfer of Section
+Pub. L. 116–283, div. A, title XVIII, §§ 1801(d), 1845(b), Jan. 1, 2021, 134 Stat. 4151, 4247, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, this section is transferred to chapter 309 of this title, as amended by section 1845(a) of Pub. L. 116–283, inserted after the table of sections, and redesignated as [section 4171 of this title](./chapter-309-test-and-evaluation.md#section-4171). See Effective Date of 2021 Amendment note below.
+
 #### Prior Provisions
 A prior section 2399, added Pub. L. 97–295, § 1(29)(A), Oct. 12, 1982, 96 Stat. 1293, which related to limitation on availability of appropriations to reimburse a contractor for the cost of commercial insurance, was repealed by Pub. L. 100–370, § 1(f)(2)(B), July 19, 1988, 102 Stat. 846, and was restated in [section 2324(e)(1)(L) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2324/e/1/L&num=0&edition=prelim) by section 1(f)(2)(A) of Pub. L. 100–370.
 
 #### Amendments
+2019—Subsec. (b)(3). Pub. L. 116–92 substituted “Under Secretary of Defense for Acquisition and Sustainment, the Under Secretary of Defense for Research and Engineering,” for “Under Secretary of Defense for Acquisition, Technology, and Logistics,”.
+
 2017—Subsec. (a)(1). Pub. L. 115–91 substituted “, a covered designated major subprogram, or an element of the ballistic missile defense system” for “or a covered designated major subprogram” and “program, subprogram, or element” for “program or subprogram”.
 
 2011—Subsec. (a). Pub. L. 111–383 amended subsec. (a) generally. Prior to amendment, text read as follows:
@@ -960,6 +1109,9 @@ Subsec. (h)(1). Pub. L. 103–337, § 1070(a)(11)(C), substituted “139(a)(2)(A
 
 1992—Subsec. (e)(3). Pub. L. 102–484 designated existing provisions as subpar. (A) and added subpar. (B).
 
+#### Effective Date of 2021 Amendment
+Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
+
 #### Termination of Reporting Requirements
 For termination, effective Dec. 31, 2021, of provisions in subsec. (g) of this section requiring submittal of annual report to Congress, see section 1061 of Pub. L. 114–328, set out as a note under [section 111 of this title](./chapter-002-department-of-defense.md#section-111).
 
@@ -1000,6 +1152,9 @@ Pub. L. 101–189, div. A, title VIII, § 801, Nov. 29, 1989, 103 Stat. 1483, wh
 
 ### Statutory Notes
 
+#### Transfer of Section
+Pub. L. 116–283, div. A, title XVIII, §§ 1801(d), 1847(c)(1)(A), Jan. 1, 2021, 134 Stat. 4151, 4254, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, this section is transferred to chapter 322 of this title, as added by section 1847(a) of Pub. L. 116–283, inserted after the table of sections at the beginning of subchapter II, and redesignated as [section 4231 of this title](./chapter-322-major-systems-and-major-defense-acquisition-programs-generally.md#section-4231). See Effective Date of 2021 Amendment note below.
+
 #### Prior Provisions
 A prior section 2400 was renumbered [section 2534 of this title](./chapter-148-national-defense-technology-and-industrial-base-defense-reinvestment-and-defense-conversion.md#section-2534).
 
@@ -1025,6 +1180,9 @@ Subsec. (c). Pub. L. 104–106, § 1062(d), struck out “(1)” before “With 
 Subsec. (a)(4). Pub. L. 103–355, § 3015(2), (3), added par. (4) and redesignated former par. (4) as (5).
 
 Subsec. (a)(5). Pub. L. 103–355, § 3015(2), redesignated par. (4) as (5) and inserted after first sentence “If the quantity exceeds 10 percent of the total number of articles to be produced, as determined at the milestone II decision with respect to that system, the Secretary shall include in the statement the reasons for such quantity.”
+
+#### Effective Date of 2021 Amendment
+Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
 
 #### Effective Date of 1996 Amendment
 For effective date and applicability of amendment by section 4321(b)(13) of Pub. L. 104–106, see section 4401 of Pub. L. 104–106, set out as a note under [section 2302 of this title](./chapter-137-procurement-generally.md#section-2302).
@@ -1120,7 +1278,7 @@ For effective date and applicability of amendment by section 4321(b)(13) of Pub.
 
 (1) Whenever a request is submitted to Congress for the authorization of the long-term lease or charter of aircraft, naval vessels, or combat vehicles or for the authorization of a lease or charter of aircraft, naval vessels, or combat vehicles which provides for a substantial termination liability on the part of the United States, the Secretary of Defense shall submit with that request an analysis of the cost to the United States (including lost tax revenues) of any such lease or charter arrangement compared with the cost to the United States of direct procurement of the aircraft, naval vessels, or combat vehicles by the United States.
 
-(2) Any such analysis shall be reviewed and evaluated by the Director of the Office of Management and Budget and the Secretary of the Treasury within 30 days after the date on which the request and analysis are submitted to Congress. The Director and Secretary shall conduct such review and evaluation on the basis of the guidelines issued pursuant to subsection (f) and shall report to Congress in writing on the results of their review and evaluation at the earliest practicable date, but in no event more than 45 days after the date on which the request and analysis are submitted to the Congress.
+(2) Any such analysis shall be reviewed and evaluated by the Director of the Office of Management and Budget and the Secretary of the Treasury within 30 days after the date on which the request and analysis are submitted to Congress. The Director and Secretary shall conduct such review and evaluation on the basis of the guidelines issued pursuant to subsection (g) and shall report to Congress in writing on the results of their review and evaluation at the earliest practicable date, but in no event more than 45 days after the date on which the request and analysis are submitted to the Congress.
 
 (3) Whenever a request is submitted to Congress for the authorization of funds for the Department of Defense for the long-term lease or charter of aircraft, naval vessels, or combat vehicles authorized under this section, the Secretary of Defense—
 
@@ -1154,10 +1312,49 @@ For effective date and applicability of amendment by section 4321(b)(13) of Pub.
 
 ### Statutory Notes
 
+#### Amendment of Section
+Pub. L. 116–283, div. A, title XVIII, §§ 1801(d), 1825(b)–(e), (f)(1), (g)(1), (h), (i), Jan. 1, 2021, 134 Stat. 4151, 4206–4208, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, this section is amended as follows:
+
+(1) by transferring subsections (a) and (b) to [section 3671 of this title](./chapter-257-contracts-for-long-term-lease-or-charter-of-vessels-aircraft-and-combat-vehicles.md#section-3671);
+
+(2) by transferring subsection (c)(1) to [section 3672(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section3672/a&num=0&edition=prelim);
+
+(3) by transferring subsection (c)(2) to [section 3673 of this title](./chapter-257-contracts-for-long-term-lease-or-charter-of-vessels-aircraft-and-combat-vehicles.md#section-3673);
+
+(4) by transferring subsection (d) to [section 3674 of this title](./chapter-257-contracts-for-long-term-lease-or-charter-of-vessels-aircraft-and-combat-vehicles.md#section-3674);
+
+(5) by transferring subsection (e) to [section 3672(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section3672/b&num=0&edition=prelim);
+
+(6) by transferring subsection (f) to [section 3675 of this title](./chapter-257-contracts-for-long-term-lease-or-charter-of-vessels-aircraft-and-combat-vehicles.md#section-3675);
+
+(7) by transferring subsection (g) to [section 3676 of this title](./chapter-257-contracts-for-long-term-lease-or-charter-of-vessels-aircraft-and-combat-vehicles.md#section-3676); and
+
+(8) by transferring subsection (h) to [section 3677 of this title](./chapter-257-contracts-for-long-term-lease-or-charter-of-vessels-aircraft-and-combat-vehicles.md#section-3677).
+
+See 2021 Amendment notes below.
+
 #### References in Text
 The Internal Revenue Code of 1986, referred to in subsecs. (c)(2)(A) and (d)(1)(B), is classified generally to Title 26, Internal Revenue Code. Section 168 of the Internal Revenue Code of 1986 is classified to [section 168 of Title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section168&num=0&edition=prelim).
 
 #### Amendments
+2021—Subsecs. (a), (b). Pub. L. 116–283, § 1825(b), transferred subsecs. (a) and (b) to [section 3671 of this title](./chapter-257-contracts-for-long-term-lease-or-charter-of-vessels-aircraft-and-combat-vehicles.md#section-3671).
+
+Subsec. (c)(1). Pub. L. 116–283, § 1825(d), transferred subsec. (c)(1) to [section 3672(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section3672/a&num=0&edition=prelim).
+
+Subsec. (c)(2). Pub. L. 116–283, § 1825(c), transferred subsec. (c)(2) to [section 3673 of this title](./chapter-257-contracts-for-long-term-lease-or-charter-of-vessels-aircraft-and-combat-vehicles.md#section-3673).
+
+Subsec. (d). Pub. L. 116–283, § 1825(f)(1), transferred subsec. (d) to [section 3674 of this title](./chapter-257-contracts-for-long-term-lease-or-charter-of-vessels-aircraft-and-combat-vehicles.md#section-3674).
+
+Subsec. (e). Pub. L. 116–283, § 1825(e), transferred subsec. (e) to [section 3672(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section3672/b&num=0&edition=prelim).
+
+Subsec. (f). Pub. L. 116–283, § 1825(g)(1), transferred subsec. (f) to [section 3675 of this title](./chapter-257-contracts-for-long-term-lease-or-charter-of-vessels-aircraft-and-combat-vehicles.md#section-3675).
+
+Subsec. (g). Pub. L. 116–283, § 1825(h), transferred subsec. (g) to [section 3676 of this title](./chapter-257-contracts-for-long-term-lease-or-charter-of-vessels-aircraft-and-combat-vehicles.md#section-3676).
+
+Subsec. (h). Pub. L. 116–283, § 1825(i), transferred subsec. (h) to [section 3677 of this title](./chapter-257-contracts-for-long-term-lease-or-charter-of-vessels-aircraft-and-combat-vehicles.md#section-3677).
+
+2019—Subsec. (e)(2). Pub. L. 116–92 substituted “subsection (g)” for “subsection (f)”.
+
 2013—Subsecs. (b)(1)(B), (h)(1). Pub. L. 112–239, § 1076(f)(26), substituted “the congressional defense committees” for “the Committee on Armed Services and the Committee on Appropriations of the Senate and the Committee on Armed Services and the Committee on Appropriations of the House of Representatives”.
 
 Subsec. (h)(2). Pub. L. 112–239, § 821, substituted “60 days” for “30 days of continuous session of Congress”.
@@ -1208,6 +1405,9 @@ Subsec. (c)(2). Pub. L. 104–106, § 1503(a)(21), struck out “pursuant to an 
 
 Subsec. (f). Pub. L. 98–525, § 1232(a)(2), struck out at end “Such guidelines shall be issued not later than 90 days after the date of enactment of this section [Sept. 24, 1983].”
 
+#### Effective Date of 2021 Amendment
+Amendment by Pub. L. 116–283 effective Jan. 1, 2021, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
+
 #### Effective Date
 Pub. L. 98–94, title XII, § 1202(a)(3), Sept. 24, 1983, 97 Stat. 681, provided that: “[Section 2401 of title 10](./chapter-141-miscellaneous-procurement-provisions.md#section-2401), United States Code, as added by paragraph (1), shall not apply in the case of any lease or charter agreement entered into by the Department of Defense before December 1, 1983.”
 
@@ -1238,15 +1438,31 @@ Pub. L. 98–94, title XII, § 1202(b), Sept. 24, 1983, 97 Stat. 681, as amended
 
 ### Statutory Notes
 
+#### Amendment of Section
+Pub. L. 116–283, div. A, title XVIII, §§ 1801(d), 1825(j), (k), Jan. 1, 2021, 134 Stat. 4151, 4208, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, this section is amended as follows:
+
+(1) by transferring subsection (a) to [section 3681 of this title](./chapter-258-other-types-of-contracts-used-for-procurements-for-particular-purposes.md#section-3681); and
+
+(2) by transferring subsection (b) to [section 3678 of this title](./chapter-257-contracts-for-long-term-lease-or-charter-of-vessels-aircraft-and-combat-vehicles.md#section-3678).
+
+See 2021 Amendment notes below.
+
 #### Prior Provisions
 Provisions similar to those in subsec. (b) were contained in Pub. L. 101–165, title IX, § 9081, Nov. 21, 1989, 103 Stat. 1147, which was set out as a note under [section 2401 of this title](./chapter-141-miscellaneous-procurement-provisions.md#section-2401), prior to repeal by Pub. L. 103–355, § 3065(b).
 
 A prior section 2401a was renumbered [section 2350f of this title](./chapter-138-cooperative-agreements-with-nato-allies-and-other-countries.md#section-2350f).
 
 #### Amendments
+2021—Subsec. (a). Pub. L. 116–283, § 1825(k), transferred subsec. (a) to [section 3681 of this title](./chapter-258-other-types-of-contracts-used-for-procurements-for-particular-purposes.md#section-3681).
+
+Subsec. (b). Pub. L. 116–283, § 1825(j), transferred subsec. (b) to [section 3678 of this title](./chapter-257-contracts-for-long-term-lease-or-charter-of-vessels-aircraft-and-combat-vehicles.md#section-3678).
+
 1997—Subsec. (a). Pub. L. 105–85 substituted “such leasing” for “leasing of such vehicles”.
 
 1996—Pub. L. 104–106 substituted “Lease of vehicles, equipment, vessels, and aircraft” for “Lease of vessels, aircraft, and vehicles” as section catchline, designated existing text as subsec. (b), inserted subsec. (b) heading, and added subsec. (a).
+
+#### Effective Date of 2021 Amendment
+Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
 
 #### Leases for Tanker Aircraft Under Multiyear Aircraft-Lease Pilot Program
 Pub. L. 107–314, div. A, title I, § 133, Dec. 2, 2002, 116 Stat. 2477, provided that: “The Secretary of the Air Force may not enter into a lease for the acquisition of tanker aircraft for the Air Force under section 8159 of the Department of Defense Appropriations Act, 2002 (division A of Public Law 107–117; 115 Stat. 2284; [10 U.S.C. 2401a](./chapter-141-miscellaneous-procurement-provisions.md#section-2401a) note) until— “(1) the Secretary submits the report specified in subsection (c)(6) of such section; and “(2) either—“(A) authorization and appropriation of funds necessary to enter into such lease are provided by law; or “(B) a new start reprogramming notification for the funds necessary to enter into such lease has been submitted in accordance with established procedures.”
@@ -1281,20 +1497,14 @@ Pub. L. 104–106, div. A, title VIII, § 807(c), Feb. 10, 1996, 110 Stat. 392, 
 
 **(d)**
 
-(1) An agreement between the contractor in a contract for the acquisition of commercial items and a subcontractor under such contract that restricts sales by such subcontractor directly to persons other than the contractor may not be considered to unreasonably restrict sales by that subcontractor to the United States in violation of the provision included in such contract pursuant to subsection (a) if the agreement does not result in the United States being treated differently with regard to the restriction than any other prospective purchaser of such commercial items from that subcontractor.
+(1) An agreement between the contractor in a contract for the acquisition of commercial products or commercial services and a subcontractor under such contract that restricts sales by such subcontractor directly to persons other than the contractor may not be considered to unreasonably restrict sales by that subcontractor to the United States in violation of the provision included in such contract pursuant to subsection (a) if the agreement does not result in the United States being treated differently with regard to the restriction than any other prospective purchaser of such commercial products or commercial services from that subcontractor.
 
-(2) In paragraph (1), the term “commercial item” has the meaning given such term in [section 103 of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section103&num=0&edition=prelim).
+(2) In paragraph (1), the terms “commercial product” and “commercial service” have the meanings given those terms in sections 103 and 103a, respectively, of title 41.
 
 ### Statutory Notes
 
-#### Amendment of Subsection (d)
-Pub. L. 115–232, div. A, title VIII, § 836(e)(4), (h), Aug. 13, 2018, 132 Stat. 1869, 1874, provided that, effective Jan. 1, 2020, subject to a savings provision, subsection (d) of this section is amended as follows:
-
-(1) in paragraph (1), by striking “commercial items” both places it appears and inserting “commercial products or commercial services”; and
-
-(2) in paragraph (2), by striking “the term” and all that follows and inserting “the terms ‘commercial product’ and ‘commercial service’ have the meanings given those terms in sections 103 and 103a, respectively, of title 41.”
-
-See 2018 Amendment notes below.
+#### Transfer of Section
+Pub. L. 116–283, div. A, title XVIII, §§ 1801(d), 1862(b), Jan. 1, 2021, 134 Stat. 4151, 4277, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, this section is transferred to chapter 363 of this title, as amended by section 1862(a) of Pub. L. 116–283, inserted after the table of sections at the beginning, and redesignated as [section 4655 of this title](./chapter-363-prohibition-and-penalties.md#section-4655). See Effective Date of 2021 Amendment note below.
 
 #### Amendments
 2018—Subsec. (d)(1). Pub. L. 115–232, § 836(e)(4)(A), substituted “commercial products or commercial services” for “commercial items” in two places.
@@ -1306,6 +1516,9 @@ Subsec. (d)(2). Pub. L. 115–232, § 836(e)(4)(B), substituted “the terms ‘
 Subsec. (d)(2). Pub. L. 111–350, § 5(b)(25)(B), substituted “[section 103 of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section103&num=0&edition=prelim)” for “section 4(12) of the Office of Federal Procurement Policy Act ([41 U.S.C. 403(12)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section403/12&num=0&edition=prelim))”.
 
 1994—Subsecs. (c), (d). Pub. L. 103–355 added subsecs. (c) and (d).
+
+#### Effective Date of 2021 Amendment
+Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
 
 #### Effective Date of 2018 Amendment
 Amendment by Pub. L. 115–232 effective Jan. 1, 2020, subject to a savings provision, see section 836(h) of Pub. L. 115–232, set out as an Effective Date of 2018 Amendment; Savings Provision note under [section 453b of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section453b&num=0&edition=prelim), Domestic Security.
@@ -1392,7 +1605,7 @@ Pub. L. 96–107, title I, § 104, Nov. 9, 1979, 93 Stat. 804.
 
   (A) A contract referred to in subparagraph (A), (B), (C), or (D) of such paragraph that is not greater than the simplified acquisition threshold (as defined in [section 134 of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section134&num=0&edition=prelim)).
 
-  (B) A contract referred to in such subparagraph that is for the acquisition of commercial items (as defined in [section 103 of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section103&num=0&edition=prelim)).
+  (B) A contract referred to in such subparagraph that is for the acquisition of commercial products or commercial services (as defined in sections 103 and 103a, respectively, of title 41).
 
   (C) A subcontract referred to in such subparagraph that is under a contract described in subparagraph (A) or (B).
 
@@ -1410,8 +1623,8 @@ Pub. L. 96–107, title I, § 104, Nov. 9, 1979, 93 Stat. 804.
 
 ### Statutory Notes
 
-#### Amendment of Subsection (a)(4)(B)
-Pub. L. 115–232, div. A, title VIII, § 836(e)(5), (h), Aug. 13, 2018, 132 Stat. 1870, 1874, provided that, effective Jan. 1, 2020, subject to a savings provision, subsection (a)(4)(B) of this section is amended by striking “commercial items (as defined in [section 103 of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section103&num=0&edition=prelim))” and inserting “commercial products or commercial services (as defined in sections 103 and 103a, respectively, of title 41)”. See 2018 Amendment note below.
+#### Transfer of Section
+Pub. L. 116–283, div. A, title XVIII, §§ 1801(d), 1862(b), Jan. 1, 2021, 134 Stat. 4151, 4277, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, this section is transferred to chapter 363 of this title, as amended by section 1862(a) of Pub. L. 116–283, inserted after the table of sections at the beginning, and redesignated as [section 4656 of this title](./chapter-363-prohibition-and-penalties.md#section-4656). See Effective Date of 2021 Amendment note below.
 
 #### Codification
 Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
@@ -1448,6 +1661,9 @@ Subsec. (a)(1)(D). Pub. L. 101–510, § 812(a)(4), inserted before period at en
 Subsec. (b). Pub. L. 101–510, § 812(b), inserted “or subcontractor” after “contractor” wherever appearing.
 
 1988—Subsec. (a). Pub. L. 100–456 amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “A person who is convicted of fraud or any other felony arising out of a contract with the Department of Defense shall be prohibited from working in a management or supervisory capacity on any defense contract, or serving on the board of directors of any defense contractor, for a period, as determined by the Secretary of Defense, of not less than one year from the date of the conviction.”
+
+#### Effective Date of 2021 Amendment
+Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
 
 #### Effective Date of 2018 Amendment
 Amendment by Pub. L. 115–232 effective Jan. 1, 2020, subject to a savings provision, see section 836(h) of Pub. L. 115–232, set out as an Effective Date of 2018 Amendment; Savings Provision note under [section 453b of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section453b&num=0&edition=prelim), Domestic Security.
@@ -1577,6 +1793,9 @@ Pub. L. 102–484, div. A, title VIII, § 815(b), Oct. 23, 1992, 106 Stat. 2454,
 
 ### Statutory Notes
 
+#### Transfer of Section
+Pub. L. 116–283, div. A, title XVIII, §§ 1801(d), 1863(b), Jan. 1, 2021, 134 Stat. 4151, 4278, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, this section is transferred to chapter 365 of this title, as amended by section 1863(a) of Pub. L. 116–283, inserted after the table of sections, and redesignated as [section 4701 of this title](./chapter-365-contractor-workforce.md#section-4701). See Effective Date of 2021 Amendment note below.
+
 #### References in Text
 The Inspector General Act of 1978, referred to in subsec. (g)(5), is Pub. L. 95–452, Oct. 12, 1978, 92 Stat. 1101, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
@@ -1648,6 +1867,9 @@ Subsec. (e)(5). Pub. L. 110–181, § 846(d)(2), inserted “and any Inspector G
 
 1991—Subsec. (d). Pub. L. 102–25 added subsec. (d).
 
+#### Effective Date of 2021 Amendment
+Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
+
 #### Effective Date of 2013 Amendment
 For effective date and applicability of amendments by Pub. L. 112–239, see section 827(i) of Pub. L. 112–239, set out as a note under [section 2324 of this title](./chapter-137-procurement-generally.md#section-2324).
 
@@ -1668,14 +1890,41 @@ Pub. L. 110–417, [div. A], title VIII, § 842, Oct. 14, 2008, 122 Stat. 4539, 
 
 
 <a id="section-2409a"></a>
-## § 2409a. Repealed. Pub. L. 103–355, title VI, § 6005(b)(1), Oct. 13, 1994, 108 Stat. 3365]
+## § 2409a. Incentives and consideration for qualified training programs
+**(a) Incentives.—** The Secretary of Defense shall develop workforce development investment incentives for a contractor that implements a qualified training program to develop the workforce of the contractor in a manner consistent with the needs of the Department of Defense.
+
+**(b) Consideration of Qualified Training Programs.—** The Secretary of Defense shall revise the Department of Defense Supplement to the Federal Acquisition Regulation to require that the system used by the Federal Government to monitor or record contractor past performance includes an analysis of the availability, quality, and effectiveness of a qualified training program of an offeror as part of the past performance rating of such offeror.
+
+**(c) Qualified Training Program Defined.—** The term “qualified training program” means any of the following:
+
+(1) A program eligible to receive funds under the Workforce Innovation and Opportunity Act ([29 U.S.C. 3101](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3101&num=0&edition=prelim) et seq.).
+
+(2) A program eligible to receive funds under the Carl D. Perkins Career and Technical Education Act of 2006 ([20 U.S.C. 2301](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section2301&num=0&edition=prelim) et seq.).
+
+(3) A program registered under the Act of August 16, 1937 (commonly known as the “National Apprenticeship Act”; 50 Stat. 664, chapter 663; [29 U.S.C. 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section50&num=0&edition=prelim) et seq.).
+
+(4) Any other program determined to be a qualified training program for purposes of this section, and that meets the workforce needs of the Department of Defense, as determined by the Secretary of Defense.
 
 ### Statutory Notes
 
-Section, added Pub. L. 101–510, div. A, title VIII, § 837(a)(1), Nov. 5, 1990, 104 Stat. 1616; amended Pub. L. 102–25, title VII, § 701(j)(4), (k)(2), Apr. 6, 1991, 105 Stat. 116, 117, required promulgation of regulations prohibiting defense contractor from discharging or discriminating against employee for disclosing to Government official information concerning contract between contractor and Department of Defense evidencing violation of Federal law or regulation and providing certain complaint and investigation provisions and provided procedures for review and enforcement.
+#### Transfer of Section
+Pub. L. 116–283, div. A, title XVIII, §§ 1801(d), 1863(b), Jan. 1, 2021, 134 Stat. 4151, 4278, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, this section is transferred to chapter 365 of this title, as amended by section 1863(a) of Pub. L. 116–283, inserted after the table of sections, and redesignated as [section 4702 of this title](./chapter-365-contractor-workforce.md#section-4702). See Effective Date of 2021 Amendment note below.
 
-#### Effective Date of Repeal
-For effective date and applicability of repeal, see section 10001 of Pub. L. 103–355, set out as an Effective Date of 1994 Amendment note under [section 2302 of this title](./chapter-137-procurement-generally.md#section-2302).
+#### References in Text
+The Workforce Innovation and Opportunity Act, referred to in subsec. (c)(1), is Pub. L. 113–128, July 22, 2014, 128 Stat. 1425, which enacted chapter 32 (§ 3101 et seq.) of Title 29, Labor, repealed chapter 30 (§ 2801 et seq.) of Title 29 and chapter 73 (§ 9201 et seq.) of Title 20, Education, and made amendments to numerous other sections and notes in the Code. For complete classification of this Act to the Code, see Short Title note set out under [section 3101 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3101&num=0&edition=prelim) and Tables.
+
+The Carl D. Perkins Career and Technical Education Act of 2006, referred to in subsec. (c)(2), is Pub. L. 88–210, Dec. 18, 1963, 77 Stat. 403, as amended generally by Pub. L. 109–270, § 1(b), Aug. 12, 2006, 120 Stat. 683, which is classified generally to chapter 44 (§ 2301 et seq.) of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under [section 2301 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section2301&num=0&edition=prelim) and Tables.
+
+The Act of August 16, 1937, referred to in subsec. (c)(3), is act Aug. 16, 1937, ch. 663, 50 Stat. 664, popularly known as the National Apprenticeship Act, which is classified generally to chapter 4C (§ 50 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under [section 50 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section50&num=0&edition=prelim) and Tables.
+
+#### Prior Provisions
+A prior section 2409a, added Pub. L. 101–510, div. A, title VIII, § 837(a)(1), Nov. 5, 1990, 104 Stat. 1616; amended Pub. L. 102–25, title VII, § 701(j)(4), (k)(2), Apr. 6, 1991, 105 Stat. 116, 117, which required promulgation of regulations prohibiting defense contractor from discharging or discriminating against employee for disclosing to Government official information concerning contract between contractor and Department of Defense evidencing violation of Federal law or regulation and providing certain complaint and investigation provisions and provided procedures for review and enforcement, was repealed by Pub. L. 103–355, title VI, § 6005(b)(1), Oct. 13, 1994, 108 Stat. 3365. For effective date and applicability of repeal, see section 10001 of Pub. L. 103–355, set out as an Effective Date of 1994 Amendment note under [section 2302 of this title](./chapter-137-procurement-generally.md#section-2302).
+
+#### Amendments
+2021—Subsec. (c)(3). Pub. L. 116–283 substituted “50 Stat. 664;” for “Stat. 664,”.
+
+#### Effective Date of 2021 Amendment
+Amendment by section 1863(b) of Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
 
 
 <a id="section-2410"></a>
@@ -1696,6 +1945,9 @@ For effective date and applicability of repeal, see section 10001 of Pub. L. 103
 
 ### Statutory Notes
 
+#### Transfer of Section
+Pub. L. 116–283, div. A, title XVIII, §§ 1801(d), 1836(b), Jan. 1, 2021, 134 Stat. 4151, 4241, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, this section is transferred to chapter 281 of this title, as added by section 1836(a) of Pub. L. 116–283, inserted after the table of sections, and redesignated as [section 3862 of this title](./chapter-281-claims-and-disputes.md#section-3862). See Effective Date of 2021 Amendment note below.
+
 #### References in Text
 Public Law 85–804, referred to in subsecs. (a) and (b), is Pub. L. 85–804, Aug. 28, 1958, 72 Stat. 972, which is classified generally to chapter 29 (§ 1431 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Tables.
 
@@ -1704,6 +1956,9 @@ A prior section, added Pub. L. 100–370, § 1(h)(2), July 19, 1988, 102 Stat. 8
 
 #### Amendments
 2011—Subsec. (c). Pub. L. 111–350 substituted “[section 134 of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section134&num=0&edition=prelim)” for “section 4(11) of the Office of Federal Procurement Policy Act”.
+
+#### Effective Date of 2021 Amendment
+Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
 
 #### Effective Date
 For effective date and applicability of section, see section 10001 of Pub. L. 103–355, set out as an Effective Date of 1994 Amendment note under [section 2302 of this title](./chapter-137-procurement-generally.md#section-2302).
@@ -1725,6 +1980,9 @@ For effective date and applicability of section, see section 10001 of Pub. L. 10
 
 ### Statutory Notes
 
+#### Transfer of Section
+Pub. L. 116–283, div. A, title XVIII, §§ 1801(d), 1809(d), Jan. 1, 2021, 134 Stat. 4151, 4161, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, this section is transferred to chapter 207 of this title, as amended by [section 1809(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1809/a&num=0&edition=prelim), inserted after section 3132, and redesignated as [section 3133 of this title](./chapter-207-budgeting-and-appropriations.md#section-3133). See Effective Date of 2021 Amendment note below.
+
 #### Historical and Revision Notes
 Section is based on Pub. L. 99–190, § 101(b) [title VIII, § 8005(e), (h), (l)], Dec. 19, 1985, 99 Stat. 1185, 1202.
 
@@ -1743,6 +2001,9 @@ Subsec. (a). Pub. L. 108–136, § 1005(a), inserted “(1)” before “The Sec
 
 Par. (4). Pub. L. 102–190, § 342(2), added par. (4).
 
+#### Effective Date of 2021 Amendment
+Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
+
 #### Effective Date of 2003 Amendment
 Pub. L. 108–136, div. A, title X, § 1005(c), Nov. 24, 2003, 117 Stat. 1585, provided that: “The amendments made by this section [amending this section] shall not apply to funds appropriated for a fiscal year before fiscal year 2004.”
 
@@ -1760,12 +2021,12 @@ Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Gu
 
 **(b)** The regulations prescribed pursuant to subsection (a) shall not apply to a contract that is for an amount not greater than the simplified acquisition threshold.
 
-**(c)** The regulations prescribed pursuant to subsection (a) shall not apply to a contract for the purchase of commercial items (as defined in [section 103 of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section103&num=0&edition=prelim)).
+**(c)** The regulations prescribed pursuant to subsection (a) shall not apply to a contract for the purchase of commercial products (as defined in [section 103 of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section103&num=0&edition=prelim)).
 
 ### Statutory Notes
 
-#### Amendment of Subsection (c)
-Pub. L. 115–232, div. A, title VIII, § 836(e)(6), (h), Aug. 13, 2018, 132 Stat. 1870, 1874, provided that, effective Jan. 1, 2020, subject to a savings provision, subsection (c) of this section is amended by striking “commercial items” and inserting “commercial products”. See 2018 Amendment note below.
+#### Transfer of Section
+Pub. L. 116–283, div. A, title XVIII, §§ 1801(d), 1835(c), Jan. 1, 2021, 134 Stat. 4151, 4240, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, this section is transferred to chapter 279 of this title, as added by section 1835(a) of Pub. L. 116–283, inserted after section 3842, and redesignated as [section 3845 of this title](./chapter-279-contractor-audits-and-accounting.md#section-3845). See Effective Date of 2021 Amendment note below.
 
 #### Amendments
 2018—Subsec. (c). Pub. L. 115–232 substituted “commercial products” for “commercial items”.
@@ -1777,6 +2038,9 @@ Pub. L. 115–232, div. A, title VIII, § 836(e)(6), (h), Aug. 13, 2018, 132 Sta
 1994—Subsecs. (a), (b). Pub. L. 103–355, § 4102(h), designated existing provisions as subsec. (a) and added subsec. (b).
 
 Subsec. (c). Pub. L. 103–355, § 8105(i), added subsec. (c).
+
+#### Effective Date of 2021 Amendment
+Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
 
 #### Effective Date of 2018 Amendment
 Amendment by Pub. L. 115–232 effective Jan. 1, 2020, subject to a savings provision, see section 836(h) of Pub. L. 115–232, set out as an Effective Date of 2018 Amendment; Savings Provision note under [section 453b of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section453b&num=0&edition=prelim), Domestic Security.
@@ -1818,6 +2082,9 @@ Another section 2410c was renumbered [section 2410j of this title](./chapter-141
 
 ### Statutory Notes
 
+#### Transfer of Section
+Pub. L. 116–283, div. A, title XVIII, §§ 1801(d), 1838(b), Jan. 1, 2021, 134 Stat. 4151, 4242, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, this section is transferred to chapter 285 of this title, as added by section 1838(a) of Pub. L. 116–283, inserted after the table of sections, and redesignated as [section 3903 of this title](./chapter-287-socioeconomic-programs.md#section-3903). See Effective Date of 2021 Amendment note below.
+
 #### Codification
 Another section 2410d was renumbered [section 2410k of this title](./chapter-141-miscellaneous-procurement-provisions.md#section-2410k).
 
@@ -1839,6 +2106,9 @@ Subsec. (b)(2)(C). Pub. L. 111–350, § 5(b)(29)(C), substituted “[section 85
 Subsec. (b)(3), (4). Pub. L. 103–337, § 804(1)(B), (C), redesignated par. (4) as (3) and struck out former par. (3) which read as follows: “The terms ‘approved commodity’ and ‘approved service’ mean a commodity and a service, respectively, that has been determined by the Committee for Purchase from the Blind and Other Severely Handicapped under section 2 of such Act ([41 U.S.C. 47](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section47&num=0&edition=prelim)) to be suitable for procurement by the Federal Government.”
 
 Subsec. (c). Pub. L. 103–337, § 804(2), substituted “September 30, 1997” for “September 30, 1994”.
+
+#### Effective Date of 2021 Amendment
+Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
 
 #### Effective Date of 1997 Amendment
 Pub. L. 105–85, div. A, title VIII, § 835, Nov. 18, 1997, 111 Stat. 1843, provided that the amendment made by that section is effective as of Sept. 30, 1997.
@@ -1900,12 +2170,18 @@ For effective date and applicability of repeal, see section 10001 of Pub. L. 103
 
 ### Statutory Notes
 
+#### Transfer of Section
+Pub. L. 116–283, div. A, title XVIII, §§ 1801(d), 1862(b), Jan. 1, 2021, 134 Stat. 4151, 4277, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, this section is transferred to chapter 363 of this title, as amended by section 1862(a) of Pub. L. 116–283, inserted after the table of sections at the beginning of such chapter, and redesignated as [section 4658 of this title](./chapter-363-prohibition-and-penalties.md#section-4658). See Effective Date of 2021 Amendment note below.
+
 #### Amendments
 2001—Subsec. (a). Pub. L. 107–107 inserted “, or another inscription with the same meaning,” after “inscription”.
 
 1996—Subsec. (a). Pub. L. 104–106, § 1062(f), struck out at end “If the Secretary determines that the person should not be debarred, the Secretary shall submit to Congress a report on such determination not later than 30 days after the determination is made.”
 
 Subsec. (b). Pub. L. 104–106, § 1503(a)(22), substituted “In” for “For purposes of”.
+
+#### Effective Date of 2021 Amendment
+Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
 
 #### Effective Date of 1992 Amendment
 Pub. L. 102–484, div. A, title VIII, § 834(b), Oct. 23, 1992, 106 Stat. 2461, provided that: “[Section 2410f of title 10](./chapter-141-miscellaneous-procurement-provisions.md#section-2410f), United States Code, as added by subsection (a), shall take effect 90 days after the date of the enactment of this Act [Oct. 23, 1992].”
@@ -1940,7 +2216,7 @@ Pub. L. 103–160, div. A, title VIII, § 849(b), Nov. 30, 1993, 107 Stat. 1725.
 
 **(d) Inapplicability to Certain Contracts.—** This section shall not apply to contracts for any of the following:
 
-(1) Commercial items (as defined in [section 103 of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section103&num=0&edition=prelim)).
+(1) Commercial products or commercial services (as defined in sections 103 and 103a, respectively, of title 41).
 
 (2) Military construction.
 
@@ -1958,8 +2234,8 @@ Pub. L. 103–160, div. A, title VIII, § 849(b), Nov. 30, 1993, 107 Stat. 1725.
 
 ### Statutory Notes
 
-#### Amendment of Subsection (d)(1)
-Pub. L. 115–232, div. A, title VIII, § 836(e)(7), (h), Aug. 13, 2018, 132 Stat. 1870, 1874, provided that, effective Jan. 1, 2020, subject to a savings provision, subsection (d)(1) of this section is amended by striking “Commercial items (as defined in [section 103 of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section103&num=0&edition=prelim))” and inserting “Commercial products or commercial services (as defined in sections 103 and 103a, respectively, of title 41)”. See 2018 Amendment note below.
+#### Transfer of Section
+Pub. L. 116–283, div. A, title XVIII, §§ 1801(d), 1861(b), Jan. 1, 2021, 134 Stat. 4151, 4277, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, this section is transferred to chapter 361 of this title, as amended by section 1861(a) of Pub. L. 116–283, inserted after the table of sections at the beginning of such chapter, and redesignated as [section 4603 of this title](./chapter-361-contract-administration.md#section-4603). See Effective Date of 2021 Amendment note below.
 
 #### Amendments
 2018—Subsec. (d)(1). Pub. L. 115–232 substituted “Commercial products or commercial services (as defined in sections 103 and 103a, respectively, of title 41)” for “Commercial items (as defined in [section 103 of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section103&num=0&edition=prelim))”.
@@ -1967,6 +2243,9 @@ Pub. L. 115–232, div. A, title VIII, § 836(e)(7), (h), Aug. 13, 2018, 132 Sta
 2011—Subsec. (d)(1). Pub. L. 111–350 substituted “[section 103 of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section103&num=0&edition=prelim))” for “section 4(12) of the Office of Federal Procurement Policy Act ([41 U.S.C. 403(12)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section403/12&num=0&edition=prelim)))”.
 
 1996—Subsec. (d)(1). Pub. L. 104–106 inserted “(as defined in section 4(12) of the Office of Federal Procurement Policy Act ([41 U.S.C. 403(12)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section403/12&num=0&edition=prelim)))” before period at end.
+
+#### Effective Date of 2021 Amendment
+Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
 
 #### Effective Date of 2018 Amendment
 Amendment by Pub. L. 115–232 effective Jan. 1, 2020, subject to a savings provision, see section 836(h) of Pub. L. 115–232, set out as an Effective Date of 2018 Amendment; Savings Provision note under [section 453b of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section453b&num=0&edition=prelim), Domestic Security.
@@ -2002,6 +2281,9 @@ Pub. L. 102–484, div. A, title VIII, § 840(b), Oct. 23, 1992, 106 Stat. 2467,
 
 ### Statutory Notes
 
+#### Transfer of Section
+Pub. L. 116–283, div. A, title XVIII, §§ 1801(d), 1862(b), Jan. 1, 2021, 134 Stat. 4151, 4277, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, this section is transferred to chapter 363 of this title, as amended by section 1862(a) of Pub. L. 116–283, inserted after the table of sections at the beginning of such chapter, and redesignated as [section 4659 of this title](./chapter-363-prohibition-and-penalties.md#section-4659). See Effective Date of 2021 Amendment note below.
+
 #### References in Text
 Section 3(5)(A) of the Export Administration Act of 1979 ([50 U.S.C. 4602(5)(A)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4602/5/A&num=0&edition=prelim)), referred to in subsec. (a), was repealed by Pub. L. 115–232, div. A, title XVII, § 1766(a), Aug. 13, 2018, 132 Stat. 2232.
 
@@ -2011,6 +2293,9 @@ Section 3(5)(A) of the Export Administration Act of 1979 ([50 U.S.C. 4602(5)(A)]
 2016—Subsec. (a). Pub. L. 114–328 substituted “([50 U.S.C. 4602(5)(A)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4602/5/A&num=0&edition=prelim))” for “(50 U.S.C. App. 2402(5)(A))”.
 
 2011—Subsec. (b)(1). Pub. L. 111–350 substituted “simplified acquisition threshold (as defined in [section 134 of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section134&num=0&edition=prelim))” for “small purchase threshold (as defined in section 4(11) of the Office of Federal Procurement Policy Act ([41 U.S.C. 403(11)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section403/11&num=0&edition=prelim)))”.
+
+#### Effective Date of 2021 Amendment
+Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
 
 
 <a id="section-2410j"></a>
@@ -2103,6 +2388,9 @@ Section 3(5)(A) of the Export Administration Act of 1979 ([50 U.S.C. 4602(5)(A)]
 
 ### Statutory Notes
 
+#### Transfer of Section
+Pub. L. 116–283, div. A, title XVIII, §§ 1801(d), 1863(b), Jan. 1, 2021, 134 Stat. 4151, 4278, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, this section is transferred to chapter 365 of this title, as amended by section 1863(a) of Pub. L. 116–283, inserted after the table of sections, and redesignated as [section 4703 of this title](./chapter-365-contractor-workforce.md#section-4703). See Effective Date of 2021 Amendment note below.
+
 #### References in Text
 The Elementary and Secondary Education Act of 1965, referred to in subsec. (a)(2)(A), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27. Title I of the Act is classified generally to subchapter I (§ 6301 et seq.) of chapter 70 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under [section 6301 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6301&num=0&edition=prelim) and Tables.
 
@@ -2127,6 +2415,9 @@ Subsec. (f)(2)(A), (B). Pub. L. 103–160 substituted “five school years” fo
 
 Subsec. (f)(2)(B). Pub. L. 103–35, § 201(g)(6), substituted “aide” for “aid” after “for placement as a teacher’s”.
 
+#### Effective Date of 2021 Amendment
+Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
+
 #### Effective Date of 1993 Amendment
 Amendment by Pub. L. 103–160 not applicable with respect to persons selected by Secretary of Defense before Nov. 30, 1993, to participate in teacher and teacher’s aide placement programs established pursuant to sections 1151, 1598, and 2410j of this title or agreements entered into by Secretary before such date with local educational agencies under such sections, see section 1331(h) of Pub. L. 103–160, set out as a note under [section 1598 of this title](./chapter-081-civilian-employees.md#section-1598).
 
@@ -2144,16 +2435,22 @@ Amendments by section 576 of Pub. L. 104–201 not to affect obligations under a
 
 ### Statutory Notes
 
+#### Transfer of Section
+Pub. L. 116–283, div. A, title XVIII, §§ 1801(d), 1863(b), Jan. 1, 2021, 134 Stat. 4151, 4278, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, this section is transferred to chapter 365 of this title, as amended by section 1863(a) of Pub. L. 116–283, inserted after the table of sections, and redesignated as [section 4704 of this title](./chapter-365-contractor-workforce.md#section-4704). See Effective Date of 2021 Amendment note below.
+
 #### Amendments
 1993—Pub. L. 103–35, § 201(b)(1)(A), renumbered [section 2410d of this title](./chapter-141-miscellaneous-procurement-provisions.md#section-2410d) as this section.
 
 Pub. L. 103–35, § 202(a)(18)(A), made technical amendment to directory language of Pub. L. 102–484, which enacted this section.
 
+#### Effective Date of 2021 Amendment
+Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
+
 #### Effective Date of 1993 Amendment
 Amendment by section 202(a)(18)(A) of Pub. L. 103–35 applicable as if included in the enactment of Pub. L. 102–484, see section 202(b) of Pub. L. 103–35, set out as a note under [section 155 of this title](./chapter-005-joint-chiefs-of-staff.md#section-155).
 
 #### Effective Date of 1992 Amendment
-Pub. L. 102–484, div. D, title XLIV, § 4470(b), Oct. 23, 1992, 106 Stat. 2753, provided that: “[Section 2410d of title 10](./chapter-141-miscellaneous-procurement-provisions.md#section-2410d), United States Code, as added by subsection (a), shall apply with respect to contracts entered into beginning 120 days after the date of the enactment of this Act [Oct. 23, 1992].”
+Pub. L. 102–484, div. D, title XLIV, § 4470(b), Oct. 23, 1992, 106 Stat. 2753, provided that: “Section 2410d [now 2410k] of title 10, United States Code, as added by subsection (a), shall apply with respect to contracts entered into beginning 120 days after the date of the enactment of this Act [Oct. 23, 1992].”
 
 
 <a id="section-2410l"></a>
@@ -2171,6 +2468,12 @@ Pub. L. 102–484, div. D, title XLIV, § 4470(b), Oct. 23, 1992, 106 Stat. 2753
 **(b) Waiver.—** The Secretary of Defense may, pursuant to guidelines prescribed by the Secretary, waive the requirement to perform a cost comparison study under subsection (a)(2) based on factors that are not related to cost.
 
 ### Statutory Notes
+
+#### Transfer of Section
+Pub. L. 116–283, div. A, title XVIII, §§ 1801(d), 1856(g), Jan. 1, 2021, 134 Stat. 4151, 4275, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, this section is transferred to chapter 341 of this title, inserted after section 4508, and redesignated as [section 4509 of this title](./chapter-341-acquisition-of-services-generally.md#section-4509). See Effective Date of 2021 Amendment note below.
+
+#### Effective Date of 2021 Amendment
+Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
 
 #### Effective Date
 Pub. L. 103–337, div. A, title III, § 363(c), Oct. 5, 1994, 108 Stat. 2734, provided that: “Section 2410l of title 10, United States Code, as added by subsection (a), shall take effect 180 days after the date of the enactment of this Act [Oct. 5, 1994].”
@@ -2211,6 +2514,9 @@ Pub. L. 103–337, div. A, title III, § 363(b), Oct. 5, 1994, 108 Stat. 2734, p
 
 ### Statutory Notes
 
+#### Transfer of Section
+Pub. L. 116–283, div. A, title XVIII, §§ 1801(d), 1836(b), Jan. 1, 2021, 134 Stat. 4151, 4241, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, this section is transferred to chapter 281 of this title, as added by section 1836(a) of Pub. L. 116–283, inserted after the table of sections, and redesignated as [section 3863 of this title](./chapter-281-claims-and-disputes.md#section-3863). See Effective Date of 2021 Amendment note below.
+
 #### Amendments
 2014—Subsec. (b)(1)(A)(i). Pub. L. 113–291, § 1071(a)(8)(A), substituted “section 7104(a) of such title” for “section 7 of such Act”.
 
@@ -2233,6 +2539,9 @@ Subsec. (c)(2). Pub. L. 108–136, § 1031(a)(21)(C), substituted “under this 
 Subsec. (c)(3). Pub. L. 108–136, § 1031(a)(21)(D), substituted “under this section during that fiscal year” for “in such preceding year”.
 
 Subsec. (c)(4). Pub. L. 108–136, § 1031(a)(21)(E), substituted “under this section during that fiscal year” for “in such preceding year”.
+
+#### Effective Date of 2021 Amendment
+Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
 
 
 <a id="section-2410n"></a>
@@ -2297,6 +2606,9 @@ Subsec. (c)(4). Pub. L. 108–136, § 1031(a)(21)(E), substituted “under this 
 
 ### Statutory Notes
 
+#### Transfer of Section
+Pub. L. 116–283, div. A, title XVIII, §§ 1801(d), 1838(b), Jan. 1, 2021, 134 Stat. 4151, 4242, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, this section is transferred to chapter 285 of this title, as added by section 1838(a) of Pub. L. 116–283, inserted after the table of sections, and redesignated as [section 3905 of this title](./chapter-287-socioeconomic-programs.md#section-3905). See Effective Date of 2021 Amendment note below.
+
 #### Amendments
 2008—Subsecs. (a), (b). Pub. L. 110–181 added subsecs. (a) and (b) and struck out former subsecs. (a) and (b) which read as follows:
 
@@ -2311,6 +2623,9 @@ Subsec. (c)(4). Pub. L. 108–136, § 1031(a)(21)(E), substituted “under this 
 Subsec. (b). Pub. L. 107–314, § 819(a)(1)(B), added subsec. (b) and struck out heading and text of former subsec. (b). Text read as follows: “If the Secretary determines that a Federal Prison Industries product is not comparable in price, quality, and time of delivery to products available from the private sector, the Secretary shall use competitive procedures for the procurement of the product. In conducting such a competition, the Secretary shall consider a timely offer from Federal Prison Industries for award in accordance with the specifications and evaluation factors specified in the solicitation.”
 
 Subsec. (c) to (g). Pub. L. 107–314, § 819(a)(1)(C), added subsecs. (c) to (g).
+
+#### Effective Date of 2021 Amendment
+Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
 
 #### Effective Date of 2008 Amendment
 Pub. L. 110–181, div. A, title VIII, § 827(a)(2), Jan. 28, 2008, 122 Stat. 228, as amended by Pub. L. 111–383, div. A, title X, § 1075(f)(4), Jan. 7, 2011, 124 Stat. 4376, provided that: “The amendment made by paragraph (1) [amending this section] shall take effect 60 days after the date of the enactment of this Act [Jan. 28, 2008].”
@@ -2334,6 +2649,14 @@ Pub. L. 110–181, div. A, title VIII, § 827(b), Jan. 28, 2008, 122 Stat. 228, 
 
 **(b) Extensions.—** A contract entered into for more than one year under the authority of subsection (a) may be extended for a total of not more than 10 years pursuant to any option or options set forth in the contract.
 
+### Statutory Notes
+
+#### Transfer of Section
+Pub. L. 116–283, div. A, title XVIII, §§ 1801(d), 1822(t)(2), Jan. 1, 2021, 134 Stat. 4151, 4205, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, this section is transferred to subchapter III of chapter 249 of this title, as added by section 1822(t)(1) of Pub. L. 116–283, inserted after the table of sections, and redesignated as [section 3551 of this title](./chapter-249-multiyear-contracts.md#section-3551). See Effective Date of 2021 Amendment note below.
+
+#### Effective Date of 2021 Amendment
+Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
+
 
 <a id="section-2410p"></a>
 ## § 2410p. Contracts: limitations on lead system integrators
@@ -2353,6 +2676,12 @@ Pub. L. 110–181, div. A, title VIII, § 827(b), Jan. 28, 2008, 122 Stat. 228, 
 
 ### Statutory Notes
 
+#### Transfer of Section
+Pub. L. 116–283, div. A, title XVIII, §§ 1801(d), 1847(f)(1), Jan. 1, 2021, 134 Stat. 4151, 4258, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, this section is transferred to subchapter V of chapter 322 of this title, as added by section 1847(a) of Pub. L. 116–283, inserted after the table of sections, and redesignated as [section 4292 of this title](./chapter-322-major-systems-and-major-defense-acquisition-programs-generally.md#section-4292). See Effective Date of 2021 Amendment note below.
+
+#### Effective Date of 2021 Amendment
+Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
+
 #### Effective Date
 Pub. L. 109–364, div. A, title VIII, § 807(a)(3), Oct. 17, 2006, 120 Stat. 2316, provided that: “[Section 2410p of title 10](./chapter-141-miscellaneous-procurement-provisions.md#section-2410p), United States Code, as added by paragraph (1), shall apply with respect to contracts entered into after December 31, 2006.”
 
@@ -2360,7 +2689,7 @@ Pub. L. 109–364, div. A, title VIII, § 807(a)(3), Oct. 17, 2006, 120 Stat. 23
 Pub. L. 109–364, div. A, title VIII, § 807(b), Oct. 17, 2006, 120 Stat. 2316, which required the Secretary of Defense to update acquisition regulations regarding lead system integrators, was repealed by Pub. L. 115–232, div. A, title VIII, § 812(b)(35), Aug. 13, 2018, 132 Stat. 1849.
 
 #### Prohibition on New Lead Systems Integrators
-Pub. L. 110–181, div. A, title VIII, § 802, Jan. 28, 2008, 122 Stat. 206, as amended by Pub. L. 110–417, [div. A], title I, § 112, Oct. 14, 2008, 122 Stat. 4374, provided that: “(a) Prohibitions on the Use of Lead Systems Integrators.—“(1) Prohibition on new lead systems integrators.—Effective October 1, 2010, the Department of Defense may not award a new contract for lead systems integrator functions in the acquisition of a major system to any entity that was not performing lead systems integrator functions in the acquisition of the major system prior to the date of the enactment of this Act [Jan. 28, 2008]. “(2) Prohibition on lead systems integrators beyond low-rate initial production.—Effective on the date of the enactment of this Act, the Department of Defense may award a new contract for lead systems integrator functions in the acquisition of a major system only if—“(A) the major system has not yet proceeded beyond low-rate initial production; or “(B) the Secretary of Defense determines in writing that it would not be practicable to carry out the acquisition without continuing to use a contractor to perform lead systems integrator functions and that doing so is in the best interest of the Department. “(3) Requirements relating to determinations.—A determination under paragraph (2)(B)—“(A) shall specify the reasons why it would not be practicable to carry out the acquisition without continuing to use a contractor to perform lead systems integrator functions (including a discussion of alternatives, such as the use of the Department of Defense workforce, or a system engineering and technical assistance contractor); “(B) shall include a plan for phasing out the use of contracted lead systems integrator functions over the shortest period of time consistent with the interest of the national defense; “(C) may not be delegated below the level of the Under Secretary of Defense for Acquisition, Technology, and Logistics; and “(D) shall be provided to the Committees on Armed Services of the Senate and the House of Representatives at least 45 days before the award of a contract pursuant to the determination. “(b) Acquisition Workforce.—“(1) Requirement.—The Secretary of Defense shall ensure that the acquisition workforce is of the appropriate size and skill level necessary—“(A) to accomplish inherently governmental functions related to acquisition of major systems; and “(B) to effectuate the purpose of subsection (a) to minimize and eventually eliminate the use of contractors to perform lead systems integrator functions. “(2) Report.—The Secretary shall include an update on the progress made in complying with paragraph (1) in the annual report required by section 820 of the John Warner National Defense Authorization Act for Fiscal Year 2007 (Public Law 109–364; 120 Stat. 2330) [[10 U.S.C. 1701](./chapter-087-defense-acquisition-workforce.md#section-1701) note]. “(c) Exception for Contracts for Other Management Services.—The Department of Defense may continue to award contracts for the procurement of services the primary purpose of which is to perform acquisition support functions with respect to the development or production of a major system, if the following conditions are met with respect to each such contract:“(1) The contract prohibits the contractor from performing inherently governmental functions. “(2) The Department of Defense organization responsible for the development or production of the major system ensures that Federal employees are responsible for—“(A) determining courses of action to be taken in the best interest of the government; and “(B) determining best technical performance for the warfighter. “(3) The contract requires that the prime contractor for the contract may not advise or recommend the award of a contract or subcontract for the development or production of the major system to an entity owned in whole or in part by the prime contractor. “(d) Definitions.—In this section:“(1) Lead systems integrator.—The term ‘lead systems integrator’ means—“(A) a prime contractor for the development or production of a major system, if the prime contractor is not expected at the time of award to perform a substantial portion of the work on the system and the major subsystems; or “(B) a prime contractor under a contract for the procurement of services the primary purpose of which is to perform acquisition functions closely associated with inherently governmental functions with respect to the development or production of a major system. “(2) Major system.—The term ‘major system’ has the meaning given such term in [section 2302d of title 10](./chapter-137-procurement-generally.md#section-2302d), United States Code. “(3) Low-rate initial production.—The term ‘low-rate initial production’ has the meaning given such term in [section 2400 of title 10](./chapter-141-miscellaneous-procurement-provisions.md#section-2400), United States Code. “(e) Status of Future Combat Systems Program Lead System Integrator.—“(1) Lead systems integrator.—In the case of the Future Combat Systems program, the prime contractor of the program shall be considered to be a lead systems integrator until 45 days after the Secretary of the Army certifies in writing to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] that such contractor is no longer serving as the lead systems integrator. “(2) New contracts.—In applying subsection (a)(1) or (a)(2), any modification to the existing contract for the Future Combat Systems program, for the purpose of entering into full-rate production of major systems or subsystems, shall be considered a new contract.”
+Pub. L. 110–181, div. A, title VIII, § 802, Jan. 28, 2008, 122 Stat. 206, as amended by Pub. L. 110–417, [div. A], title I, § 112, Oct. 14, 2008, 122 Stat. 4374; Pub. L. 116–92, div. A, title IX, § 902(100), Dec. 20, 2019, 133 Stat. 1555, provided that: “(a) Prohibitions on the Use of Lead Systems Integrators.—“(1) Prohibition on new lead systems integrators.—Effective October 1, 2010, the Department of Defense may not award a new contract for lead systems integrator functions in the acquisition of a major system to any entity that was not performing lead systems integrator functions in the acquisition of the major system prior to the date of the enactment of this Act [Jan. 28, 2008]. “(2) Prohibition on lead systems integrators beyond low-rate initial production.—Effective on the date of the enactment of this Act, the Department of Defense may award a new contract for lead systems integrator functions in the acquisition of a major system only if—“(A) the major system has not yet proceeded beyond low-rate initial production; or “(B) the Secretary of Defense determines in writing that it would not be practicable to carry out the acquisition without continuing to use a contractor to perform lead systems integrator functions and that doing so is in the best interest of the Department. “(3) Requirements relating to determinations.—A determination under paragraph (2)(B)—“(A) shall specify the reasons why it would not be practicable to carry out the acquisition without continuing to use a contractor to perform lead systems integrator functions (including a discussion of alternatives, such as the use of the Department of Defense workforce, or a system engineering and technical assistance contractor); “(B) shall include a plan for phasing out the use of contracted lead systems integrator functions over the shortest period of time consistent with the interest of the national defense; “(C) may not be delegated below the level of the Under Secretary of Defense for Acquisition and Sustainment; and “(D) shall be provided to the Committees on Armed Services of the Senate and the House of Representatives at least 45 days before the award of a contract pursuant to the determination. “(b) Acquisition Workforce.—“(1) Requirement.—The Secretary of Defense shall ensure that the acquisition workforce is of the appropriate size and skill level necessary—“(A) to accomplish inherently governmental functions related to acquisition of major systems; and “(B) to effectuate the purpose of subsection (a) to minimize and eventually eliminate the use of contractors to perform lead systems integrator functions. “(2) Report.—The Secretary shall include an update on the progress made in complying with paragraph (1) in the annual report required by section 820 of the John Warner National Defense Authorization Act for Fiscal Year 2007 (Public Law 109–364; 120 Stat. 2330) [[10 U.S.C. 1701](./chapter-087-defense-acquisition-workforce.md#section-1701) note]. “(c) Exception for Contracts for Other Management Services.—The Department of Defense may continue to award contracts for the procurement of services the primary purpose of which is to perform acquisition support functions with respect to the development or production of a major system, if the following conditions are met with respect to each such contract:“(1) The contract prohibits the contractor from performing inherently governmental functions. “(2) The Department of Defense organization responsible for the development or production of the major system ensures that Federal employees are responsible for—“(A) determining courses of action to be taken in the best interest of the government; and “(B) determining best technical performance for the warfighter. “(3) The contract requires that the prime contractor for the contract may not advise or recommend the award of a contract or subcontract for the development or production of the major system to an entity owned in whole or in part by the prime contractor. “(d) Definitions.—In this section:“(1) Lead systems integrator.—The term ‘lead systems integrator’ means—“(A) a prime contractor for the development or production of a major system, if the prime contractor is not expected at the time of award to perform a substantial portion of the work on the system and the major subsystems; or “(B) a prime contractor under a contract for the procurement of services the primary purpose of which is to perform acquisition functions closely associated with inherently governmental functions with respect to the development or production of a major system. “(2) Major system.—The term ‘major system’ has the meaning given such term in [section 2302d of title 10](./chapter-137-procurement-generally.md#section-2302d), United States Code. “(3) Low-rate initial production.—The term ‘low-rate initial production’ has the meaning given such term in [section 2400 of title 10](./chapter-141-miscellaneous-procurement-provisions.md#section-2400), United States Code. “(e) Status of Future Combat Systems Program Lead System Integrator.—“(1) Lead systems integrator.—In the case of the Future Combat Systems program, the prime contractor of the program shall be considered to be a lead systems integrator until 45 days after the Secretary of the Army certifies in writing to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] that such contractor is no longer serving as the lead systems integrator. “(2) New contracts.—In applying subsection (a)(1) or (a)(2), any modification to the existing contract for the Future Combat Systems program, for the purpose of entering into full-rate production of major systems or subsystems, shall be considered a new contract.”
 
 
 <a id="section-2410q"></a>
@@ -2375,10 +2704,18 @@ Pub. L. 110–181, div. A, title VIII, § 802, Jan. 28, 2008, 122 Stat. 206, as 
 
 **(c) Relationship to Other Multiyear Contracting Authority.—** Nothing in this section shall be construed to preclude the Department of Defense from using other multiyear contracting authority of the Department to purchase renewable energy.
 
+### Statutory Notes
+
+#### Transfer of Section
+Pub. L. 116–283, div. A, title XVIII, §§ 1801(d), 1879(a), Jan. 1, 2021, 134 Stat. 4151, 4293, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, this section is transferred to subchapter II of chapter 173 of this title, inserted after section 2922h, and redesignated as [section 2922i of this title](./chapter-173-energy-security.md#section-2922i). See Effective Date of 2021 Amendment note below.
+
+#### Effective Date of 2021 Amendment
+Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
+
 
 <a id="section-2410r"></a>
 ## § 2410r. Contract working dogs: requirement to transfer animals to 341st Training Squadron after service life
-**(a) In General.—** Each contract entered into by the Secretary of Defense for the provision of a contract working dog shall require that the dog be transferred to the 341st Training Squadron after the service life of the dog has terminated as described in subsection (b) for reclassification as a military animal and placement for adoption in accordance with [section 2583 of this title](./chapter-153-exchange-of-material-and-disposal-of-obsolete-surplus-or-unclaimed-property.md#section-2583).
+**(a) In General.—** Each contract entered into by the Secretary of Defense for the provision of a contract working dog shall require, and shall contain a contract term, that the dog be transferred to the 341st Training Squadron and assigned for veterinary screening and care in accordance with [section 2583 of this title](./chapter-153-exchange-of-material-and-disposal-of-obsolete-surplus-or-unclaimed-property.md#section-2583) after the service life of the dog has terminated as described in subsection (b) for reclassification as a military animal and placement for adoption in accordance with such section.
 
 **(b) Service Life.—** The service life of a contract working dog has terminated and the dog is available for transfer to the 341st Training Squadron pursuant to a contract under subsection (a) only if the contracting officer concerned has determined that—
 
@@ -2391,6 +2728,17 @@ Pub. L. 110–181, div. A, title VIII, § 802, Jan. 28, 2008, 122 Stat. 206, as 
 (1) that performs a service for the Department of Defense pursuant to a contract; and
 
 (2) that is trained and kenneled by an entity that provides such a dog pursuant to such a contract.
+
+### Statutory Notes
+
+#### Transfer of Section
+Pub. L. 116–283, div. A, title XVIII, §§ 1801(d), 1882(b), Jan. 1, 2021, 134 Stat. 4151, 4293, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, this section is transferred within this chapter to appear before section 2388 and is redesignated as [section 2387 of this title](./chapter-141-miscellaneous-procurement-provisions.md#section-2387). See Effective Date of 2021 Amendment note below.
+
+#### Amendments
+2019—Subsec. (a). Pub. L. 116–92 inserted “, and shall contain a contract term,” after “shall require” and “and assigned for veterinary screening and care in accordance with [section 2583 of this title](./chapter-153-exchange-of-material-and-disposal-of-obsolete-surplus-or-unclaimed-property.md#section-2583)” after “341st Training Squadron” and substituted “such section” for “[section 2583 of this title](./chapter-153-exchange-of-material-and-disposal-of-obsolete-surplus-or-unclaimed-property.md#section-2583)”.
+
+#### Effective Date of 2021 Amendment
+Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
 
 
 <a id="section-2410s"></a>
@@ -2409,5 +2757,11 @@ Pub. L. 110–181, div. A, title VIII, § 802, Jan. 28, 2008, 122 Stat. 206, as 
 
 ### Statutory Notes
 
+#### Transfer of Section
+Pub. L. 116–283, div. A, title XVIII, §§ 1801(d), 1882(b), Jan. 1, 2021, 134 Stat. 4151, 4293, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, this section is transferred within this chapter to appear before section 2389 and is redesignated as [section 2388 of this title](./chapter-141-miscellaneous-procurement-provisions.md#section-2388). See Effective Date of 2021 Amendment note below.
+
 #### Amendments
 2018—Pub. L. 115–232 struck out period at end of section catchline.
+
+#### Effective Date of 2021 Amendment
+Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).

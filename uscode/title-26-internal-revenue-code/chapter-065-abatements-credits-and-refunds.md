@@ -2,7 +2,7 @@
 title: 26
 chapter: '65'
 heading: 'ABATEMENTS, CREDITS, AND REFUNDS'
-section_count: 31
+section_count: 32
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26&num=0&edition=prelim
 ---
@@ -1467,7 +1467,7 @@ Pub. L. 85–475, § 4(c), June 30, 1958, 72 Stat. 261, as amended by Pub. L. 99
   (F) in the case of any tire taxable under section 4071(a), sold to any person for use as described in section 4221(e)(3); or
 
   (G) in the case of gasoline, used or sold for use in the production of special fuels referred to in section 4041.
-  Subparagraphs (C), (D), and (E) shall not apply in the case of any tax paid under section 4064. In the case of the tax imposed by section 4131, subparagraphs (B), (C), (D), and (E) shall not apply and subparagraph (A) shall apply only if the use of the exported vaccine meets such requirements as the Secretary may by regulations prescribe. This paragraph shall not apply in the case of any tax imposed under section 4041(a)(1) or 4081 on diesel fuel or kerosene and any tax paid under section 4121. Subparagraphs (C) and (D) shall not apply in the case of any tax imposed on gasoline under section 4081 if the requirements of subsection (a)(4) are not met. In the case of taxes imposed by subchapter C or D of chapter 32, subparagraph (E) shall not apply. In the case of the tax imposed by section 4191, subparagraphs (B), (C), (D), and (E) shall not apply.
+  Subparagraphs (C), (D), and (E) shall not apply in the case of any tax paid under section 4064. In the case of the tax imposed by section 4131, subparagraphs (B), (C), (D), and (E) shall not apply and subparagraph (A) shall apply only if the use of the exported vaccine meets such requirements as the Secretary may by regulations prescribe. This paragraph shall not apply in the case of any tax imposed under section 4041(a)(1) or 4081 on diesel fuel or kerosene and any tax paid under section 4121. Subparagraphs (C) and (D) shall not apply in the case of any tax imposed on gasoline under section 4081 if the requirements of subsection (a)(4) are not met. In the case of taxes imposed by subchapter C or D of chapter 32, subparagraph (E) shall not apply.
 
 (3) **Tax-paid articles used for further manufacture, etc.** — If the tax imposed by chapter 32 has been paid with respect to the sale of any article (other than coal taxable under section 4121) by the manufacturer, producer, or importer thereof and such article is sold to a subsequent manufacturer or producer before being used, such tax shall be deemed to be an overpayment by such subsequent manufacturer or producer if—
 
@@ -1529,6 +1529,8 @@ This subsection shall apply in respect of an article only if the exportation or 
 Section 1207(e) of Pub. L. 109–280, which directed the amendment of section 6416 without specifying the act to be amended, was executed to this section, which is section 6416 of the Internal Revenue Code of 1986, to reflect the probable intent of Congress. See 2006 Amendment notes below.
 
 #### Amendments
+2019—Subsec. (b)(2). Pub. L. 116–94 struck out at end of concluding provisions “In the case of the tax imposed by section 4191, subparagraphs (B), (C), (D), and (E) shall not apply.”
+
 2010—Subsec. (b)(2). Pub. L. 111–152 inserted at end of concluding provisions “In the case of the tax imposed by section 4191, subparagraphs (B), (C), (D), and (E) shall not apply.”
 
 2007—Subsec. (a)(4)(C). Pub. L. 110–172 substituted “ultimate vendor or credit card issuer has certified” for “ultimate vendor” and all that follows through “has certified” and substituted “all ultimate purchasers of the vendor or credit card issuer are certified” for “all ultimate purchasers of the vendor” and all that follows through “are certified”. See 2005 Amendment note below.
@@ -1822,6 +1824,9 @@ Subsec. (b)(2)(I). Act Aug. 11, 1955, ch. 793, added subpar. (I).
 Subsec. (b)(3)(A). Act Aug. 11, 1955, ch. 805, § 1(h), inserted “and other than an automobile part or accessory taxable under section 4061(b), a refrigerator component taxable under section 4111, a radio or television component taxable under section 4141, or a camera lens taxable under section 4171” after “section 4141”.
 
 Subsec. (b)(3)(B). Act Aug. 11, 1955, ch. 805, § 1(i), substituted provisions allowing a credit for automobile parts or accessories, refrigerator, radio, or television components, or camera lenses taxable under sections 4061(b), 4111, 4141, or 4171, respectively, of this title, for provisions allowing a credit for radio and television components purchased and used by a producer in the manufacture of communication, detection, or navigation receivers in commercial, military, or marine installations if such receivers were sold to the United States.
+
+#### Effective Date of 2019 Amendment
+Amendment by Pub. L. 116–94 applicable to sales after Dec. 31, 2019, see section 501(d) of Pub. L. 116–94, set out as a note under [section 4221 of this title](./chapter-032-manufacturers-excise-taxes.md#section-4221).
 
 #### Effective Date of 2010 Amendment
 Amendment by Pub. L. 111–152 applicable to sales after Dec. 31, 2012, see section 1405(c) of Pub. L. 111–152, set out as an Effective Date note under [section 4191 of this title](./chapter-032-manufacturers-excise-taxes.md#section-4191).
@@ -2900,7 +2905,7 @@ No credit shall be allowed in the case of the credits described in subsections (
 
 (5) **Other definitions** — Any term used in this subsection which is also used in section 40A shall have the meaning given such term by section 40A.
 
-(6) **Termination** — This subsection shall not apply to any sale, use, or removal for any period after December 31, 2017.
+(6) **Termination** — This subsection shall not apply to any sale, use, or removal for any period after December 31, 2022.
 
 **(d) Alternative fuel credit**
 
@@ -2935,19 +2940,19 @@ No credit shall be allowed in the case of the credits described in subsections (
 
     (ii) 75 percent in the case of fuel produced after December 30, 2009.
 
-(5) **Termination** — This subsection shall not apply to any sale or use for any period after December 31, 2017.
+(5) **Termination** — This subsection shall not apply to any sale or use for any period after December 31, 2021.
 
 **(e) Alternative fuel mixture credit**
 
 (1) **In general** — For purposes of this section, the alternative fuel mixture credit is the product of 50 cents and the number of gallons of alternative fuel used by the taxpayer in producing any alternative fuel mixture for sale or use in a trade or business of the taxpayer.
 
-(2) **Alternative fuel mixture** — For purposes of this section, the term “alternative fuel mixture” means a mixture of alternative fuel and taxable fuel (as defined in subparagraph (A), (B), or (C) of section 4083(a)(1)) which—
+(2) **Alternative fuel mixture** — For purposes of this section, the term “alternative fuel mixture” means a mixture of alternative fuel (other than a fuel described in subparagraph (A), (C), or (F) of subsection (d)(2)) and taxable fuel (as defined in subparagraph (A), (B), or (C) of section 4083(a)(1)) which—
 
   (A) is sold by the taxpayer producing such mixture to any person for use as fuel, or
 
   (B) is used as a fuel by the taxpayer producing such mixture.
 
-(3) **Termination** — This subsection shall not apply to any sale or use for any period after December 31, 2017.
+(3) **Termination** — This subsection shall not apply to any sale or use for any period after December 31, 2021.
 
 **(f) Mixture not used as a fuel, etc.**
 
@@ -2990,6 +2995,16 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 A prior section 6426, added Pub. L. 91–258, title II, § 206(c), May 21, 1970, 84 Stat. 245; amended Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834, provided for a refund of aircraft use tax where plane transports for hire in foreign air commerce, prior to repeal by Pub. L. 97–248, title II, § 280(c)(2)(G), (d), Sept. 3, 1982, 96 Stat. 564, 565, applicable with respect to transportation beginning after Aug. 31, 1982.
 
 #### Amendments
+2020—Subsecs. (d)(5), (e)(3). Pub. L. 116–260 substituted “December 31, 2021” for “December 31, 2020”.
+
+2019—Subsec. (c)(6). Pub. L. 116–94, § 121(b)(1)(A), substituted “December 31, 2022” for “December 31, 2017”.
+
+Subsec. (d)(5). Pub. L. 116–94, § 133(a)(1), substituted “December 31, 2020” for “December 31, 2017”.
+
+Subsec. (e)(2). Pub. L. 116–94, § 133(b)(1), in introductory provisions, substituted “mixture of alternative fuel (other than a fuel described in subparagraph (A), (C), or (F) of subsection (d)(2))” for “mixture of alternative fuel”.
+
+Subsec. (e)(3). Pub. L. 116–94, § 133(a)(1), substituted “December 31, 2020” for “December 31, 2017”.
+
 2018—Subsec. (b)(2)(A)(ii). Pub. L. 115–141 substituted “cents.” for “cents..”
 
 Subsec. (c)(6). Pub. L. 115–123, § 40407(b)(1), substituted “December 31, 2017” for “December 31, 2016”.
@@ -3072,7 +3087,17 @@ Subsec. (d)(2)(F). Pub. L. 109–59, § 11151(e)(2), substituted “section 45K(
 
 Subsecs. (e) to (g). Pub. L. 109–59, § 11113(b)(2), added subsec. (e) and redesignated former subsecs. (d) and (e) as (f) and (g), respectively.
 
-#### Effective date of 2018 Amendment
+#### Effective Date of 2020 Amendment
+Pub. L. 116–260, div. EE, title I, § 147(c), Dec. 27, 2020, 134 Stat. 3055, provided that: “The amendments made by this subsection [probably means “this section”, amending this section and [section 6427 of this title](./chapter-065-abatements-credits-and-refunds.md#section-6427)] shall apply to fuel sold or used after December 31, 2020.”
+
+#### Effective Date of 2019 Amendment
+Pub. L. 116–94, div. Q, title I, § 121(b)(2), Dec. 20, 2019, 133 Stat. 3230, provided that: “The amendments made by this subsection [amending this section and [section 6427 of this title](./chapter-065-abatements-credits-and-refunds.md#section-6427)] shall apply to fuel sold or used after December 31, 2017.”
+
+Pub. L. 116–94, div. Q, title I, § 133(a)(4), Dec. 20, 2019, 133 Stat. 3233, provided that: “The amendments made by this subsection [amending this section and [section 6427 of this title](./chapter-065-abatements-credits-and-refunds.md#section-6427)] shall apply to fuel sold or used after December 31, 2017.”
+
+Pub. L. 116–94, div. Q, title I, § 133(b)(2), Dec. 20, 2019, 133 Stat. 3233, provided that: “The amendment made by this subsection [amending this section] shall apply to— “(A) fuel sold or used on or after the date of the enactment of this Act [Dec. 20, 2019], and “(B) fuel sold or used before such date of enactment, but only to the extent that claims for the credit under section 6426(e) of the Internal Revenue Code of 1986 with respect to such sale or use—“(i) have not been paid or allowed as of such date, and “(ii) were made on or after January 8, 2018.”
+
+#### Effective Date of 2018 Amendment
 Pub. L. 115–123, div. D, title I, § 40407(b)(3), Feb. 9, 2018, 132 Stat. 149, provided that: “The amendments made by this subsection [amending this section and [section 6427 of this title](./chapter-065-abatements-credits-and-refunds.md#section-6427)] shall apply to fuel sold or used after December 31, 2016.”
 
 Pub. L. 115–123, div. D, title I, § 40415(a)(3), Feb. 9, 2018, 132 Stat. 152, provided that: “The amendments made by this subsection [amending this section and [section 6427 of this title](./chapter-065-abatements-credits-and-refunds.md#section-6427)] shall apply to fuel sold or used after December 31, 2016.”
@@ -3122,6 +3147,14 @@ Amendment by section 11151(e)(2) of Pub. L. 109–59 effective as if included in
 
 #### Effective Date
 Section applicable to fuel sold or used after Dec. 31, 2004, see section 301(d)(1) of Pub. L. 108–357, set out as an Effective Date of 2004 Amendment note under [section 40 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-40).
+
+#### Special Rules for 2018 and 2019
+Pub. L. 116–94, div. Q, title I, § 121(b)(3), Dec. 20, 2019, 133 Stat. 3230, provided that: “Notwithstanding any other provision of law, in the case of any biodiesel mixture credit properly determined under section 6426(c) of the Internal Revenue Code of 1986 for the period beginning on January 1, 2018, and ending with the close of the last calendar quarter beginning before the date of the enactment of this Act [Dec. 20, 2019], such credit shall be allowed, and any refund or payment attributable to such credit (including any payment under section 6427(e) of such Code) shall be made, only in such manner as the Secretary of the Treasury (or the Secretary’s delegate) shall provide. Such Secretary shall issue guidance within 30 days after the date of the enactment of this Act providing for a one-time submission of claims covering periods described in the preceding sentence. Such guidance shall provide for a 180-day period for the submission of such claims (in such manner as prescribed by such Secretary) to begin not later than 30 days after such guidance is issued. Such claims shall be paid by such Secretary not later than 60 days after receipt. If such Secretary has not paid pursuant to a claim filed under this subsection within 60 days after the date of the filing of such claim, the claim shall be paid with interest from such date determined by using the overpayment rate and method under section 6621 of such Code.”
+
+Pub. L. 116–94, div. Q, title I, § 133(a)(3), Dec. 20, 2019, 133 Stat. 3233, provided that: “Notwithstanding any other provision of law, in the case of any alternative fuel credit properly determined under section 6426(d) of the Internal Revenue Code of 1986 for the period beginning on January 1, 2018, and ending with the close of the last calendar quarter beginning before the date of the enactment of this Act [Dec. 20, 2019], such credit shall be allowed, and any refund or payment attributable to such credit (including any payment under section 6427(e) of such Code) shall be made, only in such manner as the Secretary of the Treasury (or the Secretary’s delegate) shall provide. Such Secretary shall issue guidance within 30 days after the date of the enactment of this Act providing for a one-time submission of claims covering periods described in the preceding sentence. Such guidance shall provide for a 180-day period for the submission of such claims (in such manner as prescribed by such Secretary) to begin not later than 30 days after such guidance is issued. Such claims shall be paid by such Secretary not later than 60 days after receipt. If such Secretary has not paid pursuant to a claim filed under this subsection within 60 days after the date of the filing of such claim, the claim shall be paid with interest from such date determined by using the overpayment rate and method under section 6621 of such Code.”
+
+#### No Inference
+Pub. L. 116–94, div. Q, title I, § 133(b)(3), Dec. 20, 2019, 133 Stat. 3234, provided that: “Nothing contained in this subsection [amending this section and enacting provisions set out as a note under this section] or the amendments made by this subsection shall be construed to create any inference as to a change in law or guidance in effect prior to enactment of this subsection.”
 
 #### Special Rules for 2017
 Pub. L. 115–123, div. D, title I, § 40407(b)(4), Feb. 9, 2018, 132 Stat. 149, provided that: “Notwithstanding any other provision of law, in the case of any biodiesel mixture credit properly determined under section 6426(c) of the Internal Revenue Code of 1986 for the period beginning on January 1, 2017, and ending on December 31, 2017, such credit shall be allowed, and any refund or payment attributable to such credit (including any payment under section 6427(e) of such Code) shall be made, only in such manner as the Secretary of the Treasury (or the Secretary’s delegate) shall provide. Such Secretary shall issue guidance within 30 days after the date of the enactment of this Act [Feb. 9, 2018] providing for a one-time submission of claims covering periods described in the preceding sentence. Such guidance shall provide for a 180-day period for the submission of such claims (in such manner as prescribed by such Secretary) to begin not later than 30 days after such guidance is issued. Such claims shall be paid by such Secretary not later than 60 days after receipt. If such Secretary has not paid pursuant to a claim filed under this subsection within 60 days after the date of the filing of such claim, the claim shall be paid with interest from such date determined by using the overpayment rate and method under section 6621 of such Code.”
@@ -3211,9 +3244,9 @@ is used by an aircraft museum (as defined in section 4041(h)(2)) in an aircraft 
 
   (A) any alcohol fuel mixture (as defined in section 6426(b)(3)) sold or used after December 31, 2011,
 
-  (B) any biodiesel mixture (as defined in section 6426(c)(3)) sold or used after December 31, 2017,
+  (B) any biodiesel mixture (as defined in section 6426(c)(3)) sold or used after December 31, 2022,
 
-  (C) any alternative fuel (as defined in section 6426(d)(2)) sold or used after December 31, 2017, and
+  (C) any alternative fuel (as defined in section 6426(d)(2)) sold or used after December 31, 2021, and
 
   (D) any alternative fuel mixture (as defined in section 6426(e)(2)) sold or used after December 31, 2011.
 
@@ -3379,6 +3412,12 @@ Section 4081(c), referred to in subsec. (f)(1), was repealed by Pub. L. 108–35
 Section 4091, referred to in subsec. (f)(1), (2)(A)(ii), (B)(ii), was repealed by Pub. L. 108–357, title VIII, § 853(d)(1), Oct. 22, 2004, 118 Stat. 1612.
 
 #### Amendments
+2020—Subsec. (e)(6)(C). Pub. L. 116–260 substituted “December 31, 2021” for “December 31, 2020”.
+
+2019—Subsec. (e)(6)(B). Pub. L. 116–94, § 121(b)(1)(B), substituted “December 31, 2022” for “December 31, 2017”.
+
+Subsec. (e)(6)(C). Pub. L. 116–94, § 133(a)(2), substituted “December 31, 2020” for “December 31, 2017”.
+
 2018—Subsec. (e)(6)(B). Pub. L. 115–123, § 40407(b)(2), substituted “December 31, 2017” for “December 31, 2016”.
 
 Subsec. (e)(6)(C). Pub. L. 115–123, § 40415(a)(2), substituted “December 31, 2017” for “December 31, 2016”.
@@ -4031,6 +4070,14 @@ Subsecs. (h), (i). Pub. L. 94–530, § 1(b), redesignated former subsecs. (g) a
 
 Subsec. (h). Pub. L. 94–455, § 1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
 
+#### Effective Date of 2020 Amendment
+Amendment by Pub. L. 116–260 applicable to fuel sold or used after Dec. 31, 2020, see section 147(c) of div. EE of Pub. L. 116–260, set out as a note under [section 6426 of this title](./chapter-065-abatements-credits-and-refunds.md#section-6426).
+
+#### Effective Date of 2019 Amendment
+Amendment by section 121(b)(1)(B) of Pub. L. 116–94 applicable to fuel sold or used after Dec. 31, 2017, see section 121(b)(2) of Pub. L. 116–94, set out as a note under [section 6426 of this title](./chapter-065-abatements-credits-and-refunds.md#section-6426).
+
+Amendment by section 133(a)(2) of Pub. L. 116–94 applicable to fuel sold or used after Dec. 31, 2017, see section 133(a)(4) of Pub. L. 116–94, set out as a note under [section 6426 of this title](./chapter-065-abatements-credits-and-refunds.md#section-6426).
+
 #### Effective Date of 2018 Amendment
 Amendment by section 40407(b)(2) of Pub. L. 115–123 applicable to fuel sold or used after Dec. 31, 2016, see section 40407(b)(3) of Pub. L. 115–123, set out as a note under [section 6426 of this title](./chapter-065-abatements-credits-and-refunds.md#section-6426).
 
@@ -4219,22 +4266,362 @@ Pub. L. 97–424, title V, § 511(e)(4), Jan. 6, 1983, 96 Stat. 2172, directed S
 
 
 <a id="section-6428"></a>
-## § 6428. Repealed. Pub. L. 113–295, div. A, title II, § 221(a)(112)(A), Dec. 19, 2014, 128 Stat. 4054]
+## § 6428. 2020 Recovery rebates for individuals
+**(a) In general** In the case of an eligible individual, there shall be allowed as a credit against the tax imposed by subtitle A for the first taxable year beginning in 2020 an amount equal to the sum of—
+
+(1) $1,200 ($2,400 in the case of eligible individuals filing a joint return), plus
+
+(2) an amount equal to the product of $500 multiplied by the number of qualifying children (within the meaning of section 24(c)) of the taxpayer.
+
+**(b) Treatment of credit** The credit allowed by subsection (a) shall be treated as allowed by subpart C of part IV of subchapter A of chapter 1.
+
+**(c) Limitation based on adjusted gross income** The amount of the credit allowed by subsection (a) (determined without regard to this subsection and subsection (e)) shall be reduced (but not below zero) by 5 percent of so much of the taxpayer’s adjusted gross income as exceeds—
+
+(1) $150,000 in the case of a joint return or a surviving spouse (as defined in section 2(a)),
+
+(2) $112,500 in the case of a head of household, and
+
+(3) $75,000 in the case of a taxpayer not described in paragraph (1) or (2).
+
+**(d) Eligible individual** For purposes of this section, the term “eligible individual” means any individual other than—
+
+(1) any nonresident alien individual,
+
+(2) any individual with respect to whom a deduction under section 151 is allowable to another taxpayer for a taxable year beginning in the calendar year in which the individual’s taxable year begins, and
+
+(3) an estate or trust.
+
+**(e) Coordination with advance refunds of credit**
+
+(1) **In general** — The amount of credit which would (but for this paragraph) be allowable under this section shall be reduced (but not below zero) by the aggregate refunds and credits made or allowed to the taxpayer under subsection (f). Any failure to so reduce the credit shall be treated as arising out of a mathematical or clerical error and assessed according to section 6213(b)(1).
+
+(2) **Joint returns** — In the case of a refund or credit made or allowed under subsection (f) with respect to a joint return, half of such refund or credit shall be treated as having been made or allowed to each individual filing such return.
+
+**(f) Advance refunds and credits**
+
+(1) **In general** — Subject to paragraph (5), each individual who was an eligible individual for such individual’s first taxable year beginning in 2019 shall be treated as having made a payment against the tax imposed by chapter 1 for such taxable year in an amount equal to the advance refund amount for such taxable year.
+
+(2) **Advance refund amount** — For purposes of paragraph (1), the advance refund amount is the amount that would have been allowed as a credit under this section for such taxable year if this section (other than subsection (e) and this subsection) had applied to such taxable year.
+
+(3) **Timing and manner of payments**
+
+  (A) *Timing* — The Secretary shall, subject to the provisions of this title, refund or credit any overpayment attributable to this subsection as rapidly as possible. No refund or credit shall be made or allowed under this subsection after December 31, 2020.
+
+  (B) *Delivery of payments* — Notwithstanding any other provision of law, the Secretary may certify and disburse refunds payable under this subsection electronically to any account to which the payee authorized, on or after January 1, 2018, the delivery of a refund of taxes under this title or of a Federal payment (as defined in [section 3332 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section3332&num=0&edition=prelim), United States Code).
+
+  (C) *Waiver of certain rules* — Notwithstanding [section 3325 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section3325&num=0&edition=prelim), United States Code, or any other provision of law, with respect to any payment of a refund under this subsection, a disbursing official in the executive branch of the United States Government may modify payment information received from an officer or employee described in section 3325(a)(1)(B) of such title for the purpose of facilitating the accurate and efficient delivery of such payment. Except in cases of fraud or reckless neglect, no liability under sections 3325, 3527, 3528, or 3529 of title 31, United States Code, shall be imposed with respect to payments made under this subparagraph.
+
+(4) **No interest** — No interest shall be allowed on any overpayment attributable to this subsection.
+
+(5) **Alternate taxable year** — In the case of an individual who, at the time of any determination made pursuant to paragraph (3), has not filed a tax return for the year described in paragraph (1), the Secretary may—
+
+  (A) apply such paragraph by substituting “2018” for “2019”, and
+
+  (B) if the individual has not filed a tax return for such individual’s first taxable year beginning in 2018, use information with respect to such individual for calendar year 2019 provided in—
+
+    (i) Form SSA–1099, Social Security Benefit Statement, or
+
+    (ii) Form RRB–1099, Social Security Equivalent Benefit Statement.
+
+(6) **Payment to representative payees and fiduciaries**
+
+  (A) *In general* — In the case of any individual for which payment information is provided to the Secretary by the Commissioner of Social Security, the Railroad Retirement Board, or the Secretary of Veterans Affairs, the payment by the Secretary under paragraph (3) with respect to such individual may be made to such individual’s representative payee or fiduciary and the entire payment shall be—
+
+    (i) provided to the individual who is entitled to the payment, or
+
+    (ii) used only for the benefit of the individual who is entitled to the payment.
+
+  (B) *Application of enforcement provisions*
+
+    (i) In the case of a payment described in subparagraph (A) which is made with respect to a social security beneficiary or a supplemental security income recipient, section 1129(a)(3) of the Social Security Act ([42 U.S.C. 1320a–8(a)(3)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1320a–8/a/3&num=0&edition=prelim)) shall apply to such payment in the same manner as such section applies to a payment under title II or XVI of such Act.
+
+    (ii) In the case of a payment described in subparagraph (A) which is made with respect to a railroad retirement beneficiary, section 13 of the Railroad Retirement Act ([45 U.S.C. 231](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title45-section231&num=0&edition=prelim)l) shall apply to such payment in the same manner as such section applies to a payment under such Act.
+
+    (iii) In the case of a payment described in subparagraph (A) which is made with respect to a veterans beneficiary, sections 5502, 6106, and 6108 of title 38, United States Code, shall apply to such payment in the same manner as such sections apply to a payment under such title.
+
+(7) **Notice to taxpayer** — Not later than 15 days after the date on which the Secretary distributed any payment to an eligible taxpayer pursuant to this subsection, notice shall be sent by mail to such taxpayer’s last known address. Such notice shall indicate the method by which such payment was made, the amount of such payment, and a phone number for the appropriate point of contact at the Internal Revenue Service to report any failure to receive such payment.
+
+**(g) Identification number requirement**
+
+(1) **Requirements for credit** — Subject to paragraph (2), with respect to the credit allowed under subsection (a), the following provisions shall apply:
+
+  (A) *In general* — In the case of a return other than a joint return, the $1,200 amount in subsection (a)(1) shall be treated as being zero unless the taxpayer includes the valid identification number of the taxpayer on the return of tax for the taxable year.
+
+  (B) *Joint returns* — In the case of a joint return, the $2,400 amount in subsection (a)(1) shall be treated as being—
+
+    (i) $1,200 if the valid identification number of only 1 spouse is included on the return of tax for the taxable year, and
+
+    (ii) zero if the valid identification number of neither spouse is so included.
+
+  (C) *Qualifying child* — A qualifying child of a taxpayer shall not be taken into account under subsection (a)(2) unless—
+
+    (i) the taxpayer includes the valid identification number of such taxpayer (or, in the case of a joint return, the valid identification number of at least 1 spouse) on the return of tax for the taxable year, and
+
+    (ii) the valid identification number of such qualifying child is included on the return of tax for the taxable year.
+
+(2) **Requirements for advance refunds** — No refund shall be payable under subsection (f) to an eligible individual who does not include on the return of tax for the taxable year—
+
+  (A) such individual’s valid identification number,
+
+  (B) in the case of a joint return, the valid identification number of such individual’s spouse, and
+
+  (C) in the case of any qualifying child taken into account under subsection (a)(2), the valid identification number of such qualifying child.
+
+(3) **Valid identification number**
+
+  (A) *In general* — For purposes of this subsection, the term “valid identification number” means a social security number (as such term is defined in section 24(h)(7)).
+
+  (B) *Adoption taxpayer identification number* — For purposes of paragraphs (1)(C) and (2)(C), in the case of a qualifying child who is adopted or placed for adoption, the term “valid identification number” shall include the adoption taxpayer identification number of such child.
+
+(4) **Special rule for members of the Armed Forces** — Paragraphs (1)(B) and (2)(B) shall not apply in the case where at least 1 spouse was a member of the Armed Forces of the United States at any time during the taxable year and the valid identification number of at least 1 spouse is included on the return of tax for the taxable year.
+
+(5) **Mathematical or clerical error authority** — Any omission of a correct valid identification number required under this subsection shall be treated as a mathematical or clerical error for purposes of applying section 6213(g)(2) to such omission.
+
+**(h) Regulations** The Secretary shall prescribe such regulations or other guidance as may be necessary to carry out the purposes of this section, including any such measures as are deemed appropriate to avoid allowing multiple credits or rebates to a taxpayer.
 
 ### Statutory Notes
 
-Section, added Pub. L. 107–16, title I, § 101(b)(1), June 7, 2001, 115 Stat. 42; amended Pub. L. 107–147, title IV, § 411(a), Mar. 9, 2002, 116 Stat. 44; Pub. L. 110–185, title I, § 101(a), Feb. 13, 2008, 122 Stat. 613; Pub. L. 110–245, title I, §§ 101(a), 102(b), June 17, 2008, 122 Stat. 1625, related to 2008 recovery rebate for individuals.
+#### Prior Provisions
+A prior section 6428, added Pub. L. 107–16, title I, § 101(b)(1), June 7, 2001, 115 Stat. 42; amended Pub. L. 107–147, title IV, § 411(a), Mar. 9, 2002, 116 Stat. 44; Pub. L. 110–185, title I, § 101(a), Feb. 13, 2008, 122 Stat. 613; Pub. L. 110–245, title I, §§ 101(a), 102(b), June 17, 2008, 122 Stat. 1625, related to 2008 recovery rebate for individuals, prior to repeal by Pub. L. 113–295, div. A, title II, § 221(a)(112)(A), (b), Dec. 19, 2014, 128 Stat. 4054, 4055, effective Dec. 19, 2014, subject to a savings provision.
 
-A prior section 6428, added Pub. L. 94–12, title I, § 101(a), Mar. 29, 1975, 89 Stat. 27; amended Pub. L. 97–34, title I, § 101(b)(1), Aug. 13, 1981, 95 Stat. 182; Pub. L. 97–448, title I, § 101(a)(2), Jan. 12, 1983, 96 Stat. 2365, related to the 1981 rate reduction tax credit, prior to repeal by Pub. L. 101–508, title XI, § 11801(a)(47), Nov. 5, 1990, 104 Stat. 1388–522.
+Another prior section 6428, added Pub. L. 94–12, title I, § 101(a), Mar. 29, 1975, 89 Stat. 27; amended Pub. L. 97–34, title I, § 101(b)(1), Aug. 13, 1981, 95 Stat. 182; Pub. L. 97–448, title I, § 101(a)(2), Jan. 12, 1983, 96 Stat. 2365, related to the 1981 rate reduction tax credit, prior to repeal by Pub. L. 101–508, title XI, § 11801(a)(47), Nov. 5, 1990, 104 Stat. 1388–522.
 
-#### Effective Date of Repeal
-Repeal effective Dec. 19, 2014, subject to a savings provision, see section 221(b) of Pub. L. 113–295, set out as an Effective Date of 2014 Amendment note under [section 1 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-1).
+#### Amendments
+2020—Subsec. (c)(1). Pub. L. 116–260, § 273(a)(1), inserted “or a surviving spouse (as defined in section 2(a))” after “joint return”.
+
+Subsec. (f)(3)(A). Pub. L. 116–260, § 273(a)(2)(A), substituted “attributable to this subsection” for “attributable to this section”.
+
+Subsec. (f)(4). Pub. L. 116–260, § 273(a)(2)(B), substituted “subsection” for “section”.
+
+Subsec. (f)(6), (7). Pub. L. 116–260, § 273(a)(2)(C), added par. (6) and redesignated former par. (6) as (7).
+
+Subsec. (g). Pub. L. 116–260, § 273(a)(3), added subsec. (g) and struck out former subsec. (g) which set forth general provisions relating to identification number requirement, defined “valid identification number”, and set forth provisions relating to special rule for members of the Armed Forces and mathematical or clerical error authority.
+
+#### Effective Date of 2020 Amendment
+Pub. L. 116–260, div. N, title II, § 273(c), Dec. 27, 2020, 134 Stat. 1978, provided that: “The amendments made by this section [amending this section and provisions set out as a note under this section] shall take effect as if included in section 2201 of the CARES Act [Pub. L. 116–136, enacting this section, amending sections 6211 and 6213 of this title and [section 1324 of Title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1324&num=0&edition=prelim), Money and Finance, and enacting provisions set out as notes under this section].”
+
+#### Treatment of Possessions
+Pub. L. 116–136, div. A, title II, § 2201(c), Mar. 27, 2020, 134 Stat. 337, provided that: “(1) Payments to possessions.—“(A) Mirror code possession.—The Secretary of the Treasury shall pay to each possession of the United States which has a mirror code tax system amounts equal to the loss (if any) to that possession by reason of the amendments made by this section [enacting this section and amending sections 6211 and 6213 of this title and [section 1324 of Title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1324&num=0&edition=prelim), Money and Finance]. Such amounts shall be determined by the Secretary of the Treasury based on information provided by the government of the respective possession. “(B) Other possessions.—The Secretary of the Treasury shall pay to each possession of the United States which does not have a mirror code tax system amounts estimated by the Secretary of the Treasury as being equal to the aggregate benefits (if any) that would have been provided to residents of such possession by reason of the amendments made by this section if a mirror code tax system had been in effect in such possession. The preceding sentence shall not apply unless the respective possession has a plan, which has been approved by the Secretary of the Treasury, under which such possession will promptly distribute such payments to its residents. “(2) Coordination with credit allowed against united states income taxes.—No credit shall be allowed against United States income taxes under section 6428 of the Internal Revenue Code of 1986 (as added by this section) to any person—“(A) to whom a credit is allowed against taxes imposed by the possession by reason of the amendments made by this section, or “(B) who is eligible for a payment under a plan described in paragraph (1)(B). “(3) Definitions and special rules.—“(A) Possession of the united states.—For purposes of this subsection, the term ‘possession of the United States’ includes the Commonwealth of Puerto Rico and the Commonwealth of the Northern Mariana Islands. “(B) Mirror code tax system.—For purposes of this subsection, the term ‘mirror code tax system’ means, with respect to any possession of the United States, the income tax system of such possession if the income tax liability of the residents of such possession under such system is determined by reference to the income tax laws of the United States as if such possession were the United States. “(C) Treatment of payments.—For purposes of [section 1324 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1324&num=0&edition=prelim), United States Code, the payments under this subsection shall be treated in the same manner as a refund due from a credit provision referred to in subsection (b)(2) of such section.”
+
+#### Exception From Reduction or Offset
+Pub. L. 116–136, div. A, title II, § 2201(d), Mar. 27, 2020, 134 Stat. 338, as amended by Pub. L. 116–260, div. N, title II, § 273(b)(1), Dec. 27, 2020, 134 Stat. 1978, provided that: “Any refund payable by reason of section 6428(f) of the Internal Revenue Code of 1986 (as added by this section), or any such refund payable by reason of subsection (c) of this section [section 2201(c) of Pub. L. 116–136, set out above], shall not be— “(1) subject to reduction or offset pursuant to section 3716 or 3720A of title 31, United States Code, “(2) subject to reduction or offset pursuant to subsection (d), (e), or (f) of section 6402 of the Internal Revenue Code of 1986, or “(3) reduced or offset by other assessed Federal taxes that would otherwise be subject to levy or collection.”
+
+#### Public Awareness Campaign
+Pub. L. 116–136, div. A, title II, § 2201(e), Mar. 27, 2020, 134 Stat. 339, provided that: “The Secretary of the Treasury (or the Secretary’s delegate) shall conduct a public awareness campaign, in coordination with the Commissioner of Social Security and the heads of other relevant Federal agencies, to provide information regarding the availability of the credit and rebate allowed under section 6428 of the Internal Revenue Code of 1986 (as added by this section), including information with respect to individuals who may not have filed a tax return for taxable year 2018 or 2019.”
 
 #### Economic Recovery Payment to Recipients of Social Security, Supplemental Security Income, Railroad Retirement Benefits, and Veterans Disability Compensation or Pension Benefits
 Pub. L. 111–5, div. B, title II, § 2201, Feb. 17, 2009, 123 Stat. 450, provided for a $250 payment to individuals who, for any month during the 3-month period ending with the month which ended prior to the month that included Feb. 17, 2009, were entitled to certain Social Security, railroad retirement, or veterans benefit payments or were eligible for certain SSI cash benefits.
 
 #### Special Credit for Certain Government Retirees
 Pub. L. 111–5, div. B, title II, § 2202, Feb. 17, 2009, 123 Stat. 454, as amended by Pub. L. 113–295, § 209(i), Dec. 19, 2014, 128 Stat. 4030, provided that: “(a) In General.—In the case of an eligible individual, there shall be allowed as a credit against the tax imposed by subtitle A of the Internal Revenue Code of 1986 for the first taxable year beginning in 2009 an amount equal [to] $250 ($500 in the case of a joint return where both spouses are eligible individuals). “(b) Eligible Individual.—For purposes of this section—“(1) In general.—The term ‘eligible individual’ means any individual—“(A) who receives during the first taxable year beginning in 2009 any amount as a pension or annuity for service performed in the employ of the United States or any State, political subdivision of a State, or any instrumentality thereof, which is not considered employment for purposes of chapter 21 of the Internal Revenue Code of 1986, and “(B) who does not receive a payment under section 2201 [set out above] during such taxable year. “(2) Identification number requirement.—Such term shall not include any individual who does not include on the return of tax for the taxable year—“(A) such individual’s social security account number, and “(B) in the case of a joint return, the social security account number of one of the taxpayers on such return. For purposes of the preceding sentence, the social security account number shall not include a TIN (as defined in section 7701(a)(41) of the Internal Revenue Code of 1986) issued by the Internal Revenue Service. Any omission of a correct social security account number required under this subparagraph [probably should be “this paragraph”] shall be treated as a mathematical or clerical error for purposes of applying section 6213(g)(2) of such Code to such omission. “(c) Treatment of Credit.—“(1) Refundable credit.—“(A) In general.—The credit allowed by subsection (a) shall be treated as allowed by subpart C of part IV of subchapter A of chapter 1 of the Internal Revenue Code of 1986. “(B) Appropriations.—For purposes of [section 1324(b)(2) of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1324/b/2&num=0&edition=prelim), United States Code, the credit allowed by subsection (a) shall be treated in the same manner [as] a refund from the credit allowed under [former] section 36A of the Internal Revenue Code of 1986 (as added by this Act). “(2) Deficiency rules.—For purposes of section 6211(b)(4)(A) of the Internal Revenue Code of 1986, the credit allowable by subsection (a) shall be treated in the same manner as the credit allowable under [former] section 36A of the Internal Revenue Code of 1986 (as added by this Act). “(d) Refunds Disregarded in the Administration of Federal Programs and Federally Assisted Programs.—Any credit or refund allowed or made to any individual by reason of this section shall not be taken into account as income and shall not be taken into account as resources for the month of receipt and the following 2 months, for purposes of determining the eligibility of such individual or any other individual for benefits or assistance, or the amount or extent of benefits or assistance, under any Federal program or under any State or local program financed in whole or in part with Federal funds. “(e) Treatment of Possessions.—“(1) Payments to mirror code possessions.—The Secretary of the Treasury shall pay to each possession of the United States with a mirror code tax system amounts equal to the loss to that possession by reason of credits allowed under subsection (a) with respect to taxable years beginning in 2009. Such amounts shall be determined by the Secretary of the Treasury based on information provided by the government of the respective possession. “(2) Coordination with credit allowed against united states income taxes.—No credit shall be allowed against United States income taxes for any taxable year under this section to any person to whom a credit is allowed against taxes imposed by the possession by reason of the credit allowed under subsection (a) for such taxable year. “(3) Definitions and special rules.—“(A) Possession of the united states.—For purposes of this subsection, the term ‘possession of the United States’ includes the Commonwealth of the Northern Mariana Islands. “(B) Mirror code tax system.—For purposes of this subsection, the term ‘mirror code tax system’ means, with respect to any possession of the United States, the income tax system of such possession if the income tax liability of the residents of such possession under such system is determined by reference to the income tax laws of the United States as if such possession were the United States. “(C) Treatment of payments.—For purposes of [section 1324(b)(2) of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1324/b/2&num=0&edition=prelim), United States Code, the payments under this subsection shall be treated in the same manner as a refund due from the credit allowed under [former] section 36A of the Internal Revenue Code of 1986 (as added by this Act).”
+
+
+<a id="section-6428a"></a>
+## § 6428A. Additional 2020 recovery rebates for individuals
+**(a) In general** In addition to the credit allowed under section 6428, in the case of an eligible individual, there shall be allowed as a credit against the tax imposed by subtitle A for the first taxable year beginning in 2020 an amount equal to the sum of—
+
+(1) $600 ($1,200 in the case of eligible individuals filing a joint return), plus
+
+(2) an amount equal to the product of $600 multiplied by the number of qualifying children (within the meaning of section 24(c)) of the taxpayer.
+
+**(b) Treatment of credit** The credit allowed by subsection (a) shall be treated as allowed by subpart C of part IV of subchapter A of chapter 1.
+
+**(c) Limitation based on adjusted gross income** The amount of the credit allowed by subsection (a) (determined without regard to this subsection and subsection (e)) shall be reduced (but not below zero) by 5 percent of so much of the taxpayer’s adjusted gross income as exceeds—
+
+(1) $150,000 in the case of a joint return or a surviving spouse (as defined in section 2(a)),
+
+(2) $112,500 in the case of a head of household (as defined in section 2(b)), and
+
+(3) $75,000 in the case of a taxpayer not described in paragraph (1) or (2).
+
+**(d) Eligible individual** For purposes of this section, the term “eligible individual” means any individual other than—
+
+(1) any nonresident alien individual,
+
+(2) any individual with respect to whom a deduction under section 151 is allowable to another taxpayer for a taxable year beginning in the calendar year in which the individual’s taxable year begins, and
+
+(3) an estate or trust.
+
+**(e) Coordination with advance refunds of credit**
+
+(1) **In general** — The amount of the credit which would (but for this paragraph) be allowable under this section shall be reduced (but not below zero) by the aggregate refunds and credits made or allowed to the taxpayer under subsection (f). Any failure to so reduce the credit shall be treated as arising out of a mathematical or clerical error and assessed according to section 6213(b)(1).
+
+(2) **Joint returns** — Except as otherwise provided by the Secretary, in the case of a refund or credit made or allowed under subsection (f) with respect to a joint return, half of such refund or credit shall be treated as having been made or allowed to each individual filing such return.
+
+**(f) Advance refunds and credits**
+
+(1) **In general** — Each individual who was an eligible individual for such individual’s first taxable year beginning in 2019 shall be treated as having made a payment against the tax imposed by chapter 1 for such taxable year in an amount equal to the advance refund amount for such taxable year.
+
+(2) **Advance refund amount** — For purposes of paragraph (1), the advance refund amount is the amount that would have been allowed as a credit under this section for such taxable year if this section (other than subsection (e) and this subsection) had applied to such taxable year. For purposes of determining the advance refund amount with respect to such taxable year—
+
+  (A) any individual who was deceased before January 1, 2020, shall be treated for purposes of applying subsection (g) in the same manner as if the valid identification number of such person was not included on the return of tax for such taxable year, and
+
+  (B) no amount shall be determined under this subsection with respect to any qualifying child of the taxpayer if—
+
+    (i) the taxpayer was deceased before January 1, 2020, or
+
+    (ii) in the case of a joint return, both taxpayers were deceased before January 1, 2020.
+
+(3) **Timing and manner of payments**
+
+  (A) *Timing*
+
+    (i) *In general* — The Secretary shall, subject to the provisions of this title, refund or credit any overpayment attributable to this subsection as rapidly as possible.
+
+    (ii) *Deadline*
+
+      (I) *In general* — Except as provided in subclause (II), no refund or credit shall be made or allowed under this subsection after January 15, 2021.
+
+      (II) *Exception for mirror code possessions* — In the case of a possession of the United States which has a mirror code tax system (as such terms are defined in section 272(c) of the COVID-related Tax Relief Act of 2020), no refund or credit shall be made or allowed under this subsection after the earlier of—
+
+        (aa) such date as is determined appropriate by the Secretary, or
+
+        (bb) September 30, 2021.
+
+  (B) *Delivery of payments* — Notwithstanding any other provision of law, the Secretary may certify and disburse refunds payable under this subsection electronically to—
+
+    (i) any account to which the payee authorized, on or after January 1, 2019, the delivery of a refund of taxes under this title or of a Federal payment (as defined in [section 3332 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section3332&num=0&edition=prelim), United States Code),
+
+    (ii) any account belonging to a payee from which that individual, on or after January 1, 2019, made a payment of taxes under this title, or
+
+    (iii) any Treasury-sponsored account (as defined in section 208.2 of title 31, Code of Federal Regulations).
+
+  (C) *Waiver of certain rules* — Notwithstanding [section 3325 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section3325&num=0&edition=prelim), United States Code, or any other provision of law, with respect to any payment of a refund under this subsection, a disbursing official in the executive branch of the United States Government may modify payment information received from an officer or employee described in section 3325(a)(1)(B) of such title for the purpose of facilitating the accurate and efficient delivery of such payment. Except in cases of fraud or reckless neglect, no liability under sections 3325, 3527, 3528, or 3529 of title 31, United States Code, shall be imposed with respect to payments made under this subparagraph.
+
+(4) **No interest** — No interest shall be allowed on any overpayment attributable to this subsection.
+
+(5) **Application to certain individuals who do not file a return of tax for 2019**
+
+  (A) *In general* — In the case of a specified individual who, at the time of any determination made pursuant to paragraph (3), has not filed a tax return for the year described in paragraph (1), the Secretary may use information with respect to such individual which is provided by—
+
+    (i) in the case of a specified social security beneficiary or a specified supplemental security income recipient, the Commissioner of Social Security,
+
+    (ii) in the case of a specified railroad retirement beneficiary, the Railroad Retirement Board, and
+
+    (iii) in the case of a specified veterans beneficiary, the Secretary of Veterans Affairs (in coordination with, and with the assistance of, the Commissioner of Social Security if appropriate).
+
+  (B) *Specified individual* — For purposes of this paragraph, the term “specified individual” means any individual who is—
+
+    (i) a specified social security beneficiary,
+
+    (ii) a specified supplemental security income recipient,
+
+    (iii) a specified railroad retirement beneficiary, or
+
+    (iv) a specified veterans beneficiary.
+
+  (C) *Specified social security beneficiary*
+
+    (i) *In general* — For purposes of this paragraph, the term “specified social security beneficiary” means any individual who, for the last month for which the Secretary has available information as of the date of enactment of this section, is entitled to any monthly insurance benefit payable under title II of the Social Security Act ([42 U.S.C. 401](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section401&num=0&edition=prelim) et seq.), including payments made pursuant to sections 202(d), 223(g), and 223(i)(7) of such Act.
+
+    (ii) *Exception* — For purposes of this paragraph, the term “specified social security beneficiary” shall not include any individual if such benefit is not payable for such month by reason of section 202(x)(1)(A) of the Social Security Act ([42 U.S.C. 402(x)(1)(A)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section402/x/1/A&num=0&edition=prelim)) or section 1129A of such Act ([42 U.S.C. 1320a–8a](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1320a–8a&num=0&edition=prelim)).
+
+  (D) *Specified supplemental security income recipient*
+
+    (i) *In general* — For purposes of this paragraph, the term “specified supplemental security income recipient” means any individual who, for the last month for which the Secretary has available information as of the date of enactment of this section, is eligible for a monthly benefit payable under title XVI of the Social Security Act ([42 U.S.C. 1381](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1381&num=0&edition=prelim) et seq.), including—
+
+      (I) payments made pursuant to section 1614(a)(3)(C) of such Act ([42 U.S.C. 1382c(a)(3)(C)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1382c/a/3/C&num=0&edition=prelim)),
+
+      (II) payments made pursuant to section 1619(a) ([42 U.S.C. 1382h(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1382h/a&num=0&edition=prelim)) or subsections (a)(4), (a)(7), or (p)(7) of section 1631 ([42 U.S.C. 1383](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1383&num=0&edition=prelim)) of such Act, and
+
+      (III) State supplementary payments of the type referred to in section 1616(a) of such Act ([42 U.S.C. 1382e(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1382e/a&num=0&edition=prelim)) (or payments of the type described in section 212(a) of Public Law 93–66) which are paid by the Commissioner under an agreement referred to in such section 1616(a) (or section 212(a) of Public Law 93–66).
+
+    (ii) *Exception* — For purposes of this paragraph, the term “specified supplemental security income recipient” shall not include any individual if such monthly benefit is not payable for such month by reason of section 1611(e)(1)(A) of the Social Security Act ([42 U.S.C. 1382(e)(1)(A)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1382/e/1/A&num=0&edition=prelim)) or section 1129A of such Act ([42 U.S.C. 1320a–8a](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1320a–8a&num=0&edition=prelim)).
+
+  (E) *Specified railroad retirement beneficiary* — For purposes of this paragraph, the term “specified railroad retirement beneficiary” means any individual who, for the last month for which the Secretary has available information as of the date of enactment of this section, is entitled to a monthly annuity or pension payment payable (without regard to section 5(a)(ii) of the Railroad Retirement Act of 1974 ([45 U.S.C. 231d(a)(ii)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title45-section231d/a/ii&num=0&edition=prelim))) under—
+
+    (i) section 2(a)(1) of such Act ([45 U.S.C. 231a(a)(1)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title45-section231a/a/1&num=0&edition=prelim)),
+
+    (ii) section 2(c) of such Act ([45 U.S.C. 231a(c)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title45-section231a/c&num=0&edition=prelim)),
+
+    (iii) section 2(d)(1) of such Act ([45 U.S.C. 231a(d)(1)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title45-section231a/d/1&num=0&edition=prelim)), or
+
+    (iv) section 7(b)(2) of such Act ([45 U.S.C. 231f(b)(2)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title45-section231f/b/2&num=0&edition=prelim)) with respect to any of the benefit payments described in subparagraph (C)(i).
+
+  (F) *Specified veterans beneficiary*
+
+    (i) *In general* — For purposes of this paragraph, the term “specified veterans beneficiary” means any individual who, for the last month for which the Secretary has available information as of the date of enactment of this section, is entitled to a compensation or pension payment payable under—
+
+      (I) section 1110, 1117, 1121, 1131, 1141, or 1151 of title 38, United States Code,
+
+      (II) section 1310, 1312, 1313, 1315, 1316, or 1318 of title 38, United States Code,
+
+      (III) section 1513, 1521, 1533, 1536, 1537, 1541, 1542, or 1562 of title 38, United States Code, or
+
+      (IV) section 1805, 1815, or 1821 of title 38, United States Code,
+    to a veteran, surviving spouse, child, or parent as described in paragraph (2), (3), (4)(A)(ii), or (5) of section 101, title 38, United States Code.
+
+    (ii) *Exception* — For purposes of this paragraph, the term “specified veterans beneficiary” shall not include any individual if such compensation or pension payment is not payable, or was reduced, for such month by reason of section 1505 or 5313 of title 38, United States Code.
+
+  (G) *Subsequent determinations and redeterminations not taken into account* — For purposes of this section, any individual’s status as a specified social security beneficiary, a specified supplemental security income recipient, a specified railroad retirement beneficiary, or a specified veterans beneficiary shall be unaffected by any determination or redetermination of any entitlement to, or eligibility for, any benefit, payment, or compensation, if such determination or redetermination occurs after the last month for which the Secretary has available information as of the date of enactment of this section.
+
+  (H) *Payment to representative payees and fiduciaries*
+
+    (i) *In general* — If the benefit, payment, or compensation referred to in subparagraph (C)(i), (D)(i), (E), or (F)(i) with respect to any specified individual is paid to a representative payee or fiduciary, payment by the Secretary under paragraph (3) with respect to such specified individual shall be made to such individual’s representative payee or fiduciary and the entire payment shall be used only for the benefit of the individual who is entitled to the payment.
+
+    (ii) *Application of enforcement provisions*
+
+      (I) In the case of a payment described in clause (i) which is made with respect to a specified social security beneficiary or a specified supplemental security income recipient, section 1129(a)(3) of the Social Security Act ([42 U.S.C. 1320a–8(a)(3)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1320a–8/a/3&num=0&edition=prelim)) shall apply to such payment in the same manner as such section applies to a payment under title II or XVI of such Act.
+
+      (II) In the case of a payment described in clause (i) which is made with respect to a specified railroad retirement beneficiary, section 13 of the Railroad Retirement Act ([45 U.S.C. 231](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title45-section231&num=0&edition=prelim)l) shall apply to such payment in the same manner as such section applies to a payment under such Act.
+
+      (III) In the case of a payment described in clause (i) which is made with respect to a specified veterans beneficiary, sections 5502, 6106, and 6108 of title 38, United States Code, shall apply to such payment in the same manner as such sections apply to a payment under such title.
+
+  (I) *Ineligibility for special rule not to be interpreted as general ineligibility* — An individual shall not fail to be treated as an eligible individual for purposes of this subsection or subsection (a) merely because such individual is not a specified individual (including by reason of subparagraph (C)(ii), (D)(ii), or (F)(ii)).
+
+(6) **Notice to taxpayer** — As soon as practicable after the date on which the Secretary distributed any payment to an eligible taxpayer pursuant to this subsection, the Secretary shall send notice by mail to such taxpayer’s last known address. Such notice shall indicate the method by which such payment was made, the amount of such payment, and a phone number for the appropriate point of contact at the Internal Revenue Service to report any failure to receive such payment.
+
+**(g) Identification number requirement**
+
+(1) **In general** — In the case of a return other than a joint return, the $600 amount in subsection (a)(1) shall be treated as being zero unless the taxpayer includes the valid identification number of the taxpayer on the return of tax for the taxable year.
+
+(2) **Joint returns** — In the case of a joint return, the $1,200 amount in subsection (a)(1) shall be treated as being—
+
+  (A) $600 if the valid identification number of only 1 spouse is included on the return of tax for the taxable year, and
+
+  (B) zero if the valid identification number of neither spouse is so included.
+
+(3) **Qualifying child** — A qualifying child of a taxpayer shall not be taken into account under subsection (a)(2) unless—
+
+  (A) the taxpayer includes the valid identification number of such taxpayer (or, in the case of a joint return, the valid identification number of at least 1 spouse) on the return of tax for the taxable year, and
+
+  (B) the valid identification number of such qualifying child is included on the return of tax for the taxable year.
+
+(4) **Valid identification number**
+
+  (A) *In general* — For purposes of this subsection, the term “valid identification number” means a social security number (as such term is defined in section 24(h)(7)).
+
+  (B) *Adoption taxpayer identification number* — For purposes of paragraph (3)(B), in the case of a qualifying child who is adopted or placed for adoption, the term “valid identification number” shall include the adoption taxpayer identification number of such child.
+
+(5) **Special rule for members of the Armed Forces** — Paragraph (2) shall not apply in the case where at least 1 spouse was a member of the Armed Forces of the United States at any time during the taxable year and the valid identification number of at least 1 spouse is included on the return of tax for the taxable year.
+
+(6) **Coordination with certain advance payments** — In the case of any payment under subsection (f) which is based on information provided under paragraph (5) of such subsection, a valid identification number shall be treated for purposes of this subsection as included on the taxpayer’s return of tax if such valid identification number is provided pursuant to subsection (f)(5).
+
+(7) **Mathematical or clerical error authority** — Any omission of a correct valid identification number required under this subsection shall be treated as a mathematical or clerical error for purposes of applying section 6213(g)(2) to such omission.
+
+**(h) Regulations** The Secretary shall prescribe such regulations or other guidance as may be necessary to carry out the purposes of this section, including any such measures as are deemed appropriate to avoid allowing multiple credits or rebates to a taxpayer.
+
+### Statutory Notes
+
+#### References in Text
+Section 272(c) of the COVID-related Tax Relief Act of 2020, referred to in subsec. (f)(3)(A)(ii)(II), is section 272(c) of title II of div. N of Pub. L. 116–260, which is set out as a note under this section.
+
+The date of enactment of this section, referred to in subsec. (f)(5)(C) to (G), means the date of enactment of Pub. L. 116–260, which was approved Dec. 27, 2020.
+
+The Social Security Act, referred to in subsec. (f)(5)(C), (D), (H)(ii)(I), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Titles II and XVI of the Act are classified generally to subchapters II (§ 401 et seq.) and XVI (§ 1381 et seq.), respectively, of chapter 7 of Title 42, The Public Health and Welfare. Sections 202 and 223 of the Act are classified to sections 402 and 423, respectively, of Title 42. For complete classification of this Act to the Code, see [section 1305 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1305&num=0&edition=prelim) and Tables.
+
+Section 212(a) of Public Law 93–66, referred to in subsec. (f)(5)(D)(i)(III), is section 212(a) of title II of Pub. L. 93–66, July 9, 1973, 87 Stat. 155, which is set out as a note under [section 1382 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1382&num=0&edition=prelim).
+
+Such Act, referred to in subsec. (f)(5)(H)(ii)(II), means the Railroad Retirement Act of 1974, act Aug. 29, 1935, ch. 812, as amended generally by Pub. L. 93–445, title I, § 101, Oct. 16, 1974, 88 Stat. 1305, which is classified generally to subchapter IV (§ 231 et seq.) of chapter 9 of Title 45, Railroads. For further details and complete classification of this Act to the Code, see Codification note set out preceding [section 231 of Title 45](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title45-section231&num=0&edition=prelim), [section 231t of Title 45](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title45-section231t&num=0&edition=prelim), and Tables.
+
+#### Treatment of United States Possessions
+Pub. L. 116–260, div. N, title II, § 272(c), Dec. 27, 2020, 134 Stat. 1971, provided that: “(1) Payments to possessions.—“(A) Mirror code possession.—The Secretary of the Treasury shall pay to each possession of the United States which has a mirror code tax system amounts equal to the loss (if any) to that possession by reason of the amendments made by this section [enacting this section and amending sections 6211 and 6213 of this title and [section 1324 of Title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1324&num=0&edition=prelim), Money and Finance]. Such amounts shall be determined by the Secretary of the Treasury based on information provided by the government of the respective possession. “(B) Other possessions.—The Secretary of the Treasury shall pay to each possession of the United States which does not have a mirror code tax system amounts estimated by the Secretary of the Treasury as being equal to the aggregate benefits (if any) that would have been provided to residents of such possession by reason of the amendments made by this section if a mirror code tax system had been in effect in such possession. The preceding sentence shall not apply unless the respective possession has a plan, which has been approved by the Secretary of the Treasury, under which such possession will promptly distribute such payments to its residents. “(2) Coordination with credit allowed against united states income taxes.—No credit shall be allowed against United States income taxes under section 6428A of the Internal Revenue Code of 1986 (as added by this section) to any person—“(A) to whom a credit is allowed against taxes imposed by the possession by reason of the amendments made by this section, or “(B) who is eligible for a payment under a plan described in paragraph (1)(B). “(3) Definitions and special rules.—“(A) Possession of the united states.—For purposes of this subsection, the term ‘possession of the United States’ includes the Commonwealth of Puerto Rico and the Commonwealth of the Northern Mariana Islands. “(B) Mirror code tax system.—For purposes of this subsection, the term ‘mirror code tax system’ means, with respect to any possession of the United States, the income tax system of such possession if the income tax liability of the residents of such possession under such system is determined by reference to the income tax laws of the United States as if such possession were the United States. “(C) Treatment of payments.—For purposes of [section 1324 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1324&num=0&edition=prelim), United States Code, the payments under this subsection shall be treated in the same manner as a refund due from a credit provision referred to in subsection (b)(2) of such section.”
+
+#### Administrative Provisions
+Pub. L. 116–260, div. N, title II, § 272(d), Dec. 27, 2020, 134 Stat. 1972, provided that: “(1) Exception from reduction or offset.—Any refund payable by reason of section 6428A(f) of the Internal Revenue Code of 1986 (as added by this section), or any such refund payable by reason of subsection (c) of this section [set out above], shall not be—“(A) subject to reduction or offset pursuant to section 3716 or 3720A of title 31, United States Code, “(B) subject to reduction or offset pursuant to subsection (c), (d), (e), or (f) of section 6402 of the Internal Revenue Code of 1986, or “(C) reduced or offset by other assessed Federal taxes that would otherwise be subject to levy or collection. “(2) Assignment of benefits.—“(A) In general.—The right of any person to any applicable payment shall not be transferable or assignable, at law or in equity, and no applicable payment shall be subject to, execution, levy, attachment, garnishment, or other legal process, or the operation of any bankruptcy or insolvency law. “(B) Encoding of payments.—In the case of an applicable payment described in subparagraph (E)(iii)(I) that is paid electronically by direct deposit through the Automated Clearing House (ACH) network, the Secretary of the Treasury (or the Secretary’s delegate) shall—“(i) issue the payment using a unique identifier that is reasonably sufficient to allow a financial institution to identify the payment as an applicable payment, and “(ii) further encode the payment pursuant to the same specifications as required for a benefit payment defined in section 212.3 of title 31, Code of Federal Regulations. “(C) Garnishment.—“(i) Encoded payments.—In the case of a garnishment order that applies to an account that has received an applicable payment that is encoded as provided in subparagraph (B), a financial institution shall follow the requirements and procedures set forth in part 212 of title 31, Code of Federal Regulations, except—“(I) notwithstanding section 212.4 of title 31, Code of Federal Regulations (and except as provided in subclause (II)), a financial institution shall not fail to follow the procedures of sections 212.5 and 212.6 of such title with respect to a garnishment order merely because such order has attached, or includes, a notice of right to garnish federal benefits issued by a State child support enforcement agency, and “(II) a financial institution shall not, with regard to any applicable payment, be required to provide the notice referenced in sections 212.6 and 212.7 of title 31, Code of Federal Regulations. “(ii) Other payments.—In the case of a garnishment order (other than an order that has been served by the United States) that has been received by a financial institution and that applies to an account into which an applicable payment that has not been encoded as provided in subparagraph (B) has been deposited electronically on any date during the lookback period or into which an applicable payment that has been deposited by check on any date in the lookback period, the financial institution, upon the request of the account holder, shall treat the amount of the funds in the account at the time of the request, up to the amount of the applicable payment (in addition to any amounts otherwise protected under part 212 of title 31, Code of Federal Regulations), as exempt from a garnishment order without requiring the consent of the party serving the garnishment order or the judgment creditor. “(iii) Liability.—A financial institution that acts in good faith in reliance on clauses (i) or (ii) shall not be subject to liability or regulatory action under any Federal or State law, regulation, court or other order, or regulatory interpretation for actions concerning any applicable payments. “(D) No reclamation rights.—This paragraph shall not alter the status of applicable payments as tax refunds or other nonbenefit payments for purpose of any reclamation rights of the Department of the Treasury or the Internal Revenue Service as per part 210 of title 31, Code of Federal Regulations. “(E) Definitions.—For purposes of this paragraph—“(i) Account holder.—The term ‘account holder’ means a natural person whose name appears in a financial institution’s records as the direct or beneficial owner of an account. “(ii) Account review.—The term ‘account review’ means the process of examining deposits in an account to determine if an applicable payment has been deposited into the account during the lookback period. The financial institution shall perform the account review following the procedures outlined in section 212.5 of title 31, Code of Federal Regulations and in accordance with the requirements of section 212.6 of title 31, Code of Federal Regulations. “(iii) Applicable payment.—The term ‘applicable payment’ means—“(I) any advance refund amount paid pursuant to section 6428A(f) of Internal Revenue Code of 1986 (as added by this section), “(II) any payment made by a possession of the United States with a mirror code tax system (as defined in subsection (c) of this section) pursuant to such subsection which corresponds to a payment described in subclause (I), and “(III) any payment made by a possession of the United States without a mirror code tax system (as so defined) pursuant to subsection (c) of this section. “(iv) Garnishment.—The term ‘garnishment’ means execution, levy, attachment, garnishment, or other legal process. “(v) Garnishment order.—The term ‘garnishment order’ means a writ, order, notice, summons, judgment, levy, or similar written instruction issued by a court, a State or State agency, a municipality or municipal corporation, or a State child support enforcement agency, including a lien arising by operation of law for overdue child support or an order to freeze the assets in an account, to effect a garnishment against a debtor. “(vi) Lookback period.—The term ‘lookback period’ means the two month period that begins on the date preceding the date of account review and ends on the corresponding date of the month two months earlier, or on the last date of the month two months earlier if the corresponding date does not exist. “(3) Agency information sharing and assistance.—“(A) In general.—The Commissioner of Social Security, the Railroad Retirement Board, and the Secretary of Veterans Affairs shall each provide the Secretary of the Treasury (or the Secretary’s delegate) such information and assistance as the Secretary of the Treasury (or the Secretary’s delegate) may require for purposes of—“(i) making payments under section 6428A(f) of the Internal Revenue Code of 1986 to individuals described in paragraph (5)(A) thereof, or “(ii) providing administrative assistance to a possession of the United States (as defined in subsection (c)(3)(A)[set out above]) to allow such possession to promptly distribute payments under subsection (c) to its residents. “(B) Exchange of information with possessions.—Any information provided to the Secretary of the Treasury (or the Secretary’s delegate) pursuant to subparagraph (A)(ii) may be exchanged with a possession of the United States in accordance with the applicable tax coordination agreement for information exchange and administrative assistance that the Internal Revenue Service has agreed to with such possession.”
+
+#### Public Awareness Campaign
+Pub. L. 116–260, div. N, title II, § 272(e), Dec. 27, 2020, 134 Stat. 1975, provided that: “The Secretary of the Treasury (or the Secretary’s delegate) shall conduct a public awareness campaign, in coordination with the Commissioner of Social Security and the heads of other relevant Federal agencies, to provide information regarding the availability of the credit and rebate allowed under section 6428A of the Internal Revenue Code of 1986 (as added by this section), including information with respect to individuals who may not have filed a tax return for taxable year 2019.”
 
 
 <a id="section-6429"></a>

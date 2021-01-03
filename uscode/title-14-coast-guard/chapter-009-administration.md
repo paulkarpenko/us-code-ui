@@ -83,7 +83,7 @@ Changes were made in phraseology. 81st Congress, House Report No. 557.
 
 <a id="section-903"></a>
 ## § 903. Use of certain appropriated funds
-**(a)** Funds appropriated to or for the use of the Coast Guard for acquisition, construction, and improvement of facilities, for research, development, test, and evaluation; and for the alteration of bridges over the navigable waters shall remain available until expended.
+**(a)** Funds appropriated to or for the use of the Coast Guard for procurement, construction, and improvement of facilities and for research and development shall remain available until expended.
 
 **(b)** The Secretary may use any funds appropriated to or for the use of the Coast Guard for other construction purposes to restore, repair, or replace facilities that have been damaged or destroyed, including acquisition of sites.
 
@@ -91,13 +91,20 @@ Changes were made in phraseology. 81st Congress, House Report No. 557.
 
 **(d) Minor Construction and Improvement.—**
 
-(1) **In general.—** — Subject to the reporting requirements set forth in paragraph (2), each fiscal year the Secretary may expend from amounts made available for the operating expenses of the Coast Guard not more than $1,500,000 for minor construction and improvement projects at any location.
+(1) **In general.—** — Subject to the reporting requirements set forth in paragraph (2), each fiscal year the Secretary may expend from amounts made available for the operations and support of the Coast Guard not more than $1,500,000 for minor construction and improvement projects at any location.
 
 (2) **Report.—** — Not later than the date on which the President submits to Congress a budget under [section 1105 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1105&num=0&edition=prelim) each year, the Secretary shall submit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a report describing each project carried out under paragraph (1), in the most recently concluded fiscal year, for which the amount expended under such paragraph for such project was more than $1,000,000. If no such project was carried out during a fiscal year, no report under this paragraph shall be required with respect to that fiscal year.
 
 ### Statutory Notes
 
+#### Codification
+Section 8513(a)(2)(B) of Pub. L. 116–283 amended subsec. (d)(1) of this section “amended by section 241(b)(1)”. Section 241(a), (b) of Pub. L. 116–283, set out as a note preceding [section 501 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section501&num=0&edition=prelim), Armed Forces, does not amend this section. Section 261(a)(1) of S. 2297, 116th Congress, known as the Coast Guard Authorization Act of 2019, as reported to the Senate, would have amended subsec. (d)(1) of this title by striking “reporting” and inserting “briefing”. S. 2297 was not enacted into law.
+
 #### Amendments
+2021—Subsec. (a). Pub. L. 116–283, § 8513(a)(2)(A), substituted “procurement, construction, and improvement of facilities and for research and development” for “acquisition, construction, and improvement of facilities, for research, development, test, and evaluation; and for the alteration of bridges over the navigable waters”.
+
+Subsec. (d)(1). Pub. L. 116–283, § 8513(a)(2)(B), substituted “operations and support” for “operating expenses”.
+
 2018—Pub. L. 115–282 renumbered [section 656 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section656&num=0&edition=prelim) as this section.
 
 2014—Subsec. (d)(2). Pub. L. 113–281 amended par. (2) generally. Prior to amendment, text read as follows: “Not later than 90 days after the end of each fiscal year, the Secretary shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a report on each project undertaken during the course of the preceding fiscal year for which the amount expended under paragraph (1) exceeded $500,000.”
@@ -362,7 +369,7 @@ Pub. L. 107–295, title IV, § 405(b), Nov. 25, 2002, 116 Stat. 2116, provided 
 
 Subsec. (a). Pub. L. 115–282, § 319(1), (2), redesignated subsec. (b) as (a) and struck out former subsec. (a) which prohibited the Coast Guard from closing certain air facilities or retiring, transferring, relocating, or deploying an aviation asset for the purpose of closing such facilities.
 
-2018—Subsec. (a)(3). Pub. L. 115–282, § 319(3)(A), amended par. (3) generally. Prior to amendment, text read as follows: “Prior to closing an air facility, the Secretary shall provide opportunities for public comment, including the convening of public meetings in communities in the area of responsibility of the air facility with regard to the proposed closure or cessation of operations at the air facility.”
+Subsec. (a)(3). Pub. L. 115–282, § 319(3)(A), amended par. (3) generally. Prior to amendment, text read as follows: “Prior to closing an air facility, the Secretary shall provide opportunities for public comment, including the convening of public meetings in communities in the area of responsibility of the air facility with regard to the proposed closure or cessation of operations at the air facility.”
 
 Subsec. (a)(4). Pub. L. 115–282, § 319(3)(B)(i), substituted “2017” for “2015” in introductory provisions.
 
@@ -398,7 +405,7 @@ Amendment by Pub. L. 114–328 effective as if included in the enactment of Pub.
 
 <a id="section-914"></a>
 ## § 914. Disposition of infrastructure related to E–LORAN
-**(a) In General.—** The Secretary may not carry out activities related to the dismantling or disposal of infrastructure comprising the LORAN–C system until the date on which the Secretary provides to the Committee on Transportation and Infrastructure and the Committee on Appropriations of the House of Representatives and the Committee on Commerce, Science, and Transportation and the Committee on Appropriations of the Senate notice of a determination by the Secretary that such infrastructure is not required to provide a positioning, navigation, and timing system to provide redundant capability in the event the Global Positioning System signals are disrupted.
+**(a) In General.—** The Secretary may not carry out activities related to the dismantling or disposal of infrastructure comprising the LORAN–C system until the later of the date of the conveyance of the properties directed under section 533(a) of the Coast Guard Authorization Act of 2016 (Public Law 114–120) or the date on which the Secretary provides to the Committee on Transportation and Infrastructure and the Committee on Appropriations of the House of Representatives and the Committee on Commerce, Science, and Transportation and the Committee on Appropriations of the Senate notice of a determination by the Secretary of Transportation under [section 312(d) of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section312/d&num=0&edition=prelim) that such infrastructure is not required to provide a positioning, navigation, and timing system to provide redundant capability in the event the Global Positioning System signals are disrupted.
 
 **(b) Exception.—** Subsection (a) does not apply to activities necessary for the safety of human life.
 
@@ -406,23 +413,18 @@ Amendment by Pub. L. 114–328 effective as if included in the enactment of Pub.
 
 (1) **In general.—** — On any date after the notification is made under subsection (a), the Administrator of General Services, acting on behalf of the Secretary, may, notwithstanding any other provision of law, sell any real and personal property under the administrative control of the Coast Guard and used for the LORAN–C system, subject to such terms and conditions that the Secretary believes to be necessary to protect government interests and program requirements of the Coast Guard.
 
-(2) **Availability of proceeds.—**
-
-  (A) *Availability of proceeds.—* — The proceeds of such sales, less the costs of sale incurred by the General Services Administration, shall be deposited as offsetting collections into the Coast Guard “Environmental Compliance and Restoration” account and, without further appropriation, shall be available until expended for—
-
-    (i) environmental compliance and restoration purposes associated with the LORAN–C system;
-
-    (ii) the costs of securing and maintaining equipment that may be used as a backup to the Global Positioning System or to meet any other Federal navigation requirement;
-
-    (iii) the demolition of improvements on such real property; and
-
-    (iv) the costs associated with the sale of such real and personal property, including due diligence requirements, necessary environmental remediation, and reimbursement of expenses incurred by the General Services Administration.
-
-  (B) *Other environmental compliance and restoration activities.—* — After the completion of activities described in subparagraph (A), the unexpended balances of such proceeds shall be available for any other environmental compliance and restoration activities of the Coast Guard.
+(2) **Availability of proceeds.—** — The proceeds of such sales, less the costs of sale incurred by the General Services Administration, shall be deposited into the Coast Guard Housing Fund for uses authorized under [section 2946 of this title](./chapter-029-coast-guard-family-support-child-care-and-housing.md#section-2946).
 
 ### Statutory Notes
 
+#### References in Text
+Section 533(a) of the Coast Guard Authorization Act of 2016, referred to in subsec. (a), is section 533(a) of Pub. L. 114–120, title V, Feb. 8, 2016, 130 Stat. 74, which is not classified to the Code.
+
 #### Amendments
+2021—Subsec. (a). Pub. L. 116–283, § 8216(1), substituted “later of the date of the conveyance of the properties directed under section 533(a) of the Coast Guard Authorization Act of 2016 (Public Law 114–120) or the date” for “date”.
+
+Subsec. (c)(2). Pub. L. 116–283, § 8216(2), added par. (2) and struck out former par. (2) which related to availability of proceeds.
+
 2018—Pub. L. 115–282 renumbered [section 681 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section681&num=0&edition=prelim), relating to disposition of infrastructure related to E–LORAN, as this section.
 
 
@@ -471,7 +473,7 @@ Said sections are rewritten, the provisions concerning oaths being broadened to 
 ## § 933. Coast Guard ensigns and pennants
 **(a)** Vessels and aircraft authorized by the Secretary shall be distinguished from other vessels and aircraft by an ensign, pennant, or other identifying insignia of such design as prescribed by the Secretary. Such ensign, pennant, or other identifying insignia shall be displayed in accordance with regulations prescribed by the Secretary.
 
-**(b)** No vessel or aircraft without authority shall carry, hoist, or display any ensign, pennant, or other identifying insignia prescribed for, or intended to resemble, any ensign, pennant, or other identifying insignia prescribed for Coast Guard vessels or aircraft. Every person violating this subsection shall be fined not more than $5,000, or imprisoned for not more than two years, or both.
+**(b)** No vessel or aircraft without authority shall carry, hoist, or display any ensign, pennant, or other identifying insignia prescribed for, or intended to resemble, any ensign, pennant, or other identifying insignia prescribed for Coast Guard vessels or aircraft. An individual violating this subsection shall be fined not more than $5,000, or imprisoned for not more than two years, or both.
 
 ### Statutory Notes
 
@@ -487,6 +489,8 @@ Unauthorized display of such insignia is made illegal anywhere rather than only 
 The language is broadened to include “any person violating this section”; existing law applies to masters of offending vessels only. 81st Congress, House Report No. 557.
 
 #### Amendments
+2021—Subsec. (b). Pub. L. 116–283 substituted “An individual” for “Every person”.
+
 2018—Pub. L. 115–282 renumbered [section 638 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section638&num=0&edition=prelim) as this section.
 
 2010—Subsec. (a). Pub. L. 111–281 substituted “Vessels and aircraft authorized by the Secretary” for “Coast Guard vessels and aircraft”.
@@ -593,7 +597,7 @@ Pub. L. 105–383, title IV, § 409, Nov. 13, 1998, 112 Stat. 3431, as amended b
 
 <a id="section-937"></a>
 ## § 937. Admiralty claims against the United States
-**(a)** The Secretary may consider, ascertain, adjust, determine, compromise, or settle, and pay in an amount not more than $100,000, an admiralty claim against the United States for—
+**(a)** The Secretary may consider, ascertain, adjust, determine, compromise, or settle, and pay in an amount not more than $425,000, an admiralty claim against the United States for—
 
 (1) damage caused by a vessel in the Coast Guard service or by other property under the jurisdiction of the Department in which the Coast Guard is operating;
 
@@ -613,6 +617,8 @@ Based on title 14, U.S.C., 1946 ed., § 71 (June 15, 1936, ch. 550, 49 Stat. 151
 This section closely parallels title 46, U.S.C., 1946 ed., §§ 797, 798, which authorizes the Secretary of the Navy to negotiate amicable settlement of claims against the United States arising out of the operation of Naval vessels. It grants similar authority to the Secretary of the Treasury in relation to vessels in the Coast Guard service, and the limiting amount is reduced from $1,000,000 to $25,000. It is believed that this section will work to the benefit of the Government by reducing civil litigation and the number of claims which must presently be certified to Congress for appropriations in order to make settlement. It will greatly expedite the settlement of just claims and should result in a considerable overall savings to the Government. 81st Congress, House Report No. 557.
 
 #### Amendments
+2021—Subsec. (a). Pub. L. 116–283 substituted “$425,000” for “$100,000” in introductory provisions.
+
 2018—Pub. L. 115–282 renumbered [section 646 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section646&num=0&edition=prelim) as this section.
 
 1972—Subsec. (a). Pub. L. 92–417 incorporated in part first sentence of former subsec. (a) in text preceding par. (1), substituted “Secretary” for “Secretary of the Treasury”, inserted provisions authorizing payments up to $100,000, struck out second, third, and fourth sentences providing that provisions of this section were supplementary to other provisions, that claims in excess of $3,000 accrued prior to Sept. 8, 1939, would not be considered, and that payments be made out of Coast Guard appropriations, and added pars. (1) to (3).
@@ -627,7 +633,7 @@ Subsec. (c). Pub. L. 92–417 incorporated provisions of last sentence of former
 <a id="section-938"></a>
 ## § 938. Claims for damage to property of the United States
 
-The Secretary may consider, ascertain, adjust, determine, compromise, or settle claims for damage cognizable in admiralty in a district court of the United States and all claims for damage caused by a vessel or floating object, to property of the United States under the jurisdiction of the Coast Guard or property for which the Coast Guard may have assumed, by contract or otherwise, any obligation to respond for damage thereto. The Secretary is further authorized to receive in payment of any such claim the amount due the United States pursuant to determination, compromise, or settlement as herein authorized and, upon acceptance of such payment but not until then, such determination, settlement, or compromise of such claim shall be final and conclusive for all purposes, any law to the contrary notwithstanding. All such payments shall be deposited in the Treasury of the United States as miscellaneous receipts. The Secretary is further authorized to execute on behalf of the United States and to deliver in exchange for such payment a full release of such claim. This section, as respects the determination, compromise, settlement, and payment of claims, shall be supplementary to, and not in lieu of, all other provisions of law authorizing the determination, compromise, or settlement of claims for damage to property hereinabove described. No settlement or compromise where there is involved a payment in the net amount of over $100,000 is authorized by this section.
+The Secretary may consider, ascertain, adjust, determine, compromise, or settle claims for damage cognizable in admiralty in a district court of the United States and all claims for damage caused by a vessel or floating object, to property of the United States under the jurisdiction of the Coast Guard or property for which the Coast Guard may have assumed, by contract or otherwise, any obligation to respond for damage thereto. The Secretary is further authorized to receive in payment of any such claim the amount due the United States pursuant to determination, compromise, or settlement as herein authorized and, upon acceptance of such payment but not until then, such determination, settlement, or compromise of such claim shall be final and conclusive for all purposes, any law to the contrary notwithstanding. All such payments shall be deposited in the Treasury of the United States as miscellaneous receipts. The Secretary is further authorized to execute on behalf of the United States and to deliver in exchange for such payment a full release of such claim. This section, as respects the determination, compromise, settlement, and payment of claims, shall be supplementary to, and not in lieu of, all other provisions of law authorizing the determination, compromise, or settlement of claims for damage to property hereinabove described. No settlement or compromise where there is involved a payment in the net amount of over $425,000 is authorized by this section.
 
 ### Statutory Notes
 
@@ -635,6 +641,8 @@ The Secretary may consider, ascertain, adjust, determine, compromise, or settle 
 This section closely parallels title 34, U.S.C., 1946 ed., §§ 600a, 600b, which authorize the Secretary of the Navy to negotiate amicable settlements of affirmative claims of the United States for damage to Government property. Experience gained by the Navy since enactment of title 34, U.S.C., 1946 ed., §§ 600a–600d, indicates that such amicable settlement reacts to the benefit of the Government in many cases. The provisions of this section would complement those of [section 646 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section646&num=0&edition=prelim) and the two sections together would permit the Coast Guard to negotiate the settlement of claims arising out of Coast Guard floating operations, both for and against the United States. 81st Congress, House Report No. 557.
 
 #### Amendments
+2021—Pub. L. 116–283 substituted “$425,000” for “$100,000”.
+
 2018—Pub. L. 115–282 renumbered [section 647 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section647&num=0&edition=prelim) as this section.
 
 1984—Pub. L. 98–557 substituted “$100,000” for “$25,000”.
@@ -749,11 +757,13 @@ No tax on the sale or transfer of firearms, pistols, revolvers, shells, or cartr
 <a id="section-944"></a>
 ## § 944. Confidential investigative expenses
 
-Not more than $250,000 each fiscal year appropriated for necessary expenses for the operation of the Coast Guard shall be available for investigative expenses of a confidential character, to be expended on the approval or authority of the Commandant and payment to be made on his certificate of necessity for confidential purposes, and his determination shall be final and conclusive upon the accounting officers of the Government.
+Not more than $250,000 each fiscal year appropriated for the operations and support of the Coast Guard shall be available for investigative expenses of a confidential character, to be expended on the approval or authority of the Commandant and payment to be made on the Commandant’s certificate of necessity for confidential purposes, and the Commandant’s determination shall be final and conclusive upon the accounting officers of the Government.
 
 ### Statutory Notes
 
 #### Amendments
+2021—Pub. L. 116–283 substituted “the operations and support” for “necessary expenses for the operation” and “the Commandant’s” for “his” in two places.
+
 2018—Pub. L. 115–282, § 308, substituted “$250,000” for “$45,000”.
 
 Pub. L. 115–282, § 107(b), renumbered [section 658 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section658&num=0&edition=prelim) as this section.

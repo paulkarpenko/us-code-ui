@@ -82,7 +82,7 @@ Pub. L. 113–128, title II, § 201, July 22, 2014, 128 Stat. 1608, provided tha
 Pub. L. 102–367, title I, § 101(a), Sept. 7, 1992, 106 Stat. 1022, provided that: “In recognition of the training needs of low-income adults and youth, the Congress declares it to be the policy of the United States to— “(1) provide financial assistance to States and local service delivery areas to meet the training needs of such low-income adults and youth, and to assist such individuals in obtaining unsubsidized employment; “(2) increase the funds available for programs under title II of the Job Training Partnership Act ([former] [29 U.S.C. 1601](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1601&num=0&edition=prelim) et seq.) by not less than 10 percent of the baseline each fiscal year to provide for growth in the percentage of eligible adults and youth served above the 5 percent of the eligible population that is currently served; and “(3) encourage the provision of longer, more comprehensive, education, training, and employment services to the eligible population, which also requires increased funding in order to maintain current service levels.”
 
 #### Ex. Ord. No. 13845. Establishing the President’s National Council for the American Worker
-Ex. Ord. No. 13845, July 19, 2018, 83 F.R. 35099, as amended by Ex. Ord. No. 13853, § 5, Dec. 12, 2018, 83 F.R. 65073, provided:
+Ex. Ord. No. 13845, July 19, 2018, 83 F.R. 35099, as amended by Ex. Ord. No. 13853, § 5, Dec. 12, 2018, 83 F.R. 65073; Ex. Ord. No. 13931, § 1, June 26, 2020, 85 F.R. 39455, provided:
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, and in order to provide a coordinated process for developing a national strategy to ensure that America’s students and workers have access to affordable, relevant, and innovative education and job training that will equip them to compete and win in the global economy, and for monitoring the implementation of that strategy, it is hereby ordered as follows:
 
@@ -178,7 +178,7 @@ Sec. 9. Administrative Provisions. (a) The Department of Commerce shall provide 
 
 (d) Agencies shall cooperate with the Council and provide such information regarding its current and planned activities related to policies that affect the American workforce as the Co-Chairs shall reasonably request, to the extent permitted by law.
 
-Sec. 10. Termination of Council. The Council shall terminate 2 years after the date of this order, unless extended by the President.
+Sec. 10. Termination of Council. The Council shall terminate on September 30, 2021, unless extended by the President.
 
 Sec. 11. General Provisions. (a) Nothing in this order shall be construed to impair or otherwise affect:
 
@@ -191,6 +191,8 @@ Sec. 11. General Provisions. (a) Nothing in this order shall be construed to imp
 (c) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
 
 Donald J. Trump.
+
+[Ex. Ord. No. 13931, § 2, June 26, 2020, 85 F.R. 39455, provided that: “The American Workforce Policy Advisory Board established by Executive Order 13845 [set out above], as amended, is continued until September 30, 2021.”]
 
 
 <a id="section-3112"></a>
@@ -2515,6 +2517,11 @@ The Workforce Investment Act of 1998, referred to in subsec. (c)(1), is Pub. L. 
 #### Effective Date
 Section effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as a note under [section 3101 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3101).
 
+#### Workforce Response Activities
+Pub. L. 116–136, div. A, title III, § 3515, Mar. 27, 2020, 134 Stat. 407, provided that: “(a) Administrative Costs.—Notwithstanding section 128(b)(4) of the Workforce Innovation [and] Opportunity Act ([29 U.S.C. 3163(b)(4)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3163/b/4&num=0&edition=prelim)), of the total amount allocated to a local area (including the total amount allotted to a single State local area) under subtitle B of title I of such Act ([29 U.S.C. 3151](./chapter-032-workforce-innovation-and-opportunity.md#section-3151) et seq.) for program year 2019, not more than 20 percent of the total amount may be used for the administrative costs of carrying out local workforce investment activities under chapter 2 [[29 U.S.C. 3161](./chapter-032-workforce-innovation-and-opportunity.md#section-3161) et seq.] or chapter 3 [[29 U.S.C. 3171](./chapter-032-workforce-innovation-and-opportunity.md#section-3171) et seq.] of subtitle B of title I of such Act, if the portion of the total amount that exceeds 10 percent of the total amount is used to respond to a qualifying emergency. “(b) Rapid Response Activities.—“(1) Statewide rapid response.—Of the funds reserved by a Governor for program year 2019 for statewide activities under section 128(a) of the Workforce Innovation and Opportunity Act ([29 U.S.C. 3163(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3163/a&num=0&edition=prelim)) that remain unobligated, such funds may be used for statewide rapid response activities as described in section 134(a)(2)(A) of such Act ([29 U.S.C. 3174(a)(2)(A)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3174/a/2/A&num=0&edition=prelim)) for responding to a qualifying emergency. “(2) Local boards.—Of the funds reserved by a Governor for program year 2019 under section 133(a)(2) of such Act ([29 U.S.C. 3173(a)(2)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3173/a/2&num=0&edition=prelim)) that remain unobligated, such funds may be released within 30 days after the date of enactment of this Act [Mar. 27, 2020] to the local boards most impacted by the coronavirus at the determination of the Governor for rapid response activities related to responding to a qualifying emergency. “(c) Definitions.—Except as otherwise provided, the terms in this section have the meanings given the terms in section 3 of the Workforce Innovation and Opportunity Act ([29 U.S.C. 3102](./chapter-032-workforce-innovation-and-opportunity.md#section-3102)).”
+
+[For definitions of “qualifying emergency” and “coronavirus” as used in section 3515 of Pub. L. 116–136, set out above, see section 3502 of Pub. L. 116–136, set out in a note under [section 1001 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1001&num=0&edition=prelim), Education.]
+
 
 <a id="section-3172"></a>
 ## § 3172. Use of funds for youth workforce investment activities
@@ -3681,7 +3688,7 @@ Section was formerly classified to [section 2883b of this title](./chapter-030-w
 
 (1) meets the requirements of paragraphs (1) and (3) of such subsection; and
 
-(2) does not meet the requirement of subsection (a)(2) because the military income earned by such individual within the 6-month period prior to the individual’s application for Job Corps prevents the individual from meeting such requirement.
+(2) does not meet the requirement of subsection (a)(2) because the military income earned by such individual within the 6-month period prior to the individual’s application for Job 11 So in original. Probably should be preceded by “the”. Corps prevents the individual from meeting such requirement.
 
 ### Statutory Notes
 
@@ -3690,6 +3697,9 @@ Section was formerly classified to [section 2883b of this title](./chapter-030-w
 
 #### Effective Date
 Section effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as a note under [section 3101 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3101).
+
+#### Job Corps Flexibilities During Qualifying Emergency
+Pub. L. 116–260, div. N, title VI, § 601, Dec. 27, 2020, 134 Stat. 2091, provided that: “(a) Enrollment.—During the period beginning on the date of enactment of this Act [Dec. 27, 2020] and ending when all qualifying emergencies have expired, notwithstanding any other provision of law, the requirements described in sections 145(a)(2)(A) and 152(b)(2)(B) of the Workforce Innovation and Opportunity Act ([29 U.S.C. 3195(a)(2)(A)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3195/a/2/A&num=0&edition=prelim), 3202(b)(2)(B)) shall be applicable only for enrollees in the Job Corps—“(1) participating on-site at a Job Corps center; or “(2) returning to on-site participation at a Job Corps center after participating in distance learning. “(b) Eligibility.—During a qualifying emergency or the 1-year period immediately following the expiration of the qualifying emergency, an individual who would be older than the age of 24 on the date the individual enrolls in the Job Corps is eligible to enroll in the Job Corps, notwithstanding section 144(a)(1)(A) of the Workforce Innovation and Opportunity Act ([29 U.S.C. 3194(a)(1)(A)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3194/a/1/A&num=0&edition=prelim)), as long as—“(1) the individual applies for enrollment by the date that is 6 months after the date of enactment of this Act, and is not older than age 24 on the date of application; and “(2) the individual attains the age of 25 during the qualifying emergency or the 1-year period immediately following the expiration of the qualifying emergency. “(c) Qualifying Emergency Defined.—In this section, the term ‘qualifying emergency’ has the meaning given the term in section 3502(a)(4) of the Coronavirus Aid, Relief, and Economic Security Act (Public Law 116–136 [[20 U.S.C. 1001](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1001&num=0&edition=prelim) note]).”
 
 
 <a id="section-3197"></a>
@@ -5503,7 +5513,7 @@ Section was enacted as part of the Substance Use–Disorder Prevention that Prom
 
   (B) that meets such other criteria as may be established by the Secretary under this section.
 
-(11) **Transitional housing** — The term “transitional housing” has the meaning given the term in [section 11360(29) of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section11360/29&num=0&edition=prelim).
+(11) **Transitional housing** — The term “transitional housing” has the meaning given the term in section 11360(29) 11 See References in Text note below. of title 42.
 
 (12) **YouthBuild program** — The term “YouthBuild program” means any program that receives assistance under this section and provides disadvantaged youth with opportunities for employment, education, leadership development, and training through the rehabilitation (which, for purposes of this section, shall include energy efficiency enhancements) or construction of housing for homeless individuals and low-income families, and of public facilities.
 
@@ -5735,6 +5745,8 @@ Section was enacted as part of the Substance Use–Disorder Prevention that Prom
 
 #### References in Text
 Act of August 16, 1937, commonly known as the National Apprenticeship Act, referred to in subsec. (b)(10)(A), is act Aug. 16, 1937, ch. 663, 50 Stat. 664, which is classified generally to chapter 4C (§ 50 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 50 of this title](./chapter-4c-apprentice-labor.md#section-50) and Tables.
+
+[Section 11360(29) of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section11360/29&num=0&edition=prelim), referred to in subsec. (b)(11), was redesignated [section 11360(31) of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section11360/31&num=0&edition=prelim) by Pub. L. 116–260, div. Q, title I, § 102(a)(1)(A), Dec. 27, 2020, 134 Stat. 2165.
 
 The Fair Housing Act, referred to in subsec. (c)(3)(B)(xxi), is title VIII of Pub. L. 90–284, Apr. 11, 1968, 82 Stat. 81, which is classified principally to subchapter I (§ 3601 et seq.) of chapter 45 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 3601 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3601&num=0&edition=prelim) and Tables.
 

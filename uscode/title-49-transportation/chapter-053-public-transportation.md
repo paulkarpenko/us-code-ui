@@ -4900,6 +4900,56 @@ Repeal effective Oct. 1, 2015, see section 1003 of Pub. L. 114–94, set out as 
 
 (2) any amounts withheld pursuant to paragraph (1) shall be added to the amount that the Secretary may apportion under section 5336 in the following fiscal year.
 
+**(u) Limitation on Certain Rolling Stock Procurements.—**
+
+(1) **In general.—** — Except as provided in paragraph (5), financial assistance made available under this chapter shall not be used in awarding a contract or subcontract to an entity on or after the date of enactment of this subsection for the procurement of rolling stock for use in public transportation if the manufacturer of the rolling stock—
+
+  (A) is incorporated in or has manufacturing facilities in the United States; and
+
+  (B) is owned or controlled by, is a subsidiary of, or is otherwise related legally or financially to a corporation based in a country that—
+
+    (i) is identified as a nonmarket economy country (as defined in section 771(18) of the Tariff Act of 1930 ([19 U.S.C. 1677(18)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1677/18&num=0&edition=prelim))) as of the date of enactment of this subsection;
+
+    (ii) was identified by the United States Trade Representative in the most recent report required by section 182 of the Trade Act of 1974 ([19 U.S.C. 2242](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section2242&num=0&edition=prelim)) as a foreign country included on the priority watch list defined in subsection (g)(3) of that section; and
+
+    (iii) is subject to monitoring by the Trade Representative under section 306 of the Trade Act of 1974 ([19 U.S.C. 2416](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section2416&num=0&edition=prelim)).
+
+(2) **Exception.—** — For purposes of paragraph (1), the term “otherwise related legally or financially” does not include a minority relationship or investment.
+
+(3) **International agreements.—** — This subsection shall be applied in a manner consistent with the obligations of the United States under international agreements.
+
+(4) **Certification for rail rolling stock.—**
+
+  (A) *In general.—* — Except as provided in paragraph (5), as a condition of financial assistance made available in a fiscal year under section 5337, a recipient that operates rail fixed guideway service shall certify in that fiscal year that the recipient will not award any contract or subcontract for the procurement of rail rolling stock for use in public transportation with a rail rolling stock manufacturer described in paragraph (1).
+
+  (B) *Separate certification.—* — The certification required under this paragraph shall be in addition to any certification the Secretary establishes to ensure compliance with the requirements of paragraph (1).
+
+(5) **Special rules.—**
+
+  (A) *Parties to executed contracts.—* — This subsection, including the certification requirement under paragraph (4), shall not apply to the award of any contract or subcontract made by a public transportation agency with a rail rolling stock manufacturer described in paragraph (1) if the manufacturer and the public transportation agency have executed a contract for rail rolling stock before the date of enactment of this subsection.
+
+  (B) *Rolling stock.—* — Except as provided in subparagraph (C) and for a contract or subcontract that is not described in subparagraph (A), this subsection, including the certification requirement under paragraph (4), shall not apply to the award of a contract or subcontract made by a public transportation agency with any rolling stock manufacturer for the 2-year period beginning on or after the date of enactment of this subsection.
+
+  (C) *Exception.—* — Subparagraph (B) shall not apply to the award of a contract or subcontract made by the Washington Metropolitan Area Transit Authority.
+
+**(v) Cybersecurity Certification for Rail Rolling Stock and Operations.—**
+
+(1) **Certification.—** — As a condition of financial assistance made available under this chapter, a recipient that operates a rail fixed guideway public transportation system shall certify that the recipient has established a process to develop, maintain, and execute a written plan for identifying and reducing cybersecurity risks.
+
+(2) **Compliance.—** — For the process required under paragraph (1), a recipient of assistance under this chapter shall—
+
+  (A) utilize the approach described by the voluntary standards and best practices developed under section 2(c)(15) of the National Institute of Standards and Technology Act ([15 U.S.C. 272(c)(15)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section272/c/15&num=0&edition=prelim)), as applicable;
+
+  (B) identify hardware and software that the recipient determines should undergo third-party testing and analysis to mitigate cybersecurity risks, such as hardware or software for rail rolling stock under proposed procurements; and
+
+  (C) utilize the approach described in any voluntary standards and best practices for rail fixed guideway public transportation systems developed under the authority of the Secretary of Homeland Security, as applicable.
+
+(3) **Limitations on statutory construction.—** — Nothing in this subsection shall be construed to interfere with the authority of—
+
+  (A) the Secretary of Homeland Security to publish or ensure compliance with requirements or standards concerning cybersecurity for rail fixed guideway public transportation systems; or
+
+  (B) the Secretary of Transportation under section 5329 to address cybersecurity issues as those issues relate to the safety of rail fixed guideway public transportation systems.
+
 ### Statutory Notes
 
 | Historical and Revision Notes |  |  |
@@ -4987,7 +5037,11 @@ The date of enactment of the Federal Public Transportation Act of 2012, referred
 
 The Federal Public Transportation Act of 2015, referred to in subsec. (j)(8), is title III of div. A of Pub. L. 114–94, Dec. 4, 2015, 129 Stat. 1446. For complete classification of this Act to the Code, see Short Title of 2015 Amendment note set out under [section 5101 of this title](./chapter-051-transportation-of-hazardous-material.md#section-5101) and Tables.
 
+The date of enactment of this subsection, referred to in subsec. (u)(1), (5), is the date of enactment of Pub. L. 116–92, which was approved Dec. 20, 2019.
+
 #### Amendments
+2019—Subsecs. (u), (v). Pub. L. 116–92 added subsecs. (u) and (v).
+
 2015—Subsec. (h)(2), (3). Pub. L. 114–94, § 3011(1), added par. (2) and redesignated former par. (2) as (3).
 
 Subsec. (j)(2)(C). Pub. L. 114–94, § 3011(2)(A), added subpar. (C) and struck out former subpar. (C), which read as follows: “when procuring rolling stock (including train control, communication, and traction power equipment) under this chapter—

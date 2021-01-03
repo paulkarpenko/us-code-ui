@@ -328,7 +328,7 @@ A declaration filed pursuant to [section 4221 of this title](./chapter-043-actio
 ### Statutory Notes
 
 #### References in Text
-[Section 3509A of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section3509A&num=0&edition=prelim), referred to in subsec. (d)(1), probably is a reference to former [section 3059A of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section3059A&num=0&edition=prelim), which was repealed by Pub. L. 107–273, div. A, title III, § 301(c)(2), Nov. 2, 2002, 116 Stat. 1781.
+[Section 3509A of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section3509A&num=0&edition=prelim), referred to in subsec. (d), probably is a reference to former [section 3059A of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section3059A&num=0&edition=prelim), which was repealed by Pub. L. 107–273, div. A, title III, § 301(c)(2), Nov. 2, 2002, 116 Stat. 1781.
 
 
 <a id="section-4226"></a>

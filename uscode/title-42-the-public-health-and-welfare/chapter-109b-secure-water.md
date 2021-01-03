@@ -2,7 +2,7 @@
 title: 42
 chapter: 109B
 heading: SECURE WATER
-section_count: 10
+section_count: 11
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42&num=0&edition=prelim
 ---
@@ -65,7 +65,7 @@ Congress finds that—
 <a id="section-10362"></a>
 ## § 10362. Definitions
 
-In this section: 11 So in original. Probably should be a reference to this chapter.
+In this chapter:
 
 (1) **Administrator** — The term “Administrator” means the Administrator of the National Oceanic and Atmospheric Administration.
 
@@ -83,7 +83,19 @@ In this section: 11 So in original. Probably should be a reference to this chapt
 
 (6) **Director** — The term “Director” means the Director of the United States Geological Survey.
 
-(7) **Eligible applicant** — The term “eligible applicant” means any State, Indian tribe, irrigation district, water district, or other organization with water or power delivery authority.
+(7) **Eligible applicant** — The term “eligible applicant” means—
+
+  (A) any State, Indian tribe, irrigation district, or water district;
+
+  (B) any State, regional, or local authority, the members of which include 1 or more organizations with water or power delivery authority;
+
+  (C) any other organization with water or power delivery authority; and
+
+  (D) any nonprofit conservation organization, if—
+
+    (i) the nonprofit conservation organization is acting in partnership with and with the agreement of an entity described in subparagraph (A), (B), or (C); or
+
+    (ii) in the case of an application for a project to improve the condition of a natural feature or nature-based feature on Federal land, the entities described in subparagraph (A), (B), or (C) from the applicable service area have been notified of the project application and there is no written objection to the project.
 
 (8) **Federal Power Marketing Administration** — The term “Federal Power Marketing Administration” means—
 
@@ -131,7 +143,11 @@ In this section: 11 So in original. Probably should be a reference to this chapt
 
     (viii) the Truckee River.
 
-(13) **Non-Federal participant** — The term “non-Federal participant” means—
+(13) **Natural feature** — The term “natural feature” means a feature that is created through the action of physical, geological, biological, and chemical processes over time.
+
+(14) **Nature-based feature** — The term “nature-based feature” means a feature that is created by human design, engineering, and construction to provide a means to reduce water supply and demand imbalances or drought or flood risk by acting in concert with natural processes.
+
+(15) **Non-Federal participant** — The term “non-Federal participant” means—
 
   (A) a State, regional, or local authority;
 
@@ -139,15 +155,15 @@ In this section: 11 So in original. Probably should be a reference to this chapt
 
   (C) any other qualifying entity, such as a water conservation district, water conservancy district, or rural water district or association, or a nongovernmental organization.
 
-(14) **Panel** — The term “panel” means the climate change and water intragovernmental panel established by the Secretary under [section 10366(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section10366/a&num=0&edition=prelim).
+(16) **Panel** — The term “panel” means the climate change and water intragovernmental panel established by the Secretary under [section 10366(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section10366/a&num=0&edition=prelim).
 
-(15) **Program** — The term “program” means the regional integrated sciences and assessments program—
+(17) **Program** — The term “program” means the regional integrated sciences and assessments program—
 
   (A) established by the Administrator; and
 
   (B) that is comprised of 8 regional programs that use advances in integrated climate sciences to assist decisionmaking processes.
 
-(16) **Secretary**
+(18) **Secretary**
 
   (A) *In general* — Except as provided in subparagraph (B), the term “Secretary” means the Secretary of the Interior.
 
@@ -157,7 +173,18 @@ In this section: 11 So in original. Probably should be a reference to this chapt
 
     (ii) in the case of sections 10367 and 10368 of this title, the Secretary of the Interior (acting through the Director).
 
-(17) **Service area** — The term “service area” means any area that encompasses a watershed that contains a federally authorized reclamation project that is located in any State or area described in [section 391 of title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section391&num=0&edition=prelim).
+(19) **Service area** — The term “service area” means any area that encompasses a watershed that contains a federally authorized reclamation project that is located in any State or area described in [section 391 of title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section391&num=0&edition=prelim).
+
+### Statutory Notes
+
+#### Amendments
+2020—Pub. L. 116–260, § 1106(a)(1), substituted “chapter” for “section” in introductory provisions.
+
+Par. (7). Pub. L. 116–260, § 1106(a)(2), added par. (7) and struck out former par. (7). Prior to amendment, text read as follows: “The term ‘eligible applicant’ means any State, Indian tribe, irrigation district, water district, or other organization with water or power delivery authority.”
+
+Par. (10). Pub. L. 116–260, § 1106(a)(3), made technical amendment to reference in original act which appears in text as a reference to [section 5304 of title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5304&num=0&edition=prelim).
+
+Pars. (13) to (19). Pub. L. 116–260, § 1106(a)(4), (5), added pars. (13) and (14) and redesignated former pars. (13) to (17) as (15) to (19).
 
 
 <a id="section-10363"></a>
@@ -270,7 +297,7 @@ The Endangered Species Act of 1973, referred to in subsec. (b)(3)(E), is Pub. L.
 ## § 10364. Water management improvement
 **(a) Authorization of grants and cooperative agreements**
 
-(1) **Authority of Secretary** — The Secretary may provide any grant to, or enter into an agreement with, any eligible applicant to assist the eligible applicant in planning, designing, or constructing any improvement—
+(1) **Authority of Secretary** — The Secretary may provide any grant to, or enter into an agreement with, any eligible applicant to assist the eligible applicant in planning, designing, or constructing any improvement or carrying out any activity—
 
   (A) to conserve water;
 
@@ -282,15 +309,21 @@ The Endangered Species Act of 1973, referred to in subsec. (b)(3)(E), is Pub. L.
 
   (E) to accelerate the adoption and use of advanced water treatment technologies to increase water supply;
 
-  (F) to prevent the decline of species that the United States Fish and Wildlife Service and National Marine Fisheries Service have proposed for listing under the Endangered Species Act of 1973 ([16 U.S.C. 1531](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1531&num=0&edition=prelim) et seq.) (or candidate species that are being considered by those agencies for such listing but are not yet the subject of a proposed rule);
+  (F) to assist States and water users in complying with interstate compacts or reducing basin water supply-demand imbalances;
 
-  (G) to accelerate the recovery of threatened species, endangered species, and designated critical habitats that are adversely affected by Federal reclamation projects or are subject to a recovery plan or conservation plan under the Endangered Species Act of 1973 ([16 U.S.C. 1531](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1531&num=0&edition=prelim) et seq.) under which the Commissioner of Reclamation has implementation responsibilities; or
+  (G) to achieve the prevention of the decline of species that the United States Fish and Wildlife Service and National Marine Fisheries Service have proposed for listing under the Endangered Species Act of 1973 ([16 U.S.C. 1531](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1531&num=0&edition=prelim) et seq.) (or candidate species that are being considered by those agencies for such listing but are not yet the subject of a proposed rule);
 
-  (H) to carry out any other activity—
+  (H) to achieve the acceleration of the recovery of threatened species, endangered species, and designated critical habitats that are adversely affected by Federal reclamation projects or are subject to a recovery plan or conservation plan under the Endangered Species Act of 1973 ([16 U.S.C. 1531](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1531&num=0&edition=prelim) et seq.) under which the Commissioner of Reclamation has implementation responsibilities;
 
-    (i) to address any climate-related impact to the water supply of the United States that increases ecological resiliency to the impacts of climate change; or
+  (I) to improve the condition of a natural feature; or
 
-    (ii) to prevent any water-related crisis or conflict at any watershed that has a nexus to a Federal reclamation project located in a service area.
+  (J) to carry out any other activity—
+
+    (i) to address any climate-related impact to the water supply of the United States that increases ecological resiliency to the impacts of climate change;
+
+    (ii) to prevent any water-related crisis or conflict at any watershed that has a nexus to a Federal reclamation project located in a service area; or
+
+    (iii) to plan for or address the impacts of drought.
 
 (2) **Application** — To be eligible to receive a grant, or enter into an agreement with the Secretary under paragraph (1), an eligible applicant shall—
 
@@ -298,11 +331,21 @@ The Endangered Species Act of 1973, referred to in subsec. (b)(3)(E), is Pub. L.
 
     (i) the States and areas referred to in [section 391 of title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section391&num=0&edition=prelim);
 
-    (ii) the State of Alaska; or
+    (ii) the State of Alaska;
 
-    (iii) the State of Hawaii; and
+    (iii) the State of Hawaii; or
 
-  (B) submit to the Secretary an application that includes a proposal of the improvement or activity to be planned, designed, constructed, or implemented by the eligible applicant.
+    (iv) the Commonwealth of Puerto Rico; and
+
+  (B) submit to the Secretary an application that includes—
+
+    (i) a proposal of the improvement or activity to be planned, designed, constructed, or implemented by the eligible applicant; and
+
+    (ii) for a project that is intended to have a quantifiable water savings and would receive a grant of $500,000 or more—
+
+      (I) a proposal for a monitoring plan of at least 5 years that would demonstrate ways in which the proposed improvement or activity would result in improved streamflows or aquatic habitat; or
+
+      (II) for a project that does not anticipate improved streamflows or aquatic habitat, an analysis of ways in which the proposed improvement or activity would contribute to 1 or more of the other objectives described in paragraph (1).
 
 (3) **Requirements of grants and cooperative agreements**
 
@@ -336,7 +379,19 @@ The Endangered Species Act of 1973, referred to in subsec. (b)(3)(E), is Pub. L.
 
   (E) *Cost sharing*
 
-    (i) *Federal share* — The Federal share of the cost of any infrastructure improvement or activity that is the subject of a grant or other agreement entered into between the Secretary and an eligible applicant under paragraph (1) shall not exceed 50 percent of the cost of the infrastructure improvement or activity.
+    (i) *Federal share*
+
+      (I) *In general* — Except as provided in subclause (II), the Federal share of the cost of any infrastructure improvement or activity that is the subject of a grant or other agreement entered into between the Secretary and an eligible applicant under paragraph (1) shall not exceed 50 percent of the cost of the infrastructure improvement or activity.
+
+      (II) *Increased Federal share for certain infrastructure improvements and activities* — The Federal share of the cost of an infrastructure improvement or activity shall not exceed 75 percent of the cost of the infrastructure improvement or activity, if—
+
+        (aa) the infrastructure improvement or activity was developed as part of a collaborative process by—
+
+          (AA) a watershed group (as defined in [section 1015 of title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1015&num=0&edition=prelim)); or
+
+          (BB) a water user and 1 or more stakeholders with diverse interests; and
+
+        (bb) the majority of the benefits of the infrastructure improvement or activity, as determined by the Secretary, are for the purpose of advancing 1 or more components of an established strategy or plan to increase the reliability of water supply for consumptive and nonconsumptive ecological values.
 
     (ii) *Calculation of non-Federal share* — In calculating the non-Federal share of the cost of an infrastructure improvement or activity proposed by an eligible applicant through an application submitted by the eligible applicant under paragraph (2), the Secretary shall—
 
@@ -354,15 +409,19 @@ The Endangered Species Act of 1973, referred to in subsec. (b)(3)(E), is Pub. L.
 
     (ii) *Tort Claims Act* — Nothing in this section increases the liability of the United States beyond that provided in chapter 171 of title 28 (commonly known as the “Federal Tort Claims Act”).
 
+(4) **Priority** — In providing grants to, and entering into agreements for, projects intended to have a quantifiable water savings under this subsection, the Secretary shall give priority to projects that enhance drought resilience by benefitting the water supply and ecosystem.
+
 **(b) Research agreements**
 
-(1) **Authority of Secretary** — The Secretary may enter into 1 or more agreements with any university, nonprofit research institution, or organization with water or power delivery authority to fund any research activity that is designed—
+(1) **Authority of Secretary** — The Secretary may enter into 1 or more agreements with any university, nonprofit research institution, or eligible applicant to fund any research activity that is designed—
 
   (A) to conserve water resources;
 
-  (B) to increase the efficiency of the use of water resources; or
+  (B) to increase the efficiency of the use of water resources;
 
-  (C) to enhance the management of water resources, including increasing the use of renewable energy in the management and delivery of water.
+  (C) to restore a natural feature or use a nature-based feature to reduce water supply and demand imbalances or the risk of drought or flood; or
+
+  (D) to enhance the management of water resources, including increasing the use of renewable energy in the management and delivery of water.
 
 (2) **Terms and conditions of Secretary**
 
@@ -374,28 +433,68 @@ The Endangered Species Act of 1973, referred to in subsec. (b)(3)(E), is Pub. L.
 
 **(d) Relationship to project-specific authority** This section shall not supersede any existing project-specific funding authority.
 
-**(e) Authorization of appropriations** There is authorized to be appropriated to carry out this section $480,000,000, to remain available until expended.
+**(e) Authorization of appropriations** There is authorized to be appropriated to carry out this section $700,000,000, subject to the condition that $50,000,000 of that amount shall be used to carry out section 206 of the Energy and Water Development and Related Agencies Appropriations Act, 2015 ([43 U.S.C. 620](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section620&num=0&edition=prelim) note; Public Law 113–235), to remain available until expended.
 
 ### Statutory Notes
 
 #### References in Text
-The Endangered Species Act of 1973, referred to in subsec. (a)(1)(F), (G), is Pub. L. 93–205, Dec. 28, 1973, 87 Stat. 884, which is classified principally to chapter 35 (§ 1531 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under [section 1531 of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1531&num=0&edition=prelim) and Tables.
+The Endangered Species Act of 1973, referred to in subsec. (a)(1)(G), (H), is Pub. L. 93–205, Dec. 28, 1973, 87 Stat. 884, which is classified principally to chapter 35 (§ 1531 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under [section 1531 of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1531&num=0&edition=prelim) and Tables.
+
+Section 206 of the Energy and Water Development and Related Agencies Appropriations Act, 2015, referred to in subsec. (e), is section 206 of div. D of Pub. L. 113–235, which is set out as a note under [section 620 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section620&num=0&edition=prelim), Public Lands.
 
 #### Amendments
+2020—Subsec. (a)(1). Pub. L. 116–260, § 1106(b)(1)(A), inserted “or carrying out any activity” after “any improvement” in introductory provisions.
+
+Subsec. (a)(1)(F). Pub. L. 116–260, § 1106(b)(1)(C), added subpar. (F). Former subpar. (F) redesignated (G).
+
+Subsec. (a)(1)(G). Pub. L. 116–260, § 1106(b)(1)(D), substituted “to achieve the prevention of” for “to prevent”.
+
+Pub. L. 116–260, § 1106(b)(1)(B), redesignated subpar. (F) as (G). Former subpar. (G) redesignated (H).
+
+Subsec. (a)(1)(H). Pub. L. 116–260, § 1106(b)(1)(E), substituted “to achieve the acceleration of” for “to accelerate” and struck out “or” at end.
+
+Pub. L. 116–260, § 1106(b)(1)(B), redesignated subpar. (G) as (H). Former subpar. (H) redesignated (J).
+
+Subsec. (a)(1)(I). Pub. L. 116–260, § 1106(b)(1)(F), added subpar. (I).
+
+Subsec. (a)(1)(J). Pub. L. 116–260, § 1106(b)(1)(B), redesignated subpar. (H) as (J).
+
+Subsec. (a)(1)(J)(iii). Pub. L. 116–260, § 1106(b)(1)(G), added cl. (iii).
+
+Subsec. (a)(2)(A)(iv). Pub. L. 116–260, § 1106(b)(2)(A), added cl. (iv).
+
+Subsec. (a)(2)(B). Pub. L. 116–260, § 1106(b)(2)(B), added subpar. (B) and struck out former subpar. (B) which read as follows: “submit to the Secretary an application that includes a proposal of the improvement or activity to be planned, designed, constructed, or implemented by the eligible applicant.”
+
+Subsec. (a)(3)(E)(i). Pub. L. 116–260, § 1106(b)(3), added cl. (i) and struck out former cl. (i). Prior to amendment, text read as follows: “The Federal share of the cost of any infrastructure improvement or activity that is the subject of a grant or other agreement entered into between the Secretary and an eligible applicant under paragraph (1) shall not exceed 50 percent of the cost of the infrastructure improvement or activity.”
+
+Subsec. (a)(4). Pub. L. 116–260, § 1106(b)(4), added par. (4).
+
+Subsec. (b)(1). Pub. L. 116–260, § 1106(c)(1), substituted “or eligible applicant” for “or organization with water or power delivery authority” in introductory provisions.
+
+Subsec. (b)(1)(C), (D). Pub. L. 116–260, § 1106(c)(2)–(4), added subpar. (C) and redesignated former subpar. (C) as (D).
+
+Subsec. (e). Pub. L. 116–260, § 1106(d), which directed substitution of “$700,000,000, subject to the condition that $50,000,000 of that amount shall be used to carry out section 206 of the Energy and Water Development and Related Agencies Appropriations Act, 2015 ([43 U.S.C. 620](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section620&num=0&edition=prelim) note; Public Law 113–235)” for “$530,000,000”, was executed by making the substitution for “$610,000,000” to reflect the probable intent of Congress and the intervening amendment by Pub. L. 116–260, § 203. See below.
+
+Pub. L. 116–260, § 203, substituted “$610,000,000” for “$530,000,000”.
+
 2019—Subsec. (a)(2)(A). Pub. L. 116–9, § 8501(1), substituted “within—” for “within”, inserted cl. (i) designation before “the States”, and added cls. (ii) and (iii).
 
 Subsec. (a)(3)(B). Pub. L. 116–9, § 8501(2), designated existing provisions as cl. (i) and inserted heading, substituted “Except as provided in clause (ii), in carrying” for “In carrying” in introductory provisions, redesignated former cls. (i) and (ii) as subcls. (I) and (II), respectively, of cl. (i) and realigned margins, and added cl. (ii).
 
+Subsec. (e). Pub. L. 116–94 substituted “$530,000,000” for “$480,000,000”.
+
 2018—Subsec. (e). Pub. L. 115–244 substituted “$480,000,000” for “$450,000,000”.
 
-2016—Subsec. (e). Pub. L. 114–322 substituted “$450,000,000” for “$350,000,000”. See Funding note set out below.
+2016—Subsec. (e). Pub. L. 114–322 substituted “$450,000,000” for “$350,000,000”.
 
 2015—Subsec. (e). Pub. L. 114–113 substituted “$350,000,000” for “$300,000,000”.
 
 2014—Subsec. (e). Pub. L. 113–235 substituted “$300,000,000” for “$200,000,000”.
 
 #### Funding
-Pub. L. 114–322, title III, § 4009(d), Dec. 16, 2016, 130 Stat. 1870, provided that: “Section 9504 of the Omnibus Public Land Management Act of 2009 ([42 U.S.C. 10364](./chapter-109b-secure-water.md#section-10364)) is amended in subsection (e) by striking ‘$350,000,000’ and inserting ‘$450,000,000’ on the condition that of that amount, $50,000,000 of it is used to carry out section 206 of the Energy and Water Development and Related Agencies Appropriation Act, 2015 ([43 U.S.C. 620](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section620&num=0&edition=prelim) note; Public Law 113–235).”
+Pub. L. 114–322, title III, § 4009(d), Dec. 16, 2016, 130 Stat. 1870, as amended by Pub. L. 116–260, div. FF, title XI, § 1106(e), Dec. 27, 2020, 134 Stat. 3243, provided that: “Section 9504 of the Omnibus Public Land Management Act of 2009 ([42 U.S.C. 10364](./chapter-109b-secure-water.md#section-10364)) is amended in subsection (e) by striking ‘$350,000,000’ and inserting ‘$450,000,000’.”
+
+[Amendment of section 4009(d) of Pub. L. 114–322, set out above, by section 1106(e) of div. FF of Pub. L. 116–260 struck out before period at end “on the condition that of that amount, $50,000,000 of it is used to carry out section 206 of the Energy and Water Development and Related Agencies Appropriations Act, 2015 ([43 U.S.C. 620](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section620&num=0&edition=prelim) note; Public Law 113–235)”.]
 
 
 <a id="section-10365"></a>
@@ -783,3 +882,73 @@ The Secretary may enter into contracts, grants, or cooperative agreements, for p
   (B) interstate compact governing water.
 
 (2) **Compliance required** — The Secretary shall comply with applicable State water laws in carrying out this chapter.
+
+
+<a id="section-10371"></a>
+## § 10371. Water prediction and forecasting
+**(a) National Water Center**
+
+(1) **Establishment**
+
+  (A) *In general* — The Under Secretary of Commerce for Oceans and Atmosphere shall establish a center—
+
+    (i) to serve as the research and operational center of excellence for hydrologic analyses, forecasting, and related decision support services within the National Oceanic and Atmospheric Administration and the National Weather Service; and
+
+    (ii) to facilitate collaboration across Federal and State departments and agencies, academia, and the private sector on matters relating to water resources.
+
+  (B) *Designation* — The center established under subparagraph (A) shall be known as the “National Water Center”.
+
+(2) **Functions** — The functions of the National Water Center shall include the following:
+
+  (A) Improving understanding of water resources, stakeholder needs regarding water resources, and identifying science and services gaps relating to water resources.
+
+  (B) Developing and implementing advanced water resources modeling capabilities.
+
+  (C) Facilitating the transition of hydrologic research into operations.
+
+  (D) Delivering analyses, forecasts, and inundation information and guidance for all hydrologic events in the United States, including flash flooding, riverine flooding, and water resources outlooks.
+
+  (E) In coordination with warning coordination meteorologists, providing decision-support services to inform emergency management and water resources decisions.
+
+**(b) National instructions**
+
+(1) **In general** — Not later than one year after December 31, 2020, the Under Secretary, acting through the Director of the National Weather Service, shall make public an operations and services policy directive for the National Water Center.
+
+(2) **Contents** — The directive required by paragraph (1) shall include national instructions to perform the functions of the National Water Center, including the following:
+
+  (A) Operational staff responsibilities.
+
+  (B) Guidelines for content, format, and provision of hydrologic and inundation products developed by the National Water Center.
+
+  (C) Procedures for cooperation and coordination between the National Water Center, the National Weather Service National Centers for Environmental Prediction, National Weather Service River Forecast Centers, and National Weather Service Weather Forecast Offices.
+
+**(c) Total water prediction** The Under Secretary, acting through the Director of the Office of Water Prediction of the National Weather Service, shall—
+
+(1) initiate and lead research and development activities to develop operational water resource prediction and related decision support products;
+
+(2) collaborate with, and provide decision support regarding total water prediction to—
+
+  (A) the relevant Federal agencies represented on the National Science and Technology Council, Committee on Environment, Natural Resources, and Sustainability and the Subcommittee on Disaster Reduction;
+
+  (B) State water resource agencies; and
+
+  (C) State and local emergency management agencies; and
+
+(3) in carrying out the responsibilities described in paragraphs (1) and (2), collaboratively develop capabilities necessary for total water predictive capacity, including observations, modeling, data management, supercomputing, social science, and communications.
+
+**(d) Authorization of appropriations** There are authorized to be appropriated to carry out the activities under this section amounts as follows:
+
+(1) $44,500,000 for fiscal year 2021.
+
+(2) $45,000,000 for fiscal year 2022.
+
+(3) $45,500,000 for fiscal year 2023.
+
+(4) $46,000,000 for fiscal year 2024.
+
+**(e) Derivation of funds** Funds to carry out this section shall be derived from amounts authorized to be appropriated to the National Weather Service and the National Ocean Service that are enacted after December 31, 2020.
+
+### Statutory Notes
+
+#### Codification
+Section was enacted as part of the Coordinated Ocean Observations and Research Act of 2020, and not as part of title IX of Pub. L. 111–11 which comprises this chapter.

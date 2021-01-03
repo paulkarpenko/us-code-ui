@@ -92,6 +92,7 @@ Department of War designated Department of the Army and title of Secretary of Wa
 #### Transfer of Functions
 For transfer of certain functions relating to real property under jurisdiction of Department of the Air Force from Secretary of the Army to Secretary of the Air Force, see Secretary of Defense Transfer Order Nos. 14 [§ 2(29)], eff. July 1, 1948, and 40 [App. A(53)], July 22, 1949.
 
+#### Transfer of Functions
 For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out in the Appendix to Title 5, Government Organization and Employees.
 
 
@@ -102,11 +103,11 @@ The Secretary of the Interior is authorized to establish and maintain the former
 
 ### Statutory Notes
 
-#### Transfer of Functions
-For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out in the Appendix to Title 5, Government Organization and Employees.
-
 #### Lands Held in Trust for White Mountain Apache Tribe
 Pub. L. 86–392, Mar. 18, 1960, 74 Stat. 8, provided: “That all right, title, and interest of the United States in and to the lands, together with the improvements thereon, included in the former Fort Apache Military Reservation, created by Executive order of February 1, 1877, and subsequently set aside by the Act of January 24, 1923 (42 Stat. 1187) [this section], as a site for the Theodore Roosevelt School, located within the boundaries of the Fort Apache Indian Reservation, Arizona, are hereby declared to be held by the United States in trust for the White Mountain Apache Tribe, subject to the right of the Secretary of the Interior to use any part of the land and improvements for administrative or school purposes for as long as they are needed for that purpose.”
+
+#### Transfer of Functions
+For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out in the Appendix to Title 5, Government Organization and Employees.
 
 
 <a id="section-278"></a>
@@ -213,11 +214,11 @@ No Indian child shall be sent from any Indian reservation to a school beyond the
 
 ### Statutory Notes
 
-#### Transfer of Functions
-For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out in the Appendix to Title 5, Government Organization and Employees.
-
 #### Indian Agents
 The services of Indian agents have been dispensed with. See note set out under [section 64 of this title](./chapter-002-officers-of-indian-affairs.md#section-64).
+
+#### Transfer of Functions
+For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out in the Appendix to Title 5, Government Organization and Employees.
 
 
 <a id="section-287"></a>
@@ -371,15 +372,15 @@ All expenditure of money herein or after April 30, 1908, appropriated for school
 #### Codification
 Act Apr. 30, 1908, embodied restrictions as to the amount which might be expended for the annual support and education of any one pupil and specified the method for determining the number of pupils in any school entitled to the per capita allowance provided for by the act.
 
-#### Transfer of Functions
-For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out in the Appendix to Title 5, Government Organization and Employees.
-
 #### School and Employment Transportation
 Separate appropriations for collection and transportation of pupils to and from Indian schools, etc., with a proviso that a specified part of the amount so appropriated may be used in placing Indian youths in employment in industrial pursuits were made by the following appropriation acts:
 
 Mar. 3, 1925, ch. 462, 43 Stat. 1155.
 
 May 24, 1922, ch. 199, 42 Stat. 562.
+
+#### Transfer of Functions
+For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out in the Appendix to Title 5, Government Organization and Employees.
 
 
 <a id="section-296"></a>

@@ -154,56 +154,98 @@ Pub. L. 111–84, div. A, title X, § 1073(c), Oct. 28, 2009, 123 Stat. 2474, pr
 ## § 426. Integration of Department of Defense intelligence, surveillance, and reconnaissance capabilities
 **(a) ISR Integration Council.—**
 
-(1) The Under Secretary of Defense for Intelligence shall establish an Intelligence, Surveillance, and Reconnaissance Integration Council—
+(1) The Under Secretary of Defense for Intelligence and Security shall establish an Intelligence, Surveillance, and Reconnaissance Integration Council—
 
-  (A) to assist the Under Secretary with respect to matters relating to the integration of intelligence, surveillance, and reconnaissance capabilities, and coordination of related developmental activities, of the military departments, intelligence agencies of the Department of Defense, and relevant combatant commands; and
+  (A) to assist the Secretary of Defense in carrying out the responsibilities of the Secretary under section 105(a) of the National Security Act of 1947 ([50 U.S.C. 3038(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3038/a&num=0&edition=prelim));
 
-  (B) otherwise to provide a means to facilitate the integration of such capabilities and the coordination of such developmental activities.
+  (B) to assist the Under Secretary with respect to matters relating to—
+
+    (i) integration of intelligence and counterintelligence capabilities and activities under [section 137(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section137/b&num=0&edition=prelim) of the military departments, intelligence agencies of the Department of Defense, and relevant combatant commands; and
+
+    (ii) coordination of related developmental activities of such departments, agencies, and combatant commands; and
+
+  (C) to otherwise provide a means to facilitate such integration and coordination.
 
 (2) The Council shall be composed of—
 
-  (A) the senior intelligence officers of the armed forces and the United States Special Operations Command;
+  (A) the Under Secretary, who shall chair the Council;
 
-  (B) the Director of Operations of the Joint Staff; and
+  (B) the directors of the intelligence agencies of the Department of Defense;
 
-  (C) the directors of the intelligence agencies of the Department of Defense.
+  (C) the senior intelligence officers of the armed forces and the regional and functional combatant commands;
 
-(3) The Under Secretary of Defense for Intelligence shall invite the participation of the Director of National Intelligence (or that Director’s representative) in the proceedings of the Council.
+  (D) the Director for Intelligence of the Joint Chiefs of Staff; and
 
-(4) Each Secretary of a military department may designate an officer or employee of such military department to attend the proceedings of the Council as a representative of such military department.
+  (E) the Director for Operations of the Joint Chiefs of Staff.
 
-**(b) ISR Integration Roadmap.—**
+(3) The Under Secretary shall invite the participation of the Director of National Intelligence (or a representative of the Director) in the proceedings of the Council.
 
-(1) The Under Secretary of Defense for Intelligence shall develop a comprehensive plan, to be known as the “Defense Intelligence, Surveillance, and Reconnaissance Integration Roadmap”, to guide the development and integration of the Department of Defense intelligence, surveillance, and reconnaissance capabilities for the 15-year period of fiscal years 2004 through 2018.
+(4) The Under Secretary may designate additional participants to attend the proceedings of the Council, as the Under Secretary determines appropriate.
 
-(2) The Under Secretary shall develop the Defense Intelligence, Surveillance, and Reconnaissance Integration Roadmap in consultation with the Intelligence, Surveillance, and Reconnaissance Integration Council and the Director of National Intelligence.
+**(b) Annual Briefings on the Intelligence and Counterintelligence Requirements of the Combatant Commands.—**
 
-**(c) Annual Briefing on the Intelligence, Surveillance, and Reconnaissance Requirements of the Combatant Commands.** At the same time that the President’s budget is submitted pursuant to [section 1105(a) of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1105/a&num=0&edition=prelim), United States Code, for each of fiscal years 2016 through 2025—
+(1) The Chairman of the Joint Chiefs of Staff shall provide to the congressional defense committees and the congressional intelligence committees a briefing on the following:
 
-(1) the Chairman of the Joint Chiefs of Staff shall provide to the congressional defense committees, the Permanent Select Committee on Intelligence of the House of Representatives, and the Select Committee on Intelligence of the Senate a briefing on—
+  (A) The intelligence and counterintelligence requirements, by specific intelligence capability type, of each of the relevant combatant commands.
 
-  (A) the intelligence, surveillance, and reconnaissance requirements (including with respect to space-based intelligence, surveillance, and reconnaissance), by specific intelligence capability type, of each of the combatant commands;
+  (B) For the year preceding the year in which the briefing is provided, the fulfillment rate for each of the relevant combatant commands of the validated intelligence and counterintelligence requirements, by specific intelligence capability type, of such combatant command.
 
-  (B) for the year preceding the year in which the briefing is provided, the satisfaction rate of each of the combatant commands with the intelligence, surveillance, and reconnaissance requirements (including with respect to space-based intelligence, surveillance, and reconnaissance), by specific intelligence capability type, of such combatant command;
+  (C) A risk analysis identifying the critical gaps and shortfalls in efforts to address operational and strategic requirements of the Department of Defense that would result from the failure to fulfill the validated intelligence and counterintelligence requirements of the relevant combatant commands.
 
-  (C) a risk analysis identifying the critical gaps and shortfalls in such requirements in relation to such satisfaction rate; and
+  (D) A mitigation plan to balance and offset the gaps and shortfalls identified under subparagraph (C), including with respect to spaceborne, airborne, ground, maritime, and cyber intelligence, surveillance, and reconnaissance capabilities.
 
-  (D) for the year preceding the year in which the briefing is provided—
+  (E) For the year preceding the year in which the briefing is provided—
 
-    (i) the number of hours or amount of capacity of intelligence, surveillance, and reconnaissance requested by each commander of a combatant command, by specific intelligence capability type;
+    (i) the number of intelligence and counterintelligence requests of each commander of a relevant combatant command determined by the Joint Chiefs of Staff to be a validated requirement, and the total of capacity of such requests provided to each such commander;
 
-    (ii) the number of such requests identified under clause (i) that the Joint Chiefs of Staff determined to be a validated requirement, including the number of hours or amount of capacity of such requests that were provided to each such commander; and
+    (ii) with respect to such validated requirements—
 
-    (iii) with respect to such validated requirements, the number of hours or amount of capacity of intelligence, surveillance, and reconnaissance, by specific intelligence capability type, that the Joint Chiefs of Staff requested each military department to provide, and the number of such hours or the amount of such capacity so provided by each such military department; and
+      (I) the quantity of intelligence and counterintelligence capabilities or activities, by specific intelligence capability type, that the Joint Chiefs of Staff requested each military department to provide; and
 
-(2) the Under Secretary of Defense for Intelligence shall provide to the congressional defense committees, the Permanent Select Committee on Intelligence of the House of Representatives, and the Select Committee on Intelligence of the Senate a briefing on short-term, mid-term, and long-term strategies to address the critical intelligence, surveillance, and reconnaissance requirements (including with respect to space-based intelligence, surveillance, and reconnaissance) of the combatant commands.
+      (II) the total of capacity of such requests so provided by each such military department; and
+
+    (iii) a qualitative assessment of the alignment of intelligence and counterintelligence capabilities and activities with the program of analysis for each combat support agency and intelligence center of a military service that is part of—
+
+      (I) the Defense Intelligence Enterprise; and
+
+      (II) the intelligence community.
+
+(2) The Under Secretary of Defense for Intelligence and Security shall provide to the congressional defense committees and the congressional intelligence committees a briefing on short-, mid-, and long-term strategies to address the validated intelligence and counterintelligence requirements of the relevant combatant commands, including with respect to spaceborne, airborne, ground, maritime, and cyber intelligence, surveillance, and reconnaissance capabilities.
+
+(3) The briefings required by paragraphs (1) and (2) shall be provided at the same time that the President’s budget is submitted pursuant to [section 1105(a) of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1105/a&num=0&edition=prelim) for each of fiscal years 2021 through 2025.
+
+(4) In this subsection:
+
+  (A) The term “congressional intelligence committees” has the meaning given that term in section 3 of the National Security Act of 1947 ([50 U.S.C. 3003](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3003&num=0&edition=prelim)).
+
+  (B) The term “Defense Intelligence Enterprise” means the organizations, infrastructure, and measures, including policies, processes, procedures, and products, of the intelligence, counterintelligence, and security components of each of the following:
+
+    (i) The Department of Defense.
+
+    (ii) The Joint Staff.
+
+    (iii) The combatant commands.
+
+    (iv) The military departments.
+
+    (v) Other elements of the Department of Defense that perform national intelligence, defense intelligence, intelligence-related, counterintelligence, or security functions.
+
+  (C) The term “fulfillment rate” means the percentage of combatant command intelligence and counterintelligence requirements satisfied by available, acquired, or realigned intelligence and counterintelligence capabilities or activities.
+
+  (D) The term “intelligence community” has the meaning given that term in section 3 of the National Security Act of 1947 ([50 U.S.C. 3003](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3003&num=0&edition=prelim)).
 
 ### Statutory Notes
 
 #### Codification
-Subsec. (c) of this section was based on Pub. L. 113–291, div. A, title XVI, § 1626, Dec. 19, 2014, 128 Stat. 3635; Pub. L. 115–91, div. A, title XVI, § 1624, Dec. 12, 2017, 131 Stat. 1732; Pub. L. 115–232, div. A, title XVI, § 1625(a), Aug. 13, 2018, 132 Stat. 2121, which was transferred to this chapter and redesignated as subsec. (c) of this section by Pub. L. 115–232, § 1625(b).
+Subsec. (c) of this section was based on Pub. L. 113–291, div. A, title XVI, § 1626, Dec. 19, 2014, 128 Stat. 3635; Pub. L. 115–91, div. A, title XVI, § 1624, Dec. 12, 2017, 131 Stat. 1732; Pub. L. 115–232, div. A, title XVI, § 1625(a), Aug. 13, 2018, 132 Stat. 2121, which was transferred to this chapter, redesignated as subsec. (c) of this section by Pub. L. 115–232, § 1625(b), and subsequently repealed.
 
 #### Amendments
+2019—Pub. L. 116–92, § 1621(e)(1)(A)(vii), substituted “Under Secretary of Defense for Intelligence and Security” for “Under Secretary of Defense for Intelligence” wherever appearing.
+
+Subsec. (a). Pub. L. 116–92, § 1622(a), amended subsec. (a) generally. Prior to amendment, subsec. (a) related to establishment and composition of an Intelligence, Surveillance, and Reconnaissance (ISR) Integration Council.
+
+Subsecs. (b), (c). Pub. L. 116–92, § 1622(b), added subsec. (b) and struck out former subsecs. (b) and (c) which related to ISR Integration Roadmap and annual briefing on intelligence, surveillance, and reconnaissance requirements of the combatant commands, respectively.
+
 2018—Subsec. (c). Pub. L. 115–232 transferred section 1626 of Pub. L. 113–291, as amended, to this section and redesignated it as subsec. (c). See Codification note above.
 
 2011—Subsec. (a)(4). Pub. L. 111–383 added par. (4).
@@ -213,7 +255,7 @@ Subsec. (c) of this section was based on Pub. L. 113–291, div. A, title XVI, �
 2006—Subsec. (a)(1)(B). Pub. L. 109–364 substituted “coordination” for “coordiation”.
 
 #### Integration of Defense Intelligence, Surveillance, and Reconnaissance Capabilities
-Pub. L. 108–136, div. A, title IX, § 923(a), (b), Nov. 24, 2003, 117 Stat. 1574, 1575, as amended by Pub. L. 111–383, div. A, title IX, § 922(a), Jan. 7, 2011, 124 Stat. 4330, provided that: “(a) Findings.—Congress makes the following findings:“(1) As part of transformation efforts within the Department of Defense, each of the Armed Forces is developing intelligence, surveillance, and reconnaissance capabilities that best support future war fighting as envisioned by the leadership of the military department concerned. “(2) Concurrently, intelligence agencies of the Department of Defense outside the military departments are developing transformation roadmaps to best support the future decisionmaking and war fighting needs of their principal customers, but are not always closely coordinating those efforts with the intelligence, surveillance, and reconnaissance development efforts of the military departments. “(3) A senior official of each military department has been designated as the integrator of intelligence, surveillance, and reconnaissance for each of the Armed Forces in such military department, but there is not currently a well-defined forum through which the integrators of intelligence, surveillance, and reconnaissance capabilities for each of the Armed Forces can routinely interact with each other and with senior representatives of Department of Defense intelligence agencies, as well as with other members of the intelligence community, to ensure unity of effort and to preclude unnecessary duplication of effort. “(4) The current funding structure of a National Intelligence Program (NIP) and a Military Intelligence Program (MIP) may not be the best approach for supporting the development of an intelligence, surveillance, and reconnaissance structure that is integrated to meet the national security requirements of the United States in the 21st century. “(5) The position of Under Secretary of Defense for Intelligence was established in 2002 by Public Law 107–314 [see [10 U.S.C. 137](./chapter-004-office-of-the-secretary-of-defense.md#section-137)] in order to facilitate resolution of the challenges to achieving an integrated intelligence, surveillance, and reconnaissance structure in the Department of Defense to meet such 21st century requirements. “(b) Goal.—It shall be a goal of the Department of Defense to fully integrate the intelligence, surveillance, and reconnaissance capabilities and coordinate the developmental activities of the military departments, intelligence agencies of the Department of Defense, and relevant combatant commands as those departments, agencies, and commands transform their intelligence, surveillance, and reconnaissance systems to meet current and future needs.”
+Pub. L. 108–136, div. A, title IX, § 923(a), (b), Nov. 24, 2003, 117 Stat. 1574, 1575, as amended by Pub. L. 111–383, div. A, title IX, § 922(a), Jan. 7, 2011, 124 Stat. 4330, provided that: “(a) Findings.—Congress makes the following findings:“(1) As part of transformation efforts within the Department of Defense, each of the Armed Forces is developing intelligence, surveillance, and reconnaissance capabilities that best support future war fighting as envisioned by the leadership of the military department concerned. “(2) Concurrently, intelligence agencies of the Department of Defense outside the military departments are developing transformation roadmaps to best support the future decisionmaking and war fighting needs of their principal customers, but are not always closely coordinating those efforts with the intelligence, surveillance, and reconnaissance development efforts of the military departments. “(3) A senior official of each military department has been designated as the integrator of intelligence, surveillance, and reconnaissance for each of the Armed Forces in such military department, but there is not currently a well-defined forum through which the integrators of intelligence, surveillance, and reconnaissance capabilities for each of the Armed Forces can routinely interact with each other and with senior representatives of Department of Defense intelligence agencies, as well as with other members of the intelligence community, to ensure unity of effort and to preclude unnecessary duplication of effort. “(4) The current funding structure of a National Intelligence Program (NIP) and a Military Intelligence Program (MIP) may not be the best approach for supporting the development of an intelligence, surveillance, and reconnaissance structure that is integrated to meet the national security requirements of the United States in the 21st century. “(5) The position of Under Secretary of Defense for Intelligence [now Under Secretary of Defense for Intelligence and Security] was established in 2002 by Public Law 107–314 [see [10 U.S.C. 137](./chapter-004-office-of-the-secretary-of-defense.md#section-137)] in order to facilitate resolution of the challenges to achieving an integrated intelligence, surveillance, and reconnaissance structure in the Department of Defense to meet such 21st century requirements. “(b) Goal.—It shall be a goal of the Department of Defense to fully integrate the intelligence, surveillance, and reconnaissance capabilities and coordinate the developmental activities of the military departments, intelligence agencies of the Department of Defense, and relevant combatant commands as those departments, agencies, and commands transform their intelligence, surveillance, and reconnaissance systems to meet current and future needs.”
 
 
 <a id="section-427"></a>
@@ -332,17 +374,24 @@ Subsec. (e). Pub. L. 113–291, § 1071(c)(5)(B), substituted “([50 U.S.C. 300
 
 <a id="section-430"></a>
 ## § 430. Tactical Exploitation of National Capabilities Executive Agent
-**(a) Designation.—** The Under Secretary of Defense for Intelligence shall designate a civilian employee of the Department or a member of the armed forces to serve as the Tactical Exploitation of National Capabilities Executive Agent.
+**(a) Designation.—** The Under Secretary of Defense for Intelligence and Security shall designate a civilian employee of the Department or a member of the armed forces to serve as the Tactical Exploitation of National Capabilities Executive Agent.
 
 **(b) Duties.—** The Executive Agent designated under subsection (a) shall—
 
-(1) report directly to the Under Secretary of Defense for Intelligence;
+(1) report directly to the Under Secretary of Defense for Intelligence and Security;
 
 (2) work with the combatant commands, military departments, and the intelligence community (as defined in section 3(4) of the National Security Act of 1947 ([50 U.S.C. 3003(4)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3003/4&num=0&edition=prelim)) to—
 
   (A) develop methods to increase warfighter effectiveness through the exploitation of national capabilities; and
 
   (B) promote cross-domain integration of such capabilities into military operations, training, intelligence, surveillance, and reconnaissance activities.
+
+### Statutory Notes
+
+#### Amendments
+2021—Subsec. (b)(1). Pub. L. 116–283 inserted “and Security” after “for Intelligence”.
+
+2019—Subsec. (a). Pub. L. 116–92 substituted “Under Secretary of Defense for Intelligence and Security” for “Under Secretary of Defense for Intelligence”.
 
 
 <a id="section-430a"></a>

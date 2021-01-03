@@ -1172,11 +1172,17 @@ Pub. L. 96–605, title IV, § 402, Dec. 28, 1980, 94 Stat. 3532, as amended by 
 
 (2) **Rules for applying paragraph (1)** — Determinations under paragraph (1) shall be made—
 
-  (A) on the basis of interest at the greater of an annual effective rate of 4 percent or the rate or rates guaranteed on issuance of the contract,
+  (A) on the basis of interest at the greater of the applicable accumulation test minimum rate or the rate or rates guaranteed on issuance of the contract,
 
   (B) on the basis of the rules of subparagraph (B)(i) (and, in the case of qualified additional benefits, subparagraph (B)(ii)) of subsection (c)(3), and
 
   (C) by taking into account under subparagraphs (A) and (D) of subsection (e)(1) only current and future death benefits and qualified additional benefits.
+
+(3) **Applicable accumulation test minimum rate** — For purposes of paragraph (2)(A), the term “applicable accumulation test minimum rate” means the lesser of—
+
+  (A) an annual effective rate of 4 percent, or
+
+  (B) the insurance interest rate (as defined in subsection (f)(11)) in effect at the time the contract is issued.
 
 **(c) Guideline premium requirements** For purposes of this section—
 
@@ -1198,7 +1204,7 @@ Pub. L. 96–605, title IV, § 402, Dec. 28, 1980, 94 Stat. 3532, as amended by 
 
     (ii) any reasonable charges (other than mortality charges) which (on the basis of the company’s experience, if any, with respect to similar contracts) are reasonably expected to be actually paid, and
 
-    (iii) interest at the greater of an annual effective rate of 6 percent or the rate or rates guaranteed on issuance of the contract.
+    (iii) interest at the greater of the applicable guideline premium minimum rate or the rate or rates guaranteed on issuance of the contract.
 
   (C) *When determination made* — Except as provided in subsection (f)(7), the determination under subparagraph (A) shall be made as of the time the contract is issued.
 
@@ -1208,7 +1214,9 @@ Pub. L. 96–605, title IV, § 402, Dec. 28, 1980, 94 Stat. 3532, as amended by 
 
     (ii) *New companies, etc.* — If any company does not have adequate experience for purposes of the determination under subparagraph (B)(ii), to the extent provided in regulations, such determination shall be made on the basis of the industry-wide experience.
 
-(4) **Guideline level premium** — The term “guideline level premium” means the level annual amount, payable over a period not ending before the insured attains age 95, computed on the same basis as the guideline single premium, except that paragraph (3)(B)(iii) shall be applied by substituting “4 percent” for “6 percent”.
+  (E) *Applicable guideline premium minimum rate* — For purposes of subparagraph (B)(iii), the term “applicable guideline premium minimum rate” means the applicable accumulation test minimum rate (as defined in subsection (b)(3)) plus 2 percentage points.
+
+(4) **Guideline level premium** — The term “guideline level premium” means the level annual amount, payable over a period not ending before the insured attains age 95, computed on the same basis as the guideline single premium, except that paragraph (3)(B)(iii) shall be applied by substituting “the applicable accumulation test minimum rate” for “the applicable guideline premium minimum rate”.
 
 **(d) Cash value corridor for purposes of subsection (a)(2)(B)** For purposes of this section—
 
@@ -1329,6 +1337,26 @@ Pub. L. 96–605, title IV, § 402, Dec. 28, 1980, 94 Stat. 3532, as amended by 
 
 (10) **Prevailing commissioners’ standard tables** — For purposes of subsection (c)(3)(B)(i), the term “prevailing commissioners’ standard tables” means the most recent commissioners’ standard tables prescribed by the National Association of Insurance Commissioners which are permitted to be used in computing reserves for that type of contract under the insurance laws of at least 26 States when the contract was issued. If the prevailing commissioners’ standard tables as of the beginning of any calendar year (hereinafter in this paragraph referred to as the “year of change”) are different from the prevailing commissioners’ standard tables as of the beginning of the preceding calendar year, the issuer may use the prevailing commissioners’ standard tables as of the beginning of the preceding calendar year with respect to any contract issued after the change and before the close of the 3-year period beginning on the first day of the year of change.
 
+(11) **Insurance interest rate** — For purposes of this section—
+
+  (A) *In general* — The term “insurance interest rate” means, with respect to any contract issued in any calendar year, the lesser of—
+
+    (i) the section 7702 valuation interest rate for such calendar year (or, if such calendar year is not an adjustment year, the most recent adjustment year), or
+
+    (ii) the section 7702 applicable Federal interest rate for such calendar year (or, if such calendar year is not an adjustment year, the most recent adjustment year).
+
+  (B) *Section 7702 valuation interest rate* — The term “section 7702 valuation interest rate” means, with respect to any adjustment year, the prescribed U.S. valuation interest rate for life insurance with guaranteed durations of more than 20 years (as defined in the National Association of Insurance Commissioners’ Standard Valuation Law) as effective in the calendar year immediately preceding such adjustment year.
+
+  (C) *Section 7702 applicable Federal interest rate* — The term “section 7702 applicable Federal interest rate” means, with respect to any adjustment year, the average (rounded to the nearest whole percentage point) of the applicable Federal mid-term rates (as defined in section 1274(d) but based on annual compounding) effective as of the beginning of each of the calendar months in the most recent 60-month period ending before the second calendar year prior to such adjustment year.
+
+  (D) *Adjustment year* — The term “adjustment year” means the calendar year following any calendar year that includes the effective date of a change in the prescribed U.S. valuation interest rate for life insurance with guaranteed durations of more than 20 years (as defined in the National Association of Insurance Commissioners’ Standard Valuation Law).
+
+  (E) *Transition rule* — Notwithstanding subparagraph (A), the insurance interest rate shall be 2 percent in the case of any contract which is issued during the period that—
+
+    (i) begins on January 1, 2021, and
+
+    (ii) ends immediately before the beginning of the first adjustment year that beings after December 31, 2021.
+
 **(g) Treatment of contracts which do not meet subsection (a) test**
 
 (1) **Income inclusion**
@@ -1396,6 +1424,18 @@ Pub. L. 96–605, title IV, § 402, Dec. 28, 1980, 94 Stat. 3532, as amended by 
 ### Statutory Notes
 
 #### Amendments
+2020—Subsec. (b)(2)(A). Pub. L. 116–260, § 205(a)(1), substituted “the applicable accumulation test minimum rate” for “an annual effective rate of 4 percent”.
+
+Subsec. (b)(3). Pub. L. 116–260, § 205(a)(2), added par. (3).
+
+Subsec. (c)(3)(B)(iii). Pub. L. 116–260, § 205(b)(1), substituted “the applicable guideline premium minimum rate” for “an annual effective rate of 6 percent”.
+
+Subsec. (c)(3)(E). Pub. L. 116–260, § 205(b)(2), added subpar. (E).
+
+Subsec. (c)(4). Pub. L. 116–260, § 205(c), substituted “the applicable accumulation test minimum rate” for “4 percent” and “the applicable guideline premium minimum rate” for “6 percent”.
+
+Subsec. (f)(11). Pub. L. 116–260, § 205(d), added par. (11).
+
 2017—Subsec. (c)(3)(B)(i). Pub. L. 115–97, § 13517(a)(4)(A), added cl. (i) and struck out former cl. (i) which read as follows: “reasonable mortality charges which meet the requirements (if any) prescribed in regulations and which (except as provided in regulations) do not exceed the mortality charges specified in the prevailing commissioners’ standard tables (as defined in section 807(d)(5)) as of the time the contract is issued,”.
 
 Subsec. (f)(10). Pub. L. 115–97, § 13517(a)(4)(B), added par. (10).
@@ -1428,6 +1468,9 @@ Subsec. (f)(7). Pub. L. 99–514, § 1825(b)(1), amended par. (7) generally. Pri
 
 Subsec. (g)(1)(B)(ii). Pub. L. 99–514, § 1825(c), amended cl. (ii) generally. Prior to amendment, cl. (ii) read as follows: “the amount of premiums paid under the contract during the taxable year reduced by any policyholder dividends received during such taxable year.”
 
+#### Effective Date of 2020 Amendment
+Pub. L. 116–260, div. EE, title II, § 205(e), Dec. 27, 2020, 134 Stat. 3059, provided that: “The amendments made by this section [amending this section] shall apply to contracts issued after December 31, 2020.”
+
 #### Effective Date of 2017 Amendment
 Amendment by Pub. L. 115–97 applicable to taxable years beginning after Dec. 31, 2017, with transition rule and transition relief, see section 13517(c) of Pub. L. 115–97, set out as a note under [section 807 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-807).
 
@@ -1445,7 +1488,7 @@ Amendment by section 1825(a)(1)–(3), (b), (c) of Pub. L. 99–514 effective, e
 Pub. L. 98–369, div. A, title II, § 221(d), July 18, 1984, 98 Stat. 772, as amended by Pub. L. 99–514, § 2, title XVIII, §§ 1825(e), 1899A(69), Oct. 22, 1986, 100 Stat. 2095, 2848, 2962, provided that: “(1) In general.—Except as otherwise provided in this subsection, the amendments made by this section [enacting this section and amending [section 101 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-101) and provisions set out as a note under [section 101 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-101)] shall apply to contracts issued after December 31, 1984, in taxable years ending after such date. “(2) Special rule for certain contracts issued after june 30, 1984.—“(A) General rule.—Except as otherwise provided in this paragraph, the amendments made by this section shall apply also to any contract issued after June 30, 1984, which provides an increasing death benefit and has premium funding more rapid than 10-year level premium payments. “(B) Exception for certain contracts.—Subparagraph (A) shall not apply to any contract if—“(i) such contract (whether or not a flexible premium contract) would meet the requirements of section 101(f) of the Internal Revenue Code of 1986 [formerly I.R.C. 1954], “(ii) such contract is not a flexible premium life insurance contract (within the meaning of section 101(f) of such Code) and would meet the requirements of section 7702 of such Code determined by—“(I) substituting ‘3 percent’ for ‘4 percent’ in section 7702(b)(2) of such Code, and “(II) treating subparagraph (B) of section 7702(e)(1) of such Code as if it read as follows: ‘the maturity date shall be the latest maturity date permitted under the contract, but not less than 20 years after the date of issue or (if earlier) age 95’, or “(iii) under such contract—“(I) the premiums (including any policy fees) will be adjusted from time-to-time to reflect the level amount necessary (but not less than zero) at the time of such adjustment to provide a level death benefit assuming interest crediting and an annual effective interest rate of not less than 3 percent, or “(II) at the option of the insured, in lieu of an adjustment under subclause (I) there will be a comparable adjustment in the amount of the death benefit. “(C) Certain contracts issued before october 1, 1984.—“(i) In general.—Subparagraph (A) shall be applied by substituting ‘September 30, 1984’ for ‘June 30, 1984’ in the case of a contract—“(I) which would meet the requirements of section 7702 of such Code if ‘3 percent’ were substituted for ‘4 percent’ in section 7702(b)(2) of such Code, and the rate or rates guaranteed on issuance of the contract were determined without regard to any mortality charges and any initial excess interest guarantees, and “(II) the cash surrender value of which does not at any time exceed the net single premium which would have to be paid at such time to fund future benefits under the contract. “(ii) Definitions.—For purposes of clause (i)—“(I) In general.—Except as provided in subclause (II), terms used in clause (i) shall have the same meanings as when used in section 7702 of such Code. “(II) Net single premium.—The term ‘net single premium’ shall be determined by substituting ‘3 percent’ for ‘4 percent’ in section 7702(b)(2) of such Code, by using the 1958 standard ordinary mortality and morbidity tables of the National Association of Insurance Commissioners, and by assuming a level death benefit. “(3) Transitional rule for certain existing plans of insurance.—A plan of insurance on file in 1 or more States before September 28, 1983, shall be treated for purposes of section 7702(i)(3) of such Code as a plan of insurance on file in 1 or more States before September 28, 1983, without regard to whether such plan of insurance is modified after September 28, 1983, to permit the crediting of excess interest or similar amounts annually and not monthly under contracts issued pursuant to such plan of insurance. “(4) Extension of flexible premium contract provisions.—The amendments made by subsection (b) [amending [section 101 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-101) and provisions set out as a note under [section 101 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-101)] shall take effect on January 1, 1984. “(5) Special rule for master contract.—For purposes of this subsection, in the case of a master contract, the date taken into account with respect to any insured shall be the first date on which such insured is covered under such contract.”
 
 #### Interim Rules; Regulations; Standards Before Regulations Take Effect
-Pub. L. 100–647, title V, § 5011(c), Nov. 10, 1988, 102 Stat. 3661, provided that: “(1) Regulations.—Not later than January 1, 1990, the Secretary of the Treasury (or his delegate) shall issue regulations under section 7702(c)(3)(B)(i) of the 1986 Code (as amended by subsection (a)). “(2) Standards before regulations take effect.—In the case of any contract to which the amendments made by this section [amending this section] apply and which is issued before the effective date of the regulations required under paragraph (1), mortality charges which do not differ materially from the charges actually expected to be imposed by the company (taking into account any relevant characteristic of the insured of which the company is aware) shall be treated as meeting the requirements of clause (i) of section 7702(c)(3)(B) of the 1986 Code (as amended by subsection (a)).”
+Pub. L. 100–647, title V, § 5011(c), Nov. 10, 1988, 102 Stat. 3661, provided that the Secretary of the Treasury would issue regulations under subsec. (c)(3)(B)(i) of this section and provided for a standard for contracts issues before the effective date of those regulations.
 
 #### Plan Amendments Not Required Until January 1, 1989
 For provisions directing that if any amendments made by subtitle A or subtitle C of title XI [§§ 1101–1147 and 1171–1177] or title XVIII [§§ 1800–1899A] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under [section 401 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-401).

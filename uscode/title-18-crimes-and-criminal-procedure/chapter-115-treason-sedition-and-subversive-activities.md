@@ -172,6 +172,7 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
 Coast Guard transferred to Department of Transportation and functions, powers, and duties, relating to Coast Guard, of Secretary of the Treasury and of other offices and officers of Department of the Treasury transferred to Secretary of Transportation by Pub. L. 89–670, Oct. 15, 1966, 80 Stat. 931, which created Department of Transportation. See [section 108 of Title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section108&num=0&edition=prelim), Transportation.
 
+#### Transfer of Functions
 Functions of all officers of Department of the Treasury and functions of all agencies and employees of such Department transferred, with certain exceptions, to Secretary of the Treasury, with power vested in him to authorize their performance or performance of any of his functions, by any of such officers, agencies, and employees, by Reorg. Plan No. 26, of 1950, §§ 1, 2, eff. July 31, 1950, 15 F.R. 4935, 64 Stat. 1280, set out in the Appendix to Title 5, Government Organization and Employees. Such plan excepted from transfer functions of Coast Guard and Commandant thereof when Coast Guard is operating as a part of the Navy under former sections 1 and 3 (now 101 and 103) of Title 14, Coast Guard.
 
 
@@ -198,10 +199,10 @@ Minor changes were made in phraseology.
 1994—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $10,000” in last par. of subsec. (a) and in subsec. (c).
 
 #### Repeals
-Section 7 of act June 30, 1953, ch. 175, 67 Stat. 134, repealed Joint Res. July 3, 1952, ch. 570, § 1(a)(29), 66 Stat. 333; Joint Res. Mar. 31, 1953, ch. 13, § 1, 67 Stat. 18, which had provided that this section should continue in force until six months after the termination of the National emergency proclaimed by 1950 Proc. No. 2914, which is set out as a note preceding [section 1 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1&num=0&edition=prelim), War and National Defense.
+Act June 30, 1953, ch. 175, § 7, 67 Stat. 134, repealed Joint Res. July 3, 1952, ch. 570, § 1(a)(29), 66 Stat. 333; Joint Res. Mar. 31, 1953, ch. 13, § 1, 67 Stat. 18, which had provided that this section should continue in force until six months after the termination of the National emergency proclaimed by 1950 Proc. No. 2914, which is set out as a note preceding [section 1 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1&num=0&edition=prelim), War and National Defense.
 
 #### Repeal of Extensions of War-time Provisions
-Section 6 of Joint Res. July 3, 1952, repealed Joint Res. Apr. 14, 1952, ch. 204, 66 Stat. 54, as amended by Joint Res. May 28, 1952, ch. 339, 66 Stat. 96. Intermediate extensions by Joint Res. June 14, 1952, ch. 437, 66 Stat. 137, and Joint Res. June 30, 1952, ch. 526, 66 Stat. 296, which continued provisions until July 3, 1952, expired by their own terms.
+Joint Res. July 3, 1952, ch. 570, § 6, 66 Stat. 334, repealed Joint Res. Apr. 14, 1952, ch. 204, 66 Stat. 54, as amended by Joint Res. May 28, 1952, ch. 339, 66 Stat. 96. Intermediate extensions by Joint Res. June 14, 1952, ch. 437, 66 Stat. 137, and Joint Res. June 30, 1952, ch. 526, 66 Stat. 296, which continued provisions until July 3, 1952, expired by their own terms.
 
 
 <a id="section-2389"></a>

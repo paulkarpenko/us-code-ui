@@ -1,8 +1,8 @@
 ---
 title: 44
 heading: PUBLIC PRINTING AND DOCUMENTS
-positive_law: false
-sections: 345
+positive_law: true
+sections: 346
 chapters: 23
 ---
 # Title 44. PUBLIC PRINTING AND DOCUMENTS

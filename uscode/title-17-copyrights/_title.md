@@ -1,9 +1,9 @@
 ---
 title: 17
 heading: COPYRIGHTS
-positive_law: false
-sections: 142
-chapters: 14
+positive_law: true
+sections: 153
+chapters: 15
 ---
 # Title 17. COPYRIGHTS
 
@@ -22,3 +22,4 @@ chapters: 14
 - 12 — COPYRIGHT PROTECTION AND MANAGEMENT SYSTEMS
 - 13 — PROTECTION OF ORIGINAL DESIGNS
 - 14 — UNAUTHORIZED USE OF PRE-1972 SOUND RECORDINGS
+- 15 — COPYRIGHT SMALL CLAIMS

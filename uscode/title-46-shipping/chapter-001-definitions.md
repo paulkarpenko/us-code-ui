@@ -20,6 +20,9 @@ In this title, the term “agency” means a department, agency, or instrumental
 
 A definition of “agency” is added to avoid having to repeat the substance of the definition at various places in the revised title.
 
+#### Short Title of 2019 Amendment
+Pub. L. 116–92, div. C, title XXXV, § 3514(a), Dec. 20, 2019, 133 Stat. 1980, provided that: “This section [amending [section 50302 of this title](./chapter-503-administrative.md#section-50302), enacting provisions set out as a note under [section 50302 of this title](./chapter-503-administrative.md#section-50302), and amending provisions set out as notes under [section 51318 of this title](./chapter-513-united-states-merchant-marine-academy.md#section-51318) and [section 9620 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section9620&num=0&edition=prelim), The Public Health and Welfare] may be cited as the ‘Ports Improvement Act’.”
+
 #### Short Title of 2018 Amendment
 Pub. L. 115–265, § 1, Oct. 11, 2018, 132 Stat. 3742, provided that: “This Act [enacting [section 6309 of this title](./chapter-063-investigating-marine-casualties.md#section-6309), amending sections 2116, 3306, 3316, and 6101 of this title and sections 1952, 1954, and 1958 of Title 33, Navigation and Navigable Waters, and enacting provisions set out as notes under this section, sections 2101, 2116, 3201, 3203, 3306, 3315, and 3316 of this title, sections 1, 58, 88, and 93 of Title 14, Coast Guard, and [section 822 of Title 45](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title45-section822&num=0&edition=prelim), Railroads] may be cited as the ‘Save Our Seas Act of 2018’.”
 

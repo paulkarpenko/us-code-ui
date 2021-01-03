@@ -26,6 +26,12 @@ The purpose of this subtitle is to provide the Federal Government with an econom
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
 | 101 | 40:471. | June 30, 1949, ch. 288, § 2, 63 Stat. 378; Sept. 1, 1954, ch. 1211, § 1, 68 Stat. 1126. |
 
+#### Short Title of 2021 Amendment
+Pub. L. 116–333, § 1, Jan. 13, 2021, 134 Stat. 5113, provided that: “This Act [enacting [section 3318 of this title](./chapter-033-acquisition-construction-and-alteration.md#section-3318)] may be cited as the ‘Transparency in Federal Buildings Projects Act of 2019’.”
+
+#### Short Title of 2020 Amendment
+Pub. L. 116–194, § 1, Dec. 3, 2020, 134 Stat. 981, provided that: “This Act [enacting provisions set out as a note under [section 11301 of this title](./chapter-113-responsibility-for-acquisitions-of-information-technology.md#section-11301)] may be cited as the ‘Information Technology Modernization Centers of Excellence Program Act’.”
+
 #### Short Title of 2019 Amendment
 Pub. L. 116–75, § 1, Nov. 27, 2019, 133 Stat. 1160, provided that: “This Act [amending [section 6121 of this title](./chapter-061-united-states-supreme-court-building-and-grounds.md#section-6121)] may be cited as the ‘Reauthorizing Security for Supreme Court Justices Act of 2019’.”
 
@@ -475,16 +481,16 @@ In subsection (f), the words “expenses under” are substituted for “subsist
 Advisory committees established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided by law. See section 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 776, set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Ex. Ord. No. 12072. Federal Space Management
-Ex. Ord. No. 12072, Aug. 16, 1978, 43 F.R. 36869, provided:
+Ex. Ord. No. 12072, Aug. 16, 1978, 43 F.R. 36869, as amended by Ex. Ord. No. 13946, § 1, Aug. 24, 2020, 85 F.R. 52879, provided:
 
 By the authority vested in me as President of the United States of America by Section 205(a) of the Federal Property and Administrative Services Act of 1949, as amended ([40 U.S.C. 486(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40-section486/a&num=0&edition=prelim)) [now [40 U.S.C. 121(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40-section121/a&num=0&edition=prelim)], and in order to prescribe appropriate policies and directives, not inconsistent with that Act [now chapters 1 to 11 of this title and division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of Title 41, Public Contracts] and other applicable provisions of law, for the planning, acquisition, utilization, and management of Federal space facilities, it is hereby ordered as follows:
 
-#### 1–1. Space Acquisition
+#### 1–1. Space Acquisition and Management. [sic]
 1–101. Federal facilities and Federal use of space in urban areas shall serve to strengthen the Nation’s cities and to make them attractive places to live and work. Such Federal space shall conserve existing urban resources and encourage the development and redevelopment of cities.
 
 1–102. Procedures for meeting space needs in urban areas shall give serious consideration to the impact a site selection will have on improving the social, economic, environmental, and cultural conditions of the communities in the urban area.
 
-1–103. Except where such selection is otherwise prohibited, the process for meeting Federal space needs in urban areas shall give first consideration to a centralized community business area and adjacent areas of similar character, including other specific areas which may be recommended by local officials.
+1–103. In the process for meeting Federal space needs, except where such selection is otherwise prohibited, and where cost and security considerations take precedence, preference is to be given to qualified opportunity zones (as defined in [26 U.S.C. 1400Z–1](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section1400Z–1&num=0&edition=prelim)), other distressed areas, and centralized community business areas (including other specific areas which may be recommended by local officials).
 
 1–104. The process of meeting Federal space needs in urban areas shall be consistent with the policies of this Order and shall include consideration of the following criteria:
 
@@ -513,9 +519,9 @@ By the authority vested in me as President of the United States of America by Se
 1–106. Site selection and space assignments shall take into account the management needs for consolidation of agencies or activities in common or adjacent space in order to improve administration and management and effect economies.
 
 #### 1–2. Administrator of General Services
-1–201. The Administrator of General Services shall develop programs to implement the policies of this Order through the efficient acquisition and utilization of Federally owned and leased space. In particular, the Administrator shall:
+1–201. The Administrator of General Services shall develop programs to implement the policies of this Order through the efficient acquisition, utilization, and disposal of Federally owned and leased space. In particular, the Administrator shall:
 
-(a) Select, acquire, and manage Federal space in a manner which will foster the policies and programs of the Federal government and improve the management and administration of government activities.
+(a) Select, acquire, manage, and dispose of Federal space in a manner that will foster the policies and programs of the Federal Government and improve the management and administration of government activities.
 
 (b) Issue regulations, standards, and criteria for the selection, acquisition, and management of Federally owned and leased space.
 
@@ -523,11 +529,9 @@ By the authority vested in me as President of the United States of America by Se
 
 (d) Ensure, in cooperation with the heads of Executive agencies, that their essential space requirements are met in a manner that is economically feasible and prudent.
 
-(e) Make maximum use of existing Federally controlled facilities which, in his judgment, are adequate or economically adaptable to meeting the space needs of executive agencies.
+(e) Make maximum use of existing Federally controlled facilities which, in the Administrator’s judgment, are adequate or economically adaptable to meeting the space needs of executive agencies.
 
-(f) Annually submit long–range plans and programs for the acquisition, modernization, and use of space for approval by the President.
-
-1–202. The Administrator is authorized to request from any Executive agency such information and assistance deemed necessary to carry out his functions under this Order. Each agency shall, to the extent not prohibited by law, furnish such information and assistance to the Administrator.
+1–202. The Administrator is authorized to request from any Executive agency such information and assistance deemed necessary to carry out the Administrator’s functions under this Order. Each agency shall, to the extent not prohibited by law, furnish such information and assistance to the Administrator.
 
 1–203. In the process of meeting Federal space needs in urban areas and implementing the policies of this Order, the Administrator shall:
 
@@ -549,8 +553,6 @@ By the authority vested in me as President of the United States of America by Se
 1–302. Executive agencies which acquire or utilize Federally owned or leased space under authority other than the Federal Property and Administrative Services Act of 1949, as amended [now chapters 1 to 11 of this title and division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of Title 41], shall conform to the provisions of this Order to the extent they have the authority to do so.
 
 1–303. Executive Order No. 11512 of February 27, 1970, is revoked.
-
-Jimmy Carter.
 
 #### Executive Order No. 12512
 Ex. Ord. No. 12512, Apr. 29, 1985, 50 F.R. 18453, which related to Federal real property management, was revoked by Ex. Ord. No. 13327, § 8, Feb. 4, 2004, 69 F.R. 5897, set out below.

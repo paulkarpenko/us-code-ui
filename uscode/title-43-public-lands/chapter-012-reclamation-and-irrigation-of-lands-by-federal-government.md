@@ -2,7 +2,7 @@
 title: 43
 chapter: '12'
 heading: RECLAMATION AND IRRIGATION OF LANDS BY FEDERAL GOVERNMENT
-section_count: 412
+section_count: 413
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43&num=0&edition=prelim
 ---
@@ -54,7 +54,7 @@ Act Dec. 5, 1924, ch. 4, § 4, 43 Stat. 701, as amended, which enacted this sect
 #### Western Water Policy Review
 Pub. L. 104–46, title V, § 502, Nov. 13, 1995, 109 Stat. 419, provided that: “Notwithstanding the provisions of any other law, the report referred to in title 30 [XXX] of Public Law 102–575 [set out below] shall be submitted within five years from the date of enactment of that Act [Oct. 30, 1992].”
 
-Pub. L. 102–575, title XXX, Oct. 30, 1992, 106 Stat. 4693, as amended by Pub. L. 103–437, § 16(a)(2), Nov. 2, 1994, 108 Stat. 4594, provided that: “SEC. 3001. SHORT TITLE.“This title may be cited as the ‘Western Water Policy Review Act of 1992’. “SEC. 3002. CONGRESSIONAL FINDINGS.“The Congress finds that—“(1) the Nation needs an adequate water supply for all states [States] at a reasonable cost; “(2) the demands on the Nation’s finite water supply are increasing; “(3) coordination on both the Federal level and the local level is needed to achieve water policy objectives; “(4) not less than fourteen agencies of the Federal Government are currently charged with functions relating to the oversight of water policy; “(5) the diverse authority over Federal water policy has resulted in unclear goals and an inefficient handling of the Nation’s water policy; “(6) the conflict between competing goals and objectives by Federal, State, and local agencies as well as by private water users is particularly acute in the nineteen Western States which have arid climates which include the seventeen reclamation States, Hawaii, and Alaska; “(7) the appropriations doctrine of water allocation which characterizes most western water management regimes varies from State to State, and results in many instances in increased competition for limited resources; “(8) the Federal Government has recognized and continues to recognize the primary jurisdiction of the several States over the allocation, priority, and use of water resources of the States, except to the extent such jurisdiction has been preempted in whole or in part by the Federal Government, including, but not limited to, express or implied Federal reserved water rights either for itself or for the benefit of Indian Tribes, and that the Federal Government will, in exercising its authorities, comply with applicable State laws; “(9) the Federal Government recognizes its trust responsibilities to protect Indian water rights and assist Tribes in the wise use of those resources; “(10) Federal agencies, such as the Bureau of Reclamation, have had, and will continue to have major responsibilities in assisting States in the wise management and allocation of scarce water resources; and “(11) the Secretary of the Interior, given his responsibilities for management of public land, trust responsibilities for Indians, administration of the reclamation program, investigations and reviews into ground water resources through the Geologic Survey [now United States Geological Survey], and the Secretary of the Army, given his responsibilities for flood control, water supply, hydroelectric power, recreation, and fish and wildlife enhancement, have the resources to assist in a comprehensive review, in consultation with appropriate officials from the nineteen Western States, into the problems and potential solutions facing the nineteen Western States and the Federal Government in the increasing competition for the scarce water resources of the Western States. “SEC. 3003. PRESIDENTIAL REVIEW.“(a) The President is directed to undertake a comprehensive review of Federal activities in the nineteen Western States which directly or indirectly affect the allocation and use of water resources, whether surface or subsurface, and to submit a report on the President’s findings, together with recommendations, if any, to the Committees on Energy and Natural Resources, Environment and Public Works and Appropriations of the Senate and the Committees on Natural Resources, Public Works and Transportation [now Transportation and Infrastructure], Merchant Marine and Fisheries and Appropriations of the House of Representatives. “(b) Such report shall be submitted within three years from the date of enactment of this Act [Oct. 30, 1992]. “(c) In conducting the review and preparing the report, the President is directed to consult with the Advisory Commission established under [section 3004 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section3004&num=0&edition=prelim), and may request the Secretary of the Interior and the Secretary of the Army or other Federal officials or the Commission to undertake such studies or other analyses as the President determines would assist in the review. “(d) The President shall consult periodically with the Commission, and upon the request of the President, the heads of other Federal agencies are directed to cooperate with and assist the Commission in its activities. “SEC. 3004. THE ADVISORY COMMISSION.“(a) The President shall appoint an Advisory Commission (hereafter in this title referred to as the ‘Commission’) to assist in the preparation and review of the report required under this title. “(b) The Commission shall be composed of eighteen members as follows:“(1) Ten members appointed by the President including:“(A) the Secretary of the Interior or his designee; “(B) the Secretary of the Army or his designee; “(C) at least one representative chosen from a list submitted by the Western Governors Association; and “(D) at least one representative chosen from a list submitted by Tribal governments located in the Western States. “(2) In addition to the ten members appointed by the President, twelve Members from the United States Congress shall serve as ex officio members of the Commission. For the United States Senate: the Chairmen and the Ranking Minority Members of the Committees on Energy and Natural Resources, and Appropriations, and the Subcommittee of the Committee on Energy and Natural Resources which has jurisdiction over the Bureau of Reclamation. For the United States House of Representatives: the Chairman [Chairmen] and Ranking Minority Members of the Committees on Natural Resources, Public Works and Transportation [now Transportation and Infrastructure], and Appropriations. “(c) The President shall appoint one member of the Commission to serve as Chairman. “(d) Any vacancy which may occur on the Commission shall be filled in the same manner in which the original appointment was made. “(e) Members of the Commission shall serve without compensation but shall be reimbursed for travel, subsistence, and other necessary expenses incurred by them in the performance of their duties. “SEC. 3005. DUTIES OF THE COMMISSION.“The Commission shall—“(1) review present and anticipated water resource problems affecting the nineteen Western States, making such projections of water supply requirements as may be necessary and identifying alternative ways of meeting these requirements—giving considerations, among other things, to conservation and more efficient use of existing supplies, innovations to encourage the most beneficial use of water and recent technological advances; “(2) examine the current and proposed Federal programs affecting such States and recommend to the President whether they should be continued or adopted and, if so, how they should be managed for the next twenty years, including the possible reorganization or consolidation of the current water resources development and management agencies; “(3) review the problems of rural communities relating to water supply, potable water treatment, and wastewater treatment; “(4) review the need and opportunities for additional storage or other arrangements to augment existing water supplies including, but not limited to, conservation; “(5) review the history, use, and effectiveness of various institutional arrangements to address problems of water allocation, water quality, planning, flood control and other aspects of water development and use, including, but not limited to, interstate water compacts, Federal-State regional corporations, river basin commissions, the activities of the Water Resources Council, municipal and irrigation districts and other similar entities with specific attention to the authorities of the Bureau of Reclamation under reclamation law and the Secretary of the Army under water resources law; “(6) review the legal regime governing the development and use of water and the respective roles of both the Federal Government and the States over the allocation and use of water, including an examination of riparian zones, appropriation and mixed systems, market transfers, administrative allocations, ground water management, interbasin transfers, recordation of rights, Federal-State relations including the various doctrines of Federal reserved water rights (including Indian water rights and the development in several States of the concept of a public trust doctrine); and “(7) review the activities, authorities, and responsibilities of the various Federal agencies with direct water resources management responsibility, including but not limited to the Bureau of Reclamation, the Department of the Army, and those agencies whose decisions would impact on water resource availability and allocation, including, but not limited to, the Federal Energy Regulatory Commission. “SEC. 3006. REPRESENTATIVES.“(a) The Chairman of the Commission shall invite the Governor of each Western State to designate a representative to work closely with the Commission and its staff in matters pertaining to this title. “(b) The Commission, at its discretion, may invite appropriate public or private interest groups including, but not limited to, Indian and Tribal organizations to designate a representative to work closely with the Commission and its staff in matters pertaining to this title. “SEC. 3007. POWERS OF THE COMMISSION.“(a) The Commission may—“(1) hold such hearings, sit and act at such times and places, take such testimony, and receive such evidence as it may deem advisable; “(2) use the United States mail in the same manner and upon the same conditions as other departments and agencies of the United States; “(3) enter into contracts or agreements for studies and surveys with public and private organizations and transfer funds to Federal agencies to carry out such aspects of the Commission’s functions as the Commission determines can best be carried out in that manner; and “(4) incur such necessary expenses and exercise such other powers as are consistent with and reasonably required to perform its functions under this title. “(b) Any member of the Commission is authorized to administer oaths when it is determined by a majority of the Commission that testimony shall be taken or evidence received under oath. “(c) The Commission shall have a Director who shall be appointed by the Commission and who shall be paid at a rate not to exceed the maximum rate of basic pay payable for level II of the Executive Schedule.“(1) With the approval of the Commission, the Director may appoint and fix the pay of such personnel as the Director considers appropriate but only to the extent that such personnel cannot be obtained from the Secretary of the Interior or by detail from other Federal agencies. Such personnel may be appointed without regard to the provisions of title 5, United States Code, governing appointments in the competitive service, and may be paid without regard to the provisions of chapter 51 and subchapter III of chapter 53 of such Title relating to classification and General Schedule pay rates. “(2) With the approval of the Commission, the Director may procure temporary and intermittent services under [section 3109(b) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section3109/b&num=0&edition=prelim) of the United States Code, but at rates for individuals not to exceed the daily equivalent of the maximum annual rate of basic pay payable for GS–18 of the General Schedule. “(d) The Secretary of the Interior and the Secretary of the Army shall provide such office space, furnishings and equipment as may be required to enable the Commission to perform its functions. The Secretary shall also furnish the Commission with such staff, including clerical support, as the Commission may require. “SEC. 3008. POWERS AND DUTIES OF THE CHAIRMAN.“(a) Subject to general policies adopted by the Commission, the Chairman shall be the chief executive of the Commission and shall exercise its executive and administrative powers as set forth in paragraphs (2) through (4) of section 3007(a). “(b) The Chairman may make such provisions as he shall deem appropriate authorizing the performance of any of his executive and administrative functions by the Director or other personnel of the Commission. “SEC. 3009. OTHER FEDERAL AGENCIES.“(a) The Commission shall, to the extent practicable, utilize the services of the Federal water resource agencies. “(b) Upon request of the Commission, the President may direct the head of any other Federal department or agency to assist the Commission and such head of any Federal department or agency is authorized—“(1) to furnish to the Commission, to the extent permitted by law and within the limits of available funds, including funds transferred for that purpose pursuant to [section 3007(a)(7) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section3007/a/7&num=0&edition=prelim), such information as may be necessary for carrying out its functions and as may be available to or procurable by such department or agency, and “(2) to detail to temporary duty with the Commission on a reimbursable basis such personnel within his administrative jurisdiction as it may need or believe to be useful for carrying out its functions, each such detail to be without loss of seniority, pay, or other employee status. “(c) Financial and administrative services (including those related to budgeting, accounting, financial reporting, personnel, and procurement) shall be provided the Commission by the Secretary of the Interior. “SEC. 3010. APPROPRIATIONS.“There are hereby authorized to be appropriated not to exceed $10,000,000 to carry out the purposes of sections 3001 through 3009 of this title.”
+Pub. L. 102–575, title XXX, Oct. 30, 1992, 106 Stat. 4693, as amended by Pub. L. 103–437, § 16(a)(2), Nov. 2, 1994, 108 Stat. 4594, provided that: “SEC. 3001. SHORT TITLE.“This title may be cited as the ‘Western Water Policy Review Act of 1992’. “SEC. 3002. CONGRESSIONAL FINDINGS.“The Congress finds that—“(1) the Nation needs an adequate water supply for all states [States] at a reasonable cost; “(2) the demands on the Nation’s finite water supply are increasing; “(3) coordination on both the Federal level and the local level is needed to achieve water policy objectives; “(4) not less than fourteen agencies of the Federal Government are currently charged with functions relating to the oversight of water policy; “(5) the diverse authority over Federal water policy has resulted in unclear goals and an inefficient handling of the Nation’s water policy; “(6) the conflict between competing goals and objectives by Federal, State, and local agencies as well as by private water users is particularly acute in the nineteen Western States which have arid climates which include the seventeen reclamation States, Hawaii, and Alaska; “(7) the appropriations doctrine of water allocation which characterizes most western water management regimes varies from State to State, and results in many instances in increased competition for limited resources; “(8) the Federal Government has recognized and continues to recognize the primary jurisdiction of the several States over the allocation, priority, and use of water resources of the States, except to the extent such jurisdiction has been preempted in whole or in part by the Federal Government, including, but not limited to, express or implied Federal reserved water rights either for itself or for the benefit of Indian Tribes, and that the Federal Government will, in exercising its authorities, comply with applicable State laws; “(9) the Federal Government recognizes its trust responsibilities to protect Indian water rights and assist Tribes in the wise use of those resources; “(10) Federal agencies, such as the Bureau of Reclamation, have had, and will continue to have major responsibilities in assisting States in the wise management and allocation of scarce water resources; and “(11) the Secretary of the Interior, given his responsibilities for management of public land, trust responsibilities for Indians, administration of the reclamation program, investigations and reviews into ground water resources through the Geologic Survey [now United States Geological Survey], and the Secretary of the Army, given his responsibilities for flood control, water supply, hydroelectric power, recreation, and fish and wildlife enhancement, have the resources to assist in a comprehensive review, in consultation with appropriate officials from the nineteen Western States, into the problems and potential solutions facing the nineteen Western States and the Federal Government in the increasing competition for the scarce water resources of the Western States. “SEC. 3003. PRESIDENTIAL REVIEW.“(a) The President is directed to undertake a comprehensive review of Federal activities in the nineteen Western States which directly or indirectly affect the allocation and use of water resources, whether surface or subsurface, and to submit a report on the President’s findings, together with recommendations, if any, to the Committees on Energy and Natural Resources, Environment and Public Works and Appropriations of the Senate and the Committees on Natural Resources, Public Works and Transportation [now Transportation and Infrastructure], Merchant Marine and Fisheries and Appropriations of the House of Representatives. “(b) Such report shall be submitted within three years from the date of enactment of this Act [Oct. 30, 1992]. “(c) In conducting the review and preparing the report, the President is directed to consult with the Advisory Commission established under [section 3004 of this title](./chapter-048-renewable-energy-production-on-federal-land.md#section-3004), and may request the Secretary of the Interior and the Secretary of the Army or other Federal officials or the Commission to undertake such studies or other analyses as the President determines would assist in the review. “(d) The President shall consult periodically with the Commission, and upon the request of the President, the heads of other Federal agencies are directed to cooperate with and assist the Commission in its activities. “SEC. 3004. THE ADVISORY COMMISSION.“(a) The President shall appoint an Advisory Commission (hereafter in this title referred to as the ‘Commission’) to assist in the preparation and review of the report required under this title. “(b) The Commission shall be composed of eighteen members as follows:“(1) Ten members appointed by the President including:“(A) the Secretary of the Interior or his designee; “(B) the Secretary of the Army or his designee; “(C) at least one representative chosen from a list submitted by the Western Governors Association; and “(D) at least one representative chosen from a list submitted by Tribal governments located in the Western States. “(2) In addition to the ten members appointed by the President, twelve Members from the United States Congress shall serve as ex officio members of the Commission. For the United States Senate: the Chairmen and the Ranking Minority Members of the Committees on Energy and Natural Resources, and Appropriations, and the Subcommittee of the Committee on Energy and Natural Resources which has jurisdiction over the Bureau of Reclamation. For the United States House of Representatives: the Chairman [Chairmen] and Ranking Minority Members of the Committees on Natural Resources, Public Works and Transportation [now Transportation and Infrastructure], and Appropriations. “(c) The President shall appoint one member of the Commission to serve as Chairman. “(d) Any vacancy which may occur on the Commission shall be filled in the same manner in which the original appointment was made. “(e) Members of the Commission shall serve without compensation but shall be reimbursed for travel, subsistence, and other necessary expenses incurred by them in the performance of their duties. “SEC. 3005. DUTIES OF THE COMMISSION.“The Commission shall—“(1) review present and anticipated water resource problems affecting the nineteen Western States, making such projections of water supply requirements as may be necessary and identifying alternative ways of meeting these requirements—giving considerations, among other things, to conservation and more efficient use of existing supplies, innovations to encourage the most beneficial use of water and recent technological advances; “(2) examine the current and proposed Federal programs affecting such States and recommend to the President whether they should be continued or adopted and, if so, how they should be managed for the next twenty years, including the possible reorganization or consolidation of the current water resources development and management agencies; “(3) review the problems of rural communities relating to water supply, potable water treatment, and wastewater treatment; “(4) review the need and opportunities for additional storage or other arrangements to augment existing water supplies including, but not limited to, conservation; “(5) review the history, use, and effectiveness of various institutional arrangements to address problems of water allocation, water quality, planning, flood control and other aspects of water development and use, including, but not limited to, interstate water compacts, Federal-State regional corporations, river basin commissions, the activities of the Water Resources Council, municipal and irrigation districts and other similar entities with specific attention to the authorities of the Bureau of Reclamation under reclamation law and the Secretary of the Army under water resources law; “(6) review the legal regime governing the development and use of water and the respective roles of both the Federal Government and the States over the allocation and use of water, including an examination of riparian zones, appropriation and mixed systems, market transfers, administrative allocations, ground water management, interbasin transfers, recordation of rights, Federal-State relations including the various doctrines of Federal reserved water rights (including Indian water rights and the development in several States of the concept of a public trust doctrine); and “(7) review the activities, authorities, and responsibilities of the various Federal agencies with direct water resources management responsibility, including but not limited to the Bureau of Reclamation, the Department of the Army, and those agencies whose decisions would impact on water resource availability and allocation, including, but not limited to, the Federal Energy Regulatory Commission. “SEC. 3006. REPRESENTATIVES.“(a) The Chairman of the Commission shall invite the Governor of each Western State to designate a representative to work closely with the Commission and its staff in matters pertaining to this title. “(b) The Commission, at its discretion, may invite appropriate public or private interest groups including, but not limited to, Indian and Tribal organizations to designate a representative to work closely with the Commission and its staff in matters pertaining to this title. “SEC. 3007. POWERS OF THE COMMISSION.“(a) The Commission may—“(1) hold such hearings, sit and act at such times and places, take such testimony, and receive such evidence as it may deem advisable; “(2) use the United States mail in the same manner and upon the same conditions as other departments and agencies of the United States; “(3) enter into contracts or agreements for studies and surveys with public and private organizations and transfer funds to Federal agencies to carry out such aspects of the Commission’s functions as the Commission determines can best be carried out in that manner; and “(4) incur such necessary expenses and exercise such other powers as are consistent with and reasonably required to perform its functions under this title. “(b) Any member of the Commission is authorized to administer oaths when it is determined by a majority of the Commission that testimony shall be taken or evidence received under oath. “(c) The Commission shall have a Director who shall be appointed by the Commission and who shall be paid at a rate not to exceed the maximum rate of basic pay payable for level II of the Executive Schedule.“(1) With the approval of the Commission, the Director may appoint and fix the pay of such personnel as the Director considers appropriate but only to the extent that such personnel cannot be obtained from the Secretary of the Interior or by detail from other Federal agencies. Such personnel may be appointed without regard to the provisions of title 5, United States Code, governing appointments in the competitive service, and may be paid without regard to the provisions of chapter 51 and subchapter III of chapter 53 of such Title relating to classification and General Schedule pay rates. “(2) With the approval of the Commission, the Director may procure temporary and intermittent services under [section 3109(b) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section3109/b&num=0&edition=prelim) of the United States Code, but at rates for individuals not to exceed the daily equivalent of the maximum annual rate of basic pay payable for GS–18 of the General Schedule. “(d) The Secretary of the Interior and the Secretary of the Army shall provide such office space, furnishings and equipment as may be required to enable the Commission to perform its functions. The Secretary shall also furnish the Commission with such staff, including clerical support, as the Commission may require. “SEC. 3008. POWERS AND DUTIES OF THE CHAIRMAN.“(a) Subject to general policies adopted by the Commission, the Chairman shall be the chief executive of the Commission and shall exercise its executive and administrative powers as set forth in paragraphs (2) through (4) of section 3007(a). “(b) The Chairman may make such provisions as he shall deem appropriate authorizing the performance of any of his executive and administrative functions by the Director or other personnel of the Commission. “SEC. 3009. OTHER FEDERAL AGENCIES.“(a) The Commission shall, to the extent practicable, utilize the services of the Federal water resource agencies. “(b) Upon request of the Commission, the President may direct the head of any other Federal department or agency to assist the Commission and such head of any Federal department or agency is authorized—“(1) to furnish to the Commission, to the extent permitted by law and within the limits of available funds, including funds transferred for that purpose pursuant to [section 3007(a)(7) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section3007/a/7&num=0&edition=prelim), such information as may be necessary for carrying out its functions and as may be available to or procurable by such department or agency, and “(2) to detail to temporary duty with the Commission on a reimbursable basis such personnel within his administrative jurisdiction as it may need or believe to be useful for carrying out its functions, each such detail to be without loss of seniority, pay, or other employee status. “(c) Financial and administrative services (including those related to budgeting, accounting, financial reporting, personnel, and procurement) shall be provided the Commission by the Secretary of the Interior. “SEC. 3010. APPROPRIATIONS.“There are hereby authorized to be appropriated not to exceed $10,000,000 to carry out the purposes of sections 3001 through 3009 of this title.”
 
 [References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 [title I, § 101(c)(1)] of Pub. L. 101–509, set out in a note under [section 5376 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5376&num=0&edition=prelim).]
 
@@ -111,14 +111,14 @@ Provisions of this section which prescribed the basic compensation of Commission
 #### Amendments
 1982—Pub. L. 97–293 inserted requirement that Commissioner of Reclamation be appointed by and with advice and consent of Senate.
 
-#### Transfer of Functions
-For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out under [section 1451 of this title](./chapter-031-department-of-the-interior.md#section-1451).
-
 #### Use of Private Sector
 Pub. L. 108–7, div. D, title II, § 208, Feb. 20, 2003, 117 Stat. 146, provided that: “The Commissioner of the Bureau of Reclamation is directed to increase the use of the private sector in performing planning, engineering and design work for Bureau of Reclamation projects to 10 percent in fiscal year 2003, and in each subsequent year until the level of work is at least 40 percent for the planning, engineering and design work conducted by the Bureau of Reclamation.”
 
 #### Compensation of Commissioner
 Compensation of Commissioner, see [section 5316 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5316&num=0&edition=prelim), Government Organization and Employees.
+
+#### Transfer of Functions
+For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out under [section 1451 of this title](./chapter-031-department-of-the-interior.md#section-1451).
 
 
 <a id="section-373a-1"></a>
@@ -352,11 +352,11 @@ The cost and expense after June 30, 1945, of the office of the Commissioner in t
 #### Amendments
 1945—Act Apr. 19, 1945, amended section generally and made it applicable after June 30, 1945.
 
-#### Transfer of Functions
-For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out under [section 1451 of this title](./chapter-031-department-of-the-interior.md#section-1451).
-
 #### Definitions
 The definitions in [section 371 of this title](./chapter-012-reclamation-and-irrigation-of-lands-by-federal-government.md#section-371) apply to this section.
+
+#### Transfer of Functions
+For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out under [section 1451 of this title](./chapter-031-department-of-the-interior.md#section-1451).
 
 
 <a id="section-377a"></a>
@@ -669,14 +669,14 @@ Act of June 17, 1902, referred to in text, is popularly known as the Reclamation
 #### Change of Name
 Department of War designated Department of the Army and title of Secretary of War changed to Secretary of the Army by section 205(a) of act July 26, 1947, ch. 343, title II, 61 Stat. 501. Section 205(a) of act July 26, 1947, was repealed by section 53 of act Aug. 10, 1956, ch. 1041, 70A Stat. 641. Section 1 of act Aug. 10, 1956, enacted “Title 10, Armed Forces” which in sections 3010 to 3013 continued Department of the Army under administrative supervision of Secretary of the Army.
 
-#### Transfer of Functions
-For transfer of certain real property and functions relating to real property, insofar as they pertain to Air Force, from Secretary of the Army and Department of the Army to Secretary of the Air Force and Department of the Air Force, see Secretary of Defense Transfer Order Nos. 14, eff. July 1, 1948, and 40 [App. B(133)], July 22, 1949.
-
 #### Extension of Variable Payment Plan
 Authority of Secretary to extend benefits of variable payment plan to organizations with which he contracts or has contracted for the repayment of construction costs allocated to irrigation on any project undertaken by the United States, including contracts for the storage of water or for the use of stored water under this section, see section 2 of Pub. L. 85–611, Aug. 8, 1958, 72 Stat. 542, set out as a note under [section 485h of this title](./chapter-012-reclamation-and-irrigation-of-lands-by-federal-government.md#section-485h).
 
 #### Section as Unaffected by Submerged Lands Act
 Provisions of this section as not amended, modified or repealed by the Submerged Lands Act, see [section 1303 of this title](./chapter-029-submerged-lands.md#section-1303).
+
+#### Transfer of Functions
+For transfer of certain real property and functions relating to real property, insofar as they pertain to Air Force, from Secretary of the Army and Department of the Army to Secretary of the Air Force and Department of the Air Force, see Secretary of Defense Transfer Order Nos. 14, eff. July 1, 1948, and 40 [App. B(133)], July 22, 1949.
 
 
 <a id="section-390a"></a>
@@ -932,7 +932,11 @@ Secretary means the Secretary of the Army, see section 2 of Pub. L. 113–121, s
 
   (C) *Voluntary contributions* — An entity other than an entity described in subparagraph (A) may voluntarily contribute to the costs of implementing a proposal submitted under subsection (a).
 
-**(i) Contributed funds** The Secretary may receive and expend funds contributed by a non-Federal interest for the review and approval of a proposal submitted under subsection (a).
+**(i) Contributed funds**
+
+(1) **Contributed funds for corps projects** — The Secretary may may receive and expend funds contributed by a non-Federal interest for the review and approval of a proposal submitted under subsection (a).
+
+(2) **Contributed funds for other federal reservoir projects** — The Secretary is authorized to receive and expend funds from a non-Federal interest to formulate, review, or revise operational documents, pursuant to a proposal submitted in accordance subsection (a), for any reservoir for which the Secretary is authorized to prescribe regulations for the use of storage allocated for flood control or navigation pursuant to [section 709 of title 33](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section709&num=0&edition=prelim).
 
 **(j) Assistance** On request by a non-Federal interest, the Secretary may provide technical assistance in the development or implementation of a proposal under subsection (a), including assistance in obtaining necessary permits for construction, if the non-Federal interest contracts with the Secretary to pay all costs of providing the technical assistance.
 
@@ -949,6 +953,9 @@ Secretary means the Secretary of the Army, see section 2 of Pub. L. 113–121, s
 **(l) Effect of section** Nothing in this section affects or modifies any authority of the Secretary to review or modify reservoirs.
 
 ### Statutory Notes
+
+#### Amendments
+2020—Subsec. (i). Pub. L. 116–260 designated existing provisions as par. (1), inserted heading, and added par. (2).
 
 #### “Secretary” Defined
 Secretary means the Secretary of the Army, see section 1002 of Pub. L. 114–322, set out as a note under [section 2201 of Title 33](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section2201&num=0&edition=prelim), Navigation and Navigable Waters.
@@ -1162,6 +1169,121 @@ No funds authorized to be appropriated by sections 390g to 390g–8 of this titl
 (2) the study or demonstration of the potential for the interstate transfer of water from the State of Arkansas.
 
 
+<a id="section-390g-9"></a>
+## § 390g–9. Aquifer recharge flexibility
+**(a) Short title** This section may be cited as the “Aquifer Recharge Flexibility Act”.
+
+**(b) Definitions** In this section:
+
+(1) **Bureau** — The term “Bureau” means the Bureau of Reclamation.
+
+(2) **Commissioner** — The term “Commissioner” means the Commissioner of Reclamation.
+
+(3) **Eligible land** — The term “eligible land”, with respect to a Reclamation project, means land that—
+
+  (A) is authorized to receive water under State law; and
+
+  (B) shares an aquifer with land located in the service area of the Reclamation project.
+
+(4) **Net water storage benefit** — The term “net water storage benefit” means an increase in the volume of water that is—
+
+  (A) stored in 1 or more aquifers; and
+
+  (B)
+
+    (i) available for use within the authorized service area of a Reclamation project; or
+
+    (ii) stored on a long-term basis to avoid or reduce groundwater overdraft.
+
+(5) **Reclamation facility** — The term “Reclamation facility” means each of the infrastructure assets that are owned by the Bureau at a Reclamation project.
+
+(6) **Reclamation project** — The term “Reclamation project” means any reclamation or irrigation project, including incidental features thereof, authorized by Federal reclamation law or the Act of August 11, 1939 (commonly known as the “Water Conservation and Utilization Act”) (53 Stat. 1418, chapter 717; [16 U.S.C. 590y](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section590y&num=0&edition=prelim) et seq.), or constructed by the United States pursuant to such law, or in connection with which there is a repayment or water service contract executed by the United States pursuant to such law, or any project constructed by the Secretary through the Bureau for the reclamation of land.
+
+**(c) Flexibility to allow greater aquifer recharge in Western States**
+
+(1) **Use of Reclamation facilities**
+
+  (A) *In general* — The Commissioner may allow the use of excess capacity in Reclamation facilities for aquifer recharge of non-Reclamation project water, subject to applicable rates, charges, and public participation requirements, on the condition that—
+
+    (i) the use—
+
+      (I) shall not be implemented in a manner that is detrimental to—
+
+        (aa) any power service or water contract for the Reclamation project; or
+
+        (bb) any obligations for fish, wildlife, or water quality protection applicable to the Reclamation project;
+
+      (II) shall be consistent with water quality guidelines for the Reclamation project;
+
+      (III) shall comply with all applicable—
+
+        (aa) Federal laws; and
+
+        (bb) policies of the Bureau; and
+
+      (IV) shall comply with all applicable State laws and policies; and
+
+    (ii) the non-Federal party to an existing contract for water or water capacity in a Reclamation facility consents to the use of the Reclamation facility under this subsection.
+
+  (B) *Effect on existing contracts* — Nothing in this subsection affects a contract—
+
+    (i) in effect on December 27, 2020; and
+
+    (ii) under which the use of excess capacity in a Bureau conveyance facility for carriage of non-Reclamation project water for aquifer recharge is allowed.
+
+(2) **Aquifer recharge on eligible land**
+
+  (A) *In general* — Subject to subparagraphs (C) and (D), the Secretary may contract with a holder of a water service or repayment contract for a Reclamation project to allow the contractor, in accordance with applicable State laws and policies—
+
+    (i) to directly use water available under the contract for aquifer recharge on eligible land; or
+
+    (ii) to enter into an agreement with an individual or entity to transfer water available under the contract for aquifer recharge on eligible land.
+
+  (B) *Authorized project use* — The use of a Reclamation facility for aquifer recharge under subparagraph (A) shall be considered an authorized use for the Reclamation project if requested by a holder of a water service or repayment contract for the Reclamation facility.
+
+  (C) *Modifications to contracts* — The Secretary may contract with a holder of a water service or repayment contract for a Reclamation project under subparagraph (A) if the Secretary determines that a new contract or contract amendment described in that subparagraph is—
+
+    (i) necessary to allow for the use of water available under the contract for aquifer recharge under this subsection;
+
+    (ii) in the best interest of the Reclamation project and the United States; and
+
+    (iii) approved by the contractor that is responsible for repaying the cost of construction, operations, and maintenance of the facility that delivers the water under the contract.
+
+  (D) *Requirements* — The use of Reclamation facilities for the use or transfer of water for aquifer recharge under this subsection shall be subject to the requirements that—
+
+    (i) the use or transfer shall not be implemented in a manner that materially impacts any power service or water contract for the Reclamation project; and
+
+    (ii) before the use or transfer, the Secretary shall determine that the use or transfer—
+
+      (I) results in a net water storage benefit for the Reclamation project; or
+
+      (II) contributes to the recharge of an aquifer on eligible land; and
+
+    (iii) the use or transfer complies with all applicable—
+
+      (I) Federal laws and policies; and
+
+      (II) interstate water compacts.
+
+(3) **Conveyance for aquifer recharge purposes** — The holder of a right-of-way, easement, permit, or other authorization to transport water across public land administered by the Bureau of Land Management may transport water for aquifer recharge purposes without requiring additional authorization from the Secretary where the use does not expand or modify the operation of the right-of-way, easement, permit, or other authorization across public land.
+
+(4) **Effect** — Nothing in this section creates, impairs, alters, or supersedes a Federal or State water right.
+
+(5) **Exemption** — This section shall not apply to the State of California.
+
+(6) **Advisory group** — The Secretary may participate in any State-led collaborative, multi-stakeholder advisory group created in any watershed the purpose of which is to monitor, review, and assess aquifer recharge activities.
+
+### Statutory Notes
+
+#### References in Text
+This section, referred to in subsecs. (b) and (c)(4), (5), was in the original “this Act”, which was translated as meaning section 1105 of Pub. L. 116–260, div. FF, title XI, Dec. 27, 2020, 134 Stat. 3237, to reflect the probable intent of Congress.
+
+Act of August 11, 1939, referred to in subsec. (b)(6), is act Aug. 11, 1939, ch. 717, 53 Stat. 1418, popularly known as the Water Conservation and Utilization Act, which is classified generally to subchapter II (§ 590y et seq.) of chapter 3C of Title 16, Conservation. For complete classification of this Act to the Code, see Tables.
+
+#### Definitions
+For definition of “Secretary” as used in this section, see section 1115 of div. FF of Pub. L. 116–260, set out as a note under [section 2330c of Title 33](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section2330c&num=0&edition=prelim), Navigation and Navigable Waters.
+
+
 <a id="section-390h"></a>
 ## § 390h. Program to investigate reclamation and reuse of wastewater and groundwater; general authority
 **(a) Program established** The Secretary of the Interior (hereafter “Secretary”), acting pursuant to the Reclamation Act of 1902 (Act of June 17, 1902, 32 Stat. 388) and Acts amendatory thereof and supplementary thereto (hereafter “Federal reclamation laws”), is directed to undertake a program to investigate and identify opportunities for reclamation and reuse of municipal, industrial, domestic, and agricultural wastewater, and naturally impaired ground and surface waters, for the design and construction of demonstration and permanent facilities to reclaim and reuse wastewater, and to conduct research, including desalting, for the reclamation of wastewater and naturally impaired ground and surface waters.
@@ -1256,7 +1378,7 @@ Pub. L. 108–233, § 1, May 28, 2004, 118 Stat. 654, provided that: “This Act
 Pub. L. 106–566, title I, § 101, Dec. 23, 2000, 114 Stat. 2818, provided that: “This title [amending this section] may be cited as the ‘Hawaii Water Resources Act of 2000’.”
 
 #### Short Title of 1998 Amendment
-Pub. L. 105–321, § 1(a), Oct. 30, 1998, 112 Stat. 3020, provided that: “This Act [enacting [section 390h–16 of this title](./chapter-012-reclamation-and-irrigation-of-lands-by-federal-government.md#section-390h-16), amending [section 564w–1 of Title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section564w–1&num=0&edition=prelim), Indians, and enacting and amending provisions listed in a table of National Wildlife Refuges set out under [section 668dd of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section668dd&num=0&edition=prelim), Conservation] may be cited as the ‘Oregon Public Lands Transfer and Protection Act of 1998’.”
+Pub. L. 105–321, § 1(a), Oct. 30, 1998, 112 Stat. 3020, provided that: “This Act [enacting sections 390h–16 and 2607 of this title, amending [section 564w–1 of Title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section564w–1&num=0&edition=prelim), Indians, and enacting and amending provisions listed in a table of National Wildlife Refuges set out under [section 668dd of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section668dd&num=0&edition=prelim), Conservation] may be cited as the ‘Oregon Public Lands Transfer and Protection Act of 1998’.”
 
 #### Short Title of 1996 Amendment
 Pub. L. 104–266, § 1, Oct. 9, 1996, 110 Stat. 3290, provided that: “This Act [enacting sections 390h–12a to 390h–12p of this title and amending sections 390h–1 to 390h–3, 390h–9, and 390h–13 to 390h–15 of this title] may be cited as the ‘Reclamation Recycling and Water Conservation Act of 1996’.”
@@ -1974,7 +2096,7 @@ Section 390h–35, Pub. L. 102–575, title XVI, § 1652, as added Pub. L. 111�
 
 Section 390h–36, Pub. L. 102–575, title XVI, § 1653, as added Pub. L. 111–11, title IX, § 9111(b)(1), Mar. 30, 2009, 123 Stat. 1317, which related to the Lower Chino Dairy Area desalination demonstration and reclamation project, was omitted pursuant to subsec. (e) of section, which provided that the section would have no effect after the date that was 10 years after Mar. 30, 2009.
 
-Section 390h–37, Pub. L. 102–575, title XVI, § 1654, as added Pub. L. 111–11, title IX, § 9113(a), Mar. 30, 2009, 123 Stat. 1319, which related to the Oxnard, California, water reclamation, reuse, and treatment project, was omitted pursuant to subsec. (d) of section, which provided that the authority of the Secretary (of the Interior) to carry out any provisions of section terminated 10 years after Mar. 30, 2009.
+Section 390h–37, Pub. L. 102–575, title XVI, § 1654, as added Pub. L. 111–11, title IX, § 9113(a), Mar. 30, 2009, 123 Stat. 1319, which related to the Oxnard, California, water reclamation, reuse, and treatment project, was omitted pursuant to subsec. (d) of section, which provided that the authority of the Secretary of the Interior to carry out any provisions of section terminated 10 years after Mar. 30, 2009.
 
 
 <a id="section-390h-38"></a>
@@ -2397,15 +2519,13 @@ The first paragraph of this section is comprised of act June 17, 1902, and the s
 #### Amendments
 1986—Pub. L. 99–396 inserted reference to American Samoa, Guam, the Northern Mariana Islands, and the Virgin Islands in second par.
 
+#### Section as Unaffected by Submerged Lands Act
+Provisions of this section as not amended, modified or repealed by the Submerged Lands Act, see [section 1303 of this title](./chapter-029-submerged-lands.md#section-1303).
+
 #### Transfer of Functions
 For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out under [section 1451 of this title](./chapter-031-department-of-the-interior.md#section-1451).
 
-Words “officers designated by the Secretary of the Interior” substituted for “registers” on authority of section 403 of Reorg. Plan No. 3 of 1946, set out as a note under [section 1 of this title](./chapter-001-bureau-of-land-management.md#section-1).
-
-Previously, references to register and receiver changed to register by acts Mar. 3, 1925 and Oct. 28, 1921, which consolidated offices of register and receiver and provided for a single officer to be known as register.
-
-#### Section as Unaffected by Submerged Lands Act
-Provisions of this section as not amended, modified or repealed by the Submerged Lands Act, see [section 1303 of this title](./chapter-029-submerged-lands.md#section-1303).
+Words “officers designated by the Secretary of the Interior” substituted for “registers” on authority of section 403 of Reorg. Plan No. 3 of 1946, set out as a note under [section 1 of this title](./chapter-001-bureau-of-land-management.md#section-1). Previously, references to register and receiver changed to register by acts Mar. 3, 1925, and Oct. 28, 1921, which consolidated offices of register and receiver and provided for a single officer to be known as register.
 
 
 <a id="section-391a"></a>
@@ -2838,13 +2958,13 @@ Where, in the opinion of the Secretary, a right of way or easement of any kind o
 
 Sections 463, 473, and 474 of this title, referred to in text, were repealed by act May 25, 1926, ch. 383, § 47, 44 Stat. 650.
 
+#### Definitions
+The definitions in [section 371 of this title](./chapter-012-reclamation-and-irrigation-of-lands-by-federal-government.md#section-371) apply to this section.
+
 #### Transfer of Functions
 For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out under [section 1451 of this title](./chapter-031-department-of-the-interior.md#section-1451).
 
 “Bureau of Land Management” substituted for “General Land Office” on authority of section 403 of Reorg. Plan No. 3 of 1946, set out as a note under [section 1 of this title](./chapter-001-bureau-of-land-management.md#section-1).
-
-#### Definitions
-The definitions in [section 371 of this title](./chapter-012-reclamation-and-irrigation-of-lands-by-federal-government.md#section-371) apply to this section.
 
 
 <a id="section-418"></a>
@@ -2984,7 +3104,7 @@ Works financed by loans made under sections 421a to 421h of this title shall be 
 ### Statutory Notes
 
 #### References in Text
-The Fish and Wildlife Coordination Act, referred to in text, is act Mar. 10, 1934, ch. 55, 48 Stat. 401, which is classified generally to sections 661 to 666c–1 of Title 16, Conservation. For complete classification of this Act to the Code, see [section 661(a) of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section661/a&num=0&edition=prelim), Short Title note set under [section 661 of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section661&num=0&edition=prelim), and Tables.
+The Fish and Wildlife Coordination Act, referred to in text, is act Mar. 10, 1934, ch. 55, 48 Stat. 401, which is classified generally to sections 661 to 666c–1 of Title 16, Conservation. For complete classification of this Act to the Code, see [section 661(a) of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section661/a&num=0&edition=prelim), Short Title note set out under [section 661 of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section661&num=0&edition=prelim), and Tables.
 
 The Federal Water Pollution Control Act, as amended, referred to in text, is act June 30, 1948, ch. 758, as amended generally by Pub. L. 92–500, § 2, Oct. 18, 1972, 86 Stat. 816, which is classified generally to chapter 26 (§ 1251 et seq.) of Title 33, Navigation and Navigable Waters. For complete classification of this Act to the Code, see Short Title note set out under [section 1251 of Title 33](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1251&num=0&edition=prelim) and Tables.
 
@@ -3541,11 +3661,11 @@ Section is comprised of a part of section 3 of act June 17, 1902, and section 1 
 #### Change of Name
 The Reclamation Service, established in July 1902, changed to the Bureau of Reclamation on June 20, 1923, then to the Water and Power Resources Service on Nov. 6, 1979, and then to the Bureau of Reclamation on May 18, 1981. See 155 Dep’t of the Interior, Departmental Manual 1.1 (2008 repl.); Sec’y Hubert Work, Dep’t of the Interior, Order (June 20, 1923); Sec’y Cecil D. Andrus, Dep’t of the Interior, Secretarial Order 3042, §§ 1, 4 (Nov. 6, 1979); Sec’y James G. Watt, Dep’t of the Interior, Secretarial Order 3064, §§ 3, 5 (May 18, 1981).
 
-#### Transfer of Functions
-“Bureau of Land Management” substituted in text for “General Land Office” on authority of section 403 of Reorg. Plan No. 3 of 1946, set out as a note under [section 1 of this title](./chapter-001-bureau-of-land-management.md#section-1).
-
 #### Section as Unaffected by Submerged Lands Act
 Provisions of this section as not amended, modified or repealed by the Submerged Lands Act, see [section 1303 of this title](./chapter-029-submerged-lands.md#section-1303).
+
+#### Transfer of Functions
+“Bureau of Land Management” substituted in text for “General Land Office” on authority of section 403 of Reorg. Plan No. 3 of 1946, set out as a note under [section 1 of this title](./chapter-001-bureau-of-land-management.md#section-1).
 
 
 <a id="section-435"></a>
@@ -4637,9 +4757,6 @@ The Distribution System Loans Act (Act of May 14, 1956, 69 Stat. 244, and Acts a
 #### Amendments
 1982—Pub. L. 97–275 substituted “all projects and project facilities governed by the Federal reclamation law (Act of June 17, 1902, 32 Stat. 388, and Acts amendatory thereof or supplementary thereto), including any project and facilities constructed with funds provided by the Small Reclamation Projects Act (Act of August 6, 1956, 70 Stat. 1044, and Acts amendatory thereof or supplementary thereto) or with funds provided by the Distribution System Loans Act (Act of May 14, 1956, 69 Stat. 244, and Acts amendatory thereof or supplementary thereto)” for “irrigation or power systems operated and maintained by the Bureau of Reclamation, Department of the Interior”.
 
-#### Transfer of Functions
-For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out under [section 1451 of this title](./chapter-031-department-of-the-interior.md#section-1451).
-
 #### Emergency Drought Authority
 Pub. L. 100–387, title IV, subtitle B, Aug. 11, 1988, 102 Stat. 957, provided that: “part 1—reclamation states drought assistance“SEC. 411. SHORT TITLE.“This part may be cited as the ‘Reclamation States Drought Assistance Act of 1988’. “SEC. 412. ASSISTANCE DURING DROUGHT.“The Secretary of the Interior, acting under the authorities of the Federal reclamation laws (the Act of June 17, 1902 (32 Stat. 388) [see Short Title note under [section 371 of this title](./chapter-012-reclamation-and-irrigation-of-lands-by-federal-government.md#section-371)], and Acts supplementary thereto and amendatory thereof) and other appropriate authorities of the Secretary shall—“(1)(A) perform studies to identify opportunities to augment, make use of, or conserve water supplies available to Federal reclamation projects and Indian water resource developments, which studies shall be completed no later than March 1, 1990; and “(B) consistent with existing contractual arrangements and State law, and without further authorization, undertake construction, management, and conservation activities that will mitigate or can be expected to have an effect in mitigating losses and damages resulting from drought conditions in 1987, 1988, or 1989, which construction shall be completed by December 31, 1989; and “(2) assist willing buyers in their purchase of available water supplies from willing sellers and redistribute such water based upon priorities to be determined by the Secretary consistent with State law, with the objective of minimizing losses and damages resulting from drought conditions in 1987, 1988, and 1989. “SEC. 413. AVAILABILITY OF WATER ON A TEMPORARY BASIS.“(a) General Authority.—The Secretary of the Interior may make available, by contract, consistent with existing contracts or agreements and State law, water or canal capacity at existing Federal reclamation projects to water users and others, on a temporary basis to mitigate losses and damages resulting from drought conditions in 1987, 1988, and 1989. “(b) Contracts.—Any contract signed under this section shall provide that—“(1) the price for the use of such water shall be at least sufficient to recover all Federal operation and maintenance costs, and an appropriate share of capital costs, except that, for water delivered to a landholding in excess of 960 acres of class I lands or the equivalent thereof for a qualified recipient and 320 acres of class I lands or the equivalent thereof for a limited recipient, the cost of such water shall be full cost (as defined in section 202(3)(A) of Public Law 97–293, [43 U.S.C. 390bb](./chapter-012-reclamation-and-irrigation-of-lands-by-federal-government.md#section-390bb)) for those acres in excess of 960 acres or 320 acres, as appropriate; “(2) the lands not now subject to reclamation law that receive temporary irrigation water supplies under this section shall not become subject to the ownership limitations of Federal reclamation law because of the delivery of such temporary water supplies; “(3) the lands that are subject to the ownership limitations of Federal reclamation law shall not be exempted from those limitations because of the delivery of such temporary water supplies; and “(4) the contract shall terminate no later than December 31, 1989. “(c) Fish and Wildlife.—The Secretary may make available water for the purposes of protecting fish and wildlife resources, including mitigating losses that occur as a result of drought conditions. “SEC. 414. EMERGENCY LOAN PROGRAM.“The Secretary of the Interior may make loans to water users for the purposes of undertaking management, conservation activities, or the acquisition and transportation of water consistent with State law, that can be expected to have an effect in mitigating losses and damages resulting from drought conditions in 1987, 1988, and 1989. Such loans shall be made available under such terms and conditions as the Secretary deems appropriate. Section 203(a) of the Reclamation Reform Act of 1982 (Public Law 97–293; [43 U.S.C. 390cc](./chapter-012-reclamation-and-irrigation-of-lands-by-federal-government.md#section-390cc)) shall not apply to any contract to repay such loan. “SEC. 415. INTERAGENCY COORDINATION.“The program established by this part, to the extent practicable, shall be coordinated with emergency and disaster relief operations conducted by other Federal and State agencies under other provisions of law. The Secretary of the Interior shall consult such other Federal and State agencies as he deems necessary. Other Federal agencies performing relief functions under other Federal authorities shall provide the Secretary with information and records that the Secretary deems necessary for the administration of this part. “SEC. 416. REPORT.“Not later than March 1, 1990, the Secretary of the Interior shall submit a report and recommendations to the President and Congress on—“(1) expenditures and accomplishments under this part; “(2) legislative and administrative recommendations for responding to droughts and drought related problems in the Reclamation States; and “(3) structural and non-structural measures to mitigate the effects of droughts. “SEC. 417. CARRYOVER STORAGE AND WATER, NEW MELONES UNIT, CENTRAL VALLEY PROJECT, CALIFORNIA.“The first undesignated paragraph under the heading ‘San Joaquin River Basin’ in section 203 of the Flood Control Act of 1962 (Public Law 87–874, 76 Stat. 1191) is amended by inserting before the last period the following: ‘: And provided further, That the Secretary of the Interior is authorized to make available to the Oakdale and South San Joaquin irrigation districts, at the current contract rate, unallocated storage of such districts carried over from the previous year’. “SEC. 418. INITIATION AND DEADLINE OF EMERGENCY DROUGHT PROGRAM.“(a) Limitation.—The programs and authorities established under this part shall become operative in any Reclamation State only after—“(1) the Governor of that State has declared a drought emergency; and “(2) the affected area is declared eligible for Federal disaster relief under applicable rules and regulations. “(b) Termination.—The programs and authorities established under this part shall terminate on December 31, 1989, unless otherwise specifically stated. “part 2—water project“SEC. 421. CENTRAL VALLEY PROJECT WATER RELEASES.“The Secretary of the Interior is authorized to install a temperature control curtain as a demonstration project at Shasta Dam, Central Valley project, California, at a cost not to exceed $5,500,000. The purpose of the demonstration project is to determine the effectiveness of the temperature control curtain in controlling the temperature of water releases from Shasta Dam, so as to protect and enhance anadromous fisheries in the Sacramento River and San Francisco Bay/Sacramento-San Joaquin Delta and Estuary[.] “part 3—authorization and savings clause“SEC. 431. AUTHORIZATION OF APPROPRIATIONS.“(a) There are authorized to be appropriated a total amount not to exceed $25,000,000 for section 412(1)(B) and section 414 of this subtitle. “(b) Unless otherwise specified, there are authorized to be appropriated such sums as may be necessary to carry out the remaining provisions of this subtitle. “SEC. 432. SAVINGS CLAUSE.“Nothing in this subtitle shall be construed as limiting or restricting the power and authority of the United States or—“(1) as affecting in any way any law governing appropriation or use of, or Federal right to, water on public lands; “(2) as expanding or diminishing Federal or State jurisdiction, responsibility, interests, or rights in water resources development or control; “(3) as displacing, superseding, limiting, or modifying any interstate compact or the jurisdiction or responsibility of any legally established joint or common agency of two or more States or of two States and the Federal Government; “(4) as superseding, modifying, or repealing, except as specifically set forth in this subtitle, existing law applicable to the various Federal agencies; or “(5) as modifying the terms of any interstate compact.”
 
@@ -4697,6 +4814,9 @@ Pub. L. 87–880, title II, Oct. 24, 1962, 76 Stat. 1221.
 
 #### Temporary Authority of Secretary of the Interior To Facilitate Emergency Actions With Regard to 1976–1977 Drought
 Pub. L. 95–18, Apr. 7, 1977, 91 Stat. 36, as amended by Pub. L. 95–107, Aug. 17, 1977, 91 Stat. 870; Pub. L. 95–226, Feb. 7, 1978, 92 Stat. 10, directed Secretary of the Interior to undertake construction, management and conservation activities designed to mitigate losses and damages to Federal reclamation projects and Indian irrigation projects resulting from 1976–1977 drought, to assist willing buyers in purchasing available water supplies from willing sellers, and to undertake studies of potential facilities to mitigate effects of a recurrence of drought and make recommendations to President and Congress evaluating potential undertakings, authorized Secretary to defer, without penalty, the 1977 installment payments on charges owed the United States and to make loans to irrigators for construction, management, conservation activities, or acquisition and transportation of water, appropriated $100,000,000 to carry out provisions of this Act and specified the availability of such funds for expenditures, directed Secretary, not later than May 1, 1978, to provide President and Congress a complete report on expenditures and accomplishments, and provided that authorities conferred by this Act terminate on Nov. 30, 1977.
+
+#### Transfer of Functions
+For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out under [section 1451 of this title](./chapter-031-department-of-the-interior.md#section-1451).
 
 
 <a id="section-503"></a>
@@ -5068,6 +5188,113 @@ Act of June 17, 1902 (32 Stat. 388, chapter 1093), referred to in par. (2), is p
 
 (3) **Funding** — If the Secretary determines that a project facility inspected and maintained pursuant to the guidelines and criteria set forth in [section 510a(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section510a/a&num=0&edition=prelim) requires extraordinary operation and maintenance pursuant to paragraph (1), the Secretary may provide Federal funds on a nonreimbursable basis sufficient to cover 35 percent of the cost of the extraordinary operation and maintenance allocable to the transferred works operating entity, which is needed to minimize the risk of imminent harm. The remaining share of the Federal funds advanced by the Secretary for such work shall be repaid under subsection (b).
 
+**(d) Aging Infrastructure Account**
+
+(1) **Establishment** — There is established in the general fund of the Treasury a special account, to be known as the “Aging Infrastructure Account” (referred to in this subsection as the “Account”), to provide funds to, and provide for the extended repayment of the funds by, a transferred works operating entity or project beneficiary responsible for repayment of reimbursable costs for the conduct of extraordinary operation and maintenance work at a project facility, which shall consist of—
+
+  (A) any amounts that are specifically appropriated to the Account under [section 510d of this title](./chapter-012-reclamation-and-irrigation-of-lands-by-federal-government.md#section-510d); and
+
+  (B) any amounts deposited in the Account under paragraph (3)(B).
+
+(2) **Expenditures** — Subject to paragraphs (3) and (6), the Secretary may expend amounts in the Account to fund and provide for extended repayment of the funds for eligible projects identified in a report submitted under paragraph (5)(B).
+
+(3) **Repayment contract**
+
+  (A) *In general* — The Secretary may not expend amounts under paragraph (2) with respect to an eligible project described in that paragraph unless the transferred works operating entity or project beneficiary responsible for repayment of reimbursable costs has entered into a contract to repay the amounts under subsection (b)(2).
+
+  (B) *Deposit of repaid funds* — Amounts repaid by a transferred works operating entity or project beneficiary responsible for repayment of reimbursable costs receiving funds under a repayment contract entered into under this subsection shall be deposited in the Account and shall be available to the Secretary for expenditure, subject to paragraph (6), in accordance with this subsection, and without further appropriation.
+
+(4) **Application for funding**
+
+  (A) *In general* — Beginning with fiscal year 2022, not less than once per fiscal year, the Secretary shall accept, during an application period established by the Secretary, applications from transferred works operating entities or project beneficiaries responsible for payment of reimbursable costs for funds and extended repayment for eligible projects.
+
+  (B) *Eligible project* — A project eligible for funding and extended repayment under this subsection is a project that—
+
+    (i) qualifies as an extraordinary operation and maintenance work under this section;
+
+    (ii) is for the major, non-recurring maintenance of a mission-critical asset; and
+
+    (iii) is not eligible to be carried out or funded under the repayment provisions of [section 508(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section508/c&num=0&edition=prelim).
+
+  (C) *Guidelines for applications* — Not later than 60 days after December 27, 2020, the Secretary shall issue guidelines describing the information required to be provided in an application for funds and extended repayment under this subsection that require, at a minimum—
+
+    (i) a description of the project for which the funds are requested;
+
+    (ii) the amount of funds requested;
+
+    (iii) the repayment period requested by the transferred works operating entity or project beneficiary responsible for repayment of reimbursable costs;
+
+    (iv) alternative non-Federal funding options that have been evaluated;
+
+    (v) the financial justification for requesting an extended repayment period; and
+
+    (vi) the financial records of the transferred works operating entity or project beneficiary responsible for repayment of reimbursable costs.
+
+  (D) *Review by the Secretary* — The Secretary shall review each application submitted under subparagraph (A)—
+
+    (i) to determine whether the project is eligible for funds and an extended repayment period under this subsection;
+
+    (ii) to determine if the project has been identified by the Bureau of Reclamation as part of the major rehabilitation and replacement of a project facility; and
+
+    (iii) to conduct a financial analysis of—
+
+      (I) the project; and
+
+      (II) repayment capability of the transferred works operating entity or project beneficiary responsible for repayment of reimbursable costs.
+
+(5) **Report** — Not later than 90 days after the date on which an application period closes under paragraph (4)(A), the Secretary shall submit to the Committees on Energy and Natural Resources and Appropriations of the Senate and the Committees on Natural Resources and Appropriations of the House of Representatives a report that—
+
+  (A) describes the results of the Secretary’s review of each application under paragraph (4)(D), including a determination of whether the project is eligible;
+
+  (B) identifies each project eligible for funds and extended repayment under this subsection;
+
+  (C) with respect to each eligible project identified under subparagraph (B), includes—
+
+    (i) a description of—
+
+      (I) the eligible project;
+
+      (II) the anticipated cost and duration of the eligible project;
+
+      (III) any remaining engineering or environmental compliance that is required before the eligible project commences;
+
+      (IV) any recommendations the Secretary may have concerning the plan or design of the project; and
+
+      (V) any conditions the Secretary may require for construction of the project;
+
+    (ii) an analysis of—
+
+      (I) the repayment period proposed in the application; and
+
+      (II) if the Secretary recommends a minimum necessary repayment period that is different than the repayment period proposed in the application, the minimum necessary repayment period recommended by the Secretary; and
+
+    (iii) an analysis of alternative non-Federal funding options;
+
+  (D) describes the allocation of funds from deposits into the Account under paragraph (3)(B); and
+
+  (E) describes the balance of funds in the Account as of the date of the report.
+
+(6) **Alternative allocation**
+
+  (A) *In general* — Appropriations Acts may provide for alternate allocation of amounts reported pursuant to paragraph (5)(D) that are made available under this subsection.
+
+  (B) *Allocation by Secretary*
+
+    (i) *No alternate allocations* — If Congress has not enacted legislation establishing alternate allocations by the date on which the Act making full-year appropriations for energy and water development and related agencies for the applicable fiscal year is enacted into law, amounts made available under paragraph (1) shall be allocated by the Secretary.
+
+    (ii) *Insufficient alternate allocations* — If Congress enacts legislation establishing alternate allocations for amounts made available under paragraph (1) that are less than the full amount appropriated under that paragraph, the difference between the amount appropriated and the alternate allocation shall be allocated by the Secretary.
+
+(7) **Effect of subsection** — Nothing in this subsection affects—
+
+  (A) any funding provided, or contracts entered into, under subsection (a) before December 27, 2020; or
+
+  (B) the use of funds otherwise made available to the Secretary to carry out subsection (a).
+
+### Statutory Notes
+
+#### Amendments
+2020—Subsec. (d). Pub. L. 116–260 added subsec. (d).
+
 
 <a id="section-510c"></a>
 ## § 510c. Relationship to Twenty-First Century Water Works Act
@@ -5260,12 +5487,14 @@ Jurisdiction of suits by the United States for the enforcement of the provisions
 <a id="section-547"></a>
 ## § 547. Patent to desert-land entryman
 
-Any desert-land entryman whose desert-land entry has been embraced within the exterior limits of any land withdrawal or irrigation project under the Act of June 17, 1902, known as the reclamation Act, and who may have obtained a water supply for the land embraced in any such desert-land entry from the reclamation project by the purchase of a water-right certificate, may at any time after having complied with the provisions of the law applicable to such lands and upon proof of the cultivation and reclamation of the land to the extent required by the reclamation Act for homestead entrymen, submit proof of such compliance, which proof, if found regular and satisfactory, shall entitle the entryman to a patent and a final water-right certificate under the same terms and conditions as required of homestead entrymen under this subchapter.
+Any desert-land entryman whose desert-land entry has been embraced within the exterior limits of any land withdrawal or irrigation project under the Act of June 17, 1902, known as the reclamation Act, and who may have obtained a water supply for the land embraced in any such desert-land entry from the reclamation project by the purchase of a water-right certificate, may at any time after having complied with the provisions of the law applicable to such lands and upon proof of the cultivation and reclamation of the land to the extent required by the reclamation Act for homestead entrymen, submit proof of such compliance, which proof, if found regular and satisfactory, shall entitle the entryman to a patent and a final water-right certificate under the same terms and conditions as required of homestead entrymen under the Act entitled “An Act providing for patents on reclamation entries, and for other purposes, approved August ninth, nineteen hundred and twelve [[43 U.S.C. 541](./chapter-012-reclamation-and-irrigation-of-lands-by-federal-government.md#section-541) et seq.].” 11 So in original. The closing quotation marks probably should follow “purposes”.
 
 ### Statutory Notes
 
 #### References in Text
 Act of June 17, 1902, known as the reclamation Act, referred to in text, is act June 17, 1902, ch. 1093, 32 Stat. 388, as amended, which is classified generally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 371 of this title](./chapter-012-reclamation-and-irrigation-of-lands-by-federal-government.md#section-371) and Tables.
+
+The Act entitled “An Act providing for patents on reclamation entries, and for other purposes”, referred to in text, is act Aug. 9, 1912, ch. 278, 37 Stat. 265, which is classified generally to this subchapter. For complete classification of this Act to the Code, see Tables.
 
 #### Codification
 This section was not enacted as part of act Aug. 9, 1912, ch. 278, 37 Stat. 265, which comprises this subchapter.
@@ -5506,7 +5735,7 @@ Act of June 17, 1902, referred to in text, is popularly known as the Reclamation
 1958—Pub. L. 85–428 provided that the Hungry Horse project shall be subject to the Federal reclamation laws.
 
 #### Authorization of Appropriations
-Section 4 of act June 5, 1944, authorized appropriation of such sums as might be necessary to carry out the purpose of this section and [section 593b of this title](./chapter-012-reclamation-and-irrigation-of-lands-by-federal-government.md#section-593b).
+Act June 5, 1944, ch. 234, § 4, 58 Stat. 271, authorized appropriation of such sums as might be necessary to carry out the purpose of this section and [section 593b of this title](./chapter-012-reclamation-and-irrigation-of-lands-by-federal-government.md#section-593b).
 
 
 <a id="section-593b"></a>
@@ -5520,7 +5749,7 @@ The Secretary of the Interior is authorized to construct, operate, and maintain 
 Act of June 17, 1902, referred to in text, is popularly known as the Reclamation Act, which is classified generally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 371 of this title](./chapter-012-reclamation-and-irrigation-of-lands-by-federal-government.md#section-371) and Tables.
 
 #### Authorization of Appropriations
-Section 4 of act June 5, 1944, authorized appropriation of such sums as might be necessary to carry out the purpose of this section and [section 593a of this title](./chapter-012-reclamation-and-irrigation-of-lands-by-federal-government.md#section-593a).
+Act June 5, 1944, ch. 234, § 4, 58 Stat. 271, authorized appropriation of such sums as might be necessary to carry out the purpose of this section and [section 593a of this title](./chapter-012-reclamation-and-irrigation-of-lands-by-federal-government.md#section-593a).
 
 
 <a id="section-594"></a>
@@ -5765,10 +5994,10 @@ Section 611, act July 1, 1946, ch. 529, 60 Stat. 366, related to availability of
 Section 612, acts June 17, 1944, ch. 261, § 2(b)–(d), 58 Stat. 279; Aug. 1, 1956, ch. 828, § 2(e), 70 Stat. 799, related to lands of the Klamath project being subject to the reclamation laws.
 
 #### Contract Approved
-Section 1 of act June 17, 1944, ch. 261, 58 Stat. 279, provided that the contract dated Apr. 28, 1943, negotiated by the Secretary of the Interior with the Klamath Drainage District was approved and that the Secretary was authorized to execute such contract.
+Act June 17, 1944, ch. 261, § 1, 58 Stat. 279, provided that the contract dated Apr. 28, 1943, negotiated by the Secretary of the Interior with the Klamath Drainage District was approved and that the Secretary was authorized to execute such contract.
 
 #### Reclamation Laws
-Section 3 of act June 17, 1944, ch. 261, 58 Stat. 279, provided that section 612 was part of the Federal reclamation laws.
+Act June 17, 1944, ch. 261, § 3, 58 Stat. 279, provided that section 612 was part of the Federal reclamation laws.
 
 #### Repayment Contract With Tule Lake Irrigation District
 Act Aug. 1, 1956, ch. 828, 70 Stat. 799, authorized Secretary of the Interior to execute a repayment contract with Tule Lake Irrigation District.
@@ -5793,7 +6022,7 @@ Section 613d, act July 30, 1947, ch. 382, § 5, 61 Stat. 629, related to repayme
 Section 613e, act July 30, 1947, ch. 382, § 7, 61 Stat. 630, related to powers of Secretary of the Interior and his duly authorized representatives.
 
 #### Reclamation Law; Amendment of Other Laws
-Section 8 of act July 30, 1947, ch. 382, 61 Stat. 630, provided that this subchapter be deemed a supplement to the reclamation law and that nothing in this subchapter be construed to amend subchapter I of chapter 12A of this title.
+Act July 30, 1947, ch. 382, § 8, 61 Stat. 630, provided that this subchapter be deemed a supplement to the reclamation law and that nothing in this subchapter be construed to amend subchapter I of chapter 12A of this title.
 
 
 <a id="section-614-to-614d"></a>

@@ -2,7 +2,7 @@
 title: 50
 chapter: '46'
 heading: CENTRAL INTELLIGENCE AGENCY
-section_count: 29
+section_count: 32
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50&num=0&edition=prelim
 ---
@@ -235,19 +235,21 @@ Ex. Ord. No. 10100, Jan. 28, 1950, 15 F.R. 499, which provided for regulations g
 ## § 3506. General authorities
 **(a) In general** In the performance of its functions, the Central Intelligence Agency is authorized to—
 
-(1) Transfer to and receive from other Government agencies such sums as may be approved by the Office of Management and Budget, for the performance of any of the functions or activities authorized under [section 3036 of this title](./chapter-044-national-security.md#section-3036).,11 So in original. The period probably should not appear. and any other Government agency is authorized to transfer to or receive from the Agency such sums without regard to any provisions of law limiting or prohibiting transfers between appropriations. Sums transferred to the Agency in accordance with this paragraph may be expended for the purposes and under the authority of this chapter without regard to limitations of appropriations from which transferred;
+(1) Transfer to and receive from other Government agencies such sums as may be approved by the Office of Management and Budget, for the performance of any of the functions or activities authorized under [section 3036 of this title](./chapter-044-national-security.md#section-3036), and any other Government agency is authorized to transfer to or receive from the Agency such sums without regard to any provisions of law limiting or prohibiting transfers between appropriations. Sums transferred to the Agency in accordance with this paragraph may be expended for the purposes and under the authority of this chapter without regard to limitations of appropriations from which transferred;
 
 (2) Exchange funds without regard to section 3651 of the Revised Statutes;
 
 (3) Reimburse other Government agencies for services of personnel assigned to the Agency, and such other Government agencies are authorized, without regard to provisions of law to the contrary, so to assign or detail any officer or employee for duty with the Agency;
 
-(4) Authorize personnel designated by the Director to carry firearms to the extent necessary for the performance of the Agency’s authorized functions, except that, within the United States, such authority shall be limited to the purposes of protection of classified materials and information, the training of Agency personnel and other authorized persons in the use of firearms, the protection of Agency installations and property, the protection of current and former Agency personnel and their immediate families, defectors and their immediate families, and other persons in the United States under Agency auspices, and the protection of the Director of National Intelligence and such personnel of the Office of the Director of National Intelligence as the Director of National Intelligence may designate;
+(4) Authorize personnel designated by the Director to carry firearms to the extent necessary for the performance of the Agency’s authorized functions, except that, within the United States, such authority shall be limited to the purposes of protection of classified materials and information, the training of Agency personnel and other authorized persons in the use of firearms, the protection of Agency installations and property, the protection of current and former Agency personnel and their immediate families, defectors and their immediate families, and other persons in the United States under Agency auspices, and the protection of the Director of National Intelligence and current and former personnel of the Office of the Director of National Intelligence and their immediate families as the Director of National Intelligence may designate;
 
 (5) Make alterations, improvements, and repairs on premises rented by the Agency, and pay rent therefor;
 
-(6) Determine and fix the minimum and maximum limits of age within which an original appointment may be made to an operational position within the Agency, notwithstanding the provision of any other law, in accordance with such criteria as the Director, in his discretion, may prescribe; and
+(6) Determine and fix the minimum and maximum limits of age within which an original appointment may be made to an operational position within the Agency, notwithstanding the provision of any other law, in accordance with such criteria as the Director, in his discretion, may prescribe;
 
-(7) Notwithstanding [section 1341(a)(1) of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1341/a/1&num=0&edition=prelim), enter into multiyear leases for up to 15 years.
+(7) Notwithstanding [section 1341(a)(1) of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1341/a/1&num=0&edition=prelim), enter into multiyear leases for up to 15 years; and
+
+(8) Upon the approval of the Director, provide, during any fiscal year, with or without reimbursement, subsistence to any personnel assigned to an overseas location designated by the Agency as an austere location.
 
 **(b) Scope of authority for expenditure**
 
@@ -285,6 +287,12 @@ Section was formerly classified to [section 403f of this title](./chapter-015-na
 A prior section 5 of act June 20, 1949, was renumbered section 4 and is classified to [section 3505 of this title](./chapter-046-central-intelligence-agency.md#section-3505).
 
 #### Amendments
+2019—Subsec. (a)(1). Pub. L. 116–92, § 6411(1), substituted “[section 3036 of this title](./chapter-044-national-security.md#section-3036),” for “[section 3036 of this title](./chapter-044-national-security.md#section-3036).,”.
+
+Subsec. (a)(4). Pub. L. 116–92, § 6401, substituted “current and former personnel of the Office of the Director of National Intelligence and their immediate families as the Director of National Intelligence may designate;” for “such personnel of the Office of the Director of National Intelligence as the Director of National Intelligence may designate;”.
+
+Subsec. (a)(8). Pub. L. 116–92, § 6411(2)–(4), added par. (8).
+
 2010—Subsec. (a)(1). Pub. L. 111–259, § 802(1), substituted “authorized under [section 403–4a of this title](./chapter-015-national-security.md#section-403-4a).” for “authorized under paragraphs (2) and (3) of [section 403(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section403/a&num=0&edition=prelim), subsections (c)(7) and (d) of [section 403–3 of this title](./chapter-015-national-security.md#section-403-3), subsections (a) and (g) of [section 403–4 of this title](./chapter-015-national-security.md#section-403-4), and [section 405 of this title](./chapter-015-national-security.md#section-405)”.
 
 Subsec. (a)(4). Pub. L. 111–259, § 421, substituted “the protection of current” for “and the protection of current” and inserted “, and the protection of the Director of National Intelligence and such personnel of the Office of the Director of National Intelligence as the Director of National Intelligence may designate” before the semicolon.
@@ -324,9 +332,13 @@ Amendment by Pub. L. 97–89 effective Oct. 1, 1981, see section 806 of Pub. L. 
 Amendment by Pub. L. 88–448 effective on first day of first month which begins later than the ninetieth day following Aug. 19, 1964, see section 403 of Pub. L. 88–448, title IV, Aug. 19, 1964, 78 Stat. 496.
 
 #### Restriction on Transfer of Funds Available to Central Intelligence Agency for Drug Interdiction and Counter-Drug Activities
-Pub. L. 115–245, div. A, title VIII, § 8045(b), Sept. 28, 2018, 132 Stat. 3012, provided that: “None of the funds available to the Central Intelligence Agency for any fiscal year for drug interdiction or counter-drug activities may be transferred to any other department or agency of the United States except as specifically provided in an appropriations law.”
+Pub. L. 116–260, div. C, title VIII, § 8047(b), Dec. 27, 2020, 134 Stat. 1316, provided that: “None of the funds available to the Central Intelligence Agency for any fiscal year for drug interdiction or counter-drug activities may be transferred to any other department or agency of the United States except as specifically provided in an appropriations law.”
 
 Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 116–93, div. A, title VIII, § 8047(b), Dec. 20, 2019, 133 Stat. 2348.
+
+Pub. L. 115–245, div. A, title VIII, § 8045(b), Sept. 28, 2018, 132 Stat. 3012.
 
 Pub. L. 115–141, div. C, title VIII, § 8045(b), Mar. 23, 2018, 132 Stat. 475.
 
@@ -489,7 +501,7 @@ Section was formerly classified to [section 403i of this title](./chapter-015-na
 ## § 3510. Appropriations
 **(a)** Notwithstanding any other provisions of law, sums made available to the Agency by appropriation or otherwise may be expended for purposes necessary to carry out its functions, including—
 
-(1) personal services, including personal services without regard to limitations on types of persons to be employed, and rent at the seat of government and elsewhere; health-service program as authorized by law ([5 U.S.C. 7901](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section7901&num=0&edition=prelim)); rental of news-reporting services; purchase or rental and operation of photographic, reproduction, cryptographic, duplication, and printing machines, equipment, and devices, and radio-receiving and radio-sending equipment and devices, including telegraph and teletype equipment; purchase, maintenance, operation, repair, and hire of passenger motor vehicles, and aircraft, and vessels of all kinds; subject to policies established by the Director, transportation of officers and employees of the Agency in Government-owned automotive equipment between their domiciles and places of employment, where such personnel are engaged in work which makes such transportation necessary, and transportation in such equipment, to and from school, of children of Agency personnel who have quarters for themselves and their families at isolated stations outside the continental United States where adequate public or private transportation is not available; printing and binding; purchase, maintenance, and cleaning of firearms, including purchase, storage, and maintenance of ammunition; subject to policies established by the Director, expenses of travel in connection with, and expenses incident to attendance at meetings of professional, technical, scientific, and other similar organizations when such attendance would be a benefit in the conduct of the work of the Agency; association and library dues; payment of premiums or costs of surety bonds for officers or employees without regard to the provisions of section 14 11 See References in Text note below. of title 6; payment of claims pursuant to title 28; acquisition of necessary land and the clearing of such land; construction of buildings and facilities without regard to 36 Stat. 699; [40 U.S.C. 259](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40-section259&num=0&edition=prelim), 267; 1 repair, rental, operation, and maintenance of buildings, utilities, facilities, and appurtenances; and
+(1) personal services, including personal services without regard to limitations on types of persons to be employed, and rent at the seat of government and elsewhere; health-service program as authorized by law ([5 U.S.C. 7901](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section7901&num=0&edition=prelim)); payment of death benefits in cases in which the circumstances of the death of an employee of the Agency, a detailee of the Agency or other employee of another department or agency of the Federal Government assigned to the Agency, or an individual affiliated with the Agency (as determined by the Director), is not covered by [section 3511 of this title](./chapter-046-central-intelligence-agency.md#section-3511), other similar provisions of Federal law, or any regulation issued by the Director providing death benefits, but that the Director determines such payment appropriate; rental of news-reporting services; purchase or rental and operation of photographic, reproduction, cryptographic, duplication, and printing machines, equipment, and devices, and radio-receiving and radio-sending equipment and devices, including telegraph and teletype equipment; purchase, maintenance, operation, repair, and hire of passenger motor vehicles, and aircraft, and vessels of all kinds; subject to policies established by the Director, transportation of officers and employees of the Agency in Government-owned automotive equipment between their domiciles and places of employment, where such personnel are engaged in work which makes such transportation necessary, and transportation in such equipment, to and from school, of children of Agency personnel who have quarters for themselves and their families at isolated stations outside the continental United States where adequate public or private transportation is not available; printing and binding; purchase, maintenance, and cleaning of firearms, including purchase, storage, and maintenance of ammunition; subject to policies established by the Director, expenses of travel in connection with, and expenses incident to attendance at meetings of professional, technical, scientific, and other similar organizations when such attendance would be a benefit in the conduct of the work of the Agency; association and library dues; payment of premiums or costs of surety bonds for officers or employees without regard to the provisions of section 14 11 See References in Text note below. of title 6; payment of claims pursuant to title 28; acquisition of necessary land and the clearing of such land; construction of buildings and facilities without regard to 36 Stat. 699; [40 U.S.C. 259](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40-section259&num=0&edition=prelim), 267; 1 repair, rental, operation, and maintenance of buildings, utilities, facilities, and appurtenances; and
 
 (2) supplies, equipment, and personnel and contractual services otherwise authorized by law and regulations, when approved by the Director.
 
@@ -509,6 +521,9 @@ In subsec. (a)(1), “([5 U.S.C. 7901](https://uscode.house.gov/view.xhtml?req=g
 
 #### Prior Provisions
 A prior section 8 of act June 20, 1949, was renumbered section 7 and is classified to [section 3508 of this title](./chapter-046-central-intelligence-agency.md#section-3508).
+
+#### Amendments
+2019—Subsec. (a)(1). Pub. L. 116–92 inserted “payment of death benefits in cases in which the circumstances of the death of an employee of the Agency, a detailee of the Agency or other employee of another department or agency of the Federal Government assigned to the Agency, or an individual affiliated with the Agency (as determined by the Director), is not covered by [section 3511 of this title](./chapter-046-central-intelligence-agency.md#section-3511), other similar provisions of Federal law, or any regulation issued by the Director providing death benefits, but that the Director determines such payment appropriate;” before “rental of”.
 
 
 <a id="section-3510a"></a>
@@ -673,7 +688,7 @@ Section effective Oct. 1, 1981, see section 806 of Pub. L. 97–89, set out as a
 
 <a id="section-3514"></a>
 ## § 3514. Retirement equity for spouses of certain employees
-**(a) Manner and extent of applicability** The provisions of sections 2002, 2031(b)(1)–(3), 2031(f), 2031(g), 2031(h)(2), 2031(i), 2031(l), 2032, 2033, 2034, 2035, 2052(b), 2071(b), 2071(d), and 2094(b) of this title establishing certain requirements, limitations, rights, entitlements, and benefits relating to retirement annuities, survivor benefits, and lump-sum payments for a spouse or former spouse of an Agency employee who is a participant in the Central Intelligence Agency Retirement and Disability System shall apply in the same manner and to the same extent in the case of an Agency employee who is a participant in the Civil Service Retirement and Disability System.
+**(a) Manner and extent of applicability** The provisions of sections 2002, 2031(b)(1)–(3), 2031(f), 2031(g), 2031(i)(2), 2031(j), 2031(m), 2032, 2033, 2034, 2035, 2052(b), 2071(b), 2071(d), and 2094(b) of this title establishing certain requirements, limitations, rights, entitlements, and benefits relating to retirement annuities, survivor benefits, and lump-sum payments for a spouse or former spouse of an Agency employee who is a participant in the Central Intelligence Agency Retirement and Disability System shall apply in the same manner and to the same extent in the case of an Agency employee who is a participant in the Civil Service Retirement and Disability System.
 
 **(b) Regulations** The Director of the Office of Personnel Management, in consultation with the Director of the Central Intelligence Agency, shall prescribe such regulations as may be necessary to implement the provisions of this section.
 
@@ -683,6 +698,8 @@ Section effective Oct. 1, 1981, see section 806 of Pub. L. 97–89, set out as a
 Section was formerly classified to [section 403n of this title](./chapter-015-national-security.md#section-403n) prior to editorial reclassification and renumbering as this section. Some section numbers of this title referenced in amendment notes below reflect the classification of such sections prior to their editorial reclassification.
 
 #### Amendments
+2019—Subsec. (a). Pub. L. 116–92 substituted “2031(i)(2), 2031(j), 2031(m),” for “2031(h)(2), 2031(i), 2031(l),”.
+
 2004—Subsec. (b). Pub. L. 108–458 substituted “Director of the Central Intelligence Agency” for “Director of Central Intelligence”.
 
 1992—Subsec. (a). Pub. L. 102–496 substituted references to sections 2002, 2031 to 2035, 2052, 2071, and 2094 of this title for references in original to sections 204, 221 to 225, 232, 234 and 263 of the Central Intelligence Agency Retirement Act of 1964 for Certain Employees which were formerly set out in a note under [section 403 of this title](./chapter-015-national-security.md#section-403).
@@ -719,11 +736,11 @@ Section effective Nov. 15, 1982, see section 613 of Pub. L. 97–269 set out as 
 
   (A) within the Agency Headquarters Compound and the property controlled and occupied by the Federal Highway Administration located immediately adjacent to such Compound;
 
-  (B) in the streets, sidewalks, and the open areas within the zone beginning at the outside boundary of such Compound and property and extending outward 500 feet;
+  (B) in the streets, sidewalks, and the open areas within the zone beginning at the outside boundary of such Compound and property and extending outward 500 yards;
 
   (C) within any other Agency installation and protected property; and
 
-  (D) in the streets, sidewalks, and open areas within the zone beginning at the outside boundary of any installation or property referred to in subparagraph (C) and extending outward 500 feet.
+  (D) in the streets, sidewalks, and open areas within the zone beginning at the outside boundary of any installation or property referred to in subparagraph (C) and extending outward 500 yards.
 
 (2) The performance of functions and exercise of powers under subparagraph (B) or (D) of paragraph (1) shall be limited to those circumstances where such personnel can identify specific and articulable facts giving such personnel reason to believe that the performance of such functions and exercise of such powers is reasonable to protect against physical damage or injury, or threats of physical damage or injury, to Agency installations, property, or employees.
 
@@ -757,6 +774,10 @@ Section was formerly classified to section 403o of this title prior to editorial
 Pub. L. 98–473, title I, § 140 and Pub. L. 98–618, title IV, § 401, added substantially identical sections 15 to act June 20, 1949, ch. 227. This section is based on the section 15 of act June 20, 1949, ch. 227, as added by Pub. L. 98–618.
 
 #### Amendments
+2019—Subsec. (a)(1)(B). Pub. L. 116–92, § 6413(1), substituted “500 yards;” for “500 feet;”.
+
+Subsec. (a)(1)(D). Pub. L. 116–92, § 6413(2), substituted “500 yards.” for “500 feet.”.
+
 2003—Subsec. (a)(1). Pub. L. 108–177, § 377(b)(3)(A), substituted “officers and agents of the Department of Homeland Security, as provided in [section 1315(b)(2) of title 40](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40-section1315/b/2&num=0&edition=prelim),” for “special policemen of the General Services Administration perform under the first section of the Act entitled ‘An Act to authorize the Federal Works Administrator or officials of the Federal Works Agency duly authorized by him to appoint special policeman for duty upon Federal property under the jurisdiction of the Federal Works Agency, and for other purposes’ ([40 U.S.C. 318](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40-section318&num=0&edition=prelim)),”.
 
 Subsec. (b). Pub. L. 108–177, § 377(b)(3)(B), substituted “[section 1315(c)(2) of title 40](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40-section1315/c/2&num=0&edition=prelim)” for “the fourth section of the Act referred to in subsection (a) of this section ([40 U.S.C. 318c](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40-section318c&num=0&edition=prelim))”.
@@ -1432,6 +1453,79 @@ Pub. L. 104–293, title IV, § 402, Oct. 11, 1996, 110 Stat. 3468, provided tha
 [Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director’s capacity as the head of the intelligence community deemed to be a reference to the Director of National Intelligence. Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director’s capacity as the head of the Central Intelligence Agency deemed to be a reference to the Director of the Central Intelligence Agency. See section 1081(a), (b) of Pub. L. 108–458, set out as a note under [section 3001 of this title](./chapter-044-national-security.md#section-3001).]
 
 
+<a id="section-3519b"></a>
+## § 3519b. Special rules for certain individuals injured by reason of war, insurgency, hostile act, terrorist activities, or incidents designated by the Director
+**(a) Definitions** In this section:
+
+(1) **Covered dependent** — The term “covered dependent” means a family member (as defined by the Director) of a covered employee who, on or after September 11, 2001—
+
+  (A) accompanies the covered employee to an assigned duty station in a foreign country; and
+
+  (B) becomes injured by reason of a qualifying injury.
+
+(2) **Covered employee** — The term “covered employee” means an officer or employee of the Central Intelligence Agency who, on or after September 11, 2001, becomes injured by reason of a qualifying injury.
+
+(3) **Covered individual** — The term “covered individual” means an individual who—
+
+  (A)
+
+    (i) is detailed to the Central Intelligence Agency from other agencies of the United States Government or from the Armed Forces; or
+
+    (ii) is affiliated with the Central Intelligence Agency, as determined by the Director; and
+
+  (B) who, on or after September 11, 2001, becomes injured by reason of a qualifying injury.
+
+(4) **Qualifying injury** — The term “qualifying injury” means the following:
+
+  (A) With respect to a covered dependent, an injury incurred—
+
+    (i) during a period in which the covered dependent is accompanying the covered employee to an assigned duty station in a foreign country;
+
+    (ii) in connection with war, insurgency, hostile act, terrorist activity, or an incident designated for purposes of this section by the Director; and
+
+    (iii) that was not the result of the willful misconduct of the covered dependent.
+
+  (B) With respect to a covered employee or a covered individual—
+
+    (i) an injury incurred—
+
+      (I) during a period of assignment to a duty station in a foreign country;
+
+      (II) in connection with war, insurgency, hostile act, or terrorist activity; and
+
+      (III) that was not the result of the willful misconduct of the covered employee or the covered individual; or
+
+    (ii) an injury incurred—
+
+      (I) in connection with an incident designated for purposes of this section by the Director; and
+
+      (II) that was not the result of the willful misconduct of the covered employee or the covered individual.
+
+**(b) Adjustment of compensation for certain injuries**
+
+(1) **Increase** — The Director may increase the amount of monthly compensation paid to a covered employee under [section 8105 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section8105&num=0&edition=prelim). Subject to paragraph (2), the Director may determine the amount of each such increase by taking into account—
+
+  (A) the severity of the qualifying injury;
+
+  (B) the circumstances by which the covered employee became injured; and
+
+  (C) the seniority of the covered employee.
+
+(2) **Maximum** — Notwithstanding chapter 81 of title 5, the total amount of monthly compensation increased under paragraph (1) may not exceed the monthly pay of the maximum rate of basic pay for GS–15 of the General Schedule under section 5332 of such title.
+
+**(c) Costs for treating qualifying injuries** The Director may pay the costs of treating a qualifying injury of a covered employee, a covered individual, or a covered dependent, or may reimburse a covered employee, a covered individual, or a covered dependent for such costs, that are not otherwise covered by chapter 81 of title 5, or other provision of Federal law.
+
+### Statutory Notes
+
+#### Applicability
+Pub. L. 116–92, div. E, title LXIV, § 6412(c), Dec. 20, 2019, 133 Stat. 2198, provided that: “Section 19A of the Central Intelligence Agency Act of 1949 [[50 U.S.C. 3519b](./chapter-046-central-intelligence-agency.md#section-3519b)], as added by subsection (a), shall apply with respect to— “(1) payments made to covered employees (as defined in such section) under [section 8105 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section8105&num=0&edition=prelim), United States Code, beginning on or after the date of the enactment of this Act [Dec. 20, 2019]; and “(2) treatment described in subsection (b) of such section 19A occurring on or after the date of the enactment of this Act.”
+
+#### Regulations
+Pub. L. 116–92, div. E, title LXIV, § 6412(b), Dec. 20, 2019, 133 Stat. 2198, provided that: “Not later than 120 days after the date of the enactment of this Act [Dec. 20, 2019], the Director of the Central Intelligence Agency shall— “(1) prescribe regulations ensuring the fair and equitable implementation of section 19A of the Central Intelligence Agency Act of 1949 [[50 U.S.C. 3519b](./chapter-046-central-intelligence-agency.md#section-3519b)], as added by subsection (a); and “(2) submit to the congressional intelligence committees such regulations.”
+
+[For definition of “congressional intelligence committees” as used in section 6412(b) of Pub. L. 116–92, set out above, see section 5003 of div. E of Pub. L. 116–92, set out as a note under [section 3003 of this title](./chapter-044-national-security.md#section-3003).]
+
+
 <a id="section-3520"></a>
 ## § 3520. General Counsel of Central Intelligence Agency
 **(a) Appointment** There is a General Counsel of the Central Intelligence Agency, appointed from civilian life by the President, by and with the advice and consent of the Senate.
@@ -1585,9 +1679,13 @@ For Determination by President that amendment by Pub. L. 108–458 take effect o
 Amendment by Pub. L. 108–458 effective not later than six months after Dec. 17, 2004, except as otherwise expressly provided, see section 1097(a) of Pub. L. 108–458, set out in an Effective Date of 2004 Amendment; Transition Provisions note under [section 3001 of this title](./chapter-044-national-security.md#section-3001).
 
 #### Availability of Funds Credited to Central Services Working Capital Fund
-Pub. L. 115–245, div. A, title VIII, § 8036, Sept. 28, 2018, 132 Stat. 3008, provided in part: “That funds appropriated, transferred, or otherwise credited to the Central Intelligence Agency Central Services Working Capital Fund during this or any prior or subsequent fiscal year shall remain available until expended”.
+Pub. L. 116–260, div. C, title VIII, § 8038, Dec. 27, 2020, 134 Stat. 1312, provided in part: “That funds appropriated, transferred, or otherwise credited to the Central Intelligence Agency Central Services Working Capital Fund during this or any prior or subsequent fiscal year shall remain available until expended”.
 
 Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 116–93, div. A, title VIII, § 8038, Dec. 20, 2019, 133 Stat. 2344.
+
+Pub. L. 115–245, div. A, title VIII, § 8036, Sept. 28, 2018, 132 Stat. 3008.
 
 Pub. L. 115–141, div. C, title VIII, § 8035, Mar. 23, 2018, 132 Stat. 471.
 
@@ -1818,7 +1916,7 @@ Section was formerly classified to [section 403w of this title](./chapter-015-na
 
 **(b) Support for activities**
 
-(1) **In general** — In order to improve the provision of support to, and the receipt of support from, the Central Intelligence Agency, and to improve deconfliction of the activities of the Central Intelligence Agency and the Department of Defense, the Secretary of Defense and the Under Secretary of Defense for Intelligence shall ensure that the Associate Director of the Central Intelligence Agency for Military Affairs has access to, and support from, offices, agencies, and programs of the Department necessary for the purposes of the Associate Director as follows:
+(1) **In general** — In order to improve the provision of support to, and the receipt of support from, the Central Intelligence Agency, and to improve deconfliction of the activities of the Central Intelligence Agency and the Department of Defense, the Secretary of Defense and the Under Secretary of Defense for Intelligence 11 See Change of Name note below. shall ensure that the Associate Director of the Central Intelligence Agency for Military Affairs has access to, and support from, offices, agencies, and programs of the Department necessary for the purposes of the Associate Director as follows:
 
   (A) To facilitate and coordinate Department of Defense support for the Central Intelligence Agency requested by the Director of the Central Intelligence Agency and approved by the Secretary, including oversight of Department of Defense military and civilian personnel detailed or assigned to the Central Intelligence Agency.
 
@@ -1830,3 +1928,111 @@ Section was formerly classified to [section 403w of this title](./chapter-015-na
 
 #### Codification
 Section was enacted as part of the National Defense Authorization Act for Fiscal Year 2017, and not as part of the Central Intelligence Agency Act of 1949 which comprises this chapter.
+
+#### Change of Name
+Under Secretary of Defense for Intelligence redesignated and references deemed to refer to Under Secretary of Defense for Intelligence and Security, see section 1621(a) of Pub. L. 116–92, set out as a note under [section 137 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section137&num=0&edition=prelim), Armed Forces.
+
+
+<a id="section-3525"></a>
+## § 3525. Office of the Ombudsman for Analytic Objectivity
+**(a) Establishment**
+
+(1) **In general** — There is established in the Agency an Office of the Ombudsman for Analytic Objectivity (in this section referred to as the “Office”).
+
+(2) **Appointment of Ombudsman** — The Office shall be headed by an Ombudsman, who shall be appointed by the Director from among current or former senior staff officers of the Agency.
+
+**(b) Duties and responsibilities** The Ombudsman shall—
+
+(1) on an annual basis, conduct a survey of analytic objectivity among officers and employees of the Agency;
+
+(2) implement a procedure by which any officer or employee of the Agency may submit to the Office a complaint alleging politicization, bias, lack of objectivity, or other issues relating to a failure of tradecraft in analysis conducted by the Agency;
+
+(3) except as provided in paragraph (4), upon receiving a complaint submitted pursuant to paragraph (2), take reasonable action to investigate the complaint, make a determination as to whether the incident described in the complaint involved politicization, bias, or lack of objectivity, and prepare a report that—
+
+  (A) summarizes the facts relevant to the complaint;
+
+  (B) documents the determination of the Ombudsman with respect to the complaint; and
+
+  (C) contains a recommendation for remedial action;
+
+(4) if a complaint submitted pursuant to paragraph (2) alleges politicization, bias, or lack of objectivity in the collection of intelligence information, refer the complaint to the official responsible for supervising collection operations of the Agency; and
+
+(5) continuously monitor changes in areas of analysis that the Ombudsman determines involve a heightened risk of politicization, bias, or lack of objectivity, to ensure that any change in the analytic line arises from proper application of analytic tradecraft and not as a result of politicization, bias, or lack of objectivity.
+
+**(c) Reports**
+
+(1) On an annual basis, the Ombudsman shall submit to the intelligence committees a report on the results of the survey conducted pursuant to subsection (b)(1) with respect to the most recent fiscal year.
+
+(2) On an annual basis, the Ombudsman shall submit to the intelligence committees a report that includes—
+
+  (A) the number of complaints of submitted pursuant to subsection (b)(2) during the most recent fiscal year; and
+
+  (B) a description of the nature of such complaints, the actions taken by the Office or any other relevant element or component of the Agency with respect to such complaints, and the resolution of such complaints.
+
+(3) On a quarterly basis, the Ombudsman shall submit to the intelligence committees a report that includes—
+
+  (A) a list of the areas of analysis monitored during the most recent calendar quarter pursuant to subsection (b)(5); and
+
+  (B) a brief description of the methods by which the Office has conducted such monitoring.
+
+**(d) Intelligence committees defined** In this section, the term “intelligence committees” means the Permanent Select Committee on Intelligence of the House of Representatives and the Select Committee on Intelligence of the Senate.
+
+### Statutory Notes
+
+#### Change of Name
+Pub. L. 116–260, div. W, title IV, § 401(b), Dec. 27, 2020, 134 Stat. 2377, provided that: “Any reference in any law, regulation, map, document, paper, or other record of the United States to the Ombudsman for Analytic and Collection Objectivity of the Central Intelligence Agency shall be deemed to be a reference to the Office of the Ombudsman for Analytic Objectivity of the Central Intelligence Agency established by section 24(a) [[50 U.S.C. 3525(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3525/a&num=0&edition=prelim)] of the Central Intelligence Agency Act of 1949 ([50 U.S.C. 3501](./chapter-046-central-intelligence-agency.md#section-3501) et seq.), as added by subsection (a).”
+
+
+<a id="section-3526"></a>
+## § 3526. Improvement of education in science, technology, engineering, arts, and mathematics
+**(a) Definitions** In this section:
+
+(1) **Eligible entity** — The term “eligible entity” includes a department or agency of the Federal Government, a State, a political subdivision of a State, an individual, and a not-for-profit or other organization in the private sector.
+
+(2) **Educational institution** — The term “educational institution” includes any public or private elementary school or secondary school, institution of higher education, college, university, or any other profit or nonprofit institution that is dedicated to improving science, technology, engineering, the arts, mathematics, business, law, medicine, or other fields that promote development and education relating to science, technology, engineering, the arts, or mathematics.
+
+(3) **State** — The term “State” means each of the several States, the District of Columbia, the Commonwealth of Puerto Rico, the Commonwealth of the Northern Mariana Islands, and any other territory or possession of the United States.
+
+**(b) Requirements** The Director shall, on a continuing basis—
+
+(1) identify actions that the Director may take to improve education in the scientific, technology, engineering, arts, and mathematics (known as “STEAM”) skills necessary to meet the long-term national security needs of the United States for personnel proficient in such skills; and
+
+(2) establish and conduct programs to carry out such actions.
+
+**(c) Authorities**
+
+(1) **In general** — The Director, in support of educational programs in science, technology, engineering, the arts, and mathematics, may—
+
+  (A) award grants to eligible entities;
+
+  (B) provide cash awards and other items to eligible entities;
+
+  (C) accept voluntary services from eligible entities;
+
+  (D) support national competition judging, other educational event activities, and associated award ceremonies in connection with such educational programs; and
+
+  (E) enter into one or more education partnership agreements with educational institutions in the United States for the purpose of encouraging and enhancing study in science, technology, engineering, the arts, and mathematics disciplines at all levels of education.
+
+(2) **Education partnership agreements**
+
+  (A) *Nature of assistance provided* — Under an education partnership agreement entered into with an educational institution under paragraph (1)(E), the Director may provide assistance to the educational institution by—
+
+    (i) loaning equipment to the educational institution for any purpose and duration in support of such agreement that the Director considers appropriate;
+
+    (ii) making personnel available to teach science courses or to assist in the development of science courses and materials for the educational institution;
+
+    (iii) providing sabbatical opportunities for faculty and internship opportunities for students;
+
+    (iv) involving faculty and students of the educational institution in Agency projects, including research and technology transfer or transition projects;
+
+    (v) cooperating with the educational institution in developing a program under which students may be given academic credit for work on Agency projects, including research and technology transfer for transition projects; and
+
+    (vi) providing academic and career advice and assistance to students of the educational institution.
+
+  (B) *Priorities* — In entering into education partnership agreements under paragraph (1)(E), the Director shall prioritize entering into education partnership agreements with the following:
+
+    (i) Historically Black colleges and universities and other minority-serving institutions, as described in [section 1067q(a) of title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1067q/a&num=0&edition=prelim).
+
+    (ii) Educational institutions serving women, members of minority groups, and other groups of individuals who traditionally are involved in the science, technology, engineering, arts, and mathematics professions in disproportionately low numbers.
+
+**(d) Designation of advisor** The Director shall designate one or more individuals within the Agency to advise and assist the Director regarding matters relating to science, technology, engineering, the arts, and mathematics education and training.

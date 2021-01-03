@@ -94,56 +94,10 @@ The Plant Variety Protection Act, referred to in par. (1), is Pub. L. 91–577, 
 
 
 <a id="section-12003"></a>
-## § 12003. National goals and multi-year funding for Federal wind, photovoltaics, and solar thermal programs
-**(a) National goals** The following are declared to be the national goals for the wind, photovoltaics, and solar thermal energy programs being carried out by the Secretary:
+## § 12003. National goals and multi-year funding for Federal alcohol from biomass and other technology programs
+**(a) National goals** The following are declared to be the national goals for the alcohol from biomass and other energy technology programs being carried out by the Secretary:
 
-(1) **Wind**
-
-  (A) In general, the goals for the Wind Energy Research Program include improving design methodologies and developing more reliable and efficient wind turbines to increase the cost competitiveness of wind energy. Research efforts shall emphasize—
-
-    (i) activities that address near-term technical problems and assist private sector exploitation of market opportunities of the wind energy industry;
-
-    (ii) developing technologies such as advanced airfoils and variable speed generators to increase wind turbine output and reduce maintenance costs by decreasing structural stress and fatigue;
-
-    (iii) increasing the basic knowledge of aerodynamics, structural dynamics, fatigue, and electrical systems interactions as applied to wind energy technology; and
-
-    (iv) improving the compatibility of electricity produced from wind farms with conventional utility needs.
-
-  (B) Specific goals for the Wind Energy Research Program shall be to—
-
-    (i) reduce average wind energy costs to 3 to 5 cents per kilowatt hour by 1995;
-
-    (ii) reduce capital costs of new wind energy systems to $500 to $750 per kilowatt of installed capacity by 1995;
-
-    (iii) reduce operation and maintenance costs for wind energy systems to less than one cent per kilowatt hour by 1995; and
-
-    (iv) increase capacity factors for new wind energy systems to 25 to 35 percent by 1995.
-
-(2) **Photovoltaics**
-
-  (A) In general, the goals of the Photovoltaic Energy Systems Program shall include improving the reliability and conversion efficiencies of and lowering the costs of photovoltaic conversion. Research efforts shall emphasize advancements in the performance, stability, and durability of photovoltaic materials.
-
-  (B) Specific goals of the Photovoltaic Energy Systems Program shall be to—
-
-    (i) improve operational reliability of photovoltaic modules to 30 years by 1995;
-
-    (ii) increase photovoltaic conversion efficiencies by 20 percent by 1995;
-
-    (iii) decrease new photovoltaic module direct manufacturing costs to $800 per kilowatt by 1995; and
-
-    (iv) increase cost efficiency of photovoltaic power production to 10 cents per kilowatt hour by 1995.
-
-(3) **Solar thermal**
-
-  (A) In general, the goal of the Solar Thermal Energy Systems Program shall be to advance research and development to a point where solar thermal technology is cost-competitive with conventional energy sources, and to promote the integration of this technology into the production of industrial process heat and the conventional utility network. Research and development shall emphasize development of a thermal storage technology to provide capacity for shifting power to periods of demand when full insolation is not available; improvement in receivers, energy conversion devices, and innovative concentrators using stretch membranes, lenses, and other materials; and exploration of advanced manufacturing techniques.
-
-  (B) Specific goals of the Solar Thermal Energy Systems Program shall be to—
-
-    (i) reduce solar thermal costs for industrial process heat to $9.00 per million Btu by 1995; and
-
-    (ii) reduce average solar thermal costs for electricity to 4 to 5 cents per kilowatt hour by 1995.
-
-(4) **Alcohol from biomass**
+(1) **Alcohol from biomass**
 
   (A) In general, the goal of the Alcohol From Biomass Program shall be to advance research and development to a point where alcohol from biomass technology is cost-competitive with conventional hydrocarbon transportation fuels, and to promote the integration of this technology into the transportation fuel sector of the economy.
 
@@ -165,32 +119,40 @@ The Plant Variety Protection Act, referred to in par. (1), is Pub. L. 91–577, 
 
       (II) reduce the capital component of the cost of alcohol to 16 cents per gallon.
 
-(5) **Other technologies** — The Secretary shall submit to the Congress, as part of the first report submitted under [section 12006 of this title](./chapter-125-renewable-energy-and-energy-efficiency-technology-competitiveness.md#section-12006), recommendations for specific cost goals and other pertinent goals for 1995 for Department of Energy research, development, and demonstration programs in Biofuels Energy Systems, Biodiesel Energy Systems, Hydrogen Energy Systems, Solar Buildings Energy Systems, Ocean Energy Systems, Geothermal Energy Systems, Low-Head Hydro, and Energy Storage Systems.
+(2) **Other technologies** — The Secretary shall submit to the Congress, as part of the first report submitted under [section 12006 of this title](./chapter-125-renewable-energy-and-energy-efficiency-technology-competitiveness.md#section-12006), recommendations for specific cost goals and other pertinent goals for 1995 for Department of Energy research, development, and demonstration programs in Biofuels Energy Systems, Biodiesel Energy Systems, Hydrogen Energy Systems, Solar Buildings Energy Systems, Marine Energy Systems, Geothermal Energy Systems, Low-Head Hydro, and Energy Storage Systems.
 
 **(b) Amended goals** Whenever the Secretary determines that any of the goals established under this section is no longer appropriate, the Secretary shall notify Congress, as part of a report submitted under [section 12006 of this title](./chapter-125-renewable-energy-and-energy-efficiency-technology-competitiveness.md#section-12006), of the reason for the determination and provide an amended goal that is consistent with the purpose stated in [section 12001(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section12001/b&num=0&edition=prelim).
 
-**(c) Authorizations** There are authorized to be appropriated to the Secretary for the following renewable energy research, development, and demonstration programs: the Wind Energy Research Program, the Photovoltaic Energy Systems Program, the Solar Thermal Energy Systems Program, the Biofuels Energy Systems Program, the Hydrogen Energy Systems Program, the Solar Buildings Energy Systems Program, the Ocean Energy Systems Program, and the Geothermal Energy Systems Program—
+**(c) Authorizations** There are authorized to be appropriated to the Secretary for the following renewable energy research, development, and demonstration programs: the Biofuels Energy Systems Program, the Hydrogen Energy Systems Program, the Solar Buildings Energy Systems Program, the Marine Energy Systems Program, and the Geothermal Energy Systems Program—
 
 (1) not to exceed $113,000,000 for fiscal year 1991, of which—
 
-  (A) not to exceed $39,000,000 shall be available for the Photovoltaic Energy Systems Program;
+  (A) not to exceed $19,000,000 shall be available for the Geothermal Energy Systems Program; and
 
-  (B) not to exceed $19,000,000 shall be available for the Geothermal Energy Systems Program; and
-
-  (C) not to exceed $4,000,000 shall be available for the Hydrogen Energy Systems Program; and
+  (B) not to exceed $4,000,000 shall be available for the Hydrogen Energy Systems Program; and
 
 (2) not to exceed $121,000,000 for fiscal year 1992, of which—
 
-  (A) not to exceed $40,000,000 shall be available for the Photovoltaic Energy Systems Program;
+  (A) not to exceed $20,500,000 shall be available for the Geothermal Energy Systems Program; and
 
-  (B) not to exceed $20,500,000 shall be available for the Geothermal Energy Systems Program; and
-
-  (C) not to exceed $5,000,000 shall be available for the Hydrogen Energy Systems Program.
+  (B) not to exceed $5,000,000 shall be available for the Hydrogen Energy Systems Program.
 Each of the President’s annual budget requests submitted to Congress after December 11, 1989, shall include as separate line items each of the categories of renewable energy programs described in this subsection.
 
 ### Statutory Notes
 
 #### Amendments
+2020—Pub. L. 116–260, § 3006(a)(1)(A), substituted “alcohol from biomass and other technology” for “wind, photovoltaics, and solar thermal” in section catchline.
+
+Subsec. (a). Pub. L. 116–260, § 3006(a)(1)(B)(ii)–(iv), redesignated pars. (4) and (5) as (1) and (2), respectively, in par. (2), as redesignated, substituted “Marine” for “Ocean”, and struck out former pars. (1) to (3) which related to national goals for wind energy, photovoltaic energy, and solar thermal energy programs, respectively.
+
+Pub. L. 116–260, § 3006(a)(1)(B)(i), substituted “alcohol from biomass and other energy technology” for “wind, photovoltaics, and solar thermal energy” in introductory provisions.
+
+Subsec. (c). Pub. L. 116–260, § 3006(a)(1)(C)(i), in introductory provisions, struck out “the Wind Energy Research Program, the Photovoltaic Energy Systems Program, the Solar Thermal Energy Systems Program,” after “demonstration programs:” and substituted “Marine” for “Ocean”.
+
+Subsec. (c)(1). Pub. L. 116–260, § 3006(a)(1)(C)(ii), redesignated subpars. (B) and (C) as (A) and (B), respectively, and struck out former subpar. (A) which read as follows: “not to exceed $39,000,000 shall be available for the Photovoltaic Energy Systems Program;”.
+
+Subsec. (c)(2). Pub. L. 116–260, § 3006(a)(1)(C)(iii), redesignated subpars. (B) and (C) as (A) and (B), respectively, adn struck out form subpar. (A) which read as follows: “not to exceed $40,000,000 shall be available for the Photovoltaic Energy Systems Program;”.
+
 1992—Subsec. (a)(4), (5). Pub. L. 102–486, § 1202(b)(1), added par. (4), redesignated former par. (4) as (5), and inserted “Biodiesel Energy Systems,” after “Biofuels Energy Systems,”.
 
 Subsec. (c)(3). Pub. L. 102–486, § 2125(1)–(3), struck out par. (3) which read as follows: “not to exceed $124,000,000 for fiscal year 1993, of which—
@@ -388,7 +350,7 @@ Advisory committees established after Jan. 5, 1973, to terminate not later than 
 
 (6) Within one year after October 24, 1992, the Secretary shall submit a revised management plan under this section to Congress. Thereafter, the Secretary shall submit a management plan every three years at the time of submittal of the President’s annual budget submission to the Congress.
 
-**(c) Report on options** As part of the first report submitted under subsection (a), the Secretary shall submit to Congress a report analyzing options available to the Secretary under existing law to assist the private sector with the timely commercialization of wind, photovoltaic, solar thermal, biofuels, hydrogen, solar buildings, ocean, geothermal, low-head hydro, and energy storage renewable energy technologies and energy efficiency technologies through emphasis on development and demonstration assistance to specific technologies in the research, development, and demonstration programs of the Department of Energy that are near commercial application.
+**(c) Report on options** As part of the first report submitted under subsection (a), the Secretary shall submit to Congress a report analyzing options available to the Secretary under existing law to assist the private sector with the timely commercialization of wind, photovoltaic, solar thermal, biofuels, hydrogen, solar buildings, marine, geothermal, low-head hydro, and energy storage renewable energy technologies and energy efficiency technologies through emphasis on development and demonstration assistance to specific technologies in the research, development, and demonstration programs of the Department of Energy that are near commercial application.
 
 ### Statutory Notes
 
@@ -396,6 +358,8 @@ Advisory committees established after Jan. 5, 1973, to terminate not later than 
 This chapter, referred to in subsecs. (a) and (b)(1), (3), (5)(D), was in the original “this Act”, meaning Pub. L. 101–218, Dec. 11, 1989, 103 Stat. 1859, known as the Renewable Energy and Energy Efficiency Technology Competitiveness Act of 1989, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 12001 of this title](./chapter-125-renewable-energy-and-energy-efficiency-technology-competitiveness.md#section-12001) and Tables.
 
 #### Amendments
+2020—Subsec. (c). Pub. L. 116–260 substituted “marine,” for “ocean,”.
+
 1992—Subsec. (a). Pub. L. 102–486, § 1202(d)(5), substituted “and projects” for “, projects, and joint ventures”.
 
 Subsec. (b)(1). Pub. L. 102–486, § 1202(c)(1), inserted “three-year” before “management plan”.

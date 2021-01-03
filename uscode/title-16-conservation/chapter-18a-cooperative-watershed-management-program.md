@@ -13,13 +13,15 @@ In this chapter:
 
 (1) **Affected stakeholder** — The term “affected stakeholder” means an entity that significantly affects, or is significantly affected by, the quality or quantity of water in a watershed, as determined by the Secretary.
 
-(2) **Grant recipient** — The term “grant recipient” means a watershed group that the Secretary has selected to receive a grant under [section 1015a(c)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1015a/c/2&num=0&edition=prelim).
+(2) **Disadvantaged community** — The term “disadvantaged community” means a community (including a city, town, county, or reasonably isolated and divisible segment of a larger municipality) with an annual median household income that is less than 100 percent of the statewide annual median household income for the State in which the community is located, according to the most recent decennial census.
 
-(3) **Program** — The term “program” means the Cooperative Watershed Management Program established by the Secretary under [section 1015a(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1015a/a&num=0&edition=prelim).
+(3) **Grant recipient** — The term “grant recipient” means a watershed group that the Secretary has selected to receive a grant under [section 1015a(c)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1015a/c/2&num=0&edition=prelim).
 
-(4) **Secretary** — The term “Secretary” means the Secretary of the Interior.
+(4) **Program** — The term “program” means the Cooperative Watershed Management Program established by the Secretary under [section 1015a(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1015a/a&num=0&edition=prelim).
 
-(5) **Watershed group** — The term “watershed group” means a self-sustaining, cooperative watershed-wide group that—
+(5) **Secretary** — The term “Secretary” means the Secretary of the Interior.
+
+(6) **Watershed group** — The term “watershed group” means a self-sustaining, cooperative watershed-wide group that—
 
   (A) is comprised of representatives of the affected stakeholders of the relevant watershed;
 
@@ -41,9 +43,11 @@ In this chapter:
 
       (VII) the environment;
 
-      (VIII) potable water purveyors and industrial water users; and
+      (VIII) potable water purveyors and industrial water users;
 
-      (IX) private property owners within the watershed;
+      (IX) private property owners within the watershed; and
+
+      (X) disadvantaged communities;
 
     (ii) any Federal agency that has authority with respect to the watershed;
 
@@ -71,17 +75,28 @@ In this chapter:
 
   (E) makes decisions on a consensus basis, as defined in the bylaws of the watershed group.
 
-(6) **Watershed management project** — The term “watershed management project” means any project (including a demonstration project) that—
+(7) **Watershed management project** — The term “watershed management project” means any project (including a demonstration project) that—
 
   (A) enhances water conservation, including alternative water uses;
 
   (B) improves water quality;
 
-  (C) improves ecological resiliency of a river or stream;
+  (C) improves ecological resiliency of a river or stream, including benefits to fisheries, wildlife, or habitat;
 
   (D) reduces the potential for water conflicts; or
 
   (E) advances any other goals associated with water quality or quantity that the Secretary determines to be appropriate.
+
+### Statutory Notes
+
+#### Amendments
+2020—Pars. (2) to (6). Pub. L. 116–260, § 1107(a)(1), (2), added par. (2) and redesignated former pars. (2) to (5) as (3) to (6), respectively. Former par. (6) redesignated (7).
+
+Par. (6)(B)(i)(X). Pub. L. 116–260, § 1107(a)(3), added subcl. (X).
+
+Par. (7). Pub. L. 116–260, § 1107(a)(1), redesignated par. (6) as (7).
+
+Par. (7)(C). Pub. L. 116–260, § 1107(a)(4), inserted “, including benefits to fisheries, wildlife, or habitat” after “river or stream”.
 
 
 <a id="section-1015a"></a>
@@ -96,13 +111,11 @@ In this chapter:
 
 (2) to conduct 1 or more projects in accordance with the goals of a watershed group.
 
-**(b) Application**
+**(b) Establishment of application process; criteria** Not later than September 30, 2021, the Secretary shall update—
 
-(1) **Establishment of application process; criteria** — Not later than 1 year after March 30, 2009, the Secretary shall establish—
+(1) the application process for the program; and
 
-  (A) an application process for the program; and
-
-  (B) in consultation with the States, prioritization and eligibility criteria for considering applications submitted in accordance with the application process.
+(2) in consultation with the States, the prioritization and eligibility criteria for considering applications submitted in accordance with the application process.
 
 **(c) Distribution of grant funds**
 
@@ -248,7 +261,16 @@ In this chapter:
 
 (3) $10,000,000 for fiscal year 2011; and
 
-(4) $20,000,000 for each of fiscal years 2012 through 2020.
+(4) $20,000,000 for each of fiscal years 2012 through 2026.
+
+### Statutory Notes
+
+#### Amendments
+2020—Subsec. (b). Pub. L. 116–260, § 1107(b)(1), added subsec. (b) and struck out former subsec. (b) which required Secretary to establish application process not later than 1 year after March 30, 2009.
+
+Subsec. (g)(4). Pub. L. 116–260, § 1107(b)(2), which directed substitution of “2026” for “2020”, was executed by making the substitution for “2021” to reflect the probable intent of Congress and the intervening amendment by Pub. L. 116–260, § 206. See below.
+
+Pub. L. 116–260, § 206, substituted “2021” for “2020”.
 
 
 <a id="section-1015b"></a>

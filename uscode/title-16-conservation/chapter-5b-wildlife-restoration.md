@@ -2,21 +2,23 @@
 title: 16
 chapter: 5B
 heading: WILDLIFE RESTORATION
-section_count: 16
+section_count: 17
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16&num=0&edition=prelim
 ---
 <a id="section-669"></a>
 ## § 669. Cooperation of Secretary of the Interior with States; conditions
 
-The Secretary of the Interior is authorized to cooperate with the States, through their respective State fish and game departments, in wildlife-restoration projects as hereinafter in this chapter set forth; but no money apportioned under this chapter to any State shall be expended therein until its legislature, or other State agency authorized by the State constitution to make laws governing the conservation of wildlife, shall have assented to the provision of this chapter and shall have passed laws for the conservation of wildlife which shall include a prohibition against the diversion of license fees paid by hunters for any other purpose than the administration of said State fish and game department, except that, until the final adjournment of the first regular session of the legislature held after September 2, 1937, the assent of the Governor of the State shall be sufficient. The Secretary of the Interior and the State fish and game department of each State accepting the benefits of this chapter, shall agree upon the wildlife-restoration projects to be aided in such State under the terms of this chapter and all projects shall conform to the standards fixed by the Secretary of the Interior.
+The Secretary of the Interior is authorized to cooperate with the States, through their respective State fish and game departments, in wildlife-restoration projects as hereinafter in this chapter set forth; but no money apportioned under this chapter to any State shall be expended therein until its legislature, or other State agency authorized by the State constitution to make laws governing the conservation of wildlife, shall have assented to the provision of this chapter and shall have passed laws for the conservation of wildlife which shall include a prohibition against the diversion of license fees paid by hunters for any other purpose than the administration of said State fish and game department, except that, until the final adjournment of the first regular session of the legislature held after September 2, 1937, the assent of the Governor of the State shall be sufficient. The Secretary of the Interior and the State fish and game department of each State accepting the benefits of this chapter, shall agree upon the wildlife-restoration projects to be aided in such State under the terms of this chapter and all projects shall conform to the standards fixed by the Secretary of the Interior. One of the purposes of this chapter is to provide financial and technical assistance to the States for the promotion of hunting and recreational shooting.
 
 ### Statutory Notes
 
-#### Transfer of Functions
-Reorg. Plan No. II of 1939, set out in the Appendix to Title 5, Government Organization and Employees, transferred functions of Secretary of Agriculture relating to conservation of wildlife, game, and migratory birds to Secretary of the Interior.
+#### Amendments
+2019—Pub. L. 116–94 inserted at end “One of the purposes of this chapter is to provide financial and technical assistance to the States for the promotion of hunting and recreational shooting.”
 
 #### Short Title of 2019 Amendment
+Pub. L. 116–94, div. P, title V, § 501(a), Dec. 20, 2019, 133 Stat. 3191, provided that: “This title [amending this section and sections 669a, 669c, 669g, 669h–1, and 669h–2 of this title and enacting provisions set out as a note under [section 669h–2 of this title](./chapter-5b-wildlife-restoration.md#section-669h-2)] may be cited as the ‘Modernizing the Pittman-Robertson Fund for Tomorrow’s Needs Act’.”
+
 Pub. L. 116–17, § 1, May 10, 2019, 133 Stat. 866, provided that: “This Act [amending sections 669a, 669g, and 669h–1 of this title and enacting provisions set out as a note under [section 669a of this title](./chapter-5b-wildlife-restoration.md#section-669a)] may be cited as the ‘Target Practice and Marksmanship Training Support Act’.”
 
 #### Short Title of 2000 Amendment
@@ -28,9 +30,12 @@ Pub. L. 106–408, title I, § 101(a), Nov. 1, 2000, 114 Stat. 1763, provided th
 Pub. L. 91–503, title I, § 103, Oct. 23, 1970, 84 Stat. 1101, provided that: “This title [amending section 669b and sections 669c to 669g–1 of this title] may be cited as the ‘Federal Aid in Wildlife Restoration Act Amendments of 1970’.”
 
 #### Short Title
-Act Sept. 2, 1937, ch. 899, § 13, as added by Pub. L. 106–408, title I, § 101(b), Nov. 1, 2000, 114 Stat. 1763, provided that: “This Act [enacting this chapter] may be cited as the ‘Pittman-Robertson Wildlife Restoration Act’.”
+Act Sept. 2, 1937, ch. 899, § 14, formerly § 13, as added by Pub. L. 106–408, title I, § 101(b), Nov. 1, 2000, 114 Stat. 1763, and amended and renumbered by Pub. L. 116–188, title III, § 303(1), Oct. 30, 2020, 134 Stat. 941, provided that: “This Act [enacting this chapter] may be cited as the ‘Pittman-Robertson Wildlife Restoration Act’.”
 
 Act Sept. 2, 1937, ch. 899, as amended, is also popularly known as the “Federal Aid in Wildlife Restoration Act”.
+
+#### Transfer of Functions
+Reorg. Plan No. II of 1939, set out in the Appendix to Title 5, Government Organization and Employees, transferred functions of Secretary of Agriculture relating to conservation of wildlife, game, and migratory birds to Secretary of the Interior.
 
 #### Statement of Purpose and Definition in Pub. L. 106–553
 Pub. L. 106–553, § 1(a)(2) [title IX, § 902(a), (b)], Dec. 21, 2000, 114 Stat. 2762, 2762A–119, provided that: “(a) Purposes.—The purposes of this section [amending sections 669a, 669b, 669c, 669g, and 4406 of this title, and enacting provisions set out as notes under this section] are—“(1) to extend financial and technical assistance to the States under the Federal Aid to [in] Wildlife Restoration Act [[16 U.S.C. 669](./chapter-5b-wildlife-restoration.md#section-669) et seq.] for the benefit of a diverse array of wildlife and associated habitats, including species that are not hunted or fished, to fulfill unmet needs of wildlife within the States in recognition of the primary role of the States to conserve all wildlife; “(2) to assure sound conservation policies through the development, revision, and implementation of a comprehensive wildlife conservation and restoration plan; “(3) to encourage State fish and wildlife agencies to participate with the Federal Government, other State agencies, wildlife conservation organizations and outdoor recreation and conservation interests through cooperative planning and implementation of this title [enacting [section 1356a of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1356a&num=0&edition=prelim), Public Lands, amending sections 669a, 669b, 669c, 669g, and 4406 of this title, and enacting provisions set out as notes under this section]; and “(4) to encourage State fish and wildlife agencies to provide for public involvement in the process of development and implementation of a wildlife conservation and restoration program. “(b) Reference to Law.—In this section, the term ‘Federal Aid in Wildlife Restoration Act’ means the Act of September 2, 1937 ([16 U.S.C. 669](./chapter-5b-wildlife-restoration.md#section-669) et seq.), commonly referred to as the Federal Aid in Wildlife Restoration Act or the Pittman-Robertson Act.”
@@ -52,7 +57,29 @@ As used in this chapter—
 
 (1) the term “conservation” means the use of methods and procedures necessary or desirable to sustain healthy populations of wildlife, including all activities associated with scientific resources management such as research, census, monitoring of populations, acquisition, improvement and management of habitat, live trapping and transplantation, wildlife damage management, and periodic or total protection of a species or population, as well as the taking of individuals within wildlife stock or population if permitted by applicable State and Federal law;
 
-(2) the term “public target range” means a specific location that—
+(2) for the purposes of determining the number of paid hunting-license holders in a State, the term “fiscal year” means the fiscal year or license year of the State;
+
+(3) the term “hunter recruitment and recreational shooter recruitment” means any activity or project to recruit or retain hunters and recreational shooters, including by—
+
+  (A) outreach and communications as a means—
+
+    (i) to improve communications with hunters, recreational shooters, and the general public with respect to hunting and recreational shooting opportunities;
+
+    (ii) to reduce barriers to participation in these activities;
+
+    (iii) to advance the adoption of sound hunting and recreational shooting practices;
+
+    (iv) to promote conservation and the responsible use of the wildlife resources of the United States; and
+
+    (v) to further safety in hunting and recreational shooting;
+
+  (B) providing education, mentoring, and field demonstrations;
+
+  (C) enhancing access for hunting and recreational shooting, including through range construction; and
+
+  (D) providing education to the public about the role of hunting and recreational shooting in funding wildlife conservation;
+
+(4) the term “public target range” means a specific location that—
 
   (A) is identified by a governmental agency for recreational shooting;
 
@@ -62,29 +89,31 @@ As used in this chapter—
 
   (D) may accommodate archery or rifle, pistol, or shotgun shooting;
 
-(3) the term “Secretary” means the Secretary of the Interior;
+(5) the term “Secretary” means the Secretary of the Interior;
 
-(4) the term “State fish and game department” or “State fish and wildlife department” means any department or division of department of another name, or commission, or official or officials, of a State empowered under its laws to exercise the functions ordinarily exercised by a State fish and game department or State fish and wildlife department.
+(6) the term “State fish and game department” or “State fish and wildlife department” means any department or division of department of another name, or commission, or official or officials, of a State empowered under its laws to exercise the functions ordinarily exercised by a State fish and game department or State fish and wildlife department.
 
-(5) the term “wildlife” means any species of wild, free-ranging fauna including fish, and also fauna in captive breeding programs the object of which is to reintroduce individuals of a depleted indigenous species into previously occupied range;
+(7) the term “wildlife” means any species of wild, free-ranging fauna including fish, and also fauna in captive breeding programs the object of which is to reintroduce individuals of a depleted indigenous species into previously occupied range;
 
-(6) the term “wildlife-associated recreation” means projects intended to meet the demand for outdoor activities associated with wildlife including, but not limited to, hunting and fishing, wildlife observation and photography, such projects as construction or restoration of wildlife viewing areas, observation towers, blinds, platforms, land and water trails, water access, field trialing, trail heads, and access for such projects;
+(8) the term “wildlife-associated recreation” means projects intended to meet the demand for outdoor activities associated with wildlife including, but not limited to, hunting and fishing, wildlife observation and photography, such projects as construction or restoration of wildlife viewing areas, observation towers, blinds, platforms, land and water trails, water access, field trialing, trail heads, and access for such projects;
 
-(7) the term “wildlife conservation and restoration program” means a program developed by a State fish and wildlife department and approved by the Secretary under section 669c(d) 11 See References in Text note below. of this title, the projects that constitute such a program, which may be implemented in whole or part through grants and contracts by a State to other State, Federal, or local agencies (including those that gather, evaluate, and disseminate information on wildlife and their habitats), wildlife conservation organizations, and outdoor recreation and conservation education entities from funds apportioned under this chapter,1 and maintenance of such projects;
+(9) the term “wildlife conservation and restoration program” means a program developed by a State fish and wildlife department and approved by the Secretary under section 669c(d) 11 See References in Text note below. of this title, the projects that constitute such a program, which may be implemented in whole or part through grants and contracts by a State to other State, Federal, or local agencies (including those that gather, evaluate, and disseminate information on wildlife and their habitats), wildlife conservation organizations, and outdoor recreation and conservation education entities from funds apportioned under this chapter,1 and maintenance of such projects;
 
-(8) the term “wildlife conservation education” means projects, including public outreach, intended to foster responsible natural resource stewardship; and
+(10) the term “wildlife conservation education” means projects, including public outreach, intended to foster responsible natural resource stewardship; and
 
-(9) the term “wildlife-restoration project” includes the wildlife conservation and restoration program and means the selection, restoration, rehabilitation, and improvement of areas of land or water adaptable as feeding, resting, or breeding places for wildlife, including acquisition of such areas or estates or interests therein as are suitable or capable of being made suitable therefor, and the construction thereon or therein of such works as may be necessary to make them available for such purposes and also including such research into problems of wildlife management as may be necessary to efficient administration affecting wildlife resources, and such preliminary or incidental costs and expenses as may be incurred in and about such projects.
+(11) the term “wildlife-restoration project” includes the wildlife conservation and restoration program and means the selection, restoration, rehabilitation, and improvement of areas of land or water adaptable as feeding, resting, or breeding places for wildlife, including acquisition of such areas or estates or interests therein as are suitable or capable of being made suitable therefor, and the construction thereon or therein of such works as may be necessary to make them available for such purposes and also including such research into problems of wildlife management as may be necessary to efficient administration affecting wildlife resources, and such preliminary or incidental costs and expenses as may be incurred in and about such projects.
 
 ### Statutory Notes
 
 #### References in Text
-[Section 669c(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section669c/d&num=0&edition=prelim), referred to in par. (7), was in the original “section 304(d)”, and was translated as reading “section 4(d)”, meaning section 4(d) of Act Sept. 2, 1937, ch. 899, to reflect the probable intent of Congress, because Act Sept. 2, 1937, ch. 899, does not contain a section 304(d), and section 4(d) relates to wildlife conservation and restoration programs.
+[Section 669c(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section669c/d&num=0&edition=prelim), referred to in par. (9), was in the original “section 304(d)”, and was translated as reading “section 4(d)”, meaning section 4(d) of Act Sept. 2, 1937, ch. 899, to reflect the probable intent of Congress, because Act Sept. 2, 1937, ch. 899, does not contain a section 304(d), and section 4(d) relates to wildlife conservation and restoration programs. [Section 669c(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section669c/d&num=0&edition=prelim) was redesignated [section 669c(e) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section669c/e&num=0&edition=prelim) by Pub. L. 116–94, div. P, title V, § 501(d)(2)(A), Dec. 20, 2019, 133 Stat. 3192.
 
-This chapter, referred to in par. (7), was in the original “this title”, and was translated as reading “this Act”, meaning Act Sept. 2, 1937, ch. 899, to reflect the probable intent of Congress, because Act Sept. 2, 1937, ch. 899, which enacted this chapter, does not contain titles.
+This chapter, referred to in par. (9), was in the original “this title”, and was translated as reading “this Act”, meaning Act Sept. 2, 1937, ch. 899, to reflect the probable intent of Congress, because Act Sept. 2, 1937, ch. 899, which enacted this chapter, does not contain titles.
 
 #### Amendments
-2019—Pars. (2) to (9). Pub. L. 116–17 added par. (2) and redesignated former pars. (2) to (8) as (3) to (9), respectively.
+2019—Pars. (2) to (11). Pub. L. 116–94 added pars. (2) and (3) and redesignated former pars. (2) to (9) as (4) to (11), respectively.
+
+Pub. L. 116–17 added par. (2) and redesignated former pars. (2) to (8) as (3) to (9), respectively. Such pars. (2) to (9) were subsequently redesignated (4) to (11) by Pub. L. 116–94.
 
 2000—Pub. L. 106–553 inserted section catchline and amended text generally. Prior to amendment, text read as follows: “For the purposes of this chapter the term ‘wildlife-restoration project’ shall be construed to mean and include the selection, restoration, rehabilitation, and improvement of areas of land or water adaptable as feeding, resting, or breeding places for wildlife, including acquisition by purchase, condemnation, lease, or gift of such areas or estates or interests therein as are suitable or capable of being made suitable therefor, and the construction thereon or therein of such works as may be necessary to make them available for such purposes and also including such research into problems of wildlife management as may be necessary to efficient administration affecting wildlife resources, and such preliminary or incidental costs and expenses as may be incurred in and about such projects; the term ‘State fish and game department’ shall be construed to mean and include any department or division of department of another name, or commission, or official or officials, of a State empowered under its laws to exercise the functions ordinarily exercised by a State fish and game department.”
 
@@ -127,7 +156,7 @@ Pub. L. 116–17, §§ 2, 3, May 10, 2019, 133 Stat. 866, 867, provided that: �
 
 (1) Amounts transferred to the Wildlife Conservation and Restoration Account shall supplement, but not replace, existing funds available to the States from the sport fish restoration account and wildlife restoration account and shall be used for the development, revision, and implementation of wildlife conservation and restoration programs and should be used to address the unmet needs for a diverse array of wildlife and associated habitats, including species that are not hunted or fished, for wildlife conservation, wildlife conservation education, and wildlife-associated recreation projects. Such funds may be used for new programs and projects as well as to enhance existing programs and projects.
 
-(2) Funds may be used by a State or an Indian tribe for the planning and implementation of its wildlife conservation and restoration program and wildlife conservation strategy, as provided in sections 669c(d) and (e) 22 So in original. [Section 669c of this title](./chapter-5b-wildlife-restoration.md#section-669c) does not contain a subsec. (e). of this title, including wildlife conservation, wildlife conservation education, and wildlife-associated recreation projects. Such funds may be used for new programs and projects as well as to enhance existing programs and projects.
+(2) Funds may be used by a State or an Indian tribe for the planning and implementation of its wildlife conservation and restoration program and wildlife conservation strategy, as provided in sections 669c(d) and (e) of this title, including wildlife conservation, wildlife conservation education, and wildlife-associated recreation projects. Such funds may be used for new programs and projects as well as to enhance existing programs and projects.
 
 (3) Priority for funding from the Wildlife Conservation and Restoration Account shall be for those species with the greatest conservation need as defined by the State wildlife conservation and restoration program.
 
@@ -168,9 +197,12 @@ Reorg. Plan No. II of 1939, set out in the Appendix to Title 5, Government Organ
 <a id="section-669b-1"></a>
 ## § 669b–1. Authorization of appropriation of accumulated unappropriated receipts
 
-There is hereby authorized to be appropriated, out of the Federal aid to wildlife restoration fund established by this chapter, for the 1956 fiscal year and for each fiscal year thereafter, an amount equal to 20 per centum of the accumulated unappropriated receipts in such fund on August 12, 1955, until the accumulated unappropriated receipts in such fund on such date have been appropriated and expended. Funds appropriated under the authority of this section shall be made available to the States in accordance with the provisions of, and under the apportionment formula set forth in, this chapter, and shall be in addition to the funds appropriated under [section 669b of this title](./chapter-5b-wildlife-restoration.md#section-669b).
+There is hereby authorized to be appropriated, out of the Federal aid to wildlife restoration fund established by the Act entitled “An Act to provide that the United States shall aid the States in wildlife-restoration projects, and for other purposes”, approved September 2, 1937, as amended (16 U.S.C., secs. 669–669i), for the 1956 fiscal year and for each fiscal year thereafter, an amount equal to 20 per centum of the accumulated unappropriated receipts in such fund on August 12, 1955, until the accumulated unappropriated receipts in such fund on such date have been appropriated and expended. Funds appropriated under the authority of this section shall be made available to the States in accordance with the provisions of, and under the apportionment formula set forth in, such Act of September 2, 1937, and shall be in addition to the funds appropriated under section 3 of such Act [[16 U.S.C. 669b](./chapter-5b-wildlife-restoration.md#section-669b)].
 
 ### Statutory Notes
+
+#### References in Text
+The Act entitled “An Act to provide that the United States shall aid the States in wildlife-restoration projects, and for other purposes”, approved September 2, 1937, referred to in text, is act Sept. 2, 1937, ch. 899, 50 Stat. 917, known as the Pittman-Robertson Wildlife Restoration Act and also popularly known as the Federal Aid in Wildlife Restoration Act, which is classified generally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 669 of this title](./chapter-5b-wildlife-restoration.md#section-669) and Tables.
 
 #### Codification
 Section was not enacted as part of the Pittman-Robertson Wildlife Restoration Act which comprises this chapter.
@@ -206,11 +238,19 @@ Section was not enacted as part of the Pittman-Robertson Wildlife Restoration Ac
 
   (B) *Apportionment of unobligated amounts* — Not later than 60 days after the end of a fiscal year, the Secretary of the Interior shall apportion among the States any of the available amount under paragraph (1) that remains unobligated at the end of the fiscal year, on the same basis and in the same manner as other amounts made available under this chapter are apportioned among the States for the fiscal year.
 
-**(b) Apportionment to States** The Secretary of the Interior, after deducting the available amount under subsection (a), the amount apportioned under subsection (c),11 Probably means the subsection (c) relating to apportionment of certain taxes. any amount apportioned under [section 669g–1 of this title](./chapter-5b-wildlife-restoration.md#section-669g-1), and amounts provided as grants under sections 669h–1 and 669h–2 of this title, shall apportion the remainder of the revenue in said fund for each fiscal year among the several States in the following manner: One-half in the ratio which the area of each State bears to the total area of all the States, and one-half in the ratio which the number of paid hunting-license holders of each State in the second fiscal year preceding the fiscal year for which such apportionment is made, as certified to said Secretary by the State fish and game departments, bears to the total number of paid hunting-license holders of all the States. Such apportionments shall be adjusted equitably so that no State shall receive less than one-half of 1 per centum nor more than 5 per centum of the total amount apportioned. The term fiscal year as used in this chapter shall be a period of twelve consecutive months from October 1 through the succeeding September 30, except that the period for enumeration of paid hunting-license holders shall be a State’s fiscal or license year.
+**(b) Apportionment to States** The Secretary of the Interior, after deducting the available amount under subsection (a), the amount apportioned under subsection (c), any amount apportioned under [section 669g–1 of this title](./chapter-5b-wildlife-restoration.md#section-669g-1), and amounts provided as grants under sections 669h–1 and 669h–2 of this title, shall apportion the remainder of the revenue in said fund for each fiscal year among the several States in the following manner: One-half in the ratio which the area of each State bears to the total area of all the States, and one-half in the ratio which the number of paid hunting-license holders of each State in the second fiscal year preceding the fiscal year for which such apportionment is made, as certified to said Secretary by the State fish and game departments, bears to the total number of paid hunting-license holders of all the States. Such apportionments shall be adjusted equitably so that no State shall receive less than one-half of 1 per centum nor more than 5 per centum of the total amount apportioned. The term fiscal year as used in this chapter shall be a period of twelve consecutive months from October 1 through the succeeding September 30, except that the period for enumeration of paid hunting-license holders shall be a State’s fiscal or license year.
 
-**(c) 22 So in original. Two subsecs. (c) have been enacted. Apportionment of certain taxes** One-half of the revenues accruing to the fund under this chapter each fiscal year (beginning with the fiscal year 1975) from any tax imposed on pistols, revolvers, bows, and arrows shall be apportioned among the States in proportion to the ratio that the population of each State bears to the population of all the States: Provided, That each State shall be apportioned not more than 3 per centum and not less than 1 per centum of such revenues and Guam, the Virgin Islands, American Samoa, Puerto Rico, and the Northern Mariana Islands shall each be apportioned one-sixth of 1 per centum of such revenues. For the purpose of this subsection, population shall be determined on the basis of the latest decennial census for which figures are available, as certified by the Secretary of Commerce.
+**(c) Apportionment of revenues from pistols, revolvers, bows, and arrows**
 
-**(c) 2 Apportionment of Wildlife Conservation and Restoration Account**
+(1) **In general** — Subject to paragraph (2), ½ of the revenues accruing to the fund under this chapter each fiscal year (beginning with the fiscal year 1975) from any tax imposed on pistols, revolvers, bows, and arrows shall be apportioned among the States in proportion to the ratio that the population of each State bears to the population of all the States.
+
+(2) **Condition** — The amount apportioned to each State under paragraph (1) shall be not greater than 3 percent and not less than 1 percent of the revenues described in such paragraph and Guam, the Virgin Islands, American Samoa, Puerto Rico, and the Northern Mariana Islands shall each be apportioned one-sixth of 1 per centum of such revenues.
+
+(3) **Population determination** — For the purpose of this subsection, population shall be determined on the basis of the latest decennial census for which figures are available, as certified by the Secretary of Commerce.
+
+(4) **Use of funds** — In addition to other uses authorized under this chapter, amounts apportioned under this subsection may be used for hunter recruitment and recreational shooter recruitment.
+
+**(d) Apportionment of Wildlife Conservation and Restoration Account**
 
 (1) The Secretary of the Interior shall make the following apportionment from the Wildlife Conservation and Restoration Account:
 
@@ -230,7 +270,7 @@ Section was not enacted as part of the Pittman-Robertson Wildlife Restoration Ac
 
 (3) Of the amounts transferred to the Wildlife Conservation and Restoration Account, not to exceed 3 percent shall be available for any Federal expenses incurred in the administration and execution of programs carried out with such amounts.
 
-**(d) Wildlife conservation and restoration programs**
+**(e) Wildlife conservation and restoration programs**
 
 (1) Any State, through its fish and wildlife department, may apply to the Secretary of the Interior for approval of a wildlife conservation and restoration program, or for funds from the Wildlife Conservation and Restoration Account, to develop a program. To apply, a State shall submit a comprehensive plan that includes—
 
@@ -264,7 +304,7 @@ Section was not enacted as part of the Pittman-Robertson Wildlife Restoration Ac
 
 (2) A State shall provide an opportunity for public participation in the development of the comprehensive plan required under paragraph (1).
 
-(3) If the Secretary finds that the comprehensive plan submitted by a State complies with paragraph (1), the Secretary shall approve the wildlife conservation and restoration program of the State and set aside from the apportionment to the State made pursuant to subsection (c) 33 Probably means the subsection (c) relating to apportionment of Wildlife Conservation and Restoration Account. an amount that shall not exceed 75 percent of the estimated cost of developing and implementing the program.
+(3) If the Secretary finds that the comprehensive plan submitted by a State complies with paragraph (1), the Secretary shall approve the wildlife conservation and restoration program of the State and set aside from the apportionment to the State made pursuant to subsection (d), as redesignated 11 See References in Text note below. an amount that shall not exceed 75 percent of the estimated cost of developing and implementing the program.
 
 (4)
 
@@ -276,7 +316,24 @@ Section was not enacted as part of the Pittman-Robertson Wildlife Restoration Ac
 
 ### Statutory Notes
 
+#### References in Text
+Subsection (d), as redesignated, referred to in subsec. (e)(3), probably refers to the redesignation of a second subsec. (c) of this section as (d) by Pub. L. 116–94, div. P, title V, § 501(d)(2)(A), Dec. 20, 2019, 133 Stat. 3192. See 2019 Amendment note below.
+
 #### Amendments
+2019—Subsec. (c). Pub. L. 116–94, § 501(d)(1)(A), inserted heading.
+
+Subsec. (c)(1). Pub. L. 116–94, § 501(d)(1)(B), (C), designated the portion of the first sentence of existing provisions preceding the proviso as par. (1), inserted heading, and substituted “Subject to paragraph (2), ½” for “One-half” and a period for “: Provided, That”.
+
+Subsec. (c)(2). Pub. L. 116–94, § 501(d)(1)(D), designated the portion of the first sentence of existing provisions that had followed “Provided, That” as par. (2), inserted heading, and substituted “The amount apportioned to each State under paragraph (1) shall be not greater than 3 percent and not less than 1 percent of the revenues described in such paragraph” for “each State shall be apportioned not more than 3 per centum and not less than 1 per centum of such revenues”.
+
+Subsec. (c)(3). Pub. L. 116–94, § 501(d)(1)(E), designated second sentence of existing provisions as par. (3) and inserted heading.
+
+Subsec. (c)(4). Pub. L. 116–94, § 501(d)(1)(F), added par. (4).
+
+Subsecs. (d), (e). Pub. L. 116–94, § 501(d)(2)(A), redesignated second subsec. (c), as added by Pub. L. 106–553, and subsec. (d) as (d) as (e), respectively.
+
+Subsec. (e)(3). Pub. L. 116–94, § 501(d)(2)(B), substituted “subsection (d), as redesignated” for “subsection (c)”.
+
 2000—Pub. L. 106–408 inserted section catchline, substituted subsec. (a) for “(a) So much, not to exceed 8 per centum, of the revenues (excluding interest accruing under [section 669b(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section669b/b&num=0&edition=prelim)) covered into said fund in each fiscal year as the Secretary of the Interior may estimate to be necessary for his expenses in the administration and execution of this chapter and the Migratory Bird Conservation Act shall be deducted for that purpose, and such sum is authorized to be made available therefor until the expiration of the next succeeding fiscal year, and within sixty days after the close of such fiscal year the Secretary of the Interior shall apportion such part thereof as remains unexpended by him, if any, and make certificate thereof to the Secretary of the Treasury and to the State fish and game departments on the same basis and in the same manner as is provided as to other amounts authorized by this chapter to be apportioned among the States for such current fiscal year.”, inserted subsec. (b) designation and heading, substituted “after deducting the available amount under subsection (a), the amount apportioned under subsection (c), any amount apportioned under [section 669g–1 of this title](./chapter-5b-wildlife-restoration.md#section-669g-1), and amounts provided as grants under sections 669h–1 and 669h–2 of this title, shall apportion” for “after making the aforesaid deduction, shall apportion, except as provided in subsection (b) of this section,”, redesignated former subsec. (b) as (c), and inserted “Puerto Rico,” after “American Samoa,”.
 
 Subsec. (c). Pub. L. 106–553 added subsec. (c) relating to apportionment of Wildlife Conservation and Restoration Account.
@@ -367,11 +424,11 @@ Reorg. Plan No. II of 1939, set out in the Appendix to Title 5, Government Organ
 
 <a id="section-669g"></a>
 ## § 669g. Maintenance of projects; expenditures for management of wildlife areas and resources
-**(a)** Maintenance of wildlife-restoration projects established under the provisions of this chapter shall be the duty of the States in accordance with their respective laws. Beginning July 1, 1945, the term “wildlife-restoration project”, as defined in [section 669a of this title](./chapter-5b-wildlife-restoration.md#section-669a), shall include maintenance of completed projects. Notwithstanding any other provisions of this chapter, funds apportioned to a State under this chapter may be expended by the State for management (exclusive of law enforcement and public relations) of wildlife areas and resources. Funds from the Wildlife Conservation and Restoration Account may be used for a wildlife conservation education program, except that no such funds may be used for education efforts, projects, or programs that promote or encourage opposition to the regulated taking of wildlife.
+**(a)** Maintenance of wildlife-restoration projects established under the provisions of this chapter shall be the duty of the States in accordance with their respective laws. Beginning July 1, 1945, the term “wildlife-restoration project”, as defined in [section 669a of this title](./chapter-5b-wildlife-restoration.md#section-669a), shall include maintenance of completed projects. Notwithstanding any other provisions of this chapter, funds apportioned to a State under this chapter may be expended by the State for management (exclusive of law enforcement) of wildlife areas and resources. Funds from the Wildlife Conservation and Restoration Account may be used for a wildlife conservation education program, except that no such funds may be used for education efforts, projects, or programs that promote or encourage opposition to the regulated taking of wildlife.
 
 **(b) Expenditures for Management of Wildlife Areas and Resources.—**
 
-(1) **In general.—** — Except as provided in paragraph (2), each State may use the funds apportioned to it under section 669c(c) 11 Probably means section 669c(c) relating to apportionment of certain taxes. of this title to pay up to 75 per centum of the costs of a hunter safety program and the operation and maintenance of public target ranges, as a part of such program.
+(1) **In general.—** — Except as provided in paragraph (2), each State may use the funds apportioned to it under [section 669c(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section669c/c&num=0&edition=prelim) to pay up to 75 per centum of the costs of a hunter safety program and the operation and maintenance of public target ranges.
 
 (2) **Exception.—** — Notwithstanding the limitation described in paragraph (1), a State may pay up to 90 percent of the cost of acquiring land for, expanding, or constructing a public target range.
 
@@ -382,10 +439,14 @@ Reorg. Plan No. II of 1939, set out in the Appendix to Title 5, Government Organ
 ### Statutory Notes
 
 #### References in Text
-The effective date of this subsection, referred to in subsec. (b)(4), probably means Oct. 23, 1970, the date of approval of Pub. L. 91–503 which added subsec. (b).
+The effective date of this subsection, referred to in subsec. (b)(4), probably means Oct. 23, 1970, the date of approval of Pub. L. 91–503, which added subsec. (b).
 
 #### Amendments
-2019—Subsec. (b). Pub. L. 116–17 inserted subsec. heading, designated first, second, and third sentences of existing provisions as pars. (1), (3), and (4), respectively, and inserted par. headings, in par. (1), substituted “Except as provided in paragraph (2), each State” for “Each State” and “operation” for “construction, operation,”, and added par. (2).
+2019—Subsec. (a). Pub. L. 116–94, § 501(e)(1), struck out “and public relations” after “(exclusive of law enforcement”.
+
+Subsec. (b). Pub. L. 116–17 inserted subsec. heading, designated first, second, and third sentences of existing provisions as pars. (1), (3), and (4), respectively, and inserted par. headings, in par. (1), substituted “Except as provided in paragraph (2), each State” for “Each State” and “operation” for “construction, operation,”, and added par. (2).
+
+Subsec. (b)(1). Pub. L. 116–94, § 501(e)(2), struck out “, as a part of such program” before period at end.
 
 2000—Subsec. (a). Pub. L. 106–553 inserted at end “Funds from the Wildlife Conservation and Restoration Account may be used for a wildlife conservation education program, except that no such funds may be used for education efforts, projects, or programs that promote or encourage opposition to the regulated taking of wildlife.”
 
@@ -520,19 +581,21 @@ Committee on Resources of House of Representatives changed to Committee on Natur
 ## § 669h–1. Firearm and bow hunter education and safety program grants
 **(a) In general**
 
-(1) **Grants** — Of the revenues covered into the fund, $7,500,000 for each of fiscal years 2001 and 2002, and $8,000,000 for fiscal year 2003 and each fiscal year thereafter, shall be apportioned among the States in the manner specified in section 669c(c) 11 Probably means section 669c(c) relating to apportionment of certain taxes. of this title by the Secretary of the Interior and used to make grants to the States to be used for—
+(1) **Grants** — Of the revenues covered into the fund, $7,500,000 for each of fiscal years 2001 and 2002, and $8,000,000 for fiscal year 2003 and each fiscal year thereafter, shall be apportioned among the States in the manner specified in [section 669c(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section669c/c&num=0&edition=prelim) by the Secretary of the Interior and used to make grants to the States to be used for—
 
-  (A) in the case of a State that has not used all of the funds apportioned to the State under section 669c(c) 1 of this title for the fiscal year in the manner described in [section 669g(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section669g/b&num=0&edition=prelim)—
+  (A) in the case of a State that has not used all of the funds apportioned to the State under [section 669c(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section669c/c&num=0&edition=prelim) for the fiscal year in the manner described in [section 669g(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section669g/b&num=0&edition=prelim)—
 
     (i) the enhancement of hunter education programs, hunter and sporting firearm safety programs, and hunter development programs;
 
     (ii) the enhancement of interstate coordination and development of hunter education and shooting range programs;
 
-    (iii) the enhancement of bow hunter and archery education, safety, and development programs; and
+    (iii) the enhancement of bow hunter and archery education, safety, and development programs;
 
     (iv) the enhancement of construction or development of firearm shooting ranges and archery ranges, and the updating of safety features of firearm shooting ranges and archery ranges; and
 
-  (B) in the case of a State that has used all of the funds apportioned to the State under section 669c(c) 1 of this title for the fiscal year in the manner described in [section 669g(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section669g/b&num=0&edition=prelim), any use authorized by this chapter (including hunter safety programs and the construction, operation, and maintenance of public target ranges).
+    (v) the enhancement of hunter recruitment and recreational shooter recruitment; and
+
+  (B) in the case of a State that has used all of the funds apportioned to the State under [section 669c(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section669c/c&num=0&edition=prelim) for the fiscal year in the manner described in [section 669g(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section669g/b&num=0&edition=prelim), any use authorized by this chapter (including hunter safety programs and the construction, operation, and maintenance of public target ranges).
 
 (2) **Limitation on use** — Under paragraph (1), a State shall not be required to use more than the amount described in [section 669g(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section669g/b&num=0&edition=prelim) for hunter safety programs and the construction, operation, and maintenance of public target ranges.
 
@@ -560,7 +623,9 @@ Committee on Resources of House of Representatives changed to Committee on Natur
 A prior section 10 of act Sept. 2, 1937, was renumbered section 12 and is classified to [section 669i of this title](./chapter-5b-wildlife-restoration.md#section-669i).
 
 #### Amendments
-2019—Subsec. (a)(3). Pub. L. 116–17, § 4(c)(1), added par. (3).
+2019—Subsec. (a)(1)(A)(v). Pub. L. 116–94 added cl. (v).
+
+Subsec. (a)(3). Pub. L. 116–17, § 4(c)(1), added par. (3).
 
 Subsec. (b). Pub. L. 116–17, § 4(c)(2), added subsec. (b) and struck out former subsec. (b). Prior to amendment, text read as follows: “The Federal share of the cost of any activity carried out with a grant under this section shall not exceed 75 percent of the total cost of the activity.”
 
@@ -571,7 +636,11 @@ Subsec. (c)(1). Pub. L. 116–17, § 4(c)(3), designated existing provisions as 
 ## § 669h–2. Multistate conservation grant program
 **(a) In general**
 
-(1) **Amount for grants** — Not more than $3,000,000 of the revenues covered into the fund for a fiscal year shall be available to the Secretary of the Interior for making multistate conservation project grants in accordance with this section.
+(1) **Amount for grants**
+
+  (A) *In general* — Not more than $3,000,000 of the revenues covered into the fund for a fiscal year shall be available to the Secretary of the Interior for making multistate conservation project grants in accordance with this section.
+
+  (B) *Availability for hunter and recreational shooter grants* — Not more than $5,000,000 of the revenues covered into the fund from any tax imposed under [section 4161(b) of title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section4161/b&num=0&edition=prelim) for a fiscal year shall be available to the Secretary exclusively for making hunter recruitment and recreational shooter recruitment grants that promote a national hunting and shooting sport recruitment program, including related communication and outreach activities.
 
 (2) **Period of availability; apportionment**
 
@@ -591,7 +660,7 @@ Subsec. (c)(1). Pub. L. 116–17, § 4(c)(3), designated existing provisions as 
 
 (2) **Use of submitted priority list of projects** — The Secretary of the Interior may make grants under this section only for projects identified on a priority list of wildlife restoration projects described in paragraph (3).
 
-(3) **Priority list of projects** — A priority list referred to in paragraph (2) is a priority list of wildlife restoration projects that the International Association of Fish and Wildlife Agencies—
+(3) **Priority list of projects** — A priority list referred to in paragraph (2) is a priority list of wildlife restoration projects that the Association of Fish and Wildlife Agencies—
 
   (A) prepares through a committee comprised of the heads of State fish and game departments (or their designees), in consultation with—
 
@@ -619,15 +688,15 @@ Subsec. (c)(1). Pub. L. 116–17, § 4(c)(3), designated existing provisions as 
 
 (2) **Nongovernmental organizations**
 
-  (A) *In general* — Any nongovernmental organization that applies for a grant under this section shall submit with the application to the International Association of Fish and Wildlife Agencies a certification that the organization—
+  (A) *In general* — Any nongovernmental organization that applies for a grant under this section shall submit with the application to the Association of Fish and Wildlife Agencies a certification that the organization—
 
-    (i) will not use the grant funds to fund, in whole or in part, any activity of the organization that promotes or encourages opposition to the regulated hunting or trapping of wildlife; and
+    (i) will not use the grant funds to fund, in whole or in part, any activity of the organization that promotes or encourages opposition to the regulated hunting or trapping of wildlife or to recreational shooting activities; and
 
     (ii) will use the grant funds in compliance with subsection (d).
 
   (B) *Penalties for certain activities* — Any nongovernmental organization that is found to use grant funds in violation of subparagraph (A) shall return all funds received under this section and be subject to any other applicable penalties under law.
 
-**(d) Use of grants** A grant under this section shall not be used, in whole or in part, for an activity, project, or program that promotes or encourages opposition to the regulated hunting or trapping of wildlife.
+**(d) Use of grants** A grant under this section shall not be used, in whole or in part, for an activity, project, or program that promotes or encourages opposition to the regulated hunting or trapping of wildlife or to recreational shooting activities.
 
 **(e) Nonapplicability of Federal Advisory Committee Act** The Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to any activity carried out under this section.
 
@@ -638,6 +707,20 @@ The Federal Advisory Committee Act, referred to in subsec. (e), is Pub. L. 92–
 
 #### Prior Provisions
 A prior section 11 of act Sept. 2, 1937, was classified to [section 669j of this title](./chapter-5b-wildlife-restoration.md#section-669j) prior to repeal by act Aug. 7, 1946.
+
+#### Amendments
+2019—Subsec. (a)(1). Pub. L. 116–94, § 501(g)(1)(A), designated existing provisions as subpar. (A), inserted heading, and added subpar. (B).
+
+Subsec. (b)(3). Pub. L. 116–94, § 501(g)(1)(B), struck out “International” before “Association” in introductory provisions.
+
+Subsec. (c)(2)(A). Pub. L. 116–94, § 501(g)(1)(C), struck out “International” before “Association” in introductory provisions.
+
+Subsec. (c)(2)(A)(i). Pub. L. 116–94, § 501(g)(1)(D), inserted “or to recreational shooting activities” after “wildlife”.
+
+Subsec. (d). Pub. L. 116–94, § 501(g)(1)(E), inserted “or to recreational shooting activities” after “wildlife”.
+
+#### Study
+Pub. L. 116–94, div. P, title V, § 501(g)(2), Dec. 20, 2019, 133 Stat. 3193, provided that: “Not later than 10 years after the date of enactment of this Act [Dec. 20, 2019], the Secretary of the Interior, acting through the Director of the United States Fish and Wildlife Service, shall— “(A) review and evaluate the effects of the funds made available under subparagraph (B) of section 11(a)(1) of the Pittman-Robertson Wildlife Restoration Act ([16 U.S.C. 669h–2(a)(1)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section669h–2/a/1&num=0&edition=prelim)) (as added by paragraph (1)(A)(ii)) on funds available for wildlife conservation; and “(B) submit a report describing the results of the review and evaluation under paragraph (1) to—“(i) the Committee on Environment and Public Works of the Senate; and “(ii) the Committee on Natural Resources of the House of Representatives.”
 
 
 <a id="section-669i"></a>
@@ -711,3 +794,17 @@ Section was enacted as part of the Fish and Wildlife Programs Improvement and Na
 
 #### Change of Name
 Committee on Resources of House of Representatives changed to Committee on Natural Resources of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
+
+
+<a id="section-669l"></a>
+## § 669l. Value of land
+
+Notwithstanding any other provision of law, any institution eligible to receive Federal funds under the Agricultural Research, Extension, and Education Reform Act of 1998 ([7 U.S.C. 7601](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section7601&num=0&edition=prelim) et seq.) shall be allowed to use the value of any land owned by the institution as an in-kind match to satisfy any cost sharing requirement under this chapter.
+
+### Statutory Notes
+
+#### References in Text
+The Agricultural Research, Extension, and Education Reform Act of 1998, referred to in text, is Pub. L. 105–185, June 23, 1998, 112 Stat. 523. For complete classification of this Act to the Code, see Tables.
+
+#### Prior Provisions
+A prior section 13 of act Sept. 2, 1937, was renumbered section 14 and is set out as a Short Title note under [section 669 of this title](./chapter-5b-wildlife-restoration.md#section-669).

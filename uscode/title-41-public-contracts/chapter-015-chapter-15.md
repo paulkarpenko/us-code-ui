@@ -131,7 +131,7 @@ Subsec. (i)(3). Pub. L. 114–328, § 820(a)(3)(B), substituted “subsection (h
 Committee on Oversight and Government Reform of House of Representatives changed to Committee on Oversight and Reform of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
 
 #### Effective Date of 2016 Amendment
-Amendment by Pub. L. 114–328 effective on Oct. 1, 2018, see section 820(d) of Pub. L. 114–328, set out as an Effective Date note under [section 190 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section190&num=0&edition=prelim), Armed Forces.
+Pub. L. 114–328, div. A, title VIII, § 820(d), Dec. 23, 2016, 130 Stat. 2276, provided that: “The amendments made by this section [enacting [section 190 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section190&num=0&edition=prelim), Armed Forces, and amending this section and [section 1502 of this title](./chapter-015-chapter-15.md#section-1502)] shall take effect on October 1, 2018.”
 
 
 <a id="section-1502"></a>
@@ -146,13 +146,13 @@ Amendment by Pub. L. 114–328 effective on Oct. 1, 2018, see section 820(d) of 
 
 (1) **Subcontract.—**
 
-  (A) *Definition.—* — In this paragraph, the term “subcontract” includes a transfer of commercial items between divisions, subsidiaries, or affiliates of a contractor or subcontractor.
+  (A) *Definition.—* — In this paragraph, the term “subcontract” includes a transfer of commercial products or commercial services between divisions, subsidiaries, or affiliates of a contractor or subcontractor.
 
   (B) *When standards are to be used.—* — Cost accounting standards prescribed under this chapter are mandatory for use by all executive agencies and by contractors and subcontractors in estimating, accumulating, and reporting costs in connection with the pricing and administration of, and settlement of disputes concerning, all negotiated prime contract and subcontract procurements with the Federal Government in excess of the amount set forth in [section 2306a(a)(1)(A)(i) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2306a/a/1/A/i&num=0&edition=prelim) as the amount is adjusted in accordance with applicable requirements of law.
 
   (C) *Nonapplication of standards.—* — Subparagraph (B) does not apply to—
 
-    (i) a contract or subcontract for the acquisition of a commercial item;
+    (i) a contract or subcontract for the acquisition of a commercial product or commercial service;
 
     (ii) a contract or subcontract where the price negotiated is based on a price set by law or regulation;
 
@@ -170,7 +170,7 @@ Amendment by Pub. L. 114–328 effective on Oct. 1, 2018, see section 820(d) of 
 
   (A) *In general.—* — The head of an executive agency may waive the applicability of the cost accounting standards for a contract or subcontract with a value of less than $100,000,000 if that official determines in writing that the segment of the contractor or subcontractor that will perform the work—
 
-    (i) is primarily engaged in the sale of commercial items; and
+    (i) is primarily engaged in the sale of commercial products or commercial services; and
 
     (ii) would not otherwise be subject to the cost accounting standards under this section.
 
@@ -222,17 +222,6 @@ Amendment by Pub. L. 114–328 effective on Oct. 1, 2018, see section 820(d) of 
 
 ### Statutory Notes
 
-#### Amendment of Subsection (b)
-Pub. L. 115–232, div. A, title VIII, § 836(b)(1), (h), Aug. 13, 2018, 132 Stat. 1860, 1874, provided that, effective Jan. 1, 2020, subject to a savings provision, subsection (b) of this section is amended as follows:
-
-(1) in paragraph (1)(A), by striking “commercial items” and inserting “commercial products or commercial services”;
-
-(2) in paragraph (1)(C)(i), by striking “commercial item” and inserting “commercial product or commercial service”; and
-
-(3) in paragraph (3)(A)(i), by striking “commercial items” and inserting “commercial products or commercial services”.
-
-See 2018 Amendment notes below.
-
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
@@ -265,7 +254,7 @@ Subsec. (b)(3)(A)(i). Pub. L. 115–232, § 836(b)(1)(C), substituted “commerc
 Amendment by Pub. L. 115–232 effective Jan. 1, 2020, subject to a savings provision, see section 836(h) of Pub. L. 115–232, set out as an Effective Date of 2018 Amendment; Savings Provision note under [section 453b of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section453b&num=0&edition=prelim), Domestic Security.
 
 #### Effective Date of 2016 Amendment
-Amendment by Pub. L. 114–328 effective on Oct. 1, 2018, see section 820(d) of Pub. L. 114–328, set out as an Effective Date note under [section 190 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section190&num=0&edition=prelim), Armed Forces.
+Amendment by Pub. L. 114–328 effective Oct. 1, 2018, see section 820(d) of Pub. L. 114–328, set out as a note under [section 1501 of this title](./chapter-015-chapter-15.md#section-1501).
 
 #### Effective Date of Amendment by Pub. L. 106–65; Regulations; Implementation; Construction
 Pub. L. 106–65, div. A, title VIII, § 802(c)–(e), (g)–(i), Oct. 5, 1999, 113 Stat. 701, 702, provided that: “(c) Regulation on Types of CAS Coverage.—(1) The Administrator for Federal Procurement Policy shall revise the rules and procedures prescribed pursuant to section 26(f) of the Office of Federal Procurement Policy Act ([former] [41 U.S.C. 422(f)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section422/f&num=0&edition=prelim)) [now [41 U.S.C. 1502(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section1502/a&num=0&edition=prelim), (b)] to the extent necessary to increase the thresholds established in section 9903.201–2 of title 48 of the Code of Federal Regulations from $25,000,000 to $50,000,000. “(2) Paragraph (1) requires only a change of the statement of a threshold condition in the regulation referred to by section number in that paragraph, and shall not be construed as—“(A) a ratification or expression of approval of—“(i) any aspect of the regulation; or “(ii) the manner in which section 26 of the Office of Federal Procurement Policy Act [now [41 U.S.C. 1501](./chapter-015-chapter-15.md#section-1501) et seq.] is administered through the regulation; or “(B) a requirement to apply the regulation. “(d) Implementation.—The Administrator for Federal Procurement Policy shall ensure that this section [see Tables for classification] and the amendments made by this section are implemented in a manner that ensures that the Federal Government can recover costs, as appropriate, in a case in which noncompliance with cost accounting standards, or a change in the cost accounting system of a contractor segment or subcontractor segment that is not determined to be desirable by the Federal Government, results in a shift of costs from contracts that are not covered by the cost accounting standards to contracts that are covered by the cost accounting standards. “(e) Implementation of Requirements for Revision of Regulations.—(1) Final regulations required by subsection (c) shall be issued not later than 180 days after the date of the enactment of this Act [Oct. 5, 1999]. “(2) Subsection (c) shall cease to be effective one year after the date on which final regulations issued in accordance with that subsection take effect. “(g) Inapplicability of Standards to Certain Contracts.—The cost accounting standards issued pursuant to section 26(f) of the Office of Federal Procurement Policy Act ([former] [41 U.S.C. 422(f)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section422/f&num=0&edition=prelim)) [now [41 U.S.C. 1502(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section1502/a&num=0&edition=prelim), (b)], as amended by this section, shall not apply during fiscal year 2000 with respect to a contract entered into under the authority provided in chapter 89 of title 5, United States Code (relating to health benefits for Federal employees). “(h) Construction Regarding Certain Not-For-Profit Entities.—The amendments made by subsections (a) and (b) [see Tables for classification] shall not be construed as modifying or superseding, nor as intended to impair or restrict, the applicability of the cost accounting standards described in section 26(f) of the Office of Federal Procurement Policy Act ([former] [41 U.S.C. 422(f)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section422/f&num=0&edition=prelim)) [now [41 U.S.C. 1502(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section1502/a&num=0&edition=prelim), (b)] to—“(1) any educational institution or federally funded research and development center that is associated with an educational institution in accordance with Office of Management and Budget Circular A–21, as in effect on January 1, 1999; or “(2) any contract with a nonprofit entity that provides research and development and related products or services to the Department of Defense. “(i) Effective Date.—The amendments made by subsections (a) and (b) [see Tables for classification] shall take effect 180 days after the date of enactment of this Act [Oct. 5, 1999], and shall apply with respect to—“(1) contracts that are entered into on or after such effective date; and “(2) determinations made on or after such effective date regarding whether a segment of a contractor or subcontractor is subject to the cost accounting standards under section 26(f) of the Office of Federal Procurement Policy Act ([former] [41 U.S.C. 422(f)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section422/f&num=0&edition=prelim)) [now [41 U.S.C. 1502(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section1502/a&num=0&edition=prelim), (b)], regardless of whether the contracts on which such determinations are made were entered into before, on, or after such date.”

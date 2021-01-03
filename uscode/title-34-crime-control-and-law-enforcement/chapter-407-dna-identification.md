@@ -12,7 +12,7 @@ source: >-
 
 (1) To carry out, for inclusion in the Combined DNA Index System of the Federal Bureau of Investigation, DNA analyses of samples collected under applicable legal authority.
 
-(2) To carry out, for inclusion in such Combined DNA Index System, DNA analyses of samples from crime scenes, including samples from rape kits, samples from other sexual assault evidence, and samples taken in cases without an identified suspect.
+(2) To carry out, for inclusion in such Combined DNA Index System, DNA analyses of samples from crime scenes, prioritizing, to the extent practicable consistent with public safety considerations 11 So in original. Probably should be followed by a comma. samples from rape kits, samples from other sexual assault evidence, and samples taken in cases without an identified suspect.
 
 (3) To increase the capacity of laboratories owned by the State or by units of local government to carry out DNA analyses of samples specified in paragraph (1) or (2).
 
@@ -24,7 +24,7 @@ source: >-
 
 (7) To conduct an audit consistent with subsection (n) of the samples of sexual assault evidence that are in the possession of the State or unit of local government and are awaiting testing.
 
-(8) To ensure that the collection and processing of DNA evidence by law enforcement agencies from crimes, including sexual assault and other violent crimes against persons, is carried out in an appropriate and timely manner and in accordance with the protocols and practices developed under subsection (o)(1).
+(8) To ensure that the collection and processing of DNA evidence by law enforcement agencies from crimes, in particular, sexual assault and other violent crimes against persons, is carried out in an appropriate and timely manner and in accordance with the protocols and practices developed under subsection (o)(1).
 
 (9) To increase the capacity of State and local prosecution offices to address the backlog of violent crime cases in which suspects have been identified through DNA evidence.
 
@@ -40,9 +40,11 @@ source: >-
 
 (5) specify that portion of grant amounts that the State or unit of local government shall use for the purpose specified in subsection (a)(3);
 
-(6) if submitted by a unit of local government, certify that the unit of local government has taken, or is taking, all necessary steps to ensure that it is eligible to include, directly or through a State law enforcement agency, all analyses of samples for which it has requested funding in the Combined DNA Index System; and
+(6) if submitted by a unit of local government, certify that the unit of local government has taken, or is taking, all necessary steps to ensure that it is eligible to include, directly or through a State law enforcement agency, all analyses of samples for which it has requested funding in the Combined DNA Index System;
 
-(7) specify that portion of grant amounts that the State or unit of local government shall use for the purpose specified in subsection (a)(4).
+(7) specify that portion of grant amounts that the State or unit of local government shall use for the purpose specified in subsection (a)(4); and
+
+(8) provide assurances that the DNA section of the laboratory to be used to conduct DNA analyses has a written policy that prioritizes the analysis of, to the extent practicable consistent with public safety considerations, samples from homicides and sexual assaults.
 
 **(c) Formula for distribution of grants**
 
@@ -64,9 +66,9 @@ source: >-
 
   (A) For fiscal year 2009, not less than 40 percent of the grant amounts shall be awarded for purposes under subsection (a)(2).
 
-  (B) For each of the fiscal years 2014 through 2019, not less than 40 percent of the grant amounts shall be awarded for purposes under subsection (a)(2).
+  (B) For each of the fiscal years 2019 through 2024, not less than 40 percent of the grant amounts shall be awarded for purposes under subsection (a)(2).
 
-  (C) For each of fiscal years 2014 through 2019, not less than 75 percent of the total grant amounts shall be awarded for a combination of purposes under paragraphs (1), (2), and (3) of subsection (a).
+  (C) For each of fiscal years 2019 through 2024, not less than 75 percent of the total grant amounts shall be awarded for a combination of purposes under paragraphs (1), (2), and (3) of subsection (a).
 
 (4) **Allocation of grant awards for audits** — For each of fiscal years 2014 through 2022, not less than 5 percent, but not more than 7 percent, of the grant amounts distributed under paragraph (1) shall, if sufficient applications to justify such amounts are received by the Attorney General, be awarded for purposes described in subsection (a)(7), provided that none of the funds required to be distributed under this paragraph shall decrease or otherwise limit the availability of funds required to be awarded to States or units of local government under paragraph (3).
 
@@ -122,7 +124,7 @@ source: >-
 
 **(i) Definition** For purposes of this section, the term “State” means a State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the United States Virgin Islands, American Samoa, Guam, and the Northern Mariana Islands.
 
-**(j) Authorization of appropriations** There are authorized to be appropriated to the Attorney General for grants under subsection (a) $151,000,000 for each of fiscal years 2015 through 2019.
+**(j) Authorization of appropriations** There are authorized to be appropriated to the Attorney General for grants under subsection (a) $151,000,000 for each of fiscal years 2019 through 2024.
 
 **(k) Use of funds for accreditation and audits** The Attorney General may distribute not more than 1 percent of the grant amounts under subsection (j)—
 
@@ -292,6 +294,18 @@ This Act, referred to in subsecs. (e)(1), (k)(2)(B), and (m), is Pub. L. 106–5
 Section was formerly classified to [section 14135 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section14135&num=0&edition=prelim), The Public Health and Welfare, prior to editorial reclassification and renumbering as this section. Some section numbers or references in amendment notes below reflect the classification of such sections or references prior to editorial reclassification.
 
 #### Amendments
+2019—Subsec. (a)(2). Pub. L. 116–104, § 2(1)(A), substituted “prioritizing, to the extent practicable consistent with public safety considerations” for “including”.
+
+Subsec. (a)(8). Pub. L. 116–104, § 2(1)(B), substituted “in particular,” for “including”.
+
+Subsec. (b)(8). Pub. L. 116–104, § 2(2), added par. (8).
+
+Subsec. (c)(3)(B). Pub. L. 116–104, § 2(3)(A), substituted “2019 through 2024” for “2014 through 2019”.
+
+Subsec. (c)(3)(C). Pub. L. 116–104, § 2(3)(B), substituted “2019 through 2024” for “2014 through 2019”.
+
+Subsec. (j). Pub. L. 116–104, § 2(4), substituted “2019 through 2024” for “2015 through 2019”.
+
 2018—Subsec. (a)(9). Pub. L. 115–257, § 2(a)(1), added par. (9).
 
 Subsec. (c)(4). Pub. L. 115–107 substituted “2022” for “2017”.
@@ -622,7 +636,7 @@ Section was formerly classified as a note under [section 531 of Title 28](https:
 
 (4) corrections personnel, including prison and jail personnel, and probation, parole, and other officers involved in supervision.
 
-**(b) Authorization of appropriations** There are authorized to be appropriated $12,500,000 for each of fiscal years 2015 through 2019 to carry out this section.
+**(b) Authorization of appropriations** There are authorized to be appropriated $12,500,000 for each of fiscal years 2019 through 2024 to carry out this section.
 
 ### Statutory Notes
 
@@ -630,6 +644,8 @@ Section was formerly classified as a note under [section 531 of Title 28](https:
 Section was formerly classified to [section 14136 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section14136&num=0&edition=prelim), The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
 
 #### Amendments
+2019—Subsec. (b). Pub. L. 116–104 substituted “2019 through 2024” for “2015 through 2019”.
+
 2014—Subsec. (b). Pub. L. 113–182 substituted “2015 through 2019” for “2009 through 2014”.
 
 2008—Subsec. (b). Pub. L. 110–360 substituted “2009 through 2014” for “2005 through 2009”.
@@ -674,7 +690,7 @@ Pub. L. 108–405, title IV, § 413, Oct. 30, 2004, 118 Stat. 2285, as amended b
 
 (2) **Directive to the Attorney General** — Not later than the beginning of fiscal year 2018, the Attorney General shall coordinate with the Secretary of Health and Human Services to inform Federally Qualified Health Centers, Community Health Centers, hospitals, colleges and universities, and other appropriate health-related entities about the role of forensic nurses, both adult and pediatric, and existing resources available within the Department of Justice and the Department of Health and Human Services to train or employ forensic nurses to address the needs of communities dealing with sexual assault, domestic violence, elder abuse, and, in particular, the need for pediatric sexual assault nurse examiners, including such nurse examiners working in the multidisciplinary setting, in responding to abuse of both children and adolescents. The Attorney General shall collaborate on this effort with nongovernmental organizations representing forensic nurses.
 
-**(d) Authorization of appropriations** There are authorized to be appropriated $30,000,000 for each of fiscal years 2015 through 2019 to carry out this section.
+**(d) Authorization of appropriations** There are authorized to be appropriated $30,000,000 for each of fiscal years 2019 through 2024 to carry out this section.
 
 ### Statutory Notes
 
@@ -685,6 +701,8 @@ Pub. L. 108–405, title IV, § 413, Oct. 30, 2004, 118 Stat. 2285, as amended b
 Section was formerly classified to [section 14136a of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section14136a&num=0&edition=prelim), The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
 
 #### Amendments
+2019—Subsec. (d). Pub. L. 116–104 substituted “2019 through 2024” for “2015 through 2019”.
+
 2018—Subsec. (c)(2). Pub. L. 115–107 inserted “, both adult and pediatric,” after “role of forensic nurses” and substituted “elder abuse, and, in particular, the need for pediatric sexual assault nurse examiners, including such nurse examiners working in the multidisciplinary setting, in responding to abuse of both children and adolescents” for “and elder abuse”.
 
 2016—Subsecs. (c), (d). Pub. L. 114–324 added subsec. (c) and redesignated former subsec. (c) as (d).

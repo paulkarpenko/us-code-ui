@@ -26,14 +26,14 @@ This section [section 62] incorporates in [section 4121 of title 18](./chapter-3
 #### Amendments
 1949—Act May 24, 1949, made a representative of the Secretary of Defense a member of the board of directors.
 
-#### Transfer of Functions
-Federal Prison Industries, Inc. (together with its Board of Directors), and its functions transferred to Department of Justice to be administered under general direction and supervision of Attorney General, by Reorg. Plan No. II of 1939, § 3(a), eff. July 1, 1939, 4 F.R. 2731, 53 Stat. 1431, set out in the Appendix to Title 5, Government Organization and Employees. See, also, Reorg. Plan No. 2 of 1950, § 1, eff. May 1, 1950, 15 F.R. 3173, 64 Stat. 1261, and [section 509 of Title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section509&num=0&edition=prelim), Judiciary and Judicial Procedure.
-
 #### Mandatory Work Requirement for All Prisoners
 Pub. L. 101–647, title XXIX, § 2905, Nov. 29, 1990, 104 Stat. 4914, provided that: “(a) In General.—(1) It is the policy of the Federal Government that convicted inmates confined in Federal prisons, jails, and other detention facilities shall work. The type of work in which they will be involved shall be dictated by appropriate security considerations and by the health of the prisoner involved. “(2) A Federal prisoner may be excused from the requirement to work only as necessitated by—“(A) security considerations; “(B) disciplinary action; “(C) medical certification of disability such as would make it impracticable for prison officials to arrange useful work for the prisoner to perform; or “(D) a need for the prisoner to work less than a full work schedule in order to participate in literacy training, drug rehabilitation, or similar programs in addition to the work program.”
 
 #### Closure of McNeil Island Penitentiary; Report on Status of Federal Prison Industries
 Pub. L. 95–624, § 10, Nov. 9, 1978, 92 Stat. 3463, required the Attorney General, on or before Sept. 1, 1979, to submit to Congress a plan to close the United States Penitentiary on McNeil Island, Steilacoom, Washington, on or before Jan. 1, 1982, and a report on the status of the Federal Prison Industries, including a long-range plan for the improvement of meaningful employment training.
+
+#### Transfer of Functions
+Federal Prison Industries, Inc. (together with its Board of Directors), and its functions transferred to Department of Justice to be administered under general direction and supervision of Attorney General, by Reorg. Plan No. II of 1939, § 3(a), eff. July 1, 1939, 4 F.R. 2731, 53 Stat. 1431, set out in the Appendix to Title 5, Government Organization and Employees. See, also, Reorg. Plan No. 2 of 1950, § 1, eff. May 1, 1950, 15 F.R. 3173, 64 Stat. 1261, and [section 509 of Title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section509&num=0&edition=prelim), Judiciary and Judicial Procedure.
 
 
 <a id="section-4122"></a>

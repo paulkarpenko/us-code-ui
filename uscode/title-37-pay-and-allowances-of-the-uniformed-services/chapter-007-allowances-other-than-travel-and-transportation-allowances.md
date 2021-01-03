@@ -299,11 +299,11 @@ Pub. L. 105–85, div. A, title VI, § 602(c)–(f), Nov. 18, 1997, 111 Stat. 17
 #### Increase in Basic Allowance for Subsistence
 Pub. L. 96–343, § 7, Sept. 8, 1980, 94 Stat. 1128, provided that: “Effective September 1, 1980, the rates of basic allowance for subsistence authorized by [section 402 of title 37](./chapter-007-allowances-other-than-travel-and-transportation-allowances.md#section-402), United States Code, as in effect on the day before the date of the enactment of this Act [Sept. 8, 1980] (as prescribed by the President under section 1009 of such title), are increased by 10 percent.”
 
-#### Regulations Relating to Subsistence Allowance
-Regulations relating to basic allowance for subsistence, see Ex. Ord. No. 11157, June 22, 1964, 29 F.R. 7973, formerly set out as a note under [section 301 of this title](./chapter-005-special-and-incentive-pays.md#section-301).
-
 #### Executive Order No. 10119
 Ex. Ord. No. 10119, Mar. 30, 1950, 15 F.R. 1767, as amended by 1953 Reorg. Plan No. 1, §§ 5, 8, Apr. 11, 1953, 18 F.R. 2053; Ex. Ord. No. 10605, Apr. 22, 1955, 20 F.R. 2747, which related to regulations governing basic allowance for subsistence, was revoked by Ex. Ord. No. 11157, June 22, 1964, 29 F.R. 7973, formerly set out as a note under [section 301 of this title](./chapter-005-special-and-incentive-pays.md#section-301).
+
+#### Regulations Relating to Subsistence Allowance
+Regulations relating to basic allowance for subsistence, see Ex. Ord. No. 11157, June 22, 1964, 29 F.R. 7973, formerly set out as a note under [section 301 of this title](./chapter-005-special-and-incentive-pays.md#section-301).
 
 
 <a id="section-402a"></a>
@@ -506,7 +506,15 @@ Pub. L. 106–398, § 1 [[div. A], title VI, § 604(b)], Oct. 30, 2000, 114 Stat
 
   (D) Subject to subparagraph (E), an increase in the rates of basic allowance for housing in an area under this paragraph shall remain in effect until the effective date of the first adjustment in rates of basic allowance for housing made for the area pursuant to a redetermination of housing costs in the area under this subsection that occurs after the date of the increase under this paragraph.
 
-  (E) An increase in the rates of basic allowance for housing for an area may not be prescribed under this paragraph or continue after December 31, 2019.
+  (E) An increase in the rates of basic allowance for housing for an area may not be prescribed under this paragraph or continue after December 31, 2021.
+
+(8)
+
+  (A) The Secretary of Defense may prescribe a temporary adjustment in the current rates of basic allowance for housing for a military housing area or a portion thereof (in this paragraph, “BAH rates”) if the Secretary determines that the actual costs of adequate housing for civilians in that military housing area or portion thereof differs from the current BAH rates by more than 20 percent.
+
+  (B) Any temporary adjustment in BAH rates under this paragraph shall remain in effect only until the effective date of the first adjustment of BAH rates for the affected military housing area that occurs after the date of the adjustment under this paragraph.
+
+  (C) This paragraph shall cease to be effective on September 30, 2022.
 
 **(c) Basic Allowance for Housing Outside the United States.—**
 
@@ -672,6 +680,12 @@ Pub. L. 106–398, § 1 [[div. A], title VI, § 604(b)], Oct. 30, 2000, 114 Stat
 
 **(o) Treatment of Low-Cost and No-Cost Moves as Not Being Reassignments.—** In the case of a member who is assigned to duty at a location or under circumstances that make it necessary for the member to be reassigned under the conditions of low-cost or no-cost permanent change of station or permanent change of assignment, the member may be treated for the purposes of this section as if the member were not reassigned if the Secretary concerned determines that it would be inequitable to base the member’s entitlement to, and amount of, a basic allowance for housing on the cost of housing in the area to which the member is reassigned.
 
+**(p) Information on Rights and Protections Under Servicemembers Civil Relief Act.—** The Secretary concerned shall provide to each member of a uniformed service who receives a basic allowance for housing under this section information on the rights and protections available to such member under the Servicemembers Civil Relief Act ([50 U.S.C. 3901](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3901&num=0&edition=prelim) et seq.)—
+
+(1) when such member first receives such basic allowance for housing; and
+
+(2) each time such member receives a permanent change of station.
+
 ### Statutory Notes
 
 | Historical and Revision Notes |  |  |
@@ -693,7 +707,18 @@ In subsection (f), the words “may be used” are substituted for the words “
 
 In subsection (g), the word “including” is substituted for the words “and such regulations shall include, but not be limited to”.
 
+#### References in Text
+The Servicemembers Civil Relief Act, referred to in subsec. (p), is act Oct. 17, 1940, ch. 888, 54 Stat. 1178, which is classified generally to chapter 50 (§ 3901 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see [section 3901 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3901&num=0&edition=prelim) and Tables.
+
 #### Amendments
+2021—Subsec. (b)(7)(E). Pub. L. 116–283, § 611(e), substituted “December 31, 2021” for “December 31, 2020”.
+
+Subsec. (p). Pub. L. 116–283, § 603, added subsec. (p).
+
+2019—Subsec. (b)(7)(E). Pub. L. 116–92, § 611(e), substituted “December 31, 2020” for “December 31, 2019”.
+
+Subsec. (b)(8). Pub. L. 116–92, § 605, added par. (8).
+
 2018—Subsec. (b)(7)(E). Pub. L. 115–232 substituted “December 31, 2019” for “December 31, 2018”.
 
 2017—Subsec. (b)(7)(E). Pub. L. 115–91 substituted “December 31, 2018” for “December 31, 2017”.
@@ -1027,7 +1052,7 @@ Pub. L. 99–145, title VI, § 605(b), Nov. 8, 1985, 99 Stat. 638, provided that
 Amendment by section 809(b) of Pub. L. 99–145 effective Oct. 1, 1985, see section 813 of Pub. L. 99–145, formerly set out in a Military Family Policy and Programs note under [section 113 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section113&num=0&edition=prelim), Armed Forces.
 
 #### Effective Date of 1984 Amendment
-Pub. L. 98–525, title VI, § 602(f), Oct. 19, 1984, 98 Stat. 2536, as amended by Pub. L. 99–145, title VI, § 603(b), Nov. 8, 1985, 99 Stat. 637; Pub. L. 99–661, div. A, title XIII, § 1342(b), Nov. 14, 1986, 100 Stat. 3991; Pub. L. 112–81, div. A, title VI, § 631(f)(4)(B), Dec. 31, 2011, 125 Stat. 1465; Pub. L. 112–239, div. A, title X, § 1076(a)(9), Jan. 2, 2013, 126 Stat. 1948, provided that: “(1) Except as provided in paragraph (2), the amendments made by this section [enacting [section 403a of this title](./chapter-007-allowances-other-than-travel-and-transportation-allowances.md#section-403a), amending this section, [section 405 of this title](./chapter-007-allowances-other-than-travel-and-transportation-allowances.md#section-405), [section 7572 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section7572&num=0&edition=prelim), Armed Forces, and provisions set out as a note under this section, and enacting provisions set out as a note under this section] shall take effect on January 1, 1985. “(2)(A) A member shall be entitled to receive a station housing allowance under [section 475 of title 37](./chapter-008-travel-and-transportation-allowances.md#section-475), United States Code, as if the amendments made by subsection (e) [amending [section 405 of this title](./chapter-007-allowances-other-than-travel-and-transportation-allowances.md#section-405)] had not been enacted, if the member, on the date of the enactment of the Department of Defense Authorization Act, 1986 [Nov. 8, 1985]—“(i) is assigned to a permanent duty station in Alaska or Hawaii; and “(ii) is entitled to payment of a temporary lodging allowance or a station housing allowance under section 475 of such title. “(B) A member who is entitled to a station housing allowance by reason of subparagraph (A) shall only be entitled to such allowance until the earlier of—“(i) the date on which the member changes residence in conjunction with a permanent change of duty station; or “(ii) the expiration of the four-year period beginning on the date of the enactment of the Department of Defense Authorization Act, 1986 [Nov. 8, 1985]. “(C) A member who is entitled to a station housing allowance by reason of subparagraph (A) shall not be entitled to a variable housing allowance, except that such a member serving an unaccompanied tour of duty in Alaska or Hawaii may be paid a variable housing allowance based on the residence of the member’s dependents in another State. “(3) For the period beginning on January 1, 1985, and ending on September 30, 1985, the limitation applicable under subsection (d)(1) of [section 403a of title 37](./chapter-007-allowances-other-than-travel-and-transportation-allowances.md#section-403a), United States Code (as added by subsection (d)), on the total amount that may be paid during a fiscal year for the variable housing allowance authorized members of the uniformed services by that section shall be 15 percent of the median annual costs of housing in the United States for members of the uniformed services as measured during fiscal year 1984. In determining for the purposes of clause (A) of such subsection the total amount authorized to be paid for such allowance for fiscal year 1985, such amount shall be determined as if the amendments made by this section took effect on October 1, 1984.”
+Pub. L. 98–525, title VI, § 602(f), Oct. 19, 1984, 98 Stat. 2536, as amended by Pub. L. 99–145, title VI, § 603(b), Nov. 8, 1985, 99 Stat. 637; Pub. L. 99–661, div. A, title XIII, § 1342(b), Nov. 14, 1986, 100 Stat. 3991; Pub. L. 112–81, div. A, title VI, § 631(f)(4)(B), Dec. 31, 2011, 125 Stat. 1465; Pub. L. 112–239, div. A, title X, § 1076(a)(9), Jan. 2, 2013, 126 Stat. 1948, provided that: “(1) Except as provided in paragraph (2), the amendments made by this section [enacting [section 403a of this title](./chapter-007-allowances-other-than-travel-and-transportation-allowances.md#section-403a), amending this section, [section 405 of this title](./chapter-007-allowances-other-than-travel-and-transportation-allowances.md#section-405), [section 7572 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section7572&num=0&edition=prelim), Armed Forces, and provisions set out as a note under this section, and enacting provisions set out as a note under this section] shall take effect on January 1, 1985. “(2)(A) A member shall be entitled to receive a station housing allowance under section 475 [now 405] of title 37, United States Code, as if the amendments made by subsection (e) [amending [section 405 of this title](./chapter-007-allowances-other-than-travel-and-transportation-allowances.md#section-405)] had not been enacted, if the member, on the date of the enactment of the Department of Defense Authorization Act, 1986 [Nov. 8, 1985]—“(i) is assigned to a permanent duty station in Alaska or Hawaii; and “(ii) is entitled to payment of a temporary lodging allowance or a station housing allowance under section 475 [now 405] of such title. “(B) A member who is entitled to a station housing allowance by reason of subparagraph (A) shall only be entitled to such allowance until the earlier of—“(i) the date on which the member changes residence in conjunction with a permanent change of duty station; or “(ii) the expiration of the four-year period beginning on the date of the enactment of the Department of Defense Authorization Act, 1986 [Nov. 8, 1985]. “(C) A member who is entitled to a station housing allowance by reason of subparagraph (A) shall not be entitled to a variable housing allowance, except that such a member serving an unaccompanied tour of duty in Alaska or Hawaii may be paid a variable housing allowance based on the residence of the member’s dependents in another State. “(3) For the period beginning on January 1, 1985, and ending on September 30, 1985, the limitation applicable under subsection (d)(1) of [section 403a of title 37](./chapter-007-allowances-other-than-travel-and-transportation-allowances.md#section-403a), United States Code (as added by subsection (d)), on the total amount that may be paid during a fiscal year for the variable housing allowance authorized members of the uniformed services by that section shall be 15 percent of the median annual costs of housing in the United States for members of the uniformed services as measured during fiscal year 1984. In determining for the purposes of clause (A) of such subsection the total amount authorized to be paid for such allowance for fiscal year 1985, such amount shall be determined as if the amendments made by this section took effect on October 1, 1984.”
 
 [Amendment of this note by Pub. L. 99–661 effective Nov. 14, 1986, see section 1342(h)(1) of Pub. L. 99–661, set out as an Effective Date of 1986 Amendment note under [section 301 of this title](./chapter-005-special-and-incentive-pays.md#section-301).]
 
@@ -1063,8 +1088,6 @@ Amendment by Pub. L. 88–132 effective Oct. 1, 1963, see section 14 of Pub. L. 
 
 #### Transfer of Functions
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).
-
-Functions of Public Health Service, Surgeon General of Public Health Service, and all other officers and employees of Public Health Service, and functions of all agencies of or in Public Health Service, transferred to Secretary of Health, Education, and Welfare by Reorg. Plan No. 3 of 1966, eff. June 25, 1966, 31 F.R. 8855, 80 Stat. 1610, set out in the Appendix to Title 5, Government Organization and Employees. Secretary of Health, Education, and Welfare redesignated Secretary of Health and Human Services by [section 3508(b) of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section3508/b&num=0&edition=prelim), Education.
 
 #### Special Rule
 Pub. L. 113–291, div. A, title VI, § 604(b), Dec. 19, 2014, 128 Stat. 3399, which provided that reduction in housing allowance authorized by [section 403(b)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section403/b/3&num=0&edition=prelim), as amended by Pub. L. 113–291, was not applicable with respect to certain benefits paid by the Secretary of Veterans Affairs and such benefits would be subject to section 403(b)(3) as it read the day before Dec. 19, 2014, was repealed by Pub. L. 115–48, title V, § 501(a), Aug. 16, 2017, 131 Stat. 996.
@@ -1114,6 +1137,9 @@ Act Oct. 12, 1949, ch. 681, title III, 302(g), 63 Stat. 812, which provided that
 
 #### Authority of Secretaries With Respect to Payment of Quarters Allowances
 Pub. L. 87–531, § 5, July 10, 1962, 76 Stat. 153, provided that: “The Secretaries of the departments concerned shall have the same authority with respect to payments of quarters allowances to enlisted members of the uniformed services to pay grades E–4 (over 4 years’ service) through E–9 that they have with respect to enlisted members of the uniformed services in pay grades E–1, E–2, E–3, and E–4 (4 years’ or less service) under sections 10 and 11 of the Dependents Assistance Act of 1950 ([former] 50 App. U.S.C. 2210, 2211).”
+
+#### Transfer of Functions
+Functions of Public Health Service, Surgeon General of Public Health Service, and all other officers and employees of Public Health Service, and functions of all agencies of or in Public Health Service, transferred to Secretary of Health, Education, and Welfare by Reorg. Plan No. 3 of 1966, eff. June 25, 1966, 31 F.R. 8855, 80 Stat. 1610, set out in the Appendix to Title 5, Government Organization and Employees. Secretary of Health, Education, and Welfare redesignated Secretary of Health and Human Services by [section 3508(b) of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section3508/b&num=0&edition=prelim), Education.
 
 #### Executive Order No. 10204
 Ex. Ord. No. 10204, Jan. 16, 1951, 16 F.R. 417, as amended by Ex. Ord. No. 11120, Oct. 2, 1963, 28 F.R. 10631; Ex. Ord. No. 11146, Mar. 13, 1964, 29 F.R. 3417, which related to regulations governing basic allowances for quarters, was revoked by Ex. Ord. No. 11157, June 22, 1964, 29 F.R. 7973, formerly set out as a note under [section 301 of this title](./chapter-005-special-and-incentive-pays.md#section-301).
@@ -1294,7 +1320,102 @@ Pub. L. 103–337, div. A, title VI, § 602(b), Oct. 5, 1994, 108 Stat. 2781, pr
 
 
 <a id="section-405"></a>
-## § 405. Renumbered § 475]
+## § 405. Travel and transportation allowances: per diem while on duty outside the continental United States
+**(a) Per Diem Authorized.—** Without regard to the monetary limitation of this title, the Secretary concerned may pay a per diem to a member of the uniformed services who is on duty outside of the continental United States, whether or not the member is in a travel status. The Secretary may pay the per diem in advance of the accrual of the per diem.
+
+**(b) Determination of Per Diem.—** In determining the per diem to be paid under this section, the Secretary concerned shall consider all elements of the cost of living to members of the uniformed services under the Secretary’s jurisdiction and their dependents, including the cost of quarters, subsistence, and other necessary incidental expenses. However, dependents may not be considered in determining the per diem allowance for a member in a travel status.
+
+**(c) Treatment of Housing Cost and Allowance.—** Housing cost and allowance may be disregarded in prescribing a station cost of living allowance under this section.
+
+**(d) Unusual or Extraordinary Expenses.—**
+
+(1) The Secretary concerned may reimburse a member of the uniformed services on duty as described in subsection (a) or (e) for an unusual or extraordinary expense incurred by the member incident to such duty that—
+
+  (A) is directly related to the conditions or location of the duty or the location of the member’s dependents;
+
+  (B) is of a nature or a magnitude not normally incurred by members of the uniformed services on duty inside the continental United States; and
+
+  (C) is not included in the per diem determined under subsection (b) as payable to the member under subsection (a) or (e).
+
+(2) Any reimbursement provided to a member under paragraph (1) is in addition to a per diem payable to that member under subsection (a) or (e).
+
+**(e) Payment of Allowance Based on Overseas Location of Dependents.—** In the case of a member assigned to duty inside the continental United States whose dependents continue to reside outside the continental United States, the Secretary concerned may pay the member a per diem under this section based on the location of the dependents and provide reimbursement under subsection (d) for an unusual or extraordinary expense incurred by the dependents if the Secretary determines that such payment or reimbursement is in the best interest of the member or the member’s dependents and in the best interest of the United States.
+
+### Statutory Notes
+
+| Historical and Revision Notes |  |  |
+| --- | --- | --- |
+| Revised section | Source (U.S. Code) | Source (Statutes at Large) |
+| 405 | 37:253(b). | Oct. 12, 1949, ch. 681, § 303(b), 63 Stat. 814. |
+
+The words “Secretaries concerned” are substituted for the words “Secretaries of the uniformed services” to conform to other subsections of the source statute. The words “outside the United States, or in Hawaii or Alaska” are substituted for the words “outside the continental United States or in Alaska” to conform to the definition of United States in section 101(1) of this revised title and to retain the coverage of the source statute.
+
+#### Prior Provisions
+A prior section 405 was renumbered [section 475 of this title](./chapter-008-travel-and-transportation-allowances.md#section-475) prior to being renumbered again as this section.
+
+#### Amendments
+2021—Pub. L. 116–283, § 604(a)(1), renumbered [section 475 of this title](./chapter-008-travel-and-transportation-allowances.md#section-475) as this section.
+
+Subsec. (f). Pub. L. 116–283, § 604(a)(2), struck out subsec. (f). Text read as follows: “During and after the travel authorities expiration date, no per diem may be paid under this section for any period.”
+
+2011—Pub. L. 112–81, § 631(d)(2), renumbered [section 405 of this title](./chapter-007-allowances-other-than-travel-and-transportation-allowances.md#section-405) as section 475.
+
+Subsec. (f). Pub. L. 112–81, § 631(e)(4), added subsec. (f).
+
+2006—Subsec. (d). Pub. L. 109–163, § 612(b)(1), substituted “Unusual or Extraordinary” for “Nonrecurring” in heading.
+
+Subsec. (d)(1). Pub. L. 109–163, § 612(b)(1), (3)(A), in introductory provisions, inserted “or (e)” after “subsection (a)” and substituted “an unusual or extraordinary” for “a nonrecurring”.
+
+Subsec. (d)(1)(A). Pub. L. 109–163, § 612(b)(3)(B), inserted “or the location of the member’s dependents” before semicolon.
+
+Subsec. (d)(1)(C), (2). Pub. L. 109–163, § 612(b)(2), inserted “or (e)” after “subsection (a)”.
+
+Subsec. (e). Pub. L. 109–163, § 612(a), added subsec. (e).
+
+2004—Pub. L. 108–375, § 605(b)(2), amended section catchline generally, substituting “continental United States” for “United States or in Hawaii or Alaska”.
+
+Subsec. (a). Pub. L. 108–375, § 605(b)(1), substituted “outside of the continental United States” for “outside of the United States or in Hawaii or Alaska”.
+
+Subsec. (d). Pub. L. 108–375, § 605(a), added subsec. (d).
+
+2000—Pub. L. 106–398 amended section generally. Prior to amendment, section authorized payment of a per diem to members of the uniformed services on duty outside of the United States or in Hawaii or Alaska and specified what elements were to be considered in determining the per diem allowance.
+
+1998—Subsec. (c). Pub. L. 105–261 struck out subsec. (c) which authorized the Secretary concerned to make a lump-sum payment for nonrecurring expenses to certain members of the uniformed services authorized to receive per diem allowances under subsec. (a).
+
+1997—Subsecs. (b) to (d). Pub. L. 105–85 redesignated subsecs. (c) and (d) as (b) and (c), respectively, and struck out former subsec. (b) which read as follows: “A station housing allowance may be prescribed under this section for a member who is on duty outside of the United States without regard to costs other than housing costs and may consist of the difference between basic allowance for quarters and applicable housing cost. A station housing allowance may not be prescribed under this section for a member who is on duty in Hawaii or Alaska. A station housing allowance prescribed under this section may be paid in advance.”
+
+1993—Subsec. (d). Pub. L. 103–160 amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “In the case of a member of the uniformed services authorized to receive a per diem allowance under subsection (a), the Secretary concerned may make a lump-sum payment for nonrecurring expenses incurred by the member in occupying private housing outside of the United States. Expenses for which payments are made under this subsection may not be considered for purposes of determining the per diem allowance of the member under subsection (a).”
+
+1989—Subsec. (d). Pub. L. 101–189 added subsec. (d).
+
+1985—Pub. L. 99–145 inserted “the” after “outside” in section catchline.
+
+1984—Subsec. (a). Pub. L. 98–525, § 602(e)(1), designated first two sentences of existing section as subsec. (a).
+
+Subsec. (b). Pub. L. 98–525, § 602(e)(2), (3), designated third and fourth sentences of existing section as subsec. (b), in such third sentence as so designated inserted “for a member who is on duty outside of the United States” after “under this section”, and inserted after such third sentence: “A station housing allowance may not be prescribed under this section for a member who is on duty in Hawaii or Alaska.”
+
+Subsec. (c). Pub. L. 98–525, § 602(e)(4), designated last sentence of existing section as subsec. (c).
+
+1979—Pub. L. 96–107 inserted provisions relating to advance payment of station housing allowances.
+
+1970—Pub. L. 91–486 inserted provision authorizing a station housing allowance.
+
+1966—Pub. L. 89–718 substituted “the” for “a” after “including”.
+
+#### Effective Date of 1997 Amendment
+Amendment by Pub. L. 105–85 effective Jan. 1, 1998, see section 603(e) of Pub. L. 105–85, set out as a note under [section 5561 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5561&num=0&edition=prelim), Government Organization and Employees.
+
+#### Effective Date of 1993 Amendment
+Pub. L. 103–160, div. A, title VI, § 622(b), Nov. 30, 1993, 107 Stat. 1683, as amended by Pub. L. 112–81, div. A, title VI, § 631(f)(4)(B), Dec. 31, 2011, 125 Stat. 1465; Pub. L. 112–239, div. A, title X, § 1076(a)(9), Jan. 2, 2013, 126 Stat. 1948, provided that: “The amendment made by subsection (a) [amending this section] shall apply with respect to nonrecurring expenses and currency fluctuation gains described in [former] [section 475(d) of title 37](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section475/d&num=0&edition=prelim), United States Code, that are incurred by members of the uniformed services on or after October 1, 1993.”
+
+#### Effective Date of 1989 Amendment
+Pub. L. 101–189, div. A, title VI, § 622(b), Nov. 29, 1989, 103 Stat. 1447, provided that: “The amendment made by subsection (a) [amending this section] shall apply with respect to expenses incurred after August 31, 1990.”
+
+#### Effective Date of 1984 Amendment
+Amendment by Pub. L. 98–525 effective Jan. 1, 1985, with exceptions, see section 602(f) of Pub. L. 98–525, as amended, set out as a note under [section 403 of this title](./chapter-007-allowances-other-than-travel-and-transportation-allowances.md#section-403).
+
+#### Effective Date of 1979 Amendment
+Pub. L. 96–107, title VIII, § 807(b), Nov. 9, 1979, 93 Stat. 814, provided that: “The amendment made by subsection (a) [amending this section] shall take effect on October 1, 1979.”
 
 
 <a id="section-405a"></a>
@@ -1428,9 +1549,9 @@ Pub. L. 100–180, div. A, title XIII, § 1314(e)(2), Dec. 4, 1987, 101 Stat. 11
 
 (4) $2,200 a year, while serving in the grade of general or admiral, or in an equivalent grade or rank; or
 
-(5) $4,000 a year, in place of any other personal money allowance authorized by this section, while serving as Chief of Staff of the Army, Chief of Naval Operations, Chief of Staff of the Air Force, Commandant of the Marine Corps, Commandant of the Coast Guard, or Chief of the National Guard Bureau.
+(5) $4,000 a year, in place of any other personal money allowance authorized by this section, while serving as Chief of Staff of the Army, Chief of Naval Operations, Chief of Staff of the Air Force, Commandant of the Marine Corps, Chief of Space Operations, Commandant of the Coast Guard, or Chief of the National Guard Bureau.
 
-**(b) Allowance for Senior Enlisted Members.—** In addition to other pay or allowances authorized by this title, a noncommissioned officer is entitled to a personal money allowance of $2,000 a year while serving as the Sergeant Major of the Army, the Master Chief Petty Officer of the Navy, the Chief Master Sergeant of the Air Force, the Sergeant Major of the Marine Corps, the Master Chief Petty Officer of the Coast Guard, the Senior Enlisted Advisor to the Chairman of the Joint Chiefs of Staff, or the Senior Enlisted Advisor to the Chief of the National Guard Bureau.
+**(b) Allowance for Senior Enlisted Members.—** In addition to other pay or allowances authorized by this title, a noncommissioned officer is entitled to a personal money allowance of $2,000 a year while serving as the Sergeant Major of the Army, the Master Chief Petty Officer of the Navy, the Chief Master Sergeant of the Air Force, the Sergeant Major of the Marine Corps, the senior enlisted advisor of the Space Force, the Master Chief Petty Officer of the Coast Guard, the Senior Enlisted Advisor to the Chairman of the Joint Chiefs of Staff, or the Senior Enlisted Advisor to the Chief of the National Guard Bureau.
 
 ### Statutory Notes
 
@@ -1443,6 +1564,10 @@ Pub. L. 100–180, div. A, title XIII, § 1314(e)(2), Dec. 4, 1987, 101 Stat. 11
 In subsection (b), the words “pay or” are inserted to conform to subsection (a). The word “position” is substituted for the words “capacities” and “officers”, respectively. In clause (1), the words “Superintendent of the Naval Postgraduate School” are substituted for the words “Head of the Postgraduate school at the Naval Academy” to reflect present terminology.
 
 #### Amendments
+2021—Subsec. (a)(5). Pub. L. 116–283, § 925(e)(1)(A), inserted “Chief of Space Operations,” after “Commandant of the Marine Corps,”.
+
+Subsec. (b). Pub. L. 116–283, § 925(e)(1)(B), inserted “the senior enlisted advisor of the Space Force,” after “Sergeant Major of the Marine Corps,”.
+
 2018—Subsecs. (b), (c). Pub. L. 115–232 redesignated subsec. (c) as (b) and struck out former subsec. (b) which related to allowance for certain naval officers.
 
 2014—Subsec. (a)(5). Pub. L. 113–291, § 603(c)(1), substituted “Commandant of the Coast Guard, or Chief of the National Guard Bureau” for “or Commandant of the Coast Guard”.
@@ -1481,6 +1606,7 @@ Pub. L. 106–398, § 1 [[div. A], title VI, § 609(c)], Oct. 30, 2000, 114 Stat
 #### Transfer of Functions
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).
 
+#### Transfer of Functions
 Functions of Public Health Service, Surgeon General of Public Health Service, and all other officers and employees of Public Health Service, and functions of all agencies of or in Public Health Service, transferred to Secretary of Health, Education, and Welfare by Reorg. Plan No. 3 of 1966, eff. June 25, 1966, 31 F.R. 8855, 80 Stat. 1610, set out in the Appendix to Title 5, Government Organization and Employees. Secretary of Health, Education, and Welfare redesignated Secretary of Health and Human Services by [section 3508(b) of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section3508/b&num=0&edition=prelim), Education.
 
 
@@ -1615,6 +1741,9 @@ Amendment by Pub. L. 106–398 effective Oct. 1, 2000, see section 1 [[div. A], 
 #### Effective Date of 1980 Amendment
 Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of Pub. L. 96–513, set out as a note under [section 101 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section101&num=0&edition=prelim), Armed Forces.
 
+#### One-Time Uniform Allowance for Officers Who Transfer to the Space Force
+Pub. L. 116–283, div. A, title VI, § 606, Jan. 1, 2021, 134 Stat. 3672, provided that: “(a) In General.—The Secretary of the Air Force may provide an officer who transfers from the Army, Navy, Air Force, or Marine Corps to the Space Force an allowance of not more than $400 as reimbursement for the purchase of required uniforms and equipment. “(b) Relationship to Other Allowances.—The allowance under this section is in addition to any allowance available under any other provision of law. “(c) Source of Funds.—Funds for allowances provided under subsection (a) in a fiscal year may be derived only from amounts authorized to be appropriated for military personnel of the Space Force for such fiscal year. “(d) Applicability.—The authority for an allowance under this section shall apply with respect to any officer described in subsection (a) who transfers to the Space Force—“(1) during the period beginning on December 20, 2019, and ending on September 30, 2022; and “(2) on or after the date the Secretary of the Air Force prescribes the official uniform for the Space Force.”
+
 #### Save Pay Provision
 Pub. L. 101–189, div. A, title VI, § 663(b), Nov. 29, 1989, 103 Stat. 1465, provided that: “An officer of an armed force who, but for the amendments made by subsection (a) [amending this section], would have become entitled to a uniform reimbursement under [section 416(a) of title 37](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section416/a&num=0&edition=prelim), United States Code, before the end of the one-year period beginning on the date of the enactment of this Act [Nov. 29, 1989] shall be entitled (during such one-year period) to receive such reimbursement under such section as in effect on the day before the date of the enactment of this Act.”
 
@@ -1673,7 +1802,7 @@ Amendment by Pub. L. 90–623 intended to restate without substantive change the
 
 **(d)**
 
-(1) In the case of athletic footwear needed by members of the Army, Navy, Air Force, or Marine Corps upon their initial entry into the armed forces, the Secretary of Defense shall furnish such footwear directly to the members instead of providing a cash allowance to the members for the purchase of such footwear.
+(1) In the case of athletic footwear needed by members of the Army, Navy, Air Force, Marine Corps, or Space Force upon their initial entry into the armed forces, the Secretary of Defense shall furnish such footwear directly to the members instead of providing a cash allowance to the members for the purchase of such footwear.
 
 (2) In procuring athletic footwear to comply with paragraph (1), the Secretary of Defense shall—
 
@@ -1687,7 +1816,7 @@ Amendment by Pub. L. 90–623 intended to restate without substantive change the
 
   (B) cannot be met with athletic footwear that complies with the requirements of this subsection.
 
-(4) This subsection does not apply to the furnishing of athletic footwear to members of the Army, the Navy, the Air Force, or the Marine Corps upon their initial entry into the armed forces, or prohibit the provision of a cash allowance to such members for such purpose, if the Secretary of Defense determines that compliance with paragraph (2) would result in a sole source contract for procurement of athletic footwear for the purpose stated in paragraph (1) because there would be only a sole certified source of supply for such footwear.
+(4) This subsection does not apply to the furnishing of athletic footwear to members of the Army, the Navy, the Air Force, the Marine Corps, or the Space Force upon their initial entry into the armed forces, or prohibit the provision of a cash allowance to such members for such purpose, if the Secretary of Defense determines that compliance with paragraph (2) would result in a sole source contract for procurement of athletic footwear for the purpose stated in paragraph (1) because there would be only a sole certified source of supply for such footwear.
 
 (5) The Secretary of Defense shall ensure that all procurements of athletic footwear to which this subsection applies are made using firm fixed price contracts.
 
@@ -1704,6 +1833,10 @@ The words “the armed forces” are substituted for the words “the Army, the 
 The date of the enactment of the National Defense Authorization Act for Fiscal Year 2017, referred to in subsec. (d)(2)(B), is the date of enactment of Pub. L. 114–328, which was approved Dec. 23, 2016.
 
 #### Amendments
+2021—Subsec. (d)(1). Pub. L. 116–283, § 925(e)(2)(A), substituted “Marine Corps, or Space Force” for “or Marine Corps”.
+
+Subsec. (d)(4). Pub. L. 116–283, § 925(e)(2)(B), substituted “the Marine Corps, or the Space Force” for “or the Marine Corps”.
+
 2017—Subsec. (d)(4), (5). Pub. L. 115–91 added pars. (4) and (5).
 
 2016—Subsec. (d). Pub. L. 114–328 added subsec. (d).
@@ -1946,7 +2079,7 @@ Section, Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 480, provided for payment to 
 
   (A) the movement of his dependents to his permanent station or a place near that station is not authorized at the expense of the United States under [section 476 of this title](./chapter-008-travel-and-transportation-allowances.md#section-476) and his dependents do not reside at or near that station;
 
-  (B) he is on duty on board a ship away from the home port of the ship for a continuous period of more than 30 days; or
+  (B) he is on duty on board a ship away from the home port of the ship (or under orders to remain on board the ship while at the home port) for a continuous period of more than 30 days; or
 
   (C) he is on temporary duty away from his permanent station for a continuous period of more than 30 days and his dependents do not reside at or near his temporary duty station.
 
@@ -1977,6 +2110,8 @@ Section, Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 480, provided for payment to 
 ### Statutory Notes
 
 #### Amendments
+2021—Subsec. (a)(1)(B). Pub. L. 116–283 inserted “(or under orders to remain on board the ship while at the home port)” after “of the ship”.
+
 2013—Subsecs. (a)(1)(A), (c)(1). Pub. L. 112–239, § 1076(a)(9), made technical amendment to directory language of Pub. L. 112–81, § 631(f)(4)(A). See 2011 Amendment note below.
 
 2011—Subsecs. (a)(1)(A), (c)(1). Pub. L. 112–81, § 631(f)(4)(A), as amended by Pub. L. 112–239, § 1076(a)(9), substituted “476” for “406”.
@@ -2177,7 +2312,39 @@ Pub. L. 101–510, div. A, title XIV, § 1484(h)(5), Nov. 5, 1990, 104 Stat. 171
 
 
 <a id="section-435"></a>
-## § 435. Renumbered § 495]
+## § 435. Funeral honors duty: allowance
+**(a) Allowance Authorized.—**
+
+(1) The Secretary concerned may authorize payment of an allowance to a member of the Ready Reserve for any day on which the member performs at least two hours of funeral honors duty pursuant to [section 12503 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section12503&num=0&edition=prelim) or [section 115 of title 32](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title32-section115&num=0&edition=prelim).
+
+(2) The Secretary concerned may also authorize payment of that allowance to a member of the armed forces in a retired status for any day on which the member serves in a funeral honors detail under [section 1491 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1491&num=0&edition=prelim), if the time required for service in such detail (including time for preparation) is not less than two hours. The amount of an allowance paid to a member under this paragraph shall be in addition to any other compensation to which the member may be entitled under this title or title 10 or 38.
+
+**(b) Amount.—** The daily rate of an allowance under this section is $50.
+
+### Statutory Notes
+
+#### Prior Provisions
+A prior section 435 was renumbered [section 495 of this title](./chapter-008-travel-and-transportation-allowances.md#section-495) prior to being renumbered again as this section.
+
+#### Amendments
+2021—Pub. L. 116–283, § 604(b)(1), renumbered [section 495 of this title](./chapter-008-travel-and-transportation-allowances.md#section-495) as this section.
+
+Subsec. (c). Pub. L. 116–283, § 604(b)(2), struck out subsec. (c). Text read as follows: “No allowance may be paid under this section for any day after the travel authorities transition expiration date.”.
+
+2011—Pub. L. 112–81, § 631(d)(2), renumbered [section 435 of this title](./chapter-007-allowances-other-than-travel-and-transportation-allowances.md#section-435) as section 495.
+
+Subsec. (c). Pub. L. 112–81, § 631(e)(32), added subsec. (c).
+
+2001—Subsec. (a). Pub. L. 107–107 designated existing provisions as par. (1) and added par. (2).
+
+2000—Pub. L. 106–398, § 1 [[div. A], title X, § 1087(c)(1)(A)(i)], made technical amendment to directory language of Pub. L. 106–65, § 578(j), which enacted this section.
+
+Subsec. (c). Pub. L. 106–398, § 1 [[div. A], title V, § 575(b)], struck out heading and text of subsec. (c). Text read as follows: “Except for expenses reimbursed under subsection (c) of [section 12503 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section12503&num=0&edition=prelim) or subsection (c) of [section 115 of title 32](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title32-section115&num=0&edition=prelim), the allowance paid under this section is the only monetary compensation authorized to be paid a member for the performance of funeral honors duty pursuant to such section, regardless of the grade in which the member is serving, and shall constitute payment in full to the member.”
+
+#### Effective Date of 2000 Amendment
+Amendment by section 1 [[div. A], title V, § 575(b)] of Pub. L. 106–398, applicable with respect to funeral honors duty performed on or after Oct. 1, 2000, see section 1 [[div. A], title V, § 575(c)] of Pub. L. 106–398, set out as a note under [section 12503 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section12503&num=0&edition=prelim), Armed Forces.
+
+Pub. L. 106–398, § 1 [[div. A], title X, § 1087(c)(1)], Oct. 30, 2000, 114 Stat. 1654, 1654A–292, provided that the amendment made by that section is effective as of Oct. 5, 1999, and as if included in the National Defense Authorization Act for Fiscal Year 2000, Pub. L. 106–65, as enacted.
 
 
 <a id="section-436"></a>

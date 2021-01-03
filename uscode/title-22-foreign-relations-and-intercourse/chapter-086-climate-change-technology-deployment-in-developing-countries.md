@@ -53,7 +53,7 @@ Pub. L. 101–240, title VII, § 739, as added Pub. L. 109–58, title XVI, § 1
 
     (ii) *Annual reports* — The Secretary of State shall use the annual reports prepared under subparagraph (B) and any other information available to the Secretary to track the progress of the developing countries with respect to reducing greenhouse gas intensity.
 
-**(b) Projects** The Secretary of State, in coordination with Administrator of the United States Agency for International Development, shall (directly or through agreements with the World Bank, the International Monetary Fund, the Overseas Private Investment Corporation, and other development institutions) provide assistance to developing countries specifically for projects to reduce greenhouse gas intensity, including projects to—
+**(b) Projects** The Secretary of State, in coordination with Administrator of the United States Agency for International Development, shall (directly or through agreements with the World Bank, the International Monetary Fund, the United States International Development Finance Corporation, and other development institutions) provide assistance to developing countries specifically for projects to reduce greenhouse gas intensity, including projects to—
 
 (1) leverage, through bilateral agreements, funds for reduction of greenhouse gas intensity;
 
@@ -70,9 +70,6 @@ Pub. L. 101–240, title VII, § 739, as added Pub. L. 109–58, title XVI, § 1
 **(d) Priority** In providing assistance under subsection (b), the Secretary of State shall give priority to projects in the 25 developing countries identified in the report submitted under subsection (a)(2)(A).
 
 ### Statutory Notes
-
-#### Amendment of Subsection (b)
-Pub. L. 115–254, div. F, title VI, § 1470(q), (w), Oct. 5, 2018, 132 Stat. 3518, 3519, provided that, effective at the end of the transition period, as defined in [section 9681 of this title](./chapter-103-better-utilization-of-investments-leading-to-development.md#section-9681), subsection (b) of this section is amended by striking “Overseas Private Investment Corporation” and inserting “United States International Development Finance Corporation”. See 2018 Amendment note below.
 
 #### Amendments
 2018—Subsec. (b). Pub. L. 115–254 substituted “United States International Development Finance Corporation” for “Overseas Private Investment Corporation” in introductory provisions.

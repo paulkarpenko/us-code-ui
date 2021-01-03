@@ -22,18 +22,16 @@ The original text provided for the sale of 640 acres. The aggregate quantity whi
 #### Amendments
 1958—Pub. L. 85–641 permitted entry on one or more tracts, not contiguous, but sufficiently close to each other to be managed satisfactorily as an economic unit.
 
-#### Transfer of Functions
-For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out under [section 1451 of this title](./chapter-031-department-of-the-interior.md#section-1451).
-
-“Officer designated by the Secretary of the Interior” and “such officer” substituted for “register” on authority of section 403 of Reorg. Plan No. 3 of 1946, which abolished all registers of district land offices and transferred functions of district land offices to Secretary of the Interior. See section 403 of Reorg. Plan No. 3 of 1946, set out as a note under [section 1 of this title](./chapter-001-bureau-of-land-management.md#section-1).
-
-Previously, references to register and receiver changed to register by acts Mar. 3, 1925 and Oct. 28, 1921, which consolidated offices of register and receiver and provided for a single officer to be known as register.
-
 #### Arizona Entries Dependent Upon Percolating Waters
 Act Aug. 4, 1955, ch. 548, 69 Stat. 491, provided: “The requirement of section 1 of the Desert Land Act of March 3, 1877 (19 Stat. 377) [this section], that the right to the use of water by a desert land entryman ‘shall depend upon bona fide prior appropriation’ shall be waived in the case of all desert land entries which have heretofore been allowed and are subsisting on the effective date of this Act [Aug. 4, 1955] which are dependent upon percolating waters for their reclamation, and which are situated in the State of Arizona under the laws of which the percolating waters upon which the entries are dependent are not subject to the doctrine of prior appropriation but are usable under State law for irrigation and reclamation purposes.”
 
 #### Section as Unaffected by Submerged Lands Act
 Provisions of this section as not amended, modified or repealed by the Submerged Lands Act, see [section 1303 of this title](./chapter-029-submerged-lands.md#section-1303).
+
+#### Transfer of Functions
+For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out under [section 1451 of this title](./chapter-031-department-of-the-interior.md#section-1451).
+
+“Officer designated by the Secretary of the Interior” and “such officer” substituted for “register” on authority of section 403 of Reorg. Plan No. 3 of 1946, which abolished all registers of district land offices and transferred functions of district land offices to Secretary of the Interior. See section 403 of Reorg. Plan No. 3 of 1946, set out as a note under [section 1 of this title](./chapter-001-bureau-of-land-management.md#section-1). Previously, references to register and receiver changed to register by acts Mar. 3, 1925, and Oct. 28, 1921, which consolidated offices of register and receiver and provided for a single officer to be known as register.
 
 
 <a id="section-322"></a>
@@ -48,11 +46,11 @@ The first paragraph of this section is from section 2 of act Mar. 3, 1877.
 
 The second paragraph of this section is from the last clause of section 3 of act Mar. 3, 1877. The first clause of section 3 is incorporated in [section 323 of this title](./chapter-009-desert-land-entries.md#section-323).
 
-#### Transfer of Functions
-“Secretary of the Interior or such officer as he may designate” substituted for “Commissioner of the General Land Office” on authority of section 403 of Reorg. Plan No. 3 of 1946, which abolished General Land Office and Commissioner thereof and transferred functions of General Land Office to a new agency in Department of the Interior to be known as Bureau of Land Management. See section 403 of Reorg. Plan No. 3 of 1946, set out as a note under [section 1 of this title](./chapter-001-bureau-of-land-management.md#section-1).
-
 #### Section as Unaffected by Submerged Lands Act
 Provisions of this section as not amended, modified or repealed by the Submerged Lands Act, see [section 1303 of this title](./chapter-029-submerged-lands.md#section-1303).
+
+#### Transfer of Functions
+“Secretary of the Interior or such officer as he may designate” substituted for “Commissioner of the General Land Office” on authority of section 403 of Reorg. Plan No. 3 of 1946, which abolished General Land Office and Commissioner thereof and transferred functions of General Land Office to a new agency in Department of the Interior to be known as Bureau of Land Management. See section 403 of Reorg. Plan No. 3 of 1946, set out as a note under [section 1 of this title](./chapter-001-bureau-of-land-management.md#section-1).
 
 
 <a id="section-323"></a>
@@ -126,13 +124,13 @@ No land shall be patented to any person under sections 321 to 323, 325, and 327 
 
 ### Statutory Notes
 
+#### Section as Unaffected by Submerged Lands Act
+Provisions of this section as not amended, modified or repealed by the Submerged Lands Act, see [section 1303 of this title](./chapter-029-submerged-lands.md#section-1303).
+
 #### Transfer of Functions
 For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out under [section 1451 of this title](./chapter-031-department-of-the-interior.md#section-1451).
 
 “Officer designated by the Secretary of the Interior” substituted for “register” on authority of section 403 of Reorg. Plan No. 3 of 1946, which abolished all registers of district land offices and transferred functions of district land offices to Secretary of the Interior. See section 403 of Reorg. Plan No. 3 of 1946, set out as a note under [section 1 of this title](./chapter-001-bureau-of-land-management.md#section-1).
-
-#### Section as Unaffected by Submerged Lands Act
-Provisions of this section as not amended, modified or repealed by the Submerged Lands Act, see [section 1303 of this title](./chapter-029-submerged-lands.md#section-1303).
 
 
 <a id="section-329"></a>
@@ -142,18 +140,16 @@ At any time after filing the declaration, and within the period of four years th
 
 ### Statutory Notes
 
-#### Transfer of Functions
-For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out under [section 1451 of this title](./chapter-031-department-of-the-interior.md#section-1451).
-
-“Officer designated by the Secretary of the Interior” substituted for “register” on authority of section 403 of Reorg. Plan No. 3 of 1946, which abolished all registers of district land offices and transferred functions of register of district land offices to Secretary of the Interior. See section 403 of Reorg. Plan No. 3, 1946, set out as a note under [section 1 of this title](./chapter-001-bureau-of-land-management.md#section-1).
-
-Previously, references to register and receiver changed to register by acts Mar. 3, 1925 and Oct. 28, 1921, which consolidated offices of register and receiver and provided for a single officer to be known as register.
-
 #### Five-Year Period
 The period of four years prescribed by this section was extended to five years as to pending entries where the time for final proof had not expired prior to Jan. 1, 1894, by act Aug. 4, 1894, ch. 208, 28 Stat. 226.
 
 #### Section as Unaffected by Submerged Lands Act
 Provisions of this section as not amended, modified or repealed by the Submerged Lands Act, see [section 1303 of this title](./chapter-029-submerged-lands.md#section-1303).
+
+#### Transfer of Functions
+For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out under [section 1451 of this title](./chapter-031-department-of-the-interior.md#section-1451).
+
+“Officer designated by the Secretary of the Interior” substituted for “register” on authority of section 403 of Reorg. Plan No. 3 of 1946, which abolished all registers of district land offices and transferred functions of register of district land offices to Secretary of the Interior. See section 403 of Reorg. Plan No. 3, 1946, set out as a note under [section 1 of this title](./chapter-001-bureau-of-land-management.md#section-1). Previously, references to register and receiver changed to register by acts Mar. 3, 1925, and Oct. 28, 1921, which consolidated offices of register and receiver and provided for a single officer to be known as register.
 
 
 <a id="section-330"></a>
@@ -184,17 +180,17 @@ Any entryman under sections 321 to 323, 325, and 327 to 329 of this title who sh
 
 ### Statutory Notes
 
-#### Transfer of Functions
-For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out under [section 1451 of this title](./chapter-031-department-of-the-interior.md#section-1451).
-
-“Secretary of the Interior or such officer as he may designate” and “Secretary or such officer” substituted for “Commissioner of the General Land Office” on authority of section 403 of Reorg. Plan No. 3 of 1946, which abolished General Land Offices and Commissioner thereof and transferred function of General Land Office to a new agency in Department of the Interior to be known as Bureau of Land Management. See section 403 of Reorg. Plan No. 3 of 1946, set out as a note under [section 1 of this title](./chapter-001-bureau-of-land-management.md#section-1).
-
 #### Other Extension Periods
 Act June 24, 1921, ch. 28, 42 Stat. 66, provided that desert-land entries in certain townships in Riverside County, California, should not be canceled prior to May 1, 1923, for failure to make annual or final proof, that the requirements of the law should become operative from that date, and that a further extension might be granted.
 
 A further extension of time to make final proof on desert-land entries in the counties of Benton, Yakima, and Klickitat, in the State of Washington, was authorized by act Feb. 28, 1911, ch. 180, 36 Stat. 960.
 
 Previous provisions for extension of time for making final proofs under entries of desert lands in certain cases were made by act Aug. 4, 1894, ch. 208, 28 Stat. 226.
+
+#### Transfer of Functions
+For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out under [section 1451 of this title](./chapter-031-department-of-the-interior.md#section-1451).
+
+“Secretary of the Interior or such officer as he may designate” and “Secretary or such officer” substituted for “Commissioner of the General Land Office” on authority of section 403 of Reorg. Plan No. 3 of 1946, which abolished General Land Offices and Commissioner thereof and transferred function of General Land Office to a new agency in Department of the Interior to be known as Bureau of Land Management. See section 403 of Reorg. Plan No. 3 of 1946, set out as a note under [section 1 of this title](./chapter-001-bureau-of-land-management.md#section-1).
 
 
 <a id="section-334"></a>
@@ -289,9 +285,7 @@ Act Mar. 21, 1918 added the last proviso.
 #### Transfer of Functions
 For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out under [section 1451 of this title](./chapter-031-department-of-the-interior.md#section-1451).
 
-“Officer designated by the Secretary of the Interior” substituted for “register” on authority of section 403 of Reorg. Plan No. 3 of 1946, which abolished all registers of district land offices and transferred functions of register of district land offices to Secretary of the Interior. See section 403 of Reorg. Plan No. 3, of 1946, set out as a note under [section 1 of this title](./chapter-001-bureau-of-land-management.md#section-1).
-
-Previously, references to “receiver” changed to “register” by acts Oct. 28, 1921, and Mar. 3, 1925, which consolidated offices of register and receiver and provided for a single officer to be known as register.
+“Officer designated by the Secretary of the Interior” substituted for “register” on authority of section 403 of Reorg. Plan No. 3 of 1946, which abolished all registers of district land offices and transferred functions of register of district land offices to Secretary of the Interior. See section 403 of Reorg. Plan No. 3, of 1946, set out as a note under [section 1 of this title](./chapter-001-bureau-of-land-management.md#section-1). Previously, references to “receiver” changed to “register” by acts Oct. 28, 1921, and Mar. 3, 1925, which consolidated offices of register and receiver and provided for a single officer to be known as register.
 
 
 <a id="section-339"></a>

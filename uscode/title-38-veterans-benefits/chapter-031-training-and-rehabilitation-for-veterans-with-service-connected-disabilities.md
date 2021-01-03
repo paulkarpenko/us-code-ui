@@ -88,7 +88,7 @@ Section effective Apr. 1, 1981, see section 802(a)(1) of Pub. L. 96–466, as am
 
     (i) a veteran who has a service-connected disability rated at 20 percent or more which was incurred or aggravated in service on or after September 16, 1940; or
 
-    (ii) hospitalized or receiving outpatient medical care, services, or treatment for a service-connected disability pending discharge from the active military, naval, or air service, and the Secretary determines that—
+    (ii) hospitalized or receiving outpatient medical care, services, or treatment for a service-connected disability pending discharge from the active military, naval, air, or space service, and the Secretary determines that—
 
       (I) the hospital (or other medical facility) providing the hospitalization, care, services, or treatment is doing so under contract or agreement with the Secretary concerned, or is under the jurisdiction of the Secretary of Veterans Affairs or the Secretary concerned; and
 
@@ -137,6 +137,8 @@ Section 205 of the Federal-State Extended Unemployment Compensation Act of 1970,
 Prior section 3102 was renumbered [section 5302 of this title](./chapter-053-special-provisions-relating-to-benefits.md#section-5302).
 
 #### Amendments
+2021—Subsec. (a)(1)(A)(ii). Pub. L. 116–283 substituted “air, or space service” for “or air service”.
+
 2011—Pub. L. 112–56 designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
 
 1996—Par. (1)(A)(i). Pub. L. 104–275, § 101(b)(1), substituted “rated at 20 percent or more” for “which is, or but for the receipt of retired pay would be, compensable at a rate of 20 percent or more under chapter 11 of this title and”.
@@ -172,7 +174,7 @@ Section effective Apr. 1, 1981, see section 802(a)(1) of Pub. L. 96–466, set o
 
 <a id="section-3103"></a>
 ## § 3103. Periods of eligibility
-**(a)** Except as provided in subsection (b), (c), (d), or (e) of this section, a rehabilitation program may not be afforded to a veteran under this chapter after the end of the twelve-year period beginning on the date of such veteran’s discharge or release from active military, naval, or air service.
+**(a)** Except as provided in subsection (b), (c), (d), (e), or (g) of this section, a rehabilitation program may not be afforded to a veteran under this chapter after the end of the twelve-year period beginning on the date of such veteran’s discharge or release from active military, naval, air, or space service.
 
 **(b)**
 
@@ -180,7 +182,7 @@ Section effective Apr. 1, 1981, see section 802(a)(1) of Pub. L. 96–466, set o
 
 (2) In any case in which the Secretary determines that a veteran has been prevented from participating in a vocational rehabilitation program under this chapter within the period of eligibility prescribed in subsection (a) of this section because—
 
-  (A) such veteran had not met the requirement of a discharge or release from active military, naval, or air service under conditions other than dishonorable before (i) the nature of such discharge or release was changed by appropriate authority, or (ii) the Secretary determined, under regulations prescribed by the Secretary, that such discharge or release was under conditions other than dishonorable, or
+  (A) such veteran had not met the requirement of a discharge or release from active military, naval, air, or space service under conditions other than dishonorable before (i) the nature of such discharge or release was changed by appropriate authority, or (ii) the Secretary determined, under regulations prescribed by the Secretary, that such discharge or release was under conditions other than dishonorable, or
 
   (B) such veteran’s discharge or dismissal was, under [section 5303 of this title](./chapter-053-special-provisions-relating-to-benefits.md#section-5303), a bar to benefits under this title before the Secretary made a determination that such discharge or dismissal is not a bar to such benefits,
   the twelve-year period of eligibility shall not run during the period of time that such veteran was so prevented from participating in such a program.
@@ -205,12 +207,22 @@ Section effective Apr. 1, 1981, see section 802(a)(1) of Pub. L. 96–466, set o
 
 **(f)** In any case in which the Secretary has determined that a veteran was prevented from participating in a vocational rehabilitation program under this chapter within the period of eligibility otherwise prescribed in this section as a result of being ordered to serve on active duty under section 688, 12301(a), 12301(d), 12301(g), 12302, 12304, 12304a, or 12304b of title 10, such period of eligibility shall not run for the period of such active duty service plus four months.
 
+**(g)** Subsection (a) shall not apply to a veteran who was discharged or released from active military, naval, or air service on or after January 1, 2013.
+
 ### Statutory Notes
 
 #### Prior Provisions
 Prior section 3103 was renumbered [section 5303 of this title](./chapter-053-special-provisions-relating-to-benefits.md#section-5303).
 
 #### Amendments
+2021—Subsec. (a). Pub. L. 116–315, § 1025(a)(1), substituted “(e), or (g)” for “or (e)”.
+
+Pub. L. 116–283 substituted “air, or space service” for “or air service”.
+
+Subsec. (b)(2)(A). Pub. L. 116–283 substituted “air, or space service” for “or air service”.
+
+Subsec. (g). Pub. L. 116–315, § 1025(a)(2), added subsec. (g).
+
 2017—Subsec. (f). Pub. L. 115–48 substituted “12304, 12304a, or 12304b” for “or 12304”.
 
 2011—Subsec. (a). Pub. L. 112–56, § 233(b)(1), substituted “in subsection (b), (c), (d), or (e)” for “in subsection (b), (c), or (d)”.
@@ -252,6 +264,11 @@ Amendment by Pub. L. 107–103 effective Sept. 11, 2001, see section 103(e) of P
 
 #### Effective Date
 Section effective Apr. 1, 1981, see section 802(a)(1) of Pub. L. 96–466, set out as a note under [section 3100 of this title](./chapter-031-training-and-rehabilitation-for-veterans-with-service-connected-disabilities.md#section-3100).
+
+#### Extension of Time Limitations for Use of Entitlement: Vocational Rehabilitation and Training
+Pub. L. 116–315, title I, § 1105(b), Jan. 5, 2021, 134 Stat. 4964, provided that: “The subsection (g) temporarily added to [section 3103 of title 38](./chapter-031-training-and-rehabilitation-for-veterans-with-service-connected-disabilities.md#section-3103), United States Code, by subsection (c) of such section 6 [formerly set out as a note below] is amended— “(1) in paragraph (1), by striking ‘the period the individual is so prevented from participating such program’ and inserting ‘the period beginning on March 1, 2020, and ending on December 21, 2021’; and “(2) in paragraph (2), by striking ‘the first day after the individual is able to resume participation in such program’ and inserting ‘December 22, 2021’.”
+
+Pub. L. 116–140, § 6(c)(1), Apr. 28, 2020, 134 Stat. 633, which provided that during Mar. 1, 2020, to Dec. 21, 2021, the Secretary of Veterans Affairs would apply subsec. (a) by striking “or (e)” and inserting “(e), or (g)” and adding subsec. (g), relating to the twelve-year period of eligibility prescribed in subsec. (a), was repealed by Pub. L. 116–315, title I, § 1025(b), Jan. 5, 2021, 134 Stat. 4960.
 
 
 <a id="section-3104"></a>
@@ -374,7 +391,7 @@ During the period beginning on Oct. 1, 1980, and ending on Mar. 31, 1981, the pr
 
 **(b)**
 
-(1) Except as provided in paragraph (2) and in subsection (c), the period of a vocational rehabilitation program for a veteran under this chapter following a determination of the current reasonable feasibility of achieving a vocational goal may not exceed forty-eight months, except that the counseling and placement and postplacement services described in section 3104(a)(2) and (5) of this title may be provided for an additional period not to exceed eighteen months in any case in which the Secretary determines the provision of such counseling and services to be necessary to accomplish the purposes of a rehabilitation program in the individual case.
+(1) Except as provided in paragraph (2) 11 See Extension of Time Limitations for Use of Entitlement: Duration of Program note below. and in subsection (c), the period of a vocational rehabilitation program for a veteran under this chapter following a determination of the current reasonable feasibility of achieving a vocational goal may not exceed forty-eight months, except that the counseling and placement and postplacement services described in section 3104(a)(2) and (5) of this title may be provided for an additional period not to exceed eighteen months in any case in which the Secretary determines the provision of such counseling and services to be necessary to accomplish the purposes of a rehabilitation program in the individual case.
 
 (2) The period of a vocational rehabilitation program pursued by a veteran under [section 3102(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section3102/b&num=0&edition=prelim) following a determination of the current reasonable feasibility of achieving a vocational goal may not exceed 12 months.
 
@@ -448,6 +465,11 @@ Amendment by Pub. L. 107–103 effective Sept. 11, 2001, see section 103(e) of P
 
 #### Effective Date
 Section effective Apr. 1, 1981, see section 802(a)(1) of Pub. L. 96–466, set out as a note under [section 3100 of this title](./chapter-031-training-and-rehabilitation-for-veterans-with-service-connected-disabilities.md#section-3100).
+
+#### Extension of Time Limitations for Use of Entitlement: Duration of Program
+Pub. L. 116–140, § 6(c)(2), Apr. 28, 2020, 134 Stat. 633, provided that: “During the covered period, the Secretary of Veterans Affairs shall apply section 3105(b) of such title as if it were amended— “(A) in paragraph (1), by striking ‘paragraph (2)’ and inserting ‘paragraphs (2) and (3)’; and “(B) by adding at the end the following new paragraph:“ ‘(3)(A) In any case in which the Secretary determines that a veteran has been prevented from participating in counseling and placement and postplacement services described in section 3104(a)(2) and (5) of this title by reason of an Executive order of the President or due to an emergency situation, the Secretary shall extend the period during which the Secretary may provide such counseling and placement and postplacement services for the veteran for a period equal to the number of months that the veteran was so prevented from participating in such counseling and services, as determined by the Secretary. “ ‘(B) In any case in which the Secretary determines that a veteran has been prevented from participating in a vocational rehabilitation program under this chapter by reason of an Executive order of the President or due to an emergency situation, the Secretary shall extend the period of the veteran’s vocational rehabilitation program for a period equal to the number of months that the veteran was so prevented from participating in the vocational rehabilitation program, as determined by the Secretary.’.”
+
+[The term “covered period” as used in section 6(c)(2) of Pub. L. 116–140, set out above, means Mar. 1, 2020, to Dec. 21, 2020, see section 2 of Pub. L. 116–140, set out as a note under [section 3031 of this title](./chapter-030-all-volunteer-force-educational-assistance-program.md#section-3031).]
 
 
 <a id="section-3106"></a>
@@ -543,7 +565,7 @@ During the period beginning on Oct. 1, 1980, and ending on Mar. 31, 1981, the pr
 
 
 <a id="section-3108"></a>
-## § 3108. Allowances
+## § 3108. Allowances 11 See Extension of Payment of Vocational Rehabilitation Subsistence Allowances note below.
 **(a)**
 
 (1) Except in the case of a veteran who makes an election under subsection (f) of this section and subject to the provisions of paragraph (3) of this subsection, each veteran shall be paid a subsistence allowance in accordance with this section during a period determined by the Secretary to be a period of such veteran’s participation under this chapter in a rehabilitation program.
@@ -688,6 +710,11 @@ Pub. L. 98–543, title II, § 205, Oct. 24, 1984, 98 Stat. 2743, provided that:
 #### Effective Date; Veterans Pursuing Program of Vocational Rehabilitation Under This Chapter
 Section effective Oct. 1, 1980, and during period beginning on Oct. 1, 1980, and ending on Mar. 31, 1981, the provisions of this section, as added by Pub. L. 96–466, title I, § 101(a), Oct. 17, 1980, 94 Stat. 2178, shall apply to veterans pursuing a program of vocational rehabilitation training under this chapter in the same manner as former [section 1504 of this title](./chapter-015-pension-for-non-service-connected-disability-or-death-or-for-service.md#section-1504) applied to veterans pursuing such a program under this chapter on Sept. 30, 1980, see section 802(a)(2), (4) of Pub. L. 96–466, set out as an Effective Date note under [section 3100 of this title](./chapter-031-training-and-rehabilitation-for-veterans-with-service-connected-disabilities.md#section-3100).
 
+#### Extension of Payment of Vocational Rehabilitation Subsistence Allowances
+Pub. L. 116–140, § 8, Apr. 28, 2020, 134 Stat. 634, provided that: “In the case of any veteran whom the Secretary of Veterans Affairs determines is satisfactorily following a program of employment services provided under [section 3104(a)(5) of title 38](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section3104/a/5&num=0&edition=prelim), United States Code, during the covered period, the Secretary may pay the veteran a subsistence allowance, as prescribed in section 3108 of such title for full-time training for the type of program that the veteran was pursuing, for two additional months.”
+
+[The term “covered period” as used in section 8 of Pub. L. 116–140, set out above, means Mar. 1, 2020, to Dec. 21, 2020, see section 2 of Pub. L. 116–140, set out as a note under [section 3031 of this title](./chapter-030-all-volunteer-force-educational-assistance-program.md#section-3031).]
+
 #### Applicability of Subsection (g)(1) to Apportionments Made Before October 17, 1980
 Pub. L. 96–466, title I, § 101(c), Oct. 17, 1980, 94 Stat. 2186, provided that: “The provisions of section 1508(g)(1) [now 3108(g)(1)] of title 38, United States Code, as added by subsection (a) shall not apply to an apportionment made under section 3107(c) [now 5307(c)] of such title before the date of the enactment of this Act [Oct. 17, 1980].”
 
@@ -787,7 +814,7 @@ Section effective Oct. 1, 1980, and during period beginning on Oct. 1, 1980, and
 
 <a id="section-3113"></a>
 ## § 3113. Vocational rehabilitation for hospitalized members of the Armed Forces and veterans
-**(a)** Services and assistance may be provided under this chapter to a person described in subparagraphs (A)(ii) and (B) of [section 3102(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section3102/1&num=0&edition=prelim) who is hospitalized pending discharge from active military, naval, or air service. In such cases, no subsistence allowance shall be paid.
+**(a)** Services and assistance may be provided under this chapter to a person described in subparagraphs (A)(ii) and (B) of [section 3102(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section3102/1&num=0&edition=prelim) who is hospitalized pending discharge from active military, naval, air, or space service. In such cases, no subsistence allowance shall be paid.
 
 **(b)** Services and assistance may be provided under this chapter to a veteran who is receiving care in a Department of Veterans Affairs hospital, nursing home, or domiciliary facility or in any other hospital or medical facility.
 
@@ -799,6 +826,8 @@ Prior section 3113 was renumbered [section 5313 of this title](./chapter-053-spe
 Provisions similar to those comprising subsec. (a) of this section were contained in former [section 1510 of this title](./chapter-015-pension-for-non-service-connected-disability-or-death-or-for-service.md#section-1510) prior to the general revision of this chapter by Pub. L. 96–466.
 
 #### Amendments
+2021—Subsec. (a). Pub. L. 116–283 substituted “air, or space service” for “or air service”.
+
 1994—Subsec. (a). Pub. L. 103–446 substituted “subparagraphs (A)(ii) and (B) of section 3102(1)” for “section 3102(1)(B) and (2)”.
 
 1991—Pub. L. 102–83, § 5(a), renumbered [section 1513 of this title](./chapter-015-pension-for-non-service-connected-disability-or-death-or-for-service.md#section-1513) as this section.

@@ -292,24 +292,25 @@ Barack Obama.
 
 <a id="section-105"></a>
 ## § 105. Inspection
-**(a)** Under regulations prescribed by him, the Secretary of the Army shall have an inspection made by inspectors general, or, if necessary, by any other commissioned officers of the Regular Army detailed for that purpose, to determine whether—
+**(a)** Under regulations prescribed by such Secretary, the Secretary of the Army and the Secretary of the Air Force shall each have an inspection made by inspectors general, or by any other commissioned officers of the Regular Army or the Regular Air Force detailed for that purpose, to determine whether—
 
-(1) the amount and condition of property held by the Army National Guard are satisfactory;
+(1) the amount and condition of property held by the Army National Guard or Air National Guard are satisfactory;
 
-(2) the Army National Guard is organized as provided in this title;
+(2) the Army National Guard or Air National Guard is organized as provided in this title;
 
-(3) the members of the Army National Guard meet prescribed physical and other qualifications;
+(3) the members of the Army National Guard or Air National Guard meet prescribed physical and other qualifications;
 
-(4) the Army National Guard and its organization are properly uniformed, armed, and equipped and are being trained and instructed for active duty in the field, or for coast defense;
+(4) the Army National Guard or Air National Guard and its organization are properly uniformed, armed, and equipped and are being trained and instructed for active duty in the field, or for coast defense;
 
-(5) Army National Guard records are being kept in accordance with this title;
+(5) Army National Guard or Air National Guard records are being kept in accordance with this title;
 
 (6) the accounts and records of each prop­erty and fiscal officer are properly maintained; and
 
-(7) the units of the Army National Guard meet requirements for deployment.
-The Secretary of the Air Force has a similar duty with respect to the Air National Guard.
+(7) the units of the Army National Guard or Air National Guard meet requirements for deployment.
 
 **(b)** The reports of inspections under subsection (a) are the basis for determining whether the National Guard is entitled to the issue of military property as authorized under this title and to retain that property; and for determining which organizations and persons constitute units and members of the National Guard; and for determining which units of the National Guard meet deployability standards.
+
+**(c)** The Chief of the National Guard Bureau may have an inspection described in subsection (a) made by inspectors general, or by commissioned officers of the Army National Guard of the United States or the Air National Guard of the United States detailed for that purpose, on behalf of the Secretary of the Army or the Secretary of the Air Force. Any such inspection may be made only with the approval of the Secretary of the Army or the Secretary of the Air Force, as applicable.
 
 ### Statutory Notes
 
@@ -327,6 +328,10 @@ In subsection (a)(4), the words “the Army National Guard and its organizations
 In subsection (b), the words “under subsection (a)” are substituted for the word “such”. The words “units and members” are substituted for the word “parts”. The words “within the meaning of this title” are omitted as surplusage.
 
 #### Amendments
+2019—Subsec. (a). Pub. L. 116–92, § 517(a), in introductory provisions, substituted “by such Secretary, the Secretary of the Army and the Secretary of the Air Force shall each have” for “by him, the Secretary of the Army shall have” and “the Regular Army or the Regular Air Force” for “the Regular Army” and struck out “, if necessary,” after “inspectors general, or”; in pars. (1) to (5) and (7), substituted “Army National Guard or Air National Guard” for “Army National Guard”; and struck out concluding provisions which read as follows: “The Secretary of the Air Force has a similar duty with respect to the Air National Guard.”
+
+Subsec. (c). Pub. L. 116–92, § 517(b), added subsec. (c).
+
 1992—Subsec. (a). Pub. L. 102–484, § 1122(1), substituted “shall” for “may” in introductory provisions and added par. (7).
 
 Subsec. (b). Pub. L. 102–484, § 1122(2), inserted before period at end “; and for determining which units of the National Guard meet deployability standards”.

@@ -44,7 +44,20 @@ Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Gu
 
 ### Statutory Notes
 
+#### Amendment of Subsection (c)
+Pub. L. 116–283, div. A, title XVIII, §§ 1801(d), 1876(c), Jan. 1, 2021, 134 Stat. 4151, 4282, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, subsection (c) of this section is amended—
+
+(1) by striking the first two words of the subsection heading; and
+
+(2) by striking the text of that subsection and inserting the text of paragraph (2) of [section 2307(g) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2307/g&num=0&edition=prelim), amended by striking “this paragraph” in the second sentence and inserting “this subsection”.
+
+See 2021 Amendment notes below.
+
 #### Amendments
+2021—Subsec. (c). Pub. L. 116–283, § 1876(c)(2), substituted “The Secretary of the Navy may advance to private salvage companies such funds as the Secretary considers necessary to provide for the immediate financing of salvage operations. Advances under this subsection shall be made on terms that the Secretary considers adequate for the protection of the United States.” for “For authority for the Secretary of the Navy to advance to private salvage companies such funds as the Secretary considers necessary to provide for the immediate financing of salvage operations, see [section 2307(g)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2307/g/2&num=0&edition=prelim).”
+
+Pub. L. 116–283, § 1876(c)(1), struck out “Reference to ” before “Authority” in heading.
+
 2018—Pub. L. 115–232 renumbered [section 7362 of this title](./chapter-745-computation-of-retired-pay.md#section-7362) as this section.
 
 #### Effective Date of 2018 Amendment

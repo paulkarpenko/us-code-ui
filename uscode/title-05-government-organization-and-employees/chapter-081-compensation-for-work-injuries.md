@@ -30,7 +30,7 @@ For the purpose of this subchapter—
 
   (i) a commissioned officer of the Regular Corps of the Public Health Service;
 
-  (ii) a commissioned officer of the Reserve Corps of the Public Health Service on active duty;
+  (ii) a commissioned officer of the Reserve Corps 11 See Change of Name note below. of the Public Health Service on active duty;
 
   (iii) a commissioned officer of the Environmental Science Services Administration; or
 
@@ -178,6 +178,9 @@ Pars. (20), (21). Pub. L. 93–416, § 1(f), added pars. (20) and (21).
 
 1967—Par. (1)(iii). Pub. L. 90–83, § 1(4), substituted “Environmental Science Services Administration” for “Coast and Geodetic Survey”. See Historical and Revision Notes under [section 2101 of this title](./chapter-021-definitions.md#section-2101).
 
+#### Change of Name
+Reference to Reserve Corps of the Public Health Service deemed to be a reference to the Ready Reserve Corps, see [section 402(c)(3) of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section402/c/3&num=0&edition=prelim), The Public Health and Welfare.
+
 #### Effective Date of 1980 Amendment
 Pub. L. 96–499, title IV, § 422, Dec. 5, 1980, 94 Stat. 2608, provided that: “The amendments made by section 421 [amending this section and [section 8146a of this title](./chapter-081-compensation-for-work-injuries.md#section-8146a)] shall take effect on the date of the enactment of this Act [Dec. 5, 1980] with respect to any adjustments which are to be made on or after that date; except that the period specified in such section as extending from December to December shall, with respect to the adjustment to be made on March 1, 1981, extend instead from the last month in which the price index resulted in an adjustment prior to enactment to December of 1980.”
 
@@ -187,16 +190,16 @@ Pub. L. 93–416, § 28(a), Sept. 7, 1974, 88 Stat. 1151, provided that: “Exce
 #### Short Title of 1990 Amendment
 Pub. L. 101–534, § 1, Nov. 7, 1990, 104 Stat. 2352, provided that: “This Act [amending [section 8111 of this title](./chapter-081-compensation-for-work-injuries.md#section-8111) and enacting provisions set out as a note under [section 8111 of this title](./chapter-081-compensation-for-work-injuries.md#section-8111)] may be cited as the ‘Attendant Allowance Adjustment Act’.”
 
-#### Transfer of Functions
-Environmental Science Services Administration in Department of Commerce, including offices of Administrator and Deputy Administrator thereof, abolished by Reorg. Plan No. 4 of 1970, eff. Oct. 3, 1970, 35 F.R. 15627, 84 Stat. 2090, set out in the Appendix to this title, which created National Oceanic and Atmospheric Administration in Department of Commerce and transferred personnel, property, records, and unexpended balances of funds of Environmental Science Services Administration to such newly created National Oceanic and Atmospheric Administration. Components of Environmental Science Services Administration thus transferred included Weather Bureau [now National Weather Service], Coast and Geodetic Survey [now National Ocean Survey], Environmental Data Services, National Environmental Satellite Center, and ESSA Research Laboratories.
-
-Functions of Public Health Service, Surgeon General of Public Health Service, and all other officers and employees of Public Health Service, and functions of all agencies of or in Public Health Service, transferred to Secretary of Health, Education, and Welfare by 1966 Reorg. Plan No. 3, 31 F.R. 8855, 80 Stat. 1610, effective June 25, 1966, set out in the Appendix to this title. Secretary of Health, Education, and Welfare redesignated Secretary of Health and Human Services by [section 3508 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section3508&num=0&edition=prelim), Education.
-
 #### Processing of Claims Filed by District of Columbia Employees
 Pub. L. 93–198, title II, § 204(e), Dec. 24, 1973, 87 Stat. 783, provided that: “All functions of the Secretary under chapter 81 of title 5 of the United States Code, with respect to the processing of claims filed by employees of the government of the District for compensation for work injuries, are transferred to and shall be exercised by the Commissioner, effective the day after the day on which the District establishes an independent personnel system or systems.” An independent personnel system was established for the District by D.C. Law 2–139, Mar. 3, 1979, 25 DCR 5740.
 
 #### Study and Report to Congress by Secretary of Labor of Provisions and Programs Under Subchapter
 Pub. L. 93–416, § 27, Sept. 7, 1974, 88 Stat. 1150, directed Secretary of Labor to conduct a study of the provisions of this subchapter and its programs which was to include: hearings, research, and other activities necessary to formulate recommendations; an examination of need for authority to increase allowances for services of attendants above the maximum fixed by [section 8111 of this title](./chapter-081-compensation-for-work-injuries.md#section-8111) in exceptional circumstances; an examination of the effectiveness of this subchapter; and recommendations as to survivor benefits; report results of the study together with his findings and recommendations not later than 12 months after Sept. 7, 1974.
+
+#### Transfer of Functions
+Environmental Science Services Administration in Department of Commerce, including offices of Administrator and Deputy Administrator thereof, abolished by Reorg. Plan No. 4 of 1970, eff. Oct. 3, 1970, 35 F.R. 15627, 84 Stat. 2090, set out in the Appendix to this title, which created National Oceanic and Atmospheric Administration in Department of Commerce and transferred personnel, property, records, and unexpended balances of funds of Environmental Science Services Administration to such newly created National Oceanic and Atmospheric Administration. Components of Environmental Science Services Administration thus transferred included Weather Bureau [now National Weather Service], Coast and Geodetic Survey [now National Ocean Survey], Environmental Data Services, National Environmental Satellite Center, and ESSA Research Laboratories.
+
+Functions of Public Health Service, Surgeon General of Public Health Service, and all other officers and employees of Public Health Service, and functions of all agencies of or in Public Health Service, transferred to Secretary of Health, Education, and Welfare by 1966 Reorg. Plan No. 3, 31 F.R. 8855, 80 Stat. 1610, effective June 25, 1966, set out in the Appendix to this title. Secretary of Health, Education, and Welfare redesignated Secretary of Health and Human Services by [section 3508 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section3508&num=0&edition=prelim), Education.
 
 
 <a id="section-8102"></a>

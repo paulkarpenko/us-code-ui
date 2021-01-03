@@ -1691,7 +1691,7 @@ Not later than 18 months after June 30, 2016, the Comptroller General shall subm
 
 **(b) Improving oversight**
 
-(1) **Guidance** — Not later than 270 days after June 30, 2016, the Administrator of the Small Business Administration shall develop and implement criteria and guidance on using a risk-based approach to requesting and verifying information from entities applying to be designated or recertified as qualified HUBZone small business concerns (as defined in [section 632(p)(5) of title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section632/p/5&num=0&edition=prelim)).
+(1) **Guidance** — Not later than 270 days after June 30, 2016, the Administrator of the Small Business Administration shall develop and implement criteria and guidance on using a risk-based approach to requesting and verifying information from entities applying to be designated or recertified as qualified HUBZone small business concerns (as defined in section 632(p)(5) 11 See References in Text note below. of title 15).
 
 (2) **Assessment** — Not later 1 year after the date on which the criteria and guidance described in paragraph (1) is implemented, the Comptroller General of the United States shall begin an assessment of such criteria and guidance. Not later than 6 months after beginning such an assessment, the Comptroller General shall submit a report to the Committee on Small Business and Entrepreneurship of the Senate and the Committee on Small Business of the House of Representatives that includes—
 
@@ -1706,6 +1706,9 @@ Not later than 18 months after June 30, 2016, the Comptroller General shall subm
   (E) recommendations on how to improve controls in the HUBZone program.
 
 ### Statutory Notes
+
+#### References in Text
+[Section 632(p)(5) of title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section632/p/5&num=0&edition=prelim), referred to in subsec. (b)(1), was redesignated as [section 657a(b)(5) of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section657a/b/5&num=0&edition=prelim), Commerce and Trade, by Pub. L. 115–91, div. A, title XVII, § 1701(a)(2), Dec. 12, 2017, 131 Stat. 1795.
 
 #### Codification
 Section is comprised of section 412 of Pub. L. 114–187. Subsec. (a)(1) of section 412 of Pub. L. 114–187 amended [section 632 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section632&num=0&edition=prelim), Commerce and Trade. Subsec. (a)(2) of section 412 of Pub. L. 114–187 enacted provisions set out as a note under [section 632 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section632&num=0&edition=prelim).

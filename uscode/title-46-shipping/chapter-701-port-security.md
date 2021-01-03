@@ -111,9 +111,6 @@ Pub. L. 107–295, title I, § 112, Nov. 25, 2002, 116 Stat. 2092, which require
 
 ### Statutory Notes
 
-#### Applicability of Amendment
-Amendment of section by section 1805(d) of Pub. L. 115–254 applicable to assessments or security plans, or updates to such assessments or plans, submitted after the date that the cybersecurity risk assessment model is developed under section 1805(a) of Pub. L. 115–254, set out as a note under [section 70112 of this title](./chapter-701-port-security.md#section-70112). See 2018 Amendment notes below.
-
 #### Amendments
 2018—Subsec. (b)(1). Pub. L. 115–254, § 1805(d)(1)(A), struck out “and by not later than December 31, 2004” after “subsection (a) of this section” in introductory provisions.
 
@@ -359,9 +356,6 @@ Subsec. (c). Pub. L. 115–282, § 408(b), added subsec. (c).
 **(f) Nondisclosure of Port Security Plans.—** Notwithstanding any other provision of law, information related to security plans, procedures, or programs for passenger vessels or passenger terminals authorized under this chapter is not required to be disclosed to the public.
 
 ### Statutory Notes
-
-#### Applicability of Amendment
-Amendment of section by section 1805(d) of Pub. L. 115–254 applicable to assessments or security plans, or updates to such assessments or plans, submitted after the date that the cybersecurity risk assessment model is developed under section 1805(a) of Pub. L. 115–254, set out as a note under [section 70112 of this title](./chapter-701-port-security.md#section-70112). See 2018 Amendment notes below.
 
 #### Codification
 [Section 1226(c) of Title 33](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1226/c&num=0&edition=prelim), Navigation and Navigable Waters, which was transferred and redesignated as subsec. (f) of this section by Pub. L. 115–282, title IV, §§ 402(c)(1), 408(d)(1), Dec. 4, 2018, 132 Stat. 4264, 4268, was based on section 7(c) of Pub. L. 92–340, as added by Pub. L. 104–324, title III, § 302, Oct. 19, 1996, 110 Stat. 3917.

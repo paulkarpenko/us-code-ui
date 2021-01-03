@@ -62,7 +62,7 @@ source: >-
 
   (B) the term “socially and economically disadvantaged individuals” has the meaning such term has under section 8(d) of the Small Business Act and relevant subcontracting regulations promulgated pursuant to that section; and
 
-  (C) the term “qualified HUBZone small business concern” has the meaning given that term in section 3(p) of the Small Business Act ([15 U.S.C. 632](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section632&num=0&edition=prelim)(o) 11 So in original. Probably should be “632(p)”.).
+  (C) the term “qualified HUBZone small business concern” has the meaning given that term in section 3(p) 11 See References in Text note below. of the Small Business Act ([15 U.S.C. 632](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section632&num=0&edition=prelim)(o) 22 So in original. Probably should be “632(p)”.).
 
 **(g) Nonsupplanting Requirement.—**
 
@@ -73,7 +73,7 @@ source: >-
 ### Statutory Notes
 
 #### References in Text
-Sections 3 and 8(d) of the Small Business Act, referred to in subsec. (f)(3), are classified to sections 632 and 637(d), respectively, of Title 15, Commerce and Trade.
+Sections 3 and 8(d) of the Small Business Act, referred to in subsec. (f)(3), are classified to sections 632 and 637(d), respectively, of Title 15, Commerce and Trade. Section 3(p) of the Act was redesignated as section 31(b) by Pub. L. 115–91, div. A, title XVII, § 1701(a)(2), Dec. 12, 2017, 131 Stat. 1795, and is now classified to [section 657a(b) of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section657a/b&num=0&edition=prelim).
 
 #### Prior Provisions
 A prior section 6701, Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 1010; Pub. L. 98–185, §§ 2, 9(a), Nov. 30, 1983, 97 Stat. 1309, 1311, related to definitions and application of chapter, prior to repeal by Pub. L. 99–272, title XIV, § 14001(a)(1), (e), Apr. 7, 1986, 100 Stat. 327, 329, eff. Oct. 18, 1986.

@@ -22,6 +22,7 @@ Act Aug. 29, 1935, title II, § 201, as added Nov. 18, 1988, Pub. L. 100–690, 
 #### Transfer of Functions
 For transfer of authorities, functions, personnel, and assets of the Bureau of Alcohol, Tobacco and Firearms, including the related functions of the Secretary of the Treasury, to the Department of Justice, see [section 531(c) of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section531/c&num=0&edition=prelim), Domestic Security, and [section 599A(c)(1) of Title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section599A/c/1&num=0&edition=prelim), Judiciary and Judicial Procedure.
 
+#### Transfer of Functions
 Federal Alcohol Administration and offices of members and Administrator thereof were abolished and their functions directed to be administered under direction and supervision of Secretary of Treasury through Bureau of Internal Revenue [now Internal Revenue Service] in Department of Treasury, by Reorg. Plan No. III of 1940, § 2, eff. June 30, 1940, 5 F.R. 2107, 54 Stat. 1232, set out in the Appendix to Title 5, Government Organization and Employees. See also, sections 8 and 9 of said plan for provisions relating to transfer of records, property, personnel, and funds. Section 2 of Reorg. Plan No. III of 1940 was repealed as executed by Pub. L. 97–258, § 5(b), Sept. 13, 1982, 96 Stat. 1068, 1085, the first section of which enacted Title 31, Money and Finance. Department of the Treasury Order 221 of July 1, 1972, established the Bureau of Alcohol, Tobacco and Firearms and transferred to it functions of the Internal Revenue Service arising under certain laws relating to alcohol, tobacco, firearms, and explosives.
 
 
@@ -143,11 +144,11 @@ Subsec. (d). Pub. L. 100–690, § 8001(b)(3), made technical amendment to refer
 #### Change of Name
 “Court of appeals” was substituted for “circuit court of appeals” pursuant to act June 25, 1948, as amended by act May 24, 1949.
 
-#### Transfer of Functions
-“Secretary of the Treasury” and “Secretary” were substituted in subsecs. (a) to (c) and (e) to (i) for “Administrator”, meaning the Administrator of the Federal Alcohol Administration, pursuant to Reorg. Plan No. III of 1940, see note set out under [section 201 of this title](./chapter-008-federal-alcohol-administration-act.md#section-201).
-
 #### Applicability of Administrative Procedure Act
 Pub. L. 85–791, § 35, Aug. 28, 1958, 72 Stat. 951, provided that: “This Act shall not be construed to repeal or modify any provision of the Administrative Procedure Act [see Short Title note preceding [section 551 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section551&num=0&edition=prelim), Government Organization and Employees].”
+
+#### Transfer of Functions
+“Secretary of the Treasury” and “Secretary” were substituted in subsecs. (a) to (c) and (e) to (i) for “Administrator”, meaning the Administrator of the Federal Alcohol Administration, pursuant to Reorg. Plan No. III of 1940, see note set out under [section 201 of this title](./chapter-008-federal-alcohol-administration-act.md#section-201).
 
 
 <a id="section-205"></a>

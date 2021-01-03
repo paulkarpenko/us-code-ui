@@ -603,7 +603,11 @@ Subsecs. (c) to (j). Pub. L. 115–25, § 201(3), added subsecs. (c) to (j).
 
   (C) include new, value-adding technological advancements; and
 
-  (D) improve weather forecasting and predictions.
+  (D) improve—
+
+    (i) weather and climate forecasting and predictions; and
+
+    (ii) the understanding, management, and exploration of the ocean.
 
 (2) **Quantitative assessments and partnership authority** — In meeting the requirements described in paragraph (1), the Under Secretary—
 
@@ -613,7 +617,11 @@ Subsecs. (c) to (j). Pub. L. 115–25, § 201(3), added subsecs. (c) to (j).
 
 **(d) Additional forms of transaction authorized**
 
-(1) **In general** — Subject to paragraph (2), in order to enhance the effectiveness of data and satellite systems used by the National Oceanic and Atmospheric Administration to meet its missions, the Under Secretary may enter into and perform such transaction agreements on such terms as the Under Secretary considers appropriate to carry out basic, applied, and advanced research projects to meet the objectives described in subparagraphs (A) through (D) subsection (c)(1).
+(1) **In general** — Subject to paragraph (2), in order to enhance the effectiveness of data, satellite, and other observing systems used by the National Oceanic and Atmospheric Administration to meet its missions, the Under Secretary may enter into and perform such transaction agreements on such terms as the Under Secretary considers appropriate to carry out—
+
+  (A) basic, applied, and advanced research projects and ocean exploration missions to meet the objectives described in subparagraphs (A) through (D) of subsection (c)(1); or
+
+  (B) any other type of project to meet other mission objectives, as determined by the Under Secretary.
 
 (2) **Method and scope**
 
@@ -621,13 +629,13 @@ Subsecs. (c) to (j). Pub. L. 115–25, § 201(3), added subsecs. (c) to (j).
 
   (B) *Permissible uses* — A transaction agreement under paragraph (1) may be used—
 
-    (i) for the construction, use, operation, or procurement of new, improved, innovative, or value-adding satellites, instrumentation, ground stations, and data;
+    (i) for the construction, use, operation, or procurement of new, improved, innovative, or value-adding systems, including satellites, instrumentation, ground stations, data, and data processing;
 
     (ii) to make determinations on how to best use existing or planned data, systems, and assets of the National Oceanic and Atmospheric Administration; and
 
     (iii) only when the objectives of the National Oceanic and Atmospheric Administration cannot be met using a cooperative research and development agreement, grants procurement contract, or cooperative agreement.
 
-(3) **Termination of effectiveness** — The authority provided in this subsection terminates effective September 30, 2023.
+(3) **Termination of effectiveness** — The authority provided in this subsection terminates effective September 30, 2030.
 
 **(e) Transparency** Not later than 60 days after the date that a transaction agreement is made under subsection (d), the Under Secretary shall make publicly available, in a searchable format, on the website of the National Oceanic and Atmospheric Administration all uses of the authority under subsection (d), including an estimate of committed National Oceanic and Atmospheric Administration resources and the expected benefits to National Oceanic and Atmospheric Administration objectives for the transaction agreement, with appropriate redactions for proprietary, sensitive, or classified information.
 
@@ -676,6 +684,14 @@ Subsecs. (c) to (j). Pub. L. 115–25, § 201(3), added subsecs. (c) to (j).
 ### Statutory Notes
 
 #### Amendments
+2020—Subsec. (c)(1)(D). Pub. L. 116–259, § 503(1), added subpar. (D) and struck out former subpar. (D) which read as follows: “improve weather forecasting and predictions.”
+
+Subsec. (d)(1). Pub. L. 116–259, § 503(2)(A), substituted “data, satellite, and other observing systems” for “data and satellite systems” and “to carry out—” and subpars. (A) and (B) for “to carry out basic, applied, and advanced research projects to meet the objectives described in subparagraphs (A) through (D) subsection (c)(1).”
+
+Subsec. (d)(2)(B)(i). Pub. L. 116–259, § 503(2)(B), substituted “systems, including satellites, instrumentation, ground stations, data, and data processing;” for “satellites, instrumentation, ground stations, and data;”.
+
+Subsec. (d)(3). Pub. L. 116–259, § 503(2)(C), substituted “2030” for “2023”.
+
 2019—Subsec. (a)(2)(C). Pub. L. 115–423, § 7(a), added subpar. (C).
 
 Subsecs. (c) to (g). Pub. L. 115–423, § 6, added subsecs. (c) to (g).

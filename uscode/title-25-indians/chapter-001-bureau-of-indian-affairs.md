@@ -35,11 +35,11 @@ For the purpose of facilitating and simplifying the administration of the laws g
 #### Effective Date of 1990 Amendment
 Amendment by Pub. L. 101–509 effective on first day of first pay period beginning on or after Nov. 5, 1990, with continued service by incumbent Under Secretary of the Interior, see section 529 [title I, § 112(e)(1), (2)(B)] of Pub. L. 101–509, set out as a note under [section 3404 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section3404&num=0&edition=prelim), Education.
 
-#### Transfer of Functions
-For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out in the Appendix to Title 5, Government Organization and Employees.
-
 #### Assistant Commissioners
 An assistant commissioner was authorized by a provision of act July 16, 1914, ch. 141, § 1, 38 Stat. 490.
+
+#### Transfer of Functions
+For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out in the Appendix to Title 5, Government Organization and Employees.
 
 
 <a id="section-2"></a>
@@ -53,11 +53,12 @@ The Commissioner of Indian Affairs shall, under the direction of the Secretary o
 R.S. § 463 derived from acts July 9, 1832, ch. 174, § 1, 4 Stat. 564; July 27, 1868, ch. 259, § 1, 15 Stat. 228.
 
 #### Transfer of Functions
-For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out in the Appendix to Title 5, Government Organization and Employees.
-
 All supervisory and appellate powers and duties in regard to Indian affairs theretofore vested in Secretary of the Treasury were thereafter to be exercised and performed by Secretary of the Interior under provisions of section 1 of act July 27, 1868, ch. 259, 15 Stat. 228.
 
 Appointment by President of a Commissioner of Indian Affairs to act under direction of Secretary of War was provided for by section 1 of act July 9, 1832, ch. 174, 4 Stat. 564.
+
+#### Transfer of Functions
+For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out in the Appendix to Title 5, Government Organization and Employees.
 
 
 <a id="section-2a"></a>
@@ -81,11 +82,11 @@ Act Oct. 28, 1949, ch. 782, cited as a credit to this section, was repealed (sub
 #### Repeal of Inconsistent Laws
 Act June 5, 1942, ch. 336, § 2, 56 Stat. 312, provided that: “All provisions of law inconsistent with this Act [this section] are hereby repealed to the extent of such inconsistency.”
 
-#### Transfer of Functions
-For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out in the Appendix to Title 5, Government Organization and Employees.
-
 #### Assistant Commissioners
 An assistant commissioner was authorized by a provision of act July 16, 1914, ch. 141, § 1, 38 Stat. 490.
+
+#### Transfer of Functions
+For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out in the Appendix to Title 5, Government Organization and Employees.
 
 
 <a id="section-3"></a>
@@ -98,11 +99,11 @@ It shall be the duty of the Commissioner of Indian Affairs to cause to be compil
 #### Codification
 Section is from the Indian Appropriation Act, 1883.
 
-#### Transfer of Functions
-For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out in the Appendix to Title 5, Government Organization and Employees.
-
 #### Indian Agents
 There have been no Indian agents since 1908. See note under [section 64 of this title](./chapter-002-officers-of-indian-affairs.md#section-64).
+
+#### Transfer of Functions
+For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out in the Appendix to Title 5, Government Organization and Employees.
 
 
 <a id="section-4"></a>
@@ -163,9 +164,10 @@ All accounts and vouchers for claims and disbursements connected with Indian aff
 R.S. § 464 derived from act July 9, 1832, ch. 174, § 3, 4 Stat. 564.
 
 #### Transfer of Functions
-For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out in the Appendix to Title 5, Government Organization and Employees.
-
 “Government Accountability Office” substituted in text for “General Accounting Office” pursuant to section 8(b) of Pub. L. 108–271, set out as a note under [section 702 of Title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section702&num=0&edition=prelim), Money and Finance, which redesignated the General Accounting Office and any references thereto as the Government Accountability Office. Previously, “General Accounting Office” substituted in text for “proper accounting officer of the Department of the Treasury” pursuant to act June 10, 1921, which transferred all powers and duties of the Comptroller, six auditors, and certain other employees of the Treasury to the General Accounting Office. See section 701 et seq. of Title 31.
+
+#### Transfer of Functions
+For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out in the Appendix to Title 5, Government Organization and Employees.
 
 
 <a id="section-9"></a>
@@ -211,11 +213,11 @@ The Commissioner of Indian Affairs is authorized to send a special Indian Agent,
 
 ### Statutory Notes
 
-#### Transfer of Functions
-For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out in the Appendix to Title 5, Government Organization and Employees.
-
 #### Indian Agents
 The services of Indian agents have been dispensed with. See note set out under [section 64 of this title](./chapter-002-officers-of-indian-affairs.md#section-64).
+
+#### Transfer of Functions
+For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out in the Appendix to Title 5, Government Organization and Employees.
 
 
 <a id="section-13"></a>
@@ -242,9 +244,6 @@ Amendment by Pub. L. 94–482 effective 30 days after Oct. 12, 1976, except eith
 #### Short Title
 Act Nov. 2, 1921, which enacted this section, is popularly known as the “Snyder Act”.
 
-#### Transfer of Functions
-For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out in the Appendix to Title 5, Government Organization and Employees.
-
 #### Availability of Housing Improvement Program Grant Repayments for Program Obligations
 Pub. L. 101–121, title I, Oct. 23, 1989, 103 Stat. 714, provided: “That hereafter, notwithstanding any other provision of law, amounts collected from grantees by the Secretary as grant repayments required under the Secretary’s regulations for the Housing Improvement Program shall be credited in the year collected and shall be available for obligation under the terms and conditions applicable to the Program under that year’s appropriation”.
 
@@ -253,6 +252,9 @@ Pub. L. 95–561, title XI, § 1102, Nov. 1, 1978, 92 Stat. 2316, provided that:
 
 #### Payments for Basic Educational Support Grants or Contracts; Authorization; Time
 Pub. L. 95–561, title XI, § 1103(a), Nov. 1, 1978, 92 Stat. 2316, as amended by Pub. L. 96–46, § 2(b)(1), Aug. 6, 1979, 93 Stat. 341, provided that payments for basic educational support grants or contracts for fiscal year 1978, including any fiscal year 1978 funds subsequently obligated in fiscal year 1979, were to be made under the authority of act Apr. 16, 1934, and set forth conditions, time, etc., for payments.
+
+#### Transfer of Functions
+For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out in the Appendix to Title 5, Government Organization and Employees.
 
 
 <a id="section-13a"></a>

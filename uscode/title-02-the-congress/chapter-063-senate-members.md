@@ -140,9 +140,7 @@ Pub. L. 105–55, title I, § 3(d), Oct. 7, 1997, 111 Stat. 1180, provided that:
 
   (B) metered charges for use of copying equipment provided by the Sergeant at Arms and Doorkeeper of the Senate;
 
-(3)
-
-  (A) Repealed. Pub. L. 101–520, title I, § 11, Nov. 5, 1990, 104 Stat. 2260] (B) postage on, and fees and charges in connection with official mail matter sent through the mail other than the franking privilege upon certification by the Senate Sergeant at Arms and subject to such regulations as may be promulgated by the Committee on Rules and Administration, and (C) costs incurred in the preparation of required official reports, and the acquisition of mailing lists to be used for official purposes, and in the mailing, delivery, or transmitting of matters relating to official business;
+(3) [(A) Repealed. Pub. L. 101–520, title I, § 11, Nov. 5, 1990, 104 Stat. 2260] (B) postage on, and fees and charges in connection with official mail matter sent through the mail other than the franking privilege upon certification by the Senate Sergeant at Arms and subject to such regulations as may be promulgated by the Committee on Rules and Administration, and (C) costs incurred in the preparation of required official reports, and the acquisition of mailing lists to be used for official purposes, and in the mailing, delivery, or transmitting of matters relating to official business;
 
 (4) official office expenses incurred (other than for equipment and furniture and expenses described in paragraphs (1) through (3)) for an office in his home State;
 
@@ -377,6 +375,9 @@ Amendment by Pub. L. 93–371 effective on and after July 1, 1974, see [section 
 
 #### Effective Date of 1973 Amendment
 Pub. L. 93–145, § 101, Nov. 1, 1973, 87 Stat. 532, provided that the amendment made by Pub. L. 93–145 is effective Jan. 1, 1973.
+
+#### Senate Democratic Leadership Offices Funding and Authorities
+Reference to the Office of the Secretary of the majority or minority conference of the Senate, as applicable, that represents the Democratic party deemed to be a reference to the Office of the Assistant Leader of the applicable conference, under certain conditions during the 117th Congress, see section 104 of div. I of Pub. L. 116–260, set out as a note under [section 6154 of this title](./chapter-061-senate-leadership.md#section-6154).
 
 #### Increase in Certain Authorized Expense Limits Effective October 1, 1994
 For provisions increasing each of the figures contained in subsec. (b)(3)(A)(iii) of this section by $50,000 effective Oct. 1, 1994, see section 5 of Pub. L. 103–283, set out as a Mass Mailings by Senators note under [section 3210 of Title 39](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title39-section3210&num=0&edition=prelim), Postal Service.

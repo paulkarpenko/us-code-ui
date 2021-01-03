@@ -101,6 +101,9 @@ Provisions similar to those in this section were contained in [section 275 of th
 #### Effective Date
 Section effective Dec. 1, 1994, except as otherwise provided, see section 1691 of Pub. L. 103–337, set out as a note under [section 10001 of this title](./chapter-1001-definitions.md#section-10001).
 
+#### Records of Service for Reserves
+Pub. L. 116–92, div. A, title V, § 570, Dec. 20, 2019, 133 Stat. 1397, provided that: “(a) Establishment.—Not later than September 30, 2020, the Secretary of Defense shall establish and implement a standard record of service for members of the reserve components of the Armed Forces, similar to DD Form 214, that summarizes the record of service of each such member, including dates of active duty service. “(b) Coordination.—In carrying out this section, the Secretary of Defense shall coordinate with the Secretary of Veterans Affairs to ensure that the record established under this section is acceptable as proof of service for former members of the reserve components of the Armed Forces who are eligible for benefits under laws administered by the Secretary of Veterans Affairs to receive such benefits.”
+
 
 <a id="section-10205"></a>
 ## § 10205. Members of Ready Reserve: requirement of notification of change of status
@@ -573,7 +576,7 @@ Pub. L. 114–92, div. A, title X, § 1053(a), Nov. 25, 2015, 129 Stat. 981, as 
 
 (3) In the case of a position converted under paragraph (2) for which there is an incumbent employee on October 1, 2017, the Secretary shall fill that position, as converted, with the incumbent employee without regard to any requirement concerning competition or competitive hiring procedures.
 
-(4) Any individual newly hired or employed, or rehired or employed, to a position required to be filled by reason of paragraph (1) shall 11 So in original. The word “be” probably should appear. an individual employed in such position under [section 3101 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section3101&num=0&edition=prelim) or [section 1601 of this title](./chapter-083-civilian-defense-intelligence-employees.md#section-1601).
+(4) Any individual newly hired or employed, or rehired or employed, to a position required to be filled by reason of paragraph (1) shall be an individual employed in such position under [section 3101 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section3101&num=0&edition=prelim) or [section 1601 of this title](./chapter-083-civilian-defense-intelligence-employees.md#section-1601).
 
 ### Statutory Notes
 
@@ -581,6 +584,8 @@ Pub. L. 114–92, div. A, title X, § 1053(a), Nov. 25, 2015, 129 Stat. 981, as 
 Section 8016 of the Department of Defense Appropriations Act, 1996 (Public Law 104–61; 109 Stat. 654), referred to in subsec. (b)(4), was set out as a note under [section 10101 of this title](./chapter-1003-reserve-components-generally.md#section-10101) prior to repeal by Pub. L. 105–85, div. A, title V, § 522(e), Nov. 18, 1997, 111 Stat. 1735.
 
 #### Amendments
+2019—Subsec. (e)(4). Pub. L. 116–92 substituted “shall be an individual” for “shall an individual”.
+
 2016—Subsec. (e). Pub. L. 114–328 amended subsec. (e) generally. Prior to amendment, subsec. (e) related to phased-in termination of non-dual status positions.
 
 2015—Subsec. (e). Pub. L. 114–92 added subsec. (e).
@@ -760,7 +765,11 @@ Pub. L. 106–65, div. A, title V, § 522(a)(3), Oct. 5, 1999, 113 Stat. 597, pr
 
   (B) members of a reserve component who are individual mobilization augmentees.
 
-**(g) Termination.—** The program under this section shall terminate on October 1, 2020.
+**(g) Triennial Evaluation.—** The Secretary shall evaluate the program every third year beginning in 2022 until the program terminates to determine whether the program effectively—
+
+(1) provides training and assistance under subsections (b), (c), and (d); and
+
+(2) implements subsection (e).
 
 ### Statutory Notes
 
@@ -768,8 +777,17 @@ Pub. L. 106–65, div. A, title V, § 522(a)(3), Oct. 5, 1999, 113 Stat. 597, pr
 Section 582 of the National Defense Authorization Act for Fiscal Year 2008, referred to in subsec. (a), is section 582 of Pub. L. 110–181, which is set out as a note under [section 10101 of this title](./chapter-1003-reserve-components-generally.md#section-10101).
 
 #### Amendments
+2021—Subsec. (h). Pub. L. 116–283 struck out subsec. (h). Text read as follows: “The program under this section shall terminate on October 1, 2025.”
+
+2019—Subsec. (g). Pub. L. 116–92 added subsec. (g). Former subsec. (g) redesignated (h).
+
+Subsec. (h). Pub. L. 116–92, § 515(1), (2), redesignated subsec. (g) as (h) and substituted “2025” for “2020”.
+
 2017—Subsec. (g). Pub. L. 115–91 substituted “October 1, 2020” for “October 1, 2018”.
 
 2016—Subsec. (g). Pub. L. 114–328 substituted “October 1, 2018” for “October 1, 2017”.
 
 2013—Subsecs. (f), (g). Pub. L. 113–66 added subsec. (f) and redesignated former subsec. (f) as (g).
+
+#### National Guard Suicide Prevention Pilot Program
+Pub. L. 116–92, div. A, title VII, § 739, Dec. 20, 2019, 133 Stat. 1464, provided that: “(a) Pilot Program Authorized.—The Chief of the National Guard Bureau may carry out a pilot program to expand suicide prevention and intervention efforts at the community level through the use of a mobile application that provides the capability for a member of the National Guard to receive prompt support, including access to a behavioral health professional, on a smartphone, tablet computer, or other handheld mobile device. “(b) Elements.—The pilot program shall include, subject to such conditions as the Secretary may prescribe—“(1) the use by members of the National Guard of an existing mobile application that provides the capability described in subsection (a); or “(2) the development and use of a new mobile application that provides such capability. “(c) Eligibility and Participation Requirements.—The Chief of the National Guard Bureau shall establish requirements with respect to eligibility and participation in the pilot program. “(d) Assessment Prior to Pilot Program Commencement.—Prior to commencement of the pilot program, the Chief of the National Guard Bureau shall—“(1) conduct an assessment of existing prevention and intervention efforts of the National Guard in each State that include the use of mobile applications that provide the capability described in subsection (a) to determine best practices for providing immediate and localized care through the use of such mobile applications; and “(2) determine the feasibility of expanding existing programs on a national scale. “(e) Responsibilities of Entities Participating in Pilot Program.—Each entity that participates in the pilot program shall—“(1) share best practices with other entities participating in the program; and “(2) annually assess outcomes with respect to members of the National Guard. “(f) Term.—The pilot program shall terminate on the date that is three years after the date on which the pilot program commenced. “(g) Reports.—“(1) Initial report.—If the Chief of the National Guard Bureau commences the pilot program authorized under subsection (a), not later than 180 days after the date of the commencement of such program, the Chief shall submit to the Committees on Armed Services of the Senate and the House of Representatives a report containing a description of the pilot program and such other matters as the Chief considers appropriate. “(2) Final report.—“(A) In general.—Not later than 180 days after the termination of the pilot program, the Chief of the National Guard Bureau shall submit to the Committees on Armed Services of the Senate and the House of Representatives a report on such pilot program. “(B) Matters included.—The report under subparagraph (A) shall include the following:“(i) A description of the pilot program, including any partnerships entered into by the Chief of the National Guard Bureau under the program. “(ii) An assessment of the effectiveness of the pilot program. “(iii) A description of costs associated with the implementation of the pilot program. “(iv) The estimated costs of making the pilot program permanent. “(v) A recommendation as to whether the pilot program should be extended or made permanent. “(vi) Such other recommendations for legislative or administrative action as the Chief of the National Guard Bureau considers appropriate. “(h) State Defined.—In this section, the term ‘State’ means each of the several States, the District of Columbia, the Commonwealth of Puerto Rico, American Samoa, Guam, the United States Virgin Islands, and the Commonwealth of the Northern Mariana Islands.”

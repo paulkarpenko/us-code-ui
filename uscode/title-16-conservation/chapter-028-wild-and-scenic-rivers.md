@@ -966,7 +966,7 @@ Section consists of subsec. (c) of section 1 of Pub. L. 90–542. Subsecs. (a) a
 
 (115) **South Fork Smith River, California.—** — The segment from its headwaters to its confluence with the main stem of the Smith River, and the following tributaries, to be administered by the Secretary of Agriculture in the following classes:
 
-  (A) The segment from its headwaters about 0.5 miles southwest of Bear Mountain, as depicted on 88 So in original. Probably should be “on the”. 1956 USGS 15° Preston Peak topographic map, to Blackhawk Bar, as a wild river.
+  (A) The segment from its headwaters about 0.5 miles southwest of Bear Mountain, as depicted on 1956 88 So in original. Probably should be preceded by “the”. USGS 15° Preston Peak topographic map, to Blackhawk Bar, as a wild river.
 
   (B) The segment from Blackhawk Bar to its confluence with the main stem of the Smith River, as a recreational river.
 
@@ -1000,7 +1000,7 @@ Section consists of subsec. (c) of section 1 of Pub. L. 90–542. Subsecs. (a) a
 
   (Q) Muzzleloader Creek from its headwaters in section 2, T. 15 N., R. 3 E., as depicted on the 1952 USGS 15° Ship Mountain topographic map, to its confluence with Jones Creek, as a recreational river.
 
-  (R) Canthook Creek from its headwaters in section 2, T. 15 N., R. 2 E., as depicted in 99 So in original. Probably should be “on”. the 1952 USGS 15° Ship Mountain topographic map, to its confluence with the South Fork Smith River, as a recreational river.
+  (R) Canthook Creek from its headwaters in section 2, T. 15 N., R. 2 E., as depicted in 2 the 1952 USGS 15° Ship Mountain topographic map, to its confluence with the South Fork Smith River, as a recreational river.
 
   (S) Rock Creek from the national forest boundary in section 6, T. 15 N., R. 2 E., as depicted on the 1952 USGS 15° Ship Mountain topographic map, to its confluence with the South Fork Smith River, as a recreational river.
 
@@ -1081,7 +1081,7 @@ Section consists of subsec. (c) of section 1 of Pub. L. 90–542. Subsecs. (a) a
     (i) The 10.5-mile segment from its confluence with Cascade Falls to its confluence with the South Branch Ontonagon, as a recreational river.
 
     (ii) The 4.5-mile segment from its confluence with the South Branch Ontonagon to Victoria Reservoir, as a recreational river.
-  Nothwithstanding 1010 So in original. Probably should be “Notwithstanding”. any limitation contained in this chapter, the Secretary is authorized to acquire lands and interests in lands which, as of August 1, 1990, were owned by Upper Peninsula Energy Corporation, and notwithstanding any such limitation, such lands shall be retained and managed by the Secretary as part of the Ottawa National Forest, and those lands so acquired which are within the boundaries of any segment designated under this paragraph shall be retained and managed pursuant to this chapter.
+  Nothwithstanding 99 So in original. Probably should be “Notwithstanding”. any limitation contained in this chapter, the Secretary is authorized to acquire lands and interests in lands which, as of August 1, 1990, were owned by Upper Peninsula Energy Corporation, and notwithstanding any such limitation, such lands shall be retained and managed by the Secretary as part of the Ottawa National Forest, and those lands so acquired which are within the boundaries of any segment designated under this paragraph shall be retained and managed pursuant to this chapter.
 
 (125) **Paint, Michigan.—** — Segments of the mainstream and certain tributaries, totaling 51 miles, to be administered by the Secretary of Agriculture as follows:
 
@@ -1218,7 +1218,7 @@ Section consists of subsec. (c) of section 1 of Pub. L. 90–542. Subsecs. (a) a
 
   (J) Babcock Creek, from its confluence with Great Egg Harbor River to headwaters, approximately 7.5 miles, as a recreational river;
 
-  (K) Gravelly Run, from its confluence with Great Egg Harbor River to Pennsylvania Railroad Right-of-Way,1111 So in original. Probably should not be capitalized. approximately 2.7 miles, as a recreational river;
+  (K) Gravelly Run, from its confluence with Great Egg Harbor River to Pennsylvania Railroad Right-of-Way,7 approximately 2.7 miles, as a recreational river;
 
   (L) Miry Run, from its confluence with Great Egg Harbor River to Asbury Road, approximately 1.7 miles, as a recreational river;
 
@@ -1236,7 +1236,7 @@ Section consists of subsec. (c) of section 1 of Pub. L. 90–542. Subsecs. (a) a
 
   (S) Patcong Creek, from its confluence with Great Egg Harbor River to Garden State Parkway, approximately 2.8 miles, as a recreational river;
 
-  (T) Tuckahoe River (lower segment) from its confluence with Great Egg Harbor River to the Route 50 bridge,1212 So in original. Probably should be capitalized. approximately 9 miles, as a scenic river;
+  (T) Tuckahoe River (lower segment) from its confluence with Great Egg Harbor River to the Route 50 bridge,1010 So in original. Probably should be capitalized. approximately 9 miles, as a scenic river;
 
   (U) Tuckahoe River, from the Route 50 Bridge to Route 49 Bridge, approximately 7.3 miles, as a recreational river; and
 
@@ -1302,7 +1302,7 @@ Section consists of subsec. (c) of section 1 of Pub. L. 90–542. Subsecs. (a) a
 
     (ii) The 1.7-mile segment of the Sudbury River from the Route 2 Bridge downstream to its confluence with the Assabet River at Egg Rock, as a recreational river.
 
-    (iii) The 4.4-mile segment of the Assabet River beginning 1,000 feet downstream from the Damon Mill Dam in the town of Concord, to its confluence with the Sudbury River at Egg Rock in Concord; 1313 So in original. The semicolon probably should be a comma. as a recreational river.
+    (iii) The 4.4-mile segment of the Assabet River beginning 1,000 feet downstream from the Damon Mill Dam in the town of Concord, to its confluence with the Sudbury River at Egg Rock in Concord; 1111 So in original. The semicolon probably should be a comma. as a recreational river.
 
     (iv) The 8-mile segment of the Concord River from Egg Rock at the confluence of the Sudbury and Assabet Rivers downstream to the Route 3 Bridge in the town of Billerica, as a recreational river.
 
@@ -1434,7 +1434,7 @@ Section consists of subsec. (c) of section 1 of Pub. L. 90–542. Subsecs. (a) a
 
     (i) As a recreational river from its headwaters in the El Yunque Recreation Area downstream to La Mina Falls, a total of approximately 0.9 miles.
 
-    (ii) As a scenic river from La Mina falls 1414 So in original. Probably should be capitalized. downstream to its confluence with the Rio Mameyes, a total of approximately 1.2 miles.
+    (ii) As a scenic river from La Mina falls 10 downstream to its confluence with the Rio Mameyes, a total of approximately 1.2 miles.
 
   (C) *Rio icacos.—* — The segment of approximately 2.3 miles from its headwaters to the boundary of the Caribbean National Forest, to be administered by the Secretary of Agriculture as a scenic river.
 
@@ -1848,11 +1848,11 @@ Section consists of subsec. (c) of section 1 of Pub. L. 90–542. Subsecs. (a) a
 
 (217) **Nestucca river, oregon.—** — The approximately 15.5-mile segment from its confluence with Ginger Creek downstream until it crosses the western edge of T. 4 S., R. 7 W., sec. 7, Willamette Meridian, to be administered by the Secretary of the Interior as a recreational river.
 
-(218) **Walker creek, oregon.—** — The approximately 2.9-mile segment from the headwaters in T. 3 S., R. 6 W., sec. 20 1515 So in original. Probably should be followed by “, Willamette Meridian,”. downstream to the confluence with the Nestucca River in T. 3 S., R. 6 W., sec. 15, Willamette Meridian, to be administered by the Secretary of the Interior as a recreational river.
+(218) **Walker creek, oregon.—** — The approximately 2.9-mile segment from the headwaters in T. 3 S., R. 6 W., sec. 20 1212 So in original. Probably should be followed by “, Willamette Meridian,”. downstream to the confluence with the Nestucca River in T. 3 S., R. 6 W., sec. 15, Willamette Meridian, to be administered by the Secretary of the Interior as a recreational river.
 
-(219) **North fork silver creek, oregon.—** — The approximately 6-mile segment from the headwaters in T. 35 S., R. 9 W., sec. 1 15 downstream to the western edge of the Bureau of Land Management boundary in T. 35 S., R. 9 W., sec. 17, Willamette Meridian, to be administered by the Secretary of the Interior as a recreational river.
+(219) **North fork silver creek, oregon.—** — The approximately 6-mile segment from the headwaters in T. 35 S., R. 9 W., sec. 1 12 downstream to the western edge of the Bureau of Land Management boundary in T. 35 S., R. 9 W., sec. 17, Willamette Meridian, to be administered by the Secretary of the Interior as a recreational river.
 
-(220) **Jenny creek, oregon.—** — The approximately 17.6-mile segment from the Bureau of Land Management boundary located at the north boundary of the southwest quarter of the southeast quarter 1616 So in original. of T. 38 S., R. 4 E., sec. 34, Willamette Meridian, downstream to the Oregon State border, to be administered by the Secretary of the Interior as a scenic river.
+(220) **Jenny creek, oregon.—** — The approximately 17.6-mile segment from the Bureau of Land Management boundary located at the north boundary of the southwest quarter of the southeast quarter 1313 So in original. of T. 38 S., R. 4 E., sec. 34, Willamette Meridian, downstream to the Oregon State border, to be administered by the Secretary of the Interior as a scenic river.
 
 (221) **Spring creek, oregon.—** — The approximately 1.1-mile segment from its source at Shoat Springs in T. 40 S., R. 4 E., sec. 34, Willamette Meridian, downstream to the confluence with Jenny Creek in T. 41 S., R. 4 E., sec. 3, Willamette Meridian, to be administered by the Secretary of the Interior as a scenic river.
 
@@ -1894,9 +1894,9 @@ Section consists of subsec. (c) of section 1 of Pub. L. 90–542. Subsecs. (a) a
 
   (F) The approximately 4-mile segment of the Pawcatuck River from South County Trail Bridge, Charlestown and South Kingstown, Rhode Island, to the Carolina Back Road Bridge in Richmond and Charlestown, Rhode Island, as a recreational river.
 
-  (G) The approximately 21-mile segment of the Pawcatuck River from Carolina Back Road Bridge in Richmond and Charlestown, Rhode Island, to the confluence with Shunock 1717 So in original. Probably should be preceded by “the”. River in Stonington, Connecticut, as a scenic river.
+  (G) The approximately 21-mile segment of the Pawcatuck River from Carolina Back Road Bridge in Richmond and Charlestown, Rhode Island, to the confluence with Shunock 8 River in Stonington, Connecticut, as a scenic river.
 
-  (H) The approximately 8-mile segment of the Pawcatuck River from the confluence with Shunock 17 River in Stonington, Connecticut, to the mouth of the river between Pawcatuck Point in Stonington, Connecticut, and Rhodes Point in Westerly, Rhode Island, as a recreational river.
+  (H) The approximately 8-mile segment of the Pawcatuck River from the confluence with Shunock 8 River in Stonington, Connecticut, to the mouth of the river between Pawcatuck Point in Stonington, Connecticut, and Rhodes Point in Westerly, Rhode Island, as a recreational river.
 
   (I) The approximately 11-mile segment of the Queen River from its headwaters in Exeter and West Greenwich, Rhode Island, to the Kingstown Road Bridge in South Kingstown, Rhode Island, as a scenic river.
 
@@ -1922,7 +1922,7 @@ Section consists of subsec. (c) of section 1 of Pub. L. 90–542. Subsecs. (a) a
 
     (i) with respect to the Ice House hydroelectric project (FERC P–12769), from 700 feet upstream from the crest of the dam to 500 feet downstream from the crest of the dam;
 
-    (ii) with respect to the Pepperell hydroelectric project (FERC P12721 1818 So in original. Probably should be “P–12721”. ), from 9,240 feet upstream from the crest of the dam to 1,000 feet downstream from the crest of the dam; and
+    (ii) with respect to the Pepperell hydroelectric project (FERC P12721 1414 So in original. Probably should be “P–12721”. ), from 9,240 feet upstream from the crest of the dam to 1,000 feet downstream from the crest of the dam; and
 
     (iii) with respect to the Hollingsworth and Vose dam (non-FERC), from 1,200 feet upstream from the crest of the dam to 2,665 feet downstream from the crest of the dam.
 
@@ -1944,7 +1944,7 @@ Section consists of subsec. (c) of section 1 of Pub. L. 90–542. Subsecs. (a) a
 
     (ii) The 0.5-mile segment from 0.25 mile upstream of the Road 3N34 crossing to 0.25 mile downstream of the Road 3N34 crossing, as a scenic river.
 
-    (iii) The 2.5-mile segment from 0.25 miles downstream of the Road 3 N. 34 1919 So in original. Probably should be “Road 3N34”. crossing to 0.25 miles upstream of the Trail 2W01 crossing, as a wild river.
+    (iii) The 2.5-mile segment from 0.25 miles downstream of the Road 3 N. 34 1515 So in original. Probably should be “Road 3N34”. crossing to 0.25 miles upstream of the Trail 2W01 crossing, as a wild river.
 
     (iv) The 0.5-mile segment from 0.25 miles upstream of the Trail 2W01 crossing to 0.25 mile downstream of the Trail 2W01 crossing, as a scenic river.
 
@@ -1976,7 +1976,7 @@ Section consists of subsec. (c) of section 1 of Pub. L. 90–542. Subsecs. (a) a
 
   (G) The 3.6-mile segment of the main stem of the Whitewater River from the San Gorgonio Wilderness boundary to .25 miles upstream of the southern boundary of section 35, T. 2 S., R. 3 E., San Bernardino Meridian, as a recreational river.
 
-**(b) Establishment of boundaries; classification** The agency charged with the administration of each component of the national wild and scenic rivers system designated by subsection (a) of this section shall, within one year from the date of designation of such component under subsection (a) (except where a different date if 2020 So in original. Probably should be “is”. provided in subsection (a)), establish detailed boundaries therefor (which boundaries shall include an average of not more than 320 acres of land per mile measured from the ordinary high water mark on both sides of the river); and determine which of the classes outlined in [section 1273(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1273/b&num=0&edition=prelim) best fit the river or its various segments. Notice of the availability of the boundaries and classification, and of subsequent boundary amendments shall be published in the Federal Register and shall not become effective until ninety days after they have been forwarded to the President of the Senate and the Speaker of the House of Representatives.
+**(b) Establishment of boundaries; classification** The agency charged with the administration of each component of the national wild and scenic rivers system designated by subsection (a) of this section shall, within one year from the date of designation of such component under subsection (a) (except where a different date if 1616 So in original. Probably should be “is”. provided in subsection (a)), establish detailed boundaries therefor (which boundaries shall include an average of not more than 320 acres of land per mile measured from the ordinary high water mark on both sides of the river); and determine which of the classes outlined in [section 1273(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1273/b&num=0&edition=prelim) best fit the river or its various segments. Notice of the availability of the boundaries and classification, and of subsequent boundary amendments shall be published in the Federal Register and shall not become effective until ninety days after they have been forwarded to the President of the Senate and the Speaker of the House of Representatives.
 
 **(c) Public inspection of maps and descriptions** Maps of all boundaries and descriptions of the classifications of designated river segments, and subsequent amendments to such boundaries, shall be available for public inspection in the offices of the administering agency in the District of Columbia and in locations convenient to the designated river.
 

@@ -39,7 +39,7 @@ In this subchapter, the term “Council” means the Federal Acquisition Regulat
 
   (A) *Officials who may be designated.—* — Notwithstanding section 121(d)(1) and (2) of title 40, the officials specified in subparagraphs (B) to (D) of paragraph (1) may designate to serve on and attend meetings of the Council in place of that official—
 
-    (i) the official assigned by statute with the responsibility for acquisition policy in each of their respective agencies or, in the case of the Secretary of Defense, an official at an organizational level not lower than an Assistant Secretary of Defense within the Office of the Under Secretary of Defense for Acquisition, Technology, and Logistics; or
+    (i) the official assigned by statute with the responsibility for acquisition policy in each of their respective agencies or, in the case of the Secretary of Defense, an official at an organizational level not lower than an Assistant Secretary of Defense within the Office of the Under Secretary of Defense for Acquisition and Sustainment; or
 
     (ii) if no official of that agency is assigned by statute with the responsibility for acquisition policy for that agency, the official designated pursuant to [section 1702(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section1702/c&num=0&edition=prelim).
 
@@ -58,6 +58,9 @@ In subsection (a), the words “(hereinafter in this section referred to as the 
 In subsection (b)(2)(A)(i), the words “Under Secretary of Defense for Acquisition, Technology, and Logistics” are substituted for “Under Secretary of Defense for Acquisition and Technology” because of section 911(a)(1) of the National Defense Authorization Act for Fiscal Year 2000 (Public Law 106–65, 113 Stat. 717, [10 U.S.C. 133](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section133&num=0&edition=prelim) note).
 
 In subsection (b)(2)(A)(ii), the cross-reference to section 16(3) of the Office of Federal Procurement Policy Act (41:414(3)) is treated as a cross-reference to section 16(c) of the Act to reflect the amendment of section 16 by section 1421(a)(1) of the National Defense Authorization Act for Fiscal Year 2004 (Public Law 108–136, 117 Stat. 1666).
+
+#### Amendments
+2019—Subsec. (b)(2)(A)(i). Pub. L. 116–92 substituted “Under Secretary of Defense for Acquisition and Sustainment” for “Under Secretary of Defense for Acquisition, Technology, and Logistics”.
 
 #### Status of Director of Defense Procurement
 Pub. L. 102–190, div. A, title VIII, § 809, Dec. 5, 1991, 105 Stat. 1423, as amended by Pub. L. 103–160, div. A, title IX, § 904(f), Nov. 30, 1993, 107 Stat. 1729; Pub. L. 106–65, div. A, title IX, § 911(a)(1), Oct. 5, 1999, 113 Stat. 717, provided that: “For the purposes of the amendment made by section 807 of the National Defense Authorization Act for Fiscal Year 1991 (Public Law 101–510; 104 Stat. 1593) to section 25(b)(2) of the Office of Federal Procurement Policy Act ([former] [41 U.S.C. 421(b)(2)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section421/b/2&num=0&edition=prelim)) [now [41 U.S.C. 1302(b)(2)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section1302/b/2&num=0&edition=prelim)], the Director of Defense Procurement of the Department of Defense shall be considered to be an official at an organizational level of an Assistant Secretary of Defense within the Office of the Under Secretary of Defense for Acquisition, Technology, and Logistics.”
@@ -197,7 +200,7 @@ Barack Obama.
 
 (2) the Administrator;
 
-(3) the Under Secretary of Defense for Acquisition, Technology, and Logistics;
+(3) the Under Secretary of Defense for Acquisition and Sustainment;
 
 (4) the chief acquisition officer of each executive agency that is required to have a chief acquisition officer under [section 1702 of this title](./chapter-017-chapter-17.md#section-1702) and the senior procurement executive of each military department; and
 
@@ -224,6 +227,9 @@ Barack Obama.
 | 1311(c)(2) | 41:414b(c)(2). |  |
 | 1311(c)(3) | 41:414b(c)(1). |  |
 | 1311(c)(4) | 41:414b(c)(3). |  |
+
+#### Amendments
+2019—Subsec. (b)(3). Pub. L. 116–92 substituted “Under Secretary of Defense for Acquisition and Sustainment” for “Under Secretary of Defense for Acquisition, Technology, and Logistics”.
 
 
 <a id="section-1312"></a>

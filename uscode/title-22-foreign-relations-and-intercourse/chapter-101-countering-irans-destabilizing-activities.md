@@ -2,7 +2,7 @@
 title: 22
 chapter: '101'
 heading: COUNTERING IRAN’S DESTABILIZING ACTIVITIES
-section_count: 11
+section_count: 12
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22&num=0&edition=prelim
 ---
@@ -453,3 +453,36 @@ For delegation of functions of President under subsec. (b) of this section to th
 
 #### Delegation of Functions
 For delegation of functions of President under this section to the Secretary of State, in consultation with the Secretary of the Treasury, see section 1(b)(vi) of Memorandum of President of the United States, Oct. 11, 2017, 82 F.R. 50051, set out in a note under [section 9403 of this title](./chapter-101-countering-irans-destabilizing-activities.md#section-9403).
+
+
+<a id="section-9412"></a>
+## § 9412. Report and annual briefing on Iranian expenditures supporting foreign military and terrorist activities
+**(a) Report**
+
+(1) **Report required** — Not later than 90 days after December 20, 2019, the Director of National Intelligence shall submit to the congressional intelligence committees a report, and not less frequently than once each year thereafter provide a briefing to Congress, describing Iranian expenditures in the previous calendar year on military and terrorist activities outside the country, including each of the following:
+
+  (A) The amount spent in such calendar year on activities by the Islamic Revolutionary Guard Corps, including activities providing support for—
+
+    (i) Hizballah;
+
+    (ii) Houthi rebels in Yemen;
+
+    (iii) Hamas;
+
+    (iv) proxy forces in Iraq and Syria; or
+
+    (v) any other entity or country the Director determines to be relevant.
+
+  (B) The amount spent in such calendar year for ballistic missile research and testing or other activities that the Director determines are destabilizing to the Middle East region.
+
+(2) **Form** — The report required under subsection (a) 11 So in original. Probably should be “paragraph (1)”. shall be submitted in unclassified form, but may include a classified annex.
+
+**(b) Annual briefing** Following the submission of the report under subsection (a), the Director shall annually provide a briefing to the congressional intelligence committees on the information described in such subsection.
+
+### Statutory Notes
+
+#### Codification
+Section was enacted as part of the Damon Paul Nelson and Matthew Young Pollard Intelligence Authorization Act for Fiscal Years 2018, 2019, and 2020, and also as part of the National Defense Authorization Act for Fiscal Year 2020, and not as part of the Countering Iran’s Destabilizing Activities Act of 2017 which comprises this chapter.
+
+#### Definitions
+“Congressional intelligence committees” means the Select Committee on Intelligence of the Senate and the Permanent Select Committee on Intelligence of the House of Representatives, see section 5003 of Pub. L. 116–92, set out as a note under [section 3003 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3003&num=0&edition=prelim), War and National Defense.

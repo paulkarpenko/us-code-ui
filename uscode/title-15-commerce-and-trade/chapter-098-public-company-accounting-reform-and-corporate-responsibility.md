@@ -2,7 +2,7 @@
 title: 15
 chapter: '98'
 heading: PUBLIC COMPANY ACCOUNTING REFORM AND CORPORATE RESPONSIBILITY
-section_count: 28
+section_count: 29
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15&num=0&edition=prelim
 ---
@@ -155,6 +155,9 @@ Par. (17). Pub. L. 111–203, § 981(a), added par. (17).
 
 #### Effective Date of 2010 Amendment
 Amendment by Pub. L. 111–203 effective 1 day after July 21, 2010, except as otherwise provided, see section 4 of Pub. L. 111–203, set out as an Effective Date note under [section 5301 of Title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section5301&num=0&edition=prelim), Banks and Banking.
+
+#### Short Title of 2020 Amendment
+Pub. L. 116–222, § 1, Dec. 18, 2020, 134 Stat. 1063, provided that: “This Act [enacting [section 7214a of this title](./chapter-098-public-company-accounting-reform-and-corporate-responsibility.md#section-7214a) and amending [section 7214 of this title](./chapter-098-public-company-accounting-reform-and-corporate-responsibility.md#section-7214)] may be cited as the ‘Holding Foreign Companies Accountable Act’.”
 
 #### Short Title
 Pub. L. 107–204, § 1(a), July 30, 2002, 116 Stat. 745, provided that: “This Act [see Tables for classification] may be cited as the ‘Sarbanes-Oxley Act of 2002’.”
@@ -350,8 +353,8 @@ Subsec. (b)(2)(B), (G). Pub. L. 111–203, § 982(c)(2)(B), substituted “issue
 Amendment by Pub. L. 111–203 effective 1 day after July 21, 2010, except as otherwise provided, see section 4 of Pub. L. 111–203, set out as an Effective Date note under [section 5301 of Title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section5301&num=0&edition=prelim), Banks and Banking.
 
 
-<a id="section-7215"></a>
-## § 7215. Auditing, quality control, and independence standards and rules
+<a id="section-7214a"></a>
+## § 7214a. Auditing, quality control, and independence standards and rules
 **(a) Auditing, quality control, and ethics standards**
 
 (1) **In general** — The Board shall, by rule, establish, including, to the extent it determines appropriate, through adoption of standards proposed by 1 or more professional groups of accountants designated pursuant to paragraph (3)(A) or advisory groups convened pursuant to paragraph (4), and amend or otherwise modify or alter, such auditing and related attestation standards, such quality control standards, such ethics standards, and such independence standards to be used by registered public accounting firms in the preparation and issuance of audit reports, as required by this Act or the rules of the Commission, or as may be necessary or appropriate in the public interest or for the protection of investors.
@@ -436,8 +439,8 @@ Subsec. (a)(2)(B)(i). Pub. L. 111–203, § 982(d)(3), substituted “issuers, b
 Amendment by Pub. L. 111–203 effective 1 day after July 21, 2010, except as otherwise provided, see section 4 of Pub. L. 111–203, set out as an Effective Date note under [section 5301 of Title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section5301&num=0&edition=prelim), Banks and Banking.
 
 
-<a id="section-7216"></a>
-## § 7216. Inspections of registered public accounting firms
+<a id="section-7215"></a>
+## § 7215. Inspections of registered public accounting firms
 **(a) In general**
 
 (1) **Inspections generally** — The Board shall conduct a continuing program of inspections to assess the degree of compliance of each registered public accounting firm and associated persons of that firm with this Act, the rules of the Board, the rules of the Commission, or professional standards, in connection with its performance of audits, issuance of audit reports, and related matters involving issuers.
@@ -500,16 +503,110 @@ Amendment by Pub. L. 111–203 effective 1 day after July 21, 2010, except as ot
 
 (3) **Timing** — Review under paragraph (1) may be sought during the 30-day period following the date of the event giving rise to the review under subparagraph (A) or (B) of paragraph (1).
 
+**(i) Disclosure Regarding Foreign Jurisdictions That Prevent Inspections**
+
+(1) **Definitions** — In this subsection—
+
+  (A) the term “covered issuer” means an issuer that is required to file reports under section 78m or 78o(d) of this title; and
+
+  (B) the term “non-inspection year” means, with respect to a covered issuer, a year—
+
+    (i) during which the Commission identifies the covered issuer under paragraph (2)(A) with respect to every report described in subparagraph (A) filed by the covered issuer during that year; and
+
+    (ii) that begins after December 18, 2020.
+
+(2) **Disclosure to Commission** — The Commission shall—
+
+  (A) identify each covered issuer that, with respect to the preparation of the audit report on the financial statement of the covered issuer that is included in a report described in paragraph (1)(A) filed by the covered issuer, retains a registered public accounting firm that has a branch or office that—
+
+    (i) is located in a foreign jurisdiction; and
+
+    (ii) the Board is unable to inspect or investigate completely because of a position taken by an authority in the foreign jurisdiction described in clause (i), as determined by the Board; and
+
+  (B) require each covered issuer identified under subparagraph (A) to, in accordance with the rules issued by the Commission under paragraph (4), submit to the Commission documentation that establishes that the covered issuer is not owned or controlled by a governmental entity in the foreign jurisdiction described in subparagraph (A)(i).
+
+(3) **Trading prohibition after 3 years of non-inspections**
+
+  (A) *In general* — If the Commission determines that a covered issuer has 3 consecutive non-inspection years, the Commission shall prohibit the securities of the covered issuer from being traded—
+
+    (i) on a national securities exchange; or
+
+    (ii) through any other method that is within the jurisdiction of the Commission to regulate, including through the method of trading that is commonly referred to as the “over-the-counter” trading of securities.
+
+  (B) *Removal of initial prohibition* — If, after the Commission imposes a prohibition on a covered issuer under subparagraph (A), the covered issuer certifies to the Commission that the covered issuer has retained a registered public accounting firm that the Board has inspected under this section to the satisfaction of the Commission, the Commission shall end that prohibition.
+
+  (C) *Recurrence of non-inspection years* — If, after the Commission ends a prohibition under subparagraph (B) or (D) with respect to a covered issuer, the Commission determines that the covered issuer has a non-inspection year, the Commission shall prohibit the securities of the covered issuer from being traded—
+
+    (i) on a national securities exchange; or
+
+    (ii) through any other method that is within the jurisdiction of the Commission to regulate, including through the method of trading that is commonly referred to as the “over-the-counter” trading of securities.
+
+  (D) *Removal of subsequent prohibition* — If, after the end of the 5-year period beginning on the date on which the Commission imposes a prohibition on a covered issuer under subparagraph (C), the covered issuer certifies to the Commission that the covered issuer will retain a registered public accounting firm that the Board is able to inspect under this section, the Commission shall end that prohibition.
+
+(4) **Rules** — Not later than 90 days after December 18, 2020, the Commission shall issue rules that establish the manner and form in which a covered issuer shall make a submission required under paragraph (2)(B).
+
 ### Statutory Notes
 
 #### References in Text
 This Act, referred to in subsecs. (a)(1), (b), and (c), is Pub. L. 107–204, July 30, 2002, 116 Stat. 745, known as the Sarbanes-Oxley Act of 2002. For complete classification of this Act to the Code, see Tables.
 
 #### Amendments
+2020—Subsec. (i). Pub. L. 116–222 added subsec. (i).
+
 2010—Subsec. (a). Pub. L. 111–203 designated existing provisions as par. (1), inserted heading, and added par. (2).
 
 #### Effective Date of 2010 Amendment
 Amendment by Pub. L. 111–203 effective 1 day after July 21, 2010, except as otherwise provided, see section 4 of Pub. L. 111–203, set out as an Effective Date note under [section 5301 of Title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section5301&num=0&edition=prelim), Banks and Banking.
+
+
+<a id="section-7216"></a>
+## § 7216. Additional disclosure
+**(a) Definitions** In this section—
+
+(1) the term “audit report” has the meaning given the term in [section 7201(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section7201/a&num=0&edition=prelim);
+
+(2) the term “Commission” means the Securities and Exchange Commission;
+
+(3) the term “covered form”—
+
+  (A) means—
+
+    (i) the form described in section 249.310 of title 17, Code of Federal Regulations, or any successor regulation; and
+
+    (ii) the form described in section 249.220f of title 17, Code of Federal Regulations, or any successor regulation; and
+
+  (B) includes a form that—
+
+    (i) is the equivalent of, or substantially similar to, the form described in clause (i) or (ii) of subparagraph (A); and
+
+    (ii) a foreign issuer files with the Commission under the Securities Exchange Act of 1934 ([15 U.S.C. 78a](./chapter-2b-securities-exchanges.md#section-78a) et seq.) or rules issued under that Act;
+
+(4) the terms “covered issuer” and “non-inspection year” have the meanings given the terms in subsection (i)(1) of [section 7214 of this title](./chapter-098-public-company-accounting-reform-and-corporate-responsibility.md#section-7214), as added by section 2 of this Act; and
+
+(5) the term “foreign issuer” has the meaning given the term in section 240.3b–4 of title 17, Code of Federal Regulations, or any successor regulation.
+
+**(b) Requirement** Each covered issuer that is a foreign issuer and for which, during a non-inspection year with respect to the covered issuer, a registered public accounting firm described in subsection (i)(2)(A) of [section 7214 of this title](./chapter-098-public-company-accounting-reform-and-corporate-responsibility.md#section-7214), as added by section 2 of this Act, has prepared an audit report shall disclose in each covered form filed by that issuer that covers such a non-inspection year—
+
+(1) that, during the period covered by the covered form, such a registered public accounting firm has prepared an audit report for the issuer;
+
+(2) the percentage of the shares of the issuer owned by governmental entities in the foreign jurisdiction in which the issuer is incorporated or otherwise organized;
+
+(3) whether governmental entities in the applicable foreign jurisdiction with respect to that registered public accounting firm have a controlling financial interest with respect to the issuer;
+
+(4) the name of each official of the Chinese Communist Party who is a member of the board of directors of—
+
+  (A) the issuer; or
+
+  (B) the operating entity with respect to the issuer; and
+
+(5) whether the articles of incorporation of the issuer (or equivalent organizing document) contains any charter of the Chinese Communist Party, including the text of any such charter.
+
+### Statutory Notes
+
+#### References in Text
+The Securities Exchange Act of 1934, referred to in subsec. (a)(3)(B)(ii), is act June 6, 1934, ch. 404, 48 Stat. 881, which is classified principally to chapter 2B (§ 78a et seq.) of this title. For complete classification of this Act to the Code, see [section 78a of this title](./chapter-2b-securities-exchanges.md#section-78a) and Tables.
+
+Section 2 of this Act, referred to in subsecs. (a)(4) and (b), means section 2 of Pub. L. 116–222.
 
 
 <a id="section-7217"></a>
@@ -946,7 +1043,10 @@ Subsecs. (h) to (k). Pub. L. 111–203, § 982(h)(3), (4), added subsec. (h) and
 #### Effective Date of 2010 Amendment
 Amendment by Pub. L. 111–203 effective 1 day after July 21, 2010, except as otherwise provided, see section 4 of Pub. L. 111–203, set out as an Effective Date note under [section 5301 of Title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section5301&num=0&edition=prelim), Banks and Banking.
 
-#### Monetary penalties to fund scholarships for accounting students
+#### Obligation of Funds for Accounting Scholarship Program
+Pub. L. 116–93, div. C, title VI, § 620(b), Dec. 20, 2019, 133 Stat. 2481, provided that: “Beginning in fiscal year 2021 and for each fiscal year thereafter, the Board [Public Company Accounting Oversight Board] shall have authority to obligate funds for the scholarship program established by section 109(c)(2) of the Sarbanes-Oxley Act of 2002 (Public Law 107–204) [[15 U.S.C. 7219(c)(2)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section7219/c/2&num=0&edition=prelim)] in such fiscal year in an aggregate amount not exceeding the amounts of funds collected by the Board between October 1 and September 30 of such fiscal year, including accrued interest, as a result of the assessment of monetary penalties. Funds made available for obligation in any fiscal year shall be in addition to amounts made available in prior fiscal years and shall remain available until expended.”
+
+#### Monetary Penalties To Fund Scholarships for Accounting Students
 Pub. L. 116–6, div. D, title VI, § 620, Feb. 15, 2019, 133 Stat. 184, provided in part that: “Beginning in fiscal year 2020 and for each fiscal year thereafter, monetary penalties collected pursuant to [15 U.S.C. 7215](./chapter-098-public-company-accounting-reform-and-corporate-responsibility.md#section-7215) shall be deposited in the Public Company Accounting Oversight Board account as discretionary offsetting receipts.”
 
 

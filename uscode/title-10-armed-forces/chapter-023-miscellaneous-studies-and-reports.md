@@ -48,23 +48,31 @@ source: >-
 
 (3) The effectiveness of current processes for complaints on and investigations into racial and ethnic discrimination.
 
-**(c) Armed Forces Workplace and Gender Relations Surveys.—** The Armed Forces Workplace and Gender Relations Surveys shall be conducted so as to solicit information on gender issues, including issues relating to gender-based harassment, assault, and discrimination, and the climate in the armed forces for forming professional relationships between male and female members of the armed forces. Both such surveys shall be conducted so as to solicit information on the following:
+**(c) Armed Forces Workplace and Gender Relations Surveys.—** The Armed Forces Workplace and Gender Relations Surveys shall be conducted so as to solicit information on gender issues, including issues relating to gender-based harassment, assault (including unwanted sexual contact), and discrimination, and the climate in the armed forces for forming professional relationships between male and female members of the armed forces. Both such surveys shall be conducted so as to solicit information on the following:
 
 (1) Indicators of positive and negative trends for professional and personal relationships between male and female members of the armed forces.
 
-(2) The specific types of assault that have occurred, and the number of times each respondent has been assaulted during the preceding year.
+(2) The specific types of assault (including unwanted sexual contact) that have occurred, and the number of times each respondent has been assaulted during the preceding year.
 
 (3) The effectiveness of Department of Defense policies designed to improve professional relationships between male and female members of the armed forces.
 
-(4) The effectiveness of current processes for complaints on and investigations into gender-based discrimination, harassment, and assault.
+(4) The effectiveness of current processes for complaints on and investigations into gender-based discrimination, harassment, and assault (including unwanted sexual contact).
 
-(5) Any other issues relating to discrimination, harassment, or assault as the Secretary of Defense considers appropriate.
+(5) Any other issues relating to discrimination, harassment, or assault (including unwanted sexual contact) as the Secretary of Defense considers appropriate.
 
 **(d) When Surveys Required.—**
 
-(1) One of the two Armed Forces Workplace and Gender Relations Surveys shall be conducted in 2014 and then every second year thereafter and the other Armed Forces Workplace and Gender Relations Survey shall be conducted in 2015 and then every second year thereafter, so that one of the two surveys is being conducted each year.
+(1) The Armed Forces Workplace and Gender Relations Surveys of the Active Duty and the Armed Forces Workplace and Gender Relations Survey of the Reserve Components shall each be conducted once every two years. The surveys may be conducted within the same year or in two separate years, and shall be conducted in a manner designed to reduce the burden of the surveys on members of the armed forces.
 
-(2) The two Armed Forces Workplace and Equal Opportunity Surveys shall be conducted at least once every four years. The two surveys may not be conducted in the same year.
+(2) The two Armed Forces Workplace and Equal Opportunity Surveys shall be conducted at least once every four years. The surveys may be conducted within the same year or in two separate years, and shall be conducted in a manner designed to reduce the burden of the surveys on members of the armed forces.
+
+(3)
+
+  (A) The Secretary of Defense may postpone the conduct of a survey under this section if the Secretary determines that conducting such survey is not practicable due to a war or national emergency declared by the President or Congress.
+
+  (B) The Secretary shall ensure that a survey postponed under subparagraph (A) is conducted as soon as practicable after the end of the period of war or national emergency concerned, or earlier if the Secretary determines appropriate.
+
+  (C) The Secretary shall notify Congress of a determination under subparagraph (A) not later than 30 days after the date on which the Secretary makes such determination.
 
 **(e) Reports to Congress.—** Upon the completion of a survey under this section, the Secretary shall submit to Congress a report containing the results of the survey.
 
@@ -73,6 +81,10 @@ source: >-
 ### Statutory Notes
 
 #### Amendments
+2021—Subsec. (d). Pub. L. 116–283 amended subsec. (d) generally. Prior to amendment, subsec. (d) provided for timing and frequency of Armed Forces Workplace and Gender Relations Surveys and Armed Forces Workplace and Equal Opportunity Surveys.
+
+2019—Subsec. (c). Pub. L. 116–92 inserted “(including unwanted sexual contact)” after “assault” wherever appearing.
+
 2013—Subsec. (a)(1). Pub. L. 112–239, § 570(b)(1), substituted “four surveys” for “four quadrennial surveys (each in a separate year)”.
 
 Subsec. (c). Pub. L. 112–239, § 570(a)(1), substituted “harassment, assault, and discrimination” for “harassment and discrimination” in introductory provisions.
@@ -88,6 +100,9 @@ Subsec. (d). Pub. L. 112–239, § 570(b)(2), added subsec. (d) and struck out f
 1996—Pub. L. 104–201, § 1121(a), renumbered [section 451 of this title](./chapter-022-national-geospatial-intelligence-agency.md#section-451) as this section.
 
 Pub. L. 104–201, § 571(c)(1), substituted “Race relations, gender discrimination, and hate group activity: annual survey and report” for “Racial and ethnic issues; biennial survey; biennial report” as section catchline and amended text generally, substituting provisions requiring an annual survey and report for provisions requiring a biennial survey and report.
+
+#### Effective Date of 2019 Amendment
+Pub. L. 116–92, div. A, title V, § 591(c), Dec. 20, 2019, 133 Stat. 1414, provided that: “The amendments made by subsections (a) and (b) [amending this section and [section 481a of this title](./chapter-023-miscellaneous-studies-and-reports.md#section-481a)] shall take effect on the date of the enactment of this Act [Dec. 20, 2019] and shall apply with respect to surveys under sections 481 and 481a of title 10, United States Code, that are initiated after such date.”
 
 #### Effective Date of 2002 Amendment
 Pub. L. 107–314, div. A, title V, § 561(b), Dec. 2, 2002, 116 Stat. 2554, provided that: “The first survey under [section 481 of title 10](./chapter-023-miscellaneous-studies-and-reports.md#section-481), United States Code, as amended by subsection (a)(1), shall be carried out during 2003.”
@@ -106,7 +121,7 @@ Pub. L. 103–337, div. A, title V, § 554(b), Oct. 5, 1994, 108 Stat. 2773, req
 ## § 481a. Workplace and gender relations issues: surveys of Department of Defense civilian employees
 **(a) In General.—**
 
-(1) The Secretary of Defense shall carry out every other fiscal year a survey of civilian employees of the Department of Defense to solicit information on gender issues, including issues relating to gender-based assault, harassment, and discrimination, and the climate in the Department for forming professional relationships between male and female civilian employees of the Department.
+(1) The Secretary of Defense shall carry out every other fiscal year a survey of civilian employees of the Department of Defense to solicit information on gender issues, including issues relating to gender-based assault (including unwanted sexual contact), harassment, and discrimination, and the climate in the Department for forming professional relationships between male and female civilian employees of the Department.
 
 (2) Each survey under this section shall be known as a “Department of Defense Civilian Employee Workplace and Gender Relations Survey”.
 
@@ -114,17 +129,33 @@ Pub. L. 103–337, div. A, title V, § 554(b), Oct. 5, 1994, 108 Stat. 2773, req
 
 (1) Indicators of positive and negative trends for professional and personal relationships between male and female civilian employees of the Department of Defense.
 
-(2) The specific types of assault on civilian employees of the Department by other personnel of the Department (including contractor personnel) that have occurred, and the number of times each respondent has been so assaulted during the preceding fiscal year.
+(2) The specific types of assault (including unwanted sexual contact) on civilian employees of the Department by other personnel of the Department (including contractor personnel) that have occurred, and the number of times each respondent has been so assaulted during the preceding fiscal year.
 
 (3) The effectiveness of Department policies designed to improve professional relationships between male and female civilian employees of the Department.
 
-(4) The effectiveness of current processes for complaints on and investigations into gender-based assault, harassment, and discrimination involving civilian employees of the Department.
+(4) The effectiveness of current processes for complaints on and investigations into gender-based assault (including unwanted sexual contact), harassment, and discrimination involving civilian employees of the Department.
 
-(5) Any other issues relating to assault, harassment, or discrimination involving civilian employees of the Department that the Secretary considers appropriate.
+(5) Any other issues relating to assault (including unwanted sexual contact), harassment, or discrimination involving civilian employees of the Department that the Secretary considers appropriate.
 
 **(c) Report to Congress.—** Upon the completion of a survey under this section, the Secretary shall submit to Congress a report containing the results of the survey.
 
+**(d) Postponement.—**
+
+(1) The Secretary of Defense may postpone the conduct of a survey under this section if the Secretary determines that conducting such survey is not practicable due to a war or national emergency declared by the President or Congress.
+
+(2) The Secretary shall ensure that a survey postponed under paragraph (1) is conducted as soon as practicable after the end of the period of war or national emergency concerned, or earlier if the Secretary determines appropriate.
+
+(3) The Secretary shall notify Congress of a determination under paragraph (1) not later than 30 days after the date on which the Secretary makes such determination.
+
 ### Statutory Notes
+
+#### Amendments
+2021—Subsec. (d). Pub. L. 116–283 added subsec. (d).
+
+2019—Subsecs. (a), (b). Pub. L. 116–92 inserted “(including unwanted sexual contact)” after “assault” wherever appearing.
+
+#### Effective Date of 2019 Amendment
+Amendment by Pub. L. 116–92 effective Dec. 20, 2019, and applicable with respect to surveys under this section that are initiated after such date, see section 591(c) of Pub. L. 116–92, set out as a note under [section 481 of this title](./chapter-023-miscellaneous-studies-and-reports.md#section-481).
 
 #### Termination of Reporting Requirements
 For termination, effective Dec. 31, 2021, of provisions in subsec. (c) of this section requiring submittal of report to Congress, see section 1061 of Pub. L. 114–328, set out as a note under [section 111 of this title](./chapter-002-department-of-defense.md#section-111).
@@ -134,14 +165,36 @@ Pub. L. 113–291, div. A, title X, § 1073(a)(3), Dec. 19, 2014, 128 Stat. 3518
 
 
 <a id="section-482"></a>
-## § 482. Quarterly reports: personnel and unit readiness
-**(a) Quarterly Reports Required.—** Not later than 30 days after the end of each calendar-year quarter, the Secretary of Defense shall submit to Congress a report regarding the military readiness of the active and reserve components. The reports for the first and third quarters of a calendar year shall contain the information required by subsections (b), (d), (e), (f), and (g). The reports for the second and fourth quarters of a calendar year shall contain the information required by subsection (j).
+## § 482. Readiness reports
+**(a) Reports and Briefings.—**
 
-**(b) Readiness Problems.—** A report for the second or fourth quarter of a calendar year shall specifically describe—
+(1) Not later than 30 days after the end of the second and fourth quarter of each calendar year, the Secretary of Defense shall submit to Congress a report regarding the military readiness of the active and reserve components. The Secretary of Defense shall submit each such report in writing and shall also submit a copy of each such report to the Chairman of the Joint Chiefs of Staff.
 
-(1) each readiness problem and deficiency in the ground, sea, air, space, and cyber forces, and in such other such areas as determined by the Secretary of Defense, identified using the assessments considered under subsection (c); and
+(2) Not later than 30 days after the end of the first and third quarter of each calendar year, the Secretary of Defense shall provide to Congress a briefing regarding the military readiness of the active and reserve components.
 
-(2) the key indicators and other relevant information related to each identified problem and deficiency.
+(3) Each report under this subsection shall contain the elements required by subsection (b) for the quarter covered by the report, and each briefing shall address any changes to the elements described in subsection (b) since the submittal of the most recently submitted report.
+
+**(b) Required Elements.—** The elements described in this subsection are each of the following:
+
+(1) A description of each readiness problem or deficiency that affects the ground, sea, air, space, cyber, or special operations forces, and any other area determined appropriate by the Secretary of Defense.
+
+(2) The key contributing factors, indicators, and other relevant information related to each identified problem or deficiency.
+
+(3) The short-term mitigation strategy the Department will employ to address each readiness problem or deficiency until a resolution is in place, as well as the timeline, cost, and any legislative remedies required to support the resolution.
+
+(4) A summary of combat readiness ratings for the key force elements assessed, including specific information on personnel, supply, equipment, and training problems or deficiencies that affect the combat readiness ratings for each force element.
+
+(5) A summary of each upgrade or downgrade of the combat readiness of a unit that was issued by the commander of the unit, together with the rationale of the commander for the issuance of such upgrade or downgrade.
+
+(6) A summary of the readiness of supporting capabilities, including infrastructure, prepositioned equipment and supplies, and mobility assets, and other supporting logistics capabilities.
+
+(7) A summary of the readiness of the combat support and related agencies, any readiness problem or deficiency affecting any mission essential tasks of any such agency, and actions recommended to address any such problem or deficiency.
+
+(8) A list of all Class A, Class B, and Class C mishaps that occurred in operations related to combat support and training events involving aviation, ground, or naval platforms, weapons, space, or Government vehicles, as defined by Department of Defense Instruction 6055.07, or a successor instruction.
+
+(9) Information on the extent to which units of the armed forces have removed serviceable parts, supplies, or equipment from one vehicle, vessel, or aircraft in order to render a different vehicle, vessel, or aircraft operational.
+
+(10) Such other information as determined necessary or appropriate by the Secretary of Defense.
 
 **(c) Consideration of Readiness Assessments.—** The information required under subsection (b) to be included in the report for a quarter shall be based on readiness assessments that are provided during that quarter—
 
@@ -155,77 +208,29 @@ Pub. L. 113–291, div. A, title X, § 1073(a)(3), Dec. 19, 2014, 128 Stat. 3518
 
 (3) as part of any regularly established process of periodic readiness reviews for the Department of Defense as a whole.
 
-**(d) Combatant Command Assessments.—**
+**(d) Semi-Annual Joint Force Readiness Review.—**
 
-(1) A report for the second or fourth quarter of a calendar year shall also include an assessment by each commander of a geographic or functional combatant command of the ability of the command to successfully execute each of the assigned missions of the command. Each such assessment for a combatant command shall also include a list of the mission essential tasks for each assigned mission of the command and an assessment of the ability of the command to successfully complete each task within prescribed timeframes.
+(1) Not later than 30 days after the last day of the first and third quarter of each calendar year, the Chairman of the Joint Chiefs of Staff shall submit to Congress a written report on the capability of the armed forces, the combat support and related agencies, operational contract support, and the geographic and functional combatant commands to execute their wartime missions based upon their posture and readiness as of the time the review is conducted.
 
-(2) A report for the second or fourth quarter of a calendar year under this section shall also include an assessment by each commander of a geographic or functional combatant command of the readiness of the command to conduct operations in a multidomain battle that integrates ground, air, sea, space, and cyber forces.
+(2) The Chairman shall produce the report required under this subsection using information derived from the quarterly reports required by subsection (a).
 
-(3) For purposes of this subsection, the term “assigned mission” means any contingency response program plan, theater campaign plan, or named operation that is approved and assigned by the Joint Chiefs of Staff.
+(3) Each report required by this subsection shall include an assessment by each commander of a geographic or functional combatant command of the readiness of the command to conduct operations in a multidomain battle that integrates ground, sea, air, space, cyber, and special operations forces.
 
-**(e) Risk Assessment of Dependence on Contractor Support.—** A report for the second or fourth quarter of a calendar year shall also include an assessment by the Chairman of the Joint Chiefs of Staff of the level of risk incurred by using contract support in contingency operations as required under Department of Defense Instruction 1100.22, “Policies and Procedures for Determining Workforce Mix”.
+(4) The Chairman shall submit to the Secretary of Defense a copy of each report under this subsection.
 
-**(f) Combat Support and Related Agencies Assessment.—**
-
-(1) A report for the second or fourth quarter of a calendar year shall also include an assessment by the Secretary of Defense of the military readiness of the combat support and related agencies, including, for each such agency—
-
-  (A) a determination with respect to the responsiveness and readiness of the agency to support operating forces in the event of a war or threat to national security, including—
-
-    (i) a list of mission essential tasks and an assessment of the ability of the agency to successfully perform those tasks;
-
-    (ii) an assessment of how the ability of the agency to accomplish the tasks referred to in subparagraph (A) affects the ability of the military departments and the unified and geographic combatant commands to execute operations and contingency plans by number;
-
-    (iii) any readiness deficiencies and actions recommended to address such deficiencies; and
-
-    (iv) key indicators and other relevant information related to any deficiency or other problem identified;
-
-  (B) any recommendations that the Secretary considers appropriate.
-
-(2) In this subsection, the term “combat support and related agencies” means any of the following Defense Agencies:
-
-  (A) The Defense Information Systems Agency.
-
-  (B) The Defense Intelligence Agency.
-
-  (C) The Defense Logistics Agency.
-
-  (D) The National Geospatial-Intelligence Agency (but only with respect to combat support functions that the agencies perform for the Department of Defense).
-
-  (E) The Defense Contract Management Agency.
-
-  (F) The Defense Threat Reduction Agency.
-
-  (G) The National Reconnaissance Office.
-
-  (H) The National Security Agency (but only with respect to combat support functions that the agencies perform for the Department of Defense) and Central Security Service.
-
-  (I) Any other Defense Agency designated as a combat support agency by the Secretary of Defense.
-
-**(g) Major Exercise Assessments.—**
-
-(1) A report for the second or fourth quarter of a calendar year under this section shall also include information on each major exercise conducted by a geographic or functional combatant command or military department, including—
-
-  (A) a list of exercises by name for the period covered by the report;
-
-  (B) the cost and location of each such exercise; and
-
-  (C) a list of participants by country or military department.
-
-(2) In this subsection, the term “major exercise” means a named major training event, an integrated or joint exercise, or a unilateral major exercise.
-
-**(h) Cannibalization Rates.—** Each report under this section shall include a separate unclassified report containing the information collected pursuant to [section 117(c)(7) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section117/c/7&num=0&edition=prelim).
-
-**(i) Classification of Reports.—** A report under this section shall be submitted in unclassified form. To the extent the Secretary of Defense determines necessary, the report may also be submitted in classified form.
-
-**(j) Remedial Actions.—** A report for the first or third quarter of a calendar year shall include—
-
-(1) a description of the mitigation plans of the Secretary to address readiness shortfalls and operational deficiencies identified in the report submitted for the preceding calendar quarter; and
-
-(2) for each such shortfall or deficiency, a timeline for resolution, the cost necessary for such resolution, the mitigation strategy the Department will employ until the resolution is in place, and any legislative remedies required.
+**(e) Classification of Reports.—** A report under this section shall be submitted in unclassified form. To the extent the Secretary of Defense determines necessary, the report may also be submitted in classified form.
 
 ### Statutory Notes
 
 #### Amendments
+2019—Pub. L. 116–92, § 361(b)(1), substituted “Readiness reports” for “Quarterly reports: personnel and unit readiness” in section catchline.
+
+Subsec. (a). Pub. L. 116–92, § 361(b)(2), in heading substituted “Reports and Briefings” for “Quarterly Reports Required” and in text designated existing provisions as par. (1), substituted “the second and fourth quarter of each calendar year” for “each calendar-year quarter”, substituted “The Secretary of Defense shall submit each such report in writing and shall also submit a copy of each such report to the Chairman of the Joint Chiefs of Staff.” for “The reports for the first and third quarters of a calendar year shall contain the information required by subsections (b), (d), (e), (f), and (g). The reports for the second and fourth quarters of a calendar year shall contain the information required by subsection (j).”, and added pars. (2) and (3).
+
+Subsec. (b). Pub. L. 116–92, § 361(b)(3), added subsec. (b) and struck out former subsec. (b) which related to specific descriptions of readiness problems in second and fourth quarter reports.
+
+Subsecs. (d) to (j). Pub. L. 116–92, § 361(b)(4)–(6), added subsec. (d), redesignated subsec. (i) as (e), and struck out former subsecs. (d) to (h) and (j) which related to combatant command assessments, risk assessment of dependence on contractor support, military readiness of combat support and related agencies, major exercise assessments, information collected pursuant to [section 117(c)(7) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section117/c/7&num=0&edition=prelim), and mitigation plans to address readiness shortfalls and operational deficiencies, respectively.
+
 2018—Subsec. (b)(1). Pub. L. 115–232, § 332(1), inserted “in the ground, sea, air, space, and cyber forces, and in such other such areas as determined by the Secretary of Defense,” after “deficiency”.
 
 Subsec. (d). Pub. L. 115–232, § 332(2)(A), struck out “Assigned Mission” after “Command” in heading.
@@ -343,6 +348,9 @@ Pub. L. 104–106, div. A, title III, § 361(b), Feb. 10, 1996, 110 Stat. 273, p
 #### Termination of Reporting Requirements
 For termination, effective Dec. 31, 2021, of provisions in subsec. (a) of this section requiring submittal of quarterly reports to Congress, see section 1061 of Pub. L. 114–328, set out as a note under [section 111 of this title](./chapter-002-department-of-defense.md#section-111).
 
+#### Prohibition on Subjective Upgrades by Commanders of Unit Ratings in Monthly Readiness Reporting on Military Units
+Pub. L. 116–92, div. A, title III, § 365, Dec. 20, 2019, 133 Stat. 1328, provided that: “(a) In General.—The Chairman of the Joint Chiefs of Staff shall modify Chairman of the Joint Chiefs of Staff Instruction (CJCSI) 3401.02B, on Force Readiness Reporting, to prohibit the commander of a military unit who is responsible for monthly reporting of the readiness of the unit under the instruction from making any upgrade of the overall rating of the unit (commonly referred to as the ‘C-rating’) for such reporting purposes based in whole or in part on subjective factors. “(b) Waiver.—“(1) In general.—The modification required by subsection (a) shall authorize an officer in a general or flag officer grade in the chain of command of a commander described in that subsection to waive the prohibition described in that subsection in connection with readiness reporting on the unit concerned if the officer considers the waiver appropriate in the circumstances. “(2) Reporting on waivers.—Each report on personnel and unit readiness submitted to Congress for a calendar year quarter pursuant to [section 482 of title 10](./chapter-023-miscellaneous-studies-and-reports.md#section-482), United States Code, shall include information on each waiver, if any, issued pursuant to paragraph (1) during such calendar year quarter.”
+
 #### Quarterly Reports on Personnel and Unit Readiness
 Pub. L. 110–181, div. A, title III, § 351(c)(2), Jan. 28, 2008, 122 Stat. 71, provided that: “The amendment made by subsection (b) [amending this section] shall apply with respect to the quarterly report required under [section 482 of title 10](./chapter-023-miscellaneous-studies-and-reports.md#section-482), United States Code, for the second quarter of fiscal year 2009 and each subsequent report required under that section.”
 
@@ -357,26 +365,114 @@ Pub. L. 105–85, div. A, title III, § 322(d), Nov. 18, 1997, 111 Stat. 1675, p
 
 
 <a id="section-483"></a>
-## § 483. Repealed. Pub. L. 113–66, div. A, title X, § 1084(a)(1)(A), Dec. 26, 2013, 127 Stat. 871]
+## § 483. Notifications related to basing decision-making process
+**(a) Notification Required.—** At each point in the decision-making process specified in subsection (b), the Secretary concerned shall notify the congressional defense committees of the decision-making process to be used or the decision-making process used, whichever applies—
+
+(1) to select a military installation to serve as the first permanent location for a new major headquarters, covered military unit, or major weapon system; or
+
+(2) to make a permanent change in the basing of a major headquarters, covered military unit, or major weapon system by relocating the major headquarters, covered military unit, or major weapon system from its current military installation to a different military installation.
+
+**(b) Deadlines for Submission of Notice.—** The Secretary concerned shall provide the notice required by subsection (a) within seven days after each of the following decision points during the decision-making process:
+
+(1) When the Secretary concerned issues any formal internal guidance to begin the decision-making process regarding the location or relocation of a major headquarters, covered military unit, or major weapon system.
+
+(2) When the Secretary concerned selects between two and five military installations as the most likely candidate locations for a major headquarters, covered military unit, or major weapon system in order to subject those installations to additional analysis.
+
+(3) When the Secretary concerned selects a specific military installation as the preferred location for the major headquarters, covered military unit, or major weapon system.
+
+**(c) Required Elements of Notification.—** In a notice required by subsection (a), the Secretary concerned shall include at a minimum the following:
+
+(1) A description of the manner in which the joint and all-domain training capabilities at each candidate location, if applicable to the type of basing decision-making process at issue, will be or was, whichever applies, comparatively analyzed among candidate military installations, separate from and in addition to the mission criteria to be used or that was used to make the basing decision.
+
+(2) A description of the manner in which the airspace and training areas available at each candidate location, if applicable to the type of basing decision-making process at issue, will be or was, whichever applies, comparatively analyzed among candidate military installations, separate from and in addition to the mission criteria to be used or that was used to make the basing decision.
+
+(3) A description of the manner in which community support for the basing decision-making process described in subsection (a) will be or was, whichever applies, comparatively analyzed among candidate military installations, including consultation with appropriate State officials and officials of units of local government in which each installation is located regarding matters affecting the local community, such as transportation, utility infrastructure, housing, education, and family support activities. In any case in which the Secretary concerned selects as the preferred location a military installation with less community support compared to other locations, as indicated by such a comparative analysis, an explanation of the operational considerations that formed the basis for such selection.
+
+(4) An explanation of how each candidate location will be or was, whichever applies, scored against the factors referred to in the preceding paragraphs, including the weight assigned to each factor.
+
+(5) A summary of any internal score cards that will be or were, whichever applies, used to make the basing decision.
+
+**(d) Notice and Wait Requirements.—** No irrevocable action may be taken to effect or implement a basing decision reached through the decision-making process described in subsection (a) until the end of the 14-day period beginning on the date on which the Secretary concerned submits, in an electronic medium pursuant to [section 480 of this title](./chapter-023-miscellaneous-studies-and-reports.md#section-480), the notice referred to in subsection (b)(3) regarding a preferred location for the major headquarters, covered military unit, or major weapon system.
+
+**(e) Annual Reporting Requirement.—**
+
+(1) **Report required.—** — Not later than 10 days after the date on which the budget request for a fiscal year is submitted to Congress under [section 1105 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1105&num=0&edition=prelim), the Secretary concerned shall submit to the Committees on Armed Services of the House of Representatives and the Senate a report providing the following:
+
+  (A) An update on the status and anticipated completion date of each decision-making process that was commenced or was underway during the previous two fiscal years regarding the location or relocation of a major headquarters, covered military unit, or major weapon system.
+
+  (B) A list and description of anticipated basing decisions to be made regarding the location or relocation of a major headquarters, covered military unit, or major weapon system over the period covered by the future-years defense plan.
+
+  (C) A timeline for a congressional engagement plan to brief the Committees on Armed Services of the House of Representatives and the Senate during the decision-making process and when decision notifications would be provided to interested Members of Congress.
+
+(2) **Elements of report.—** — To satisfy the requirements of paragraph (1)(B), a report under this subsection shall include at a minimum the following:
+
+  (A) An estimate of the number of members of the armed forces and civilian personnel potentially impacted by the basing decision.
+
+  (B) The locations to be considered, if already known.
+
+  (C) The expected timeline for beginning the decision-making process and reaching a final determination.
+
+**(f) Definitions.—** In this section:
+
+(1) The term “covered military unit” means a unit of the armed forces whose initial assignment to a military installation or relocation from a military installation to a different military installation requires the preparation of an environmental impact statement in accordance with the National Environmental Policy Act of 1969 ([42 U.S.C. 4321](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) et seq.).
+
+(2) The term “major headquarters” means the headquarters of a military unit or command that is the appropriate command of a general officer or flag officer.
+
+(3) The term “major weapon system” means a weapon system that is treatable as a major system under section 2302(5) of title.11 So in original. Probably should be “this title”.
+
+(4) The term “military installation” means a base, camp, post, station, yard, center, homeport facility for any ship, or other activity under the jurisdiction of the Department of Defense, including any leased facility, which is located within any of the several States, the District of Columbia, the Commonwealth of Puerto Rico, American Samoa, the Virgin Islands, the Commonwealth of the Northern Mariana Islands, or Guam. Such term does not include any facility used primarily for civil works, rivers and harbors projects, or flood control projects.
+
+(5) The term “Secretary concerned” means—
+
+  (A) the Secretary of the military department concerned; and
+
+  (B) the Secretary of Defense with respect to matters concerning the Defense Agencies and the Joint Staff.
 
 ### Statutory Notes
 
-Section, added Pub. L. 105–85, div. A, title III, § 323(a), Nov. 18, 1997, 111 Stat. 1675; amended Pub. L. 106–65, div. A, title X, § 1067(1), Oct. 5, 1999, 113 Stat. 774; Pub. L. 106–398, § 1 [[div. A], title III, § 372], Oct. 30, 2000, 114 Stat. 1654, 1654A–80, related to reports on transfers from high-priority readiness appropriations.
+#### Amendment of Section
+Pub. L. 116–283, div. A, title XVIII, §§ 1801(d), 1883(b)(2), Jan. 1, 2021, 134 Stat. 4151, 4294, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, except as otherwise provided in title XVIII of Pub. L. 116–283, in title 10, United States Code, each reference in the text of such title to a source section that is redesignated by title XVIII of Pub. L. 116–283, is amended by striking such reference and inserting a reference to the appropriate section as so redesignated. See 2021 Amendment note below.
+
+#### References in Text
+The National Environmental Policy Act of 1969, referred to in subsec. (f)(1), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 4321 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) and Tables.
+
+#### Prior Provisions
+A prior section 483, added Pub. L. 105–85, div. A, title III, § 323(a), Nov. 18, 1997, 111 Stat. 1675; amended Pub. L. 106–65, div. A, title X, § 1067(1), Oct. 5, 1999, 113 Stat. 774; Pub. L. 106–398, § 1 [[div. A], title III, § 372], Oct. 30, 2000, 114 Stat. 1654, 1654A–80, related to reports on transfers from high-priority readiness appropriations, prior to repeal by Pub. L. 113–66, div. A, title X, § 1084(a)(1)(A), Dec. 26, 2013, 127 Stat. 871.
+
+#### Amendments
+2021—Subsec. (f)(3). Pub. L. 116–283, § 1883(b)(2), substituted “[section 3041 of this title](./chapter-201-definitions.md#section-3041)” for “section 2302(5) of title”.
+
+#### Effective Date of 2021 Amendment
+Amendment by section 1883(b)(2) of Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
 
 
 <a id="section-484"></a>
 ## § 484. Quarterly cyber operations briefings
-**(a) Briefings Required.—** The Secretary of Defense shall provide to the congressional defense committees quarterly briefings on all offensive and significant defensive military operations in cyberspace carried out by the Department of Defense during the immediately preceding quarter.
+**(a) Briefings Required.—** The Under Secretary of Defense for Policy, the Commander of United States Cyber Command, and the Chairman of the Joint Chiefs of Staff, or designees from each of their offices, shall provide to the congressional defense committees quarterly briefings on all offensive and significant defensive military operations in cyberspace, including clandestine cyber activities, carried out by the Department of Defense during the immediately preceding quarter.
 
 **(b) Elements.—** Each briefing under subsection (a) shall include, with respect to the military operations in cyberspace described in such subsection, the following:
 
-(1) An update, set forth separately for each geographic and functional command, that describes the operations carried out by the command and any hostile cyber activity directed at the command.
+(1) An update, set forth separately for each applicable geographic and functional command, that describes the operations carried out in the area of operations of that command or by that command.
 
-(2) An overview of authorities and legal issues applicable to the operations, including any relevant legal limitations.
+(2) An update, set forth for each applicable geographic and functional command, that describes defensive cyber operations executed to protect or defend forces, networks, and equipment in the area of operations of that command.
 
-(3) An outline of any interagency activities and initiatives relating to the operations.
+(3) An update on relevant authorities and legal issues applicable to operations, including any presidential directives and delegations of authority received since the last quarterly update.
 
-(4) Any other matters the Secretary determines to be appropriate.
+(4) An overview of critical operational challenges posed by major adversaries or encountered in operational activities conducted since the last quarterly update.
+
+(5) An overview of the readiness of the Cyber Mission Forces to perform assigned missions that—
+
+  (A) addresses all of the abilities of such Forces to conduct cyberspace operations based on capability and capacity of personnel, equipment, training, and equipment condition—
+
+    (i) using both quantitative and qualitative metrics; and
+
+    (ii) in a way that is common to all military departments; and
+
+  (B) is consistent with readiness reporting pursuant to [section 482 of this title](./chapter-023-miscellaneous-studies-and-reports.md#section-482).
+
+(6) Any other matters that the briefers determine to be appropriate.
+
+**(c) Documents.—** Each briefing under subsection (a) shall include a classified placemat, summarizing the elements specified in paragraphs (1), (2), (3), and (5) of subsection (b), and an unclassified memorandum, summarizing the briefing’s contents.
 
 ### Statutory Notes
 
@@ -384,7 +480,14 @@ Section, added Pub. L. 105–85, div. A, title III, § 323(a), Nov. 18, 1997, 11
 A prior section 484, added Pub. L. 105–85, div. A, title III, § 324(a)(1), Nov. 18, 1997, 111 Stat. 1677, which related to annual report on aircraft inventory, was repealed by Pub. L. 112–81, div. A, title X, § 1061(6)(A), Dec. 31, 2011, 125 Stat. 1583.
 
 #### Amendments
+2021—Subsecs. (a) to (c). Pub. L. 116–283 added subsecs. (a) to (c) and struck out former subsecs. (a) and (b) which related to required quarterly cyber operations briefings and their elements.
+
+2019—Subsec. (b)(4), (5). Pub. L. 116–92 added par. (4) and redesignated former par. (4) as (5).
+
 2017—Pub. L. 115–91 designated existing provisions as subsec. (a), inserted heading, substituted “congressional defense committees” for “Committees on Armed Services of the House of Representatives and the Senate”, and added subsec. (b).
+
+#### Effective Date of 2019 Amendment
+Pub. L. 116–92, div. A, title XVI, § 1634(d), Dec. 20, 2019, 133 Stat. 1748, provided that: “The amendments made by subsection (a) [amending this section] shall take effect on the date that is 180 days after the date of the enactment of this Act [Dec. 20, 2019].”
 
 #### Effective Date of 2017 Amendment
 Pub. L. 115–91, div. A, title XVI, § 1632(b), Dec. 12, 2017, 131 Stat. 1738, provided that: “The amendments made by subsection (a) [amending this section] shall take effect on the date of the enactment of this Act [Dec. 12, 2017], and shall apply with respect to briefings required [to] be provided under [section 484 of title 10](./chapter-023-miscellaneous-studies-and-reports.md#section-484), United States Code, on or after that date.”

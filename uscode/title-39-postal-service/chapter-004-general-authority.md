@@ -306,7 +306,28 @@ Section effective July 1, 1971, pursuant to Resolution No. 71–9 of the Board o
 
 **(b)** The Secretaries of Defense and Transportation shall make arrangements with the Postal Service to perform postal services through personnel designated by them at or through branch post offices established under subsection (a) of this section.
 
+**(c)**
+
+(1) The Secretary of Defense may authorize the use of a post office established under subsection (a) in a location outside the United States by citizens of the United States—
+
+  (A) who—
+
+    (i) are employed by the North Atlantic Treaty Organization; and
+
+    (ii) perform functions in support of the Armed Forces of the United States; and
+
+  (B) if the Secretary makes a written determination that such use is—
+
+    (i) in the best interests of the Department of Defense; and
+
+    (ii) otherwise authorized by applicable host nation law or agreement.
+
+(2) No funds may be obligated or expended to establish, maintain, or expand a post office established under subsection (a) for the purpose of use described in paragraph (1) of this subsection.
+
 ### Statutory Notes
+
+#### Amendments
+2019—Subsec. (c). Pub. L. 116–92 added subsec. (c).
 
 #### Effective Date
 Section effective July 1, 1971, pursuant to Resolution No. 71–9 of the Board of Governors. See section 15(a) of Pub. L. 91–375, set out as a note preceding [section 101 of this title](./chapter-001-postal-policy-and-definitions.md#section-101).
@@ -441,7 +462,7 @@ It is the policy of the United States to promote and encourage the development o
 
 (i) ensuring that rates charged for delivery of foreign-origin mail containing goods do not favor foreign mailers over domestic mailers;
 
-(ii) setting rates charged for delivery of foreign- origin mail in a manner that does not favor postal operators over non-postal operators; and
+(ii) setting rates charged for delivery of foreign-origin mail in a manner that does not favor postal operators over non-postal operators; and
 
 (iii) ensuring the collection of advance electronic customs data.
 
@@ -872,7 +893,7 @@ The use of the special rate of postage established under this section shall be v
 
 **(g)** For purposes of section 416 (including any regulation prescribed under subsection (e)(1)(C) of that section), the special postage stamp issued under this section shall not apply to any limitation relating to whether more than 1 semipostal may be offered for sale at the same time.
 
-**(h)** This section shall cease to be effective after December 31, 2019.
+**(h)** This section shall cease to be effective after December 31, 2027.
 
 ### Statutory Notes
 
@@ -880,6 +901,8 @@ The use of the special rate of postage established under this section shall be v
 The date of the enactment of this section, referred to in subsec. (e), is the date of enactment of Pub. L. 105–41, which was approved Aug. 13, 1997.
 
 #### Amendments
+2019—Subsec. (h). Pub. L. 116–92 substituted “2027” for “2019”.
+
 2015—Subsec. (c)(1). Pub. L. 114–99, § 3, inserted at end of concluding provisions “An agency that receives amounts from the Postal Service under this paragraph shall use the amounts for breast cancer research.”
 
 Subsec. (h). Pub. L. 114–99, § 2, substituted “2019” for “2015”.

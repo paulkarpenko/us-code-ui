@@ -213,11 +213,11 @@ Pub. L. 103–322, title XXXIII, § 330011(p), Sept. 13, 1994, 108 Stat. 2145, p
 #### Effective Date of 1988 Amendment
 Amendment by Pub. L. 100–525 effective as if included in enactment of Immigration Reform and Control Act of 1986, Pub. L. 99–603, see section 2(s) of Pub. L. 100–525, set out as a note under [section 1101 of Title 8](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1101&num=0&edition=prelim), Aliens and Nationality.
 
-#### Transfer of Functions
-Functions vested by law in Attorney General, Department of Justice, or any other officer or any agency of that Department, with respect to the inspection at regular inspection locations at ports of entry of persons, and documents of persons, entering or leaving the United States, were to have been transferred to Secretary of the Treasury by 1973 Reorg. Plan No. 2, § 2, eff. July 1, 1973, 38 F.R. 15932, 87 Stat. 1091, set out in the Appendix to Title 5, Government Organization and Employees. The transfer was negated by section 1(a)(1), (b) of Pub. L. 93–253, Mar. 16, 1974, 88 Stat. 50, which repealed section 2 of 1973 Reorg. Plan No. 2, eff. July 1, 1973.
-
 #### Abolition of Immigration and Naturalization Service and Transfer of Functions
 For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of related references, see note set out under [section 1551 of Title 8](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1551&num=0&edition=prelim), Aliens and Nationality.
+
+#### Transfer of Functions
+Functions vested by law in Attorney General, Department of Justice, or any other officer or any agency of that Department, with respect to the inspection at regular inspection locations at ports of entry of persons, and documents of persons, entering or leaving the United States, were to have been transferred to Secretary of the Treasury by 1973 Reorg. Plan No. 2, § 2, eff. July 1, 1973, 38 F.R. 15932, 87 Stat. 1091, set out in the Appendix to Title 5, Government Organization and Employees. The transfer was negated by section 1(a)(1), (b) of Pub. L. 93–253, Mar. 16, 1974, 88 Stat. 50, which repealed section 2 of 1973 Reorg. Plan No. 2, eff. July 1, 1973.
 
 
 <a id="section-1547"></a>

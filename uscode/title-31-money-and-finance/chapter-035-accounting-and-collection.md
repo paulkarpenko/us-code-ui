@@ -88,7 +88,7 @@ Pub. L. 101–576, title III, § 307, Nov. 15, 1990, 104 Stat. 2855, provided th
 ## § 3512. Executive agency accounting and other financial management reports and plans
 **(a)**
 
-(1) The Director of the Office of Management and Budget shall prepare and submit to the appropriate committees of the Congress and make available on the website described under section 1122 a financial management status report and a governmentwide 5-year financial management plan.
+(1) The Director of the Office of Management and Budget shall prepare and submit to the appropriate committees of the Congress and make available on a website described in section 1122 a financial management status report and a governmentwide 5-year financial management plan.
 
 (2) A financial management status report under this subsection shall include—
 
@@ -261,6 +261,8 @@ The Federal Financial Management Improvement Act of 1996, referred to in subsec.
 The date of the enactment of this subsection, referred to in subsec. (a)(4)(A), is the date of enactment of Pub. L. 101–576, which added subsec. (a) and was approved Nov. 15, 1990.
 
 #### Amendments
+2021—Subsec. (a)(1). Pub. L. 116–283 substituted “a website described in” for “the website described under”.
+
 2014—Subsec. (a)(1). Pub. L. 113–101, which directed the insertion of “and make available on the website described under section 1122” after “appropriate committees of Congress” was executed by making the insertion after “appropriate committees of the Congress” to reflect the probable intent of Congress.
 
 1996—Subsec. (a)(2)(E), (F). Pub. L. 104–208 added subpar. (E) and redesignated former subpar. (E) as (F).
@@ -1795,24 +1797,16 @@ Section, added Pub. L. 107–107, div. A, title VIII, § 831(a)(1), Dec. 28, 200
 
 <a id="section-3562"></a>
 ## § 3562. Disposition of recovered funds
-**(a) Availability of Funds for Recovery Audits and Activities Program.—** Funds collected under a program carried out by an executive agency under section 3561 11 See References in Text and Codification notes below. of this title shall be available to the executive agency for the following purposes:
-
-(1) To reimburse the actual expenses incurred by the executive agency in the administration of the program.
-
-(2) To pay contractors for services under the program in accordance with the guidance issued under section 3561(c)(5) 1 of this title.
+**(a) Availability of Funds for Recovery Audits and Activities Program.—** Funds collected under a program carried out by an executive agency under [section 3352(i) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section3352/i&num=0&edition=prelim) shall be available to the executive agency to reimburse the actual expenses incurred by the executive agency in the administration of the program.
 
 **(b)** , (c). Repealed. Pub. L. 111–204, § 2(h)(6)(A)(i), July 22, 2010, 124 Stat. 2231.]
 
 ### Statutory Notes
 
-#### References in Text
-[Section 3561 of this title](./chapter-035-accounting-and-collection.md#section-3561), referred to in subsec. (a), was repealed by Pub. L. 111–204, § 2(h)(6)(A)(i), July 22, 2010, 124 Stat. 2231.
-
-#### Codification
-Pub. L. 111–204, § 2(h)(6)(A), July 22, 2010, 124 Stat. 2231, provided that this section is repealed except that subsec. (a) shall continue in effect, but references in such subsec. to programs carried out under [section 3561 of this title](./chapter-035-accounting-and-collection.md#section-3561) shall be interpreted to mean programs carried out under section 2(h) of Pub. L. 111–204, which is set out as a note under [section 3321 of this title](./chapter-033-depositing-keeping-and-paying-money.md#section-3321).
-
 #### Amendments
-2010—Pub. L. 111–204 repealed section but provided that subsec. (a) was to continue in effect, with certain exceptions. See Codification note above. Prior to amendment, in addition to subsec. (a), section contained subsecs. (b) and (c) which related to treatment of funds not used for program under [section 3561 of this title](./chapter-035-accounting-and-collection.md#section-3561) and priority of other authorized dispositions, respectively.
+2020—Subsec. (a). Pub. L. 116–117 substituted “section 3352(i)” for “section 3561” and “agency to reimburse” for “agency for the following purposes: (1) To reimburse” and struck out par. (2) which read as follows: “To pay contractors for services under the program in accordance with the guidance issued under [section 3561(c)(5) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section3561/c/5&num=0&edition=prelim).”
+
+2010—Pub. L. 111–204 repealed section but provided that subsec. (a) was to continue in effect, with certain exceptions related to programs carried out under [section 3561 of this title](./chapter-035-accounting-and-collection.md#section-3561). Prior to amendment, in addition to subsec. (a), section contained subsecs. (b) and (c) which related to treatment of funds not used for programs under [section 3561 of this title](./chapter-035-accounting-and-collection.md#section-3561) and priority of other authorized dispositions, respectively.
 
 
 <a id="section-3563-to-3567"></a>

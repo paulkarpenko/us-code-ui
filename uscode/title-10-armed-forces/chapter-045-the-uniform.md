@@ -9,11 +9,11 @@ source: >-
 <a id="section-771"></a>
 ## § 771. Unauthorized wearing prohibited
 
-Except as otherwise provided by law, no person except a member of the Army, Navy, Air Force, or Marine Corps, as the case may be, may wear—
+Except as otherwise provided by law, no person except a member of the Army, Navy, Air Force, Marine Corps, or Space Force, as the case may be, may wear—
 
-(1) the uniform, or a distinctive part of the uniform, of the Army, Navy, Air Force, or Marine Corps; or
+(1) the uniform, or a distinctive part of the uniform, of the Army, Navy, Air Force, Marine Corps, or Space Force; or
 
-(2) a uniform any part of which is similar to a distinctive part of the uniform of the Army, Navy, Air Force, or Marine Corps.
+(2) a uniform any part of which is similar to a distinctive part of the uniform of the Army, Navy, Air Force, Marine Corps, or Space Force.
 
 ### Statutory Notes
 
@@ -23,6 +23,9 @@ Except as otherwise provided by law, no person except a member of the Army, Navy
 | 771 | 10:1393 (1st par., less provisos). | June 3, 1916, ch. 134, § 125 (1st par., less provisos), 39 Stat. 216. |
 
 The words “Except as otherwise provided by law” are inserted to give effect to exceptions in other revised sections of this title and to provisions of other laws giving such organizations as the Coast and Geodetic Survey and the Public Health Service permission to wear military uniforms under certain conditions.
+
+#### Amendments
+2021—Pub. L. 116–283 substituted “Marine Corps, or Space Force” for “or Marine Corps” wherever appearing.
 
 
 <a id="section-771a"></a>
@@ -51,17 +54,17 @@ The words “Except as otherwise provided by law” are inserted to give effect 
 
 **(b)** A member of the Naval Militia may wear the uniform prescribed for the Naval Militia.
 
-**(c)** A retired officer of the Army, Navy, Air Force, or Marine Corps may bear the title and wear the uniform of his retired grade.
+**(c)** A retired officer of the Army, Navy, Air Force, Marine Corps, or Space Force may bear the title and wear the uniform of his retired grade.
 
-**(d)** A person who is discharged honorably or under honorable conditions from the Army, Navy, Air Force, or Marine Corps may wear his uniform while going from the place of discharge to his home, within three months after his discharge.
+**(d)** A person who is discharged honorably or under honorable conditions from the Army, Navy, Air Force, Marine Corps, or Space Force may wear his uniform while going from the place of discharge to his home, within three months after his discharge.
 
-**(e)** A person not on active duty who served honorably in time of war in the Army, Navy, Air Force, or Marine Corps may bear the title, and, when authorized by regulations prescribed by the President, wear the uniform, of the highest grade held by him during that war.
+**(e)** A person not on active duty who served honorably in time of war in the Army, Navy, Air Force, Marine Corps, or Space Force may bear the title, and, when authorized by regulations prescribed by the President, wear the uniform, of the highest grade held by him during that war.
 
-**(f)** While portraying a member of the Army, Navy, Air Force, or Marine Corps, an actor in a theatrical or motion-picture production may wear the uniform of that armed force if the portrayal does not tend to discredit that armed force.
+**(f)** While portraying a member of the Army, Navy, Air Force, Marine Corps, or Space Force, an actor in a theatrical or motion-picture production may wear the uniform of that armed force if the portrayal does not tend to discredit that armed force.
 
 **(g)** An officer or resident of a veterans’ home administered by the Department of Veterans Affairs may wear such uniform as the Secretary of the military department concerned may prescribe.
 
-**(h)** While attending a course of military instruction conducted by the Army, Navy, Air Force, or Marine Corps, a civilian may wear the uniform prescribed by that armed force if the wear of such uniform is specifically authorized under regulations prescribed by the Secretary of the military department concerned.
+**(h)** While attending a course of military instruction conducted by the Army, Navy, Air Force, Marine Corps, or Space Force, a civilian may wear the uniform prescribed by that armed force if the wear of such uniform is specifically authorized under regulations prescribed by the Secretary of the military department concerned.
 
 **(i)** Under such regulations as the Secretary of the Air Force may prescribe, a citizen of a foreign country who graduates from an Air Force school may wear the appropriate aviation badges of the Air Force.
 
@@ -100,6 +103,8 @@ In subsection (i), the words “Air Force school” are substituted for the word
 For information regarding constitutionality of certain provisions of this section as enacted by act Aug. 10, 1956, see Congressional Research Service, The Constitution of the United States of America: Analysis and Interpretation, Appendix 1, Acts of Congress Held Unconstitutional in Whole or in Part by the Supreme Court of the United States.
 
 #### Amendments
+2021—Pub. L. 116–283 substituted “Marine Corps, or Space Force” for “or Marine Corps” wherever appearing.
+
 1996—Subsec. (h). Pub. L. 104–201 inserted before period at end “if the wear of such uniform is specifically authorized under regulations prescribed by the Secretary of the military department concerned”.
 
 1989—Subsec. (g). Pub. L. 101–189 substituted “Department of Veterans Affairs” for “Veterans’ Administration”.
@@ -114,17 +119,17 @@ The authority vested in the President (1) by section 125 of the act of June 3, 1
 
 <a id="section-773"></a>
 ## § 773. When distinctive insignia required
-**(a)** A person for whom one of the following uniforms is prescribed may wear it, if it includes distinctive insignia prescribed by the Secretary of the military department concerned to distinguish it from the uniform of the Army, Navy, Air Force, or Marine Corps, as the case may be:
+**(a)** A person for whom one of the following uniforms is prescribed may wear it, if it includes distinctive insignia prescribed by the Secretary of the military department concerned to distinguish it from the uniform of the Army, Navy, Air Force, Marine Corps, or Space Force, as the case may be:
 
 (1) The uniform prescribed by the university, college, or school for an instructor or member of the organized cadet corps of—
 
   (A) a State university or college, or a public high school, having a regular course of military instruction; or
 
-  (B) an educational institution having a regular course of military instruction, and having a member of the Army, Navy, Air Force, or Marine Corps as instructor in military science and tactics.
+  (B) an educational institution having a regular course of military instruction, and having a member of the Army, Navy, Air Force, Marine Corps, or Space Force as instructor in military science and tactics.
 
-(2) The uniform prescribed by a military society composed of persons discharged honorably or under honorable conditions from the Army, Navy, Air Force, or Marine Corps to be worn by a member of that society when authorized by regulations prescribed by the President.
+(2) The uniform prescribed by a military society composed of persons discharged honorably or under honorable conditions from the Army, Navy, Air Force, Marine Corps, or Space Force to be worn by a member of that society when authorized by regulations prescribed by the President.
 
-**(b)** A uniform prescribed under subsection (a) may not include insignia of grade the same as, or similar to, those prescribed for officers of the Army, Navy, Air Force, or Marine Corps.
+**(b)** A uniform prescribed under subsection (a) may not include insignia of grade the same as, or similar to, those prescribed for officers of the Army, Navy, Air Force, Marine Corps, or Space Force.
 
 **(c)** Under such regulations as the Secretary of the military department concerned may prescribe, any person who is permitted to attend a course of instruction prescribed for members of a reserve officers’ training corps, and who is not a member of that corps, may, while attending that course of instruction, wear the uniform of that corps.
 
@@ -140,6 +145,8 @@ In subsection (a), the word “mark” is omitted as surplusage.
 In subsection (a)(2), the words “persons discharged honorably or under honorable conditions from” are substituted for the words “entirely of honorably discharged officers or enlisted men, or both, of”. The words “Regular or Volunteer” are omitted as surplusage. The words “when authorized by regulations prescribed by” are substituted for the words “upon occasions authorized by regulations of”.
 
 #### Amendments
+2021—Subsecs. (a), (b). Pub. L. 116–283 substituted “Marine Corps, or Space Force” for “or Marine Corps” in subsec. (a) wherever appearing and in subsec. (b).
+
 1958—Subsec. (c). Pub. L. 85–355 added subsec. (c).
 
 

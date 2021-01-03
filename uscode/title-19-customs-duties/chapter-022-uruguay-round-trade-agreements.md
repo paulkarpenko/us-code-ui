@@ -158,7 +158,7 @@ Proc. No. 6763, Dec. 23, 1994, 60 F.R. 1007, as amended by Proc. No. 6780, Mar. 
 
 (d) Section 405 of the URAA [[19 U.S.C. 3602](./chapter-022-uruguay-round-trade-agreements.md#section-3602)] directs the President to cause to be published in the Federal Register the list of special safeguard agricultural goods and, if appropriate, to impose price-based or volume-based safeguards with respect to such goods consistent with Article 5 of the Agreement on Agriculture annexed to the WTO Agreement, and authorizes the President to exempt from any safeguard duty any goods originating in a country that is a party to the North American Free Trade Agreement (“the NAFTA”).
 
-7. Presidential Proclamation No. 6641 of December 15, 1993 [108 Stat. 5134], implemented the NAFTA with respect to the United States and, pursuant to sections 201 and 202 of the North American Free Trade Agreement Implementation Act (“the NAFTA Act”) ([19 U.S.C. 3331](./chapter-021-north-american-free-trade.md#section-3331) and 3332), incorporated in the HTS the tariff modifications and rules of origin necessary or appropriate to carry out or apply the NAFTA. Certain technical errors were made in the Annexes to that proclamation. I have determined that, in order to reflect accurately the intended tariff treatment and rules of origin provided for in the NAFTA, it is necessary to modify certain provisions of the HTS, as set forth in the Annex to this proclamation.
+7. Presidential Proclamation No. 6641 of December 15, 1993 [108 Stat. 5134], implemented the NAFTA with respect to the United States and, pursuant to sections 201 and 202 of the North American Free Trade Agreement Implementation Act (“the NAFTA Act”) ([former] [19 U.S.C. 3331](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section3331&num=0&edition=prelim) and 3332), incorporated in the HTS the tariff modifications and rules of origin necessary or appropriate to carry out or apply the NAFTA. Certain technical errors were made in the Annexes to that proclamation. I have determined that, in order to reflect accurately the intended tariff treatment and rules of origin provided for in the NAFTA, it is necessary to modify certain provisions of the HTS, as set forth in the Annex to this proclamation.
 
 8. Presidential Proclamation No. 6455 of July 2, 1992 [[19 U.S.C. 3202](./chapter-020-andean-trade-preference.md#section-3202) note], implementing the Andean Trade Preference Act (“the ATPA”) ([19 U.S.C. 3201](./chapter-020-andean-trade-preference.md#section-3201) et seq.), provided duty-free entry for all eligible articles, and duty reductions for certain other articles that are the product of any designated beneficiary country under that Act. Through technical error, the tariff treatment of ethyl alcohol, ethyl tertiary-butyl ether, and mixtures containing these products was incompletely stated. Accordingly, I have decided that it is appropriate to modify the provisions of subchapter I of chapter 99 of the HTS to provide fully for the tariff treatment of such products under the ATPA.
 
@@ -170,7 +170,7 @@ Proc. No. 6763, Dec. 23, 1994, 60 F.R. 1007, as amended by Proc. No. 6780, Mar. 
 
 12. Section 604 of the 1974 Act ([19 U.S.C. 2483](./chapter-012-trade-act-of-1974.md#section-2483)) authorizes the President to embody in the HTS the substance of the relevant provisions of that Act, of other acts affecting import treatment, and actions thereunder, including the removal, modification, continuance, or imposition of any rate of duty or other import restriction.
 
-NOW, THEREFORE, I, WILLIAM J. CLINTON, President of the United States of America, acting under the authority vested in me by the Constitution and the laws of the United States of America, including but not limited to section 604 of the 1974 Act ([19 U.S.C. 2483](./chapter-012-trade-act-of-1974.md#section-2483)), section 1102 of the 1988 Act ([19 U.S.C. 2902](./chapter-017-negotiation-and-implementation-of-trade-agreements.md#section-2902)), sections 201 and 202 of the NAFTA Act ([19 U.S.C. 3331](./chapter-021-north-american-free-trade.md#section-3331) and 3332), and title I [[19 U.S.C. 3511](./chapter-022-uruguay-round-trade-agreements.md#section-3511) et seq.] and title IV [see Tables for classification] of the URAA, do hereby proclaim:
+NOW, THEREFORE, I, WILLIAM J. CLINTON, President of the United States of America, acting under the authority vested in me by the Constitution and the laws of the United States of America, including but not limited to section 604 of the 1974 Act ([19 U.S.C. 2483](./chapter-012-trade-act-of-1974.md#section-2483)), section 1102 of the 1988 Act ([19 U.S.C. 2902](./chapter-017-negotiation-and-implementation-of-trade-agreements.md#section-2902)), sections 201 and 202 of the NAFTA Act ([former] [19 U.S.C. 3331](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section3331&num=0&edition=prelim) and 3332), and title I [[19 U.S.C. 3511](./chapter-022-uruguay-round-trade-agreements.md#section-3511) et seq.] and title IV [see Tables for classification] of the URAA, do hereby proclaim:
 
 (1) In order to provide generally for the tariff treatment being accorded under the Uruguay Round Agreements, including the modification or continuance of existing duties or other import restrictions and the continuance of existing duty-free or excise treatment provided for in Schedule XX, the URAA, and the other authorities cited in this proclamation, including the termination of quantitative limitations and fees previously imposed under section 22 of the Adjustment Act ([7 U.S.C. 624](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section624&num=0&edition=prelim)), the HTS is modified as set forth in the Annex to this proclamation.
 
@@ -581,7 +581,7 @@ This Act, referred to in text, is Pub. L. 103–465, Dec. 8, 1994, 108 Stat. 480
 #### Delegation of Authority
 Functions of President under this section delegated to the United States Trade Representative by par. (4) of Proc. No. 6969, Jan. 27, 1997, 62 F.R. 4417.
 
-Authority of President to perform certain functions in order to fulfill consultation and layover requirements set forth in this section delegated to United States Trade Representative by Memorandum of President of the United States, Sept. 29, 1995, 60 F.R. 52061, set out as a note under [section 3313 of this title](./chapter-021-north-american-free-trade.md#section-3313).
+Authority of President to perform certain functions in order to fulfill consultation and layover requirements set forth in this section delegated to United States Trade Representative by Memorandum of President of the United States, Sept. 29, 1995, 60 F.R. 52061, set out as a note under [section 3311 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section3311&num=0&edition=prelim).
 
 
 <a id="section-3532"></a>
@@ -1494,7 +1494,11 @@ the President shall, consistent with Article 5 as determined by the President, d
 
 **(d) No simultaneous safeguard** A duty may not be in effect for a special safeguard agricultural good pursuant to this section during any period in which such good is the subject of any action proclaimed pursuant to section 2252 or 2253 of this title.
 
-**(e) Exclusion of NAFTA countries** The President may exempt from any duty imposed under this section any good originating in a NAFTA country (as determined in accordance with [section 3332 of this title](./chapter-021-north-american-free-trade.md#section-3332)).
+**(e) Exclusion of originating goods of USMCA countries**
+
+(1) **In general** — The President shall exempt from any duty imposed under this section any good that qualifies as an originating good under [section 4531 of this title](./chapter-029-united-states-mexico-canada-agreement-implementation.md#section-4531) of a USMCA country with respect to which preferential tariff treatment is provided under the USMCA.
+
+(2) **Definitions** — In this subsection, the terms “preferential tariff treatment”, “USMCA”, and “USMCA country” have the meanings given those terms in [section 4502 of this title](./chapter-029-united-states-mexico-canada-agreement-implementation.md#section-4502).
 
 **(f) Advice of Secretary of Agriculture** The Secretary of Agriculture shall advise the President on the implementation of this section.
 
@@ -1511,9 +1515,16 @@ the President shall, consistent with Article 5 as determined by the President, d
 ### Statutory Notes
 
 #### Amendments
+2020—Subsec. (e). Pub. L. 116–113 amended subsec. (e) generally. Prior to amendment, text read as follows: “The President may exempt from any duty imposed under this section any good originating in a NAFTA country (as determined in accordance with [section 3332 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section3332&num=0&edition=prelim)).”
+
 1996—Subsec. (b)(1). Pub. L. 104–295, § 11(1), substituted “1(b)” for “1(a)”.
 
 Subsec. (b)(2). Pub. L. 104–295, § 11(2), substituted “1(a)” for “1(b)”.
+
+#### Effective Date of 2020 Amendment
+Pub. L. 116–113, title II, § 201(b), Jan. 29, 2020, 134 Stat. 19, provided that: “(1) In general.—The amendment made by subsection (a) [amending this section] shall—“(A) take effect on the date on which the USMCA enters into force [July 1, 2020]; and “(B) apply with respect to a good entered for consumption, or withdrawn from warehouse for consumption, on or after that date. “(2) Transition from nafta treatment.—In the case of a good entered for consumption, or withdrawn from warehouse for consumption, before the date on which the USMCA enters into force—“(A) the amendment made by subsection (a) to section 405(e) of the Uruguay Round Agreements Act ([19 U.S.C. 3602(e)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section3602/e&num=0&edition=prelim)) shall not apply with respect to the good; and “(B) section 405(e) of such Act, as in effect on the day before that date, shall continue to apply on and after that date with respect to the good.”
+
+[For definition of “USMCA” as used in section 201(b) of Pub. L. 116–113, set out above, see [section 4502 of this title](./chapter-029-united-states-mexico-canada-agreement-implementation.md#section-4502).]
 
 #### Effective Date
 Section effective on the date of entry into force of the WTO Agreement with respect to the United States (Jan. 1, 1995), except as otherwise provided, see section 451 of Pub. L. 103–465, set out as a note under [section 3601 of this title](./chapter-022-uruguay-round-trade-agreements.md#section-3601).

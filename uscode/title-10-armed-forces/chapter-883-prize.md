@@ -8,7 +8,7 @@ source: >-
 ---
 <a id="section-8851"></a>
 ## § 8851. Scope of chapter
-**(a)** This chapter applies to all captures of vessels as prize during war by authority of the United States or adopted and ratified by the President. However, this chapter does not affect the right of the Army or the Air Force, while engaged in hostilities, to capture wherever found and without prize procedure—
+**(a)** This chapter applies to all captures of vessels as prize during war by authority of the United States or adopted and ratified by the President. However, this chapter does not affect the right of the Army, the Air Force, or the Space Force, while engaged in hostilities, to capture wherever found and without prize procedure—
 
 (1) enemy property; or
 
@@ -44,6 +44,8 @@ In subsection (b) the definition of the term “ship” is omitted as covered by
 A prior section 8851, added Pub. L. 85–861, § 1(192), Sept. 2, 1958, 72 Stat. 1537; amended Pub. L. 86–559, § 1(73), June 30, 1960, 74 Stat. 280; Pub. L. 90–83, § 3(6), Sept. 11, 1967, 81 Stat. 220; Pub. L. 90–486, § 9(2), Aug. 13, 1968, 82 Stat. 760; Pub. L. 96–513, title V, § 514(7), Dec. 12, 1980, 94 Stat. 2935; Pub. L. 98–525, title XIV, § 1405(55), Oct. 19, 1984, 98 Stat. 2626; Pub. L. 99–145, title V, § 522(b)(2), title XIII, § 1303(a)(27)(B), Nov. 8, 1985, 99 Stat. 632, 740; Pub. L. 100–456, div. A, title XII, § 1234(a)(1), Sept. 29, 1988, 102 Stat. 2059, related to transfer or discharge of reserve lieutenant colonels, colonels, and brigadier generals with 30 years of service or five years in grade, prior to repeal by Pub. L. 103–337, div. A, title XVI, § 1629(c)(3), Oct. 5, 1994, 108 Stat. 2963, effective Oct. 1, 1996.
 
 #### Amendments
+2021—Subsec. (a). Pub. L. 116–283 substituted “, the Air Force, or the Space Force” for “or the Air Force”.
+
 2018—Pub. L. 115–232 renumbered [section 7651 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section7651&num=0&edition=prelim) as this section.
 
 #### Effective Date of 2018 Amendment

@@ -361,9 +361,6 @@ Pub. L. 115–141, div. S, title XII, § 1201(c), Mar. 23, 2018, 132 Stat. 1149,
 #### Construction of 1999 Amendment
 Pub. L. 106–151, § 2, Dec. 9, 1999, 113 Stat. 1731, provided that: “The amendment made by section 1 [amending this section] shall not be construed to reduce or substitute for compensation standards: (1) contained in any existing or future agreement or memorandum of understanding reached through collective bargaining by a bona fide representative of employees in accordance with the laws of a State or political subdivision of a State; and (2) which result in compensation greater than the compensation available to employees under the overtime exemption under section 7(k) of the Fair Labor Standards Act of 1938 [[29 U.S.C. 207(k)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section207/k&num=0&edition=prelim)].”
 
-#### Transfer of Functions
-In subsec. (l), “Secretary of Labor” substituted for “Chief of the Children’s Bureau in the Department of Labor” and for “Chief of the Children’s Bureau” pursuant to Reorg. Plan No. 2 of 1946, § 1(b), eff. July 16, 1946, 11 F.R. 7873, 60 Stat. 1095, set out in the Appendix to Title 5, Government Organization and Employees, which transferred functions of Children’s Bureau and its Chief under sections 201 to 216 and 217 to 219 of this title to Secretary of Labor to be performed under his direction and control by such officers and employees of Department of Labor as he designates.
-
 #### Preservation of Coverage
 Pub. L. 101–157, § 3(b), Nov. 17, 1989, 103 Stat. 939, provided that: “(1) In general.—Any enterprise that on March 31, 1990, was subject to section 6(a)(1) of the Fair Labor Standards Act of 1938 ([29 U.S.C. 206(a)(1)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section206/a/1&num=0&edition=prelim)) and that because of the amendment made by subsection (a) [amending this section] is not subject to such section shall—“(A) pay its employees not less than the minimum wage in effect under such section on March 31, 1990; “(B) pay its employees in accordance with section 7 of such Act ([29 U.S.C. 207](./chapter-008-fair-labor-standards.md#section-207)); and “(C) remain subject to section 12 of such Act ([29 U.S.C. 212](./chapter-008-fair-labor-standards.md#section-212)). “(2) Violations.—A violation of paragraph (1) shall be considered a violation of section 6, 7, or 12 of the Fair Labor Standards Act of 1938 [[29 U.S.C. 206](./chapter-008-fair-labor-standards.md#section-206), 207, 212], as the case may be.”
 
@@ -381,6 +378,9 @@ Pub. L. 95–151, § 15(c), Nov. 1, 1977, 91 Stat. 1253, provided that: “On an
 
 #### Rules, Regulations, and Orders Promulgated With Regard to 1966 Amendments
 Pub. L. 89–601, title VI, § 602, Sept. 23, 1966, 80 Stat. 844, provided in part that: “On and after the date of the enactment of this Act [Sept. 23, 1966] the Secretary is authorized to promulgate necessary rules, regulations, or orders with regard to the amendments made by this Act [see Short Title of 1966 Amendment note set out under [section 201 of this title](./chapter-008-fair-labor-standards.md#section-201)].”
+
+#### Transfer of Functions
+In subsec. (l), “Secretary of Labor” substituted for “Chief of the Children’s Bureau in the Department of Labor” and for “Chief of the Children’s Bureau” pursuant to Reorg. Plan No. 2 of 1946, § 1(b), eff. July 16, 1946, 11 F.R. 7873, 60 Stat. 1095, set out in the Appendix to Title 5, Government Organization and Employees, which transferred functions of Children’s Bureau and its Chief under sections 201 to 216 and 217 to 219 of this title to Secretary of Labor to be performed under his direction and control by such officers and employees of Department of Labor as he designates.
 
 
 <a id="section-204"></a>
@@ -447,18 +447,18 @@ Acts Oct. 26, 1949, ch. 736, § 4, 63 Stat. 911, and Oct. 28, 1949, ch. 782, cit
 #### Termination of Reporting Requirements
 For termination, effective May 15, 2000, of provisions of law requiring submittal to Congress of any annual, semiannual, or other regular periodic report listed in House Document No. 103–7 (in which reports required under paragraphs (1) and (3) of subsec. (d) of this section are listed on page 124), see section 3003 of Pub. L. 104–66, set out as a note under [section 1113 of Title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1113&num=0&edition=prelim), Money and Finance.
 
+#### Minimum Wage Study Commission; Establishment, Purposes, Composition, Etc.
+Pub. L. 95–151, § 2(e), Nov. 1, 1977, 91 Stat. 1246, provided for the establishment, purposes, composition, etc., of the Minimum Wage Study Commission, the submission of reports, with the latest report being submitted to the President and Congress thirty six months after the date of the appointment of the members of the Commission and such appointments being made within 180 days after Nov. 1, 1977, and the Commission to cease to exist thirty days after submission of the report.
+
+#### Definition of “Secretary”
+Act Aug. 12, 1955, ch. 867, § 6, 69 Stat. 712, provided that: “The term ‘Secretary’ as used in this Act and in amendments made by this Act [amending this section and sections 205, 206, 208, and 210 of this title] means the Secretary of Labor.”
+
 #### Transfer of Functions
 Functions relating to enforcement and administration of equal pay provisions vested by subsecs. (d)(1) and (f) in Secretary of Labor and Civil Service Commission transferred to Equal Employment Opportunity Commission by Reorg. Plan No. 1 of 1978, § 1, 43 F.R. 19807, 92 Stat. 3781, set out in the Appendix to Title 5, Government Organization and Employees, effective Jan. 1, 1979, as provided by section 1–101 of Ex. Ord. No. 12106, Dec. 28, 1978, 44 F.R. 1053.
 
 “Director of the Office of Personnel Management” substituted for “Civil Service Commission” in subsec. (f), pursuant to Reorg. Plan No. 2 of 1978, § 102, 43 F.R. 36037, 92 Stat. 3783, set out under [section 1101 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section1101&num=0&edition=prelim), Government Organization and Employees, which transferred all functions vested by statute in United States Civil Service Commission to Director of the Office of Personnel Management (except as otherwise specified), effective Jan. 1, 1979, as provided by section 1–102 of Ex. Ord. No. 12107, Dec. 28, 1978, 44 F.R. 1055, set out under [section 1101 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section1101&num=0&edition=prelim).
 
 Functions of all other officers of Department of Labor and functions of all agencies and employees of that Department, with exception of functions vested by Administrative Procedure Act (now covered by sections 551 et seq. and 701 et seq. of Title 5, Government Organization and Employees) in hearing examiners employed by Department, transferred to Secretary of Labor, with power vested in him to authorize their performance or performance of any of his functions by any of those officers, agencies, and employees, by Reorg. Plan No. 6 of 1950, §§ 1, 2, 15 F.R. 3174, 64 Stat. 1263, set out in the Appendix to Title 5.
-
-#### Minimum Wage Study Commission; Establishment, Purposes, Composition, Etc.
-Pub. L. 95–151, § 2(e), Nov. 1, 1977, 91 Stat. 1246, provided for the establishment, purposes, composition, etc., of the Minimum Wage Study Commission, the submission of reports, with the latest report being submitted to the President and Congress thirty six months after the date of the appointment of the members of the Commission and such appointments being made within 180 days after Nov. 1, 1977, and the Commission to cease to exist thirty days after submission of the report.
-
-#### Definition of “Secretary”
-Act Aug. 12, 1955, ch. 867, § 6, 69 Stat. 712, provided that: “The term ‘Secretary’ as used in this Act and in amendments made by this Act [amending this section and sections 205, 206, 208, and 210 of this title] means the Secretary of Labor.”
 
 
 <a id="section-205"></a>
@@ -685,11 +685,6 @@ Act Aug. 12, 1955, ch. 867, § 3, 69 Stat. 711, provided that the amendment made
 #### Effective Date of 1949 Amendment
 Amendment by act Oct. 26, 1949, effective ninety days after Oct. 26, 1949, see section 16(a) of act Oct. 26, 1949, set out as a note under [section 202 of this title](./chapter-008-fair-labor-standards.md#section-202).
 
-#### Transfer of Functions
-Functions relating to enforcement and administration of equal pay provisions vested by this section in Secretary of Labor and Administrator of Wage and Hour Division of Department of Labor transferred to Equal Employment Opportunity Commission by Reorg. Plan No. 1 of 1978, § 1, 43 F.R. 19807, 92 Stat. 3781, set out in the Appendix to Title 5, Government Organization and Employees, effective Jan. 1, 1979, as provided by section 1–101 of Ex. Ord. No. 12106, Dec. 28, 1978, 44 F.R. 1053.
-
-Functions of all other officers of Department of Labor and functions of all agencies and employees of that Department, with exception of functions vested by Administrative Procedure Act (now covered by sections 551 et seq. and 701 et seq. of Title 5, Government Organization and Employees) in hearing examiners employed by Department, transferred to Secretary of Labor, with power vested in him to authorize their performance or performance of any of his functions by any of those officers, agencies, and employees, by Reorg. Plan No. 6 of 1950, §§ 1, 2, 15 F.R. 3174, 64 Stat. 1263, set out in the Appendix to Title 5.
-
 #### Applicability of Minimum Wage to American Samoa and the Commonwealth of the Northern Mariana Islands
 Pub. L. 110–28, title VIII, § 8103(a), (b), May 25, 2007, 121 Stat. 188, 189, as amended by Pub. L. 111–117, div. D, title V, § 520, Dec. 16, 2009, 123 Stat. 3283; Pub. L. 111–244, § 2(a), Sept. 30, 2010, 124 Stat. 2618; Pub. L. 112–149, § 4(a), July 26, 2012, 126 Stat. 1145; Pub. L. 113–34, § 2, Sept. 18, 2013, 127 Stat. 518; Pub. L. 114–61, § 1(a), Oct. 7, 2015, 129 Stat. 545, provided that: “(a) In General.—Section 6 of the Fair Labor Standards Act of 1938 ([29 U.S.C. 206](./chapter-008-fair-labor-standards.md#section-206)) shall apply to American Samoa and the Commonwealth of the Northern Mariana Islands. “(b) Transition.—Notwithstanding subsection (a)—“(1) the minimum wage applicable to the Commonwealth of the Northern Mariana Islands under section 6(a)(1) of the Fair Labor Standards Act of 1938 ([29 U.S.C. 206(a)(1)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section206/a/1&num=0&edition=prelim)) shall be—“(A) $3.55 an hour, beginning on the 60th day after the date of enactment of this Act [May 25, 2007]; and “(B) increased by $0.50 an hour (or such lesser amount as may be necessary to equal the minimum wage under section 6(a)(1) of such Act), beginning 1 year after the date of enactment of this Act and each year thereafter until the minimum wage applicable to the Commonwealth of the Northern Mariana Islands under this paragraph is equal to the minimum wage set forth in such section, except that, beginning in 2010 and each year thereafter (except 2011, 2013, and 2015 when there shall be no increase), such increase shall occur on September 30; and “(2) the minimum wage applicable to American Samoa under section 6(a)(1) of the Fair Labor Standards Act of 1938 ([29 U.S.C. 206(a)(1)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section206/a/1&num=0&edition=prelim)) shall be—“(A) the applicable wage rate in effect for each industry and classification as of September 29, 2015; and “(B) increased by $0.40 an hour (or such lesser amount as may be necessary to equal the minimum wage under section 6(a)(1) of such Act), beginning on September 30, 2015, and on September 30 of every third year thereafter, until the minimum wage applicable to American Samoa under this paragraph is equal to the minimum wage set forth in such section.”
 
@@ -718,6 +713,11 @@ Pub. L. 88–38, § 2, June 10, 1963, 77 Stat. 56, provided that: “(a) The Con
 
 #### Definition of “Administrator”
 The term “Administrator” as meaning the Administrator of the Wage and Hour Division, see [section 204 of this title](./chapter-008-fair-labor-standards.md#section-204).
+
+#### Transfer of Functions
+Functions relating to enforcement and administration of equal pay provisions vested by this section in Secretary of Labor and Administrator of Wage and Hour Division of Department of Labor transferred to Equal Employment Opportunity Commission by Reorg. Plan No. 1 of 1978, § 1, 43 F.R. 19807, 92 Stat. 3781, set out in the Appendix to Title 5, Government Organization and Employees, effective Jan. 1, 1979, as provided by section 1–101 of Ex. Ord. No. 12106, Dec. 28, 1978, 44 F.R. 1053.
+
+Functions of all other officers of Department of Labor and functions of all agencies and employees of that Department, with exception of functions vested by Administrative Procedure Act (now covered by sections 551 et seq. and 701 et seq. of Title 5, Government Organization and Employees) in hearing examiners employed by Department, transferred to Secretary of Labor, with power vested in him to authorize their performance or performance of any of his functions by any of those officers, agencies, and employees, by Reorg. Plan No. 6 of 1950, §§ 1, 2, 15 F.R. 3174, 64 Stat. 1263, set out in the Appendix to Title 5.
 
 
 <a id="section-207"></a>
@@ -1038,9 +1038,6 @@ Amendment by act Oct. 26, 1949, effective ninety days after Oct. 26, 1949, see s
 #### Regulations
 Pub. L. 106–202, § 2(e), May 18, 2000, 114 Stat. 309, provided that: “The Secretary of Labor may promulgate such regulations as may be necessary to carry out the amendments made by this Act [amending this section].”
 
-#### Transfer of Functions
-Functions of all other officers of Department of Labor and functions of all agencies and employees of that Department, with exception of functions vested by Administrative Procedure Act (now covered by sections 551 et seq. and 701 et seq. of Title 5, Government Organization and Employees) in hearing examiners employed by Department, transferred to Secretary of Labor, with power vested in him to authorize their performance or performance of any of his functions by any of those officers, agencies, and employees, by Reorg. Plan No. 6 of 1950, §§ 1, 2, 15 F.R. 3174, 64 Stat. 1263, set out in the Appendix to Title 5.
-
 #### Applicability; Liability of Employers
 Pub. L. 110–244, title III, § 306, June 6, 2008, 122 Stat. 1620, provided that: “(a) Applicability Following This Act.—Beginning on the date of enactment of this Act [June 6, 2008], section 7 of the Fair Labor Standards Act of 1938 ([29 U.S.C. 207](./chapter-008-fair-labor-standards.md#section-207)) shall apply to a covered employee notwithstanding section 13(b)(1) of that Act ([29 U.S.C. 213(b)(1)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section213/b/1&num=0&edition=prelim)). “(b) Liability Limitation Following SAFETEA–LU.—“(1) Limitation on liability.—An employer shall not be liable for a violation of section 7 of the Fair Labor Standards Act of 1938 ([29 U.S.C. 207](./chapter-008-fair-labor-standards.md#section-207)) with respect to a covered employee if—“(A) the violation occurred in the 1-year period beginning on August 10, 2005; and “(B) as of the date of the violation, the employer did not have actual knowledge that the employer was subject to the requirements of such section with respect to the covered employee. “(2) Actions to recover amounts previously paid.—Nothing in paragraph (1) shall be construed to establish a cause of action for an employer to recover amounts paid before the date of enactment of this Act [June 6, 2008] in settlement of, in compromise of, or pursuant to a judgment rendered regarding a claim or potential claim based on an alleged or proven violation of section 7 of the Fair Labor Standards Act of 1938 ([29 U.S.C. 207](./chapter-008-fair-labor-standards.md#section-207)) occurring in the 1-year period referred to in paragraph (1)(A) with respect to a covered employee. “(c) Covered Employee Defined.—In this section, the term ‘covered employee’ means an individual—“(1) who is employed by a motor carrier or motor private carrier (as such terms are defined by [section 13102 of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section13102&num=0&edition=prelim), United States Code, as amended by section 305); “(2) whose work, in whole or in part, is defined—“(A) as that of a driver, driver’s helper, loader, or mechanic; and “(B) as affecting the safety of operation of motor vehicles weighing 10,000 pounds or less in transportation on public highways in interstate or foreign commerce, except vehicles—“(i) designed or used to transport more than 8 passengers (including the driver) for compensation; “(ii) designed or used to transport more than 15 passengers (including the driver) and not used to transport passengers for compensation; or “(iii) used in transporting material found by the Secretary of Transportation to be hazardous under [section 5103 of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section5103&num=0&edition=prelim), United States Code, and transported in a quantity requiring placarding under regulations prescribed by the Secretary under [section 5103 of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section5103&num=0&edition=prelim), United States Code; and “(3) who performs duties on motor vehicles weighing 10,000 pounds or less.”
 
@@ -1051,7 +1048,7 @@ Pub. L. 106–202, § 2(d), May 18, 2000, 114 Stat. 309, provided that: “No em
 Pub. L. 99–150, § 2(b), Nov. 13, 1985, 99 Stat. 788, provided that: “A collective bargaining agreement which is in effect on April 15, 1986, and which permits compensatory time off in lieu of overtime compensation shall remain in effect until its expiration date unless otherwise modified, except that compensatory time shall be provided after April 14, 1986, in accordance with section 7(o) of the Fair Labor Standards Act of 1938 (as added by subsection (a)) [[29 U.S.C. 207](./chapter-008-fair-labor-standards.md#section-207)(o)].”
 
 #### Deferment of Monetary Overtime Compensation
-Pub. L. 99–150, § 2(c)(2), Nov. 13, 1985, 99 Stat. 789, provided that: “A State, political subdivision of a State, or interstate governmental agency may defer until August 1, 1986, the payment of monetary overtime compensation under section 7 of the Fair Labor Standards Act of 1938 [[29 U.S.C. 207](./chapter-008-fair-labor-standards.md#section-207)] for hours worked after April 14, 1986.”
+Pub. L. 99–150, § 2(c)(2), Nov. 13, 1985, 99 Stat. 789, provided that a State, political subdivision of a State, or interstate governmental agency could defer until Aug. 1, 1986, the payment of monetary overtime compensation under this section for hours worked after Apr. 14, 1986.
 
 #### Effect of Amendments by Public Law 99–150 on Public Agency Liability Respecting any Employee Covered Under Special Enforcement Policy
 Amendment by Pub. L. 99–150 not to affect liability of certain public agencies under [section 216 of this title](./chapter-008-fair-labor-standards.md#section-216) for violation of this section occurring before Apr. 15, 1986, see section 7 of Pub. L. 99–150, set out as a note under [section 216 of this title](./chapter-008-fair-labor-standards.md#section-216).
@@ -1062,15 +1059,18 @@ Secretary authorized to promulgate necessary rules, regulations, or orders on an
 #### Study by Secretary of Labor of Excessive Overtime
 Pub. L. 89–601, title VI, § 603, Sept. 23, 1966, 80 Stat. 844, directed Secretary of Labor to make a complete study of practices dealing with overtime payments for work in excess of forty hours per week and the extent to which such overtime work impeded the creation of new job opportunities in American industry and instructed him to report to the Congress by July 1, 1967, the findings of such survey with appropriate recommendations.
 
+#### Definition of “Administrator”
+The term “Administrator” as meaning the Administrator of the Wage and Hour Division, see [section 204 of this title](./chapter-008-fair-labor-standards.md#section-204).
+
+#### Transfer of Functions
+Functions of all other officers of Department of Labor and functions of all agencies and employees of that Department, with exception of functions vested by Administrative Procedure Act (now covered by sections 551 et seq. and 701 et seq. of Title 5, Government Organization and Employees) in hearing examiners employed by Department, transferred to Secretary of Labor, with power vested in him to authorize their performance or performance of any of his functions by any of those officers, agencies, and employees, by Reorg. Plan No. 6 of 1950, §§ 1, 2, 15 F.R. 3174, 64 Stat. 1263, set out in the Appendix to Title 5.
+
 #### Ex. Ord. No. 9607. Forty-Eight Hour Wartime Workweek
 Ex. Ord. No. 9607, Aug. 30, 1945, 10 F.R. 11191, provided:
 
 By virtue of the authority vested in me by the Constitution and statutes as President of the United States it is ordered that Executive Order 9301 of February 9, 1943 [8 F.R. 1825] (formerly set out as note under this section), establishing a minimum wartime workweek of forty-eight hours, be, and it is hereby, revoked.
 
 Harry S. Truman.
-
-#### Definition of “Administrator”
-The term “Administrator” as meaning the Administrator of the Wage and Hour Division, see [section 204 of this title](./chapter-008-fair-labor-standards.md#section-204).
 
 
 <a id="section-208"></a>
@@ -1091,15 +1091,15 @@ For the purpose of any hearing or investigation provided for in this chapter, th
 
 ### Statutory Notes
 
+#### Definition of “Administrator”
+The term “Administrator” as meaning the Administrator of the Wage and Hour Division, see [section 204 of this title](./chapter-008-fair-labor-standards.md#section-204).
+
 #### Transfer of Functions
 Functions relating to enforcement and administration of equal pay provisions vested by this section in Secretary of Labor and Administrator of Wage and Hour Division of Department of Labor transferred to Equal Employment Opportunity Commission by Reorg. Plan No. 1 of 1978, § 1, 43 F.R. 19807, 92 Stat. 3781, set out in the Appendix to Title 5, Government Organization and Employees, effective Jan. 1, 1979, as provided by section 1–101 of Ex. Ord. No. 12106, Dec. 28, 1978, 44 F.R. 1053.
 
 Functions of all other officers of Department of Labor and functions of all agencies and employees of that Department, with exception of functions vested by Administrative Procedure Act (now covered by sections 551 et seq. and 701 et seq. of Title 5, Government Organization and Employees) in hearing examiners employed by Department, transferred to Secretary of Labor, with power vested in him to authorize their performance or performance of any of his functions by any of those officers, agencies, and employees, by Reorg. Plan No. 6 of 1950, §§ 1, 2, 15 F.R. 3174, 64 Stat. 1263, set out in the Appendix to Title 5.
 
 “Secretary of Labor” substituted in text for “Chief of the Children’s Bureau” by 1946 Reorg. Plan No. 2. See Transfer of Functions note set out under [section 203 of this title](./chapter-008-fair-labor-standards.md#section-203).
-
-#### Definition of “Administrator”
-The term “Administrator” as meaning the Administrator of the Wage and Hour Division, see [section 204 of this title](./chapter-008-fair-labor-standards.md#section-204).
 
 
 <a id="section-210"></a>
@@ -1123,14 +1123,14 @@ The term “Administrator” as meaning the Administrator of the Wage and Hour D
 #### Effective Date of 1974 Amendment
 Amendment by Pub. L. 93–259 effective May 1, 1974, see section 29(a) of Pub. L. 93–259, set out as a note under [section 202 of this title](./chapter-008-fair-labor-standards.md#section-202).
 
-#### Transfer of Functions
-For transfer of functions of other officers, employees, and agencies of Department of Labor, with certain exceptions, to Secretary of Labor, with power to delegate, see Reorg. Plan No. 6 of 1950, §§ 1, 2, 15 F.R. 3174, 64 Stat. 1263, set out in the Appendix to Title 5, Government Organization and Employees.
-
 #### Definition of “Administrator”
 The term “Administrator” as meaning the Administrator of the Wage and Hour Division, see [section 204 of this title](./chapter-008-fair-labor-standards.md#section-204).
 
 #### Definition of “Secretary”
 The term “Secretary” as meaning the Secretary of Labor, see section 6 of act Aug. 12, 1955, set out as a note under [section 204 of this title](./chapter-008-fair-labor-standards.md#section-204).
+
+#### Transfer of Functions
+For transfer of functions of other officers, employees, and agencies of Department of Labor, with certain exceptions, to Secretary of Labor, with power to delegate, see Reorg. Plan No. 6 of 1950, §§ 1, 2, 15 F.R. 3174, 64 Stat. 1263, set out in the Appendix to Title 5, Government Organization and Employees.
 
 
 <a id="section-211"></a>
@@ -1156,18 +1156,18 @@ Amendment by Pub. L. 99–150 effective Apr. 15, 1986, see section 6 of Pub. L. 
 #### Effective Date of 1949 Amendment
 Amendment by act Oct. 26, 1949, effective ninety days after Oct. 26, 1949, see section 16(a) of act Oct. 26, 1949, set out as a note under [section 202 of this title](./chapter-008-fair-labor-standards.md#section-202).
 
+#### Effect of Amendments by Public Law 99–150 on Public Agency Liability Respecting any Employee Covered Under Special Enforcement Policy
+Amendment by Pub. L. 99–150 not to affect liability of certain public agencies under [section 216 of this title](./chapter-008-fair-labor-standards.md#section-216) for violation of this section occurring before Apr. 15, 1986, see section 7 of Pub. L. 99–150, set out as a note under [section 216 of this title](./chapter-008-fair-labor-standards.md#section-216).
+
+#### Definition of “Administrator”
+The term “Administrator” as meaning the Administrator of the Wage and Hour Division, see [section 204 of this title](./chapter-008-fair-labor-standards.md#section-204).
+
 #### Transfer of Functions
 Functions relating to enforcement and administration of equal pay provisions vested by subsecs. (a), (b), and (c) of this section in Secretary of Labor and Administrator of Wage and Hour Division of Department of Labor transferred to Equal Employment Opportunity Commission by Reorg. Plan No. 1 of 1978, § 1, 43 F.R. 19807, 92 Stat. 3781, set out in the Appendix to Title 5, Government Organization and Employees, effective Jan. 1, 1979, as provided by section 1–101 of Ex. Ord. No. 12106, Dec. 28, 1978, 44 F.R. 1053.
 
 For transfer of functions of other officers, employees, and agencies of Department of Labor, with certain exceptions, to Secretary of Labor, with power to delegate, see Reorg. Plan No. 6 of 1950, §§ 1, 2, 15 F.R. 3174, 64 Stat. 1263, set out in the Appendix to Title 5, Government Organization and Employees.
 
 “Secretary of Labor” substituted for “Chief of the Children’s Bureau” in subsec. (b) by 1946 Reorg. Plan No. 2. See note set out under [section 203 of this title](./chapter-008-fair-labor-standards.md#section-203).
-
-#### Effect of Amendments by Public Law 99–150 on Public Agency Liability Respecting any Employee Covered Under Special Enforcement Policy
-Amendment by Pub. L. 99–150 not to affect liability of certain public agencies under [section 216 of this title](./chapter-008-fair-labor-standards.md#section-216) for violation of this section occurring before Apr. 15, 1986, see section 7 of Pub. L. 99–150, set out as a note under [section 216 of this title](./chapter-008-fair-labor-standards.md#section-216).
-
-#### Definition of “Administrator”
-The term “Administrator” as meaning the Administrator of the Wage and Hour Division, see [section 204 of this title](./chapter-008-fair-labor-standards.md#section-204).
 
 
 <a id="section-212"></a>
@@ -1821,11 +1821,6 @@ Pub. L. 85–231, § 2, Aug. 30, 1957, 71 Stat. 514, provided that: “The amend
 #### Effective Date of 1949 Amendment
 Amendment by act Oct. 26, 1949, effective ninety days after Oct. 26, 1949, see section 16(a) of act Oct. 26, 1949, set out as a note under [section 202 of this title](./chapter-008-fair-labor-standards.md#section-202).
 
-#### Transfer of Functions
-Functions vested by law (including reorganization plans) in Bureau of the Budget or Director of Bureau of the Budget transferred to President of the United States by section 101 of Reorg. Plan No. 2 of 1970, eff. July 1, 1970, 35 F.R. 7959, 84 Stat. 2085, set out in the Appendix to Title 5, Government Organization and Employees. Section 102 of Reorg. Plan No. 2 of 1970 redesignated Bureau of the Budget as Office of Management and Budget.
-
-For transfer of functions of other officers, employees, and agencies of Department of Labor, with certain exceptions, to Secretary of Labor, with power to delegate, see Reorg. Plan No. 6 of 1950, §§ 1, 2, 15 F.R. 3174, 64 Stat. 1263, set out in the Appendix to Title 5.
-
 #### Exemptions for Apprentices and Student Learners
 Pub. L. 104–174, § 3, Aug. 6, 1996, 110 Stat. 1555, provided that: “Section 1 [amending this section] shall not be construed as affecting the exemption for apprentices and student learners published in section 570.63 of title 29, Code of Federal Regulations.”
 
@@ -1846,6 +1841,11 @@ Pub. L. 87–30, § 13, May 5, 1961, 75 Stat. 75, directed Secretary of Labor to
 
 #### Transportation of Migrant Farm Workers
 Act Aug. 3, 1956, ch. 905, § 3, 70 Stat. 958, provided that: “Section 13(b)(1) of the Fair Labor Standards Act, as amended [subsec. (b)(1) of this section] shall not apply in the case of any employee with respect to whom the Interstate Commerce Commission [now Secretary of Transportation] has power to establish qualifications and maximum hours of service solely by virtue of section 204(a)(3a) of the Interstate Commerce Act [now [49 U.S.C. 31502](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section31502&num=0&edition=prelim)].”
+
+#### Transfer of Functions
+Functions vested by law (including reorganization plans) in Bureau of the Budget or Director of Bureau of the Budget transferred to President of the United States by section 101 of Reorg. Plan No. 2 of 1970, eff. July 1, 1970, 35 F.R. 7959, 84 Stat. 2085, set out in the Appendix to Title 5, Government Organization and Employees. Section 102 of Reorg. Plan No. 2 of 1970 redesignated Bureau of the Budget as Office of Management and Budget.
+
+For transfer of functions of other officers, employees, and agencies of Department of Labor, with certain exceptions, to Secretary of Labor, with power to delegate, see Reorg. Plan No. 6 of 1950, §§ 1, 2, 15 F.R. 3174, 64 Stat. 1263, set out in the Appendix to Title 5.
 
 
 <a id="section-214"></a>
@@ -1993,14 +1993,14 @@ Amendment by Pub. L. 87–30 effective upon expiration of one hundred and twenty
 #### Effective Date of 1949 Amendment
 Amendment by act Oct. 26, 1949, effective ninety days after Oct. 26, 1949, see section 16(a) of act Oct. 26, 1949, set out as a note under [section 202 of this title](./chapter-008-fair-labor-standards.md#section-202).
 
-#### Transfer of Functions
-For transfer of functions of other officers, employees, and agencies of Department of Labor, with certain exceptions, to Secretary of Labor, with power to delegate, see Reorg. Plan No. 6 of 1950, §§ 1, 2, 15 F.R. 3174, 64 Stat. 1263, set out in the Appendix to Title 5, Government Organization and Employees.
-
 #### Rules, Regulations, and Orders Promulgated With Regard to 1966 Amendments
 Secretary authorized to promulgate necessary rules, regulations, or orders on and after the date of the enactment of Pub. L. 89–601, Sept. 23, 1966, with regard to the amendments made by Pub. L. 89–601, see section 602 of Pub. L. 89–601, set out as a note under [section 203 of this title](./chapter-008-fair-labor-standards.md#section-203).
 
 #### Study of Wages Paid Handicapped Clients in Sheltered Workshops
 Pub. L. 89–601, title VI, § 605, Sept. 23, 1966, 80 Stat. 845, instructed Secretary of Labor to commence a complete study of wage payments to handicapped clients of sheltered workshops and of feasibility of raising existing wage standards in such workshops. The Secretary was directed to report to Congress by July 1, 1967, findings of such study with appropriate recommendations.
+
+#### Transfer of Functions
+For transfer of functions of other officers, employees, and agencies of Department of Labor, with certain exceptions, to Secretary of Labor, with power to delegate, see Reorg. Plan No. 6 of 1950, §§ 1, 2, 15 F.R. 3174, 64 Stat. 1263, set out in the Appendix to Title 5, Government Organization and Employees.
 
 
 <a id="section-215"></a>
@@ -2029,11 +2029,11 @@ Subsec. (a)(5). Act Oct. 26, 1949, § 13(b), inserted “or any regulation or or
 #### Effective Date of 1949 Amendment
 Amendment by act Oct. 26, 1949, effective ninety days after Oct. 26, 1949, see section 16(a) of act Oct. 26, 1949, set out as a note under [section 202 of this title](./chapter-008-fair-labor-standards.md#section-202).
 
-#### Transfer of Functions
-For transfer of functions of other officers, employees, and agencies of Department of Labor, with certain exceptions, to Secretary of Labor, with power to delegate, see Reorg. Plan No. 6 of 1950, §§ 1, 2, 15 F.R. 3174, 64 Stat. 1263, set out in the Appendix to Title 5, Government Organization and Employees.
-
 #### Liability of Public Agency for Discrimination Against Employee for Assertion of Coverage
 Pub. L. 99–150, § 8, Nov. 13, 1985, 99 Stat. 791, provided that: “A public agency which is a State, political subdivision of a State, or an interstate governmental agency and which discriminates or has discriminated against an employee with respect to the employee’s wages or other terms or conditions of employment because on or after February 19, 1985, the employee asserted coverage under section 7 of the Fair Labor Standards Act of 1938 [[29 U.S.C. 207](./chapter-008-fair-labor-standards.md#section-207)] shall be held to have violated section 15(a)(3) of such Act [[29 U.S.C. 215(a)(3)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section215/a/3&num=0&edition=prelim)]. The protection against discrimination afforded by the preceding sentence shall be available after August 1, 1986, only for an employee who takes an action described in section 15(a)(3) of such Act.”
+
+#### Transfer of Functions
+For transfer of functions of other officers, employees, and agencies of Department of Labor, with certain exceptions, to Secretary of Labor, with power to delegate, see Reorg. Plan No. 6 of 1950, §§ 1, 2, 15 F.R. 3174, 64 Stat. 1263, set out in the Appendix to Title 5, Government Organization and Employees.
 
 
 <a id="section-216"></a>
@@ -2046,7 +2046,7 @@ Pub. L. 99–150, § 8, Nov. 13, 1985, 99 Stat. 791, provided that: “A public 
 
 **(d) Savings provisions** In any action or proceeding commenced prior to, on, or after August 8, 1956, no employer shall be subject to any liability or punishment under this chapter or the Portal-to-Portal Act of 1947 [[29 U.S.C. 251](./chapter-009-portal-to-portal-pay.md#section-251) et seq.] on account of his failure to comply with any provision or provisions of this chapter or such Act (1) with respect to work heretofore or hereafter performed in a workplace to which the exemption in [section 213(f) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section213/f&num=0&edition=prelim) is applicable, (2) with respect to work performed in Guam, the Canal Zone or Wake Island before the effective date of this amendment of subsection (d), or (3) with respect to work performed in a possession named in section 206(a)(3) 11 See References in Text note below. of this title at any time prior to the establishment by the Secretary, as provided therein, of a minimum wage rate applicable to such work.
 
-**(e) Civil penalties for child labor violations**
+**(e) Civil penalties for certain violations**
 
 (1)
 
@@ -2097,7 +2097,7 @@ Subsec. (c). Pub. L. 115–141, § 1201(b)(2), inserted at end “The authority 
 
 Subsec. (e)(2). Pub. L. 115–141, § 1201(b)(3), inserted at end “Any person who violates [section 203(m)(2)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section203/m/2/B&num=0&edition=prelim) shall be subject to a civil penalty not to exceed $1,100 for each such violation, as the Secretary determines appropriate, in addition to being liable to the employee or employees affected for all tips unlawfully kept, and an additional equal amount as liquidated damages, as described in subsection (b).”
 
-2008—Subsec. (e). Pub. L. 110–233 amended subsec. (e) generally. Prior to amendment, subsec. (e) related to civil penalties for child labor violations.
+2008—Subsec. (e). Pub. L. 110–233 amended subsec. (e) generally. Prior to amendment, subsec. (e) related to civil penalties for certain violations.
 
 1996—Subsec. (e). Pub. L. 104–174 in first sentence substituted “of [section 212 of this title](./chapter-008-fair-labor-standards.md#section-212) or [section 213(c)(5) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section213/c/5&num=0&edition=prelim)” for “of [section 212 of this title](./chapter-008-fair-labor-standards.md#section-212)” and “under [section 212 of this title](./chapter-008-fair-labor-standards.md#section-212) or [section 213(c)(5) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section213/c/5&num=0&edition=prelim)” for “under that section”.
 
@@ -2151,11 +2151,6 @@ Amendment by act Oct. 26, 1949, effective ninety days after Oct. 26, 1949, see s
 #### Effective Date of 1947 Amendment
 Act May 14, 1947, ch. 52, § 5(b), 61 Stat. 87, provided that: “The amendment made by subsection (a) of this section [amending this section] shall be applicable only with respect to actions commenced under the Fair Labor Standards Act of 1938, as amended [this chapter], on or after the date of the enactment of this Act [May 14, 1947].”
 
-#### Transfer of Functions
-Functions relating to enforcement and administration of equal pay provisions vested by subsecs. (b) and (c) of this section in Secretary of Labor transferred to Equal Employment Opportunity Commission by Reorg. Plan No. 1 of 1978, § 1, 43 F.R. 19807, 92 Stat. 3781, set out in the Appendix to Title 5, Government Organization and Employees, effective Jan. 1, 1979, as provided by section 1–101 of Ex. Ord. No. 12106, Dec. 28, 1978, 44 F.R. 1053.
-
-For transfer of functions of other officers, employees, and agencies of Department of Labor, with certain exceptions, to Secretary of Labor, with power to delegate, see Reorg. Plan No. 6 of 1950, §§ 1, 2, 15 F.R. 3174, 64 Stat. 1263, set out in the Appendix to Title 5.
-
 #### Liability of State, Political Subdivision, or Interstate Governmental Agency for Violations Before April 15, 1986, Respecting any Employee Not Covered Under Special Enforcement Policy
 Pub. L. 99–150, § 2(c)(1), Nov. 13, 1985, 99 Stat. 788, provided that: “No State, political subdivision of a State, or interstate governmental agency shall be liable under section 16 of the Fair Labor Standards Act of 1938 [[29 U.S.C. 216](./chapter-008-fair-labor-standards.md#section-216)] for a violation of section 6 [[29 U.S.C. 206](./chapter-008-fair-labor-standards.md#section-206)] (in the case of a territory or possession of the United States), 7 [[29 U.S.C. 207](./chapter-008-fair-labor-standards.md#section-207)], or 11(c) [[29 U.S.C. 211(c)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section211/c&num=0&edition=prelim)] (as it relates to section 7) of such Act occurring before April 15, 1986, with respect to any employee of the State, political subdivision, or agency who would not have been covered by such Act [this chapter] under the Secretary of Labor’s special enforcement policy on January 1, 1985, and published in sections 775.2 and 775.4 of title 29 of the Code of Federal Regulations.”
 
@@ -2170,6 +2165,11 @@ Act Oct. 26, 1949, ch. 736, § 16(b), 63 Stat. 920, provided that: “Except as 
 
 #### Retroactive Effect of 1949 Amendments; Limitation of Actions
 Act Oct. 26, 1949, ch. 736, § 16(d), 63 Stat. 920, provided that actions based upon acts or omissions occurring prior to the effective date of act Oct. 26, 1949, which was to be effective ninety days after Oct. 26, 1949, were not prevented by the amendments made to sections 202 to 208, and 211 to 217 of this title by such act, so long as such actions were instituted within two years from such effective date.
+
+#### Transfer of Functions
+Functions relating to enforcement and administration of equal pay provisions vested by subsecs. (b) and (c) of this section in Secretary of Labor transferred to Equal Employment Opportunity Commission by Reorg. Plan No. 1 of 1978, § 1, 43 F.R. 19807, 92 Stat. 3781, set out in the Appendix to Title 5, Government Organization and Employees, effective Jan. 1, 1979, as provided by section 1–101 of Ex. Ord. No. 12106, Dec. 28, 1978, 44 F.R. 1053.
+
+For transfer of functions of other officers, employees, and agencies of Department of Labor, with certain exceptions, to Secretary of Labor, with power to delegate, see Reorg. Plan No. 6 of 1950, §§ 1, 2, 15 F.R. 3174, 64 Stat. 1263, set out in the Appendix to Title 5.
 
 
 <a id="section-216a"></a>

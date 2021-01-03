@@ -259,15 +259,17 @@ Pub. L. 97–291, § 7, Oct. 12, 1982, 96 Stat. 1257, required the Attorney Gene
 
     (ii) an offense against property under this title, or under section 416(a) of the Controlled Substances Act ([21 U.S.C. 856(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section856/a&num=0&edition=prelim)), including any offense committed by fraud or deceit;
 
-    (iii) an offense described in section 1365 (relating to tampering with consumer products); or
+    (iii) an offense described in section 3 of the Rodchenkov Anti-Doping Act of 2019;
 
-    (iv) an offense under section 670 (relating to theft of medical products); and
+    (iv) an offense described in section 1365 (relating to tampering with consumer products); or
+
+    (v) an offense under section 670 (relating to theft of medical products); and
 
   (B) in which an identifiable victim or victims has suffered a physical injury or pecuniary loss.
 
 (2) In the case of a plea agreement that does not result in a conviction for an offense described in paragraph (1), this section shall apply only if the plea specifically states that an offense listed under such paragraph gave rise to the plea agreement.
 
-(3) This section shall not apply in the case of an offense described in paragraph (1)(A)(ii) if the court finds, from facts on the record, that—
+(3) This section shall not apply in the case of an offense described in paragraph (1)(A)(ii) or (iii) if the court finds, from facts on the record, that—
 
   (A) the number of identifiable victims is so large as to make restitution impracticable; or
 
@@ -277,7 +279,14 @@ Pub. L. 97–291, § 7, Oct. 12, 1982, 96 Stat. 1257, required the Attorney Gene
 
 ### Statutory Notes
 
+#### References in Text
+Section 3 of the Rodchenkov Anti-Doping Act of 2019, referred to in subsec. (c)(1)(A)(iii), is classified to [section 2402 of Title 21](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section2402&num=0&edition=prelim), Food and Drugs.
+
 #### Amendments
+2020—Subsec. (c)(1)(A)(iii) to (v). Pub. L. 116–206, § 5(1), added cl. (iii) and redesignated former cls. (iii) and (iv) as (iv) and (v), respectively.
+
+Subsec. (c)(3). Pub. L. 116–206, § 5(2), inserted “or (iii)” after “paragraph (1)(A)(ii)” in introductory provisions.
+
 2012—Subsec. (c)(1)(A)(iv). Pub. L. 112–186 added cl. (iv).
 
 2000—Subsec. (c)(1)(A)(ii). Pub. L. 106–310 inserted “or under section 416(a) of the Controlled Substances Act ([21 U.S.C. 856(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section856/a&num=0&edition=prelim)),” after “under this title,”.

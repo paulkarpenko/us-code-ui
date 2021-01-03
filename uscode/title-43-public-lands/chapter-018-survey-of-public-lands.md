@@ -19,15 +19,16 @@ R.S. § 2395 derived from acts May 18, 1796, ch. 29, § 2, 1 Stat. 465; May 10, 
 #### Amendments
 1950—Par. Third. Act Apr. 29, 1950, struck out provision that sections 1 mile square in townships be established by running survey lines 2 miles apart.
 
-#### Transfer of Functions
-For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out under [section 1451 of this title](./chapter-031-department-of-the-interior.md#section-1451).
-
-In par. “Eighth”, reference to “United States Supervisor of Surveys,” changed to “Secretary of the Interior or such officer as he may designate,”; “office of the Field Surveying Service” changed to “office of the Secretary of the Interior or of such agency as he may designate,”; and “General Land Office” changed to “Bureau of Land Management”, on authority of section 403 of Reorg. Plan No. 3 of 1946. See note set out under [section 1 of this title](./chapter-001-bureau-of-land-management.md#section-1).
-
+#### Abolition of Office of Surveyor General and Transfer of Functions
 Act Mar. 3, 1925, abolished office of surveyor general and transferred administration of all activities in charge of surveyors general to Field Surveying Service under jurisdiction of United States Supervisor of Surveys.
 
 #### Land Information Study; Report to Congress
 Pub. L. 100–409, § 8, Aug. 20, 1988, 102 Stat. 1091, provided that: “(a) Study.—The Secretary of the Interior shall conduct an assessment of the need for and cost and benefits associated with improvements in the existing methods of land surveying and mapping and of collecting, storing, retrieving, disseminating, and using information about Federal and other lands. “(b) Consultation.—In conducting the assessment required by this section, the Secretary of the Interior shall consult with the following—“(1) the Secretary of Agriculture; “(2) the Secretary of Commerce; “(3) the Director of the National Science Foundation; “(4) representatives of State and local governments; “(5) representatives of private sector surveying and mapping science. “(c) Report.—No later than one year after the day of enactment of this Act [Aug. 20, 1988], the Secretary of the Interior shall report to the Congress concerning the results of the assessment required by this section. “(d) Topics.—In the report required by subsection (c), the Secretary of the Interior shall include a discussion and evaluation of the following:“(1) relevant recommendations made by the National Academy of Sciences (National Research Council) on the concept of a multipurpose cadastre from time to time prior to the date of enactment of this Act [Aug. 20, 1988]; “(2) ongoing activities concerning development of an overall reference frame for land and resource information, including but not limited to a geodetic network, a series of current and accurate large-scale maps, cadastral overlay maps, unique identifying numbers linking specific land parcels to a common index of all land records in United States cadastral systems, and a series of land data files; “(3) ways to achieve better definition of the roles of Federal and other governmental agencies and the private sector in dealing with land information systems; “(4) ways to improve the coordination of Federal land information activities; and “(5) model standards developed by the Secretary for compatible multipurpose land information systems for use by Federal, State and local governmental agencies, the public, and the private sector. “(e) Recommendations.—The report required by subsection (c) may also include such recommendations for legislation as the Secretary of the Interior considers necessary or desirable.”
+
+#### Transfer of Functions
+For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out under [section 1451 of this title](./chapter-031-department-of-the-interior.md#section-1451).
+
+In par. “Eighth”, reference to “United States Supervisor of Surveys,” changed to “Secretary of the Interior or such officer as he may designate,”; “office of the Field Surveying Service” changed to “office of the Secretary of the Interior or of such agency as he may designate,”; and “General Land Office” changed to “Bureau of Land Management”, on authority of section 403 of Reorg. Plan No. 3 of 1946. See note set out under [section 1 of this title](./chapter-001-bureau-of-land-management.md#section-1).
 
 
 <a id="section-751a"></a>
@@ -59,14 +60,15 @@ Section was formerly classified to [section 352 of Title 48](https://uscode.hous
 #### Repeals
 Act Oct. 9, 1942, ch. 584, § 2, 56 Stat. 779, cited as a credit to this section, was repealed by Pub. L. 89–554, § 8(a), Sept. 6, 1966, 80 Stat. 651.
 
+#### Abolition of Offices of Receiver and Surveyor General and Transfer of Functions
+References to “receivers” changed to “registers” by act Oct. 9, 1942, which abolished office of receiver and transferred functions to an employee to be designated by Secretary and to be performed under title “register”.
+
+Act Mar. 3, 1925, abolished office of surveyor general and transferred administration of all activities in charge of surveyors general to Field Surveying Service under jurisdiction of United States Supervisor of Surveys.
+
 #### Transfer of Functions
 For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out under [section 1451 of this title](./chapter-031-department-of-the-interior.md#section-1451).
 
 Functions of Supervisor of Surveys and Registers transferred to Secretary of the Interior or those officers as he may designate by section 403 of Reorg. Plan No. 3 of 1946. See note set out under [section 1 of this title](./chapter-001-bureau-of-land-management.md#section-1).
-
-References to “receivers” changed to “registers” by act Oct. 9, 1942, which abolished office of receiver and transferred functions to an employee to be designated by Secretary and to be performed under title “register”.
-
-Act Mar. 3, 1925, abolished office of surveyor general and transferred administration of all activities in charge of surveyors general to Field Surveying Service under jurisdiction of United States Supervisor of Surveys.
 
 
 <a id="section-752"></a>
@@ -79,12 +81,13 @@ The boundaries and contents of the several sections, half-sections, and quarter-
 #### Codification
 R.S. § 2396 derived from act Feb. 11, 1805, ch. 14, § 2, 2 Stat. 313.
 
+#### Abolition of Office of Surveyor General and Transfer of Functions
+Act Mar. 3, 1925, abolished office of surveyor general and transferred administration of all activities in charge of surveyors general to Field Surveying Service under jurisdiction of United States Supervisor of Surveys.
+
 #### Transfer of Functions
 For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out under [section 1451 of this title](./chapter-031-department-of-the-interior.md#section-1451).
 
 In pars. “First”, “Second” and “Third”, reference to “Field Surveying Service” changed to “Secretary of the Interior or such agency as he may designate”, on authority of section 403 of Reorg. Plan No. 3 of 1946. See note set out under [section 1 of this title](./chapter-001-bureau-of-land-management.md#section-1).
-
-Act Mar. 3, 1925, abolished office of surveyor general and transferred administration of all activities in charge of surveyors general to Field Surveying Service under jurisdiction of United States Supervisor of Surveys.
 
 
 <a id="section-753"></a>
@@ -117,12 +120,13 @@ An accurate account shall be kept by the Secretary of the Interior or such offic
 
 ### Statutory Notes
 
+#### Abolition of Office of Surveyor General and Transfer of Functions
+Act Mar. 3, 1925, abolished office of surveyor general and transferred administration of all activities in charge of surveyors general to Field Surveying Service under jurisdiction of United States Supervisor of Surveys.
+
 #### Transfer of Functions
 For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out under [section 1451 of this title](./chapter-031-department-of-the-interior.md#section-1451).
 
 “Field Surveying Service” changed to “Secretary of the Interior or such agency as he may designate” and “General Land Office” changed to “Bureau of Land Management”, on authority of section 403 of Reorg. Plan No. 3 of 1946. See note set out under [section 1 of this title](./chapter-001-bureau-of-land-management.md#section-1).
-
-Act Mar. 3, 1925, abolished office of surveyor general and transferred administration of all activities in charge of surveyors general to Field Surveying Service under jurisdiction of United States Supervisor of Surveys.
 
 
 <a id="section-758"></a>
@@ -141,12 +145,13 @@ When the settlers in any township not mineral or reserved by the Government, or 
 #### Codification
 R.S. § 2401 derived from act May 30, 1862, ch. 86, § 10, 12 Stat. 410.
 
+#### Abolition of Office of Surveyor General and Transfer of Functions
+Act Mar. 3, 1925, abolished office of surveyor general and transferred administration of all activities in charge of surveyors general to Field Surveying Service under jurisdiction of United States Supervisor of Surveys.
+
 #### Transfer of Functions
 For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out under [section 1451 of this title](./chapter-031-department-of-the-interior.md#section-1451).
 
 References to “the Field Surveying Service” changed to “such agency as the Secretary of the Interior may designate” and “such agency,”, respectively; and “Commissioner of the General Land Office” changed to “Secretary of the Interior or such officer as he may designate”, on authority of section 403 of Reorg. Plan No. 3 of 1946. See note set out under [section 1 of this title](./chapter-001-bureau-of-land-management.md#section-1).
-
-Act Mar. 3, 1925, abolished office of surveyor general and transferred administration of all activities in charge of surveyors general to Field Surveying Service under jurisdiction of United States Supervisor of Surveys.
 
 
 <a id="section-760"></a>
@@ -167,12 +172,13 @@ The Secretary of the Treasury is authorized and directed to pay, out of the mone
 
 ### Statutory Notes
 
+#### Abolition of Office of Surveyor General and Transfer of Functions
+Act Mar. 3, 1925, abolished office of surveyor general and transferred administration of all activities in charge of surveyors general to Field Surveying Service under jurisdiction of United States Supervisor of Surveys.
+
 #### Transfer of Functions
 For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out under [section 1451 of this title](./chapter-031-department-of-the-interior.md#section-1451).
 
 References to “the United States Field Surveying Service” and “the Field Surveying Service” changed to “such agency as the Secretary of the Interior may designate”, and “the office of such agency”, respectively; and “Commissioner of the General Land Office” changed to “Secretary of the Interior or such officer as he may designate”, on authority of section 403 of Reorg. Plan No. 3 of 1946. See note set out under [section 1 of this title](./chapter-001-bureau-of-land-management.md#section-1).
-
-Act Mar. 3, 1925, abolished office of surveyor general and transferred administration of all activities in charge of surveyors general to Field Surveying Service under jurisdiction of United States Supervisor of Surveys.
 
 
 <a id="section-762"></a>
@@ -287,12 +293,13 @@ Upon the application of the owners of three-fourths of the privately owned lands
 
 ### Statutory Notes
 
+#### Abolition of Office of Surveyor General and Transfer of Functions
+Act Mar. 3, 1925, abolished office of surveyor general and transferred administration of all activities in charge of surveyors general to Field Surveying Service under jurisdiction of United States Supervisor of Surveys.
+
 #### Transfer of Functions
 For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out under [section 1451 of this title](./chapter-031-department-of-the-interior.md#section-1451).
 
 “Supervisor of Surveys” changed to the “Secretary of the Interior, or such officer as he may designate,”; “Commissioner of the General Land Office subject to the supervisory authority of the Secretary of the Interior,” changed to “Secretary, or such officer as he may designate,”; and reference to “Supervisor of Surveys or commissioner” changed to “Secretary of the Interior or such officer as he may designate,”, all on authority of section 403 of Reorg. Plan No. 3 of 1946. See note set out under [section 1 of this title](./chapter-001-bureau-of-land-management.md#section-1).
-
-Act Mar. 3, 1925, abolished office of surveyor general and transferred administration of all activities in charge of surveyors general to Field Surveying Service under jurisdiction of United States Supervisor of Surveys.
 
 
 <a id="section-774"></a>

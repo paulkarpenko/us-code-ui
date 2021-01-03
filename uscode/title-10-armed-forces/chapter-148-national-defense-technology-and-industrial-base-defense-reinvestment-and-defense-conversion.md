@@ -4,7 +4,7 @@ chapter: '148'
 heading: >-
   NATIONAL DEFENSE TECHNOLOGY AND INDUSTRIAL BASE, DEFENSE REINVESTMENT, AND
   DEFENSE CONVERSION
-section_count: 46
+section_count: 49
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10&num=0&edition=prelim
 ---
@@ -70,6 +70,9 @@ In this chapter:
 
 ### Statutory Notes
 
+#### Renumbering of Section
+Pub. L. 116–283, div. A, title XVIII, §§ 1801(d), 1866(c), Jan. 1, 2021, 134 Stat. 4151, 4279, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, this section is renumbered [section 4801 of this title](./chapter-381-defense-industrial-base-generally.md#section-4801). See Effective Date of 2021 Amendment note below.
+
 #### References in Text
 Section 603 of the National Science and Technology Policy, Organization, and Priorities Act of 1976, referred to in par. (7), was classified to [section 6683 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section6683&num=0&edition=prelim), The Public Health and Welfare, and was omitted from the Code.
 
@@ -113,6 +116,9 @@ Par. (8). Pub. L. 103–160, § 1182(a)(9)(B), substituted “subsection (b)(4)�
 
 Pars. (13) to (15). Pub. L. 103–160, § 1315(f), added pars. (13) to (15).
 
+#### Effective Date of 2021 Amendment
+Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
+
 #### Short Title of 1994 Amendment
 Pub. L. 103–337, div. A, title XI, § 1101, Oct. 5, 1994, 108 Stat. 2862, provided that: “This title [enacting sections 2519 and 2520 of this title, amending this section, sections 1151, 1152, 2391, 2511 to 2513, and 2524 of this title, and sections 1662d and 1662d–1 of Title 29, Labor, and enacting and amending provisions set out as notes under [section 2501 of this title](./chapter-148-national-defense-technology-and-industrial-base-defense-reinvestment-and-defense-conversion.md#section-2501)] may be cited as the ‘Defense Conversion, Reinvestment, and Transition Assistance Amendments of 1994’.”
 
@@ -140,7 +146,7 @@ Pub. L. 102–484, div. D, title XLII, § 4203(b), Oct. 23, 1992, 106 Stat. 2662
 
 <a id="section-2501"></a>
 ## § 2501. National security strategy for national technology and industrial base
-**(a) National Security Strategy for National Technology and Industrial Base.—** The Secretary of Defense shall develop a national security strategy for the national technology and industrial base. Such strategy shall be based on a prioritized assessment of risks and challenges to the defense supply chain and shall ensure that the national technology and industrial base is capable of achieving the following national security objectives:
+**(a) National Security Strategy for National Technology and Industrial Base.—** The Secretary of Defense shall develop a national security strategy for the national technology and industrial base. The Secretary shall submit such strategy to Congress not later than 180 days after the date of submission of the national security strategy report required under section 108 of the National Security Act of 1947 ([50 U.S.C. 3043](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3043&num=0&edition=prelim)). Such strategy shall be based on a prioritized assessment of risks and challenges to the defense supply chain and shall ensure that the national technology and industrial base is capable of achieving the following national security objectives:
 
 (1) Supplying, equipping, and supporting the force structure of the armed forces that is necessary to achieve—
 
@@ -168,6 +174,8 @@ Pub. L. 102–484, div. D, title XLII, § 4203(b), Oct. 23, 1992, 106 Stat. 2662
 
 (10) Reducing, to the maximum extent practicable, the presence of counterfeit parts in the supply chain and the risk associated with such parts.
 
+(11) Providing for the provision of drugs, biological products, vaccines, and critical medical supplies required to enable combat readiness and protect the health of the armed forces.
+
 **(b) Civil-Military Integration Policy.—** The Secretary of Defense shall ensure that the United States attains the national technology and industrial base objectives set forth in subsection (a) through acquisition policy reforms that have the following objectives:
 
 (1) Relying, to the maximum extent practicable, upon the commercial national technology and industrial base that is required to meet the national security needs of the United States.
@@ -178,12 +186,19 @@ Pub. L. 102–484, div. D, title XLII, § 4203(b), Oct. 23, 1992, 106 Stat. 2662
 
 ### Statutory Notes
 
+#### Renumbering of Section
+Pub. L. 116–283, div. A, title XVIII, §§ 1801(d), 1867(b), Jan. 1, 2021, 134 Stat. 4151, 4281, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, this section is renumbered [section 4811 of this title](./chapter-382-policies-and-planning.md#section-4811). See Effective Date of 2021 Amendment note below.
+
 #### Prior Provisions
 A prior section 2501, added Pub. L. 100–456, div. A, title VIII, § 821(b)(1)(B), Sept. 29, 1988, 102 Stat. 2014, related to centralized guidance, analysis, and planning, prior to repeal by Pub. L. 102–484, § 4202(a).
 
 Another prior section 2501 was renumbered [section 2533 of this title](./chapter-148-national-defense-technology-and-industrial-base-defense-reinvestment-and-defense-conversion.md#section-2533).
 
 #### Amendments
+2021—Subsec. (a)(11). Pub. L. 116–283 added par. (11).
+
+2019—Subsec. (a). Pub. L. 116–92 inserted “The Secretary shall submit such strategy to Congress not later than 180 days after the date of submission of the national security strategy report required under section 108 of the National Security Act of 1947 ([50 U.S.C. 3043](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3043&num=0&edition=prelim)).” after first sentence.
+
 2016—Subsec. (b). Pub. L. 114–328, in introductory provisions, substituted “The Secretary of Defense shall ensure that the United States attains” for “It is the policy of Congress that the United States attain”.
 
 2014—Subsec. (a)(1)(A). Pub. L. 113–291 substituted “([50 U.S.C. 3043](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3043&num=0&edition=prelim))” for “([50 U.S.C. 404a](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section404a&num=0&edition=prelim))”.
@@ -220,17 +235,26 @@ Subsec. (a)(5). Pub. L. 103–160, § 1313, added par. (5).
 
 Subsec. (b)(2). Pub. L. 103–160, § 1182(a)(10), substituted “that, by reducing the public sector demand for capital, increases the amount of capital available” for “and thereby free up capital”.
 
+#### Effective Date of 2021 Amendment
+Amendment by section 1867(b) of Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
+
 #### Support for Defense Manufacturing Communities To Support the Defense Industrial Base
 Pub. L. 115–232, div. A, title VIII, § 846, Aug. 13, 2018, 132 Stat. 1881, provided that: “(a) Program Authorized.—“(1) In general.—The Secretary of Defense may, in coordination with the Secretary of Commerce and working in coordination with the defense manufacturing institutes, establish within the Department of Defense a program to make long-term investments in critical skills, facilities, research and development, and small business support in order to strengthen the national security innovation base by designating and supporting consortiums as defense manufacturing communities. “(2) Designation.—The program authorized by this section shall be known as the ‘Defense Manufacturing Community Support Program’ (in this section referred to as the ‘Program’). “(b) Designation of Defense Manufacturing Communities Complementary to Defense Manufacturing Institutes.—“(1) In general.—The Secretary of Defense may designate eligible consortiums as defense manufacturing communities through a competitive process, and in coordination with the defense manufacturing institutes. “(2) Eligible consortiums.—The Secretary may establish eligibility criteria for a consortium to participate in the Program. In developing such criteria, the Secretary may consider the merits of—“(A) including members from academia, defense industry, commercial industry, and State and local government organizations; “(B) supporting efforts in geographical regions that have capabilities in key technologies or industrial base supply chains that are determined critical to national security; “(C) optimal consortium composition and size to promote effectiveness, collaboration, and efficiency; and “(D) complementarity with defense manufacturing institutes. “(3) Duration.—Each designation under paragraph (1) shall be for a period of five years. “(4) Renewal.—“(A) In general.—The Secretary may renew a designation made under paragraph (1) for up to two additional two-year periods. Any designation as a defense manufacturing community or renewal of such designation that is in effect before the date of the enactment of this Act [Aug. 13, 2018] shall count toward the limit set forth in this subparagraph. “(B) Evaluation for renewal.—The Secretary shall establish criteria for the renewal of a consortium. In establishing such criteria, the Secretary may consider—“(i) the performance of the consortium in meeting the established goals of the Program; “(ii) the progress the consortium has made with respect to project-specific metrics, particularly with respect to those metrics that were designed to help communities track their own progress; “(iii) whether any changes to the composition of the eligible consortium or revisions of the plan for the consortium would improve the capabilities of the defense industrial base; “(iv) the effectiveness of coordination with defense manufacturing institutes; and “(v) such other criteria as the Secretary considers appropriate. “(5) Application for designation.—An eligible consortium seeking a designation under paragraph (1) shall submit an application to the Secretary at such time and in such manner as the Secretary may require. In developing such procedures, the Secretary may consider the inclusion of—“(A) a description of the regional boundaries of the consortium, and the defense manufacturing capacity of the region; “(B) an evidence-based plan for enhancing the defense industrial base through the efforts of the consortium; “(C) the investments the consortium proposes and the strategy of the consortium to address gaps in the defense industrial base; “(D) a description of the outcome-based metrics, benchmarks, and milestones that will track and the evaluation methods that will be used to gauge performance of the consortium; “(E) how the initiatives will complement defense manufacturing institutes; and “(F) such other matters as the Secretary considers appropriate. “(c) Financial and Technical Assistance.—“(1) In general.—Under the Program, the Secretary of Defense may award financial or technical assistance to a member of a consortium designated as a defense manufacturing community under the Program as appropriate for purposes of the Program. “(2) Use of funds.—A recipient of financial or technical assistance under the Program may use such financial or technical assistance to support an investment that will improve the defense industrial base. “(3) Investments supported.—Investments supported under this subsection may include activities not already provided for by defense manufacturing institutes on—“(A) equipment or facility upgrades; “(B) workforce training, retraining, or recruitment and retention, including that of women and underrepresented minorities; “(C) business incubators; “(D) advanced research and commercialization, including with Federal laboratories and depots; “(E) supply chain development; and “(F) small business assistance. “(d) Receipt of Transferred Funds.—The Secretary of Defense may accept amounts transferred to the Secretary from the head of another agency or a State or local governmental organization to carry out this section.”
 
 #### Enhanced Analytical and Monitoring Capability of the Defense Industrial Base
 Pub. L. 115–91, div. A, title X, § 1071, Dec. 12, 2017, 131 Stat. 1582, provided that: “(a) Process.—“(1) In general.—Not later than 90 days after the date of enactment of this Act [Dec. 12, 2017], the Secretary of Defense shall establish a process, or designate an existing process, for enhancing the ability of the Department of Defense to analyze, assess, and monitor the vulnerabilities of, and concentration of purchases in, the defense industrial base. “(2) Elements.—The process required by subsection (a) shall include the following elements:“(A) Designation of a senior official responsible for overseeing the development and implementation of the process. “(B) Development or integration of tools to support commercial due diligence and business intelligence or to otherwise analyze and monitor commercial activity to understand business relationships affecting the defense industrial base. “(C) Development of risk profiles of products, services, or entities based on business intelligence, commercial due diligence tools and data services. “(D) As the Secretary determines necessary, integration with intelligence sources to develop threat profiles of entities attempting transactions with a defense industrial base companies [sic]. “(E) Other matters as the Secretary deems necessary. “(3) Notification.—Not later than 90 days after establishing or designating the process required by subsection (a), the Secretary shall submit to the Committees on Armed Services of the Senate and House of Representatives notice in writing that such process has been established or otherwise designated. Such notification shall include the following:“(A) Identification of the official required to be designated under paragraph (2)(A). “(B) Identification of the tools described in paragraph (2)(B) that are currently available to [the] Department of Defense and any other tools available commercially or otherwise that might contribute to enhancing the analytic capability of the process. “(C) Identification of, or recommendations for, any statutory changes needed to improve the effectiveness of the process. “(D) Projected resources necessary to purchase any commercially available tools identified under subparagraph (B) and to carry out any statutory changes identified under subparagraph (C). “(b) Reporting.—“(1) Consolidated report on vulnerabilities of, and concentration of purchases in, the defense industrial base.—“(A) Report required.—For each of fiscal years 2018 through 2023, the Secretary of Defense shall submit to the appropriate congressional committees a consolidated report that combines all of the reports required to be provided to Congress for that fiscal year on the adequacy of, vulnerabilities of, and concentration of purchases in the defense industrial sector. Such consolidated report shall include each of the following:“(i) The report required under section 721(m) of the Defense Production Act of 1950 ([50 U.S.C. 4565(m)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4565/m&num=0&edition=prelim)) (relating to concentrations of purchases of the defense industrial base). “(ii) The report required under section 723(a) of the Defense Production Act of 1950 ([50 U.S.C. 4568(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4568/a&num=0&edition=prelim)) (relating to offsets in defense production). “(iii) The report required under [section 2504 of title 10](./chapter-148-national-defense-technology-and-industrial-base-defense-reinvestment-and-defense-conversion.md#section-2504), United States Code (relating to annual industrial capabilities). “(iv) Any other reports the Secretary determines appropriate. “(B) Deadline.—A consolidated report under subparagraph (A) shall be submitted by not later than March 31 of the fiscal year following the fiscal year for which the report is submitted. “(2) Review of technology protection policy.—Not later than 270 days after the date of the enactment of this Act [Dec. 12, 2017], the Secretary of Defense shall submit to the appropriate congressional committees a report describing any need for reforms of policies governing the export of technology or related intellectual property, along with any proposed legislative changes the Secretary believes are necessary. “(3) Form of reports.—Each report submitted under this subsection shall be in unclassified form, but may contain a classified annex. “(4) Appropriate congressional committees.—The term ‘appropriate congressional committees’ means—“(A) the Committee on Armed Services, the Committee on Financial Services, the Committee on Foreign Affairs, and the Permanent Select Committee on Intelligence of the House of Representatives; and “(B) the Committee on Armed Services, the Committee on Banking, Housing, and Urban Affairs, the Committee on Foreign Relations, and the Select Committee on Intelligence of the Senate.”
 
+[For termination, effective Dec. 30, 2021, of reporting requirements in section 1071(b)(1) of Pub. L. 115–91, set out above, see section 1702(a), (b), of Pub. L. 116–92, set out as a Termination of Reporting Requirements note under [section 111 of this title](./chapter-002-department-of-defense.md#section-111).]
+
 #### Greater Integration of the National Technology and Industrial Base
-Pub. L. 114–328, div. A, title VIII, § 881, Dec. 23, 2016, 130 Stat. 2315, provided that: “(a) Plan Required.—Not later than January 1, 2018, the Secretary of Defense shall develop a plan to reduce the barriers to the seamless integration between the persons and organizations that comprise the national technology and industrial base (as defined in [section 2500 of title 10](./chapter-148-national-defense-technology-and-industrial-base-defense-reinvestment-and-defense-conversion.md#section-2500), United States Code). The plan shall include at a minimum the following elements:“(1) A description of the various components of the national technology and industrial base, including government entities, universities, nonprofit research entities, nontraditional and commercial item contractors, and private contractors that conduct commercial and military research, produce commercial items that could be used by the Department of Defense, and produce items designated and controlled under section 38 of the Arms Export Control Act [[22 U.S.C. 2778](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2778&num=0&edition=prelim)] (also known as the ‘United States Munitions List’). “(2) Identification of the barriers to the seamless integration of the transfer of knowledge, goods, and services among the persons and organizations of the national technology and industrial base. “(3) Identification of current authorities that could contribute to further integration of the persons and organizations of the national technology and industrial base, and a plan to maximize the use of those authorities. “(4) Identification of changes in export control rules, procedures, and laws that would enhance the civil-military integration policy objectives set forth in [section 2501(b) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2501/b&num=0&edition=prelim), United States Code, for the national technology and industrial base to increase the access of the Armed Forces to commercial products, services, and research and create incentives necessary for nontraditional and commercial item contractors, universities, and nonprofit research entities to modify commercial products or services to meet Department of Defense requirements. “(5) Recommendations for increasing integration of the national technology and industrial base that supplies defense articles to the Armed Forces and enhancing allied interoperability of forces through changes to the text or the implementation of—“(A) section 126.5 of title 22, Code of Federal Regulations (relating to exemptions that are applicable to Canada under the International Traffic in Arms Regulations); “(B) the Treaty Between the Government of the United States of America and the Government of Australia Concerning Defense Trade Cooperation, done at Sydney on September 5, 2007; “(C) the Treaty Between the Government of the United States of America and the Government of the United Kingdom of Great Britain and Northern Ireland Concerning Defense Trade Cooperation, done at Washington and London on June 21 and 26, 2007; and “(D) any other agreements among the countries comprising the national technology and industrial base. “(b) Amendment to Definition of National Technology and Industrial Base.— [Amended [section 2500 of this title](./chapter-148-national-defense-technology-and-industrial-base-defense-reinvestment-and-defense-conversion.md#section-2500).] “(c) Reporting Requirement.—The Secretary of Defense shall report on the progress of implementing the plan in subsection (a) in the report required under [section 2504 of title 10](./chapter-148-national-defense-technology-and-industrial-base-defense-reinvestment-and-defense-conversion.md#section-2504), United States Code.”
+Pub. L. 114–328, div. A, title VIII, § 881, Dec. 23, 2016, 130 Stat. 2315, as amended by Pub. L. 116–283, div. A, title XVIII, § 1866(d)(3), Jan. 1, 2021, 134 Stat. 4280, provided that: “(a) Plan Required.—Not later than January 1, 2018, the Secretary of Defense shall develop a plan to reduce the barriers to the seamless integration between the persons and organizations that comprise the national technology and industrial base (as defined in [section 2500 of title 10](./chapter-148-national-defense-technology-and-industrial-base-defense-reinvestment-and-defense-conversion.md#section-2500), United States Code). The plan shall include at a minimum the following elements:“(1) A description of the various components of the national technology and industrial base, including government entities, universities, nonprofit research entities, nontraditional and commercial item contractors, and private contractors that conduct commercial and military research, produce commercial items that could be used by the Department of Defense, and produce items designated and controlled under section 38 of the Arms Export Control Act [[22 U.S.C. 2778](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2778&num=0&edition=prelim)] (also known as the ‘United States Munitions List’). “(2) Identification of the barriers to the seamless integration of the transfer of knowledge, goods, and services among the persons and organizations of the national technology and industrial base. “(3) Identification of current authorities that could contribute to further integration of the persons and organizations of the national technology and industrial base, and a plan to maximize the use of those authorities. “(4) Identification of changes in export control rules, procedures, and laws that would enhance the civil-military integration policy objectives set forth in [section 2501(b) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2501/b&num=0&edition=prelim), United States Code, for the national technology and industrial base to increase the access of the Armed Forces to commercial products, services, and research and create incentives necessary for nontraditional and commercial item contractors, universities, and nonprofit research entities to modify commercial products or services to meet Department of Defense requirements. “(5) Recommendations for increasing integration of the national technology and industrial base that supplies defense articles to the Armed Forces and enhancing allied interoperability of forces through changes to the text or the implementation of—“(A) section 126.5 of title 22, Code of Federal Regulations (relating to exemptions that are applicable to Canada under the International Traffic in Arms Regulations); “(B) the Treaty Between the Government of the United States of America and the Government of Australia Concerning Defense Trade Cooperation, done at Sydney on September 5, 2007; “(C) the Treaty Between the Government of the United States of America and the Government of the United Kingdom of Great Britain and Northern Ireland Concerning Defense Trade Cooperation, done at Washington and London on June 21 and 26, 2007; and “(D) any other agreements among the countries comprising the national technology and industrial base. “(b) Amendment to Definition of National Technology and Industrial Base.— [Amended [section 2500 of this title](./chapter-148-national-defense-technology-and-industrial-base-defense-reinvestment-and-defense-conversion.md#section-2500).] “(c) Reporting Requirement.—The Secretary of Defense shall report on the progress of implementing the plan in subsection (a) in the report required under [section 2504 of title 10](./chapter-148-national-defense-technology-and-industrial-base-defense-reinvestment-and-defense-conversion.md#section-2504), United States Code.”
+
+[Pub. L. 116–283, div. A, title XVIII, §§ 1801(d), 1866(d)(3), Jan. 1, 2021, 134 Stat. 4151, 4280, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, section 881 of Pub. L. 114–328, set out above, is amended in subsec. (a) by substituting “section 4801” for “section 2500” in introductory provisions and “section 4811(b)” for “section 2501(b)” in par. (4), and in subsec. (c) by substituting “section 4814” for “section 2504”. See Effective Date of 2021 Amendment note above.]
 
 #### Department of Defense Technology Offset Program To Build and Maintain the Military Technological Superiority of the United States
-Pub. L. 114–92, div. A, title II, § 218, Nov. 25, 2015, 129 Stat. 772, provided that: “(a) Program Established.—“(1) In general.—The Secretary of Defense shall establish a technology offset program to build and maintain the military technological superiority of the United States by—“(A) accelerating the fielding of offset technologies that would help counter technological advantages of potential adversaries of the United States, including directed energy, low-cost, high-speed munitions, autonomous systems, undersea warfare, cyber technology, and intelligence data analytics, developed using research funding of the Department of Defense and accelerating the commercialization of such technologies; and “(B) developing and implementing new policies and acquisition and business practices. “(2) Guidelines.—Not later than one year after the date of the enactment of this Act [Nov. 25, 2015], the Secretary shall issue guidelines for the operation of the program established under paragraph (1), including—“(A) criteria for an application for funding by a military department, Defense Agency, or a combatant command; “(B) the purposes for which such a department, agency, or command may apply for funds and appropriate requirements for technology development or commercialization to be supported using program funds; “(C) the priorities, if any, to be provided to field or commercialize offset technologies developed by certain types of research funding of the Department; and “(D) criteria for evaluation of an application for funding or changes to policies or acquisition and business practices by such a department, agency, or command for purposes of the program. “(b) Applications for Funding.—“(1) In general.—Under the program established under subsection (a)(1), not less frequently than annually, the Secretary shall solicit from the heads of the military departments, the Defense Agencies, and the combatant commands applications for funding to be used to enter into contracts, cooperative agreements, or other transaction agreements entered into pursuant to [section 2371b of title 10](./chapter-139-research-and-development.md#section-2371b), United States Code, as added by section 815, with appropriate entities for the fielding or commercialization of technologies. “(2) Treatment pursuant to certain congressional rules.—Nothing in this section shall be interpreted to require any official of the Department of Defense to provide funding under this section to any Congressional earmark as defined pursuant to clause 9 of rule XXI of the Rules of the House of Representatives or any congressionally directed spending item as defined pursuant to paragraph 5 of rule XLIV of the Standing Rules of the Senate. “(c) Funding.—“(1) In general.—Subject to the availability of appropriations for such purpose, of the funds authorized to be appropriated by this Act [see Tables for classification] or otherwise made available for fiscal year 2016 for research, development, test, and evaluation, Defense-wide, not more than $300,000,000 may be used for each such fiscal year for the program established under subsection (a)(1). “(2) Amount for directed energy.—Of the funds specified in paragraph (1) for any of fiscal years 2016 through 2020, not more than $150,000,000 may be used for each such fiscal year for activities in the field of directed energy. “(d) Transfer Authority.—“(1) In general.—The Secretary may transfer funds available for the program established under subsection (a)(1) to the research, development, test, and evaluation accounts of a military department, Defense Agency, or a combatant command pursuant to an application, or any part of an application, that the Secretary determines would support the purposes of the program. “(2) Supplement not supplant.—The transfer authority provided in paragraph (1) is in addition to any other transfer authority available to the Secretary of Defense. “(e) Termination.—“(1) In general.—The authority to carry out the program under subsection (a)(1) shall terminate on September 30, 2020. “(2) Transfer after termination.—Any amounts made available for the program that remain available for obligation on the date on which the program terminates may be transferred under subsection (d) during the 180-day period beginning on the date of the termination of the program.”
+Pub. L. 114–92, div. A, title II, § 218, Nov. 25, 2015, 129 Stat. 772, as amended by Pub. L. 116–283, div. A, title XVIII, § 1841(e)(2), Jan. 1, 2021, 134 Stat. 4244, provided that: “(a) Program Established.—“(1) In general.—The Secretary of Defense shall establish a technology offset program to build and maintain the military technological superiority of the United States by—“(A) accelerating the fielding of offset technologies that would help counter technological advantages of potential adversaries of the United States, including directed energy, low-cost, high-speed munitions, autonomous systems, undersea warfare, cyber technology, and intelligence data analytics, developed using research funding of the Department of Defense and accelerating the commercialization of such technologies; and “(B) developing and implementing new policies and acquisition and business practices. “(2) Guidelines.—Not later than one year after the date of the enactment of this Act [Nov. 25, 2015], the Secretary shall issue guidelines for the operation of the program established under paragraph (1), including—“(A) criteria for an application for funding by a military department, Defense Agency, or a combatant command; “(B) the purposes for which such a department, agency, or command may apply for funds and appropriate requirements for technology development or commercialization to be supported using program funds; “(C) the priorities, if any, to be provided to field or commercialize offset technologies developed by certain types of research funding of the Department; and “(D) criteria for evaluation of an application for funding or changes to policies or acquisition and business practices by such a department, agency, or command for purposes of the program. “(b) Applications for Funding.—“(1) In general.—Under the program established under subsection (a)(1), not less frequently than annually, the Secretary shall solicit from the heads of the military departments, the Defense Agencies, and the combatant commands applications for funding to be used to enter into contracts, cooperative agreements, or other transaction agreements entered into pursuant to [section 2371b of title 10](./chapter-139-research-and-development.md#section-2371b), United States Code, as added by section 815, with appropriate entities for the fielding or commercialization of technologies. “(2) Treatment pursuant to certain congressional rules.—Nothing in this section shall be interpreted to require any official of the Department of Defense to provide funding under this section to any Congressional earmark as defined pursuant to clause 9 of rule XXI of the Rules of the House of Representatives or any congressionally directed spending item as defined pursuant to paragraph 5 of rule XLIV of the Standing Rules of the Senate. “(c) Funding.—“(1) In general.—Subject to the availability of appropriations for such purpose, of the funds authorized to be appropriated by this Act [see Tables for classification] or otherwise made available for fiscal year 2016 for research, development, test, and evaluation, Defense-wide, not more than $300,000,000 may be used for each such fiscal year for the program established under subsection (a)(1). “(2) Amount for directed energy.—Of the funds specified in paragraph (1) for any of fiscal years 2016 through 2020, not more than $150,000,000 may be used for each such fiscal year for activities in the field of directed energy. “(d) Transfer Authority.—“(1) In general.—The Secretary may transfer funds available for the program established under subsection (a)(1) to the research, development, test, and evaluation accounts of a military department, Defense Agency, or a combatant command pursuant to an application, or any part of an application, that the Secretary determines would support the purposes of the program. “(2) Supplement not supplant.—The transfer authority provided in paragraph (1) is in addition to any other transfer authority available to the Secretary of Defense. “(e) Termination.—“(1) In general.—The authority to carry out the program under subsection (a)(1) shall terminate on September 30, 2020. “(2) Transfer after termination.—Any amounts made available for the program that remain available for obligation on the date on which the program terminates may be transferred under subsection (d) during the 180-day period beginning on the date of the termination of the program.”
+
+[Pub. L. 116–283, div. A, title XVIII, §§ 1801(d), 1841(e)(2), Jan. 1, 2021, 134 Stat. 4151, 4244, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, section 218(b)(1) of Pub. L. 114–92, set out above, is amended by substituting “section 4003” for “section 2371b”. See Effective Date of 2021 Amendment note above.]
 
 #### Expansion of the Industrial Base
 Pub. L. 111–383, div. A, title VIII, § 891, Jan. 7, 2011, 124 Stat. 4310, provided that: “(a) Program To Expand Industrial Base Required.—The Secretary of Defense shall establish a program to expand the industrial base of the Department of Defense to increase the Department’s access to innovation and the benefits of competition. “(b) Identifying and Communicating With Firms That Are Not Traditional Suppliers.—The program established under subsection (a) shall use tools and resources available within the Federal Government and available from the private sector to provide a capability for identifying and communicating with firms that are not traditional suppliers, including commercial firms and firms of all business sizes, that are engaged in markets of importance to the Department of Defense in which such firms can make a significant contribution. “(c) Outreach to Local Firms Near Defense Installations.—The program established under subsection (a) shall include outreach, using procurement technical assistance centers, to firms of all business sizes in the vicinity of Department of Defense installations regarding opportunities to obtain contracts and subcontracts to perform work at such installations. “(d) Industrial Base Review.—The program established under subsection (a) shall include a continuous effort to review the industrial base supporting the Department of Defense, including the identification of markets of importance to the Department of Defense in which firms that are not traditional suppliers can make a significant contribution. “(e) Firms That Are Not Traditional Suppliers.—For purposes of this section, a firm is not a traditional supplier of the Department of Defense if it does not currently have contracts and subcontracts to perform work for the Department of Defense with a total combined value in excess of $500,000. “(f) Procurement Technical Assistance Center.—In this section, the term ‘procurement technical assistance center’ means a center operating under a cooperative agreement with the Defense Logistics Agency to provide procurement technical assistance pursuant to the authority provided in chapter 142 of title 10, United States Code.”
@@ -242,7 +266,9 @@ Pub. L. 110–417, [div. A], title II, § 256, Oct. 14, 2008, 122 Stat. 4404, pr
 Pub. L. 109–163, div. A, title II, § 253(c), Jan. 6, 2006, 119 Stat. 3180, provided that whenever the Secretary of Defense provided for the conduct of a study referred to as a Technology Area Review and Assessment, the Secretary, not later than March 1 of the year following the year in which that study was conducted, was to submit to the Committees on Armed Services and Appropriations of the Senate and the House of Representatives a report containing a summary of each such Technology Area Review and Assessment conducted during that year, prior to repeal by Pub. L. 110–181, div. A, title II, § 236, Jan. 28, 2008, 122 Stat. 47.
 
 #### Essential Items Identification and Domestic Production Capabilities Improvement Program
-Pub. L. 108–136, div. A, title VIII, subtitle B, part I, Nov. 24, 2003, 117 Stat. 1542, as amended by Pub. L. 109–364, div. A, title VIII, § 841, Oct. 17, 2006, 120 Stat. 2335; Pub. L. 111–84, div. A, title VIII, § 846, Oct. 28, 2009, 123 Stat. 2420; Pub. L. 112–81, div. A, title X, § 1062(g)(2), Dec. 31, 2011, 125 Stat. 1585; Pub. L. 113–291, div. A, title X, § 1071(b)(5)(A), (d)(1)(C), Dec. 19, 2014, 128 Stat. 3506, 3509, provided that: “SEC. 811. CONSISTENCY WITH UNITED STATES OBLIGATIONS UNDER INTERNATIONAL AGREEMENTS.“No provision of this subtitle [subtitle B (§§ 811–828) of title VIII of div. A of Pub. L. 108–136, enacting [section 2436 of this title](./chapter-144-major-defense-acquisition-programs.md#section-2436), amending sections 2533a and 2534 of this title, and enacting provisions set out as notes under sections 2436, 2505, 2521, and 2534 of this title] or any amendment made by this subtitle shall apply to the extent the Secretary of Defense, in consultation with the Secretary of Commerce, the United States Trade Representative, and the Secretary of State, determines that it is inconsistent with United States obligations under an international agreement. “SEC. 812. ASSESSMENT AND ANNUAL REPORT OF UNITED STATES DEFENSE INDUSTRIAL BASE CAPABILITIES AND ACQUISITIONS OF ARTICLES, MATERIALS, AND SUPPLIES MANUFACTURED OUTSIDE THE UNITED STATES.“(a) Assessment Program.—(1) The Secretary of Defense shall establish a program to assess—“(A) the degree to which the United States is dependent on foreign sources of supply; and “(B) the capabilities of the United States defense industrial base to produce military systems necessary to support the national security objectives set forth in [section 2501 of title 10](./chapter-148-national-defense-technology-and-industrial-base-defense-reinvestment-and-defense-conversion.md#section-2501), United States Code. “(2) For purposes of the assessment program, the Secretary shall use existing data, as required under subsection (b), and submit an annual report, as required under subsection (c). “(b) Use of Existing Data.—(1) At a minimum, with respect to each prime contract with a value greater than $25,000 for the procurement of defense items and components, the following information from existing sources shall be used for purposes of the assessment program:“(A) Whether the contractor is a United States or foreign contractor. “(B) The principal place of business of the contractor and the principal place of performance of the contract. “(C) Whether the contract was awarded on a sole source basis or after receipt of competitive offers. “(D) The dollar value of the contract. “(2) The Federal Procurement Data System described in [section 1122(a)(4)(A) of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section1122/a/4/A&num=0&edition=prelim), United States Code, or any successor system, shall collect from contracts described in paragraph (1) the information specified in that paragraph. “(3) Information obtained in the implementation of this section is subject to the same limitations on disclosure, and penalties for violation of such limitations, as is provided under [section 2507 of title 10](./chapter-148-national-defense-technology-and-industrial-base-defense-reinvestment-and-defense-conversion.md#section-2507), United States Code. Such information also shall be exempt from release under [section 552 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section552&num=0&edition=prelim), United States Code. “(4) For purposes of meeting the requirements set forth in this section, the Secretary of Defense may not require the provision of information beyond the information that is currently provided to the Department of Defense through existing data collection systems by non-Federal entities with respect to contracts and subcontracts with the Department of Defense or any military department. “[(c) Repealed. Pub. L. 112–81, div. A, title X, § 1062(g)(2), Dec. 31, 2011, 125 Stat. 1585.] “(d) Public Availability.—The Secretary of Defense shall make the report submitted under subsection (c) publicly available to the maximum extent practicable. “(e) Applicability.—This section shall not apply to acquisitions made by an agency, or component thereof, that is an element of the intelligence community as set forth in or designated under section 3(4) of the National Security Act of 1947 ([50 U.S.C. 3003(4)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3003/4&num=0&edition=prelim)). “[SEC. 813. Repealed. Pub. L. 111–84, div. A, title VIII, § 846, Oct. 28, 2009, 123 Stat. 2420.] “SEC. 814. PRODUCTION CAPABILITIES IMPROVEMENT FOR CERTAIN ESSENTIAL ITEMS USING DEFENSE INDUSTRIAL BASE CAPABILITIES FUND.“(a) Establishment of Fund.—There is established in the Treasury of the United States a separate fund to be known as the Defense Industrial Base Capabilities Fund (hereafter in this section referred to as the ‘Fund’). “(b) Moneys in Fund.—There shall be credited to the Fund amounts appropriated to it. “(c) Use of Fund.—The Secretary of Defense is authorized to use all amounts in the Fund, subject to appropriation, for the purposes of enhancing or reconstituting United States industrial capability to produce items on the military system essential item breakout list (as described in section 812(b)) or items subject to [section 2534 of title 10](./chapter-148-national-defense-technology-and-industrial-base-defense-reinvestment-and-defense-conversion.md#section-2534), United States Code, in the quantity and of the quality necessary to achieve national security objectives. “(d) Limitation on Use of Fund.—Before the obligation of any amounts in the Fund, the Secretary of Defense shall submit to Congress a report describing the Secretary’s plans for implementing the Fund established in subsection (a), including the priorities for the obligation of amounts in the Fund, the criteria for determining the recipients of such amounts, and the mechanisms through which such amounts may be provided to the recipients. “(e) Availability of Funds.—Amounts in the Fund shall remain available until expended. “(f) Fund Manager.—The Secretary of Defense shall designate a Fund manager. The duties of the Fund manager shall include—“(1) ensuring the visibility and accountability of transactions engaged in through the Fund; and “(2) reporting to Congress each year regarding activities of the Fund during the previous fiscal year.”
+Pub. L. 108–136, div. A, title VIII, subtitle B, part I, Nov. 24, 2003, 117 Stat. 1542, as amended by Pub. L. 109–364, div. A, title VIII, § 841, Oct. 17, 2006, 120 Stat. 2335; Pub. L. 111–84, div. A, title VIII, § 846, Oct. 28, 2009, 123 Stat. 2420; Pub. L. 112–81, div. A, title X, § 1062(g)(2), Dec. 31, 2011, 125 Stat. 1585; Pub. L. 113–291, div. A, title X, § 1071(b)(5)(A), (d)(1)(C), Dec. 19, 2014, 128 Stat. 3506, 3509; Pub. L. 116–283, div. A, title XVIII, § 1866(d)(4), Jan. 1, 2021, 134 Stat. 4280, provided that: “SEC. 811. CONSISTENCY WITH UNITED STATES OBLIGATIONS UNDER INTERNATIONAL AGREEMENTS.“No provision of this subtitle [subtitle B (§§ 811–828) of title VIII of div. A of Pub. L. 108–136, enacting [section 2436 of this title](./chapter-144-major-defense-acquisition-programs.md#section-2436), amending sections 2533a and 2534 of this title, and enacting provisions set out as notes under sections 2436, 2505, 2521, and 2534 of this title] or any amendment made by this subtitle shall apply to the extent the Secretary of Defense, in consultation with the Secretary of Commerce, the United States Trade Representative, and the Secretary of State, determines that it is inconsistent with United States obligations under an international agreement. “SEC. 812. ASSESSMENT AND ANNUAL REPORT OF UNITED STATES DEFENSE INDUSTRIAL BASE CAPABILITIES AND ACQUISITIONS OF ARTICLES, MATERIALS, AND SUPPLIES MANUFACTURED OUTSIDE THE UNITED STATES.“(a) Assessment Program.—(1) The Secretary of Defense shall establish a program to assess—“(A) the degree to which the United States is dependent on foreign sources of supply; and “(B) the capabilities of the United States defense industrial base to produce military systems necessary to support the national security objectives set forth in [section 2501 of title 10](./chapter-148-national-defense-technology-and-industrial-base-defense-reinvestment-and-defense-conversion.md#section-2501), United States Code. “(2) For purposes of the assessment program, the Secretary shall use existing data, as required under subsection (b), and submit an annual report, as required under subsection (c). “(b) Use of Existing Data.—(1) At a minimum, with respect to each prime contract with a value greater than $25,000 for the procurement of defense items and components, the following information from existing sources shall be used for purposes of the assessment program:“(A) Whether the contractor is a United States or foreign contractor. “(B) The principal place of business of the contractor and the principal place of performance of the contract. “(C) Whether the contract was awarded on a sole source basis or after receipt of competitive offers. “(D) The dollar value of the contract. “(2) The Federal Procurement Data System described in [section 1122(a)(4)(A) of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section1122/a/4/A&num=0&edition=prelim), United States Code, or any successor system, shall collect from contracts described in paragraph (1) the information specified in that paragraph. “(3) Information obtained in the implementation of this section is subject to the same limitations on disclosure, and penalties for violation of such limitations, as is provided under [section 2507 of title 10](./chapter-148-national-defense-technology-and-industrial-base-defense-reinvestment-and-defense-conversion.md#section-2507), United States Code. Such information also shall be exempt from release under [section 552 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section552&num=0&edition=prelim), United States Code. “(4) For purposes of meeting the requirements set forth in this section, the Secretary of Defense may not require the provision of information beyond the information that is currently provided to the Department of Defense through existing data collection systems by non-Federal entities with respect to contracts and subcontracts with the Department of Defense or any military department. “[(c) Repealed. Pub. L. 112–81, div. A, title X, § 1062(g)(2), Dec. 31, 2011, 125 Stat. 1585.] “(d) Public Availability.—The Secretary of Defense shall make the report submitted under subsection (c) publicly available to the maximum extent practicable. “(e) Applicability.—This section shall not apply to acquisitions made by an agency, or component thereof, that is an element of the intelligence community as set forth in or designated under section 3(4) of the National Security Act of 1947 ([50 U.S.C. 3003(4)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3003/4&num=0&edition=prelim)). “[SEC. 813. Repealed. Pub. L. 111–84, div. A, title VIII, § 846, Oct. 28, 2009, 123 Stat. 2420.] “SEC. 814. PRODUCTION CAPABILITIES IMPROVEMENT FOR CERTAIN ESSENTIAL ITEMS USING DEFENSE INDUSTRIAL BASE CAPABILITIES FUND.“(a) Establishment of Fund.—There is established in the Treasury of the United States a separate fund to be known as the Defense Industrial Base Capabilities Fund (hereafter in this section referred to as the ‘Fund’). “(b) Moneys in Fund.—There shall be credited to the Fund amounts appropriated to it. “(c) Use of Fund.—The Secretary of Defense is authorized to use all amounts in the Fund, subject to appropriation, for the purposes of enhancing or reconstituting United States industrial capability to produce items on the military system essential item breakout list (as described in section 812(b)) or items subject to [section 2534 of title 10](./chapter-148-national-defense-technology-and-industrial-base-defense-reinvestment-and-defense-conversion.md#section-2534), United States Code, in the quantity and of the quality necessary to achieve national security objectives. “(d) Limitation on Use of Fund.—Before the obligation of any amounts in the Fund, the Secretary of Defense shall submit to Congress a report describing the Secretary’s plans for implementing the Fund established in subsection (a), including the priorities for the obligation of amounts in the Fund, the criteria for determining the recipients of such amounts, and the mechanisms through which such amounts may be provided to the recipients. “(e) Availability of Funds.—Amounts in the Fund shall remain available until expended. “(f) Fund Manager.—The Secretary of Defense shall designate a Fund manager. The duties of the Fund manager shall include—“(1) ensuring the visibility and accountability of transactions engaged in through the Fund; and “(2) reporting to Congress each year regarding activities of the Fund during the previous fiscal year.”
+
+[Pub. L. 116–283, div. A, title XVIII, §§ 1801(d), 1866(d)(4), Jan. 1, 2021, 134 Stat. 4151, 4280, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, title VIII of Pub. L. 108–136, set out above, is amended, in section 812(a)(1)(B), by substituting “section 4811” for “section 2501”; in section 812(b)(3), by substituting “section 4817” for “section 2507”; and, in section 814(c), by substituting “section 4864” for “section 2534”. See Effective Date of 2021 Amendment note above.]
 
 #### Air Force Science and Technology Planning
 Pub. L. 107–107, div. A, title II, subtitle D, Dec. 28, 2001, 115 Stat. 1041, provided that: “SEC. 251. SHORT TITLE.“This subtitle may be cited as the ‘Air Force Science and Technology for the 21st Century Act’. “SEC. 252. SCIENCE AND TECHNOLOGY INVESTMENT AND DEVELOPMENT PLANNING.“(a) Sense of Congress.—It is the sense of Congress that the Secretary of the Air Force should carry out each of the following:“(1) Continue and improve efforts to ensure that—“(A) the Air Force science and technology community is represented, and the recommendations of that community are considered, at all levels of program planning and budgetary decisionmaking within the Air Force; “(B) advocacy for science and technology development is institutionalized across all levels of Air Force management in a manner that is not dependent on individuals; and “(C) the value of Air Force science and technology development is made increasingly apparent to the warfighters, by linking the needs of those warfighters with decisions on science and technology development. “(2) Complete and adopt a policy directive that provides for changes in how the Air Force makes budgetary and nonbudgetary decisions with respect to its science and technology development programs and how it carries out those programs. “(3) At least once every five years, conduct a review of the long-term challenges and short-term objectives of the Air Force science and technology programs that is consistent with the review specified in section 252 of the Floyd D. Spence National Defense Authorization Act for Fiscal Year 2001 (as enacted into law by Public Law 106–398; 114 Stat. 1654A–46 [set out as a note below]). “(4) Ensure that development and science and technology planning and investment activities are carried out for future space warfighting systems and for future nonspace warfighting systems in an integrated manner. “(5) Elevate the position within the Office of the Secretary of the Air Force that has primary responsibility for budget and policy decisions for science and technology programs. “(b) Reinstatement of Development Planning.—(1) The Secretary of the Air Force shall reinstate and implement a revised development planning process that provides for each of the following:“(A) Coordinating the needs of Air Force warfighters with decisions on science and technology development. “(B) Giving input into the establishment of priorities among science and technology programs. “(C) Analyzing Air Force capability options for the allocation of Air Force resources. “(D) Developing concepts for technology, warfighting systems, and operations with which the Air Force can achieve its critical future goals. “(E) Evaluating concepts for systems and operations that leverage technology across Air Force organizational boundaries. “(F) Ensuring that a ‘system-of-systems’ approach is used in carrying out the various Air Force capability planning exercises. “(G) Utilizing existing analysis capabilities within the Air Force product centers in a collaborative and integrated manner. “(2) Not later than one year after the date of the enactment of this Act [Dec. 28, 2001], the Secretary of the Air Force shall submit to Congress a report on the implementation of the planning process required by paragraph (1). The report shall include the annual amount that the Secretary considers necessary to carry out paragraph (1). “SEC. 253. STUDY AND REPORT ON EFFECTIVENESS OF AIR FORCE SCIENCE AND TECHNOLOGY PROGRAM CHANGES.“(a) Requirement.—The Secretary of the Air Force, in cooperation with the National Research Council of the National Academy of Sciences, shall carry out a study to determine how the changes to the Air Force science and technology program implemented during the past two years affect the future capabilities of the Air Force. “(b) Matters Studied.—(1) The study shall review and assess whether such changes as a whole are sufficient to ensure the following:“(A) That the concerns about the management of the science and technology program that have been raised by Congress, the Defense Science Board, the Air Force Science Advisory Board, and the Air Force Association have been adequately addressed. “(B) That appropriate and sufficient technology is available to ensure the military superiority of the United States and counter future high-risk threats. “(C) That the science and technology investments are balanced to meet the near-, mid-, and long-term needs of the Air Force. “(D) That technologies are made available that can be used to respond flexibly and quickly to a wide range of future threats. “(E) That the Air Force organizational structure provides for a sufficiently senior level advocate of science and technology to ensure an ongoing, effective presence of the science and technology community during the budget and planning process. “(2) In addition, the study shall assess the specific changes to the Air Force science and technology program as follows:“(A) Whether the biannual science and technology summits provide sufficient visibility into, and understanding and appreciation of, the value of the science and technology program to the senior level of Air Force budget and policy decisionmakers. “(B) Whether the applied technology councils are effective in contributing the input of all levels beneath the senior leadership into the coordination, focus, and content of the science and technology program. “(C) Whether the designation of the commander of the Air Force Materiel Command as the science and technology budget advocate is effective to ensure that an adequate Air Force science and technology budget is requested. “(D) Whether the revised development planning process is effective to aid in the coordination of the needs of the Air Force warfighters with decisions on science and technology investments and the establishment of priorities among different science and technology programs. “(E) Whether the implementation of section 252 of the Floyd D. Spence National Defense Authorization Act for Fiscal Year 2001 (as enacted into law by Public Law 106–398; 114 Stat. 1654A–46 [set out as a note below]) is effective to identify the basis for the appropriate science and technology program funding level and investment portfolio. “(c) Report.—Not later than May 1, 2003, the Secretary of the Air Force shall submit to Congress the results of the study.”
@@ -284,7 +310,9 @@ Pub. L. 102–484, div. D, title XLII, § 4218, Oct. 23, 1992, 106 Stat. 2671, r
 Pub. L. 102–484, div. D, title XLII, § 4239, Oct. 23, 1992, 106 Stat. 2694, provided that: “Not later than 120 days after the date of enactment of this Act [Oct. 23, 1992], the Secretary of Defense shall prescribe regulations to encourage defense contractors to engage in industrial diversification planning.”
 
 #### Notice to Contractors and Employees Upon Proposed and Actual Termination or Substantial Reduction in Major Defense Programs
-Pub. L. 102–484, div. D, title XLIV, § 4471, Oct. 23, 1992, 106 Stat. 2753, as amended by Pub. L. 103–160, div. A, title XIII, § 1372, Nov. 20, 1993, 107 Stat. 1817; Pub. L. 103–337, div. A, title XI, § 1142, Oct. 5, 1994, 108 Stat. 2881; Pub. L. 104–201, div. A, title VIII, § 824, Sept. 23, 1996, 110 Stat. 2610; Pub. L. 105–85, div. A, title X, § 1073(d)(2)(C), Nov. 18, 1997, 111 Stat. 1905; Pub. L. 105–277, div. A, § 101(f) [title VIII, § 405(d)(7)(C), (f)(6)(C)], Oct. 21, 1998, 112 Stat. 2681–337, 2681–419, 2681–430, provided that: “(a) Notice Requirement After Enactment of Appropriations Act.—Each year, not later than 60 days after the date of the enactment of an Act appropriating funds for the military functions of the Department of Defense, the Secretary of Defense, in accordance with regulations prescribed by the Secretary—“(1) shall identify each contract (if any) under major defense programs of the Department of Defense that will be terminated or substantially reduced as a result of the funding levels provided in that Act; and “(2) shall ensure that notice of the termination of, or substantial reduction in, the funding of the contract is provided—“(A) directly to the prime contractor under the contract; and “(B) directly to the Secretary of Labor. “(b) Notice to Subcontractors.—Not later than 60 days after the date on which the prime contractor for a contract under a major defense program receives notice under subsection (a), the prime contractor shall—“(1) provide notice of that termination or substantial reduction to each person that is a first-tier subcontractor under that prime contract for subcontracts in an amount not less than $500,000; and “(2) require that each such subcontractor—“(A) provide such notice to each of its subcontractors for subcontracts in an amount in excess of $100,000; and “(B) impose a similar notice and pass through requirement to subcontractors in an amount in excess of $100,000 at all tiers. “(c) Contractor Notice to Employees and State Dislocated Worker Unit.—Not later than two weeks after a defense contractor receives notice under subsection (a), the contractor shall provide notice of such termination or substantial reduction to—“(1)(A) each representative of employees whose work is directly related to the defense contract under such program and who are employed by the defense contractor; or “(B) if there is no such representative at that time, each such employee; and “(2) the State or entity designated by the State to carry out rapid response activities under [former] section 134(a)(2)(A) of the Workforce Investment Act of 1998 [former [29 U.S.C. 2864(a)(2)(A)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2864/a/2/A&num=0&edition=prelim)], and the chief elected official of the unit of general local government within which the adverse effect may occur. “(d) Constructive Notice.—The notice of termination of, or substantial reduction in, a defense contract provided under subsection (c)(1) to an employee of a contractor shall have the same effect as a notice of termination to such employee for the purposes of determining whether such employee is eligible to participate in employment and training activities carried out under title I of the Workforce Investment Act of 1998 [[29 U.S.C. 2801](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2801&num=0&edition=prelim) et seq.], except in a case in which the employer has specified that the termination of, or substantial reduction in, the contract is not likely to result in plant closure or mass layoff. “(e) Loss of Eligibility.—An employee who receives a notice of withdrawal or cancellation of the termination of, or substantial reduction in, contract funding shall not be eligible, on the basis of any related reduction in funding under the contract, to participate in employment and training activities under title I of the Workforce Investment Act of 1998 [[29 U.S.C. 2801](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2801&num=0&edition=prelim) et seq.], beginning on the date on which the employee receives the notice. “(f) Definitions.—For purposes of this section:“(1) The term ‘major defense program’ means a program that is carried out to produce or acquire a major system (as defined in [section 2302(5) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2302/5&num=0&edition=prelim), United States Code). “(2) The terms ‘substantial reduction’ and ‘substantially reduced’, with respect to a defense contract under a major defense program, mean a reduction of 25 percent or more in the total dollar value of the funds obligated by the contract.”
+Pub. L. 102–484, div. D, title XLIV, § 4471, Oct. 23, 1992, 106 Stat. 2753, as amended by Pub. L. 103–160, div. A, title XIII, § 1372, Nov. 20, 1993, 107 Stat. 1817; Pub. L. 103–337, div. A, title XI, § 1142, Oct. 5, 1994, 108 Stat. 2881; Pub. L. 104–201, div. A, title VIII, § 824, Sept. 23, 1996, 110 Stat. 2610; Pub. L. 105–85, div. A, title X, § 1073(d)(2)(C), Nov. 18, 1997, 111 Stat. 1905; Pub. L. 105–277, div. A, § 101(f) [title VIII, § 405(d)(7)(C), (f)(6)(C)], Oct. 21, 1998, 112 Stat. 2681–337, 2681–419, 2681–430, as amended by Pub. L. 116–283, div. A, title XVIII, § 1806(e)(2)(E), Jan. 1, 2021, 134 Stat. 4156, provided that: “(a) Notice Requirement After Enactment of Appropriations Act.—Each year, not later than 60 days after the date of the enactment of an Act appropriating funds for the military functions of the Department of Defense, the Secretary of Defense, in accordance with regulations prescribed by the Secretary—“(1) shall identify each contract (if any) under major defense programs of the Department of Defense that will be terminated or substantially reduced as a result of the funding levels provided in that Act; and “(2) shall ensure that notice of the termination of, or substantial reduction in, the funding of the contract is provided—“(A) directly to the prime contractor under the contract; and “(B) directly to the Secretary of Labor. “(b) Notice to Subcontractors.—Not later than 60 days after the date on which the prime contractor for a contract under a major defense program receives notice under subsection (a), the prime contractor shall—“(1) provide notice of that termination or substantial reduction to each person that is a first-tier subcontractor under that prime contract for subcontracts in an amount not less than $500,000; and “(2) require that each such subcontractor—“(A) provide such notice to each of its subcontractors for subcontracts in an amount in excess of $100,000; and “(B) impose a similar notice and pass through requirement to subcontractors in an amount in excess of $100,000 at all tiers. “(c) Contractor Notice to Employees and State Dislocated Worker Unit.—Not later than two weeks after a defense contractor receives notice under subsection (a), the contractor shall provide notice of such termination or substantial reduction to—“(1)(A) each representative of employees whose work is directly related to the defense contract under such program and who are employed by the defense contractor; or “(B) if there is no such representative at that time, each such employee; and “(2) the State or entity designated by the State to carry out rapid response activities under [former] section 134(a)(2)(A) of the Workforce Investment Act of 1998 [former [29 U.S.C. 2864(a)(2)(A)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2864/a/2/A&num=0&edition=prelim)], and the chief elected official of the unit of general local government within which the adverse effect may occur. “(d) Constructive Notice.—The notice of termination of, or substantial reduction in, a defense contract provided under subsection (c)(1) to an employee of a contractor shall have the same effect as a notice of termination to such employee for the purposes of determining whether such employee is eligible to participate in employment and training activities carried out under title I of the Workforce Investment Act of 1998 [[29 U.S.C. 2801](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2801&num=0&edition=prelim) et seq.], except in a case in which the employer has specified that the termination of, or substantial reduction in, the contract is not likely to result in plant closure or mass layoff. “(e) Loss of Eligibility.—An employee who receives a notice of withdrawal or cancellation of the termination of, or substantial reduction in, contract funding shall not be eligible, on the basis of any related reduction in funding under the contract, to participate in employment and training activities under title I of the Workforce Investment Act of 1998 [[29 U.S.C. 2801](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2801&num=0&edition=prelim) et seq.], beginning on the date on which the employee receives the notice. “(f) Definitions.—For purposes of this section:“(1) The term ‘major defense program’ means a program that is carried out to produce or acquire a major system (as defined in [section 2302(5) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2302/5&num=0&edition=prelim), United States Code). “(2) The terms ‘substantial reduction’ and ‘substantially reduced’, with respect to a defense contract under a major defense program, mean a reduction of 25 percent or more in the total dollar value of the funds obligated by the contract.”
+
+[Pub. L. 116–283, div. A, title XVIII, §§ 1801(d), 1806(e)(2)(E), Jan. 1, 2021, 134 Stat. 4151, 4156, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, section 4471(f)(1) of Pub. L. 102–484, set out above, is amended by substituting “section 3041” for “section 2302(5)”. See Effective Date of 2021 Amendment note above.]
 
 
 <a id="section-2502"></a>
@@ -307,13 +335,18 @@ Pub. L. 102–484, div. D, title XLIV, § 4471, Oct. 23, 1992, 106 Stat. 2753, a
 
 (1) the capabilities of the national technology and industrial base to meet the national security objectives set forth in [section 2501(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2501/a&num=0&edition=prelim);
 
-(2) programs for achieving such national security objectives; and
+(2) programs for achieving such national security objectives;
 
-(3) changes in acquisition policy that strengthen the national technology and industrial base.
+(3) changes in acquisition policy that strengthen the national technology and industrial base; and
+
+(4) collaboration with government officials of member countries of the national technology and industrial base in order to strengthen the national technology and industrial base.
 
 **(d) Alternative Performance of Responsibilities.—** Notwithstanding subsection (c), the President may assign the responsibilities of the Council to another interagency organization of the executive branch that includes among its members the officials specified in paragraphs (1) through (4) of subsection (b).
 
 ### Statutory Notes
+
+#### Renumbering of Section
+Pub. L. 116–283, div. A, title XVIII, §§ 1801(d), 1867(b), Jan. 1, 2021, 134 Stat. 4151, 4281, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, this section is renumbered [section 4812 of this title](./chapter-382-policies-and-planning.md#section-4812). See Effective Date of 2021 Amendment note below.
 
 #### Prior Provisions
 A prior section 2502, added Pub. L. 100–456, div. A, title VIII, § 821(b)(1)(B), Sept. 29, 1988, 102 Stat. 2015, related to defense industrial base policies, prior to repeal by Pub. L. 102–484, § 4202(a).
@@ -321,6 +354,8 @@ A prior section 2502, added Pub. L. 100–456, div. A, title VIII, § 821(b)(1)(
 Another prior section 2502 was renumbered [section 2534 of this title](./chapter-148-national-defense-technology-and-industrial-base-defense-reinvestment-and-defense-conversion.md#section-2534).
 
 #### Amendments
+2021—Subsec. (c)(4). Pub. L. 116–283 added par. (4).
+
 1997—Subsec. (c). Pub. L. 105–85, § 1073(c)(7)(A), made technical correction to directory language of Pub. L. 104–201, § 829(c)(2). See 1996 Amendment note below.
 
 1996—Subsec. (c). Pub. L. 104–201, § 829(c)(2), formerly § 829(c)(2), (3), as renumbered and amended by Pub. L. 105–85, substituted “the responsibility to ensure effective cooperation” for “the following responsibilities:”, struck out “(1) To ensure the effective cooperation” before “among departments”, struck out par. (2), redesignated subpars. (A), (B), and (C) as pars. (1), (2), and (3), respectively, and adjusted margins of such pars. Prior to repeal, par. (2) read as follows: “To prepare the periodic assessment and the periodic plan required by sections 2505 and 2506 of this title, respectively.”
@@ -333,6 +368,9 @@ Subsec. (c)(2), (3). Pub. L. 104–106, § 1081(b)(2), (3), redesignated par. (3
 
 1993—Subsec. (d). Pub. L. 103–160 added subsec. (d).
 
+#### Effective Date of 2021 Amendment
+Amendment by section 1867(b) of Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
+
 #### Effective Date of 1997 Amendment
 Pub. L. 105–85, div. A, title X, § 1073(c), Nov. 18, 1997, 111 Stat. 1904, provided that the amendment made by that section is effective as of Sept. 23, 1996, and as if included in the National Defense Authorization Act for Fiscal Year 1997, Pub. L. 104–201, as enacted.
 
@@ -341,7 +379,7 @@ Pub. L. 105–85, div. A, title X, § 1073(c), Nov. 18, 1997, 111 Stat. 1904, pr
 ## § 2503. National defense program for analysis of the technology and industrial base
 **(a) Establishment.—** The Secretary of Defense shall establish a program for analysis of the national technology and industrial base.
 
-**(b) Supervision of Program.—** The Secretary of Defense shall carry out the program through the Under Secretary of Defense for Acquisition, Technology, and Logistics. In carrying out the program, the Under Secretary shall consult with the Secretary of Energy, the Secretary of Commerce, and the Secretary of Labor.
+**(b) Supervision of Program.—** The Secretary of Defense shall carry out the program through the Under Secretary of Defense for Research and Engineering and the Under Secretary of Defense for Acquisition and Sustainment. In carrying out the program, the Under Secretaries shall consult with the Secretary of Energy, the Secretary of Commerce, and the Secretary of Labor.
 
 **(c) Functions.—** The functions of the program shall include, with respect to the national technology and industrial base, the following:
 
@@ -361,10 +399,15 @@ Pub. L. 105–85, div. A, title X, § 1073(c), Nov. 18, 1997, 111 Stat. 1904, pr
 
 ### Statutory Notes
 
+#### Renumbering of Section
+Pub. L. 116–283, div. A, title XVIII, §§ 1801(d), 1867(b), Jan. 1, 2021, 134 Stat. 4151, 4281, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, this section is renumbered [section 4813 of this title](./chapter-382-policies-and-planning.md#section-4813). See Effective Date of 2021 Amendment note below.
+
 #### Prior Provisions
 A prior section 2503, added Pub. L. 100–456, div. A, title VIII, § 821(b)(1)(B), Sept. 29, 1988, 102 Stat. 2016; amended Pub. L. 101–189, div. A, title VIII, § 842(a), (b), Nov. 29, 1989, 103 Stat. 1514, 1515; Pub. L. 102–25, title VII, § 701(f)(4), Apr. 6, 1991, 105 Stat. 115; Pub. L. 102–484, div. A, title X, § 1052(32), Oct. 23, 1992, 106 Stat. 2501, established defense industrial base office, prior to repeal by Pub. L. 102–484, § 4202(a).
 
 #### Amendments
+2019—Subsec. (b). Pub. L. 116–92 substituted “the Under Secretary of Defense for Research and Engineering and the Under Secretary of Defense for Acquisition and Sustainment” for “the Under Secretary of Defense for Acquisition, Technology, and Logistics” and “the Under Secretaries shall” for “the Under Secretary shall”.
+
 2001—Subsec. (b). Pub. L. 107–107 substituted “Under Secretary of Defense for Acquisition, Technology, and Logistics” for “Under Secretary of Defense for Acquisition”.
 
 1996—Subsec. (a). Pub. L. 104–201, § 829(b)(1), substituted “The Secretary of Defense” for “(1) The Secretary of Defense, in consultation with the National Defense Technology and Industrial Base Council,” and struck out pars. (2) to (4) which read as follows:
@@ -385,28 +428,59 @@ A prior section 2503, added Pub. L. 100–456, div. A, title VIII, § 821(b)(1)(
 
 Subsec. (c)(3)(A). Pub. L. 104–201, § 829(b)(2), substituted “the Secretary of Defense for” for “the National Defense Technology and Industrial Base Council in” and struck out “and the periodic plans required by [section 2506 of this title](./chapter-148-national-defense-technology-and-industrial-base-defense-reinvestment-and-defense-conversion.md#section-2506)” after “[section 2505 of this title](./chapter-148-national-defense-technology-and-industrial-base-defense-reinvestment-and-defense-conversion.md#section-2505)”.
 
+#### Effective Date of 2021 Amendment
+Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
+
 #### Deadline for Establishing Program
 Pub. L. 102–484, div. D, title XLII, § 4213(b), Oct. 23, 1992, 106 Stat. 2666, required the Secretary of Defense to establish the program required by this section not later than six months after Oct. 23, 1992.
 
 
 <a id="section-2504"></a>
-## § 2504. Annual report to Congress
-
-The Secretary of Defense shall transmit to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives by March 1 of each year a report which shall include the following information:
+## § 2504. National technology and industrial base: annual report and quarterly briefings
+**(a) Annual Report.—** The Secretary of Defense shall transmit to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives by March 1 of each year a report which shall include the following information:
 
 (1) A description of the departmental guidance prepared pursuant to [section 2506 of this title](./chapter-148-national-defense-technology-and-industrial-base-defense-reinvestment-and-defense-conversion.md#section-2506).
 
 (2) A description of the assessments prepared pursuant to [section 2505 of this title](./chapter-148-national-defense-technology-and-industrial-base-defense-reinvestment-and-defense-conversion.md#section-2505) and other analyses used in developing the budget submission of the Department of Defense for the next fiscal year.
 
-(3) Based on the strategy required by [section 2501 of this title](./chapter-148-national-defense-technology-and-industrial-base-defense-reinvestment-and-defense-conversion.md#section-2501) and on the assessments prepared pursuant to [section 2505 of this title](./chapter-148-national-defense-technology-and-industrial-base-defense-reinvestment-and-defense-conversion.md#section-2505)—
+(3) Based on the strategy required by [section 2501 of this title](./chapter-148-national-defense-technology-and-industrial-base-defense-reinvestment-and-defense-conversion.md#section-2501) and on the assessments prepared pursuant to Executive order or [section 2505 of this title](./chapter-148-national-defense-technology-and-industrial-base-defense-reinvestment-and-defense-conversion.md#section-2505)—
 
-  (A) a description of any mitigation strategies necessary to address any gaps or vulnerabilities in the national technology and industrial base; and
+  (A) a map of the industrial base;
 
-  (B) any other steps necessary to foster and safeguard the national technology and industrial base.
+  (B) a prioritized list of gaps or vulnerabilities in the national technology and industrial base, including—
+
+    (i) a description of mitigation strategies necessary to address such gaps or vulnerabilities;
+
+    (ii) the identification of the Secretary concerned or the head of the Defense Agency responsible for addressing such gaps or vulnerabilities; and
+
+    (iii) a proposed timeline for action to address such gaps or vulnerabilities; and
+
+  (C) any other steps necessary to foster and safeguard the national technology and industrial base.
 
 (4) Identification of each program designed to sustain specific essential technological and industrial capabilities and processes of the national technology and industrial base.
 
+(5) A detailed description of any use by the Secretary of Defense or a Secretary concerned, as applicable, during the prior 12 months of a waiver or exception to the sourcing requirements or prohibitions established by chapter 83 of title 41 or subchapter V of chapter 148 of this title, including—
+
+  (A) the type of waiver or exception used; and
+
+  (B) the reasoning for the use of each such waiver or exception.
+
+**(b) Quarterly Briefings.—**
+
+(1) The Secretary of Defense shall ensure that the congressional defense committees receive quarterly briefings on the industrial base supporting the Department of Defense, describing challenges, gaps, and vulnerabilities in the defense industrial base and commercial sector relevant to execution of defense missions, and describing initiatives to address such challenges.
+
+(2) Each briefing under paragraph (1) shall include an update on the progress of addressing such gaps or vulnerabilities by the Secretary, the Secretary of the military department concerned, or the appropriate head of a Defense Agency, including an update on—
+
+  (A) actions taken to address such gaps or vulnerabilities;
+
+  (B) policy changes necessary to address such gaps or vulnerabilities; and
+
+  (C) the proposed timeline for action and resources required to address such gaps or vulnerabilities.
+
 ### Statutory Notes
+
+#### Renumbering of Section
+Pub. L. 116–283, div. A, title XVIII, §§ 1801(d), 1867(b), Jan. 1, 2021, 134 Stat. 4151, 4281, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, this section is renumbered [section 4814 of this title](./chapter-382-policies-and-planning.md#section-4814). See Effective Date of 2021 Amendment note below.
 
 #### Prior Provisions
 A prior section 2504, added Pub. L. 102–484, div. D, title XLII, § 4214(a), Oct. 23, 1992, 106 Stat. 2666, established Center for Study of Defense Economic Adjustment, prior to repeal by Pub. L. 103–160, div. A, title XIII, § 1312(a)(1), Nov. 30, 1993, 107 Stat. 1786.
@@ -414,15 +488,75 @@ A prior section 2504, added Pub. L. 102–484, div. D, title XLII, § 4214(a), O
 Another prior section 2504 was renumbered [section 2531 of this title](./chapter-148-national-defense-technology-and-industrial-base-defense-reinvestment-and-defense-conversion.md#section-2531).
 
 #### Amendments
+2021—Pub. L. 116–283, § 842(b)(1), amended section catchline generally, substituting “National technology and industrial base: annual report and quarterly briefings” for “Annual report to Congress”.
+
+Subsec. (a). Pub. L. 116–283, § 842(a)(1), designated existing provisions as subsec. (a) and inserted heading.
+
+Subsec. (a)(5). Pub. L. 116–283, § 842(a)(2), added par. (5).
+
+Subsec. (b). Pub. L. 116–283, § 842(a)(3), added subsec. (b).
+
+2019—Par. (3). Pub. L. 116–92, § 846(b)(1), inserted “Executive order or” after “pursuant to”.
+
+Par. (3)(A). Pub. L. 116–92, § 846(b)(2), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “a description of any mitigation strategies necessary to address any gaps or vulnerabilities in the national technology and industrial base; and”.
+
+Par. (3)(B), (C). Pub. L. 116–92, § 846(b)(3), (4), added subpar. (B) and redesignated former subpar. (B) as (C).
+
 2013—Pars. (2), (3). Pub. L. 112–239 added par. (3), redesignated former par. (3) as (2) and struck out former par. (2) which read as follows: “A description of the methods and analyses being undertaken by the Department of Defense alone or in cooperation with other Federal agencies, to identify and address concerns regarding technological and industrial capabilities of the national technology and industrial base.”
 
 1999—Pub. L. 106–65 substituted “and the Committee on Armed Services” for “and the Committee on National Security” in introductory provisions.
+
+#### Effective Date of 2021 Amendment
+Amendment by section 1867(b) of Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
 
 #### Termination of Reporting Requirements
 For termination, effective Dec. 31, 2021, of provisions of this section requiring submittal of annual report to Congress, see section 1061 of Pub. L. 114–328, set out as a note under [section 111 of this title](./chapter-002-department-of-defense.md#section-111).
 
 #### Strategy For Securing the Defense Supply Chain and Industrial Base
 Pub. L. 112–81, div. A, title VIII, § 852, Dec. 31, 2011, 125 Stat. 1517, as amended by Pub. L. 112–239, div. A, title XVI, § 1603(d), Jan. 2, 2013, 126 Stat. 2063, which required a report on the sector-by-sector, tier-by-tier assessment of the industrial base undertaken by the Department of Defense, was repealed by Pub. L. 115–232, div. A, title VIII, § 812(b)(55), Aug. 13, 2018, 132 Stat. 1850.
+
+
+<a id="section-2504a"></a>
+## § 2504a. Unfunded priorities of the national technology and industrial base: annual report
+**(a) Annual Report.—** Not later than 10 days after the date on which the budget of the President for a fiscal year is submitted to Congress pursuant to [section 1105 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1105&num=0&edition=prelim), the Under Secretary of Defense for Acquisition and Sustainment shall submit to the Secretary of Defense, the Chairman of the Joint Chiefs of Staff, and the congressional defense committees a report on the unfunded priorities to address gaps or vulnerabilities in the national technology and industrial base.
+
+**(b) Elements.—**
+
+(1) **In general.—** — Each report under subsection (a) shall specify, for each unfunded priority covered by such report, the following:
+
+  (A) A summary description of such priority, including the objectives to be achieved if such priority is funded (whether in whole or in part).
+
+  (B) The additional amount of funds recommended in connection with the objectives under subparagraph (A).
+
+  (C) Account information with respect to such priority, including the following (as applicable):
+
+    (i) Line Item Number (LIN) for applicable procurement accounts.
+
+    (ii) Program Element (PE) number for applicable research, development, test, and evaluation accounts.
+
+    (iii) Sub-activity group (SAG) for applicable operation and maintenance accounts.
+
+(2) **Prioritization of priorities.—** — Each report shall present the unfunded priorities covered by such report in order of urgency of priority.
+
+**(c) Unfunded Priority Defined.—** In this section, the term “unfunded priority”, in the case of a fiscal year, means a program, activity, or mission requirement of the national technology and industrial base that—
+
+(1) is not funded in the budget of the President for the fiscal year as submitted to Congress pursuant to [section 1105 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1105&num=0&edition=prelim);
+
+(2) is necessary to address gaps or vulnerabilities in the national technology and industrial base; and
+
+(3) would have been recommended for funding through the budget referred to in paragraph (1) if—
+
+  (A) additional resources had been available for the budget to fund the program, activity, or mission requirement; or
+
+  (B) the program, activity, or mission requirement had emerged before the budget was formulated.
+
+### Statutory Notes
+
+#### Renumbering of Section
+Pub. L. 116–283, div. A, title XVIII, §§ 1801(d), 1867(b), Jan. 1, 2021, 134 Stat. 4151, 4281, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, this section is renumbered [section 4815 of this title](./chapter-382-policies-and-planning.md#section-4815). See Effective Date of 2021 Amendment note below.
+
+#### Effective Date of 2021 Amendment
+Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
 
 
 <a id="section-2505"></a>
@@ -461,6 +595,9 @@ Pub. L. 112–81, div. A, title VIII, § 852, Dec. 31, 2011, 125 Stat. 1517, as 
 
 ### Statutory Notes
 
+#### Renumbering of Section
+Pub. L. 116–283, div. A, title XVIII, §§ 1801(d), 1867(b), Jan. 1, 2021, 134 Stat. 4151, 4281, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, this section is renumbered [section 4816 of this title](./chapter-382-policies-and-planning.md#section-4816). See Effective Date of 2021 Amendment note below.
+
 #### References in Text
 [Section 2445a of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2445a&num=0&edition=prelim), referred to in subsec. (b)(6), was repealed by Pub. L. 114–328, div. A, title VIII, § 846(1), Dec. 23, 2016, 130 Stat. 2292, effective Sept. 30, 2017.
 
@@ -480,8 +617,11 @@ A prior section 2505 was renumbered [section 2532 of this title](./chapter-148-n
 
 1993—Pub. L. 103–35 substituted “capability” for “capabilty” in section catchline.
 
-#### Pilot Program on Strengthening Manufacturing in the Defense Industrial Base
-Pub. L. 115–91, div. A, title XVII, § 1711, Dec. 12, 2017, 131 Stat. 1811, provided that: “(a) Pilot Program Required.—The Secretary of Defense shall carry out a pilot program to assess the feasibility and advisability of increasing the capability of the defense industrial base to support—“(1) production needs to meet military requirements; and “(2) manufacturing and production of emerging defense and commercial technologies. “(b) Authorities.—The Secretary shall carry out the pilot program under the following:“(1) Chapters 137 and 139 and sections 2371, 2371b, and 2373 of title 10, United States Code. “(2) Such other legal authorities as the Secretary considers applicable to carrying out the pilot program. “(c) Activities.—Activities under the pilot program may include the following:“(1) Use of contracts, grants, or other transaction authorities to support manufacturing and production capabilities in small- and medium-sized manufacturers. “(2) Purchases of goods or equipment for testing and certification purposes. “(3) Incentives, including purchase commitments and cost sharing with nongovernmental sources, for the private sector to develop manufacturing and production capabilities in areas of national security interest. “(4) Issuing loans or providing loan guarantees to small- and medium-sized manufacturers to support manufacturing and production capabilities in areas of national security interest. “(5) Giving awards to third party entities to support investments in small- and medium-sized manufacturers working in areas of national security interest, including debt and equity investments that would benefit missions of the Department of Defense. “(6) Such other activities as the Secretary determines necessary. “(d) Termination.—The pilot program shall terminate on the date that is four years after the date of the enactment of this Act [Dec. 12, 2017]. “(e) Briefing Required.—No later than January 31, 2022, the Secretary of Defense shall provide a briefing to the Committees on Armed Services in the Senate and the House of Representatives on the results of the pilot program.”
+#### Effective Date of 2021 Amendment
+Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
+
+#### Pilot Program on Strengthening the Defense Industrial and Innovation Base
+Pub. L. 115–91, div. A, title XVII, § 1711, Dec. 12, 2017, 131 Stat. 1811, as amended by Pub. L. 116–283, div. A, title II, § 213(c), Jan. 1, 2021, 134 Stat. 3457, provided that: “(a) Pilot Program Required.—The Secretary of Defense shall carry out a pilot program to assess the feasibility and advisability of increasing the capability of the defense industrial base and the defense innovation base to support—“(1) development, prototyping, and manufacturing production needs to meet military requirements; and “(2) development, prototyping, and manufacturing of emerging defense and commercial technologies. “(b) Authorities.—The Secretary shall carry out the pilot program under the following:“(1) Chapters 137 and 139 and sections 2371, 2371b, and 2373 of title 10, United States Code. “(2) Section 230 of the John S. McCain National Defense Authorization Act for Fiscal Year 2019 (Public Law 115–232; [10 U.S.C. 2358](./chapter-139-research-and-development.md#section-2358) note). “(3) Such other legal authorities as the Secretary considers applicable to carrying out the pilot program. “(c) Activities.—Activities under the pilot program may include the following:“(1) Use of contracts, grants, or other transaction authorities to support development, prototyping, and manufacturing capabilities in small- and medium-sized manufacturers. “(2) Purchases of goods or equipment for testing and certification purposes. “(3) Incentives, including purchase commitments and cost sharing with nongovernmental sources, for the private sector to develop capabilities in areas of national security interest. “(4) Issuing loans or providing loan guarantees to small- and medium-sized companies to support manufacturing and production capabilities in areas of national security interest. “(5) Giving awards to third party entities to support investments in small- and medium-sized companies working in areas of national security interest, including debt and equity investments that would benefit missions of the Department of Defense. “(6) Such other activities as the Secretary determines necessary. “(d) Termination.—The pilot program shall terminate on December 31, 2026. “(e) Briefing Required.—No later than January 31, 2027, the Secretary of Defense shall provide a briefing to the Committees on Armed Services in the Senate and the House of Representatives on the results of the pilot program.”
 
 #### Study of Beryllium Industrial Base
 Pub. L. 108–136, div. A, title VIII, § 824, Nov. 24, 2003, 117 Stat. 1547, required the Secretary of Defense to conduct a study of the adequacy of the industrial base of the United States to meet defense requirements of the United States for beryllium and to submit a report on the results of the study to Congress not later than Mar. 31, 2005.
@@ -498,15 +638,29 @@ Pub. L. 102–484, div. D, title XLII, § 4219, Oct. 23, 1992, 106 Stat. 2671, a
 
 ### Statutory Notes
 
+#### Amendment of Section
+Pub. L. 116–283, div. A, title XVIII, §§ 1801(d), 1867(c)(1)(B), Jan. 1, 2021, 134 Stat. 4151, 4281, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, this section is amended by transferring subsections (a) and (b) of this section to [section 4811 of this title](./chapter-382-policies-and-planning.md#section-4811). See Effective Date of 2021 Amendment note below.
+
+#### Repeal of Section
+Pub. L. 116–283, div. A, title XVIII, §§ 1801(d), 1867(c)(2), Jan. 1, 2021, 134 Stat. 4151, 4281, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, this section is repealed. See Effective Date of Repeal note below.
+
 #### Prior Provisions
 A prior section 2506 was renumbered [section 2533 of this title](./chapter-148-national-defense-technology-and-industrial-base-defense-reinvestment-and-defense-conversion.md#section-2533).
 
 #### Amendments
+2021—Subsecs. (a), (b). Pub. L. 116–283 transferred subsecs. (a) and (b) to [section 4811 of this title](./chapter-382-policies-and-planning.md#section-4811).
+
 2017—Pub. L. 115–91 designated second sentence of subsec. (a) as subsec. (b) and inserted heading, substituted “The guidance prescribed pursuant to subsection (a)” for “Such guidance” in subsec. (b), and struck out former subsec. (b) which required the Secretary of Defense to report on the implementation of the departmental guidance in the annual report to Congress.
 
 2011—Subsec. (a). Pub. L. 111–383 substituted “strategy, management, budget allocation,” for “budget allocation, weapons”.
 
 1996—Pub. L. 104–201 substituted “Department of Defense technology and industrial base policy guidance” for “National technology and industrial base: periodic defense capability plan” in section catchline and amended text generally. Prior to amendment, text consisted of subsecs. (a) to (e) providing for the National Defense Technology and Industrial Base Council to prepare, at least annually through fiscal year 1997 and biennially thereafter, a multiyear plan for ensuring that the policies and programs of the Department of Defense, the Department of Energy, and other Federal departments and agencies were planned, coordinated, funded, and implemented in a manner designed to attain national security objectives.
+
+#### Effective Date of Repeal
+Repeal effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
+
+#### Effective Date of 2021 Amendment
+Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
 
 #### Implementing Regulations Concerning National Technology and Industrial Base Periodic Plan
 Pub. L. 102–484, div. D, title XLII, § 4220, Oct. 23, 1992, 106 Stat. 2675, set forth requirements for the initial regulations prescribed to implement this section, prior to repeal by Pub. L. 104–201, div. A, title VIII, § 829(h), Sept. 23, 1996, 110 Stat. 2614.
@@ -532,6 +686,9 @@ Pub. L. 102–484, div. D, title XLII, § 4220, Oct. 23, 1992, 106 Stat. 2675, s
 
 ### Statutory Notes
 
+#### Renumbering of Section
+Pub. L. 116–283, div. A, title XVIII, §§ 1801(d), 1867(b), Jan. 1, 2021, 134 Stat. 4151, 4281, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, this section is renumbered [section 4818 of this title](./chapter-382-policies-and-planning.md#section-4818). See Effective Date of 2021 Amendment note below.
+
 #### Prior Provisions
 A prior section 2507 was renumbered [section 2534 of this title](./chapter-148-national-defense-technology-and-industrial-base-defense-reinvestment-and-defense-conversion.md#section-2534).
 
@@ -540,12 +697,15 @@ A prior section 2507 was renumbered [section 2534 of this title](./chapter-148-n
 
 1993—Pub. L. 103–160 inserted headings in subsecs. (a) to (f).
 
+#### Effective Date of 2021 Amendment
+Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
+
 
 <a id="section-2508"></a>
 ## § 2508. Industrial Base Fund
 **(a) Establishment.—** The Secretary of Defense shall establish an Industrial Base Fund (in this section referred to as the “Fund”).
 
-**(b) Control of Fund.—** The Fund shall be under the control of the Under Secretary of Defense for Acquisition, Technology, and Logistics, acting through the Deputy Assistant Secretary of Defense for Manufacturing and Industrial Base Policy.
+**(b) Control of Fund.—** The Fund shall be under the control of the Under Secretary of Defense for Acquisition and Sustainment, acting through the Deputy Assistant Secretary of Defense for Manufacturing and Industrial Base Policy.
 
 **(c) Amounts in Fund.—** The Fund shall consist of amounts appropriated or otherwise made available to the Fund.
 
@@ -569,18 +729,231 @@ A prior section 2507 was renumbered [section 2534 of this title](./chapter-148-n
 
 ### Statutory Notes
 
+#### Renumbering of Section
+Pub. L. 116–283, div. A, title XVIII, §§ 1801(d), 1867(b), Jan. 1, 2021, 134 Stat. 4151, 4281, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, this section is renumbered [section 4817 of this title](./chapter-382-policies-and-planning.md#section-4817). See Effective Date of 2021 Amendment note below.
+
 #### Prior Provisions
 A prior section 2508 was renumbered [section 2522 of this title](./chapter-148-national-defense-technology-and-industrial-base-defense-reinvestment-and-defense-conversion.md#section-2522) and subsequently repealed.
 
+#### Amendments
+2019—Subsec. (b). Pub. L. 116–92 substituted “Under Secretary of Defense for Acquisition and Sustainment” for “Under Secretary of Defense for Acquisition, Technology, and Logistics”.
+
+2017—Pub. L. 115–91, § 1081(g)(1), made technical amendment to directory language of Pub. L. 111–383, § 896(b)(1), which added this section.
+
+#### Effective Date of 2021 Amendment
+Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
+
+#### Effective Date of 2017 Amendment
+Pub. L. 115–91, div. A, title X, § 1081(g), Dec. 12, 2017, 131 Stat. 1601, provided that the amendment made by section 1081(g)(1) is effective as of Jan. 7, 2011, and as if included in Pub. L. 111–383 as enacted.
+
+
+<a id="section-2509"></a>
+## § 2509. Modernization of acquisition processes to ensure integrity of industrial base
+**(a) Digitization and Modernization.—** The Secretary of Defense shall streamline and digitize the existing Department of Defense approach for identifying and mitigating risks to the defense industrial base across the acquisition process, creating a continuous model that uses digital tools, technologies, and approaches designed to ensure the accessibility of data to key decision-makers in the Department.
+
+**(b) Analytical Framework.—**
+
+(1) The Under Secretary of Defense for Acquisition and Sustainment, in coordination with the Director of the Defense Counterintelligence and Security Agency and the heads of other elements of the Department of Defense as appropriate, shall develop an analytical framework for risk mitigation across the acquisition process.
+
+(2) The analytical framework required under paragraph (1) shall include the following elements:
+
+  (A) Characterization and monitoring of supply chain risks, such as those identified through the supply chain risk management process of the Department and by the Federal Acquisition Security Council, and including—
+
+    (i) material sources and fragility, including the extent to which sources, items, materials, and articles are mined, produced, or manufactured within or outside the United States;
+
+    (ii) telecommunications services or equipment;
+
+    (iii) counterfeit parts;
+
+    (iv) cybersecurity of contractors;
+
+    (v) video surveillance services or equipment;
+
+    (vi) vendor vetting in contingency or operational environments;
+
+    (vii) other electronic or information technology products and services; and
+
+    (viii) other risk areas as determined appropriate.
+
+  (B) Characterization and monitoring of risks posed by contractor behavior that constitute violations of laws or regulations, including those relating to—
+
+    (i) fraud;
+
+    (ii) ownership structures;
+
+    (iii) trafficking in persons;
+
+    (iv) workers’ health and safety;
+
+    (v) affiliation with the enemy;
+
+    (vi) foreign influence; and
+
+    (vii) other risk areas as deemed appropriate.
+
+  (C) Characterization and assessment of the acquisition processes and procedures of the Department of Defense, including—
+
+    (i) market research;
+
+    (ii) responsibility determinations, including consideration of the need for special standards of responsibility to address the risks described in subparagraphs (A) and (B);
+
+    (iii) facilities clearances;
+
+    (iv) the development of contract requirements;
+
+    (v) the technical evaluation of offers and contract awards;
+
+    (vi) contractor mobilization, including hiring, training, and establishing facilities;
+
+    (vii) contract administration, contract management, and oversight;
+
+    (viii) contract audit for closeout;
+
+    (ix) suspension and debarment activities and administrative appeals activities;
+
+    (x) contractor business system reviews;
+
+    (xi) processes and procedures related to supply chain risk management and processes and procedures implemented pursuant to [section 2339a of this title](./chapter-137-procurement-generally.md#section-2339a); and
+
+    (xii) other relevant processes and procedures.
+
+  (D) Characterization and monitoring of the health and activities of the defense industrial base, including those relating to—
+
+    (i) balance sheets, revenues, profitability, and debt;
+
+    (ii) investment, innovation, and technological and manufacturing sophistication;
+
+    (iii) finances, access to capital markets, and cost of raising capital within those markets;
+
+    (iv) corporate governance, leadership, and culture of performance; and
+
+    (v) history of performance on past Department of Defense and government contracts.
+
+  (E) Characterization and assessment of industrial base support policies, programs, and procedures, including—
+
+    (i) limitations and acquisition guidance relevant to the national technology and industrial base (as defined in [section 2500(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2500/1&num=0&edition=prelim));
+
+    (ii) limitations and acquisition guidance relevant to [section 2533a of this title](./chapter-148-national-defense-technology-and-industrial-base-defense-reinvestment-and-defense-conversion.md#section-2533a);
+
+    (iii) the Industrial Base Analysis and Sustainment program of the Department, including direct support and common design activities;
+
+    (iv) the Small Business Innovation Research Program (as defined in section 9(e) of the Small Business Act ([15 U.S.C. 638(e)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section638/e&num=0&edition=prelim));
+
+    (v) the Manufacturing Technology Program established under [section 2521 of this title](./chapter-148-national-defense-technology-and-industrial-base-defense-reinvestment-and-defense-conversion.md#section-2521);
+
+    (vi) programs relating to the Defense Production Act of 1950 ([50 U.S.C. 4511](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4511&num=0&edition=prelim) et seq.); 11 See References in Text note below. and
+
+    (vii) programs operating in each military department.
+
+**(c) Roles and Responsibilities.—** The Secretary of Defense shall designate the roles and responsibilities of organizations and individuals to execute activities under this section, including—
+
+(1) the Under Secretary of Defense for Acquisition and Sustainment, including the Office of Defense Pricing and Contracting and the Office of Industrial Policy;
+
+(2) service acquisition executives;
+
+(3) program offices and procuring contracting officers;
+
+(4) administrative contracting officers within the Defense Contract Management Agency and the Supervisor of Shipbuilding;
+
+(5) the Defense Counterintelligence and Security Agency;
+
+(6) the Defense Contract Audit Agency;
+
+(7) each element of the Department of Defense which own or operate systems containing data relevant to contractors of the Department;
+
+(8) the Under Secretary of Defense for Research and Engineering;
+
+(9) the suspension and debarment official of the Department;
+
+(10) the Chief Information Officer; and
+
+(11) other relevant organizations and individuals.
+
+**(d) Enabling Data, Tools, and Systems.—**
+
+(1)
+
+  (A) The Under Secretary of Defense for Acquisition and Sustainment, in consultation with the Chief Data Officer of the Department of Defense and the Director of the Defense Counterintelligence and Security Agency, shall assess the extent to which existing systems of record relevant to risk assessments and contracting are producing, exposing, and timely maintaining valid and reliable data for the purposes of the Department’s continuous assessment and mitigation of risks in the defense industrial base.
+
+  (B) The assessment required under subparagraph (A) shall include the following elements:
+
+    (i) Identification of the necessary source data, to include data from contractors, intelligence and security activities, program offices, and commercial research entities.
+
+    (ii) A description of the modern data infrastructure, tools, and applications and what changes would improve the effectiveness and efficiency of mitigating the risks described in subsection (b)(2).
+
+    (iii) An assessment of the following systems owned or operated outside of the Department of Defense that the Department depends upon or to which it provides data:
+
+      (I) The Federal Awardee Performance and Integrity Information System (FAPIIS).
+
+      (II) The System for Award Management (SAM).
+
+      (III) The Federal Procurement Data System–Next Generation (FPDS–NG).
+
+      (IV) The Electronic Data Management Information System.
+
+      (V) Other systems the Secretary of Defense determines appropriate.
+
+    (iv) An assessment of systems owned or operated by the Department of Defense, including the Defense Counterintelligence and Security Agency and other defense agencies and field activities used to capture and analyze the status and performance (including past performance) of vendors and contractors.
+
+(2) Based on the findings pursuant to paragraph (1), the Secretary of Defense shall develop a unified set of activities to modernize the systems of record, data sources and collection methods, and data exposure mechanisms. The unified set of activities should feature—
+
+  (A) the ability to continuously collect data on, assess, and mitigate risks;
+
+  (B) data analytics and business intelligence tools and methods; and
+
+  (C) continuous development and continuous delivery of secure software to implement the activities.
+
+**(e) Rule of Construction.—** Nothing in this section shall be construed to limit or modify any other procurement policy, procedure, requirement, or restriction provided by law.
+
+**(f) Implementation and Reporting Requirements.—** The Secretary of Defense shall carry out the implementation phases set forth in, and submit to the congressional defense committees the items of information required by, the following paragraphs:
+
+(1) **Phase 1: implementation plan.—** — Not later than 90 days after the date of the enactment of this section, an implementation plan and schedule for carrying out the framework established pursuant to subsection (b), including—
+
+  (A) a discussion and recommendations for any changes to, or exemptions from, laws necessary for effective implementation, including updating the definitions in [section 2339a(e) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2339a/e&num=0&edition=prelim) relating to covered procurement, covered system, and covered item of supply, and any similar terms defined in other law or regulation; and
+
+  (B) a process for an entity to contact the Department after the entity has taken steps to remediate, mitigate, or otherwise address the risks identified by the Department in conducting activities under subsection (b).
+
+(2) **Phase 2: implementation of framework.—** — Not later than one year after the date of the submission of the implementation plan and schedule required under paragraph (1), a report on the actions taken to implement the framework established pursuant to subsection (b), and supporting policies, procedures, and guidance relating to such actions.
+
+**(g) Comptroller General Reviews.—**
+
+(1) **Briefing.—** — Not later than February 15, 2020, the Comptroller General of the United States shall brief the congressional defense committees on Department of Defense efforts over the previous 5 years to continuously assess and mitigate risks to the defense industrial base across the acquisition process, and a summary of current and planned efforts.
+
+(2) **Periodic assessments.—** — The Comptroller General shall submit to the congressional defense committees three periodic assessments of Department of Defense progress in implementing the framework required under subsection (b), to be provided not later than October 15, 2020, March 15, 2022, and March 15, 2024.
+
+### Statutory Notes
+
+#### Renumbering of Section
+Pub. L. 116–283, div. A, title XVIII, §§ 1801(d), 1867(b), Jan. 1, 2021, 134 Stat. 4151, 4281, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, this section is renumbered [section 4819 of this title](./chapter-382-policies-and-planning.md#section-4819). See Effective Date of 2021 Amendment note below.
+
+#### References in Text
+The Defense Production Act of 1950 ([50 U.S.C. 4511](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4511&num=0&edition=prelim) et seq.), referred to in subsec. (b)(2)(E)(vi), probably means act Sept. 8, 1950, ch. 932, 64 Stat. 798, which is classified principally to chapter 55 (§ 4501 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see [section 4501 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4501&num=0&edition=prelim) and Tables.
+
+The date of the enactment of this section, referred to in subsec. (f)(1), is the date of enactment of Pub. L. 116–92, which was approved Dec. 20, 2019.
+
+#### Prior Provisions
 A prior section 2509, added Pub. L. 101–510, div. A, title VIII, § 825(a), Nov. 5, 1990, 104 Stat. 1604; amended Pub. L. 102–484, div. A, title X, § 1052(34), Oct. 23, 1992, 106 Stat. 2501, required submission of defense industrial base annual reports, prior to repeal by Pub. L. 102–484, § 4202(a).
 
 A prior section 2510, added Pub. L. 101–510, div. A, title VIII, § 826(a)(1), Nov. 5, 1990, 104 Stat. 1605, related to defense industrial base for textile and apparel products, prior to repeal by Pub. L. 102–484, § 4202(a).
 
 #### Amendments
-Pub. L. 115–91, § 1081(g)(1), made technical amendment to directory language of Pub. L. 111–383, § 896(b)(1), which added this section.
+2021—Subsec. (b)(2)(A). Pub. L. 116–283, § 843(a)(1)(A)(i), inserted “such as those identified through the supply chain risk management process of the Department and by the Federal Acquisition Security Council, and” after “supply chain risks,” in introductory provisions.
 
-#### Effective Date of 2017 Amendment
-Pub. L. 115–91, div. A, title X, § 1081(g), Dec. 12, 2017, 131 Stat. 1601, provided that the amendment made by section 1081(g)(1) is effective as of Jan. 7, 2011, and as if included in Pub. L. 111–383 as enacted.
+Subsec. (b)(2)(A)(ii). Pub. L. 116–283, § 843(a)(1)(A)(ii), struck out “(other than optical transmission components)” after “equipment”.
+
+Subsec. (b)(2)(C)(xi), (xii). Pub. L. 116–283, § 843(a)(1)(B), added cl. (xi) and redesignated former cl. (xi) as (xii).
+
+Subsec. (b)(2)(E). Pub. L. 116–283, § 843(a)(1)(C), added subpar. (E).
+
+Subsec. (f)(2). Pub. L. 116–283, § 843(a)(2), inserted “, and supporting policies, procedures, and guidance relating to such actions” after “subsection (b)”.
+
+#### Effective Date of 2021 Amendment
+Amendment by section 1867(b) of Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
+
+#### Mitigating Risks Related to Foreign Ownership, Control, or Influence of Department of Defense Contractors or Subcontractors
+Pub. L. 116–283, div. A, title VIII, § 819(c), Jan. 1, 2021, 134 Stat. 3752, provided that: “(1) Implementation plan.—Not later than March 1, 2021, the Secretary of Defense shall provide to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] a plan and schedule for implementation of the requirements of section 847 of the National Defense Authorization Act for Fiscal Year 2020 (Public Law 116–92; 133 Stat. 1505; [10 U.S.C. 2509](./chapter-148-national-defense-technology-and-industrial-base-defense-reinvestment-and-defense-conversion.md#section-2509) note) [set out below], as amended by this section, including—“(A) a timeline for issuance of regulations, development of training for appropriate officials, and development of systems for reporting of beneficial ownership and FOCI by covered contractors or subcontractors; “(B) the designation of officials and organizations responsible for such implementation; and “(C) interim milestones to be met in implementing the plan and schedule. “(2) Revision of regulations, directives, guidance, training, and policies.—Not later than July 1, 2021, the Secretary of Defense shall revise relevant directives, guidance, training, and policies, including revising the Department of Defense Supplement to the Federal Acquisition Regulation, to fully implement the requirements of such section 847. “(3) Definitions.—In this subsection, the term ‘beneficial ownership’, ‘FOCI’, and ‘covered contractors or subcontractors’ have the meanings given, respectively, in section 847 of the National Defense Authorization Act for Fiscal Year 2020 (Public Law 116–92; 133 Stat. 1505; [10 U.S.C. 2509](./chapter-148-national-defense-technology-and-industrial-base-defense-reinvestment-and-defense-conversion.md#section-2509) note).”
+
+Pub. L. 116–92, div. A, title VIII, § 847, Dec. 20, 2019, 133 Stat. 1505, as amended by Pub. L. 116–283, div. A, title VIII, § 819(a), (b), (d), Jan. 1, 2021, 134 Stat. 3751, 3752, provided that: “(a) Definitions.—In this section:“(1) Beneficial owner; beneficial ownership.—The terms ‘beneficial owner’ and ‘beneficial ownership’ shall be determined in a manner that is not less stringent than the manner set forth in section 240.13d–3 of title 17, Code of Federal Regulations (as in effect on the date of the enactment of this Act [Dec. 20, 2019]). “(2) Company.—The term ‘company’ means any corporation, company, limited liability company, limited partnership, business trust, business association, or other similar entity. “(3) Covered contractor or subcontractor.—The term ‘covered contractor or subcontractor’ means a company that is an existing or prospective contractor or subcontractor of the Department of Defense on a contract or subcontract with a value in excess of $5,000,000, except as provided in subsection (c). “(4) Foreign ownership, control, or influence; foci.—The terms ‘foreign ownership, control, or influence’ and ‘FOCI’ have the meanings given those terms in the National Industrial Security Program Operating Manual (DOD 5220.22–M), or a successor document. “(b) Improved Assessment and Mitigation of Risks Related to Foreign Ownership, Control, or Influence.—“(1) In general.—In developing and implementing the analytical framework for mitigating risk relating to ownership structures, as required by [section 2509 of title 10](./chapter-148-national-defense-technology-and-industrial-base-defense-reinvestment-and-defense-conversion.md#section-2509), United States Code, as added by section 845 of this Act, the Secretary of Defense shall improve the process and procedures for the assessment and mitigation of risks related to foreign ownership, control, or influence (FOCI) of covered contractors or subcontractors doing business with the Department of Defense. “(2) Elements.—The process and procedures for the assessment and mitigation of risk relating to ownership structures referred to in paragraph (1) shall include the following elements:“(A) Assessment of foci.—(i) A requirement for covered contractors or subcontractors to disclose to the Defense Counterintelligence and Security Agency, or its successor organization, their beneficial ownership and whether they are under FOCI. “(ii) A requirement to update such disclosures when changes occur to information previously provided, consistent with or similar to the procedures for updating FOCI information under the National Industrial Security Program Operating Manual (DOD 5220.22–M), or a successor document. “(iii) A requirement for covered contractors or subcontractors determined to be under FOCI to disclose contact information for each of its foreign owners that is a beneficial owner. “(iv) A requirement that, at a minimum, the disclosures required by this paragraph be provided at the time the contract or subcontract is awarded, amended, or renewed, but in no case later than one year after the Secretary prescribes regulations to carry out this subsection. “(v) A requirement for the Secretary to require reports and conduct examinations on a periodic basis of covered contractors or subcontractors in order to assess compliance with the requirements of this section. “(B) Responsibility determination.—Consistent with [section 2509 of title 10](./chapter-148-national-defense-technology-and-industrial-base-defense-reinvestment-and-defense-conversion.md#section-2509), United States Code, as added by section 845 of this Act, consideration of FOCI risks as part of responsibility determinations, including—“(i) whether to establish a special standard of responsibility relating to FOCI risks for covered contractors or subcontractors, and the extent to which the policies and procedures consistent with or similar to those relating to FOCI under the National Industrial Security Program shall be applied to covered contractors or subcontractors; “(ii) procedures for contracting officers making responsibility determinations regarding whether covered contractors or subcontractors may be under foreign ownership, control, or influence and for determining whether there is reason to believe that such foreign ownership, control, or influence would pose a risk or potential risk to national security or potential compromise because of sensitive data, systems, or processes, such as personally identifiable information, cybersecurity, or national security systems involved with the contract or subcontract; and “(iii) modification of policies, directives, and practices to provide that an assessment that a covered contractor or subcontractor is under FOCI may be a sufficient basis for a contracting officer to determine that such a covered contractor or subcontractor is not responsible. “(C) Contract requirements, administration, and oversight relating to foci.—“(i) Requirements for contract clauses providing for and enforcing disclosures related to changes in FOCI or beneficial ownership during performance of the contract or subcontract, consistent with subparagraph (A), and necessitating the effective mitigation of risks related to FOCI throughout the duration of the contract or subcontract. “(ii) Pursuant to [section 2509(c) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2509/c&num=0&edition=prelim), United States Code, designation of the appropriate Department of Defense official responsible to approve and to take actions relating to award, modification, termination of a contract, or direction to modify or terminate a subcontract due to an assessment by the Defense Counterintelligence and Security Agency, or its successor organization, that a covered contractor or subcontractor under FOCI poses a risk to national security or potential risk of compromise. “(iii) A requirement for the provision of additional information regarding beneficial ownership and control of any covered contractor or subcontractor on the contract or subcontract. “(iv) Procedures for appropriately responding to changes in covered contractor or subcontractor beneficial ownership status based on changes in disclosures of their beneficial ownership and whether they are under FOCI and the reports and examinations required by subparagraph (A)(v). “(v) Other measures as necessary to be consistent with other relevant practices, policies, regulations, and actions, including those under the National Industrial Security Program. “(c) Applicability to Contracts and Subcontracts for Commercial Products and Services and Other Forms of Acquisition Agreements.—“(1) Commercial products and services.—The requirements under subsections (b)(2)(A) and (b)(2)(C) shall not apply to a contract or subcontract for commercial products or services, unless a designated senior Department of Defense official specifically requires the applicability of subsections (b)(2)(A) and (b)(2)(C) based on a determination by the designated senior official that the contract or subcontract involves a risk or potential risk to national security or potential compromise because of sensitive data, systems, or processes, such as personally identifiable information, cybersecurity, or national security systems. “(2) Research and development and procurement activities.—The Secretary of Defense shall ensure that the requirements of this section are applied to research and development and procurement activities, including for the delivery of services, established through any means including those under [section 2358(b) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2358/b&num=0&edition=prelim), United States Code. “(d) Availability of Resources.—The Secretary shall ensure that sufficient resources, including subject matter expertise, are allocated to execute the functions necessary to carry out this section, including the assessment, mitigation, contract administration, and oversight functions. “(e) Rule of Construction.—Nothing in this section shall be construed to limit or modify any other procurement policy, procedure, requirement, or restriction provided by law, including section 721 of the Defense Production Act of 1950 ([50 U.S.C. 4565](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4565&num=0&edition=prelim)), as amended by the Foreign Interference Risk Review Modernization Act of 2018 (subtitle A of title XVII of Public Law 115–232). “(f) Availability of Beneficial Ownership Data.—“(1) In general.—Not later than 180 days after the date of the enactment of this Act, the Secretary of Defense shall establish a process to update systems of record to improve the assessment and mitigation of risks associated with FOCI through the inclusion and updating of all appropriate associated uniquely identifying information about the contracts and contractors and subcontracts and subcontractors in the Federal Awardee Performance and Integrity Information System (FAPIIS), administered by the General Services Administration, and the Commercial and Government Entity (CAGE) database, administered by the Defense Logistics Agency. “(2) Limited availability of information.—The Secretary of Defense shall ensure that the information required to be disclosed pursuant to this section is—“(A) not made public; “(B) made available via the FAPIIS and CAGE databases; and “(C) made available to appropriate government departments or agencies.”
 
 
 <a id="section-2511"></a>
@@ -619,6 +992,9 @@ Pub. L. 115–91, div. A, title X, § 1081(g), Dec. 12, 2017, 131 Stat. 1601, pr
 
 ### Statutory Notes
 
+#### Renumbering of Section
+Pub. L. 116–283, div. A, title XVIII, §§ 1801(d), 1868(b), Jan. 1, 2021, 134 Stat. 4151, 4282, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, this section is renumbered [section 4831 of this title](./chapter-383-development-application-and-support-of-dual-use-technologies.md#section-4831). See Effective Date of 2021 Amendment note below.
+
 #### Prior Provisions
 A prior section 2511, added Pub. L. 101–510, div. A, title VIII, § 823(a)(3), Nov. 5, 1990, 104 Stat. 1600; amended Pub. L. 102–190, div. A, title VIII, § 824(b), Dec. 5, 1991, 105 Stat. 1438, defined “manufacturing technology”, “manufacturing extension program”, and “United States-based small manufacturing firm” for purposes of former chapter 149 of this title, prior to repeal and restatement in [section 2491 of this title](./chapter-147-commissaries-and-exchanges-and-other-morale-welfare-and-recreation-activities.md#section-2491) by Pub. L. 102–484, §§ 4202(a), 4203(a).
 
@@ -634,6 +1010,9 @@ Provisions similar to those in this section were contained in [section 2523 of t
 1993—Subsec. (c). Pub. L. 103–160, § 1315(a), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “The Secretary of Defense shall ensure that, to the maximum extent he determines to be practicable, the amount of the funds provided by the Federal Government under a partnership does not exceed the total amount provided by non-Federal Government participants in that partnership.”
 
 Subsec. (e). Pub. L. 103–160, § 1317(c), struck out “, except that procedures other than competitive procedures may be used in any case in which an exception set out in [section 2304(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2304/c&num=0&edition=prelim) applies” after “partnerships”.
+
+#### Effective Date of 2021 Amendment
+Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
 
 #### Dual-Use Science and Technology Program
 Pub. L. 105–85, div. A, title II, § 203, Nov. 18, 1997, 111 Stat. 1655, as amended by Pub. L. 106–65, div. A, title IX, § 911(a)(1), Oct. 5, 1999, 113 Stat. 717; Pub. L. 115–232, div. A, title VIII, § 811(h), Aug. 13, 2018, 132 Stat. 1846, provided that: “(a) Funding 1998.—Of the amounts authorized to be appropriated by section 201 [111 Stat. 1655], $75,000,000 is authorized for dual-use projects. “(b) Goals.—(1) Subject to paragraph (3), it shall be the objective of the Secretary of each military department to obligate for dual-use projects in each fiscal year referred to in paragraph (2), out of the total amount authorized to be appropriated for such fiscal year for the applied research programs of the military department, the percent of such amount that is specified for that fiscal year in paragraph (2). “(2) The objectives for fiscal years under paragraph (1) are as follows:“(A) For fiscal year 1998, 5 percent. “(B) For fiscal year 1999, 7 percent. “(C) For fiscal year 2000, 10 percent. “(D) For fiscal year 2001, 15 percent. “(3) The Secretary of Defense may establish for a military department for a fiscal year an objective different from the objective set forth in paragraph (2) if the Secretary—“(A) determines that compelling national security considerations require the establishment of the different objective; and “(B) notifies Congress of the determination and the reasons for the determination. “[(c) Repealed. Pub. L. 115–232, div. A, title VIII, § 811(h), Aug. 13, 2018, 132 Stat. 1846.] “(d) Financial Commitment of Non-Federal Government Participants.—The total amount of funds provided by a military department for a dual-use project entered into by the Secretary of that department shall not exceed 50 percent of the total cost of the project. In the case of a dual-use project initiated after the date of the enactment of this Act [Nov. 18, 1997], the Secretary may consider in-kind contributions by non-Federal participants only to the extent such contributions constitute 50 percent or less of the share of the project costs by such participants. “(e) Use of Competitive Procedures.—Funds obligated for a dual-use project may be counted toward meeting an objective under subsection (a) only if the funds are obligated for a contract, grant, cooperative agreement, or other transaction that was entered into through the use of competitive procedures. “(f) Report.—(1) Not later than March 1 of each of 1998, 1999, and 2000, the Secretary of Defense shall submit a report to the congressional defense committees [Committees on Armed Services and Appropriations of Senate and House of Representatives] on the progress made by the Department of Defense in meeting the objectives set forth in subsection (b) during the preceding fiscal year. “(2) The report for a fiscal year shall contain, at a minimum, the following:“(A) The aggregate value of all contracts, grants, cooperative agreements, or other transactions entered into during the fiscal year for which funding is counted toward meeting an objective under this section, expressed in relationship to the total amount appropriated for the applied research programs in the Department of Defense for that fiscal year. “(B) For each military department, the value of all contracts, grants, cooperative agreements, or other transactions entered into during the fiscal year for which funding is counted toward meeting an objective under this section, expressed in relationship to the total amount appropriated for the applied research program of the military department for that fiscal year. “(C) A summary of the cost-sharing arrangements in dual-use projects that were initiated during the fiscal year and are counted toward reaching an objective under this section. “(D) A description of the regulations, directives, or other procedures that have been issued by the Secretary of Defense or the Secretary of a military department to increase the percentage of the total value of the dual-use projects undertaken to meet or exceed an objective under this section. “(E) Any recommended legislation to facilitate achievement of objectives under this section. “(g) Commercial Operations and Support Savings Initiative.—(1) The Secretary of Defense shall establish a Commercial Operations and Support Savings Initiative (in this subsection referred to as the ‘Initiative’) to develop commercial products and processes that the military departments can incorporate into operational military systems to reduce costs of operations and support. “(2) Of the amounts authorized to be appropriated by section 201, $50,000,000 is authorized for the Initiative. “(3) Projects and participants in the Initiative shall be selected through the use of competitive procedures. “(4) The budget submitted to Congress by the President for fiscal year 1999 and each fiscal year thereafter pursuant to [section 1105(a) of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1105/a&num=0&edition=prelim), United States Code, shall set forth separately the funding request for the Initiative. “(h) Repeal of Superseded Authority.— [Repealed section 203 of Pub. L. 104–201, 110 Stat. 2451.] “(i) Definitions.—In this section:“(1) The term ‘applied research program’ means a program of a military department which is funded under the 6.2 Research, Development, Test and Evaluation account of that department. “(2) The term ‘dual-use project’ means a project under a program of a military department or a defense agency under which research or development of a dual-use technology is carried out and the costs of which are shared by the Department of Defense and non-Government entities.”
@@ -674,6 +1053,9 @@ A prior section 2513, added Pub. L. 101–510, div. A, title VIII, § 823(a)(3),
 
 ### Statutory Notes
 
+#### Renumbering of Section
+Pub. L. 116–283, div. A, title XVIII, §§ 1801(d), 1868(b), Jan. 1, 2021, 134 Stat. 4151, 4282, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, this section is renumbered [section 4832 of this title](./chapter-383-development-application-and-support-of-dual-use-technologies.md#section-4832). See Effective Date of 2021 Amendment note below.
+
 #### Prior Provisions
 A prior section 2514, added Pub. L. 101–510, div. A, title VIII, § 823(a)(3), Nov. 5, 1990, 104 Stat. 1601, directed Secretary of Defense to enhance research relating to manufacturing technology, prior to repeal by Pub. L. 102–484, § 4202(a).
 
@@ -682,11 +1064,14 @@ Provisions similar to those in subsecs. (a) and (b) of this section were contain
 #### Amendments
 1996—Subsec. (c)(5). Pub. L. 104–201 struck out par. (5) which read as follows: “The Secretary shall coordinate the Program with the National Defense Technology and Industrial Base Council.”
 
+#### Effective Date of 2021 Amendment
+Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
+
 #### National Action Plan on Advanced Superconductivity Research and Development
 Superconductivity research and development activities by Secretary of Defense and by Defense Advanced Research Projects Agency, see [section 5207 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section5207&num=0&edition=prelim), Commerce and Trade.
 
 #### Pilot Program To Improve Incentives for Technology Transfer From Department of Defense Laboratories
-Pub. L. 115–91, div. A, title II, § 233, Dec. 12, 2017, 131 Stat. 1339, provided that: “(a) In General.—The Secretary of Defense shall establish a pilot program to assess the feasibility and advisability of distributing royalties and other payments as described in this section. Under the pilot program, except as provided in subsections (b) and (d), any royalties or other payments received by a Federal agency from the licensing and assignment of inventions under agreements entered into by Department of Defense laboratories, and from the licensing of inventions of Department of Defense laboratories, shall be retained by the laboratory which produced the invention and shall be disposed of as follows:“(1)(A) The laboratory director shall pay each year the first $2,000, and thereafter at least 20 percent, of the royalties or other payments, other than payments of patent costs as delineated by a license or assignment agreement, to the inventor or coinventors, if the inventor’s or coinventor’s rights are directly assigned to the United States. “(B) A laboratory director may provide appropriate incentives, from royalties or other payments, to laboratory employees who are not an inventor of such inventions but who substantially increased the technical value of the inventions. “(C) The laboratory shall retain the royalties and other payments received from an invention until the laboratory makes payments to employees of a laboratory under subparagraph (A) or (B). “(2) The balance of the royalties or other payments shall be transferred by the agency to its laboratories, with the majority share of the royalties or other payments from any invention going to the laboratory where the invention occurred. The royalties or other payments so transferred to any laboratory may be used or obligated by that laboratory during the fiscal year in which they are received or during the 2 succeeding fiscal years—“(A) to reward scientific, engineering, and technical employees of the laboratory, including developers of sensitive or classified technology, regardless of whether the technology has commercial applications; “(B) to further scientific exchange among the laboratories of the agency; “(C) for education and training of employees consistent with the research and development missions and objectives of the agency or laboratory, and for other activities that increase the potential for transfer of the technology of the laboratories of the agency; “(D) for payment of expenses incidental to the administration and licensing of intellectual property by the agency or laboratory with respect to inventions made at that laboratory, including the fees or other costs for the services of other agencies, persons, or organizations for intellectual property management and licensing services; or “(E) for scientific research and development consistent with the research and development missions and objectives of the laboratory. “(3) All royalties or other payments retained by the laboratory after payments have been made pursuant to paragraphs (1) and (2) that are unobligated and unexpended at the end of the second fiscal year succeeding the fiscal year in which the royalties and other payments were received shall be paid into the Treasury of the United States. “(b) Treatment of Payments to Employees.—“(1) In general.—Any payment made to an employee under the pilot program shall be in addition to the regular pay of the employee and to any other awards made to the employee, and shall not affect the entitlement of the employee to any regular pay, annuity, or award to which the employee is otherwise entitled or for which the employee is otherwise eligible or limit the amount thereof. Any payment made to an inventor as such shall continue after the inventor leaves the laboratory. “(2) Cumulative payments.—(A) Cumulative payments made under the pilot program while the inventor is still employed at the laboratory shall not exceed $500,000 per year to any one person, unless the Secretary concerned (as defined in [section 101(a) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section101/a&num=0&edition=prelim), United States Code) approves a larger award. “(B) Cumulative payments made under the pilot program after the inventor leaves the laboratory shall not exceed $150,000 per year to any one person, unless the head of the agency approves a larger award (with the excess over $150,000 being treated as an agency award to a former employee under [section 4505 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section4505&num=0&edition=prelim), United States Code). “(c) Invention Management Services.—Under the pilot program, a laboratory receiving royalties or other payments as a result of invention management services performed for another Federal agency or laboratory under [section 207 of title 35](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title35-section207&num=0&edition=prelim), United States Code, may retain such royalties or payments to the extent required to offset payments to inventors under subparagraph (A) of subsection (a)(1), costs and expenses incurred under subparagraph (D) of subsection (a)(2), and the cost of foreign patenting and maintenance for any invention of the other agency. All royalties and other payments remaining after offsetting the payments to inventors, costs, and expenses described in the preceding sentence shall be transferred to the agency for which the services were performed, for distribution in accordance with subsection (a)(2). “(d) Certain Assignments.—Under the pilot program, if the invention involved was one assigned to the laboratory—“(1) by a contractor, grantee, or participant, or an employee of a contractor, grantee, or participant, in an agreement or other arrangement with the agency; or “(2) by an employee of the agency who was not working in the laboratory at the time the invention was made, the agency unit that was involved in such assignment shall be considered to be a laboratory for purposes of this section. “(e) Sunset.—The pilot program under this section shall terminate 5 years after the date of the enactment of this Act [Dec. 12, 2017].”
+Pub. L. 115–91, div. A, title II, § 233, Dec. 12, 2017, 131 Stat. 1339, as amended by Pub. L. 116–283, div. A, title II, § 216(c), Jan. 1, 2021, 134 Stat. 3460, provided that: “(a) In General.—The Secretary of Defense shall establish a pilot program to assess the feasibility and advisability of distributing royalties and other payments as described in this section. Under the pilot program, except as provided in subsections (b) and (d), any royalties or other payments received by a Federal agency from the licensing and assignment of inventions under agreements entered into by Department of Defense laboratories, and from the licensing of inventions of Department of Defense laboratories, shall be retained by the laboratory which produced the invention and shall be disposed of as follows:“(1)(A) The laboratory director shall pay each year the first $2,000, and thereafter at least 20 percent, of the royalties or other payments, other than payments of patent costs as delineated by a license or assignment agreement, to the inventor or coinventors, if the inventor’s or coinventor’s rights are directly assigned to the United States. “(B) A laboratory director may provide appropriate incentives, from royalties or other payments, to laboratory employees who are not an inventor of such inventions but who substantially increased the technical value of the inventions. “(C) The laboratory shall retain the royalties and other payments received from an invention until the laboratory makes payments to employees of a laboratory under subparagraph (A) or (B). “(2) The balance of the royalties or other payments shall be transferred by the agency to its laboratories, with the majority share of the royalties or other payments from any invention going to the laboratory where the invention occurred. The royalties or other payments so transferred to any laboratory may be used or obligated by that laboratory during the fiscal year in which they are received or during the 2 succeeding fiscal years—“(A) to reward scientific, engineering, and technical employees of the laboratory, including developers of sensitive or classified technology, regardless of whether the technology has commercial applications; “(B) to further scientific exchange among the laboratories of the agency; “(C) for education and training of employees consistent with the research and development missions and objectives of the agency or laboratory, and for other activities that increase the potential for transfer of the technology of the laboratories of the agency; “(D) for payment of expenses incidental to the administration and licensing of intellectual property by the agency or laboratory with respect to inventions made at that laboratory, including the fees or other costs for the services of other agencies, persons, or organizations for intellectual property management and licensing services; or “(E) for scientific research and development consistent with the research and development missions and objectives of the laboratory. “(3) All royalties or other payments retained by the laboratory after payments have been made pursuant to paragraphs (1) and (2) that are unobligated and unexpended at the end of the second fiscal year succeeding the fiscal year in which the royalties and other payments were received shall be paid into the Treasury of the United States. “(b) Treatment of Payments to Employees.—“(1) In general.—Any payment made to an employee under the pilot program shall be in addition to the regular pay of the employee and to any other awards made to the employee, and shall not affect the entitlement of the employee to any regular pay, annuity, or award to which the employee is otherwise entitled or for which the employee is otherwise eligible or limit the amount thereof. Any payment made to an inventor as such shall continue after the inventor leaves the laboratory. “(2) Cumulative payments.—(A) Cumulative payments made under the pilot program while the inventor is still employed at the laboratory shall not exceed $500,000 per year to any one person, unless the Secretary concerned (as defined in [section 101(a) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section101/a&num=0&edition=prelim), United States Code) approves a larger award. “(B) Cumulative payments made under the pilot program after the inventor leaves the laboratory shall not exceed $150,000 per year to any one person, unless the head of the agency approves a larger award (with the excess over $150,000 being treated as an agency award to a former employee under [section 4505 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section4505&num=0&edition=prelim), United States Code). “(c) Invention Management Services.—Under the pilot program, a laboratory receiving royalties or other payments as a result of invention management services performed for another Federal agency or laboratory under [section 207 of title 35](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title35-section207&num=0&edition=prelim), United States Code, may retain such royalties or payments to the extent required to offset payments to inventors under subparagraph (A) of subsection (a)(1), costs and expenses incurred under subparagraph (D) of subsection (a)(2), and the cost of foreign patenting and maintenance for any invention of the other agency. All royalties and other payments remaining after offsetting the payments to inventors, costs, and expenses described in the preceding sentence shall be transferred to the agency for which the services were performed, for distribution in accordance with subsection (a)(2). “(d) Certain Assignments.—Under the pilot program, if the invention involved was one assigned to the laboratory—“(1) by a contractor, grantee, or participant, or an employee of a contractor, grantee, or participant, in an agreement or other arrangement with the agency; or “(2) by an employee of the agency who was not working in the laboratory at the time the invention was made, the agency unit that was involved in such assignment shall be considered to be a laboratory for purposes of this section. “(e) Sunset.—The pilot program under this section shall terminate on September 30, 2025.”
 
 #### Enhanced Transfer of Technology Developed at Department of Defense Laboratories
 Pub. L. 113–66, div. A, title VIII, § 801, Dec. 26, 2013, 127 Stat. 802, as amended by Pub. L. 114–328, div. A, title VIII, § 818, Dec. 23, 2016, 130 Stat. 2273, provided that: “(a) Definitions.—As used in this section:“(1) The term ‘military department’ has the meaning provided in [section 101 of title 10](./chapter-001-definitions.md#section-101), United States Code. “(2) The term ‘DOD laboratory’ or ‘laboratory’ means any facility or group of facilities that—“(A) is owned, leased, operated, or otherwise used by the Department of Defense; and “(B) meets the definition of ‘laboratory’ as provided in subsection (d)(2) of section 12 of the Stevenson-Wydler Technology Innovation Act of 1980 ([15 U.S.C. 3710a](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section3710a&num=0&edition=prelim)). “(b) Authority.—“(1) In general.—The Secretary of Defense and the Secretary of a military department each may authorize the heads of DOD laboratories to grant nonexclusive, exclusive, or partially exclusive licenses, royalty free or for royalties or for rights to other intellectual property, for computer software and its related documentation developed at a DOD laboratory, but only if—“(A) the computer software and related documentation would be a trade secret under the meaning of [section 552(b)(4) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section552/b/4&num=0&edition=prelim), United States Code, if the information had been obtained from a non-Federal party; “(B) the public is notified of the availability of the software and related documentation for licensing and interested parties have a fair opportunity to submit applications for licensing; “(C) such licensing activities and licenses comply with the requirements under [section 209 of title 35](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title35-section209&num=0&edition=prelim), United States Code; and “(D) the software originally was developed to meet the military needs of the Department of Defense. “(2) Protections against unauthorized disclosure.—The Secretary of Defense and the Secretary of a military department each shall provide appropriate precautions against the unauthorized disclosure of any computer software or documentation covered by paragraph (1)(A), including exemption from [section 552 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section552&num=0&edition=prelim), United States Code, for a period of up to 5 years after the development of the computer software by the DOD laboratory. “(c) Royalties.—“(1) Use of royalties.—Except as provided in paragraph (2), any royalties or other payments received by the Department of Defense or a military department from licensing computer software or documentation under paragraph (b)(1) shall be retained by the Department of Defense or the military department and shall be disposed of as follows:“(A)(i) The Department of Defense or the military department shall pay each year the first $2,000, and thereafter at least 15 percent, of the royalties or other payments, to be divided among the employees who developed the computer software. “(ii) The Department of Defense or the military department may provide appropriate lesser incentives, from the royalties or other payments, to laboratory employees who are not developers of such computer software but who substantially increased the technical value of the software. “(iii) The Department of Defense or the military department shall retain the royalties and other payments received until it makes payments to employees of a DOD laboratory under clause (i) or (ii). “(iv) The Department of Defense or the military department may retain an amount reasonably necessary to pay expenses incidental to the administration and distribution of royalties or other payments under this section by an organizational unit of the Department of Defense or military department other than its laboratories. “(B) The balance of the royalties or other payments shall be transferred by the Department of Defense or the military department to its laboratories, with the majority share of the royalties or other payments going to the laboratory where the development occurred. The royalties or other payments so transferred to any DOD laboratory may be used or obligated by that laboratory during the fiscal year in which they are received or during the 2 succeeding fiscal years—“(i) to reward scientific, engineering, and technical employees of the DOD laboratory, including developers of sensitive or classified technology, regardless of whether the technology has commercial applications; “(ii) to further scientific exchange among the laboratories of the agency; “(iii) for education and training of employees consistent with the research and development missions and objectives of the Department of Defense, military department, or DOD laboratory, and for other activities that increase the potential for transfer of the technology of the DOD laboratory; “(iv) for payment of expenses incidental to the administration and licensing of computer software or other intellectual property made at the DOD laboratory, including the fees or other costs for the services of other agencies, persons, or organizations for intellectual property management and licensing services; or “(v) for scientific research and development consistent with the research and development missions and objectives of the DOD laboratory. “(C) All royalties or other payments retained by the Department of Defense, military department, or DOD laboratory after payments have been made pursuant to subparagraphs (A) and (B) that are unobligated and unexpended at the end of the second fiscal year succeeding the fiscal year in which the royalties and other payments were received shall be paid into the Treasury of the United States. “(2) Exception.—If, after payments under paragraph (1)(A), the balance of the royalties or other payments received by the Department of Defense or the military department in any fiscal year exceed 5 percent of the funds received for use by the DOD laboratory for research, development, engineering, testing, and evaluation or other related administrative, processing, or value-added activities for that year, 75 percent of such excess shall be paid to the Treasury of the United States and the remaining 25 percent may be used or obligated under paragraph (1)(B). Any funds not so used or obligated shall be paid into the Treasury of the United States. “(3) Status of payments to employees.—Any payment made to an employee under this section shall be in addition to the regular pay of the employee and to any other awards made to the employee, and shall not affect the entitlement of the employee to any regular pay, annuity, or award to which the employee is otherwise entitled or for which the employee is otherwise eligible or limit the amount thereof except that the monetary value of an award for the same project or effort shall be deducted from the amount otherwise available under this paragraph. Payments, determined under the terms of this paragraph and made to an employee developer as such, may continue after the developer leaves the DOD laboratory or the Department of Defense or military department. Payments made under this section shall not exceed $75,000 per year to any one person, unless the President approves a larger award (with the excess over $75,000 being treated as a Presidential award under [section 4504 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section4504&num=0&edition=prelim), United States Code). “(d) Information in Report.—The report required by [former] [section 2515(d) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2515/d&num=0&edition=prelim), United States Code, shall include information regarding the implementation and effectiveness of this section. “(e) Expiration.—The authority provided in this section shall expire on December 31, 2021.”
@@ -733,11 +1118,17 @@ A prior section 2517 was renumbered [section 2523 of this title](https://uscode.
 
 ### Statutory Notes
 
+#### Renumbering of Section
+Pub. L. 116–283, div. A, title XVIII, §§ 1801(d), 1868(b), Jan. 1, 2021, 134 Stat. 4151, 4282, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, this section is renumbered [section 4834 of this title](./chapter-383-development-application-and-support-of-dual-use-technologies.md#section-4834). See Effective Date of 2021 Amendment note below.
+
 #### Prior Provisions
 A prior section 2518 was renumbered [section 2522 of this title](./chapter-148-national-defense-technology-and-industrial-base-defense-reinvestment-and-defense-conversion.md#section-2522) and subsequently repealed.
 
 #### Amendments
 1992—Pub. L. 102–484 renumbered [section 2526 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2526&num=0&edition=prelim) as this section.
+
+#### Effective Date of 2021 Amendment
+Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
 
 
 <a id="section-2519"></a>
@@ -770,10 +1161,16 @@ A prior section 2518 was renumbered [section 2522 of this title](./chapter-148-n
 
 ### Statutory Notes
 
+#### Renumbering of Section
+Pub. L. 116–283, div. A, title XVIII, §§ 1801(d), 1868(b), Jan. 1, 2021, 134 Stat. 4151, 4282, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, this section is renumbered [section 4833 of this title](./chapter-383-development-application-and-support-of-dual-use-technologies.md#section-4833). See Effective Date of 2021 Amendment note below.
+
 #### Amendments
 1996—Subsec. (b). Pub. L. 104–106, § 1081(d)(1), struck out “referred to in [section 2511(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2511/b&num=0&edition=prelim)” after “corporations”.
 
 Subsec. (f). Pub. L. 104–106, § 1081(d)(2), substituted “section 2511(e)” for “section 2511(f)”.
+
+#### Effective Date of 2021 Amendment
+Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
 
 
 <a id="section-2520"></a>
@@ -786,7 +1183,7 @@ Section, added Pub. L. 103–337, div. A, title XI, § 1113(b), Oct. 5, 1994, 10
 
 <a id="section-2521"></a>
 ## § 2521. Manufacturing Technology Program
-**(a) Establishment.—** The Secretary of Defense shall establish a Manufacturing Technology Program to further the national security objectives of [section 2501(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2501/a&num=0&edition=prelim) through the development and application of advanced manufacturing technologies and processes that will reduce the acquisition and supportability costs of defense weapon systems and reduce manufacturing and repair cycle times across the life cycles of such systems. The Secretary shall use the joint planning process of the directors of the Department of Defense laboratories in establishing the program. The Under Secretary of Defense for Acquisition, Technology, and Logistics shall administer the program.
+**(a) Establishment.—** The Secretary of Defense shall establish a Manufacturing Technology Program to further the national security objectives of [section 2501(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2501/a&num=0&edition=prelim) through the development and application of advanced manufacturing technologies and processes that will reduce the acquisition and supportability costs of defense weapon systems and reduce manufacturing and repair cycle times across the life cycles of such systems. The Secretary shall use the joint planning process of the directors of the Department of Defense laboratories in establishing the program. The Under Secretary of Defense for Research and Engineering shall administer the program.
 
 **(b) Purpose of Program.—** The Secretary of Defense shall use the program—
 
@@ -862,9 +1259,9 @@ Section, added Pub. L. 103–337, div. A, title XI, § 1113(b), Oct. 5, 1994, 10
 
   (C) Ensure the integration and coordination of requirements and programs under the program with the Office of the Secretary of Defense and other national-level initiatives, including the establishment of information exchange processes with other government agencies, private industry, academia, and professional associations.
 
-  (D) Conduct such other functions as the Under Secretary of Defense for Acquisition, Technology, and Logistics shall specify.
+  (D) Conduct such other functions as the Under Secretary of Defense for Research and Engineering shall specify.
 
-(5) The Panel shall report to and receive direction from one or more individuals designated by the Under Secretary of Defense for Acquisition, Technology, and Logistics for purposes of this paragraph on manufacturing technology issues of multi-service concern and application.
+(5) The Panel shall report to and receive direction from one or more individuals designated by the Under Secretary of Defense for Research and Engineering for purposes of this paragraph on manufacturing technology issues of multi-service concern and application.
 
 (6) The administrative expenses of the Panel shall be borne by each military department and Defense Agency with manufacturing technology programs in such manner as the Panel shall provide.
 
@@ -884,6 +1281,9 @@ Section, added Pub. L. 103–337, div. A, title XI, § 1113(b), Oct. 5, 1994, 10
 
 ### Statutory Notes
 
+#### Renumbering of Section
+Pub. L. 116–283, div. A, title XVIII, §§ 1801(d), 1869(b)(1), Jan. 1, 2021, 134 Stat. 4151, 4283, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, this section is renumbered [section 4841 of this title](./chapter-384-manufacturing-technology.md#section-4841). See Effective Date of 2021 Amendment note below.
+
 #### Prior Provisions
 A prior section 2521, added Pub. L. 102–484, div. D, title XLII, § 4231(a), Oct. 23, 1992, 106 Stat. 2686, related to National Defense Manufacturing Technology Program, prior to repeal by Pub. L. 104–106, div. A, title X, § 1081(f), Feb. 10, 1996, 110 Stat. 454.
 
@@ -892,6 +1292,12 @@ Another prior section 2521, added Pub. L. 102–190, div. A, title VIII, § 821(
 Another prior section 2521 was renumbered [section 2540 of this title](./chapter-148-national-defense-technology-and-industrial-base-defense-reinvestment-and-defense-conversion.md#section-2540) and subsequently repealed.
 
 #### Amendments
+2019—Subsec. (a). Pub. L. 116–92, § 902(76)(A), substituted “The Under Secretary of Defense for Research and Engineering” for “The Under Secretary of Defense for Acquisition, Technology, and Logistics”.
+
+Subsec. (e)(4)(D). Pub. L. 116–92, § 902(76)(B), substituted “Under Secretary of Defense for Research and Engineering” for “Under Secretary of Defense for Acquisition, Technology, and Logistics”.
+
+Subsec. (e)(5). Pub. L. 116–92, § 902(76)(C), substituted “Under Secretary of Defense for Research and Engineering” for “Under Secretary of Defense for Acquisition, Technology, and Logistics”.
+
 2014—Subsec. (e)(5). Pub. L. 113–291, § 212(a), substituted “one or more individuals designated by the Under Secretary of Defense for Acquisition, Technology, and Logistics for purposes of this paragraph” for “the Assistant Secretary of Defense for Research and Engineering”.
 
 Subsec. (f)(3). Pub. L. 113–291, § 212(b), substituted “not less frequently than once every four years” for “on a biennial basis”.
@@ -976,6 +1382,12 @@ Subsec. (d)(3), (4). Pub. L. 104–106, § 276(a)(4)(B), added pars. (3) and (4)
 
 1994—Pub. L. 103–337 substituted “Manufacturing science and technology program” for “Industrial Preparedness Manufacturing Technology Program” as section catchline and amended text generally. Prior to amendment, text read as follows: “The Secretary of Defense shall establish an Industrial Preparedness Manufacturing Technology program to enhance the capability of industry to meet the manufacturing needs of the Department of Defense.”
 
+#### Effective Date of 2021 Amendment
+Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
+
+#### Administration of Manufacturing Innovation Institutes Funded by the Department of Defense
+Pub. L. 116–92, div. A, title II, § 227, Dec. 20, 2019, 133 Stat. 1270, provided that: “(a) In General.—The Secretary of Defense shall make such changes to the administration of covered institutes so as—“(1) to encourage covered institutes to leverage existing workforce development programs across the Federal Government and State governments in order to build successful workforce development programs; “(2) to develop metrics to evaluate the workforce development performed by the covered institutes, including metrics on job quality, career pathways, wages and benefits, and efforts to support veterans, and progress in aligning workforce skillsets with the current and long-term needs of the Department of Defense and the defense industrial base; “(3) to allow metrics to vary between covered institutes and be updated and evaluated continuously in order to more accurately evaluate covered institutes with different goals and missions; “(4) to encourage covered institutes to consider developing technologies that were previously funded by Federal Government investment for early-stage research and development and expand cross-government coordination and collaboration to achieve this goal; “(5) to provide an opportunity for increased Department of Defense input and oversight from senior-level military and civilian personnel on future technology roadmaps produced by covered institutes; “(6) to reduce the barriers to collaboration between and among multiple covered institutes; “(7) to use contracting vehicles that can increase flexibility, reduce barriers for contracting with subject-matter experts and small and medium enterprises, enhance partnerships between covered institutes, and reduce the time to award contracts at covered institutes; and “(8) to overcome barriers to the adoption of manufacturing processes and technologies developed by the covered institutes by the defense and commercial industrial base, particularly small and medium enterprises, by engaging with public and private sector partnerships and appropriate government programs and activities, including the Hollings Manufacturing Extension Partnership. “(b) Coordination With Other Activities.—The Secretary shall carry out this section in coordination with activities undertaken under—“(1) the Manufacturing Technology Program established under [section 2521 of title 10](./chapter-148-national-defense-technology-and-industrial-base-defense-reinvestment-and-defense-conversion.md#section-2521), United States Code; “(2) the Manufacturing Engineering Education Program established under section 2196 of such title; “(3) the Defense Manufacturing Community Support Program established under section 846 of the John S. McCain National Defense Authorization Act for Fiscal Year 2019 (Public Law 115–232) [[10 U.S.C. 2501](./chapter-148-national-defense-technology-and-industrial-base-defense-reinvestment-and-defense-conversion.md#section-2501) note]; “(4) manufacturing initiatives of the Secretary of Commerce, the head of the National Office of the Manufacturing USA Network, the Secretary of Energy, and such other government and private sector organizations as the Secretary of Defense considers appropriate; and “(5) such other activities as the Secretary considers appropriate. “(c) Definition of Covered Institute.—In this section, the term ‘covered institute’ means a manufacturing innovation institute that is funded by the Department of Defense.”
+
 #### Advanced Manufacturing Activities
 Pub. L. 115–232, div. A, title II, § 229, Aug. 13, 2018, 132 Stat. 1688, provided that: “(a) Designation.—The Under Secretary of Defense for Acquisition and Sustainment and the Under Secretary of Defense for Research and Engineering shall jointly, in coordination with Secretaries of the military departments, establish at least one activity per military service to demonstrate advanced manufacturing techniques and capabilities at depot-level activities or military arsenal facilities of the military departments. “(b) Purposes.—The activities established pursuant to subsection (a) shall—“(1) support efforts to implement advanced manufacturing techniques and capabilities; “(2) identify improvements to sustainment methods for component parts and other logistics needs; “(3) identify and implement appropriate information security protections to ensure security of advanced manufacturing; “(4) aid in the procurement of advanced manufacturing equipment and support services; “(5) enhance partnerships between the defense industrial base and Department of Defense laboratories, academic institutions, and industry; and “(6) to the degree practicable, include an educational or training component to build an advanced manufacturing workforce. “(c) Cooperative Agreements and Partnerships.—“(1) In general.—The Under Secretaries may enter into a cooperative agreement and use public-private and public-public partnerships to facilitate development of advanced manufacturing techniques in support of the defense industrial base. “(2) Requirements.—A cooperative agreement entered into under paragraph (1) and a partnership used under such paragraph shall facilitate—“(A) development and implementation of advanced manufacturing techniques and capabilities; “(B) appropriate sharing of information in the adaptation of advanced manufacturing, including technical data rights; “(C) implementation of appropriate information security protections into advanced manufacturing tools and techniques; and “(D) support of necessary workforce development. “(d) Authorities.—In carrying out this section, the Under Secretaries may use the following authorities:“(1) [Section 2196 of title 10](./chapter-111-support-of-science-mathematics-and-engineering-education.md#section-2196), United States Code, relating to the Manufacturing Engineering Education Program. “(2) Section 2368 of such title, relating to centers for science, technology, and engineering partnership. “(3) Section 2374a of such title, relating to prizes for advanced technology achievements. “(4) Section 2474 of such title, relating to centers of industrial and technical excellence. “(5) Section 2521 of such title, relating to the Manufacturing Technology Program. “(6) Section 12 of the Stevenson-Wydler Technology Innovation Act of 1980 ([15 U.S.C. 3710a](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section3710a&num=0&edition=prelim)) and [section 6305 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section6305&num=0&edition=prelim), United States Code, relating to cooperative research and development agreements. “(7) Such other authorities as the Under Secretaries considers appropriate.”
 
@@ -1028,6 +1440,9 @@ The Secretary of the Army is authorized by chapter 764 of this title to carry ou
 
 ### Statutory Notes
 
+#### Renumbering of Section
+Pub. L. 116–283, div. A, title XVIII, §§ 1801(d), 1869(d), Jan. 1, 2021, 134 Stat. 4151, 4284, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, this section is renumbered [section 4843 of this title](./chapter-384-manufacturing-technology.md#section-4843). See Effective Date of 2021 Amendment note below.
+
 #### Prior Provisions
 A prior section 2522, added Pub. L. 102–190, div. A, title VIII, § 823(a)(1), Dec. 5, 1991, 105 Stat. 1435, § 2518; renumbered § 2522 and amended Pub. L. 102–484, div. D, title XLII, § 4232(a), (b), Oct. 23, 1992, 106 Stat. 2687, related to defense advanced manufacturing technology partnerships, prior to repeal by Pub. L. 104–106, div. A, title X, § 1081(f), Feb. 10, 1996, 110 Stat. 454.
 
@@ -1035,6 +1450,9 @@ Another prior section 2522, added Pub. L. 101–189, div. A, title VIII, § 841(
 
 #### Amendments
 2018—Pub. L. 115–232 substituted “chapter 764” for “chapter 434”.
+
+#### Effective Date of 2021 Amendment
+Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
 
 #### Effective Date of 2018 Amendment
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
@@ -1079,6 +1497,9 @@ A prior section 2526 was renumbered [section 2518 of this title](./chapter-148-n
 
 ### Statutory Notes
 
+#### Renumbering of Section
+Pub. L. 116–283, div. A, title XVIII, §§ 1801(d), 1870(b), Jan. 1, 2021, 134 Stat. 4151, 4284, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, this section is renumbered [section 4851 of this title](./chapter-385-other-technology-base-policies-and-programs.md#section-4851). See Effective Date of 2021 Amendment note below.
+
 #### Amendments
 1992—Pub. L. 102–484, § 4202(a), renumbered [section 2504 of this title](./chapter-148-national-defense-technology-and-industrial-base-defense-reinvestment-and-defense-conversion.md#section-2504) as this section.
 
@@ -1091,6 +1512,9 @@ Subsec. (a)(1). Pub. L. 102–484, § 4271(c), substituted “defense technology
 “(1) consider the effect of such proposed memorandum of understanding on the defense industrial base of the United States; and
 
 “(2) regularly solicit and consider information or recommendations from the Secretary of Commerce with respect to the effect on the United States industrial base of such memorandum of understanding.”
+
+#### Effective Date of 2021 Amendment
+Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
 
 #### Defense Trade Reciprocity
 Pub. L. 108–375, div. A, title VIII, § 831, Oct. 28, 2004, 118 Stat. 2017, provided that: “(a) Policy.—It is the policy of Congress that procurement regulations used in the conduct of trade in defense articles and defense services should be based on the principle of fair trade and reciprocity consistent with United States national security, including the need to ensure comprehensive manufacturing capability in the United States defense industrial base. “(b) Requirement.—The Secretary of Defense shall make every effort to ensure that the policies and practices of the Department of Defense reflect the goal of establishing an equitable trading relationship between the United States and its foreign defense trade partners, including ensuring that United States firms and United States employment in the defense sector are not disadvantaged by unilateral procurement practices by foreign governments, such as the imposition of offset agreements in a manner that undermines the United States defense industrial base. In pursuing this goal, the Secretary shall—“(1) develop a comprehensive defense acquisition trade policy that provides the necessary guidance and incentives for the elimination of any adverse effects of offset agreements in defense trade; and “(2) review and make necessary modifications to existing acquisition policies and strategies, and review and seek to make necessary modifications to existing memoranda of understanding, cooperative project agreements, or related agreements with foreign defense trade partners, to reflect this goal. “(c) Regulations.—The Secretary shall prescribe regulations to implement this section in the Department of Defense supplement to the Federal Acquisition Regulation. “(d) Definitions.—In this section:“(1) The term ‘foreign defense trade partner’ means a foreign country with respect to which there is—“(A) a memorandum of understanding or related agreement described in [section 2531(a) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2531/a&num=0&edition=prelim), United States Code; or “(B) a cooperative project agreement described in section 27 of the Arms Export Control Act ([22 U.S.C. 2767](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2767&num=0&edition=prelim)). “(2) The term ‘offset agreement’ has the meaning provided that term by section 36(e) of the Arms Export Control Act ([22 U.S.C. 2776(e)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2776/e&num=0&edition=prelim)). “(3) The terms ‘defense article’ and ‘defense service’ have the meanings provided those terms by section 47(7) of the Arms Export Control Act ([22 U.S.C. 2794(7)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2794/7&num=0&edition=prelim)).”
@@ -1124,8 +1548,14 @@ Pub. L. 108–375, div. A, title VIII, § 831, Oct. 28, 2004, 118 Stat. 2017, pr
 
 ### Statutory Notes
 
+#### Renumbering of Section
+Pub. L. 116–283, div. A, title XVIII, §§ 1801(d), 1870(b), Jan. 1, 2021, 134 Stat. 4151, 4284, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, this section is renumbered [section 4852 of this title](./chapter-385-other-technology-base-policies-and-programs.md#section-4852). See Effective Date of 2021 Amendment note below.
+
 #### Amendments
 1992—Pub. L. 102–484 renumbered [section 2505 of this title](./chapter-148-national-defense-technology-and-industrial-base-defense-reinvestment-and-defense-conversion.md#section-2505) as this section.
+
+#### Effective Date of 2021 Amendment
+Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
 
 #### Review of Offset Arrangements by Secretary of Defense
 Pub. L. 108–87, title VIII, § 8138, Sept. 30, 2003, 117 Stat. 1106, directed the Secretary of Defense to review contractual offset arrangements to which the policy established under this section applied, memoranda of understanding and related agreements to which the limitation in [section 2531(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2531/c&num=0&edition=prelim) applied that had been entered into with a country with respect to which such contractual offset arrangements had been entered into, and waivers granted with respect to a foreign country under [section 2534(d)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2534/d/3&num=0&edition=prelim); determine the effects of the use of such arrangements, memoranda of understanding, agreements, and waivers on the national technology and industrial base; and submit a report on the results of the review to Congress not later than Mar. 1, 2005.
@@ -1178,6 +1608,9 @@ Pub. L. 100–456, div. A, title VIII, § 825(d), Sept. 29, 1988, 102 Stat. 2021
 
 ### Statutory Notes
 
+#### Renumbering of Section
+Pub. L. 116–283, div. A, title XVIII, §§ 1801(d), 1870(c)(2), Jan. 1, 2021, 134 Stat. 4151, 4285, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, this section is renumbered [section 4861 of this title](./chapter-385-other-technology-base-policies-and-programs.md#section-4861). See Effective Date of 2021 Amendment note below.
+
 #### Historical and Revision Notes
 Section is based on Pub. L. 93–365, title VII, § 707, Aug. 5, 1974, 88 Stat. 406.
 
@@ -1212,6 +1645,9 @@ Subsecs. (b), (c). Pub. L. 103–337, § 812(a), redesignated subsec. (c) as (b)
 
 1992—Pub. L. 102–484 renumbered [section 2506 of this title](./chapter-148-national-defense-technology-and-industrial-base-defense-reinvestment-and-defense-conversion.md#section-2506) as this section.
 
+#### Effective Date of 2021 Amendment
+Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
+
 #### Effective Date of 1996 Amendment
 For effective date and applicability of amendment by Pub. L. 104–106, see section 4401 of Pub. L. 104–106, set out as a note under [section 2302 of this title](./chapter-137-procurement-generally.md#section-2302).
 
@@ -1235,6 +1671,10 @@ For effective date and applicability of amendment by Pub. L. 104–106, see sect
   (E) any item of individual equipment manufactured from or containing such fibers, yarns, fabrics, or materials.
 
 (2) Hand or measuring tools.
+
+(3) Stainless steel flatware.
+
+(4) Dinnerware.
 
 **(c) Availability Exception.—** Subsection (a) does not apply to the extent that the Secretary of Defense or the Secretary of the military department concerned determines that satisfactory quality and sufficient quantity of any such article or item described in subsection (b) grown, reprocessed, reused, or produced in the United States cannot be procured as and when needed at United States market prices.
 
@@ -1266,7 +1706,11 @@ For effective date and applicability of amendment by Pub. L. 104–106, see sect
 
 **(g) Exception for Commissaries, Exchanges, and Other Nonappropriated Fund Instrumentalities.—** Subsection (a) does not apply to items purchased for resale purposes in commissaries, exchanges, or nonappropriated fund instrumentalities operated by the Department of Defense.
 
-**(h) Exception for Small Purchases.—** Subsection (a) does not apply to purchases for amounts not greater than the simplified acquisition threshold referred to in [section 2304(g) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2304/g&num=0&edition=prelim).
+**(h) Exception for Small Purchases.—**
+
+(1) Subsection (a) does not apply to purchases for amounts not greater than $150,000. A proposed procurement of an item in an amount greater than $150,000 may not be divided into several purchases or contracts for lesser amounts in order to qualify for this exception.
+
+(2) On October 1 of each year that is evenly divisible by five, the Secretary of Defense may adjust the dollar threshold in this subsection based on changes in the Consumer Price Index. Any such adjustment shall take effect on the date on which the Secretary publishes notice of such adjustment in the Federal Register.
 
 **(i) Applicability to Contracts and Subcontracts for Procurement of Commercial Products.—** This section is applicable to contracts and subcontracts for the procurement of commercial products notwithstanding [section 1906 of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section1906&num=0&edition=prelim).
 
@@ -1276,7 +1720,19 @@ For effective date and applicability of amendment by Pub. L. 104–106, see sect
 
 ### Statutory Notes
 
+#### Renumbering of Section
+Pub. L. 116–283, div. A, title XVIII, §§ 1801(d), 1870(c)(2), Jan. 1, 2021, 134 Stat. 4151, 4285, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, this section is renumbered [section 4862 of this title](./chapter-385-other-technology-base-policies-and-programs.md#section-4862). See Effective Date of 2021 Amendment note below.
+
+#### Repeal of Subsection (b)(3) and (4)
+Pub. L. 116–92, div. A, title VIII, § 854(a)(3), Dec. 20, 2019, 133 Stat. 1512, provided that, effective Sept. 30, 2023, paragraphs (3) and (4) of subsection (b) of this section are repealed. See 2019 Amendment note below.
+
 #### Amendments
+2021—Subsec. (h). Pub. L. 116–283 amended subsec. (h) generally. Prior to amendment, text read as follows: “Subsection (a) does not apply to purchases for amounts not greater than the simplified acquisition threshold referred to in [section 2304(g) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2304/g&num=0&edition=prelim).”
+
+2019—Subsec. (b)(3), (4). Pub. L. 116–92, § 854(a)(3), struck out pars. (3) and (4) which added stainless steel flatware and dinnerware to the list of covered items.
+
+Pub. L. 116–92, § 854(a)(1), added pars. (3) and (4).
+
 2018—Subsec. (i). Pub. L. 115–232 substituted “Products” for “Items” in heading and “commercial products” for “commercial items” in text.
 
 2013—Subsec. (k). Pub. L. 112–239 substituted “FedBizOpps.gov” for “FedBizOps.gov”.
@@ -1313,6 +1769,16 @@ Subsec. (f). Pub. L. 108–136, § 827, substituted “Exceptions for Certain Ot
 
 for “Exception for Certain Foods.—Subsection (a) does not preclude the procurement of foods”, and added par. (2).
 
+#### Effective Date of 2021 Amendment
+Amendment by section 1870(c)(2) of Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
+
+#### Effective Date of 2019 Amendment
+Pub. L. 116–92, div. A, title VIII, § 854(a)(2), Dec. 20, 2019, 133 Stat. 1512, as amended by Pub. L. 116–283, div. A, title XVIII, § 1870(c)(5), Jan. 1, 2021, 134 Stat. 4285, provided that: “Paragraphs (3) and (4) of [section 2533a(b) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2533a/b&num=0&edition=prelim), United States Code, as added by paragraph (1), shall apply with respect to contracts entered into on or after the date occurring 1 year after the date of the enactment of this Act [Dec. 20, 2019].”
+
+[Pub. L. 116–283, div. A, title XVIII, §§ 1801(d), 1870(c)(5), Jan. 1, 2021, 134 Stat. 4151, 4285, provided that effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, section 854(a)(2) of Pub. L. 116–92, set out above, is amended by substituting “section 4862(b)” for “section 2533a(b)”. See section 1801(d) of Pub. L. 116–283, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).]
+
+Pub. L. 116–92, div. A, title VIII, § 854(a)(3), Dec. 20, 2019, 133 Stat. 1512, provided that the amendment made by section 854(a)(3) is effective Sept. 30, 2023.
+
 #### Effective Date of 2006 Amendment
 Pub. L. 109–364, div. A, title VIII, § 842(a)(4)(B), Oct. 17, 2006, 120 Stat. 2337, provided that: “The amendments made by paragraph (3) [amending this section] shall take effect on the date occurring 30 days after the date of the enactment of this Act [Oct. 17, 2006].”
 
@@ -1331,7 +1797,9 @@ Pub. L. 110–181, div. A, title VIII, § 829, Jan. 28, 2008, 122 Stat. 229, as 
 Pub. L. 109–163, div. A, title VIII, § 832, Jan. 6, 2006, 119 Stat. 3388, provided that: “(a) Training During Fiscal Year 2006.—The Secretary of Defense shall ensure that each member of the defense acquisition workforce who participates personally and substantially in the acquisition of textiles on a regular basis receives training during fiscal year 2006 on the requirements of [section 2533a of title 10](./chapter-148-national-defense-technology-and-industrial-base-defense-reinvestment-and-defense-conversion.md#section-2533a), United States Code (commonly referred to as the ‘Berry Amendment’), and the regulations implementing that section. “(b) Inclusion of Information in New Training Programs.—The Secretary shall ensure that any training program developed or implemented after the date of the enactment of this Act [Jan. 6, 2006] for members of the defense acquisition workforce who participate personally and substantially in the acquisition of textiles on a regular basis includes comprehensive information on the requirements described in subsection (a).”
 
 #### Application of Exception to Seafood Products
-Pub. L. 108–287, title VIII, § 8118, Aug. 5, 2004, 118 Stat. 998, as amended by Pub. L. 113–291, div. A, title X, § 1071(b)(4), Dec. 19, 2014, 128 Stat. 3506, provided that: “Notwithstanding any other provision of law, [section 2533a(f) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2533a/f&num=0&edition=prelim), United States Code, shall hereafter not apply to any fish, shellfish, or seafood product. This section applies to contracts and subcontracts for the procurement of commercial items notwithstanding [section 1906 of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section1906&num=0&edition=prelim), United States Code.”
+Pub. L. 108–287, title VIII, § 8118, Aug. 5, 2004, 118 Stat. 998, as amended by Pub. L. 113–291, div. A, title X, § 1071(b)(4), Dec. 19, 2014, 128 Stat. 3506; Pub. L. 116–283, div. A, title XVIII, § 1870(c)(6)(B), Jan. 1, 2021, 134 Stat. 4285, provided that: “Notwithstanding any other provision of law, [section 2533a(f) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2533a/f&num=0&edition=prelim), United States Code, shall hereafter not apply to any fish, shellfish, or seafood product. This section applies to contracts and subcontracts for the procurement of commercial items notwithstanding [section 1906 of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section1906&num=0&edition=prelim), United States Code.”
+
+[Pub. L. 116–283, div. A, title XVIII, §§ 1801(d), 1870(c)(6)(B), Jan. 1, 2021, 134 Stat. 4151, 4285, provided that effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, section 8118 of Pub. L. 108–287, set out above, is amended by substituting “section 4862(f)” for “section 2533a(f)”.]
 
 
 <a id="section-2533b"></a>
@@ -1416,7 +1884,7 @@ Pub. L. 108–287, title VIII, § 8118, Aug. 5, 2004, 118 Stat. 998, as amended 
 
 (2) A written determination under paragraph (1)—
 
-  (A) may not be delegated below the level of the Deputy Secretary of Defense or the Under Secretary of Defense for Acquisition, Technology, and Logistics;
+  (A) may not be delegated below the level of the Deputy Secretary of Defense or the Under Secretary of Defense for Acquisition and Sustainment;
 
   (B) shall specify the quantity of end items to which the waiver applies and the time period over which the waiver applies; and
 
@@ -1476,7 +1944,12 @@ Pub. L. 108–287, title VIII, § 8118, Aug. 5, 2004, 118 Stat. 998, as amended 
 
 ### Statutory Notes
 
+#### Renumbering of Section
+Pub. L. 116–283, div. A, title XVIII, §§ 1801(d), 1870(c)(2), Jan. 1, 2021, 134 Stat. 4151, 4285, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, this section is renumbered [section 4863 of this title](./chapter-385-other-technology-base-policies-and-programs.md#section-4863). See Effective Date of 2021 Amendment note below.
+
 #### Amendments
+2019—Subsec. (k)(2)(A). Pub. L. 116–92 substituted “Under Secretary of Defense for Acquisition and Sustainment” for “Under Secretary of Defense for Acquisition, Technology, and Logistics”.
+
 2018—Subsec. (h). Pub. L. 115–232, § 837(c)(1), substituted “Products” for “Items” in heading.
 
 Subsec. (h)(1), (3). Pub. L. 115–232, § 837(c)(2), substituted “commercial products” for “commercial items”.
@@ -1519,6 +1992,9 @@ Subsecs. (i) to (m). Pub. L. 110–181, § 804(d), added subsecs. (i) to (k) and
 
 Subsec. (m)(3) to (10). Pub. L. 110–181, § 804(e), as amended by Pub. L. 111—383, § 1075(f)(2)(B), added pars. (3) to (10).
 
+#### Effective Date of 2021 Amendment
+Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
+
 #### Effective Date of 2011 Amendment
 Pub. L. 111–383, div. A, title X, § 1075(f)(2), Jan. 7, 2011, 124 Stat. 4376, provided that amendment by section 1075(f)(2) is effective as of January 28, 2008, and as if included in Public Law 110–181 as enacted.”
 
@@ -1547,7 +2023,7 @@ Pub. L. 109–364, div. A, title VIII, § 842(b), Oct. 17, 2006, 120 Stat. 2337,
 
 (1) procure any covered material melted or produced in any covered nation, or any end item that contains a covered material manufactured in any covered nation, except as provided by subsection (c); or
 
-(2) sell any covered material from the National Defense Stockpile, if the National Defense Stockpile Manager determines that such a sale is not in the national interests of the United States, to—
+(2) sell any material from the National Defense Stockpile, if the National Defense Stockpile Manager determines that such a sale is not in the national interests of the United States, to—
 
   (A) any covered nation; or
 
@@ -1581,9 +2057,11 @@ Pub. L. 109–364, div. A, title VIII, § 842(b), Oct. 17, 2006, 120 Stat. 2337,
 
   (B) neodymium-iron-boron magnets;
 
-  (C) tungsten metal powder; and
+  (C) tungsten metal powder;
 
-  (D) tungsten heavy alloy or any finished or semi-finished component containing tungsten heavy alloy.
+  (D) tungsten heavy alloy or any finished or semi-finished component containing tungsten heavy alloy; and
+
+  (E) tantalum metals and alloys.
 
 (2) **Covered nation.—** — The term “covered nation” means—
 
@@ -1597,6 +2075,92 @@ Pub. L. 109–364, div. A, title VIII, § 842(b), Oct. 17, 2006, 120 Stat. 2337,
 
 (3) **End item.—** — The term “end item” has the meaning given in [section 2533b(m) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2533b/m&num=0&edition=prelim).
 
+### Statutory Notes
+
+#### Renumbering of Section
+Pub. L. 116–283, div. A, title XVIII, §§ 1801(d), 1870(d)(2), Jan. 1, 2021, 134 Stat. 4151, 4286, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, this section is renumbered [section 4871 of this title](./chapter-385-other-technology-base-policies-and-programs.md#section-4871). See Effective Date of 2021 Amendment note below.
+
+#### Amendment of Subsections (a)(1) and (c)(3)(A)(i)
+Pub. L. 116–283, div. A, title VIII, § 844, Jan. 1, 2021, 134 Stat. 3766, provided that, effective 5 years after Jan. 1, 2021, this section is amended as follows:
+
+(1) in subsection (a)(1), by striking “material melted” and inserting “material mined, refined, separated, melted,”; and
+
+(2) in subsection (c)(3)(A)(i), by striking “tungsten” and inserting “covered material”.
+
+See 2021 Amendment notes below.
+
+#### Amendments
+2021—Subsec. (a)(1). Pub. L. 116–283, § 844(a)(1), substituted “material mined, refined, separated, melted,” for “material melted”.
+
+Subsec. (c)(3)(A)(i). Pub. L. 116–283, § 844(a)(2), substituted “covered material” for “tungsten”.
+
+2019—Subsec. (a)(2). Pub. L. 116–92, § 849(a), substituted “material” for “covered material” in introductory provisions.
+
+Subsec. (d)(1)(E). Pub. L. 116–92, § 849(b), added subpar. (E).
+
+#### Effective Date of 2021 Amendment
+Pub. L. 116–283, div. A, title VIII, § 844(b), Jan. 1, 2021, 134 Stat. 3766, provided that: “The amendments made by subsection (a) [amending this section] shall take effect on the date that is 5 years after the date of the enactment of this Act [Jan. 1, 2021].”
+
+Amendment by section 1870(d)(2) of Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
+
+
+<a id="section-2533d"></a>
+## § 2533d. Additional requirements pertaining to printed circuit boards
+**(a) In General.—**
+
+(1) Beginning on January 1, 2023, the Secretary of Defense may not acquire a covered printed circuit board from a covered nation.
+
+(2) Paragraph (1) shall not apply with respect to any acquisition of supplies or services below the micro-purchase threshold under [section 2338 of this title](./chapter-137-procurement-generally.md#section-2338).
+
+**(b) Waiver.—**
+
+(1) The Secretary may waive the prohibition under subsection (a) if the Secretary determines in writing that—
+
+  (A) there are no significant national security concerns regarding counterfeiting, quality, or unauthorized access created by such waiver;
+
+  (B) the waiver is required to support national security; and
+
+  (C) a covered printed circuit board of satisfactory quality and sufficient quantity, in the required form, cannot be procured as and when needed from nations other than a covered nation at reasonable cost, excluding comparisons with non-market economies.
+
+(2) Not later than 10 days after the Secretary provides a waiver under paragraph (1), the Secretary shall submit to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives a written notice setting forth the reasoning for the waiver, together with a copy of the waiver itself.
+
+**(c) Definitions.—** In this section:
+
+(1) **Covered nation.—** — The term “covered nation” means—
+
+  (A) the Democratic People’s Republic of North Korea;
+
+  (B) the People’s Republic of China;
+
+  (C) the Russian Federation; and
+
+  (D) the Islamic Republic of Iran.
+
+(2) **Covered printed circuit board.—** — The term “covered printed circuit board” means any partially manufactured or complete bare printed circuit board or fully or partially assembled printed circuit board that—
+
+  (A) performs a mission critical function in any product or service that is not a commercial product or commercial service (as such terms are defined under sections 103 and 103a of title 41, respectively); or
+
+  (B) the Secretary designates as a covered printed circuit board, after reasonable notice, based on a determination that the designation is required to support national security.
+
+(3) **Secretary.—** — The term “Secretary” means the Secretary of Defense.
+
+**(d) Rulemaking.—** Not later than May 1, 2022, the Secretary shall promulgate regulations, after an opportunity for notice and comment, implementing this section.
+
+**(e) Applicability.—** This section shall apply only with respect to contracts entered into after the issuance of a final rule implementing this section.
+
+**(f) Rule of Construction.—** Nothing in this section shall be construed to prohibit the Department of Defense from entering into a contract with an entity that connects to the facilities of a third party, for the purposes of backhaul, roaming, or interconnection arrangements, on the basis of the noncompliance by the third party with the provisions of this section or use of equipment or services that do not route or redirect user data traffic or permit visibility into any user data or packets that such equipment transmits or otherwise handles.
+
+### Statutory Notes
+
+#### Repeal of Section
+Pub. L. 116–283, div. A, title XVIII, §§ 1801(d), 1881(a), Jan. 1, 2021, 134 Stat. 4151, 4293, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, this section is repealed. See Effective Date of Repeal note below.
+
+#### Effective Date of Repeal
+Repeal of section effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
+
+#### Trusted Supply
+Pub. L. 116–283, div. A, title VIII, § 841(c), Jan. 1, 2021, 134 Stat. 3764, provided that: “The Secretary of Defense shall apply the requirements of section 224 of the National Defense Authorization Act for Fiscal Year 2020 (Public Law 116–92; [10 U.S.C. 2302](./chapter-137-procurement-generally.md#section-2302) note) to the acquisition of covered printed circuit boards (as such term is defined under [section 2533d(c) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2533d/c&num=0&edition=prelim), United States Code, as added by this section).”
+
 
 <a id="section-2534"></a>
 ## § 2534. Miscellaneous limitations on the procurement of goods other than United States goods
@@ -1604,69 +2168,35 @@ Pub. L. 109–364, div. A, title VIII, § 842(b), Oct. 17, 2006, 120 Stat. 2337,
 
 (1) **Buses.—** — Multipassenger motor vehicles (buses).
 
-(2) **Chemical weapons antidote.—** — Chemical weapons antidote contained in automatic injectors (and components for such injectors).
+(2) **Components for naval vessels.—** — The following components of vessels, to the extent they are unique to marine applications:
 
-(3) **Components for naval vessels.—**
+  (A) Gyrocompasses.
 
-  (A) The following components:
+  (B) Electronic navigation chart systems.
 
-    (i) Air circuit breakers.
+  (C) Steering controls.
 
-    (ii) Welded shipboard anchor and mooring chain with a diameter of four inches or less.
+  (D) Propulsion and machinery control systems.
 
-    (iii) Vessel propellers with a diameter of six feet or more.
+  (E) Totally enclosed lifeboats.
 
-  (B) The following components of vessels, to the extent they are unique to marine applications: gyrocompasses, electronic navigation chart systems, steering controls, pumps, propulsion and machinery control systems, and totally enclosed lifeboats.
+(3) **Components for auxiliary ships.—** — Subject to subsection (j),11 See References in Text note below. large medium-speed diesel engines.
 
-(4) **Valves and machine tools.—** — Items in the following categories:
+(4) **Components for t–ao 205 class vessels.—** — The following components of T–AO 205 class vessels:
 
-  (A) Powered and non-powered valves in Federal Supply Classes 4810 and 4820 used in piping for naval surface ships and submarines.
+  (A) Auxiliary equipment, including pumps, for all shipboard services.
 
-  (B) Machine tools in the Federal Supply Classes for metal-working machinery numbered 3405, 3408, 3410 through 3419, 3426, 3433, 3438, 3441 through 3443, 3445, 3446, 3448, 3449, 3460, and 3461.
+  (B) Propulsion system components, including engines, reduction gears, and propellers.
 
-(5) **Ball bearings and roller bearings.—** — Ball bearings and roller bearings, in accordance with subpart 225.71 of part 225 of the Defense Federal Acquisition Regulation Supplement, as in effect on October 23, 1992, except ball bearings and roller bearings being procured for use in an end product manufactured by a manufacturer that does not satisfy the requirements of subsection (b) or in a component part manufactured by such a manufacturer.
+  (C) Shipboard cranes.
 
-**(b) Manufacturer in the National Technology and Industrial Base.—**
+  (D) Spreaders for shipboard cranes.
 
-(1) **General requirement.—** — A manufacturer meets the requirements of this subsection if the manufacturer is part of the national technology and industrial base.
+(5) **Star tracker.—** — A star tracker used in a satellite weighing more than 400 pounds whose principle 22 So in original. Probably should be “principal”. purpose is to support the national security, defense, or intelligence needs of the United States Government.
 
-(2) **Manufacturers of chemical weapons antidote.—** — In the case of a procurement of chemical weapons antidote referred to in subsection (a)(2), a manufacturer meets the requirements of this subsection only if the manufacturer—
+**(b) Manufacturer in the National Technology and Industrial Base.—** A manufacturer meets the requirements of this subsection if the manufacturer is part of the national technology and industrial base.
 
-  (A) meets the requirement set forth in paragraph (1);
-
-  (B) is an existing producer under the industrial preparedness program at the time the contract is awarded;
-
-  (C) has received all required regulatory approvals; and
-
-  (D) when the contract for the procurement is awarded, has in existence in the national technology and industrial base the plant, equipment, and personnel necessary to perform the contract.
-
-(3) **Manufacturer of vessel propellers.—** — In the case of a procurement of vessel propellers referred to in subsection (a)(3)(A)(iii), the manufacturer of the propellers meets the requirements of this subsection only if—
-
-  (A) the manufacturer meets the requirements set forth in paragraph (1); and
-
-  (B) all castings incorporated into such propellers are poured and finished in the United States.
-
-**(c) Applicability to Certain Items.—**
-
-(1) **Components for naval vessels.—** — Subsection (a) does not apply to a procurement of spare or repair parts needed to support components for naval vessels produced or manufactured outside the United States.
-
-(2) **Valves and machine tools.—**
-
-  (A) Contracts to which subsection (a) applies include the following contracts for the procurement of items described in paragraph (4) of such subsection:
-
-    (i) A contract for procurement of such an item for use in property under the control of the Department of Defense, including any Government-owned, contractor-operated facility.
-
-    (ii) A contract that is entered into by a contractor on behalf of the Department of Defense for the purpose of providing such an item to another contractor as Government-furnished equipment.
-
-  (B) In any case in which a contract for items described in subsection (a)(4) includes the procurement of more than one Federal Supply Class of machine tools or machine tools and accessories, each supply class shall be evaluated separately for purposes of determining whether the limitation in subsection (a) applies.
-
-  (C) Subsection (a)(4) and this paragraph shall cease to be effective on October 1, 1996.
-
-(3) **Ball bearings and roller bearings.—** — Subsection (a)(5) and this paragraph shall cease to be effective on October 1, 2005.
-
-(4) **Vessel propellers.—** — Subsection (a)(3)(A)(iii) and this paragraph shall cease to be effective on February 10, 1998.
-
-(5) **Chemical weapons antidote.—** — Subsections (a)(2) and (b)(2) shall cease to be effective on October 1, 2018.
+**(c) Applicability to Certain Items.—** Subsection (a) does not apply to a procurement of spare or repair parts needed to support components for naval vessels produced or manufactured outside the United States.
 
 **(d) Waiver Authority.—** The Secretary of Defense may waive the limitation in subsection (a) with respect to the procurement of an item listed in that subsection if the Secretary determines that any of the following apply:
 
@@ -1702,13 +2232,9 @@ Pub. L. 109–364, div. A, title VIII, § 842(b), Oct. 17, 2006, 120 Stat. 2337,
 
 (3) specifically identifies the particular domestic source involved and states that the contract to be awarded pursuant to such provision of law is being awarded in contravention of this section.
 
-**(g) Inapplicability to Contracts under Simplified Acquisition Threshold.—**
+**(g) Inapplicability to Contracts under Simplified Acquisition Threshold.—** This section does not apply to a contract or subcontract for an amount that does not exceed the simplified acquisition threshold.
 
-(1) This section does not apply to a contract or subcontract for an amount that does not exceed the simplified acquisition threshold.
-
-(2) Paragraph (1) does not apply to contracts for items described in subsection (a)(5) (relating to ball bearings and roller bearings), notwithstanding [section 1905 of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section1905&num=0&edition=prelim).
-
-**(h) Implementation of Naval Vessel Component Limitation.—** In implementing subsection (a)(3)(B), the Secretary of Defense—
+**(h) Implementation of Naval Vessel Component Limitation.—** In implementing subsection (a)(2), the Secretary of Defense—
 
 (1) may not use contract clauses or certifications; and
 
@@ -1720,80 +2246,66 @@ Pub. L. 109–364, div. A, title VIII, § 842(b), Oct. 17, 2006, 120 Stat. 2337,
 
 (2) This subsection applies to the waiver authority provided by subsection (d) on the basis of the applicability of paragraph (2) or (3) of that subsection.
 
-(3) The waiver authority described in paragraph (2) may not be delegated below the Under Secretary of Defense for Acquisition, Technology, and Logistics.
+(3) The waiver authority described in paragraph (2) may not be delegated below the Under Secretary of Defense for Acquisition and Sustainment.
 
 (4) At least 15 days before the effective date of any waiver made under the waiver authority described in paragraph (2), the Secretary shall publish in the Federal Register and submit to the congressional defense committees a notice of the determination to exercise the waiver authority.
 
 (5) Any waiver made by the Secretary under the waiver authority described in paragraph (2) shall be in effect for a period not greater than one year, as determined by the Secretary.
 
-**(j) Inapplicability to Certain Contracts To Purchase Ball Bearings or Roller Bearings.—**
+**(j) Limitation on Certain Procurements Application Process.—**
 
-(1) This section does not apply with respect to a contract or subcontract to purchase items described in subsection (a)(5) (relating to ball bearings and roller bearings) for which—
+(1) **In general.—** — The Secretary of Defense shall administer a process to analyze and assess potential items for consideration to be required to be procured from a manufacturer that is part of the national technology and industrial base.
 
-  (A) the amount of the purchase does not exceed $2,500;
+(2) **Elements.—** — The application process required under paragraph (1) shall include the following elements:
 
-  (B) the precision level of the ball or roller bearings to be procured under the contract or subcontract is rated lower than the rating known as Annual Bearing Engineering Committee (ABEC) 5 or Roller Bearing Engineering Committee (RBEC) 5, or an equivalent of such rating;
+  (A) The Secretary shall designate an official within the Office of the Secretary of Defense responsible for administration of the limitation on certain procurements application process and associated policy.
 
-  (C) at least two manufacturers in the national technology and industrial base that are capable of producing the ball or roller bearings have not responded to a request for quotation issued by the contracting activity for that contract or subcontract; and
+  (B) A person or organization that meets the definition of national technology and industrial base under [section 2500(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2500/1&num=0&edition=prelim) shall have the opportunity to apply for status as an item required to be procured from a manufacturer that is part of the national technology and industrial base. The application shall include, at a minimum, the following information:
 
-  (D) no bearing to be procured under the contract or subcontract has a basic outside diameter (exclusive of flange diameters) in excess of 30 millimeters.
+    (i) Information demonstrating the applicant meets the criteria of a manufacturer in the national technology and industrial base under [section 2500(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2500/1&num=0&edition=prelim).
 
-(2) Paragraph (1) does not apply to a purchase if such purchase would result in the total amount of purchases of ball bearings and roller bearings to satisfy requirements under Department of Defense contracts, using the authority provided in such paragraph, to exceed $200,000 during the fiscal year of such purchase.
+    (ii) For each item the applicant seeks to be required to be procured from a manufacturer that is part of the national technology and industrial base, the applicant shall include the following information:
+
+      (I) The extent to which such item has commercial applications.
+
+      (II) The number of such items to be procured by current programs of record.
+
+      (III) The criticality of such item to a military unit’s mission accomplishment.
+
+      (IV) The estimated cost and other considerations of reconstituting the manufacturing capability of such item, if not maintained in the national technology and industrial base.
+
+      (V) National security regulations or restrictions imposed on such item that may not be imposed on a non-national technology and industrial base competitor.
+
+      (VI) Non-national security-related Federal, State, and local government regulations imposed on such item that may not be imposed on a non-national technology and industrial base competitor.
+
+      (VII) The extent to which such item is fielded in current programs of record.
+
+      (VIII) The extent to which cost and pricing data for such item has been deemed fair and reasonable.
+
+(3) **Consideration of applications.—**
+
+  (A) *Responsibility of designated official.—* — The official designated pursuant to paragraph (2)(A) shall be responsible for providing complete applications submitted pursuant to this subsection to the appropriate component acquisition executive for consideration not later than 15 days after receipt of such application.
+
+  (B) *Review.—* — Not later than 120 days after receiving a complete application, the component acquisition executive shall review such application, make a determination, and return the application to the official designated pursuant to paragraph (2)(A).
+
+  (C) *Elements of determination.—* — The determination required under subparagraph (B) shall, for each item proposed pursuant to paragraph (2)(B)(ii)—
+
+    (i) recommend inclusion under this section;
+
+    (ii) recommend inclusion under this section with further modifications; or
+
+    (iii) not recommend inclusion under this section.
+
+  (D) *Justification.—* — The determination required under subparagraph (B) shall also include the rationale and justification for the determination.
+
+(4) **Recommendations for legislation.—** — For applications recommended under subsection (3), the official designated pursuant to paragraph (2)(A) shall be responsible for preparing a legislative proposal for consideration by the Secretary.
+
+**(k) Implementation of Auxiliary Ship Component Limitation.—** Subsection (a)(3) applies only with respect to contracts awarded by the Secretary of a military department for new construction of an auxiliary ship after the date of the enactment of the National Defense Authorization Act for Fiscal Year 2020 using funds available for National Defense Sealift Fund programs or Shipbuilding and Conversion, Navy. For purposes of this subsection, the term “auxiliary ship” does not include an icebreaker or a special mission ship.
 
 ### Statutory Notes
 
-#### Amendment of Section
-Pub. L. 115–232, div. A, title VIII, § 844, Aug. 13, 2018, 132 Stat. 1879, provided that, effective one year after Aug. 13, 2018, this section is amended by adding at the end the following new subsection:
-
-(k) Limitation on Certain Procurements Application Process.—
-
-(1) In general.—The Secretary of Defense shall administer a process to analyze and assess potential items for consideration to be required to be procured from a manufacturer that is part of the national technology and industrial base.
-
-(2) Elements.—The application process required under paragraph (1) shall include the following elements:
-
-(A) The Secretary shall designate an official within the Office of the Secretary of Defense responsible for administration of the limitation on certain procurements application process and associated policy.
-
-(B) A person or organization that meets the definition of national technology and industrial base under [section 2500(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2500/1&num=0&edition=prelim) shall have the opportunity to apply for status as an item required to be procured from a manufacturer that is part of the national technology and industrial base. The application shall include, at a minimum, the following information:
-
-(i) Information demonstrating the applicant meets the criteria of a manufacturer in the national technology and industrial base under [section 2500(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2500/1&num=0&edition=prelim).
-
-(ii) For each item the applicant seeks to be required to be procured from a manufacturer that is part of the national technology and industrial base, the applicant shall include the following information:
-
-(I) The extent to which such item has commercial applications.
-
-(II) The number of such items to be procured by current programs of record.
-
-(III) The criticality of such item to a military unit’s mission accomplishment.
-
-(IV) The estimated cost and other considerations of reconstituting the manufacturing capability of such item, if not maintained in the national technology and industrial base.
-
-(V) National security regulations or restrictions imposed on such item that may not be imposed on a non-national technology and industrial base competitor.
-
-(VI) Non-national security-related Federal, State, and local government regulations imposed on such item that may not be imposed on a non-national technology and industrial base competitor.
-
-(VII) The extent to which such item is fielded in current programs of record.
-
-(VIII) The extent to which cost and pricing data for such item has been deemed fair and reasonable.
-
-(3) Consideration of applications.—
-
-(A) Responsibility of designated official.—The official designated pursuant to paragraph (2)(A) shall be responsible for providing complete applications submitted pursuant to this subsection to the appropriate component acquisition executive for consideration not later than 15 days after receipt of such application.
-
-(B) Review.—Not later than 120 days after receiving a complete application, the component acquisition executive shall review such application, make a determination, and return the application to the official designated pursuant to paragraph (2)(A).
-
-(C) Elements of determination.—The determination required under subparagraph (B) shall, for each item proposed pursuant to paragraph (2)(B)(ii)—
-
-(i) recommend inclusion under this section;
-
-(ii) recommend inclusion under this section with further modifications; or
-
-(iii) not recommend inclusion under this section.
-
-(D) Justification.—The determination required under subparagraph (B) shall also include the rationale and justification for the determination.
-
-(4) Recommendations for legislation.—For applications recommended under subsection (3), the official designated pursuant to paragraph (2)(A) shall be responsible for preparing a legislative proposal for consideration by the Secretary.
-
-See 2018 Amendment note below.
+#### Renumbering of Section
+Pub. L. 116–283, div. A, title XVIII, §§ 1801(d), 1870(c)(2), Jan. 1, 2021, 134 Stat. 4151, 4285, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, this section is renumbered [section 4864 of this title](./chapter-385-other-technology-base-policies-and-programs.md#section-4864). See Effective Date of 2021 Amendment note below.
 
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
@@ -1802,8 +2314,45 @@ See 2018 Amendment note below.
 
 The words “of the United States under the provisions of this Act or the provisions of any other law” are omitted as surplus. The word “acquisition” is substituted for “purchase, lease, rental, or other acquisition” because it is inclusive. The words “this section” are substituted for “this prohibition” because of the restatement.
 
+#### References in Text
+Subsection (j), referred to in subsec. (a)(3), probably should be a reference to subsec. (k). Prior to amendment by Pub. L. 116–283, such reference was to subsec. (k), and at that time, this section contained two subsecs. (k). Section 845(a)(8) of Pub. L. 116–283 redesignated the subsec. (k) relating to limitation on certain procurements application process as (j), but the reference in subsec. (a)(3) is probably to the subsec. (k) relating to implementation of auxiliary ship component limitation, which was not redesignated.
+
+The date of the enactment of the National Defense Authorization Act for Fiscal Year 2020, referred to in subsec. (k), is the date of enactment of Pub. L. 116–92, which was approved Dec. 20, 2019.
+
 #### Amendments
-2018—Subsec. (k). Pub. L. 115–232 added subsec. (k).
+2021—Subsec. (a)(2). Pub. L. 116–283, § 845(a)(1)(A),(B), added par. (2) and struck out former par. (2). Prior to amendment, text read as follows: “Chemical weapons antidote contained in automatic injectors (and components for such injectors).”
+
+Subsec. (a)(3). Pub. L. 116–283, § 845(a)(1)(A), (C), redesignated par. (6) as (3), substituted “subsection (j)” for “subsection (k)”, and struck out former par. (3) which related to components for naval vessels.
+
+Subsec. (a)(4). Pub. L. 116–283, § 845(a)(1)(A), (D), added par. (4) and struck out former par. (4) which related to valves and machine tools.
+
+Subsec. (a)(5). Pub. L. 116–283, § 1603(a), added par. (5).
+
+Pub. L. 116–283, § 845(a)(1)(A), struck out par. (5). Text read as follows: “Ball bearings and roller bearings, in accordance with subpart 225.71 of part 225 of the Defense Federal Acquisition Regulation Supplement, as in effect on October 23, 1992, except ball bearings and roller bearings being procured for use in an end product manufactured by a manufacturer that does not satisfy the requirements of subsection (b) or in a component part manufactured by such a manufacturer.”
+
+Subsec. (a)(6). Pub. L. 116–283, § 845(a)(1)(A), redesignated par. (6) as (3).
+
+Subsec. (b). Pub. L. 116–283, § 845(a)(2), amended subsec. (b) generally. Prior to amendment, subsec. (b) related to manufacturer in the national technology and industrial base.
+
+Subsec. (c). Pub. L. 116–283, § 845(a)(3), struck out par. (1) designation and heading and struck out pars. (2) to (5), which related to valves and machine tools, ball bearings and roller bearings, vessel propellers, and chemical weapons antidote, respectively.
+
+Subsec. (g). Pub. L. 116–283, § 845(a)(4), struck out par. (1) designation and par. (2) which read as follows: “Paragraph (1) does not apply to contracts for items described in subsection (a)(5) (relating to ball bearings and roller bearings), notwithstanding [section 1905 of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section1905&num=0&edition=prelim).”
+
+Subsec. (h). Pub. L. 116–283, § 845(a)(5), substituted “subsection (a)(2)” for “subsection (a)(3)(B)” in introductory provisions.
+
+Subsec. (i)(3). Pub. L. 116–283, § 845(a)(6), substituted “Under Secretary of Defense for Acquisition and Sustainment” for “Under Secretary of Defense for Acquisition, Technology, and Logistics”.
+
+Subsec. (j). Pub. L. 116–283, § 845(a)(7), (8), redesignated subsec. (k) related to limitation on certain procurements application process as (j) and struck out former subsec. (j) which related to inapplicability to certain contracts to purchase ball bearings or roller bearings.
+
+Subsec. (k). Pub. L. 116–283, § 845(a)(9), substituted “Subsection (a)(3)” for “Subsection (a)(6)” in subsec. (k) relating to implementation of auxiliary ship component limitation.
+
+Pub. L. 116–283, § 845(a)(8), redesignated subsec. (k) related to limitation on certain procurements application process as (j).
+
+2019—Subsec. (a)(6). Pub. L. 116–92, § 853(a), added par. (6).
+
+Subsec. (k). Pub. L. 116–92, § 853(b), added subsec. (k) related to implementation of auxiliary ship component limitation.
+
+2018—Subsec. (k). Pub. L. 115–232 added subsec. (k) related to limitation on certain procurements application process.
 
 2017—Subsec. (c)(5). Pub. L. 115–91 added par. (5).
 
@@ -1885,8 +2434,13 @@ Subsec. (d). Pub. L. 100–456, § 822, added subsec. (d).
 
 1987—Pub. L. 100–180 substituted “Miscellaneous procurement limitations” for “Limitation on procurement of buses” in section catchline, designated existing provisions as subsec. (a) and added heading, and added subsecs. (b) and (c).
 
+#### Effective Date of 2021 Amendment
+Amendment by section 1870(c)(2) of Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
+
 #### Effective Date of 2018 Amendment
-Pub. L. 115–232, div. A, title VIII, § 844(b), Aug. 13, 2018, 132 Stat. 1881, provided that: “This section [amending this section] and the amendments made by this section shall take effect one year after the date of the enactment of this Act [Aug. 13, 2018].”
+Pub. L. 115–232, div. A, title VIII, § 844(b), Aug. 13, 2018, 132 Stat. 1881, as amended by Pub. L. 116–92, div. A, title XVII, § 1731(b)(2), Dec. 20, 2019, 133 Stat. 1816, provided that: “The amendment made by subsection (a) [amending this section] shall take effect one year after the date of the enactment of this Act [Aug. 13, 2018].”
+
+[Pub. L. 116–92, div. A, title XVII, § 1731(b), Dec. 20, 2019, 133 Stat. 1816, provided that the amendment made by section 1731(b)(2) to section 844(b) of Pub. L. 115–232, set out above, is effective Aug. 13, 2018, and as if included in Pub. L. 115–232 as enacted.]
 
 #### Effective Date of 2001 Amendment
 Pub. L. 107–107, div. A, title VIII, § 835(b), Dec. 28, 2001, 115 Stat. 1192, provided that: “Subsection (j) of such section 2534 (as added by subsection (a)) shall apply with respect to a contract or subcontract to purchase ball bearings or roller bearings entered into after the date of the enactment of this Act [Dec. 28, 2001].”
@@ -1905,6 +2459,15 @@ Pub. L. 102–484, div. A, title VIII, § 833(b), Oct. 23, 1992, 106 Stat. 2461,
 
 #### Effective Date of 1990 Amendment
 Pub. L. 101–510, div. A, title VIII, § 835(b), Nov. 5, 1990, 104 Stat. 1615, provided that subsec. (e) of this section, as added by section 835(a) of Pub. L. 101–510, applied with respect to systems or items procured by or provided to Department of Defense after Nov. 5, 1990.
+
+#### Review of Select Components
+Pub. L. 116–283, div. A, title VIII, § 845(b), Jan. 1, 2021, 134 Stat. 3767, provided that: “The Secretary of the Defense shall expedite the review period under paragraph (3)(B) of [section 2534(j) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2534/j&num=0&edition=prelim), United States Code, as redesignated by subsection (a), to not more than 60 days for applications submitted pursuant to such section 2534(j) for the following components for auxiliary ships: “(1) Auxiliary equipment, including pumps, for all shipboard services. “(2) Propulsion system components, including engines, reduction gears, and propellers. “(3) Shipboard cranes. “(4) Spreaders for shipboard cranes.”
+
+#### Certain Exemption
+Pub. L. 116–283, div. A, title XVI, § 1603(b), Jan. 1, 2021, 134 Stat. 4043, provided that: “Paragraph (5) of [section 2534(a) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2534/a&num=0&edition=prelim), United States Code, as added by subsection (a) of this section, shall not apply with respect to programs that have received Milestone A approval (as defined in section 2431a of such title) before October 1, 2021.”
+
+#### Clarification of Delegation Authority
+Pub. L. 116–283, div. A, title XVI, § 1603(c), Jan. 1, 2021, 134 Stat. 4043, provided that: “Subject to subsection (i) of [section 2534 of title 10](./chapter-148-national-defense-technology-and-industrial-base-defense-reinvestment-and-defense-conversion.md#section-2534), United States Code, the Secretary of Defense may delegate to a service acquisition executive the authority to make a waiver under subsection (d) of such section with respect to the limitation under subsection (a)(5) of such section, as added by subsection (a) of this section.”
 
 #### Procurement of Photovoltaic Devices
 Pub. L. 113–291, div. A, title VIII, § 858, Dec. 19, 2014, 128 Stat. 3460, which required certain contracts to include a provision relating to the manufacturing of photovoltaic devices in the United States, was repealed by Pub. L. 115–91, div. A, title VIII, § 813(b), Dec. 12, 2017, 131 Stat. 1461, effective Oct. 1, 2018.
@@ -1971,6 +2534,9 @@ Pub. L. 108–136, div. A, title VIII, § 821, Nov. 24, 2003, 117 Stat. 1546, pr
 
 ### Statutory Notes
 
+#### Renumbering of Section
+Pub. L. 116–283, div. A, title XVIII, §§ 1801(d), 1870(e)(2)(A), Jan. 1, 2021, 134 Stat. 4151, 4286, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, this section is renumbered [section 4881 of this title](./chapter-385-other-technology-base-policies-and-programs.md#section-4881). See Effective Date of 2021 Amendment note below.
+
 #### Codification
 The text of [section 451 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section451&num=0&edition=prelim), War and National Defense, which was transferred to this section, designated subsec. (a), and amended by Pub. L. 102–484, § 4235(a)(2), was based on acts July 2, 1948, ch. 811, § 2, 62 Stat. 1225; Nov. 16, 1973, Pub. L. 93–155, title VIII, § 809, 87 Stat. 617.
 
@@ -2004,6 +2570,9 @@ Subsec. (a). Pub. L. 102–484, § 4235(a)(2), transferred the text of [section 
 Subsec. (b). Pub. L. 102–484, § 4235(a)(3), transferred the text of [section 453 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section453&num=0&edition=prelim), War and National Defense, to the end of this section and designated it subsec. (b), inserted heading, redesignated former subsec. (a) of section 453 as par. (1), substituted “in this section” for “in this chapter” in introductory provisions, redesignated former pars. (1) to (7) as subpars. (A) to (G), respectively, in subpar. (G) redesignated former subpars. (A) and (B) as cls. (i) and (ii), respectively, redesignated former subsec. (b) of section 453 as par. (2), and in par. (2) redesignated former par. (1) as subpar. (A), former subpars. (A) to (C) as cls. (i) to (iii), and former par. (2) as subpar. (B). See Codification note above.
 
 Subsec. (c). Pub. L. 102–484, § 4235(b), transferred the text of [section 452 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section452&num=0&edition=prelim), War and National Defense, to the end of this section, designated it subsec. (c), inserted heading, and substituted “In this section:” for “As used in this chapter—” in introductory provisions. See Codification note above.
+
+#### Effective Date of 2021 Amendment
+Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
 
 #### Treatment of Property Loaned Before December 31, 1993 to Educational Institutions or Training Schools
 Pub. L. 103–337, div. A, title III, § 379(b), Oct. 5, 1994, 108 Stat. 2737, provided that: “Except for property determined by the Secretary of Defense to be needed by the Department of Defense, property loaned before December 31, 1993, to an educational institution or training school under [section 2535(b) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2535/b&num=0&edition=prelim), United States Code, or section 4(a)(7) of the Defense Industrial Reserve Act (as in effect before October 23, 1992 [former [section 453(a)(7) of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section453/a/7&num=0&edition=prelim), War and National Defense, see Codification and 1992 Amendment notes above]) shall be regarded as surplus property. Upon certification by the Secretary to the Administrator of General Services that the property is being used by the borrowing educational institution or training school for a purpose consistent with that for which the property was loaned, the Administrator may authorize the conveyance of all right, title, and interest of the United States in such property to the borrower if the borrower agrees to accept the property. The Administrator may require any additional terms and conditions in connection with a conveyance so authorized that the Administrator considers appropriate to protect the interests of the United States.”
@@ -2060,6 +2629,9 @@ Pub. L. 103–337, div. A, title III, § 379(b), Oct. 5, 1994, 108 Stat. 2737, p
 
 ### Statutory Notes
 
+#### Renumbering of Section
+Pub. L. 116–283, div. A, title XVIII, §§ 1801(d), 1870(d)(2), Jan. 1, 2021, 134 Stat. 4151, 4286, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, this section is renumbered [section 4872 of this title](./chapter-385-other-technology-base-policies-and-programs.md#section-4872). See Effective Date of 2021 Amendment note below.
+
 #### Amendments
 1996—Subsec. (b). Pub. L. 104–201 amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “Waiver Authority.—The Secretary concerned may waive the application of subsection (a) to a contract award if the Secretary concerned determines that the waiver is essential to the national security interests of the United States.”
 
@@ -2071,6 +2643,9 @@ Subsec. (a). Pub. L. 103–160, § 842(a), struck out “a company owned by” a
 
 Subsec. (c)(1). Pub. L. 103–160, § 842(b), inserted at end “Such term does not include an organization or corporation that is owned, but is not controlled, either directly or indirectly, by a foreign government if the ownership of that organization or corporation by that foreign government was effective before October 23, 1992.”
 
+#### Effective Date of 2021 Amendment
+Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
+
 #### Effective Date of 1992 Amendment
 Pub. L. 102–484, div. A, title VIII, § 836(b), Oct. 23, 1992, 106 Stat. 2463, provided that: “[Section 2536 of title 10](./chapter-148-national-defense-technology-and-industrial-base-defense-reinvestment-and-defense-conversion.md#section-2536), United States Code, as added by subsection (a), shall apply with respect to contracts entered into after the expiration of the 90-day period beginning on the date of the enactment of this Act [Oct. 23, 1992].”
 
@@ -2078,7 +2653,9 @@ Pub. L. 102–484, div. A, title VIII, § 836(b), Oct. 23, 1992, 106 Stat. 2463,
 Pub. L. 115–232, div. A, title VIII, § 842, Aug. 13, 2018, 132 Stat. 1878, provided that: “(a) In General.—Effective October 1, 2020, a covered NTIB entity operating under a special security agreement pursuant to the National Industrial Security Program shall not be required to obtain a national interest determination as a condition for access to proscribed information. “(b) Acceleration Authorized.—Notwithstanding the effective date of this section, the Secretary of Defense, in consultation with the Director of the Information Security Oversight Office, may waive the requirement to obtain a national interest determination for a covered NTIB entity operating under such a special security agreement that has—“(1) a demonstrated successful record of compliance with the National Industrial Security Program; and “(2) previously been approved for access to proscribed information. “(c) Definitions.—In this section:“(1) Covered ntib entity.—The term ‘covered NTIB entity’ means a person that is a subsidiary located in the United States—“(A) for which the ultimate parent company and any intermediate parent companies of such subsidiary are located in a country that is part of the national technology and industrial base (as defined in [section 2500 of title 10](./chapter-148-national-defense-technology-and-industrial-base-defense-reinvestment-and-defense-conversion.md#section-2500), United States Code); and “(B) that is subject to the foreign ownership, control, or influence requirements of the National Industrial Security Program. “(2) Proscribed information.—The term ‘proscribed information’ means information that is—“(A) classified at the level of top secret; “(B) communications security information (excluding controlled cryptographic items when un-keyed or utilized with unclassified keys); “(C) restricted data (as defined in section 11 of the Atomic Energy Act of 1954 ([42 U.S.C. 2014](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2014&num=0&edition=prelim))); “(D) special access program information under section 4.3 of Executive Order No. 13526 (75 Fed. Reg. 707; [50 U.S.C. 3161](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3161&num=0&edition=prelim) note) or successor order; or “(E) designated as sensitive compartmented information.”
 
 #### Review Regarding Applicability of Foreign Ownership, Control, or Influence Requirements of National Industrial Security Program to National Technology and Industrial Base Companies
-Pub. L. 115–91, div. A, title XVII, § 1712, Dec. 12, 2017, 131 Stat. 1811, provided that: “(a) Review.—The Secretary of Defense, with the concurrence of the Secretary of State and after consultation with the Director of the Information Security Oversight Office, shall review whether organizations whose ownership or majority control is based in a country that is part of the national technology and industrial base should be exempted from one or more of the foreign ownership, control, or influence requirements of the National Industrial Security Program. “(b) Authority.—The Secretary of Defense may establish a program to exempt organizations described under subsection (a) from one or more of the foreign ownership, control, or influence requirements of the National Industrial Security Program. Any such program shall comply with the requirements of this subsection.“(1) In general.—Under a program established under this subsection, the Secretary, with the concurrence of the Secretary of State and after consultation with the Director of the Information Security Oversight Office, shall maintain a list of organizations owned or controlled by a country that is part of the national technology and industrial base that are eligible for exemption from the requirements described under such subsection. “(2) Determinations of eligibility.—Under a program established under this subsection, the Secretary of Defense, with the concurrence of the Secretary of State and after consultation with the Director of the Information Security Oversight Office, may (on a case-by-case basis and for the purpose of supporting specific needs of the Department of Defense) designate an organization whose ownership or majority control is based in a country that is part of the national technology and industrial base as exempt from the requirements described under subsection (a) upon a determination that such exemption—“(A) is beneficial to improving collaboration within countries that are a part of the national technology and industrial base; “(B) is in the national security interest of the United States; and “(C) will not result in a greater risk of the disclosure of classified or sensitive information consistent with the National Industrial Security Program. “(3) Exercise of authority.—The authority under this subsection may be exercised beginning on the date that is the later of—“(A) the date that is 60 days after the Secretary of Defense, in consultation with the Secretary of State and the Director of the Information Security Oversight Office, submits to the appropriate congressional committees a report summarizing the review conducted under subsection (a); and “(B) the date that is 30 days after the Secretary of Defense, in consultation with the Secretary of State and the Director of the Information Security Oversight Office, submits to the appropriate congressional committees a written notification of a determination made under paragraph (2), including a discussion of the issues related to the foreign ownership or control of the organization that were considered as part of the determination. “(c) Definitions.—In this section:“(1) Appropriate congressional committees.—The term ‘appropriate congressional committees’ has the meaning given the term in [section 301 of title 10](./chapter-016-security-cooperation.md#section-301), United States Code. “(2) National technology and industrial base.—the [sic] term ‘national technology and industrial base’ has the meaning given the term in [section 2500 of title 10](./chapter-148-national-defense-technology-and-industrial-base-defense-reinvestment-and-defense-conversion.md#section-2500), United States Code.”
+Pub. L. 115–91, div. A, title XVII, § 1712, Dec. 12, 2017, 131 Stat. 1811, as amended by Pub. L. 116–283, div. A, title XVIII, § 1866(d)(5), Jan. 1, 2021, 134 Stat. 4280, provided that: “(a) Review.—The Secretary of Defense, with the concurrence of the Secretary of State and after consultation with the Director of the Information Security Oversight Office, shall review whether organizations whose ownership or majority control is based in a country that is part of the national technology and industrial base should be exempted from one or more of the foreign ownership, control, or influence requirements of the National Industrial Security Program. “(b) Authority.—The Secretary of Defense may establish a program to exempt organizations described under subsection (a) from one or more of the foreign ownership, control, or influence requirements of the National Industrial Security Program. Any such program shall comply with the requirements of this subsection.“(1) In general.—Under a program established under this subsection, the Secretary, with the concurrence of the Secretary of State and after consultation with the Director of the Information Security Oversight Office, shall maintain a list of organizations owned or controlled by a country that is part of the national technology and industrial base that are eligible for exemption from the requirements described under such subsection. “(2) Determinations of eligibility.—Under a program established under this subsection, the Secretary of Defense, with the concurrence of the Secretary of State and after consultation with the Director of the Information Security Oversight Office, may (on a case-by-case basis and for the purpose of supporting specific needs of the Department of Defense) designate an organization whose ownership or majority control is based in a country that is part of the national technology and industrial base as exempt from the requirements described under subsection (a) upon a determination that such exemption—“(A) is beneficial to improving collaboration within countries that are a part of the national technology and industrial base; “(B) is in the national security interest of the United States; and “(C) will not result in a greater risk of the disclosure of classified or sensitive information consistent with the National Industrial Security Program. “(3) Exercise of authority.—The authority under this subsection may be exercised beginning on the date that is the later of—“(A) the date that is 60 days after the Secretary of Defense, in consultation with the Secretary of State and the Director of the Information Security Oversight Office, submits to the appropriate congressional committees a report summarizing the review conducted under subsection (a); and “(B) the date that is 30 days after the Secretary of Defense, in consultation with the Secretary of State and the Director of the Information Security Oversight Office, submits to the appropriate congressional committees a written notification of a determination made under paragraph (2), including a discussion of the issues related to the foreign ownership or control of the organization that were considered as part of the determination. “(c) Definitions.—In this section:“(1) Appropriate congressional committees.—The term ‘appropriate congressional committees’ has the meaning given the term in [section 301 of title 10](./chapter-016-security-cooperation.md#section-301), United States Code. “(2) National technology and industrial base.—the [sic] term ‘national technology and industrial base’ has the meaning given the term in [section 2500 of title 10](./chapter-148-national-defense-technology-and-industrial-base-defense-reinvestment-and-defense-conversion.md#section-2500), United States Code.”
+
+[Pub. L. 116–283, div. A, title XVIII, §§ 1801(d), 1886(d)(5), Jan. 1, 2021, 134 Stat. 4151, 4280, provided that effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, section 1712(c)(2) of Pub. L. 115–91, set out above, is amended by substituting “section 4801” for “section 2500”.]
 
 
 <a id="section-2537"></a>
@@ -2087,7 +2664,7 @@ Pub. L. 115–91, div. A, title XVII, § 1712, Dec. 12, 2017, 131 Stat. 1811, pr
 
 **(b) Technology Risk Assessment Requirement.—**
 
-(1) If the Secretary of Defense is acting as a designee of the President under section 721(a) of the Defense Production Act of 1950 ([50 U.S.C. 4565(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4565/a&num=0&edition=prelim)) and if the Secretary determines that a proposed or pending merger, acquisition, or takeover may involve a firm engaged in the development of a defense critical technology or is otherwise important to the defense industrial and technology base, then the Secretary shall require the appropriate entity or entities from the list set forth in paragraph (2) to conduct an assessment of the risk of diversion of defense critical technology posed by such proposed or pending action.
+(1) If the Secretary of Defense is acting as a designee of the President under section 721(a) 11 See References in Text note below. of the Defense Production Act of 1950 ([50 U.S.C. 4565(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4565/a&num=0&edition=prelim)) and if the Secretary determines that a proposed or pending merger, acquisition, or takeover may involve a firm engaged in the development of a defense critical technology or is otherwise important to the defense industrial and technology base, then the Secretary shall require the appropriate entity or entities from the list set forth in paragraph (2) to conduct an assessment of the risk of diversion of defense critical technology posed by such proposed or pending action.
 
 (2) The entities referred to in paragraph (1) are the following:
 
@@ -2101,6 +2678,12 @@ Pub. L. 115–91, div. A, title XVII, § 1712, Dec. 12, 2017, 131 Stat. 1811, pr
 
 ### Statutory Notes
 
+#### Renumbering of Section
+Pub. L. 116–283, div. A, title XVIII, §§ 1801(d), 1870(f)(2), Jan. 1, 2021, 134 Stat. 4151, 4287, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, this section is renumbered [section 4891 of this title](./chapter-385-other-technology-base-policies-and-programs.md#section-4891). See Effective Date of 2021 Amendment note below.
+
+#### References in Text
+Section 721(a) of the Defense Production Act of 1950, referred to in subsec. (b), is section 721(a) of act Sept. 8, 1950, ch. 932, as added by Pub. L. 100–418, title V, § 5021, Aug. 23, 1988, 102 Stat. 1425, which is classified to [section 4565(a) of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4565/a&num=0&edition=prelim), War and National Defense. Section 721(a) of the Act was struck out, and a new section 721(a) was added, by Pub. L. 110–49, § 2, July 26, 2007, 121 Stat. 246. As so added, section 721(a) does not refer to investigations by the President or the President’s designee.
+
 #### Amendments
 2017—Subsecs. (b), (c). Pub. L. 115–91 redesignated subsec. (c) as (b) and struck out former subsec. (b) which required annual reports to Congress regarding the information collected under subsec. (a).
 
@@ -2111,6 +2694,9 @@ Pub. L. 115–91, div. A, title XVII, § 1712, Dec. 12, 2017, 131 Stat. 1811, pr
 1993—Subsec. (a). Pub. L. 103–35, § 201(d)(5), substituted “respectively, that” for “respectively, which”.
 
 Subsec. (d). Pub. L. 103–35, § 201(h)(2), struck out subsec. (d) which read as follows: “In this section, the term ‘defense critical technology’ has the meaning provided that term by [section 2491(8) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2491/8&num=0&edition=prelim).”
+
+#### Effective Date of 2021 Amendment
+Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
 
 
 <a id="section-2538"></a>
@@ -2135,6 +2721,9 @@ Subsec. (d). Pub. L. 103–35, § 201(h)(2), struck out subsec. (d) which read a
 
 ### Statutory Notes
 
+#### Renumbering of Section
+Pub. L. 116–283, div. A, title XVIII, §§ 1801(d), 1870(e)(2)(A), Jan. 1, 2021, 134 Stat. 4151, 4286, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, this section is renumbered [section 4882 of this title](./chapter-385-other-technology-base-policies-and-programs.md#section-4882). See Effective Date of 2021 Amendment note below.
+
 #### Prior Provisions
 Provisions similar to those in this section were contained in sections 4501 and 9501 of this title, prior to repeal by Pub. L. 103–160, § 822(a)(2).
 
@@ -2144,6 +2733,9 @@ Provisions similar to those in this section were contained in sections 4501 and 
 Subsec. (c). Pub. L. 103–337, § 811, substituted “through the head of any department” for “through the Secretary of Defense” and “opinion of the head of that department” for “opinion of the Secretary of Defense” in introductory provisions and “head of such department” for “Secretary” in pars. (2) and (3).
 
 Subsec. (d). Pub. L. 103–337, § 811(1), substituted “head of any department” for “Secretary of Defense”.
+
+#### Effective Date of 2021 Amendment
+Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
 
 
 <a id="section-2539"></a>
@@ -2156,8 +2748,14 @@ Subsec. (d). Pub. L. 103–337, § 811(1), substituted “head of any department
 
 ### Statutory Notes
 
+#### Renumbering of Section
+Pub. L. 116–283, div. A, title XVIII, §§ 1801(d), 1870(e)(2)(A), Jan. 1, 2021, 134 Stat. 4151, 4286, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, this section is renumbered [section 4883 of this title](./chapter-385-other-technology-base-policies-and-programs.md#section-4883). See Effective Date of 2021 Amendment note below.
+
 #### Prior Provisions
 Provisions similar to those in this section were contained in sections 4502(a)–(c) and 9502(a)–(c) of this title, prior to repeal by Pub. L. 103–160, § 822(a)(2).
+
+#### Effective Date of 2021 Amendment
+Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
 
 
 <a id="section-2539a"></a>
@@ -2167,11 +2765,17 @@ The President may appoint a nonpartisan Board on Mobilization of Industries Esse
 
 ### Statutory Notes
 
+#### Renumbering of Section
+Pub. L. 116–283, div. A, title XVIII, §§ 1801(d), 1870(e)(2)(A), Jan. 1, 2021, 134 Stat. 4151, 4286, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, this section is renumbered [section 4884 of this title](./chapter-385-other-technology-base-policies-and-programs.md#section-4884). See Effective Date of 2021 Amendment note below.
+
 #### Prior Provisions
 Provisions similar to those in this section were contained in sections 4502(d) and 9502(d) of this title, prior to repeal by Pub. L. 103–160, § 822(a)(2).
 
 #### Amendments
 1994—Pub. L. 103–337 renumbered [section 2540 of this title](./chapter-148-national-defense-technology-and-industrial-base-defense-reinvestment-and-defense-conversion.md#section-2540) as this section.
+
+#### Effective Date of 2021 Amendment
+Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
 
 
 <a id="section-2539b"></a>
@@ -2198,6 +2802,9 @@ Provisions similar to those in this section were contained in sections 4502(d) a
 
 ### Statutory Notes
 
+#### Renumbering of Section
+Pub. L. 116–283, div. A, title XVIII, §§ 1801(d), 1870(f)(2), Jan. 1, 2021, 134 Stat. 4151, 4287, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, this section is renumbered [section 4892 of this title](./chapter-385-other-technology-base-policies-and-programs.md#section-4892). See Effective Date of 2021 Amendment note below.
+
 #### Amendments
 2008—Subsec. (a)(4). Pub. L. 110–181, § 232(1), added par. (4).
 
@@ -2214,6 +2821,9 @@ Subsec. (c). Pub. L. 104–106, § 804, inserted “and indirect” after “rec
 1994—Pub. L. 103–337 renumbered [section 2541 of this title](./chapter-148-national-defense-technology-and-industrial-base-defense-reinvestment-and-defense-conversion.md#section-2541) as this section.
 
 Subsec. (a). Pub. L. 103–355, § 3022, as amended by Pub. L. 104–106, § 4321(a)(8), inserted “rent,” after “sell,” in par. (1) and “, rent,” after “sell” in par. (2).
+
+#### Effective Date of 2021 Amendment
+Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
 
 #### Effective Date of 1996 Amendment
 Pub. L. 104–106, div. D, title XLIII, § 4321(a), Feb. 10, 1996, 110 Stat. 671, provided that the amendment made by that section is effective as of Oct. 13, 1994, and as if included in Pub. L. 103–355 as enacted.
@@ -2241,6 +2851,9 @@ Pub. L. 104–106, div. D, title XLIII, § 4321(a), Feb. 10, 1996, 110 Stat. 671
 
 ### Statutory Notes
 
+#### Renumbering of Section
+Pub. L. 116–283, div. A, title XVIII, §§ 1801(d), 1873(b), (c), Jan. 1, 2021, 134 Stat. 4151, 4290, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, this section is renumbered [section 4971 of this title](./chapter-389-loan-guarantee-programs.md#section-4971). See Effective Date of 2021 Amendment note below.
+
 #### Prior Provisions
 A prior section 2540, acts Aug. 10, 1956, ch. 1041, 70A Stat. 141, § 2511; renumbered § 2521, Nov. 5, 1990, Pub. L. 101–510, div. A, title VIII, § 823(a)(2), 104 Stat. 1600; renumbered § 2540, Dec. 5, 1991, Pub. L. 102–190, div. A, title VIII, § 821(e)(3), 105 Stat. 1432, related to availability or issuance to reserve components of supplies, services, and facilities of armed forces, prior to repeal by Pub. L. 103–337, div. A, title XVI, §§ 1664(c)(2), 1691, Oct. 5, 1994, 108 Stat. 3012, 3026, effective Dec. 1, 1994. See [section 18502 of this title](./chapter-1805-miscellaneous-provisions.md#section-18502).
 
@@ -2249,8 +2862,13 @@ Another prior section 2540 was renumbered [section 2539a of this title](./chapte
 #### Amendments
 2004—Subsec. (b)(2). Pub. L. 108–375 inserted “, as in effect on that date” before period at end.
 
+#### Effective Date of 2021 Amendment
+Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
+
 #### Authority To Issue Loan Guarantees
-Pub. L. 108–287, title VIII, § 8065, Aug. 5, 2004, 118 Stat. 985, provided that: “To the extent authorized by subchapter VI of chapter 148 of title 10, United States Code, for the current fiscal year and hereafter the Secretary of Defense may issue loan guarantees in support of United States defense exports not otherwise provided for: Provided, That the total contingent liability of the United States for guarantees issued under the authority of this section may not exceed $15,000,000,000: Provided further, That the exposure fees charged and collected by the Secretary for each guarantee shall be paid by the country involved and shall not be financed as part of a loan guaranteed by the United States: Provided further, That the Secretary shall provide quarterly reports to the Committees on Appropriations, Armed Services, and Foreign Relations of the Senate and the Committees on Appropriations, Armed Services, and International Relations [now Committee on Foreign Affairs] in the House of Representatives on the implementation of this program: Provided further, That amounts charged for administrative fees and deposited to the special account provided for under [section 2540c(d) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2540c/d&num=0&edition=prelim), shall be available for paying the costs of administrative expenses of the Department of Defense that are attributable to the loan guarantee program under subchapter VI of chapter 148 of title 10, United States Code.”
+Pub. L. 108–287, title VIII, § 8065, Aug. 5, 2004, 118 Stat. 985, as amended by Pub. L. 116–283, div. A, title XVIII, § 1873(d), Jan. 1, 2021, 134 Stat. 4290, provided that: “To the extent authorized by subchapter VI of chapter 148 of title 10, United States Code, for the current fiscal year and hereafter the Secretary of Defense may issue loan guarantees in support of United States defense exports not otherwise provided for: Provided, That the total contingent liability of the United States for guarantees issued under the authority of this section may not exceed $15,000,000,000: Provided further, That the exposure fees charged and collected by the Secretary for each guarantee shall be paid by the country involved and shall not be financed as part of a loan guaranteed by the United States: Provided further, That the Secretary shall provide quarterly reports to the Committees on Appropriations, Armed Services, and Foreign Relations of the Senate and the Committees on Appropriations, Armed Services, and International Relations [now Committee on Foreign Affairs] in the House of Representatives on the implementation of this program: Provided further, That amounts charged for administrative fees and deposited to the special account provided for under [section 2540c(d) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2540c/d&num=0&edition=prelim), shall be available for paying the costs of administrative expenses of the Department of Defense that are attributable to the loan guarantee program under subchapter VI of chapter 148 of title 10, United States Code.”
+
+[Pub. L. 116–283, div. A, title XVIII, §§ 1801(d), 1873(d), Jan. 1, 2021, 134 Stat. 4151, 4290, provided that effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, section 8065 of Pub. L. 108–287, set out above, is amended by substituting “subchapter I of chapter 389” for “subchapter VI of chapter 148” in two places and “section 4974(d)” for “section 2540c(d)”.]
 
 Similar provisions were contained in the following prior appropriation acts:
 
@@ -2281,6 +2899,14 @@ Pub. L. 104–106, div. A, title XIII, § 1321(b), Feb. 10, 1996, 110 Stat. 477,
 
 A guarantee issued under this subchapter shall be fully and freely transferable.
 
+### Statutory Notes
+
+#### Renumbering of Section
+Pub. L. 116–283, div. A, title XVIII, §§ 1801(d), 1873(b), (c), Jan. 1, 2021, 134 Stat. 4151, 4290, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, this section is renumbered [section 4972 of this title](./chapter-389-loan-guarantee-programs.md#section-4972). See Effective Date of 2021 Amendment note below.
+
+#### Effective Date of 2021 Amendment
+Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
+
 
 <a id="section-2540b"></a>
 ## § 2540b. Limitations
@@ -2289,6 +2915,14 @@ A guarantee issued under this subchapter shall be fully and freely transferable.
 **(b) Losses Arising From Fraud or Misrepresentation.—** No payment may be made under a guarantee issued under this subchapter for a loss arising out of fraud or misrepresentation for which the party seeking payment is responsible.
 
 **(c) No Right of Acceleration.—** The Secretary of Defense may not accelerate any guaranteed loan or increment, and may not pay any amount, in respect of a guarantee issued under this subchapter, other than in accordance with the original payment terms of the loan.
+
+### Statutory Notes
+
+#### Renumbering of Section
+Pub. L. 116–283, div. A, title XVIII, §§ 1801(d), 1873(b), (c), Jan. 1, 2021, 134 Stat. 4151, 4290, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, this section is renumbered [section 4973 of this title](./chapter-389-loan-guarantee-programs.md#section-4973). See Effective Date of 2021 Amendment note below.
+
+#### Effective Date of 2021 Amendment
+Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
 
 
 <a id="section-2540c"></a>
@@ -2311,8 +2945,14 @@ A guarantee issued under this subchapter shall be fully and freely transferable.
 
 ### Statutory Notes
 
+#### Renumbering of Section
+Pub. L. 116–283, div. A, title XVIII, §§ 1801(d), 1873(b), (c), Jan. 1, 2021, 134 Stat. 4151, 4290, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, this section is renumbered [section 4974 of this title](./chapter-389-loan-guarantee-programs.md#section-4974). See Effective Date of 2021 Amendment note below.
+
 #### Amendments
 2000—Subsec. (d). Pub. L. 106–398 designated existing provisions as par. (1) and added par. (2).
+
+#### Effective Date of 2021 Amendment
+Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
 
 #### Effective Date of 2000 Amendment
 Pub. L. 106–398, § 1 [[div. A], title X, § 1081(b), (c)], Oct. 30, 2000, 114 Stat. 1654, 1654A–284, provided that: “(b) Effective Date.—Paragraph (2) of [section 2540c(d) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2540c/d&num=0&edition=prelim), United States Code, as added by subsection (a), shall take effect on October 1, 2000. “(c) Limitation Pending Submission of Report.—The Secretary of Defense may not exercise the authority provided by paragraph (2) of [section 2540c(d) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2540c/d&num=0&edition=prelim), United States Code, as added by subsection (a), until the Secretary submits to Congress a report on the operation of the Defense Export Loan Guarantee Program under subchapter V of chapter 148 of title 10, United States Code. The report shall include the following:“(1) A discussion of the effectiveness of the loan guarantee program in furthering the sale of United States defense articles, defense services, and design and construction services to nations that are specified in section 2540(b) of such title, to include a comparison of the loan guarantee program with other United States Government programs that are intended to contribute to the sale of United States defense articles, defense services, and design and construction services and other comparisons the Secretary determines to be appropriate. “(2) A discussion of the requirements and resources (including personnel and funds) for continued administration of the loan guarantee program by the Defense Department, to include—“(A) an itemization of the requirements necessary and resources available (or that could be made available) to administer the loan guarantee program for each of the following entities: the Defense Security Cooperation Agency, the Department of Defense International Cooperation Office, and other Defense Department agencies, offices, or activities as the Secretary may specify; and “(B) for each such activity, agency, or office, a comparison of the use of Defense Department personnel exclusively to administer, manage, and oversee the program with the use of contracted commercial entities to administer and manage the program. “(3) Any legislative recommendations that the Secretary believes could improve the effectiveness of the program. “(4) A determination made by the Secretary of Defense indicating which Defense Department agency, office, or other activity should administer, manage, and oversee the loan guarantee program to increase sales of United States defense articles, defense services, and design and construction services, such determination to be made based on the information and analysis provided in the report.”
@@ -2326,6 +2966,14 @@ In this subchapter:
 (1) The terms “defense article”, “defense services”, and “design and construction services” have the meanings given those terms in section 47 of the Arms Export Control Act ([22 U.S.C. 2794](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2794&num=0&edition=prelim)).
 
 (2) The term “cost”, with respect to a loan guarantee, has the meaning given that term in section 502 of the Congressional Budget and Impoundment Control Act of 1974 ([2 U.S.C. 661a](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section661a&num=0&edition=prelim)).
+
+### Statutory Notes
+
+#### Renumbering of Section
+Pub. L. 116–283, div. A, title XVIII, §§ 1801(d), 1873(b), (c), Jan. 1, 2021, 134 Stat. 4151, 4290, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, this section is renumbered [section 4975 of this title](./chapter-389-loan-guarantee-programs.md#section-4975). See Effective Date of 2021 Amendment note below.
+
+#### Effective Date of 2021 Amendment
+Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
 
 
 <a id="section-2541"></a>
@@ -2360,10 +3008,16 @@ In this subchapter:
 
 ### Statutory Notes
 
+#### Renumbering of Section
+Pub. L. 116–283, div. A, title XVIII, §§ 1801(d), 1873(b), (c), Jan. 1, 2021, 134 Stat. 4151, 4290, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, this section is renumbered [section 4981 of this title](./chapter-389-loan-guarantee-programs.md#section-4981). See Effective Date of 2021 Amendment note below.
+
 #### Prior Provisions
 A prior section 2541 was renumbered [section 2551 of this title](./chapter-152-issue-of-supplies-services-and-facilities.md#section-2551).
 
 Another prior section 2541 was renumbered [section 2539b of this title](./chapter-148-national-defense-technology-and-industrial-base-defense-reinvestment-and-defense-conversion.md#section-2539b).
+
+#### Effective Date of 2021 Amendment
+Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
 
 
 <a id="section-2541a"></a>
@@ -2384,6 +3038,14 @@ Another prior section 2541 was renumbered [section 2539b of this title](./chapte
 
   (B) The Secretary shall, from funds in the special account established under paragraph (1), replenish operations and maintenance accounts for amounts expended under subparagraph (A).
 
+### Statutory Notes
+
+#### Renumbering of Section
+Pub. L. 116–283, div. A, title XVIII, §§ 1801(d), 1873(b), (c), Jan. 1, 2021, 134 Stat. 4151, 4290, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, this section is renumbered [section 4982 of this title](./chapter-389-loan-guarantee-programs.md#section-4982). See Effective Date of 2021 Amendment note below.
+
+#### Effective Date of 2021 Amendment
+Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
+
 
 <a id="section-2541b"></a>
 ## § 2541b. Administration
@@ -2396,6 +3058,14 @@ Another prior section 2541 was renumbered [section 2539b of this title](./chapte
 (3) provide any other services to the Secretary to administer this subchapter.
 
 **(b) Treatment of Costs.—** The costs of such agreements shall be considered, for purposes of the special account established under section 2541a(c), to be costs of administrative expenses of the Department of Defense that are attributable to the loan guarantee program under this subchapter.
+
+### Statutory Notes
+
+#### Renumbering of Section
+Pub. L. 116–283, div. A, title XVIII, §§ 1801(d), 1873(b), (c), Jan. 1, 2021, 134 Stat. 4151, 4290, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, this section is renumbered [section 4983 of this title](./chapter-389-loan-guarantee-programs.md#section-4983). See Effective Date of 2021 Amendment note below.
+
+#### Effective Date of 2021 Amendment
+Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
 
 
 <a id="section-2541c"></a>
@@ -2411,8 +3081,14 @@ The following provisions of subchapter VI of this chapter apply to guarantees is
 
 ### Statutory Notes
 
+#### Renumbering of Section
+Pub. L. 116–283, div. A, title XVIII, §§ 1801(d), 1873(b), (c), Jan. 1, 2021, 134 Stat. 4151, 4290, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, this section is renumbered [section 4984 of this title](./chapter-389-loan-guarantee-programs.md#section-4984). See Effective Date of 2021 Amendment note below.
+
 #### Amendments
 2001—Pub. L. 107–107 substituted “subchapter” for “subtitle” in two places in introductory provisions.
+
+#### Effective Date of 2021 Amendment
+Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
 
 
 <a id="section-2541d"></a>
@@ -2422,8 +3098,14 @@ The Secretary of Defense shall require each qualified commercial firm for which 
 
 ### Statutory Notes
 
+#### Renumbering of Section
+Pub. L. 116–283, div. A, title XVIII, §§ 1801(d), 1873(b), (c), Jan. 1, 2021, 134 Stat. 4151, 4290, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, this section is renumbered [section 4985 of this title](./chapter-389-loan-guarantee-programs.md#section-4985). See Effective Date of 2021 Amendment note below.
+
 #### Prior Provisions
 Prior sections 2542 to 2550 were renumbered sections 2552 to 2560 of this title, respectively.
 
 #### Amendments
 2003—Pub. L. 108–136 struck out subsec. (a) designation and heading and struck out subsec. (b) which directed that the Secretary of Defense annually submit to Congress a report on the loan guarantee program under this subchapter.
+
+#### Effective Date of 2021 Amendment
+Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).

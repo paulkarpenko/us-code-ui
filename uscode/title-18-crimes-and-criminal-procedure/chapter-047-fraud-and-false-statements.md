@@ -287,11 +287,11 @@ Pub. L. 101–73, § 961(e), substituted “$1,000,000” for “$10,000” and 
 #### Effective Date of 2010 Amendment
 Amendment by Pub. L. 111–203 effective on the transfer date, see section 351 of Pub. L. 111–203, set out as a note under [section 906 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section906&num=0&edition=prelim), The Congress.
 
-#### Exceptions From Transfer of Functions
-Functions of Corporations of Department of Agriculture, boards of directors and officers of such corporations, Advisory Board of Commodity Credit Corporation, and Farm Credit Administration or any agency, officer or entity of, under, or subject to supervision of said Administration excepted from functions of officers, agencies, and employees transferred to Secretary of Agriculture by Reorg. Plan No. 2 of 1953, § 1, eff. June 4, 1953, 18 F.R. 3219, 67 Stat. 633, set out in the Appendix to Title 5, Government Organization and Employees.
-
 #### National Credit Union Administration
 Establishment as independent agency, membership etc., see section 1752 et seq. of Title 12, Banks and Banking.
+
+#### Exceptions From Transfer of Functions
+Functions of Corporations of Department of Agriculture, boards of directors and officers of such corporations, Advisory Board of Commodity Credit Corporation, and Farm Credit Administration or any agency, officer or entity of, under, or subject to supervision of said Administration excepted from functions of officers, agencies, and employees transferred to Secretary of Agriculture by Reorg. Plan No. 2 of 1953, § 1, eff. June 4, 1953, 18 F.R. 3219, 67 Stat. 633, set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Farm Credit Administration
 Establishment of Farm Credit Administration as independent agency, and other changes in status, function, etc., see Ex. Ord. No. 6084, set out prec. [section 2241 of Title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section2241&num=0&edition=prelim), Banks and Banking. See also section 2001 et seq. of Title 12.
@@ -533,11 +533,11 @@ Amendment by Pub. L. 86–168 effective Dec. 31, 1959, see section 104(k) of Pub
 #### Effective Date of 1956 Amendment
 Amendment by act July 26, 1956, effective Jan. 1, 1957, see section 202(a) of that act, set out as an Effective Date note under [section 1027 of Title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1027&num=0&edition=prelim), Banks and Banking.
 
-#### Farm Credit Administration
-Establishment of Farm Credit Administration as independent agency, and other changes in status, function, etc., see Ex. Ord. No. 6084 set out prec. [section 2241 of Title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section2241&num=0&edition=prelim), Banks and Banking. See also section 2001 et seq. of Title 12.
-
 #### National Credit Union Administration
 Establishment as independent agency, membership, etc., see section 1752 et seq. of Title 12, Banks and Banking.
+
+#### Farm Credit Administration
+Establishment of Farm Credit Administration as independent agency, and other changes in status, function, etc., see Ex. Ord. No. 6084 set out prec. [section 2241 of Title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section2241&num=0&edition=prelim), Banks and Banking. See also section 2001 et seq. of Title 12.
 
 
 <a id="section-1015"></a>
@@ -1456,9 +1456,19 @@ shall be punished as provided in subsection (c) of this section.
 
 (2) the term “protected computer” means a computer—
 
-  (A) exclusively for the use of a financial institution or the United States Government, or, in the case of a computer not exclusively for such use, used by or for a financial institution or the United States Government and the conduct constituting the offense affects that use by or for the financial institution or the Government; or
+  (A) exclusively for the use of a financial institution or the United States Government, or, in the case of a computer not exclusively for such use, used by or for a financial institution or the United States Government and the conduct constituting the offense affects that use by or for the financial institution or the Government;
 
-  (B) which is used in or affecting interstate or foreign commerce or communication, including a computer located outside the United States that is used in a manner that affects interstate or foreign commerce or communication of the United States;
+  (B) which is used in or affecting interstate or foreign commerce or communication, including a computer located outside the United States that is used in a manner that affects interstate or foreign commerce or communication of the United States; or
+
+  (C) that—
+
+    (i) is part of a voting system; and
+
+    (ii)
+
+      (I) is used for the management, support, or administration of a Federal election; or
+
+      (II) has moved in or otherwise affects interstate or foreign commerce;
 
 (3) the term “State” includes the District of Columbia, the Commonwealth of Puerto Rico, and any other commonwealth, possession or territory of the United States;
 
@@ -1494,9 +1504,13 @@ shall be punished as provided in subsection (c) of this section.
 
 (10) the term “conviction” shall include a conviction under the law of any State for a crime punishable by imprisonment for more than 1 year, an element of which is unauthorized access, or exceeding authorized access, to a computer;
 
-(11) the term “loss” means any reasonable cost to any victim, including the cost of responding to an offense, conducting a damage assessment, and restoring the data, program, system, or information to its condition prior to the offense, and any revenue lost, cost incurred, or other consequential damages incurred because of interruption of service; and
+(11) the term “loss” means any reasonable cost to any victim, including the cost of responding to an offense, conducting a damage assessment, and restoring the data, program, system, or information to its condition prior to the offense, and any revenue lost, cost incurred, or other consequential damages incurred because of interruption of service;
 
-(12) the term “person” means any individual, firm, corporation, educational institution, financial institution, governmental entity, or legal or other entity.
+(12) the term “person” means any individual, firm, corporation, educational institution, financial institution, governmental entity, or legal or other entity;
+
+(13) the term “Federal election” means any election (as defined in section 301(1) of the Federal Election Campaign Act of 1971 ([52 U.S.C. 30101(1)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title52-section30101/1&num=0&edition=prelim))) for Federal office (as defined in section 301(3) of the Federal Election Campaign Act of 1971 ([52 U.S.C. 30101(3)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title52-section30101/3&num=0&edition=prelim))); and
+
+(14) the term “voting system” has the meaning given the term in section 301(b) of the Help America Vote Act of 2002 ([52 U.S.C. 21081(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title52-section21081/b&num=0&edition=prelim)).
 
 **(f)** This section does not prohibit any lawfully authorized investigative, protective, or intelligence activity of a law enforcement agency of the United States, a State, or a political subdivision of a State, or of an intelligence agency of the United States.
 
@@ -1540,6 +1554,10 @@ Section 25 of the Federal Reserve Act, referred to in subsec. (e)(4)(I), is clas
 The date of the enactment of this subsection, referred to in subsec. (h), is the date of enactment of Pub. L. 103–322, which was approved Sept. 13, 1994.
 
 #### Amendments
+2020—Subsec. (e)(2)(C). Pub. L. 116–179, § 2(1), added subpar. (C).
+
+Subsec. (e)(13), (14). Pub. L. 116–179, § 2(2)–(4), added pars. (13) and (14).
+
 2008—Subsec. (a)(2)(C). Pub. L. 110–326, § 203, struck out “if the conduct involved an interstate or foreign communication” after “computer”.
 
 Subsec. (a)(5). Pub. L. 110–326, § 204(a)(1), redesignated cls. (i) to (iii) of subpar. (A) as subpars. (A) to (C), respectively, substituted “damage and loss.” for “damage; and” in subpar. (C), and struck out former subpar. (B) which read as follows:

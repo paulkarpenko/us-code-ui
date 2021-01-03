@@ -2,7 +2,7 @@
 title: 10
 chapter: '907'
 heading: THE AIR FORCE
-section_count: 8
+section_count: 7
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10&num=0&edition=prelim
 ---
@@ -72,13 +72,7 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
   (B) The term “outsized cargo” means any single item of equipment that exceeds 1,090 inches in length, 117 inches in width, or 105 inches in height.
 
-**(h)**
-
-(1) Beginning October 1, 2011, the Secretary of the Air Force may not retire more than six B–1 aircraft.
-
-(2) The Secretary shall maintain in a common capability configuration not less than 36 B–1 aircraft as combat-coded aircraft.
-
-(3) In this subsection, the term “combat-coded aircraft” means aircraft assigned to meet the primary aircraft authorization to a unit for the performance of its wartime mission.
+**(h)** Repealed. Pub. L. 116–283, div. A, title I, § 132(b), Jan. 1, 2021, 134 Stat. 3430.]
 
 **(i)**
 
@@ -142,6 +136,14 @@ Section 141(c)(3) of the National Defense Authorization Act for Fiscal Year 2013
 Section 144(b) of the National Defense Authorization Act for Fiscal Year 2018, referred to in subsec. (j)(2)(A), is section 144(b) of Pub. L. 115–91, div. A, title I, Dec. 12, 2017, 131 Stat. 1321, which is not classified to the Code.
 
 #### Amendments
+2021—Subsec. (h). Pub. L. 116–283 struck out subsec. (h). Prior to amendment, subsec. read as follows:
+
+“(1) Beginning October 1, 2011, the Secretary of the Air Force may not retire more than six B–1 aircraft.
+
+“(2) The Secretary shall maintain in a common capability configuration not less than 36 B–1 aircraft as combat-coded aircraft.
+
+“(3) In this subsection, the term ‘combat-coded aircraft’ means aircraft assigned to meet the primary aircraft authorization to a unit for the performance of its wartime mission.”
+
 2018—Pub. L. 115–232, § 806(c), renumbered [section 8062 of this title](./chapter-807-composition-of-the-department-of-the-navy.md#section-8062) as this section.
 
 Subsec. (e). Pub. L. 115–232, § 809(a), substituted “chapter 911” for “chapter 831”.
@@ -174,6 +176,9 @@ Amendment by sections 806(c) and 809(a) of Pub. L. 115–232 effective Feb. 1, 2
 #### Effective Date of 1980 Amendment
 Amendment by Pub. L. 96–513 effective Sept. 15, 1981, see section 701 of Pub. L. 96–513, set out as a note under [section 101 of this title](./chapter-001-definitions.md#section-101).
 
+#### Modification of Force Structure Objectives for Bomber Aircraft
+Pub. L. 116–283, div. A, title I, § 132, Jan. 1, 2021, 134 Stat. 3430, provided that: “(a) Minimum Level for All Bomber Aircraft.—“(1) In general.—During the period beginning on the date of the enactment of this Act [Jan. 1, 2021] and ending on October 1, 2025, the Secretary of the Air Force shall, except as provided in paragraph (2), maintain not less than 92 bomber aircraft based on the Primary Mission Aircraft Inventory (PMAI) of the Air Force. “(2) Exception.—The Secretary may reduce the number of aircraft required by the Primary Mission Aircraft Inventory below the number specified in paragraph (1) if the Secretary determines, on a case-by-case basis, that a bomber aircraft is no longer to be so required because such aircraft is no longer mission capable due to mishap or other damage, or being uneconomical to repair. “(b) Repeal of Minimum B–1 Inventory Requirement.— [Amended this section.] “(c) Preservation of Certain B–1 Aircraft and Maintenance Personnel.—Until the date on which the Secretary determines that the B–21 bomber aircraft has attained initial operating capability, the Secretary—“(1) shall preserve four B–1 aircraft that are retired pursuant to subsection (a), in a manner that ensures the components and parts of each such aircraft are maintained in reclaimable condition that is consistent with type 2000 recallable storage, or better; and “(2) may not reduce the number of billets assigned to maintenance of B–1 aircraft in effect on January 1, 2020.”
+
 #### Retirement of Air Force Fighter Aircraft
 Pub. L. 115–91, div. A, title I, § 131(b)–(d), Dec. 12, 2017, 131 Stat. 1314, 1315, as amended by Pub. L. 115–232, div. A, title VIII, § 809(b)(11), Aug. 13, 2018, 132 Stat. 1841, provided that: “(b) Limitation on Retirement of Air Force Fighter Aircraft.—“(1) Limitation.—Except as provided in subsection (c), during the period beginning on October 1, 2017, and ending on October 1, 2022, the Secretary of the Air Force may not proceed with a decision to retire fighter aircraft in any number that would reduce the total number of such aircraft in the Air Force total active inventory below 1,970, and shall maintain a minimum of 1,145 fighter aircraft designated as primary mission aircraft inventory. “(2) Additional limitations on retirement of fighter aircraft.—Except as provided in subsection (c), during the period beginning on October 1, 2017, and ending on October 1, 2022, the Secretary of the Air Force may not retire fighter aircraft from the total active inventory as of the date of the enactment of this Act [Dec. 17, 2017] until the later of the following:“(A) The date that is 30 days after the date on which the Secretary submits the report required under paragraph (3). “(B) The date that is 30 days after the date on which the Secretary certifies to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] that—“(i) the retirement of such fighter aircraft will not increase the operational risk of meeting the National Defense Strategy; and “(ii) the retirement of such aircraft will not reduce the total fighter force structure below 1,970 fighter aircraft or the primary mission aircraft inventory below 1,145. “(3) Report on retirement of aircraft.—The Secretary of the Air Force shall submit to the congressional defense committees a report setting forth the following:“(A) The rationale for the retirement of existing fighter aircraft and an operational analysis of the portfolio of capabilities of the Air Force that demonstrates performance of the designated mission at an equal or greater level of effectiveness as the retiring aircraft. “(B) An assessment of the implications for the Air Force, the Air National Guard, and the Air Force Reserve of the force mix ratio of fighter aircraft. “(C) Such other matters relating to the retirement of fighter aircraft as the Secretary considers appropriate. “(c) Exception for Certain Aircraft.—The requirement of subsection (b) does not apply to individual fighter aircraft that the Secretary of the Air Force determines, on a case-by-case basis, to be non-operational because of mishaps, other damage, or being uneconomical to repair. “(d) Fighter Aircraft Defined.—In this section, the term ‘fighter aircraft’ has the meaning given the term in subsection (i)(2)(A) of [section 9062 of title 10](./chapter-907-the-air-force.md#section-9062), United States Code, as added by subsection (a) of this section.”
 
@@ -187,25 +192,25 @@ Pub. L. 111–383, div. A, title III, § 345, Jan. 7, 2011, 124 Stat. 4191, as a
 Pub. L. 110–417, [div. A], title III, § 324, Oct. 14, 2008, 122 Stat. 4416, as amended by Pub. L. 111–383, div. A, title X, § 1075(e)(4), Jan. 7, 2011, 124 Stat. 4374, provided that: “(a) Restriction on Implementation of Consolidation.—The Secretary of the Air Force shall not implement the consolidation of aircraft repair facilities and personnel of the active Air Force with aircraft repair facilities and personnel of the Air National Guard or the consolidation of aircraft repair facilities and personnel of the Air National Guard with aircraft repair facilities and personnel of the active Air Force unless and until the Secretary of the Air Force submits the reports required by (b) and (c), the Chief of the National Guard Bureau submits the assessment required by subsection (d), and the Secretary of Defense submits the certification required by subsection (e). “(b) Report on Criteria.—Not later than 30 days after the date of the enactment of this Act [Oct. 14, 2008], the Secretary of the Air Force shall submit to the Committees on Armed Services of the Senate and House of Representatives a report stating all the criteria being used by the Department of the Air Force and the Rand Corporation to evaluate the feasibility of consolidating Air Force maintenance functions into organizations that would integrate active, Guard, and Reserve components into a total-force approach. The report shall include the assumptions that were provided to or developed by the Rand Corporation for its study of the feasibility of the consolidation proposal. “(c) Report on Feasibility Study.—At least 90 days before any consolidation of aircraft repair facilities and personnel of the active Air Force with aircraft repair facilities and personnel of the Air National Guard, the Secretary of the Air Force shall submit to the Committees on Armed Services of the Senate and House of Representatives a report on the findings of the Rand Corporation feasibility study and the Rand Corporation’s recommendations, the Air Force’s assessment of the findings and recommendations, any plans developed for implementation of the consolidation, and a delineation of all infrastructure costs anticipated as a result of implementation. “(d) Assessment by Chief of the National Guard Bureau.—Not later than 30 days after the date on which the report required by subsection (c) is submitted, the Chief of the National Guard Bureau shall submit to the Committees on Armed Services of the Senate and House of Representatives a written assessment of—“(1) the proposed actions to consolidate aircraft repair facilities and personnel of the active Air Force with aircraft repair facilities and personnel of the Air National Guard by the Secretary of the Air Force; and “(2) the information included in the report required by subsection (c). “(e) Certification by the Secretary of Defense.—After the Secretary of the Air Force submits the reports required by subsections (b) and (c), and before any consolidation of aircraft repair facilities and personnel of the active Air Force with aircraft repair facilities and personnel of the Air National Guard by the Secretary of the Air Force, the Secretary of Defense shall certify that such consolidation is in the national interest and will not adversely affect recruitment, retention, or execution of the Air National Guard mission in the individual States.”
 
 
-<a id="section-9067"></a>
-## § 9067. Designation: officers to perform certain professional functions
-**(a)** Medical functions in the Air Force shall be performed by commissioned officers of the Air Force who are qualified under regulations prescribed by the Secretary of the Air Force and who are designated as medical officers.
+<a id="section-9063"></a>
+## § 9063. Designation: officers to perform certain professional functions
+**(a)** Medical functions in the Air Force and the Space Force shall be performed by commissioned officers of the Air Force who are qualified under regulations prescribed by the Secretary of the Air Force and who are designated as medical officers.
 
-**(b)** Dental functions in the Air Force shall be performed by commissioned officers of the Air Force who are qualified under regulations prescribed by the Secretary and who are designated as dental officers.
+**(b)** Dental functions in the Air Force and the Space Force shall be performed by commissioned officers of the Air Force who are qualified under regulations prescribed by the Secretary and who are designated as dental officers.
 
-**(c)** Veterinary functions in the Air Force shall be performed by commissioned officers of the Air Force who are qualified under regulations prescribed by the Secretary, and who are designated as veterinary officers.
+**(c)** Veterinary functions in the Air Force and the Space Force shall be performed by commissioned officers of the Air Force who are qualified under regulations prescribed by the Secretary, and who are designated as veterinary officers.
 
-**(d)** Medical service functions in the Air Force shall be performed by commissioned officers of the Air Force who are qualified under regulations prescribed by the Secretary, and who are designated as medical service officers.
+**(d)** Medical service functions in the Air Force and the Space Force shall be performed by commissioned officers of the Air Force who are qualified under regulations prescribed by the Secretary, and who are designated as medical service officers.
 
-**(e)** Nursing functions in the Air Force shall be performed by commissioned officers of the Air Force who are qualified under regulations prescribed by the Secretary and who are designated as Air Force nurses.
+**(e)** Nursing functions in the Air Force and the Space Force shall be performed by commissioned officers of the Air Force who are qualified under regulations prescribed by the Secretary and who are designated as Air Force nurses.
 
-**(f)** Biomedical science functions, including physician assistant functions and chiropractic functions, in the Air Force shall be performed by commissioned officers of the Air Force who are qualified under regulations prescribed by the Secretary, and who are designated as biomedical science officers.
+**(f)** Biomedical science functions, including physician assistant functions and chiropractic functions, in the Air Force and the Space Force shall be performed by commissioned officers of the Air Force who are qualified under regulations prescribed by the Secretary, and who are designated as biomedical science officers.
 
-**(g)** Judge advocate functions in the Air Force shall be performed by commissioned officers of the Air Force who are qualified under regulations prescribed by the Secretary, and who are designated as judge advocates.
+**(g)** Judge advocate functions in the Air Force and the Space Force shall be performed by commissioned officers of the Air Force who are qualified under regulations prescribed by the Secretary, and who are designated as judge advocates.
 
-**(h)** Chaplain functions in the Air Force shall be performed by commissioned officers of the Air Force who are qualified under regulations prescribed by the Secretary and who are designated as chaplains.
+**(h)** Chaplain functions in the Air Force and the Space Force shall be performed by commissioned officers of the Air Force who are qualified under regulations prescribed by the Secretary and who are designated as chaplains.
 
-**(i)** Other functions in the Air Force requiring special training or experience shall be performed by members of the Air Force who are qualified under regulations prescribed by the Secretary, and who are designated as being in named categories.
+**(i)** Other functions in the Air Force and the Space Force requiring special training or experience shall be performed by members of the Air Force or the Space Force who are qualified under regulations prescribed by the Secretary, and who are designated as being in named categories.
 
 ### Statutory Notes
 
@@ -237,7 +242,13 @@ In subsections (e) and (f), the words “female commissioned officers” are sub
 The section is amended to reflect the authority contained in the source statute to appoint male reserve officers with a view to designation as Air Force nurses or medical specialists.
 
 #### Amendments
-2018—Pub. L. 115–232 renumbered [section 8067 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section8067&num=0&edition=prelim) as this section.
+2021—Subsecs. (a) to (h). Pub. L. 116–283, § 923(b)(9)(A), substituted “in the Air Force and the Space Force” for “in the Air Force”.
+
+Subsec. (i). Pub. L. 116–283 substituted “in the Air Force and the Space Force” for “in the Air Force” and inserted “or the Space Force” after “members of the Air Force”.
+
+2019—Pub. L. 116–92 renumbered [section 9067 of this title](./chapter-907-the-air-force.md#section-9067) as this section.
+
+2018—Pub. L. 115–232 renumbered [section 8067 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section8067&num=0&edition=prelim) as [section 9067 of this title](./chapter-907-the-air-force.md#section-9067).
 
 1992—Subsec. (f). Pub. L. 102–484 inserted “and chiropractic functions” after “physician assistant functions”.
 
@@ -264,16 +275,20 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 Amendment by Pub. L. 96–513 effective Sept. 15, 1981, see section 701 of Pub. L. 96–513, set out as a note under [section 101 of this title](./chapter-001-definitions.md#section-101).
 
 
-<a id="section-9069"></a>
-## § 9069. Air Force nurses: Chief; appointment
-**(a) Position of Chief.—** There are 11 So in original. Probably should be “is”. a Chief of the Air Force Nurse Corps.
+<a id="section-9064"></a>
+## § 9064. Air Force nurses: Chief; appointment
+**(a) Position of Chief.—** There is a Chief of the Air Force Nurse Corps.
 
 **(b) Chief.—** The Secretary of the Air Force shall appoint the Chief from the officers of the Regular Air Force designated as Air Force nurses whose regular grade is above lieutenant colonel and who are recommended by the Surgeon General. The Chief serves during the pleasure of the Secretary.
 
 ### Statutory Notes
 
 #### Amendments
-2018—Pub. L. 115–232 renumbered [section 8069 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section8069&num=0&edition=prelim) as this section.
+2019—Pub. L. 116–92, § 952(b)(1), renumbered [section 9069 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section9069&num=0&edition=prelim) as this section.
+
+Subsec. (a). Pub. L. 116–92, § 1731(a)(61), substituted “is” for “are”. Amendment was directed to [section 9069 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section9069&num=0&edition=prelim) and was executed before amendment by section 952(b)(1) of Pub. L. 116–92, see above, pursuant to section 1731(f) of Pub. L. 116–92, set out as a Coordination of Certain Sections of an Act With Other Provisions of That Act note under [section 101 of this title](./chapter-001-definitions.md#section-101).
+
+2018—Pub. L. 115–232 renumbered [section 8069 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section8069&num=0&edition=prelim) as [section 9069 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section9069&num=0&edition=prelim).
 
 2016—Pub. L. 114–328, § 502(nn)(2), amended section catchline generally, substituting “Air Force nurses: Chief; appointment” for “Air Force nurses: Chief and assistant chief; appointment; grade”.
 
@@ -291,8 +306,8 @@ Subsec. (c). Pub. L. 114–328, § 502(nn)(1)(C), struck out subsec. (c). Text r
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
 
 
-<a id="section-9074"></a>
-## § 9074. Commands: territorial organization
+<a id="section-9065"></a>
+## § 9065. Commands: territorial organization
 **(a)** Except as otherwise prescribed by law or by the Secretary of Defense, the Air Force shall be divided into such organizations as the Secretary of the Air Force may prescribe.
 
 **(b)** For Air Force purposes, the United States, its possessions, and other places in which the Air Force is stationed or is operating, may be divided into such areas as directed by the Secretary. Officers of the Air Force may be assigned to command Air Force activities, installations, and personnel in those areas. In the discharge of the Air Force’s functions or other functions authorized by law, officers so assigned have the duties and powers prescribed by the Secretary.
@@ -310,7 +325,9 @@ In subsection (b), the words “from time to time” are omitted as surplusage.
 In subsection (d), the words “have the duties and powers” are substituted for the words “shall perform such duties and exercise such powers”. The words “of America”, “elements of”, “other provisions of”, and “so assigned” are omitted as surplusage.
 
 #### Amendments
-2018—Pub. L. 115–232 renumbered [section 8074 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section8074&num=0&edition=prelim) as this section.
+2019—Pub. L. 116–92 renumbered [section 9074 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section9074&num=0&edition=prelim) as this section.
+
+2018—Pub. L. 115–232 renumbered [section 8074 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section8074&num=0&edition=prelim) as [section 9074 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section9074&num=0&edition=prelim).
 
 2006—Subsec. (b). Pub. L. 109–163 struck out “its Territories,” after “the United States,”.
 
@@ -331,8 +348,8 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 Pub. L. 89–37, title III, § 306(b), June 11, 1965, 79 Stat. 129, provided that: “The amendment made by subsection (a) of this section [amending this section] shall become effective January 1, 1966.”
 
 
-<a id="section-9075"></a>
-## § 9075. Regular Air Force: composition
+<a id="section-9066"></a>
+## § 9066. Regular Air Force: composition
 **(a)** The Regular Air Force is the component of the Air Force that consists of persons whose continuous service on active duty in both peace and war is contemplated by law, and of retired members of the Regular Air Force.
 
 **(b)** The Regular Air Force includes—
@@ -353,7 +370,9 @@ Pub. L. 89–37, title III, § 306(b), June 11, 1965, 79 Stat. 129, provided tha
 In subsection (b), the words “holding appointments or enlisted in the Regular Air Force as now or hereafter provided by law”, “and such other persons as are now or may hereafter be specified by law”, and “commissioned * * * warrant officers” are omitted as surplusage, since the revised section lists all persons in the Regular Air Force. 10:1832(b) (last sentence) is omitted as executed.
 
 #### Amendments
-2018—Pub. L. 115–232 renumbered [section 8075 of this title](./chapter-809-bureaus-office-of-the-judge-advocate-general.md#section-8075) as this section.
+2019—Pub. L. 116–92 renumbered [section 9075 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section9075&num=0&edition=prelim) as this section.
+
+2018—Pub. L. 115–232 renumbered [section 8075 of this title](./chapter-809-bureaus-office-of-the-judge-advocate-general.md#section-8075) as [section 9075 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section9075&num=0&edition=prelim).
 
 1958—Subsec. (b)(2). Pub. L. 85–600 included the registrar of the Air Force Academy.
 
@@ -361,15 +380,28 @@ In subsection (b), the words “holding appointments or enlisted in the Regular 
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
 
 
-<a id="section-9081"></a>
-## § 9081. Assistant Surgeon General for Dental Services
+<a id="section-9067"></a>
+## § 9067. Assistant Surgeon General for Dental Services
 
 There is an Assistant Surgeon General for Dental Services in the Air Force who is appointed by the Secretary of the Air Force upon the recommendation of the Surgeon General from officers of the Air Force above the grade of lieutenant colonel who are designated as dental officers under [section 9067(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section9067/b&num=0&edition=prelim). The Assistant Surgeon General for Dental Services serves at the pleasure of the Secretary.
 
 ### Statutory Notes
 
+#### Prior Provisions
+A prior section 9067 was renumbered [section 9063 of this title](./chapter-907-the-air-force.md#section-9063).
+
+A prior [section 9068 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section9068&num=0&edition=prelim) resulted from the redesignation of [section 9084 of this title](./chapter-908-the-space-force.md#section-9084) as [section 9068 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section9068&num=0&edition=prelim) by section 952(b)(1) of Pub. L. 116–92. Such section 9068 was renumbered [section 9083 of this title](./chapter-908-the-space-force.md#section-9083) by section 952(e) of Pub. L. 116–92.
+
+A prior section 9069 was renumbered [section 9064 of this title](./chapter-907-the-air-force.md#section-9064).
+
+A prior section 9074 was renumbered [section 9065 of this title](./chapter-907-the-air-force.md#section-9065).
+
+A prior section 9075 was renumbered [section 9066 of this title](./chapter-907-the-air-force.md#section-9066).
+
 #### Amendments
-2018—Pub. L. 115–232 renumbered [section 8081 of this title](./chapter-809-bureaus-office-of-the-judge-advocate-general.md#section-8081) as this section and substituted “section 9067(b)” for “section 8067(b)”.
+2019—Pub. L. 116–92 renumbered [section 9081 of this title](./chapter-908-the-space-force.md#section-9081) as this section.
+
+2018—Pub. L. 115–232 renumbered [section 8081 of this title](./chapter-809-bureaus-office-of-the-judge-advocate-general.md#section-8081) as [section 9081 of this title](./chapter-908-the-space-force.md#section-9081) and substituted “section 9067(b)” for “section 8067(b)”.
 
 2016—Pub. L. 114–328 struck out second sentence which read as follows: “An appointee who holds a lower regular grade shall be appointed in the regular grade of major general.”
 
@@ -382,25 +414,3 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 #### Effective Date of 2006 Amendment
 Pub. L. 109–364, div. A, title V, § 504(b), Oct. 17, 2006, 120 Stat. 2179, provided that: “The amendment made by subsection (a) [amending this section] shall take effect on the date of the occurrence of the next vacancy in the position of Assistant Surgeon General for Dental Services in the Air Force that occurs after the date of the enactment of this Act [Oct. 17, 2006] or, if earlier, on the date of the appointment to the grade of major general of the officer who is the incumbent in that position on the date of the enactment of the Act.”
-
-
-<a id="section-9084"></a>
-## § 9084. Officer career field for space
-
-The Secretary of the Air Force shall establish and implement policies and procedures to develop a career field for officers in the Air Force with technical competence in space-related matters to have the capability to—
-
-(1) develop space doctrine and concepts of space operations;
-
-(2) develop space systems; and
-
-(3) operate space systems.
-
-### Statutory Notes
-
-#### Amendments
-2018—Pub. L. 115–232 renumbered [section 8084 of this title](./chapter-809-bureaus-office-of-the-judge-advocate-general.md#section-8084) as this section.
-
-2004—Pub. L. 108–375 substituted “capability” for “capabilty”.
-
-#### Effective Date of 2018 Amendment
-Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).

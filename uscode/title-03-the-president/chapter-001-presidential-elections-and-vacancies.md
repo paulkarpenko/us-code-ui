@@ -13,6 +13,9 @@ The electors of President and Vice President shall be appointed, in each State, 
 
 ### Statutory Notes
 
+#### Short Title of 2020 Amendment
+Pub. L. 116–121, § 1, Mar. 3, 2020, 134 Stat. 138, provided that: “This Act [amending provisions set out as a note under [section 102 of this title](./chapter-002-office-and-compensation-of-president.md#section-102)] may be cited as the ‘Presidential Transition Enhancement Act of 2019’.”
+
 #### Short Title of 2010 Amendment
 Pub. L. 111–283, § 1, Oct. 15, 2010, 124 Stat. 3045, provided that: “This Act [enacting provisions set out as a note under [section 102 of this title](./chapter-002-office-and-compensation-of-president.md#section-102) and amending provisions set out as notes under [section 102 of this title](./chapter-002-office-and-compensation-of-president.md#section-102), [section 1101 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section1101&num=0&edition=prelim), Government Organization and Employees, and [section 435b of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section435b&num=0&edition=prelim), War and National Defense] may be cited as the ‘Pre-Election Presidential Transition Act of 2010’.”
 

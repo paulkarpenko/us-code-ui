@@ -35,6 +35,9 @@ In clause (1), the text of 49 App.:2101(3) is omitted as surplus because the com
 
 In clause (2), the word “valid” is omitted as surplus.
 
+#### Mitigation of Military Helicopter Noise
+Pub. L. 116–283, div. A, title X, § 1087, Jan. 1, 2021, 134 Stat. 3877, provided that: “(a) Process for Tracking Complaints.—The Secretary of Defense, in coordination with the Metropolitan Washington Airports Authority, shall develop a process to receive, track, and analyze complaints of military rotary wing aircraft noise in the National Capital Region that are registered on the noise inquiry websites of Ronald Reagan Washington National Airport and Dulles International Airport. “(b) National Capital Region.—In this section, the term ‘National Capital Region’ has the meaning given such term in [section 2674(f)(2) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2674/f/2&num=0&edition=prelim), United States Code.”
+
 #### Addressing Community Noise Concerns
 Pub. L. 115–254, div. B, title I, § 175, Oct. 5, 2018, 132 Stat. 3228, provided that: “When proposing a new area navigation departure procedure, or amending an existing procedure that would direct aircraft between the surface and 6,000 feet above ground level over noise sensitive areas, the Administrator of the Federal Aviation Administration shall consider the feasibility of dispersal headings or other lateral track variations to address community noise concerns, if— “(1) the affected airport operator, in consultation with the affected community, submits a request to the Administrator for such a consideration; “(2) the airport operator’s request would not, in the judgment of the Administrator, conflict with the safe and efficient operation of the national airspace system; and “(3) the effect of a modified departure procedure would not significantly increase noise over noise sensitive areas, as determined by the Administrator.”
 

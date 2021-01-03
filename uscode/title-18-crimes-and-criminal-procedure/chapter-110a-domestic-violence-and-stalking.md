@@ -2,7 +2,7 @@
 title: 18
 chapter: 110A
 heading: DOMESTIC VIOLENCE AND STALKING
-section_count: 8
+section_count: 9
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18&num=0&edition=prelim
 ---
@@ -78,11 +78,13 @@ Whoever—
   (A) places that person in reasonable fear of the death of or serious bodily injury to a person, a pet, a service animal, an emotional support animal, or a horse described in clause (i), (ii), (iii), or (iv) of paragraph (1)(A); or
 
   (B) causes, attempts to cause, or would be reasonably expected to cause substantial emotional distress to a person described in clause (i), (ii), or (iii) of paragraph (1)(A),
-  shall be punished as provided in [section 2261(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section2261/b&num=0&edition=prelim).
+  shall be punished as provided in section 2261(b) or section 2261B, as the case may be.
 
 ### Statutory Notes
 
 #### Amendments
+2020—Pub. L. 116–249 substituted “section 2261(b) or section 2261B, as the case may be” for “[section 2261(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section2261/b&num=0&edition=prelim)” in concluding provisions.
+
 2018—Par. (1)(A)(iv). Pub. L. 115–334, § 12502(a)(1)(A), added cl. (iv).
 
 Par. (2)(A). Pub. L. 115–334, § 12502(a)(1)(B), inserted “, a pet, a service animal, an emotional support animal, or a horse” after “to a person” and substituted “(iii), or (iv)” for “or (iii)”.
@@ -95,6 +97,21 @@ Par. (2)(A). Pub. L. 115–334, § 12502(a)(1)(B), inserted “, a pet, a servic
 
 #### Effective Date of 2013 Amendment
 Amendment by Pub. L. 113–4 not effective until the beginning of the fiscal year following Mar. 7, 2013, see section 4 of Pub. L. 113–4, set out as a note under [section 2261 of this title](./chapter-110a-domestic-violence-and-stalking.md#section-2261).
+
+
+<a id="section-2261b"></a>
+## § 2261B. Enhanced penalty for stalkers of children
+**(a) In General.—** Except as provided in subsection (b), if the victim of an offense under section 2261A is under the age of 18 years, the maximum imprisonment for the offense is 5 years greater than the maximum term of imprisonment otherwise provided for that offense in section 2261.
+
+**(b) Limitation.—** Subsection (a) shall not apply to a person who violates section 2261A if—
+
+(1) the person is subject to a sentence under section 2261(b)(5); and
+
+(2)
+
+  (A) the person is under the age of 18 at the time the offense occurred; or
+
+  (B) the victim of the offense is not less than 15 nor more than 17 years of age and not more than 3 years younger than the person who committed the offense at the time the offense occurred.
 
 
 <a id="section-2262"></a>

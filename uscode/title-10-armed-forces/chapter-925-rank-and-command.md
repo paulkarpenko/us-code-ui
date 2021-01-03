@@ -9,7 +9,7 @@ source: >-
 <a id="section-9222"></a>
 ## § 9222. Rank: commissioned officers serving under temporary appointments
 
-The President may, in accordance with the needs of the Air Force, adjust dates of rank of commissioned officers of the Air Force serving in temporary grades.
+The President may, in accordance with the needs of the Air Force or the Space Force, adjust dates of rank of commissioned officers of the Air Force or the Space Force serving in temporary grades.
 
 ### Statutory Notes
 
@@ -21,6 +21,8 @@ The President may, in accordance with the needs of the Air Force, adjust dates o
 The word “commissioned” is inserted for clarity, since the source statute related only to commissioned officers. The words “in his discretion, from time to time” are omitted as surplusage.
 
 #### Amendments
+2021—Pub. L. 116–283 inserted “or the Space Force” after “the Air Force” in two places.
+
 2018—Pub. L. 115–232 renumbered [section 8572 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section8572&num=0&edition=prelim) as this section.
 
 #### Effective Date of 2018 Amendment
@@ -111,19 +113,23 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 <a id="section-9233"></a>
 ## § 9233. Requirement of exemplary conduct
 
-All commanding officers and others in authority in the Air Force are required—
+All commanding officers and others in authority in the Air Force and in the Space Force are required—
 
 (1) to show in themselves a good example of virtue, honor, patriotism, and subordination;
 
 (2) to be vigilant in inspecting the conduct of all persons who are placed under their command;
 
-(3) to guard against and suppress all dissolute and immoral practices, and to correct, according to the laws and regulations of the Air Force, all persons who are guilty of them; and
+(3) to guard against and suppress all dissolute and immoral practices, and to correct, according to the laws and regulations of the Air Force or the Space Force, respectively, all persons who are guilty of them; and
 
-(4) to take all necessary and proper measures, under the laws, regulations, and customs of the Air Force, to promote and safeguard the morale, the physical well-being, and the general welfare of the officers and enlisted persons under their command or charge.
+(4) to take all necessary and proper measures, under the laws, regulations, and customs of the Air Force or the Space Force, respectively, to promote and safeguard the morale, the physical well-being, and the general welfare of the officers and enlisted persons under their command or charge.
 
 ### Statutory Notes
 
 #### Amendments
+2021—Pub. L. 116–283, § 923(c)(7)(A), inserted “and in the Space Force” after “the Air Force” in introductory provisions.
+
+Pars. (3), (4). Pub. L. 116–283, § 923(c)(7)(B), inserted “or the Space Force, respectively” after “the Air Force”.
+
 2018—Pub. L. 115–232 renumbered [section 8583 of this title](./chapter-857-retirement-of-civilian-members-of-the-teaching-staffs-of-the-united-states-naval-academy-and-united-states-naval-postgraduate-school.md#section-8583) as this section.
 
 #### Effective Date of 2018 Amendment

@@ -133,7 +133,7 @@ For composition of Interagency Group on Countertrade, see section 2–101 of Ex.
 
 (8) utilizing district and foreign offices as one-stop shops for United States exporters by providing exporters with information on all export promotion and export finance activities of the Federal Government, assisting exporters in identifying which Federal programs may be of greatest assistance, and assisting exporters in making contact with the Federal programs identified; and
 
-(9) providing United States exporters and export finance institutions with information on all financing and insurance programs of the Export-Import Bank of the United States, the Overseas Private Investment Corporation, the Trade and Development Program, and the Small Business Administration, including providing assistance in completing applications for such programs and working with exporters and export finance institutions to address any deficiencies in such applications that have been submitted.
+(9) providing United States exporters and export finance institutions with information on all financing and insurance programs of the Export-Import Bank of the United States, the United States International Development Finance Corporation, the Trade and Development Program, and the Small Business Administration, including providing assistance in completing applications for such programs and working with exporters and export finance institutions to address any deficiencies in such applications that have been submitted.
 
 **(c) Offices**
 
@@ -165,7 +165,7 @@ For composition of Interagency Group on Countertrade, see section 2–101 of Ex.
 
 **(e) Information dissemination** In order to carry out subsection (b)(7), to lessen the cost of distribution of information produced by the Commercial Service, and to make that information more readily available, the Secretary should establish a system for distributing that information in those areas where no district offices of the Commercial Service are located. Distributors of the information should be State export promotion agencies or private export and trade promotion associations. The distribution system should be consistent with cost recovery objectives of the Department of Commerce.
 
-**(f) Cooperation in Federal financing and insurance programs** To assist the Commercial Service in carrying out subsection (b)(9), and consistent with the provisions of [section 635i–7 of title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section635i–7&num=0&edition=prelim), the Export-Import Bank of the United States, the Overseas Private Investment Corporation, the Trade and Development Program, and the Small Business Administration shall each—
+**(f) Cooperation in Federal financing and insurance programs** To assist the Commercial Service in carrying out subsection (b)(9), and consistent with the provisions of [section 635i–7 of title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section635i–7&num=0&edition=prelim), the Export-Import Bank of the United States, the United States International Development Finance Corporation, the Trade and Development Program, and the Small Business Administration shall each—
 
 (1) provide to the Commercial Service complete and current information on all of its programs and financing practices; and
 
@@ -205,9 +205,6 @@ For composition of Interagency Group on Countertrade, see section 2–101 of Ex.
 (6) the term “United States” means the several States, the District of Columbia, and any commonwealth, territory, or possession of the United States.
 
 ### Statutory Notes
-
-#### Amendment of Subsections (b)(9) and (f)
-Pub. L. 115–254, div. F, title VI, § 1470(d), (w), Oct. 5, 2018, 132 Stat. 3516, 3519, provided that, effective at the end of the transition period, as defined in [section 9681 of Title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section9681&num=0&edition=prelim), Foreign Relations and Intercourse, subsection (b)(9) and the introductory provisions of subsection (f) of this section are amending by striking “Overseas Private Investment Corporation” and inserting “United States International Development Finance Corporation”. See 2018 Amendment notes below.
 
 #### References in Text
 The Foreign Service Act of 1980, referred to in subsec. (c)(4)(B), is Pub. L. 96–465, Oct. 17, 1980, 94 Stat. 2071, as amended, which is classified principally to chapter 52 (§ 3901 et seq.) of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under [section 3901 of Title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section3901&num=0&edition=prelim) and Tables.
@@ -560,7 +557,7 @@ For termination, effective May 15, 2000, of provisions of law requiring submitta
 
   (J) the Trade and Development Program;
 
-  (K) the Overseas Private Investment Corporation;
+  (K) the United States International Development Finance Corporation;
 
   (L) the Export-Import Bank of the United States; and
 
@@ -579,9 +576,6 @@ For termination, effective May 15, 2000, of provisions of law requiring submitta
 (2) the implementation of sections 5823 and 5824 of title 22 11 See References in Text note below. concerning funding for export promotion activities and the interagency working groups on energy of the TPCC.
 
 ### Statutory Notes
-
-#### Amendment of Subsection (d)(1)(K)
-Pub. L. 115–254, div. F, title VI, § 1470(e), (w), Oct. 5, 2018, 132 Stat. 3516, 3519, provided that, effective at the end of the transition period, as defined in [section 9681 of Title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section9681&num=0&edition=prelim), Foreign Relations and Intercourse, subsection (d)(1)(K) of this section is amended by striking “Overseas Private Investment Corporation” and inserting “United States International Development Finance Corporation”. See 2018 Amendment note below.
 
 #### References in Text
 Sections 5823 and 5824 of title 22, referred to in subsec. (f)(2), was, in the original, “sections 303 and 304 of the Freedom for Russia and Emerging Democracies and Open Markets Support Act of 1992 ([22 U.S.C. 5823](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section5823&num=0&edition=prelim) and 5824)”, and was translated as meaning sections 303 and 304 of the Freedom for Russia and Emerging Eurasian Democracies and Open Markets Support Act of 1992, Pub. L. 102–511, to reflect the probable intent of Congress.
@@ -919,9 +913,11 @@ Sec. 7. General Provisions. (a) Nothing in this order shall be construed to impa
 Barack Obama.
 
 #### Extension of Term of President’s Advisory Council on Doing Business in Africa
-Term of President’s Advisory Council on Doing Business in Africa extended until Sept. 30, 2019, by Ex. Ord. No. 13811, Sept. 29, 2017, 82 F.R. 46363, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
+Term of President’s Advisory Council on Doing Business in Africa extended until Sept. 30, 2021, by Ex. Ord. No. 13889, Sept. 27, 2019, 84 F.R. 52743, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
 
 Previous extension of term of President’s Advisory Council on Doing Business in Africa was contained in the following prior Executive Order:
+
+Ex. Ord. No. 13811, Sept. 29, 2017, 82 F.R. 46363, extended term until Sept. 30, 2019.
 
 Ex. Ord. No. 13708, Sept. 30, 2015, 80 F.R. 60271, extended term until Sept. 30, 2017.
 

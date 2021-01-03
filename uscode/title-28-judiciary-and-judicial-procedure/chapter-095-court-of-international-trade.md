@@ -38,16 +38,23 @@ source: >-
 
 **(h)** The Court of International Trade shall have exclusive jurisdiction of any civil action commenced to review, prior to the importation of the goods involved, a ruling issued by the Secretary of the Treasury, or a refusal to issue or change such a ruling, relating to classification, valuation, rate of duty, marking, restricted merchandise, entry requirements, drawbacks, vessel repairs, or similar matters, but only if the party commencing the civil action demonstrates to the court that he would be irreparably harmed unless given an opportunity to obtain judicial review prior to such importation.
 
-**(i)** In addition to the jurisdiction conferred upon the Court of International Trade by subsections (a)–(h) of this section and subject to the exception set forth in subsection (j) of this section, the Court of International Trade shall have exclusive jurisdiction of any civil action commenced against the United States, its agencies, or its officers, that arises out of any law of the United States providing for—
+**(i)**
 
-(1) revenue from imports or tonnage;
+(1) In addition to the jurisdiction conferred upon the Court of International Trade by subsections (a)–(h) of this section and subject to the exception set forth in subsection (j) of this section, the Court of International Trade shall have exclusive jurisdiction of any civil action commenced against the United States, its agencies, or its officers, that arises out of any law of the United States providing for—
 
-(2) tariffs, duties, fees, or other taxes on the importation of merchandise for reasons other than the raising of revenue;
+  (A) revenue from imports or tonnage;
 
-(3) embargoes or other quantitative restrictions on the importation of merchandise for reasons other than the protection of the public health or safety; or
+  (B) tariffs, duties, fees, or other taxes on the importation of merchandise for reasons other than the raising of revenue;
 
-(4) administration and enforcement with respect to the matters referred to in paragraphs (1)–(3) of this subsection and subsections (a)–(h) of this section.
-This subsection shall not confer jurisdiction over an antidumping or countervailing duty determination which is reviewable either by the Court of International Trade under section 516A(a) of the Tariff Act of 1930 or by a bi­national panel under article 1904 of the North American Free Trade Agreement or the United States-Canada Free-Trade Agreement and section 516A(g) of the Tariff Act of 1930.
+  (C) embargoes or other quantitative restrictions on the importation of merchandise for reasons other than the protection of the public health or safety; or
+
+  (D) administration and enforcement with respect to the matters referred to in subparagraphs (A) through (C) of this paragraph and subsections (a)–(h) of this section.
+
+(2) This subsection shall not confer jurisdiction over an antidumping or countervailing duty determination which is reviewable by—
+
+  (A) the Court of International Trade under section 516A(a) of the Tariff Act of 1930 ([19 U.S.C. 1516a(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1516a/a&num=0&edition=prelim)); or
+
+  (B) a binational panel under section 516A(g) of the Tariff Act of 1930 ([19 U.S.C. 1516a(g)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1516a/g&num=0&edition=prelim)).
 
 **(j)** The Court of International Trade shall not have jurisdiction of any civil action arising under section 305 of the Tariff Act of 1930.
 
@@ -70,7 +77,7 @@ Section 515 of the Tariff Act of 1930, referred to in subsec. (a), is classified
 
 Section 516 of the Tariff Act of 1930, referred to in subsec. (b), is classified to [section 1516 of Title 19](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1516&num=0&edition=prelim), Customs Duties.
 
-Sections 516A and 517 of the Tariff Act of 1930, referred to in subsecs. (c) and (i), are classified to sections 1516a and 1517 of Title 19, Customs Duties.
+Sections 516A and 517 of the Tariff Act of 1930, referred to in subsec. (c), are classified to sections 1516a and 1517 of Title 19, Customs Duties.
 
 The Trade Act of 1974, referred to in subsec. (d), is Pub. L. 93–618, Jan. 3, 1975, 88 Stat. 1978, which is classified principally to chapter 12 (§ 2101 et seq.) of Title 19, Customs Duties. Sections 223, 251, 293, and 296 of the Act are classified to sections 2273, 2341, 2401b, and 2401e, respectively, of Title 19. Section 273 of the Act, formerly classified to [section 2371b of Title 19](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section2371b&num=0&edition=prelim), was repealed by Pub. L. 112–40, title II, § 222(a)(1), Oct. 21, 2011, 125 Stat. 411. For complete classification of this Act to the Code, see References in Text note set out under [section 2101 of Title 19](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section2101&num=0&edition=prelim) and Tables.
 
@@ -88,6 +95,10 @@ Section 305 of the Tariff Act of 1930, referred to in subsec. (j), is classified
 A prior section 1581, act June 25, 1948, ch. 646, 62 Stat. 943, related to powers of the Customs Court generally, prior to the general revision of this chapter by Pub. L. 96–417. See [section 1585 of this title](./chapter-095-court-of-international-trade.md#section-1585).
 
 #### Amendments
+2020—Subsec. (i). Pub. L. 116–113, § 423(a)(1)(A), (B), (D), designated existing provisions as par. (1), redesignated former pars. (1) to (4) as subpars. (A) to (D), respectively, of par. (1), added par. (2), and struck out former concluding provisions which read as follows: “This subsection shall not confer jurisdiction over an antidumping or countervailing duty determination which is reviewable either by the Court of International Trade under section 516A(a) of the Tariff Act of 1930 or by a bi­national panel under article 1904 of the North American Free Trade Agreement or the United States-Canada Free-Trade Agreement and section 516A(g) of the Tariff Act of 1930.”
+
+Subsec. (i)(1)(D). Pub. L. 116–113, § 423(a)(1)(C), substituted “subparagraphs (A) through (C) of this paragraph” for “paragraphs (1)–(3) of this subsection”.
+
 2016—Subsec. (c). Pub. L. 114–125 inserted “or 517” after “516A”.
 
 2009—Subsec. (d)(3), (4). Pub. L. 111–5 substituted “273” for “271” in par. (3) and added par. (4).
@@ -104,6 +115,9 @@ Subsec. (i). Pub. L. 103–182, § 414(a)(1), inserted “the North American Fre
 
 Subsec. (g)(2). Pub. L. 98–573 amended par. (2) generally, substituting “any decision of the Secretary of the Treasury to revoke or suspend a customs broker’s license or permit, or impose a monetary penalty in lieu thereof, under section 641(d)(2)(B) of the Tariff Act of 1930” for “any order of the Secretary of the Treasury to revoke or suspend a customhouse broker’s license under section 641(b) of the Tariff Act of 1930”.
 
+#### Effective Date of 2020 Amendment
+Amendment by Pub. L. 116–113 effective on the date on which the USMCA enters into force (July 1, 2020), but not applicable to certain determinations under [section 1516a of Title 19](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1516a&num=0&edition=prelim), Customs Duties, or binational panel reviews under NAFTA, see section 432 of Pub. L. 116–113, set out as a note under [section 1516a of Title 19](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1516a&num=0&edition=prelim).
+
 #### Effective Date of 2016 Amendment
 Amendment by Pub. L. 114–125 effective 180 days after Feb. 24, 2016, see section 421(c) of Pub. L. 114–125, set out as an Effective Date note under [section 1517 of Title 19](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1517&num=0&edition=prelim), Customs Duties.
 
@@ -111,7 +125,7 @@ Amendment by Pub. L. 114–125 effective 180 days after Feb. 24, 2016, see secti
 Except as otherwise provided and subject to certain applicability provisions, amendment by Pub. L. 111–5 effective upon the expiration of the 90-day period beginning on Feb. 17, 2009, see section 1891 of Pub. L. 111–5, set out as an Effective and Termination Dates of 2009 Amendment note under [section 2271 of Title 19](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section2271&num=0&edition=prelim), Customs Duties.
 
 #### Effective Date of 1993 Amendment
-Amendment by section 414(a)(1) of Pub. L. 103–182 effective on the date the North American Free Trade Agreement enters into force with respect to the United States [Jan. 1, 1994], but not applicable to any final determination described in section 1516a(a)(1)(B) or (2)(B)(i), (ii), or (iii) of Title 19, Customs Duties, notice of which is published in the Federal Register before such date, or to a determination described in [section 1516a(a)(2)(B)(vi) of Title 19](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1516a/a/2/B/vi&num=0&edition=prelim), notice of which is received by the Government of Canada or Mexico before such date, or to any binational panel review under the United States-Canada Free-Trade Agreement, or to any extraordinary challenge arising out of any such review, that was commenced before such date, see section 416 of Pub. L. 103–182, set out as an Effective Date note under [section 3431 of Title 19](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section3431&num=0&edition=prelim).
+Amendment by section 414(a)(1) of Pub. L. 103–182 effective on the date the North American Free Trade Agreement enters into force with respect to the United States [Jan. 1, 1994], but not applicable to any final determination described in section 1516a(a)(1)(B) or (2)(B)(i), (ii), or (iii) of Title 19, Customs Duties, notice of which is published in the Federal Register before such date, or to a determination described in [section 1516a(a)(2)(B)(vi) of Title 19](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1516a/a/2/B/vi&num=0&edition=prelim), notice of which is received by the Government of Canada or Mexico before such date, or to any binational panel review under the United States-Canada Free-Trade Agreement, or to any extraordinary challenge arising out of any such review, that was commenced before such date, see section 416 of Pub. L. 103–182, formerly set out as an Effective Date note under former [section 3431 of Title 19](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section3431&num=0&edition=prelim).
 
 #### Effective and Termination Dates of 1988 Amendment
 Amendment by Pub. L. 100–449 effective on date United States-Canada Free-Trade Agreement enters into force (Jan. 1, 1989), and to cease to have effect on date Agreement ceases to be in force, see section 501(a), (c) of Pub. L. 100–449, set out in a note under [section 2112 of Title 19](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section2112&num=0&edition=prelim), Customs Duties.
@@ -125,13 +139,13 @@ Chapter effective Nov. 1, 1980, and applicable with respect to civil actions pen
 Subsecs. (d) and (g) to (i) of this section applicable with respect to civil actions commenced on or after Nov. 1, 1980, see section 701(b)(1)(A) of Pub. L. 96–417.
 
 #### Application of 1993 Amendment
-Pub. L. 103–182, title VI, § 684(b), Dec. 8, 1993, 107 Stat 2219, provided that: “For purposes of applying the amendments made by subsection (a) [amending this section and sections 2631, 2636, 2640, and 2642 of this title], any decision or order of the Customs Service denying, suspending, or revoking the accreditation of a private laboratory on or after the date of the enactment of this Act [Dec. 8, 1993] and before regulations to implement section 499(b) of the Tariff Act of 1930 [[19 U.S.C. 1499(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1499/b&num=0&edition=prelim)] are issued shall be treated as having been denied, suspended, or revoked under such section 499(b).”
+Pub. L. 103–182, title VI, § 684(b), Dec. 8, 1993, 107 Stat 2219, which provided a rule regarding the application of the amendments made by section 684(a) of Pub. L. 103–182 to accreditations of private laboratories, was repealed by Pub. L. 116–113, title VI, § 601, Jan. 29, 2020, 134 Stat. 78, effective on the date the USMCA entered into force (July 1, 2020).
 
 #### Transfer of Functions
 For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim). For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim), as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim).
 
-#### Effect of Termination of NAFTA Country Status
-For provisions relating to effect of termination of NAFTA country status on sections 401 to 416 of Pub. L. 103–182, see [section 3451 of Title 19](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section3451&num=0&edition=prelim), Customs Duties.
+#### Effect of Termination of USMCA Country Status
+For provisions relating to effect of termination of USMCA country status on sections 401 to 432 of Pub. L. 116–113, see [section 4601 of Title 19](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section4601&num=0&edition=prelim), Customs Duties.
 
 
 <a id="section-1582"></a>
@@ -182,7 +196,7 @@ Section applicable with respect to civil actions commenced on or after Nov. 1, 1
 
 
 <a id="section-1584"></a>
-## § 1584. Civil actions under the North American Free Trade Agreement or the United States-Canada Free-Trade Agreement
+## § 1584. Civil actions under the United States-Canada Free-Trade Agreement or the USMCA
 
 The United States Court of International Trade shall have exclusive jurisdiction of any civil action which arises under section 777(f) of the Tariff Act of 1930 and is commenced by the United States to enforce administrative sanctions levied for violation of a protective order or an undertaking.
 
@@ -198,16 +212,21 @@ Section 777(f) of the Tariff Act of 1930, referred to in text, is classified to 
 A prior section 1584, added Pub. L. 96–417, title II, § 201, Oct. 10, 1980, 94 Stat. 1729, provided that if a civil action within the exclusive jurisdiction of the Court of International Trade was commenced in a district court of the United States, the district court, in the interest of justice, was to transfer such civil action to the Court of International Trade, where such action would proceed as if it had been commenced in the Court of International Trade in the first instance, and that if a civil action within the exclusive jurisdiction of a district court, a court of appeals, or the Court of Customs and Patent Appeals was commenced in the Court of International Trade, the Court of International Trade, in the interest of justice, would transfer such civil action to the appropriate district court or court of appeals or to the Court of Customs and Patent Appeals where such action was to proceed as if it had been commenced in such court in the first instance, prior to repeal by Pub. L. 97–164, title I, § 135, Apr. 2, 1982, 96 Stat. 41, effective Oct. 1, 1982.
 
 #### Amendments
+2020—Pub. L. 116–113 substituted “Civil actions under the United States-Canada Free-Trade Agreement or the USMCA” for “Civil actions under the North American Free Trade Agreement or the United States-Canada Free-Trade Agreement” in section catchline.
+
 1993—Pub. L. 103–182 amended section catchline generally, inserting “the North American Free Trade Agreement or”, and in text substituted “section 777(f)” for “section 777(d)”.
 
+#### Effective Date of 2020 Amendment
+Amendment by Pub. L. 116–113 effective on the date on which the USMCA enters into force (July 1, 2020), but not applicable to certain determinations under [section 1516a of Title 19](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1516a&num=0&edition=prelim), Customs Duties, or binational panel reviews under NAFTA, see section 432 of Pub. L. 116–113, set out as a note under [section 1516a of Title 19](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1516a&num=0&edition=prelim).
+
 #### Effective Date of 1993 Amendment
-Amendment by Pub. L. 103–182 effective on the date the North American Free Trade Agreement enters into force with respect to the United States [Jan. 1, 1994], but not applicable to any final determination described in section 1516a(a)(1)(B) or (2)(B)(i), (ii), or (iii) of Title 19, Customs Duties, notice of which is published in the Federal Register before such date, or to a determination described in [section 1516a(a)(2)(B)(vi) of Title 19](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1516a/a/2/B/vi&num=0&edition=prelim), notice of which is received by the Government of Canada or Mexico before such date, or to any binational panel review under the United States-Canada Free-Trade Agreement, or to any extraordinary challenge arising out of any such review that was commenced before such date, see section 416 of Pub. L. 103–182, set out as an Effective Date note under [section 3431 of Title 19](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section3431&num=0&edition=prelim).
+Amendment by Pub. L. 103–182 effective on the date the North American Free Trade Agreement enters into force with respect to the United States [Jan. 1, 1994], but not applicable to any final determination described in section 1516a(a)(1)(B) or (2)(B)(i), (ii), or (iii) of Title 19, Customs Duties, notice of which is published in the Federal Register before such date, or to a determination described in [section 1516a(a)(2)(B)(vi) of Title 19](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1516a/a/2/B/vi&num=0&edition=prelim), notice of which is received by the Government of Canada or Mexico before such date, or to any binational panel review under the United States-Canada Free-Trade Agreement, or to any extraordinary challenge arising out of any such review that was commenced before such date, see section 416 of Pub. L. 103–182, formerly set out as an Effective Date note under former [section 3431 of Title 19](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section3431&num=0&edition=prelim).
 
 #### Effective and Termination Dates
 Section effective on date United States-Canada Free-Trade Agreement enters into force (Jan. 1, 1989), and to cease to have effect on date Agreement ceases to be in force, see section 501(a), (c) of Pub. L. 100–449, set out in a note under [section 2112 of Title 19](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section2112&num=0&edition=prelim), Customs Duties.
 
-#### Effect of Termination of NAFTA Country Status
-For provisions relating to effect of termination of NAFTA country status on sections 401 to 416 of Pub. L. 103–182, see [section 3451 of Title 19](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section3451&num=0&edition=prelim), Customs Duties.
+#### Effect of Termination of USMCA Country Status
+For provisions relating to effect of termination of USMCA country status on sections 401 to 432 of Pub. L. 116–113, see [section 4601 of Title 19](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section4601&num=0&edition=prelim), Customs Duties.
 
 
 <a id="section-1585"></a>

@@ -1645,7 +1645,7 @@ Pub. L. 108–357, title VIII, § 866(c), Oct. 22, 2004, 118 Stat. 1622, provide
 
 (2) **Temporary increase termination date** — For purposes of paragraph (1), the temporary increase termination date is the earlier of—
 
-  (A) December 31, 2018, or
+  (A) December 31, 2021, or
 
   (B) the first December 31 after 2007 as of which there is—
 
@@ -1659,6 +1659,10 @@ Pub. L. 108–357, title VIII, § 866(c), Oct. 22, 2004, 118 Stat. 1622, provide
 For prior section 4121, see Prior Provisions note set out preceding this section.
 
 #### Amendments
+2020—Subsec. (e)(2)(A). Pub. L. 116–260 substituted “December 31, 2021” for “December 31, 2020”.
+
+2019—Subsec. (e)(2)(A). Pub. L. 116–94 substituted “December 31, 2020” for “December 31, 2018”.
+
 2008—Subsec. (e)(2)(A). Pub. L. 110–343, § 113(a)(1), substituted “December 31, 2018” for “January 1, 2014”.
 
 Subsec. (e)(2)(B). Pub. L. 110–343, § 113(a)(2), substituted “December 31 after 2007” for “January 1 after 1981” in introductory provisions.
@@ -1686,6 +1690,12 @@ Subsec. (e). Pub. L. 99–272, § 13203(c), substituted “Reduction in amount o
 “(B) subsection (b) shall be applied by substituting ‘4 percent’ for ‘2 percent’.”
 
 1981—Subsec. (e). Pub. L. 97–119 added subsec. (e).
+
+#### Effective Date of 2020 Amendment
+Pub. L. 116–260, div. EE, title I, § 149(b), Dec. 27, 2020, 134 Stat. 3056, provided that: “The amendment made by this section [amending this section] shall apply to sales after December 31, 2020.”
+
+#### Effective Date of 2019 Amendment
+Pub. L. 116–94, div. Q, title I, § 105(b), Dec. 20, 2019, 133 Stat. 3228, provided that: “The amendment made by this section [amending this section] shall apply on and after the first day of the first calendar month beginning after the date of the enactment of this Act [Dec. 20, 2019].”
 
 #### Effective Date of 1986 Amendments
 Pub. L. 99–514, title XVIII, § 1897(b), Oct. 22, 1986, 100 Stat. 2941, provided that: “The amendment made by subsection (a) [amending this section] shall take effect as if included in the amendment made by section 13203 of the Consolidated Omnibus Budget Reconciliation Act of 1985 [section 13203 of Pub. L. 99–272, see note below].”
@@ -2213,46 +2223,16 @@ Pub. L. 91–128, § 1(a), Nov. 26, 1969, 83 Stat. 261, provided that: “This A
 
 
 <a id="section-4191"></a>
-## § 4191. Medical devices
-**(a) In general** There is hereby imposed on the sale of any taxable medical device by the manufacturer, producer, or importer a tax equal to 2.3 percent of the price for which so sold.
-
-**(b) Taxable medical device** For purposes of this section—
-
-(1) **In general** — The term “taxable medical device” means any device (as defined in section 201(h) of the Federal Food, Drug, and Cosmetic Act) intended for humans.
-
-(2) **Exemptions** — Such term shall not include—
-
-  (A) eyeglasses,
-
-  (B) contact lenses,
-
-  (C) hearing aids, and
-
-  (D) any other medical device determined by the Secretary to be of a type which is generally purchased by the general public at retail for individual use.
-
-**(c) Moratorium** The tax imposed under subsection (a) shall not apply to sales during the period beginning on January 1, 2016, and ending on December 31, 2019.
+## § 4191. Repealed. Pub. L. 116–94, div. N, title I, § 501(a), Dec. 20, 2019, 133 Stat. 3118]
 
 ### Statutory Notes
 
-#### References in Text
-Section 201(h) of the Federal Food, Drug, and Cosmetic Act, referred to in subsec. (b)(1), is classified to [section 321(h) of Title 21](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section321/h&num=0&edition=prelim), Food and Drugs.
+Section, added Pub. L. 111–152, title I, § 1405(a)(1), Mar. 30, 2010, 124 Stat. 1064; amended Pub. L. 114–113, div. Q, title I, § 174(a), Dec. 18, 2015, 129 Stat. 3071; Pub. L. 115–120, div. D, § 4001(a), Jan. 22, 2018, 132 Stat. 38, imposed on the sale of any taxable medical device by the manufacturer, producer, or importer a tax equal to 2.3 percent of the price for which so sold.
 
-#### Prior Provisions
 For prior sections 4191, 4192, 4201, and 4211, see Prior Provisions note set out preceding this section.
 
-#### Amendments
-2018—Subsec. (c). Pub. L. 115–120 substituted “December 31, 2019” for “December 31, 2017”.
-
-2015—Subsec. (c). Pub. L. 114–113 added subsec. (c).
-
-#### Effective Date of 2018 Amendment
-Pub. L. 115–120, div. D, § 4001(b), Jan. 22, 2018, 132 Stat. 38, provided that: “The amendment made by this section [amending this section] shall apply to sales after December 31, 2017.”
-
-#### Effective Date of 2015 Amendment
-Pub. L. 114–113, div. Q, title I, § 174(b), Dec. 18, 2015, 129 Stat. 3072, provided that: “The amendment made by this section [amending this section] shall apply to sales after December 31, 2015.”
-
-#### Effective Date
-Pub. L. 111–152, title I, § 1405(c), Mar. 30, 2010, 124 Stat. 1065, provided that: “The amendments made by this section [enacting this section and amending sections 4221 and 6416 of this title] shall apply to sales after December 31, 2012.”
+#### Effective Date of Repeal
+Repeal applicable to sales after Dec. 31, 2019, see section 501(d) of Pub. L. 116–94, set out as an Effective Date of 2019 Amendment note under [section 4221 of this title](./chapter-032-manufacturers-excise-taxes.md#section-4221).
 
 
 <a id="section-4216"></a>
@@ -2626,7 +2606,7 @@ Repeal effective on first day of first calendar quarter which begins more than 6
 (5) to a nonprofit educational organization for its exclusive use, or
 
 (6) to a qualified blood collector organization (as defined in section 7701(a)(49)) for such organization’s exclusive use in the collection, storage, or transportation of blood,
-but only if such exportation or use is to occur before any other use. Paragraphs (4), (5), and (6) shall not apply to the tax imposed by section 4064. In the case of taxes imposed by section 4051 or 4071, paragraphs (4) and (5) shall not apply on and after October 1, 2022. In the case of the tax imposed by section 4131, paragraphs (3), (4), and (5) shall not apply and paragraph (2) shall apply only if the use of the exported vaccine meets such requirements as the Secretary may by regulations prescribe. In the case of taxes imposed by subchapter C or D, paragraph (6) shall not apply. In the case of the tax imposed by section 4191, paragraphs (3), (4), (5), and (6) shall not apply.
+but only if such exportation or use is to occur before any other use. Paragraphs (4), (5), and (6) shall not apply to the tax imposed by section 4064. In the case of taxes imposed by section 4051 or 4071, paragraphs (4) and (5) shall not apply on and after October 1, 2022. In the case of the tax imposed by section 4131, paragraphs (3), (4), and (5) shall not apply and paragraph (2) shall apply only if the use of the exported vaccine meets such requirements as the Secretary may by regulations prescribe.
 
 **(b) Proof of resale for further manufacture; proof of export** Where an article has been sold free of tax under subsection (a)—
 
@@ -2698,6 +2678,8 @@ Section 1207(b)(1)–(3)(A) of Pub. L. 109–280, which directed the amendment o
 A prior section 4221, act Aug. 16, 1954, ch. 736, 68A Stat. 495, related to exemption for articles taxable as jewelry, prior to repeal by Pub. L. 85–859, § 119(a).
 
 #### Amendments
+2019—Subsec. (a). Pub. L. 116–94 struck out last sentence of concluding provisions which read as follows: “In the case of the tax imposed by section 4191, paragraphs (3), (4), (5), and (6) shall not apply.”
+
 2018—Subsec. (a). Pub. L. 115–141 deleted comma after “section 4051” in concluding provisions.
 
 2015—Subsec. (a). Pub. L. 114–94 substituted “October 1, 2022” for “October 1, 2016” in concluding provisions.
@@ -2818,6 +2800,9 @@ Subsec. (e)(4). Pub. L. 86–418 added par. (4).
 
 Subsec. (d)(5). Pub. L. 86–344 included in definition of “nonprofit educational organization” a school operated as an activity of certain organizations exempt from the income tax and having a regular situs, faculty, curriculum and student body.
 
+#### Effective Date of 2019 Amendment
+Pub. L. 116–94, div. N, title I, § 501(d), Dec. 20, 2019, 133 Stat. 3119, provided that: “The amendments made by this section [amending this section and [section 6416 of this title](./chapter-065-abatements-credits-and-refunds.md#section-6416) and repealing [section 4191 of this title](./chapter-032-manufacturers-excise-taxes.md#section-4191)] shall apply to sales after December 31, 2019.”
+
 #### Effective Date of 2015 Amendment
 Amendment by Pub. L. 114–94 effective Oct. 1, 2016, see section 31102(f) of Pub. L. 114–94, set out as a note under [section 4041 of this title](./chapter-031-retail-excise-taxes.md#section-4041).
 
@@ -2837,7 +2822,7 @@ Amendment by Pub. L. 112–102 effective Apr. 1, 2012, see section 402(f) of Pub
 Amendment by Pub. L. 112–30 effective Oct. 1, 2011, see section 142(f) of Pub. L. 112–30, set out as a note under [section 4041 of this title](./chapter-031-retail-excise-taxes.md#section-4041).
 
 #### Effective Date of 2010 Amendment
-Amendment by Pub. L. 111–152 applicable to sales after Dec. 31, 2012, see section 1405(c) of Pub. L. 111–152, set out as an Effective Date note under [section 4191 of this title](./chapter-032-manufacturers-excise-taxes.md#section-4191).
+Pub. L. 111–152, title I, § 1405(c), Mar. 30, 2010, 124 Stat. 1065, provided that: “The amendments made by this section [enacting [section 4191 of this title](./chapter-032-manufacturers-excise-taxes.md#section-4191) and amending this section and [section 6416 of this title](./chapter-065-abatements-credits-and-refunds.md#section-6416)] shall apply to sales after December 31, 2012.”
 
 #### Effective Date of 2006 Amendment
 Amendment by Pub. L. 109–280 effective Jan. 1, 2007, see section 1207(g)(1) of Pub. L. 109–280, set out as a note under [section 4041 of this title](./chapter-031-retail-excise-taxes.md#section-4041).

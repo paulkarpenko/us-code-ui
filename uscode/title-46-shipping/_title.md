@@ -1,9 +1,9 @@
 ---
 title: 46
 heading: SHIPPING
-positive_law: false
-sections: 967
-chapters: 101
+positive_law: true
+sections: 978
+chapters: 102
 ---
 # Title 46. SHIPPING
 
@@ -83,6 +83,7 @@ chapters: 101
 - 519 — MERCHANT MARINE AWARDS
 - 521 — MISCELLANEOUS
 - 531 — MARITIME SECURITY FLEET
+- 532 — CABLE SECURITY FLEET
 - 533 — CONSTRUCTION RESERVE FUNDS
 - 535 — CAPITAL CONSTRUCTION FUNDS
 - 537 — LOANS AND GUARANTEES

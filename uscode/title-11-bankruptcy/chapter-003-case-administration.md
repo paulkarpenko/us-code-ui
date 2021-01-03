@@ -735,6 +735,24 @@ Amendment by Pub. L. 98–353 effective with respect to cases filed 90 days afte
 
 **(d)** In a case in which the United States trustee serves as trustee, the compensation of the trustee under this section shall be paid to the clerk of the bankruptcy court and deposited by the clerk into the United States Trustee System Fund established by [section 589a of title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section589a&num=0&edition=prelim).
 
+**(e)**
+
+(1) There is established a fund in the Treasury of the United States, to be known as the “Chapter 7 Trustee Fund”, which shall be administered by the Director of the Administrative Office of the United States Courts.
+
+(2) Deposits into the Chapter 7 Trustee Fund under [section 589a(f)(1)(C) of title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section589a/f/1/C&num=0&edition=prelim) shall be available until expended for the purposes described in paragraph (3).
+
+(3) For fiscal years 2021 through 2026, the Chapter 7 Trustee Fund shall be available to pay the trustee serving in a case that is filed under chapter 7 or a case that is converted to a chapter 7 case in the most recent fiscal year (referred to in this subsection as a “chapter 7 case”) the amount described in paragraph (4) for the chapter 7 case in which the trustee has rendered services in that fiscal year.
+
+(4) The amount described in this paragraph shall be the lesser of—
+
+  (A) $60; or
+
+  (B) a pro rata share, for each chapter 7 case, of the fees collected under [section 1930(a)(6) of title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section1930/a/6&num=0&edition=prelim) and deposited to the United States Trustee System Fund under [section 589a(f)(1) of title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section589a/f/1&num=0&edition=prelim), less the amounts specified in section 589a(f)(1)(A) and (B) of title 28.
+
+(5) The payment received by a trustee under paragraph (3) shall be paid in addition to the amount paid under subsection (b).
+
+(6) Not later than September 30, 2021, the Director of the Administrative Office of the United States Courts shall promulgate regulations for the administration of this subsection.
+
 ### Statutory Notes
 
 #### legislative statements
@@ -772,6 +790,8 @@ This subsection provides for reimbursement of actual, necessary expenses. It fur
 The date of the enactment of the Bankruptcy Reform Act of 1994, referred to in subsec. (b)(2), is the date of enactment of Pub. L. 103–394, which was approved Oct. 22, 1994.
 
 #### Amendments
+2021—Subsec. (e). Pub. L. 116–325 added subsec. (e).
+
 2005—Subsec. (a)(1). Pub. L. 109–8, § 1104(b)(1), inserted “an ombudsman appointed under section 333, or” before “a professional person” in introductory provisions.
 
 Pub. L. 109–8, § 232(b), inserted “a consumer privacy ombudsman appointed under section 332,” before “an examiner” in introductory provisions.
@@ -805,6 +825,9 @@ Subsec. (a)(1). Pub. L. 98–353, § 433(2), substituted “nature, the extent, 
 Subsec. (b). Pub. L. 98–353, § 434(a), substituted “$45” for “$20”.
 
 Subsec. (c). Pub. L. 98–353, § 434(b), added subsec. (c).
+
+#### Effective Date of 2021 Amendment
+Pub. L. 116–325, § 3(e), Jan. 12, 2021, 134 Stat. 5088, provided that: “(1) In general.—Except as provided in paragraph (2), the amendments made by this section [amending this section and sections 589a and 1930 of Title 28, Judiciary and Judicial Procedure] shall take effect on the date of enactment of this Act [Jan. 12, 2021]. “(2) Exceptions.—“(A) Compensation of officers.—The amendments made by subsection (c) [amending this section] shall apply to any case filed on or after the date of enactment of this Act—“(i) under chapter 7 of title 11, United States Code; or “(ii)(I) under chapter 11, 12, or 13 of that title; and “(II) converted to a chapter 7 case under that title. “(B) Bankruptcy fees.—The amendments made by subsection (d) [amending [section 1930 of Title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section1930&num=0&edition=prelim)] shall apply to—“(i) any case pending under chapter 11 of title 11, United States Code, on or after the date of enactment of this Act; and “(ii) quarterly fees payable under [section 1930(a)(6) of title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section1930/a/6&num=0&edition=prelim), United States Code, as amended by subsection (d), for disbursements made in any calendar quarter that begins on or after the date of enactment of this Act.”
 
 #### Effective Date of 2005 Amendment
 Amendment by Pub. L. 109–8 effective 180 days after Apr. 20, 2005, and not applicable with respect to cases commenced under this title before such effective date, except as otherwise provided, see section 1501 of Pub. L. 109–8, set out as a note under [section 101 of this title](./chapter-001-general-provisions.md#section-101).
@@ -1296,7 +1319,7 @@ Amendment by Pub. L. 98–353 effective with respect to cases filed 90 days afte
 ## § 347. Unclaimed property
 **(a)** Ninety days after the final distribution under section 726, 1194, 1226, or 1326 of this title in a case under chapter 7, subchapter V of chapter 11, 12, or 13 11 So in original. See 2019 Amendment note below. of this title, as the case may be, the trustee shall stop payment on any check remaining unpaid, and any remaining property of the estate shall be paid into the court and disposed of under chapter 129 of title 28.
 
-**(b)** Any security, money, or other property remaining unclaimed at the expiration of the time allowed in a case under chapter 9, 11, or 12 of this title for the presentation of a security or the performance of any other act as a condition to participation in the distribution under any plan confirmed under section 943(b), 1129, 1173, 1194, or 1225 of this title, as the case may be, becomes the property of the debtor or of the entity acquiring the assets of the debtor under the plan, as the case may be.
+**(b)** Any security, money, or other property remaining unclaimed at the expiration of the time allowed in a case under chapter 9, 11, or 12 of this title for the presentation of a security or the performance of any other act as a condition to participation in the distribution under any plan confirmed under section 943(b), 1129, 1173, 1191, or 1225 of this title, as the case may be, becomes the property of the debtor or of the entity acquiring the assets of the debtor under the plan, as the case may be.
 
 ### Statutory Notes
 
@@ -1309,6 +1332,8 @@ Section 347 is derived from Bankruptcy Act § 66 [section 106 of former title 11
 Subsection (b) specifies that any property remaining unclaimed at the expiration of the time allowed in a chapter 9 or 11 case for presentation (exchange) of securities or the performance of any other act as a condition to participation in the plan reverts to the debtor or the entity acquiring the assets of the debtor under the plan. Conditions to participation under a plan include such acts as cashing a check, surrendering securities for cancellation, and so on. Similar provisions are found in sections 96(d) and 205 of current law [sections 416(d) and 605 of former title 11].
 
 #### Amendments
+2020—Subsec. (b). Pub. L. 116–136 substituted “1191” for “1194”.
+
 2019—Subsec. (a). Pub. L. 116–54, § 4(a)(5)(A), inserted “1194,” after “726,” and “subchapter V of chapter 11,” after “chapter 7,”.
 
 Subsec. (b). Pub. L. 116–54, § 4(a)(5)(B), inserted “1194,” after “1173,”.
@@ -1710,9 +1735,15 @@ Amendment by Pub. L. 98–353 effective with respect to cases filed 90 days afte
 
 (26) under subsection (a), of the setoff under applicable nonbankruptcy law of an income tax refund, by a governmental unit, with respect to a taxable period that ended before the date of the order for relief against an income tax liability for a taxable period that also ended before the date of the order for relief, except that in any case in which the setoff of an income tax refund is not permitted under applicable nonbankruptcy law because of a pending action to determine the amount or legality of a tax liability, the governmental unit may hold the refund pending the resolution of the action, unless the court, on the motion of the trustee and after notice and a hearing, grants the taxing authority adequate protection (within the meaning of section 361) for the secured claim of such authority in the setoff under section 506(a);
 
-(27) under subsection (a) of this section, of the exercise by a master netting agreement participant of any contractual right (as defined in section 555, 556, 559, or 560) under any security agreement or arrangement or other credit enhancement forming a part of or related to any master netting agreement, or of any contractual right (as defined in section 555, 556, 559, or 560) to offset or net out any termination value, payment amount, or other transfer obligation arising under or in connection with 1 or more such master netting agreements to the extent that such participant is eligible to exercise such rights under paragraph (6), (7), or (17) for each individual contract covered by the master netting agreement in issue; and
+(27) under subsection (a) of this section, of the exercise by a master netting agreement participant of any contractual right (as defined in section 555, 556, 559, or 560) under any security agreement or arrangement or other credit enhancement forming a part of or related to any master netting agreement, or of any contractual right (as defined in section 555, 556, 559, or 560) to offset or net out any termination value, payment amount, or other transfer obligation arising under or in connection with 1 or more such master netting agreements to the extent that such participant is eligible to exercise such rights under paragraph (6), (7), or (17) for each individual contract covered by the master netting agreement in issue;
 
-(28) under subsection (a), of the exclusion by the Secretary of Health and Human Services of the debtor from participation in the medicare program or any other Federal health care program (as defined in section 1128B(f) of the Social Security Act pursuant to title XI or XVIII of such Act).
+(28) under subsection (a), of the exclusion by the Secretary of Health and Human Services of the debtor from participation in the medicare program or any other Federal health care program (as defined in section 1128B(f) of the Social Security Act pursuant to title XI or XVIII of such Act); and
+
+(29) under subsection (a)(1) of this section, of any action by—
+
+  (A) an amateur sports organization, as defined in [section 220501(b) of title 36](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title36-section220501/b&num=0&edition=prelim), to replace a national governing body, as defined in that section, under section 220528 of that title; or
+
+  (B) the corporation, as defined in [section 220501(b) of title 36](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title36-section220501/b&num=0&edition=prelim), to revoke the certification of a national governing body, as defined in that section, under section 220521 of that title.
 The provisions of paragraphs (12) and (13) of this subsection shall apply with respect to any such petition filed on or before December 31, 1989.
 
 **(c)** Except as provided in subsections (d), (e), (f), and (h) of this section—
@@ -1989,6 +2020,8 @@ The Internal Revenue Code of 1986, referred to in subsec. (b)(19), is classified
 Section 408(b)(1) of the Employee Retirement Income Security Act of 1974, referred to in subsec. (b)(19)(A), is classified to [section 1108(b)(1) of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1108/b/1&num=0&edition=prelim), Labor.
 
 #### Amendments
+2020—Subsec. (b)(29). Pub. L. 116–189 added par. (29).
+
 2010—Subsec. (a)(8). Pub. L. 111–327, § 2(a)(12)(A), substituted “tax liability of a debtor that is a corporation” for “corporate debtor’s tax liability”.
 
 Subsec. (c)(3). Pub. L. 111–327, § 2(a)(12)(B)(i), inserted “a” after “against” in introductory provisions.
@@ -2446,6 +2479,19 @@ Pub. L. 109–8, title XII, § 1221(e), Apr. 20, 2005, 119 Stat. 196, provided t
 
 ### Statutory Notes
 
+#### Amendment of Section and Termination of Amendment
+Pub. L. 116–260, div. N, title III, § 320(a), (f)(1), Dec. 27, 2020, 134 Stat. 2015, 2016, provided that, effective on the date on which the Administrator of the Small Business Administration submits to the Director of the Executive Office for United States Trustees a written determination that, subject to satisfying any other eligibility requirements, any debtor in possession or trustee that is authorized to operate the business of the debtor under section 1183, 1184, 1203, 1204, or 1304 of this title would be eligible for a loan under paragraphs (36) and (37) of [section 636(a) of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section636/a&num=0&edition=prelim), Commerce and Trade, and applicable to any case pending on or commenced on or after such effective date, this section is amended by adding at the end the following:
+
+(g)(1) The court, after notice and a hearing, may authorize a debtor in possession or a trustee that is authorized to operate the business of the debtor under section 1183, 1184, 1203, 1204, or 1304 of this title to obtain a loan under paragraph (36) or (37) of section 7(a) of the Small Business Act ([15 U.S.C. 636(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section636/a&num=0&edition=prelim)), and such loan shall be treated as a debt to the extent the loan is not forgiven in accordance with section 7A of the Small Business Act or subparagraph (J) of such paragraph (37), as applicable, with priority equal to a claim of the kind specified in subsection (c)(1) of this section.
+
+(2) The trustee may incur debt described in paragraph (1) notwithstanding any provision in a contract, prior order authorizing the trustee to incur debt under this section, prior order authorizing the trustee to use cash collateral under section 363, or applicable law that prohibits the debtor from incurring additional debt.
+
+(3) The court shall hold a hearing within 7 days after the filing and service of the motion to obtain a loan described in paragraph (1). Notwithstanding the Federal Rules of Bankruptcy Procedure, at such hearing, the court may grant relief on a final basis.
+
+Pub. L. 116–260, div. N, title III, § 320(f)(2), Dec. 27, 2020, 134 Stat. 2016, provided that, if the amendment made to this section by Pub. L. 116–260, § 320(a), takes effect, effective on the date that is 2 years after Dec. 27, 2020, with provisions relating to applicability to cases commenced before such date, this section is amended by striking subsection (g).
+
+See 2020 Amendment notes below.
+
 #### legislative statements
 Section 364(f) of the House amendment is new. This provision continues the exemption found in section 3(a)(7) of the Securities Act of 1933 [[15 U.S.C. 77c(a)(7)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section77c/a/7&num=0&edition=prelim)] for certificates of indebtedness issued by a trustee in bankruptcy. The exemption applies to any debt security issued under [section 364 of title 11](./chapter-003-case-administration.md#section-364). The section does not intend to change present law which exempts such securities from the Trust Indenture Act, [15 U.S.C. 77aaa](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section77aaa&num=0&edition=prelim), et seq. (1976).
 
@@ -2470,6 +2516,16 @@ Section 5 of the Securities Act of 1933, referred to in subsec. (f), is classifi
 The Trust Indenture Act of 1939, referred to in subsec. (f), is title III of act May 27, 1933, ch. 38, as added Aug. 3, 1939, ch. 411, 53 Stat. 1149, as amended, which is classified generally to subchapter III (§ 77aaa et seq.) of chapter 2A of Title 15. For complete classification of this Act to the Code, see [section 77aaa of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section77aaa&num=0&edition=prelim) and Tables.
 
 #### Amendments
+2020—Subsec. (g). Pub. L. 116–260, § 320(f)(2)(A)(i), contingent on its addition by Pub. L. 116–260, § 320(a), struck out subsec. (g) which read as follows:
+
+“(g)(1) The court, after notice and a hearing, may authorize a debtor in possession or a trustee that is authorized to operate the business of the debtor under section 1183, 1184, 1203, 1204, or 1304 of this title to obtain a loan under paragraph (36) or (37) of section 7(a) of the Small Business Act ([15 U.S.C. 636(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section636/a&num=0&edition=prelim)), and such loan shall be treated as a debt to the extent the loan is not forgiven in accordance with section 7A of the Small Business Act or subparagraph (J) of such paragraph (37), as applicable, with priority equal to a claim of the kind specified in subsection (c)(1) of this section.
+
+“(2) The trustee may incur debt described in paragraph (1) notwithstanding any provision in a contract, prior order authorizing the trustee to incur debt under this section, prior order authorizing the trustee to use cash collateral under section 363, or applicable law that prohibits the debtor from incurring additional debt.
+
+“(3) The court shall hold a hearing within 7 days after the filing and service of the motion to obtain a loan described in paragraph (1). Notwithstanding the Federal Rules of Bankruptcy Procedure, at such hearing, the court may grant relief on a final basis.”
+
+Pub. L. 116–260, § 320(a), added subsec. (g).
+
 2019—Subsec. (a). Pub. L. 116–54 inserted “1183, 1184,” after “1108,”.
 
 1994—Subsec. (a). Pub. L. 103–394, § 501(d)(9)(A), substituted “1203, 1204, or 1304” for “1304, 1203, or 1204”.
@@ -2477,6 +2533,9 @@ The Trust Indenture Act of 1939, referred to in subsec. (f), is title III of act
 Subsec. (f). Pub. L. 103–394, § 501(d)(9)(B), struck out “([15 U.S.C. 77e](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section77e&num=0&edition=prelim))” after “Act of 1933” and “([15 U.S.C. 77aaa](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section77aaa&num=0&edition=prelim) et seq.)” after “Act of 1939”.
 
 1986—Subsec. (a). Pub. L. 99–554 inserted reference to sections 1203 and 1204 of this title.
+
+#### Effective and Termination Dates of 2020 Amendment
+Pub. L. 116–260, div. N, title III, § 320(f), Dec. 27, 2020, 134 Stat. 2016, provided that: “(1) Effective date.—The amendments made by subsections (a) through (e) [amending this section and sections 503, 1191, 1225, and 1325 of this title] shall—“(A) take effect on the date on which the Administrator [of the Small Business Administration] submits to the Director of the Executive Office for United States Trustees a written determination that, subject to satisfying any other eligibility requirements, any debtor in possession or trustee that is authorized to operate the business of the debtor under section 1183, 1184, 1203, 1204, or 1304 of title 11, United States Code, would be eligible for a loan under paragraphs (36) and (37) of section 7(a) of the Small Business Act ([15 U.S.C. 636(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section636/a&num=0&edition=prelim)); and “(B) apply to any case pending on or commenced on or after the date described in subparagraph (A). “(2) Sunset.—“(A) In general.—If the amendments made by subsections (a) through (e) take effect under paragraph (1), effective on the date that is 2 years after the date of enactment of this Act [Dec. 27, 2020]—“(i) [section 364 of title 11](./chapter-003-case-administration.md#section-364), United States Code, is amended by striking subsection (g); “(ii) [section 503(b) of title 11](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title11-section503/b&num=0&edition=prelim), United States Code, is amended—“(I) in paragraph (8)(B), by adding ‘and’ at the end; “(II) in paragraph (9), by striking ‘; and’ at the end and inserting a period; and “(III) by striking paragraph (10); “(iii) [section 1191 of title 11](./chapter-011-reorganization.md#section-1191), United States Code, is amended by striking subsection (f); “(iv) [section 1225 of title 11](./chapter-012-adjustment-of-debts-of-a-family-farmer-or-fisherman-with-regular-annual-income.md#section-1225), United States Code, is amended by striking subsection (d); and “(v) [section 1325 of title 11](./chapter-013-adjustment-of-debts-of-an-individual-with-regular-income.md#section-1325), United States Code, is amended by striking subsection (d). “(B) Applicability.—Notwithstanding the amendments made by subparagraph (A) of this paragraph, if the amendments made by subsections (a) through (e) take effect under paragraph (1) of this subsection, such amendments shall apply to any case under title 11, United States Code, commenced before the date that is 2 years after the date of enactment of this Act [Dec. 27, 2020].”
 
 #### Effective Date of 2019 Amendment
 Amendment by Pub. L. 116–54 effective 180 days after Aug. 23, 2019, see section 5 of Pub. L. 116–54, set out as a note under [section 101 of this title](./chapter-001-general-provisions.md#section-101).
@@ -2542,19 +2601,29 @@ Amendment by Pub. L. 99–554 effective 30 days after Oct. 27, 1986, but not app
 
 (2) In a case under chapter 9, 11, 12, or 13 of this title, the trustee may assume or reject an executory contract or unexpired lease of residential real property or of personal property of the debtor at any time before the confirmation of a plan but the court, on the request of any party to such contract or lease, may order the trustee to determine within a specified period of time whether to assume or reject such contract or lease.
 
-(3) The trustee shall timely perform all the obligations of the debtor, except those specified in section 365(b)(2), arising from and after the order for relief under any unexpired lease of nonresidential real property, until such lease is assumed or rejected, notwithstanding [section 503(b)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title11-section503/b/1&num=0&edition=prelim). The court may extend, for cause, the time for performance of any such obligation that arises within 60 days after the date of the order for relief, but the time for performance shall not be extended beyond such 60-day period. This subsection shall not be deemed to affect the trustee’s obligations under the provisions of subsection (b) or (f) of this section. Acceptance of any such performance does not constitute waiver or relinquishment of the lessor’s rights under such lease or under this title.
+(3)
+
+  (A) The trustee shall timely perform all the obligations of the debtor, except those specified in section 365(b)(2), arising from and after the order for relief under any unexpired lease of nonresidential real property, until such lease is assumed or rejected, notwithstanding [section 503(b)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title11-section503/b/1&num=0&edition=prelim). The court may extend, for cause, the time for performance of any such obligation that arises within 60 days after the date of the order for relief, but the time for performance shall not be extended beyond such 60-day period, except as provided in subparagraph (B). This subsection shall not be deemed to affect the trustee’s obligations under the provisions of subsection (b) or (f) of this section. Acceptance of any such performance does not constitute waiver or relinquishment of the lessor’s rights under such lease or under this title.
+
+  (B) In a case under subchapter V of chapter 11, the time for performance of an obligation described in subparagraph (A) arising under any unexpired lease of nonresidential real property may be extended by the court if the debtor is experiencing or has experienced a material financial hardship due, directly or indirectly, to the coronavirus disease 2019 (COVID–19) pandemic until the earlier of—
+
+    (i) the date that is 60 days after the date of the order for relief, which may be extended by the court for an additional period of 60 days if the court determines that the debtor is continuing to experience a material financial hardship due, directly or indirectly, to the coronavirus disease 2019 (COVID–19) pandemic; or
+
+    (ii) the date on which the lease is assumed or rejected under this section.
+
+  (C) An obligation described in subparagraph (A) for which an extension is granted under subparagraph (B) shall be treated as an administrative expense described in section 507(a)(2) for the purpose of section 1191(e).
 
 (4)
 
   (A) Subject to subparagraph (B), an unexpired lease of nonresidential real property under which the debtor is the lessee shall be deemed rejected, and the trustee shall immediately surrender that nonresidential real property to the lessor, if the trustee does not assume or reject the unexpired lease by the earlier of—
 
-    (i) the date that is 120 days after the date of the order for relief; or
+    (i) the date that is 210 days after the date of the order for relief; or
 
     (ii) the date of the entry of an order confirming a plan.
 
   (B)
 
-    (i) The court may extend the period determined under subparagraph (A), prior to the expiration of the 120-day period, for 90 days on the motion of the trustee or lessor for cause.
+    (i) The court may extend the period determined under subparagraph (A), prior to the expiration of the 210-day period, for 90 days on the motion of the trustee or lessor for cause.
 
     (ii) If the court grants an extension under clause (i), the court may grant a subsequent extension only upon prior written consent of the lessor in each instance.
 
@@ -2708,6 +2777,21 @@ Amendment by Pub. L. 99–554 effective 30 days after Oct. 27, 1986, but not app
 
 ### Statutory Notes
 
+#### Amendment of Subsection (d)
+Pub. L. 116–260, div. FF, title X, § 1001(f)(2)(A), Dec. 27, 2020, 134 Stat. 3219, provided that, effective on the date that is 2 years after Dec. 27, 2020, subsection (d) of this section is amended:
+
+(1) in paragraph (3)—
+
+(A) by striking “(A)” after “(3)”;
+
+(B) by striking “, except as provided in subparagraph (B)” after “such 60-day period”; and
+
+(C) by striking subparagraphs (B) and (C); and
+
+(2) in paragraph (4), by striking “210” each place it appears and inserting “120”.
+
+See 2020 Amendment notes below.
+
 #### legislative statements
 Section 365(b)(3) represents a compromise between H.R. 8200 as passed by the House and the Senate amendment. The provision adopts standards contained in section 365(b)(5) of the Senate amendment to define adequate assurance of future performance of a lease of real property in a shopping center.
 
@@ -2772,6 +2856,14 @@ A shopping center is often a carefully planned enterprise, and though it consist
 This subsection does not limit the application of an ipso facto or bankruptcy clause to a new insolvency or receivership after the bankruptcy case is closed. That is, the clause is not invalidated in toto, but merely made inapplicable during the case for the purpose of disposition of the executory contract or unexpired lease.
 
 #### Amendments
+2020—Subsec. (d)(3). Pub. L. 116–260, § 1001(f)(2)(A)(i), struck out subpar. (A) designation before “The trustee”, “, except as provided in subparagraph (B)” after “such 60-day period” and subpars. (B) and (C). Prior to amendment, subpars. (B) and (C) related to extension of time for performance in case under subchapter V of chapter 11 where there was financial hardship due, directly or indirectly, to the coronavirus disease 2019 (COVID–19) pandemic and treatment of obligation as certain administrative expense, respectively.
+
+Pub. L. 116–260, § 1001(f)(1)(A), designated existing provisions as subpar. (A), inserted “, except as provided in subparagraph (B)” after “such 60-day period” and added subpars. (B) and (C).
+
+Subsec. (d)(4). Pub. L. 116–260, § 1001(f)(2)(A)(ii), substituted “120” for “210” in two places.
+
+Pub. L. 116–260, § 1001(f)(1)(B), substituted “210” for “120” in two places.
+
 2005—Subsec. (b)(1)(A). Pub. L. 109–8, § 328(a)(1)(A), inserted before semicolon at end “other than a default that is a breach of a provision relating to the satisfaction of any provision (other than a penalty rate or penalty provision) relating to a default arising from any failure to perform nonmonetary obligations under an unexpired lease of real property, if it is impossible for the trustee to cure such default by performing nonmonetary acts at and after the time of assumption, except that if such default arises from a failure to operate in accordance with a nonresidential real property lease, then such default shall be cured by performance at and after the time of assumption in accordance with such lease, and pecuniary losses resulting from such default shall be compensated in accordance with the provisions of this paragraph”.
 
 Subsec. (b)(2)(D). Pub. L. 109–8, § 328(a)(1)(B), substituted “penalty rate or penalty provision” for “penalty rate or provision”.
@@ -2856,6 +2948,11 @@ Subsec. (i)(1). Pub. L. 98–353, § 404, amended par. (1) generally, inserting 
 
 Subsecs. (l), (m). Pub. L. 98–353, § 362(b), added subsecs. (l) and (m).
 
+#### Effective Date of 2020 Amendment
+Pub. L. 116–260, div. FF, title X, § 1001(f)(2)(A), Dec. 27, 2020, 134 Stat. 3219, provided that the amendment made by section 1001(f)(2)(A) is effective on the date that is 2 years after Dec. 27, 2020.
+
+Pub. L. 116–260, div. FF, title X, § 1001(f)(2)(B), Dec. 27, 2020, 134 Stat. 3219, provided that: “Notwithstanding the amendments made by subparagraph (A) [amending this section], the amendments made by paragraph (1) [amending this section] shall apply in any case commenced under subchapter V of chapter 11 of title 11, United States Code, before the date that is 2 years after the date of enactment of this Act [Dec. 27. 2020].”
+
 #### Effective Date of 2005 Amendment
 Amendment by Pub. L. 109–8 effective 180 days after Apr. 20, 2005, and not applicable with respect to cases commenced under this title before such effective date, except as otherwise provided, see section 1501 of Pub. L. 109–8, set out as a note under [section 101 of this title](./chapter-001-general-provisions.md#section-101).
 
@@ -2922,7 +3019,18 @@ Pub. L. 102–365, § 19(a), Sept. 2, 1992, 106 Stat. 982, provided that: “Con
 
 (4) Notwithstanding any other provision of law, with respect to a case subject to this subsection, a utility may recover or set off against a security deposit provided to the utility by the debtor before the date of the filing of the petition without notice or order of the court.
 
+**(d)** Notwithstanding any other provision of this section, a utility may not alter, refuse, or discontinue service to a debtor who does not furnish adequate assurance of payment under this section if the debtor—
+
+(1) is an individual;
+
+(2) makes a payment to the utility for any debt owed to the utility for service provided during the 20-day period beginning on the date of the order for relief; and
+
+(3) after the date on which the 20-day period beginning on the date of the order for relief ends, makes a payment to the utility for services provided during the pendency of case when such a payment becomes due.
+
 ### Statutory Notes
+
+#### Amendment of Subsection (d)
+Pub. L. 116–260, div. FF, title X, § 1001(h)(2), Dec. 27, 2020, 134 Stat. 3221, provided that, effective on the date that is 1 year after Dec. 27, 2020, this section is amended by striking subsection (d). See 2020 Amendment note below.
 
 #### legislative statements
 Section 366 of the House amendment represents a compromise between comparable provisions contained in H.R. 8200 as passed by the House and the Senate amendment. Subsection (a) is modified so that the applicable date is the date of the order for relief rather than the date of the filing of the petition. Subsection (b) contains a similar change but is otherwise derived from section 366(b) of the Senate amendment, with the exception that a time period for continued service of 20 days rather than 10 days is adopted.
@@ -2931,11 +3039,24 @@ Section 366 of the House amendment represents a compromise between comparable pr
 This section gives debtors protection from a cut-off of service by a utility because of the filing of a bankruptcy case. This section is intended to cover utilities that have some special position with respect to the debtor, such as an electric company, gas supplier, or telephone company that is a monopoly in the area so that the debtor cannot easily obtain comparable service from another utility. The utility may not alter, refuse, or discontinue service because of the nonpayment of a bill that would be discharged in the bankruptcy case. Subsection (b) protects the utility company by requiring the trustee or the debtor to provide, within ten days, adequate assurance of payment for service provided after the date of the petition.
 
 #### Amendments
+2020—Subsec. (d). Pub. L. 116–260, § 1001(h)(2), struck out subsec. (d) which read as follows: “Notwithstanding any other provision of this section, a utility may not alter, refuse, or discontinue service to a debtor who does not furnish adequate assurance of payment under this section if the debtor—
+
+“(1) is an individual;
+
+“(2) makes a payment to the utility for any debt owed to the utility for service provided during the 20-day period beginning on the date of the order for relief; and
+
+“(3) after the date on which the 20-day period beginning on the date of the order for relief ends, makes a payment to the utility for services provided during the pendency of case when such a payment becomes due.”
+
+Pub. L. 116–260, § 1001(h)(1), added subsec. (d).
+
 2005—Subsec. (a). Pub. L. 109–8, § 417(1), substituted “subsections (b) and (c)” for “subsection (b)”.
 
 Subsec. (c). Pub. L. 109–8, § 417(2), added subsec. (c).
 
 1984—Subsec. (a). Pub. L. 98–353 inserted “of the commencement of a case under this title or” after “basis”.
+
+#### Effective Date of 2020 Amendment
+Pub. L. 116–260, div. FF, title X, § 1001(h)(2), Dec. 27, 2020, 134 Stat. 3221, provided that the amendment made by section 1001(h)(2) is effective on the date that is 1 year after Dec. 27, 2020.
 
 #### Effective Date of 2005 Amendment
 Amendment by Pub. L. 109–8 effective 180 days after Apr. 20, 2005, and not applicable with respect to cases commenced under this title before such effective date, except as otherwise provided, see section 1501 of Pub. L. 109–8, set out as a note under [section 101 of this title](./chapter-001-general-provisions.md#section-101).

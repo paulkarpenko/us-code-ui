@@ -13,7 +13,7 @@ For the purpose of this title—
 
 (1) the “civil service” consists of all appointive positions in the executive, judicial, and legislative branches of the Government of the United States, except positions in the uniformed services;
 
-(2) “armed forces” means the Army, Navy, Air Force, Marine Corps, and Coast Guard; and
+(2) “armed forces” means the Army, Navy, Air Force, Marine Corps, Space Force, and Coast Guard; and
 
 (3) “uniformed services” means the armed forces, the commissioned corps of the Public Health Service, and the commissioned corps of the National Oceanic and Atmospheric Administration.
 
@@ -26,6 +26,8 @@ The section is supplied to establish basis of reference to employees in this tit
 This section amends various sections [§§ 2101, 4102, 4109, 5541, 8101] of title 5, United States Code, to reflect 1965 Reorganization Plan No. 2 (79 Stat. 1318), effective July 13, 1965, which consolidated the Coast and Geodetic Survey and the Weather Bureau to form a new agency in the Department of Commerce to be known as the Environmental Science Services Administration.
 
 #### Amendments
+2021—Par. (2). Pub. L. 116–283 inserted “Space Force,” after “Marine Corps”.
+
 1979—Par. (3). Pub. L. 96–54 substituted “National Oceanic and Atmospheric” for “Environmental Science Services”.
 
 #### Effective Date of 1979 Amendment

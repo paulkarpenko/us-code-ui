@@ -7,89 +7,39 @@ source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33&num=0&edition=prelim
 ---
 <a id="section-1051-to-1053-1061-to-1094"></a>
-## § 1051 to 1053, 1061 to 1094. Repealed. Pub. L. 95–75, § 10, July 27, 1977, 91 Stat. 311
+## § 1051 to 1053, 1061 to 1094. Omitted
 
 ### Statutory Notes
 
-Section 1051, Pub. L. 88–131, § 1, Sept. 24, 1963, 77 Stat. 194, authorized the President to proclaim the International Regulations for Preventing Collisions at Sea. See [section 1602 of this title](./chapter-030-international-regulations-for-preventing-collisions-at-sea.md#section-1602).
+#### Codification
+Sections 1151 to 1165 of this title were omitted as superseded by Pub. L. 92–500, § 2, Oct. 18, 1972, 86 Stat. 816. See section 1251 et seq. of this title.
 
-Section 1052, Pub. L. 88–131, § 2, Sept. 24, 1963, 77 Stat. 194, provided for certification for alternative compliance covering Navy and Coast Guard vessels of special construction or purpose. See [section 1605 of this title](./chapter-030-international-regulations-for-preventing-collisions-at-sea.md#section-1605).
+Section 1151, acts June 30, 1948, ch. 758, § 1, 62 Stat. 1155; July 9, 1956, ch. 518, § 1, 70 Stat. 498; July 20, 1961, Pub. L. 87–88, § 1(a), 75 Stat. 204; Oct. 2, 1965, Pub. L. 89–234, § 1(a), 79 Stat. 903; 1966 Reorg. Plan No. 2, §§ 1(a), (e)(1), 5, eff. May 10, 1966, 31 F.R. 6857, 80 Stat. 1608; 1970 Reorg. Plan No. 3, § 2(a)(1), eff. Dec. 2, 1970, 35 F.R. 15623, 84 Stat. 2087, related to Congressional declaration of policy in controlling water pollution.
 
-Section 1053, Pub. L. 88–131, § 4, Sept. 24, 1963, 77 Stat. 195, constituted an introductory statement for the regulations. See [section 1602 of this title](./chapter-030-international-regulations-for-preventing-collisions-at-sea.md#section-1602).
+Section 1152, act June 30, 1948, ch. 758, § 2, as added Oct. 2, 1965, Pub. L. 89–234, § 2(a), 79 Stat. 903; amended 1966 Reorg. Plan No. 2, § 1(a), (b), eff. May 10, 1966, 31 F.R. 6857, 80 Stat. 1608; Apr. 3, 1970, Pub. L. 91–224, title I, § 110(a), 84 Stat. 113, created within the Department of the Interior a Federal Water Quality Administration. Reorg. Plan No. 3 of 1970, §§ 1, 2(a)(1), 6(a)(1), eff. Dec. 2, 1970, 35 F.R. 15623, 84 Stat. 2086, 2087, 2089, created Environmental Protection Agency, abolished Federal Water Quality Administration in Department of the Interior, and transferred to Administrator of Environmental Protection Agency all functions vested by law in Secretary of the Interior and Department of the Interior which had been administered through Federal Water Quality Administration.
 
-Section 1061, Pub. L. 88–131, § 4, Sept. 24, 1963, 77 Stat. 195, generally described the scope of sections 1061 to 1094.
+Section 1153, acts June 30, 1948, ch. 758, § 3, formerly § 2, 62 Stat. 1155; July 9, 1956, ch. 518, § 1, 70 Stat. 498; July 20, 1961, Pub. L. 87–88, §§ 1(b), 2, 75 Stat. 204; renumbered Oct. 2, 1965, Pub. L. 89–234, § 2(a), 79 Stat. 903; amended Nov. 3, 1966, Pub. L. 89–753, title I, § 101, 80 Stat. 1246; 1970 Reorg. Plan No. 3, § 2(a)(1), eff. Dec. 2, 1970, 35 F.R. 15623, 84 Stat. 2086, related to preparation and development of comprehensive water pollution programs.
 
-Section 1062, Pub. L. 88–131, § 4, Sept. 24, 1963, 77 Stat. 196, set out the requirements for vessels while under way.
+Section 1154, acts June 30, 1948, ch. 758, § 4, formerly § 3, 62 Stat. 1157; July 9, 1956, ch. 518, § 1, 70 Stat. 498; July 20, 1961, Pub. L. 87–88, § 1(b), 75 Stat. 204; renumbered Oct. 2, 1965, Pub. L. 89–234, § 2(a), 79 Stat. 903; 1970 Reorg. Plan No. 3, § 2(a)(1), eff. Dec. 2, 1970, 35 F.R. 15623, 84 Stat. 2086, related to interstate cooperation for prevention and control of water pollution.
 
-Section 1063, Pub. L. 88–131, § 4, Sept. 24, 1963, 77 Stat. 197, set the requirements for towing or pushing other vessels or seaplanes.
+Section 1155, acts June 30, 1948, ch. 758, § 5, formerly § 4, 62 Stat. 1158; July 9, 1956, ch. 518, § 1, 70 Stat. 499; July 20, 1961, Pub. L. 87–88, §§ 1(b), (c), 3, 75 Stat. 204, 205; renumbered Oct. 2, 1965, Pub. L. 89–234, § 2(a), 79 Stat. 903; amended 1966 Reorg. Plan No. 2, § 1(a), eff. May 10, 1966, 31 F.R. 6857, 80 Stat. 1608; Nov. 3, 1966, Pub. L. 89–753, title II, § 201(b), (c)(1), 80 Stat. 1247; Apr. 3, 1970, Pub. L. 91–224, title I, § 105, 84 Stat. 111; 1970 Reorg. Plan No. 3, § 2(a)(1), eff. Dec. 2, 1970, 35 F.R. 15623, 84 Stat. 2086; Oct. 13, 1971, Pub. L. 92–137, § 1, 85 Stat. 379; Mar. 1, 1972, Pub. L. 92–240, § 1, 86 Stat. 47, related to research, investigations, experiments, demonstrations, and studies in prevention and control of water pollution.
 
-Section 1064, Pub. L. 88–131, § 4, Sept. 24, 1963, 77 Stat. 197, related to vessels and seaplanes not under command, and vessels engaged in certain operations.
+Section 1156, act June 30, 1948, ch. 758, § 6, as added Oct. 2, 1965, Pub. L. 89–234, § 3, 79 Stat. 905; amended Nov. 3, 1966, Pub. L. 89–753, title II, § 201(a), 80 Stat. 1246; Apr. 3, 1970, Pub. L. 91–224, title I, § 106, 84 Stat. 113; 1970 Reorg. Plan No. 3, § 2(a)(1), eff. Dec. 2, 1970, 35 F.R. 15623, 84 Stat. 2087, related to grants for research and development of methods to prevent and control water pollution.
 
-Section 1065, Pub. L. 88–131, § 4, Sept. 24, 1963, 77 Stat. 198, related to sailing vessels under way, vessels or seaplanes being towed, and vessels being pushed ahead.
+Section 1157, acts June 30, 1948, ch. 758, § 7, formerly § 5, 62 Stat. 1158; July 9, 1956, ch. 518, § 1, 70 Stat. 499; June 25, 1959, Pub. L. 86–70, § 28(a), 73 Stat. 148; July 12, 1960, Pub. L. 86–624, § 23(a), 74 Stat. 417; July 20, 1961, Pub. L. 87–88, §§ 1(b), 4(a), (b), 75 Stat. 204, 205; renumbered and amended Oct. 2, 1965, Pub. L. 89–234, §§ 2(a), 7(a), 79 Stat. 903, 910; Nov. 3, 1966, Pub. L. 89–753, title II, § 202, 80 Stat. 1248; 1970 Reorg. Plan No. 3, § 2(a)(1), eff. Dec. 2, 1970, 35 F.R. 15623, 84 Stat. 2086; July 9, 1971, Pub. L. 92–50, § 2, 85 Stat. 124; Oct. 13, 1971, Pub. L. 92–137, § 3, 85 Stat. 379; Mar. 1, 1972, Pub. L. 92–240, § 2, 86 Stat. 47, related to grants for water pollution control programs.
 
-Section 1066, Pub. L. 88–131, § 4, Sept. 24, 1963, 77 Stat. 199, related to vessels in bad weather.
+Section 1158, acts June 30, 1948, ch. 758, § 8, formerly § 6, 62 Stat. 1158; July 9, 1956, ch. 518, § 1, 70 Stat. 502; July 20, 1961, Pub. L. 87–88, §§ 1(b), 5, 75 Stat. 204, 206; renumbered and amended Oct. 2, 1965, Pub. L. 89–234, §§ 2(a), 4, 7(b), 79 Stat. 903, 906, 910; Nov. 3, 1966, Pub. L. 89–753, title II, §§ 203(a), 204, 205, 80 Stat. 1248–1250; Apr. 3, 1970, Pub. L. 91–224, title I, § 111, 84 Stat. 113; 1970 Reorg. Plan No. 2, §§ 102, 103, eff. July 1, 1970, 35 F.R. 7959, 84 Stat. 2085; 1970 Reorg. Plan No. 3, § 2(a)(1), eff. Dec. 2, 1970, 15 F.R. 15623, 84 Stat. 2087; July 9, 1971, Pub. L. 92–50, § 3, 85 Stat. 124; Oct. 13, 1971, Pub. L. 92–137, § 4, 85 Stat. 379; Mar. 1, 1972, Pub. L. 92–240, § 3, 86 Stat. 48, related to grants for construction of sewerage treatment works.
 
-Section 1067, Pub. L. 88–131, § 4, Sept. 24, 1963, 77 Stat. 199, related to substitute lights for power-driven vessels towing or pushing other vessels, vessels under oars or sails, vessels being towed or pushed ahead, and rowing boats.
+Section 1159, acts June 30, 1948, ch. 758, § 9, formerly § 7, 62 Stat. 1159; July 17, 1952, ch. 927, 66 Stat. 755; July 9, 1956, ch. 518, § 1, 70 Stat. 503; July 20, 1961, Pub. L. 87–88, §§ 1(b)–(d), 6(a), (b), 75 Stat. 204, 207; renumbered Oct. 2, 1965, Pub. L. 89–234, § 2(a), 79 Stat. 903; amended 1966 Reorg. Plan No. 2, § 1(a), (c)(1), (2), eff. May 10, 1966, 31 F.R. 6857, 80 Stat. 1608; 1970 Reorg. Plan No. 3, § 2(a)(1), (b)(1)(i), eff. Dec. 3, 1970, 35 F.R. 15623, 84 Stat. 2087, related to establishment, composition, and duties of the Water Pollution Control Advisory Board.
 
-Section 1068, Pub. L. 88–131, § 4, Sept. 24, 1963, 77 Stat. 200, related to pilot-vessels on and off duty.
+Section 1160, acts June 30, 1948, ch. 758, § 10, formerly § 8, 62 Stat. 1159; July 17, 1952, ch. 927, 66 Stat. 755; July 9, 1956, ch. 518, § 1, 70 Stat. 504; July 20, 1961, Pub. L. 87–88, §§ 1(b), 7, 75 Stat. 204, 207; renumbered and amended Oct. 2, 1965, Pub. L. 89–234, §§ 2(a), 5, 7(c), (d), 79 Stat. 903, 907, 910; 1966 Reorg. Plan No. 2, § 1(a), (d)(1), (2), eff. May 10, 1966, 31 F.R. 6857, 80 Stat. 1608; Nov. 3, 1966, Pub. L. 89–753, title II, §§ 206–208, 80 Stat. 1250; Apr. 3, 1970, Pub. L. 91–224, title I, § 112, 84 Stat. 114; 1970 Reorg. Plan No. 3, § 2(a)(1), eff. Dec. 2, 1970, 35 F.R. 15623, 84 Stat. 2087, related to enforcement measures against pollution of interstate or navigable waters.
 
-Section 1069, Pub. L. 88–131, § 4, Sept. 24, 1963, 77 Stat. 201, related to fishing vessels and trawling vessels.
+Section 1161, act June 30, 1948, ch. 758, § 11, as added Apr. 3, 1970, Pub. L. 91–224, title I, § 102, 84 Stat. 91; amended 1970 Reorg. Plan No. 3, § 2(a)(1), eff. Dec. 2, 1970, 35 F.R. 15623, 84 Stat. 2087, Dec. 31, 1970, Pub. L. 91–611, title I, § 120 84 Stat. 1823, related to control of pollution by oil.
 
-Section 1070, Pub. L. 88–131, § 4, Sept. 24, 1963, 77 Stat. 202, related to stern and tail lights.
+Section 1162, act June 30, 1948, ch. 758, § 12, as added Apr. 3, 1970, Pub. L. 91–224, title I, § 102, 84 Stat. 98, related to control of pollution by hazardous substances.
 
-Section 1071, Pub. L. 88–131, § 4, Sept. 24, 1963, 77 Stat. 202, related to vessels and sea lanes at anchor and aground.
+Section 1163, act June 30, 1948, ch. 758, § 13, as added Apr. 3, 1970, Pub. L. 91–224, title I, § 102, 84 Stat. 100; amended 1970 Reorg. Plan No. 3, § 2(a)(1), eff. Dec. 2, 1970, 35 F.R. 15623, 84 Stat. 2087, related to control of sewage from vessels.
 
-Section 1072, Pub. L. 88–131, § 4, Sept. 24, 1963, 77 Stat. 203, provided for the use of additional lights and signals when necessary.
+Section 1164, act June 30, 1948, ch. 758, § 14, as added Apr. 3, 1970, Pub. L. 91–224, title I, § 102, 84 Stat. 103; amended 1970 Reorg. Plan No. 3, § 2(a)(1), eff. Dec. 2, 1970, 35 F.R. 15623, 84 Stat. 2087, related to acid and other mine water pollution elimination or control projects.
 
-Section 1073, Pub. L. 88–131, § 4, Sept. 24, 1963, 77 Stat. 203, related to ships of war, convoy vessels, fishing vessels, seaplanes in water, and naval and military vessels and seaplanes of special construction.
-
-Section 1074, Pub. L. 88–131, § 4, Sept. 24, 1963, 77 Stat. 203, related to vessels proceeding under sail when also propelled by machinery.
-
-Section 1075, Pub. L. 88–131, § 4, Sept. 24, 1963, 77 Stat. 203, set out general considerations concerning radar.
-
-Section 1076, Pub. L. 88–131, § 4, Sept. 24, 1963, 77 Stat. 203, related to sound signals.
-
-Section 1077, Pub. L. 88–131, § 4, Sept. 24, 1963, 77 Stat. 203, related to speed in weather restricting visibility.
-
-Section 1078, Pub. L. 88–131, § 4, Sept. 24, 1963, 77 Stat. 205, set out the general considerations related to steering and sailing.
-
-Section 1079, Pub. L. 88–131, § 4, Sept. 24, 1963, 77 Stat. 205, related to sailing vessels approaching one another.
-
-Section 1080, Pub. L. 88–131, § 4, Sept. 24, 1963, 77 Stat. 205, related to power-driven vessels meeting end on.
-
-Section 1081, Pub. L. 88–131, § 4, Sept. 24, 1963, 77 Stat. 206, related to power-driven vessels crossing.
-
-Section 1082, Pub. L. 88–131, § 4, Sept. 24, 1963, 77 Stat. 206, related to vessels or seaplanes meeting.
-
-Section 1083, Pub. L. 88–131, § 4, Sept. 24, 1963, 77 Stat. 206, related to vessels having the right of way and the duty in aiding to avert a collision.
-
-Section 1084, Pub. L. 88–131, § 4, Sept. 24, 1963, 77 Stat. 206, related to the duty to take positive action to keep out of the way.
-
-Section 1085, Pub. L. 88–131, § 4, Sept. 24, 1963, 77 Stat. 206, related to duty to slacken speed, stop, or reverse.
-
-Section 1086, Pub. L. 88–131, § 4, Sept. 24, 1963, 77 Stat. 206, related to duty of overtaking vessels to keep out of the way.
-
-Section 1087, Pub. L. 88–131, § 4, Sept. 24, 1963, 77 Stat. 207, related to duties of power-driven vessels in narrow channels.
-
-Section 1088, Pub. L. 88–131, § 4, Sept. 24, 1963, 77 Stat. 207, related to right-of-way of fishing vessels.
-
-Section 1089, Pub. L. 88–131, Sept. 24, 1963, 77 Stat. 207, related to departure from rules in special circumstances to avoid immediate danger.
-
-Section 1090, Pub. L. 88–131, § 4, Sept. 24, 1963, 77 Stat. 207, related to sound signals indicating course.
-
-Section 1091, Pub. L. 88–131, § 4, Sept. 24, 1963, 77 Stat. 208, related to additional precautions.
-
-Section 1092, Pub. L. 88–131, § 4, Sept. 24, 1963, 77 Stat. 208, related to rules for harbours and inland navigation.
-
-Section 1093, Pub. L. 88–131, § 4, Sept. 24, 1963, 77 Stat. 208, related to distress signals.
-
-Section 1094, Pub. L. 88–131, § 4, Sept. 24, 1963, 77 Stat. 209, set out general considerations and recommendations on the use of radar information as an aid to avoiding collisions at sea.
-
-#### Effective Date of Repeal
-Repeal effective July 15, 1977, see section 10 of Pub. L. 95–75, set out in part as a note under [section 1601 of this title](./chapter-030-international-regulations-for-preventing-collisions-at-sea.md#section-1601).
-
-#### Executive Order No. 11239
-Ex. Ord. No. 11239, July 31, 1965, 30 F.R. 9671, as amended by Ex. Ord. No. 13286, § 65, Feb. 28, 2003, 68 F.R. 10629, which enforced the Convention for the Safety of Life at Sea, 1960, was superseded, to the extent that the International Convention for the Safety of Life at Sea, 1974, signed at London on Nov. 1, 1974, replaced and abrogated the International Convention for the Safety of Life at Sea, 1960, signed at London on June 17, 1960, by Ex. Ord. No. 12234, Sept. 3, 1980, 45 F.R. 58801, set out as a note under [section 1602 of this title](./chapter-030-international-regulations-for-preventing-collisions-at-sea.md#section-1602).
-
-#### Proclamation No. 3632
-Proc. No. 3632, Dec. 29, 1964, 29 F.R. 19167, was the enabling proclamation for adopting Regulations for Preventing Collisions at Sea, 1960, under Pub. L. 88–131, Sept. 24, 1963, 77 Stat. 194.
+Section 1165, act June 30, 1948, ch. 758, § 15, as added Apr. 3, 1970, Pub. L. 91–224, title I, § 102, 84 Stat. 104; amended 1970 Reorg. Plan No. 3, § 2(a)(1), eff. Dec. 2, 1970, 35 F.R. 15623, 84 Stat. 2087, related to Great Lakes pollution elimination or control projects.

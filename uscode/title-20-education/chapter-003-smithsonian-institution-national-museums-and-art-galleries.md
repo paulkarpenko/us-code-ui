@@ -2,7 +2,7 @@
 title: 20
 chapter: '3'
 heading: 'SMITHSONIAN INSTITUTION, NATIONAL MUSEUMS AND ART GALLERIES'
-section_count: 133
+section_count: 142
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20&num=0&edition=prelim
 ---
@@ -859,6 +859,9 @@ Subsec. (b). Pub. L. 88–100, § 2, inserted provisions governing the terms of 
 #### Effective Date of 1994 Amendment
 Pub. L. 103–279, § 2(b)(2), July 21, 1994, 108 Stat. 1410, provided that: “(A) Superintendent of schools of the district of columbia.—The amendment made by paragraph (1)(C)(i) [amending this section] shall take effect on the date of expiration of the term of the Chairman of the District of Columbia Recreation Board serving as a trustee of the John F. Kennedy Center for the Performing Arts on the date of enactment of this Act [July 21, 1994]. “(B) Members of congress.—The amendment made by paragraph (1)(C)(ii) [amending this section] shall take effect on the date of enactment of this Act.”
 
+#### Short Title of 2019 Amendment
+Pub. L. 116–94, div. P, title VI, § 601, Dec. 20, 2019, 133 Stat. 3194, provided that: “This title [amending [section 76r of this title](./chapter-003-smithsonian-institution-national-museums-and-art-galleries.md#section-76r) and enacting provisions set out as a note under [section 76j of this title](./chapter-003-smithsonian-institution-national-museums-and-art-galleries.md#section-76j)] may be cited as the ‘John F. Kennedy Center Reauthorization Act of 2019’.”
+
 #### Short Title of 2012 Amendment
 Pub. L. 112–131, § 1, June 8, 2012, 126 Stat. 377, provided that: “This Act [amending sections 76i and 76r of this title] may be cited as the ‘John F. Kennedy Center Reauthorization Act of 2012’.”
 
@@ -1060,6 +1063,9 @@ Subsec. (a)(1)(H)(ii). Pub. L. 105–226, § 3, amended cl. (ii) generally. Prio
 1983—Pub. L. 98–205 designated existing provisions as subsec. (a) and added subsec. (b).
 
 1964—Pub. L. 88–260 struck out “and” at end of par. (3), substituted “John F. Kennedy Center for the Performing Arts” for “Cultural Center” in par. (4), and added par. (5).
+
+#### Commemoration of the John F. Kennedy Center for the Performing Arts
+Pub. L. 116–94, div. P, title VI, § 603, Dec. 20, 2019, 133 Stat. 3194, provided that: “(a) Sense of Congress.—It is the sense of Congress that the John F. Kennedy Center for the Performing Arts (referred to in this Act [probably means “this title”, see Short Title of 2019 Amendment note set out under [section 76h of this title](./chapter-003-smithsonian-institution-national-museums-and-art-galleries.md#section-76h)] as the ‘Center’)—“(1) recognize the year 2021 as the 50th anniversary of the opening of the Center; “(2) acknowledge and commemorate the mission of the Center as a national center for the performing arts and a national memorial to President John F. Kennedy; and “(3) recognize that the year 2018 is the 60th anniversary of the signing of the National Cultural Center Act (now known as the ‘John F. Kennedy Center Act’) ([20 U.S.C. 76h](./chapter-003-smithsonian-institution-national-museums-and-art-galleries.md#section-76h) et seq.), signed into law by President Dwight D. Eisenhower on September 2, 1958. “(b) Authorization for Plaque.—“(1) In general.—The Center shall place within the Center a plaque containing an inscription to commemorate the 60th anniversary of the signing of the National Cultural Center Act ([20 U.S.C. 76h](./chapter-003-smithsonian-institution-national-museums-and-art-galleries.md#section-76h) et seq.) by President Dwight D. Eisenhower. “(2) Specifications.—The plaque shall be—“(A)(i) not less than 6 square feet in size; and “(ii) not more than 18 square feet in size; “(B) of any shape that the Trustees of the Center determine to be appropriate; and “(C) placed at a location within the Center approximate to the Eisenhower Theater that the Trustees of the Center determine to be appropriate. “(3) Funding.—“(A) In general.—No Federal funds may be used to design, procure, or install the plaque. “(B) Exception.—Subparagraph (A) shall not affect the payment of salaries, expenses, and benefits otherwise authorized by law for members and employees of the Center who participate in carrying out this subsection. “(4) Private fundraising authorized.—“(A) In general.—The Center may solicit and accept private contributions for the design, procurement, and installation of the plaque. “(B) Accounting.—The Center may—“(i) establish an account into which any contributions received pursuant to subparagraph (A) shall be deposited; and “(ii) maintain documentation of any contributions received pursuant to subparagraph (A).”
 
 #### Access to John F. Kennedy Center for the Performing Arts
 Pub. L. 105–178, title I, § 1214(a), June 9, 1998, 112 Stat. 204, provided that: “(1) Study.—The Secretary [of Transportation], in cooperation with the District of Columbia, the John F. Kennedy Center for the Performing Arts, and the Department of the Interior and in consultation with other interested persons, shall conduct a study of methods to improve pedestrian and vehicular access to the John F. Kennedy Center for the Performing Arts. “(2) Report.—Not later than September 30, 1999, the Secretary shall transmit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Environment and Public Works of the Senate a report containing the results of the study with an assessment of the impacts (including environmental, aesthetic, economic, and historical impacts) associated with the implementation of each of the methods examined under the study. “(3) Authorization of appropriations.—There is authorized to be appropriated out of the Highway Trust Fund (other than the Mass Transit Account) to carry out this subsection $500,000 for fiscal year 1998. “(4) Applicability of title 23, united states code.—Funds authorized by this subsection shall be available for obligation in the same manner as if such funds were apportioned under chapter 1 of title 23, United States Code; except that the Federal share of the cost of activities conducted using such funds shall be 100 percent and such funds shall remain available until expended.”
@@ -1367,7 +1373,7 @@ The John F. Kennedy Center for the Performing Arts, designated by this subchapte
 ### Statutory Notes
 
 #### References in Text
-Section 1214 of the Transportation Equity Act for the 21st Century, referred to in subsec. (a)(7), is section 1214 of Pub. L. 105–178, which enacted provisions set out as notes under sections 50 and 76j of this title, [section 460m–29a of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section460m–29a&num=0&edition=prelim), Conservation, and [section 202 of Title 23](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title23-section202&num=0&edition=prelim), Highways, and enacted provisions listed in a table of National Wildlife Refuges set out under [section 668dd of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section668dd&num=0&edition=prelim).
+Section 1214 of the Transportation Equity Act for the 21st Century, referred to in subsec. (a)(7), is section 1214 of Pub. L. 105–178, which enacted provisions set out as notes under sections 50 and 76j of this title, [section 410eeee–16 of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section410eeee–16&num=0&edition=prelim), Conservation, and [section 202 of Title 23](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title23-section202&num=0&edition=prelim), Highways, and enacted provisions listed in a table of National Wildlife Refuges set out under [section 668dd of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section668dd&num=0&edition=prelim).
 
 #### Prior Provisions
 A prior section 12 of Pub. L. 85–874 was renumbered section 13 and is classified to [section 76r of this title](./chapter-003-smithsonian-institution-national-museums-and-art-galleries.md#section-76r).
@@ -1384,9 +1390,29 @@ Subsec. (g). Pub. L. 108–410, § 3(c), added subsec. (g).
 
 <a id="section-76r"></a>
 ## § 76r. Authorization of appropriations
-**(a) Maintenance, repair, and security** There is authorized to be appropriated to the Board to carry out [section 76j(a)(1)(H) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section76j/a/1/H&num=0&edition=prelim), $24,490,000 for fiscal year 2019.
+**(a) Maintenance, repair, and security** There are authorized to be appropriated to the Board to carry out [section 76j(a)(1)(H) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section76j/a/1/H&num=0&edition=prelim)—
 
-**(b) Capital projects** There is authorized to be appropriated to the Board to carry out subparagraphs (F) and (G) of [section 76j(a)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section76j/a/1&num=0&edition=prelim), $16,800,000 for fiscal year 2019.
+(1) $25,690,000 for fiscal year 2020;
+
+(2) $27,000,000 for fiscal year 2021;
+
+(3) $28,000,000 for fiscal year 2022;
+
+(4) $29,000,000 for fiscal year 2023; and
+
+(5) $30,000,000 for fiscal year 2024.
+
+**(b) Capital projects** There are authorized to be appropriated to the Board to carry out subparagraphs (F) and (G) of [section 76j(a)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section76j/a/1&num=0&edition=prelim)—
+
+(1) $17,800,000 for fiscal year 2020;
+
+(2) $18,000,000 for fiscal year 2021;
+
+(3) $19,000,000 for fiscal year 2022;
+
+(4) $20,000,000 for fiscal year 2023; and
+
+(5) $21,000,000 for fiscal year 2024.
 
 **(c) John F. Kennedy Center Plaza** There is authorized to be appropriated to the Secretary of Transportation for capital costs incurred in the planning, design, engineering, and construction of the project authorized by [section 76q–1 of this title](./chapter-003-smithsonian-institution-national-museums-and-art-galleries.md#section-76q-1) (including roadway improvements related to the North and South Interchanges and construction of the John F. Kennedy Center Plaza, but not including construction of any buildings on the plaza) a total of $400,000,000 for fiscal years 2003 through 2010. Such sums shall remain available until expended.
 
@@ -1400,7 +1426,19 @@ Subsec. (g). Pub. L. 108–410, § 3(c), added subsec. (g).
 A prior section 13 of Pub. L. 85–874 was renumbered section 14 and is classified to [section 76s of this title](./chapter-003-smithsonian-institution-national-museums-and-art-galleries.md#section-76s).
 
 #### Amendments
-2019—Subsecs. (a), (b). Pub. L. 116–6 added subsecs. (a) and (b) and struck out former subsecs. (a) and (b) which read as follows:
+2019—Subsecs. (a), (b). Pub. L. 116–94, § 602, added subsecs. (a) and (b) and struck out former subsecs. (a) and (b) which read as follows:
+
+“(a) Maintenance, Repair, and Security.—There is authorized to be appropriated to the Board to carry out [section 76j(a)(1)(H) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section76j/a/1/H&num=0&edition=prelim), $25,690,000 for fiscal year 2020.
+
+“(b) Capital Projects.—There is authorized to be appropriated to the Board to carry out subparagraphs (F) and (G) of [section 76j(a)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section76j/a/1&num=0&edition=prelim), $17,800,000 for fiscal year 2020.”
+
+Pub. L. 116–94, § 423, added subsecs. (a) and (b) and struck out former subsecs. (a) and (b) which read as follows:
+
+“(a) Maintenance, Repair, and Security.—There is authorized to be appropriated to the Board to carry out [section 76j(a)(1)(H) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section76j/a/1/H&num=0&edition=prelim), $24,490,000 for fiscal year 2019.
+
+“(b) Capital Projects.—There is authorized to be appropriated to the Board to carry out subparagraphs (F) and (G) of [section 76j(a)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section76j/a/1&num=0&edition=prelim), $16,800,000 for fiscal year 2019.”
+
+Pub. L. 116–6 added subsecs. (a) and (b) and struck out former subsecs. (a) and (b) which read as follows:
 
 “(a) Maintenance, Repair, and Security.—There is authorized to be appropriated to the Board to carry out [section 76j(a)(1)(H) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section76j/a/1/H&num=0&edition=prelim), $23,740,000 for fiscal year 2018.
 
@@ -1516,13 +1554,15 @@ As used in this subchapter, the terms “building and site of the John F. Kenned
 
 <a id="section-77"></a>
 ## § 77. National Air and Space Museum
-**(a) Establishment; board; administration; reimbursement of expenses** There is hereby established under the Smithsonian Institution a bureau to be known as a National Air and Space Museum, which shall be administered by the Smithsonian Institution with the advice of a board to be composed of the Chief of Staff of the Air Force, or his designee, the Chief of Naval Operations, or his designee, the Chief of Staff of the Army, or his designee, the Commandant of the Marine Corps, or his designee, the Commandant of the Coast Guard, or his designee, the Administrator of the National Aeronautics and Space Administration, or his designee, the Administrator of the Federal Aviation Administration, or his designee, the Secretary of the Smithsonian Institution, and three citizens of the United States appointed by the President from civilian life who shall serve at the pleasure of the President. The members of the board shall serve as such members without compensation but shall be reimbursed for travel, subsistence, and other necessary expenses incurred by them in the performance of their duties as members of the board.
+**(a) Establishment; board; administration; reimbursement of expenses** There is hereby established under the Smithsonian Institution a bureau to be known as a National Air and Space Museum, which shall be administered by the Smithsonian Institution with the advice of a board to be composed of the Chief of Staff of the Air Force, or his designee, the Chief of Space Operations, or the Chief’s designee, the Chief of Naval Operations, or his designee, the Chief of Staff of the Army, or his designee, the Commandant of the Marine Corps, or his designee, the Commandant of the Coast Guard, or his designee, the Administrator of the National Aeronautics and Space Administration, or his designee, the Administrator of the Federal Aviation Administration, or his designee, the Secretary of the Smithsonian Institution, and three citizens of the United States appointed by the President from civilian life who shall serve at the pleasure of the President. The members of the board shall serve as such members without compensation but shall be reimbursed for travel, subsistence, and other necessary expenses incurred by them in the performance of their duties as members of the board.
 
 **(b) Appointment and compensation of head of museum** The Secretary of the Smithsonian Institution, with the advice of the board, may appoint and fix the compensation and duties of the head of a national air and space museum whose appointment shall not be subject to the civil service laws.
 
 ### Statutory Notes
 
 #### Amendments
+2021—Subsec. (a). Pub. L. 116–283, which directed amendment of subsec. (a) of section 1 of the Act of August 12, 1946 (60 Stat. 997, chapter 995; [20 U.S.C. 77(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section77/a&num=0&edition=prelim)) by inserting “the Chief of Space Operations, or the Chief’s designee,” after “the Chief of Staff of the Air Force, or his designee,”, was executed to this section, which is section 1 of act of Aug. 12, 1946, ch. 955, to reflect the probable intent of Congress.
+
 1966—Subsec. (a). Pub. L. 89–509, § 2, changed the name of the museum from the National Air Museum to the National Air and Space Museum, expanded the advisory board to include additional members including the Chief of Staff of the Army, the Commandant of the Marine Corps, the Commandant of the Coast Guard, the Administrator of the National Aeronautics and Space Administration, the Administrator of the Federal Aviation Agency, and an additional member appointed from civilian life to serve at the pleasure of the President, and provided for reimbursement for travel, subsistence, and other necessary expenses incurred by them in the performance of their duties as members of the Board.
 
 Subsec. (b). Pub. L. 89–509, § 3, substituted “national air and space museum” for “national air museum” and struck out provision that the salary of the head of the museum shall not be subject to the Classification Act of 1923, as amended.
@@ -2918,3 +2958,614 @@ There are authorized to be appropriated to carry out this subchapter—
 (1) $500,000 for fiscal year 2010; and
 
 (2) such sums as may be necessary for each of the fiscal years 2011 through 2014.
+
+
+<a id="section-80t"></a>
+## § 80t. Findings
+
+Congress finds the following:
+
+(1) Since its founding, the United States has greatly benefitted from the contributions of women.
+
+(2) Historical accounts, monuments, memorials, and museums disproportionately represent men’s achievements and contributions and often neglect those of women. For example—
+
+  (A) a study of 18 United States history textbooks concluded that 10 percent of the material documented contributions of women;
+
+  (B) 9 statues out of 91 in the United States Capitol’s National Statuary Hall depict women; and
+
+  (C) only one of the 44 monuments operated by the National Park Service specifically honors the achievements of women after the 2016 designation of the Belmont-Paul Women’s Equality National Monument.
+
+(3) There exists no national museum in the United States that is devoted to the documentation of women’s contributions throughout the Nation’s history.
+
+(4) On December 19, 2014, Congress created a Congressional Commission to study the potential for an American museum of women’s history. The bipartisan Commission unanimously concluded that the United States needs and deserves a physical national museum dedicated to showcasing the historical experiences and impact of women in the United States.
+
+(5) A comprehensive women’s history museum would document the full spectrum of the experiences of women in the United States, represent a diverse range of viewpoints, experiences, and backgrounds, more accurately depict the history of the United States, and add value to the Smithsonian Institution.
+
+(6) The collections, exhibits, historical narrative materials, and museum programming of the women’s history museum should be inclusive, comprehensive, and innovative. Such collections, exhibits, materials, and programming should present the diverse range of experiences and viewpoints of all women in the United States, reflecting upon the things that set women apart from one another while also highlighting the experiences that many of these women share.
+
+### Statutory Notes
+
+#### Short Title
+Pub. L. 116–260, div. T, title I, § 101, Dec. 27, 2020, 134 Stat. 2272, provided that: “This title [enacting this subchapter] may be cited as the ‘Smithsonian American Women’s History Museum Act’.”
+
+
+<a id="section-80t-1"></a>
+## § 80t–1. Establishment of Museum
+**(a) Establishment** There is established within the Smithsonian Institution a comprehensive women’s history museum, to be named by the Board of Regents in consultation with the council established under [section 80t–2 of this title](./chapter-003-smithsonian-institution-national-museums-and-art-galleries.md#section-80t-2) (referred to in this subchapter 11 See References in Text note below. as the “Museum”).
+
+**(b) Purpose** The purpose of the Museum established under this section shall be to provide for—
+
+(1) the collection and study of, and the establishment of programs relating to, women’s contributions to various fields and throughout different periods of history that have influenced the direction of the United States;
+
+(2) collaboration with other Smithsonian Institution museums and facilities, outside museums, and educational institutions; and
+
+(3) the creation of exhibitions and programs that recognize diverse perspectives on women’s history and contributions.
+
+### Statutory Notes
+
+#### References in Text
+This subchapter, referred to in subsec. (a), was in the original “this Act”, and was translated as reading “this title”, meaning title I of div. T of Pub. L. 116–260, known as the Smithsonian American Women’s History Museum Act, which is classified to this subchapter, to reflect the probable intent of Congress.
+
+
+<a id="section-80t-2"></a>
+## § 80t–2. Council
+**(a) Establishment** There is established within the Smithsonian Institution a council to carry out the duties set forth under subsection (b) and other provisions of this subchapter 11 See References in Text note below. (referred to in this section as the “Council”).
+
+**(b) Duties**
+
+(1) **In general** — The Council established under this section shall—
+
+  (A) make recommendations to the Board of Regents concerning the planning, design, and construction of the Museum;
+
+  (B) advise and assist the Board of Regents on all matters relating to the administration, operation, maintenance, and preservation of the Museum;
+
+  (C) recommend annual operating budgets for the Museum to the Board of Regents;
+
+  (D) report annually to the Board of Regents on the acquisition, disposition, and display of objects relating to women’s art, history, and culture; and
+
+  (E) adopt bylaws for the operation of the Council.
+
+(2) **Principal responsibilities** — The Council, subject to the general policies of the Board of Regents, shall have sole authority to—
+
+  (A) purchase, accept, borrow, and otherwise acquire artifacts for addition to the collections of the Museum;
+
+  (B) loan, exchange, sell, and otherwise dispose of any part of the collections of the Museum, but only if the funds generated by that disposition are used for additions to the collections of the Museum; or
+
+  (C) specify criteria with respect to the use of the collections and resources of the Museum, including policies on programming, education, exhibitions, and research with respect to—
+
+    (i) the life, art, history, and culture of women;
+
+    (ii) the role of women in the history of the United States; and
+
+    (iii) the contributions of women to society.
+
+(3) **Other responsibilities** — The Council, subject to the general policies of the Board of Regents, shall have authority—
+
+  (A) to provide for preservation, restoration, and maintenance of the collections of the Museum; and
+
+  (B) to solicit, accept, use, and dispose of gifts, bequests, and devises of personal property for the purpose of aiding and facilitating the work of the Museum.
+
+(4) **Ensuring diversity of political viewpoints in exhibits and programs** — In carrying out its duties, the Council shall ensure that the exhibits and programs of the Museum reflect, to the extent practicable, an equal representation of the diversity of the political viewpoints held by women of the United States on the events and issues relating to the history of women in the United States.
+
+**(c) Composition and appointment**
+
+(1) **In general** — The Council shall be composed of 25 voting members as provided under paragraph (2).
+
+(2) **Voting members** — The Council shall include the following voting members:
+
+  (A) One member appointed by the majority leader of the Senate.
+
+  (B) One member appointed by the minority leader of the Senate.
+
+  (C) One member appointed by the Speaker of the House of Representatives.
+
+  (D) One member appointed by the minority leader of the House of Representatives.
+
+  (E) The Secretary of the Smithsonian Institution.
+
+  (F) One member of the Board of Regents, appointed by the Board of Regents.
+
+  (G) Nineteen individuals appointed by the Board of Regents. In appointing members under this subparagraph, the Board of Regents should give special consideration to appointing—
+
+    (i) members of the Congressional Commission;
+
+    (ii) board members of the National Women’s History Museum, a nonprofit, educational organization described in [section 501(c)(3) of title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section501/c/3&num=0&edition=prelim) that was incorporated in 1996 in the District of Columbia and that is dedicated for the purpose of establishing a women’s history museum; and
+
+    (iii) scholars and representatives of organizations that are committed to the study of women’s history.
+
+(3) **Initial appointments** — The Board of Regents shall make initial appointments to the Council under paragraph (2) not later than 180 days after December 27, 2020.
+
+**(d) Terms**
+
+(1) **In general** — Except as provided in this subsection, each appointed member of the Council shall be appointed for a term of 3 years.
+
+(2) **Initial appointees** — As designated by the Board of Regents at the time of appointment, of the voting members first appointed under subparagraph (G) of subsection (c)(2)—
+
+  (A) 7 members shall be appointed for a term of 1 year;
+
+  (B) 6 members shall be appointed for a term of 2 years; and
+
+  (C) 6 members shall be appointed for a term of 3 years.
+
+(3) **Reappointment** — A member of the Council may be reappointed, except that no individual may serve on the Council for a total of more than 2 terms. For purposes of this paragraph, the number of terms an individual serves on the Council shall not include any portion of a term for which an individual is appointed to fill a vacancy under paragraph (4)(B).
+
+(4) **Vacancies**
+
+  (A) *In general* — A vacancy on the Council—
+
+    (i) shall not affect the powers of the Council; and
+
+    (ii) shall be filled in the same manner as the original appointment was made.
+
+  (B) *Term* — Any member of the Council appointed to fill a vacancy occurring before the expiration of the term for which the member’s predecessor was appointed shall be appointed for the remainder of that term.
+
+**(e) Compensation**
+
+(1) **In general** — Except as provided in paragraph (2), a member of the Council shall serve without pay.
+
+(2) **Travel expenses** — A member of the Council shall be allowed travel expenses, including per diem in lieu of subsistence, at rates authorized for an employee of an agency under subchapter I of chapter 57 of title 5, United States Code, while away from the home or regular place of business of the member in the performance of the duties of the Council.
+
+**(f) Chairperson** By a majority vote of its voting members, the Council shall elect a chairperson from its members.
+
+**(g) Meetings**
+
+(1) **In general** — The Council shall meet at the call of the chairperson or on the written request of a majority of the voting members of the Council, but not fewer than twice each year.
+
+(2) **Initial meetings** — During the 1-year period beginning on the date of the first meeting of the Council, the Council shall meet not fewer than 4 times for the purpose of carrying out the duties of the Council under this subchapter.1
+
+**(h) Quorum** A majority of the voting members of the Council holding office shall constitute a quorum for the purpose of conducting business, but a lesser number may receive information on behalf of the Council.
+
+### Statutory Notes
+
+#### References in Text
+This subchapter, referred to in subsecs. (a) and (g)(2), was in the original “this Act”, and was translated as reading “this title”, meaning title I of div. T of Pub. L. 116–260, known as the Smithsonian American Women’s History Museum Act, which is classified to this subchapter, to reflect the probable intent of Congress.
+
+
+<a id="section-80t-3"></a>
+## § 80t–3. Director and staff of the Museum
+**(a) Director**
+
+(1) **In general** — The Museum shall have a Director who shall be appointed by the Secretary, taking into consideration individuals recommended by the council established under [section 80t–2 of this title](./chapter-003-smithsonian-institution-national-museums-and-art-galleries.md#section-80t-2).
+
+(2) **Duties** — The Director shall manage the Museum subject to the policies of the Board of Regents.
+
+**(b) Staff** The Secretary may appoint 2 additional employees to serve under the Director, except that such additional employees may be appointed without regard to the provisions of title 5 governing appointments in the competitive service.
+
+**(c) Pay** The employees appointed by the Secretary under subsection (b) may be paid without regard to the provisions of chapter 51 and subchapter III of chapter 53 of title 5 relating to classification of positions and General Schedule pay rates.
+
+
+<a id="section-80t-4"></a>
+## § 80t–4. Educational and liaison programs
+**(a) Programs authorized** The Director of the Museum may carry out educational and liaison programs in support of the goals of the Museum.
+
+**(b) Collaboration with schools** In carrying out this section, the Director shall carry out educational programs in collaboration with elementary schools, secondary schools, and postsecondary schools.
+
+
+<a id="section-80t-5"></a>
+## § 80t–5. Building
+**(a) Location**
+
+(1) **In general** — Not later than 2 years after the December 27, 2020, the Board of Regents shall designate a site for the Museum.
+
+(2) **Sites for consideration** — In designating a site under paragraph (1), the Board of Regents shall—
+
+  (A) select a site in the District of Columbia; and
+
+  (B) include the consideration of the following sites:
+
+    (i) The site known as the “South Monument site”, located on the National Mall and bordered by 14th Street Northwest, Jefferson Drive Southwest, Raoul Wallenberg Place Southwest, and Independence Ave Southwest.
+
+    (ii) The Northwest United States Capitol site, bordered by 3rd Street Northwest, Constitution Avenue Northwest, 1st Street Northwest, and Pennsylvania Ave Northwest.
+
+(3) **Factors considered** — In designating a site under paragraph (1), the Board of Regents shall take into consideration each of the following factors:
+
+  (A) An estimate of the costs associated with each potential site.
+
+  (B) An assessment of the suitability of the space of each potential site, including size, proximity to other buildings and transportation, and other external environmental conditions, as appropriate.
+
+  (C) The recommendations of the Congressional Commission.
+
+(4) **Consultation** — The Board of Regents shall carry out its duties under this subsection in consultation with each of the following:
+
+  (A) The Chair of the National Capital Planning Commission.
+
+  (B) The Director of the National Park Service.
+
+  (C) The Chair of the National Capital Memorial Advisory Commission.
+
+  (D) The Chair of the Commission on Fine Arts.
+
+  (E) The Chair of the Congressional Commission.
+
+  (F) The Architect of the Capitol.
+
+  (G) The chair and ranking member of each of the following committees:
+
+    (i) The Committee on Rules and Administration of the Senate.
+
+    (ii) The Committee on House Administration of the House of Representatives.
+
+    (iii) The Committee on Energy and Natural Resources of the Senate.
+
+    (iv) The Committee on Natural Resources of the House of Representatives.
+
+    (v) The Committee on Transportation and Infrastructure of the House of Representatives.
+
+    (vi) The Committee on Appropriations of the House of Representatives.
+
+    (vii) The Committee on Appropriations of the Senate.
+
+(5) **Intent of Congress** — It is the intent of Congress that the Museum be located on or near the National Mall, to the maximum extent practicable, in accordance with this section.
+
+**(b) Site under the jurisdiction of another Federal agency**
+
+(1) **Written notification of agreement** — The Board of Regents shall not designate a site for the Museum that is under the administrative jurisdiction of another Federal agency or entity unless the head of the Federal agency or entity submits to each of the committees described in subsection (a)(4)(G) written notification stating that the head of the Federal agency or entity concurs with locating the Museum on the land or in the structure that is under the administrative jurisdiction of the Federal agency or entity.
+
+(2) **Transfer** — As soon as practicable after the date on which Congress receives the written notification described in paragraph (1), the head of the Federal agency or entity shall transfer to the Smithsonian Institution its administrative jurisdiction over the land or structure that has been designated as the site for the Museum.
+
+**(c) Construction of building** The Board of Regents, in consultation with the council established under [section 80t–2 of this title](./chapter-003-smithsonian-institution-national-museums-and-art-galleries.md#section-80t-2), may plan, design, and construct a building for the Museum, which shall be located at the site designated by the Board of Regents under subsection (a), in accordance with this section.
+
+**(d) Commemorative Works Act** Chapter 89 of title 40 shall not apply with respect to the Museum, except that the Museum shall not be located in the Reserve (as defined in section 8902(a) of that title).
+
+**(e) Cost sharing** The Board of Regents shall pay—
+
+(1) 50 percent of the costs of carrying out this section from Federal funds; and
+
+(2) 50 percent of the costs of carrying out this section from non-Federal sources.
+
+
+<a id="section-80t-6"></a>
+## § 80t–6. Definitions
+
+In this subchapter,11 See References in Text note below. the following definitions apply:
+
+(1) The term “Board of Regents” means the Board of Regents of the Smithsonian Institution.
+
+(2) The term “Congressional Commission” means the Commission to Study the Potential Creation of a National Women’s History Museum, established under section 3056 of the Military Construction Authorization Act for Fiscal Year 2015 (Public Law 113–291; 128 Stat. 3810).
+
+(3) The term “Secretary” means the Secretary of the Smithsonian Institution.
+
+### Statutory Notes
+
+#### References in Text
+This subchapter, referred to in text, was in the original “this Act”, and was translated as reading “this title”, meaning title I of div. T of Pub. L. 116–260, known as the Smithsonian American Women’s History Museum Act, which is classified to this subchapter, to reflect the probable intent of Congress.
+
+Section 3056 of the Military Construction Authorization Act for Fiscal Year 2015, referred to in par. (2), is section 3056 of div. B of Pub. L. 113–291, Dec. 19, 2014, 128 Stat. 3810, which is not classified to the Code.
+
+
+<a id="section-80t-7"></a>
+## § 80t–7. Authorization of appropriations
+**(a) In general** There are authorized to be appropriated to the Smithsonian Institution to carry out this subchapter,11 See References in Text note below. including the planning, design, construction, and operation of the Museum established under [section 80t–1 of this title](./chapter-003-smithsonian-institution-national-museums-and-art-galleries.md#section-80t-1), such sums as may be necessary for fiscal year 2020 and each succeeding fiscal year.
+
+**(b) Availability** Amounts appropriated pursuant to the authorization under this section shall remain available until expended.
+
+**(c) Use of funds for fundraising** Amounts appropriated pursuant to the authorization under this section may be used to conduct fundraising in support of the Museum from private sources.
+
+### Statutory Notes
+
+#### References in Text
+This subchapter, referred to in subsec. (a), was in the original “this Act”, and was translated as reading “this title”, meaning title I of div. T of Pub. L. 116–260, known as the Smithsonian American Women’s History Museum Act, which is classified to this subchapter, to reflect the probable intent of Congress.
+
+
+<a id="section-80u"></a>
+## § 80u. National Museum of the American Latino
+**(a) Findings** Congress finds the following:
+
+(1) The United States is a symbol of democracy, freedom, and economic opportunity around the world, and the legacy of Latinos is deeply rooted in the very fabric of the history, democracy, freedom, and economic opportunity of the United States.
+
+(2) There exists no national museum within the Smithsonian Institution that is devoted to the documentation and explication of Latino life, art, history, and culture.
+
+(3) The establishment of the National Museum of the American Latino will be consistent with the purposes of the Smithsonian Institution, created by Congress in 1846, “for the increase and diffusion of knowledge”.
+
+(4) The National Museum of the American Latino—
+
+  (A) will be the keystone for people in the United States and other Smithsonian Institution visitors to learn about Latino contributions to life, art, history, and culture in the United States at its signature location on the National Mall; and
+
+  (B) will serve as a gateway for visitors to view other Latino exhibitions, collections, and programming at other Smithsonian Institution facilities and museums throughout the United States and the territories of the United States.
+
+**(b) Definitions** In this section:
+
+(1) **Board of Regents** — The term “Board of Regents” means the Board of Regents of the Smithsonian Institution.
+
+(2) **Board of trustees** — The term “Board of Trustees” means the Board of Trustees of the National Museum of the American Latino as established by subsection (d).
+
+(3) **Director** — The term “Director” means the Director of the National Museum of the American Latino.
+
+(4) **Museum** — The term “Museum” means the National Museum of the American Latino established by subsection (c).
+
+(5) **Secretary** — The term “Secretary” means the Secretary of the Smithsonian Institution.
+
+**(c) Establishment of Museum**
+
+(1) **Establishment** — There is established within the Smithsonian Institution a museum to be known as the “National Museum of the American Latino”.
+
+(2) **Purposes** — The purposes of the Museum are—
+
+  (A) to illuminate the story of the United States for the benefit of all by featuring Latino contributions; and
+
+  (B) to provide for—
+
+    (i) the collection, study, research, publication, and establishment of exhibitions and programs relating to Latino life, art, history, and culture that encompass—
+
+      (I) Latino contributions to the early history of what now encompasses the United States of America and its territories;
+
+      (II) Latino contributions in the armed services from the earliest days of the American Revolution to current military activities in defense of our freedoms;
+
+      (III) Latino contributions to the freedom, well-being, and economic prosperity of all people in the United States through historical movements;
+
+      (IV) entrepreneurial and charitable activities of Latinos;
+
+      (V) contributions by Latinos to—
+
+        (aa) the social, natural, and physical sciences; and
+
+        (bb) art, history, and culture, including food, music, dance, film, theater, sports, and other forms of popular culture in the United States; and
+
+    (ii) collaboration between the Museum, other museums and research centers of the Smithsonian Institution, and other museums and educational institutions throughout the United States and abroad, to promote the study and appreciation of Latino life, art, history, culture, and its impact on society in the United States, including collaboration concerning joint research projects, programs, exhibitions, collection management, and training of museum staff.
+
+**(d) Board of Trustees**
+
+(1) **Establishment** — There is established within the Smithsonian Institution a Board of Trustees of the Museum with the duties, powers, and authority specified in this subsection.
+
+(2) **Duties**
+
+  (A) *In general* — The Board of Trustees—
+
+    (i) shall—
+
+      (I) make recommendations to the Board of Regents concerning the location, planning, design, and construction of the Museum;
+
+      (II) recommend annual operating budgets for the Museum to the Board of Regents;
+
+      (III) adopt bylaws for the Board of Trustees;
+
+      (IV) report annually to the Board of Regents on the acquisition, disposition, and display of Latino collections, objects and artifacts, and on other appropriate matters; and
+
+      (V) advise and assist the Board of Regents on all matters relating to the administration, operation, maintenance, and preservation of the Museum, including long-term maintenance; and
+
+    (ii) may delegate the duties described in subclauses (I) through (IV) of clause (i) to the Director.
+
+  (B) *Principal responsibilities* — Subject to the general policies of the Board of Regents, the Board of Trustees shall have the sole authority to—
+
+    (i) purchase, accept, borrow, or otherwise acquire artifacts and other objects for addition to the collections of the Museum;
+
+    (ii) loan, exchange, sell, or otherwise dispose of any part of the collections of the Museum, with the proceeds of such transactions to be used for additions to the collections of the Museum; and
+
+    (iii) specify criteria with respect to the use of the collections and resources of the Museum, including policies on programming, education, exhibitions, and research with respect to—
+
+      (I) the life, art, history, culture, and other aspects of Latinos in the United States and the territories of the United States;
+
+      (II) the role of Latinos in the history of the United States from the arrival of the first explorers to the Americas to the present;
+
+      (III) the contributions of Latinos to society and culture in the United States, and exploring what it means to be an American; and
+
+      (IV) sharing how values in the United States such as resiliency, optimism, and spirituality are reflected in Latino history and culture.
+
+  (C) *Other responsibilities* — Subject to the general policies of the Board of Regents, the Board of Trustees shall have authority to—
+
+    (i) provide for preservation, restoration, and maintenance of the collections of the Museum; and
+
+    (ii) solicit, accept, use, and dispose of gifts, bequests, and devises of personal and real property for the purpose of aiding and facilitating the work of the Museum.
+
+  (D) *Ensuring diversity of political viewpoints in exhibits and programs* — In carrying out its duties, the Board of Trustees shall ensure that the exhibits and programs of the Museum reflect the diversity of the political viewpoints held by Latinos of the United States on the events and issues relating to the history of Latinos in the United States.
+
+(3) **Composition and appointment**
+
+  (A) *In general* — The Board of Trustees shall be composed of not more than 19 voting members as provided under subparagraph (B).
+
+  (B) *Voting members* — The Board of Trustees shall include the following voting members:
+
+    (i) The Secretary of the Smithsonian Institution.
+
+    (ii) The Under Secretary of Museums and Research of the Smithsonian Institution.
+
+    (iii) The chair of the Smithsonian National Latino Board.
+
+    (iv) One member of the Board of Regents, appointed by the Board of Regents.
+
+    (v) Two Members of Congress, one from each political party, designated by the Congressional Hispanic Caucus and the Congressional Hispanic Conference.
+
+    (vi) Thirteen individuals who shall be appointed by the Board of Regents after taking into consideration—
+
+      (I) efforts to have a politically and geographically diverse representation on the Board of Trustees reflecting States and territories with significant Latino populations;
+
+      (II) individuals recommended by members of the Board of Trustees; and
+
+      (III) individuals recommended by organizations and entities that are committed to the advancement of knowledge of Latino life, art, history, and culture.
+
+  (C) *Initial appointments* — The Board of Regents shall make initial appointments to the Board of Trustees under subparagraph (B) not later than 180 days after December 27, 2020.
+
+(4) **Terms of service**
+
+  (A) *In general* — Except as provided in this paragraph, each appointed member of the Board of Trustees shall be appointed for a term of 3 years.
+
+  (B) *Initial appointees* — As designated by the Board of Regents at the time of appointment, of the voting members first appointed under clause (vi) of paragraph (3)(B)—
+
+    (i) Five members shall be appointed for a term of 1 year;
+
+    (ii) Four members shall be appointed for a term of 2 years; and
+
+    (iii) Four members shall be appointed for a term of 3 years.
+
+  (C) *Reappointment* — A member of the Board of Trustees may be reappointed, except that no individual may serve on the Board of Trustees for a total of more than 2 full terms. For purposes of this subparagraph, the number of terms an individual serves on the Board of Trustees shall not include any portion of a term for which an individual is appointed to fill a vacancy under subparagraph (D)(ii).
+
+  (D) *Vacancies*
+
+    (i) *In general* — A vacancy on the Board of Trustees—
+
+      (I) shall not affect the powers of the Board of Trustees; and
+
+      (II) shall be filled in the same manner as the original appointment was made.
+
+    (ii) *Term* — Any member of the Board of Trustees appointed to fill a vacancy occurring before the expiration of the term for which the member’s predecessor was appointed shall be appointed for the remainder of that term.
+
+(5) **Compensation**
+
+  (A) *In general* — Except as provided in subparagraph (B), a member of the Board of Trustees shall serve without pay.
+
+  (B) *Travel expenses* — A member of the Board of Trustees shall be allowed travel expenses, including per diem in lieu of subsistence, at rates authorized for an employee of an agency under subchapter I of chapter 57 of title 5, United States Code, while away from the home or regular place of business of the member in the performance of the duties of the Board of Trustees.
+
+(6) **Chairperson** — By a majority vote of its voting members, the Board of Trustees shall elect a chairperson from its members.
+
+(7) **Meetings**
+
+  (A) *In general* — The Board of Trustees shall meet at the call of the chairperson or on the written request of a majority of the voting members of the Board of Trustees, but not fewer than twice each year.
+
+  (B) *Meeting format* — Regularly scheduled meetings and special meetings may be conducted in-person, telephonically, electronically, or by any means appropriate as determined by the chairperson.
+
+(8) **Quorum** — A majority of the voting members of the Board of Trustees holding office shall constitute a quorum for the purpose of conducting business, but a lesser number may receive information on behalf of the Board of Trustees.
+
+**(e) Director and staff of Museum**
+
+(1) **Director**
+
+  (A) *In general* — The Museum shall have a Director who shall be appointed by the Secretary in consultation with Board of Trustees. The Secretary may appoint an interim Director to oversee the initial activity of establishing the Museum until a permanent Director is selected.
+
+  (B) *Duties* — The Director shall manage the Museum subject to the policies of the Board of Regents and the Board of Trustees.
+
+(2) **Staff** — The Secretary may appoint two additional employees to serve under the Director, except that such additional employees may be appointed without regard to the provisions of title 5 governing appointments in the competitive service.
+
+(3) **Pay** — The employees appointed by the Secretary under paragraph (2) may be paid without regard to the provisions of chapter 51 and subchapter III of chapter 53 of title 5 relating to classification of positions and General Schedule pay rates.
+
+**(f) Educational and liaison programs**
+
+(1) **In general**
+
+  (A) *Programs authorized* — The Director of the Museum may carry out educational and liaison programs in support of the goals of the Museum.
+
+  (B) *Specific activities* — In carrying out this subsection, the Director shall—
+
+    (i) carry out educational programs relating to Latino life, art, history, and culture, including—
+
+      (I) programs using digital, electronic, and interactive technologies; and
+
+      (II) programs carried out in collaboration with elementary schools, secondary schools, and postsecondary schools; and
+
+    (ii) consult with the Director of the Institute of Museum and Library Services concerning the grant programs carried out under paragraph (2).
+
+(2) **Grant programs**
+
+  (A) *In general* — The Director of the Institute of Museum and Library Services, in consultation with the Board of Trustees and the Director of the Museum, shall establish and carry out—
+
+    (i) a grant program with the purpose of improving operations, care of collections, culturally appropriate public outreach, and development of professional management at American Latino museums;
+
+    (ii) a grant program with the purpose of providing internship and fellowship opportunities at American Latino museums;
+
+    (iii) a scholarship program, in partnership with Hispanic-serving institutions, minority-serving institutions, historically black colleges and universities, and other institutions of higher education, with the purpose of assisting individuals who are pursuing careers or carrying out studies in the arts, humanities, and sciences in the study of American Latino life, art, history, and culture;
+
+    (iv) in cooperation with other museums, historical societies, and educational institutions, a grant program with the purpose of promoting the understanding of the Latin American diaspora in the United States; and
+
+    (v) a grant program under which an American Latino museum (including a nonprofit education organization the primary mission of which is to promote the study of the Latin American diaspora in the United States) may use funds provided under the grant to increase an endowment fund established by the museum (or organization) as of October 1, 2020, for the purposes of enhancing educational programming, and maintaining and operating traveling educational exhibits.
+
+  (B) *Clarification of treatment of museum* — In this paragraph, the term “American Latino museum” does not include the Museum.
+
+  (C) *Authorization of appropriations* — There are authorized to be appropriated to the Institute of Museum and Library Services to carry out this paragraph—
+
+    (i) $15,000,000 for fiscal year 2021; and
+
+    (ii) such sums as may be necessary for fiscal year 2022 and each succeeding fiscal year.
+
+**(g) National Museum of the American Latino building and support facilities**
+
+(1) **In general**
+
+  (A) *Location*
+
+    (i) *In general* — Not later than 2 years after December 27, 2020, the Board of Regents shall designate a site for the Museum.
+
+    (ii) *Sites for consideration* — In designating a site under clause (i), the Board of Regents shall—
+
+      (I) select a site in the District of Columbia; and
+
+      (II) include the consideration of the following sites:
+
+        (aa) The Arts and Industries Building of the Smithsonian Institution, located on the National Mall at 900 Jefferson Drive, Southwest, Washington, District of Columbia.
+
+        (bb) A vacant area bounded by Independence Avenue, Jefferson Drive, Raoul Wallenberg Place, and 14th Street Southwest, currently under the jurisdiction of the National Park Service.
+
+        (cc) The area bounded by 3rd Street and 1st Street, Northwest and Constitution Avenue and Pennsylvania Avenue, Northwest, as measured from curb to curb, currently under the jurisdiction of the Architect of the Capitol.
+
+        (dd) The facility and grounds on the National Mall between 12th and 14th Streets, Southwest, and Jefferson Drive and Independence Avenue, Southwest, currently under the jurisdiction of the Department of Agriculture.
+
+    (iii) *Factors considered* — In designating a site under clause (i), the Board of Regents shall take into consideration each of the following factors:
+
+      (I) An estimate of the costs associated with each potential site.
+
+      (II) An assessment of the suitability of the space of each potential site, including size, proximity to other buildings and transportation, and other external environmental conditions, as appropriate.
+
+      (III) The recommendations of the Commission referred to in subsection (h).
+
+    (iv) *Consultation* — The Board of Regents shall carry out its duties under this subparagraph in consultation with the following:
+
+      (I) The Chair of the National Capital Planning Commission.
+
+      (II) The Director of the National Park Service.
+
+      (III) The Chair of the National Capital Memorial Advisory Commission.
+
+      (IV) The Chair of the Commission of Fine Arts.
+
+      (V) The Chair and Vice Chair of the Commission referred to in subsection (h).
+
+      (VI) The Chair of the Building and Site Subcommittee of the Commission referred to in subsection (h).
+
+      (VII) The Architect of the Capitol.
+
+      (VIII) The Chair and ranking minority member of each of the following committees:
+
+        (aa) The Committee on Rules and Administration of the Senate.
+
+        (bb) The Committee on House Administration of the House of Representatives.
+
+        (cc) The Committee on Energy and Natural Resources of the Senate.
+
+        (dd) The Committee on Natural Resources of the House of Representatives.
+
+        (ee) The Committee on Transportation and Infrastructure of the House of Representatives.
+
+        (ff) The Committee on Appropriations of the House of Representatives.
+
+        (gg) The Committee on Appropriations of the Senate.
+
+    (v) *Intent of Congress* — It is the intent of Congress that the Museum be located on or near the National Mall, to the maximum extent practicable, in accordance with this subsection.
+
+  (B) *Size of building* — The building constructed or modified to serve as the Museum shall occupy no less than the recommended square footage set forth in the report submitted by the Commission to Study the Potential Creation of a National Museum of the American Latino established under section 333 of the Consolidated Natural Resources Act of 2008 (Public Law 110–229; 122 Stat. 784).
+
+  (C) *Construction of building* — The Board of Regents, in consultation with the Board of Trustees and other appropriate Federal and local agencies is authorized to prepare plans, design, and construct a building or modify an existing building for the Museum, which shall be located at the site selected by the Board of Regents, in accordance with this subsection.
+
+(2) **Site under the jurisdiction of another Federal agency**
+
+  (A) *In general* — The Board of Regents shall not designate a site for the Museum that is under the administrative jurisdiction of another Federal agency or entity unless the head of the Federal agency or entity submits to each of the committees described in paragraph (1)(A)(iv)(VIII) written notification stating that the head of the Federal agency or entity concurs with locating the Museum on the land or in the structure that is under the administrative jurisdiction of the Federal agency or entity.
+
+  (B) *Transfer* — As soon as practicable after the date on which the committees receive the written notification described in subparagraph (A), the head of the Federal agency or entity shall transfer to the Smithsonian Institution administrative jurisdiction over the land or structure that has been designated as the site for the Museum.
+
+(3) **Cost sharing** — The Board of Regents shall pay—
+
+  (A) 50 percent of the costs of carrying out this subsection from Federal funds; and
+
+  (B) 50 percent of the costs of carrying out this subsection from non-Federal sources.
+
+(4) **Commemorative Works Act** — Chapter 89 of title 40 shall not apply with respect to the Museum, except that the Museum shall not be located in the Reserve (as defined in section 8902(a) of that title).
+
+(5) **Authorization of appropriations** — There are authorized to be appropriated such sums as are necessary to carry out this subsection.
+
+**(h) Consideration of recommendations of Commission** In carrying out their duties under this section, the Board of Trustees and the Board of Regents shall take into consideration the reports and plans submitted by the Commission to Study the Potential Creation of a National Museum of the American Latino established under section 333 of the Consolidated Natural Resources Act of 2008 (Public Law 110–229; 122 Stat. 784).
+
+**(i) Congressional Budget Act compliance** Authority under this section to enter into contracts or to make payments shall be effective in any fiscal year only to the extent provided in advance in an appropriations Act.
+
+**(j) Authorization of appropriations**
+
+(1) **In general** — There are authorized to be appropriated to the Smithsonian Institution to carry out this section, other than subsections (f)(2) and (g)—
+
+  (A) $20,000,000 for fiscal year 2021; and
+
+  (B) such sums as are necessary for each fiscal year thereafter.
+
+(2) **Availability** — Amounts appropriated pursuant to the authorization of appropriations under paragraph (1) shall remain available until expended.
+
+(3) **Use of funds for fundraising** — Amounts appropriated pursuant to the authorization under this subsection may be used to conduct fundraising in support of the Museum from private sources.
+
+### Statutory Notes
+
+#### References in Text
+Section 333 of the Consolidated Natural Resources Act of 2008, referred to in subsecs. (g)(1)(B) and (h), is section 333 of Pub. L. 110–229, title III, May 8, 2008, 122 Stat. 784, which is not classified to the Code.

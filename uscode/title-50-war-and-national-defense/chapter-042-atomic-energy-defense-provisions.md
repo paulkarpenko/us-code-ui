@@ -2,7 +2,7 @@
 title: 50
 chapter: '42'
 heading: ATOMIC ENERGY DEFENSE PROVISIONS
-section_count: 153
+section_count: 159
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50&num=0&edition=prelim
 ---
@@ -50,7 +50,7 @@ Except as otherwise provided, in this chapter:
 
 (9) The term “nuclear weapons production facility” means any of the following:
 
-  (A) The Kansas City Plant, Kansas City, Missouri.
+  (A) The Kansas City National Security Campus, Kansas City, Missouri.
 
   (B) The Pantex Plant, Amarillo, Texas.
 
@@ -70,6 +70,8 @@ Except as otherwise provided, in this chapter:
 Executive Order No. 12958, referred to in par. (3), which was formerly set out as a note under section 435 (now section 3161) of this title, was revoked by Ex. Ord. No. 13526, § 6.2(g), Dec. 29, 2009, 75 F.R. 731.
 
 #### Amendments
+2019—Par. (9)(A). Pub. L. 116–92 substituted “National Security Campus” for “Plant”.
+
 2014—Par. (3). Pub. L. 113–291 substituted “Executive Order No. 12333 of December 4, 1981 ([50 U.S.C. 3001](./chapter-044-national-security.md#section-3001) note), Executive Order No. 12958 of April 17, 1995 ([50 U.S.C. 3161](./chapter-044-national-security.md#section-3161) note), Executive Order No. 13526 of December 29, 2009 ([50 U.S.C. 3161](./chapter-044-national-security.md#section-3161) note),” for “Executive Order No. 12333 of December 4, 1981 ([50 U.S.C. 401](./chapter-015-national-security.md#section-401) note), Executive Order No. 12958 of April 17, 1995 ([50 U.S.C. 435](./chapter-015-national-security.md#section-435) note),”.
 
 2013—Pub. L. 113–66, § 3146(a)(1)(A), substituted “Except as otherwise provided, in this chapter” for “In this chapter” in introductory provisions.
@@ -196,6 +198,9 @@ Subsec. (b)(3)(B). Pub. L. 113–291, § 3142(b)(3), inserted “relating to” 
 2013—Pub. L. 112–239 amended section generally. Prior to amendment, section related to reorganization of field activities and management of national security functions.
 
 2003—Subsec. (d)(2). Pub. L. 108–136, § 3141(d)(3)(D), substituted “January 21, 1997,” for “120 days after the date of the enactment of this Act,”.
+
+#### Monitoring of Industrial Base for Nuclear Weapons Components, Subsystems, and Materials
+Pub. L. 116–283, div. C, title XXXI, § 3113, Jan. 1, 2021, 134 Stat. 4378, provided that: “(a) Designation of Official.—Not later than March 1, 2021, the Administrator for Nuclear Security shall designate a senior official within the National Nuclear Security Administration to be responsible for monitoring the industrial base that supports the nuclear weapons components, subsystems, and materials of the Administration, including—“(1) the consistent monitoring of the current status of the industrial base; “(2) tracking of industrial base issues over time; and “(3) proactively identifying gaps or risks in specific areas relating to the industrial base. “(b) Provision of Resources.—The Administrator shall ensure that the official designated under subsection (a) is provided with resources sufficient to conduct the monitoring required by that subsection. “(c) Consultations.—The Administrator, acting through the official designated under subsection (a), shall, to the extent practicable and beneficial, in conducting the monitoring required by that subsection, consult with—“(1) officials of the Department of Defense who are members of the Nuclear Weapons Council established under [section 179 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section179&num=0&edition=prelim), United States Code; “(2) officials of the Department of Defense responsible for the defense industrial base; and “(3) other components of the Department of Energy that rely on similar components, subsystems, or materials. “(d) Briefings.—“(1) Initial briefing.—Not later than April 1, 2021, the Administrator shall provide to the Committees on Armed Services of the Senate and the House of Representatives a briefing on the designation of the official required by subsection (a), including on—“(A) the responsibilities assigned to that official; and “(B) the plan for providing that official with resources sufficient to conduct the monitoring required by subsection (a). “(2) Subsequent briefings.—Not later than April 1, 2022, and annually thereafter through 2024, the Administrator shall provide to the Committees on Armed Services of the Senate and the House of Representatives a briefing on activities carried out under this section that includes an assessment of the progress made by the official designated under subsection (a) in conducting the monitoring required by that subsection.”
 
 #### Common Financial Reporting System for the Nuclear Security Enterprise
 Pub. L. 114–328, div. C, title XXXI, § 3113, Dec. 23, 2016, 130 Stat. 2757, provided that: “(a) In General.—By not later than four years after the date of the enactment of this Act [Dec. 23, 2016], the Administrator for Nuclear Security shall, in consultation with the National Nuclear Security Administration Council established by section 4102(b) of the Atomic Energy Defense Act ([50 U.S.C. 2512(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section2512/b&num=0&edition=prelim)), complete, to the extent practicable, the implementation of a common financial reporting system for the nuclear security enterprise. “(b) Elements.—The common financial reporting system implemented pursuant to subsection (a) shall include the following:“(1) Common data reporting requirements for work performed using funds of the National Nuclear Security Administration, including reporting of financial data by standardized labor categories, labor hours, functional elements, and cost elements. “(2) A common work breakdown structure for the Administration that aligns contractor work breakdown structures with the budget structure of the Administration. “(3) Definitions and methodologies for identifying and reporting costs for programs of records and base capabilities within the Administration. “(4) A capability to leverage, where appropriate, the Defense Cost Analysis Resource Center of the Office of Cost Assessment and Program Evaluation of the Department of Defense using historical costing data by the Administration. “(c) Reports.—“(1) In general.—Not later than March 1, 2017, and annually thereafter, the Administrator shall, in consultation with the National Nuclear Security Administration Council, submit to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] a report on progress of the Administration toward implementing a common financial reporting system for the nuclear security enterprise as required by subsection (a). “(2) Report.—Each report under this subsection shall include the following:“(A) A summary of activities, accomplishments, challenges, benefits, and costs related to the implementation of a common financial reporting system for the nuclear security enterprise during the year preceding the year in which such report is submitted. “(B) A summary of planned activities in connection with the implementation of a common financial reporting system for the nuclear security enterprise in the year in which such report is submitted. “(C) A description of any anticipated modifications to the schedule for implementing a common financial reporting system for the nuclear security enterprise, including an update on possible risks, challenges, and costs related to such implementation. “(3) Termination.—No report is required under this subsection after the completion of the implementation of a common financial reporting system for the nuclear security enterprise. “(d) Nuclear Security Enterprise Defined.—In this section, the term ‘nuclear security enterprise’ has the meaning given that term in section 4002 of the Atomic Energy Defense Act ([50 U.S.C. 2501](./chapter-042-atomic-energy-defense-provisions.md#section-2501)).”
@@ -472,7 +477,7 @@ Subsec. (d). Pub. L. 111–84, § 3112(b), added subsec. (d).
 
     (i) the national security strategy of the United States as set forth in the most recent national security strategy report of the President under [section 3043 of this title](./chapter-044-national-security.md#section-3043) if such strategy has been submitted as of the date of the plan;
 
-    (ii) the most recent quadrennial defense review if such strategy has not been submitted as of the date of the plan; and
+    (ii) the most recent national defense strategy as of the date of the plan; and
 
     (iii) the most recent Nuclear Posture Review as of the date of the plan;
 
@@ -538,7 +543,7 @@ Subsec. (d). Pub. L. 111–84, § 3112(b), added subsec. (d).
 
   (A) An analysis of the plan, including—
 
-    (i) whether the plan supports the requirements of the national security strategy of the United States or the most recent quadrennial defense review, as applicable under subsection (d)(4)(A), and the Nuclear Posture Review;
+    (i) whether the plan supports the requirements of the national security strategy of the United States referred to in subsection (d)(4)(A)(i), the most recent the national defense strategy, and the most recent Nuclear Posture Review;
 
     (ii) whether the modernization and refurbishment measures described under subparagraph (A) of subsection (d)(4) and the schedule described under subparagraph (B) of such subsection are adequate to support such requirements; and
 
@@ -560,9 +565,9 @@ Subsec. (d). Pub. L. 111–84, § 3112(b), added subsec. (d).
 
 (2) The term “future-years nuclear security program” means the program required by [section 2453 of this title](./chapter-041-national-nuclear-security-administration.md#section-2453).
 
-(3) The term “nuclear security budget materials”, with respect to a fiscal year, means the materials submitted to Congress by the Administrator in support of the budget for that fiscal year.
+(3) The term “national defense strategy” means the review of the defense programs and policies of the United States that is carried out every four years under [section 113(g) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section113/g&num=0&edition=prelim).
 
-(4) The term “quadrennial defense review” means the review of the defense programs and policies of the United States that is carried out every four years under section 118 11 See References in Text note below. of title 10.
+(4) The term “nuclear security budget materials”, with respect to a fiscal year, means the materials submitted to Congress by the Administrator in support of the budget for that fiscal year.
 
 (5) The term “weapons activities” means each activity within the budget category of weapons activities in the budget of the Administration.
 
@@ -580,9 +585,6 @@ Subsec. (d). Pub. L. 111–84, § 3112(b), added subsec. (d).
 
 ### Statutory Notes
 
-#### References in Text
-[Section 118 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section118&num=0&edition=prelim), referred to in subsec. (f)(4), was repealed by Pub. L. 114–328, div. A, title IX, § 941(b)(1), Dec. 23, 2016, 130 Stat. 2367. For provisions related to national defense strategy similar to those contained in former section 118 prior to repeal, see [section 113(g) of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section113/g&num=0&edition=prelim), Armed Forces.
-
 #### Codification
 Section was formerly set out as a note under [section 2121 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2121&num=0&edition=prelim), The Public Health and Welfare, prior to renumbering by Pub. L. 108–136.
 
@@ -592,6 +594,12 @@ Provisions similar to those in this section were contained in the following prio
 Pub. L. 104–106, div. C, title XXXI, § 3153, Feb. 10, 1996, 110 Stat. 624; repealed Pub. L. 105–85, div. C, title XXXI, § 3152(c), Nov. 18, 1997, 111 Stat. 2042.
 
 #### Amendments
+2019—Subsec. (d)(4)(A)(ii). Pub. L. 116–92, § 3139(b)(2)(A), substituted “national defense strategy” for “quadrennial defense review if such strategy has not been submitted”.
+
+Subsec. (e)(1)(A)(i). Pub. L. 116–92, § 3139(b)(2)(B), substituted “referred to in subsection (d)(4)(A)(i), the most recent the national defense strategy, and the most recent” for “or the most recent quadrennial defense review, as applicable under subsection (d)(4)(A), and the”.
+
+Subsec. (f)(3), (4). Pub. L. 116–92, § 3139(b)(2)(C), added par. (3), redesignated former par. (3) as (4), and struck out former par. (4) which read as follows: “The term ‘quadrennial defense review’ means the review of the defense programs and policies of the United States that is carried out every four years under [section 118 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section118&num=0&edition=prelim).”
+
 2017—Subsec. (c)(6). Pub. L. 115–91, § 3133(c)(1)(A)(ii), added par. (6). Former par. (6) redesignated (8).
 
 Subsec. (c)(7). Pub. L. 115–91, § 3134(1)(B), added par. (7). Former par. (7) redesignated (9).
@@ -1056,7 +1064,7 @@ Section, Pub. L. 107–314, div. D, title XLII, § 4211, formerly Pub. L. 103–
 ## § 2533. Manufacturing infrastructure for refabrication and certification of nuclear weapons stockpile
 **(a) Manufacturing program**
 
-(1) The Secretary of Energy shall carry out a program for purposes of establishing within the Government a manufacturing infrastructure that has the capabilities of meeting the following objectives as specified in the Nuclear Posture Review:
+(1) The Secretary of Energy shall carry out a program for purposes of establishing within the Government a manufacturing infrastructure that has the capabilities of meeting the following objectives as specified in the most recent Nuclear Posture Review:
 
   (A) To provide a stockpile surveillance engineering base.
 
@@ -1074,11 +1082,11 @@ Section, Pub. L. 107–314, div. D, title XLII, § 4211, formerly Pub. L. 103–
 
 (1) The weapons assembly capabilities of the Pantex Plant.
 
-(2) The weapon secondary fabrication capabilities of the Y–12 Plant, Oak Ridge, Tennessee.
+(2) The weapon secondary fabrication capabilities of the Y–12 National Security Complex, Oak Ridge, Tennessee.
 
 (3) The capabilities of the Savannah River Site relating to tritium recycling and fissile materials components processing and fabrication.
 
-(4) The non-nuclear component capabilities of the Kansas City Plant.
+(4) The non-nuclear component capabilities of the Kansas City National Security Campus, Kansas City, Missouri.
 
 **(c) Nuclear Posture Review** For purposes of subsection (a), the term “Nuclear Posture Review” means the Department of Defense Nuclear Posture Review as contained in the Report of the Secretary of Defense to the President and Congress dated February 19, 1995, or subsequent such reports.
 
@@ -1088,6 +1096,12 @@ Section, Pub. L. 107–314, div. D, title XLII, § 4211, formerly Pub. L. 103–
 Section was formerly set out as a note under [section 2121 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2121&num=0&edition=prelim), The Public Health and Welfare, prior to renumbering by Pub. L. 108–136.
 
 #### Amendments
+2019—Subsec. (a)(1). Pub. L. 116–92, § 3139(b)(3)(A), inserted “most recent” before “Nuclear Posture Review”.
+
+Subsec. (b)(2). Pub. L. 116–92, § 3139(b)(3)(B)(i), substituted “National Security Complex” for “Plant”.
+
+Subsec. (b)(4). Pub. L. 116–92, § 3139(b)(3)(B)(ii), substituted “National Security Campus, Kansas City, Missouri” for “Plant”.
+
 2013—Subsec. (a)(2). Pub. L. 113–66, § 3146(c)(6)(A), substituted “Memorandum” for “Review”.
 
 Subsec. (c). Pub. L. 113–66, § 3146(c)(6)(B), substituted “Congress” for “the Congress”.
@@ -1181,10 +1195,10 @@ Pub. L. 112–239, div. C, title XXXI, § 3114(c)–(e), Jan. 2, 2013, 126 Stat.
 
 
 <a id="section-2537"></a>
-## § 2537. Reports on lifetime extension programs
-**(a) Reports required** Before proceeding beyond phase 6.2 activities with respect to any lifetime extension program, the Nuclear Weapons Council shall submit to the congressional defense committees a report on such phase 6.2 activities, including—
+## § 2537. Reports on life extension programs
+**(a) Reports required** Before proceeding beyond phase 6.2 activities with respect to any life extension program, the Nuclear Weapons Council shall submit to the congressional defense committees a report on such phase 6.2 activities, including—
 
-(1) an assessment of the lifetime extension options considered for the phase 6.2 activities, including whether the subsystems and components in each option are considered to be a refurbishment, reuse, or replacement of such subsystem or component; and
+(1) an assessment of the life extension options considered for the phase 6.2 activities, including whether the subsystems and components in each option are considered to be a refurbishment, reuse, or replacement of such subsystem or component; and
 
 (2) an assessment of the option selected for the phase 6.2 activities, including—
 
@@ -1192,11 +1206,13 @@ Pub. L. 112–239, div. C, title XXXI, § 3114(c)–(e), Jan. 2, 2013, 126 Stat.
 
   (B) the advantages and disadvantages of refurbishment, reuse, and replacement for each such subsystem and component.
 
-**(b) Phase 6.2 activities defined** In this section, the term “phase 6.2 activities” means, with respect to a lifetime extension program, the phase 6.2 feasibility study and option down-select.
+**(b) Phase 6.2 activities defined** In this section, the term “phase 6.2 activities” means, with respect to a life extension program, the phase 6.2 feasibility study and option down-select.
 
 ### Statutory Notes
 
 #### Amendments
+2019—Pub. L. 116–92 substituted “life” for “lifetime” in section catchline and wherever appearing in text.
+
 2013—Subsec. (a). Pub. L. 113–66 struck out “established by [section 179 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section179&num=0&edition=prelim)” after “Nuclear Weapons Council” in introductory provisions.
 
 
@@ -1214,17 +1230,19 @@ Pub. L. 112–239, div. C, title XXXI, § 3114(c)–(e), Jan. 2, 2013, 126 Stat.
 
   (A) An independent cost estimate of the following:
 
-    (i) Each nuclear weapon system undergoing life extension at the completion of phase 6.2A, relating to design definition and cost study.
+    (i) Each nuclear weapon system undergoing life extension at the completion of phase 6.2A or new weapon system at the completion of phase 2A, relating to design definition and cost study.
 
-    (ii) Each nuclear weapon system undergoing life extension at the completion of phase 6.3, relating to development engineering.
+    (ii) Each nuclear weapon system undergoing life extension at the completion of phase 6.3 or new weapon system at the completion of phase 3, relating to development engineering.
 
     (iii) Each nuclear weapon system undergoing life extension at the completion of phase 6.4, relating to production engineering, and before the initiation of phase 6.5, relating to first production.
 
-    (iv) Each new nuclear facility within the nuclear security enterprise that is estimated to cost more than $500,000,000 before such facility achieves critical decision 1 and before such facility achieves critical decision 2 in the acquisition process.
+    (iv) Each new weapon system at the completion of phase 4, relating to production engineering, and before the initiation of phase 5, relating to first production.
 
-    (v) Each nuclear weapons system undergoing a major alteration project (as defined in [section 2753(a)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section2753/a/2&num=0&edition=prelim)).
+    (v) Each new nuclear facility within the nuclear security enterprise that is estimated to cost more than $500,000,000 before such facility achieves critical decision 1 and before such facility achieves critical decision 2 in the acquisition process.
 
-  (B) An independent cost review of each nuclear weapon system undergoing life extension at the completion of phase 6.2, relating to study of feasibility and down-select.
+    (vi) Each nuclear weapons system undergoing a major alteration project (as defined in [section 2753(a)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section2753/a/2&num=0&edition=prelim)).
+
+  (B) An independent cost review of each nuclear weapon system undergoing life extension at the completion of phase 6.2 or new weapon system at the completion of phase 2, relating to study of feasibility and down-select.
 
 (2) Each independent cost estimate and independent cost review under paragraph (1) shall include—
 
@@ -1238,7 +1256,7 @@ Pub. L. 112–239, div. C, title XXXI, § 3114(c)–(e), Jan. 2, 2013, 126 Stat.
 
   (A) in the case of a nuclear weapons system, such system completes a phase specified in such paragraph; or
 
-  (B) in the case of a nuclear facility, such facility achieves critical decision 1 as specified in subparagraph (A)(iv) of such paragraph.
+  (B) in the case of a nuclear facility, such facility achieves critical decision 1 as specified in subparagraph (A)(v) of such paragraph.
 
 (5) Each independent cost estimate or independent cost review submitted under this subsection shall be submitted in unclassified form, but may include a classified annex if necessary.
 
@@ -1247,6 +1265,16 @@ Pub. L. 112–239, div. C, title XXXI, § 3114(c)–(e), Jan. 2, 2013, 126 Stat.
 ### Statutory Notes
 
 #### Amendments
+2021—Subsec. (b)(1)(A)(i). Pub. L. 116–283, § 3111(b)(1)(A)(i), substituted “phase 6.2A or new weapon system at the completion of phase 2A” for “phase 6.2A”.
+
+Subsec. (b)(1)(A)(ii). Pub. L. 116–283, § 3111(b)(1)(A)(ii), substituted “phase 6.3 or new weapon system at the completion of phase 3” for “phase 6.3”.
+
+Subsec. (b)(1)(A)(iv) to (vi). Pub. L. 116–283, § 3111(b)(1)(A)(iii), (iv), added cl. (iv) and redesignated former cls. (iv) and (v) as (v) and (vi), respectively.
+
+Subsec. (b)(1)(B). Pub. L. 116–283, § 3111(b)(1)(B), substituted “phase 6.2 or new weapon system at the completion of phase 2” for “phase 6.2”.
+
+Subsec. (b)(4)(B). Pub. L. 116–283, § 3111(b)(2), substituted “subparagraph (A)(v)” for “subparagraph (A)(iv)”.
+
 2017—Subsec. (a)(1). Pub. L. 115–91, § 3133(d)(1), substituted “the first quarter of each fiscal year” for “each fiscal-year quarter” and “and each major” for “or a major” and inserted “during the preceding fiscal year” after “2753(a)(2) of this title)”.
 
 Subsec. (a)(2). Pub. L. 115–91, § 3133(d)(2), substituted “a fiscal year” for “a fiscal-year quarter” and “each fiscal-year quarter in that fiscal year” for “such fiscal-year quarter”.
@@ -1300,11 +1328,11 @@ Subsec. (b)(3). Pub. L. 113–66, § 3112(b)(2), added par. (3).
 
 **(b) , (c) Omitted**
 
-**(d) Advice and opinions regarding nuclear weapons stockpile** In addition to a director of a national security laboratory or a nuclear weapons production facility under [section 2533 of this title](./chapter-042-atomic-energy-defense-provisions.md#section-2533), any member of the Nuclear Weapons Council or the Commander of the United States Strategic Command may also submit to the President, the Secretary of Defense, the Secretary of Energy, or the congressional defense committees advice or opinion regarding the safety, security, effectiveness, and reliability of the nuclear weapons stockpile.
+**(d) Advice and opinions regarding nuclear weapons stockpile** In addition to a director of a national security laboratory or a nuclear weapons production facility under [section 2533 of this title](./chapter-042-atomic-energy-defense-provisions.md#section-2533), any member of the Nuclear Weapons Council may also submit to the President, the Secretary of Defense, the Secretary of Energy, or the congressional defense committees advice or opinion regarding the safety, security, effectiveness, and reliability of the nuclear weapons stockpile.
 
 **(e) Expression of individual views**
 
-(1) **In general** — No individual, including a representative of the President, may take any action against, or otherwise constrain, a director of a national security laboratory or a nuclear weapons production facility, a member of the Nuclear Weapons Council, or the Commander of the United States Strategic Command from presenting the professional views of the director, member, or Commander, as the case may be, to the President, the National Security Council, or Congress regarding—
+(1) **In general** — No individual, including a representative of the President, may take any action against, or otherwise constrain, a director of a national security laboratory or a nuclear weapons production facility or a member of the Nuclear Weapons Council from presenting the professional views of the director or member, as the case may be, to the President, the National Security Council, or Congress regarding—
 
   (A) the safety, security, reliability, or credibility of the nuclear weapons stockpile and nuclear forces; or
 
@@ -1333,6 +1361,10 @@ Section is comprised of section 4218 of Pub. L. 107–314. Subsecs. (b) and (c) 
 Section was formerly classified to [section 7274p of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section7274p&num=0&edition=prelim), The Public Health and Welfare, prior to renumbering by Pub. L. 112–239.
 
 #### Amendments
+2019—Subsec. (d). Pub. L. 116–92, § 3139(b)(5)(A), struck out “or the Commander of the United States Strategic Command” after “Nuclear Weapons Council”.
+
+Subsec. (e)(1). Pub. L. 116–92, § 3139(b)(5)(B), substituted “or a member of the Nuclear Weapons Council” for “, a member of the Nuclear Weapons Council, or the Commander of the United States Strategic Command” and “or member” for “, member, or Commander”.
+
 2014—Subsec. (d). Pub. L. 113–291, § 3142(e)(1), substituted “Commander” for “commander”.
 
 Subsec. (e)(1). Pub. L. 113–291, § 3142(e)(2), substituted “a representative” for “representatives” in introductory provisions.
@@ -1385,27 +1417,25 @@ All national security functions and activities performed immediately before Oct.
 
 (4) during 2026, produces not less than 30 war reserve plutonium pits; and
 
-(5) during a pilot period of not less than 90 days during 2027 (subject to subsection (b)), demonstrates the capability to produce war reserve plutonium pits at a rate sufficient to produce 80 pits per year.
+(5) during 2030, produces not less than 80 war reserve plutonium pits.
 
-**(b) Authorization of two-year delay of demonstration requirement** The Secretary of Energy and the Secretary of Defense may jointly delay, for not more than two years, the requirement under subsection (a)(5) if—
+**(b) Annual certification** Not later than March 1, 2015, and each year thereafter through 2030, the Secretary of Energy shall certify to the congressional defense committees and the Secretary of Defense that the programs and budget of the Secretary of Energy will enable the nuclear security enterprise to meet the requirements under subsection (a).
 
-(1) the Secretary of Defense and the Secretary of Energy jointly submit to the congressional defense committees a report describing—
+**(c) Plan** If the Secretary of Energy does not make a certification under subsection (b) by March 1 of any year in which a certification is required under that subsection, by not later than May 1 of such year, the Chairman of the Nuclear Weapons Council shall submit to the congressional defense committees a plan to enable the nuclear security enterprise to meet the requirements under subsection (a). Such plan shall include identification of the resources of the Department of Energy that the Chairman determines should be redirected to support the plan to meet such requirements.
 
-  (A) the justification for the proposed delay;
+### Statutory Notes
 
-  (B) the effects of the proposed delay on stockpile stewardship and modernization, life extension programs, future stockpile strategy, and dismantlement efforts; and
+#### Amendments
+2019—Subsec. (a)(5). Pub. L. 116–92, § 3116(b)(1), added par. (5) and struck out former par. (5) which read as follows: “during a pilot period of not less than 90 days during 2027 (subject to subsection (b)), demonstrates the capability to produce war reserve plutonium pits at a rate sufficient to produce 80 pits per year.”
 
-  (C) whether the proposed delay is consistent with national policy regarding creation of a responsive nuclear infrastructure; and
+Subsec. (b). Pub. L. 116–92, § 3116(b)(2)–(4), redesignated subsec. (c) as (b), substituted “2030” for “2027 (or, if the authority under subsection (b) is exercised, 2029)”, and struck out former subsec. (b) which authorized a two-year delay of the demonstration requirement.
 
-(2) the Commander of the United States Strategic Command submits to the congressional defense committees a report containing the assessment of the Commander with respect to the potential risks to national security of the proposed delay in meeting—
+Subsec. (c). Pub. L. 116–92, § 3116(b)(3), (5), redesignated subsec. (d) as (c) and substituted “subsection (b)” for “subsection (c)”. Former subsec. (c) redesignated (b).
 
-  (A) the nuclear deterrence requirements of the United States Strategic Command; and
+Subsec. (d). Pub. L. 116–92, § 3116(b)(3), redesignated subsec. (d) as (c).
 
-  (B) national requirements related to creation of a responsive nuclear infrastructure.
-
-**(c) Annual certification** Not later than March 1, 2015, and each year thereafter through 2027 (or, if the authority under subsection (b) is exercised, 2029), the Secretary of Energy shall certify to the congressional defense committees and the Secretary of Defense that the programs and budget of the Secretary of Energy will enable the nuclear security enterprise to meet the requirements under subsection (a).
-
-**(d) Plan** If the Secretary of Energy does not make a certification under subsection (c) by March 1 of any year in which a certification is required under that subsection, by not later than May 1 of such year, the Chairman of the Nuclear Weapons Council shall submit to the congressional defense committees a plan to enable the nuclear security enterprise to meet the requirements under subsection (a). Such plan shall include identification of the resources of the Department of Energy that the Chairman determines should be redirected to support the plan to meet such requirements.
+#### Sense of Congress Related to Modification to Certain Requirements Relating to Plutonium Pit Production Capacity
+Pub. L. 116–92, div. C, title XXXI, § 3116(a), Dec. 20, 2019, 133 Stat. 1951, provided that: “It is the sense of Congress that— “(1) rebuilding a robust plutonium pit production infrastructure with a capacity of up to 80 pits per year is critical to maintaining the viability of the nuclear weapons stockpile; “(2) that effort will require cooperation from experts across the nuclear security enterprise; and “(3) any further delay to achieving a plutonium sustainment capability to support the planned stockpile life extension programs will result in an unacceptable capability gap to our deterrent posture.”
 
 
 <a id="section-2538c"></a>
@@ -1420,19 +1450,23 @@ All national security functions and activities performed immediately before Oct.
 
 (2) Identify, enhance, and transfer knowledge, skills, and direct experience with respect to all phases of the joint nuclear weapons life cycle process from one generation of nuclear weapon designers and engineers to the following generation.
 
-(3) Periodically demonstrate stockpile responsiveness throughout the range of capabilities required, including prototypes, flight testing, and development of plans for certification without the need for nuclear explosive testing.
+(3) Periodically demonstrate stockpile responsiveness throughout the range of capabilities as required, such as through the use of prototypes, flight testing, and development of plans for certification without the need for nuclear explosive testing.
 
 (4) Shorten design, certification, and manufacturing cycles and timelines to minimize the amount of time and costs leading to an engineering prototype and production.
 
 (5) Continually exercise processes for the integration and coordination of all relevant elements and processes of the Administration and the Department of Defense required to ensure stockpile responsiveness.
 
-(6) The retention of the ability, in consultation with the Director of National Intelligence, to assess and develop prototype nuclear weapons of foreign countries and, if necessary, to conduct no-yield testing of those prototypes.
+(6) The retention of the ability, in coordination with the Director of National Intelligence, to assess and develop prototype nuclear weapons of foreign countries if needed to meet intelligence requirements and, if necessary, to conduct no-yield testing of those prototypes.
 
 **(d) Joint nuclear weapons life cycle process defined** In this section, the term “joint nuclear weapons life cycle process” means the process developed and maintained by the Secretary of Defense and the Secretary of Energy for the development, production, maintenance, and retirement of nuclear weapons.
 
 ### Statutory Notes
 
 #### Amendments
+2019—Subsec. (c)(3). Pub. L. 116–92, § 3114(1), substituted “capabilities as required, such as through the use of prototypes” for “capabilities required, including prototypes”.
+
+Subsec. (c)(6). Pub. L. 116–92, § 3114(2), substituted “in coordination with the Director of National Intelligence” for “in consultation with the Director of National Intelligence” and inserted “if needed to meet intelligence requirements” after “foreign countries”.
+
 2017—Subsec. (c)(6). Pub. L. 115–91 added par. (6).
 
 
@@ -1472,8 +1506,8 @@ All national security functions and activities performed immediately before Oct.
 2017—Subsec. (a). Pub. L. 115–91 substituted “Not later than December 31 of each even-numbered year through 2026” for “Concurrent with the submission to Congress of the budget of the President under [section 1105(a) of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1105/a&num=0&edition=prelim), in each even-numbered year beginning in 2016 and ending in 2026”.
 
 
-<a id="section-2541"></a>
-## § 2541. Incorporation of integrated surety architecture
+<a id="section-2538e"></a>
+## § 2538e. Incorporation of integrated surety architecture
 **(a) Shipments**
 
 (1) The Administrator shall ensure that shipments described in paragraph (2) incorporate surety technologies relating to transportation and shipping developed by the Integrated Surety Architecture program of the Administration.
@@ -1493,6 +1527,88 @@ All national security functions and activities performed immediately before Oct.
 (2) Each determination made under paragraph (1) shall be based on a documented, system risk analysis that considers security risk reduction, operational impacts, and technical risk.
 
 **(d) Termination** The requirements of subsections (a) and (b) shall terminate on December 31, 2029.
+
+
+<a id="section-2538f"></a>
+## § 2538f. W93 Nuclear warhead acquisition process
+**(a) Reporting requirements**
+
+(1) **Phase 1** — Upon receiving a concept definition study under phase 1 of the joint nuclear weapons life cycle for the W93 nuclear weapon, the Nuclear Weapons Council shall submit to the congressional defense committees a report that includes the following:
+
+  (A) A description of the potential military characteristics of the weapon.
+
+  (B) A description of the stockpile-to-target sequence requirements of the weapon.
+
+  (C) An initial assessment of the requirements a W93 nuclear weapon program is likely to generate for the nuclear security enterprise, including—
+
+    (i) adjustments to the size and composition of the workforce;
+
+    (ii) additions to existing weapon design and production capabilities; or
+
+    (iii) additional facility recapitalization or new construction.
+
+  (D) A preliminary description of other significant requirements for a W93 nuclear weapon program, including—
+
+    (i) first production unit date;
+
+    (ii) initial operational capability date;
+
+    (iii) full operational capability date; and
+
+    (iv) any unique safety and surety requirements that could increase design complexity or cost estimate uncertainty.
+
+(2) **Phase 2**
+
+  (A) *In general* — Not later than 15 days after the date on which the Nuclear Weapons Council approves phase 2 of the joint nuclear weapons life cycle for the W93 nuclear weapon, the Administrator shall submit to the congressional defense committees a plan to implement a process of independent peer review or review by a board of experts, or both, with respect to—
+
+    (i) the nonnuclear components of the weapon;
+
+    (ii) subsystem design; and
+
+    (iii) engineering aspects of the weapon.
+
+  (B) *Requirements for process* — The Administrator shall ensure that the process required by subparagraph (A)—
+
+    (i) uses—
+
+      (I) all relevant capabilities of the Federal Government, the defense industrial base, and institutions of higher education; and
+
+      (II) other capabilities that the Administrator determines necessary; and
+
+    (ii) informs the entire development life cycle of the W93 nuclear weapon.
+
+**(b) Certifications and reports at phase 3** Not later than 15 days after the date on which the Nuclear Weapons Council approves phase 3 of the joint nuclear weapons life cycle for the W93 nuclear weapon—
+
+(1) the Administrator shall certify to the congressional defense committees that—
+
+  (A) phases 1 through 5 of the joint nuclear weapons life cycle for the weapon will employ, at a minimum, the same best practices and will provide Congress with the same level of programmatic insight as exists under the phase 6.X process for life extension programs; and
+
+  (B) the proposed design for the weapon can be carried out within estimated schedule and cost objectives; and
+
+(2) the Commander of the United States Strategic Command shall submit to the congressional defense committees a report containing the requirements for weapon quantity and composition by type for the sub-surface ballistic nuclear (SSBN) force, including such requirements planned for the 15-year period following the date of the report, including any planned life extensions, retirements, or alterations.
+
+**(c) Waivers** Subsections (a) and (b) may be waived during a period of war declared by Congress after January 1, 2021.
+
+**(d) Joint nuclear weapons life cycle defined** In this section, the term “joint nuclear weapons life cycle” has the meaning given that term in [section 2538b of this title](./chapter-042-atomic-energy-defense-provisions.md#section-2538b).
+
+
+<a id="section-2541"></a>
+## § 2541. Earned value management and technology readiness levels for life extension programs
+**(a) Review of contractor earned value management systems** The Administrator shall enter into an arrangement with an independent entity under which that entity shall—
+
+(1) review and validate whether the earned value management systems of contractors of the Administration for life extension programs meet the earned value management national standard; and
+
+(2) conduct periodic surveillance reviews of such systems to ensure that such systems maintain compliance with that standard through program completion.
+
+**(b) Benchmarks for technology readiness levels** The Administrator shall—
+
+(1) establish specific benchmarks for technology readiness levels of critical technologies for life extension programs at key decision points; and
+
+(2) ensure that critical technologies meet such benchmarks at such decision points.
+
+**(c) Applicability** This section shall apply to programs that, as of January 1, 2021, have not entered phase 3 of the nuclear weapons acquisition process or phase 6.3 of a nuclear weapons life extension program.
+
+**(d) Definition** In this section, the term “earned value management national standard” means the most recent version of the EIA-748 Earned Value Management System Standard published by the National Defense Industrial Association.
 
 
 <a id="section-2542"></a>
@@ -2279,6 +2395,9 @@ Subsec. (a). Pub. L. 113–66, § 3146(e)(1)(B), substituted “ ‘Defense Envi
 
 Subsec. (b). Pub. L. 113–66, § 3146(e)(1)(C), substituted “defense environmental cleanup” for “environmental restoration and waste management”.
 
+#### Classification of Defense Environmental Cleanup as Capital Asset Projects or Operations Activities
+Pub. L. 116–283, div. C, title XXXI, § 3123, Jan. 1, 2021, 134 Stat. 4381, provided that: “(a) In General.—The Assistant Secretary of Energy for Environmental Management, in consultation with other appropriate officials of the Department of Energy, shall establish requirements for the classification of defense environmental cleanup projects as capital asset projects or operations activities. “(b) Report Required.—Not later than March 1, 2021, the Assistant Secretary shall submit to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] a report—“(1) setting forth the requirements established under subsection (a); and “(2) assessing whether any ongoing defense environmental cleanup projects should be reclassified based on those requirements.”
+
 
 <a id="section-2582a"></a>
 ## § 2582a. Requirement to develop future use plans for defense environmental cleanup
@@ -2359,6 +2478,8 @@ Subsec. (h)(1). Pub. L. 108–136, § 3141(g)(3)(D)(ii), substituted “Septembe
 
   (C) For any milestone that will not be met, an explanation of why the milestone will not be met and the date by which the milestone is expected to be met.
 
+  (D) For any milestone that has been missed, renegotiated, or postponed, a statement of the current milestone, the original milestone, and any interim milestones.
+
 **(c) Sites specified** The sites specified in this subsection are the following:
 
 (1) The Idaho National Laboratory, Idaho.
@@ -2390,6 +2511,8 @@ Subsec. (h)(1). Pub. L. 108–136, § 3141(g)(3)(D)(ii), substituted “Septembe
 ### Statutory Notes
 
 #### Amendments
+2021—Subsec. (b)(3)(D). Pub. L. 116–283 added subpar. (D).
+
 2013—Pub. L. 113–66, § 3146(e)(3)(A), substituted “cleanup” for “management” in section catchline.
 
 Subsec. (a). Pub. L. 113–66, § 3146(e)(3)(B)(i), substituted “cleanup” for “management” in introductory provisions.
@@ -2521,8 +2644,8 @@ Section was formerly set out as a note under [section 7274g of Title 42](https:/
 2003—Pub. L. 108–136, § 3141(g)(9)(C), substituted “Public participation in planning for environmental restoration and waste management at defense nuclear facilities” for “Public participation in planning” in section catchline.
 
 
-<a id="section-2601"></a>
-## § 2601. Policy of Department of Energy regarding future defense environmental management matters
+<a id="section-2590"></a>
+## § 2590. Policy of Department of Energy regarding future defense environmental management matters
 **(a) Policy required**
 
 (1) Commencing not later than October 1, 2005, the Secretary of Energy shall have in effect a policy for carrying out future defense environmental management matters of the Department of Energy. The policy shall specify each officer within the Department with responsibilities for carrying out that policy and, for each such officer, the nature and extent of those responsibilities.
@@ -2539,6 +2662,22 @@ Section was formerly set out as a note under [section 7274g of Title 42](https:/
 
 #### Codification
 Section was enacted as part of the National Defense Authorization Act for Fiscal Year 2004, and not as part of the Atomic Energy Defense Act which comprises this chapter.
+
+
+<a id="section-2591"></a>
+## § 2591. Estimation of costs of meeting defense environmental cleanup milestones required by consent orders
+
+The Secretary of Energy shall include in the budget justification materials submitted to Congress in support of the Department of Energy budget for each fiscal year (as submitted with the budget of the President under [section 1105(a) of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1105/a&num=0&edition=prelim)) a report on the cost, for that fiscal year and the four fiscal years following that fiscal year, of meeting milestones required by a consent order at each defense nuclear facility at which defense environmental cleanup activities are occurring. The report shall include, for each such facility—
+
+(1) a specification of the cost of meeting such milestones during that fiscal year; and
+
+(2) an estimate of the cost of meeting such milestones during the four fiscal years following that fiscal year.
+
+
+<a id="section-2601"></a>
+## § 2601. Public statement of environmental liabilities
+
+Each year, at the same time that the Department of Energy submits its annual financial report under [section 3516 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section3516&num=0&edition=prelim), the Secretary of Energy shall make available to the public a statement of environmental liabilities, as calculated for the most recent audited financial statement of the Department under section 3515 of that title, for each defense nuclear facility at which defense environmental cleanup activities are occurring.
 
 
 <a id="section-2602"></a>
@@ -3192,8 +3331,8 @@ Section, Pub. L. 107–314, div. D, title XLV, § 4508, formerly Pub. L. 106–6
 Section, Pub. L. 107–314, div. D, title XLV, § 4509, as added Pub. L. 112–239, div. C, title XXXI, § 3115(a), Jan. 2, 2013, 126 Stat. 2172; amended Pub. L. 113–291, div. C, title XXXI, § 3111, Dec. 19, 2014, 128 Stat. 3884, related to design and use of prototypes of nuclear weapons for intelligence purposes.
 
 
-<a id="section-2671"></a>
-## § 2671. Protection of certain nuclear facilities and assets from unmanned aircraft
+<a id="section-2662"></a>
+## § 2662. Protection of certain nuclear facilities and assets from unmanned aircraft
 **(a) Authority** Notwithstanding any provision of title 18, the Secretary of Energy may take such actions described in subsection (b)(1) that are necessary to mitigate the threat (as defined by the Secretary of Energy, in consultation with the Secretary of Transportation) that an unmanned aircraft system or unmanned aircraft poses to the safety or security of a covered facility or asset.
 
 **(b) Actions described**
@@ -3234,6 +3373,85 @@ Section, Pub. L. 107–314, div. D, title XLV, § 4509, as added Pub. L. 112–2
 
 #### References in Text
 Section 331 of the FAA Modernization and Reform Act of 2012 (Public Law 112–95), referred to in subsec. (e)(2), which was formerly set out in a note under [section 40101 of Title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section40101&num=0&edition=prelim), Transportation, was transferred and is now set out in a note under [section 44802 of Title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section44802&num=0&edition=prelim).
+
+
+<a id="section-2671"></a>
+## § 2671. Reporting on penetrations of networks of contractors and subcontractors
+**(a) Procedures for reporting penetrations** The Administrator shall establish procedures that require each contractor and subcontractor to report to the Chief Information Officer when a covered network of the contractor or subcontractor that meets the criteria established pursuant to subsection (b) is successfully penetrated.
+
+**(b) Establishment of criteria for covered networks**
+
+(1) **In general** — The Administrator shall, in consultation with the officials specified in paragraph (2), establish criteria for covered networks to be subject to the procedures for reporting penetrations under subsection (a).
+
+(2) **Officials specified** — The officials specified in this paragraph are the following officials of the Administration:
+
+  (A) The Deputy Administrator for Defense Programs.
+
+  (B) The Associate Administrator for Acquisition and Project Management.
+
+  (C) The Chief Information Officer.
+
+  (D) Any other official of the Administration the Administrator considers necessary.
+
+**(c) Procedure requirements**
+
+(1) **Rapid reporting**
+
+  (A) *In general* — The procedures established pursuant to subsection (a) shall require each contractor or subcontractor to submit to the Chief Information Officer a report on each successful penetration of a covered network of the contractor or subcontractor that meets the criteria established pursuant to subsection (b) not later than 60 days after the discovery of the successful penetration.
+
+  (B) *Elements* — Subject to subparagraph (C), each report required by subparagraph (A) with respect to a successful penetration of a covered network of a contractor or subcontractor shall include the following:
+
+    (i) A description of the technique or method used in such penetration.
+
+    (ii) A sample of the malicious software, if discovered and isolated by the contractor or subcontractor, involved in such penetration.
+
+    (iii) A summary of information created by or for the Administration in connection with any program of the Administration that has been potentially compromised as a result of such penetration.
+
+  (C) *Avoidance of delays in reporting* — If a contractor or subcontractor is not able to obtain all of the information required by subparagraph (B) to be included in a report required by subparagraph (A) by the date that is 60 days after the discovery of a successful penetration of a covered network of the contractor or subcontractor, the contractor or subcontractor shall—
+
+    (i) include in the report all information available as of that date; and
+
+    (ii) provide to the Chief Information Officer the additional information required by subparagraph (B) as the information becomes available.
+
+(2) **Access to equipment and information by administration personnel** — Concurrent with the establishment of the procedures pursuant to subsection (a), the Administrator shall establish procedures to be used if information owned by the Administration was in use during or at risk as a result of the successful penetration of a covered network—
+
+  (A) in order to—
+
+    (i) in the case of a penetration of a covered network of a management and operating contractor, enhance the access of personnel of the Administration to Government-owned equipment and information; and
+
+    (ii) in the case of a penetration of a covered network of a contractor or subcontractor that is not a management and operating contractor, facilitate the access of personnel of the Administration to the equipment and information of the contractor or subcontractor; and
+
+  (B) which shall—
+
+    (i) include mechanisms for personnel of the Administration to, upon request, obtain access to equipment or information of a contractor or subcontractor necessary to conduct forensic analysis in addition to any analysis conducted by the contractor or subcontractor;
+
+    (ii) provide that a contractor or subcontractor is only required to provide access to equipment or information as described in clause (i) to determine whether information created by or for the Administration in connection with any program of the Administration was successfully exfiltrated from a network of the contractor or subcontractor and, if so, what information was exfiltrated; and
+
+    (iii) provide for the reasonable protection of trade secrets, commercial or financial information, and information that can be used to identify a specific person.
+
+(3) **Dissemination of information** — The procedures established pursuant to subsection (a) shall allow for limiting the dissemination of information obtained or derived through such procedures so that such information may be disseminated only to entities—
+
+  (A) with missions that may be affected by such information;
+
+  (B) that may be called upon to assist in the diagnosis, detection, or mitigation of cyber incidents;
+
+  (C) that conduct counterintelligence or law enforcement investigations; or
+
+  (D) for national security purposes, including cyber situational awareness and defense purposes.
+
+**(d) Definitions** In this section:
+
+(1) **Chief Information Officer** — The term “Chief Information Officer” means the Associate Administrator for Information Management and Chief Information Officer of the Administration.
+
+(2) **Contractor** — The term “contractor” means a private entity that has entered into a contract or contractual action of any kind with the Administration to furnish supplies, equipment, materials, or services of any kind.
+
+(3) **Covered network** — The term “covered network” includes any network or information system that accesses, receives, or stores—
+
+  (A) classified information; or
+
+  (B) sensitive unclassified information germane to any program of the Administration, as determined by the Administrator.
+
+(4) **Subcontractor** — The term “subcontractor” means a private entity that has entered into a contract or contractual action with a contractor or another subcontractor to furnish supplies, equipment, materials, or services of any kind in connection with another contract in support of any program of the Administration.
 
 
 <a id="section-2672"></a>
@@ -3372,12 +3590,15 @@ Subsec. (d). Pub. L. 108–136, § 3141(h)(13)(D)(iv), substituted “subsection
 
 (1) The Secretary shall establish a pool of Department employees and Department contractor employees who are specially trained to counter threats of espionage and intelligence-gathering by foreign nationals against Department employees and Department contractor employees who travel abroad for laboratory-to-laboratory exchange activities or other cooperative exchange activities on behalf of the Department.
 
-(2) The Director of Counterintelligence of the Department of Energy may assign at least one employee from the pool established under paragraph (1) to accompany a group of Department employees or Department contractor employees who travel to any nation designated to be a sensitive country for laboratory-to-laboratory exchange activities or other cooperative exchange activities on behalf of the Department.
+(2) The Director of Intelligence and Counterintelligence of the Department of Energy may assign at least one employee from the pool established under paragraph (1) to accompany a group of Department employees or Department contractor employees who travel to any nation designated to be a sensitive country for laboratory-to-laboratory exchange activities or other cooperative exchange activities on behalf of the Department.
 
 ### Statutory Notes
 
 #### Codification
 Section was formerly classified to [section 7383b of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section7383b&num=0&edition=prelim), The Public Health and Welfare, prior to renumbering by Pub. L. 108–136.
+
+#### Amendments
+2019—Subsec. (b)(2). Pub. L. 116–92 inserted “Intelligence and” after “The Director of”.
 
 
 <a id="section-2701"></a>
@@ -3430,7 +3651,7 @@ A prior section 2691, Pub. L. 107–314, div. D, title XLV, § 4541, formerly Pu
 
 **(c) Termination**
 
-(1) The authority provided under subsection (a)(1) shall terminate on September 30, 2020.
+(1) The authority provided under subsection (a)(1) shall terminate on September 30, 2021.
 
 (2) An employee may not be separated from employment with the Department of Energy or receive a reduction in pay by reason of the termination of authority under paragraph (1).
 
@@ -3443,6 +3664,8 @@ The General Schedule, referred to in subsec. (a)(1), is set out under [section 5
 Section was formerly set out as a note under [section 7231 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section7231&num=0&edition=prelim), The Public Health and Welfare, prior to renumbering by Pub. L. 108–136.
 
 #### Amendments
+2021—Subsec. (c)(1). Pub. L. 116–283 substituted “September 30, 2021” for “September 30, 2020”.
+
 2016—Subsec. (c)(1). Pub. L. 114–328 substituted “2020” for “2016”.
 
 2013—Subsec. (a)(4). Pub. L. 113–66 struck out par. (4) which read as follows: “The Secretary may not appoint more than 100 persons during fiscal year 1995 under the authority provided in this subsection.”
@@ -4614,7 +4837,7 @@ Subsec. (a)(3)(A). Pub. L. 113–66, § 3146(h)(4)(B), substituted “environmen
 
 <a id="section-2755"></a>
 ## § 2755. Life-cycle cost estimates of certain atomic energy defense capital assets
-**(a) In general** The Secretary of Energy shall ensure that an independent life-cycle cost estimate under Department of Energy Order 413.3 (relating to program management and project management for the acquisition of capital assets) of each capital asset described in subsection (b) is conducted before the asset achieves critical decision 2 in the acquisition process.
+**(a) In general** The Secretary of Energy shall ensure that an independent life-cycle cost estimate under Department of Energy Order 413.3B (relating to program management and project management for the acquisition of capital assets), or a successor order, of each capital asset described in subsection (b) is conducted before the asset achieves critical decision 2 in the acquisition process.
 
 **(b) Capital assets described** A capital asset described in this subsection is an atomic energy defense capital asset—
 
@@ -4625,6 +4848,9 @@ Subsec. (a)(3)(A). Pub. L. 113–66, § 3146(h)(4)(B), substituted “environmen
 **(c) Independent defined** For purposes of subsection (a), the term “independent”, with respect to a life-cycle cost estimate of a capital asset, means that the life-cycle cost estimate is prepared by an organization independent of the project sponsor, using the same detailed technical and procurement information as the sponsor, to determine if the life-cycle cost estimate of the sponsor is accurate and reasonable.
 
 ### Statutory Notes
+
+#### Amendments
+2019—Subsec. (a). Pub. L. 116–92 substituted “413.3B” for “413.3” and inserted “, or a successor order,” after “assets)”.
 
 #### Use of Best Practices for Capital Asset Projects and Nuclear Weapon Life Extension Programs
 Pub. L. 114–92, div. C, title XXXI, § 3117, Nov. 25, 2015, 129 Stat. 1195, provided that: “(a) Analyses of Alternatives.—Not later than 30 days after the date of the enactment of this Act [Nov. 25, 2015], the Secretary of Energy, in coordination with the Administrator for Nuclear Security, shall ensure that analyses of alternatives are conducted (including through contractors, as appropriate) in accordance with best practices for capital asset projects and life extension programs of the National Nuclear Security Administration and capital asset projects relating to defense environmental management. “(b) Cost Estimates.—Not later than 30 days after the date of the enactment of this Act, the Secretary, in coordination with the Administrator, shall develop cost estimates in accordance with cost estimating best practices for capital asset projects and life extension programs of the National Nuclear Security Administration and capital asset projects relating to defense environmental management. “(c) Revisions to Departmental Project Management Order and Nuclear Weapon Life Extension Requirements.—As soon as practicable after the date of the enactment of this Act [Nov. 25, 2015], but not later than two years after such date of enactment, the Secretary shall revise—“(1) the capital asset project management order of the Department of Energy to require the use of best practices for preparing cost estimates and for conducting analyses of alternatives for National Nuclear Security Administration and defense environmental management capital asset projects; and “(2) the nuclear weapon life extension program procedures of the Department to require the use of use of [sic] best practices for preparing cost estimates and conducting analyses of alternatives for National Nuclear Security Administration life extension programs.”
@@ -4649,13 +4875,17 @@ Pub. L. 114–92, div. C, title XXXI, § 3117, Nov. 25, 2015, 129 Stat. 1195, pr
 **(b) Review and approval** The Administrator shall ensure that critical decision packages are timely reviewed and either approved or disapproved.
 
 
-<a id="section-2761"></a>
-## § 2761. Unfunded priorities of the National Nuclear Security Administration
-**(a) Annual report** Not later than 10 days after the date on which the budget of the President for a fiscal year is submitted to Congress pursuant to [section 1105(a) of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1105/a&num=0&edition=prelim), the Administrator shall submit to the Secretary of Energy and the congressional defense committees a report on the unfunded priorities of the Administration.
+<a id="section-2757"></a>
+## § 2757. Unfunded priorities of the Administration
+**(a) Annual report or certification** Not later than 10 days after the date on which the budget of the President for a fiscal year is submitted to Congress pursuant to [section 1105(a) of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1105/a&num=0&edition=prelim), the Administrator shall submit to the Secretary of Energy and the congressional defense committees either—
+
+(1) a report on the unfunded priorities of the Administration; or
+
+(2) if the Administrator determines that there are no unfunded priorities to include in such a report, a certification and explanation by the Administrator, without delegation, of the determination.
 
 **(b) Elements**
 
-(1) **In general** — Each report required by subsection (a) shall specify, for each unfunded priority covered by the report, the following:
+(1) **In general** — Each report under subsection (a)(1) shall specify, for each unfunded priority covered by the report, the following:
 
   (A) A summary description of that priority, including the objectives to be achieved if that priority is funded (whether in whole or in part).
 
@@ -4663,11 +4893,9 @@ Pub. L. 114–92, div. C, title XXXI, § 3117, Nov. 25, 2015, 129 Stat. 1195, pr
 
   (C) Account information with respect to that priority.
 
-(2) **Prioritization of priorities** — Each report required by subsection (a) shall present the unfunded priorities covered by the report in order of urgency of priority.
+(2) **Prioritization of priorities** — Each report under subsection (a)(1) shall present the unfunded priorities covered by the report in order of urgency of priority.
 
-**(c) Limitation** If the Administrator fails to submit to the congressional defense committees a report required by subsection (a) for any of fiscal years 2020 through 2024 that includes the matters specified in subsection (b)(1) for at least one unfunded priority by the deadline specified in subsection (a), not more than 65 percent of the funds authorized to be appropriated or otherwise made available for the fiscal year in which such failure occurs for travel and transportation of persons under the Federal salaries and expenses account of the Administration may be obligated or expended until the date on which the Administrator submits such report.
-
-**(d) Unfunded priority defined** In this section, the term “unfunded priority”, in the case of a fiscal year, means a program, activity, or mission requirement that—
+**(c) Unfunded priority defined** In this section, the term “unfunded priority”, in the case of a fiscal year, means a program, activity, or mission requirement that—
 
 (1) is not funded in the budget of the President for that fiscal year as submitted to Congress pursuant to [section 1105(a) of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1105/a&num=0&edition=prelim);
 
@@ -4682,7 +4910,69 @@ Pub. L. 114–92, div. C, title XXXI, § 3117, Nov. 25, 2015, 129 Stat. 1195, pr
 ### Statutory Notes
 
 #### Amendments
+2019—Pub. L. 116–92, § 3139(b)(7)(A), substituted “Administration” for “National Nuclear Security Administration” in section catchline.
+
+Subsec. (a). Pub. L. 116–92, § 3115(1), added subsec. (a) and struck out former subsec. (a). Prior to amendment, text read as follows: “Not later than 10 days after the date on which the budget of the President for a fiscal year is submitted to Congress pursuant to [section 1105(a) of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1105/a&num=0&edition=prelim), the Administrator shall submit to the Secretary of Energy and the congressional defense committees a report on the unfunded priorities of the Administration.”
+
+Subsec. (b). Pub. L. 116–92, § 3115(2), substituted “report under subsection (a)(1)” for “report required by subsection (a)” in introductory provisions of par. (1) and in par. (2).
+
+Subsecs. (c), (d). Pub. L. 116–92, § 3115(3), (4), struck out subsec. (c) and redesignated subsec. (d) as (c). Prior to amendment, text of subsec. (c) read as follows: “If the Administrator fails to submit to the congressional defense committees a report required by subsection (a) for any of fiscal years 2020 through 2024 that includes the matters specified in subsection (b)(1) for at least one unfunded priority by the deadline specified in subsection (a), not more than 65 percent of the funds authorized to be appropriated or otherwise made available for the fiscal year in which such failure occurs for travel and transportation of persons under the Federal salaries and expenses account of the Administration may be obligated or expended until the date on which the Administrator submits such report.”
+
 2018—Subsecs. (c), (d). Pub. L. 115–232 added subsec. (c) and redesignated former subsec. (c) as (d).
+
+
+<a id="section-2761"></a>
+## § 2761. Review of adequacy of nuclear weapons budget
+**(a) Review of adequacy of administration budget by Nuclear Weapons Council**
+
+(1) **Transmission to Council** — The Secretary of Energy shall transmit to the Nuclear Weapons Council (in this section referred to as the “Council”) a copy of the proposed budget request of the Administration for each fiscal year before that budget request is submitted to the Director of the Office of Management and Budget in relation to the preparation of the budget of the President to be submitted to Congress under [section 1105(a) of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1105/a&num=0&edition=prelim).
+
+(2) **Review and determination of adequacy**
+
+  (A) *Review* — The Council shall review each budget request transmitted to the Council under paragraph (1).
+
+  (B) *Determination of adequacy*
+
+    (i) *Inadequate requests* — If the Council determines that a budget request for a fiscal year transmitted to the Council under paragraph (1) is inadequate, in whole or in part, to implement the objectives of the Department of Defense with respect to nuclear weapons for that fiscal year, the Council shall submit to the Secretary of Energy a written description of funding levels and specific initiatives that would, in the determination of the Council, make the budget request adequate to implement those objectives.
+
+    (ii) *Adequate requests* — If the Council determines that a budget request for a fiscal year transmitted to the Council under paragraph (1) is adequate to implement the objectives described in clause (i) for that fiscal year, the Council shall submit to the Secretary of Energy a written statement confirming the adequacy of the request.
+
+    (iii) *Records* — The Council shall maintain a record of each description submitted under clause (i) and each statement submitted under clause (ii).
+
+(3) **Department of Energy response**
+
+  (A) *In general* — If the Council submits to the Secretary of Energy a written description under paragraph (2)(B)(i) with respect to the budget request of the Administration for a fiscal year, the Secretary shall include as an appendix to the budget request submitted to the Director of the Office of Management and Budget—
+
+    (i) the funding levels and initiatives identified in the description under paragraph (2)(B)(i); and
+
+    (ii) any additional comments the Secretary considers appropriate.
+
+  (B) *Transmission to Congress* — The Secretary of Energy shall transmit to Congress, with the budget justification materials submitted in support of the Department of Energy budget for a fiscal year (as submitted with the budget of the President under [section 1105(a) of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1105/a&num=0&edition=prelim)), a copy of the appendix described in subparagraph (A).
+
+**(b) Review and certification of Department of Energy budget by Nuclear Weapons Council**
+
+(1) **In general** — At the time the Secretary of Energy submits the budget request of the Department of Energy for that fiscal year to the Director of the Office of Management and Budget in relation to the preparation of the budget of the President, the Secretary shall transmit a copy of the budget request of the Department to the Council.
+
+(2) **Certification** — The Council shall—
+
+  (A) review the budget request transmitted to the Council under paragraph (1);
+
+  (B) based on the review under subparagraph (A), make a determination with respect to whether the budget request includes the funding levels and initiatives described in subsection (a)(2)(B)(i); and
+
+  (C) submit to Congress—
+
+    (i)
+
+      (I) a certification that the budget request is adequate to implement the objectives described in subsection (a)(2)(B)(i); or
+
+      (II) a statement that the budget request is not adequate to implement those objectives; and
+
+    (ii) a copy of the written description submitted by the Council to the Secretary under subsection (a)(2)(B)(i), if any.
+
+### Statutory Notes
+
+#### Codification
+Pub. L. 116–283, div. A, title XVI, § 1632(b)(1), which directed the addition of this section at the end of subtitle A of title XVII of the Atomic Energy Defense Act ([50 U.S.C. 2741](./chapter-042-atomic-energy-defense-provisions.md#section-2741) et seq.), was executed by adding this section at the end of subtitle A of title XLVII of the Atomic Energy Defense Act to reflect the probable intent of Congress.
 
 
 <a id="section-2762"></a>
@@ -4747,24 +5037,77 @@ Section, Pub. L. 107–314, div. D, title XLVII, § 4731, formerly Pub. L. 95–
 
 
 <a id="section-2773"></a>
-## § 2773. Quarterly reports on financial balances for atomic energy defense activities
-**(a) Reports required** Not later than 15 days after the end of each fiscal year quarter, the Secretary of Energy shall submit to the congressional defense committees a report on the financial balances for each atomic energy defense program at the budget control levels used in the report accompanying the most current Act appropriating funds for energy and water development.
+## § 2773. Reports on financial balances for atomic energy defense activities
+**(a) Reports required**
 
-**(b) Elements** Each report under subsection (a) shall set forth, for each program covered by such report, the following as of the end of the fiscal year quarter covered by such report:
+(1) **In general** — Concurrent with the submission of the budget justification materials submitted to Congress in support of the budget of the President for a fiscal year (submitted to Congress pursuant to [section 1105(a) of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1105/a&num=0&edition=prelim)), the Secretary of Energy shall submit to the congressional defense committees a report on the financial balances for each atomic energy defense program.
 
-(1) The total amount authorized to be appropriated, including amounts authorized to be appropriated in the current fiscal year and amounts authorized to be appropriated for prior fiscal years.
+(2) **Presentation of information** — In each report required by paragraph (1), the Secretary shall—
 
-(2) The amount unobligated.
+  (A) present information on the financial balances for each atomic energy defense program at the budget control levels used in the report accompanying the most current Act appropriating funds for energy and water development; and
 
-(3) The amount unobligated but committed.
+  (B) present financial balances in connection with funding under recurring DOE national security authorizations (as defined in [section 2741 of this title](./chapter-042-atomic-energy-defense-provisions.md#section-2741)) separately from balances in connection with funding under any other provision of law.
 
-(4) The amount obligated but uncosted.
+**(b) Elements**
 
-**(c) Presentation** Each report under subsection (a) shall present information as follows:
+(1) **Format** — Each report required by subsection (a) shall—
 
-(1) For each program, in summary form and by fiscal year.
+  (A) be divided into two parts, as specified in paragraphs (2) and (3); and
 
-(2) With financial balances in connection with funding under recurring DOE national security authorizations (as that term is defined in section 2741(1)) of this title presented separately from balances in connection with funding under any other provisions of law.
+  (B) set forth the information required by those paragraphs in summary form and by fiscal year.
+
+(2) **Part 1** — The first part of the report required by subsection (a) shall set forth, for each atomic energy defense program, the following information, as of the end of the most recently completed fiscal year:
+
+  (A) The balance of any unobligated funds and an explanation for why those funds are unobligated.
+
+  (B) The total funds available to cost.
+
+  (C) The total balance of costed funds.
+
+  (D) The total balance of uncosted funds.
+
+  (E) The threshold for the balance of uncosted funds, stated in dollars.
+
+  (F) The amount of any balance of uncosted funds that is over or under that threshold and, in the case of a balance over that threshold, an explanation for why the balance is over that threshold.
+
+  (G) The total balance of committed, uncosted funds.
+
+  (H) The total balance of uncommitted, uncosted funds.
+
+  (I) The amount of any balance of uncommitted, uncosted funds that is over or under the threshold described in subparagraph (E) and, in the case of a balance over that threshold, an explanation for why the balance is over that threshold.
+
+(3) **Part 2** — The second part of the report required by subsection (a) shall set forth, for each atomic energy defense program, the following information:
+
+  (A) The balance of any unobligated funds, as of the end of the first quarter of the current fiscal year.
+
+  (B) The total balance of uncosted funds, as of the end of the first quarter of the current fiscal year.
+
+  (C) Unalloted budget authority.
+
+**(c) Definitions** In this section:
+
+(1) **Committed** — The term “committed”, with respect to funds, means the funds are associated with a legally enforceable agreement, such as a purchase order or contract, that has been entered into.
+
+(2) **Costed** — The term “costed”, with respect to funds, means the funds have been obligated to a contract and goods or services have been received by the contractor in exchange for the funds.
+
+(3) **Uncommitted** — The term “uncommitted”, with respect to funds, means the funds are not committed.
+
+(4) **Uncosted** — The term “uncosted”, with respect to funds, means the funds have been obligated to a contract and goods or services have not been received by the contractor in exchange for the funds.
+
+(5) **Threshold** — The term “threshold” means a benchmark over which a balance carried over at the end of a fiscal year should be given greater scrutiny by Congress.
+
+(6) **Total funds available to cost** — The term “total funds available to cost” means the sum of—
+
+  (A) total uncosted obligations from prior fiscal years;
+
+  (B) current fiscal year obligations; and
+
+  (C) current fiscal year deobligations.
+
+### Statutory Notes
+
+#### Amendments
+2021—Pub. L. 116–283 amended section generally. Prior to amendment, section related to quarterly reports on financial balances for atomic energy defense activities.
 
 
 <a id="section-2781"></a>
@@ -4793,7 +5136,12 @@ Section, Pub. L. 107–314, div. D, title XLVII, § 4731, formerly Pub. L. 95–
 
   (A) the total project cost of which is more than $500,000,000; and
 
-  (B) that is covered by Department of Energy Order 413.3, or a successor order, for the acquisition of capital assets for atomic energy defense activities.
+  (B) that is covered by Department of Energy Order 413.3B, or a successor order, for the acquisition of capital assets for atomic energy defense activities.
+
+### Statutory Notes
+
+#### Amendments
+2019—Subsec. (d)(3)(B). Pub. L. 116–92 substituted “413.3B” for “413.3”.
 
 
 <a id="section-2782"></a>
@@ -4949,9 +5297,9 @@ Pub. L. 112–239, div. C, title XXXI, § 3117(b), Jan. 2, 2013, 126 Stat. 2173,
 ## § 2787. Enhanced procurement authority to manage supply chain risk
 **(a) Authority** Subject to subsection (b), the Secretary of Energy may—
 
-(1) carry out a covered procurement action; and
+(1) carry out a covered procurement action or special exclusion action; and
 
-(2) notwithstanding any other provision of law, limit, in whole or in part, the disclosure of information relating to the basis for carrying out a covered procurement action.
+(2) notwithstanding any other provision of law, limit, in whole or in part, the disclosure of information relating to the basis for carrying out a covered procurement action or special exclusion action.
 
 **(b) Requirements** The Secretary may exercise the authority under subsection (a) only after—
 
@@ -4975,7 +5323,7 @@ Pub. L. 112–239, div. C, title XXXI, § 3117(b), Jan. 2, 2013, 126 Stat. 2173,
 
 **(c) Notifications** If the Secretary has exercised the authority under subsection (a), the Secretary shall—
 
-(1) notify appropriate parties of the covered procurement action and the basis for the action only to the extent necessary to carry out the covered procurement action;
+(1) notify appropriate parties of the covered procurement action or special exclusion action and the basis for the action only to the extent necessary to carry out the covered procurement action or special exclusion action;
 
 (2) notify other Federal agencies responsible for procurement that may be subject to the same or similar supply chain risk, in a manner and to the extent consistent with the requirements of national security; and
 
@@ -4983,23 +5331,11 @@ Pub. L. 112–239, div. C, title XXXI, § 3117(b), Jan. 2, 2013, 126 Stat. 2173,
 
 **(d) Limitation of review** No action taken by the Secretary under the authority under subsection (a) shall be subject to review in any Federal court.
 
-**(e) Review by Comptroller General of the United States** Not later than one year after the effective date specified in subsection (g)(1), and annually for four years thereafter, the Comptroller General of the United States shall—
+**(e) Delegation of authority** The Secretary may delegate the authority under this section to—
 
-(1) review the authority provided under subsection (a), including—
+(1) in the case of the Administration, the Administrator; and
 
-  (A) the adequacy of resources, such as trained personnel, to effectively exercise that authority during the four-year period beginning on that effective date; and
-
-  (B) the sufficiency of determinations under subsection (b)(2);
-
-(2) review the thoroughness of the process and systems utilized by the Office of the Chief Information Officer and the Office of Intelligence and Counterintelligence of the Department of Energy to reasonably detect supply chain threats to the national security functions of the Department; and
-
-(3) submit to the appropriate congressional committees a report that includes—
-
-  (A) the results of the reviews conducted under paragraphs (1) and (2);
-
-  (B) any recommendations of the Comptroller General for improving the process and systems described in paragraph (2); and
-
-  (C) a description of the status of the implementation of recommendations, if any, with respect to that process and such systems made by the Comptroller General in previous years.
+(2) in the case of any other component of the Department of Energy, the Senior Procurement Executive of the Department.
 
 **(f) Definitions** In this section:
 
@@ -5041,15 +5377,28 @@ Pub. L. 112–239, div. C, title XXXI, § 3117(b), Jan. 2, 2013, 126 Stat. 2173,
 
   (D) Items associated with the surveillance of the nuclear weapon stockpile.
 
-  (E) Items associated with the design and development of nonproliferation and counterproliferation programs and systems.
+  (E) Items associated with the design and development of nonproliferation and counterproliferation programs and systems.(6) Special exclusion action
+  The term “special exclusion action” means an action to prohibit, for a period not to exceed two years, the award of any contracts or subcontracts by the Administration or any other component of the Department of Energy related to any covered system to a source the Secretary determines to represent a supply chain risk.
 
-(6) **Supply chain risk** — The term “supply chain risk” means the risk that an adversary may sabotage, maliciously introduce unwanted function, or otherwise subvert the design, integrity, manufacturing, production, distribution, installation, operation, or maintenance of a covered system or covered item of supply so as to surveil, deny, disrupt, or otherwise degrade the function, use, or operation of the system or item of supply.
+(7) **Supply chain risk** — The term “supply chain risk” means the risk that an adversary may sabotage, maliciously introduce unwanted function, or otherwise subvert the design, integrity, manufacturing, production, distribution, installation, operation, or maintenance of a covered system or covered item of supply so as to surveil, deny, disrupt, or otherwise degrade the function, use, or operation of the system or item of supply.
 
 **(g) Termination** The authority under this section shall terminate on June 30, 2023.
 
 ### Statutory Notes
 
 #### Amendments
+2021—Subsec. (a). Pub. L. 116–283, § 3161(1), inserted “or special exclusion action” after “covered procurement action” in pars. (1) and (2).
+
+2021—Subsec. (c)(1). Pub. L. 116–283, § 3161(1), inserted “or special exclusion action” after “covered procurement action” in two places.
+
+Subsecs. (e), (f). Pub. L. 116–283, § 3161(2), (3), added subsec. (e) and redesignated former subsec. (e) as (f). Former subsec. (f) redesignated (g).
+
+Subsec. (f)(6), (7). Pub. L. 116–283, § 3161(4), added par. (6) and redesignated former par. (6) as (7).
+
+Subsec. (g). Pub. L. 116–283, § 3161(2), redesignated subsec. (f) as (g).
+
+2019—Subsecs. (e) to (g). Pub. L. 116–92 redesignated subsecs. (f) and (g) as (e) and (f), respectively, and struck out former subsec. (e) which related to Comptroller General review and report to Congress.
+
 2018—Subsec. (f)(5)(A). Pub. L. 115–232, § 3117(b), substituted “[section 3552(b) of title 44](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section3552/b&num=0&edition=prelim)” for “[section 3542(b) of title 44](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section3542/b&num=0&edition=prelim)”.
 
 Subsec. (g). Pub. L. 115–232, § 3117(a), amended subsec. (g) generally. Prior to amendment, subsec. (g) related to effective date, applicability, and termination of section.
@@ -5141,7 +5490,7 @@ Section was formerly classified to [section 7257a of Title 42](https://uscode.ho
 2003—Pub. L. 108–136, § 3141(k)(6)(D), made technical amendment to section catchline.
 
 #### Pilot Program on Unavailability for Overhead Costs of Amounts Specified for Laboratory-Directed Research and Development
-Pub. L. 114–328, div. C, title XXXI, § 3119, Dec. 23, 2016, 130 Stat. 2763, provided that: “(a) In General.—The Secretary of Energy shall establish a pilot program under which each national security laboratory (as defined in section 4002 of the Atomic Energy Defense Act ([50 U.S.C. 2501](./chapter-042-atomic-energy-defense-provisions.md#section-2501))) is prohibited from using funds described in subsection (b) to cover the costs of general and administrative overhead for the laboratory. “(b) Funds Described.—The funds described in this subsection are funds made available for a national security laboratory under section 4811(c) of the Atomic Energy Defense Act ([50 U.S.C. 2791(c)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section2791/c&num=0&edition=prelim)) for laboratory-directed research and development. “(c) Duration.—The pilot program required by subsection (a) shall—“(1) take effect on the first day of the first fiscal year beginning after the date of the enactment of this Act [Dec. 23, 2016]; and “(2) terminate on the date that is three years after the day described in paragraph (1). “(d) Report Required.—Before the termination under subsection (c)(2) of the pilot program required by subsection (a), the Administrator for Nuclear Security shall submit to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] a report that assesses the costs, benefits, risks, and other effects of the pilot program.”
+Pub. L. 114–328, div. C, title XXXI, § 3119, Dec. 23, 2016, 130 Stat. 2763, as amended by Pub. L. 116–92, div. C, title XXXI, § 3118, Dec. 20, 2019, 133 Stat. 1952; Pub. L. 116–283, div. C, title XXXI, § 3162, Jan. 1, 2021, 134 Stat. 4391, provided that: “(a) In General.—The Secretary of Energy shall establish a pilot program under which each national security laboratory (as defined in section 4002 of the Atomic Energy Defense Act ([50 U.S.C. 2501](./chapter-042-atomic-energy-defense-provisions.md#section-2501))) is prohibited from using funds described in subsection (b) to cover the costs of general and administrative overhead for the laboratory. “(b) Funds Described.—The funds described in this subsection are funds made available for a national security laboratory under section 4811(c) of the Atomic Energy Defense Act ([50 U.S.C. 2791(c)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section2791/c&num=0&edition=prelim)) for laboratory-directed research and development. “(c) Duration.—The pilot program required by subsection (a) shall—“(1) take effect on the first day of the first fiscal year beginning after the date of the enactment of this Act [Dec. 23, 2016]; and “(2) terminate on the date that is nine years after the day described in paragraph (1). “(d) Report Required.—Not later than February 15, 2025, the Administrator for Nuclear Security shall submit to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] a report that assesses the costs, benefits, risks, and other effects of the pilot program, including effects on laboratory-directed research and development and other programs.”
 
 
 <a id="section-2791b"></a>

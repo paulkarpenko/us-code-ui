@@ -458,7 +458,7 @@ Pub. L. 105–33, title VII, § 7001(c)(1), (2), Aug. 5, 1997, 111 Stat. 658, as
 
   (A) *In general* — In the case of a participant whose service includes service on a part-time basis performed after April 6, 1986, the participant’s annuity shall be the sum of the amounts determined under subparagraphs (B) and (C).
 
-  (B) *Computation of pre-April 7, 1986, annuity* — The portion of an annuity referred to in subparagraph (A) with respect to service before April 7, 1986, shall be the amount computed under paragraph (1) using the participant’s length of service before that date (increased by the unused sick leave to the credit of the participant at the time of retirement) and the participant’s high-3 average pay.
+  (B) *Computation of pre-April 7, 1986, annuity* — The portion of an annuity referred to in subparagraph (A) with respect to service before April 7, 1986, shall be the amount computed under paragraph (1) using the participant’s length of service before that date (increased by the unused sick leave to the credit of the participant at the time of retirement) and the participant’s high-3 average pay, as determined by using the annual rate of basic pay that would be payable for full-time service in that position.
 
   (C) *Computation of post-April 6, 1986, annuity* — The portion of an annuity referred to in subparagraph (A) with respect to service after April 6, 1986, shall be the product of—
 
@@ -480,7 +480,7 @@ Pub. L. 105–33, title VII, § 7001(c)(1), (2), Aug. 5, 1997, 111 Stat. 658, as
 
   (B) *Joint election for waiver or reduction of spouse survivor annuity* — A married participant or former participant and the participant’s spouse may jointly elect in writing at the time of retirement to waive a survivor annuity for that spouse under this section or to reduce such survivor annuity under this section by designating a portion of the annuity of the participant as the base for the survivor annuity. If the marriage is dissolved following an election for such a reduced annuity and the spouse qualifies as a former spouse, the base used in calculating any annuity of the former spouse under [section 2032(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section2032/b&num=0&edition=prelim) may not exceed the portion of the participant’s annuity designated under this subparagraph.
 
-  (C) *Joint election of participant and former spouse* — If a participant or former participant has a former spouse, such participant and the participant’s former spouse may jointly elect by spousal agreement under [section 2094(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section2094/b&num=0&edition=prelim) to waive, reduce, or increase a survivor annuity under [section 2032(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section2032/b&num=0&edition=prelim) for that former spouse. Any such election must be made (i) before the end of the 12-month period beginning on the date on which the divorce or annulment involving that former spouse becomes final, or (ii) at the time of retirement of the participant, whichever is later.
+  (C) *Joint election of participant and former spouse* — If a participant or former participant has a former spouse, such participant and the participant’s former spouse may jointly elect by spousal agreement under [section 2094(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section2094/b&num=0&edition=prelim) to waive, reduce, or increase a survivor annuity under [section 2032(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section2032/b&num=0&edition=prelim) for that former spouse. Any such election must be made (i) before the end of the 2-year period beginning on the date on which the divorce or annulment involving that former spouse becomes final, or (ii) at the time of retirement of the participant, whichever is later.
 
   (D) *Unilateral elections in absence of spouse or former spouse* — The Director may prescribe regulations under which a participant or former participant may make an election under subparagraph (B) or (C) without the participant’s spouse or former spouse if the participant establishes to the satisfaction of the Director that the participant does not know, and has taken all reasonable steps to determine, the whereabouts of the spouse or former spouse.
 
@@ -590,7 +590,7 @@ Pub. L. 105–33, title VII, § 7001(c)(1), (2), Aug. 5, 1997, 111 Stat. 658, as
 
   (D) *Recomputation of participant’s annuity on death of designated individual* — An annuity which is reduced under this paragraph shall, effective the first day of the month following the death of the designated individual, be recomputed and paid as if the annuity had not been so reduced.
 
-(2) **Election of survivor annuity upon subsequent marriage** — A participant who is unmarried at the time of retirement and who later marries may irrevocably elect, in a signed writing received by the Director within one year after the marriage, to receive a reduced annuity as provided in subsection (b). Such election and reduction shall be effective on the first day of the month beginning 9 months after the date of marriage. The election voids prospectively any election previously made under paragraph (1).
+(2) **Election of survivor annuity upon subsequent marriage** — A participant who is unmarried at the time of retirement and who later marries may irrevocably elect, in a signed writing received by the Director within two years after the marriage, to receive a reduced annuity as provided in subsection (b). Such election and reduction shall be effective on the first day of the month beginning 9 months after the date of marriage. The election voids prospectively any election previously made under paragraph (1).
 
 **(g) Effect of divorce after retirement**
 
@@ -598,7 +598,7 @@ Pub. L. 105–33, title VII, § 7001(c)(1), (2), Aug. 5, 1997, 111 Stat. 658, as
 
 (2) **Election of survivor annuity upon subsequent remarriage**
 
-  (A) *In general* — Upon remarriage, the retired participant may irrevocably elect, by means of a signed writing received by the Director within one year after such remarriage, to receive a reduced annuity for the purpose of providing an annuity for the new spouse of the retired participant in the event such spouse survives the retired participant. Such reduction shall be equal to the reduction in effect immediately before the dissolution of the previous marriage (unless such reduction is adjusted under [section 2032(b)(5) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section2032/b/5&num=0&edition=prelim) or elected under subparagraph (B)).
+  (A) *In general* — Upon remarriage, the retired participant may irrevocably elect, by means of a signed writing received by the Director within two years after such remarriage, to receive a reduced annuity for the purpose of providing an annuity for the new spouse of the retired participant in the event such spouse survives the retired participant. Such reduction shall be equal to the reduction in effect immediately before the dissolution of the previous marriage (unless such reduction is adjusted under [section 2032(b)(5) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section2032/b/5&num=0&edition=prelim) or elected under subparagraph (B)).
 
   (B) *When annuity previously not (or not fully) reduced*
 
@@ -606,7 +606,7 @@ Pub. L. 105–33, title VII, § 7001(c)(1), (2), Aug. 5, 1997, 111 Stat. 658, as
 
     (ii) *Deposit required*
 
-      (I) The retired participant shall, within one year after the date of the remarriage (or by August 14, 1993 for any remarriage that occurred before August 14, 1991), deposit in the fund an amount determined by the Director, as nearly as may be administratively feasible, to reflect the amount by which the retired participant’s annuity would have been reduced if the election had been in effect since the date the annuity commenced, plus interest.
+      (I) The retired participant shall, within two years after the date of the remarriage (or by August 14, 1993 for any remarriage that occurred before August 14, 1991), deposit in the fund an amount determined by the Director, as nearly as may be administratively feasible, to reflect the amount by which the retired participant’s annuity would have been reduced if the election had been in effect since the date the annuity commenced, plus interest.
 
       (II) The annual rate of interest for each year during which the retired participant’s annuity would have been reduced if the election had been in effect since the date the annuity commenced shall be 6 percent.
 
@@ -616,7 +616,17 @@ Pub. L. 105–33, title VII, § 7001(c)(1), (2), Aug. 5, 1997, 111 Stat. 658, as
 
   (C) *Effects of election* — An election under this paragraph and the reduction in the participant’s annuity shall be effective on the first day of the month beginning 9 months after the date of remarriage. A survivor annuity elected under this paragraph shall be treated in all respects as a survivor annuity under subsection (b).
 
-**(h) Coordination of annuities**
+**(h) Conditional election of insurable interest survivor annuity by participants married at the time of retirement**
+
+(1) **Authority to make designation** — Subject to the rights of former spouses under subsection (b) and [section 2032 of this title](./chapter-038-central-intelligence-agency-retirement-and-disability.md#section-2032), at the time of retirement a married participant found by the Director to be in good health may elect to receive an annuity reduced in accordance with subsection (f)(1)(B) and designate in writing an individual having an insurable interest in the participant to receive an annuity under the system after the participant’s death, except that any such election to provide an insurable interest survivor annuity to the participant’s spouse shall only be effective if the participant’s spouse waives the spousal right to a survivor annuity under this chapter. The amount of the annuity shall be equal to 55 percent of the participant’s reduced annuity.
+
+(2) **Reduction in participant’s annuity** — The annuity payable to the participant making such election shall be reduced by 10 percent of an annuity computed under subsection (a) and by an additional 5 percent for each full 5 years the designated individual is younger than the participant. The total reduction under this subparagraph may not exceed 40 percent.
+
+(3) **Commencement of survivor annuity** — The annuity payable to the designated individual shall begin on the day after the retired participant dies and terminate on the last day of the month before the designated individual dies.
+
+(4) **Recomputation of participant’s annuity on death of designated individual** — An annuity that is reduced under this subsection shall, effective the first day of the month following the death of the designated individual, be recomputed and paid as if the annuity had not been so reduced.
+
+**(i) Coordination of annuities**
 
 (1) **Surviving spouse** — A surviving spouse whose survivor annuity was terminated because of remarriage before attaining age 55 shall not be entitled under subsection (b)(3)(C) to the restoration of that survivor annuity payable from the fund unless the surviving spouse elects to receive it instead of any other survivor annuity to which the surviving spouse may be entitled under the system or any other retirement system for Government employees by reason of the remarriage.
 
@@ -624,15 +634,15 @@ Pub. L. 105–33, title VII, § 7001(c)(1), (2), Aug. 5, 1997, 111 Stat. 658, as
 
 (3) **Surviving spouse of post-retirement marriage** — A surviving spouse who married a participant after the participant’s retirement shall be entitled to a survivor annuity payable from the fund only upon electing that annuity instead of any other survivor annuity to which the surviving spouse may be entitled under this or any other retirement system for Government employees on the basis of a marriage to someone other than the retired participant.
 
-**(i) Supplemental survivor annuities**
+**(j) Supplemental survivor annuities**
 
 (1) **Spouse of recalled annuitant** — A married recalled annuitant who reverts to retired status with entitlement to a supplemental annuity under [section 2111(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section2111/b&num=0&edition=prelim) shall, unless the annuitant and the annuitant’s spouse jointly elect in writing to the contrary at the time of reversion to retired status, have the supplemental annuity reduced by 10 percent to provide a supplemental survivor annuity for the annuitant’s spouse. Such supplemental survivor annuity shall be equal to 55 percent of the supplemental annuity of the annuitant.
 
 (2) **Regulations** — The Director shall prescribe regulations to provide for the application of paragraph (1) of this subsection and of subsection (b) of [section 2111 of this title](./chapter-038-central-intelligence-agency-retirement-and-disability.md#section-2111) in any case in which an annuitant has a former spouse who was married to the recalled annuitant at any time during the period of recall service and who qualifies for an annuity under [section 2032(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section2032/b&num=0&edition=prelim).
 
-**(j) Offset of annuities by amount of social security benefit** Notwithstanding any other provision of this subchapter, an annuity (including a disability annuity) payable under this subchapter to an individual described in sections 2021(d)(1) and 2151(c)(1) of this title and any survivor annuity payable under this subchapter on the basis of the service of such individual shall be reduced in a manner consistent with [section 8349 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section8349&num=0&edition=prelim), under conditions consistent with the conditions prescribed in that section.
+**(k) Offset of annuities by amount of social security benefit** Notwithstanding any other provision of this subchapter, an annuity (including a disability annuity) payable under this subchapter to an individual described in sections 2021(d)(1) and 2151(c)(1) of this title and any survivor annuity payable under this subchapter on the basis of the service of such individual shall be reduced in a manner consistent with [section 8349 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section8349&num=0&edition=prelim), under conditions consistent with the conditions prescribed in that section.
 
-**(k) Information from other agencies**
+**(l) Information from other agencies**
 
 (1) **Other agencies** — For the purpose of ensuring the accuracy of the information used in the determination of eligibility for and the computation of annuities payable from the fund under this subchapter, at the request of the Director—
 
@@ -648,7 +658,7 @@ Pub. L. 105–33, title VII, § 7001(c)(1), (2), Aug. 5, 1997, 111 Stat. 658, as
 
 (3) **Limitation on uses of information** — The Director, in consultation with the officials from whom information is requested, shall ensure that information made available under this subsection is used only for the purposes authorized.
 
-**(l) Information on rights under system** The Director shall, on an annual basis—
+**(m) Information on rights under system** The Director shall, on an annual basis—
 
 (1) inform each retired participant of the participant’s right of election under subsections (c), (f)(2), and (g); and
 
@@ -660,6 +670,16 @@ Pub. L. 105–33, title VII, § 7001(c)(1), (2), Aug. 5, 1997, 111 Stat. 658, as
 A prior section 221 of Pub. L. 88–643, title II, Oct. 13, 1964, 78 Stat. 1045; Pub. L. 91–185, § 2, Dec. 30, 1969, 83 Stat. 847; Pub. L. 91–626, §§ 2, 3, Dec. 31, 1970, 84 Stat. 1872; Pub. L. 94–522, title II, §§ 202–204, Oct. 17, 1976, 90 Stat. 2468, 2469; Ex. Ord. No. 12326, §§ 1, 3, 6, Sept. 30, 1981, 46 F.R. 48889, 48890; Pub. L. 97–269, title VI, §§ 603–605, 610, Sept. 27, 1982, 96 Stat. 1146, 1147, 1153; Ex. Ord. No. 12443, §§ 4, 7, 8, Sept. 27, 1983, 48 F.R. 44752; Pub. L. 99–335, title V, §§ 501(2), (3), 503, June 6, 1986, 100 Stat. 622, 623; Pub. L. 100–178, title IV, § 402(b)(1), Dec. 2, 1987, 101 Stat. 1014; Pub. L. 100–453, title III, § 302(d)(1), (2), Sept. 29, 1988, 102 Stat. 1907; Pub. L. 102–88, title III, §§ 304(a), 305(a)(1), 306, Aug. 14, 1991, 105 Stat. 431, 432; Pub. L. 102–183, title III, §§ 302(a), 303(a), Dec. 4, 1991, 105 Stat. 1262, 1263, related to computation of annuities for other than former spouses and was set out as a note under [section 403 of this title](./chapter-015-national-security.md#section-403) prior to the general amendment of Pub. L. 88–643 by section 802 of Pub. L. 102–496.
 
 #### Amendments
+2019—Subsec. (a)(3)(B). Pub. L. 116–92, § 6202(a)(1)(A), substituted “, as determined by using the annual rate of basic pay that would be payable for full-time service in that position.” for period at end.
+
+Subsec. (b)(1)(C)(i). Pub. L. 116–92, § 6202(a)(1)(B), substituted “2-year” for “12-month”.
+
+Subsec. (f)(2). Pub. L. 116–92, § 6202(a)(1)(C), substituted “two years” for “one year”.
+
+Subsec. (g)(2)(A), (B)(ii). Pub. L. 116–92, § 6202(a)(1)(D), substituted “two years” for “one year”.
+
+Subsecs. (h) to (m). Pub. L. 116–92, § 6202(a)(1)(E), (F), added subsec. (h) and redesignated former subsecs. (h) to (l) as (i) to (m), respectively.
+
 1993—Subsec. (a)(4). Pub. L. 103–178, § 202(a)(4)(A), struck out “(or, in the case of an annuity computed under [section 2052 of this title](./chapter-038-central-intelligence-agency-retirement-and-disability.md#section-2052) and based on less than 3 years, over the total service)” after “years of the participant’s service”.
 
 Subsec. (f)(1)(A). Pub. L. 103–178, § 202(a)(4)(B), inserted “after the participant’s death” after “under the system” and struck out “after the participant’s death” after “participant’s reduced annuity”.
@@ -667,6 +687,9 @@ Subsec. (f)(1)(A). Pub. L. 103–178, § 202(a)(4)(B), inserted “after the par
 Subsec. (g)(1). Pub. L. 103–178, § 202(a)(4)(C), substituted “(or is remarried, if” for “(or is remarried if”.
 
 Subsec. (j). Pub. L. 103–178, § 202(a)(4)(D), struck out “(except as provided in paragraph (2))” after “individual shall be reduced”.
+
+#### Effective Date of 2019 Amendment
+Pub. L. 116–92, div. E, title LXII, § 6202(e), Dec. 20, 2019, 133 Stat. 2186, provided that: “The amendments made by subsection (a)(1)(A) [amending this section] and subsection (c) [amending [section 2082 of this title](./chapter-038-central-intelligence-agency-retirement-and-disability.md#section-2082)] shall take effect as if enacted on October 28, 2009, and shall apply to computations or participants, respectively, as of such date.”
 
 #### Effective Date of 1993 Amendment
 Amendment by Pub. L. 103–178 effective Feb. 1, 1993, see section 202(b) of Pub. L. 103–178, set out as a note under [section 2001 of this title](./chapter-038-central-intelligence-agency-retirement-and-disability.md#section-2001).
@@ -739,7 +762,7 @@ Section effective on first day of fourth month beginning after Oct. 24, 1992, se
 
   (A) *Recomputation of participant’s annuity* — If a former spouse of a retired participant dies or remarries before attaining age 55, the annuity of the retired participant, if reduced to provide a survivor annuity for that former spouse, shall be recomputed and paid, effective on the first day of the month beginning after such death or remarriage, as if the annuity had not been so reduced, unless an election is in effect under subparagraph (B).
 
-  (B) *Election of spouse annuity* — Subject to paragraph (4)(B), the participant may elect in writing within one year after receipt of notice of the death or remarriage of the former spouse to continue the reduction in order to provide a higher survivor annuity under [section 2031(b)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section2031/b/3&num=0&edition=prelim) for any spouse of the participant.
+  (B) *Election of spouse annuity* — Subject to paragraph (4)(B), the participant may elect in writing within two years after receipt of notice of the death or remarriage of the former spouse to continue the reduction in order to provide a higher survivor annuity under [section 2031(b)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section2031/b/3&num=0&edition=prelim) for any spouse of the participant.
 
 **(c) Optional additional survivor annuities for other former spouse or surviving spouse**
 
@@ -782,6 +805,8 @@ Section effective on first day of fourth month beginning after Oct. 24, 1992, se
 A prior section 222 of Pub. L. 88–643, as added Pub. L. 97–269, title VI, § 606, Sept. 27, 1982, 96 Stat. 1148; amended Pub. L. 99–335, title V, § 501(2), (3), June 6, 1986, 100 Stat. 622; Pub. L. 102–88, title III, § 305(a)(2), Aug. 14, 1991, 105 Stat. 432, related to computation of annuities for former spouses and was set out as a note under [section 403 of this title](./chapter-015-national-security.md#section-403) prior to the general amendment of Pub. L. 88–643 by section 802 of Pub. L. 102–496.
 
 #### Amendments
+2019—Subsec. (b)(5)(B). Pub. L. 116–92 substituted “two years” for “one year”.
+
 1993—Subsec. (a)(7). Pub. L. 103–178, § 202(a)(5)(A), substituted “any survivor annuity” for “any other annuity”.
 
 Subsec. (c)(3)(C). Pub. L. 103–178, § 202(a)(5)(B), inserted “the participant” before “or does not qualify”.
@@ -1074,7 +1099,7 @@ Section effective on first day of fourth month beginning after Oct. 24, 1992, se
 
 **(b) Survivor annuity for surviving spouse or former spouse**
 
-(1) **In general** — If a participant dies before separation or retirement from the Agency and is survived by a spouse or by a former spouse qualifying for a survivor annuity under [section 2032(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section2032/b&num=0&edition=prelim), such surviving spouse shall be entitled to an annuity equal to 55 percent of the annuity computed in accordance with paragraphs (2) and (3) of this subsection and [section 2031(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section2031/a&num=0&edition=prelim), and any such surviving former spouse shall be entitled to an annuity computed in accordance with [section 2032(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section2032/b&num=0&edition=prelim) and paragraph (2) of this subsection as if the participant died after being entitled to an annuity under this subchapter. The annuity of such surviving spouse or former spouse shall commence on the day after the participant dies and shall terminate on the last day of the month before the death or remarriage before attaining age 55 of the surviving spouse or former spouse (subject to the payment and restoration provisions of sections 2031(b)(3)(C), 2031(h), and 2032(b)(3) of this title).
+(1) **In general** — If a participant dies before separation or retirement from the Agency and is survived by a spouse or by a former spouse qualifying for a survivor annuity under [section 2032(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section2032/b&num=0&edition=prelim), such surviving spouse shall be entitled to an annuity equal to 55 percent of the annuity computed in accordance with paragraphs (2) and (3) of this subsection and [section 2031(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section2031/a&num=0&edition=prelim), and any such surviving former spouse shall be entitled to an annuity computed in accordance with [section 2032(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section2032/b&num=0&edition=prelim) and paragraph (2) of this subsection as if the participant died after being entitled to an annuity under this subchapter. The annuity of such surviving spouse or former spouse shall commence on the day after the participant dies and shall terminate on the last day of the month before the death or remarriage before attaining age 55 of the surviving spouse or former spouse (subject to the payment and restoration provisions of sections 2031(b)(3)(C), 2031(i), and 2032(b)(3) of this title).
 
 (2) **Computation** — The annuity payable under paragraph (1) shall be computed in accordance with [section 2031(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section2031/a&num=0&edition=prelim), except that the computation of the annuity of the participant under such section shall be at least the smaller of (A) 40 percent of the participant’s high-3 average pay, or (B) the sum obtained under such section after increasing the participant’s length of service by the difference between the participant’s age at the time of death and age 60.
 
@@ -1104,6 +1129,8 @@ Section effective on first day of fourth month beginning after Oct. 24, 1992, se
 A prior section 232 of Pub. L. 88–643, title II, Oct. 13, 1964, 78 Stat. 1048; Pub. L. 91–185, § 4, Dec. 30, 1969, 83 Stat. 848; Pub. L. 94–522, title II, § 208, Oct. 17, 1976, 90 Stat. 2471; Pub. L. 99–335, title V, § 501(2), June 6, 1986, 100 Stat. 622; Pub. L. 100–178, title IV, § 402(a), Dec. 2, 1987, 101 Stat. 1013; Pub. L. 101–193, title III, § 303, Nov. 30, 1989, 103 Stat. 1703; Pub. L. 102–88, title III, § 305(a)(3), Aug. 14, 1991, 105 Stat. 432; Pub. L. 102–183, title III, § 302(b), (c), Dec. 4, 1991, 105 Stat. 1262, 1263; Pub. L. 102–496, title III, § 304(b), Oct. 24, 1992, 106 Stat. 3183, related to death in service and was set out as a note under [section 403 of this title](./chapter-015-national-security.md#section-403) prior to the general amendment of Pub. L. 88–643 by section 802 of Pub. L. 102–496.
 
 #### Amendments
+2019—Subsec. (b)(1). Pub. L. 116–92 substituted “2031(i),” for “2031(h),”.
+
 1993—Subsec. (b)(4). Pub. L. 103–178 substituted “eligible for an annuity under section 2034” for “eligible for an annuity under section 2032”.
 
 #### Effective Date of 1993 Amendment
@@ -1329,7 +1356,7 @@ Section effective on first day of fourth month beginning after Oct. 24, 1992, se
 
 (1) civilian service in the Government before becoming a participant that would be creditable toward retirement under subchapter III of chapter 83 of title 5 (as determined under section 8332(b) of such title); and
 
-(2) honorable active service in the Armed Forces before the date of the separation upon which eligibility for an annuity is based, or honorable active service in the Regular or Reserve Corps of the Public Health Service after June 30, 1960, or as a commissioned officer of the National Oceanic and Atmospheric Administration after June 30, 1961.
+(2) honorable active service in the Armed Forces before the date of the separation upon which eligibility for an annuity is based, or honorable active service in the Regular or Reserve Corps 11 See Change of Name note below. of the Public Health Service after June 30, 1960, or as a commissioned officer of the National Oceanic and Atmospheric Administration after June 30, 1961.
 
 **(b) Limitations**
 
@@ -1346,7 +1373,7 @@ Section effective on first day of fourth month beginning after Oct. 24, 1992, se
 
 (3) **Effect of refund of retirement contributions** — A participant who received a refund of retirement contributions under this or any other retirement system for Government employees covering service for which the participant may be allowed credit under this subchapter may deposit the amount received, with interest computed under paragraph (1). Credit may not be allowed for the service covered by the refund until the deposit is made, except that a participant who—
 
-  (A) separated from Government service before October 1, 1990, and received a refund of the participant’s retirement contributions covering a period of service ending before October 1, 1990;
+  (A) separated from Government service before March 31, 1991, and received a refund of the participant’s retirement contributions covering a period of service ending before March 31, 1991;
 
   (B) is entitled to an annuity under this subchapter (other than a disability annuity) which commences after December 1, 1992; and
 
@@ -1391,7 +1418,7 @@ Section effective on first day of fourth month beginning after Oct. 24, 1992, se
 
     (ii) caused by an instrumentality of war and incurred in the line of duty during a period of war (as defined in [section 1101 of title 38](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section1101&num=0&edition=prelim)); or
 
-  (B) under chapter 67 11 See References in Text note below. of title 10.
+  (B) under chapter 67 22 See References in Text note below. of title 10.
 
 (4) **Survivor annuity** — Notwithstanding paragraph (3), the survivor annuity of a survivor of a participant—
 
@@ -1441,7 +1468,7 @@ Section effective on first day of fourth month beginning after Oct. 24, 1992, se
 
 (3) Any payment received by the Director under this subsection shall be deposited in the Treasury of the United States to the credit of the fund.
 
-(4) The provisions of [section 2031(k) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section2031/k&num=0&edition=prelim) shall apply with respect to such information as the Director determines to be necessary for the administration of this subsection in the same manner that such section applies concerning information described in that section.
+(4) The provisions of section 2031(l) of this title shall apply with respect to such information as the Director determines to be necessary for the administration of this subsection in the same manner that such section applies concerning information described in that section.
 
 ### Statutory Notes
 
@@ -1452,9 +1479,19 @@ Chapter 67 of title 10, referred to in subsec. (e)(3)(B), was transferred to par
 A prior section 252 of Pub. L. 88–643, title II, Oct. 13, 1964, 78 Stat. 1050; Pub. L. 91–626, §§ 5, 6, Dec. 31, 1970, 84 Stat. 1872; Pub. L. 94–522, title II, § 211, Oct. 17, 1976, 90 Stat. 2471; Ex. Ord. No. 12443, §§ 9–11, 15, Sept. 27, 1983, 48 F.R. 44753, 44755; Ex. Ord. No. 12485, July 13, 1984, 49 F.R. 28827; Pub. L. 99–335, title V, § 501(2), June 6, 1986, 100 Stat. 622; Pub. L. 102–83, § 5(c)(2), Aug. 6, 1991, 105 Stat. 406, related to prior service credit and was set out as a note under [section 403 of this title](./chapter-015-national-security.md#section-403) prior to the general amendment of Pub. L. 88–643 by section 802 of Pub. L. 102–496.
 
 #### Amendments
+2019—Subsec. (b)(3)(A). Pub. L. 116–92, § 6202(c), substituted “March 31, 1991” for “October 1, 1990” in two places.
+
+Subsec. (h)(4). Pub. L. 116–92, § 6202(a)(2)(A)(ii), substituted “2031(l)” for “2031(k)”.
+
 2000—Subsec. (h)(1)(A). Pub. L. 106–346, in introductory provisions, substituted “December 31, 2000” for “December 31, 2002” and in table struck out item at end relating to payment of 7.5 percent of basic pay for service period January 1, 2001, to December 31, 2002.
 
 1997—Subsec. (h)(1). Pub. L. 105–33 amended par. (1) generally. Prior to amendment, par. (1) read as follows: “Each participant who has performed military service before the date of separation on which entitlement to an annuity under this subchapter is based may pay to the Agency an amount equal to 7 percent of the amount of basic pay paid under [section 204 of title 37](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section204&num=0&edition=prelim) to the participant for each period of military service after December 1956. The amount of such payments shall be based on such evidence of basic pay for military service as the participant may provide or, if the Director determines sufficient evidence has not been provided to adequately determine basic pay for military service, such payment shall be based upon estimates of such basic pay provided to the Director under paragraph (4).”
+
+#### Change of Name
+Reference to Reserve Corps of the Public Health Service deemed to be a reference to the Ready Reserve Corps, see [section 402(c)(3) of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section402/c/3&num=0&edition=prelim), The Public Health and Welfare.
+
+#### Effective Date of 2019 Amendment
+Amendment by Pub. L. 116–92 effective as if enacted on Oct. 28, 2009, and applicable to computations or participants, respectively, as of such date, see section 6202(e) of Pub. L. 116–92, set out as a note under [section 2031 of this title](./chapter-038-central-intelligence-agency-retirement-and-disability.md#section-2031).
 
 #### Effective Date of 2000 Amendment
 Amendment by Pub. L. 106–346 effective upon the close of calendar year 2000 and applicable thereafter, see section 101(a) [title V, § 505(i)] of Pub. L. 106–346, set out as a note under [section 8334 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section8334&num=0&edition=prelim), Government Organization and Employees.
@@ -1681,14 +1718,19 @@ Section effective on first day of fourth month beginning after Oct. 24, 1992, se
 ## § 2113. Reemployment compensation
 **(a) Deduction from basic pay** An annuitant who has retired under this subchapter and who is reemployed in the Federal Government service in any appointive position (either on a part-time or full-time basis) shall be entitled to receive the annuity payable under this subchapter, but there shall be deducted from the annuitant’s basic pay a sum equal to the annuity allocable to the period of actual employment.
 
-**(b) Recovery of overpayments** In the event of an overpayment under this section, the amount of the overpayment shall be recovered by withholding the amount involved from the basic pay payable to such reemployed annuitant or from any other moneys, including the annuitant’s annuity, payable in accordance with this subchapter.
+**(b) Part-time reemployed annuitants** The Director shall have the authority to reemploy an annuitant on a part-time basis in accordance with section 8344(l) of title 5.
 
-**(c) Deposit in fund** Sums deducted from the basic pay of a reemployed annuitant under this section shall be deposited in the Treasury of the United States to the credit of the fund.
+**(c) Recovery of overpayments** In the event of an overpayment under this section, the amount of the overpayment shall be recovered by withholding the amount involved from the basic pay payable to such reemployed annuitant or from any other moneys, including the annuitant’s annuity, payable in accordance with this subchapter.
+
+**(d) Deposit in fund** Sums deducted from the basic pay of a reemployed annuitant under this section shall be deposited in the Treasury of the United States to the credit of the fund.
 
 ### Statutory Notes
 
 #### Prior Provisions
 A prior section 273 of Pub. L. 88–643, title II, Oct. 13, 1964, 78 Stat. 1053; Pub. L. 99–335, title V, § 501(2), June 6, 1986, 100 Stat. 622, related to reemployment compensation and was set out as a note under [section 403 of this title](./chapter-015-national-security.md#section-403) prior to the general amendment of Pub. L. 88–643 by section 802 of Pub. L. 102–496.
+
+#### Amendments
+2019—Subsecs. (b) to (d). Pub. L. 116–92 added subsec. (b) and redesignated former subsecs. (b) and (c) as (c) and (d), respectively.
 
 #### Effective Date
 Section effective on first day of fourth month beginning after Oct. 24, 1992, see section 805 of Pub. L. 102–496, set out as a note under [section 2001 of this title](./chapter-038-central-intelligence-agency-retirement-and-disability.md#section-2001).

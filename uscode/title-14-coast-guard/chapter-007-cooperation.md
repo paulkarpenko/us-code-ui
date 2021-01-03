@@ -2,7 +2,7 @@
 title: 14
 chapter: '7'
 heading: COOPERATION
-section_count: 18
+section_count: 20
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14&num=0&edition=prelim
 ---
@@ -18,7 +18,7 @@ source: >-
 This section is based in part on title 33, U.S.C., 1946 ed., § 756 (Mar. 3, 1915, ch. 81, § 6, 38 Stat. 928), and authorizes the Coast Guard to use its personnel and facilities to assist other Government agencies when requested and, correlatively, authorizes the Coast Guard to utilize the personnel and facilities of other agencies. It is believed desirable to have this authority spelled out by statute because in times of emergency, for example floods, it sometimes becomes most advantageous to cooperate in this manner. 81st Congress, House Report No. 557.
 
 #### Prior Provisions
-A prior section 701 was renumbered [section 3701 of this title](./chapter-1-1-so-in-original-probably-should-be-37-another-chapter-1-is-set-out-in-subtitle-i-of-this-title-chapter-1-chapter-1-1-so-in-original-probably-should-be-37-another-chapter-1-is-set-out-in-subtitle-i-of-this-title-chapter-1.md#section-3701).
+A prior section 701 was renumbered [section 3701 of this title](./chapter-037-coast-guard-reserve.md#section-3701).
 
 #### Amendments
 2018—Pub. L. 115–282, § 106(b), renumbered [section 141 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section141&num=0&edition=prelim) as this section.
@@ -28,9 +28,6 @@ Subsec. (a). Pub. L. 115–282, § 123(c)(6), substituted “chapter 39” for �
 1996—Pub. L. 104–324, § 405(a)(1), amended section catchline generally, substituting “Cooperation with other agencies, States, territories, and political subdivisions” for “General”.
 
 Subsec. (a). Pub. L. 104–324, § 405(a)(2), (3), inserted “(including members of the Auxiliary and facilities governed under chapter 23)” after “personnel and facilities” and “The Commandant may prescribe conditions, including reimbursement, under which personnel and facilities may be provided under this subsection.” at end.
-
-#### Medical Emergency Helicopter Transportation Services to Civilians; Authorization to Coast Guard Commandant
-Pub. L. 95–61, § 8, July 1, 1977, 91 Stat. 260, which authorized Coast Guard to assist Department of Health, Education, and Welfare in providing medical emergency helicopter services to civilians, if assistance was provided in areas of regular Coast Guard unit assignment, did not interfere with Coast Guard mission, or increase required Coast Guard operating funds, and further providing that no individual (or his estate) operating within scope of his duties under this section’s program would be civilly liable for damage caused incident thereto, was repealed and reenacted as section 147a (now 708) of this title by Pub. L. 97–295, §§ 2(6)(A), 6(b), Oct. 12, 1982, 96 Stat. 1301, 1314.
 
 
 <a id="section-702"></a>
@@ -46,7 +43,7 @@ Because of the numerous situations in which it is necessary for the Coast Guard 
 The international character of many Coast Guard functions makes it more and more necessary for the Service to be an initiating or participating agency in international collaboration. Examples of international meetings concerned with matters affecting the Coast Guard include those which dealt with the International Rules of the Road, international load lines, the International Code of Signals, safety at sea, and international telecommunications. It is highly desirable that there be a clear-cut legislative expression of Coast Guard cooperation with the State Department on proposed international conferences dealing with various phases of Coast Guard activities, such as aids to navigation, life-saving equipment, navigation and communication equipment other than radio communication, regulation of dangerous cargoes, international rules of the road, safety requirements and equipment of transoceanic aircraft and vessels, and safe manning standards and efficiency of personnel employed on transoceanic aircraft and vessels. Provisions for similar relationship between the Civil Aeronautical Board and the State Department appear in the act of June 23, 1938, as amended, 52 Stat. 984 (title 49, U.S.C., 1946 ed., §§ 425(c), 602). 81st Congress, House Report No. 557.
 
 #### Prior Provisions
-A prior section 702 was renumbered [section 3702 of this title](./chapter-1-1-so-in-original-probably-should-be-37-another-chapter-1-is-set-out-in-subtitle-i-of-this-title-chapter-1-chapter-1-1-so-in-original-probably-should-be-37-another-chapter-1-is-set-out-in-subtitle-i-of-this-title-chapter-1.md#section-3702).
+A prior section 702 was renumbered [section 3702 of this title](./chapter-037-coast-guard-reserve.md#section-3702).
 
 #### Amendments
 2018—Pub. L. 115–282 renumbered [section 142 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section142&num=0&edition=prelim) as this section.
@@ -65,7 +62,7 @@ Based on title 19, U.S.C., 1946 ed., §§ 1401(l), 1709(b) (Aug. 5, 1935, ch. 43
 This section will not repeal the sections cited above, but makes further provision that Coast Guard personnel when acting as officers of the customs shall, insofar as enforcing customs laws are concerned, be subject to regulations governing regular officers of the customs. 81st Congress, House Report No. 557.
 
 #### Prior Provisions
-A prior section 703 was renumbered [section 3703 of this title](./chapter-1-1-so-in-original-probably-should-be-37-another-chapter-1-is-set-out-in-subtitle-i-of-this-title-chapter-1-chapter-1-1-so-in-original-probably-should-be-37-another-chapter-1-is-set-out-in-subtitle-i-of-this-title-chapter-1.md#section-3703).
+A prior section 703 was renumbered [section 3703 of this title](./chapter-037-coast-guard-reserve.md#section-3703).
 
 #### Amendments
 2018—Pub. L. 115–282 renumbered sction 143 of this title as this section.
@@ -91,7 +88,7 @@ Subsection (c) is based on title 14, U.S.C., 1946 ed., § 31a (Mar. 3, 1909, ch.
 Changes were made in phraseology. 81st Congress, House Report No. 557.
 
 #### Prior Provisions
-A prior section 704 was renumbered [section 3704 of this title](./chapter-1-1-so-in-original-probably-should-be-37-another-chapter-1-is-set-out-in-subtitle-i-of-this-title-chapter-1-chapter-1-1-so-in-original-probably-should-be-37-another-chapter-1-is-set-out-in-subtitle-i-of-this-title-chapter-1.md#section-3704).
+A prior section 704 was renumbered [section 3704 of this title](./chapter-037-coast-guard-reserve.md#section-3704).
 
 #### Amendments
 2018—Pub. L. 115–282 renumbered [section 144 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section144&num=0&edition=prelim) as this section.
@@ -143,7 +140,7 @@ Subsection (c) is new. This subsection enacts what has been the practice of the 
 Changes were made in phraseology. 81st Congress, House Report No. 557.
 
 #### Prior Provisions
-A prior section 705 was renumbered [section 3705 of this title](./chapter-1-1-so-in-original-probably-should-be-37-another-chapter-1-is-set-out-in-subtitle-i-of-this-title-chapter-1-chapter-1-1-so-in-original-probably-should-be-37-another-chapter-1-is-set-out-in-subtitle-i-of-this-title-chapter-1.md#section-3705).
+A prior section 705 was renumbered [section 3705 of this title](./chapter-037-coast-guard-reserve.md#section-3705).
 
 #### Amendments
 2018—Pub. L. 115–282 renumbered [section 145 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section145&num=0&edition=prelim) as this section.
@@ -179,7 +176,7 @@ Coast Guard facilities and personnel may be utilized for the transportation and 
 This section provides generally for what has been the practice between the Coast Guard and the Post Office Department in Alaska for years. The authorization is limited to emergency conditions or isolated locations. 81st Congress, House Report No. 557.
 
 #### Prior Provisions
-A prior section 706 was renumbered [section 3706 of this title](./chapter-1-1-so-in-original-probably-should-be-37-another-chapter-1-is-set-out-in-subtitle-i-of-this-title-chapter-1-chapter-1-1-so-in-original-probably-should-be-37-another-chapter-1-is-set-out-in-subtitle-i-of-this-title-chapter-1.md#section-3706).
+A prior section 706 was renumbered [section 3706 of this title](./chapter-037-coast-guard-reserve.md#section-3706).
 
 #### Amendments
 2018—Pub. L. 115–282 renumbered [section 146 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section146&num=0&edition=prelim) as this section.
@@ -202,7 +199,7 @@ This section outlines the sphere of cooperation between the Weather Bureau and t
 Although the Coast Guard has always cooperated closely with the Weather Bureau, positive recognition of this has never appeared in the statutes. In its patrol, its aiding navigation, and its life saving activities, the Coast Guard finds it important to make, receive and transmit weather observations and measurements. Furthermore, with the advent of war, weather reporting, particularly mid-Atlantic weather patrol work, assumed increasing importance, and this extensive weather station manning in cooperation with the Weather Bureau must be provided for in the postwar period. This section providing for such close cooperation with the Weather Bureau in weather reporting would crystallize the cooperative practices of the two agencies as they have operated for years. 81st Congress, House Report No. 557.
 
 #### Prior Provisions
-A prior section 707 was renumbered [section 3707 of this title](./chapter-1-1-so-in-original-probably-should-be-37-another-chapter-1-is-set-out-in-subtitle-i-of-this-title-chapter-1-chapter-1-1-so-in-original-probably-should-be-37-another-chapter-1-is-set-out-in-subtitle-i-of-this-title-chapter-1.md#section-3707).
+A prior section 707 was renumbered [section 3707 of this title](./chapter-037-coast-guard-reserve.md#section-3707).
 
 #### Amendments
 2018—Pub. L. 115–282 renumbered [section 147 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section147&num=0&edition=prelim) as this section.
@@ -234,7 +231,7 @@ A prior section 707 was renumbered [section 3707 of this title](./chapter-1-1-so
 In subsection (a), the words “Secretary of Health and Human Services” are substituted for “Department of Health, Education, and Welfare” because of 20:3508(b) and because the responsibility is in the head of the Department. The word “may” is substituted for “is authorized to” for clarity. The word “conditions” is substituted for “terms and conditions” because it is inclusive. The words “deems appropriate” are omitted as unnecessary. The words “The following . . . limitations apply” are substituted for “shall be subject to the following . . . limitations” for clarity.
 
 #### Prior Provisions
-A prior section 708 was renumbered [section 3708 of this title](./chapter-1-1-so-in-original-probably-should-be-37-another-chapter-1-is-set-out-in-subtitle-i-of-this-title-chapter-1-chapter-1-1-so-in-original-probably-should-be-37-another-chapter-1-is-set-out-in-subtitle-i-of-this-title-chapter-1.md#section-3708).
+A prior section 708 was renumbered [section 3708 of this title](./chapter-037-coast-guard-reserve.md#section-3708).
 
 #### Amendments
 2018—Pub. L. 115–282 renumbered [section 147a of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section147a&num=0&edition=prelim) as this section.
@@ -246,7 +243,7 @@ Similar provisions were contained in section 8 of Pub. L. 95–61 which was form
 <a id="section-709"></a>
 ## § 709. Maritime instruction
 
-The Coast Guard may, when so requested by proper authority, detail members for duty in connection with maritime instruction and training by the several States, Territories, the District of Columbia, and Puerto Rico, and when requested by the Maritime Administrator, detail persons in the Coast Guard for duty in connection with maritime instruction and training by the United States. The service rendered by any person so detailed shall be considered Coast Guard duty.
+The Coast Guard may, when so requested by proper authority, detail members for duty in connection with maritime instruction and training by the several States, Territories, the District of Columbia, and Puerto Rico, and when requested by the Maritime Administrator, detail individuals in the Coast Guard for duty in connection with maritime instruction and training by the United States. The service rendered by any individual so detailed shall be considered Coast Guard duty.
 
 ### Statutory Notes
 
@@ -256,11 +253,13 @@ Based on title 14, U.S.C., 1946 ed., § 49 (Aug. 4, 1939, ch. 416, 53 Stat. 1181
 Changes were made in phraseology. 81st Congress, House Report No. 557.
 
 #### Prior Provisions
-A prior section 709 was renumbered [section 3709 of this title](./chapter-1-1-so-in-original-probably-should-be-37-another-chapter-1-is-set-out-in-subtitle-i-of-this-title-chapter-1-chapter-1-1-so-in-original-probably-should-be-37-another-chapter-1-is-set-out-in-subtitle-i-of-this-title-chapter-1.md#section-3709).
+A prior section 709 was renumbered [section 3709 of this title](./chapter-037-coast-guard-reserve.md#section-3709).
 
-A prior section 709a was renumbered [section 3710 of this title](./chapter-1-1-so-in-original-probably-should-be-37-another-chapter-1-is-set-out-in-subtitle-i-of-this-title-chapter-1-chapter-1-1-so-in-original-probably-should-be-37-another-chapter-1-is-set-out-in-subtitle-i-of-this-title-chapter-1.md#section-3710).
+A prior section 709a was renumbered [section 3710 of this title](./chapter-037-coast-guard-reserve.md#section-3710).
 
 #### Amendments
+2021—Pub. L. 116–283 substituted “individuals” for “persons” and “individual” for “person”.
+
 2018—Pub. L. 115–282 renumbered [section 148 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section148&num=0&edition=prelim) as this section.
 
 1984—Pub. L. 98–557 substituted reference to members for reference to officers and enlisted men.
@@ -304,7 +303,7 @@ Experience has indicated that it will be advantageous for the Government to incl
 It seems probable that the increased collaboration with foreign governments after the war and the vital nature of the Coast Guard’s activities in relation to such collaboration will result in requests from time to time by foreign governments for assistance which the Coast Guard is in the best position to render. This section, which confers broad authority in the President to detail Coast Guard officers and enlisted men to assist foreign governments, is patterned after the act of October 1, 1942, 56 Stat. 763 (title 34, U.S.C., 1946 ed., § 441–a), which authorizes the President to detail Army, Navy, and Marine Corps officers and men to certain foreign governments and, in times of war or national emergency, to any foreign government in the interests of national defense. 81st Congress, House Report No. 557.
 
 #### Prior Provisions
-A prior section 710 was renumbered [section 3711 of this title](./chapter-1-1-so-in-original-probably-should-be-37-another-chapter-1-is-set-out-in-subtitle-i-of-this-title-chapter-1-chapter-1-1-so-in-original-probably-should-be-37-another-chapter-1-is-set-out-in-subtitle-i-of-this-title-chapter-1.md#section-3711).
+A prior section 710 was renumbered [section 3711 of this title](./chapter-037-coast-guard-reserve.md#section-3711).
 
 #### Amendments
 2018—Pub. L. 115–282 renumbered [section 149 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section149&num=0&edition=prelim) as this section.
@@ -338,7 +337,7 @@ Experience since the war has indicated the necessity for making provision for th
 This section authorizes the designation, with the consent of the State Department, of Coast Guard officers to be officially attached to diplomatic missions of the United States. Although Coast Guard advice on Coast Guard matters is always available to our diplomatic missions, in those locations where such advice and information are frequently sought, it is felt that the most effective utilization of Coast Guard services would be achieved by having Coast Guard officers attached to such missions. Provision for customs officers to be attached to diplomatic missions is contained in the act of March 4, 1923, as amended, 42 Stat. 1453 (title 19, U.S.C., 1946 ed., § 6). Before the transfer in 1939 of the Foreign Agriculture Service to the State Department, representatives of the Bureau of Agricultural Economics of the Department of Agriculture stationed abroad were agricultural attachés. Act of June 5, 1930, 46 Stat. 498 (title 7, U.S.C., 1946 ed., § 542(a)). 81st Congress, House Report No. 557.
 
 #### Prior Provisions
-A prior section 711 was renumbered [section 3712 of this title](./chapter-1-1-so-in-original-probably-should-be-37-another-chapter-1-is-set-out-in-subtitle-i-of-this-title-chapter-1-chapter-1-1-so-in-original-probably-should-be-37-another-chapter-1-is-set-out-in-subtitle-i-of-this-title-chapter-1.md#section-3712).
+A prior section 711 was renumbered [section 3712 of this title](./chapter-037-coast-guard-reserve.md#section-3712).
 
 #### Amendments
 2018—Pub. L. 115–282 renumbered [section 150 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section150&num=0&edition=prelim) as this section.
@@ -359,7 +358,7 @@ Pub. L. 113–126, title III, § 312, July 7, 2014, 128 Stat. 1399, provided tha
 Based on title 14, U.S.C., 1946 ed., § 31c (June 6, 1942, ch. 384, 56 Stat. 328). 81st Congress, House Report No. 557.
 
 #### Prior Provisions
-A prior section 712 was renumbered [section 3713 of this title](./chapter-1-1-so-in-original-probably-should-be-37-another-chapter-1-is-set-out-in-subtitle-i-of-this-title-chapter-1-chapter-1-1-so-in-original-probably-should-be-37-another-chapter-1-is-set-out-in-subtitle-i-of-this-title-chapter-1.md#section-3713).
+A prior section 712 was renumbered [section 3713 of this title](./chapter-037-coast-guard-reserve.md#section-3713).
 
 #### Amendments
 2018—Pub. L. 115–282 renumbered [section 151 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section151&num=0&edition=prelim) as this section.
@@ -375,7 +374,7 @@ The Coast Guard Exchange System, or a morale, welfare, and recreation system of 
 ### Statutory Notes
 
 #### Prior Provisions
-A prior section 713 was renumbered [section 3714 of this title](./chapter-1-1-so-in-original-probably-should-be-37-another-chapter-1-is-set-out-in-subtitle-i-of-this-title-chapter-1-chapter-1-1-so-in-original-probably-should-be-37-another-chapter-1-is-set-out-in-subtitle-i-of-this-title-chapter-1.md#section-3714).
+A prior section 713 was renumbered [section 3714 of this title](./chapter-037-coast-guard-reserve.md#section-3714).
 
 #### Amendments
 2018—Pub. L. 115–282 renumbered [section 152 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section152&num=0&edition=prelim) as this section.
@@ -516,10 +515,96 @@ Subsec. (b). Pub. L. 115–282, § 123(b)(2), substituted “section 504(a)(4)�
 
 (2) **Limitation on liability.—** — The United States shall not be liable for actions taken by an individual in the course of training made available under this section.
 
+
+<a id="section-719"></a>
+## § 719. Research projects; transactions other than contracts and grants
+**(a) Additional Forms of Transactions Authorized.—**
+
+(1) **In general.—** — The Commandant may enter into—
+
+  (A) transactions (other than contracts, cooperative agreements, and grants) in carrying out basic, applied, and advanced research projects; and
+
+  (B) agreements with the Director of the Defense Advanced Research Projects Agency, the Secretary of a military department, or any other official designated by the Secretary of Defense under [section 2371b of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2371b&num=0&edition=prelim) to participate in prototype projects and follow-on production contracts or transactions that are being carried out by such official and are directly relevant to the Coast Guard’s cyber capability and Command, Control, Communications, Computers, and intelligence initiatives.
+
+(2) **Additional authority.—** — The authority under this subsection is in addition to the authority provided in section 717 to use contracts, cooperative agreements, and grants in carrying out such projects.
+
+(3) **Funding.—** — In carrying out paragraph (1)(B), the Commandant may use funds made available to the extent provided in advance in appropriations Acts for—
+
+  (A) operations and support;
+
+  (B) research, development, test, and evaluation; and
+
+  (C) procurement, construction, and improvement.
+
+**(b) Recovery of Funds.—**
+
+(1) **In general.—** — Subject to subsection (d), a cooperative agreement for performance of basic, applied, or advanced research authorized by section 717, and a transaction authorized by subsection (a), may include a clause that requires a person or other entity to make payments to the Coast Guard or any other department or agency of the Federal Government as a condition for receiving support under the agreement or transaction, respectively.
+
+(2) **Availability of funds.—** — The amount of any payment received by the Federal Government pursuant to a requirement imposed under paragraph (1) shall be deposited in the general fund of the Treasury. Amounts so deposited shall be available for the purposes of carrying out this section, to the extent provided in advance in appropriations Acts.
+
+**(c) Conditions.—**
+
+(1) **In general.—** — The Commandant shall ensure that to the extent that the Commandant determines practicable, no cooperative agreement containing a clause described in subsection (c)(1),11 So in original. Probably should be “subsection (b)(1)”. and no transaction entered into under subsection (a), provides for research that duplicates research being conducted under existing programs carried out by the Coast Guard.
+
+(2) **Other agreements not feasible.—** — A cooperative agreement containing a clause described in subsection (c)(1),1 or under a transaction authorized by subsection (a), may be used for a research project only if the use of a standard contract, grant, or cooperative agreement for such project is not feasible or appropriate.
+
+**(d) Education and Training.—** The Commandant shall—
+
+(1) ensure that management, technical, and contracting personnel of the Coast Guard involved in the award or administration of transactions under this section or other innovative forms of contracting are afforded opportunities for adequate education and training; and
+
+(2) establish minimum levels and requirements for continuous and experiential learning for such personnel, including levels and requirements for acquisition certification programs.
+
+**(e) Protection of Certain Information From Disclosure.—**
+
+(1) **In general.—** — Disclosure of information described in paragraph (2) is not required, and may not be compelled, under [section 552 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section552&num=0&edition=prelim) for 5 years after the date on which the information is received by the Coast Guard.
+
+(2) **Limitation.—**
+
+  (A) *In general.—* — Paragraph (1) applies to information described in subparagraph (B) that is in the records of the Coast Guard only if the information was submitted to the Coast Guard in a competitive or noncompetitive process having the potential for resulting in an award, to the party submitting the information, of a cooperative agreement for performance of basic, applied, or advanced research authorized by section 717 or another transaction authorized by subsection (a).
+
+  (B) *Information described.—* — The information referred to in subparagraph (A) is the following:
+
+    (i) A proposal, proposal abstract, and supporting documents.
+
+    (ii) A business plan submitted on a confidential basis.
+
+    (iii) Technical information submitted on a confidential basis.
+
+**(f) Regulations.—** The Commandant shall prescribe regulations, as necessary, to carry out this section.
+
+**(g) Annual Report.—** On the date on which the President submits to Congress a budget pursuant to [section 1105 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1105&num=0&edition=prelim), the Commandant shall submit to the Committees on Appropriations and Transportation and Infrastructure of the House of Representatives and the Committees on Appropriations and Commerce, Science, and Transportation of the Senate a report describing each use of the authority provided under this section during the most recently completed fiscal year, including details of each use consisting of—
+
+(1) the amount of each transaction;
+
+(2) the entities or organizations involved;
+
+(3) the product or service received;
+
+(4) the research project for which the product or service was required; and
+
+(5) the extent of the cost sharing among Federal Government and non-Federal sources.
+
+
+<a id="section-720"></a>
+## § 720. VHF communications services
+**(a)** The Secretary of the department in which the Coast Guard is operating may authorize a person providing commercial VHF communications services to place commercial VHF communications equipment on real property under the administrative control of the Coast Guard (including towers) subject to any terms agreed to by the parties. The Secretary and that commercial VHF communications service provider also may enter into an agreement providing for VHF communications services to the Coast Guard (including digital selective calling and radio direction finding services) at a discounted rate or price based on providing such access to real property under the administrative control of the Coast Guard.
+
+**(b)** Commercial VHF communication equipment placed on real property under the administrative control of the Coast Guard under this section shall not interfere in any manner with any current or future Coast Guard communication equipment.
+
+**(c)** Nothing in this section shall affect the rights or obligations of the United States under section 704(c) of the Telecommunications Act of 1996 ([47 U.S.C. 332](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title47-section332&num=0&edition=prelim) note) with respect to the availability of property or under section 359(d) of the Communications Act of 1934 ([47 U.S.C. 357(d)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title47-section357/d&num=0&edition=prelim)) with respect to charges for transmission of distress messages.
+
 ### Statutory Notes
 
+#### References in Text
+Section 704(c) of the Telecommunications Act of 1996, referred to in subsec. (c), is section 704(c) of Pub. L. 104–104, which is set out as a note under [section 332 of Title 47](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title47-section332&num=0&edition=prelim), Telecommunications.
+
+#### Codification
+Pub. L. 107–295, title IV, § 406, Nov. 25, 2002, 116 Stat. 2116, formerly set out as a note under [section 501 of this title](./chapter-005-functions-and-powers.md#section-501), was redesignated as this section, transferred to appear after [section 719 of this title](./chapter-007-cooperation.md#section-719), and amended so that the enumerator, section catchline, typeface, and typestyle conformed to those appearing in other sections of this title by Pub. L. 116–283, § 8501(a)(2).
+
 #### Prior Provisions
-For redesignation of prior sections 720 to 894 not listed below as having been previously repealed or omitted, see Table Showing Redesignations Made by Title I of Pub. L. 115–282 preceding [section 101 of this title](./chapter-001-establishment-and-duties.md#section-101).
+A prior section 720 was renumbered [section 3731 of this title](./chapter-037-coast-guard-reserve.md#section-3731).
+
+For redesignation of prior sections 721 to 894 not listed below as having been previously repealed or omitted, see Table Showing Redesignations Made by Title I of Pub. L. 115–282 preceding [section 101 of this title](./chapter-001-establishment-and-duties.md#section-101).
 
 A prior section 751, acts Aug. 4, 1949, ch. 393, 63 Stat. 551; Aug. 3, 1950, ch. 536, § 31, 64 Stat. 408, related to the purpose and administration of the Reserve, prior to repeal by act July 9, 1952, ch. 608, part VIII, §§ 802, 803, 66 Stat. 505, effective on the first day of the sixth month following July 1952.
 
@@ -626,3 +711,6 @@ Section 796, added Pub. L. 91–402, § 1(13), Sept. 18, 1970, 84 Stat. 842; ame
 Section 797, added Pub. L. 91–402, § 1(13), Sept. 18, 1970, 84 Stat. 842, related to acceptance of promotion and oath of office.
 
 Section 798, added Pub. L. 91–402, § 1(13), Sept. 18, 1970, 84 Stat. 843, related to maximum service in grade of rear admiral.
+
+#### Amendments
+2021—Pub. L. 116–283 redesignated section 406 of Pub. L. 107–295 as this section and made technical changes to conform this section to other sections of this title. See Codification note above.

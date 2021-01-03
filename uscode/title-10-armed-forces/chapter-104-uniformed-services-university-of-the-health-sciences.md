@@ -2,7 +2,7 @@
 title: 10
 chapter: '104'
 heading: UNIFORMED SERVICES UNIVERSITY OF THE HEALTH SCIENCES
-section_count: 8
+section_count: 9
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10&num=0&edition=prelim
 ---
@@ -41,6 +41,9 @@ Pub. L. 92–426, § 1, Sept. 21, 1972, 86 Stat. 713, provided: “That this Act
 
 #### Transfer of Functions
 For transfer of authority of Board of Regents of Uniformed Services University of the Health Sciences to Secretary of Defense, see section 8091 of Pub. L. 101–511, set out as a note under [section 2113 of this title](./chapter-104-uniformed-services-university-of-the-health-sciences.md#section-2113).
+
+#### Temporary Exemption for Uniformed Services University of the Health Sciences From Certain Paperwork Reduction Act Requirements
+Pub. L. 116–283, div. A, title VII, § 716(a), Jan. 1, 2021, 134 Stat. 3694, provided that: “(a) Temporary Exemption From Certain Paperwork Reduction Act Requirements.—“(1) In general.—During the two-year period beginning on the date that is 30 days after the date of the enactment of this Act [Jan. 1, 2021], the requirements described in paragraph (2) shall not apply with respect to the voluntary collection of information during the conduct of research and program evaluations—“(A) conducted or sponsored by the Uniformed Services University of the Health Sciences; and “(B) funded through the Defense Health Program. “(2) Requirements described.—The requirements described in this paragraph are the requirements under the following provisions of law:“(A) [Section 3506(c) of title 44](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section3506/c&num=0&edition=prelim), United States Code. “(B) Sections 3507 and 3508 of such title.”
 
 #### Continuation of Uniformed Services University of the Health Sciences
 Pub. L. 104–106, div. A, title X, § 1071, Feb. 10, 1996, 110 Stat. 445, as amended by Pub. L. 104–201, div. A, title IX, § 907(b)(2), Sept. 23, 1996, 110 Stat. 2620, provided that: “(a) Policy.—Congress reaffirms—“(1) the prohibition set forth in subsection (a) of section 922 of the National Defense Authorization Act for Fiscal Year 1995 (Public Law 103–337; 108 Stat. 2829; [10 U.S.C. 2112](./chapter-104-uniformed-services-university-of-the-health-sciences.md#section-2112) note) regarding closure of the Uniformed Services University of the Health Sciences; and “(2) the expression of the sense of Congress set forth in subsection (b) of such section regarding the budgetary commitment to continuation of the University. “[(b) Repealed. Pub. L. 104–201, div. A, title IX, § 907(b)(2), Sept. 23, 1996, 110 Stat. 2620.] “(c) Budgetary Commitment to Continuation.—It is the sense of Congress that the Secretary of Defense should budget for the operation of the Uniformed Services University of the Health Sciences during fiscal year 1997 at a level at least equal to the level of operations conducted at the University during fiscal year 1995.”
@@ -125,9 +128,11 @@ Provisions similar to those in subsec. (b) of this section were contained in Pub
 
   (D) to accept, hold, administer, invest, and spend any gift, devise, or bequest of personal property made to the University, including any gift, devise, or bequest for the support of an academic chair, teaching, research, or demonstration project;
 
-  (E) to enter into agreements with the Henry M. Jackson Foundation for the Advancement of Military Medicine, or with any other nonprofit entity, under which scientists or other personnel of the Foundation or other entity may be utilized by the University for the purpose of enhancing the activities of the University in education, research, and technological applications of knowledge; and
+  (E) to enter into agreements with the Henry M. Jackson Foundation for the Advancement of Military Medicine, or with any other nonprofit entity, under which scientists or other personnel of the Foundation or other entity may be utilized by the University for the purpose of enhancing the activities of the University in education, research, and technological applications of knowledge;
 
-  (F) to accept the voluntary services of guest scholars and other persons.
+  (F) to accept the voluntary services of guest scholars and other persons; and
+
+  (G) notwithstanding sections 2304, 2361, and 2374 of this title, to enter into contracts and cooperative agreements with, accept grants from, and make grants to, nonprofit entities (on a sole-source basis) for the purpose specified in subparagraph (A) or for any other purpose the Secretary determines to be consistent with the mission of the University.
 
 (2) The Secretary may not enter into any contract with the Henry M. Jackson Foundation for the Advancement of Military Medicine, or with any other entity, if the contract would obligate the University to make outlays in advance of the enactment of budget authority for such outlays.
 
@@ -137,7 +142,14 @@ Provisions similar to those in subsec. (b) of this section were contained in Pub
 
 ### Statutory Notes
 
+#### Amendment of Section
+Pub. L. 116–283, div. A, title XVIII, §§ 1801(d), 1883(b)(2), Jan. 1, 2021, 134 Stat. 4151, 4294, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, except as otherwise provided in title XVIII of Pub. L. 116–283, in title 10, United States Code, each reference in the text of such title to a source section that is redesignated by title XVIII of Pub. L. 116–283, is amended by striking such reference and inserting a reference to the appropriate section as so redesignated. See 2021 Amendment note below.
+
 #### Amendments
+2021—Subsec. (g)(1)(G). Pub. L. 116–283, § 1883(b)(2), substituted “4015, and 4008 of this title” for “2361, and 2374 of this title”. Amendment directing that each reference in the text of title 10 to a section that was redesignated by title XVIII of Pub. L. 116–283, as such section was in effect before the redesignation, be amended by striking such reference and inserting a reference to the appropriate redesignated section, was not executed with respect to “section 2304”, which was redesignated as multiple sections.
+
+Pub. L. 116–283, § 714(a), added subpar. (G).
+
 2016—Subsec. (d). Pub. L. 114–328, § 724(b)(1), struck out “located in or near the District of Columbia” after “Federal medical resources”, “in or near the District of Columbia” after “university or universities”, and “The Secretary may enter into an agreement under which the University would become part of a national university of health sciences should such an institution be established in the vicinity of the District of Columbia.” after “educational programs.”
 
 Subsec. (e)(3). Pub. L. 114–328, § 724(b)(2), inserted “, including certificate, certification, and undergraduate degree programs,” after “or programs”.
@@ -220,8 +232,14 @@ Pub. L. 98–36 added subsec. (j).
 
 1978—Subsec. (b)(3). Pub. L. 95–589 added par. (3).
 
+#### Effective Date of 2021 Amendment
+Amendment by section 1883(b)(2) of Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
+
 #### Effective Date of 1980 Amendment
 Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of Pub. L. 96–513, set out as a note under [section 101 of this title](./chapter-001-definitions.md#section-101).
+
+#### Rule of Construction
+Pub. L. 116–283, div. A, title VII, § 714(b), Jan. 1, 2021, 134 Stat. 3694, provided that: “Nothing in [section 2113(g) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2113/g&num=0&edition=prelim), United States Code, as amended by subsection (a), shall be construed to limit the ability of the Secretary of Defense, in carrying out such section, to use competitive procedures to award contracts, cooperative agreements, or grants.”
 
 #### Transfer of Functions
 Pub. L. 101–511, title VIII, § 8091, Nov. 5, 1990, 104 Stat. 1896, provided that: “Notwithstanding any other provision of law, all authority of the Board of Regents of the Uniformed Services University of the Health Sciences is hereby transferred to the Secretary of Defense, and the Board hereafter shall be an advisory board to the Secretary of Defense.”
@@ -237,9 +255,11 @@ Pub. L. 101–511, title VIII, § 8091, Nov. 5, 1990, 104 Stat. 1896, provided t
 
 (2) the Secretary of Defense, or his designee, who shall be an ex officio member;
 
-(3) the surgeons general of the uniformed services, who shall be ex officio members; and
+(3) the Director of the Defense Health Agency, who shall be an ex officio member;
 
-(4) the President of the University, who shall be a nonvoting ex officio member.
+(4) the surgeons general of the uniformed services, who shall be ex officio members; and
+
+(5) the President of the University, who shall be a nonvoting ex officio member.
 
 **(c) Term of Office.—** The term of office of each member of the Board (other than ex officio members) shall be six years except that—
 
@@ -256,7 +276,28 @@ Pub. L. 101–511, title VIII, § 8091, Nov. 5, 1990, 104 Stat. 1896, provided t
 ### Statutory Notes
 
 #### Amendments
+2021—Subsec. (b)(3) to (5). Pub. L. 116–283 added par. (3) and redesignated former pars. (3) and (4) as (4) and (5), respectively.
+
 2009—Subsec. (b)(1). Pub. L. 111–84 substituted “health care, higher education administration, or public policy” for “health and health education”.
+
+#### Effective Date of 2021 Amendment
+Pub. L. 116–283, div. A, title VII, § 715(c), Jan. 1, 2021, 134 Stat. 3694, provided that: “The amendments made by this section [amending this section] shall take effect on January 1, 2021.”
+
+#### Rule of Construction
+Pub. L. 116–283, div. A, title VII, § 715(b), Jan. 1, 2021, 134 Stat. 3694, provided that: “The amendments made by this section [amending this section] may not be construed to invalidate any action taken by the Uniformed Services University of the Health Sciences or its Board of Regents prior to the effective date of this section [see Effective Date of 2021 Amendment note above].”
+
+
+<a id="section-2113b"></a>
+## § 2113b. Academic Health System
+**(a) In General.—** The Secretary of Defense may establish an Academic Health System to integrate the health care, health professions education, and health research activities of the military health system, including under this chapter, in the National Capital Region.
+
+**(b) Leadership.—**
+
+(1) The Secretary may appoint employees of the Department of Defense to leadership positions in the Academic Health System established under subsection (a).
+
+(2) Such positions may include responsibilities for management of the health care, health professions education, and health research activities described in subsection (a) and are in addition to similar leadership positions for members of the armed forces.
+
+**(c) National Capital Region Defined.—** In this section, the term “National Capital Region” means the area, or portion thereof, as determined by the Secretary, in the vicinity of the District of Columbia.
 
 
 <a id="section-2114"></a>

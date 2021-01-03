@@ -1041,7 +1041,7 @@ Based on title 28, U.S.C., 1940 ed., §§ 41(3) and 371(4) (Mar. 3, 1911, ch. 23
 
 Section consolidates certain provisions of sections 41(3) and 371(4) of title 28, U.S.C., 1940 ed. Other provisions of such sections are incorporated in [section 1333 of this title](./chapter-085-district-courts-jurisdiction.md#section-1333).
 
-Changes were made in arrangement and phrase­ology.
+Changes were made in arrangement and phraseology.
 
 #### Amendments
 1980—Pub. L. 96–417 inserted exception for matters within the jurisdiction of the Court of International Trade under [section 1582 of this title](./chapter-095-court-of-international-trade.md#section-1582).
@@ -1127,9 +1127,6 @@ The assignee clause was incorporated in the original Judiciary Act of 1789. Such
 #### Effective Date of 1984 Amendment
 Amendment by Pub. L. 98–353 effective July 10, 1984, see section 122(a) of Pub. L. 98–353, set out as an Effective Date note under [section 151 of this title](./chapter-006-bankruptcy-judges.md#section-151).
 
-#### Admission of Alaska as State
-Admission of Alaska into the Union was accomplished Jan. 3, 1959, on issuance of Proc. No. 3269, Jan. 3, 1959, 24 F.R. 81, 73 Stat. c16, as required by sections 1 and 8(c) of Pub. L. 85–508, July 7, 1958, 72 Stat. 339, set out as notes preceding [section 21 of Title 48](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title48-section21&num=0&edition=prelim), Territories and Insular Possessions.
-
 #### Amendment of State Constitutions To Remove Legal Impediment; Effective Date
 Act Aug. 15, 1953, ch. 505, § 6, 67 Stat. 590, provided that: “Notwithstanding the provisions of any Enabling Act for the admission of a State, the consent of the United States is hereby given to the people of any State to amend, where necessary, their State constitution or existing statutes, as the case may be, to remove any legal impediment to the assumption of civil and criminal jurisdiction in accordance with the provisions of this Act [adding this section and [section 1162 of Title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section1162&num=0&edition=prelim), Crimes and Criminal Procedure]: Provided, That the provisions of this Act shall not become effective with respect to such assumption of jurisdiction by any such State until the people thereof have appropriately amended their State constitution or statutes as the case may be.”
 
@@ -1137,6 +1134,9 @@ Act Aug. 15, 1953, ch. 505, § 6, 67 Stat. 590, provided that: “Notwithstandin
 Act Aug. 15, 1953, ch. 505, § 7, 67 Stat. 590, which gave consent of the United States to any other State not having jurisdiction with respect to criminal offenses or civil causes of action, or with respect to both, as provided for in this section and [section 1162 of Title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section1162&num=0&edition=prelim), Crimes and Criminal Procedure, to assume jurisdiction at such time and in such manner as the people of the State shall, by legislative action, obligate and bind the State to assumption thereof, was repealed by section 403(b) of Pub. L. 90–284, title IV, Apr. 11, 1968, 82 Stat. 79, such repeal not to affect any cession of jurisdiction made pursuant to such section prior to its repeal.
 
 Retrocession of jurisdiction by State acquired by State pursuant to section 7 of Act Aug. 15, 1953, prior to its repeal, see [section 1323 of Title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section1323&num=0&edition=prelim), Indians.
+
+#### Admission of Alaska as State
+Admission of Alaska into the Union was accomplished Jan. 3, 1959, on issuance of Proc. No. 3269, Jan. 3, 1959, 24 F.R. 81, 73 Stat. c16, as required by sections 1 and 8(c) of Pub. L. 85–508, July 7, 1958, 72 Stat. 339, set out as notes preceding [section 21 of Title 48](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title48-section21&num=0&edition=prelim), Territories and Insular Possessions.
 
 
 <a id="section-1361"></a>

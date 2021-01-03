@@ -14,7 +14,7 @@ With respect to any function transferred under this subchapter (including under 
 ### Statutory Notes
 
 #### References in Text
-This subchapter, referred to in text, was in the original “this title”, meaning title VI (§§ 1461–1470) of div. F of Pub. L. 115–254, Oct. 5, 2018, 132 Stat. 3510, which is classified principally to this subchapter and which repealed title IV of chapter 2 of part I of the Foreign Assistance Act of 1961 ([22 U.S.C. 2191](./chapter-032-foreign-assistance.md#section-2191) et seq.), other than subsections (g), (l), (m), and (n) of section 237 thereof ([22 U.S.C. 2197(g)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2197/g&num=0&edition=prelim), (l), (m), (n)), among other amendments. For complete classification of title VI to the Code, see Tables.
+This subchapter, referred to in text, was in the original “this title”, meaning title VI (§§ 1461–1470) of div. F of Pub. L. 115–254, Oct. 5, 2018, 132 Stat. 3510, which is classified principally to this subchapter and which repealed title IV of chapter 2 of part I of the Foreign Assistance Act of 1961 ([22 U.S.C. 2191](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2191&num=0&edition=prelim) et seq.), other than subsections (g), (l), (m), and (n) of section 237 thereof ([22 U.S.C. 2197(g)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2197/g&num=0&edition=prelim), (l), (m), (n)), among other amendments. For complete classification of title VI to the Code, see Tables.
 
 
 <a id="section-9611"></a>
@@ -43,7 +43,7 @@ In this chapter:
 #### References in Text
 This chapter, referred to in text, was in the original “this division”, meaning division F of Pub. L. 115–254, Oct. 5, 2018, 132 Stat. 3485, which is classified principally to this chapter. For complete classification of division F to the Code, see Short Title note set out below and Tables.
 
-Subchapter VI of this chapter, referred to in par. (3), was in the original “title VI”, meaning title VI (§§ 1461–1470) of div. F of Pub. L. 115–254, Oct. 5, 2018, 132 Stat. 3510, which is classified principally to subchapter VI of this chapter and which repealed title IV of chapter 2 of part I of the Foreign Assistance Act of 1961 ([22 U.S.C. 2191](./chapter-032-foreign-assistance.md#section-2191) et seq.), other than subsections (g), (l), (m), and (n) of section 237 thereof ([22 U.S.C. 2197(g)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2197/g&num=0&edition=prelim), (l), (m), (n)), among other amendments. For complete classification of title VI to the Code, see Tables.
+Subchapter VI of this chapter, referred to in par. (3), was in the original “title VI”, meaning title VI (§§ 1461–1470) of div. F of Pub. L. 115–254, Oct. 5, 2018, 132 Stat. 3510, which is classified principally to subchapter VI of this chapter and which repealed title IV of chapter 2 of part I of the Foreign Assistance Act of 1961 ([22 U.S.C. 2191](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2191&num=0&edition=prelim) et seq.), other than subsections (g), (l), (m), and (n) of section 237 thereof ([22 U.S.C. 2197(g)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2197/g&num=0&edition=prelim), (l), (m), (n)), among other amendments. For complete classification of title VI to the Code, see Tables.
 
 #### Short Title
 Pub. L. 115–254, div. F, § 1401, Oct. 5, 2018, 132 Stat. 3485, provided that: “This division [enacting this chapter, amending sections 2151n, 2197, 2291, 2296b, 5401, 5421, 6062, 6445, 7102, 7902, 8926, 9303, and 9546 of this title, [section 905 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section905&num=0&edition=prelim), The Congress, sections 5313 to 5316 of Title 5, Government Organization and Employees, section 8G of Pub. L. 95–452, set out in the Appendix to Title 5, sections 649, 4721, 4727, and 4902 of Title 15, Commerce and Trade, [section 709 of Title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section709&num=0&edition=prelim), Crimes and Criminal Procedure, [section 4421 of Title 19](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section4421&num=0&edition=prelim), Customs Duties, [section 1131c of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1131c&num=0&edition=prelim), Education, [section 9101 of Title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section9101&num=0&edition=prelim), Money and Finance, and sections 17334 and 17336 of Title 42, The Public Health and Welfare, repealing subpart iv of part II of subchapter I of chapter 32 of this title, except for [section 2197 of this title](./chapter-032-foreign-assistance.md#section-2197), enacting provisions set out as a note under [section 905 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section905&num=0&edition=prelim), amending provisions set out as notes under sections 2293 and 2394c of this title] may be cited as the ‘Better Utilization of Investments Leading to Development Act of 2018’ or the ‘BUILD Act of 2018’.”
@@ -70,6 +70,15 @@ It is the policy of the United States to facilitate market-based private sector 
 
 (8) to complement and be guided by overall United States foreign policy, development, and national security objectives, taking into account the priorities and needs of countries receiving support.
 
+### Statutory Notes
+
+#### Enhancement of Nongovernmental Sector in Poland and Hungary
+Pub. L. 101–179, title III, § 302(b), Nov. 28, 1989, 103 Stat. 1311, provided that: “In accordance with its mandate to foster private initiative and competition and enhance the ability of private enterprise to make its full contribution to the development process, the Overseas Private Investment Corporation shall support projects in Poland and Hungary which will result in enhancement of the nongovernmental sector and reduction of state involvement in the economy.”
+
+[For transfer of functions, personnel, assets, and liabilities of the Overseas Private Investment Corporation to the United States International Development Finance Corporation and treatment of related references, see sections 9683 and 9686(d) of this title.]
+
+Pub. L. 101–179, title III, § 302(c), Nov. 28, 1989, 103 Stat. 1311, provided that: “If the Foreign Operations, Export Financing, and Related Programs Appropriations Act, 1990 [Pub. L. 101–167], contains the same amendment that is made by subsection (a) of this section [amending former [section 2199(f) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2199/f&num=0&edition=prelim) by inserting “, Poland, Hungary,” after “Yugoslavia”], the amendment made by that Act shall not be effective.”
+
 
 <a id="section-9613"></a>
 ## § 9613. United States International Development Finance Corporation
@@ -91,6 +100,17 @@ It is the policy of the United States to facilitate market-based private sector 
 
 #### References in Text
 This chapter, referred to in subsec. (a), was in the original “this division”, meaning division F of Pub. L. 115–254, Oct. 5, 2018, 132 Stat. 3485, which is classified principally to this chapter. For complete classification of division F to the Code, see Short Title note set out under [section 9601 of this title](./chapter-103-better-utilization-of-investments-leading-to-development.md#section-9601) and Tables.
+
+#### Delegation of Authority Under the Better Utilization of Investments Leading to Development Act of 2018
+Memorandum of President of the United States, July 7, 2020, 85 F.R. 45749, provided:
+
+Memorandum for the Secretary of State
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, including [section 301 of title 3](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title3-section301&num=0&edition=prelim), United States Code, I hereby delegate to the Secretary of State the authority vested in the President by section 1412(c)(2)(A) of the Better Utilization of Investments Leading to Development Act of 2018 (title I of division F of Public Law 115–254) (the “Act”) [[22 U.S.C. 9612(c)(2)(A)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section9612/c/2/A&num=0&edition=prelim)] to certify to the appropriate congressional committees that the provision of support under title II of the Act [amending sections 9621 to 9624 of this title] in a less developed country with an upper-middle-income economy furthers the national economic or foreign policy interests of the United States. The delegation in this memorandum shall apply to any provision of any future public law that is the same or substantially the same as the provision referenced in this memorandum.
+
+You are authorized and directed to publish this memorandum in the Federal Register.
+
+Donald J. Trump.
 
 
 <a id="section-9614"></a>
@@ -684,11 +704,14 @@ The maximum contingent liability of the Corporation outstanding at any one time 
 ### Statutory Notes
 
 #### References in Text
-Subchapter VI of this chapter, referred to in subsec. (i), was in the original “title VI”, meaning title VI (§§ 1461–1470) of div. F of Pub. L. 115–254, Oct. 5, 2018, 132 Stat. 3510, which is classified principally to subchapter VI of this chapter and which repealed title IV of chapter 2 of part I of the Foreign Assistance Act of 1961 ([22 U.S.C. 2191](./chapter-032-foreign-assistance.md#section-2191) et seq.), other than subsections (g), (l), (m), and (n) of section 237 thereof ([22 U.S.C. 2197(g)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2197/g&num=0&edition=prelim), (l), (m), (n)), among other amendments. For complete classification of title VI to the Code, see Tables.
+Subchapter VI of this chapter, referred to in subsec. (i), was in the original “title VI”, meaning title VI (§§ 1461–1470) of div. F of Pub. L. 115–254, Oct. 5, 2018, 132 Stat. 3510, which is classified principally to subchapter VI of this chapter and which repealed title IV of chapter 2 of part I of the Foreign Assistance Act of 1961 ([22 U.S.C. 2191](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2191&num=0&edition=prelim) et seq.), other than subsections (g), (l), (m), and (n) of section 237 thereof ([22 U.S.C. 2197(g)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2197/g&num=0&edition=prelim), (l), (m), (n)), among other amendments. For complete classification of title VI to the Code, see Tables.
 
 This chapter, referred to in subsec. (j), was in the original “this division”, meaning division F of Pub. L. 115–254, Oct. 5, 2018, 132 Stat. 3485, which is classified principally to this chapter. For complete classification of division F to the Code, see Short Title note set out under [section 9601 of this title](./chapter-103-better-utilization-of-investments-leading-to-development.md#section-9601) and Tables.
 
 The Foreign Assistance Act of 1961, referred to in subsec. (j), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, as amended, which is classified principally to chapter 32 (§ 2151 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 2151 of this title](./chapter-032-foreign-assistance.md#section-2151) and Tables.
+
+#### Authorization for Collections
+Pub. L. 116–94, div. G, title VI, Dec. 20, 2019, 133 Stat. 2841, provided in part: “That in this fiscal year, and each fiscal year thereafter, the Corporation shall collect the amounts described in section 1434(h) of the BUILD Act of 2018 [[22 U.S.C. 9634(h)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section9634/h&num=0&edition=prelim)]”.
 
 
 <a id="section-9651"></a>
@@ -968,7 +991,7 @@ In this subchapter:
 ### Statutory Notes
 
 #### References in Text
-This subchapter, referred to in text, was in the original “this title”, meaning title VI (§§ 1461–1470) of div. F of Pub. L. 115–254, Oct. 5, 2018, 132 Stat. 3510, which is classified principally to this subchapter and which repealed title IV of chapter 2 of part I of the Foreign Assistance Act of 1961 ([22 U.S.C. 2191](./chapter-032-foreign-assistance.md#section-2191) et seq.), other than subsections (g), (l), (m), and (n) of section 237 thereof ([22 U.S.C. 2197(g)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2197/g&num=0&edition=prelim), (l), (m), (n)), among other amendments. For complete classification of title VI to the Code, see Tables.
+This subchapter, referred to in text, was in the original “this title”, meaning title VI (§§ 1461–1470) of div. F of Pub. L. 115–254, Oct. 5, 2018, 132 Stat. 3510, which is classified principally to this subchapter and which repealed title IV of chapter 2 of part I of the Foreign Assistance Act of 1961 ([22 U.S.C. 2191](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2191&num=0&edition=prelim) et seq.), other than subsections (g), (l), (m), and (n) of section 237 thereof ([22 U.S.C. 2197(g)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2197/g&num=0&edition=prelim), (l), (m), (n)), among other amendments. For complete classification of title VI to the Code, see Tables.
 
 
 <a id="section-9683"></a>
@@ -1016,9 +1039,20 @@ This subchapter, referred to in text, was in the original “this title”, mean
 ### Statutory Notes
 
 #### References in Text
-This subchapter, referred to in subsecs. (a)(1) and (b)(1), was in the original “this title”, meaning title VI (§§ 1461–1470) of div. F of Pub. L. 115–254, Oct. 5, 2018, 132 Stat. 3510, which is classified principally to this subchapter and which repealed title IV of chapter 2 of part I of the Foreign Assistance Act of 1961 ([22 U.S.C. 2191](./chapter-032-foreign-assistance.md#section-2191) et seq.), other than subsections (g), (l), (m), and (n) of section 237 thereof ([22 U.S.C. 2197(g)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2197/g&num=0&edition=prelim), (l), (m), (n)), among other amendments. For complete classification of title VI to the Code, see Tables.
+This subchapter, referred to in subsecs. (a)(1) and (b)(1), was in the original “this title”, meaning title VI (§§ 1461–1470) of div. F of Pub. L. 115–254, Oct. 5, 2018, 132 Stat. 3510, which is classified principally to this subchapter. Section 1464(2) of title VI of div. F of Pub. L. 115–254 repealed title IV of chapter 2 of part I of the Foreign Assistance Act of 1961 ([22 U.S.C. 2191](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2191&num=0&edition=prelim) et seq.), other than subsections (g), (l), (m), and (n) of section 237 thereof ([22 U.S.C. 2197(g)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2197/g&num=0&edition=prelim), (l), (m), (n)), effective at the end of the transition period, as defined in [section 9681 of this title](./chapter-103-better-utilization-of-investments-leading-to-development.md#section-9681). The reorganization plan described in this section was submitted on Mar. 8, 2019, with a proposed effective date of Oct. 1, 2019, and funding authorized on Dec. 20, 2019. For complete classification of title VI to the Code, see Tables.
 
 This chapter, referred to in subsec. (b), was in the original “this division”, meaning division F of Pub. L. 115–254, Oct. 5, 2018, 132 Stat. 3485, which is classified principally to this chapter. For complete classification of division F to the Code, see Short Title note set out under [section 9601 of this title](./chapter-103-better-utilization-of-investments-leading-to-development.md#section-9601) and Tables.
+
+#### Delegation of Functions and Authorities Under the Better Utilization of Investments Leading to Development Act of 2018
+Memorandum of President of the United States, Sept. 24, 2019, 84 F.R. 52353, provided:
+
+Memorandum for the President of the Overseas Private Investment Corporation [and] the Administrator of the United States Agency for International Development
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, including section 1462 of title VI of division F of Public Law 115–254 ([section 9682 of title 22](./chapter-103-better-utilization-of-investments-leading-to-development.md#section-9682), United States Code) (the “Act”), and [section 301 of title 3](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title3-section301&num=0&edition=prelim), United States Code, I hereby delegate to the President of the Overseas Private Investment Corporation, in consultation with the Administrator of the United States Agency for International Development, the functions and authorities vested in the President by the Act to submit a reorganization plan, including any modifications or revisions thereto, and to consult with the appropriate congressional committees on such plan, including any modifications and revisions thereto.
+
+The President of the Overseas Private Investment Corporation is authorized and directed to publish this memorandum in the Federal Register.
+
+Donald J. Trump.
 
 
 <a id="section-9684"></a>
@@ -1060,6 +1094,13 @@ The Foreign Assistance Act of 1961, referred to in subsec. (a)(2)(B), is Pub. L.
 
 This chapter, referred to in subsec. (e)(2), was in the original “this division”, meaning division F of Pub. L. 115–254, Oct. 5, 2018, 132 Stat. 3485, which is classified principally to this chapter. For complete classification of division F to the Code, see Short Title note set out under [section 9601 of this title](./chapter-103-better-utilization-of-investments-leading-to-development.md#section-9601) and Tables.
 
+#### Enhancement of Nongovernmental Sector in Poland and Hungary
+Pub. L. 101–179, title III, § 302(b), Nov. 28, 1989, 103 Stat. 1311, provided that: “In accordance with its mandate to foster private initiative and competition and enhance the ability of private enterprise to make its full contribution to the development process, the Overseas Private Investment Corporation shall support projects in Poland and Hungary which will result in enhancement of the nongovernmental sector and reduction of state involvement in the economy.”
+
+[For transfer of functions, personnel, assets, and liabilities of the Overseas Private Investment Corporation to the United States International Development Finance Corporation and treatment of related references, see this section and [section 9686(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section9686/d&num=0&edition=prelim).]
+
+Pub. L. 101–179, title III, § 302(c), Nov. 28, 1989, 103 Stat. 1311, provided that: “If the Foreign Operations, Export Financing, and Related Programs Appropriations Act, 1990 [Pub. L. 101–167], contains the same amendment that is made by subsection (a) of this section [amending former [section 2199(f) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2199/f&num=0&edition=prelim) by inserting “, Poland, Hungary,” after “Yugoslavia”], the amendment made by that Act shall not be effective.”
+
 
 <a id="section-9685"></a>
 ## § 9685. Termination of Overseas Private Investment Corporation and other superceded authorities
@@ -1073,7 +1114,7 @@ Effective at the end of the transition period—
 ### Statutory Notes
 
 #### Codification
-Section is comprised of section 1464 of Pub. L. 115–254. Par. (2) of section 1464 of Pub. L. 115–254 repealed title IV of chapter 2 of part I of the Foreign Assistance Act of 1961 ([22 U.S.C. 2191](./chapter-032-foreign-assistance.md#section-2191) et seq.), other than subsections (g), (l), (m), and (n) of section 237 thereof ([22 U.S.C. 2197(g)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2197/g&num=0&edition=prelim), (l), (m), (n)).
+Section is comprised of section 1464 of Pub. L. 115–254. Par. (2) of section 1464 of Pub. L. 115–254 repealed title IV of chapter 2 of part I of the Foreign Assistance Act of 1961 ([22 U.S.C. 2191](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2191&num=0&edition=prelim) et seq.), other than subsections (g), (l), (m), and (n) of section 237 thereof ([22 U.S.C. 2197(g)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2197/g&num=0&edition=prelim), (l), (m), (n)).
 
 
 <a id="section-9686"></a>
@@ -1107,7 +1148,7 @@ Section is comprised of section 1464 of Pub. L. 115–254. Par. (2) of section 1
 #### References in Text
 This chapter, referred to in subsecs. (c) and (d)(2)(B), was in the original “this division”, meaning division F of Pub. L. 115–254, Oct. 5, 2018, 132 Stat. 3485, which is classified principally to this chapter. For complete classification of division F to the Code, see Short Title note set out under [section 9601 of this title](./chapter-103-better-utilization-of-investments-leading-to-development.md#section-9601) and Tables.
 
-This subchapter, referred to in subsec. (c)(2), was in the original “this title”, meaning title VI (§§ 1461–1470) of div. F of Pub. L. 115–254, Oct. 5, 2018, 132 Stat. 3510, which is classified principally to this subchapter and which repealed title IV of chapter 2 of part I of the Foreign Assistance Act of 1961 ([22 U.S.C. 2191](./chapter-032-foreign-assistance.md#section-2191) et seq.), other than subsections (g), (l), (m), and (n) of section 237 thereof ([22 U.S.C. 2197(g)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2197/g&num=0&edition=prelim), (l), (m), (n)), among other amendments. For complete classification of title VI to the Code, see Tables.
+This subchapter, referred to in subsec. (c)(2), was in the original “this title”, meaning title VI (§§ 1461–1470) of div. F of Pub. L. 115–254, Oct. 5, 2018, 132 Stat. 3510, which is classified principally to this subchapter and which repealed title IV of chapter 2 of part I of the Foreign Assistance Act of 1961 ([22 U.S.C. 2191](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2191&num=0&edition=prelim) et seq.), other than subsections (g), (l), (m), and (n) of section 237 thereof ([22 U.S.C. 2197(g)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2197/g&num=0&edition=prelim), (l), (m), (n)), among other amendments. For complete classification of title VI to the Code, see Tables.
 
 
 <a id="section-9687"></a>
@@ -1145,7 +1186,7 @@ This chapter, referred to in subsecs. (b)(2), (d), and (e)(2), was in the origin
 
 The effective date of this chapter, referred to in subsec. (d), probably means the date of enactment of Pub. L. 115–254, which enacted this chapter and which was approved Oct. 5, 2018.
 
-This subchapter, referred to in subsecs. (e)(2) and (f), was in the original “this title”, meaning title VI (§§ 1461–1470) of div. F of Pub. L. 115–254, Oct. 5, 2018, 132 Stat. 3510, which is classified principally to this subchapter and which repealed title IV of chapter 2 of part I of the Foreign Assistance Act of 1961 ([22 U.S.C. 2191](./chapter-032-foreign-assistance.md#section-2191) et seq.), other than subsections (g), (l), (m), and (n) of section 237 thereof ([22 U.S.C. 2197(g)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2197/g&num=0&edition=prelim), (l), (m), (n)), among other amendments. For complete classification of title VI to the Code, see Tables.
+This subchapter, referred to in subsecs. (e)(2) and (f), was in the original “this title”, meaning title VI (§§ 1461–1470) of div. F of Pub. L. 115–254, Oct. 5, 2018, 132 Stat. 3510, which is classified principally to this subchapter and which repealed title IV of chapter 2 of part I of the Foreign Assistance Act of 1961 ([22 U.S.C. 2191](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2191&num=0&edition=prelim) et seq.), other than subsections (g), (l), (m), and (n) of section 237 thereof ([22 U.S.C. 2197(g)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2197/g&num=0&edition=prelim), (l), (m), (n)), among other amendments. For complete classification of title VI to the Code, see Tables.
 
 
 <a id="section-9688"></a>
@@ -1158,7 +1199,7 @@ Except as otherwise provided in this chapter, whenever all the functions vested 
 #### References in Text
 This chapter, referred to in text, was in the original “this division”, meaning division F of Pub. L. 115–254, Oct. 5, 2018, 132 Stat. 3485, which is classified principally to this chapter. For complete classification of division F to the Code, see Short Title note set out under [section 9601 of this title](./chapter-103-better-utilization-of-investments-leading-to-development.md#section-9601) and Tables.
 
-This subchapter, referred to in text, was in the original “this title”, meaning title VI (§§ 1461–1470) of div. F of Pub. L. 115–254, Oct. 5, 2018, 132 Stat. 3510, which is classified principally to this subchapter and which repealed title IV of chapter 2 of part I of the Foreign Assistance Act of 1961 ([22 U.S.C. 2191](./chapter-032-foreign-assistance.md#section-2191) et seq.), other than subsections (g), (l), (m), and (n) of section 237 thereof ([22 U.S.C. 2197(g)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2197/g&num=0&edition=prelim), (l), (m), (n)), among other amendments. For complete classification of title VI to the Code, see Tables.
+This subchapter, referred to in text, was in the original “this title”, meaning title VI (§§ 1461–1470) of div. F of Pub. L. 115–254, Oct. 5, 2018, 132 Stat. 3510, which is classified principally to this subchapter and which repealed title IV of chapter 2 of part I of the Foreign Assistance Act of 1961 ([22 U.S.C. 2191](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2191&num=0&edition=prelim) et seq.), other than subsections (g), (l), (m), and (n) of section 237 thereof ([22 U.S.C. 2197(g)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2197/g&num=0&edition=prelim), (l), (m), (n)), among other amendments. For complete classification of title VI to the Code, see Tables.
 
 Levels II, III, IV, and V of the Executive Schedule, referred to in text, are set out in sections 5313, 5314, 5315, and 5316, respectively, of Title 5, Government Organization and Employees.
 
@@ -1171,6 +1212,6 @@ The Director of the Office of Management and Budget, in consultation with the Co
 ### Statutory Notes
 
 #### References in Text
-This subchapter, referred to in text, was in the original “this title”, meaning title VI (§§ 1461–1470) of div. F of Pub. L. 115–254, Oct. 5, 2018, 132 Stat. 3510, which is classified principally to this subchapter and which repealed title IV of chapter 2 of part I of the Foreign Assistance Act of 1961 ([22 U.S.C. 2191](./chapter-032-foreign-assistance.md#section-2191) et seq.), other than subsections (g), (l), (m), and (n) of section 237 thereof ([22 U.S.C. 2197(g)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2197/g&num=0&edition=prelim), (l), (m), (n)), among other amendments. For complete classification of title VI to the Code, see Tables.
+This subchapter, referred to in text, was in the original “this title”, meaning title VI (§§ 1461–1470) of div. F of Pub. L. 115–254, Oct. 5, 2018, 132 Stat. 3510, which is classified principally to this subchapter and which repealed title IV of chapter 2 of part I of the Foreign Assistance Act of 1961 ([22 U.S.C. 2191](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2191&num=0&edition=prelim) et seq.), other than subsections (g), (l), (m), and (n) of section 237 thereof ([22 U.S.C. 2197(g)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2197/g&num=0&edition=prelim), (l), (m), (n)), among other amendments. For complete classification of title VI to the Code, see Tables.
 
 This chapter, referred to in text, was in the original “this division”, meaning division F of Pub. L. 115–254, Oct. 5, 2018, 132 Stat. 3485, which is classified principally to this chapter. For complete classification of division F to the Code, see Short Title note set out under [section 9601 of this title](./chapter-103-better-utilization-of-investments-leading-to-development.md#section-9601) and Tables.

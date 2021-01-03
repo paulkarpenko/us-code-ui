@@ -108,7 +108,7 @@ The corporation shall make an annual report to Congress, to be filed with the Li
 | 20306 | 36:4204 (related to report). | Apr. 17, 1916, ch. 77, § 4 (related to report), 39 Stat. 51. |
 
 #### Termination of Reporting Requirements
-For termination, effective May 15, 2000, of reporting provisions in this section, see section 3003 of Pub. L. 104–66, as amended, set out as a note under [section 1113 of Title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1113&num=0&edition=prelim), Money and Finance, and page 196 of House Document No. 103–7.
+For termination, effective May 15, 2000, of reporting provisions in this section, see section 3003 of Pub. L. 104–66, set out as a note under [section 1113 of Title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1113&num=0&edition=prelim), Money and Finance, and page 196 of House Document No. 103–7.
 
 
 <a id="section-20307"></a>

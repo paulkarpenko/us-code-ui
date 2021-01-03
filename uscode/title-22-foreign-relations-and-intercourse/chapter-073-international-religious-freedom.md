@@ -43,7 +43,7 @@ It is the sense of Congress that the annual national security strategy report of
 ### Statutory Notes
 
 #### References in Text
-[Section 118 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section118&num=0&edition=prelim), referred to in par. (4), was repealed by Pub. L. 114–328, div. A, title IX, § 941(b)(1), Dec. 23, 2016, 130 Stat. 2367. For provisions related to national defense strategy similar to those contained in former section 118 prior to repeal, see [section 113(g) of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section113/g&num=0&edition=prelim), Armed Forces.
+[Section 118 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section118&num=0&edition=prelim), referred to in par. (4), was repealed by Pub. L. 114–328, div. A, title IX, § 941(b)(1), Dec. 23, 2016, 130 Stat. 2367. Subsequently, a new [section 118 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section118&num=0&edition=prelim), Armed Forces, related to annual report on major weapons systems sustainment, was added by Pub. L. 116–92, div. A, title III, § 351(a)(1), Dec. 20, 2019, 133 Stat. 1319. For provisions related to national defense strategy similar to those contained in former [section 118 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section118&num=0&edition=prelim) prior to repeal, see [section 113(g) of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section113/g&num=0&edition=prelim).
 
 
 <a id="section-6411"></a>
@@ -97,7 +97,7 @@ House Concurrent Resolution 102, referred to in subsec. (a)(7)(C), is H. Con. Re
 
 The Foreign Assistance Act of 1961, referred to in subsec. (b)(1)(B), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, as amended, which is classified principally to chapter 32 (§ 2151 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 2151 of this title](./chapter-032-foreign-assistance.md#section-2151) and Tables.
 
-The International Financial Institutions Act of 1977, referred to in subsec. (b)(1)(B), probably means the International Financial Institutions Act, Pub. L. 95–118, Oct. 3, 1977, 91 Stat. 1067, as amended, which enacted sections 262c, 262d, 262e to 262g–3, 262m to 262p–12, 262r to 262t, 282i, 284n, 285s, 285t, 286e–1f, and 290g–10 of this title, repealed sections 283y, 284m, and 290g–9 of this title, and enacted provisions set out as notes under sections 262c and 282i of this title. For complete classification of this Act to the Code, see Short Title of 1977 Amendment note set out under [section 261 of this title](./chapter-007-international-bureaus-congresses-etc.md#section-261) and Tables.
+The International Financial Institutions Act of 1977, referred to in subsec. (b)(1)(B), probably means the International Financial Institutions Act, Pub. L. 95–118, Oct. 3, 1977, 91 Stat. 1067, as amended, which enacted sections 262c, 262d, 262e to 262g–3, 262m to 262p–13, 262r to 262t, 282i, 284n, 285s, 285t, 286e–1f, and 290g–10 of this title, repealed sections 283y, 284m, and 290g–9 of this title, and enacted provisions set out as notes under sections 262c and 282i of this title. For complete classification of this Act to the Code, see Short Title of 1977 Amendment note set out under [section 261 of this title](./chapter-007-international-bureaus-congresses-etc.md#section-261) and Tables.
 
 #### Amendments
 2016—Subsec. (a)(3). Pub. L. 114–281, § 2(a)(1), inserted “The freedom of thought, conscience, and religion is understood to protect theistic and non-theistic beliefs and the right not to profess or practice any religion.” before “Governments have the responsibility”.
@@ -111,6 +111,8 @@ Subsec. (b). Pub. L. 114–281, § 2(b), designated existing provisions as par. 
 2014—Subsec. (a)(4). Pub. L. 113–154 inserted “desecration of cemeteries,” after “confiscations of property,”.
 
 #### Short Title of 2019 Amendment
+Pub. L. 116–94, div. J, title VIII, § 801, Dec. 20, 2019, 133 Stat. 3076, provided that: “This title [amending sections 6431 to 6432b, 6433a, and 6435 to 6436 of this title and [section 1301 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1301&num=0&edition=prelim), The Congress] may be cited as the ‘United States Commission on International Religious Freedom Reauthorization Act of 2019’.”
+
 Pub. L. 115–434, § 1, Jan. 14, 2019, 132 Stat. 5526, provided that: “This Act [amending [section 6412 of this title](./chapter-073-international-religious-freedom.md#section-6412) and enacting provisions set out as a note under [section 6412 of this title](./chapter-073-international-religious-freedom.md#section-6412)] may be cited as the ‘Combating European Anti-Semitism Act of 2017’.”
 
 #### Short Title of 2016 Amendment
@@ -127,6 +129,59 @@ Pub. L. 105–292, § 1(a), Oct. 27, 1998, 112 Stat. 2787, provided that: “Thi
 
 #### Findings Relating to Pub. L. 113–154
 Pub. L. 113–154, § 1, Aug. 8, 2014, 128 Stat. 1827, provided that: “Congress finds the following: “(1) Cemeteries are sacred sites that are of great spiritual, cultural, and historical significance to many religious and ethnic groups. “(2) Congress is committed to protecting and preserving the heritage and sacred sites of national, religious, and ethnic groups, which includes cemeteries in the United States and abroad. “(3) Cemeteries around the world have and continue to be defaced or destroyed as a direct result of their affiliation with a particular religious or spiritual group. “(4) Such attacks constitute an assault on the fundamental right to freedom of religion, and are especially egregious when sponsored or tolerated by the local or national governments in the countries in which such offenses occur.”
+
+#### Ex. Ord. No. 13926. Advancing International Religious Freedom
+Ex. Ord. No. 13926, June 2, 2020, 85 F.R. 34951, provided:
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered as follows:
+
+Section 1. Policy. (a) Religious freedom, America’s first freedom, is a moral and national security imperative. Religious freedom for all people worldwide is a foreign policy priority of the United States, and the United States will respect and vigorously promote this freedom. As stated in the 2017 National Security Strategy, our Founders understood religious freedom not as a creation of the state, but as a gift of God to every person and a right that is fundamental for the flourishing of our society.
+
+(b) Religious communities and organizations, and other institutions of civil society, are vital partners in United States Government efforts to advance religious freedom around the world. It is the policy of the United States to engage robustly and continually with civil society organizations—including those in foreign countries—to inform United States Government policies, programs, and activities related to international religious freedom.
+
+Sec. 2. Prioritization of International Religious Freedom. Within 180 days of the date of this order [June 2, 2020], the Secretary of State (Secretary) shall, in consultation with the Administrator of the United States Agency for International Development (USAID), develop a plan to prioritize international religious freedom in the planning and implementation of United States foreign policy and in the foreign assistance programs of the Department of State and USAID.
+
+Sec. 3. Foreign Assistance Funding for International Religious Freedom. (a) The Secretary shall, in consultation with the Administrator of USAID, budget at least $50 million per fiscal year for programs that advance international religious freedom, to the extent feasible and permitted by law and subject to the availability of appropriations. Such programs shall include those intended to anticipate, prevent, and respond to attacks against individuals and groups on the basis of their religion, including programs designed to help ensure that such groups can persevere as distinct communities; to promote accountability for the perpetrators of such attacks; to ensure equal rights and legal protections for individuals and groups regardless of belief; to improve the safety and security of houses of worship and public spaces for all faiths; and to protect and preserve the cultural heritages of religious communities.
+
+(b) Executive departments and agencies (agencies) that fund foreign assistance programs shall ensure that faith-based and religious entities, including eligible entities in foreign countries, are not discriminated against on the basis of religious identity or religious belief when competing for Federal funding, to the extent permitted by law.
+
+Sec. 4. Integrating International Religious Freedom into United States Diplomacy. (a) The Secretary shall direct Chiefs of Mission in countries of particular concern, countries on the Special Watch List, countries in which there are entities of particular concern, and any other countries that have engaged in or tolerated violations of religious freedom as noted in the Annual Report on International Religious Freedom required by section 102(b) of the International Religious Freedom Act of 1998 (Public Law 105–292) [[22 U.S.C. 6412(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section6412/b&num=0&edition=prelim)], as amended (the “Act”), to develop comprehensive action plans to inform and support the efforts of the United States to advance international religious freedom and to encourage the host governments to make progress in eliminating violations of religious freedom.
+
+(b) In meetings with their counterparts in foreign governments, the heads of agencies shall, when appropriate and in coordination with the Secretary, raise concerns about international religious freedom and cases that involve individuals imprisoned because of their religion.
+
+(c) The Secretary shall advocate for United States international religious freedom policy in both bilateral and multilateral fora, when appropriate, and shall direct the Administrator of USAID to do the same.
+
+Sec. 5. Training for Federal Officials. (a) The Secretary shall require all Department of State civil service employees in the Foreign Affairs Series to undertake training modeled on the international religious freedom training described in section 708(a) of the Foreign Service Act of 1980 (Public Law 96–465) [[22 U.S.C. 4028(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section4028/a&num=0&edition=prelim)], as amended by section 103(a)(1) of the Frank R. Wolf International Religious Freedom Act (Public Law 114–281).
+
+(b) Within 90 days of the date of this order, the heads of all agencies that assign personnel to positions overseas shall submit plans to the President, through the Assistant to the President for National Security Affairs, detailing how their agencies will incorporate the type of training described in subsection (a) of this section into the training required before the start of overseas assignments for all personnel who are to be stationed abroad, or who will deploy and remain abroad, in one location for 30 days or more.
+
+(c) All Federal employees subject to these requirements shall be required to complete international religious freedom training not less frequently than once every 3 years.
+
+Sec. 6. Economic Tools. (a) The Secretary and the Secretary of the Treasury shall, in consultation with the Assistant to the President for National Security Affairs, and through the process described in National Security Presidential Memorandum–4 of April 4, 2017 (Organization of the National Security Council, the Homeland Security Council, and Subcommittees) [[50 U.S.C. 3021](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3021&num=0&edition=prelim) note], develop recommendations to prioritize the appropriate use of economic tools to advance international religious freedom in countries of particular concern, countries on the Special Watch List, countries in which there are entities of particular concern, and any other countries that have engaged in or tolerated violations of religious freedom as noted in the report required by section 102(b) of the Act. These economic tools may include, as appropriate and to the extent permitted by law, increasing religious freedom programming, realigning foreign assistance to better reflect country circumstances, or restricting the issuance of visas under section 604(a) of the Act [probably means [8 U.S.C. 1182(a)(2)(G)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1182/a/2/G&num=0&edition=prelim), as added by section 604(a) of Pub. L. 105–292].
+
+(b) The Secretary of the Treasury, in consultation with the Secretary of State, may consider imposing sanctions under Executive Order 13818 of December 20, 2017 (Blocking the Property of Persons Involved in Serious Human Rights Abuse or Corruption) [[50 U.S.C. 1701](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1701&num=0&edition=prelim) note], which, among other things, implements the Global Magnitsky Human Rights Accountability Act (Public Law 114–328[, div. A, title XII, subtitle F]) [[22 U.S.C. 2656](./chapter-038-department-of-state.md#section-2656) note].
+
+Sec. 7. Definitions. For purposes of this order:
+
+(a) “Country of particular concern” is defined as provided in section 402(b)(1)(A) of the Act [[22 U.S.C. 6442(b)(1)(A)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section6442/b/1/A&num=0&edition=prelim)];
+
+(b) “Entity of particular concern” is defined as provided in section 301 of the Frank R. Wolf International Religious Freedom Act (Public Law 114–281) [[22 U.S.C. 6442a](./chapter-073-international-religious-freedom.md#section-6442a)];
+
+(c) “Special Watch List” is defined as provided in sections 3(15) [[22 U.S.C. 6402(15)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section6402/15&num=0&edition=prelim)] and 402(b)(1)(A)(iii) of the Act [[22 U.S.C. 6442(b)(1)(A)(iii)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section6442/b/1/A/iii&num=0&edition=prelim)]; and
+
+(d) “Violations of religious freedom” is defined as provided in section 3(16) of the Act [[22 U.S.C. 6402(16)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section6402/16&num=0&edition=prelim)].
+
+Sec. 8. General Provisions. (a) Nothing in this order shall be construed to impair or otherwise affect:
+
+(i) the authority granted by law to an executive department or agency, or the head thereof; or
+
+(ii) the functions of the Director of the Office of Management and Budget relating to budgetary, administrative, or legislative proposals.
+
+(b) This order shall be implemented consistent with applicable law and subject to the availability of appropriations.
+
+(c) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+
+Donald J. Trump.
 
 
 <a id="section-6412"></a>
@@ -474,11 +529,7 @@ Subsec. (d). Pub. L. 114–281, § 104(3), added subsec. (d).
 
     (iii) Three members of the Commission shall be appointed by the Speaker of the House of Representatives, of which two of the members shall be appointed upon the recommendation of the leader in the House of the political party that is not the political party of the President, and of which one of the members shall be appointed upon the recommendation of the leader in the House of the other political party.
 
-(2) **Selection**
-
-  (A) *In general* — Members of the Commission shall be selected among distinguished individuals noted for their knowledge and experience in fields relevant to the issue of international religious freedom, including foreign affairs, direct experience abroad, human rights, and international law.
-
-  (B) *Security clearances* — Each member of the Commission shall be required to obtain a security clearance.
+(2) **Selection** — Members of the Commission shall be selected among distinguished individuals noted for their knowledge and experience in fields relevant to the issue of international religious freedom, including foreign affairs, direct experience abroad, human rights, and international law.
 
 (3) **Time of appointment** — The appointments required by paragraph (1) shall be made not later than 120 days after October 27, 1998.
 
@@ -502,21 +553,36 @@ Subsec. (d). Pub. L. 114–281, § 104(3), added subsec. (d).
 
 (3) **Ineligibility for reappointment** — If a member of the Commission attends, by being physically present or by conference call, less than 75 percent of the meetings of the Commission during one of that member’s terms on the Commission, the member shall not be eligible for reappointment to the Commission.
 
-**(d) Election of Chair** At the first meeting of the Commission after May 30 of each year, a majority of the members of the Commission present and voting shall elect the Chair of the Commission. No member of the Commission is eligible to be elected as Chair of the Commission for a second, consecutive term.
+**(d) Election of Chair and Vice Chair** At the first meeting of the Commission after May 30 of each year, a majority of the members of the Commission who are present and voting shall elect a Chair and a Vice Chair. The Vice Chair shall have been appointed by an officeholder from a different political party than the officeholder who appointed the member of the Commission who was elected Chair. The positions of Chair and Vice Chair shall be rotated annually between members who were appointed to the Commission by officeholders of different political parties.
 
 **(e) Quorum** Six voting members of the Commission shall constitute a quorum for purposes of transacting business.
 
-**(f) Meetings** Each year, within 15 days, or as soon as practicable, after the issuance of the Country Report on Human Rights Practices, the Commission shall convene. The Commission shall otherwise meet at the call of the Chair or, if no Chair has been elected for that calendar year, at the call of six voting members of the Commission.
+**(f) Meetings** Each year, within 15 days, or as soon as practicable, after the issuance of the International Religious Freedom Report, the Commission shall convene. The Commission shall otherwise meet at the call of the Chair or, if no Chair has been elected for that calendar year, at the call of six voting members of the Commission.
 
 **(g) Vacancies** Any vacancy of the Commission shall not affect its powers, but shall be filled in the manner in which the original appointment was made. A member may serve after the expiration of that member’s term until a successor has taken office. Any member appointed to fill a vacancy occurring before the expiration of the term for which the member’s predecessor was appointed shall be appointed only for the remainder of that term.
 
 **(h) Administrative support** The Administrator of General Services shall provide to the Commission on a reimbursable basis (or, in the discretion of the Administrator, on a nonreimbursable basis) such administrative support services as the Commission may request to carry out the provisions of this subchapter.
 
-**(i) Funding** Members of the Commission shall be allowed travel expenses, including per diem in lieu of subsistence at rates authorized for employees of agencies under subchapter I of chapter 57 of title 5 while away from their homes or regular places of business in the performance of services for the Commission. Members of the Commission are subject to the requirements set forth in chapters 300 through 304 of title 41, Code of Federal Regulations (commonly known as the “Federal Travel Regulation”) and the Department of State Standardized Regulations governing authorized travel at government expense, including regulations concerning the mode of travel, lodging and per diem expenditures, reimbursement payments, and expense reporting and documentation requirements.
+**(i) Funding** Members of the Commission shall be allowed travel expenses, including per diem in lieu of subsistence at rates authorized for employees of agencies under subchapter I of chapter 57 of title 5 while away from their homes or regular places of business in the performance of services for the Commission. Members of the Commission shall comply with the requirements set forth in chapters 300 through 304 of title 41, Code of Federal Regulations (commonly known as the “Federal Travel Regulation”) and the Department of State Standardized Regulations governing authorized travel at government expense, including regulations concerning the mode of travel, lodging and per diem expenditures, reimbursement payments, and expense reporting and documentation requirements.
+
+**(j) Removal** If a payment is made under section 415(a) of the Congressional Accountability Act of 1995 ([2 U.S.C. 1415(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1415/a&num=0&edition=prelim)) for an award or settlement in connection with a claim alleging a violation of unlawful harassment, intimidation, reprisal, or discrimination under the Congressional Accountability Act of 1995 ([2 U.S.C. 1301](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1301&num=0&edition=prelim) et seq.) that was committed personally by an individual who, at the time of committing the violation, was a Member of the Commission, the Member shall be removed from the Commission.
 
 ### Statutory Notes
 
+#### References in Text
+The Congressional Accountability Act of 1995, referred to in subsec. (j), is Pub. L. 104–1, Jan. 23, 1995, 109 Stat. 3, which is classified principally to chapter 24 (§ 1301 et seq.) of Title 2, The Congress. For complete classification of this Act to the Code, see Short Title note under [section 1301 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1301&num=0&edition=prelim) and Tables.
+
 #### Amendments
+2019—Subsec. (b)(2). Pub. L. 116–94, § 803(1), struck out subpar. (A) designation and heading and subpar. (B). Prior to amendment, text of subpar. (B) read as follows: “Each member of the Commission shall be required to obtain a security clearance.”
+
+Subsec. (d). Pub. L. 116–94, § 803(2), amended subsec. (d) generally. Prior to amendment, text read as follows: “At the first meeting of the Commission after May 30 of each year, a majority of the members of the Commission present and voting shall elect the Chair of the Commission. No member of the Commission is eligible to be elected as Chair of the Commission for a second, consecutive term.”
+
+Subsec. (f). Pub. L. 116–94, § 803(3), substituted “International Religious Freedom Report” for “Country Report on Human Rights Practices”.
+
+Subsec. (i). Pub. L. 116–94, § 806(a), substituted “shall comply with” for “are subject to”.
+
+Subsec. (j). Pub. L. 116–94, § 803(4), added subsec. (j).
+
 2011—Subsec. (c)(1). Pub. L. 112–75, § 2(a)(1), added par. (1) and struck out former par. (1) which read as follows: “The term of office of each member of the Commission shall be 2 years. The term of each member of the Commission appointed to the first two-year term of the Commission shall be considered to have begun on May 15, 1999, and shall end on May 14, 2001, regardless of the date of appointment to the Commission. The term of each member of the Commission appointed to the second two-year term of the Commission shall begin on May 15, 2001, and shall end on May 14, 2003, regardless of the date of appointment to the Commission. In the case in which a vacancy in the membership of the Commission is filled during a two-year term of the Commission, such membership on the Commission shall terminate at the end of that two-year term of the Commission. Members of the Commission shall be eligible for reappointment to a second term.”
 
 Subsec. (c)(3). Pub. L. 112–75, § 2(a)(2), added par. (3).
@@ -554,11 +620,21 @@ Subsec. (h). Pub. L. 106–55, § 1(a)(3), amended heading and text of subsec. (
 
 **(d) Effects on religious communities and individuals** Together with specific policy recommendations provided under subsections (b) and (c), the Commission shall also indicate its evaluation of the potential effects of such policies, if implemented, on the religious communities and individuals whose rights are found to be violated in the country in question.
 
-**(e) Monitoring** The Commission shall, on an ongoing basis, monitor facts and circumstances of violations of religious freedom, in consultation with independent human rights groups and nongovernmental organizations, including churches and other religious communities, and make such recommendations as may be necessary to the appropriate officials and offices in the United States Government.
+**(e) Monitoring**
+
+(1) **In general** — The Commission shall, on an ongoing basis, monitor facts and circumstances of violations of religious freedom, in consultation with independent human rights groups and nongovernmental organizations, including churches and other religious communities, and make such recommendations as may be necessary to the appropriate officials and offices in the United States Government.
+
+(2) **Tracking; review** — The Commission shall regularly—
+
+  (A) track the implementation by the United States Government of the recommendations it makes under paragraph (1); and
+
+  (B) review, to the extent practicable, the effectiveness of such implemented recommendations in advancing religious freedom internationally.
 
 ### Statutory Notes
 
 #### Amendments
+2019—Subsec. (e). Pub. L. 116–94 designated existing provisions as par. (1), inserted heading, and added par. (2).
+
 1999—Subsec. (f). Pub. L. 106–55 struck out heading and text of subsec. (f). Text read as follows: “The Commission may, for the purpose of carrying out its duties under this subchapter, hold hearings, sit and act at times and places in the United States, take testimony, and receive evidence as the Commission considers advisable to carry out the purposes of this chapter.”
 
 #### Sense of Congress
@@ -575,9 +651,21 @@ Pub. L. 114–71, § 2, Oct. 16, 2015, 129 Stat. 563, provided that: “It is th
 
 **(d) Administrative procedures** The Commission may adopt such rules and regulations, relating to administrative procedure, as may be reasonably necessary to enable it to carry out the provisions of this subchapter.
 
-**(e) Views of the Commission** The Members of the Commission may speak in their capacity as private citizens. Statements on behalf of the Commission shall be issued in writing over the names of the Members. The Commission shall in its written statements clearly describe its statutory authority, distinguishing that authority from that of appointed or elected officials of the United States Government. Oral statements, where practicable, shall include a similar description.
+**(e) Views of the Commission** The Members of the Commission may speak in their capacity as private citizens. Statements on behalf of the Commission shall be issued in writing over the names of the Members. The Commission shall in its written statements clearly describe its statutory authority, distinguishing that authority from that of appointed or elected officials of the United States Government. Oral statements, where practicable, shall include a similar description. If a Member of the Commission is invited to speak at an event in his or her capacity as a Commissioner, the Member shall provide notice of the request to all Commissioners and the Executive Director as soon as the Commissioner becomes aware of such invitation. Speeches and responses to questions at official events shall reflect the views of the Commission. Official speeches and other prepared materials shall be made available to all Commissioners in advance of the event. If a Commissioner is speaking in his or her private capacity, he or she shall include qualifying language that the views they are representing are his or her own views and not the views of the Commission.
 
-**(f) Travel** The Members of the Commission may, with the approval of the Commission, conduct such travel as is necessary to carry out the purpose of this subchapter. Each trip must be approved by a majority of the Commission. This provision shall not apply to the Ambassador-at-Large, whose travel shall not require approval by the Commission.
+**(f) Travel**
+
+(1) **In general** — The Members of the Commission may, with the approval of the Commission, conduct such travel as is necessary to carry out the purpose of this subchapter. Each trip must be approved by a majority of the Commission. This provision shall not apply to the Ambassador-at-Large, whose travel shall not require approval by the Commission.
+
+(2) **Prohibition against payment of official travel by non-Federal sources** — Members of the Commission and Commission staff may not accept payment from a non-Federal source for expenses related to official travel on behalf of the Commission.
+
+**(g) Annual disclosures** Not later than March 1 of each year, each Member of the Commission shall submit a report to the appropriate congressional committees (as defined in [section 6433a(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section6433a/a&num=0&edition=prelim)) with respect to the most recently concluded 12-month period, that discloses any travel by the Member outside of the United States that was paid for or reimbursed by a person or entity other than the Member, a relative of the Member, or the Federal Government, including—
+
+(1) who paid for or reimbursed the travel;
+
+(2) a good faith estimate of the cost of the travel, if the travel was funded by a person or entity that does not employ the Member; and
+
+(3) brief details of the travel and events related to such travel.
 
 ### Statutory Notes
 
@@ -587,12 +675,19 @@ This chapter, referred to in subsec. (a), was in the original “this Act”, me
 #### Prior Provisions
 A prior section 203 of Pub. L. 105–292 was renumbered section 205 and is classified to [section 6433 of this title](./chapter-073-international-religious-freedom.md#section-6433).
 
+#### Amendments
+2019—Subsec. (e). Pub. L. 116–94, § 804(b), inserted at end “If a Member of the Commission is invited to speak at an event in his or her capacity as a Commissioner, the Member shall provide notice of the request to all Commissioners and the Executive Director as soon as the Commissioner becomes aware of such invitation. Speeches and responses to questions at official events shall reflect the views of the Commission. Official speeches and other prepared materials shall be made available to all Commissioners in advance of the event. If a Commissioner is speaking in his or her private capacity, he or she shall include qualifying language that the views they are representing are his or her own views and not the views of the Commission.”
+
+Subsec. (f). Pub. L. 116–94, § 806(b), designated existing provisions as par. (1), inserted heading, and added par. (2).
+
+Subsec. (g). Pub. L. 116–94, § 806(c), added subsec. (g).
+
 
 <a id="section-6433a"></a>
 ## § 6433a. Commission personnel matters
 **(a) In general** The Commission may, without regard to the civil service laws and regulations, appoint and terminate an Executive Director and such other additional personnel as may be necessary to enable the Commission to perform its duties. The decision to employ or terminate an Executive Director shall be made by an affirmative vote of at least six of the nine members of the Commission.
 
-**(b) Compensation** The Commission may fix the compensation of the Executive Director and other personnel without regard to the provisions of chapter 51 and subchapter III of chapter 53 of title 5 relating to classification of positions and General Schedule pay rates, except that the rate of pay for the Executive Director and other personnel may not exceed the rate payable for level V of the Executive Schedule under section 5316 of such title.
+**(b) Compensation** The Commission may provide reasonable compensation to the Executive Director without regard to the provisions of chapter 51 and subchapter III of chapter 53 of title 5 relating to classification of positions and General Schedule pay rates, except that the rate of pay for the Executive Director may not exceed the rate payable under level II of the Executive Schedule under section 5313 of such title. The rate of pay for other personnel of the Commission may not exceed the rate payable for level IV of the Executive Schedule under section 5315 of such title. All employees of the Commission shall otherwise be treated as employees whose pay is disbursed by the Secretary of the Senate, including for purposes of applying the Standing Rules of the Senate. The Commission shall be treated as an employing office of the Senate.
 
 **(c) Professional staff** The Commission and the Executive Director shall hire Commission staff on the basis of professional and nonpartisan qualifications. Commissioners may not individually hire staff of the Commission. Staff shall serve the Commission as a whole and may not be assigned to the particular service of a single Commissioner or a specified group of Commissioners. This subsection does not prohibit staff personnel from assisting individual members of the Commission with particular needs related to their duties.
 
@@ -604,23 +699,24 @@ A prior section 203 of Pub. L. 105–292 was renumbered section 205 and is class
 
 **(e) Security clearances** The Executive Director shall be required to obtain a security clearance. The Executive Director may request, on a needs-only basis and in order to perform the duties of the Commission, that other personnel of the Commission be required to obtain a security clearance. The level of clearance shall be the lowest necessary to appropriately perform the duties of the Commission.
 
-**(f) Cost** The Commission shall reimburse all appropriate Government agencies for the cost of obtaining clearances for members of the commission,11 So in original. Probably should be capitalized. for the executive 1 director,1 and for any other personnel.
-
-**(g) Application of antidiscrimination laws** For purposes of providing remedies and procedures to address alleged violations of rights and protections that pertain to employment discrimination, family and medical leave, fair labor standards, employee polygraph protection, worker adjustment and retraining, veterans’ employment and reemployment, intimidation or reprisal, protections under the Americans with Disabilities Act of 1990 [[42 U.S.C. 12101](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section12101&num=0&edition=prelim) et seq.], occupational safety and health, labor-management relations, and rights and protections that apply to employees whose pay is disbursed by the Secretary of the Senate or the Chief Administrative Officer of the House of Representatives, all employees of the Commission shall be treated as employees whose pay is disbursed by the Secretary of the Senate or the Chief Administrative Officer of the House of Representatives and the Commission shall be treated as an employing office of the Senate or the House of Representatives.
+**(f) Cost** The Commission shall reimburse all appropriate Government agencies for the cost of obtaining clearances for members of the Commission, for the Executive Director, and for any other personnel.
 
 ### Statutory Notes
-
-#### References in Text
-The Americans with Disabilities Act of 1990, referred to in subsec. (g), is Pub. L. 101–336, July 26, 1990, 104 Stat. 327, which is classified principally to chapter 126 (§ 12101 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 12101 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section12101&num=0&edition=prelim) and Tables.
 
 #### Prior Provisions
 A prior section 204 of Pub. L. 105–292 was renumbered section 206 and is classified to [section 6434 of this title](./chapter-073-international-religious-freedom.md#section-6434).
 
 #### Amendments
+2019—Subsec. (b). Pub. L. 116–94, § 805(a)(1), substituted “provide reasonable compensation to the Executive Director” for “fix the compensation of the Executive Director and other personnel” and “may not exceed the rate payable under level II of the Executive Schedule under section 5313” for “and other personnel may not exceed the rate payable for level V of the Executive Schedule under section 5316” and inserted at end “The rate of pay for other personnel of the Commission may not exceed the rate payable for level IV of the Executive Schedule under section 5315 of such title. All employees of the Commission shall otherwise be treated as employees whose pay is disbursed by the Secretary of the Senate, including for purposes of applying the Standing Rules of the Senate. The Commission shall be treated as an employing office of the Senate.”
+
+Subsec. (f). Pub. L. 116–94, § 805(a)(2), substituted “the Commission, for the Executive Director” for “the commission, for the executive director”.
+
+Subsec. (g). Pub. L. 116–94, § 805(a)(3), struck out subsec. (g) which related to application of antidiscrimination laws.
+
 2011—Subsec. (g). Pub. L. 112–75 added subsec. (g).
 
 #### Pending Claims
-Pub. L. 112–75, § 3(b), Dec. 23, 2011, 125 Stat. 1273, provided that: “Any administrative or judicial claim or action pending on the date of the enactment of this Act [Dec. 23, 2011] may be maintained under section 204(g) of the International Religious Freedom Act of 1998 [[22 U.S.C. 6432b(g)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section6432b/g&num=0&edition=prelim)], as added by subsection (a).”
+Pub. L. 112–75, § 3(b), Dec. 23, 2011, 125 Stat. 1273, provided that: “Any administrative or judicial claim or action pending on the date of the enactment of this Act [Dec. 23, 2011] may be maintained under [former] section 204(g) of the International Religious Freedom Act of 1998 [former [22 U.S.C. 6432b(g)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section6432b/g&num=0&edition=prelim)], as added by subsection (a).”
 
 
 <a id="section-6434"></a>
@@ -684,7 +780,7 @@ A prior section 205 of Pub. L. 105–292 was renumbered section 207 and is class
 
   (B) a majority of Commissioners appointed by an elected official from the political party that is not the party of the President.
 
-**(d) Submission of strategic plan** Not later than 180 days after October 16, 2015, and not less frequently than biennially thereafter, the Chair and Vice Chair of the Commission shall jointly submit, to the appropriate congressional committees, a written strategic plan that includes—
+**(d) Submission of strategic plan** Not later than 180 days after December 20, 2019, and every 2 years thereafter, the Chair and Vice Chair of the Commission shall jointly submit, to the appropriate congressional committees, a written strategic plan that includes—
 
 (1) a description of prioritized actions for the Commission for a period of time to be specified by the Commissioners;
 
@@ -706,8 +802,14 @@ A prior section 205 of Pub. L. 105–292 was renumbered section 207 and is class
 
 ### Statutory Notes
 
+#### References in Text
+December 20, 2019, referred to in subsec. (d), was in the original “the date of the enactment of this Act”, and was translated as referring to the date of enactment of Pub. L. 116–94, which amended subsec. (d), to reflect the probable intent of Congress. See 2019 Amendment note below.
+
 #### Codification
 Section was enacted as part of the United States Commission on International Religious Freedom Reauthorization Act of 2015, and not as part of the International Religious Freedom Act of 1998 which comprises this chapter.
+
+#### Amendments
+2019—Subsec. (d). Pub. L. 116–94, in introductory provisions, substituted “Not later than 180 days after December 20, 2019, and every 2 years thereafter” for “Not later than 180 days after October 16, 2015, and not less frequently than biennially thereafter”.
 
 
 <a id="section-6435a"></a>
@@ -726,7 +828,7 @@ A prior section 206 of Pub. L. 105–292 was renumbered section 209 and is class
 
 <a id="section-6436"></a>
 ## § 6436. Authorization of appropriations
-**(a) In general** There are authorized to be appropriated to the Commission $3,500,000 for each of the fiscal years 2016 to 2019 to carry out the provisions of this chapter and [section 6433a of this title](./chapter-073-international-religious-freedom.md#section-6433a).
+**(a) In general** There are authorized to be appropriated to the Commission $3,500,000 for each of the fiscal years 2019 through 2022 to carry out the provisions of this chapter and [section 6433a of this title](./chapter-073-international-religious-freedom.md#section-6433a).
 
 **(b) Availability of funds** Amounts authorized to be appropriated under subsection (a) shall remain available until the earlier of—
 
@@ -746,6 +848,8 @@ A prior section 206 of Pub. L. 105–292 was renumbered section 209 and is class
 This chapter, referred to in subsec. (a), was in the original “this Act”, meaning Pub. L. 105–292, Oct. 27, 1998, 112 Stat. 2787, known as the International Religious Freedom Act of 1998, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 6401 of this title](./chapter-073-international-religious-freedom.md#section-6401) and Tables.
 
 #### Amendments
+2019—Subsec. (a). Pub. L. 116–94 substituted “2019 through 2022” for “2016 to 2019”.
+
 2015—Pub. L. 114–71 amended section generally. Prior to amendment, section authorized appropriations for fiscal years 2012 through 2015.
 
 2014—Subsec. (a). Pub. L. 113–271 substituted “2015” for “2014”.
@@ -810,6 +914,10 @@ Pub. L. 113–271, § 2, Dec. 18, 2014, 128 Stat. 2951, provided that: “The am
 
 **(e) Annual financial report** In addition to providing the reports required under [section 6432 of this title](./chapter-073-international-religious-freedom.md#section-6432), the Commission shall provide, each year no later than January 1, to the Committees on Foreign Affairs and Appropriations of the House of Representatives, and to the Committees on Foreign Relations and Appropriations of the Senate, a financial report detailing and identifying its expenditures for the preceding fiscal year.
 
+**(f) Commission records** The Commission shall comply with all of the records management requirements set forth in chapter 31 of title 44 (commonly referred to as the “Federal Records Act of 1950”).
+
+**(g) Official email for commission business** When conducting any Commission business on electronic accounts, Commission Members and staff shall use official Commission electronic accounts.
+
 ### Statutory Notes
 
 #### References in Text
@@ -818,6 +926,8 @@ Pub. L. 113–271, § 2, Dec. 18, 2014, 128 Stat. 2951, provided that: “The am
 The Foreign Gifts and Decorations Act of 1966, referred to in subsec. (d)(2)(E), is Pub. L. 89–673, Oct. 15, 1966, 80 Stat. 952, as amended, which was classified principally to chapter 37 (§ 2621 et seq.) of this title. The Act was substantially repealed, except for provisions which are classified to [section 2625 of this title](./chapter-037-foreign-gifts-and-decorations.md#section-2625), and with limited applicability, to [section 2621 of this title](./chapter-037-foreign-gifts-and-decorations.md#section-2621), and was restated in [section 7342 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section7342&num=0&edition=prelim), Government Organization and Employees, by Pub. L. 90–83, § 10(b), Sept. 11, 1967, 91 Stat. 224. For complete classification of this Act to the Code, see Tables.
 
 #### Amendments
+2019—Subsecs. (f), (g). Pub. L. 116–94 added subsecs. (f) and (g).
+
 2011—Subsec. (c)(1). Pub. L. 112–75, § 5(1), substituted “$250,000” for “$100,000”.
 
 Subsec. (e). Pub. L. 112–75, § 5(2), substituted “Foreign Affairs” for “International Relations”.
@@ -828,11 +938,13 @@ Subsec. (e). Pub. L. 112–75, § 5(2), substituted “Foreign Affairs” for �
 <a id="section-6442"></a>
 ## § 6442. Termination
 
-The Commission shall terminate on September 30, 2019.
+The Commission shall terminate on September 30, 2022.
 
 ### Statutory Notes
 
 #### Amendments
+2019—Pub. L. 116–94 substituted “2022” for “2019”.
+
 2015—Pub. L. 114–71 substituted “September 30, 2019” for “September 30, 2015”.
 
 2014—Pub. L. 113–271 substituted “September 30, 2015” for “September 30, 2014”.
@@ -1161,7 +1273,7 @@ Donald J. Trump.
 
 (9) The withdrawal, limitation, or suspension of United States development assistance in accordance with [section 2151n of this title](./chapter-032-foreign-assistance.md#section-2151n).
 
-(10) Directing the Export-Import Bank of the United States, the Overseas Private Investment Corporation, or the Trade and Development Agency not to approve the issuance of any (or a specified number of) guarantees, insurance, extensions of credit, or participations in the extension of credit with respect to the specific government, agency, instrumentality, or official found or determined by the President to be responsible for violations under section 6441 or 6442 of this title.
+(10) Directing the Export-Import Bank of the United States, the United States International Development Finance Corporation, or the Trade and Development Agency not to approve the issuance of any (or a specified number of) guarantees, insurance, extensions of credit, or participations in the extension of credit with respect to the specific government, agency, instrumentality, or official found or determined by the President to be responsible for violations under section 6441 or 6442 of this title.
 
 (11) The withdrawal, limitation, or suspension of United States security assistance in accordance with [section 2304 of this title](./chapter-032-foreign-assistance.md#section-2304).
 
@@ -1188,9 +1300,6 @@ Donald J. Trump.
 **(d) Exceptions** Any action taken pursuant to subsection (a) or (b) may not prohibit or restrict the provision of medicine, medical equipment or supplies, food, or other humanitarian assistance.
 
 ### Statutory Notes
-
-#### Amendment of Subsection (a)(10)
-Pub. L. 115–254, div. F, title VI, § 1470(o), (w), Oct. 5, 2018, 132 Stat. 3518, 3519, provided that, effective at the end of the transition period, as defined in [section 9681 of this title](./chapter-103-better-utilization-of-investments-leading-to-development.md#section-9681), subsection (a)(10) of this section is amended by striking “Overseas Private Investment Corporation” and inserting “United States International Development Finance Corporation”. See 2018 Amendment note below.
 
 #### References in Text
 The Export Administration Act of 1979, referred to in subsec. (a)(13)(A), is Pub. L. 96–72, Sept. 29, 1979, 93 Stat. 503, which was classified principally to chapter 56 (§ 4601 et seq.) of Title 50, War and National Defense, prior to repeal by Pub. L. 115–232, div. A, title XVII, § 1766(a), Aug. 13, 2018, 132 Stat. 2232, except for sections 11A, 11B, and 11C thereof ([50 U.S.C. 4611](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4611&num=0&edition=prelim), 4612, 4613).
@@ -1281,11 +1390,11 @@ Subsec. (d). Pub. L. 114–281, § 304(5), added subsec. (d).
 
 ### Statutory Notes
 
-#### Amendments
-2016—Subsec. (a)(1). Pub. L. 114–281 inserted at end “Any designation of a non-state actor as an entity of particular concern for religious freedom under [section 6442a of this title](./chapter-073-international-religious-freedom.md#section-6442a) and, if applicable and to the extent practicable, the identities of individuals determined to be responsible for violations described in subsection (f) of such section.”
-
 #### References in Text
 This chapter, referred to in subsec. (b)(2), was in the original “this Act”, meaning Pub. L. 105–292, Oct. 27, 1998, 112 Stat. 2787, known as the International Religious Freedom Act of 1998, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 6401 of this title](./chapter-073-international-religious-freedom.md#section-6401) and Tables.
+
+#### Amendments
+2016—Subsec. (a)(1). Pub. L. 114–281 inserted at end “Any designation of a non-state actor as an entity of particular concern for religious freedom under [section 6442a of this title](./chapter-073-international-religious-freedom.md#section-6442a) and, if applicable and to the extent practicable, the identities of individuals determined to be responsible for violations described in subsection (f) of such section.”
 
 
 <a id="section-6461"></a>

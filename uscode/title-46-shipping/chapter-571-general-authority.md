@@ -2,7 +2,7 @@
 title: 46
 chapter: '571'
 heading: GENERAL AUTHORITY
-section_count: 10
+section_count: 11
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46&num=0&edition=prelim
 ---
@@ -279,6 +279,14 @@ This section is substituted for the source provisions to eliminate obsolete and 
 
 **(b) Effect on Contract Authorization.—** An obligation incurred or expenditure made by the Secretary under this section does not affect any contract authorization of the Secretary, but instead shall be charged against the existing appropriation or contract authorization of the department or agency.
 
+**(c) Salvaging Cargoes.—**
+
+(1) **Reimbursable agreements.—** — The Secretary of Transportation, acting through the Administrator of the Maritime Administration, may enter into reimbursable agreements with other Federal entities to provide legal services to such entities relating to the salvaging of cargoes for which such entities have custody, or control, or for which for such entities have trustee responsibilities from vessels in the custody or control of the Maritime Administration or its predecessor agencies. The Secretary may receive and retain reimbursement from such entities for all costs incurred related to the provision of such services.
+
+(2) **Amounts received.—** — Amounts received as reimbursements under this subsection shall be credited to the fund or account that was used to cover the costs incurred by the Secretary or, if the period of availability of obligations for that appropriation has expired, to the appropriation of funds that is currently available to the Secretary for substantially the same purpose. Amounts so credited shall be merged with amounts in such fund or account and shall be available for the same purposes, and subject to the same conditions and limitations, as amounts in such fund or account.
+
+(3) **Advance payments.—** — Payments made in advance shall be for any part of the estimated cost as determined by the Secretary of Transportation. Adjustments to the amounts paid in advance shall be made as agreed to by the Secretary of Transportation and the head of the ordering agency or unit based on the actual cost of goods or services provided.
+
 ### Statutory Notes
 
 | Historical and Revision Notes |  |  |
@@ -287,6 +295,9 @@ This section is substituted for the source provisions to eliminate obsolete and 
 | 57107 | 46 App.:1125a. | Feb. 6, 1941, ch. 5, § 4, 55 Stat. 6; Pub. L. 97–31, § 12(74), Aug. 6, 1981, 95 Stat. 160. |
 
 In subsection (b), the words “heretofore or hereafter”, “diminish or otherwise”, and “and, to the amount of such obligation or expenditure, diminish” are omitted as unnecessary.
+
+#### Amendments
+2019—Subsec. (c). Pub. L. 116–92 added subsec. (c).
 
 
 <a id="section-57108"></a>
@@ -315,3 +326,16 @@ Unless otherwise authorized by the Secretary of Transportation, a vessel purchas
 | 57109 | 46 App.:808(b). | Sept. 7, 1916, ch. 451, § 9(b), 39 Stat. 730; July 15, 1918, ch. 152, § 3, 40 Stat. 900; restated June 5, 1920, ch. 250, § 18, 41 Stat. 994; Ex. Ord. No. 6166, § 12, eff. June 10, 1933; June 29, 1936, ch. 858, title II, § 204, title IX, § 904, 49 Stat. 1987, 2016; Pub. L. 97–31, § 12(26), Aug. 6, 1981, 95 Stat. 155; Pub. L. 100–710, title I, § 104(b)(2), Nov. 23, 1988, 102 Stat. 4750. |
 
 The words “only under a certificate of documentation with a registry or coastwise endorsement” are substituted for “only under such registry or enrollment and license” for clarity and to use the appropriate current language.
+
+
+<a id="section-57111"></a>
+## § 57111. Salvage recoveries for subrogated ownership of vessels and cargoes
+**(a) Salvage Agreements.—** The Secretary of Transportation is authorized to enter into marine salvage agreements for the recoveries, sale, and disposal of sunken or damaged vessels, cargoes, or properties owned or insured by or on behalf of the Maritime Administration, the United States Shipping Board, the U.S. Shipping Bureau, the United States Maritime Commission, or the War Shipping Administration.
+
+**(b) Military Craft.—** The Secretary of Transportation shall consult with the Secretary of the military department concerned prior to engaging in or authorizing any activity under subsection (a) that will disturb sunken military craft, as such term is defined in section 1408(3) of the Ronald W. Reagan National Defense Authorization Act for Fiscal Year 2005 (Public Law 108–375; [10 U.S.C. 113](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section113&num=0&edition=prelim) note).
+
+**(c) Recoveries.—** Notwithstanding any other provision of law, the net proceeds from salvage agreements entered into as authorized in subsection (a) shall remain available until expended and be distributed as follows:
+
+(1) Fifty percent shall be available to the Administrator of the Maritime Administration for the payment or reimbursement of expenses incurred by or on behalf of State maritime academies or the United States Merchant Marine Academy for facility and training ship maintenance, repair, and modernization, and for the purchase of simulators and fuel.
+
+(2) The remainder shall be distributed for maritime heritage preservation to the Department of the Interior for grants as authorized by [section 308703 of title 54](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section308703&num=0&edition=prelim).

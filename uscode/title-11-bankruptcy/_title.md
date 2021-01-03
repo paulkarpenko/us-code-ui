@@ -1,7 +1,7 @@
 ---
 title: 11
 heading: BANKRUPTCY
-positive_law: false
+positive_law: true
 sections: 280
 chapters: 9
 ---

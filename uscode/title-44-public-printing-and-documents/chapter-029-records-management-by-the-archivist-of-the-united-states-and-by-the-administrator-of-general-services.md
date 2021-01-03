@@ -4,7 +4,7 @@ chapter: '29'
 heading: >-
   RECORDS MANAGEMENT BY THE ARCHIVIST OF THE UNITED STATES AND BY THE
   ADMINISTRATOR OF GENERAL SERVICES
-section_count: 11
+section_count: 12
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44&num=0&edition=prelim
 ---
@@ -59,9 +59,19 @@ As used in this chapter, and chapters 21, 25, 31, and 33 of this title—
 
 (13) the term “executive agency” shall have the meaning given such term by [section 102 of title 40](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40-section102&num=0&edition=prelim);
 
-(14) the term “Federal agency” means any executive agency or any establishment in the legislative or judicial branch of the Government (except the Supreme Court, the Senate, the House of Representatives, and the Architect of the Capitol and any activities under the direction of the Architect of the Capitol); and
+(14) the term “Federal agency” means any executive agency or any establishment in the legislative or judicial branch of the Government (except the Supreme Court, the Senate, the House of Representatives, and the Architect of the Capitol and any activities under the direction of the Architect of the Capitol);
 
-(15) the term “Administrator” means the Administrator of General Services.
+(15) the term “electronic messages” means electronic mail and other electronic messaging systems that are used for purposes of communicating between individuals; and
+
+(16) the term “electronic records management system” means software designed to manage electronic records, including by—
+
+  (A) categorizing and locating records;
+
+  (B) ensuring that records are retained as long as necessary;
+
+  (C) identifying records that are due for disposition; and
+
+  (D) ensuring the storage, retrieval, and disposition of records.
 
 ### Statutory Notes
 
@@ -69,6 +79,8 @@ As used in this chapter, and chapters 21, 25, 31, and 33 of this title—
 A prior section 2901, Pub. L. 90–620, Oct. 22, 1968, 82 Stat. 1295, related to definitions, prior to repeal by Pub. L. 94–575, § 2(a)(1).
 
 #### Amendments
+2021—Pars. (15), (16). Pub. L. 116–283 added pars. (15) and (16) and struck out former par. (15) which defined “Administrator”.
+
 2014—Par. (11). Pub. L. 113–187 substituted “the Archivist’s” for “his”.
 
 2002—Par. (13). Pub. L. 107–217 substituted “[section 102 of title 40](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40-section102&num=0&edition=prelim)” for “section 3(a) of the Federal Property and Administrative Services Act of 1949 ([40 U.S.C. 472(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40-section472/a&num=0&edition=prelim))”.
@@ -89,7 +101,7 @@ Pars. (14), (15). Pub. L. 98–497, § 107(b)(13)(D), added pars. (14) and (15).
 Amendment by Pub. L. 98–497 effective Apr. 1, 1985, see section 301 of Pub. L. 98–497, set out as a note under [section 2102 of this title](./chapter-021-national-archives-and-records-administration.md#section-2102).
 
 #### Records Center Revolving Fund
-Pub. L. 106–58, title IV, [(a)–(e)], Sept. 29, 1999, 113 Stat. 460, 461, as amended by Pub. L. 108–383, § 3, Oct. 30, 2004, 118 Stat. 2218, provided that: “(a) Establishment of Fund.—There is hereby established in the Treasury a revolving fund to be available for expenses (including expenses for uniforms or allowances for uniforms as authorized by subchapter I of chapter 59 of title 5 [United States Code]) and equipment necessary to provide for storage and related services for all temporary and pre-archival Federal records, which are to be stored or stored at Federal National and Regional Records Centers by agencies and other instrumentalities of the Federal Government. The Fund shall be available without fiscal year limitation for expenses necessary for operation of these activities. “(b) Start-Up Capital.—“(1) There is appropriated $22,000,000 as initial capitalization of the Fund. “(2) In addition, the initial capital of the Fund shall include the fair and reasonable value at the Fund’s inception of the inventories, equipment, receivables, and other assets, less the liabilities, transferred to the Fund. The Archivist of the United States is authorized to accept inventories, equipment, receivables and other assets from other Federal entities that were used to provide for storage and related services for temporary and pre-archival Federal records. “(c) User Charges.—The Fund shall be credited with user charges received from other Federal Government accounts as payment for providing personnel, storage, materials, supplies, equipment, and services as authorized by subsection (a). Such payments may be made in advance or by way of reimbursement. The rates charged will return in full the expenses of operation, including reserves for accrued annual leave, worker’s compensation, depreciation of capitalized equipment and shelving, and amortization of information technology software and systems. “(d) Funds Returned to Miscellaneous Receipts of the Department of the Treasury.—“(1) In addition to funds appropriated to and assets transferred to the Fund in subsection (b), an amount not to exceed 4 percent of the total annual income may be retained in the Fund as an operating reserve or for the replacement or acquisition of capital equipment, including shelving, and the improvement and implementation of the financial management, information technology, and other support systems of the National Archives and Records Administration. “(2) Funds in excess of the 4 percent at the close of each fiscal year shall be returned to the Treasury of the United States as miscellaneous receipts. “(e) Reporting Requirement.—The National Archives and Records Administration shall provide quarterly reports to the Committees on Appropriations and Governmental Affairs of the Senate, and the Committees on Appropriations and Government Reform [now Oversight and Government Reform] of the House of Representatives on the operation of the Records Center Revolving Fund.”
+Pub. L. 106–58, title IV, [(a)–(e)], Sept. 29, 1999, 113 Stat. 460, 461, as amended by Pub. L. 108–383, § 3, Oct. 30, 2004, 118 Stat. 2218, provided that: “(a) Establishment of Fund.—There is hereby established in the Treasury a revolving fund to be available for expenses (including expenses for uniforms or allowances for uniforms as authorized by subchapter I of chapter 59 of title 5 [United States Code]) and equipment necessary to provide for storage and related services for all temporary and pre-archival Federal records, which are to be stored or stored at Federal National and Regional Records Centers by agencies and other instrumentalities of the Federal Government. The Fund shall be available without fiscal year limitation for expenses necessary for operation of these activities. “(b) Start-Up Capital.—“(1) There is appropriated $22,000,000 as initial capitalization of the Fund. “(2) In addition, the initial capital of the Fund shall include the fair and reasonable value at the Fund’s inception of the inventories, equipment, receivables, and other assets, less the liabilities, transferred to the Fund. The Archivist of the United States is authorized to accept inventories, equipment, receivables and other assets from other Federal entities that were used to provide for storage and related services for temporary and pre-archival Federal records. “(c) User Charges.—The Fund shall be credited with user charges received from other Federal Government accounts as payment for providing personnel, storage, materials, supplies, equipment, and services as authorized by subsection (a). Such payments may be made in advance or by way of reimbursement. The rates charged will return in full the expenses of operation, including reserves for accrued annual leave, worker’s compensation, depreciation of capitalized equipment and shelving, and amortization of information technology software and systems. “(d) Funds Returned to Miscellaneous Receipts of the Department of the Treasury.—“(1) In addition to funds appropriated to and assets transferred to the Fund in subsection (b), an amount not to exceed 4 percent of the total annual income may be retained in the Fund as an operating reserve or for the replacement or acquisition of capital equipment, including shelving, and the improvement and implementation of the financial management, information technology, and other support systems of the National Archives and Records Administration. “(2) Funds in excess of the 4 percent at the close of each fiscal year shall be returned to the Treasury of the United States as miscellaneous receipts. “(e) Reporting Requirement.—The National Archives and Records Administration shall provide quarterly reports to the Committees on Appropriations and Governmental Affairs of the Senate, and the Committees on Appropriations and Government Reform [now Oversight and Reform] of the House of Representatives on the operation of the Records Center Revolving Fund.”
 
 #### Federal Records Management Provisions Without Effect on Authorities and Responsibilities of Administrator of General Services, Joint Committee, or Government Publishing Office
 Pub. L. 94–575, § 5, Oct. 21, 1976, 90 Stat. 2727, as amended by Pub. L. 113–235, div. H, title I, § 1301(b), Dec. 16, 2014, 128 Stat. 2537, provided that: “(a) The provisions of this Act [see Short Title of 1976 Amendment note set out under [section 101 of this title](./chapter-001-joint-committee-on-printing.md#section-101)] relating to the authority of the Administrator of General Services do not limit or repeal additional authorities provided by statute or otherwise recognized by law. “(b) The provisions of this Act do not limit or repeal the authority or responsibilities of the Joint Committee on Printing or the Government Publishing Office under chapters 1 through 19 of title 44, United States Code.”
@@ -427,3 +439,23 @@ A prior section 2910, Pub. L. 90–620, Oct. 22, 1968, 82 Stat. 1297, provided f
 (2) **Electronic messaging account.—** — The term “electronic messaging account” means any account that sends electronic messages.
 
 (3) **Executive agency.—** — The term “executive agency” has the meaning given that term in [section 105 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section105&num=0&edition=prelim).
+
+
+<a id="section-2912"></a>
+## § 2912. Preservation of electronic messages and other records
+**(a) Regulations Required.—** The Archivist shall promulgate regulations governing Federal agency preservation of electronic messages that are determined to be records. Such regulations shall, at a minimum—
+
+(1) require the electronic capture, management, and preservation of such electronic records in accordance with the records disposition requirements of chapter 33;
+
+(2) require that such electronic records are readily accessible for retrieval through electronic searches; and
+
+(3) include timelines for Federal agency implementation of the regulations that ensure compliance as expeditiously as practicable.
+
+**(b) Coverage of Other Electronic Records.—** To the extent practicable, the regulations promulgated under subsection (a) shall also include requirements for the capture, management, and preservation of other electronic records.
+
+**(c) Review of Regulations Required.—** The Archivist shall periodically review and, as necessary, amend the regulations promulgated under subsection (a).
+
+### Statutory Notes
+
+#### Deadline for Regulations
+Pub. L. 116–283, div. H, title XCVI, § 9602(b)(2), Jan. 1, 2021, 134 Stat. 4828, provided that: “Not later than one year after the date of the enactment of this Act [Jan. 1, 2021], the Archivist shall propose the regulations required under [section 2912(a) of title 44](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section2912/a&num=0&edition=prelim), United States Code, as added by paragraph (1).”

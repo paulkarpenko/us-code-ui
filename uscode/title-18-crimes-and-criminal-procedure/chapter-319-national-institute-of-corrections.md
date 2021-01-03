@@ -50,7 +50,7 @@ Amendment by Pub. L. 98–473 effective Nov. 1, 1987, and applicable only to off
 Amendment by Pub. L. 95–115 effective Oct. 1, 1977, see section 263(c) of Pub. L. 93–415, as added by Pub. L. 95–115, formerly set out as a note under [section 11101 of Title 34](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section11101&num=0&edition=prelim), Crime Control and Law Enforcement.
 
 #### Repeals
-Section 521 of Pub. L. 93–415, title V, Sept. 7, 1974, 88 Stat. 1139, cited as a credit to this section, was repealed by Pub. L. 115–385, title III, § 307, Dec. 21, 2018, 132 Stat. 5152.
+Pub. L. 93–415, title V, § 521, Sept. 7, 1974, 88 Stat. 1139, cited as a credit to this section, was repealed by Pub. L. 115–385, title III, § 307, Dec. 21, 2018, 132 Stat. 5152.
 
 #### Transfer of Functions
 Effective Aug. 1, 2000, all functions of Director of Bureau of Justice Assistance, other than those enumerated in section 10142(3) through (6) of Title 34, Crime Control and Law Enforcement, transferred to Assistant Attorney General for Office of Justice Programs, see section 1000(a)(1) [title I, § 108(b)] of Pub. L. 106–113, set out as a note under [section 10141 of Title 34](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section10141&num=0&edition=prelim).
@@ -124,7 +124,7 @@ Subsec. (a)(12). Pub. L. 111–211, § 261(b)(3), inserted “, tribal,” after
 Pub. L. 104–208, div. A, title I, § 101(a), [title I], Sept. 30, 1996, 110 Stat. 3009, 3009–11, provided in part: “That the National Institute of Corrections hereafter shall be included in the FPS Salaries and Expenses budget, in the Contract Confinement program and shall continue to perform its current functions under [18 U.S.C. 4351](./chapter-319-national-institute-of-corrections.md#section-4351), et seq., with the exception of its grant program and shall collect reimbursement for services whenever possible”.
 
 #### Repeals
-Section 521 of Pub. L. 93–415, title V, Sept. 7, 1974, 88 Stat. 1140, cited as a credit to this section, was repealed by Pub. L. 115–385, title III, § 307, Dec. 21, 2018, 132 Stat. 5152.
+Pub. L. 93–415, title V, § 521, Sept. 7, 1974, 88 Stat. 1140, cited as a credit to this section, was repealed by Pub. L. 115–385, title III, § 307, Dec. 21, 2018, 132 Stat. 5152.
 
 #### References in Other Laws to GS–16, 17, or 18 Pay Rates
 References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 [title I, § 101(c)(1)] of Pub. L. 101–509, set out in a note under [section 5376 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5376&num=0&edition=prelim).

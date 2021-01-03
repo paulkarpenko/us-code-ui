@@ -116,6 +116,11 @@ The Secretary shall, during an ongoing recall of human or pet food regulated by 
 
 **(d) Partnerships with States** Upon the request by any State, the Secretary may enter into partnership agreements, as soon as practicable after the request is made, to implement inspection programs to Federal standards regarding the importation of aquaculture and seafood.
 
+### Statutory Notes
+
+#### Regulation of Export of Shrimp to the United States
+Pub. L. 116–260, div. A, title VII, § 787, Dec. 27, 2020, 134 Stat. 1230, provided that: “(a) The Secretary of Health and Human Services, acting through the Commissioner of Food and Drugs (Commissioner), shall develop and, if it determines feasible, implement a number of options for regulating the export of shrimp to the United States from other countries, including the three largest exporting countries by volume to the United States over the last three calendar years, such as sampling of products prior to export to the United States, increasing foreign inspections of export facilities, increased seafood importer inspections, foreign surveillance inspections at overseas manufacturing sites, enhanced import screening, higher rates of examination and sampling, use of third-party audits, and formal seafood arrangements with foreign competent authorities. “(b) The Commissioner shall especially give priority consideration to the following with the funds appropriated—“(1) that appropriate controls are applied to shrimp feed and production ponds, processing plants, and facilities throughout the chain of distribution to determine compliance with seafood safety requirements; “(2) dedicate its inspectional effort to determine compliance with seafood arrangements, once established, from any dedicated funds; “(3) provide an annual report to the Committee before the end of fiscal years 2021, 2022, and 2023 with the reporting requirement goal being to provide the Committee information related to FDA’s oversight of the safety of shrimp products imported into the United States.”
+
 
 <a id="section-2106"></a>
 ## § 2106. Consultation regarding genetically engineered seafood products

@@ -2,7 +2,7 @@
 title: 7
 chapter: '88'
 heading: RESEARCH
-section_count: 52
+section_count: 53
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7&num=0&edition=prelim
 ---
@@ -2498,8 +2498,82 @@ Subsecs. (c) to (f). Pub. L. 115–334, § 7412(3), added subsecs. (c) to (f) an
 #### Effective Date
 Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as a note under [section 8701 of this title](./chapter-113-agricultural-commodity-support-programs.md#section-8701).
 
+#### Farm and Ranch Mental Health
+Pub. L. 116–283, div. H, title C, § 10006, Jan. 1, 2021, 134 Stat. 4866, provided that: “(a) Public Service Announcement Campaign to Address Farm and Ranch Mental Health.—“(1) In general.—The Secretary of Agriculture, in consultation with the Secretary of Health and Human Services, shall carry out a public service announcement campaign to address the mental health of farmers and ranchers. “(2) Requirements.—The public service announcement campaign under paragraph (1) shall include television, radio, print, outdoor, and digital public service announcements. “(3) Contractor.—“(A) In general.—The Secretary of Agriculture may enter into a contract or other agreement with a third party to carry out the public service announcement campaign under paragraph (1). “(B) Requirement.—In awarding a contract under subparagraph (A), the Secretary of Agriculture shall use a competitive bidding process. “(4) Authorization of appropriations.—There is authorized to be appropriated to the Secretary of Agriculture to carry out this subsection $3,000,000, to remain available until expended. “(b) Employee Training Program to Manage Farmer and Rancher Stress.—“(1) In general.—Not later than 180 days after the date of enactment of this subsection [Jan. 1, 2021], the Secretary of Agriculture shall expand the pilot program carried out by the Secretary of Agriculture in fiscal year 2019 that trained employees of the Farm Service Agency in the management of stress experienced by farmers and ranchers, to train employees of the Farm Service Agency, the Risk Management Agency, and the Natural Resources Conservation Service in the management of stress experienced by farmers and ranchers, including the detection of stress and suicide prevention. “(2) Report.—Not less frequently than once every 2 years, the Secretary of Agriculture shall submit to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a report describing the implementation of this subsection. “(c) Task Force for Assessment of Causes of Mental Stress and Best Practices for Response.—“(1) In general.—The Secretary of Agriculture shall convene a task force of agricultural and rural stakeholders at the national, State, and local levels—“(A) to assess the causes of mental stress in farmers and ranchers; and “(B) to identify best practices for responding to that mental stress. “(2) Submission of report.—Not later than 1 year after the date of enactment of this subsection, the task force convened under paragraph (1) shall submit to the Secretary of Agriculture a report containing the assessment and best practices under subparagraphs (A) and (B), respectively, of paragraph (1). “(3) Collaboration.—In carrying out this subsection, the task force convened under paragraph (1) shall collaborate with nongovernmental organizations and State and local agencies. “(d) Cessation of Authorities.—Any authorities provided under this section shall cease to be in effect on October 1, 2023.”
+
 #### Definition of “Secretary”
 “Secretary” as meaning the Secretary of Agriculture, see [section 8701 of this title](./chapter-113-agricultural-commodity-support-programs.md#section-8701).
+
+
+<a id="section-5936a"></a>
+## § 5936a. Support for farm stress programs
+**(a) In general** The Secretary shall make grants to State departments of agriculture (or such equivalent department) to expand or sustain stress assistance programs for individuals who are engaged in farming, ranching, and other agriculture-related occupations, including—
+
+(1) programs that meet the criteria specified in [section 5936(b)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section5936/b/1&num=0&edition=prelim); and
+
+(2) any State initiatives carried out as of December 27, 2020, that provide stress assistance for such individuals.
+
+**(b) Grant timing and amount** In making grants under subsection (a), not later than 60 days after December 27, 2020, and subject to subsection (c), the Secretary shall—
+
+(1) make awards to States submitting State plans that meet the criteria specified in paragraph (1) of such subsection within the time period specified by the Secretary; and
+
+(2) of the amounts made available under subsection (f), allocate among such States, an amount to be determined by the Secretary, which in no case may exceed $500,000 for each State.
+
+**(c) State plan**
+
+(1) **In general** — A State department of agriculture seeking a grant under subsection (a) shall submit to the Secretary a State plan to expand or sustain stress assistance programs described in that subsection that includes—
+
+  (A) a description of each activity and the estimated amount of funding to support each program and activity carried out through such a program;
+
+  (B) an estimated timeline for the operation of each such program and activity;
+
+  (C) the total amount of funding sought; and
+
+  (D) an assurance that the State department of agriculture will comply with the reporting requirement under subsection (e).
+
+(2) **Guidance** — Not later than 20 days after December 27, 2020, the Secretary shall issue guidance for States with respect to the submission of a State plan under paragraph (1) and the allocation criteria under subsection (b).
+
+(3) **Reallocation** — If, after the first grants are awarded pursuant to allocation under subsection (b), any funds made available under subsection (f) to carry out this subsection remain unobligated, the Secretary shall—
+
+  (A) inform States that submit plans as described in subsection (b), of such availability; and
+
+  (B) reallocate such funds among such States, as the Secretary determines to be appropriate and equitable.
+
+**(d) Collaboration** The Secretary may issue guidance to encourage State departments of agriculture to use funds provided under this section to support programs described in subsection (a) that are operated by—
+
+(1) Indian tribes (as defined in [section 5304 of title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5304&num=0&edition=prelim));
+
+(2) State cooperative extension services; and
+
+(3) nongovernmental organizations.
+
+**(e) Reporting** Not later than 180 days after the COVID–19 public health emergency ends, each State receiving additional grants under subsection (b) shall submit a report to the Secretary describing—
+
+(1) the activities conducted using such funds;
+
+(2) the amount of funds used to support each such activity; and
+
+(3) the estimated number of individuals served by each such activity.
+
+**(f) Funding** Out of the funds of the Treasury not otherwise appropriated, there is appropriated to carry out this section $28,000,000, to remain available until expended.
+
+**(g) State defined** In this section, the term “State” means—
+
+(1) a State;
+
+(2) the District of Columbia;
+
+(3) the Commonwealth of Puerto Rico; and
+
+(4) any other territory or possession of the United States.
+
+### Statutory Notes
+
+#### Codification
+Section was enacted as part of the Consolidated Appropriations Act, 2021, and not as part of subtitle H of title XVI of the Food, Agriculture, Conservation, and Trade Act of 1990 which comprises this subchapter.
+
+#### Definitions
+Pub. L. 116–260, div. N, title VII, § 760, Dec. 27, 2020, 134 Stat. 2109, provided that: “In this chapter [chapter 2 (§§ 760–766) of subtitle B of title VII of div. N of Pub. L. 116–260, enacting this section and sections 217b and 9071a of this title and [section 473 of Title 21](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section473&num=0&edition=prelim), Food and Drugs, and enacting provisions set out as a note under [section 9056 of this title](./chapter-115-agricultural-commodity-policy-and-programs.md#section-9056)]: “(1) The term ‘COVID–19’ means the disease caused by SARS–CoV–2, or any viral strain mutating therefrom with pandemic potential. “(2) The term ‘COVID–19 public health emergency’ means the public health emergency declared by the Secretary of Health and Human Services under section 319 of the Public Health Service Act ([42 U.S.C. 247d](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section247d&num=0&edition=prelim)) on January 31, 2020, with respect to COVID–19 (or any renewal of that declaration). “(3) The term ‘Secretary’ means the Secretary of Agriculture.”
 
 
 <a id="section-5937"></a>
@@ -2960,7 +3034,7 @@ Subsec. (c). Pub. L. 115–334, § 7605(a)(4), added subsec. (c).
 2015—Subsec. (a). Pub. L. 114–95 struck out “the Safe and Drug-Free Schools and Communities Act ([20 U.S.C. 7101](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section7101&num=0&edition=prelim) et seq.),” before “chapter 81” in introductory provisions.
 
 #### Effective Date of Repeal
-Pub. L. 115–334, title VII, § 7605(b), Dec. 20, 2018, 132 Stat. 4829, provided that: “Effective on the date that is 1 year after the date on which the Secretary [of Agriculture] establishes a plan under section 297C of the Agricultural Marketing Act of 1946 [[7 U.S.C. 1639q](./chapter-038-distribution-and-marketing-of-agricultural-products.md#section-1639q)], section 7606 of the Agricultural Act of 2014 ([7 U.S.C. 5940](./chapter-088-research.md#section-5940)) is repealed.”
+Pub. L. 115–334, title VII, § 7605(b), Dec. 20, 2018, 132 Stat. 4829, as amended by Pub. L. 116–159, div. A, § 122, Oct. 1, 2020, 134 Stat. 714; Pub. L. 116–260, div. A, title VII, § 782, Dec. 27, 2020, 134 Stat. 1230, provided that: “Effective on January 1, 2022, section 7606 of the Agricultural Act of 2014 ([7 U.S.C. 5940](./chapter-088-research.md#section-5940)) is repealed.”
 
 #### Effective Date of 2015 Amendment
 Amendment by Pub. L. 114–95 effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 114–95, set out as a note under [section 6301 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6301&num=0&edition=prelim), Education.

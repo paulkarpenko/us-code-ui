@@ -103,7 +103,7 @@ Pub. L. 100–702, title X, § 1005(b), Nov. 19, 1988, 102 Stat. 4666, provided 
 Pub. L. 98–353, title II, § 204(c), July 10, 1984, 98 Stat. 350, provided that: “The amendments made by this section [amending this section] shall apply with respect to any justice or judge of the United States appointed to hold office during good behavior who retires on or after the date of enactment of this Act [July 10, 1984].”
 
 #### Computation of Judicial Service, District of Alaska
-Pub. L. 89–70, July 8, 1965, 79 Stat. 213, provided: “That, notwithstanding any other provision of law, any service as a judge of the District Court for the Territory of Alaska shall be included in computing under sections 371 and 372 of Title 28, United States Code, the aggregate years of judicial service of a United States district judge for the district of Alaska.”
+Pub. L. 89–70, July 8, 1965, 79 Stat. 213, provided that any service as a judge of the District Court for the Territory of Alaska would be included in computing under this section and [section 372 of this title](./chapter-017-resignation-and-retirement-of-justices-and-judges.md#section-372) the aggregate years of judicial service of a United States district judge for the district of Alaska.
 
 #### Judicial Service in Hawaii Included Within Computation of Aggregate Years of Judicial Service
 Pub. L. 86–3, § 14(d), Mar. 18, 1959, 73 Stat. 10, provided in part: “That service as a judge of the District Court for the Territory of Hawaii or as a judge of the United States District Court for the District of Hawaii or as a justice of the Supreme Court of the Territory of Hawaii or as a judge of the circuit courts of the Territory of Hawaii shall be included in computing under section 371, 372, or 373 of title 28, United States Code, the aggregate years of judicial service of any person who is in office as a district judge for the District of Hawaii on the date of enactment of this Act [Mar. 18, 1959].”
@@ -362,7 +362,7 @@ Amendment by Pub. L. 99–651 effective Jan. 1, 1987, see section 203 of Pub. L.
 
 **(g)** Except as provided in subsection (c), a judge or magistrate judge recalled under this section who retired under the applicable provisions of title 5 shall be considered to be a reemployed annuitant under chapter 83 or chapter 84, as the case may be, of title 5.
 
-**(h)** The Judicial Conference of the United States may promulgate regulations to implement this section.
+**(h)** The Judicial Conference of the United States shall promulgate regulations to implement this section.
 
 ### Statutory Notes
 
@@ -370,6 +370,8 @@ Amendment by Pub. L. 99–651 effective Jan. 1, 1987, see section 203 of Pub. L.
 A prior section 375, added Aug. 28, 1954, ch. 1053, § 1, 68 Stat. 918; amended Aug. 3, 1956, ch. 944, § 1(b), 70 Stat. 1021; Aug. 22, 1972, Pub. L. 92–397, § 1, 86 Stat. 579, provided for annuities to widows of justices, prior to repeal by Pub. L. 96–504, § 5, Dec. 5, 1980, 94 Stat. 2742.
 
 #### Amendments
+2021—Subsec. (h). Pub. L. 116–325 substituted “shall” for “may”.
+
 2002—Subsec. (d). Pub. L. 107–273 substituted “chapter 16” for “section 372(c)”.
 
 1992—Subsec. (a)(1). Pub. L. 102–572, § 904(a)(1), struck out “, a judge of the Claims Court,” after “A bankruptcy judge” and “, judge of the Claims Court,” after “a bankruptcy judge”.

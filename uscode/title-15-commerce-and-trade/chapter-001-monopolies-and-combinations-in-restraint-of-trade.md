@@ -2,7 +2,7 @@
 title: 15
 chapter: '1'
 heading: MONOPOLIES AND COMBINATIONS IN RESTRAINT OF TRADE
-section_count: 57
+section_count: 61
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15&num=0&edition=prelim
 ---
@@ -31,6 +31,11 @@ Pub. L. 107–72, § 4, Nov. 20, 2001, 115 Stat. 650, provided that: “This Act
 
 #### Effective Date of 1975 Amendment
 Pub. L. 94–145, § 4, Dec. 12, 1974, 89 Stat. 801, provided that: “The amendments made by sections 2 and 3 of this Act [amending this section and [section 45 of this title](./chapter-002-federal-trade-commission-promotion-of-export-trade-and-prevention-of-unfair-methods-of-competition.md#section-45)] shall take effect upon the expiration of the ninety-day period which begins on the date of enactment of this Act [Dec. 12, 1975].”
+
+#### Short Title of 2020 Amendment
+Pub. L. 116–257, § 1, Dec. 23, 2020, 134 Stat. 1147, provided that: “This Act [enacting [section 7a–3 of this title](./chapter-001-monopolies-and-combinations-in-restraint-of-trade.md#section-7a-3)] may be cited as the ‘Criminal Antitrust Anti-Retaliation Act of 2019’.”
+
+Pub. L. 116–159, div. D, title III, § 4301, Oct. 1, 2020, 134 Stat. 742, provided that: “This title [enacting provisions set out as notes under [section 7a of this title](./chapter-001-monopolies-and-combinations-in-restraint-of-trade.md#section-7a) and amending and repealing provisions set out as notes under this section] may be cited as the ‘Antitrust Criminal Penalty Enhancement and Reform Permanent Extension Act’.”
 
 #### Short Title of 2015 Amendment
 Pub. L. 114–44, § 1, Aug. 6, 2015, 129 Stat. 472, provided that: “This Act [amending provisions set out as a note under this section] may be cited as the ‘Need-Based Educational Aid Act of 2015’.”
@@ -89,11 +94,13 @@ Pub. L. 93–528, § 1, Dec. 21, 1974, 88 Stat. 1706, provided: “That this Act
 Pub. L. 94–435, title III, § 305(a), Sept. 30, 1976, 90 Stat. 1397, added immediately following the enacting clause of act July 2, 1890, the following: “That this Act [this section and sections 2 to 7 of this title] may be cited as the ‘Sherman Act’.”
 
 #### Antitrust Enforcement Enhancements and Cooperation Incentives
-Pub. L. 108–237, title II, §§ 211–214, June 22, 2004, 118 Stat. 666, 667, as amended by Pub. L. 111–30, § 2, June 19, 2009, 123 Stat. 1775; Pub. L. 111–190, §§ 1–4, June 9, 2010, 124 Stat. 1275, 1276, provided that: “SEC. 211. SUNSET.“(a) In General.—Except as provided in subsection (b), the provisions of sections 211 through 214 of this subtitle [this note] shall cease to have effect 16 years after the date of enactment of this Act [June 22, 2004]. “(b) Exceptions.—With respect to—“(1) a person who receives a marker on or before the date on which the provisions of section 211 through 214 of this subtitle shall cease to have effect that later results in the execution of an antitrust leniency agreement; or “(2) an applicant who has entered into an antitrust leniency agreement on or before the date on which the provisions of sections 211 through 214 of this subtitle shall cease to have effect, the provisions of sections 211 through 214 of this subtitle shall continue in effect. “SEC. 212. DEFINITIONS.“In this subtitle [subtitle A (§§ 211–215) of title II of Pub. L. 108–237, amending this section and sections 2 and 3 of this title and enacting this note]:“(1) Antitrust division.—The term ‘Antitrust Division’ means the United States Department of Justice Antitrust Division. “(2) Antitrust leniency agreement.—The term ‘antitrust leniency agreement,’ or ‘agreement,’ means a leniency letter agreement, whether conditional or final, between a person and the Antitrust Division pursuant to the Corporate Leniency Policy of the Antitrust Division in effect on the date of execution of the agreement. “(3) Antitrust leniency applicant.—The term ‘antitrust leniency applicant,’ or ‘applicant,’ means, with respect to an antitrust leniency agreement, the person that has entered into the agreement. “(4) Claimant.—The term ‘claimant’ means a person or class, that has brought, or on whose behalf has been brought, a civil action alleging a violation of section 1 or 3 of the Sherman Act [[15 U.S.C. 1](./chapter-001-monopolies-and-combinations-in-restraint-of-trade.md#section-1), 3] or any similar State law, except that the term does not include a State or a subdivision of a State with respect to a civil action brought to recover damages sustained by the State or subdivision. “(5) Cooperating individual.—The term ‘cooperating individual’ means, with respect to an antitrust leniency agreement, a current or former director, officer, or employee of the antitrust leniency applicant who is covered by the agreement. “(6) Marker.—The term ‘marker’ means an assurance given by the Antitrust Division to a candidate for corporate leniency that no other company will be considered for leniency, for some finite period of time, while the candidate is given an opportunity to perfect its leniency application. “(7) Person.—The term ‘person’ has the meaning given it in subsection (a) of the first section of the Clayton Act [[15 U.S.C. 12(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section12/a&num=0&edition=prelim)]. “SEC. 213. LIMITATION ON RECOVERY.“(a) In General.—Subject to subsection (d), in any civil action alleging a violation of section 1 or 3 of the Sherman Act [[15 U.S.C. 1](./chapter-001-monopolies-and-combinations-in-restraint-of-trade.md#section-1), 3], or alleging a violation of any similar State law, based on conduct covered by a currently effective antitrust leniency agreement, the amount of damages recovered by or on behalf of a claimant from an antitrust leniency applicant who satisfies the requirements of subsection (b), together with the amounts so recovered from cooperating individuals who satisfy such requirements, shall not exceed that portion of the actual damages sustained by such claimant which is attributable to the commerce done by the applicant in the goods or services affected by the violation. “(b) Requirements.—Subject to subsection (c), an antitrust leniency applicant or cooperating individual satisfies the requirements of this subsection with respect to a civil action described in subsection (a) if the court in which the civil action is brought determines, after considering any appropriate pleadings from the claimant, that the applicant or cooperating individual, as the case may be, has provided satisfactory cooperation to the claimant with respect to the civil action, which cooperation shall include—“(1) providing a full account to the claimant of all facts known to the applicant or cooperating individual, as the case may be, that are potentially relevant to the civil action; “(2) furnishing all documents or other items potentially relevant to the civil action that are in the possession, custody, or control of the applicant or cooperating individual, as the case may be, wherever they are located; and “(3)(A) in the case of a cooperating individual—“(i) making himself or herself available for such interviews, depositions, or testimony in connection with the civil action as the claimant may reasonably require; and “(ii) responding completely and truthfully, without making any attempt either falsely to protect or falsely to implicate any person or entity, and without intentionally withholding any potentially relevant information, to all questions asked by the claimant in interviews, depositions, trials, or any other court proceedings in connection with the civil action; or “(B) in the case of an antitrust leniency applicant, using its best efforts to secure and facilitate from cooperating individuals covered by the agreement the cooperation described in clauses (i) and (ii) and subparagraph (A). “(c) Timeliness.—The court shall consider, in making the determination concerning satisfactory cooperation described in subsection (b), the timeliness of the applicant’s or cooperating individual’s cooperation with the claimant. “(d) Cooperation After Expiration of Stay or Protective Order.—If the Antitrust Division does obtain a stay or protective order in a civil action based on conduct covered by an antitrust leniency agreement, once the stay or protective order, or a portion thereof, expires or is terminated, the antitrust leniency applicant and cooperating individuals shall provide without unreasonable delay any cooperation described in paragraphs (1) and (2) of subsection (b) that was prohibited by the expired or terminated stay or protective order, or the expired or terminated portion thereof, in order for the cooperation to be deemed satisfactory under such paragraphs. “(e) Continuation.—Nothing in this section shall be construed to modify, impair, or supersede the provisions of sections 4, 4A, and 4C of the Clayton Act [[15 U.S.C. 15](./chapter-001-monopolies-and-combinations-in-restraint-of-trade.md#section-15), 15a, 15c] relating to the recovery of costs of suit, including a reasonable attorney’s fee, and interest on damages, to the extent that such recovery is authorized by such sections. “SEC. 214. RIGHTS, AUTHORITIES, AND LIABILITIES NOT AFFECTED.“Nothing in this subtitle [subtitle A (§§ 211–215) of title II of Pub. L. 108–237, amending this section and sections 2 and 3 of this title and enacting this note] shall be construed to—“(1) affect the rights of the Antitrust Division to seek a stay or protective order in a civil action based on conduct covered by an antitrust leniency agreement to prevent the cooperation described in section 213(b) of this subtitle from impairing or impeding the investigation or prosecution by the Antitrust Division of conduct covered by the agreement; “(2) create any right to challenge any decision by the Antitrust Division with respect to an antitrust leniency agreement; or “(3) affect, in any way, the joint and several liability of any party to a civil action described in section 213(a) of this subtitle, other than that of the antitrust leniency applicant and cooperating individuals as provided in section 213(a) of this subtitle.”
+Pub. L. 108–237, title II, § 211, June 22, 2004, 118 Stat. 666, as amended by Pub. L. 111–30, § 2, June 19, 2009, 123 Stat. 1775; Pub. L. 111–190, § 1, June 9, 2010, 124 Stat. 1275, which provided a sunset date for sections 211 to 214 of Pub. L. 108–237, with exceptions, was repealed by Pub. L. 116–159, div. D, title III, § 4303(a), Oct. 1, 2020, 134 Stat. 742, with continuity provision for markers and agreements existing on or before June 22, 2020.
 
-[Pub. L. 111–190, § 6, June 9, 2010, 124 Stat. 1276, provided that: “The amendments made by section 1 [amending section 211 of Pub. L. 108–237, set out above] shall take effect immediately before June 22, 2010.” ]
+Pub. L. 108–237, title II, § 212, June 22, 2004, 118 Stat. 666, as amended by Pub. L. 111–190, § 2, June 9, 2010, 124 Stat. 1275; Pub. L. 116–159, div. D, title III, § 4303(b)(2), Oct. 1, 2020, 134 Stat. 742, which defined terms for sections 211 to 215 of Pub. L. 108–237, was transferred to [section 7a of this title](./chapter-001-monopolies-and-combinations-in-restraint-of-trade.md#section-7a).
 
-[Pub. L. 111–30, § 3, June 19, 2009, 123 Stat. 1775, provided that: “The amendment made by section 2 [amending section 211(a) of Pub. L. 108–237, set out above] shall take effect immediately before June 22, 2009.” ]
+Pub. L. 108–237, title II, § 213, June 22, 2004, 118 Stat. 666, as amended by Pub. L. 111–190, § 3, June 9, 2010, 124 Stat. 1275, which provided limitation on recovery, was transferred to [section 7a–1 of this title](./chapter-001-monopolies-and-combinations-in-restraint-of-trade.md#section-7a-1).
+
+Pub. L. 108–237, title II, § 214, June 22, 2004, 118 Stat. 667, as amended by Pub. L. 111–190, § 4, June 9, 2010, 124 Stat. 1276, which provided rights, authorities, and liabilities not affected by sections 211 to 215 of Pub. L. 108–237, was transferred to [section 7a–2 of this title](./chapter-001-monopolies-and-combinations-in-restraint-of-trade.md#section-7a-2).
 
 #### Antitrust Modernization Commission
 Pub. L. 107–273, div. C, title I, subtitle D, Nov. 2, 2002, 116 Stat. 1856, as amended by Pub. L. 110–6, § 2, Feb. 26, 2007, 121 Stat. 61, provided that: “SEC. 11051. SHORT TITLE.“This subtitle may be cited as the ‘Antitrust Modernization Commission Act of 2002’. “SEC. 11052. ESTABLISHMENT.“There is established the Antitrust Modernization Commission (in this subtitle referred to as the ‘Commission’). “SEC. 11053. DUTIES OF THE COMMISSION.“The duties of the Commission are—“(1) to examine whether the need exists to modernize the antitrust laws and to identify and study related issues; “(2) to solicit views of all parties concerned with the operation of the antitrust laws; “(3) to evaluate the advisability of proposals and current arrangements with respect to any issues so identified; and “(4) to prepare and to submit to Congress and the President a report in accordance with section 11058. “SEC. 11054. MEMBERSHIP.“(a) Number and Appointment.—The Commission shall be composed of 12 members appointed as follows:“(1) Four members, no more than 2 of whom shall be of the same political party, shall be appointed by the President. The President shall appoint members of the opposing party only on the recommendation of the leaders of Congress from that party. “(2) Two members shall be appointed by the majority leader of the Senate. “(3) Two members shall be appointed by the minority leader of the Senate. “(4) Two members shall be appointed by the Speaker of the House of Representatives. “(5) Two members shall be appointed by the minority leader of the House of Representatives. “(b) Ineligibility for Appointment.—Members of Congress shall be ineligible for appointment to the Commission. “(c) Term of Appointment.—“(1) In general.—Subject to paragraph (2), members of the Commission shall be appointed for the life of the Commission. “(2) Early termination of appointment.—If a member of the Commission who is appointed to the Commission as—“(A) an officer or employee of a government ceases to be an officer or employee of such government; or “(B) an individual who is not an officer or employee of a government becomes an officer or employee of a government; then such member shall cease to be a member of the Commission on the expiration of the 90-day period beginning on the date such member ceases to be such officer or employee of such government, or becomes an officer or employee of a government, as the case may be. “(d) Quorum.—Seven members of the Commission shall constitute a quorum, but a lesser number may conduct meetings. “(e) Appointment Deadline.—Initial appointments under subsection (a) shall be made not later than 60 days after the date of enactment of this Act [Nov. 2, 2002]. “(f) Meetings.—The Commission shall meet at the call of the chairperson. The first meeting of the Commission shall be held not later than 30 days after the date on which all members of the Commission are first appointed under subsection (a) or funds are appropriated to carry out this subtitle, whichever occurs later. “(g) Vacancy.—A vacancy on the Commission shall be filled in the same manner as the initial appointment is made. “(h) Consultation Before Appointment.—Before appointing members of the Commission, the President, the majority and minority leaders of the Senate, the Speaker of the House of Representatives, and the minority leader of the House of Representatives shall consult with each other to ensure fair and equitable representation of various points of view in the Commission. “(i) Chairperson; Vice Chairperson.—The President shall select the chairperson of the Commission from among its appointed members. The leaders of Congress from the opposing party of the President shall select the vice chairperson of the Commission from among its remaining members. “SEC. 11055. COMPENSATION OF THE COMMISSION.“(a) Pay.—“(1) Nongovernment employees.—Each member of the Commission who is not otherwise employed by a government shall be entitled to receive the daily equivalent of the annual rate of basic pay payable for level IV of the Executive Schedule under [section 5315 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5315&num=0&edition=prelim) United States Code, as in effect from time to time, for each day (including travel time) during which such member is engaged in the actual performance of duties of the Commission. “(2) Government employees.—A member of the Commission who is an officer or employee of a government shall serve without additional pay (or benefits in the nature of compensation) for service as a member of the Commission. “(b) Travel Expenses.—Members of the Commission shall receive travel expenses, including per diem in lieu of subsistence, in accordance with subchapter I of chapter 57 of title 5, United States Code. “SEC. 11056. STAFF OF COMMISSION; EXPERTS AND CONSULTANTS.“(a) Staff.—“(1) Appointment.—The chairperson of the Commission may, without regard to the provisions of chapter 51 of title 5 of the United States Code (relating to appointments in the competitive service), appoint and terminate an executive director and such other staff as are necessary to enable the Commission to perform its duties. The appointment of an executive director shall be subject to approval by the Commission. “(2) Compensation.—The chairperson of the Commission may fix the compensation of the executive director and other staff without regard to the provisions of chapter 51 and subchapter III of chapter 53 of title 5 of the United States Code (relating to classification of positions and General Schedule pay rates), except that the rate of pay for the executive director and other staff may not exceed the rate of basic pay payable for level V of the Executive Schedule under [section 5315 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5315&num=0&edition=prelim) United States Code, as in effect from time to time. “(b) Experts and Consultants.—The Commission may procure temporary and intermittent services of experts and consultants in accordance with [section 3109(b) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section3109/b&num=0&edition=prelim), United States Code. “SEC. 11057. POWERS OF THE COMMISSION.“(a) Hearings and Meetings.—The Commission, or a member of the Commission if authorized by the Commission, may hold such hearings, sit and act at such time and places, take such testimony, and receive such evidence, as the Commission considers to be appropriate. The Commission or a member of the Commission may administer oaths or affirmations to witnesses appearing before the Commission or such member. “(b) Official Data.—The Commission may obtain directly from any executive agency (as defined in [section 105 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section105&num=0&edition=prelim) of the United States Code) or court information necessary to enable it to carry out its duties under this subtitle. On the request of the chairperson of the Commission, and consistent with any other law, the head of an executive agency or of a Federal court shall provide such information to the Commission. “(c) Facilities and Support Services.—The Administrator of General Services shall provide to the Commission on a reimbursable basis such facilities and support services as the Commission may request. On request of the Commission, the head of an executive agency may make any of the facilities or services of such agency available to the Commission, on a reimbursable or nonreimbursable basis, to assist the Commission in carrying out its duties under this subtitle. “(d) Expenditures and Contracts.—The Commission or, on authorization of the Commission, a member of the Commission may make expenditures and enter into contracts for the procurement of such supplies, services, and property as the Commission or such member considers to be appropriate for the purpose of carrying out the duties of the Commission. Such expenditures and contracts may be made only to such extent or in such amounts as are provided in advance in appropriation Acts. “(e) Mails.—The Commission may use the United States mails in the same manner and under the same conditions as other departments and agencies of the United States. “(f) Gifts, Bequests, and Devises.—The Commission may accept, use, and dispose of gifts, bequests, or devises of services or property, both real and personal, for the purpose of aiding or facilitating the work of the Commission. Gifts, bequests, or devises of money and proceeds from sales of other property received as gifts, bequests, or devises shall be deposited in the Treasury and shall be available for disbursement upon order of the Commission. “SEC. 11058. REPORT.“Not later than 3 years after the first meeting of the Commission, the Commission shall submit to Congress and the President a report containing a detailed statement of the findings and conclusions of the Commission, together with recommendations for legislative or administrative action the Commission considers to be appropriate. “SEC. 11059. TERMINATION OF COMMISSION.“The Commission shall cease to exist 60 days after the date on which the report required by section 11058 is submitted. “SEC. 11060. AUTHORIZATION OF APPROPRIATIONS.“There is authorized to be appropriated $4,000,000 to carry out this subtitle.”
@@ -199,6 +206,187 @@ A prior section 7 of act July 2, 1890, ch. 647, 26 Stat. 210, related to suits b
 ## § 7. “Person” or “persons” defined
 
 The word “person”, or “persons”, wherever used in sections 1 to 7 of this title shall be deemed to include corporations and associations existing under or authorized by the laws of either the United States, the laws of any of the Territories, the laws of any State, or the laws of any foreign country.
+
+
+<a id="section-7a"></a>
+## § 7a. Definitions
+
+In sections 7a to 7a–3 of this title:
+
+(1) **Antitrust division** — The term “Antitrust Division” means the United States Department of Justice Antitrust Division.
+
+(2) **Antitrust leniency agreement** — The term “antitrust leniency agreement,” or “agreement,” means a leniency letter agreement, whether conditional or final, between a person and the Antitrust Division pursuant to the Corporate Leniency Policy of the Antitrust Division in effect on the date of execution of the agreement.
+
+(3) **Antitrust leniency applicant** — The term “antitrust leniency applicant,” or “applicant,” means, with respect to an antitrust leniency agreement, the person that has entered into the agreement.
+
+(4) **Claimant** — The term “claimant” means a person or class, that has brought, or on whose behalf has been brought, a civil action alleging a violation of section 1 or 3 of this title or any similar State law, except that the term does not include a State or a subdivision of a State with respect to a civil action brought to recover damages sustained by the State or subdivision.
+
+(5) **Cooperating individual** — The term “cooperating individual” means, with respect to an antitrust leniency agreement, a current or former director, officer, or employee of the antitrust leniency applicant who is covered by the agreement.
+
+(6) **Person** — The term “person” has the meaning given it in subsection (a) of [section 12 of this title](./chapter-001-monopolies-and-combinations-in-restraint-of-trade.md#section-12).
+
+### Statutory Notes
+
+#### References in Text
+Sections 7a to 7a–3 of this title, referred to in text, was in the original “this subtitle”, meaning subtitle A (§§ 211–216) of title II of Pub. L. 108–237, June 22, 2004, 118 Stat. 666, which enacted this section and sections 7a–1 to 7a–3 of this title, amended sections 1, 2, and 3 of this title, and enacted provisions formerly set out in a note under [section 1 of this title](./chapter-001-monopolies-and-combinations-in-restraint-of-trade.md#section-1). For complete classification of subtitle A to the Code, see Tables.
+
+#### Codification
+Section was formerly set out in a note under [section 1 of this title](./chapter-001-monopolies-and-combinations-in-restraint-of-trade.md#section-1), prior to transfer to this section upon repeal of sunset provision.
+
+#### Amendments
+2020—Pars. (6), (7). Pub. L. 116–159 redesignated par. (7) as (6) and struck out former par. (6). Prior to amendment, text of par. (6) read as follows: “The term ‘marker’ means an assurance given by the Antitrust Division to a candidate for corporate leniency that no other company will be considered for leniency, for some finite period of time, while the candidate is given an opportunity to perfect its leniency application.”
+
+2010—Pars. (6), (7). Pub. L. 111–190 added par. (6) and redesignated former par. (6) as (7).
+
+#### Findings; Purpose of 2020 Amendment
+Pub. L. 116–159, div. D, title III, § 4302, Oct. 1, 2020, 134 Stat. 742, provided that: “(a) Findings.—Congress finds the following:“(1) Conspiracies among competitors to fix prices, rig bids, and allocate markets are categorically and irredeemably anticompetitive and contravene the competition policy of the United States. “(2) Cooperation incentives are important to the efforts of the Antitrust Division of the Department of Justice to prosecute and deter the offenses described in paragraph (1). “(b) Purpose.—The purpose of this Act [probably means title III of div. D (§ 4301 et seq.) of Pub. L. 116–159, see Tables for classification], and the amendments made by this Act, is to strengthen public and private antitrust enforcement by providing incentives for antitrust violators to cooperate fully with government prosecutors and private litigants through the repeal of the sunset provision of the Antitrust Criminal Penalty Enhancement and Reform Act of 2004 [section 211 of Pub. L. 108–237] ([former] [15 U.S.C. 1](./chapter-001-monopolies-and-combinations-in-restraint-of-trade.md#section-1) note).”
+
+#### Technical and Conforming Amendments
+Pub. L. 116–159, div. D, title III, § 4303(b)(1), Oct. 1, 2020, 134 Stat. 742, provided that: “(1) Revival and restoration.—“(A) In general.—Sections 212, 213, and 214 of the Antitrust Criminal Penalty Enhancement and Reform Act of 2004 [title II of Pub. L. 108–237] ([former] [15 U.S.C. 1](./chapter-001-monopolies-and-combinations-in-restraint-of-trade.md#section-1) note [now [15 U.S.C. 7a](./chapter-001-monopolies-and-combinations-in-restraint-of-trade.md#section-7a), 7a–1, 7a–2, respectively]) as in effect on June 21, 2020, and as amended by the laws described in subparagraph (B), are revived and restored. “(B) Laws.—The laws described in this subparagraph are:“(i) Antitrust Criminal Penalty Enhancement and Reform Act of 2004 Extension Act (Public Law 111–30; 123 Stat. 1775) [amending former section 211 of Pub. L. 108–237]. “(ii) The Act entitled ‘An Act to amend the Antitrust Criminal Penalty Enhancement and Reform Act of 2004 to extend the operation of such Act, and for other purposes’, approved June 9, 2010 (Public Law 111–90 [sic, probably should be “111–190”]; 124 Stat. 1275) [amending this section, sections 7a–1 and 7a–2 of this title, and former section 211 of Pub. L. 108–237].”
+
+#### Applicability of 2020 Amendment
+Pub. L. 116–159, div. D, title III, § 4303(c), Oct. 1, 2020, 134 Stat. 742, provided that: “(1) Markers and agreements before sunset.—Notwithstanding the repeal under subsection (a) [repealing section 211 of Pub. L. 108–237], section 211(b) of the Antitrust Criminal Penalty Enhancement and Reform Act of 2004 [Pub. L. 108–237] ([former] [15 U.S.C. 1](./chapter-001-monopolies-and-combinations-in-restraint-of-trade.md#section-1) note), as in effect on the day before the date of enactment of this Act [Oct. 1, 2020], shall continue to apply to any person who received a marker or entered into an antitrust leniency agreement on or before June 22, 2020. “(2) Markers and agreements after sunset.—The repeal under subsection (a) shall apply to any person who received a marker or entered into an antitrust leniency agreement on or after June 23, 2020.”
+
+
+<a id="section-7a-1"></a>
+## § 7a–1. Limitation on recovery
+**(a) In general** Subject to subsection (d), in any civil action alleging a violation of section 1 or 3 of this title, or alleging a violation of any similar State law, based on conduct covered by a currently effective antitrust leniency agreement, the amount of damages recovered by or on behalf of a claimant from an antitrust leniency applicant who satisfies the requirements of subsection (b), together with the amounts so recovered from cooperating individuals who satisfy such requirements, shall not exceed that portion of the actual damages sustained by such claimant which is attributable to the commerce done by the applicant in the goods or services affected by the violation.
+
+**(b) Requirements** Subject to subsection (c), an antitrust leniency applicant or cooperating individual satisfies the requirements of this subsection with respect to a civil action described in subsection (a) if the court in which the civil action is brought determines, after considering any appropriate pleadings from the claimant, that the applicant or cooperating individual, as the case may be, has provided satisfactory cooperation to the claimant with respect to the civil action, which cooperation shall include—
+
+(1) providing a full account to the claimant of all facts known to the applicant or cooperating individual, as the case may be, that are potentially relevant to the civil action;
+
+(2) furnishing all documents or other items potentially relevant to the civil action that are in the possession, custody, or control of the applicant or cooperating individual, as the case may be, wherever they are located; and
+
+(3)
+
+  (A) in the case of a cooperating individual—
+
+    (i) making himself or herself available for such interviews, depositions, or testimony in connection with the civil action as the claimant may reasonably require; and
+
+    (ii) responding completely and truthfully, without making any attempt either falsely to protect or falsely to implicate any person or entity, and without intentionally withholding any potentially relevant information, to all questions asked by the claimant in interviews, depositions, trials, or any other court proceedings in connection with the civil action; or
+
+  (B) in the case of an antitrust leniency applicant, using its best efforts to secure and facilitate from cooperating individuals covered by the agreement the cooperation described in clauses (i) and (ii) and subparagraph (A).
+
+**(c) Timeliness** The court shall consider, in making the determination concerning satisfactory cooperation described in subsection (b), the timeliness of the applicant’s or cooperating individual’s cooperation with the claimant.
+
+**(d) Cooperation after expiration of stay or protective order** If the Antitrust Division does obtain a stay or protective order in a civil action based on conduct covered by an antitrust leniency agreement, once the stay or protective order, or a portion thereof, expires or is terminated, the antitrust leniency applicant and cooperating individuals shall provide without unreasonable delay any cooperation described in paragraphs (1) and (2) of subsection (b) that was prohibited by the expired or terminated stay or protective order, or the expired or terminated portion thereof, in order for the cooperation to be deemed satisfactory under such paragraphs.
+
+**(e) Continuation** Nothing in this section shall be construed to modify, impair, or supersede the provisions of sections 15, 15a, and 15c of this title relating to the recovery of costs of suit, including a reasonable attorney’s fee, and interest on damages, to the extent that such recovery is authorized by such sections.
+
+### Statutory Notes
+
+#### Codification
+Section was formerly set out in a note under [section 1 of this title](./chapter-001-monopolies-and-combinations-in-restraint-of-trade.md#section-1), prior to transfer to this section upon repeal of sunset provision.
+
+#### Amendments
+2010—Subsec. (c). Pub. L. 111–190, § 3(a), amended subsec. (c) generally. Prior to amendment, text read as follows: “If the initial contact by the antitrust leniency applicant with the Antitrust Division regarding conduct covered by the antitrust leniency agreement occurs after a State, or subdivision of a State, has issued compulsory process in connection with an investigation of allegations of a violation of section 1 or 3 of this title or any similar State law based on conduct covered by the antitrust leniency agreement or after a civil action described in subsection (a) has been filed, then the court shall consider, in making the determination concerning satisfactory cooperation described in subsection (b), the timeliness of the applicant’s initial cooperation with the claimant.”
+
+Subsecs. (d), (e). Pub. L. 111–190, § 3(b), added subsec. (d) and redesignated former subsec. (d) as (e).
+
+
+<a id="section-7a-2"></a>
+## § 7a–2. Rights, authorities, and liabilities not affected
+
+Nothing in sections 7a to 7a–3 of this title shall be construed to—
+
+(1) affect the rights of the Antitrust Division to seek a stay or protective order in a civil action based on conduct covered by an antitrust leniency agreement to prevent the cooperation described in [section 7a–1(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section7a–1/b&num=0&edition=prelim) from impairing or impeding the investigation or prosecution by the Antitrust Division of conduct covered by the agreement;
+
+(2) create any right to challenge any decision by the Antitrust Division with respect to an antitrust leniency agreement; or
+
+(3) affect, in any way, the joint and several liability of any party to a civil action described in [section 7a–1(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section7a–1/a&num=0&edition=prelim), other than that of the antitrust leniency applicant and cooperating individuals as provided in [section 7a–1(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section7a–1/a&num=0&edition=prelim).”
+
+### Statutory Notes
+
+#### References in Text
+Sections 7a to 7a–3 of this title, referred to in text, was in the original “this subtitle”, meaning subtitle A (§§ 211–216) of title II of Pub. L. 108–237, June 22, 2004, 118 Stat. 666, which enacted this section and sections 7a, 7a–1, and 7a–3 of this title, amended sections 1, 2, and 3 of this title, and enacted provisions formerly set out in a note under [section 1 of this title](./chapter-001-monopolies-and-combinations-in-restraint-of-trade.md#section-1). For complete classification of subtitle A to the Code, see Tables.
+
+#### Codification
+Section was formerly set out in a note under [section 1 of this title](./chapter-001-monopolies-and-combinations-in-restraint-of-trade.md#section-1), prior to transfer to this section upon repeal of sunset provision.
+
+#### Amendments
+2010—Par. (1). Pub. L. 111–190, § 4(1), made technical amendment to reference in original act which appears in text as reference to [section 7a–1(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section7a–1/b&num=0&edition=prelim).
+
+Par. (3). Pub. L. 111–190, § 4(2), made technical amendment to references in original act which appear in two places in text as references to [section 7a–1(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section7a–1/a&num=0&edition=prelim).
+
+
+<a id="section-7a-3"></a>
+## § 7a–3. Anti-retaliation protection for whistleblowers
+**(a) Whistleblower protections for employees, contractors, subcontractors, and agents**
+
+(1) **In general** — No employer may discharge, demote, suspend, threaten, harass, or in any other manner discriminate against a covered individual in the terms and conditions of employment of the covered individual because of any lawful act done by the covered individual—
+
+  (A) to provide or cause to be provided to the Federal Government or a person with supervisory authority over the covered individual (or such other person working for the employer who has the authority to investigate, discover, or terminate misconduct) information relating to—
+
+    (i) any violation of, or any act or omission the covered individual reasonably believes to be a violation of, the antitrust laws; or
+
+    (ii) any violation of, or any act or omission the covered individual reasonably believes to be a violation of, another criminal law committed in conjunction with a potential violation of the antitrust laws or in conjunction with an investigation by the Department of Justice of a potential violation of the antitrust laws; or
+
+  (B) to cause to be filed, testify in, participate in, or otherwise assist a Federal Government investigation or a Federal Government proceeding filed or about to be filed (with any knowledge of the employer) relating to—
+
+    (i) any violation of, or any act or omission the covered individual reasonably believes to be a violation of, the antitrust laws; or
+
+    (ii) any violation of, or any act or omission the covered individual reasonably believes to be a violation of, another criminal law committed in conjunction with a potential violation of the antitrust laws or in conjunction with an investigation by the Department of Justice of a potential violation of the antitrust laws.
+
+(2) **Limitation on protections** — Paragraph (1) shall not apply to any covered individual if—
+
+  (A) the covered individual planned and initiated a violation or attempted violation of the antitrust laws;
+
+  (B) the covered individual planned and initiated a violation or attempted violation of another criminal law in conjunction with a violation or attempted violation of the antitrust laws; or
+
+  (C) the covered individual planned and initiated an obstruction or attempted obstruction of an investigation by the Department of Justice of a violation of the antitrust laws.
+
+(3) **Definitions** — In this section:
+
+  (A) *Antitrust laws* — The term “antitrust laws” means section 1 or 3 of this title.
+
+  (B) *Covered individual* — The term “covered individual” means an employee, contractor, subcontractor, or agent of an employer.
+
+  (C) *Employer* — The term “employer” means a person, or any officer, employee, contractor, subcontractor, or agent of such person.
+
+  (D) *Federal Government* — The term “Federal Government” means—
+
+    (i) a Federal regulatory or law enforcement agency; or
+
+    (ii) any Member of Congress or committee of Congress.
+
+  (E) *Person* — The term “person” has the same meaning as in subsection (a) of [section 12 of this title](./chapter-001-monopolies-and-combinations-in-restraint-of-trade.md#section-12).
+
+(4) **Rule of construction** — The term “violation”, with respect to the antitrust laws, shall not be construed to include a civil violation of any law that is not also a criminal violation.
+
+**(b) Enforcement action**
+
+(1) **In general** — A covered individual who alleges discharge or other discrimination by any employer in violation of subsection (a) may seek relief under subsection (c) by—
+
+  (A) filing a complaint with the Secretary of Labor; or
+
+  (B) if the Secretary of Labor has not issued a final decision within 180 days of the filing of the complaint and there is no showing that such delay is due to the bad faith of the claimant, bringing an action at law or equity for de novo review in the appropriate district court of the United States, which shall have jurisdiction over such an action without regard to the amount in controversy.
+
+(2) **Procedure**
+
+  (A) *In general* — A complaint filed with the Secretary of Labor under paragraph (1)(A) shall be governed under the rules and procedures set forth in [section 42121(b) of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section42121/b&num=0&edition=prelim).
+
+  (B) *Exception* — Notification made under [section 42121(b)(1) of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section42121/b/1&num=0&edition=prelim) shall be made to any individual named in the complaint and to the employer.
+
+  (C) *Burdens of proof* — An action brought under paragraph (1)(B) shall be governed by the legal burdens of proof set forth in [section 42121(b) of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section42121/b&num=0&edition=prelim).
+
+  (D) *Statute of limitations* — A complaint under paragraph (1)(A) shall be filed with the Secretary of Labor not later than 180 days after the date on which the violation occurs.
+
+  (E) *Civil actions to enforce* — If a person fails to comply with an order or preliminary order issued by the Secretary of Labor pursuant to the procedures set forth in [section 42121(b) of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section42121/b&num=0&edition=prelim), the Secretary of Labor or the person on whose behalf the order was issued may bring a civil action to enforce the order in the district court of the United States for the judicial district in which the violation occurred.
+
+**(c) Remedies**
+
+(1) **In general** — A covered individual prevailing in any action under subsection (b)(1) shall be entitled to all relief necessary to make the covered individual whole.
+
+(2) **Compensatory damages** — Relief for any action under paragraph (1) shall include—
+
+  (A) reinstatement with the same seniority status that the covered individual would have had, but for the discrimination;
+
+  (B) the amount of back pay, with interest; and
+
+  (C) compensation for any special damages sustained as a result of the discrimination including litigation costs, expert witness fees, and reasonable attorney’s fees.
+
+**(d) Rights retained by whistleblowers** Nothing in this section shall be deemed to diminish the rights, privileges, or remedies of any covered individual under any Federal or State law, or under any collective bargaining agreement.
 
 
 <a id="section-8"></a>

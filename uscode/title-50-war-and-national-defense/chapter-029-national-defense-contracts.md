@@ -9,11 +9,13 @@ source: >-
 <a id="section-1431"></a>
 ## § 1431. Authorization; official approval; Congressional action: notification of committees of certain proposed obligations, resolution of disapproval, continuity of session, computation of period
 
-The President may authorize any department or agency of the Government which exercises functions in connection with the national defense, acting in accordance with regulations prescribed by the President for the protection of the Government, to enter into contracts or into amendments or modifications of contracts heretofore or hereafter made and to make advance payments thereon, without regard to other provisions of law relating to the making, performance, amendment, or modification of contracts, whenever he deems that such action would facilitate the national defense. The authority conferred by this section shall not be utilized to obligate the United States in an amount in excess of $50,000 without approval by an official at or above the level of an Assistant Secretary or his Deputy, or an assistant head or his deputy, of such department or agency, or by a Contract Adjustment Board established therein. The authority conferred by this section may not be utilized to obligate the United States in any amount in excess of $25,000,000 unless the Committees on Armed Services of the Senate and the House of Representatives have been notified in writing of such proposed obligation and 60 days of continuous session of Congress have expired following the date on which such notice was transmitted to such Committees. For purposes of this section, the continuity of a session of Congress is broken only by an adjournment of the Congress sine die at the end of a Congress, and the days on which either House is not in session because of an adjournment of more than 3 days to a day certain, or because of an adjournment sine die other than at the end of a Congress, are excluded in the computation of such 60-day period.
+The President may authorize any department or agency of the Government which exercises functions in connection with the national defense, acting in accordance with regulations prescribed by the President for the protection of the Government, to enter into contracts or into amendments or modifications of contracts heretofore or hereafter made and to make advance payments thereon, without regard to other provisions of law relating to the making, performance, amendment, or modification of contracts, whenever he deems that such action would facilitate the national defense. The authority conferred by this section shall not be utilized to obligate the United States in an amount in excess of $50,000 without approval by an official at or above the level of an Assistant Secretary or his Deputy, or an assistant head or his deputy, of such department or agency, or by a Contract Adjustment Board established therein. The authority conferred by this section may not be utilized to obligate the United States in any amount in excess of $25,000,000 unless the Committees on Armed Services of the Senate and the House of Representatives and in addition, the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate with respect to contracts, or modifications or amendments to contracts, or advance payments proposed to be made under this section by the Secretary of the Department in which the Coast Guard is operating with respect to the acquisition of Coast Guard cutters or aircraft, have been notified in writing of such proposed obligation and 60 days of continuous session of Congress have expired following the date on which such notice was transmitted to such Committees. For purposes of this section, the continuity of a session of Congress is broken only by an adjournment of the Congress sine die at the end of a Congress, and the days on which either House is not in session because of an adjournment of more than 3 days to a day certain, or because of an adjournment sine die other than at the end of a Congress, are excluded in the computation of such 60-day period.
 
 ### Statutory Notes
 
 #### Amendments
+2019—Pub. L. 116–92, in third sentence, inserted “and in addition, the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate with respect to contracts, or modifications or amendments to contracts, or advance payments proposed to be made under this section by the Secretary of the Department in which the Coast Guard is operating with respect to the acquisition of Coast Guard cutters or aircraft,” after “House of Representatives”.
+
 1991—Pub. L. 102–25, § 705(f)(1), inserted before period at end of third sentence “and 60 days of continuous session of Congress have expired following the date on which such notice was transmitted to such Committees”.
 
 Pub. L. 102–25, § 705(f)(2), in fourth sentence, inserted “at the end of a Congress” after “sine die” and “, or because of an adjournment sine die other than at the end of a Congress,” after “to a day certain”.
@@ -150,6 +152,35 @@ Department of Homeland Security.
 (a) in the case of the Department of Defense, the Secretary of Defense has, after consideration of the authority provided under subtitle G of title VIII of the Homeland Security Act of 2002 [[6 U.S.C. 441](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section441&num=0&edition=prelim) et seq.], determined that the exercise of authority under this order is necessary for the timely and effective conduct of United States military or intelligence activities; and
 
 (b) in the case of any other executive department or agency that has authority under this order, (i) the Secretary of Homeland Security has advised whether the use of the authority provided under subtitle G of title VIII of the Homeland Security Act of 2002 would be appropriate, and (ii) the Director of the Office and Management and Budget has approved the exercise of authority under this order.
+
+#### Authorizing the Exercise of Authority Under Public Law 85–804
+Memorandum of President of the United States, Apr. 10, 2020, 85 F.R. 21735, provided:
+
+Memorandum for the Secretary of Veterans Affairs
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, I hereby direct the following:
+
+Section 1. On March 13, 2020, I declared a national emergency recognizing the threat that the ongoing outbreak of COVID–19, the disease caused by the novel (new) coronavirus known as SARS–CoV–2 (“the virus”), poses to the Nation’s healthcare systems. I also determined on the same day that the COVID–19 outbreak constitutes an emergency, of nationwide scope, pursuant to section 501(b) of the Robert T. Stafford Disaster Relief and Emergency Assistance Act ([42 U.S.C. 5191(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5191/b&num=0&edition=prelim)). On March 18, 2020, I declared that health and medical resources needed to respond to the spread of COVID–19 meet the criteria specified in section 101(b) of the Defense Production Act of 1950 ([50 U.S.C. 4511(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4511/b&num=0&edition=prelim)), including that they are essential to the national defense.
+
+Sec. 2. The Secretary of Veterans Affairs is authorized to exercise authority under Public Law 85–804, as amended ([50 U.S.C. 1431](./chapter-029-national-defense-contracts.md#section-1431) et seq.), to the same extent and subject to the same conditions and limitations as the head of an executive department or agency listed in section 21 of Executive Order 10789 of November 14, 1958 (Authorizing Agencies of the Government to Exercise Certain Contracting Authority in Connection with National-Defense Functions and Prescribing Regulations Governing the Exercise of Such Authority) [[50 U.S.C. 1431](./chapter-029-national-defense-contracts.md#section-1431) note], as amended, with respect to contracts performed in support of efforts by the Department of Veterans Affairs to combat the virus. This authority may only be exercised with regard to transactions directly responsive to the COVID–19 national emergency.
+
+Sec. 3. The Department of Veterans Affairs is exercising functions in connection with the national defense in the course of contributing to the Nation’s response to the ongoing outbreak of COVID–19. I deem that the authorization provided in this memorandum and actions taken pursuant to that authorization would facilitate the national defense.
+
+Sec. 4. This memorandum shall terminate on September 30, 2020.
+
+Sec. 5. (a) Nothing in this memorandum shall be construed to impair or otherwise affect:
+
+(i) the authority granted by law to an executive department or agency, or the head thereof; or
+
+(ii) the functions of the Director of the Office of Management and Budget relating to budgetary, administrative, or legislative proposals.
+
+(b) This memorandum shall be implemented consistent with applicable law and subject to the availability of appropriations.
+
+(c) This memorandum is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+
+Sec. 6. You are authorized and directed to publish this memorandum in the Federal Register.
+
+Donald J. Trump.
 
 
 <a id="section-1432"></a>

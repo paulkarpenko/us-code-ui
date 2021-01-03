@@ -179,7 +179,7 @@ Amendment by section 1702(c)(3) of Pub. L. 104–188 effective, except as otherw
 Amendment by Pub. L. 103–465 effective Jan. 1, 1995, see section 712(e) of Pub. L. 103–465, set out as a note under [section 5061 of this title](./chapter-051-distilled-spirits-wines-and-beer.md#section-5061).
 
 #### Effective Date of 1993 Amendments
-Pub. L. 103–182, title V, § 523(b)(1), Dec. 8, 1993, 107 Stat. 2163, provided that: “The amendments made by this section [amending this section] shall take effect on the date the Agreement [North American Free Trade Agreement] enters into force with respect to the United States [Jan. 1, 1994].”
+Pub. L. 103–182, title V, § 523(b)(1), Dec. 8, 1993, 107 Stat. 2163, which provided that the amendments made by section 523 of Pub. L. 103–182 took effect on the date the North American Free Trade Agreement entered into force with respect to the United States (Jan. 1, 1994), was repealed by Pub. L. 116–113, title VI, § 601, Jan. 29, 2020, 134 Stat. 78, effective on the date the USMCA entered into force (July 1, 2020).
 
 Amendment by Pub. L. 103–66 effective Jan. 1, 1994, see section 13242(e) of Pub. L. 103–66, set out as a note under [section 4041 of this title](./chapter-031-retail-excise-taxes.md#section-4041).
 
@@ -213,7 +213,7 @@ Amendment by Pub. L. 95–600 effective with respect to remuneration paid after 
 Pub. L. 95–147, § 3(c), Oct. 28, 1977, 91 Stat. 1228, provided that: “The amendments made by this section [amending this section and [section 7502 of this title](./chapter-077-miscellaneous-provisions.md#section-7502)] shall apply to amounts deposited after the date of the enactment of this Act [Oct. 28, 1977].”
 
 #### Regulations
-Pub. L. 103–182, title V, § 523(b)(2), Dec. 8, 1993, 107 Stat. 2163, provided that: “Not later than 210 days after the date of enactment of this Act [Dec. 8, 1993], the Secretary of the Treasury or his delegate shall prescribe temporary regulations under section 6302(h) of the Internal Revenue Code of 1986 (as added by this section).”
+Pub. L. 103–182, title V, § 523(b)(2), Dec. 8, 1993, 107 Stat. 2163, which required temporary regulations under subsec. (h) of this section to be prescribed no later than 210 days after Dec. 8, 1993, was repealed by Pub. L. 116–113, title VI, § 601, Jan. 29, 2020, 134 Stat. 78, effective on the date the USMCA entered into force (July 1, 2020).
 
 #### Savings Provision
 For provisions that nothing in amendment by section 11801(c)(22)(A) of Pub. L. 101–508 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under [section 45K of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-45k).
@@ -358,7 +358,7 @@ Section effective Aug. 1, 1975, see section 101(f) of Pub. L. 93–647, set out 
 
     (i) at any time after assessment, the Internal Revenue Service removes such receivable from the active inventory for lack of resources or inability to locate the taxpayer,
 
-    (ii) more than ⅓ of the period of the applicable statute of limitation has lapsed and such receivable has not been assigned for collection to any employee of the Internal Revenue Service, or
+    (ii) more than 2 years has passed since assessment and such receivable has not been assigned for collection to any employee of the Internal Revenue Service, or
 
     (iii) in the case of a receivable which has been assigned for collection, more than 365 days have passed without interaction with the taxpayer or a third party for purposes of furthering the collection of such receivable.
 
@@ -376,9 +376,13 @@ Section effective Aug. 1, 1975, see section 101(f) of Pub. L. 93–647, set out 
 
   (B) under the age of 18,
 
-  (C) in a designated combat zone, or
+  (C) in a designated combat zone,
 
   (D) a victim of tax-related identity theft,
+
+  (E) a taxpayer substantially all of whose income consists of disability insurance benefits under section 223 of the Social Security Act or supplemental security income benefits under title XVI of the Social Security Act (including supplemental security income benefits of the type described in section 1616 of such Act or section 212 of Public Law 93–66), or
+
+  (F) a taxpayer who is an individual with adjusted gross income, as determined for the most recent taxable year for which such information is available, which does not exceed 200 percent of the applicable poverty level (as determined by the Secretary),
 
 (4) is currently under examination, litigation, criminal investigation, or levy, or
 
@@ -431,20 +435,11 @@ The Secretary shall keep adequate records regarding amounts so retained and used
 
 ### Statutory Notes
 
-#### Amendment of Section
-Pub. L. 116–25, title I, § 1205(a), (b), (e), July 1, 2019, 133 Stat. 989, applicable to tax receivables identified by the Secretary (or the Secretary’s delegate) after Dec. 31, 2020, amended this section as follows:
-
-(1) in subsection (c)(2)(A)(ii), by striking “more than ⅓ of the period of the applicable statute of limitation has lapsed” and inserting “more than 2 years has passed since assessment”; and
-
-(2) in subsection (d)(3), by striking “or” at the end of subparagraph (C) and by inserting after subparagraph (D) the following new subparagraphs:
-
-“(E) a taxpayer substantially all of whose income consists of disability insurance benefits under section 223 of the Social Security Act or supplemental security income benefits under title XVI of the Social Security Act (including supplemental security income benefits of the type described in section 1616 of such Act or section 212 of Public Law 93–66), or
-
-“(F) a taxpayer who is an individual with adjusted gross income, as determined for the most recent taxable year for which such information is available, which does not exceed 200 percent of the applicable poverty level (as determined by the Secretary),”.
-
-See 2019 Amendment notes below.
-
 #### References in Text
+The Social Security Act, referred to in subsec. (d)(3)(E), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Title XVI of the Act is classified generally to subchapter XVI (§ 1381 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. Sections 223 and 1616 of the Act are classified to sections 423 and 1382e, respectively, of Title 42. For complete classification of this Act to the Code, see [section 1305 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1305&num=0&edition=prelim) and Tables.
+
+Section 212 of Public Law 93–66, referred to in subsec. (d)(3)(E), is set out as a note under [section 1382 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1382&num=0&edition=prelim), The Public Health and Welfare.
+
 The Fair Debt Collection Practices Act, referred to in subsec. (e), is title VIII of Pub. L. 90–321, as added by Pub. L. 95–109, Sept. 20, 1977, 91 Stat. 874, as amended, which is classified generally to subchapter V (§ 1692 et seq.) of chapter 41 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under [section 1601 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1601&num=0&edition=prelim) and Tables.
 
 #### Amendments

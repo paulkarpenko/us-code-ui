@@ -88,7 +88,7 @@ Pub. L. 99–234, § 1, Jan. 2, 1986, 99 Stat. 1756, provided that: “This Act 
 Pub. L. 94–22, § 1, May 19, 1975, 89 Stat. 84, provided: “That this Act [see Tables for classification] may be cited as the ‘Travel Expense Amendments Act of 1975’.”
 
 #### Construction
-Pub. L. 112–194, § 6, Oct. 5, 2012, 126 Stat. 1451, provided that: “(a) Executive Agency Accounting.—Nothing in this Act [see Short Title of 2012 Amendment note set out under [section 101 of Title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section101&num=0&edition=prelim), Public Contracts], or the amendments made by this Act, shall be construed to excuse the head of an executive agency from the responsibilities set out in [section 3512 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section3512&num=0&edition=prelim), United States Code, or in the Improper Payments Information Act of 2002 [Pub. L. 107–300] ([31 U.S.C. 3321](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section3321&num=0&edition=prelim) note). “(b) Personal Information.—Nothing in this Act, or the amendments made by this Act, shall be construed to require the disclosure of personally identifying information that is otherwise protected from disclosure under [section 552a of title 5](./chapter-005-administrative-procedure.md#section-552a), United States Code (popularly known as the Privacy Act of 1974).”
+Pub. L. 112–194, § 6, Oct. 5, 2012, 126 Stat. 1451, as amended by Pub. L. 116–117, § 3(b)(1), Mar. 2, 2020, 134 Stat. 133, provided that: “(a) Executive Agency Accounting.—Nothing in this Act [see Short Title of 2012 Amendment note set out under [section 101 of Title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section101&num=0&edition=prelim), Public Contracts], or the amendments made by this Act, shall be construed to excuse the head of an executive agency from the responsibilities set out in section 3512 or subchapter IV of chapter 33 of title 31, United States Code. “(b) Personal Information.—Nothing in this Act, or the amendments made by this Act, shall be construed to require the disclosure of personally identifying information that is otherwise protected from disclosure under [section 552a of title 5](./chapter-005-administrative-procedure.md#section-552a), United States Code (popularly known as the Privacy Act of 1974).”
 
 [For definition of “executive agency” as used in section 6 of Pub. L. 112–194, set out above, see section 5 of Pub. L. 112–194, set out below.]
 
@@ -225,19 +225,19 @@ Amendment by Pub. L. 99–234 effective (1) on effective date of regulations to 
 #### Effective Date of 1979 Amendment
 Amendment by Pub. L. 96–54 effective July 12, 1979, see section 2(b) of Pub. L. 96–54, set out as a note under [section 305 of this title](./chapter-003-powers.md#section-305).
 
-#### Delegation of Functions
-Authority of President under subsec. (a) of this section to establish maximum rates of per diem allowances to extent that such authority pertains to travel status of employees while enroute to, from, or between localities situated outside 48 contiguous States of United States and District of Columbia delegated to Administrator of General Services, see section 1(2) of Ex. Ord. No. 11609, July 22, 1971, 36 F.R. 13747, set out as a note under [section 301 of Title 3](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title3-section301&num=0&edition=prelim), The President.
-
-Authority of President under subsec. (a) of this section to establish maximum rates of per diem allowances and reimbursements for actual and necessary expenses of official travel for employees of Government to extent that such authority pertains to travel status in localities in Alaska, Hawaii, the Commonwealth of Puerto Rico, and possessions of United States delegated to Secretary of Defense, see section 1(h) of Ex. Ord. No. 10621, set out as a note under [section 301 of Title 3](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title3-section301&num=0&edition=prelim).
-
 #### Retention of Travel Promotional Items
-Pub. L. 107–107, div. A, title XI, § 1116, Dec. 28, 2001, 115 Stat. 1241, provided that: “(a) Definition.—In this section, the term ‘agency’ has the meaning given that term under [section 5701 of title 5](./chapter-057-travel-transportation-and-subsistence.md#section-5701), United States Code. “(b) Retention of Travel Promotional Items.—To the extent provided under subsection (c), a Federal employee, member of the Foreign Service, member of a uniformed service, any family member or dependent of such an employee or member, or other individual who receives a promotional item (including frequent flyer miles, upgrade, or access to carrier clubs or facilities) as a result of using travel or transportation services obtained at Federal Government expense or accepted under [section 1353 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1353&num=0&edition=prelim), United States Code, may retain the promotional item for personal use if the promotional item is obtained under the same terms as those offered to the general public and at no additional cost to the Federal Government. “(c) Limitation.—Subsection (b)—“(1) applies only to travel that—“(A) is at the expense of an agency; or “(B) is accepted by an agency under [section 1353 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1353&num=0&edition=prelim), United States Code; and “(2) does not apply to travel by any officer, employee, or other official of the Government who is not in or under any agency. “(d) Regulatory Authority.—Any agency with authority to prescribe regulations governing the acquisition, acceptance, use, or disposal of any travel or transportation services obtained at Government expense or accepted under [section 1353 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1353&num=0&edition=prelim), United States Code, may prescribe regulations to carry out subsection (b) with respect to those travel or transportation services. “(e) Repeal of Superseded Law.— [Repealed section 6008 of Pub. L. 103–355, formerly set out as a note below.] “(f) Applicability.—This section shall apply with respect to promotional items received before, on, or after the date of enactment of this Act [Dec. 28, 2001].”
+Pub. L. 107–107, div. A, title XI, § 1116, Dec. 28, 2001, 115 Stat. 1241, as amended by Pub. L. 116–92, div. A, title VI, § 606(c), Dec. 20, 2019, 133 Stat. 1425, provided that: “(a) Definitions.—In this section:“(1) The term ‘agency’ has the meaning given that term under [section 5701 of title 5](./chapter-057-travel-transportation-and-subsistence.md#section-5701), United States Code. “(2) The term ‘general public’ includes the Federal Government or an agency. “(b) Retention of Travel Promotional Items.—To the extent provided under subsection (c), a Federal employee, member of the Foreign Service, member of a uniformed service, any family member or dependent of such an employee or member, or other individual who receives a promotional item (including frequent flyer miles, upgrade, or access to carrier clubs or facilities) as a result of using travel or transportation services obtained at Federal Government expense or accepted under [section 1353 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1353&num=0&edition=prelim), United States Code, may retain the promotional item for personal use if the promotional item is obtained under the same terms as those offered to the general public and at no additional cost to the Federal Government. “(c) Limitation.—Subsection (b)—“(1) applies only to travel that—“(A) is at the expense of an agency; or “(B) is accepted by an agency under [section 1353 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1353&num=0&edition=prelim), United States Code; and “(2) does not apply to travel by any officer, employee, or other official of the Government who is not in or under any agency. “(d) Regulatory Authority.—Any agency with authority to prescribe regulations governing the acquisition, acceptance, use, or disposal of any travel or transportation services obtained at Government expense or accepted under [section 1353 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1353&num=0&edition=prelim), United States Code, may prescribe regulations to carry out subsection (b) with respect to those travel or transportation services. “(e) Repeal of Superseded Law.— [Repealed section 6008 of Pub. L. 103–355, formerly set out as a note below.] “(f) Applicability.—This section shall apply with respect to promotional items received before, on, or after the date of enactment of this Act [Dec. 28, 2001].”
 
 #### Cost Savings for Official Travel
 Pub. L. 103–355, title VI, § 6008, Oct. 13, 1994, 108 Stat. 3367, related to maximizing practicable cost savings for official travel through use of frequent traveler programs, prior to repeal by Pub. L. 107–107, div. A, title XI, § 1116(e), Dec. 28, 2001, 115 Stat. 1241.
 
 #### Reports to Congress of Per Diem and Mileage Allowance Payments for Fiscal Years 1979 Through 1981; Rules and Regulations
-Section 3 of Pub. L. 96–346, for fiscal years 1979 to 1981, directed the Administrator of General Services to collect by fiscal year information with respect to agencies spending more than $5,000,000 annually on transportation of people, identifying general causes and purposes of travel and estimates of total payments, average cost and duration of trip, and identifying by specific agency of travel practices which appear to be inefficient and recommendations to Congress on the applicability of alternatives to travel as well as other techniques to improve use of travel in carrying out program objectives relating travel to mission.
+Pub. L. 96–346, § 3, Sept. 10, 1980, 94 Stat. 1148, for fiscal years 1979 to 1981, directed the Administrator of General Services to collect by fiscal year information with respect to agencies spending more than $5,000,000 annually on transportation of people, identifying general causes and purposes of travel and estimates of total payments, average cost and duration of trip, and identifying by specific agency of travel practices which appear to be inefficient and recommendations to Congress on the applicability of alternatives to travel as well as other techniques to improve use of travel in carrying out program objectives relating travel to mission.
+
+#### Delegation of Functions
+Authority of President under subsec. (a) of this section to establish maximum rates of per diem allowances to extent that such authority pertains to travel status of employees while enroute to, from, or between localities situated outside 48 contiguous States of United States and District of Columbia delegated to Administrator of General Services, see section 1(2) of Ex. Ord. No. 11609, July 22, 1971, 36 F.R. 13747, set out as a note under [section 301 of Title 3](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title3-section301&num=0&edition=prelim), The President.
+
+Authority of President under subsec. (a) of this section to establish maximum rates of per diem allowances and reimbursements for actual and necessary expenses of official travel for employees of Government to extent that such authority pertains to travel status in localities in Alaska, Hawaii, the Commonwealth of Puerto Rico, and possessions of United States delegated to Secretary of Defense, see section 1(h) of Ex. Ord. No. 10621, set out as a note under [section 301 of Title 3](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title3-section301&num=0&edition=prelim).
 
 #### Ex. Ord. No. 12561. Delegation of Functions Re­lating to Travel Outside Continental United States
 Ex. Ord. No. 12561, July 1, 1986, 51 F.R. 24299, provided:
@@ -675,7 +675,7 @@ The date of the enactment of the Travel and Transportation Reform Act of 1998, r
 
 
 <a id="section-5711"></a>
-## § 5711. Authority for telework travel expenses test programs
+## § 5711. Authority for telework travel expenses programs
 **(a)** Except as provided under subsection (f)(1), in this section, the term “appropriate committees of Congress” means—
 
 (1) the Committee on Homeland Security and Governmental Affairs of the Senate; and
@@ -712,17 +712,17 @@ The date of the enactment of the Travel and Transportation Reform Act of 1998, r
 
 **(f)**
 
-(1) In this subsection, the term “appropriate committee of Congress” means—
+(1) In this subsection, the term “appropriate committees of Congress” means—
 
   (A) the Committee on Homeland Security and Governmental Affairs of the Senate;
 
-  (B) the Committee on Oversight and Government Reform of the House of Representatives;
+  (B) the Committee on Oversight and Reform of the House of Representatives;
 
   (C) the Committee on the Judiciary of the Senate; and
 
   (D) the Committee on the Judiciary of the House of Representatives.
 
-(2) The Patent and Trademark Office shall conduct a test program under this section, including the provision of reports in accordance with subsection (d)(1).
+(2) The Patent and Trademark Office shall conduct a program under this subsection.
 
 (3) In conducting the program under this subsection, the Patent and Trademark Office may pay any travel expenses of an employee for travel to and from a Patent and Trademark Office worksite or provide an employee with the option to waive any payment authorized or required under this subchapter, if—
 
@@ -736,7 +736,7 @@ The date of the enactment of the Travel and Transportation Reform Act of 1998, r
 
   (A) The Patent and Trademark Office shall establish an oversight committee comprising an equal number of members representing management and labor, including representatives from each collective bargaining unit.
 
-  (B) The oversight committee shall develop the operating procedures for the program under this subsection to—
+  (B) The oversight committee shall develop and maintain the operating procedures for the program under this subsection to—
 
     (i) provide for the effective and appropriate functioning of the program; and
 
@@ -750,21 +750,43 @@ The date of the enactment of the Travel and Transportation Reform Act of 1998, r
 
 (5)
 
-  (A) The test program under this subsection shall be designed to enhance cost savings or other efficiencies that accrue to the Government.
+  (A) The program under this subsection shall be designed to enhance cost savings or other efficiencies that accrue to the Government.
 
-  (B) The Director of the Patent and Trademark Office shall—
+  (B) The Director of the Patent and Trademark Office shall prepare and submit to the appropriate committees of Congress an annual report on the operation of the program under this subsection, which shall include—
 
-    (i) prepare an analysis of the expected costs and benefits and a set of criteria for evaluating the effectiveness of the program; and
+    (i) the costs and benefits of the program; and
 
-    (ii) before the test program is implemented, submit the analysis and criteria to the Administrator of General Services and to the appropriate committees of Congress.
+    (ii) an analysis of the effectiveness of the program, as determined under criteria developed by the Director.
 
   (C) With respect to an employee of the Patent and Trademark Office who voluntarily relocates from the pre-existing duty station of that employee, the operating procedures of the program may include a reasonable maximum number of occasional visits to the pre-existing duty station before that employee is eligible for payment of any accrued travel expenses by the Office.
 
-**(g)** The authority to conduct test programs under this section shall expire on December 31, 2020.
+**(g)** The authority to conduct test programs under subsection (b) shall expire on December 31, 2020.
 
 ### Statutory Notes
 
 #### Amendments
+2021—Pub. L. 116–283, § 1112(a)(1), struck out “test” before “programs” in section catchline.
+
+Subsec. (f)(1). Pub. L. 116–283, § 1112(a)(2)(A)(i), substituted “appropriate committees” for “appropriate committee” in introductory provisions.
+
+Subsec. (f)(1)(B). Pub. L. 116–283, § 1112(a)(2)(A)(ii), struck out “Government” before “Reform”.
+
+Subsec. (f)(2). Pub. L. 116–283, § 1112(a)(2)(B), struck out “test” before “program” and substituted “subsection” for “section, including the provision of reports in accordance with subsection (d)(1)”.
+
+Subsec. (f)(4)(B). Pub. L. 116–283, § 1112(a)(2)(C), inserted “and maintain” after “develop” in introductory provisions.
+
+Subsec. (f)(5)(A). Pub. L. 116–283, § 1112(a)(2)(D)(i), struck out “test” before “program”.
+
+Subsec. (f)(5)(B). Pub. L. 116–283, § 1112(a)(2)(D)(ii), added subpar. (B) and struck out former subpar. (B) which read as follows:
+
+“(B) The Director of the Patent and Trademark Office shall—
+
+“(i) prepare an analysis of the expected costs and benefits and a set of criteria for evaluating the effectiveness of the program; and
+
+“(ii) before the test program is implemented, submit the analysis and criteria to the Administrator of General Services and to the appropriate committees of Congress.”
+
+Subsec. (g). Pub. L. 116–283, § 1112(a)(3), substituted “subsection (b)” for “this section”.
+
 2018—Subsec. (g). Pub. L. 115–232 substituted “on December 31, 2020” for “7 years after the date of the enactment of the Telework Enhancement Act of 2010”.
 
 #### Change of Name
@@ -1309,20 +1331,31 @@ Amendments by Pub. L. 98–151 to be carried out be agencies by use of funds app
 
 
 <a id="section-5724b"></a>
-## § 5724b. Taxes on reimbursements for travel, transportation, and relocation expenses of employees transferred
-**(a)** Under regulations prescribed under [section 5738 of this title](./chapter-057-travel-transportation-and-subsistence.md#section-5738) and to the extent considered necessary and appropriate, as provided therein, appropriations or other funds available to an agency for administrative expenses are available for the reimbursement of substantially all of the Federal, State, and local income taxes incurred by an employee, or by an employee and such employee’s spouse (if filing jointly), for any moving or storage expenses furnished in kind, or for which reimbursement or an allowance is provided (but only to the extent of the expenses paid or incurred). Reimbursements under this subsection shall also include an amount equal to all income taxes for which the employee and spouse, as the case may be,11 See Codification note below. would be liable due to the reimbursement for the taxes referred to in the first sentence of this subsection.
+## § 5724b. Taxes on reimbursements for travel, transportation, and relocation expenses
+**(a)** Under regulations prescribed under [section 5738 of this title](./chapter-057-travel-transportation-and-subsistence.md#section-5738) and to the extent considered necessary and appropriate, as provided therein, appropriations or other funds available to an agency for administrative expenses are available for the reimbursement of substantially all of the Federal, State, and local income taxes incurred by an individual, or by an individual and such individual’s spouse (if filing jointly), for any travel, transportation, or relocation expenses furnished in kind, or for which reimbursement or an allowance is provided (but only to the extent of the expenses paid or incurred). Reimbursements under this subsection shall also include an amount equal to all income taxes for which the individual, or the individual and spouse, as the case may be, would be liable due to the reimbursement for the taxes referred to in the first sentence of this subsection.
 
-**(b)** For the purposes of this section, “moving or storage expenses” means travel and transportation expenses (including storage of household goods and personal effects under [section 5724 of this title](./chapter-057-travel-transportation-and-subsistence.md#section-5724)) and other relocation expenses under sections 5724a and 5724c of this title.
+**(b)** For purposes of this section, the term “travel, transportation, or relocation expenses” means all travel, transportation, and relocation expenses reimbursed or furnished in kind pursuant to this subchapter or chapter 41
 
 ### Statutory Notes
 
-#### Codification
-Prior to amendment by Pub. L. 98–473, the words “as the case may be” were preceded by “the employee, or the employee and spouse,”.
-
 #### Amendments
+2021—Subsec. (b). Pub. L. 116–283 substituted “and relocation expenses reimbursed” for “or relocation expenses reimbursed” and “or chapter 41” for “of chapter 41”.
+
+2019—Pub. L. 116–92, § 1114(a)(1), struck out “of employees transferred” after “relocation expenses” in section catchline.
+
+Subsec. (a). Pub. L. 116–92, § 1114(a)(2), substituted “individual, or by an individual and such individual’s spouse (if filing jointly), for any travel, transportation, or relocation” for “employee, or by an employee and such employee’s spouse (if filing jointly), for any moving or storage” and “individual, or the individual” for “employee”.
+
+Subsec. (b). Pub. L. 116–92, § 1114(a)(3), added subsec. (b) and struck out former subsec. (b) which read as follows: “For the purposes of this section, ‘moving or storage expenses’ means travel and transportation expenses (including storage of household goods and personal effects under [section 5724 of this title](./chapter-057-travel-transportation-and-subsistence.md#section-5724)) and other relocation expenses under sections 5724a and 5724c of this title.”
+
 1996—Subsec. (a). Pub. L. 104–201 substituted “Under regulations prescribed under [section 5738 of this title](./chapter-057-travel-transportation-and-subsistence.md#section-5738)” for “Under such regulations as the President may prescribe”.
 
 1984—Pub. L. 98–473 amended section generally, substituting “reimbursement of substantially all of the Federal, State, and local income taxes” for “reimbursement of all or part of the Federal, State, and city income taxes” and “for which the employee and spouse, as the case may be” for “for which the employee, or the employee and spouse, as the case may be” in subsec. (a) and “5724c” for “5726(c)” in subsec. (b).
+
+#### Retroactive Effective Date of 2021 Amendment
+Pub. L. 116–283, div. A, title XI, § 1121(b), Jan. 1, 2021, 134 Stat. 3900, provided that: “The amendments made by subsection (a) [amending this section] shall take effect as if included in the enactment of section 1114 of the National Defense Authorization Act for Fiscal Year 2020 (Public Law 116–92).”
+
+#### Effective Date of 2019 Amendment
+Pub. L. 116–92, div. A, title XI, § 1114(c), Dec. 20, 2019, 133 Stat. 1604, provided that: “The amendments made by this section [amending this section] shall take effect on January 1, 2018.”
 
 #### Effective Date of 1996 Amendment
 Amendment by Pub. L. 104–201 effective 180 days after Sept. 23, 1996, see section 1725(a) of Pub. L. 104–201, set out as a note under [section 5722 of this title](./chapter-057-travel-transportation-and-subsistence.md#section-5722).
@@ -1380,13 +1413,18 @@ Amendments by Pub. L. 98–151 to be carried out by agencies by use of funds app
 
   (A) a law enforcement officer, as defined in section 5541;
 
-  (B) any employee in or under the Federal Bureau of Investigation who is not described in subparagraph (A); and
+  (B) any employee in or under the Federal Bureau of Investigation who is not described in subparagraph (A);
 
   (C) a customs and border protection officer, as defined in section 8331(31); and
+
+  (D) any nuclear materials courier, as defined in section 8331(27); and
 
 (2) the term “qualified expense”, as used with respect to an immediate family changing its place of residence, means the transportation expenses of the immediate family, the expenses of moving (including transporting, packing, crating, temporarily storing, draying, and unpacking) the household goods and personal effects of such immediate family, not in excess of 18,000 pounds net weight, and, when authorized or approved by the agency head (or designee), the transportation of 1 privately owned motor vehicle.
 
 ### Statutory Notes
+
+#### Amendments
+Subsec. (c)(1)(D). Pub. L. 116–283 added subpar. (D).
 
 #### No Relevance as to Compensation Claims
 Pub. L. 111–178, § 2(b), June 9, 2010, 124 Stat. 1263, provided that: “No determination made under [section 5724d of title 5](./chapter-057-travel-transportation-and-subsistence.md#section-5724d), United States Code, shall be deemed relevant to or be considered in connection with any claim for compensation under chapter 81 of that title or under any other law under which compensation may be provided on account of death or personal injury, nor shall any determination made with respect to any such claim be deemed relevant to or be considered in connection with any request for payment of expenses under such section 5724d.”
@@ -2040,13 +2078,13 @@ Subsec. (e). Pub. L. 101–510, § 1206(d)(2), added subsec. (e).
 #### Effective Date of 2008 Amendment
 Pub. L. 110–181, div. A, title XI, § 1103(b), Jan. 28, 2008, 122 Stat. 346, provided that: “The amendment made by subsection (a) [amending this section] shall apply with respect to deaths occurring on or after the date of the enactment of this Act [Jan. 28, 2008].”
 
+#### Travel to United States for Immediate Family of Employees Serving Abroad
+Pub. L. 110–161, div. D, title VII, § 701, Dec. 26, 2007, 121 Stat. 2019, provided that: “Hereafter, funds appropriated in this or any other Act may be used to pay travel to the United States for the immediate family of employees serving abroad in cases of death or life threatening illness of said employee.”
+
 #### Delegation of Functions
 Authority of President under subsec. (b) of this section to prescribe regulations with respect to payment of expenses when an employee dies delegated to Administrator of General Services, see section 1(13) of Ex. Ord. No. 11609, July 22, 1971, 36 F.R. 13747, set out as a note under [section 301 of Title 3](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title3-section301&num=0&edition=prelim), The President.
 
 Authority of President under subsec. (e) of this section delegated to Office of Personnel Management by section 6(b) of Ex. Ord. No. 12748, Feb. 1, 1991, 56 F.R. 4521, eff. May 4, 1991, set out as a note under [section 5301 of this title](./chapter-053-pay-rates-and-systems.md#section-5301).
-
-#### Travel to United States for Immediate Family of Employees Serving Abroad
-Pub. L. 110–161, div. D, title VII, § 701, Dec. 26, 2007, 121 Stat. 2019, provided that: “Hereafter, funds appropriated in this or any other Act may be used to pay travel to the United States for the immediate family of employees serving abroad in cases of death or life threatening illness of said employee.”
 
 
 <a id="section-5751"></a>

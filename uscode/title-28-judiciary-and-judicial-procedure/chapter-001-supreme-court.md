@@ -18,6 +18,9 @@ Based on title 28, U.S.C., 1940 ed., § 321 (Mar. 3, 1911, ch. 231, § 215, 36 S
 
 Appointment of “judges of the Supreme Court” by the President by and with the advice and consent of the Senate is provided by U.S. Constitution art. 2, § 2, cl. 2.
 
+#### Short Title of 2021 Amendment
+Pub. L. 116–325, § 1, Jan. 12, 2021, 134 Stat. 5086, provided that: “This Act [amending sections 375, 589a, and 1930 of this title and [section 330 of Title 11](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title11-section330&num=0&edition=prelim), Bankruptcy, and enacting provisions set out as notes under sections 152, 589a, and 1930 of this title and [section 330 of Title 11](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title11-section330&num=0&edition=prelim)] may be cited as the ‘Bankruptcy Administration Improvement Act of 2020’.”
+
 #### Short Title of 2019 Amendment
 Pub. L. 116–73, § 1, Nov. 26, 2019, 133 Stat. 1154, provided that: “This Act [amending [section 83 of this title](./chapter-005-district-courts.md#section-83) and enacting provisions set out as a note under [section 83 of this title](./chapter-005-district-courts.md#section-83)] may be cited as the ‘Divisional Realignment for the Eastern District of Arkansas Act of 2019’.”
 

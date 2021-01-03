@@ -31,6 +31,9 @@ Reference to Administrator of Veterans’ Affairs deemed to refer to Secretary o
 #### Effective Date
 Pub. L. 93–533, § 20, formerly § 19, Dec. 22, 1974, 88 Stat. 1731, renumbered § 20, Pub. L. 94–205, § 10, Jan. 2, 1976, 89 Stat. 1159, provided that: “The provisions of this Act, and the amendments made thereby [see Short Title note below], shall become effective one hundred and eighty days after the date of the enactment of this Act [Dec. 22, 1974].”
 
+#### Short Title of 2021 Amendment
+Pub. L. 116–342, § 1, Jan. 13, 2021, 134 Stat. 5134, provided that: “This Act [amending [section 2603 of this title](./chapter-027-real-estate-settlement-procedures.md#section-2603) and [section 1604 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1604&num=0&edition=prelim), Commerce and Trade, and enacting provisions set out as a note under [section 2603 of this title](./chapter-027-real-estate-settlement-procedures.md#section-2603)] may be cited as the ‘Building Up Independent Lives and Dreams Act’ or the ‘BUILD Act’.”
+
 #### Short Title of 1976 Amendment
 Pub. L. 94–205, § 1, Jan. 2, 1976, 89 Stat. 1157, provided: “That this Act [enacting [section 2617 of this title](./chapter-027-real-estate-settlement-procedures.md#section-2617), amending sections 2602, 2603, 2604, 2607, 2609 and 2616 of this title and [section 1631 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1631&num=0&edition=prelim), Commerce and Trade, repealing sections 2605 and 2606 of this title, enacting provisions set out as a note under [section 2602 of this title](./chapter-027-real-estate-settlement-procedures.md#section-2602) and amending provisions set out as a note under this section] may be cited as the ‘Real Estate Settlement Procedures Act Amendments of 1975’.”
 
@@ -131,6 +134,8 @@ Pub. L. 102–550, title IX, § 908(c), Oct. 28, 1992, 106 Stat. 3874, provided 
 
 (2) the administration fee charged by such company.
 
+**(d) Disclosure for charitable mortgage loan transactions** With respect to a mortgage loan transaction involving a residential mortgage loan offered at 0 percent interest with only bonafide and reasonable fees and that is primarily for charitable purposes, an organization described in [section 501(c)(3) of title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section501/c/3&num=0&edition=prelim) and exempt from taxation under section 501(a) of such title may use forms HUD–1 and GFE (as defined under section 1024.2(b) of title 12, Code of Federal Regulations) together with a disclosure substantially in the form of the Loan Model Form H–2 (as depicted in Appendix H to part 1026 of title 12, Code of Federal Regulations), collectively, in lieu of the disclosure published under subsection (a) of this section.
+
 ### Statutory Notes
 
 #### References in Text
@@ -139,6 +144,8 @@ The Truth in Lending Act, referred to in subsec. (a), is title I of Pub. L. 90�
 This chapter, referred to in subsec. (a), was in the original “this title” and was translated as reading “this Act”, meaning Pub. L. 93–533, which is classified principally to this chapter, to reflect the probable intent of Congress, because Pub. L. 93–533 does not contain titles.
 
 #### Amendments
+2021—Subsec. (d). Pub. L. 116–342 added subsec. (d).
+
 2010—Subsec. (a). Pub. L. 111–203, § 1098(2), substituted “The Bureau shall publish a single, integrated disclosure for mortgage loan transactions (including real estate settlement cost statements) which includes the disclosure requirements of this section and [section 2604 of this title](./chapter-027-real-estate-settlement-procedures.md#section-2604), in conjunction with the disclosure requirements of the Truth in Lending Act that, taken together, may apply to a transaction that is subject to both or either provisions of law. The purpose of such model disclosure shall be to facilitate compliance with the disclosure requirements of this chapter and the Truth in Lending Act, and to aid the borrower or lessee in understanding the transaction by utilizing readily understandable language to simplify the technical nature of the disclosures.” for “The Secretary, in consultation with the Administrator of Veteran’s Affairs, the Federal Deposit Insurance Corporation, and the Director of the Office of Thrift Supervision, shall develop and prescribe a standard form for the statement of settlement costs which shall be used (with such variations as may be necessary to reflect differences in legal and administrative requirements or practices in different areas of the country) as the standard real estate settlement form in all transactions in the United States which involve federally related mortgage loans.”, “Such forms” for “Such form”, “Bureau may” for “Secretary may”, “the forms” for “the form”, and “prescribed by the Bureau” for “prescribed by the Secretary” and substituted “standard forms” for “standard form” in two places.
 
 Subsec. (b). Pub. L. 111–203, § 1098(2)(B), (C), substituted “forms” for “form” wherever appearing and “Bureau” for “Secretary” in two places.
@@ -150,6 +157,9 @@ Subsec. (c). Pub. L. 111–203, § 1475, added subsec. (c).
 1976—Subsec. (a). Pub. L. 94–205, § 3(1)–(3), designated existing provisions as subsec. (a), struck out “minimum” after “with such” and “unavoidable” after “necessary to reflect” in parenthetical provisions covering allowable regional variations in the uniform settlement statement, and substituted provisions authorizing the Secretary to permit deletions from the standard form for provisions requiring that the standard form contain all the information and data required under the Truth in Lending Act.
 
 Subsec. (b). Pub. L. 94–205, § 3(4), added subsec. (b).
+
+#### Effective Date of 2021 Amendment
+Pub. L. 116–342, § 2(c), Jan. 13, 2021, 134 Stat. 5135, provided that: “The amendments made by subsections (a) and (b) [amending this section and [section 1604 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1604&num=0&edition=prelim), Commerce and Trade] shall take effect on the date of the enactment of this Act [Jan. 13, 2021].”
 
 #### Effective Date of 2010 Amendment
 Amendment by section 1098(2) of Pub. L. 111–203 effective on the designated transfer date, see section 1100H of Pub. L. 111–203, set out as a note under [section 552a of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section552a&num=0&edition=prelim), Government Organization and Employees.

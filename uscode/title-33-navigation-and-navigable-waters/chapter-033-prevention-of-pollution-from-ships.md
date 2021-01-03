@@ -7,879 +7,658 @@ source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33&num=0&edition=prelim
 ---
 <a id="section-1901"></a>
-## § 1901. Definitions
-**(a)** Unless the context indicates otherwise, as used in this chapter—
+## § 1901. Prioritization of marine debris in existing innovation and entrepreneurship programs
 
-(1) “Administrator” means the Administrator of the Environmental Protection Agency;
+In carrying out any relevant innovation and entrepreneurship programs that improve the innovation, effectiveness, and efficiency of the Marine Debris Program established under [section 1952 of this title](./chapter-33a-marine-debris-research-prevention-and-reduction.md#section-1952) without undermining the purpose for which such program was established, the Secretary of Commerce, the Secretary of Energy, the Administrator of the Environmental Protection Agency, and the heads of other relevant Federal agencies, shall prioritize efforts to combat marine debris, including by—
 
-(2) “Antarctica” means the area south of 60 degrees south latitude;
+(1) increasing innovation in methods and the effectiveness of efforts to identify, determine sources of, assess, prevent, reduce, and remove marine debris; and
 
-(3) “Antarctic Protocol” means the Protocol on Environmental Protection to the Antarctic Treaty, signed October 4, 1991, in Madrid, and all annexes thereto, and includes any future amendments thereto which have entered into force;
+(2) addressing the impacts of marine debris on—
 
-(4) “MARPOL Protocol” means the Protocol of 1978 relating to the International Convention for the Prevention of Pollution from Ships, 1973, and includes the Convention;
+  (A) the economy of the United States;
 
-(5) “Convention” means the International Convention for the Prevention of Pollution from Ships, 1973, including Protocols I and II and Annexes I, II, V, and VI thereto, including any modification or amendments to the Convention, Protocols, or Annexes which have entered into force for the United States;
+  (B) the marine environment; and
 
-(6) “discharge”, “emission”, “garbage”, “harmful substance”, and “incident” shall have the meanings provided in the Convention;
-
-(7) “navigable waters” includes the territorial sea of the United States (as defined in Presidential Proclamation 5928 of December 27, 1988) and the internal waters of the United States;
-
-(8) “owner” means any person holding title to, or in the absence of title, any other indicia of ownership of, a ship or terminal, but does not include a person who, without participating in the management or operation of a ship or terminal, holds indicia of ownership primarily to protect a security interest in the ship or terminal;
-
-(9) “operator” means— (a) in the case of a ship, a charterer by demise or any other person, except the owner, who is responsible for the operation, manning, victualing, and supplying of the vessel, or (b) in the case of a terminal, any person, except the owner, responsible for the operation of the terminal by agreement with the owner;
-
-(10) “person” means an individual, firm, public or private corporation, partnership, association, State, municipality, commission, political subdivision of a State, or any interstate body;
-
-(11) “Secretary” means the Secretary of the department in which the Coast Guard is operating;
-
-(12) “ship” means a vessel of any type whatsoever, including hydrofoils, air-cushion vehicles, submersibles, floating craft whether self-propelled or not, and fixed or floating platforms;
-
-(13) “submersible” means a submarine, or any other vessel designed to operate under water; and
-
-(14) “terminal” means an onshore facility or an offshore structure located in the navigable waters of the United States or subject to the jurisdiction of the United States and used, or intended to be used, as a port or facility for the transfer or other handling of a harmful substance.
-
-**(b)** For purposes of this chapter, the requirements of Annex V shall apply to the navigable waters of the United States, as well as to all other waters and vessels over which the United States has jurisdiction.
-
-**(c)** For the purposes of this chapter, the requirements of Annex IV to the Antarctic Protocol shall apply in Antarctica to all vessels over which the United States has jurisdiction.
-
-### Statutory Notes
-
-#### References in Text
-This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 96–478, Oct. 21, 1980, 94 Stat. 2297, known as the “Act to Prevent Pollution from Ships”, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note below and Tables.
-
-Presidential Proclamation 5928, referred to in subsec. (a)(7), is set out under [section 1331 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1331&num=0&edition=prelim), Public Lands.
-
-#### Amendments
-2008—Subsec. (a). Pub. L. 110–280 added par. (1), redesignated pars. (1) to (5) as (2) to (6), respectively, in par. (5) substituted “V, and VI” for “and V”, in par. (6) substituted “ ‘discharge’, ‘emission’, ‘garbage’, ‘harmful substance’, and ‘incident’ ” for “ ‘discharge’ and ‘garbage’ and ‘harmful substance’ and ‘incident’ ”, added par. (7), and redesignated pars. (6) to (12) as (8) to (14), respectively.
-
-1996—Subsec. (a). Pub. L. 104–227, § 201(a)(1), (2), added pars. (1) and (2) and redesignated former pars. (1) to (10) as (3) to (12), respectively.
-
-Subsec. (c). Pub. L. 104–227, § 201(a)(3), added subsec. (c).
-
-1993—Subsec. (a)(9), (10). Pub. L. 103–160 added par. (9) and redesignated former par. (9) as (10).
-
-1987—Subsec. (a). Pub. L. 100–220, § 2101(1), designated existing provisions as subsec. (a).
-
-Subsec. (a)(1). Pub. L. 100–220, § 2101(2), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “ ‘MARPOL Protocol’ means the Protocol of 1978 Relating to the International Convention for the Prevention of Pollution from Ships, 1973, done at London on February 17, 1978. This Protocol incorporates and modifies the International Convention for the Prevention of Pollution from Ships, 1973, done at London on November 2, 1973;”.
-
-Subsec. (a)(2). Pub. L. 100–220, § 2101(3), substituted “Annexes I, II, and V thereto, including any modification or amendments to the Convention, Protocols, or Annexes which have entered into force for the United States” for “Annexes I and II attached thereto”.
-
-Subsec. (a)(3). Pub. L. 100–220, § 2101(4), inserted “and ‘garbage’ ”.
-
-Subsec. (b). Pub. L. 100–220, § 2101(5), added subsec. (b).
-
-#### Effective Date of 1987 Amendment
-Pub. L. 100–220, title II, § 2002, Dec. 29, 1987, 101 Stat. 1460, provided that: “(a) In General.—Except as provided in subsections (b) and (c), this title [enacting sections 1912 to 1915 of this title, amending this section and sections 1902, 1903, 1905, and 1907 to 1909 of this title, and enacting provisions set out as notes under this section, [section 2267 of this title](./chapter-036-water-resources-development.md#section-2267), and [section 6981 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section6981&num=0&edition=prelim), The Public Health and Welfare] shall be effective on the date on which Annex V to the International Convention for the Prevention of Pollution from Ships, 1973, enters into force for the United States. [Annex V entered into force for the United States Dec. 31, 1988.] “(b) Exceptions.—Sections 2001, 2002, 2003, 2108, 2202, 2203, 2204, and subtitle C of this title [enacting sections 1912, 1914, and 1915 of this title, and provisions set out as notes under this section, [section 2267 of this title](./chapter-036-water-resources-development.md#section-2267), and [section 6981 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section6981&num=0&edition=prelim)] shall be effective on the date of the enactment of this title [Dec. 29, 1987]. “(c) Issuance of Regulations.—“(1) In general.—The authority to prescribe regulations pursuant to this title shall be effective on the date of enactment of this title [Dec. 29, 1987]. “(2) Effective date of regulations.—Any regulation prescribed pursuant to this title shall not be effective before the effective date of the provision of this title under which the regulation is prescribed.”
-
-#### Effective Date
-Pub. L. 96–478, § 14(a), (b), Oct. 21, 1980, 94 Stat. 2303, provided: “(a) Except as provided in subsection (b) of this section, this Act [see Short Title note below] is effective upon the date of enactment [Oct. 21, 1980], or on the date the MARPOL Protocol becomes effective as to the United States, whichever is later. [The MARPOL Protocol became effective as to the United States Oct. 2, 1983.] “(b) The Secretary and the heads of Federal departments shall have the authority to issue regulations, standards, and certifications under sections 3(c), 3(d), 4(b), 5(a), 6(a), 6(c), and 6(f) [sections 1902(c), (d), 1903(b), 1904(a), and 1905(a), (c), (f) of this title] effective on the date of enactment of this Act [Oct. 21, 1980]. Section 13(a)(2) [amending section 391a(3)(E) of former Title 46, Shipping] is effective upon the date of enactment of this Act [Oct. 21, 1980].”
-
-#### Short Title of 2008 Amendment
-Pub. L. 110–280, § 1, July 21, 2008, 122 Stat. 2611, provided that: “This Act [amending this section and sections 1902, 1903 to 1905, and 1907 to 1911 of this title] may be cited as the ‘Maritime Pollution Prevention Act of 2008’.”
-
-#### Short Title of 1987 Amendment
-Pub. L. 100–220, title II, § 2001, Dec. 29, 1987, 101 Stat. 1460, provided that: “This title [see Effective Date of 1987 Amendment note above] may be cited as the ‘Marine Plastic Pollution Research and Control Act of 1987’.”
-
-#### Short Title
-Pub. L. 96–478, § 1, Oct. 21, 1980, 94 Stat. 2297, provided: “That this Act [enacting this chapter, amending [section 1321 of this title](./chapter-026-water-pollution-prevention-and-control.md#section-1321) and [section 742c(c) of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section742c/c&num=0&edition=prelim), Conservation, and section 391a of former Title 46, Shipping, repealing sections 1001 to 1011 and 1013 to 1016 of this title, and enacting provisions set out as notes under [section 1001 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1001&num=0&edition=prelim), and [section 742c of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section742c&num=0&edition=prelim)] may be cited as the ‘Act to Prevent Pollution from Ships’.”
-
-#### Savings Provision: Regulations in Effect Until Superseded
-Pub. L. 96–478, § 14(c), Oct. 21, 1980, 94 Stat. 2303, provided that: “Any rights or liabilities existing on the effective date of this Act [see Effective Date note above] shall not be affected by this enactment [see Short Title note above]. Any regulations or procedures promulgated or effected pursuant to the Oil Pollution Act, 1961, as amended [section 1001 et seq. of this title], remain in effect until modified or superseded by regulations promulgated under the authority of the MARPOL Protocol or this Act.”
-
-#### Transfer of Functions
-For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).
-
-#### Interim Authority for Dry Bulk Cargo Residue Disposal
-Pub. L. 108–293, title VI, § 623, Aug. 9, 2004, 118 Stat. 1063, provided that: “(a) Extension of Interim Authority.—The Secretary of the Department in which the Coast Guard is operating shall continue to implement and enforce United States Coast Guard 1997 Enforcement Policy for Cargo Residues on the Great Lakes (hereinafter in this section referred to as the ‘Policy’) or revisions thereto, in accordance with that policy, for the purpose of regulating incidental discharges from vessels of residues of dry bulk cargo into the waters of the Great Lakes under the jurisdiction of the United States, until the earlier of—“(1) the date regulations are promulgated under subsection (b) for the regulation of incidental discharges from vessels of dry bulk cargo residue into the waters of the Great Lakes under the jurisdiction of the United States; or “(2) September 30, 2008. “(b) Permanent Authority.—Notwithstanding any other law, the Commandant of the Coast Guard may promulgate regulations governing the discharge of dry bulk cargo residue on the Great Lakes. “(c) Environmental Assessment.—No later than 90 days after the date of the enactment of this Act [Aug. 9, 2004], the Secretary of the department in which the Coast Guard is operating shall commence the environmental assessment necessary to promulgate the regulations under subsection (b).”
-
-#### Study and Regulation of Great Lakes Cargo Residues
-Pub. L. 106–554, § 1(a)(4) [div. A, § 1117(b), (c)], Dec. 21, 2000, 114 Stat. 2763, 2763A–209, provided that: “(b) The Secretary shall conduct a study of the effectiveness of the United States 1997 Enforcement Policy for Cargo Residues on the Great Lakes (‘Policy’) by September 30, 2002. “(c) The Secretary is authorized to promulgate regulations to implement and enforce a program to regulate incidental discharges from vessels of residues of non-hazardous and non-toxic dry bulk cargo into the waters of the Great Lakes, which takes into account the finding in the study required under subsection (b). This program shall be consistent with the Policy.”
-
-#### Certain Alaskan Cruise Ship Operations
-Pub. L. 106–554, § 1(a)(4) [div. B, title XIV], Dec. 21, 2000, 114 Stat. 2763, 2763A–315, provided that: “SEC. 1401. PURPOSE.“The purpose of this title is to:“(1) Ensure that cruise vessels operating in the waters of the Alexander Archipelago and the navigable waters of the United States within the State of Alaska and within the Kachemak Bay National Estuarine Research Reserve comply with all applicable environmental laws, including, but not limited to, the Federal Water Pollution Control Act, as amended ([33 U.S.C. 1251](./chapter-026-water-pollution-prevention-and-control.md#section-1251) et seq.), the Act to Prevent Pollution from Ships, as amended ([33 U.S.C. 1901](./chapter-033-prevention-of-pollution-from-ships.md#section-1901) et seq.), and the protections contained within this title. “(2) Ensure that cruise vessels do not discharge untreated sewage within the waters of the Alexander Archipelago, the navigable waters of the United States in the State of Alaska, or within the Kachemak Bay National Estuarine Research Reserve. “(3) Prevent the unregulated discharge of treated sewage and graywater while in ports in the State of Alaska or traveling near the shore in the Alexander Archipelago and the navigable waters of the United States in the State of Alaska or within the Kachemak Bay National Estuarine Research Reserve. “(4) Ensure that discharges of sewage and graywater from cruise vessels operating in the Alexander Archipelago and the navigable waters of the United States in the State of Alaska or within the Kachemak Bay National Estuarine Research Reserve can be monitored for compliance with the requirements contained in this title. “SEC. 1402. APPLICABILITY.“This title applies to all cruise vessels authorized to carry 500 or more passengers for hire. “SEC. 1403. PROHIBITION ON DISCHARGE OF UNTREATED SEWAGE.“No person shall discharge any untreated sewage from a cruise vessel into the waters of the Alexander Archipelago or the navigable waters of the United States within the State of Alaska or within the Kachemak Bay National Estuarine Research Reserve. “SEC. 1404. LIMITATIONS ON DISCHARGE OF TREATED SEWAGE OR GRAYWATER.“(a) No person shall discharge any treated sewage or graywater from a cruise vessel into the waters of the Alexander Archipelago or the navigable waters of the United States within the State of Alaska or within the Kachemak Bay National Estuarine Research Reserve unless—“(1) the cruise vessel is underway and proceeding at a speed of not less than six knots; “(2) the cruise vessel is not less than one nautical mile from the nearest shore, except in areas designated by the Secretary, in consultation with the State of Alaska; “(3) the discharge complies with all applicable cruise vessel effluent standards established pursuant to this title and any other applicable law; and “(4) the cruise vessel is not in an area where the discharge of treated sewage or graywater is prohibited. “(b) The Administrator, in consultation with the Secretary, may promulgate regulations allowing the discharge of treated sewage or graywater, otherwise prohibited under paragraphs (a)(1) and (a)(2) of this section, where the discharge meets effluent standards determined by the Administrator as appropriate for discharges into the marine environment. In promulgating such regulations, the Administrator shall take into account the best available scientific information on the environmental effects of the regulated discharges. The effluent discharge standards promulgated under this section shall, at a minimum, be consistent with all relevant State of Alaska water quality standards in force at the time of the enactment of this title [Dec. 21, 2000]. “(c) Until such time as the Administrator promulgates regulations under paragraph (b) of this section, treated sewage and graywater may be discharged from vessels subject to this title in circumstances otherwise prohibited under paragraphs (a)(1) and (a)(2) of this section, provided that—“(1) the discharge satisfies the minimum level of effluent quality specified in 40 CFR 133.102, as in effect on the date of enactment of this section [Dec. 21, 2000]; “(2) the geometric mean of the samples from the discharge during any 30-day period does not exceed 20 fecal coliform/100 ml and not more than 10 percent of the samples exceed 40 fecal coliform/100 ml; “(3) concentrations of total residual chlorine may not exceed 10.0 μg/l; and “(4) prior to any such discharge occurring, the owner, operator or master, or other person in charge of a cruise vessel, can demonstrate test results from at least five samples taken from the vessel representative of the effluent to be discharged, on different days over a 30-day period, conducted in accordance with the guidelines promulgated by the Administrator in 40 CFR Part 136, which confirm that the water quality of the effluents proposed for discharge is in compliance with paragraphs (1), (2), and (3) of this subsection. To the extent not otherwise being done by the owner, operator, master or other person in charge of a cruise vessel pursuant to section 1406, the owner, operator, master or other person in charge of a cruise vessel shall demonstrate continued compliance through periodic sampling. Such sampling and test results shall be considered environmental compliance records that must be made available for inspection pursuant to [section 1406(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1406/d&num=0&edition=prelim). “SEC. 1405. SAFETY EXCEPTION.“Sections 1403 and 1404 of this title shall not apply to discharges made for the purpose of securing the safety of the cruise vessel or saving life at sea, provided that all reasonable precautions have been taken for the purpose of preventing or minimizing the discharge. “SEC. 1406. INSPECTION AND SAMPLING REGIME.“(a) The Secretary shall incorporate into the commercial vessel examination program an inspection regime sufficient to verify that cruise vessels visiting ports in the State of Alaska or operating in the waters of the Alexander Archipelago or the navigable waters of the United States within the State of Alaska or within the Kachemak Bay National Estuarine Research Reserve are in full compliance with this title, the Federal Water Pollution Control Act [[33 U.S.C. 1251](./chapter-026-water-pollution-prevention-and-control.md#section-1251) et seq.], as amended, and any regulations issued thereunder, other applicable Federal laws and regulations, and all applicable international treaty requirements. “(b) The inspection regime shall, at a minimum, include—“(1) examination of environmental compliance records and procedures; and “(2) inspection of the functionality and proper operation of installed equipment for abatement and control of any discharge. “(c) The inspection regime may—“(1) include unannounced inspections of any aspect of cruise vessel operations, equipment or discharges pertinent to the verification under subsection (a) of this section; and “(2) require the owner, operator or master, or other person in charge of a cruise vessel subject to this title to maintain and produce a logbook detailing the times, types, volumes or flow rates and locations of any discharges of sewage or graywater under this title. “(d) The inspection regime shall incorporate a plan for sampling and testing cruise vessel discharges to ensure that any discharges of sewage or graywater are in compliance with this title, the Federal Water Pollution Control Act [[33 U.S.C. 1251](./chapter-026-water-pollution-prevention-and-control.md#section-1251) et seq.], as amended, and any other applicable laws and regulations, and may require the owner, operator or master, or other person in charge of a cruise vessel subject to this title to conduct such samples or tests, and to produce any records of such sampling or testing at the request of the Secretary or Administrator. “SEC. 1407. CRUISE VESSEL EFFLUENT STANDARDS.“Pursuant to this title and the authority of the Federal Water Pollution Control Act [[33 U.S.C. 1251](./chapter-026-water-pollution-prevention-and-control.md#section-1251) et seq.], as amended, the Administrator may promulgate effluent standards for treated sewage and graywater from cruise vessels operating in the waters of the Alexander Archipelago or the navigable waters of the United States within the State of Alaska or within the Kachemak Bay National Estuarine Research Reserve. Regulations implementing such standards shall take into account the best available scientific information on the environmental effects of the regulated discharges and the availability of new technologies for wastewater treatment. Until such time as the Administrator promulgates such effluent standards, treated sewage effluent discharges shall not have a fecal coliform bacterial count of greater than 200 per 100 milliliters nor suspended solids greater than 150 milligrams per liter. “SEC. 1408. REPORTS.“(a) Any owner, operator or master, or other person in charge of a cruise vessel who has knowledge of a discharge from the cruise vessel in violation of section 1403 or 1404 or pursuant to [section 1405 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1405&num=0&edition=prelim), or any regulations promulgated thereunder, shall immediately report that discharge to the Secretary, who shall provide a copy to the Administrator upon request. “(b) The Secretary may prescribe the form of reports required under this section. “SEC. 1409. ENFORCEMENT.“(a) Administrative Penalties.—“(1) Violations.—Any person who violates section 1403, 1404, 1408, or 1413 of this title, or any regulations promulgated pursuant to this title may be assessed a class I or class II civil penalty by the Secretary or Administrator. “(2) Classes of penalties.—“(A) Class i.—The amount of a class I civil penalty under this section may not exceed $10,000 per violation, except that the maximum amount of any class I civil penalty under this section shall not exceed $25,000. Before assessing a civil penalty under this clause, the Secretary or Administrator, as the case may be, shall give to the person to be assessed such penalty written notice of the Secretary’s or Administrator’s proposal to assess the penalty and the opportunity to request, within 30 days of the date the notice is received by such person, a hearing on the proposed penalty. Such hearing shall not be subject to section 554 or 556 of title 5, but shall provide a reasonable opportunity to be heard and to present evidence. “(B) Class ii.—The amount of a class II civil penalty under this section may not exceed $10,000 per day for each day during which the violation continues, except that the maximum amount of any class II civil penalty under this section shall not exceed $125,000. Except as otherwise provided in this subsection, a class II civil penalty shall be assessed and collected in the same manner, and subject to the same provisions as in the case of civil penalties assessed and collected after notice and an opportunity for a hearing on the record in accordance with [section 554 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section554&num=0&edition=prelim), United States Code. The Secretary and Administrator may issue rules for discovery procedures for hearings under this paragraph. “(3) Rights of interested persons.—“(A) Public notice.—Before issuing an order assessing a class II civil penalty under this section, the Secretary or Administrator, as the case may be, shall provide public notice of and reasonable opportunity to comment on the proposed issuance of each order. “(B) Presentation of evidence.—Any person who comments on a proposed assessment of a class II civil penalty under this section shall be given notice of any hearing held under this paragraph and of the order assessing such penalty. In any hearing held under this paragraph, such person shall have a reasonable opportunity to be heard and present evidence. “(C) Rights of interested persons to a hearing.—If no hearing is held under subsection (2) before issuance of an order assessing a class II civil penalty under this section, any person who commented on the proposed assessment may petition, within 30 days after the issuance of such order, the Administrator or Secretary, as the case may be, to set aside such order and to provide a hearing on the penalty. If the evidence presented by the petitioner in support of the petition is material and was not considered in the issuance of the order, the Administrator or Secretary shall immediately set aside such order and provide a hearing in accordance with subsection (2)(B). If the Administrator or Secretary denies a hearing under this clause, the Administrator or Secretary shall provide to the petitioner, and publish in the Federal Register, notice of and the reasons for such denial. “(4) Finality of order.—An order assessing a class II civil penalty under this paragraph shall become final 30 days after its issuance unless a petition for judicial review is filed under subparagraph (6) or a hearing is requested under subsection (3)(C). If such a hearing is denied, such order shall become final 30 days after such denial. “(5) Effect of action on compliance.—No action by the Administrator or Secretary under this paragraph shall affect any person’s obligation to comply with any section of this title. “(6) Judicial review.—Any person against whom a civil penalty is assessed under this paragraph or who commented on the proposed assessment of such penalty in accordance with subsection (3) may obtain review of such assessment—“(A) in the case of assessment of a class I civil penalty, in the United States District Court for the District of Columbia or in the District of Alaska; or “(B) in the case of assessment of a class II civil penalty, in the United States Court of Appeals for the District of Columbia Circuit or for any other circuit in which such person resides or transacts business, by filing a notice of appeal in such court within the 30-day period beginning on the date the civil penalty order is issued and by simultaneously sending a copy of such notice by certified mail to the Administrator or Secretary, as the case may be, and the Attorney General. The Administrator or Secretary shall promptly file in such court a certified copy of the record on which the order was issued. Such court shall not set aside or remand such order unless there is not substantial evidence in the record, taken as a whole, to support the finding of a violation or unless the Administrator’s or Secretary’s assessment of the penalty constitutes an abuse of discretion and shall not impose additional civil penalties for the same violation unless the Administrator’s or Secretary’s assessment of the penalty constitutes an abuse of discretion. “(7) Collection.—If any person fails to pay an assessment of a civil penalty—“(A) after the assessment has become final, or “(B) after a court in an action brought under subsection (6) has entered a final judgment in favor of the Administrator or Secretary, as the case may be, the Administrator or Secretary shall request the Attorney General to bring a civil action in an appropriate district court to recover the amount assessed (plus interest at currently prevailing rates from the date of the final order or the date of the final judgment, as the case may be). In such an action, the validity, amount, and appropriateness of such penalty shall not be subject to review. Any person who fails to pay on a timely basis the amount of an assessment of a civil penalty as described in the first sentence of this subparagraph shall be required to pay, in addition to such amount and interest, attorneys fees and costs for collection proceedings and a quarterly nonpayment penalty for each quarter during which such failure to pay persists. Such nonpayment penalty shall be in an amount equal to 20 percent of the aggregate amount of such person’s penalties and nonpayment penalties which are unpaid as of the beginning of such quarter. “(8) Subpoenas.—The Administrator or Secretary, as the case may be, may issue subpoenas for the attendance and testimony of witnesses and the production of relevant papers, books, or documents in connection with hearings under this section. In case of contumacy or refusal to obey a subpoena issued pursuant to this subsection and served upon any person, the district court of the United States for any district in which such person is found, resides, or transacts business, upon application by the United States and after notice to such person, shall have jurisdiction to issue an order requiring such person to appear and give testimony before the Administrator or Secretary or to appear and produce documents before the Administrator or Secretary, or both, and any failure to obey such order of the court may be punished by such court as a contempt thereof. “(b) Civil Penalties.—“(1) In general.—Any person who violates section 1403, 1404, 1408, or 1413 of this title, or any regulations promulgated pursuant to this title shall be subject to a civil penalty not to exceed $25,000 per day for each violation. Each day a violation continues constitutes a separate violation. “(2) Jurisdiction.—An action to impose a civil penalty under this section may be brought in the district court of the United States for the district in which the defendant is located, resides, or transacts business, and such court shall have jurisdiction to assess such penalty. “(3) Limitation.—A person is not liable for a civil judicial penalty under this paragraph for a violation if the person has been assessed a civil administrative penalty under paragraph (a) for the violation. “(c) Determination of Amount.—In determining the amount of a civil penalty under paragraphs (a) or (b) of this section, the court, the Secretary or the Administrator, as the case may be, shall consider the seriousness of the violation or violations, the economic benefit (if any) resulting from the violation, any history of such violations, any good-faith efforts to comply with the applicable requirements, the economic impact of the penalty on the violator, and other such matters as justice may require. “(d) Criminal Penalties.—“(1) Negligent violations.—Any person who negligently violates section 1403, 1404, 1408, or 1413 of this title, or any regulations promulgated pursuant to this title commits a Class A misdemeanor. “(2) Knowing violations.—Any person who knowingly violates section 1403, 1404, 1408, or 1413 of this title, or any regulations promulgated pursuant to this title commits a Class D felony. “(3) False statements.—Any person who knowingly makes any false statement, representation, or certification in any record, report or other document filed or required to be maintained under this title or the regulations issued thereunder, or who falsifies, tampers with, or knowingly renders inaccurate any testing or monitoring device or method required to be maintained under this title, or the regulations issued thereunder, commits a Class D felony. “(e) Awards.—“(1) The Secretary, the Administrator, or the court, when assessing any fines or civil penalties, as the case may be, may pay from any fines or civil penalties collected under this section an amount not to exceed one-half of the penalty or fine collected, to any individual who furnishes information which leads to the payment of the penalty or fine. If several individuals provide such information, the amount shall be divided equitably among such individuals. No officer or employee of the United States, the State of Alaska or any federally recognized Tribe who furnishes information or renders service in the performance of his or her official duties shall be eligible for payment under this subsection. “(2) The Secretary, Administrator or the court, when assessing any fines or civil penalties, as the case may be, may pay, from any fines or civil penalties collected under this section, to the State of Alaska or to any federally recognized Tribe providing information or investigative assistance which leads to payment of the penalty or fine, an amount which reflects the level of information or investigative assistance provided. Should the State of Alaska or a federally recognized Tribe and an individual under paragraph (1) of this section be eligible for an award, the Secretary, the Administrator, or the court, as the case may be, shall divide the amount equitably. “(f) Liability in Rem.—A cruise vessel operated in violation of this title or the regulations issued thereunder is liable in rem for any fine imposed under subsection (d) of this section or for any civil penalty imposed under subsections (a) or (b) of this section, and may be proceeded against in the United States district court of any district in which the cruise vessel may be found. “(g) Compliance Orders.—“(1) In general.—Whenever on the basis of any information available to him the Administrator finds that any person is in violation of section 1403, 1404, 1408, or 1413 of this title, or any regulations promulgated pursuant to this title, the Administrator shall issue an order requiring such person to comply with such section or requirement, or shall bring a civil action in accordance with subsection (b). “(2) Copies of orders, service.—A copy of any order issued under this subsection shall be sent immediately by the Administrator to the State of Alaska. In any case in which an order under this subsection is issued to a corporation, a copy of such order shall be served on any appropriate corporate officer. Any order issued under this subsection shall be by personal service, shall state with reasonable specificity the nature of the violation, and shall specify a time for compliance not to exceed 30 days in the case of a violation of an interim compliance schedule or operation and maintenance requirement and not to exceed a time the Administrator determines to be reasonable in the case of a violation of a final deadline, taking into account the seriousness of the violation and any good faith efforts to comply with applicable requirements. “(h) Civil Actions.—The Administrator is authorized to commence a civil action for appropriate relief, including a permanent or temporary injunction, for any violation for which he is authorized to issue a compliance order under this subsection. Any action under subsection (h) may be brought in the district court of the United States for the district in which the defendant is located or resides or is doing business, and such court shall have jurisdiction to restrain such violation and to require compliance. Notice of the commencement of such action shall be given immediately to the State of Alaska. “SEC. 1410. DESIGNATION OF CRUISE VESSEL NO-DISCHARGE ZONES.“If the State of Alaska determines that the protection and enhancement of the quality of some or all of the waters of the Alexander Archipelago or the navigable waters of the United States within the State of Alaska or within the Kachemak Bay National Estuarine Research Reserve require greater environmental protection, the State of Alaska may petition the Administrator to prohibit the discharge of graywater and sewage from cruise vessels operating in such waters. The establishment of such a prohibition shall be achieved in the same manner as the petitioning process and prohibition of the discharge of sewage pursuant to section 312(f) of the Federal Water Pollution Control Act [[33 U.S.C. 1322(f)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1322/f&num=0&edition=prelim)], as amended, and the regulations promulgated thereunder. “SEC. 1411. SAVINGS CLAUSE.“(a) Nothing in this title shall be construed as restricting, affecting, or amending any other law or the authority of any department, instrumentality, or agency of the United States. “(b) Nothing in this title shall in any way affect or restrict, or be construed to affect or restrict, the authority of the State of Alaska or any political subdivision thereof—“(1) to impose additional liability or additional requirements; or “(2) to impose, or determine the amount of a fine or penalty (whether criminal or civil in nature) for any violation of law; relating to the discharge of sewage (whether treated or untreated) or graywater in the waters of the Alexander Archipelago and the navigable waters of the United States within the State of Alaska or within the Kachemak Bay National Estuarine Research Reserve. “SEC. 1412. REGULATIONS.“The Secretary and the Administrator each may prescribe any regulations necessary to carry out the provisions of this title. “SEC. 1413. INFORMATION GATHERING AUTHORITY.“The authority of sections 308(a) and (b) of the Federal Water Pollution Control Act [[33 U.S.C. 1318(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1318/a&num=0&edition=prelim), (b)], as amended, shall be available to the Administrator to carry out the provisions of this title. The Administrator and the Secretary shall minimize, to the extent practicable, duplication of or inconsistency with the inspection, sampling, testing, recordkeeping, and reporting requirements established by the Secretary under [section 1406 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1406&num=0&edition=prelim). “SEC. 1414. DEFINITIONS.“In this title:“(1) Administrator.—The term ‘Administrator’ means the Administrator of the United States Environmental Protection Agency. “(2) Cruise vessel.—The term ‘cruise vessel’ means a passenger vessel as defined in section 2101(22) [now 2101(31)] of title 46, United States Code. The term ‘cruise vessel’ does not include a vessel of the United States operated by the Federal Government or a vessel owned and operated by the government of a State. “(3) Discharge.—The term ‘discharge’ means any release however caused from a cruise vessel, and includes any escape, disposal, spilling, leaking, pumping, emitting, or emptying. “(4) Graywater.—The term ‘graywater’ means only galley, dishwasher, bath, and laundry waste water. The term does not include other wastes or waste streams. “(5) Navigable waters.—The term ‘navigable waters’ has the same meaning as in section 502 of the Federal Water Pollution Control Act [[33 U.S.C. 1362](./chapter-026-water-pollution-prevention-and-control.md#section-1362)], as amended. “(6) Person.—The term ‘person’ means an individual, corporation, partnership, limited liability company, association, State, municipality, commission, or political subdivision of a State, or any federally recognized tribe. “(7) Secretary.—The term ‘Secretary’ means the Secretary of the department in which the United States Coast Guard is operating. “(8) Sewage.—The term ‘sewage’ means human body wastes and the wastes from toilets and other receptacles intended to receive or retain body waste. “(9) Treated sewage.—The term ‘treated sewage’ means sewage meeting all applicable effluent limitation standards and processing requirements of the Federal Water Pollution Control Act [[33 U.S.C. 1251](./chapter-026-water-pollution-prevention-and-control.md#section-1251) et seq.], as amended[,] and of this title, and regulations promulgated under either. “(10) Untreated sewage.—The term ‘untreated sewage’ means sewage that is not treated sewage. “(11) Waters of the Alexander Archipelago.—The term ‘waters of the Alexander Archipelago’ means all waters under the sovereignty of the United States within or near Southeast Alaska, beginning at a point 58°11′41′′N, 136°39′25′′W [near Cape Spencer Light], thence southeasterly along a line three nautical miles seaward of the baseline from which the breadth of the territorial sea is measured in the Pacific Ocean and the Dixon Entrance, except where this line intersects geodesics connecting the following five pairs of points:“(1) 58°05′17′′N, 136°33′49′′W and 58°11′41′′N, 136°39′25′′W [Cross Sound]. “(2) 56°09′40′′N, 134°40′00′′W and 55°49′15′′N, 134°17′40′′W [Chatham Strait]. “(3) 55°49′15′′N, 134°17′40′′W and 55°50′30′′N, 133°54′15′′W [Sumner Strait]. “(4) 54°41′30′′N, 132°01′00′′W and 54°51′30′′N, 131°20′45′′W [Clarence Strait]. “(5) 54°51′30′′N, 131°20′45′′W and 54°46′15′′N, 130°52′00′′W [Revillagigedo Channel].“The portion of each such geodesic situated beyond three nautical miles from the baseline from which the breadth of the territorial sea is measured forms the outer limit of the waters of the Alexander Archipelago in those five locations.”
-
-#### Preemption; Additional State Requirements
-Pub. L. 100–220, title II, § 2003, Dec. 29, 1987, 101 Stat. 1460, provided that: “(a) Preemption.—Except as specifically provided in this title [see Effective Date of 1987 Amendment note above], nothing in this title shall be interpreted or construed to supersede or preempt any other provision of Federal or State law, either statutory or common. “(b) Additional State Requirements.—Nothing in this title shall be construed or interpreted as preempting any State from imposing any additional requirements.”
+  (C) navigation safety.
 
 
 <a id="section-1902"></a>
-## § 1902. Ships subject to preventive measures
-**(a) Included vessels** This chapter shall apply—
-
-(1) to a ship of United States registry or nationality, or one operated under the authority of the United States, wherever located;
-
-(2) with respect to Annexes I and II to the Convention, to a ship, other than a ship referred to in paragraph (1), while in the navigable waters of the United States;
-
-(3) with respect to the requirements of Annex V to the Convention, to a ship, other than a ship referred to in paragraph (1), while in the navigable waters or the exclusive economic zone of the United States;
-
-(4) with respect to regulations prescribed under [section 1905 of this title](./chapter-033-prevention-of-pollution-from-ships.md#section-1905), any port or terminal in the United States; and
-
-(5) with respect to Annex VI to the Convention, and other than with respect to a ship referred to in paragraph (1)—
-
-  (A) to a ship that is in a port, shipyard, offshore terminal, or the internal waters of the United States;
-
-  (B) to a ship that is bound for, or departing from, a port, shipyard, offshore terminal, or the internal waters of the United States, and is in—
-
-    (i) the navigable waters or the exclusive economic zone of the United States;
-
-    (ii) an emission control area designated pursuant to [section 1903 of this title](./chapter-033-prevention-of-pollution-from-ships.md#section-1903); or
-
-    (iii) any other area that the Administrator, in consultation with the Secretary and each State in which any part of the area is located, has designated by order as being an area from which emissions from ships are of concern with respect to protection of public health, welfare, or the environment;
-
-  (C) to a ship that is entitled to fly the flag of, or operating under the authority of, a party to Annex VI, and is in—
-
-    (i) the navigable waters or the exclusive economic zone of the United States;
-
-    (ii) an emission control area designated under [section 1903 of this title](./chapter-033-prevention-of-pollution-from-ships.md#section-1903); or
-
-    (iii) any other area that the Administrator, in consultation with the Secretary and each State in which any part of the area is located, has designated by order as being an area from which emissions from ships are of concern with respect to protection of public health, welfare, or the environment; and
-
-  (D) to any other ship, to the extent that, and in the same manner as, such ship may be boarded by the Secretary to implement or enforce any other law of the United States or Annex I, II, or V of the Convention, and is in—
-
-    (i) the exclusive economic zone of the United States;
-
-    (ii) the navigable waters of the United States;
-
-    (iii) an emission control area designated under [section 1903 of this title](./chapter-033-prevention-of-pollution-from-ships.md#section-1903); or
-
-    (iv) any other area that the Administrator, in consultation with the Secretary and each State in which any part of the area is located, has designated by order as being an area from which emissions from ships are of concern with respect to protection of public health, welfare, or the environment.
-
-**(b) Excluded vessels; discharge requirements**
-
-(1) Except as provided in paragraph (3), this chapter shall not apply to—
-
-  (A) a ship of the Armed Forces described in paragraph (2); or
-
-  (B) any other ship specifically excluded by the MARPOL Protocol or the Antarctic Protocol.
-
-(2) A ship described in this paragraph is a ship that is owned or operated by the Secretary, with respect to the Coast Guard, or by the Secretary of a military department, and that, as determined by the Secretary concerned—
-
-  (A) has unique military design, construction, manning, or operating requirements; and
-
-  (B) cannot fully comply with the discharge requirements of Annex V to the Convention because compliance is not technologically feasible or would impair the operations or operational capability of the ship.
-
-(3)
-
-  (A) Notwithstanding any provision of the MARPOL Protocol, the requirements of Annex V to the Convention shall apply to all ships referred to in subsection (a) other than those described in paragraph (2).
-
-  (B) A ship that is described in paragraph (2) shall limit the discharge into the sea of garbage as follows:
-
-    (i) The discharge into the sea of plastics, including synthetic ropes, synthetic fishing nets, plastic garbage bags, and incinerator ashes from plastic products that may contain toxic chemicals or heavy metals, or the residues thereof, is prohibited.
-
-    (ii) Garbage consisting of the following material may be discharged into the sea, subject to subparagraph (C):
-
-      (I) A non-floating slurry of seawater, paper, cardboard, or food waste that is capable of passing through a screen with openings no larger than 12 millimeters in diameter.
-
-      (II) Metal and glass that have been shredded and bagged (in compliance with clause (i)) so as to ensure negative buoyancy.
-
-      (III) With regard to a submersible, nonplastic garbage that has been compacted and weighted to ensure negative buoyancy.
-
-      (IV) Ash from incinerators or other thermal destruction systems not containing toxic chemicals, heavy metals, or incompletely burned plastics.
-
-  (C)
-
-    (i) Garbage described in subparagraph (B)(ii)(I) may not be discharged within 3 nautical miles of land.
-
-    (ii) Garbage described in subclauses (II), (III), and (IV) of subparagraph (B)(ii) may not be discharged within 12 nautical miles of land.
-
-  (D) Notwithstanding subparagraph (C), a ship described in paragraph (2) that is not equipped with garbage-processing equipment sufficient to meet the requirements of subparagraph (B)(ii) may discharge garbage that has not been processed in accordance with subparagraph (B)(ii) if such discharge occurs as far as practicable from the nearest land, but in any case not less than—
-
-    (i) 12 nautical miles from the nearest land, in the case of food wastes and non-floating garbage, including paper products, cloth, glass, metal, bottles, crockery, and similar refuse; and
-
-    (ii) 25 nautical miles from the nearest land, in the case of all other garbage.
-
-  (E) This paragraph shall not apply when discharge of any garbage is necessary for the purpose of securing the safety of the ship, the health of the ship’s personnel, or saving life at sea. In the event that there is such a discharge, the discharge shall be reported to the Secretary, with respect to the Coast Guard, or the Secretary concerned.
-
-  (F) This paragraph shall not apply during time of war or a national emergency declared by the President or Congress.
-
-**(c) Application to other persons** This chapter shall apply to all persons to the extent necessary to ensure compliance with Annex VI to the Convention.
-
-**(d) Discharges in special areas**
-
-(1) Except as provided in paragraphs (2) and (3), not later than December 31, 2000, all surface ships owned or operated by the Department of the Navy, and not later than December 31, 2008, all submersibles owned or operated by the Department of the Navy, shall comply with the special area requirements of Regulation 5 of Annex V to the Convention.
-
-(2)
-
-  (A) Subject to subparagraph (B), any ship described in subparagraph (C) may discharge, without regard to the special area requirements of Regulation 5 of Annex V to the Convention, the following non-plastic, non-floating garbage:
-
-    (i) A slurry of seawater, paper, cardboard, or food waste that is capable of passing through a screen with openings no larger than 12 millimeters in diameter.
-
-    (ii) Metal and glass that have been shredded and bagged so as to ensure negative buoyancy.
-
-    (iii) With regard to a submersible, nonplastic garbage that has been compacted and weighted to ensure negative buoyancy.
-
-  (B)
-
-    (i) Garbage described in subparagraph (A)(i) may not be discharged within 3 nautical miles of land.
-
-    (ii) Garbage described in clauses (ii) and (iii) of subparagraph (A) may not be discharged within 12 nautical miles of land.
-
-  (C) This paragraph applies to any ship that is owned or operated by the Department of the Navy that, as determined by the Secretary of the Navy—
-
-    (i) has unique military design, construction, manning, or operating requirements; and
-
-    (ii) cannot fully comply with the special area requirements of Regulation 5 of Annex V to the Convention because compliance is not technologically feasible or would impair the operations or operational capability of the ship.
-
-(3)
-
-  (A) Not later than December 31, 2000, the Secretary of the Navy shall prescribe and publish in the Federal Register standards to ensure that each ship described in subparagraph (B) is, to the maximum extent practicable without impairing the operations or operational capabilities of the ship, operated in a manner that is consistent with the special area requirements of Regulation 5 of Annex V to the Convention.
-
-  (B) Subparagraph (A) applies to surface ships that are owned or operated by the Department of the Navy that the Secretary plans to decommission during the period beginning on January 1, 2001, and ending on December 31, 2005.
-
-  (C) At the same time that the Secretary publishes standards under subparagraph (A), the Secretary shall publish in the Federal Register a list of the ships covered by subparagraph (B).
-
-**(e) Regulations** The Secretary or the Administrator, consistent with [section 1903 of this title](./chapter-033-prevention-of-pollution-from-ships.md#section-1903), shall prescribe regulations applicable to the ships of a country not a party to the MARPOL Protocol (or the applicable Annex), including regulations conforming to and giving effect to the requirements of Annex V and Annex VI as they apply under subsection (a) of this section, to ensure that their treatment is not more favorable than that accorded ships to parties to the MARPOL Protocol.
-
-**(f) Compliance by excluded vessels**
-
-(1) The Secretary of the Navy shall develop and, as appropriate, support the development of technologies and practices for solid waste management aboard ships owned or operated by the Department of the Navy, including technologies and practices for the reduction of the waste stream generated aboard such ships, that are necessary to ensure the compliance of such ships with subsection (b) of this section.
-
-(2) Notwithstanding any effective date of the application of this section to a ship, the provisions of Annex V to the Convention and subsection (b)(3)(B)(i) of this section with respect to the disposal of plastic shall apply to ships equipped with plastic processors required for the long-term collection and storage of plastic aboard ships of the Navy upon the installation of such processors in such ships.
-
-(3) Except when necessary for the purpose of securing the safety of the ship, the health of the ship’s personnel, or saving life at sea, it shall be a violation of this chapter for a ship referred to in subsection (b)(1)(A) of this section that is owned or operated by the Department of the Navy:
-
-  (A) With regard to a submersible, to discharge buoyant garbage or plastic.
-
-  (B) With regard to a surface ship, to discharge plastic contaminated by food during the last 3 days before the ship enters port.
-
-  (C) With regard to a surface ship, to discharge plastic, except plastic that is contaminated by food, during the last 20 days before the ship enters port.
-
-(4) The Secretary of Defense shall publish in the Federal Register:
-
-  (A) Each year, the amount and nature of the discharges in special areas, not otherwise authorized under this chapter, during the preceding year from ships referred to in subsection (b)(1)(A) of this section owned or operated by the Department of the Navy.
-
-  (B) Beginning on October 1, 1996, and each year thereafter until October 1, 1998, a list of the names of such ships equipped with plastic processors pursuant to section 1003(e) of the National Defense Authorization Act for Fiscal Year 1994.
-
-**(g) Waiver authority** The President may waive the effective dates of the requirements set forth in subsection (c) 11 See References in Text note below. of this section and in subsection 1003(e) of the National Defense Authorization Act for Fiscal Year 1994 if the President determines it to be in the paramount interest of the United States to do so. Any such waiver shall be for a period not in excess of one year. The President shall submit to the Congress each January a report on all waivers from the requirements of this section granted during the preceding calendar year, together with the reasons for granting such waivers.
-
-**(h) Noncommercial shipping standards** The heads of Federal departments and agencies shall prescribe standards applicable to ships excluded from this chapter by subsection (b)(1) of this section and for which they are responsible. Standards prescribed under this subsection shall ensure, so far as is reasonable and practicable without impairing the operations or operational capabilities of such ships, that such ships act in a manner consistent with the MARPOL Protocol.
-
-**(i) Savings clause** Nothing in this section shall be construed to restrict in a manner inconsistent with international law navigational rights and freedoms as defined by United States law, treaty, convention, or customary international law.
+## § 1902. Repealed. Pub. L. 108–293, title III, § 303(a), (c), Aug. 9, 2004, 118 Stat. 1042
 
 ### Statutory Notes
 
-#### References in Text
-This chapter, referred to in subsec. (b)(1), was in the original “this Act”, meaning Pub. L. 96–478, Oct. 21, 1980, 94 Stat. 2297, known as the “Act to Prevent Pollution from Ships” which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 1901 of this title](./chapter-033-prevention-of-pollution-from-ships.md#section-1901) and Tables.
+Section 2001, Pub. L. 96–591, § 2, Dec. 24, 1980, 94 Stat. 3415; Pub. L. 102–241, § 21(1), Dec. 19, 1991, 105 Stat. 2217; Pub. L. 102–587, title V, § 5206[(1)], Nov. 4, 1992, 106 Stat. 5074, related to Rule 1, application of rules for navigation of inland waters of the United States and Canadian waters of the Great Lakes.
 
-Section 1003(e) of the National Defense Authorization Act for Fiscal Year 1994, referred to in subsecs. (f)(4)(B) and (g), is section 1003(e) of Pub. L. 103–160, which is set out below.
+Section 2002, Pub. L. 96–591, § 2, Dec. 24, 1980, 94 Stat. 3416, related to Rule 2, responsibility for compliance and departure from rules to avoid immediate danger.
 
-Subsection (c) of this section, referred to in subsec. (g), was redesignated subsection (d) by Pub. L. 110–280, § 4(3), July 21, 2008, 122 Stat. 2613.
+Section 2003, Pub. L. 96–591, § 2, Dec. 24, 1980, 94 Stat. 3416; Pub. L. 100–448, § 14(1), Sept. 28, 1988, 102 Stat. 1844, related to Rule 3, definitions.
 
-#### Amendments
-2011—Subsec. (b). Pub. L. 112–81, § 313(a), amended subsec. (b) generally. Prior to amendment, subsec. (b) related to excluded vessels.
+Section 2004, Pub. L. 96–591, § 2, Dec. 24, 1980, 94 Stat. 3417, related to Rule 4, application of steering and sailing rules in any condition of visibility.
 
-Subsec. (f)(1). Pub. L. 112–81, § 313(b)(1), substituted “subsection (b)” for “Annex V to the Convention on or before the dates referred to in subsections (b)(2)(A) and (c)(1)”.
+Section 2005, Pub. L. 96–591, § 2, Dec. 24, 1980, 94 Stat. 3418, related to Rule 5, proper look-out.
 
-Subsec. (f)(2). Pub. L. 112–81, § 313(b)(2), inserted “and subsection (b)(3)(B)(i) of this section” after “Annex V to the Convention”.
+Section 2006, Pub. L. 96–591, § 2, Dec. 24, 1980, 94 Stat. 3418, related to Rule 6, safe speed.
 
-2008—Subsec. (a)(5). Pub. L. 110–280, § 4(1), added par. (5).
+Section 2007, Pub. L. 96–591, § 2, Dec. 24, 1980, 94 Stat. 3418, related to Rule 7, risk of collision.
 
-Subsec. (b)(1). Pub. L. 110–280, § 4(2)(A), substituted “paragraphs (2) and (3),” for “paragraph (2),” in introductory provisions.
+Section 2008, Pub. L. 96–591, § 2, Dec. 24, 1980, 94 Stat. 3419; Pub. L. 102–241, § 21(2), Dec. 19, 1991, 105 Stat. 2217, related to Rule 8, action to avoid collision.
 
-Subsec. (b)(3). Pub. L. 110–280, § 4(2)(B), added par. (3).
+Section 2009, Pub. L. 96–591, § 2, Dec. 24, 1980, 94 Stat. 3419; Pub. L. 104–324, title VII, § 701(1), Oct. 19, 1996, 110 Stat. 3932, related to Rule 9, narrow channels.
 
-Subsecs. (c), (d). Pub. L. 110–280, § 4(3), added subsec. (c) and redesignated former subsec. (c) as (d). Former subsec. (d) redesignated (e).
+Section 2010, Pub. L. 96–591, § 2, Dec. 24, 1980, 94 Stat. 3420; Pub. L. 102–587, title V, § 5206(2), Nov. 4, 1992, 106 Stat. 5074, related to Rule 10, traffic separation schemes.
 
-Subsec. (e). Pub. L. 110–280, § 4(4)(C), substituted “Protocol (or the applicable Annex), including regulations conforming to and giving effect to the requirements of Annex V and Annex VI” for “Protocol, including regulations conforming to and giving effect to the requirements of Annex V”.
+Section 2011, Pub. L. 96–591, § 2, Dec. 24, 1980, 94 Stat. 3420, related to Rule 11, application of rules of conduct of vessels in sight of one another.
 
-Pub. L. 110–280, § 4(4)(B), made technical amendment to reference in original act which appears in text as reference to “of this section” requiring no change in text.
+Section 2012, Pub. L. 96–591, § 2, Dec. 24, 1980, 94 Stat. 3420, related to Rule 12, sailing vessels in sight of one another.
 
-Pub. L. 110–280, § 4(4)(A), inserted “or the Administrator, consistent with [section 1903 of this title](./chapter-033-prevention-of-pollution-from-ships.md#section-1903),” after “Secretary”.
+Section 2013, Pub. L. 96–591, § 2, Dec. 24, 1980, 94 Stat. 3420, related to Rule 13, overtaking vessels in sight of one another.
 
-Pub. L. 110–280, § 4(3), redesignated subsec. (d) as (e). Former subsec. (e) redesignated (f).
+Section 2014, Pub. L. 96–591, § 2, Dec. 24, 1980, 94 Stat. 3421; Pub. L. 98–557, § 16(c), Oct. 30, 1984, 98 Stat. 2867, related to Rule 14, head-on situations for vessels in sight of one another.
 
-Subsecs. (f) to (h). Pub. L. 110–280, § 4(3), redesignated subsecs. (e) to (g) as (f) to (h), respectively.
+Section 2015, Pub. L. 96–591, § 2, Dec. 24, 1980, 94 Stat. 3421; Pub. L. 104–324, title VII, § 701(2), Oct. 19, 1996, 110 Stat. 3932, related to Rule 15, crossing situations for vessels in sight of one another.
 
-Subsec. (i). Pub. L. 110–280, § 4(5), added subsec. (i).
+Section 2016, Pub. L. 96–591, § 2, Dec. 24, 1980, 94 Stat. 3421, related to Rule 16, action by give-way vessels in sight of one another.
 
-1998—Subsec. (c)(2)(A)(iii). Pub. L. 105–261, § 326(a)(1), added cl. (iii).
+Section 2017, Pub. L. 96–591, § 2, Dec. 24, 1980, 94 Stat. 3421, related to Rule 17, action by stand-on vessels in sight of one another.
 
-Subsec. (c)(2)(B)(ii). Pub. L. 105–261, § 326(a)(2), substituted “clauses (ii) and (iii) of subparagraph (A)” for “subparagraph (A)(ii)”.
+Section 2018, Pub. L. 96–591, § 2, Dec. 24, 1980, 94 Stat. 3422, related to Rule 18, responsibilities between vessels in sight of one another.
 
-Subsec. (e)(3)(A). Pub. L. 105–261, § 326(b), struck out “garbage that contains more than the minimum amount practicable of” after “buoyant garbage or”.
+Section 2019, Pub. L. 96–591, § 2, Dec. 24, 1980, 94 Stat. 3422, related to Rule 19, conduct of vessels not in sight of one another in restricted visibility.
 
-1996—Subsec. (b)(1)(B). Pub. L. 104–227 inserted “or the Antarctic Protocol” after “MARPOL Protocol”.
+Section 2020, Pub. L. 96–591, § 2, Dec. 24, 1980, 94 Stat. 3423, related to Rule 20, application of rules concerning lights and shapes.
 
-Subsec. (c)(1). Pub. L. 104–201, § 324(a)(1), substituted “Except as provided in paragraphs (2) and (3), not later than” for “Not later than”.
+Section 2021, Pub. L. 96–591, § 2, Dec. 24, 1980, 94 Stat. 3423, related to Rule 21, definitions of lights and shapes.
 
-Subsec. (c)(2) to (4). Pub. L. 104–201, § 324(a)(2), added pars. (2) and (3) and struck out former pars. (2) to (4) which required the Secretary of the Navy to submit to Congress a plan for compliance of Navy ships with the requirements set forth in par. (1) of this subsec. and provided for modification of the applicability of par. (1) as appropriate.
+Section 2022, Pub. L. 96–591, § 2, Dec. 24, 1980, 94 Stat. 3424, related to Rule 22, visibility of lights.
 
-Subsec. (e)(4)(A). Pub. L. 104–201, § 324(d), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “Beginning on October 1, 1994, and each year thereafter until October 1, 2000, the amount and nature of the discharges in special areas, not otherwise authorized under Annex V to the Convention, during the preceding year from ships referred to in subsection (b)(1)(A) of this section owned or operated by the Department of the Navy.”
+Section 2023, Pub. L. 96–591, § 2, Dec. 24, 1980, 94 Stat. 3424; Pub. L. 104–324, title VII, § 701(3), Oct. 19, 1996, 110 Stat. 3932, related to Rule 23, lights of power-driven vessels underway.
 
-1993—Subsec. (b)(2)(A). Pub. L. 103–160, § 1003(a), substituted “as follows:” and cls. (i) to (iii) for “after 5 years after the effective date of this paragraph to a ship referred to in paragraph (1)(A).”
+Section 2024, Pub. L. 96–591, § 2, Dec. 24, 1980, 94 Stat. 3425; Pub. L. 98–557, § 16(b)(1), Oct. 30, 1984, 98 Stat. 2866; Pub. L. 104–324, title VII, § 701(4), Oct. 19, 1996, 110 Stat. 3932, related to Rule 24, lights and shapes of vessels towing or pushing another vessel.
 
-Subsecs. (c), (d). Pub. L. 103–160, § 1003(b), added subsec. (c) and redesignated former subsec. (c) as (d). Former subsec. (d) redesignated (g).
+Section 2025, Pub. L. 96–591, § 2, Dec. 24, 1980, 94 Stat. 3426, related to Rule 25, lights and shapes of sailing vessels underway and vessels under oars.
 
-Subsecs. (e), (f). Pub. L. 103–160, § 1003(c), (d), added subsecs. (e) and (f).
+Section 2026, Pub. L. 96–591, § 2, Dec. 24, 1980, 94 Stat. 3427; Pub. L. 104–324, title VII, § 701(5), Oct. 19, 1996, 110 Stat. 3933, related to Rule 26, lights and shapes of fishing vessels.
 
-Subsec. (g). Pub. L. 103–160, § 1003(b)(1), redesignated subsec. (d) as (g).
+Section 2027, Pub. L. 96–591, § 2, Dec. 24, 1980, 94 Stat. 3427; Pub. L. 100–448, § 14(2), (3), Sept. 28, 1988, 102 Stat. 1844, related to Rule 27, lights and shapes of vessels not under command or restricted in their ability to maneuver.
 
-1987—Subsec. (a). Pub. L. 100–220, § 2102(a), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “This chapter applies to—
+Section 2028 was reserved for Rule 28.
 
-“(1) a ship of United States registry or nationality, or one operated under the authority of the United States, wherever located;
+Section 2029, Pub. L. 96–591, § 2, Dec. 24, 1980, 94 Stat. 3428, related to Rule 29, lights and shapes of pilot vessels.
 
-“(2) a ship registered in or of the nationality of a country party to the MARPOL Protocol, or one operated under the authority of a country party to the MARPOL Protocol, while in the navigable waters of the United States; and
+Section 2030, Pub. L. 96–591, § 2, Dec. 24, 1980, 94 Stat. 3429, related to Rule 30, lights and shapes of anchored vessels and vessels aground.
 
-“(3) a ship registered in or of the nationality of a country not a party to the MARPOL Protocol, under subsection (c) of this section, while in the navigable waters of the United States.”
+Section 2031, Pub. L. 96–591, § 2, Dec. 24, 1980, 94 Stat. 3429, related to Rule 31, lights and shapes of seaplanes.
 
-Subsec. (b). Pub. L. 100–220, § 2102(b), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “This chapter does not apply to—
+Section 2032, Pub. L. 96–591, § 2, Dec. 24, 1980, 94 Stat. 3429, related to Rule 32, definitions of sound signals.
 
-“(1) a warship, naval auxiliary, or other ship owned or operated by the United States when engaged in noncommercial service; or
+Section 2033, Pub. L. 96–591, § 2, Dec. 24, 1980, 94 Stat. 3430, related to Rule 33, equipment for sound signals.
 
-“(2) any other ship specifically excluded by the MARPOL Protocol.”
+Section 2034, Pub. L. 96–591, § 2, Dec. 24, 1980, 94 Stat. 3430; Pub. L. 104–324, title VII, § 701(6), Oct. 19, 1996, 110 Stat. 3933, related to Rule 34, maneuvering and warning signals.
 
-Subsec. (c). Pub. L. 100–220, § 2102(c), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “The Secretary shall prescribe regulations applicable to the ships of a country not a party to the MARPOL Protocol to ensure that their treatment is not more favorable than that accorded ships of parties to the MARPOL Protocol.”
+Section 2035, Pub. L. 96–591, § 2, Dec. 24, 1980, 94 Stat. 3431, related to Rule 35, sound signals in restricted visibility.
 
-#### Effective Date of 1987 Amendment
-Amendment by Pub. L. 100–220 effective Dec. 31, 1988, the date on which Annex V to the International Convention for the Prevention of Pollution from Ships, 1973, entered into force for the United States, see section 2002(a) of Pub. L. 100–220, set out as a note under [section 1901 of this title](./chapter-033-prevention-of-pollution-from-ships.md#section-1901).
+Section 2036, Pub. L. 96–591, § 2, Dec. 24, 1980, 94 Stat. 3432, related to Rule 36, signals to attract attention.
 
-#### Effective Date
-Subsecs. (c) and (d) of this section effective Oct. 21, 1980, see section 14(b) of Pub. L. 96–478, set out as a note under [section 1901 of this title](./chapter-033-prevention-of-pollution-from-ships.md#section-1901).
+Section 2037, Pub. L. 96–591, § 2, Dec. 24, 1980, 94 Stat. 3432, related to Rule 37, distress signals.
 
-#### Compliance With Annex V to the International Convention for the Prevention of Pollution From Ships, 1973
-Pub. L. 104–201, div. A, title III, § 324(b), (c), Sept. 23, 1996, 110 Stat. 2480, as amended by Pub. L. 105–85, div. A, title X, § 1073(c)(1), Nov. 18, 1997, 111 Stat. 1904; Pub. L. 108–136, div. A, title X, § 1031(f)(1), Nov. 24, 2003, 117 Stat. 1604, provided that: “(b) Sense of Congress.—(1) It is the sense of Congress that it should be an objective of the Navy to achieve full compliance with Annex V to the Convention as part of the Navy’s development of ships that are environmentally sound. “(2) In this subsection and subsection (c), the terms ‘Convention’ and ‘ship’ have the meanings given such terms in section 2(a) of the Act to Prevent Pollution from Ships ([33 U.S.C. 1901(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1901/a&num=0&edition=prelim)). “[(c) Repealed. Pub. L. 108–136, div. A, title X, § 1031(f)(1), Nov. 24, 2003, 117 Stat. 1604.]”
+Section 2038, Pub. L. 96–591, § 2, Dec. 24, 1980, 94 Stat. 3432, related to Rule 38, exemptions.
 
-#### Installation Schedule for Plastics Processor Equipment Aboard Ships; Request for Proposals for Equipment
-Pub. L. 103–160, div. A, title X, § 1003(e), Nov. 30, 1993, 107 Stat. 1747, provided that: “(1) Not later than October 1, 1994, the Secretary of the Navy shall release a request for proposals for equipment (hereinafter in this subsection referred to as ‘plastics processor’) required for the long-term collection and storage of plastic aboard ships owned or operated by the Navy. “(2) Not later than July 1, 1996, the Secretary shall install the first production unit of the plastics processor on board a ship owned or operated by the Navy. “(3) Not later than March 1, 1997, the Secretary shall complete the installation of plastics processors on board not less than 25 percent of the ships owned or operated by the Navy that require plastics processors to comply with section 3 of the Act to Prevent Pollution from Ships [[33 U.S.C. 1902](./chapter-033-prevention-of-pollution-from-ships.md#section-1902)], as amended by subsections (a), (b), and (c) of this section. “(4) Not later than July 1, 1997, the Secretary shall complete the installation of plastics processors on board not less than 50 percent of the ships owned or operated by the Navy that require processors to comply with section 3 of such Act, as amended by subsections (a), (b), and (c) of this section. “(5) Not later than July 1, 1998, the Secretary shall complete the installation of plastics processors on board not less than 75 percent of the ships owned or operated by the Navy that require processors to comply with section 3 of such Act, as amended by subsections (a), (b), and (c) of this section. “(6) Not later than December 31, 1998, the Secretary shall complete the installation of plastics processors on board all ships owned or operated by the Navy that require processors to comply with section 3 of such Act, as amended by subsections (a), (b), and (c) of this section.”
+#### Effective Date of Repeal
+Pub. L. 108–293, title III, § 303(a), (c), Aug. 9, 2004, 118 Stat. 1042, provided that the repeal of this subchapter by section 303(a) is effective on the effective date of final regulations prescribed by the Secretary of the Department in which the Coast Guard is operating under [section 2071 of this title](./chapter-034-inland-navigational-rules.md#section-2071). Repeal effective May 17, 2010, and Inland Navigation Rules moved to 33 CFR part 83. See 75 F.R. 19544, Apr. 15, 2010.
+
+#### Short Title
+Pub. L. 96–591, § 1, Dec. 24, 1980, 94 Stat. 3415, provided: “That this Act [enacting this chapter, amending sections 151, 1604, 1605, and 1608 of this title, repealing sections 154 to 159, 171 to 183, 191, 192, 201 to 213, 221, 222, 231, 232, 241 to 244, 251 to 262, 271, 272, 281 to 295, 301 to 303, 311 to 323, 331, 341 to 356, 360, and 360a of this title and sections 526b, 526c, and 526d of former Title 46, Shipping, and enacting provisions set out as notes under this section] may be cited as the ‘Inland Navigational Rules Act of 1980’.”
 
 
 <a id="section-1902a"></a>
-## § 1902a. Discharge of agricultural cargo residue
+## § 1902a. Inland navigation rules
 
-Notwithstanding any other provision of law, the discharge from a vessel of any agricultural cargo residue material in the form of hold washings shall be governed exclusively by the provisions of the Act to Prevent Pollution from Ships ([33 U.S.C. 1901](./chapter-033-prevention-of-pollution-from-ships.md#section-1901) et seq.) that implement Annex V to the International Convention for the Prevention of Pollution from Ships.
+The Secretary of the Department in which the Coast Guard is operating may issue inland navigation regulations applicable to all vessels upon the inland waters of the United States and technical annexes that are as consistent as possible with the respective annexes to the International Regulations.
 
 ### Statutory Notes
 
 #### References in Text
-The Act to Prevent Pollution from Ships, referred to in text, is Pub. L. 96–478, Oct. 21, 1980, 94 Stat. 2297, as amended, which is classified principally to this chapter (§ 1901 et seq.). For complete classification of this Act to the Code, see Short Title note set out under [section 1901 of this title](./chapter-033-prevention-of-pollution-from-ships.md#section-1901) and Tables.
+The International Regulations, referred to in text, came into effect pursuant to the Convention on the International Regulations for Preventing Collisions at Sea, 1972. See International Regulations for Preventing Collisions at Sea, 1972 note under [section 1602 of this title](./chapter-030-international-regulations-for-preventing-collisions-at-sea.md#section-1602).
 
-#### Codification
-Section was enacted as part of the Maritime Policy Improvement Act of 2002 and as part of the Maritime Transportation Security Act of 2002, and not as part of the Act to Prevent Pollution from Ships which comprises this chapter.
+#### Amendments
+2004—Pub. L. 108–293 amended section catchline and text generally. Prior to amendment, text read as follows: “The Secretary may issue regulations necessary to implement and interpret this chapter. The Secretary shall establish the following technical annexes to these Rules: Annex I, Positioning and Technical Details of Lights and Shapes; Annex II, Additional Signals for Fishing Vessels Fishing in Close Proximity; Annex III, Technical Details of Sound Appliances; and Annex IV, Distress Signals. These annexes shall be as consistent as possible with the respective annexes to the International Regulations. The Secretary may establish other technical annexes, including local pilot rules.”
 
 
 <a id="section-1903"></a>
-## § 1903. Administration and enforcement
-**(a) Duty of Secretary; Annexes of Convention applicable to seagoing vessels** Unless otherwise specified in this chapter, the Secretary shall administer and enforce the MARPOL Protocol, Annex IV to the Antarctic Protocol, and this chapter. In the administration and enforcement of the MARPOL Protocol and this chapter, Annexes I and II of the Convention apply only to seagoing ships.
+## § 1903. Violations of Inland Navigational Rules
+**(a) Liability of operator for civil penalty** Whoever operates a vessel in violation of this chapter, or of any regulation issued thereunder, or in violation of a certificate of alternative compliance issued under Rule 1 is liable to a civil penalty of not more than $5,000 for each violation.
 
-**(b) Duty of the Administrator** In addition to other duties specified in this chapter, the Administrator and the Secretary, respectively, shall have the following duties and authorities:
+**(b) Liability of vessel for civil penalty; seizure of vessel** Every vessel subject to this chapter, other than a public vessel being used for noncommercial purposes, that is operated in violation of this chapter, or of any regulation issued thereunder, or in violation of a certificate of alternative compliance issued under Rule 1 is liable to a civil penalty of not more than $5,000 for each violation, for which penalty the vessel may be seized and proceeded against in the district court of the United States of any district within which the vessel may be found.
 
-(1) The Administrator shall, and no other person may, issue Engine International Air Pollution Prevention certificates in accordance with Annex VI and the International Maritime Organization’s Technical Code on Control of Emissions of Nitrogen Oxides from Marine Diesel Engines, on behalf of the United States for a vessel of the United States as that term is defined in [section 116 of title 46](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section116&num=0&edition=prelim). The issuance of Engine International Air Pollution Prevention certificates shall be consistent with any applicable requirements of the Clean Air Act [[42 U.S.C. 7401](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section7401&num=0&edition=prelim) et seq.] or regulations prescribed under that Act.
+**(c) Assessment of civil penalty by Secretary; collection** The Secretary may assess any civil penalty authorized by this section. No such penalty may be assessed until the person charged, or the owner of the vessel charged, as appropriate, shall have been given notice of the violation involved and an opportunity for a hearing. For good cause shown, the Secretary may remit, mitigate, or compromise any penalty assessed. Upon the failure of the person charged, or the owner of the vessel charged, to pay an assessed penalty, as it may have been mitigated or compromised, the Secretary may request the Attorney General to commence an action in the appropriate district court of the United States for collection of the penalty as assessed, without regard to the amount involved, together with such other relief as may be appropriate.
 
-(2) The Administrator shall have authority to administer regulations 12, 13, 14, 15, 16, 17, 18, and 19 of Annex VI to the Convention.
+**(d) Withholding of clearance**
 
-(3) The Administrator shall, only as specified in [section 1907(f) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1907/f&num=0&edition=prelim), have authority to enforce Annex VI of the Convention.
+(1) If any owner, operator, or individual in charge of a vessel is liable for a penalty under this section, or if reasonable cause exists to believe that the owner, operator, or individual in charge may be subject to a penalty under this section, the Secretary of the Treasury, upon the request of the Secretary, shall with respect to such vessel refuse or revoke any clearance required by [section 60105 of title 46](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section60105&num=0&edition=prelim).
 
-**(c) Regulations; refuse record books; waste management plans; notification of crew and passengers**
-
-(1) The Secretary shall prescribe any necessary or desired regulations to carry out the provisions of the MARPOL Protocol, Annex IV to the Antarctic Protocol, or this chapter.
-
-(2) In addition to the authority the Secretary has to prescribe regulations under this chapter, the Administrator shall also prescribe any necessary or desired regulations to carry out the provisions of regulations 12, 13, 14, 15, 16, 17, 18, and 19 of Annex VI to the Convention.
-
-(3) In prescribing any regulations under this section, the Secretary and the Administrator shall consult with each other, and with respect to regulation 19, with the Secretary of the Interior.
-
-(4) The Secretary of the department in which the Coast Guard is operating shall—
-
-  (A) prescribe regulations which—
-
-    (i) require certain ships described in [section 1902(a)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1902/a/1&num=0&edition=prelim) to maintain refuse record books and shipboard management plans, and to display placards which notify the crew and passengers of the requirements of Annex V to the Convention and of Annex IV to the Antarctic Protocol; and
-
-    (ii) specify the ships described in [section 1902(a)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1902/a/1&num=0&edition=prelim) to which the regulations apply;
-
-  (B) seek an international agreement or international agreements which apply requirements equivalent to those described in subparagraph (A)(i) to all vessels subject to Annex V to the Convention; and
-
-  (C) within 2 years after the effective date of this paragraph, report to the Congress—
-
-    (i) regarding activities of the Secretary under subparagraph (B); and
-
-    (ii) if the Secretary has not obtained agreements pursuant to subparagraph (B) regarding the desirability of applying the requirements described in subparagraph (A)(i) to all vessels described in [section 1902(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1902/a&num=0&edition=prelim) which call at United States ports.
-
-(5) No standard issued by any person or Federal authority, with respect to emissions from tank vessels subject to regulation 15 of Annex VI to the Convention, shall be effective until 6 months after the required notification to the International Maritime Organization by the Secretary.
-
-**(d) Utilization of personnel, facilities, or equipment of other Federal departments and agencies** The Secretary may utilize by agreement, with or without reimbursement, personnel, facilities, or equipment of other Federal departments and agencies in administering the MARPOL Protocol, this chapter, or the regulations thereunder.
+(2) Clearance or a permit refused or revoked under this subsection may be granted upon filing of a bond or other surety satisfactory to the Secretary.
 
 ### Statutory Notes
 
 #### References in Text
-The Clean Air Act, referred to in subsec. (b)(1), is act July 14, 1955, ch. 360, 69 Stat. 322, which is classified generally to chapter 85 (§ 7401 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 7401 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section7401&num=0&edition=prelim) and Tables.
+Rule 1, referred to in pars. (a) and (b), was classified to [section 2001 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section2001&num=0&edition=prelim), prior to repeal by Pub. L. 108–293, title III, § 303(a), (c), Aug. 9, 2004, 118 Stat. 1042, effective May 17, 2010.
 
-The effective date of this paragraph, referred to in subsec. (c)(4)(C), is Dec. 31, 1988, the effective date of section 2107(b) of Pub. L. 100–220. See Effective Date of 1987 Amendment note below.
+#### Codification
+In subsec. (d)(1), “[section 60105 of title 46](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section60105&num=0&edition=prelim)” substituted for “section 4197 of the Revised Statutes of the United States (46 App. U.S.C. 91)” on authority of Pub. L. 109–304, § 18(c), Oct. 6, 2006, 120 Stat. 1709, which Act enacted [section 60105 of Title 46](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section60105&num=0&edition=prelim), Shipping.
 
 #### Amendments
-2008—Subsec. (b). Pub. L. 110–280, § 5(1), added subsec. (b). Former subsec. (b) redesignated (c).
-
-Subsec. (c). Pub. L. 110–280 redesignated subsec. (b) as (c), added pars. (2), (3), and (5), and redesignated former par. (2) as (4). Former subsec. (c) redesignated (d).
-
-Subsec. (d). Pub. L. 110–280, § 5(1), redesignated subsec. (c) as (d).
-
-1996—Subsec. (a). Pub. L. 104–227, § 201(c)(1), inserted “, Annex IV to the Antarctic Protocol,” after “the MARPOL Protocol” in first sentence.
-
-Subsec. (b)(1). Pub. L. 104–227, § 201(c)(2), inserted “, Annex IV to the Antarctic Protocol,” after “the MARPOL Protocol”.
-
-Subsec. (b)(2)(A). Pub. L. 104–227, § 201(c)(3), (4), struck out “within 1 year after the effective date of this paragraph,” before “prescribe” in introductory provisions and inserted “and of Annex IV to the Antarctic Protocol” after “the Convention” in cl. (i).
-
-1987—Subsec. (a). Pub. L. 100–220, § 2107(a), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “Unless otherwise specified herein, the Secretary shall administer and enforce the MARPOL Protocol and this chapter. In the administration and enforcement of the MARPOL Protocol and this chapter, Annexes I and II of the MARPOL Protocol shall be applicable only to seagoing ships.”
-
-Subsec. (b). Pub. L. 100–220, § 2107(b), designated existing provisions as par. (1) and added par. (2).
-
-#### Effective Date of 1987 Amendment
-Amendment by Pub. L. 100–220 effective Dec. 31, 1988, the date on which Annex V to the International Convention for the Prevention of Pollution from Ships, 1973, entered into force for the United States, see section 2002(a) of Pub. L. 100–220, set out as a note under [section 1901 of this title](./chapter-033-prevention-of-pollution-from-ships.md#section-1901).
+1996—Par. (d). Pub. L. 104–324 inserted heading and amended text generally. Prior to amendment, text read as follows: “The Secretary of the Treasury shall withhold or revoke, at the request of the Secretary, the clearance, required by [section 91 of title 46](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section91&num=0&edition=prelim), Appendix, of any vessel, the owner or operator of which is subject to any of the penalties in this section. Clearance may be granted in such cases upon the filing of a bond or other surety satisfactory to the Secretary.”
 
 #### Effective Date
-Subsec. (b) of this section effective Oct. 21, 1980, see section 14(b) of Pub. L. 96–478, set out as a note under [section 1901 of this title](./chapter-033-prevention-of-pollution-from-ships.md#section-1901).
-
-#### Transfer of Functions
-For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).
+Section effective 12 months after Dec. 24, 1981, see section 7 of Pub. L. 96–591, set out as an Effective Date of 1980 Amendment note under [section 1604 of this title](./chapter-030-international-regulations-for-preventing-collisions-at-sea.md#section-1604).
 
 
 <a id="section-1904"></a>
-## § 1904. Certificates
-**(a) Issuance by authorized designees; restriction on issuance** Except as provided in [section 1903(b)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1903/b/1&num=0&edition=prelim), the Secretary shall designate those persons authorized to issue on behalf of the United States the certificates required by the MARPOL Protocol. A certificate required by the MARPOL Protocol shall not be issued to a ship which is registered in or of the nationality of a country which is not a party to the MARPOL Protocol.
-
-**(b) Validity of foreign certificates** A certificate issued by a country which is a party to the MARPOL Protocol has the same validity as a certificate issued by the Secretary or the Administrator under the authority of this chapter.
-
-**(c) Location onboard vessel; inspection of vessels subject to jurisdiction of the United States** A ship required by the MARPOL Protocol to have a certificate—
-
-(1) shall carry a valid certificate onboard in the manner prescribed by the authority issuing the certificate; and
-
-(2) is subject to inspection while in a port or terminal under the jurisdiction of the United States.
-
-**(d) Onboard inspections; other Federal inspection authority unaffected** An inspection conducted under subsection (c)(2) of this section is limited to verifying whether or not a valid certificate is onboard, unless clear grounds exist which reasonably indicate that the condition of the ship or its equipment does not substantially agree with the particulars of its certificate. This section shall not limit the authority of any official or employee of the United States under any other treaty, law, or regulation to board and inspect a ship or its equipment.
-
-**(e) Detention orders; duration of detention; shipyard option** In addition to the penalties prescribed in [section 1908 of this title](./chapter-033-prevention-of-pollution-from-ships.md#section-1908), a ship required by the MARPOL Protocol to have a certificate—
-
-(1) which does not have a valid certificate onboard; or
-
-(2) whose condition or whose equipment’s condition does not substantially agree with the particulars of the certificate onboard;
-shall be detained by order of the Secretary at the port or terminal where the violation is discovered until, in the opinion of the Secretary, the ship can proceed to sea without presenting an unreasonable threat of harm to the marine environment or the public health and welfare. The detention order may authorize the ship to proceed to the nearest appropriate available shipyard rather than remaining at the place where the violation was discovered.
-
-**(f) Ship clearance; refusal or revocation** If a ship is under a detention order under this section, the Secretary may refuse or revoke the clearance required by [section 60105 of title 46](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section60105&num=0&edition=prelim).
-
-**(g) Review of detention orders; petition; determination by Secretary** A person whose ship is subject to a detention order under this section may petition the Secretary, in the manner prescribed by regulation, to review the detention order. Upon receipt of a petition under this subsection, the Secretary shall affirm, modify, or withdraw the detention order within the time prescribed by regulation.
-
-**(h) Compensation for loss or damage** A ship unreasonably detained or delayed by the Secretary acting under the authority of this chapter is entitled to compensation for any loss or damage suffered thereby.
+## § 1904. Repealed. Pub. L. 115–282, title VI, § 601(c)(5), Dec. 4, 2018, 132 Stat. 4290
 
 ### Statutory Notes
 
-#### Amendments
-2018—Subsec. (f). Pub. L. 115–232 amended subsec. (f) generally. Prior to amendment, subsec. (f) related to refusal or revocation of ship clearance or permits.
-
-2008—Subsec. (a). Pub. L. 110–280, § 6(1), substituted “Except as provided in [section 1903(b)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1903/b/1&num=0&edition=prelim), the Secretary” for “The Secretary”.
-
-Subsec. (b). Pub. L. 110–280, § 6(2), substituted “Secretary or the Administrator under the authority of this chapter.” for “Secretary under the authority of the MARPOL Protocol.”
-
-Subsec. (e). Pub. L. 110–280, § 6(3), substituted “environment or the public health and welfare.” for “environment.” in concluding provisions.
-
-#### Effective Date
-Subsec. (a) of this section effective Oct. 21, 1980, see section 14(b) of Pub. L. 96–478, set out as a note under [section 1901 of this title](./chapter-033-prevention-of-pollution-from-ships.md#section-1901).
+Section, Pub. L. 96–591, § 5, Dec. 24, 1980, 94 Stat. 3434; Pub. L. 97–322, title I, § 118(c), Oct. 15, 1982, 96 Stat. 1586; Pub. L. 98–557, § 16(b)(2), Oct. 30, 1984, 98 Stat. 2866; Pub. L. 101–225, title I, § 105(a)(1), Dec. 12, 1989, 103 Stat. 1909; Pub. L. 104–324, title III, § 304(a), (g), Oct. 19, 1996, 110 Stat. 3917, 3918; Pub. L. 107–295, title III, § 334, Nov. 25, 2002, 116 Stat. 2105; Pub. L. 108–293, title IV, § 418(e), Aug. 9, 2004, 118 Stat. 1049; Pub. L. 111–281, title VI, § 621(f), Oct. 15, 2010, 124 Stat. 2977, related to the establishment of the Navigation Safety Advisory Council. See [section 15107 of Title 46](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section15107&num=0&edition=prelim), Shipping.
 
 
 <a id="section-1905"></a>
-## § 1905. Pollution reception facilities
-**(a) Adequacy; criteria**
+## § 1905. Congressional statement of findings and purpose
+**(a)** The Congress finds that—
 
-(1) The Secretary, after consultation with the Administrator of the Environmental Protection Agency, shall establish regulations setting criteria for determining the adequacy of a port’s or terminal’s reception facilities for mixtures containing oil or noxious liquid substances and shall establish procedures whereby a person in charge of a port or terminal may request the Secretary to certify that the port’s or terminal’s facilities for receiving the residues and mixtures containing oil or noxious liquid substance from seagoing ships are adequate.
+(1) although fishery products provide an important source of protein and industrial products for United States consumption, United States fishery production annually falls far short of satisfying United States demand;
 
-(2) The Secretary, after consulting with appropriate Federal agencies, shall establish regulations setting criteria for determining the adequacy of reception facilities for garbage at a port or terminal, and stating such additional measures and requirements as are appropriate to ensure such adequacy. Persons in charge of ports and terminals shall provide reception facilities, or ensure that such facilities are available, for receiving garbage in accordance with those regulations.
+(2) overfishing and the degradation of vital fishery resource habitats have caused a reduction in the abundance and diversity of United States fishery resources;
 
-(3) The Secretary and the Administrator, after consulting with appropriate Federal agencies, shall jointly prescribe regulations setting criteria for determining the adequacy of reception facilities for receiving ozone depleting substances, equipment containing such substances, and exhaust gas cleaning residues at a port or terminal, and stating any additional measures and requirements as are appropriate to ensure such adequacy. Persons in charge of ports and terminals shall provide reception facilities, or ensure that reception facilities are available, in accordance with those regulations. The Secretary and the Administrator may jointly prescribe regulations to certify, and may issue certificates to the effect, that a port’s or terminal’s facilities for receiving ozone depleting substances, equipment containing such substances, and exhaust gas cleaning residues from ships are adequate.
+(3) escalated energy costs have had a negative effect on the economics of United States commercial and recreational fisheries;
 
-**(b) Traffic considerations** In determining the adequacy of reception facilities required by the MARPOL Protocol or the Antarctic Protocol at a port or terminal, and in establishing regulations under subsection (a) of this section, the Secretary or the Administrator may consider, among other things, the number and types of ships or seagoing ships using the port or terminal, including their principal trades.
+(4) commercial and recreational fisheries are a prominent factor in United States coastal economies and the direct and indirect returns to the United States economy from commercial and recreational fishing expenditures are threefold; and
 
-**(c) Certificate; issuance; validity; inspection; review of suspension or revocation by Secretary**
+(5) properly designed, constructed, and located artificial reefs in waters covered under this chapter can enhance the habitat and diversity of fishery resources; enhance United States recreational and commercial fishing opportunities; increase the production of fishery products in the United States; increase the energy efficiency of recreational and commercial fisheries; and contribute to the United States and coastal economies.
 
-(1) If reception facilities of a port or terminal meet the requirements of Annex I and Annex II to the Convention and the regulations prescribed under subsection (a)(1), the Secretary shall, after consultation with the Administrator of the Environmental Protection Agency, issue a certificate to that effect to the applicant.
-
-(2)
-
-  (A) Subject to subparagraph (B), if reception facilities of a port or terminal meet the requirements of Annex V to the Convention and the regulations prescribed under subsection (a)(2), the Secretary may, after consultation with appropriate Federal agencies, issue a certificate to that effect to the person in charge of the port or terminal.
-
-  (B) The Secretary may not issue a certificate attesting to the adequacy of reception facilities under this paragraph unless, prior to the issuance of the certificate, the Secretary conducts an inspection of the reception facilities of the port or terminal that is the subject of the certificate.
-
-  (C) The Secretary may, with respect to certificates issued under this paragraph prior to October 19, 1996, prescribe by regulation differing periods of validity for such certificates.
-
-(3) A certificate issued under this subsection—
-
-  (A) is valid for the 5-year period beginning on the date of issuance of the certificate, except that if—
-
-    (i) the charge for operation of the port or terminal is transferred to a person or entity other than the person or entity that is the operator on the date of issuance of the certificate—
-
-      (I) the certificate shall expire on the date that is 30 days after the date of the transfer; and
-
-      (II) the new operator shall be required to submit an application for a certificate before a certificate may be issued for the port or terminal; or
-
-    (ii) the certificate is suspended or revoked by the Secretary, the certificate shall cease to be valid; and
-
-  (B) shall be available for inspection upon the request of the master, other person in charge, or agent of a ship using or intending to use the port or terminal.
-
-(4) The suspension or revocation of a certificate issued under this subsection may be appealed to the Secretary and acted on by the Secretary in the manner prescribed by regulation.
-
-**(d) Publication of list of certificated ports or terminals**
-
-(1) The Secretary shall maintain a list of ports or terminals with respect to which a certificate issued under this section—
-
-  (A) is in effect; or
-
-  (B) has been revoked or suspended.
-
-(2) The Secretary shall make the list referred to in paragraph (1) available to the general public.
-
-**(e) Entry; denial**
-
-(1) Except in the case of force majeure, the Secretary shall deny entry to a seagoing ship required by the Convention or the Antarctic Protocol to retain onboard while at sea, residues and mixtures containing oil or noxious liquid substances, if—
-
-  (A) the port or terminal is one required by Annexes I and II of the Convention or Article 9 of Annex IV to the Antarctic Protocol or regulations hereunder to have adequate reception facilities; and
-
-  (B) the port or terminal does not hold a valid certificate issued by the Secretary under this section.
-
-(2) The Secretary may deny the entry of a ship to a port or terminal required by the MARPOL Protocol, this chapter, or regulations prescribed under this section relating to the provision of adequate reception facilities for garbage, ozone depleting substances, equipment containing those substances, or exhaust gas cleaning residues, if the port or terminal is not in compliance with the MARPOL Protocol, this chapter, or those regulations.
-
-**(f) Surveys**
-
-(1) The Secretary and the Administrator are authorized to conduct surveys of existing reception facilities in the United States to determine measures needed to comply with the MARPOL Protocol or the Antarctic Protocol.
-
-(2) Not later than 18 months after October 19, 1996, the Secretary shall promulgate regulations that require the operator of each port or terminal that is subject to any requirement of the MARPOL Protocol relating to reception facilities to post a placard in a location that can easily be seen by port and terminal users. The placard shall state, at a minimum, that a user of a reception facility of the port or terminal should report to the Secretary any inadequacy of the reception facility.
-
-### Statutory Notes
-
-#### Amendments
-2008—Subsec. (a)(3). Pub. L. 110–280, § 7(1), added par. (3).
-
-Subsec. (b). Pub. L. 110–280, § 7(2), inserted “or the Administrator” after “Secretary”.
-
-Subsec. (e)(2). Pub. L. 110–280, § 7(3), added par. (2) and struck out former par. (2). Prior to amendment, text read as follows: “The Secretary may deny the entry of a ship to a port or terminal required by regulations issued under this section to provide adequate reception facilities for garbage if the port or terminal is not in compliance with those regulations.”
-
-Subsec. (f)(1). Pub. L. 110–280, § 7(4), substituted “Secretary and the Administrator are” for “Secretary is”.
-
-Subsec. (f)(2). Pub. L. 110–280, § 7(5), struck out subpar. (A) designation before “Not later”.
-
-1996—Subsec. (b). Pub. L. 104–227, § 201(d)(1), inserted “or the Antarctic Protocol” after “the MARPOL Protocol”.
-
-Subsec. (c)(2). Pub. L. 104–324, § 801(a)(1), (2), designated existing provisions as subpar. (A), substituted “Subject to subparagraph (B), if” for “If”, and added subpars. (B) and (C).
-
-Subsec. (c)(3)(A). Pub. L. 104–324, § 801(a)(3), added subpar. (A) and struck out former subpar. (A) which read as follows: “is valid until suspended or revoked by the Secretary for cause or because of changed conditions; and”.
-
-Subsec. (d). Pub. L. 104–324, § 801(a)(4), added subsec. (d) and struck out former subsec. (d) which read as follows: “The Secretary shall periodically cause to be published in the Federal Register a list of the ports or terminals holding a valid certificate issued under this section.”
-
-Subsec. (e)(1). Pub. L. 104–227, § 201(d)(2), (3), inserted “or the Antarctic Protocol” after “the Convention” in introductory provisions and inserted “or Article 9 of Annex IV to the Antarctic Protocol” after “the Convention” in subpar. (A).
-
-Subsec. (f). Pub. L. 104–324, § 801(b), designated existing provisions as par. (1) and added par. (2)(A).
-
-Pub. L. 104–227, § 201(d)(4), inserted “or the Antarctic Protocol” after “the MARPOL Protocol”.
-
-1989—Subsec. (c)(1). Pub. L. 101–225 substituted “Annex I and Annex II” for “Annex V”.
-
-1987—Subsec. (a). Pub. L. 100–220, § 2103(a), designated existing provisions as par. (1), substituted “a port’s or terminal’s reception facilities for mixtures containing oil or noxious liquid substances” for “reception facilities of a port or terminal”, and added par. (2).
-
-Subsec. (b). Pub. L. 100–220, § 2103(b), inserted “and in establishing regulations under subsection (a) of this section,” and “ships or”.
-
-Subsec. (c). Pub. L. 100–220, § 2103(c), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “If, upon inspection, reception facilities of a port or terminal are adequate to meet the requirements of the MARPOL Protocol and the regulations established hereunder, the Secretary shall, after consultation with the Administrator of the Environmental Protection Agency, issue a certificate to that effect to the applicant. A certificate issued under this subsection—
-
-“(1) is valid until suspended or revoked by the Secretary for cause or because of changed conditions; and
-
-“(2) shall be available for inspection upon the request of the master, other person in charge, or agent of a seagoing ship using or intending to use the port or terminal.
-
-The suspension or revocation of a certificate issued under this subsection may be appealed to the Secretary and acted on by him in the manner prescribed by regulation.”
-
-Subsec. (e). Pub. L. 100–220, § 2103(d), designated existing provisions as par. (1), redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, in subpar. (A), substituted “Annexes I and II of the Convention” for “the MARPOL Protocol”, and added par. (2).
-
-#### Effective Date of 1987 Amendment
-Amendment by Pub. L. 100–220 effective Dec. 31, 1988, the date on which Annex V to the International Convention for the Prevention of Pollution from Ships, 1973, entered into force for the United States, see section 2002(a) of Pub. L. 100–220, set out as a note under [section 1901 of this title](./chapter-033-prevention-of-pollution-from-ships.md#section-1901).
-
-#### Effective Date
-Subsecs. (a), (c), and (f) of this section effective Oct. 21, 1980, see section 14(b) of Pub. L. 96–478, set out as a note under [section 1901 of this title](./chapter-033-prevention-of-pollution-from-ships.md#section-1901).
-
-
-<a id="section-1906"></a>
-## § 1906. Incidents involving ships
-**(a) Requirement to report incident** The master, person in charge, owner, charterer, manager, or operator of a ship involved in an incident shall report the incident in the manner prescribed by Article 8 of the Convention in accordance with regulations promulgated by the Secretary for that purpose.
-
-**(b) Requirement to report discharge, probable discharge, or presence of oil** The master or person in charge of—
-
-(1) a ship of United States registry or nationality, or operated under the authority of the United States, wherever located;
-
-(2) another ship while in the navigable waters of the United States; or
-
-(3) a sea port or oil handling facility subject to the jurisdiction of the United States,
-shall report a discharge, probable discharge, or presence of oil in the manner prescribed by Article 4 of the International Convention on Oil Pollution Preparedness, Response and Cooperation, 1990 (adopted at London, November 30, 1990), in accordance with regulations promulgated by the Secretary for that purpose.
-
-### Statutory Notes
-
-#### Amendments
-1991—Pub. L. 102–241 amended section generally. Prior to amendment, section read as follows:
-
-“(a) As soon as he has knowledge of an incident, the master or other person in charge of a ship shall report it to the Secretary in the manner prescribed by Article 8 of the Convention.
-
-“(b) Upon receipt of the report of an incident involving a ship, other than one of United States registry or nationality or one operated under the authority of the United States, the Secretary shall take the action required by Article 8 of the Convention.”
-
-
-<a id="section-1907"></a>
-## § 1907. Violations
-**(a) General prohibition; cooperation and enforcement; detection and monitoring measures; reports; evidence** It is unlawful to act in violation of the MARPOL Protocol, Annex IV to the Antarctic Protocol, this chapter, or the regulations issued thereunder. The Secretary shall cooperate with other parties to the MARPOL Protocol or to the Antarctic Protocol in the detection of violations and in enforcement of the MARPOL Protocol and Annex IV to the Antarctic Protocol. The Secretary shall use all appropriate and practical measures of detection and environmental monitoring, and shall establish adequate procedures for reporting violations and accumulating evidence.
-
-**(b) Investigations; subpenas: issuance by Secretary, enforcement; action by Secretary; information to party** Upon receipt of evidence that a violation has occurred, the Secretary shall cause the matter to be investigated. In any investigation under this section the Secretary may issue subpenas to require the attendance of any witness and the production of documents and other evidence. In case of refusal to obey a subpena issued to any person, the Secretary may request the Attorney General to invoke the aid of the appropriate district court of the United States to compel compliance. Upon completion of the investigation, the Secretary shall take the action required by the MARPOL Protocol or the Antarctic Protocol and whatever further action he considers appropriate under the circumstances. If the initial evidence was provided by a party to the MARPOL Protocol or the Antarctic Protocol, the Secretary, acting through the Secretary of State, shall inform that party of the action taken or proposed.
-
-**(c) Ship inspections; reports to Secretary; additional action**
-
-(1) This subsection applies to inspections relating to possible violations of Annex I or Annex II to the Convention, of Article 3 or Article 4 of Annex IV to the Antarctic Protocol, or of this chapter by any seagoing ship referred to in [section 1902(a)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1902/a/2&num=0&edition=prelim).
-
-(2) While at a port or terminal subject to the jurisdiction of the United States, a ship to which the MARPOL Protocol or the Antarctic Protocol applies may be inspected by the Secretary—
-
-  (A) to verify whether or not the ship has discharged a harmful substance in violation of the MARPOL Protocol, Annex IV to the Antarctic Protocol, or this chapter; or
-
-  (B) to comply with a request from a party to the MARPOL Protocol or the Antarctic Protocol for an investigation as to whether the ship may have discharged a harmful substance anywhere in violation of the MARPOL Protocol or Annex IV to the Antarctic Protocol. An investigation may be undertaken under this clause only when the requesting party has furnished sufficient evidence to allow the Secretary reasonably to believe that a discharge has occurred.
-  If an inspection under this subsection indicates that a violation has occurred, the investigating officer shall forward a report to the Secretary for appropriate action. The Secretary shall undertake to notify the master of the ship concerned and, acting in coordination with the Secretary of State, shall take any additional action required by Article 6 of the Convention.
-
-**(d) Garbage disposal inspections; covered ships; enforcement actions**
-
-(1) The Secretary may inspect a ship referred to in [section 1902(a)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1902/a/3&num=0&edition=prelim) to verify whether the ship has disposed of garbage in violation of Annex V to the Convention, Article 5 of Annex IV to the Antarctic Protocol, or this chapter.
-
-(2) If an inspection under this subsection indicates that a violation has occurred, the Secretary may undertake enforcement action under [section 1908 of this title](./chapter-033-prevention-of-pollution-from-ships.md#section-1908).
-
-**(e) Harmful substance or garbage disposal inspections; covered ships; enforcement actions**
-
-(1) The Secretary may inspect at any time a ship of United States registry or nationality or operating under the authority of the United States to which the MARPOL Protocol or the Antarctic Protocol applies to verify whether the ship has discharged a harmful substance or disposed of garbage in violation of those Protocols or this chapter.
-
-(2) If an inspection under this subsection indicates that a violation of the MARPOL Protocol, of Annex IV to the Antarctic Protocol, or of this chapter has occurred the Secretary may undertake enforcement action under [section 1908 of this title](./chapter-033-prevention-of-pollution-from-ships.md#section-1908).
-
-**(f) Inspections; enforcement**
-
-(1) The Secretary may inspect a ship to which this chapter applies as provided under [section 1902(a)(5) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1902/a/5&num=0&edition=prelim), to verify whether the ship is in compliance with Annex VI to the Convention and this chapter.
-
-(2) If an inspection under this subsection or any other information indicates that a violation has occurred, the Secretary, or the Administrator in a matter referred by the Secretary, may undertake enforcement action under this section.
-
-(3) Notwithstanding subsection (b) and paragraph (2) of this subsection, the Administrator shall have all of the authorities of the Secretary, as specified in subsection (b) of this section, for the purposes of enforcing regulations 17 and 18 of Annex VI to the Convention to the extent that shoreside violations are the subject of the action and in any other matter referred to the Administrator by the Secretary.
-
-### Statutory Notes
-
-#### Amendments
-2008—Subsec. (f). Pub. L. 110–280 amended subsec. (f) generally. Prior to amendment, text read as follows: “Remedies and requirements of this chapter supplement and neither amend nor repeal any other provisions of law, except as expressly provided in this chapter. Nothing in this chapter shall limit, deny, amend, modify, or repeal any other remedy available to the United States or any other person, except as expressly provided in this chapter.”
-
-1996—Subsec. (a). Pub. L. 104–227, § 201(e)(1), (2), inserted “Annex IV to the Antarctic Protocol,” after “violation of the MARPOL Protocol,”, “or to the Antarctic Protocol” after “to the MARPOL Protocol”, and “and Annex IV to the Antarctic Protocol” after “enforcement of the MARPOL Protocol”.
-
-Subsec. (b). Pub. L. 104–227, § 201(e)(3), inserted “or the Antarctic Protocol” after “MARPOL Protocol” in two places.
-
-Subsec. (c)(1). Pub. L. 104–227, § 201(e)(4), inserted “, of Article 3 or Article 4 of Annex IV to the Antarctic Protocol,” after “to the Convention”.
-
-Subsec. (c)(2). Pub. L. 104–227, § 201(e)(5), (6), inserted “or the Antarctic Protocol” after “which the MARPOL Protocol” in introductory provisions, “, Annex IV to the Antarctic Protocol,” after “MARPOL Protocol” in subpar. (A), and “or the Antarctic Protocol” after “to the MARPOL Protocol” and “or Annex IV to the Antarctic Protocol” after “of the MARPOL Protocol” in subpar. (B).
-
-Subsec. (d)(1). Pub. L. 104–227, § 201(e)(8), inserted “, Article 5 of Annex IV to the Antarctic Protocol,” after “Convention”.
-
-Subsec. (e)(1). Pub. L. 104–227, § 201(e)(9), inserted “or the Antarctic Protocol” after “MARPOL Protocol” and substituted “those Protocols” for “that Protocol”.
-
-Subsec. (e)(2). Pub. L. 104–227, § 201(e)(10), inserted “, of Annex IV to the Antarctic Protocol,” after “MARPOL Protocol”.
-
-1989—Subsecs. (c)(1), (e)(2). Pub. L. 101–225 inserted “or of this chapter”.
-
-1987—Subsec. (c). Pub. L. 100–220, § 2104(a), added par. (1), designated existing provisions as par. (2), redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, and in closing provisions of par. (2) substituted “The” for “If a report made under this subsection involves a ship, other than one of United States registry or nationality or one operated under the authority of the United States, the”.
-
-Subsecs. (d) to (f). Pub. L. 100–220, § 2104(b), added subsecs. (d) and (e) and redesignated former subsec. (d) as (f).
-
-#### Effective Date of 1987 Amendment
-Amendment by Pub. L. 100–220 effective Dec. 31, 1988, the date on which Annex V to the International Convention for the Prevention of Pollution from Ships, 1973, entered into force for the United States, see section 2002(a) of Pub. L. 100–220, set out as a note under [section 1901 of this title](./chapter-033-prevention-of-pollution-from-ships.md#section-1901).
-
-
-<a id="section-1908"></a>
-## § 1908. Penalties for violations
-**(a) Criminal penalties; payment for information leading to conviction** A person who knowingly violates the MARPOL Protocol, Annex IV to the Antarctic Protocol, this chapter, or the regulations issued thereunder commits a class D felony. In the discretion of the Court, an amount equal to not more than ½ of such fine may be paid to the person giving information leading to conviction.
-
-**(b) Civil penalties; separate violations; assessment notice; considerations affecting amount; payment for information leading to assessment of penalty** A person who is found by the Secretary, or the Administrator as provided for in this chapter, after notice and an opportunity for a hearing, to have—
-
-(1) violated the MARPOL Protocol, Annex IV to the Antarctic Protocol, this chapter, or the regulations issued thereunder shall be liable to the United States for a civil penalty, not to exceed $25,000 for each violation; or
-
-(2) made a false, fictitious, or fraudulent statement or representation in any matter in which a statement or representation is required to be made to the Secretary, or the Administrator as provided for in this chapter, under the MARPOL Protocol, Annex IV to the Antarctic Protocol, this chapter, or the regulations thereunder, shall be liable to the United States for a civil penalty, not to exceed $5,000 for each statement or representation.
-Each day of a continuing violation shall constitute a separate violation. The amount of the civil penalty shall be assessed by the Secretary, or the Administrator as provided for in this chapter or his designee, by written notice. In determining the amount of the penalty, the Secretary, or the Administrator as provided for in this chapter, shall take into account the nature, circumstances, extent, and gravity of the prohibited acts committed and, with respect to the violator, the degree of culpability, any history of prior offenses, ability to pay, and other matters as justice may require. An amount equal to not more than ½ of such penalties may be paid by the Secretary, or the Administrator as provided for in this chapter, to the person giving information leading to the assessment of such penalties.
-
-**(c) Abatement of civil penalties; collection by Attorney General** The Secretary, or the Administrator as provided for in this chapter, may compromise, modify, or remit, with or without conditions, any civil penalty which is subject to assessment or which has been assessed under this section. If any person fails to pay an assessment of a civil penalty after it has become final, the Secretary, or the Administrator as provided for in this chapter, may refer the matter to the Attorney General of the United States for collection in any appropriate district court of the United States.
-
-**(d) Liability in rem; district court jurisdiction** A ship operated in violation of the MARPOL Protocol, Annex IV to the Antarctic Protocol, this chapter, or the regulations thereunder is liable in rem for any fine imposed under subsection (a) or civil penalty assessed pursuant to subsection (b), and may be proceeded against in the United States district court of any district in which the ship may be found.
-
-**(e) Ship clearance or permits; refusal or revocation; bond or other surety** If any ship subject to the MARPOL Protocol, Annex IV to the Antarctic Protocol, or this chapter, its owner, operator, or person in charge is liable for a fine or civil penalty under this section, or if reasonable cause exists to believe that the ship, its owner, operator, or person in charge may be subject to a fine or civil penalty under this section, the Secretary of the Treasury, upon the request of the Secretary, shall refuse or revoke the clearance required by [section 60105 of title 46](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section60105&num=0&edition=prelim). Clearance may be granted upon the filing of a bond or other surety satisfactory to the Secretary.
-
-**(f) Referrals for appropriate action by foreign country** Notwithstanding subsection (a), (b), or (d) of this section, if the violation is by a ship registered in or of the nationality of a country party to the MARPOL Protocol or the Antarctic Protocol, or one operated under the authority of a country party to the MARPOL Protocol or the Antarctic Protocol, the Secretary, or the Administrator as provided for in this chapter acting in coordination with the Secretary of State, may refer the matter to the government of the country of the ship’s registry or nationality, or under whose authority the ship is operating for appropriate action, rather than taking the actions required or authorized by this section.
-
-**(g) Deposits in Abandoned Seafarers Fund** Any penalty collected under subsection (a) or (b) that is not paid under that subsection to the person giving information leading to the conviction or assessment of such penalties shall be deposited in the Abandoned Seafarers Fund established under [section 11113 of title 46](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section11113&num=0&edition=prelim).
-
-### Statutory Notes
-
-#### Codification
-In subsec. (e), “[section 60105 of title 46](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section60105&num=0&edition=prelim)” substituted for “section 4197 of the Revised Statutes of the United States (46 U.S.C. App. 91)” on authority of Pub. L. 109–304, § 18(c), Oct. 6, 2006, 120 Stat. 1709, which Act enacted [section 60105 of Title 46](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section60105&num=0&edition=prelim), Shipping.
-
-#### Amendments
-2014—Subsec. (g). Pub. L. 113–281 added subsec. (g).
-
-2008—Pub. L. 110–280, § 10(1), substituted “MARPOL Protocol,” for “MARPOL Protocol,,” wherever appearing in subsecs. (a), (b), and (d).
-
-Subsec. (b). Pub. L. 110–280, § 10(2)(C), in concluding provisions, inserted “or the Administrator as provided for in this chapter” after “Secretary,” and “, or the Administrator as provided for in this chapter,” after “Secretary” in two places.
-
-Pub. L. 110–280, § 10(2)(A), in introductory provisions, inserted “or the Administrator as provided for in this chapter,” after “Secretary,”.
-
-Subsec. (b)(2). Pub. L. 110–280, § 10(2)(B), inserted “, or the Administrator as provided for in this chapter,” after “Secretary”.
-
-Subsec. (c). Pub. L. 110–280, § 10(3), inserted “, or the Administrator as provided for in this chapter,” after “Secretary” in two places.
-
-Subsec. (f). Pub. L. 110–280, § 10(4), inserted “or the Administrator as provided for in this chapter” after “Secretary,”.
-
-1996—Subsec. (a). Pub. L. 104–227, § 201(f)(1), inserted “, Annex IV to the Antarctic Protocol,” after “MARPOL Protocol,”.
-
-Subsec. (b). Pub. L. 104–227, § 201(f)(2), (3), inserted “, Annex IV to the Antarctic Protocol,” after “MARPOL Protocol,” in pars. (1) and (2).
-
-Subsec. (d). Pub. L. 104–227, § 201(f)(4), inserted “, Annex IV to the Antarctic Protocol,” after “MARPOL Protocol,”.
-
-Subsec. (e). Pub. L. 104–227, § 201(f)(5), inserted “, Annex IV to the Antarctic Protocol,” after “MARPOL Protocol”.
-
-Subsec. (f). Pub. L. 104–227, § 201(f)(6), inserted “or the Antarctic Protocol” after “MARPOL Protocol” in two places.
-
-1993—Subsec. (e). Pub. L. 103–182 substituted “shall refuse or revoke the clearance required by [section 91 of title 46](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section91&num=0&edition=prelim), Appendix. Clearance may be granted upon the filing of a bond or other surety satisfactory to the Secretary.” for “shall refuse or revoke—
-
-“(1) the clearance required by [section 91 of title 46](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section91&num=0&edition=prelim), Appendix; or
-
-“(2) a permit to proceed under [section 313 of title 46](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section313&num=0&edition=prelim), Appendix, or [section 1443 of title 19](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1443&num=0&edition=prelim).
-
-Clearance or a permit to proceed may be granted upon the filing of a bond or other surety satisfactory to the Secretary.”
-
-1990—Subsec. (a). Pub. L. 101–380 substituted “commits a class D felony” for “shall, for each violation, be fined not more than $50,000 or be imprisoned for not more than 5 years, or both”.
-
-1987—Subsec. (a). Pub. L. 100–220, § 2105(a)(1), inserted at end “In the discretion of the Court, an amount equal to not more than ½ of such fine may be paid to the person giving information leading to conviction.”
-
-Subsec. (b). Pub. L. 100–220, § 2105(a)(2), inserted at end “An amount equal to not more than ½ of such penalties may be paid by the Secretary to the person giving information leading to the assessment of such penalties.”
-
-Subsec. (f). Pub. L. 100–220, § 2105(b), substituted “to the government of the country of the ship’s registry or nationality, or under whose authority the ship is operating” for “to that country”.
-
-#### Effective Date of 1990 Amendment
-Amendment by Pub. L. 101–380 applicable to incidents occurring after Aug. 18, 1990, see section 1020 of Pub. L. 101–380, set out as an Effective Date note under [section 2701 of this title](./chapter-040-oil-pollution.md#section-2701).
-
-#### Effective Date of 1987 Amendment
-Amendment by Pub. L. 100–220 effective Dec. 31, 1988, the date on which Annex V to the International Convention for the Prevention of Pollution from Ships, 1973, entered into force for the United States, see section 2002(a) of Pub. L. 100–220, set out as a note under [section 1901 of this title](./chapter-033-prevention-of-pollution-from-ships.md#section-1901).
-
-
-<a id="section-1909"></a>
-## § 1909. MARPOL Protocol; proposed amendments
-**(a) Acceptance of certain amendments by the President** A proposed amendment to the MARPOL Protocol received by the United States from the Secretary-General of the International Maritime Organization pursuant to Article VI of the MARPOL Protocol, may be accepted on behalf of the United States by the President following the advice and consent of the Senate, except as provided for in subsection (b) of this section.
-
-**(b) Action on certain amendments by the Secretary of State** A proposed amendment to Annex I, II, V, or VI to the Convention, appendices to those Annexes, or Protocol I of the Convention received by the United States from the Secretary-General of the International Maritime Organization pursuant to Article VI of the MARPOL Protocol, may be the subject of appropriate action on behalf of the United States by the Secretary of State following consultation with the Secretary, or the Administrator as provided for in this chapter, who shall inform the Secretary of State as to what action he considers appropriate at least 30 days prior to the expiration of the period specified in Article VI of the MARPOL Protocol during which objection may be made to any amendment received.
-
-**(c) Declaration of nonacceptance by the Secretary of State** Following consultation with the Secretary, the Secretary of State may make a declaration that the United States does not accept an amendment proposed pursuant to Article VI of the MARPOL Protocol.
-
-### Statutory Notes
-
-#### Amendments
-2008—Subsec. (b). Pub. L. 110–280 substituted “Annex I, II, V, or VI” for “Annex I, II, or V” and inserted “or the Administrator as provided for in this chapter,” after “Secretary,”.
-
-1987—Subsec. (a). Pub. L. 100–220, § 2106(1), substituted “International Maritime Organization” for “Inter-Governmental Maritime Consultative Organization”.
-
-Subsec. (b). Pub. L. 100–220, § 2106(2), substituted “Annex I, II, or V to the Convention, appendices to those Annexes, or Protocol I of the Convention” for “Annex I or II, appendices to the Annexes, or Protocol I of the MARPOL Protocol,” and “International Maritime Organization” for “Inter-Governmental Maritime Consultative Organization”.
-
-#### Effective Date of 1987 Amendment
-Amendment by Pub. L. 100–220 effective Dec. 31, 1988, the date on which Annex V to the International Convention for the Prevention of Pollution from Ships, 1973, entered into force for the United States, see section 2002(a) of Pub. L. 100–220, set out as a note under [section 1901 of this title](./chapter-033-prevention-of-pollution-from-ships.md#section-1901).
-
-
-<a id="section-1910"></a>
-## § 1910. Legal actions
-**(a) Persons with adversely affected interests as plaintiffs; defendants** Except as provided in subsection (b) of this section, any person having an interest which is, or can be, adversely affected, may bring an action on his own behalf—
-
-(1) against any person alleged to be in violation of the provisions of this chapter, or regulations issued hereunder;
-
-(2) against the Secretary where there is alleged a failure of the Secretary to perform any act or duty under this chapter which is not discretionary with the Secretary;
-
-(3) against the Administrator where there is alleged a failure of the Administrator to perform any act or duty under this chapter which is not discretionary; or
-
-(4) against the Secretary of the Treasury where there is alleged a failure of the Secretary of the Treasury to take action under [section 1908(e) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1908/e&num=0&edition=prelim).
-
-**(b) Commencement conditions** No action may be commenced under subsection (a) of this section—
-
-(1) prior to 60 days after the plaintiff has given notice, in writing and under oath, to the alleged violator, the Secretary concerned or the Administrator, and the Attorney General; or
-
-(2) if the Secretary or the Administrator has commenced enforcement or penalty action with respect to the alleged violation and is conducting such procedures diligently.
-
-**(c) Venue** Any suit brought under this section shall be brought—
-
-(1) in a case concerning an onshore facility or port, in the United States district court for the judicial district where the onshore facility or port is located;
-
-(2) in a case concerning an offshore facility or offshore structure under the jurisdiction of the United States, in the United States district court for the judicial district nearest the offshore facility or offshore structure;
-
-(3) in a case concerning a ship, in the United States district court for any judicial district wherein the ship or its owner or operator may be found; or
-
-(4) in any case, in the District Court for the District of Columbia.
-
-**(d) Costs; attorney fees; witness fees** The court, in issuing any final order in any action brought pursuant to this section, may award costs of litigation (including reasonable attorney and expert witness fees) to any party including the Federal Government.
-
-**(e) Federal intervention** In any action brought under this section, if the Secretary or Attorney General are not parties of record, the United States, through the Attorney General, shall have the right to intervene.
-
-### Statutory Notes
-
-#### Amendments
-2008—Subsec. (a)(3), (4). Pub. L. 110–280, § 12(1), added par. (3) and redesignated former par. (3) as (4).
-
-Subsec. (b)(1). Pub. L. 110–280, § 12(2), substituted “concerned or the Administrator,” for “concerned,”.
-
-Subsec. (b)(2). Pub. L. 110–280, § 12(3), inserted “or the Administrator” after “Secretary”.
-
-
-<a id="section-1911"></a>
-## § 1911. Effect on other laws
-
-Authorities, requirements, and remedies of this chapter supplement and neither amend nor repeal any other authorities, requirements, or remedies conferred by any other provision of law. Nothing in this chapter shall limit, deny, amend, modify, or repeal any other authority, requirement, or remedy available to the United States or any other person, except as expressly provided in this chapter.
-
-### Statutory Notes
-
-#### Amendments
-2008—Pub. L. 110–280 amended section generally. Prior to amendment, section read as follows: “Nothing in this chapter shall be construed as limiting, diminishing, or otherwise restricting any of the authority of the Secretary under the Port and Tanker Safety Act of 1978.”
-
-
-<a id="section-1912"></a>
-## § 1912. International law
-
-Any action taken under this chapter shall be taken in accordance with international law.
-
-
-<a id="section-1913"></a>
-## § 1913. Compliance reports
-**(a) In general** Within 1 year after the effective date of this section, and triennially thereafter, the Secretary of the department in which the Coast Guard is operating, in consultation with the Secretary of Agriculture and the Secretary of Commerce, shall report to the Congress regarding compliance with Annex V to the International Convention for the Prevention of Pollution from Ships, 1973, in United States waters and, not later than 1 year after October 19, 1996, and annually thereafter, shall publish in the Federal Register a list of the enforcement actions taken against any domestic or foreign ship (including any commercial or recreational ship) pursuant to the Act to Prevent Pollution from Ships ([33 U.S.C. 1901](./chapter-033-prevention-of-pollution-from-ships.md#section-1901) et seq.).
-
-**(b) Report on inability to comply** Within 3 years after the effective date of this section, the head of each Federal agency that operates or contracts for the operation of any ship referred to in section 3(b)(1)(A) of the Act to Prevent Pollution from Ships [[33 U.S.C. 1902(b)(1)(A)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1902/b/1/A&num=0&edition=prelim)] that may not be able to comply with the requirements of that section shall report to the Congress describing—
-
-(1) the technical and operational impediments to achieving that compliance;
-
-(2) an alternative schedule for achieving that compliance as rapidly as is technologically feasible;
-
-(3) the ships operated or contracted for operation by the agency for which full compliance with section 3(b)(2)(A) [[33 U.S.C. 1902(b)(2)(A)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1902/b/2/A&num=0&edition=prelim)] is not technologically feasible; and
-
-(4) any other information which the agency head considers relevant and appropriate.
-
-**(c) Congressional action** Upon receipt of the compliance report under subsection (b), the Congress shall modify the applicability of Annex V to ships referred to in section 3(b)(1)(A) of the Act to Prevent Pollution from Ships [[33 U.S.C. 1902(b)(1)(A)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1902/b/1/A&num=0&edition=prelim)], as may be appropriate with respect to the requirements of Annex V to the Convention.
+**(b)** The purpose of this chapter is to promote and facilitate responsible and effective efforts to establish artificial reefs in waters covered under this chapter.
 
 ### Statutory Notes
 
 #### References in Text
-For effective date of this section, referred to in subsecs. (a) and (b), see section 2002 of Pub. L. 100–220, set out as an Effective Date of 1987 Amendment note under [section 1901 of this title](./chapter-033-prevention-of-pollution-from-ships.md#section-1901).
+This chapter, referred to in text, was in the original “this title”, meaning title II of Pub. L. 98–623, which in addition to enacting this chapter also enacted [section 1220d of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1220d&num=0&edition=prelim), Conservation, and amended sections 1220, 1220a, 1220b, and 1220c of Title 16.
 
-The Act to Prevent Pollution from Ships, referred to in subsec. (a), is Pub. L. 96–478, Oct. 21, 1980, 94 Stat. 2297, as amended, which is classified principally to this chapter (§ 1901 et seq.). For complete classification of this Act to the Code, see Short Title note set out under [section 1901 of this title](./chapter-033-prevention-of-pollution-from-ships.md#section-1901) and Tables.
+#### Short Title
+Pub. L. 98–623, title II, § 201, Nov. 8, 1984, 98 Stat. 3394, provided that: “This title [enacting this chapter and [section 1220d of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1220d&num=0&edition=prelim), Conservation, and amending sections 1220 to 1220c of Title 16] may be cited as the ‘National Fishing Enhancement Act of 1984’.”
 
-#### Codification
-Section was formerly set out as a note under [section 1902 of this title](./chapter-033-prevention-of-pollution-from-ships.md#section-1902).
 
-Section was enacted as part of the Marine Plastic Pollution Research and Control Act of 1987 and as part of the United States-Japan Fishery Agreement Approval Act of 1987, and not as part of the Act to Prevent Pollution from Ships which comprises this chapter.
+<a id="section-1906"></a>
+## § 1906. Establishment of standards
 
-#### Amendments
-1996—Subsec. (a). Pub. L. 104–324 struck out “for a period of 6 years” after “triennially thereafter” and inserted “and, not later than 1 year after October 19, 1996, and annually thereafter, shall publish in the Federal Register a list of the enforcement actions taken against any domestic or foreign ship (including any commercial or recreational ship) pursuant to the Act to Prevent Pollution from Ships ([33 U.S.C. 1901](./chapter-033-prevention-of-pollution-from-ships.md#section-1901) et seq.)” before period at end.
+Based on the best scientific information available, artificial reefs in waters covered under this chapter shall be sited and constructed, and subsequently monitored and managed in a manner which will—
 
-1995—Subsec. (a). Pub. L. 104–66 substituted “triennially” for “biennially”.
+(1) enhance fishery resources to the maximum extent practicable;
+
+(2) facilitate access and utilization by United States recreational and commercial fishermen;
+
+(3) minimize conflicts among competing uses of waters covered under this chapter and the resources in such waters;
+
+(4) minimize environmental risks and risks to personal health and property; and
+
+(5) be consistent with generally accepted principles of international law and shall not create any unreasonable obstruction to navigation.
+
+
+<a id="section-1907"></a>
+## § 1907. National artificial reef plan
+
+Not later than one year after November 8, 1984, the Secretary of Commerce, in consultation with the Secretary of the Interior, the Secretary of Defense, the Administrator of the Environmental Protection Agency, the Secretary of the Department in which the Coast Guard is operating, the Regional Fishery Managment 11 So in original. Probably should be “Management”. Councils, interested States, Interstate Fishery Commissions, and representatives of the private sector, shall develop and publish a long-term plan which will meet the purpose of this chapter and be consistent with the standards established under [section 2102 of this title](./chapter-035-artificial-reefs.md#section-2102). The plan must include—
+
+(1) geographic, hydrographic, geologic, biological, ecological, social, economic, and other criteria for siting artificial reefs;
+
+(2) design, material, and other criteria for constructing artificial reefs;
+
+(3) mechanisms and methodologies for monitoring the compliance of artificial reefs with the requirements of permits issued under [section 2104 of this title](./chapter-035-artificial-reefs.md#section-2104);
+
+(4) mechanisms and methodologies for managing the use of artificial reefs;
+
+(5) a synopsis of existing information on artificial reefs and needs for further research on artificial reef technology and management strategies; and
+
+(6) an evaluation of alternatives for facilitating the transfer of artificial reef construction materials to persons holding permits issued pursuant to [section 2104 of this title](./chapter-035-artificial-reefs.md#section-2104), including, but not limited to, credits for environmental mitigation and modified tax obligations.
+
+### Statutory Notes
 
 #### Transfer of Functions
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).
 
 
-<a id="section-1914"></a>
-## § 1914. Transferred
+<a id="section-1908"></a>
+## § 1908. Permits for construction and management of artificial reefs
+**(a) Secretarial action on permits** In issuing a permit for artificial reefs under [section 403 of this title](./chapter-009-protection-of-navigable-waters-and-of-harbor-and-river-improvements-generally.md#section-403), [section 1344 of this title](./chapter-026-water-pollution-prevention-and-control.md#section-1344), or [section 1333(e) of title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1333/e&num=0&edition=prelim), the Secretary of the Army (hereinafter in this section referred to as the “Secretary”) shall—
+
+(1) consult with and consider the views of appropriate Federal agencies, States, local governments, and other interested parties;
+
+(2) ensure that the provisions for siting, constructing, monitoring, and managing the artificial reef are consistent with the criteria and standards established under this chapter;
+
+(3) ensure that the title to the artificial reef construction material is unambiguous, and that responsibility for maintenance and the financial ability to assume liability for future damages are clearly established; and
+
+(4) consider the plan developed under [section 2103 of this title](./chapter-035-artificial-reefs.md#section-2103) and notify the Secretary of Commerce of any need to deviate from that plan.
+
+**(b) Terms and conditions of permits**
+
+(1) Each permit issued by the Secretary subject to this section shall specify the design and location for construction of the artificial reef and the types and quantities of materials that may be used in constructing such artificial reef. In addition, each such permit shall specify such terms and conditions for the construction, operation, maintenance, monitoring, and managing the use of the artificial reef as are necessary for compliance with all applicable provisions of law and as are necessary to ensure the protection of the environment and human safety and property.
+
+(2) Before issuing a permit under [section 1342 of this title](./chapter-026-water-pollution-prevention-and-control.md#section-1342) for any activity relating to the siting, design, construction, operation, maintenance, monitoring, or managing of an artificial reef, the Administrator of the Environmental Protection Agency shall consult with the Secretary to ensure that such permit is consistent with any permit issued by the Secretary subject to this section.
+
+**(c) Liability of permittee**
+
+(1) A person to whom a permit is issued in accordance with subsection (a) and any insurer of that person shall not be liable for damages caused by activities required to be undertaken under any terms and conditions of the permit, if the permittee is in compliance with such terms and conditions.
+
+(2) A person to whom a permit is issued in accordance with subsection (a) and any insurer of that person shall be liable, to the extent determined under applicable law, for damages to which paragraph (1) does not apply.
+
+(3) The Secretary may not issue a permit subject to this section to a person unless that person demonstrates to the Secretary the financial ability to assume liability for all damages that may arise with respect to an artificial reef and for which such permittee may be liable.
+
+(4) Any person who has transferred title to artificial reef construction materials to a person to whom a permit is issued in accordance with subsection (a) shall not be liable for damages arising from the use of such materials in an artificial reef, if such materials meet applicable requirements of the plan published under [section 2103 of this title](./chapter-035-artificial-reefs.md#section-2103) and are not otherwise defective at the time title is transferred.
+
+**(d) Liability of the United States** Nothing in this chapter creates any liability on the part of the United States.
+
+**(e) Civil penalty** Any person who, after notice and an opportunity for a hearing, is found to have violated any provision of a permit issued in accordance with subsection (a) shall be liable to the United States for a civil penalty, not to exceed $10,000 for each violation. The amount of the civil penalty shall be assessed by the Secretary by written notice. In determining the amount of such penalty, the Secretary shall take into account the nature, circumstances, extent, and gravity of the violation. The Secretary may compromise, modify, or remit with or without conditions, any civil penalty which is subject to imposition or which has been imposed under this section. If any person fails to pay an assessment of a civil penalty after it has become final, the Secretary may refer the matter to the Attorney General for collection.
+
+
+<a id="section-1909"></a>
+## § 1909. Definitions
+
+For purposes of this chapter—
+
+(1) The term “artificial reef” means a structure which is constructed or placed in waters covered under this chapter for the purpose of enhancing fishery resources and commercial and recreational fishing opportunities.
+
+(2) The term “State” means a State of the United States, the District of Columbia, Puerto Rico, the United States Virgin Islands, American Samoa, Guam, Johnston Island, Midway Island, and Wake Island.
+
+(3) The term “waters covered under this chapter” means the navigable waters of the United States and the waters superjacent to the Outer Continental Shelf as defined in [section 1331 of title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1331&num=0&edition=prelim), to the extent such waters exist in or are adjacent to any State.
+
+
+<a id="section-1910"></a>
+## § 1910. Savings clauses
+**(a) Tennessee Valley Authority jurisdiction** Nothing in this chapter shall be construed as replacing or superseding [section 831y–1 of title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section831y–1&num=0&edition=prelim).
+
+**(b) State jurisdiction** Nothing in this chapter shall be construed as extending or diminishing the jurisdiction or authority of any State over the siting, construction, monitoring, or managing of artificial reefs within its boundaries.
+
+
+<a id="section-1911"></a>
+## § 1911. “Secretary” defined
+
+For purposes of this Act, the term “Secretary” means the Secretary of the Army.
 
 ### Statutory Notes
 
-Section, Pub. L. 100–220, title II, § 2203, Dec. 29, 1987, 101 Stat. 1466; Pub. L. 104–324, title VIII, § 802(b), Oct. 19, 1996, 110 Stat. 3944; Pub. L. 109–449, § 5(a), Dec. 22, 2006, 120 Stat. 3337, was redesignated section 5 of Pub. L. 109–449 and transferred to [section 1954 of this title](./chapter-33a-marine-debris-research-prevention-and-reduction.md#section-1954).
+#### References in Text
+This Act, referred to in text, is Pub. L. 99–662, Nov. 17, 1986, 100 Stat. 4082, as amended, known as the Water Resources Development Act of 1986. For complete classification of this Act to the Code, see Short Title note set out below and Tables.
+
+#### Short Title of 2020 Amendment
+Pub. L. 116–260, div. AA, § 1(a), Dec. 27, 2020, 134 Stat. 2615, provided that: “This division [div. AA of Pub. L. 116–260, see Tables for classification] may be cited as the ‘Water Resources Development Act of 2020’.”
+
+#### Short Title of 2018 Amendment
+Pub. L. 115–270, § 1(a), Oct. 23, 2018, 132 Stat. 3765, provided that: “This Act [see Tables for classification] may be cited as ‘America’s Water Infrastructure Act of 2018’.”
+
+Pub. L. 115–270, title I, § 101, Oct. 23, 2018, 132 Stat. 3768, provided that: “This title [see Tables for classification] may be cited as the ‘Water Resources Development Act of 2018’.”
+
+#### Short Title of 2016 Amendment
+Pub. L. 114–322, § 1(a), Dec. 16, 2016, 130 Stat. 1628, provided that: “This Act [see Tables for classification] may be cited as the ‘Water Infrastructure Improvements for the Nation Act’ or the ‘WIIN Act’.”
+
+Pub. L. 114–322, title I, § 1001, Dec. 16, 2016, 130 Stat. 1632, provided that: “This title [see Tables for classification] may be cited as the ‘Water Resources Development Act of 2016’.”
+
+#### Short Title of 2014 Amendment
+Pub. L. 113–121, § 1(a), June 10, 2014, 128 Stat. 1193, provided that: “This Act [see Tables for classification] may be cited as the ‘Water Resources Reform and Development Act of 2014’.”
+
+#### Short Title of 2007 Amendment
+Pub. L. 110–114, § 1(a), Nov. 8, 2007, 121 Stat. 1041, provided that: “This Act [see Tables for classification] may be cited as the ‘Water Resources Development Act of 2007’.”
+
+#### Short Title of 2000 Amendment
+Pub. L. 106–541, § 1(a), Dec. 11, 2000, 114 Stat. 2572, provided that: “This Act [see Tables for classification] may be cited as the ‘Water Resources Development Act of 2000’.”
+
+#### Short Title of 1999 Amendment
+Pub. L. 106–53, § 1(a), Aug. 17, 1999, 113 Stat. 269, provided that: “This Act [see Tables for classification] may be cited as the ‘Water Resources Development Act of 1999’.”
+
+#### Short Title of 1996 Amendment
+Pub. L. 104–303, § 1(a), Oct. 12, 1996, 110 Stat. 3658, provided that: “This Act [see Tables for classification] may be cited as the ‘Water Resources Development Act of 1996’.”
+
+#### Short Title of 1992 Amendment
+Pub. L. 102–580, § 1(a), Oct. 31, 1992, 106 Stat. 4797, provided that: “This Act [enacting sections 59gg, 426i–1, 569d to 569f, 653, 1271, 2268, and 2325 to 2329 of this title, amending sections 426j, 467f, 467j to 467l, 562, 652, 1342, 1412, 1413, 1414, 1415, 1416, 1420, 1421, 2211, 2213, 2283, and 2309a of this title, [section 3036 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section3036&num=0&edition=prelim), Armed Forces, sections 460tt, 4702, and 4711 of Title 16, Conservation, and [section 1962d–16 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1962d–16&num=0&edition=prelim), The Public Health and Welfare, and enacting provisions set out as notes under this section and sections 541, 1271, 2211, 2239, 2267, and 2281 of this title, [section 9505 of Title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section9505&num=0&edition=prelim), Internal Revenue Code, and sections 390h–4 and 390h–5 of Title 43, Public Lands] may be cited as the ‘Water Resources Development Act of 1992’.”
+
+#### Short Title of 1990 Amendment
+Pub. L. 101–640, § 1(a), Nov. 28, 1990, 104 Stat. 4604, provided that: “This Act [enacting sections 59bb and 2316 to 2324 of this title, amending sections 579a, 652, 701n, 709a, 2213, 2215, 2232, 2238, 2281, 2309a, and 2314a of this title, [section 460tt of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section460tt&num=0&edition=prelim), Conservation, and [section 1962d–16 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1962d–16&num=0&edition=prelim), The Public Health and Welfare, repealing sections 579 and 2239 of this title, enacting provisions set out as notes under this section, sections 426e, 1252, 1268, 2213, 2232, 2239, 2313, and 2317 of this title, and [section 1405c of Title 48](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title48-section1405c&num=0&edition=prelim), Territories and Insular Possessions, and amending provisions set out as notes under sections 2294 and 2314 of this title and [section 460d of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section460d&num=0&edition=prelim)] may be cited as the ‘Water Resources Development Act of 1990’.”
+
+#### Short Title of 1988 Amendment
+Pub. L. 100–676, § 1(a), Nov. 17, 1988, 102 Stat. 4012, provided that: “This Act [enacting sections 59j–1, 59y, 59z, and 2312 to 2315 of this title, amending sections 426j, 701b–12, 1293a, 2211, 2239, 2280, and 2291 of this title and [section 1962d–5a of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1962d–5a&num=0&edition=prelim), The Public Health and Welfare, enacting provisions set out as notes under this section, sections 579a, 988, 2211, 2294, 2300, and 2314 of this title, and [section 1962d–5g of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1962d–5g&num=0&edition=prelim), and amending provisions set out as a note under [section 2294 of this title](./chapter-036-water-resources-development.md#section-2294)] may be cited as the ‘Water Resources Development Act of 1988’.”
+
+#### Short Title
+Pub. L. 99–662, § 1(a), Nov. 17, 1986, 100 Stat. 4082, provided that: “This Act [enacting this chapter and sections 59n–1, 59v, 59w, 403b, 426n, 426o, 467f to 467n, 555a, 579a, 652, 701b–12, 709b, 988a, and 1414a of this title, sections 460tt of Title 16, Conservation, sections 4461, 4462, 9505, and 9506 of Title 26, Internal Revenue Code, section 483d of former Title 40, Public Buildings, Property, and Works, and sections 1962d–11b and 1962d–20 of Title 42, The Public Health and Welfare, amending sections 409, 414, 415, 426g, 426i, 426j, 426m, 467, 467b, 555, 557, 603a, 610, 701a–1, 701g, 701n, 701r, 701s, 984, and 1804 of this title, [section 3036 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section3036&num=0&edition=prelim), Armed Forces, sections 460ee and 1002 of Title 16, [section 4042 of Title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section4042&num=0&edition=prelim), sections 1962d–5a, 1962d–5b, 1962d–5d, 1962d–5f, and 1962d–16 of Title 42, sections 390 and 390b of Title 43, Public Lands, and [section 1121–1 of Title 46](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section1121–1&num=0&edition=prelim), Appendix, Shipping, repealing sections 1801 and 1802 of this title, enacting provisions set out as notes under this section, sections 426, 426g, 467, 661, 984, 988, 1414a, and 2294 of this title, sections 460d and 1004 of Title 16, sections 1, 4042, 4461, 9505, and 9506 of Title 26, sections 1962d–5b, 1962d–20, and 10301 of Title 42, and [section 390b of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section390b&num=0&edition=prelim), and amending provisions set out as a note under [section 1962b–3 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1962b–3&num=0&edition=prelim)] may be cited as the ‘Water Resources Development Act of 1986’.”
+
+Pub. L. 99–662, title II, § 215, Nov. 17, 1986, 100 Stat. 4109, provided that: “This title [enacting subchapter II of this chapter] may be cited as the ‘Harbor Development and Navigation Improvement Act of 1986’.”
+
+#### Pilot programs on the formulation of Corps of Engineers projects in rural communities and economically disadvantaged communities
+Pub. L. 116–260, div. AA, title I, § 118, Dec. 27, 2020, 134 Stat. 2629, provided that: “(a) In general.—The Secretary [of the Army] shall establish and implement pilot programs, in accordance with this section, to evaluate opportunities to address the flood risk management and hurricane and storm damage risk reduction needs of rural communities and economically disadvantaged communities. “(b) Economically Disadvantaged Community Flood Protection and Hurricane and Storm Damage Reduction Study Pilot Program.—“(1) In general.—Not later than 180 days after the date of enactment of this Act [Dec. 27, 2020], the Secretary shall establish and implement a pilot program to carry out feasibility studies, in accordance with this subsection, for flood risk management and hurricane and storm damage risk reduction projects for economically disadvantaged communities, in coordination with non-Federal interests. “(2) Participation in pilot program.—In carrying out paragraph (1), the Secretary shall—“(A) publish a notice in the Federal Register that requests from non-Federal interests proposals for the potential feasibility study of a flood risk management project or hurricane and storm damage risk reduction project for an economically disadvantaged community; “(B) upon request of a non-Federal interest for such a project, provide technical assistance to such non-Federal interest in the formulation of a proposal for a potential feasibility study to be submitted to the Secretary under the pilot program; and “(C) review such proposals and select 10 feasibility studies for such projects to be carried out by the Secretary, in coordination with the non-Federal interest, under this pilot program. “(3) Selection criteria.—In selecting a feasibility study under paragraph (2)(C), the Secretary shall consider whether—“(A) the percentage of people living in poverty in the county or counties (or county-equivalent entity or entities) in which the project is located is greater than the percentage of people living in poverty in the State, based on census bureau data; “(B) the percentage of families with income above the poverty threshold but below the average household income in the county or counties (or county-equivalent entity or entities) in which the project is located is greater than such percentage for the State, based on census bureau data; “(C) the percentage of the population that identifies as belonging to a minority or indigenous group in the county or counties (or county-equivalent entity or entities) in which the project is located is greater than the average such percentage in the State, based on census bureau data; and “(D) the project is addressing flooding or hurricane or storm damage effects that have a disproportionate impact on a rural community, a minority community, or an Indian Tribe. “(4) Administration.—Notwithstanding the requirements of section 105(a)(1)(A) of the Water Resources Development Act of 1986 ([33 U.S.C. 2215](./chapter-036-water-resources-development.md#section-2215)), the Federal share of the cost of a feasibility study carried out under the pilot program shall be 100 percent. “(5) Study requirements.—Feasibility studies carried out under this subsection shall, to the maximum extent practicable, incorporate natural features or nature-based features (as such terms are defined in section 1184 of the Water Resources Development Act of 2016 ([33 U.S.C. 2289a](./chapter-036-water-resources-development.md#section-2289a))), or a combination of such features and nonstructural features, that avoid or reduce at least 50 percent of flood or storm damages in one or more of the alternatives included in the final alternatives evaluated. “(6) Notification.—The Secretary shall notify the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Environment and Public Works of the Senate of the selection of each feasibility study under the pilot program. “(7) Completion.—Upon completion of a feasibility report for a feasibility study selected to be carried out under this subsection, the Secretary shall transmit the report to Congress for authorization, and shall include the report in the next annual report submitted under section 7001 of the Water Resources Reform and Development Act of 2014 ([33 U.S.C. 2282d](./chapter-036-water-resources-development.md#section-2282d)). “(c) Pilot Program for the Recommendation of Flood Protection and Hurricane and Storm Damage Reduction Projects in Rural Communities and Economically Disadvantaged Communities.—“(1) In general.—Not later than 180 days after the date of enactment of this Act, the Secretary shall establish and implement a pilot program to evaluate, and make recommendations to Congress on, flood risk management projects and hurricane and storm damage risk reduction projects in rural communities or economically disadvantaged communities, without demonstrating that each project is justified solely by national economic development benefits. “(2) Considerations.—In carrying out this subsection, the Secretary may make a recommendation to Congress on up to 10 projects, without demonstrating that the project is justified solely by national economic development benefits, if the Secretary determines that—“(A) the community to be served by the project is an economically disadvantaged community or a rural community; “(B) the long-term life safety, economic viability, and environmental sustainability of the community would be threatened without the project; and “(C) the project is consistent with the requirements of section 1 of the Flood Control Act of 1936 ([33 U.S.C. 701a](./chapter-015-flood-control.md#section-701a)). “(3) Consistency.—In carrying out this subsection, the Secretary shall ensure that project recommendations are consistent with the principles and requirements and the interagency guidelines, as such terms are defined in section 110 of this Act [[42 U.S.C. 1962–4](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1962–4&num=0&edition=prelim)], including the consideration of quantifiable monetary and nonmonetary benefits of the project. “(4) Prioritization.—The Secretary may give equivalent budgetary consideration and priority to projects recommended under this subsection. “(d) Geographic diversity.—In selecting feasibility studies under subsection (b)(2)(C) or in making project recommendations under subsection (c), the Secretary shall consider the geographic diversity among proposed projects. “(e) Report.—Not later than 5 years and 10 years after the date of enactment of this Act , the Secretary shall submit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Environment and Public Works of the Senate, and make publicly available, a report detailing the results of the pilot programs carried out under this section, including—“(1) a description of proposals received from non-Federal interests pursuant to subsection (b)(2)(A); “(2) a description of technical assistance provided to non-Federal interests under subsection (b)(2)(B); “(3) a description of proposals selected under subsection (b)(2)(C) and criteria used to select such proposals; “(4) a description of the projects evaluated or recommended by the Secretary under subsection (c); “(5) a description of the quantifiable monetary and nonmonetary benefits associated with the projects recommended under subsection (c); and “(6) any recommendations to Congress on how the Secretary can address the flood risk management and hurricane and storm damage risk reduction needs of economically disadvantaged communities. “(f) State defined.—In this section, the term ‘State’ means each of the several States, the District of Columbia, and each of the commonwealths, territories, and possessions of the United States. “(g) Sunset.—The authority to commence a feasibility study under subsection (b), and the authority make a recommendation under subsection (c), shall terminate on the date that is 10 years after the date of enactment of this Act.”
+
+[For definition of “economically disadvantaged community” as used in section 118 of div. AA of Pub. L. 116–260, set out above, see section 160 of div. AA of Pub. L. 116–260, set out as a note below.]
+
+#### Non-Federal Project Implementation for Comprehensive Everglades Restoration Plan Projects
+Pub. L. 116–260, div. AA, title I, § 134(b), Dec. 27, 2020, 134 Stat. 2649, provided that: “(1) In general.—In carrying out the pilot program authorized under section 1043(b) of the Water Resources Reform and Development Act of 2014 ([33 U.S.C. 2201](./chapter-036-water-resources-development.md#section-2201) note), the Secretary [of the Army] is authorized to include a project authorized to be implemented by, or in accordance with, section 601 of the Water Resources Development Act of 2000 [Pub. L. 106–541, 114 Stat. 2680], in accordance with such section 1043(b). “(2) Eligibility.—In the case of a project described in paragraph (1) for which the non-Federal interest has initiated construction in compliance with authorities governing the provision of in-kind contributions for such project, the Secretary shall take into account the value of any in-kind contributions carried out by the non-Federal interest for such project prior to the date of execution of the project partnership agreement under section 1043(b) of the Water Resources Reform and Development Act of 2014 when determining the non-Federal share of the costs to complete construction of the project. “(3) Guidance.—Not later than 180 days after the date of enactment of this subsection [Dec. 27, 2020], and in accordance with the guidance issued under section 1043(b)(9) of the Water Resources Reform and Development Act of 2014 (as added by this section), the Secretary shall issue any additional guidance that the Secretary determines necessary for the implementation of this subsection.”
+
+#### Uniformity of Notification Systems
+Pub. L. 116–260, div. AA, title I, § 139, Dec. 27, 2020, 134 Stat. 2651, provided that: “(a) Inventory.—Not later than 180 days after the date of enactment of this Act [Dec. 27, 2020], the Secretary [of the Army] shall complete an inventory of all systems used by the Corps of Engineers for external communication and notification with respect to projects, initiatives, and facilities of the Corps of Engineers. “(b) Uniform Plan.—“(1) In general.—Not later than 1 year after the date of enactment of this Act, the Secretary shall develop a plan for the uniformity of such communication and notification systems for projects, initiatives, and facilities of the Corps of Engineers. “(2) Inclusions.—The plan developed under paragraph (1) shall—“(A) provide access to information in all forms practicable, including through email, text messages, news programs and websites, radio, and other forms of notification; “(B) establish a notification system for any projects, initiatives, or facilities of the Corps of Engineers that do not have a notification system; “(C) streamline existing communication and notification systems to improve the strength and uniformity of those systems; and “(D) emphasize the necessity of timeliness in notification systems and ensure that the methods of notification can transmit information in a timely manner. “(3) Implementation.—“(A) In general.—Except as provided in subparagraph (B), not later than 2 years after the date of enactment of this Act, the Secretary shall complete the implementation of the plan developed under paragraph (1). “(B) Emergency management notification.—Not later than 18 months after the date of enactment of this Act, the Secretary shall implement the provisions of the plan developed under paragraph (1) relating to emergency management notifications. “(4) Savings provision.—Nothing in this section authorizes the elimination of any existing communication or notification system used by the Corps of Engineers.”
+
+#### Continuing Authority Programs
+Pub. L. 116–260, div. AA, title I, § 165, Dec. 27, 2020, 134 Stat. 2668, provided that: “(a) Pilot Program for Continuing Authority Projects in Small or Disadvantaged Communities.—“(1) In general.—Not later than 180 days after the date of enactment of this Act [Dec. 27, 2020], the Secretary [of the Army] shall implement a pilot program, in accordance with this subsection, for carrying out a project under a continuing authority program for an economically disadvantaged community. “(2) Participation in pilot program.—In carrying out paragraph (1), the Secretary shall—“(A) publish a notice in the Federal Register that requests non-Federal interest proposals for a project under a continuing authority program for an economically disadvantaged community; and “(B) review such proposals and select a total of 10 projects, taking into consideration geographic diversity among the selected projects. “(3) Cost share.—Notwithstanding the cost share authorized for the applicable continuing authority program, the Federal share of the cost of a project selected under paragraph (2) shall be 100 percent. “(4) Sunset.—The authority to commence pursuant to this subsection a project selected under paragraph (2) shall terminate on the date that is 10 years after the date of enactment of this Act. “(5) Continuing authority program defined.—In this subsection, the term ‘continuing authority program’ has the meaning given that term in section 7001(c)(1)(D) of Water Resources Reform and Development Act of 2014 ([33 U.S.C. 2282d](./chapter-036-water-resources-development.md#section-2282d)[(c)(1)(D)]). “(b) Authorizations of Appropriations.—“(1) Emergency streambank and shoreline protection.—Notwithstanding section 14 of the Flood Control Act of 1946 ([33 U.S.C. 701r](./chapter-015-flood-control.md#section-701r)), there is authorized to be appropriated to carry out such section $25,500,000 for each of fiscal years 2021 through 2024. “(2) Storm and hurricane restoration and impact minimization program.—Notwithstanding section 3(c) of the Act of August 13, 1946 ([33 U.S.C. 426g(c)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section426g/c&num=0&edition=prelim)), there is authorized to be appropriated to carry out such section $38,000,000 for each of fiscal years 2021 through 2024. “(3) Small river and harbor improvement projects.—Notwithstanding section 107(a) of the River and Harbor Act of 1960 ([33 U.S.C. 577(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section577/a&num=0&edition=prelim)), there is authorized to be appropriated to carry out such section $63,000,000 for each of fiscal years 2021 through 2024. “(4) Regional sediment management.—Notwithstanding section 204(g) of the Water Resources Development Act of 1992 ([33 U.S.C. 2326(g)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section2326/g&num=0&edition=prelim)), there is authorized to be appropriated to carry out such section $63,000,000 for each of fiscal years 2021 through 2024. “(5) Small flood control projects.—Notwithstanding section 205 of the Flood Control Act of 1948 ([33 U.S.C. 701s](./chapter-015-flood-control.md#section-701s)), there is authorized to be appropriated to carry out such section $69,250,000 for each of fiscal years 2021 through 2024. “(6) Aquatic ecosystem restoration.—Notwithstanding section 206(f) of the Water Resources Development Act of 1996 ([33 U.S.C. 2330(f)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section2330/f&num=0&edition=prelim)), there is authorized to be appropriated to carry out such section $63,000,000 for each of fiscal years 2021 through 2024. “(7) Removal of obstructions; clearing channels.—Notwithstanding section 2 of the Act of August 28, 1937 ([33 U.S.C. 701g](./chapter-015-flood-control.md#section-701g)), there is authorized to be appropriated to carry out such section $8,000,000 for each of fiscal years 2021 through 2024. “(8) Project modifications for improvement of environment.—Notwithstanding section 1135(h) of the Water Resources Development Act of 1986 ([33 U.S.C. 2309a(h)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section2309a/h&num=0&edition=prelim)), there is authorized to be appropriated to carry out such section $50,500,000 for each of fiscal years 2021 through 2024.”
+
+[For definition of “economically disadvantaged community” as used in section 165 of div. AA of Pub. L. 116–260, set out above, see section 160 of div. AA of Pub. L. 116–260, set out as a note below.]
+
+#### Reports to Congress
+Pub. L. 113–121, title I, § 1042, June 10, 2014, 128 Stat. 1243, provided that: “(a) In General.—Subject to the availability of appropriations, the Secretary [of the Army] shall complete and submit to Congress by the applicable date required the reports that address public safety and enhanced local participation in project delivery described in subsection (b). “(b) Reports.—The reports referred to in subsection (a) are the reports required under—“(1) subparagraphs (A) and (B) of section 1043(a)(5) [[33 U.S.C. 2201](./chapter-036-water-resources-development.md#section-2201) note]; “(2) section 1046(a)(2)(B) [[33 U.S.C. 2319](./chapter-036-water-resources-development.md#section-2319) note]; “(3) section 210(e)(3) of the Water Resources Development Act of 1986 ([33 U.S.C. 2238(e)(3)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section2238/e/3&num=0&edition=prelim)) (as amended by section 2102(a)); and “(4) section 7001 [[33 U.S.C. 2282d](./chapter-036-water-resources-development.md#section-2282d)]. “(c) Failure To Provide a Completed Report.—“(1) In general.—Subject to subsection (d), if the Secretary fails to provide a report listed under subsection (b) by the date that is 180 days after the applicable date required for that report, $5,000 shall be reprogrammed from the General Expenses account of the civil works program of the Army Corps of Engineers into the account of the division of the Army Corps of Engineers with responsibility for completing that report. “(2) Subsequent reprogramming.—Subject to subsection (d), for each additional week after the date described in paragraph (1) in which a report described in that paragraph remains uncompleted and unsubmitted to Congress, $5,000 shall be reprogrammed from the General Expenses account of the civil works program of the Army Corps of Engineers into the account of the division of the Secretary of the Army with responsibility for completing that report. “(d) Limitations.—“(1) In general.—For each report, the total amounts reprogrammed under subsection (c) shall not exceed, in any fiscal year, $50,000. “(2) Aggregate limitation.—The total amount reprogrammed under subsection (c) in a fiscal year shall not exceed $200,000. “(e) No Fault of the Secretary.—Amounts shall not be reprogrammed under subsection (c) if the Secretary certifies in a letter to the applicable committees of Congress that—“(1) a major modification has been made to the content of the report that requires additional analysis for the Secretary to make a final decision on the report; “(2) amounts have not been appropriated to the agency under this Act or any other Act to carry out the report; or “(3) additional information is required from an entity other than the Corps of Engineers and is not available in a timely manner to complete the report by the deadline. “(f) Limitation.—The Secretary shall not reprogram funds to the General Expenses account of the civil works program of the Corps of Engineers for the loss of the funds.”
+
+#### Non-Federal Implementation Pilot Program
+Pub. L. 113–121, title I, § 1043, June 10, 2014, 128 Stat. 1244, as amended by Pub. L. 115–270, title I, § 1137, Oct. 23, 2018, 132 Stat. 3783; Pub. L. 116–260, div. AA, title I, § 134(a), Dec. 27, 2020, 134 Stat. 2648, provided that: “(a) Non-Federal Implementation of Feasibility Studies.—“(1) In general.—Not later than 180 days after the date of enactment of this Act [June 10, 2014], the Secretary [of the Army] shall establish and implement a pilot program to evaluate the cost-effectiveness and project delivery efficiency of allowing non-Federal interests to carry out feasibility studies for flood risk management, hurricane and storm damage reduction, aquatic ecosystem restoration, and coastal harbor and channel and inland navigation. “(2) Purposes.—The purposes of the pilot program are—“(A) to identify project delivery and cost-saving alternatives to the existing feasibility study process; “(B) to evaluate the technical, financial, and organizational efficiencies of a non-Federal interest carrying out a feasibility study of 1 or more projects; and “(C) to evaluate alternatives for the decentralization of the project planning, management, and operational decisionmaking process of the Corps of Engineers. “(3) Administration.—“(A) In general.—On the request of a non-Federal interest, the Secretary may enter into an agreement with the non-Federal interest for the non-Federal interest to provide full project management control of a feasibility study for a project for—“(i) flood risk management; “(ii) hurricane and storm damage reduction, including levees, floodwalls, flood control channels, and water control structures; “(iii) coastal harbor and channel and inland navigation; and “(iv) aquatic ecosystem restoration. “(B) Use of non-federal funds.—“(i) In general.—A non-Federal interest that has entered into an agreement with the Secretary pursuant to subparagraph (A) may use non-Federal funds to carry out the feasibility study. “(ii) Credit.—The Secretary shall credit towards the non-Federal share of the cost of construction of a project for which a feasibility study is carried out under this subsection an amount equal to the portion of the cost of developing the study that would have been the responsibility of the Secretary, if the study were carried out by the Secretary, subject to the conditions that— “(I) non-Federal funds were used to carry out the activities that would have been the responsibility of the Secretary; “(II) the Secretary determines that the feasibility study complies with all applicable Federal laws and regulations; and “(III) the project is authorized by any provision of Federal law enacted after the date on which an agreement is entered into under subparagraph (A). “(C) Transfer of funds.—“(i) In general.—After the date on which an agreement is executed pursuant to subparagraph (A), the Secretary may transfer to the non-Federal interest to carry out the feasibility study— “(I) if applicable, the balance of any unobligated amounts appropriated for the study, except that the Secretary shall retain sufficient amounts for the Corps of Engineers to carry out any responsibilities of the Corps of Engineers relating to the project and pilot program; and “(II) additional amounts, as determined by the Secretary, from amounts made available under paragraph (8), except that the total amount transferred to the non-Federal interest shall not exceed the updated estimate of the Federal share of the cost of the feasibility study. “(ii) Administration.—The Secretary shall include such provisions as the Secretary determines to be necessary in an agreement under subparagraph (A) to ensure that a non-Federal interest receiving Federal funds under this paragraph— “(I) has the necessary qualifications to administer those funds; and “(II) will comply with all applicable Federal laws (including regulations) relating to the use of those funds. “(D) Notification.—The Secretary shall notify the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives on the initiation of each feasibility study under the pilot program. “(E) Auditing.—The Secretary shall regularly monitor and audit each feasibility study carried out by a non-Federal interest under this section to ensure that the use of any funds transferred under subparagraph (C) are used in compliance with the agreement signed under subparagraph (A). “(F) Technical assistance.—On the request of a non-Federal interest, the Secretary may provide technical assistance to the non-Federal interest relating to any aspect of the feasibility study, if the non-Federal interest contracts with the Secretary for the technical assistance and compensates the Secretary for the technical assistance. “(G) Detailed project schedule.—Not later than 180 days after entering into an agreement under subparagraph (A), each non-Federal interest, to the maximum extent practicable, shall submit to the Secretary a detailed project schedule, based on full funding capability, that lists all deadlines for milestones relating to the feasibility study. “(4) Cost share.—Nothing in this subsection affects the cost-sharing requirement applicable on the day before the date of enactment of this Act to a feasibility study carried out under this subsection. “(5) Report.—“(A) In general.—Not later than 2 years after the date of enactment of this Act, the Secretary shall submit to the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives and make publicly available a report detailing the results of the pilot program carried out under this section, including—“(i) a description of the progress of the non-Federal interests in meeting milestones in detailed project schedules developed pursuant to paragraph (3)(G); and “(ii) any recommendations of the Secretary concerning whether the program or any component of the program should be implemented on a national basis. “(B) Update.—Not later than 5 years after the date of enactment of this Act, the Secretary shall submit to the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives an update of the report described in subparagraph (A). “(C) Failure to meet deadline.—If the Secretary fails to submit a report by the required deadline under this paragraph, the Secretary shall submit to the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a detailed explanation of why the deadline was missed and a projected date for submission of the report. “(6) Administration.—All laws and regulations that would apply to the Secretary if the Secretary were carrying out the feasibility study shall apply to a non-Federal interest carrying out a feasibility study under this subsection. “(7) Termination of authority.—The authority to commence a feasibility study under this subsection terminates on the date that is 5 years after the date of enactment of this Act. “(8) Authorization of appropriations.—In addition to any amounts appropriated for a specific project, there is authorized to be appropriated to the Secretary to carry out the pilot program under this subsection, including the costs of administration of the Secretary, $25,000,000 for each of fiscal years 2015 through 2019. “(b) Non-Federal Project Implementation Pilot Program.—“(1) In general.—Not later than 180 days after the date of enactment of this Act, the Secretary shall establish and implement a pilot program to evaluate the cost-effectiveness and project delivery efficiency of allowing non-Federal interests to carry out flood risk management, hurricane and storm damage reduction, coastal harbor and channel inland navigation, and aquatic ecosystem restoration projects. “(2) Purposes.—The purposes of the pilot program are—“(A) to identify project delivery and cost-saving alternatives that reduce the backlog of authorized Corps of Engineers projects; “(B) to evaluate the technical, financial, and organizational efficiencies of a non-Federal interest carrying out the design, execution, management, and construction of 1 or more projects; and “(C) to evaluate alternatives for the decentralization of the project management, design, and construction for authorized Corps of Engineers water resources projects. “(3) Administration.—“(A) In general.—In carrying out the pilot program, the Secretary shall—“(i) identify a total of not more than 20 projects for flood risk management, hurricane and storm damage reduction (including levees, floodwalls, flood control channels, and water control structures), coastal harbor and channels, inland navigation, and aquatic ecosystem restoration that have been authorized for construction, including— “(I) not more than 12 projects that have been authorized for construction prior to the date of enactment of this Act and that—“(aa)(AA) have received Federal funds prior to the date of enactment of this Act; or “(BB) for more than 2 consecutive fiscal years, have an unobligated funding balance for that project in the Corps of Engineers construction account; and “(bb) to the maximum extent practicable, are located in each of the divisions of the Corps of Engineers; “(II) not more than 3 projects that have been authorized for construction prior to the date of enactment of this Act and that have not received Federal funds in the period beginning on the date on which the project was authorized and ending on the date of enactment of this Act; and “(III) not more than 5 projects that have been authorized for construction, but did not receive the authorization prior to the date of enactment of this Act; “(ii) notify the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives on the identification of each project under the pilot program; “(iii) in collaboration with the non-Federal interest, develop a detailed project management plan for each identified project that outlines the scope, budget, design, and construction resource requirements necessary for the non-Federal interest to execute the project, or a separable element of the project; “(iv) on the request of the non-Federal interest, enter into a project partnership agreement with the non-Federal interest for the non-Federal interest to provide full project management control for construction of the project, or a separable element of the project, in accordance with plans approved by the Secretary; “(v) following execution of the project partnership agreement, transfer to the non-Federal interest to carry out construction of the project, or a separable element of the project— “(I) if applicable, the balance of the unobligated amounts appropriated for the project, except that the Secretary shall retain sufficient amounts for the Corps of Engineers to carry out any responsibilities of the Corps of Engineers relating to the project and pilot program; and “(II) additional amounts, as determined by the Secretary, from amounts made available under paragraph (8), except that the total amount transferred to the non-Federal interest shall not exceed the updated estimate of the Federal share of the cost of construction, including any required design; and “(vi) regularly monitor and audit each project being constructed by a non-Federal interest under this section to ensure that the construction activities are carried out in compliance with the plans approved by the Secretary and that the construction costs are reasonable. “(B) Detailed project schedule.—Not later than 180 days after entering into an agreement under subparagraph (A)(iv), each non-Federal interest, to the maximum extent practicable, shall submit to the Secretary a detailed project schedule, based on estimated funding levels, that lists all deadlines for each milestone in the construction of the project. “(C) Technical assistance.—On the request of a non-Federal interest, the Secretary may provide technical assistance to the non-Federal interest, if the non-Federal interest contracts with and compensates the Secretary for the technical assistance relating to—“(i) any study, engineering activity, and design activity for construction carried out by the non-Federal interest under this subsection; and “(ii) expeditiously obtaining any permits necessary for the project. “(4) Cost share.—Nothing in this subsection affects the cost-sharing requirement applicable on the day before the date of enactment of this Act to a project carried out under this subsection. “(5) Report.—“(A) In general.—Not later than 3 years after the date of enactment of this Act, the Secretary shall submit to the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives and make publicly available a report detailing the results of the pilot program carried out under this subsection, including—“(i) a description of the progress of non-Federal interests in meeting milestones in detailed project schedules developed pursuant to paragraph (2)(B); and “(ii) any recommendations of the Secretary concerning whether the program or any component of the program should be implemented on a national basis. “(B) Update.—Not later than 5 years after the date of enactment of this Act, the Secretary shall submit to the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives an update of the report described in subparagraph (A). “(C) Failure to meet deadline.—If the Secretary fails to submit a report by the required deadline under this paragraph, the Secretary shall submit to the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a detailed explanation of why the deadline was missed and a projected date for submission of the report. “(6) Administration.—All laws and regulations that would apply to the Secretary if the Secretary were carrying out the project shall apply to a non-Federal interest carrying out a project under this subsection. “(7) Termination of authority.—The authority to commence a project under this subsection terminates on September 30, 2026. “(8) Authorization of appropriations.—In addition to any amounts appropriated for a specific project, there is authorized to be appropriated to the Secretary to carry out the pilot program under this subsection, including the costs of administration of the Secretary, $25,000,000 for each of fiscal years 2019 through 2026. “(9) Implementation guidance.—“(A) In general.—Not later than 120 days after the date of enactment of this paragraph [Dec. 27, 2020], the Secretary shall issue guidance for the implementation of the pilot program that, to the extent practicable, identifies—“(i) the metrics for measuring the success of the pilot program; “(ii) a process for identifying future projects to participate in the pilot program; “(iii) measures to address the risks of a non-Federal interest constructing projects under the pilot program, including which entity bears the risk for projects that fail to meet the Corps of Engineers standards for design or quality; “(iv) the laws and regulations that a non-Federal interest must follow in carrying out a project under the pilot program; and “(v) which entity bears the risk in the event that a project carried out under the pilot program fails to be carried out in accordance with the project authorization or this subsection. “(B) New project partnership agreements.—The Secretary may not enter into a project partnership agreement under this subsection during the period beginning on the date of enactment of this paragraph and ending on the date on which the Secretary issues the guidance under subparagraph (A).”
+
+#### Water Infrastructure Public-Private Partnership Pilot Program
+Pub. L. 113–121, title V, § 5014, June 10, 2014, 128 Stat. 1329, provided that: “(a) In General.—The Secretary [of the Army] shall establish a pilot program to evaluate the cost effectiveness and project delivery efficiency of allowing non-Federal pilot applicants to carry out authorized water resources development projects for coastal harbor improvement, channel improvement, inland navigation, flood damage reduction, aquatic ecosystem restoration, and hurricane and storm damage reduction. “(b) Purposes.—The purposes of the pilot program established under subsection (a) are—“(1) to identify cost-saving project delivery alternatives that reduce the backlog of authorized Corps of Engineers projects; and “(2) to evaluate the technical, financial, and organizational benefits of allowing a non-Federal pilot applicant to carry out and manage the design or construction (or both) of 1 or more of such projects. “(c) Subsequent Appropriations.—Any activity undertaken under this section is authorized only to the extent specifically provided for in subsequent appropriations Acts. “(d) Administration.—In carrying out the pilot program established under subsection (a), the Secretary shall—“(1) identify for inclusion in the program at least 15 projects that are authorized for construction for coastal harbor improvement, channel improvement, inland navigation, flood damage reduction, or hurricane and storm damage reduction; “(2) notify in writing the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives of each project identified under paragraph (1); “(3) in consultation with the non-Federal pilot applicant associated with each project identified under paragraph (1), develop a detailed project management plan for the project that outlines the scope, financing, budget, design, and construction resource requirements necessary for the non-Federal pilot applicant to execute the project, or a separable element of the project; “(4) at the request of the non-Federal pilot applicant associated with each project identified under paragraph (1), enter into a project partnership agreement with the non-Federal pilot applicant under which the non-Federal pilot applicant is provided full project management control for the financing, design, or construction (or any combination thereof) of the project, or a separable element of the project, in accordance with plans approved by the Secretary; “(5) following execution of a project partnership agreement under paragraph (4) and completion of all work under the agreement, issue payment, in accordance with subsection (g), to the relevant non-Federal pilot applicant for that work; and “(6) regularly monitor and audit each project carried out under the program to ensure that all activities related to the project are carried out in compliance with plans approved by the Secretary and that construction costs are reasonable. “(e) Selection Criteria.—In identifying projects under subsection (d)(1), the Secretary shall consider the extent to which the project—“(1) is significant to the economy of the United States; “(2) leverages Federal investment by encouraging non-Federal contributions to the project; “(3) employs innovative project delivery and cost-saving methods; “(4) received Federal funds in the past and experienced delays or missed scheduled deadlines; “(5) has unobligated Corps of Engineers funding balances; and “(6) has not received Federal funding for recapitalization and modernization since the project was authorized. “(f) Detailed Project Schedule.—Not later than 180 days after entering into a project partnership agreement under subsection (d)(4), a non-Federal pilot applicant, to the maximum extent practicable, shall submit to the Secretary a detailed project schedule for the relevant project, based on estimated funding levels, that specifies deadlines for each milestone with respect to the project. “(g) Payment.—Payment to the non-Federal pilot applicant for work completed pursuant to a project partnership agreement under subsection (d)(4) may be made from—“(1) if applicable, the balance of the unobligated amounts appropriated for the project; and “(2) other amounts appropriated to the Corps of Engineers, subject to the condition that the total amount transferred to the non-Federal pilot applicant may not exceed the estimate of the Federal share of the cost of construction, including any required design. “(h) Technical Assistance.—At the request of a non-Federal pilot applicant participating in the pilot program established under subsection (a), the Secretary may provide to the non-Federal pilot applicant, if the non-Federal pilot applicant contracts with and compensates the Secretary, technical assistance with respect to—“(1) a study, engineering activity, or design activity related to a project carried out by the non-Federal pilot applicant under the program; and “(2) obtaining permits necessary for such a project. “(i) Identification of Impediments.—“(1) In general.—The Secretary shall—“(A) except as provided in paragraph (2), identify any procedural requirements under the authority of the Secretary that impede greater use of public-private partnerships and private investment in water resources development projects; “(B) develop and implement, on a project-by-project basis, procedures and approaches that—“(i) address such impediments; and “(ii) protect the public interest and any public investment in water resources development projects that involve public-private partnerships or private investment in water resources development projects; and “(C) not later than 1 year after the date of enactment of this section [June 10, 2014], issue rules to carry out the procedures and approaches developed under subparagraph (B). “(2) Rule of construction.—Nothing in this section allows the Secretary to waive any requirement under—“(A) sections 3141 through 3148 and sections 3701 through 3708 of title 40, United States Code; “(B) the National Environmental Policy Act of 1969 ([42 U.S.C. 4321](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) et seq.); or “(C) any other provision of Federal law. “(j) Public Benefit Studies.—“(1) In general.—Before entering into a project partnership agreement under subsection (d)(4), the Secretary shall conduct an assessment of whether, and provide justification in writing to the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives that, the proposed agreement provides better public and financial benefits than a similar transaction using public funding or financing. “(2) Requirements.—An assessment under paragraph (1) shall—“(A) be completed in a period of not more than 90 days; “(B) take into consideration any supporting materials and data submitted by the relevant non-Federal pilot applicant and other stakeholders; and “(C) determine whether the proposed project partnership agreement is in the public interest by determining whether the agreement will provide public and financial benefits, including expedited project delivery and savings for taxpayers. “(k) Non-Federal Funding.—The non-Federal pilot applicant may finance the non-Federal share of a project carried out under the pilot program established under subsection (a). “(l) Applicability of Federal Law.—Any provision of Federal law that would apply to the Secretary if the Secretary were carrying out a project shall apply to a non-Federal pilot applicant carrying out a project under this section. “(m) Cost Share.—Nothing in this section affects a cost-sharing requirement under Federal law that is applicable to a project carried out under the pilot program established under subsection (a). “(n) Report.—Not later than 3 years after the date of enactment of this Act, the Secretary shall submit to the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives and make publicly available a report describing the results of the pilot program established under subsection (a), including any recommendations of the Secretary concerning whether the program or any component of the program should be implemented on a national basis. “(o) Non-Federal Pilot Applicant Defined.—In this section, the term ‘non-Federal pilot applicant’ means—“(1) the non-Federal sponsor of the water resources development project; “(2) a non-Federal interest, as defined in section 221 of the Flood Control Act of 1970 ([42 U.S.C. 1982d–5b](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1982d–5b&num=0&edition=prelim) [1962d–5b]); or “(3) a private entity with the consent of the local government in which the project is located or that is otherwise affected by the project.”
+
+#### Funding to Process Permits
+Pub. L. 106–541, title II, § 214, Dec. 11, 2000, 114 Stat. 2594, as amended by Pub. L. 108–137, title I, § 114, Dec. 1, 2003, 117 Stat. 1836; Pub. L. 109–99, § 1, Nov. 11, 2005, 119 Stat. 2169; Pub. L. 109–209, § 1, Mar. 24, 2006, 120 Stat. 318; Pub. L. 109–434, § 1, Dec. 20, 2006, 120 Stat. 3197; Pub. L. 110–114, title II, § 2002, Nov. 8, 2007, 121 Stat. 1067; Pub. L. 111–120, § 1, Dec. 22, 2009, 123 Stat. 3478; Pub. L. 111–315, § 1, Dec. 18, 2010, 124 Stat. 3450; Pub. L. 113–121, title I, § 1006, June 10, 2014, 128 Stat. 1212, which related to funding to process permits and was formerly set out as a note under this section, was transferred to [section 2352 of this title](./chapter-036-water-resources-development.md#section-2352).
+
+#### Monitoring
+Pub. L. 106–541, title II, § 223, Dec. 11, 2000, 114 Stat. 2597, provided that: “(a) In General.—The Secretary shall conduct a monitoring program of the economic and environmental results of up to 5 eligible projects selected by the Secretary. “(b) Duration.—The monitoring of a project selected by the Secretary under this section shall be for a period of not less than 12 years beginning on the date of its selection. “(c) Reports.—The Secretary shall transmit to Congress every 3 years a report on the performance of each project selected under this section. “(d) Eligible Project Defined.—In this section, the term ‘eligible project’ means a water resources project, or separable element thereof—“(1) for which a contract for physical construction has not been awarded before the date of enactment of this Act [Dec. 11, 2000]; “(2) that has a total cost of more than $25,000,000; and “(3)(A) that has as a benefit-to-cost ratio of less than 1.5 to 1; or “(B) that has significant environmental benefits or significant environmental mitigation components. “(e) Costs.—The cost of conducting monitoring under this section shall be a Federal expense.”
+
+#### Water Control Management
+Pub. L. 106–53, title V, § 511, Aug. 17, 1999, 113 Stat. 341, provided that: “(a) In General.—In evaluating potential improvements for water control management activities and consolidation of water control management centers, the Secretary may consider a regionalized water control management plan but may not implement such a plan until the date on which a report is submitted under subsection (b). “(b) Report.—Not later than 180 days after the date of enactment of this Act [Aug. 17, 1999], the Secretary shall submit to the Committee on Transportation and Infrastructure and the Committee on Appropriations of the House of Representatives and the Committee on Environment and Public Works and the Committee on Appropriations of the Senate a report containing—“(1) a description of the primary objectives of streamlining water control management activities; “(2) a description of the benefits provided by streamlining water control management activities through consolidation of centers for those activities; “(3) a determination whether the benefits to users of establishing regional water control management centers will be retained in each district office of the Corps of Engineers that does not have a regional center; “(4) a determination whether users of regional centers will receive a higher level of benefits from streamlining water control management activities; and “(5) a list of the members of Congress who represent a district that includes a water control management center that is to be eliminated under a proposed regionalized plan.”
+
+#### Buy American; Sense of Congress; Requirement Regarding Notice
+Pub. L. 106–53, title II, § 222, Aug. 17, 1999, 113 Stat. 295, provided that: “(a) In General.—It is the sense of Congress that, to the extent practicable, all equipment and products purchased with funds made available under this Act [see Tables for classification] should be American made. “(b) Notice to Recipients of Assistance.—In providing financial assistance under this Act, the Secretary, to the greatest extent practicable, shall provide to each recipient of the assistance a notice describing the statement made in subsection (a).”
+
+Pub. L. 104–303, title II, § 235, Oct. 12, 1996, 110 Stat. 3704, provided that: “(a) Purchase of American-Made Equipment and Products.—It is the sense of Congress that, to the greatest extent practicable, all equipment and products purchased with funds made available under this Act [see Tables for classification] should be American-made. “(b) Notice to Recipients of Assistance.—In providing financial assistance under this Act, the Secretary, to the greatest extent practicable, shall provide to each recipient of the assistance a notice describing the statement made in subsection (a).”
+
+#### Budget Act Requirements
+Pub. L. 99–662, title IX, § 948, Nov. 17, 1986, 100 Stat. 4201, provided that: “Any spending authority under this Act [see Short Title note above] shall be effective only to such extent and in such amounts as are provided in appropriation Acts. For purposes of this Act, the term ‘spending authority’ has the meaning provided in section 401(c)(2) of the Congressional Budget Act of 1974 [[2 U.S.C. 651(c)(2)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section651/c/2&num=0&edition=prelim)], except that such term does not include spending authority for which an exception is made under section 401(d) of such Act.”
+
+#### Definition of Economically Disadvantaged Community
+Pub. L. 116–260, div. AA, title I, § 160, Dec. 27, 2020, 134 Stat. 2665, provided that: “(a) In General.—Not later than 180 days after the date of enactment of this Act [Dec. 27, 2020], the Secretary [of the Army] shall issue guidance defining the term ‘economically disadvantaged community’ for the purposes of this Act [div. AA of Pub. L. 116–260, see Short Title of 2020 Amendment note above] and the amendments made by this Act. “(b) Considerations.—In defining the term ‘economically disadvantaged community’ under subsection (a), the Secretary shall, to the maximum extent practicable, utilize the criteria under paragraph (1) or (2) of section 301(a) of the Public Works and Economic Development Act of 1965 ([42 U.S.C. 3161](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3161&num=0&edition=prelim)), to the extent that such criteria are applicable in relation to the development of water resources development projects. “(c) Public Comment.—In developing the guidance under subsection (a), the Secretary shall provide notice and an opportunity for public comment.”
+
+#### “Secretary” Defined
+Pub. L. 116–260, div. AA, § 2, Dec. 27, 2020, 134 Stat. 2618, provided that: “In this Act [div. AA of Pub. L. 116–260, see Tables for classification], the term ‘Secretary’ means the Secretary of the Army.”
+
+Pub. L. 115–270, title I, § 102, Oct. 23, 2018, 132 Stat. 3768, provided that: “In this title [see Tables for classification], the term ‘Secretary’ means the Secretary of the Army.”
+
+Pub. L. 114–322, title I, § 1002, Dec. 16, 2016, 130 Stat. 1632, provided that: “In this title [see Tables for classification], the term ‘Secretary’ means the Secretary of the Army.”
+
+Pub. L. 113–121, § 2, June 10, 2014, 128 Stat. 1195, provided that: “In this Act [see Tables for classification], the term ‘Secretary’ means the Secretary of the Army.”
+
+Pub. L. 110–114, § 2, Nov. 8, 2007, 121 Stat. 1049, provided that: “In this Act [see Tables for classification], the term ‘Secretary’ means the Secretary of the Army.”
+
+Pub. L. 106–541, § 2, Dec. 11, 2000, 114 Stat. 2575, provided that: “In this Act [see Tables for classification], the term ‘Secretary’ means the Secretary of the Army.”
+
+Pub. L. 106–53, § 2, Aug. 17, 1999, 113 Stat. 273, provided that: “In this Act [see Tables for classification], the term ‘Secretary’ means the Secretary of the Army.”
+
+Pub. L. 104–303, § 2, Oct. 12, 1996, 110 Stat. 3662, provided that: “In this Act [see Tables for classification], the term ‘Secretary’ means the Secretary of the Army.”
+
+Pub. L. 102–580, § 3, Oct. 31, 1992, 106 Stat. 4801, provided that: “For purposes of this Act [see Short Title of 1992 Amendment note above], the term ‘Secretary’ means the Secretary of the Army.”
+
+Pub. L. 101–640, § 2, Nov. 28, 1990, 104 Stat. 4605, provided that: “For purposes of this Act [see Short Title of 1990 Amendment note above], the term ‘Secretary’ means the Secretary of the Army.”
+
+Pub. L. 100–676, § 2, Nov. 17, 1988, 102 Stat. 4013, provided that: “For purposes of this Act [see Short Title of 1988 Amendment note above], the term ‘Secretary’ means the Secretary of the Army.”
+
+#### Promoting the Reliable Supply and Delivery of Water in the West
+Memorandum of President of the United States, Oct. 19, 2018, 83 F.R. 53961, provided:
+
+Memorandum for the Secretary of the Interior[,] the Secretary of Commerce[,] the Secretary of Energy[,] the Secretary of the Army[, and] the Chair of the Council on Environmental Quality
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, I hereby direct the following:
+
+Section 1. Policy. During the 20th Century, the Federal Government invested enormous resources in water infrastructure throughout the western United States to reduce flood risks to communities; to provide reliable water supplies for farms, families, businesses, and fish and wildlife; and to generate dependable hydropower. Decades of uncoordinated, piecemeal regulatory actions have diminished the ability of our Federal infrastructure, however, to deliver water and power in an efficient, cost-effective way.
+
+Unless addressed, fragmented regulation of water infrastructure will continue to produce inefficiencies, unnecessary burdens, and conflict among the Federal Government, States, tribes, and local public agencies that deliver water to their citizenry. To meet these challenges, the Secretary of the Interior and the Secretary of Commerce should, to the extent permitted by law, work together to minimize unnecessary regulatory burdens and foster more efficient decision-making so that water projects are better able to meet the demands of their authorized purposes.
+
+Sec. 2. Streamlining Western Water Infrastructure Regulatory Processes and Removing Unnecessary Burdens. To address water infrastructure challenges in the western United States, the Secretary of the Interior and the Secretary of Commerce shall undertake the following actions:
+
+(a) Within 30 days of the date of this memorandum [Oct. 19, 2018], the Secretary of the Interior and the Secretary of Commerce shall:
+
+(i) identify major water infrastructure projects in California for which the Department of the Interior and the Department of Commerce have joint responsibility under the Endangered Species Act of 1973 (ESA) (Public Law 93–205) [[16 U.S.C. 1531](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1531&num=0&edition=prelim) et seq.] or individual responsibilities under the National Environmental Policy Act of 1969 (NEPA) (Public Law 91–190) [[42 U.S.C. 4321](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) et seq.]; and
+
+(ii) for each such project, work together to facilitate the designation of one official to coordinate the agencies’ ESA and NEPA compliance responsibilities. Within the 30-day time period provided by this subsection, the designated official shall also identify regulations and procedures that potentially burden the project and develop a proposed plan, for consideration by the Secretaries, to appropriately suspend, revise, or rescind any regulations or procedures that unduly burden the project beyond the degree necessary to protect the public interest or otherwise comply with the law. For purposes of this memorandum, “burden” means to unnecessarily obstruct, delay, curtail, impede, or otherwise impose significant costs on the permitting, utilization, transmission, delivery, or supply of water resources and infrastructure.
+
+(b) Within 40 days of the date of this memorandum, the Secretary of the Interior and the Secretary of Commerce shall develop a timeline for completing applicable environmental compliance requirements for projects identified under section 2(a)(i) of this memorandum. Environmental compliance requirements shall be completed as expeditiously as possible, and in accordance with applicable law.
+
+(c) To the maximum extent practicable and consistent with applicable law, including the authorities granted to the Secretary of the Interior and the Secretary of Commerce under the Water Infrastructure Improvements for the Nation Act (Public Law 114–322):
+
+(i) The Secretary of the Interior and the Secretary of Commerce shall ensure that the ongoing review of the long-term coordinated operations of the Central Valley Project and the California State Water Project is completed and an updated Plan of Operations and Record of Decision is issued.
+
+(ii) The Secretary of the Interior shall issue final biological assessments for the long-term coordinated operations of the Central Valley Project and the California State Water Project not later than January 31, 2019.
+
+(iii) The Secretary of the Interior and the Secretary of Commerce shall ensure the issuance of their respective final biological opinions for the long-term coordinated operations of the Central Valley Project and the California State Water Project within 135 days of the deadline provided in section 2(c)(ii) of this memorandum. To the extent practicable and consistent with law, these shall be joint opinions.
+
+(iv) The Secretary of the Interior and the Secretary of Commerce shall complete the joint consultation presently underway for the Klamath Irrigation Project by August 2019.
+
+(d) The Secretary of the Interior and the Secretary of Commerce shall provide monthly updates to the Chair of the Council on Environmental Quality and other components of the Executive Office of the President, as appropriate, regarding progress in meeting the established timelines.
+
+Sec. 3. Improve Forecasts of Water Availability. To facilitate greater use of forecast-based management and use of authorities and capabilities provided by the Weather Research and Forecasting Innovation Act of 2017 (Public Law 115–25) [[15 U.S.C. 8501](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section8501&num=0&edition=prelim) et seq.] and other applicable laws, the Secretary of the Interior and the Secretary of Commerce shall convene water experts and resource managers to develop an action plan to improve the information and modeling capabilities related to water availability and water infrastructure projects. The action plan shall be completed by January 2019 and submitted to the Chair of the Council on Environmental Quality.
+
+Sec. 4. Improving Use of Technology to Increase Water Reliability. To the maximum extent practicable, and pursuant to the Reclamation Wastewater and Groundwater Study and Facilities Act (Public Law 102–575, title XVI) [[43 U.S.C. 390h](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section390h&num=0&edition=prelim) et seq.], the Water Desalination Act of 1996 (Public Law 104–298) [[42 U.S.C. 10301](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section10301&num=0&edition=prelim) note], and other applicable laws, the Secretary of the Interior shall direct appropriate bureaus to promote the expanded use of technology for improving the accuracy and reliability of water and power deliveries. This promotion of expanded use should include:
+
+(a) investment in technology and reduction of regulatory burdens to enable broader scale deployment of desalination technology;
+
+(b) investment in technology and reduction of regulatory burdens to enable broader scale use of recycled water; and
+
+(c) investment in programs that promote and encourage innovation, research, and development of technology that improve water management, using best available science through real-time monitoring of wildlife and water deliveries.
+
+Sec. 5. Consideration of Locally Developed Plans in Hydroelectric Projects Licensing. To the extent the Secretary of the Interior and the Secretary of Commerce participate in Federal Energy Regulatory Commission licensing activities for hydroelectric projects, and to the extent permitted by law, the Secretaries shall give appropriate consideration to any relevant information available to them in locally developed plans, where consistent with the best available information.
+
+Sec. 6. Streamlining Regulatory Processes and Removing Unnecessary Burdens on the Columbia River Basin Water Infrastructure. In order to address water and hydropower operations challenges in the Columbia River Basin, the Secretary of the Interior, the Secretary of Commerce, the Secretary of Energy, and the Assistant Secretary of the Army for Civil Works under the direction of the Secretary of the Army, shall develop a schedule to complete the Columbia River System Operations Environmental Impact Statement and the associated Biological Opinion due by 2020. The schedule shall be submitted to the Chair of the Council on Environmental Quality within 60 days of the date of this memorandum.
+
+Sec. 7. General Provisions. (a) Nothing in this memorandum shall be construed to impair or otherwise affect:
+
+(i) the authority granted by law to an executive department or agency, or the head thereof; or
+
+(ii) the functions of the Director of the Office of Management and Budget relating to budgetary, administrative, or legislative proposals.
+
+(b) This memorandum shall be implemented consistent with applicable law and subject to the availability of appropriations.
+
+(c) This memorandum is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+
+(d) The Secretary of the Interior is hereby authorized and directed to publish this memorandum in the Federal Register.
+
+Donald J. Trump.
+
+
+<a id="section-1912"></a>
+## § 1912. Non-Federal engagement and review
+**(a) Issuance** The Secretary shall expeditiously issue guidance to implement each covered provision of law in accordance with this section.
+
+**(b) Public notice**
+
+(1) **In general** — Prior to developing and issuing any new or revised implementation guidance for a covered water resources development law, the Secretary shall issue a public notice that—
+
+  (A) informs potentially interested non-Federal stakeholders of the Secretary’s intent to develop and issue such guidance; and
+
+  (B) provides an opportunity for interested non-Federal stakeholders to engage with, and provide input and recommendations to, the Secretary on the development and issuance of such guidance.
+
+(2) **Issuance of notice** — The Secretary shall issue the notice under paragraph (1) through a posting on a publicly accessible website dedicated to providing notice on the development and issuance of implementation guidance for a covered water resources development law.
+
+**(c) Stakeholder engagement**
+
+(1) **Input** — The Secretary shall allow a minimum of 60 days after issuance of the public notice under subsection (b) for non-Federal stakeholders to provide input and recommendations to the Secretary, prior to finalizing implementation guidance for a covered water resources development law.
+
+(2) **Outreach** — The Secretary may, as appropriate (as determined by the Secretary), reach out to non-Federal stakeholders and circulate drafts of implementation guidance for a covered water resources development law for informal input and recommendations.
+
+**(d) Submission** The Secretary shall submit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Environment and Public Works of the Senate a copy of all input and recommendations received pursuant to subsection (c) and a description of any consideration of such input and recommendations.
+
+**(e) Development of guidance** When developing implementation guidance for a covered water resources development law, the Secretary shall take into consideration the input and recommendations received from non-Federal stakeholders, and make the final guidance available to the public on the publicly accessible website described in subsection (b)(2).
+
+**(f) Definitions** In this section:
+
+(1) **Covered provision of law** — The term “covered provision of law” means a provision of law under the jurisdiction of the Secretary contained in, or amended by, a covered water resources development law, with respect to which—
+
+  (A) the Secretary determines guidance is necessary in order to implement the provision; and
+
+  (B) no such guidance has been issued as of October 23, 2018.
+
+(2) **Covered water resources development law** — The term “covered water resources development law” means—
+
+  (A) the Water Resources Reform and Development Act of 2014;
+
+  (B) the Water Resources Development Act of 2016;
+
+  (C) this Act; and
+
+  (D) any Federal water resources development law enacted after October 23, 2018.
+
+### Statutory Notes
+
+#### References in Text
+The Water Resources Reform and Development Act of 2014, referred to in subsec. (f)(2)(A), is Pub. L. 113–121, June 10, 2014, 128 Stat. 1193. For complete classification of this Act to the Code, see Short Title of 2014 Amendment note set out under [section 2201 of this title](./chapter-036-water-resources-development.md#section-2201) and Tables.
+
+The Water Resources Development Act of 2016, referred to in subsec. (f)(2)(B), is title I of Pub. L. 114–322, Dec. 16, 2016, 130 Stat. 1632. For complete classification of this Act to the Code, see Short Title of 2016 Amendment note set out under [section 2201 of this title](./chapter-036-water-resources-development.md#section-2201) and Tables.
+
+This Act, referred to in subsec. (f)(2)(C), probably means title I of Pub. L. 115–270, Oct. 23, 2018, 132 Stat. 3768, known as the Water Resources Development Act of 2018. For complete classification of this Act to the Code, see Short Title of 2018 Amendment note set out under [section 2201 of this title](./chapter-036-water-resources-development.md#section-2201) and Tables.
+
+#### Codification
+Section was enacted as part of the Water Resources Development Act of 2018, and also as part of the America’s Water Infrastructure Act of 2018, and not as part of the Water Resources Development Act of 1986 which comprises this chapter.
+
+#### Implementation Guidance
+Pub. L. 116–260, div. AA, title II, § 223(d), Dec. 27, 2020, 134 Stat. 2696, provided that: “The Secretary [of the Army] shall expeditiously issue any guidance necessary to implement any provision of this Act [div. AA of Pub. L. 116–260, see Tables for classification], including any amendments made by this Act, in accordance with section 1105 of the Water Resources Development Act of 2018 ([33 U.S.C. 2202](./chapter-036-water-resources-development.md#section-2202)).”
+
+#### “Secretary” Defined
+Secretary means the Secretary of the Army, see section 102 of Pub. L. 115–270, set out as a note under [section 2201 of this title](./chapter-036-water-resources-development.md#section-2201).
+
+
+<a id="section-1913"></a>
+## § 1913. Review of contracting policies
+**(a) Review of contractual agreements**
+
+(1) **In general** — Not later than 180 days after December 27, 2020, the Secretary shall complete a review of the policies, guidelines, and regulations of the Corps of Engineers for the development of contractual agreements between the Secretary and non-Federal interests and utilities associated with the construction of water resources development projects.
+
+(2) **Report** — Not later than 90 days after completing the review under subsection (a)(1), the Secretary shall submit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Environment and Public Works of the Senate, and make publicly available, a report that includes—
+
+  (A) a summary of the results of the review; and
+
+  (B) public guidance on best practices for a non-Federal interest to use when writing or developing contractual agreements with the Secretary and utilities.
+
+(3) **Provision of guidance** — The Secretary shall provide the best practices guidance included under paragraph (2)(A) to non-Federal interests prior to the development of contractual agreements with such non-Federal interests.
+
+**(b) Sense of Congress** It is the sense of Congress that the Secretary should maximize use of nonprice tradeoff procedures in competitive acquisitions for carrying out emergency work in an area with respect to which the President has declared a major disaster under [section 5170 of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5170&num=0&edition=prelim).
+
+### Statutory Notes
+
+#### Codification
+Section was enacted as part of the Water Resources Development Act of 2020, and not as part of the Water Resources Development Act of 1986 which comprises this chapter.
+
+#### “Secretary” Defined
+Secretary means the Secretary of the Army, see section 2 of div. AA of Pub. L. 116–260, set out as a note under [section 2201 of this title](./chapter-036-water-resources-development.md#section-2201).
+
+
+<a id="section-1914"></a>
+## § 1914. Harbors
+**(a) Construction**
+
+(1) **Payments during construction** — The non-Federal interests for a navigation project for a harbor or inland harbor, or any separable element thereof, on which a contract for physical construction has not been awarded before June 10, 2014, shall pay, during the period of construction of the project, the following costs associated with general navigation features:
+
+  (A) 10 percent of the cost of construction of the portion of the project which has a depth not in excess of 20 feet; plus
+
+  (B) 25 percent of the cost of construction of the portion of the project which has a depth in excess of 20 feet but not in excess of 50 feet; plus
+
+  (C) 50 percent of the cost of construction of the portion of the project which has a depth in excess of 50 feet.
+
+(2) **Additional 10 percent payment over 30 years** — The non-Federal interests for a project to which paragraph (1) applies shall pay an additional 10 percent of the cost of the general navigation features of the project in cash over a period not to exceed 30 years, at an interest rate determined pursuant to [section 2216 of this title](./chapter-036-water-resources-development.md#section-2216). The value of lands, easements, rights-of-way, and relocations provided under paragraph (3) and the costs of relocations borne by the non-Federal interests under paragraph (4) shall be credited toward the payment required under this paragraph.
+
+(3) **Lands, easements, and rights-of-way** — Except as provided under [section 2283(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section2283/c&num=0&edition=prelim), the non-Federal interests for a project to which paragraph (1) applies shall provide the lands, easements, rights-of-way, and relocations (other than utility relocations under paragraph (4)) necessary for the project, including any lands, easements, rights-of-way, and relocations (other than utility relocations accomplished under paragraph (4)) that are necessary for dredged material disposal facilities.
+
+(4) **Utility relocations** — The non-Federal interests for a project to which paragraph (1) applies shall perform or assure the performance of all relocations of utilities necessary to carry out the project, except that in the case of a project for a deep-draft harbor and in the case of a project constructed by non-Federal interests under [section 2232 of this title](./chapter-036-water-resources-development.md#section-2232), one-half of the cost of each such relocation shall be borne by the owner of the facility being relocated and one-half of the cost of each such relocation shall be borne by the non-Federal interests.
+
+(5) **Dredged material disposal facilities for project construction** — In this subsection, the term “general navigation features” includes constructed land-based and aquatic dredged material disposal facilities that are necessary for the disposal of dredged material required for project construction and for which a contract for construction has not been awarded on or before October 12, 1996.
+
+**(b) Operation and maintenance**
+
+(1) **In general** — The Federal share of the cost of operation and maintenance of each navigation project for a harbor or inland harbor constructed by the Secretary pursuant to this Act or any other law approved after November 17, 1986, shall be 100 percent, except that in the case of a deep-draft harbor, the non-Federal interests shall be responsible for an amount equal to 50 percent of the excess of the cost of the operation and maintenance of such project over the cost which the Secretary determines would be incurred for operation and maintenance of such project if such project had a depth of 50 feet.
+
+(2) **Dredged material disposal facilities** — The Federal share of the cost of constructing land-based and aquatic dredged material disposal facilities that are necessary for the disposal of dredged material required for the operation and maintenance of a project and for which a contract for construction has not been awarded on or before October 12, 1996, shall be determined in accordance with subsection (a). The Federal share of operating and maintaining such facilities shall be determined in accordance with paragraph (1).
+
+**(c) Erosion or shoaling attributable to Federal navigation works** Costs of constructing projects or measures for the prevention or mitigation of erosion or shoaling damages attributable to Federal navigation works shall be shared in the same proportion as the cost sharing provisions applicable to the project causing such erosion or shoaling. The non-Federal interests for the project causing the erosion or shoaling shall agree to operate and maintain such measures.
+
+**(d) Non-Federal payments during construction** The amount of any non-Federal share of the cost of any navigation project for a harbor or inland harbor shall be paid to the Secretary. Amounts required to be paid during construction shall be paid on an annual basis during the period of construction, beginning not later than one year after construction is initiated.
+
+**(e) Agreement** Before initiation of construction of a project to which this section applies, the Secretary and the non-Federal interests shall enter into a cooperative agreement according to the provisions of [section 1962d–5b of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1962d–5b&num=0&edition=prelim). The non-Federal interests shall agree to—
+
+(1) provide to the Federal Government lands, easements, and rights-of-way, including those necessary for dredged material disposal facilities, and perform the necessary relocations required for construction, operation, and maintenance of such project;
+
+(2) hold and save the United States free from damages due to the construction or operation and maintenance of the project, except for damages due to the fault or negligence of the United States or its contractors;
+
+(3) provide to the Federal Government the non-Federal share of all other costs of construction of such project; and
+
+(4) in the case of a deep-draft harbor, be responsible for the non-Federal share of operation and maintenance required by subsection (b) of this section.
+
+**(f) Consideration of funding requirements and equitable apportionment** The Secretary shall ensure, to the extent practicable, that—
+
+(1) funding requirements for operation and maintenance dredging of commercial navigation harbors are considered before Federal funds are obligated for payment of the Federal share of costs associated with the construction of dredged material disposal facilities in accordance with subsections (a) and (b);
+
+(2) funds expended for such construction are apportioned equitably in accordance with regional needs; and
+
+(3) use of a dredged material disposal facility designed, constructed, managed, or operated by a private entity is not precluded if, consistent with economic and environmental considerations, the facility is the least-cost alternative.
+
+### Statutory Notes
+
+#### References in Text
+This Act, referred to in subsec. (b)(1), is Pub. L. 99–662, Nov. 17, 1986, 100 Stat. 4082, as amended, known as the Water Resources Development Act of 1986. For complete classification of this Act to the Code, see Short Title note set out under [section 2201 of this title](./chapter-036-water-resources-development.md#section-2201) and Tables.
+
+#### Amendments
+2016—Subsec. (a)(1). Pub. L. 114–322, § 1111(1), substituted “June 10, 2014,” for “November 17, 1986,” in introductory provisions.
+
+Subsec. (a)(1)(B). Pub. L. 114–322, § 1111(2), substituted “50 feet” for “45 feet”.
+
+Subsec. (a)(1)(C). Pub. L. 114–322, § 1111(3), substituted “50 feet” for “45 feet”.
+
+2014—Subsec. (b)(1). Pub. L. 113–121 substituted “50 feet” for “45 feet”.
+
+1996—Subsec. (a)(2). Pub. L. 104–303, § 201(a)(1), inserted last sentence and struck out former last sentence which read as follows: “The value of lands, easements, rights-of-way, relocations, and dredged material disposal areas provided under paragraph (3) and the costs of relocations borne by the non-Federal interests under paragraph (4) shall be credited toward the payment required under this paragraph.”
+
+Subsec. (a)(3). Pub. L. 104–303, § 201(a)(2), inserted “and” after “rights-of-way,”, struck out “, and dredged material disposal areas” after “relocations under paragraph (4))”, and inserted before period at end “, including any lands, easements, rights-of-way, and relocations (other than utility relocations accomplished under paragraph (4)) that are necessary for dredged material disposal facilities”.
+
+Subsec. (a)(5). Pub. L. 104–303, § 201(a)(3), added par. (5).
+
+Subsec. (b). Pub. L. 104–303, § 201(b), designated existing provisions as par. (1), inserted heading, realigned margins, and substituted “by the Secretary pursuant to this Act or any other law approved after November 17, 1986” for “pursuant to this Act”, and added par. (2).
+
+Subsec. (e)(1). Pub. L. 104–303, § 201(c), substituted “including those necessary for dredged material disposal facilities,” for “and to provide dredged material disposal areas”.
+
+Subsec. (f). Pub. L. 104–303, § 201(d), added subsec. (f).
+
+1992—Subsec. (a)(3). Pub. L. 102–580 substituted “Except as provided under section 906(c), the non-Federal” for “The non-Federal”.
+
+1988—Subsec. (a)(2). Pub. L. 100–676 added par. (2) and struck out former par. (2) which read as follows: “The non-Federal interests for a project to which paragraph (1) applies shall pay an additional 10 percent of the cost of the general navigation features of the project in cash over a period not to exceed 30 years, at an interest rate determined pursuant to [section 2216 of this title](./chapter-036-water-resources-development.md#section-2216). The value of lands, easements, rights-of-way, relocations, and dredged material disposal areas provided under paragraph (3) shall be credited toward the payment required under this paragraph.”
+
+#### Effective Date of 1988 Amendment
+Pub. L. 100–676, § 13(b), Nov. 17, 1988, 102 Stat. 4026, provided that: “The amendment made by subsection (a) [amending this section] shall take effect on November 17, 1986.”
+
+#### Deep Draft Harbor Cost Sharing
+Pub. L. 106–53, title IV, § 401, Aug. 17, 1999, 113 Stat. 322, provided that: “(a) In General.—The Secretary shall undertake a study of non-Federal cost-sharing requirements for the construction and operation and maintenance of deep draft harbor projects to determine whether—“(1) cost sharing adversely affects United States port development or domestic and international trade; and “(2) any revision of the cost-sharing requirements would benefit United States domestic and international trade. “(b) Recommendations.—“(1) In general.—Not later than May 30, 2001, the Secretary shall submit to the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives any recommendations that the Secretary may have in light of the study under subsection (a). “(2) Considerations.—In making recommendations, the Secretary shall consider—“(A) the potential economic, environmental, and budgetary impacts of any proposed revision of the cost-sharing requirements; and “(B) the effect that any such revision would have on regional port competition.”
+
+#### Amendment of Cooperation Agreement
+Pub. L. 104–303, title II, § 201(f), Oct. 12, 1996, 110 Stat. 3673, provided that: “If requested by the non-Federal interest, the Secretary shall amend a project cooperation agreement executed on or before the date of the enactment of this Act [Oct. 12, 1996] to reflect the application of the amendments made by this section [amending this section and [section 2241 of this title](./chapter-036-water-resources-development.md#section-2241)] to any project for which a contract for construction has not been awarded on or before that date.”
+
+#### Increases in Non-Federal Share of Costs
+Pub. L. 104–303, title II, § 201(g), Oct. 12, 1996, 110 Stat. 3673, provided that: “Nothing in this section [amending this section and [section 2241 of this title](./chapter-036-water-resources-development.md#section-2241) and enacting provisions set out above] (including the amendments made by this section) shall increase, or result in the increase of, the non-Federal share of the costs of— “(1) expanding any confined dredged material disposal facility that is operated by the Secretary and that is authorized for cost recovery through the collection of tolls; “(2) any confined dredged material disposal facility for which the invitation for bids for construction was issued before the date of the enactment of this Act [Oct. 12, 1996]; and “(3) expanding any confined dredged material disposal facility constructed under section 123 of the River and Harbor Act of 1970 ([33 U.S.C. 1293a](./chapter-026-water-pollution-prevention-and-control.md#section-1293a)) if the capacity of the confined dredged material disposal facility was exceeded in less than 6 years.”
+
+#### Dredged Material Disposal Areas Study
+Pub. L. 102–580, title II, § 216, Oct. 31, 1992, 106 Stat. 4832, directed Secretary to conduct a study on the need for changes in Federal law and policy with respect to dredged material disposal areas for construction and maintenance of harbors and inland harbors by Secretary and, not later than 18 months after Oct. 31, 1992, to transmit to Congress a report on the results of the study, together with recommendations of the Secretary.
 
 
 <a id="section-1915"></a>
-## § 1915. Repealed. Pub. L. 112–213, title VI, § 604(d), Dec. 20, 2012, 126 Stat. 1577
+## § 1915. Preserving United States harbors
+**(a) In general** Upon a request from a non-Federal interest, the Secretary shall review a report developed by the non-Federal interest that provides an economic justification for Federal investment in the operation and maintenance of a federally authorized harbor or inland harbor (referred to in this section as a “federally authorized harbor”).
+
+**(b) Justification of investment** A report submitted under subsection (a) may provide for an economic justification of Federal investment in the operation and maintenance of a federally authorized harbor based on—
+
+(1) the projected economic benefits, including transportation savings and job creation; and
+
+(2) other factors, including navigation safety, national security, and sustainability of subsistence harbors.
+
+**(c) Written response** Not later than 180 days after the date on which the Secretary receives a report under subsection (a), the Secretary shall provide to the non-Federal interest a written response to the report, including an assessment of the information provided by the non-Federal interest.
+
+**(d) Prioritization** As the Secretary determines to be appropriate, the Secretary may use the information provided in the report under subsection (a) to justify additional operation and maintenance funding for a federally authorized harbor in accordance with [section 2211(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section2211/b&num=0&edition=prelim).
+
+**(e) Limitation on statutory construction** Nothing in this section may be construed to preclude the operation and maintenance of a federally authorized harbor under [section 2211(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section2211/b&num=0&edition=prelim).
 
 ### Statutory Notes
 
-Section, Pub. L. 100–220, title II, § 2204, Dec. 29, 1987, 101 Stat. 1466; Pub. L. 104–324, title VIII, § 802(c), Oct. 19, 1996, 110 Stat. 3945, related to creation of a plastic pollution public education program.
+#### Codification
+Section was enacted as part of the Water Resources Reform and Development Act of 2014, and not as part of the Water Resources Development Act of 1986 which comprises this chapter.
+
+#### “Secretary” Defined
+Secretary means the Secretary of the Army, see section 2 of Pub. L. 113–121, set out as a note under [section 2201 of this title](./chapter-036-water-resources-development.md#section-2201).

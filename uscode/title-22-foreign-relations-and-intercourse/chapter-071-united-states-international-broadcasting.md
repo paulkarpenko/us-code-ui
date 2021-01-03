@@ -2,7 +2,7 @@
 title: 22
 chapter: '71'
 heading: UNITED STATES INTERNATIONAL BROADCASTING
-section_count: 18
+section_count: 19
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22&num=0&edition=prelim
 ---
@@ -88,7 +88,14 @@ Pub. L. 103–236, title III, § 301, Apr. 30, 1994, 108 Stat. 432, provided tha
 
 ### Statutory Notes
 
+#### Codification
+Pub. L. 116–283, div. A, title XII, § 1299Q(b), Jan. 1, 2021, 134 Stat. 4021, which directed amendment of this section and was not executed, was itself amended by Pub. L. 116–260, div. O, title XIII, § 1301, Dec. 27, 2020, 134 Stat. 2158, to make it effective 90 days after Jan. 1, 2021. However, the amendment by Pub. L. 116–260 could not be executed because it was enacted before the provision from Pub. L. 116–283 that it amended.
+
 #### Amendments
+2021—Subsec. (a). Pub. L. 116–283, § 1299Q(b)(1), which directed insertion of “, including editorial independence” in subsec. (a) “before the semicolon at the end”, was not executed because subsec. (a) contains 6 pars. that have a semicolon at the end and the probable intent of Congress could not be determined.
+
+Subsec. (b). Pub. L. 116–283, § 1299Q(b)(2), which directed amendment of subsec. (b) by inserting “, including editorial independence,” after “programing”, was not executed because the word “programing” did not appear and the word “programming” at the beginning of par. (5) could not be clearly identified as the intended target.
+
 1998—Subsec. (a)(8). Pub. L. 105–292 added par. (8).
 
 Subsec. (b)(3). Pub. L. 105–277, § 1323(d)(1), which directed amendment of par. (3) by inserting “, including editorials, broadcast by the Voice of America, which present the views of the United States Government” after “policies”, was executed by making insertion after “policies” the second time it appears to reflect the probable intent of Congress.
@@ -105,20 +112,20 @@ Pub. L. 105–277, div. G, subdiv. B, title XXIV, § 2420, Oct. 21, 1998, 112 St
 
 
 <a id="section-6203"></a>
-## § 6203. Establishment of the Chief Executive Officer of the Broadcasting Board of Governors
-**(a) Continued existence within Executive branch** The Broadcasting Board of Governors shall continue to exist within the Executive branch of Government as an entity described in [section 104 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section104&num=0&edition=prelim).
+## § 6203. Establishment of the Chief Executive Officer of the United States Agency for Global Media
+**(a) Continued existence within Executive branch** The United States Agency for Global Media shall continue to exist within the Executive branch of Government as an entity described in [section 104 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section104&num=0&edition=prelim).
 
 **(b) Chief Executive Officer**
 
-(1) **In general** — The head of the Broadcasting Board of Governors shall be a Chief Executive Officer, who shall be appointed by the President, by and with the advice and consent of the Senate. Notwithstanding any other provision of law, until such time as a Chief Executive Officer is appointed and has qualified, the current or acting Chief Executive Officer appointed by the Board may continue to serve and exercise the authorities and powers under this chapter.
+(1) **In general** — The head of the United States Agency for Global Media shall be a Chief Executive Officer, who shall be appointed by the President, by and with the advice and consent of the Senate. Notwithstanding any other provision of law, until such time as a Chief Executive Officer is appointed and has qualified, the current or acting Chief Executive Officer appointed by the Board may continue to serve and exercise the authorities and powers under this chapter.
 
 (2) **Term** — The first Chief Executive Officer appointed pursuant to paragraph (1) shall serve for an initial term of three years.
 
 (3) **Compensation** — A Chief Executive Officer appointed pursuant to paragraph (1) shall be compensated at the annual rate of basic pay for level III of the Executive Schedule under [section 5314 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5314&num=0&edition=prelim).
 
-**(c) Termination of Director of International Broadcasting Bureau** Effective on December 23, 2016, the position of the Director of the International Broadcasting Bureau shall be terminated, and all of the responsibilities, offices, authorities, and immunities of the Director or the Board under this chapter or any other Act or authority before such date shall be transferred or available to, assumed by, or overseen by the Chief Executive Officer, as head of the Board.
+**(c) Termination of Director of International Broadcasting Bureau** Effective on December 23, 2016, the position of the Director of the International Broadcasting Bureau shall be terminated, and all of the responsibilities, offices, authorities, and immunities of the Director or the Agency under this chapter or any other Act or authority before such date shall be transferred or available to, assumed by, or overseen by the Chief Executive Officer, as head of the Agency.
 
-**(d) Immunity from civil liability** Notwithstanding any other provision of law, all limitations on liability that apply to the Chief Executive Officer shall also apply to members of the boards of directors of RFE/RL, Inc., Radio Free Asia, the Middle East Broadcasting Networks, or any organization that consolidates such entities when such members are acting in their official capacities.
+**(d) Immunity from civil liability** Notwithstanding any other provision of law, all limitations on liability that apply to the Chief Executive Officer shall also apply to members of the boards of directors of RFE/RL, Inc., Radio Free Asia, the Open Technology Fund, the Middle East Broadcasting Networks, or any organization that consolidates such entities when such members are acting in their official capacities.
 
 ### Statutory Notes
 
@@ -127,7 +134,20 @@ This chapter, referred to in subsecs. (b)(1) and (c), was in the original a refe
 
 December 23, 2016, and such date, referred to in subsec. (c), were in the original “the date of the enactment of this section” and “such date of enactment”, respectively, and were translated as meaning the date of enactment of Pub. L. 114–328, which amended this section generally, to reflect the probable intent of Congress.
 
+#### Codification
+Pub. L. 116–283, div. A, title XII, § 1299Q(e)(1), Jan. 1, 2021, 134 Stat. 4024, which amended this section, was itself amended by Pub. L. 116–260, div. O, title XIII, § 1301, Dec. 27, 2020, 134 Stat. 2158, to make it effective 90 days after Jan. 1, 2021. However, the amendment by Pub. L. 116–260 could not be executed because it was enacted before the provision from Pub. L. 116–283 that it amended.
+
 #### Amendments
+2021—Pub. L. 116–283, § 1299Q(e)(1)(A), substituted “United States Agency for Global Media” for “Broadcasting Board of Governors” in section catchline.
+
+Subsec. (a). Pub. L. 116–283, § 1299Q(e)(1)(B), substituted “United States Agency for Global Media” for “Broadcasting Board of Governors”.
+
+Subsec. (b)(1). Pub. L. 116–283, § 1299Q(e)(1)(C), substituted “United States Agency for Global Media” for “Broadcasting Board of Governors”.
+
+Subsec. (c). Pub. L. 116–283, § 1299Q(e)(1)(D), substituted “Agency” for “Board” in two places.
+
+Subsec. (d). Pub. L. 116–283, § 1299P(c)(1), inserted “the Open Technology Fund,” before “the Middle East Broadcasting Networks”.
+
 2016—Pub. L. 114–328 amended section generally. Prior to amendment, section related to the continued existence within the Executive branch, retention of existing Board members, Inspector General authorities, composition, term, selection, compensation, decisions, and immunity from civil liability of the Broadcasting Board of Governors.
 
 1999—Subsec. (b)(2). Pub. L. 106–113, § 1000(a)(7) [div. A, title V, § 502(2)], which directed amendment of par. (2) by inserting “, subject to the advice and consent of the Senate” at end, was executed by making the insertion before period at end, to reflect the probable intent of Congress.
@@ -144,8 +164,14 @@ Subsec. (c). Pub. L. 105–277, § 1323(b), (c), in first sentence, substituted 
 
 Subsec. (e). Pub. L. 105–277, § 1323(b), substituted “Secretary of State” for “Director of the United States Information Agency”.
 
+#### Effective Date of 2021 Amendment
+Pub. L. 116–283, div. A, title XII, § 1299P(e), Jan. 1, 2021, 134 Stat. 4020, provided that: “Section 309A of the United States International Broadcasting Act of 1994 [[22 U.S.C. 6208a](./chapter-071-united-states-international-broadcasting.md#section-6208a)] (as added by subsection (b) of this section) and subsections (c) [amending this section and sections 6204 and 6209 of this title] and (d) [not classified to the Code] of this section shall take effect and apply beginning on July 1, 2021.”
+
 #### Effective Date of 1998 Amendment
 Amendment by Pub. L. 105–277 effective Oct. 1, 1999, see section 1301 of Pub. L. 105–277, set out as an Effective Date note under [section 6531 of this title](./chapter-074-foreign-affairs-agencies-consolidation.md#section-6531).
+
+#### References to Broadcasting Board of Governors
+Pub. L. 116–94, div. G, title I, Dec. 20, 2019, 133 Stat. 2822, provided in part: “That any reference to the ‘Broadcasting Board of Governors’ or ‘BBG’, including in any account providing amounts to the Broadcasting Board of Governors, in any Act making appropriations for the Department of State, foreign operations, and related programs enacted before, on, or after the date of the enactment of this Act [Dec. 20, 2019] shall for this fiscal year, and any fiscal year thereafter, be construed to mean the ‘United States Agency for Global Media’ or ‘USAGM’, respectively.”
 
 
 <a id="section-6204"></a>
@@ -162,7 +188,7 @@ Amendment by Pub. L. 105–277 effective Oct. 1, 1999, see section 1301 of Pub. 
 
 (5) To make and supervise grants and cooperative agreements for broadcasting and related activities in furtherance of the purposes of this chapter and on behalf of other agencies, accordingly.
 
-(6) To allocate funds appropriated for international broadcasting activities among the various elements of the Board and grantees, subject to reprogramming notification requirements in law for the reallocation of funds.
+(6) To allocate funds appropriated for international broadcasting activities among the various elements of the Agency and grantees, subject to reprogramming notification requirements in law for the reallocation of funds.
 
 (7) To review engineering activities to ensure that all broadcasting elements receive the highest quality and cost-effective delivery services.
 
@@ -176,7 +202,7 @@ Amendment by Pub. L. 105–277 effective Oct. 1, 1999, see section 1301 of Pub. 
 
 (12) To obligate and expend, for official reception and representation expenses, such amount as may be made available through appropriations (which for each of the fiscal years 1998 and 1999 may not exceed the amount made available to the Chief Executive Officer and the International Broadcasting Bureau for such purposes for fiscal year 1997).
 
-(13) To make available in the annual report required by paragraph (9) information on funds expended on administrative and managerial services by the Board and by grantees and the steps the Chief Executive Officer has taken to reduce unnecessary overhead costs for each of the broadcasting services.
+(13) To make available in the annual report required by paragraph (9) information on funds expended on administrative and managerial services by the Agency and by grantees and the steps the Chief Executive Officer has taken to reduce unnecessary overhead costs for each of the broadcasting services.
 
 (14) The Chief Executive Officer may provide for the use of United States Government transmitter capacity for transmission or relay of Radio Free Asia or any other grantee authorized under this chapter.
 
@@ -198,24 +224,40 @@ Amendment by Pub. L. 105–277 effective Oct. 1, 1999, see section 1301 of Pub. 
 
   (B) To provide transportation for dependents of such personnel between their places of residence and those schools for which expenses are provided under subparagraph (A), if the Chief Executive Officer determines that such schools are not accessible by public means of transportation.
 
-(20) Notwithstanding any other provision of law, including [section 6207(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section6207/a&num=0&edition=prelim), to condition, if appropriate, any grant or cooperative agreement to RFE/RL, Inc., Radio Free Asia, or the Middle East Broadcasting Networks, or any organization that is established through the consolidation of such entities, on authority to determine membership of their respective boards, and the consolidation of such grantee entities into a single grantee organization under terms and conditions established by the Board.
+(20) Notwithstanding any other provision of law, including [section 6207(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section6207/a&num=0&edition=prelim), to condition, if appropriate, any grant or cooperative agreement to RFE/RL, Inc., Radio Free Asia, the Open Technology Fund, or the Middle East Broadcasting Networks, or any organization that is established through the consolidation of such entities, on authority to determine membership of their respective boards, and the consolidation of such grantee entities into a single grantee organization under terms and conditions established by the Agency in accordance with subsection (c).
 
-(21) To redirect or reprogram funds within the scope of any grant or cooperative agreement, or between grantees, as necessary (and not later than 15 days before any such redirection of funds between language services, to notify the Committee on Appropriations and the Committee on Foreign Affairs of the House of Representatives and the Committee on Appropriations and the Committee on Foreign Relations of the Senate regarding such redirection), and to condition grants or cooperative agreements, if appropriate, on such grants or cooperative agreements or any similar amendments as authorized under [section 6207(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section6207/a&num=0&edition=prelim), including authority to name and replace the board of any grantee authorized under this chapter, including with Federal officials, to meet the purposes of this chapter.
+(21) To redirect or reprogram funds within the scope of any grant or cooperative agreement, or between grantees, as necessary (and not later than 15 days before any such redirection of funds between language services, to notify the Committee on Appropriations and the Committee on Foreign Affairs of the House of Representatives and the Committee on Appropriations and the Committee on Foreign Relations of the Senate regarding such redirection), and to condition grants or cooperative agreements, if appropriate, on such grants or cooperative agreements or any similar amendments as authorized under [section 6207(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section6207/a&num=0&edition=prelim), including authority to name and replace the board of any grantee authorized under this chapter, to meet the purposes of this chapter in accordance with subsection (c).
 
-(22) To change the name of the Board pursuant to congressional notification 60 days prior to any such change.
+(22) To change the name of the Agency pursuant to congressional notification 60 days prior to any such change.
 
-**(b) Professional independence of broadcasters** The Secretary of State and the Chief Executive Officer, in carrying out their functions, shall respect the professional independence and integrity of the Board, its broadcasting services, and the grantees of the Board.
+(23) To—
+
+  (A) require annual content reviews of each language service of Voice of America, The Office of Cuba Broadcasting, and each grantee network, consisting of a review of at least 10 percent of available unique weekly content from any selected week from the previous year, which shall be conducted, to the extent practicable, by fluent language speakers and experts without direct affiliation to the language service being reviewed, who are seeking any evidence of inappropriate or unprofessional content, which shall be submitted to the Office of Policy Research, the head and Board of the respective language service, and the Chief Executive Officer;
+
+  (B) submit to the appropriate congressional committees a list of anomalous reports, including status updates on anomalous services during the 3-year period commencing on the date of receipt of the first report of biased, unprofessional, or otherwise problematic content.”; 22 So in original. The period and quotation marks preceding the semicolon probably should not appear. and
+
+  (C) launch a review, using external, native-language and regional experts, the results of which are to be reported to the appropriate congressional committees, if a widespread pattern of violations of the principles, standards, or journalistic code of ethics of a language service or grantee network has been identified.
+
+**(b) Professional independence of broadcasters** The Secretary of State and the Chief Executive Officer, in carrying out their functions, shall respect the professional independence and integrity of the Agency, its broadcasting services, and the grantees of the Agency.
+
+**(c) Limitation on corporate leadership of grantees**
+
+(1) **In general** — The Chief Executive Officer may not award any grant under subsection (a) to RFE/RL, Inc., Radio Free Asia, the Middle East Broadcasting Networks, the Open Technology Fund, or any other grantee authorized under this chapter (collectively referred to as “Agency Grantee Networks”) unless the incorporation documents of any such grantee require that the corporate leadership and Board of Directors of such grantee be selected in accordance with this chapter.
+
+(2) **Conflicts of interest** — The Chief Executive Officer may not serve on any of the corporate boards of any grantee under subsection (a).
+
+(3) **Qualifications of grantee board members** — Individuals appointed under subsection (a) to the Board of Directors of any of the Agency Grantee Networks shall have requisite expertise in journalism, technology, broadcasting, or diplomacy, or appropriate language or cultural understanding relevant to the grantee’s mission.
 
 ### Statutory Notes
 
 #### References in Text
-This chapter, referred to in subsec. (a)(1), (9), (17), (18), was in the original “this title”, meaning title III of Pub. L. 103–236, Apr. 30, 1994, 108 Stat. 432, known as the United States International Broadcasting Act of 1994, which is classified principally to this chapter. For complete classification of title III to the Code, see Short Title note set out under [section 6201 of this title](./chapter-071-united-states-international-broadcasting.md#section-6201) and Tables.
+This chapter, referred to in subsecs. (a)(1), (9), (17), (18) and (c)(1) the first place appearing, was in the original “this title”, meaning title III of Pub. L. 103–236, Apr. 30, 1994, 108 Stat. 432, known as the United States International Broadcasting Act of 1994, which is classified principally to this chapter. For complete classification of title III to the Code, see Short Title note set out under [section 6201 of this title](./chapter-071-united-states-international-broadcasting.md#section-6201) and Tables.
 
 The Radio Broadcasting to Cuba Act, referred to in subsec. (a)(1), (9), is Pub. L. 98–111, Oct. 4, 1983, 97 Stat. 749, as amended, which is classified generally to subchapter V–A (§ 1465 et seq.) of chapter 18 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1465 of this title](./chapter-018-united-states-information-and-educational-exchange-programs.md#section-1465) and Tables.
 
 The Television Broadcasting to Cuba Act, referred to in subsec. (a)(1), (9), is part D of title II of Pub. L. 101–246, Feb. 16, 1990, 104 Stat. 58, as amended, which is classified principally to subchapter V–B (§ 1465aa et seq.) of chapter 18 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1465aa of this title](./chapter-018-united-states-information-and-educational-exchange-programs.md#section-1465aa) and Tables.
 
-This chapter, referred to in subsec. (a)(5), (14), (21), was in the original “this Act”, and was translated, to reflect the probable intent of Congress, as reading “this title”, meaning title III of Pub. L. 103–236, Apr. 30, 1994, 108 Stat. 432, known as the United States International Broadcasting Act of 1994, which is classified principally to this chapter. For complete classification of title III to the Code, see Short Title note set out under [section 6201 of this title](./chapter-071-united-states-international-broadcasting.md#section-6201) and Tables.
+This chapter, referred to in subsecs. (a)(5), (14), (21) and (c)(1) the second place appearing, was in the original “this Act”, and was translated, to reflect the probable intent of Congress, as reading “this title”, meaning title III of Pub. L. 103–236, Apr. 30, 1994, 108 Stat. 432, known as the United States International Broadcasting Act of 1994, which is classified principally to this chapter. For complete classification of title III to the Code, see Short Title note set out under [section 6201 of this title](./chapter-071-united-states-international-broadcasting.md#section-6201) and Tables.
 
 The United States Information and Educational Exchange Act of 1948, referred to in subsec. (a)(17), is act Jan. 27, 1948, ch. 36, 62 Stat. 6, as amended, which is classified generally to chapter 18 (§ 1431 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1431 of this title](./chapter-018-united-states-information-and-educational-exchange-programs.md#section-1431) and Tables.
 
@@ -226,9 +268,29 @@ For the effective date of title XIII of the Foreign Affairs Agencies Consolidati
 #### Codification
 “Chief Executive Officer” was substituted for “Board” in section catchline to reflect the probable intent of Congress and the amendment by Pub. L. 114–328, § 1288(2)(A)(i), which substituted “Chief Executive Officer” for “Board” wherever appearing in subsec. (a).
 
-Section is comprised of section 305 of Pub. L. 103–236. Subsec. (e) of section 305 of Pub. L. 103–236 amended sections 1465b and 1465c of this title. There are no subsecs. (c) and (d) after amendment by Pub. L. 114–328, § 1288(2)(B)–(D).
+Section is comprised of section 305 of Pub. L. 103–236, which consists of subsecs. (a), (b), (e), and (c), in that order. Subsec. (e) of section 305 of Pub. L. 103–236 amended sections 1465b and 1465c of this title and is omitted from the text of this section. There was no subsec. (c) or (d) after amendment by Pub. L. 114–328, § 1288(2)(B)–(D). Pub. L. 116–283, § 1299Q(c)(2), which added a new subsec. (c), directed that it be added at the end of this section, which technically places it after subsec. (e) but is shown here as following subsec. (b) due to the omission of subsec. (e).
+
+Pub. L. 116–283, div. A, title XII, § 1299Q(c), (e)(2), Jan. 1, 2021, 134 Stat. 4021, 4025, which amended this section, was itself amended by Pub. L. 116–260, div. O, title XIII, § 1301, Dec. 27, 2020, 134 Stat. 2158, to make it effective 90 days after Jan. 1, 2021. However, the amendment by Pub. L. 116–260 could not be executed because it was enacted before the provision from Pub. L. 116–283 that it amended.
 
 #### Amendments
+2021—Subsec. (a)(6). Pub. L. 116–283, § 1299Q(e)(2)(A)(i), substituted “Agency” for “Board”.
+
+Subsec. (a)(13). Pub. L. 116–283, § 1299Q(e)(2)(A)(ii), substituted “Agency” for “Board”.
+
+Subsec. (a)(20). Pub. L. 116–283, § 1299Q(c)(1)(A), (e)(2)(A)(iii), substituted “Agency” for “Board” and inserted “in accordance with subsection (c)” before period at end.
+
+Pub. L. 116–283, § 1299P(c)(2), inserted “the Open Technology Fund,” before “or the Middle East Broadcasting Networks”.
+
+Subsec. (a)(21). Pub. L. 116–283, § 1299Q(c)(1)(B), struck out “including with Federal officials,” before “to meet the purposes” and inserted “in accordance with subsection (c)” before period at end.
+
+Subsec. (a)(22). Pub. L. 116–283, § 1299Q(e)(2)(A)(iv), substituted “Agency” for “Board”.
+
+Subsec. (a)(23). Pub. L. 116–283, § 1299Q(c)(1)(C), added par. (23).
+
+Subsec. (b). Pub. L. 116–283, § 1299Q(e)(2)(B), substituted “Agency” for “Board” in two places.
+
+Subsec. (c). Pub. L. 116–283, § 1299Q(c)(2), added subsec. (c). See Codification note above.
+
 2016—Subsec. (a). Pub. L. 114–328, § 1288(2)(A)(i), substituted “Chief Executive Officer” for “Board” in introductory provisions.
 
 Subsec. (a)(1). Pub. L. 114–328, § 1288(2)(A)(ii), inserted “direct and” before “supervise”.
@@ -289,53 +351,68 @@ Pub. L. 105–277, § 1323(f)(1), redesignated subsec. (d) as (e). See Codificat
 
 1994—Subsec. (a)(14). Pub. L. 103–415 substituted “relay of Radio” for “relay to Radio”.
 
+#### Effective Date of 2021 Amendment
+Amendment by section 1299P(c)(2) of Pub. L. 116–283 effective and applicable beginning on July 1, 2021, see section 1299P(e) of Pub. L. 116–283, set out as a note under [section 6203 of this title](./chapter-071-united-states-international-broadcasting.md#section-6203).
+
 #### Effective Date of 1998 Amendment
 Amendment by Pub. L. 105–277 effective Oct. 1, 1999, see section 1301 of Pub. L. 105–277, set out as an Effective Date note under [section 6531 of this title](./chapter-074-foreign-affairs-agencies-consolidation.md#section-6531).
 
 #### Expansion of Farsi Language Programming
-Pub. L. 111–84, div. A, title XII, § 1262, Oct. 28, 2009, 123 Stat. 2553, provided that: “(a) International Broadcasting Operations Fund.—In addition to amounts otherwise authorized for the Broadcasting Board of Governors’ International Broadcasting Operations Fund, there is authorized to be appropriated $15,000,000 to expand Farsi language programming and to provide for the dissemination of accurate and independent information to the Iranian people through radio, television, Internet, cellular telephone, short message service, and other communications. “(b) Broadcasting Capital Improvements Fund.—In addition to amounts otherwise authorized for the Broadcasting Board of Governors’ Broadcasting Capital Improvements Fund, there is authorized to be appropriated $15,000,000 to expand transmissions of Farsi language programs to Iran. “(c) Use of Amounts.—In pursuit of the objectives described in subsections (a) and (b), amounts in the International Broadcasting Operations Fund and the Capital Improvements Fund may be used to—“(1) develop additional transmission capability for Radio Farda and the Persian News Network to counter ongoing efforts to jam transmissions, including through additional shortwave and medium wave transmissions, satellite, and Internet mechanisms; “(2) develop additional proxy server capability and anti-censorship software to counter efforts to block Radio Farda and Persian News Network Web sites; “(3) develop technologies to counter efforts to block SMS text message exchange over cellular phone networks; “(4) expand program coverage and analysis by Radio Farda and the Persian News Network, including the development of broadcast platforms and programs, on the television, radio and Internet, for enhanced interactivity with and among the people of Iran; “(5) hire, on a permanent or short-term basis, additional staff for Radio Farda and the Persian News Network; and “(6) develop additional Internet-based, Farsi-language television programming, including a Farsi-language, Internet-based news channel.”
+Pub. L. 111–84, div. A, title XII, § 1262, Oct. 28, 2009, 123 Stat. 2553, provided that: “(a) International Broadcasting Operations Fund.—In addition to amounts otherwise authorized for the Broadcasting Board of Governors’ [now United States Agency for Global Media] International Broadcasting Operations Fund, there is authorized to be appropriated $15,000,000 to expand Farsi language programming and to provide for the dissemination of accurate and independent information to the Iranian people through radio, television, Internet, cellular telephone, short message service, and other communications. “(b) Broadcasting Capital Improvements Fund.—In addition to amounts otherwise authorized for the Broadcasting Board of Governors’ Broadcasting Capital Improvements Fund, there is authorized to be appropriated $15,000,000 to expand transmissions of Farsi language programs to Iran. “(c) Use of Amounts.—In pursuit of the objectives described in subsections (a) and (b), amounts in the International Broadcasting Operations Fund and the Capital Improvements Fund may be used to—“(1) develop additional transmission capability for Radio Farda and the Persian News Network to counter ongoing efforts to jam transmissions, including through additional shortwave and medium wave transmissions, satellite, and Internet mechanisms; “(2) develop additional proxy server capability and anti-censorship software to counter efforts to block Radio Farda and Persian News Network Web sites; “(3) develop technologies to counter efforts to block SMS text message exchange over cellular phone networks; “(4) expand program coverage and analysis by Radio Farda and the Persian News Network, including the development of broadcast platforms and programs, on the television, radio and Internet, for enhanced interactivity with and among the people of Iran; “(5) hire, on a permanent or short-term basis, additional staff for Radio Farda and the Persian News Network; and “(6) develop additional Internet-based, Farsi-language television programming, including a Farsi-language, Internet-based news channel.”
 
 #### Iranian Electronic Education, Exchange, and Media Fund
-Pub. L. 111–84, div. A, title XII, § 1263, Oct. 28, 2009, 123 Stat. 2553, provided that: “(a) Establishment.—There is established in the Treasury of the United States the Iranian Electronic Education, Exchange, and Media Fund (referred to in this section as the ‘Fund’), consisting of amounts appropriated to the Fund pursuant to subsection (f). “(b) Administration.—The Fund shall be administered by the Secretary of State. “(c) Objective.—The objective of the Fund shall be to support the development of technologies, including Internet Web sites, that will aid the ability of the Iranian people to—“(1) gain access to and share information; “(2) exercise freedom of speech, freedom of expression, and freedom of assembly through the Internet and other electronic media; “(3) engage in Internet-based education programs and other exchanges between Americans and Iranians; and “(4) counter efforts—“(A) to block, censor, and monitor the Internet; and “(B) to disrupt or monitor cellular phone networks or SMS text exchanges. “(d) Use of Amounts.—In pursuit of the objective described in subsection (c), amounts in the Fund may be used for grants to United States or foreign universities, nonprofit organizations, or companies for targeted projects that advance the purpose of the Fund, including projects that—“(1) develop Farsi-language versions of existing social-networking Web sites; “(2) develop technologies, including Internet-based applications, to counter efforts—“(A) to block, censor, and monitor the Internet; and “(B) to disrupt or monitor cellular phone networks or SMS text message exchanges; “(3) develop Internet-based, distance learning programs for Iranian students at United States universities; and “(4) promote Internet-based, people-to-people educational, professional, religious, or cultural exchanges and dialogues between United States citizens and Iranians. “(e) Transfers.—Amounts in the Fund may be transferred to the United States Agency for International Development, the Broadcasting Board of Governors, or any other agency of the Federal Government to the extent that such amounts are used to carry out activities that will further the objective described in subsection (c). “(f) Authorization of Appropriations.—There is authorized to be appropriated $20,000,000 to the Fund.”
+Pub. L. 111–84, div. A, title XII, § 1263, Oct. 28, 2009, 123 Stat. 2553, provided that: “(a) Establishment.—There is established in the Treasury of the United States the Iranian Electronic Education, Exchange, and Media Fund (referred to in this section as the ‘Fund’), consisting of amounts appropriated to the Fund pursuant to subsection (f). “(b) Administration.—The Fund shall be administered by the Secretary of State. “(c) Objective.—The objective of the Fund shall be to support the development of technologies, including Internet Web sites, that will aid the ability of the Iranian people to—“(1) gain access to and share information; “(2) exercise freedom of speech, freedom of expression, and freedom of assembly through the Internet and other electronic media; “(3) engage in Internet-based education programs and other exchanges between Americans and Iranians; and “(4) counter efforts—“(A) to block, censor, and monitor the Internet; and “(B) to disrupt or monitor cellular phone networks or SMS text exchanges. “(d) Use of Amounts.—In pursuit of the objective described in subsection (c), amounts in the Fund may be used for grants to United States or foreign universities, nonprofit organizations, or companies for targeted projects that advance the purpose of the Fund, including projects that—“(1) develop Farsi-language versions of existing social-networking Web sites; “(2) develop technologies, including Internet-based applications, to counter efforts—“(A) to block, censor, and monitor the Internet; and “(B) to disrupt or monitor cellular phone networks or SMS text message exchanges; “(3) develop Internet-based, distance learning programs for Iranian students at United States universities; and “(4) promote Internet-based, people-to-people educational, professional, religious, or cultural exchanges and dialogues between United States citizens and Iranians. “(e) Transfers.—Amounts in the Fund may be transferred to the United States Agency for International Development, the Broadcasting Board of Governors [now United States Agency for Global Media], or any other agency of the Federal Government to the extent that such amounts are used to carry out activities that will further the objective described in subsection (c). “(f) Authorization of Appropriations.—There is authorized to be appropriated $20,000,000 to the Fund.”
 
 #### Buying Power Maintenance Account
-Pub. L. 110–252, title I, § 1408(c), June 30, 2008, 122 Stat. 2342, provided that: “The Broadcasting Board of Governors may transfer funds into its Buying Power Maintenance Account, notwithstanding the requirement that such funds be provided in advance in appropriations Acts. The authority in this subsection may be exercised only with respect to funds appropriated or otherwise made available after fiscal year 2008.”
+Pub. L. 110–252, title I, § 1408(c), June 30, 2008, 122 Stat. 2342, provided that: “The Broadcasting Board of Governors [now United States Agency for Global Media] may transfer funds into its Buying Power Maintenance Account, notwithstanding the requirement that such funds be provided in advance in appropriations Acts. The authority in this subsection may be exercised only with respect to funds appropriated or otherwise made available after fiscal year 2008.”
 
 #### Pilot Project for Transcription of Certain Programming Into English
-Pub. L. 110–53, title XX, § 2032, Aug. 3, 2007, 121 Stat. 516, provided that: “(a) Transcription of Persian and Arabic Language Broadcasts.—Not later than 90 days after the date of the enactment of this Act [Aug. 3, 2007], the Broadcasting Board of Governors shall initiate a pilot project to transcribe into the English language news and information programming broadcast by Radio Farda, Radio Sawa, the Persian Service of the Voice of America, and Alhurra. “(b) Random Sampling; Public Availability.—The transcription required under subsection (a) shall consist of a random sampling of such programming. The transcripts shall be available to Congress and the public on the Internet site of the Board. “(c) Report.—Not later than May 1, 2008, the Chairman of the Broadcasting Board of Governors shall submit to the Committee on Foreign Affairs of the House of Representatives and Committee on Foreign Relations of the Senate a report on the feasibility and utility of continuing the pilot project required under subsection (a). “(d) Authorization of Appropriations.—There is authorized to be appropriated to the ‘International Broadcasting Operations’ account of the Broadcasting Board of Governors $2,000,000 for fiscal year 2008 to carry out the pilot project required under subsection (a).”
+Pub. L. 110–53, title XX, § 2032, Aug. 3, 2007, 121 Stat. 516, provided that: “(a) Transcription of Persian and Arabic Language Broadcasts.—Not later than 90 days after the date of the enactment of this Act [Aug. 3, 2007], the Broadcasting Board of Governors [now United States Agency for Global Media] shall initiate a pilot project to transcribe into the English language news and information programming broadcast by Radio Farda, Radio Sawa, the Persian Service of the Voice of America, and Alhurra. “(b) Random Sampling; Public Availability.—The transcription required under subsection (a) shall consist of a random sampling of such programming. The transcripts shall be available to Congress and the public on the Internet site of the Board. “(c) Report.—Not later than May 1, 2008, the Chairman of the Broadcasting Board of Governors shall submit to the Committee on Foreign Affairs of the House of Representatives and Committee on Foreign Relations of the Senate a report on the feasibility and utility of continuing the pilot project required under subsection (a). “(d) Authorization of Appropriations.—There is authorized to be appropriated to the ‘International Broadcasting Operations’ account of the Broadcasting Board of Governors $2,000,000 for fiscal year 2008 to carry out the pilot project required under subsection (a).”
 
 
 <a id="section-6205"></a>
 ## § 6205. Establishment of the International Broadcasting Advisory Board
-**(a) In general** Except as provided in subsection (b)(2), the International Broadcasting Advisory Board (referred to in this section as the “Advisory Board”) shall consist of five members, including the Secretary of State, appointed by the President and in accordance with subsection (d), to advise the Chief Executive Officer of the Broadcasting Board of Governors, as appropriate.
+**(a) In general** The International Broadcasting Advisory Board (referred to in this section as the “Advisory Board”) shall advise the Chief Executive Officer of the United States Agency for Global Media, as appropriate. The Advisory Board as established shall exist within the executive branch as an entity described in [section 104 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section104&num=0&edition=prelim).
 
-**(b) Retention of existing BBG Board Members**
+**(b) Composition of the Advisory Board**
 
-(1) **In general** — The presidentially appointed and Senate-confirmed members of the Board of the Broadcasting Board of Governors who are serving on unexpired terms as of December 23, 2016, shall—
+(1) **In general** — The Advisory Board shall consist of seven members, of whom—
 
-  (A) constitute the first Advisory Board; and
+  (A) six shall be appointed by the President, by and with the advice and consent of the Senate, in accordance with subsection (c); and
 
-  (B) hold office for the remainder of their original terms of office without reappointment to the Advisory Board.
+  (B) one shall be the Secretary of State.
 
-(2) **Effect of additional members** — If, on December 23, 2016, more than five members described in subsection (a) are serving their original terms of office on the Broadcasting Board of Governors, each such member may serve on the Advisory Board for a period equal to the time remaining on each such member’s respective term without reappointment.
+(2) **Chair** — The President shall designate, with the advice and consent of the Senate, one of the members appointed under paragraph (1)(A) as Chair of the Advisory Board.
 
-**(c) Terms of office**
+(3) **Party limitation** — Not more than three members of the Advisory Board appointed under paragraph (1)(A) may be affiliated with the same political party.
 
-(1) **In general** — Except as provided in paragraph (2), the term of office of each member of the Advisory Board appointed pursuant to subsection (a) shall be three years.
+(4) **Terms of office**
 
-(2) **Vacancies** — If a vacancy on the Advisory Board occurs before the expiration of the term of the member who created such vacancy—
+  (A) *In general* — Except as provided in subparagraph (B), members of the Advisory Board shall serve for a single term of 4 years, except that, of the first group of members appointed under paragraph (1)(A)—
 
-  (A) the President shall appoint a new member to fill such vacancy in accordance with subsection (d); and
+    (i) two members who are not affiliated with the same political party, shall be appointed for terms ending on the date that is 2 years after the date of the enactment of the U.S. Agency for Global Media Reform Act;
 
-  (B) the member appointed pursuant to such subsection shall serve for the remainder of such term.
+    (ii) two members who are not affiliated with the same political party, shall be appointed for terms ending on the date that is 4 years after the date of the enactment of the U.S. Agency for Global Media Reform Act; and
 
-(3) **Service beyond term prohibited** — Members may not serve beyond the term for which they were appointed.
+    (iii) two members who are not affiliated with the same political party, shall be appointed for terms ending on the date that is 6 years after the date of the enactment of the U.S. Agency for Global Media Reform Act.
 
-**(d) Selection of the Board** In identifying individuals for appointment to the Advisory Board under subsection (a), the President shall appoint United States citizens—
+  (B) *Secretary of State* — The Secretary of State shall serve as a member of the Advisory Board for the duration of his or her tenure as Secretary of State.
+
+(5) **Vacancies**
+
+  (A) *In general* — The President shall appoint, with the advice and consent of the Senate, additional members to fill vacancies on the Advisory Board occurring before the expiration of a term.
+
+  (B) *Term* — Any members appointed pursuant to subparagraph (A) shall serve for the remainder of such term.
+
+  (C) *Service beyond term* — Any member whose term has expired shall continue to serve as a member of the Advisory Board until a qualified successor has been appointed and confirmed by the Senate.
+
+  (D) *Secretary of State* — When there is a vacancy in the office of Secretary of State, the Acting Secretary of State shall serve as a member of the Advisory Board until a new Secretary of State is appointed.
+
+**(c) Selection of the Advisory Board** In identifying individuals for appointment to the Advisory Board under subsection (a), the President shall appoint United States citizens—
 
 (1) who, with the exception of the Secretary of State, are not regular, full-time employees of the United States Government; and
 
-(2) distinguished in the fields of public diplomacy, mass communications, print, broadcast or digital media, or foreign affairs, of whom—
+(2) who are distinguished in the fields of public diplomacy, mass communications, print, broadcast or digital media, or foreign affairs, of whom—
 
   (A) one individual should be appointed from among a list of at least three individuals submitted by the Chair of the Committee on Foreign Affairs of the House of Representatives;
 
@@ -345,24 +422,71 @@ Pub. L. 110–53, title XX, § 2032, Aug. 3, 2007, 121 Stat. 516, provided that:
 
   (D) one individual should be appointed from among a list of at least three individuals submitted by the Ranking Member of the Committee on Foreign Relations of the Senate.
 
-**(e) Functions of the Board** The members of the Advisory Board shall perform the following advisory functions:
+**(d) Functions of the Advisory Board** The members of the Advisory Board shall—
 
-(1) To provide the Chief Executive Officer of the Broadcasting Board of Governors with counsel and recommendations for improving the effectiveness and efficiency of the agency and its programming.
+(1) provide the Chief Executive Officer of the United States Agency for Global Media with advice and recommendations for improving the effectiveness and efficiency of the Agency and its programming;
 
-(2) To meet with the Chief Executive Officer at least twice annually and at additional meetings at the request of the Chief Executive Officer.
+(2) meet with the Chief Executive Officer at least four times annually, including twice in person as practicable, and at additional meetings at the request of the Chief Executive Officer or the Chair of the Advisory Board;
 
-(3) To report periodically or upon request to the congressional committees specified in subsection (d)(2) regarding its counsel and recommendations for improving the effectiveness and efficiency of the Broadcasting Board of Governors and its programming.
+(3) report periodically, or upon request, to the congressional committees specified in subsection (c)(2) regarding its advice and recommendations for improving the effectiveness and efficiency of the United States Agency for Global Media and its programming;
 
-(4) To obtain information from the Chief Executive Officer, as needed, for the purposes of fulfilling the functions described in this subsection.
+(4) obtain information from the Chief Executive Officer, as needed, for the purposes of fulfilling the functions described in this subsection;
 
-**(f) Compensation** Members of the Advisory Board, including the Secretary of State, may not receive any fee, salary, or remuneration of any kind for their service as members.
+(5) consult with the Chief Executive Officer regarding budget submissions and strategic plans before they are submitted to the Office of Management and Budget or to Congress;
+
+(6) advise the Chief Executive Officer to ensure that—
+
+  (A) the Chief Executive Officer fully respects the professional integrity and editorial independence of United States Agency for Global Media broadcasters, networks, and grantees; and
+
+  (B) agency networks, broadcasters, and grantees adhere to the highest professional standards and ethics of journalism, including taking necessary actions to uphold professional standards to produce consistently reliable and authoritative, accurate, objective, and comprehensive news and information; and
+
+(7) provide other strategic input to the Chief Executive Officer.
+
+**(e) Appointment of heads of networks**
+
+(1) **In general** — The heads of Voice of America, the Office of Cuba Broadcasting, RFE/RL, Inc., Radio Free Asia, the Middle East Broadcasting Networks, the Open Technology Fund, or of any other grantee authorized under this chapter may only be appointed or removed if such action has been approved by a majority vote of the Advisory Board.
+
+(2) **Removal** — After consulting with the Chief Executive Officer, five or more members of the Advisory Board may unilaterally remove any such head of network or grantee network described in paragraph (1).
+
+(3) **Quorum**
+
+  (A) *In general* — A quorum shall consist of four members of the Advisory Board (excluding the Secretary of State).
+
+  (B) *Decisions* — Except as provided in paragraph (2), decisions of the Advisory Board shall be made by majority vote, a quorum being present.
+
+  (C) *Closed sessions* — The Advisory Board may meet in closed sessions in accordance with [section 552b of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section552b&num=0&edition=prelim).
+
+**(f) Compensation**
+
+(1) **In general** — Members of the Advisory Board, while attending meetings of the Advisory Board or while engaged in duties relating to such meetings or in other activities of the Advisory Board under this section (including travel time) shall be entitled to receive compensation equal to the daily equivalent of the compensation prescribed for level IV of the Executive Schedule under [section 5315 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5315&num=0&edition=prelim).
+
+(2) **Travel expenses** — While away from their homes or regular places of business, members of the Board may be allowed travel expenses, including per diem in lieu of subsistence, as authorized under section 5703 of such title for persons in the Government service employed intermittently.
+
+(3) **Secretary of State** — The Secretary of State is not entitled to any compensation under this chapter, but may be allowed travel expenses in accordance with paragraph (2).
+
+**(g) Support staff** The Chief Executive Officer shall, from within existing United States Agency for Global Media personnel, provide the Advisory Board with an Executive Secretary and such administrative staff and support as may be necessary to enable the Advisory Board to carry out subsections (d) and (e).
 
 ### Statutory Notes
 
 #### References in Text
-December 23, 2016, referred to in subsec. (b), was in the original “the date of the enactment of this section”, which was translated as meaning the date of enactment of Pub. L. 114–328, which amended this section generally, to reflect the probable intent of Congress.
+The date of the enactment of the U.S. Agency for Global Media Reform Act, referred to in subsec. (b)(4)(A), probably means the date of enactment of section 1299Q of Pub. L. 116–283, which was approved Jan. 1, 2021. A bill with that Short Title, S. 3654, was introduced in the 115th Congress, 2nd Session, but was not enacted. Provisions similar to those in subsec. (b) of this section, as added by section 1299Q of Pub. L. 116–283, were contained in section 3 of the bill.
+
+This chapter, referred to in subsecs. (e)(1) and (f)(3), was in the original “this title”, meaning title III of Pub. L. 103–236, Apr. 30, 1994, 108 Stat. 432, known as the United States International Broadcasting Act of 1994, which is classified principally to this chapter. For complete classification of title III to the Code, see Short Title note set out under [section 6201 of this title](./chapter-071-united-states-international-broadcasting.md#section-6201) and Tables.
+
+#### Codification
+Pub. L. 116–283, div. A, title XII, § 1299Q(d), Jan. 1, 2021, 134 Stat. 4022, which amended this section, was itself amended by Pub. L. 116–260, div. O, title XIII, § 1301, Dec. 27, 2020, 134 Stat. 2158, to make it effective 90 days after Jan. 1, 2021. However, the amendment by Pub. L. 116–260 could not be executed because it was enacted before the provision from Pub. L. 116–283 that it amended.
 
 #### Amendments
+2021—Subsec. (a). Pub. L. 116–283, § 1299Q(d)(1), added subsec. (a) and struck out former subsec. (a). Prior to amendment, text read as follows: “Except as provided in subsection (b)(2), the International Broadcasting Advisory Board (referred to in this section as the ‘Advisory Board’) shall consist of five members, including the Secretary of State, appointed by the President and in accordance with subsection (d), to advise the Chief Executive Officer of the Broadcasting Board of Governors, as appropriate.”
+
+Subsec. (b). Pub. L. 116–283, § 1299Q(d)(1), added subsec. (b) and struck out former subsec. (b) which related to retention of existing BBG Board Members.
+
+Subsec. (c). Pub. L. 116–283, § 1299Q(d)(1)–(3), redesignated subsec. (d) as (c), inserted “Advisory” before “Board” in subsec. heading and “who are” before “distinguished” in par. (2), and struck out former subsec. (c) which related to terms of office.
+
+Subsec. (d). Pub. L. 116–283, § 1299Q(d)(4), added subsec. (d). Former subsec. (d) redesignated (c).
+
+Subsecs. (e) to (g). Pub. L. 116–283, § 1299Q(d)(4), added subsecs. (e) to (g).
+
 2016—Pub. L. 114–328 amended section generally. Prior to amendment, section related to the role of the Secretary of State in international broadcasting.
 
 1998—Pub. L. 105–277, § 1323(j)(1), substituted “Role of Secretary of State” for “Foreign policy guidance” in section catchline.
@@ -398,7 +522,7 @@ Pub. L. 107–228, div. A, title V, § 504, Sept. 30, 2002, 116 Stat. 1393, as a
 
 <a id="section-6207"></a>
 ## § 6207. Limits on grants for Radio Free Europe and Radio Liberty
-**(a) Board of RFE/RL, Incorporated** The Board may not make any grant to RFE/RL, Incorporated, unless the certificate of incorporation of RFE/RL, Incorporated, has been amended to provide that—
+**(a) Board of RFE/RL, Incorporated** The Agency may not make any grant to RFE/RL, Incorporated, unless the certificate of incorporation of RFE/RL, Incorporated, has been amended to provide that—
 
 (1) the Board of Directors of RFE/RL, Incorporated, shall consist of the members authorized under [section 6204(a)(20) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section6204/a/20&num=0&edition=prelim); and
 
@@ -406,29 +530,29 @@ Pub. L. 107–228, div. A, title V, § 504, Sept. 30, 2002, 116 Stat. 1393, as a
 
 **(b) Location of principal place of business**
 
-(1) The Board may not make any grant to RFE/RL, Incorporated unless the headquarters of RFE/RL, Incorporated and its senior administrative and managerial staff are in a location which ensures economy, operational effectiveness, and accountability to the Board.
+(1) The Agency may not make any grant to RFE/RL, Incorporated unless the headquarters of RFE/RL, Incorporated and its senior administrative and managerial staff are in a location which ensures economy, operational effectiveness, and accountability to the Agency.
 
-(2) Not later than 90 days after confirmation of all members of the Board, the Board shall provide a report to Congress on the number of administrative, managerial, and technical staff of RFE/RL, Incorporated who will be located within the metropolitan area of Washington, D.C., and the number of employees whose principal place of business will be located outside the metropolitan area of Washington, D.C.
+(2) Not later than 90 days after confirmation of all members of the Agency, the Agency shall provide a report to Congress on the number of administrative, managerial, and technical staff of RFE/RL, Incorporated who will be located within the metropolitan area of Washington, D.C., and the number of employees whose principal place of business will be located outside the metropolitan area of Washington, D.C.
 
 **(c) Limitation on grant amounts** The total amount of grants made for the operating costs of RFE/RL, Incorporated, may not exceed $85,000,000 in fiscal year 2003.
 
-**(d) Alternative grantee** If the Chief Executive Officer determines at any time that RFE/RL, Incorporated is not carrying out the functions described in this section in an effective and economical manner, the Board may award the grant to carry out such functions to another entity.
+**(d) Alternative grantee** If the Chief Executive Officer determines at any time that RFE/RL, Incorporated is not carrying out the functions described in this section in an effective and economical manner, the Agency may award the grant to carry out such functions to another entity.
 
 **(e) Not a Federal agency or instrumentality** Nothing in this chapter may be construed to make RFE/RL, Incorporated a Federal agency or instrumentality.
 
 **(f) Authority** Grants authorized under [section 6204 of this title](./chapter-071-united-states-international-broadcasting.md#section-6204) for RFE/RL, Incorporated, shall be available to make annual grants for the purpose of carrying out similar functions as were carried out by RFE/RL, Incorporated, on the day before April 30, 1994, with respect to Radio Free Europe and Radio Liberty, consistent with section 2 of the Board for International Broadcasting Act of 1973 [[22 U.S.C. 2871](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2871&num=0&edition=prelim)], as in effect on such date.
 
-**(g) Grant agreement** Grants to RFE/RL, Incorporated, by the Board shall only be made in compliance with a grant agreement. The grant agreement shall establish guidelines for such grants. The grant agreement shall include the following provisions—
+**(g) Grant agreement** Grants to RFE/RL, Incorporated, by the Agency shall only be made in compliance with a grant agreement. The grant agreement shall establish guidelines for such grants. The grant agreement shall include the following provisions—
 
-(1) that a grant be used only for activities which the Board determines are consistent with the purposes of subsection (f);
+(1) that a grant be used only for activities which the Agency determines are consistent with the purposes of subsection (f);
 
 (2) that RFE/RL, Incorporated, shall otherwise comply with the requirements of this section;
 
-(3) that failure to comply with the requirements of this section may result in suspension or termination of a grant without further obligation by the Board or the United States;
+(3) that failure to comply with the requirements of this section may result in suspension or termination of a grant without further obligation by the Agency or the United States;
 
-(4) that duplication of language services and technical operations between RFE/RL, Incorporated and the 11 So in original. The word “the” probably should not appear. any other grantee of the Board be reduced to the extent appropriate, as determined by the Chief Executive Officer; and
+(4) that duplication of language services and technical operations between RFE/RL, Incorporated and the 11 So in original. The word “the” probably should not appear. any other grantee of the Agency be reduced to the extent appropriate, as determined by the Chief Executive Officer; and
 
-(5) that RFE/RL, Incorporated, justify in detail each proposed expenditure of grant funds, and that such funds may not be used for any other purpose unless the Board gives its prior written approval.
+(5) that RFE/RL, Incorporated, justify in detail each proposed expenditure of grant funds, and that such funds may not be used for any other purpose unless the Agency gives its prior written approval.
 
 **(h) Prohibited uses of grant funds** No grant funds provided under this section may be used for the following purposes:
 
@@ -446,9 +570,9 @@ Pub. L. 107–228, div. A, title V, § 504, Sept. 30, 2002, 116 Stat. 1393, as a
 
 (4) For first class travel for any employee of RFE/RL, Incorporated, or the relative of any employee.
 
-(5) To compensate freelance contractors without the approval of the Board.
+(5) To compensate freelance contractors without the approval of the Agency.
 
-**(i) Report on management practices** Effective not later than March 31 and September 30 of each calendar year, the Inspector General of the Department of State and the Foreign Service shall submit to the Board and the Congress a report on management practices of RFE/RL, Incorporated, under this section. The Inspector General of the Department of State and the Foreign Service shall establish a special unit within the Inspector General’s office to monitor and audit the activities of RFE/RL, Incorporated, and shall provide for on-site monitoring of such activities.
+**(i) Report on management practices** Effective not later than March 31 and September 30 of each calendar year, the Inspector General of the Department of State and the Foreign Service shall submit to the Agency and the Congress a report on management practices of RFE/RL, Incorporated, under this section. The Inspector General of the Department of State and the Foreign Service shall establish a special unit within the Inspector General’s office to monitor and audit the activities of RFE/RL, Incorporated, and shall provide for on-site monitoring of such activities.
 
 **(j) Audit authority**
 
@@ -469,7 +593,22 @@ The Board for International Broadcasting Act, referred to in subsecs. (f) and (j
 
 The Inspector General Act of 1978, referred to in subsec. (j)(3), is Pub. L. 95–452, Oct. 12, 1978, 92 Stat. 1101, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
+#### Codification
+Pub. L. 116–283, div. A, title XII, § 1299Q(e)(3), Jan. 1, 2021, 134 Stat. 4025, which amended this section, was itself amended by Pub. L. 116–260, div. O, title XIII, § 1301, Dec. 27, 2020, 134 Stat. 2158, to make it effective 90 days after Jan. 1, 2021. However, the amendment by Pub. L. 116–260 could not be executed because it was enacted before the provision from Pub. L. 116–283 that it amended.
+
 #### Amendments
+2021—Subsec. (a). Pub. L. 116–283, § 1299Q(e)(3)(A), substituted “Agency” for “Board” in introductory provisions.
+
+Subsec. (b). Pub. L. 116–283, § 1299Q(e)(3)(B), substituted “Agency” for “Board” wherever appearing.
+
+Subsec. (d). Pub. L. 116–283, § 1299Q(e)(3)(C), substituted “Agency” for “Board”.
+
+Subsec. (g). Pub. L. 116–283, § 1299Q(e)(3)(D), substituted “Agency” for “Board” wherever appearing.
+
+Subsec. (h)(5). Pub. L. 116–283, § 1299Q(e)(3)(E), substituted “Agency” for “Board”.
+
+Subsec. (i). Pub. L. 116–283, § 1299Q(e)(3)(F), substituted “Agency” for “Board”.
+
 2016—Subsec. (a)(1). Pub. L. 114–328, § 1288(5)(A), which directed substitution of “authorized under [section 6204(a)(20) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section6204/a/20&num=0&edition=prelim)” for “of the Broadcasting Board of Governors established under [section 6203 of this title](./chapter-071-united-states-international-broadcasting.md#section-6203) and no other members”, was executed by making the substitution for “of the Broadcasting Board of Governors established under [section 6203 of this title](./chapter-071-united-states-international-broadcasting.md#section-6203) and of no other members”, to reflect the probable intent of Congress.
 
 Subsec. (d). Pub. L. 114–328, § 1288(5)(B), amended subsec. (d) generally. Prior to amendment, text read as follows: “If the Board determines at any time that RFE/RL, Incorporated, is not carrying out the functions described in [section 6208 of this title](./chapter-071-united-states-international-broadcasting.md#section-6208) in an effective and economical manner, the Board may award the grant to carry out such functions to another entity after soliciting and considering applications from eligible entities in such manner and accompanied by such information as the Board may reasonably require.”
@@ -515,7 +654,7 @@ Pub. L. 99–93, title III, § 305(b), Aug. 16, 1985, 99 Stat. 436, provided tha
 
 **(c) Grant agreement** Any grant agreement or grants under this section shall be subject to the following limitations and restrictions:
 
-(1) The Board may not make any grant to Radio Free Asia unless the headquarters of Radio Free Asia and its senior administrative and managerial staff are in a location which ensures economy, operational effectiveness, and accountability to the Board.
+(1) The Agency may not make any grant to Radio Free Asia unless the headquarters of Radio Free Asia and its senior administrative and managerial staff are in a location which ensures economy, operational effectiveness, and accountability to the Agency.
 
 (2) Any grant agreement under this section shall require that any contract entered into by Radio Free Asia shall specify that all obligations are assumed by Radio Free Asia and not by the United States Government.
 
@@ -527,7 +666,7 @@ Pub. L. 99–93, title III, § 305(b), Aug. 16, 1985, 99 Stat. 436, provided tha
 
 **(d) Limitations on administrative and managerial costs** It is the sense of the Congress that administrative and managerial costs for operation of Radio Free Asia should be kept to a minimum and, to the maximum extent feasible, should not exceed the costs that would have been incurred if Radio Free Asia had been operated as a Federal entity rather than as a grantee.
 
-**(e) Assessment of effectiveness of Radio Free Asia** Not later than 3 years after the date on which initial funding is provided for the purpose of operating Radio Free Asia, the Board shall submit to the appropriate congressional committees a report on—
+**(e) Assessment of effectiveness of Radio Free Asia** Not later than 3 years after the date on which initial funding is provided for the purpose of operating Radio Free Asia, the Agency shall submit to the appropriate congressional committees a report on—
 
 (1) whether Radio Free Asia is technically sound and cost-effective,
 
@@ -541,15 +680,15 @@ Pub. L. 99–93, title III, § 305(b), Aug. 16, 1985, 99 Stat. 436, provided tha
 
 **(f) Notification and consultation regarding displacement of Voice of America broadcasting**
 
-(1) **Notification** — The Board shall notify the appropriate congressional committees before—
+(1) **Notification** — The Agency shall notify the appropriate congressional committees before—
 
   (A) entering into any agreements for the utilization of Voice of America transmitters, equipment, or other resources that will significantly reduce the broadcasting activities of the Voice of America in Asia or any other region in order to accommodate the broadcasting activities of Radio Free Asia; or
 
   (B) entering into any agreements in regard to the utilization of Radio Free Asia transmitters, equipment, or other resources that will significantly reduce the broadcasting activities of Radio Free Asia.
 
-(2) **Consultation** — The Chief Executive Officer of the Board shall consult with such committees on the impact of any such reduction in Voice of America broadcasting activities or Radio Free Asia broadcasting activities.
+(2) **Consultation** — The Chief Executive Officer of the Agency shall consult with such committees on the impact of any such reduction in Voice of America broadcasting activities or Radio Free Asia broadcasting activities.
 
-**(g) Alternative grantee** If the Chief Executive Officer determines at any time that Radio Free Asia is not carrying out the functions described in this section in an effective and economical manner, the Board may award the grant to carry out such functions to another entity.
+**(g) Alternative grantee** If the Chief Executive Officer determines at any time that Radio Free Asia is not carrying out the functions described in this section in an effective and economical manner, the Agency may award the grant to carry out such functions to another entity.
 
 **(h) Not a Federal agency or instrumentality** Nothing in this chapter may be construed to make Radio Free Asia a Federal agency or instrumentality.
 
@@ -558,7 +697,18 @@ Pub. L. 99–93, title III, § 305(b), Aug. 16, 1985, 99 Stat. 436, provided tha
 #### References in Text
 This chapter, referred to in subsecs. (e)(2) and (h), was in the original “this title”, meaning title III of Pub. L. 103–236, Apr. 30, 1994, 108 Stat. 432, known as the United States International Broadcasting Act of 1994, which is classified principally to this chapter. For complete classification of title III to the Code, see Short Title note set out under [section 6201 of this title](./chapter-071-united-states-international-broadcasting.md#section-6201) and Tables.
 
+#### Codification
+Pub. L. 116–283, div. A, title XII, § 1299Q(e)(4), Jan. 1, 2021, 134 Stat. 4025, which amended this section, was itself amended by Pub. L. 116–260, div. O, title XIII, § 1301, Dec. 27, 2020, 134 Stat. 2158, to make it effective 90 days after Jan. 1, 2021. However, the amendment by Pub. L. 116–260 could not be executed because it was enacted before the provision from Pub. L. 116–283 that it amended.
+
 #### Amendments
+2021—Subsec. (c)(1). Pub. L. 116–283, § 1299Q(e)(4)(A), substituted “Agency” for “Board” in two places.
+
+Subsec. (e). Pub. L. 116–283, § 1299Q(e)(4)(B), substituted “Agency” for “Board” in introductory provisions.
+
+Subsec. (f). Pub. L. 116–283, § 1299Q(e)(4)(C), substituted “Agency” for “Board” in introductory provisions of par. (1) and in par. (2).
+
+Subsec. (g). Pub. L. 116–283, § 1299Q(e)(4)(D), substituted “Agency” for “Board”.
+
 2016—Subsec. (a)(1). Pub. L. 114–323, § 703(a)(1), substituted “Asia.” for “the following countries: The People’s Republic of China, Burma, Cambodia, Laos, North Korea, Tibet, and Vietnam.”
 
 Subsec. (b)(1). Pub. L. 114–323, § 703(a)(2), struck out “the respective countries of” before “Asia”.
@@ -599,11 +749,122 @@ Subsecs. (g) to (i). Pub. L. 106–113, § 1000(a)(7) [div. A, title V, § 501(2
 Pub. L. 111–202, § 1, July 13, 2010, 124 Stat. 1373, provided that: “Congress finds the following: “(1) Radio Free Asia (referred to in this Act [amending this section] as ‘RFA’)—“(A) was authorized under section 309 of the United States International Broadcasting Act of 1994 ([22 U.S.C. 6208](./chapter-071-united-states-international-broadcasting.md#section-6208)); “(B) was incorporated as a private, non-profit corporation in March 1996 in the hope that its operations would soon be obviated by the global advancement of democracy; and “(C) is headquartered in Washington, DC, with additional offices in Bangkok, Hong Kong, Phnom Penh, Seoul, Ankara, and Taipei. “(2) RFA broadcasts serve as substitutes for indigenous free media in regions lacking free media outlets. “(3) The mission of RFA is ‘to provide accurate and timely news and information to Asian countries whose governments prohibit access to a free press’ in order to enable informed decisionmaking by the people within Asia. “(4) RFA provides daily broadcasts of news, commentary, analysis, and cultural programming to Asian countries in several languages, including—“(A) 12 hours per day in Mandarin; “(B) 8 hours per day in 3 Tibetan dialects, Uke, Kham, and Amdo; “(C) 4 hours per day in Korean and Burmese; “(D) 2 hours per day in Cantonese, Vietnamese, Laotian, Khmer (Cambodian), and Uyghur; and “(E) 1½ hours per week in Wu (local Shanghai dialect). “(5) The governments of the countries targeted for these broadcasts have consistently denied and blocked attempts at Medium Wave and FM transmissions into their countries, forcing RFA to rely on Shortwave broadcasts and the Internet. “(6) RFA has provided continuous online news to its Asian audiences since 2004, although some countries—“(A) routinely and aggressively block RFA’s website; “(B) monitor access to RFA’s website; and “(C) discourage online users by making it illegal to access RFA’s website. “(7) Despite these attempts, RFA has successfully managed to reach its online audiences through proxies, cutting-edge software, and active republication and repostings by its audience. “(8) RFA also provides forums for local opinions and experiences through message boards, podcasts, web logs (blogs), cell phone-distributed newscasts, and new media, including Facebook, Flickr, Twitter, and YouTube. “(9) Freedom House has documented that freedom of the press is in decline in nearly every region of the world, particularly in Asia, where none of the countries served by RFA have increased their freedom of the press during the past 5 years. “(10) In fiscal year 2010, RFA is operating on a $37,000,000 budget, less than $400,000 of which is available to fund Internet censorship circumvention. “(11) Congress currently provides grant funding for RFA’s operations on a fiscal year basis.”
 
 
+<a id="section-6208a"></a>
+## § 6208a. Open Technology Fund
+**(a) Authority**
+
+(1) **In general** — Grants authorized under [section 6204 of this title](./chapter-071-united-states-international-broadcasting.md#section-6204) shall be available to make annual grants for the purpose of promoting, consistent with United States law, unrestricted access to uncensored sources of information via the internet to enable journalists, including journalists employed by or affiliated with the Voice of America, Radio Free Europe/Radio Liberty, Radio Free Asia, the Middle East Broadcasting Networks, the Office of Cuba Broadcasting, or any entity funded by or partnering with the United States Agency for Global Media, to create and disseminate, and for their audiences to receive, news and information consistent with the purposes, standards, and principles specified in sections 6201 and 6202 of this title.
+
+(2) **Establishment** — There is established a grantee entity to be known as the “Open Technology Fund”, which shall carry out the provisions of this section.
+
+**(b) Functions of the grantee** In furtherance of the mission set forth in subsection (a), the Open Technology Fund shall seek to advance freedom of the press and unrestricted access to the internet in repressive environments oversees, and shall—
+
+(1) research, develop, implement, and maintain—
+
+  (A) technologies that circumvent techniques used by authoritarian governments, nonstate actors, and others to block or censor access to the internet, including circumvention tools that bypass internet blocking, filtering, and other censorship techniques used to limit or block legitimate access to content and information; and
+
+  (B) secure communication tools and other forms of privacy and security technology that facilitate the creation and distribution of news and enable audiences to access media content on censored websites;
+
+(2) advance internet freedom by supporting private and public sector research, development, implementation, and maintenance of technologies that provide secure and uncensored access to the internet to counter attempts by authoritarian governments, nonstate actors, and others to improperly restrict freedom online;
+
+(3) research and analyze emerging technical threats and develop innovative solutions through collaboration with the private and public sectors to maintain the technological advantage of the United States Government over authoritarian governments, nonstate actors, and others;
+
+(4) develop, acquire, and distribute requisite internet freedom technologies and techniques for the United States Agency for Global Media, including as set forth in paragraph (1), and digital security interventions, to fully enable the creation and distribution of digital content between and to all users and regional audiences;
+
+(5) prioritize programs for countries the governments of which restrict freedom of expression on the internet, and that are important to the national interest of the United States, and are consistent with section 7050(b)(2)(C) of the Further Consolidated Appropriations Act, 2020 (Public Law 116–94); and
+
+(6) carry out any other effort consistent with the purposes of this chapter or press freedom overseas if requested or approved by the United States Agency for Global Media.
+
+**(c) Methodology** In carrying out subsection (b), the Open Technology Fund shall—
+
+(1) support fully open-source tools, code, and components, to the extent practicable, to ensure such supported tools and technologies are as secure, transparent, and accessible as possible, and require that any such tools, components, code, or technology supported by the Open Technology Fund remain fully open-source, to the extent practicable;
+
+(2) support technologies that undergo comprehensive security audits to ensure that such technologies are secure and have not been compromised in a manner detrimental to the interest of the United States or to individuals and organizations benefitting from programs supported by the Open Technology Fund;
+
+(3) review and update periodically as necessary security auditing procedures used by the Open Technology Fund to reflect current industry security standards;
+
+(4) establish safeguards to mitigate the use of such supported technologies for illicit purposes;
+
+(5) solicit project proposals through an open, transparent, and competitive application process to attract innovative applications and reduce barriers to entry;
+
+(6) seek input from technical, regional, and subject matter experts from a wide range of relevant disciplines, to review, provide feedback, and evaluate proposals to ensure the most competitive projects are funded;
+
+(7) implement an independent review process, through which proposals are reviewed by such experts to ensure the highest degree of technical review and due diligence;
+
+(8) maximize cooperation with the public and private sectors, as well as foreign allies and partner countries, to maximize efficiencies and eliminate duplication of efforts; and
+
+(9) utilize any other methodology approved by the United States Agency for Global Media in furtherance of the mission of the Open Technology Fund.
+
+**(d) Grant agreement** Any grant agreement with or grants made to the Open Technology Fund under this section shall be subject to the following limitations and restrictions:
+
+(1) The headquarters of the Open Technology Fund and its senior administrative and managerial staff shall be located in a location which ensures economy, operational effectiveness, and accountability to the United States Agency for Global Media.
+
+(2) Grants awarded under this section shall be made pursuant to a grant agreement which requires that grant funds be used only for activities consistent with this section, and that failure to comply with such requirements shall permit the grant to be terminated without fiscal obligation to the United States.
+
+(3) Any grant agreement under this section shall require that any contract entered into by the Open Technology Fund shall specify that all obligations are assumed by the grantee and not by the United States Government.
+
+(4) Any grant agreement under this section shall require that any lease agreements entered into by the Open Technology Fund shall be, to the maximum extent possible, assignable to the United States Government.
+
+(5) Administrative and managerial costs for operation of the Open Technology Fund should be kept to a minimum and, to the maximum extent feasible, should not exceed the costs that would have been incurred if the Open Technology Fund had been operated as a Federal entity rather than as a grantee.
+
+(6) Grant funds may not be used for any activity the purpose of which is influencing the passage or defeat of legislation considered by Congress.
+
+**(e) Relationship to the United States Agency for Global Media**
+
+(1) **In general** — The Open Technology Fund shall be subject to the same oversight and governance by the United States Agency for Global Media as other grantees of the Agency as set forth in [section 6204 of this title](./chapter-071-united-states-international-broadcasting.md#section-6204).
+
+(2) **Assistance** — The United States Agency for Global Media, its broadcast entities, and the Open Technology Fund should render assistance to each other as may be necessary to carry out the purposes of this section or any other provision of this chapter.
+
+(3) **Not a Federal agency or instrumentality** — Nothing in this section may be construed to make the Open Technology Fund a Federal agency or instrumentality.
+
+(4) **Detailees** — Under the Intergovernmental Personnel Act [[42 U.S.C. 4701](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4701&num=0&edition=prelim) et seq.], employees of a grantee of the United States Agency for Global Media may be detailed to the Agency, and Federal employees may be detailed to a grantee of the United States Agency for Global Media.
+
+**(f) Relationship to other United States Government-funded Internet freedom programs** The United States Agency for Global Media shall ensure that internet freedom research and development projects of the Open Technology Fund are coordinated with internet freedom programs of the Department of State and other relevant United States Government departments, in order to share information and best-practices relating to the implementation of subsections (b) and (c).
+
+**(g) Reporting requirements**
+
+(1) **Annual report** — The Open Technology Fund shall highlight, in its annual report, internet freedom activities, including a comprehensive assessment of the Open Technology Fund’s activities relating to the implementation of subsections (b) and (c). Each such report shall include the following:
+
+  (A) An assessment of the current state of global internet freedom, including trends in censorship and surveillance technologies and internet shutdowns, and the threats such pose to journalists, citizens, and human rights and civil-society organizations.
+
+  (B) A description of the technology projects supported by the Open Technology Fund and the associated impact of such projects in the prior year, including the countries and regions in which such technologies were deployed, and any associated metrics indicating audience usage of such technologies, as well as future-year technology project initiatives.
+
+(2) **Assessment of the effectiveness of the Open Technology Fund** — Not later than two years after January 1, 2021, the Inspector General of the Department of State and the Foreign Service shall submit to the appropriate congressional committees a report on the following:
+
+  (A) Whether the Open Technology Fund is technically sound and cost effective.
+
+  (B) Whether the Open Technology Fund is satisfying the requirements of this section.
+
+  (C) The extent to which the interests of the United States are being served by maintaining the work of the Open Technology Fund.
+
+**(h) Audit authorities**
+
+(1) **In general** — Financial transactions of the Open Technology Fund, as such relate to functions carried out under this section, may be audited by the Government Accountability Office in accordance with such principles and procedures and under such rules and regulations as may be prescribed by the Comptroller General of the United States. Any such audit shall be conducted at the place or places at which accounts of the Open Technology Fund are normally kept.
+
+(2) **Access by GAO** — The Government Accountability Office shall have access to all books, accounts, records, reports, files, papers, and property belonging to or in use by the Open Technology Fund pertaining to financial transactions as may be necessary to facilitate an audit. The Government Accountability Office shall be afforded full facilities for verifying transactions with any assets held by depositories, fiscal agents, and custodians. All such books, accounts, records, reports, files, papers, and property of the Open Technology Fund shall remain in the possession and custody of the Open Technology Fund.
+
+(3) **Exercise of authorities** — Notwithstanding any other provision of law, the Inspector General of the Department of State and the Foreign Service is authorized to exercise the authorities of the Inspector General Act of 1978 [5 U.S.C. App.] with respect to the Open Technology Fund.
+
+### Statutory Notes
+
+#### References in Text
+Section 7050(b)(2)(C) of the Further Consolidated Appropriations Act, 2020, referred to in subsec. (b)(5), is section 7050(b)(2)(C) of Pub. L. 116–94, div. G, title VII, Dec. 20, 2019, 133 Stat. 2915, which is not classified to the Code.
+
+This chapter, referred to in subsecs. (b)(6) and (e)(2), was in the original “this Act”, and was translated, to reflect the probable intent of Congress, as reading “this title”, meaning title III of Pub. L. 103–236, Apr. 30, 1994, 108 Stat. 432, known as the United States International Broadcasting Act of 1994, which is classified principally to this chapter. For complete classification of title III to the Code, see Short Title note set out under [section 6201 of this title](./chapter-071-united-states-international-broadcasting.md#section-6201) and Tables.
+
+The Intergovernmental Personnel Act, referred to in subsec. (e)(4), probably means the Intergovernmental Personnel Act of 1970, Pub. L. 91–648, Jan. 5, 1971, 84 Stat. 1909, which is classified principally to chapter 62 (§ 4701 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 4701 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4701&num=0&edition=prelim) and Tables.
+
+The Inspector General Act of 1978, referred to in subsec. (h)(3), is Pub. L. 95–452, Oct. 12, 1978, 92 Stat. 1101, which is set out in the Appendix to Title 5, Government Organization and Employees.
+
+#### Effective Date
+Section effective and applicable beginning on July 1, 2021, see section 1299P(e) of Pub. L. 116–283, set out as an Effective Date of 2021 Amendment note under [section 6203 of this title](./chapter-071-united-states-international-broadcasting.md#section-6203).
+
+
 <a id="section-6209"></a>
 ## § 6209. Broadcast entities reporting to Chief Executive Officer
 **(a) Consolidation of grantee organizations**
 
-(1) **In general** — The Chief Executive Officer, subject to the regular notification procedures of the Committee on Appropriations and the Committee on Foreign Affairs of the House of Representatives and the Committee on Appropriations and the Committee on Foreign Relations of the Senate, who is authorized to incorporate a grantee, may condition annual grants to RFE/RL, Inc., Radio Free Asia, and the Middle East Broadcasting Networks on the consolidation of such grantees into a single, consolidated private, non-profit corporation (in accordance with [section 501(c)(3) of title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section501/c/3&num=0&edition=prelim) and exempt from tax under section 501(a) of such title), in such a manner and under such terms and conditions as determined by the Chief Executive Officer, which may broadcast and provide news and information to audiences wherever the agency may broadcast, for activities that the Chief Executive Officer determines are consistent with the purposes of this chapter, including the terms and conditions of subsections (g)(5), (h), (i), and (j) of [section 6207 of this title](./chapter-071-united-states-international-broadcasting.md#section-6207), except that the Agency may select any name for such a consolidated grantee.
+(1) **In general** — The Chief Executive Officer, subject to the regular notification procedures of the Committee on Appropriations and the Committee on Foreign Affairs of the House of Representatives and the Committee on Appropriations and the Committee on Foreign Relations of the Senate, who is authorized to incorporate a grantee, may condition annual grants to RFE/RL, Inc., Radio Free Asia, the Open Technology Fund, and the Middle East Broadcasting Networks on the consolidation of such grantees into a single, consolidated private, non-profit corporation (in accordance with [section 501(c)(3) of title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section501/c/3&num=0&edition=prelim) and exempt from tax under section 501(a) of such title), in such a manner and under such terms and conditions as determined by the Chief Executive Officer, which may broadcast and provide news and information to audiences wherever the agency may broadcast, for activities that the Chief Executive Officer determines are consistent with the purposes of this chapter, including the terms and conditions of subsections (g)(5), (h), (i), and (j) of [section 6207 of this title](./chapter-071-united-states-international-broadcasting.md#section-6207), except that the Agency may select any name for such a consolidated grantee.
 
 (2) **Special rule** — No State or political subdivision of a State may establish, enforce, or continue in effect any provision of law or legal requirement that is different from, or is in conflict with, any requirement or authority applicable under this chapter relating to the consolidation, incorporation, structure, or dissolution of any grantee under this chapter.
 
@@ -617,24 +878,47 @@ Pub. L. 111–202, § 1, July 13, 2010, 124 Stat. 1373, provided that: “Congre
 
 (4) promote unrestricted access to uncensored sources of information, especially via the internet, and use all effective and efficient mediums of communication to reach target audiences.
 
-**(c) Federal status** Nothing in this chapter or any other Act, or any action taken pursuant to this chapter or any other Act, may be construed to make such a consolidated grantee described in subsection (a) or RFE/RL, Inc., Radio Free Asia, or the Middle East Broadcasting Networks or any other grantee or entity provided funding by the agency a Federal agency or instrumentality. Employees or staff of such grantees or entities may not be Federal employees. For purposes of this section and this chapter, the term “grant” includes agreements under [section 6305 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section6305&num=0&edition=prelim), and the term “grantee” includes recipients of such agreements.
+**(c) Federal status** Nothing in this chapter or any other Act, or any action taken pursuant to this chapter or any other Act, may be construed to make such a consolidated grantee described in subsection (a) or RFE/RL, Inc., Radio Free Asia, the Open Technology Fund, or the Middle East Broadcasting Networks or any other grantee or entity provided funding by the agency a Federal agency or instrumentality. Employees or staff of such grantees or entities may not be Federal employees. For purposes of this section and this chapter, the term “grant” includes agreements under [section 6305 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section6305&num=0&edition=prelim), and the term “grantee” includes recipients of such agreements.
 
-**(d) Leadership of grantee organizations** Officers and directors of RFE/RL Inc., Radio Free Asia, and the Middle East Broadcasting Networks or any organization that is established through the consolidation of such entities, or authorized under this chapter, shall serve at the pleasure of and may be named by the Chief Executive Officer of the Board.
+**(d) Leadership of grantee organizations** Officers and directors of RFE/RL Inc., Radio Free Asia, the Open Technology Fund, and the Middle East Broadcasting Networks or any organization that is established through the consolidation of such entities, or authorized under this chapter, shall serve at the pleasure of and may be named by the Chief Executive Officer of the Agency.
 
-**(e) Maintenance of the existing individual grantee brands** RFE/RL, Incorporated, Radio Free Asia, and the Middle East Broadcasting Networks, Incorporated should remain brand names under which news and related programming and content may be disseminated by the consolidated grantee. Additional brands may be created as necessary.
+**(e) Maintenance of the existing individual grantee brands** RFE/RL, Incorporated, Radio Free Asia, the Open Technology Fund, and the Middle East Broadcasting Networks, Incorporated should remain brand names under which news and related programming and content may be disseminated by the consolidated grantee. Additional brands may be created as necessary.
+
+**(f) Maintenance of proprietary information** No consolidation of grantees authorized under subsection (a) involving any grantee shall result in any legal transfer of ownership of any proprietary information or intellectual property to the United State Agency for Global Media or any other Federal entity.
+
+**(g) Rule of construction** No consolidation of grantees authorized under subsection (a) shall result in the consolidation of the Open Technology Fund or any successor entity with any other grantee.
 
 ### Statutory Notes
 
 #### References in Text
 This chapter, referred to in subsecs. (a), (c), and (d), was in the original a reference to this Act, and was translated as referring to this title, meaning title III of Pub. L. 103–236, Apr. 30, 1994, 108 Stat. 432, known as the United States International Broadcasting Act of 1994, which is classified principally to this chapter, to reflect the probable intent of Congress. For complete classification of title III to the Code, see Short Title note set out under [section 6201 of this title](./chapter-071-united-states-international-broadcasting.md#section-6201) and Tables.
 
+#### Codification
+Pub. L. 116–283, div. A, title XII, § 1299Q(e)(5), (f), Jan. 1, 2021, 134 Stat. 4025, 4026, which amended this section, was itself amended by Pub. L. 116–260, div. O, title XIII, § 1301, Dec. 27, 2020, 134 Stat. 2158, to make it effective 90 days after Jan. 1, 2021. However, the amendment by Pub. L. 116–260 could not be executed because it was enacted before the provision from Pub. L. 116–283 that it amended.
+
 #### Prior Provisions
 A prior section 6209, Pub. L. 103–236, title III, § 310, Apr. 30, 1994, 108 Stat. 442, related to transition of transfer of functions from Board for International Broadcasting to United States Information Agency, Board, or Bureau, prior to repeal by Pub. L. 105–277, div. G, subdiv. A, title XIII, §§ 1301, 1323(l)(2), Oct. 21, 1998, 112 Stat. 2681–776, 2681–780, effective Oct. 1, 1999.
+
+#### Amendments
+2021—Subsec. (a)(1). Pub. L. 116–283, § 1299P(c)(3), inserted “the Open Technology Fund,” before “and the Middle East Broadcasting Networks”.
+
+Subsec. (c). Pub. L. 116–283, § 1299P(c)(2), inserted “the Open Technology Fund,” before “or the Middle East Broadcasting Networks”.
+
+Subsec. (d). Pub. L. 116–283, § 1299Q(e)(5), substituted “Agency” for “Board”.
+
+Pub. L. 116–283, § 1299P(c)(3), inserted “the Open Technology Fund,” before “and the Middle East Broadcasting Networks”.
+
+Subsec. (e). Pub. L. 116–283, § 1299P(c)(3), inserted “the Open Technology Fund,” before “and the Middle East Broadcasting Networks”.
+
+Subsecs. (f), (g). Pub. L. 116–283, § 1299Q(f), added subsecs. (f) and (g).
+
+#### Effective Date of 2021 Amendment
+Amendment by section 1299P(c)(2), (3) of Pub. L. 116–283 effective and applicable beginning on July 1, 2021, see section 1299P(e) of Pub. L. 116–283, set out as a note under [section 6203 of this title](./chapter-071-united-states-international-broadcasting.md#section-6203).
 
 
 <a id="section-6209a"></a>
 ## § 6209a. Inspector General authorities
-**(a) In general** The Inspector General of the Department of State and the Foreign Service shall exercise the same authorities with respect to the Broadcasting Board of Governors as the Inspector General exercises under the Inspector General Act of 1978 [5 U.S.C. App.] and [section 3929 of this title](./chapter-052-foreign-service.md#section-3929) with respect to the Department of State.
+**(a) In general** The Inspector General of the Department of State and the Foreign Service shall exercise the same authorities with respect to the United States Agency for Global Media as the Inspector General exercises under the Inspector General Act of 1978 [5 U.S.C. App.] and [section 3929 of this title](./chapter-052-foreign-service.md#section-3929) with respect to the Department of State.
 
 **(b) Respect for journalistic integrity of broadcasters** The Inspector General of the Department of State and the Foreign Service shall respect the journalistic integrity of all the broadcasters covered by this chapter and may not evaluate the philosophical or political perspectives reflected in the content of broadcasts.
 
@@ -645,11 +929,25 @@ The Inspector General Act of 1978, referred to in subsec. (a), is Pub. L. 95–4
 
 This chapter, referred to in subsec. (b), was in the original “this Act”, and was translated as reading “this title”, meaning title III of Pub. L. 103–236, Apr. 30, 1994, 108 Stat. 432, known as the United States International Broadcasting Act of 1994, which is classified principally to this chapter, to reflect the probable intent of Congress. For complete classification of title III to the Code, see Short Title note set out under [section 6201 of this title](./chapter-071-united-states-international-broadcasting.md#section-6201) and Tables.
 
+#### Codification
+Pub. L. 116–283, div. A, title XII, § 1299Q(e)(6), Jan. 1, 2021, 134 Stat. 4025, which amended this section, was itself amended by Pub. L. 116–260, div. O, title XIII, § 1301, Dec. 27, 2020, 134 Stat. 2158, to make it effective 90 days after Jan. 1, 2021. However, the amendment by Pub. L. 116–260 could not be executed because it was enacted before the provision from Pub. L. 116–283 that it amended.
+
+#### Amendments
+2021—Subsec. (a). Pub. L. 116–283 substituted “United States Agency for Global Media” for “Broadcasting Board of Governors”.
+
 
 <a id="section-6209b"></a>
 ## § 6209b. Role of the Secretary of State in foreign policy guidance
 
-To assist the Board in carrying out its functions, the Chief Executive Officer shall regularly consult with and seek from the Secretary of State guidance on foreign policy issues.
+To assist the Agency in carrying out its functions, the Chief Executive Officer shall regularly consult with and seek from the Secretary of State guidance on foreign policy issues.
+
+### Statutory Notes
+
+#### Codification
+Pub. L. 116–283, div. A, title XII, § 1299Q(e)(7), Jan. 1, 2021, 134 Stat. 4025, which amended this section, was itself amended by Pub. L. 116–260, div. O, title XIII, § 1301, Dec. 27, 2020, 134 Stat. 2158, to make it effective 90 days after Jan. 1, 2021. However, the amendment by Pub. L. 116–260 could not be executed because it was enacted before the provision from Pub. L. 116–283 that it amended.
+
+#### Amendments
+2021—Pub. L. 116–283 substituted “Agency” for “Board”.
 
 
 <a id="section-6210"></a>
@@ -664,27 +962,19 @@ United States Information Agency (other than Broadcasting Board of Governors and
 
 
 <a id="section-6211"></a>
-## § 6211. The continuing mission of Radio Free Europe and Radio Liberty broadcasts
-
-It is the sense of Congress that Radio Free Europe and Radio Liberty should continue to broadcast to the peoples of Central Europe, Eurasia, and the Persian Gulf until such time as—
-
-(1) a particular nation has clearly demonstrated the successful establishment and consolidation of democratic rule; and
-
-(2) its domestic media which provide balanced, accurate, and comprehensive news and information, is firmly established and widely accessible to the national audience, thus making redundant broadcasts by Radio Free Europe or Radio Liberty.
-At such time as a particular nation meets both of these conditions, RFE/RL should phase out broadcasting to that nation.
+## § 6211. Repealed. Pub. L. 116–283, div. A, title XII, § 1299Q(e)(8), Jan. 1, 2021, 134 Stat. 4025
 
 ### Statutory Notes
 
-#### Amendments
-1999—Pub. L. 106–113 amended section catchline and text generally, substituting present provisions for provisions which set forth sense of Congress that funding of Radio Free Europe and Radio Liberty be privatized not later than Dec. 31, 1999, directed President to submit analysis and recommendation for achieving this objective with his annual budget submission, and directed Board for International Broadcasting to submit to appropriate congressional committees not later than 120 days after Apr. 30, 1994, report on steps being taken to transfer RFE/RL Research Institute, and periodic progress reports until such transfer would be achieved.
+Section, Pub. L. 103–236, title III, § 312, Apr. 30, 1994, 108 Stat. 444; Pub. L. 106–113, § 1000(a)(7) [div. A, title V, § 503], Nov. 29, 1999, 113 Stat. 1536, 1501A–451, provided the sense of Congress regarding the continuing mission of Radio Free Europe and Radio Liberty broadcasts to Central Europe, Eurasia, and the Persian Gulf.
 
-#### Programming to Ukraine and Neighboring Regions: Findings and Declarations
-Pub. L. 113–96, § 1, Apr. 3, 2014, 128 Stat. 1098, provided that: “(a) Congress finds and declares the following:“(1) The Russian Government has deliberately blocked the Ukrainian people’s access to uncensored sources of information and has provided alternative news and information that is both inaccurate and inflammatory; “(2) United States international programming exists to advance the United States interests and values by presenting accurate and comprehensive news and information, which is the foundation for democratic governance; “(3) The opinions and views of the Ukrainian people, especially those people located in the eastern regions and Crimea, are not being accurately represented in Russian dominated mass media; “(4) Russian forces have seized more than five television stations in Crimea and taken over transmissions, switching to a 24/7 Russian propaganda format; this increase in programming augments the already robust pro-Russian programming to Ukraine; “(5) United States international programming has the potential to combat this anti-democratic propaganda. “(b) Programming.—Radio Free Europe/Radio Liberty (RFE/RL), Incorporated, and the Voice of America service to Ukraine and neighboring regions shall—“(1) provide news and information that is accessible, credible, and accurate; “(2) emphasize investigative and analytical journalism to highlight inconsistencies and misinformation provided by Russian or pro-Russian media outlets; “(3) prioritize programming to areas where access to uncensored sources of information is limited or non-existent, especially populations serviced by Russian supported media outlets; “(4) increase the number of reporters and organizational presence in eastern Ukraine, especially in Crimea; “(5) promote democratic processes, respect for human rights, freedom of the press, and territorial sovereignty; and “(6) take necessary preparatory steps to continue and increase programming and content that promotes democracy and government transparency in Russia. “(c) Programming Surge.—RFE/RL, Incorporated, and Voice of America programming to Ukraine and neighboring regions shall—“(1) prioritize programming to eastern Ukraine, including Crimea, and Moldova, and to ethnic and linguistic Russian populations, as well as to Tatar minorities; “(2) prioritize news and information that directly contributes to the target audiences’ understanding of political and economic developments in Ukraine and Moldova, including countering misinformation that may originate from other news outlets, especially Russian supported news outlets; “(3) provide programming content 24 hours a day, seven days a week to target populations, using all available and effective distribution outlets, including—“(A) at least 8 weekly hours of total original television and video content in Ukrainian, Russian, and Tatar languages, not inclusive of live video streaming coverage of breaking news, to be distributed on satellite, digital, and through regional television affiliates by the Voice of America; and “(B) at least 14 weekly hours the total audio content in Ukrainian, Russian, and Tatar languages to be distributed on satellite, digital, and through regional radio affiliates of RFE/RL, Incorporated; “(4) expand the use, audience, and audience engagement of mobile news and multimedia platforms by RFE/RL, Incorporated, and the Voice of America, including through Internet-based social networking platforms; and “(5) partner with private sector broadcasters and affiliates to seek and start co-production for new, original content, when possible, to increase distribution. “(d) Authorization of Appropriations.—There is authorized to be appropriated for fiscal year 2014, in addition to funds otherwise made available for such purposes, up to $10,000,000 to carry out programming in the Ukrainian, Balkan, Russian, and Tatar language services of RFE/RL, Incorporated, and the Voice of America, for the purpose of bolstering existing United States programming to the people of Ukraine and neighboring regions, and increasing programming capacity and jamming circumvention technology to overcome any disruptions to service. “(e) Report.—Not later than 15 days after the date of the enactment of this Act [Apr. 3, 2014], the Broadcasting Board of Governors shall submit to the Committees on Foreign Affairs and Appropriations of the House of Representatives and the Committees on Foreign Relations and Appropriations of the Senate a detailed report on plans to increase broadcasts pursuant to subsections (a) and (b).”
+#### Codification
+Pub. L. 116–283, div. A, title XII, § 1299Q(e)(8), Jan. 1, 2021, 134 Stat. 4025, which repealed this section, was amended by Pub. L. 116–260, div. O, title XIII, § 1301, Dec. 27, 2020, 134 Stat. 2158, to make it effective 90 days after Jan. 1, 2021. However, the amendment by Pub. L. 116–260 could not be executed because it was enacted before the provision from Pub. L. 116–283 that it amended.
 
 
 <a id="section-6212"></a>
 ## § 6212. Requirement for authorization of appropriations
-**(a) Limitation on obligation and expenditure of funds** Notwithstanding any other provision of law, for the fiscal year 1994 and for each subsequent fiscal year, any funds appropriated for the purposes of broadcasting subject to supervision of the Board shall not be available for obligation or expenditure—
+**(a) Limitation on obligation and expenditure of funds** Notwithstanding any other provision of law, for the fiscal year 1994 and for each subsequent fiscal year, any funds appropriated for the purposes of broadcasting subject to supervision of the Agency shall not be available for obligation or expenditure—
 
 (1) unless such funds are appropriated pursuant to an authorization of appropriations; or
 
@@ -703,11 +993,16 @@ Pub. L. 113–96, § 1, Apr. 3, 2014, 128 Stat. 1098, provided that: “(a) Cong
 #### References in Text
 This chapter, referred to in subsec. (c)(2), was in the original “this title”, meaning title III of Pub. L. 103–236, Apr. 30, 1994, 108 Stat. 432, known as the United States International Broadcasting Act of 1994, which is classified principally to this chapter. For complete classification of title III to the Code, see Short Title note set out under [section 6201 of this title](./chapter-071-united-states-international-broadcasting.md#section-6201) and Tables.
 
+#### Codification
+Pub. L. 116–283, div. A, title XII, § 1299Q(e)(9), Jan. 1, 2021, 134 Stat. 4025, which amended this section, was itself amended by Pub. L. 116–260, div. O, title XIII, § 1301, Dec. 27, 2020, 134 Stat. 2158, to make it effective 90 days after Jan. 1, 2021. However, the amendment by Pub. L. 116–260 could not be executed because it was enacted before the provision from Pub. L. 116–283 that it amended.
+
 #### Amendments
+2021—Subsec. (a). Pub. L. 116–283 substituted “Agency” for “Board” in introductory provisions.
+
 2002—Subsec. (a). Pub. L. 107–228 struck out “the direction and” after “broadcasting subject to” in introductory provisions.
 
 #### Continued Availability of Funds Following Repeal of Board for International Broadcasting Act of 1973
-Pub. L. 103–317, title V, Aug. 26, 1994, 108 Stat. 1771, provided in part: “That on the date upon which the Board for International Broadcasting Act of 1973 ([22 U.S.C. 2871](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2871&num=0&edition=prelim), et seq.) is repealed, as provided for by section 310(e) of the Foreign Relations Authorization Act, fiscal years 1994 and 1995 (Public Law 103–236; 108 Stat. 442) [[22 U.S.C. 6209(e)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section6209/e&num=0&edition=prelim)], funds made available for expenses of the Board for International Broadcasting shall be made available until expended only for expenses necessary to enable the Broadcasting Board of Governors to carry out the authorities provided in section 305(a) of Public Law 103–236 [[22 U.S.C. 6204(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section6204/a&num=0&edition=prelim)], including the appointment of staff personnel as authorized by section 305(a)(11) of Public Law 103–236: Provided further, That such amounts appropriated to the Board for International Broadcasting in fiscal year 1994 as are certified by the Office of Management and Budget to the Congress as gains due to the fluctuation of foreign currency, may be used in fiscal year 1995 and thereafter either to offset foreign currency losses or to offset unfunded RFE/RL costs associated with the implementation of Public Law 103–236 [see Tables for classification]: Provided further, That obligated but unexpended balances appropriated in fiscal year 1990 to fund planned transmitter modernization expenses may be expended in fiscal year 1995 for unfunded RFE/RL costs associated with the implementation of Public Law 103–236”.
+Pub. L. 103–317, title V, Aug. 26, 1994, 108 Stat. 1771, provided in part: “That on the date upon which the Board for International Broadcasting Act of 1973 ([22 U.S.C. 2871](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2871&num=0&edition=prelim), et seq.) is repealed, as provided for by section 310(e) of the Foreign Relations Authorization Act, fiscal years 1994 and 1995 (Public Law 103–236; 108 Stat. 442) [[22 U.S.C. 6209(e)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section6209/e&num=0&edition=prelim)], funds made available for expenses of the Board for International Broadcasting shall be made available until expended only for expenses necessary to enable the Broadcasting Board of Governors [now United States Agency for Global Media] to carry out the authorities provided in section 305(a) of Public Law 103–236 [[22 U.S.C. 6204(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section6204/a&num=0&edition=prelim)], including the appointment of staff personnel as authorized by section 305(a)(11) of Public Law 103–236: Provided further, That such amounts appropriated to the Board for International Broadcasting in fiscal year 1994 as are certified by the Office of Management and Budget to the Congress as gains due to the fluctuation of foreign currency, may be used in fiscal year 1995 and thereafter either to offset foreign currency losses or to offset unfunded RFE/RL costs associated with the implementation of Public Law 103–236 [see Tables for classification]: Provided further, That obligated but unexpended balances appropriated in fiscal year 1990 to fund planned transmitter modernization expenses may be expended in fiscal year 1995 for unfunded RFE/RL costs associated with the implementation of Public Law 103–236”.
 
 
 <a id="section-6213"></a>
@@ -717,18 +1012,33 @@ For the purposes of this chapter—
 
 (1) the term “appropriate congressional committees” means the Committee on Foreign Relations and the Committee on Appropriations of the Senate and the Committee on Foreign Affairs and the Committee on Appropriations of the House of Representatives;
 
-(4) 11 So in original. Probably should be designated as par. (2). the terms “Board” and “Chief Executive Officer of the Board” mean the Broadcasting Board of Governors and the position, respectively, authorized in accordance with this chapter; (3) the term “RFE/RL, Incorporated” includes—(A) the corporation having the corporate title described in section 6206(b)(3) 22 See References in Text note below. of this title; and (B) any alternative grantee described in section 6206(e) 33 So in original. Probably should be section “6207(d)”. of this title; and (4) the term “salary or other compensation” includes any deferred compensation or pension payments, any payments for expenses for which the recipient is not obligated to itemize, and any payments for personnel services provided to an employee of RFE/RL, Incorporated.
+(2) the terms “Agency” and “Chief Executive Officer of the Agency” mean the United States Agency for Global Media and the Chief Executive Officer of the United States Agency for Global Media, respectively, and the position, respectively, authorized in accordance with this chapter;
+
+(3) the term “RFE/RL, Incorporated” means the corporation having the corporate title described in [section 6207 of this title](./chapter-071-united-states-international-broadcasting.md#section-6207) 11 So in original. Probably should be followed by “; and”.
+
+(4) the term “salary or other compensation” includes any deferred compensation or pension payments, any payments for expenses for which the recipient is not obligated to itemize, and any payments for personnel services provided to an employee of RFE/RL, Incorporated.
 
 ### Statutory Notes
 
 #### References in Text
 This chapter, referred to in introductory provisions, was in the original “this title”, meaning title III of Pub. L. 103–236, Apr. 30, 1994, 108 Stat. 432, known as the United States International Broadcasting Act of 1994, which is classified principally to this chapter. For complete classification of title III to the Code, see Short Title note set out under [section 6201 of this title](./chapter-071-united-states-international-broadcasting.md#section-6201) and Tables.
 
-This chapter, referred to in the first par. (4), was in the original “this Act”, and was translated as reading “this title”, meaning title III of Pub. L. 103–236, to reflect the probable intent of Congress. See above.
+This chapter, referred to in par. (2), was in the original “this Act”, and was translated as reading “this title”, meaning title III of Pub. L. 103–236, to reflect the probable intent of Congress. See above.
 
-[Section 6206 of this title](./chapter-071-united-states-international-broadcasting.md#section-6206), referred to in par. (3), which related to the International Broadcasting Bureau and did not contain a subsec. (b)(3), was repealed by Pub. L. 114–328, div. A, title XII, § 1288(4), Dec. 23, 2016, 130 Stat. 2552.
+#### Codification
+Pub. L. 116–283, div. A, title XII, § 1299Q(e)(10), Jan. 1, 2021, 134 Stat. 4025, which amended this section, was itself amended by Pub. L. 116–260, div. O, title XIII, § 1301, Dec. 27, 2020, 134 Stat. 2158, to make it effective 90 days after Jan. 1, 2021. However, the amendment by Pub. L. 116–260 could not be executed because it was enacted before the provision from Pub. L. 116–283 that it amended.
 
 #### Amendments
+2021—Par. (2). Pub. L. 116–283, § 1299Q(e)(10)(A), which directed redesignation of first par. (4), relating to the terms “Board” and “Chief Executive Officer of the Board”, as (2) and substitutition of “the terms ‘Agency’ and ‘Chief Executive Officer of the Agency’ mean the United States Agency for Global Media and the Chief Executive Officer of the United States Agency for Global Media, respectively,” for “the terms ‘Board and Chief Executive Officer of the Board’ means the Broadcasting Board of Governors”, was executed by making the redesignation and by making the substitution for “the terms ‘Board’ and ‘Chief Executive Officer of the Board’ mean the Broadcasting Board of Governors”, to reflect the probable intent of Congress.
+
+Par. (3). Pub. L. 116–283, § 1299Q(e)(10)(B), substituted “means the corporation having the corporate title described in [section 6207 of this title](./chapter-071-united-states-international-broadcasting.md#section-6207)” for “includes—” and struck out subpars. (A) and (B) which read as follows:
+
+“(A) the corporation having the corporate title described in [section 6206(b)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section6206/b/3&num=0&edition=prelim); and
+
+“(B) any alternative grantee described in [section 6206(e) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section6206/e&num=0&edition=prelim); and”.
+
+Par. (4). Pub. L. 116–283, § 1299Q(e)(10)(A), redesignated first par. (4), relating to the terms “Board” and “Chief Executive Officer of the Board”, as (2).
+
 2016—Pars. (2) to (4). Pub. L. 114–328 redesignated par. (2) as (3) and par. (3) as (4) defining “salary or other compensation” and added par. (4) defining “Board” and “Chief Executive Officer of the Board” after par. (1).
 
 
@@ -769,12 +1079,15 @@ The Foreign Affairs Reform and Restructuring Act of 1998, referred to in subsec.
 #### Codification
 Section was enacted as part of the Radio Free Afghanistan Act, and not as part of the United States International Broadcasting Act of 1994 which comprises this chapter.
 
+#### Change of Name
+Broadcasting Board of Governors renamed United States Agency for Global Media pursuant to [section 6204(a)(22) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section6204/a/22&num=0&edition=prelim). The renaming was effectuated by notice to congressional appropriations committees dated May 24, 2018, and became effective Aug. 22, 2018.
+
 
 <a id="section-6216"></a>
 ## § 6216. Special authority for surge capacity
 **(a) Emergency authority**
 
-(1) **In general** — Whenever the President determines it to be important to the national interests of the United States and so certifies to the appropriate congressional committees, the President, on such terms and conditions as the President may determine, is authorized to direct any department, agency, or other entity of the United States to furnish the Broadcasting Board of Governors with such assistance outside the United States as may be necessary to provide international broadcasting activities of the United States with a surge capacity to support United States foreign policy objectives during a crisis abroad.
+(1) **In general** — Whenever the President determines it to be important to the national interests of the United States and so certifies to the appropriate congressional committees, the President, on such terms and conditions as the President may determine, is authorized to direct any department, agency, or other entity of the United States to furnish the United States Agency for Global Media with such assistance outside the United States as may be necessary to provide international broadcasting activities of the United States with a surge capacity to support United States foreign policy objectives during a crisis abroad.
 
 (2) **Supersedes existing law** — The authority of paragraph (1) shall supersede any other provision of law.
 
@@ -790,9 +1103,15 @@ Section was enacted as part of the Radio Free Afghanistan Act, and not as part o
 
 (3) **Designation of appropriations** — Amounts appropriated pursuant to the authorization of appropriations in this subsection may be referred to as the “United States International Broadcasting Surge Capacity Fund”.
 
-**(c) Report** The annual report submitted to the President and Congress by the Broadcasting Board of Governors under [section 6204(a)(9) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section6204/a/9&num=0&edition=prelim) shall provide a detailed description of any activities carried out under this section.
+**(c) Report** The annual report submitted to the President and Congress by the United States Agency for Global Media under [section 6204(a)(9) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section6204/a/9&num=0&edition=prelim) shall provide a detailed description of any activities carried out under this section.
 
 ### Statutory Notes
 
+#### Codification
+Pub. L. 116–283, div. A, title XII, § 1299Q(e)(11), Jan. 1, 2021, 134 Stat. 4026, which amended this section, was itself amended by Pub. L. 116–260, div. O, title XIII, § 1301, Dec. 27, 2020, 134 Stat. 2158, to make it effective 90 days after Jan. 1, 2021. However, the amendment by Pub. L. 116–260 could not be executed because it was enacted before the provision from Pub. L. 116–283 that it amended.
+
+#### Amendments
+2021—Subsecs. (a)(1), (c). Pub. L. 116–283 substituted “United States Agency for Global Media” for “Broadcasting Board of Governors”.
+
 #### Finding; Sense of Congress
-Pub. L. 110–53, title XX, § 2031(a), (b), Aug. 3, 2007, 121 Stat. 515, provided that: “(a) Finding.—Congress finds that the report of the National Commission on Terrorist Attacks Upon the United States stated that ‘Recognizing that Arab and Muslim audiences rely on satellite television and radio, the government has begun some promising initiatives in television and radio broadcasting to the Arab world, Iran, and Afghanistan. These efforts are beginning to reach large audiences. The Broadcasting Board of Governors has asked for much larger resources. It should get them.’. “(b) Sense of Congress.—It is the sense of Congress that—“(1) the United States needs to improve its communication of information and ideas to people in foreign countries, particularly in countries with significant Muslim populations; and “(2) public diplomacy should reaffirm the paramount commitment of the United States to democratic principles, including preserving the civil liberties of all the people of the United States, including Muslim-Americans.”
+Pub. L. 110–53, title XX, § 2031(a), (b), Aug. 3, 2007, 121 Stat. 515, provided that: “(a) Finding.—Congress finds that the report of the National Commission on Terrorist Attacks Upon the United States stated that ‘Recognizing that Arab and Muslim audiences rely on satellite television and radio, the government has begun some promising initiatives in television and radio broadcasting to the Arab world, Iran, and Afghanistan. These efforts are beginning to reach large audiences. The Broadcasting Board of Governors [now United States Agency for Global Media] has asked for much larger resources. It should get them.’. “(b) Sense of Congress.—It is the sense of Congress that—“(1) the United States needs to improve its communication of information and ideas to people in foreign countries, particularly in countries with significant Muslim populations; and “(2) public diplomacy should reaffirm the paramount commitment of the United States to democratic principles, including preserving the civil liberties of all the people of the United States, including Muslim-Americans.”

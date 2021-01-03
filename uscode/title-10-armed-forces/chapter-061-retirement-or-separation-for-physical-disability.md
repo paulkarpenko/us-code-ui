@@ -651,7 +651,7 @@ Pub. L. 114–328, div. A, title V, § 525(b), Dec. 23, 2016, 130 Stat. 2117, pr
 
 <a id="section-1211"></a>
 ## § 1211. Members on temporary disability retired list: return to active duty; promotion
-**(a)** With his consent, any member of the Army or the Air Force whose name is on the temporary disability retired list, and who is found to be physically fit to perform the duties of his office, grade, or rank under [section 1210(f) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1210/f&num=0&edition=prelim), shall—
+**(a)** With his consent, any member of the Army, the Air Force, or the Space Force whose name is on the temporary disability retired list, and who is found to be physically fit to perform the duties of his office, grade, or rank under [section 1210(f) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1210/f&num=0&edition=prelim), shall—
 
 (1) if a commissioned officer of a regular component, be recalled to active duty and, as soon as practicable, may be reappointed by the President, by and with the advice and consent of the Senate, to the active-duty list in the regular grade held by him when his name was placed on the temporary disability retired list, or in the next higher regular grade;
 
@@ -663,7 +663,7 @@ Pub. L. 114–328, div. A, title V, § 525(b), Dec. 23, 2016, 130 Stat. 2117, pr
 
 (5) if a commissioned, warrant, or enlisted member of the Army National Guard of the United States or the Air National Guard of the United States when the disability was incurred, and if he cannot be reappointed or reenlisted as a Reserve for service therein, be appointed or enlisted as a Reserve for service in the Army Reserve or the Air Force Reserve, as the case may be, in a grade corresponding to the reserve grade held by him when his name was placed on the temporary disability retired list, or in the next higher reserve commissioned, warrant, or enlisted grade, as the case may be; and
 
-(6) if a member of the Army, or the Air Force, who has no regular or reserve grade, be reappointed or reenlisted in the Army, or the Air Force, as the case may be, in the temporary grade held by him when his name was placed on the temporary disability retired list, or appointed or enlisted in the next higher temporary grade.
+(6) if a member of the Army, the Air Force, or the Space Force who has no regular or reserve grade, be reappointed or reenlisted in the Army, the Air Force, or the Space Force, as the case may be, in the temporary grade held by him when his name was placed on the temporary disability retired list, or appointed or enlisted in the next higher temporary grade.
 
 **(b)** With his consent, any member of the naval service or of the Coast Guard whose name is on the temporary disability retired list, and who is found to be physically fit to perform the duties of his office, grade, rank, or rating under [section 1210(f) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1210/f&num=0&edition=prelim), shall—
 
@@ -742,6 +742,10 @@ In subsection (e), the words “rank” and “rating” are omitted as surplusa
 The changes correct typographical errors.
 
 #### Amendments
+2021—Subsec. (a). Pub. L. 116–283, § 924(b)(24)(A), substituted “, the Air Force, or the Space Force” for “or the Air Force” in introductory provisions.
+
+Subsec. (a)(6). Pub. L. 116–283, § 924(b)(24)(B), substituted “the Air Force, or the Space Force who” for “or the Air Force, who” and “the Air Force, or the Space Force, as” for “or the Air Force, as”.
+
 2001—Subsec. (e). Pub. L. 107–107 inserted “an approved all-fully-qualified-officers list,” after “a promotion list,”.
 
 1985—Subsec. (c). Pub. L. 99–145 inserted “and if the member is not discharged, retired, or transferred to the Fleet Reserve or Fleet Marine Corps Reserve or inactive Reserve under [section 1210 of this title](./chapter-061-retirement-or-separation-for-physical-disability.md#section-1210),” after “proposed under subsection (a) or (b),” and inserted “and the member shall be discharged” after “as soon as practicable”.

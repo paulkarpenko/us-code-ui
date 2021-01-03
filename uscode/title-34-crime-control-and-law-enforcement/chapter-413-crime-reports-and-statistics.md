@@ -2,7 +2,7 @@
 title: 34
 chapter: '413'
 heading: CRIME REPORTS AND STATISTICS
-section_count: 11
+section_count: 12
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34&num=0&edition=prelim
 ---
@@ -362,3 +362,15 @@ Section was formerly classified as a note under [section 1832 of Title 18](https
 
 #### Codification
 Section was formerly classified as a note under [section 534 of Title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section534&num=0&edition=prelim), Judiciary and Judicial Procedure, prior to editorial reclassification and renumbering as this section.
+
+
+<a id="section-41312"></a>
+## § 41312. Report on female genital mutilation
+
+Not later than one year after January 5, 2021, and annually thereafter, the Attorney General, in consultation with the Secretary of Homeland Security, the Secretary of State, the Secretary of Health and Human Services, and the Secretary of Education, shall submit to Congress a report that includes—
+
+(1) an estimate of the number of women and girls in the United States at risk of or who have been subjected to female genital mutilation;
+
+(2) the protections available and actions taken, if any, by Federal, State, and local agencies to protect such women and girls; and
+
+(3) the actions taken by Federal agencies to educate and assist communities and key stakeholders about female genital mutilation.

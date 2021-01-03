@@ -625,7 +625,7 @@ For transfer of functions, personnel, assets, and liabilities of the United Stat
 
   (B) For the arrival of each passenger aboard a commercial vessel from a place referred to in subsection (b)(1)(A)(i) of this section, $1.75.
 
-(6) For each item of dutiable mail for which a document is prepared by a customs officer, $5.
+(6) For each item of dutiable mail for which a document is prepared by a customs officer (other than an item subject to a fee under subsection (b)(9)(D)), $5.
 
 (7) For each customs broker permit held by an individual, partnership, association, or corporate customs broker, $125 per year.
 
@@ -667,7 +667,7 @@ For transfer of functions, personnel, assets, and liabilities of the United Stat
 
   (B) an express consignment carrier facility, or
 
-  (C) a small airport or other facility to which [section 58b of this title](./chapter-001-collection-districts-ports-and-officers.md#section-58b) applies, if more than 25,000 informal entries were cleared through such airport or facility during the fiscal year preceding such entry or release,
+  (C) a small airport or other facility to which [section 58b of this title](./chapter-001-collection-districts-ports-and-officers.md#section-58b) applies, if more than 25,000 informal entries were cleared through such airport or facility during the fiscal year preceding such entry or release (other than Inbound EMS items described in subsection (b)(9)(D)),
   a fee of—
 
   (i) $2 if the entry or release is automated and not prepared by customs personnel;
@@ -675,7 +675,7 @@ For transfer of functions, personnel, assets, and liabilities of the United Stat
   (ii) $6 if the entry or release is manual and not prepared by customs personnel; or
 
   (iii) $9 if the entry or release, whether automated or manual, is prepared by customs personnel.
-  For provisions relating to the informal entry or release of merchandise at facilities referred to in subparagraphs (A), (B), and (C), see subsection (b)(9).
+  For provisions relating to the informal entry or release of merchandise at facilities referred to in subparagraphs (A), (B), and (C), or of Inbound EMS items described in subsection (b)(9)(D), see subsection (b)(9).
 
 **(b) Limitations on fees**
 
@@ -823,16 +823,35 @@ For transfer of functions, personnel, assets, and liabilities of the United Stat
 
     (ii) The term “small airport or other facility” means any airport or facility to which [section 58b of this title](./chapter-001-collection-districts-ports-and-officers.md#section-58b) applies, if more than 25,000 informal entries were cleared through such airport or facility during the preceding fiscal year.
 
+  (D)
+
+    (i) With respect to the processing of items that are sent to the United States through the international postal network by “Inbound Express Mail service” or “Inbound EMS” (as that service is described in the mail classification schedule referred to in [section 3631 of title 39](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title39-section3631&num=0&edition=prelim)), the following payments are required:
+
+      (I) $1 per Inbound EMS item.
+
+      (II) If an Inbound EMS item is formally entered, the fee provided for under subsection (a)(9), if applicable.
+
+    (ii) Notwithstanding [section 1451 of this title](./chapter-004-tariff-act-of-1930.md#section-1451), the payments required by clause (i), as allocated pursuant to clause (iii)(I), shall be the only payments required for reimbursement of U.S. Customs and Border Protection for customs services provided in connection with the processing of an Inbound EMS item.
+
+    (iii)
+
+      (I) The payments required by clause (i)(I) shall be allocated as follows:
+
+        (aa) 50 percent of the amount of the payments shall be paid on a quarterly basis by the United States Postal Service to the Commissioner of U.S. Customs and Border Protection in accordance with regulations prescribed by the Secretary of the Treasury to reimburse U.S. Customs and Border Protection for customs services provided in connection with the processing of Inbound EMS items.
+
+        (bb) 50 percent of the amount of the payments shall be retained by the Postal Service to reimburse the Postal Service for services provided in connection with the customs processing of Inbound EMS items.
+
+      (II) Payments received by U.S. Customs and Border Protection under subclause (I)(aa) shall, in accordance with [section 1524 of this title](./chapter-004-tariff-act-of-1930.md#section-1524), be deposited in the Customs User Fee Account and used to directly reimburse each appropriation for the amount paid out of that appropriation for the costs incurred in providing services to international mail facilities. Amounts deposited in accordance with the preceding sentence shall be available until expended for the provision of such services.
+
+      (III) Payments retained by the Postal Service under subclause (I)(bb) shall be used to directly reimburse the Postal Service for the costs incurred in providing services in connection with the customs processing of Inbound EMS items.
+
+    (iv) Beginning in fiscal year 2021, the Secretary, in consultation with the Postmaster General, may adjust, not more frequently than once each fiscal year, the amount described in clause (i)(I) to an amount commensurate with the costs of services provided in connection with the customs processing of Inbound EMS items, consistent with the obligations of the United States under international agreements.
+
 (10)
 
   (A) The fee charged under subsection (a)(9) or (10) with respect to goods of Canadian origin (as determined under section 202 of the United States-Canada Free-Trade Agreement Implementation Act of 1988) when the United States-Canada Free-Trade Agreement is in force shall be in accordance with article 403 of that Agreement.
 
-  (B) For goods qualifying under the rules of origin set out in [section 3332 of this title](./chapter-021-north-american-free-trade.md#section-3332), the fee under subsection (a)(9) or (10)—
-
-    (i) may not be charged with respect to goods that qualify to be marked as goods of Canada pursuant to Annex 311 of the North American Free Trade Agreement, for such time as Canada is a NAFTA country, as defined in [section 3301(4) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section3301/4&num=0&edition=prelim); and
-
-    (ii) may not be increased after December 31, 1993, and may not be charged after June 29, 1999, with respect to goods that qualify to be marked as goods of Mexico pursuant to such Annex 311, for such time as Mexico is a NAFTA country.
-    Any service for which an exemption from such fee is provided by reason of this paragraph may not be funded with money contained in the Customs User Fee Account.
+  (B) No fee may be charged under paragraph (9) or (10) of subsection (a) with respect to goods that qualify as originating goods under [section 4531 of this title](./chapter-029-united-states-mexico-canada-agreement-implementation.md#section-4531) or qualify for duty-free treatment under Annex 6–A of the USMCA (as defined in [section 4502 of this title](./chapter-029-united-states-mexico-canada-agreement-implementation.md#section-4502)). Any service for which an exemption from such fee is provided by reason of this paragraph may not be funded with money contained in the Customs User Fee Account.Any service for which an exemption from such fee is provided by reason of this paragraph may not be funded with money contained in the Customs User Fee Account.
 
 (11) No fee may be charged under subsection (a)(9) or (10) with respect to products of Israel if an exemption with respect to the fee is implemented under section 112 of the Customs and Trade Act of 1990.
 
@@ -1058,11 +1077,11 @@ For transfer of functions, personnel, assets, and liabilities of the United Stat
 
 (3)
 
-  (A) Fees may not be charged under paragraphs (9) and (10) of subsection (a) after September 30, 2029.
+  (A) Fees may not be charged under paragraphs (9) and (10) of subsection (a) after October 21, 2029.
 
   (B)
 
-    (i) Subject to clause (ii), Fees 33 So in original. Probably should not be capitalized. may not be charged under paragraphs (1) through (8) of subsection (a) after September 30, 2029.
+    (i) Subject to clause (ii), Fees 33 So in original. Probably should not be capitalized. may not be charged under paragraphs (1) through (8) of subsection (a) after October 21, 2029.
 
     (ii) In fiscal year 2006 and in each succeeding fiscal year for which fees under paragraphs (1) through (8) of subsection (a) are authorized—
 
@@ -1091,42 +1110,6 @@ For transfer of functions, personnel, assets, and liabilities of the United Stat
 ### Statutory Notes
 
 #### Amendment of Section
-Pub. L. 115–271, title VIII, § 8002, Oct. 24, 2018, 132 Stat. 4073, provided that, effective on Jan. 1, 2020, this section is amended as follows:
-
-(1) in subsection (a)—
-
-(A) in paragraph (6), by inserting “(other than an item subject to a fee under subsection (b)(9)(D))” after “customs officer”; and
-
-(B) in paragraph (10)—
-
-(i) in subparagraph (C), by inserting “(other than Inbound EMS items described in subsection (b)(9)(D))” after “release”; and
-
-(ii) in the flush text at the end, by inserting “or of Inbound EMS items described in subsection (b)(9)(D),” after “(C),”; and
-
-(2) in subsection (b)(9), by adding at the end the following new subparagraph:
-
-(D)(i) With respect to the processing of items that are sent to the United States through the international postal network by “Inbound Express Mail service” or “Inbound EMS” (as that service is described in the mail classification schedule referred to in [section 3631 of title 39](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title39-section3631&num=0&edition=prelim)), the following payments are required:
-
-(I) $1 per Inbound EMS item.
-
-(II) If an Inbound EMS item is formally entered, the fee provided for under subsection (a)(9), if applicable.
-
-(ii) Notwithstanding [section 1451 of this title](./chapter-004-tariff-act-of-1930.md#section-1451), the payments required by clause (i), as allocated pursuant to clause (iii)(I), shall be the only payments required for reimbursement of U.S. Customs and Border Protection for customs services provided in connection with the processing of an Inbound EMS item.
-
-(iii)(I) The payments required by clause (i)(I) shall be allocated as follows:
-
-(aa) 50 percent of the amount of the payments shall be paid on a quarterly basis by the United States Postal Service to the Commissioner of U.S. Customs and Border Protection in accordance with regulations prescribed by the Secretary of the Treasury to reimburse U.S. Customs and Border Protection for customs services provided in connection with the processing of Inbound EMS items.
-
-(bb) 50 percent of the amount of the payments shall be retained by the Postal Service to reimburse the Postal Service for services provided in connection with the customs processing of Inbound EMS items.
-
-(II) Payments received by U.S. Customs and Border Protection under subclause (I)(aa) shall, in accordance with [section 1524 of this title](./chapter-004-tariff-act-of-1930.md#section-1524), be deposited in the Customs User Fee Account and used to directly reimburse each appropriation for the amount paid out of that appropriation for the costs incurred in providing services to international mail facilities. Amounts deposited in accordance with the preceding sentence shall be available until expended for the provision of such services.
-
-(III) Payments retained by the Postal Service under subclause (I)(bb) shall be used to directly reimburse the Postal Service for the costs incurred in providing services in connection with the customs processing of Inbound EMS items.
-
-(iv) Beginning in fiscal year 2021, the Secretary, in consultation with the Postmaster General, may adjust, not more frequently than once each fiscal year, the amount described in clause (i)(I) to an amount commensurate with the costs of services provided in connection with the customs processing of Inbound EMS items, consistent with the obligations of the United States under international agreements.
-
-See 2018 Amendment notes below.
-
 For termination of amendment by section 107(c) of Pub. L. 112–43, see Effective and Termination Dates of 2011 Amendment note below.
 
 For termination of amendment by section 107(c) of Pub. L. 112–42, see Effective and Termination Dates of 2011 Amendment note below.
@@ -1192,6 +1175,16 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 Section is comprised of section 13031 of Pub. L. 99–272. Subsec. (h) of section 13031 of Pub. L. 99–272 amended [section 545(i) of Title 45](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title45-section545/i&num=0&edition=prelim), Railroads, and repealed section 1741(e) of former Title 49, Transportation.
 
 #### Amendments
+2020—Subsec. (b)(10)(B). Pub. L. 116–113 added subpar. (B) and struck out former subpar. (B) which read as follows: “For goods qualifying under the rules of origin set out in [section 3332 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section3332&num=0&edition=prelim), the fee under subsection (a)(9) or (10)—
+
+“(i) may not be charged with respect to goods that qualify to be marked as goods of Canada pursuant to Annex 311 of the North American Free Trade Agreement, for such time as Canada is a NAFTA country, as defined in [section 3301(4) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section3301/4&num=0&edition=prelim); and
+
+“(ii) may not be increased after December 31, 1993, and may not be charged after June 29, 1999, with respect to goods that qualify to be marked as goods of Mexico pursuant to such Annex 311, for such time as Mexico is a NAFTA country.”
+
+Subsec. (j)(3)(A). Pub. L. 116–164, § 3(a)(1), substituted “October 21, 2029” for “September 30, 2029”.
+
+Subsec. (j)(3)(B)(i). Pub. L. 116–164, § 3(a)(2), substituted “October 21, 2029” for “September 30, 2029”.
+
 2019—Subsec. (j)(3)(A). Pub. L. 116–37, § 401(a)(1), substituted “September 30, 2029” for “October 20, 2027”.
 
 Subsec. (j)(3)(B)(i). Pub. L. 116–37, § 401(a)(2), substituted “September 30, 2029” for “September 30, 2027”.
@@ -1723,6 +1716,11 @@ Subsec. (j)(1), (3). Pub. L. 99–509, § 8101(e), substituted “otherwise prov
 #### Change of Name
 “Commissioner of U.S. Customs and Border Protection” substituted for “Commissioner of Customs” in subsec. (k) on authority of section 802(d)(2) of Pub. L. 114–125, set out as a note under [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim), Domestic Security.
 
+#### Effective Date of 2020 Amendment
+Pub. L. 116–113, title II, § 203(b), Jan. 29, 2020, 134 Stat. 44, provided that: “(1) In general.—The amendment made by subsection (a) [amending this section] shall—“(A) take effect on the date on which the USMCA enters into force [July 1, 2020]; and “(B) apply with respect to a good entered or released on or after that date. “(2) Transition from nafta treatment.—In the case of a good entered or released before the date on which the USMCA enters into force—“(A) the amendments made by subsection (a) to section 13031(b)(10)(B) of the Consolidated Omnibus Budget Reconciliation Act of 1985 ([19 U.S.C. 58c(b)(10)(B)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section58c/b/10/B&num=0&edition=prelim)) shall not apply with respect to the good; and “(B) section 13031(b)(10)(B) of such Act, as in effect on the day before that date, shall continue to apply on and after that date with respect to the good. “(3) Entered or released defined.—In this subsection, the term ‘entered or released’ has the meaning given that term in section 13031(b)(8)(E) of the Consolidated Omnibus Budget Reconciliation Act of 1985 ([19 U.S.C. 58c(b)(8)(E)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section58c/b/8/E&num=0&edition=prelim)).”
+
+[For definition of “USMCA” as used in section 203(b) of Pub. L. 116–113, set out above, see [section 4502 of this title](./chapter-029-united-states-mexico-canada-agreement-implementation.md#section-4502).]
+
 #### Effective Date of 2018 Amendment
 Pub. L. 115–271, title VIII, § 8002(c), Oct. 24, 2018, 132 Stat. 4074, provided that: “The amendments made by this section [amending this section] shall take effect on January 1, 2020.”
 
@@ -1795,11 +1793,11 @@ Pub. L. 103–465, title VI, § 611(b), Dec. 8, 1994, 108 Stat. 4992, provided t
 Pub. L. 103–465, title VI, § 612(b), Dec. 8, 1994, 108 Stat. 4992, provided that: “The amendments made by this section [amending this section] apply to articles entered, or withdrawn from warehouse for consumption, on or after January 1, 1995.”
 
 #### Effective Date of 1993 Amendment
-Amendment by section 204 of Pub. L. 103–182 effective on the date the North American Free Trade Agreement enters into force with respect to the United States [Jan. 1, 1994], see section 213(b) of Pub. L. 103–182, set out as an Effective Date note under [section 3331 of this title](./chapter-021-north-american-free-trade.md#section-3331).
+Amendment by section 204 of Pub. L. 103–182 effective on the date the North American Free Trade Agreement enters into force with respect to the United States (Jan. 1, 1994), see section 213(b) of Pub. L. 103–182, formerly set out as an Effective Date note under former [section 3331 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section3331&num=0&edition=prelim).
 
-Pub. L. 103–182, title V, § 521(b), Dec. 8, 1993, 107 Stat. 2161, provided that: “The amendments made by this section [amending this section] shall take effect on the date the Agreement [North American Free Trade Agreement] enters into force with respect to the United States [Jan. 1, 1994].”
+Pub. L. 103–182, title V, § 521(b), Dec. 8, 1993, 107 Stat. 2161, which provided that the amendments made to this section by section 521 of Pub. L. 103–182 took effect on Jan. 1, 1994, was repealed by Pub. L. 116–113, title VI, § 601, Jan. 29, 2020, 134 Stat. 78, effective on the date the USMCA entered into force (July 1, 2020).
 
-Pub. L. 103–182, title VI, § 692, Dec. 8, 1993, 107 Stat. 2225, provided that: “This title [see Tables for classification] takes effect on the date of the enactment of this Act [Dec. 8, 1993].”
+Pub. L. 103–182, title VI, § 692, Dec. 8, 1993, 107 Stat. 2225, which provided that title VI of Pub. L. 103–182 (see Tables for classification) took effect on Dec. 8, 1993, was repealed by Pub. L. 116–113, title VI, § 601, Jan. 29, 2020, 134 Stat. 78, effective on the date the USMCA entered into force (July 1, 2020).
 
 #### Effective Date of 1990 Amendments
 Pub. L. 104–295, § 4(c), Oct. 11, 1996, 110 Stat. 3517, provided that: “The amendment made by section 111(b)(2)(D)(iv) of the Customs and Trade Act of 1990 [Pub. L. 101–382, amending this section] shall apply to— “(1) any entry made from a foreign trade zone on or after the 15th day after the date of the enactment of this Act [Oct. 11, 1996]; and “(2) any entry made from a foreign trade zone after November 30, 1986, and before such 15th day if the liquidation of the entry was not final before such 15th day.”
@@ -1825,7 +1823,7 @@ Pub. L. 99–514, title XVIII, § 1893(g), Oct. 22, 1986, 100 Stat. 2930, as ame
 Pub. L. 115–271, title VIII, § 8009(b), Oct. 24, 2018, 132 Stat. 4081, provided that: “Not later than 1 year after the date of the enactment of this Act [Oct. 24, 2018], such regulations as are necessary to carry out this subtitle [subtitle A (§§ 8001–8009) of title VIII of Pub. L. 115–271, see Short Title of 2018 Amendment note set out under [section 1 of this title](./chapter-001-collection-districts-ports-and-officers.md#section-1)] and the amendments made by this subtitle shall be prescribed.”
 
 #### Construction of 1993 Amendment
-Pub. L. 103–182, title II, § 212, Dec. 8, 1993, 107 Stat. 2099, provided that: “Any amendment in this title [amending this section and sections 81c, 1304, 1311 to 1313, 1508, 1509, 1514, 1520, 1562, 1592, and 1628 of this title] to a law that is also amended under title VI [see Tables for classification] shall be made after the title VI amendment is executed.”
+Pub. L. 103–182, title II, § 212, Dec. 8, 1993, 107 Stat. 2099, which provided that an amendment in title II of Pub. L. 103–182 to a law that was also amended under title VI of Pub. L. 103–182 would be made after the title VI amendment was executed, was repealed by Pub. L. 116–113, title VI, § 601, Jan. 29, 2020, 134 Stat. 78, effective on the date the USMCA entered into force (July 1, 2020).
 
 #### Transfer of Functions
 For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim). For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim), as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim).

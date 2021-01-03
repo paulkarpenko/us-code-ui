@@ -33,7 +33,7 @@ Section applicable with respect to releases from active duty described in this s
 
 <a id="section-8262"></a>
 ## § 8262. Higher retired grade and pay for members who serve satisfactorily under temporary appointments
-**(a)** Unless otherwise entitled to a higher retired grade and subject to sections 689 and 1370 of this title, each member, other than a retired member, of the Navy or the Marine Corps shall, when retired, be advanced on the retired list to the highest officer grade in which he served satisfactorily under a temporary appointment as determined by the Secretary of the Navy.
+**(a)** Unless otherwise entitled to a higher retired grade and subject to section 689, and section 1370 or 1370a (as applicable), of this title, each member, other than a retired member, of the Navy or the Marine Corps shall, when retired, be advanced on the retired list to the highest officer grade in which he served satisfactorily under a temporary appointment as determined by the Secretary of the Navy.
 
 **(b)** Each member (other than a former member of the Fleet Reserve or the Fleet Marine Corps Reserve) who is advanced on the retired list under this section is (unless otherwise entitled to higher retired pay) entitled to retired pay determined in accordance with the following table. References in the table are to sections of this title. Column 1TakeColumn 2Multiply by Retired pay base computed under section 1406(d) or 1407Retired pay multiplier prescribed under section 1409 for the years of service that may be credited to him under section 1405.
 
@@ -72,6 +72,8 @@ Reference to the provisions of law under which temporary appointments in officer
 A prior section 8262, acts Aug. 10, 1956, ch. 1041, 70A Stat. 506; Sept. 2, 1958, Pub. L. 85–861, § 1(166)(A), 72 Stat. 1516, provided for extension of enlistment of members of the Air Force needing medical care or hospitalization, prior to repeal by Pub. L. 90–235, § 2(a)(4)(B), Jan. 2, 1968, 81 Stat. 756.
 
 #### Amendments
+2021—Subsec. (a). Pub. L. 116–283 substituted “section 689, and section 1370 or 1370a (as applicable),” for “sections 689 and 1370”.
+
 2018—Pub. L. 115–232 renumbered [section 6151 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section6151&num=0&edition=prelim) as this section.
 
 1996—Subsec. (a). Pub. L. 104–201 substituted “sections 689” for “sections 688”.

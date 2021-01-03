@@ -50,7 +50,7 @@ source: >-
 
     (i)
 
-      (I) It is further the policy of the United States to encourage the participation of small business in international commerce.
+      (I) It is further the policy of the United States to encourage the participation of small business (including women-owned businesses, minority-owned businesses, veteran-owned businesses, businesses owned by persons with disabilities, and businesses in rural areas) and start-up businesses in international commerce, and to educate such businesses about how to export goods using the Bank.
 
       (II) In exercising its authority, the Bank shall develop a program which gives fair consideration to making loans and providing guarantees for the export of goods and services by small businesses.
 
@@ -64,7 +64,7 @@ source: >-
 
     (iv) The Director appointed to represent the interests of small business under [section 635a(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section635a/c&num=0&edition=prelim) shall ensure that the Bank carries out its responsibilities under clauses (ii) and (iii) of this subparagraph and that the Bank’s financial and other resources are, to the maximum extent possible, appropriately used for small business needs.
 
-    (v) To assure that the purposes of clauses (i) and (ii) of this subparagraph are carried out, the Bank shall make available, from the aggregate loan, guarantee, and insurance authority available to it, an amount to finance exports directly by small business concerns (as defined under [section 632 of title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section632&num=0&edition=prelim)) which shall be not less than 25 percent of such authority for each fiscal year. From the amount made available under the preceding sentence, it shall be a goal of the Bank to increase the amount made available to finance exports directly by small business concerns referred to in [section 635a(i)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section635a/i/1&num=0&edition=prelim).
+    (v) To assure that the purposes of clauses (i) and (ii) of this subparagraph are carried out, the Bank shall make available, from the aggregate loan, guarantee, and insurance authority available to it, an amount to finance exports directly by small business concerns (as defined under [section 632 of title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section632&num=0&edition=prelim)) which shall be not less than 30 percent of such authority for each fiscal year. From the amount made available under the preceding sentence, it shall be a goal of the Bank to increase the amount made available to finance exports directly by small business concerns referred to in [section 635a(i)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section635a/i/1&num=0&edition=prelim). For the purpose of calculating the amounts of authority required under this clause, the Bank shall, with respect to insurance, exclude unutilized authorizations that terminated during the fiscal year.
 
     (vi) The Bank shall utilize the amount set aside pursuant to clause (v) of this subparagraph to offer financing for small business exports on terms which are fully competitive with regard to interest rates and with regard to the portion of financing which may be provided, guaranteed, or insured. Financing under this clause (vi) shall be available without regard to whether financing for the particular transaction was disapproved by any other Federal agency.
 
@@ -106,7 +106,7 @@ source: >-
 
   (J) The Bank shall implement an electronic system designed to track all pending transactions of the Bank.
 
-  (K) The Bank shall promote the export of goods and services related to renewable energy sources.
+  (K) The Bank shall promote the export of goods and services related to renewable energy sources, energy efficiency (including battery electric vehicles, batteries for electric vehicles, and electric vehicle charging infrastructure), and energy storage. It shall be a goal of the Bank to ensure that not less than 5 percent of the applicable amount (as defined in [section 635e(a)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section635e/a/2&num=0&edition=prelim)) is made available each fiscal year for the financing of renewable energy, energy efficiency (including battery electric vehicles, batteries for electric vehicles, and electric vehicle charging infrastructure), and energy storage technology exports.
 
   (L) The Bank shall require an applicant for assistance from the Bank to disclose whether the applicant has been found by a court of the United States to have violated the Foreign Corrupt Practices Act of 1977, the Arms Export Control Act [[22 U.S.C. 2751](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2751&num=0&edition=prelim) et seq.], the International Emergency Economic Powers Act [[50 U.S.C. 1701](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1701&num=0&edition=prelim) et seq.], or the Export Administration Act of 1979 within the preceding 12 months, and shall maintain, in cooperation with the Department of Justice, for not less than 3 years a record of such applicants so found to have violated any such Act.
 
@@ -492,7 +492,7 @@ source: >-
 
   (G) *Regulations* — The Bank shall implement such regulations and procedures as may be appropriate to carry out this paragraph.
 
-**(f) Authority to deny application for assistance based on fraud or corruption by party involved in the transaction** In addition to any other authority of the Bank, the Bank may deny an application for assistance with respect to a transaction if the Bank has substantial credible evidence that any party to the transaction or any party involved in the transaction has committed an act of fraud or corruption in connection with the transaction.
+**(f) Authority to deny application for assistance based on fraud or corruption by party involved in the transaction** In addition to any other authority of the Bank, the Bank may deny an application for assistance with respect to a transaction if the Bank has substantial credible evidence that any party to the transaction or any party involved in the transaction has committed an act of fraud or corruption in connection with the transaction, and shall deny an application for assistance if the end user, borrower, lender, or exporter has been convicted of an act of fraud or corruption in connection with an application for support from the Bank made in the preceding 5 years. The Bank may proceed with an application described in this subsection only if an end user, borrower, lender, or exporter can be fully excluded from the transaction.
 
 **(g) Process for notifying applicants of application status** The Bank shall establish and adhere to a clearly defined process for—
 
@@ -524,7 +524,7 @@ source: >-
 
     (iii) incentives, preferences, targets, and goals relating to small business concerns (as defined in [section 632(a) of title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section632/a&num=0&edition=prelim)), including small business concerns exporting to Africa.
 
-**(i) Due diligence standards for lender partners** The Bank shall set due diligence standards for its lender partners and participants, which should be applied across all programs consistently. To minimize or prevent fraudulent activity, the Bank should require all delegated lenders to implement “Know your customer practices”.
+**(i) Due diligence standards for lender partners** The Bank shall set due diligence standards for its lender partners and participants, which should be applied across all programs consistently. To minimize or prevent fraudulent activity, the Bank shall require all delegated lenders to implement “Know your customer practices”.
 
 **(j) Non-subordination requirement** In entering into financing contracts, the Bank shall seek a creditor status which is not subordinate to that of all other creditors, in order to reduce the risk to, and enhance recoveries for, the Bank.
 
@@ -537,6 +537,72 @@ source: >-
   (B) promulgate or implement policies that discriminate against an application based solely on the industry, sector, or business that the application concerns.
 
 (2) **Applicability** — The prohibitions under paragraph (1) apply only to applications for financing by the Bank for projects concerning the exploration, development, production, or export of energy sources and the generation or transmission of electrical power, or combined heat and power, regardless of the energy source involved.
+
+**(l) Program on China and Transformational Exports**
+
+(1) **In general** — The Bank shall establish a Program on China and Transformational Exports to support the extension of loans, guarantees, and insurance, at rates and on terms and other conditions, to the extent practicable, that are fully competitive with rates, terms, and other conditions established by the People’s Republic of China or by a covered country, that aim to—
+
+  (A) directly neutralize export subsidies for competing goods and services financed by official export credit, tied aid, or blended financing provided by the People’s Republic of China or by a covered country; or
+
+  (B) advance the comparative leadership of the United States with respect to the People’s Republic of China, or support United States innovation, employment, and technological standards, through direct exports in any of the following areas:
+
+    (i) Artificial intelligence.
+
+    (ii) Biotechnology.
+
+    (iii) Biomedical sciences.
+
+    (iv) Wireless communications equipment (including 5G or subsequent wireless technologies).
+
+    (v) Quantum computing.
+
+    (vi) Renewable energy, energy efficiency, and energy storage.
+
+    (vii) Semiconductor and semiconductor machinery manufacturing.
+
+    (viii) Emerging financial technologies, including technologies that facilitate—
+
+      (I) financial inclusion through increased access to capital and financial services;
+
+      (II) data security and privacy;
+
+      (III) payments, the transfer of funds, and associated messaging services; and
+
+      (IV) efforts to combat money laundering and the financing of terrorism.
+
+    (ix) Water treatment and sanitation, including technologies and infrastructure to reduce contaminants and improve water quality.
+
+    (x) High performance computing.
+
+    (xi) Associated services necessary for use of any of the foregoing exports.
+
+(2) **Covered countries** — In this subsection, the term “covered country” means any country that—
+
+  (A) the Secretary of the Treasury designates as a covered country in a report to the Committee on Financial Services of the House of Representatives and the Committee on Banking, Housing, and Urban Development of the Senate;
+
+  (B) is not a participant in the Arrangement on Officially Supported Export Credits of the Organization for Economic Cooperation and Development (in this subsection referred to as the “Arrangement”); and
+
+  (C) is not in substantial compliance with the financial terms and conditions of the Arrangement.
+
+(3) **Financing**
+
+  (A) *In general* — It shall be a goal of the Bank to reserve not less than 20 percent of the applicable amount (as defined in [section 635e(a)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section635e/a/2&num=0&edition=prelim)) for support made pursuant to the Program on China and Transformational Exports.
+
+  (B) *Exception* — The Secretary of the Treasury may reduce or eliminate the 20 percent goal in subparagraph (A), on reporting to the Committee on Financial Services of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate that the People’s Republic of China is in substantial compliance with—
+
+    (i) the financial terms and conditions of the Arrangement; and
+
+    (ii) the rules and principles of the Paris Club.
+
+  (C) *Sunset and report* — The program established under paragraph (1) shall expire on December 31, 2026. Not later than 4 years after December 20, 2019, the President of the Bank shall submit a report to the Committee on Financial Services of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate assessing the following:
+
+    (i) The capacity and demand of United States entities to export goods and services in the areas described in paragraph (1)(B), as assessed in consultation with the Secretary of Commerce.
+
+    (ii) The availability of private-sector financing for exports in the areas.
+
+    (iii) The feasibility and advisability of continuing the goal of subparagraph (A) of this paragraph with respect to paragraph (1)(B) after December 31, 2026.
+
+  (D) *National Advisory Council on International Monetary and Financial Problems* — The National Advisory Council on International Monetary and Financial Problems shall ensure that Bank authorizations pursuant to the Program on China and Transformational Exports are considered or reviewed expeditiously, consistent with the other credit standards required by law.
 
 ### Statutory Notes
 
@@ -568,6 +634,20 @@ December 20, 2006, referred to in subsec. (e)(5), was in the original “the dat
 Section 1(c) of Pub. L. 90–267 added pars. (2) to (5) of subsec. (b) and another section of Pub. L. 90–267 also designated 1(c) substituted “$3,500,000,000” for “$2,000,000,000” in subsec. (c)(1). See, also, 1968 Amendments hereunder.
 
 #### Amendments
+2019—Subsec. (b)(1)(E)(i)(I). Pub. L. 116–94, § 403, added subcl. (I) and struck out former subcl. (I) which read as follows: “It is further the policy of the United States to encourage the participation of small business in international commerce.”
+
+Subsec. (b)(1)(E)(v). Pub. L. 116–94, § 405, inserted at end “For the purpose of calculating the amounts of authority required under this clause, the Bank shall, with respect to insurance, exclude unutilized authorizations that terminated during the fiscal year.”
+
+Pub. L. 116–94, § 404(a), substituted “30” for “25”.
+
+Subsec. (b)(1)(K). Pub. L. 116–94, § 407, inserted before period at end “, energy efficiency (including battery electric vehicles, batteries for electric vehicles, and electric vehicle charging infrastructure), and energy storage. It shall be a goal of the Bank to ensure that not less than 5 percent of the applicable amount (as defined in [section 635e(a)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section635e/a/2&num=0&edition=prelim)) is made available each fiscal year for the financing of renewable energy, energy efficiency (including battery electric vehicles, batteries for electric vehicles, and electric vehicle charging infrastructure), and energy storage technology exports”.
+
+Subsec. (f). Pub. L. 116–94, § 406(1), inserted before period at end “, and shall deny an application for assistance if the end user, borrower, lender, or exporter has been convicted of an act of fraud or corruption in connection with an application for support from the Bank made in the preceding 5 years. The Bank may proceed with an application described in this subsection only if an end user, borrower, lender, or exporter can be fully excluded from the transaction”.
+
+Subsec. (i). Pub. L. 116–94, § 406(2), substituted “shall require” for “should require”.
+
+Subsec. (l). Pub. L. 116–94, § 402(a), added subsec. (l).
+
 2015—Subsec. (a)(2)(A)(iii). Pub. L. 114–94, § 54002(a), added cl. (iii).
 
 Subsec. (b)(1)(E)(v). Pub. L. 114–94, § 52001(a), substituted “25 percent” for “20 percent”.
@@ -954,6 +1034,9 @@ Subsec. (c)(1). Pub. L. 90–267, § 1(a), (c), increased amount of insurance ou
 
 1945—Subsec. (a). Act Dec. 28, 1945, inserted “(or the Philippine Islands)” after “any foreign country”.
 
+#### Effective Date of 2019 Amendment
+Pub. L. 116–94, div. I, title IV, § 404(b), Dec. 20, 2019, 133 Stat. 3023, provided that: “The amendment made by subsection (a) [amending this section] shall take effect on January 1, 2021.”
+
 #### Effective Date of 2015 Amendment
 Pub. L. 114–94, div. E, title LII, § 52001(b), Dec. 4, 2015, 129 Stat. 1767, provided that: “The amendment made by subsection (a) [amending this section] shall apply with respect to fiscal year 2016 and each fiscal year thereafter.”
 
@@ -1042,11 +1125,11 @@ Pub. L. 92–126, § 1(a), Aug. 17, 1971, 85 Stat. 345, provided that: “This A
 #### Short Title
 Act July 31, 1945, ch. 341, § 1, 59 Stat. 526, provided: “That this Act [this subchapter] may be cited as the ‘Export-Import Bank Act of 1945’.”
 
+#### Rule of Construction
+Pub. L. 116–94, div. I, title IV, § 402(c), Dec. 20, 2019, 133 Stat. 3023, provided that: “Nothing in section 2(l)(1)(B) of the Export-Import Bank Act of 1945 [[12 U.S.C. 635](./chapter-6a-export-import-bank-of-the-united-states.md#section-635)(l)(1)(B)] shall be construed to weaken any export controls affecting critical technologies (as defined in section 721(a)(6)(A) of the Defense Production Act of 1950 ([50 U.S.C. 4565(a)(6)(A)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4565/a/6/A&num=0&edition=prelim))).”
+
 #### Authority of Secretary of State
 Except as otherwise provided, Secretary of State to have and exercise any authority vested by law in any official or office of Department of State and references to such officials or offices deemed to refer to Secretary of State or Department of State, as appropriate, see [section 2651a of Title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2651a&num=0&edition=prelim), Foreign Relations and Intercourse, and section 161(d) of Pub. L. 103–236, set out as a note under [section 2651a of Title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2651a&num=0&edition=prelim).
-
-#### Delegation of Functions
-For delegation of functions of the President under subsec. (b)(6) of this section, see section 1(u) of Ex. Ord. No. 13637, Mar. 8, 2013, 78 F.R. 16131, set out as a note under [section 2751 of Title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2751&num=0&edition=prelim), Foreign Relations and Intercourse. Functions were previously delegated by Ex. Ord. No. 11958, which was formerly set out as a note under [section 2751 of Title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2751&num=0&edition=prelim) and was revoked, subject to a savings provision, by section 4 of Ex. Ord. No. 13637.
 
 #### Board of Directors
 A Board of Directors was reestablished for the Export-Import Bank of Washington by section 1 of act Aug. 9, 1954, ch. 660, 68 Stat. 677, amending [section 635a of this title](./chapter-6a-export-import-bank-of-the-united-states.md#section-635a). The Board had previously been abolished and its functions transferred to the Managing Director of the Bank by Reorg. Plan No. 5 of 1953, eff. June 30, 1953, 18 F.R. 3741, 67 Stat. 637, set out as a note under [section 635a of this title](./chapter-6a-export-import-bank-of-the-united-states.md#section-635a). The 1953 Reorg. Plan was superseded by sections 1, 4 of act Aug. 9, 1954. See [section 635a of this title](./chapter-6a-export-import-bank-of-the-united-states.md#section-635a) and 1954 Amendment and Effective Date of 1954 Amendment notes thereunder.
@@ -1060,6 +1143,9 @@ Sanctions contained in subsec. (b)(4) waived in certain regards with respect to 
 Determination of President of the United States, No. 2000–4, Oct. 27, 1999, 64 F.R. 60649.
 
 Determination of President of the United States, No. 2000–18, Mar. 16, 2000, 65 F.R. 16297.
+
+#### Reporting on Financing Related to China
+Pub. L. 116–94, div. I, title IV, § 408, Dec. 20, 2019, 133 Stat. 3024, provided that: “(a) National Interest Report.—Before authorizing a loan or guarantee for a transaction in an amount greater than $25,000,000 for which the end user, lender, or obligor is the government of China, the President of the Export-Import Bank of the United States (in this section referred to as the ‘Bank’) shall—“(1) report to the Committee on Financial Services of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate that the Bank has consulted with the Secretary of State and any other relevant department or agency, as deemed appropriate by the President of the United States, to assess any risks posed by the entity or the transaction to the national interest of the United States; and “(2) include a summary of the transaction and the consultation. “(b) Form of Report.—The report described in subsection (a) shall be submitted in unclassified form but may include a classified annex. “(c) Related Policies.—“(1) The Board of Directors of the Bank shall prescribe policies for the Bank with respect to—“(A) procedures required by the consultation described in subsection (a)(1); “(B) establishment of a period of not less than 25 days to complete the consultations described in subsection (a) during which time consulted parties may submit any appropriate information to the Bank; and “(C) efforts by the Bank to assess and determine ownership or control by the government of China pursuant to the requirements of subsection (a). “(2) In prescribing the policies described under paragraph (1) of this subsection, the Board of Directors of the Bank shall—“(A) consult with the Secretary of State with respect to the procedures referred to in subparagraphs (A) and (B) of paragraph (1) of this subsection, and seek to ensure that the procedures—“(i) are consistent, wherever appropriate, with national interest determinations made under section 2(b)(1)(B) of the Export-Import Bank Act of 1945 [[12 U.S.C. 635(b)(1)(B)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section635/b/1/B&num=0&edition=prelim)]; and “(ii) include coordination between the Secretary of State and the Director of National Intelligence, wherever appropriate; and “(B) consult with the Secretary of the Treasury with respect to the efforts described in paragraph (1)(C) of this subsection. “(d) Definition.—For the purposes of this section, the term ‘government of China’ means any person that the Bank has reason to believe is—“(1) the state and the government of China, as well as any political subdivision, agency, or instrumentality thereof; “(2) any entity controlled, directly or indirectly, by any of the foregoing, including any partnership, association, or other entity in which any of the foregoing owns a 50 percent or greater interest or a controlling interest, and any entity which is otherwise controlled by any of the foregoing; “(3) any person that is or has been acting or purporting to act, directly or indirectly, for or on behalf of any of the foregoing; and “(4) any other person which the Secretary of the Treasury has notified the Bank is included in any of the foregoing. “(e) Sunset.—This section shall have no force or effect on the earlier of—“(1) December 31, 2026; or “(2) the date that is 30 days after the date that the President of the United States reports to the Committee on Financial Services of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate that China is in substantial compliance with—“(A) the financial terms and conditions of the Arrangement on Officially Supported Export Credits of the Organization for Economic Cooperation and Development; and “(B) the rules and principles of the Paris Club.”
 
 #### Pilot Program for Reinsurance
 Pub. L. 114–94, div. E, title LI, § 51008, Dec. 4, 2015, 129 Stat. 1766, provided that: “(a) In General.—Notwithstanding any provision of the Export-Import Bank Act of 1945 ([12 U.S.C. 635](./chapter-6a-export-import-bank-of-the-united-states.md#section-635) et seq.), the Export-Import Bank of the United States (in this section referred to as the ‘Bank’) may establish a pilot program under which the Bank may enter into contracts and other arrangements to share risks associated with the provision of guarantees, insurance, or credit, or the participation in the extension of credit, by the Bank under that Act. “(b) Limitations on Amount of Risk-Sharing.—“(1) Per contract or other arrangement.—The aggregate amount of liability the Bank may transfer through risk-sharing pursuant to a contract or other arrangement entered into under subsection (a) may not exceed $1,000,000,000. “(2) Per year.—The aggregate amount of liability the Bank may transfer through risk-sharing during a fiscal year pursuant to contracts or other arrangements entered into under subsection (a) during that fiscal year may not exceed $10,000,000,000. “(c) Annual Reports.—Not later than 1 year after the date of the enactment of this Act [Dec. 4, 2015], and annually thereafter through 2019, the Bank shall submit to Congress a written report that contains a detailed analysis of the use of the pilot program carried out under subsection (a) during the year preceding the submission of the report. “(d) Rule of Construction.—Nothing in this section shall be construed to affect, impede, or revoke any authority of the Bank. “(e) Termination.—The pilot program carried out under subsection (a) shall terminate on September 30, 2019.”
@@ -1105,6 +1191,9 @@ Pub. L. 101–179, title III, § 303, Nov. 28, 1989, 103 Stat. 1312, provided th
 
 #### Restrictions on Loans
 Pub. L. 93–646, § 12, Jan. 4, 1975, 88 Stat. 2337, provided that, until Jan. 3, 1975, no loan, guarantee, insurance, or credit could be extended by the Export-Import Bank of the United States to the Union of Soviet Socialist Republics.
+
+#### Delegation of Functions
+For delegation of functions of the President under subsec. (b)(6) of this section, see section 1(u) of Ex. Ord. No. 13637, Mar. 8, 2013, 78 F.R. 16131, set out as a note under [section 2751 of Title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2751&num=0&edition=prelim), Foreign Relations and Intercourse. Functions were previously delegated by Ex. Ord. No. 11958, which was formerly set out as a note under [section 2751 of Title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2751&num=0&edition=prelim) and was revoked, subject to a savings provision, by section 4 of Ex. Ord. No. 13637.
 
 #### Ex. Ord. No. 12166. Delegation of Function of President Relating to Application for Credit to Secretary of State
 Ex. Ord. No. 12166, Oct. 19, 1979, 44 F.R. 60971, provided:
@@ -1160,7 +1249,41 @@ Determination No. 2009–21, June 12, 2009, 74 F.R. 28867.—Lao People’s Demo
 
 (5) The directors, in addition to their duties as members of the Board, shall perform such additional duties and may hold such other offices in the administration of the Bank as the President of the Bank may from time to time prescribe.
 
-(6) A quorum of the Board of Directors shall consist of at least three members.
+(6)
+
+  (A) A quorum of the Board of Directors shall consist of at least three members.
+
+  (B)
+
+    (i) If there is an insufficient number of directors to constitute a quorum under subparagraph (A) for 120 consecutive days during the term of a President of the United States, a temporary Board, consisting of the following members, shall act in the stead of the Board of Directors:
+
+      (I) The United States Trade Representative.
+
+      (II) The Secretary of the Treasury.
+
+      (III) The Secretary of Commerce.
+
+      (IV) The members of the Board of Directors.
+
+    (ii) If, at a meeting of the temporary Board—
+
+      (I) a member referred to in clause (i)(IV) is present, the meeting shall be chaired by such a member, consistent with Bank bylaws; or
+
+      (II) no such member is present, the meeting shall be chaired by the United States Trade Representative.
+
+    (iii) A member described in subclause (I), (II), or (III) of clause (i) may delegate the authority of the member to vote on whether to authorize a transaction, whose value does not exceed $100,000,000, to—
+
+      (I) if the member is the United States Trade Representative, the Deputy United States Trade Representative; or
+
+      (II) if the member is referred to in such subclause (II) or (III), the Deputy Secretary of the department referred to in the subclause.
+
+    (iv) If the temporary Board consists of members of only one political party, the President of the United States shall, to the extent practicable, appoint to the temporary Board a qualified member of a different political party who occupies a position requiring nomination by the President, by and with the consent of the Senate.
+
+    (v) The temporary board may not change or amend Bank policies, procedures, bylaws, or guidelines.
+
+    (vi) The temporary Board shall expire at the end of the term of the President of the United States in office at the time the temporary Board was constituted or upon restoration of a quorum of the Board of Directors as defined in subparagraph (A).
+
+    (vii) With respect to a transaction that equals or exceeds $100,000,000, the Chairperson of the temporary Board shall ensure that the Bank complies with [section 635(b)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section635/b/3&num=0&edition=prelim).
 
 (7) The Board of Directors shall adopt, and may from time to time amend, such bylaws as are necessary for the proper management and functioning of the Bank, and shall, in such bylaws, designate the vice presidents and other officers of the Bank and prescribe their duties.
 
@@ -1446,6 +1569,9 @@ Determination No. 2009–21, June 12, 2009, 74 F.R. 28867.—Lao People’s Demo
 
 ### Statutory Notes
 
+#### Termination of Amendment
+For termination of amendment by Pub. L. 116–94, see section 409(b) of Pub. L. 116–94, set out as a Termination Date of 2019 Amendment note below.
+
 #### References in Text
 The Trade Secrets Act, referred to in subsec. (c)(10)(C)(ii)(III), is probably a reference to [section 1905 of Title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section1905&num=0&edition=prelim), Crimes and Criminal Procedure.
 
@@ -1455,6 +1581,8 @@ The Ethics in Government Act of 1978, referred to in subsec. (k)(2)(C), is Pub. 
 Provisions of subsecs. (b) and (c)(3) of this section, which prescribed the annual compensation of the President, the First Vice President, and other members of the Board of Directors, were omitted to conform to the provisions of the Executive Schedule. See sections 5314 and 5315 of Title 5, Government Organization and Employees.
 
 #### Amendments
+2019—Subsec. (c)(6). Pub. L. 116–94 designated existing provisions as subpar. (A) and added subpar. (B).
+
 2015—Subsec. (g)(3). Pub. L. 114–94, § 54002(c), substituted “$25,000,000” for “$10,000,000”.
 
 Subsec. (j)(1). Pub. L. 114–94, § 53002(1), substituted “2015 through 2019” for “2012, 2013, and 2014” in introductory provisions.
@@ -1513,6 +1641,9 @@ Subsec. (d). Pub. L. 90–267, § 1(d), substituted provisions for compensation 
 
 1954—Act Aug. 9, 1954, amended section generally to provide for the independent management of the Bank under a Board of Directors and for the appointment of a President and First Vice President of the Bank.
 
+#### Termination Date of 2019 Amendment
+Pub. L. 116–94, div. I, title IV, § 409(b), Dec. 20, 2019, 133 Stat. 3026, provided that: “The amendments made by subsection (a) [amending this section] shall have no force or effect after December 31, 2026.”
+
 #### Effective Date of 2015 Amendment
 Amendment by section 54002(c) of Pub. L. 114–94 applicable with respect to fiscal year 2016 and each fiscal year thereafter, see section 54002(e) of Pub. L. 114–94, set out as a note under [section 635 of this title](./chapter-6a-export-import-bank-of-the-united-states.md#section-635).
 
@@ -1536,9 +1667,11 @@ Pub. L. 106–46, § 1(b), Aug. 11, 1999, 113 Stat. 227, as amended by Pub. L. 1
 #### Compensation of Employees
 Pub. L. 102–429, title I, § 117, Oct. 21, 1992, 106 Stat. 2196, provided that: “[(a) Repealed. Pub. L. 102–429, title I, §117(b), Oct. 21, 1992, 106 Stat. 2196.] “(b) Sunset.—Effective 2 years after the date of enactment of this Act [Oct. 21, 1992], subsection (a) is hereby repealed. “(c) Report.—Not later than 1 year after the date of enactment of this Act, the Export-Import Bank of the United States shall submit a report to the Congress on—“(1) the recruitment and employee retention problems of the Bank; “(2) any relief from such problems afforded by the Office of Personnel Management; “(3) any use of the authority provided in subsection (a); and “(4) the conclusions and recommendations of the Bank with respect to—“(A) whether such problems have been satisfactorily addressed; and “(B) whether or not the authority of subsection (a) should be extended.”
 
-[Pub. L. 113–235, div. J, title VI, Dec. 16, 2014, 128 Stat. 2598, provided in part: “That notwithstanding subsection (b) of section 117 of the Export Enhancement Act of 1992 [Pub. L. 102–429, set out above], subsection (a) thereof shall remain in effect until September 30, 2015” .]
+[Pub. L. 116–260, div. K, title VI, Dec. 27, 2020, 134 Stat. 1716, provided in part: “That notwithstanding subsection (b) of section 117 of the Export Enhancement Act of 1992 [Pub. L. 102–429, set out above], subsection (a) of such section shall remain in effect until September 30, 2021” .]
 
 [Prior similar extensions of section 117(a) of Pub. L. 102–429 were contained in the following acts:
+
+[Pub. L. 113–235, div. J, title VI, Dec. 16, 2014, 128 Stat. 2598.
 
 [Pub. L. 113–76, div. K, title VI, Jan. 17, 2014, 128 Stat. 489.
 
@@ -1882,7 +2015,7 @@ A Board of Directors reestablished for the Export-Import Bank of Washington, see
 
 (1) **In general** — The Export-Import Bank of the United States shall not have outstanding at any one time loans, guarantees, and insurance in an aggregate amount in excess of the applicable amount.
 
-(2) **Applicable amount defined** — In this subsection, the term “applicable amount”, for each of fiscal years 2015 through 2019, means $135,000,000,000.
+(2) **Applicable amount defined** — In this subsection, the term “applicable amount”, for each of fiscal years 2020 through 2027, means $135,000,000,000.
 
 (3) **Freezing of lending cap if default rate is 2 percent or more** — If the rate calculated under [section 635g(g)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section635g/g/1&num=0&edition=prelim) is 2 percent or more for a quarter, the Bank may not exceed the amount of loans, guarantees, and insurance outstanding on the last day of that quarter until the rate calculated under [section 635g(g)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section635g/g/1&num=0&edition=prelim) is less than 2 percent.
 
@@ -1912,6 +2045,8 @@ A Board of Directors reestablished for the Export-Import Bank of Washington, see
 A prior section 6 of act July 31, 1945, ch. 341, was renumbered section 5 and is classified to [section 635d of this title](./chapter-6a-export-import-bank-of-the-united-states.md#section-635d).
 
 #### Amendments
+2019—Subsec. (a)(2). Pub. L. 116–94 substituted “for each of fiscal years 2020 through 2027” for “for each of fiscal years 2015 through 2019”.
+
 2015—Subsec. (a)(2) to (4). Pub. L. 114–94, § 51001, added pars. (2) and (3), redesignated former par. (3) as (4), and struck out former par. (2) which defined the term “applicable amount”.
 
 Subsecs. (b), (c). Pub. L. 114–94, § 51002(a), added subsec. (b) and redesignated former subsec. (b) as (c).
@@ -1971,7 +2106,7 @@ For effective date of amendment by act Aug. 9, 1954, see note set out under [sec
 <a id="section-635f"></a>
 ## § 635f. Termination date of Bank’s functions; exceptions; liquidation
 
-Export-Import Bank of the United States shall continue to exercise its functions in connection with and in furtherance of its objects and purposes until the close of business on September 30, 2019, but the provisions of this section shall not be construed as preventing the bank from acquiring obligations prior to such date which mature subsequent to such date or from assuming prior to such date liability as guarantor, endorser, or acceptor of obligations which mature subsequent to such date or from issuing, either prior or subsequent to such date, for purchase by the Secretary of the Treasury or any other purchasers, its notes, debentures, bonds, or other obligations which mature subsequent to such date or from continuing as a corporate agency of the United States and exercising any of its functions subsequent to such date for purposes of orderly liquidation, including the administration of its assets and the collection of any obligations held by the bank.
+Export-Import Bank of the United States shall continue to exercise its functions in connection with and in furtherance of its objects and purposes until the close of business on December 31, 2026, but the provisions of this section shall not be construed as preventing the bank from acquiring obligations prior to such date which mature subsequent to such date or from assuming prior to such date liability as guarantor, endorser, or acceptor of obligations which mature subsequent to such date or from issuing, either prior or subsequent to such date, for purchase by the Secretary of the Treasury or any other purchasers, its notes, debentures, bonds, or other obligations which mature subsequent to such date or from continuing as a corporate agency of the United States and exercising any of its functions subsequent to such date for purposes of orderly liquidation, including the administration of its assets and the collection of any obligations held by the bank.
 
 ### Statutory Notes
 
@@ -1979,6 +2114,8 @@ Export-Import Bank of the United States shall continue to exercise its functions
 A prior section 7 of act July 31, 1945, ch. 341, was renumbered section 6 and is classified to [section 635e of this title](./chapter-6a-export-import-bank-of-the-united-states.md#section-635e).
 
 #### Amendments
+2019—Pub. L. 116–94 substituted “December 31, 2026” for “September 30, 2019”.
+
 2015—Pub. L. 114–94 substituted “2019” for “2014”.
 
 2012—Pub. L. 112–122 substituted “2014” for “2011”.
@@ -2185,12 +2322,16 @@ Pub. L. 93–450, § 1, Oct. 18, 1974, 88 Stat. 1368, provided in part that the 
 
 **(k) Report on programs for small- and medium-sized businesses** The Bank shall include in its annual report to Congress under subsection (a) a report on the programs of the Bank for United States businesses with less than $250,000,000 in annual sales.
 
+**(l) Report on authorizations under the Program on China and Transformational Exports** The Bank shall include in its annual report to Congress under subsection (a) a narrative and financial summary of the authorizations made under the Program on China and Transformational Exports.
+
 ### Statutory Notes
 
 #### Prior Provisions
 A prior section 8 of act July 31, 1945, ch. 341, was renumbered section 7 and is classified to [section 635f of this title](./chapter-6a-export-import-bank-of-the-united-states.md#section-635f).
 
 #### Amendments
+2019—Subsec. (l). Pub. L. 116–94 added subsec. (l).
+
 2015—Subsec. (k). Pub. L. 114–94 added subsec. (k).
 
 2012—Subsec. (g). Pub. L. 112–122, § 6, added subsec. (g).
@@ -2826,6 +2967,9 @@ Pub. L. 107–189, § 10(b)(2), June 14, 2002, 116 Stat. 703, provided that: “
 #### Amendments
 1980—Subsec. (c). Pub. L. 96–470 struck out subsec. (c) which required the Board of Directors of the Bank to submit to Congress for the calendar ending Sept. 30, 1968, and each calendar quarter thereafter, a report of all actions taken under authority of sections 635j to 635n of this title during such quarter.
 
+#### Termination of Advisory Committees
+Advisory Committees in existence on Jan. 5, 1973, to terminate not later than the expiration of the 2-year period following Jan. 5, 1973, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided by law, see section 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, set out in the Appendix to Title 5, Government Organization and Employees.
+
 #### Ex. Ord. No. 11420. Export Expansion Advisory Committee
 Ex. Ord. No. 11420, July 31, 1968, 33 F.R. 10997, provided:
 
@@ -2848,9 +2992,6 @@ Sec. 2. Functions of the Committee. The Committee shall review and make recommen
 Sec. 3. Construction. Nothing in this order shall be construed to abrogate, modify, or restrict any function vested by law in, or assigned pursuant to law to, any Federal agency or any officer thereof or to any Federal interagency council or committee. As used herein the term “any Federal agency” includes any executive department and any other executive agency.
 
 Lyndon B. Johnson.
-
-#### Termination of Advisory Committees
-Advisory Committees in existence on Jan. 5, 1973, to terminate not later than the expiration of the 2-year period following Jan. 5, 1973, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided by law, see section 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, set out in the Appendix to Title 5, Government Organization and Employees.
 
 
 <a id="section-635k"></a>

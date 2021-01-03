@@ -108,7 +108,7 @@ In this chapter:
 
 (6) **Malnutrition** — The term “malnutrition” means poor nutritional status caused by nutritional deficiency or excess.
 
-(7) **Relevant Federal departments and agencies** — The term “relevant Federal departments and agencies” means the United States Agency for International Development, the Department of Agriculture, the Department of Commerce, the Department of State, the Department of the Treasury, the Millennium Challenge Corporation, the Overseas Private Investment Corporation, the Peace Corps, the Office of the United States Trade Representative, the United States African Development Foundation, the United States Geological Survey, and any other department or agency specified by the President for purposes of this section.
+(7) **Relevant Federal departments and agencies** — The term “relevant Federal departments and agencies” means the United States Agency for International Development, the Department of Agriculture, the Department of Commerce, the Department of State, the Department of the Treasury, the Millennium Challenge Corporation, the United States International Development Finance Corporation, the Peace Corps, the Office of the United States Trade Representative, the United States African Development Foundation, the United States Geological Survey, and any other department or agency specified by the President for purposes of this section.
 
 (8) **Resilience** — The term “resilience” means the ability of people, households, communities, countries, and systems to mitigate, adapt to, and recover from shocks and stresses to food security in a manner that reduces chronic vulnerability and facilitates inclusive growth.
 
@@ -131,9 +131,6 @@ In this chapter:
 (12) **Target country** — The term “target country” means a developing country that is selected to participate in agriculture and nutrition security programs under the Global Food Security Strategy pursuant to the selection criteria described in [section 9304(a)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section9304/a/2&num=0&edition=prelim), including criteria such as the potential for agriculture-led economic growth, government commitment to agricultural investment and policy reform, opportunities for partnerships and regional synergies, the level of need, and resource availability.
 
 ### Statutory Notes
-
-#### Amendment of Paragraph (7)
-Pub. L. 115–254, div. F, title VI, § 1470(s), (w), Oct. 5, 2018, 132 Stat. 3519, provided that, effective at the end of the transition period, as defined in [section 9681 of this title](./chapter-103-better-utilization-of-investments-leading-to-development.md#section-9681), paragraph (7) of this section is amended by striking “Overseas Private Investment Corporation” and inserting “United States International Development Finance Corporation”. See 2018 Amendment note below.
 
 #### Amendments
 2018—Par. (7). Pub. L. 115–254 substituted “United States International Development Finance Corporation” for “Overseas Private Investment Corporation”.

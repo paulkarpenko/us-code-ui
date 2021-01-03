@@ -156,7 +156,7 @@ Pars. (3) to (6). Pub. L. 115–141, § 302(3), added par. (3) and redesignated 
 
 (2) not later than 180 days after March 23, 2018, to establish and make available to the public, on the website of the Department of the Interior, a database containing a comprehensive list of all the land referred to in paragraph (1); and
 
-(3) to maintain the database referred to in paragraph (2)..
+(3) to maintain the database referred to in paragraph (2).
 
 **(b) Sale of public land**
 

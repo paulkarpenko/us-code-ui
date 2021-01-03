@@ -2,7 +2,7 @@
 title: 22
 chapter: '38'
 heading: DEPARTMENT OF STATE
-section_count: 127
+section_count: 129
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22&num=0&edition=prelim
 ---
@@ -21,7 +21,12 @@ Section was formerly classified to [section 151 of Title 5](https://uscode.house
 #### Effective Date of 1987 Amendment
 Pub. L. 100–204, title XIII, § 1301, Dec. 22, 1987, 101 Stat. 1432, provided that: “Except as otherwise provided in this Act [see Short Title of 1987 Amendment note below], this Act shall take effect on the date of its enactment [Dec. 22, 1987].”
 
+#### Short Title of 2021 Amendment
+Pub. L. 116–326, § 1, Jan. 13, 2021, 134 Stat. 5095, provided that: “This Act [amending [section 2731 of this title](./chapter-038-department-of-state.md#section-2731) and enacting provisions set out as a note under [section 2731 of this title](./chapter-038-department-of-state.md#section-2731)] may be cited as the ‘Special Envoy to Monitor and Combat Anti-Semitism Act’.”
+
 #### Short Title of 2019 Amendment
+Pub. L. 116–94, div. J, title VI, § 601, Dec. 20, 2019, 133 Stat. 3069, provided that: “This title [amending [section 2708 of this title](./chapter-038-department-of-state.md#section-2708) and enacting provisions set out as a note under [section 2708 of this title](./chapter-038-department-of-state.md#section-2708)] may be cited as the ‘Rescuing Animals With Rewards Act of 2019’ or the ‘RAWR Act’.”
+
 Pub. L. 115–441, § 1, Jan. 14, 2019, 132 Stat. 5586, provided that: “This Act [amending [section 4028 of this title](./chapter-052-foreign-service.md#section-4028) and enacting provisions set out as a note under [section 2656 of this title](./chapter-038-department-of-state.md#section-2656)] may be cited as the ‘Elie Wiesel Genocide and Atrocities Prevention Act of 2018’.”
 
 #### Short Title of 2018 Amendment
@@ -87,11 +92,8 @@ Act Aug. 1, 1956, ch. 841 (first sentence), as added by Pub. L. 102–138, title
 
 Act Aug. 1, 1956, ch. 841, title I, § 48, formerly § 33, as added Oct. 17, 1980, Pub. L. 96–465, title II, § 2201(a), 94 Stat. 2157, and renumbered § 34 and redesignated title I, Aug. 24, 1982, Pub. L. 97–241, title I, § 117, title II, § 202(a), 96 Stat. 279, 282; renumbered § 35 and § 36, Nov. 22, 1983, Pub. L. 98–164, title I, §§ 123, 124, 97 Stat. 1025; renumbered § 37, Oct. 19, 1984, Pub. L. 98–533, title I, § 102, 98 Stat. 2708; renumbered § 38 and § 39, Aug. 16, 1985, Pub. L. 99–93, title I, §§ 125(a), 128, 99 Stat. 415, 419; renumbered § 40 and § 41, Aug. 27, 1986, Pub. L. 99–399, title V, §§ 504(1), 506(1), 100 Stat. 871; renumbered § 42, Dec. 22, 1987, Pub. L. 100–204, title I, § 126(a)(1), 101 Stat. 1341; renumbered § 43, Nov. 18, 1988, Pub. L. 100–690, title IV, § 4603(1), 102 Stat. 4287; renumbered § 44, § 45, § 46, § 47, and § 48, Feb. 16, 1990, Pub. L. 101–246, title I, §§ 115(c)(1), 117(1), 118(1), 119(1), 150(1), 104 Stat. 23, 25, 26, 42, which provided that act Aug. 1, 1956, ch. 841, was to be cited as the “State Department Basic Authorities Act of 1956”, was repealed by Pub. L. 102–138, title I, § 111(1), Oct. 28, 1991, 105 Stat. 654.
 
-#### Emergency Preparedness Functions
-For assignment of certain emergency preparedness functions to Secretary of State, see Parts 1, 2, and 13 of Ex. Ord. No. 12656, Nov. 18, 1988, 53 F.R. 47491, set out as a note under [section 5195 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5195&num=0&edition=prelim), The Public Health and Welfare.
-
-#### Order of Succession
-For order of succession during any period when both Secretary and Deputy Secretary of State are unable to perform functions and duties of office of Secretary, see Ex. Ord. No. 13251, Dec. 28, 2001, 67 F.R. 1599, listed in a table under [section 3345 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section3345&num=0&edition=prelim), Government Organization and Employees.
+#### References to Diplomatic and Consular Programs Account
+Pub. L. 116–94, div. G, title I, par. (7), Dec. 20, 2019, 133 Stat. 2817, provided that: “References to the ‘Diplomatic and Consular Programs’ account in any provision of law shall in this fiscal year, and each fiscal year thereafter, be construed to include the ‘Diplomatic Programs’ account.”
 
 #### Compliance With Congressional Budget Act
 Pub. L. 101–246, title XI, § 1101, Feb. 16, 1990, 104 Stat. 90, provided that: “(a) Limitation on Spending Authority.—Any new spending authority (within the meaning of section 401 of the Congressional Budget Act of 1974 [[2 U.S.C. 651](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section651&num=0&edition=prelim)]) which is provided under this Act [see Short Title of 1990 Amendment note above] shall be effective for any fiscal year only to the extent or in such amounts as are provided in advance in appropriation Acts. “(b) Limitation on Contract Authority.—Any authority provided by this Act to enter into contracts shall be effective only—“(1) to the extent that the budget authority for the obligation to make outlays, which is created by the contract, has been provided in advance by an appropriation Act; or “(2) to the extent or in such amounts as are provided in advance in appropriation Acts.”
@@ -100,11 +102,17 @@ Pub. L. 101–246, title XI, § 1101, Feb. 16, 1990, 104 Stat. 90, provided that
 Pub. L. 96–241, § 2, May 3, 1980, 94 Stat. 343, provided that: “(a) Any person aggrieved by an action of the Secretary of State may bring a civil action in an appropriate United States district court to contest the constitutionality of the appointment and continuance in office of the Secretary of State on the ground that such appointment and continuance in office is in violation of article I, section 6, clause 2, of the Constitution. The United States district courts shall have exclusive jurisdiction, without regard to the sum or value of the matter in controversy, to determine the validity of such appointment and continuance in office. “(b) Any action brought under this section shall be heard and determined by a panel of three judges in accordance with [section 2284 of title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section2284&num=0&edition=prelim), United States Code. Any review of the action of a court convened pursuant to such section shall be by petition of certiorari to the Supreme Court. “(c) Any judge designated to hear any action brought under this section shall cause such action to be in every way expedited. “(d) This section applies only with respect to the Secretary of State who is first appointed to that office after the enactment of this Act [May 3, 1980].”
 
 #### Definitions
-Pub. L. 114–323, § 2, Dec. 16, 2016, 130 Stat. 1907, provided that: “In this Act [see Tables for classification]: “(1) Appropriate congressional committees.—The term ‘appropriate congressional committees’ means—“(A) the Committee on Foreign Relations of the Senate; and “(B) the Committee on Foreign Affairs of the House of Representatives. “(2) Department.—Unless otherwise specified, the term ‘Department’ means the Department of State. “(3) Foreign service.—The term ‘Foreign Service’ has the meaning given such term in section 102 of the Foreign Service Act of 1980 ([22 U.S.C. 3902](./chapter-052-foreign-service.md#section-3902)). “(4) Inspector general.—Unless otherwise specified, the term ‘Inspector General’ means the Office of Inspector General of the Department of State and the Broadcasting Board of Governors. “(5) Peacekeeping credits.—The term ‘peacekeeping credits’ means the amounts by which United States assessed peacekeeping contributions exceed actual expenditures, apportioned to the United States, of peacekeeping operations by the United Nations during a United Nations peacekeeping fiscal year. “(6) Secretary.—Unless otherwise specified, the term ‘Secretary’ means the Secretary of State.”
+Pub. L. 114–323, § 2, Dec. 16, 2016, 130 Stat. 1907, provided that: “In this Act [see Tables for classification]: “(1) Appropriate congressional committees.—The term ‘appropriate congressional committees’ means—“(A) the Committee on Foreign Relations of the Senate; and “(B) the Committee on Foreign Affairs of the House of Representatives. “(2) Department.—Unless otherwise specified, the term ‘Department’ means the Department of State. “(3) Foreign service.—The term ‘Foreign Service’ has the meaning given such term in section 102 of the Foreign Service Act of 1980 ([22 U.S.C. 3902](./chapter-052-foreign-service.md#section-3902)). “(4) Inspector general.—Unless otherwise specified, the term ‘Inspector General’ means the Office of Inspector General of the Department of State and the Broadcasting Board of Governors [now United States Agency for Global Media]. “(5) Peacekeeping credits.—The term ‘peacekeeping credits’ means the amounts by which United States assessed peacekeeping contributions exceed actual expenditures, apportioned to the United States, of peacekeeping operations by the United Nations during a United Nations peacekeeping fiscal year. “(6) Secretary.—Unless otherwise specified, the term ‘Secretary’ means the Secretary of State.”
 
 Pub. L. 107–228, § 3, Sept. 30, 2002, 116 Stat. 1355, provided that: “In this Act [see Tables for classification]: “(1) Appropriate congressional committees.—The term ‘appropriate congressional committees’ means the Committee on Foreign Relations of the Senate and the Committee on International Relations [now Committee on Foreign Affairs] of the House of Representatives. “(2) Department.—The term ‘Department’ means the Department of State. “(3) Secretary.—Except as otherwise provided, the term ‘Secretary’ means the Secretary of State.”
 
 Pub. L. 106–113, div. B, § 1000(a)(7) [§ 3], Nov. 29, 1999, 113 Stat. 1536, 1501A–409, provided that: “In this Act [see Short Title of 1999 Amendment note set out above]: “(1) Appropriate congressional committees.—Except as otherwise provided in section 902(1) [113 Stat. 1501A–475], the term ‘appropriate congressional committees’ means the Committee on International Relations [now Committee on Foreign Affairs] of the House of Representatives and the Committee on Foreign Relations of the Senate. “(2) Secretary.—The term ‘Secretary’ means the Secretary of State.”
+
+#### Emergency Preparedness Functions
+For assignment of certain emergency preparedness functions to Secretary of State, see Parts 1, 2, and 13 of Ex. Ord. No. 12656, Nov. 18, 1988, 53 F.R. 47491, set out as a note under [section 5195 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5195&num=0&edition=prelim), The Public Health and Welfare.
+
+#### Order of Succession
+For order of succession during any period when both Secretary and Deputy Secretary of State are unable to perform functions and duties of office of Secretary, see Ex. Ord. No. 13251, Dec. 28, 2001, 67 F.R. 1599, listed in a table under [section 3345 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section3345&num=0&edition=prelim), Government Organization and Employees.
 
 
 <a id="section-2651a"></a>
@@ -165,7 +173,31 @@ Pub. L. 106–113, div. B, § 1000(a)(7) [§ 3], Nov. 29, 1999, 113 Stat. 1536, 
 
     (iv) Performing other responsibilities which serve to promote increased observance of internationally recognized human rights by all countries.
 
-(3) **Nomination of Assistant Secretaries** — Whenever the President submits to the Senate a nomination of an individual for appointment to a position in the Department of State that is described in paragraph (1), the President shall designate the regional or functional bureau or bureaus of the Department of State with respect to which the individual shall have responsibility.
+(3) **Assistant Secretary for economic and business matters**
+
+  (A) *In general* — Subject to the numerical limitation specified in paragraph (1), there is authorized to be established in the Department of State an Assistant Secretary of State who shall be responsible to the Secretary of State for matters pertaining to international economics and business matters in the conduct of foreign policy.
+
+  (B) *Matters contemplated* — The matters referred to in subparagraph (A) include the following:
+
+    (i) International trade and investment policy.
+
+    (ii) International finance, economic development, and debt policy.
+
+    (iii) Economic sanctions and combating terrorist financing.
+
+    (iv) International transportation policy.
+
+    (v) Support for United States businesses.
+
+    (vi) Economic policy analysis and private sector outreach.
+
+    (vii) International data privacy and innovation policies.
+
+    (viii) Such other related duties as the Secretary may from time to time designate.
+
+  (C) *Coordination* — The Assistant Secretary authorized under subparagraph (A) shall coordinate with the Office of Sanctions Coordination established under subsection (h) with respect to the development and implementation of economic sanctions.
+
+(4) **Nomination of Assistant Secretaries** — Whenever the President submits to the Senate a nomination of an individual for appointment to a position in the Department of State that is described in paragraph (1), the President shall designate the regional or functional bureau or bureaus of the Department of State with respect to which the individual shall have responsibility.
 
 **(d) Other senior officials** In addition to officials of the Department of State who are otherwise authorized to be appointed by the President, by and with the advice and consent of the Senate, and to be compensated at level IV of the Executive Schedule of 11 So in original. Probably should be “under”. [section 5315 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5315&num=0&edition=prelim) four other such appointments are authorized.
 
@@ -255,6 +287,38 @@ Pub. L. 106–113, div. B, § 1000(a)(7) [§ 3], Nov. 29, 1999, 113 Stat. 1536, 
 
 (3) **Officer having primary responsibility for international narcotics and law enforcement** — The officer of the Department of State with primary responsibility for assisting the Secretary with respect to international narcotics and law enforcement, or that officer’s principal deputy, shall have substantial professional qualifications in the fields of (A) management, and (B) law enforcement or international narcotics policy.
 
+**(h) Office of Sanctions Coordination**
+
+(1) **In general** — There is established, within the Department of State, an Office of Sanctions Coordination (in this subsection referred to as the “Office”).
+
+(2) **Head** — The head of the Office shall—
+
+  (A) have the rank and status of ambassador;
+
+  (B) be appointed by the President, by and with the advice and consent of the Senate; and
+
+  (C) report directly to the Secretary of State.
+
+(3) **Duties** — The head of the Office shall—
+
+  (A) exercise sanctions authorities delegated to the Secretary;
+
+  (B) serve as the principal advisor to the senior management of the Department and the Secretary regarding the development and implementation of sanctions policy;
+
+  (C) serve as the lead representative of the United States in diplomatic engagement on sanctions matters;
+
+  (D) consult and closely coordinate with allies and partners of the United States, including the United Kingdom, the European Union and member countries of the European Union, Canada, Australia, New Zealand, Japan, and South Korea, to ensure the maximum effectiveness of sanctions imposed by the United States and such allies and partners;
+
+  (E) serve as the coordinator for the development and implementation of sanctions policy with respect to all activities, policies, and programs of all bureaus and offices of the Department relating to the development and implementation of sanctions policy; and
+
+  (F) serve as the lead representative of the Department in interagency discussions with respect to the development and implementation of sanctions policy.
+
+(4) **Direct hire authority**
+
+  (A) *In general* — The head of the Office may appoint, without regard to the provisions of sections 3309 through 3318 of title 5, candidates directly to positions in the competitive service, as defined in section 2102 of that title, in the Office.
+
+  (B) *Termination* — The authority provided under subparagraph (A) shall terminate on the date that is two years after December 27, 2020.
+
 ### Statutory Notes
 
 #### References in Text
@@ -268,6 +332,12 @@ Section was formerly classified to [section 2662 of this title](./chapter-038-de
 Section was also formerly classified to [section 170f of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section170f&num=0&edition=prelim) prior to the general revision and enactment of Title 5, Government Organization and Employees, by Pub. L. 89–554, § 1, Sept. 6, 1966, 80 Stat. 378.
 
 #### Amendments
+2020—Subsec. (c)(3)(C). Pub. L. 116–260, § 361(a)(2), added subpar. (C).
+
+Subsec. (h). Pub. L. 116–260, § 361(a)(1), added subsec. (h).
+
+2019—Subsec. (c)(3), (4). Pub. L. 116–94 added par. (3) and redesignated former par. (3) as (4).
+
 2012—Subsec. (c)(1). Pub. L. 112–166 struck out “, each of whom shall be appointed by the President, by and with the advice and consent of the Senate, and” after “Secretaries of State” and inserted at end “Each Assistant Secretary of State shall be appointed by the President, by and with the advice and consent of the Senate, except that the appointments of the Assistant Secretary for Public Affairs and the Assistant Secretary for Administration shall not be subject to the advice and consent of the Senate.”
 
 2008—Subsec. (f)(2)(A). Pub. L. 110–293, § 102(1), which directed insertion of “, partner country finance, health, and other relevant ministries,” after “community based organizations)” wherever appearing, was executed by making the insertion after “community-based organizations)” in introductory provisions and in cl. (iii), to reflect the probable intent of Congress.
@@ -334,6 +404,9 @@ Subsec. (a)(2). Pub. L. 103–415 inserted “and the Deputy Secretary of State�
 
 1982—Pub. L. 97–241 substituted “The Secretary” for “That the Secretary”.
 
+#### Change of Name
+Broadcasting Board of Governors renamed United States Agency for Global Media pursuant to [section 6204(a)(22) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section6204/a/22&num=0&edition=prelim). The renaming was effectuated by notice to congressional appropriations committees dated May 24, 2018, and became effective Aug. 22, 2018.
+
 #### Effective Date of 2012 Amendment
 Amendment by Pub. L. 112–166 effective 60 days after Aug. 10, 2012, and applicable to appointments made on and after that effective date, including any nomination pending in the Senate on that date, see section 6(a) of Pub. L. 112–166, set out as a note under [section 113 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section113&num=0&edition=prelim), Domestic Security.
 
@@ -347,6 +420,17 @@ Pub. L. 103–236, title I, § 161(b), Apr. 30, 1994, 108 Stat. 404, as amended 
 
 #### Effective Date of 1982 Amendment
 Amendment by Pub. L. 97–241, effective Oct. 1, 1982, see section 204 of Pub. L. 97–241, set out as an Effective Date note under [section 4301 of this title](./chapter-053-authorities-relating-to-the-regulation-of-foreign-missions.md#section-4301).
+
+#### Sanctions Policy Coordination with Allies and Partners of United States
+Pub. L. 116–260, div. FF, title III, § 361(b)–(d), Dec. 27, 2020, 134 Stat. 3132, 3133, provided that: “(b) Coordination With Allies and Partners of the United States.—“(1) In general.—The Secretary of State shall develop and implement mechanisms and programs, as appropriate, through the head of the Office of Sanctions Coordination established pursuant to subsection (h) of section 1 of the State Department Basic Authorities Act of 1956 [[22 U.S.C. 2651a(h)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2651a/h&num=0&edition=prelim)], as added by subsection (a)(1), to coordinate the development and implementation of United States sanctions policies with allies and partners of the United States, including the United Kingdom, the European Union and member countries of the European Union, Canada, Australia, New Zealand, Japan, and South Korea. “(2) Information sharing.—The Secretary should pursue the development and implementation of mechanisms and programs under paragraph (1), as appropriate, that involve the sharing of information with respect to policy development and sanctions implementation. “(3) Capacity building.—The Secretary should pursue efforts, in coordination with the Secretary of the Treasury and the head of any other Federal agency the Secretary considers appropriate, to assist allies and partners of the United States, including the countries specified in paragraph (1), as appropriate, in the development of their legal and technical capacities to develop and implement sanctions authorities. “(4) Exchange programs.—In furtherance of the efforts described in paragraph (3), the Secretary, in coordination with the Secretary of the Treasury and the head of any other Federal agency the Secretary considers appropriate, may enter into agreements with counterpart agencies in foreign governments establishing exchange programs for the temporary detail of Federal Government employees to share information and expertise with respect to the development and implementation of sanctions authorities. “(5) Briefing required.—Not later than 90 days after the date of the enactment of this Act [Dec. 27, 2020] and every 180 days thereafter until the date that is five years after such date of enactment, the Secretary of State shall brief the appropriate congressional committees on the efforts of the Department of State to implement this section, including a description of—“(A) measures taken to implement paragraph (1); “(B) actions taken pursuant to paragraphs (2) through (4); “(C) the extent of coordination between the United States and allies and partners of the United States, including the countries specified in paragraph (1), with respect to the development and implementation of sanctions policy; and “(D) obstacles preventing closer coordination between the United States and such allies and partners with respect to the development and implementation of sanctions policy. “(c) Sense of Congress.—It is the sense of the Congress that the President should appoint a coordinator for sanctions and national economic security issues within the framework of the National Security Council. “(d) Appropriate Congressional Committees Defined.—In this section, the term ‘appropriate congressional committees’ means—“(1) the Committee on Foreign Relations, the Committee on Banking, Housing, and Urban Affairs, the Committee on Homeland Security and Governmental Affairs, and the Committee on Finance of the Senate; and “(2) the Committee on Foreign Affairs, the Committee on Financial Services, the Committee on Oversight and Reform, and the Committee on Way [sic] and Means of the House of Representatives.”
+
+#### Additional Paid Leave To Address Employee Hardships Resulting From Coronavirus
+Pub. L. 116–136, div. B, title XI, § 21007, Mar. 27, 2020, 134 Stat. 592, provided that: “Notwithstanding any other provision of law, and in addition to leave authorized under any other provision of law, the Secretary of State and the Administrator of the United States Agency for International Development may, in order to prevent, prepare for, and respond to coronavirus, provide additional paid leave to address employee hardships resulting from coronavirus: Provided, That this authority shall apply to leave taken since January 29, 2020, and may be provided abroad and domestically: Provided further, That the Secretary and the Administrator shall consult with the Committee on Appropriations and the Committee on Foreign Relations of the Senate and the Committee on Appropriations and the Committee on Foreign Affairs of the House of Representatives prior to implementation of such authority: Provided further, That the authority made available pursuant to this section shall expire on September 30, 2022.”
+
+[For definition of “coronavirus” as used in section 21007 of Pub. L. 116–136, see section 23005 of Pub. L. 116–136, set out as a note under [section 162b of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section162b&num=0&edition=prelim), The Congress.]
+
+#### Oaths of Office Administered Remotely
+Pub. L. 116–136, div. B, title XI, § 21011, Mar. 27, 2020, 134 Stat. 593, provided that: “Notwithstanding any other provision of law, the Secretary of State and the Administrator of the United States Agency for International Development may authorize any oath of office required by law to, in particular circumstances that could otherwise pose health risks, be administered remotely, subject to appropriate verification: Provided, That prior to initially exercising the authority of this section, the Secretary and the Administrator shall each submit a report to the Committee on Appropriations and the Committee on Foreign Relations of the Senate and the Committee on Appropriations and the Committee on Foreign Affairs of the House of Representatives describing the process and procedures for administering such oaths, including appropriate verification: Provided further, That the authority made available pursuant to this section shall expire on September 30, 2021.”
 
 #### Coordinator of United States Government Activities Providing Basic Education Assistance in Developing Countries
 Pub. L. 112–74, div. I, title VII, § 7034(q)(2), Dec. 23, 2011, 125 Stat. 1217, provided that: “The position of Coordinator established pursuant to section 664 of division J of Public Law 110–161 [set out below] shall, within 45 days of enactment of this Act [Dec. 23, 2011] and notwithstanding the requirements of such section, be moved to the United States Agency for International Development (USAID): Provided, That the Coordinator shall hereafter be appointed by the USAID Administrator and shall report directly to the Administrator: Provided further, That the responsibilities of the Coordinator enumerated in the first sentence of section 664(c) shall remain in full force and effect: Provided further, That the limitation in the second sentence of such section shall hereafter no longer apply to the Coordinator.”
@@ -401,6 +485,9 @@ Pub. L. 103–236, title I, § 161(e), Apr. 30, 1994, 108 Stat. 404, which estab
 #### Deputy Assistant Secretary for Burdensharing
 Pub. L. 103–236, title I, § 161(f), Apr. 30, 1994, 108 Stat. 404, as amended by Pub. L. 103–415, § 1(f)(3), Oct. 25, 1994, 108 Stat. 4300, which conditioned availability of 1995 appropriations upon establishment of position within Department of State of Deputy Assistant Secretary for Burdensharing and set forth responsibilities of position, was repealed by Pub. L. 105–277, div. G, subdiv. B, title XXIII, § 2302, Oct. 21, 1998, 112 Stat. 2681–825.
 
+#### Definitions
+For definitions of “Secretary”, “Department”, and “appropriate congressional committees” as used in sections 301, 302, 324, and 325 of Pub. L. 107–228, set out as notes above, see section 3 of Pub. L. 107–228, set out as a note under [section 2651 of this title](./chapter-038-department-of-state.md#section-2651).
+
 #### Authorization To Redelegate Certain Responsibilities Vested in the President and Delegated to the Secretary of State
 Memorandum of President of the United States, Nov. 4, 1997, 62 F.R. 60995, provided:
 
@@ -413,9 +500,6 @@ You are authorized and directed to publish this memorandum in the Federal Regist
 William J. Clinton.
 
 [For abolition, transfer of functions, and treatment of references to United States Arms Control and Disarmament Agency, see section 6511 et seq. of this title.]
-
-#### Definitions
-For definitions of “Secretary”, “Department”, and “appropriate congressional committees” as used in sections 301, 302, 324, and 325 of Pub. L. 107–228, set out as notes above, see section 3 of Pub. L. 107–228, set out as a note under [section 2651 of this title](./chapter-038-department-of-state.md#section-2651).
 
 
 <a id="section-2652-2652a"></a>
@@ -594,10 +678,10 @@ Section was formerly classified to [section 156 of Title 5](https://uscode.house
 #### Construction
 Pub. L. 115–409, § 412, Dec. 31, 2018, 132 Stat. 5411, provided that: “Nothing in this Act [see Short Title of 2018 Amendment note set out under [section 2651 of this title](./chapter-038-department-of-state.md#section-2651)] may be construed as authorizing the use of military force.”
 
-#### Delegation of Functions
-Functions of President respecting certain facilities constructed and maintained on United States borders delegated to Secretary of State, see Ex. Ord. No. 11423, Aug. 16, 1968, 33 F.R. 11741, set out as a note under [section 301 of Title 3](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title3-section301&num=0&edition=prelim), The President.
+#### Mitigation and Prevention of Atrocities in High-Risk Countries
+Pub. L. 116–283, div. A, title XII, § 1210D, Jan. 1, 2021, 134 Stat. 3916, provided that: “(a) Statement of Policy.—It is the policy of the United States that the Department of State, in coordination with the Department of Defense and the United States Agency for International Development, should address global fragility, as required by the Global Fragility Act of 2019 [[22 U.S.C. 9801](./chapter-105-global-fragility.md#section-9801) et seq.] and, to the extent practicable, incorporate efforts to identify, prevent, and respond to the causes of atrocities, as required by section 3 of the Elie Wiesel Genocide and Atrocities Prevention Act of 2018 [Pub. L. 115–441] ([22 U.S.C. 2656](./chapter-038-department-of-state.md#section-2656) note), into security assistance and cooperation planning and implementation for covered foreign countries. “(b) In General.—The Secretary of State, in consultation with chiefs of mission and the Administrator of the United States Agency for International Development, shall ensure that the Department of State’s Atrocity Assessment Framework is factored into the Integrated Country Strategy and the Country Development Cooperation Strategy where appropriate for covered foreign countries. “(c) Report.—“(1) In general.— [Amended section 5 of Pub. L. 115–441, 132 Stat. 5587.] “(2) Effective date.—The amendment made by paragraph (1) shall take effect and apply beginning with the first report required under section 5 of the Elie Wiesel Genocide and Atrocities Prevention Act of 2018 that is required after the date of the enactment of this Act [Jan. 1, 2021]. “(d) Stakeholder Consultation.—Consistent with section 504(b) of the Global Fragility Act of 2019 ([22 U.S.C. 9803(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section9803/b&num=0&edition=prelim)), the Secretary of State and other relevant agencies should consult with credible representatives of civil society with experience in atrocities prevention and national and local governance entities, as well as relevant international development organizations with experience implementing programs in fragile and violence-affected communities, multilateral organizations and donors, and relevant private, academic, and philanthropic entities, as appropriate, in identifying covered foreign countries as defined in this section. “(e) Definitions.—In this section:“(1) Appropriate congressional committees.—The term ‘appropriate congressional committees’ means—“(A) the Committee on Foreign Affairs and the Committee on Armed Services of the House of Representatives; and “(B) the Committee on Foreign Relations and the Committee on Armed Services of the Senate. “(2) Covered foreign country.—The term ‘covered foreign country’ means a foreign country that is not listed as a priority country under section 505 of the Global Fragility Act of 2019 ([22 U.S.C. 9804](./chapter-105-global-fragility.md#section-9804)) but remains among the top 30 most at risk countries for new onset of mass killing, according to the Department of State’s internal assessments, and in consultation with the appropriate congressional committees.”
 
-#### Presidential Directive
+#### Termination of National Intelligence Authority and Central Intelligence Group
 National Intelligence Authority and Central Intelligence Group, established by Presidential Directive, Feb. 1, 1946, 11 F.R. 1337, to coordinate Federal foreign intelligence activities, ceased to exist upon creation of Central Intelligence Agency; personnel, property and records of the group were transferred to the Agency; and unexpended funds of the group were made available to the Agency, by act July 26, 1947, ch. 343, title I, § 102, 61 Stat. 497, formerly set out as [section 403 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section403&num=0&edition=prelim), War and National Defense. See Prior Provisions note under [section 3023 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3023&num=0&edition=prelim).
 
 #### Genocide and Atrocities Prevention
@@ -638,22 +722,13 @@ Pub. L. 108–458, title VII, § 7204, Dec. 17, 2004, 118 Stat. 3814, provided t
 [Functions of President under subsec. (c) of section 7204 of Pub. L. 108–458, set out above, assigned to Secretary of State by section 1 of Memorandum of President of the United States, Apr. 21, 2005, 70 F.R. 48633, set out as a note under [section 301 of title 3](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title3-section301&num=0&edition=prelim), The President.]
 
 #### East Timor Transition to Independence
-Pub. L. 107–228, div. A, title VI, subtitle C, Sept. 30, 2002, 116 Stat. 1399, provided that: “SEC. 631. SHORT TITLE.“This subtitle may be cited as the ‘East Timor Transition to Independence Act of 2002’. “SEC. 632. BILATERAL ASSISTANCE.“(a) Authority.—The President, acting through the Administrator of the United States Agency for International Development, is authorized to—“(1) support the development of civil society, including nongovernmental organizations in East Timor; “(2) promote the development of an independent news media; “(3) support job creation, including support for small business and microenterprise programs, environmental protection, sustainable development, development of East Timor’s health care infrastructure, educational programs, and programs strengthening the role of women in society; “(4) promote reconciliation, conflict resolution, and prevention of further conflict with respect to East Timor, including establishing accountability for past gross human rights violations; “(5) support the voluntary and safe repatriation and reintegration of refugees into East Timor; “(6) support political party development, voter education, voter registration, and other activities in support of free and fair elections in East Timor; and “(7) promote the development of the rule of law. “(b) Authorization of Appropriations.—“(1) In general.—There is authorized to be appropriated to the President to carry out this section $25,000,000 for the fiscal year 2003. “(2) Availability.—Amounts appropriated pursuant to the authorization of appropriations under paragraph (1) are authorized to remain available until expended. “SEC. 633. MULTILATERAL ASSISTANCE.“The Secretary of the Treasury shall instruct the United States executive director at each international financial institution to which the United States is a member to use the voice, vote, and influence of the United States to support economic and democratic development in East Timor. “SEC. 634. TRADE AND INVESTMENT ASSISTANCE.“(a) OPIC.—The President should initiate negotiations with the Government of East Timor to enter into a new agreement authorizing the Overseas Private Investment Corporation [now the United States International Development Finance Corporation] to carry out programs with respect to East Timor in order to expand United States investment in East Timor, emphasizing partnerships with local East Timorese enterprises. “(b) Trade and Development Agency.—“(1) In general.—The Director of the Trade and Development Agency is authorized to carry out projects in East Timor under section 661 of the Foreign Assistance Act of 1961 ([22 U.S.C. 2421](./chapter-032-foreign-assistance.md#section-2421)). “(2) Authorization of appropriations.—“(A) In general.—There are authorized to be appropriated to the Trade and Development Agency to carry out this subsection $1,000,000 for fiscal year 2003. “(B) Availability.—Amounts appropriated pursuant to the authorization of appropriations under subparagraph (A) are authorized to remain available until expended. “(c) Export-Import Bank.—The Export-Import Bank of the United States should expand its activities in connection with exports to East Timor to the extent such activities are requested and to the extent there is a reasonable assurance of repayment. “SEC. 635. GENERALIZED SYSTEM OF PREFERENCES.“As soon as possible after the enactment of this Act [Sept. 30, 2002], the United States Trade Representative and the Commissioner of Customs should send an assessment team to East Timor to compile a list of duty-free eligible products so that the Government of East Timor can begin the process of applying for General System of Preference benefits. “SEC. 636. AUTHORITY FOR RADIO BROADCASTING.“The Broadcasting Board of Governors should broadcast to East Timor in an appropriate language or languages. “SEC. 637. SECURITY ASSISTANCE FOR EAST TIMOR.“(a) Study and Report.—“(1) Study.—The President shall conduct a study to determine—“(A) the extent to which East Timor’s security needs can be met by the transfer of excess defense articles under section 516 of the Foreign Assistance Act of 1961 [[22 U.S.C. 2321j](./chapter-032-foreign-assistance.md#section-2321j)]; “(B) the extent to which international military education and training (IMET) assistance will enhance professionalism of the armed forces of East Timor, provide training in human rights, and promote respect for human rights and humanitarian law; and “(C) the terms and conditions under which such defense articles or training, as appropriate, should be provided. “(2) Report.—Not later than 180 days after the date of the enactment of this Act [Sept. 30, 2002], the President shall transmit to the appropriate congressional committees a report that contains the findings of the study conducted under paragraph (1). “(b) Authorization of Assistance.—“(1) In general.—Beginning on the date on which Congress receives the report transmitted under subsection (a)(2), or the date on which Congress receives the certification transmitted under paragraph (2), whichever occurs later, the President is authorized—“(A) to transfer excess defense articles under section 516 of the Foreign Assistance Act of 1961 ([22 U.S.C. 2321j](./chapter-032-foreign-assistance.md#section-2321j)) to East Timor in accordance with such section; and “(B) to provide military education and training under chapter 5 of part II of such Act ([22 U.S.C. 2347](./chapter-032-foreign-assistance.md#section-2347) et seq.) for the armed forces of East Timor in accordance with such chapter. “(2) Certification.—A certification described in this paragraph is a certification that—“(A) East Timor has established an independent armed forces; and “(B) the assistance proposed to be provided pursuant to paragraph (1)—“(i) is in the national security interests of the United States; and “(ii) will promote both human rights in East Timor and the professionalization of the armed forces of East Timor. “SEC. 638. REPORTING REQUIREMENT.“(a) In General.—Not later than 180 days after the date of enactment of this Act [Sept. 30, 2002], and every 12 months thereafter for the next five years, the Secretary shall prepare and transmit to the appropriate congressional committees a report that contains the information described in subsection (b). “(b) Information.—The report required by subsection (a) shall include—“(1) developments in East Timor’s political and economic situation in the period covered by the report, including an evaluation of any elections which have occurred in East Timor and the refugee reintegration process in East Timor; “(2) in the initial report, a 3-year plan for United States foreign assistance to East Timor in accordance with section 632, prepared by the Administrator of the United States Agency for International Development, which outlines the goals for United States foreign assistance to East Timor during the 3-year period; “(3) a description of the activities undertaken in East Timor by the International Bank for Reconstruction and Development, the Asian Development Bank, and other international financial institutions, and an evaluation of the effectiveness of these activities; “(4) an assessment of the status of United States trade and investment relations with East Timor, including a detailed analysis of any trade and investment-related activity supported by the Overseas Private Investment Corporation [now the United States International Development Finance Corporation], the Export-Import Bank of the United States, or the Trade and Development Agency during the period of time since the previous report; “(5) a comprehensive study and report on local agriculture in East Timor, emerging opportunities for producing, processing, and exporting indigenous agricultural products, and recommendations for appropriate technical assistance from the United States; and “(6) statistical data drawn from other sources on economic growth, health, education, and distribution of resources in East Timor.”
+Pub. L. 107–228, div. A, title VI, subtitle C, Sept. 30, 2002, 116 Stat. 1399, provided that: “SEC. 631. SHORT TITLE.“This subtitle may be cited as the ‘East Timor Transition to Independence Act of 2002’. “SEC. 632. BILATERAL ASSISTANCE.“(a) Authority.—The President, acting through the Administrator of the United States Agency for International Development, is authorized to—“(1) support the development of civil society, including nongovernmental organizations in East Timor; “(2) promote the development of an independent news media; “(3) support job creation, including support for small business and microenterprise programs, environmental protection, sustainable development, development of East Timor’s health care infrastructure, educational programs, and programs strengthening the role of women in society; “(4) promote reconciliation, conflict resolution, and prevention of further conflict with respect to East Timor, including establishing accountability for past gross human rights violations; “(5) support the voluntary and safe repatriation and reintegration of refugees into East Timor; “(6) support political party development, voter education, voter registration, and other activities in support of free and fair elections in East Timor; and “(7) promote the development of the rule of law. “(b) Authorization of Appropriations.—“(1) In general.—There is authorized to be appropriated to the President to carry out this section $25,000,000 for the fiscal year 2003. “(2) Availability.—Amounts appropriated pursuant to the authorization of appropriations under paragraph (1) are authorized to remain available until expended. “SEC. 633. MULTILATERAL ASSISTANCE.“The Secretary of the Treasury shall instruct the United States executive director at each international financial institution to which the United States is a member to use the voice, vote, and influence of the United States to support economic and democratic development in East Timor. “SEC. 634. TRADE AND INVESTMENT ASSISTANCE.“(a) OPIC.—The President should initiate negotiations with the Government of East Timor to enter into a new agreement authorizing the Overseas Private Investment Corporation [now the United States International Development Finance Corporation] to carry out programs with respect to East Timor in order to expand United States investment in East Timor, emphasizing partnerships with local East Timorese enterprises. “(b) Trade and Development Agency.—“(1) In general.—The Director of the Trade and Development Agency is authorized to carry out projects in East Timor under section 661 of the Foreign Assistance Act of 1961 ([22 U.S.C. 2421](./chapter-032-foreign-assistance.md#section-2421)). “(2) Authorization of appropriations.—“(A) In general.—There are authorized to be appropriated to the Trade and Development Agency to carry out this subsection $1,000,000 for fiscal year 2003. “(B) Availability.—Amounts appropriated pursuant to the authorization of appropriations under subparagraph (A) are authorized to remain available until expended. “(c) Export-Import Bank.—The Export-Import Bank of the United States should expand its activities in connection with exports to East Timor to the extent such activities are requested and to the extent there is a reasonable assurance of repayment. “SEC. 635. GENERALIZED SYSTEM OF PREFERENCES.“As soon as possible after the enactment of this Act [Sept. 30, 2002], the United States Trade Representative and the Commissioner of Customs should send an assessment team to East Timor to compile a list of duty-free eligible products so that the Government of East Timor can begin the process of applying for General System of Preference benefits. “SEC. 636. AUTHORITY FOR RADIO BROADCASTING.“The Broadcasting Board of Governors [now United States Agency for Global Media] should broadcast to East Timor in an appropriate language or languages. “SEC. 637. SECURITY ASSISTANCE FOR EAST TIMOR.“(a) Study and Report.—“(1) Study.—The President shall conduct a study to determine—“(A) the extent to which East Timor’s security needs can be met by the transfer of excess defense articles under section 516 of the Foreign Assistance Act of 1961 [[22 U.S.C. 2321j](./chapter-032-foreign-assistance.md#section-2321j)]; “(B) the extent to which international military education and training (IMET) assistance will enhance professionalism of the armed forces of East Timor, provide training in human rights, and promote respect for human rights and humanitarian law; and “(C) the terms and conditions under which such defense articles or training, as appropriate, should be provided. “(2) Report.—Not later than 180 days after the date of the enactment of this Act [Sept. 30, 2002], the President shall transmit to the appropriate congressional committees a report that contains the findings of the study conducted under paragraph (1). “(b) Authorization of Assistance.—“(1) In general.—Beginning on the date on which Congress receives the report transmitted under subsection (a)(2), or the date on which Congress receives the certification transmitted under paragraph (2), whichever occurs later, the President is authorized—“(A) to transfer excess defense articles under section 516 of the Foreign Assistance Act of 1961 ([22 U.S.C. 2321j](./chapter-032-foreign-assistance.md#section-2321j)) to East Timor in accordance with such section; and “(B) to provide military education and training under chapter 5 of part II of such Act ([22 U.S.C. 2347](./chapter-032-foreign-assistance.md#section-2347) et seq.) for the armed forces of East Timor in accordance with such chapter. “(2) Certification.—A certification described in this paragraph is a certification that—“(A) East Timor has established an independent armed forces; and “(B) the assistance proposed to be provided pursuant to paragraph (1)—“(i) is in the national security interests of the United States; and “(ii) will promote both human rights in East Timor and the professionalization of the armed forces of East Timor. “SEC. 638. REPORTING REQUIREMENT.“(a) In General.—Not later than 180 days after the date of enactment of this Act [Sept. 30, 2002], and every 12 months thereafter for the next five years, the Secretary shall prepare and transmit to the appropriate congressional committees a report that contains the information described in subsection (b). “(b) Information.—The report required by subsection (a) shall include—“(1) developments in East Timor’s political and economic situation in the period covered by the report, including an evaluation of any elections which have occurred in East Timor and the refugee reintegration process in East Timor; “(2) in the initial report, a 3-year plan for United States foreign assistance to East Timor in accordance with section 632, prepared by the Administrator of the United States Agency for International Development, which outlines the goals for United States foreign assistance to East Timor during the 3-year period; “(3) a description of the activities undertaken in East Timor by the International Bank for Reconstruction and Development, the Asian Development Bank, and other international financial institutions, and an evaluation of the effectiveness of these activities; “(4) an assessment of the status of United States trade and investment relations with East Timor, including a detailed analysis of any trade and investment-related activity supported by the Overseas Private Investment Corporation [now the United States International Development Finance Corporation], the Export-Import Bank of the United States, or the Trade and Development Agency during the period of time since the previous report; “(5) a comprehensive study and report on local agriculture in East Timor, emerging opportunities for producing, processing, and exporting indigenous agricultural products, and recommendations for appropriate technical assistance from the United States; and “(6) statistical data drawn from other sources on economic growth, health, education, and distribution of resources in East Timor.”
 
 [For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim). For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim), as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim).]
 
 [For definitions of “appropriate congressional committees” and “Secretary” as used in subtitle C of title VI of div. A of Pub. L. 107–228, set out above, see section 3 of Pub. L. 107–228, set out as a note under [section 2651 of this title](./chapter-038-department-of-state.md#section-2651).]
 
-#### Presidential Certification Authorizing Security Assistance to East Timor
-Determination of President of the United States, No. 2003–19, Mar. 28, 2003, 68 F.R. 16167, provided:
-
-Memorandum for the Secretary of State
-
-Pursuant to the authority vested in me by the Constitution and laws of the United States, including section 637(b)(2) of the Foreign Relations Authorization Act, Fiscal Year 2003 [Pub. L. 107–228, § 637(b)(2), set out above], I hereby certify that East Timor has established an independent armed forces; and that the provision to East Timor of military assistance in the form of excess defense articles and international military education and training is in the national security interests of the United States, and will promote both human rights in East Timor and the professionalization of the armed forces of East Timor.
-
-You are hereby authorized and directed to report this certification, accompanying memorandum of justification [not set out in the Code], and report on East Timor security assistance to the Congress, and to arrange for the publication of this memorandum in the Federal Register.
-
-George W. Bush.
+[For Presidential certification authorizing security assistance to East Timor pursuant to section 637(b)(2) of Pub. L. 107–228, set out above, see Presidential Determination No. 2003–19, set out below.]
 
 #### Pacific Charter Commission
 Pub. L. 106–570, title IV, Dec. 27, 2000, 114 Stat. 3047, known as the Pacific Charter Commission Act of 2000, provided for the establishment of the Pacific Charter Commission to promote United States foreign policy, support democratization, rule of law, and human rights, promote United States exports, assist in combating terrorism and spread of illicit narcotics, and advocate for United States diplomacy, all in the Asia-Pacific region, with authority to establish the Commission to expire Dec. 31, 2002, and termination of the Commission to occur not later than six years after the date of establishment.
@@ -711,18 +786,7 @@ Pub. L. 100–204, title I, § 109, Dec. 22, 1987, 101 Stat. 1339, provided that
 Pub. L. 100–204, title I, § 122, Dec. 22, 1987, 101 Stat. 1339, prohibited use of appropriated funds for closing United States consular or diplomatic posts abroad, or for paying expenses related to Bureau of Administration of Department of State if a post was closed after Jan. 1, 1987, and not reopened, provided funding for certain consulates, provided exceptions for prohibition on use of appropriated funds, permitted Secretary of State, in case of a sequestration order, to submit a report proposing a list of consular posts to be downgraded or closed in order to comply with sequestration order, and provided that the prohibitions were to be effective 180 days after Dec. 22, 1987, prior to repeal by Pub. L. 102–138, title I, § 112(b), Oct. 28, 1991, 105 Stat. 655. See [section 2720 of this title](./chapter-038-department-of-state.md#section-2720).
 
 #### Closing of Diplomatic and Consular Posts in Antigua and Barbuda
-Pub. L. 100–204, title I, § 123, Dec. 22, 1987, 101 Stat. 1339, directed that none of the funds made available for the Department of State for any fiscal year be used for expenses of maintaining a United States diplomatic or consular post in Antigua and Barbuda and provided that such prohibition take effect 60 days after Dec. 22, 1987, unless the President made a determination that such closing would not be in the national security interest of the United States and informed both the Chairman of the Senate Foreign Relations Committee and the House Foreign Affairs Committee of such determination, prior to repeal by Pub. L. 101–246, title I, § 121, Feb. 16, 1990, 104 Stat. 27.
-
-#### Closure of Mission in Antigua and Barbuda Not in United States Interests
-Determination of President of the United States, No. 88–9, Feb. 9, 1988, 53 F.R. 5749, provided:
-
-Memorandum for the Secretary of State
-
-In accordance with Section 123 of the Foreign Relations Authorization Act, Fiscal Years 1988 and 1989 (Public Law 100–204) [set out above], I have determined that closure of the U.S. Diplomatic and Consular Mission in Antigua and Barbuda is not in the national security interests of the United States.
-
-You are hereby authorized and directed to report this determination to the Congress, as required by law. This determination shall be published in the Federal Register.
-
-Ronald Reagan.
+Pub. L. 100–204, title I, § 123, Dec. 22, 1987, 101 Stat. 1339, directed that none of the funds made available for the Department of State for any fiscal year be used for expenses of maintaining a United States diplomatic or consular post in Antigua and Barbuda and provided that such prohibition take effect 60 days after Dec. 22, 1987, unless the President made a determination that such closing would not be in the national security interest of the United States and informed both the Chairman of the Senate Foreign Relations Committee and the House Foreign Affairs Committee of such determination, prior to repeal by Pub. L. 101–246, title I, § 121, Feb. 16, 1990, 104 Stat. 27. Such a determination had been made by Determination of President of the United States, No. 88–9, Feb. 9, 1988, 53 F.R. 5749.
 
 #### Assignment of Drug Enforcement Administration Agents Abroad
 Pub. L. 100–204, title VIII, § 801, Dec. 22, 1987, 101 Stat. 1397, provided that: “If the Secretary of State, in exercising his authority to establish overseas staffing levels for Federal agencies with activities abroad, authorizes the assignment of any Drug Enforcement Administration agent to a particular United States mission abroad, the Secretary shall authorize the assignment of at least two such agents to that mission.”
@@ -758,6 +822,9 @@ Pub. L. 95–426, title VI, § 603, Oct. 7, 1978, 92 Stat. 985, as amended by Pu
 
 #### Diplomatic Relations With Foreign Government Not Indication of Approval of Such Government
 Pub. L. 95–426, title VI, § 607, Oct. 7, 1978, 92 Stat. 988, provided that: “The Congress finds that the conduct of diplomatic relations with a foreign government has as its principal purpose the discussion and negotiation with that government of outstanding issues and, like the recognition of a foreign government, does not in itself imply approval of that government or of the political-economic system it represents.”
+
+#### Delegation of Functions
+Functions of President respecting certain facilities constructed and maintained on United States borders delegated to Secretary of State, see Ex. Ord. No. 11423, Aug. 16, 1968, 33 F.R. 11741, set out as a note under [section 301 of Title 3](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title3-section301&num=0&edition=prelim), The President.
 
 #### Executive Order No. 13584
 Ex. Ord. No. 13584, Sept. 9, 2011, 76 F.R. 56945, which related to developing an integrated strategic counterterrorism communications initiative and establishing a temporary organization to support certain government-wide communications activities directed abroad, was revoked by Ex. Ord. No. 13721, § 2, Mar. 17, 2016, 81 F.R. 14685, set out below.
@@ -832,6 +899,17 @@ Sec. 7. General Provisions. (a) Nothing in this order shall be construed to impa
 (c) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
 
 Barack Obama.
+
+#### Presidential Certification Authorizing Security Assistance to East Timor
+Determination of President of the United States, No. 2003–19, Mar. 28, 2003, 68 F.R. 16167, provided:
+
+Memorandum for the Secretary of State
+
+Pursuant to the authority vested in me by the Constitution and laws of the United States, including section 637(b)(2) of the Foreign Relations Authorization Act, Fiscal Year 2003 [Pub. L. 107–228, § 637(b)(2), set out above], I hereby certify that East Timor has established an independent armed forces; and that the provision to East Timor of military assistance in the form of excess defense articles and international military education and training is in the national security interests of the United States, and will promote both human rights in East Timor and the professionalization of the armed forces of East Timor.
+
+You are hereby authorized and directed to report this certification, accompanying memorandum of justification [not set out in the Code], and report on East Timor security assistance to the Congress, and to arrange for the publication of this memorandum in the Federal Register.
+
+George W. Bush.
 
 
 <a id="section-2656a"></a>
@@ -1232,6 +1310,100 @@ Except as otherwise provided, Secretary of State to have and exercise any author
 Committee on International Relations of House of Representatives changed to Committee on Foreign Affairs of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
 
 
+<a id="section-2656j"></a>
+## § 2656j. Countering white identity terrorism globally
+**(a) Strategy and coordination** Not later than six months after January 1, 2021, the Secretary of State shall—
+
+(1) develop and submit to the Committee on Foreign Affairs of the House of Representatives and the Committee on Foreign Relations of the Senate a Department of State-wide strategy entitled the “Department of State Strategy for Countering White Identity Terrorism Globally” (in this section referred to as the “strategy”); and
+
+(2) designate the Coordinator for Counterterrorism of the Department to coordinate Department efforts to counter white identity terrorism globally, including with United States diplomatic and consular posts, the Director of the National Counterterrorism Center, the Director of the Central Intelligence Agency, the Attorney General, the Director of National Intelligence, the Secretary of Homeland Security, the Director of the Federal Bureau of Investigation, the Secretary of the Treasury, and the heads of any other relevant Federal departments or agencies.
+
+**(b) Elements** The strategy shall at a minimum contain the following:
+
+(1) An assessment of the global threat from white identity terrorism abroad, including geographic or country prioritization based on the assessed threat to the United States.
+
+(2) A description of the coordination mechanisms between relevant bureaus and offices within the Department of State, as well as with United States diplomatic and consular posts, for developing and implementing efforts to counter white identity terrorism.
+
+(3) A description of how the Department plans to build on any existing strategy developed by the Bureau for Counterterrorism to—
+
+  (A) adapt or expand existing Department programs, projects, activities, or policy instruments based on existing authorities for the specific purpose of degrading and delegitimizing the white identity terrorist movement globally; and
+
+  (B) identify the need for any new Department programs, projects, activities, or policy instruments for the specific purpose of degrading and delegitimizing the white identity terrorist movement globally, including a description of the steps and resources necessary to establish any such programs, projects, activities, or policy instruments, noting whether such steps would require new authorities.
+
+(4) Detailed plans for using public diplomacy, including the efforts of the Secretary of State and other senior Executive Branch officials, including the President, to degrade and delegitimize white identity terrorist ideologues and ideology globally, including by—
+
+  (A) countering white identity terrorist messaging and supporting efforts to redirect potential supporters away from white identity terrorist content online;
+
+  (B) exposing foreign government support for white identity terrorist ideologies, objectives, ideologues, networks, organizations, and internet platforms;
+
+  (C) engaging with foreign governments and internet service providers and other relevant technology entities, to prevent or limit white identity terrorists from exploiting internet platforms in furtherance of or in preparation for acts of terrorism or other targeted violence, as well as the recruitment, radicalization, and indoctrination of new adherents to white identity terrorism; and
+
+  (D) identifying the roles and responsibilities for the Office of the Under Secretary for Public Affairs and Public Diplomacy and the Global Engagement Center in developing and implementing such plans.
+
+(5) An outline of steps the Department is taking or will take in coordination, as appropriate, with the Director of the National Counterterrorism Center, the Director of the Central Intelligence Agency, the Attorney General, the Director of National Intelligence, the Secretary of Homeland Security, the Director of the Federal Bureau of Investigation, the Secretary of the Treasury, and the heads of any other relevant Federal departments or agencies to improve information and intelligence sharing with other countries on white identity terrorism based on existing authorities by—
+
+  (A) describing plans for adapting or expanding existing mechanisms for sharing information, intelligence, or counterterrorism best practices, including facilitating the sharing of information, intelligence, or counterterrorism best practices gathered by Federal, State, and local law enforcement; and
+
+  (B) proposing new mechanisms or forums that might enable expanded sharing of information, intelligence, or counterterrorism best practices.
+
+(6) An outline of how the Department plans to use designation as a Specially Designated Global Terrorist (under Executive Order No. 13224 ([50 U.S.C. 1701](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1701&num=0&edition=prelim) note)) and foreign terrorist organization (pursuant to [section 1189 of title 8](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1189&num=0&edition=prelim)) to support the strategy, including—
+
+  (A) an assessment and explanation of the utility of applying or not applying such designations when individuals or entities satisfy the criteria for such designations; and
+
+  (B) a description of possible remedies if such criteria are insufficient to enable designation of any individuals or entities the Secretary of State considers a potential terrorist threat to the United States.
+
+(7) A description of the Department’s plans, in consultation with the Department of the Treasury, to work with foreign governments, financial institutions, and other related entities to counter the financing of white identity terrorists within the parameters of current law, or if no such plans exist, a description of why.
+
+(8) A description of how the Department plans to implement the strategy in conjunction with ongoing efforts to counter the Islamic State, al-Qaeda, and other terrorist threats to the United States.
+
+(9) A description of how the Department will integrate into the strategy lessons learned in the ongoing efforts to counter the Islamic State, al-Qaeda, and other terrorist threats to the United States.
+
+(10) A identification of any additional resources or staff needed to implement the strategy.
+
+**(c) Interagency coordination** The Secretary of State shall develop the strategy in coordination with the Director of the National Counterterrorism Center and in consultation with the Director of the Central Intelligence Agency, the Attorney General, the Director of National Intelligence, the Secretary of Homeland Security, the Director of the Federal Bureau of Investigation, the Secretary of the Treasury, and the heads of any other relevant Federal departments or agencies.
+
+**(d) Stakeholder inclusion** The strategy shall be developed in consultation with representatives of United States and international civil society and academic entities with experience researching or implementing programs to counter white identity terrorism.
+
+**(e) Form** The strategy shall be submitted in unclassified form that can be made available to the public, but may include a classified annex if the Secretary of State determines such is appropriate.
+
+**(f) Implementation** Not later than three months after the submission of the strategy, the Secretary of State shall begin implementing the strategy.
+
+**(g) Consultation** Not later than 90 days after January 1, 2021, and not less often than annually thereafter, the Secretary of State shall consult with the Committee on Foreign Affairs of the House of Representatives and the Committee on Foreign Relations of the Senate regarding the development and implementation of the strategy.
+
+**(h) Country reports on terrorism** The Secretary of State shall incorporate all credible information about white identity terrorism, including regarding relevant attacks, the identification of perpetrators and victims of such attacks, the size and identification of organizations and networks, and the identification of notable ideologues, in the annual country reports on terrorism submitted pursuant to [section 2656f of this title](./chapter-038-department-of-state.md#section-2656f).
+
+**(i) Report on sanctions**
+
+(1) **In general** — Not later than 120 days and again 240 days after the submission of each annual country report on terrorism submitted pursuant to [section 2656f of this title](./chapter-038-department-of-state.md#section-2656f), as modified in accordance with subsection (h), the President shall submit to the Committee on Foreign Affairs of the House of Representatives and the Committee on Foreign Relations of the Senate a report that determines whether the foreign persons, organizations, and networks identified in such annual country reports on terrorism as so modified, satisfy the criteria to be designated as—
+
+  (A) foreign terrorist organizations under [section 1189 of title 8](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1189&num=0&edition=prelim); or
+
+  (B) Specially Designated Global Terrorist under Executive Order No. 13224 ([50 U.S.C. 1701](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1701&num=0&edition=prelim) note).
+
+(2) **Form** — Each determination required under paragraph (1) shall be submitted in unclassified form, but may include a classified annex, if appropriate.
+
+**(j) Requirement for Independent study to map the global white identity terrorism movement**
+
+(1) **In general** — Not later than 60 days after January 1, 2021, the Secretary of State shall enter into a contract with a federally funded research and development center with appropriate expertise and analytical capability to carry out the study described in paragraph (2).
+
+(2) **Study** — The study described in this paragraph shall provide for a comprehensive social network analysis of the global white identity terrorism movement to—
+
+  (A) identify key actors, organizations, and supporting infrastructure; and
+
+  (B) map the relationships and interactions between such actors, organizations, and supporting infrastructure.
+
+(3) **Report**
+
+  (A) *To the Secretary* — Not later than one year after the date on which the Secretary of State enters into a contract pursuant to paragraph (1), the federally funded research and development center referred to in such subsection that has entered into such contract with the Secretary shall submit to the Secretary a report containing the results of the study required under this section.
+
+  (B) *To Congress* — Not later than 30 days after receipt of the report under subparagraph (A), the Secretary of State shall submit to the Committee of Foreign Affairs of the House of Representatives and the Committee on Foreign Relations of the Senate such report, together with any additional views or recommendations of the Secretary.
+
+### Statutory Notes
+
+#### References in Text
+Executive Order No. 13224, referred to in subsecs. (b)(6) and (i)(1)(B), is Ex. Ord. No. 13224, Sept. 23, 2001, 66 F.R. 49079, which is listed in a table under [section 1701 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1701&num=0&edition=prelim), War and National Defense.
+
+
 <a id="section-2657"></a>
 ## § 2657. Custody of seals and property
 
@@ -1290,9 +1462,10 @@ Provisions of R.S. § 210, act June 20, 1874, and 1950 Reorg. Plan No. 20, cited
 “Director of the Government Publishing Office” substituted for “Public Printer” in text on authority of section 1301(d) of Pub. L. 113–235, set out as a note under [section 301 of Title 44](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section301&num=0&edition=prelim), Public Printing and Documents.
 
 #### Transfer of Functions
-Reorg. Plan No. 20 of 1950, set out in the Appendix to Title 5, Government Organization and Employees, transferred various functions of Secretary of State to Administrator of General Services but excepted from transfer the functions of Secretary of State with respect to treaties and other international agreements under R.S. § 210, as amended (this section).
-
 “United States Postal Service” substituted in text for “Postmaster General” pursuant to section 4(a) of Pub. L. 91–375, set out as a note under [section 201 of Title 39](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title39-section201&num=0&edition=prelim), Postal Service, which abolished office of Postmaster General of Post Office Department and transferred its functions to United States Postal Service.
+
+#### Transfer of Functions
+Reorg. Plan No. 20 of 1950, set out in the Appendix to Title 5, Government Organization and Employees, transferred various functions of Secretary of State to Administrator of General Services but excepted from transfer the functions of Secretary of State with respect to treaties and other international agreements under R.S. § 210, as amended (this section).
 
 
 <a id="section-2661"></a>
@@ -1353,6 +1526,9 @@ In fiscal year 2001 and thereafter reimbursements for services provided to the p
 
 #### References in Text
 This appropriation, referred to in text, probably means appropriations under the headings “DEPARTMENT OF STATE”, “Administration of Foreign Affairs”, and “diplomatic and consular programs” of the annual Department of State and Related Agency Appropriations Act.
+
+#### References to Diplomatic and Consular Programs Account
+References to the Diplomatic and Consular Programs account to be construed to include the Diplomatic Programs account in fiscal year 2020 and each fiscal year thereafter, see par. (7) of title I of div. G of Pub. L. 116–94, set out as a note under [section 2651 of this title](./chapter-038-department-of-state.md#section-2651).
 
 
 <a id="section-2662"></a>
@@ -1757,6 +1933,11 @@ Amendment by Pub. L. 103–236 applicable with respect to officials, offices, an
 #### Effective Date of 1978 Amendment
 Pub. L. 95–426, title I, § 108(b), Oct. 7, 1978, 92 Stat. 966, provided that: “The amendment made by this section [amending this section] shall take effect on October 1, 1978.”
 
+#### Providing Medical Services or Related Support in Response to Coronavirus Pandemic
+Pub. L. 116–136, div. B, title XI, § 21008, Mar. 27, 2020, 134 Stat. 592, provided that: “The Secretary of State, to prevent, prepare for, and respond to coronavirus, may exercise the authorities of section 3(j) of the State Department Basic Authorities Act of 1956 ([22 U.S.C. 2670(j)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2670/j&num=0&edition=prelim)) to provide medical services or related support for private United States citizens, nationals, and permanent resident aliens abroad, or third country nationals connected to such persons or to the diplomatic or development missions of the United States abroad, who are unable to obtain such services or support otherwise: Provided, That such assistance shall be provided on a reimbursable basis to the extent feasible: Provided further, That such reimbursements may be credited to the applicable Department of State appropriation and shall remain available until expended: Provided further, That the Secretary shall prioritize providing medical services or related support to individuals eligible for the health program under section 904 of the Foreign Service Act of 1980 ([22 U.S.C. 4084](./chapter-052-foreign-service.md#section-4084)): Provided further, That the authority made available pursuant to this section shall expire on September 30, 2022.”
+
+[For definition of “coronavirus” as used in section 21008 of Pub. L. 116–136, set out above, see section 23005 of Pub. L. 116–136, set out as a note under [section 162b of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section162b&num=0&edition=prelim), The Congress.]
+
 
 <a id="section-2671"></a>
 ## § 2671. Emergency expenditures
@@ -2142,6 +2323,101 @@ Pub. L. 92–226, title IV, § 407(a), Feb. 7, 1972, 86 Stat. 35, provided that:
 A prior section 2680a, acts Aug. 1, 1956, ch. 841, § 16, as added Oct. 26, 1974, Pub. L. 93–475, § 12, 88 Stat. 1442; amended Oct. 7, 1978, Pub. L. 95–426, title I, § 117, 92 Stat. 969, related to authority and responsibility of chiefs of mission, prior to repeal by Pub. L. 96–465, title II, § 2205(10), Oct. 17, 1980, 94 Stat. 2160. Repeal effective Feb. 15, 1981, except as otherwise provided, see section 2403 of Pub. L. 96–465, set out as an Effective Date note under [section 3901 of this title](./chapter-052-foreign-service.md#section-3901). See [section 3927 of this title](./chapter-052-foreign-service.md#section-3927).
 
 
+<a id="section-2680b"></a>
+## § 2680b. Special rules for certain monthly workers’ compensation payments and other payments for Department of State personnel under chief of mission authority
+**(a) Adjustment of compensation for certain injuries**
+
+(1) **Increase** — The Secretary of State or the head of any other Federal agency may pay an additional monthly monetary benefit, provided that the covered employee is receiving benefits under section 8105 or 8106 of title 5, and may determine the amount of each monthly monetary benefit amount by taking into account—
+
+  (A) the severity of the qualifying injury;
+
+  (B) the circumstances by which the covered employee became injured; and
+
+  (C) the seniority of the covered employee, particularly for purposes of compensating for lost career growth.
+
+(2) **Maximum** — Notwithstanding chapter 81 of title 5, the total amount of monthly compensation increased under paragraph (1) may not exceed the monthly pay of the maximum rate of basic pay for GS–15 of the General Schedule under section 5332 of such title.
+
+**(b) Costs for treating qualifying injuries** The Secretary of State may pay the costs of or reimburse for diagnosing and treating—
+
+(1) a qualifying injury of a covered employee for such costs, that are not otherwise covered by chapter 81 of title 5 or other provision of Federal law; or
+
+(2) a covered individual, or a covered dependent, for such costs that are not otherwise covered by Federal law.
+
+**(c) Information exchange** To avoid duplicate or otherwise improper payments under this subsection, the Secretary of Labor, the Secretary of State, and, as appropriate, the head of any other Federal agency paying benefits under this section shall exchange information about the amounts paid for treatment of qualifying injuries.
+
+**(d) Regulations** Not later than 120 days after December 20, 2019, the Secretary of State shall—
+
+(1) prescribe regulations ensuring the fair and equitable implementation of this section; and
+
+(2) submit to the Committee on Foreign Relations of the Senate and the Committee on Foreign Affairs of the House of Representatives such regulations.
+
+**(e) Definitions** In this section:
+
+(1) **Covered dependent** — The term “covered dependent” means a family member (as defined by the Secretary of State) of a 11 So in original. Probably should be “an”. employee who, on or after January 1, 2016—
+
+  (A) accompanies the employee to an assigned duty station in a foreign country under chief of mission authority; and
+
+  (B) becomes injured by reason of a qualifying injury.
+
+(2) **Covered employee** — The term “covered employee” means an employee of the Federal Government who, on or after January 1, 2016, becomes injured by reason of a qualifying injury and was assigned to a duty station in the Republic of Cuba, the People’s Republic of China, or another foreign country designated by the Secretary of State pursuant to subsection (f), but does not include an individual receiving compensation under [section 3519b of title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3519b&num=0&edition=prelim).
+
+(3) **Covered individual** — The term “covered individual” means an individual who, on or after January 1, 2016, becomes injured by reason of a qualifying injury and is—
+
+  (A) detailed to a duty station in the Republic of Cuba, the People’s Republic of China, or another foreign country designated by the Secretary of State pursuant to subsection (f); or
+
+  (B) affiliated with the Department of State, as determined by the Secretary of State.
+
+(4) **Qualifying injury** — The term “qualifying injury” means the following:
+
+  (A) With respect to a covered dependent, an injury incurred—
+
+    (i) during a period in which the covered dependent is accompanying an employee to an assigned duty station in the Republic of Cuba, the People’s Republic of China, or another foreign country designated by the Secretary of State pursuant to subsection (f);
+
+    (ii) in connection with war, insurgency, hostile act, terrorist activity, or other incident designated by the Secretary of State; and
+
+    (iii) that was not the result of the willful misconduct of the covered dependent.
+
+  (B) With respect to a covered employee or a covered individual, an injury incurred—
+
+    (i) during a period of assignment to a duty station in the Republic of Cuba, the People’s Republic of China, or another country designated by the Secretary of State pursuant to subsection (f);
+
+    (ii) in connection with war, insurgency, hostile act, terrorist activity, or other incident designated by the Secretary of State; and
+
+    (iii) that was not the result of the willful misconduct of the covered employee or the covered individual.
+
+**(f) Designation by the Secretary of State of another foreign country or duty station** The Secretary of State may designate another foreign country for the purposes of this section, provided that the Secretary reports such designation to the Committee on Foreign Relations of the Senate and the Committee on Foreign Affairs of the House of Representatives, and includes in such report a rationale for each such designation. The Secretary of State may not designate an added foreign country or duty station for purposes of providing additional monetary benefit pursuant to subsection (a) or (b) for a qualifying injury to covered employees, covered dependents, or covered individuals under this section unless the Secretary of State—
+
+(1) provides to the Committees on Foreign Relations of the Senate and the Committee on Foreign Affairs of the House of Representatives 30 days’ notice of the designation of a particular additional country or duty station and the rationale for such addition; and
+
+(2) provides no such additional monetary benefit pursuant to subsection (a) or (b) to covered employees, covered dependents, or covered individuals for a qualifying injury until the 30-day notice period expires, unless there is written agreement by both the Chair and Ranking Members of both the Committee on Foreign Relations of the Senate and the Committee on Foreign Affairs of the House of Representatives that there is no objection to proceeding with provision of such monetary benefit compensation in less than 30 days.
+
+**(g) Treatment of amounts** For purposes of [section 104 of title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section104&num=0&edition=prelim), amounts paid pursuant to this section shall be treated as amounts described in subsection (a)(5) of such section.
+
+**(h) Application**
+
+(1) **In general** — This section shall apply with respect to—
+
+  (A) payments made to covered employees (as defined in such section) under section 8105 or 8106 of title 5 beginning on or after January 1, 2016; and
+
+  (B) diagnosis or treatment described in subsection (b) occurring on or after January 1, 2016.
+
+(2) **Rule of construction** — Nothing in this section shall limit, modify, or otherwise supersede chapter 81 of title 5, the Defense Base Act ([42 U.S.C. 1651](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1651&num=0&edition=prelim) et seq.), or [section 3519b of title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3519b&num=0&edition=prelim). Monetary benefits and treatment expenses paid under this section shall not be considered payments under any workers’ compensation law.
+
+### Statutory Notes
+
+#### References in Text
+The Defense Base Act, referred to in subsec. (h)(2), is act Aug. 16, 1941, ch. 357, 55 Stat. 622, which is classified generally to chapter 11 (§ 1651 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 1651 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1651&num=0&edition=prelim) and Tables.
+
+#### Amendments
+2021—Subsec. (a)(1). Pub. L. 116–283, § 1110(1), inserted “or the head of any other Federal agency” after “The Secretary of State” in introductory provisions.
+
+Subsec. (c). Pub. L. 116–283, § 1110(2), substituted “, the Secretary of State, and, as appropriate, the head of any other Federal agency paying benefits under this section” for “and the Secretary of State”.
+
+Subsec. (e)(2). Pub. L. 116–283, § 1110(3), substituted “the Federal Government” for “the Department of State” and inserted “, but does not include an individual receiving compensation under [section 3519b of title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3519b&num=0&edition=prelim)” before period at end.
+
+Subsec. (h)(2). Pub. L. 116–283, § 1110(4), substituted “Nothing in this section shall limit, modify, or otherwise supersede chapter 81 of title 5, the Defense Base Act ([42 U.S.C. 1651](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1651&num=0&edition=prelim) et seq.), or [section 3519b of title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3519b&num=0&edition=prelim).” for “Nothing in this section shall modify or otherwise supersede chapter 81 of title 5 or chapter 11 of title 42.”
+
+
 <a id="section-2680-1"></a>
 ## § 2680–1. Deadline for responses to questions from congressional committees
 **(a) In general** An officer or employee of the Department of State to whom a written or oral question is addressed by any member of a committee specified in subsection (b), acting within his official capacity, shall respond to such question within 21 days unless the Secretary of State submits a letter to such member explaining why a timely response cannot be made.
@@ -2417,6 +2693,9 @@ Pub. L. 105–277, § 1225(f), substituted “and the Agency for International D
 
 1991—Pub. L. 102–138 inserted section catchline, designated existing provisions as subsec. (a) and inserted heading, and added subsec. (b).
 
+#### Change of Name
+Broadcasting Board of Governors renamed United States Agency for Global Media pursuant to [section 6204(a)(22) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section6204/a/22&num=0&edition=prelim). The renaming was effectuated by notice to congressional appropriations committees dated May 24, 2018, and became effective Aug. 22, 2018.
+
 #### Effective Date of 1998 Amendment
 Amendment by section 1225(f) of Pub. L. 105–277 effective Apr. 1, 1999, see section 1201 of Pub. L. 105–277, set out as an Effective Date note under [section 6511 of this title](./chapter-074-foreign-affairs-agencies-consolidation.md#section-6511).
 
@@ -2509,6 +2788,9 @@ Subsec. (d). Pub. L. 102–138, § 117(c), amended subsec. (d) generally. Prior 
 
 1982—Subsec. (b). Pub. L. 97–241, § 112(a), designated existing provision as par. (1), substituted provision authorizing appropriations to offset adverse fluctuations in foreign currency exchange rates and overseas wage and price changes which occur after Nov. 30 of the earlier of the calendar year which ended during the fiscal year preceding such fiscal year or the calendar year which preceded the calendar year during which the authorization of appropriations for such fiscal year was enacted, for provision authorizing appropriations to offset adverse fluctuations in foreign currency exchange rates occurring after Nov. 30 of the preceding fiscal year, and added pars. (2) to (6).
 
+#### References to Diplomatic and Consular Programs Account
+References to the Diplomatic and Consular Programs account to be construed to include the Diplomatic Programs account in fiscal year 2020 and each fiscal year thereafter. See par. (7) of title I of div. G of Pub. L. 116–94, set out as a note under [section 2651 of this title](./chapter-038-department-of-state.md#section-2651).
+
 #### Effective Date
 Pub. L. 96–60, title I, § 105(b), Aug. 15, 1979, 93 Stat. 396, provided that: “The amendment made by subsection (a) [enacting this section] shall take effect on October 1, 1979.”
 
@@ -2541,6 +2823,8 @@ Pub. L. 105–277, § 1335(l)(2), substituted “Broadcasting Board of Governors
 1987—Subsec. (b). Pub. L. 100–204 inserted “, but shall not be expended for representational purposes at United States missions except in accordance with the conditions that apply to appropriated funds” before period at end of last sentence.
 
 #### Change of Name
+Broadcasting Board of Governors renamed United States Agency for Global Media pursuant to [section 6204(a)(22) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section6204/a/22&num=0&edition=prelim). The renaming was effectuated by notice to congressional appropriations committees dated May 24, 2018, and became effective Aug. 22, 2018.
+
 “Director of the United States Information Agency” substituted for “Director of the International Communication Agency” in subsec. (f), pursuant to section 303(b) of Pub. L. 97–241, set out as a note under [section 1461 of this title](./chapter-018-united-states-information-and-educational-exchange-programs.md#section-1461).
 
 #### Effective Date of 1998 Amendment
@@ -2573,6 +2857,9 @@ Pub. L. 99–93, title I, § 130, Aug. 16, 1985, 99 Stat. 420, provided that: �
 Pub. L. 105–277, § 1335(l)(3), substituted “Broadcasting Board of Governors,” for “Director of the United States Information Agency, the chairman of the Board for International Broadcasting,” and “with respect to the Board and the Agency” for “with respect to their respective agencies”.
 
 1990—Subsec. (b). Pub. L. 101–246 substituted “United States Information Agency, the chairman of the Board for International Broadcasting,” for “International Communication Agency”.
+
+#### Change of Name
+Broadcasting Board of Governors renamed United States Agency for Global Media pursuant to [section 6204(a)(22) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section6204/a/22&num=0&edition=prelim). The renaming was effectuated by notice to congressional appropriations committees dated May 24, 2018, and became effective Aug. 22, 2018.
 
 #### Effective Date of 1998 Amendment
 Amendment by section 1335(l)(3) of Pub. L. 105–277 effective Oct. 1, 1999, see section 1301 of Pub. L. 105–277, set out as an Effective Date note under [section 6531 of this title](./chapter-074-foreign-affairs-agencies-consolidation.md#section-6531).
@@ -2715,6 +3002,9 @@ Pub. L. 105–277, § 1335(l)(4), substituted “the Broadcasting Board of Gover
 
 1984—Pub. L. 98–533 inserted “The authorities available to the Secretary of State under this section with respect to the Department of State shall be available to the Director of the United States Information Agency and the Director of the United States International Development Cooperation Agency with respect to their respective agencies, except that the authority of clause (2) shall be available with respect to those agencies only in the case of members of the Foreign Service and employees of the agency who are performing security-related functions abroad.”
 
+#### Change of Name
+Broadcasting Board of Governors renamed United States Agency for Global Media pursuant to [section 6204(a)(22) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section6204/a/22&num=0&edition=prelim). The renaming was effectuated by notice to congressional appropriations committees dated May 24, 2018, and became effective Aug. 22, 2018.
+
 #### Effective Date of 1998 Amendment
 Amendment by section 1335(l)(4) of Pub. L. 105–277 effective Oct. 1, 1999, see section 1301 of Pub. L. 105–277, set out as an Effective Date note under [section 6531 of this title](./chapter-074-foreign-affairs-agencies-consolidation.md#section-6531).
 
@@ -2797,6 +3087,9 @@ The Secretary may transfer to and merge with “Emergencies in the Diplomatic an
 #### References in Text
 Secretary, referred to in text, means the Secretary of State.
 
+#### References to Diplomatic and Consular Programs Account
+References to the Diplomatic and Consular Programs account to be construed to include the Diplomatic Programs account in fiscal year 2020 and each fiscal year thereafter, see par. (7) of title I of div. G of Pub. L. 116–94, set out as a note under [section 2651 of this title](./chapter-038-department-of-state.md#section-2651).
+
 
 <a id="section-2707"></a>
 ## § 2707. International communications and information policy; duties of Secretary of State
@@ -2855,7 +3148,7 @@ Pub. L. 100–204, title I, § 173(c), Dec. 22, 1987, 101 Stat. 1360, provided t
 
 (1) **In general** — There is established a program for the payment of rewards to carry out the purposes of this section.
 
-(2) **Purpose** — The rewards program shall be designed to assist in the prevention of acts of international terrorism, international narcotics trafficking, serious violations of international humanitarian law, transnational organized crime, and other related criminal acts.
+(2) **Purpose** — The rewards program shall be designed to assist in the prevention of acts of international terrorism, international narcotics trafficking, serious violations of international humanitarian law, foreign election interference, transnational organized crime, and other related criminal acts.
 
 (3) **Implementation** — The rewards program shall be administered by the Secretary of State, in consultation, as appropriate, with the Attorney General.
 
@@ -2879,7 +3172,7 @@ Pub. L. 100–204, title I, § 173(c), Dec. 22, 1987, 101 Stat. 1360, provided t
 
 (4) the arrest or conviction in any country of any individual aiding or abetting in the commission of an act described in paragraph (1), (2), (3), (8), (9), or (10);
 
-(5) the prevention, frustration, or favorable resolution of an act described in paragraph (1), (2), (3), (8), (9), or (10), including by dismantling an organization in whole or significant part;
+(5) the prevention, frustration, or favorable resolution of an act described in paragraph (1), (2), (3), (8), (9), (10), or (13), including by dismantling an organization in whole or significant part;
 
 (6) the identification or location of an individual who holds a key leadership position in a terrorist organization or transnational organized crime group;
 
@@ -2895,9 +3188,11 @@ Pub. L. 100–204, title I, § 173(c), Dec. 22, 1987, 101 Stat. 1360, provided t
 
 (10) the arrest or conviction in any country, or the transfer to or conviction by an international criminal tribunal (including a hybrid or mixed tribunal), of any foreign national accused of war crimes, crimes against humanity, or genocide (including war crimes, crimes against humanity, or genocide committed in Syria beginning in March 2011), as defined under the statute of such tribunal;
 
-(11) the identification or location of any person who, while acting at the direction of or under the control of a foreign government, aids or abets a violation of [section 1030 of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section1030&num=0&edition=prelim); or
+(11) the identification or location of any person who, while acting at the direction of or under the control of a foreign government, aids or abets a violation of [section 1030 of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section1030&num=0&edition=prelim);
 
-(12) the disruption of financial mechanisms of any person who has engaged in the conduct described in sections 11 So in original. Probably should be “section”. 2914(a) or 2914(b)(1) of this title.
+(12) the disruption of financial mechanisms of any person who has engaged in the conduct described in section 2914(a) or 2914(b)(1) of this title; or
+
+(13) the identification or location of a foreign person that knowingly engaged or is engaging in foreign election interference.
 
 **(c) Coordination**
 
@@ -2964,11 +3259,31 @@ Pub. L. 100–204, title I, § 173(c), Dec. 22, 1987, 101 Stat. 1360, provided t
 
   (A) any act substantially contributing to the acquisition of unsafeguarded special nuclear material (as defined in paragraph (8) of [section 6305 of this title](./chapter-072-nuclear-proliferation-prevention.md#section-6305)) or any nuclear explosive device (as defined in paragraph (4) of that section) by an individual, group, or non-nuclear-weapon state (as defined in paragraph (5) of that section); and
 
-  (B) any act, as determined by the Secretary, which materially supports the conduct of international terrorism, including the counterfeiting of United States currency or the illegal use of other monetary instruments by an individual, group, or country supporting international terrorism as determined for purposes of section 4605(j)(1)(A) 22 See References in Text note below. of title 50.
+  (B) any act, as determined by the Secretary, which materially supports the conduct of international terrorism, including the counterfeiting of United States currency or the illegal use of other monetary instruments by an individual, group, or country supporting international terrorism as determined for purposes of section 4605(j)(1)(A) 11 See References in Text note below. of title 50.
 
 (2) **Appropriate congressional committees** — The term “appropriate congressional committees” means the Committee on Foreign Affairs of the House of Representatives and the Committee on Foreign Relations of the Senate.
 
-(3) **Member of the immediate family** — The term “member of the immediate family”, with respect to an individual, includes—
+(3) **Foreign person** — The term “foreign person” means—
+
+  (A) an individual who is not a United States person; or
+
+  (B) a foreign entity.
+
+(4) **Foreign election interference** — The term “foreign election interference” means conduct by a foreign person that—
+
+  (A)
+
+    (i) violates Federal criminal, voting rights, or campaign finance law; or
+
+    (ii) is performed by any person acting as an agent of or on behalf of, or in coordination with, a foreign government or criminal enterprise; and
+
+  (B) includes any covert, fraudulent, deceptive, or unlawful act or attempted act, or knowing use of information acquired by theft, undertaken with the specific intent to significantly influence voters, undermine public confidence in election processes or institutions, or influence, undermine confidence in, or alter the result or reported result of, a general or primary Federal, State, or local election or caucus, including—
+
+    (i) the campaign of a candidate; or
+
+    (ii) a ballot measure, including an amendment, a bond issue, an initiative, a recall, a referral, or a referendum.
+
+(5) **Member of the immediate family** — The term “member of the immediate family”, with respect to an individual, includes—
 
   (A) a spouse, parent, brother, sister, or child of the individual;
 
@@ -2976,9 +3291,9 @@ Pub. L. 100–204, title I, § 173(c), Dec. 22, 1987, 101 Stat. 1360, provided t
 
   (C) any person not covered by subparagraph (A) or (B) who is living in the individual’s household and is related to the individual by blood or marriage.
 
-(4) **Rewards program** — The term “rewards program” means the program established in subsection (a)(1).
+(6) **Rewards program** — The term “rewards program” means the program established in subsection (a)(1).
 
-(5) **Transnational organized crime** — The term “transnational organized crime”—
+(7) **Transnational organized crime** — The term “transnational organized crime”—
 
   (A) means—
 
@@ -2986,15 +3301,15 @@ Pub. L. 100–204, title I, § 173(c), Dec. 22, 1987, 101 Stat. 1360, provided t
 
     (ii) any other criminal offense punishable by a term of imprisonment of at least four years under Federal, State, or local law that involves at least one jurisdiction outside the United States and that is intended to obtain, directly or indirectly, a financial or other material benefit; and
 
-  (B) includes severe forms of trafficking in persons (as defined in [section 7102 of this title](./chapter-078-trafficking-victims-protection.md#section-7102)) involving at least 1 jurisdiction outside of the United States.
+  (B) includes wildlife trafficking (as defined by [section 7601(12) of title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section7601/12&num=0&edition=prelim)) and severe forms of trafficking in persons (as defined in [section 7102 of this title](./chapter-078-trafficking-victims-protection.md#section-7102)) involving at least 1 jurisdiction outside of the United States.
 
-(6) **Transnational organized crime group** — The term “transnational organized crime group” means a group of persons that includes one or more citizens of a foreign country, exists for a period of time, and acts in concert with the aim of engaging in transnational organized crime.
+(8) **Transnational organized crime group** — The term “transnational organized crime group” means a group of persons that includes one or more citizens of a foreign country, exists for a period of time, and acts in concert with the aim of engaging in transnational organized crime.
 
-(7) **United States narcotics laws** — The term “United States narcotics laws” means the laws of the United States for the prevention and control of illicit trafficking in controlled substances (as such term is defined in [section 802(6) of title 21](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section802/6&num=0&edition=prelim)).
+(9) **United States narcotics laws** — The term “United States narcotics laws” means the laws of the United States for the prevention and control of illicit trafficking in controlled substances (as such term is defined in [section 802(6) of title 21](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section802/6&num=0&edition=prelim)).
 
-(8) **United States person** — The term “United States person” means—
+(10) **United States person** — The term “United States person” means—
 
-  (A) a citizen or national of the United States; and
+  (A) a citizen or national of the United States; or
 
   (B) an alien lawfully present in the United States.
 
@@ -3009,6 +3324,22 @@ Section 102 of the Foreign Relations Authorization Act, Fiscal Years 1986 and 19
 A prior section 36 of act Aug. 1, 1956, was renumbered section 37 by section 102 of Pub. L. 98–533, and subsequently renumbered, and set out as a Short Title of 1956 Amendment note under [section 2651 of this title](./chapter-038-department-of-state.md#section-2651), prior to repeal by Pub. L. 102–138, title I, § 111(1), Oct. 28, 1991, 105 Stat. 654.
 
 #### Amendments
+2021—Subsec. (a)(2). Pub. L. 116–283, § 1238(1), inserted “foreign election interference,” before “transnational organized crime”.
+
+Subsec. (b)(5). Pub. L. 116–283, § 1238(2)(A), substituted “(10), or (13)” for “or (10)”.
+
+Subsec. (b)(11). Pub. L. 116–283, § 1238(2)(B), struck out “or” after semicolon at end.
+
+Subsec. (b)(12). Pub. L. 116–283, § 1238(2)(C), substituted “section” for “sections” and “; or” for period at end and made technical amendment to reference in original act which appears in text as reference to [section 2914(b)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2914/b/1&num=0&edition=prelim).
+
+Subsec. (b)(13). Pub. L. 116–283, § 1238(2)(D), added par. (13).
+
+Subsec. (k)(3) to (10). Pub. L. 116–283, § 1238(3)(A), (B), added pars. (3) and (4) and redesignated former pars. (3) to (8) as (5) to (10), respectively.
+
+Subsec. (k)(10)(A). Pub. L. 116–283, § 1238(3)(C), substituted “United States; or” for “United States; and”.
+
+2019—Subsec. (k)(5)(B). Pub. L. 116–94 inserted “wildlife trafficking (as defined by [section 7601(12) of title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section7601/12&num=0&edition=prelim)) and” after “includes”.
+
 2018—Subsec. (b)(10). Pub. L. 115–232 inserted “(including war crimes, crimes against humanity, or genocide committed in Syria beginning in March 2011)” after “genocide”.
 
 Subsec. (k)(5). Pub. L. 115–141 inserted dash after “crime’ ” in introductory provisions, inserted subpar. (A) designation before “means—”, redesignated former subpars. (A) and (B) of par. (5) as cls. (i) and (ii), respectively, of subpar. (A) and realigned margins, substituted “; and” for period at end of subpar. (A)(ii), and added subpar. (B).
@@ -3105,6 +3436,8 @@ Amendment by section 827 of Pub. L. 103–236 effective 60 days after Apr. 30, 1
 Pub. L. 112–283, § 5, Jan. 15, 2013, 126 Stat. 2494, provided that: “Nothing in this Act [amending this section and enacting provisions set out as notes under this section and [section 2651 of this title](./chapter-038-department-of-state.md#section-2651)] or the amendments made by this Act shall be construed as authorizing the use of activity precluded under the American Servicemembers’ Protection Act of 2002 (title II of Public Law 107–206; [22 U.S.C. 7421](./chapter-081-international-criminal-court.md#section-7421) et seq.).”
 
 #### Findings; Sense of Congress
+Pub. L. 116–94, div. J, title VI, § 602, Dec. 20, 2019, 133 Stat. 3069, provided that: “(a) Findings.—Congress finds the following:“(1) Wildlife trafficking is a major transnational crime that is estimated to generate over $10 billion a year in illegal profits and which is increasingly perpetrated by organized, sophisticated criminal enterprises, including known terrorist organizations. “(2) Wildlife trafficking not only threatens endangered species worldwide, but also jeopardizes local security, spreads disease, undermines rule of law, fuels corruption, and damages economic development. “(3) Combating wildlife trafficking requires a coordinated and sustained approach at the global, regional, national, and local levels. “(4) Congress stated in the Eliminate, Neutralize, and Disrupt Wildlife Trafficking Act of 2016 [[16 U.S.C. 7601](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section7601&num=0&edition=prelim) et seq.] that it is the policy of the United States to take immediate actions to stop the illegal global trade in wildlife and wildlife products and associated transnational organized crime. “(b) Sense of Congress.—It is the sense of Congress that the Department of State’s rewards program is a powerful tool in combating sophisticated international crime and that the Department of State and Federal law enforcement should work in concert to offer rewards that target wildlife traffickers.”
+
 Pub. L. 115–141, div. R, § 2, Mar. 23, 2018, 132 Stat. 1123, provided that: “(a) Findings.—Congress finds the following:“(1) Trafficking in persons is a major transnational crime, as recognized by the Trafficking Victims Protection Act of 2000 ([22 U.S.C. 7101](./chapter-078-trafficking-victims-protection.md#section-7101) et seq.; division A of Public Law 106–386). “(2) Trafficking in persons is increasingly perpetrated by organized, sophisticated criminal enterprises. “(3) Combating trafficking in persons requires a global approach to identifying and apprehending the world’s worst human trafficking rings. “(b) Sense of Congress.—It is the sense of Congress that the Department of State’s rewards program is a powerful tool in combating sophisticated international crime and that the Department of State and Federal law enforcement should work in concert to offer rewards that target human traffickers who prey on the most vulnerable people around the world.”
 
 Pub. L. 112–283, § 2, Jan. 15, 2013, 126 Stat. 2492, provided that: “(a) Findings.—Congress makes the following findings:“(1) The Department of State’s existing rewards programs permit the payment of reward for information leading to the arrest or conviction of—“(A) individuals who have committed, or attempted or conspired to commit, certain acts of international terrorism; “(B) individuals who have committed, or attempted or conspired to commit, certain narcotics-related offenses; and “(C) individuals who have been indicted by certain international criminal tribunals. “(2) The Department of State considers the rewards program to be ‘one of the most valuable assets the U.S. Government has in the fight against international terrorism’. Since the program’s inception in 1984, the United States Government has rewarded over 60 people who provided actionable information that, according to the Department of State, prevented international terrorist attacks or helped convict individuals involved in terrorist attacks. “(3) The program has been credited with providing information in several high-profile cases, including the arrest of Ramzi Yousef, who was convicted in the 1993 bombing of the World Trade Center, the deaths of Uday and Qusay Hussein, who United States military forces located and killed in Iraq after receiving information about their locations, and the arrests or deaths of several members of the Abu Sayyaf group, believed to be responsible for the kidnappings and deaths of United States citizens and Filipinos in the Philippines. “(b) Sense of Congress.—It is the sense of Congress that the rewards program of the Department of State should be expanded in order to—“(1) address the growing threat to important United States interests from transnational criminal activity, such as intellectual property rights piracy, money laundering, trafficking in persons, arms trafficking, and cybercrime; and “(2) target other individuals indicted by international, hybrid, or mixed tribunals for genocide, war crimes, or crimes against humanity.”
@@ -3913,9 +4246,15 @@ Committee on International Relations of House of Representatives changed to Comm
 
 (2) **Head of Office**
 
-  (A) *Special Envoy for Monitoring and Combating anti-Semitism* — The head of the Office shall be the Special Envoy for Monitoring and Combating anti-Semitism (in this section referred to as the “Special Envoy”).
+  (A) *Special Envoy for Monitoring and Combating anti-Semitism* — The head of the Office shall be the Special Envoy for Monitoring and Combating anti-Semitism (in this section referred to as the “Special Envoy”), who shall be appointed by the President, by and with the advice and consent of the Senate. The Special Envoy shall report directly to the Secretary.
 
-  (B) *Appointment of head of Office* — The Secretary shall appoint the Special Envoy. If the Secretary determines that such is appropriate, the Secretary may appoint the Special Envoy from among officers and employees of the Department. The Secretary may allow such officer or employee to retain the position (and the responsibilities associated with such position) held by such officer or employee prior to the appointment of such officer or employee to the position of Special Envoy under this paragraph.
+  (B) *Nomination of head of Office* — If the President determines that such is appropriate, the President may nominate the Special Envoy from among officers and employees of the Department. Such officer or employee may not retain the position (or the responsibilities associated with such position) held by such officer or employee prior to the nomination of such officer or employee to the position of Special Envoy under this paragraph.
+
+(3) **Duties** — The Special Envoy shall serve as the primary advisor to, and coordinate efforts across, the United States Government relating to monitoring and combating anti-Semitism and anti-Semitic incitement that occur in foreign countries.
+
+(4) **Rank and status of ambassador** — The Special Envoy shall have the rank of ambassador.
+
+(5) **Qualifications** — The Special Envoy should be a person of recognized distinction in the field of combating anti-Semitism.
 
 **(b) Purpose of Office** Upon establishment, the Office shall assume the primary responsibility for—
 
@@ -3932,7 +4271,16 @@ Committee on International Relations of House of Representatives changed to Comm
 #### References in Text
 [Section 6412(b)(1)(A)(iv) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section6412/b/1/A/iv&num=0&edition=prelim), referred to in subsec. (b)(3), was redesignated [section 6412(b)(1)(A)(vii) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section6412/b/1/A/vii&num=0&edition=prelim) by Pub. L. 114–281, title I, § 102(a)(2)(B), Dec. 16, 2016, 130 Stat. 1429.
 
+#### Amendments
+2021—Subsec. (a)(2)(A). Pub. L. 116–326, § 3(1)(A), inserted at end “, who shall be appointed by the President, by and with the advice and consent of the Senate. The Special Envoy shall report directly to the Secretary.”
+
+Subsec. (a)(2)(B). Pub. L. 116–326, § 3(1)(B), substituted “Nomination” for “Appointment” in heading, “If the President determines that such is appropriate, the President may nominate” for “If the Secretary determines that such is appropriate, the Secretary may appoint” in second sentence, and “Such officer or employee may not retain the position (or the responsibilities associated with such position) held by such officer or employee prior to the nomination” for “The Secretary may allow such officer or employee to retain the position (and the responsibilities associated with such position) held by such officer or employee prior to the appointment” in third sentence, and struck out first sentence which read “The Secretary shall appoint the Special Envoy.
+
+Subsec. (a)(3) to (5). Pub. L. 116–326, § 3(2), added pars. (3) to (5).
+
 #### Findings
+Pub. L. 116–326, § 2, Jan. 13, 2021, 134 Stat. 5095, provided that: “Congress finds that, since the Global Anti-Semitism Review Act of 2004 (Public Law 108–332) was enacted, in many foreign countries acts of anti-Semitism have been frequent and wide in scope, the perpetrators and variety of threats to Jewish communities and their institutions have proliferated, and in some countries anti-Semitic attacks have increased in frequency, scope, violence, and deadliness.”
+
 Pub. L. 108–332, § 2, Oct. 16, 2004, 118 Stat. 1282, provided that: “Congress makes the following findings: “(1) Acts of anti-Semitism in countries throughout the world, including some of the world’s strongest democracies, have increased significantly in frequency and scope over the last several years. “(2) During the last 3 months of 2003 and the first 3 months of 2004, there were numerous instances of anti-Semitic violence around the world, including the following incidents:“(A) In Putrajaya, Malaysia, on October 16, 2003, former Prime Minister Mahatir Mohammad told the 57 national leaders assembled for the Organization of the Islamic Conference that Jews ‘rule the world by proxy’, and called for a ‘final victory’ by the world’s 1.3 billion Muslims, who, he said, ‘cannot be defeated by a few million Jews.’. “(B) In Istanbul, Turkey, on November 15, 2003, simultaneous car bombs exploded outside two synagogues filled with worshippers, killing 24 people and wounding more than 250 people. “(C) In Australia on January 5, 2004, poison was used to ignite, and burn anti-Semitic slogans into, the lawns of the Parliament House in the state of Tasmania. “(D) In St. Petersburg, Russia, on February 15, 2004, vandals desecrated approximately 50 gravestones in a Jewish cemetery, painting the stones with swastikas and anti-Semitic graffiti. “(E) In Toronto, Canada, over the weekend of March 19 through March 21, 2004, vandals attacked a Jewish school, a Jewish cemetery, and area synagogues, painting swastikas and anti-Semitic slogans on the walls of a synagogue and on residential property in a nearby, predominantly Jewish, neighborhood. “(F) In Toulon, France, on March 23, 2004, a Jewish synagogue and community center were set on fire. “(3) Anti-Semitism in old and new forms is also increasingly emanating from the Arab and Muslim world on a sustained basis, including through books published by government-owned publishing houses in Egypt and other Arab countries. “(4) In November 2002, state-run television in Egypt broadcast the anti-Semitic series entitled ‘Horseman Without a Horse’, which is based upon the fictitious conspiracy theory known as the Protocols of the Elders of Zion. The Protocols have been used throughout the last century by despots such as Adolf Hitler to justify violence against Jews. “(5) In November 2003, Arab television featured an anti-Semitic series, entitled ‘Ash-Shatat’ (or ‘The Diaspora’), which depicts Jewish people hatching a plot for Jewish control of the world. “(6) The sharp rise in anti-Semitic violence has caused international organizations such as the Organization for Security and Cooperation in Europe (OSCE) to elevate, and bring renewed focus to, the issue, including the convening by the OSCE in June 2003 of a conference in Vienna dedicated solely to the issue of anti-Semitism. “(7) The OSCE convened a conference again on April 28–29, 2004, in Berlin, to address the problem of anti-Semitism with the United States delegation led by former Mayor of New York City, Ed Koch. “(8) The United States Government has strongly supported efforts to address anti-Semitism through bilateral relationships and interaction with international organizations such as the OSCE, the European Union, and the United Nations. “(9) Congress has consistently supported efforts to address the rise in anti-Semitic violence. During the 107th Congress, both the Senate and the House of Representatives passed resolutions expressing strong concern with the sharp escalation of anti-Semitic violence in Europe and calling on the Department of State to thoroughly document the phenomenon. “(10) Anti-Semitism has at times taken the form of vilification of Zionism, the Jewish national movement, and incitement against Israel.”
 
 
@@ -3953,6 +4301,11 @@ Pub. L. 108–332, § 2, Oct. 16, 2004, 118 Stat. 1282, provided that: “Congre
 **(c) Objectives** The strategy developed pursuant to subsection (b) shall include public diplomacy efforts targeting developed and developing countries and select and general audiences, using appropriate media to properly explain the foreign policy of the United States to the governments and populations of such countries, with the objectives of increasing support for United States policies and providing news and information. The Secretary shall, through the most effective mechanisms, counter misinformation and propaganda concerning the United States. The Secretary shall continue to articulate the importance of freedom, democracy, and human rights as fundamental principles underlying United States foreign policy goals.
 
 **(d) Identification of United States foreign assistance** In cooperation with the United States Agency for International Development (USAID) and other public and private assistance organizations and agencies, the Secretary should ensure that information relating to foreign assistance provided by the United States, nongovernmental organizations, and private entities of the United States is disseminated widely, and particularly, to the extent practicable, within countries and regions that receive such assistance. The Secretary should ensure that, to the extent practicable, projects funded by USAID not involving commodities, including projects implemented by private voluntary organizations, are identified as provided by the people of the United States.
+
+### Statutory Notes
+
+#### Change of Name
+Broadcasting Board of Governors renamed United States Agency for Global Media pursuant to [section 6204(a)(22) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section6204/a/22&num=0&edition=prelim). The renaming was effectuated by notice to congressional appropriations committees dated May 24, 2018, and became effective Aug. 22, 2018.
 
 
 <a id="section-2733"></a>

@@ -75,7 +75,7 @@ Section effective Feb. 1, 1992, see section 1132 of Pub. L. 102–190, set out a
 
 (2) Warrant officers serving on the warrant officer active-duty list in the grade of warrant officer, W–1, shall be promoted to the grade of chief warrant officer, W–2, in accordance with regulations prescribed by the Secretary concerned. Such regulations shall require that an officer have served not less than 18 months on active duty in the grade of warrant officer, W–1, before promotion to the grade of warrant officer, W–2.
 
-**(b)** A selection board shall consist of five or more officers who are on the active-duty list of the same armed force as the warrant officers under consideration by the board. At least five members of a selection board must be serving in a permanent grade above major or lieutenant commander. The Secretary concerned may appoint warrant officers, senior in grade to those under consideration, as additional members of the selection board. If warrant officers are appointed members of the selection board and if competitive categories have been established by the Secretary under [section 574(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section574/b&num=0&edition=prelim), at least one must be appointed from each warrant officer competitive category under consideration by the board, unless there is an insufficient number of warrant officers in the competitive category concerned who are senior in grade to those under consideration and qualified, as determined by the Secretary concerned, to be appointed as additional members of the board.
+**(b)** A selection board shall consist of five or more officers who are on the active-duty list of the same armed force as the warrant officers under consideration by the board. At least five members of a selection board must be serving in a permanent grade above major or lieutenant commander. The Secretary concerned may appoint warrant officers, senior in grade to those under consideration, as additional members of the selection board. If warrant officers are appointed members of the selection board and if competitive categories have been established by the Secretary under [section 574(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section574/b&num=0&edition=prelim), at least one must be appointed from each warrant officer competitive category under consideration by the board, unless there is an insufficient number of warrant officers in the competitive category concerned who are senior in grade to those under consideration and qualified, as determined by the Secretary concerned, to be appointed as additional members of the board. The members of a selection board shall represent the diverse population of the armed force concerned to the extent practicable.
 
 **(c)** The Secretary concerned may convene selection boards to recommend regular warrant officers for continuation on active duty under [section 580 of this title](./chapter-33a-appointment-promotion-and-involuntary-separation-and-retirement-for-members-on-the-warrant-officer-active-duty-list.md#section-580) and for retirement under [section 581 of this title](./chapter-33a-appointment-promotion-and-involuntary-separation-and-retirement-for-members-on-the-warrant-officer-active-duty-list.md#section-581).
 
@@ -91,6 +91,8 @@ Section effective Feb. 1, 1992, see section 1132 of Pub. L. 102–190, set out a
 Provisions similar to those in this section were contained in [section 558 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section558&num=0&edition=prelim) prior to repeal by Pub. L. 102–190, § 1112(a).
 
 #### Amendments
+2021—Subsec. (b). Pub. L. 116–283 inserted at end “The members of a selection board shall represent the diverse population of the armed force concerned to the extent practicable.”
+
 1996—Subsec. (a)(2). Pub. L. 104–106 substituted “active-duty list” for “active duty list”.
 
 1994—Subsec. (a)(1). Pub. L. 103–337, § 541(b)(1)(A), substituted “Secretary concerned” for “Secretary of a military department”.
@@ -102,6 +104,9 @@ Amendment by Pub. L. 103–337 effective on the first day of the fourth month be
 
 #### Effective Date
 Section effective Feb. 1, 1992, see section 1132 of Pub. L. 102–190, set out as an Effective Date of 1991 Amendment note under [section 521 of this title](./chapter-032-officer-strength-and-distribution-in-grade.md#section-521).
+
+#### Other Selection Boards
+Pub. L. 116–283, div. A, title V, § 503(c), Jan. 1, 2021, 134 Stat. 3565, provided that: “(1) In general.—The Secretary of Defense shall ensure that the members of each selection board described in paragraph (2) represent the diverse population of the Armed Force concerned to the extent practicable. “(2) Selection board described.—A selection board described in this paragraph (1) is any selection board used with respect to the promotion, education, or command assignments of members of the Armed Forces that is not covered by the amendments made by this section [amending this section and sections 612 and 14102 of this title].”
 
 
 <a id="section-574"></a>

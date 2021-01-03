@@ -7,204 +7,290 @@ source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33&num=0&edition=prelim
 ---
 <a id="section-1601"></a>
-## § 1601. Definitions
+## § 1601. International law
 
-For the purposes of this chapter—
+Any action taken under this chapter shall be taken in accordance with international law.
 
-(1) “vessel” means every description of watercraft, including nondisplacement craft and seaplanes, used or capable of being used as a means of transportation on water; and
 
-(2) “high seas” means all parts of the sea that are not included in the territorial sea or in the internal waters of any nation.
+<a id="section-1602"></a>
+## § 1602. Compliance reports
+**(a) In general** Within 1 year after the effective date of this section, and triennially thereafter, the Secretary of the department in which the Coast Guard is operating, in consultation with the Secretary of Agriculture and the Secretary of Commerce, shall report to the Congress regarding compliance with Annex V to the International Convention for the Prevention of Pollution from Ships, 1973, in United States waters and, not later than 1 year after October 19, 1996, and annually thereafter, shall publish in the Federal Register a list of the enforcement actions taken against any domestic or foreign ship (including any commercial or recreational ship) pursuant to the Act to Prevent Pollution from Ships ([33 U.S.C. 1901](./chapter-033-prevention-of-pollution-from-ships.md#section-1901) et seq.).
+
+**(b) Report on inability to comply** Within 3 years after the effective date of this section, the head of each Federal agency that operates or contracts for the operation of any ship referred to in section 3(b)(1)(A) of the Act to Prevent Pollution from Ships [[33 U.S.C. 1902(b)(1)(A)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1902/b/1/A&num=0&edition=prelim)] that may not be able to comply with the requirements of that section shall report to the Congress describing—
+
+(1) the technical and operational impediments to achieving that compliance;
+
+(2) an alternative schedule for achieving that compliance as rapidly as is technologically feasible;
+
+(3) the ships operated or contracted for operation by the agency for which full compliance with section 3(b)(2)(A) [[33 U.S.C. 1902(b)(2)(A)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1902/b/2/A&num=0&edition=prelim)] is not technologically feasible; and
+
+(4) any other information which the agency head considers relevant and appropriate.
+
+**(c) Congressional action** Upon receipt of the compliance report under subsection (b), the Congress shall modify the applicability of Annex V to ships referred to in section 3(b)(1)(A) of the Act to Prevent Pollution from Ships [[33 U.S.C. 1902(b)(1)(A)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1902/b/1/A&num=0&edition=prelim)], as may be appropriate with respect to the requirements of Annex V to the Convention.
 
 ### Statutory Notes
 
 #### References in Text
-This chapter, referred to in opening par., was in the original “this Act”, meaning Pub. L. 95–75, July 27, 1977, 91 Stat. 308, known as the “International Navigational Rules Act of 1977”, which enacted this chapter, repealed sections 1051 to 1094 of this title, enacted provisions set out as notes under this section, and repealed provision set out as a note under [section 1051 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1051&num=0&edition=prelim).
+For effective date of this section, referred to in subsecs. (a) and (b), see section 2002 of Pub. L. 100–220, set out as an Effective Date of 1987 Amendment note under [section 1901 of this title](./chapter-033-prevention-of-pollution-from-ships.md#section-1901).
 
-#### Effective Date of International Regulations; Repeal of Former Regulations
-Pub. L. 95–75, § 10, July 27, 1977, 91 Stat. 311, provided in part that Pub. L. 88–131, enacting sections 1051 to 1094 of this title and a provision set out as a note under [section 1051 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1051&num=0&edition=prelim) which sections included the former International Regulations for Preventing Collisions at Sea, was repealed effective on the date on which the International Regulations [promulgated pursuant to this chapter] entered into force for the United States [July 15, 1977]. See Proclamation dated Jan. 19, 1977, set out as a note under [section 1602 of this title](./chapter-030-international-regulations-for-preventing-collisions-at-sea.md#section-1602).
+The Act to Prevent Pollution from Ships, referred to in subsec. (a), is Pub. L. 96–478, Oct. 21, 1980, 94 Stat. 2297, as amended, which is classified principally to this chapter (§ 1901 et seq.). For complete classification of this Act to the Code, see Short Title note set out under [section 1901 of this title](./chapter-033-prevention-of-pollution-from-ships.md#section-1901) and Tables.
 
-#### References to Former Regulations
-Pub. L. 95–75, § 10, July 27, 1977, 91 Stat. 311, provided in part that: “The reference in any other law to Public Law 88–131 [enacting sections 1051 to 1094 of this title and enacting a provision set out as a note under [section 1051 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1051&num=0&edition=prelim)], or to the regulations set forth in section 4 of that Act [sections 1061 to 1094 of this title], shall be considered a reference, respectively, to this Act [this chapter], or to the International Regulations proclaimed hereunder [set out as a note under [section 1602 of this title](./chapter-030-international-regulations-for-preventing-collisions-at-sea.md#section-1602)].”
+#### Codification
+Section was formerly set out as a note under [section 1902 of this title](./chapter-033-prevention-of-pollution-from-ships.md#section-1902).
 
-#### Short Title
-Pub. L. 95–75, § 1, July 27, 1977, 91 Stat. 308, provided: “That this Act [enacting this chapter, repealing sections 1051 to 1094 of this title, enacting provisions set out as notes under this section, and repealing provisions set out as a note under [section 1051 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1051&num=0&edition=prelim)] may be cited as the ‘International Navigational Rules Act of 1977’.”
-
-
-<a id="section-1602"></a>
-## § 1602. International Regulations
-**(a) Proclamation by President; effective date** The President is authorized to proclaim the International Regulations for Preventing Collisions at Sea, 1972 (hereinafter referred to as the “International Regulations”). The effective date of the International Regulations for the United States shall be specified in the proclamation and shall be the date as near as possible to, but no earlier than, the date on which the Convention on the International Regulations for Preventing Collisions at Sea, 1972 (hereinafter referred to as the “Convention”), signed at London, England, under date of October 20, 1972, enters into force for the United States. The International Regulations proclaimed shall consist of the rules and other annexes attached to the Convention.
-
-**(b) Publication of proclamation in Federal Register** The proclamation shall include the International Regulations and shall be published in the Federal Register. On the date specified in the proclamation, the International Regulations shall enter into force for the United States and shall have effect as if enacted by statute.
-
-**(c) Amendment of International Regulations** Subject to the provisions of subsection (d) of this section, the President is also authorized to proclaim any amendment to the International Regulations hereafter adopted in accordance with the provisions of article VI of the Convention, and to which the United States does not object. The effective date of the amendment shall be specified in the proclamation and shall be in accordance with the provisions of the said article VI. The proclamation shall include the adopted amendment and shall be published in the Federal Register. On the date specified in the proclamation, the amendment shall enter into force for the United States as a constituent part of the International Regulations, as amended, and shall have effect as if enacted by statute.
-
-**(d) Notification to Congress of proposed amendments; Congressional resolution of disapproval**
-
-(1) Upon receiving a proposed amendment to the International Regulations, communicated to the United States pursuant to clause 3 of article VI of the Convention, the President shall promptly notify the Congress of the proposed amendment. If, within sixty days after receipt of such notification by the Congress, or ten days prior to the date under clause 4 of article VI for registering an objection, whichever comes first, the Congress adopts a resolution of disapproval, such resolution shall be transmitted to the President and shall constitute an objection by the United States to the proposed amendment. If, upon receiving notification of the resolution of disapproval, the President has not already notified the Inter-Governmental Maritime Consultative Organization of an objection to the United States to the proposed amendment, he shall promptly do so.
-
-(2) For the purposes of this subsection, “resolution of disapproval” means a concurrent resolution initiated by either House of the Congress, the matter after the resolving clause of which is to read as follows: “That the (the concurring) does not favor the proposed amendment to the International Regulations for Preventing Collisions at Sea, 1972, relating to , and forwarded to the Congress by the President on .”, the first blank space therein to be filled with the name of the resolving House, the second blank space therein to be filled with the name of the concurring House, the third blank space therein to be filled with the subject matter of the proposed amendment, and the fourth blank space therein to be filled with the day, month, and year.
-
-(3) Any proposed amendment transmitted to the Congress by the President and any resolution of disapproval pertaining thereto shall be referred, in the House of Representatives, to the Committee on Transportation and Infrastructure, and shall be referred, in the Senate, to the Committee on Commerce, Science, and Transportation.
-
-### Statutory Notes
-
-#### Prior Provisions
-The original rules for the prevention of collisions on the water were contained in R.S. § 4233, which consisted of 26 rules, R.S. § 4412, which authorized the board of supervising inspectors to establish such regulations to be observed by all steam vessels in passing each other, as they should from time to time deem necessary for safety, and provided that copies of such regulations should be furnished to all of such vessels, to be kept posted up in conspicuous places in such vessels, and R.S. § 4413, which prescribed a penalty for neglecting or willfully refusing to observe the regulations established pursuant to said section 4412.
-
-The rules prescribed by R.S. § 4233 were superseded as to navigation on the high seas and in all coast waters of the United States, except such as were otherwise provided for, by the adoption of the “Revised International Regulations” by act March 3, 1885, ch. 354, 23 Stat. 438, which rules were superseded by the passage and adoption of act Aug. 19, 1890, ch. 802, 26 Stat. 322, section 1 of which enacted a set of regulations for preventing collisions at sea to be followed by all public and private vessels of the United States upon the high seas and in all waters connected therewith, navigable by seagoing vessels.
-
-Act Aug. 19, 1890, ch. 802, § 1, consisted of 31 articles. Section 2 of act Aug. 19, 1890, ch. 802, repealed all laws and parts of laws inconsistent with the regulations for preventing collisions at sea for the navigation of all public and private vessels of the United States upon the high seas, and in all waters connected therewith navigable by seagoing vessels, prescribed by section 1 of that act.
-
-The rules prescribed by R.S. § 4233, were further superseded as to navigation on the Great Lakes and their connecting and tributary waters as far east as Montreal by act Feb. 8, 1895, ch. 64, 28 Stat. 645, section 1 of which enacted rules for preventing collisions to be followed in the navigation of all public and private vessels of the United States upon the Great Lakes and their connecting and tributary waters as far east as Montreal. Section 1 contained 28 articles. Section 2 of the act Feb. 8, 1895, ch. 64, prescribed a fine for violations of the act. Section 3 of the act Feb. 8, 1895, ch. 64, gave the Secretary of the Treasury authority to establish all necessary regulations not inconsistent with the act, necessary to carry the act into effect, and gave the Board of Supervising Inspectors of the United States authority to establish such regulations to be observed by all steam vessels in passing each other, not inconsistent with the act, as they should from time to time deem necessary, and provided that the regulations so adopted, when approved by the Secretary of the Treasury, should have the force of law. Section 4 of the act Feb. 8, 1895, ch. 64, repealed all laws or parts of laws, so far as applicable to the navigation of the Great Lakes and their connecting and tributary waters as far east as Montreal, inconsistent with the rules promulgated by the act.
-
-The rules prescribed by R.S. § 4233, and by R.S. §§ 4412, 4414, and the regulations pursuant thereto, were required to be followed on the harbors, rivers, and inland waters of the United States, and the provisions of said sections were made special rules, duly made by local authority, relative to the navigation of harbors, rivers, and inland waters, as provided for by article 30 of the act Aug. 19, 1890, ch. 802, § 1, by act Feb. 19, 1895, ch. 102, § 1, 28 Stat. 672. Section 2 of the act Feb. 19, 1895, ch. 102, authorized the Secretary of the Treasury to designate and define by the suitable bearing or range with light houses, light vessels, buoys, or coast objects, the lines dividing the high seas from rivers, harbors, and inland waters. Section 3 of the act Feb. 19, 1895, ch. 102, required collectors or other chief officers of the customs to require sail vessels to be furnished with proper signal lights, and prescribed a penalty to be assessed against vessels navigated without complying with the statutes of the United States, or the regulations lawfully made thereunder. Section 4 of the act Feb. 19, 1895, ch. 102, provided that the words “inland waters” should not be held to include the Great Lakes and their connecting and tributary waters as far east as Montreal, and provided that the act should not modify or affect the provisions of act Feb. 8, 1895, ch. 64, which was the act prescribing rules for preventing collisions to be followed in the navigation of all public and private vessels upon the Great Lakes and their connecting and tributary waters as far east as Montreal.
-
-The rules prescribed by R.S. § 4233, were further superseded as to the navigation of all harbors, rivers, and inland waters of the United States, except the Great Lakes and their connecting and tributary waters as far east as Montreal and the Red River of the North and rivers emptying into the Gulf of Mexico and their tributaries, by act June 7, 1897, ch. 4, 30 Stat. 96, section 1 of which enacted a set of regulations for preventing collisions, to be followed by all vessels navigating all harbors, rivers, and inland waters of the United States, except the Great Lakes and their connecting and tributary waters as far east as Montreal and the Red River of the North and rivers emptying into the Gulf of Mexico and their tributaries. Said section 1 consisted of 31 articles. Section 2 of the act June 7, 1897, ch. 4, authorized the supervising inspectors of steam-vessels and the Supervising Inspector-General to establish rules to be observed by steam vessels in passing each other and as to the lights to be carried by ferry-boats and by barges and canal-boats, when in tow of steam-vessels, not inconsistent with the provisions of the act, such rules, when approved by the Secretary of the Treasury, to be special rules duly made by local authority, as provided for by article 30 of the act Aug. 19, 1890, ch. 802, § 1 which article provided that nothing in the rules contained in that act should interfere with the operation of special rules, duly made by local authority, relative to the navigation of any harbor, river, or inland waters. Section 3 of the act June 7, 1897, ch. 4, prescribed a penalty for violations of the provisions of the act or the regulations established pursuant to section 2. Section 4 of the act June 7, 1897, ch. 4, also prescribed a penalty to be assessed against vessels navigated without compliance with the provisions of the act. Section 5 of the act June 7, 1897, ch. 4, repealed R.S. §§ 4233, 4412 (with the regulations made in pursuance thereof, except the rules and regulations for the government of pilots of steamers navigating the Red River of the North and rivers emptying into the Gulf of Mexico and their tributaries, and except the rules for the Great Lakes and their connecting and tributary waters as far east as Montreal), § 4413, act March 3, 1893, ch. 202, 27 Stat. 557, which amended R.S. § 4233, act Feb. 19, 1895, ch. 102, §§ 1, 3, and act March 3, 1897, ch. 389, §§ 5, 12, 13, 29 Stat. 689, 690, and all amendments thereto insofar as the harbors, rivers, and inland waters of the United States (except the Great Lakes and their connecting and tributary waters as far east as Montreal and the Red River of the North and rivers emptying into the Gulf of Mexico, and their tributaries) were concerned.
-
-This legislation resulted in the following situation: Navigation on the high seas was governed by act Aug. 19, 1890, ch. 802, with its amendatory and supplementary acts, which was superseded by act Oct. 11, 1951, ch. 495, formerly set forth in chapter 2 of this title; navigation on all harbors, rivers, and inland waters of the United States, except the Great Lakes and their connecting and tributary waters as far east as Montreal and the Red River of the North and rivers emptying into the Gulf of Mexico and their tributaries, was governed by act June 7, 1897, ch. 4, as amended, formerly set forth in chapter 3 of this title; navigation on the Great Lakes and their connecting and tributary waters as far east as Montreal was governed by act Feb. 8, 1895, ch. 64, formerly set forth in section 301 et seq. of this title; and navigation on the Red River of the North and rivers emptying into the Gulf of Mexico and their tributaries was governed by R.S. § 4233, as amended and supplemented, formerly set forth in section 301 et seq. of this title.
-
-See also Codification notes to sections 154, 241, and 301 of this title.
-
-Regulations for Preventing Collisions at Sea, 1948, approved by the International Conference on Safety of Life at Sea, 1948, covering substantially the same subject matter included under these rules, were set out as sections 143 to 147d of this title.
-
-Regulations for Preventing Collisions at Sea, 1960, approved by the International Conference on the Safety of Life at Sea, 1960, covering substantially the same subject matter included under these rules, were set out as sections 1051 to 1094 of this title.
+Section was enacted as part of the Marine Plastic Pollution Research and Control Act of 1987 and as part of the United States-Japan Fishery Agreement Approval Act of 1987, and not as part of the Act to Prevent Pollution from Ships which comprises this chapter.
 
 #### Amendments
-2002—Subsec. (d)(3). Pub. L. 107–295 substituted “Transportation and Infrastructure” for “Merchant Marine and Fisheries”.
+1996—Subsec. (a). Pub. L. 104–324 struck out “for a period of 6 years” after “triennially thereafter” and inserted “and, not later than 1 year after October 19, 1996, and annually thereafter, shall publish in the Federal Register a list of the enforcement actions taken against any domestic or foreign ship (including any commercial or recreational ship) pursuant to the Act to Prevent Pollution from Ships ([33 U.S.C. 1901](./chapter-033-prevention-of-pollution-from-ships.md#section-1901) et seq.)” before period at end.
 
-#### International Convention for Safety of Life at Sea, 1948
-The convention, known as the International Convention for Safety of Life at Sea, was signed at London on June 10, 1948, and was ratified by the United States on April 20, 1949 (see Senate Report No. 838, Sept. 26, 1951, to accompany H.R. 5013, 82nd Cong.). The “International Regulations for Preventing Collisions at Sea, 1948”, approved by the 1948 London conference, were adopted by section 6 of act Oct. 11, 1951, and were classified to section 144 et seq. of this title.
+1995—Subsec. (a). Pub. L. 104–66 substituted “triennially” for “biennially”.
 
-#### International Convention for the Safety of Life at Sea, 1960
-The convention, known as the International Convention for the Safety of Life at Sea, was signed at London on June 17, 1960, and was ratified by the United States on May 26, 1965 (see Senate Report No. 477, Aug. 30, 1963, to accompany H.R. 6012, 88th Cong.). The “Regulations for Preventing Collisions at Sea, 1960”, approved by the 1960 London conference, were adopted by section 4 of Pub. L. 88–131, Sept. 24, 1963, 77 Stat. 194, and were classified to section 1051 et seq. of this title.
-
-#### International Regulations for Preventing Collisions at Sea, 1972
-The Convention on the International Regulations for Preventing Collisions at Sea, 1972, was proclaimed by the President on Jan. 19, 1977. The President’s proclamation provided that the Convention enter into force for the United States on July 15, 1977. The proclamation and the International Regulations were published in the Federal Register on Mar. 31, 1977, 42 F.R. 17112, with corrections to the International Regulations published on Apr. 7, 1977, 42 F.R. 18401 and on Apr. 21, 1977, 42 F.R. 20625. See the United States Coast Guard publication Navigation Rules and Regulations Handbook (August 2014 edition), available online from the website of the Government Publishing Office.
-
-#### Ex. Ord. No. 11964. Implementation of Convention on the International Regulations for Preventing Collisions at Sea, 1972
-Ex. Ord. No. 11964, Jan. 19, 1977, 42 F.R. 4327, provided:
-
-By virtue of the authority vested in me by the Constitution and statutes of the United States of America, including [Section 301 of Title 3](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title3-section301&num=0&edition=prelim) of the United States Code, and as President of the United States of America and Commander-in-Chief of the Armed Forces, in order to provide for the coming into force on July 15, 1977, of the Convention on the International Regulations for Preventing Collisions at Sea, 1972 (Senate Executive W, 93d Cong., 1st Sess.), it is hereby ordered as follows:
-
-Section 1. (a) With respect to vessels of special construction or purpose, the Secretary of the Navy, for vessels of the Navy, and the Secretary of the Department in which the Coast Guard is operating, for all other vessels, shall determine and certify, in accord with Rule I of the International Regulations for Preventing Collisions at Sea, 1972, hereinafter referred to as the International Regulations, as to which such vessels cannot comply fully with the provisions of any of the International Regulations with respect to the number, positions, range or arc of visibility of lights or shapes, as well as to the disposition and characteristics of sound-signalling appliances, without interfering with the special function of the vessel.
-
-(b) With respect to vessels for which a certification is issued, the Secretary issuing the certification shall certify as to such other provisions which are the closest possible compliance by that vessel with the International Regulations.
-
-(c) Notice of any certification issued shall be published in the Federal Register.
-
-Sec. 2. The Secretary of the Navy is authorized to promulgate special rules with respect to additional station or signal lights or whistle signals for ships of war or vessels proceeding under convoy, and the Secretary of the Department in which the Coast Guard is operating is authorized, to the extent permitted by law, including the provisions of Title 14 of the United States Code, to promulgate special rules with respect to additional station or signal lights for fishing vessels engaged in fishing as a fleet. In accord with Rule I of the International Regulations, the additional station or signal lights or whistle signals contained in the special rules shall be, as far as possible, such as they cannot be mistaken for any light or signal authorized by the International Regulations. Notice of such special rules for fishing vessels shall be published in the Federal Register.
-
-Sec. 3. The Secretary of the Navy, for vessels of the Navy, and the Secretary of the Department in which the Coast Guard is operating, for all other vessels, are authorized to exempt, in accord with Rule 38 of the International Regulations, any vessel or class of vessels, the keel of which is laid, or which is at a corresponding stage of construction, before July 15, 1977, from full compliance with the International Regulations, provided that such vessel or class of vessels complies with the requirements of the International Regulations for Preventing Collisions at Sea, 1960. Notice of any exemption granted shall be published in the Federal Register.
-
-Sec. 4. The Secretary of the Department in which the Coast Guard is operating is authorized, to the extent permitted by law, to promulgate such rules and regulations that are necessary to implement the provisions of the Convention and International Regulations. He shall cause to be published in the Federal Register any implementing regulations or interpretive rulings promulgated pursuant to this Order, and shall promptly publish in the Federal Register the full text of the International Regulations.
-
-Gerald R. Ford.
-
-#### Ex. Ord. No. 12234. Enforcement of Convention for the Safety of Life at Sea, 1974
-Ex. Ord. No. 12234, Sept. 3, 1980, 45 F.R. 58801, provided:
-
-By the authority vested in me as President by the Constitution and the laws of the United States of America, and in order to implement the International Convention for the Safety of Life at Sea, 1974, it is hereby ordered as follows:
-
-1–101. The International Convention for the Safety of Life at Sea, 1974, signed at London on November 1, 1974, and proclaimed by the President of the United States on January 28, 1980 (TIAS 9700), entered into force for the United States on May 25, 1980.
-
-1–102. The Secretary of State, the Secretary of the Department in which the Coast Guard is operating, the Secretary of Commerce, and the Federal Communications Commission shall (a) perform those functions prescribed in the Convention that are within their respective areas of responsibility, and (b) cooperate and assist each other in carrying out those functions.
-
-1–103. (a) The Secretary of the Department in which the Coast Guard is operating, or the head of any other Executive agency authorized by law, shall be responsible for the issuance of certificates as required by the Convention.
-
-(b) If a certificate is to include matter that pertains to functions vested by law in another Executive agency, the issuing agency shall first ascertain from the other Executive agency the decision regarding that matter. The decision of that agency shall be final and binding on the issuing agency.
-
-1–104. The Secretary of the Department in which the Coast Guard is operating may use the services of the American Bureau of Shipping as long as that Bureau is operated in compliance with Section 25 of the Act of June 5, 1920, as amended ([46 U.S.C. 881](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section881&num=0&edition=prelim)), to perform the functions under the Convention. The Secretary may also use the services of the National Cargo Bureau to perform functions under Chapter VI (Carriage of Grain) of the Convention.
-
-1–105. The Secretary of the Department in which the Coast Guard is operating shall promulgate regulations necessary to implement the provisions of the Convention.
-
-1–106. To the extent that the International Convention for the Safety of Life at Sea, 1974, replaces and abrogates the International Convention for the Safety of Life at Sea, 1960 (TIAS 5780), this Order supersedes Executive Order No. 11239 of July 31, 1965, entitled “Enforcement of the Convention for the Safety of Life at Sea, 1960.”
-
-1–107. Executive Order No. 10402 of October 30, 1952, entitled “Enforcement of the Convention for the Safety of Life at Sea, 1948,” is revoked.
-
-Jimmy Carter.
+#### Transfer of Functions
+For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).
 
 
 <a id="section-1603"></a>
-## § 1603. Vessels subject to International Regulations
+## § 1603. Transferred
 
-Except as provided in [section 1604 of this title](./chapter-030-international-regulations-for-preventing-collisions-at-sea.md#section-1604) and subject to the provisions of [section 1605 of this title](./chapter-030-international-regulations-for-preventing-collisions-at-sea.md#section-1605), the International Regulations, as proclaimed under [section 1602 of this title](./chapter-030-international-regulations-for-preventing-collisions-at-sea.md#section-1602), shall be applicable to, and shall be complied with by—
+### Statutory Notes
 
-(1) all vessels, public and private, subject to the jurisdiction of the United States, while upon the high seas or in waters connected therewith navigable by seagoing vessels, and
-
-(2) all other vessels when on waters subject to the jurisdiction of the United States.
+Section, Pub. L. 100–220, title II, § 2203, Dec. 29, 1987, 101 Stat. 1466; Pub. L. 104–324, title VIII, § 802(b), Oct. 19, 1996, 110 Stat. 3944; Pub. L. 109–449, § 5(a), Dec. 22, 2006, 120 Stat. 3337, was redesignated section 5 of Pub. L. 109–449 and transferred to [section 1954 of this title](./chapter-33a-marine-debris-research-prevention-and-reduction.md#section-1954).
 
 
 <a id="section-1604"></a>
-## § 1604. Vessels not subject to International Regulations
-**(a)** The International Regulations do not apply to vessels while in the waters of the United States shoreward of the navigational demarcation lines dividing the high seas from harbors, rivers, and other inland waters of the United States.
-
-**(b)** Whenever a vessel subject to the jurisdiction of the United States is in the territorial waters of a foreign state the International Regulations shall be applicable to, and shall be complied with by, that vessel to the extent that the laws and regulations of the foreign state are not in conflict therewith.
+## § 1604. Repealed. Pub. L. 112–213, title VI, § 604(d), Dec. 20, 2012, 126 Stat. 1577
 
 ### Statutory Notes
 
-#### Amendments
-1980—Subsec. (a). Pub. L. 96–591 substituted provision providing that the International Regulations do not apply to vessels while in the waters of the United States shoreward of the navigational demarcation lines dividing the high seas from harbors, rivers, and other inland waters of the United States for provisions that had made specific reference to harbors, rivers, and other inland waters of the United States, as defined in [section 154 of this title](./chapter-003-navigation-rules-for-harbors-rivers-and-inland-waters-generally.md#section-154), to the Great Lakes of North America and their connecting and tributary waters, as defined in [section 241 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section241&num=0&edition=prelim), and to the Red River of the North and rivers emptying into the Gulf of Mexico and their tributaries, as defined in [section 301 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section301&num=0&edition=prelim).
-
-#### Effective Date of 1980 Amendment
-Pub. L. 96–591, § 7, Dec. 24, 1980, 94 Stat. 3435, provided that: “Sections 2, 4, 6(1), and 8(a) [enacting section 2072 and former sections 2001 to 2038 of this title, amending this section, and repealing sections 154 to 159, 171 to 183, 191, 192, 201 to 213, 221, 222, 231, 232, 301 to 303, 311 to 323, 331, 341 to 356, 360, and 360a of this title and sections 526b, 526c, and 526d of former Title 46, Shipping] are effective 12 months after the date of enactment of this Act [Dec. 24, 1980], except that on the Great Lakes, the effective date of sections 2 and 4 [enacting section 2072 and former sections 2001 to 2038 of this title] will be established by the Secretary. [The effective date on the Great Lakes was established as Mar. 1, 1983. See 47 F.R. 15135, Apr. 8, 1982.] Section 5 [enacting [section 2073 of this title](./chapter-034-inland-navigational-rules.md#section-2073)] is effective on October 1, 1981.”
+Section, Pub. L. 100–220, title II, § 2204, Dec. 29, 1987, 101 Stat. 1466; Pub. L. 104–324, title VIII, § 802(c), Oct. 19, 1996, 110 Stat. 3945, related to creation of a plastic pollution public education program.
 
 
 <a id="section-1605"></a>
-## § 1605. Navy and Coast Guard vessels of special construction or purpose
-**(a) Certification for alternative compliance** Any requirement of the International Regulations with respect to the number, position, range, or arc of visibility of lights, with respect to shapes, or with respect to the disposition and characteristics of sound-signaling appliances, shall not be applicable to a vessel of special construction or purpose, whenever the Secretary of the Navy, for any vessel of the Navy, or the Secretary of the department in which the Coast Guard is operating, for any other vessel of the United States, shall certify that the vessel cannot comply fully with that requirement without interfering with the special function of the vessel.
+## § 1605. Purpose
 
-**(b) Closest possible compliance by vessels covered by certification for alternative compliance** Whenever a certification is issued under the authority of subsection (a) of this section, the vessel involved shall comply with the requirement as to which the certification is made to the extent that the Secretary issuing the certification shall certify as the closest possible compliance by that vessel.
-
-**(c) Publication of certifications in Federal Register** Notice of the certifications issued pursuant to subsections (a) and (b) of this section shall be published in the Federal Register.
-
-**(d) Issuance of certification for a class of vessels** A certification authorized by this section may be issued for a class of vessels.
+The purpose of this chapter is to address the adverse impacts of marine debris on the United States economy, the marine environment (including waters in the jurisdiction of the United States, the high seas, and waters in the jurisdiction of other countries), and navigation safety through the identification, determination of sources, assessment, prevention, reduction, and removal of marine debris.
 
 ### Statutory Notes
 
 #### Amendments
-1980—Subsec. (d). Pub. L. 96–591 added subsec. (d).
+2020—Pub. L. 116–224 substituted “marine environment (including waters in the jurisdiction of the United States, the high seas, and waters in the jurisdiction of other countries),” for “marine environment,”.
 
-#### Transfer of Functions
-For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).
+2012—Pub. L. 112–213 amended section generally. Prior to amendment, text read as follows: “The purposes of this chapter are—
+
+“(1) to help identify, determine sources of, assess, reduce, and prevent marine debris and its adverse impacts on the marine environment and navigation safety;
+
+“(2) to reactivate the Interagency Marine Debris Coordinating Committee; and
+
+“(3) to develop a Federal marine debris information clearinghouse.”
+
+#### Short Title of 2012 Amendment
+Pub. L. 112–213, title VI, § 601, Dec. 20, 2012, 126 Stat. 1576, provided that: “This title [amending this section and sections 1952 to 1956 of this title, transferring [section 1914 of this title](./chapter-033-prevention-of-pollution-from-ships.md#section-1914) to [section 1954 of this title](./chapter-33a-marine-debris-research-prevention-and-reduction.md#section-1954), repealing sections 1915 and 1954 of this title, and amending provisions set out as a note under this section] may be cited as the ‘Marine Debris Act Amendments of 2012’.”
+
+#### Short Title
+Pub. L. 109–449, § 1, Dec. 22, 2006, 120 Stat. 3333, as amended by Pub. L. 112–213, title VI, § 602(a), Dec. 20, 2012, 126 Stat. 1576, provided that: “This Act [enacting and amending this chapter] may be cited as the ‘Marine Debris Act’.”
 
 
 <a id="section-1606"></a>
-## § 1606. Special rules for ships of war, vessels proceeding under convoy, and fishing vessels engaged in fishing as a fleet
-**(a)** The Secretary of the Navy is authorized to promulgate special rules with respect to additional station or signal lights or whistle signals for ships of war or vessels proceeding under convoy, and the Secretary of the department in which the Coast Guard is operating is authorized to promulgate special rules with respect to additional station or signal lights for fishing vessels engaged in fishing as a fleet.
+## § 1606. NOAA Marine Debris Program
+**(a) Establishment of Program** There is established, within the National Oceanic and Atmospheric Administration, a Marine Debris Program to identify, determine sources of, assess, prevent, reduce, and remove marine debris and address the adverse impacts of marine debris on the economy of the United States, the marine environment, and navigation safety.
 
-**(b)** The additional station or signal lights or whistle signals contained in the special rules authorized under subsection (a) of this section shall be, as far as possible, such that they cannot be mistaken for any light or signal authorized by the International Regulations. Notice of such special rules shall be published in the Federal Register and, after the effective date specified in such notice, they shall have effect as if they were a part of the International Regulations.
+**(b) Program components** The Administrator, acting through the Program and subject to the availability of appropriations, shall—
 
-### Statutory Notes
+(1) identify, determine sources of, assess, prevent, reduce, and remove marine debris, with a focus on marine debris posing a threat to living marine resources and navigation safety;
 
-#### Transfer of Functions
-For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).
+(2) provide national and regional coordination to assist States, Indian tribes, and regional organizations in the identification, determination of sources, assessment, prevention, reduction, and removal of marine debris;
 
+(3) undertake efforts to reduce the adverse impacts of lost and discarded fishing gear on living marine resources and navigation safety, including—
 
-<a id="section-1607"></a>
-## § 1607. Implementation by rules and regulations; authority to promulgate
+  (A) research and development of alternatives to gear posing threats to the marine environment and methods for marking gear used in certain fisheries to enhance the tracking, recovery, and identification of lost and discarded gear; and
 
-The Secretary of the department in which the Coast Guard is operating is authorized to promulgate such reasonable rules and regulations as are necessary to implement the provisions of this chapter and the International Regulations proclaimed hereunder.
+  (B) the development of effective nonregulatory measures and incentives to cooperatively reduce the volume of lost and discarded fishing gear and to aid in gear recovery;
 
-### Statutory Notes
+(4) undertake outreach and education activities for the public and other stakeholders on sources of marine debris, threats associated with marine debris, and approaches to identifying, determining sources of, assessing, preventing, reducing, and removing marine debris and its adverse impacts on the United States economy, the marine environment, and navigation safety, including outreach and education activities through public-private initiatives;
 
-#### Transfer of Functions
-For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).
+(5) develop, in consultation with the Interagency Committee, interagency plans for the timely response to events determined by the Administrator to be severe marine debris events, including plans to—
 
+  (A) coordinate across agencies and with relevant State, tribal, and local governments to ensure adequate, timely, and efficient response;
 
-<a id="section-1608"></a>
-## § 1608. Civil penalties
-**(a) Liability of vessel operator for violations** Whoever operates a vessel, subject to the provisions of this chapter, in violation of this chapter or of any regulation promulgated pursuant to [section 1607 of this title](./chapter-030-international-regulations-for-preventing-collisions-at-sea.md#section-1607), shall be liable to a civil penalty of not more than $5,000 for each such violation.
+  (B) assess the composition, volume, and trajectory of marine debris associated with a severe marine debris event; and
 
-**(b) Liability of vessel for violations; seizure of vessel** Every vessel subject to the provisions of this chapter, other than a public vessel being used for noncommercial purposes, which is operated in violation of this chapter or of any regulation promulgated pursuant to [section 1607 of this title](./chapter-030-international-regulations-for-preventing-collisions-at-sea.md#section-1607), shall be liable to a civil penalty of not more than $5,000 for each such violation, for which penalty the vessel may be seized and proceeded against in the district court of the United States of any district within which such vessel may be found.
+  (C) estimate the potential impacts of a severe marine debris event, including economic impacts on human health, navigation safety, natural resources, tourism, and livestock, including aquaculture;
 
-**(c) Assessment of penalties; notice; opportunity for hearing; remission, mitigation, and compromise of penalty; action for collection** The Secretary of the department in which the Coast Guard is operating may assess any civil penalty authorized by this section. No such penalty may be assessed until the person charged, or the owner of the vessel charged, as appropriate, shall have been given notice of the violation involved and an opportunity for a hearing. For good cause shown, the Secretary may remit, mitigate, or compromise any penalty assessed. Upon the failure of the person charged, or the owner of the vessel charged, to pay an assessed penalty, as it may have been mitigated or compromised, the Secretary may request the Attorney General to commence an action in the appropriate district court of the United States for collection of the penalty as assessed, without regard to the amount involved, together with such other relief as may be appropriate.
+(6) work to develop outreach and education strategies with other Federal agencies to address sources of marine debris;
+
+(7) except for discharges of marine debris from vessels, in consultation with the Department of State and other Federal agencies, promote international action, as appropriate, to reduce the incidence of marine debris, including providing technical assistance to expand waste management systems internationally; and
+
+(8) in the case of an event determined to be a severe marine debris event under subsection (c)—
+
+  (A) assist in the cleanup and response required by the severe marine debris event; or
+
+  (B) conduct such other activity as the Administrator determines is appropriate in response to the severe marine debris event.
+
+**(c) Severe marine debris events** At the discretion of the Administrator or at the request of the Governor of an affected State, the Administrator shall determine whether there is a severe marine debris event.
+
+**(d) Grants, cooperative agreements, and contracts**
+
+(1) **In general** — The Administrator, acting through the Program, shall enter into cooperative agreements and contracts and provide financial assistance in the form of grants for projects to accomplish the purpose set forth in [section 1951 of this title](./chapter-33a-marine-debris-research-prevention-and-reduction.md#section-1951).
+
+(2) **Grant cost sharing requirement**
+
+  (A) *In general* — Except as provided in subparagraphs (B) and (C), Federal funds for any grant under this section may not exceed 50 percent of the total cost of such project. For purposes of this subparagraph, the non-Federal share of project costs may be provided by in-kind contributions and other noncash support.
+
+  (B) *Waiver* — The Administrator may waive all or part of the matching requirement under subparagraph (A) if the Administrator determines that no reasonable means are available through which applicants can meet the matching requirement and the probable benefit of such project outweighs the public interest in such matching requirement.
+
+  (C) *Severe marine debris events* — Notwithstanding subparagraph (A), the Federal share of the cost of an activity carried out under a determination made under subsection (c) shall be—
+
+    (i) 100 percent of the cost of the activity, for an activity funded wholly by funds made available by a person, including the government of a foreign country, to the Federal Government for the purpose of responding to a severe marine debris event; or
+
+    (ii) 75 percent of the cost of the activity, for any activity other than an activity funded as described in clause (i).
+
+(3) **Amounts paid and services rendered under consent**
+
+  (A) *Consent decrees and orders* — If authorized by the Administrator or the Attorney General, as appropriate, the non-Federal share of the cost of a project carried out under this chapter may include money paid pursuant to, or the value of any in-kind service performed under, an administrative order on consent or judicial consent decree that will remove or prevent marine debris.
+
+  (B) *Other decrees and orders* — The non-Federal share of the cost of a project carried out under this chapter may not include any money paid pursuant to, or the value of any in-kind service performed under, any other administrative order or court order.
+
+(4) **Eligibility** — Any State, local, or tribal government whose activities affect research or regulation of marine debris, and any institution of higher education, nonprofit organization, or commercial organization with expertise in a field related to marine debris, is eligible to submit to the Administrator a marine debris proposal under the grant program.
+
+(5) **Project review and approval** — The Administrator shall—
+
+  (A) review each marine debris project proposal to determine if it meets the grant criteria and supports the goals of this chapter;
+
+  (B) after considering any written comments and recommendations based on the review, approve or disapprove the proposal; and
+
+  (C) provide notification of that approval or disapproval to the person who submitted the proposal.
+
+(6) **Project reporting** — Each grantee under this section shall provide periodic reports as required by the Administrator. Each report shall include all information required by the Administrator for evaluating the progress and success in meeting its stated goals, and impact of the grant activities on the marine debris problem.
 
 ### Statutory Notes
 
 #### Amendments
-1980—Subsec. (a). Pub. L. 96–591, § 6(3), substituted “$5,000” for “$500”.
+2018—Subsec. (b)(6) to (8). Pub. L. 115–265, § 101(1), added pars. (6) to (8).
 
-Subsec. (b). Pub. L. 96–591, § 6(4), substituted “not more than $5,000” for “$500”.
+Subsecs. (c), (d). Pub. L. 115–265, § 101(2), (3), added subsec. (c) and redesignated former subsec. (c) as (d).
+
+Subsec. (d)(2)(A). Pub. L. 115–265, § 101(4)(A), substituted “subparagraphs (B) and (C)” for “subparagraph (B)”.
+
+Subsec. (d)(2)(C). Pub. L. 115–265, § 101(4)(B), added subpar. (C).
+
+2012—Pub. L. 112–213, § 604(a)(1), struck out “Prevention and Removal” before “Program” in section catchline.
+
+Subsec. (a). Pub. L. 112–213, § 604(a)(2), substituted “Program to identify, determine sources of, assess, prevent, reduce, and remove marine debris and address the” for “Prevention and Removal Program to reduce and prevent the occurrence and” and “marine debris on the economy of the United States, the marine environment, and” for “marine debris on the marine environment and”.
+
+Subsec. (b). Pub. L. 112–213, § 604(b), amended subsec. (b) generally. Prior to amendment, subsec. (b) described components of the Marine Debris Prevention and Removal Program.
+
+Subsec. (c)(1). Pub. L. 112–213, § 604(c)(1), substituted “section 1951” for “section 1951(1)”.
+
+Subsec. (c)(5) to (7). Pub. L. 112–213, § 604(c)(2), (3), redesignated pars. (6) and (7) as (5) and (6), respectively, and struck out former par. (5) which required the Administrator to promulgate necessary guidelines for implementation of the grant program within 180 days after Dec. 22, 2006.
+
+
+<a id="section-1607"></a>
+## § 1607. Coast Guard program
+
+The Commandant of the Coast Guard, in consultation with the Interagency Committee, shall—
+
+(1) take actions to reduce violations of and improve implementation of MARPOL Annex V and the Act to Prevent Pollution from Ships ([33 U.S.C. 1901](./chapter-033-prevention-of-pollution-from-ships.md#section-1901) et seq.) with respect to the discard of plastics and other garbage from vessels;
+
+(2) take actions to cost-effectively monitor and enforce compliance with MARPOL Annex V and the Act to Prevent Pollution from Ships ([33 U.S.C. 1901](./chapter-033-prevention-of-pollution-from-ships.md#section-1901) et seq.), including through cooperation and coordination with other Federal and State enforcement programs;
+
+(3) take actions to improve compliance with requirements under MARPOL Annex V and section 6 of the Act to Prevent Pollution from Ships ([33 U.S.C. 1905](./chapter-033-prevention-of-pollution-from-ships.md#section-1905)) that all United States ports and terminals maintain and monitor the adequacy of receptacles for the disposal of plastics and other garbage, including through promoting voluntary government-industry partnerships;
+
+(4) develop and implement a plan, in coordination with industry and recreational boaters, to improve ship-board waste management, including recordkeeping, and access to waste reception facilities for ship-board waste;
+
+(5) take actions to improve international cooperation to reduce marine debris; and
+
+(6) establish a voluntary reporting program for commercial vessel operators and recreational boaters to report incidents of damage to vessels and disruption of navigation caused by marine debris, and observed violations of laws and regulations relating to the disposal of plastics and other marine debris.
+
+### Statutory Notes
+
+#### References in Text
+The Act to Prevent Pollution from Ships, referred to in pars. (1) and (2), is Pub. L. 96–478, Oct. 21, 1980, 94 Stat. 2297, which is classified principally to chapter 33 (§ 1901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1901 of this title](./chapter-033-prevention-of-pollution-from-ships.md#section-1901) and Tables.
+
+#### Amendments
+2012—Pub. L. 112–213 struck out subsec. (a) designation and heading “Strategy” and struck out subsecs. (b) and (c) which required reports on the Coast Guard’s progress in implementing former subsec. (a) and on the effectiveness of international and national measures to prevent and reduce marine debris and its impact.
+
+
+<a id="section-1608"></a>
+## § 1608. Coordination
+**(a) Establishment of Interagency Marine Debris Coordinating Committee** There is established an Interagency Marine Debris Coordinating Committee to coordinate a comprehensive program of marine debris research and activities among Federal agencies, in cooperation and coordination with non-governmental organizations, industry, universities, and research institutions, States, Indian tribes, and other nations, as appropriate.
+
+**(b) Membership** The Committee shall include a senior official from—
+
+(1) the National Oceanic and Atmospheric Administration, who shall serve as the Chairperson of the Committee;
+
+(2) the Environmental Protection Agency;
+
+(3) the United States Coast Guard;
+
+(4) the United States Navy;
+
+(5) the Department of State;
+
+(6) the Department of the Interior; and
+
+(7) such other Federal agencies that have an interest in ocean issues or water pollution prevention and control as the Secretary of Commerce determines appropriate.
+
+**(c) Meetings** The Committee shall meet at least twice a year to provide a public, interagency forum to ensure the coordination of national and international research, monitoring, education, and regulatory actions addressing the persistent marine debris problem.
+
+**(d) Monitoring** The Secretary of Commerce, acting through the Administrator of the National Oceanic and Atmospheric Administration, in cooperation with the Administrator of the Environmental Protection Agency, shall utilize the marine debris data derived under title V of the Marine Protection, Research, and Sanctuaries Act of 1972 ([33 U.S.C. 2801](./chapter-041-national-coastal-monitoring.md#section-2801) et seq.) to assist—
+
+(1) the Committee in ensuring coordination of research, monitoring, education and regulatory actions; and
+
+(2) the United States Coast Guard in assessing the effectiveness of the Marine Plastic Pollution Research and Control Act of 1987 and the Act to Prevent Pollution from Ships [[33 U.S.C. 1901](./chapter-033-prevention-of-pollution-from-ships.md#section-1901) et seq.] in ensuring compliance under section 2201 of the Marine Plastic Pollution Research and Control Act of 1987 [[33 U.S.C. 1913](./chapter-033-prevention-of-pollution-from-ships.md#section-1913)].
+
+**(e) Biennial progress reports** Biennially, the Committee, through the Chairperson, shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure and the Committee on Natural Resources of the House of Representatives a report that evaluates United States and international progress in meeting the purpose of this chapter. The report shall include—
+
+(1) the status of implementation of any recommendations and strategies of the Committee and analysis of their effectiveness;
+
+(2) a summary of the marine debris inventory to be maintained by the National Oceanic and Atmospheric Administration;
+
+(3) a review of the National Oceanic and Atmospheric Administration program authorized by [section 1952 of this title](./chapter-33a-marine-debris-research-prevention-and-reduction.md#section-1952), including projects funded and accomplishments relating to reduction and prevention of marine debris;
+
+(4) a review of Coast Guard programs and accomplishments relating to marine debris removal, including enforcement and compliance with MARPOL requirements; and
+
+(5) estimated Federal and non-Federal funding provided for marine debris and recommendations for priority funding needs.
+
+### Statutory Notes
+
+#### References in Text
+The Marine Protection, Research, and Sanctuaries Act of 1972, referred to in subsec. (d), is Pub. L. 92–532, Oct. 23, 1972, 86 Stat. 1052. Title V of the Act, popularly known as the National Coastal Monitoring Act, is classified generally to chapter 41 (§ 2801 et seq.) of this title. For complete classification of title V to the Code, see Short Title note set out under [section 2801 of this title](./chapter-041-national-coastal-monitoring.md#section-2801) and Tables.
+
+The Marine Plastic Pollution Research and Control Act of 1987, referred to in subsec. (d)(2), is Pub. L. 100–220, title II, Dec. 29, 1987, 101 Stat. 1460. For complete classification of this Act to the Code, see Short Title of 1987 Amendment note set out under [section 1901 of this title](./chapter-033-prevention-of-pollution-from-ships.md#section-1901) and Tables.
+
+The Act to Prevent Pollution from Ships, referred to in subsec. (d)(2), is Pub. L. 96–478, Oct. 21, 1980, 94 Stat. 2297, which is classified principally to chapter 33 (§ 1901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1901 of this title](./chapter-033-prevention-of-pollution-from-ships.md#section-1901) and Tables.
+
+#### Codification
+Former [section 1954(c)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1954/c/2&num=0&edition=prelim), which was transferred and redesignated as subsec. (e) of this section by Pub. L. 112–213, title VI, § 606(b)(1), Dec. 20, 2012, 126 Stat. 1578, was based on Pub. L. 109–449, § 5(c)(2), Dec. 22, 2006, 120 Stat. 3338.
+
+Section was formerly section 2203 of Pub. L. 100–220 and was classified to [section 1914 of this title](./chapter-033-prevention-of-pollution-from-ships.md#section-1914).
+
+#### Prior Provisions
+A prior section 5 of Pub. L. 109–449, Dec. 22, 2006, 120 Stat. 3337, which related to interagency coordination to address problems of marine debris, was classified to this section prior to repeal by Pub. L. 112–213, title VI, § 606(a)(1), Dec. 20, 2012, 126 Stat. 1578. Subsec. (a) of such prior section 5 of Pub. L. 109–449 amended section 2203 of Pub. L. 100–220, which was renumbered as a new section 5 of Pub. L. 109–449 by Pub. L. 112–213 and was transferred to this section.
+
+#### Amendments
+2018—Subsec. (b)(5) to (7). Pub. L. 115–265 added pars. (5) and (6) and redesignated former par. (5) as (7).
+
+2012—Subsec. (d)(2). Pub. L. 112–213, § 606(a)(2), substituted “the Marine Plastic Pollution Research and Control Act of 1987” for “this Act” and inserted “of the Marine Plastic Pollution Research and Control Act of 1987” after “section 2201”.
+
+Subsec. (e). Pub. L. 112–213, § 606(b)(2), in heading, substituted “Biennial progress reports” for “Annual progress reports” and in text, substituted “Biennially” for “Not later than 3 years after December 22, 2006, and biennially thereafter” and “Chairperson” for “chairperson”, inserted “Natural” before “Resources”, and struck out “Interagency” before “Committee, through” and before “Committee and”, redesignated subpars. (A) to (E) as pars. (1) to (5), respectively, and realigned margins.
+
+Pub. L. 112–213, § 606(b)(1), transferred subsec. (c)(2) of former [section 1954 of this title](./chapter-33a-marine-debris-research-prevention-and-reduction.md#section-1954) and redesignated it as subsec. (e) of this section. See Codification note above.
+
+2006—Subsec. (a). Pub. L. 109–449, § 5(a)(1), added subsec. (a) and struck out former subsec. (a). Text read as follows: “The Secretary of Commerce shall establish a Marine Debris Coordinating Committee.”
+
+Subsec. (c). Pub. L. 109–449, § 5(a)(2), inserted “public, interagency” before “forum”.
+
+1996—Pub. L. 104–324 amended section generally. Prior to amendment, section read as follows: “Not later than September 30, 1988, the Secretary of Commerce shall submit to the Congress a report on the effects of plastic materials on the marine environment. The report shall—
+
+“(1) identify and quantify the harmful effects of plastic materials on the marine environment;
+
+“(2) assess the specific effects of plastic materials on living marine resources in the marine environment;
+
+“(3) identify the types and classes of plastic materials that pose the greatest potential hazard to living marine resources;
+
+“(4) analyze, in consultation with the Director of the National Bureau of Standards, plastic materials which are claimed to be capable of reduction to environmentally benign submits under the action of normal environmental forces (including biological decomposition, photodegradation, and hydrolysis); and
+
+“(5) recommend legislation which is necessary to prohibit, tax, or regulate sources of plastic materials that enter the marine environment.”
 
 #### Transfer of Functions
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).

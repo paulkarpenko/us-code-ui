@@ -27,11 +27,11 @@ source: >-
 
 **(b)** The Council is composed of 12 members as follows:
 
-(1) The official within the Office of the Assistant Secretary of Defense for Research and Engineering who is responsible for science and technology.
+(1) The official within the Office of the Under Secretary of Defense for Research and Engineering who is responsible for science and technology.
 
 (2) The Vice Chairman of the Joint Chiefs of Staff.
 
-(3) The official within the Office of the Under Secretary of Defense for Acquisition, Technology, and Logistics who is responsible for environmental security.
+(3) The official within the Office of the Under Secretary of Defense for Acquisition and Sustainment who is responsible for environmental security.
 
 (4) The Assistant Secretary of Energy for Defense programs.
 
@@ -119,6 +119,10 @@ source: >-
 The Stevenson-Wydler Technology Innovation Act of 1980, referred to in subsec. (e)(7), is Pub. L. 96–480, Oct. 21, 1980, 94 Stat. 2311, as amended, which is classified generally to chapter 63 (§ 3701 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under [section 3701 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section3701&num=0&edition=prelim) and Tables.
 
 #### Amendments
+2019—Subsec. (b)(1). Pub. L. 116–92, § 902(80)(A), substituted “Office of the Under Secretary of Defense for Research and Engineering” for “Office of the Assistant Secretary of Defense for Research and Engineering”.
+
+Subsec. (b)(3). Pub. L. 116–92, § 902(80)(B), substituted “Office of the Under Secretary of Defense for Acquisition and Sustainment” for “Office of the Under Secretary of Defense for Acquisition, Technology, and Logistics”.
+
 2011—Subsec. (b)(1). Pub. L. 111–383, § 901(j)(5)(A), substituted “official within the Office of the Assistant Secretary of Defense for Research and Engineering who is responsible for science and technology” for “Deputy Under Secretary of Defense for Science and Technology”.
 
 Subsec. (b)(3). Pub. L. 111–383, § 901(j)(5)(B), substituted “official within the Office of the Under Secretary of Defense for Acquisition, Technology, and Logistics who is” for “Deputy Under Secretary of Defense”.

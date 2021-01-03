@@ -8,7 +8,7 @@ source: >-
 ---
 <a id="section-9311"></a>
 ## § 9311. Twenty years or more: regular or reserve commissioned officers
-**(a)** The Secretary of the Air Force may, upon the officer’s request, retire a regular or reserve commissioned officer of the Air Force who has at least 20 years of service computed under [section 9326 of this title](./chapter-941-retirement-for-length-of-service.md#section-9326), at least 10 years of which have been active service as a commissioned officer.
+**(a)** The Secretary of the Air Force may, upon the officer’s request, retire a regular or reserve commissioned officer of the Air Force or the Space Force who has at least 20 years of service computed under [section 9326 of this title](./chapter-941-retirement-for-length-of-service.md#section-9326), at least 10 years of which have been active service as a commissioned officer.
 
 **(b)**
 
@@ -26,6 +26,8 @@ source: >-
 The words “a regular or reserve commissioned officer of the Air Force” are substituted for the words “any officer on the active list of the * * * Regular Air Force * * * or any officer of the reserve components of the * * * Air Force of the United States”. The words “Philippine Scouts” are omitted as obsolete. The words “has at least 20” are substituted for the words “shall have completed not less than twenty”. The words “upon his request” are substituted for the words “upon his own application”. The words “service computed under [section 8926 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section8926&num=0&edition=prelim)” are substituted for the words “active Federal service in the armed forces of the United States”, since that revised section makes explicit the service covered.
 
 #### Amendments
+2021—Subsec. (a). Pub. L. 116–283 inserted “or the Space Force” after “officer of the Air Force”.
+
 2018—Pub. L. 115–232, § 806(b)(13), renumbered [section 8911 of this title](./chapter-889-accountability-and-responsibility.md#section-8911) as this section.
 
 Subsec. (a). Pub. L. 115–232, § 809(a), substituted “section 9326” for “section 8926”.
@@ -58,7 +60,7 @@ For provisions authorizing the Secretary of the Air Force, during the period beg
 <a id="section-9314"></a>
 ## § 9314. Twenty to thirty years: enlisted members
 
-Under regulations to be prescribed by the Secretary of the Air Force, an enlisted member of the Air Force who has at least 20, but less than 30, years of service computed under [section 9325 of this title](./chapter-941-retirement-for-length-of-service.md#section-9325) may, upon his request, be retired.
+Under regulations to be prescribed by the Secretary of the Air Force, an enlisted member of the Air Force or the Space Force who has at least 20, but less than 30, years of service computed under [section 9325 of this title](./chapter-941-retirement-for-length-of-service.md#section-9325) may, upon his request, be retired.
 
 ### Statutory Notes
 
@@ -76,6 +78,8 @@ Prior sections 9314, 9314a, 9314b, and 9315 were renumbered sections 9414, 9414a
 A prior section 9316, added Pub. L. 101–510, div. A, title XIV, § 1439(c), Nov. 5, 1990, 104 Stat. 1689, related to training and support for A–10 aircraft, prior to repeal by Pub. L. 110–417, [div. A], title III, § 353(a), Oct. 14, 2008, 122 Stat. 4425.
 
 #### Amendments
+2021—Pub. L. 116–283 inserted “or the Space Force” after “member of the Air Force”.
+
 2018—Pub. L. 115–232 renumbered [section 8914 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section8914&num=0&edition=prelim) as this section and substituted “section 9325” for “section 8925”.
 
 1994—Pub. L. 103–337 struck out at end “A regular enlisted member then becomes a member of the Air Force Reserve. A member retired under this section shall perform such active duty as may be prescribed by law until his service computed under [section 8925 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section8925&num=0&edition=prelim), plus his inactive service as a member of the Air Force Reserve, equals 30 years.”
@@ -95,7 +99,7 @@ For provisions authorizing the Secretary of the Air Force, during the period beg
 <a id="section-9317"></a>
 ## § 9317. Thirty years or more: regular enlisted members
 
-A regular enlisted member of the Air Force who has at least 30 years of service computed under [section 9325 of this title](./chapter-941-retirement-for-length-of-service.md#section-9325) shall be retired upon his request.
+A regular enlisted member of the Air Force or the Space Force who has at least 30 years of service computed under [section 9325 of this title](./chapter-941-retirement-for-length-of-service.md#section-9325) shall be retired upon his request.
 
 ### Statutory Notes
 
@@ -111,6 +115,8 @@ The word “regular” is inserted to conform to an opinion of the Judge Advocat
 A prior section 9317 was renumbered [section 9417 of this title](./chapter-951-training-generally.md#section-9417).
 
 #### Amendments
+2021—Pub. L. 116–283 inserted “or the Space Force” after “Air Force”.
+
 2018—Pub. L. 115–232 renumbered [section 8917 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section8917&num=0&edition=prelim) as this section and substituted “section 9325” for “section 8925”.
 
 #### Effective Date of 2018 Amendment
@@ -120,7 +126,7 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 <a id="section-9318"></a>
 ## § 9318. Thirty years or more: regular commissioned officers
 
-A regular commissioned officer of the Air Force who has at least 30 years of service computed under [section 9326 of this title](./chapter-941-retirement-for-length-of-service.md#section-9326) may be retired upon his request, in the discretion of the President.
+A regular commissioned officer of the Air Force or the Space Force who has at least 30 years of service computed under [section 9326 of this title](./chapter-941-retirement-for-length-of-service.md#section-9326) may be retired upon his request, in the discretion of the President.
 
 ### Statutory Notes
 
@@ -135,6 +141,8 @@ The word “commissioned” is inserted, since the retirement of warrant officer
 A prior section 9319 was renumbered [section 9419 of this title](./chapter-951-training-generally.md#section-9419).
 
 #### Amendments
+2021—Pub. L. 116–283 inserted “or the Space Force” after “Air Force”.
+
 2018—Pub. L. 115–232 renumbered [section 8918 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section8918&num=0&edition=prelim) as this section and substituted “section 9326” for “section 8926”.
 
 #### Effective Date of 2018 Amendment
@@ -196,10 +204,10 @@ Section not applicable to an officer serving on Oct. 5, 1999, in the position of
 
 
 <a id="section-9324"></a>
-## § 9324. Forty years or more: Air Force officers
-**(a)** Except as provided in [section 1186 of this title](./chapter-060-separation-of-regular-officers-for-substandard-performance-of-duty-or-for-certain-other-reasons.md#section-1186), a commissioned officer of the Air Force who has at least 40 years of service computed under [section 9326 of this title](./chapter-941-retirement-for-length-of-service.md#section-9326) shall be retired upon his request.
+## § 9324. Forty years or more: Air Force officers and Space Force officers
+**(a)** Except as provided in [section 1186 of this title](./chapter-060-separation-of-regular-officers-for-substandard-performance-of-duty-or-for-certain-other-reasons.md#section-1186), a commissioned officer of the Air Force or the Space Force who has at least 40 years of service computed under [section 9326 of this title](./chapter-941-retirement-for-length-of-service.md#section-9326) shall be retired upon his request.
 
-**(b)** Any warrant officer of the Air Force who has at least 40 years of service computed under [section 9326(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section9326/a&num=0&edition=prelim) shall be retired upon his request.
+**(b)** Any warrant officer of the Air Force or the Space Force who has at least 40 years of service computed under [section 9326(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section9326/a&num=0&edition=prelim) shall be retired upon his request.
 
 ### Statutory Notes
 
@@ -215,6 +223,8 @@ In subsections (a) and (b), the words “or volunteer service, or both” are om
 In subsection (b), the applicability of 10:942 to warrant officers is based on an opinion of the Judge Advocate General of the Army (JAGA 1950/6951, 4 Jan. 1951), which holds that 10:594 (less provisos) makes 10:942 applicable to warrant officers.
 
 #### Amendments
+2021—Pub. L. 116–283 substituted “Forty years or more: Air Force officers and Space Force officers” for “Forty years or more: Air Force officers” in section catchline and inserted “or the Space Force” after “Air Force” in subsecs. (a) and (b).
+
 2018—Pub. L. 115–232, § 809(a), substituted “section 9326” for “section 8926” in subsec. (a) and “section 9326(a)” for “section 8926(a)” in subsec. (b).
 
 Pub. L. 115–232, § 806(b)(13), renumbered [section 8924 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section8924&num=0&edition=prelim) as this section.
@@ -230,7 +240,7 @@ Amendment by Pub. L. 96–513 effective Sept. 15, 1981, see section 701 of Pub. 
 
 <a id="section-9325"></a>
 ## § 9325. Computation of years of service: voluntary retirement; enlisted members
-**(a)** For the purpose of determining whether an enlisted member of the Air Force may be retired under section 9314 or 9317 of this title, his years of service are computed by adding all active service in the armed forces.
+**(a)** For the purpose of determining whether an enlisted member of the Air Force or the Space Force may be retired under section 9314 or 9317 of this title, his years of service are computed by adding all active service in the armed forces.
 
 **(b)** Time required to be made up under [section 972(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section972/a&num=0&edition=prelim) may not be counted in computing years of service under subsection (a).
 
@@ -254,6 +264,8 @@ Subsection (b) is inserted because of [section 8638 of this title](https://uscod
 The amendment reflects the repeal of [section 8638 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section8638&num=0&edition=prelim) and the enactment of a similar provision in [section 972 of this title](./chapter-049-miscellaneous-prohibitions-and-penalties.md#section-972).
 
 #### Amendments
+2021—Subsec. (a). Pub. L. 116–283 inserted “or the Space Force” after “Air Force”.
+
 2018—Pub. L. 115–232, § 806(b)(13), renumbered [section 8925 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section8925&num=0&edition=prelim) as this section.
 
 Subsec. (a). Pub. L. 115–232, § 809(a), substituted “section 9314 or 9317” for “section 8914 or 8917”.
@@ -293,15 +305,15 @@ Amendment by Pub. L. 96–343 effective with respect to retired pay payable for 
 
 <a id="section-9326"></a>
 ## § 9326. Computation of years of service: voluntary retirement; regular and reserve commissioned officers
-**(a)** For the purpose of determining whether an officer of the Air Force may be retired under section 9311, 9318, or 9324 of this title, his years of service are computed by adding—
+**(a)** For the purpose of determining whether an officer of the Air Force or the Space Force may be retired under section 9311, 9318, or 9324 of this title, the officer’s years of service are computed by adding—
 
-(1) all active service performed as a member of the Army or the Air Force; and
+(1) all active service performed as a member of the Army, the Air Force, or the Space Force; and
 
 (2) all service in the Navy or Marine Corps that may be included in determining the eligibility of an officer of the Navy or Marine Corps for retirement.
 
-**(b)** For the purpose of determining whether a medical officer of the Regular Air Force may be retired under section 9311, 9318, or 9324 of this title, his years of service are computed by adding to his service under subsection (a) all service performed as a contract surgeon, acting assistant surgeon, or contract physician, under a contract to serve full time and to take and change station as ordered.
+**(b)** For the purpose of determining whether a medical officer of the Regular Air Force may be retired under section 9311, 9318, or 9324 of this title, the officer’s years of service are computed by adding to the officer’s service under subsection (a) all service performed as a contract surgeon, acting assistant surgeon, or contract physician, under a contract to serve full time and to take and change station as ordered.
 
-**(c)** For the purpose of determining whether a dental officer of the Regular Air Force may be retired under section 9311, 9318, or 9324 of this title, his years of service are computed by adding to his service under subsection (a) all service as a contract dental surgeon or acting dental surgeon.
+**(c)** For the purpose of determining whether a dental officer of the Regular Air Force may be retired under section 9311, 9318, or 9324 of this title, the officer’s years of service are computed by adding to the officer’s service under subsection (a) all service as a contract dental surgeon or acting dental surgeon.
 
 **(d)** [Section 972(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section972/b&num=0&edition=prelim) excludes from computation of an officer’s years of service for purposes of this section any time identified with respect to that officer under that section.
 
@@ -323,6 +335,12 @@ In subsection (b), the words “as a member of the Medical Reserve Corps”, in 
 Subsection (c) is substituted for 10:953a (less 1st sentence).
 
 #### Amendments
+2021—Pub. L. 116–283, § 923(c)(19)(B), which directed amendment of subsec. (a) by substituting “the officer’s” for “his” wherever appearing, was executed by making the substitution wherever appearing in this section to reflect the probable intent of Congress.
+
+Subsec. (a). Pub. L. 116–283, § 923(c)(19)(A)(i), inserted “or the Space Force” after “of the Air Force” in introductory provisions.
+
+Subsec. (a)(1). Pub. L. 116–283, § 923(c)(19)(A)(ii), substituted “, the Air Force, or the Space Force” for “or the Air Force”.
+
 2018—Pub. L. 115–232, § 806(b)(13), renumbered [section 8926 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section8926&num=0&edition=prelim) as this section.
 
 Subsecs. (a) to (c). Pub. L. 115–232, § 809(a), substituted “section 9311, 9318, or 9324” for “section 8911, 8918, or 8924”.
@@ -353,7 +371,7 @@ Amendment by Pub. L. 104–106 effective Feb. 10, 1996, and applicable to any pe
 <a id="section-9329"></a>
 ## § 9329. Computation of retired pay: law applicable
 
-A member of the Air Force retired under this chapter is entitled to retired pay computed under chapter 945 of this title.
+A member of the Air Force or the Space Force retired under this chapter is entitled to retired pay computed under chapter 945 of this title.
 
 ### Statutory Notes
 
@@ -372,6 +390,8 @@ A prior section 9337, act Aug. 10, 1956, ch. 1041, 70A Stat. 562; Pub. L. 87–6
 A prior section 9338 was renumbered [section 9438 of this title](./chapter-953-united-states-air-force-academy.md#section-9438).
 
 #### Amendments
+2021—Pub. L. 116–283 inserted “or the Space Force” after “Air Force”.
+
 2018—Pub. L. 115–232 renumbered [section 8929 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section8929&num=0&edition=prelim) as this section and substituted “chapter 945” for “chapter 871”.
 
 #### Effective Date of 2018 Amendment

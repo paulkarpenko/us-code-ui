@@ -243,7 +243,7 @@ Subsec. (c)(3). Pub. L. 107–188, § 336(c), added par. (3).
 Pub. L. 102–346, § 1, Aug. 26, 1992, 106 Stat. 928, provided that: “This Act [enacting this section and provisions set out below] may be cited as the ‘Animal Enterprise Protection Act of 1992’.”
 
 #### Study of Effect of Terrorism on Certain Animal Enterprises
-Section 3 of Pub. L. 102–346 directed Attorney General and Secretary of Agriculture to jointly conduct a study on extent and effects of domestic and international terrorism on enterprises using animals for food or fiber production, agriculture, research, or testing, and, not later than 1 year after Aug. 26, 1992, submit a report that describes the results of the study together with any appropriate recommendations and legislation to Congress.
+Pub. L. 102–346, § 3, Aug. 26, 1992, 106 Stat. 929, directed Attorney General and Secretary of Agriculture to jointly conduct a study on extent and effects of domestic and international terrorism on enterprises using animals for food or fiber production, agriculture, research, or testing, and, not later than 1 year after Aug. 26, 1992, submit a report that describes the results of the study together with any appropriate recommendations and legislation to Congress.
 
 
 <a id="section-44"></a>
@@ -263,17 +263,11 @@ Section, act June 25, 1948, ch. 645, 62 Stat. 688, related to penalties for capt
 
 
 <a id="section-46"></a>
-## § 46. Transportation of water hyacinths
-**(a)** Whoever knowingly delivers or receives for transportation, or transports, in interstate commerce, alligator grass (alternanthera philoxeroides), or water chestnut plants (trapa natans) or water hyacinth plants (eichhornia crassipes) or the seeds of such grass or plants; or
-
-**(b)** Whoever knowingly sells, purchases, barters, exchanges, gives, or receives any grass, plant, or seed which has been transported in violation of subsection (a); or
-
-**(c)** Whoever knowingly delivers or receives for transportation, or transports, in interstate commerce, an advertisement, to sell, purchase, barter, exchange, give, or receive alligator grass or water chestnut plants or water hyacinth plants or the seeds of such grass or plants—Shall be fined under this title, or imprisoned not more than six months, or both.
+## § 46. Repealed. Pub. L. 116–260, div. O, title X, § 1002(1), Dec. 27, 2020, 134 Stat. 2155]
 
 ### Statutory Notes
 
-#### Amendments
-1994—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $500”.
+Section, added Aug. 1, 1956, ch. 825, § 1, 70 Stat. 797; amended Pub. L. 103–322, title XXXIII, § 330016(1)(G), Sept. 13, 1994, 108 Stat. 2147, penalized the transportation of alligator grass, water chestnut plants, and water hyacinth plants.
 
 
 <a id="section-47"></a>
@@ -362,9 +356,6 @@ Section, act June 25, 1948, ch. 645, 62 Stat. 688, related to penalties for capt
 
 ### Statutory Notes
 
-#### References in Text
-Section 3 of the Religious Freedom Restoration Act of 1993, referred to in subsec. (d)(4), is section 3 of Pub. L. 103–141, Nov. 16, 1993, 107 Stat. 1488, which is classified to [section 2000bb–1 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2000bb–1&num=0&edition=prelim), The Public Health and Welfare.
-
 #### Amendments
 2019—Pub. L. 116–72 amended section generally. Prior to amendment, section related to animal crush videos.
 
@@ -379,16 +370,13 @@ Pub. L. 111–294, § 2, Dec. 9, 2010, 124 Stat. 3177, provided that: “The Con
 
 <a id="section-49"></a>
 ## § 49. Enforcement of animal fighting prohibitions
-**(a) In General.—** Whoever violates subsection (a)(1), (b), (c), or (e) of section 26 of the Animal Welfare Act shall be fined under this title, imprisoned for not more than 5 years, or both, for each violation.
+**(a) In General.—** Whoever violates subsection (a)(1), (b), (c), or (d) of section 26 of the Animal Welfare Act shall be fined under this title, imprisoned for not more than 5 years, or both, for each violation.
 
 **(b) Attending an Animal Fighting Venture.—** Whoever violates subsection (a)(2)(A) of section 26 of the Animal Welfare Act ([7 U.S.C. 2156](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section2156&num=0&edition=prelim)) shall be fined under this title, imprisoned for not more than 1 year, or both, for each violation.
 
 **(c) Causing an Individual Who Has Not Attained the Age of 16 To Attend an Animal Fighting Venture.—** Whoever violates subsection (a)(2)(B) of section 26 ([7 U.S.C. 2156](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section2156&num=0&edition=prelim)) of the Animal Welfare Act shall be fined under this title, imprisoned for not more than 3 years, or both, for each violation.
 
 ### Statutory Notes
-
-#### Amendment of Subsection (a)
-Pub. L. 115–334, title XII, § 12616(d), (e), Dec. 20, 2018, 132 Stat. 5016, provided that, effective on the date that is one year after Dec. 20, 2018, subsec. (a) of this section is amended by striking “(e)” and inserting “(d)”. See 2018 Amendment note below.
 
 #### References in Text
 Section 26 of the Animal Welfare Act, referred to in text, is [section 2156 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section2156&num=0&edition=prelim), Agriculture.

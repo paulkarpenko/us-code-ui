@@ -12,11 +12,11 @@ source: >-
 
 **(b) Duties** In acting as the national coordinator of the AMBER Alert communications network, the Coordinator shall—
 
-(1) seek to eliminate gaps in the network, including gaps in areas of interstate travel;
+(1) seek to eliminate gaps in the network, including gaps in areas of interstate travel (including airports, maritime ports, border crossing areas and checkpoints, and ports of exit from the United States);
 
-(2) work with States to encourage the development of additional elements (known as local AMBER plans) in the network;
+(2) work with States, territories of the United States, and tribal governments to encourage the development of additional elements (known as local AMBER plans) in the network;
 
-(3) work with States to ensure appropriate regional coordination of various elements of the network; and
+(3) work with States, territories of the United States, and tribal governments to ensure appropriate regional coordination of various elements of the network; and
 
 (4) act as the nationwide point of contact for—
 
@@ -26,7 +26,7 @@ source: >-
 
 **(c) Consultation with Federal Bureau of Investigation** In carrying out duties under subsection (b), the Coordinator shall notify and consult with the Director of the Federal Bureau of Investigation concerning each child abduction for which an alert is issued through the AMBER Alert communications network.
 
-**(d) Cooperation** The Coordinator shall cooperate with the Secretary of Transportation and the Federal Communications Commission in carrying out activities under this section.
+**(d) Cooperation** The Coordinator shall cooperate with the Secretary of Transportation, the Secretary of Homeland Security, and the Federal Communications Commission in carrying out activities under this section.
 
 **(e) Report** Not later than March 1, 2005, the Coordinator shall submit to Congress a report on the activities of the Coordinator and the effectiveness and status of the AMBER plans of each State that has implemented such a plan. The Coordinator shall prepare the report in consultation with the Secretary of Transportation.
 
@@ -34,6 +34,13 @@ source: >-
 
 #### Codification
 Section was formerly classified to [section 5791 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5791&num=0&edition=prelim), The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
+
+#### Amendments
+2021—Subsec. (b)(1). Pub. L. 116–283, § 10001(a)(1)(A)(i), inserted “(including airports, maritime ports, border crossing areas and checkpoints, and ports of exit from the United States)” after “gaps in areas of interstate travel”.
+
+Subsec. (b)(2), (3). Pub. L. 116–283, § 10001(a)(1)(A)(ii), inserted “, territories of the United States, and tribal governments” after “States”.
+
+Subsec. (d). Pub. L. 116–283, § 10001(a)(1)(B), inserted “, the Secretary of Homeland Security,” after “Secretary of Transportation”.
 
 
 <a id="section-20502"></a>
@@ -48,63 +55,74 @@ Section was formerly classified to [section 5791 of Title 42](https://uscode.hou
 
 (1) The minimum standards established under subsection (a) shall be adoptable on a voluntary basis only.
 
-(2) The minimum standards shall, to the maximum extent practicable (as determined by the Coordinator in consultation with State and local law enforcement agencies), provide that appropriate information relating to the special needs of an abducted child (including health care needs) are disseminated to the appropriate law enforcement, public health, and other public officials.
+(2) The minimum standards shall, to the maximum extent practicable (as determined by the Coordinator in consultation with State, territorial, tribal, and local law enforcement agencies), provide that appropriate information relating to the special needs of an abducted child (including health care needs) are disseminated to the appropriate law enforcement, public health, and other public officials.
 
-(3) The minimum standards shall, to the maximum extent practicable (as determined by the Coordinator in consultation with State and local law enforcement agencies), provide that the dissemination of an alert through the AMBER Alert communications network be limited to the geographic areas most likely to facilitate the recovery of the abducted child concerned.
+(3) The minimum standards shall, to the maximum extent practicable (as determined by the Coordinator in consultation with State, territorial, tribal, and local law enforcement agencies), provide that the dissemination of an alert through the AMBER Alert communications network be limited to the geographic areas most likely to facilitate the recovery of the abducted child concerned.
 
-(4) In carrying out activities under subsection (a), the Coordinator may not interfere with the current system of voluntary coordination between local broadcasters and State and local law enforcement agencies for purposes of the AMBER Alert communications network.
+(4) In carrying out activities under subsection (a), the Coordinator may not interfere with the current system of voluntary coordination between local broadcasters and State, territorial, tribal, and local law enforcement agencies for purposes of the AMBER Alert communications network.
 
 **(c) Cooperation**
 
-(1) The Coordinator shall cooperate with the Secretary of Transportation and the Federal Communications Commission in carrying out activities under this section.
+(1) The Coordinator shall cooperate with the Secretary of Transportation, the Secretary of Homeland Security, and the Federal Communications Commission in carrying out activities under this section.
 
-(2) The Coordinator shall also cooperate with local broadcasters and State and local law enforcement agencies in establishing minimum standards under this section.
+(2) The Coordinator shall also cooperate with local broadcasters and State, territorial, tribal, and local law enforcement agencies in establishing minimum standards under this section.
 
 ### Statutory Notes
 
 #### Codification
 Section was formerly classified to [section 5791a of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5791a&num=0&edition=prelim), The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
 
+#### Amendments
+2021—Subsec. (b)(2) to (4). Pub. L. 116–283, § 10001(a)(2)(A), inserted “, territorial, tribal,” after “State”.
+
+Subsec. (c)(1). Pub. L. 116–283, § 10001(a)(2)(B)(i), inserted “, the Secretary of Homeland Security,” after “Secretary of Transportation”.
+
+Subsec. (c)(2). Pub. L. 116–283, § 10001(a)(2)(B)(ii), inserted “, territorial, tribal,” after “State”.
+
 
 <a id="section-20503"></a>
-## § 20503. Grant program for notification and communications systems along highways for recovery of abducted children
-**(a) Program required** The Secretary of Transportation shall carry out a program to provide grants to States for the development or enhancement of notification or communications systems along highways for alerts and other information for the recovery of abducted children.
+## § 20503. Grant program for notification and communications systems along highways and major transportation routes for recovery of abducted children
+**(a) Program required** The Secretary of Transportation (referred to in this section as the “Secretary”) shall carry out a program to provide grants to States for the development or enhancement of notification or communications systems along highways and at airports, maritime ports, border crossing areas and checkpoints, and ports of exit from the United States for alerts and other information for the recovery of abducted children.
 
 **(b) Development grants**
 
-(1) **In general** — The Secretary may make a grant to a State under this subsection for the development of a State program for the use of changeable message signs or other motorist information systems to notify motorists about abductions of children. The State program shall provide for the planning, coordination, and design of systems, protocols, and message sets that support the coordination and communication necessary to notify motorists about abductions of children.
+(1) **In general** — The Secretary may make a grant to a State under this subsection for the development of a State program for the use of changeable message signs or other information systems to notify motorists, aircraft passengers, ship passengers, and travelers about abductions of children. The State program shall provide for the planning, coordination, and design of systems, protocols, and message sets that support the coordination and communication necessary to notify motorists, aircraft passengers, ship passengers, and travelers about abductions of children.
 
 (2) **Eligible activities** — A grant under this subsection may be used by a State for the following purposes:
 
-  (A) To develop general policies and procedures to guide the use of changeable message signs or other motorist information systems to notify motorists about abductions of children.
+  (A) To develop general policies and procedures to guide the use of changeable message signs or other information systems to notify motorists, aircraft passengers, ship passengers, and travelers about abductions of children.
 
   (B) To develop guidance or policies on the content and format of alert messages to be conveyed on changeable message signs or other traveler information systems.
 
   (C) To coordinate State, regional, and local plans for the use of changeable message signs or other transportation related issues.
 
-  (D) To plan secure and reliable communications systems and protocols among public safety and transportation agencies or modify existing communications systems to support the notification of motorists about abductions of children.
+  (D) To plan secure and reliable communications systems and protocols among public safety and transportation agencies or modify existing communications systems to support the notification of motorists, aircraft passengers, ship passengers, and travelers about abductions of children.
 
-  (E) To plan and design improved systems for communicating with motorists, including the capability for issuing wide area alerts to motorists.
+  (E) To plan and design improved systems for communicating with motorists, aircraft passengers, ship passengers, and travelers, including the capability for issuing wide area alerts to motorists, aircraft passengers, ship passengers, and travelers.
 
-  (F) To plan systems and protocols to facilitate the efficient issuance of child abduction notification and other key information to motorists during off-hours.
+  (F) To plan systems and protocols to facilitate the efficient issuance of child abduction notification and other key information to motorists, aircraft passengers, ship passengers, and travelers during off-hours.
 
-  (G) To provide training and guidance to transportation authorities to facilitate appropriate use of changeable message signs and other traveler information systems for the notification of motorists about abductions of children.
+  (G) To provide training and guidance to transportation authorities to facilitate appropriate use of changeable message signs and other traveler information systems for the notification of motorists, aircraft passengers, ship passengers, and travelers about abductions of children.
 
 **(c) Implementation grants**
 
-(1) **In general** — The Secretary may make a grant to a State under this subsection for the implementation of a program for the use of changeable message signs or other motorist information systems to notify motorists about abductions of children. A State shall be eligible for a grant under this subsection if the Secretary determines that the State has developed a State program in accordance with subsection (b).
+(1) **In general** — The Secretary may make a grant to a State under this subsection for the implementation of a program for the use of changeable message signs or other information systems to notify motorists, aircraft passengers, ship passengers, and travelers about abductions of children. A State shall be eligible for a grant under this subsection if the Secretary determines that the State has developed a State program in accordance with subsection (b).
 
-(2) **Eligible activities** — A grant under this subsection may be used by a State to support the implementation of systems that use changeable message signs or other motorist information systems to notify motorists about abductions of children. Such support may include the purchase and installation of changeable message signs or other motorist information systems to notify motorists about abductions of children.
+(2) **Eligible activities** — A grant under this subsection may be used by a State to support the implementation of systems that use changeable message signs or other information systems to notify motorists, aircraft passengers, ship passengers, and travelers about abductions of children. Such support may include the purchase and installation of changeable message signs or other information systems to notify motorists, aircraft passengers, ship passengers, and travelers about abductions of children.
 
-**(d) Federal share** The Federal share of the cost of any activities funded by a grant under this section may not exceed 80 percent.
+**(d) Federal share**
+
+(1) **In general** — Except as provided in paragraph (2), the Federal share of the cost of any activities funded by a grant under this section may not exceed 80 percent.
+
+(2) **Waiver** — If the Secretary determines that American Samoa, Guam, the Northern Mariana Islands, Puerto Rico, or the Virgin Islands of the United States is unable to comply with the requirement under paragraph (1), the Secretary shall waive such requirement.
 
 **(e) Distribution of grant amounts** The Secretary shall, to the maximum extent practicable, distribute grants under this section equally among the States that apply for a grant under this section within the time period prescribed by the Secretary.
 
 **(f) Administration** The Secretary shall prescribe requirements, including application requirements, for the receipt of grants under this section.
 
-**(g) Definition** In this section, the term “State” means any of the 50 States, the District of Columbia, or Puerto Rico.
+**(g) Definition** In this chapter, the term “State” means any of the 50 States, the District of Columbia, American Samoa, Guam, Puerto Rico, the Northern Mariana Islands, the Virgin Islands of the United States, and any other territory of the United States.
 
-**(h) Authorization of appropriations** There is authorized to be appropriated to the Secretary to carry out this section $20,000,000 for fiscal year 2004. Such amounts shall remain available until expended.
+**(h) Authorization of appropriations** There is authorized to be appropriated to the Secretary to carry out this section $20,000,000 for each of fiscal years 2019 through 2023. Such amounts shall remain available until expended.
 
 **(i) Study of State programs**
 
@@ -116,6 +134,29 @@ Section was formerly classified to [section 5791a of Title 42](https://uscode.ho
 
 #### Codification
 Section was formerly classified to [section 5791b of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5791b&num=0&edition=prelim), The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
+
+#### Amendments
+2021—Pub. L. 116–283, § 10001(b)(1)(A), inserted “and major transportation routes” after “along highways” in section catchline.
+
+Subsec. (a). Pub. L. 116–283, § 10001(b)(1)(B), inserted “(referred to in this section as the ‘Secretary’)” after “Secretary of Transportation” and “and at airports, maritime ports, border crossing areas and checkpoints, and ports of exit from the United States” after “along highways”.
+
+Subsec. (b)(1). Pub. L. 116–283, § 10001(b)(1)(C)(i), substituted “other information systems to notify motorists, aircraft passengers, ship passengers, and travelers” for “other motorist information systems to notify motorists” and inserted “, aircraft passengers, ship passengers, and travelers” after “necessary to notify motorists”.
+
+Subsec. (b)(2)(A). Pub. L. 116–283, § 10001(b)(1)(C)(ii)(I), substituted “other information systems to notify motorists, aircraft passengers, ship passengers, and travelers” for “other motorist information systems to notify motorists”.
+
+Subsec. (b)(2)(D). Pub. L. 116–283, § 10001(b)(1)(C)(ii)(II), inserted “, aircraft passengers, ship passengers, and travelers” after “support the notification of motorists”.
+
+Subsec. (b)(2)(E). Pub. L. 116–283, § 10001(b)(1)(C)(ii)(III), inserted “, aircraft passengers, ship passengers, and travelers” after “motorists” in two places.
+
+Subsec. (b)(2)(F), (G). Pub. L. 116–283, § 10001(b)(1)(C)(ii)(IV), (V), inserted “, aircraft passengers, ship passengers, and travelers” after “motorists”.
+
+Subsec. (c). Pub. L. 116–283, § 10001(b)(1)(D), substituted “other information systems to notify motorists, aircraft passengers, ship passengers, and travelers” for “other motorist information systems” in two places.
+
+Subsec. (d). Pub. L. 116–283, § 10001(b)(1)(E), amended subsec. (d) generally. Prior to amendment, text read as follows: “The Federal share of the cost of any activities funded by a grant under this section may not exceed 80 percent.”
+
+Subsec. (g). Pub. L. 116–283, § 10001(b)(1)(F), substituted “In this chapter” for “In this section” and “American Samoa, Guam, Puerto Rico, the Northern Mariana Islands, the Virgin Islands of the United States, and any other territory of the United States” for “or Puerto Rico”.
+
+Subsec. (h). Pub. L. 116–283, § 10001(b)(1)(G), substituted “each of fiscal years 2019 through 2023” for “fiscal year 2004”.
 
 
 <a id="section-20504"></a>
@@ -134,17 +175,17 @@ Section was formerly classified to [section 5791b of Title 42](https://uscode.ho
 
 (3) the development and implementation of new technologies to improve AMBER Alert communications;
 
-(4) the integration of State or regional AMBER Alert communication plans with an Indian tribe; and
+(4) the integration of State or regional AMBER Alert communication plans with a territorial government or an Indian tribe; and
 
 (5) such other activities as the Attorney General considers appropriate for supporting the AMBER Alert communications program.
 
 **(c) Federal share**
 
-(1) **In general** — Except as provided in paragraph (2), the Federal share of the cost of any activities funded by a grant under the program under subsection (a) may not exceed 50 percent.
+(1) **In general** — Except as provided in paragraph (2), the Federal share of the cost of any activities funded by a grant under this section may not exceed 50 percent.
 
-(2) **Waiver of Federal share** — If the Attorney General determines that an Indian tribe does not have sufficient funds available to comply with the Federal share requirement under paragraph (1) for the cost of activities funded by a grant for the purpose described in subsection (b)(4), the Attorney General may increase the Federal share of the costs for such activities to the extent the Attorney General determines necessary.
+(2) **Waiver** — If the Attorney General determines that American Samoa, Guam, the Northern Mariana Islands, Puerto Rico, the Virgin Islands of the United States, or an Indian tribe is unable to comply with the requirement under paragraph (1), the Attorney General shall waive such requirement.
 
-**(d) Distribution of grant amounts on geographic basis** The Attorney General shall, to the maximum extent practicable, ensure the distribution of grants under the program under subsection (a) on an equitable basis throughout the various regions of the United States.
+**(d) Distribution of grant amounts on geographic basis** The Attorney General shall, to the maximum extent practicable, ensure the distribution of grants under the program under subsection (a) on an equitable basis throughout the various regions of the United States, including territories of the United States.
 
 **(e) Administration** The Attorney General shall prescribe requirements, including application requirements, and standards to improve accountability and transparency for grants awarded under the program under subsection (a).
 
@@ -162,6 +203,16 @@ Section was formerly classified to [section 5791b of Title 42](https://uscode.ho
 Section was formerly classified to [section 5791c of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5791c&num=0&edition=prelim), The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
 
 #### Amendments
+2021—Subsec. (b)(4). Pub. L. 116–283, § 10001(c)(1), inserted “a territorial government or” after “with”.
+
+Subsec. (c). Pub. L. 116–283, § 10001(c)(2), amended subsec. (c) generally. Prior to amendment, text read as follows:
+
+“(1) In general.—Except as provided in paragraph (2), the Federal share of the cost of any activities funded by a grant under the program under subsection (a) may not exceed 50 percent.
+
+“(2) Waiver of Federal share.—If the Attorney General determines that an Indian tribe does not have sufficient funds available to comply with the Federal share requirement under paragraph (1) for the cost of activities funded by a grant for the purpose described in subsection (b)(4), the Attorney General may increase the Federal share of the costs for such activities to the extent the Attorney General determines necessary.”
+
+Subsec. (d). Pub. L. 116–283, § 10001(c)(3), inserted “, including territories of the United States” before period at end.
+
 2018—Subsec. (a). Pub. L. 115–166, § 2(1), amended subsec. (a) generally. Prior to amendment, text read as follows: “The Attorney General shall carry out a program to provide grants to States for the development or enhancement of programs and activities for the support of AMBER Alert communications plans.”
 
 Subsec. (b)(4), (5). Pub. L. 115–166, § 2(2), added par. (4) and redesignated former par. (4) as (5).

@@ -104,7 +104,7 @@ To provide a national historic light station program, the Secretary shall—
 #### References in Text
 The McKinney-Vento Homeless Assistance Act, referred to in subsec. (c)(1), is Pub. L. 100–77, July 22, 1987, 101 Stat. 482, which is classified principally to chapter 119 (§ 11301 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 11301 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section11301&num=0&edition=prelim) and Tables.
 
-Section 416(d) of the Coast Guard Authorization Act of 1998, referred to in subsec. (c)(1), which was set out as a note under [section 93 of Title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section93&num=0&edition=prelim), Coast Guard, was transferred and is now set out as a note under [section 504 of Title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section504&num=0&edition=prelim).
+Section 416(d) of the Coast Guard Authorization Act of 1998, referred to in subsec. (c)(1), which was formerly set out as a note under [section 93 of Title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section93&num=0&edition=prelim), Coast Guard, was transferred and is now set out as a note under [section 504 of Title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section504&num=0&edition=prelim).
 
 
 <a id="section-305104"></a>
@@ -131,7 +131,7 @@ Section 416(d) of the Coast Guard Authorization Act of 1998, referred to in subs
 
 (8) the United States shall have the right, at any time, to enter the historic light station without notice, for purposes of operating, maintaining, and inspecting any aid to navigation and for the purpose of ensuring compliance with this section, to the extent that it is not possible to provide advance notice.
 
-**(b) Maintenance of Aid to Navigation.—** Any eligible entity to which a historic light station is conveyed shall not be required to maintain any Federal aid to navigation associated with a historic light station, except any private aid to navigation permitted to the eligible entity under section 83 11 See References to Sections of Title 14 as Redesignated by Pub. L. 115–282 note below. of title 14.
+**(b) Maintenance of Aid to Navigation.—** Any eligible entity to which a historic light station is conveyed shall not be required to maintain any Federal aid to navigation associated with a historic light station, except any private aid to navigation permitted to the eligible entity under section 83 11 See References in Text note below. of title 14.
 
 **(c) Reversion.—** In addition to any term or condition established pursuant to this section, the conveyance of a historic light station shall include a condition that the historic light station, or any associated historic artifact conveyed to the eligible entity in conjunction with the historic light station conveyance, including any lens or lantern, at the option of the Administrator, shall revert to the United States and be placed under the administrative control of the Administrator, if—
 
@@ -157,8 +157,8 @@ Section 416(d) of the Coast Guard Authorization Act of 1998, referred to in subs
 | 305104 | [16 U.S.C. 470w–7(c)(1)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section470w–7/c/1&num=0&edition=prelim) through (3). | Pub. L. 89–665, title III, § 308(c)(1) through (3), as added Pub. L. 106–355, § 2, Oct. 24, 2000, 114 Stat. 1386. |
 |  | [16 U.S.C. 470w–7(c)(4)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section470w–7/c/4&num=0&edition=prelim). | Pub. L. 89–665, title III, § 308(c)(4), as added Pub. L. 108–293, title VI, § 627, Aug. 9, 2004, 118 Stat. 1066. |
 
-#### References to Sections of Title 14 as Redesignated by Pub. L. 115–282
-[Section 83 of title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section83&num=0&edition=prelim) redesignated [section 542 of title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section542&num=0&edition=prelim) by Pub. L. 115–282, title I, § 105(b), Dec. 4, 2018, 132 Stat. 4200, and references to [section 83 of title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section83&num=0&edition=prelim) deemed to refer to such redesignated section, see section 123(b)(1) of Pub. L. 115–282, set out as a note preceding [section 101 of Title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section101&num=0&edition=prelim), Coast Guard.
+#### References in Text
+[Section 83 of title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section83&num=0&edition=prelim), referred to in subsec. (b), was redesignated [section 542 of title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section542&num=0&edition=prelim) by Pub. L. 115–282, title I, § 105(b), Dec. 4, 2018, 132 Stat. 4200, and references to [section 83 of title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section83&num=0&edition=prelim) deemed to refer to such redesignated section, see section 123(b)(1) of Pub. L. 115–282, set out as a References to Redesignated Sections of Title 14 note preceding [section 101 of Title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section101&num=0&edition=prelim), Coast Guard.
 
 
 <a id="section-305105"></a>

@@ -99,6 +99,10 @@ Pub. L. 111–8, div. F, title I, Mar. 11, 2009, 123 Stat. 757, provided in part
 
 Similar provisions were contained in the following appropriation acts:
 
+Pub. L. 116–260, div. H, title I, Dec. 27, 2020, 134 Stat. 1556.
+
+Pub. L. 116—94, div. A, title I, Dec. 20, 2019, 133 Stat. 2545.
+
 Pub. L. 115–245, div. B, title I, Sept. 28, 2018, 132 Stat. 3056.
 
 Pub. L. 115–141, div. H, title I, Mar. 23, 2018, 132 Stat. 704.
@@ -192,6 +196,8 @@ There shall not be taken into account under paragraph (1) so much of the taxes i
   (B) whether such provision of law is a subsequently enacted provision or directly or indirectly seeks to waive the application of this subsection.
 
 (2) **Exception for prior obligations** — Paragraph (1) shall not apply to any expenditure to liquidate any contract entered into (or for any amount otherwise obligated) before October 1, 2023, in accordance with the provisions of this section.
+
+**(f) Additional transfer to trust fund** Out of money in the Treasury not otherwise appropriated, there is hereby appropriated $14,000,000,000 to the Airport and Airway Trust Fund.
 
 ### Statutory Notes
 
@@ -291,6 +297,8 @@ The FAA Reauthorization Act of 2018, referred to in subsec. (d)(1)(A), is Pub. L
 The date of the enactment of the last Act referred to in subparagraph (A), referred to in subsec. (d)(1), is the date of enactment of the FAA Reauthorization Act of 2018, Pub. L. 115–254, which was approved Oct. 5, 2018.
 
 #### Amendments
+2020—Subsec. (f). Pub. L. 116–159 added subsec. (f).
+
 2018—Subsec. (d)(1). Pub. L. 115–254, § 801(a)(1), substituted “October 1, 2023” for “October 1, 2018” in introductory provisions.
 
 Pub. L. 115–141, § 201(a)(1), substituted “October 1, 2018” for “April 1, 2018” in introductory provisions.
@@ -793,11 +801,11 @@ Pub. L. 97–248, title II, § 281(d), Sept. 3, 1982, 96 Stat. 566, provided tha
 
     (ii) whether such provision of law is a subsequently enacted provision or directly or indirectly seeks to waive the application of this paragraph.
 
-  (B) *Exception for prior obligations* — Subparagraph (A) shall not apply to any expenditure to liquidate any contract entered into (or for any amount otherwise obligated) before October 1, 2020, in accordance with the provisions of this section.
+  (B) *Exception for prior obligations* — Subparagraph (A) shall not apply to any expenditure to liquidate any contract entered into (or for any amount otherwise obligated) before October 1, 2021, in accordance with the provisions of this section.
 
 **(c) Expenditures from Highway Trust Fund**
 
-(1) **Federal-aid highway program** — Except as provided in subsection (e), amounts in the Highway Trust Fund shall be available, as provided by appropriation Acts, for making expenditures before October 1, 2020, to meet those obligations of the United States heretofore or hereafter incurred which are authorized to be paid out of the Highway Trust Fund under the FAST Act or any other provision of law which was referred to in this paragraph before the date of the enactment of such Act (as such Act and provisions of law are in effect on the date of the enactment of such Act).
+(1) **Federal-aid highway program** — Except as provided in subsection (e), amounts in the Highway Trust Fund shall be available, as provided by appropriation Acts, for making expenditures before October 1, 2021, to meet those obligations of the United States heretofore or hereafter incurred which are authorized to be paid out of the Highway Trust Fund under the Continuing Appropriations Act, 2021 and Other Extensions Act or any other provision of law which was referred to in this paragraph before the date of the enactment of such Act (as such Act and provisions of law are in effect on the date of the enactment of such Act).
 
 (2) **Floor stocks refunds** — The Secretary shall pay from time to time from the Highway Trust Fund into the general fund of the Treasury amounts equivalent to the floor stocks refunds made before July 1, 2023, under section 6412(a). The amounts payable from the Highway Trust Fund under the preceding sentence shall be determined by taking into account only the portion of the taxes which are deposited into the Highway Trust Fund.
 
@@ -898,7 +906,7 @@ Pub. L. 97–248, title II, § 281(d), Sept. 3, 1982, 96 Stat. 566, provided tha
 
   (E) 9.71 cents per MCF (determined at standard temperature and pressure) in the case of compressed natural gas.
 
-(3) **Expenditures from Account** — Amounts in the Mass Transit Account shall be available, as provided by appropriation Acts, for making capital or capital related expenditures (including capital expenditures for new projects) before October 1, 2020, in accordance with the FAST Act or any other provision of law which was referred to in this paragraph before the date of the enactment of such Act (as such Act and provisions of law are in effect on the date of the enactment of such Act).
+(3) **Expenditures from Account** — Amounts in the Mass Transit Account shall be available, as provided by appropriation Acts, for making capital or capital related expenditures (including capital expenditures for new projects) before October 1, 2021, in accordance with the Continuing Appropriations Act, 2021 and Other Extensions Act or any other provision of law which was referred to in this paragraph before the date of the enactment of such Act (as such Act and provisions of law are in effect on the date of the enactment of such Act).
 
 (4) **Limitation** — Rules similar to the rules of subsection (d) shall apply to the Mass Transit Account.
 
@@ -952,16 +960,22 @@ Pub. L. 97–248, title II, § 281(d), Sept. 3, 1982, 96 Stat. 566, provided tha
 
 (9) **Additional increase in fund balance** — There is hereby transferred to the Highway Account (as defined in subsection (e)(5)(B)) in the Highway Trust Fund amounts appropriated from the Leaking Underground Storage Tank Trust Fund under section 9508(c)(4).
 
-(10) **Treatment of amounts** — Any amount appropriated or transferred under this subsection to the Highway Trust Fund shall remain available without fiscal year limitation.
+(10) **Further transfers to trust fund** — Out of money in the Treasury not otherwise appropriated, there is hereby appropriated—
+
+  (A) $10,400,000,000 to the Highway Account (as defined in subsection (e)(5)(B)) in the Highway Trust Fund; and
+
+  (B) $3,200,000,000 to the Mass Transit Account in the Highway Trust Fund.
+
+(11) **Treatment of amounts** — Any amount appropriated or transferred under this subsection to the Highway Trust Fund shall remain available without fiscal year limitation.
 
 ### Statutory Notes
 
 #### References in Text
-The FAST Act, referred to in subsecs. (c)(1) and (e)(3), is Pub. L. 114–94, Dec. 4, 2015, 129 Stat. 1312, also known as the Fixing America’s Surface Transportation Act. For complete classification of this Act to the Code, see Short Title of 2015 Amendment note set out under [section 101 of Title 23](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title23-section101&num=0&edition=prelim), Highways, and Tables.
+The Continuing Appropriations Act, 2021 and Other Extensions Act, referred to in subsecs. (c)(1) and (e)(3), is Pub. L. 116–159, Oct. 1, 2020, 134 Stat. 709. For complete classification of this Act to the Code, see Tables.
 
-The provisions of law referred to in this paragraph before the date of the enactment of such Act, referred to in subsec. (c)(1), means the provisions of law referred to in subsec. (c)(1) before the date of enactment of the FAST Act (Pub. L. 114–94), which was approved Dec. 4, 2015. Those provisions are section 209 of the Highway Revenue Act of 1956, titles I and II of the Surface Transportation Assistance Act of 1982, the Surface Transportation and Uniform Relocation Assistance Act of 1987, the Intermodal Surface Transportation Efficiency Act of 1991, the Transportation Equity Act for the 21st Century, the Surface Transportation Extension Act of 2003, the Surface Transportation Extension Act of 2004, the Surface Transportation Extension Act of 2004, Part II, the Surface Transportation Extension Act of 2004, Part III, the Surface Transportation Extension Act of 2004, Part IV, the Surface Transportation Extension Act of 2004, Part V, the Surface Transportation Extension Act of 2005, the Surface Transportation Extension Act of 2005, Part II, the Surface Transportation Extension Act of 2005, Part III, the Surface Transportation Extension Act of 2005, Part IV, the Surface Transportation Extension Act of 2005, Part V, the Surface Transportation Extension Act of 2005, Part VI, the Safe, Accountable, Flexible, Efficient Transportation Equity Act: A Legacy for Users, the SAFETEA–LU Technical Corrections Act of 2008, the first Continuing Appropriations Resolution for Fiscal Year 2010 enacted into law, the Surface Transportation Extension Act of 2010, the Surface Transportation Extension Act of 2010, Part II, the Surface Transportation Extension Act of 2011, the Surface Transportation Extension Act of 2011, Part II, the Surface Transportation Extension Act of 2012, the Temporary Surface Transportation Extension Act of 2012, the MAP–21, the Highway and Transportation Funding Act of 2014, the Highway and Transportation Funding Act of 2015, the Surface Transportation and Veterans Health Care Choice Improvement Act of 2015, the Surface Transportation Extension Act of 2015, and the Surface Transportation Extension Act of 2015, Part II. See notes below.
+The provisions of law referred to in this paragraph before the date of the enactment of such Act, referred to in subsec. (c)(1), means the provisions of law referred to in subsec. (c)(1) before the date of enactment of the Continuing Appropriations Act, 2021 and Other Extensions Act (Pub. L. 116–159), which was approved Oct. 1, 2020. Those provisions are section 209 of the Highway Revenue Act of 1956, titles I and II of the Surface Transportation Assistance Act of 1982, the Surface Transportation and Uniform Relocation Assistance Act of 1987, the Intermodal Surface Transportation Efficiency Act of 1991, the Transportation Equity Act for the 21st Century, the Surface Transportation Extension Act of 2003, the Surface Transportation Extension Act of 2004, the Surface Transportation Extension Act of 2004, Part II, the Surface Transportation Extension Act of 2004, Part III, the Surface Transportation Extension Act of 2004, Part IV, the Surface Transportation Extension Act of 2004, Part V, the Surface Transportation Extension Act of 2005, the Surface Transportation Extension Act of 2005, Part II, the Surface Transportation Extension Act of 2005, Part III, the Surface Transportation Extension Act of 2005, Part IV, the Surface Transportation Extension Act of 2005, Part V, the Surface Transportation Extension Act of 2005, Part VI, the Safe, Accountable, Flexible, Efficient Transportation Equity Act: A Legacy for Users, the SAFETEA–LU Technical Corrections Act of 2008, the first Continuing Appropriations Resolution for Fiscal Year 2010 enacted into law, the Surface Transportation Extension Act of 2010, the Surface Transportation Extension Act of 2010, Part II, the Surface Transportation Extension Act of 2011, the Surface Transportation Extension Act of 2011, Part II, the Surface Transportation Extension Act of 2012, the Temporary Surface Transportation Extension Act of 2012, the MAP–21, the Highway and Transportation Funding Act of 2014, the Highway and Transportation Funding Act of 2015, the Surface Transportation and Veterans Health Care Choice Improvement Act of 2015, the Surface Transportation Extension Act of 2015, the Surface Transportation Extension Act of 2015, Part II, and the FAST Act. See notes below.
 
-The provisions of law referred to in this paragraph before the date of the enactment of such Act, referred to in subsec. (e)(3), means the provisions of law referred to in subsec. (e)(3) before the date of enactment of the FAST Act (Pub. L. 114–94), which was approved Dec. 4, 2015. Those provisions are section 5338(a)(1) and (b)(1) of title 49, the Intermodal Surface Transportation Efficiency Act of 1991, the Transportation Equity Act for the 21st Century, the Surface Transportation Extension Act of 2003, the Surface Transportation Extension Act of 2004, the Surface Transportation Extension Act of 2004, Part II, the Surface Transportation Extension Act of 2004, Part III, the Surface Transportation Extension Act of 2004, Part IV, the Surface Transportation Extension Act of 2004, Part V, the Surface Transportation Extension Act of 2005, the Surface Transportation Extension Act of 2005, Part II, the Surface Transportation Extension Act of 2005, Part III, the Surface Transportation Extension Act of 2005, Part IV, the Surface Transportation Extension Act of 2005, Part V, the Surface Transportation Extension Act of 2005, Part VI, the Safe, Accountable, Flexible, Efficient Transportation Equity Act: A Legacy for Users, the SAFETEA–LU Technical Corrections Act of 2008, the first Continuing Appropriations Resolution for Fiscal Year 2010 enacted into law, the Surface Transportation Extension Act of 2010, the Surface Transportation Extension Act of 2010, Part II, the Surface Transportation Extension Act of 2011, the Surface Transportation Extension Act of 2011, Part II, the Surface Transportation Extension Act of 2012, the Temporary Surface Transportation Extension Act of 2012, the MAP–21, the Highway and Transportation Funding Act of 2014, the Highway and Transportation Funding Act of 2015, the Surface Transportation and Veterans Health Care Choice Improvement Act of 2015, the Surface Transportation Extension Act of 2015, and the Surface Transportation Extension Act of 2015, Part II. See notes below.
+The provisions of law referred to in this paragraph before the date of the enactment of such Act, referred to in subsec. (e)(3), means the provisions of law referred to in subsec. (e)(3) before the date of enactment of the Continuing Appropriations Act, 2021 and Other Extensions Act (Pub. L. 116–159), which was approved Oct. 1, 2020. Those provisions are section 5338(a)(1) and (b)(1) of title 49, the Intermodal Surface Transportation Efficiency Act of 1991, the Transportation Equity Act for the 21st Century, the Surface Transportation Extension Act of 2003, the Surface Transportation Extension Act of 2004, the Surface Transportation Extension Act of 2004, Part II, the Surface Transportation Extension Act of 2004, Part III, the Surface Transportation Extension Act of 2004, Part IV, the Surface Transportation Extension Act of 2004, Part V, the Surface Transportation Extension Act of 2005, the Surface Transportation Extension Act of 2005, Part II, the Surface Transportation Extension Act of 2005, Part III, the Surface Transportation Extension Act of 2005, Part IV, the Surface Transportation Extension Act of 2005, Part V, the Surface Transportation Extension Act of 2005, Part VI, the Safe, Accountable, Flexible, Efficient Transportation Equity Act: A Legacy for Users, the SAFETEA–LU Technical Corrections Act of 2008, the first Continuing Appropriations Resolution for Fiscal Year 2010 enacted into law, the Surface Transportation Extension Act of 2010, the Surface Transportation Extension Act of 2010, Part II, the Surface Transportation Extension Act of 2011, the Surface Transportation Extension Act of 2011, Part II, the Surface Transportation Extension Act of 2012, the Temporary Surface Transportation Extension Act of 2012, the MAP–21, the Highway and Transportation Funding Act of 2014, the Highway and Transportation Funding Act of 2015, the Surface Transportation and Veterans Health Care Choice Improvement Act of 2015, the Surface Transportation Extension Act of 2015, the Surface Transportation Extension Act of 2015, Part II, and the FAST Act. See notes below.
 
 Section 209 of the Highway Revenue Act of 1956, referred to in former subsec. (c)(1), is section 209 of act June 29, 1956, ch. 462, title II, 70 Stat. 397, which was set out as a note under [section 120 of Title 23](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title23-section120&num=0&edition=prelim), Highways. Section 209 was repealed, except for subsection (b) thereof, by Pub. L. 97–424, title V, § 531(b), Jan. 6, 1983, 96 Stat. 2191.
 
@@ -1025,9 +1039,19 @@ The Surface Transportation and Veterans Health Care Choice Improvement Act of 20
 
 The Surface Transportation Extension Act of 2015, referred to in former subsecs. (c)(1) and (e)(3), is Pub. L. 114–73, Oct. 29, 2015, 129 Stat. 568. For complete classification of this Act to the Code, see Short Title of 2015 Amendment note set out under [section 101 of Title 23](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title23-section101&num=0&edition=prelim), Highways, and Tables.
 
+The FAST Act, referred to in former subsecs. (c)(1) and (e)(3), is Pub. L. 114–94, Dec. 4, 2015, 129 Stat. 1312, also known as the Fixing America’s Surface Transportation Act. For complete classification of this Act to the Code, see Short Title of 2015 Amendment note set out under [section 101 of Title 23](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title23-section101&num=0&edition=prelim), Highways, and Tables.
+
 The Surface Transportation Extension Act of 2015, Part II, referred to in former subsecs. (c)(1) and (e)(3), is Pub. L. 114–87, Nov. 20, 2015, 129 Stat. 677. For complete classification of this Act to the Code, see Short Title of 2015 Amendment note set out under [section 101 of Title 23](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title23-section101&num=0&edition=prelim), Highways, and Tables.
 
 #### Amendments
+2020—Subsec. (b)(6)(B). Pub. L. 116–159, § 1201(1), substituted “October 1, 2021” for “October 1, 2020” and .
+
+Subsec. (c)(1). Pub. L. 116–159, § 1201, substituted “October 1, 2021” for “October 1, 2020” and “Continuing Appropriations Act, 2021 and Other Extensions Act” for “FAST Act”.
+
+Subsec. (e)(3). Pub. L. 116–159, § 1201, substituted “October 1, 2021” for “October 1, 2020” and “Continuing Appropriations Act, 2021 and Other Extensions Act” for “FAST Act”.
+
+Subsec. (f)(10), (11). Pub. L. 116–159, § 1204, added par. (10) and redesignated former par. (10) as (11).
+
 2018—Subsec. (c)(5). Pub. L. 115–141, § 401(a)(341), struck out “and before October 1, 2011,” after “October 1, 2005,” in introductory provisions.
 
 Subsec. (e)(2)(C). Pub. L. 115–141, § 104(b)(1), substituted “per energy equivalent of a gallon of diesel (as defined in section 4041(a)(2)(D))” for “per gallon”.
@@ -1797,11 +1821,11 @@ Pub. L. 102–240, title VIII, § 8003(d), Dec. 18, 1991, 105 Stat. 2206, provid
 
 (2) **Expenditures from Trust Fund** — Amounts in the Sport Fish Restoration and Boating Trust Fund shall be available, as provided by appropriation Acts, for making expenditures—
 
-  (A) to carry out the purposes of the Dingell-Johnson Sport Fish Restoration Act (as in effect on the date of the enactment of the FAST Act),
+  (A) to carry out the purposes of the Dingell-Johnson Sport Fish Restoration Act (as in effect on the date of the enactment of the Continuing Appropriations Act, 2021 and Other Extensions Act),
 
-  (B) to carry out the purposes of section 7404(d) of the Transportation Equity Act for the 21st Century (as in effect on the date of the enactment of the FAST Act), and
+  (B) to carry out the purposes of section 7404(d) of the Transportation Equity Act for the 21st Century (as in effect on the date of the enactment of the Continuing Appropriations Act, 2021 and Other Extensions Act), and
 
-  (C) to carry out the purposes of the Coastal Wetlands Planning, Protection and Restoration Act (as in effect on the date of the enactment of the FAST Act).
+  (C) to carry out the purposes of the Coastal Wetlands Planning, Protection and Restoration Act (as in effect on the date of the enactment of the Continuing Appropriations Act, 2021 and Other Extensions Act).
   Amounts transferred to such account under section 9503(c)(4) may be used only for making expenditures described in subparagraph (C) of this paragraph.
 
 **(c) Expenditures from Boat Safety Account** Amounts remaining in the Boat Safety Account on October 1, 2005, and amounts thereafter credited to the Account under section 9602(b), shall be available, without further appropriation, for making expenditures before October 1, 2010, to carry out the purposes of section 15 11 See References in Text note below. of the Dingell-Johnson Sport Fish Restoration Act (as in effect on the date of the enactment of the Safe, Accountable, Flexible, Efficient Transportation Equity Act: A Legacy for Users). For purposes of section 9602, the Boat Safety Account shall be treated as a Trust Fund established by this subchapter.
@@ -1814,7 +1838,7 @@ Pub. L. 102–240, title VIII, § 8003(d), Dec. 18, 1991, 105 Stat. 2206, provid
 
   (B) whether such provision of law is a subsequently enacted provision or directly or indirectly seeks to waive the application of this subsection.
 
-(2) **Exception for prior obligations** — Paragraph (1) shall not apply to any expenditure to liquidate any contract entered into (or for any amount otherwise obligated) before October 1, 2020, in accordance with the provisions of this section.
+(2) **Exception for prior obligations** — Paragraph (1) shall not apply to any expenditure to liquidate any contract entered into (or for any amount otherwise obligated) before October 1, 2021, in accordance with the provisions of this section.
 
 **(e) Cross reference** For provision transferring motorboat fuels taxes to Sport Fish Restoration and Boating Trust Fund, see section 9503(c)(3).
 
@@ -1825,7 +1849,7 @@ The Harmonized Tariff Schedule of the United States, referred to in subsec. (b)(
 
 The Dingell-Johnson Sport Fish Restoration Act, referred to in subsec. (b)(2)(A), is act Aug. 9, 1950, ch. 658, 64 Stat. 430, also known as the Federal Aid in Fish Restoration Act and the Fish Restoration and Management Projects Act, which is classified generally to chapter 10B (§ 777 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under [section 777 of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section777&num=0&edition=prelim) and Tables.
 
-The date of the enactment of the FAST Act, referred to in subsec. (b)(2)(A) to (C), is the date of enactment of Pub. L. 114–94, which was approved Dec. 4, 2015.
+The date of the enactment of the Continuing Appropriations Act, 2021 and Other Extensions Act, referred to in subsec. (b)(2)(A) to (C), is the date of enactment of Pub. L. 116–159, which was approved Oct. 1, 2020
 
 Section 7404(d) of the Transportation Equity Act for the 21st Century, referred to in subsec. (b)(2)(B), is classified to [section 777g–1(d) of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section777g–1/d&num=0&edition=prelim), Conservation.
 
@@ -1834,6 +1858,10 @@ The Coastal Wetlands Planning, Protection and Restoration Act, referred to in su
 Section 15 of the Dingell-Johnson Sport Fish Restoration Act (as in effect on the date of the enactment of the Safe, Accountable, Flexible, Efficient Transportation Equity Act: A Legacy for Users), referred to in subsec. (c), means section 15 of act Aug. 9, 1950, as in effect on the date of enactment of Pub. L. 109–59, which was approved Aug. 10, 2005. Section 15 of act Aug. 9, 1950, was classified to [section 777n of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section777n&num=0&edition=prelim), Conservation, prior to repeal by Pub. L. 114–94, div. A, title X, § 10001(g)(1), Dec. 4, 2015, 129 Stat. 1621.
 
 #### Amendments
+2020—Subsec. (b)(2)(A) to (C). Pub. L. 116–159, § 1202(1), substituted “Continuing Appropriations Act, 2021 and Other Extensions Act” for “FAST Act”.
+
+Subsec. (d)(2). Pub. L. 116–159, § 1202(2), substituted “October 1, 2021” for “October 1, 2020”.
+
 2015—Subsec. (b)(2)(A) to (C). Pub. L. 114–94, § 31101(b)(1), substituted “FAST Act” for “Surface Transportation Extension Act of 2015, Part II”.
 
 Pub. L. 114–87, § 2001(b)(1), substituted “Surface Transportation Extension Act of 2015, Part II” for “Surface Transportation Extension Act of 2015”.
@@ -2111,7 +2139,7 @@ Pub. L. 110–181, div. C, title XXXV, § 3529(c)(2), Jan. 28, 2008, 122 Stat. 6
 
 (1) appropriated to the Harbor Maintenance Trust Fund as provided in this section,
 
-(2) transferred to the Harbor Maintenance Trust Fund by the Saint Lawrence Seaway Development Corporation pursuant to section 13(a) of the Act of May 13, 1954, or
+(2) transferred to the Harbor Maintenance Trust Fund by the Great Lakes St. Lawrence Seaway Development Corporation pursuant to section 13(a) of the Act of May 13, 1954, or
 
 (3) credited to the Harbor Maintenance Trust Fund as provided in section 9602(b).
 
@@ -2133,6 +2161,8 @@ Section 13 of the Act of May 13, 1954, referred to in subsecs. (a)(2) and (c)(2)
 Section 210 of the Water Resources Development Act of 1986, referred to in subsec. (c)(1), is classified to [section 2238 of Title 33](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section2238&num=0&edition=prelim), Navigation and Navigable Waters.
 
 #### Amendments
+2020—Subsec. (a)(2). Pub. L. 116–260 substituted “Great Lakes St. Lawrence Seaway Development Corporation” for “Saint Lawrence Seaway Development Corporation”.
+
 2014—Subsec. (c)(1). Pub. L. 113–121 struck out “(as in effect on the date of the enactment of the Water Resources Development Act of 1996)” after “1986”.
 
 1996—Subsec. (c)(1). Pub. L. 104–303 amended par. (1) generally. Prior to amendment, par. (1) read as follows: “to carry out section 210(a) of the Water Resources Development Act of 1986 (as in effect on the date of enactment of this section),”.
@@ -2144,13 +2174,13 @@ Section 210 of the Water Resources Development Act of 1986, referred to in subse
 “(B) for periods during which no fee applies under paragraph (9) or (10) of section 13031(a) of the Consolidated Omnibus Budget Reconciliation Act of 1985.”
 
 #### Effective Date of 1993 Amendment
-Pub. L. 103–182, title VI, § 683(b), Dec. 8, 1993, 107 Stat. 2218, provided that: “The amendment made by subsection (a) [amending this section] shall apply to fiscal years beginning after the date of the enactment of this Act [Dec. 8, 1993].”
+Pub. L. 103–182, title VI, § 683(b), Dec. 8, 1993, 107 Stat. 2218, which provided that the amendment made by section 683(a) of Pub. L. 103–182 was applicable to fiscal years beginning after Dec. 8, 1993, was repealed by Pub. L. 116–113, title VI, § 601, Jan. 29, 2020, 134 Stat. 78, effective on the date the USMCA entered into force (July 1, 2020).
 
 #### Effective Date
 Pub. L. 99–662, title XIV, § 1403(d), Nov. 17, 1986, 100 Stat. 4270, provided that: “The amendments made by this section [enacting this section] shall take effect on April 1, 1987.”
 
 #### Harbor Maintenance Trust Fund Deposits and Expenditures
-Pub. L. 102–580, title III, § 330, Oct. 31, 1992, 106 Stat. 4851, provided that: “(a) Report.—Not later than March 1, 1993, and annually thereafter, the President shall transmit to the Committee on Public Works and Transportation [now Committee on Transportation and Infrastructure] of the House of Representatives and the Committee on Environment and Public Works of the Senate a report on expenditures from and deposits into the Harbor Maintenance Trust Fund. “(b) Contents.—“(1) In general.—Each report to be transmitted under subsection (a) shall contain the following:“(A) A description of expenditures made from the trust fund in the previous fiscal year on a project-by-project basis. “(B) A description of deposits made into the trust fund in the previous fiscal year and the sources of such deposits. “(C) A 5-year projection of expenditures from and deposits into the trust fund. “(2) Previous years information.—In addition to information required under paragraph (1), the initial report to be transmitted under subsection (a) shall contain the information described in subparagraphs (A) and (B) of paragraph (1) for fiscal years 1987 through 1992.”
+Pub. L. 102–580, title III, § 330, Oct. 31, 1992, 106 Stat. 4851, as amended by Pub. L. 116–260, div. AA, title I, § 103, Dec. 27, 2020, 134 Stat. 2621, provided that: “(a) Report.—Not later than March 1, 1993, and annually thereafter concurrent with the submission of the President’s annual budget request to Congress, the President shall transmit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Environment and Public Works of the Senate a report on expenditures from and deposits into the Harbor Maintenance Trust Fund. “(b) Contents.—“(1) In general.—Each report to be transmitted under subsection (a) shall contain the following:“(A) A description of expenditures made from the trust fund in the previous fiscal year on a project-by-project basis. “(B) A description of deposits made into the trust fund in the previous fiscal year and the sources of such deposits. “(C) A 5-year projection of expenditures from and deposits into the trust fund. “(D) A description of the expected expenditures from the trust fund to meet the needs of navigation for the fiscal year of the budget request. “(2) Previous years information.—In addition to information required under paragraph (1), the initial report to be transmitted under subsection (a) shall contain the information described in subparagraphs (A) and (B) of paragraph (1) for fiscal years 1987 through 1992.”
 
 
 <a id="section-9507"></a>
@@ -2339,7 +2369,7 @@ For purposes of this subsection, there shall not be taken into account the taxes
 
   (B) whether such provision of law is a subsequently enacted provision or directly or indirectly seeks to waive the application of this paragraph.
 
-(2) **Exception for prior obligations** — Paragraph (1) shall not apply to any expenditure to liquidate any contract entered into (or for any amount otherwise obligated) before October 1, 2020, in accordance with the provisions of this section.
+(2) **Exception for prior obligations** — Paragraph (1) shall not apply to any expenditure to liquidate any contract entered into (or for any amount otherwise obligated) before October 1, 2021, in accordance with the provisions of this section.
 
 ### Statutory Notes
 
@@ -2355,6 +2385,8 @@ The Comprehensive Environmental Response, Compensation, and Liability Act of 198
 The Superfund Amendments and Reauthorization Act of 1986, referred to in subsec. (d)(2), is Pub. L. 99–499, Oct. 17, 1986, 100 Stat. 1613. For complete classification of this Act to the Code, see Short Title of 1986 Amendment note set out under [section 9601 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section9601&num=0&edition=prelim) and Tables.
 
 #### Amendments
+2020—Subsec. (e)(2). Pub. L. 116–159 substituted “October 1, 2021” for “October 1, 2020”.
+
 2018—Subsec. (c)(1). Pub. L. 115–141 substituted “of Public Law” for “of the Public Law”.
 
 2015—Subsec. (c)(1). Pub. L. 114–94, § 31203(b), substituted “paragraphs (2), (3), and (4)” for “paragraphs (2) and (3)”.
@@ -2744,7 +2776,13 @@ Pub. L. 100–203, title IX, § 9202(c), Dec. 22, 1987, 101 Stat. 1330–331, pr
     (i) an amount equivalent to the net revenues received in the Treasury from the fees imposed under subchapter B of chapter 34 (relating to fees on health insurance and self-insured plans) for such fiscal year; and
 
     (ii) $150,000,000.
-    The amounts appropriated under subparagraphs (A), (B), (C), (D)(ii), and (E)(ii) shall be transferred from the general fund of the Treasury, from funds not otherwise appropriated.
+
+  (F) For each of fiscal years 2020 through 2029—
+
+    (i) an amount equivalent to the net revenues received in the Treasury from the fees imposed under subchapter B of chapter 34 (relating to fees on health insurance and self-insured plans) for such fiscal year; and
+
+    (ii) the applicable amount (as defined in paragraph (4)) for the fiscal year.
+    The amounts appropriated under subparagraphs (A), (B), (C), (D)(ii), (E)(ii), and (F)(ii) shall be transferred from the general fund of the Treasury, from funds not otherwise appropriated.
 
 (2) **Trust Fund transfers** — In addition to the amounts appropriated under paragraph (1), there shall be credited to the PCORTF the amounts transferred under section 1183 of the Social Security Act.
 
@@ -2754,6 +2792,28 @@ Pub. L. 100–203, title IX, § 9202(c), Dec. 22, 1987, 101 Stat. 1330–331, pr
 
   (B) whether such provision of law is a subsequently enacted provision or directly or indirectly seeks to waive the application of this paragraph.
 
+(4) **Applicable amount defined** — In paragraph (1)(F)(ii), the term “applicable amount” means—
+
+  (A) for fiscal year 2020, $275,500,000;
+
+  (B) for fiscal year 2021, $285,000,000;
+
+  (C) for fiscal year 2022, $293,500,000;
+
+  (D) for fiscal year 2023, $311,500,000;
+
+  (E) for fiscal year 2024, $320,000,000;
+
+  (F) for fiscal year 2025, $338,000,000;
+
+  (G) for fiscal year 2026, $355,500,000;
+
+  (H) for fiscal year 2027, $363,500,000;
+
+  (I) for fiscal year 2028, $381,000,000; and
+
+  (J) for fiscal year 2029, $399,000,000.
+
 **(c) Trustee** The Secretary of the Treasury shall be a trustee of the PCORTF.
 
 **(d) Expenditures from Fund**
@@ -2762,7 +2822,7 @@ Pub. L. 100–203, title IX, § 9202(c), Dec. 22, 1987, 101 Stat. 1330–331, pr
 
 (2) **Transfer of funds**
 
-  (A) *In general* — The trustee of the PCORTF shall provide for the transfer from the PCORTF of 20 percent of the amounts appropriated or credited to the PCORTF for each of fiscal years 2011 through 2019 to the Secretary of Health and Human Services to carry out section 937 of the Public Health Service Act.
+  (A) *In general* — The trustee of the PCORTF shall provide for the transfer from the PCORTF of 20 percent of the amounts appropriated or credited to the PCORTF for each of fiscal years 2011 through 2029 to the Secretary of Health and Human Services to carry out section 937 of the Public Health Service Act.
 
   (B) *Availability* — Amounts transferred under subparagraph (A) shall remain available until expended.
 
@@ -2778,7 +2838,7 @@ Pub. L. 100–203, title IX, § 9202(c), Dec. 22, 1987, 101 Stat. 1330–331, pr
 
 (2) the decrease in the tax imposed by chapter 1 resulting from the fees imposed by such subchapter.
 
-**(f) Termination** No amounts shall be available for expenditure from the PCORTF after December 20, 2019, and any amounts in such Trust Fund after such date shall be transferred to the general fund of the Treasury.
+**(f) Termination** No amounts shall be available for expenditure from the PCORTF after September 30, 2029, and any amounts in such Trust Fund after such date shall be transferred to the general fund of the Treasury.
 
 ### Statutory Notes
 
@@ -2793,7 +2853,17 @@ Section 937 of the Public Health Service Act, referred to in subsec. (d)(2)(A), 
 A prior section 9511, added Pub. L. 102–240, title VIII, § 8003(a), Dec. 18, 1991, 105 Stat. 2205; amended Pub. L. 105–130, § 9(c), Dec. 1, 1997, 111 Stat. 2561, related to National Recreational Trails Trust Fund, prior to repeal by Pub. L. 105–178, title IX, § 9011(a), June 9, 1998, 112 Stat. 508.
 
 #### Amendments
-2019—Subsec. (f). Pub. L. 116–69 substituted “December 20” for “November 21”.
+2019—Subsec. (b)(1). Pub. L. 116–94, § 104(a)(1)(A)(ii), substituted “(E)(ii), and (F)(ii)” for “and (E)(ii)” in concluding provisions.
+
+Subsec. (b)(1)(F). Pub. L. 116–94, § 104(a)(1)(A)(i), added subpar. (F).
+
+Subsec. (b)(4). Pub. L. 116–94, § 104(a)(1)(B), added par. (4).
+
+Subsec. (d)(2)(A). Pub. L. 116–94, § 104(a)(2), substituted “2029” for “2019”.
+
+Subsec. (f). Pub. L. 116–94, § 104(a)(3), substituted “September 30, 2029” for “December 20, 2019”.
+
+Pub. L. 116–69 substituted “December 20” for “November 21”.
 
 Pub. L. 116–59 substituted “November 21” for “September 30”.
 

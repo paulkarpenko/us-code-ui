@@ -19,9 +19,9 @@ In addition to the definitions in sections 1–5 of title 1, the following defin
 
 (2) The term “possessions” includes Guam, American Samoa, and the guano islands.
 
-(3) The term “uniformed services” means the Army, Navy, Air Force, Marine Corps, Coast Guard, National Oceanic and Atmospheric Administration, and Public Health Service.
+(3) The term “uniformed services” means the Army, Navy, Air Force, Marine Corps, Space Force, Coast Guard, National Oceanic and Atmospheric Administration, and Public Health Service.
 
-(4) The term “armed forces” means the Army, Navy, Air Force, Marine Corps, and Coast Guard.
+(4) The term “armed forces” means the Army, Navy, Air Force, Marine Corps, Space Force,and Coast Guard.
 
 (5) The term “Secretary concerned” means—
 
@@ -29,7 +29,7 @@ In addition to the definitions in sections 1–5 of title 1, the following defin
 
   (B) the Secretary of the Navy, with respect to matters concerning the Navy, the Marine Corps, and the Coast Guard when it is operating as a service in the Navy;
 
-  (C) the Secretary of the Air Force, with respect to matters concerning the Air Force;
+  (C) the Secretary of the Air Force, with respect to matters concerning the Air Force and the Space Force;
 
   (D) the Secretary of Homeland Security, with respect to matters concerning the Coast Guard when it is not operating as a service in the Navy;
 
@@ -110,7 +110,7 @@ In addition to the definitions in sections 1–5 of title 1, the following defin
 
   (G) the Coast Guard Reserve; or
 
-  (H) the Reserve Corps of the Public Health Service.
+  (H) the Reserve Corps 11 See Change of Name note below. of the Public Health Service.
 
 (25) The term “regular compensation” or “regular military compensation (RMC)” means the total of the following elements that a member of a uniformed service accrues or receives, directly or indirectly, in cash or in kind every payday: basic pay, basic allowance for housing, basic allowance for subsistence; and Federal tax advantage accruing to the aforementioned allowances because they are not subject to Federal income tax.
 
@@ -163,6 +163,10 @@ In clause (23), section 231(b) (less 1st sentence) of existing title 37 is omitt
 For definition of Canal Zone, referred to in pars. (7) and (9), see [section 3602(b) of Title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section3602/b&num=0&edition=prelim), Foreign Relations and Intercourse.
 
 #### Amendments
+2021—Pars. (3), (4). Pub. L. 116–283, § 925(a)(1), inserted “Space Force,” after “Marine Corps,”.
+
+Par. (5)(C). Pub. L. 116–283, § 925(a)(2), which directed insertion of “and the Space Force” after “Air Force”, was executed by making the insertion after “Air Force” the second place appearing, to reflect the probable intent of Congress.
+
 2006—Par. (24)(C). Pub. L. 109–163 substituted “Navy Reserve” for “Naval Reserve”.
 
 2002—Par. (1). Pub. L. 107–314 designated existing provisions as subpar. (A) and added subpar. (B).
@@ -210,6 +214,9 @@ Cl. (25). Pub. L. 96–579 defined “regular compensation” or “regular mili
 1968—Cl. (5)(D). Pub. L. 90–623 substituted “Secretary of Transportation” for “Secretary of the Treasury”.
 
 1966—Cls. (3), (5)(E). Pub. L. 89–718 substituted “Environmental Science Services Administration” for “Coast and Geodetic Survey”.
+
+#### Change of Name
+Reference to Reserve Corps of the Public Health Service deemed to be a reference to the Ready Reserve Corps, see [section 402(c)(3) of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section402/c/3&num=0&edition=prelim), The Public Health and Welfare.
 
 #### Effective Date of 2002 Amendment
 Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Guard to the Department of Homeland Security, see section 1704(g) of Pub. L. 107–296, set out as a note under [section 101 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section101&num=0&edition=prelim), Armed Forces.

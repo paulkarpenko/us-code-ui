@@ -124,13 +124,13 @@ This act, referred to in text, is act Feb. 8, 1887, ch. 119, 24 Stat. 388, as am
 
 The words “provided in sections 348 and 349 of this title”, referred to in text, were in the original “as herein provided”.
 
+#### Permanent Appropriation; Repeals
+Effective July 1, 1935, the permanent appropriation provided for in the last sentence of this section was repealed by act June 26, 1934, ch. 756, § 1, 48 Stat. 1225.
+
 #### Transfer of Functions
 For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out in the Appendix to Title 5, Government Organization and Employees.
 
 “Secretary of the Interior or such officer as he may designate” substituted in text for “Commissioner of the General Land Office” on authority of Reorg. Plan No. 3 of 1946, set out in the Appendix to Title 5.
-
-#### Permanent Appropriation; Repeals
-Effective July 1, 1935, the permanent appropriation provided for in the last sentence of this section was repealed by act June 26, 1934, ch. 756, § 1, 48 Stat. 1225.
 
 
 <a id="section-335"></a>
@@ -154,13 +154,13 @@ Where any Indian entitled to allotment under existing laws shall make settlement
 #### References in Text
 Words “restrictions provided in sections 348 and 349 of this title”, referred to in text, were in the original “restrictions provided in the Act of which this is amendatory”. That Act is act Feb. 8, 1887 (24 Stat. 388), popularly known as the Indian General Allotment Act. For classification of that Act to the Code, see Short Title note set out under [section 331 of this title](./chapter-009-allotment-of-indian-lands.md#section-331) and Tables.
 
+#### Permanent Appropriation; Repeals
+Effective July 1, 1935, the permanent appropriation provided for in the last sentence of this section was repealed by act June 26, 1934, ch. 756, § 1, 48 Stat. 1225.
+
 #### Transfer of Functions
 For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out in the Appendix to Title 5, Government Organization and Employees.
 
 “Secretary of the Interior or such officer as he may designate” substituted in text for “Commissioner of the General Land Office” on authority of Reorg. Plan No. 3 of 1946, set out in the Appendix to Title 5.
-
-#### Permanent Appropriation; Repeals
-Effective July 1, 1935, the permanent appropriation provided for in the last sentence of this section was repealed by act June 26, 1934, ch. 756, § 1, 48 Stat. 1225.
 
 
 <a id="section-337"></a>

@@ -441,7 +441,7 @@ For delegation of functions of President under this section, see Memorandum of P
 
   (B) *Agent* — The term “agent” includes an entity established by a person for purposes of conducting transactions on behalf of the person in order to conceal the identity of the person.
 
-  (C) *Financial institution* — The term “financial institution” means a financial institution specified in subparagraph (A), (B), (C), (D), (E), (F), (G), (H), (I), (J), (M), or (Y) of [section 5312(a)(2) of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section5312/a/2&num=0&edition=prelim).
+  (C) *Financial institution* — The term “financial institution” means a financial institution specified in subparagraph (A), (B), (C), (D), (E), (F), (G), (H), (I), (J), (M), or (Z) of [section 5312(a)(2) of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section5312/a/2&num=0&edition=prelim).
 
   (D) *Foreign financial institution; domestic financial institution* — The terms “foreign financial institution” and “domestic financial institution” shall have the meanings of those terms as determined by the Secretary of the Treasury.
 
@@ -460,6 +460,8 @@ The International Emergency Economic Powers Act, referred to in subsecs. (c)(2)(
 The Classified Information Procedures Act, referred to in subsec. (g)(1), is Pub. L. 96–456, Oct. 15, 1980, 94 Stat. 2025, which is set out in the Appendix to Title 18, Crimes and Criminal Procedure.
 
 #### Amendments
+2021—Subsec. (i)(1)(C). Pub. L. 116–283 substituted “(Z)” for “(Y)”.
+
 2012—Subsec. (c)(2)(B). Pub. L. 112–158, § 214(a), substituted “of—” for “of”, inserted cl. (i) designation before “a person subject”, and added cl. (ii).
 
 Subsec. (c)(2)(E)(ii). Pub. L. 112–158, § 215(a), substituted “person” for “financial institution” in introductory provisions.
@@ -639,6 +641,10 @@ Barack Obama.
 #### Presidential Determinations Relating to Petroleum or Petroleum Products from Iran
 The following Presidential Determinations related to the existence of sufficient supplies of petroleum and petroleum products from countries other than Iran pursuant to subsec. (d)(4)(B) and (C) of this section:
 
+Determination of President of the United States, No. 2020–06, June 5, 2020, 85 F.R. 36995.
+
+Determination of President of the United States, No. 2020–03, Oct. 25, 2019, 84 F.R. 59917.
+
 Determination of President of the United States, No. 2019–12, Apr. 29, 2019, 84 F.R. 22327.
 
 Determination of President of the United States, No. 2019–04, Oct. 31, 2018, 83 F.R. 57673.
@@ -696,7 +702,7 @@ Determination of President of the United States, No. 2012–05, Mar. 30, 2012, 7
 
 **(d) Definitions** In this section:
 
-(1) **Financial institution** — The term “financial institution” means a financial institution specified in subparagraph (A), (B), (C), (D), (E), (F), (G), (H), (I), (J), (K), (M), (N), (R), or (Y) of [section 5312(a)(2) of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section5312/a/2&num=0&edition=prelim).
+(1) **Financial institution** — The term “financial institution” means a financial institution specified in subparagraph (A), (B), (C), (D), (E), (F), (G), (H), (I), (J), (K), (M), (N), (R), or (Z) of [section 5312(a)(2) of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section5312/a/2&num=0&edition=prelim).
 
 (2) **Foreign financial institution** — The term “foreign financial institution” has the meaning of that term as determined by the Secretary of the Treasury pursuant to [section 8513(i) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section8513/i&num=0&edition=prelim).
 
@@ -709,6 +715,11 @@ Determination of President of the United States, No. 2012–05, Mar. 30, 2012, 7
   (C) a financial institution, wherever located, owned or controlled by the Government of Iran; and
 
   (D) a financial institution, wherever located, owned or controlled by a financial institution described in subparagraph (A), (B), or (C).
+
+### Statutory Notes
+
+#### Amendments
+2021—Subsec. (d)(1). Pub. L. 116–283 substituted “(Z)” for “(Y)”.
 
 
 <a id="section-8514a"></a>

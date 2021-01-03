@@ -65,7 +65,7 @@ Subsec. (c)(2). Pub. L. 96–212, § 312(b)(2), inserted provisions increasing a
 1964—Subsec. (e). Pub. L. 88–634 struck out last sentence “Funds appropriated for the purposes of this section shall remain available until expended.”
 
 #### Effective Date of 1980 Amendment
-Amendment by Pub. L. 96–212 effective with respect to fiscal years beginning on and after Oct. 1, 1979, see section 313 of Pub. L. 96–212, set out as an Effective Date note under [section 1522 of Title 8](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1522&num=0&edition=prelim), Immigration and Nationality.
+Amendment by Pub. L. 96–212 effective with respect to fiscal years beginning on and after Oct. 1, 1979, see section 313 of Pub. L. 96–212, set out as an Effective Date note under [section 1522 of Title 8](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1522&num=0&edition=prelim), Aliens and Nationality.
 
 #### Short Title
 Pub. L. 87–510, § 1, June 28, 1962, 76 Stat. 121, provided: “That this Act [enacting this chapter, amending sections 1925 and 1951 of this title and [section 1104 of Title 8](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1104&num=0&edition=prelim), Aliens and Nationality, enacting provisions set out as a note under this section, and amending provisions set out as a note under [section 1182 of Title 8](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1182&num=0&edition=prelim)] may be cited as the ‘Migration and Refugee Assistance Act of 1962’.”

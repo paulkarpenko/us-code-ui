@@ -162,7 +162,7 @@ In this chapter:
 
   (K) The Trade Agreements Act of 1979 ([19 U.S.C. 2501](./chapter-013-trade-agreements-act-of-1979.md#section-2501) et seq.).
 
-  (L) The North American Free Trade Agreement Implementation Act ([19 U.S.C. 3301](./chapter-021-north-american-free-trade.md#section-3301) et seq.).
+  (L) The North American Free Trade Agreement Implementation Act ([19 U.S.C. 3301](./chapter-021-north-american-free-trade.md#section-3301) et seq.).11 See References in Text note below.
 
   (M) The Uruguay Round Agreements Act ([19 U.S.C. 3501](./chapter-022-uruguay-round-trade-agreements.md#section-3501) et seq.).
 
@@ -233,7 +233,7 @@ The Trade Act of 1974, referred to in par. (4)(J), is Pub. L. 93–618, Jan. 3, 
 
 The Trade Agreements Act of 1979, referred to in par. (4)(K), is Pub. L. 96–39, July 26, 1979, 93 Stat. 144. For complete classification of this Act to the Code, see References in Text note set out under [section 2501 of this title](./chapter-013-trade-agreements-act-of-1979.md#section-2501) and Tables.
 
-The North American Free Trade Agreement Implementation Act, referred to in par. (4)(L), is Pub. L. 103–182, Dec. 8, 1993, 107 Stat. 2057. For complete classification of this Act to the Code, see Short Title note set out under [section 3301 of this title](./chapter-021-north-american-free-trade.md#section-3301) and Tables.
+The North American Free Trade Agreement Implementation Act, referred to in par. (4)(L), is Pub. L. 103–182, Dec. 8, 1993, 107 Stat. 2057, which was repealed by Pub. L. 116–113, title VI, § 601, Jan. 29, 2020, 134 Stat. 78, effective on the date on which the USMCA entered into force (July 1, 2020). For complete classification of this Act to the Code, see Short Title note under former [section 3301 of this title](./chapter-021-north-american-free-trade.md#section-3301) and Tables.
 
 The Uruguay Round Agreements Act, referred to in par. (4)(M), is Pub. L. 103–465, Dec. 8, 1994, 108 Stat. 4809. For complete classification of this Act to the Code, see Short Title note set out under [section 3501 of this title](./chapter-022-uruguay-round-trade-agreements.md#section-3501) and Tables.
 
@@ -335,6 +335,81 @@ Sec. 3. Report of Violations and Abuses. (a) Each performance review shall be su
 Sec. 4. Remedy of Trade Violations and Abuses. The Secretary of Commerce, the USTR, and other heads of executive departments and agencies, as appropriate, shall take every appropriate and lawful action to address violations of trade law, abuses of trade law, or instances of unfair treatment.
 
 Sec. 5. General Provisions. (a) Nothing in this order shall be construed to impair or otherwise affect:
+
+(i) the authority granted by law to an executive department or agency, or the head thereof; or
+
+(ii) the functions of the Director of the Office of Management and Budget relating to budgetary, administrative, or legislative proposals.
+
+(b) This order shall be implemented consistent with applicable law and subject to the availability of appropriations.
+
+(c) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+
+Donald J. Trump.
+
+#### Ex. Ord. No. 13904. Ensuring Safe and Lawful E-Commerce for United States Consumers, Businesses, Government Supply Chains, and Intellectual Property Rights Holders
+Ex. Ord. No. 13904, Jan. 31, 2020, 85 F.R. 6725, provided:
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered as follows:
+
+Section 1. Policy. E-commerce, including transactions involving smaller express-carrier or international mail packages, is being exploited by traffickers to introduce contraband into the United States, and by foreign exporters and United States importers to avoid applicable customs duties, taxes, and fees.
+
+It is the policy of the United States Government to protect consumers, intellectual property rights holders, businesses, and workers from counterfeit goods, narcotics (including synthetic opioids such as fentanyl), and other contraband now being introduced into the United States as a result of the recent growth in e-commerce. The United States Government must also protect the revenue of the United States from individuals and entities who evade customs duties, taxes, and fees.
+
+It is the policy of the United States Government that any person who knowingly, or with gross negligence, imports, or facilitates the importation of, merchandise into the United States in material violation of Federal law evidences conduct of so serious and compelling a nature that it should be referred to U.S. Customs and Border Protection (CBP) of the Department of Homeland Security for a determination whether such conduct affects that person’s present responsibility to participate in transactions with the Federal Government.
+
+It is the policy of the United States Government, as reflected in Executive Order 12549 of February 18, 1986 (Debarment and Suspension) [[31 U.S.C. 6101](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section6101&num=0&edition=prelim) note], and elsewhere, to protect the public interest and ensure the integrity of Federal programs by transacting only with presently responsible persons. In furtherance of this policy, the nonprocurement debarment and suspension system enables executive departments and agencies to exclude from Federal programs persons who are not presently responsible. CBP implements this system by suspending and debarring persons who flout the customs laws, among other persons who lack present responsibility. To achieve the policy goals stated herein, the United States Government shall consider all appropriate actions that it can take to ensure that persons that CBP suspends or debars are excluded from participating in the importation of merchandise into the United States.
+
+It is the policy of the United States Government that express consignment operators, carriers, hub facilities, international posts, customs brokers, and other entities, including e-commerce platform operators, should not facilitate importation involving persons who are suspended or debarred by CBP.
+
+It is the policy of the United States Government to ensure that parcels containing contraband be kept outside of the United States to the greatest extent possible and that all parties who participate in the introduction or attempted introduction of such parcels into the United States be held accountable under the laws of the United States.
+
+Sec. 2. Criteria for the Importer of Record Program, Including Exclusion of Trade Violators. (a) The Secretary of Homeland Security shall issue a notice of proposed rulemaking to establish criteria importers must meet in order to obtain an importer of record number.
+
+(b) Such criteria shall include a criterion providing that any person debarred or suspended by CBP for lack of present responsibility for reasons related to importation or trade shall be ineligible to obtain an importer of record number for the duration of such person’s suspension or debarment by CBP.
+
+Sec. 3. Responsibilities of Express Consignment Operators, Carriers, Hub Facilities, and Licensed Customs Brokers. (a) Consistent with applicable law, the Secretary of Homeland Security, through the Commissioner of CBP, shall take steps to ensure that, within 60 days of the publication in the System for Award Management by CBP of the name of any debarred or suspended person, express consignment operators, carriers, hub facilities, and licensed customs brokers notify CBP of any attempt, of which they know or have reason to believe, by any persons who may not obtain an importer of record number based on any criteria established by the Secretary under section 2 of this order, to re-establish business activity requiring an importer of record number through a different name or address associated with the debarred or suspended person.
+
+(b) The Secretary of Homeland Security, through the Commissioner of CBP, shall consider appropriate measures, consistent with applicable law, to ensure that express consignment operators, carriers, hub facilities, and licensed customs brokers cease to facilitate business activity that requires an importer of record number by any person who may not obtain an importer of record number, as provided by any criteria established by the Secretary under section 2 of this order. Depending on the criteria established, such consideration shall include whether CBP may take any of the following measures: limiting an express consignment operator’s, carrier’s, or hub facility’s participation in any CBP trusted trader programs; taking appropriate action with regard to an express consignment operator’s, carrier’s, or hub facility’s operating privileges; or suspending or revoking a customs broker’s license.
+
+Sec. 4. Items Sent to the United States through the International Postal Network. (a) The United States Postal Service (USPS) should collaborate with the Secretary of State to notify the international postal network, via circular or the functional equivalent, of the policy of the United States Government set forth in section 1 of this order and the key provisions of this order. USPS should make all reasonable efforts to include provisions regarding any criteria for participating in the importer of record program established under section 2 of this order in any new contractual instruments it executes with international posts.
+
+(b) Within 90 days from the date of this order [Jan. 31, 2020], the Secretary of Homeland Security, through the Commissioner of CBP, and in consultation with USPS, shall submit to the President a report on any appropriate measures the Federal Government could take, including negotiating with international posts, to prevent the importation or attempted importation into the United States through the international postal network of shipments containing goods, when such importation or attempted importation is known to have been facilitated by any person who may not obtain an importer of record number under any criteria established by the Secretary under section 2 of this order.
+
+Sec. 5. Non-Compliant International Posts. (a) The Secretary of Homeland Security, through the Commissioner of CBP, and in consultation with the United States Trade Representative, shall develop an International Mail Non-Compliance metric, based on relevant factors, to formulate an overall compliance score for each international post. This score shall take into account rates of trafficking of counterfeit goods, narcotics (including synthetic opioids such as fentanyl), and other contraband through a particular international post, effectiveness of the international post in reducing such trafficking, including cooperation with CBP, as well as such other factors the Secretary, through the Commissioner, determines advisable. The Secretary shall update overall compliance scores on a quarterly basis. The Secretary shall determine a minimum threshold compliance score for each quarter and shall deem non-compliant any international post that scores below such threshold in that quarter.
+
+(b) The Secretary of Homeland Security shall prioritize targeted inspection of imports into the United States from any international post that for two or more consecutive quarters is deemed a non-compliant international post.
+
+(c) Consistent with applicable law, the Secretary of Homeland Security, through the Commissioner of CBP, in consultation with USPS, may require additional information for any shipment from any international post that for six or more consecutive quarters is deemed a non-compliant international post. The Secretary of Homeland Security, through the Commissioner of CBP, shall, to the extent consistent with applicable law and international agreements, implement all appropriate measures to prevent importation into the United States of any shipments dispatched from any international post that is deemed a non-compliant international post for six or more consecutive quarters and for which the additional information required consistent with this subsection is not promptly provided. USPS should collaborate with CBP in implementing these measures.
+
+(d) The Secretary of Homeland Security, through the Commissioner of CBP, and in consultation with USPS, shall, to the maximum extent permitted by applicable law, take measures to protect the United States from shipments from any international post that for eight or more consecutive quarters is deemed a non-compliant international post. To the extent consistent with applicable law and as appropriate, such measures might include preventing the importation into the United States of shipments dispatched from such posts, regardless of whether additional information required by CBP is provided. Within 90 days of the date of this order, the Secretary of Homeland Security, through the Commissioner of CBP, and in consultation with USPS, shall submit a report to the President analyzing what measures CBP may take consistent with its existing authorities.
+
+(e) Within 90 days of the date of this order, the Secretary of Homeland Security, through the Commissioner of CBP, shall publish and regularly update appropriate guidance related to CBP’s implementation of this section, including the process by which an international post is deemed a non-compliant international post and the process by which an international post is removed from the list of non-compliant international posts.
+
+Sec. 6. Publication of Violation Information; Enhanced Enforcement Efforts. (a) On a periodic basis, and consistent with Federal law and executive branch policy reflecting non-disclosure of sensitive information, the Secretary of Homeland Security, through the Commissioner of CBP and the Director of United States Immigration and Customs Enforcement, shall publish information about seizures arising in the international mail and express consignment environments that involve intellectual property rights violations, illegal drugs and other contraband, incorrect country of origin, under-valuation, or other violations of law of particular concern. In determining which information to publish, the Secretary shall give greatest consideration to repeat offenses affecting priority trade issues as defined in [19 U.S.C. 4322](./chapter-028-trade-facilitation-and-trade-enforcement.md#section-4322).
+
+(b) Within 60 days of the date of this order, the Attorney General shall assign appropriate resources to ensure that Federal prosecutors accord a high priority to prosecuting offenses related to import violations as described in this order, including, as appropriate and within existing appropriations, increasing the number of Department of Justice officials who will enforce criminal or civil laws, as appropriate, related to the importation of merchandise.
+
+Sec. 7. Report on Sufficiency of Fees. Within 210 days of the date of this order, the Secretary of Homeland Security, in coordination with the heads of other executive departments and agencies, as appropriate, shall submit a report to the President, through the Director of the Office of Management and Budget:
+
+(a) analyzing whether the fees collected by CBP are currently set at a sufficient level to reimburse the Federal Government’s costs associated with processing, inspecting, and collecting duties, taxes, and fees for parcels; and
+
+(b) providing recommendations, consistent with applicable law, regarding any fee adjustments that are necessary to reimburse the Federal Government’s costs associated with processing, inspecting, and collecting duties, taxes, and fees for parcels.
+
+Sec. 8. Definitions. For the purposes of this order:
+
+(a) “Customs broker” has the meaning given to that term in [19 U.S.C. 1641(a)(1)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1641/a/1&num=0&edition=prelim).
+
+(b) “Express consignment operator, carrier, or hub facility” has the meaning given to those terms in 19 CFR 128.1.
+
+(c) “International post” means any foreign public or private entity providing various types of postal services, including mailing and delivery services.
+
+(d) “Contraband” has the meaning given to that term in [49 U.S.C. 80302(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section80302/a&num=0&edition=prelim), and also means any goods or merchandise otherwise prohibited from importation or entry under the Tariff Act of 1930 [[19 U.S.C. 1202](./chapter-004-tariff-act-of-1930.md#section-1202) et seq.], as amended.
+
+(e) “E-commerce platform” means any web-based platform that includes features primarily designed for arranging the sale, purchase, payment, or shipping of goods, or that enables sellers not directly affiliated with an operator of a web-based platform to sell physical goods through the web to consumers located in the United States.
+
+(f) “Person” means any individual, corporation, partnership, association, or legal entity, however organized.
+
+Sec. 9. General Provisions. (a) Nothing in this order shall be construed to impair or otherwise affect:
 
 (i) the authority granted by law to an executive department or agency, or the head thereof; or
 
@@ -1258,12 +1333,20 @@ The Tariff Act of 1930, referred to in par. (7), is act June 17, 1930, ch. 497, 
 <a id="section-4373"></a>
 ## § 4373. Application to Canada and Mexico
 
-Pursuant to article 1902 of the North American Free Trade Agreement and [section 3438 of this title](./chapter-021-north-american-free-trade.md#section-3438), this subchapter and the amendments made by this subchapter shall apply with respect to goods from Canada and Mexico.
+Pursuant to article 10.10 of the USMCA (as defined in [section 4502 of this title](./chapter-029-united-states-mexico-canada-agreement-implementation.md#section-4502)) and [section 4588 of this title](./chapter-029-united-states-mexico-canada-agreement-implementation.md#section-4588), this subchapter and the amendments made by this title 11 See References in Text note below. shall apply with respect to goods from Canada and Mexico.
 
 ### Statutory Notes
 
 #### References in Text
 This subchapter, referred to in text, was in the original “this title”, meaning title IV of Pub. L. 114–125, Feb. 24, 2016, 130 Stat. 155, which is classified principally to this subchapter. For complete classification of title IV to the Code, see section 401 of Pub. L. 114–125, set out as a Short Title note under [section 4301 of this title](./chapter-028-trade-facilitation-and-trade-enforcement.md#section-4301) and Tables.
+
+The amendments made by this title, referred to in text, mean the amendments made by title IV of Pub. L. 114–125, Feb. 24, 2016, 130 Stat. 155. For complete classification of title IV to the Code, see section 401 of Pub. L. 114–125, set out as a Short Title note under [section 4301 of this title](./chapter-028-trade-facilitation-and-trade-enforcement.md#section-4301) and Tables.
+
+#### Amendments
+2020—Pub. L. 116–260 substituted “article 10.10 of the USMCA (as defined in [section 4502 of this title](./chapter-029-united-states-mexico-canada-agreement-implementation.md#section-4502)) and [section 4588 of this title](./chapter-029-united-states-mexico-canada-agreement-implementation.md#section-4588)” for “article 1902 of the North American Free Trade Agreement and [section 3438 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section3438&num=0&edition=prelim)”.
+
+#### Effective Date of 2020 Amendment
+Amendment by Pub. L. 116–260 effective July 1, 2020, see section 602(g) of div. O of Pub. L. 116–260, set out as a note under [section 2578b of this title](./chapter-013-trade-agreements-act-of-1979.md#section-2578b).
 
 
 <a id="section-4374"></a>
@@ -1388,7 +1471,7 @@ Notwithstanding any other provision of law, the Secretary is authorized to provi
 
   (D) If the exporting country does not allow participation of the importing country in a verification described in subparagraph (B), the importing country may take this fact into consideration in its trade enforcement and compliance assessment activities regarding the compliance of the exporting country’s exports with the importing country’s trade remedy laws.
 
-**(b) Consideration** The Commissioner is authorized to take into consideration whether a country is a signatory to a bilateral agreement described in subsection (a) and the extent to which the country is cooperating under the bilateral agreement for purposes of trade enforcement and compliance assessment activities of U.S. Customs and Border Protection that concern evasion by such country’s exports.
+**(b) Consideration** The Commissioner is authorized to take into consideration whether a country is a signatory to a bilateral agreement described in subsection (a) or a party to the USMCA (as defined in [section 4502 of this title](./chapter-029-united-states-mexico-canada-agreement-implementation.md#section-4502)) and the extent to which the country is cooperating under the bilateral agreement or the USMCA, as the case may be, for purposes of trade enforcement and compliance assessment activities of U.S. Customs and Border Protection that concern evasion by such country’s exports.
 
 **(c) Report** Not later than December 31 of each calendar year beginning after February 24, 2016, the Secretary shall submit to the appropriate congressional committees a report summarizing—
 
@@ -1397,6 +1480,17 @@ Notwithstanding any other provision of law, the Secretary is authorized to provi
 (2) the terms of any completed bilateral agreements described in subsection (a); and
 
 (3) bilateral cooperation and other activities conducted pursuant to or enabled by any completed bilateral agreements described in subsection (a).
+
+### Statutory Notes
+
+#### Amendments
+2020—Subsec. (b). Pub. L. 116–113 inserted “or a party to the USMCA (as defined in [section 4502 of this title](./chapter-029-united-states-mexico-canada-agreement-implementation.md#section-4502))” after “subsection (a)” and “or the USMCA, as the case may be,” after “the bilateral agreement”.
+
+#### Effective Date of 2020 Amendment
+Amendment by Pub. L. 116–113 effective on the date on which the USMCA enters into force (July 1, 2020), but not applicable to certain determinations under [section 1516a of this title](./chapter-004-tariff-act-of-1930.md#section-1516a) or binational panel reviews under NAFTA, see section 432 of Pub. L. 116–113, set out as a note under [section 1516a of this title](./chapter-004-tariff-act-of-1930.md#section-1516a).
+
+#### Effect of Termination of USMCA Country Status
+For provisions relating to effect of termination of USMCA country status on sections 401 to 432 of Pub. L. 116–113, see [section 4601 of this title](./chapter-029-united-states-mexico-canada-agreement-implementation.md#section-4601).
 
 
 <a id="section-4401"></a>
@@ -1674,7 +1768,7 @@ Subsection (a), referred to in text, means section 609(a) of Pub. L. 114–125, 
 
 (1) **In general** — If, on or after the date that is one year after the commencement of enhanced bilateral engagement by the President, through the Secretary, with respect to a country under subsection (b)(1), the Secretary determines that the country has failed to adopt appropriate policies to correct the undervaluation and surpluses described in subsection (b)(1)(A) with respect to that country, the President shall take one or more of the following actions:
 
-  (A) Prohibit the Overseas Private Investment Corporation from approving any new financing (including any insurance, reinsurance, or guarantee) with respect to a project located in that country on and after such date.
+  (A) Prohibit the United States International Development Finance Corporation from approving any new financing (including any insurance, reinsurance, or guarantee) with respect to a project located in that country on and after such date.
 
   (B) Except as provided in paragraph (3), and pursuant to paragraph (4), prohibit the Federal Government from procuring, or entering into any contract for the procurement of, goods or services from that country on and after such date.
 
@@ -1715,9 +1809,6 @@ Subsection (a), referred to in text, means section 609(a) of Pub. L. 114–125, 
 (4) **Secretary** — The term “Secretary” means the Secretary of the Treasury.
 
 ### Statutory Notes
-
-#### Amendment of Subsection (c)(1)(A)
-Pub. L. 115–254, div. F, title VI, § 1470(h), (w), Oct. 5, 2018, 132 Stat. 3516, 3519, provided that, effective at the end of the transition period, as defined in [section 9681 of Title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section9681&num=0&edition=prelim), Foreign Relations and Intercourse, subsection (c)(1)(A) of this section is amended by striking “Overseas Private Investment Corporation” and inserting “United States International Development Finance Corporation”. See 2018 Amendment note below.
 
 #### Amendments
 2018—Subsec. (c)(1)(A). Pub. L. 115–254 substituted “United States International Development Finance Corporation” for “Overseas Private Investment Corporation”.

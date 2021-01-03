@@ -246,9 +246,13 @@ Subsec. (e) to (g). Pub. L. 109–59, § 1903(c)(4), (5), which directed amendme
 Amendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out as an Effective and Termination Dates of 2012 Amendment note under [section 101 of this title](./chapter-001-federal-aid-highways.md#section-101).
 
 #### Buy America Waiver Notification and Annual Reports
-Pub. L. 116–6, div. G, title I, § 122, Feb. 15, 2019, 133 Stat. 412, provided that: “Not less than 15 days prior to waiving, under his or her statutory authority, any Buy America requirement for Federal-aid highways projects, the Secretary of Transportation shall make an informal public notice and comment opportunity on the intent to issue such waiver and the reasons therefor: Provided, That the Secretary shall provide an annual report to the House and Senate Committees on Appropriations on any waivers granted under the Buy America requirements.”
+Pub. L. 116–260, div. L, title I, § 122, Dec. 27, 2020, 134 Stat. 1841, provided that: “Not less than 15 days prior to waiving, under his or her statutory authority, any Buy America requirement for Federal-aid highways projects, the Secretary of Transportation shall make an informal public notice and comment opportunity on the intent to issue such waiver and the reasons therefor: Provided, That the Secretary shall provide an annual report to the House and Senate Committees on Appropriations on any waivers granted under the Buy America requirements.”
 
 Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 116–94, div. H, title I, § 122, Dec. 20, 2019, 133 Stat. 2951.
+
+Pub. L. 116–6, div. G, title I, § 122, Feb. 15, 2019, 133 Stat. 412.
 
 Pub. L. 115–141, div. L, title I, § 122, Mar. 23, 2018, 132 Stat. 986.
 
@@ -385,7 +389,7 @@ Amendment by Pub. L. 114–94 effective Oct. 1, 2015, see section 1003 of Pub. L
 Amendment by Pub. L. 90–495 effective August 23, 1968, see section 37 of Pub. L. 90–495, set out as a note under [section 101 of this title](./chapter-001-federal-aid-highways.md#section-101).
 
 #### Continuing Availability of Appropriated Funds for Appropriation, Obligation, and Expenditure
-Pub. L. 94–280, title I, § 136(b), May 5, 1976, 90 Stat. 443, provided that: “All sums authorized to be appropriated to carry out [section 319(b) of title 23](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title23-section319/b&num=0&edition=prelim), United States Code [former subsec. (b) of this section], as in effect immediately before the date of enactment of this section [May 5, 1976] shall continue to be available for appropriation, obligation, and expenditure in accordance with such section 319(b) [former subsec. (b) of this section], notwithstanding the amendment made by the subsection (a) of this section [to this section].”
+Pub. L. 94–280, title I, § 136(b), May 5, 1976, 90 Stat. 443, provided that all sums authorized to be appropriated to carry out this section as in effect immediately before May 5, 1976, would continue to be available for appropriation, obligation, and expenditure in accordance with former subsec. (b) of this section.
 
 #### National Scenic Highway System Study and User Access Study for Parks and Recreation Areas
 Pub. L. 93–87, title I, § 134, Aug. 13, 1973, 87 Stat. 268, mandated a study to determine the feasibility of a scenic highway system to link together recreational, historical sites, and a study of user access to parks and recreational areas, including alternatives to private automobiles, the results of the studies to be reported to Congress no later than July 1, 1974, and Jan. 1, 1975, respectively.

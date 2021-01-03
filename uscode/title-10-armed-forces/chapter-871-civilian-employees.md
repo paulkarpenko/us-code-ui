@@ -162,8 +162,8 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 
 <a id="section-8749"></a>
-## § 8749. Civil service mariners of military sealift command: release of drug and alcohol test results to coast guard 11 So in original. Phrases “military sealift command” and “coast guard” probably should be capitalized.
-**(a) Release of Drug Or Alcohol Test Results to Coast Guard.—** The Secretary of the Navy may release to the Commandant of the Coast Guard the results of a drug or alcohol test of any employee of the Department of the Navy who is employed in any capacity on board a vessel of the Military Sealift Command. Any such release shall be in accordance with the standards and procedures applicable to the disclosure and reporting to the Coast Guard of drug or alcohol tests 22 So in original. Probably should be “test”. results and drug or alcohol test records of individuals employed on vessels documented under the laws of the United States.
+## § 8749. Civil service mariners of Military Sealift Command: release of drug and alcohol test results to Coast Guard
+**(a) Release of Drug or Alcohol Test Results to Coast Guard.—** The Secretary of the Navy may release to the Commandant of the Coast Guard the results of a drug or alcohol test of any employee of the Department of the Navy who is employed in any capacity on board a vessel of the Military Sealift Command. Any such release shall be in accordance with the standards and procedures applicable to the disclosure and reporting to the Coast Guard of drug or alcohol test results and drug or alcohol test records of individuals employed on vessels documented under the laws of the United States.
 
 **(b) Waiver.—** The results of a drug or alcohol test of an employee may be released under subsection (a) without the prior written consent of the employee that is otherwise required under section 503(e) of the Supplemental Appropriations Act, 1987 ([5 U.S.C. 7301](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section7301&num=0&edition=prelim) note).
 
@@ -176,9 +176,13 @@ Section 503(e) of the Supplemental Appropriations Act, 1987, referred to in subs
 A prior section 8749 was renumbered [section 9279 of this title](./chapter-937-decorations-and-awards.md#section-9279).
 
 #### Amendments
+2021—Subsec. (a). Pub. L. 116–283 substituted “alcohol test results” for “alcohol tests results”.
+
+2019—Pub. L. 116–92 capitalized “Military Sealift Command” and “Coast Guard” in section catchline.
+
 2018—Pub. L. 115–232, § 807(d)(6), renumbered [section 7479 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section7479&num=0&edition=prelim) as this section.
 
-Pub. L. 115–232, § 1114(b), substituted “Civil service mariners of military sealift command: release of drug and alcohol test results to coast guard” for “Civil service mariners of Military Sealift Command: release of drug test results to Coast Guard” in section catchline and inserted “Or Alcohol” after “Drug” in subsec. (a) heading and “or alcohol” after “drug” wherever appearing in text.
+Pub. L. 115–232, § 1114(b), substituted “Civil service mariners of military sealift command: release of drug and alcohol test results to coast guard” for “Civil service mariners of Military Sealift Command: release of drug test results to Coast Guard” in section catchline and inserted “Or Alcohol” after “Drug” in subsec. (a) heading and “or alcohol” after “drug” wherever appearing in text. Quoted text directed to be inserted in subsec. (a) heading was conformed to the style used in this title.
 
 #### Effective Date of 2018 Amendment
 Amendment by section 807(d)(6) of Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
@@ -188,13 +192,15 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
 
 <a id="section-8749a"></a>
-## § 8749a. Civil service mariners of military sealift command 11 So in original. Phrase “military sealift command” probably should be capitalized.: alcohol testing
+## § 8749a. Civil service mariners of Military Sealift Command: alcohol testing
 
 The Secretary of the Navy may prescribe regulations establishing a program to conduct on-duty reasonable suspicion alcohol testing and post-accident alcohol testing of civil service mariners of the Military Sealift Command who are assigned to vessels.
 
 ### Statutory Notes
 
 #### Amendments
+2019—Pub. L. 116–92 capitalized “Military Sealift Command” in section catchline.
+
 2018—Pub. L. 115–232, § 807(d)(6), renumbered [section 7479a of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section7479a&num=0&edition=prelim) as this section.
 
 #### Effective Date of 2018 Amendment
@@ -212,7 +218,7 @@ Amendment by section 807(d)(6) of Pub. L. 115–232 effective Feb. 1, 2019, with
 ### Statutory Notes
 
 #### Prior Provisions
-Prior sections 8750 and 8751 were renumbered sections 9280 and 9281 of this title.
+A prior section 8750 was renumbered [section 9280 of this title](./chapter-937-decorations-and-awards.md#section-9280).
 
 #### Amendments
 2018—Pub. L. 115–232 renumbered [section 7480 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section7480&num=0&edition=prelim) as this section.

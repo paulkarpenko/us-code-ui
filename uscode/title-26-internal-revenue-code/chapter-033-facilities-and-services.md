@@ -564,7 +564,7 @@ but only if the helicopter or fixed-wing aircraft does not take off from, or lan
 ### Statutory Notes
 
 #### Inflation Adjusted Items for Certain Years
-For inflation adjustment of certain items in this section, see Revenue Procedures listed in a table under [section 1 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-1) and Internal Revenue Service announcements listed in a table below.
+For inflation adjustment of certain items in this section, see Revenue Procedures listed in a table under [section 1 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-1) (starting with 2012) and Internal Revenue Service announcements listed in a table below (2010 and 2011).
 
 #### References in Text
 The date of the enactment of this paragraph, referred to in subsec. (e)(1)(B)(ii)(II), is the date of enactment of Pub. L. 105–34, which was approved Aug. 5, 1997.

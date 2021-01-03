@@ -46,7 +46,7 @@ Pub. L. 101–624, title XXIII, § 2352, Nov. 28, 1990, 104 Stat. 4038, as amend
 
 <a id="section-902"></a>
 ## § 902. General authority of Secretary of Agriculture
-**(a) Loans** The Secretary of Agriculture (referred to in this chapter as the “Secretary”) is authorized and empowered to make loans, or refinance loans made by the Secretary under this chapter, in the several States and Territories of the United States for rural electrification and for the purpose of furnishing and improving electric and telephone service in rural areas, as provided in this chapter, and for the purpose of assisting electric borrowers to implement demand side management, energy efficiency and conservation programs, and on-grid and off-grid renewable energy systems.
+**(a) Loans** The Secretary of Agriculture (referred to in this chapter as the “Secretary”) is authorized and empowered to make loans, or refinance loans made or guaranteed by the Secretary under this chapter, in the several States and Territories of the United States for rural electrification and for the purpose of furnishing and improving electric and telephone service in rural areas, as provided in this chapter, and for the purpose of assisting electric borrowers to implement demand side management, energy efficiency and conservation programs, and on-grid and off-grid renewable energy systems.
 
 **(b) Investigations and reports** The Secretary may make, or cause to be made, studies, investigations, and reports regarding matters, including financial, technological, and regulatory matters, affecting the condition and progress of electric, telecommunications, and economic development in rural areas, and publish and disseminate information with respect to the matters.
 
@@ -58,6 +58,8 @@ Pub. L. 101–624, title XXIII, § 2352, Nov. 28, 1990, 104 Stat. 4038, as amend
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
+2019—Subsec. (a). Pub. L. 116–94 substituted “made or guaranteed by the Secretary” for “made by the Secretary”.
+
 2018—Subsec. (a). Pub. L. 115–334, § 6501(a), substituted “loans, or refinance loans made by the Secretary under this chapter, in” for “loans in”.
 
 Subsec. (c). Pub. L. 115–334, § 6501(b), added subsec. (c).
@@ -135,7 +137,7 @@ Act June 21, 1938, ch. 554, title IV, § 401, 52 Stat. 818, as amended by Pub. L
 
 [Amendment by section 342(g) of Pub. L. 103–465 to section 401 of act June 21, 1938, set out above, effective on the date on which the WTO Agreement enters into force with respect to the United States (Jan. 1, 1995), see section 344(b) of Pub. L. 103–465, set out as an Effective Date of 1994 Amendment note under [section 2512 of Title 19](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section2512&num=0&edition=prelim), Customs Duties.]
 
-[Amendment by subsec. 381(d) of Pub. L. 103–182 to section 401 of act June 21, 1938, set out above, effective on the date the North American Free Trade Agreement enters into force with respect to the United States [Jan. 1, 1994], see section 381(e) of Pub. L. 103–182, set out as an Effective Date of 1993 Amendment note under [section 2511 of Title 19](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section2511&num=0&edition=prelim), Customs Duties.]
+[Amendment by section 381(d) of Pub. L. 103–182 to section 401 of act June 21, 1938, set out above, effective on the date the North American Free Trade Agreement enters into force with respect to the United States (Jan. 1, 1994), see section 381(e) of Pub. L. 103–182, formerly set out as an Effective Date of 1993 Amendment note under [section 2511 of Title 19](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section2511&num=0&edition=prelim), Customs Duties.]
 
 
 <a id="section-904"></a>

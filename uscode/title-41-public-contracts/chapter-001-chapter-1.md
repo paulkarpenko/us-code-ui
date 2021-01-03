@@ -18,6 +18,9 @@ In this subtitle, the term “Administrator” means the Administrator for Feder
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
 | 101 | no source. |  |
 
+#### Short Title of 2020 Amendment
+Pub. L. 116–260, div. U, title IV, § 401, Dec. 27, 2020, 134 Stat. 2292, provided that: “This title [enacting provisions set out as a note under [section 3309 of this title](./chapter-033-chapter-33.md#section-3309)] may be cited as the ‘Construction Consensus Procurement Improvement Act of 2020’.”
+
 #### Short Title of 2018 Amendment
 Pub. L. 115–390, § 1(a), Dec. 21, 2018, 132 Stat. 5173, provided that: “This Act [enacting subchapter III of chapter 13 of this title and [section 4713 of this title](./chapter-047-chapter-47.md#section-4713), amending sections 3553 and 3554 of Title 44, Public Printing and Documents, and [section 3348 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3348&num=0&edition=prelim), War and National Defense, and enacting provisions set out as notes under this section and sections 1321 and 4713 of this title, [section 663 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section663&num=0&edition=prelim), Domestic Security, and [section 3553 of Title 44](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section3553&num=0&edition=prelim)] may be cited as the ‘Strengthening and Enhancing Cyber-capabilities by Utilizing Risk Exposure Technology Act’ or the ‘SECURE Technology Act’.”
 
@@ -80,12 +83,9 @@ Act Mar. 3, 1933, ch. 212, title III, § 7, formerly § 5, as added by Pub. L. 1
 <a id="section-102"></a>
 ## § 102. Commercial component
 
-In this subtitle, the term “commercial component” means a component that is a commercial item.
+In this subtitle, the term “commercial component” means a component that is a commercial product.
 
 ### Statutory Notes
-
-#### Amendment of Section
-Pub. L. 115–232, div. A, title VIII, § 836(a)(2)(A), (h), Aug. 13, 2018, 132 Stat. 1860, 1874, provided that, effective Jan. 1, 2020, subject to a savings provision, this section is amended by striking “commercial item” and inserting “commercial product”. See 2018 Amendment note below.
 
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
@@ -102,64 +102,27 @@ Amendment by Pub. L. 115–232 effective Jan. 1, 2020, subject to a savings prov
 
 
 <a id="section-103"></a>
-## § 103. Commercial item
+## § 103. Commercial product
 
-In this subtitle, the term “commercial item” means—
-
-(1) an item, other than real property, that—
-
-  (A) is of a type customarily used by the general public or by nongovernmental entities for purposes other than governmental purposes; and
-
-  (B) has been sold, leased, or licensed, or offered for sale, lease, or license, to the general public;
-
-(2) an item that—
-
-  (A) evolved from an item described in paragraph (1) through advances in technology or performance; and
-
-  (B) is not yet available in the commercial marketplace but will be available in the commercial marketplace in time to satisfy the delivery requirements under a Federal Government solicitation;
-
-(3) an item that would satisfy the criteria in paragraph (1) or (2) were it not for—
-
-  (A) modifications of a type customarily available in the commercial marketplace; or
-
-  (B) minor modifications made to meet Federal Government requirements;
-
-(4) any combination of items meeting the requirements of paragraph (1), (2), (3), or (5) that are of a type customarily combined and sold in combination to the general public;
-
-(5) installation services, maintenance services, repair services, training services, and other services if—
-
-  (A) those services are procured for support of an item referred to in paragraph (1), (2), (3), or (4), regardless of whether the services are provided by the same source or at the same time as the item; and
-
-  (B) the source of the services provides similar services contemporaneously to the general public under terms and conditions similar to those offered to the Federal Government;
-
-(6) services offered and sold competitively, in substantial quantities, in the commercial marketplace based on established catalog or market prices for specific tasks performed or specific outcomes to be achieved and under standard commercial terms and conditions;
-
-(7) any item, combination of items, or service referred to in paragraphs (1) to (6) even though the item, combination of items, or service is transferred between or among separate divisions, subsidiaries, or affiliates of a contractor; or
-
-(8) a nondevelopmental item if the procuring agency determines, in accordance with conditions in the Federal Acquisition Regulation, that the item was developed exclusively at private expense and has been sold in substantial quantities, on a competitive basis, to multiple State and local governments or to multiple foreign governments.
-
-### Statutory Notes
-
-#### Repeal and Reenactment of Section
-Pub. L. 115–232, div. A, title VIII, § 836(a)(1), (h), Aug. 13, 2018, 132 Stat. 1859, 1874, provided that, effective Jan. 1, 2020, subject to savings provision, this section is repealed and a new section 103 is enacted to read as follows: § 103. Commercial product In this subtitle, the term “commercial product” means any of the following:
+In this subtitle, the term “commercial product” means any of the following:
 
 (1) A product, other than real property, that—
 
-(A) is of a type customarily used by the general public or by nongovernmental entities for purposes other than governmental purposes; and
+  (A) is of a type customarily used by the general public or by nongovernmental entities for purposes other than governmental purposes; and
 
-(B) has been sold, leased, or licensed, or offered for sale, lease, or license, to the general public.
+  (B) has been sold, leased, or licensed, or offered for sale, lease, or license, to the general public.
 
 (2) A product that—
 
-(A) evolved from a product described in paragraph (1) through advances in technology or performance; and
+  (A) evolved from a product described in paragraph (1) through advances in technology or performance; and
 
-(B) is not yet available in the commercial marketplace but will be available in the commercial marketplace in time to satisfy the delivery requirements under a Federal Government solicitation.
+  (B) is not yet available in the commercial marketplace but will be available in the commercial marketplace in time to satisfy the delivery requirements under a Federal Government solicitation.
 
 (3) A product that would satisfy the criteria in paragraph (1) or (2) were it not for—
 
-(A) modifications of a type customarily available in the commercial marketplace; or
+  (A) modifications of a type customarily available in the commercial marketplace; or
 
-(B) minor modifications made to meet Federal Government requirements.
+  (B) minor modifications made to meet Federal Government requirements.
 
 (4) Any combination of products meeting the requirements of paragraph (1), (2), or (3) that are of a type customarily combined and sold in combination to the general public.
 
@@ -167,25 +130,17 @@ Pub. L. 115–232, div. A, title VIII, § 836(a)(1), (h), Aug. 13, 2018, 132 Sta
 
 (6) A nondevelopmental item if the procuring agency determines, in accordance with conditions in the Federal Acquisition Regulation, that—
 
-(A) the product was developed exclusively at private expense; and
+  (A) the product was developed exclusively at private expense; and
 
-(B) has been sold in substantial quantities, on a competitive basis, to multiple State and local governments or to multiple foreign governments.
+  (B) has been sold in substantial quantities, on a competitive basis, to multiple State and local governments or to multiple foreign governments.
 
-| Historical and Revision Notes |  |  |
-| --- | --- | --- |
-| Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
-| 103 | 41:259(c)(11). | June 30, 1949, ch. 288, title III, § 309(c)(11), as added Pub. L. 98–369, title VII, § 2711(a)(3), July 18, 1984, 98 Stat. 1180; Pub. L. 98–577, title V, § 504(a)(4), Oct. 30, 1984, 98 Stat. 3086; Pub. L. 103–355, title I, § 1551, Oct. 13, 1994, 108 Stat. 3299. |
-|  | 41:264a (“commercial item”). | June 30, 1949, ch. 288, title III, § 314A (“commercial item”), as added Pub. L. 103–355, title VIII, § 8202, Oct. 13, 1994, 108 Stat. 3394. |
-|  | 41:403(12). | Pub. L. 93–400, § 4(12), as added Pub. L. 103–355, title VIII, § 8001(a), Oct. 13, 1994, 108 Stat. 3385; Pub. L. 104–106, title XLII, § 4204, Feb. 10, 1996, 110 Stat. 655; Pub. L. 106–65, title VIII, § 805, Oct. 5, 1999, 113 Stat. 705; Pub. L. 108–136, title XIV, § 1433, Nov. 24, 2003, 117 Stat. 1673. |
+### Statutory Notes
 
-#### Amendments
-2017—Par. (8). Pub. L. 115–91 inserted “or to multiple foreign governments” before period at end.
+#### Prior Provisions
+A prior section 103, Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3679; Pub. L. 115–91, div. A, title VIII, § 847(a), Dec. 12, 2017, 131 Stat. 1487, defined term “commercial item”, prior to repeal by Pub. L. 115–232, div. A, title VIII, § 836(a)(1), Aug. 13, 2018, 132 Stat. 1859, effective Jan. 1, 2020. See Effective Date note below.
 
-#### Effective Date of Repeal
-Section repealed effective Jan. 1, 2020, subject to a savings provision, see section 836(h) of Pub. L. 115–232, set out as an Effective Date of 2018 Amendment; Savings Provision note under [section 453b of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section453b&num=0&edition=prelim), Domestic Security.
-
-#### Construction of 2017 Amendment
-Pub. L. 115–91, div. A, title VIII, § 847(b), Dec. 12, 2017, 131 Stat. 1487, provided that: “Nothing in the amendment made by subsection (a) [amending this section] shall affect the meaning of the term ‘commercial item’ for purposes of subsection (a)(5) of [section 2464 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2464&num=0&edition=prelim), United States Code, or any requirement under subsection (a)(3) or subsection (c) of such section.”
+#### Effective Date
+Section effective, and repeal of former section 103 effective, on Jan. 1, 2020, subject to a savings provision, see section 836(h) of Pub. L. 115–232, set out as an Effective Date of 2018 Amendment; Savings Provision note under [section 453b of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section453b&num=0&edition=prelim), Domestic Security.
 
 
 <a id="section-103a"></a>
@@ -222,7 +177,7 @@ In this subtitle, the term “commercially available off-the-shelf item”—
 
 (1) means an item that—
 
-  (A) is a commercial item (as described in [section 103(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section103/1&num=0&edition=prelim));
+  (A) is a commercial product (as described in [section 103(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section103/1&num=0&edition=prelim));
 
   (B) is sold in substantial quantities in the commercial marketplace; and
 
@@ -232,9 +187,6 @@ In this subtitle, the term “commercially available off-the-shelf item”—
 
 ### Statutory Notes
 
-#### Amendment of Paragraph (1)(A)
-Pub. L. 115–232, div. A, title VIII, § 836(a)(2)(B), (h), Aug. 13, 2018, 132 Stat. 1860, 1874, provided that, effective Jan. 1, 2020, subject to a savings provision, paragraph (1)(A) of this section is amended by striking “commercial item” and inserting “commercial product”. See 2018 Amendment note below.
-
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
@@ -243,7 +195,12 @@ Pub. L. 115–232, div. A, title VIII, § 836(a)(2)(B), (h), Aug. 13, 2018, 132 
 In paragraph (2), the words “[section 40102(4) of title 46](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section40102/4&num=0&edition=prelim)” are substituted for “section 3 of the Shipping Act of 1984 (46 U.S.C. App. 1702)” because of section 18(c) of Public Law 109–304 (46 U.S.C. note prec. 101).
 
 #### Amendments
-2018—Par. (1)(A). Pub. L. 115–232, which directed substitution of “commercial product” for “commercial item” in section 104(1)(A), without specifying the Code title to be amended, was executed by making the substitution in par. (1)(A) of this section, to reflect the probable intent of Congress.
+2021—Par. (1)(A). Pub. L. 116–283, § 1081(d)(4)(A), made technical correction to directory language of Pub. L. 115–232, § 836(a)(2)(B). See 2018 Amendment note below.
+
+2018—Par. (1)(A). Pub. L. 115–232, as amended by Pub. L. 116–283, § 1081(d)(4)(A), substituted “commercial product” for “commercial item”.
+
+#### Effective Date of 2021 Amendment
+Pub. L. 116–283, div. A, title X, § 1081(d), Jan. 1, 2021, 134 Stat. 3873, provided that the amendment made by section 1081(d)(4)(A) to section 836(a)(2)(B) of Pub. L. 115–232, which amended this section, is effective as of Aug. 13, 2018, and as if included in Pub. L. 115–232.
 
 #### Effective Date of 2018 Amendment
 Amendment by Pub. L. 115–232 effective Jan. 1, 2020, subject to a savings provision, see section 836(h) of Pub. L. 115–232, set out as an Effective Date of 2018 Amendment; Savings Provision note under [section 453b of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section453b&num=0&edition=prelim), Domestic Security.
@@ -337,7 +294,7 @@ In this subtitle, the terms “item” and “item of supply”—
 
 In this subtitle, the term “nondevelopmental item” means—
 
-(1) a commercial item;
+(1) a commercial product;
 
 (2) a previously developed item of supply that is in use by a department or agency of the Federal Government, a State or local government, or a foreign government with which the United States has a mutual defense cooperation agreement;
 
@@ -346,9 +303,6 @@ In this subtitle, the term “nondevelopmental item” means—
 (4) an item of supply currently being produced that does not meet the requirements of paragraph (1), (2), or (3) solely because the item is not yet in use.
 
 ### Statutory Notes
-
-#### Amendment of Paragraph (1)
-Pub. L. 115–232, div. A, title VIII, § 836(a)(2)(C), (h), Aug. 13, 2018, 132 Stat. 1860, 1874, provided that, effective Jan. 1, 2020, subject to a savings provision, paragraph (1) of this section is amended by striking “commercial item” and inserting “commercial product”. See 2018 Amendment note below.
 
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |

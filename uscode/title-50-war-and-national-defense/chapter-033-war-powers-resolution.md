@@ -2,7 +2,7 @@
 title: 50
 chapter: '33'
 heading: WAR POWERS RESOLUTION
-section_count: 10
+section_count: 11
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50&num=0&edition=prelim
 ---
@@ -21,6 +21,9 @@ Pub. L. 93–148, § 10, Nov. 7, 1973, 87 Stat. 559, provided that: “This join
 
 #### Short Title
 Pub. L. 93–148, § 1, Nov. 7, 1973, 87 Stat. 555, provided that: “This joint resolution [enacting this chapter] may be cited as the ‘War Powers Resolution’.”
+
+#### Rule of Construction on the Permanent Stationing of United States Armed Forces in Somalia
+Pub. L. 116–92, div. A, title XII, § 1271, Dec. 20, 2019, 133 Stat. 1698, provided that: “Nothing in this Act [see Tables for classification] may be construed to authorize the permanent stationing of members of the Armed Forces in Somalia.”
 
 #### Report on Responsible Redeployment of United States Armed Forces From Iraq
 Pub. L. 111–84, div. A, title XII, § 1227, Oct. 28, 2009, 123 Stat. 2525, as amended by Pub. L. 111–383, div. A, title XII, § 1233(a)–(e), Jan. 7, 2011, 124 Stat. 4396, 4397, provided that: “(a) Report Required.—Not later than 90 days after the date of the enactment of this Act [Oct. 28, 2009], or December 31, 2010, whichever occurs later, and every 180 days thereafter, the Secretary of Defense shall submit to the appropriate congressional committees a report concerning the responsible redeployment of United States Armed Forces from Iraq in accordance with the policy announced by the President on February 27, 2009, and the Agreement Between the United States of America and the Republic of Iraq On the Withdrawal of United States Forces From Iraq and the Organization of Their Activities During Their Temporary Presence in Iraq. “(b) Elements.—The report required under subsection (a) shall include the following elements:“(1) The number of United States military personnel in Iraq by service and component for each month of the preceding 90-day period and an estimate of the personnel levels in Iraq for the 90-day period following submission of the report. “(2) The number and type of military installations in Iraq occupied by 100 or more United States military personnel and the number of such military installations closed, consolidated, or transferred to the Government of Iraq in the preceding 90-day period. “(3) An estimate of the number of military vehicles, containers of equipment, tons of ammunition, or other significant items belonging to the Department of Defense removed from Iraq during the preceding 90-day period, an estimate of the remaining amount of such items belonging to the Department of Defense, and an assessment of the likelihood of successfully removing, demilitarizing, or otherwise transferring all items belonging to the Department of Defense from Iraq on or before December 31, 2011. “(4) An assessment of United States detainee operations and releases. Such assessment should include the total number of detainees held by the United States in Iraq, the number of detainees in each threat level category, the number of detainees who are not nationals of Iraq, the number of detainees transferred to Iraqi authorities, the number of detainees who were released from United States custody and the reasons for their release, and the number of detainees who having been released in the past were recaptured or had their remains identified planning or after carrying out attacks on United States or Coalition forces. “(5) A listing of the objective and subjective factors utilized by the commander of United States Forces–Iraq, including any changes to that list in the case of an update to the report, to determine risk levels associated with the drawdown of United States Armed Forces, and the process and timing that will be utilized by the commander of United States Forces–Iraq and the Secretary of Defense to assess risk and make recommendations to the President about either continuing the redeployment of United States Armed Forces from Iraq in accordance with the schedule announced by the President or modifying the pace or timing of that redeployment. “(6) An assessment of progress to transfer responsibility of programs, projects, and activities carried out in Iraq by the Department of Defense to other United States Government departments and agencies, international or nongovernmental entities, or the Government of Iraq. The assessment should include a description of the numbers and categories of programs, projects, and activities for which such other entities have taken responsibility or which have been discontinued by the Department of Defense. The assessment should also include a discussion of any difficulties or barriers in transitioning such programs, projects, and activities and what, if any, solutions have been developed to address such difficulties or barriers. “(7) An assessment of progress toward the goal of building the minimum essential capabilities of the Ministry of Defense and the Ministry of the Interior of Iraq, including a description of—“(A) such capabilities both extant and remaining to be developed; “(B) major equipment necessary to achieve such capabilities; “(C) the level and type of support provided by the United States to address shortfalls in such capabilities; and “(D) the level of commitment, both financial and political, made by the Government of Iraq to develop such capabilities, including a discussion of resources used by the Government of Iraq to develop capabilities that the Secretary determines are not minimum essential capabilities for purposes of this paragraph. “(8) A listing and assessment of the anticipated level and type of support to be provided by United States special operations forces to the Government of Iraq and Iraqi special operations forces during the redeployment of United States conventional forces from Iraq. The assessment should include a listing of anticipated critical support from general purpose forces required by United States special operations forces and Iraqi special operations forces. The assessment should also include combat support, including rotary aircraft and intelligence, surveillance, and reconnaissance assets, combat service support, and contractor support needed through December 31, 2011. “(c) Secretary of State Comments.—Prior to submitting the report required under subsection (a), the Secretary of Defense shall provide a copy of the report to the Secretary of State for review. At the request of the Secretary of State, the Secretary of Defense shall include an appendix to the report which contains any comments or additional information that the Secretary of State requests. “(d) Form.—The report required under subsection (a) may include a classified annex. “(e) Appropriate Congressional Committees.—In this section, the term ‘appropriate congressional committees’ means—“(1) the Committee on Armed Services, the Committee on Foreign Relations, the Select Committee on Intelligence, and the Committee on Appropriations of the Senate; and “(2) the Committee on Armed Services, the Committee on Foreign Affairs, the Permanent Select Committee on Intelligence, and the Committee on Appropriations of the House of Representatives. “(f) Termination.—The requirement to submit the report required under subsection (a) shall terminate on September 30, 2012.”
@@ -172,15 +175,23 @@ If any provision of this chapter or the application thereof to any person or cir
 
 <a id="section-1549"></a>
 ## § 1549. Report on and notice of changes made to the legal and policy frameworks for the United States’ use of military force and related national security operations
-**(a) Initial report**
+**(a) Annual report**
 
-(1) **In general** — Not later than 90 days after December 12, 2017, the President shall submit to the appropriate congressional committees a report on the legal and policy frameworks for the United States’ use of military force and related national security operations.
+(1) **In general** — Not later than March 1 of each year, the President shall submit to the appropriate congressional committees a report on the legal and policy frameworks for the United States’ use of military force and related national security operations.
 
-(2) **Matters to be included** — The report required by paragraph (1) shall include the legal, factual, and policy justifications for any changes made to such legal and policy frameworks during the period beginning on January 20, 2017, and ending on the date the report is submitted.
+(2) **Matters to be included** — The report required by paragraph (1) shall include the legal, factual, and policy justifications for any changes made to such legal and policy frameworks from the preceding year, including—
+
+  (A) a list of all foreign forces, irregular forces, groups, or individuals for which a determination has been made that force could legally be used under the Authorization for Use of Military Force (Public Law 107–40), including—
+
+    (i) the legal and factual basis for such determination; and
+
+    (ii) a description of whether force has been used against each such foreign force, irregular force, group, or individual; and
+
+  (B) the criteria and any changes to the criteria for designating a foreign force, irregular force, group, or individual as lawfully targetable, as a high value target, and as formally or functionally a member of a group covered under the Authorization for Use of Military Force.
 
 **(b) Notice required** Not later than 30 days after the date on which a change is made to the legal and policy frameworks described in subsection (a)(1), the President shall notify the appropriate congressional committees of such change, including the legal, factual, and policy justification for such change.
 
-**(c) Form** The report required by subsection (a) and each notice required by subsection (b) shall be submitted in unclassified form, but may contain a classified annex.
+**(c) Form** The report required by subsection (a) and each notice required by subsection (b) shall be submitted in unclassified form, but may contain a classified annex. The unclassified portion of each report shall, at a minimum, include each change made to the legal and policy frameworks during the preceding year and the legal, factual, and policy justifications for such changes, and shall be made available to the public at the same time it is submitted to the appropriate congressional committees.
 
 **(d) Appropriate congressional committees defined** In this section, the term “appropriate congressional committees” means—
 
@@ -190,5 +201,65 @@ If any provision of this chapter or the application thereof to any person or cir
 
 ### Statutory Notes
 
+#### References in Text
+The Authorization for Use of Military Force, referred to in subsec. (a)(2)(A), is Pub. L. 107–40, Sept. 18, 2001, 115 Stat. 224, which is set out as a note under [section 1541 of this title](./chapter-033-war-powers-resolution.md#section-1541).
+
 #### Codification
 Section was enacted as part of the National Defense Authorization Act for Fiscal Year 2018, and not as part of the War Powers Resolution which comprises this chapter.
+
+#### Amendments
+2019—Subsec. (a). Pub. L. 116–92, § 1261(1), substituted “Annual” for “Initial” in heading.
+
+Subsec. (a)(1). Pub. L. 116–92, § 1261(2), substituted “March 1 of each year” for “90 days after December 12, 2017”.
+
+Subsec. (a)(2). Pub. L. 116–92, § 1261(3), substituted “from the preceding year, including—” and subpars. (A) and (B) for “during the period beginning on January 20, 2017, and ending on the date the report is submitted.”
+
+Subsec. (c). Pub. L. 116–92, § 1261(4), inserted at end “The unclassified portion of each report shall, at a minimum, include each change made to the legal and policy frameworks during the preceding year and the legal, factual, and policy justifications for such changes, and shall be made available to the public at the same time it is submitted to the appropriate congressional committees.”
+
+
+<a id="section-1550"></a>
+## § 1550. Reports and briefings on use of military force and support of partner forces
+**(a) In general** Not later than 180 days after December 20, 2019, and every 180 days thereafter, the President shall submit to the congressional defense committees, the Committee on Foreign Relations of the Senate, and the Committee on Foreign Affairs of the House of Representatives a report on actions taken pursuant to the Authorization for Use of Military Force (Public Law 107–40) against those countries or organizations described in such law, as well as any actions taken to command, coordinate, participate in the movement of, or accompany the regular or irregular military forces of any foreign country or government when such forces are engaged in hostilities or in situations where imminent involvement in hostilities is clearly indicated by the circumstances, during the preceding 180-day period.
+
+**(b) Matters to be included** The report required by subsection (a) shall include, with respect to the time period for which the report was submitted, the following:
+
+(1) A list of each country or organization with respect to which force has been used pursuant to the Authorization for Use of Military Force, including the legal and factual basis for the determination that authority under such law applies with respect to each such country or organization.
+
+(2) An intelligence assessment of the risk to the United States posed by each such country or organization.
+
+(3) A list of each country in which operations were conducted pursuant to such law and a description of the circumstances necessitating the use of force pursuant to such law, including whether the country is designated as an area of active hostilities.
+
+(4) A general description of the status of operations conducted pursuant to such law as well as a description of the expected scope and duration of such operations.
+
+(5) A list of each partner force and country with respect to which United States Armed Forces have commanded, coordinated, participated in the movement of, or accompanied the regular or irregular forces of any foreign country or government that have engaged in hostilities or there existed an imminent threat that such forces would become engaged in hostilities, including—
+
+  (A) a delineation of any such instances in which such United States Armed Forces were or were not operating under the Authorization for Use of Military Force; and
+
+  (B) a determination of whether the foreign forces, irregular forces, groups, or individuals against which such hostilities occurred are covered by such law.
+
+(6) A description of the actual and proposed contributions, including financing, equipment, training, troops, and logistical support, provided by each foreign country that participates in any international coalition with the United States to combat a country or organization described in the Authorization for Use of Military Force.
+
+**(c) Form** The information required under paragraphs (1) and (2) of subsection (b) shall be submitted in unclassified form.
+
+**(d) Other reports** If United States Armed Forces are introduced into hostilities, or into situations where imminent involvement in hostilities is clearly indicated by the circumstances, against any country, organization, or person pursuant to statutory or constitutional authorities other than Authorization for Use of Military Force, the President shall comply with the reporting requirements under—
+
+(1) this section to the same extent and in the same manner as if such actions had been taken under Authorization for Use of Military Force;
+
+(2) the War Powers Resolution ([50 U.S.C. 1541](./chapter-033-war-powers-resolution.md#section-1541) et seq.); and
+
+(3) any other applicable provision of law.
+
+**(e) Briefings** At least once during each 180-day period described in subsection (a), the President shall provide to the congressional defense committees, the Committee on Foreign Relations of the Senate, and the Committee on Foreign Affairs of the House of Representatives a briefing on the matters covered by the report required under this section for such period.
+
+### Statutory Notes
+
+#### References in Text
+The Authorization for Use of Military Force, referred to in text, is Pub. L. 107–40, Sept. 18, 2001, 115 Stat. 224, which is set out as a note under [section 1541 of this title](./chapter-033-war-powers-resolution.md#section-1541).
+
+The War Powers Resolution, referred to in subsec. (d)(2), is Pub. L. 93–148, Nov. 7, 1973, 87 Stat. 555, which is classified generally to this chapter. For complete classification of this Resolution to the Code, see Short Title note set out under [section 1541 of this title](./chapter-033-war-powers-resolution.md#section-1541) and Tables.
+
+#### Codification
+Section was enacted as part of the National Defense Authorization Act for Fiscal Year 2020, and not as part of the War Powers Resolution which comprises this chapter.
+
+#### “Congressional Defense Committees” Defined
+Congressional defense committees means the Committees on Armed Services and Appropriations of the Senate and the House of Representatives, see section 3 of Pub. L. 116–92, 133 Stat. 1231. See note under [section 101 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section101&num=0&edition=prelim), Armed Forces.

@@ -290,12 +290,9 @@ The Secretary of Labor may provide reasonable limitations to, and may prescribe 
 <a id="section-3707"></a>
 ## § 3707. Contractor certification or contract clause in acquisition of commercial items not required
 
-In a contract to acquire a commercial item (as defined in [section 103 of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section103&num=0&edition=prelim)), a certification by a contractor or a contract clause may not be required to implement a prohibition or requirement in this chapter.
+In a contract to acquire a commercial product (as defined in [section 103 of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section103&num=0&edition=prelim)) or a commercial service (as defined in [section 103a of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section103a&num=0&edition=prelim)), a certification by a contractor or a contract clause may not be required to implement a prohibition or requirement in this chapter.
 
 ### Statutory Notes
-
-#### Amendment of Section
-Pub. L. 115–232, div. A, title VIII, § 836(g)(6), (h), Aug. 13, 2018, 132 Stat. 1874, 1874, provided that, effective Jan. 1, 2020, subject to a savings provision, this section is amended by striking “a commercial item (as defined in [section 103 of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section103&num=0&edition=prelim))” and inserting “a commercial product (as defined in [section 103 of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section103&num=0&edition=prelim)) or a commercial service (as defined in [section 103a of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section103a&num=0&edition=prelim))”. See 2018 Amendment note below.
 
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |

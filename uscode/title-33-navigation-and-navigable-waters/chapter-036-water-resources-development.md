@@ -2,1216 +2,174 @@
 title: 33
 chapter: '36'
 heading: WATER RESOURCES DEVELOPMENT
-section_count: 170
+section_count: 186
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33&num=0&edition=prelim
 ---
 <a id="section-2201"></a>
-## § 2201. Easements for electric, telephone, or broadband service facilities
-**(a) Definition of water resources development project** In this section, the term “water resources development project” means a project under the administrative jurisdiction of the Corps of Engineers that is subject to part 327 of title 36, Code of Federal Regulations (or successor regulations).
+## § 2201. Interest; partial payment of claims
+**(a) General rule** The responsible party or the responsible party’s guarantor is liable to a claimant for interest on the amount paid in satisfaction of a claim under this Act for the period described in subsection (b). The responsible party shall establish a procedure for the payment or settlement of claims for interim, short-term damages. Payment or settlement of a claim for interim, short-term damages representing less than the full amount of damages to which the claimant ultimately may be entitled shall not preclude recovery by the claimant for damages not reflected in the paid or settled partial claim.
 
-**(b) No consideration for easements** The Secretary may not collect consideration for an easement across water resources development project land for the electric, telephone, or broadband service facilities of nonprofit organizations eligible for financing under the Rural Electrification Act of 1936 ([7 U.S.C. 901](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section901&num=0&edition=prelim) et seq.).
+**(b) Period**
 
-**(c) Administrative expenses** Nothing in this section affects the authority of the Secretary under [section 2695 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2695&num=0&edition=prelim) or under [section 9701 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section9701&num=0&edition=prelim) to collect funds to cover reasonable administrative expenses incurred by the Secretary.
+(1) **In general** — Except as provided in paragraph (2), the period for which interest shall be paid is the period beginning on the 30th day following the date on which the claim is presented to the responsible party or guarantor and ending on the date on which the claim is paid.
+
+(2) **Exclusion of period due to offer by guarantor** — If the guarantor offers to the claimant an amount equal to or greater than that finally paid in satisfaction of the claim, the period described in paragraph (1) does not include the period beginning on the date the offer is made and ending on the date the offer is accepted. If the offer is made within 60 days after the date on which the claim is presented under [section 2713(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section2713/a&num=0&edition=prelim), the period described in paragraph (1) does not include any period before the offer is accepted.
+
+(3) **Exclusion of periods in interests of justice** — If in any period a claimant is not paid due to reasons beyond the control of the responsible party or because it would not serve the interests of justice, no interest shall accrue under this section during that period.
+
+(4) **Calculation of interest** — The interest paid under this section shall be calculated at the average of the highest rate for commercial and finance company paper of maturities of 180 days or less obtaining on each of the days included within the period for which interest must be paid to the claimant, as published in the Federal Reserve Bulletin.
+
+(5) **Interest not subject to liability limits**
+
+  (A) *In general* — Interest (including prejudgment interest) under this paragraph is in addition to damages and removal costs for which claims may be asserted under [section 2702 of this title](./chapter-040-oil-pollution.md#section-2702) and shall be paid without regard to any limitation of liability under [section 2704 of this title](./chapter-040-oil-pollution.md#section-2704).
+
+  (B) *Payment by guarantor* — The payment of interest under this subsection by a guarantor is subject to [section 2716(g) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section2716/g&num=0&edition=prelim).
 
 ### Statutory Notes
 
 #### References in Text
-The Rural Electrification Act of 1936, referred to in subsec. (b), is act May 20, 1936, ch. 432, 49 Stat. 1363, which is classified generally to chapter 31 (§ 901 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see [section 901 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section901&num=0&edition=prelim) and Tables.
+This Act, referred to in subsec. (a), is Pub. L. 101–380, Aug. 18, 1990, 104 Stat. 484, as amended, known as the Oil Pollution Act of 1990, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 2701 of this title](./chapter-040-oil-pollution.md#section-2701) and Tables.
 
-#### Codification
-Section was enacted as part of the Water Resources Development Act of 2016, and also as part of the Water Infrastructure Improvements for the Nation Act, also known as the WIIN Act, and not as part of the Water Resources Development Act of 1986 which comprises this chapter.
+#### Amendments
+1996—Pub. L. 104–324, § 1142(a)(1), inserted “; partial payment of claims” after “Interest” in section catchline.
 
-#### “Secretary” Defined
-Secretary means the Secretary of the Army, see section 1002 of Pub. L. 114–322, set out as a note under [section 2201 of this title](./chapter-036-water-resources-development.md#section-2201).
+Subsec. (a). Pub. L. 104–324, § 1142(a)(2), inserted at end “The responsible party shall establish a procedure for the payment or settlement of claims for interim, short-term damages. Payment or settlement of a claim for interim, short-term damages representing less than the full amount of damages to which the claimant ultimately may be entitled shall not preclude recovery by the claimant for damages not reflected in the paid or settled partial claim.”
 
 
 <a id="section-2202"></a>
-## § 2202. Prior project authorization
+## § 2202. Natural resources
+**(a) Liability** In the case of natural resource damages under [section 2702(b)(2)(A) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section2702/b/2/A&num=0&edition=prelim), liability shall be—
 
-In any case in which a project under the jurisdiction of the Secretary is budgeted under a different business line than the business line under which the project was originally authorized, the Secretary shall ensure that the project is carried out in accordance with any requirements that apply to the business line under which the project was originally authorized.
+(1) to the United States Government for natural resources belonging to, managed by, controlled by, or appertaining to the United States;
+
+(2) to any State for natural resources belonging to, managed by, controlled by, or appertaining to such State or political subdivision thereof;
+
+(3) to any Indian tribe for natural resources belonging to, managed by, controlled by, or appertaining to such Indian tribe; and
+
+(4) in any case in which [section 2707 of this title](./chapter-040-oil-pollution.md#section-2707) applies, to the government of a foreign country for natural resources belonging to, managed by, controlled by, or appertaining to such country.
+
+**(b) Designation of trustees**
+
+(1) **In general** — The President, or the authorized representative of any State, Indian tribe, or foreign government, shall act on behalf of the public, Indian tribe, or foreign country as trustee of natural resources to present a claim for and to recover damages to the natural resources.
+
+(2) **Federal trustees** — The President shall designate the Federal officials who shall act on behalf of the public as trustees for natural resources under this Act.
+
+(3) **State trustees** — The Governor of each State shall designate State and local officials who may act on behalf of the public as trustee for natural resources under this Act and shall notify the President of the designation.
+
+(4) **Indian tribe trustees** — The governing body of any Indian tribe shall designate tribal officials who may act on behalf of the tribe or its members as trustee for natural resources under this Act and shall notify the President of the designation.
+
+(5) **Foreign trustees** — The head of any foreign government may designate the trustee who shall act on behalf of that government as trustee for natural resources under this Act.
+
+**(c) Functions of trustees**
+
+(1) **Federal trustees** — The Federal officials designated under subsection (b)(2)—
+
+  (A) shall assess natural resource damages under [section 2702(b)(2)(A) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section2702/b/2/A&num=0&edition=prelim) for the natural resources under their trusteeship;
+
+  (B) may, upon request of and reimbursement from a State or Indian tribe and at the Federal officials’ discretion, assess damages for the natural resources under the State’s or tribe’s trusteeship; and
+
+  (C) shall develop and implement a plan for the restoration, rehabilitation, replacement, or acquisition of the equivalent, of the natural resources under their trusteeship.
+
+(2) **State trustees** — The State and local officials designated under subsection (b)(3)—
+
+  (A) shall assess natural resource damages under [section 2702(b)(2)(A) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section2702/b/2/A&num=0&edition=prelim) for the purposes of this Act for the natural resources under their trusteeship; and
+
+  (B) shall develop and implement a plan for the restoration, rehabilitation, replacement, or acquisition of the equivalent, of the natural resources under their trusteeship.
+
+(3) **Indian tribe trustees** — The tribal officials designated under subsection (b)(4)—
+
+  (A) shall assess natural resource damages under [section 2702(b)(2)(A) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section2702/b/2/A&num=0&edition=prelim) for the purposes of this Act for the natural resources under their trusteeship; and
+
+  (B) shall develop and implement a plan for the restoration, rehabilitation, replacement, or acquisition of the equivalent, of the natural resources under their trusteeship.
+
+(4) **Foreign trustees** — The trustees designated under subsection (b)(5)—
+
+  (A) shall assess natural resource damages under [section 2702(b)(2)(A) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section2702/b/2/A&num=0&edition=prelim) for the purposes of this Act for the natural resources under their trusteeship; and
+
+  (B) shall develop and implement a plan for the restoration, rehabilitation, replacement, or acquisition of the equivalent, of the natural resources under their trusteeship.
+
+(5) **Notice and opportunity to be heard** — Plans shall be developed and implemented under this section only after adequate public notice, opportunity for a hearing, and consideration of all public comment.
+
+**(d) Measure of damages**
+
+(1) **In general** — The measure of natural resource damages under [section 2702(b)(2)(A) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section2702/b/2/A&num=0&edition=prelim) is—
+
+  (A) the cost of restoring, rehabilitating, replacing, or acquiring the equivalent of, the damaged natural resources;
+
+  (B) the diminution in value of those natural resources pending restoration; plus
+
+  (C) the reasonable cost of assessing those damages.
+
+(2) **Determine costs with respect to plans** — Costs shall be determined under paragraph (1) with respect to plans adopted under subsection (c).
+
+(3) **No double recovery** — There shall be no double recovery under this Act for natural resource damages, including with respect to the costs of damage assessment or restoration, rehabilitation, replacement, or acquisition for the same incident and natural resource.
+
+**(e) Damage assessment regulations**
+
+(1) **Regulations** — The President, acting through the Under Secretary of Commerce for Oceans and Atmosphere and in consultation with the Administrator of the Environmental Protection Agency, the Director of the United States Fish and Wildlife Service, and the heads of other affected agencies, not later than 2 years after August 18, 1990, shall promulgate regulations for the assessment of natural resource damages under [section 2702(b)(2)(A) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section2702/b/2/A&num=0&edition=prelim) resulting from a discharge of oil for the purpose of this Act.
+
+(2) **Rebuttable presumption** — Any determination or assessment of damages to natural resources for the purposes of this Act made under subsection (d) by a Federal, State, or Indian trustee in accordance with the regulations promulgated under paragraph (1) shall have the force and effect of a rebuttable presumption on behalf of the trustee in any administrative or judicial proceeding under this Act.
+
+**(f) Use of recovered sums** Sums recovered under this Act by a Federal, State, Indian, or foreign trustee for natural resource damages under [section 2702(b)(2)(A) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section2702/b/2/A&num=0&edition=prelim) shall be retained by the trustee in a revolving trust account, without further appropriation, for use only to reimburse or pay costs incurred by the trustee under subsection (c) with respect to the damaged natural resources. Any amounts in excess of those required for these reimbursements and costs shall be deposited in the Fund.
+
+**(g) Compliance** Review of actions by any Federal official where there is alleged to be a failure of that official to perform a duty under this section that is not discretionary with that official may be had by any person in the district court in which the person resides or in which the alleged damage to natural resources occurred. The court may award costs of litigation (including reasonable attorney and expert witness fees) to any prevailing or substantially prevailing party. Nothing in this subsection shall restrict any right which any person may have to seek relief under any other provision of law.
 
 ### Statutory Notes
 
-#### Codification
-Section was enacted as part of the Water Resources Development Act of 2018, and also as part of the America’s Water Infrastructure Act of 2018, and not as part of the Water Resources Development Act of 1986 which comprises this chapter.
+#### References in Text
+This Act, referred to in subsecs. (b)(2)–(5), (c)(2)(A), (3)(A), (4)(A), (d)(3), (e), and (f), is Pub. L. 101–380, Aug. 18, 1990, 104 Stat. 484, as amended, known as the Oil Pollution Act of 1990, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 2701 of this title](./chapter-040-oil-pollution.md#section-2701) and Tables.
 
-#### “Secretary” Defined
-Secretary means the Secretary of the Army, see section 102 of Pub. L. 115–270, set out as a note under [section 2201 of this title](./chapter-036-water-resources-development.md#section-2201).
+#### NOAA Oil and Hazardous Substance Spill Cost Reimbursement
+Pub. L. 102–567, title II, § 205, Oct. 29, 1992, 106 Stat. 4282, provided that: “(a) Treatment of Amounts Received as Reimbursement of Expenses.—Notwithstanding any other provision of law, amounts received by the United States as reimbursement of expenses related to oil or hazardous substance spill response activities, or natural resource damage assessment, restoration, rehabilitation, replacement, or acquisition activities, conducted (or to be conducted) by the National Oceanic and Atmospheric Administration—“(1) shall be deposited into the Fund; “(2) shall be available, without fiscal year limitation and without apportionment, for use in accordance with the law under which the activities are conducted; and “(3) shall not be considered to be an augmentation of appropriations. “(b) Application.—Subsection (a) shall apply to amounts described in subsection (a) that are received—“(1) after the date of the enactment of this Act [Oct. 29, 1992]; or “(2) with respect to the oil spill associated with the grounding of the EXXON VALDEZ. “(c) Definitions.—For purposes of this section—“(1) the term ‘Fund’ means the Damage Assessment and Restoration Revolving Fund of the National Oceanic and Atmospheric Administration referred to in title I of Public Law 101–515 under the heading ‘National Oceanic and Atmospheric Administration’ (104 Stat. 2105) [set out as a note below]; and “(2) the term ‘expenses’ includes incremental and base salaries, ships, aircraft, and associated indirect costs, except the term does not include base salaries and benefits of National Oceanic and Atmospheric Administration Support Coordinators.”
+
+#### Damage Assessment and Restoration Revolving Fund; Deposits; Availability; Transfer
+Pub. L. 101–515, title I, Nov. 5, 1990, 104 Stat. 2105, provided that: “For contingency planning, response and natural resource damage assessment and restoration activities, pursuant to the Comprehensive Environmental Response, Compensation[,] and Liability Act [of 1980], as amended [[42 U.S.C. 9601](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section9601&num=0&edition=prelim) et seq.], the Federal Water Pollution Control Act, as amended [[33 U.S.C. 1251](./chapter-026-water-pollution-prevention-and-control.md#section-1251) et seq.], the Marine Protection, Research[,] and Sanctuaries Act [of 1972], as amended [[16 U.S.C. 1431et](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1431et&num=0&edition=prelim) seq., 1447 et seq.; [33 U.S.C. 1401](./chapter-027-ocean-dumping.md#section-1401) et seq., 2801 et seq.], and the Oil Pollution Act of 1990 [[33 U.S.C. 2701](./chapter-040-oil-pollution.md#section-2701) et seq.], $5,000,000 to remain available until expended: Provided, That notwithstanding any other provision of law, in fiscal year 1991 and thereafter, sums provided by any party or governmental entity for natural resource damage assessment, response or restoration activities conducted or to be conducted by the National Oceanic and Atmospheric Administration as a result of any injury to the marine environment and/or resources for which the National Oceanic and Atmospheric Administration acts as trustee of said marine environment and/or resources, shall be deposited in the Damage Assessment and Restoration Revolving Fund and said funds so deposited shall remain available until expended: Provided further, That for purposes of obligation and expenditure in fiscal year 1991 and thereafter, sums available in the Damage Assessment and Restoration Revolving Fund may be transferred, upon the approval of the Secretary of Commerce or his delegate, to the Operations, Research, and Facilities appropriation of the National Oceanic and Atmospheric Administration.”
+
+#### Delegation of Functions
+Functions of President under subsec. (b)(3) and (4) of this section delegated to Administrator of Environmental Protection Agency by section 8(c) of Ex. Ord. No. 12777, Oct. 18, 1991, 56 F.R. 54768, set out as a note under [section 1321 of this title](./chapter-026-water-pollution-prevention-and-control.md#section-1321).
+
+
+<a id="section-2203"></a>
+## § 2203. Recovery by foreign claimants
+**(a) Required showing by foreign claimants**
+
+(1) **In general** — In addition to satisfying the other requirements of this Act, to recover removal costs or damages resulting from an incident a foreign claimant shall demonstrate that—
+
+  (A) the claimant has not been otherwise compensated for the removal costs or damages; and
+
+  (B) recovery is authorized by a treaty or executive agreement between the United States and the claimant’s country, or the Secretary of State, in consultation with the Attorney General and other appropriate officials, has certified that the claimant’s country provides a comparable remedy for United States claimants.
+
+(2) **Exceptions** — Paragraph (1)(B) shall not apply with respect to recovery by a resident of Canada in the case of an incident described in subsection (b)(4).
+
+**(b) Discharges in foreign countries** A foreign claimant may make a claim for removal costs and damages resulting from a discharge, or substantial threat of a discharge, of oil in or on the territorial sea, internal waters, or adjacent shoreline of a foreign country, only if the discharge is from—
+
+(1) an Outer Continental Shelf facility or a deepwater port;
+
+(2) a vessel in the navigable waters;
+
+(3) a vessel carrying oil as cargo between 2 places in the United States; or
+
+(4) a tanker that received the oil at the terminal of the pipeline constructed under the Trans-Alaska Pipeline Authorization Act ([43 U.S.C. 1651](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1651&num=0&edition=prelim) et seq.), for transportation to a place in the United States, and the discharge or threat occurs prior to delivery of the oil to that place.
+
+**(c) “Foreign claimant” defined** In this section, the term “foreign claimant” means—
+
+(1) a person residing in a foreign country;
+
+(2) the government of a foreign country; and
+
+(3) an agency or political subdivision of a foreign country.
+
+### Statutory Notes
+
+#### References in Text
+This Act, referred to in subsec. (a)(1), is Pub. L. 101–380, Aug. 18, 1990, 104 Stat. 484, as amended, known as the Oil Pollution Act of 1990, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 2701 of this title](./chapter-040-oil-pollution.md#section-2701) and Tables.
+
+The Trans-Alaska Pipeline Authorization Act, referred to in subsec. (b)(4), is title II of Pub. L. 93–153, Nov. 16, 1973, 87 Stat. 584, which is classified generally to chapter 34 (§ 1651 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under [section 1651 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1651&num=0&edition=prelim) and Tables.
 
 
 <a id="section-2211"></a>
-## § 2211. “Secretary” defined
-
-For purposes of this Act, the term “Secretary” means the Secretary of the Army.
-
-### Statutory Notes
-
-#### References in Text
-This Act, referred to in text, is Pub. L. 99–662, Nov. 17, 1986, 100 Stat. 4082, as amended, known as the Water Resources Development Act of 1986. For complete classification of this Act to the Code, see Short Title note set out below and Tables.
-
-#### Short Title of 2018 Amendment
-Pub. L. 115–270, § 1(a), Oct. 23, 2018, 132 Stat. 3765, provided that: “This Act [see Tables for classification] may be cited as ‘America’s Water Infrastructure Act of 2018’.”
-
-Pub. L. 115–270, title I, § 101, Oct. 23, 2018, 132 Stat. 3768, provided that: “This title [see Tables for classification] may be cited as the ‘Water Resources Development Act of 2018’.”
-
-#### Short Title of 2016 Amendment
-Pub. L. 114–322, § 1(a), Dec. 16, 2016, 130 Stat. 1628, provided that: “This Act [see Tables for classification] may be cited as the ‘Water Infrastructure Improvements for the Nation Act’ or the ‘WIIN Act’.”
-
-Pub. L. 114–322, title I, § 1001, Dec. 16, 2016, 130 Stat. 1632, provided that: “This title [see Tables for classification] may be cited as the ‘Water Resources Development Act of 2016’.”
-
-#### Short Title of 2014 Amendment
-Pub. L. 113–121, § 1(a), June 10, 2014, 128 Stat. 1193, provided that: “This Act [see Tables for classification] may be cited as the ‘Water Resources Reform and Development Act of 2014’.”
-
-#### Short Title of 2007 Amendment
-Pub. L. 110–114, § 1(a), Nov. 8, 2007, 121 Stat. 1041, provided that: “This Act [see Tables for classification] may be cited as the ‘Water Resources Development Act of 2007’.”
-
-#### Short Title of 2000 Amendment
-Pub. L. 106–541, § 1(a), Dec. 11, 2000, 114 Stat. 2572, provided that: “This Act [see Tables for classification] may be cited as the ‘Water Resources Development Act of 2000’.”
-
-#### Short Title of 1999 Amendment
-Pub. L. 106–53, § 1(a), Aug. 17, 1999, 113 Stat. 269, provided that: “This Act [see Tables for classification] may be cited as the ‘Water Resources Development Act of 1999’.”
-
-#### Short Title of 1996 Amendment
-Pub. L. 104–303, § 1(a), Oct. 12, 1996, 110 Stat. 3658, provided that: “This Act [see Tables for classification] may be cited as the ‘Water Resources Development Act of 1996’.”
-
-#### Short Title of 1992 Amendment
-Pub. L. 102–580, § 1(a), Oct. 31, 1992, 106 Stat. 4797, provided that: “This Act [enacting sections 59gg, 426i–1, 569d to 569f, 653, 1271, 2268, and 2325 to 2329 of this title, amending sections 426j, 467f, 467j to 467l, 562, 652, 1342, 1412, 1413, 1414, 1415, 1416, 1420, 1421, 2211, 2213, 2283, and 2309a of this title, [section 3036 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section3036&num=0&edition=prelim), Armed Forces, sections 460tt, 4702, and 4711 of Title 16, Conservation, and [section 1962d–16 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1962d–16&num=0&edition=prelim), The Public Health and Welfare, and enacting provisions set out as notes under this section and sections 541, 1271, 2211, 2239, 2267, and 2281 of this title, [section 9505 of Title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section9505&num=0&edition=prelim), Internal Revenue Code, and sections 390h–4 and 390h–5 of Title 43, Public Lands] may be cited as the ‘Water Resources Development Act of 1992’.”
-
-#### Short Title of 1990 Amendment
-Pub. L. 101–640, § 1(a), Nov. 28, 1990, 104 Stat. 4604, provided that: “This Act [enacting sections 59bb and 2316 to 2324 of this title, amending sections 579a, 652, 701n, 709a, 2213, 2215, 2232, 2238, 2281, 2309a, and 2314a of this title, [section 460tt of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section460tt&num=0&edition=prelim), Conservation, and [section 1962d–16 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1962d–16&num=0&edition=prelim), The Public Health and Welfare, repealing sections 579 and 2239 of this title, enacting provisions set out as notes under this section, sections 426e, 1252, 1268, 2213, 2232, 2239, 2313, and 2317 of this title, and [section 1405c of Title 48](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title48-section1405c&num=0&edition=prelim), Territories and Insular Possessions, and amending provisions set out as notes under sections 2294 and 2314 of this title and [section 460d of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section460d&num=0&edition=prelim)] may be cited as the ‘Water Resources Development Act of 1990’.”
-
-#### Short Title of 1988 Amendment
-Pub. L. 100–676, § 1(a), Nov. 17, 1988, 102 Stat. 4012, provided that: “This Act [enacting sections 59j–1, 59y, 59z, and 2312 to 2315 of this title, amending sections 426j, 701b–12, 1293a, 2211, 2239, 2280, and 2291 of this title and [section 1962d–5a of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1962d–5a&num=0&edition=prelim), The Public Health and Welfare, enacting provisions set out as notes under this section, sections 579a, 988, 2211, 2294, 2300, and 2314 of this title, and [section 1962d–5g of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1962d–5g&num=0&edition=prelim), and amending provisions set out as a note under [section 2294 of this title](./chapter-036-water-resources-development.md#section-2294)] may be cited as the ‘Water Resources Development Act of 1988’.”
-
-#### Short Title
-Pub. L. 99–662, § 1(a), Nov. 17, 1986, 100 Stat. 4082, provided that: “This Act [enacting this chapter and sections 59n–1, 59v, 59w, 403b, 426n, 426o, 467f to 467n, 555a, 579a, 652, 701b–12, 709b, 988a, and 1414a of this title, sections 460tt of Title 16, Conservation, sections 4461, 4462, 9505, and 9506 of Title 26, Internal Revenue Code, section 483d of former Title 40, Public Buildings, Property, and Works, and sections 1962d–11b and 1962d–20 of Title 42, The Public Health and Welfare, amending sections 409, 414, 415, 426g, 426i, 426j, 426m, 467, 467b, 555, 557, 603a, 610, 701a–1, 701g, 701n, 701r, 701s, 984, and 1804 of this title, [section 3036 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section3036&num=0&edition=prelim), Armed Forces, sections 460ee and 1002 of Title 16, [section 4042 of Title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section4042&num=0&edition=prelim), sections 1962d–5a, 1962d–5b, 1962d–5d, 1962d–5f, and 1962d–16 of Title 42, sections 390 and 390b of Title 43, Public Lands, and [section 1121–1 of Title 46](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section1121–1&num=0&edition=prelim), Appendix, Shipping, repealing sections 1801 and 1802 of this title, enacting provisions set out as notes under this section, sections 426, 426g, 467, 661, 984, 988, 1414a, and 2294 of this title, sections 460d and 1004 of Title 16, sections 1, 4042, 4461, 9505, and 9506 of Title 26, sections 1962d–5b, 1962d–20, and 10301 of Title 42, and [section 390b of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section390b&num=0&edition=prelim), and amending provisions set out as a note under [section 1962b–3 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1962b–3&num=0&edition=prelim)] may be cited as the ‘Water Resources Development Act of 1986’.”
-
-Pub. L. 99–662, title II, § 215, Nov. 17, 1986, 100 Stat. 4109, provided that: “This title [enacting subchapter II of this chapter] may be cited as the ‘Harbor Development and Navigation Improvement Act of 1986’.”
-
-#### Reports to Congress
-Pub. L. 113–121, title I, § 1042, June 10, 2014, 128 Stat. 1243, provided that: “(a) In General.—Subject to the availability of appropriations, the Secretary [of the Army] shall complete and submit to Congress by the applicable date required the reports that address public safety and enhanced local participation in project delivery described in subsection (b). “(b) Reports.—The reports referred to in subsection (a) are the reports required under—“(1) subparagraphs (A) and (B) of section 1043(a)(5) [[33 U.S.C. 2201](./chapter-036-water-resources-development.md#section-2201) note]; “(2) section 1046(a)(2)(B) [[33 U.S.C. 2319](./chapter-036-water-resources-development.md#section-2319) note]; “(3) section 210(e)(3) of the Water Resources Development Act of 1986 ([33 U.S.C. 2238(e)(3)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section2238/e/3&num=0&edition=prelim)) (as amended by section 2102(a)); and “(4) section 7001 [[33 U.S.C. 2282d](./chapter-036-water-resources-development.md#section-2282d)]. “(c) Failure To Provide a Completed Report.—“(1) In general.—Subject to subsection (d), if the Secretary fails to provide a report listed under subsection (b) by the date that is 180 days after the applicable date required for that report, $5,000 shall be reprogrammed from the General Expenses account of the civil works program of the Army Corps of Engineers into the account of the division of the Army Corps of Engineers with responsibility for completing that report. “(2) Subsequent reprogramming.—Subject to subsection (d), for each additional week after the date described in paragraph (1) in which a report described in that paragraph remains uncompleted and unsubmitted to Congress, $5,000 shall be reprogrammed from the General Expenses account of the civil works program of the Army Corps of Engineers into the account of the division of the Secretary of the Army with responsibility for completing that report. “(d) Limitations.—“(1) In general.—For each report, the total amounts reprogrammed under subsection (c) shall not exceed, in any fiscal year, $50,000. “(2) Aggregate limitation.—The total amount reprogrammed under subsection (c) in a fiscal year shall not exceed $200,000. “(e) No Fault of the Secretary.—Amounts shall not be reprogrammed under subsection (c) if the Secretary certifies in a letter to the applicable committees of Congress that—“(1) a major modification has been made to the content of the report that requires additional analysis for the Secretary to make a final decision on the report; “(2) amounts have not been appropriated to the agency under this Act or any other Act to carry out the report; or “(3) additional information is required from an entity other than the Corps of Engineers and is not available in a timely manner to complete the report by the deadline. “(f) Limitation.—The Secretary shall not reprogram funds to the General Expenses account of the civil works program of the Corps of Engineers for the loss of the funds.”
-
-#### Non-Federal Implementation Pilot Program
-Pub. L. 113–121, title I, § 1043, June 10, 2014, 128 Stat. 1244, as amended by Pub. L. 115–270, title I, § 1137, Oct. 23, 2018, 132 Stat. 3783, provided that: “(a) Non-Federal Implementation of Feasibility Studies.—“(1) In general.—Not later than 180 days after the date of enactment of this Act [June 10, 2014], the Secretary [of the Army] shall establish and implement a pilot program to evaluate the cost-effectiveness and project delivery efficiency of allowing non-Federal interests to carry out feasibility studies for flood risk management, hurricane and storm damage reduction, aquatic ecosystem restoration, and coastal harbor and channel and inland navigation. “(2) Purposes.—The purposes of the pilot program are—“(A) to identify project delivery and cost-saving alternatives to the existing feasibility study process; “(B) to evaluate the technical, financial, and organizational efficiencies of a non-Federal interest carrying out a feasibility study of 1 or more projects; and “(C) to evaluate alternatives for the decentralization of the project planning, management, and operational decisionmaking process of the Corps of Engineers. “(3) Administration.—“(A) In general.—On the request of a non-Federal interest, the Secretary may enter into an agreement with the non-Federal interest for the non-Federal interest to provide full project management control of a feasibility study for a project for—“(i) flood risk management; “(ii) hurricane and storm damage reduction, including levees, floodwalls, flood control channels, and water control structures; “(iii) coastal harbor and channel and inland navigation; and “(iv) aquatic ecosystem restoration. “(B) Use of non-federal funds.—“(i) In general.—A non-Federal interest that has entered into an agreement with the Secretary pursuant to subparagraph (A) may use non-Federal funds to carry out the feasibility study. “(ii) Credit.—The Secretary shall credit towards the non-Federal share of the cost of construction of a project for which a feasibility study is carried out under this subsection an amount equal to the portion of the cost of developing the study that would have been the responsibility of the Secretary, if the study were carried out by the Secretary, subject to the conditions that— “(I) non-Federal funds were used to carry out the activities that would have been the responsibility of the Secretary; “(II) the Secretary determines that the feasibility study complies with all applicable Federal laws and regulations; and “(III) the project is authorized by any provision of Federal law enacted after the date on which an agreement is entered into under subparagraph (A). “(C) Transfer of funds.—“(i) In general.—After the date on which an agreement is executed pursuant to subparagraph (A), the Secretary may transfer to the non-Federal interest to carry out the feasibility study— “(I) if applicable, the balance of any unobligated amounts appropriated for the study, except that the Secretary shall retain sufficient amounts for the Corps of Engineers to carry out any responsibilities of the Corps of Engineers relating to the project and pilot program; and “(II) additional amounts, as determined by the Secretary, from amounts made available under paragraph (8), except that the total amount transferred to the non-Federal interest shall not exceed the updated estimate of the Federal share of the cost of the feasibility study. “(ii) Administration.—The Secretary shall include such provisions as the Secretary determines to be necessary in an agreement under subparagraph (A) to ensure that a non-Federal interest receiving Federal funds under this paragraph— “(I) has the necessary qualifications to administer those funds; and “(II) will comply with all applicable Federal laws (including regulations) relating to the use of those funds. “(D) Notification.—The Secretary shall notify the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives on the initiation of each feasibility study under the pilot program. “(E) Auditing.—The Secretary shall regularly monitor and audit each feasibility study carried out by a non-Federal interest under this section to ensure that the use of any funds transferred under subparagraph (C) are used in compliance with the agreement signed under subparagraph (A). “(F) Technical assistance.—On the request of a non-Federal interest, the Secretary may provide technical assistance to the non-Federal interest relating to any aspect of the feasibility study, if the non-Federal interest contracts with the Secretary for the technical assistance and compensates the Secretary for the technical assistance. “(G) Detailed project schedule.—Not later than 180 days after entering into an agreement under subparagraph (A), each non-Federal interest, to the maximum extent practicable, shall submit to the Secretary a detailed project schedule, based on full funding capability, that lists all deadlines for milestones relating to the feasibility study. “(4) Cost share.—Nothing in this subsection affects the cost-sharing requirement applicable on the day before the date of enactment of this Act to a feasibility study carried out under this subsection. “(5) Report.—“(A) In general.—Not later than 2 years after the date of enactment of this Act, the Secretary shall submit to the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives and make publicly available a report detailing the results of the pilot program carried out under this section, including—“(i) a description of the progress of the non-Federal interests in meeting milestones in detailed project schedules developed pursuant to paragraph (3)(G); and “(ii) any recommendations of the Secretary concerning whether the program or any component of the program should be implemented on a national basis. “(B) Update.—Not later than 5 years after the date of enactment of this Act, the Secretary shall submit to the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives an update of the report described in subparagraph (A). “(C) Failure to meet deadline.—If the Secretary fails to submit a report by the required deadline under this paragraph, the Secretary shall submit to the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a detailed explanation of why the deadline was missed and a projected date for submission of the report. “(6) Administration.—All laws and regulations that would apply to the Secretary if the Secretary were carrying out the feasibility study shall apply to a non-Federal interest carrying out a feasibility study under this subsection. “(7) Termination of authority.—The authority to commence a feasibility study under this subsection terminates on the date that is 5 years after the date of enactment of this Act. “(8) Authorization of appropriations.—In addition to any amounts appropriated for a specific project, there is authorized to be appropriated to the Secretary to carry out the pilot program under this subsection, including the costs of administration of the Secretary, $25,000,000 for each of fiscal years 2015 through 2019. “(b) Non-Federal Project Implementation Pilot Program.—“(1) In general.—Not later than 180 days after the date of enactment of this Act, the Secretary shall establish and implement a pilot program to evaluate the cost-effectiveness and project delivery efficiency of allowing non-Federal interests to carry out flood risk management, hurricane and storm damage reduction, coastal harbor and channel inland navigation, and aquatic ecosystem restoration projects. “(2) Purposes.—The purposes of the pilot program are—“(A) to identify project delivery and cost-saving alternatives that reduce the backlog of authorized Corps of Engineers projects; “(B) to evaluate the technical, financial, and organizational efficiencies of a non-Federal interest carrying out the design, execution, management, and construction of 1 or more projects; and “(C) to evaluate alternatives for the decentralization of the project management, design, and construction for authorized Corps of Engineers water resources projects. “(3) Administration.—“(A) In general.—In carrying out the pilot program, the Secretary shall—“(i) identify a total of not more than 20 projects for flood risk management, hurricane and storm damage reduction (including levees, floodwalls, flood control channels, and water control structures), coastal harbor and channels, inland navigation, and aquatic ecosystem restoration that have been authorized for construction, including— “(I) not more than 12 projects that have been authorized for construction prior to the date of enactment of this Act and that—“(aa)(AA) have received Federal funds prior to the date of enactment of this Act; or “(BB) for more than 2 consecutive fiscal years, have an unobligated funding balance for that project in the Corps of Engineers construction account; and “(bb) to the maximum extent practicable, are located in each of the divisions of the Corps of Engineers; “(II) not more than 3 projects that have been authorized for construction prior to the date of enactment of this Act and that have not received Federal funds in the period beginning on the date on which the project was authorized and ending on the date of enactment of this Act; and “(III) not more than 5 projects that have been authorized for construction, but did not receive the authorization prior to the date of enactment of this Act; “(ii) notify the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives on the identification of each project under the pilot program; “(iii) in collaboration with the non-Federal interest, develop a detailed project management plan for each identified project that outlines the scope, budget, design, and construction resource requirements necessary for the non-Federal interest to execute the project, or a separable element of the project; “(iv) on the request of the non-Federal interest, enter into a project partnership agreement with the non-Federal interest for the non-Federal interest to provide full project management control for construction of the project, or a separable element of the project, in accordance with plans approved by the Secretary; “(v) following execution of the project partnership agreement, transfer to the non-Federal interest to carry out construction of the project, or a separable element of the project— “(I) if applicable, the balance of the unobligated amounts appropriated for the project, except that the Secretary shall retain sufficient amounts for the Corps of Engineers to carry out any responsibilities of the Corps of Engineers relating to the project and pilot program; and “(II) additional amounts, as determined by the Secretary, from amounts made available under paragraph (8), except that the total amount transferred to the non-Federal interest shall not exceed the updated estimate of the Federal share of the cost of construction, including any required design; and “(vi) regularly monitor and audit each project being constructed by a non-Federal interest under this section to ensure that the construction activities are carried out in compliance with the plans approved by the Secretary and that the construction costs are reasonable. “(B) Detailed project schedule.—Not later than 180 days after entering into an agreement under subparagraph (A)(iv), each non-Federal interest, to the maximum extent practicable, shall submit to the Secretary a detailed project schedule, based on estimated funding levels, that lists all deadlines for each milestone in the construction of the project. “(C) Technical assistance.—On the request of a non-Federal interest, the Secretary may provide technical assistance to the non-Federal interest, if the non-Federal interest contracts with and compensates the Secretary for the technical assistance relating to—“(i) any study, engineering activity, and design activity for construction carried out by the non-Federal interest under this subsection; and “(ii) expeditiously obtaining any permits necessary for the project. “(4) Cost share.—Nothing in this subsection affects the cost-sharing requirement applicable on the day before the date of enactment of this Act to a project carried out under this subsection. “(5) Report.—“(A) In general.—Not later than 3 years after the date of enactment of this Act, the Secretary shall submit to the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives and make publicly available a report detailing the results of the pilot program carried out under this subsection, including—“(i) a description of the progress of non-Federal interests in meeting milestones in detailed project schedules developed pursuant to paragraph (2)(B); and “(ii) any recommendations of the Secretary concerning whether the program or any component of the program should be implemented on a national basis. “(B) Update.—Not later than 5 years after the date of enactment of this Act, the Secretary shall submit to the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives an update of the report described in subparagraph (A). “(C) Failure to meet deadline.—If the Secretary fails to submit a report by the required deadline under this paragraph, the Secretary shall submit to the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a detailed explanation of why the deadline was missed and a projected date for submission of the report. “(6) Administration.—All laws and regulations that would apply to the Secretary if the Secretary were carrying out the project shall apply to a non-Federal interest carrying out a project under this subsection. “(7) Termination of authority.—The authority to commence a project under this subsection terminates on the date that is 5 years after the date of enactment of this Act. “(8) Authorization of appropriations.—In addition to any amounts appropriated for a specific project, there is authorized to be appropriated to the Secretary to carry out the pilot program under this subsection, including the costs of administration of the Secretary, $25,000,000 for each of fiscal years 2019 through 2023.”
-
-#### Water Infrastructure Public-Private Partnership Pilot Program
-Pub. L. 113–121, title V, § 5014, June 10, 2014, 128 Stat. 1329, provided that: “(a) In General.—The Secretary [of the Army] shall establish a pilot program to evaluate the cost effectiveness and project delivery efficiency of allowing non-Federal pilot applicants to carry out authorized water resources development projects for coastal harbor improvement, channel improvement, inland navigation, flood damage reduction, aquatic ecosystem restoration, and hurricane and storm damage reduction. “(b) Purposes.—The purposes of the pilot program established under subsection (a) are—“(1) to identify cost-saving project delivery alternatives that reduce the backlog of authorized Corps of Engineers projects; and “(2) to evaluate the technical, financial, and organizational benefits of allowing a non-Federal pilot applicant to carry out and manage the design or construction (or both) of 1 or more of such projects. “(c) Subsequent Appropriations.—Any activity undertaken under this section is authorized only to the extent specifically provided for in subsequent appropriations Acts. “(d) Administration.—In carrying out the pilot program established under subsection (a), the Secretary shall—“(1) identify for inclusion in the program at least 15 projects that are authorized for construction for coastal harbor improvement, channel improvement, inland navigation, flood damage reduction, or hurricane and storm damage reduction; “(2) notify in writing the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives of each project identified under paragraph (1); “(3) in consultation with the non-Federal pilot applicant associated with each project identified under paragraph (1), develop a detailed project management plan for the project that outlines the scope, financing, budget, design, and construction resource requirements necessary for the non-Federal pilot applicant to execute the project, or a separable element of the project; “(4) at the request of the non-Federal pilot applicant associated with each project identified under paragraph (1), enter into a project partnership agreement with the non-Federal pilot applicant under which the non-Federal pilot applicant is provided full project management control for the financing, design, or construction (or any combination thereof) of the project, or a separable element of the project, in accordance with plans approved by the Secretary; “(5) following execution of a project partnership agreement under paragraph (4) and completion of all work under the agreement, issue payment, in accordance with subsection (g), to the relevant non-Federal pilot applicant for that work; and “(6) regularly monitor and audit each project carried out under the program to ensure that all activities related to the project are carried out in compliance with plans approved by the Secretary and that construction costs are reasonable. “(e) Selection Criteria.—In identifying projects under subsection (d)(1), the Secretary shall consider the extent to which the project—“(1) is significant to the economy of the United States; “(2) leverages Federal investment by encouraging non-Federal contributions to the project; “(3) employs innovative project delivery and cost-saving methods; “(4) received Federal funds in the past and experienced delays or missed scheduled deadlines; “(5) has unobligated Corps of Engineers funding balances; and “(6) has not received Federal funding for recapitalization and modernization since the project was authorized. “(f) Detailed Project Schedule.—Not later than 180 days after entering into a project partnership agreement under subsection (d)(4), a non-Federal pilot applicant, to the maximum extent practicable, shall submit to the Secretary a detailed project schedule for the relevant project, based on estimated funding levels, that specifies deadlines for each milestone with respect to the project. “(g) Payment.—Payment to the non-Federal pilot applicant for work completed pursuant to a project partnership agreement under subsection (d)(4) may be made from—“(1) if applicable, the balance of the unobligated amounts appropriated for the project; and “(2) other amounts appropriated to the Corps of Engineers, subject to the condition that the total amount transferred to the non-Federal pilot applicant may not exceed the estimate of the Federal share of the cost of construction, including any required design. “(h) Technical Assistance.—At the request of a non-Federal pilot applicant participating in the pilot program established under subsection (a), the Secretary may provide to the non-Federal pilot applicant, if the non-Federal pilot applicant contracts with and compensates the Secretary, technical assistance with respect to—“(1) a study, engineering activity, or design activity related to a project carried out by the non-Federal pilot applicant under the program; and “(2) obtaining permits necessary for such a project. “(i) Identification of Impediments.—“(1) In general.—The Secretary shall—“(A) except as provided in paragraph (2), identify any procedural requirements under the authority of the Secretary that impede greater use of public-private partnerships and private investment in water resources development projects; “(B) develop and implement, on a project-by-project basis, procedures and approaches that—“(i) address such impediments; and “(ii) protect the public interest and any public investment in water resources development projects that involve public-private partnerships or private investment in water resources development projects; and “(C) not later than 1 year after the date of enactment of this section [June 10, 2014], issue rules to carry out the procedures and approaches developed under subparagraph (B). “(2) Rule of construction.—Nothing in this section allows the Secretary to waive any requirement under—“(A) sections 3141 through 3148 and sections 3701 through 3708 of title 40, United States Code; “(B) the National Environmental Policy Act of 1969 ([42 U.S.C. 4321](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) et seq.); or “(C) any other provision of Federal law. “(j) Public Benefit Studies.—“(1) In general.—Before entering into a project partnership agreement under subsection (d)(4), the Secretary shall conduct an assessment of whether, and provide justification in writing to the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives that, the proposed agreement provides better public and financial benefits than a similar transaction using public funding or financing. “(2) Requirements.—An assessment under paragraph (1) shall—“(A) be completed in a period of not more than 90 days; “(B) take into consideration any supporting materials and data submitted by the relevant non-Federal pilot applicant and other stakeholders; and “(C) determine whether the proposed project partnership agreement is in the public interest by determining whether the agreement will provide public and financial benefits, including expedited project delivery and savings for taxpayers. “(k) Non-Federal Funding.—The non-Federal pilot applicant may finance the non-Federal share of a project carried out under the pilot program established under subsection (a). “(l) Applicability of Federal Law.—Any provision of Federal law that would apply to the Secretary if the Secretary were carrying out a project shall apply to a non-Federal pilot applicant carrying out a project under this section. “(m) Cost Share.—Nothing in this section affects a cost-sharing requirement under Federal law that is applicable to a project carried out under the pilot program established under subsection (a). “(n) Report.—Not later than 3 years after the date of enactment of this Act, the Secretary shall submit to the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives and make publicly available a report describing the results of the pilot program established under subsection (a), including any recommendations of the Secretary concerning whether the program or any component of the program should be implemented on a national basis. “(o) Non-Federal Pilot Applicant Defined.—In this section, the term ‘non-Federal pilot applicant’ means—“(1) the non-Federal sponsor of the water resources development project; “(2) a non-Federal interest, as defined in section 221 of the Flood Control Act of 1970 ([42 U.S.C. 1982d–5b](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1982d–5b&num=0&edition=prelim) [1962d–5b]); or “(3) a private entity with the consent of the local government in which the project is located or that is otherwise affected by the project.”
-
-#### Funding to Process Permits
-Pub. L. 106–541, title II, § 214, Dec. 11, 2000, 114 Stat. 2594, as amended by Pub. L. 108–137, title I, § 114, Dec. 1, 2003, 117 Stat. 1836; Pub. L. 109–99, § 1, Nov. 11, 2005, 119 Stat. 2169; Pub. L. 109–209, § 1, Mar. 24, 2006, 120 Stat. 318; Pub. L. 109–434, § 1, Dec. 20, 2006, 120 Stat. 3197; Pub. L. 110–114, title II, § 2002, Nov. 8, 2007, 121 Stat. 1067; Pub. L. 111–120, § 1, Dec. 22, 2009, 123 Stat. 3478; Pub. L. 111–315, § 1, Dec. 18, 2010, 124 Stat. 3450; Pub. L. 113–121, title I, § 1006, June 10, 2014, 128 Stat. 1212, which related to funding to process permits and was formerly set out as a note under this section, was transferred to [section 2352 of this title](./chapter-036-water-resources-development.md#section-2352).
-
-#### Monitoring
-Pub. L. 106–541, title II, § 223, Dec. 11, 2000, 114 Stat. 2597, provided that: “(a) In General.—The Secretary shall conduct a monitoring program of the economic and environmental results of up to 5 eligible projects selected by the Secretary. “(b) Duration.—The monitoring of a project selected by the Secretary under this section shall be for a period of not less than 12 years beginning on the date of its selection. “(c) Reports.—The Secretary shall transmit to Congress every 3 years a report on the performance of each project selected under this section. “(d) Eligible Project Defined.—In this section, the term ‘eligible project’ means a water resources project, or separable element thereof—“(1) for which a contract for physical construction has not been awarded before the date of enactment of this Act [Dec. 11, 2000]; “(2) that has a total cost of more than $25,000,000; and “(3)(A) that has as a benefit-to-cost ratio of less than 1.5 to 1; or “(B) that has significant environmental benefits or significant environmental mitigation components. “(e) Costs.—The cost of conducting monitoring under this section shall be a Federal expense.”
-
-#### Water Control Management
-Pub. L. 106–53, title V, § 511, Aug. 17, 1999, 113 Stat. 341, provided that: “(a) In General.—In evaluating potential improvements for water control management activities and consolidation of water control management centers, the Secretary may consider a regionalized water control management plan but may not implement such a plan until the date on which a report is submitted under subsection (b). “(b) Report.—Not later than 180 days after the date of enactment of this Act [Aug. 17, 1999], the Secretary shall submit to the Committee on Transportation and Infrastructure and the Committee on Appropriations of the House of Representatives and the Committee on Environment and Public Works and the Committee on Appropriations of the Senate a report containing—“(1) a description of the primary objectives of streamlining water control management activities; “(2) a description of the benefits provided by streamlining water control management activities through consolidation of centers for those activities; “(3) a determination whether the benefits to users of establishing regional water control management centers will be retained in each district office of the Corps of Engineers that does not have a regional center; “(4) a determination whether users of regional centers will receive a higher level of benefits from streamlining water control management activities; and “(5) a list of the members of Congress who represent a district that includes a water control management center that is to be eliminated under a proposed regionalized plan.”
-
-#### Buy American; Sense of Congress; Requirement Regarding Notice
-Pub. L. 106–53, title II, § 222, Aug. 17, 1999, 113 Stat. 295, provided that: “(a) In General.—It is the sense of Congress that, to the extent practicable, all equipment and products purchased with funds made available under this Act [see Tables for classification] should be American made. “(b) Notice to Recipients of Assistance.—In providing financial assistance under this Act, the Secretary, to the greatest extent practicable, shall provide to each recipient of the assistance a notice describing the statement made in subsection (a).”
-
-Pub. L. 104–303, title II, § 235, Oct. 12, 1996, 110 Stat. 3704, provided that: “(a) Purchase of American-Made Equipment and Products.—It is the sense of Congress that, to the greatest extent practicable, all equipment and products purchased with funds made available under this Act [see Tables for classification] should be American-made. “(b) Notice to Recipients of Assistance.—In providing financial assistance under this Act, the Secretary, to the greatest extent practicable, shall provide to each recipient of the assistance a notice describing the statement made in subsection (a).”
-
-#### Budget Act Requirements
-Pub. L. 99–662, title IX, § 948, Nov. 17, 1986, 100 Stat. 4201, provided that: “Any spending authority under this Act [see Short Title note above] shall be effective only to such extent and in such amounts as are provided in appropriation Acts. For purposes of this Act, the term ‘spending authority’ has the meaning provided in section 401(c)(2) of the Congressional Budget Act of 1974 [[2 U.S.C. 651(c)(2)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section651/c/2&num=0&edition=prelim)], except that such term does not include spending authority for which an exception is made under section 401(d) of such Act.”
-
-#### “Secretary” Defined
-Pub. L. 115–270, title I, § 102, Oct. 23, 2018, 132 Stat. 3768, provided that: “In this title [see Tables for classification], the term ‘Secretary’ means the Secretary of the Army.”
-
-Pub. L. 114–322, title I, § 1002, Dec. 16, 2016, 130 Stat. 1632, provided that: “In this title [see Tables for classification], the term ‘Secretary’ means the Secretary of the Army.”
-
-Pub. L. 113–121, § 2, June 10, 2014, 128 Stat. 1195, provided that: “In this Act [see Tables for classification], the term ‘Secretary’ means the Secretary of the Army.”
-
-Pub. L. 110–114, § 2, Nov. 8, 2007, 121 Stat. 1049, provided that: “In this Act [see Tables for classification], the term ‘Secretary’ means the Secretary of the Army.”
-
-Pub. L. 106–541, § 2, Dec. 11, 2000, 114 Stat. 2575, provided that: “In this Act [see Tables for classification], the term ‘Secretary’ means the Secretary of the Army.”
-
-Pub. L. 106–53, § 2, Aug. 17, 1999, 113 Stat. 273, provided that: “In this Act [see Tables for classification], the term ‘Secretary’ means the Secretary of the Army.”
-
-Pub. L. 104–303, § 2, Oct. 12, 1996, 110 Stat. 3662, provided that: “In this Act [see Tables for classification], the term ‘Secretary’ means the Secretary of the Army.”
-
-Pub. L. 102–580, § 3, Oct. 31, 1992, 106 Stat. 4801, provided that: “For purposes of this Act [see Short Title of 1992 Amendment note above], the term ‘Secretary’ means the Secretary of the Army.”
-
-Pub. L. 101–640, § 2, Nov. 28, 1990, 104 Stat. 4605, provided that: “For purposes of this Act [see Short Title of 1990 Amendment note above], the term ‘Secretary’ means the Secretary of the Army.”
-
-Pub. L. 100–676, § 2, Nov. 17, 1988, 102 Stat. 4013, provided that: “For purposes of this Act [see Short Title of 1988 Amendment note above], the term ‘Secretary’ means the Secretary of the Army.”
-
-#### Promoting the Reliable Supply and Delivery of Water in the West
-Memorandum of President of the United States, Oct. 19, 2018, 83 F.R. 53961, provided:
-
-Memorandum for the Secretary of the Interior[,] the Secretary of Commerce[,] the Secretary of Energy[,] the Secretary of the Army[, and] the Chair of the Council on Environmental Quality
-
-By the authority vested in me as President by the Constitution and the laws of the United States of America, I hereby direct the following:
-
-Section 1. Policy. During the 20th Century, the Federal Government invested enormous resources in water infrastructure throughout the western United States to reduce flood risks to communities; to provide reliable water supplies for farms, families, businesses, and fish and wildlife; and to generate dependable hydropower. Decades of uncoordinated, piecemeal regulatory actions have diminished the ability of our Federal infrastructure, however, to deliver water and power in an efficient, cost-effective way.
-
-Unless addressed, fragmented regulation of water infrastructure will continue to produce inefficiencies, unnecessary burdens, and conflict among the Federal Government, States, tribes, and local public agencies that deliver water to their citizenry. To meet these challenges, the Secretary of the Interior and the Secretary of Commerce should, to the extent permitted by law, work together to minimize unnecessary regulatory burdens and foster more efficient decision-making so that water projects are better able to meet the demands of their authorized purposes.
-
-Sec. 2. Streamlining Western Water Infrastructure Regulatory Processes and Removing Unnecessary Burdens. To address water infrastructure challenges in the western United States, the Secretary of the Interior and the Secretary of Commerce shall undertake the following actions:
-
-(a) Within 30 days of the date of this memorandum [Oct. 19, 2018], the Secretary of the Interior and the Secretary of Commerce shall:
-
-(i) identify major water infrastructure projects in California for which the Department of the Interior and the Department of Commerce have joint responsibility under the Endangered Species Act of 1973 (ESA) (Public Law 93–205) [[16 U.S.C. 1531](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1531&num=0&edition=prelim) et seq.] or individual responsibilities under the National Environmental Policy Act of 1969 (NEPA) (Public Law 91–190) [[42 U.S.C. 4321](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) et seq.]; and
-
-(ii) for each such project, work together to facilitate the designation of one official to coordinate the agencies’ ESA and NEPA compliance responsibilities. Within the 30-day time period provided by this subsection, the designated official shall also identify regulations and procedures that potentially burden the project and develop a proposed plan, for consideration by the Secretaries, to appropriately suspend, revise, or rescind any regulations or procedures that unduly burden the project beyond the degree necessary to protect the public interest or otherwise comply with the law. For purposes of this memorandum, “burden” means to unnecessarily obstruct, delay, curtail, impede, or otherwise impose significant costs on the permitting, utilization, transmission, delivery, or supply of water resources and infrastructure.
-
-(b) Within 40 days of the date of this memorandum, the Secretary of the Interior and the Secretary of Commerce shall develop a timeline for completing applicable environmental compliance requirements for projects identified under section 2(a)(i) of this memorandum. Environmental compliance requirements shall be completed as expeditiously as possible, and in accordance with applicable law.
-
-(c) To the maximum extent practicable and consistent with applicable law, including the authorities granted to the Secretary of the Interior and the Secretary of Commerce under the Water Infrastructure Improvements for the Nation Act (Public Law 114–322):
-
-(i) The Secretary of the Interior and the Secretary of Commerce shall ensure that the ongoing review of the long-term coordinated operations of the Central Valley Project and the California State Water Project is completed and an updated Plan of Operations and Record of Decision is issued.
-
-(ii) The Secretary of the Interior shall issue final biological assessments for the long-term coordinated operations of the Central Valley Project and the California State Water Project not later than January 31, 2019.
-
-(iii) The Secretary of the Interior and the Secretary of Commerce shall ensure the issuance of their respective final biological opinions for the long-term coordinated operations of the Central Valley Project and the California State Water Project within 135 days of the deadline provided in section 2(c)(ii) of this memorandum. To the extent practicable and consistent with law, these shall be joint opinions.
-
-(iv) The Secretary of the Interior and the Secretary of Commerce shall complete the joint consultation presently underway for the Klamath Irrigation Project by August 2019.
-
-(d) The Secretary of the Interior and the Secretary of Commerce shall provide monthly updates to the Chair of the Council on Environmental Quality and other components of the Executive Office of the President, as appropriate, regarding progress in meeting the established timelines.
-
-Sec. 3. Improve Forecasts of Water Availability. To facilitate greater use of forecast-based management and use of authorities and capabilities provided by the Weather Research and Forecasting Innovation Act of 2017 (Public Law 115–25) [[15 U.S.C. 8501](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section8501&num=0&edition=prelim) et seq.] and other applicable laws, the Secretary of the Interior and the Secretary of Commerce shall convene water experts and resource managers to develop an action plan to improve the information and modeling capabilities related to water availability and water infrastructure projects. The action plan shall be completed by January 2019 and submitted to the Chair of the Council on Environmental Quality.
-
-Sec. 4. Improving Use of Technology to Increase Water Reliability. To the maximum extent practicable, and pursuant to the Reclamation Wastewater and Groundwater Study and Facilities Act (Public Law 102–575, title XVI) [[43 U.S.C. 390h](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section390h&num=0&edition=prelim) et seq.], the Water Desalination Act of 1996 (Public Law 104–298) [[42 U.S.C. 10301](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section10301&num=0&edition=prelim) note], and other applicable laws, the Secretary of the Interior shall direct appropriate bureaus to promote the expanded use of technology for improving the accuracy and reliability of water and power deliveries. This promotion of expanded use should include:
-
-(a) investment in technology and reduction of regulatory burdens to enable broader scale deployment of desalination technology;
-
-(b) investment in technology and reduction of regulatory burdens to enable broader scale use of recycled water; and
-
-(c) investment in programs that promote and encourage innovation, research, and development of technology that improve water management, using best available science through real-time monitoring of wildlife and water deliveries.
-
-Sec. 5. Consideration of Locally Developed Plans in Hydroelectric Projects Licensing. To the extent the Secretary of the Interior and the Secretary of Commerce participate in Federal Energy Regulatory Commission licensing activities for hydroelectric projects, and to the extent permitted by law, the Secretaries shall give appropriate consideration to any relevant information available to them in locally developed plans, where consistent with the best available information.
-
-Sec. 6. Streamlining Regulatory Processes and Removing Unnecessary Burdens on the Columbia River Basin Water Infrastructure. In order to address water and hydropower operations challenges in the Columbia River Basin, the Secretary of the Interior, the Secretary of Commerce, the Secretary of Energy, and the Assistant Secretary of the Army for Civil Works under the direction of the Secretary of the Army, shall develop a schedule to complete the Columbia River System Operations Environmental Impact Statement and the associated Biological Opinion due by 2020. The schedule shall be submitted to the Chair of the Council on Environmental Quality within 60 days of the date of this memorandum.
-
-Sec. 7. General Provisions. (a) Nothing in this memorandum shall be construed to impair or otherwise affect:
-
-(i) the authority granted by law to an executive department or agency, or the head thereof; or
-
-(ii) the functions of the Director of the Office of Management and Budget relating to budgetary, administrative, or legislative proposals.
-
-(b) This memorandum shall be implemented consistent with applicable law and subject to the availability of appropriations.
-
-(c) This memorandum is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
-
-(d) The Secretary of the Interior is hereby authorized and directed to publish this memorandum in the Federal Register.
-
-Donald J. Trump.
-
-
-<a id="section-2211a"></a>
-## § 2211a. Non-Federal engagement and review
-**(a) Issuance** The Secretary shall expeditiously issue guidance to implement each covered provision of law in accordance with this section.
-
-**(b) Public notice**
-
-(1) **In general** — Prior to developing and issuing any new or revised implementation guidance for a covered water resources development law, the Secretary shall issue a public notice that—
-
-  (A) informs potentially interested non-Federal stakeholders of the Secretary’s intent to develop and issue such guidance; and
-
-  (B) provides an opportunity for interested non-Federal stakeholders to engage with, and provide input and recommendations to, the Secretary on the development and issuance of such guidance.
-
-(2) **Issuance of notice** — The Secretary shall issue the notice under paragraph (1) through a posting on a publicly accessible website dedicated to providing notice on the development and issuance of implementation guidance for a covered water resources development law.
-
-**(c) Stakeholder engagement**
-
-(1) **Input** — The Secretary shall allow a minimum of 60 days after issuance of the public notice under subsection (b) for non-Federal stakeholders to provide input and recommendations to the Secretary, prior to finalizing implementation guidance for a covered water resources development law.
-
-(2) **Outreach** — The Secretary may, as appropriate (as determined by the Secretary), reach out to non-Federal stakeholders and circulate drafts of implementation guidance for a covered water resources development law for informal input and recommendations.
-
-**(d) Submission** The Secretary shall submit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Environment and Public Works of the Senate a copy of all input and recommendations received pursuant to subsection (c) and a description of any consideration of such input and recommendations.
-
-**(e) Development of guidance** When developing implementation guidance for a covered water resources development law, the Secretary shall take into consideration the input and recommendations received from non-Federal stakeholders, and make the final guidance available to the public on the publicly accessible website described in subsection (b)(2).
-
-**(f) Definitions** In this section:
-
-(1) **Covered provision of law** — The term “covered provision of law” means a provision of law under the jurisdiction of the Secretary contained in, or amended by, a covered water resources development law, with respect to which—
-
-  (A) the Secretary determines guidance is necessary in order to implement the provision; and
-
-  (B) no such guidance has been issued as of October 23, 2018.
-
-(2) **Covered water resources development law** — The term “covered water resources development law” means—
-
-  (A) the Water Resources Reform and Development Act of 2014;
-
-  (B) the Water Resources Development Act of 2016;
-
-  (C) this Act; and
-
-  (D) any Federal water resources development law enacted after October 23, 2018.
-
-### Statutory Notes
-
-#### References in Text
-The Water Resources Reform and Development Act of 2014, referred to in subsec. (f)(2)(A), is Pub. L. 113–121, June 10, 2014, 128 Stat. 1193. For complete classification of this Act to the Code, see Short Title of 2014 Amendment note set out under [section 2201 of this title](./chapter-036-water-resources-development.md#section-2201) and Tables.
-
-The Water Resources Development Act of 2016, referred to in subsec. (f)(2)(B), is title I of Pub. L. 114–322, Dec. 16, 2016, 130 Stat. 1632. For complete classification of this Act to the Code, see Short Title of 2016 Amendment note set out under [section 2201 of this title](./chapter-036-water-resources-development.md#section-2201) and Tables.
-
-This Act, referred to in subsec. (f)(2)(C), probably means title I of Pub. L. 115–270, Oct. 23, 2018, 132 Stat. 3768, known as the Water Resources Development Act of 2018. For complete classification of this Act to the Code, see Short Title of 2018 Amendment note set out under [section 2201 of this title](./chapter-036-water-resources-development.md#section-2201) and Tables.
-
-#### Codification
-Section was enacted as part of the Water Resources Development Act of 2018, and also as part of the America’s Water Infrastructure Act of 2018, and not as part of the Water Resources Development Act of 1986 which comprises this chapter.
-
-#### “Secretary” Defined
-Secretary means the Secretary of the Army, see section 102 of Pub. L. 115–270, set out as a note under [section 2201 of this title](./chapter-036-water-resources-development.md#section-2201).
-
-
-<a id="section-2212"></a>
-## § 2212. Harbors
-**(a) Construction**
-
-(1) **Payments during construction** — The non-Federal interests for a navigation project for a harbor or inland harbor, or any separable element thereof, on which a contract for physical construction has not been awarded before June 10, 2014, shall pay, during the period of construction of the project, the following costs associated with general navigation features:
-
-  (A) 10 percent of the cost of construction of the portion of the project which has a depth not in excess of 20 feet; plus
-
-  (B) 25 percent of the cost of construction of the portion of the project which has a depth in excess of 20 feet but not in excess of 50 feet; plus
-
-  (C) 50 percent of the cost of construction of the portion of the project which has a depth in excess of 50 feet.
-
-(2) **Additional 10 percent payment over 30 years** — The non-Federal interests for a project to which paragraph (1) applies shall pay an additional 10 percent of the cost of the general navigation features of the project in cash over a period not to exceed 30 years, at an interest rate determined pursuant to [section 2216 of this title](./chapter-036-water-resources-development.md#section-2216). The value of lands, easements, rights-of-way, and relocations provided under paragraph (3) and the costs of relocations borne by the non-Federal interests under paragraph (4) shall be credited toward the payment required under this paragraph.
-
-(3) **Lands, easements, and rights-of-way** — Except as provided under [section 2283(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section2283/c&num=0&edition=prelim), the non-Federal interests for a project to which paragraph (1) applies shall provide the lands, easements, rights-of-way, and relocations (other than utility relocations under paragraph (4)) necessary for the project, including any lands, easements, rights-of-way, and relocations (other than utility relocations accomplished under paragraph (4)) that are necessary for dredged material disposal facilities.
-
-(4) **Utility relocations** — The non-Federal interests for a project to which paragraph (1) applies shall perform or assure the performance of all relocations of utilities necessary to carry out the project, except that in the case of a project for a deep-draft harbor and in the case of a project constructed by non-Federal interests under [section 2232 of this title](./chapter-036-water-resources-development.md#section-2232), one-half of the cost of each such relocation shall be borne by the owner of the facility being relocated and one-half of the cost of each such relocation shall be borne by the non-Federal interests.
-
-(5) **Dredged material disposal facilities for project construction** — In this subsection, the term “general navigation features” includes constructed land-based and aquatic dredged material disposal facilities that are necessary for the disposal of dredged material required for project construction and for which a contract for construction has not been awarded on or before October 12, 1996.
-
-**(b) Operation and maintenance**
-
-(1) **In general** — The Federal share of the cost of operation and maintenance of each navigation project for a harbor or inland harbor constructed by the Secretary pursuant to this Act or any other law approved after November 17, 1986, shall be 100 percent, except that in the case of a deep-draft harbor, the non-Federal interests shall be responsible for an amount equal to 50 percent of the excess of the cost of the operation and maintenance of such project over the cost which the Secretary determines would be incurred for operation and maintenance of such project if such project had a depth of 50 feet.
-
-(2) **Dredged material disposal facilities** — The Federal share of the cost of constructing land-based and aquatic dredged material disposal facilities that are necessary for the disposal of dredged material required for the operation and maintenance of a project and for which a contract for construction has not been awarded on or before October 12, 1996, shall be determined in accordance with subsection (a). The Federal share of operating and maintaining such facilities shall be determined in accordance with paragraph (1).
-
-**(c) Erosion or shoaling attributable to Federal navigation works** Costs of constructing projects or measures for the prevention or mitigation of erosion or shoaling damages attributable to Federal navigation works shall be shared in the same proportion as the cost sharing provisions applicable to the project causing such erosion or shoaling. The non-Federal interests for the project causing the erosion or shoaling shall agree to operate and maintain such measures.
-
-**(d) Non-Federal payments during construction** The amount of any non-Federal share of the cost of any navigation project for a harbor or inland harbor shall be paid to the Secretary. Amounts required to be paid during construction shall be paid on an annual basis during the period of construction, beginning not later than one year after construction is initiated.
-
-**(e) Agreement** Before initiation of construction of a project to which this section applies, the Secretary and the non-Federal interests shall enter into a cooperative agreement according to the provisions of [section 1962d–5b of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1962d–5b&num=0&edition=prelim). The non-Federal interests shall agree to—
-
-(1) provide to the Federal Government lands, easements, and rights-of-way, including those necessary for dredged material disposal facilities, and perform the necessary relocations required for construction, operation, and maintenance of such project;
-
-(2) hold and save the United States free from damages due to the construction or operation and maintenance of the project, except for damages due to the fault or negligence of the United States or its contractors;
-
-(3) provide to the Federal Government the non-Federal share of all other costs of construction of such project; and
-
-(4) in the case of a deep-draft harbor, be responsible for the non-Federal share of operation and maintenance required by subsection (b) of this section.
-
-**(f) Consideration of funding requirements and equitable apportionment** The Secretary shall ensure, to the extent practicable, that—
-
-(1) funding requirements for operation and maintenance dredging of commercial navigation harbors are considered before Federal funds are obligated for payment of the Federal share of costs associated with the construction of dredged material disposal facilities in accordance with subsections (a) and (b);
-
-(2) funds expended for such construction are apportioned equitably in accordance with regional needs; and
-
-(3) use of a dredged material disposal facility designed, constructed, managed, or operated by a private entity is not precluded if, consistent with economic and environmental considerations, the facility is the least-cost alternative.
-
-### Statutory Notes
-
-#### References in Text
-This Act, referred to in subsec. (b)(1), is Pub. L. 99–662, Nov. 17, 1986, 100 Stat. 4082, as amended, known as the Water Resources Development Act of 1986. For complete classification of this Act to the Code, see Short Title note set out under [section 2201 of this title](./chapter-036-water-resources-development.md#section-2201) and Tables.
-
-#### Amendments
-2016—Subsec. (a)(1). Pub. L. 114–322, § 1111(1), substituted “June 10, 2014,” for “November 17, 1986,” in introductory provisions.
-
-Subsec. (a)(1)(B). Pub. L. 114–322, § 1111(2), substituted “50 feet” for “45 feet”.
-
-Subsec. (a)(1)(C). Pub. L. 114–322, § 1111(3), substituted “50 feet” for “45 feet”.
-
-2014—Subsec. (b)(1). Pub. L. 113–121 substituted “50 feet” for “45 feet”.
-
-1996—Subsec. (a)(2). Pub. L. 104–303, § 201(a)(1), inserted last sentence and struck out former last sentence which read as follows: “The value of lands, easements, rights-of-way, relocations, and dredged material disposal areas provided under paragraph (3) and the costs of relocations borne by the non-Federal interests under paragraph (4) shall be credited toward the payment required under this paragraph.”
-
-Subsec. (a)(3). Pub. L. 104–303, § 201(a)(2), inserted “and” after “rights-of-way,”, struck out “, and dredged material disposal areas” after “relocations under paragraph (4))”, and inserted before period at end “, including any lands, easements, rights-of-way, and relocations (other than utility relocations accomplished under paragraph (4)) that are necessary for dredged material disposal facilities”.
-
-Subsec. (a)(5). Pub. L. 104–303, § 201(a)(3), added par. (5).
-
-Subsec. (b). Pub. L. 104–303, § 201(b), designated existing provisions as par. (1), inserted heading, realigned margins, and substituted “by the Secretary pursuant to this Act or any other law approved after November 17, 1986” for “pursuant to this Act”, and added par. (2).
-
-Subsec. (e)(1). Pub. L. 104–303, § 201(c), substituted “including those necessary for dredged material disposal facilities,” for “and to provide dredged material disposal areas”.
-
-Subsec. (f). Pub. L. 104–303, § 201(d), added subsec. (f).
-
-1992—Subsec. (a)(3). Pub. L. 102–580 substituted “Except as provided under section 906(c), the non-Federal” for “The non-Federal”.
-
-1988—Subsec. (a)(2). Pub. L. 100–676 added par. (2) and struck out former par. (2) which read as follows: “The non-Federal interests for a project to which paragraph (1) applies shall pay an additional 10 percent of the cost of the general navigation features of the project in cash over a period not to exceed 30 years, at an interest rate determined pursuant to [section 2216 of this title](./chapter-036-water-resources-development.md#section-2216). The value of lands, easements, rights-of-way, relocations, and dredged material disposal areas provided under paragraph (3) shall be credited toward the payment required under this paragraph.”
-
-#### Effective Date of 1988 Amendment
-Pub. L. 100–676, § 13(b), Nov. 17, 1988, 102 Stat. 4026, provided that: “The amendment made by subsection (a) [amending this section] shall take effect on November 17, 1986.”
-
-#### Deep Draft Harbor Cost Sharing
-Pub. L. 106–53, title IV, § 401, Aug. 17, 1999, 113 Stat. 322, provided that: “(a) In General.—The Secretary shall undertake a study of non-Federal cost-sharing requirements for the construction and operation and maintenance of deep draft harbor projects to determine whether—“(1) cost sharing adversely affects United States port development or domestic and international trade; and “(2) any revision of the cost-sharing requirements would benefit United States domestic and international trade. “(b) Recommendations.—“(1) In general.—Not later than May 30, 2001, the Secretary shall submit to the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives any recommendations that the Secretary may have in light of the study under subsection (a). “(2) Considerations.—In making recommendations, the Secretary shall consider—“(A) the potential economic, environmental, and budgetary impacts of any proposed revision of the cost-sharing requirements; and “(B) the effect that any such revision would have on regional port competition.”
-
-#### Amendment of Cooperation Agreement
-Pub. L. 104–303, title II, § 201(f), Oct. 12, 1996, 110 Stat. 3673, provided that: “If requested by the non-Federal interest, the Secretary shall amend a project cooperation agreement executed on or before the date of the enactment of this Act [Oct. 12, 1996] to reflect the application of the amendments made by this section [amending this section and [section 2241 of this title](./chapter-036-water-resources-development.md#section-2241)] to any project for which a contract for construction has not been awarded on or before that date.”
-
-#### Increases in Non-Federal Share of Costs
-Pub. L. 104–303, title II, § 201(g), Oct. 12, 1996, 110 Stat. 3673, provided that: “Nothing in this section [amending this section and [section 2241 of this title](./chapter-036-water-resources-development.md#section-2241) and enacting provisions set out above] (including the amendments made by this section) shall increase, or result in the increase of, the non-Federal share of the costs of— “(1) expanding any confined dredged material disposal facility that is operated by the Secretary and that is authorized for cost recovery through the collection of tolls; “(2) any confined dredged material disposal facility for which the invitation for bids for construction was issued before the date of the enactment of this Act [Oct. 12, 1996]; and “(3) expanding any confined dredged material disposal facility constructed under section 123 of the River and Harbor Act of 1970 ([33 U.S.C. 1293a](./chapter-026-water-pollution-prevention-and-control.md#section-1293a)) if the capacity of the confined dredged material disposal facility was exceeded in less than 6 years.”
-
-#### Dredged Material Disposal Areas Study
-Pub. L. 102–580, title II, § 216, Oct. 31, 1992, 106 Stat. 4832, directed Secretary to conduct a study on the need for changes in Federal law and policy with respect to dredged material disposal areas for construction and maintenance of harbors and inland harbors by Secretary and, not later than 18 months after Oct. 31, 1992, to transmit to Congress a report on the results of the study, together with recommendations of the Secretary.
-
-
-<a id="section-2213"></a>
-## § 2213. Preserving United States harbors
-**(a) In general** Upon a request from a non-Federal interest, the Secretary shall review a report developed by the non-Federal interest that provides an economic justification for Federal investment in the operation and maintenance of a federally authorized harbor or inland harbor (referred to in this section as a “federally authorized harbor”).
-
-**(b) Justification of investment** A report submitted under subsection (a) may provide for an economic justification of Federal investment in the operation and maintenance of a federally authorized harbor based on—
-
-(1) the projected economic benefits, including transportation savings and job creation; and
-
-(2) other factors, including navigation safety, national security, and sustainability of subsistence harbors.
-
-**(c) Written response** Not later than 180 days after the date on which the Secretary receives a report under subsection (a), the Secretary shall provide to the non-Federal interest a written response to the report, including an assessment of the information provided by the non-Federal interest.
-
-**(d) Prioritization** As the Secretary determines to be appropriate, the Secretary may use the information provided in the report under subsection (a) to justify additional operation and maintenance funding for a federally authorized harbor in accordance with [section 2211(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section2211/b&num=0&edition=prelim).
-
-**(e) Limitation on statutory construction** Nothing in this section may be construed to preclude the operation and maintenance of a federally authorized harbor under [section 2211(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section2211/b&num=0&edition=prelim).
-
-### Statutory Notes
-
-#### Codification
-Section was enacted as part of the Water Resources Reform and Development Act of 2014, and not as part of the Water Resources Development Act of 1986 which comprises this chapter.
-
-#### “Secretary” Defined
-Secretary means the Secretary of the Army, see section 2 of Pub. L. 113–121, set out as a note under [section 2201 of this title](./chapter-036-water-resources-development.md#section-2201).
-
-
-<a id="section-2214"></a>
-## § 2214. Inland waterway transportation
-**(a) Construction** One-half of the costs of construction—
-
-(1) of each project authorized by title III of this Act,
-
-(2) of the project authorized by [section 652(j) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section652/j&num=0&edition=prelim), and
-
-(3) allocated to inland navigation for the project authorized by section 844 of this Act,
-shall be paid only from amounts appropriated from the general fund of the Treasury. One-half of such costs shall be paid only from amounts appropriated from the Inland Waterways Trust Fund. For purposes of this subsection, the term “construction” shall include planning, designing, engineering, surveying, the acquisition of all lands, easements, and rights-of-way necessary for the project, including lands for disposal of dredged material, and relocations necessary for the project.
-
-**(b) Operation and maintenance** The Federal share of the cost of operation and maintenance of any project for navigation on the inland waterways is 100 percent.
-
-**(c) Floodgates on the Inland Waterways**
-
-(1) **Operation and maintenance carried out by the Secretary** — Notwithstanding any other provision of law, the Secretary shall be responsible for the operation and maintenance, including repair, of any flood gate, as well as any pumping station constructed within the channel as a single unit with that flood gate, that—
-
-  (A) was constructed as of June 10, 2014, as a feature of an authorized hurricane and storm damage reduction project; and
-
-  (B) crosses an inland or intracoastal waterway described in [section 1804 of this title](./chapter-032-inland-waterways-trust-fund.md#section-1804).
-
-(2) **Non-Federal cost share** — The non-Federal share of the cost of operation, maintenance, repair, rehabilitation, and replacement of any structure under this subsection shall be 35 percent.
-
-**(d) Authorizations from general fund** Any Federal responsibility—
-
-(1) with respect to a project authorized by title III or [section 652(j) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section652/j&num=0&edition=prelim), or
-
-(2) with respect to the portion of the project authorized by section 844 allocated to inland navigation,
-which responsibility is not provided for in subsection (a) of this section shall be paid only from amounts appropriated from the general fund of the Treasury.
-
-### Statutory Notes
-
-#### References in Text
-Title III of this Act, referred to in subsecs. (a)(1) and (d)(1), is title III of Pub. L. 99–662, Nov. 17, 1986, 100 Stat. 4109, consisting of sections 301 and 302. The projects authorized by title III probably mean the projects authorized by section 301 of Pub. L. 99–662, which is not classified to the Code. Section 302 of Pub. L. 99–662, which established the Inland Waterways Users Board, is classified to [section 2251 of this title](./chapter-036-water-resources-development.md#section-2251).
-
-Section 844 of this Act, referred to in subsecs. (a)(3) and (d)(2), is section 844 of Pub. L. 99–662, Nov. 17, 1986, 100 Stat. 4177, which is not classified to the Code.
-
-#### Amendments
-2014—Subsecs. (c), (d). Pub. L. 113–121 added subsec. (c) and redesignated former subsec. (c) as (d).
-
-#### Acceptance of Contributed Funds To Increase Lock Operations
-Pub. L. 113–121, title I, § 1017, June 10, 2014, 128 Stat. 1223, as amended by Pub. L. 115–270, title I, § 1135, Oct. 23, 2018, 132 Stat. 3783, provided that: “(a) In General.—The Secretary [of the Army], after providing public notice, shall establish a pilot program for the acceptance and expenditure of funds contributed by non-Federal interests to increase the hours of operation of locks at water resources development projects. “(b) Applicability.—The establishment of the pilot program under this section shall not affect the periodic review and adjustment of hours of operation of locks based on increases in commercial traffic carried out by the Secretary. “(c) Public Comment.—Not later than 180 days before a proposed modification to the operation of a lock at a water resources development project will be carried out, the Secretary shall—“(1) publish the proposed modification in the Federal Register; and “(2) accept public comment on the proposed modification. “(d) Reports.—“(1) In general.—Not later than 1 year after the date of enactment of this Act [June 10, 2014], the Secretary shall submit to the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives and make publicly available a report that evaluates the cost-savings resulting from reduced lock hours and any economic impacts of modifying lock operations. “(2) Review of pilot program.—Not later than September 30, 2017, and each year thereafter, the Secretary shall submit to the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a report that describes the effectiveness of the pilot program under this section. “(e) Annual Review.—The Secretary shall carry out an annual review of the commercial use of locks and make any necessary adjustments to lock operations based on that review. “(f) Termination.—The authority to accept funds under this section shall terminate 10 years after the date of enactment of this Act.”
-
-
-<a id="section-2215"></a>
-## § 2215. Flood control and other purposes
-**(a) Flood control**
-
-(1) **General rule** — The non-Federal interests for a project with costs assigned to flood control (other than a nonstructural project) shall—
-
-  (A) pay 5 percent of the cost of the project assigned to flood control during construction of the project;
-
-  (B) provide all lands, easements, rights-of-way, and dredged material disposal areas required only for flood control and perform all related necessary relocations; and
-
-  (C) provide that portion of the joint costs of lands, easements, rights-of-way, dredged material disposal areas, and relocations which is assigned to flood control.
-
-(2) **35 percent minimum contribution** — If the value of the contributions required under paragraph (1) of this subsection is less than 35 percent of the cost of the project assigned to flood control, the non-Federal interest shall pay during construction of the project such additional amounts as are necessary so that the total contribution of the non-Federal interests under this subsection is equal to 35 percent of the cost of the project assigned to flood control.
-
-(3) **50 percent maximum** — The non-Federal share under paragraph (1) shall not exceed 50 percent of the cost of the project assigned to flood control. The preceding sentence does not modify the requirement of paragraph (1)(A) of this subsection.
-
-(4) **Deferred payment of amount exceeding 30 percent** — If the total amount of the contribution required under paragraph (1) of this subsection exceeds 30 percent of the cost of the project assigned to flood control, the non-Federal interests may pay the amount of the excess to the Secretary over a 15-year period (or such shorter period as may be agreed to by the Secretary and the non-Federal interests) beginning on the date construction of the project or separable element is completed, at an interest rate determined pursuant to [section 2216 of this title](./chapter-036-water-resources-development.md#section-2216). The preceding sentence does not modify the requirement of paragraph (1)(A) of this subsection.
-
-**(b) Nonstructural flood control projects**
-
-(1) **In general** — The non-Federal share of the cost of nonstructural flood control measures shall be 35 percent of the cost of such measures. The non-Federal interests for any such measures shall be required to provide all lands, easements, rights-of-way, dredged material disposal areas, and relocations necessary for the project, but shall not be required to contribute any amount in cash during construction of the project.
-
-(2) **Non-Federal contribution in excess of 35 percent** — At any time during construction of a project, if the Secretary determines that the costs of land, easements, rights-of-way, dredged material disposal areas, and relocations for the project, in combination with other costs contributed by the non-Federal interests, will exceed 35 percent, any additional costs for the project (not to exceed 65 percent of the total costs of the project) shall be a Federal responsibility and shall be contributed during construction as part of the Federal share.
-
-**(c) Other purposes** The non-Federal share of the cost assigned to other project purposes shall be as follows:
-
-(1) hydroelectric power: 100 percent, except that the marketing of such power and the recovery of costs of constructing, operating, maintaining, and rehabilitating such projects shall be in accordance with existing law: Provided, That after November 17, 1986, the Secretary shall not submit to Congress any proposal for the authorization of any water resources project that has a hydroelectric power component unless such proposal contains the comments of the appropriate Power Marketing Administrator designated pursuant to [section 7152 of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section7152&num=0&edition=prelim) concerning the appropriate Power Marketing Administration’s ability to market the hydroelectric power expected to be generated and not required in the operation of the project under the applicable Federal power marketing law, so that, 100 percent of operation, maintenance and replacement costs, 100 percent of the capital investment allocated to the purpose of hydroelectric power (with interest at rates established pursuant to or prescribed by applicable law), and any other costs assigned in accordance with law for return from power revenues can be returned within the period set for the return of such costs by or pursuant to such applicable Federal power marketing law;
-
-(2) municipal and industrial water supply: 100 percent;
-
-(3) agricultural water supply: 35 percent;
-
-(4) recreation, including recreational navigation: 50 percent of separable costs and, in the case of any harbor or inland harbor or channel project, 50 percent of joint and separable costs allocated to recreational navigation;
-
-(5) hurricane and storm damage reduction: 35 percent;
-
-(6) aquatic plant control: 50 percent of control operations; and
-
-(7) environmental protection and restoration: 35 percent; except that nothing in this paragraph shall affect or limit the applicability of [section 2283 of this title](./chapter-036-water-resources-development.md#section-2283).
-
-**(d) Certain other costs assigned to project purposes**
-
-(1) **Construction** — Costs of constructing projects or measures for beach erosion control and water quality enhancement shall be assigned to appropriate project purposes listed in subsections (a), (b), and (c) and shall be shared in the same percentage as the purposes to which the costs are assigned, except that all costs assigned to benefits to privately owned shores (where use of such shores is limited to private interests) or to prevention of losses of private lands shall be borne by non-Federal interests and all costs assigned to the protection of federally owned shores shall be borne by the United States.
-
-(2) **Periodic nourishment**
-
-  (A) *In general* — In the case of a project authorized for construction after December 31, 1999, except for a project for which a District Engineer’s Report is completed by that date, the non-Federal cost of the periodic nourishment of the project, or any measure for shore protection or beach erosion control for the project, that is carried out—
-
-    (i) after January 1, 2001, shall be 40 percent;
-
-    (ii) after January 1, 2002, shall be 45 percent; and
-
-    (iii) after January 1, 2003, shall be 50 percent.
-
-  (B) *Benefits to privately owned shores* — All costs assigned to benefits of periodic nourishment projects or measures to privately owned shores (where use of such shores is limited to private interests) or to prevention of losses of private land shall be borne by the non-Federal interest.
-
-  (C) *Benefits to federally owned shores* — All costs assigned to the protection of federally owned shores for periodic nourishment measures shall be borne by the United States.
-
-**(e) Applicability**
-
-(1) **In general** — This section applies to any project (including any small project which is not specifically authorized by Congress and for which the Secretary has not approved funding before November 17, 1986), or separable element thereof, on which physical construction is initiated after April 30, 1986, as determined by the Secretary, except as provided in paragraph (2). For the purpose of the preceding sentence, physical construction shall be considered to be initiated on the date of the award of a construction contract.
-
-(2) **Exceptions** — This section shall not apply to the Yazoo Basin, Mississippi, Demonstration Erosion Control Program, authorized by Public Law 98–8, or to the Harlan, Kentucky, or Barbourville, Kentucky, elements of the project authorized by section 202 of Public Law 96–367.
-
-**(f) “Separable element” defined** For purposes of this Act, the term “separable element” means a portion of a project—
-
-(1) which is physically separable from other portions of the project; and
-
-(2) which—
-
-  (A) achieves hydrologic effects, or
-
-  (B) produces physical or economic benefits,
-  which are separately identifiable from those produced by other portions of the project.
-
-**(g) Deferral of payment**
-
-(1) With respect to the projects listed in paragraph (2), no amount of the non-Federal share required under this section shall be required to be paid during the three-year period beginning on November 17, 1986.
-
-(2) The projects referred to in paragraph (1) are the following:
-
-  (A) Boeuf and Tensas Rivers, Tensas Basin, Louisiana and Arkansas, authorized by the Flood Control Act of 1946;
-
-  (B) Eight Mile Creek, Arkansas, authorized by Public Law 99–88; and
-
-  (C) Rocky Bayou Area, Yazoo Backwater Area, Yazoo Basin, Mississippi, authorized by the Flood Control Act approved August 18, 1941.
-
-**(h) Assigned joint and separable costs** The share of the costs specified under this section for each project purpose shall apply to the joint and separable costs of construction of each project assigned to that purpose, except as otherwise specified in this Act.
-
-**(i) Lands, easements, rights-of-way, dredged material disposal areas, and relocations** Except as provided under [section 2283(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section2283/c&num=0&edition=prelim), the non-Federal interests for a project to which this section applies shall provide all lands, easements, rights-of-way, and dredged material disposal areas required for the project and perform all necessary relocations, except to the extent limited by any provision of this section. The value of any contribution under the preceding sentence shall be included in the non-Federal share of the project specified in this section.
-
-**(j) Agreement**
-
-(1) **Requirement for agreement** — Any project to which this section applies (other than a project for hydroelectric power) shall be initiated only after non-Federal interests have entered into binding agreements with the Secretary to pay 100 percent of the operation, maintenance, and replacement and rehabilitation costs of the project, to pay the non-Federal share of the costs of construction required by this section, and to hold and save the United States free from damages due to the construction or operation and maintenance of the project, except for damages due to the fault or negligence of the United States or its contractors.
-
-(2) **Elements of agreement** — The agreement required pursuant to paragraph (1) shall be in accordance with the requirements of [section 1962d–5b of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1962d–5b&num=0&edition=prelim) and shall provide for the rights and duties of the United States and the non-Federal interest with respect to the construction, operation, and maintenance of the project, including, but not limited to, provisions specifying that, in the event the non-Federal interest fails to provide the required non-Federal share of costs for such work, the Secretary—
-
-  (A) shall terminate or suspend work on the project unless the Secretary determines that continuation of the work is in the interest of the United States or is necessary in order to satisfy agreements with other non-Federal interests in connection with the project; and
-
-  (B) may terminate or adjust the rights and privileges of the non-Federal interest to project outputs under the terms of the agreement.
-
-**(k) Payment options** Except as otherwise provided in this section, the Secretary may permit the full non-Federal contribution to be made without interest during construction of the project or separable element, or with interest at a rate determined pursuant to [section 2216 of this title](./chapter-036-water-resources-development.md#section-2216) over a period of not more than thirty years from the date of completion of the project or separable element. Repayment contracts shall provide for recalculation of the interest rate at five-year intervals.
-
-**(l) Delay of initial payment** At the request of any non-Federal interest the Secretary may permit such non-Federal interest to delay the initial payment of any non-Federal contribution under this section or [section 2211 of this title](./chapter-036-water-resources-development.md#section-2211) for up to one year after the date when construction is begun on the project for which such contribution is to be made. Any such delay in initial payment shall be subject to interest charges for up to six months at a rate determined pursuant to [section 2216 of this title](./chapter-036-water-resources-development.md#section-2216).
-
-**(m) Ability to pay**
-
-(1) **In general** — Any cost-sharing agreement under this section for a feasibility study, or for construction of an environmental protection and restoration project, a flood control project, a project for navigation, storm damage protection, shoreline erosion, hurricane protection, or recreation, or an agricultural water supply project, shall be subject to the ability of the non-Federal interest to pay.
-
-(2) **Criteria and procedures** — The ability of a non-Federal interest to pay shall be determined by the Secretary in accordance with criteria and procedures in effect under paragraph (3) on the day before December 11, 2000; except that such criteria and procedures shall be revised, and new criteria and procedures shall be developed, not later than December 31, 2007, to reflect the requirements of such paragraph (3).
-
-(3) **Revision of criteria and procedures** — In revising criteria and procedures pursuant to paragraph (2), the Secretary—
-
-  (A) shall consider—
-
-    (i) per capita income data for the county or counties in which the project is to be located; and
-
-    (ii) the per capita non-Federal cost of construction of the project for the county or counties in which the project is to be located; and
-
-  (B) may consider additional criteria relating to the non-Federal interest’s financial ability to carry out its cost-sharing responsibilities, to the extent that the application of such criteria does not eliminate areas from eligibility for a reduction in the non-Federal share as determined under subparagraph (A).
-
-(4) **Non-Federal share** — Notwithstanding subsection (a), the Secretary may reduce the requirement that a non-Federal interest make a cash contribution for any project that is determined to be eligible for a reduction in the non-Federal share under criteria and procedures in effect under paragraphs (1), (2), and (3).
-
-**(n) Non-Federal contributions**
-
-(1) **Prohibition on solicitation of excess contributions** — The Secretary may not—
-
-  (A) solicit contributions from non-Federal interests for costs of constructing authorized water resources projects or measures in excess of the non-Federal share assigned to the appropriate project purposes listed in subsections (a), (b), and (c); or
-
-  (B) condition Federal participation in such projects or measures on the receipt of such contributions.
-
-(2) **Limitation on statutory construction** — Nothing in this subsection shall be construed to affect the Secretary’s authority under section 903(c).11 See References in Text note below.
-
-### Statutory Notes
-
-#### References in Text
-Public Law 98–8, referred to in subsec. (e)(2), is Pub. L. 98–8, Mar. 24, 1983, 97 Stat. 13. For complete classification of this Act to the Code, see Tables.
-
-Section 202 of Public Law 96–367, referred to in subsec. (e)(2), is section 202 of Pub. L. 96–367, title II, Oct. 1, 1980, 94 Stat. 1339, which is not classified to the Code.
-
-This Act, referred to in subsecs. (f) and (h), is Pub. L. 99–662, Nov. 17, 1986, 100 Stat. 4082, as amended, known as the Water Resources Development Act of 1986. For complete classification of this Act to the Code, see Short Title note set out under [section 2201 of this title](./chapter-036-water-resources-development.md#section-2201) and Tables.
-
-The Flood Control Act of 1946, referred to in subsec. (g)(2)(A), is act July 24, 1946, ch. 596, 60 Stat. 641, as amended. For complete classification of this Act to the Code, see Tables.
-
-Public Law 99–88, referred to in subsec. (g)(2)(B), is Pub. L. 99–88, Aug. 15, 1985, 99 Stat. 293, known as the Supplemental Appropriations Act, 1985. Provisions of Pub. L. 99–88 authorizing the project for Eight Mile Creek, Arkansas, are not classified to the Code. For complete classification of this Act to the Code, see Tables.
-
-The Flood Control Act approved August 18, 1941, referred to in subsec. (g)(2)(C), is act Aug. 18, 1941, ch. 377, 55 Stat. 638. For complete classification of this Act to the Code, see Tables.
-
-Section 903(c), referred to in subsec. (n)(2), is section 903(c) of Pub. L. 99–662, title IX, Nov. 17, 1986, 100 Stat. 4184, which is not classified to the Code.
-
-#### Amendments
-2007—Subsec. (m)(2). Pub. L. 110–114, § 2019(a), substituted “December 31, 2007” for “180 days after December 11, 2000”.
-
-Subsec. (n). Pub. L. 110–114, § 2001, added subsec. (n).
-
-2000—Subsec. (m)(1), (2). Pub. L. 106–541, § 204(1), added pars. (1) and (2) and struck out former pars. (1) and (2) which required any cost-sharing agreement to be subject to the ability of a non-Federal interest to pay and required the Secretary to determine ability to pay using certain criteria and procedures.
-
-Subsec. (m)(3)(B), (C). Pub. L. 106–541, § 204(2), redesignated subpar. (C) as (B) and struck out former subpar. (B) which read as follows: “shall not consider criteria (other than criteria described in subparagraph (A)) in effect on the day before October 12, 1996; and”.
-
-1999—Subsec. (b). Pub. L. 106–53, § 219(c)(1), which directed insertion of the par. (1) designation and heading before “The non-Federal”, was executed by making the insertion before that phrase the first place it appeared to reflect the probable intent of Congress.
-
-Subsec. (b)(2). Pub. L. 106–53, § 219(c)(2), added par. (2).
-
-Subsec. (d). Pub. L. 106–53, § 215(a), designated existing provisions as par. (1), inserted heading, and added par. (2).
-
-Subsec. (d)(2)(A). Pub. L. 106–109 substituted “except for a project for which a District Engineer’s Report is completed by that date,” for “or for which a feasibility study is completed after that date,”.
-
-1996—Subsecs. (a)(2), (b). Pub. L. 104–303, § 202(a)(1)(A), substituted “35 percent” for “25 percent” wherever appearing.
-
-Subsec. (c)(7). Pub. L. 104–303, § 210(a), added par. (7).
-
-Subsec. (e)(1). Pub. L. 104–303, § 202(a)(2), inserted at end “For the purpose of the preceding sentence, physical construction shall be considered to be initiated on the date of the award of a construction contract.”
-
-Subsec. (m). Pub. L. 104–303, § 202(b)(1), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “Any cost-sharing agreement under this section for flood control or agricultural water supply shall be subject to the ability of a non-Federal interest to pay. The ability of any non-Federal interest to pay shall be determined by the Secretary in accordance with procedures established by the Secretary.”
-
-1992—Subsec. (i). Pub. L. 102–580, § 333(b)(2), substituted “Except as provided under [section 2283(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section2283/c&num=0&edition=prelim), the non-Federal” for “The non-Federal”.
-
-Subsec. (m). Pub. L. 102–580, § 201(a), amended subsec. (m) generally. Prior to amendment, subsec. (m) read as follows:
-
-“(1) General rule.—Any cost-sharing agreement under this section for flood control or agricultural water supply shall be subject to the ability of a non-Federal interest to pay.
-
-“(2) Procedures.—
-
-“(A) In general.—The ability of any non-Federal interest to pay shall be determined by the Secretary in accordance with procedures established by the Secretary.
-
-“(B) Limitations.—The procedures established pursuant to this subsection shall provide for a reduction in any non-Federal cash contribution required under subsection (a)(2) of this section. In addition, such procedures shall provide for determination of the eligibility of the non-Federal interest for a reduction in the required cash contribution on the basis of local, not statewide, economic and financial data.
-
-“(C) Regulations.—Not later than 1 year after November 28, 1990, the Secretary shall issue regulations establishing the procedures required by this paragraph.”
-
-1990—Subsec. (m). Pub. L. 101–640 amended subsec. (m) generally. Prior to amendment, subsec. (m) read as follows: “Any cost-sharing agreement under this section for flood control or agricultural water supply shall be subject to the ability of a non-Federal interest to pay. The ability of any non-Federal interest to pay shall be determined by the Secretary in accordance with procedures established by the Secretary.”
-
-#### Effective Date of 1996 Amendment
-Pub. L. 104–303, title II, § 202(a)(1)(B), Oct. 12, 1996, 110 Stat. 3673, provided that: “The amendments made by subparagraph (A) [amending this section] shall apply to any project authorized after the date of the enactment of this Act [Oct. 12, 1996] and to any flood control project that is not specifically authorized by Congress for which a Detailed Project Report is approved after such date of enactment or, in the case of a project for which no Detailed Project Report is prepared, construction is initiated after such date of enactment.”
-
-Pub. L. 104–303, title II, § 202(b)(2), Oct. 12, 1996, 110 Stat. 3674, provided that: “(A) Generally.—Subject to subparagraph (C), the amendment made by paragraph (1) [amending this section] shall apply to any project, or separable element thereof, with respect to which the Secretary and the non-Federal interest enter into a project cooperation agreement after December 31, 1997. “(B) Amendment of cooperation agreement.—If requested by the non-Federal interest, the Secretary shall amend a project cooperation agreement executed on or before the date of the enactment of this Act [Oct. 12, 1996] to reflect the application of the amendment made by paragraph (1) to any project for which a contract for construction has not been awarded on or before such date of enactment. “(C) Non-federal option.—If requested by the non-Federal interest, the Secretary shall apply the criteria and procedures established pursuant to section 103(m) of the Water Resources Development Act of 1986 [subsec. (m) of this section] as in effect on the day before the date of the enactment of this Act for projects that are authorized before the date of the enactment of this Act.”
-
-[Reference to “project cooperation agreement” deemed to be reference to “project partnership agreement”, see section 2003(f)(2) of Pub. L. 110–114, set out as a note under [section 1962d–5b of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1962d–5b&num=0&edition=prelim), The Public Health and Welfare.]
-
-Pub. L. 104–303, title II, § 210(b), Oct. 12, 1996, 110 Stat. 3681, provided that: “The amendments made by subsection (a) [amending this section] apply only to projects authorized after the date of the enactment of this Act [Oct. 12, 1996].”
-
-#### Continuation of Existing Regulations
-Pub. L. 101–640, title III, § 305(b), Nov. 28, 1990, 104 Stat. 4635, provided that: “Regulations issued to carry out section 103(m) of the Water Resources Development Act of 1986 [[33 U.S.C. 2213(m)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section2213/m&num=0&edition=prelim)] before the date of the enactment of this Act [Nov. 28, 1990] and in effect on such date shall continue in effect until regulations are issued pursuant to paragraph (2)(C) of such section, as added by subsection (a) of this section.”
-
-#### Reports to Congress
-Pub. L. 100–71, title I, July 11, 1987, 101 Stat. 401, provided that: “The Secretary of the Army shall file a report with the appropriate committees of the House of Representatives and the Senate within ninety days after a written request is made pursuant to the provisions of subsection (m) of section 103 of Public Law 99–662 [[33 U.S.C. 2213(m)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section2213/m&num=0&edition=prelim)] indicating the action taken on the request. In addition, the Secretary of the Army shall file a report with the appropriate committees of the House of Representatives and the Senate within ninety days after enactment of this Act [July 11, 1987] listing any project or study falling under the provisions of subsection (e)(1) of section 103 of Public Law 99–662.”
-
-
-<a id="section-2216"></a>
-## § 2216. General credit for flood control
-**(a) Guidelines** Within one year after November 17, 1986, the Secretary shall issue guidelines to carry out this section, consistent with the principles and guidelines on project formulation. The guidelines shall include criteria for determining whether work carried out by non-Federal interests is compatible with a project for flood control and procedures for making such determinations. The guidelines under this section shall be promulgated after notice in the Federal Register and opportunity for comment.
-
-**(b) Analysis of costs and benefits** The guidelines established under subsection (a) shall provide for the Secretary to consider, in analyzing the costs and benefits of a proposed project for flood control, the costs and benefits produced by any flood control work carried out by non-Federal interests that the Secretary determines to be compatible with the project. For purposes of the preceding sentence the Secretary may consider only work carried out after the date which is 5 years before the first obligation of funds for the reconnaissance study for such project. In no case may work which was carried out more than 5 years before November 17, 1986, be considered under this subsection, unless otherwise provided in this Act.
-
-**(c) Crediting of non-Federal share** The guidelines established under subsection (a) shall provide for crediting the cost of work carried out by the non-Federal interests against the non-Federal share of the cost of an authorized project for flood control as follows:
-
-(1) Work which is carried out after the end of the reconnaissance study and before the submission to Congress of the final report of the Chief of Engineers on the project and which is determined by the Secretary to be compatible with the project shall be included as part of the project and shall be recommended by the Secretary in the final report for credit against the non-Federal share of the cost of the project.
-
-(2) Work which is carried out after submission of the final report of the Chief of Engineers to Congress and which is determined by the Secretary to be compatible with the project shall be considered as part of the project and shall be credited by the Secretary against the non-Federal share of the cost of the project in accordance with the guidelines promulgated pursuant to subsection (a).
-In no event may work which was carried out more than 5 years before November 17, 1986, be considered under this subsection, unless otherwise provided in this Act.
-
-**(d) Procedure for work done before November 17, 1986** The Secretary shall consider, under subsections (b) and (c), work carried out before November 17, 1986, by non-Federal interests on a project for flood control, if the non-Federal interests apply to the Secretary for consideration of such work not later than March 31, 1987. The Secretary shall make determinations under subsections (b) and (c) with respect to such work not later than 6 months after guidelines are issued under subsection (a).
-
-**(e) Procedure for work done after November 17, 1986** The Secretary shall consider work carried out after November 17, 1986, by non-Federal interests on a project for flood control under subsections (b) and (c) in accordance with the guidelines issued under subsection (a). The guidelines shall require prior approval by the Secretary of any flood control work carried out after November 17, 1986, in order to be considered under this section, taking into account the economic and environmental feasibility of the project.
-
-**(f) Limitation not applicable** Any flood control work included as part of the non-Federal share of the cost of a project under this section shall not be subject to the limitation contained in the last sentence of [section 1962d–5a(a) of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1962d–5a/a&num=0&edition=prelim).
-
-**(g) Cash contribution not affected** Nothing in this section affects the requirement of [section 2213(a)(1)(A) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section2213/a/1/A&num=0&edition=prelim).
-
-### Statutory Notes
-
-#### References in Text
-This Act, referred to in subsecs. (b) and (c), is Pub. L. 99–662, Nov. 17, 1986, 100 Stat. 4082, as amended, known as the Water Resources Development Act of 1986. For complete classification of this Act to the Code, see Short Title note set out under [section 2201 of this title](./chapter-036-water-resources-development.md#section-2201) and Tables.
-
-
-<a id="section-2217"></a>
-## § 2217. Feasibility studies; planning, engineering, and design
-**(a) Feasibility studies**
-
-(1) **Cost sharing**
-
-  (A) *In general* — The Secretary shall not initiate any feasibility study for a water resources project after November 17, 1986, until appropriate non-Federal interests agree, by contract, to contribute 50 percent of the cost of the study.
-
-  (B) *Payment of cost share during period of study* — During the period of the study, the non-Federal share of the cost of the study payable under subparagraph (A) shall be 50 percent of the sum of—
-
-    (i) the cost estimate for the study as contained in the feasibility cost-sharing agreement; and
-
-    (ii) any excess of the cost of the study over the cost estimate if the excess results from—
-
-      (I) a change in Federal law; or
-
-      (II) a change in the scope of the study requested by the non-Federal interests.
-
-  (C) *Payment of cost share on authorization of project or termination of study*
-
-    (i) *Project timely authorized* — Except as otherwise agreed to by the Secretary and the non-Federal interests and subject to clause (ii), the non-Federal share of any excess of the cost of the study over the cost estimate (excluding any excess cost described in subparagraph (B)(ii)) shall be payable on the date on which the Secretary and the non-Federal interests enter into an agreement pursuant to section 2211(e) or 2213(j) of this title with respect to the project.
-
-    (ii) *Project not timely authorized* — If the project that is the subject of the study is not authorized by the date that is 5 years after the completion of the final report of the Chief of Engineers concerning the study or the date that is 2 years after the termination of the study, the non-Federal share of any excess of the cost of the study over the cost estimate (excluding any excess cost described in subparagraph (B)(ii)) shall be payable to the United States on that date.
-
-  (D) *Amendment of cost estimate* — The cost estimate referred to in subparagraph (B)(i) may be amended only by agreement of the Secretary and the non-Federal interests.
-
-  (E) *In-kind contributions* — The non-Federal share required under this paragraph may be satisfied by the provision of services, materials, supplies, or other in-kind services necessary to prepare the feasibility report.
-
-(2) **Applicability** — This subsection shall not apply to any water resources study primarily designed for the purposes of navigational improvements in the nature of dams, locks, and channels on the Nation’s system of inland waterways.
-
-(3) **Detailed project reports** — The requirements of this subsection that apply to a feasibility study also shall apply to a study that results in a detailed project report, except that—
-
-  (A) the first $100,000 of the costs of a study that results in a detailed project report shall be a Federal expense; and
-
-  (B) paragraph (1)(C)(ii) shall not apply to such a study.
-
-**(b) Planning and engineering** The Secretary shall not initiate any planning or engineering for a water resources project until appropriate non-Federal interests agree, by contract, to contribute 50 percent of the cost of the planning and engineering during the period of the planning and engineering. Costs of planning and engineering of projects for which non-Federal interests contributed 50 percent of the cost of the feasibility study shall be treated as costs of construction.
-
-**(c) Design** Costs of design of a water resources project shall be shared in the same percentage as the purposes of such project.
-
-**(d) Definitions** In this section, the following definitions apply:
-
-(1) **Detailed project report** — The term “detailed project report” means a report for a project not specifically authorized by Congress in law or otherwise that determines the feasibility of the project with a level of detail appropriate to the scope and complexity of the recommended solution and sufficient to proceed directly to the preparation of contract plans and specifications. The term includes any associated environmental impact statement and mitigation plan. For a project for which the Federal cost does not exceed $1,000,000, the term includes a planning and design analysis document.
-
-(2) **Feasibility study** — The term “feasibility study” means a study that results in a feasibility report under [section 2282 of this title](./chapter-036-water-resources-development.md#section-2282), and any associated environmental impact statement and mitigation plan, prepared by the Corps of Engineers for a water resources project. The term includes a study that results in a project implementation report prepared under title VI of the Water Resources Development Act of 2000 (114 Stat. 2680–2694), a general reevaluation report, and a limited reevaluation report.
-
-### Statutory Notes
-
-#### References in Text
-The Water Resources Development Act of 2000, referred to in subsec. (d)(2), is Pub. L. 106–541, Dec. 11, 2000, 114 Stat. 2572. Title VI of the Act is not classified to the Code. For complete classification of this Act to the Code, see Short Title of 2000 Amendment note set out under [section 2201 of this title](./chapter-036-water-resources-development.md#section-2201) and Tables.
-
-#### Amendments
-2007—Subsec. (a)(3). Pub. L. 110–114, § 2043(a)(1), added par. (3).
-
-Subsec. (b). Pub. L. 110–114, § 2043(a)(2), struck out “authorized by this Act” before “for a water resources project”.
-
-Subsec. (d). Pub. L. 110–114, § 2043(a)(3), added subsec. (d).
-
-2000—Subsec. (a)(1)(E). Pub. L. 106–541 substituted “The” for “Not more than ½ of the”.
-
-1996—Subsec. (a)(1). Pub. L. 104–303, § 203(a)(1), inserted heading and amended text of par. (1) generally. Prior to amendment text read as follows: “The Secretary shall not initiate any feasibility study for a water resources project after November 17, 1986, until appropriate non-Federal interests agree, by contract, to contribute 50 percent of the cost for such study during the period of such study. Not more than one-half of such non-Federal contribution may be made by the provision of services, materials, supplies, or other in-kind services necessary to prepare the feasibility report.”
-
-Subsec. (a)(2). Pub. L. 104–303, § 203(a)(2), inserted heading.
-
-1990—Subsec. (b). Pub. L. 101–640 inserted at end “Costs of planning and engineering of projects for which non-Federal interests contributed 50 percent of the cost of the feasibility study shall be treated as costs of construction.”
-
-#### Effective Date of 1996 Amendment
-Pub. L. 104–303, title II, § 203(b), Oct. 12, 1996, 110 Stat. 3678, provided that: “The amendments made by subsection (a) [amending this section] shall apply notwithstanding any feasibility cost-sharing agreement entered into by the Secretary and the non-Federal interests. On request of the non-Federal interest, the Secretary shall amend any feasibility cost-sharing agreements in effect on the date of the enactment of this Act [Oct. 12, 1996] so as to conform the agreements with the amendments.”
-
-#### No Requirement of Reimbursement
-Pub. L. 104–303, title II, § 203(c), Oct. 12, 1996, 110 Stat. 3678, provided that: “Nothing in this section [amending this section and enacting provisions set out above] or any amendment made by this section requires the Secretary to reimburse the non-Federal interests for funds previously contributed for a study.”
-
-
-<a id="section-2218"></a>
-## § 2218. Rate of interest
-
-Whenever a non-Federal interest is required or elects to repay an amount under this Act over a period of time, the amount to be repaid shall include interest at a rate determined by the Secretary of the Treasury, taking into consideration the average market yields on outstanding marketable obligations of the United States with remaining periods to maturity comparable to the reimbursement period, during the month preceding the fiscal year in which costs for the construction of the project are first incurred (or in the case of recalculation the fiscal year in which the recalculation is made), plus a premium of one-eighth of one percentage point for transaction costs; except that such rates for hydroelectric power shall be in accordance with existing law.
-
-### Statutory Notes
-
-#### References in Text
-This Act, referred to in text, is Pub. L. 99–662, Nov. 17, 1986, 100 Stat. 4082, as amended, known as the Water Resources Development Act of 1986. For complete classification of this Act to the Code, see Short Title note set out under [section 2201 of this title](./chapter-036-water-resources-development.md#section-2201) and Tables.
-
-
-<a id="section-2219"></a>
-## § 2219. Limitation on applicability of certain provisions in reports
-
-If any provision in any report designated by this Act recommends that a State contribute in cash 5 percent of the construction costs allocated to non-vendible project purposes and 10 percent of the construction costs allocated to vendible project purposes, such provision shall not apply to the project recommended in such report.
-
-### Statutory Notes
-
-#### References in Text
-This Act, referred to in text, is Pub. L. 99–662, Nov. 17, 1986, 100 Stat. 4082, as amended, known as the Water Resources Development Act of 1986. For complete classification of this Act to the Code, see Short Title note set out under [section 2201 of this title](./chapter-036-water-resources-development.md#section-2201) and Tables.
-
-
-<a id="section-2220"></a>
-## § 2220. General applicability of cost sharing
-
-Unless otherwise specified, the cost sharing provisions of this subchapter shall apply to all projects in this Act. The Federal share of any cost of a project authorized by this Act for which cost a Federal share is not established in this subchapter, shall be the share of such cost otherwise provided by law.
-
-### Statutory Notes
-
-#### References in Text
-This Act, referred to in text, is Pub. L. 99–662, Nov. 17, 1986, 100 Stat. 4082, as amended, known as the Water Resources Development Act of 1986. For complete classification of this Act to the Code, see Short Title note set out under [section 2201 of this title](./chapter-036-water-resources-development.md#section-2201) and Tables.
-
-
-<a id="section-2221"></a>
-## § 2221. Definitions
-
-For purposes of this subchapter, terms shall have the meanings given by [section 2241 of this title](./chapter-036-water-resources-development.md#section-2241).
-
-
-<a id="section-2222"></a>
-## § 2222. Rivers and harbors and other waterways projects for benefit of navigation, flood control, hurricane protection, beach erosion control, and other purposes
-**(a) Congressional declaration of policy; purchase of indebtedness and loans to local interests to meet contribution requirements** In the prosecution of projects for rivers and harbors and other waterways for the benefit of navigation, the control of destructive flood waters, hurricane protection, beach erosion control, and for other purposes, authorized to be prosecuted under the direction of the Secretary of the Army under the supervision of the Chief of Engineers in accordance with plans adopted and authorized by the Congress, it is hereby declared to be the policy of the Congress, that whenever such projects are located wholly or partially within an area which is eligible for financial assistance under the Public Works and Economic Development Act of 1965 [[42 U.S.C. 3121](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3121&num=0&edition=prelim) et seq.], the Secretary of Commerce is authorized to purchase evidences of indebtedness and to make loans for a period not exceeding fifty years to enable responsible local interests to meet the requirements of local cooperation pertaining to contributions toward the cost of construction of such projects within such areas.
-
-**(b) Authorization of appropriations** There is hereby authorized to be appropriated to carry out this section, not to exceed $10,000,000 per fiscal year for the fiscal year ending June 30, 1966, and for each fiscal year thereafter through and including the fiscal year ending June 30, 1970.
-
-### Statutory Notes
-
-#### References in Text
-The Public Works and Economic Development Act of 1965, referred to in subsec. (a), is Pub. L. 89–136, Aug. 26, 1965, 79 Stat. 552, as amended, which is classified generally to chapter 38 (§ 3121 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 3121 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3121&num=0&edition=prelim) and Tables.
-
-#### Codification
-Section was formerly classified to [section 3142a of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3142a&num=0&edition=prelim), The Public Health and Welfare.
-
-Section was not enacted as part of the Water Resources Development Act of 1986 which comprises this chapter.
-
-
-<a id="section-2223"></a>
-## § 2223. Cost limitations on projects
-
-Beginning in fiscal year 2006 and thereafter, agreements proposed for execution by the Assistant Secretary of the Army for Civil Works or the United States Army Corps of Engineers after November 19, 2005, pursuant to [section 560 of this title](./chapter-012-river-and-harbor-improvements-generally.md#section-560); section 561 11 See References in Text note below. of this title; the Civil Functions Appropriations Act, 1936, Public Law 75–208 1 ; [section 1962d–5a of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1962d–5a&num=0&edition=prelim); sections 2214, 2231, and 2232 of this title; section 426i–1 1 of this title; section 701b–13 1 of this title; and any other specific project authority, shall be limited to total credits and reimbursements for all applicable projects not to exceed $100,000,000 in each fiscal year.
-
-### Statutory Notes
-
-#### References in Text
-[Section 561 of this title](./chapter-012-river-and-harbor-improvements-generally.md#section-561), referred to in text, was repealed by Pub. L. 115–270, title I, § 1166(c), Oct. 23, 2018, 132 Stat. 3798.
-
-The Civil Functions Appropriations Act, 1936, Public Law 75–208, referred to in text, may mean the War Department Civil Appropriation Act, 1938, act July 19, 1937, ch. 511, 50 Stat. 515, 518, which amended act June 22, 1936, ch. 688, § 5, by adding the proviso classified to [section 701h of this title](./chapter-015-flood-control.md#section-701h).
-
-Sections 426i–1 and 701b–13 of this title, referred to in text, were repealed by Pub. L. 113–121, title I, § 1014(c)(2), (3), June 10, 2014, 128 Stat. 1222.
-
-#### Codification
-Section was enacted as part of the Energy and Water Development Appropriations Act, 2006, and not as part of the Water Resources Development Act of 1986 which comprises this chapter.
-
-#### Prior Provisions
-Provisions similar to those in this section were contained in the following prior appropriation acts:
-
-Pub. L. 108–447, div. C, title I, § 101, Dec. 8, 2004, 118 Stat. 2941; Pub. L. 109–13, div. A, title VI, § 6005, May 11, 2005, 119 Stat. 282.
-
-Pub. L. 108–137, title I, § 101, Dec. 1, 2003, 117 Stat. 1833.
-
-Pub. L. 108–7, div. D, title I, § 101, Feb. 20, 2003, 117 Stat. 138.
-
-Pub. L. 107–66, title I, § 103, Nov. 12, 2001, 115 Stat. 493.
-
-Pub. L. 106–377, § 1(a)(2) [title I, § 102], Oct. 27, 2000, 114 Stat. 1441, 1441A–65.
-
-Pub. L. 106–60, title I, § 102, Sept. 29, 1999, 113 Stat. 487.
-
-
-<a id="section-2224"></a>
-## § 2224. Use of other Federal funds
-
-The non-Federal interest for a water resources study or project may use, and the Secretary shall accept, funds provided by a Federal agency under any other Federal program, to satisfy, in whole or in part, the non-Federal share of the cost of the study or project if the Federal agency that provides the funds determines that the funds are authorized to be used to carry out the study or project.
-
-### Statutory Notes
-
-#### Codification
-Section was enacted as part of the Water Resources Development Act of 2007, and not as part of the Water Resources Development Act of 1986 which comprises this chapter.
-
-#### “Secretary” Defined
-Secretary means the Secretary of the Army, see section 2 of Pub. L. 110–114, set out as a note under [section 2201 of this title](./chapter-036-water-resources-development.md#section-2201).
-
-
-<a id="section-2225"></a>
-## § 2225. Transfer of excess credit
-**(a) Application of credit**
-
-(1) **In general** — Subject to subsection (b), the Secretary may apply credit for in-kind contributions provided by a non-Federal interest that are in excess of the required non-Federal cost share for a water resources development study or project toward the required non-Federal cost share for a different water resources development study or project.
-
-(2) **Application prior to completion of project** — On request of a non-Federal interest, the credit described in paragraph (1) may be applied prior to completion of a study or project, if the credit amount is verified by the Secretary.
-
-**(b) Restrictions**
-
-(1) **In general** — Except for subsection (a)(4)(D)(i) of that section, the requirements of [section 1962d–5b of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1962d–5b&num=0&edition=prelim) (as amended by section 1018(a)) shall apply to any credit under this section.
-
-(2) **Conditions** — Credit in excess of the non-Federal share for a study or project may be approved under this section only if—
-
-  (A) the non-Federal interest submits a comprehensive plan to the Secretary that identifies—
-
-    (i) the studies and projects for which the non-Federal interest intends to provide in-kind contributions for credit that are in excess of the non-Federal cost share for the study or project; and
-
-    (ii) the authorized studies and projects to which that excess credit would be applied;
-
-  (B) the Secretary approves the comprehensive plan; and
-
-  (C) the total amount of credit does not exceed the total non-Federal share for the studies and projects in the approved comprehensive plan.
-
-**(c) Additional criteria** In evaluating a request to apply credit in excess of the non-Federal share for a study or project toward a different study or project, the Secretary shall consider whether applying that credit will—
-
-(1) help to expedite the completion of a project or group of projects;
-
-(2) reduce costs to the Federal Government; and
-
-(3) aid the completion of a project that provides significant flood risk reduction or environmental benefits.
-
-**(d) Termination of authority** The authority provided in this section shall terminate 10 years after June 10, 2014.
-
-**(e) Report**
-
-(1) **Deadlines**
-
-  (A) *In general* — Not later than 2 years after June 10, 2014, and once every 2 years thereafter, the Secretary shall submit to the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives and make publicly available an interim report on the use of the authority under this section.
-
-  (B) *Final report* — Not later than 10 years after June 10, 2014, the Secretary shall submit to the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives and make publicly available a final report on the use of the authority under this section.
-
-(2) **Inclusions** — The reports described in paragraph (1) shall include—
-
-  (A) a description of the use of the authority under this section during the reporting period;
-
-  (B) an assessment of the impact of the authority under this section on the time required to complete projects; and
-
-  (C) an assessment of the impact of the authority under this section on other water resources projects.
-
-### Statutory Notes
-
-#### References in Text
-Section 1018(a), referred to in subsec. (b)(1), means section 1018(a) of Pub. L. 113–121.
-
-#### Codification
-Section was enacted as part of the Water Resources Reform and Development Act of 2014, and not as part of the Water Resources Development Act of 1986 which comprises this chapter.
-
-#### Amendments
-2016—Subsec. (a). Pub. L. 114–322 substituted “Application of credit” for “In general” in subsec. heading, designated existing provisions as par. (1) and inserted par. (1) heading, and added par. (2).
-
-#### “Secretary” Defined
-Secretary means the Secretary of the Army, see section 2 of Pub. L. 113–121, set out as a note under [section 2201 of this title](./chapter-036-water-resources-development.md#section-2201).
-
-
-<a id="section-2226"></a>
-## § 2226. Crediting authority for federally authorized navigation projects
-
-A non-Federal interest may carry out operation and maintenance activities for an authorized navigation project, subject to the condition that the non-Federal interest complies with all Federal laws and regulations applicable to such operation and maintenance activities, and may receive credit for the costs incurred by the non-Federal interest in carrying out such activities towards the share of construction costs of that non-Federal interest for another element of the same project or another authorized navigation project, except that in no instance may such credit exceed 20 percent of the total costs associated with construction of the general navigation features of the project for which such credit may be applied pursuant to this section.
-
-### Statutory Notes
-
-#### Codification
-Section was enacted as part of the Water Resources Reform and Development Act of 2014, and not as part of the Water Resources Development Act of 1986 which comprises this chapter.
-
-
-<a id="section-2227"></a>
-## § 2227. Credit or reimbursement
-**(a) Requests for credits** With respect to an authorized flood damage reduction project, or separable element thereof, that has been constructed by a non-Federal interest under section 701b–13 11 See References in Text note below. of this title, or an authorized coastal navigation project that has been constructed by the Corps of Engineers pursuant to [section 561 of this title](./chapter-012-river-and-harbor-improvements-generally.md#section-561) before October 23, 2018, the Secretary may provide to the non-Federal interest, at the request of the non-Federal interest, a credit in an amount equal to the estimated Federal share of the cost of the project or separable element, in lieu of providing to the non-Federal interest a reimbursement in that amount or reimbursement of funds of an equivalent amount, subject to the availability of appropriations.
-
-**(b) Application of credits** At the request of the non-Federal interest, the Secretary may apply all or a portion of such credit to the share of the cost of the non-Federal interest of carrying out other flood damage reduction and coastal navigation projects or studies.
-
-**(c) Application of reimbursement** At the request of the non-Federal interest, the Secretary may apply such funds, subject to the availability of appropriations, equal to the share of the cost of the non-Federal interest of carrying out other flood damage reduction and coastal navigation projects or studies.
-
-### Statutory Notes
-
-#### References in Text
-[Section 701b–13 of this title](./chapter-015-flood-control.md#section-701b-13), referred to in subsec. (a), was repealed by Pub. L. 113–121, title I, §1014(c)(3), June 10, 2014, 128 Stat. 1222.
-
-#### Amendments
-2018—Pub. L. 115–270 amended section generally. Prior to amendment, section related to credit in lieu of reimbursement.
-
-2016—Subsec. (a). Pub. L. 114–322, § 1171(1), substituted “for which a written agreement with the Corps of Engineers for construction was finalized on or before December 31, 2014, under [section 701b–13 of this title](./chapter-015-flood-control.md#section-701b-13) (as it existed before the repeal made by section 1014(c)(3))” for “that has been constructed by a non-Federal interest under [section 701b–13 of this title](./chapter-015-flood-control.md#section-701b-13) before June 10, 2014”.
-
-Subsec. (b). Pub. L. 114–322, § 1171(2), substituted “non-Federal share of the cost of carrying out other water resources development projects or studies of the non-Federal interest” for “share of the cost of the non-Federal interest of carrying out other flood damage reduction projects or studies”.
-
-#### Codification
-Section was enacted as part of the Water Resources Reform and Development Act of 2014, and not as part of the Water Resources Development Act of 1986 which comprises this chapter.
-
-#### “Secretary” Defined
-Secretary means the Secretary of the Army, see section 2 of Pub. L. 113–121, set out as a note under [section 2201 of this title](./chapter-036-water-resources-development.md#section-2201).
-
-
-<a id="section-2231"></a>
-## § 2231. Water resources projects on Federal land
-**(a) In general** Subject to subsection (b), the Secretary may carry out an authorized water resources development project on Federal land that is under the administrative jurisdiction of another Federal agency where the cost of the acquisition of such Federal land has been paid for by the non-Federal interest for the project.
-
-**(b) MOU required** The Secretary may carry out a project pursuant to subsection (a) only after the non-Federal interest has entered into a memorandum of understanding with the Federal agency that includes such terms and conditions as the Secretary determines to be necessary.
-
-**(c) Applicability** Nothing in this section alters any non-Federal cost-sharing requirements for the project.
-
-### Statutory Notes
-
-#### Codification
-Section was enacted as part of the Water Resources Reform and Development Act of 2014, and not as part of the Water Resources Development Act of 1986 which comprises this chapter.
-
-#### “Secretary” Defined
-Secretary means the Secretary of the Army, see section 2 of Pub. L. 113–121, set out as a note under [section 2201 of this title](./chapter-036-water-resources-development.md#section-2201).
-
-
-<a id="section-2232"></a>
-## § 2232. Clarification of impacts to other Federal facilities
-
-In any case where the modification or construction of a water resources development project carried out by the Secretary adversely impacts other Federal facilities, the Secretary may accept from other Federal agencies such funds as may be necessary to address the adverse impact, including by removing, relocating, or reconstructing those facilities.
-
-### Statutory Notes
-
-#### Codification
-Section was enacted as part of the Water Resources Reform and Development Act of 2014, and not as part of the Water Resources Development Act of 1986 which comprises this chapter.
-
-#### “Secretary” Defined
-Secretary means the Secretary of the Army, see section 2 of Pub. L. 113–121, set out as a note under [section 2201 of this title](./chapter-036-water-resources-development.md#section-2201).
-
-
-<a id="section-2233"></a>
-## § 2233. Study of water resources development projects by non-Federal interests
-**(a) Submission to Secretary**
-
-(1) **In general** — A non-Federal interest may undertake a federally authorized feasibility study of a proposed water resources development project and submit the study to the Secretary.
-
-(2) **Guidelines** — To assist non-Federal interests, the Secretary, as soon as practicable, shall issue guidelines for feasibility studies of water resources development projects to provide sufficient information for the formulation of the studies.
-
-**(b) Review by Secretary** The Secretary shall review each feasibility study received under subsection (a)(1) for the purpose of determining whether or not the study, and the process under which the study was developed, each comply with Federal laws and regulations applicable to feasibility studies of water resources development projects.
-
-**(c) Submission to Congress**
-
-(1) **Review and submission of studies to Congress** — Not later than 180 days after the date of receipt of a feasibility study of a project under subsection (a)(1), the Secretary shall submit to the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a report that describes—
-
-  (A) the results of the Secretary’s review of the study under subsection (b), including a determination of whether the project is feasible;
-
-  (B) any recommendations the Secretary may have concerning the plan or design of the project; and
-
-  (C) any conditions the Secretary may require for construction of the project.
-
-(2) **Limitation** — The completion of the review by the Secretary of a feasibility study that has been submitted under subsection (a)(1) may not be delayed as a result of consideration being given to changes in policy or priority with respect to project consideration.
-
-**(d) Credit** If a project for which a feasibility study has been submitted under subsection (a)(1) is authorized by a Federal law enacted after the date of the submission to Congress under subsection (c), the Secretary shall credit toward the non-Federal share of the cost of construction of the project an amount equal to the portion of the cost of developing the study that would have been the responsibility of the United States if the study had been developed by the Secretary.
-
-**(e) Review and technical assistance**
-
-(1) **Review** — The Secretary may accept and expend funds provided by non-Federal interests to undertake reviews, inspections, certifications, and other activities that are the responsibility of the Secretary in carrying out this section.
-
-(2) **Technical assistance** — At the request of a non-Federal interest, the Secretary shall provide to the non-Federal interest technical assistance relating to any aspect of a feasibility study if the non-Federal interest contracts with the Secretary to pay all costs of providing such technical assistance.
-
-(3) **Limitation** — Funds provided by non-Federal interests under this subsection shall not be eligible for credit under subsection (d) or reimbursement.
-
-(4) **Impartial decisionmaking** — In carrying out this section, the Secretary shall ensure that the use of funds accepted from a non-Federal interest will not affect the impartial decisionmaking of the Secretary, either substantively or procedurally.
-
-(5) **Savings provision** — The provision of technical assistance by the Secretary under paragraph (2)—
-
-  (A) shall not be considered to be an approval or endorsement of the feasibility study; and
-
-  (B) shall not affect the responsibilities of the Secretary under subsections (b) and (c).
-
-### Statutory Notes
-
-#### Amendments
-2018—Subsec. (a)(1). Pub. L. 115–270, § 1152(1), inserted “federally authorized” before “feasibility study”.
-
-Subsec. (c). Pub. L. 115–270, § 1152(2), amended subsec. (c) generally. Prior to amendment, text read as follows: “Not later than 180 days after the date of receipt of a feasibility study of a project under subsection (a)(1), the Secretary shall submit to the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a report that describes—
-
-“(1) the results of the Secretary’s review of the study under subsection (b), including a determination of whether the project is feasible;
-
-“(2) any recommendations the Secretary may have concerning the plan or design of the project; and
-
-“(3) any conditions the Secretary may require for construction of the project.”
-
-Subsec. (e). Pub. L. 115–270, § 1152(3), amended subsec. (e) generally. Prior to amendment, text read as follows “At the request of a non-Federal interest, the Secretary may provide to the non-Federal interest technical assistance relating to any aspect of a feasibility study if the non-Federal interest contracts with the Secretary to pay all costs of providing such technical assistance.”.
-
-2016—Subsec. (e). Pub. L. 114–322 added subsec. (e).
-
-2014—Pub. L. 113–121 amended section generally. Prior to amendment, section related to studies of projects by non-Federal interests.
-
-#### Short Title
-For short title of title II of Pub. L. 99–662, enacting this subchapter, as the Harbor Development and Navigation Improvement Act of 1986, see section 215 of Pub. L. 99–662, set out as a note under [section 2201 of this title](./chapter-036-water-resources-development.md#section-2201).
-
-
-<a id="section-2234"></a>
-## § 2234. Construction of water resources development projects by non-Federal interests
-**(a) Water resources development project defined** In this section, the term “water resources development project” means a project recommendation that results from—
-
-(1) a feasibility report, as such term is defined in section 2282d(f) 11 See References in Text note below. of this title;
-
-(2) a completed feasibility study developed under [section 2231 of this title](./chapter-036-water-resources-development.md#section-2231); or
-
-(3) a final feasibility study for water resources development and conservation and other purposes that is specifically authorized by Congress to be carried out by the Secretary.
-
-**(b) Authority**
-
-(1) **In general** — A non-Federal interest may carry out a federally authorized water resources development project, or separable element thereof—
-
-  (A) in accordance with a plan approved by the Secretary for the project or separable element; and
-
-  (B) subject to any conditions that the Secretary may require, including any conditions specified under [section 2231(c)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section2231/c/3&num=0&edition=prelim).
-
-(2) **Conditions** — Before carrying out a water resources development project, or separable element thereof, under this section, a non-Federal interest shall—
-
-  (A) obtain any permit or approval required in connection with the project or separable element under Federal or State law, except as provided in paragraph (3); and
-
-  (B) ensure that a final environmental impact statement or environmental assessment, as appropriate, for the project or separable element has been filed.
-
-(3) **Permit exception**
-
-  (A) *In general* — For a project described in subsection (a)(1) or subsection (a)(3), or a separable element thereof, with respect to which a written agreement described in subparagraph (B) has been entered into, a non-Federal interest that carries out a project under this section shall not be required to obtain any Federal permits or approvals that would not be required if the Secretary carried out the project or separable element unless significant new circumstances or information relevant to environmental concerns or compliance have arisen since development of the project recommendation.
-
-  (B) *Written agreement* — For purposes of this paragraph, a written agreement shall provide that the non-Federal interest shall comply with the same legal and technical requirements that would apply if the project or separable element were carried out by the Secretary, including all mitigation required to offset environmental impacts of the project or separable element as determined by the Secretary.
-
-  (C) *Certifications* — Notwithstanding subparagraph (A), if a non-Federal interest carrying out a project under this section would, in the absence of a written agreement entered into under this paragraph, be required to obtain a certification from a State under Federal law to carry out the project, such certification shall still be required if a written agreement is entered into with respect to the project under this paragraph.
-
-(4) **Data sharing**
-
-  (A) *In general* — If a non-Federal interest for a water resources development project begins to carry out that water resources development project under this section, the non-Federal interest may request that the Secretary transfer to the non-Federal interest all relevant data and documentation under the control of the Secretary with respect to that water resources development project.
-
-  (B) *Deadline* — Except as provided in subparagraph (C), the Secretary shall transfer the data and documentation requested by a non-Federal interest under subparagraph (A) not later than the date that is 90 days after the date on which the non-Federal interest so requests such data and documentation.
-
-  (C) *Limitation* — Nothing in this paragraph obligates the Secretary to share any data or documentation that the Secretary considers to be proprietary information.
-
-**(c) Studies and engineering**
-
-(1) **In general** — When requested by an appropriate non-Federal interest, the Secretary shall undertake all necessary studies, engineering, and technical assistance on construction for any project to be undertaken under subsection (b), and provide technical assistance in obtaining all necessary permits for the construction, if the non-Federal interest contracts with the Secretary to furnish the United States funds for the studies, engineering, or technical assistance on construction in the period during which the studies, engineering, or technical assistance on construction are being conducted.
-
-(2) **No waiver** — Nothing in this section may be construed to waive any requirement of [section 3142 of title 40](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40-section3142&num=0&edition=prelim).
-
-(3) **Limitation** — Funds provided by non-Federal interests under this subsection shall not be eligible for credit or reimbursement under subsection (d).
-
-(4) **Impartial decisionmaking** — In carrying out this section, the Secretary shall ensure that the use of funds accepted from a non-Federal interest will not affect the impartial decisionmaking of the Secretary, either substantively or procedurally.
-
-**(d) Credit or reimbursement**
-
-(1) **General rule** — Subject to paragraph (3), a project or separable element of a project carried out by a non-Federal interest under this section shall be eligible for credit or reimbursement for the Federal share of work carried out on a project or separable element of a project if—
-
-  (A) before initiation of construction of the project or separable element—
-
-    (i) the Secretary approves the plans for construction of the project or separable element of the project by the non-Federal interest;
-
-    (ii) the Secretary determines, before approval of the plans, that the project or separable element of the project is feasible; and
-
-    (iii) the non-Federal interest enters into a written agreement with the Secretary under [section 1962d–5b of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1962d–5b&num=0&edition=prelim), including an agreement to pay the non-Federal share, if any, of the cost of operation and maintenance of the project; and
-
-  (B) the Secretary determines that all Federal laws and regulations applicable to the construction of a water resources development project, and any conditions identified under subsection (b)(1)(B), were complied with by the non-Federal interest during construction of the project or separable element of the project.
-
-(2) **Application of credit** — The Secretary may apply credit toward—
-
-  (A) the non-Federal share of authorized separable elements of the same project; or
-
-  (B) subject to the requirements of this section and [section 2223 of this title](./chapter-036-water-resources-development.md#section-2223), at the request of the non-Federal interest, the non-Federal share of a different water resources development project.
-
-(3) **Requirements** — The Secretary may only apply credit or provide reimbursement under paragraph (1) if—
-
-  (A) Congress has authorized construction of the project or separable element of the project;
-
-  (B) the Secretary certifies that the project has been constructed in accordance with—
-
-    (i) all applicable permits or approvals; and
-
-    (ii) this section; and
-
-  (C) in the case of reimbursement, appropriations are provided by Congress for such purpose.
-
-(4) **Monitoring** — The Secretary shall regularly monitor and audit any water resources development project, or separable element of a water resources development project, constructed by a non-Federal interest under this section to ensure that—
-
-  (A) the construction is carried out in compliance with the requirements of this section; and
-
-  (B) the costs of the construction are reasonable.
-
-(5) **Discrete segments**
-
-  (A) *In general* — The Secretary may authorize credit or reimbursement under this subsection for carrying out a discrete segment of a federally authorized water resources development project, or separable element thereof, before final completion of the project or separable element if—
-
-    (i) except as provided in clause (ii), the Secretary determines that the discrete segment satisfies the requirements of paragraphs (1) through (4) in the same manner as the project or separable element; and
-
-    (ii) notwithstanding paragraph (1)(A)(ii), the Secretary determines, before the approval of the plans under paragraph (1)(A)(i), that the discrete segment is technically feasible and environmentally acceptable.
-
-  (B) *Determination* — Credit or reimbursement may not be made available to a non-Federal interest pursuant to this paragraph until the Secretary determines that—
-
-    (i) the construction of the discrete segment for which credit or reimbursement is requested is complete; and
-
-    (ii) the construction is consistent with the authorization of the applicable water resources development project, or separable element thereof, and the plans approved under paragraph (1)(A)(i).
-
-  (C) *Written agreement*
-
-    (i) *In general* — As part of the written agreement required under paragraph (1)(A)(iii), a non-Federal interest to be eligible for credit or reimbursement under this paragraph shall—
-
-      (I) identify any discrete segment that the non-Federal interest may carry out; and
-
-      (II) agree to the completion of the water resources development project, or separable element thereof, with respect to which the discrete segment is a part and establish a timeframe for such completion.
-
-    (ii) *Remittance* — If a non-Federal interest fails to complete a water resources development project, or separable element thereof, that it agreed to complete under clause (i)(II), the non-Federal interest shall remit any reimbursements received under this paragraph for a discrete segment of such project or separable element.
-
-  (D) *Discrete segment defined* — In this paragraph, the term “discrete segment” means a physical portion of a water resources development project to be carried out, or separable element thereof—
-
-    (i) described by a non-Federal interest in a written agreement required under paragraph (1)(A)(iii); and
-
-    (ii) that the non-Federal interest can operate and maintain, independently and without creating a hazard, in advance of final completion of the water resources development project, or separable element thereof.
-
-**(e) Notification of committees** If a non-Federal interest notifies the Secretary that the non-Federal interest intends to carry out a project, or separable element thereof, under this section, the Secretary shall provide written notice to the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives concerning the intent of the non-Federal interest.
-
-**(f) Operation and maintenance** Whenever a non-Federal interest carries out improvements to a federally authorized harbor or inland harbor, the Secretary shall be responsible for operation and maintenance in accordance with [section 2211(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section2211/b&num=0&edition=prelim) if—
-
-(1) before construction of the improvements—
-
-  (A) the Secretary determines that the improvements are feasible and consistent with the purposes of this subchapter; and
-
-  (B) the Secretary and the non-Federal interest execute a written agreement relating to operation and maintenance of the improvements;
-
-(2) the Secretary certifies that the project or separable element of the project is constructed in accordance with applicable permits and appropriate engineering and design standards; and
-
-(3) the Secretary does not find that the project or separable element is no longer feasible.
-
-### Statutory Notes
-
-#### References in Text
-[Section 2282d(f) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section2282d/f&num=0&edition=prelim), referred to in subsec. (a)(1), was redesignated [section 2282(g) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section2282/g&num=0&edition=prelim) by Pub. L. 115–270, title I, § 1332(a)(3), Oct. 23, 2018, 132 Stat. 3834.
-
-#### Amendments
-2018—Subsec. (b)(1). Pub. L. 115–270, § 1153(1)(A), inserted “federally authorized” before “water resources development project” in introductory provisions.
-
-Subsec. (b)(2)(A). Pub. L. 115–270, § 1153(1)(B), inserted “, except as provided in paragraph (3)” after “Federal or State law”.
-
-Subsec. (b)(3), (4). Pub. L. 115–270, § 1153(1)(C), added pars. (3) and (4).
-
-Subsec. (c). Pub. L. 115–270, § 1153(2), amended subsec. (c) generally. Prior to amendment, text read as follows: “When requested by an appropriate non-Federal interest, the Secretary may undertake all necessary studies and engineering for any construction to be undertaken under subsection (b), and provide technical assistance in obtaining all necessary permits for the construction, if the non-Federal interest contracts with the Secretary to furnish the United States funds for the studies, engineering, or technical assistance in the period during which the studies and engineering are being conducted.”
-
-Subsec. (d)(3)(C). Pub. L. 115–270, § 1153(3)(A), added subpar. (C).
-
-Subsec. (d)(5). Pub. L. 115–270, § 1153(3)(B)(i), substituted “water resources development” for “flood damage reduction” wherever appearing.
-
-Subsec. (d)(5)(A). Pub. L. 115–270, § 1153(3)(B)(ii), substituted “for carrying out a discrete segment of a federally authorized” for “for a discrete segment of a” in introductory provisions.
-
-Subsec. (d)(5)(D). Pub. L. 115–270, § 1153(3)(B)(iii), inserted “to be carried out” after “project” in introductory provisions.
-
-2016—Subsec. (d)(5). Pub. L. 114–322 added par. (5).
-
-2014—Pub. L. 113–121 amended section generally. Prior to amendment, section related to construction of projects by non-Federal interests.
-
-1990—Subsec. (c). Pub. L. 101–640, § 303(a), inserted after first sentence “The Secretary is further authorized to complete and transmit to the appropriate non-Federal interest any study for improvement to harbors or inland harbors of the United States that is initiated pursuant to [section 577 of this title](./chapter-012-river-and-harbor-improvements-generally.md#section-577) or, upon request of such non-Federal interest, to terminate such study and transmit such partially completed study to the non-Federal interest.”
-
-Subsec. (e). Pub. L. 101–640, § 303(b)(1), redesignated subsec. (e), relating to operation and maintenance, as (f).
-
-Subsec. (e)(1). Pub. L. 101–640, § 303(b)(2), (3), in introductory provisions inserted “including any small navigation project approved pursuant to [section 577 of this title](./chapter-012-river-and-harbor-improvements-generally.md#section-577),” after “or separable element thereof,” and in subpar. (A) inserted “(or, in the case of a small navigation project, after completion of a favorable project report by the Corps of Engineers)” after “authorization of the project”.
-
-Subsec. (f). Pub. L. 101–640, § 303(b)(1), redesignated subsec. (e), relating to operation and maintenance, as (f). Former subsec. (f) redesignated (g).
-
-Subsec. (g). Pub. L. 101–640, § 303(b)(1), redesignated subsec. (f) as (g).
-
-#### Savings Provision
-Pub. L. 113–121, title I, § 1014(d), June 10, 2014, 128 Stat. 1222, provided that: “Nothing in this section [amending this section and [section 2231 of this title](./chapter-036-water-resources-development.md#section-2231), repealing sections 426i–1 and 701b–13 of this title, and repealing provisions set out as a note under this section] may be construed to affect an agreement in effect on the date of enactment of this Act [June 10, 2014], or an agreement that is finalized between the Corps of Engineers and a non-Federal interest on or before December 31, 2014, under any of the following sections (as such sections were in effect on the day before such date of enactment): “(1) Section 204 of the Water Resources Development Act of 1986 ([33 U.S.C. 2232](./chapter-036-water-resources-development.md#section-2232)). “(2) Section 206 of the Water Resources Development Act of 1992 ([33 U.S.C. 426i–1](./chapter-009-protection-of-navigable-waters-and-of-harbor-and-river-improvements-generally.md#section-426i-1)). “(3) Section 211 of the Water Resources Development Act of 1996 ([33 U.S.C. 701b–13](./chapter-015-flood-control.md#section-701b-13)).”
-
-#### Preconstruction Engineering Design Demonstration Program
-Pub. L. 115–270, title I, § 1176, Oct. 23, 2018, 132 Stat. 3801, provided that: “(a) Definition of Environmental Impact Statement.—In this section, the term ‘environmental impact statement’ means the detailed written statement required under section 102(2)(C) of the National Environmental Policy Act of 1969 ([42 U.S.C. 4332(2)(C)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4332/2/C&num=0&edition=prelim)). “(b) Demonstration Program.—The Secretary [of the Army] shall establish a demonstration program to allow a project authorized to execute pursuant to [former] section 211 of the Water Resources Development Act of 1996 ([33 U.S.C. 701b–13](./chapter-015-flood-control.md#section-701b-13)) (as in effect on the day before the date of enactment of the Water Resources Reform and Development Act of 2014 (128 Stat. 1193) [June 10, 2014]) to begin preconstruction engineering and design on a determination by the Secretary that the project is technically feasible, economically justified, and environmentally acceptable. “(c) Requirements.—For each project authorized to begin preconstruction engineering and design under subsection (b)—“(1) the project shall conform to the feasibility study and the environmental impact statement approved by the Secretary; and “(2) the Secretary and the non-Federal sponsor shall jointly agree to the construction design of the project. “(d) Secretary Review of Potential Adverse Impacts.—When reviewing the feasibility study and the environmental impact statement for a project under subsection (b), the Secretary shall follow current USACE Policy, Regulations, and Guidance, to assess potential adverse downstream impacts to the Pearl River Basin. Upon completion of the Secretary’s determination under subsection (b), the non-Federal sponsor shall design the project in a manner that addresses any potential adverse impacts or that provides mitigation in accordance with section 906 of the Water Resources Development Act of 1986 ([33 U.S.C. 2283](./chapter-036-water-resources-development.md#section-2283)). “(e) Sunset.—The authority to carry out the demonstration program under this section shall terminate on the date that is 5 years after the date of enactment of this Act [Oct. 23, 2018]. “(f) Savings Provision.—Nothing in this section supersedes, precludes, or affects any applicable requirements for a project under subsection (b) under—“(1) section 906 of the Water Resources Development Act of 1986 ([33 U.S.C. 2283](./chapter-036-water-resources-development.md#section-2283)); or “(2) the Comprehensive Environmental Response, Compensation, and Liability Act of 1980 ([42 U.S.C. 9601](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section9601&num=0&edition=prelim) et seq.).”
-
-#### Navigation Safety
-Pub. L. 114–322, title I, § 1102, Dec. 16, 2016, 130 Stat. 1633, provided that: “The Secretary [of the Army] shall use section 5 of the Act of March 4, 1915 (38 Stat. 1053, chapter 142; [33 U.S.C. 562](./chapter-012-river-and-harbor-improvements-generally.md#section-562)), to carry out navigation safety activities at those projects eligible for operation and maintenance under section 204(f) of the Water Resources Development Act of 1986 ([33 U.S.C. 2232(f)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section2232/f&num=0&edition=prelim)).”
-
-#### Operation and Maintenance of Certain Projects
-Pub. L. 113–121, title I, § 1016, June 10, 2014, 128 Stat. 1223, provided that: “The Secretary [of the Army] may assume responsibility for operation and maintenance in accordance with section 101(b) of the Water Resources Development Act of 1986 ([33 U.S.C. 2211(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section2211/b&num=0&edition=prelim)) (as amended by section 2102(b)) for improvements to a federally authorized harbor or inland harbor that are carried out by a non-Federal interest prior to December 31, 2014, if the Secretary determines that the requirements under paragraphs (2) and (3) of section 204(f) of the Water Resources Development Act of 1986 ([33 U.S.C. 2232(f)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section2232/f&num=0&edition=prelim)) are met.”
-
-#### Demonstration of Construction of Federal Project by Non-Federal Interests
-Pub. L. 101–640, title IV, § 404, Nov. 28, 1990, 104 Stat. 4646, which related to the demonstration of safety benefits and economic efficiencies of non-Federal management of harbor improvement projects, was repealed by Pub. L. 113–121, title I, § 1014(c)(1), June 10, 2014, 128 Stat. 1222.
-
-
-<a id="section-2235"></a>
-## § 2235. Coordination and scheduling of Federal, State, and local actions
+## § 2211. Coordination and scheduling of Federal, State, and local actions
 **(a) Notice of intent** The Secretary, on request from an appropriate non-Federal interest in the form of a written notice of intent to construct a navigation project for a harbor or inland harbor under [section 2232 of this title](./chapter-036-water-resources-development.md#section-2232) or this section, shall initiate procedures to establish a schedule for consolidating Federal, State, and local agency environmental assessments, project reviews, and issuance of all permits for the construction of the project, including associated access channels, berthing areas, and onshore port-related facilities, before the initiation of construction. The non-Federal interest shall submit, with the notice of intent, studies and documentation, including environmental reviews, that may be required by Federal law for decisionmaking on the proposed project. A State shall not be required to participate in carrying out this section.
 
 **(b) Procedural requirements** Within 15 days after receipt of notice under subsection (a), the Secretary shall publish such notice in the Federal Register. The Secretary also shall provide written notification of the receipt of a notice under subsection (a) to all State and local agencies that may be required to issue permits for the construction of the project or related activities. The Secretary shall solicit the cooperation of those agencies and request their entry into a memorandum of agreement described in subsection (c). Within 30 days after publication of the notice in the Federal Register, State and local agencies that intend to enter into the memorandum of agreement shall notify the Secretary of their intent in writing.
@@ -1236,20 +194,25 @@ Pub. L. 101–640, title IV, § 404, Nov. 28, 1990, 104 Stat. 4646, which relate
 Committee on Public Works and Transportation of House of Representatives treated as referring to Committee on Transportation and Infrastructure of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding [section 21 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section21&num=0&edition=prelim), The Congress.
 
 
-<a id="section-2236"></a>
-## § 2236. Nonapplicability to Saint Lawrence Seaway
+<a id="section-2211a"></a>
+## § 2211a. Nonapplicability to Saint Lawrence Seaway
 
-Sections 2231, 2232, and 2233 of this title do not apply to any harbor or inland harbor project for that portion of the Saint Lawrence Seaway administered by the Saint Lawrence Seaway Development Corporation.
+Sections 2231, 2232, and 2233 of this title do not apply to any harbor or inland harbor project for that portion of the Saint Lawrence Seaway administered by the Great Lakes St. Lawrence Seaway Development Corporation.
+
+### Statutory Notes
+
+#### Amendments
+2020—Pub. L. 116–260 substituted “Great Lakes St. Lawrence Seaway Development Corporation” for “Saint Lawrence Seaway Development Corporation”.
 
 
-<a id="section-2237"></a>
-## § 2237. Construction in usable increments
+<a id="section-2212"></a>
+## § 2212. Construction in usable increments
 
 Any navigation project for a harbor or inland harbor authorized by this subchapter or any other provision of law enacted before, on, or after November 17, 1986, may be constructed in usable increments.
 
 
-<a id="section-2238"></a>
-## § 2238. Port or harbor dues
+<a id="section-2213"></a>
+## § 2213. Port or harbor dues
 **(a) Consent of Congress** Subject to the following conditions, a non-Federal interest may levy port or harbor dues (in the form of tonnage duties or fees) on a vessel engaged in trade entering or departing from a harbor and on cargo loaded on or unloaded from that vessel under clauses 2 and 3 of section 10, and under clause 3 of section 8, of Article 1 of the Constitution:
 
 (1) **Purposes** — Port or harbor dues may be levied only in conjunction with a harbor navigation project whose construction is complete (including a usable increment of the project) and for the following purposes and in amounts not to exceed those necessary to carry out those purposes:
@@ -1373,17 +336,17 @@ In subsec. (d)(1), “[section 60105 of title 46](https://uscode.house.gov/view.
 “(3) make any recommendations that the Comptroller General considers appropriate regarding the compliance of those non-Federal interests with the requirements of this section.”
 
 
-<a id="section-2238a"></a>
-## § 2238a. Information for national security
+<a id="section-2213a"></a>
+## § 2213a. Information for national security
 
 Any non-Federal interest shall provide the United States the information necessary for military readiness planning and harbor, inland harbor, and national security, including information necessary to obtain national security clearances for individuals employed in critical harbor and inland harbor positions.
 
 
-<a id="section-2238b"></a>
-## § 2238b. Authorization of appropriations
+<a id="section-2214"></a>
+## § 2214. Authorization of appropriations
 **(a) Trust fund** There are authorized to be appropriated out of the Harbor Maintenance Trust Fund, established by [section 9505 of title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section9505&num=0&edition=prelim), for each fiscal year such sums as may be necessary to pay—
 
-(1) 100 percent of the eligible operations and maintenance costs of those portions of the Saint Lawrence Seaway operated and maintained by the Saint Lawrence Seaway Development Corporation for such fiscal year; and
+(1) 100 percent of the eligible operations and maintenance costs of those portions of the Saint Lawrence Seaway operated and maintained by the Great Lakes St. Lawrence Seaway Development Corporation for such fiscal year; and
 
 (2) up to 100 percent of the eligible operations and maintenance costs assigned to commercial navigation of all harbors and inland harbors within the United States.
 
@@ -1405,7 +368,21 @@ Any non-Federal interest shall provide the United States the information necessa
 
   (B) *Limitation* — The Secretary shall not allocate funds under paragraph (1) based solely on the tonnage transiting through a harbor.
 
-(3) **Emerging harbor projects** — Notwithstanding any other provision of this subsection, in making expenditures under paragraph (1) for each fiscal year, the Secretary shall allocate for operation and maintenance costs of emerging harbor projects an amount that is not less than 10 percent of the funds made available under this section for fiscal year 2012 to pay the costs described in subsection (a)(2).
+(3) **Emerging harbor projects**
+
+  (A) *Allocation* — Notwithstanding any other provision of this subsection, in making expenditures under paragraph (1) for each fiscal year, the Secretary shall allocate for operation and maintenance costs of emerging harbor projects an amount that is not less than 10 percent of the funds made available under this section for fiscal year 2012 to pay the costs described in subsection (a)(2).
+
+  (B) *Additional uses at emerging harbors*
+
+    (i) *Uses* — In each fiscal year, the Secretary may use not more than $5,000,000 of funds allocated for emerging harbor projects under paragraph (1) to pay for the costs of up to 10 projects for maintenance dredging of a marina or berthing area, in an emerging harbor, that includes an area that is located adjacent to, or is accessible by, a Federal navigation project, subject to clauses (ii) and (iii) of this subparagraph.
+
+    (ii) *Eligible emerging harbors* — The Secretary may use funds as authorized under clause (i) at an emerging harbor that—
+
+      (I) supports commercial activities, including commercial fishing operations, commercial fish processing operations, recreational and sport fishing, and commercial boat yards; or
+
+      (II) supports activities of the Secretary of the department in which the Coast Guard is operating.
+
+    (iii) *Cost-sharing requirements* — The Secretary shall require a non-Federal interest to contribute not less than 25 percent of the costs for maintenance dredging of that portion of a maintenance dredging project described in clause (i) that is located outside of the Federal navigation project, which may be provided as an in-kind contribution, including through the use of dredge equipment owned by non-Federal interest to carry out such activities.
 
 (4) **Management of Great Lakes Navigation System** — To sustain effective and efficient operation and maintenance of the Great Lakes Navigation System, including any navigation feature in the Great Lakes that is a Federal responsibility with respect to operation and maintenance, the Secretary shall manage all of the individually authorized projects in the Great Lakes Navigation System as components of a single, comprehensive system, recognizing the interdependence of the projects.
 
@@ -1473,7 +450,7 @@ Any non-Federal interest shall provide the United States the information necessa
 
     (i) the total future costs required to achieve and maintain the constructed width and depth for the harbors and inland harbors referred to in subsection (a)(2); and
 
-    (ii) the total expected costs for expanded uses at eligible harbors or inland harbors referred to in subsection (d)(2).
+    (ii) the total expected costs for uses described in subsection (c)(3)(B) and expanded uses at eligible harbors or inland harbors referred to in subsection (d)(2).
 
   (B) *Uses of harbors and inland harbors* — In carrying out paragraph (1), the Secretary shall identify current uses (and, to the extent practicable, assess the national, regional, and local benefits of such uses) of harbors and inland harbors referred to in subsection (a)(2), including the use of those harbors for—
 
@@ -1525,9 +502,11 @@ Any non-Federal interest shall provide the United States the information necessa
 
 (1) **Constructed width and depth** — The term “constructed width and depth” means the width and depth to which a project has been constructed, which may not exceed the authorized width and depth of the project.
 
-(2) **Emerging harbor project** — The term “emerging harbor project” means a project that is assigned to a harbor or inland harbor referred to in subsection (a)(2) that transits less than 1,000,000 tons of cargo annually.
+(2) **Emerging harbor** — The term “emerging harbor” means a harbor or inland harbor referred to in subsection (a)(2) that transits less than 1,000,000 tons of cargo annually.
 
-(3) **Expanded uses** — The term “expanded uses” means the following activities:
+(3) **Emerging harbor project** — The term “emerging harbor project” means a project that is assigned to an emerging harbor.
+
+(4) **Expanded uses** — The term “expanded uses” means the following activities:
 
   (A) The maintenance dredging of a berth in a harbor that is accessible to a Federal navigation project and that benefits commercial navigation at the harbor.
 
@@ -1537,7 +516,17 @@ Any non-Federal interest shall provide the United States the information necessa
 
     (ii) such sediment is located in and affects the maintenance of a Federal navigation project or is located in a berth that is accessible to a Federal navigation project.
 
-(4) **Great Lakes Navigation System** — The term “Great Lakes Navigation System” includes—
+  (C) An in-water improvement, if the improvement—
+
+    (i) is for the seismic reinforcement of a wharf or other berthing structure, or the repair or replacement of a deteriorating wharf or other berthing structure, at a port facility;
+
+    (ii) benefits commercial navigation at the harbor; and
+
+    (iii) is located in, or adjacent to, a berth that is accessible to a Federal navigation project.
+
+  (D) An activity to maintain slope stability at a berth in a harbor that is accessible to a Federal navigation project if such activity benefits commercial navigation at the harbor.
+
+(5) **Great Lakes Navigation System** — The term “Great Lakes Navigation System” includes—
 
   (A)
 
@@ -1557,9 +546,7 @@ Any non-Federal interest shall provide the United States the information necessa
 
   (D) areas of the Saint Lawrence River that are operated or maintained by the Federal Government for commercial navigation.
 
-(5) **Harbor maintenance tax** — The term “harbor maintenance tax” means the amounts collected under [section 4461 of title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section4461&num=0&edition=prelim).
-
-(6) **High-use harbor project** — The term “high-use harbor project” means a project that is assigned to a harbor or inland harbor referred to in subsection (a)(2) that transits not less than 10,000,000 tons of cargo annually.
+(6) **Harbor maintenance tax** — The term “harbor maintenance tax” means the amounts collected under [section 4461 of title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section4461&num=0&edition=prelim).
 
 (7) **Moderate-use harbor project** — The term “moderate-use harbor project” means a project that is assigned to a harbor or inland harbor referred to in subsection (a)(2) that transits annually—
 
@@ -1591,6 +578,20 @@ Any non-Federal interest shall provide the United States the information necessa
 Section 1122 of the Water Resources Development Act of 2016, referred to in subsec. (e)(2)(C), is section 1122 of Pub. L. 114–322, title I, § 1122, Dec. 16, 2016, 130 Stat. 1645. Subsecs. (a) to (h) of section 1122 are set out as a note under [section 2326 of this title](./chapter-036-water-resources-development.md#section-2326). Subsec. (i) of section 1122 amended [section 2326 of this title](./chapter-036-water-resources-development.md#section-2326). Subsec. (j) of section 1122 amended [section 1962d–5f of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1962d–5f&num=0&edition=prelim), The Public Health and Welfare. For complete classification of this section to the Code, see Tables.
 
 #### Amendments
+2020—Subsec. (a)(1). Pub. L. 116–260, § 512(c)(5)(B), substituted “Great Lakes St. Lawrence Seaway Development Corporation” for “Saint Lawrence Seaway Development Corporation”.
+
+Subsec. (c)(3). Pub. L. 116–260, § 102(b)(1), designated existing provisions as subpar. (A), inserted heading, and added subpar. (B).
+
+Subsec. (e)(2)(A)(ii). Pub. L. 116–260, § 102(b)(2), inserted “uses described in subsection (c)(3)(B) and” after “costs for”.
+
+Subsec. (f)(2), (3). Pub. L. 116–260, § 102(b)(3)(C), added pars. (2) and (3) and struck out former par. (2) which defined “emerging harbor project”.
+
+Subsec. (f)(4). Pub. L. 116–260, § 102(b)(3)(B), (D), redesignated par. (3) as (4) and added subpars. (C) and (D). Former par. (4) redesignated (5).
+
+Subsec. (f)(5). Pub. L. 116–260, § 102(b)(3)(B), redesignated par. (4) as (5). Former par. (5) redesignated (6).
+
+Subsec. (f)(6). Pub. L. 116–260, § 102(b)(3)(A), (B), redesignated par. (5) as (6) and struck out former par. (6) which defined “high-use harbor project”.
+
 2018—Subsec. (e)(1). Pub. L. 115–270, § 1216(1), substituted “shall assess, and issue a report to Congress on, the” for “shall assess the”.
 
 Subsec. (e)(2)(C). Pub. L. 115–270, § 1216(2), added subpar. (C).
@@ -1611,12 +612,15 @@ Subsec. (e)(3)(B), (C). Pub. L. 114–322, § 1114, added subpar. (B) and redesi
 
 1990—Subsec. (a)(2). Pub. L. 101–640 substituted “up to 100 percent” for “not more than 40 percent”.
 
+#### Authorization of Appropriations for Navigation
+Pub. L. 116–260, div. AA, title I, § 102(a), Dec. 27, 2020, 134 Stat. 2618, provided that: “(a) Authorization“(1) In general“In carrying out subsection (c) of section 210 of the Water Resources Development Act of 1986 ([33 U.S.C. 2238](./chapter-036-water-resources-development.md#section-2238)), for each fiscal year, of the funds made available under such section (including funds appropriated from the Harbor Maintenance Trust Fund), the Secretary [of the Army] shall, to the extent practicable, unless otherwise directed in an Act making appropriations for the Corps of Engineers, make expenditures to pay for operation and maintenance costs of the harbors and inland harbors referred to in subsection (a)(2) of such section, to the extent there are identifiable operations and maintenance needs, of—“(A) not less than 15 percent of such funds for emerging harbor projects, including eligible breakwater and jetty needs at such harbor projects; “(B) not less than 13 percent of such funds for projects that are located within the Great Lakes Navigation System; “(C) 12 percent of such funds for expanded uses carried out at donor ports and energy transfer ports, of which—“(i) ⅓ shall be provided to energy transfer ports; and “(ii) ⅔ shall be provided to donor ports; “(D) not less than 17 percent of such funds for projects that are assigned to commercial strategic seaports; and “(E) any remaining funds for operation and maintenance costs of any harbor or inland harbor referred to in such subsection (a)(2) based on an equitable allocation of such funds among such harbors and inland harbors, in accordance with subsection (c)(1) of such section 210 [[33 U.S.C. 2238](./chapter-036-water-resources-development.md#section-2238)]. “(2) Definitions“In this subsection:“(A) Commercial strategic seaport“The term ‘commercial strategic seaport’ means a commercial harbor supporting the coordination of efficient port operations during peacetime and national defense emergencies that is designated as strategic through the National Port Readiness Network. “(B) Donor port; energy transfer port“The terms ‘donor port’ and ‘energy transfer port’ have the meanings given those terms in section 2106 of the Water Resources Reform and Development Act of 2014 ([33 U.S.C. 2238c](./chapter-036-water-resources-development.md#section-2238c)). “(C) Emerging harbor project; great lakes navigation system“The terms ‘emerging harbor project’ and ‘Great Lakes Navigation System’ have the meanings given those terms in section 210 of the Water Resources Development Act of 1986 ([33 U.S.C. 2238](./chapter-036-water-resources-development.md#section-2238)). “(3) Effective date“This subsection shall take effect on October 1, 2022.”
+
 #### Guidance
 Pub. L. 113–121, title II, § 2102(d), as added by Pub. L. 114–322, title I, § 1112, Dec. 16, 2016, 130 Stat. 1637, provided that: “Not later than 90 days after the date of enactment of the Water Resources Development Act of 2016 [Dec. 16, 2016], the Secretary [of the Army] shall publish on the website of the Corps of Engineers guidance on the implementation of this section [amending this section, [section 2211 of this title](./chapter-036-water-resources-development.md#section-2211), and [section 9505 of Title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section9505&num=0&edition=prelim), Internal Revenue Code] and the amendments made by this section.”
 
 
-<a id="section-2238c"></a>
-## § 2238c. Estimate of harbor maintenance needs
+<a id="section-2215"></a>
+## § 2215. Estimate of harbor maintenance needs
 
 For fiscal year 2014 and each fiscal year thereafter, the President’s budget request submitted pursuant to [section 1105 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1105&num=0&edition=prelim), United States Code, shall include—
 
@@ -1633,8 +637,8 @@ Section was enacted as part of the Moving Ahead for Progress in the 21st Century
 Section effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out as an Effective and Termination Dates of 2012 Amendment note under [section 101 of Title 23](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title23-section101&num=0&edition=prelim), Highways.
 
 
-<a id="section-2238d"></a>
-## § 2238d. Funding for harbor maintenance programs
+<a id="section-2216"></a>
+## § 2216. Funding for harbor maintenance programs
 **(a) Definitions** In this section:
 
 (1) **Total amount of harbor maintenance taxes received** — The term “total amount of harbor maintenance taxes received” means, with respect to a fiscal year, the aggregate of amounts appropriated, transferred, or credited to the Harbor Maintenance Trust Fund under [section 9505(a) of title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section9505/a&num=0&edition=prelim) for that fiscal year as set forth in the current year estimate provided in the President’s budget request for the subsequent fiscal year, submitted pursuant to [section 1105 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1105&num=0&edition=prelim).
@@ -1695,8 +699,76 @@ Subsecs. (c), (d). Pub. L. 114–322, § 1108(2), (3), added subsec. (c) and red
 Secretary means the Secretary of the Army, see section 2 of Pub. L. 113–121, set out as a note under [section 2201 of this title](./chapter-036-water-resources-development.md#section-2201).
 
 
-<a id="section-2239"></a>
-## § 2239. Additional measures at donor ports and energy transfer ports
+<a id="section-2217"></a>
+## § 2217. Budgetary Treatment Expansion and Adjustment for the Harbor Maintenance Trust Fund
+
+Any discretionary appropriation for the Corps of Engineers—
+
+(1) derived from the Harbor Maintenance Trust Fund, in this fiscal year and thereafter, not to exceed the sum of—
+
+  (A) the total amount deposited in the Harbor Maintenance Trust Fund in the fiscal year that is two years prior to the fiscal year for which the appropriation is being made; and
+
+  (B)
+
+    (i) $500,000,000 for fiscal year 2021;
+
+    (ii) $600,000,000 for fiscal year 2022;
+
+    (iii) $700,000,000 for fiscal year 2023;
+
+    (iv) $800,000,000 for fiscal year 2024;
+
+    (v) $900,000,000 for fiscal year 2025;
+
+    (vi) $1,000,000,000 for fiscal year 2026;
+
+    (vii) $1,200,000,000 for fiscal year 2027;
+
+    (viii) $1,300,000,000 for fiscal year 2028;
+
+    (ix) $1,400,000,000 for fiscal year 2029; and
+
+    (x) $1,500,000,000 for fiscal year 2030 and thereafter; and
+
+(2) for the Operation and Maintenance account of the Corps of Engineers which is designated in statute as being to carry out subsection (c) of [section 2238c of this title](./chapter-036-water-resources-development.md#section-2238c), not to exceed—
+
+  (A) $50,000,000 for fiscal year 2021;
+
+  (B) $50,000,000 for fiscal year 2022;
+
+  (C) $56,000,000 for fiscal year 2023;
+
+  (D) $58,000,000 for fiscal year 2024;
+
+  (E) $60,000,000 for fiscal year 2025;
+
+  (F) $62,000,000 for fiscal year 2026;
+
+  (G) $64,000,000 for fiscal year 2027;
+
+  (H) $66,000,000 for fiscal year 2028;
+
+  (I) $68,000,000 for fiscal year 2029; and
+
+  (J) $70,000,000 for fiscal year 2030;
+  shall be subtracted from the estimate of discretionary budget authority and outlays for any estimate of an appropriations Act under the Congressional Budget and Impoundment Control Act of 1974 or the Balanced Budget and Emergency Deficit Control Act of 1985.
+
+### Statutory Notes
+
+#### References in Text
+The Congressional Budget and Impoundment Control Act of 1974, referred to in concluding provisions, is Pub. L. 93–344, July 12, 1974, 88 Stat. 297. For complete classification of this Act to the Code, see Short Title note set out under [section 621 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section621&num=0&edition=prelim), The Congress, and Tables.
+
+The Balanced Budget and Emergency Deficit Control Act of 1985, referred to in concluding provisions, is title II of Pub. L. 99–177, Dec. 12, 1985, 99 Stat. 1038, which enacted chapter 20 (§ 900 et seq.) and sections 654 to 656 of Title 2, The Congress, amended sections 602, 622, 631 to 642, and 651 to 653 of Title 2, sections 1104 to 1106, and 1109 of Title 31, Money and Finance, and [section 911 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section911&num=0&edition=prelim), The Public Health and Welfare, repealed [section 661 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section661&num=0&edition=prelim), enacted provisions set out as notes under [section 900 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section900&num=0&edition=prelim) and [section 911 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section911&num=0&edition=prelim), and amended provisions set out as a note under [section 621 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section621&num=0&edition=prelim). For complete classification of this Act to the Code, see Short Title note set out under [section 900 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section900&num=0&edition=prelim) and Tables.
+
+#### Codification
+Section was enacted as part of the Water Resources Development Act of 2020, and not as part of the Water Resources Development Act of 1986 which comprises this chapter.
+
+#### Amendments
+2020—Pub. L. 116–260 amended section generally. Prior to amendment, text read as follows: “Any discretionary appropriation for the Corps of Engineers derived from the Harbor Maintenance Trust Fund (not to exceed the total amount deposited in the Harbor Maintenance Trust Fund in the prior fiscal year) shall be subtracted from the estimate of discretionary budget authority and outlays for any estimate of an appropriations Act under the Congressional Budget and Impoundment Control Act of 1974 or the Balanced Budget and Emergency Deficit Control Act of 1985: Provided, That the modifications described in this section shall not take effect until the earlier of January 1, 2021 or the date of enactment of legislation authorizing the development of water resources and shall remain in effect thereafter.”
+
+
+<a id="section-2218"></a>
+## § 2218. Additional measures at donor ports and energy transfer ports
 **(a) Definitions** In this section:
 
 (1) **Cargo container** — The term “cargo container” means a cargo container that is 1 Twenty-foot Equivalent Unit.
@@ -1799,7 +871,7 @@ Secretary means the Secretary of the Army, see section 2 of Pub. L. 113–121, s
 
 **(f) Authorization of appropriations**
 
-(1) **In general** — There is authorized to be appropriated to carry out this section $50,000,000 for each of fiscal years 2015 through 2020.
+(1) **In general** — There is authorized to be appropriated to carry out this section $50,000,000 for each of fiscal years 2015 through 2022.
 
 (2) **Division between donor ports, medium-sized donor ports, and energy transfer ports** — For each fiscal year, amounts made available to carry out this section shall be provided in equal amounts to—
 
@@ -1807,16 +879,109 @@ Secretary means the Secretary of the Army, see section 2 of Pub. L. 113–121, s
 
   (B) energy transfer ports.
 
-(3) **Additional appropriations** — If the target total budget resources under subparagraphs (A) through (D) of [section 2238b(b)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section2238b/b/1&num=0&edition=prelim) are met for each of fiscal years 2016 through 2020, there is authorized to be appropriated to carry out this section $50,000,000 for each of fiscal years 2021 through 2025.
-
 **(g) Savings clause** Nothing in this section waives any statutory requirement related to the transportation of merchandise as authorized under chapter 551 of title 46.
 
 ### Statutory Notes
+
+#### Amendment of Section
+Pub. L. 116–260, div. AA, title I, § 104(b), Dec. 27, 2020, 134 Stat. 2621, provided that, effective Oct. 1, 2022, this section is amended as follows:
+
+(1) Subsection (a) is amended—
+
+(A) in paragraph (3)(A)—
+
+(i) by amending clause (ii) to read as follows:
+
+“(ii) at which the total amount of harbor maintenance taxes collected (including the estimated taxes related to domestic cargo and cruise passengers) comprise not less than $15,000,000 annually of the total funding of the Harbor Maintenance Trust Fund on an average annual basis for the previous 3 fiscal years;”;
+
+(ii) in clause (iii)—
+
+(I) by inserting “(including the estimated taxes related to domestic cargo and cruise passengers)” after “taxes collected”; and
+
+(II) by striking “5 fiscal years” and inserting “3 fiscal years”; and
+
+(iii) in clause (iv), by striking “in fiscal year 2012” and inserting “on an average annual basis for the previous 3 fiscal years”;
+
+(B) in paragraph (5)(B), by striking “in fiscal year 2012” each place it appears and inserting “on an average annual basis for the previous 3 fiscal years”;
+
+(C) by redesignating paragraph (8) as paragraph (9) and inserting after paragraph (7) the following:
+
+“(8) Harbor maintenance trust fund
+
+“The term ‘Harbor Maintenance Trust Fund’ means the Harbor Maintenance Trust Fund established by [section 9505 of title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section9505&num=0&edition=prelim).”;
+
+(D) in paragraph (9), as so redesignated—
+
+(i) by amending subparagraph (B) to read as follows:
+
+“(B) at which the total amount of harbor maintenance taxes collected (including the estimated taxes related to domestic cargo and cruise passengers) comprise annually more than $5,000,000 but less than $15,000,000 of the total funding of the Harbor Maintenance Trust Fund on an average annual basis for the previous 3 fiscal years;”;
+
+(ii) in subparagraph (C)—
+
+(I) by inserting “(including the estimated taxes related to domestic cargo and cruise passengers)” after “taxes collected”; and
+
+(II) by striking “5 fiscal years” and inserting “3 fiscal years”; and
+
+(iii) in subparagraph (D), by striking “in fiscal year 2012” and inserting “on an average annual basis for the previous 3 fiscal years”.
+
+(2)(A) by striking subsection (e) and redesignating subsections (f) and (g) as subsections (e) and (f), respectively; and
+
+(B) in subsection (e), as so redesignated, by amending paragraph (1) to read as follows:
+
+“(1) In general
+
+“There are authorized to be appropriated to carry out this section—
+
+“(A) $56,000,000 for fiscal year 2023;
+
+“(B) $58,000,000 for fiscal year 2024;
+
+“(C) $60,000,000 for fiscal year 2025;
+
+“(D) $62,000,000 for fiscal year 2026;
+
+“(E) $64,000,000 for fiscal year 2027;
+
+“(F) $66,000,000 for fiscal year 2028;
+
+“(G) $68,000,000 for fiscal year 2029; and
+
+“(H) $70,000,000 for fiscal year 2030.”
+
+See 2020 Amendment notes below.
 
 #### Codification
 Section was enacted as part of the Water Resources Reform and Development Act of 2014, and not as part of the Water Resources Development Act of 1986 which comprises this chapter.
 
 #### Amendments
+2020—Subsec. (a)(3)(A)(ii). Pub. L. 116–260, § 104(b)(1)(A)(i), amended cl. (ii) generally. Prior to amendment, text read as follows: “at which the total amount of harbor maintenance taxes collected comprise not less than $15,000,000 annually of the total funding of the Harbor Maintenance Trust Fund established under [section 9505 of title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section9505&num=0&edition=prelim);”.
+
+Subsec. (a)(3)(A)(iii). Pub. L. 116–260, § 104(b)(1)(A)(ii), inserted “(including the estimated taxes related to domestic cargo and cruise passengers)” after “taxes collected” and substituted “3 fiscal years” for “5 fiscal years”.
+
+Subsec. (a)(3)(A)(iv). Pub. L. 116–260, § 104(b)(1)(A)(iii), substituted “on an average annual basis for the previous 3 fiscal years” for “in fiscal year 2012”.
+
+Subsec. (a)(5)(B). Pub. L. 116–260, § 104(b)(1)(B), substituted “on an average annual basis for the previous 3 fiscal years” for “in fiscal year 2012” in two places.
+
+Subsec. (a)(8), (9). Pub. L. 116–260, § 104(b)(1)(C), added par. (8) and redesignated former par. (8) as (9).
+
+Subsec. (a)(9)(B). Pub. L. 116–260, § 104(b)(1)(D)(i), amended subpar. (B) generally. Prior to amendment, text read as follows: “at which the total amount of harbor maintenance taxes collected comprise annually more than $5,000,000 but less than $15,000,000 of the total funding of the Harbor Maintenance Trust Fund established under [section 9505 of title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section9505&num=0&edition=prelim);”.
+
+Subsec. (a)(9)(C). Pub. L. 116–260, § 104(b)(1)(D)(ii), inserted “(including the estimated taxes related to domestic cargo and cruise passengers)” after “taxes collected” and substituted “3 fiscal years” for “5 fiscal years”.
+
+Subsec. (a)(9)(D). Pub. L. 116–260, § 104(b)(1)(D)(iii), substituted “on an average annual basis for the previous 3 fiscal years” for “in fiscal year 2012”.
+
+Subsec. (e). Pub. L. 116–260, § 104(b)(2)(A), redesignated subsec. (f) as (e) and struck out former subsec. (e) which related to report to Congress.
+
+Subsec. (e)(1). Pub. L. 116–260, § 104(b)(2)(B), amended par. (1) generally. Prior to amendment, text read as follows: “There is authorized to be appropriated to carry out this section $50,000,000 for each of fiscal years 2015 through 2020.”
+
+Subsec. (f). Pub. L. 116–260, § 104(b)(2)(A), redesignated subsec. (g) as (f). Former subsec. (f) redesignated (e).
+
+Subsec. (f)(1). Pub. L. 116–260, § 104(a)(1), substituted “2022” for “2020”.
+
+Subsec. (f)(3). Pub. L. 116–260, § 104(a)(2), struck out par. (3). Prior to amendment, text read as follows: “If the target total budget resources under subparagraphs (A) through (D) of [section 2238b(b)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section2238b/b/1&num=0&edition=prelim) are met for each of fiscal years 2016 through 2020, there is authorized to be appropriated to carry out this section $50,000,000 for each of fiscal years 2021 through 2025.”
+
+Subsec. (g). Pub. L. 116–260, § 104(b)(2)(A), redesignated subsec. (g) as (f).
+
 2016—Subsec. (a)(2). Pub. L. 114–322, § 1110(1)(B), added par. (2). Former par. (2) redesignated (3).
 
 Subsec. (a)(3). Pub. L. 114–322, § 1110(1)(C), designated existing provisions as subpar. (A) and inserted heading, redesignated former subpars. (A) to (D) as cls. (i) to (iv), respectively, of subpar. (A), and added subpar. (B).
@@ -1851,12 +1016,15 @@ Subsec. (f)(3). Pub. L. 114–322, § 1110(5)(C), substituted “2016 through 20
 
 Subsec. (g). Pub. L. 114–322, § 1110(6), added subsec. (g).
 
+#### Effective Date of 2020 Amendment
+Pub. L. 116–260, div. AA, title I, § 104(b)(3), Dec. 27, 2020, 134 Stat. 2622, provided that: “The amendments made by this subsection [amending this section] shall take effect on October 1, 2022.”
+
 #### “Secretary” Defined
 Secretary means the Secretary of the Army, see section 2 of Pub. L. 113–121, set out as a note under [section 2201 of this title](./chapter-036-water-resources-development.md#section-2201).
 
 
-<a id="section-2240"></a>
-## § 2240. Maintenance of harbors of refuge
+<a id="section-2219"></a>
+## § 2219. Maintenance of harbors of refuge
 
 The Secretary is authorized to maintain federally authorized harbors of refuge to restore and maintain the authorized dimensions of the harbors.
 
@@ -1869,8 +1037,8 @@ Section was enacted as part of the Water Resources Development Act of 2016, and 
 Secretary means the Secretary of the Army, see section 1002 of Pub. L. 114–322, set out as a note under [section 2201 of this title](./chapter-036-water-resources-development.md#section-2201).
 
 
-<a id="section-2241"></a>
-## § 2241. Repealed. Pub. L. 101–640, title IV, § 412(f), Nov. 28, 1990, 104 Stat. 4650
+<a id="section-2220"></a>
+## § 2220. Repealed. Pub. L. 101–640, title IV, § 412(f), Nov. 28, 1990, 104 Stat. 4650
 
 ### Statutory Notes
 
@@ -1883,15 +1051,15 @@ Pub. L. 102–580, title IV, § 405, Oct. 31, 1992, 106 Stat. 4863, as amended b
 Pub. L. 101–640, title IV, § 412, Nov. 28, 1990, 104 Stat. 4650, provided that: “(a) Report.—Within 90 days after the date of the enactment of this Act [Nov. 28, 1990], the Administrator of the Environmental Protection Agency shall submit to the Congress a final report on the feasibility of designating an alternative site to the Mud Dump Site at a distance not less than 20 miles from the shoreline. “(b) Plan.—Within 180 days after the date of the enactment of this Act [Nov. 28, 1990], the Secretary and the Administrator of the Environmental Protection Agency shall submit to Congress a plan for the long-term management of dredged material from the New York/New Jersey Harbor region. The plan shall include—“(1) an identification of the source, quantities, and characteristics of material to be dredged; “(2) a discussion of potential alternative sites for disposal of dredged material, including the feasibility of altering the boundaries of the Mud Dump Site; “(3) measures to reduce the quantities of dredged material proposed for ocean disposal; “(4) measures to reduce the amount of contaminants in materials proposed to be dredged from the Harbor through source controls and decontamination technology; “(5) a program for monitoring the physical, chemical, and biological effects of dumping dredged material at the Mud Dump Site; and “(6) a study of the characteristics of the bottom sediments, including type and distribution. “(c) Demonstration Project.—The Secretary, in consultation with the Administrator of the Environmental Protection Agency, shall implement a demonstration project for disposing on an annual basis up to 10 percent of the material dredged from the New York/New Jersey Harbor region in an environmentally sound manner other than by ocean disposal. Environmentally sound alternatives may include, among others, capping of borrow pits, construction of a containment island, application for landfill cover, habitat restoration, and use of decontamination technology. “(d) Mud Dump Site Defined.—For purposes of this section, the term ‘Mud Dump Site’ means the area located approximately 5¾ miles east of Sandy Hook, New Jersey, with boundary coordinates of 40 degrees, 23 minutes, 48 seconds North, 73 degrees, 51 minutes, 28 seconds West; 40 degrees, 21 minutes, 48 seconds North, 73 degrees, 50 minutes, 00 seconds West; 40 degrees, 21 minutes, 48 seconds North; 73 degrees, 51 minutes, 28 seconds West; and 40 degrees, 23 minutes, 48 seconds North; 73 degrees, 50 minutes, 00 seconds West. “(e) Authorization of Appropriations.—There are authorized to be appropriated to the Secretary for fiscal year 1991, $3,000,000 to implement subsection (b) and $1,000,000 to implement subsection (c), and such sums as may be necessary for fiscal year 1992. “(f) Repeal.—Section 211 of the Water Resources Development Act of 1986 ([33 U.S.C. 2239](./chapter-036-water-resources-development.md#section-2239)) is repealed.”
 
 
-<a id="section-2242"></a>
-## § 2242. Emergency response services
+<a id="section-2221"></a>
+## § 2221. Emergency response services
 **(a) Grants** The Secretary is authorized to make grants to any non-Federal interest operating a project for a harbor for provision of emergency response services in such harbor (including contingency planning, necessary personnel training, and the procurement of equipment and facilities either by the non-Federal interest, by a local agency or municipality, or by a combination of local agencies or municipalities on a cost-reimbursable basis, either by a cooperative agreement, mutual aid plan, or mutual assistance plan entered into between one or more non-Federal interests, public agencies, or local municipalities).
 
 **(b) Authorization of appropriations** There is authorized to be appropriated for fiscal years beginning after September 30, 1986, and ending before October 1, 1992, $5,000,000.
 
 
-<a id="section-2243"></a>
-## § 2243. Definitions
+<a id="section-2222"></a>
+## § 2222. Definitions
 
 For purposes of this subchapter—
 
@@ -1901,7 +1069,7 @@ For purposes of this subchapter—
 
   (A) Except as provided in subparagraph (B), the term “eligible operations and maintenance” means all Federal operations, maintenance, repair, and rehabilitation, including (i) maintenance dredging reasonably necessary to maintain the width and nominal depth of any harbor or inland harbor; (ii) the construction of dredged material disposal facilities that are necessary for the operation and maintenance of any harbor or inland harbor; (iii) dredging and disposing of contaminated sediments that are in or that affect the maintenance of Federal navigation channels; (iv) mitigating for impacts resulting from Federal navigation operation and maintenance activities; and (v) operating and maintaining dredged material disposal facilities.
 
-  (B) As applied to the Saint Lawrence Seaway, the term “eligible operations and maintenance” means all operations, maintenance, repair, and rehabilitation, including maintenance dredging reasonably necessary to keep such Seaway or navigation improvements operated or maintained by the Saint Lawrence Seaway Development Corporation in operation and reasonable state of repair.
+  (B) As applied to the Saint Lawrence Seaway, the term “eligible operations and maintenance” means all operations, maintenance, repair, and rehabilitation, including maintenance dredging reasonably necessary to keep such Seaway or navigation improvements operated or maintained by the Great Lakes St. Lawrence Seaway Development Corporation in operation and reasonable state of repair.
 
   (C) The term “eligible operations and maintenance” does not include providing any lands, easements, or rights-of-way, or performing relocations required for project operations and maintenance.
 
@@ -1943,6 +1111,8 @@ For purposes of this subchapter—
 [Section 202 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section202&num=0&edition=prelim), referred to in pars. (1) and (3), is section 202 of title II of Pub. L. 99–662, Nov. 17, 1986, 100 Stat. 4091, which is not classified to the Code.
 
 #### Amendments
+2020—Par. (2)(B). Pub. L. 116–260 substituted “Great Lakes St. Lawrence Seaway Development Corporation” for “Saint Lawrence Seaway Development Corporation”.
+
 1996—Par. (2)(A). Pub. L. 104–303, § 201(e)(1), inserted “Federal” after “means all” and “(i)” after “including”, and inserted before period at end a semicolon and cls. (ii) to (v).
 
 Par. (2)(C). Pub. L. 104–303, § 201(e)(2), substituted “or rights-of-way,” for “rights-of-way, or dredged material disposal areas,”.
@@ -1954,8 +1124,8 @@ Amendment by Pub. L. 104–303 not to increase, or result in increase of, non-Fe
 For termination of Trust Territory of the Pacific Islands, see note set out preceding [section 1681 of Title 48](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title48-section1681&num=0&edition=prelim), Territories and Insular Possessions.
 
 
-<a id="section-2251"></a>
-## § 2251. Remote and subsistence harbors
+<a id="section-2223"></a>
+## § 2223. Remote and subsistence harbors
 **(a) In general** In conducting a study of harbor and navigation improvements, the Secretary may recommend a project without the need to demonstrate that the project is justified solely by national economic development benefits if the Secretary determines that—
 
 (1)
@@ -2017,8 +1187,8 @@ Subsecs. (c) to (e). Pub. L. 113–121, § 2104(2), added subsecs. (c) to (e).
 Secretary means the Secretary of the Army, see section 2 of Pub. L. 110–114, set out as a note under [section 2201 of this title](./chapter-036-water-resources-development.md#section-2201).
 
 
-<a id="section-2252"></a>
-## § 2252. Arctic deep draft port development partnerships
+<a id="section-2224"></a>
+## § 2224. Arctic deep draft port development partnerships
 **(a) In general** The Secretary may provide technical assistance to non-Federal public entities, including Indian tribes (as defined in [section 5304 of title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5304&num=0&edition=prelim)) and a Native village, Regional Corporation, or Village Corporation (as those terms are defined in [section 1602 of title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1602&num=0&edition=prelim) 11 So in original. Probably should be followed by a closing parenthesis., for the development, construction, operation, and maintenance of channels, harbors, and related infrastructure associated with deep draft ports for purposes of dealing with Arctic development and security needs.
 
 **(b) Acceptance of funds** The Secretary is authorized to accept and expend funds provided by non-Federal public entities, including Indian tribes (as defined in [section 5304 of title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5304&num=0&edition=prelim)) and a Native village, Regional Corporation, or Village Corporation (as those terms are defined in [section 1602 of title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1602&num=0&edition=prelim) 1, to carry out the technical assistance activities described in subsection (a).
@@ -2051,8 +1221,8 @@ Subsec. (e). Pub. L. 114–322, § 1202(c)(3), added subsec. (e).
 Secretary means the Secretary of the Army, see section 2 of Pub. L. 113–121, set out as a note under [section 2201 of this title](./chapter-036-water-resources-development.md#section-2201).
 
 
-<a id="section-2253"></a>
-## § 2253. Inland Waterways Users Board
+<a id="section-2225"></a>
+## § 2225. Inland Waterways Users Board
 **(a) Establishment of Users Board** There is hereby established an Inland Waterway Users Board (hereinafter in this section referred to as the “Users Board”) composed of the eleven members selected by the Secretary, one of whom shall be designated by the Secretary as Chairman. The members shall be selected so as to represent various regions of the country and a spectrum of the primary users and shippers utilizing the inland and intracoastal waterways for commercial purposes. Due consideration shall be given to assure a balance among the members based on the ton-mile shipments of the various categories of commodities shipped on inland waterways. The Secretary of the Army shall designate, and the Secretaries of Agriculture, Transportation, and Commerce may each designate, a representative to act as an observer of the Users Board.
 
 **(b) Duties of Users Board**
@@ -2122,8 +1292,8 @@ Subsecs. (c) to (f). Pub. L. 113–121, § 2002(d)(2), added subsecs. (c) to (f)
 1999—Subsec. (b). Pub. L. 106–109, in last sentence, substituted “Notwithstanding section 3003 of Public Law 104–66 ([31 U.S.C. 1113](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1113&num=0&edition=prelim) note; 109 Stat. 734), the” for “The”.
 
 
-<a id="section-2254"></a>
-## § 2254. Project delivery process reforms
+<a id="section-2226"></a>
+## § 2226. Project delivery process reforms
 **(a) Requirements for qualifying projects** With respect to each qualifying project, the Secretary shall require—
 
 (1) for each project manager, that—
@@ -2190,8 +1360,8 @@ Secretary means the Secretary of the Army, see section 2 of Pub. L. 113–121, s
 Pub. L. 113–121, title II, § 2001, June 10, 2014, 128 Stat. 1260, provided that: “In this title [enacting this section and sections 2211a, 2238b, 2238c, 2243, 2253, 2254, and 2255 of this title and amending sections 2211, 2212, 2238, 2242, 2251, 2282a, and 2327 of this title and [section 9505 of Title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section9505&num=0&edition=prelim), Internal Revenue Code]: “(1) Inland waterways trust fund.—The term ‘Inland Waterways Trust Fund’ means the Inland Waterways Trust Fund established by section 9506(a) of the Internal Revenue Code of 1986 [[26 U.S.C. 9506(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section9506/a&num=0&edition=prelim)]. “(2) Qualifying project.—The term ‘qualifying project’ means any construction or major rehabilitation project for navigation infrastructure of the inland and intracoastal waterways that is—“(A) authorized before, on, or after the date of enactment of this Act [June 10, 2014]; “(B) not completed on the date of enactment of this Act; and “(C) funded at least in part from the Inland Waterways Trust Fund.”
 
 
-<a id="section-2255"></a>
-## § 2255. Annual financial review
+<a id="section-2227"></a>
+## § 2227. Annual financial review
 
 For any inland waterways project that the Secretary carries out that has an estimated total cost of $500,000,000 or more, the Secretary shall submit to the congressional committees referred to in subsection (a) 11 See References in Text note below. an annual financial plan for the project. The plan shall be based on detailed annual estimates of the cost to complete the remaining elements of the project and on reasonable assumptions, as determined by the Secretary, of any future increases of the cost to complete the project.
 
@@ -2207,8 +1377,8 @@ Section was enacted as part of the Water Resources Reform and Development Act of
 Secretary means the Secretary of the Army, see section 2 of Pub. L. 113–121, set out as a note under [section 2201 of this title](./chapter-036-water-resources-development.md#section-2201).
 
 
-<a id="section-2261"></a>
-## § 2261. Assessment of operation and maintenance needs of the Atlantic Intracoastal Waterway and the Gulf Intracoastal Waterway
+<a id="section-2231"></a>
+## § 2231. Assessment of operation and maintenance needs of the Atlantic Intracoastal Waterway and the Gulf Intracoastal Waterway
 **(a) In general** Not later than 90 days after June 10, 2014, the Secretary shall assess the operation and maintenance needs of the Atlantic Intracoastal Waterway and the Gulf Intracoastal Waterway.
 
 **(b) Types of activities** In carrying out subsection (a), the Secretary shall assess the operation and maintenance needs of the Atlantic Intracoastal Waterway and the Gulf Intracoastal Waterway as used for the following purposes:
@@ -2250,8 +1420,8 @@ Section was enacted as part of the Water Resources Reform and Development Act of
 Secretary means the Secretary of the Army, see section 2 of Pub. L. 113–121, set out as a note under [section 2201 of this title](./chapter-036-water-resources-development.md#section-2201).
 
 
-<a id="section-2262"></a>
-## § 2262. Inland waterways riverbank stabilization
+<a id="section-2232"></a>
+## § 2232. Inland waterways riverbank stabilization
 **(a) In general** Not later than 1 year after June 10, 2014, and biennially thereafter, the Secretary shall conduct a study to determine the feasibility of—
 
 (1) carrying out projects for the inland and intracoastal waterways for purposes of—
@@ -2297,8 +1467,47 @@ Section was enacted as part of the Water Resources Reform and Development Act of
 Secretary means the Secretary of the Army, see section 2 of Pub. L. 113–121, set out as a note under [section 2201 of this title](./chapter-036-water-resources-development.md#section-2201).
 
 
-<a id="section-2263"></a>
-## § 2263. Territories development study
+<a id="section-2233"></a>
+## § 2233. High water-low water preparedness
+**(a) Definitions** In this section:
+
+(1) **Bypass** — The term “bypass” means an alternate water route adjacent to a lock and dam on a Federal inland waterway system that can be used for commercial navigation during high water conditions.
+
+(2) **Emergency condition** — The term “emergency condition” means—
+
+  (A) unsafe conditions on a Federal inland waterway system that prevent the operation of commercial vessels, resulting from a major change in water level or flows;
+
+  (B) an obstruction in a Federal inland waterway system, including silt, sediment, rock formation, or a shallow channel;
+
+  (C) an impaired or inoperable Federal lock and dam; or
+
+  (D) any other condition determined appropriate by the Secretary.
+
+**(b) Emergency determination** The Secretary, in consultation with the District Commanders responsible for maintaining any Federal inland waterway system, the users of the waterway system, and the Coast Guard, may make a determination that an emergency condition exists on the waterway system.
+
+**(c) Emergency mitigation project**
+
+(1) **In general** — Subject to paragraph (2) and the availability of appropriations, and in accordance with all applicable Federal requirements, the Secretary may carry out an emergency mitigation project on a Federal inland waterway system with respect to which the Secretary has determined that an emergency condition exists under subsection (b), or on a bypass of such system, to remedy that emergency condition.
+
+(2) **Deadline** — An emergency mitigation project under paragraph (1) shall—
+
+  (A) be initiated by not later than 60 days after the date on which the Secretary makes the applicable determination under subsection (b); and
+
+  (B) to the maximum extent practicable, be completed by not later than 1 year after the date on which the Secretary makes such determination.
+
+**(d) Authorization of appropriations** There is authorized to be appropriated to the Secretary to carry out this section $25,000,000 for each of fiscal years 2022 through 2024, to remain available until expended.
+
+### Statutory Notes
+
+#### Codification
+Section was enacted as part of the Water Resources Development Act of 2020, and not as part of the Water Resources Development Act of 1986 which comprises this chapter.
+
+#### “Secretary” Defined
+Secretary means the Secretary of the Army, see section 2 of div. AA of Pub. L. 116–260, set out as a note under [section 2201 of this title](./chapter-036-water-resources-development.md#section-2201).
+
+
+<a id="section-2234"></a>
+## § 2234. Territories development study
 
 The Secretary is hereby authorized and directed to make studies in cooperation with the Secretary of the Interior and the governments of the Virgin Islands, Guam, American Samoa, the Trust Territory of the Pacific Islands, and the Commonwealth of the Northern Mariana Islands for the purposes of providing plans for the development, utilization, and conservation of water and related land resources of such jurisdiction, at a total cost of $2,000,000 for each of the five studies. Such studies shall include appropriate consideration of the needs for flood protection, wise use of flood plain lands, navigation facilities, hydroelectric power generation, regional water supply and waste water management facilities systems, general recreation facilities, enhancement and control of water quality, enhancement and conservation of fish and wildlife, and other measures for environmental enhancement, economic and human resources development. Such studies shall be compatible with comprehensive development plans formulated by local planning agencies and other interested Federal agencies. Any funds made available under this section for a study for any such jurisdiction which is not needed for such study shall be available to the Secretary to construct authorized water resources projects in such jurisdiction and to implement the findings of such study with appropriate cost sharing as provided in this Act.
 
@@ -2311,15 +1520,15 @@ This Act, referred to in text, is Pub. L. 99–662, Nov. 17, 1986, 100 Stat. 408
 For termination of Trust Territory of the Pacific Islands, see note set out preceding [section 1681 of Title 48](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title48-section1681&num=0&edition=prelim), Territories and Insular Possessions.
 
 
-<a id="section-2263a"></a>
-## § 2263a. Survey of potential for use of certain facilities as hydroelectric facilities
+<a id="section-2235"></a>
+## § 2235. Survey of potential for use of certain facilities as hydroelectric facilities
 **(a) Survey authority** The Secretary shall, upon the request of local public officials, survey the potential and methods for rehabilitating former industrial sites, millraces, and similar types of facilities already constructed for use as hydroelectric facilities. The Secretary shall, upon request, provide technical assistance to local public agencies, including electric cooperatives, in designing projects to rehabilitate sites that have been surveyed, or are qualified for such survey, under this section. The non-Federal share of the cost of carrying out this section shall be 50 percent.
 
 **(b) Authorization of appropriations** There is authorized to be appropriated to the Secretary, to implement this section, the sum of $5,000,000 for each of the fiscal years ending September 30, 1988, through September 30, 1992, such sums to remain available until expended.
 
 
-<a id="section-2264"></a>
-## § 2264. Study of Corps capability to conserve fish and wildlife
+<a id="section-2236"></a>
+## § 2236. Study of Corps capability to conserve fish and wildlife
 **(a) Investigation and study** The Secretary shall investigate and study the feasibility of utilizing the capabilities of the United States Army Corps of Engineers to conserve fish and wildlife (including their habitats) where such fish and wildlife are indigenous to the United States, its possessions, or its territories. The scope of such study shall include the use of engineering or construction capabilities to create alternative habitats, or to improve, enlarge, develop, or otherwise beneficially modify existing habitats of such fish and wildlife. The study shall be conducted in consultation with the Director of the Fish and Wildlife Service of the Department of the Interior, the Assistant Administrator for Fisheries of the National Oceanic and Atmospheric Administration, and the Administrator of the Environmental Protection Agency, and shall be transmitted within the 30-month period beginning on November 17, 1986, by the Secretary to Congress, together with the findings, conclusions, and recommendations of the Chief of Engineers. The Secretary, in consultation with the Federal officers referred to in the preceding sentence, shall undertake a continuing review of the matters covered in the study and shall transmit to Congress, on a biennial basis, any revisions to the study that may be required as a result of the review, together with the findings, conclusions, and recommendations of the Chief of Engineers.
 
 **(b) Projects**
@@ -2413,11 +1622,11 @@ Subsec. (b)(4). Pub. L. 106–541, § 342(2), added par. (4) and struck out form
 For termination, effective May 15, 2000, of provisions of law requiring submittal to Congress of any annual, semiannual, or other regular periodic report listed in House Document No. 103–7 (in which a report required under subsec. (a) of this section is listed on page 68), see section 3003 of Pub. L. 104–66, as amended, set out as a note under [section 1113 of Title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1113&num=0&edition=prelim), Money and Finance.
 
 
-<a id="section-2265"></a>
-## § 2265. Aquatic invasive species research
-**(a) In general** As part of the ongoing activities of the Engineer Research and Development Center to address the spread and impacts of aquatic invasive species, the Secretary shall undertake research on the management and eradication of aquatic invasive species, including Asian carp and zebra mussels.
+<a id="section-2237"></a>
+## § 2237. Aquatic invasive species research
+**(a) In general** As part of the ongoing activities of the Engineer Research and Development Center to address the spread and impacts of aquatic invasive species, the Secretary shall undertake research on the prevention, management, and eradication of aquatic invasive species, including Asian carp, elodea, quagga mussels, and zebra mussels.
 
-**(b) Locations** In carrying out subsection (a), the Secretary shall work with Corps of Engineers district offices representing diverse geographical regions of the continental United States that are impacted by aquatic invasive species, such as the Atlantic, Pacific, and Gulf coasts and the Great Lakes.
+**(b) Locations** In carrying out subsection (a), the Secretary shall work with Corps of Engineers district offices representing diverse geographical regions of the continental United States that are impacted or could be impacted in the future by aquatic invasive species, such as the Atlantic, Pacific, Arctic, and Gulf Coasts, the Great Lakes, and reservoirs operated and maintained by the Secretary.
 
 **(c) Report** Not later than 180 days after October 23, 2018, the Secretary shall submit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Environment and Public Works of the Senate a report recommending a plan to address the spread and impacts of aquatic invasive species.
 
@@ -2426,41 +1635,32 @@ For termination, effective May 15, 2000, of provisions of law requiring submitta
 #### Codification
 Section was enacted as part of the Water Resources Development Act of 2018, and also as part of the America’s Water Infrastructure Act of 2018, and not as part of the Water Resources Development Act of 1986 which comprises this chapter.
 
+#### Amendments
+2020—Subsec. (a). Pub. L. 116–260, § 502(1), substituted “prevention, management,” for “management” and inserted “, elodea, quagga mussels,” after “Asian carp”.
+
+Subsec. (b). Pub. L. 116–260, § 502(2), inserted “or could be impacted in the future” after “that are impacted” and substituted “Pacific, Arctic, and Gulf Coasts, the Great Lakes, and reservoirs operated and maintained by the Secretary.” for “Pacific, and Gulf coasts and the Great Lakes.”
+
 #### “Secretary” Defined
 Secretary means the Secretary of the Army, see section 102 of Pub. L. 115–270, set out as a note under [section 2201 of this title](./chapter-036-water-resources-development.md#section-2201).
 
 
-<a id="section-2266"></a>
-## § 2266. Deauthorization of studies
-**(a)** Notwithstanding section 3003 of Public Law 104–66 ([31 U.S.C. 1113](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1113&num=0&edition=prelim) note; 109 Stat. 734), not later than one year after November 17, 1986, and annually thereafter, the Secretary shall submit to Congress a list of incomplete water resources studies which have been authorized, but for which no funds have been appropriated during the 5 full fiscal years preceding the submission of such list. For each such study the Secretary shall include the following information:
-
-(1) the date of authorization and the manner in which the study was authorized;
-
-(2) a description of the purposes of the study;
-
-(3) a description of funding that has been made available for the study;
-
-(4) a description of any work that has been performed in carrying out the study and the results and conclusions, if any, of such work; and
-
-(5) a description of any work that remains to be done in carrying out the study and the time necessary for and estimated cost of completing such work.
-
-**(b)** Each study included in a list under subsection (a) is not authorized on and after the 90th day following the submission to Congress of such list if no funds have been appropriated for such study after the list is submitted and before such 90th day.
+<a id="section-2238"></a>
+## § 2238. Repealed. Pub. L. 116–260, div. AA, title III, § 360(a), Dec. 27, 2020, 134 Stat. 2732
 
 ### Statutory Notes
 
-#### Amendments
-1999—Subsec. (a). Pub. L. 106–109, in first sentence, substituted “Notwithstanding section 3003 of Public Law 104–66 ([31 U.S.C. 1113](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1113&num=0&edition=prelim) note; 109 Stat. 734), not” for “Not”.
+Section, Pub. L. 99–662, title VII, § 710, Nov. 17, 1986, 100 Stat. 4160; Pub. L. 106–109, § 8(b), Nov. 24, 1999, 113 Stat. 1495, related to deauthorization of studies.
 
 
-<a id="section-2267"></a>
-## § 2267. Columbia River/Arkansas River Basin transfers
+<a id="section-2238a"></a>
+## § 2238a. Columbia River/Arkansas River Basin transfers
 **(a)** No Federal agency shall study or participate in the study of any regional or river basin plan or any plan for any Federal water and related land resource project which has as its objective the transfer of water from the Columbia River Basin to any other region or any other major river basin of the United States, unless such study is approved by the Governors of all affected States.
 
 **(b)** For a period of 5 years after November 17, 1986, no Federal agency shall study or participate in the study of any regional or river basin plan or any plan for any Federal water and related land resource project which has as its objective the transfer of water from the Arkansas River Basin to any other region or any other major river basin of the United States, unless such study is approved by the Governors of all affected States.
 
 
-<a id="section-2267a"></a>
-## § 2267a. Canadian tidal power study
+<a id="section-2238b"></a>
+## § 2238b. Canadian tidal power study
 **(a) Study authority** The Secretary, after consultation with the National Oceanic and Atmospheric Administration, the National Marine Fisheries Service, the United States Fish and Wildlife Service, and other appropriate governmental agencies, and the National Research Council of the National Academy of Sciences, is authorized and directed to undertake studies to identify the impacts on the United States of potential Canadian tidal power development in the Bay of Fundy, and submit such studies to the appropriate committees of the Congress.
 
 **(b) Study phases** The Secretary shall conduct the studies authorized in subsection (a) of this section in two phases:
@@ -2472,8 +1672,8 @@ Secretary means the Secretary of the Army, see section 102 of Pub. L. 115–270,
 **(c) Authorization of appropriations** In the fiscal year ending September 30, 1987, or in any fiscal year thereafter, there is authorized to be appropriated to the Secretary the sum of $1,100,000 for the purposes of subsection (b)(1) of this section, and the sum of $8,900,000 for the purposes of subsection (b)(2) of this section, such sums to remain available until expended.
 
 
-<a id="section-2267b"></a>
-## § 2267b. New York Bight study
+<a id="section-2238b-1"></a>
+## § 2238b–1. New York Bight study
 **(a) Study authority** The Secretary shall study a hydro-environmental monitoring and information system in the New York Bight in the form of a system using computerized buoys and radio telemetry that allows for the continual monitoring (at strategically located sites throughout the New York Bight) of the following: wind, wave, current, salinity and thermal gradients and sea chemistry, in order to measure the effect of changes due to air and water pollution, including changes due to continued dumping in the Bight.
 
 **(b) Study of physical hydraulic model** In addition, the Secretary shall study a proper physical hydraulic model of the New York Bight and for such an offshore model to be tied into the existing inshore physical hydraulic model of the Port of New York and New Jersey operated by the United States Army Corps of Engineers.
@@ -2490,8 +1690,8 @@ Pub. L. 102–580, title III, § 326, Oct. 31, 1992, 106 Stat. 4850, as amended 
 Pub. L. 100–220, title II, subtitle C, Dec. 29, 1987, 101 Stat. 1467, as amended by Pub. L. 100–688, title I, § 1003(b), (c), Nov. 18, 1988, 102 Stat. 4150, directed Administrator of the Environmental Protection Agency, within 3 years after Dec. 29, 1987, in consultation with Administrator of the National Oceanic and Atmospheric Administration and other Federal, State, and interstate agencies, to prepare and submit to Congress a New York Bight Restoration Plan and a detailed schedule and two preliminary reports at specified times, and further directed Administrator to conduct a study of problems associated with plastic debris in the New York Bight and report to Congress within 6 months after Dec. 29, 1987.
 
 
-<a id="section-2268"></a>
-## § 2268. Watershed and river basin assessments
+<a id="section-2238c"></a>
+## § 2238c. Watershed and river basin assessments
 **(a) In general** The Secretary may assess the water resources needs of river basins and watersheds of the United States, including needs relating to—
 
 (1) ecosystem protection and restoration;
@@ -2572,8 +1772,8 @@ Subsec. (g). Pub. L. 110–114, § 2010(3), struck out heading and text of subse
 “(c) There is authorized to be appropriated $5,000,000 for fiscal years beginning after September 30, 1986, to carry out this section.”
 
 
-<a id="section-2269"></a>
-## § 2269. Post-disaster watershed assessments
+<a id="section-2238d"></a>
+## § 2238d. Post-disaster watershed assessments
 **(a) Watershed assessments**
 
 (1) **In general** — In an area that the President has declared a major disaster in accordance with [section 5170 of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5170&num=0&edition=prelim), the Secretary may carry out a watershed assessment to identify, to the maximum extent practicable, specific flood risk reduction, hurricane and storm damage reduction, ecosystem restoration, or navigation project recommendations that will help to rehabilitate and improve the resiliency of damaged infrastructure and natural resources to reduce risks to human life and property from future natural disasters.
@@ -2641,8 +1841,8 @@ Section was enacted as part of the Water Resources Reform and Development Act of
 Secretary means the Secretary of the Army, see section 2 of Pub. L. 113–121, set out as a note under [section 2201 of this title](./chapter-036-water-resources-development.md#section-2201).
 
 
-<a id="section-2280"></a>
-## § 2280. Marine technology review
+<a id="section-2239"></a>
+## § 2239. Marine technology review
 **(a) Dredging needs** The Secretary is authorized to conduct such studies as are necessary to provide a report to Congress on the dredging needs of the national ports and harbors of the United States. The report shall include existing and projected future project depths, types and sizes of ships in use, and world trade patterns, an assessment of the future national waterside infrastructure needs, and a comparison of drafts of United States and selected world ports.
 
 **(b) Authorization of appropriations** There is authorized to be appropriated $2,500,000 to carry out this section for fiscal years beginning after September 30, 1992. Such sums shall remain available until expended.
@@ -2656,8 +1856,8 @@ Section was enacted as part of the Water Resources Development Act of 1992, and 
 Secretary means the Secretary of the Army, see section 3 of Pub. L. 102–580, set out as a note under [section 2201 of this title](./chapter-036-water-resources-development.md#section-2201).
 
 
-<a id="section-2281"></a>
-## § 2281. Tribal partnership program
+<a id="section-2240"></a>
+## § 2240. Tribal partnership program
 **(a) Definition of Indian tribe** In this section, the term “Indian tribe” has the meaning given the term in [section 5304 of title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5304&num=0&edition=prelim).
 
 **(b) Program**
@@ -2684,9 +1884,9 @@ Secretary means the Secretary of the Army, see section 3 of Pub. L. 102–580, s
 
 (4) **Design and construction**
 
-  (A) *In general* — The Secretary may carry out the design and construction of a water resources development project, or separable element of a project, described in paragraph (1) that the Secretary determines is feasible if the Federal share of the cost of the project or separable element is not more than $12,500,000.
+  (A) *In general* — The Secretary may carry out the design and construction of a water resources development project, or separable element of a project, described in paragraph (1) that the Secretary determines is feasible if the Federal share of the cost of the project or separable element is not more than $18,500,000.
 
-  (B) *Specific authorization* — If the Federal share of the cost of the project or separable element described in subparagraph (A) is more than $12,500,000, the Secretary may only carry out the project or separable element if Congress enacts a law authorizing the Secretary to carry out the project or separable element.
+  (B) *Specific authorization* — If the Federal share of the cost of the project or separable element described in subparagraph (A) is more than $18,500,000, the Secretary may only carry out the project or separable element if Congress enacts a law authorizing the Secretary to carry out the project or separable element.
 
 **(c) Consultation and coordination with Secretary of the Interior**
 
@@ -2734,6 +1934,8 @@ Secretary means the Secretary of the Army, see section 3 of Pub. L. 102–580, s
 Section was enacted as part of the Water Resources Development Act of 2000, and not as part of the Water Resources Development Act of 1986 which comprises this chapter.
 
 #### Amendments
+2020—Subsec. (b)(4). Pub. L. 116–260 substituted “$18,500,000” for “$12,500,000” in subpars. (A) and (B).
+
 2018—Subsec. (b)(4). Pub. L. 115–270 amended par. (4) generally. Prior to amendment, text read as follows:
 
 “(A) In general.—The Secretary may carry out the design and construction of a water resources development project described in paragraph (1) that the Secretary determines is feasible if the Federal share of the cost of the project is not more than $10,000,000.
@@ -2770,8 +1972,26 @@ Subsec. (e). Pub. L. 110–114, § 2011(b), substituted “2012” for “2006�
 Secretary means the Secretary of the Army, see section 2 of Pub. L. 106–541, set out as a note under [section 2201 of this title](./chapter-036-water-resources-development.md#section-2201).
 
 
-<a id="section-2282"></a>
-## § 2282. Maximum cost of projects
+<a id="section-2241"></a>
+## § 2241. Subsurface drain systems research and development
+
+Subject to the availability of appropriations, the Secretary, acting through the Director of the Engineer Research and Development Center and, where appropriate, in consultation with other Federal agencies, shall carry out research and development activities relating to the use of subsurface drain systems as—
+
+(1) a flood risk-reduction measure; or
+
+(2) a coastal storm risk-reduction measure.
+
+### Statutory Notes
+
+#### Codification
+Section was enacted as part of the Water Resources Development Act of 2020, and not as part of the Water Resources Development Act of 1986 which comprises this chapter.
+
+#### “Secretary” Defined
+Secretary means the Secretary of the Army, see section 2 of div. AA of Pub. L. 116–260, set out as a note under [section 2201 of this title](./chapter-036-water-resources-development.md#section-2201).
+
+
+<a id="section-2242"></a>
+## § 2242. Maximum cost of projects
 **(a) In general** In order to insure against cost overruns, each total cost set forth with respect to a project for water resources development and conservation and related purposes authorized to be carried out by the Secretary in this Act or in a law enacted after the date of the enactment of this Act, including the Water Resources Development Act of 1988, or in an amendment made by this Act or any later law with respect to such a project shall be the maximum cost of that project, except that such maximum amount—
 
 (1) may be increased by the Secretary for modifications which do not materially alter the scope or functions of the project as authorized, but not by more than 20 percent of the total cost stated for the project in this Act, in any later law, or in an amendment made by this Act or any later law; and
@@ -2803,8 +2023,8 @@ Par. (1). Pub. L. 100–676, § 3(b)(2), inserted “, in any later law,” afte
 Par. (2). Pub. L. 100–676, § 3(b)(3), (4), inserted “or any later law” after “of this Act” in subpars. (A) and (B).
 
 
-<a id="section-2282a"></a>
-## § 2282a. Matters to be addressed in planning
+<a id="section-2243"></a>
+## § 2243. Matters to be addressed in planning
 **(a) In general** Enhancing national economic development (including benefits to particular regions of the Nation not involving the transfer of economic activity to such regions from other regions), the quality of the total environment (including preservation and enhancement of the environment), the well-being of the people of the United States, the prevention of loss of life, and the preservation of cultural and historical values shall be addressed in the formulation and evaluation of water resources projects to be carried out by the Secretary, and the associated benefits and costs, both quantifiable and unquantifiable, and information regarding potential loss of human life that may be associated with flooding and coastal storm events, shall be displayed in the benefits and costs of such projects.
 
 **(b) Assessments** For all feasibility reports for water resources projects completed after December 31, 2007, the Secretary shall assess whether—
@@ -2826,8 +2046,8 @@ Par. (2). Pub. L. 100–676, § 3(b)(3), (4), inserted “or any later law” af
 Pub. L. 102–580, title II, § 214, Oct. 31, 1992, 106 Stat. 4831, directed Comptroller General, not later than 18 months after Oct. 31, 1992, to report to Congress with specific legislative and other recommendations on improving the equitable distribution of water resources development projects in rural areas, prior to repeal by Pub. L. 104–316, title I, § 117, Oct. 19, 1996, 110 Stat. 3835.
 
 
-<a id="section-2282b"></a>
-## § 2282b. Feasibility reports
+<a id="section-2251"></a>
+## § 2251. Feasibility reports
 **(a) Preparation of reports**
 
 (1) **In general** — In the case of any water resources project-related study authorized to be undertaken by the Secretary that results in recommendations concerning a project or the operation of a project and that requires specific authorization by Congress in law or otherwise, the Secretary shall prepare a feasibility report, subject to [section 2215 of this title](./chapter-036-water-resources-development.md#section-2215).
@@ -2846,7 +2066,37 @@ Pub. L. 102–580, title II, § 214, Oct. 31, 1992, 106 Stat. 4831, directed Com
 
 (4) **Feasibility report defined** — In this subsection, the term “feasibility report” means each feasibility report, and any associated environmental impact statement and mitigation plan, prepared by the Corps of Engineers for a water resources project. The term includes a project implementation report prepared under title VI of the Water Resources Development Act of 2000 (114 Stat. 2680–2694), a general reevaluation report, and a limited reevaluation report.
 
-**(b) Repealed. Pub. L. 113–121, title I, § 1002(a)(1), June 10, 2014, 128 Stat. 1198**
+**(b) Federal interest determination**
+
+(1) **In general**
+
+  (A) *Economically disadvantaged communities* — In preparing a feasibility report under subsection (a) for a study that will benefit an economically disadvantaged community, upon request by the non-Federal interest for the study, the Secretary shall first determine the Federal interest in carrying out the study and the projects that may be proposed in the study.
+
+  (B) *Other communities*
+
+    (i) *Authorization* — In preparing a feasibility report under subsection (a) for a study that will benefit a covered community, upon request by the non-Federal interest for the study, the Secretary may, with respect to not more than 3 studies in each fiscal year, first determine the Federal interest in carrying out the study and the projects that may be proposed in the study.
+
+    (ii) *Covered communities* — In this subparagraph, the term “covered community” means a community that—
+
+      (I) is not an economically disadvantaged community; and
+
+      (II) the Secretary finds has a compelling need for the Secretary to make a determination under clause (i).
+
+(2) **Cost share** — The costs of a determination under paragraph (1)—
+
+  (A) shall be at Federal expense; and
+
+  (B) shall not exceed $200,000.
+
+(3) **Deadline** — A determination under paragraph (1) shall be completed by not later than 120 days after the date on which funds are made available to the Secretary to carry out the determination.
+
+(4) **Treatment**
+
+  (A) *Timing* — The period during which a determination is being completed under paragraph (1) for a study shall not be included for purposes of the deadline to complete a final feasibility report under [section 2282c(a)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section2282c/a/1&num=0&edition=prelim).
+
+  (B) *Cost* — The cost of a determination under paragraph (1) shall not be included for purposes of the maximum Federal cost under [section 2282c(a)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section2282c/a/2&num=0&edition=prelim).
+
+(5) **Report to non-Federal interest** — If, based on a determination under paragraph (1), the Secretary determines that a study or project is not in the Federal interest because the project will not result, or is unlikely to result, in a recommended plan that will produce national economic development benefits greater than cost, but may result in a technically sound and environmentally acceptable plan that is otherwise consistent with [section 2281 of this title](./chapter-036-water-resources-development.md#section-2281), the Secretary shall issue a report to the non-Federal interest with recommendations on how the non-Federal interest might modify the proposal such that the project could be in the Federal interest and feasible.
 
 **(c) Projects not specifically authorized by Congress** In the case of any water resources project-related study authorized to be undertaken by the Secretary without specific authorization by Congress in law or otherwise, the Secretary shall prepare a detailed project report.
 
@@ -2900,6 +2150,8 @@ Section 903(b), referred to in subsec. (a)(3)(B), is section 903(b) of Pub. L. 9
 The Water Resources Development Act of 2000, referred to in subsec. (a)(4), is Pub. L. 106–541, Dec. 11, 2000, 114 Stat. 2572. Title VI of the Act is not classified to the Code. For complete classification of this Act to the Code, see Short Title of 2000 Amendment note set out under [section 2201 of this title](./chapter-036-water-resources-development.md#section-2201) and Tables.
 
 #### Amendments
+2020—Subsec. (b). Pub. L. 116–260 added subsec. (b). A prior subsec. (b) was repealed by Pub. L. 113–121, title I, § 1002(a)(1). See 2014 Amendment note below.
+
 2014—Subsec. (a)(1). Pub. L. 113–121, § 1002(a)(2), struck out “perform a reconnaissance study and” after “shall”.
 
 Subsec. (a)(2). Pub. L. 113–121, § 1002(b), inserted at end “A feasibility report shall include a preliminary analysis of the Federal interest and the costs, benefits, and environmental impacts of the project.”
@@ -2916,8 +2168,11 @@ Subsecs. (c) to (f). Pub. L. 110–114, § 2043(b)(2)(B)–(E), added subsec. (c
 
 2000—Subsec. (e). Pub. L. 106–541 added subsec. (e).
 
+#### Summary of Analysis
+Pub. L. 116–260, div. AA, title I, § 116(b), Dec. 27, 2020, 134 Stat. 2628, provided that: “To the maximum extent practicable, the Secretary [of the Army] shall include in each feasibility report developed under section 905 of the Water Resources Development Act of 1986 ([33 U.S.C. 2282](./chapter-036-water-resources-development.md#section-2282)) for a project that contains a flood risk management or hurricane and storm damage risk reduction element, a summary of the natural feature or nature-based feature alternatives, along with their long-term costs and benefits, that were evaluated in the development of the feasibility report, and, if such alternatives were not included in the recommended plan, an explanation of why such alternatives were not included in the recommended plan.”
+
 #### Natural Infrastructure
-Pub. L. 115–270, title I, § 1149(c), Oct. 23, 2018, 132 Stat. 3787, provided that: “In carrying out a feasibility report developed under section 905 of the Water Resources Development Act of 1986 ([33 U.S.C. 2282](./chapter-036-water-resources-development.md#section-2282)) for a project for flood risk management or hurricane and storm damage risk reduction, the Secretary [of the Army] shall consider the use of both traditional and natural infrastructure alternatives, alone or in conjunction with each other, if those alternatives are practicable.”
+Pub. L. 115–270, title I, § 1149(c), Oct. 23, 2018, 132 Stat. 3787, as amended by Pub. L. 116–260, div. AA, title I, § 116(a), Dec. 27, 2020, 134 Stat. 2627, provided that: “In carrying out a feasibility report developed under section 905 of the Water Resources Development Act of 1986 ([33 U.S.C. 2282](./chapter-036-water-resources-development.md#section-2282)) for a project for flood risk management or hurricane and storm damage risk reduction, the Secretary [of the Army] shall consider the use of both traditional and natural feature or nature-based feature alternatives (as such terms are defined in section 1184 of the Water Resources Development Act of 2016 ([32 U.S.C. 2289a](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title32-section2289a&num=0&edition=prelim))), alone or in conjunction with each other, if those alternatives are practicable.”
 
 #### Continuation of Studies
 Pub. L. 113–121, title I, § 1002(d), June 10, 2014, 128 Stat. 1199, provided that: “The Secretary [of the Army] shall continue to carry out a study for which a reconnaissance level investigation has been initiated before the date of enactment of this Act [June 10, 2014] as if this section [amending this section], including the amendments made by this section, had not been enacted.”
@@ -2931,9 +2186,12 @@ Pub. L. 106–541, title II, § 216, Dec. 11, 2000, 114 Stat. 2595, provided tha
 #### Engineering Consulting Services
 Pub. L. 106–541, title II, § 219, Dec. 11, 2000, 114 Stat. 2596, provided that: “In conducting a feasibility study for a water resources project, the Secretary [of the Army], to the maximum extent practicable, should not employ a person for engineering and consulting services if the same person is also employed by the non-Federal interest for such services unless there is only 1 qualified and responsive bidder for such services.”
 
+#### Definitions
+For definition of “economically disadvantaged community” as used in subsec. (b) of this section, see section 160 of div. AA of Pub. L. 116–260, set out as a note under [section 2201 of this title](./chapter-036-water-resources-development.md#section-2201).
 
-<a id="section-2282c"></a>
-## § 2282c. Planning
+
+<a id="section-2252"></a>
+## § 2252. Planning
 **(a) Omitted**
 
 **(b) Planning process improvements** The Chief of Engineers—
@@ -3033,8 +2291,8 @@ Section was enacted as part of the Water Resources Development Act of 2007, and 
 Secretary means the Secretary of the Army, see section 2 of Pub. L. 110–114, set out as a note under [section 2201 of this title](./chapter-036-water-resources-development.md#section-2201).
 
 
-<a id="section-2282d"></a>
-## § 2282d. Submission of reports to Congress
+<a id="section-2253"></a>
+## § 2253. Submission of reports to Congress
 
 Beginning on January 17, 2014, and hereafter, not later than 120 days after the date of the Chief of Engineers Report on a water resource matter, the Assistant Secretary of the Army (Civil Works) shall submit the report to the appropriate authorizing and appropriating committees of the Congress.
 
@@ -3044,8 +2302,8 @@ Beginning on January 17, 2014, and hereafter, not later than 120 days after the 
 Section was enacted as part of the Energy and Water Development and Related Agencies Appropriations Act, 2014, and also as part of the Consolidated Appropriations Act, 2014, and not as part of the Water Resources Development Act of 1986 which comprises this chapter.
 
 
-<a id="section-2282e"></a>
-## § 2282e. Vertical integration and acceleration of studies
+<a id="section-2254"></a>
+## § 2254. Vertical integration and acceleration of studies
 **(a) In general** To the extent practicable, a feasibility study initiated by the Secretary, after June 10, 2014, under [section 2282(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section2282/a&num=0&edition=prelim) shall—
 
 (1) result in the completion of a final feasibility report not later than 3 years after the date of initiation;
@@ -3062,13 +2320,11 @@ Section was enacted as part of the Energy and Water Development and Related Agen
 
 (3) provide written notice to the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives as to the reasons the requirements of subsection (a) are not attainable.
 
-**(c) Termination of authorization** A feasibility study for which the Secretary has issued a determination under subsection (b) is not authorized after the last day of the 1-year period beginning on the date of the determination if the Secretary has not completed the study on or before such last day.
+**(c) Exception**
 
-**(d) Exception**
+(1) **In general** — The Secretary may extend the timeline of a study by a period not to exceed 3 years, if the Secretary determines that the feasibility study is too complex to comply with the requirements of subsection (a).
 
-(1) **In general** — Notwithstanding the requirements of subsection (c), the Secretary may extend the timeline of a study by a period not to exceed 3 years, if the Secretary determines that the feasibility study is too complex to comply with the requirements of subsections (a) and (c).
-
-(2) **Factors** — In making a determination that a study is too complex to comply with the requirements of subsections (a) and (c), the Secretary shall consider—
+(2) **Factors** — In making a determination that a study is too complex to comply with the requirements of subsection (a), the Secretary shall consider—
 
   (A) the type, size, location, scope, and overall cost of the project;
 
@@ -3082,9 +2338,7 @@ Section was enacted as part of the Energy and Water Development and Related Agen
 
 (3) **Notification** — Each time the Secretary makes a determination under this subsection, the Secretary shall provide written notice to the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives as to the results of that determination, including an identification of the specific 1 or more factors used in making the determination that the project is complex.
 
-(4) **Limitation** — The Secretary shall not extend the timeline for a feasibility study for a period of more than 10 years, and any feasibility study that is not completed before that date shall no longer be authorized.
-
-**(e) Reviews** Not later than 90 days after the date of the initiation of a study described in subsection (a) for a project, the Secretary shall—
+**(d) Reviews** Not later than 90 days after the date of the initiation of a study described in subsection (a) for a project, the Secretary shall—
 
 (1) take all steps necessary to initiate the process for completing federally mandated reviews that the Secretary is required to complete as part of the study, including the environmental review process under section 1005;
 
@@ -3092,7 +2346,7 @@ Section was enacted as part of the Energy and Water Development and Related Agen
 
 (3) take all steps necessary to provide information that will enable required reviews and analyses related to the project to be conducted by other agencies in a thorough and timely manner.
 
-**(f) Interim report** Not later than 18 months after June 10, 2014, the Secretary shall submit to the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives and make publicly available a report that describes—
+**(e) Interim report** Not later than 18 months after June 10, 2014, the Secretary shall submit to the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives and make publicly available a report that describes—
 
 (1) the status of the implementation of the planning process under this section, including the number of participating projects;
 
@@ -3100,7 +2354,7 @@ Section was enacted as part of the Energy and Water Development and Related Agen
 
 (3) any recommendations for additional authority necessary to support efforts to expedite the feasibility study process for water resource projects.
 
-**(g) Final report** Not later than 4 years after June 10, 2014, the Secretary shall submit to the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives and make publicly available a report that describes—
+**(f) Final report** Not later than 4 years after June 10, 2014, the Secretary shall submit to the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives and make publicly available a report that describes—
 
 (1) the status of the implementation of this section, including a description of each feasibility study subject to the requirements of this section;
 
@@ -3111,20 +2365,32 @@ Section was enacted as part of the Energy and Water Development and Related Agen
 ### Statutory Notes
 
 #### References in Text
-Section 1005, referred to in subsec. (e)(1), is section 1005 of Pub. L. 113–121, which enacted [section 2349 of this title](./chapter-036-water-resources-development.md#section-2349) and amended generally [section 2348 of this title](./chapter-036-water-resources-development.md#section-2348).
+Section 1005, referred to in subsec. (d)(1), is section 1005 of Pub. L. 113–121, which enacted [section 2349 of this title](./chapter-036-water-resources-development.md#section-2349) and amended generally [section 2348 of this title](./chapter-036-water-resources-development.md#section-2348).
 
 #### Codification
 Section was enacted as part of the Water Resources Reform and Development Act of 2014, and not as part of the Water Resources Development Act of 1986 which comprises this chapter.
 
 #### Amendments
+2020—Subsec. (c). Pub. L. 116–260, § 360(c)(2), redesignated subsec. (d) as (c) and struck out former subsec. (c). Prior to amendment, text read as follows: “A feasibility study for which the Secretary has issued a determination under subsection (b) is not authorized after the last day of the 1-year period beginning on the date of the determination if the Secretary has not completed the study on or before such last day.”
+
+Subsec. (d). Pub. L. 116–260, § 360(c)(2), redesignated subsec. (e) as (d). Former subsec. (d) redesignated (c).
+
+Subsec. (d)(1). Pub. L. 116–260, § 360(c)(1)(A), (B), substituted “The Secretary” for “Notwithstanding the requirements of subsection (c), the Secretary” and “subsection (a)” for “subsections (a) and (c)”.
+
+Subsec. (d)(2). Pub. L. 116–260, § 360(c)(1)(B), substituted “subsection (a)” for “subsections (a) and (c)” in introductory provisions.
+
+Subsec. (d)(4). Pub. L. 116–260, § 360(c)(1)(C), struck out par. (4). Prior to amendment, text read as follows: “The Secretary shall not extend the timeline for a feasibility study for a period of more than 10 years, and any feasibility study that is not completed before that date shall no longer be authorized.”.
+
+Subsecs. (e) to (g). Pub. L. 116–260, § 360(c)(2), redesignated subsecs. (f) and (g) as (e) and (f), respectively. Former subsec. (e) redesignated (d).
+
 2018—Subsec. (d)(4). Pub. L. 115–270 substituted “10 years” for “7 years”.
 
 #### “Secretary” Defined
 Secretary means the Secretary of the Army, see section 2 of Pub. L. 113–121, set out as a note under [section 2201 of this title](./chapter-036-water-resources-development.md#section-2201).
 
 
-<a id="section-2283"></a>
-## § 2283. Annual report to Congress
+<a id="section-2255"></a>
+## § 2255. Annual report to Congress
 **(a) In general** Not later than February 1 of each year, the Secretary shall develop and submit to the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives an annual report, to be entitled “Report to Congress on Future Water Resources Development”, that identifies the following:
 
 (1) **Feasibility reports** — Each feasibility report that meets the criteria established in subsection (c)(1)(A).
@@ -3177,7 +2443,7 @@ Secretary means the Secretary of the Army, see section 2 of Pub. L. 113–121, s
 
       (II) improvement to transportation;
 
-      (III) the national economy;
+      (III) the national, regional, or local economy;
 
       (IV) the environment; or
 
@@ -3192,6 +2458,38 @@ Secretary means the Secretary of the Army, see section 2 of Pub. L. 113–121, s
       (I) that local support exists for the proposed feasibility study or proposed modification to an authorized water resources development project or feasibility study (including the water resources development project that is the subject of the proposed feasibility study or the proposed modification to an authorized feasibility study); and
 
       (II) the financial ability to provide the required non-Federal cost share.
+
+  (D) *Modifications of projects carried out pursuant to continuing authority programs*
+
+    (i) *In general* — With respect to a project being carried out pursuant to a continuing authority program for which a proposed modification is necessary because the project is projected to exceed, in the coming fiscal year, the maximum Federal cost of the project, the Secretary shall include a proposed modification in the annual report if the proposed modification will result in completion of construction the project and the justification for the modification is not the result of a change in the scope of the project.
+
+    (ii) *Inclusion* — For each proposed modification included in an annual report under clause (i), the Secretary shall include in the annual report—
+
+      (I) a justification of why the modification is necessary;
+
+      (II) an estimate of the total cost and timeline required to complete construction of the project; and
+
+      (III) an indication of continued support by the non-Federal interest and the financial ability of the non-Federal interest to provide the required cost-share.
+
+    (iii) *Definition* — For the purposes of this subparagraph, the term “continuing authority program” means any of—
+
+      (I) [section 701r of this title](./chapter-015-flood-control.md#section-701r);
+
+      (II) [section 426g of this title](./chapter-009-protection-of-navigable-waters-and-of-harbor-and-river-improvements-generally.md#section-426g);
+
+      (III) [section 577 of this title](./chapter-012-river-and-harbor-improvements-generally.md#section-577);
+
+      (IV) [section 426i of this title](./chapter-009-protection-of-navigable-waters-and-of-harbor-and-river-improvements-generally.md#section-426i);
+
+      (V) [section 2326 of this title](./chapter-036-water-resources-development.md#section-2326);
+
+      (VI) [section 701s of this title](./chapter-015-flood-control.md#section-701s);
+
+      (VII) [section 2330 of this title](./chapter-036-water-resources-development.md#section-2330);
+
+      (VIII) [section 701g of this title](./chapter-015-flood-control.md#section-701g); and
+
+      (IX) [section 2309a of this title](./chapter-036-water-resources-development.md#section-2309a).
 
 (2) **Transparency** — The Secretary shall include in the annual report, for each feasibility report, proposed feasibility study, and proposed modification to an authorized water resources development project or feasibility study included under paragraph (1)(A)—
 
@@ -3251,9 +2549,11 @@ Secretary means the Secretary of the Army, see section 2 of Pub. L. 113–121, s
 
   (B) *Limitation* — In carrying out the activities described in this section—
 
-    (i) the Secretary shall not include proposals in the appendix of the annual report that otherwise meet the criteria for inclusion in the annual report solely on the basis of the Secretary’s determination that the proposal requires legislative changes to an authorized water resources development project, feasibility study, or environmental infrastructure program; and
+    (i) the Secretary shall not include proposals in the appendix of the annual report that otherwise meet the criteria for inclusion in the annual report solely on the basis of the Secretary’s determination that the proposal requires legislative changes to an authorized water resources development project, feasibility study, or environmental infrastructure program;
 
-    (ii) the Secretary shall not include proposals in the appendix of the annual report that otherwise meet the criteria for inclusion in the annual report solely on the basis of a policy of the Secretary.
+    (ii) the Secretary shall not include proposals in the appendix of the annual report that otherwise meet the criteria for inclusion in the annual report solely on the basis that the proposals are for the purposes of navigation, flood risk management, ecosystem restoration, or municipal or agricultural water supply; and
+
+    (iii) the Secretary shall not include proposals in the appendix of the annual report that otherwise meet the criteria for inclusion in the annual report solely on the basis of a policy of the Secretary.
 
 **(d) Programmatic modifications in annual report** The Secretary shall include in the annual report only proposed modifications for an environmental infrastructure assistance program that have not been included in any previous annual report. For each proposed modification, the Secretary shall include a letter or statement of support for the proposed modification from each associated non-Federal interest, description of assistance provided, and total Federal cost of assistance provided.
 
@@ -3283,7 +2583,7 @@ Secretary means the Secretary of the Army, see section 2 of Pub. L. 113–121, s
 
 (4) **Non-Federal interest** — The term “non-Federal interest” has the meaning given that term in [section 1962d–5b of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1962d–5b&num=0&edition=prelim).
 
-(5) **Water resources development project** — The term “water resources development project” includes a project under an environmental infrastructure assistance program if authorized before December 16, 2016.
+(5) **Water resources development project** — The term “water resources development project” includes a project under an environmental infrastructure assistance program.
 
 ### Statutory Notes
 
@@ -3291,6 +2591,14 @@ Secretary means the Secretary of the Army, see section 2 of Pub. L. 113–121, s
 Section was enacted as part of the Water Resources Reform and Development Act of 2014, and not as part of the Water Resources Development Act of 1986 which comprises this chapter.
 
 #### Amendments
+2020—Subsec. (c)(1)(B)(ii)(III). Pub. L. 116–260, § 127(a)(1)(A)(i), inserted “, regional, or local” after “national”.
+
+Subsec. (c)(1)(D). Pub. L. 116–260, § 127(a)(1)(A)(ii), added subpar. (D).
+
+Subsec. (c)(4)(B)(ii), (iii). Pub. L. 116–260, § 127(a)(1)(B), added cl. (ii) and redesignated former cl. (ii) as (iii).
+
+Subsec. (g)(5). Pub. L. 116–260, § 127(a)(2), struck out “if authorized before December 16, 2016” before period at end.
+
 2018—Subsec. (a)(4). Pub. L. 115–270, § 1332(a)(1), added par. (4).
 
 Subsec. (b)(1). Pub. L. 115–270, § 1332(a)(2), substituted “studies, proposed modifications to authorized water resources development projects and feasibility studies, and proposed modifications for an environmental infrastructure program” for “studies and proposed modifications to authorized water resources development projects and feasibility studies”.
@@ -3301,15 +2609,108 @@ Subsecs. (d) to (g). Pub. L. 115–270, § 1332(a)(3), (4), added subsec. (d) an
 
 2016—Subsec. (f)(5). Pub. L. 114–322 added par. (5).
 
+#### Over-Budget Cap Programs
+Pub. L. 116–260, div. AA, title I, § 127(b), Dec. 27, 2020, 134 Stat. 2642, provided that: “For any project carried out under a continuing authority program, as such term is defined in section 7001(c)(1)(D) of the Water Resources Reform and Development Act of 2014 ([33 U.S.C. 2282d](./chapter-036-water-resources-development.md#section-2282d))[(c)(1)(D)]), for which the Secretary [of the Army] is required to include a proposed modification in an annual report under such section 7001(c)(1)(D), the Secretary shall, to the extent practicable, inform the non-Federal interest of the process for carrying out the project pursuant to section 105 of the Water Resources Development Act of 1986 ([33 U.S.C. 2215](./chapter-036-water-resources-development.md#section-2215)) and whether the Secretary has the authority to complete a feasibility study for the project.”
+
+#### Annual Report on Status of Feasibility Studies
+Pub. L. 116–260, div. AA, title I, § 127(c), Dec. 27, 2020, 134 Stat. 2642, provided that: “Concurrent with each report submitted under section 7001 of the Water Resources Reform and Development Act of 2014 ([33 U.S.C. 2282d](./chapter-036-water-resources-development.md#section-2282d)), the Secretary [of the Army] shall submit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Environment and Public Works of the Senate a report that provides for an accounting of all outstanding feasibility studies being conducted by the Secretary, including, for each such study, its length, cost, and expected completion date.”
+
 #### Dissemination of Information
-Pub. L. 115–270, title I, § 1104, Oct. 23, 2018, 132 Stat. 3771, provided that: “(a) Findings.—Congress finds the following:“(1) Congress plays a central role in identifying, prioritizing, and authorizing vital water resources infrastructure activities throughout the United States. “(2) The Water Resources Reform and Development Act of 2014 (Public Law 113–121) established a new and transparent process to review and prioritize the water resources development activities of the Corps of Engineers with strong congressional oversight. “(3) Section 7001 of the Water Resources Reform and Development Act of 2014 ([33 U.S.C. 2282d](./chapter-036-water-resources-development.md#section-2282d)) requires the Secretary [of the Army] to develop and submit to Congress each year a Report to Congress on Future Water Resources Development and, as part of the annual report process, to—“(A) publish a notice in the Federal Register that requests from non-Federal interests proposed feasibility studies and proposed modifications to authorized water resources development projects and feasibility studies for inclusion in the report; and “(B) review the proposals submitted and include in the report those proposed feasibility studies and proposed modifications that meet the criteria for inclusion established under such section 7001. “(4) Congress will use the information provided in the annual Report to Congress on Future Water Resources Development to determine authorization needs and priorities for purposes of water resources development legislation. “(5) To ensure that Congress can gain a thorough understanding of the water resources development needs and priorities of the United States, it is important that the Secretary take sufficient steps to ensure that non-Federal interests are made aware of the new annual report process, including the need for non-Federal interests to submit proposals during the Secretary’s annual request for proposals in order for such proposals to be eligible for consideration by Congress. “(b) Dissemination of Process Information.—The Secretary shall develop, support, and implement education and awareness efforts for non-Federal interests with respect to the annual Report to Congress on Future Water Resources Development required under section 7001 of the Water Resources Reform and Development Act of 2014 ([33 U.S.C. 2282d](./chapter-036-water-resources-development.md#section-2282d)), including efforts to—“(1) develop and disseminate technical assistance materials, seminars, and guidance on the annual process as it relates to non-Federal interests; “(2) provide written notice to local elected officials and previous and potential non-Federal interests on the annual process and on opportunities to address local water resources challenges through the missions and authorities of the Corps of Engineers; “(3) issue guidance for non-Federal interests to assist such interests in developing proposals for water resources development projects that satisfy the requirements of such section 7001; and “(4) provide, at the request of a non-Federal interest, assistance with researching and identifying existing project authorizations and Corps of Engineers decision documents.”
+Pub. L. 115–270, title I, § 1104, Oct. 23, 2018, 132 Stat. 3771, as amended by Pub. L. 116–260, div. AA, title II, § 229, Dec. 27, 2020, 134 Stat. 2698, provided that: “(a) Findings.—Congress finds the following:“(1) Congress plays a central role in identifying, prioritizing, and authorizing vital water resources infrastructure activities throughout the United States. “(2) The Water Resources Reform and Development Act of 2014 (Public Law 113–121) established a new and transparent process to review and prioritize the water resources development activities of the Corps of Engineers with strong congressional oversight. “(3) Section 7001 of the Water Resources Reform and Development Act of 2014 ([33 U.S.C. 2282d](./chapter-036-water-resources-development.md#section-2282d)) requires the Secretary [of the Army] to develop and submit to Congress each year a Report to Congress on Future Water Resources Development and, as part of the annual report process, to—“(A) publish a notice in the Federal Register that requests from non-Federal interests proposed feasibility studies and proposed modifications to authorized water resources development projects and feasibility studies for inclusion in the report; and “(B) review the proposals submitted and include in the report those proposed feasibility studies and proposed modifications that meet the criteria for inclusion established under such section 7001. “(4) Congress will use the information provided in the annual Report to Congress on Future Water Resources Development to determine authorization needs and priorities for purposes of water resources development legislation. “(5) To ensure that Congress can gain a thorough understanding of the water resources development needs and priorities of the United States, it is important that the Secretary take sufficient steps to ensure that non-Federal interests are made aware of the new annual report process, including the need for non-Federal interests to submit proposals during the Secretary’s annual request for proposals in order for such proposals to be eligible for consideration by Congress. “(b) Dissemination of Process Information.—“(1) In general.—The Secretary shall develop, support, and implement education and awareness efforts for non-Federal interests with respect to the annual Report to Congress on Future Water Resources Development required under section 7001 of the Water Resources Reform and Development Act of 2014 ([33 U.S.C. 2282d](./chapter-036-water-resources-development.md#section-2282d)), including efforts to—“(A) develop and disseminate technical assistance materials, seminars, and guidance on the annual process as it relates to non-Federal interests; “(B) provide written notice to local elected officials and previous and potential non-Federal interests on the annual process and on opportunities to address local water resources challenges through the missions and authorities of the Corps of Engineers; “(C) issue guidance for non-Federal interests to assist such interests in developing proposals for water resources development projects that satisfy the requirements of such section 7001; and “(D) provide, at the request of a non-Federal interest, assistance with researching and identifying existing project authorizations and Corps of Engineers decision documents. “(2) Annual reporting.—Not less frequently than annually, the Secretary shall provide to the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a written update on the progress of the implementation of paragraph (1), including a description of each education and outreach action the Secretary is taking to implement that paragraph. “(3) Guidance; compliance.—The Secretary shall—“(A) issue guidance on the uniform implementation by each district of the Corps of Engineers of the process for submitting proposals under section 7001 of the Water Resources Reform and Development Act of 2014 ([33 U.S.C. 2282d](./chapter-036-water-resources-development.md#section-2282d)); and “(B) each year, ensure compliance with the guidance issued under subparagraph (A).”
 
 #### “Secretary” Defined
 Secretary means the Secretary of the Army, see section 2 of Pub. L. 113–121, set out as a note under [section 2201 of this title](./chapter-036-water-resources-development.md#section-2201).
 
 
-<a id="section-2283a"></a>
-## § 2283a. Post-authorization change reports
+<a id="section-2255a"></a>
+## § 2255a. Report to Congress on authorized studies and projects
+**(a) In general** Not later than February 1 of each year, the Secretary shall develop and submit to Congress an annual report, to be entitled “Report to Congress on Authorized Water Resources Development Projects and Studies”, that identifies—
+
+(1) ongoing or new feasibility studies, authorized within the previous 20 years, for which a Report of the Chief of Engineers has not been issued;
+
+(2) authorized feasibility studies for projects in the preconstruction, engineering and design phase;
+
+(3) ongoing or new water resources development projects authorized for construction within the previous 20 years; and
+
+(4) authorized and constructed water resources development projects the Secretary has the responsibility to operate or maintain.
+
+**(b) Contents**
+
+(1) **Inclusions**
+
+  (A) *Criteria* — The Secretary shall include in each report submitted under this section only a feasibility study or water resources development project—
+
+    (i) that has been authorized by Congress to be carried out by the Secretary and does not require any additional congressional authorization to be carried out;
+
+    (ii) that the Secretary has the capability to carry out if funds are appropriated for such study or project under any of the “Investigations”, “Construction”, “Operation and Maintenance”, or “Mississippi River and Tributaries” appropriations accounts for the Corps of Engineers; and
+
+    (iii) for which a non-Federal interest—
+
+      (I) in the case of a study or a project other than a project for which funds may be appropriated for operation and maintenance, has entered into a feasibility cost-sharing agreement, design agreement, or project partnership agreement with the Corps of Engineers, or has informed the Secretary that the non-Federal interest has the financial capability to enter into such an agreement within 1 year; and
+
+      (II) demonstrates the legal and financial capability to satisfy the requirements for local cooperation with respect to the study or project.
+
+  (B) *Description of benefits*
+
+    (i) *Description* — The Secretary shall, to the maximum extent practicable, describe in each report submitted under this section the benefits, as described in clause (ii), of each feasibility study and water resources development project included in the report.
+
+    (ii) *Benefits* — The benefits referred to in clause (i) are benefits to—
+
+      (I) the protection of human life and property;
+
+      (II) improvement to transportation;
+
+      (III) the national, regional, or local economy;
+
+      (IV) the environment; or
+
+      (V) the national security interests of the United States.
+
+(2) **Transparency** — The Secretary shall include in each report submitted under this section, for each feasibility study and water resources development project included in the report—
+
+  (A) the name of the associated non-Federal interest, including the name of any non-Federal interest that has contributed, or is expected to contribute, a non-Federal share of the cost of the study or project;
+
+  (B) the purpose of the study or project;
+
+  (C) an estimate, to the extent practicable, of the Federal, non-Federal, and total costs of the study or project, including, to the extent practicable, the fully funded capability of the Corps of Engineers for—
+
+    (i) the 3 fiscal years following the fiscal year in which the report is submitted, in the case of a feasibility study; and
+
+    (ii) the 5 fiscal years following the fiscal year in which the report is submitted, in the case of a water resources development project; and
+
+  (D) an estimate, to the extent practicable, of the monetary and nonmonetary benefits of the study or project.
+
+(3) **Certification** — The Secretary shall include in each report submitted under this section a certification stating that each feasibility study or water resources development project included in the report meets the criteria described in paragraph (1)(A).
+
+(4) **Omissions**
+
+  (A) *Limitation* — The Secretary shall not omit from a report submitted under this section a study or project that otherwise meets the criteria for inclusion in the report solely on the basis of a policy of the Secretary.
+
+  (B) *Appendix* — If the Secretary omits from a report submitted under this section a study or project that otherwise meets the criteria for inclusion in the report, the Secretary shall include with the report an appendix that lists the name of the study or project and reason for its omission.
+
+**(c) Submission to Congress; publication**
+
+(1) **Submission to Congress** — The Secretary may submit a report under this section in conjunction with the submission of the annual report under [section 2282d of this title](./chapter-036-water-resources-development.md#section-2282d).
+
+(2) **Publication** — On submission of each report under this section, the Secretary shall make the report publicly available, including through publication on the internet.
+
+**(d) Definitions** In this section:
+
+(1) **Non-Federal interest** — The term “non-Federal interest” has the meaning given that term in [section 1962d–5b of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1962d–5b&num=0&edition=prelim).
+
+(2) **Water resources development project** — The term “water resources development project” includes a separable element of a project, a project under an environmental infrastructure assistance program, and a project the authorized purposes of which include water supply.
+
+### Statutory Notes
+
+#### Codification
+Section was enacted as part of the Water Resources Development Act of 2020, and not as part of the Water Resources Development Act of 1986 which comprises this chapter.
+
+#### “Secretary” Defined
+Secretary means the Secretary of the Army, see section 2 of div. AA of Pub. L. 116–260, set out as a note under [section 2201 of this title](./chapter-036-water-resources-development.md#section-2201).
+
+
+<a id="section-2261"></a>
+## § 2261. Post-authorization change reports
 **(a) In general** The completion of a post-authorization change report prepared by the Corps of Engineers for a water resources development project—
 
 (1) may not be delayed as a result of consideration being given to changes in policy or priority with respect to project consideration; and
@@ -3345,8 +2746,35 @@ Section was enacted as part of the Water Resources Development Act of 2016, and 
 Secretary means the Secretary of the Army, see section 1002 of Pub. L. 114–322, set out as a note under [section 2201 of this title](./chapter-036-water-resources-development.md#section-2201).
 
 
-<a id="section-2283b"></a>
-## § 2283b. Fish and wildlife mitigation
+<a id="section-2262"></a>
+## § 2262. Review of resiliency assessments
+**(a) Resiliency assessment**
+
+(1) **In general** — Not later than 180 days after December 27, 2020, and in conjunction with the development of procedures under [section 1962–4 of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1962–4&num=0&edition=prelim), the Secretary is directed to review, and where appropriate, revise the existing planning guidance documents and regulations of the Corps of Engineers on the assessment of the effects of sea level rise or inland flooding on future water resources development projects to ensure that such guidance documents and regulations are based on the best available, peer-reviewed science and data on the current and future effects of sea level rise or inland flooding on relevant communities.
+
+(2) **Coordination** — In carrying out this subsection, the Secretary shall—
+
+  (A) coordinate the review with the Engineer Research and Development Center, other Federal and State agencies, and other relevant entities; and
+
+  (B) to the maximum extent practicable and where appropriate, utilize data provided to the Secretary by such agencies.
+
+**(b) Assessment of benefits from addressing sea level rise and inland flooding resiliency in feasibility reports**
+
+(1) **In general** — Upon the request of a non-Federal interest, in carrying out a feasibility study for a project for flood risk mitigation, hurricane and storm damage risk reduction, or ecosystem restoration under [section 2282 of this title](./chapter-036-water-resources-development.md#section-2282), the Secretary shall consider whether the need for the project is predicated upon or exacerbated by conditions related to sea level rise or inland flooding.
+
+(2) **Addressing sea level rise and inland flooding resiliency benefits** — To the maximum extent practicable, in carrying out a study pursuant to paragraph (1), the Secretary shall document the potential effects of sea level rise or inland flooding on the project, and the expected benefits of the project relating to sea level rise or inland flooding, during the 50-year period after the date of completion of the project.
+
+### Statutory Notes
+
+#### Codification
+Section was enacted as part of the Water Resources Development Act of 2020, and also as part of the Consolidated Appropriations Act, 2021, and not as part of the Water Resources Development Act of 1986 which comprises this chapter.
+
+#### “Secretary” Defined
+Secretary means the Secretary of the Army, see section 2 of div. AA of Pub. L. 116–260, set out as a note under [section 2201 of this title](./chapter-036-water-resources-development.md#section-2201).
+
+
+<a id="section-2263"></a>
+## § 2263. Fish and wildlife mitigation
 **(a) Steps to be taken prior to or concurrently with construction**
 
 (1) In the case of any water resources project which is authorized to be constructed by the Secretary before, on, or after November 17, 1986, construction of which has not commenced as of November 17, 1986, and which necessitates the mitigation of fish and wildlife losses, including the acquisition of lands or interests in lands to mitigate losses to fish and wildlife, as a result of such project, such mitigation, including acquisition of the lands or interests—
@@ -3582,11 +3010,11 @@ Subsec. (d)(3) to (5). Pub. L. 110–114, § 2036(a)(3), added pars. (3) to (5).
 Pub. L. 113–121, title I, § 1040(b), June 10, 2014, 128 Stat. 1243, provided that: “The amendments made by subsection (a) [amending this section] shall not apply to a project for which a mitigation plan has been completed as of the date of enactment of this Act [June 10, 2014].”
 
 #### Concurrent Mitigation
-Pub. L. 106–541, title II, § 224(b), Dec. 11, 2000, 114 Stat. 2598, provided that: “(1) Investigation.—“(A) In general.—The Comptroller General shall conduct an investigation of the effectiveness of the concurrent mitigation requirements of section 906 of the Water Resources Development Act of 1986 ([33 U.S.C. 2283](./chapter-036-water-resources-development.md#section-2283)). In carrying out the investigation, the Comptroller General shall determine—“(i) whether or not there are instances in which less than 50 percent of required mitigation is completed before initiation of project construction and the number of such instances; and “(ii) the extent to which mitigation projects restore natural hydrologic conditions, restore native vegetation, and otherwise support native fish and wildlife species. “(B) Special rule.—In carrying out subparagraph (A)(ii), the Comptroller General shall—“(i) establish a panel of independent scientists, comprised of individuals with expertise and experience in applicable scientific disciplines, to assist the Comptroller General; and “(ii) assess methods used by the Corps of Engineers to monitor and evaluate mitigation projects, and compare Corps of Engineers mitigation project design, construction, monitoring, and evaluation practices with those used in other publicly and privately financed mitigation projects. “(2) Report.—Not later than 1 year after the date of enactment of this Act [Dec. 11, 2000], the Comptroller General shall transmit to Congress a report on the results of the investigation.”
+Pub. L. 106–541, title II, § 224(b), Dec. 11, 2000, 114 Stat. 2598, required the Comptroller General to conduct an investigation of the effectiveness of the concurrent mitigation requirements of this section and to transmit to Congress a report on the results of the investigation not later than 1 year after Dec. 11, 2000.
 
 
-<a id="section-2283c"></a>
-## § 2283c. Status report
+<a id="section-2263a"></a>
+## § 2263a. Status report
 (1) **In general** — Concurrent with the President’s submission to Congress of the President’s request for appropriations for the Civil Works Program for a fiscal year, the Secretary shall submit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Environment and Public Works of the Senate a report on the status of construction of projects that require mitigation under [section 2283 of this title](./chapter-036-water-resources-development.md#section-2283), the status of such mitigation, and the results of the consultation under subsection (d)(4)(B) of such section.
 
 (2) **Projects included** — The status report shall include the status of—
@@ -3619,8 +3047,8 @@ Section was enacted as part of the Water Resources Development Act of 2007, and 
 Secretary means the Secretary of the Army, see section 2 of Pub. L. 110–114, set out as a note under [section 2201 of this title](./chapter-036-water-resources-development.md#section-2201).
 
 
-<a id="section-2284"></a>
-## § 2284. Clarification of mitigation authority
+<a id="section-2264"></a>
+## § 2264. Clarification of mitigation authority
 **(a) In general** The Secretary may carry out measures to improve fish species habitat within the boundaries and downstream of a water resources project constructed by the Secretary that includes a fish hatchery if the Secretary—
 
 (1) has been explicitly authorized to compensate for fish losses associated with the project; and
@@ -3648,8 +3076,8 @@ Section was enacted as part of the Water Resources Reform and Development Act of
 Secretary means the Secretary of the Army, see section 2 of Pub. L. 113–121, set out as a note under [section 2201 of this title](./chapter-036-water-resources-development.md#section-2201).
 
 
-<a id="section-2284a"></a>
-## § 2284a. Technical assistance
+<a id="section-2265"></a>
+## § 2265. Technical assistance
 (1) **In general** — The Secretary may provide technical assistance to States and local governments to establish third-party mitigation instruments, including mitigation banks and in-lieu fee programs, that will help to target mitigation payments to high-priority ecosystem restoration actions.
 
 (2) **Requirements** — In providing technical assistance under this section, the Secretary shall give priority to States and local governments that have developed State, regional, or watershed-based plans identifying priority restoration actions.
@@ -3665,14 +3093,14 @@ Section was enacted as part of the Water Resources Reform and Development Act of
 Secretary means the Secretary of the Army, see section 2 of Pub. L. 113–121, set out as a note under [section 2201 of this title](./chapter-036-water-resources-development.md#section-2201).
 
 
-<a id="section-2284b"></a>
-## § 2284b. Benefits and costs attributable to environmental measures
+<a id="section-2266"></a>
+## § 2266. Benefits and costs attributable to environmental measures
 
 In the evaluation by the Secretary of benefits and costs of a water resources project, the benefits attributable to measures included in a project for the purpose of environmental quality, including improvement of the environment and fish and wildlife enhancement, shall be deemed to be at least equal to the costs of such measures.
 
 
-<a id="section-2285"></a>
-## § 2285. Benefits to navigation
+<a id="section-2267"></a>
+## § 2267. Benefits to navigation
 
 In evaluating potential improvements to navigation and the maintenance of navigation projects, the Secretary shall consider, and include for purposes of project justification, economic benefits generated by cruise ships as commercial navigation benefits.
 
@@ -3685,8 +3113,8 @@ Section was enacted as part of the Water Resources Development Act of 1996, and 
 Secretary means the Secretary of the Army, see section 2 of Pub. L. 104–303, set out as a note under [section 2201 of this title](./chapter-036-water-resources-development.md#section-2201).
 
 
-<a id="section-2286"></a>
-## § 2286. Scenic and aesthetic considerations
+<a id="section-2267a"></a>
+## § 2267a. Scenic and aesthetic considerations
 
 In conducting studies of potential water resources projects, the Secretary shall consider measures to preserve and enhance scenic and aesthetic qualities in the vicinity of such projects.
 
@@ -3699,14 +3127,14 @@ Section was enacted as part of the Water Resources Development Act of 1996, and 
 Secretary means the Secretary of the Army, see section 2 of Pub. L. 104–303, set out as a note under [section 2201 of this title](./chapter-036-water-resources-development.md#section-2201).
 
 
-<a id="section-2287"></a>
-## § 2287. Environmental Protection and Mitigation Fund
+<a id="section-2267b"></a>
+## § 2267b. Environmental Protection and Mitigation Fund
 
 There is established an Environmental Protection and Mitigation Fund. There is authorized to be appropriated to such fund $35,000,000 for fiscal years beginning after September 30, 1986. Amounts in the fund 11 So in original. Probably should be capitalized. shall be available for undertaking, in advance of construction of any water resources project authorized to be constructed by the Secretary, such measures authorized as part of such project, including the acquisition of lands and interests therein, as may be necessary to ensure that project-induced losses to fish and wildlife production and habitat will be mitigated. The Secretary shall reimburse the Fund for any amounts expended under this section for a water resources project from the first appropriations made for construction, including planning and designing, of such project.
 
 
-<a id="section-2288"></a>
-## § 2288. Acceptance of certain funds for mitigation
+<a id="section-2268"></a>
+## § 2268. Acceptance of certain funds for mitigation
 
 The Secretary is authorized to accept funds from any entity, public or private, in accordance with the Pacific Northwest Electric Power Planning and Conservation Act [[16 U.S.C. 839](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section839&num=0&edition=prelim) et seq.] to be used to protect, mitigate, and enhance fish and wildlife in connection with projects constructed or operated by the Secretary. The Secretary may accept and use funds for such purposes without regard to any limitation established under any other provision of law or rule of law.
 
@@ -3716,8 +3144,8 @@ The Secretary is authorized to accept funds from any entity, public or private, 
 The Pacific Northwest Electric Power Planning and Conservation Act, referred to in text, is Pub. L. 96–501, Dec. 5, 1980, 94 Stat. 2697, which is classified principally to chapter 12H (§ 839 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under [section 839 of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section839&num=0&edition=prelim) and Tables.
 
 
-<a id="section-2289"></a>
-## § 2289. Continued planning and investigations
+<a id="section-2269"></a>
+## § 2269. Continued planning and investigations
 **(a) Pre-authorization planning and engineering** After the Chief of Engineers transmits his recommendations for a water resources development project to the Secretary for transmittal to the Congress, as authorized in [section 701–1 of this title](./chapter-015-flood-control.md#section-701-1), and before authorization for construction of such project, the Chief of Engineers is authorized to undertake continued planning and engineering (other than preparation of plans and specifications) for such project if the Chief of Engineers finds that the project is without substantial controversy and justifies further engineering, economic, and environmental investigations and the Chief of Engineers transmits to the Committee on Public Works and Transportation of the House of Representatives and the Committee on Environment and Public Works of the Senate a statement of such findings. In the one-year period after authorization for construction of such project, the Chief of Engineers is authorized to undertake planning, engineering, and design for such project.
 
 **(b) Omitted**
@@ -3733,22 +3161,22 @@ Subsec. (b) of this section, which required the Secretary to prepare and transmi
 Committee on Public Works and Transportation of House of Representatives treated as referring to Committee on Transportation and Infrastructure of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding [section 21 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section21&num=0&edition=prelim), The Congress.
 
 
-<a id="section-2289a"></a>
-## § 2289a. Repealed. Pub. L. 113–121, title I, § 1004, June 10, 2014, 128 Stat. 1199
+<a id="section-2270"></a>
+## § 2270. Repealed. Pub. L. 113–121, title I, § 1004, June 10, 2014, 128 Stat. 1199
 
 ### Statutory Notes
 
 Section, Pub. L. 99–662, title IX, § 911, Nov. 17, 1986, 100 Stat. 4189, related to review of cost effectiveness of design.
 
 
-<a id="section-2290"></a>
-## § 2290. Urban and rural flood control frequency
+<a id="section-2280"></a>
+## § 2280. Urban and rural flood control frequency
 
 In the preparation of feasibility reports for projects for flood damage prevention in urban and rural areas, the Secretary may consider and evaluate measures to reduce or eliminate damages from flooding without regard to frequency of flooding, drainage area, and amount of runoff. This section shall apply with respect to any project, or separable element thereof, the Federal share of the cost of which is less than $3,000,000.
 
 
-<a id="section-2291"></a>
-## § 2291. Consideration of measures
+<a id="section-2281"></a>
+## § 2281. Consideration of measures
 **(a) Definitions** In this section, the following definitions apply:
 
 (1) **Natural feature** — The term “natural feature” means a feature that is created through the action of physical, geological, biological, and chemical processes over time.
@@ -3789,8 +3217,8 @@ Section was enacted as part of the Water Resources Development Act of 2016, and 
 Secretary means the Secretary of the Army, see section 1002 of Pub. L. 114–322, set out as a note under [section 2201 of this title](./chapter-036-water-resources-development.md#section-2201).
 
 
-<a id="section-2292"></a>
-## § 2292. Flood control in Trust Territory of the Pacific Islands
+<a id="section-2282"></a>
+## § 2282. Flood control in Trust Territory of the Pacific Islands
 
 The Secretary is authorized to use the authority contained in section 205 of the Flood Control Act of 1948 ([33 U.S.C. 701s](./chapter-015-flood-control.md#section-701s)), section 2 of the Flood Control Act of August 28, 1937 ([33 U.S.C. 701g](./chapter-015-flood-control.md#section-701g)), section 14 of the Flood Control Act of 1946 ([33 U.S.C. 701r](./chapter-015-flood-control.md#section-701r)), section 107 of the River and Harbor Act of 1960 ([33 U.S.C. 577](./chapter-012-river-and-harbor-improvements-generally.md#section-577)), section 3 of the Act entitled “An Act authorizing Federal participation in the cost of protecting the shores of publicly owned property”, approved August 13, 1946 ([33 U.S.C. 426g](./chapter-009-protection-of-navigable-waters-and-of-harbor-and-river-improvements-generally.md#section-426g)), and section 111 of the River and Harbor Act of 1968 ([33 U.S.C. 426i](./chapter-009-protection-of-navigable-waters-and-of-harbor-and-river-improvements-generally.md#section-426i)) in the Trust Territory of the Pacific Islands.
 
@@ -3800,8 +3228,8 @@ The Secretary is authorized to use the authority contained in section 205 of the
 For termination of Trust Territory of the Pacific Islands, see note set out preceding [section 1681 of Title 48](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title48-section1681&num=0&edition=prelim), Territories and Insular Possessions.
 
 
-<a id="section-2293"></a>
-## § 2293. Federal Project Repayment District
+<a id="section-2282a"></a>
+## § 2282a. Federal Project Repayment District
 **(a)** The Secretary may enter into a contract providing for the payment or recovery of an appropriate share of the costs of a project under his responsibility with a Federal Project Repayment District or other political subdivision of a State prior to the construction, operation, improvement, or financing of such project. The Federal Project Repayment District shall include lands and improvements which receive identifiable benefits from the construction or operation of such project. Such districts shall be established in accordance with State law, shall have specific boundaries which may be changed from time to time based upon further evaluations of benefits, and shall have the power to recover benefits through any cost-recovery approach that is consistent with State law and satisfies the applicable cost-recovery requirement under subsection (b).
 
 **(b)** Prior to execution of an agreement pursuant to subsection (a) of this section, the Secretary shall require and approve a study from the State or political subdivision demonstrating that the revenues to be derived from a contract under this section, or an agreement with a Federal Project Repayment District, will be sufficient to equal or exceed the cost recovery requirements over the term of repayment required by Federal law.
@@ -3812,8 +3240,8 @@ For termination of Trust Territory of the Pacific Islands, see note set out prec
 1988—Subsec. (a). Pub. L. 100–676 substituted “have the power to recover benefits through any cost-recovery approach that is consistent with State law and satisfies the applicable cost-recovery requirement under subsection (b)” for “include the power to collect a portion of the transfer price from any transaction involving the sale, transfer, or change in beneficial ownership of lands and improvements within the district boundaries”.
 
 
-<a id="section-2293a"></a>
-## § 2293a. Surveying and mapping
+<a id="section-2282b"></a>
+## § 2282b. Surveying and mapping
 
 Any surveying or mapping services to be performed in connection with a water resources project which is or has been authorized to be undertaken by the Secretary shall be procured in accordance with title IX of the Federal Property and Administrative Services Act of 1949.11 See References in Text note below.
 
@@ -3826,8 +3254,8 @@ The Federal Property and Administrative Services Act of 1949, referred to in tex
 Pub. L. 115–270, title I, § 1118, Oct. 23, 2018, 132 Stat. 3776, provided that: “(a) In General.—The Secretary [of the Army] shall develop guidance for the acceptance and use of information obtained from a non-Federal interest through geomatic techniques, including remote sensing and land surveying, cartography, geographic information systems, global navigation satellite systems, photogrammetry, or other remote means, in carrying out any authority of the Secretary. “(b) Considerations.—In carrying out this section, the Secretary shall ensure that use of information described in subsection (a) meets the data quality and operational requirements of the Secretary. “(c) Savings Clause.—Nothing in this section—“(1) requires the Secretary to accept information that the Secretary determines does not meet the guidance developed under this section; or “(2) changes the current statutory or regulatory requirements of the Corps of Engineers.”
 
 
-<a id="section-2294"></a>
-## § 2294. Reprogramming during national emergencies
+<a id="section-2282c"></a>
+## § 2282c. Reprogramming during national emergencies
 **(a) Termination or deferment of civil works projects; application of resources to national defense projects** In the event of a declaration of war or a declaration by the President of a national emergency in accordance with the National Emergencies Act [[50 U.S.C. 1601](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1601&num=0&edition=prelim) et seq.] that requires or may require use of the Armed Forces, the Secretary, without regard to any other provision of law, may (1) terminate or defer the construction, operation, maintenance, or repair of any Department of the Army civil works project that he deems not essential to the national defense, and (2) apply the resources of the Department of the Army’s civil works program, including funds, personnel, and equipment, to construct or assist in the construction, operation, maintenance, and repair of authorized civil works, military construction, and civil defense projects that are essential to the national defense.
 
 **(b) Termination of state of war or national emer­gency** The Secretary shall immediately notify the appropriate committees of Congress of any actions taken pursuant to the authorities provided by this section, and cease to exercise such authorities not later than 180 calendar days after the termination of the state of war or national emergency, whichever occurs later.
@@ -3838,8 +3266,8 @@ Pub. L. 115–270, title I, § 1118, Oct. 23, 2018, 132 Stat. 3776, provided tha
 The National Emergencies Act, referred to in subsec. (a), is Pub. L. 94–412, Sept. 14, 1976, 90 Stat. 1255, as amended, which is classified principally to chapter 34 (§ 1601 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under [section 1601 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1601&num=0&edition=prelim) and Tables.
 
 
-<a id="section-2295"></a>
-## § 2295. Reprogramming of funds for projects by Corps of Engineers
+<a id="section-2282d"></a>
+## § 2282d. Reprogramming of funds for projects by Corps of Engineers
 
 None of the funds made available before, on, or after June 15, 2006, in an appropriations Act may be expended to prevent or limit any reprogramming of funds for a project to be carried out by the Corps of Engineers using funds appropriated in any Act making appropriations for energy and water development, based on whether the project was included by the President in the budget transmitted under [section 1105(a) of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1105/a&num=0&edition=prelim) or is otherwise proposed by the President or considered part of the budget by the Office of Management and Budget, if the project received funds in an Act making appropriations for energy and water development or any other appropriations Act making additional funds available for energy and water development.
 
@@ -3849,14 +3277,14 @@ None of the funds made available before, on, or after June 15, 2006, in an appro
 Section was enacted as part of the Emergency Supplemental Appropriations Act for Defense, the Global War on Terror, and Hurricane Recovery, 2006, and not as part of the Water Resources Development Act of 1986 which comprises this chapter.
 
 
-<a id="section-2296"></a>
-## § 2296. Office of Environmental Policy
+<a id="section-2282d-1"></a>
+## § 2282d–1. Office of Environmental Policy
 
 The Secretary shall establish in the Directorate of Civil Works of the Office of the Chief of Engineers an Office of Environmental Policy. Such Office shall be responsible for the formulation, coordination, and implementation of all matters concerning environmental quality and policy as they relate to the water resources program of the United States Army Corps of Engineers. Such Office shall, among other things, develop, and monitor compliance with, guidelines for the consideration of environmental quality in formulation and planning of water resources projects carried out by the Secretary, the preparation and coordination of environmental impact statements for such projects, and the coordination with Federal, State, and local agencies of environmental aspects of such projects and regulatory responsibilities of the Secretary.
 
 
-<a id="section-2297"></a>
-## § 2297. Compilation of laws; annual reports
+<a id="section-2282e"></a>
+## § 2282e. Compilation of laws; annual reports
 **(a) Federal laws relating to improvements of rivers and harbors, flood control, beach erosion, and other water resources development** Within one year after November 17, 1986, the laws of the United States relating to the improvement of rivers and harbors, flood control, beach erosion, and other water resources development enacted after November 8, 1966, and before January 1, 1987, shall be compiled under the direction of the Secretary and the Chief of Engineers and printed for the use of the Department of the Army, the Congress, and the general public. The Secretary shall reprint the volumes containing such laws enacted before November 8, 1966. In addition, the Secretary shall include an index in each volume so compiled or reprinted. The Secretary shall transmit copies of each such volume to Congress.
 
 **(b) Annual report** The Secretary shall prepare and submit the annual report required by [section 556 of this title](./chapter-012-river-and-harbor-improvements-generally.md#section-556), in two volumes. Volume I shall consist of a summary and highlights of Corps of Engineers’ activities, authorities, and accomplishments. Volume II shall consist of detailed information and field reports on Corps of Engineers’ activities. The Secretary shall publish an index with each annual report.
@@ -3869,15 +3297,15 @@ The Secretary shall establish in the Directorate of Civil Works of the Office of
 Pub. L. 110–114, title II, § 2004, Nov. 8, 2007, 121 Stat. 1071, provided that: “(a) Compilation of Laws Enacted After November 8, 1966.—The Secretary [of the Army] and the Chief of Engineers shall prepare a compilation of the laws of the United States relating to the improvement of rivers and harbors, flood damage reduction, beach and shoreline erosion, hurricane and storm damage reduction, ecosystem and environmental restoration, and other water resources development enacted after November 8, 1966, and before January 1, 2008, and have such compilation printed for the use of the Department of the Army, Congress, and the general public. “(b) Reprint of Laws Enacted Before November 8, 1966.—The Secretary shall have the volumes containing the laws referred to in subsection (a) enacted before November 8, 1966, reprinted. “(c) Index.—The Secretary shall include an index in each volume compiled, and each volume reprinted, pursuant to this section. “(d) Congressional Copies.—Not later than April 1, 2008, the Secretary shall transmit at least 25 copies of each volume compiled, and of each volume reprinted, pursuant to this section to each of the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Environment and Public Works of the Senate. “(e) Availability.—The Secretary [of the Army] shall ensure that each volume compiled, and each volume reprinted, pursuant to this section are available through electronic means, including on the Internet.”
 
 
-<a id="section-2298"></a>
-## § 2298. Acquisition of recreation lands
+<a id="section-2282f"></a>
+## § 2282f. Acquisition of recreation lands
 **(a)** In the case of any water resources project which is authorized to be constructed by the Secretary before, on, or after November 17, 1986, construction of which has not commenced before November 17, 1986, and which involves the acquisition of lands or interests in lands for recreation purposes, such lands or interests shall be acquired along with the acquisition of lands and interests in lands for other project purposes.
 
 **(b)** The Secretary is authorized to acquire real property by condemnation, purchase, donation, exchange, or otherwise, as a part of any water resources development project for use for public park and recreation purposes, including but not limited to, real property not contiguous to the principal part of the project.
 
 
-<a id="section-2299"></a>
-## § 2299. Operation and maintenance on recreation lands
+<a id="section-2283"></a>
+## § 2283. Operation and maintenance on recreation lands
 
 The Secretary shall not require, under [section 460d of title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section460d&num=0&edition=prelim), and the Federal Water Project Recreation Act [[16 U.S.C. 460](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section460&num=0&edition=prelim)l–12 et seq.], non-Federal interests to assume operation and maintenance of any recreational facility operated by the Secretary at any water resources project as a condition to the construction of new recreational facilities at such project or any other water resources project.
 
@@ -3887,8 +3315,8 @@ The Secretary shall not require, under [section 460d of title 16](https://uscode
 The Federal Water Project Recreation Act, referred to in text, is Pub. L. 89–72, July 9, 1965, 79 Stat. 213, as amended, which is classified principally to part C (§ 460l–12 et seq.) of subchapter LXIX of chapter 1 of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 460l–12 of Title 16 and Tables.
 
 
-<a id="section-2300"></a>
-## § 2300. Impact of proposed projects on existing recreation facilities
+<a id="section-2283a"></a>
+## § 2283a. Impact of proposed projects on existing recreation facilities
 
 Any report describing a project having recreation benefits that is submitted after November 17, 1986, to the Committee on Environment and Public Works of the Senate or the Committee on Public Works and Transportation of the House of Representatives by the Secretary, or by the Secretary of Agriculture under authority of the Watershed Protection and Flood Protection Act (68 Stat. 666; [16 U.S.C. 1001](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1001&num=0&edition=prelim) et seq.), shall describe the usage of other, similar public recreational facilities within the general area of the project, and the anticipated impact of the proposed project on the usage of such existing recreational facilities.
 
@@ -3901,14 +3329,14 @@ The Watershed Protection and Flood Prevention Act, referred to in text, is act A
 Committee on Public Works and Transportation of House of Representatives treated as referring to Committee on Transportation and Infrastructure of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding [section 21 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section21&num=0&edition=prelim), The Congress.
 
 
-<a id="section-2301-2302"></a>
-## § 2301, 2302. Acquisition of beach fill
+<a id="section-2283b"></a>
+## § 2283b. Acquisition of beach fill
 
 Notwithstanding any other provision of law, in any case in which the use of fill material for beach erosion and beach nourishment is authorized as a purpose of an authorized water resources project, the Secretary is authorized to acquire by purchase, exchange, or otherwise from nondomestic sources and utilize such material for such purposes if such materials are not available from domestic sources for environmental or economic reasons.
 
 
-<a id="section-2303"></a>
-## § 2303. Study of Corps capabilities
+<a id="section-2283c"></a>
+## § 2283c. Study of Corps capabilities
 
 The Secretary shall study and evaluate the measures necessary to increase the capabilities of the United States Army Corps of Engineers to undertake the planning and construction of water resources projects on an expedited basis and to adequately comply with all requirements of law applicable to the water resources program of the Corps of Engineers. As part of such study the Secretary shall consider appropriate measures to increase reliance on the private sector in the conduct of the water resources program of the Corps of Engineers. The Secretary shall implement such measures as may be necessary to improve the capabilities referred to in the first sentence of this section, including the establishment of increased levels of personnel, changes in project planning and construction procedures designed to lessen the time required for such planning and construction, and procedures for expediting the coordination of water resources projects with Federal, State, and local agencies.
 
@@ -3918,8 +3346,8 @@ The Secretary shall study and evaluate the measures necessary to increase the ca
 Pub. L. 100–676, § 44, Nov. 17, 1988, 102 Stat. 4041, provided that the Comptroller General was to conduct a review of the Civil Works Program of the United States Army Corps of Engineers and to transmit the review to Congress with any recommendations the Comptroller General may make.
 
 
-<a id="section-2304"></a>
-## § 2304. Omitted
+<a id="section-2284"></a>
+## § 2284. Omitted
 
 ### Statutory Notes
 
@@ -3931,14 +3359,14 @@ Subsec. (a) of section 2302, Pub. L. 99–662, title IX, § 938(a), Nov. 17, 198
 Subsec. (b) of section 2302, Pub. L. 99–662, title IX, § 938(b), Nov. 17, 1986, 100 Stat. 4198, directed the Comptroller General to conduct a study of the contracting procedures of the Secretary of the Army for civil works projects, examining whether potential bidders or offerors, regardless of their size, are allowed to compete fairly in the interest of lowering cost on contracts for construction, and to report findings and recommendations to Congress within two years of Nov. 17, 1986.
 
 
-<a id="section-2305"></a>
-## § 2305. Historical properties
+<a id="section-2284a"></a>
+## § 2284a. Historical properties
 
 The Secretary is authorized to preserve, restore, and maintain those historic properties located on water resource development project lands under the jurisdiction of the Department of the Army if such properties have been entered into the National Register of Historic Places.
 
 
-<a id="section-2306"></a>
-## § 2306. Separability
+<a id="section-2284b"></a>
+## § 2284b. Separability
 
 If any provision of this Act, or the application of any provision of this Act to any person or circumstance, is held invalid, the application of such provision to other persons or circumstances, and the remainder of this Act, shall not be affected thereby.
 
@@ -3948,14 +3376,14 @@ If any provision of this Act, or the application of any provision of this Act to
 This Act, referred to in text, is Pub. L. 99–662, Nov. 17, 1986, 100 Stat. 4082, as amended, known as the Water Resources Development Act of 1986. For complete classification of this Act to the Code, see Short Title note set out under [section 2201 of this title](./chapter-036-water-resources-development.md#section-2201) and Tables.
 
 
-<a id="section-2307"></a>
-## § 2307. Use of FMHA funds
+<a id="section-2285"></a>
+## § 2285. Use of FMHA funds
 
 Notwithstanding any other provision of law, Federal assistance made available by the Farmers Home Administration may be used to pay the non-Federal share of any other Federal grant-in-aid program for any project for water resources, including water pollution control.
 
 
-<a id="section-2308"></a>
-## § 2308. Reports
+<a id="section-2286"></a>
+## § 2286. Reports
 
 If any report required to be transmitted under this Act to the Committee on Public Works and Transportation of the House of Representatives or the Committee on Environment and Public Works of the Senate pertains in whole or in part to fish and wildlife mitigation, benthic environmental repercussions, or ecosystem mitigation, the Federal officer required to prepare or transmit that report also shall transmit a copy of the report to the Committee on Merchant Marine and Fisheries of the House of Representatives.
 
@@ -3971,8 +3399,8 @@ Committee on Public Works and Transportation of House of Representatives treated
 Committee on Merchant Marine and Fisheries of House of Representatives abolished and its jurisdiction transferred by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995. Committee on Merchant Marine and Fisheries of House of Representatives treated as referring to Committee on Resources of House of Representatives in case of provisions relating to fisheries, wildlife, international fishing agreements, marine affairs (including coastal zone management) except for measures relating to oil and other pollution of navigable waters, or oceanography by section 1(b)(3) of Pub. L. 104–14, set out as a note preceding [section 21 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section21&num=0&edition=prelim), The Congress. Committee on Resources of House of Representatives changed to Committee on Natural Resources of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
 
 
-<a id="section-2309"></a>
-## § 2309. Control of ice
+<a id="section-2287"></a>
+## § 2287. Control of ice
 **(a) Program authority** The Secretary shall undertake a program of research for the control of ice, and to assist communities in breaking up ice, which otherwise is likely to cause or aggravate flood damage or severe streambank erosion.
 
 **(b) Assistance to units of local government** The Secretary is further authorized to provide technical assistance to units of local government to implement local plans to control or break up such ice. As part of such authority, the Secretary shall acquire necessary ice-control or ice-breaking equipment, which shall be loaned to units of local government together with operating assistance, where appropriate.
@@ -4003,8 +3431,8 @@ Committee on Merchant Marine and Fisheries of House of Representatives abolished
 For termination, effective May 15, 2000, of provisions in subsec. (f)(1) of this section relating to the requirement that the Secretary report annually to Congress on the effectiveness of the program under this section, see section 3003 of Pub. L. 104–66, as amended, set out as a note under [section 1113 of Title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1113&num=0&edition=prelim), Money and Finance, and page 71 of House Document No. 103–7.
 
 
-<a id="section-2309a"></a>
-## § 2309a. Campgrounds for senior citizens
+<a id="section-2288"></a>
+## § 2288. Campgrounds for senior citizens
 **(a) Establishment and development** The Secretary may establish and develop separate campgrounds for individuals sixty-two years of age or older at any lake or reservoir under the jurisdiction of the Secretary where camping is permitted.
 
 **(b) Control of campground use and access** The Secretary may prescribe regulations to control the use of and the access to any separate campground established and developed under subsection (a) of this section.
@@ -4020,8 +3448,8 @@ For termination, effective May 15, 2000, of provisions in subsec. (f)(1) of this
 **(g) Boundaries of campground at Sam Rayburn Dam and Reservoir, Texas** The parcel of land to be established and developed as a separate campground pursuant to subsection (d) of this section is a tract of land of approximately 50 acres which is located in the county of Angelina in the State of Texas and which is part of the Thomas Hanks survey. The boundary of the parcel begins at a point at the corner furthest west of tract numbered 3420 of the Sam Rayburn Dam and Reservoir: thence north 81 degrees 30 minutes east, approximately 2,800 feet to a point at the edge of the water; thence south along the edge of the water approximately 2,600 feet; thence north 80 degrees 30 minutes west, approximately 1,960 feet to a point at the reentrant corner of tract numbered 3419 of the Sam Rayburn Dam and Reservoir; thence along the boundary line of tract numbered 3419 north 46 degrees 15 minutes west, 220 feet to a point at the center line of a road at the corner common to tract numbered 3419 and tract numbered 3420; thence along the southwestern boundary line of tract numbered 3420 north 46 degrees 15 minutes west, 230 feet to a point at the corner furthest east of tract numbered 3424 of the Sam Rayburn Dam and Reservoir; thence along the boundary line of tract numbered 3424 south 32 degrees 4 minutes west, 420 feet to a point; thence along the boundary line of tract numbered 3424 north 28 degrees 34 minutes west, 170 feet to a point; thence along the boundary line of tract numbered 3424 north 38 degrees 15 minutes east, 248 feet to a point; thence along the boundary line of tract numbered 3424 north 32 degrees 44 minutes east, 120 feet to a point at the corner furthest north of tract numbered 3424; thence along the southwestern boundary line of tract numbered 3420 north 46 degrees 15 minutes west, 460 feet to the beginning point.
 
 
-<a id="section-2310"></a>
-## § 2310. Great Lakes Commodities Marketing Board
+<a id="section-2289"></a>
+## § 2289. Great Lakes Commodities Marketing Board
 **(a) Congressional declaration of purpose** To ensure the coordinated economic revitalization and environmental enhancement of the Great Lakes and their connecting channels and the Saint Lawrence Seaway (hereinafter in this section referred to as the “Great Lakes”), known as the “Fourth Seacoast” of the United States, it is hereby declared to be the intent of Congress to recognize the importance of the economic vitality of the Great Lakes region, the importance of exports from the region in the United States balance of trade, and the need to assure an environmentally and socially responsible navigation system for the Great Lakes. Congress finds that the Great Lakes provide a diversity of agricultural, commercial, environmental, recreational, and related opportunities based on their extensive water resources and water transportation systems.
 
 **(b) Establishment; strategy development; composition of Board; Director; report; termination**
@@ -4068,7 +3496,7 @@ For termination, effective May 15, 2000, of provisions in subsec. (f)(1) of this
 
   (D) the Secretary of Commerce or his or her delegate,
 
-  (E) the Administrator of the Saint Lawrence Seaway Development Corporation or his or her delegate,
+  (E) the Administrator of the Great Lakes St. Lawrence Seaway Development Corporation or his or her delegate,
 
   (F) the Secretary of Agriculture or his or her delegate, and
 
@@ -4082,7 +3510,7 @@ For termination, effective May 15, 2000, of provisions in subsec. (f)(1) of this
 
   (C) Four members of the Board shall constitute a quorum but a lesser number may hold hearings.
 
-  (D) The co-chairmen of the Board shall be the Secretary or his or her delegate and the Administrator of the Saint Lawrence Seaway Development Corporation or his or her delegate.
+  (D) The co-chairmen of the Board shall be the Secretary or his or her delegate and the Administrator of the Great Lakes St. Lawrence Seaway Development Corporation or his or her delegate.
 
   (E) The Board shall meet at the call of the co-chairmen or a majority of its members.
 
@@ -4127,12 +3555,15 @@ For termination, effective May 15, 2000, of provisions in subsec. (f)(1) of this
 #### References in Text
 [Section 5311(b) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5311/b&num=0&edition=prelim), referred to in subsec. (b)(5)(A), (B), was repealed by Pub. L. 101–509, title V, § 529 [title I, § 104(c)(1)], Nov. 5, 1990, 104 Stat. 1427, 1447.
 
+#### Amendments
+2020—Subsec. (b)(3)(E), (4)(D). Pub. L. 116–260 substituted “Great Lakes St. Lawrence Seaway Development Corporation” for “Saint Lawrence Seaway Development Corporation”.
+
 #### Termination of Reporting Requirements
 For termination, effective May 15, 2000, of provisions in subsec. (c)(3) of this section relating to the requirement that the international advisory group report biennially to Congress, see section 3003 of Pub. L. 104–66, as amended, set out as a note under [section 1113 of Title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1113&num=0&edition=prelim), Money and Finance, and page 193 of House Document No. 103–7.
 
 
-<a id="section-2311"></a>
-## § 2311. Project modifications for improvement of environment
+<a id="section-2289a"></a>
+## § 2289a. Project modifications for improvement of environment
 **(a) Determination of need** The Secretary is authorized to review water resources projects constructed by the Secretary to determine the need for modifications in the structures and operations of such projects for the purpose of improving the quality of the environment in the public interest and to determine if the operation of such projects has contributed to the degradation of the quality of the environment.
 
 **(b) Authority to make modifications** The Secretary is authorized to carry out a program for the purpose of making such modifications in the structures and operations of water resources projects constructed by the Secretary which the Secretary determines (1) are feasible and consistent with the authorized project purposes, and (2) will improve the quality of the environment in the public interest.
@@ -4208,19 +3639,21 @@ Subsec. (e). Pub. L. 101–640, § 304(d), substituted “$15,000,000 annually t
 Subsec. (d). Pub. L. 100–676, § 41(b), substituted “5 years” for “two years”.
 
 
-<a id="section-2312"></a>
-## § 2312. Cost sharing for Territories and Indian tribes
+<a id="section-2290"></a>
+## § 2290. Cost sharing for Territories and Indian tribes
 **(a) In general** The Secretary shall waive local cost-sharing requirements up to $200,000 for all studies and projects—
 
 (1) in American Samoa, Guam, the Northern Mariana Islands, the Virgin Islands, Puerto Rico, and the Trust Territory of the Pacific Islands; and
 
 (2) for any Indian tribe or tribal organization (as those terms are defined in [section 5304 of title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5304&num=0&edition=prelim)).
 
-**(b) Inflation adjustment** The Secretary shall adjust the dollar amount specified in subsection (a) for inflation for the period beginning on November 17, 1986, and ending on October 23, 2018.
+**(b) Inflation adjustment** The Secretary shall adjust the dollar amount specified in subsection (a) on an annual basis for inflation.
 
 ### Statutory Notes
 
 #### Amendments
+2020—Subsec. (b). Pub. L. 116–260 substituted “on an annual basis for inflation.” for “for inflation for the period beginning on November 17, 1986, and ending on October 23, 2018.”
+
 2018—Subsec. (a)(2). Pub. L. 115–270, § 1155(a), substituted “or tribal organization (as those terms are defined in [section 5304 of title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5304&num=0&edition=prelim)).” for “(as defined in [section 5130 of title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5130&num=0&edition=prelim)).”
 
 Subsec. (b). Pub. L. 115–270, § 1156, substituted “October 23, 2018” for “June 10, 2014”.
@@ -4235,8 +3668,8 @@ Subsec. (a). Pub. L. 114–322, § 1119(2), inserted dash after “projects” a
 For termination of Trust Territory of the Pacific Islands, see note set out preceding [section 1681 of Title 48](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title48-section1681&num=0&edition=prelim), Territories and Insular Possessions.
 
 
-<a id="section-2313"></a>
-## § 2313. Report to Congress covering proposals for water impoundment facilities
+<a id="section-2291"></a>
+## § 2291. Report to Congress covering proposals for water impoundment facilities
 
 Any report that is submitted to the Committee on Environment and Public Works of the Senate or the Committee on Public Works and Transportation of the House of Representatives by the Secretary, or the Secretary of Agriculture acting under Public Law 83–566, as amended [[16 U.S.C. 1001](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1001&num=0&edition=prelim) et seq.], which proposes construction of a water impoundment facility, shall include information on the consequences of failure and geologic or design factors which could contribute to the possible failure of such facility.
 
@@ -4249,8 +3682,8 @@ Public Law 83–566, as amended, referred to in text, is act Aug. 4, 1954, ch. 6
 Committee on Public Works and Transportation of House of Representatives treated as referring to Committee on Transportation and Infrastructure of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding [section 21 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section21&num=0&edition=prelim), The Congress.
 
 
-<a id="section-2313a"></a>
-## § 2313a. Comments on certain changes in operations of reservoirs
+<a id="section-2292"></a>
+## § 2292. Comments on certain changes in operations of reservoirs
 
 Before the Secretary may make changes in the operation of any reservoir which will result in or require a reallocation of storage space in such reservoir or will significantly affect any project purpose, the Secretary shall provide an opportunity for public review and comment.
 
@@ -4263,8 +3696,8 @@ Section was enacted as part of the Water Resources Development Act of 1988, and 
 Secretary means the Secretary of the Army, see section 2 of Pub. L. 100–676, set out as a note under [section 2201 of this title](./chapter-036-water-resources-development.md#section-2201).
 
 
-<a id="section-2313b"></a>
-## § 2313b. Collaborative research and development
+<a id="section-2293"></a>
+## § 2293. Collaborative research and development
 **(a) In general** For the purpose of improving the state of engineering and construction in the United States and consistent with the civil works mission of the Army Corps of Engineers, the Secretary is authorized to utilize Army Corps of Engineers laboratories and research centers to undertake, on a cost-shared basis, collaborative research and development with non-Federal entities, including State and local government, colleges and universities, and corporations, partnerships, sole proprietorships, and trade associations which are incorporated or established under the laws of any of the several States of the United States or the District of Columbia.
 
 **(b) Pre-agreement temporary protection of technology**
@@ -4309,8 +3742,8 @@ Pub. L. 101–640, title IV, § 417, Nov. 28, 1990, 104 Stat. 4652, provided tha
 Secretary means the Secretary of the Army, see section 2 of Pub. L. 100–676, set out as a note under [section 2201 of this title](./chapter-036-water-resources-development.md#section-2201).
 
 
-<a id="section-2314"></a>
-## § 2314. Engineering and environmental innovations of national significance
+<a id="section-2293a"></a>
+## § 2293a. Engineering and environmental innovations of national significance
 **(a) Surveys, plans, and studies** To encourage innovative and environmentally sound engineering solutions and innovative environmental solutions to problems of national significance, the Secretary may undertake surveys, plans, and studies and prepare reports that may lead to work under existing civil works authorities or to recommendations for authorizations.
 
 **(b) Funding**
@@ -4328,8 +3761,8 @@ Section was enacted as part of the Water Resources Development Act of 1996, and 
 Secretary means the Secretary of the Army, see section 2 of Pub. L. 104–303, set out as a note under [section 2201 of this title](./chapter-036-water-resources-development.md#section-2201).
 
 
-<a id="section-2314a"></a>
-## § 2314a. Support of Army civil works program
+<a id="section-2294"></a>
+## § 2294. Support of Army civil works program
 **(a) General authority** In carrying out research and development in support of the civil works program of the Department of the Army, the Secretary may utilize contracts, cooperative research and development agreements, cooperative agreements, and grants with non-Federal entities, including State and local governments, colleges and universities, consortia, professional and technical societies, public and private scientific and technical foundations, research institutions, educational organizations, and nonprofit organizations.
 
 **(b) Commercial application** With respect to contracts for research and development, the Secretary may include requirements that have potential commercial application and may use such potential application as an evaluation factor where appropriate.
@@ -4343,8 +3776,8 @@ Section was enacted as part of the Water Resources Development Act of 1996, and 
 Secretary means the Secretary of the Army, see section 2 of Pub. L. 104–303, set out as a note under [section 2201 of this title](./chapter-036-water-resources-development.md#section-2201).
 
 
-<a id="section-2314b"></a>
-## § 2314b. Innovative technology
+<a id="section-2295"></a>
+## § 2295. Innovative technology
 **(a) Use** The Secretary shall, whenever feasible, seek to promote long- and short-term cost savings, increased efficiency, reliability, and safety, and improved environmental results through the use of innovative technology in all phases of water resources development projects and programs under the Secretary’s jurisdiction. To further this goal, Congress encourages the Secretary to—
 
 (1) use procurement and contracting procedures that encourage innovative project design, construction, rehabilitation, repair, and operation and maintenance technologies;
@@ -4382,7 +3815,7 @@ Section was enacted as part of the Water Resources Development Act of 1988, and 
 1999—Subsecs. (b) to (d). Pub. L. 106–53 added subsec. (b) and redesignated former subsecs. (b) and (c) as (c) and (d), respectively.
 
 #### Design-Build Contracting
-Pub. L. 106–541, title II, § 221, Dec. 11, 2000, 114 Stat. 2596, provided that: “(a) Pilot Program.—The Secretary [of the Army] may conduct a pilot program consisting of not more than 5 authorized projects to test the design-build method of project delivery on various authorized civil works projects of the Corps of Engineers, including levees, pumping plants, revetments, dikes, dredging, weirs, dams, retaining walls, generation facilities, mattress laying, recreation facilities, and other water resources facilities. “(b) Design-Build Defined.—In this section, the term ‘design-build’ means an agreement between the Federal Government and a contractor that provides for both the design and construction of a project by a single contract. “(c) Report.—Not later than 4 years after the date of enactment of this Act [Dec. 11, 2000], the Secretary shall transmit to Congress a report on the results of the pilot program.”
+Pub. L. 106–541, title II, § 221, Dec. 11, 2000, 114 Stat. 2596, provided that the Secretary of the Army could conduct a pilot program consisting of not more than 5 authorized projects to test the design-build method of project delivery on various authorized civil works projects of the Corps of Engineers, including levees, pumping plants, revetments, dikes, dredging, weirs, dams, retaining walls, generation facilities, mattress laying, recreation facilities, and other water resources facilities, and, not later than 4 years after Dec. 11, 2000, to transmit to Congress a report on the results of the pilot program.
 
 #### Review of Innovative Dredging Technologies
 Pub. L. 106–53, title V, § 503(a), Aug. 17, 1999, 113 Stat. 337, provided that: “(1) In general.—Not later than June 1, 2001, the Secretary shall complete a review of innovative dredging technologies designed to minimize or eliminate contamination of a water column upon removal of contaminated sediments. “(2) Testing.—“(A) Selection of technology.—After completion of the review under paragraph (1), the Secretary shall select, from among the technologies reviewed, the technology that the Secretary determines will best increase the effectiveness of removing contaminated sediments and significantly reduce contamination of the water column. “(B) Agreement.—Not later than December 31, 2001, the Secretary shall enter into an agreement with a public or private entity to test the selected technology in the vicinity of Peoria Lakes, Illinois. “(3) Authorization of appropriations.—There is authorized to be appropriated to carry out this subsection $2,000,000.”
@@ -4394,8 +3827,8 @@ Pub. L. 106–53, title V, § 561, Aug. 17, 1999, 113 Stat. 355, provided that: 
 Secretary means the Secretary of the Army, see section 2 of Pub. L. 100–676, set out as a note under [section 2201 of this title](./chapter-036-water-resources-development.md#section-2201).
 
 
-<a id="section-2315"></a>
-## § 2315. Technical assistance program
+<a id="section-2296"></a>
+## § 2296. Technical assistance program
 **(a) In general** The Secretary is authorized to provide technical assistance, on a nonexclusive basis, to any United States firm which is competing for, or has been awarded, a contract for the planning, design, or construction of a project outside the United States, if the United States firm provides, in advance of fiscal obligation by the United States, funds to cover all costs of such assistance. In determining whether to provide such assistance, the Secretary shall consider the effects on the Department of the Army civil works mission, personnel, and facilities. Prior to the Secretary providing such assistance, a United States firm must—
 
 (1) certify to the Secretary that such assistance is not otherwise reasonably and expeditiously available; and
@@ -4434,8 +3867,8 @@ Subsecs. (d), (e). Pub. L. 101–640, § 318(c)(3), (4), redesignated subsec. (e
 Secretary means the Secretary of the Army, see section 2 of Pub. L. 100–676, set out as a note under [section 2201 of this title](./chapter-036-water-resources-development.md#section-2201).
 
 
-<a id="section-2315a"></a>
-## § 2315a. Advanced modeling technologies
+<a id="section-2297"></a>
+## § 2297. Advanced modeling technologies
 **(a) In general** To the greatest extent practicable, the Secretary shall encourage and incorporate advanced modeling technologies, including 3-dimensional digital modeling, that can expedite project delivery or improve the evaluation of water resources development projects that receive Federal funding by—
 
 (1) accelerating and improving the environmental review process;
@@ -4467,8 +3900,8 @@ Section was enacted as part of the Water Resources Reform and Development Act of
 Secretary means the Secretary of the Army, see section 2 of Pub. L. 113–121, set out as a note under [section 2201 of this title](./chapter-036-water-resources-development.md#section-2201).
 
 
-<a id="section-2315b"></a>
-## § 2315b. Periodic statements
+<a id="section-2298"></a>
+## § 2298. Periodic statements
 
 Upon receipt of a request from a non-Federal sponsor of a water resources development project under construction by the Secretary, the Secretary shall provide such sponsor with periodic statements of project expenditures. Such statements shall include an estimate of all Federal and non-Federal funds expended by the Secretary, including overhead expenditures, the purpose for expenditures, and a schedule of anticipated expenditures during the remaining period of construction. Statements shall be provided to the sponsor at intervals of no greater than 6 months.
 
@@ -4481,8 +3914,8 @@ Section was enacted as part of the Water Resources Development Act of 1988, and 
 Secretary means the Secretary of the Army, see section 2 of Pub. L. 100–676, set out as a note under [section 2201 of this title](./chapter-036-water-resources-development.md#section-2201).
 
 
-<a id="section-2316"></a>
-## § 2316. Transparency in accounting and administrative expenses
+<a id="section-2299"></a>
+## § 2299. Transparency in accounting and administrative expenses
 
 On the request of a non-Federal interest, the Secretary shall provide to the non-Federal interest a detailed accounting of the Federal expenses associated with a water resources project.
 
@@ -4495,8 +3928,8 @@ Section was enacted as part of the Water Resources Reform and Development Act of
 Secretary means the Secretary of the Army, see section 2 of Pub. L. 113–121, set out as a note under [section 2201 of this title](./chapter-036-water-resources-development.md#section-2201).
 
 
-<a id="section-2317"></a>
-## § 2317. Transparency and accountability in cost sharing for water resources development projects
+<a id="section-2300"></a>
+## § 2300. Transparency and accountability in cost sharing for water resources development projects
 **(a) Definition of balance sheet** In this section, the term “balance sheet” means a document that describes—
 
 (1) the funds provided by each Federal and non-Federal interest for a water resources development project; and
@@ -4520,8 +3953,8 @@ Section was enacted as part of the Water Resources Development Act of 2018, and 
 Secretary means the Secretary of the Army, see section 102 of Pub. L. 115–270, set out as a note under [section 2201 of this title](./chapter-036-water-resources-development.md#section-2201).
 
 
-<a id="section-2317a"></a>
-## § 2317a. Environmental protection mission
+<a id="section-2301-2302"></a>
+## § 2301, 2302. Environmental protection mission
 **(a) General rule** The Secretary shall include environmental protection as one of the primary missions of the Corps of Engineers in planning, designing, constructing, operating, and maintaining water resources projects.
 
 **(b) Limitation** Nothing in this section affects—
@@ -4541,8 +3974,8 @@ Section was enacted as part of the Water Resources Development Act of 1990, and 
 Secretary means the Secretary of the Army, see section 2 of Pub. L. 101–640, set out as a note under [section 2201 of this title](./chapter-036-water-resources-development.md#section-2201).
 
 
-<a id="section-2317b"></a>
-## § 2317b. Wetlands
+<a id="section-2303"></a>
+## § 2303. Wetlands
 **(a) Goals and action plan**
 
 (1) **Goals** — There is established, as part of the Corps of Engineers water resources development program, an interim goal of no overall net loss of the Nation’s remaining wetlands base, as defined by acreage and function, and a long-term goal to increase the quality and quantity of the Nation’s wetlands, as defined by acreage and function.
@@ -4629,8 +4062,8 @@ Pub. L. 101–640, title IV, § 409, Nov. 28, 1990, 104 Stat. 4648, provided tha
 Secretary means the Secretary of the Army, see section 2 of Pub. L. 101–640, set out as a note under [section 2201 of this title](./chapter-036-water-resources-development.md#section-2201).
 
 
-<a id="section-2318"></a>
-## § 2318. Cooperative agreements
+<a id="section-2304"></a>
+## § 2304. Cooperative agreements
 **(a) In general** For the purpose of expediting the cost-effective design and construction of wetlands restoration that is part of an authorized water resources project, the Secretary may enter into cooperative agreements under [section 6305 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section6305&num=0&edition=prelim) with nonprofit organizations with expertise in wetlands restoration to carry out such design and construction on behalf of the Secretary.
 
 **(b) Limitations**
@@ -4648,8 +4081,8 @@ Section was enacted as part of the Water Resources Development Act of 2007, and 
 Secretary means the Secretary of the Army, see section 2 of Pub. L. 110–114, set out as a note under [section 2201 of this title](./chapter-036-water-resources-development.md#section-2201).
 
 
-<a id="section-2319"></a>
-## § 2319. Mitigation banks and in-lieu fee arrangements
+<a id="section-2305"></a>
+## § 2305. Mitigation banks and in-lieu fee arrangements
 (1) **In general** — Not later than 180 days after December 16, 2016, the Secretary shall issue implementation guidance that provides for the consideration in water resources development feasibility studies of the entire amount of potential in-kind credits available at mitigation banks approved by the Secretary and in-lieu fee programs with an approved service area that includes the location of the projected impacts of the water resources development project.
 
 (2) **Requirements** — All potential mitigation bank and in-lieu fee credits that meet the criteria under paragraph (1) shall be considered a reasonable alternative for planning purposes if—
@@ -4680,8 +4113,8 @@ Section was enacted as part of the Water Resources Development Act of 2007, and 
 Secretary means the Secretary of the Army, see section 2 of Pub. L. 110–114, set out as a note under [section 2201 of this title](./chapter-036-water-resources-development.md#section-2201).
 
 
-<a id="section-2320"></a>
-## § 2320. Flood plain management
+<a id="section-2306"></a>
+## § 2306. Flood plain management
 **(a) Exclusion of elements from benefit-cost analysis** The Secretary shall not include in the benefit base for justifying Federal flood damage reduction projects—
 
 (1)
@@ -4742,8 +4175,8 @@ Pub. L. 106–53, title II, § 219(b), Aug. 17, 1999, 113 Stat. 295, provided th
 Secretary means the Secretary of the Army, see section 2 of Pub. L. 101–640, set out as a note under [section 2201 of this title](./chapter-036-water-resources-development.md#section-2201).
 
 
-<a id="section-2321"></a>
-## § 2321. Reservoir management
+<a id="section-2307"></a>
+## § 2307. Reservoir management
 
 The Secretary shall ensure that, in developing or revising reservoir operating manuals of the Corps of Engineers, the Corps shall provide significant opportunities for public participation, including opportunities for public hearings. The Secretary shall issue regulations to implement this section, including a requirement that all appropriate informational materials relating to proposed management decisions of the Corps be made available to the public sufficiently in advance of public hearings. Not later than January 1, 1992, the Secretary shall transmit to Congress a report on measures taken pursuant to this section.
 
@@ -4764,8 +4197,8 @@ Pub. L. 113–121, title I, § 1046(a), June 10, 2014, 128 Stat. 1251, provided 
 Secretary means the Secretary of the Army, see section 2 of Pub. L. 101–640, set out as a note under [section 2201 of this title](./chapter-036-water-resources-development.md#section-2201).
 
 
-<a id="section-2321a"></a>
-## § 2321a. Protection of recreational and commercial uses
+<a id="section-2308"></a>
+## § 2308. Protection of recreational and commercial uses
 **(a) General rule** In planning any water resources project, the Secretary shall consider the impact of the project on existing and future recreational and commercial uses in the area surrounding the project.
 
 **(b) Maintenance** Whenever the Secretary maintains, repairs, rehabilitates, or reconstructs a water resources project which will result in a change in the configuration of a structure which is a part of such project, the Secretary, to the maximum extent practicable, shall carry out such maintenance, repair, rehabilitation, or reconstruction in a manner which will not adversely affect any recreational use established with respect to such project before the date of such maintenance, repair, rehabilitation, or reconstruction.
@@ -4795,8 +4228,8 @@ Section was enacted as part of the Water Resources Development Act of 1990, and 
 Secretary means the Secretary of the Army, see section 2 of Pub. L. 101–640, set out as a note under [section 2201 of this title](./chapter-036-water-resources-development.md#section-2201).
 
 
-<a id="section-2321b"></a>
-## § 2321b. Operation and maintenance of navigation and hydroelectric facilities
+<a id="section-2309"></a>
+## § 2309. Operation and maintenance of navigation and hydroelectric facilities
 **(a) In general** Activities currently performed by personnel under the direction of the Secretary in connection with the operation and maintenance of navigation or hydroelectric power generating facilities at Corps of Engineers water resources projects are to be considered as inherently governmental functions and not commercial activities.
 
 **(b) Major maintenance contracts allowed** This section does not prohibit contracting out major maintenance or other functions which are currently contracted out or studying services not directly connected with project maintenance and operations.
@@ -4819,8 +4252,8 @@ Section was enacted as part of the Water Resources Development Act of 1990, and 
 Secretary means the Secretary of the Army, see section 2 of Pub. L. 101–640, set out as a note under [section 2201 of this title](./chapter-036-water-resources-development.md#section-2201).
 
 
-<a id="section-2322"></a>
-## § 2322. Hydroelectric power project uprating
+<a id="section-2309a"></a>
+## § 2309a. Hydroelectric power project uprating
 **(a) In general** In carrying out the operation, maintenance, rehabilitation, and modernization of a hydroelectric power generating facility at a water resources project under the jurisdiction of the Department of the Army, the Secretary may, to the extent funds are made available in appropriations Acts or in accordance with subsection (c), take such actions as are necessary to optimize the efficiency of energy production or increase the capacity of the facility, or both, if, after consulting with the heads of other appropriate Federal and State agencies, the Secretary determines that such actions—
 
 (1) are economically justified and financially feasible;
@@ -4859,39 +4292,80 @@ Subsecs. (c) to (e). Pub. L. 106–541, § 212(3), (4), added subsecs. (c) and (
 Secretary means the Secretary of the Army, see section 2 of Pub. L. 104–303, set out as a note under [section 2201 of this title](./chapter-036-water-resources-development.md#section-2201).
 
 
-<a id="section-2323"></a>
-## § 2323. Expediting hydropower at Corps of Engineers facilities
+<a id="section-2310"></a>
+## § 2310. Expediting hydropower at Corps of Engineers facilities
 **(a) Policy** Congress declares that it is the policy of the United States that—
 
-(1) the development of non-Federal hydroelectric power at Corps of Engineers civil works projects, including locks and dams, shall be given priority;
+(1) the development of non-Federal hydroelectric power at Corps of Engineers water resources development projects, including locks and dams, shall be given priority;
 
-(2) Corps of Engineers approval of non-Federal hydroelectric power at Corps of Engineers civil works projects, including permitting required under [section 408 of this title](./chapter-009-protection-of-navigable-waters-and-of-harbor-and-river-improvements-generally.md#section-408), shall be completed by the Corps of Engineers in a timely and consistent manner; and
+(2) Corps of Engineers approval of non-Federal hydroelectric power at Corps of Engineers water resources development projects, including permitting required under [section 408 of this title](./chapter-009-protection-of-navigable-waters-and-of-harbor-and-river-improvements-generally.md#section-408), shall be completed by the Corps of Engineers in a timely and consistent manner; and
 
-(3) approval of hydropower at Corps of Engineers civil works projects shall in no way diminish the other priorities and missions of the Corps of Engineers, including authorized project purposes and habitat and environmental protection.
+(3) approval of hydropower at Corps of Engineers water resources development projects shall in no way diminish the other priorities and missions of the Corps of Engineers, including authorized project purposes and habitat and environmental protection.
 
 **(b) Report** Not later than 2 years after June 10, 2014, and biennially thereafter, the Secretary shall submit to the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives and make publicly available a report that, at a minimum, shall include—
 
-(1) a description of initiatives carried out by the Secretary to encourage the development of hydroelectric power by non-Federal entities at Corps of Engineers civil works projects;
+(1) a description of initiatives carried out by the Secretary to encourage the development of hydroelectric power by non-Federal entities at Corps of Engineers water resources development projects;
 
-(2) a list of all new hydroelectric power activities by non-Federal entities approved at Corps of Engineers civil works projects in that fiscal year, including the length of time the Secretary needed to approve those activities;
+(2) a list of all new hydroelectric power activities by non-Federal entities approved at Corps of Engineers water resources development projects in that fiscal year, including the length of time the Secretary needed to approve those activities;
 
-(3) a description of the status of each pending application from non-Federal entities for approval to develop hydroelectric power at Corps of Engineers civil works projects;
+(3) a description of the status of each pending application from non-Federal entities for approval to develop hydroelectric power at Corps of Engineers water resources development projects;
 
-(4) a description of any benefits or impacts to the environment, recreation, or other uses associated with Corps of Engineers civil works projects at which non-Federal entities have developed hydroelectric power in the previous fiscal year; and
+(4) a description of any benefits or impacts to the environment, recreation, or other uses associated with Corps of Engineers water resources development projects at which non-Federal entities have developed hydroelectric power in the previous fiscal year; and
 
-(5) the total annual amount of payments or other services provided to the Corps of Engineers, the Treasury, and any other Federal agency as a result of approved non-Federal hydropower projects at Corps of Engineers civil works projects.
+(5) the total annual amount of payments or other services provided to the Corps of Engineers, the Treasury, and any other Federal agency as a result of approved non-Federal hydropower projects at Corps of Engineers water resources development projects.
+
+**(c) Reviewing hydropower at Corps of Engineers facilities**
+
+(1) **Definition of eligible non-Federal interest** — In this subsection, the term “eligible non-Federal interest” means a non-Federal interest that owns or operates an existing non-Federal hydropower facility at a Corps of Engineers water resources development project.
+
+(2) **Evaluation**
+
+  (A) *In general* — On the written request of an eligible non-Federal interest, the Secretary shall conduct an evaluation to consider operational changes at the applicable project to facilitate production of non-Federal hydropower, consistent with authorized project purposes. The Secretary shall solicit input from interested stakeholders as part of the evaluation.
+
+  (B) *Deadline* — Not later than 180 days after the date on which the Secretary receives a written request under subparagraph (A), the Secretary shall provide to the non-Federal interest a written response to inform the non-Federal interest—
+
+    (i) that the Secretary has approved the request to conduct an evaluation; or
+
+    (ii) of any additional information necessary for the Secretary to approve the request to conduct an evaluation.
+
+(3) **Operational changes** — An operational change referred to in paragraph (2)(A) may include—
+
+  (A) changes to seasonal pool levels;
+
+  (B) modifying releases from the project; and
+
+  (C) other changes included in the written request submitted under that paragraph that enhance the usage of the project to facilitate production of non-Federal hydropower, consistent with authorized project purposes.
+
+(4) **Cost share** — The eligible non-Federal interest shall pay 100 percent of the costs associated with an evaluation under this subsection, including the costs to prepare the report under paragraph (6).
+
+(5) **Deadline** — The Secretary shall complete an evaluation under this subsection by the date that is not later than 1 year after the date on which the Secretary begins the evaluation.
+
+(6) **Report** — On completion of an evaluation under this subsection, the Secretary shall submit to the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a report on the effects of the operational changes proposed by the non-Federal interest and examined in the evaluation on the authorized purposes of the project, including a description of any negative impacts of the proposed operational changes on the authorized purposes of the project, or on any Federal project located in the same basin.
+
+(7) **Savings provision** — Nothing in this subsection—
+
+  (A) affects the authorized purposes of a Corps of Engineers water resources development project;
+
+  (B) affects existing authorities of the Corps of Engineers, including authorities with respect to navigation, flood damage reduction, environmental protection and restoration, water supply and conservation, and other related purposes; or
+
+  (C) authorizes the Secretary to make any operational changes to a Corps of Engineers water resources development project.
 
 ### Statutory Notes
 
 #### Codification
 Section was enacted as part of the Water Resources Reform and Development Act of 2014, and not as part of the Water Resources Development Act of 1986 which comprises this chapter.
 
+#### Amendments
+2020—Subsecs. (a), (b). Pub. L. 116–260, § 146(1), substituted “water resources development” for “civil works” wherever appearing.
+
+Subsec. (c). Pub. L. 116–260, § 146(2), added subsec. (c).
+
 #### “Secretary” Defined
 Secretary means the Secretary of the Army, see section 2 of Pub. L. 113–121, set out as a note under [section 2201 of this title](./chapter-036-water-resources-development.md#section-2201).
 
 
-<a id="section-2323a"></a>
-## § 2323a. Single entities
+<a id="section-2311"></a>
+## § 2311. Single entities
 
 For purposes of Federal participation in water resource development projects which are to be carried out by the Secretary, benefits which are to be provided to a facility owned by a State (including the District of Columbia and a territory or possession of the United States), county, municipality, or other public entity shall not be treated as benefits to be provided a single owner or single entity. The Secretary shall not treat such a facility as a single owner or single entity for any purpose.
 
@@ -4904,8 +4378,8 @@ Section was enacted as part of the Water Resources Development Act of 1990, and 
 Secretary means the Secretary of the Army, see section 2 of Pub. L. 101–640, set out as a note under [section 2201 of this title](./chapter-036-water-resources-development.md#section-2201).
 
 
-<a id="section-2324"></a>
-## § 2324. Technical assistance to private entities
+<a id="section-2312"></a>
+## § 2312. Technical assistance to private entities
 **(a) Use of Corps research and development labs** The Secretary is authorized to use Corps of Engineers research and development laboratories to provide research and development assistance to corporations, partnerships, limited partnerships, consortia, public and private foundations, universities, and nonprofit organizations operating within the United States, territories or possessions of the United States, and the Commonwealths of Puerto Rico and the Northern Mariana Islands—
 
 (1) if the entity furnishes in advance of fiscal obligation by the United States such funds as are necessary to cover any and all costs of such research and development assistance;
@@ -4931,8 +4405,8 @@ Section was enacted as part of the Water Resources Development Act of 1990, and 
 Secretary means the Secretary of the Army, see section 2 of Pub. L. 101–640, set out as a note under [section 2201 of this title](./chapter-036-water-resources-development.md#section-2201).
 
 
-<a id="section-2325"></a>
-## § 2325. Interagency and international support authority
+<a id="section-2313"></a>
+## § 2313. Interagency and international support authority
 **(a) In general** The Secretary may engage in activities (including contracting) in support of Federal departments or agencies, nongovernmental organizations, international organizations, or foreign governments to address problems of national significance to the United States.
 
 **(b) Consultation** The Secretary may engage in activities in support of international organizations or foreign governments only after consulting with the Department of State.
@@ -4974,11 +4448,11 @@ Pub. L. 106–541, title II, § 206, Dec. 11, 2000, 114 Stat. 2590, provided tha
 Secretary means the Secretary of the Army, see section 2 of Pub. L. 104–303, set out as a note under [section 2201 of this title](./chapter-036-water-resources-development.md#section-2201).
 
 
-<a id="section-2325a"></a>
-## § 2325a. Reduced pricing for certain water supply storage
+<a id="section-2313a"></a>
+## § 2313a. Reduced pricing for certain water supply storage
 **(a) Provision of storage space** If a low income community requests the Secretary to provide water supply storage space in a water resources development project operated by the Secretary and if the amount of space requested is available or could be made available through reallocation of water supply storage space in the project or through modifications to operation of the project, the Secretary may provide such space to the community at a price determined under subsection (c).
 
-**(b) Maximum amount of storage space** The maximum amount of water supply storage space which may be provided to a community under this section may not exceed an amount of water supply storage space sufficient to yield 2,000,000 gallons of water per day.
+**(b) Maximum amount of storage space** The maximum amount of water supply storage space which may be provided to a community under this section may not exceed an amount of water supply storage space sufficient to yield 3,000,000 gallons of water per day.
 
 **(c) Price** The Secretary shall provide water supply storage space under this section at a price which is the greater of—
 
@@ -4992,19 +4466,28 @@ Secretary means the Secretary of the Army, see section 2 of Pub. L. 104–303, s
 
 **(f) Non-Federal responsibilities** Nothing in this section shall be construed as affecting the responsibility of non-Federal interests to provide operation and maintenance costs assigned to water supply storage provided under this section.
 
-**(g) “Low income community” defined** The term “low income community” means a community with a population of less than 20,000 which is located in a county with a per capita income less than the per capita income of two-thirds of the counties in the United States.
+**(g) “Low income community” defined** The term “low income community” means—
+
+(1) a community with a population of less than 20,000 which is located in a county with a per capita income less than the per capita income of two-thirds of the counties in the United States; or
+
+(2) a regional water system that serves a population of less than 100,000, for which the per capita income is less than the per capita income of not less than 50 percent of the counties in the United States.
 
 ### Statutory Notes
 
 #### Codification
 Section was enacted as part of the Water Resources Development Act of 1990, and not as part of the Water Resources Development Act of 1986 which comprises this chapter.
 
+#### Amendments
+2020—Subsec. (b). Pub. L. 116–260, § 350(1), substituted “3,000,000” for “2,000,000”.
+
+Subsec. (g). Pub. L. 116–260, § 350(2), substituted “means—” for “means”, inserted par. (1) designation before “a community”, substituted “; or” for period at end, and added par. (2).
+
 #### “Secretary” Defined
 Secretary means the Secretary of the Army, see section 2 of Pub. L. 101–640, set out as a note under [section 2201 of this title](./chapter-036-water-resources-development.md#section-2201).
 
 
-<a id="section-2326"></a>
-## § 2326. Voluntary contributions for environmental and recreation projects
+<a id="section-2313b"></a>
+## § 2313b. Voluntary contributions for environmental and recreation projects
 **(a) Acceptance** In connection with carrying out a water resources project for environmental protection and restoration or a water resources project for recreation, the Secretary is authorized to accept contributions of cash, funds, materials, and services from persons, including governmental entities but excluding the project sponsor.
 
 **(b) Deposit** Any cash or funds received by the Secretary under subsection (a) shall be deposited into the account in the Treasury of the United States entitled “Contributions and Advances, Rivers and Harbors, Corps of Engineers (8862)” and shall be available until expended to carry out water resources projects described in subsection (a).
@@ -5021,8 +4504,8 @@ Section was enacted as part of the Water Resources Development Act of 1992, and 
 Secretary means the Secretary of the Army, see section 3 of Pub. L. 102–580, set out as a note under [section 2201 of this title](./chapter-036-water-resources-development.md#section-2201).
 
 
-<a id="section-2326a"></a>
-## § 2326a. Authority to accept and use materials and services
+<a id="section-2314"></a>
+## § 2314. Authority to accept and use materials and services
 **(a) In general** Subject to subsection (b), the Secretary is authorized to accept and use materials, services, or funds contributed by a non-Federal public entity, a nonprofit entity, or a private entity to repair, restore, replace, or maintain a water resources project in any case in which the District Commander determines that—
 
 (1) there is a risk of adverse impacts to the functioning of the project for the authorized purposes of the project; and
@@ -5059,8 +4542,58 @@ Subsec. (d). Pub. L. 114–322, § 1153(2), (4), redesignated subsec. (c) as (d)
 Secretary means the Secretary of the Army, see section 2 of Pub. L. 113–121, set out as a note under [section 2201 of this title](./chapter-036-water-resources-development.md#section-2201).
 
 
-<a id="section-2326b"></a>
-## § 2326b. Regional sediment management
+<a id="section-2314a"></a>
+## § 2314a. Materials, services, and funds for repair, restoration, or rehabilitation of projects
+**(a) Definitions** In this section:
+
+(1) **Covered area** — The term “covered area” means an area—
+
+  (A) for which the Governor of a State has requested a determination that an emergency exists; or
+
+  (B) covered by an emergency or major disaster declaration declared under the Robert T. Stafford Disaster Relief and Emergency Assistance Act ([42 U.S.C. 5121](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5121&num=0&edition=prelim) et seq.).
+
+(2) **Emergency period** — The term “emergency period” means—
+
+  (A) with respect to a covered area described in paragraph (1)(A), the period during which the Secretary determines an emergency exists; and
+
+  (B) with respect to a covered area described in paragraph (1)(B), the period during which the applicable declaration is in effect.
+
+**(b) In general** In any covered area, the Secretary is authorized to accept and use materials, services, and funds, during the emergency period, from a non-Federal interest or private entity to repair, restore, or rehabilitate a federally authorized water resources development project, and to provide reimbursement to such non-Federal interest or private entity for such materials, services, and funds, in the Secretary’s sole discretion, and subject to the availability of appropriations, if the Secretary determines that reimbursement is in the public interest.
+
+**(c) Additional requirement** The Secretary may only reimburse for the use of materials or services accepted under this section if such materials or services meet the Secretary’s specifications and comply with all applicable laws and regulations that would apply if such materials and services were acquired by the Secretary, including sections 3141 through 3148 and 3701 through 3708 of title 40, [section 8302 of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section8302&num=0&edition=prelim), and the National Environmental Policy Act of 1969.
+
+**(d) Agreements**
+
+(1) **In general** — Prior to the acceptance of materials, services, or funds under this section, the Secretary and the non-Federal interest or private entity shall enter into an agreement that specifies—
+
+  (A) the non-Federal interest or private entity shall hold and save the United States free from any and all damages that arise from use of materials or services of the non-Federal interest or private entity, except for damages due to the fault or negligence of the United States or its contractors;
+
+  (B) the non-Federal interest or private entity shall certify that the materials or services comply with all applicable laws and regulations under subsection (c); and
+
+  (C) any other term or condition required by the Secretary.
+
+(2) **Exception** — If an agreement under paragraph (1) was not entered prior to materials or services being contributed, a non-Federal interest or private entity shall enter into an agreement with the Secretary that—
+
+  (A) specifies the value, as determined by the Secretary, of those materials or services contributed and eligible for reimbursement; and
+
+  (B) ensures that the materials or services comply with subsection (c) and paragraph (1).
+
+### Statutory Notes
+
+#### References in Text
+The Robert T. Stafford Disaster Relief and Emergency Assistance Act, referred to in subsec. (a)(1)(B), is Pub. L. 93–288, May 22, 1974, 88 Stat. 143, which is classified principally to chapter 68 (§ 5121 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 5121 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5121&num=0&edition=prelim) and Tables.
+
+The National Environmental Policy Act of 1969, referred to in subsec. (c), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 4321 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) and Tables.
+
+#### Codification
+Section was enacted as part of the Water Resources Development Act of 2020, and not as part of the Water Resources Development Act of 1986 which comprises this chapter.
+
+#### “Secretary” Defined
+Secretary means the Secretary of the Army, see section 2 of div. AA of Pub. L. 116–260, set out as a note under [section 2201 of this title](./chapter-036-water-resources-development.md#section-2201).
+
+
+<a id="section-2314b"></a>
+## § 2314b. Regional sediment management
 **(a) In general**
 
 (1) **Sediment use**
@@ -5105,17 +4638,23 @@ Secretary means the Secretary of the Army, see section 2 of Pub. L. 113–121, s
 
 **(d) Selection of dredged material disposal method for purposes related to environmental restoration or storm damage and flood reduction**
 
-(1) **In general** — In developing and carrying out a Federal water resources project involving the disposal of dredged material, the Secretary may select, with the consent of the non-Federal interest, a disposal method that is not the least cost option if the Secretary determines that the incremental costs of the disposal method are reasonable in relation to—
+(1) **In general** — At the request of the non-Federal interest for a water resources development project involving the disposal of dredged material, the Secretary, using funds appropriated for construction or operation and maintenance of the project, may select a disposal method that is not the least cost option if the Secretary determines that the incremental costs of the disposal method are reasonable in relation to—
 
   (A) the environmental benefits, including the benefits to the aquatic environment to be derived from the creation of wetlands and control of shoreline erosion; or
 
-  (B) the flood and storm damage and flood reduction benefits, including shoreline protection, protection against loss of life, and damage to improved property.
+  (B) the hurricane and storm or flood risk reduction benefits, including shoreline protection, protection against loss of life, and damage to improved property.
 
 (2) **Federal share** — The Federal share of such incremental costs shall be determined in accordance with subsection (c).
 
 (3) **Special rule** — Disposal of dredged material under this subsection may include a single or periodic application of sediment for beneficial use and shall not require operation and maintenance.
 
 (4) **Disposal at non-Federal cost** — The Secretary may accept funds from a non-Federal interest to dispose of dredged material as provided under [section 2213(d)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section2213/d/1&num=0&edition=prelim).
+
+(5) **Selection of dredged material disposal method for certain purposes** — Activities carried out under this subsection—
+
+  (A) shall be carried out using amounts appropriated for construction or operation and maintenance of the project involving the disposal of the dredged material; and
+
+  (B) shall not carried out using amounts made available under subsection (g).
 
 **(e) State and regional plans** The Secretary may—
 
@@ -5157,6 +4696,12 @@ Secretary means the Secretary of the Army, see section 2 of Pub. L. 113–121, s
 Section was enacted as part of the Water Resources Development Act of 1992, and not as part of the Water Resources Development Act of 1986 which comprises this chapter.
 
 #### Amendments
+2020—Subsec. (d)(1). Pub. L. 116–260, § 125(a)(1)(C)(i)(I), in introductory provisions, substituted “At the request of the non-Federal interest for a water resources development project involving the disposal of dredged material, the Secretary, using funds appropriated for construction or operation and maintenance of the project, may select” for “In developing and carrying out a Federal water resources project involving the disposal of dredged material, the Secretary may select, with the consent of the non-Federal interest,”.
+
+Subsec. (d)(1)(B). Pub. L. 116–260, § 125(a)(1)(C)(i)(II), substituted “hurricane and storm or flood risk reduction benefits” for “flood and storm damage and flood reduction benefits”.
+
+Subsec. (d)(5). Pub. L. 116–260, § 125(a)(1)(C)(ii), added par. (5).
+
 2018—Subsec. (a)(1)(A). Pub. L. 115–270, § 1150, inserted “including a project authorized for flood control,” after “an authorized Federal water resources project,”.
 
 Subsec. (g). Pub. L. 115–270, § 1157(d), substituted “$62,500,000” for “$50,000,000”.
@@ -5192,26 +4737,62 @@ Subsec. (g). Pub. L. 106–53, § 209(2), added subsec. (g).
 #### Applicability
 Pub. L. 110–114, title II, § 2037(c), as added by Pub. L. 113–121, title I, § 1030(d)(2), June 10, 2014, 128 Stat. 1232, provided that: “The amendment made by subsection (a) [amending this section] shall not apply to any project authorized under this Act [see Tables for classification] if a report of the Chief of Engineers for the project was completed prior to the date of enactment of this Act [Nov. 8, 2007].”
 
+#### Project Selection
+Pub. L. 116–260, div. AA, title I, § 125(b)(3), Dec. 27, 2020, 134 Stat. 2638, provided that: “In selecting projects for the beneficial use of dredged materials under section 1122 of the Water Resources Development Act of 2016 ([33 U.S.C. 2326](./chapter-036-water-resources-development.md#section-2326) note) [set out as a note below], the Secretary [of the Army] shall prioritize the selection of at least one project for the utilization of thin layer placement of dredged fine and coarse grain sediment and at least one project for recovering lost storage capacity in reservoirs due to sediment accumulation authorized by subsection (a)(8) of such section, to the extent that a non-Federal interest has submitted an application for such project purposes that otherwise meets the requirements of such section.”
+
+#### Coordination With Existing Authorities
+Pub. L. 116–260, div. AA, title I, § 125(d)(2), Dec. 27, 2020, 134 Stat. 2640, provided that: “The Secretary [of the Army] may carry out the dredge pilot program authorized by section 1111 of the Water Resources Development Act of 2018 ([33 U.S.C. 2326](./chapter-036-water-resources-development.md#section-2326) note) in coordination with Federal regional dredge demonstration programs in effect on the date of enactment of this Act [Dec. 27, 2020].”
+
 #### Dredge Pilot Program
-Pub. L. 115–270, title I, § 1111, Oct. 23, 2018, 132 Stat. 3774, provided that: “(a) In General.—The Secretary [of the Army] is authorized to carry out a pilot program to award contracts with a duration of up to 5 years for the operation and maintenance of harbors and inland harbors referred to in section 210(a)(2) of the Water Resources Development Act of 1986 ([33 U.S.C. 2238(a)(2)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section2238/a/2&num=0&edition=prelim)). “(b) Scope.—In carrying out the pilot program under subsection (a), the Secretary may award a contract described in such subsection, which may address one or more harbors or inland harbors in a geographical region, if the Secretary determines that the contract provides cost savings compared to the awarding of such work on an annual basis or on a project-by-project basis. “(c) Report to Congress.—Not later than 1 year after the date on which the first contract is awarded pursuant to the pilot program carried out under subsection (a), the Secretary shall submit to Congress a report evaluating, with respect to the pilot program and any contracts awarded under the pilot program—“(1) cost effectiveness; “(2) reliability and performance; “(3) cost savings attributable to mobilization and demobilization of dredge equipment; and “(4) response times to address navigational impediments. “(d) Sunset.—The authority of the Secretary to enter into contracts pursuant to the pilot program carried out under subsection (a), shall expire on the date that is 10 years after the date of enactment of this Act [Oct. 23, 2018].”
+Pub. L. 115–270, title I, § 1111, Oct. 23, 2018, 132 Stat. 3774, as amended by Pub. L. 116–260, div. AA, title I, § 125(d)(1), Dec. 27, 2020, 134 Stat. 2640, provided that: “(a) In General.—The Secretary [of the Army] is authorized to carry out a pilot program to award contracts with a duration of up to 5 years for the operation and maintenance of—“(1) harbors and inland harbors referred to in section 210(a)(2) of the Water Resources Development Act of 1986 ([33 U.S.C. 2238(a)(2)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section2238/a/2&num=0&edition=prelim)); or “(2) inland and intracoastal waterways of the United States described in section 206 of the Inland Waterways Revenue Act of 1978 ([33 U.S.C. 1804](./chapter-032-inland-waterways-trust-fund.md#section-1804)). “(b) Scope.—In carrying out the pilot program under subsection (a), the Secretary may award a contract described in such subsection, which may address one or more harbors, inland harbors, or inland or intracoastal waterways in a geographical region, if the Secretary determines that the contract provides cost savings compared to the awarding of such work on an annual basis or on a project-by-project basis. “(c) Report to Congress.—Not later than 1 year after the date on which the first contract is awarded pursuant to the pilot program carried out under subsection (a), the Secretary shall submit to Congress a report evaluating, with respect to the pilot program and any contracts awarded under the pilot program—“(1) cost effectiveness; “(2) reliability and performance; “(3) cost savings attributable to mobilization and demobilization of dredge equipment; and “(4) response times to address navigational impediments. “(d) Sunset.—The authority of the Secretary to enter into contracts pursuant to the pilot program carried out under subsection (a), shall expire on the date that is 10 years after the date of enactment of this Act [Oct. 23, 2018].”
 
 #### Beneficial Use of Dredged Sediment
 Pub. L. 115–270, title I, § 1148, Oct. 23, 2018, 132 Stat. 3787, provided that: “(a) In General.—In carrying out a project for the beneficial reuse of sediment to reduce storm damage to property under section 204 of the Water Resources Development Act of 1992 ([33 U.S.C. 2326](./chapter-036-water-resources-development.md#section-2326)) that involves only a single application of sediment, the Secretary [of the Army] may grant a temporary easement necessary to facilitate the placement of sediment, if the Secretary determines that granting a temporary easement is in the interest of the United States. “(b) Limitation.—If the Secretary grants a temporary easement under subsection (a) with respect to a project, that project shall no longer be eligible for future placement of sediment under section 204 of the Water Resources Development Act of 1992 ([33 U.S.C. 2326](./chapter-036-water-resources-development.md#section-2326)).”
 
 #### Beneficial Use of Dredged Material
-Pub. L. 114–322, title I, § 1122(a)–(h), Dec. 16, 2016, 130 Stat. 1645, 1646, as amended by Pub. L. 115–270, title I, § 1130, Oct. 23, 2018, 132 Stat. 3780, provided that: “(a) In General.—Not later than 90 days after the date of enactment of this Act [Dec. 16, 2016], the Secretary [of the Army] shall establish a pilot program to carry out projects for the beneficial use of dredged material, including projects for the purposes of—“(1) reducing storm damage to property and infrastructure; “(2) promoting public safety; “(3) protecting, restoring, and creating aquatic ecosystem habitats; “(4) stabilizing stream systems and enhancing shorelines; “(5) promoting recreation; “(6) supporting risk management adaptation strategies; and “(7) reducing the costs of dredging and dredged material placement or disposal, such as projects that use dredged material for—“(A) construction or fill material; “(B) civic improvement objectives; and “(C) other innovative uses and placement alternatives that produce public economic or environmental benefits. “(b) Project Selection.—In carrying out the pilot program, the Secretary shall—“(1) identify for inclusion in the pilot program and carry out 20 projects for the beneficial use of dredged material; “(2) consult with relevant State agencies in selecting projects; and “(3) select projects solely on the basis of—“(A) the environmental, economic, and social benefits of the projects, including monetary and nonmonetary benefits; and “(B) the need for a diversity of project types and geographical project locations. “(c) Regional Beneficial Use Teams.—“(1) In general.—In carrying out the pilot program, the Secretary shall establish regional beneficial use teams to identify and assist in the implementation of projects under the pilot program. “(2) Composition.—“(A) Leadership.—For each regional beneficial use team established under paragraph (1), the Secretary shall appoint the Commander of the relevant division of the Corps of Engineers to serve as the head of the team. “(B) Membership.—The membership of each regional beneficial use team shall include—“(i) representatives of relevant Corps of Engineers districts and divisions; “(ii) representatives of relevant State and local agencies; and “(iii) representatives of Federal agencies and such other entities as the Secretary determines appropriate, consistent with the purposes of this section. “(d) Considerations.—The Secretary shall carry out the pilot program in a manner that—“(1) maximizes the beneficial placement of dredged material from Federal and non-Federal navigation channels; “(2) incorporates, to the maximum extent practicable, 2 or more Federal navigation, flood control, storm damage reduction, or environmental restoration projects; “(3) coordinates the mobilization of dredges and related equipment, including through the use of such efficiencies in contracting and environmental permitting as can be implemented under existing laws and regulations; “(4) fosters Federal, State, and local collaboration; “(5) implements best practices to maximize the beneficial use of dredged sand and other sediments; and “(6) ensures that the use of dredged material is consistent with all applicable environmental laws. “(e) Cost Sharing.—“(1) In general.—Projects carried out under this section shall be subject to the cost-sharing requirements applicable to projects carried out under section 204 of the Water Resources Development Act of 1992 ([33 U.S.C. 2326](./chapter-036-water-resources-development.md#section-2326)). “(2) Additional costs.—Notwithstanding paragraph (1), if the cost of transporting and depositing dredged material for a project carried out under this section exceeds the cost of carrying out those activities pursuant to any other water resources project in accordance, if applicable, with the Federal standard (as defined in section 335.7 of title 33, Code of Federal Regulations), the Secretary may not require the non-Federal interest to bear the additional cost of such activities. “(f) Report.—Not later than 2 years after the date of enactment of this Act [Dec. 16, 2016], and annually thereafter, the Secretary shall submit to the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a report that includes—“(1) a description of the projects selected to be carried out under the pilot program; “(2) documentation supporting each of the projects selected; “(3) the findings of regional beneficial use teams regarding project selection; and “(4) any recommendations of the Secretary or regional beneficial use teams with respect to the pilot program. “(g) Termination.—The pilot program shall terminate after completion of the 20 projects carried out pursuant to subsection (b)(1). “(h) Exemption From Other Standards.—The projects carried out under this section shall be carried out notwithstanding the definition of the term ‘Federal standard’ in section 335.7 of title 33, Code of Federal Regulations.”
+Pub. L. 114–322, title I, § 1122(a)–(h), Dec. 16, 2016, 130 Stat. 1645, 1646, as amended by Pub. L. 115–270, title I, § 1130, Oct. 23, 2018, 132 Stat. 3780; Pub. L. 116–260, div. AA, title I, § 125(b)(1), Dec. 27, 2020, 134 Stat. 2638, provided that: “(a) In General.—Not later than 90 days after the date of enactment of this Act [Dec. 16, 2016], the Secretary [of the Army] shall establish a pilot program to carry out projects for the beneficial use of dredged material, including projects for the purposes of—“(1) reducing storm damage to property and infrastructure; “(2) promoting public safety; “(3) protecting, restoring, and creating aquatic ecosystem habitats; “(4) stabilizing stream systems and enhancing shorelines; “(5) promoting recreation; “(6) supporting risk management adaptation strategies; “(7) reducing the costs of dredging and dredged material placement or disposal, such as projects that use dredged material for—“(A) construction or fill material; “(B) civic improvement objectives; and “(C) other innovative uses and placement alternatives that produce public economic or environmental benefits; and “(8) recovering lost storage capacity in reservoirs due to sediment accumulation, if the project also has a purpose described in any of paragraphs (1) through (7). “(b) Project Selection.—In carrying out the pilot program, the Secretary shall—“(1) identify for inclusion in the pilot program and carry out 35 projects for the beneficial use of dredged material; “(2) consult with relevant State agencies in selecting projects; and “(3) select projects solely on the basis of—“(A) the environmental, economic, and social benefits of the projects, including monetary and nonmonetary benefits; and “(B) the need for a diversity of project types and geographical project locations. “(c) Regional Beneficial Use Teams.—“(1) In general.—In carrying out the pilot program, the Secretary shall establish regional beneficial use teams to identify and assist in the implementation of projects under the pilot program. “(2) Composition.—“(A) Leadership.—For each regional beneficial use team established under paragraph (1), the Secretary shall appoint the Commander of the relevant division of the Corps of Engineers to serve as the head of the team. “(B) Membership.—The membership of each regional beneficial use team shall include—“(i) representatives of relevant Corps of Engineers districts and divisions; “(ii) representatives of relevant State and local agencies; and “(iii) representatives of Federal agencies and such other entities as the Secretary determines appropriate, consistent with the purposes of this section. “(d) Considerations.—The Secretary shall carry out the pilot program in a manner that—“(1) maximizes the beneficial placement of dredged material from Federal and non-Federal navigation channels; “(2) incorporates, to the maximum extent practicable, 2 or more Federal navigation, flood control, storm damage reduction, or environmental restoration projects; “(3) coordinates the mobilization of dredges and related equipment, including through the use of such efficiencies in contracting and environmental permitting as can be implemented under existing laws and regulations; “(4) fosters Federal, State, and local collaboration; “(5) implements best practices to maximize the beneficial use of dredged sand and other sediments; and “(6) ensures that the use of dredged material is consistent with all applicable environmental laws. “(e) Cost Sharing.—“(1) In general.—Projects carried out under this section shall be subject to the cost-sharing requirements applicable to projects carried out under section 204 of the Water Resources Development Act of 1992 ([33 U.S.C. 2326](./chapter-036-water-resources-development.md#section-2326)). “(2) Additional costs.—Notwithstanding paragraph (1), if the cost of transporting and depositing dredged material for a project carried out under this section exceeds the cost of carrying out those activities pursuant to any other water resources project in accordance, if applicable, with the Federal standard (as defined in section 335.7 of title 33, Code of Federal Regulations), the Secretary may not require the non-Federal interest to bear the additional cost of such activities. “(f) Report.—Not later than 2 years after the date of enactment of this Act [Dec. 16, 2016], and annually thereafter, the Secretary shall submit to the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a report that includes—“(1) a description of the projects selected to be carried out under the pilot program; “(2) documentation supporting each of the projects selected; “(3) the findings of regional beneficial use teams regarding project selection; and “(4) any recommendations of the Secretary or regional beneficial use teams with respect to the pilot program. “(g) Termination.—The pilot program shall terminate after completion of the 35 projects carried out pursuant to subsection (b)(1). “(h) Exemption From Other Standards.—The projects carried out under this section shall be carried out notwithstanding the definition of the term ‘Federal standard’ in section 335.7 of title 33, Code of Federal Regulations.”
 
 #### “Secretary” Defined
 Secretary means the Secretary of the Army, see section 3 of Pub. L. 102–580, set out as a note under [section 2201 of this title](./chapter-036-water-resources-development.md#section-2201).
 
 
-<a id="section-2326c"></a>
-## § 2326c. Dredged material disposal facility partnerships
-**(a) Additional capacity**
+<a id="section-2315"></a>
+## § 2315. Dredged material disposal facility partnerships
+**(a) Additional capacity or replacement capacity**
 
-(1) **Provided by Secretary** — At the request of a non-Federal interest with respect to a project, the Secretary may provide additional capacity at a dredged material disposal facility constructed by the Secretary beyond the capacity that would be required for project purposes if the non-Federal interest agrees to pay, during the period of construction, all costs associated with the construction of the additional capacity.
+(1) **Provided by secretary**
 
-(2) **Cost recovery authority** — The non-Federal interest may recover the costs assigned to the additional capacity through fees assessed on third parties whose dredged material is deposited at the facility and who enter into agreements with the non-Federal interest for the use of the facility. The amount of such fees may be determined by the non-Federal interest.
+  (A) *In general* — Subject to subparagraph (B), at the request of a non-Federal interest with respect to a project, the Secretary may—
+
+    (i) provide additional capacity at a dredged material disposal facility constructed by the Secretary beyond the capacity that would be required for project purposes; or
+
+    (ii) permit the use of dredged material disposal facility capacity required for project purposes by the non-Federal interest if the Secretary determines that replacement capacity can be constructed at the facility or another facility or site before such capacity is needed for project purposes.
+
+  (B) *Agreement* — Before the Secretary takes an action under subparagraph (A), the non-Federal interest shall agree to pay—
+
+    (i) all costs associated with the construction of the additional capacity or replacement capacity in advance of construction of such capacity; and
+
+    (ii) in the case of use by a non-Federal interest of dredged material disposal capacity required for project purposes under subparagraph (A)(ii), any increase in the cost of operation and maintenance of the project that the Secretary determines results from the use of the project capacity by the non-Federal interest in advance of each cycle of dredging.
+
+  (C) *Credit* — In the event the Secretary determines that the cost to operate or maintain the project decreases as a result of use by the non-Federal interest of dredged material disposal capacity required for project purposes under subparagraph (A)(ii), the Secretary, at the request of the non-Federal interest, shall credit the amount of the decrease toward any cash contribution of the non-Federal interest required thereafter for construction, operation, or maintenance of the project, or of another navigation project.
+
+(2) **Cost recovery authority** — The non-Federal interest may recover the costs assigned to the additional capacity under paragraph (1)(A)(i) through fees assessed on third parties whose dredged material is deposited at the facility and who enter into agreements with the non-Federal interest for the use of the facility. The amount of such fees may be determined by the non-Federal interest.
+
+(3) **Special rule for designation of replacement capacity facility or site**
+
+  (A) *In general* — Subject to such terms and conditions as the Secretary determines to be necessary or advisable, an agreement under paragraph (1)(B) for use permitted under paragraph (1)(A)(ii) shall reserve to the non-Federal interest—
+
+    (i) the right to submit to the Secretary for approval at a later date an alternative to the facility or site designated in the agreement for construction of replacement capacity; and
+
+    (ii) the right to construct the replacement capacity at the alternative facility or site at the expense of the non-Federal interest.
+
+  (B) *Requirement* — The Secretary shall not reject a site for the construction of replacement capacity under paragraph (1)(A)(ii) that is submitted by the non-Federal interest for approval by the Secretary before the date of execution of the agreement under paragraph (1)(B), or thereafter, unless the Secretary—
+
+    (i) determines that the site is environmentally unacceptable, geographically unacceptable, or technically unsound; and
+
+    (ii) provides a written basis for the determination under clause (i) to the non-Federal interest.
+
+(4) **Public comment** — The Secretary shall afford the public an opportunity to comment on the determinations required under this subsection for a use permitted under paragraph (1)(A)(ii).
 
 **(b) Non-Federal use of disposal facilities**
 
@@ -5284,6 +4865,14 @@ The Budget Act, referred to in subsec. (d)(2)(E) heading, probably means the Con
 Section was enacted as part of the Water Resources Development Act of 1996, and not as part of the Water Resources Development Act of 1986 which comprises this chapter.
 
 #### Amendments
+2020—Subsec. (a). Pub. L. 116–260, § 145(1), inserted “or replacement capacity” after “Additional capacity” in heading.
+
+Subsec. (a)(1). Pub. L. 116–260, § 145(2), added par. (1) and struck out former par. (1). Prior to amendment, text read as follows: “At the request of a non-Federal interest with respect to a project, the Secretary may provide additional capacity at a dredged material disposal facility constructed by the Secretary beyond the capacity that would be required for project purposes if the non-Federal interest agrees to pay, during the period of construction, all costs associated with the construction of the additional capacity.”
+
+Subsec. (a)(2). Pub. L. 116–260, § 145(3), inserted “under paragraph (1)(A)(i)” after “additional capacity”.
+
+Subsec. (a)(3), (4). Pub. L. 116–260, § 145(4), added pars. (3) and (4).
+
 2007—Subsec. (c). Pub. L. 110–114, § 2005(2), added subsec. (c). Former subsec. (c) redesignated (d).
 
 Subsec. (d). Pub. L. 110–114, § 2005(1), redesignated subsec. (c) as (d).
@@ -5296,8 +4885,8 @@ Subsec. (d)(2)(A). Pub. L. 110–114, § 2005(3), inserted “and maintenance”
 Secretary means the Secretary of the Army, see section 2 of Pub. L. 104–303, set out as a note under [section 2201 of this title](./chapter-036-water-resources-development.md#section-2201).
 
 
-<a id="section-2326d"></a>
-## § 2326d. Sediment management
+<a id="section-2315a"></a>
+## § 2315a. Sediment management
 **(a) In general** The Secretary may enter into cooperation agreements with non-Federal interests with respect to navigation projects, or other appropriate non-Federal entities, for the development of long-term management strategies for controlling sediments at such projects.
 
 **(b) Contents of strategies** Each strategy developed under subsection (a) shall—
@@ -5326,11 +4915,21 @@ Secretary means the Secretary of the Army, see section 2 of Pub. L. 104–303, s
 
 **(f) “Great Lakes States” defined** In this section, the term “Great Lakes States” means the States of Illinois, Indiana, Michigan, Minnesota, New York, Ohio, Pennsylvania, and Wisconsin.
 
-**(g) Authorization of appropriations**
+**(g) Coastal mapping** The Secretary shall develop and carry out a plan for the recurring mapping of coastlines that are experiencing rapid change, including such coastlines in—
+
+(1) Alaska;
+
+(2) Hawaii; and
+
+(3) any territory or possession of the United States.
+
+**(h) Authorization of appropriations**
 
 (1) **In general** — There is authorized to be appropriated to the Secretary to carry out this section $5,000,000 for each of fiscal years 1998 through 2001.
 
 (2) **Great Lakes tributary model** — In addition to amounts made available under paragraph (1), there is authorized to be appropriated to carry out subsection (e) $5,000,000 for each of fiscal years 2002 through 2012.
+
+(3) **Coastal mapping** — In addition to amounts made available under paragraph (1), there is authorized to be appropriated to carry out subsection (g) with respect to Alaska, Hawaii, and the territories and possessions of the United States, $10,000,000, to remain available until expended.
 
 ### Statutory Notes
 
@@ -5338,6 +4937,10 @@ Secretary means the Secretary of the Army, see section 2 of Pub. L. 104–303, s
 Section was enacted as part of the Water Resources Development Act of 1996, and not as part of the Water Resources Development Act of 1986 which comprises this chapter.
 
 #### Amendments
+2020—Subsecs. (g), (h). Pub. L. 116–260, § 148(1), (2), added subsec. (g) and redesignated former subsec. (g) as (h).
+
+Subsec. (h)(3). Pub. L. 116–260, § 148(3), added par. (3).
+
 2007—Subsec. (g)(2). Pub. L. 110–114 substituted “through 2012” for “through 2006”.
 
 2000—Subsec. (e)(3). Pub. L. 106–541, § 505(1), added par. (3).
@@ -5354,8 +4957,8 @@ Pub. L. 106–53, title V, § 540, Aug. 17, 1999, 113 Stat. 350, provided that: 
 Secretary means the Secretary of the Army, see section 2 of Pub. L. 104–303, set out as a note under [section 2201 of this title](./chapter-036-water-resources-development.md#section-2201).
 
 
-<a id="section-2326e"></a>
-## § 2326e. Reservoir sediment
+<a id="section-2315b"></a>
+## § 2315b. Reservoir sediment
 **(a) In general** Not later than 180 days after October 23, 2018, and after providing public notice, the Secretary shall, using available funds, accept services provided by a non-Federal interest or commercial entity for removal of sediment captured behind a dam owned or operated by the United States and under the jurisdiction of the Secretary for the purpose of restoring the authorized storage capacity of the project concerned.
 
 **(b) Requirements** In carrying out this section, the Secretary shall—
@@ -5396,8 +4999,8 @@ Subsec. (f). Pub. L. 115–270, § 1146(3), added subsec. (f) and struck out for
 Secretary means the Secretary of the Army, see section 2 of Pub. L. 106–541, set out as a note under [section 2201 of this title](./chapter-036-water-resources-development.md#section-2201).
 
 
-<a id="section-2326f"></a>
-## § 2326f. Alternative projects to maintenance dredging
+<a id="section-2316"></a>
+## § 2316. Alternative projects to maintenance dredging
 
 The Secretary may enter into agreements to assume the operation and maintenance costs of an alternative project to maintenance dredging for a Federal navigation channel if the costs of the operation and maintenance of the alternative project, and any remaining costs necessary for maintaining the Federal navigation channel, are less than the costs of maintaining such channel without the alternative project.
 
@@ -5410,8 +5013,8 @@ Section was enacted as part of the Water Resources Development Act of 2016, and 
 Secretary means the Secretary of the Army, see section 1002 of Pub. L. 114–322, set out as a note under [section 2201 of this title](./chapter-036-water-resources-development.md#section-2201).
 
 
-<a id="section-2327"></a>
-## § 2327. Non-Federal interest dredging authority
+<a id="section-2317"></a>
+## § 2317. Non-Federal interest dredging authority
 **(a) In general** The Secretary may permit a non-Federal interest to carry out, for an authorized navigation project (or a separable element of an authorized navigation project), such maintenance activities as are necessary to ensure that the project is maintained to not less than the minimum project dimensions.
 
 **(b) Cost limitations** Except as provided in this section and subject to the availability of appropriations, the costs incurred by a non-Federal interest in performing the maintenance activities described in subsection (a) shall be eligible for reimbursement, not to exceed an amount that is equal to the estimated Federal cost for the performance of the maintenance activities, with any reimbursement subject to the non-Federal interest complying with all Federal laws and regulations that would apply to such maintenance activities if carried out by the Secretary.
@@ -5447,8 +5050,8 @@ Section was enacted as part of the Water Resources Development Act of 2016, and 
 Secretary means the Secretary of the Army, see section 1002 of Pub. L. 114–322, set out as a note under [section 2201 of this title](./chapter-036-water-resources-development.md#section-2201).
 
 
-<a id="section-2328"></a>
-## § 2328. Maintenance dredging data
+<a id="section-2317a"></a>
+## § 2317a. Maintenance dredging data
 **(a) In general** The Secretary shall establish, maintain, and make publicly available a database on maintenance dredging carried out by the Secretary, which shall include information on maintenance dredging carried out by Federal and non-Federal vessels.
 
 **(b) Scope** The Secretary shall include in the database maintained under subsection (a), for each maintenance dredging project and contract, estimated and actual data on—
@@ -5472,8 +5075,88 @@ Section was enacted as part of the Water Resources Development Act of 2016, and 
 Secretary means the Secretary of the Army, see section 1002 of Pub. L. 114–322, set out as a note under [section 2201 of this title](./chapter-036-water-resources-development.md#section-2201).
 
 
-<a id="section-2328a"></a>
-## § 2328a. Definition of rehabilitation for inland waterway projects
+<a id="section-2317b"></a>
+## § 2317b. Beneficial use of dredged material; dredged material management plans
+**(a) National Policy on the Beneficial Use of Dredged Material**
+
+(1) **In general** — It is the policy of the United States for the Corps of Engineers to maximize the beneficial use, in an environmentally acceptable manner, of suitable dredged material obtained from the construction or operation and maintenance of water resources development projects.
+
+(2) **Placement of dredged materials**
+
+  (A) *In general* — In evaluating the placement of dredged material obtained from the construction or operation and maintenance of water resources development projects, the Secretary shall consider—
+
+    (i) the suitability of the dredged material for a full range of beneficial uses; and
+
+    (ii) the economic and environmental benefits, efficiencies, and impacts (including the effects on living coral) of using the dredged material for beneficial uses, including, in the case of beneficial use activities that involve more than one water resources development project, the benefits, efficiencies, and impacts that result from the combined activities.
+
+  (B) *Calculation of federal standard*
+
+    (i) *Determination* — The economic benefits and efficiencies from the beneficial use of dredged material considered by the Secretary under subparagraph (A) shall be included in any determination relating to the “Federal standard” by the Secretary under section 335.7 of title 33, Code of Federal Regulations, for the placement or disposal of such material.
+
+    (ii) *Reports* — The Secretary shall submit to Congress—
+
+      (I) a report detailing the method and all of the factors utilized by the Corps of Engineers to determine the Federal standard referred to in clause (i); and
+
+      (II) for each evaluation under subparagraph (A), a report displaying the calculations for economic and environmental benefits and efficiencies from the beneficial use of dredged material (including, where appropriate, the utilization of alternative dredging equipment and dredging disposal methods) considered by the Secretary under such subparagraph for the placement or disposal of such material.
+
+  (C) *Omitted*
+
+### Statutory Notes
+
+#### Codification
+Section was enacted as part of the Water Resources Development Act of 2020, and not as part of the Water Resources Development Act of 1986 which comprises this chapter.
+
+Section is comprised of section 125 of div. AA of Pub. L. 116–260. Subsec. (a)(2)(C) of section 125 of div. AA of Pub. L. 116–260 amended [section 2326 of this title](./chapter-036-water-resources-development.md#section-2326).
+
+#### “Secretary” Defined
+Secretary means the Secretary of the Army, see section 2 of div. AA of Pub. L. 116–260, set out as a note under [section 2201 of this title](./chapter-036-water-resources-development.md#section-2201).
+
+
+<a id="section-2318"></a>
+## § 2318. Five-year regional dredged material management plans
+(1) **In general** — Not later than 1 year after December 27, 2020, and annually thereafter, the District Commander of each district of the Corps of Engineers that obtains dredged material through the construction or operation and maintenance of a water resources development project shall, at Federal expense, develop and submit to the Secretary a 5-year dredged material management plan in coordination with relevant State agencies and stakeholders.
+
+(2) **Scope** — Each plan developed under this subsection shall include—
+
+  (A) a dredged material budget for each watershed or littoral system within the district;
+
+  (B) an estimate of the amount of dredged material likely to be obtained through the construction or operation and maintenance of all water resources development projects projected to be carried out within the district during the 5-year period following submission of the plan, and the estimated timing for obtaining such dredged material;
+
+  (C) an identification of potential water resources development projects projected to be carried out within the district during such 5-year period that are suitable for, or that require, the placement of dredged material, and an estimate of the amount of dredged material placement capacity of such projects;
+
+  (D) an evaluation of—
+
+    (i) the suitability of the dredged material for a full range of beneficial uses; and
+
+    (ii) the economic and environmental benefits, efficiencies, and impacts (including the effects on living coral) of using the dredged material for beneficial uses, including, in the case of beneficial use activities that involve more than one water resources development project, the benefits, efficiencies, and impacts that result from the combined activities;
+
+  (E) the district-wide goals for beneficial use of the dredged material, including any expected cost savings from aligning and coordinating multiple projects (including projects across Corps districts) in the use of the dredged material; and
+
+  (F) a description of potential beneficial use projects identified through stakeholder solicitation and coordination.
+
+(3) **Public comment** — In developing each plan under this subsection, each District Commander shall provide notice and an opportunity for public comment, including a solicitation for stakeholders to identify beneficial use projects, in order to ensure, to the extent practicable, that beneficial use of dredged material is not foregone in a particular fiscal year or dredging cycle.
+
+(4) **Public availability** — Upon submission of each plan to the Secretary under this subsection, each District Commander shall make the plan publicly available, including on a publicly available website.
+
+(5) **Transmission to Congress** — As soon as practicable after receiving a plan under subsection (a), the Secretary shall transmit the plan to Congress.
+
+(6) **Regional sediment management plans** — A plan developed under this section—
+
+  (A) shall be in addition to regional sediment management plans prepared under [section 2326(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section2326/a&num=0&edition=prelim); and
+
+  (B) shall not be subject to the limitations in [section 2326(g) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section2326/g&num=0&edition=prelim).
+
+### Statutory Notes
+
+#### Codification
+Section was enacted as part of the Water Resources Development Act of 2020, and not as part of the Water Resources Development Act of 1986 which comprises this chapter.
+
+#### “Secretary” Defined
+Secretary means the Secretary of the Army, see section 2 of div. AA of Pub. L. 116–260, set out as a note under [section 2201 of this title](./chapter-036-water-resources-development.md#section-2201).
+
+
+<a id="section-2319"></a>
+## § 2319. Definition of rehabilitation for inland waterway projects
 
 For purposes of laws relating to navigation on inland and intracoastal waterways of the United States, the term “rehabilitation” means—
 
@@ -5509,8 +5192,67 @@ Section was enacted as part of the Water Resources Development Act of 1992, and 
 2014—Par. (1)(E)(ii). Pub. L. 113–121 substituted “$20,000,000” for “$8,000,000”.
 
 
-<a id="section-2329"></a>
-## § 2329. Challenge cost-sharing program for management of recreation facilities
+<a id="section-2320"></a>
+## § 2320. Rehabilitation of Corps of Engineers constructed pump stations
+**(a) Definitions** In this section:
+
+(1) **Eligible pump station** — The term “eligible pump station” means a pump station—
+
+  (A) constructed, in whole or in part, by the Corps of Engineers for flood risk management purposes;
+
+  (B) that the Secretary has identified as having a major deficiency; and
+
+  (C) the failure of which the Secretary has determined would impair the function of a flood risk management project constructed by the Corps of Engineers.
+
+(2) **Rehabilitation**
+
+  (A) *In general* — The term “rehabilitation”, with respect to an eligible pump station, means to address a major deficiency of the eligible pump station caused by long-term degradation of the foundation, construction materials, or engineering systems or components of the eligible pump station.
+
+  (B) *Inclusions* — The term “rehabilitation”, with respect to an eligible pump station, includes—
+
+    (i) the incorporation into the eligible pump station of—
+
+      (I) current design standards;
+
+      (II) efficiency improvements; and
+
+      (III) associated drainage; and
+
+    (ii) increasing the capacity of the eligible pump station, subject to the condition that the increase shall—
+
+      (I) significantly decrease the risk of loss of life and property damage; or
+
+      (II) decrease total lifecycle rehabilitation costs for the eligible pump station.
+
+**(b) Authorization** The Secretary may carry out rehabilitation of an eligible pump station, if the Secretary determines that the rehabilitation is feasible.
+
+**(c) Cost sharing** The non-Federal interest for the eligible pump station shall—
+
+(1) provide 35 percent of the cost of rehabilitation of an eligible pump station carried out under this section; and
+
+(2) provide all land, easements, rights-of-way, and necessary relocations associated with the rehabilitation described in subparagraph (A), at no cost to the Federal Government.
+
+**(d) Agreement required** The rehabilitation of an eligible pump station pursuant to this section shall be initiated only after a non-Federal interest has entered into a binding agreement with the Secretary—
+
+(1) to pay the non-Federal share of the costs of rehabilitation under subsection (c); and
+
+(2) to pay 100 percent of the operation and maintenance costs of the rehabilitated eligible pump station, in accordance with regulations promulgated by the Secretary.
+
+**(e) Treatment** The rehabilitation of an eligible pump station pursuant to this section shall not be considered to be a separable element of the associated flood risk management project constructed by the Corps of Engineers.
+
+**(f) Authorization of appropriations** There is authorized to be appropriated to carry out this section $60,000,000, to remain available until expended.
+
+### Statutory Notes
+
+#### Codification
+Section was enacted as part of the Water Resources Development Act of 2020, and not as part of the Water Resources Development Act of 1986 which comprises this chapter.
+
+#### “Secretary” Defined
+Secretary means the Secretary of the Army, see section 2 of div. AA of Pub. L. 116–260, set out as a note under [section 2201 of this title](./chapter-036-water-resources-development.md#section-2201).
+
+
+<a id="section-2321"></a>
+## § 2321. Challenge cost-sharing program for management of recreation facilities
 **(a) In general** The Secretary is authorized to develop and implement a program to share the cost of managing recreation facilities and natural resources at water resource development projects under the Secretary’s jurisdiction.
 
 **(b) Cooperative agreements** To implement the program under this section, the Secretary is authorized to enter into cooperative agreements with non-Federal public and private entities to provide for operation and management of recreation facilities and natural resources at civil works projects under the Secretary’s jurisdiction where such facilities and resources are being maintained at complete Federal expense.
@@ -5550,8 +5292,8 @@ Pub. L. 104–303, title V, § 519, Oct. 12, 1996, 110 Stat. 3765, as amended by
 Secretary means the Secretary of the Army, see section 3 of Pub. L. 102–580, set out as a note under [section 2201 of this title](./chapter-036-water-resources-development.md#section-2201).
 
 
-<a id="section-2330"></a>
-## § 2330. Special use permits
+<a id="section-2321a"></a>
+## § 2321a. Special use permits
 **(a) Special use permits**
 
 (1) **In general** — The Secretary may issue special permits for uses such as group activities, recreation events, motorized recreation vehicles, and such other specialized recreation uses as the Secretary determines to be appropriate, subject to such terms and conditions as the Secretary determines to be in the best interest of the Federal Government.
@@ -5609,8 +5351,8 @@ Section is comprised of section 1047 of Pub. L. 113–121. Subsecs. (d) and (e) 
 Secretary means the Secretary of the Army, see section 2 of Pub. L. 113–121, set out as a note under [section 2201 of this title](./chapter-036-water-resources-development.md#section-2201).
 
 
-<a id="section-2330a"></a>
-## § 2330a. International outreach program
+<a id="section-2321b"></a>
+## § 2321b. International outreach program
 **(a) Authorization**
 
 (1) **In general** — The Secretary may engage in activities to inform the United States of technological innovations abroad that could significantly improve water resources development in the United States.
@@ -5639,8 +5381,8 @@ Section was enacted as part of the Water Resources Development Act of 1992, and 
 Secretary means the Secretary of the Army, see section 3 of Pub. L. 102–580, set out as a note under [section 2201 of this title](./chapter-036-water-resources-development.md#section-2201).
 
 
-<a id="section-2330b"></a>
-## § 2330b. Aquatic ecosystem restoration
+<a id="section-2322"></a>
+## § 2322. Aquatic ecosystem restoration
 **(a) General authority**
 
 (1) **In general** — The Secretary may carry out a project to restore and protect an aquatic ecosystem or estuary if the Secretary determines that the project—
@@ -5654,6 +5396,18 @@ Secretary means the Secretary of the Army, see section 3 of Pub. L. 102–580, s
   (B) is cost-effective.
 
 (2) **Dam removal** — A project under this section may include removal of a dam.
+
+(3) **Anadromous fish habitat and passage**
+
+  (A) *Measures* — A project under this section may include measures to improve habitat or passage for anadromous fish, including—
+
+    (i) installing fish bypass structures on small water diversions;
+
+    (ii) modifying tide gates; and
+
+    (iii) restoring or reconnecting floodplains and wetlands that are important for anadromous fish habitat or passage.
+
+  (B) *Benefits* — A project that includes measures under this paragraph shall be formulated to maximize benefits for the anadromous fish species benefitted by the project.
 
 **(b) Cost sharing**
 
@@ -5673,12 +5427,18 @@ Secretary means the Secretary of the Army, see section 3 of Pub. L. 102–580, s
 
 **(f) Funding** There is authorized to be appropriated to carry out this section $62,500,000 for each fiscal year.
 
+**(g) Prioritization** The Secretary shall give projects that include measures described in subsection (a)(3) equal priority for implementation as other projects under this section.
+
 ### Statutory Notes
 
 #### Codification
 Section was enacted as part of the Water Resources Development Act of 1996, and not as part of the Water Resources Development Act of 1986 which comprises this chapter.
 
 #### Amendments
+2020—Subsec. (a)(3). Pub. L. 116–260, § 126(a)(1), added par. (3).
+
+Subsec. (g). Pub. L. 116–260, § 126(a)(2), added subsec. (g).
+
 2018—Subsec. (e). Pub. L. 115–270, § 1149(a)(2), added subsec. (e). Former subsec. (e) redesignated (f).
 
 Subsec. (f). Pub. L. 115–270, §§ 1149(a)(1), 1157(f), redesignated subsec. (e) as (f) and substituted “$62,500,000” for “$50,000,000”.
@@ -5703,8 +5463,8 @@ Subsec. (c). Pub. L. 106–53, § 210(2), designated existing provisions as par.
 Secretary means the Secretary of the Army, see section 2 of Pub. L. 104–303, set out as a note under [section 2201 of this title](./chapter-036-water-resources-development.md#section-2201).
 
 
-<a id="section-2331"></a>
-## § 2331. Monitoring ecosystem restoration
+<a id="section-2323"></a>
+## § 2323. Monitoring ecosystem restoration
 **(a) In general** In conducting a feasibility study for a project (or a component of a project) for ecosystem restoration, the Secretary shall ensure that the recommended project includes, as an integral part of the project, a plan for monitoring the success of the ecosystem restoration.
 
 **(b) Monitoring plan** The monitoring plan shall—
@@ -5741,8 +5501,8 @@ Section was enacted as part of the Water Resources Development Act of 2007, and 
 Secretary means the Secretary of the Army, see section 2 of Pub. L. 110–114, set out as a note under [section 2201 of this title](./chapter-036-water-resources-development.md#section-2201).
 
 
-<a id="section-2331a"></a>
-## § 2331a. Fish hatcheries
+<a id="section-2323a"></a>
+## § 2323a. Fish hatcheries
 **(a) In general** Notwithstanding any other provision of law, the Secretary may operate a fish hatchery for the purpose of restoring a population of fish species located in the region surrounding the fish hatchery that is listed as a threatened species or an endangered species under the Endangered Species Act of 1973 ([16 U.S.C. 1531](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1531&num=0&edition=prelim) et seq.) or a similar State law.
 
 **(b) Costs** A non-Federal entity, another Federal agency, or a group of non-Federal entities or other Federal agencies shall be responsible for 100 percent of the additional costs associated with managing a fish hatchery for the purpose described in subsection (a) that are not authorized as of December 16, 2016, for the fish hatchery.
@@ -5759,8 +5519,112 @@ Section was enacted as part of the Water Resources Development Act of 2016, and 
 Secretary means the Secretary of the Army, see section 1002 of Pub. L. 114–322, set out as a note under [section 2201 of this title](./chapter-036-water-resources-development.md#section-2201).
 
 
-<a id="section-2332"></a>
-## § 2332. Use of continuing contracts for construction of certain projects
+<a id="section-2324"></a>
+## § 2324. Aquatic ecosystem restoration
+**(a) Definition of eligible entity** In this section, the term “eligible entity” means—
+
+(1) any State, Indian Tribe, irrigation district, or water district;
+
+(2) any State, regional, or local authority, the members of which include 1 or more organizations with water or power delivery authority;
+
+(3) any other entity or organization that owns a facility that is eligible for upgrade, modification or removal under this section;
+
+(4) any nonprofit conservation organization, acting in partnership with any entity listed in paragraphs (1) through (3), with respect to a project involving land or infrastructure owned by the entity; and
+
+(5) an agency established under State law for the joint exercise of powers or a combination of entities described in paragraphs (1) through (4).
+
+**(b) General authority**
+
+(1) **In general** — Subject to the requirements of this section and paragraph (2), on request of any eligible entity the Secretary may negotiate and enter into an agreement on behalf of the United States to fund the design, study, and construction of an aquatic ecosystem restoration and protection project in a Reclamation State if the Secretary determines that the project is likely to improve the health of fisheries, wildlife or aquatic habitat, including through habitat restoration and improved fish passage via the removal or bypass of barriers to fish passage.
+
+(2) **Exception** — With respect to an aquatic ecosystem restoration and protection project under this section that removes a dam or modifies a dam in a manner that reduces storage or diversion capacity, the Secretary may only negotiate and enter into an agreement to fund—
+
+  (A) the design or study of such project if the Secretary has received consent from the owner of the applicable dam; or
+
+  (B) the construction of such project if the Secretary—
+
+    (i) identifies any eligible entity that receives water or power from the facility that is under consideration for removal or modification at the time of the request;
+
+    (ii) notifies each eligible entity identified in clause (i) that the dam removal or modification project has been requested; and
+
+    (iii) does not receive, by the date that is 120 days after the date on which all eligible entities have been notified under clause (ii), written objection from 1 or more eligible entities that collectively receive ⅓ or more of the water or power delivered from the facility that is under consideration for removal or modification at the time of the request.
+
+**(c) Requirements**
+
+(1) **In general** — The Secretary shall accept and consider public comment prior to initiating design, study or development of a project under this section.
+
+(2) **Preconditions** — Construction of a project under this section shall be a voluntary project initiated only after—
+
+  (A) an eligible entity has entered into an agreement with the Secretary to pay no less than 35 percent of the costs of project construction;
+
+  (B) an eligible entity has entered an agreement to pay 100 percent of any operation, maintenance, and replacement and rehabilitation costs with respect to the project;
+
+  (C) the Secretary determines the proposed project—
+
+    (i) will not result in an unmitigated adverse impact on fulfillment of existing water delivery obligations consistent with historical operations and applicable contracts;
+
+    (ii) will not result in an unmitigated adverse effect on the environment;
+
+    (iii) is consistent with the responsibilities of the Secretary—
+
+      (I) in the role as trustee for federally recognized Indian Tribes; and
+
+      (II) to ensure compliance with any applicable international and Tribal treaties and agreements and interstate compacts and agreements;
+
+    (iv) is in the financial interest of the United States based on a determination that the project advances Federal objectives including environmental enhancement objectives in a Reclamation State; and
+
+    (v) complies with all applicable Federal and State law, including environmental laws; and
+
+  (D) the Secretary has complied with all applicable environmental laws, including—
+
+    (i) the National Environmental Policy Act of 1969 ([42 U.S.C. 4321](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) et seq.);
+
+    (ii) the Endangered Species Act of 1973 ([16 U.S.C. 1531](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1531&num=0&edition=prelim) et seq.); and
+
+    (iii) subtitle III of title 54.
+
+**(d) Funding** There is authorized to be appropriated to carry out this section $15,000,000 for each of fiscal years 2022 through 2026, to remain available until expended.
+
+**(e) Effects**
+
+(1) **In general** — Nothing in this section supersedes or limits any existing authority provided, or responsibility conferred, by any provision of law.
+
+(2) **Effect on state water law** — Nothing in this section preempts or affects any—
+
+  (A) State water law; or
+
+  (B) interstate compact governing water.
+
+**(f) Compliance required** The Secretary shall comply with applicable State water laws in carrying out this section.
+
+**(g) Priority for projects providing regional benefits and assistance for aging assets** When funding projects under this section, the Secretary shall prioritize projects that—
+
+(1) are jointly developed and supported by a diverse array of stakeholders including representatives of irrigated agricultural production, hydroelectric production, potable water purveyors and industrial water users, Indian Tribes, commercial fishing interests, and nonprofit conservation organizations;
+
+(2) affect water resources management in 2 or more river basins while providing regional benefits not limited to fisheries restoration;
+
+(3) are a component of a broader strategy or plan to replace aging facilities with 1 or more alternate facilities providing similar benefits; and
+
+(4) contribute to the restoration of anadromous fish species listed under the Endangered Species Act of 1973 ([16 U.S.C. 1531](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1531&num=0&edition=prelim) et seq.).
+
+### Statutory Notes
+
+#### References in Text
+The National Environmental Policy Act of 1969, referred to in subsec. (c)(2)(D)(i), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 4321 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) and Tables.
+
+The Endangered Species Act of 1973, referred to in subsecs. (c)(2)(D)(ii) and (g)(4), is Pub. L. 93–205, Dec. 28, 1973, 87 Stat. 884, which is classified principally to chapter 35 (§ 1531 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under [section 1531 of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1531&num=0&edition=prelim) and Tables.
+
+#### Codification
+Section was enacted as part of Consolidated Appropriations Act, 2021, and not as part of the Water Resources Development Act of 1986 which comprises this chapter.
+
+#### Definitions
+Pub. L. 116–260, div. FF, title XI, § 1115, Dec. 27, 2020, 134 Stat. 3251, provided that: “In this title [enacting this section and sections 390g–9 and 1477 of Title 43, Public Lands, and amending sections 1015 and 1015a of Title 16, Conservation, sections 1645 and 1647b of Title 25, Indians, sections 10362 and 10364 of Title 42, The Public Health and Welfare, [section 510b of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section510b&num=0&edition=prelim), and provisions set out as notes under sections 10301 and 10364 of Title 42]: “(1) Indian tribe.—The term ‘Indian Tribe’ has the meaning given the term in section 4 of the Indian Self-Determination and Education Assistance Act ([25 U.S.C. 5304](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5304&num=0&edition=prelim)). “(2) Reclamation state.—The term ‘Reclamation State’ means a State or territory described in the first section of the Act of June 17, 1902 (32 Stat. 388, chapter 1093; [43 U.S.C. 391](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section391&num=0&edition=prelim)). “(3) Secretary.—The term ‘Secretary’ means the Secretary of the Interior.”
+
+[The first paragraph of [43 U.S.C. 391](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section391&num=0&edition=prelim) is comprised of act June 17, 1902, ch. 1093, § 1 (part), 32 Stat. 388. The second paragraph of [43 U.S.C. 391](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section391&num=0&edition=prelim) is comprised of act June 12, 1906, ch. 3288, 34 Stat. 259, as amended. See Codification note under [section 391 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section391&num=0&edition=prelim), Public Lands.]
+
+
+<a id="section-2325"></a>
+## § 2325. Use of continuing contracts for construction of certain projects
 **(a) In general** Notwithstanding any other provision of law, the Secretary shall not implement a fully allocated funding policy with respect to a water resource project if initiation of construction has occurred but sufficient funds are not available to complete the project.
 
 **(b) Continuing contracts** The Secretary shall enter into a continuing contract for a project described in subsection (a).
@@ -5782,8 +5646,8 @@ Section was enacted as part of the Water Resources Development Act of 1999, and 
 Secretary means the Secretary of the Army, see section 2 of Pub. L. 106–53, set out as a note under [section 2201 of this title](./chapter-036-water-resources-development.md#section-2201).
 
 
-<a id="section-2333"></a>
-## § 2333. Initiating work on separable elements
+<a id="section-2325a"></a>
+## § 2325a. Initiating work on separable elements
 
 With respect to a water resources development project that has received construction funds in the previous 6-year period, for purposes of initiating work on a separable element of the project—
 
@@ -5797,8 +5661,8 @@ With respect to a water resources development project that has received construc
 Section was enacted as part of the Water Resources Development Act of 2016, and also as part of the Water Infrastructure Improvements for the Nation Act, also known as the WIIN Act, and not as part of the Water Resources Development Act of 1986 which comprises this chapter.
 
 
-<a id="section-2334"></a>
-## § 2334. Flood mitigation and riverine restoration program
+<a id="section-2325b"></a>
+## § 2325b. Flood mitigation and riverine restoration program
 **(a) In general** The Secretary may undertake a program for the purpose of conducting projects to reduce flood hazards and restore the natural functions and values of rivers throughout the United States.
 
 **(b) Studies and projects**
@@ -5972,8 +5836,8 @@ For transfer of functions, personnel, assets, and liabilities of the Federal Eme
 Secretary means the Secretary of the Army, see section 2 of Pub. L. 106–53, set out as a note under [section 2201 of this title](./chapter-036-water-resources-development.md#section-2201).
 
 
-<a id="section-2335"></a>
-## § 2335. Irrigation diversion protection and fisheries enhancement assistance
+<a id="section-2326"></a>
+## § 2326. Irrigation diversion protection and fisheries enhancement assistance
 **(a) In general** The Secretary may provide technical planning and design assistance to non-Federal interests and may conduct other site-specific studies to formulate and evaluate fish screens, fish passages devices, and other measures to decrease the incidence of juvenile and adult fish inadvertently entering irrigation systems.
 
 **(b) Cooperation** Measures under subsection (a)—
@@ -6022,8 +5886,8 @@ Section was enacted as part of the Water Resources Development Act of 1999, and 
 Secretary means the Secretary of the Army, see section 2 of Pub. L. 106–53, set out as a note under [section 2201 of this title](./chapter-036-water-resources-development.md#section-2201).
 
 
-<a id="section-2336"></a>
-## § 2336. Innovative technologies for watershed restoration
+<a id="section-2326a"></a>
+## § 2326a. Innovative technologies for watershed restoration
 
 The Secretary shall examine using, and, if appropriate, encourage the use of, innovative treatment technologies, including membrane technologies, for watershed and environmental restoration and protection projects involving water quality.
 
@@ -6036,8 +5900,8 @@ Section was enacted as part of the Water Resources Development Act of 1999, and 
 Secretary means the Secretary of the Army, see section 2 of Pub. L. 106–53, set out as a note under [section 2201 of this title](./chapter-036-water-resources-development.md#section-2201).
 
 
-<a id="section-2337"></a>
-## § 2337. Coastal aquatic habitat management
+<a id="section-2326b"></a>
+## § 2326b. Coastal aquatic habitat management
 **(a) In general** The Secretary may cooperate with the Secretaries of Agriculture and the Interior, the Administrators of the Environmental Protection Agency and the National Oceanic and Atmospheric Administration, other appropriate Federal, State, and local agencies, and affected private entities, in the development of a management strategy to address problems associated with toxic microorganisms and the resulting degradation of ecosystems in the tidal and nontidal wetlands and waters of the United States.
 
 **(b) Assistance** As part of the management strategy, the Secretary may provide planning, design, and other technical assistance to each participating State in the development and implementation of nonregulatory measures to mitigate environmental problems and restore aquatic resources.
@@ -6057,8 +5921,8 @@ Section was enacted as part of the Water Resources Development Act of 1999, and 
 Secretary means the Secretary of the Army, see section 2 of Pub. L. 106–53, set out as a note under [section 2201 of this title](./chapter-036-water-resources-development.md#section-2201).
 
 
-<a id="section-2338"></a>
-## § 2338. Abandoned and inactive noncoal mine restoration
+<a id="section-2326c"></a>
+## § 2326c. Abandoned and inactive noncoal mine restoration
 **(a) In general** The Secretary may provide technical, planning, and design assistance to Federal and non-Federal interests for carrying out projects to address water quality problems caused by drainage and related activities from abandoned and inactive noncoal mines.
 
 **(b) Specific measures** Assistance provided under subsection (a) may be in support of projects for the purposes of—
@@ -6075,7 +5939,7 @@ Secretary means the Secretary of the Army, see section 2 of Pub. L. 106–53, se
 
 **(e) Technology database for reclamation of abandoned mines** The Secretary may provide assistance to non-Federal and nonprofit entities to develop, manage, and maintain a database of conventional and innovative, cost-effective technologies for reclamation of abandoned and inactive noncoal mine sites. Such assistance shall be provided through the Rehabilitation of Abandoned Mine Sites Program managed by the Sacramento District Office of the Corps of Engineers.
 
-**(f) Authorization of appropriations** There is authorized to be appropriated to carry out this section $20,000,000.
+**(f) Authorization of appropriations** There is authorized to be appropriated to carry out this section $30,000,000.
 
 ### Statutory Notes
 
@@ -6086,6 +5950,8 @@ The Surface Mining Control and Reclamation Act of 1977, referred to in subsec. (
 Section was enacted as part of the Water Resources Development Act of 1999, and not as part of the Water Resources Development Act of 1986 which comprises this chapter.
 
 #### Amendments
+2020—Subsec. (f). Pub. L. 116–260 substituted “$30,000,000” for “$20,000,000”.
+
 2007—Subsec. (f). Pub. L. 110–114 substituted “$20,000,000” for “$7,500,000”.
 
 2003—Subsec. (f). Pub. L. 108–137 substituted “$7,500,000” for “$5,000,000”.
@@ -6094,8 +5960,8 @@ Section was enacted as part of the Water Resources Development Act of 1999, and 
 Secretary means the Secretary of the Army, see section 2 of Pub. L. 106–53, set out as a note under [section 2201 of this title](./chapter-036-water-resources-development.md#section-2201).
 
 
-<a id="section-2339"></a>
-## § 2339. Property protection program
+<a id="section-2326d"></a>
+## § 2326d. Property protection program
 **(a) In general** The Secretary may carry out a program to reduce vandalism and destruction of property at water resources development projects under the jurisdiction of the Department of the Army.
 
 **(b) Provision of rewards** In carrying out the program, the Secretary may provide rewards (including cash rewards) to individuals who provide information or evidence leading to the arrest and prosecution of individuals causing damage to Federal property.
@@ -6111,8 +5977,8 @@ Section was enacted as part of the Water Resources Development Act of 2000, and 
 Secretary means the Secretary of the Army, see section 2 of Pub. L. 106–541, set out as a note under [section 2201 of this title](./chapter-036-water-resources-development.md#section-2201).
 
 
-<a id="section-2339a"></a>
-## § 2339a. Reburial and conveyance authority
+<a id="section-2326e"></a>
+## § 2326e. Reburial and conveyance authority
 **(a) Definition of Indian tribe** In this section, the term “Indian tribe” has the meaning given the term in [section 5304 of title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5304&num=0&edition=prelim).
 
 **(b) Reburial**
@@ -6140,8 +6006,8 @@ Section was enacted as part of the Water Resources Development Act of 2000, and 
 Secretary means the Secretary of the Army, see section 2 of Pub. L. 106–541, set out as a note under [section 2201 of this title](./chapter-036-water-resources-development.md#section-2201).
 
 
-<a id="section-2340"></a>
-## § 2340. Assistance programs
+<a id="section-2326f"></a>
+## § 2326f. Assistance programs
 **(a) Conservation and recreation management** To further training and educational opportunities about water resources development projects under the jurisdiction of the Secretary, the Secretary may enter into cooperative agreements with non-Federal public and nonprofit entities for services relating to natural resources conservation or recreation management.
 
 **(b) Rural community assistance** In carrying out studies and projects under the jurisdiction of the Secretary, the Secretary may enter into cooperative agreements with multistate regional private nonprofit rural community assistance entities for services, including water resource assessment, community participation, planning, development, and management activities.
@@ -6164,8 +6030,8 @@ Section was enacted as part of the Water Resources Development Act of 2000, and 
 Secretary means the Secretary of the Army, see section 2 of Pub. L. 106–541, set out as a note under [section 2201 of this title](./chapter-036-water-resources-development.md#section-2201).
 
 
-<a id="section-2341"></a>
-## § 2341. Cooperative agreements with Indian tribes
+<a id="section-2326g"></a>
+## § 2326g. Cooperative agreements with Indian tribes
 
 The Secretary may enter into a cooperative agreement with an Indian tribe (or a designated representative of an Indian tribe) to carry out authorized activities of the Corps of Engineers to protect fish, wildlife, water quality, and cultural resources.
 
@@ -6178,8 +6044,8 @@ Section was enacted as part of the Water Resources Reform and Development Act of
 Secretary means the Secretary of the Army, see section 2 of Pub. L. 113–121, set out as a note under [section 2201 of this title](./chapter-036-water-resources-development.md#section-2201).
 
 
-<a id="section-2341a"></a>
-## § 2341a. Revision of project partnership agreement; cost sharing
+<a id="section-2326h"></a>
+## § 2326h. Revision of project partnership agreement; cost sharing
 **(a) Federal allocation** Upon authorization by law of an increase in the maximum amount of Federal funds that may be allocated for a water resources project or an increase in the total cost of a water resources project authorized to be carried out by the Secretary, the Secretary shall enter into a revised partnership agreement for the project to take into account the change in Federal participation in the project.
 
 **(b) Cost sharing** An increase in the maximum amount of Federal funds that may be allocated for a water resources project, or an increase in the total cost of a water resources project, authorized to be carried out by the Secretary shall not affect any cost-sharing requirement applicable to the project.
@@ -6198,8 +6064,8 @@ Reference to partnership agreement deemed to be reference to cooperation agreeme
 Secretary means the Secretary of the Army, see section 2 of Pub. L. 110–114, set out as a note under [section 2201 of this title](./chapter-036-water-resources-development.md#section-2201).
 
 
-<a id="section-2341b"></a>
-## § 2341b. Expedited actions for emergency flood damage reduction
+<a id="section-2327"></a>
+## § 2327. Expedited actions for emergency flood damage reduction
 
 The Secretary shall expedite any authorized planning, design, and construction of any project for flood damage reduction for an area that, within the preceding 5 years, has been subject to flooding that resulted in the loss of life and caused damage of sufficient severity and magnitude to warrant a declaration of a major disaster by the President under the Robert T. Stafford Disaster Relief and Emergency Assistance Act ([42 U.S.C. 5121](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5121&num=0&edition=prelim) et seq.).
 
@@ -6215,8 +6081,8 @@ Section was enacted as part of the Water Resources Development Act of 2007, and 
 Secretary means the Secretary of the Army, see section 2 of Pub. L. 110–114, set out as a note under [section 2201 of this title](./chapter-036-water-resources-development.md#section-2201).
 
 
-<a id="section-2342"></a>
-## § 2342. Prioritization
+<a id="section-2327a"></a>
+## § 2327a. Prioritization
 **(a) Prioritization of hurricane and storm damage risk reduction efforts**
 
 (1) **Priority** — For authorized projects and ongoing feasibility studies with a primary purpose of hurricane and storm damage risk reduction, the Secretary shall give funding priority to projects and ongoing studies that—
@@ -6296,8 +6162,8 @@ Subsec. (b). Pub. L. 114–322, § 1322(a)(2), designated existing provisions as
 Secretary means the Secretary of the Army, see section 2 of Pub. L. 113–121, set out as a note under [section 2201 of this title](./chapter-036-water-resources-development.md#section-2201).
 
 
-<a id="section-2343"></a>
-## § 2343. Prioritization of certain projects
+<a id="section-2328"></a>
+## § 2328. Prioritization of certain projects
 
 The Secretary shall give priority to a project for flood risk management if—
 
@@ -6322,8 +6188,54 @@ Section was enacted as part of the Water Resources Development Act of 2016, and 
 Secretary means the Secretary of the Army, see section 1002 of Pub. L. 114–322, set out as a note under [section 2201 of this title](./chapter-036-water-resources-development.md#section-2201).
 
 
-<a id="section-2344"></a>
-## § 2344. Access to water resource data
+<a id="section-2328a"></a>
+## § 2328a. Criteria for funding environmental infrastructure projects
+**(a) In general** Not later than 180 days after December 27, 2020, the Secretary shall develop specific criteria for the evaluation and ranking of individual environmental assistance projects authorized by Congress (including projects authorized pursuant to environmental assistance programs) for the Secretary to carry out.
+
+**(b) Minimum criteria** For the purposes of carrying out this section, the Secretary shall evaluate, at a minimum—
+
+(1) the nature and extent of the positive and negative local economic impacts of the project, including—
+
+  (A) the benefits of the project to the local economy;
+
+  (B) the extent to which the project will enhance local development;
+
+  (C) the number of jobs that will be directly created by the project; and
+
+  (D) the ability of the non-Federal interest to pay the applicable non-Federal share of the cost of the project;
+
+(2) the demographics of the location in which the project is to be carried out, including whether the project serves—
+
+  (A) a rural community; or
+
+  (B) an economically disadvantaged community, including an economically disadvantaged minority community;
+
+(3) the amount of appropriations a project has received;
+
+(4) the funding capability of the Corps of Engineers with respect to the project;
+
+(5) whether the project could be carried out under other Federal authorities at an equivalent cost to the non-Federal interest; and
+
+(6) any other criteria that the Secretary considers to be appropriate.
+
+**(c) Inclusion in guidance** The Secretary shall include the criteria developed under subsection (a) in the annual Civil Works Direct Program Development Policy Guidance of the Secretary.
+
+**(d) Report to Congress** For fiscal year 2022, and biennially thereafter, in conjunction with the President’s annual budget submission to Congress under [section 1105(a) of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1105/a&num=0&edition=prelim), the Secretary shall submit to the Committee on Environment and Public Works and the Committee on Appropriations of the Senate and the Committee on Transportation and Infrastructure and the Committee on Appropriations of the House of Representatives a report that identifies the Secretary’s ranking of individual environmental assistance projects authorized by Congress for the Secretary to carry out, in accordance with the criteria developed under this section.
+
+### Statutory Notes
+
+#### Codification
+Section was enacted as part of the Water Resources Development Act of 2020, and not as part of the Water Resources Development Act of 1986 which comprises this chapter.
+
+#### “Secretary” Defined
+Secretary means the Secretary of the Army, see section 2 of div. AA of Pub. L. 116–260, set out as a note under [section 2201 of this title](./chapter-036-water-resources-development.md#section-2201).
+
+#### Definitions
+For definition of “economically disadvantaged community” as used in this section, see section 160 of div. AA of Pub. L. 116–260, set out as a note under [section 2201 of this title](./chapter-036-water-resources-development.md#section-2201).
+
+
+<a id="section-2329"></a>
+## § 2329. Access to water resource data
 **(a) In general** Using available funds, the Secretary shall make publicly available, including on the Internet, all data in the custody of the Corps of Engineers on—
 
 (1) the planning, design, construction, operation, and maintenance of water resources development projects; and
@@ -6344,12 +6256,15 @@ Section was enacted as part of the Water Resources Development Act of 2007, and 
 #### Amendments
 2016—Pub. L. 114–322 amended section generally. Prior to amendment, section related to access to water resource data.
 
+#### Data Transparency
+Pub. L. 116–260, div. AA, title I, § 158(b), Dec. 27, 2020, 134 Stat. 2662, provided that: “The Secretary [of the Army] shall prioritize making publicly available water resources data in the custody of the Corps of Engineers, as authorized by section 2017 of the Water Resources Development Act of 2007 ([33 U.S.C. 2342](./chapter-036-water-resources-development.md#section-2342)).”
+
 #### “Secretary” Defined
 Secretary means the Secretary of the Army, see section 2 of Pub. L. 110–114, set out as a note under [section 2201 of this title](./chapter-036-water-resources-development.md#section-2201).
 
 
-<a id="section-2345"></a>
-## § 2345. Independent peer review
+<a id="section-2330"></a>
+## § 2330. Independent peer review
 **(a) Project studies subject to independent peer review**
 
 (1) **In general** — Project studies shall be subject to a peer review by an independent panel of experts as determined under this section.
@@ -6558,8 +6473,8 @@ Subsec. (f)(2), (3). Pub. L. 113–121, § 1044(d), added pars. (2) and (3) and 
 Subsec. (h)(2). Pub. L. 113–121, § 1044(e), substituted “12 years” for “7 years”.
 
 
-<a id="section-2346"></a>
-## § 2346. Safety assurance review
+<a id="section-2330a"></a>
+## § 2330a. Safety assurance review
 **(a) Projects subject to safety assurance review** The Chief of Engineers shall ensure that the design and construction activities for hurricane and storm damage reduction and flood damage reduction projects are reviewed by independent experts under this section if the Chief of Engineers determines that a review by independent experts is necessary to assure public health, safety, and welfare.
 
 **(b) Factors** In determining whether a review of design and construction of a project is necessary under this section, the Chief of Engineers shall consider whether—
@@ -6603,8 +6518,8 @@ Section was enacted as part of the Water Resources Development Act of 2007, and 
 Secretary means the Secretary of the Army, see section 2 of Pub. L. 110–114, set out as a note under [section 2201 of this title](./chapter-036-water-resources-development.md#section-2201).
 
 
-<a id="section-2347"></a>
-## § 2347. Electronic submission and tracking of permit applications
+<a id="section-2330b"></a>
+## § 2330b. Electronic submission and tracking of permit applications
 **(a) Development of electronic system**
 
 (1) **In general** — The Secretary shall research, develop, and implement an electronic system to allow the electronic preparation and submission of applications for permits and requests for jurisdictional determinations under the jurisdiction of the Secretary.
@@ -6681,8 +6596,8 @@ Section was enacted as part of the Water Resources Development Act of 2007, and 
 Secretary means the Secretary of the Army, see section 2 of Pub. L. 110–114, set out as a note under [section 2201 of this title](./chapter-036-water-resources-development.md#section-2201).
 
 
-<a id="section-2347a"></a>
-## § 2347a. Project administration
+<a id="section-2330c"></a>
+## § 2330c. Project administration
 **(a) Project tracking** The Secretary shall assign a unique tracking number to each water resources project under the jurisdiction of the Secretary to be used by each Federal agency throughout the life of the project.
 
 **(b) Report repository**
@@ -6703,8 +6618,8 @@ Section was enacted as part of the Water Resources Development Act of 2007, and 
 Secretary means the Secretary of the Army, see section 2 of Pub. L. 110–114, set out as a note under [section 2201 of this title](./chapter-036-water-resources-development.md#section-2201).
 
 
-<a id="section-2347b"></a>
-## § 2347b. Coordination and scheduling of Federal, State, and local actions
+<a id="section-2331"></a>
+## § 2331. Coordination and scheduling of Federal, State, and local actions
 **(a) Notice of intent** Upon request of the non-Federal interest in the form of a written notice of intent to construct or modify a non-Federal water supply, wastewater infrastructure, flood damage reduction, storm damage reduction, ecosystem restoration, or navigation project that requires the approval of the Secretary, the Secretary shall initiate, subject to subsection (c), procedures to establish a schedule for consolidating Federal, State, and local agency and Indian tribe environmental assessments, project reviews, and issuance of all permits for the construction or modification of the project. All States and Indian tribes having jurisdiction over the proposed project shall be invited by the Secretary, but shall not be required, to participate in carrying out this section with respect to the project.
 
 **(b) Coordination** The Secretary shall seek, to the extent practicable, to consolidate hearing and comment periods, procedures for data collection and report preparation, and the environmental review and permitting processes associated with the project and related activities. The Secretary shall notify, to the extent possible, the non-Federal interest of its responsibilities for data development and information that may be necessary to process each permit required for the project, including a schedule when the information and data should be provided to the appropriate Federal, State, or local agency or Indian tribe.
@@ -6719,14 +6634,14 @@ Secretary means the Secretary of the Army, see section 2 of Pub. L. 110–114, s
 Section was enacted as part of the Water Resources Development Act of 2007, and not as part of the Water Resources Development Act of 1986 which comprises this chapter.
 
 #### Local Government Reservoir Permit Review
-Pub. L. 115–270, title I, § 1119, Oct. 23, 2018, 132 Stat. 3777, provided that: “(a) In General.—During the 10-year period after the date of enactment of this section [Oct. 23, 2018], the Secretary [of the Army] shall expedite review of applications for covered permits, if the permit applicant is a local governmental entity with jurisdiction over an area for which—“(1) any portion of the water resources available to the area served by the local governmental entity is polluted by chemicals used at a formerly used defense site under the jurisdiction of the Department of Defense that is undergoing (or is scheduled to undergo) environmental restoration under chapter 160 of title 10, United States Code; and “(2) mitigation of the pollution described in paragraph (1) is ongoing. “(b) Covered Permit Defined.—In this section, the term ‘covered permit’ means a permit to be issued by the Secretary to modify a reservoir owned or operated by the Secretary, with respect to which not less than 80 percent of the water rights are held for drinking water supplies, in order to accommodate projected water supply needs of an area with a population of less than 80,000. “(c) Limitations.—Nothing in this section affects any obligation to comply with the provisions of any Federal law, including—“(1) the National Environmental Policy Act of 1969 ([42 U.S.C. 4321](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) et seq.); and “(2) the Federal Water Pollution Control Act ([33 U.S.C. 1251](./chapter-026-water-pollution-prevention-and-control.md#section-1251) et seq.).”
+Pub. L. 115–270, title I, § 1119, Oct. 23, 2018, 132 Stat. 3777, as amended by Pub. L. 116–260, div. AA, title III, § 343, Dec. 27, 2020, 134 Stat. 2715, provided that: “(a) In General.—During the 10-year period after the date of enactment of this section [Oct. 23, 2018], the Secretary [of the Army] shall expedite review of applications for covered permits, if the permit applicant is a local governmental entity with jurisdiction over an area for which—“(1) any portion of the water resources available to the area served by the local governmental entity is polluted by chemicals used at a formerly used defense site under the jurisdiction of the Department of Defense that is undergoing (or is scheduled to undergo) environmental restoration under chapter 160 of title 10, United States Code; and “(2) mitigation of the pollution described in paragraph (1) is ongoing. “(b) Covered Permit Defined.—In this section, the term ‘covered permit’ means a permit to be issued by the Secretary to modify a reservoir, with respect to which not less than 80 percent of the water rights are held for drinking water supplies, in order to accommodate projected water supply needs of an area with a population of less than 80,000. “(c) Limitations.—Nothing in this section affects any obligation to comply with the provisions of any Federal law, including—“(1) the National Environmental Policy Act of 1969 ([42 U.S.C. 4321](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) et seq.); and “(2) the Federal Water Pollution Control Act ([33 U.S.C. 1251](./chapter-026-water-pollution-prevention-and-control.md#section-1251) et seq.).”
 
 #### “Secretary” Defined
 Secretary means the Secretary of the Army, see section 2 of Pub. L. 110–114, set out as a note under [section 2201 of this title](./chapter-036-water-resources-development.md#section-2201).
 
 
-<a id="section-2348"></a>
-## § 2348. Determination of project completion
+<a id="section-2331a"></a>
+## § 2331a. Determination of project completion
 **(a) In general** The Secretary shall notify the applicable non-Federal interest when construction of a water resources project or a functional portion of the project is completed so the non-Federal interest may commence responsibilities, as applicable, for operating and maintaining the project.
 
 **(b) Non-Federal interest appeal of determination**
@@ -6748,8 +6663,8 @@ Section was enacted as part of the Water Resources Reform and Development Act of
 Secretary means the Secretary of the Army, see section 2 of Pub. L. 113–121, set out as a note under [section 2201 of this title](./chapter-036-water-resources-development.md#section-2201).
 
 
-<a id="section-2349"></a>
-## § 2349. Purpose and need
+<a id="section-2332"></a>
+## § 2332. Purpose and need
 **(a) Purpose and need statements**
 
 (1) **In general** — Not later than 90 days after the date of receipt of a complete application for a water storage project, the District Engineer shall develop and provide to the applicant a purpose and need statement that describes—
@@ -6774,8 +6689,73 @@ Section was enacted as part of the Water Resources Development Act of 2018, and 
 Secretary means the Secretary of the Army, see section 102 of Pub. L. 115–270, set out as a note under [section 2201 of this title](./chapter-036-water-resources-development.md#section-2201).
 
 
-<a id="section-2350"></a>
-## § 2350. Project acceleration
+<a id="section-2333"></a>
+## § 2333. Small water storage projects
+**(a) In general** The Secretary shall carry out a program to study and construct new, or enlarge existing, small water storage projects, in partnership with a non-Federal interest.
+
+**(b) Requirements** To be eligible to participate in the program under this section, a small water storage project shall—
+
+(1) in the case of a new small water storage project, have a water storage capacity of not less than 2,000 acre-feet and not more than 30,000 acre-feet;
+
+(2) in the case of an enlargement of an existing small water storage project, be for an enlargement of not less than 1,000 acre-feet and not more than 30,000 acre-feet;
+
+(3) provide—
+
+  (A) flood risk management benefits;
+
+  (B) ecological benefits; or
+
+  (C) water management, water conservation, or water supply; and
+
+(4) be—
+
+  (A) economically justified, environmentally acceptable, and technically feasible; or
+
+  (B) in the case of a project providing ecological benefits, cost-effective with respect to such benefits.
+
+**(c) Scope** In carrying out the program under this section, the Secretary shall give preference to a small water storage project located in a State with a population of less than 1,000,000.
+
+**(d) Expedited projects** For the 10-year period beginning on December 27, 2020, the Secretary shall expedite small water storage projects under this section for which applicable Federal permitting requirements have been completed.
+
+**(e) Use of data** In conducting a study under this section, to the maximum extent practicable, the Secretary shall—
+
+(1) as the Secretary determines appropriate, consider and utilize any applicable hydrologic, economic, or environmental data that is prepared for a small water storage project under State law as the documentation, or part of the documentation, required to complete State water plans or other State planning documents relating to water resources management; and
+
+(2) consider information developed by the non-Federal interest in relation to another study, to the extent the Secretary determines such information is applicable, appropriate, or otherwise authorized by law.
+
+**(f) Cost share**
+
+(1) **Study** — The Federal share of the cost of a study conducted under this section shall be—
+
+  (A) 100 percent for costs not to exceed $100,000; and
+
+  (B) 50 percent for any costs above $100,000.
+
+(2) **Construction** — A small water storage project carried out under this section shall be subject to the cost-sharing requirements applicable to projects under [section 2213 of this title](./chapter-036-water-resources-development.md#section-2213), including—
+
+  (A) municipal and industrial water supply: 100 percent non-Federal;
+
+  (B) agricultural water supply: 35 percent non-Federal; and
+
+  (C) recreation, including recreational navigation: 50 percent of separable costs and, in the case of any harbor or inland harbor or channel project, 50 percent of joint and separable costs allocated to recreational navigation.
+
+**(g) OMRRR responsibility** The costs of operation, maintenance, repair, and replacement and rehabilitation for a small water storage project constructed under this section shall be the responsibility of the non-Federal interest.
+
+**(h) Individual project limit** Not more than $65,000,000 in Federal funds may be made available to a small water storage project under this section.
+
+**(i) Authorization of appropriations** There is authorized to be appropriated to carry out this section $130,000,000 annually through fiscal year 2030.
+
+### Statutory Notes
+
+#### Codification
+Section was enacted as part of the Water Resources Development Act of 2020, and not as part of the Water Resources Development Act of 1986 which comprises this chapter.
+
+#### “Secretary” Defined
+Secretary means the Secretary of the Army, see section 2 of div. AA of Pub. L. 116–260, set out as a note under [section 2201 of this title](./chapter-036-water-resources-development.md#section-2201).
+
+
+<a id="section-2334"></a>
+## § 2334. Project acceleration
 **(a) Definitions** In this section:
 
 (1) **Environmental impact statement** — The term “environmental impact statement” means the detailed statement of environmental impacts of a project required to be prepared pursuant to the National Environmental Policy Act of 1969 ([42 U.S.C. 4321](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) et seq.).
@@ -7199,8 +7179,8 @@ Section was enacted as part of the Water Resources Development Act of 2007, and 
 Secretary means the Secretary of the Army, see section 2 of Pub. L. 110–114, set out as a note under [section 2201 of this title](./chapter-036-water-resources-development.md#section-2201).
 
 
-<a id="section-2351"></a>
-## § 2351. Categorical exclusions in emergencies
+<a id="section-2335"></a>
+## § 2335. Categorical exclusions in emergencies
 
 For the repair, reconstruction, or rehabilitation of a water resources project that is in operation or under construction when damaged by an event or incident that results in a declaration by the President of a major disaster or emergency pursuant to the Robert T. Stafford Disaster Relief and Emergency Assistance Act ([42 U.S.C. 5121](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5121&num=0&edition=prelim) et seq.), the Secretary shall treat such repair, reconstruction, or rehabilitation activity as a class of action categorically excluded from the requirements relating to environmental assessments or environmental impact statements under section 1508.4 of title 40, Code of Federal Regulations (or successor regulations), if the repair or reconstruction activity is—
 
@@ -7222,8 +7202,8 @@ Section was enacted as part of the Water Resources Reform and Development Act of
 Secretary means the Secretary of the Army, see section 2 of Pub. L. 113–121, set out as a note under [section 2201 of this title](./chapter-036-water-resources-development.md#section-2201).
 
 
-<a id="section-2351a"></a>
-## § 2351a. Corrosion prevention
+<a id="section-2336"></a>
+## § 2336. Corrosion prevention
 **(a) In general** To the greatest extent practicable, the Secretary shall encourage and incorporate corrosion prevention activities at water resources development projects.
 
 **(b) Activities** In carrying out subsection (a), the Secretary, to the greatest extent practicable, shall ensure that contractors performing work for water resources development projects—
@@ -7272,8 +7252,8 @@ Section was enacted as part of the Water Resources Reform and Development Act of
 Secretary means the Secretary of the Army, see section 2 of Pub. L. 113–121, set out as a note under [section 2201 of this title](./chapter-036-water-resources-development.md#section-2201).
 
 
-<a id="section-2352"></a>
-## § 2352. Durability, sustainability, and resilience
+<a id="section-2337"></a>
+## § 2337. Durability, sustainability, and resilience
 
 In carrying out the activities of the Corps of Engineers, the Secretary, to the maximum extent practicable, shall encourage the use of durable and sustainable materials and resilient construction techniques that—
 
@@ -7296,8 +7276,8 @@ Section was enacted as part of the Water Resources Reform and Development Act of
 Secretary means the Secretary of the Army, see section 2 of Pub. L. 113–121, set out as a note under [section 2201 of this title](./chapter-036-water-resources-development.md#section-2201).
 
 
-<a id="section-2353"></a>
-## § 2353. Operation and maintenance of existing infrastructure
+<a id="section-2338"></a>
+## § 2338. Operation and maintenance of existing infrastructure
 
 The Secretary shall improve the reliability, and operation and maintenance of, existing infrastructure of the Corps of Engineers, and, as necessary, improve its resilience to cyber-related threats.
 
@@ -7310,8 +7290,8 @@ Section was enacted as part of the Water Resources Development Act of 2018, and 
 Secretary means the Secretary of the Army, see section 102 of Pub. L. 115–270, set out as a note under [section 2201 of this title](./chapter-036-water-resources-development.md#section-2201).
 
 
-<a id="section-2354"></a>
-## § 2354. Funding to process permits
+<a id="section-2339"></a>
+## § 2339. Funding to process permits
 **(a) Funding to process permits**
 
 (1) **Definitions** — In this subsection:
@@ -7426,8 +7406,8 @@ Subsec. (c). Pub. L. 109–99, § 1(2), added subsec. (c).
 Secretary means the Secretary of the Army, see section 2 of Pub. L. 106–541, set out as a note under [section 2201 of this title](./chapter-036-water-resources-development.md#section-2201).
 
 
-<a id="section-2355"></a>
-## § 2355. Structural health monitoring
+<a id="section-2339a"></a>
+## § 2339a. Structural health monitoring
 **(a) In general** The Secretary shall design and develop a structural health monitoring program to assess and improve the condition of infrastructure constructed and maintained by the Corps of Engineers, including research, design, and development of systems and frameworks for—
 
 (1) response to flood and earthquake events;
@@ -7451,3 +7431,1044 @@ Section was enacted as part of the Water Resources Development Act of 2016, and 
 
 #### “Secretary” Defined
 Secretary means the Secretary of the Army, see section 1002 of Pub. L. 114–322, set out as a note under [section 2201 of this title](./chapter-036-water-resources-development.md#section-2201).
+
+
+<a id="section-2340"></a>
+## § 2340. Aging infrastructure
+**(a) Definitions** In this section:
+
+(1) **Aging infrastructure** — The term “aging infrastructure” means a water resources development project of the Corps of Engineers, or any other water resources, water storage, or irrigation project of another Federal agency, that is greater than 75 years old.
+
+(2) **Enhanced inspection** — The term “enhanced inspection” means an inspection that uses current or innovative technology, including Light Detection and Ranging (commonly known as “LiDAR”), ground penetrating radar, subsurface imaging, or subsurface geophysical techniques, to detect whether the features of the aging infrastructure are structurally sound and can operate as intended, or are at risk of failure.
+
+**(b) Contracts for enhanced inspection**
+
+(1) **In general** — The Secretary may carry out enhanced inspections of aging infrastructure, pursuant to a contract with the owner or operator of the aging infrastructure.
+
+(2) **Certain circumstances** — Subject to the availability of appropriations, or funds available pursuant to subsection (d), the Secretary shall enter into a contract described in paragraph (1), if—
+
+  (A) the owner or operator of the aging infrastructure requests that the Secretary carry out the enhanced inspections; and
+
+  (B) the inspection is at the full expense of such owner or operator.
+
+**(c) Limitation** The Secretary shall not require a non-Federal entity associated with a project under the jurisdiction of another Federal agency to carry out corrective or remedial actions in response to an enhanced inspection carried out under this section.
+
+**(d) Funding** The Secretary is authorized to accept funds from an owner or operator of aging infrastructure, and may use such funds to carry out an enhanced inspection pursuant to a contract entered into with such owner or operator under this section.
+
+### Statutory Notes
+
+#### Codification
+Section was enacted as part of the Water Resources Development Act of 2020, and not as part of the Water Resources Development Act of 1986 which comprises this chapter.
+
+#### “Secretary” Defined
+Secretary means the Secretary of the Army, see section 2 of div. AA of Pub. L. 116–260, set out as a note under [section 2201 of this title](./chapter-036-water-resources-development.md#section-2201).
+
+
+<a id="section-2341"></a>
+## § 2341. Easements for electric, telephone, or broadband service facilities
+**(a) Definition of water resources development project** In this section, the term “water resources development project” means a project under the administrative jurisdiction of the Corps of Engineers that is subject to part 327 of title 36, Code of Federal Regulations (or successor regulations).
+
+**(b) No consideration for easements** The Secretary may not collect consideration for an easement across water resources development project land for the electric, telephone, or broadband service facilities of nonprofit organizations eligible for financing under the Rural Electrification Act of 1936 ([7 U.S.C. 901](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section901&num=0&edition=prelim) et seq.).
+
+**(c) Administrative expenses** Nothing in this section affects the authority of the Secretary under [section 2695 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2695&num=0&edition=prelim) or under [section 9701 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section9701&num=0&edition=prelim) to collect funds to cover reasonable administrative expenses incurred by the Secretary.
+
+### Statutory Notes
+
+#### References in Text
+The Rural Electrification Act of 1936, referred to in subsec. (b), is act May 20, 1936, ch. 432, 49 Stat. 1363, which is classified generally to chapter 31 (§ 901 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see [section 901 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section901&num=0&edition=prelim) and Tables.
+
+#### Codification
+Section was enacted as part of the Water Resources Development Act of 2016, and also as part of the Water Infrastructure Improvements for the Nation Act, also known as the WIIN Act, and not as part of the Water Resources Development Act of 1986 which comprises this chapter.
+
+#### “Secretary” Defined
+Secretary means the Secretary of the Army, see section 1002 of Pub. L. 114–322, set out as a note under [section 2201 of this title](./chapter-036-water-resources-development.md#section-2201).
+
+
+<a id="section-2341a"></a>
+## § 2341a. Prior project authorization
+
+In any case in which a project under the jurisdiction of the Secretary is budgeted under a different business line than the business line under which the project was originally authorized, the Secretary shall ensure that the project is carried out in accordance with any requirements that apply to the business line under which the project was originally authorized.
+
+### Statutory Notes
+
+#### Codification
+Section was enacted as part of the Water Resources Development Act of 2018, and also as part of the America’s Water Infrastructure Act of 2018, and not as part of the Water Resources Development Act of 1986 which comprises this chapter.
+
+#### “Secretary” Defined
+Secretary means the Secretary of the Army, see section 102 of Pub. L. 115–270, set out as a note under [section 2201 of this title](./chapter-036-water-resources-development.md#section-2201).
+
+
+<a id="section-2341b"></a>
+## § 2341b. Project consultation
+**(a) Reports required** Not later than 180 days after December 27, 2020, the Secretary shall submit the following reports:
+
+(1) The report required under section 1214 of the Water Resources Development Act of 2018 (132 Stat. 3809).
+
+(2) The report required under section 1120(a)(3) of the Water Resources Development Act of 2016 (130 Stat. 1643).
+
+**(b) Environmental justice updates**
+
+(1) **In general** — In the formulation of water development resources projects, the Secretary shall comply with any existing Executive order regarding environmental justice in effect as of December 27, 2020, to address any disproportionate and adverse human health or environmental effects on minority communities, low-income communities, and Indian Tribes.
+
+(2) **Update** — Not later than 1 year after December 27, 2020, the Secretary shall review, and shall update, where appropriate, any policies, regulations, and guidance of the Corps of Engineers necessary to implement any Executive order described in paragraph (1) with respect to water resources development projects.
+
+(3) **Requirements** — In updating the policies, regulations, or guidance under paragraph (2), the Secretary shall—
+
+  (A) provide notice to interested non-Federal stakeholders, including representatives of minority communities, low-income communities, and Indian Tribes;
+
+  (B) provide opportunities for interested stakeholders to comment on potential updates of policies, regulations, or guidance;
+
+  (C) consider the recommendations from the reports submitted under subsection (a); and
+
+  (D) promote the meaningful involvement of minority communities, low-income communities, and Indian Tribes.
+
+**(c) Community engagement** In carrying out a water resources development project, the Secretary shall, to the extent practicable—
+
+(1) promote the meaningful involvement of minority communities, low-income communities, and Indian Tribes;
+
+(2) provide guidance and technical assistance to such communities or Tribes to increase understanding of the project development and implementation activities, regulations, and policies of the Corps of Engineers; and
+
+(3) cooperate with State, Tribal, and local governments with respect to activities carried out pursuant to this subsection.
+
+**(d) Tribal lands and consultation** In carrying out water resources development projects, the Secretary shall, to the extent practicable and in accordance with the Tribal Consultation Policy affirmed and formalized by the Secretary on November 1, 2012 (or a successor policy)—
+
+(1) promote meaningful involvement with Indian Tribes specifically on any Tribal lands near or adjacent to any water resources development projects, for purposes of identifying lands of ancestral, cultural, or religious importance;
+
+(2) consult with Indian Tribes specifically on any Tribal areas near or adjacent to any water resources development projects, for purposes of identifying lands, waters, and other resources critical to the livelihood of the Indian Tribes; and
+
+(3) cooperate with Indian Tribes to avoid, or otherwise find alternate solutions with respect to, such areas.
+
+### Statutory Notes
+
+#### References in Text
+Section 1214 of the Water Resources Development Act of 2018, referred to in subsec. (a)(1), is section 1214 of Pub. L. 115–270, title I, Oct. 23, 2018, 132 Stat. 3768, which is not classified to the Code.
+
+Section 1120(a)(3) of the Water Resources Development Act of 2016, referred to in subsec. (a)(2), is section 1120(a)(3) of Pub. L. 114–322, title I, Dec. 16, 2016, 130 Stat. 1632, which is not classified to the Code.
+
+#### Codification
+Section was enacted as a part of the Water Resources Development Act of 2020, and not as a part of the Water Resources Development Act of 1986 which comprises this chapter.
+
+#### “Secretary” Defined
+Secretary means the Secretary of the Army, see section 2 of div. AA of Pub. L. 116–260, set out as a note under [section 2201 of this title](./chapter-036-water-resources-development.md#section-2201).
+
+
+<a id="section-2341c"></a>
+## § 2341c. Repealed. Pub. L. 111–281, title X, § 1048, Oct. 15, 2010, 124 Stat. 3032
+
+### Statutory Notes
+
+Section 2401, Pub. L. 100–333, § 2, June 16, 1988, 102 Stat. 605, provided findings and purposes for chapter.
+
+Section 2402, Pub. L. 100–333, § 3, June 16, 1988, 102 Stat. 605, provided definitions for chapter.
+
+Section 2403, Pub. L. 100–333, § 4, June 16, 1988, 102 Stat. 606, prohibited, with exceptions, application of antifouling paint containing organotin to any vessel less than 25 meters in length.
+
+Section 2404, Pub. L. 100–333, § 5, June 16, 1988, 102 Stat. 606, prohibited certain organotin paints and additives.
+
+Section 2405, Pub. L. 100–333, § 6, June 16, 1988, 102 Stat. 607, related to certification of antifouling paints containing organotin.
+
+Section 2406, Pub. L. 100–333, § 7, June 16, 1988, 102 Stat. 607; Pub. L. 104–106, div. A, title X, § 1064(f), Feb. 10, 1996, 110 Stat. 445, related to monitoring and research of ecological effects.
+
+Section 2407, Pub. L. 100–333, § 8, June 16, 1988, 102 Stat. 608, provided for alternative antifouling research.
+
+Section 2408, Pub. L. 100–333, § 9, June 16, 1988, 102 Stat. 608, related to issuance of a final water quality criteria document.
+
+Section 2409, Pub. L. 100–333, § 10, June 16, 1988, 102 Stat. 608, provided for civil and criminal penalties for violations of certain sections of chapter.
+
+Section 2410, Pub. L. 100–333, § 11, June 16, 1988, 102 Stat. 608, related to other authorities and State laws.
+
+#### Effective Date; Use of Existing Stocks
+Pub. L. 100–333, § 12, June 16, 1988, 102 Stat. 609, which provided that this chapter would take effect on June 16, 1988, and provided for a limited amount of time after that date to sell and use existing stocks of organotin paints and additives, was repealed by Pub. L. 111–281, title X, § 1048, Oct. 15, 2010, 124 Stat. 3032.
+
+#### Short Title
+Pub. L. 100–333, § 1, June 16, 1988, 102 Stat. 605, which provided that this chapter could be cited as the “Organotin Antifouling Paint Control Act of 1988”, was repealed by Pub. L. 111–281, title X, § 1048, Oct. 15, 2010, 124 Stat. 3032.
+
+
+<a id="section-2342"></a>
+## § 2342. Findings
+
+The Congress finds the following:
+
+(1) The washing ashore of potentially infectious medical wastes from public vessels of the United States may pose serious and widespread risks to public health and to the welfare of coastal communities.
+
+(2) Current Federal law provides inadequate protections against the disposal of such wastes from such vessels into ocean waters.
+
+(3) Operators of such vessels must take immediate action to stop disposing of such wastes into ocean waters.
+
+### Statutory Notes
+
+#### Short Title
+Pub. L. 100–688, title III, § 3101, Nov. 18, 1988, 102 Stat. 4152, provided that: “This subtitle [subtitle A (§§ 3101–3105) of title III of Pub. L. 100–688, enacting this chapter] may be cited as the ‘United States Public Vessel Medical Waste Anti-Dumping Act of 1988’.”
+
+
+<a id="section-2343"></a>
+## § 2343. Definitions
+
+For the purposes of this chapter:
+
+(1) **Potentially infectious medical waste** — The term “potentially infectious medical waste” includes isolation wastes; infectious agents; human blood and blood products; pathological wastes; sharps; body parts; contaminated bedding; surgical wastes; and other disposable medical equipment and material that may pose a risk to the public health, welfare or the marine environment.
+
+(2) **Public vessel** — The term “public vessel” means a vessel of any type whatsoever (including hydrofoils, air-cushion vehicles, submersibles, floating craft whether propelled or not, and fixed or floating platforms) that is owned, or demise chartered, and operated by the United States Government, and is not engaged in commercial service.
+
+
+<a id="section-2344"></a>
+## § 2344. Prohibition
+
+After 6 months after November 18, 1988, no public vessel shall dispose of potentially infectious medical waste into ocean waters unless—
+
+(1)
+
+  (A) the health or safety of individuals on board the vessel is threatened; or
+
+  (B) during time of war or a declared national emergency;
+
+(2) the waste is disposed of beyond 50 nautical miles from the nearest land; and
+
+(3)
+
+  (A) in the case of a public vessel which is not a submersible, the waste is sterilized, properly packaged, and sufficiently weighted to prevent the waste from coming ashore after disposal; and
+
+  (B) in the case of a public vessel which is a submersible, the waste is properly packaged and sufficiently weighted to prevent the waste from coming ashore after disposal.
+
+
+<a id="section-2345"></a>
+## § 2345. Guidance
+
+Not later than 3 months after November 18, 1988, the Secretary of Defense and the head of each affected agency, in consultation with the Administrator of the Environmental Protection Agency, shall each issue guidance for public vessels under the jurisdiction of their agency regarding implementation of [section 2503 of this title](./chapter-038-dumping-of-medical-waste-by-public-vessels.md#section-2503).
+
+
+<a id="section-2346"></a>
+## § 2346. Definitions
+
+In this chapter—
+
+(1) “Administrator” means the Administrator of the Environmental Protection Agency.
+
+(2) “coastal waters” means—
+
+  (A) the territorial sea of the United States;
+
+  (B) the Great Lakes and their connecting waters;
+
+  (C) the marine and estuarine waters of the United States up to the head of tidal influence; and
+
+  (D) the Exclusive Economic Zone as established by Presidential Proclamation Number 5030, dated March 10, 1983.
+
+(3) “municipal or commercial waste” means solid waste (as defined in [section 6903 of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section6903&num=0&edition=prelim)) except—
+
+  (A) solid waste identified and listed under [section 6921 of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section6921&num=0&edition=prelim);
+
+  (B) waste generated by the vessel during normal operations;
+
+  (C) debris solely from construction activities;
+
+  (D) sewage sludge subject to regulation under title I of the Marine Protection, Research, and Sanctuaries Act of 1972 [[33 U.S.C. 1411](./chapter-027-ocean-dumping.md#section-1411) et seq.]; and
+
+  (E) dredged or fill material subject to regulation under title I of the Marine Protection, Research, and Sanctuaries Act of 1972 [[33 U.S.C. 1411](./chapter-027-ocean-dumping.md#section-1411) et seq.], the Federal Water Pollution Control Act ([33 U.S.C. 1251](./chapter-026-water-pollution-prevention-and-control.md#section-1251) et seq.), or the Rivers and Harbors Appropriation Act of 1899 ([33 U.S.C. 401](./chapter-009-protection-of-navigable-waters-and-of-harbor-and-river-improvements-generally.md#section-401) et seq.).
+
+(4) “person” means an individual, trust, firm, joint stock company, corporation (including a government corporation), partnership, association, State, municipality, commission, political subdivision of a State, or any interstate body.
+
+(5) “receiving facility” means a facility or operation where municipal or commercial waste is unloaded from a vessel.
+
+(6) “United States”, when used in a geographic sense, means the States of the United States, Puerto Rico, the District of Columbia, the Virgin Islands, American Samoa, Guam, the Northern Mariana Islands, and any other territory or possession of the United States.
+
+(7) “waste source” means a facility or vessel from which municipal or commercial waste is loaded onto a vessel, including any rolling stock or motor vehicles from which that waste is directly loaded.
+
+### Statutory Notes
+
+#### References in Text
+Presidential Proclamation Number 5030, referred to in par. (2)(D), is set out under [section 1453 of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1453&num=0&edition=prelim), Conservation.
+
+The Marine Protection, Research, and Sanctuaries Act of 1972, referred to in par. (3)(D) and (E), is Pub. L. 92–532, Oct. 23, 1972, 86 Stat. 1052, as amended. Title I of that Act is classified generally to subchapter I (§ 1411 et seq.) of chapter 27 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1401 of this title](./chapter-027-ocean-dumping.md#section-1401) and Tables.
+
+The Federal Water Pollution Control Act, referred to in par. (3)(E), is act June 30, 1948, ch. 758, as amended generally by Pub. L. 92–500, § 2, Oct. 18, 1972, 86 Stat. 816, which is classified generally to chapter 26 (§ 1251 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1251 of this title](./chapter-026-water-pollution-prevention-and-control.md#section-1251) and Tables.
+
+The Rivers and Harbors Appropriation Act of 1899, referred to in par. (3)(E), is act Mar. 3, 1899, ch. 425, 30 Stat. 1151, as amended, which enacted sections 401, 403, 404, 406 to 409, 411 to 416, 418, 502, 549, 686, and 687 of this title. For complete classification of this Act to the Code, see Tables.
+
+#### Short Title
+Pub. L. 100–688, title IV, § 4001, Nov. 18, 1988, 102 Stat. 4154, provided that: “This title [enacting this chapter] may be cited as the ‘Shore Protection Act of 1988’.”
+
+#### Territorial Sea of United States
+For extension of territorial sea of United States, see Proc. No. 5928, set out as a note under [section 1331 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1331&num=0&edition=prelim), Public Lands.
+
+
+<a id="section-2347"></a>
+## § 2347. Vessel permits and numbers
+**(a) In general** A vessel (except a public vessel as defined in [section 2101 of title 46](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section2101&num=0&edition=prelim)) may not transport municipal or commercial waste in coastal waters without—
+
+(1) a permit for that vessel from the Secretary of Transportation; and
+
+(2) displaying a number or other marking on the vessel as prescribed by the Secretary under chapter 123 or [section 12502(b) of title 46](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section12502/b&num=0&edition=prelim).
+
+**(b) Permit applications** Application for a permit required by subsection (a) of this section shall be made by the vessel owner or operator and include—
+
+(1) the name, address, and telephone number of the vessel owner and operator;
+
+(2) the vessel’s name and identification number;
+
+(3) the vessel’s area of operation;
+
+(4) the vessel’s transport capacity;
+
+(5) a history of the types of cargo transported by that vessel during the previous year, including identifying the type of municipal or commercial waste transported as—
+
+  (A) municipal waste;
+
+  (B) commercial waste;
+
+  (C) medical waste; or
+
+  (D) waste of another character.
+
+(6) any other information the Secretary may require; and
+
+(7) an acknowledgment.
+
+**(c) Effective date of permits** A permit issued under this section—
+
+(1) is effective 30 days after the date on which it was issued;
+
+(2) may be issued only for a period of not more than 5 years after the effective date of the permit;
+
+(3) may be renewed for periods of not more than 5 years only by the vessel owner or operator that applied for the original permit; and
+
+(4) is terminated when the vessel is sold.
+
+**(d) Denial of permits** The Secretary may, or at the request of the Administrator shall, deny the issuance of a permit for any vessel if the owner or operator of the vessel has a record of a pattern of serious violations of—
+
+(1) this subchapter;
+
+(2) the Solid Waste Disposal Act ([42 U.S.C. 6901](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section6901&num=0&edition=prelim) et seq.);
+
+(3) the Marine Protection, Research, and Sanctuaries Act of 1972 [[16 U.S.C. 1431](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1431&num=0&edition=prelim) et seq., 1447 et seq.; [33 U.S.C. 1401](./chapter-027-ocean-dumping.md#section-1401) et seq., 2801 et seq.];
+
+(4) the Rivers and Harbors Appropriation Act of 1899 ([33 U.S.C. 401](./chapter-009-protection-of-navigable-waters-and-of-harbor-and-river-improvements-generally.md#section-401) et seq.); or
+
+(5) the Federal Water Pollution Control Act ([33 U.S.C. 1251](./chapter-026-water-pollution-prevention-and-control.md#section-1251) et seq.).
+
+**(e) Permit decision** The Secretary, after consultation with the Administrator, shall issue or deny a vessel permit under this section within 30 days after receiving a complete application. On denying the issuance of the permit for a vessel the Secretary shall—
+
+(1) notify the applicant of the denial and the reasons for the denial; and
+
+(2) provide an opportunity for a hearing on the denial.
+
+**(f) Maintaining permit**
+
+(1) **In general** — The permit issued for a vessel under this chapter shall be maintained in a manner prescribed by the Secretary.
+
+(2) **Endorsements** — If a vessel is a documented vessel, the Secretary may endorse a permit on the vessel’s certificate of documentation.
+
+**(g) Vessel information system** The Secretary may include information in a permit in the vessel information system maintained under chapter 125 of title 46.
+
+### Statutory Notes
+
+#### References in Text
+The Solid Waste Disposal Act, referred to in subsec. (d)(2), is title II of Pub. L. 89–272, Oct. 20, 1965, 79 Stat. 997, as amended generally by Pub. L. 94–580, § 2, Oct. 21, 1976, 90 Stat. 2795, which is classified generally to chapter 82 (§ 6901 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 6901 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section6901&num=0&edition=prelim) and Tables.
+
+The Marine Protection, Research, and Sanctuaries Act of 1972, referred to in subsec. (d)(3), is Pub. L. 92–532, Oct. 23, 1972, 86 Stat. 1052, as amended, which is classified generally to chapters 27 (§ 1401 et seq.) and 41 (§ 2801 et seq.) of this title and chapters 32 (§ 1431 et seq.) and 32A (§ 1447 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under [section 1401 of this title](./chapter-027-ocean-dumping.md#section-1401) and Tables.
+
+The Rivers and Harbors Appropriation Act of 1899, referred to in subsec. (d)(4), is act Mar. 3, 1899, ch. 425, 30 Stat. 1151, as amended, which enacted sections 401, 403, 404, 406 to 409, 411 to 416, 418, 502, 549, 686, and 687 of this title. For complete classification of this Act to the Code, see Tables.
+
+The Federal Water Pollution Control Act, referred to in subsec. (d)(5), is act June 30, 1948, ch. 758, as amended generally by Pub. L. 92–500, § 2, Oct. 18, 1972, 86 Stat. 816, which is classified generally to chapter 26 (§ 1251 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1251 of this title](./chapter-026-water-pollution-prevention-and-control.md#section-1251) and Tables.
+
+#### Effective Date
+Pub. L. 100–688, title IV, § 4204(b), Nov. 18, 1988, 102 Stat. 4160, provided that: “Section 4102(a) of this Act [[33 U.S.C. 2602(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section2602/a&num=0&edition=prelim)] is effective 240 days after the date of enactment of this Act [Nov. 18, 1988].”
+
+#### Availability of Applications
+Pub. L. 100–688, title IV, § 4204(a), Nov. 18, 1988, 102 Stat. 4160, provided that: “The Secretary shall make vessel applications for permits to be issued under section 4102 of this Act [[33 U.S.C. 2602](./chapter-039-shore-protection-from-municipal-or-commercial-waste.md#section-2602)] publicly available within 60 days after the date of enactment of this Act [Nov. 18, 1988].”
+
+
+<a id="section-2347a"></a>
+## § 2347a. Waste handling practices
+**(a) In general**
+
+(1) **Loading** — The owner or operator of the waste source shall take all reasonable steps to assure that all municipal or commercial waste is loaded onto a vessel in a manner that assures that waste deposited in coastal waters is minimized.
+
+(2) **Securing** — The owner or operator of a vessel shall assure that all municipal or commercial waste loaded onto the vessel is secured by netting or other means to assure that waste will not be deposited into coastal waters during transport.
+
+(3) **Offloading** — The owner or operator of the receiving facility shall take all reasonable steps to assure that any municipal or commercial waste is offloaded from a vessel in a manner that assures that waste deposited into coastal waters is minimized.
+
+(4) **Cleaning up** — The owner or operator of any waste source or receiving facility shall provide adequate control measures to clean up any municipal or commercial waste which is deposited into coastal waters.
+
+**(b) Regulations** The Administrator, in consultation with the Secretary of Transportation, shall prescribe regulations—
+
+(1) requiring that waste sources, receiving facilities, and vessels provide the means and facilities to assure that the waste will not be deposited into coastal waters during loading, offloading, and transport;
+
+(2) requiring, as appropriate, the submission and adoption by each responsible party of an operation and maintenance manual identifying procedures to be used to prevent, report, and clean up any deposit of municipal or commercial waste into coastal waters, including record keeping requirements; and
+
+(3) if the Administrator determines that tracking systems are required to assure adequate enforcement of laws preventing the deposit of municipal or commercial waste into coastal waters, requiring installation of the appropriate systems within 18 months after the Administrator makes that determination.
+
+### Statutory Notes
+
+#### Effective Date
+Pub. L. 100–688, title IV, § 4204(c), Nov. 18, 1988, 102 Stat. 4160, provided that: “Section 4103 of this Act [[33 U.S.C. 2603](./chapter-039-shore-protection-from-municipal-or-commercial-waste.md#section-2603)] takes effect 60 days after the date of enactment of this Act [Nov. 18, 1988].”
+
+
+<a id="section-2347b"></a>
+## § 2347b. Suspension, revocation, and injunctions
+**(a) Suspension and revocation** After notice and opportunity for a hearing, the Secretary of Transportation may, and at the request of the Administrator shall, suspend or revoke a permit issued to a vessel under this chapter for a violation of this chapter or a regulation prescribed under this chapter.
+
+**(b) Injunctions** The Secretary or the Administrator may bring a civil action to enjoin any operation in violation of this chapter or a regulation prescribed under this chapter in the district court of the United States for the district in which the violation occurred.
+
+
+<a id="section-2347c"></a>
+## § 2347c. Enforcement
+**(a) General authority** The Secretary of Transportation shall enforce this chapter under section 89 11 See References in Text note below. of title 14. The Secretary may authorize other officers or employees of the United States Government to enforce this chapter under that section.
+
+**(b) Periodic examinations** The Secretary shall conduct periodic examinations of vessels operating under this chapter transporting municipal or commercial waste to determine that each of these vessels has a permit issued under [section 2602 of this title](./chapter-039-shore-protection-from-municipal-or-commercial-waste.md#section-2602).
+
+**(c) Refusal of clearance** The Secretary of the Treasury may refuse the clearance required by [section 60105 of title 46](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section60105&num=0&edition=prelim), to any vessel subject to this chapter which does not have a permit required under [section 2602 of this title](./chapter-039-shore-protection-from-municipal-or-commercial-waste.md#section-2602).
+
+**(d) Denial of entry and detention** If a vessel does not comply with this chapter, the Secretary of Transportation may—
+
+(1) deny entry to any place in the United States; and
+
+(2) detain at the place in the United States from which it is about to depart.
+
+**(e) Persistent violators** The Administrator shall conduct an investigation of the owner or operator of a vessel or facility if the owner has 5 or more separate violations during a 6-month period.
+
+### Statutory Notes
+
+#### References in Text
+[Section 89 of title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section89&num=0&edition=prelim), referred to in subsec. (a), was redesignated [section 522 of title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section522&num=0&edition=prelim) by Pub. L. 115–282, title I, § 105(b), Dec. 4, 2018, 132 Stat. 4200, and reference to [section 89 of title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section89&num=0&edition=prelim) deemed to refer to such redesignated section, see section 123(b)(1) of Pub. L. 115–282, set out as a References to Sections of Title 14 as Redesignated by Pub. L. 115–282 note preceding [section 101 of Title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section101&num=0&edition=prelim), Coast Guard.
+
+#### Codification
+In subsec. (c), “[section 60105 of title 46](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section60105&num=0&edition=prelim)” substituted for “section 4197 of the Revised Statutes of the United States (46 App. U.S.C. 91)” on authority of Pub. L. 109–304, § 18(c), Oct. 6, 2006, 120 Stat. 1709, which Act enacted [section 60105 of Title 46](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section60105&num=0&edition=prelim), Shipping.
+
+
+<a id="section-2348"></a>
+## § 2348. Subpena authority
+**(a) General authority** In an investigation under this chapter, the attendance and testimony of witnesses, including parties in interest, and the production of any evidence may be compelled by subpena. The subpena authority granted by this section is coextensive with that of a district court of the United States, in civil matters, for the district in which the investigation is conducted.
+
+**(b) Subpena authority** An official designated by the Secretary of Transportation or Administrator to conduct an investigation under this chapter may issue subpenas as provided in this section and administer oaths to witnesses.
+
+**(c) Failure to comply** When a person fails to obey a subpena issued under this section, the district court of the United States for the district in which the investigation is conducted or in which the person failing to obey is found, shall on proper application issue an order directing that person to comply with the subpena. The court may punish as contempt any disobedience of its order.
+
+**(d) Witness fees** A witness complying with a subpena issued under this section may be paid for actual travel and attendance at the rate provided for witnesses in the district courts of the United States.
+
+### Statutory Notes
+
+#### References in Text
+This chapter, referred to in subsec. (b), was in the original “this part” and was translated as reading “this title” to reflect the probable intent of Congress.
+
+
+<a id="section-2349"></a>
+## § 2349. Fees
+
+The Secretary of Transportation may collect a fee under [section 9701 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section9701&num=0&edition=prelim) of not more than $1,000, from each person to whom a permit is issued under this subchapter for a permitting system and to maintain information.
+
+
+<a id="section-2350"></a>
+## § 2350. Civil penalty procedures
+**(a) General procedures** After notice and an opportunity for a hearing, a person found by the Secretary of Transportation to have violated this chapter or a regulation prescribed under this chapter for which a civil penalty is provided, is liable to the United States Government for the civil penalty provided. The amount of the civil penalty shall be assessed by the Secretary by written notice. In determining the amount of the penalty, the Secretary shall consider the nature, circumstances, extent, and gravity of the prohibited acts committed and, with respect to the violator, the degree of culpability, any history of prior offenses, ability to pay, and other matters that justice requires.
+
+**(b) Compromising penalties** The Secretary may compromise, modify, or remit, with or without consideration, a civil penalty under this chapter until the assessment is referred to the Attorney General.
+
+**(c) Referral to Attorney General** If a person fails to pay an assessment of a civil penalty after it has become final, the Secretary may refer the matter to the Attorney General for collection in an appropriate district court of the United States.
+
+**(d) Refund of penalty** The Secretary may refund or remit a civil penalty collected under this chapter if—
+
+(1) application has been made for refund or remission of the penalty within one year from the date of payment; and
+
+(2) the Secretary finds that the penalty was unlawfully, improperly, or excessively imposed.
+
+
+<a id="section-2351"></a>
+## § 2351. Penalties
+**(a) General penalty** Except as provided in subsection (b) of this section, a person violating this chapter is liable to the United States Government for a civil penalty of not more than $25,000. Each day of a continuing violation is a separate violation. A vessel involved in the violation also is liable in rem for the penalty.
+
+**(b) Operating without a permit** A person violating [section 2602 of this title](./chapter-039-shore-protection-from-municipal-or-commercial-waste.md#section-2602) is liable to the United States Government for a civil penalty of not more than $10,000. Each day of a continuing violation is a separate violation. A vessel involved in the violation also is liable in rem for the penalty.
+
+**(c) Criminal penalty** Any person that knowingly violates, or that knowingly aids, abets, authorizes, or instigates a violation of this chapter, shall be fined under title 18, imprisoned for not more than 3 years, or both.
+
+**(d) Payments for information** The court, the Secretary of Transportation, or the Administrator, as the case may be, may pay up to one-half of a fine or penalty to any person giving information leading to the assessment of the fine or penalty.
+
+
+<a id="section-2351a"></a>
+## § 2351a. Study and recommendations
+**(a) Study** The Administrator, in consultation with the Secretary of Transportation, shall conduct a study to determine the need for, and effectiveness of additional tracking systems for vessels to assure that municipal or commercial waste is not deposited in coastal waters. In conducting this study, the Administrator shall use the data collected from its permitting and enforcement activities under this chapter. In determining the effectiveness of tracking systems, the Administrator shall rely on the information provided by the Secretary under subsection (b) of this section. The report shall include a recommendation whether additional tracking systems are needed. This study shall be submitted to Congress within 24 months after November 18, 1988.
+
+**(b) Recommendations** The Secretary shall provide recommendations to the Administrator concerning the various tracking systems that might be applicable to vessels transporting municipal or commercial waste which the Secretary currently is studying. The Secretary shall consider the relative effectiveness of various systems and the relative costs of the systems both to the United States Government and to the vessel owner.
+
+
+<a id="section-2352"></a>
+## § 2352. Relation to other laws
+**(a) Effect on Federal and State laws** This chapter does not affect the application of any other Federal or State law, statutory or common, including the Marine Protection, Research, and Sanctuaries Act of 1972 [[16 U.S.C. 1431](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1431&num=0&edition=prelim) et seq., 1447 et seq.; [33 U.S.C. 1401](./chapter-027-ocean-dumping.md#section-1401) et seq., 2801 et seq.] and the Solid Waste Disposal Act ([42 U.S.C. 6901](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section6901&num=0&edition=prelim) et seq.).
+
+**(b) Effect on foreign vessels** This chapter shall be carried out with respect to foreign vessels consistent with the obligations of the United States under international law.
+
+### Statutory Notes
+
+#### References in Text
+The Marine Protection, Research, and Sanctuaries Act of 1972, referred to in subsec. (a), is Pub. L. 92–532, Oct. 23, 1972, 86 Stat. 1052, as amended, which is classified generally to chapters 27 (§ 1401 et seq.) and 41 (§ 2801 et seq.) of this title and chapters 32 (§ 1431 et seq.) and 32A (§ 1447 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under [section 1401 of this title](./chapter-027-ocean-dumping.md#section-1401) and Tables.
+
+The Solid Waste Disposal Act, referred to in subsec. (a), is title II of Pub. L. 89–272, Oct. 20, 1965, 79 Stat. 997, as amended generally by Pub. L. 94–580, § 2, Oct. 21, 1976, 90 Stat. 2795, which is classified generally to chapter 82 (§ 6901 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 6901 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section6901&num=0&edition=prelim) and Tables.
+
+
+<a id="section-2353"></a>
+## § 2353. Authorization of appropriations
+
+There are authorized to be appropriated $1,500,000 for each of the fiscal years 1989 and 1990, to carry out this chapter.
+
+
+<a id="section-2353a"></a>
+## § 2353a. Definitions
+
+For the purposes of this Act, the term—
+
+(1) “act of God” means an unanticipated grave natural disaster or other natural phenomenon of an exceptional, inevitable, and irresistible character the effects of which could not have been prevented or avoided by the exercise of due care or foresight;
+
+(2) “barrel” means 42 United States gallons at 60 degrees fahrenheit;
+
+(3) “claim” means a request, made in writing for a sum certain, for compensation for damages or removal costs resulting from an incident;
+
+(4) “claimant” means any person or government who presents a claim for compensation under this subchapter;
+
+(5) “damages” means damages specified in [section 2702(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section2702/b&num=0&edition=prelim), and includes the cost of assessing these damages;
+
+(6) “deepwater port” is a facility licensed under the Deepwater Port Act of 1974 ([33 U.S.C. 1501–152](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1501–152&num=0&edition=prelim)4);
+
+(7) “discharge” means any emission (other than natural seepage), intentional or unintentional, and includes, but is not limited to, spilling, leaking, pumping, pouring, emitting, emptying, or dumping;
+
+(8) “exclusive economic zone” means the zone established by Presidential Proclamation Numbered 5030, dated March 10, 1983, including the ocean waters of the areas referred to as “eastern special areas” in Article 3(1) of the Agreement between the United States of America and the Union of Soviet Socialist Republics on the Maritime Boundary, signed June 1, 1990;
+
+(9) “facility” means any structure, group of structures, equipment, or device (other than a vessel) which is used for one or more of the following purposes: exploring for, drilling for, producing, storing, handling, transferring, processing, or transporting oil. This term includes any motor vehicle, rolling stock, or pipeline used for one or more of these purposes;
+
+(10) “foreign offshore unit” means a facility which is located, in whole or in part, in the territorial sea or on the continental shelf of a foreign country and which is or was used for one or more of the following purposes: exploring for, drilling for, producing, storing, handling, transferring, processing, or transporting oil produced from the seabed beneath the foreign country’s territorial sea or from the foreign country’s continental shelf;
+
+(11) “Fund” means the Oil Spill Liability Trust Fund, established by [section 9509 of title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section9509&num=0&edition=prelim);
+
+(12) “gross ton” has the meaning given that term by the Secretary under part J of title 46;
+
+(13) “guarantor” means any person, other than the responsible party, who provides evidence of financial responsibility for a responsible party under this Act;
+
+(14) “incident” means any occurrence or series of occurrences having the same origin, involving one or more vessels, facilities, or any combination thereof, resulting in the discharge or substantial threat of discharge of oil;
+
+(15) “Indian tribe” means any Indian tribe, band, nation, or other organized group or community, but not including any Alaska Native regional or village corporation, which is recognized as eligible for the special programs and services provided by the United States to Indians because of their status as Indians and has governmental authority over lands belonging to or controlled by the tribe;
+
+(16) “lessee” means a person holding a leasehold interest in an oil or gas lease on lands beneath navigable waters (as that term is defined in [section 1301(a) of title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1301/a&num=0&edition=prelim)) or on submerged lands of the Outer Continental Shelf, granted or maintained under applicable State law or the Outer Continental Shelf Lands Act ([43 U.S.C. 1331](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1331&num=0&edition=prelim) et seq.);
+
+(17) “liable” or “liability” shall be construed to be the standard of liability which obtains under [section 1321 of this title](./chapter-026-water-pollution-prevention-and-control.md#section-1321);
+
+(18) “mobile offshore drilling unit” means a vessel (other than a self-elevating lift vessel) capable of use as an offshore facility;
+
+(19) “National Contingency Plan” means the National Contingency Plan prepared and published under [section 1321(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1321/d&num=0&edition=prelim) or revised under section 105 of the Comprehensive Environmental Response, Compensation, and Liability Act ([42 U.S.C. 9605](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section9605&num=0&edition=prelim));
+
+(20) “natural resources” includes land, fish, wildlife, biota, air, water, ground water, drinking water supplies, and other such resources belonging to, managed by, held in trust by, appertaining to, or otherwise controlled by the United States (including the resources of the exclusive economic zone), any State or local government or Indian tribe, or any foreign government;
+
+(21) “navigable waters” means the waters of the United States, including the territorial sea;
+
+(22) “offshore facility” means any facility of any kind located in, on, or under any of the navigable waters of the United States, and any facility of any kind which is subject to the jurisdiction of the United States and is located in, on, or under any other waters, other than a vessel or a public vessel;
+
+(23) “oil” means oil of any kind or in any form, including petroleum, fuel oil, sludge, oil refuse, and oil mixed with wastes other than dredged spoil, but does not include any substance which is specifically listed or designated as a hazardous substance under subparagraphs (A) through (F) of section 101(14) of the Comprehensive Environmental Response, Compensation, and Liability Act ([42 U.S.C. 9601](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section9601&num=0&edition=prelim)) and which is subject to the provisions of that Act [[42 U.S.C. 9601](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section9601&num=0&edition=prelim) et seq.];
+
+(24) “onshore facility” means any facility (including, but not limited to, motor vehicles and rolling stock) of any kind located in, on, or under, any land within the United States other than submerged land;
+
+(25) the term “Outer Continental Shelf facility” means an offshore facility which is located, in whole or in part, on the Outer Continental Shelf and is or was used for one or more of the following purposes: exploring for, drilling for, producing, storing, handling, transferring, processing, or transporting oil produced from the Outer Continental Shelf;
+
+(26) “owner or operator”—
+
+  (A) means—
+
+    (i) in the case of a vessel, any person owning, operating, or chartering by demise, the vessel;
+
+    (ii) in the case of an onshore facility, offshore facility, or foreign offshore unit or other facility located seaward of the exclusive economic zone, any person or entity owning or operating such facility;
+
+    (iii) in the case of any abandoned offshore facility or foreign offshore unit or other facility located seaward of the exclusive economic zone, the person or entity that owned or operated such facility immediately prior to such abandonment;
+
+    (iv) in the case of any facility, title or control of which was conveyed due to bankruptcy, foreclosure, tax delinquency, abandonment, or similar means to a unit of State or local government, any person who owned, operated, or otherwise controlled activities at such facility immediately beforehand;
+
+    (v) notwithstanding subparagraph (B)(i), and in the same manner and to the same extent, both procedurally and substantively, as any nongovernmental entity, including for purposes of liability under [section 2702 of this title](./chapter-040-oil-pollution.md#section-2702), any State or local government that has caused or contributed to a discharge or substantial threat of a discharge of oil from a vessel or facility ownership or control of which was acquired involuntarily through—
+
+      (I) seizure or otherwise in connection with law enforcement activity;
+
+      (II) bankruptcy;
+
+      (III) tax delinquency;
+
+      (IV) abandonment; or
+
+      (V) other circumstances in which the government involuntarily acquires title by virtue of its function as sovereign;
+
+    (vi) notwithstanding subparagraph (B)(ii), a person that is a lender and that holds indicia of ownership primarily to protect a security interest in a vessel or facility if, while the borrower is still in possession of the vessel or facility encumbered by the security interest, the person—
+
+      (I) exercises decision making control over the environmental compliance related to the vessel or facility, such that the person has undertaken responsibility for oil handling or disposal practices related to the vessel or facility; or
+
+      (II) exercises control at a level comparable to that of a manager of the vessel or facility, such that the person has assumed or manifested responsibility—
+
+        (aa) for the overall management of the vessel or facility encompassing day-to-day decision making with respect to environmental compliance; or
+
+        (bb) over all or substantially all of the operational functions (as distinguished from financial or administrative functions) of the vessel or facility other than the function of environmental compliance; and
+
+  (B) does not include—
+
+    (i) A unit of state or local government that acquired ownership or control of a vessel or facility involuntarily through—
+
+      (I) seizure or otherwise in connection with law enforcement activity;
+
+      (II) bankruptcy;
+
+      (III) tax delinquency;
+
+      (IV) abandonment; or
+
+      (V) other circumstances in which the government involuntarily acquires title by virtue of its function as sovereign;
+
+    (ii) a person that is a lender that does not participate in management of a vessel or facility, but holds indicia of ownership primarily to protect the security interest of the person in the vessel or facility; or
+
+    (iii) a person that is a lender that did not participate in management of a vessel or facility prior to foreclosure, notwithstanding that the person—
+
+      (I) forecloses on the vessel or facility; and
+
+      (II) after foreclosure, sells, re-leases (in the case of a lease finance transaction), or liquidates the vessel or facility, maintains business activities, winds up operations, undertakes a removal action under [section 1321(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1321/c&num=0&edition=prelim) or under the direction of an on-scene coordinator appointed under the National Contingency Plan, with respect to the vessel or facility, or takes any other measure to preserve, protect, or prepare the vessel or facility prior to sale or disposition,
+    if the person seeks to sell, re-lease (in the case of a lease finance transaction), or otherwise divest the person of the vessel or facility at the earliest practicable, commercially reasonable time, on commercially reasonable terms, taking into account market conditions and legal and regulatory requirements;
+
+(27) “person” means an individual, corporation, partnership, association, State, municipality, commission, or political subdivision of a State, or any interstate body;
+
+(28) “permittee” means a person holding an authorization, license, or permit for geological exploration issued under section 11 of the Outer Continental Shelf Lands Act ([43 U.S.C. 1340](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1340&num=0&edition=prelim)) or applicable State law;
+
+(29) “public vessel” means a vessel owned or bareboat chartered and operated by the United States, or by a State or political subdivision thereof, or by a foreign nation, except when the vessel is engaged in commerce;
+
+(30) “remove” or “removal” means containment and removal of oil or a hazardous substance from water and shorelines or the taking of other actions as may be necessary to minimize or mitigate damage to the public health or welfare, including, but not limited to, fish, shellfish, wildlife, and public and private property, shorelines, and beaches;
+
+(31) “removal costs” means the costs of removal that are incurred after a discharge of oil has occurred or, in any case in which there is a substantial threat of a discharge of oil, the costs to prevent, minimize, or mitigate oil pollution from such an incident;
+
+(32) “responsible party” means the following:
+
+  (A) *Vessels.—* — In the case of a vessel, any person owning, operating, or demise chartering the vessel. In the case of a vessel, the term “responsible party” also includes the owner of oil being transported in a tank vessel with a single hull after December 31, 2010.
+
+  (B) *Onshore facilities.—* — In the case of an onshore facility (other than a pipeline), any person owning or operating the facility, except a Federal agency, State, municipality, commission, or political subdivision of a State, or any interstate body, that as the owner transfers possession and right to use the property to another person by lease, assignment, or permit.
+
+  (C) *Offshore facilities.—* — In the case of an offshore facility (other than a pipeline or a deepwater port licensed under the Deepwater Port Act of 1974 ([33 U.S.C. 1501](./chapter-029-deepwater-ports.md#section-1501) et seq.)), the lessee or permittee of the area in which the facility is located or the holder of a right of use and easement granted under applicable State law or the Outer Continental Shelf Lands Act ([43 U.S.C. 1301–135](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1301–135&num=0&edition=prelim)6) for the area in which the facility is located (if the holder is a different person than the lessee or permittee), except a Federal agency, State, municipality, commission, or political subdivision of a State, or any interstate body, that as owner transfers possession and right to use the property to another person by lease, assignment, or permit.
+
+  (D) *Foreign facilities.—* — In the case of a foreign offshore unit or other facility located seaward of the exclusive economic zone, any person or other entity owning or operating the facility, and any leaseholder, permit holder, assignee, or holder of a right of use and easement granted under applicable foreign law for the area in which the facility is located.
+
+  (E) *Deepwater ports.—* — In the case of a deepwater port licensed under the Deepwater Port Act of 1974 ([33 U.S.C. 1501–152](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1501–152&num=0&edition=prelim)4), the licensee.
+
+  (F) *Pipelines.—* — In the case of a pipeline, any person owning or operating the pipeline.
+
+  (G) *Abandonment.—* — In the case of an abandoned vessel, onshore facility, deepwater port, pipeline,,11 So in original. Second comma probably should not appear. offshore facility, or foreign offshore unit or other facility located seaward of the exclusive economic zone, the persons or entities that would have been responsible parties immediately prior to the abandonment of the vessel or facility.
+
+(33) “Secretary” means the Secretary of the department in which the Coast Guard is operating;
+
+(34) “tank vessel” means a vessel that is constructed or adapted to carry, or that carries, oil or hazardous material in bulk as cargo or cargo residue, and that—
+
+  (A) is a vessel of the United States;
+
+  (B) operates on the navigable waters; or
+
+  (C) transfers oil or hazardous material in a place subject to the jurisdiction of the United States;
+
+(35) “territorial seas” means the belt of the seas measured from the line of ordinary low water along that portion of the coast which is in direct contact with the open sea and the line marking the seaward limit of inland waters, and extending seaward a distance of 3 miles;
+
+(36) “United States” and “State” mean the several States of the United States, the District of Columbia, the Commonwealth of Puerto Rico, Guam, American Samoa, the United States Virgin Islands, the Commonwealth of the Northern Marianas, and any other territory or possession of the United States;
+
+(37) “vessel” means every description of watercraft or other artificial contrivance used, or capable of being used, as a means of transportation on water, other than a public vessel;
+
+(38) “participate in management”—
+
+  (A)
+
+    (i) means actually participating in the management or operational affairs of a vessel or facility; and
+
+    (ii) does not include merely having the capacity to influence, or the unexercised right to control, vessel or facility operations; and
+
+  (B) does not include—
+
+    (i) performing an act or failing to act prior to the time at which a security interest is created in a vessel or facility;
+
+    (ii) holding a security interest or abandoning or releasing a security interest;
+
+    (iii) including in the terms of an extension of credit, or in a contract or security agreement relating to the extension, a covenant, warranty, or other term or condition that relates to environmental compliance;
+
+    (iv) monitoring or enforcing the terms and conditions of the extension of credit or security interest;
+
+    (v) monitoring or undertaking one or more inspections of the vessel or facility;
+
+    (vi) requiring a removal action or other lawful means of addressing a discharge or substantial threat of a discharge of oil in connection with the vessel or facility prior to, during, or on the expiration of the term of the extension of credit;
+
+    (vii) providing financial or other advice or counseling in an effort to mitigate, prevent, or cure default or diminution in the value of the vessel or facility;
+
+    (viii) restructuring, renegotiating, or otherwise agreeing to alter the terms and conditions of the extension of credit or security interest, exercising forbearance;
+
+    (ix) exercising other remedies that may be available under applicable law for the breach of a term or condition of the extension of credit or security agreement; or
+
+    (x) conducting a removal action under [section 1321(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1321/c&num=0&edition=prelim) or under the direction of an on-scene coordinator appointed under the National Contingency Plan,
+    if such actions do not rise to the level of participating in management under subparagraph (A) of this paragraph and paragraph (26)(A)(vi);
+
+(39) “extension of credit” has the meaning provided in section 101(20)(G)(i) of the Comprehensive Environmental Response, Compensation and Liability Act of 1980 ([42 U.S.C. 9601(20)(G)(i)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section9601/20/G/i&num=0&edition=prelim));
+
+(40) “financial or administrative function” has the meaning provided in section 101(20)(G)(ii) of the Comprehensive Environmental Response, Compensation and Liability Act of 1980 ([42 U.S.C. 9601(20)(G)(ii)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section9601/20/G/ii&num=0&edition=prelim));
+
+(41) “foreclosure” and “foreclose” each has the meaning provided in section 101(20)(G)(iii) of the Comprehensive Environmental Response, Compensation and Liability Act of 1980 ([42 U.S.C. 9601(20)(G)(iii)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section9601/20/G/iii&num=0&edition=prelim));
+
+(42) “lender” has the meaning provided in section 101(20)(G)(iv) of the Comprehensive Environmental Response, Compensation and Liability Act of 1980 ([42 U.S.C. 9601(20)(G)(iv)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section9601/20/G/iv&num=0&edition=prelim));
+
+(43) “operational function” has the meaning provided in section 101(20)(G)(v) of the Comprehensive Environmental Response, Compensation and Liability Act of 1980 ([42 U.S.C. 9601(20)(G)(v)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section9601/20/G/v&num=0&edition=prelim)); and
+
+(44) “security interest” has the meaning provided in section 101(20)(G)(vi) of the Comprehensive Environmental Response, Compensation and Liability Act of 1980 ([42 U.S.C. 9601(20)(G)(vi)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section9601/20/G/vi&num=0&edition=prelim)).
+
+### Statutory Notes
+
+#### References in Text
+This Act, referred to in text, is Pub. L. 101–380, Aug. 18, 1990, 104 Stat. 484, as amended, known as the Oil Pollution Act of 1990, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out below and Tables.
+
+The Deepwater Port Act of 1974, referred to in pars. (6) and (32)(C), (D), is Pub. L. 93–627, Jan. 3, 1975, 88 Stat. 2126, as amended, which is classified generally to chapter 29 (§ 1501 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1501 of this title](./chapter-029-deepwater-ports.md#section-1501) and Tables.
+
+Presidential Proclamation Numbered 5030, referred to in par. (8), is Proc. No. 5030, Mar. 10, 1983, 48 F.R. 10605, which is set out as a note under [section 1453 of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1453&num=0&edition=prelim), Conservation.
+
+The Outer Continental Shelf Lands Act, referred to in pars. (16) and (32)(C), is act Aug. 7, 1953, ch. 345, 67 Stat. 462, as amended, which is classified generally to subchapter III (§ 1331 et seq.) of chapter 29 of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under [section 1301 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1301&num=0&edition=prelim) and Tables.
+
+The Comprehensive Environmental Response, Compensation, and Liability Act, referred to in par. (23), probably means the Comprehensive Environmental Response, Compensation, and Liability Act of 1980, Pub. L. 96–510, Dec. 11, 1980, 94 Stat. 2767, as amended, which is classified principally to chapter 103 (§ 9601 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 9601 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section9601&num=0&edition=prelim) and Tables.
+
+#### Amendments
+2018—Par. (32)(A). Pub. L. 115–232 struck out “(other than a vessel described in [section 3703a(b)(3) of title 46](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section3703a/b/3&num=0&edition=prelim))” before period at end.
+
+2017—Par. (26)(A)(ii). Pub. L. 115–91, § 3508(b)(1)(A)(i)(I), substituted “onshore facility, offshore facility, or foreign offshore unit or other facility located seaward of the exclusive economic zone, any person or entity” for “onshore or offshore facility, any person”.
+
+Par. (26)(A)(iii). Pub. L. 115–91, § 3508(b)(1)(A)(i)(II), substituted “offshore facility or foreign offshore unit or other facility located seaward of the exclusive economic zone, the person or entity that” for “offshore facility, the person who”.
+
+Par. (32)(D) to (G). Pub. L. 115–91, § 3508(b)(1)(A)(ii), added subpar. (D), redesignated former subpars. (D) to (F) as (E) to (G), respectively, and in subpar. (G) substituted “, offshore facility, or foreign offshore unit or other facility located seaward of the exclusive economic zone, the persons or entities that” for “or offshore facility, the persons who”.
+
+2010—Par. (32)(A). Pub. L. 111–281 inserted “In the case of a vessel, the term ‘responsible party’ also includes the owner of oil being transported in a tank vessel with a single hull after December 31, 2010 (other than a vessel described in [section 3703a(b)(3) of title 46](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section3703a/b/3&num=0&edition=prelim)).” after “chartering the vessel.”
+
+2004—Par. (26). Pub. L. 108–293, § 703(a), amended par. (26) generally. Prior to amendment, par. (26) read as follows: “ ‘owner or operator’ means (A) in the case of a vessel, any person owning, operating, or chartering by demise, the vessel, and (B) in the case of an onshore facility, and an offshore facility, any person owning or operating such onshore facility or offshore facility, and (C) in the case of any abandoned offshore facility, the person who owned or operated such facility immediately prior to such abandonment;”.
+
+Pars. (38) to (44). Pub. L. 108–293, § 703(b), added pars. (38) to (44).
+
+1998—Par. (23). Pub. L. 105–383 amended par. (23) generally. Prior to amendment, par. (23) read as follows: “ ‘oil’ means oil of any kind or in any form, including, but not limited to, petroleum, fuel oil, sludge, oil refuse, and oil mixed with wastes other than dredged spoil, but does not include petroleum, including crude oil or any fraction thereof, which is specifically listed or designated as a hazardous substance under subparagraphs (A) through (F) of section 101(14) of the Comprehensive Environmental Response, Compensation, and Liability Act ([42 U.S.C. 9601](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section9601&num=0&edition=prelim)) and which is subject to the provisions of that Act;”.
+
+#### Effective Date
+Pub. L. 101–380, title I, § 1020, Aug. 18, 1990, 104 Stat. 506, provided that: “This Act [see Short Title of 1990 Amendments note below for classification] shall apply to an incident occurring after the date of the enactment of this Act [Aug. 18, 1990].”
+
+#### Short Title of 2006 Amendment
+Pub. L. 109–241, title VI, § 601, July 11, 2006, 120 Stat. 553, provided that: “This title [enacting sections 1232b and 2762 of this title, amending sections 1321, 2704, and 2761 of this title, and enacting provisions set out as notes under [section 2704 of this title](./chapter-040-oil-pollution.md#section-2704)] may be cited as the ‘Delaware River Protection Act of 2006’.”
+
+#### Short Title of 1995 Amendment
+Pub. L. 104–55, § 1, Nov. 20, 1995, 109 Stat. 546, provided that: “This Act [enacting [section 2720 of this title](./chapter-040-oil-pollution.md#section-2720) and amending sections 2704 and 2716 of this title] may be cited as the ‘Edible Oil Regulatory Reform Act’.”
+
+#### Short Title of 1990 Amendments
+Pub. L. 101–537, title II, § 2001, Nov. 8, 1990, 104 Stat. 2375, and Pub. L. 101–646, title IV, § 4001, Nov. 29, 1990, 104 Stat. 4788, as amended by Pub. L. 104–332, § 2(h)(1), Oct. 26, 1996, 110 Stat. 4091, provided that: “This title [amending [section 2761 of this title](./chapter-040-oil-pollution.md#section-2761)] may be cited as the ‘Great Lakes Oil Pollution Research and Development Act’.”
+
+#### Short Title
+Pub. L. 101–380, § 1, Aug. 18, 1990, 104 Stat. 484, provided that: “This Act [enacting this chapter, sections 1642 and 1656 of Title 43, Public Lands, sections 3703a and 7505 of Title 46, Shipping, and section 1274a of the Appendix to Title 46, amending sections 1223, 1228, 1232, 1236, 1319, 1321, 1481, 1486, 1503, 1514, and 1908 of this title, [section 3145 of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section3145&num=0&edition=prelim), Conservation, sections 4612 and 9509 of Title 26, Internal Revenue Code, sections 1334, 1350, and 1653 of Title 43, sections 2101, 2302, 3318, 3715, 3718, 5116, 6101, 7101, 7106, 7107, 7109, 7302, 7502, 7503, 7701 to 7703, 8101, 8104, 8502, 8503, 8702, 9101, 9102, 9302, 9308, and 12106 of Title 46, and section 1274 of the Appendix to Title 46, repealing [section 1517 of this title](./chapter-029-deepwater-ports.md#section-1517) and sections 1811 and 1812 to 1824 of Title 43, enacting provisions set out as notes under this section, sections 1203, 1223, and 1321, of this title, [section 92 of Title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section92&num=0&edition=prelim), Coast Guard, [section 9509 of Title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section9509&num=0&edition=prelim), sections 1334, 1651, and 1653 of Title 43, sections 3703, 3703a, and 7106 of Title 46, and section 1295 of the Appendix to Title 46, amending provisions set out as a note under [section 401 of Title 23](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title23-section401&num=0&edition=prelim), Highways, and repealing provisions set out as a note under [section 1811 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1811&num=0&edition=prelim)] may be cited as the ‘Oil Pollution Act of 1990’.”
+
+#### Transfer of Functions
+For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).
+
+
+<a id="section-2354"></a>
+## § 2354. Elements of liability
+**(a) In general** Notwithstanding any other provision or rule of law, and subject to the provisions of this Act, each responsible party for a vessel or a facility from which oil is discharged, or which poses the substantial threat of a discharge of oil, into or upon the navigable waters or adjoining shorelines or the exclusive economic zone is liable for the removal costs and damages specified in subsection (b) that result from such incident.
+
+**(b) Covered removal costs and damages**
+
+(1) **Removal costs** — The removal costs referred to in subsection (a) are—
+
+  (A) all removal costs incurred by the United States, a State, or an Indian tribe under subsection (c), (d), (e), or (l) of [section 1321 of this title](./chapter-026-water-pollution-prevention-and-control.md#section-1321), under the Intervention on the High Seas Act ([33 U.S.C. 1471](./chapter-028-pollution-casualties-on-the-high-seas-united-states-intervention.md#section-1471) et seq.), or under State law; and
+
+  (B) any removal costs incurred by any person for acts taken by the person which are consistent with the National Contingency Plan.
+
+(2) **Damages** — The damages referred to in subsection (a) are the following:
+
+  (A) *Natural resources* — Damages for injury to, destruction of, loss of, or loss of use of, natural resources, including the reasonable costs of assessing the damage, which shall be recoverable by a United States trustee, a State trustee, an Indian tribe trustee, or a foreign trustee.
+
+  (B) *Real or personal property* — Damages for injury to, or economic losses resulting from destruction of, real or personal property, which shall be recoverable by a claimant who owns or leases that property.
+
+  (C) *Subsistence use* — Damages for loss of subsistence use of natural resources, which shall be recoverable by any claimant who so uses natural resources which have been injured, destroyed, or lost, without regard to the ownership or management of the resources.
+
+  (D) *Revenues* — Damages equal to the net loss of taxes, royalties, rents, fees, or net profit shares due to the injury, destruction, or loss of real property, personal property, or natural resources, which shall be recoverable by the Government of the United States, a State, or a political subdivision thereof.
+
+  (E) *Profits and earning capacity* — Damages equal to the loss of profits or impairment of earning capacity due to the injury, destruction, or loss of real property, personal property, or natural resources, which shall be recoverable by any claimant.
+
+  (F) *Public services* — Damages for net costs of providing increased or additional public services during or after removal activities, including protection from fire, safety, or health hazards, caused by a discharge of oil, which shall be recoverable by a State, or a political subdivision of a State.
+
+**(c) Excluded discharges** This subchapter does not apply to any discharge—
+
+(1) permitted by a permit issued under Federal, State, or local law;
+
+(2) from a public vessel; or
+
+(3) from an onshore facility which is subject to the Trans-Alaska Pipeline Authorization Act ([43 U.S.C. 1651](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1651&num=0&edition=prelim) et seq.).
+
+**(d) Liability of third parties**
+
+(1) **In general**
+
+  (A) *Third party treated as responsible party* — Except as provided in subparagraph (B), in any case in which a responsible party establishes that a discharge or threat of a discharge and the resulting removal costs and damages were caused solely by an act or omission of one or more third parties described in [section 2703(a)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section2703/a/3&num=0&edition=prelim) (or solely by such an act or omission in combination with an act of God or an act of war), the third party or parties shall be treated as the responsible party or parties for purposes of determining liability under this subchapter.
+
+  (B) *Subrogation of responsible party* — If the responsible party alleges that the discharge or threat of a discharge was caused solely by an act or omission of a third party, the responsible party—
+
+    (i) in accordance with [section 2713 of this title](./chapter-040-oil-pollution.md#section-2713), shall pay removal costs and damages to any claimant; and
+
+    (ii) shall be entitled by subrogation to all rights of the United States Government and the claimant to recover removal costs or damages from the third party or the Fund paid under this subsection.
+
+(2) **Limitation applied**
+
+  (A) *Owner or operator of vessel or facility* — If the act or omission of a third party that causes an incident occurs in connection with a vessel or facility owned or operated by the third party, the liability of the third party shall be subject to the limits provided in [section 2704 of this title](./chapter-040-oil-pollution.md#section-2704) as applied with respect to the vessel or facility.
+
+  (B) *Other cases* — In any other case, the liability of a third party or parties shall not exceed the limitation which would have been applicable to the responsible party of the vessel or facility from which the discharge actually occurred if the responsible party were liable.
+
+### Statutory Notes
+
+#### References in Text
+This Act, referred to in subsec. (a), is Pub. L. 101–380, Aug. 18, 1990, 104 Stat. 484, as amended, known as the Oil Pollution Act of 1990, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 2701 of this title](./chapter-040-oil-pollution.md#section-2701) and Tables.
+
+The Intervention on the High Seas Act, referred to in subsec. (b)(1)(A), is Pub. L. 93–248, Feb. 5, 1974, 88 Stat. 8, as amended, which is classified generally to chapter 28 (§ 1471 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1471 of this title](./chapter-028-pollution-casualties-on-the-high-seas-united-states-intervention.md#section-1471) and Tables.
+
+The Trans-Alaska Pipeline Authorization Act, referred to in subsec. (c)(3), is title II of Pub. L. 93–153, Nov. 16, 1973, 87 Stat. 584, which is classified generally to chapter 34 (§ 1651 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under [section 1651 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1651&num=0&edition=prelim) and Tables.
+
+
+<a id="section-2355"></a>
+## § 2355. Defenses to liability
+**(a) Complete defenses** A responsible party is not liable for removal costs or damages under [section 2702 of this title](./chapter-040-oil-pollution.md#section-2702) if the responsible party establishes, by a preponderance of the evidence, that the discharge or substantial threat of a discharge of oil and the resulting damages or removal costs were caused solely by—
+
+(1) an act of God;
+
+(2) an act of war;
+
+(3) an act or omission of a third party, other than an employee or agent of the responsible party or a third party whose act or omission occurs in connection with any contractual relationship with the responsible party (except where the sole contractual arrangement arises in connection with carriage by a common carrier by rail), if the responsible party establishes, by a preponderance of the evidence, that the responsible party—
+
+  (A) exercised due care with respect to the oil concerned, taking into consideration the characteristics of the oil and in light of all relevant facts and circumstances; and
+
+  (B) took precautions against foreseeable acts or omissions of any such third party and the foreseeable consequences of those acts or omissions; or
+
+(4) any combination of paragraphs (1), (2), and (3).
+
+**(b) Defenses as to particular claimants** A responsible party is not liable under [section 2702 of this title](./chapter-040-oil-pollution.md#section-2702) to a claimant, to the extent that the incident is caused by the gross negligence or willful misconduct of the claimant.
+
+**(c) Limitation on complete defense** Subsection (a) does not apply with respect to a responsible party who fails or refuses—
+
+(1) to report the incident as required by law if the responsible party knows or has reason to know of the incident;
+
+(2) to provide all reasonable cooperation and assistance requested by a responsible official in connection with removal activities; or
+
+(3) without sufficient cause, to comply with an order issued under subsection (c) or (e) of [section 1321 of this title](./chapter-026-water-pollution-prevention-and-control.md#section-1321) or the Intervention on the High Seas Act ([33 U.S.C. 1471](./chapter-028-pollution-casualties-on-the-high-seas-united-states-intervention.md#section-1471) et seq.).
+
+**(d) Definition of contractual relationship**
+
+(1) **In general** — For purposes of subsection (a)(3) the term “contractual relationship” includes, but is not limited to, land contracts, deeds, easements, leases, or other instruments transferring title or possession, unless—
+
+  (A) the real property on which the facility concerned is located was acquired by the responsible party after the placement of the oil on, in, or at the real property on which the facility concerned is located;
+
+  (B) one or more of the circumstances described in subparagraph (A), (B), or (C) of paragraph (2) is established by the responsible party by a preponderance of the evidence; and
+
+  (C) the responsible party complies with paragraph (3).
+
+(2) **Required circumstance** — The circumstances referred to in paragraph (1)(B) are the following:
+
+  (A) At the time the responsible party acquired the real property on which the facility is located the responsible party did not know and had no reason to know that oil that is the subject of the discharge or substantial threat of discharge was located on, in, or at the facility.
+
+  (B) The responsible party is a government entity that acquired the facility—
+
+    (i) by escheat;
+
+    (ii) through any other involuntary transfer or acquisition; or
+
+    (iii) through the exercise of eminent domain authority by purchase or condemnation.
+
+  (C) The responsible party acquired the facility by inheritance or bequest.
+
+(3) **Additional requirements** — For purposes of paragraph (1)(C), the responsible party must establish by a preponderance of the evidence that the responsible party—
+
+  (A) has satisfied the requirements of subsection (a)(3)(A) and (B);
+
+  (B) has provided full cooperation, assistance, and facility access to the persons that are authorized to conduct removal actions, including the cooperation and access necessary for the installation, integrity, operation, and maintenance of any complete or partial removal action;
+
+  (C) is in compliance with any land use restrictions established or relied on in connection with the removal action; and
+
+  (D) has not impeded the effectiveness or integrity of any institutional control employed in connection with the removal action.
+
+(4) **Reason to know**
+
+  (A) *Appropriate inquiries* — To establish that the responsible party had no reason to know of the matter described in paragraph (2)(A), the responsible party must demonstrate to a court that—
+
+    (i) on or before the date on which the responsible party acquired the real property on which the facility is located, the responsible party carried out all appropriate inquiries, as provided in subparagraphs (B) and (D), into the previous ownership and uses of the real property on which the facility is located in accordance with generally accepted good commercial and customary standards and practices; and
+
+    (ii) the responsible party took reasonable steps to—
+
+      (I) stop any continuing discharge;
+
+      (II) prevent any substantial threat of discharge; and
+
+      (III) prevent or limit any human, environmental, or natural resource exposure to any previously discharged oil.
+
+  (B) *Regulations establishing standards and practices* — Not later than 2 years after August 9, 2004, the Secretary, in consultation with the Administrator of the Environmental Protection Agency, shall by regulation establish standards and practices for the purpose of satisfying the requirement to carry out all appropriate inquiries under subparagraph (A).
+
+  (C) *Criteria* — In promulgating regulations that establish the standards and practices referred to in subparagraph (B), the Secretary shall include in such standards and practices provisions regarding each of the following:
+
+    (i) The results of an inquiry by an environmental professional.
+
+    (ii) Interviews with past and present owners, operators, and occupants of the facility and the real property on which the facility is located for the purpose of gathering information regarding the potential for oil at the facility and on the real property on which the facility is located.
+
+    (iii) Reviews of historical sources, such as chain of title documents, aerial photographs, building department records, and land use records, to determine previous uses and occupancies of the real property on which the facility is located since the property was first developed.
+
+    (iv) Searches for recorded environmental cleanup liens against the facility and the real property on which the facility is located that are filed under Federal, State, or local law.
+
+    (v) Reviews of Federal, State, and local government records, waste disposal records, underground storage tank records, and waste handling, generation, treatment, disposal, and spill records, concerning oil at or near the facility and on the real property on which the facility is located.
+
+    (vi) Visual inspections of the facility, the real property on which the facility is located, and adjoining properties.
+
+    (vii) Specialized knowledge or experience on the part of the responsible party.
+
+    (viii) The relationship of the purchase price to the value of the facility and the real property on which the facility is located, if oil was not at the facility or on the real property.
+
+    (ix) Commonly known or reasonably ascertainable information about the facility and the real property on which the facility is located.
+
+    (x) The degree of obviousness of the presence or likely presence of oil at the facility and on the real property on which the facility is located, and the ability to detect the oil by appropriate investigation.
+
+  (D) *Interim standards and practices*
+
+    (i) *Real property purchased before May 31, 1997* — With respect to real property purchased before May 31, 1997, in making a determination with respect to a responsible party described in subparagraph (A), a court shall take into account—
+
+      (I) any specialized knowledge or experience on the part of the responsible party;
+
+      (II) the relationship of the purchase price to the value of the facility and the real property on which the facility is located, if the oil was not at the facility or on the real property;
+
+      (III) commonly known or reasonably ascertainable information about the facility and the real property on which the facility is located;
+
+      (IV) the obviousness of the presence or likely presence of oil at the facility and on the real property on which the facility is located; and
+
+      (V) the ability of the responsible party to detect oil by appropriate inspection.
+
+    (ii) *Real property purchased on or after May 31, 1997* — With respect to real property purchased on or after May 31, 1997, until the Secretary promulgates the regulations described in clause (ii), the procedures of the American Society for Testing and Materials, including the document known as “Standard E1527–97”, entitled “Standard Practice for Environmental Site Assessment: Phase I Environmental Site Assessment Process”, shall satisfy the requirements in subparagraph (A).
+
+  (E) *Site inspection and title search* — In the case of real property for residential use or other similar use purchased by a nongovernmental or noncommercial entity, inspection and title search of the facility and the real property on which the facility is located that reveal no basis for further investigation shall be considered to satisfy the requirements of this paragraph.
+
+(5) **Previous owner or operator** — Nothing in this paragraph or in subsection (a)(3) shall diminish the liability of any previous owner or operator of such facility who would otherwise be liable under this Act. Notwithstanding this paragraph, if a responsible party obtained actual knowledge of the discharge or substantial threat of discharge of oil at such facility when the responsible party owned the facility and then subsequently transferred ownership of the facility or the real property on which the facility is located to another person without disclosing such knowledge, the responsible party shall be treated as liable under [section 2702(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section2702/a&num=0&edition=prelim) and no defense under subsection (a) shall be available to such responsible party.
+
+(6) **Limitation on defense** — Nothing in this paragraph shall affect the liability under this Act of a responsible party who, by any act or omission, caused or contributed to the discharge or substantial threat of discharge of oil which is the subject of the action relating to the facility.
+
+### Statutory Notes
+
+#### References in Text
+The Intervention on the High Seas Act, referred to in subsec. (c)(3), is Pub. L. 93–248, Feb. 5, 1974, 88 Stat. 8, as amended, which is classified generally to chapter 28 (§ 1471 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1471 of this title](./chapter-028-pollution-casualties-on-the-high-seas-united-states-intervention.md#section-1471) and Tables.
+
+This Act, referred to in subsec. (d)(5), (6), is Pub. L. 101–380, Aug. 18, 1990, 104 Stat. 484, as amended, known as the Oil Pollution Act of 1990, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 2701 of this title](./chapter-040-oil-pollution.md#section-2701) and Tables.
+
+#### Amendments
+2018—Subsec. (d)(5). Pub. L. 115–232 inserted “section” before “2702(a)”.
+
+2004—Subsec. (d). Pub. L. 108–293 added subsec. (d).
+
+
+<a id="section-2356"></a>
+## § 2356. Limits on liability
+**(a) General rule** Except as otherwise provided in this section, the total of the liability of a responsible party under [section 2702 of this title](./chapter-040-oil-pollution.md#section-2702) and any removal costs incurred by, or on behalf of, the responsible party, with respect to each incident shall not exceed—
+
+(1) for a tank vessel the greater of—
+
+  (A) with respect to a single-hull vessel, including a single-hull vessel fitted with double sides only or a double bottom only, $3,000 per gross ton;
+
+  (B) with respect to a vessel other than a vessel referred to in subparagraph (A), $1,900 per gross ton; or
+
+  (C)
+
+    (i) with respect to a vessel greater than 3,000 gross tons that is—
+
+      (I) a vessel described in subparagraph (A), $22,000,000; or
+
+      (II) a vessel described in subparagraph (B), $16,000,000; or
+
+    (ii) with respect to a vessel of 3,000 gross tons or less that is—
+
+      (I) a vessel described in subparagraph (A), $6,000,000; or
+
+      (II) a vessel described in subparagraph (B), $4,000,000;
+
+(2) for any other vessel, $950 per gross ton or $800,000, whichever is greater;
+
+(3) for an offshore facility except a deepwater port, the total of all removal costs plus $75,000,000; and
+
+(4) for any onshore facility and a deepwater port, $350,000,000.
+
+**(b) Division of liability for mobile offshore drilling units**
+
+(1) **Treated first as tank vessel** — For purposes of determining the responsible party and applying this Act and except as provided in paragraph (2), a mobile offshore drilling unit which is being used as an offshore facility is deemed to be a tank vessel with respect to the discharge, or the substantial threat of a discharge, of oil on or above the surface of the water.
+
+(2) **Treated as facility for excess liability** — To the extent that removal costs and damages from any incident described in paragraph (1) exceed the amount for which a responsible party is liable (as that amount may be limited under subsection (a)(1)), the mobile offshore drilling unit is deemed to be an offshore facility. For purposes of applying subsection (a)(3), the amount specified in that subsection shall be reduced by the amount for which the responsible party is liable under paragraph (1).
+
+**(c) Exceptions**
+
+(1) **Acts of responsible party** — Subsection (a) does not apply if the incident was proximately caused by—
+
+  (A) gross negligence or willful misconduct of, or
+
+  (B) the violation of an applicable Federal safety, construction, or operating regulation by,
+  the responsible party, an agent or employee of the responsible party, or a person acting pursuant to a contractual relationship with the responsible party (except where the sole contractual arrangement arises in connection with carriage by a common carrier by rail).
+
+(2) **Failure or refusal of responsible party** — Subsection (a) does not apply if the responsible party fails or refuses—
+
+  (A) to report the incident as required by law and the responsible party knows or has reason to know of the incident;
+
+  (B) to provide all reasonable cooperation and assistance requested by a responsible official in connection with removal activities; or
+
+  (C) without sufficient cause, to comply with an order issued under subsection (c) or (e) of [section 1321 of this title](./chapter-026-water-pollution-prevention-and-control.md#section-1321) or the Intervention on the High Seas Act ([33 U.S.C. 1471](./chapter-028-pollution-casualties-on-the-high-seas-united-states-intervention.md#section-1471) et seq.).
+
+(3) **OCS facility or vessel** — Notwithstanding the limitations established under subsection (a) and the defenses of [section 2703 of this title](./chapter-040-oil-pollution.md#section-2703), all removal costs incurred by the United States Government or any State or local official or agency in connection with a discharge or substantial threat of a discharge of oil from any Outer Continental Shelf facility or a vessel carrying oil as cargo from such a facility shall be borne by the owner or operator of such facility or vessel.
+
+(4) **Certain tank vessels** — Subsection (a)(1) shall not apply to—
+
+  (A) a tank vessel on which the only oil carried as cargo is an animal fat or vegetable oil, as those terms are used in [section 2720 of this title](./chapter-040-oil-pollution.md#section-2720); and
+
+  (B) a tank vessel that is designated in its certificate of inspection as an oil spill response vessel (as that term is defined in [section 2101 of title 46](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section2101&num=0&edition=prelim)) and that is used solely for removal.
+
+**(d) Adjusting limits of liability**
+
+(1) **Onshore facilities** — Subject to paragraph (2), the President may establish by regulation, with respect to any class or category of onshore facility, a limit of liability under this section of less than $350,000,000, but not less than $8,000,000, taking into account size, storage capacity, oil throughput, proximity to sensitive areas, type of oil handled, history of discharges, and other factors relevant to risks posed by the class or category of facility.
+
+(2) **Deepwater ports and associated vessels**
+
+  (A) *Study* — The Secretary shall conduct a study of the relative operational and environmental risks posed by the transportation of oil by vessel to deepwater ports (as defined in [section 1502 of this title](./chapter-029-deepwater-ports.md#section-1502)) versus the transportation of oil by vessel to other ports. The study shall include a review and analysis of offshore lightering practices used in connection with that transportation, an analysis of the volume of oil transported by vessel using those practices, and an analysis of the frequency and volume of oil discharges which occur in connection with the use of those practices.
+
+  (B) *Report* — Not later than 1 year after August 18, 1990, the Secretary shall submit to the Congress a report on the results of the study conducted under subparagraph (A).
+
+  (C) *Rulemaking proceeding* — If the Secretary determines, based on the results of the study conducted under subparagraph (A), that the use of deepwater ports in connection with the transportation of oil by vessel results in a lower operational or environmental risk than the use of other ports, the Secretary shall initiate, not later than the 180th day following the date of submission of the report to the Congress under subparagraph (B), a rulemaking proceeding to lower the limits of liability under this section for deepwater ports as the Secretary determines appropriate. The Secretary may establish a limit of liability of less than $350,000,000, but not less than $50,000,000, in accordance with paragraph (1).
+
+(3) **Periodic reports** — The President shall, within 6 months after August 18, 1990, and from time to time thereafter, report to the Congress on the desirability of adjusting the limits of liability specified in subsection (a).
+
+(4) **Adjustment to reflect Consumer Price Index** — The President, by regulations issued not later than 3 years after July 11, 2006, and not less than every 3 years thereafter, shall adjust the limits on liability specified in subsection (a) to reflect significant increases in the Consumer Price Index.
+
+### Statutory Notes
+
+#### References in Text
+This Act, referred to in subsec. (b)(1), is Pub. L. 101–380, Aug. 18, 1990, 104 Stat. 484, as amended, known as the Oil Pollution Act of 1990, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 2701 of this title](./chapter-040-oil-pollution.md#section-2701) and Tables.
+
+The Intervention on the High Seas Act, referred to in subsec. (c)(2)(C), is Pub. L. 93–248, Feb. 5, 1974, 88 Stat. 8, as amended, which is classified generally to chapter 28 (§ 1471 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1471 of this title](./chapter-028-pollution-casualties-on-the-high-seas-united-states-intervention.md#section-1471) and Tables.
+
+#### Amendments
+2018—Subsec. (d)(2)(C). Pub. L. 115–232 substituted “under subparagraph (A)” for “under this subparagraph (A)”.
+
+2010—Subsec. (a)(2). Pub. L. 111–281, § 903(e)(1), struck out first comma after “$800,000”.
+
+Pub. L. 111–281, § 903(a)(2), made technical amendment to directory language of Pub. L. 109–241, § 603(a)(2). See 2006 Amendment note below.
+
+2006—Subsec. (a)(1)(A) to (C). Pub. L. 109–241, § 603(a)(1), added subpars. (A) to (C) and struck out former subpars. (A) and (B), which read as follows:
+
+“(A) $1,200 per gross ton; or
+
+“(B)(i) in the case of a vessel greater than 3,000 gross tons, $10,000,000; or
+
+“(ii) in the case of a vessel of 3,000 gross tons or less, $2,000,000;”.
+
+Subsec. (a)(2). Pub. L. 109–241, § 603(a)(2), as amended by Pub. L. 111–281, § 903(a)(2), substituted “$950 per gross ton” for “$600 per gross ton” and “$800,000,” for “$500,000”.
+
+Subsec. (d)(4). Pub. L. 109–241, § 603(b), amended heading and text of par. (4) generally. Prior to amendment, text read as follows: “The President shall, by regulations issued not less often than every 3 years, adjust the limits of liability specified in subsection (a) to reflect significant increases in the Consumer Price Index.”
+
+1998—Subsec. (a)(1). Pub. L. 105–383, § 406(1), substituted comma for “(except a tank vessel on which the only oil carried as cargo is an animal fat or vegetable oil, as those terms are used in [section 2720 of this title](./chapter-040-oil-pollution.md#section-2720))” after “tank vessel”.
+
+Subsec. (c)(4). Pub. L. 105–383, § 406(2), added par. (4).
+
+1995—Subsec. (a)(1). Pub. L. 104–55 substituted “for a tank vessel (except a tank vessel on which the only oil carried as cargo is an animal fat or vegetable oil, as those terms are used in [section 2720 of this title](./chapter-040-oil-pollution.md#section-2720))” for “for a tank vessel,”.
+
+#### Effective Date of 2010 Amendment
+Pub. L. 111–281, title IX, § 903(a), Oct. 15, 2010, 124 Stat. 3010, provided that the amendment by section 903(a)(2) is effective with enactment of Pub. L. 109–241.
+
+#### Effective Date of 2006 Amendment
+Pub. L. 109–241, title VI, § 603(a)(3), July 11, 2006, 120 Stat. 554, provided that: “In the case of an incident occurring before the 90th day following the date of enactment of this Act [July 11, 2006], section 1004(a)(1) of the Oil Pollution Act of 1990 ([33 U.S.C. 2704(a)(1)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section2704/a/1&num=0&edition=prelim)) shall apply as in effect immediately before the effective date of this subsection [July 11, 2006].”
+
+#### Report
+Pub. L. 109–241, title VI, § 603(c), July 11, 2006, 120 Stat. 554, as amended by Pub. L. 114–120, title VI, § 601(b), Feb. 8, 2016, 130 Stat. 79, provided that: “(1) Initial report.—Not later than 45 days after the date of enactment of this Act [July 11, 2006], the Secretary of the department in which the Coast Guard is operating shall submit a report on liability limits described in paragraph (2) to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives. “(2) Contents.—The report shall include, at a minimum, the following:“(A) An analysis of the extent to which oil discharges from vessels and nonvessel sources have or are likely to result in removal costs and damages (as defined in section 1001 of the Oil Pollution Act of 1990 ([33 U.S.C. 2701](./chapter-040-oil-pollution.md#section-2701))) for which no defense to liability exists under section 1003 of such Act [[33 U.S.C. 2703](./chapter-040-oil-pollution.md#section-2703)] and that exceed the liability limits established in section 1004 of such Act [[33 U.S.C. 2704](./chapter-040-oil-pollution.md#section-2704)], as amended by this section. “(B) An analysis of the impacts that claims against the Oil Spill Liability Trust Fund for amounts exceeding such liability limits will have on the Fund. “(C) Based on analyses under this paragraph and taking into account other factors impacting the Fund, recommendations on whether the liability limits need to be adjusted in order to prevent the principal of the Fund from declining to levels that are likely to be insufficient to cover expected claims. “(3) Annual updates.—The Secretary shall provide an update of the report to the Committees referred to in paragraph (1) not later than January 30 of the year following each year in which occurs an oil discharge from a vessel or nonvessel source that results or is likely to result in removal costs and damages (as those terms are defined in section 1001 of the Oil Pollution Act of 1990 ([33 U.S.C. 2701](./chapter-040-oil-pollution.md#section-2701))) that exceed liability limits established under section 1004 of the Oil Pollution Act of 1990 ([33 U.S.C. 2704](./chapter-040-oil-pollution.md#section-2704)).”
+
+#### Delegation of Functions
+For delegation of functions of President under subsec. (d) of this section, see section 4 of Ex. Ord. No. 12777, set out as a note under [section 1321 of this title](./chapter-026-water-pollution-prevention-and-control.md#section-1321).

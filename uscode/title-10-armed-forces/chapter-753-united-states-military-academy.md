@@ -95,6 +95,9 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 #### Effective Date of 1980 Amendment
 Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of Pub. L. 96–513, set out as a note under [section 101 of this title](./chapter-001-definitions.md#section-101).
 
+#### Speech Disorders of Cadets and Midshipmen
+Pub. L. 116–92, div. A, title V, § 558, Dec. 20, 2019, 133 Stat. 1392, provided that: “(a) Testing.—The Superintendent of a military service academy shall provide testing for speech disorders to incoming cadets or midshipmen under the jurisdiction of that Superintendent. “(b) No Effect on Admission.—The testing under subsection (a) may not have any effect on admission to a military service academy. “(c) Results.—The Superintendent shall provide each cadet or midshipman under the jurisdiction of that Superintendent the result of the testing under subsection (a) and a list of warfare unrestricted line officer positions and occupation specialities that require successful performance on the speech test. “(d) Therapy.—The Superintendent shall furnish speech therapy to a cadet or midshipman under the jurisdiction of that Superintendent at the election of the cadet or midshipman. “(e) Report.—Not later than 180 days after the date of the enactment of this Act [Dec. 20, 2019], the Secretaries of the military departments shall submit to the Committees on Armed Services of the Senate and the House of Representatives a joint report that includes the following:“(1) The number of cadets or midshipmen with an identified speech disorder in each military service academy. “(2) A list of the health care and administrative resources related to speech disorders available to cadets and midshipmen described in paragraph (1). “(3) A list of positions and specialties described in subsection (c) pursued by the cadets and midshipmen described in paragraph (1) at the time of graduation.”
+
 #### Prayer at Military Service Academy Activities
 Pub. L. 109–163, div. A, title V, § 598, Jan. 6, 2006, 119 Stat. 3283, provided that: “(a) In General.—The superintendent of a service academy may have in effect such policy as the superintendent considers appropriate with respect to the offering of a voluntary, nondenominational prayer at an otherwise authorized activity of the academy, subject to the United States Constitution and such limitations as the Secretary of Defense may prescribe. “(b) Service Academies.—For purposes of this section, the term ‘service academy’ means any of the following:“(1) The United States Military Academy. “(2) The United States Naval Academy. “(3) The United States Air Force Academy.”
 
@@ -801,6 +804,9 @@ Amendment by Pub. L. 90–623 intended to restate without substantive change the
 #### Effective Date of 1958 Amendment
 Amendment by Pub. L. 85–861 effective Aug. 10, 1956, see section 33(g) of Pub. L. 85–861, set out as a note under [section 101 of this title](./chapter-001-definitions.md#section-101).
 
+#### Information on Nominations and Applications for Military Service Academies
+Pub. L. 116–283, div. A, title V, § 575, Jan. 1, 2021, 134 Stat. 3645, provided that: “(a) Nominations Portal.—“(1) In general.—Not later than two years after the date of the enactment of this Act [Jan. 1, 2021], the Secretary of Defense, in consultation with the Superintendents of the military service academies, shall ensure that there is a uniform online portal for all military service academies that enables Members of Congress and other nominating sources to nominate individuals for appointment to each academy through a secure website. “(2) Information collection and reporting.—The online portal established under paragraph (1) shall have the ability to—“(A) collect, from each nominating source, the demographic information described in subsection (b) for each individual nominated to attend a military service academy; and “(B) collect the information required to be included in each annual report of the Secretary under subsection (c) in a manner that enables the Secretary to automatically compile such information when preparing the report. “(3) Availability of information.—The portal shall allow Members of Congress, other nominating sources, and their designees to view their past nomination records for all application cycles. “(b) Standard Classifications for Collection of Demographic Data.—“(1) Standards required.—The Secretary, in consultation with the Superintendents of the military service academies, shall establish standard classifications that cadets, midshipmen, and applicants to the academies may use to report gender, race, and ethnicity and to provide other demographic information in connection with admission to or enrollment in an academy. “(2) Consistency with omb guidance.—The standard classifications established under paragraph (1) shall be consistent with the standard classifications specified in Office of Management and Budget Directive No. 15 (pertaining to race and ethnic standards for Federal statistics and administrative reporting) or any successor directive. “(3) Incorporation into applications and records.—Not later than 180 days after the date of the enactment of this Act, the Secretary shall incorporate the standard classifications established under paragraph (1) into—“(A) applications for admission to the military service academies; and “(B) the military personnel records of cadets and midshipmen enrolled in such academies. “(c) Annual Report on the Demographics Military Service Academy Applicants.—“(1) Report required.—Not later than September 30 of each year beginning after the establishment of the online portal, the Secretary shall submit to the Committees on Armed Services of the Senate and the House of Representatives a report on the demographics of applicants to military service academies for the most recently concluded application year. “(2) Elements.—Each report under paragraph (1) shall include, with respect to each military service academy, the following:“(A) The number of individuals who submitted an application for admission to the academy in the application year covered by the report. “(B) Of the individuals who submitted an application for admission to the academy in such year—“(i) the overall demographics of applicant pool, disaggregated by the classifications established under subsection (b); “(ii) the number and percentage who received a nomination, disaggregated by the classifications established under subsection (b); “(iii) the number and percentage who received an offer for appointment to the academy, disaggregated by the classifications established under subsection (b); and “(iv) the number and percentage who accepted an appointment to the academy, disaggregated by the classifications established under subsection (b). “(3) Consultation.—In preparing each report under paragraph (1), the Secretary shall consult with the Superintendents of the military service academies. “(4) Availability of reports and data.—The Secretary shall—“(A) make the results of each report under paragraph (1) available on a publicly accessible website of the Department of Defense; and “(B) ensure that any data included with the report is made available in a machine-readable format that is downloadable, searchable, and sortable. “(d) Definitions.—In this section:“(1) The term ‘application year’ means the period beginning on January 1 of one year and ending on June 1 of the following year. “(2) The term ‘machine-readable’ has the meaning given that term in [section 3502(18) of title 44](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section3502/18&num=0&edition=prelim), United States Code. “(3) The term ‘military service academy’ means—“(A) the United States Military Academy; “(B) the United States Naval Academy; and “(C) the United States Air Force Academy.”
+
 #### Eligibility of Female Individuals for Appointment and Admission to Service Academies; Uniform Application of Academic and Other Standards to Male and Female Individuals
 Pub. L. 94–106, title VIII, § 803(a), Oct. 7, 1975, 89 Stat. 537, provided that: “Notwithstanding any other provision of law, in the administration of chapter 403 [now 753] of title 10, United States Code [this chapter] (relating to the United States Military Academy), chapter 603 [now 853] of such title (relating to the United States Naval Academy), and chapter 903 [now 953] of such title (relating to the United States Air Force Academy), the Secretary of the military department concerned shall take such action as may be necessary and appropriate to insure that (1) female individuals shall be eligible for appointment and admission to the service academy concerned, beginning with appointments to such academy for the class beginning in calendar year 1976, and (2) the academic and other relevant standards required for appointment, admission, training, graduation, and commissioning of female individuals shall be the same as those required for male individuals, except for those minimum essential adjustments in such standards required because of physiological differences between male and female individuals.”
 
@@ -933,7 +939,7 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 (5) That the cadet—
 
-  (A) will not seek release from the cadet’s commissioned service obligation to obtain employment as a professional athlete following graduation until the cadet completes a period of at least two consecutive years of commissioned service; and
+  (A) will not seek release from the cadet’s commissioned service obligation or seek or accept approval for off-duty employment while completing the cadet’s commissioned service obligation to obtain employment as a professional athlete following graduation until the cadet completes a period of at least two consecutive years of commissioned service; and
 
   (B) understands that the appointment alternative described in paragraph (3) will not be used to allow the cadet to obtain such employment until at least the end of that two-year period.
 
@@ -973,6 +979,8 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 The word “agreement” is substituted for the word “articles”. The words “Hereafter”, “appointed to the United States Military Academy”, “engage”, and 10:1092c (1st 25 words of clause (2)) are omitted as surplusage. The word “separated” is substituted for the words “discharged by competent authority”. The words “if he is permitted to resign” are substituted for the words “in the event of the acceptance of his resignation”, since a resignation is effective only when accepted. The first 31 words of clause (3) are substituted for 10:1092c (last 29 words of clause (3)). The last sentence is substituted for the words “with the consent of his parents or guardian if he be a minor, and if any he have”.
 
 #### Amendments
+2019—Subsec. (a)(5)(A). Pub. L. 116–92 inserted “or seek or accept approval for off-duty employment while completing the cadet’s commissioned service obligation” before “to obtain employment”.
+
 2018—Pub. L. 115–232 renumbered [section 4348 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section4348&num=0&edition=prelim) as this section.
 
 2017—Subsec. (a)(5). Pub. L. 115–91, § 543(a), added par. (5).
@@ -1096,7 +1104,7 @@ In subsection (a), the words “while owing the United States for pay advanced f
 In subsection (b), the word “accouterments” is omitted as surplusage. The words “by the Government” and “such restrictions and” are omitted as surplusage. The words “at cost” are omitted to reflect Title IV of the National Security Act of 1947, as amended (63 Stat. 585), which authorized the Secretary of Defense to prescribe regulations governing the use and sale of certain inventories at cost, including applicable administrative expenses. (See opinion of the Assistant General Counsel (Fiscal Matters) of the Office of the Secretary of Defense, January 4, 1955.)
 
 #### Amendments
-2018—Pub. L. 115–232 renumbered [section 4350 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section4350&num=0&edition=prelim) as this section.
+2018—Pub. L. 115–232 renumbered [section 4350 of this title](./chapter-324-program-status-selected-acquisition-reports.md#section-4350) as this section.
 
 #### Effective Date of 2018 Amendment
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
@@ -1126,7 +1134,7 @@ In subsection (b), the words “is entitled to” are substituted for the words 
 In subsection (c), the words “by reason of sickness, or deficiency in his studies, or other cause” are omitted as surplusage.
 
 #### Amendments
-2018—Pub. L. 115–232 renumbered [section 4351 of this title](./chapter-325-department-of-defense-laboratories.md#section-4351) as this section.
+2018—Pub. L. 115–232 renumbered [section 4351 of this title](./chapter-324-program-status-selected-acquisition-reports.md#section-4351) as this section.
 
 #### Effective Date of 2018 Amendment
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
@@ -1147,7 +1155,7 @@ Pub. L. 108–136, div. A, title V, § 525, Nov. 24, 2003, 117 Stat. 1465, provi
 
 **(b)** If a cadet who is charged with violating a regulation issued under subsection (a), the penalty for which is or may be dismissal from the Academy, requests in writing a trial by a general court-martial, he may not be dismissed for that offense except under sentence of such a court.
 
-**(c)** A cadet dismissed from the Academy for hazing may not be reappointed to the Corps of Cadets, and is ineligible for appointment as a commissioned officer in a regular component of the Army, Navy, Air Force, or Marine Corps, until two years after the graduation of his class.
+**(c)** A cadet dismissed from the Academy for hazing may not be reappointed to the Corps of Cadets, and is ineligible for appointment as a commissioned officer in a regular component of the Army, Navy, Air Force, Marine Corps, or Space Force, until two years after the graduation of his class.
 
 ### Statutory Notes
 
@@ -1163,7 +1171,9 @@ In subsection (b), the words “the penalty for which is or may be” are substi
 In subsection (c), the words “a regular component” are inserted, since the source statute historically applied only to the regular components.
 
 #### Amendments
-2018—Pub. L. 115–232 renumbered [section 4352 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section4352&num=0&edition=prelim) as this section.
+2021—Subsec. (c). Pub. L. 116–283 substituted “Marine Corps, or Space Force” for “or Marine Corps”.
+
+2018—Pub. L. 115–232 renumbered [section 4352 of this title](./chapter-324-program-status-selected-acquisition-reports.md#section-4352) as this section.
 
 #### Effective Date of 2018 Amendment
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
@@ -1196,7 +1206,7 @@ In subsection (b), the words “except [section 541 of this title](./chapter-033
 It is unnecessary to include a reference to section 541, since that section does not derogate from the authority granted in this section.
 
 #### Amendments
-2018—Pub. L. 115–232 renumbered [section 4353 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section4353&num=0&edition=prelim) as this section.
+2018—Pub. L. 115–232 renumbered [section 4353 of this title](./chapter-324-program-status-selected-acquisition-reports.md#section-4353) as this section.
 
 1980—Subsec. (b). Pub. L. 96–513 inserted “under [section 531 of this title](./chapter-033-original-appointments-of-regular-officers-in-grades-above-warrant-officer-grades.md#section-531)” after “Regular Army”.
 
@@ -1231,7 +1241,7 @@ In subsection (a), the words “and to prevent the introduction of unworthy subj
 In subsection (b), the words “in his discretion” and “Government of” are omitted as surplusage. The words “United States” are substituted for the word “Government”.
 
 #### Amendments
-2018—Pub. L. 115–232 renumbered [section 4354 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section4354&num=0&edition=prelim) as this section.
+2018—Pub. L. 115–232 renumbered [section 4354 of this title](./chapter-324-program-status-selected-acquisition-reports.md#section-4354) as this section.
 
 #### Effective Date of 2018 Amendment
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
@@ -1289,7 +1299,7 @@ In subsection (g), the words “as it may deem necessary or advisable effectuate
 In subsection (h), the words “called for consultation by the Board in connection with the business of the Board” are omitted as surplusage.
 
 #### Amendments
-2018—Pub. L. 115–232 renumbered [section 4355 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section4355&num=0&edition=prelim) as this section.
+2018—Pub. L. 115–232 renumbered [section 4355 of this title](./chapter-324-program-status-selected-acquisition-reports.md#section-4355) as this section.
 
 1999—Subsec. (a)(3). Pub. L. 106–65, substituted “Committee on Armed Services” for “Committee on National Security”.
 
@@ -1318,7 +1328,7 @@ Under regulations prescribed by the Secretary of the Army, the Superintendent of
 The word “Academy” is substituted for “United States Military Academy” for consistency in title 10.
 
 #### Amendments
-2018—Pub. L. 115–232 renumbered [section 4356 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section4356&num=0&edition=prelim) as this section.
+2018—Pub. L. 115–232 renumbered [section 4356 of this title](./chapter-324-program-status-selected-acquisition-reports.md#section-4356) as this section.
 
 #### Effective Date of 2018 Amendment
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
@@ -1382,7 +1392,7 @@ Pub. L. 97–252, title XI, § 1133, Sept. 8, 1982, 96 Stat. 761, provided that:
 ### Statutory Notes
 
 #### Amendments
-2018—Pub. L. 115–232 renumbered [section 4357 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section4357&num=0&edition=prelim) as this section.
+2018—Pub. L. 115–232 renumbered [section 4357 of this title](./chapter-324-program-status-selected-acquisition-reports.md#section-4357) as this section.
 
 2003—Subsec. (c). Pub. L. 108–136 inserted before period at end “or, if earlier, the expiration of 14 days following the date on which a copy of the report is provided in an electronic medium pursuant to [section 480 of this title](./chapter-023-miscellaneous-studies-and-reports.md#section-480)”.
 
@@ -1409,7 +1419,7 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 ### Statutory Notes
 
 #### Amendments
-2018—Pub. L. 115–232 renumbered [section 4358 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section4358&num=0&edition=prelim) as this section.
+2018—Pub. L. 115–232 renumbered [section 4358 of this title](./chapter-324-program-status-selected-acquisition-reports.md#section-4358) as this section.
 
 #### Effective Date of 2018 Amendment
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
@@ -1500,6 +1510,14 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
     (iv) any other issues relating to sexual harassment and sexual violence involving Academy personnel.
 
+(3)
+
+  (A) The Secretary of Defense may postpone the conduct of an assessment under this subsection if the Secretary determines that conducting such assessment is not practicable due to a war or national emergency declared by the President or Congress.
+
+  (B) The Secretary of Defense shall ensure that an assessment postponed under subparagraph (A) is conducted as soon as practicable after the end of the period of war or national emergency concerned, or earlier if the Secretary determines appropriate.
+
+  (C) The Secretary of Defense shall notify Congress of a determination under subparagraph (A) not later than 30 days after the date on which the Secretary makes such determination.
+
 **(d) Annual Report.—**
 
 (1) The Secretary of the Army shall direct the Superintendent of the Academy to submit to the Secretary a report on sexual harassment and sexual violence involving cadets or other personnel at the Academy for each Academy program year.
@@ -1520,9 +1538,43 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
   (B) The Secretary of Defense shall transmit each such report, together with the Secretary’s comments on the report, to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives.
 
+**(e) Consideration of Request for Transfer of a Cadet Who Is the Victim of a Sexual Assault or Related Offense.—**
+
+(1) The Secretary of the Army shall provide for timely consideration of and action on a request submitted by a cadet appointed to the United States Military Academy who is the victim of an alleged sexual assault or other offense covered by section 920, 920c, or 930 of this title (article 120, 120c, or 130 of the Uniform Code of Military Justice) for transfer to another military service academy or to enroll in a Senior Reserve Officers’ Training Corps program affiliated with another institution of higher education.
+
+(2) The Secretary of the Army shall prescribe regulations to carry out this subsection, within guidelines provided by the Secretary of Defense that—
+
+  (A) provide that the Superintendent of the United States Military Academy shall ensure that any cadet who has been appointed to the United States Military Academy and who is a victim of an alleged sexual assault or other offense referred to in paragraph (1), is informed of the right to request a transfer pursuant to this section, and that any formal request submitted by a cadet is processed as expeditiously as practicable through the chain of command for review and action by the Superintendent;
+
+  (B) direct the Superintendent of the United States Military Academy, in coordination with the Superintendent of the military service academy to which the cadet requests to transfer—
+
+    (i) to take action on a request for transfer under this subsection not later than 72 hours after receiving the formal request from the cadet;
+
+    (ii) to approve such request for transfer unless there are exceptional circumstances that require denial of the request; and
+
+    (iii) upon approval of such request, to take all necessary and appropriate action to effectuate the transfer of the cadet to the military service academy concerned as expeditiously as possible; and
+
+  (C) direct the Superintendent of the United States Military Academy, in coordination with the Secretary of the military department that sponsors the Senior Reserve Officers’ Training Corps program at the institution of higher education to which the cadet requests to transfer—
+
+    (i) to take action on a request for transfer under this subsection not later than 72 hours after receiving the formal request from the cadet;
+
+    (ii) subject to the cadet’s acceptance for admission to the institution of higher education to which the cadet wishes to transfer, to approve such request for transfer unless there are exceptional circumstances that require denial of the application; and
+
+    (iii) to take all necessary and appropriate action to effectuate the cadet’s enrollment in the institution of higher education to which the cadet wishes to transfer and to process the cadet for participation in the relevant Senior Reserve Officers’ Training Corps program as expeditiously as possible.
+
+(3) If the Superintendent of the United States Military Academy denies a request for transfer under this subsection, the cadet may request review of the denial by the Secretary of the Army, who shall take action on such request not later than 72 hours after receipt of the formal request for review.
+
+(4) The Secretary concerned shall ensure that all records of any request, determination, transfer, or other action under this subsection remain confidential, consistent with applicable law and regulation.
+
+(5) A cadet who transfers under this subsection may retain the cadet’s appointment to the United States Military Academy or may be appointed to the military service academy to which the cadet transfers without regard to the limitations and requirements set forth in sections 7442, 8454, and 9442 of this title.
+
 ### Statutory Notes
 
 #### Amendments
+2021—Subsec. (c)(3). Pub. L. 116–283 added par. (3).
+
+2019—Subsec. (e). Pub. L. 116–92 added subsec. (e).
+
 2018—Pub. L. 115–232 renumbered [section 4361 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section4361&num=0&edition=prelim) as this section.
 
 #### Effective Date of 2018 Amendment
@@ -1530,6 +1582,9 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 #### Termination of Reporting Requirements
 For termination, effective Dec. 31, 2021, of provisions in subsec. (d)(4)(B) of this section requiring submittal of annual report to Congress, see section 1061 of Pub. L. 114–328, set out as a note under [section 111 of this title](./chapter-002-department-of-defense.md#section-111).
+
+#### Policy for Military Service Academies on Separation of Alleged Victims and Alleged Perpetrators in Incidents of Sexual Assault
+Pub. L. 116–283, div. A, title V, § 539, Jan. 1, 2021, 134 Stat. 3606, provided that: “(a) In General.—The Secretary of Defense shall, in consultation with the Secretaries of the military departments and the Superintendent of each military service academy, prescribe in regulations a policy under which a cadet or midshipman of a military service academy who is the alleged victim of a sexual assault and a cadet or midshipman who is the alleged perpetrator of such assault shall, to the extent practicable, each be given the opportunity to complete their course of study at the academy without—“(1) taking classes together; or “(2) otherwise being in close proximity to each other during mandatory activities. “(b) Elements.—The Secretary of Defense shall ensure that the policy developed under subsection (a)—“(1) permits an alleged victim to elect not to be covered by the policy with respect to a particular incident of sexual assault; “(2) protects the alleged victim as necessary, including by prohibiting retaliatory harassment; “(3) minimizes the prejudicial impact of the policy, to the extent practicable, on both the alleged victim and the alleged perpetrator, and allows the alleged victim and the alleged perpetrator to complete their course of study at the institution with minimal disruption; “(4) protects the privacy of both the alleged victim and the alleged perpetrator by ensuring that information about the alleged sexual assault and the individuals involved is not revealed to third parties who are not specifically authorized to receive such information in the course of performing their regular duties, except that such policy shall not preclude the alleged victim or the alleged perpetrator from making such disclosures to third parties; and “(5) minimizes the burden on the alleged victim when taking steps to separate the alleged victim and alleged perpetrator. “(c) Special Rule.—The policy developed under subsection (a) shall not preclude a military service academy from taking other administrative or disciplinary action when appropriate. “(d) Military Service Academy Defined.—In this section, the term ‘military service academy’ means the following:“(1) The United States Military Academy. “(2) The United States Naval Academy. “(3) The United States Air Force Academy. “(4) The United States Coast Guard Academy.”
 
 #### Development of Resource Guides Regarding Sexual Assault for the Military Service Academies
 Pub. L. 115–232, div. A, title V, § 545, Aug. 13, 2018, 132 Stat. 1764, provided that: “(a) Development.—Not later than 30 days after the date of the enactment of this Act [Aug. 13, 2018], each Superintendent of a military service academy shall develop and maintain a resource guide for students at the respective military service academies regarding sexual assault. “(b) Elements.—Each guide developed under this section shall include the following information with regards to the relevant military service academy:“(1) Process overview and definitions.—“(A) An explanation of prohibited conduct, including examples. “(B) An explanation of consent. “(C) Victims’ rights. “(D) Clearly described complaint process, including to whom a complaint may be filed. “(E) Explanations of restricted and unrestricted reporting. “(F) List of mandatory reporters. “(G) Protections from retaliation. “(H) Assurance that leadership will take appropriate corrective action. “(I) References to specific policies. “(J) Resources for survivors. “(2) Emergency services.—“(A) Contact information. “(B) Location. “(3) Support and counseling.—Contact information for the following support and counseling resources:“(A) The Sexual Assault Prevention and Response Victim Advocate or other equivalent advocate or counselor available to students in cases of sexual assault. “(B) The Sexual Harassment/Assault Response and Prevention Resource Program Center. “(C) Peer counseling. “(D) Medical care. “(E) Legal counsel. “(F) Hotlines. “(G) Chaplain or other spiritual representatives. “(c) Distribution.—Each Superintendent shall provide the current guide developed by that Superintendent under this section—“(1) not later than 30 days after completing development under subsection (a) to each student who is enrolled at the military service academy of that Superintendent on the date of the enactment of this Act; “(2) at the beginning of each academic year after the date of the enactment of this Act to each student who enrolls at the military service academy of that Superintendent; and “(3) as soon as practicable to a student at the military service academy of that Superintendent who reports that such student is a victim of sexual assault.”
@@ -1610,6 +1665,9 @@ Pub. L. 109–364, div. A, title V, § 532(b), Oct. 17, 2006, 120 Stat. 2205, pr
 
 ### Statutory Notes
 
+#### Amendment of Section
+Pub. L. 116–283, div. A, title XVIII, §§ 1801(d), 1883(b)(2), Jan. 1, 2021, 134 Stat. 4151, 4294, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, except as otherwise provided in title XVIII of Pub. L. 116–283, in title 10, United States Code, each reference in the text of such title to a source section that is redesignated by title XVIII of Pub. L. 116–283, is amended by striking such reference and inserting a reference to the appropriate section as so redesignated. See 2021 Amendment note below.
+
 #### References in Text
 Section 501(c)(3) of the Internal Revenue Code of 1986, referred to in subsec. (g)(1), is classified to [section 501(c)(3) of Title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section501/c/3&num=0&edition=prelim), Internal Revenue Code.
 
@@ -1625,7 +1683,12 @@ A prior section 7475, act Aug. 10, 1956, ch. 1041, 70A Stat. 463, restricted inc
 Prior sections 7476 to 7480 were renumbered sections 8746 to 8750 of this title, respectively.
 
 #### Amendments
+2021—Subsec. (a)(1). Pub. L. 116–283 substituted “section 3201(e)” for “section 2304(k)” and “section 3204(a)(5)” for “section 2304(c)(5)”.
+
 2018—Pub. L. 115–232 renumbered [section 4362 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section4362&num=0&edition=prelim) as this section.
+
+#### Effective Date of 2021 Amendment
+Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
 
 #### Effective Date of 2018 Amendment
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).

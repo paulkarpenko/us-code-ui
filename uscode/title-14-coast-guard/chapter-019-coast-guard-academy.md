@@ -2,7 +2,7 @@
 title: 14
 chapter: '19'
 heading: COAST GUARD ACADEMY
-section_count: 22
+section_count: 24
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14&num=0&edition=prelim
 ---
@@ -21,6 +21,9 @@ This section is new. There is no provision in existing law which establishes the
 #### Amendments
 2018—Pub. L. 115–282 renumbered [section 181 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section181&num=0&edition=prelim) as this section.
 
+#### Coast Guard Academy Study
+Pub. L. 116–283, div. G, title LVXXXII [LXXXII], § 8272, Jan. 1, 2021, 134 Stat. 4681, provided that: “(a) In General.—The Secretary of the department in which the Coast Guard is operating shall seek to enter into an arrangement with the National Academy of Public Administration not later than 60 days after the date of the enactment of the [sic] this Act [Jan. 1, 2021] under which the National Academy of Public Administration shall—“(1) conduct an assessment of the cultural competence of the Coast Guard Academy as an organization and of individuals at the Coast Guard Academy to carry out effectively the primary duties of the United States Coast Guard listed in [section 102 of title 14](./chapter-001-establishment-and-duties.md#section-102), United States Code, when interacting with individuals of different races, ethnicities, genders, religions, sexual orientations, socioeconomic backgrounds, or from different geographic origins; and “(2) issue recommendations based upon the findings in such assessment. “(b) Assessment of Cultural Competence.—“(1) Cultural competence of the coast guard academy.—The arrangement described in subsection (a) shall require the National Academy of Public Administration to, not later than 1 year after entering into an arrangement with the Secretary under subsection (a), submit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate the assessment described under subsection (a)(1). “(2) &Assessment scope.—The assessment described under subsection (a)(1) shall—“(A) describe the level of cultural competence described in subsection (a)(1) based on the National Academy of Public Administration’s assessment of the Coast Guard Academy’s relevant practices, policies, and structures, including an overview of discussions with faculty, staff, students, and relevant Coast Guard Academy affiliated organizations; “(B) examine potential changes which could be used to further enhance such cultural competence by—“(i) modifying institutional practices, policies, and structures; and “(ii) any other changes deemed appropriate by the National Academy of Public Administration; and “(C) make recommendations to enhance the cultural competence of the Coast Guard Academy described in subparagraph (A), including any specific plans, policies, milestones, performance measures, or other information necessary to implement such recommendations. “(c) Final Action Memorandum.—Not later than 6 months after submission of the assessment under subsection (b)(1), the Commandant of the Coast Guard shall submit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate, a final action memorandum in response to all recommendations contained in the assessment. The final action memorandum shall include the rationale for accepting, accepting in part, or rejecting each recommendation, and shall specify, where applicable, actions to be taken to implement such recommendations, including an explanation of how each action enhances the ability of the Coast Guard to carry out the primary duties of the United States Coast Guard listed in [section 102 of title 14](./chapter-001-establishment-and-duties.md#section-102), United States Code. “(d) Plan.—“(1) In general.—Not later than 6 months after the date of the submission of the final action memorandum required under subsection (c), the Commandant, in coordination with the Chief Human Capital Officer of the Department of Homeland Security, shall submit a plan to carry out the recommendations or the parts of the recommendations accepted in the final action memorandum to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate. “(2) Strategy with milestones.—If any recommendation or parts of recommendations accepted in the final action memorandum address any of the following actions, then the plan required in paragraph (1) shall include a strategy with appropriate milestones to carry out such recommendations or parts of recommendations:“(A) Improve outreach and recruitment of a more diverse Coast Guard Academy cadet candidate pool based on race, ethnicity, gender, religion, sexual orientation, socioeconomic background, and geographic origin. “(B) Modify institutional structures, practices, and policies to foster a more diverse cadet corps body, faculty, and staff workforce based on race, ethnicity, gender, religion, sexual orientation, socioeconomic background, and geographic origin. “(C) Modify existing or establish new policies and safeguards to foster the retention of cadets, faculty, and staff of different races, ethnicities, genders, religions, sexual orientations, socioeconomic backgrounds, and geographic origins at the Coast Guard Academy. “(D) Restructure the admissions office of the Coast Guard Academy to be headed by a civilian with significant relevant higher education recruitment experience. “(3) Implementation.—Unless otherwise directed by an Act of Congress, the Commandant shall begin implementation of the plan developed under this subsection not later than 180 days after the submission of such plan to Congress. “(4) Update.—The Commandant shall include in the first annual report required under chapter 51 of title 14, United States Code, as amended by this division, submitted after the date of enactment of this section [Jan. 1, 2021], the strategy with milestones required in paragraph (2) and shall report annually thereafter on actions taken and progress made in the implementation of such plan.”
+
 
 <a id="section-1902"></a>
 ## § 1902. Policy on sexual harassment and sexual violence
@@ -34,9 +37,9 @@ This section is new. There is no provision in existing law which establishes the
 
 (3) Procedures that cadets and other Academy personnel should follow in the case of an occurrence of sexual harassment or sexual violence, including—
 
-  (A) if the victim chooses to report an occurrence of sexual harassment or sexual violence, a specification of the person or persons to whom the alleged offense should be reported and options for confidential reporting, including written information to be given to victims that explains how the Coast Guard and the Academy will protect the confidentiality of victims;
+  (A) if the victim chooses to report an occurrence of sexual harassment or sexual violence, a specification of the individual or individuals to whom the alleged offense should be reported and options for confidential reporting, including written information to be given to victims that explains how the Coast Guard and the Academy will protect the confidentiality of victims;
 
-  (B) a specification of any other person whom the victim should contact; and
+  (B) a specification of any other individual whom the victim should contact; and
 
   (C) procedures on the preservation of evidence potentially necessary for proof of criminal sexual assault.
 
@@ -97,9 +100,19 @@ This section is new. There is no provision in existing law which establishes the
 ### Statutory Notes
 
 #### Amendments
+2021—Subsec. (b)(3)(A). Pub. L. 116–283, § 8505(a)(11)(A), substituted “individual or individuals” for “person or persons”.
+
+Subsec. (b)(3)(B). Pub. L. 116–283, § 8505(a)(11)(B), substituted “individual” for “person”.
+
 2018—Pub. L. 115–282 renumbered [section 200 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section200&num=0&edition=prelim) as this section.
 
 Subsec. (a). Pub. L. 115–232 substituted “Commandant” for “Commandant of the Coast Guard”.
+
+#### Policy for Military Service Academies on Separation of Alleged Victims and Alleged Perpetrators in Incidents of Sexual Assault
+Secretary of Defense to consult with Secretaries of the military departments and Superintendent of each military service academy and prescribe in regulations a policy that allows a cadet or midshipman of a military service academy who is the alleged victim or alleged perpetrator of a sexual assault to complete their course of study at the academy with minimal disruption and does not preclude the academy from taking other administrative or disciplinary action, see section 539 of Pub. L. 116–283, set out as a note under [section 7461 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section7461&num=0&edition=prelim), Armed Forces.
+
+#### Expedited Transfer in Cases of Sexual Assault; Dependents of Members of the Coast Guard
+Pub. L. 116–283, div. G, title LVXXXII [LXXXII], § 8282, Jan. 1, 2021, 134 Stat. 4688, provided that: “Not later than 180 days after the date of the enactment of this Act [Jan. 1, 2021], the Commandant [of the Coast Guard] shall establish a policy to allow the transfer of a member of the Coast Guard whose dependent is the victim of sexual assault perpetrated by a member of the Armed Forces who is not related to the victim.”
 
 #### Applicability of Sexual Assault Prevention and Response and Related Military Justice Enhancements to Coast Guard Academy
 Pub. L. 113–291, div. A, title V, § 552(b), Dec. 19, 2014, 128 Stat. 3377, provided that: “The Secretary of the Department in which the Coast Guard is operating shall ensure that the provisions of title XVII of the National Defense Authorization Act for Fiscal Year 2014 (Public Law 113–66; 127 Stat. 950) [see Tables for classification], including amendments made by that title, and the provisions of subtitle D [§§ 531–547 of title V of div. A of Pub. L. 113–291; see Tables for classification], including amendments made by such subtitle, apply to the Coast Guard Academy.”
@@ -141,15 +154,17 @@ Pub. L. 113–291, div. A, title V, § 552(b), Dec. 19, 2014, 128 Stat. 3377, pr
 
 (1) the state of morale and discipline;
 
-(2) the curriculum;
+(2) recruitment and retention, including diversity, inclusion, and issues regarding women specifically;
 
-(3) instruction;
+(3) the curriculum;
 
-(4) physical equipment;
+(4) instruction;
 
-(5) fiscal affairs; and
+(5) physical equipment;
 
-(6) other matters relating to the Academy that the Board determines appropriate.
+(6) fiscal affairs; and
+
+(7) other matters relating to the Academy that the Board determines appropriate.
 
 **(e) Report.—** Not later than 60 days after the date of an annual visit of the Board under subsection (c)(1), the Board shall submit to the Secretary, the Committee on Commerce, Science, and Transportation of the Senate, and the Committee on Transportation and Infrastructure of the House of Representatives a report on the actions of the Board during such visit and the recommendations of the Board pertaining to the Academy.
 
@@ -165,6 +180,8 @@ Based on title 14, U.S.C., 1946 ed., § 15h (Apr. 16, 1937, ch. 107, § 7, 50 St
 Changes were made in phraseology. 81st Congress, House Report No. 557.
 
 #### Amendments
+2021—Subsec. (d)(2) to (7). Pub. L. 116–283 added par. (2) and redesignated former pars. (2) to (6) as (3) to (7), respectively.
+
 2018—Pub. L. 115–282 renumbered [section 194 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section194&num=0&edition=prelim) as this section.
 
 2014—Pub. L. 113–281 amended section generally. Prior to amendment, section consisted of subsecs. (a) to (f) relating to establishment and composition of Board of Visitors, designation of Members, absence of a Member or ex officio Member from an annual meeting, and annual visit to the Academy.
@@ -179,7 +196,48 @@ Changes were made in phraseology. 81st Congress, House Report No. 557.
 
 
 <a id="section-1904"></a>
-## § 1904. Participation in Federal, State, or other educational research grants
+## § 1904. Advisory Board on Women at the Coast Guard Academy
+**(a) In General.—** The Superintendent of the Academy shall establish at the Coast Guard Academy an advisory board to be known as the Advisory Board on Women at the Coast Guard Academy (referred to in this section as the “Advisory Board”).
+
+**(b) Membership.—** The Advisory Board shall be composed of not fewer than 12 current cadets of the Coast Guard Academy, including not fewer than 3 cadets from each current class.
+
+**(c) Appointment; Term.—** Cadets shall serve on the Advisory Board pursuant to appointment by the Superintendent of the Academy. Appointments shall be made not later than 60 days after the date of the swearing in of a new class of cadets at the Academy. The term of membership of a cadet on the Advisory Board shall be 1 academic year.
+
+**(d) Reappointment.—** The Superintendent of the Academy may reappoint not more than 6 cadets from the previous term to serve on the Advisory Board for an additional academic year if the Superintendent of the Academy determines such reappointment to be in the best interests of the Coast Guard Academy.
+
+**(e) Meetings.—** The Advisory Board shall meet with the Commandant at least once each academic year on the activities of the Advisory Board. The Advisory Board shall meet in person with the Superintendent of the Academy not less than twice each academic year on the duties of the Advisory Board.
+
+**(f) Duties.—** The Advisory Board shall identify opportunities and challenges facing cadets at the Academy who are women, including an assessment of culture, leadership development, and access to health care of cadets at the Academy who are women.
+
+**(g) Working Groups.—** The Advisory Board may establish one or more working groups to assist the Advisory Board in carrying out its duties, including working groups composed in part of cadets at the Academy who are not current members of the Advisory Board.
+
+**(h) Reports and Briefings.—** The Advisory Board shall regularly provide the Commandant and the Superintendent reports and briefings on the results of its duties, including recommendations for actions to be taken in light of such results. Such reports and briefings may be provided in writing, in person, or both.
+
+### Statutory Notes
+
+#### Prior Provisions
+A prior section 1904 was renumbered [section 1906 of this title](./chapter-019-coast-guard-academy.md#section-1906).
+
+
+<a id="section-1905"></a>
+## § 1905. Coast Guard Academy minority outreach team program
+**(a) In General.—** There is established within the Coast Guard Academy a minority outreach team program (in this section referred to as the “Program” ) under which officers, including minority officers and officers from territories and other possessions of the United States, who are Academy graduates may volunteer their time to recruit minority students and strengthen cadet retention through mentorship of cadets.
+
+**(b) Administration.—** Not later than January 1, 2021, the Commandant, in consultation with Program volunteers and Academy alumni that participated in prior programs at the Academy similar to the Program, shall appoint a permanent civilian position at the Academy to administer the Program by, among other things—
+
+(1) overseeing administration of the Program;
+
+(2) serving as a resource to volunteers and outside stakeholders;
+
+(3) advising Academy leadership on recruitment and retention efforts based on recommendations from volunteers and outside stakeholders;
+
+(4) establishing strategic goals and performance metrics for the Program with input from active volunteers and Academy leadership; and
+
+(5) reporting annually to the Commandant on academic year and performance outcomes of the goals for the Program before the end of each academic year.
+
+
+<a id="section-1906"></a>
+## § 1906. Participation in Federal, State, or other educational research grants
 **(a) In General.—** Notwithstanding any other provision of law, the United States Coast Guard Academy may compete for and accept Federal, State, or other educational research grants, subject to the following limitations:
 
 (1) No award may be accepted for the acquisition or construction of facilities.
@@ -218,6 +276,8 @@ Changes were made in phraseology. 81st Congress, House Report No. 557.
 The Internal Revenue Code of 1986, referred to in subsec. (b)(5)(A), is classified generally to Title 26, Internal Revenue Code.
 
 #### Amendments
+2021—Pub. L. 116–283 renumbered [section 1904 of this title](./chapter-019-coast-guard-academy.md#section-1904) as this section.
+
 2018—Pub. L. 115–282, § 110(b), renumbered [section 196 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section196&num=0&edition=prelim) as this section.
 
 Subsec. (b)(1). Pub. L. 115–232 substituted “Commandant” for “Commandant of the Coast Guard” in introductory provisions.
@@ -340,7 +400,7 @@ The Secretary is authorized to expend appropriated funds for selective preappoin
 <a id="section-1927"></a>
 ## § 1927. Cadets; initial clothing allowance
 
-The Secretary may prescribe a sum which shall be credited to each new cadet upon first admission to the Academy, to cover the cost of his initial clothing and equipment issue, which sum shall be deducted subsequently from his pay. Each cadet discharged prior to graduation who is indebted to the United States on account of advances of pay to purchase required clothing and equipment shall be required to turn in to the Academy all clothing and equipment of a distinctively military nature to the extent required to discharge such indebtedness; and, if the value of such clothing and equipment so turned in does not cover the indebtedness incurred, then such indebtedness shall be canceled.
+The Secretary may prescribe a sum which shall be credited to each new cadet upon first admission to the Academy, to cover the cost of an initial clothing and equipment issue, which sum shall be deducted subsequently from the pay of such cadet. Each cadet discharged prior to graduation who is indebted to the United States on account of advances of pay to purchase required clothing and equipment shall be required to turn in to the Academy all clothing and equipment of a distinctively military nature to the extent required to discharge such indebtedness; and, if the value of such clothing and equipment so turned in does not cover the indebtedness incurred, then such indebtedness shall be canceled.
 
 ### Statutory Notes
 
@@ -352,6 +412,8 @@ Said section has been divided. That part dealing with clothing allowance for cad
 Changes were made in phraseology. 81st Congress, House Report No. 557.
 
 #### Amendments
+2021—Pub. L. 116–283 substituted “of an initial” for “of his initial” and “from the pay of such cadet” for “from his pay”.
+
 2018—Pub. L. 115–282 renumbered [section 183 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section183&num=0&edition=prelim) as this section.
 
 1951—Act Aug. 22, 1951, substituted provision that the Secretary may prescribe the sum to be credited for the former prescribed sum of $250, and inserted second sentence.
@@ -411,7 +473,7 @@ The last sentence of this section is new as a statute; it makes statutory what h
 ## § 1941. Civilian teaching staff
 **(a)** The Secretary may appoint in the Coast Guard such number of civilian faculty members at the Academy as the needs of the Service may require. They shall have such titles and perform duties as prescribed by the Secretary. Leaves of absence and hours of work for civilian faculty members shall be governed by regulations promulgated by the Secretary, without regard to the provisions of title 5.
 
-**(b)** The compensation of persons employed under this section is as prescribed by the Secretary.
+**(b)** The compensation of individuals employed under this section is as prescribed by the Secretary.
 
 ### Statutory Notes
 
@@ -425,6 +487,8 @@ The last sentence of this section is new, being included in order to allow for a
 Changes were made in phraseology. 81st Congress, House Report No. 557.
 
 #### Amendments
+2021—Subsec. (b). Pub. L. 116–283 substituted “individuals” for “persons”.
+
 2018—Pub. L. 115–282 renumbered [section 186 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section186&num=0&edition=prelim) as this section.
 
 1976—Subsec. (a). Pub. L. 94–546 substituted “Leaves of absence and hours of work for civilian faculty members shall be governed by regulations promulgated by the Secretary, without regard to the provisions of title 5.” for “Leaves of absence and hours of work for such personnel shall be governed by regulations issued by the Secretary of the Treasury, without regard to section 84, chapter 18, subchapter IV of chapter 21, sections 1112, 1113, and 1121–1125, and chapter 23, of title 5.”

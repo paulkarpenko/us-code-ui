@@ -172,6 +172,8 @@ For provisions relating to treatment of certain Federal employees of Saint Eliza
 
 **(c)** Notwithstanding a notice previously given under subsection (b), an employee who is deployed in support of a contingency operation (as that term is defined in [section 101(a)(13) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section101/a/13&num=0&edition=prelim)) or an employee of the Department of Defense who is designated as an emergency essential employee under [section 1580 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1580&num=0&edition=prelim) shall be insured if the employee, within 60 days after the date of notification of deployment or designation, elects to be insured under a policy of insurance under this chapter. An election under the preceding sentence shall be effective when provided to the Office in writing, in the form prescribed by the Office, within such 60-day period.
 
+**(d)** Any services by an officer or employee under this chapter relating to benefits under this chapter shall be deemed, for purposes of [section 1342 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1342&num=0&edition=prelim), services for emergencies involving the safety of human life or the protection of property.
+
 ### Statutory Notes
 
 | Historical and Revision Notes |  |  |
@@ -184,14 +186,22 @@ In subsection (a), the words “eligible for insurance” are coextensive with a
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
 #### Amendments
+2019—Subsec. (d). Pub. L. 116–92 added subsec. (d).
+
 2008—Subsec. (c). Pub. L. 110–417 inserted “an employee who is deployed in support of a contingency operation (as that term is defined in [section 101(a)(13) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section101/a/13&num=0&edition=prelim)) or” after “subsection (b),” and substituted “the date of notification of deployment or” for “the date of the”.
 
 2000—Subsec. (c). Pub. L. 106–398 added subsec. (c).
 
 1978—Subsecs. (a), (b). Pub. L. 95–454 substituted “Office of Personnel Management” for “Civil Service Commission” and “Office” for “Commission”.
 
+#### Effective Date of 2019 Amendment
+Pub. L. 116–92, div. A, title XI, § 1110(d), Dec. 20, 2019, 133 Stat. 1600, provided that: “The amendments made by subsection[s] (a) and (b) [amending this section and [section 8905 of this title](./chapter-089-health-insurance.md#section-8905)] shall apply to any lapse in appropriations beginning on or after the date of enactment of this Act [Dec. 20, 2019].”
+
 #### Effective Date of 1978 Amendment
 Amendment by Pub. L. 95–454 effective 90 days after Oct. 13, 1978, see section 907 of Pub. L. 95–454, set out as a note under [section 1101 of this title](./chapter-011-office-of-personnel-management.md#section-1101).
+
+#### Regulations
+Pub. L. 116–92, div. A, title XI, § 1110(c), Dec. 20, 2019, 133 Stat. 1600, provided that: “(1) In general.—Not later than 90 days after the date of the enactment of this Act [Dec. 20, 2019], the Office of Personnel Management shall prescribe regulations to carry out the amendments made by subsections (a) and (b) [amending this section and [section 8905 of this title](./chapter-089-health-insurance.md#section-8905)]. “(2) Pay status for furloughed employees.—The regulations prescribed under paragraph (1) for the amendments made by subsection (a) [amending [section 8905 of this title](./chapter-089-health-insurance.md#section-8905)] shall provide that an employee furloughed as result of a lapse in appropriations shall, during such lapse, be deemed to be in a pay status for purposes of enrolling or changing the enrollment (as the case may be) of that employee under chapter 89 of title 5, United States Code.”
 
 #### Applicability
 Pub. L. 106–398, § 1 [[div. A], title XI, § 1134(b)], Oct. 30, 2000, 114 Stat. 1654, 1654A–318, provided that: “For purposes of [section 8702(c) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section8702/c&num=0&edition=prelim), United States Code (as added by subsection (a)), an employee of the Department of Defense who is designated as an emergency essential employee under [section 1580 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1580&num=0&edition=prelim), United States Code, before the date of the enactment of this Act [Oct. 30, 2000] shall be deemed to be so designated on the date of the enactment of this Act.”

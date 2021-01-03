@@ -1210,11 +1210,11 @@ Every association which shall have failed to pay up its capital stock, as requir
 #### Codification
 R.S. § 5205 derived from act Mar. 3, 1873, ch. 269, § 1, 17 Stat. 603.
 
-#### Transfer of Functions
-All functions of all officers of the Department of the Treasury, and all functions of all agencies and employees of such Department, were transferred, with certain exceptions, to the Secretary of the Treasury, with power vested in him to authorize their performance or the performance of any of his functions, by any of those officers, agencies, and employees, by 1950 Reorg. Plan No. 26, §§ 1, 2, eff. July 31, 1950, 15 F.R. 4935, 64 Stat. 1280, formerly set out in the Appendix to Title 5, Government Organization and Employees. See [section 321(c) of Title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section321/c&num=0&edition=prelim), Money and Finance. The Comptroller of the Currency and the Treasurer of the United States, both referred to in this section, are officers of the Treasury Department, but such Plan excepted, from the transfer, any function vested by law in the Comptroller of the Currency.
-
 #### Application to District of Columbia
 Provisions of this section were made applicable to banks, etc., in the District of Columbia by act Mar. 4, 1933, ch. 274, § 4, 47 Stat. 1567.
+
+#### Transfer of Functions
+All functions of all officers of the Department of the Treasury, and all functions of all agencies and employees of such Department, were transferred, with certain exceptions, to the Secretary of the Treasury, with power vested in him to authorize their performance or the performance of any of his functions, by any of those officers, agencies, and employees, by 1950 Reorg. Plan No. 26, §§ 1, 2, eff. July 31, 1950, 15 F.R. 4935, 64 Stat. 1280, formerly set out in the Appendix to Title 5, Government Organization and Employees. See [section 321(c) of Title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section321/c&num=0&edition=prelim), Money and Finance. The Comptroller of the Currency and the Treasurer of the United States, both referred to in this section, are officers of the Treasury Department, but such Plan excepted, from the transfer, any function vested by law in the Comptroller of the Currency.
 
 
 <a id="section-56"></a>
@@ -1628,7 +1628,7 @@ R.S. § 5201 derived from act June 3, 1864, ch. 106, § 35, 13 Stat. 110, which 
 
 (6) Loans or extensions of credit secured by a segregated deposit account in the lending bank shall not be subject to any limitation based on capital and surplus.
 
-(7) Loans or extensions of credit to any financial institution or to any receiver, conservator, superintendent of banks, or other agent in charge of the business and property of such financial institution, when such loans or extensions of credit are approved by the Comptroller of the Currency, shall not be subject to any limitation based on capital and surplus.
+(7) Loans or extensions of credit to any nonbank financial company (as that term is defined in [section 5311 of this title](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5311)), any financial institution, or to any receiver, conservator, superintendent of banks, or other agent in charge of the business and property of such financial institution, when such loans or extensions of credit are approved by the Comptroller of the Currency, shall not be subject to any limitation based on capital and surplus.
 
 (8)
 
@@ -1646,11 +1646,14 @@ R.S. § 5201 derived from act June 3, 1864, ch. 106, § 35, 13 Stat. 110, which 
 
 **(d) Authority of Comptroller of the Currency**
 
-(1) The Comptroller of the Currency may prescribe rules and regulations to administer and carry out the purposes of this section, including rules or regulations to define or further define terms used in this section and to establish limits or requirements other than those specified in this section for particular classes or categories of loans or extensions of credit.
+(1) The Comptroller of the Currency may prescribe rules and regulations to administer and carry out the purposes of this section, including rules or regulations to define or further define terms used in this section and to establish limits or requirements other than those specified in this section for particular classes or categories of loans or extensions of credit. The Comptroller of the Currency may, by order, exempt any transaction or series of transactions from the requirements of this section upon a finding by the Comptroller that such exemption is in the public interest and consistent with the purposes of this section.
 
 (2) The Comptroller of the Currency also shall have authority to determine when a loan putatively made to a person shall for purposes of this section be attributed to another person.
 
 ### Statutory Notes
+
+#### Amendment of Subsections (c)(7) and (d)(1)
+For termination of amendment by section 4011(a) of Pub. L. 116–136, see Effective and Termination Dates of 2020 Amendment note below.
 
 #### References in Text
 [Section 372 of this title](./chapter-003-federal-reserve-system.md#section-372), referred to in subsec. (c)(2), was in the original a reference to “section 13 of the Federal Reserve Act”. Provisions of section 13 describing bankers’ acceptances are classified to [section 372 of this title](./chapter-003-federal-reserve-system.md#section-372). Other provisions of section 13 are classified to sections 342 to 347, 347c, 347d of this title.
@@ -1659,6 +1662,10 @@ R.S. § 5201 derived from act June 3, 1864, ch. 106, § 35, 13 Stat. 110, which 
 R.S. § 5200 derived from act June 3, 1864, ch. 106, § 29, 13 Stat. 108, which was the National Bank Act. See [section 38 of this title](./chapter-002-national-banks.md#section-38).
 
 #### Amendments
+2020—Subsec. (c)(7). Pub. L. 116–136, § 4011(a)(1), temporarily inserted “any nonbank financial company (as that term is defined in [section 5311 of this title](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5311)),” after “Loans or extensions of credit to” and temporarily substituted “financial institution, or to” for “financial institution or to”.
+
+Subsec. (d)(1). Pub. L. 116–136, § 4011(a)(2), temporarily inserted at end “The Comptroller of the Currency may, by order, exempt any transaction or series of transactions from the requirements of this section upon a finding by the Comptroller that such exemption is in the public interest and consistent with the purposes of this section.”
+
 2010—Subsec. (b)(1). Pub. L. 111–203, § 610(a)(1), substituted “shall include—” for “shall include all direct or indirect advances of funds to a person made on the basis of any obligation of that person to repay the funds or repayable from specific property pledged by or on behalf of the person and, to the extent specified by the Comptroller of the Currency, such term shall also include any liability of a national banking association to advance funds to or on behalf of a person pursuant to a contractual commitment; and” and added subpars. (A) to (C).
 
 Subsec. (b)(3). Pub. L. 111–203, § 610(a)(2), (3), added par. (3).
@@ -1722,6 +1729,9 @@ Par. (13). Pub. L. 86–251, § 3(d), added par. (13).
 Par. (9). Act May 20, 1933, added par. (9).
 
 1927—Act Feb. 25, 1927, reenacted section, subdividing it into eight numbered exceptions.
+
+#### Effective and Termination Dates of 2020 Amendment
+Pub. L. 116–136, div. A, title IV, § 4011(b), Mar. 27, 2020, 134 Stat. 479, provided that: “This section, and the amendments made by this section [amending this section], shall be effective during the period beginning on the date of enactment of this Act [Mar. 27, 2020] and ending on the sooner of— “(1) the termination date of the national emergency concerning the novel coronavirus disease (COVID–19) outbreak declared by the President on March 13, 2020 under the National Emergencies Act ([50 U.S.C. 1601](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1601&num=0&edition=prelim) et seq.); or “(2) December 31, 2020.”
 
 #### Effective Date of 2010 Amendment
 Pub. L. 111–203, title VI, § 610(c), July 21, 2010, 124 Stat. 1612, provided that: “The amendments made by this section [amending this section and [section 1464 of this title](./chapter-012-savings-associations.md#section-1464)] shall take effect 1 year after the transfer date.”

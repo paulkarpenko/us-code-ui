@@ -21,7 +21,7 @@ In this chapter, the term “enlistment” means original enlistment or reenlist
 The revised section is inserted for clarity.
 
 #### Amendments
-2018—Pub. L. 115–232 renumbered [section 3251 of this title](./chapter-223-planning-and-solicitation-relating-to-particular-items-or-services.md#section-3251) as this section.
+2018—Pub. L. 115–232 renumbered [section 3251 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section3251&num=0&edition=prelim) as this section.
 
 1987—Pub. L. 100–180 inserted “, the term” after “In this chapter”.
 

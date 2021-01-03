@@ -154,14 +154,13 @@ Amendment by Pub. L. 105–368 effective on first day of first month beginning m
 
 (1) Subject to paragraph (2), effective as of December 31, 2009, the authorized number of judges of the Court specified in subsection (a) is increased by two.
 
-(2) Effective as of January 1, 2021, an appointment may not be made to the Court if the appointment would result in there being more judges of the Court than the authorized number of judges of the Court specified in subsection (a).
+(2) Effective as of January 1, 2026, an appointment may not be made to the Court if the appointment would result in there being more judges of the Court than the authorized number of judges of the Court specified in subsection (a).
 
 ### Statutory Notes
 
-#### Applicability of Amendment
-Amendment of section by section 204(a) of Pub. L. 114–315 applicable with respect to the selection of a chief judge occurring on or after Jan. 1, 2020. See 2016 Amendment notes below.
-
 #### Amendments
+2020—Subsec. (i)(2). Pub. L. 116–159 substituted “January 1, 2026” for “January 1, 2021”.
+
 2016—Subsec. (d)(1)(B), (C). Pub. L. 114–315, § 204(a)(1), added subpar. (B) and redesignated former subpar. (B) as (C).
 
 Subsec. (d)(2). Pub. L. 114–315, § 204(a)(2), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “In any case in which there is no judge of the Court in regular active service who has served as a judge of the Court for at least one year, the judge of the court in regular active service who is senior in commission and has not served previously as chief judge shall act as the chief judge.”

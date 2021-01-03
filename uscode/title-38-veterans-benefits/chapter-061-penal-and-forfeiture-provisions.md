@@ -106,11 +106,13 @@ Amendment by Pub. L. 92–328 effective June 30, 1972, see section 301(c) of Pub
 
 **(b)** The Secretary, in the Secretary’s discretion, may apportion and pay any part of benefits forfeited under subsection (a) to the dependents of the person forfeiting such benefits. No dependent of any person shall receive benefits by reason of this subsection in excess of the amount to which the dependent would be entitled if such person were dead.
 
-**(c)** In the case of any forfeiture under this section there shall be no authority after September 1, 1959 (1) to make an apportionment award pursuant to subsection (b) or (2) to make an award to any person of gratuitous benefits based on any period of military, naval, or air service commencing before the date of commission of the offense.
+**(c)** In the case of any forfeiture under this section there shall be no authority after September 1, 1959 (1) to make an apportionment award pursuant to subsection (b) or (2) to make an award to any person of gratuitous benefits based on any period of military, naval, air, or space service commencing before the date of commission of the offense.
 
 ### Statutory Notes
 
 #### Amendments
+2021—Subsec. (c). Pub. L. 116–283 substituted “air, or space service” for “or air service”.
+
 1991—Pub. L. 102–40 renumbered [section 3504 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section3504&num=0&edition=prelim) as this section.
 
 Subsec. (a). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator”.
@@ -130,7 +132,7 @@ Subsec. (b). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” f
 
 <a id="section-6105"></a>
 ## § 6105. Forfeiture for subversive activities
-**(a)** Any individual who is convicted after September 1, 1959, of any offense listed in subsection (b) of this section shall, from and after the date of commission of such offense, have no right to gratuitous benefits (including the right to burial in a national cemetery) under laws administered by the Secretary based on periods of military, naval, or air service commencing before the date of the commission of such offense and no other person shall be entitled to such benefits on account of such individual. After receipt of notice of the return of an indictment for such an offense the Secretary shall suspend payment of such gratuitous benefits pending disposition of the criminal proceedings. If any individual whose right to benefits has been terminated pursuant to this section is granted a pardon of the offense by the President of the United States, the right to such benefits shall be restored as of the date of such pardon.
+**(a)** Any individual who is convicted after September 1, 1959, of any offense listed in subsection (b) of this section shall, from and after the date of commission of such offense, have no right to gratuitous benefits (including the right to burial in a national cemetery) under laws administered by the Secretary based on periods of military, naval, air, or space service commencing before the date of the commission of such offense and no other person shall be entitled to such benefits on account of such individual. After receipt of notice of the return of an indictment for such an offense the Secretary shall suspend payment of such gratuitous benefits pending disposition of the criminal proceedings. If any individual whose right to benefits has been terminated pursuant to this section is granted a pardon of the offense by the President of the United States, the right to such benefits shall be restored as of the date of such pardon.
 
 **(b)** The offenses referred to in subsection (a) of this section are those offenses for which punishment is prescribed in—
 
@@ -147,6 +149,8 @@ Subsec. (b). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” f
 ### Statutory Notes
 
 #### Amendments
+2021—Subsec. (a). Pub. L. 116–283 substituted “air, or space service” for “or air service”.
+
 2003—Subsec. (b)(2). Pub. L. 108–183 inserted “175, 229,” after “sections” and “831, 1091, 2332a, 2332b,” after “798,”.
 
 2002—Subsec. (c). Pub. L. 107–296 substituted “of Homeland Security” for “of Transportation”.
@@ -211,21 +215,27 @@ Section applicable with respect to any determinations by the Secretary of Vetera
 
 **(b) Reissuance of Misused Benefits in Other Cases.—**
 
-(1) In any case in which a fiduciary described in paragraph (2) misuses all or part of an individual’s benefit paid to such fiduciary, the Secretary shall pay to the beneficiary or the beneficiary’s successor fiduciary an amount equal to the amount of such benefit so misused.
+(1) In any case not covered by subsection (a) in which a fiduciary misuses all or part of an individual’s benefit paid to such fiduciary, the Secretary shall pay to the beneficiary or the beneficiary’s successor fiduciary an amount equal to the amount of such benefit so misused.
 
-(2) Paragraph (1) applies to a fiduciary that—
-
-  (A) is not an individual; or
-
-  (B) is an individual who, for any month during a period when misuse occurs, serves 10 or more individuals who are beneficiaries under this title.
-
-(3) In any other case in which the Secretary obtains recoupment from a fiduciary who has misused benefits, the Secretary shall promptly remit payment of the recouped amounts to the beneficiary or the beneficiary’s successor fiduciary as the case may be.
+(2) In any other case in which the Secretary obtains recoupment from a fiduciary who has misused benefits, the Secretary shall promptly remit payment of the recouped amounts to the beneficiary or the beneficiary’s successor fiduciary as the case may be.
 
 **(c) Limitation on Total Amount Paid.—** The total of the amounts paid to a beneficiary (or a beneficiary’s successor fiduciary) under this section may not exceed the total benefit amount misused by the fiduciary with respect to that beneficiary.
 
 **(d) Recoupment of Amounts Reissued.—** In any case in which the Secretary reissues a benefit payment (in whole or in part) under subsection (a) or (b), the Secretary shall make a good faith effort to obtain recoupment from the fiduciary to whom the payment was originally made.
 
 ### Statutory Notes
+
+#### Amendments
+2021—Subsec. (b)(1). Pub. L. 116–315, § 7005(a)(1), substituted “In any case not covered by subsection (a) in which a fiduciary” for “In any case in which a fiduciary described in paragraph (2)”.
+
+Subsec. (b)(2), (3). Pub. L. 116–315, § 7005(a)(2), (3), redesignated par. (3) as (2) and struck out former par. (2) which read as follows: “Paragraph (1) applies to a fiduciary that—
+
+“(A) is not an individual; or
+
+“(B) is an individual who, for any month during a period when misuse occurs, serves 10 or more individuals who are beneficiaries under this title.”
+
+#### Effective Date of 2021 Amendment
+Pub. L. 116–315, title VII, § 7005(b), Jan. 5, 2021, 134 Stat. 5059, provided that: “The amendments made by subsection (a) [amending this section] shall apply with respect to any determination by the Secretary of Veterans Affairs made on or after the date of the enactment of this Act [Jan. 5, 2021] regarding the misuse of benefits by a fiduciary.”
 
 #### Effective Date
 Section applicable with respect to any determinations by the Secretary of Veterans Affairs made after Dec. 10, 2004, of misuse of funds by a fiduciary, see section 507(b)(2) of Pub. L. 108–454, set out as an Effective Date of 2004 Amendment note under [section 5312 of this title](./chapter-053-special-provisions-relating-to-benefits.md#section-5312).

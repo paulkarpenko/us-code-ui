@@ -2,7 +2,7 @@
 title: 25
 chapter: '46'
 heading: INDIAN SELF-DETERMINATION AND EDUCATION ASSISTANCE
-section_count: 70
+section_count: 79
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25&num=0&edition=prelim
 ---
@@ -476,6 +476,11 @@ Section was formerly classified to [section 458ddd–2 of this title](./chapter-
 #### Codification
 Section was formerly classified to [section 450 of this title](./chapter-014-miscellaneous.md#section-450) prior to editorial reclassification and renumbering as this section.
 
+#### Short Title of 2020 Amendment
+Pub. L. 116–260, div. DD, § 1, Dec. 27, 2020, 134 Stat. 3008, provided that: “This division [amending [section 5363 of this title](./chapter-046-indian-self-determination-and-education-assistance.md#section-5363) and repealing in part and omitting in part [section 671 of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section671&num=0&edition=prelim), Conservation] may be cited as the ‘Montana Water Rights Protection Act’.”
+
+Pub. L. 116–180, § 1(a), Oct. 21, 2020, 134 Stat. 857, provided that: “This Act [enacting sections 5364 to 5377 of this title, amending sections 5304, 5305, 5321, 5324, 5325, 5329, and 5361 to 5363 of this title, repealing sections 5364 to 5368 of this title, and enacting provisions set out as notes under sections 5305 and 5361 of this title] may be cited as the ‘Practical Reforms and Other Goals To Reinforce the Effectiveness of Self-Governance and Self-Determination for Indian Tribes Act of 2019’ or the ‘PROGRESS for Indian Tribes Act’.”
+
 #### Short Title of 2018 Amendment
 Pub. L. 115–404, § 1, Dec. 31, 2018, 132 Stat. 5349, provided that: “This Act [enacting [section 5348 of this title](./chapter-046-indian-self-determination-and-education-assistance.md#section-5348)] may be cited as the ‘Johnson-O’Malley Supplemental Indian Education Program Modernization Act’.”
 
@@ -840,7 +845,7 @@ For purposes of this chapter, the term—
 
 **(d)** “Indian” means a person who is a member of an Indian tribe;
 
-**(e)** “Indian tribe” means any Indian tribe, band, nation, or other organized group or community, including any Alaska Native village or regional or village corporation as defined in or established pursuant to the Alaska Native Claims Settlement Act (85 Stat. 688) [[43 U.S.C. 1601](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1601&num=0&edition=prelim) et seq.], which is recognized as eligible for the special programs and services provided by the United States to Indians because of their status as Indians;
+**(e)** “Indian tribe” or “Indian Tribe” means any Indian tribe, band, nation, or other organized group or community, including any Alaska Native village or regional or village corporation as defined in or established pursuant to the Alaska Native Claims Settlement Act (85 Stat. 688) [[43 U.S.C. 1601](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1601&num=0&edition=prelim) et seq.], which is recognized as eligible for the special programs and services provided by the United States to Indians because of their status as Indians;
 
 **(f)** “indirect costs” means costs incurred for a common or joint purpose benefiting more than one contract objective, or which are not readily assignable to the contract objectives specifically benefited without effort disproportionate to the results achieved;
 
@@ -850,11 +855,15 @@ For purposes of this chapter, the term—
 
 **(i)** “Secretary”, unless otherwise designated, means either the Secretary of Health and Human Services or the Secretary of the Interior or both;
 
-**(j)** “self-determination contract” means a contract (or grant or cooperative agreement utilized under [section 5308 of this title](./chapter-046-indian-self-determination-and-education-assistance.md#section-5308)) entered into under subchapter I of this chapter between a tribal organization and the appropriate Secretary for the planning, conduct and administration of programs or services which are otherwise provided to Indian tribes and their members pursuant to Federal law: Provided, That except as provided 11 So in original. Probably should be “provided in”. the last proviso in section 5324(a) 22 See References in Text note below. of this title, no contract (or grant or cooperative agreement utilized under [section 5308 of this title](./chapter-046-indian-self-determination-and-education-assistance.md#section-5308)) entered into under subchapter I of this chapter shall be construed to be a procurement contract;
+**(j)** “self-determination contract” means a contract entered into under subchapter I (or a grant or cooperative agreement used under [section 5308 of this title](./chapter-046-indian-self-determination-and-education-assistance.md#section-5308)) between a Tribal organization and the appropriate Secretary for the planning, conduct, and administration of programs or services that are otherwise provided to Indian Tribes and members of Indian Tribes pursuant to Federal law, subject to the condition that, except as provided in [section 5324(a)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5324/a/3&num=0&edition=prelim), no contract entered into under subchapter I (or grant or cooperative agreement used under [section 5308 of this title](./chapter-046-indian-self-determination-and-education-assistance.md#section-5308)) shall be—
+
+(1) considered to be a procurement contract; or
+
+(2) except as provided in [section 5328(a)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5328/a/1&num=0&edition=prelim), subject to any Federal procurement law (including regulations);
 
 **(k)** “State education agency” means the State board of education or other agency or officer primarily responsible for supervision by the State of public elementary and secondary schools, or, if there is no such officer or agency, an officer or agency designated by the Governor or by State law;
 
-**(l)** “tribal organization” means the recognized governing body of any Indian tribe; any legally established organization of Indians which is controlled, sanctioned, or chartered by such governing body or which is democratically elected by the adult members of the Indian community to be served by such organization and which includes the maximum participation of Indians in all phases of its activities: Provided, That in any case where a contract is let or grant made to an organization to perform services benefiting more than one Indian tribe, the approval of each such Indian tribe shall be a prerequisite to the letting or making of such contract or grant; and
+**(l)** “Tribal organization” or “tribal organization” means the recognized governing body of any Indian tribe; any legally established organization of Indians which is controlled, sanctioned, or chartered by such governing body or which is democratically elected by the adult members of the Indian community to be served by such organization and which includes the maximum participation of Indians in all phases of its activities: Provided, That in any case where a contract is let or grant made to an organization to perform services benefiting more than one Indian tribe, the approval of each such Indian tribe shall be a prerequisite to the letting or making of such contract or grant; and
 
 **(m)** “construction contract” means a fixed-price or cost-reimbursement self-determination contract for a construction project, except that such term does not include any contract—
 
@@ -871,14 +880,18 @@ This chapter, referred to in text, was in the original “this Act”, meaning P
 
 The Alaska Native Claims Settlement Act, referred to in subsec. (e), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, which is classified generally to chapter 33 (§ 1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under [section 1601 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1601&num=0&edition=prelim), and Tables.
 
-Subchapter I of this chapter, referred to in subsec. (j), was in the original “title I of this act”, meaning title I of Pub. L. 93–638, known as the Indian Self-Determination Act, which is classified principally to subchapter I (§ 5321 et seq.) of this chapter. For complete classification of title I to the Code, see Short Title note set out under [section 5301 of this title](./chapter-046-indian-self-determination-and-education-assistance.md#section-5301) and Tables.
-
-[Section 5324(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5324/a&num=0&edition=prelim), referred to in subsec. (j), was repealed and a new subsec. (a) of section 5324 was added by Pub. L. 103–413, title I, § 102(10), Oct. 25, 1994, 108 Stat. 4253, which does not contain provisos.
+Subchapter I, referred to in subsec. (j), was in the original “title I”, meaning title I of Pub. L. 93–638, known as the Indian Self-Determination Act, which is classified principally to subchapter I (§ 5321 et seq.) of this chapter. For complete classification of title I to the Code, see Short Title note set out under [section 5301 of this title](./chapter-046-indian-self-determination-and-education-assistance.md#section-5301) and Tables.
 
 #### Codification
 Section was formerly classified to [section 450b of this title](./chapter-014-miscellaneous.md#section-450b) prior to editorial reclassification and renumbering as this section.
 
 #### Amendments
+2020—Subsec. (e). Pub. L. 116–180, § 201(a)(2)(A), substituted “ ‘Indian tribe’ or ‘Indian Tribe’ means” for “ ‘Indian tribe’ means”.
+
+Subsec. (j). Pub. L. 116–180, § 201(a)(1), added subsec. (j) and struck out former subsec. (j) which defined “self-determination contract”.
+
+Subsec. (l). Pub. L. 116–180, § 201(a)(2)(B), substituted “ ‘Tribal organization’ or ‘tribal organization’ means” for “ ‘tribal organization’ means”.
+
 1994—Subsec. (g). Pub. L. 103–413, § 102(1)(A), substituted “indirect cost rate” for “indirect costs rate”.
 
 Subsec. (m). Pub. L. 103–413, § 102(1)(B)–(D), added subsec. (m).
@@ -916,7 +929,7 @@ Subsec. (j). Pub. L. 100–581, § 208(b), substituted “the Secretary for the 
 
 (2) For the purposes of this subsection, such records for a mature contract shall consist of quarterly financial statements for the purpose of accounting for Federal funds, the annual single-agency audit required by chapter 75 of title 31 11 So in original. Probably should be followed by a comma. and a brief annual program report.
 
-**(b) Access to books, documents, papers, and records for audit and examination by Comptroller General, etc.** The Comptroller General and the appropriate Secretary, or any of their duly authorized representatives, shall, until the expiration of three years after completion of the project or undertaking referred to in the preceding subsection of this section, have access (for the purpose of audit and examination) to any books, documents, papers, and records of such recipients which in the opinion of the Comptroller General or the appropriate Secretary may be related or pertinent to the grants, contracts, subcontracts, subgrants, or other arrangements referred to in the preceding subsection.
+**(b) Access to books, documents, papers, and records for audit and examination by Comptroller General, etc.** The Comptroller General and the appropriate Secretary, or any of their duly authorized representatives, shall, until the expiration of three years after the retention period for the report that is submitted to the Secretary under subsection (a), have access (for the purpose of audit and examination) to any books, documents, papers, and records of such recipients which in the opinion of the Comptroller General or the appropriate Secretary may be related or pertinent to the grants, contracts, subcontracts, subgrants, or other arrangements referred to in the preceding subsection. The retention period shall be defined in regulations promulgated by the Secretary pursuant to [section 5373 of this title](./chapter-046-indian-self-determination-and-education-assistance.md#section-5373).
 
 **(c) Availability by recipient of required reports and information to Indian people served or represented** Each recipient of Federal financial assistance referred to in subsection (a) of this section shall make such reports and information available to the Indian people served or represented by such recipient as and in a manner determined to be adequate by the appropriate Secretary.
 
@@ -934,6 +947,9 @@ Subsec. (j). Pub. L. 100–581, § 208(b), substituted “the Secretary for the 
 
 ### Statutory Notes
 
+#### Amendment of Subsection (f)(1)
+Pub. L. 116–180, title II, § 201(b)(2), (c), Oct. 21, 2020, 134 Stat. 879, provided that, effective 14 months after Oct. 21, 2020, subsection (f)(1) of this section is amended by inserting “if the Indian Tribal organization expends $500,000 or more in Federal awards during such fiscal year” after “under this chapter,”. See 2020 Amendment note below.
+
 #### References in Text
 This chapter, referred to in subsecs. (a)(1) and (f)(1), was in the original “this Act”, meaning Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, known as the Indian Self-Determination and Education Assistance Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 5301 of this title](./chapter-046-indian-self-determination-and-education-assistance.md#section-5301) and Tables.
 
@@ -943,6 +959,10 @@ This chapter, referred to in subsecs. (a)(1) and (f)(1), was in the original “
 Section was formerly classified to [section 450c of this title](./chapter-014-miscellaneous.md#section-450c) prior to editorial reclassification and renumbering as this section.
 
 #### Amendments
+2020—Subsec. (b). Pub. L. 116–180, § 201(b)(1), substituted “after the retention period for the report that is submitted to the Secretary under subsection (a)” for “after completion of the project or undertaking referred to in the preceding subsection of this section” and inserted at end “The retention period shall be defined in regulations promulgated by the Secretary pursuant to [section 5373 of this title](./chapter-046-indian-self-determination-and-education-assistance.md#section-5373).”
+
+Subsec. (f)(1). Pub. L. 116–180, § 201(b)(2), inserted “if the Indian Tribal organization expends $500,000 or more in Federal awards during such fiscal year” after “under this chapter,”.
+
 1994—Subsec. (f). Pub. L. 103–413 added subsec. (f) and struck out former subsec. (f) which read as follows: “For each fiscal year during which an Indian tribal organization receives or expends funds pursuant to a contract or grant under this chapter, the Indian tribe which requested such contract or grant shall submit to the appropriate Secretary a report including, but not limited to, an accounting of the amounts and purposes for which Federal funds were expended, information on the conduct of the program or service involved, and such other information as the appropriate Secretary may request through regulations promulgated under sections 552 and 553 of title 5.”
 
 1990—Subsec. (a)(2). Pub. L. 101–301 substituted “chapter 75 of title 31” for “the Single Audit Act of 1984 (98 Stat. 2327, [31 U.S.C. 7501](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section7501&num=0&edition=prelim) et seq.),”.
@@ -956,6 +976,9 @@ Subsec. (e). Pub. L. 100–581 substituted “to each tribe” for “to tribes�
 Pub. L. 100–472, § 104(b), added subsec. (e).
 
 Subsec. (f). Pub. L. 100–472, § 208, redesignated former section 450l of this title as subsec. (f) of this section and inserted “through regulations promulgated under sections 552 and 553 of title 5”.
+
+#### Effective Date of 2020 Amendment
+Pub. L. 116–180, title II, § 201(c), Oct. 21, 2020, 134 Stat. 879, provided that: “The amendment made by subsection (b)(2) [amending this section] shall not take effect until 14 months after the date of enactment of this Act [Oct. 21, 2020].”
 
 
 <a id="section-5326"></a>
@@ -1105,7 +1128,7 @@ Pub. L. 104–134, title I, § 101(c) [title III, § 310], Apr. 26, 1996, 110 St
 
 (1) Beginning in 1990, the Secretary shall be responsible for obtaining or providing liability insurance or equivalent coverage, on the most cost-effective basis, for Indian tribes, tribal organizations, and tribal contractors carrying out contracts, grant agreements and cooperative agreements pursuant to this chapter. In obtaining or providing such coverage, the Secretary shall take into consideration the extent to which liability under such contracts or agreements are covered by the Federal Tort Claims Act.
 
-(2) In obtaining or providing such coverage, the Secretary shall, to the greatest extent practicable, give a preference to coverage underwritten by Indian-owned economic enterprises as defined in [section 1452 of this title](./chapter-017-financing-economic-development-of-indians-and-indian-organizations.md#section-1452), except that, for the purposes of this subsection, such enterprises may include non-profit corporations.
+(2) In obtaining or providing such coverage, the Secretary shall, to the greatest extent practicable, give a preference to coverage underwritten by Indian-owned economic enterprises (as defined in [section 1452 of this title](./chapter-017-financing-economic-development-of-indians-and-indian-organizations.md#section-1452)), except that, for the purposes of this subsection, such enterprises may include non-profit corporations.
 
 (3)
 
@@ -1125,6 +1148,18 @@ Pub. L. 104–134, title I, § 101(c) [title III, § 310], Apr. 26, 1996, 110 St
 
   (B) by an administrative judge.
 
+**(f) Good faith requirement** In the negotiation of contracts and funding agreements, the Secretary shall—
+
+(1) at all times negotiate in good faith to maximize implementation of the self-determination policy; and
+
+(2) carry out this chapter in a manner that maximizes the policy of Tribal self-determination, in a manner consistent with—
+
+  (A) the purposes specified in [section 5302 of this title](./chapter-046-indian-self-determination-and-education-assistance.md#section-5302); and
+
+  (B) the PROGRESS for Indian Tribes Act.
+
+**(g) Rule of construction** Subject to section 101(a) of the PROGRESS for Indian Tribes Act, each provision of this chapter and each provision of a contract or funding agreement shall be liberally construed for the benefit of the Indian Tribe participating in self-determination, and any ambiguity shall be resolved in favor of the Indian Tribe.
+
 ### Statutory Notes
 
 #### References in Text
@@ -1132,9 +1167,13 @@ Act of April 16, 1934, referred to in subsec. (a)(1)(A), is act Apr. 16, 1934, c
 
 Act of August 5, 1954, referred to in subsec. (a)(1)(C), is act Aug. 5, 1954, ch. 658, 68 Stat. 674, which is classified generally to subchapter I (§ 2001 et seq.) of chapter 22 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Tables.
 
-This chapter, referred to in subsec. (c)(1), was in the original “this Act”, meaning Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, known as the Indian Self-Determination and Education Assistance Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 5301 of this title](./chapter-046-indian-self-determination-and-education-assistance.md#section-5301) and Tables.
+This chapter, referred to in subsecs. (c)(1), (f)(2), and (g), was in the original “this Act”, meaning Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, known as the Indian Self-Determination and Education Assistance Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 5301 of this title](./chapter-046-indian-self-determination-and-education-assistance.md#section-5301) and Tables.
 
 The Federal Tort Claims Act, referred to in subsec. (c)(1), is title IV of act Aug. 2, 1946, ch. 753, 60 Stat. 842, which was classified principally to chapter 20 (§§ 921, 922, 931–934, 941–946) of former Title 28, Judicial Code and Judiciary. Title IV of act Aug. 2, 1946, was substantially repealed and reenacted as sections 1346(b) and 2671 et seq. of Title 28, Judiciary and Judicial Procedure, by act June 25, 1948, ch. 646, 62 Stat. 992, the first section of which enacted Title 28. The Federal Tort Claims Act is also commonly used to refer to chapter 171 of Title 28, Judiciary and Judicial Procedure. For complete classification of title IV to the Code, see Tables. For distribution of former sections of Title 28 into the revised Title 28, see Table at the beginning of Title 28.
+
+The PROGRESS for Indian Tribes Act, referred to in subsec. (f)(2)(B), is Pub. L. 116–180, Oct. 21, 2020, 134 Stat. 857, also known as the Practical Reforms and Other Goals To Reinforce the Effectiveness of Self-Governance and Self-Determination for Indian Tribes Act of 2019. For complete classification of this Act to the Code, see Short Title of 2020 Amendment note set out under [section 5301 of this title](./chapter-046-indian-self-determination-and-education-assistance.md#section-5301) and Tables.
+
+Section 101(a) of the PROGRESS for Indian Tribes Act, referred to in subsec. (g), is section 101(a) of Pub. L. 116–180, which is set out as a note under [section 5361 of this title](./chapter-046-indian-self-determination-and-education-assistance.md#section-5361).
 
 #### Codification
 Except as provided below, section was formerly classified to [section 450f of this title](./chapter-014-miscellaneous.md#section-450f) prior to editorial reclassification and renumbering as this section.
@@ -1142,6 +1181,10 @@ Except as provided below, section was formerly classified to [section 450f of th
 Subsec. (d) of this section was formerly classified to the last sentence of subsec. (c) of former [section 450g of this title](./chapter-014-miscellaneous.md#section-450g) prior to redesignation as subsec. (d) of former [section 450f of this title](./chapter-014-miscellaneous.md#section-450f) by Pub. L. 100–472, § 201(b)(1), and editorial reclassification and renumbering of former [section 450f of this title](./chapter-014-miscellaneous.md#section-450f) as this section. See 1988 Amendment note below.
 
 #### Amendments
+2020—Subsec. (c)(2). Pub. L. 116–180, § 202(1), substituted “economic enterprises (as defined in [section 1452 of this title](./chapter-017-financing-economic-development-of-indians-and-indian-organizations.md#section-1452)), except that” for “economic enterprises as defined in [section 1452 of this title](./chapter-017-financing-economic-development-of-indians-and-indian-organizations.md#section-1452), except that”.
+
+Subsecs. (f), (g). Pub. L. 116–180, § 202(2), added subsecs. (f) and (g).
+
 2000—Subsec. (e)(1). Pub. L. 106–260 inserted “or any civil action conducted pursuant to [section 5331(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5331/a&num=0&edition=prelim)” after “subsection (b)(3) of this section”.
 
 1994—Subsec. (a)(1). Pub. L. 103–413, § 102(5), inserted concluding provisions.
@@ -1351,7 +1394,7 @@ Pub. L. 101–644, title II, § 203(g)(2), Nov. 29, 1990, 104 Stat. 4666, provid
 #### Codification
 Section was formerly classified to [section 450i of this title](./chapter-014-miscellaneous.md#section-450i) prior to editorial reclassification and renumbering as this section.
 
-Section is comprised of section 104 of Pub. L. 93–638. Subsecs. (a) to (d) of section 104 of Pub. L. 93–638 are classified to [section 3371 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section3371&num=0&edition=prelim), Government Organization and Employees, [section 2004b of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2004b&num=0&edition=prelim), The Public Health and Welfare, [section 456 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section456&num=0&edition=prelim), Appendix, War and National Defense, and [section 4762 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4762&num=0&edition=prelim), respectively. Subsecs. (k) and (l) of section 104 of Pub. L. 93–638 are classified to [section 3372 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section3372&num=0&edition=prelim).
+Section is comprised of section 104 of Pub. L. 93–638. Subsecs. (a) to (d) of section 104 of Pub. L. 93–638 are classified to [section 3371 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section3371&num=0&edition=prelim), Government Organization and Employees, [section 2004b of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2004b&num=0&edition=prelim), The Public Health and Welfare, [section 3806 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3806&num=0&edition=prelim), War and National Defense, and [section 4762 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4762&num=0&edition=prelim), respectively. Subsecs. (k) and (l) of section 104 of Pub. L. 93–638 are classified to [section 3372 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section3372&num=0&edition=prelim).
 
 #### Prior Provisions
 A prior section 104 of Pub. L. 93–638 was renumbered section 103 by Pub. L. 100–472 and is classified to [section 5322 of this title](./chapter-046-indian-self-determination-and-education-assistance.md#section-5322).
@@ -1561,6 +1604,24 @@ as based on the cost of comparable private rental housing in the nearest establi
 
 (2) **Treatment of records** — Patient records that are deemed to be Federal records under those provisions of title 44 that are commonly referred to as the “Federal Records Act of 1950” pursuant to this subsection shall not be considered Federal records for the purposes of chapter 5 of title 5.
 
+**(p) Interpretation by Secretary** Except as otherwise provided by law, the Secretary shall interpret all Federal laws (including regulations) and Executive orders in a manner that facilitates, to the maximum extent practicable—
+
+(1) the inclusion in self-determination contracts and funding agreements of—
+
+  (A) applicable programs, services, functions, and activities (or portions thereof); and
+
+  (B) funds associated with those programs, services, functions, and activities;
+
+(2) the implementation of self-determination contracts and funding agreements; and
+
+(3) the achievement of Tribal health objectives.
+
+**(q) Technical assistance for internal controls**
+
+(1) **Technical Assistance for Internal Controls.—** — 33 So in original. The heading of par. (1) was probably meant for subsec. (q), the heading of which was editorially supplied. In considering proposals for, amendments to, or in the course of, a contract under this subchapter and compacts under subchapters IV and V of this chapter, if the Secretary determines that the Indian Tribe lacks adequate internal controls necessary to manage the contracted program or programs, the Secretary shall, as soon as practicable, provide the necessary technical assistance to assist the Indian Tribe in developing adequate internal controls. As part of that technical assistance, the Secretary and the Tribe shall develop a plan for assessing the subsequent effectiveness of such technical assistance. The inability of the Secretary to provide technical assistance or lack of a plan under this subsection shall not result in the reassumption of an existing agreement, contract, or compact, or declination or rejection of a new agreement, contract, or compact.
+
+(2) The Secretary shall prepare a report to be included in the information required for the reports under sections 5372(b)(2)(A) and 5394(b)(2)(A) of this title. The Secretary shall include in this report, in the aggregate, a description of the internal controls that were inadequate, the technical assistance provided, and a description of Secretarial actions taken to address any remaining inadequate internal controls after the provision of technical assistance and implementation of the plan required by paragraph (1).
+
 ### Statutory Notes
 
 #### References in Text
@@ -1574,7 +1635,7 @@ The Small Business Act, referred to in subsec. (a)(3)(C)(ii)(X), is Pub. L. 85�
 
 Executive Order Nos. 12138, 11246, 11701 and 11758, referred to in subsec. (a)(3)(C)(ii)(XI), are Ex. Ord. No. 12138, May 18, 1979, 44 F.R. 29637, which is set out as a note under [section 631 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section631&num=0&edition=prelim), Commerce and Trade, Ex. Ord. No. 11246, Sept. 24, 1965, 30 F.R. 12319, which is set out as a note under [section 2000e of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2000e&num=0&edition=prelim), The Public Health and Welfare, Ex. Ord. No. 11701, Jan. 24, 1973, 38 F.R. 2675, which is set out as a note under [section 4212 of Title 38](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section4212&num=0&edition=prelim), Veterans’ Benefits, and Ex. Ord. No. 11758, Jan. 15, 1974, 39 F.R. 2075, which is set out as a note under [section 701 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section701&num=0&edition=prelim), Labor.
 
-This subchapter, referred to in subsecs. (b) and (i)(2), was in the original “this title”, meaning title I of Pub. L. 93–638, known as the Indian Self-Determination Act, which is classified principally to this subchapter (§ 5321 et seq.). For complete classification of title I to the Code, see Short Title note set out under [section 5301 of this title](./chapter-046-indian-self-determination-and-education-assistance.md#section-5301) and Tables.
+This subchapter, referred to in subsecs. (b), (i)(2) and (q)(1), was in the original “this title”, meaning title I of Pub. L. 93–638, known as the Indian Self-Determination Act, which is classified principally to this subchapter (§ 5321 et seq.). For complete classification of title I to the Code, see Short Title note set out under [section 5301 of this title](./chapter-046-indian-self-determination-and-education-assistance.md#section-5301) and Tables.
 
 Section 314 of the Department of the Interior and Related Agencies Appropriations Act, 1991, referred to in subsec. (m)(1)(B), is section 314 of Pub. L. 101–512, which is set out as a note under [section 5321 of this title](./chapter-046-indian-self-determination-and-education-assistance.md#section-5321).
 
@@ -1605,6 +1666,10 @@ In subsec. (k), “[section 501 of title 40](https://uscode.house.gov/view.xhtml
 A prior section 105 of Pub. L. 93–638 was renumbered section 104 by Pub. L. 100–472 and is classified to [section 5323 of this title](./chapter-046-indian-self-determination-and-education-assistance.md#section-5323).
 
 #### Amendments
+2020—Subsec. (b). Pub. L. 116–180, § 203(1), substituted reference to sections 5321 and 5322 of this title for reference to [section 5321 of this title](./chapter-046-indian-self-determination-and-education-assistance.md#section-5321), former section 103 of Pub. L. 93–638, or [section 5322 of this title](./chapter-046-indian-self-determination-and-education-assistance.md#section-5322). For disposition of former section 103 of Pub. L. 93–638, see Prior Provisions note set out under [section 5322 of this title](./chapter-046-indian-self-determination-and-education-assistance.md#section-5322).
+
+Subsecs. (p), (q). Pub. L. 116–180, § 203(2), added subsecs. (p) and (q).
+
 2000—Subsec. (k). Pub. L. 106–260, § 7, substituted “deemed an executive agency and part of the Indian Health Service” for “deemed an executive agency” and inserted at end “For purposes of carrying out such contract, grant, or agreement, the Secretary shall, at the request of an Indian tribe, enter into an agreement for the acquisition, on behalf of the Indian tribe, of any goods, services, or supplies available to the Secretary from the General Services Administration or other Federal agencies that are not directly available to the Indian tribe under this section or under any other Federal law, including acquisitions from prime vendors. All such acquisitions shall be undertaken through the most efficient and speedy means practicable, including electronic ordering arrangements.”
 
 Subsec. (o). Pub. L. 106–260, § 8, added subsec. (o).
@@ -1635,7 +1700,7 @@ Subsec. (f)(2), (3). Pub. L. 101–644, § 203(e), inserted “or real” after 
 
 1988—Subsec. (a). Pub. L. 100–472, § 204(b), (c), substituted reference to [section 5321 of this title](./chapter-046-indian-self-determination-and-education-assistance.md#section-5321) for reference to [section 5321 of this title](./chapter-046-indian-self-determination-and-education-assistance.md#section-5321) and former section 103 of Pub. L. 93–638 and inserted proviso relating to nonapplication of Office of Federal Procurement Policy Act to self-determination contracts. See Prior Provisions note set out under [section 5322 of this title](./chapter-046-indian-self-determination-and-education-assistance.md#section-5322).
 
-Subsec. (b). Pub. L. 100–472, § 204(d), which directed the amendment of subsec. (b) by substituting reference to sections 5321 and 5322 of this title for reference to [section 5321 of this title](./chapter-046-indian-self-determination-and-education-assistance.md#section-5321), former section 103 of Pub. L. 93–638, and [section 5322 of this title](./chapter-046-indian-self-determination-and-education-assistance.md#section-5322), was executed by substituting the new language for reference to [section 5321 of this title](./chapter-046-indian-self-determination-and-education-assistance.md#section-5321), former section 103 of Pub. L. 93–638, or [section 5322 of this title](./chapter-046-indian-self-determination-and-education-assistance.md#section-5322), to reflect the probable intent of Congress. See Prior Provisions note set out under [section 5322 of this title](./chapter-046-indian-self-determination-and-education-assistance.md#section-5322).
+Subsec. (b). Pub. L. 100–472, § 204(d), which directed the amendment of subsec. (b) by substituting reference to sections 5321 and 5322 of this title for text in original Act reading “sections 102, 103, and 104”, could not be executed because text enacted by Pub. L. 93–638 read “section 102, 103, or 104”. Intended amendment was reenacted by Pub. L. 116–180, § 203(1), see 2020 Amendment note above.
 
 Subsec. (c). Pub. L. 100–472, § 204(e), added subsec. (c) and struck out former subsec. (c) which related to limitation on term of any contract requested by a tribe pursuant to [section 5321 of this title](./chapter-046-indian-self-determination-and-education-assistance.md#section-5321) and former section 103 of Pub. L. 93–638 and annual renegotiation of amounts. See Prior Provisions note set out under [section 5322 of this title](./chapter-046-indian-self-determination-and-education-assistance.md#section-5322).
 
@@ -1669,12 +1734,14 @@ Pub. L. 105–277, div. A, § 101(e) [title I], Oct. 21, 1998, 112 Stat. 2681–
 
   (A) The contract support costs that are eligible costs for the purposes of receiving funding under this chapter shall include the costs of reimbursing each tribal contractor for reasonable and allowable costs of—
 
-    (i) direct program expenses for the operation of the Federal program that is the subject of the contract, and
+    (i) direct program expenses for the operation of the Federal program that is the subject of the contract; and
 
-    (ii) any additional administrative or other expense related to the overhead incurred by the tribal contractor in connection with the operation of the Federal program, function, service, or activity pursuant to the contract,
+    (ii) any additional administrative or other expense incurred by the governing body of the Indian Tribe or Tribal organization and any overhead expense incurred by the tribal contractor in connection with the operation of the Federal program, function, service, or activity pursuant to the contract,
     except that such funding shall not duplicate any funding provided under subsection (a)(1) of this section.
 
-  (B) On an annual basis, during such period as a tribe or tribal organization operates a Federal program, function, service, or activity pursuant to a contract entered into under this chapter, the tribe or tribal organization shall have the option to negotiate with the Secretary the amount of funds that the tribe or tribal organization is entitled to receive under such contract pursuant to this paragraph.
+  (B) In calculating the reimbursement rate for expenses described in subparagraph (A)(ii), not less than 50 percent of the expenses described in subparagraph (A)(ii) that are incurred by the governing body of an Indian Tribe or Tribal organization relating to a Federal program, function, service, or activity carried out pursuant to the contract shall be considered to be reasonable and allowable.
+
+  (C) On an annual basis, during such period as a tribe or tribal organization operates a Federal program, function, service, or activity pursuant to a contract entered into under this chapter, the tribe or tribal organization shall have the option to negotiate with the Secretary the amount of funds that the tribe or tribal organization is entitled to receive under such contract pursuant to this paragraph.
 
 (4) For each fiscal year during which a self-determination contract is in effect, any savings attributable to the operation of a Federal program, function, service, or activity under a self-determination contract by a tribe or tribal organization (including a cost reimbursement construction contract) shall—
 
@@ -1799,6 +1866,10 @@ Section was formerly classified to [section 450j–1 of this title](./chapter-01
 A prior section 106 of Pub. L. 93–638 was renumbered section 105 by Pub. L. 100–472 and is classified to [section 5324 of this title](./chapter-046-indian-self-determination-and-education-assistance.md#section-5324).
 
 #### Amendments
+2020—Subsec. (a)(3)(A). Pub. L. 116–180, § 204(1), substituted “; and” for “, and” in cl. (i) and “expense incurred by the governing body of the Indian Tribe or Tribal organization and any overhead expense incurred” for “expense related to the overhead incurred” in cl. (ii).
+
+Subsec. (a)(3)(B), (C). Pub. L. 116–180, § 204(2), (3), added subpar. (B) and redesignated former subpar. (B) as (C).
+
 2000—Subsecs. (c) to (o). Pub. L. 106–260 added subsec. (c) and redesignated former subsecs. (c) to (n) as (d) to (o), respectively.
 
 1998—Subsecs. (c) to (o). Pub. L. 105–362 redesignated subsecs. (d) to (o) as (c) to (n), respectively, and struck out former subsec. (c) which related to Secretary’s annual report to Congress on implementation of this chapter.
@@ -1975,7 +2046,7 @@ Pub. L. 104–287, § 6(e), Oct. 11, 1996, 110 Stat. 3399, provided that: “Eff
 
 (1) contain, or incorporate by reference, the provisions of the model agreement described in subsection (c) of this section (with modifications where indicated and the blanks appropriately filled in), and
 
-(2) contain such other provisions as are agreed to by the parties.
+(2) subject to subsections (a) and (b) of [section 5321 of this title](./chapter-046-indian-self-determination-and-education-assistance.md#section-5321), contain such other provisions as are agreed to by the parties.
 
 **(b) Payments; Federal records** Notwithstanding any other provision of law, the Secretary may make payments pursuant to section 1(b)(6) of such model agreement. As provided in section 1(b)(7) of the model agreement, the records of the tribal government or tribal organization specified in such section shall not be considered Federal records for purposes of chapter 5 of title 5.
 
@@ -2003,6 +2074,12 @@ Section was formerly classified to section 450l of this title prior to editorial
 A prior section 108 of Pub. L. 93–638 was renumbered section 5(f) and was classified to [section 450c(f) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section450c/f&num=0&edition=prelim) prior to editorial reclassification as [section 5305(f) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5305/f&num=0&edition=prelim).
 
 #### Amendments
+2020—Subsec. (a)(2). Pub. L. 116–180, § 205(1), inserted “subject to subsections (a) and (b) of [section 5321 of this title](./chapter-046-indian-self-determination-and-education-assistance.md#section-5321),” before “contain”.
+
+Subsec. (c). Pub. L. 116–180, § 205(3), substituted “two performance monitoring visits” for “one performance monitoring visit” in the introductory provisions of section 1(b)(7)(C) of the provisions setting out the model agreement.
+
+Pub. L. 116–180, § 205(2), inserted “subject to subsections (a) and (b) of section 102 of the Indian Self-Determination and Education Assistance Act ([25 U.S.C. 5321](./chapter-046-indian-self-determination-and-education-assistance.md#section-5321)),” before “such other provisions” in section 1(f)(2)(A)(ii) of the provisions setting out the model agreement.
+
 2000—Subsec. (c). Pub. L. 106–568 substituted “, section 16 of the Act of June 18, 1934” for “and section 16 of the Act of June 18, 1934” and “and the Act of July 3, 1952 ([25 U.S.C. 82a](./chapter-003-agreements-with-indians.md#section-82a)), shall not apply” for “shall not apply” in section 1(b)(15)(A) of the provisions setting out the model agreement.
 
 #### Quarterly Payments of Funds to Tribes
@@ -2057,7 +2134,7 @@ Pub. L. 104–134, title I, § 101(c) [title III, § 311], Apr. 26, 1996, 110 St
 
   (B) *Recordkeeping system.—* — The Contractor shall maintain a recordkeeping system and, upon reasonable advance request, provide reasonable access to such records to the Secretary.
 
-  (C) *Responsibilities of contractor.—* — The Contractor shall be responsible for managing the day-to-day operations conducted under this Contract and for monitoring activities conducted under this Contract to ensure compliance with the Contract and applicable Federal requirements. With respect to the monitoring activities of the Secretary, the routine monitoring visits shall be limited to not more than one performance monitoring visit for this Contract by the head of each operating division, departmental bureau, or departmental agency, or duly authorized representative of such head unless—
+  (C) *Responsibilities of contractor.—* — The Contractor shall be responsible for managing the day-to-day operations conducted under this Contract and for monitoring activities conducted under this Contract to ensure compliance with the Contract and applicable Federal requirements. With respect to the monitoring activities of the Secretary, the routine monitoring visits shall be limited to not more than two performance monitoring visits for this Contract by the head of each operating division, departmental bureau, or departmental agency, or duly authorized representative of such head unless—
 
     (i) the Contractor agrees to one or more additional visits; or
 
@@ -2185,7 +2262,7 @@ Pub. L. 104–134, title I, § 101(c) [title III, § 311], Apr. 26, 1996, 110 St
 
     (i) terms that identify the programs, services, functions, and activities to be performed or administered, the general budget category assigned, the funds to be provided, and the time and method of payment; and
 
-    (ii) such other provisions, including a brief description of the programs, services, functions, and activities to be performed (including those supported by financial resources other than those provided by the Secretary), to which the parties agree.
+    (ii) subject to subsections (a) and (b) of section 102 of the Indian Self-Determination and Education Assistance Act ([25 U.S.C. 5321](./chapter-046-indian-self-determination-and-education-assistance.md#section-5321)), such other provisions, including a brief description of the programs, services, functions, and activities to be performed (including those supported by financial resources other than those provided by the Secretary), to which the parties agree.
 
   (B) *Incorporation by reference.—* — The annual funding agreement is hereby incorporated in its entirety in this Contract and attached to this Contract as attachment 2.”
 
@@ -2583,6 +2660,9 @@ The Johnson-O’Malley Supplemental Indian Education Program Modernization Act, 
 
 The Elementary and Secondary Education Act of 1965, referred to in subsec. (f)(1)(B), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27. Title VI of the Act is classified generally to subchapter VI (§ 7401 et seq.) of chapter 70 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under [section 6301 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6301&num=0&edition=prelim) and Tables.
 
+#### Change of Name
+Committee on Education and the Workforce of House of Representatives changed to Committee on Education and Labor of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
+
 
 <a id="section-5365"></a>
 ## § 5365. School construction, acquisition, or renovation contracts
@@ -2681,8 +2761,8 @@ Committee on Interior and Insular Affairs of the Senate abolished and replaced b
 Committee on Interior and Insular Affairs of the House of Representatives changed to Committee on Natural Resources of the House of Representatives on Jan. 5, 1993, by House Resolution No. 5, One Hundred Third Congress.
 
 
-<a id="section-5381"></a>
-## § 5381. Eligibility for funds of tribe or tribal organization controlling or managing private schools
+<a id="section-5369"></a>
+## § 5369. Eligibility for funds of tribe or tribal organization controlling or managing private schools
 
 The Secretary is authorized and directed to provide funds, pursuant to this chapter; the the 11 So in original. Act of April 16, 1934 (48 Stat. 596), as amended [[25 U.S.C. 5342](./chapter-046-indian-self-determination-and-education-assistance.md#section-5342) et seq.]; or any other authority granted to him to any tribe or tribal organization which controls and manages any previously private school.
 
@@ -2700,8 +2780,8 @@ Section was formerly classified to [section 458d of this title](./chapter-014-mi
 1982—Pub. L. 97–375 struck out provisions relating to annual reporting requirements of Secretary to Congressional committees respecting educational assistance program conducted pursuant to this section.
 
 
-<a id="section-5382"></a>
-## § 5382. Supplemental assistance to funds provided to local educational agencies
+<a id="section-5370"></a>
+## § 5370. Supplemental assistance to funds provided to local educational agencies
 
 The assistance provided in this chapter for the education of Indians in the public schools of any State is in addition and supplemental to assistance provided under title VI of the Elementary and Secondary Education Act of 1965 [[20 U.S.C. 7401](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section7401&num=0&edition=prelim) et seq.].
 
@@ -2721,18 +2801,67 @@ Section was formerly classified to [section 458e of this title](./chapter-014-mi
 1994—Pub. L. 103–382 substituted “title IX of the Elementary and Secondary Education Act of 1965” for “title IV of the Act of June 23, 1972 (86 Stat. 235)”.
 
 
-<a id="section-5383"></a>
-## § 5383. Establishment
+<a id="section-5371"></a>
+## § 5371. Definitions
 
-The Secretary of the Interior (hereinafter in this subchapter referred to as the “Secretary”) shall establish and carry out a program within the Department of the Interior to be known as Tribal Self-Governance (hereinafter in this subchapter referred to as “Self-Governance”) in accordance with this subchapter.
+In this subchapter:
+
+(1) **Compact** — The term “compact” means a self-governance compact entered into under [section 5364 of this title](./chapter-046-indian-self-determination-and-education-assistance.md#section-5364).
+
+(2) **Construction program; construction project** — The term “construction program” or “construction project” means a Tribal undertaking relating to the administration, planning, environmental determination, design, construction, repair, improvement, or expansion of roads, bridges, buildings, structures, systems, or other facilities for purposes of housing, law enforcement, detention, sanitation, water supply, education, administration, community, health, irrigation, agriculture, conservation, flood control, transportation, or port facilities, or for other Tribal purposes.
+
+(3) **Department** — The term “Department” means the Department of the Interior.
+
+(4) **Funding agreement** — The term “funding agreement” means a funding agreement entered into under [section 5363 of this title](./chapter-046-indian-self-determination-and-education-assistance.md#section-5363).
+
+(5) **Gross mismanagement** — The term “gross mismanagement” means a significant violation, shown by a preponderance of the evidence, of a compact, funding agreement, or statutory or regulatory requirement applicable to Federal funds for a program administered by an Indian Tribe under a compact or funding agreement.
+
+(6) **Inherent Federal function** — The term “inherent Federal function” means a Federal function that may not legally be delegated to an Indian Tribe.
+
+(7) **Non-BIA program** — The term “non-BIA program” means all or a portion of a program, function, service, or activity that is administered by any bureau, service, office, or agency of the Department of the Interior other than—
+
+  (A) the Bureau of Indian Affairs;
+
+  (B) the Office of the Assistant Secretary for Indian Affairs; or
+
+  (C) the Office of the Special Trustee for American Indians.
+
+(8) **Program** — The term “program” means any program, function, service, or activity (or portion thereof) within the Department that is included in a funding agreement.
+
+(9) **Secretary** — The term “Secretary” means the Secretary of the Interior.
+
+(10) **Self-determination contract** — The term “self-determination contract” means a self-determination contract entered into under [section 5321 of this title](./chapter-046-indian-self-determination-and-education-assistance.md#section-5321).
+
+(11) **Self-governance** — The term “self-governance” means the Tribal Self-Governance Program established under [section 5362 of this title](./chapter-046-indian-self-determination-and-education-assistance.md#section-5362).
+
+(12) **Tribal share** — The term “Tribal share” means the portion of all funds and resources of an Indian Tribe that—
+
+  (A) support any program within the Bureau of Indian Affairs, the Office of the Special Trustee for American Indians, or the Office of the Assistant Secretary for Indian Affairs; and
+
+  (B) are not required by the Secretary for the performance of an inherent Federal function.
+
+(13) **Tribal water rights settlement** — The term “Tribal water rights settlement” means any settlement, compact, or other agreement expressly ratified or approved by an Act of Congress that—
+
+  (A) includes an Indian Tribe and the United States as parties; and
+
+  (B) quantifies or otherwise defines any water right of the Indian Tribe.
 
 ### Statutory Notes
 
 #### Codification
 Section was formerly classified to [section 458aa of this title](./chapter-014-miscellaneous.md#section-458aa) prior to editorial reclassification and renumbering as this section.
 
+#### Amendments
+2020—Pub. L. 116–180 amended section generally. Prior to amendment, section related to establishment of a Tribal Self-Governance program. See [section 5362 of this title](./chapter-046-indian-self-determination-and-education-assistance.md#section-5362).
+
 #### Short Title
 For short title of this subchapter as the “Tribal Self-Governance Act of 1994”, see section 201 of Pub. L. 103–413, set out as a Short Title of 1994 Amendment note under [section 5301 of this title](./chapter-046-indian-self-determination-and-education-assistance.md#section-5301).
+
+#### Construction of 2020 Amendment
+Pub. L. 116–180, title I, § 101(a), Oct. 21, 2020, 134 Stat. 857, provided that: “Nothing in this Act [see Short Title of 2020 Amendment note set out under [section 5301 of this title](./chapter-046-indian-self-determination-and-education-assistance.md#section-5301)], or the amendments made by this Act, shall be construed— “(1) to modify, limit, expand, or otherwise affect—“(A) the authority of the Secretary of the Interior, as provided for under the Indian Self-Determination and Education Assistance Act [[25 U.S.C. 5301](./chapter-046-indian-self-determination-and-education-assistance.md#section-5301) et seq.] (as in effect on the day before the date of enactment of this Act [Oct. 21, 2020]), regarding—“(i) the inclusion of any non-BIA program (as defined in section 401 of the Indian Self-Determination and Education Assistance Act [[25 U.S.C. 5361](./chapter-046-indian-self-determination-and-education-assistance.md#section-5361)]) in a self-determination contract or funding agreement under section 403(c) of such Act [[25 U.S.C. 5363(c)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5363/c&num=0&edition=prelim)] (as so in effect); or “(ii) the implementation of any contract or agreement described in clause (i) that is in effect on the day described in subparagraph (A); “(B) the meaning, application, or effect of any Tribal water rights settlement, including the performance required of a party thereto or any payment or funding obligation thereunder; “(C) the authority, jurisdiction, or responsibility of a State to manage, control, or regulate fish and wildlife under State law (including regulations) on land or water in the State, including Federal public land; “(D) except for the authority provided to the Secretary as described in subparagraph (A), the applicability or effect of any Federal law related to the protection or management of fish or wildlife; or “(E) any treaty-reserved right or other right of any Indian Tribe as recognized by any other means, including treaties or agreements with the United States, Executive orders, statutes, regulations, or case law; or “(2) to authorize any provision of a contract or agreement that is not consistent with the terms of a Tribal water rights settlement.”
+
+#### Application of Other Provisions
+Pub. L. 116–180, title II, § 201(d), Oct. 21, 2020, 134 Stat. 879, provided that: “Sections 4, 5, 6, 7, 102(c), 104, 105(a)(1), 105(f), 110, and 111 of the Indian Self-Determination and Education Assistance Act ([25 U.S.C. 5304](./chapter-046-indian-self-determination-and-education-assistance.md#section-5304), 5305, 5306, 5307, 5321(c), 5323, 5324(a)(1), 5324(f), 5331, and 5332) and section 314 of the Department of the Interior and Related Agencies Appropriations Act, 1991 (Public Law 101–512; 104 Stat. 1959) [[25 U.S.C. 5321](./chapter-046-indian-self-determination-and-education-assistance.md#section-5321) note], apply to compacts and funding agreements entered into under title IV of the Indian Self-Determination and Education Assistance Act ([25 U.S.C. 5361](./chapter-046-indian-self-determination-and-education-assistance.md#section-5361) et seq.).”
 
 #### Congressional Statement of Findings
 Pub. L. 103–413, title II, § 202, Oct. 25, 1994, 108 Stat. 4270, provided that: “Congress finds that— “(1) the tribal right of self-government flows from the inherent sovereignty of Indian tribes and nations; “(2) the United States recognizes a special government-to-government relationship with Indian tribes, including the right of the tribes to self-governance, as reflected in the Constitution, treaties, Federal statutes, and the course of dealings of the United States with Indian tribes; “(3) although progress has been made, the Federal bureaucracy, with its centralized rules and regulations, has eroded tribal self-governance and dominates tribal affairs; “(4) the Tribal Self-Governance Demonstration Project [see Pub. L. 93–638, title III, as added by Pub. L. 100–472, title II, § 209, Oct. 5, 1988, 102 Stat. 2296, formerly set out as a note under former [25 U.S.C. 450f](./chapter-014-miscellaneous.md#section-450f)] was designed to improve and perpetuate the government-to-government relationship between Indian tribes and the United States and to strengthen tribal control over Federal funding and program management; and “(5) Congress has reviewed the results of the Tribal Self-Governance Demonstration Project and finds that—“(A) transferring control to tribal governments, upon tribal request, over funding and decisionmaking for Federal programs, services, functions, and activities, or portions thereof, is an effective way to implement the Federal policy of government-to-government relations with Indian tribes; and “(B) transferring control to tribal governments, upon tribal request, over funding and decisionmaking for Federal programs, services, functions, and activities strengthens the Federal policy of Indian self-determination.”
@@ -2741,81 +2870,137 @@ Pub. L. 103–413, title II, § 202, Oct. 25, 1994, 108 Stat. 4270, provided tha
 Pub. L. 103–413, title II, § 203, Oct. 25, 1994, 108 Stat. 4271, provided that: “It is the policy of this title [enacting this subchapter] to permanently establish and implement tribal self-governance— “(1) to enable the United States to maintain and improve its unique and continuing relationship with, and responsibility to, Indian tribes; “(2) to permit each Indian tribe to choose the extent of the participation of such tribe in self-governance; “(3) to coexist with the provisions of the Indian Self-Determination Act [title I of Pub. L. 93–638, see Short Title note set out under [section 5301 of this title](./chapter-046-indian-self-determination-and-education-assistance.md#section-5301)] relating to the provision of Indian services by designated Federal agencies; “(4) to ensure the continuation of the trust responsibility of the United States to Indian tribes and Indian individuals; “(5) to permit an orderly transition from Federal domination of programs and services to provide Indian tribes with meaningful authority to plan, conduct, redesign, and administer programs, services, functions, and activities that meet the needs of the individual tribal communities; and “(6) to provide for an orderly transition through a planned and measurable parallel reduction in the Federal bureaucracy.”
 
 
-<a id="section-5384"></a>
-## § 5384. Selection of participating Indian tribes
-**(a) Continuing participation** Each Indian tribe that is participating in the Tribal Self-Governance Demonstration Project at the Department of the Interior under title III 11 See References in Text note below. on October 25, 1994, shall thereafter participate in Self-Governance under this subchapter and cease participation in the Tribal Self-Governance Demonstration Project under title III 1 with respect to the Department of the Interior.
+<a id="section-5372"></a>
+## § 5372. Tribal Self-Governance Program
+**(a) Establishment** The Secretary shall establish and carry out a program within the Department to be known as the “Tribal Self-Governance Program”.
 
-**(b) Additional participants**
+**(b) Selection of participating Indian Tribes**
 
-(1) In addition to those Indian tribes participating in self-governance under subsection (a) of this section, the Secretary, acting through the Director of the Office of Self-Governance, may select up to 50 new tribes per year from the applicant pool described in subsection (c) of this section to participate in self-governance.
+(1) **In general**
 
-(2) If each tribe requests, two or more otherwise eligible Indian tribes may be treated as a single Indian tribe for the purpose of participating in Self-Governance as a consortium.
+  (A) *Eligibility* — The Secretary, acting through the Director of the Office of Self-Governance, may select not more than 50 new Indian Tribes per year from those tribes eligible under subsection (c) to participate in self-governance.
 
-**(c) Applicant pool** The qualified applicant pool for Self-Governance shall consist of each tribe that—
+  (B) *Joint participation* — On the request of each participating Indian Tribe, 2 or more otherwise eligible Indian Tribes may be treated as a single Indian Tribe for the purpose of participating in self-governance.
 
-(1) successfully completes the planning phase described in subsection (d) of this section;
+(2) **Other authorized Indian Tribe or Tribal organization** — If an Indian Tribe authorizes another Indian Tribe or a Tribal organization to plan for or carry out a program on its behalf under this subchapter, the authorized Indian Tribe or Tribal organization shall have the rights and responsibilities of the authorizing Indian Tribe (except as otherwise provided in the authorizing resolution).
 
-(2) has requested participation in Self-Governance by resolution or other official action by the tribal governing body; and
+(3) **Joint participation as organization** — Two or more Indian Tribes that are not otherwise eligible under subsection (c) may be treated as a single Indian Tribe for the purpose of participating in self-governance as a Tribal organization if—
 
-(3) has demonstrated, for the previous three fiscal years, financial stability and financial management capability as evidenced by the tribe having no material audit exceptions in the required annual audit of the self-determination contracts of the tribe.
+  (A) each Indian Tribe so requests; and
 
-**(d) Planning phase** Each Indian tribe seeking to begin participation in Self-Governance shall complete a planning phase in accordance with this subsection. The tribe shall be eligible for a grant to plan and negotiate participation in Self-Governance. The planning phase shall include—
+  (B) the Tribal organization itself, or at least one of the Indian Tribes participating in the Tribal organization, is eligible under subsection (c).
 
-(1) legal and budgetary research; and
+(4) **Tribal withdrawal from a Tribal organization**
 
-(2) internal tribal government planning and organizational preparation.
+  (A) *In general* — An Indian Tribe that withdraws from participation in a Tribal organization, in whole or in part, shall be entitled to participate in self-governance if the Indian Tribe is eligible under subsection (c).
+
+  (B) *Effect of withdrawal* — If an Indian Tribe withdraws from participation in a Tribal organization, the Indian Tribe shall be entitled to its Tribal share of funds and resources supporting the programs that the Indian Tribe is entitled to carry out under the compact and funding agreement of the Indian Tribe.
+
+  (C) *Participation in self-governance* — The withdrawal of an Indian Tribe from a Tribal organization shall not affect the eligibility of the Tribal organization to participate in self-governance on behalf of one or more other Indian Tribes, if the Tribal organization still qualifies under subsection (c).
+
+  (D) *Withdrawal process*
+
+    (i) *In general* — An Indian Tribe may, by Tribal resolution, fully or partially withdraw its Tribal share of any program in a funding agreement from a participating Tribal organization.
+
+    (ii) *Notification* — The Indian Tribe shall provide a copy of the Tribal resolution described in clause (i) to the Secretary.
+
+    (iii) *Effective date*
+
+      (I) *In general* — A withdrawal under clause (i) shall become effective on the date that is specified in the Tribal resolution and mutually agreed upon by the Secretary, the withdrawing Indian Tribe, and the Tribal organization that signed the compact and funding agreement on behalf of the withdrawing Indian Tribe or Tribal organization.
+
+      (II) *No specified date* — In the absence of a date specified in the resolution, the withdrawal shall become effective on—
+
+        (aa) the earlier of—
+
+          (AA) 1 year after the date of submission of the request; and
+
+          (BB) the date on which the funding agreement expires; or
+
+        (bb) such date as may be mutually agreed upon by the Secretary, the withdrawing Indian Tribe, and the Tribal organization that signed the compact and funding agreement on behalf of the withdrawing Indian Tribe or Tribal organization.
+
+  (E) *Distribution of funds* — If an Indian Tribe or Tribal organization eligible to enter into a self-determination contract or a compact or funding agreement fully or partially withdraws from a participating Tribal organization, the withdrawing Indian Tribe—
+
+    (i) may elect to enter into a self-determination contract or compact, in which case—
+
+      (I) the withdrawing Indian Tribe or Tribal organization shall be entitled to its Tribal share of unexpended funds and resources supporting the programs that the Indian Tribe will be carrying out under its own self-determination contract or compact and funding agreement (calculated on the same basis as the funds were initially allocated to the funding agreement of the Tribal organization); and
+
+      (II) the funds referred to in subclause (I) shall be withdrawn by the Secretary from the funding agreement of the Tribal organization and transferred to the withdrawing Indian Tribe, on the condition that sections 5321 and 5324(i) of this title, as appropriate, shall apply to the withdrawing Indian Tribe; or
+
+    (ii) may elect not to enter into a self-determination contract or compact, in which case all unexpended funds and resources associated with the withdrawing Indian Tribe’s returned programs (calculated on the same basis as the funds were initially allocated to the funding agreement of the Tribal organization) shall be returned by the Tribal organization to the Secretary for operation of the programs included in the withdrawal.
+
+  (F) *Return to mature contract status* — If an Indian Tribe elects to operate all or some programs carried out under a compact or funding agreement under this subchapter through a self-determination contract under subchapter I, at the option of the Indian Tribe, the resulting self-determination contract shall be a mature self-determination contract as long as the Indian Tribe meets the requirements set forth in [section 5304(h) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5304/h&num=0&edition=prelim).
+
+**(c) Eligibility** To be eligible to participate in self-governance, an Indian Tribe shall—
+
+(1) successfully complete the planning phase described in subsection (d);
+
+(2) request participation in self-governance by resolution or other official action by the Tribal governing body; and
+
+(3) demonstrate, for the 3 fiscal years preceding the date on which the Indian Tribe requests participation, financial stability and financial management capability as evidenced by the Indian Tribe having no uncorrected significant and material audit exceptions in the required annual audit of its self-determination or self-governance agreements with any Federal agency.
+
+**(d) Planning phase**
+
+(1) **In general** — An Indian Tribe seeking to begin participation in self-governance shall complete a planning phase as provided in this subsection.
+
+(2) **Activities** — The planning phase shall—
+
+  (A) be conducted to the satisfaction of the Indian Tribe; and
+
+  (B) include—
+
+    (i) legal and budgetary research; and
+
+    (ii) internal Tribal government planning, training, and organizational preparation.
+
+**(e) Grants**
+
+(1) **In general** — Subject to the availability of appropriations, an Indian Tribe or Tribal organization that meets the requirements of paragraphs (2) and (3) of subsection (c) shall be eligible for grants—
+
+  (A) to plan for participation in self-governance; and
+
+  (B) to negotiate the terms of participation by the Indian Tribe or Tribal organization in self-governance, as set forth in a compact and a funding agreement.
+
+(2) **Receipt of grant not required** — Receipt of a grant under paragraph (1) shall not be a requirement of participation in self-governance.
 
 ### Statutory Notes
 
 #### References in Text
-Title III, referred to in subsec. (a), means title III of Pub. L. 93–638, as added by Pub. L. 100–472, title II, § 209, Oct. 5, 1988, 102 Stat. 2296, which was set out as a note under former [section 450f of this title](./chapter-014-miscellaneous.md#section-450f) prior to repeal by Pub. L. 106–260, § 10, Aug. 18, 2000, 114 Stat. 734.
+Subchapter I, referred to in subsec. (b)(4)(F), was in the original “title I”, meaning title I of Pub. L. 93–638, known as the Indian Self-Determination Act, which is classified principally to subchapter I (§ 5321 et seq.) of this chapter. For complete classification of title I to the Code, see Short Title note set out under [section 5301 of this title](./chapter-046-indian-self-determination-and-education-assistance.md#section-5301) and Tables.
 
 #### Codification
 Section was formerly classified to [section 458bb of this title](./chapter-014-miscellaneous.md#section-458bb) prior to editorial reclassification and renumbering as this section.
 
 #### Amendments
+2020—Pub. L. 116–180 amended section generally. Prior to amendment, section related to selection of Indian tribes to participate in Self-Governance.
+
 1996—Subsec. (b)(1). Pub. L. 104–208 amended par. (1) generally. Prior to amendment, par. (1) read as follows: “In addition to those Indian tribes participating in Self-Governance under subsection (a) of this section, the Secretary, acting through the Director of the Office of Self-Governance, may select up to 20 new tribes per year from the applicant pool described in subsection (c) of this section to participate in Self-Governance.”
 
 
-<a id="section-5385"></a>
-## § 5385. Funding agreements
-**(a) Authorization** The Secretary shall negotiate and enter into an annual written funding agreement with the governing body of each participating tribal government in a manner consistent with the Federal Government’s laws and trust relationship to and responsibility for the Indian people.
+<a id="section-5373"></a>
+## § 5373. Funding agreements
+**(a) Authorization** The Secretary shall, on the request of any Indian Tribe or Tribal organization, negotiate and enter into a written funding agreement with the governing body of the Indian Tribe or the Tribal organization in a manner consistent with—
+
+(1) the trust responsibility of the Federal Government, treaty obligations, and the government-to-government relationship between Indian Tribes and the United States; and
+
+(2) subsection (b).
 
 **(b) Contents** Each funding agreement shall—
 
-(1) authorize the tribe to plan, conduct, consolidate, and administer programs, services, functions, and activities, or portions thereof, administered by the Department of the Interior through the Bureau of Indian Affairs, without regard to the agency or office of the Bureau of Indian Affairs within which the program, service, function, and activity, or portion thereof, is performed, including funding for agency, area, and central office functions in accordance with subsection (g)(3) of this section, and including any program, service, function, and activity, or portion thereof, administered under the authority of—
+(1) authorize the tribe to plan, conduct, consolidate, and administer programs, services, functions, and activities, or portions thereof, administered by the Department of the Interior through the Bureau of Indian Affairs, the Office of the Assistant Secretary for Indian Affairs, and the Office of the Special Trustee for American Indians, without regard to the agency or office of that Bureau or those Offices within which the program, service, function, and activity, or portion thereof, is performed, including funding for agency, area, and central office functions in accordance with subsection (g)(3) of this section, and including—
 
-  (A) the Act of April 16, 1934 ([25 U.S.C. 452](./chapter-014-miscellaneous.md#section-452) et seq.); 11 See References in Text note below.
+  (A) any program, service, function, and activity, or portion thereof, administered under the authority of—
 
-  (B) [section 13 of this title](./chapter-001-bureau-of-indian-affairs.md#section-13); and
+    (i) the Act of April 16, 1934 ([25 U.S.C. 452](./chapter-014-miscellaneous.md#section-452) et seq.); 11 See References in Text note below. and
 
-  (C) programs, services, functions, and activities or portions thereof administered by the Secretary of the Interior that are otherwise available to Indian tribes or Indians for which appropriations are made to agencies other than the Department of the Interior;
+    (ii) [section 13 of this title](./chapter-001-bureau-of-indian-affairs.md#section-13);
 
-(2) subject to such terms as may be negotiated, authorize the tribe to plan, conduct, consolidate, and administer programs, services, functions, and activities, or portions thereof, administered by the Department of the Interior, other than through the Bureau of Indian Affairs, that are otherwise available to Indian tribes or Indians, as identified in [section 5365(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5365/c&num=0&edition=prelim), except that nothing in this subsection may be construed to provide any tribe with a preference with respect to the opportunity of the tribe to administer programs, services, functions, and activities, or portions thereof, unless such preference is otherwise provided for by law;
+  (B) programs, services, functions, and activities or portions thereof administered by the Secretary of the Interior that are otherwise available to Indian tribes or Indians for which appropriations are made to agencies other than the Department of the Interior; and
 
-(3) subject to the terms of the agreement, authorize the tribe to redesign or consolidate programs, services, functions, and activities, or portions thereof, and reallocate funds for such programs, services, functions, and activities, or portions thereof, except that, with respect to the reallocation, consolidation, and redesign of programs described in paragraph (2), a joint agreement between the Secretary and the tribe shall be required;
+  (C) any other program, service, function, or activity (or portion thereof) that is provided through the Bureau of Indian Affairs, the Office of the Assistant Secretary for Indian Affairs, or the Office of the Special Trustee for American Indians with respect to which Indian Tribes or Indians are primary or significant beneficiaries;
 
-(4) prohibit the inclusion of funds provided—
+(2) subject to such terms as may be negotiated, authorize the tribe to plan, conduct, consolidate, and administer programs, services, functions, and activities, or portions thereof, administered by the Department of the Interior, other than through the Bureau of Indian Affairs, that are otherwise available to Indian tribes or Indians, as identified in [section 5372(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5372/c&num=0&edition=prelim), except that nothing in this subsection may be construed to provide any tribe with a preference with respect to the opportunity of the tribe to administer programs, services, functions, and activities, or portions thereof, unless such preference is otherwise provided for by law; and
 
-  (A) pursuant to the Tribally Controlled Colleges and Universities Assistance Act of 1978 ([25 U.S.C. 1801](./chapter-020-tribally-controlled-colleges-and-universities-assistance.md#section-1801) et seq.);
-
-  (B) for elementary and secondary schools under the formula developed pursuant to [section 2008 of this title](./chapter-022-bureau-of-indian-affairs-programs.md#section-2008); and
-
-  (C) the Flathead Agency Irrigation Division or the Flathead Agency Power Division, except that nothing in this section shall affect the contract authority of such divisions under [section 5321 of this title](./chapter-046-indian-self-determination-and-education-assistance.md#section-5321);
-
-(5) specify the services to be provided, the functions to be performed, and the responsibilities of the tribe and the Secretary pursuant to the agreement;
-
-(6) authorize the tribe and the Secretary to reallocate funds or modify budget allocations within any year, and specify the procedures to be used;
-
-(7) allow for retrocession of programs or portions of programs pursuant to [section 5324(e) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5324/e&num=0&edition=prelim);
-
-(8) provide that, for the year for which, and to the extent to which, funding is provided to a tribe under this section, the tribe—
-
-  (A) shall not be entitled to contract with the Secretary for such funds under [section 5321 of this title](./chapter-046-indian-self-determination-and-education-assistance.md#section-5321), except that such tribe shall be eligible for new programs on the same basis as other tribes; and
-
-  (B) shall be responsible for the administration of programs, services, functions, and activities pursuant to agreements entered into under this section; and
-
-(9) prohibit the Secretary from waiving, modifying, or diminishing in any way the trust responsibility of the United States with respect to Indian tribes and individual Indians that exists under treaties, Executive orders, and other laws.
+(3) subject to the terms of the agreement, authorize the tribe to redesign or consolidate programs, services, functions, and activities, or portions thereof, and reallocate funds for such programs, services, functions, and activities, or portions thereof, except that, with respect to the reallocation, consolidation, and redesign of programs described in paragraph (2), a joint agreement between the Secretary and the tribe shall be required.
 
 **(c) Additional activities** Each funding agreement negotiated pursuant to subsections (a) and (b) of this section may, in accordance to such additional terms as the parties deem appropriate, also include other programs, services, functions, and activities, or portions thereof, administered by the Secretary of the Interior which are of special geographic, historical, or cultural significance to the participating Indian tribe requesting a compact.
 
@@ -2831,13 +3016,7 @@ Section was formerly classified to [section 458bb of this title](./chapter-014-m
 
 (2) In all construction projects performed pursuant to this subchapter, the Secretary shall ensure that proper health and safety standards are provided for in the funding agreements.
 
-**(f) Submission for review** Not later than 90 days before the proposed effective date of an agreement entered into under this section, the Secretary shall submit a copy of such agreement to—
-
-(1) each Indian tribe that is served by the Agency that is serving the tribe that is a party to the funding agreement;
-
-(2) the Committee on Indian Affairs of the Senate; and
-
-(3) the Subcommittee on Native American Affairs of the Committee on Natural Resources of the House of Representatives.
+**(f) Submission** Not later than 90 days before the proposed effective date of an agreement entered into under this section, the Secretary shall submit a copy of such agreement to each Indian Tribe that is served by the Agency that is serving the tribe that is a party to the funding agreement.
 
 **(g) Payment**
 
@@ -2871,16 +3050,60 @@ Section was formerly classified to [section 458bb of this title](./chapter-014-m
 
 **(j) Funds** All funds provided under funding agreements entered into pursuant to this chapter, and all funds provided under contracts or grants made pursuant to this chapter, shall be treated as non-Federal funds for purposes of meeting matching requirements under any other Federal law.
 
-**(k) Disclaimer** Nothing in this section is intended or shall be construed to expand or alter existing statutory authorities in the Secretary so as to authorize the Secretary to enter into any agreement under subsection (b)(2) of this section and [section 5365(c)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5365/c/1&num=0&edition=prelim) with respect to functions that are inherently Federal or where the statute establishing the existing program does not authorize the type of participation sought by the tribe: Provided, however an Indian tribe or tribes need not be identified in the authorizing statute in order for a program or element of a program to be included in a compact under subsection (b)(2) of this section.
+**(k) Disclaimer** Nothing in this section is intended or shall be construed to expand or alter existing statutory authorities in the Secretary so as to authorize the Secretary to enter into any agreement under subsection (b)(2) of this section and [section 5372(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5372/c&num=0&edition=prelim) with respect to functions that are inherently Federal or where the statute establishing the existing program does not authorize the type of participation sought by the tribe: Provided, however an Indian tribe or tribes need not be identified in the authorizing statute in order for a program or element of a program to be included in a compact under subsection (b)(2) of this section.
 
 **(l) Incorporate self-determination provisions** At the option of a participating tribe or tribes, any or all provisions of subchapter I of this chapter shall be made part of an agreement entered into under title III of this Act or this subchapter. The Secretary is obligated to include such provisions at the option of the participating tribe or tribes. If such provision is incorporated it shall have the same force and effect as if set out in full in title III or this subchapter.
+
+**(m) Other provisions**
+
+(1) **Excluded funding** — A funding agreement shall not authorize an Indian Tribe to plan, conduct, administer, or receive Tribal share funding under any program that—
+
+  (A) is provided under the Tribally Controlled Colleges and Universities Assistance Act of 1978 ([25 U.S.C. 1801](./chapter-020-tribally-controlled-colleges-and-universities-assistance.md#section-1801) et seq.); or
+
+  (B) is provided for elementary and secondary schools under the formula developed under [section 2007 of this title](./chapter-022-bureau-of-indian-affairs-programs.md#section-2007).
+
+(2) **Services, functions, and responsibilities** — A funding agreement shall specify—
+
+  (A) the services to be provided under the funding agreement;
+
+  (B) the functions to be performed under the funding agreement; and
+
+  (C) the responsibilities of the Indian Tribe and the Secretary under the funding agreement.
+
+(3) **Base budget**
+
+  (A) *In general* — A funding agreement shall, at the option of the Indian Tribe, provide for a stable base budget specifying the recurring funds (which may include funds available under [section 5325(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5325/a&num=0&edition=prelim)) to be transferred to the Indian Tribe, for such period as the Indian Tribe specifies in the funding agreement, subject to annual adjustment only to reflect changes in congressional appropriations.
+
+  (B) *Limitations* — Notwithstanding subparagraph (A), a funding agreement shall not specify funding associated with a program described in subsection (b)(2) or (c) unless the Secretary agrees.
+
+(4) **No waiver of trust responsibility** — A funding agreement shall prohibit the Secretary from waiving, modifying, or diminishing in any way the trust responsibility of the United States with respect to Indian Tribes and individual Indians that exists under treaties, Executive orders, court decisions, and other laws.
+
+**(n) Amendment** The Secretary shall not revise, amend, or require additional terms in a new or subsequent funding agreement without the consent of the Indian Tribe, unless such terms are required by Federal law.
+
+**(o) Effective date** A funding agreement shall become effective on the date specified in the funding agreement.
+
+**(p) Existing and subsequent funding agreements**
+
+(1) **Subsequent funding agreements** — Absent notification from an Indian Tribe that the Indian Tribe is withdrawing or retroceding the operation of one or more programs identified in a funding agreement, or unless otherwise agreed to by the parties to the funding agreement or by the nature of any noncontinuing program, service, function, or activity contained in a funding agreement—
+
+  (A) a funding agreement shall remain in full force and effect until a subsequent funding agreement is executed, with funding paid annually for each fiscal year the agreement is in effect; and
+
+  (B) the term of the subsequent funding agreement shall be retroactive to the end of the term of the preceding funding agreement for the purposes of calculating the amount of funding to which the Indian Tribe is entitled.
+
+(2) **Disputes** — Disputes over the implementation of paragraph (1)(A) shall be subject to [section 5366(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5366/c&num=0&edition=prelim).
+
+(3) **Existing funding agreements** — An Indian Tribe that was participating in self-governance under this subchapter on October 21, 2020, shall have the option at any time after that date—
+
+  (A) to retain its existing funding agreement (in whole or in part) to the extent that the provisions of that funding agreement are not directly contrary to any express provision of this subchapter; or
+
+  (B) to negotiate a new funding agreement in a manner consistent with this subchapter.
+
+(4) **Multiyear funding agreements** — An Indian Tribe may, at the discretion of the Indian Tribe, negotiate with the Secretary for a funding agreement with a term that exceeds 1 year.
 
 ### Statutory Notes
 
 #### References in Text
-Act of April 16, 1934 ([25 U.S.C. 452](./chapter-014-miscellaneous.md#section-452) et seq.), referred to in subsec. (b)(1)(A), is act Apr. 16, 1934, ch. 147, 48 Stat. 596, popularly known as the Johnson-O’Malley Act, which was classified generally to section 452 et seq. of this title prior to editorial reclassification as section 5342 et seq. of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 5301 of this title](./chapter-046-indian-self-determination-and-education-assistance.md#section-5301) and Tables.
-
-The Tribally Controlled Colleges and Universities Assistance Act of 1978, referred to in subsec. (b)(4)(A), is Pub. L. 95–471, Oct. 17, 1978, 92 Stat. 1325, which is classified principally to chapter 20 (§ 1801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1801 of this title](./chapter-020-tribally-controlled-colleges-and-universities-assistance.md#section-1801) and Tables.
+Act of April 16, 1934 ([25 U.S.C. 452](./chapter-014-miscellaneous.md#section-452) et seq.), referred to in subsec. (b)(1)(A)(i), is act Apr. 16, 1934, ch. 147, 48 Stat. 596, popularly known as the Johnson-O’Malley Act, which was classified generally to section 452 et seq. of this title prior to editorial reclassification as section 5342 et seq. of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 5301 of this title](./chapter-046-indian-self-determination-and-education-assistance.md#section-5301) and Tables.
 
 This chapter, referred to in subsecs. (e)(1), (g)(3), and (j), was in the original “this Act”, meaning Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, known as the Indian Self-Determination and Education Assistance Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 5301 of this title](./chapter-046-indian-self-determination-and-education-assistance.md#section-5301) and Tables.
 
@@ -2890,12 +3113,44 @@ The Act of July 3, 1952, referred to in subsec. (h)(2), is act July 3, 1952, ch.
 
 Subchapter I of this chapter, referred to in subsec. (l), was in the original “title I of this Act”, meaning title I of Pub. L. 93–638, known as the Indian Self-Determination Act, which is classified principally to subchapter I (§ 5321 et seq.) of this chapter. For complete classification of title I to the Code, see Short Title note set out under [section 5301 of this title](./chapter-046-indian-self-determination-and-education-assistance.md#section-5301) and Tables.
 
+The Tribally Controlled Colleges and Universities Assistance Act of 1978, referred to in subsec. (m)(1)(A), is Pub. L. 95–471, Oct. 17, 1978, 92 Stat. 1325, which is classified principally to chapter 20 (§ 1801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1801 of this title](./chapter-020-tribally-controlled-colleges-and-universities-assistance.md#section-1801) and Tables.
+
 #### Codification
 Section was formerly classified to [section 458cc of this title](./chapter-014-miscellaneous.md#section-458cc) prior to editorial reclassification and renumbering as this section.
 
 In subsec. (e)(1), “division B (except sections 1123, 2303, 2304, and 2313) of subtitle I of title 41” substituted for “the Office of Federal Procurement and Policy Act” on authority of Pub. L. 111–350, § 6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
 #### Amendments
+2020—Subsec. (a). Pub. L. 116–180, § 101(d)(1), added subsec. (a) and struck out former subsec. (a). Prior to amendment, text read as follows: “The Secretary shall negotiate and enter into an annual written funding agreement with the governing body of each participating tribal government in a manner consistent with the Federal Government’s laws and trust relationship to and responsibility for the Indian people.”
+
+Subsec. (b)(1). Pub. L. 116–180, § 101(d)(2)(A), in introductory provisions, substituted “the Office of the Assistant Secretary for Indian Affairs, and the Office of the Special Trustee for American Indians, without regard to the agency or office of that Bureau or those Offices” for “without regard to the agency or office of the Bureau of Indian Affairs” and “and including—” for “and including”, inserted subpar. (A) designation before “any program”, added subpar. (C), and redesignated former subpars. (A), (B), and (C) as subpars. (A)(i), (A)(ii), and (B), respectively, and realigned margins.
+
+Subsec. (b)(2). Pub. L. 116–180, § 101(d)(2)(B), substituted “[section 5372(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5372/c&num=0&edition=prelim)” for “[section 5365(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5365/c&num=0&edition=prelim)” and inserted “and” at end.
+
+Subsec. (b)(3). Pub. L. 116–180, § 101(d)(2)(C), substituted period for semicolon at end.
+
+Subsec. (b)(4). Pub. L. 116–260, which directed amendment of par. (4) by adding “and” at end of subpar. (A), striking out “and” at end of subpar. (B), and striking out subpar. (C), could not be executed due to intervening amendment by Pub. 116–180, § 101(d)(2)(B)(D). See note below.
+
+Pub. L. 116–180, § 101(d)(2)(D), struck out par. (4) which read as follows: “prohibit the inclusion of funds provided—
+
+“(A) pursuant to the Tribally Controlled Colleges and Universities Assistance Act of 1978 ([25 U.S.C. 1801](./chapter-020-tribally-controlled-colleges-and-universities-assistance.md#section-1801) et seq.);
+
+“(B) for elementary and secondary schools under the formula developed pursuant to [section 2008 of this title](./chapter-022-bureau-of-indian-affairs-programs.md#section-2008); and
+
+“(C) the Flathead Agency Irrigation Division or the Flathead Agency Power Division, except that nothing in this section shall affect the contract authority of such divisions under [section 5321 of this title](./chapter-046-indian-self-determination-and-education-assistance.md#section-5321);”.
+
+Subsec. (b)(5) to (9). Pub. L. 116–180, § 101(d)(2)(B)(D), struck out pars. (5) to (9) which set out various requirements and responsibilities related to funding agreements.
+
+Subsec. (f). Pub. L. 116–180, § 101(d)(3), struck out “for review” after “Submission” in heading, substituted “such agreement to” for “such agreement to—”, struck out par. (1) designation before “each Indian tribe”, substituted “agreement.” for “agreement;”, and struck out pars. (2) and (3) which read as follows:
+
+“(2) the Committee on Indian Affairs of the Senate; and
+
+“(3) the Subcommittee on Native American Affairs of the Committee on Natural Resources of the House of Representatives.”
+
+Subsec. (k). Pub. L. 116–180, § 101(d)(4), substituted “[section 5372(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5372/c&num=0&edition=prelim)” for “[section 5365(c)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5365/c/1&num=0&edition=prelim)”.
+
+Subsecs. (m) to (p). Pub. L. 116–180, § 101(d)(5), added subsecs. (m) to (p).
+
 2008—Subsec. (b)(4)(A). Pub. L. 110–315 substituted “the Tribally Controlled Colleges and Universities Assistance Act of 1978” for “the Tribally Controlled College or University Assistance Act of 1978”.
 
 2000—Subsec. (h)(2). Pub. L. 106–568 struck out “and” before “[section 5123 of this title](./chapter-045-protection-of-indians-and-conservation-of-resources.md#section-5123)” and substituted “and the Act of July 3, 1952 ([25 U.S.C. 82a](./chapter-003-agreements-with-indians.md#section-82a)), shall not apply” for “shall not apply”.
@@ -2908,89 +3163,596 @@ In subsec. (e)(1), “division B (except sections 1123, 2303, 2304, and 2313) of
 Amendment by Pub. L. 105–244 effective Oct. 1, 1998, except as otherwise provided in Pub. L. 105–244, see section 3 of Pub. L. 105–244, set out as a note under [section 1001 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1001&num=0&edition=prelim), Education.
 
 
-<a id="section-5386"></a>
-## § 5386. Budget request
+<a id="section-5374"></a>
+## § 5374. Compacts
+**(a) In general** The Secretary shall negotiate and enter into a written compact with each Indian Tribe participating in self-governance in a manner consistent with the trust responsibility of the Federal Government, treaty obligations, and the government-to-government relationship between Indian Tribes and the United States.
 
-The Secretary shall identify, in the annual budget request of the President to the Congress under [section 1105 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1105&num=0&edition=prelim) any funds proposed to be included in agreements authorized under this subchapter.
+**(b) Contents** A compact under subsection (a) shall—
 
-### Statutory Notes
+(1) specify and affirm the general terms of the government-to-government relationship between the Indian Tribe and the Secretary; and
 
-#### Codification
-Section was formerly classified to [section 458dd of this title](./chapter-014-miscellaneous.md#section-458dd) prior to editorial reclassification and renumbering as this section.
+(2) include such terms as the parties intend shall control during the term of the compact.
 
+**(c) Amendment** A compact under subsection (a) may be amended only by agreement of the parties.
 
-<a id="section-5387"></a>
-## § 5387. Reports
-**(a) Requirement** The Secretary shall submit to Congress a written report on January 1 of each year following October 25, 1994, regarding the administration of this subchapter.
+**(d) Effective date** The effective date of a compact under subsection (a) shall be—
 
-**(b) Contents** The report shall—
+(1) the date of the execution of the compact by the parties; or
 
-(1) identify the relative costs and benefits of Self-Governance;
+(2) such date as is mutually agreed upon by the parties.
 
-(2) identify, with particularity, all funds that are specifically or functionally related to the provision by the Secretary of services and benefits to Self-Governance tribes and their members;
+**(e) Duration** A compact under subsection (a) shall remain in effect—
 
-(3) identify the funds transferred to each Self-Governance tribe and the corresponding reduction in the Federal bureaucracy;
+(1) for so long as permitted by Federal law; or
 
-(4) include the separate views of the tribes; and
+(2) until termination by written agreement, retrocession, or reassumption.
 
-(5) include the funding formula for individual tribal shares of Central Office funds, together with the comments of affected Indian tribes, developed under subsection (d) of this section.
+**(f) Existing compacts** An Indian Tribe participating in self-governance under this subchapter, as in effect on October 21, 2020, shall have the option at any time after that date—
 
-**(c) Report on non-BIA programs**
+(1) to retain its negotiated compact (in whole or in part) to the extent that the provisions of the compact are not directly contrary to any express provision of this subchapter; or
 
-(1) In order to optimize opportunities for including non-Bureau of Indian Affairs programs, services, functions, and activities, or portions thereof, in agreements with tribes participating in Self-Governance under this subchapter, the Secretary shall—
-
-  (A) review all programs, services, functions, and activities, or portions thereof, administered by the Department of the Interior, other than through the Bureau of Indian Affairs, without regard to the agency or office concerned; and
-
-  (B) not later than 90 days after October 25, 1994, provide to the appropriate committees of Congress a listing of all such programs, services, functions, and activities, or portions thereof, that the Secretary determines, with the concurrence of tribes participating in Self-Governance under this subchapter, are eligible for inclusion in such agreements at the request of a participating Indian tribe.
-
-(2) The Secretary shall establish programmatic targets, after consultation with tribes participating in Self-Governance under this subchapter, to encourage bureaus of the Department to assure that a significant portion of such programs, services, functions, and activities are actually included in the agreements negotiated under [section 5363 of this title](./chapter-046-indian-self-determination-and-education-assistance.md#section-5363).
-
-(3) The listing and targets under paragraphs (1) and (2) shall be published in the Federal Register and be made available to any Indian tribe participating in Self-Governance under this subchapter. The list shall be published before January 1, 1995, and annually thereafter by January 1 preceding the fiscal year in which the targets are to be met.
-
-(4) Thereafter, the Secretary shall annually review and publish in the Federal Register, after consultation with tribes participating in Self-Governance under this subchapter, a revised listing and programmatic targets.
-
-**(d) Report on Central Office funds** Within 90 days after October 25, 1994, the Secretary shall, in consultation with Indian tribes, develop a funding formula to determine the individual tribal share of funds controlled by the Central Office of the Bureau of Indian Affairs for inclusion in the Self-Governance compacts. The Secretary shall include such formula in the annual report submitted to the Congress under subsection (b) of this section, together with the views of the affected Indian tribes.
+(2) to negotiate a new compact in a manner consistent with this subchapter.
 
 ### Statutory Notes
 
-#### Codification
-Section was formerly classified to [section 458ee of this title](./chapter-014-miscellaneous.md#section-458ee) prior to editorial reclassification and renumbering as this section.
+#### Prior Provisions
+A prior section 5364, Pub. L. 93–638, title IV, § 404, as added Pub. L. 103–413, title II, § 204, Oct. 25, 1994, 108 Stat. 4275, related to identification of funds in annual budget request, prior to repeal by Pub. L. 116–180, title I, § 101(e), Oct. 21, 2020, 134 Stat. 864. See [section 5371 of this title](./chapter-046-indian-self-determination-and-education-assistance.md#section-5371). Such section was formerly classified to [section 458dd of this title](./chapter-014-miscellaneous.md#section-458dd) prior to editorial reclassification and renumbering as section 5364.
 
 
-<a id="section-5388"></a>
-## § 5388. Disclaimers
-**(a) Other services, contracts, and funds** Nothing in this subchapter shall be construed to limit or reduce in any way the services, contracts, or funds that any other Indian tribe or tribal organization is eligible to receive under [section 5321 of this title](./chapter-046-indian-self-determination-and-education-assistance.md#section-5321) or any other applicable Federal law.
+<a id="section-5375"></a>
+## § 5375. General provisions
+**(a) Applicability** An Indian Tribe and the Secretary shall include in any compact or funding agreement provisions that reflect the requirements of this subchapter.
 
-**(b) Federal trust responsibilities** Nothing in this chapter shall be construed to diminish the Federal trust responsibility to Indian tribes, individual Indians, or Indians with trust allotments.
+**(b) Conflicts of interest** An Indian Tribe participating in self-governance shall ensure that internal measures are in place to address, pursuant to Tribal law and procedures, conflicts of interest in the administration of programs.
 
-**(c) Application of other sections of chapter** All provisions of sections 5305(d), 5306, 5321(c), 5323, 5324(f), 5331, and 5332 of this title shall apply to agreements provided under this subchapter.
+**(c) Audits**
+
+(1) **Single Agency Audit Act** — Chapter 75 of title 31 shall apply to a funding agreement under this subchapter.
+
+(2) **Cost principles** — An Indian Tribe shall apply cost principles under the applicable Office of Management and Budget circular, except as modified by—
+
+  (A) any provision of law, including [section 5325 of this title](./chapter-046-indian-self-determination-and-education-assistance.md#section-5325); or
+
+  (B) any exemptions to applicable Office of Management and Budget circulars subsequently granted by the Office of Management and Budget.
+
+(3) **Federal claims** — Any claim by the Federal Government against an Indian Tribe relating to funds received under a funding agreement based on any audit under this subsection shall be subject to [section 5325(f) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5325/f&num=0&edition=prelim).
+
+**(d) Redesign and consolidation** Except as provided in [section 5367 of this title](./chapter-046-indian-self-determination-and-education-assistance.md#section-5367), an Indian Tribe may redesign or consolidate programs, or reallocate funds for programs, in a compact or funding agreement in any manner that the Indian Tribe determines to be in the best interest of the Indian community being served—
+
+(1) so long as the redesign or consolidation does not have the effect of denying eligibility for services to population groups otherwise eligible to be served under applicable Federal law; and
+
+(2) except that, with respect to the reallocation, consolidation, and redesign of programs described in subsection (b)(2) or (c) of [section 5363 of this title](./chapter-046-indian-self-determination-and-education-assistance.md#section-5363), a joint agreement between the Secretary and the Indian Tribe shall be required.
+
+**(e) Retrocession**
+
+(1) **In general** — An Indian Tribe may fully or partially retrocede to the Secretary any program under a compact or funding agreement.
+
+(2) **Effective date**
+
+  (A) *Agreement* — Unless an Indian Tribe rescinds a request for retrocession under paragraph (1), the retrocession shall become effective on the date specified by the parties in the compact or funding agreement.
+
+  (B) *No agreement* — In the absence of a specification of an effective date in the compact or funding agreement, the retrocession shall become effective on—
+
+    (i) the earlier of—
+
+      (I) 1 year after the date on which the request is submitted; and
+
+      (II) the date on which the funding agreement expires; or
+
+    (ii) such date as may be mutually agreed upon by the Secretary and the Indian Tribe.
+
+**(f) Nonduplication** A funding agreement shall provide that, for the period for which, and to the extent to which, funding is provided to an Indian Tribe under this subchapter, the Indian Tribe—
+
+(1) shall not be entitled to contract with the Secretary for funds under [section 5321 of this title](./chapter-046-indian-self-determination-and-education-assistance.md#section-5321), except that the Indian Tribe shall be eligible for new programs on the same basis as other Indian Tribes; and
+
+(2) shall be responsible for the administration of programs in accordance with the compact or funding agreement.
+
+**(g) Records**
+
+(1) **In general** — Unless an Indian Tribe specifies otherwise in the compact or funding agreement, records of an Indian Tribe shall not be considered to be Federal records for purposes of chapter 5 of title 5.
+
+(2) **Recordkeeping system** — An Indian Tribe shall—
+
+  (A) maintain a recordkeeping system; and
+
+  (B) on a notice period of not less than 30 days, provide the Secretary with reasonable access to the records to enable the Department to meet the requirements of sections 3101 through 3106 of title 44.
+
+### Statutory Notes
+
+#### Prior Provisions
+A prior section 5365, Pub. L. 93–638, title IV, § 405, as added Pub. L. 103–413, title II, § 204, Oct. 25, 1994, 108 Stat. 4276, related to reports, prior to repeal by Pub. L. 116–180, title I, § 101(e), Oct. 21, 2020, 134 Stat. 864. See [section 5372 of this title](./chapter-046-indian-self-determination-and-education-assistance.md#section-5372). Such section was formerly classified to [section 458ee of this title](./chapter-014-miscellaneous.md#section-458ee) prior to editorial reclassification and renumbering as section 5365.
+
+
+<a id="section-5376"></a>
+## § 5376. Provisions relating to the Secretary
+**(a) Trust evaluations** A funding agreement shall include a provision to monitor the performance of trust functions by the Indian Tribe through the annual trust evaluation.
+
+**(b) Reassumption**
+
+(1) **In general** — A compact or funding agreement shall include provisions for the Secretary to reassume a program and associated funding if there is a specific finding relating to that program of—
+
+  (A) imminent jeopardy to a trust asset, a natural resource, or public health and safety that—
+
+    (i) is caused by an act or omission of the Indian Tribe; and
+
+    (ii) arises out of a failure to carry out the compact or funding agreement; or
+
+  (B) gross mismanagement with respect to funds transferred to an Indian Tribe under a compact or funding agreement, as determined by the Secretary in consultation with the Inspector General, as appropriate.
+
+(2) **Prohibition** — The Secretary shall not reassume operation of a program, in whole or part, unless—
+
+  (A) the Secretary first provides written notice and a hearing on the record to the Indian Tribe; and
+
+  (B) the Indian Tribe does not take corrective action to remedy the mismanagement of the funds or programs, or the imminent jeopardy to a trust asset, natural resource, or public health and safety.
+
+(3) **Exception**
+
+  (A) *In general* — Notwithstanding paragraph (2), the Secretary may, on written notice to the Indian Tribe, immediately reassume operation of a program if—
+
+    (i) the Secretary makes a finding of imminent and substantial jeopardy and irreparable harm to a trust asset, a natural resource, or the public health and safety caused by an act or omission of the Indian Tribe; and
+
+    (ii) the imminent and substantial jeopardy and irreparable harm to the trust asset, natural resource, or public health and safety arises out of a failure by the Indian Tribe to carry out the terms of an applicable compact or funding agreement.
+
+  (B) *Reassumption* — If the Secretary reassumes operation of a program under subparagraph (A), the Secretary shall provide the Indian Tribe with a hearing on the record not later than 10 days after the date of reassumption.
+
+**(c) Inability to agree on compact or funding agreement**
+
+(1) **Final offer** — If the Secretary and a participating Indian Tribe are unable to agree, in whole or in part, on the terms of a compact or funding agreement (including funding levels), the Indian Tribe may submit a final offer to the Secretary.
+
+(2) **Determination** — Not more than 60 days after the date of receipt of a final offer by one or more of the officials designated pursuant to paragraph (4), the Secretary shall review and make a determination with respect to the final offer, except that the 60-day period may be extended for up to 30 days for circumstances beyond the control of the Secretary, upon written request by the Secretary to the Indian tribe.
+
+(3) **Extensions** — The deadline described in paragraph (2) may be extended for any length of time, as agreed upon by both the Indian Tribe and the Secretary.
+
+(4) **Designated officials**
+
+  (A) *In general* — The Secretary shall designate one or more appropriate officials in the Department to receive a copy of the final offer described in paragraph (1).
+
+  (B) *No designation* — If no official is designated, the Director of the Office of the Executive Secretariat and Regulatory Affairs shall be the designated official.
+
+(5) **No timely determination** — If the Secretary fails to make a determination with respect to a final offer within the period specified in paragraph (2), including any extension agreed to under paragraph (3), the Secretary shall be deemed to have agreed to the offer, except that with respect to any compact or funding agreement provision concerning a program described under [section 5363(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5363/c&num=0&edition=prelim), the Secretary shall be deemed to have rejected the offer with respect to such provision and the terms of clauses (ii) through (iv) of paragraphs 11 So in original. Probably should be “paragraph”. (6)(A) shall apply.
+
+(6) **Rejection of final offer**
+
+  (A) *In general* — If the Secretary rejects a final offer (or one or more provisions or funding levels in a final offer), the Secretary shall—
+
+    (i) provide timely written notification to the Indian Tribe that contains a specific finding that clearly demonstrates, or that is supported by a controlling legal authority, that—
+
+      (I) the amount of funds proposed in the final offer exceeds the applicable funding level as determined under [section 5325(a)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5325/a/1&num=0&edition=prelim);
+
+      (II) the program that is the subject of the final offer is an inherent Federal function or is subject to the discretion of the Secretary under [section 5363(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5363/c&num=0&edition=prelim);
+
+      (III) the Indian Tribe cannot carry out the program in a manner that would not result in significant danger or risk to the public health or safety, to natural resources, or to trust resources;
+
+      (IV) the Indian Tribe is not eligible to participate in self-governance under [section 5362(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5362/c&num=0&edition=prelim);
+
+      (V) the funding agreement would violate a Federal statute or regulation; or
+
+      (VI) with respect to a program or portion of a program included in a final offer pursuant to [section 5363(b)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5363/b/2&num=0&edition=prelim), the program or the portion of the program is not otherwise available to Indian Tribes or Indians under [section 5321(a)(1)(E) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5321/a/1/E&num=0&edition=prelim);
+
+    (ii) provide technical assistance to overcome the objections stated in the notification required by clause (i);
+
+    (iii) provide the Indian Tribe with a hearing on the record with the right to engage in full discovery relevant to any issue raised in the matter, and the opportunity for appeal on the objections raised, except that the Indian Tribe may, in lieu of filing such appeal, directly proceed to initiate an action in a United States district court under [section 5331(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5331/a&num=0&edition=prelim); and
+
+    (iv) provide the Indian Tribe the option of entering into the severable portions of a final proposed compact or funding agreement (including a lesser funding amount, if any), that the Secretary did not reject, subject to any additional alterations necessary to conform the compact or funding agreement to the severed provisions.
+
+  (B) *Effect of exercising certain option* — If an Indian Tribe exercises the option specified in subparagraph (A)(iv)—
+
+    (i) the Indian Tribe shall retain the right to appeal the rejection by the Secretary under this section; and
+
+    (ii) clauses (i), (ii), and (iii) of subparagraph (A) shall apply only to the portion of the proposed final compact or funding agreement that was rejected by the Secretary.
+
+**(d) Burden of proof** In any administrative action, hearing, appeal, or civil action brought under this section, the Secretary shall have the burden of proof—
+
+(1) of demonstrating, by a preponderance of the evidence, the validity of the grounds for a reassumption under subsection (b); and
+
+(2) of clearly demonstrating the validity of the grounds for rejecting a final offer made under subsection (c).
+
+**(e) Good faith**
+
+(1) **In general** — In the negotiation of compacts and funding agreements, the Secretary shall at all times negotiate in good faith to maximize implementation of the self-governance policy.
+
+(2) **Policy** — The Secretary shall carry out this subchapter in a manner that maximizes the policy of Tribal self-governance.
+
+**(f) Savings**
+
+(1) **In general** — To the extent that programs carried out for the benefit of Indian Tribes and Tribal organizations under this subchapter reduce the administrative or other responsibilities of the Secretary with respect to the operation of Indian programs and result in savings that have not otherwise been included in the amount of Tribal shares and other funds determined under [section 5368(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5368/c&num=0&edition=prelim), except for funding agreements entered into for programs under [section 5363(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5363/c&num=0&edition=prelim), the Secretary shall make such savings available to the Indian Tribes or Tribal organizations for the provision of additional services to program beneficiaries in a manner equitable to directly served, contracted, and compacted programs.
+
+(2) **Discretionary programs of special significance** — For any savings generated as a result of the assumption of a program by an Indian Tribe under [section 5363(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5363/c&num=0&edition=prelim), such savings shall be made available to that Indian Tribe.
+
+**(g) Trust responsibility** The Secretary may not waive, modify, or diminish in any way the trust responsibility of the United States with respect to Indian Tribes and individual Indians that exists under treaties, Executive orders, other laws, or court decisions.
+
+**(h) Decision maker** A decision that constitutes final agency action and relates to an appeal within the Department conducted under subsection (c)(6)(A)(iii) may be made by—
+
+(1) an official of the Department who holds a position at a higher organizational level within the Department than the level of the departmental agency in which the decision that is the subject of the appeal was made; or
+
+(2) an administrative law judge.
+
+**(i) Rules of construction** Subject to section 101(a) of the PROGRESS for Indian Tribes Act, each provision of this subchapter and each provision of a compact or funding agreement shall be liberally construed for the benefit of the Indian Tribe participating in self-governance, and any ambiguity shall be resolved in favor of the Indian Tribe.
 
 ### Statutory Notes
 
 #### References in Text
-This chapter, referred to in subsec. (b), was in the original “this Act”, meaning Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, known as the Indian Self-Determination and Education Assistance Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 5301 of this title](./chapter-046-indian-self-determination-and-education-assistance.md#section-5301) and Tables.
+Section 101(a) of the PROGRESS for Indian Tribes Act, referred to in subsec. (i), is section 101(a) of Pub. L. 116–180, which is set out as a note under [section 5361 of this title](./chapter-046-indian-self-determination-and-education-assistance.md#section-5361).
 
-#### Codification
-Section was formerly classified to [section 458ff of this title](./chapter-014-miscellaneous.md#section-458ff) prior to editorial reclassification and renumbering as this section.
-
-#### Amendments
-1998—Subsec. (c). Pub. L. 105–277 inserted “5305(d),” after “sections”.
+#### Prior Provisions
+A prior section 5366, Pub. L. 93–638, title IV, § 406, as added Pub. L. 103–413, title II, § 204, Oct. 25, 1994, 108 Stat. 4277; amended Pub. L. 105–277, div. A, § 101(e) [title I, § 133], Oct. 21, 1998, 112 Stat. 2681–231, 2681–264, set out disclaimers regarding construction of provisions of this chapter and subchapter. Such ection was formerly classified to [section 458ff of this title](./chapter-014-miscellaneous.md#section-458ff) prior to editorial reclassification and renumbering as section 5366.
 
 
-<a id="section-5389"></a>
-## § 5389. Regulations
-**(a) In general** Not later than 90 days after October 25, 1994, at the request of a majority of the Indian tribes with agreements under this subchapter, the Secretary shall initiate procedures under subchapter III of chapter 5 of title 5 to negotiate and promulgate such regulations as are necessary to carry out this subchapter.
+<a id="section-5377"></a>
+## § 5377. Construction programs and projects
+**(a) In general** Indian Tribes participating in Tribal self-governance may carry out any construction project included in a compact or funding agreement under this subchapter.
 
-**(b) Committee** A negotiated rulemaking committee established pursuant to [section 565 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section565&num=0&edition=prelim) to carry out this section shall have as its members only Federal and tribal government representatives, a majority of whom shall be representatives of Indian tribes with agreements under this subchapter.
+**(b) Tribal option to carry out certain Federal environmental activities** In carrying out a construction project under this subchapter, an Indian Tribe may, subject to the agreement of the Secretary, elect to assume some Federal responsibilities under the National Environmental Policy Act of 1969 ([42 U.S.C. 4321](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) et seq.), division A of subtitle III of title 54, and related provisions of other law and regulations that would apply if the Secretary were to undertake a construction project, by adopting a resolution—
 
-**(c) Adaptation of procedures** The Secretary shall adapt the negotiated rulemaking procedures to the unique context of Self-Governance and the government-to-government relationship between the United States and the Indian tribes.
+(1) designating a certifying Tribal officer to represent the Indian Tribe and to assume the status of a responsible Federal official under those Acts, laws, or regulations; and
 
-**(d) Effect** The lack of promulgated regulations shall not limit the effect of this subchapter.
+(2) accepting the jurisdiction of the United States courts for the purpose of enforcing the responsibilities of the certifying Tribal officer assuming the status of a responsible Federal official under those Acts, laws, or regulations.
+
+**(c) Savings clause** Notwithstanding subsection (b), nothing in this section authorizes the Secretary to include in any compact or funding agreement duties of the Secretary under the National Environmental Policy Act of 1969 ([42 U.S.C. 4321](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) et seq.), division A of subtitle III of title 54, and other related provisions of law that are inherent Federal functions.
+
+**(d) Codes and standards** In carrying out a construction project under this subchapter, an Indian Tribe shall—
+
+(1) adhere to applicable Federal, State, local, and Tribal building codes, architectural and engineering standards, and applicable Federal guidelines regarding design, space, and operational standards, appropriate for the particular project; and
+
+(2) use only architects and engineers who—
+
+  (A) are licensed to practice in the State in which the facility will be built; and
+
+  (B) certify that—
+
+    (i) they are qualified to perform the work required by the specific construction involved; and
+
+    (ii) upon completion of design, the plans and specifications meet or exceed the applicable construction and safety codes.
+
+**(e) Tribal accountability**
+
+(1) **In general** — In carrying out a construction project under this subchapter, an Indian Tribe shall assume responsibility for the successful completion of the construction project and of a facility that is usable for the purpose for which the Indian Tribe received funding.
+
+(2) **Requirements** — For each construction project carried out by an Indian Tribe under this subchapter, the Indian Tribe and the Secretary shall negotiate a provision to be included in the funding agreement that identifies—
+
+  (A) the approximate start and completion dates for the project, which may extend over a period of one or more years;
+
+  (B) a general description of the project, including the scope of work, references to design criteria, and other terms and conditions;
+
+  (C) the responsibilities of the Indian Tribe and the Secretary for the project;
+
+  (D) how project-related environmental considerations will be addressed;
+
+  (E) the amount of funds provided for the project;
+
+  (F) the obligations of the Indian Tribe to comply with the codes referenced in subsection (d)(1) and applicable Federal laws and regulations;
+
+  (G) the agreement of the parties over who will bear any additional costs necessary to meet changes in scope, or errors or omissions in design and construction; and
+
+  (H) the agreement of the Secretary to issue a certificate of occupancy, if requested by the Indian Tribe, based upon the review and verification by the Secretary, to the satisfaction of the Secretary, that the Indian Tribe has secured upon completion the review and approval of the plans and specifications, sufficiency of design, life safety, and code compliance by qualified, licensed, and independent architects and engineers.
+
+**(f) Funding**
+
+(1) **In general** — Funding appropriated for construction projects carried out under this subchapter shall be included in funding agreements as annual or semiannual advance payments at the option of the Indian Tribe.
+
+(2) **Advance payments** — The Secretary shall include all associated project contingency funds with each advance payment, and the Indian Tribe shall be responsible for the management of such contingency funds.
+
+**(g) Negotiations** At the option of the Indian Tribe, construction project funding proposals shall be negotiated pursuant to the statutory process in [section 5324 of this title](./chapter-046-indian-self-determination-and-education-assistance.md#section-5324), and any resulting construction project agreement shall be incorporated into the funding agreement as addenda.
+
+**(h) Federal review and verification**
+
+(1) **In general** — On a schedule negotiated by the Secretary and the Indian Tribe—
+
+  (A) the Secretary shall review and verify, to the satisfaction of the Secretary, that project planning and design documents prepared by the Indian Tribe in advance of initial construction are in conformity with the obligations of the Indian Tribe under subsection (d); and
+
+  (B) before the project planning and design documents are implemented, the Secretary shall review and verify to the satisfaction of the Secretary that subsequent document amendments which result in a significant change in construction are in conformity with the obligations of the Indian Tribe under subsection (d).
+
+(2) **Reports** — The Indian Tribe shall provide the Secretary with project progress and financial reports not less than semiannually.
+
+(3) **Oversight visits** — The Secretary may conduct onsite project oversight visits semiannually or on an alternate schedule agreed to by the Secretary and the Indian Tribe.
+
+**(i) Application of other laws** Unless otherwise agreed to by the Indian Tribe and except as otherwise provided in this chapter, no provision of title 41, the Federal Acquisition Regulation, or any other law or regulation pertaining to Federal procurement (including Executive orders) shall apply to any construction program or project carried out under this subchapter.
+
+**(j) Future funding** Upon completion of a facility constructed under this subchapter, the Secretary shall include the facility among those eligible for annual operation and maintenance funding support comparable to that provided for similar facilities funded by the Department as annual appropriations are available and to the extent that the facility size and complexity and other factors do not exceed the funding formula criteria for comparable buildings.
 
 ### Statutory Notes
 
-#### Codification
-Section was formerly classified to [section 458gg of this title](./chapter-014-miscellaneous.md#section-458gg) prior to editorial reclassification and renumbering as this section.
+#### References in Text
+The National Environmental Policy Act of 1969, referred to in subsecs. (b) and (c), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 4321 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) and Tables.
+
+This chapter, referred to in subsec. (i), was in the original “this Act”, meaning Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, known as the Indian Self-Determination and Education Assistance Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 5301 of this title](./chapter-046-indian-self-determination-and-education-assistance.md#section-5301) and Tables.
+
+#### Prior Provisions
+A prior section 5367, Pub. L. 93–638, title IV, § 407, as added Pub. L. 103–413, title II, § 204, Oct. 25, 1994, 108 Stat. 4277, related to regulations to carry out this subchapter, prior to repeal by Pub. L. 116–180, title I, § 101(e), Oct. 21, 2020, 134 Stat. 864. See [section 5373 of this title](./chapter-046-indian-self-determination-and-education-assistance.md#section-5373). Such section was formerly classified to [section 458gg of this title](./chapter-014-miscellaneous.md#section-458gg) prior to editorial reclassification and renumbering as section 5367.
+
+
+<a id="section-5381"></a>
+## § 5381. Payment
+**(a) In general** At the request of the governing body of an Indian Tribe and under the terms of an applicable funding agreement, the Secretary shall provide funding to the Indian Tribe to carry out the funding agreement.
+
+**(b) Advance annual payment** At the option of the Indian Tribe, a funding agreement shall provide for an advance annual payment to an Indian Tribe.
+
+**(c) Amount**
+
+(1) **In general** — Subject to subsection (e) and sections 5363 and 5365 of this title, the Secretary shall provide funds to the Indian Tribe under a funding agreement for programs in an amount that is equal to the amount that the Indian Tribe would have been entitled to receive under contracts and grants under this chapter (including amounts for direct program and contract support costs and, in addition, any funds that are specifically or functionally related to the provision by the Secretary of services and benefits to the Indian Tribe or its members) without regard to the organization level within the Department at which the programs are carried out.
+
+(2) **Savings clause** — Nothing in this section reduces programs, services, or funds of, or provided to, another Indian Tribe.
+
+**(d) Timing**
+
+(1) **In general** — Pursuant to the terms of any compact or funding agreement entered into under this subchapter, the Secretary shall transfer to the Indian Tribe all funds provided for in the funding agreement, pursuant to subsection (c), and provide funding for periods covered by joint resolution adopted by Congress making continuing appropriations, to the extent permitted by such resolution.
+
+(2) **Transfers** — Not later than 1 year after October 21, 2020, in any instance in which a funding agreement requires an annual transfer of funding to be made at the beginning of a fiscal year or requires semiannual or other periodic transfers of funding to be made commencing at the beginning of a fiscal year, the first such transfer shall be made not later than 10 days after the apportionment of such funds by the Office of Management and Budget to the Department, unless the funding agreement provides otherwise.
+
+**(e) Availability** Funds for trust services to individual Indians shall be available under a funding agreement only to the extent that the same services that would have been provided by the Secretary are provided to individual Indians by the Indian Tribe.
+
+**(f) Multiyear funding** A funding agreement may provide for multiyear funding.
+
+**(g) Limitations on authority of the Secretary** The Secretary shall not—
+
+(1) fail to transfer to an Indian Tribe its full share of any central, headquarters, regional, area, or service unit office or other funds due under this subchapter for programs eligible under paragraph (1) or (2) of [section 5363(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5363/b&num=0&edition=prelim), except as required by Federal law;
+
+(2) withhold any portion of such funds for transfer over a period of years; or
+
+(3) reduce the amount of funds required under this subchapter—
+
+  (A) to make funding available for self-governance monitoring or administration by the Secretary;
+
+  (B) in subsequent years, except as necessary as a result of—
+
+    (i) a reduction in appropriations from the previous fiscal year for the program to be included in a compact or funding agreement;
+
+    (ii) a congressional directive in legislation or an accompanying report;
+
+    (iii) a Tribal authorization;
+
+    (iv) a change in the amount of pass-through funds subject to the terms of the funding agreement; or
+
+    (v) completion of an activity under a program for which the funds were provided;
+
+  (C) to pay for Federal functions, including—
+
+    (i) Federal pay costs;
+
+    (ii) Federal employee retirement benefits;
+
+    (iii) automated data processing;
+
+    (iv) technical assistance; and
+
+    (v) monitoring of activities under this subchapter; or
+
+  (D) to pay for costs of Federal personnel displaced by self-determination contracts under this chapter or self-governance under this subchapter.
+
+**(h) Federal resources** If an Indian Tribe elects to carry out a compact or funding agreement with the use of Federal personnel, Federal supplies (including supplies available from Federal warehouse facilities), Federal supply sources (including lodging, airline transportation, and other means of transportation, including the use of interagency motor pool vehicles), or other Federal resources (including supplies, services, and resources available to the Secretary under any procurement contracts in which the Department is eligible to participate), the Secretary shall, as soon as practicable, acquire and transfer such personnel, supplies, or resources to the Indian Tribe under this subchapter.
+
+**(i) Prompt Payment Act** Chapter 39 of title 31 shall apply to the transfer of funds due under a compact or funding agreement authorized under this subchapter.
+
+**(j) Interest or other income**
+
+(1) **In general** — An Indian Tribe may retain interest or income earned on any funds paid under a compact or funding agreement to carry out governmental purposes.
+
+(2) **No effect on other amounts** — The retention of interest or income under paragraph (1) shall not diminish the amount of funds an Indian Tribe is entitled to receive under a funding agreement in the year the interest or income is earned or in any subsequent fiscal year.
+
+(3) **Investment standard** — Funds transferred under this subchapter shall be managed by the Indian Tribe using the prudent investment standard, provided that the Secretary shall not be liable for any investment losses of funds managed by the Indian Tribe that are not otherwise guaranteed or insured by the Federal Government.
+
+**(k) Carryover of funds**
+
+(1) **In general** — Notwithstanding any provision of an appropriations Act, all funds paid to an Indian Tribe in accordance with a compact or funding agreement shall remain available until expended.
+
+(2) **Effect of carryover** — If an Indian Tribe elects to carry over funding from one year to the next, the carryover shall not diminish the amount of funds the Indian Tribe is entitled to receive under a funding agreement in that fiscal year or any subsequent fiscal year.
+
+**(l) Limitation of costs**
+
+(1) **In general** — An Indian Tribe shall not be obligated to continue performance that requires an expenditure of funds in excess of the amount of funds transferred under a compact or funding agreement.
+
+(2) **Notice of insufficiency** — If at any time the Indian Tribe has reason to believe that the total amount provided for a specific activity under a compact or funding agreement is insufficient, the Indian Tribe shall provide reasonable notice of such insufficiency to the Secretary.
+
+(3) **Suspension of performance** — If, after notice under paragraph (2), the Secretary does not increase the amount of funds transferred under the funding agreement, the Indian Tribe may suspend performance of the activity until such time as additional funds are transferred.
+
+(4) **Savings clause** — Nothing in this section reduces any programs, services, or funds of, or provided to, another Indian Tribe.
+
+**(m) Distribution of funds** The Office of Self-Governance shall be responsible for distribution of all Bureau of Indian Affairs funds provided under this subchapter unless otherwise agreed by the parties to an applicable funding agreement.
+
+**(n) Applicability** Notwithstanding any other provision of this section, section 101(a) of the PROGRESS for Indian Tribes Act applies to subsections (a) through (m).
+
+### Statutory Notes
+
+#### References in Text
+This chapter, referred to in subsecs. (c)(1) and (g)(3)(D), was in the original “this Act”, meaning Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, known as the Indian Self-Determination and Education Assistance Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 5301 of this title](./chapter-046-indian-self-determination-and-education-assistance.md#section-5301) and Tables.
+
+Section 101(a) of the PROGRESS for Indian Tribes Act, referred to in subsec. (n), is section 101(a) of Pub. L. 116–180, which is set out as a note under [section 5361 of this title](./chapter-046-indian-self-determination-and-education-assistance.md#section-5361).
+
+#### Prior Provisions
+A prior section 5368, Pub. L. 93–638, title IV, § 408, as added Pub. L. 103–413, title II, § 204, Oct. 25, 1994, 108 Stat. 4278, authorized appropriations, prior to repeal by Pub. L. 116–180, title I, § 101(e), Oct. 21, 2020, 134 Stat. 864, 872. See [section 5377 of this title](./chapter-046-indian-self-determination-and-education-assistance.md#section-5377). Such section was formerly classified to [section 458hh of this title](./chapter-014-miscellaneous.md#section-458hh) prior to editorial reclassification and renumbering as section 5368.
+
+
+<a id="section-5382"></a>
+## § 5382. Facilitation
+**(a) In general** Except as otherwise provided by law (including section 101(a) of the PROGRESS for Indian Tribes Act), the Secretary shall interpret each Federal law and regulation in a manner that facilitates—
+
+(1) the inclusion of programs in funding agreements; and
+
+(2) the implementation of funding agreements.
+
+**(b) Regulation waiver**
+
+(1) **Request** — An Indian Tribe may submit to the Secretary a written request for a waiver of applicability of a Federal regulation, including—
+
+  (A) an identification of the specific text in the regulation sought to be waived; and
+
+  (B) the basis for the request.
+
+(2) **Determination by the secretary** — Not later than 120 days after receipt by the Secretary and the designated officials under paragraph (4) of a request under paragraph (1), the Secretary shall approve or deny the requested waiver in writing to the Indian Tribe.
+
+(3) **Extensions** — The deadline described in paragraph (2) may be extended for any length of time, as agreed upon by both the Indian Tribe and the Secretary.
+
+(4) **Designated officials** — The Secretary shall designate one or more appropriate officials in the Department to receive a copy of the waiver request described in paragraph (1).
+
+(5) **Grounds for denial** — The Secretary may deny a request under paragraph (1) upon a specific finding by the Secretary that the identified text in the regulation may not be waived because such a waiver is prohibited by Federal law.
+
+(6) **Failure to make determination** — If the Secretary fails to make a determination with respect to a waiver request within the period specified in paragraph (2) (including any extension agreed to under paragraph (3)), the Secretary shall be deemed to have agreed to the request, except that for a waiver request relating to programs eligible under section 5363(b)(2) or [section 5363(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5363/c&num=0&edition=prelim), the Secretary shall be deemed to have denied the request.
+
+(7) **Finality** — A decision of the Secretary under this section shall be final for the Department.
+
+### Statutory Notes
+
+#### References in Text
+Section 101(a) of the PROGRESS for Indian Tribes Act, referred to in subsec. (a), is section 101(a) of Pub. L. 116–180, which is set out as a note under [section 5361 of this title](./chapter-046-indian-self-determination-and-education-assistance.md#section-5361).
+
+
+<a id="section-5383"></a>
+## § 5383. Discretionary application of other sections
+**(a) In general** Except as otherwise provided in section 201(d) of the PROGRESS for Indian Tribes Act, at the option of a participating Indian Tribe or Indian Tribes, any of the provisions of subchapter I may be incorporated in any compact or funding agreement under this subchapter. The inclusion of any such provision shall be subject to, and shall not conflict with, section 101(a) of such Act.
+
+**(b) Effect** Each incorporated provision under subsection (a) shall—
+
+(1) have the same force and effect as if set out in full in this subchapter;
+
+(2) supplement or replace any related provision in this subchapter; and
+
+(3) apply to any agency otherwise governed by this subchapter.
+
+**(c) Effective date** If an Indian Tribe requests incorporation at the negotiation stage of a compact or funding agreement, the incorporation shall—
+
+(1) be effective immediately; and
+
+(2) control the negotiation and resulting compact and funding agreement.
+
+### Statutory Notes
+
+#### References in Text
+Sections 101(a) and 201(d) of the PROGRESS for Indian Tribes Act, referred to in subsec. (a), are sections 101(a) and 201(d) of Pub. L. 116–180, which are set out as notes under [section 5361 of this title](./chapter-046-indian-self-determination-and-education-assistance.md#section-5361).
+
+Subchapter I, referred to in subsec. (a), was in the original “title I”, meaning title I of Pub. L. 93–638, known as the Indian Self-Determination Act, which is classified principally to subchapter I (§ 5321 et seq.) of this chapter. For complete classification of title I to the Code, see Short Title note set out under [section 5301 of this title](./chapter-046-indian-self-determination-and-education-assistance.md#section-5301) and Tables.
+
+
+<a id="section-5384"></a>
+## § 5384. Annual budget list
+
+The Secretary shall list, in the annual budget request submitted to Congress under [section 1105 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1105&num=0&edition=prelim), any funds proposed to be included in funding agreements authorized under this subchapter.
+
+### Statutory Notes
+
+#### Prior Provisions
+Provisions similar to those in this section were contained in [section 5364 of this title](./chapter-046-indian-self-determination-and-education-assistance.md#section-5364) prior to repeal by Pub. L. 116–180.
+
+
+<a id="section-5385"></a>
+## § 5385. Reports
+**(a) In general**
+
+(1) **Requirement** — On January 1 of each year, the Secretary shall submit to Congress a report regarding the administration of this subchapter.
+
+(2) **Analysis** — Any Indian Tribe may submit to the Office of Self-Governance and to the appropriate committees of Congress a detailed annual analysis of unmet Tribal needs for funding agreements under this subchapter.
+
+**(b) Contents** The report under subsection (a)(1) shall—
+
+(1) be compiled from information contained in funding agreements, annual audit reports, and data of the Secretary regarding the disposition of Federal funds;
+
+(2) identify—
+
+  (A) the relative costs and benefits of self-governance;
+
+  (B) with particularity, all funds that are specifically or functionally related to the provision by the Secretary of services and benefits to self-governance Indian Tribes and members of Indian Tribes;
+
+  (C) the funds transferred to each Indian Tribe and the corresponding reduction in the Federal employees and workload; and
+
+  (D) the funding formula for individual Tribal shares of all Central Office funds, together with the comments of affected Indian Tribes, developed under subsection (d);
+
+(3) before being submitted to Congress, be distributed to the Indian Tribes for comment (with a comment period of not less than 30 days);
+
+(4) include the separate views and comments of each Indian Tribe or Tribal organization; and
+
+(5) include a list of—
+
+  (A) all such programs that the Secretary determines, in consultation with Indian Tribes participating in self-governance, are eligible for negotiation to be included in a funding agreement at the request of a participating Indian Tribe; and
+
+  (B) all such programs which Indian Tribes have formally requested to include in a funding agreement under [section 5363(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5363/c&num=0&edition=prelim) due to the special geographic, historical, or cultural significance of the program to the Indian Tribe, indicating whether each request was granted or denied, and stating the grounds for any denial.
+
+**(c) Report on non-BIA programs**
+
+(1) **In general** — In order to optimize opportunities for including non-BIA programs in agreements with Indian Tribes participating in self-governance under this subchapter, the Secretary shall review all programs administered by the Department, other than through the Bureau of Indian Affairs, the Office of the Assistant Secretary for Indian Affairs, or the Office of the Special Trustee for American Indians, without regard to the agency or office concerned.
+
+(2) **Programmatic targets** — The Secretary shall establish programmatic targets, after consultation with Indian Tribes participating in self-governance, to encourage bureaus of the Department to ensure that an appropriate portion of those programs are available to be included in funding agreements.
+
+(3) **Publication** — The lists under subsection (b)(5) and targets under paragraph (2) shall be published in the Federal Register and made available to any Indian Tribe participating in self-governance.
+
+(4) **Annual review**
+
+  (A) *In general* — The Secretary shall annually review and publish in the Federal Register, after consultation with Indian Tribes participating in self-governance, revised lists and programmatic targets.
+
+  (B) *Contents* — In preparing the revised lists and programmatic targets, the Secretary shall consider all programs that were eligible for contracting in the original list published in the Federal Register in 1995, except for programs specifically determined not to be contractible as a matter of law.
+
+**(d) Report on Central Office funds** Not later than January 1, 2020, the Secretary shall, in consultation with Indian Tribes, develop a funding formula to determine the individual Tribal share of funds controlled by the Central Office of the Bureau of Indian Affairs and the Office of the Special Trustee for inclusion in the compacts.
+
+### Statutory Notes
+
+#### Prior Provisions
+Provisions similar to those in this section were contained in [section 5365 of this title](./chapter-046-indian-self-determination-and-education-assistance.md#section-5365) prior to repeal by Pub. L. 116–180.
+
+
+<a id="section-5386"></a>
+## § 5386. Regulations
+**(a) In general**
+
+(1) **Promulgation** — Not later than 90 days after October 21, 2020, the Secretary shall initiate procedures under subchapter III of chapter 5 of title 5 to negotiate and promulgate such regulations as are necessary to carry out this subchapter.
+
+(2) **Publication of proposed regulations** — Proposed regulations to implement this subchapter shall be published in the Federal Register not later than 21 months after October 21, 2020.
+
+(3) **Expiration of authority** — The authority to promulgate regulations under paragraph (1) shall expire on the date that is 30 months after October 21, 2020.
+
+**(b) Committee**
+
+(1) **Membership** — A negotiated rulemaking committee established pursuant to [section 565 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section565&num=0&edition=prelim) to carry out this section shall have as its members only representatives of the Federal Government and Tribal government.
+
+(2) **Lead agency** — Among the Federal representatives described in paragraph (1), the Office of Self-Governance shall be the lead agency for the Department.
+
+**(c) Adaptation of procedures** The Secretary shall adapt the negotiated rulemaking procedures to the unique context of self-governance and the government-to-government relationship between the United States and Indian Tribes.
+
+**(d) Effect**
+
+(1) **Repeal** — The Secretary may repeal any regulation that is inconsistent with this chapter.
+
+(2) **Conflicting provisions** — Subject to section 101(a) of the PROGRESS for Indian Tribes Act and except with respect to programs described under [section 5363(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5363/c&num=0&edition=prelim), this subchapter shall supersede any conflicting provision of law (including any conflicting regulations).
+
+(3) **Effectiveness without regard to regulations** — The lack of promulgated regulations on an issue shall not limit the effect or implementation of this subchapter.
+
+### Statutory Notes
+
+#### References in Text
+This chapter, referred to in subsec. (d)(1), was in the original “this Act”, meaning Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, known as the Indian Self-Determination and Education Assistance Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 5301 of this title](./chapter-046-indian-self-determination-and-education-assistance.md#section-5301) and Tables.
+
+Section 101(a) of the PROGRESS for Indian Tribes Act, referred to in subsec. (d)(2), is section 101(a) of Pub. L. 116–180, which is set out as a note under [section 5361 of this title](./chapter-046-indian-self-determination-and-education-assistance.md#section-5361).
+
+#### Prior Provisions
+Provisions similar to those in this section were contained in [section 5367 of this title](./chapter-046-indian-self-determination-and-education-assistance.md#section-5367) prior to repeal by Pub. L. 116–180.
+
+
+<a id="section-5387"></a>
+## § 5387. Effect of circulars, policies, manuals, guidance, and rules
+
+Unless expressly agreed to by a participating Indian Tribe in a compact or funding agreement, the participating Indian Tribe shall not be subject to any agency circular, policy, manual, guidance, or rule adopted by the Department, except for—
+
+(1) the eligibility provisions of [section 5324(g) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5324/g&num=0&edition=prelim); and
+
+(2) regulations promulgated pursuant to [section 5373 of this title](./chapter-046-indian-self-determination-and-education-assistance.md#section-5373).
+
+
+<a id="section-5388"></a>
+## § 5388. Appeals
+
+Except as provided in [section 5366(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5366/d&num=0&edition=prelim), in any administrative action, appeal, or civil action for judicial review of any decision made by the Secretary under this subchapter, the Secretary shall have the burden of proof of demonstrating by a preponderance of the evidence—
+
+(1) the validity of the grounds for the decision; and
+
+(2) the consistency of the decision with the requirements and policies of this subchapter.
+
+
+<a id="section-5389"></a>
+## § 5389. Application of other provisions
+
+Section 314 of the Department of the Interior and Related Agencies Appropriations Act, 1991 (Public Law 101–512; 104 Stat. 1959), shall apply to compacts and funding agreements entered into under this subchapter.
+
+### Statutory Notes
+
+#### References in Text
+Section 314 of the Department of the Interior and Related Agencies Appropriations Act, 1991, referred to in text, is section 314 of Pub. L. 101–512, which is set out as a note under [section 5321 of this title](./chapter-046-indian-self-determination-and-education-assistance.md#section-5321).
 
 
 <a id="section-5390"></a>
@@ -3000,8 +3762,8 @@ There are authorized to be appropriated such sums as may be necessary to carry o
 
 ### Statutory Notes
 
-#### Codification
-Section was formerly classified to [section 458hh of this title](./chapter-014-miscellaneous.md#section-458hh) prior to editorial reclassification and renumbering as this section.
+#### Prior Provisions
+Provisions similar to those in this section were contained in [section 5368 of this title](./chapter-046-indian-self-determination-and-education-assistance.md#section-5368) prior to repeal by Pub. L. 116–180.
 
 
 <a id="section-5391"></a>

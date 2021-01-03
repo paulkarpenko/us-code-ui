@@ -381,11 +381,11 @@ Pub. L. 104–324, title XI, § 1137, Oct. 19, 1996, 110 Stat. 3988, as amended 
 
 **(b) Extension of Existing Operating Agreements.—**
 
-(1) **Offer to extend.—** — Not later than 60 days after the date of enactment of this paragraph, the Secretary shall offer, to an existing contractor, to extend, through September 30, 2025, an operating agreement that is in existence on the date of enactment of this paragraph. The terms and conditions of the extended operating agreement shall include terms and conditions authorized under this chapter, as amended from time to time.
+(1) **Offer to extend.—** — Not later than 60 days after the date of enactment of this paragraph, the Secretary shall offer, to an existing contractor, to extend, through September 30, 2035, an operating agreement that is in existence on the date of enactment of this paragraph. The terms and conditions of the extended operating agreement shall include terms and conditions authorized under this chapter, as amended from time to time.
 
 (2) **Time limit.—** — An existing contractor shall have not later than 120 days after the date the Secretary offers to extend an operating agreement to agree to the extended operating agreement.
 
-(3) **Subsequent award.—** — The Secretary may award an operating agreement to an applicant that is eligible to enter into an operating agreement for fiscal years 2016 through 2025 if the existing contractor does not agree to the extended operating agreement under paragraph (2).
+(3) **Subsequent award.—** — The Secretary may award an operating agreement to an applicant that is eligible to enter into an operating agreement for fiscal years 2016 through 2035 if the existing contractor does not agree to the extended operating agreement under paragraph (2).
 
 **(c) Procedure for Awarding New Operating Agreements.—** The Secretary may enter into a new operating agreement with an applicant that meets the requirements of section 53102(c) (for vessels that meet the qualifications of section 53102(b)) on the basis of priority for vessel type established by military requirements of the Secretary of Defense. The Secretary shall allow an applicant at least 30 days to submit an application for a new operating agreement. After consideration of military requirements, priority shall be given to an applicant that is a United States citizen under [section 50501 of this title](./chapter-505-other-general-provisions.md#section-50501). The Secretary may not approve an application without the consent of the Secretary of Defense. The Secretary shall enter into an operating agreement with the applicant or provide a written reason for denying the application.
 
@@ -397,6 +397,8 @@ Pub. L. 104–324, title XI, § 1137, Oct. 19, 1996, 110 Stat. 3988, as amended 
 The date of enactment of this paragraph, referred to in subsec. (b)(1), probably means the date of enactment of Pub. L. 112–239, which amended subsec. (b) generally and was approved Jan. 2, 2013.
 
 #### Amendments
+2019—Subsec. (b)(1), (3). Pub. L. 116–92 substituted “2035” for “2025”.
+
 2013—Subsec. (b). Pub. L. 112–239, § 3508(c)(1), amended subsec. (b) generally. Prior to amendment, subsec. (b) related to procedure for applications.
 
 Subsec. (c). Pub. L. 112–239, § 3508(c)(2), amended subsec. (c) generally. Prior to amendment, subsec. (c) related to priority for awarding agreements.
@@ -414,7 +416,7 @@ Subsec. (c)(4)(C), (D). Pub. L. 109–364, § 3502(b)(1)(F), added subpars. (C) 
 
 <a id="section-53104"></a>
 ## § 53104. Effectiveness of operating agreements
-**(a) Effectiveness, Generally.—** The Secretary may enter into an operating agreement under this chapter for fiscal year 2006. Except as provided in subsection (b), the agreement shall be effective only for 1 fiscal year, but shall be renewable, subject to the availability of appropriations, for each subsequent fiscal year through the end of fiscal year 2025.
+**(a) Effectiveness, Generally.—** The Secretary may enter into an operating agreement under this chapter for fiscal year 2006. Except as provided in subsection (b), the agreement shall be effective only for 1 fiscal year, but shall be renewable, subject to the availability of appropriations, for each subsequent fiscal year through the end of fiscal year 2035.
 
 **(b) Vessels Under Charter to United States.—** Unless an earlier date is requested by the applicant, the effective date for an operating agreement with respect to a vessel that is, on the date of entry into an operating agreement, on charter to the United States Government, other than a charter pursuant to an Emergency Preparedness Agreement under section 53107, shall be the expiration or termination date of the Government charter covering the vessel, or any earlier date the vessel is withdrawn from that charter.
 
@@ -443,6 +445,8 @@ Subsec. (c)(4)(C), (D). Pub. L. 109–364, § 3502(b)(1)(F), added subpars. (C) 
 ### Statutory Notes
 
 #### Amendments
+2019—Subsec. (a). Pub. L. 116–92 substituted “2035” for “2025”.
+
 2013—Subsec. (c)(3). Pub. L. 112–239, § 3508(d)(1), struck out par. (3) which related to early termination by contractor, with available replacement.
 
 Subsec. (e). Pub. L. 112–239, § 3508(d)(2), struck out “an operating agreement under this chapter is terminated under subsection (c)(3), or if” after “If” in introductory provisions.
@@ -519,9 +523,15 @@ Subsec. (f). Pub. L. 109–304, § 13(a)(4)(B), substituted “approves” for �
 
   (A) $5,000,000 for each of fiscal years 2018, 2019, and 2020;
 
-  (B) $5,233,463 for fiscal year 2021; and
+  (B) $5,233,463 for fiscal year 2021;
 
-  (C) $3,700,000 for each of fiscal years 2022, 2023, 2024, and 2025.
+  (C) $5,300,000 for each of fiscal years 2022, 2023, 2024, and 2025;
+
+  (D) $5,800,000 for each of fiscal years 2026, 2027, and 2028;
+
+  (E) $6,300,000 for each of fiscal years 2029, 2030, and 2031; and
+
+  (F) $6,800,000 for each of fiscal years 2032, 2033, 2034, and 2035.
 
 (2) **Timing.—** — The amount shall be paid in equal monthly installments at the end of each month. The amount shall not be reduced except as provided by this section.
 
@@ -558,6 +568,8 @@ Subsec. (f). Pub. L. 109–304, § 13(a)(4)(B), substituted “approves” for �
 ### Statutory Notes
 
 #### Amendments
+2019—Subsec. (a)(1)(C) to (F). Pub. L. 116–92 substituted “$5,300,000 for each of fiscal years 2022, 2023, 2024, and 2025;” for “$3,700,000 for each of fiscal years 2022, 2023, 2024, and 2025.” in subpar. (C) and added subpars. (D) to (F).
+
 2018—Subsec. (a)(1). Pub. L. 115–232 redesignated subpars. (E) to (G) as (A) to (C), respectively, and struck out former subpars. (A) to (D) which set out payment amounts for fiscal years 2006 to 2017.
 
 2017—Subsec. (b). Pub. L. 115–91, § 3503(b)(1), substituted “paragraph (1) and (2) of section 53105(a), as otherwise applicable with respect to such vessel,” for “section 53105(a)(1)”.
@@ -701,13 +713,21 @@ There are authorized to be appropriated for payments under section 53106, to rem
 
 (1) $300,000,000 for each of fiscal years 2018, 2019, and 2020;
 
-(2) $314,007,780 for fiscal year 2021; and
+(2) $314,007,780 for fiscal year 2021;
 
-(3) $222,000,000 for each fiscal year thereafter through fiscal year 2025.
+(3) $318,000,000 for each of fiscal years 2022, 2023, 2024, and 2025;
+
+(4) $348,000,000 for each of fiscal years 2026, 2027, and 2028;
+
+(5) $378,000,000 for each of fiscal years 2029, 2030, and 2031; and
+
+(6) $408,000,000 for each of fiscal years 2032, 2033, 2034, and 2035.
 
 ### Statutory Notes
 
 #### Amendments
+2019—Pars. (3) to (6). Pub. L. 116–92 substituted “$318,000,000 for each of fiscal years 2022, 2023, 2024, and 2025;” for “$222,000,000 for each fiscal year thereafter through fiscal year 2025.” in par. (3) and added pars. (4) to (6).
+
 2018—Pub. L. 115–232 redesignated pars. (5) to (7) as (1) to (3), respectively, and struck out former pars. (1) to (4) which set out authorized amounts for fiscal years 2006 to 2017.
 
 2015—Par. (3). Pub. L. 114–113, § 101(e)(2)(A), substituted “and 2015” for “2015, 2017, and 2018;”.

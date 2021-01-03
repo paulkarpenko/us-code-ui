@@ -18,7 +18,7 @@ Section, Aug. 10, 1956, ch. 1041, 70A Stat. 584, related to inquests.
 ## § 9712. Disposition of effects of deceased persons by summary court-martial
 **(a)** Upon the death of—
 
-(1) a person subject to military law at a place or command under the jurisdiction of the Air Force; or
+(1) a person subject to military law at a place or command under the jurisdiction of the Air Force or the Space Force; or
 
 (2) a resident of the Armed Forces Retirement Home who dies in an Air Force hospital outside the District of Columbia when sent from the Home to that hospital for treatment;
 the commanding officer of the place or command shall permit the legal representative or the surviving spouse of the deceased, if present, to take possession of the effects of the deceased that are then at the air base or in quarters.
@@ -70,6 +70,8 @@ In subsection (e), the first 37 words are substituted for 5:150j (33 words after
 In subsection (f), the words “Soldiers’ Home” are inserted, since, as provided in [section 9713 of this title](./chapter-975-disposition-of-effects-of-deceased-persons.md#section-9713), the Home is now the place where the mentioned articles are sent.
 
 #### Amendments
+2021—Subsec. (a)(1). Pub. L. 116–283 inserted “or the Space Force” after “the Air Force”.
+
 1996—Subsec. (g). Pub. L. 104–316 struck out subsec. (g) which read as follows: “The summary court-martial shall make a full report of the transactions under this section, with respect to the deceased, to the Department of the Air Force for transmission to the General Accounting Office for action authorized in the settlement of accounts of deceased members of the Air Force.”
 
 1990—Subsec. (a)(2). Pub. L. 101–510, § 1533(a)(9)(A), substituted “a resident of the Armed Forces Retirement Home” for “an inmate of the United States Soldiers’ and Airmen’s Home”.

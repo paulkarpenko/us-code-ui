@@ -147,7 +147,7 @@ Committee on Resources of House of Representatives changed to Committee on Natur
 
   (A) one shall be the Director of the United States Fish and Wildlife Service, who shall be the responsible Federal official for ensuring Council compliance with the National Environmental Policy Act of 1969 ([42 U.S.C. 4321](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) et seq.);
 
-  (B) one shall be the Secretary of the Board of the National Fish and Wildlife Foundation appointed pursuant to [section 3702(g)(2)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section3702/g/2/B&num=0&edition=prelim);
+  (B) one shall be the Executive Director of the Board of the National Fish and Wildlife Foundation appointed pursuant to [section 3702(g)(2)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section3702/g/2/B&num=0&edition=prelim);
 
   (C) four shall be individuals who shall be appointed by the Secretary, who shall reside in different flyways and who shall each be a Director of the State fish and wildlife agency; and
 
@@ -200,6 +200,8 @@ The National Environmental Policy Act of 1969, referred to in subsec. (a)(1)(A),
 Public Law 92–463, referred to in subsec. (a)(1), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, known as the Federal Advisory Committee Act, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Amendments
+2020—Subsec. (a)(1)(B). Pub. L. 116–188 substituted “Executive Director of the Board” for “Secretary of the Board”.
+
 2002—Subsec. (a)(1)(A). Pub. L. 107–308, § 8(b)(1), amended directory language of Pub. L. 101–593, § 112(1). See 1990 Amendment note below.
 
 Subsec. (a)(1)(B). Pub. L. 107–308, § 8(a)(6), substituted “section 3702(g)(2)(B)” for “section 3702(2)(B)”.
@@ -292,17 +294,7 @@ For termination, effective May 15, 2000, of provisions of law requiring submitta
 
 **(b) Migratory bird fines, penalties, forfeitures** The sums received under [section 707 of this title](./chapter-007-protection-of-migratory-game-and-insectivorous-birds.md#section-707) as penalties or fines, or from forfeitures of property are authorized to be appropriated to the Department of the Interior for purposes of allocation under [section 4407 of this title](./chapter-064-north-american-wetlands-conservation.md#section-4407). This subsection shall not be construed to require the sale of instrumentalities.
 
-**(c) Authorization of appropriations** In addition to the amounts made available under subsections (a) and (b) of this section, there are authorized to be appropriated to the Department of the Interior for purposes of allocation under [section 4407 of this title](./chapter-064-north-american-wetlands-conservation.md#section-4407) not to exceed—
-
-(1) $55,000,000 for fiscal year 2003;
-
-(2) $60,000,000 for fiscal year 2004;
-
-(3) $65,000,000 for fiscal year 2005;
-
-(4) $70,000,000 for fiscal year 2006; and
-
-(5) $75,000,000 for each of fiscal years 2008 through 2012.
+**(c) Authorization of appropriations** In addition to the amounts made available under subsections (a) and (b) of this section, there are authorized to be appropriated to the Department of the Interior for purposes of allocation under [section 4407 of this title](./chapter-064-north-american-wetlands-conservation.md#section-4407) not to exceed $60,000,000 for each of fiscal years 2021 through 2025.
 
 **(d) Availability of funds** Sums made available under this section shall be available until expended.
 
@@ -312,6 +304,8 @@ For termination, effective May 15, 2000, of provisions of law requiring submitta
 Section is comprised of section 7 of Pub. L. 101–233. Subsec. (a) of section 7 of Pub. L. 101–233 amended sections 669b and 669c of this title and enacted provisions set out as a note under [section 669b of this title](./chapter-5b-wildlife-restoration.md#section-669b).
 
 #### Amendments
+2020—Subsec. (c). Pub. L. 116–188 substituted “not to exceed $60,000,000 for each of fiscal years 2021 through 2025.” for “not to exceed—” and pars. (1) to (5) authorizing appropriations of $55,000,000, $60,000,000, $65,000,000, and $70,000,000 for fiscal years 2003 through 2006, respectively, and $75,000,000 for each of fiscal years 2008 through 2012.
+
 2006—Subsec. (c)(5). Pub. L. 109–322 substituted “each of fiscal years 2008 through 2012” for “fiscal year 2007”.
 
 2002—Subsec. (c). Pub. L. 107–308 substituted “not to exceed—” and pars. (1) to (5) for “not to exceed $50,000,000 for each of fiscal years 1999 through 2003.”

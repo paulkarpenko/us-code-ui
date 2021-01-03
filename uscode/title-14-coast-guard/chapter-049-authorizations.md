@@ -11,17 +11,11 @@ source: >-
 
 Amounts may be appropriated to or for the use of the Coast Guard for the following matters only if the amounts have been authorized by law after December 31, 1976:
 
-(1) For the operation and maintenance of the Coast Guard, not otherwise provided for.
+(1) For the operation and support of the Coast Guard, not otherwise provided for.
 
-(2) For the acquisition, construction, renovation, and improvement of aids to navigation, shore facilities, vessels, aircraft, and systems, including equipment related thereto, and for maintenance, rehabilitation, lease, and operation of facilities and equipment.
+(2) For the procurement, construction, renovation, and improvement of aids to navigation, shore facilities, vessels, aircraft, and systems, including equipment related thereto, and for maintenance, rehabilitation, lease, and operation of facilities and equipment.
 
-(3) For the Coast Guard Reserve program, including operations and maintenance of the program, personnel and training costs, equipment, and services.
-
-(4) For the environmental compliance and restoration functions of the Coast Guard under [section 318 of this title](./chapter-003-composition-and-organization.md#section-318).
-
-(5) For research, development, test, and evaluation of technologies, materials, and human factors directly related to improving the performance of the Coast Guard.
-
-(6) For alteration or removal of bridges over navigable waters of the United States constituting obstructions to navigation, and for personnel and administrative costs associated with the Alteration of Bridges Program.
+(3) For research and development.11 So in original. The period probably should not appear. of technologies, materials, and human factors directly related to improving the performance of the Coast Guard.
 
 ### Statutory Notes
 
@@ -33,6 +27,18 @@ Amounts may be appropriated to or for the use of the Coast Guard for the followi
 The word “Amounts” is substituted for “funds” for clarity and consistency. Before clause (1), the words “After fiscal year 1977” are omitted as executed. The words “of such funds” are omitted as unnecessary. In clause (2), the words “aids, establishments, vessels, or aircraft” are substituted for “thereto” for clarity. In clause (4), the words “a matter referred to in clauses (1)–(3)” are substituted for “any of the above” for clarity.
 
 #### Amendments
+2021—Par. (1). Pub. L. 116–283, § 8513(a)(5)(A), substituted “support” for “maintenance”.
+
+Par. (2). Pub. L. 116–283, § 8513(a)(5)(B), substituted “procurement” for “acquisition”.
+
+Par. (3). Pub. L. 116–283, § 8513(a)(5)(C)–(E), redesignated par. (5) as (3), substituted “research and development.” for “research, development, test, and evaluation”, and struck out former par. (3) which read as follows: “For the Coast Guard Reserve program, including operations and maintenance of the program, personnel and training costs, equipment, and services.”
+
+Par. (4). Pub. L. 116–283, § 8513(a)(5)(C), struck out par. (4) which read as follows: “For the environmental compliance and restoration functions of the Coast Guard under [section 318 of this title](./chapter-003-composition-and-organization.md#section-318).”
+
+Par. (5). Pub. L. 116–283, § 8513(a)(5)(D), redesignated par. (5) as (3).
+
+Par. (6). Pub. L. 116–283, § 8513(a)(5)(C), struck out par. (6) which read as follows: “For alteration or removal of bridges over navigable waters of the United States constituting obstructions to navigation, and for personnel and administrative costs associated with the Alteration of Bridges Program.”
+
 2018—Pub. L. 115–282, § 121(b), renumbered [section 2701 of this title](./chapter-027-pay-allowances-awards-and-other-rights-and-benefits.md#section-2701) as this section.
 
 Par. (2). Pub. L. 115–232 substituted “aircraft, and systems” for “and aircraft”.
@@ -61,34 +67,76 @@ Pars. (1) to (6). Pub. L. 114–120, § 101(b)(3), added pars. (1) to (6) and st
 <a id="section-4902"></a>
 ## § 4902. Authorizations of appropriations
 
-Funds are authorized to be appropriated for fiscal year 2019 for necessary expenses of the Coast Guard as follows:
+Funds are authorized to be appropriated for fiscal years 2020 and 2021 for necessary expenses of the Coast Guard as follows:
 
 (1)
 
-  (A) For the operation and maintenance of the Coast Guard, not otherwise provided for, $7,914,195,000 for fiscal year 2019.
+  (A) For the operation and maintenance of the Coast Guard, not otherwise provided for—
 
-  (B) Of the amount authorized under subparagraph (A)—
+    (i) $8,151,620,850 for fiscal year 2020; and
 
-    (i) $16,701,000 shall be for environmental compliance and restoration; and
+    (ii) $8,396,169,475 for fiscal year 2021.
 
-    (ii) $199,360,000 shall be for the Coast Guard’s Medicare-eligible retiree health care fund contribution to the Department of Defense.
+  (B) Of the amount authorized under subparagraph (A)(i), $17,035,000 shall be for environmental compliance and restoration.
 
-(2) For the procurement, construction, renovation, and improvement of aids to navigation, shore facilities, vessels, aircraft, and systems, including equipment related thereto, and for maintenance, rehabilitation, lease, and operation of facilities and equipment, $2,694,745,000 for fiscal year 2019.
+  (C) Of the amount authorized under subparagraph, (A)(ii) 11 So in original. Probably should be “subparagraph (A)(ii),”. $17,376,000 shall be for environmental compliance and restoration.
 
-(3) To the Commandant for research, development, test, and evaluation of technologies, materials, and human factors directly related to improving the performance of the Coast Guard’s mission with respect to search and rescue, aids to navigation, marine safety, marine environmental protection, enforcement of laws and treaties, ice operations, oceanographic research, and defense readiness, and for maintenance, rehabilitation, lease, and operation of facilities and equipment, $29,141,000 for fiscal year 2019.
+(2)
+
+  (A) For the procurement, construction, renovation, and improvement of aids to navigation, shore facilities, vessels, aircraft, and systems, including equipment related thereto, and for maintenance, rehabilitation, lease, and operation of facilities and equipment—
+
+    (i) $2,794,745,000 for fiscal year 2020; and
+
+    (ii) $3,312,114,000 for fiscal year 2021.
+
+  (B) Of the amounts authorized under subparagraph (A), the following amounts shall be for the alteration of bridges:
+
+    (i) $10,000,000 for fiscal year 2020; and
+
+    (ii) $20,000,000 for fiscal year 2021.
+
+(3) To the Commandant for research, development, test, and evaluation of technologies, materials, and human factors directly related to improving the performance of the Coast Guard’s mission with respect to search and rescue, aids to navigation, marine safety, marine environmental protection, enforcement of laws and treaties, ice operations, oceanographic research, and defense readiness, and for maintenance, rehabilitation, lease, and operation of facilities and equipment—
+
+  (A) $13,834,000 for fiscal year 2020; and
+
+  (B) $14,111,000 for fiscal year 2021.
+
+(4) For the Coast Guard’s Medicare-eligible retiree health care fund contribution to the Department of Defense—
+
+  (A) $205,107,000 for fiscal year 2020; and
+
+  (B) $209,209,000 for fiscal year 2021.
 
 ### Statutory Notes
 
 #### Amendments
+2021—Pub. L. 116–283, § 8101(1), substituted “years 2020 and 2021” for “year 2019” in introductory provisions.
+
+Par. (1)(A). Pub. L. 116–283, § 8101(2), substituted “provided for—” for “provided for, $7,914,195,000 for fiscal year 2019.” and added cls. (i) and (ii).
+
+Par. (1)(B). Pub. L. 116–283, § 8101(3), (4), substituted “subparagraph (A)(i), $17,035,000 shall be for environmental compliance and restoration.” for “subparagraph (A)—” in introductory provisions and struck out cls. (i) and (ii) which read as follows:
+
+“(i) $16,701,000 shall be for environmental compliance and restoration; and
+
+“(ii) $199,360,000 shall be for the Coast Guard’s Medicare-eligible retiree health care fund contribution to the Department of Defense.”
+
+Par. (1)(C). Pub. L. 116–283, § 8101(5), added subpar. (C).
+
+Par. (2). Pub. L. 116–283, § 8101(6), designated existing provisions as subpar. (A), substituted “and equipment—” for “and equipment, $2,694,745,000 for fiscal year 2019.”, added cls. (i) and (ii) of subpar. (A), and added subpar. (B).
+
+Par. (3). Pub. L. 116–283, § 8101(7), substituted “and equipment—” for “and equipment, $29,141,000 for fiscal year 2019.” and added subpars. (A) and (B).
+
+Par. (4). Pub. L. 116–283, § 8101(8), added par. (4).
+
 2018—Pub. L. 115–282, § 202(b), struck out subsec. (b) designation and heading before “Funds are authorized” and struck out subsec. (a) which related to authorization of appropriations for fiscal year 2018.
 
 Pub. L. 115–282, § 202(a), amended section generally. Prior to amendment, section related to authorization of appropriations.
 
 Pub. L. 115–282, § 121(b), renumbered [section 2702 of this title](./chapter-027-pay-allowances-awards-and-other-rights-and-benefits.md#section-2702) as this section.
 
-Par. (4). Pub. L. 115–282, § 123(c)(5)(B), substituted “section 318” for “chapter 19” in introductory provisions.
+Par. (2). Pub. L. 115–232, § 3538(b), substituted “aircraft, and systems” for “and aircraft” in introductory provisions.
 
-2018—Par. (2). Pub. L. 115–232, § 3538(b), substituted “aircraft, and systems” for “and aircraft” in introductory provisions.
+Par. (4). Pub. L. 115–282, § 123(c)(5)(B), substituted “section 318” for “chapter 19” in introductory provisions.
 
 Par. (5). Pub. L. 115–232, § 3531(c)(14), substituted “Commandant” for “Commandant of the Coast Guard” in introductory provisions.
 
@@ -140,9 +188,9 @@ The words “after fiscal year 1977” are omitted as executed. The word “Amou
 
 <a id="section-4904"></a>
 ## § 4904. Authorized levels of military strength and training
-**(a) Active Duty Strength.—** The Coast Guard is authorized an end-of-year strength for active duty personnel of 43,000 for fiscal year 2018 and 44,500 for fiscal year 2019.
+**(a) Active Duty Strength.—** The Coast Guard is authorized an end-of-year strength for active duty personnel of 44,500 for each of fiscal years 2020 and 2021.
 
-**(b) Military Training Student Loads.—** The Coast Guard is authorized average military training student loads for each of fiscal years 2018 and 2019 as follows:
+**(b) Military Training Student Loads.—** The Coast Guard is authorized average military training student loads for each of fiscal years 2020 and 2021 as follows:
 
 (1) For recruit and special training, 2,500 student years.
 
@@ -155,6 +203,10 @@ The words “after fiscal year 1977” are omitted as executed. The word “Amou
 ### Statutory Notes
 
 #### Amendments
+2021—Subsec. (a). Pub. L. 116–283, § 8102(1), substituted “44,500 for each of fiscal years 2020 and 2021” for “43,000 for fiscal year 2018 and 44,500 for fiscal year 2019”.
+
+Subsec. (b). Pub. L. 116–283, § 8102(2), substituted “fiscal years 2020 and 2021” for “fiscal years 2018 and 2019” in introductory provisions.
+
 2018—Pub. L. 115–282 renumbered [section 2704 of this title](./chapter-027-pay-allowances-awards-and-other-rights-and-benefits.md#section-2704) as this section.
 
 Subsec. (a). Pub. L. 115–282, § 203(1), substituted “for fiscal year 2018 and 44,500 for fiscal year 2019” for “for each of fiscal years 2016 and 2017”.

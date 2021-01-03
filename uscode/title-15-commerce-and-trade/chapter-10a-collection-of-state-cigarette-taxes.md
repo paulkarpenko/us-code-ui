@@ -19,7 +19,11 @@ As used in this chapter, the following definitions apply:
 
     (i) has the meaning given that term in [section 2341 of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section2341&num=0&edition=prelim); and
 
-    (ii) includes roll-your-own tobacco (as defined in [section 5702 of title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section5702&num=0&edition=prelim)).
+    (ii) includes—
+
+      (I) roll-your-own tobacco (as defined in [section 5702 of title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section5702&num=0&edition=prelim)); and
+
+      (II) an electronic nicotine delivery system.
 
   (B) *Exception* — The term “cigarette” does not include a cigar (as defined in [section 5702 of title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section5702&num=0&edition=prelim)).
 
@@ -39,37 +43,78 @@ As used in this chapter, the following definitions apply:
 
 (6) **Delivery seller** — The term “delivery seller” means a person who makes a delivery sale.
 
-(7) **Indian country** — The term “Indian country”—
+(7) **Electronic nicotine delivery system** — The term “electronic nicotine delivery system”—
+
+  (A) means any electronic device that, through an aerosolized solution, delivers nicotine, flavor, or any other substance to the user inhaling from the device;
+
+  (B) includes—
+
+    (i) an e-cigarette;
+
+    (ii) an e-hookah;
+
+    (iii) an e-cigar;
+
+    (iv) a vape pen;
+
+    (v) an advanced refillable personal vaporizer;
+
+    (vi) an electronic pipe; and
+
+    (vii) any component, liquid, part, or accessory of a device described in subparagraph (A), without regard to whether the component, liquid, part, or accessory is sold separately from the device; and
+
+  (C) does not include a product that is—
+
+    (i) approved by the Food and Drug Administration for—
+
+      (I) sale as a tobacco cessation product; or
+
+      (II) any other therapeutic purpose; and
+
+    (ii) marketed and sold solely for a purpose described in clause (i).
+
+(8) **Indian country** — The term “Indian country”—
 
   (A) has the meaning given that term in [section 1151 of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section1151&num=0&edition=prelim), except that within the State of Alaska that term applies only to the Metlakatla Indian Community, Annette Island Reserve; and
 
   (B) includes any other land held by the United States in trust or restricted status for one or more Indian tribes.
 
-(8) **Indian tribe** — The term “Indian tribe”, “tribe”, or “tribal” refers to an Indian tribe as defined in [section 5304(e) of title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5304/e&num=0&edition=prelim) or as listed pursuant to [section 5131 of title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5131&num=0&edition=prelim).
+(9) **Indian tribe** — The term “Indian tribe”, “tribe”, or “tribal” refers to an Indian tribe as defined in [section 5304(e) of title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5304/e&num=0&edition=prelim) or as listed pursuant to [section 5131 of title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5131&num=0&edition=prelim).
 
-(9) **Interstate commerce**
+(10) **Interstate commerce**
 
   (A) *In general* — The term “interstate commerce” means commerce between a State and any place outside the State, commerce between a State and any Indian country in the State, or commerce between points in the same State but through any place outside the State or through any Indian country.
 
   (B) *Into a State, place, or locality* — A sale, shipment, or transfer of cigarettes or smokeless tobacco that is made in interstate commerce, as defined in this paragraph, shall be deemed to have been made into the State, place, or locality in which such cigarettes or smokeless tobacco are delivered.
 
-(10) **Person** — The term “person” means an individual, corporation, company, association, firm, partnership, society, State government, local government, Indian tribal government, governmental organization of such a government, or joint stock company.
+(11) **Person** — The term “person” means an individual, corporation, company, association, firm, partnership, society, State government, local government, Indian tribal government, governmental organization of such a government, or joint stock company.
 
-(11) **State** — The term “State” means each of the several States of the United States, the District of Columbia, the Commonwealth of Puerto Rico, or any territory or possession of the United States.
+(12) **State** — The term “State” means each of the several States of the United States, the District of Columbia, the Commonwealth of Puerto Rico, or any territory or possession of the United States.
 
-(12) **Smokeless tobacco** — The term “smokeless tobacco” means any finely cut, ground, powdered, or leaf tobacco, or other product containing tobacco, that is intended to be placed in the oral or nasal cavity or otherwise consumed without being combusted.
+(13) **Smokeless tobacco** — The term “smokeless tobacco” means any finely cut, ground, powdered, or leaf tobacco, or other product containing tobacco, that is intended to be placed in the oral or nasal cavity or otherwise consumed without being combusted.
 
-(13) **Tobacco tax administrator** — The term “tobacco tax administrator” means the State, local, or tribal official duly authorized to collect the tobacco tax or administer the tax law of a State, locality, or tribe, respectively.
+(14) **Tobacco tax administrator** — The term “tobacco tax administrator” means the State, local, or tribal official duly authorized to collect the tobacco tax or administer the tax law of a State, locality, or tribe, respectively.
 
-(14) **Use** — The term “use” includes the consumption, storage, handling, or disposal of cigarettes or smokeless tobacco.
+(15) **Use** — The term “use” includes the consumption, storage, handling, or disposal of cigarettes or smokeless tobacco.
 
 ### Statutory Notes
 
 #### Prior Provisions
 A prior section 375, act Oct. 19, 1949, ch. 699, § 1, 63 Stat. 884; Aug. 9, 1955, ch. 695, § 1, 69 Stat. 627, set out definitions for this chapter, prior to repeal by Pub. L. 111–154, § 2(a), Mar. 31, 2010, 124 Stat. 1088.
 
+#### Amendments
+2020—Par. (2)(A)(ii). Pub. L. 116–260, § 602(a)(1)(A), substituted “includes—” for “includes”, inserted subcl. (I) designation before “roll-your-own tobacco”, and added subcl. (II).
+
+Pars. (7) to (15). Pub. L. 116–260, § 602(a)(1)(B), (C), added par. (7) and redesignated former pars. (7) to (14) as (8) to (15), respectively.
+
+#### Effective Date of 2020 Amendment
+Pub. L. 116–260, div. FF, title VI, § 602(b), Dec. 27, 2020, 134 Stat. 3137, provided that: “This section [amending this section and [section 376a of this title](./chapter-10a-collection-of-state-cigarette-taxes.md#section-376a) and enacting provisions set out as a note under this section], and the amendments made by this section, shall take effect on the date that is 90 days after the date of enactment of this Act [Dec. 27, 2020].”
+
 #### Effective Date
 Pub. L. 111–154, § 6, Mar. 31, 2010, 124 Stat. 1110, provided that: “(a) In General.—Except as provided in subsection (b), this Act [see Short Title of 2010 Amendment note below] shall take effect on the date that is 90 days after the date of enactment of this Act [Mar. 31, 2010]. “(b) BATFE Authority.—The amendments made by section 4 [amending [section 2343 of Title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section2343&num=0&edition=prelim), Crimes and Criminal Procedure] shall take effect on the date of enactment of this Act.”
+
+#### Short Title of 2020 Amendment
+Pub. L. 116–260, div. FF, title VI, § 601, Dec. 27, 2020, 134 Stat. 3136, provided that: “This title [amending this section and [section 376a of this title](./chapter-10a-collection-of-state-cigarette-taxes.md#section-376a) and enacting provisions set out as notes under this section and [section 1716E of Title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section1716E&num=0&edition=prelim), Crimes and Criminal Procedure] may be cited as the ‘Preventing Online Sales of E-Cigarettes to Children Act’.”
 
 #### Short Title of 2010 Amendment
 Pub. L. 111–154, § 1(a), Mar. 31, 2010, 124 Stat. 1087, provided that: “This Act [enacting this section, sections 376a, 377, and 378 of this title, and [section 1716E of Title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section1716E&num=0&edition=prelim), Crimes and Criminal Procedure, amending [section 376 of this title](./chapter-10a-collection-of-state-cigarette-taxes.md#section-376) and [section 2343 of Title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section2343&num=0&edition=prelim), repealing former sections 375, 377, and 378 of this title, and enacting provisions set out as notes under this section] may be cited as the ‘Prevent All Cigarette Trafficking Act of 2009’ or ‘PACT Act’.”
@@ -79,6 +124,9 @@ Act Oct. 19, 1949, ch. 699, 63 Stat. 884, which is classified generally to this 
 
 #### Severability
 Pub. L. 111–154, § 7, Mar. 31, 2010, 124 Stat. 1111, provided that: “If any provision of this Act [see Short Title of 2010 Amendment note above], or any amendment made by this Act, or the application thereof to any person or circumstance, is held invalid, the remainder of the Act and the application of the Act to any other person or circumstance shall not be affected thereby.”
+
+#### Rule of Construction
+Pub. L. 116–260, div. FF, title VI, § 602(c), Dec. 27, 2020, 134 Stat. 3137, provided that: “Nothing in this section [amending this section and [section 376a of this title](./chapter-10a-collection-of-state-cigarette-taxes.md#section-376a) and enacting provisions set out as a note under this section], or an amendment made by this section, may be construed to affect or otherwise alter any provision of the Federal Food, Drug, and Cosmetic Act ([21 U.S.C. 301](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section301&num=0&edition=prelim) et seq.), including its implementing regulations.”
 
 #### Findings and Purpose
 Pub. L. 111–154, § 1(b), (c), Mar. 31, 2010, 124 Stat. 1087, 1088, provided that: “(b) Findings.—Congress finds that—“(1) the sale of illegal cigarettes and smokeless tobacco products significantly reduces Federal, State, and local government revenues, with Internet sales alone accounting for billions of dollars of lost Federal, State, and local tobacco tax revenue each year; “(2) Hezbollah, Hamas, al Qaeda, and other terrorist organizations have profited from trafficking in illegal cigarettes or counterfeit cigarette tax stamps; “(3) terrorist involvement in illicit cigarette trafficking will continue to grow because of the large profits such organizations can earn; “(4) the sale of illegal cigarettes and smokeless tobacco over the Internet, and through mail, fax, or phone orders, makes it cheaper and easier for children to obtain tobacco products; “(5) the majority of Internet and other remote sales of cigarettes and smokeless tobacco are being made without adequate precautions to protect against sales to children, without the payment of applicable taxes, and without complying with the nominal registration and reporting requirements in existing Federal law; “(6) unfair competition from illegal sales of cigarettes and smokeless tobacco is taking billions of dollars of sales away from law-abiding retailers throughout the United States; “(7) with rising State and local tobacco tax rates, the incentives for the illegal sale of cigarettes and smokeless tobacco have increased; “(8) the number of active tobacco investigations being conducted by the Bureau of Alcohol, Tobacco, Firearms, and Explosives rose to 452 in 2005; “(9) the number of Internet vendors in the United States and in foreign countries that sell cigarettes and smokeless tobacco to buyers in the United States increased from only about 40 in 2000 to more than 500 in 2005; and “(10) the intrastate sale of illegal cigarettes and smokeless tobacco over the Internet has a substantial effect on interstate commerce. “(c) Purposes.—It is the purpose of this Act [see Short Title of 2010 Amendment note above] to—“(1) require Internet and other remote sellers of cigarettes and smokeless tobacco to comply with the same laws that apply to law-abiding tobacco retailers; “(2) create strong disincentives to illegal smuggling of tobacco products; “(3) provide government enforcement officials with more effective enforcement tools to combat tobacco smuggling; “(4) make it more difficult for cigarette and smokeless tobacco traffickers to engage in and profit from their illegal activities; “(5) increase collections of Federal, State, and local excise taxes on cigarettes and smokeless tobacco; and “(6) prevent and reduce youth access to inexpensive cigarettes and smokeless tobacco through illegal Internet or contraband sales.”
@@ -152,7 +200,7 @@ Act Aug. 15, 1953, ch. 512, title II, § 201(b), 67 Stat. 617, provided that: �
 
 **(b) Shipping and packaging**
 
-(1) **Required statement** — For any shipping package containing cigarettes or smokeless tobacco, the delivery seller shall include on the bill of lading, if any, and on the outside of the shipping package, on the same surface as the delivery address, a clear and conspicuous statement providing as follows: “CIGARETTES/SMOKELESS TOBACCO: FEDERAL LAW REQUIRES THE PAYMENT OF ALL APPLICABLE EXCISE TAXES, AND COMPLIANCE WITH APPLICABLE LICENSING AND TAX-STAMPING OBLIGATIONS”.
+(1) **Required statement** — For any shipping package containing cigarettes or smokeless tobacco, the delivery seller shall include on the bill of lading, if any, and on the outside of the shipping package, on the same surface as the delivery address, a clear and conspicuous statement providing as follows: “CIGARETTES/NICOTINE/SMOKELESS TOBACCO: FEDERAL LAW REQUIRES THE PAYMENT OF ALL APPLICABLE EXCISE TAXES, AND COMPLIANCE WITH APPLICABLE LICENSING AND TAX-STAMPING OBLIGATIONS”.
 
 (2) **Failure to label** — Any shipping package described in paragraph (1) that is not labeled in accordance with that paragraph shall be treated as nondeliverable matter by a common carrier or other delivery service, if the common carrier or other delivery service knows or should know the package contains cigarettes or smokeless tobacco. If a common carrier or other delivery service believes a package is being submitted for delivery in violation of paragraph (1), it may require the person submitting the package for delivery to establish that it is not being sent in violation of paragraph (1) before accepting the package for delivery. Nothing in this paragraph shall require the common carrier or other delivery service to open any package to determine its contents.
 
@@ -378,6 +426,12 @@ Act Aug. 15, 1953, ch. 512, title II, § 201(b), 67 Stat. 617, provided that: �
 The Prevent All Cigarette Trafficking Act of 2009, referred to in subsec. (e)(1)(A), (5)(C)(i), is Pub. L. 111–154, Mar. 31, 2010, 124 Stat. 1087, also known as the PACT Act. For complete classification of this Act to the Code, see Short Title of 2010 Amendment note set out under [section 375 of this title](./chapter-10a-collection-of-state-cigarette-taxes.md#section-375) and Tables.
 
 For the date subsection (e) of this section goes into effect, referred to in subsec. (e)(1)(A), see Effective Date note below.
+
+#### Amendments
+2020—Subsec. (b)(1). Pub. L. 116–260 inserted “NICOTINE/” after “CIGARETTES/”.
+
+#### Effective Date of 2020 Amendment
+Amendment by Pub. L. 116–260 effective on the date that is 90 days after Dec. 27, 2020, see section 602(b) of Pub. L. 116–260, set out as a note under [section 375 of this title](./chapter-10a-collection-of-state-cigarette-taxes.md#section-375).
 
 #### Effective Date
 Section effective on the date that is 90 days after March 31, 2010, see section 6 of Pub. L. 111–154, set out as an Effective Date of 2010 Amendment note under [section 375 of this title](./chapter-10a-collection-of-state-cigarette-taxes.md#section-375).

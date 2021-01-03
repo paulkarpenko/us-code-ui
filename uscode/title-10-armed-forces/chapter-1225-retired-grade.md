@@ -8,11 +8,11 @@ source: >-
 ---
 <a id="section-12771"></a>
 ## § 12771. Reserve officers: grade on transfer to Retired Reserve
-**(a) Grade on Transfer.—** Unless entitled to a higher grade under another provision of law, a reserve commissioned officer, other than a commissioned warrant officer, who is transferred to the Retired Reserve is entitled to be placed on the retired list established by [section 12774(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section12774/a&num=0&edition=prelim) in the highest grade in which he served satisfactorily, as determined by the Secretary concerned and in accordance with section 1370(d), in the armed force in which he is serving on the date of transfer.
+**(a) Grade on Transfer.—** Unless entitled to a higher grade under another provision of law, a reserve commissioned officer, other than a commissioned warrant officer, who is transferred to the Retired Reserve is entitled to be placed on the retired list established by [section 12774(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section12774/a&num=0&edition=prelim) in the highest grade in which he served satisfactorily, as determined by the Secretary concerned and in accordance with [section 1370a of this title](./chapter-069-retired-grade.md#section-1370a), in the armed force in which he is serving on the date of transfer.
 
 **(b) Effect of Subsequent Recall to Active Status.—**
 
-(1) If a member of the Retired Reserve who is a commissioned officer is recalled to an active status in the Selected Reserve of the Ready Reserve under [section 10145(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section10145/d&num=0&edition=prelim) and completes not less than two years of service in such active status, the member is entitled to an adjustment in the retired grade of the member in the manner provided in [section 1370(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1370/d&num=0&edition=prelim).
+(1) If a member of the Retired Reserve who is a commissioned officer is recalled to an active status in the Selected Reserve of the Ready Reserve under [section 10145(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section10145/d&num=0&edition=prelim) and completes not less than two years of service in such active status, the member is entitled to an adjustment in the retired grade of the member in the manner provided in [section 1370a of this title](./chapter-069-retired-grade.md#section-1370a).
 
 (2) The Secretary concerned may reduce the two-year service requirement specified in paragraph (1) in the case of a member who—
 
@@ -28,6 +28,10 @@ source: >-
 Provisions similar to those in this section were contained in section 1374(b), (f) of this title, prior to repeal by Pub. L. 103–337, § 1662(k)(2).
 
 #### Amendments
+2021—Subsec. (a). Pub. L. 116–283, § 508(b)(5)(A), substituted “[section 1370a of this title](./chapter-069-retired-grade.md#section-1370a)” for “section 1370(d)”.
+
+Subsec. (b)(1). Pub. L. 116–283, § 508(b)(5)(B), substituted “section 1370a” for “section 1370(d)”.
+
 2009—Pub. L. 111–84 designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
 
 #### Effective Date

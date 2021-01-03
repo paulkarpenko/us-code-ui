@@ -42,6 +42,9 @@ For purposes of this chapter—
 
 Par. (10). Pub. L. 111–211, § 203(b), added par. (10).
 
+#### Short Title of 2020 Amendment
+Pub. L. 116–166, § 1, Oct. 10, 2020, 134 Stat. 766, provided that: “This Act [enacting provisions set out as a note under [section 2802 of this title](./chapter-030-indian-law-enforcement-reform.md#section-2802)] may be cited as the ‘Not Invisible Act of 2019’.”
+
 #### Short Title of 2010 Amendment
 Pub. L. 111–211, title II, § 201(a), July 29, 2010, 124 Stat. 2261, provided that: “This title [enacting part G (§ 458ccc et seq.) of subchapter II of chapter 14 of this title and sections 2810 to 2815, 3665a, and 3682 of this title, redesignating part F (§ 458bbb et seq.) of subchapter II of chapter 14 of this title as part H (§ 458ddd et seq.), amending this section and sections 458ddd–1, 458ddd–2, 1302, 1321, 2411 to 2413, 2414a, 2415, 2431 to 2433, 2441, 2442, 2451, 2453, 2802 to 2804, 2809, 3613, 3621, 3653, 3662, 3663, 3666, and 3681 of this title, sections 841, 845, 1162, 4042, and 4352 of Title 18, Crimes and Criminal Procedure, sections 872, 872a, 873, and 878 of Title 21, Food and Drugs, sections 534 and 543 of Title 28, Judiciary and Judicial Procedure, and sections 2996f, 3732, 3796h, 3796dd, 5616, 5783, and 13709 of Title 42, The Public Health and Welfare, enacting provisions set out as notes under this section and [section 1302 of this title](./chapter-015-constitutional-rights-of-indians.md#section-1302), [section 872 of Title 21](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section872&num=0&edition=prelim), [section 534 of Title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section534&num=0&edition=prelim), and sections 3732, 3796h, 3796dd, and 14044 of Title 42, amending provisions set out as a note under [section 534 of Title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section534&num=0&edition=prelim), and repealing provisions set out as a note under [section 3651 of this title](./chapter-38a-indian-tribal-justice-technical-and-legal-assistance.md#section-3651)] may be cited as the ‘Tribal Law and Order Act of 2010’.”
 
@@ -62,6 +65,77 @@ Pub. L. 111–211, title II, § 206, July 29, 2010, 124 Stat. 2264, provided tha
 
 #### Definitions
 Pub. L. 111–211, title II, § 203(a), July 29, 2010, 124 Stat. 2263, provided that: “In this title [see Short Title of 2010 Amendment note above]: “(1) Indian country.—The term ‘Indian country’ has the meaning given the term in [section 1151 of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section1151&num=0&edition=prelim), United States Code. “(2) Indian tribe.—The term ‘Indian tribe’ has the meaning given the term in section 102 of the Federally Recognized Indian Tribe List Act of 1994 ([25 U.S.C. 479a](./chapter-014-miscellaneous.md#section-479a)) [now [25 U.S.C. 5130](./chapter-045-protection-of-indians-and-conservation-of-resources.md#section-5130)]. “(3) Secretary.—The term ‘Secretary’ means the Secretary of the Interior. “(4) Tribal government.—The term ‘tribal government’ means the governing body of a federally recognized Indian tribe.”
+
+#### Ex. Ord. No. 13898. Establishing the Task Force on Missing and Murdered American Indians and Alaska Natives
+Ex. Ord. No. 13898, Nov. 26, 2019, 84 F.R. 66059, provided:
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, and in order to enhance the operation of the criminal justice system and address the legitimate concerns of American Indian and Alaska Native communities regarding missing and murdered people—particularly missing and murdered indigenous women and girls—it is hereby ordered as follows:
+
+Section 1. Purpose. My Administration has heard the ongoing and serious concerns of tribal governments regarding missing and murdered members of American Indian and Alaska Native communities, particularly women and girls. To address the severity of those concerns, top officials within the Federal Government will coordinate and engage with the tribal governments.
+
+Sec. 2. Establishment. (a) There is hereby established the Task Force on Missing and Murdered American Indians and Alaska Natives (Task Force), co-chaired by the Attorney General and the Secretary of the Interior (Secretary) or their designees.
+
+(b) The Department of Justice shall provide funding and administrative support as may be necessary for the performance and functions of the Task Force. The Attorney General, in consultation with the Secretary, shall designate an official of the Department of Justice to serve as the Executive Director of the Task Force, responsible for coordinating its day-to-day functions. As necessary and appropriate, the Co-Chairs may afford the other members of the Task Force an opportunity to provide input into the decision of whom to designate as the Executive Director.
+
+Sec. 3. Membership. (a) In addition to the Co-Chairs, the Task Force shall be composed wholly of full-time, or permanent part-time, officers or employees of the Federal Government and shall include the following members:
+
+(i) the Director of the Federal Bureau of Investigation;
+
+(ii) the Assistant Secretary for Indian Affairs, Department of the Interior;
+
+(iii) the Director of the Office on Violence Against Women, Department of Justice;
+
+(iv) the Director of the Office of Justice Services, Bureau of Indian Affairs, Department of the Interior;
+
+(v) the Chair of the Native American Issues Subcommittee of the Attorney General’s Advisory Committee;
+
+(vi) the Commissioner of the Administration for Native Americans, Department of Health and Human Services; and
+
+(vii) such representatives of other executive departments, agencies, and offices as the Co-Chairs may, from time to time, designate.
+
+(b) In performing the functions set forth in sections 4 and 5 of this order, the Co-Chairs and members may designate representatives of their respective departments, agencies, offices, or entities under their direction to participate in the Task Force as necessary, and the Co-Chairs may also direct coordination with other Presidential task forces. In carrying out its functions, the Task Force shall coordinate with appropriate White House officials, including the Senior Counselor to the President, the Assistant to the President for Domestic Policy, and the Deputy Assistant to the President and Director of Intergovernmental Affairs.
+
+Sec. 4. Mission and Functions. (a) The Task Force shall:
+
+(i) conduct appropriate consultations with tribal governments on the scope and nature of the issues regarding missing and murdered American Indians and Alaska Natives;
+
+(ii) develop model protocols and procedures to apply to new and unsolved cases of missing or murdered persons in American Indian and Alaska Native communities, including best practices for:
+
+(A) improving the way law enforcement investigators and prosecutors respond to the high volume of such cases, and to the investigative challenges that might be presented in cases involving female victims;
+
+(B) collecting and sharing data among various jurisdictions and law enforcement agencies; and
+
+(C) better use of existing criminal databases, such as the National Missing and Unidentified Persons System (NamUs), the National Crime Information Center (NCIC), and the Combined DNA Index System (CODIS) including the National DNA Index System (NDIS);
+
+(iii) establish a multi-disciplinary, multi-jurisdictional team including representatives from tribal law enforcement and the Departments of Justice and the Interior to review cold cases involving missing and murdered American Indians and Alaska Natives;
+
+(iv) address the need for greater clarity concerning roles, authorities, and jurisdiction throughout the lifecycle of cases involving missing and murdered American Indians and Alaska Natives by:
+
+(A) developing and publishing best-practices guidance for use by Federal, State, local, and tribal law enforcement in cases involving missing and murdered American Indians and Alaska Natives, to include best practices related to communication with affected families from initiation of an investigation through case resolution or closure;
+
+(B) facilitating formal agreements or arrangements among Federal, State, local, and tribal law enforcement to promote maximally cooperative, trauma-informed responses to cases involving missing and murdered American Indians and Alaska Natives;
+
+(C) developing and executing an education and outreach campaign for communities that are most affected by crime against American Indians and Alaska Natives to identify and reduce such crime; and
+
+(D) developing, in partnership with NamUs, a public-awareness campaign to educate both rural and urban communities about the needs of affected families and resources that are both needed and available.
+
+Sec. 5. Reporting. (a) No later than 1 year after the date of this order [Nov. 26, 2019], the Task Force shall develop and submit to the President, through the Assistant to the President for Domestic Policy, a written report regarding the activities and accomplishments of the Task Force, the status of projects the Task Force has not yet completed, and specific recommendations for future action of the Task Force.
+
+(b) No later than 2 years after the date of this order, the Task Force shall develop and submit to the President, through the Assistant to the President for Domestic Policy, a final written report regarding the activities and accomplishments of the Task Force.
+
+Sec. 6. Termination. The Task Force shall terminate 2 years after the date of this order [Nov. 26, 2019], unless otherwise directed by the President.
+
+Sec. 7. General Provisions. (a) Nothing in this order shall be construed to impair or otherwise affect:
+
+(i) the authority granted by law to an executive department or agency, or the head thereof; or
+
+(ii) the functions of the Director of the Office of Management and Budget relating to budgetary, administrative, or legislative proposals.
+
+(b) This order shall be implemented consistent with applicable law and subject to the availability of appropriations.
+
+(c) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+
+Donald J. Trump.
 
 
 <a id="section-2802"></a>
@@ -219,6 +293,9 @@ Subsec. (e)(3). Pub. L. 111–211, § 231(a)(2), substituted “agencies” for 
 Subsec. (e)(4). Pub. L. 111–211, § 231(a)(3), added par. (4).
 
 Subsec. (f). Pub. L. 111–211, § 211(b)(5), added subsec. (f).
+
+#### Designation of Coordinator of Federal Efforts To Combat Violence Against Native People
+Pub. L. 116–166, §§ 2, 3, Oct. 10, 2020, 134 Stat. 766, provided that: “SEC. 2. DEFINITIONS.“In this Act [enacting this note, provisions set out as a note under [section 2801 of this title](./chapter-030-indian-law-enforcement-reform.md#section-2801), and provisions not classified to the Code]—“(1) the term ‘Commission’ means the Department of the Interior and the Department of Justice Joint Commission on Reducing Violent Crime Against Indians under section 4 [134 Stat. 767]; “(2) the term ‘human trafficking’ means act or practice described in paragraph (9) or paragraph (10) [probably should be “paragraph (11) or paragraph (12)”] of section 103 of the Trafficking Victims Protection Act of 2000 ([22 U.S.C. 7102](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section7102&num=0&edition=prelim)); “(3) the term ‘Indian’ means a member of an Indian tribe; “(4) the terms ‘Indian lands’ and ‘Indian tribe’ have the meanings given the terms in section 3 of the Native American Business Development, Trade Promotion, and Tourism Act of 2000 ([25 U.S.C. 4302](./chapter-044-native-american-business-development-trade-promotion-and-tourism.md#section-4302)); and “(5) the terms ‘urban centers’ and ‘urban Indian organization’ have the meanings given the terms in section 4 of the Indian Health Care Improvement Act ([25 U.S.C. 1603](./chapter-018-indian-health-care.md#section-1603)). “SEC. 3. COORDINATOR OF FEDERAL EFFORTS TO COMBAT VIOLENCE AGAINST NATIVE PEOPLE.“(a) Coordinator Designation.—The Secretary of the Interior shall designate an official within the Office of Justice Services in the Bureau of Indian Affairs who shall—“(1) coordinate prevention efforts, grants, and programs related to the murder of, trafficking of, and missing Indians across Federal agencies, including—“(A) the Bureau of Indian Affairs; and “(B) the Department of Justice, including—“(i) the Office of Justice Programs; “(ii) the Office on Violence Against Women; “(iii) the Office of Community Oriented Policing Services; “(iv) the Federal Bureau of Investigation; and “(v) the Office of Tribal Justice; “(2) ensure prevention efforts, grants, and programs of Federal agencies related to the murder of, trafficking of, and missing Indians consider the unique challenges of combating crime, violence, and human trafficking of Indians and on Indian lands faced by Tribal communities, urban centers, the Bureau of Indian Affairs, Tribal law enforcement, Federal law enforcement, and State and local law enforcement; “(3) work in cooperation with outside organizations with expertise in working with Indian tribes and Indian Tribes to provide victim centered and culturally relevant training to tribal law enforcement, Indian Health Service health care providers, urban Indian organizations, Tribal community members and businesses, on how to effectively identify, respond to and report instances of missing persons, murder, and trafficking within Indian lands and of Indians; and “(4) report directly to the Secretary of the Interior. “(b) Report.—The official designated in subsection (a) shall submit to the Committee on Indian Affairs and the Committee on the Judiciary of the Senate and the Committee on Natural Resources and the Committee on the Judiciary of the House of Representatives a report to provide information on Federal coordination efforts accomplished over the previous year that includes—“(1) a summary of all coordination activities undertaken in compliance with this section; “(2) a summary of all trainings completed under subsection (a)(3); and “(3) recommendations for improving coordination across Federal agencies and of relevant Federal programs.”
 
 
 <a id="section-2803"></a>

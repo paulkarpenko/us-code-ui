@@ -267,9 +267,6 @@ Amendment by Pub. L. 91–375 effective within 1 year after Aug. 12, 1970, on da
 #### Effective Date of 1967 Amendment
 Amendment by Pub. L. 90–206 effective Dec. 16, 1967, see section 220(a)(1) of Pub. L. 90–206, set out as an Effective Date note under [section 3110 of this title](./chapter-031-authority-for-employment.md#section-3110).
 
-#### Delegation of Functions
-For designation of agencies to perform functions of President under subsec. (g) of this section, see Ex. Ord. No. 12748, § 1, Feb. 1, 1991, 56 F.R. 4521, eff. Feb. 3, 1991, set out as a note under [section 5301 of this title](./chapter-053-pay-rates-and-systems.md#section-5301).
-
 #### Pay Raises for Programs Funded by Energy and Water Development Appropriations Acts To Be Absorbed Within Such Acts
 Pub. L. 102–377, title V, § 506, Oct. 2, 1992, 106 Stat. 1343, provided that: “Such sums as may be necessary for Federal employee pay raises for programs funded by this Act or subsequent Energy and Water Development Appropriations Acts hereafter shall be absorbed within the levels appropriated in such Acts.”
 
@@ -277,9 +274,15 @@ Pub. L. 102–377, title V, § 506, Oct. 2, 1992, 106 Stat. 1343, provided that:
 Pub. L. 101–509, title V, § 529 [title I, § 101(e)], Nov. 5, 1990, 104 Stat. 1427, 1443, provided that: “It is the sense of the Congress that the total funds dedicated to adjustments under sections 5303 and 5304 [of this title] for any year be no less than the total funds that would have been dedicated to adjustments under such section 5303 for such year had the full change in the ECI been applied to pay rates for such year.”
 
 #### Federal Employee Pay Adjustments
-2019—Pub. L. 116–6, div. D, title VII, § 748, Feb. 15, 2019, 133 Stat. 199, provided that: “(a) The adjustment in rates of basic pay for employees under the statutory pay systems that takes effect in fiscal year 2019 under [section 5303 of title 5](./chapter-053-pay-rates-and-systems.md#section-5303), United States Code, shall be an increase of 1.4 percent, and the overall average percentage of the adjustments taking effect in such fiscal year under sections 5304 and 5304a of such title 5 shall be an increase of 0.5 percent (with comparability payments to be determined and allocated among pay localities by the President). All adjustments under this subsection shall be effective as of the first day of the first applicable pay period beginning on or after January 1, 2019. “(b) Notwithstanding section 737 [of Pub. L. 116–6, [5 U.S.C. 5343](./chapter-053-pay-rates-and-systems.md#section-5343) note], the adjustment in rates of basic pay for the statutory pay systems that take place in fiscal year 2019 under sections 5344 and 5348 of title 5, United States Code, shall be no less than the percentages in subsection (a) as employees in the same location whose rates of basic pay are adjusted pursuant to the statutory pay systems under section 5303, 5304, and 5304a of title 5, United States Code. Prevailing rate employees at locations where there are no employees whose pay is increased pursuant to sections 5303, 5304, and 5304a of such title 5 and prevailing rate employees described in section 5343(a)(5) of such title 5 shall be considered to be located in the pay locality designated as “Rest of U.S.” pursuant to section 5304 of such title 5 for purposes of this subsection. “(c) Funds used to carry out this section shall be paid from appropriations, which are made to each applicable department or agency for salaries and expenses for fiscal year 2019.”
+FY 2020—Pub. L. 116–93, div. C, title VII, § 748, Dec. 20, 2019, 133 Stat. 2496, provided that: “(a) The adjustment in rates of basic pay for employees under the statutory pay systems that takes effect in fiscal year 2020 under [section 5303 of title 5](./chapter-053-pay-rates-and-systems.md#section-5303), United States Code, shall be an increase of 2.6 percent, and the overall average percentage of the adjustments taking effect in such fiscal year under sections 5304 and 5304a of such title 5 shall be an increase of 0.5 percent (with comparability payments to be determined and allocated among pay localities by the President). All adjustments under this subsection shall be effective as of the first day of the first applicable pay period beginning on or after January 1, 2020. “(b) Notwithstanding section 737 [Pub. L. 116–93, [5 U.S.C. 5343](./chapter-053-pay-rates-and-systems.md#section-5343) note], the adjustment in rates of basic pay for the statutory pay systems that take place in fiscal year 2020 under sections 5344 and 5348 of title 5, United States Code, shall be no less than the percentages in subsection (a) as employees in the same location whose rates of basic pay are adjusted pursuant to the statutory pay systems under section 5303, 5304, and 5304a of title 5, United States Code. Prevailing rate employees at locations where there are no employees whose pay is increased pursuant to sections 5303, 5304, and 5304a of such title 5 and prevailing rate employees described in section 5343(a)(5) of such title 5 shall be considered to be located in the pay locality designated as ‘Rest of U.S.’ pursuant to section 5304 of such title 5 for purposes of this subsection. “(c) Funds used to carry out this section shall be paid from appropriations, which are made to each applicable department or agency for salaries and expenses for fiscal year 2020.”
 
-Pub. L. 116–6, div. D, title VII, § 749, Feb. 15, 2019, 133 Stat. 199, provided that: “(a) Notwithstanding the official rate adjusted under [section 104 of title 3](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title3-section104&num=0&edition=prelim), United States Code, the rate payable to the Vice President during calendar year 2019 shall be 1.9 percent above the rate payable to the Vice President on December 31, 2018, as limited under section 738 of division E of the Consolidated Appropriations Act, 2018 (Public Law 115–141) [set out as a note below]. “(b) Notwithstanding the official rate adjusted under [section 5318 of title 5](./chapter-053-pay-rates-and-systems.md#section-5318), United States Code, or any other provision of law, the payable rate for an employee serving in an Executive Schedule position, or in a position for which the rate of pay is fixed by statute at an Executive Schedule rate, shall be increased by 1.9 percent (relative to the preexisting rate actually payable) at the time the official rate is adjusted in January 2019. Such an employee may receive no other pay increase during calendar year 2019, except as provided in subsection (i). “(c) Notwithstanding section 401 of the Foreign Service Act of 1980 (Public Law 96–465) [[22 U.S.C. 3961](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section3961&num=0&edition=prelim)] or any other provision of law, a chief of mission or ambassador at large is subject to subsection (b) in the same manner as other employees who are paid at an Executive Schedule rate. “(d)(1) This subsection applies to—“(A) a noncareer appointee in the Senior Executive Service paid a rate of basic pay at or above the official rate for level IV of the Executive Schedule; or “(B) a limited term appointee or limited emergency appointee in the Senior Executive Service serving under a political appointment and paid a rate of basic pay at or above the official rate for level IV of the Executive Schedule. “(2) Notwithstanding sections 5382 and 5383 of title 5, United States Code, an employee described in paragraph (1) who is serving at the time official rates of the Executive Schedule are adjusted may receive a single increase in the employee’s pay rate of no more than 1.9 percent during calendar year 2019, subject to the normally applicable pay rules and pay limitations in effect on December 31, 2013, after those pay limitations are increased by 1.9 percent (after applicable rounding). Such an employee may receive no other pay increase during calendar year 2019, except as provided in subsection (i). “(e) Notwithstanding any other provision of law, any employee paid a rate of basic pay (including any locality-based payments under [section 5304 of title 5](./chapter-053-pay-rates-and-systems.md#section-5304), United States Code, or similar authority) at or above the official rate for level IV of the Executive Schedule who serves under a political appointment, and who is serving at the time official rates of the Executive Schedule are adjusted, may receive a single increase in the employee’s pay rate of no more than 1.9 percent during calendar year 2019, subject to the normally applicable pay rules and pay limitations in effect on December 31, 2013, after those pay limitations are increased by 1.9 percent (after applicable rounding). Such an employee may receive no other pay increase during calendar year 2019, except as provided in subsection (i). This subsection does not apply to employees in the General Schedule pay system or the Foreign Service pay system, to employees appointed under [section 3161 of title 5](./chapter-031-authority-for-employment.md#section-3161), United States Code, or to employees in another pay system whose position would be classified at GS–15 or below if chapter 51 of title 5, United States Code, applied to them. “(f) Nothing in subsections (b) through (e) shall prevent employees who do not serve under a political appointment from receiving pay increases as otherwise provided under applicable law. “(g) This section does not apply to an individual who makes an election to retain Senior Executive Service basic pay under [section 3392(c) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section3392/c&num=0&edition=prelim), United States Code, for such time as that election is in effect. “(h) This section does not apply to an individual who makes an election to retain Senior Foreign Service pay entitlements under section 302(b) of the Foreign Service Act of 1980 (Public Law 96–465) [[22 U.S.C. 3942(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section3942/b&num=0&edition=prelim)] for such time as that election is in effect. “(i) Notwithstanding subsections (b) through (e), an employee in a covered position may receive a pay rate increase upon an authorized movement to a different covered position only if that new position has higher-level duties and a pre-established level or range of pay higher than the level or range for the position held immediately before the movement. Any such increase must be based on the rates of pay and applicable pay limitations in effect on December 31, 2013, after those rates and pay limitations are increased by 1.9 percent (after applicable rounding). “(j) Notwithstanding any other provision of law, for an individual who is newly appointed to a covered position during the period of time subject to this section, the initial pay rate shall be based on the rates of pay and applicable pay limitations in effect on December 31, 2013, after those rates and pay limitations are increased by 1.9 percent (after applicable rounding). “(k) If an employee affected by this section is subject to a biweekly pay period that begins in calendar year 2019 but ends in calendar year 2020, the bar on the employee’s receipt of pay rate increases shall apply through the end of that pay period. “(l) For the purpose of this section, the term ‘covered position’ means a position occupied by an employee whose pay is restricted under this section. “(m) This section takes effect on the first day of the first applicable pay period beginning on or after January 1, 2019.”
+FY 2019—Pub. L. 116–6, div. D, title VII, § 748, Feb. 15, 2019, 133 Stat. 199, provided that: “(a) The adjustment in rates of basic pay for employees under the statutory pay systems that takes effect in fiscal year 2019 under [section 5303 of title 5](./chapter-053-pay-rates-and-systems.md#section-5303), United States Code, shall be an increase of 1.4 percent, and the overall average percentage of the adjustments taking effect in such fiscal year under sections 5304 and 5304a of such title 5 shall be an increase of 0.5 percent (with comparability payments to be determined and allocated among pay localities by the President). All adjustments under this subsection shall be effective as of the first day of the first applicable pay period beginning on or after January 1, 2019. “(b) Notwithstanding section 737 [of Pub. L. 116–6, [5 U.S.C. 5343](./chapter-053-pay-rates-and-systems.md#section-5343) note], the adjustment in rates of basic pay for the statutory pay systems that take place in fiscal year 2019 under sections 5344 and 5348 of title 5, United States Code, shall be no less than the percentages in subsection (a) as employees in the same location whose rates of basic pay are adjusted pursuant to the statutory pay systems under section 5303, 5304, and 5304a of title 5, United States Code. Prevailing rate employees at locations where there are no employees whose pay is increased pursuant to sections 5303, 5304, and 5304a of such title 5 and prevailing rate employees described in section 5343(a)(5) of such title 5 shall be considered to be located in the pay locality designated as ‘Rest of U.S.’ pursuant to section 5304 of such title 5 for purposes of this subsection. “(c) Funds used to carry out this section shall be paid from appropriations, which are made to each applicable department or agency for salaries and expenses for fiscal year 2019.”
+
+2021—Pub. L. 116–260, div. E, title VII, § 748, Dec. 27, 2020, 134 Stat. 1442, provided that: “(a) Notwithstanding any official rate adjusted under [section 104 of title 3](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title3-section104&num=0&edition=prelim), United States Code, the rate payable to the Vice President during calendar year 2021 shall be the rate payable to the Vice President on December 31, 2020, by operation of section 749 of division C of Public Law 116–93. “(b) Notwithstanding any official rate adjusted under [section 5318 of title 5](./chapter-053-pay-rates-and-systems.md#section-5318), United States Code, or any other provision of law, the payable rate during calendar year 2021 for an employee serving in an Executive Schedule position, or in a position for which the rate of pay is fixed by statute at an Executive Schedule rate, shall be the rate payable for the applicable Executive Schedule level on December 31, 2020, by operation of section 749 of division C of Public Law 116–93. Such an employee may not receive a rate increase during calendar year 2021, except as provided in subsection (i). “(c) Notwithstanding section 401 of the Foreign Service Act of 1980 (Public Law 96–465) [[22 U.S.C. 3961](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section3961&num=0&edition=prelim)] or any other provision of law, a chief of mission or ambassador at large is subject to subsection (b) in the same manner as other employees who are paid at an Executive Schedule rate. “(d)(1) This subsection applies to—“(A) a noncareer appointee in the Senior Executive Service paid a rate of basic pay at or above the official rate for level IV of the Executive Schedule; or “(B) a limited term appointee or limited emergency appointee in the Senior Executive Service serving under a political appointment and paid a rate of basic pay at or above the official rate for level IV of the Executive Schedule. “(2) Notwithstanding sections 5382 and 5383 of title 5, United States Code, an employee described in paragraph (1) may not receive a pay rate increase during calendar year 2021, except as provided in subsection (i). “(e) Notwithstanding any other provision of law, any employee paid a rate of basic pay (including any locality- based payments under [section 5304 of title 5](./chapter-053-pay-rates-and-systems.md#section-5304), United States Code, or similar authority) at or above the official rate for level IV of the Executive Schedule who serves under a political appointment may not receive a pay rate increase during calendar year 2021, except as provided in subsection (i). This subsection does not apply to employees in the General Schedule pay system or the Foreign Service pay system, to employees appointed under [section 3161 of title 5](./chapter-031-authority-for-employment.md#section-3161), United States Code, or to employees in another pay system whose position would be classified at GS–15 or below if chapter 51 of title 5, United States Code, applied to them. “(f) Nothing in subsections (b) through (e) shall prevent employees who do not serve under a political appointment from receiving pay increases as otherwise provided under applicable law. “(g) This section does not apply to an individual who makes an election to retain Senior Executive Service basic pay under [section 3392(c) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section3392/c&num=0&edition=prelim), United States Code, for such time as that election is in effect. “(h) This section does not apply to an individual who makes an election to retain Senior Foreign Service pay entitlements under section 302(b) of the Foreign Service Act of 1980 (Public Law 96–465) [[22 U.S.C. 3942(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section3942/b&num=0&edition=prelim)] for such time as that election is in effect. “(i) Notwithstanding subsections (b) through (e), an employee in a covered position may receive a pay rate increase upon an authorized movement to a different covered position only if that new position has higher-level duties and a pre-established level or range of pay higher than the level or range for the position held immediately before the movement. Any such increase must be based on the rates of pay and applicable limitations on payable rates of pay in effect on December 31, 2020, by operation of section 749 of division C of Public Law 116–93. “(j) Notwithstanding any other provision of law, for an individual who is newly appointed to a covered position during the period of time subject to this section, the initial pay rate shall be based on the rates of pay and applicable limitations on payable rates of pay in effect on December 31, 2020, by operation of section 749 of division C of Public Law 116–93. “(k) If an employee affected by this section is subject to a biweekly pay period that begins in calendar year 2021 but ends in calendar year 2022, the bar on the employee’s receipt of pay rate increases shall apply through the end of that pay period. “(l) For the purpose of this section, the term ‘covered position’ means a position occupied by an employee whose pay is restricted under this section. “(m) This section takes effect on the first day of the first applicable pay period beginning on or after January 1, 2021.”
+
+2020—Pub. L. 116–93, div. C, title VII, § 749, Dec. 20, 2019, 133 Stat. 2497, provided that: “(a) Notwithstanding the official rate adjusted under [section 104 of title 3](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title3-section104&num=0&edition=prelim), United States Code, the rate payable to the Vice President during calendar year 2020 shall be the rate payable to the Vice President on December 31, 2019, by operation of section 749 of division D of Public Law 116–6 [set out as a note below]. “(b) Notwithstanding the official rate adjusted under [section 5318 of title 5](./chapter-053-pay-rates-and-systems.md#section-5318), United States Code, or any other provision of law, the payable rate during calendar year 2020 for an employee serving in an Executive Schedule position, or in a position for which the rate of pay is fixed by statute at an Executive Schedule rate, shall be the rate payable for the applicable Executive Schedule level on December 31, 2019, by operation of section 749 of division D of Public Law 116–6. Such an employee may not receive a pay rate increase during calendar year 2020, except as provided in subsection (i). “(c) Notwithstanding section 401 of the Foreign Service Act of 1980 (Public Law 96–465)[[22 U.S.C. 3961](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section3961&num=0&edition=prelim)] or any other provision of law, a chief of mission or ambassador at large is subject to subsection (b) in the same manner as other employees who are paid at an Executive Schedule rate. “(d)(1) This subsection applies to—“(A) a noncareer appointee in the Senior Executive Service paid a rate of basic pay at or above the official rate for level IV of the Executive Schedule; or “(B) a limited term appointee or limited emergency appointee in the Senior Executive Service serving under a political appointment and paid a rate of basic pay at or above the official rate for level IV of the Executive Schedule. “(2) Notwithstanding sections 5382 and 5383 of title 5, United States Code, an employee described in paragraph (1) may not receive a pay rate increase during calendar year 2020, except as provided in subsection (i). “(e) Notwithstanding any other provision of law, any employee paid a rate of basic pay (including any locality- based payments under [section 5304 of title 5](./chapter-053-pay-rates-and-systems.md#section-5304), United States Code, or similar authority) at or above the official rate for level IV of the Executive Schedule who serves under a political appointment may not receive a pay rate increase during calendar year 2020, except as provided in subsection (i). This subsection does not apply to employees in the General Schedule pay system or the Foreign Service pay system, to employees appointed under [section 3161 of title 5](./chapter-031-authority-for-employment.md#section-3161), United States Code, or to employees in another pay system whose position would be classified at GS–15 or below if chapter 51 of title 5, United States Code, applied to them. “(f) Nothing in subsections (b) through (e) shall prevent employees who do not serve under a political appointment from receiving pay increases as otherwise provided under applicable law. “(g) This section does not apply to an individual who makes an election to retain Senior Executive Service basic pay under [section 3392(c) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section3392/c&num=0&edition=prelim), United States Code, for such time as that election is in effect. “(h) This section does not apply to an individual who makes an election to retain Senior Foreign Service pay entitlements under section 302(b) of the Foreign Service Act of 1980 (Public Law 96–465) [[22 U.S.C. 3942(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section3942/b&num=0&edition=prelim)] for such time as that election is in effect. “(i) Notwithstanding subsections (b) through (e), an employee in a covered position may receive a pay rate increase upon an authorized movement to a different covered position only if that new position has higher-level duties and a pre-established level or range of pay higher than the level or range for the position held immediately before the movement. Any such increase must be based on the rates of pay and applicable limitations on payable rates of pay in effect on December 31, 2019, by operation of section 749 of division D of Public Law 116–6. “(j) Notwithstanding any other provision of law, for an individual who is newly appointed to a covered position during the period of time subject to this section, the initial pay rate shall be based on the rates of pay and applicable limitations on payable rates of pay in effect on December 31, 2019, by operation of section 749 of division D of Public Law 116–6. “(k) If an employee affected by this section is subject to a biweekly pay period that begins in calendar year 2020 but ends in calendar year 2021, the bar on the employee’s receipt of pay rate increases shall apply through the end of that pay period. “(l) For the purpose of this section, the term ‘covered position’ means a position occupied by an employee whose pay is restricted under this section. “(m) This section takes effect on the first day of the first applicable pay period beginning on or after January 1, 2020.”
+
+2019—Pub. L. 116–6, div. D, title VII, § 749, Feb. 15, 2019, 133 Stat. 199, provided that: “(a) Notwithstanding the official rate adjusted under [section 104 of title 3](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title3-section104&num=0&edition=prelim), United States Code, the rate payable to the Vice President during calendar year 2019 shall be 1.9 percent above the rate payable to the Vice President on December 31, 2018, as limited under section 738 of division E of the Consolidated Appropriations Act, 2018 (Public Law 115–141) [set out as a note below]. “(b) Notwithstanding the official rate adjusted under [section 5318 of title 5](./chapter-053-pay-rates-and-systems.md#section-5318), United States Code, or any other provision of law, the payable rate for an employee serving in an Executive Schedule position, or in a position for which the rate of pay is fixed by statute at an Executive Schedule rate, shall be increased by 1.9 percent (relative to the preexisting rate actually payable) at the time the official rate is adjusted in January 2019. Such an employee may receive no other pay increase during calendar year 2019, except as provided in subsection (i). “(c) Notwithstanding section 401 of the Foreign Service Act of 1980 (Public Law 96–465) [[22 U.S.C. 3961](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section3961&num=0&edition=prelim)] or any other provision of law, a chief of mission or ambassador at large is subject to subsection (b) in the same manner as other employees who are paid at an Executive Schedule rate. “(d)(1) This subsection applies to—“(A) a noncareer appointee in the Senior Executive Service paid a rate of basic pay at or above the official rate for level IV of the Executive Schedule; or “(B) a limited term appointee or limited emergency appointee in the Senior Executive Service serving under a political appointment and paid a rate of basic pay at or above the official rate for level IV of the Executive Schedule. “(2) Notwithstanding sections 5382 and 5383 of title 5, United States Code, an employee described in paragraph (1) who is serving at the time official rates of the Executive Schedule are adjusted may receive a single increase in the employee’s pay rate of no more than 1.9 percent during calendar year 2019, subject to the normally applicable pay rules and pay limitations in effect on December 31, 2013, after those pay limitations are increased by 1.9 percent (after applicable rounding). Such an employee may receive no other pay increase during calendar year 2019, except as provided in subsection (i). “(e) Notwithstanding any other provision of law, any employee paid a rate of basic pay (including any locality-based payments under [section 5304 of title 5](./chapter-053-pay-rates-and-systems.md#section-5304), United States Code, or similar authority) at or above the official rate for level IV of the Executive Schedule who serves under a political appointment, and who is serving at the time official rates of the Executive Schedule are adjusted, may receive a single increase in the employee’s pay rate of no more than 1.9 percent during calendar year 2019, subject to the normally applicable pay rules and pay limitations in effect on December 31, 2013, after those pay limitations are increased by 1.9 percent (after applicable rounding). Such an employee may receive no other pay increase during calendar year 2019, except as provided in subsection (i). This subsection does not apply to employees in the General Schedule pay system or the Foreign Service pay system, to employees appointed under [section 3161 of title 5](./chapter-031-authority-for-employment.md#section-3161), United States Code, or to employees in another pay system whose position would be classified at GS–15 or below if chapter 51 of title 5, United States Code, applied to them. “(f) Nothing in subsections (b) through (e) shall prevent employees who do not serve under a political appointment from receiving pay increases as otherwise provided under applicable law. “(g) This section does not apply to an individual who makes an election to retain Senior Executive Service basic pay under [section 3392(c) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section3392/c&num=0&edition=prelim), United States Code, for such time as that election is in effect. “(h) This section does not apply to an individual who makes an election to retain Senior Foreign Service pay entitlements under section 302(b) of the Foreign Service Act of 1980 (Public Law 96–465) [[22 U.S.C. 3942(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section3942/b&num=0&edition=prelim)] for such time as that election is in effect. “(i) Notwithstanding subsections (b) through (e), an employee in a covered position may receive a pay rate increase upon an authorized movement to a different covered position only if that new position has higher-level duties and a pre-established level or range of pay higher than the level or range for the position held immediately before the movement. Any such increase must be based on the rates of pay and applicable pay limitations in effect on December 31, 2013, after those rates and pay limitations are increased by 1.9 percent (after applicable rounding). “(j) Notwithstanding any other provision of law, for an individual who is newly appointed to a covered position during the period of time subject to this section, the initial pay rate shall be based on the rates of pay and applicable pay limitations in effect on December 31, 2013, after those rates and pay limitations are increased by 1.9 percent (after applicable rounding). “(k) If an employee affected by this section is subject to a biweekly pay period that begins in calendar year 2019 but ends in calendar year 2020, the bar on the employee’s receipt of pay rate increases shall apply through the end of that pay period. “(l) For the purpose of this section, the term ‘covered position’ means a position occupied by an employee whose pay is restricted under this section. “(m) This section takes effect on the first day of the first applicable pay period beginning on or after January 1, 2019.”
 
 2018—Pub. L. 115–141, div. E, title VII, § 738, Mar. 23, 2018, 132 Stat. 597, provided that: “(a) The Vice President may not receive a pay raise in calendar year 2018, notwithstanding the rate adjustment made under [section 104 of title 3](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title3-section104&num=0&edition=prelim), United States Code, or any other provision of law. “(b) An employee serving in an Executive Schedule position, or in a position for which the rate of pay is fixed by statute at an Executive Schedule rate, may not receive a pay rate increase in calendar year 2018, notwithstanding schedule adjustments made under [section 5318 of title 5](./chapter-053-pay-rates-and-systems.md#section-5318), United States Code, or any other provision of law, except as provided in subsection (g), (h), or (i). This subsection applies only to employees who are holding a position under a political appointment. “(c) A chief of mission or ambassador at large may not receive a pay rate increase in calendar year 2018, notwithstanding section 401 of the Foreign Service Act of 1980 (Public Law 96–465) [[22 U.S.C. 3961](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section3961&num=0&edition=prelim)] or any other provision of law, except as provided in subsection (g), (h), or (i). “(d) Notwithstanding sections 5382 and 5383 of title 5, United States Code, a pay rate increase may not be received in calendar year 2018 (except as provided in subsection (g), (h), or (i)) by—“(1) a noncareer appointee in the Senior Executive Service paid a rate of basic pay at or above level IV of the Executive Schedule [[5 U.S.C. 5315](./chapter-053-pay-rates-and-systems.md#section-5315)]; or “(2) a limited term appointee or limited emergency appointee in the Senior Executive Service serving under a political appointment and paid a rate of basic pay at or above level IV of the Executive Schedule. “(e) Any employee paid a rate of basic pay (including any locality-based payments under [section 5304 of title 5](./chapter-053-pay-rates-and-systems.md#section-5304), United States Code, or similar authority) at or above level IV of the Executive Schedule who serves under a political appointment may not receive a pay rate increase in calendar year 2018, notwithstanding any other provision of law, except as provided in subsection (g), (h), or (i). This subsection does not apply to employees in the General Schedule pay system [see [5 U.S.C. 5315](./chapter-053-pay-rates-and-systems.md#section-5315) et seq.] or the Foreign Service pay system [see [22 U.S.C. 3961](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section3961&num=0&edition=prelim) et seq.], or to employees appointed under [section 3161 of title 5](./chapter-031-authority-for-employment.md#section-3161), United States Code, or to employees in another pay system whose position would be classified at GS–15 or below if chapter 51 of title 5, United States Code, applied to them. “(f) Nothing in subsections (b) through (e) shall prevent employees who do not serve under a political appointment from receiving pay increases as otherwise provided under applicable law. “(g) A career appointee in the Senior Executive Service who receives a Presidential appointment and who makes an election to retain Senior Executive Service basic pay entitlements under [section 3392 of title 5](./chapter-033-examination-selection-and-placement.md#section-3392), United States Code, is not subject to this section. “(h) A member of the Senior Foreign Service who receives a Presidential appointment to any position in the executive branch and who makes an election to retain Senior Foreign Service pay entitlements under section 302(b) of the Foreign Service Act of 1980 (Public Law 96–465) [[22 U.S.C. 3942(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section3942/b&num=0&edition=prelim)] is not subject to this section. “(i) Notwithstanding subsections (b) through (e), an employee in a covered position may receive a pay rate increase upon an authorized movement to a different covered position with higher-level duties and a pre-established higher level or range of pay, except that any such increase must be based on the rates of pay and applicable pay limitations in effect on December 31, 2013. “(j) Notwithstanding any other provision of law, for an individual who is newly appointed to a covered position during the period of time subject to this section, the initial pay rate shall be based on the rates of pay and applicable pay limitations in effect on December 31, 2013. “(k) If an employee affected by subsections (b) through (e) is subject to a biweekly pay period that begins in calendar year 2018 but ends in calendar year 2019, the bar on the employee’s receipt of pay rate increases shall apply through the end of that pay period.”
 
@@ -364,6 +367,9 @@ Pub. L. 99–272, title XV, § 15201(a), Apr. 7, 1986, 100 Stat. 332, provided t
 Pub. L. 91–656, § 3(c), Jan. 8, 1971, 84 Stat. 1951, provided that: “The President may make the initial adjustment required by subchapter I of chapter 53 of title 5, United States Code, as amended by this Act, without regard to the provisions of such subchapter relating to the Advisory Committee on Federal Pay and the Federal Employees Pay Council. Notwithstanding any provision of such subchapter I prescribing an effective date of October 1 for any pay adjustment made by the President, the initial adjustment based on the 1970 Bureau of Labor Statistics survey and the adjustment based on the 1971 Bureau of Labor Statistics survey shall become effective on the first day of the first applicable pay period that begins on or after January 1, 1971, and January 1, 1972, respectively. Notwithstanding the provisions of such subchapter I, the President’s agent for purposes of the 1971 and 1972 adjustments shall be the Director, Office of Management and Budget and the Chairman, United States Civil Service Commission. Adjustments under the provisions of such subchapter I shall not apply to employees of the Post Office Department whose basic pay is fixed under the General Schedule.”
 
 1967—Pub. L. 90–206, title II, § 212, Dec. 16, 1967, 81 Stat. 634, provided that: “In order to complete the implementation of the policy of the Congress set forth in paragraph (2) of [section 5301 of title 5](./chapter-053-pay-rates-and-systems.md#section-5301), United States Code, the President, after seeking the views of such employee organizations as he considers appropriate and in such manner as he may provide, shall—“(1) effective on the first day of the first pay period beginning on or after July 1, 1968, adjust the rates of basic pay, basic compensation, and salary, as in effect by reason of the enactment of the provisions of this title [see Short Title note under [section 5332 of this title](./chapter-053-pay-rates-and-systems.md#section-5332)] other than this section and sections 205, 210, 213, 214, 215, and 219—“(A) by amounts equal, as nearly as may be practicable, to one-half of the amounts by which such rates are exceeded by rates of pay paid for the same levels of work in private enterprise as determined on the basis of the 1967 annual survey conducted by the Bureau of Labor Statistics in accordance with the provisions of [section 5302 of title 5](./chapter-053-pay-rates-and-systems.md#section-5302), United States Code, or “(B) by 3 per centum, whichever is greater; and “(2) effective on the first day of the first pay period beginning on or after July 1, 1969, adjust the rates he has established under subparagraph (1) of this section, and the rates established by Postal Field Service Schedule II, and Rural Carrier Schedule II (contained in the amendments made by subsections (a) and (b) of section 205 [amending sections 3542 and 3543 of Title 39, Postal Service], by amounts equal, as nearly as may be practicable, to the amounts by which such rates are exceeded by rates of pay paid for the same levels of work in private enterprise as determined on the basis of the 1968 annual survey conducted by the Bureau of Labor Statistics in accordance with the provisions of [section 5302 of title 5](./chapter-053-pay-rates-and-systems.md#section-5302), United States Code. Adjustments made by the President under this section shall have the force and effect of statute. The rates of pay of personnel subject to sections 210, 213 (except subsections (d) and (e) ), and 214 of this title [see Short Title note under [section 5332 of this title](./chapter-053-pay-rates-and-systems.md#section-5332)], and any minimum or maximum rate, limitation, or allowance applicable to any such personnel, shall be adjusted, by amounts which are equal, insofar as practicable and with such exceptions as may be necessary to provide for appropriate relationships between positions, to the amounts of the adjustments made by the President under subparagraphs (1) and (2) of this section, by the following authorities— “(i) the President pro tempore of the Senate, with respect to the United States Senate; “(ii) the Speaker of the House of Representatives with respect to the United States House of Representatives; “(iii) the Architect of the Capitol, with respect to the Office of the Architect of the Capitol; “(iv) the Director of the Administrative Office of the United States Courts, with respect to the judicial branch of the Government; and “(v) the Secretary of Agriculture, with respect to persons employed by the county committees established pursuant to section 8(b) of the Soil Conservation and Domestic Allotment Act ([16 U.S.C. 590h(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section590h/b&num=0&edition=prelim) ). Such adjustments shall be made in such manner as the appropriate authority concerned deems advisable and shall have the force and effect of statute. Nothing in this section shall impair any authority pursuant to which rates of pay may be fixed by administrative action.” [Section 212 of Pub. L. 90–206 effective Dec. 16, 1967, see section 220(a)(1) of Pub. L. 90–206, set out as a note under [section 3110 of this title](./chapter-031-authority-for-employment.md#section-3110).]
+
+#### Delegation of Functions
+For designation of agencies to perform functions of President under subsec. (g) of this section, see Ex. Ord. No. 12748, § 1, Feb. 1, 1991, 56 F.R. 4521, eff. Feb. 3, 1991, set out as a note under [section 5301 of this title](./chapter-053-pay-rates-and-systems.md#section-5301).
 
 
 <a id="section-5304"></a>
@@ -677,9 +683,6 @@ Amendment by Pub. L. 95–454 effective 90 days after Oct. 13, 1978, see section
 #### Effective Date of 1970 Amendment
 Amendment by Pub. L. 91–375 effective within 1 year after Aug. 12, 1970, on date established therefor by Board of Governors of United States Postal Service and published by it in Federal Register, see section 15(a) of Pub. L. 91–375, set out as an Effective Date note preceding [section 101 of Title 39](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title39-section101&num=0&edition=prelim), Postal Service.
 
-#### Delegation of Functions
-For designation of agents of President under subsecs. (d)(1) and (h) of this section, see Ex. Ord. No. 12748, § 2(a), Feb. 1, 1991, 56 F.R. 4521, eff. Feb. 3, 1991, set out as a note under [section 5301 of this title](./chapter-053-pay-rates-and-systems.md#section-5301).
-
 #### Non-Foreign Area Retirement Equity Assurance
 Pub. L. 111–84, div. A, title XIX, subtitle B, Oct. 28, 2009, 123 Stat. 2619, as amended by Pub. L. 111–383, div. A, title X, § 1075(d)(22), Jan. 7, 2011, 124 Stat. 4374, provided that: “SEC. 1911. SHORT TITLE.“This subtitle may be cited as the ‘Non-Foreign Area Retirement Equity Assurance Act of 2009’ or the ‘Non-Foreign AREA Act of 2009’. “SEC. 1912. EXTENSION OF LOCALITY PAY.“(a) Locality-based Comparability Payments.— [Amended this section.] “(b) Allowances Based on Living Costs and Conditions of Environment.— [Amended [section 5941 of this title](./chapter-059-allowances.md#section-5941).] “SEC. 1913. ADJUSTMENT OF SPECIAL RATES.“(a) In General.—Each special rate of pay established under [section 5305 of title 5](./chapter-053-pay-rates-and-systems.md#section-5305), United States Code, and payable in an area designated as a cost-of-living allowance area under section 5941(a) of that title, shall be adjusted, on the dates prescribed by section 1914, in accordance with regulations prescribed by the Director of the Office of Personnel Management under section 1918. “(b) Agencies With Statutory Authority.—“(1) In general.—Each special rate of pay established under an authority described under paragraph (2) and payable in a location designated as a cost-of-living allowance area under [section 5941(a)(1) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5941/a/1&num=0&edition=prelim), United States Code, shall be adjusted in accordance with regulations prescribed by the applicable head of the agency that are consistent with the regulations issued by the Director of the Office of Personnel Management under subsection (a). “(2) Statutory authority.—The authority referred to under paragraph (1), [sic] is any statutory authority that—“(A) is similar to the authority exercised under [section 5305 of title 5](./chapter-053-pay-rates-and-systems.md#section-5305), United States Code; “(B) is exercised by the head of an agency when the head of the agency determines it to be necessary in order to obtain or retain the services of persons specified by statute; and “(C) authorizes the head of the agency to increase the minimum, intermediate, or maximum rates of basic pay authorized under applicable statutes and regulations. “(c) Temporary Adjustment.—Regulations issued under subsection (a) or (b) may provide that statutory limitations on the amount of such special rates may be temporarily raised to a higher level during the transition period described in section 1914 ending on the first day of the first pay period beginning on or after January 1, 2012, at which time any special rate of pay in excess of the applicable limitation shall be converted to a retained rate under [section 5363 of title 5](./chapter-053-pay-rates-and-systems.md#section-5363), United States Code. “SEC. 1914. TRANSITION SCHEDULE FOR LOCALITY-BASED COMPARABILITY PAYMENTS.“Notwithstanding any other provision of this subtitle or section 5304 or 5304a of title 5, United States Code, in implementing the amendments made by this subtitle, for each non-foreign area determined under section 5941(b) of such title, the applicable rate for the locality-based comparability adjustment that is used in the computation required under section 5941(c) of such title shall be adjusted, effective on the first day of the first pay period beginning on or after January 1—“(1) in calendar year 2010, by using 1/3 of the locality pay percentage for the rest of United States locality pay area; “(2) in calendar year 2011, by using 2/3 of the otherwise applicable comparability payment approved by the President for each non-foreign area; and “(3) in calendar year 2012 and each subsequent year, by using the full amount of the applicable comparability payment approved by the President for each non-foreign area. “SEC. 1915. SAVINGS PROVISION.“(a) Sense of Congress.—It is the sense of Congress that—“(1) the application of this subtitle to any employee should not result in a decrease in the take home pay of that employee; “(2) in calendar year 2012 and each subsequent year, no employee shall receive less than the Rest of the U.S. locality pay rate; “(3) concurrent with the surveys next conducted under the provisions of [section 5304(d)(1)(A) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5304/d/1/A&num=0&edition=prelim), United States Code, beginning after the date of the enactment of this Act [Oct. 28, 2009], the Bureau of Labor Statistics should conduct separate surveys to determine the extent of any pay disparity (as defined by section 5302 of that title) that may exist with respect to positions located in the State of Alaska, the State of Hawaii, and the United States territories, including American Samoa, Guam, Commonwealth of the Northern Mariana Islands, Commonwealth of Puerto Rico, and the United States Virgin Islands; “(4) if the surveys under paragraph (3) indicate that the pay disparity determined for the State of Alaska, the State of Hawaii, or any 1 of the United States territories including American Samoa, Guam, Commonwealth of the Northern Mariana Islands, Commonwealth of Puerto Rico, and the United States Virgin Islands exceeds the pay disparity determined for the locality which (for purposes of section 5304 of that title) is commonly known as the ‘Rest of the United States’, the President’s Pay Agent should take appropriate measures to provide that each such surveyed area be treated as a separate pay locality for purposes of that section; and “(5) the President’s Pay Agent will establish 1 locality area for the entire State of Hawaii and 1 locality area for the entire State of Alaska. “(b) Savings Provisions.—“(1) In general.—During the transition period described in section 1914 ending on the first day of the first pay period beginning on or after January 1, 2012, an employee paid a special rate under 5305 of title 5, United States Code, who the day before the date of enactment of this Act [Oct. 28, 2009] was eligible to receive a cost-of-living allowance under [section 5941 of title 5](./chapter-059-allowances.md#section-5941), United States Code, and who continues to be officially stationed in an allowance area, shall receive an increase in the employee’s special rate consistent with increases in the applicable special rate schedule. For employees in allowance areas, the minimum step rate for any grade of a special rate schedule shall be increased at the time of an increase in the applicable locality rate percentage for the allowance area by not less than the dollar increase in the locality-based comparability payment for a non-special rate employee at the same minimum step provided under section 1914 of this subtitle, and corresponding increases shall be provided for all step rates of the given pay range. “(2) Continuation of cost of living allowance rate.—If an employee, who the day before the date of enactment of this Act was eligible to receive a cost-of-living allowance under [section 5941 of title 5](./chapter-059-allowances.md#section-5941), United States Code, would receive a rate of basic pay and applicable locality-based comparability payment which is in excess of the maximum rate limitation set under [section 5304(g) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5304/g&num=0&edition=prelim), United States Code, for his position (but for that maximum rate limitation) due to the operation of this subtitle, the employee shall continue to receive the cost-of-living allowance rate in effect on December 31, 2009 without adjustment until—“(A) the employee leaves the allowance area or pay system; or “(B) the employee is entitled to receive basic pay (including any applicable locality-based comparability payment or similar supplement) at a higher rate, but, when any such position becomes vacant, the pay of any subsequent appointee thereto shall be fixed in the manner provided by applicable law and regulation. “(3) Locality-based comparability payments.—Any employee covered under paragraph (2) shall receive any applicable locality-based comparability payment extended under section 1914 of this subtitle which is not in excess of the maximum rate set under [section 5304(g) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5304/g&num=0&edition=prelim), United States Code, for his position including any future increase to statutory pay limitations under 5318 of title 5, United States Code. Notwithstanding paragraph (2), to the extent that an employee covered under that paragraph receives any amount of locality-based comparability payment, the cost-of-living allowance rate under that paragraph shall be reduced accordingly, as provided under [section 5941(c)(2)(B) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5941/c/2/B&num=0&edition=prelim), United States Code. “SEC. 1916. APPLICATION TO OTHER ELIGIBLE EMPLOYEES.“(a) In General.—“(1) Definition.—In this subsection, the term ‘covered employee’ means—“(A) any employee who—“(i) on the day before the date of enactment of this Act [Oct. 28, 2009]— “(I) was eligible to be paid a cost-of-living allowance under 5941 of title 5, United States Code; and “(II) was not eligible to be paid locality-based comparability payments under 5304 or 5304a of that title; or “(ii) on or after the date of enactment of this Act becomes eligible to be paid a cost-of-living allowance under 5941 of title 5, United States Code; or “(B) any employee who—“(i) on the day before the date of enactment of this Act— “(I) was eligible to be paid an allowance under [section 1603(b) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1603/b&num=0&edition=prelim), United States Code; “(II) was eligible to be paid an allowance under [section 1005(b) of title 39](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title39-section1005/b&num=0&edition=prelim), United States Code; “(III) was employed by the Transportation Security Administration of the Department of Homeland Security and was eligible to be paid an allowance based on [section 5941 of title 5](./chapter-059-allowances.md#section-5941), United States Code; or “(IV) was eligible to be paid under any other authority a cost-of-living allowance that is equivalent to the cost-of-living allowance under [section 5941 of title 5](./chapter-059-allowances.md#section-5941), United States Code; or “(ii) on or after the date of enactment of this Act [Oct. 28, 2009]— “(I) becomes eligible to be paid an allowance under [section 1603(b) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1603/b&num=0&edition=prelim), United States Code; “(II) becomes eligible to be paid an allowance under [section 1005(b) of title 39](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title39-section1005/b&num=0&edition=prelim), United States Code; “(III) is employed by the Transportation Security Administration of the Department of Homeland Security and becomes eligible to be paid an allowance based on [section 5941 of title 5](./chapter-059-allowances.md#section-5941), United States Code; or “(IV) becomes eligible to be paid under any other authority a cost-of-living allowance that is equivalent to the cost-of-living allowance under [section 5941 of title 5](./chapter-059-allowances.md#section-5941), United States Code. “(2) Application to covered employees.—“(A) In general.—Notwithstanding any other provision of law, for purposes of this subtitle (including the amendments made by this subtitle) any covered employee shall be treated as an employee to whom [section 5941 of title 5](./chapter-059-allowances.md#section-5941), United States Code (as amended by section 1912 of this subtitle), and section 1914 of this subtitle apply. “(B) Pay fixed by statute.—Pay to covered employees under section 5304 or 5304a of title 5, United States Code, as a result of the application of this subtitle shall be considered to be fixed by statute. “(C) Performance appraisal system.—With respect to a covered employee who is subject to a performance appraisal system no part of pay attributable to locality-based comparability payments as a result of the application of this subtitle including [section 5941 of title 5](./chapter-059-allowances.md#section-5941), United States Code (as amended by section 1912 of this subtitle), may be reduced on the basis of the performance of that employee. “(b) Postal Employees in Non-foreign Areas.—“(1) In general.— [Amended [section 1005 of Title 39](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title39-section1005&num=0&edition=prelim), Postal Service.] “(2) Continuation of cost of living allowance.—“(A) In general.—Notwithstanding any other provision of this subtitle, any employee of the Postal Service (other than an employee covered by section 1003(b) and (c) of title 39, United States Code, whose duty station is in a nonforeign area) who is paid an allowance under section 1005(b) of that title shall be treated for all purposes as if the provisions of this subtitle (including the amendments made by this subtitle) had not been enacted, except that the cost-of-living allowance rate paid to that employee—“(i) may result in the allowance exceeding 25 percent of the rate of basic pay of that employee; and “(ii) shall be the greater of— “(I) the cost-of-living allowance rate in effect on December 31, 2009 for the applicable area; or “(II) the applicable locality-based comparability pay percentage under section 1914. “(B) Rule of construction.—Nothing in this subtitle shall be construed to—“(i) provide for an employee described under subparagraph (A) to be a covered employee as defined under subsection (a); or “(ii) authorize an employee described under subparagraph (A) to file an election under section 1917 of this subtitle. “SEC. 1917. ELECTION OF ADDITIONAL BASIC PAY FOR ANNUITY COMPUTATION BY EMPLOYEES.“(a) Definition.—In this section the term ‘covered employee’ means any employee—“(1) to whom section 1914 applies; “(2) who is separated from service by reason of retirement under chapter 83 or 84 of title 5, United States Code, during the period of January 1, 2010, through December 31, 2012; and “(3) who files an election with the Office of Personnel Management under subsection (b). “(b) Election.—“(1) In general.—An employee described under subsection (a)(1) and (2) may file an election with the Office of Personnel Management to be covered under this section. “(2) Deadline.—An election under this subsection may be filed not later than December 31, 2012. “(c) Computation of Annuity.—“(1) In general.—Except as provided under paragraph (2), for purposes of the computation of an annuity of a covered employee any cost-of-living allowance under [section 5941 of title 5](./chapter-059-allowances.md#section-5941), United States Code, paid to that employee during the first applicable pay period beginning on or after January 1, 2010 through the first applicable pay period ending on or after December 31, 2012, shall be considered basic pay as defined under section 8331(3) or 8401(4) of that title. “(2) Limitation.—An employee’s cost-of-living allowance may be considered basic pay under paragraph (1) only to the extent that, when added to the employee’s locality-based comparability payments, the resulting sum does not exceed the amount of the locality-based comparability payments the employee would have received during that period for the applicable pay area if the limitation under section 1914 did not apply. “(d) Civil Service Retirement and Disability Retirement Fund.—“(1) Employee contributions.—A covered employee shall pay into the Civil Service Retirement and Disability Retirement Fund—“(A) an amount equal to the difference between—“(i) employee contributions that would have been deducted and withheld from pay under section 8334 or 8422 of title 5, United States Code, during the period described under subsection (c) of this section if the cost-of-living allowances described under that subsection had been treated as basic pay under section 8331(3) or 8401(4) of title 5, United States Code; and “(ii) employee contributions that were actually deducted and withheld from pay under section 8334 or 8422 of title 5, United States Code, during that period; and “(B) interest as prescribed under [section 8334(e) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section8334/e&num=0&edition=prelim), United States Code, based on the amount determined under subparagraph (A). “(2) Agency contributions.—“(A) In general.—The employing agency of a covered employee shall pay into the Civil Service Retirement and Disability Retirement Fund an amount for applicable agency contributions based on payments made under paragraph (1). “(B) Source.—Amounts paid under this paragraph shall be contributed from the appropriation or fund used to pay the employee. “(3) Regulations.—The Office of Personnel Management may prescribe regulations to carry out this section. “SEC. 1918. REGULATIONS.“(a) In General.—The Director of the Office of Personnel Management shall prescribe regulations to carry out this subtitle, including—“(1) rules for special rate employees described under section 1913; “(2) rules for adjusting rates of basic pay for employees in pay systems administered by the Office of Personnel Management when such employees are not entitled to locality-based comparability payments under [section 5304 of title 5](./chapter-053-pay-rates-and-systems.md#section-5304), United States Code, without regard to otherwise applicable statutory pay limitations during the transition period described in section 1914 ending on the first day of the first pay period beginning on or after January 1, 2012; and “(3) rules governing establishment and adjustment of saved or retained rates for any employee whose rate of pay exceeds applicable pay limitations on the first day of the first pay period beginning on or after January 1, 2012. “(b) Other Pay Systems.—With the concurrence of the Director of the Office of Personnel Management, the administrator of a pay system not administered by the Office of Personnel Management shall prescribe regulations to carry out this subtitle with respect to employees in such pay system, consistent with the regulations prescribed by the Office under subsection (a). With respect to employees not entitled to locality-based comparability payments under [section 5304 of title 5](./chapter-053-pay-rates-and-systems.md#section-5304), United States Code, regulations prescribed under this subsection may provide for special payments or adjustments for employees who were eligible to receive a cost-of-living allowance under section 5941 of that title on the date before the date of enactment of this Act [Oct. 28, 2009]. “SEC. 1919. EFFECTIVE DATES.“(a) In General.—Except as provided by subsection (b), this subtitle (including the amendments made by this subtitle) shall take effect on the date of enactment of this Act [Oct. 28, 2009]. “(b) Locality Pay and Schedule.—The amendments made by section 1912 and the provisions of section 1914 shall take effect on the first day of the first applicable pay period beginning on or after January 1, 2010.”
 
@@ -695,11 +698,14 @@ Pub. L. 103–329, title VI, § 630(b), (c), Sept. 30, 1994, 108 Stat. 2424, pro
 Section 8(b) of Pub. L. 102–378 provided that: “Notwithstanding [section 5304 of title 5](./chapter-053-pay-rates-and-systems.md#section-5304), United States Code, for purposes of any comparability payments scheduled to take effect under such section during calendar years 1994 and 1995, respectively— “(1) the report required by subsection (d)(1) of such section may be submitted not later than 1 month before the start of the calendar year for purposes of which it is prepared; and “(2) the surveys conducted by the Bureau of Labor Statistics for use in preparing any such report may be other than annual surveys, and shall, to the greatest extent practicable, be completed not later than 4 months before the start of the calendar year for purposes of which the surveys are conducted.”
 
 #### Interim Geographic Adjustments
-Section 529 [title III, § 302] of Pub. L. 101–509, as amended by Pub. L. 102–378, § 3(4), Oct. 2, 1992, 106 Stat. 1356; Pub. L. 103–89, § 3(b)(2), Sept. 30, 1993, 107 Stat. 982, provided that: “(a) Definitions.—For the purpose of this section—“(1) the term ‘area’ means any consolidated metropolitan statistical area, primary metropolitan statistical area, or metropolitan statistical area, with at least 5,000 General Schedule employees; and “(2) the term ‘pay relative’ shall have the meaning given such term under regulations prescribed by the Bureau of Labor Statistics. “(b) Authority.—(1) The President may establish geographic adjustments of up to 8 percent of basic pay which may be paid to each General Schedule employee whose duty station is within any area where such adjustment is needed (as determined under paragraph (2)). “(2) In determining areas where an interim geographic adjustment is needed, the President shall consider available evidence of significant pay disparities, including BLS information on pay relatives and relevant commercial surveys, and recruitment or retention problems. “(c) Administration.—(1) An adjustment under this section shall be administered, to the extent practicable, in the same manner as locality-based comparability payments under subchapter I of chapter 53 of title 5, United States Code (as amended by this Act), including in terms of—“(A) the basic pay to which a percentage is applied in computing an amount payable under this section; “(B) the purposes for which any amount under this section is to be considered part of basic pay; “(C) the time and manner in which amounts under this section are to be paid (including any maximum rate limitation); and “(D) the authority of the President, upon request of an agency head, to extend this section to employees who would not otherwise be covered. “(2) No amount payable under this section shall be taken into account in any survey or computation under, or for any other purpose in the administration of, [section 5304 of title 5](./chapter-053-pay-rates-and-systems.md#section-5304), United States Code (as so amended). “(d) Commencement and Termination Rules.—(1) The effective date of an adjustment under this section shall be as determined by the President, but not later than January 1, 1994. “(2)(A) The size of any payments under this section may be reduced or terminated after the amendments made by section 101 of this Act [section 529 [title I, § 101] of Pub. L. 101–509, see Tables for classification] take effect [see Effective Date of 1990 Amendment note set out under [section 5301 of this title](./chapter-053-pay-rates-and-systems.md#section-5301)], except that the reduction or termination of a payment under this section may not have the effect of reducing, for the individual involved, the total rate at which additional forms of basic pay (as defined in subparagraph (B)) are payable to such individual. “(B) The total rate to which subparagraph (A) applies is the sum of—“(i) the rate at which comparability payments (under [section 5304 of title 5](./chapter-053-pay-rates-and-systems.md#section-5304), United States Code, as amended by such Act), are payable; and “(ii) the rate at which payments under this section are payable. “(e) Employees Receiving Special Pay Rates.—The President (or his designated agent) shall determine what, if any, geographic adjustment shall be payable under this section in the case of an employee whose rate of pay is fixed under [section 5303 of title 5](./chapter-053-pay-rates-and-systems.md#section-5303), United States Code (as in effect before the date of enactment of this Act [Nov. 5, 1990]), [section 5305 of title 5](./chapter-053-pay-rates-and-systems.md#section-5305), United States Code (as amended by section 101 of this Act), or any similar provision of law. “(f) Effective Date.—This section shall take effect on the date of enactment of this Act [Nov. 5, 1990].”
+Pub. L. 101–509, Nov. 5, 1990, 104 Stat. 1427, 1462, as amended by Pub. L. 102–378, § 3(4), Oct. 2, 1992, 106 Stat. 1356; Pub. L. 103–89, § 3(b)(2), Sept. 30, 1993, 107 Stat. 982, provided that: “(a) Definitions.—For the purpose of this section—“(1) the term ‘area’ means any consolidated metropolitan statistical area, primary metropolitan statistical area, or metropolitan statistical area, with at least 5,000 General Schedule employees; and “(2) the term ‘pay relative’ shall have the meaning given such term under regulations prescribed by the Bureau of Labor Statistics. “(b) Authority.—(1) The President may establish geographic adjustments of up to 8 percent of basic pay which may be paid to each General Schedule employee whose duty station is within any area where such adjustment is needed (as determined under paragraph (2)). “(2) In determining areas where an interim geographic adjustment is needed, the President shall consider available evidence of significant pay disparities, including BLS information on pay relatives and relevant commercial surveys, and recruitment or retention problems. “(c) Administration.—(1) An adjustment under this section shall be administered, to the extent practicable, in the same manner as locality-based comparability payments under subchapter I of chapter 53 of title 5, United States Code (as amended by this Act), including in terms of—“(A) the basic pay to which a percentage is applied in computing an amount payable under this section; “(B) the purposes for which any amount under this section is to be considered part of basic pay; “(C) the time and manner in which amounts under this section are to be paid (including any maximum rate limitation); and “(D) the authority of the President, upon request of an agency head, to extend this section to employees who would not otherwise be covered. “(2) No amount payable under this section shall be taken into account in any survey or computation under, or for any other purpose in the administration of, [section 5304 of title 5](./chapter-053-pay-rates-and-systems.md#section-5304), United States Code (as so amended). “(d) Commencement and Termination Rules.—(1) The effective date of an adjustment under this section shall be as determined by the President, but not later than January 1, 1994. “(2)(A) The size of any payments under this section may be reduced or terminated after the amendments made by section 101 of this Act [section 529 [title I, § 101] of Pub. L. 101–509, see Tables for classification] take effect [see Effective Date of 1990 Amendment note set out under [section 5301 of this title](./chapter-053-pay-rates-and-systems.md#section-5301)], except that the reduction or termination of a payment under this section may not have the effect of reducing, for the individual involved, the total rate at which additional forms of basic pay (as defined in subparagraph (B)) are payable to such individual. “(B) The total rate to which subparagraph (A) applies is the sum of—“(i) the rate at which comparability payments (under [section 5304 of title 5](./chapter-053-pay-rates-and-systems.md#section-5304), United States Code, as amended by such Act), are payable; and “(ii) the rate at which payments under this section are payable. “(e) Employees Receiving Special Pay Rates.—The President (or his designated agent) shall determine what, if any, geographic adjustment shall be payable under this section in the case of an employee whose rate of pay is fixed under [section 5303 of title 5](./chapter-053-pay-rates-and-systems.md#section-5303), United States Code (as in effect before the date of enactment of this Act [Nov. 5, 1990]), [section 5305 of title 5](./chapter-053-pay-rates-and-systems.md#section-5305), United States Code (as amended by section 101 of this Act), or any similar provision of law. “(f) Effective Date.—This section shall take effect on the date of enactment of this Act [Nov. 5, 1990].”
 
 [Amendment by Pub. L. 103–89 to section 529 [title III, § 302] of Pub. L. 101–509, set out above, effective Nov. 1, 1993, see section 3(c) of Pub. L. 103–89, set out as an Effective Date of 1993 Amendment note under [section 3372 of this title](./chapter-033-examination-selection-and-placement.md#section-3372).]
 
 [Amendment by Pub. L. 102–378 to section 529 [title III, § 302] of Pub. L. 101–509, set out above, effective Nov. 5, 1990, see section 9(b)(6) of Pub. L. 102–378, set out as an Effective Date of 1992 Amendment note under [section 6303 of this title](./chapter-063-leave.md#section-6303).]
+
+#### Delegation of Functions
+For designation of agents of President under subsecs. (d)(1) and (h) of this section, see Ex. Ord. No. 12748, § 2(a), Feb. 1, 1991, 56 F.R. 4521, eff. Feb. 3, 1991, set out as a note under [section 5301 of this title](./chapter-053-pay-rates-and-systems.md#section-5301).
 
 Interim geographic adjustments pursuant to section 529 [title III, § 302] of Pub. L. 101–509, set out above, were provided by the following executive orders, formerly set out as notes under [section 5332 of this title](./chapter-053-pay-rates-and-systems.md#section-5332), effective on the first day of first pay period beginning on or after the effective date shown:
 
@@ -853,9 +859,6 @@ Amendment by Pub. L. 108–411 effective on the first day of the first applicabl
 #### Effective Date of 1990 Amendment
 Amendment by Pub. L. 101–509 effective on such date as the President shall determine, but not earlier than 90 days, and not later than 180 days, after Nov. 5, 1990, see section 529 [title III, § 305] of Pub. L. 101–509, set out as a note under [section 5301 of this title](./chapter-053-pay-rates-and-systems.md#section-5301).
 
-#### Delegation of Functions
-Functions of President under this section assigned to the Director of the Office of Personnel Management by section 1 of Ex. Ord. No. 13415, Dec. 1, 2006, 71 F.R. 70641, set out as a note under [section 4505a of this title](./chapter-045-incentive-awards.md#section-4505a).
-
 #### Staffing Differentials
 Pub. L. 101–509, title V, § 529 [title II, § 209], Nov. 5, 1990, 104 Stat. 1427, 1460, as amended by Pub. L. 102–378, § 3(3), Oct. 2, 1992, 106 Stat. 1355, provided that: “(a) In General.—Effective on the first day of the first applicable pay period beginning on or after January 1, 1991, the President may establish staffing differentials equal to 5 percent of basic pay, which may be paid to each General Schedule employee whose position is in—“(1) grade GS–5 or 7 of the General Schedule; “(2) a 2-grade-interval occupational series, as determined by the Office of Personnel Management; or “(3) any combination of classes of positions described in paragraph (1) or (2) for which the President determines a recruiting difficulty exists. “(b) Manner of Payment; Reduction or Elimination.—A staffing differential under this section—“(1) shall be paid in the same manner and at the same time as the employee’s basic pay is paid, but may not be considered to be part of basic pay for any purpose; and “(2) may be reduced or eliminated by the Office of Personnel Management in its sole discretion as the amendments made by this Act take effect [see Effective Date of 1990 Amendment and Short Title of 1990 Amendment notes set out under [section 5301 of this title](./chapter-053-pay-rates-and-systems.md#section-5301)], except that no such reduction or elimination shall have the effect of reducing the total amount of pay (determined by adding basic pay and staffing differential) which any employee is receiving.”
 
@@ -872,6 +875,9 @@ Pub. L. 101–509, title V, § 529 [title IV, §§ 401–407], Nov. 5, 1990, 104
 
 #### Reporting Requirement
 Pub. L. 101–509, title V, § 529 [title IV, § 412], Nov. 5, 1990, 104 Stat. 1427, 1469, provided that not later than Jan. 1, 1993, the Office of Personnel Management should submit to Congress a written plan to establish a separate pay and classification system for law enforcement officers and specifications for legislation to implement such plan.
+
+#### Delegation of Functions
+Functions of President under this section assigned to the Director of the Office of Personnel Management by section 1 of Ex. Ord. No. 13415, Dec. 1, 2006, 71 F.R. 70641, set out as a note under [section 4505a of this title](./chapter-045-incentive-awards.md#section-4505a).
 
 
 <a id="section-5306"></a>
@@ -1228,6 +1234,9 @@ Level II of the Executive Schedule applies to the following positions, for which
 
 ### Statutory Notes
 
+#### Amendment of Section
+Pub. L. 116–92, div. A, title IX, § 902(93)(B), (C), Dec. 20, 2019, 133 Stat. 1554, provided that, effective on the next date on which Congress confirms an individual to serve as the Under Secretary of Defense for Research and Engineering after Dec. 20, 2019, this section is amended by striking the item relating to the Under Secretary of Defense for Research and Engineering. See 2019 Amendment note below.
+
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
 | 1966 Act |  |  |
@@ -1242,13 +1251,19 @@ Standard changes are made to conform with the definitions applicable and the sty
 The deletion of paragraph (6) of [5 U.S.C. 5313](./chapter-053-pay-rates-and-systems.md#section-5313) reflects the abolition of the position of “Administrator of the Housing and Home Finance Agency” by the act of September 9, 1965, Public Law 89–174, sections 5(a), 9(c), 79 Stat. 669, 671.
 
 #### Amendments
+2021—Pub. L. 116–283, § 9001(b)(1), inserted item relating to Director, Cybersecurity and Infrastructure Security Agency.
+
+Pub. L. 116–283, § 901(a)(2)(B), repealed by Pub. L. 115–91, § 910(d). See 2017 Amendment note below.
+
+2019—Pub. L. 116–92 struck out item relating to Under Secretary of Defense for Research and Engineering.
+
 2018—Pub. L. 115–254, § 1904(c)(1)(A), inserted item relating to Administrator of the Transportation Security Administration.
 
 Pub. L. 115–254, § 1413(d)(4), inserted item relating to Chief Executive Officer, United States International Development Finance Corporation.
 
 2017—Pub. L. 115–91, § 1081(b)(1)(C), repealed Pub. L. 113–291, § 901(m)(1). See 2014 Amendment note below.
 
-Pub. L. 115–91, § 910(d), inserted item relating to Chief Management Officer of the Department of Defense.
+Pub. L. 115–91, § 910(d), which inserted item relating to Chief Management Officer of the Department of Defense, was repealed by Pub. L. 116–283, § 901(a)(2)(B).
 
 Pub. L. 115–91, § 903(a), amended Pub. L. 114–328, § 901(h). See 2016 Amendment note below.
 
@@ -1363,8 +1378,11 @@ Par. (21). Pub. L. 92–255 added par. (21) relating to Director of Special Acti
 #### Change of Name
 Any reference to the Administrator of the Federal Emergency Management Agency in title VI of Pub. L. 109–295 or an amendment by title VI to be considered to refer and apply to the Director of the Federal Emergency Management Agency until Mar. 31, 2007, see section 612(f)(2) of Pub. L. 109–295, set out as a note under [section 313 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section313&num=0&edition=prelim), Domestic Security.
 
+#### Effective Date of 2019 Amendment
+Pub. L. 116–92, div. A, title IX, § 902(93)(C), Dec. 20, 2019, 133 Stat. 1554, provided that: “This paragraph [amending this section and [section 5314 of this title](./chapter-053-pay-rates-and-systems.md#section-5314)] shall have no force or effect until the next date on which the Congress confirms an individual to serve as the Under Secretary of Defense for Research and Engineering after the date of enactment of this Act [Dec. 20, 2019].”
+
 #### Effective Date of 2017 Amendment
-Pub. L. 115–91, div. A, title IX, § 910(d), Dec. 12, 2017, 131 Stat. 1518, provided that the amendment made by section 910(d) is effective on Feb. 1, 2018.
+Pub. L. 115–91, div. A, title IX, § 910(d), Dec. 12, 2017, 131 Stat. 1518, which provided that the amendment made by section 910(d) (amending this section) was effective on Feb. 1, 2018, was repealed by Pub. L. 116–283, div. A, title IX, § 901(a)(2)(B), Jan. 1, 2021, 134 Stat. 3794.
 
 Pub. L. 115–91, div. A, title X, § 1081(b)(1), Dec. 12, 2017, 131 Stat. 1597, provided that the amendment made by section 1081(b)(1)(C) is effective as of Dec. 23, 2016.
 
@@ -1466,7 +1484,7 @@ Level III of the Executive Schedule applies to the following positions, for whic
 ### Statutory Notes
 
 #### Amendment of Section
-Pub. L. 115–254, div. F, title VI, § 1470(b)(1), (w), Oct. 5, 2018, 132 Stat. 3516, 3519, provided that, effective at the end of the transition period, as defined in [section 9681 of Title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section9681&num=0&edition=prelim), Foreign Relations and Intercourse, this section is amended by striking out item related to President, Overseas Private Investment Corporation. See 2018 Amendment note below.
+Pub. L. 116–92, div. A, title IX, § 902(93)(A), (C), Dec. 20, 2019, 133 Stat. 1554, provided that, effective on the next date on which Congress confirms an individual to serve as the Under Secretary of Defense for Research and Engineering after Dec. 20, 2019, this section is amended by inserting before the item relating to the Under Secretary of Defense for Acquisition and Sustainment the following new item: “Under Secretary of Defense for Research and Engineering.” See 2019 Amendment note below.
 
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
@@ -1491,6 +1509,9 @@ The deletion of paragraph (41) of [5 U.S.C. 5314](./chapter-053-pay-rates-and-sy
 
 In paragraph (49), the words “In lieu of receiving compensation at the rate prescribed by [section 785(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section785/c&num=0&edition=prelim)” are omitted since the provisions of [20 U.S.C. 785(c)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section785/c&num=0&edition=prelim) relating to compensation are repealed by this bill; also see table II. The wording further reflects the first sentence of [20 U.S.C. 954(d)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section954/d&num=0&edition=prelim), and conforms to [5 U.S.C. 5314](./chapter-053-pay-rates-and-systems.md#section-5314) which applies to positions rather than individuals.
 
+#### References in Text
+The position of Principal Deputy Under Secretary of Defense for Acquisition, Technology, and Logistics, referred to in text, was established by former [section 133a of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section133a&num=0&edition=prelim), added Pub. L. 99–500, § 101(c) [title X, § 902(a)(1)], Oct. 18, 1986, 100 Stat. 1783–82, 1783–131, and Pub. L. 99–591, § 101(c) [title X, § 902(a)(1)], Oct. 30, 1986, 100 Stat. 3341–82, 3341–131; Pub. L. 99–661, div. A, title IX, formerly title IV, § 902(a)(1), Nov. 14, 1986, 100 Stat. 3911, renumbered title IX, Pub. L. 100–26, § 3(5), Apr. 21, 1987, 101 Stat. 273; amended Pub. L. 103–160, div. A, title IX, § 904(c), Nov. 30, 1993, 107 Stat. 1728; Pub. L. 103–337, div. A, title X, § 1070(a)(2), Oct. 5, 1994, 108 Stat. 2855; Pub. L. 104–106, div. A, title IX, § 903(c)(1), Feb. 10, 1996, 110 Stat. 401; Pub. L. 104–201, div. A, title IX, § 901, Sept. 23, 1996, 110 Stat. 2617; Pub. L. 106–65, div. A, title IX, § 911(c), Oct. 5, 1999, 113 Stat. 718; Pub. L. 107–107, div. A, title X, § 1048(b)(1), Dec. 28, 2001, 115 Stat. 1225; Pub. L. 111–84, div. A, title IX, § 906(c)(1)(A), (2)(A), Oct. 28, 2009, 123 Stat. 2427, which was repealed by Pub. L. 111–383, div. A, title IX, § 901(b)(1), (p), Jan. 7, 2011, 124 Stat. 4317, 4327, effective Jan. 1, 2011.
+
 #### Codification
 Pub. L. 110–234 and Pub. L. 110–246 identically renumbered section 251(e) of Pub. L. 103–354, cited as a credit to this section, as section 251(g) of that Act. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234.
 
@@ -1499,6 +1520,16 @@ Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
 Paragraph designation for the position added by Pub. L. 96–88 has been omitted in view of the deletion of all paragraph designations in this section by Pub. L. 96–54.
 
 #### Amendments
+2021—Pub. L. 116–283 struck out item relating to Director, Cybersecurity and Infrastructure Security Agency.
+
+2020—Pub. L. 116–260 inserted item relating to Director of the National Reconnaissance Office.
+
+2019—Pub. L. 116–92, § 1621(e)(2)(A), substituted “Under Secretary of Defense for Intelligence and Security” for “Under Secretary of Defense for Intelligence”.
+
+Pub. L. 116–92, § 902(93)(A), inserted item relating to Under Secretary of Defense for Research and Engineering.
+
+Pub. L. 116–6, § 205(a)(1), amended Pub. L. 115–232, § 1781(b). See 2018 Amendment note below.
+
 2018—Pub. L. 115–278 inserted item relating to Director, Cybersecurity and Infrastructure Security Agency.
 
 Pub. L. 115–254, § 1904(c)(2), inserted item relating to Deputy Administrator, Transportation Security Administration.
@@ -1808,6 +1839,9 @@ Par. (53). Pub. L. 90–623 added par. (53) relating to Urban Mass Transportatio
 
 “Export-Import Bank of Washington”, referred to in text, was changed to “Export-Import Bank of the United States” in the Export-Import Bank Act of 1945, section 635 et seq. of Title 12, Banks and Banking, as provided for in section 1(a) of Pub. L. 90–267, Mar. 13, 1968, 82 Stat. 47.
 
+#### Effective Date of 2019 Amendment
+Amendment by section 902(93)(A) of Pub. L. 116–92 not effective until the next date on which Congress confirms an individual to serve as the Under Secretary of Defense for Research and Engineering after Dec. 20, 2019, see section 902(93)(C) of Pub. L. 116–92, set out as a note under [section 5313 of this title](./chapter-053-pay-rates-and-systems.md#section-5313).
+
 #### Effective Date of 2018 Amendment
 Amendment by section 1470(b)(1) of Pub. L. 115–254 effective at the end of the transition period, as defined in [section 9681 of Title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section9681&num=0&edition=prelim), Foreign Relations and Intercourse, see section 1470(w) of Pub. L. 115–254, set out as a note under [section 905 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section905&num=0&edition=prelim), The Congress.
 
@@ -1951,9 +1985,6 @@ Amendment by Pub. L. 90–206 effective at beginning of first pay period which b
 #### Effective Date of 1966 Amendment
 Amendment by Pub. L. 89–670 effective Apr. 1, 1967 as prescribed by President and published in Federal Register, see section 16(a), formerly § 15(a), of Pub. L. 89–670 and Ex. Ord. No. 11340, Mar. 30, 1967, 32 F.R. 5453.
 
-#### Transfer of Functions
-Office of Emergency Preparedness, including offices of Director, Deputy Director, Assistant Directors, and Regional Directors, abolished and functions vested by law in Office of Emergency Preparedness or Director of Office of Emergency Preparedness transferred to President by sections 1 and 3(a)(1) of 1973 Reorg. Plan No. 1, effective July 1, 1973, set out in the Appendix to this title.
-
 #### Nonapplicability of Amendment by Pub. L. 115–254
 Pub. L. 115–254, div. K, title I, § 1904(c)(3), Oct. 5, 2018, 132 Stat. 3546, provided that: “The amendment made by paragraph (2) of this subsection [amending this section] shall not affect the salary of an individual who is performing the duties of the Deputy Administrator on the date of enactment of this Act [Oct. 5, 2018], even if that individual is subsequently appointed as Deputy Administrator.”
 
@@ -1977,6 +2008,9 @@ For prior year salary increases per the recommendation of the President, see Pri
 
 For miscellaneous provisions dealing with adjustments of pay and limitations on use of funds to pay salaries in prior years, see notes under [section 5318 of this title](./chapter-053-pay-rates-and-systems.md#section-5318).
 
+#### Transfer of Functions
+Office of Emergency Preparedness, including offices of Director, Deputy Director, Assistant Directors, and Regional Directors, abolished and functions vested by law in Office of Emergency Preparedness or Director of Office of Emergency Preparedness transferred to President by sections 1 and 3(a)(1) of 1973 Reorg. Plan No. 1, effective July 1, 1973, set out in the Appendix to this title.
+
 
 <a id="section-5315"></a>
 ## § 5315. Positions at level IV
@@ -1984,9 +2018,6 @@ For miscellaneous provisions dealing with adjustments of pay and limitations on 
 Level IV of the Executive Schedule applies to the following positions, for which the annual rate of basic pay shall be the rate determined with respect to such level under chapter 11 of title 2, as adjusted by [section 5318 of this title](./chapter-053-pay-rates-and-systems.md#section-5318):
 
 ### Statutory Notes
-
-#### Amendment of Section
-Pub. L. 115–254, div. F, title VI, § 1470(b)(2), (w), Oct. 5, 2018, 132 Stat. 3516, 3519, provided that, effective at the end of the transition period, as defined in [section 9681 of Title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section9681&num=0&edition=prelim), Foreign Relations and Intercourse, this section is amended by striking out item related to Executive Vice President, Overseas Private Investment Corporation. See 2018 Amendment note below.
 
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
@@ -2024,6 +2055,14 @@ The paragraph designation for the positions added or amended by Pub. L. 96–88 
 Amendment by Pub. L. 94–237 to formerly designated par. (95) of this section has been editorially made to formerly designated par. (96) of this section relating to the Deputy Director, Office of Drug Abuse Policy, in view of redesignation of par. (95) as (96) by Pub. L. 94–183 as the probable intent of Congress.
 
 #### Amendments
+2020—Pub. L. 116–260 substituted “Great Lakes St. Lawrence Seaway Development Corporation” for “Saint Lawrence Seaway Development Corporation”.
+
+2019—Pub. L. 116–92, § 6403, inserted item relating to Director of the National Counterintelligence and Security Center.
+
+Pub. L. 116–92, § 1621(e)(2)(B), substituted “Deputy Under Secretary of Defense for Intelligence and Security” for “Deputy Under Secretary of Defense for Intelligence”.
+
+Pub. L. 116–92, § 956(b)(2), substituted “(5)” for “(4)” in item relating to Assistant Secretaries of the Air Force.
+
 2018—Pub. L. 115–334 struck out item relating to Administrator, Rural Utilities Service, Department of Agriculture.
 
 Pub. L. 115–278 inserted items relating to Assistant Director for Cybersecurity, Cybersecurity and Infrastructure Security Agency and Assistant Director for Infrastructure Security, Cybersecurity and Infrastructure Security Agency.
@@ -2705,9 +2744,6 @@ Level V of the Executive Schedule applies to the following positions, for which 
 
 ### Statutory Notes
 
-#### Amendment of Section
-Pub. L. 115–254, div. F, title VI, § 1470(b)(3), (w), Oct. 5, 2018, 132 Stat. 3516, 3519, provided that, effective at the end of the transition period, as defined in [section 9681 of Title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section9681&num=0&edition=prelim), Foreign Relations and Intercourse, this section is amended by striking out item relating to Vice Presidents, Overseas Private Investment Corporation (3). See 2018 Amendment note below.
-
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
 | 1966 Act |  |  |
@@ -3101,13 +3137,6 @@ Amendment by Pub. L. 90–206 effective as of beginning of first pay period whic
 #### Effective Date of 1966 Amendment
 Amendment by Pub. L. 89–670 effective Apr. 1, 1967, as prescribed by President and published in Federal Register, see section 16(a), formerly § 15(a), of Pub. L. 89–670 and Ex. Ord. No. 11340, Mar. 30, 1967, 32 F.R. 5453.
 
-#### Transfer of Functions
-Office of Emergency Preparedness, including offices of Director, Deputy Director, Assistant Directors, and Regional Directors, abolished and functions vested by law in Office of Emergency Preparedness or Director of Office of Emergency Preparedness transferred to President by sections 1 and 3(a)(1) of 1973 Reorg. Plan No. 1, set out in the Appendix to this title.
-
-Environmental Science Services Administration in Department of Commerce, including offices of Administrator and Deputy Administrator thereof, abolished by Reorg. Plan No. 4 of 1970, eff. Oct. 3, 1970, 35 F.R. 15627, 84 Stat. 2090, set out in the Appendix to this title, which created National Oceanic and Atmospheric Administration in Department of Commerce and transferred personnel, property, records, and unexpended balances of funds of Environmental Science Services Administration to such newly created National Oceanic and Atmospheric Administration. Components of Environmental Science Services Administration thus transferred included Weather Bureau [now National Weather Service], Coast and Geodetic Survey [now National Ocean Survey], Environmental Data Service, National Environmental Satellite Center, and ESSA Research Laboratories.
-
-Bureau of Narcotics and Dangerous Drugs, including office of Director thereof, in Department of Justice abolished by 1973 Reorg. Plan No. 2, eff. July 1, 1973, 38 FR 15932, 87 Stat. 1091, set out in the Appendix to this title, 1973 Reorg. Plan No. 2 also created in Department of Justice an agency to be known as Drug Enforcement Administration, with an Administrator and Deputy Administrator appointed by President with advice and consent of Senate.
-
 #### Indian Claims Commission
 Indian Claims Commission terminated on Sept. 30, 1978, pursuant to Pub. L. 94–465, § 2, Oct. 8, 1976, 90 Stat. 1990.
 
@@ -3132,6 +3161,13 @@ For adjustment of salaries under this section, see the executive order detailing
 For prior year salary increases per the recommendation of the President, see Prior Salary Recommendations notes under [section 358 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section358&num=0&edition=prelim), The Congress.
 
 For miscellaneous provisions dealing with adjustments of pay and limitations on use of funds to pay salaries in prior years, see notes under [section 5318 of this title](./chapter-053-pay-rates-and-systems.md#section-5318).
+
+#### Transfer of Functions
+Office of Emergency Preparedness, including offices of Director, Deputy Director, Assistant Directors, and Regional Directors, abolished and functions vested by law in Office of Emergency Preparedness or Director of Office of Emergency Preparedness transferred to President by sections 1 and 3(a)(1) of 1973 Reorg. Plan No. 1, set out in the Appendix to this title.
+
+Environmental Science Services Administration in Department of Commerce, including offices of Administrator and Deputy Administrator thereof, abolished by Reorg. Plan No. 4 of 1970, eff. Oct. 3, 1970, 35 F.R. 15627, 84 Stat. 2090, set out in the Appendix to this title, which created National Oceanic and Atmospheric Administration in Department of Commerce and transferred personnel, property, records, and unexpended balances of funds of Environmental Science Services Administration to such newly created National Oceanic and Atmospheric Administration. Components of Environmental Science Services Administration thus transferred included Weather Bureau [now National Weather Service], Coast and Geodetic Survey [now National Ocean Survey], Environmental Data Service, National Environmental Satellite Center, and ESSA Research Laboratories.
+
+Bureau of Narcotics and Dangerous Drugs, including office of Director thereof, in Department of Justice abolished by 1973 Reorg. Plan No. 2, eff. July 1, 1973, 38 FR 15932, 87 Stat. 1091, set out in the Appendix to this title, 1973 Reorg. Plan No. 2 also created in Department of Justice an agency to be known as Drug Enforcement Administration, with an Administrator and Deputy Administrator appointed by President with advice and consent of Senate.
 
 
 <a id="section-5317"></a>
@@ -3413,12 +3449,12 @@ Pub. L. 90–206, title II, §§ 211(b)–(d), 220(a)(2), Dec. 16, 1967, 81 Stat
 #### Retroactive Compensation Under 1967 Pay Increases
 Pub. L. 90–206, title II, § 218, Dec. 16, 1967, 81 Stat. 638, provided for retroactive pay under title II of Pub. L. 90–206 only in the case of an individual in the service of the United States, including service in the Armed Forces, or the municipal government of the District of Columbia on Dec. 16, 1967, subject to certain restrictions.
 
-#### Ex. Ord. No. 13866. Adjustments of Certain Rates of Pay
-Ex. Ord. No. 13866, Mar. 28, 2019, 84 F.R. 12853, provided:
+#### Ex. Ord. No. 13901. Adjustments of Certain Rates of Pay
+Ex. Ord. No. 13901, Dec. 26, 2019, 84 F.R. 72213, provided:
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered as follows:
 
-Section 1. Statutory Pay Systems. The rates of basic pay or salaries of the statutory pay systems (as defined in [5 U.S.C. 5302(1)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5302/1&num=0&edition=prelim)), as adjusted under [5 U.S.C. 5303](./chapter-053-pay-rates-and-systems.md#section-5303) and section 748 of title VII of division D of the Consolidated Appropriations Act, 2019 (Public Law 116–6) [[5 U.S.C. 5303](./chapter-053-pay-rates-and-systems.md#section-5303) note], are set forth on the schedules attached hereto and made a part hereof:
+Section 1. Statutory Pay Systems. The rates of basic pay or salaries of the statutory pay systems (as defined in [5 U.S.C. 5302(1)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5302/1&num=0&edition=prelim)), as adjusted under [5 U.S.C. 5303](./chapter-053-pay-rates-and-systems.md#section-5303) and section 748 of division C of the Consolidated Appropriations Act, 2020 [Pub. L. 116–93, [5 U.S.C. 5303](./chapter-053-pay-rates-and-systems.md#section-5303) note], are set forth on the schedules attached hereto and made a part hereof:
 
 (a) The General Schedule ([5 U.S.C. 5332(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5332/a&num=0&edition=prelim)) at Schedule 1;
 
@@ -3440,80 +3476,80 @@ Sec. 4. Uniformed Services. The rates of monthly basic pay ([37 U.S.C. 203(a)](h
 
 Sec. 5. Locality-Based Comparability Payments.
 
-(a) Pursuant to sections 5304 and 5304a of title 5, United States Code, and section 748 of title VII of division D of the Consolidated Appropriations Act, 2019 (Public Law 116–6), locality-based comparability payments shall be paid in accordance with Schedule 9 attached hereto and made a part hereof.
+(a) Pursuant to sections 5304 and 5304a of title 5, United States Code, and section 748 of division C of the Consolidated Appropriations Act, 2020, locality-based comparability payments shall be paid in accordance with Schedule 9 attached hereto and made a part hereof.
 
 (b) The Director of the Office of Personnel Management shall take such actions as may be necessary to implement these payments and to publish appropriate notice of such payments in the Federal Register.
 
 Sec. 6. Administrative Law Judges. Pursuant to [section 5372 of title 5](./chapter-053-pay-rates-and-systems.md#section-5372), United States Code, the rates of basic pay for administrative law judges are set forth on Schedule 10 attached hereto and made a part hereof.
 
-Sec. 7. Effective Dates. Schedule 8 is effective January 1, 2019. The other schedules contained herein are effective on the first day of the first applicable pay period beginning on or after January 1, 2019.
+Sec. 7. Effective Dates. Schedule 8 is effective January 1, 2020. The other schedules contained herein are effective on the first day of the first applicable pay period beginning on or after January 1, 2020.
 
-Sec. 8. Prior Order Superseded. Executive Order 13856 of December 28, 2018, is superseded as of the effective dates specified in section 7 of this order.
+Sec. 8. Prior Order Superseded. Executive Order 13866 of March 28, 2019, is superseded as of the effective dates specified in section 7 of this order.
 
 Donald J. Trump.
 
 | Schedule 1 |  |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | General Schedule |  |  |  |  |  |  |  |  |  |  |
-| (Effective on the first day of the first applicable pay period beginning on or after January 1, 2019) |  |  |  |  |  |  |  |  |  |  |
+| (Effective on the first day of the first applicable pay period beginning on or after January 1, 2020) |  |  |  |  |  |  |  |  |  |  |
 |  | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
-| GS–1 | $19,048 | $19,686 | $20,320 | $20,949 | $21,583 | $21,953 | $22,579 | $23,211 | $23,236 | $23,827 |
-| GS–2 | 21,417 | 21,927 | 22,636 | 23,236 | 23,497 | 24,188 | 24,879 | 25,570 | 26,261 | 26,952 |
-| GS–3 | 23,368 | 24,147 | 24,926 | 25,705 | 26,484 | 27,263 | 28,042 | 28,821 | 29,600 | 30,379 |
-| GS–4 | 26,233 | 27,107 | 27,981 | 28,855 | 29,729 | 30,603 | 31,477 | 32,351 | 33,225 | 34,099 |
-| GS–5 | 29,350 | 30,328 | 31,306 | 32,284 | 33,262 | 34,240 | 35,218 | 36,196 | 37,174 | 38,152 |
-| GS–6 | 32,716 | 33,807 | 34,898 | 35,989 | 37,080 | 38,171 | 39,262 | 40,353 | 41,444 | 42,535 |
-| GS–7 | 36,356 | 37,568 | 38,780 | 39,992 | 41,204 | 42,416 | 43,628 | 44,840 | 46,052 | 47,264 |
-| GS–8 | 40,263 | 41,605 | 42,947 | 44,289 | 45,631 | 46,973 | 48,315 | 49,657 | 50,999 | 52,341 |
-| GS–9 | 44,471 | 45,953 | 47,435 | 48,917 | 50,399 | 51,881 | 53,363 | 54,845 | 56,327 | 57,809 |
-| GS–10 | 48,973 | 50,605 | 52,237 | 53,869 | 55,501 | 57,133 | 58,765 | 60,397 | 62,029 | 63,661 |
-| GS–11 | 53,805 | 55,599 | 57,393 | 59,187 | 60,981 | 62,775 | 64,569 | 66,363 | 68,157 | 69,951 |
-| GS–12 | 64,490 | 66,640 | 68,790 | 70,940 | 73,090 | 75,240 | 77,390 | 79,540 | 81,690 | 83,840 |
-| GS–13 | 76,687 | 79,243 | 81,799 | 84,355 | 86,911 | 89,467 | 92,023 | 94,579 | 97,135 | 99,691 |
-| GS–14 | 90,621 | 93,642 | 96,663 | 99,684 | 102,705 | 105,726 | 108,747 | 111,768 | 114,789 | 117,810 |
-| GS–15 | 106,595 | 110,148 | 113,701 | 117,254 | 120,807 | 124,360 | 127,913 | 131,466 | 135,019 | 138,572 |
+| GS–1 | $19,543 | $20,198 | $20,848 | $21,494 | $22,144 | $22,524 | $23,166 | $23,814 | $23,840 | $24,448 |
+| GS–2 | 21,974 | 22,497 | 23,225 | 23,840 | 24,108 | 24,817 | 25,526 | 26,235 | 26,944 | 27,653 |
+| GS–3 | 23,976 | 24,775 | 25,574 | 26,373 | 27,172 | 27,971 | 28,770 | 29,569 | 30,368 | 31,167 |
+| GS–4 | 26,915 | 27,812 | 28,709 | 29,606 | 30,503 | 31,400 | 32,297 | 33,194 | 34,091 | 34,988 |
+| GS–5 | 30,113 | 31,117 | 32,121 | 33,125 | 34,129 | 35,133 | 36,137 | 37,141 | 38,145 | 39,149 |
+| GS–6 | 33,567 | 34,686 | 35,805 | 36,924 | 38,043 | 39,162 | 40,281 | 41,400 | 42,519 | 43,638 |
+| GS–7 | 37,301 | 38,544 | 39,787 | 41,030 | 42,273 | 43,516 | 44,759 | 46,002 | 47,245 | 48,488 |
+| GS–8 | 41,310 | 42,687 | 44,064 | 45,441 | 46,818 | 48,195 | 49,572 | 50,949 | 52,326 | 53,703 |
+| GS–9 | 45,627 | 47,148 | 48,669 | 50,190 | 51,711 | 53,232 | 54,753 | 56,274 | 57,795 | 59,316 |
+| GS–10 | 50,246 | 51,921 | 53,596 | 55,271 | 56,946 | 58,621 | 60,296 | 61,971 | 63,646 | 65,321 |
+| GS–11 | 55,204 | 57,044 | 58,884 | 60,724 | 62,564 | 64,404 | 66,244 | 68,084 | 69,924 | 71,764 |
+| GS–12 | 66,167 | 68,373 | 70,579 | 72,785 | 74,991 | 77,197 | 79,403 | 81,609 | 83,815 | 86,021 |
+| GS–13 | 78,681 | 81,304 | 83,927 | 86,550 | 89,173 | 91,796 | 94,419 | 97,042 | 99,665 | 102,288 |
+| GS–14 | 92,977 | 96,076 | 99,175 | 102,274 | 105,373 | 108,472 | 111,571 | 114,670 | 117,769 | 120,868 |
+| GS–15 | 109,366 | 113,012 | 116,658 | 120,304 | 123,950 | 127,596 | 131,242 | 134,888 | 138,534 | 142,180 |
 
 | Schedule 2 |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Foreign Service Schedule |  |  |  |  |  |  |  |  |  |
-| (Effective on the first day of the first applicable pay period beginning on or after January 1, 2019) |  |  |  |  |  |  |  |  |  |
+| (Effective on the first day of the first applicable pay period beginning on or after January 1, 2020) |  |  |  |  |  |  |  |  |  |
 | Step | Class 1 | Class 2 | Class 3 | Class 4 | Class 5 | Class 6 | Class 7 | Class 8 | Class 9 |
-| 1 | $106,595 | $86,374 | $69,988 | $56,711 | $45,953 | $41,081 | $36,725 | $32,831 | $29,350 |
-| 2 | 109,793 | 88,965 | 72,088 | 58,412 | 47,332 | 42,313 | 37,827 | 33,816 | 30,231 |
-| 3 | 113,087 | 91,634 | 74,250 | 60,165 | 48,752 | 43,583 | 38,962 | 34,830 | 31,137 |
-| 4 | 116,479 | 94,383 | 76,478 | 61,970 | 50,214 | 44,890 | 40,130 | 35,875 | 32,072 |
-| 5 | 119,974 | 97,215 | 78,772 | 63,829 | 51,721 | 46,237 | 41,334 | 36,952 | 33,034 |
-| 6 | 123,573 | 100,131 | 81,135 | 65,744 | 53,272 | 47,624 | 42,574 | 38,060 | 34,025 |
-| 7 | 127,280 | 103,135 | 83,569 | 67,716 | 54,870 | 49,053 | 43,852 | 39,202 | 35,045 |
-| 8 | 131,098 | 106,229 | 86,076 | 69,747 | 56,516 | 50,524 | 45,167 | 40,378 | 36,097 |
-| 9 | 135,031 | 109,416 | 88,659 | 71,840 | 58,212 | 52,040 | 46,522 | 41,589 | 37,180 |
-| 10 | 138,572 | 112,698 | 91,318 | 73,995 | 59,958 | 53,601 | 47,918 | 42,837 | 38,295 |
-| 11 | 138,572 | 116,079 | 94,058 | 76,215 | 61,757 | 55,209 | 49,355 | 44,122 | 39,444 |
-| 12 | 138,572 | 119,562 | 96,880 | 78,501 | 63,610 | 56,866 | 50,836 | 45,446 | 40,627 |
-| 13 | 138,572 | 123,149 | 99,786 | 80,856 | 65,518 | 58,572 | 52,361 | 46,809 | 41,846 |
-| 14 | 138,572 | 126,843 | 102,780 | 83,282 | 67,484 | 60,329 | 53,932 | 48,213 | 43,101 |
+| 1 | $109,366 | $88,619 | $71,808 | $58,186 | $47,148 | $42,149 | $37,680 | $33,685 | $30,113 |
+| 2 | 112,647 | 91,278 | 73,692 | 59,932 | 48,562 | 43,413 | 38,810 | 34,696 | 31,016 |
+| 3 | 116,026 | 94,016 | 76,181 | 61,730 | 50,019 | 44,716 | 39,975 | 35,736 | 31,947 |
+| 4 | 119,507 | 96,836 | 78,467 | 63,581 | 51,520 | 46,057 | 41,174 | 36,809 | 32,905 |
+| 5 | 123,092 | 99,741 | 80,821 | 65,489 | 53,065 | 47,439 | 42,409 | 37,913 | 33,892 |
+| 6 | 126,785 | 102,734 | 83,245 | 67,454 | 54,657 | 48,862 | 43,681 | 39,050 | 34,909 |
+| 7 | 130,589 | 105,816 | 85,743 | 69,477 | 56,297 | 50,328 | 44,992 | 40,222 | 35,956 |
+| 8 | 134,506 | 108,990 | 88,315 | 71,561 | 57,986 | 51,838 | 46,342 | 41,428 | 37,035 |
+| 9 | 138,542 | 112,260 | 90,964 | 73,708 | 59,726 | 53,393 | 47,732 | 42,671 | 38,146 |
+| 10 | 142,180 | 115,628 | 93,693 | 75,920 | 61,517 | 54,995 | 49,164 | 43,951 | 39,291 |
+| 11 | 142,180 | 119,097 | 96,504 | 78,197 | 63,363 | 56,645 | 50,639 | 45,270 | 40,469 |
+| 12 | 142,180 | 122,669 | 99,399 | 80,543 | 65,264 | 58,344 | 52,158 | 46,628 | 41,683 |
+| 13 | 142,180 | 126,350 | 102,381 | 82,959 | 67,222 | 60,094 | 53,723 | 48,027 | 42,934 |
+| 14 | 142,180 | 130,140 | 105,452 | 85,448 | 69,238 | 61,897 | 55,334 | 49,468 | 44,222 |
 
 | Schedule 3 |  |  |
 | --- | --- | --- |
 | Veterans Health Administration Schedules, Department of Veterans Affairs |  |  |
-| (Effective on the first day of the first applicable pay period beginning on or after January 1, 2019) |  |  |
+| (Effective on the first day of the first applicable pay period beginning on or after January 1, 2020) |  |  |
 | 1 This schedule does not apply to the Director of Nursing Service or any incumbents who are physicians or dentists. |  |  |
-| 2 Pursuant to [38 U.S.C. 7404(d)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section7404/d&num=0&edition=prelim), the rate of basic pay payable to these employees is limited to the rate for level V of the Executive Schedule, which is $156,000. |  |  |
-| 3 Pursuant to section 3 of Public Law 108–445 [see Tables for classification] and [38 U.S.C. 7431](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section7431&num=0&edition=prelim), Veterans Health Administration physicians and dentists may also be paid market pay and performance pay. |  |  |
+| 2 Pursuant to [38 U.S.C. 7404(d)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section7404/d&num=0&edition=prelim), the rate of basic pay payable to these employees is limited to the rate for level V of the Executive Schedule, which is $160,100. |  |  |
+| 3 Pursuant to section 3 of Public Law 108–445 [see Tables for classification] and [38 U.S.C. 7431](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section7431&num=0&edition=prelim), Veterans Health Administration physicians, podiatrists, and dentists may also be paid market pay and performance pay. |  |  |
 | 4 Pursuant to section 301(a) of Public Law 102–40 [[38 U.S.C. 7451](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section7451&num=0&edition=prelim) note], these positions are paid according to the Nurse Schedule in [38 U.S.C. 4107(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section4107/b&num=0&edition=prelim), as in effect on August 14, 1990, with subsequent adjustments. |  |  |
 | Schedule for the Office of the Under Secretary for Health ([38 U.S.C. 7306](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section7306&num=0&edition=prelim)) 1 |  |  |
 |  | Minimum | Maximum |
-|  | $127,914 | $156,000 2 |
+|  | $131,239 | $160,100 2 |
 | Physician, Dentist, and Podiatrist Base and Longevity Schedule 3 |  |  |
-| Physician Grade | $104,843 | $153,773 |
-| Dentist Grade | 104,843 | 153,773 |
-| Podiatrist Grade | 104,843 | 153,773 |
+| Physician Grade | $107,569 | $157,773 |
+| Dentist Grade | 107,569 | 157,773 |
+| Podiatrist Grade | 107,569 | 157,773 |
 | Chiropractor and Optometrist Schedule |  |  |
-| Chief Grade | $106,595 | $138,572 |
-| Senior Grade | 90,621 | 117,810 |
-| Intermediate Grade | 76,687 | 99,691 |
-| Full Grade | 64,490 | 83,840 |
-| Associate Grade | 53,805 | 69,951 |
+| Chief Grade | $109,366 | $142,180 |
+| Senior Grade | 92,977 | 120,868 |
+| Intermediate Grade | 78,681 | 102,288 |
+| Full Grade | 66,167 | 86,021 |
+| Associate Grade | 55,204 | 71,764 |
 | Physician Assistant and Expanded-Function Dental Auxiliary Schedule 4 |  |  |
 | Director Grade | $106,595 | $138,572 |
 | Assistant Director Grade | 90,621 | 117,810 |
@@ -3527,26 +3563,26 @@ Donald J. Trump.
 | Schedule 4 |  |  |
 | --- | --- | --- |
 | Senior Executive Service |  |  |
-| (Effective on the first day of the first applicable pay period beginning on or after January 1, 2019) |  |  |
+| (Effective on the first day of the first applicable pay period beginning on or after January 1, 2020) |  |  |
 |  | Minimum | Maximum |
-| Agencies with a Certified SES Performance Appraisal System | $127,914 | $192,300 |
-| Agencies without a Certified SES Performance Appraisal System | $127,914 | $176,900 |
+| Agencies with a Certified SES Performance Appraisal System | $131,239 | $197,300 |
+| Agencies without a Certified SES Performance Appraisal System | $131,239 | $181,500 |
 
 | Schedule 5 |  |
 | --- | --- |
 | Executive Schedule |  |
-| (Effective on the first day of the first applicable pay period beginning on or after January 1, 2019) |  |
-| Level I | $213,600 |
-| Level II | 192,300 |
-| Level III | 176,900 |
-| Level IV | 166,500 |
-| Level V | 156,000 |
+| (Effective on the first day of the first applicable pay period beginning on or after January 1, 2020) |  |
+| Level I | $219,200 |
+| Level II | 197,300 |
+| Level III | 181,500 |
+| Level IV | 170,800 |
+| Level V | 160,100 |
 
 | Schedule 6 |  |
 | --- | --- |
 | Vice President and Members of Congress |  |
-| (Effective on the first day of the first applicable pay period beginning on or after January 1, 2019) |  |
-| Vice President | $246,900 |
+| (Effective on the first day of the first applicable pay period beginning on or after January 1, 2020) |  |
+| Vice President | $253,300 |
 | Senators | 174,000 |
 | Members of the House of Representatives | 174,000 |
 | Delegates to the House of Representatives | 174,000 |
@@ -3559,277 +3595,279 @@ Donald J. Trump.
 | Schedule 7 |  |
 | --- | --- |
 | Judicial Salaries |  |
-| (Effective on the first day of the first applicable pay period beginning on or after January 1, 2019) |  |
-| Chief Justice of the United States | $270,700 |
-| Associate Justices of the Supreme Court | 258,900 |
-| Circuit Judges | 223,700 |
-| District Judges | 210,900 |
-| Judges of the Court of International Trade | 210,900 |
+| (Effective on the first day of the first applicable pay period beginning on or after January 1, 2020) |  |
+| Chief Justice of the United States | $277,700 |
+| Associate Justices of the Supreme Court | 265,600 |
+| Circuit Judges | 229,500 |
+| District Judges | 216,400 |
+| Judges of the Court of International Trade | 216,400 |
 
 | Schedule 8 |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
 | Pay of the Uniformed Services |  |  |  |  |  |
-| (Effective January 1, 2019) |  |  |  |  |  |
+| (Effective January 1, 2020) |  |  |  |  |  |
 | part i—monthly basic pay |  |  |  |  |  |
 | Years of Service (computed under [37 U.S.C. 205](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section205&num=0&edition=prelim)) |  |  |  |  |  |
 | Commissioned Officers |  |  |  |  |  |
 | Pay Grade | 2 or less | Over 2 | Over 3 | Over 4 | Over 6 |
-| 1 Basic pay is limited to the rate of basic pay for level II of the Executive Schedule in effect during calendar year 2019, which is $16,025.10 per month for officers at pay grades O–7 through O–10. This includes officers serving as Chairman or Vice Chairman of the Joint Chiefs of Staff, Chief of Staff of the Army, Chief of Naval Operations, Chief of Staff of the Air Force, Commandant of the Marine Corps, Commandant of the Coast Guard, Chief of the National Guard Bureau, or commander of a unified or specified combatant command (as defined in [10 U.S.C. 161(c)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section161/c&num=0&edition=prelim)). |  |  |  |  |  |
-| 2 Basic pay is limited to the rate of basic pay for level V of the Executive Schedule in effect during calendar year 2019, which is $12,999.90 per month, for officers at pay grades O–6 and below. |  |  |  |  |  |
+| 1 Basic pay is limited to the rate of basic pay for level II of the Executive Schedule in effect during calendar year 2020, which is $16,441.80 per month for officers at pay grades O–7 through O–10. This includes officers serving as Chairman or Vice Chairman of the Joint Chiefs of Staff, Chief of Staff of the Army, Chief of Naval Operations, Chief of Staff of the Air Force, Commandant of the Marine Corps, Commandant of the Coast Guard, Chief of the National Guard Bureau, or commander of a unified or specified combatant command (as defined in [10 U.S.C. 161(c)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section161/c&num=0&edition=prelim)). |  |  |  |  |  |
+| 2 Basic pay is limited to the rate of basic pay for level V of the Executive Schedule in effect during calendar year 2020, which is $13,341.60 per month, for officers at pay grades O–6 and below. |  |  |  |  |  |
 | 3 Does not apply to commissioned officers who have been credited with over 4 years of active duty service as an enlisted member or warrant officer. |  |  |  |  |  |
 | O–10 1 | ............ | ............ | ............ | ............ | ............ |
 | O–9 | ............ | ............ | ............ | ............ | ............ |
-| O–8 | $10,668.90 | $11,018.70 | $11,250.60 | $11,315.40 | $11,604.90 |
-| O–7 | 8,865.30 | 9,276.90 | 9,467.70 | 9,619.20 | 9,893.40 |
-| O–6 2 | 6,722.70 | 7,385.70 | 7,870.50 | 7,870.50 | 7,900.50 |
-| O–5 | 5,604.30 | 6,313.50 | 6,750.00 | 6,832.50 | 7,105.50 |
-| O–4 | 4,835.40 | 5,597.40 | 5,971.20 | 6,054.00 | 6,400.80 |
-| O–3 3 | 4,251.60 | 4,819.20 | 5,201.40 | 5,671.50 | 5,943.60 |
-| O–2 3 | 3,673.50 | 4,183.80 | 4,818.30 | 4,981.20 | 5,083.80 |
-| O–1 3 | 3,188.40 | 3,318.90 | 4,011.90 | 4,011.90 | 4,011.90 |
+| O–8 | $10,999.50 | $11,360.40 | $11,599.50 | $11,666.10 | $11,964.60 |
+| O–7 | 9,140.10 | 9,564.60 | 9,761.10 | 9,917.40 | 10,200.00 |
+| O–6 2 | 6,931.20 | 7,614.60 | 8,114.40 | 8,114.40 | 8,145.30 |
+| O–5 | 5,778.00 | 6,509.10 | 6,959.40 | 7,044.30 | 7,325.70 |
+| O–4 | 4,985.40 | 5,770.80 | 6,156.30 | 6,241.80 | 6,599.10 |
+| O–3 3 | 4,383.30 | 4,968.60 | 5,362.50 | 5,847.30 | 6,127.80 |
+| O–2 3 | 3,787.50 | 4,313.40 | 4,967.70 | 5,135.70 | 5,241.30 |
+| O–1 3 | 3,287.10 | 3,421.80 | 4,136.40 | 4,136.40 | 4,136.40 |
 |  | Over 8 | Over 10 | Over 12 | Over 14 | Over 16 |
 | O–10 1 | ............ | ............ | ............ | ............ | ............ |
 | O–9 | ............ | ............ | ............ | ............ | ............ |
-| O–8 | $12,088.20 | $12,200.70 | $12,659.70 | $12,791.70 | $13,187.10 |
-| O–7 | 10,164.60 | 10,477.80 | 10,790.10 | 11,103.60 | 12,088.20 |
-| O–6 2 | 8,239.20 | 8,283.90 | 8,283.90 | 8,754.30 | 9,586.80 |
-| O–5 | 7,268.40 | 7,627.20 | 7,890.90 | 8,230.80 | 8,751.30 |
-| O–4 | 6,772.80 | 7,236.00 | 7,596.30 | 7,846.50 | 7,990.50 |
-| O–3 3 | 6,241.50 | 6,434.40 | 6,751.20 | 6,916.80 | 6,916.80 |
-| O–2 3 | 5,083.80 | 5,083.80 | 5,083.80 | 5,083.80 | 5,083.80 |
-| O–1 3 | 4,011.90 | 4,011.90 | 4,011.90 | 4,011.90 | 4,011.90 |
+| O–8 | $12,462.90 | $12,579.00 | $13,052.10 | $13,188.30 | $13,596.00 |
+| O–7 | 10,479.60 | 10,802.70 | 11,124.60 | 11,447.70 | 12,462.90 |
+| O–6 2 | 8494.50 | 8,540.70 | 8,540.70 | 9,025.80 | 9,884.10 |
+| O–5 | 7,493.70 | 7,863.60 | 8,135.40 | 8,486.10 | 9,022.50 |
+| O–4 | 6,982.80 | 7,460.40 | 7,831.80 | 8,089.80 | 8,238.30 |
+| O–3 3 | 6,435.00 | 6,633.90 | 6,960.60 | 7,131.30 | 7,131.30 |
+| O–2 3 | 5,241.30 | 5,241.30 | 5,241.30 | 5,241.30 | 5,241.30 |
+| O–1 3 | 4,136.40 | 4,136.40 | 4,136.40 | 4,136.40 | 4,136.40 |
 |  | Over 18 | Over 20 | Over 22 | Over 24 | Over 26 |
-| O–10 1 | ............ | 1 $15,800.10 | 1 $15,800.10 | 1 $15,800.10 | 1 $15,800.10 |
-| O–9 | ............ | 15,078.60 | 15,296.40 | 15,610.20 | 1 15,800.10 |
-| O–8 | $13,759.50 | 14,287.20 | 14,639.40 | 14,639.40 | 14,639.40 |
-| O–7 | 12,919.20 | 12,919.20 | 12,919.20 | 12,919.20 | 12,985.50 |
-| O–6 2 | 10,075.20 | 10,563.30 | 10,841.40 | 11,123.10 | 11,668.20 |
-| O–5 | 8,998.50 | 9,243.60 | 9,521.40 | 9,521.40 | 9,521.40 |
-| O–4 | 8,073.90 | 8,073.90 | 8,073.90 | 8,073.90 | 8,073.90 |
-| O–3 3 | 6,916.80 | 6,916.80 | 6,916.80 | 6,916.80 | 6,916.80 |
-| O–2 3 | 5,083.80 | 5,083.80 | 5,083.80 | 5,083.80 | 5,083.80 |
-| O–1 3 | 4,011.90 | 4,011.90 | 4,011.90 | 4,011.90 | 4,011.90 |
+| O–10 1 | ............ | 1 $16,441.80 | 1 $16,441.80 | 1 $16,441.80 | 1 $16,441.80 |
+| O–9 | ............ | 15,546.00 | 15,770.70 | 16,094.10 | 1 16,441.80 |
+| O–8 | $14,186.10 | 14,730.00 | 15,093.30 | 15,093.30 | 15,093.30 |
+| O–7 | 13,319.70 | 13,319.70 | 13,319.70 | 13,319.70 | 13,388.10 |
+| O–6 2 | 10,387.50 | 10,890.90 | 11,177.40 | 11,467.80 | 12,030.00 |
+| O–5 | 9,277.50 | 9,530.10 | 9,816.60 | 9,816.60 | 9,816.60 |
+| O–4 | 8,324.10 | 8,324.10 | 8,324.10 | 8,324.10 | 8,324.10 |
+| O–3 3 | 7,131.30 | 7,131.30 | 7,131.30 | 7,131.30 | 7,131.30 |
+| O–2 3 | 5,241.30 | 5,241.30 | 5,241.30 | 5,241.30 | 5,241.30 |
+| O–1 3 | 4,136.40 | 4,136.40 | 4,136.40 | 4,136.40 | 4,136.40 |
 |  | Over 28 | Over 30 | Over 32 | Over 34 | Over 36 |
-| O–10 1 | 1 $15,800.10 | 1 $15,800.10 | 1 $15,800.10 | 1 $15,800.10 | 1 $15,800.10 |
-| O–9 | 1 15,800.10 | 1 15,800.10 | 1 15,800.10 | 1 15,800.10 | 1 15,800.10 |
-| O–8 | 14,639.40 | 15,006.00 | 15,006.00 | 15,380.70 | 15,380.70 |
-| O–7 | 12,985.50 | 13,245.30 | 13,245.30 | 13,245.30 | 13,245.30 |
-| O–6 2 | 11,668.20 | 11,901.30 | 11,901.30 | 11,901.30 | 11,901.30 |
-| O–5 | 9,521.40 | 9,521.40 | 9,521.40 | 9,521.40 | 9,521.40 |
-| O–4 | 8,073.90 | 8,073.90 | 8,073.90 | 8,073.90 | 8,073.90 |
-| O–3 3 | 6,916.80 | 6,916.80 | 6,916.80 | 6,916.80 | 6,916.80 |
-| O–2 3 | 5,083.80 | 5,083.80 | 5,083.80 | 5,083.80 | 5,083.80 |
-| O–1 3 | 4,011.90 | 4,011.90 | 4,011.90 | 4,011.90 | 4,011.90 |
+| O–10 1 | 1 $16,441.80 | 1 $16,441.80 | 1 $16,441.80 | 1 $16,441.80 | 1 $16,441.80 |
+| O–9 | 1 16,441.80 | 1 16,441.80 | 1 16,441.80 | 1 16,441.80 | 1 16,441.80 |
+| O–8 | 15,093.90 | 15,471.30 | 15,471.30 | 15,857.40 | 15,857.40 |
+| O–7 | 13,388.10 | 13,656.00 | 13,656.00 | 13,656.00 | 13,656.00 |
+| O–6 2 | 12,030.00 | 12,270.30 | 12,270.30 | 12,270.30 | 12,270.30 |
+| O–5 | 9,816.60 | 9,816.60 | 9,816.60 | 9,816.60 | 9,816.60 |
+| O–4 | 8,324.10 | 8,324.10 | 8,324.10 | 8,324.10 | 8,324.10 |
+| O–3 3 | 7,131.30 | 7,131.30 | 7,131.30 | 7,131.30 | 7,131.30 |
+| O–2 3 | 5,241.30 | 5,241.30 | 5,241.30 | 5,241.30 | 5,241.30 |
+| O–1 3 | 4,136.40 | 4,136.40 | 4,136.40 | 4,136.40 | 4,136.40 |
 |  | Over 38 | Over 40 |  |  |  |
-| O–10 1 | 1 $15,800.10 | 1 $15,800.10 |  |  |  |
-| O–9 | 1 15,800.10 | 1 15,800.10 |  |  |  |
-| O–8 | 15,380.70 | 15,380.70 |  |  |  |
-| O–7 | 13,245.30 | 13,245.30 |  |  |  |
-| O–6 2 | 11,901.30 | 11,901.30 |  |  |  |
-| O–5 | 9,521.40 | 9,521.40 |  |  |  |
-| O–4 | 8,073.90 | 8,073.90 |  |  |  |
-| O–3 3 | 6,916.80 | 6,916.80 |  |  |  |
-| O–2 3 | 5,083.80 | 5,083.80 |  |  |  |
-| O–1 3 | 4,011.90 | 4,011.90 |  |  |  |
+| O–10 1 | 1 $16,441.80 | 1 $16,441.80 |  |  |  |
+| O–9 | 1 16,441.80 | 1 16,441.80 |  |  |  |
+| O–8 | 15,857.40 | 15,857.40 |  |  |  |
+| O–7 | 13,656.00 | 13,656.00 |  |  |  |
+| O–6 2 | 12,270.30 | 12,270.30 |  |  |  |
+| O–5 | 9,816.60 | 9,816.60 |  |  |  |
+| O–4 | 8,324.10 | 8,324.10 |  |  |  |
+| O–3 3 | 7,131.30 | 7,131.30 |  |  |  |
+| O–2 3 | 5,241.30 | 5,241.30 |  |  |  |
+| O–1 3 | 4,136.40 | 4,136.40 |  |  |  |
 
 | Commissioned Officers With Over 4 Years Active Duty Service as an Enlisted Member or Warrant Officer 4 |  |  |  |  |
 | --- | --- | --- | --- | --- |
 | Pay Grade | Over 4 | Over 6 | Over 8 | Over 10 |
 | 4 Reservists with at least 1,460 points as an enlisted member, a warrant officer, or a warrant officer and an enlisted member which are creditable toward reserve retirement also qualify for these rates. |  |  |  |  |
-| O–3E | $5,671.50 | $5,943.60 | $6,241.50 | $6,434.40 |
-| O–2E | 4,981.20 | 5,083.80 | 5,245.50 | 5,518.80 |
-| O–1E | 4,011.90 | 4,284.00 | 4,442.40 | 4,604.40 |
+| O–3E | $5,847.30 | $6,127.80 | $6,435.00 | $6,633.90 |
+| O–2E | 5,135.70 | 5,241.30 | 5,408.10 | 5,689.80 |
+| O–1E | 4,136.40 | 4,416.90 | 4,580.10 | 4,747.20 |
 |  | Over 12 | Over 14 | Over 16 | Over 18 |
-| O–3E | $6,751.20 | $7,018.80 | $7,172.70 | $7,381.80 |
-| O–2E | 5,730.00 | 5,887.20 | 5,887.20 | 5,887.20 |
-| O–1E | 4,763.40 | 4,981.20 | 4,981.20 | 4,981.20 |
+| O–3E | $6,960.60 | $7,236.30 | $7,395.00 | $7,610.70 |
+| O–2E | 5,907.60 | 6,069.60 | 6,069.60 | 6,069.60 |
+| O–1E | 4,911.00 | 5,135.70 | 5,135.70 | 5,135.70 |
 |  | Over 20 | Over 22 | Over 24 | Over 26 |
-| O–3E | $7,381.80 | $7,381.80 | $7,381.80 | $7,381.80 |
-| O–2E | 5,887.20 | 5,887.20 | 5,887.20 | 5,887.20 |
-| O–1E | 4,981.20 | 4,981.20 | 4,981.20 | 4,981.20 |
+| O–3E | $7,610.70 | $7,610.70 | $7,610.70 | $7,610.70 |
+| O–2E | 6,069.60 | 6,069.60 | 6,069.60 | 6,069.60 |
+| O–1E | 5,135.70 | 5,135.70 | 5,135.70 | 5,135.70 |
 |  | Over 28 | Over 30 | Over 32 | Over 34 |
-| O–3E | $7,381.80 | $7,381.80 | $7,381.80 | $7,381.80 |
-| O–2E | 5,887.20 | 5,887.20 | 5,887.20 | 5,887.20 |
-| O–1E | 4,981.20 | 4,981.20 | 4,981.20 | 4,981.20 |
+| O–3E | $7,610.70 | $7,610.70 | $7,610.70 | $7,610.70 |
+| O–2E | 6,069.60 | 6,069.60 | 6,069.60 | 6,069.60 |
+| O–1E | 5,135.70 | 5,135.70 | 5,135.70 | 5,135.70 |
 |  | Over 36 | Over 38 | Over 40 |  |
-| O–3E | $7,381.80 | $7,381.80 | $7,381.80 |  |
-| O–2E | 5,887.20 | 5,887.20 | 5,887.20 |  |
-| O–1E | 4,981.20 | 4,981.20 | 4,981.20 |  |
+| O–3E | $7,610.70 | $7,610.70 | $7,610.70 |  |
+| O–2E | 6,069.60 | 6,069.60 | 6,069.60 |  |
+| O–1E | 5,135.70 | 5,135.70 | 5,135.70 |  |
 
 | Warrant Officers |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
 | Pay Grade | 2 or less | Over 2 | Over 3 | Over 4 | Over 6 |
 | W–5 | ............ | ............ | ............ | ............ | ............ |
-| W–4 | $4,393.80 | $4,726.20 | $4,861.80 | $4,995.30 | $5,225.10 |
-| W–3 | 4,012.50 | 4,179.60 | 4,351.20 | 4,407.60 | 4,586.70 |
-| W–2 | 3,550.50 | 3,886.20 | 3,989.70 | 4,060.50 | 4,290.90 |
-| W–1 | 3,116.40 | 3,452.10 | 3,542.10 | 3,732.60 | 3,957.90 |
+| W–4 | $4,530.00 | $4,872.60 | $5,012.40 | $5,150.10 | $5,387.10 |
+| W–3 | 4,137.00 | 4,309.20 | 4,486.20 | 4,544.10 | 4,728.90 |
+| W–2 | 3,660.60 | 4,006.80 | 4,113.30 | 4,186.50 | 4,423.80 |
+| W–1 | 3,213.00 | 3,559.20 | 3,651.90 | 3,848.40 | 4,080.60 |
 |  | Over 8 | Over 10 | Over 12 | Over 14 | Over 16 |
 | W–5 | ............ | ............ | ............ | ............ | ............ |
-| W–4 | $5,452.80 | $5,683.20 | $6,029.10 | $6,333.00 | $6,621.90 |
-| W–3 | 4,940.40 | 5,308.50 | 5,482.20 | 5,682.90 | 5,889.00 |
-| W–2 | 4,648.80 | 4,826.10 | 5,000.40 | 5,214.00 | 5,381.10 |
-| W–1 | 4,290.30 | 4,445.10 | 4,662.00 | 4,875.30 | 5,043.30 |
+| W–4 | $5,621.70 | $5,859.30 | $6,216.00 | $6,529.20 | $6,827.10 |
+| W–3 | 5,093.70 | 5,473.20 | 5,652.00 | 5,859.00 | 6,071.70 |
+| W–2 | 4,792.80 | 4,975.80 | 5,155.50 | 5,375.70 | 5,547.90 |
+| W–1 | 4,423.20 | 4,582.80 | 4,806.60 | 5,026.50 | 5,199.60 |
 |  | Over 18 | Over 20 | Over 22 | Over 24 | Over 26 |
-| W–5 | ............ | $7,812.60 | $8,208.60 | $8,503.80 | $8,830.50 |
-| W–4 | $6,858.60 | 7,089.30 | 7,428.00 | 7,706.40 | 8,024.10 |
-| W–3 | 6,261.00 | 6,511.80 | 6,661.80 | 6,821.10 | 7,038.60 |
-| W–2 | 5,532.00 | 5,713.20 | 5,832.00 | 5,926.20 | 5,926.20 |
-| W–1 | 5,197.50 | 5,385.30 | 5,385.30 | 5,385.30 | 5,385.30 |
+| W–5 | ............ | $8,054.70 | $8,463.00 | $8,767.50 | $9,104.10 |
+| W–4 | $7,071.30 | 7,309.20 | 7,658.40 | 7,945.20 | 8,272.80 |
+| W–3 | 6,455.10 | 6,713.70 | 6,868.20 | 7,032.60 | 7,256.70 |
+| W–2 | 5,703.60 | 5,890.20 | 6,012.90 | 6,109.80 | 6,109.80 |
+| W–1 | 5,358.60 | 5,552.10 | 5,552.10 | 5,552.10 | 5,552.10 |
 |  | Over 28 | Over 30 | Over 32 | Over 34 | Over 36 |
-| W–5 | $8,830.50 | $9,272.70 | $9,272.70 | $9,735.60 | $9,735.60 |
-| W–4 | 8,024.10 | 8,184.00 | 8,184.00 | 8,184.00 | 8,184.00 |
-| W–3 | 7,038.60 | 7,038.60 | 7,038.60 | 7,038.60 | 7,038.60 |
-| W–2 | 5,926.20 | 5,926.20 | 5,926.20 | 5,926.20 | 5,926.20 |
-| W–1 | 5,385.30 | 5,385.30 | 5,385.30 | 5,385.30 | 5,385.30 |
+| W–5 | $9,104.10 | $9,560.10 | $9,560.10 | $10,037.40 | $10,037.40 |
+| W–4 | 8,272.80 | 8,437.80 | 8,437.80 | 8,437.80 | 8,437.80 |
+| W–3 | 7,256.70 | 7,256.70 | 7,256.70 | 7,256.70 | 7,256.70 |
+| W–2 | 6,109.80 | 6,109.80 | 6,109.80 | 6,109.80 | 6,109.80 |
+| W–1 | 5,552.10 | 5,552.10 | 5,552.10 | 5,552.10 | 5,552.10 |
 |  | Over 38 | Over 40 |  |  |  |
-| W–5 | $10,223.40 | $10,223.40 |  |  |  |
-| W–4 | 8,184.00 | 8,184.00 |  |  |  |
-| W–3 | 7,038.60 | 7,038.60 |  |  |  |
-| W–2 | 5,926.20 | 5,926.20 |  |  |  |
-| W–1 | 5,385.30 | 5,385.30 |  |  |  |
+| W–5 | $10,540.20 | $10,540.20 |  |  |  |
+| W–4 | 8,437.80 | 8,437.80 |  |  |  |
+| W–3 | 7,256.70 | 7,256.70 |  |  |  |
+| W–2 | 6,109.80 | 6,109.80 |  |  |  |
+| W–1 | 5,552.10 | 5,552.10 |  |  |  |
 
 | Enlisted Members |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
 | Pay Grade | 2 or less | Over 2 | Over 3 | Over 4 | Over 6 |
-| 1 For noncommissioned officers serving as Sergeant Major of the Army, Master Chief Petty Officer of the Navy or Coast Guard, Chief Master Sergeant of the Air Force, Sergeant Major of the Marine Corps, Senior Enlisted Advisor to the Chairman of the Joint Chiefs of Staff, or Senior Enlisted Advisor to the Chief of the National Guard Bureau, basic pay for this grade is $8,578.50 per month, regardless of cumulative years of service under [37 U.S.C. 205](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section205&num=0&edition=prelim). |  |  |  |  |  |
+| 1 For noncommissioned officers serving as Sergeant Major of the Army, Master Chief Petty Officer of the Navy or Coast Guard, Chief Master Sergeant of the Air Force, Sergeant Major of the Marine Corps, Senior Enlisted Advisor to the Chairman of the Joint Chiefs of Staff, or Senior Enlisted Advisor to the Chief of the National Guard Bureau, basic pay for this grade is $8,844.30 per month, regardless of cumulative years of service under [37 U.S.C. 205](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section205&num=0&edition=prelim). |  |  |  |  |  |
 | 2 Applies to personnel who have served 4 months or more on active duty. |  |  |  |  |  |
 | 3 Applies to personnel who have served less than 4 months on active duty. |  |  |  |  |  |
 | E–9 1 | ............ | ............ | ............ | ............ | ............ |
 | E–8 | ............ | ............ | ............ | ............ | ............ |
-| E–7 | $3,020.70 | $3,296.70 | $3,423.30 | $3,590.10 | $3,720.90 |
-| E–6 | 2,612.70 | 2,875.20 | 3,002.10 | 3,125.40 | 3,254.10 |
-| E–5 | 2,393.40 | 2,554.80 | 2,678.10 | 2,804.40 | 3,001.50 |
-| E–4 | 2,194.50 | 2,307.00 | 2,431.80 | 2,555.40 | 2,664.00 |
-| E–3 | 1,981.20 | 2,105.70 | 2,233.50 | 2,233.50 | 2,233.50 |
-| E–2 | 1,884.00 | 1,884.00 | 1,884.00 | 1,884.00 | 1,884.00 |
-| E–1 2 | 1,680.90 | 1,680.90 | 1,680.90 | 1,680.90 | 1,680.90 |
-| E–1 3 | 1,554.00 | ............ | ............ | ............ | ............ |
+| E–7 | $3,114.30 | $3,399.00 | $3,529.50 | $3,701.40 | $3,836.10 |
+| E–6 | 2,693.70 | 2,964.30 | 3,095.10 | 3,222.30 | 3,354.90 |
+| E–5 | 2,467.50 | 2,634.00 | 2,761.50 | 2,891.40 | 3,094.50 |
+| E–4 | 2,262.60 | 2,378.40 | 2,507.10 | 2,634.60 | 2,746.50 |
+| E–3 | 2,042.70 | 2,171.10 | 2,302.80 | 2,302.80 | 2,302.80 |
+| E–2 | 1,942.50 | 1,942.50 | 1,942.50 | 1,942.50 | 1,942.50 |
+| E–1 2 | 1,733.10 | 1,733.10 | 1,733.10 | 1,733.10 | 1,733.10 |
+| E–1 3 | 1,602.30 | ............ | ............ | ............ | ............ |
 |  | Over 8 | Over 10 | Over 12 | Over 14 | Over 16 |
-| E–9 1 | ............ | $5,308.20 | $5,428.50 | $5,580.30 | $5,758.20 |
-| E–8 | $4,345.50 | 4,537.50 | 4,656.60 | 4,798.80 | 4,953.60 |
-| E–7 | 3,945.00 | 4,071.60 | 4,295.70 | 4,482.60 | 4,609.80 |
-| E–6 | 3,543.30 | 3,656.40 | 3,874.80 | 3,941.40 | 3,990.00 |
-| E–5 | 3,207.00 | 3,376.20 | 3,396.60 | 3,396.60 | 3,396.60 |
-| E–4 | 2,664.00 | 2,664.00 | 2,664.00 | 2,664.00 | 2,664.00 |
-| E–3 | 2,233.50 | 2,233.50 | 2,233.50 | 2,233.50 | 2,233.50 |
-| E–2 | 1,884.00 | 1,884.00 | 1,884.00 | 1,884.00 | 1,884.00 |
-| E–1 2 | 1,680.90 | 1,680.90 | 1,680.90 | 1,680.90 | 1,680.90 |
+| E–9 1 | ............ | $5,472.90 | $5,596.80 | $5,753.40 | $5,936.70 |
+| E–8 | $4,480.20 | 4,678.20 | 4,800.90 | 4,947.60 | 5,107.20 |
+| E–7 | 4,067.40 | 4,197.90 | 4,428.90 | 4,624.50 | 4,752.60 |
+| E–6 | 3,653.10 | 3,769.80 | 3,994.80 | 4,063.50 | 4,113.60 |
+| E–5 | 3,306.30 | 3,480.90 | 3,501.90 | 3,501.90 | 3,501.90 |
+| E–4 | 2,746.50 | 2,746.50 | 2,746.50 | 2,746.50 | 2,746.50 |
+| E–3 | 2,302.80 | 2,302.80 | 2,302.80 | 2,302.80 | 2,302.80 |
+| E–2 | 1,942.50 | 1,942.50 | 1,942.50 | 1,942.50 | 1,942.50 |
+| E–1 2 | 1,733.10 | 1,733.10 | 1,733.10 | 1,733.10 | 1,733.10 |
 | E–1 3 | ............ | ............ | ............ | ............ | ............ |
 |  | Over 18 | Over 20 | Over 22 | Over 24 | Over 26 |
-| E–9 1 | $5,938.80 | $6,226.50 | $6,470.70 | $6,726.60 | $7,119.30 |
-| E–8 | 5,232.30 | 5,373.60 | 5,613.90 | 5,747.40 | 6,075.60 |
-| E–7 | 4,745.40 | 4,797.60 | 4,974.30 | 5,068.80 | 5,429.10 |
-| E–6 | 4,046.70 | 4,046.70 | 4,046.70 | 4,046.70 | 4,046.70 |
-| E–5 | 3,396.60 | 3,396.60 | 3,396.60 | 3,396.60 | 3,396.60 |
-| E–4 | 2,664.00 | 2,664.00 | 2,664.00 | 2,664.00 | 2,664.00 |
-| E–3 | 2,233.50 | 2,233.50 | 2,233.50 | 2,233.50 | 2,233.50 |
-| E–2 | 1,884.00 | 1,884.00 | 1,884.00 | 1,884.00 | 1,884.00 |
-| E–1 2 | 1,680.90 | 1,680.90 | 1,680.90 | 1,680.90 | 1,680.90 |
+| E–9 1 | $6,123.00 | $6,419.40 | $6,671.40 | $6,935.10 | $7,340.10 |
+| E–8 | 5,394.60 | 5,540.10 | 5,787.90 | 5,925.60 | 6,264.00 |
+| E–7 | 4,892.40 | 4,946.40 | 5,128.50 | 5,226.00 | 5,597.40 |
+| E–6 | 4,172.10 | 4,172.10 | 4,172.10 | 4,172.10 | 4,172.10 |
+| E–5 | 3,501.90 | 3,501.90 | 3,501.90 | 3,501.90 | 3,501.90 |
+| E–4 | 2,746.50 | 2,746.50 | 2,746.50 | 2,746.50 | 2,746.50 |
+| E–3 | 2,302.80 | 2,302.80 | 2,302.80 | 2,302.80 | 2,302.80 |
+| E–2 | 1,942.50 | 1,942.50 | 1,942.50 | 1,942.50 | 1,942.50 |
+| E–1 2 | 1,733.10 | 1,733.10 | 1,733.10 | 1,733.10 | 1,733.10 |
 | E–1 3 | ............ | ............ | ............ | ............ | ............ |
 |  | Over 28 | Over 30 | Over 32 | Over 34 | Over 36 |
-| E–9 1 | $7,119.30 | $7,474.80 | $7,474.80 | $7,848.90 | $7,848.90 |
-| E–8 | 6,075.60 | 6,197.70 | 6,197.70 | 6,197.70 | 6,197.70 |
-| E–7 | 5,429.10 | 5,429.10 | 5,429.10 | 5,429.10 | 5,429.10 |
-| E–6 | 4,046.70 | 4,046.70 | 4,046.70 | 4,046.70 | 4,046.70 |
-| E–5 | 3,396.60 | 3,396.60 | 3,396.60 | 3,396.60 | 3,396.60 |
-| E–4 | 2,664.00 | 2,664.00 | 2,664.00 | 2,664.00 | 2,664.00 |
-| E–3 | 2,233.50 | 2,233.50 | 2,233.50 | 2,233.50 | 2,233.50 |
-| E–2 | 1,884.00 | 1,884.00 | 1,884.00 | 1,884.00 | 1,884.00 |
-| E–1 2 | 1,680.90 | 1,680.90 | 1,680.90 | 1,680.90 | 1,680.90 |
+| E–9 1 | $7,340.10 | $7,706.40 | $7,706.40 | $8,092.20 | $8,092.20 |
+| E–8 | 6,264.00 | 6,389.70 | 6,389.70 | 6,389.70 | 6,389.70 |
+| E–7 | 5,597.40 | 5,597.40 | 5,597.40 | 5,597.40 | 5,597.40 |
+| E–6 | 4,172.10 | 4,172.10 | 4,172.10 | 4,172.10 | 4,172.10 |
+| E–5 | 3,501.90 | 3,501.90 | 3,501.90 | 3,501.90 | 3,501.90 |
+| E–4 | 2,746.50 | 2,746.50 | 2,746.50 | 2,746.50 | 2,746.50 |
+| E–3 | 2,302.80 | 2,302.80 | 2,302.80 | 2,302.80 | 2,302.80 |
+| E–2 | 1,942.50 | 1,942.50 | 1,942.50 | 1,942.50 | 1,942.50 |
+| E–1 2 | 1,733.10 | 1,733.10 | 1,733.10 | 1,733.10 | 1,733.10 |
 | E–1 3 | ............ | ............ | ............ | ............ | ............ |
 |  | Over 38 | Over 40 |  |  |  |
-| E–9 1 | $8,241.90 | $8,241.90 |  |  |  |
-| E–8 | 6,197.70 | 6,197.70 |  |  |  |
-| E–7 | 5,429.10 | 5,429.10 |  |  |  |
-| E–6 | 4,046.70 | 4,046.70 |  |  |  |
-| E–5 | 3,396.60 | 3,396.60 |  |  |  |
-| E–4 | 2,664.00 | 2,664.00 |  |  |  |
-| E–3 | 2,233.50 | 2,233.50 |  |  |  |
-| E–2 | 1,884.00 | 1,884.00 |  |  |  |
-| E–1 2 | 1,680.90 | 1,680.90 |  |  |  |
+| E–9 1 | $8,497.50 | $8,497.50 |  |  |  |
+| E–8 | 6,389.70 | 6,389.70 |  |  |  |
+| E–7 | 5,597.40 | 5,597.40 |  |  |  |
+| E–6 | 4,172.10 | 4,172.10 |  |  |  |
+| E–5 | 3,501.90 | 3,501.90 |  |  |  |
+| E–4 | 2,746.50 | 2,746.50 |  |  |  |
+| E–3 | 2,302.80 | 2,302.80 |  |  |  |
+| E–2 | 1,942.50 | 1,942.50 |  |  |  |
+| E–1 2 | 1,733.10 | 1,733.10 |  |  |  |
 | E–1 3 | ............ | ............ |  |  |  |
 
 part ii—rate of monthly cadet or midshipman pay
 
-The rate of monthly cadet or midshipman pay authorized by [37 U.S.C. 203(c)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section203/c&num=0&edition=prelim) is $1,116.00.
+The rate of monthly cadet or midshipman pay authorized by [37 U.S.C. 203(c)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section203/c&num=0&edition=prelim) is $1,150.50.
 
 Note: As a result of the enactment of sections 602–604 of Public Law 105–85, the National Defense Authorization Act for Fiscal Year 1998 [see Tables for classification], the Secretary of Defense now has the authority to adjust the rates of basic allowances for subsistence and housing. Therefore, these allowances are no longer adjusted by the President in conjunction with the adjustment of basic pay for members of the uniformed services. Accordingly, the tables of allowances included in previous orders are not included here.
 
 | Schedule 9 |  |
 | --- | --- |
 | Locality-Based Comparability Payments |  |
-| (Effective on the first day of the first applicable pay period beginning on or after January 1, 2019) |  |
+| (Effective on the first day of the first applicable pay period beginning on or after January 1, 2020) |  |
 | Locality Pay Area 1 | Rate |
 | 1 Locality Pay Areas are defined in 5 CFR 531.603. |  |
-| Alaska | 28.89% |
-| Albany-Schenectady, NY–MA | 17.19% |
-| Albuquerque-Santa Fe-Las Vegas, NM | 16.20% |
-| Atlanta-Athens-Clarke County-Sandy Springs, GA–AL | 21.64% |
-| Austin-Round Rock, TX | 17.46% |
-| Birmingham-Hoover-Talladega, AL | 15.77% |
-| Boston-Worcester-Providence, MA–RI–NH–ME | 28.27% |
-| Buffalo-Cheektowaga, NY | 19.67% |
-| Burlington-South Burlington, VA | 16.18% |
-| Charlotte-Concord, NC–SC | 16.79% |
-| Chicago-Naperville, IL–IN–WI | 28.05% |
-| Cincinnati-Wilmington-Maysville, OH–KY–IN | 20.21% |
-| Cleveland-Akron-Canton, OH | 20.45% |
-| Colorado Springs, CO | 17.19% |
-| Columbus-Marion-Zanesville, OH | 19.47% |
-| Corpus Christi-Kingsville-Alice, TX | 16.01% |
-| Dallas-Fort Worth, TX–OK | 24.21% |
-| Davenport-Moline, IA–IL | 16.49% |
-| Dayton-Springfield-Sidney, OH | 18.61% |
-| Denver-Aurora, CO | 26.30% |
-| Detroit-Warren-Ann Arbor, MI | 26.81% |
-| Harrisburg-Lebanon, PA | 16.65% |
-| Hartford-West Hartford, CT–MA | 28.87% |
-| Hawaii | 18.98% |
-| Houston-The Woodlands, TX | 32.54% |
-| Huntsville-Decatur-Albertville, AL | 19.18% |
-| Indianapolis-Carmel-Muncie, IN | 16.57% |
-| Kansas City-Overland Park-Kansas City, MO–KS | 16.60% |
-| Laredo, TX | 18.22% |
-| Las Vegas-Henderson, NV–AZ | 17.04% |
-| Los Angeles-Long Beach, CA | 31.47% |
-| Miami-Fort Lauderdale-Port St. Lucie, FL | 23.12% |
-| Milwaukee-Racine-Waukesha, WI | 20.58% |
-| Minneapolis-St. Paul, MN–WI | 24.00% |
-| New York-Newark, NY–NJ–CT–PA | 33.06% |
-| Omaha-Council Bluffs-Fremont, NE–IA | 15.87% |
-| Palm Bay-Melbourne-Titusville, FL | 16.33% |
-| Philadelphia-Reading-Camden, PA–NJ–DE–MD | 25.30% |
-| Phoenix-Mesa-Scottsdale, AZ | 19.60% |
-| Pittsburgh-New Castle-Weirton, PA–OH–WV | 18.86% |
-| Portland-Vancouver-Salem, OR–WA | 23.13% |
-| Raleigh-Durham-Chapel Hill, NC | 19.99% |
-| Richmond, VA | 19.38% |
-| Sacramento-Roseville, CA–NV | 25.59% |
-| San Antonio-New Braunfels-Pearsall, TX | 16.07% |
-| San Diego-Carlsbad, CA | 28.80% |
-| San Jose-San Francisco-Oakland, CA | 40.35% |
-| Seattle-Tacoma, WA | 26.04% |
-| St. Louis-St. Charles-Farmington, MO–IL | 17.05% |
-| Tucson-Nogales, AZ | 16.68% |
-| Virginia Beach-Norfolk, VA–NC | 15.91% |
-| Washington-Baltimore-Arlington, DC–MD–VA–WV–PA | 29.32% |
-| Rest of U.S. | 15.67% |
+| Alaska | 29.67% |
+| Albany-Schenectady, NY–MA | 17.88% |
+| Albuquerque-Santa Fe-Las Vegas, NM | 16.68% |
+| Atlanta-Athens-Clarke County-Sandy Springs, GA–AL | 22.16% |
+| Austin-Round Rock, TX | 18.17% |
+| Birmingham-Hoover-Talladega, AL | 16.26% |
+| Boston-Worcester-Providence, MA–RI–NH–ME | 29.11% |
+| Buffalo-Cheektowaga, NY | 20.20% |
+| Burlington-South Burlington, VT | 16.89% |
+| Charlotte-Concord, NC–SC | 17.44% |
+| Chicago-Naperville, IL–IN–WI | 28.59% |
+| Cincinnati-Wilmington-Maysville, OH–KY–IN | 20.55% |
+| Cleveland-Akron-Canton, OH | 20.82% |
+| Colorado Springs, CO | 17.78% |
+| Columbus-Marion-Zanesville, OH | 20.02% |
+| Corpus Christi-Kingsville-Alice, TX | 16.56% |
+| Dallas-Fort Worth, TX–OK | 24.98% |
+| Davenport-Moline, IA–IL | 17.04% |
+| Dayton-Springfield-Sidney, OH | 19.18% |
+| Denver-Aurora, CO | 27.13% |
+| Detroit-Warren-Ann Arbor, MI | 27.32% |
+| Harrisburg-Lebanon, PA | 17.20% |
+| Hartford-West Hartford, CT–MA | 29.49% |
+| Hawaii | 19.56% |
+| Houston-The Woodlands, TX | 33.32% |
+| Huntsville-Decatur-Albertville, AL | 19.85% |
+| Indianapolis-Carmel-Muncie, IN | 16.92% |
+| Kansas City-Overland Park-Kansas City, MO–KS | 17.13% |
+| Laredo, TX | 18.88% |
+| Las Vegas-Henderson, NV–AZ | 17.68% |
+| Los Angeles-Long Beach, CA | 32.41% |
+| Miami-Fort Lauderdale-Port St. Lucie, FL | 23.51% |
+| Milwaukee-Racine-Waukesha, WI | 20.96% |
+| Minneapolis-St. Paul, MN–WI | 24.66% |
+| New York-Newark, NY–NJ–CT–PA | 33.98% |
+| Omaha-Council Bluffs-Fremont, NE–IA | 16.33% |
+| Palm Bay-Melbourne-Titusville, FL | 16.73% |
+| Philadelphia-Reading-Camden, PA–NJ–DE–MD | 26.04% |
+| Phoenix-Mesa-Scottsdale, AZ | 20.12% |
+| Pittsburgh-New Castle-Weirton, PA–OH–WV | 19.40% |
+| Portland-Vancouver-Salem, OR–WA | 23.74% |
+| Raleigh-Durham-Chapel Hill, NC | 20.49% |
+| Richmond, VA | 19.95% |
+| Sacramento-Roseville, CA–NV | 26.37% |
+| San Antonio-New Braunfels-Pearsall, TX | 16.77% |
+| San Diego-Carlsbad, CA | 29.77% |
+| San Jose-San Francisco-Oakland, CA | 41.44% |
+| Seattle-Tacoma, WA | 27.02% |
+| St. Louis-St. Charles-Farmington, MO–IL | 17.65% |
+| Tucson-Nogales, AZ | 17.19% |
+| Virginia Beach-Norfolk, VA–NC | 16.51% |
+| Washington-Baltimore-Arlington, DC–MD–VA–WV–PA | 30.48% |
+| Rest of U.S. | 15.95% |
 
 | Schedule 10 |  |
 | --- | --- |
 | Administrative Law Judges |  |
-| (Effective on the first day of the first applicable pay period beginning on or after January 1, 2019) |  |
-| AL–3/A | $111,100 |
-| AL–3/B | 119,600 |
-| AL–3/C | 128,200 |
-| AL–3/D | 136,800 |
-| AL–3/E | 145,500 |
-| AL–3/F | 153,800 |
-| AL–2 | 162,300 |
-| AL–1 | 166,500 |
+| (Effective on the first day of the first applicable pay period beginning on or after January 1, 2020) |  |
+| AL–3/A | $114,000 |
+| AL–3/B | 122,700 |
+| AL–3/C | 131,500 |
+| AL–3/D | 140,400 |
+| AL–3/E | 149,300 |
+| AL–3/F | 157,800 |
+| AL–2 | 166,500 |
+| AL–1 | 170,800 |
 
 #### Prior adjustments of certain rates of pay were contained in the following:
+Ex. Ord. No. 13866, Mar. 28, 2019, 84 F.R. 12853, effective Jan. 1, 2019, superseded by Ex. Ord. No. 13901.
+
 Ex. Ord. No. 13856, Dec. 28, 2018, 84 F.R. 65, effective Jan. 1, 2019, superseded by Ex. Ord. No. 13866.
 
 Ex. Ord. No. 13819, Dec. 22, 2017, 82 F.R. 61431, effective Jan. 1, 2018, superseded by Ex. Ord. No. 13856.
@@ -4647,9 +4685,13 @@ Section other than subsec. (e)(1)(D), (E), (2)(C) of this section effective on f
 For termination of Trust Territory of the Pacific Islands, see note set out preceding [section 1681 of Title 48](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title48-section1681&num=0&edition=prelim), Territories and Insular Possessions.
 
 #### Limitation on Pay Adjustments for Prevailing Rate Employees and Crews of Vessels
-Pub. L. 116–6, div. D, title VII, § 737, Feb. 15, 2019, 133 Stat. 195, provided that: “(a)(1) Notwithstanding any other provision of law, and except as otherwise provided in this section, no part of any of the funds appropriated for fiscal year 2019, by this or any other Act, may be used to pay any prevailing rate employee described in [section 5342(a)(2)(A) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5342/a/2/A&num=0&edition=prelim), United States Code—“(A) during the period from the date of expiration of the limitation imposed by the comparable section for the previous fiscal years until the normal effective date of the applicable wage survey adjustment that is to take effect in fiscal year 2019, in an amount that exceeds the rate payable for the applicable grade and step of the applicable wage schedule in accordance with such section; and “(B) during the period consisting of the remainder of fiscal year 2019, in an amount that exceeds, as a result of a wage survey adjustment, the rate payable under subparagraph (A) by more than the sum of—“(i) the percentage adjustment taking effect in fiscal year 2019 under [section 5303 of title 5](./chapter-053-pay-rates-and-systems.md#section-5303), United States Code, in the rates of pay under the General Schedule; and “(ii) the difference between the overall average percentage of the locality-based comparability payments taking effect in fiscal year 2019 under section 5304 of such title (whether by adjustment or otherwise), and the overall average percentage of such payments which was effective in the previous fiscal year under such section. “(2) Notwithstanding any other provision of law, no prevailing rate employee described in subparagraph (B) or (C) of [section 5342(a)(2) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5342/a/2&num=0&edition=prelim), United States Code, and no employee covered by section 5348 of such title, may be paid during the periods for which paragraph (1) is in effect at a rate that exceeds the rates that would be payable under paragraph (1) were paragraph (1) applicable to such employee. “(3) For the purposes of this subsection, the rates payable to an employee who is covered by this subsection and who is paid from a schedule not in existence on September 30, 2018, shall be determined under regulations prescribed by the Office of Personnel Management. “(4) Notwithstanding any other provision of law, rates of premium pay for employees subject to this subsection may not be changed from the rates in effect on September 30, 2018, except to the extent determined by the Office of Personnel Management to be consistent with the purpose of this subsection. “(5) This subsection shall apply with respect to pay for service performed after September 30, 2018. “(6) For the purpose of administering any provision of law (including any rule or regulation that provides premium pay, retirement, life insurance, or any other employee benefit) that requires any deduction or contribution, or that imposes any requirement or limitation on the basis of a rate of salary or basic pay, the rate of salary or basic pay payable after the application of this subsection shall be treated as the rate of salary or basic pay. “(7) Nothing in this subsection shall be considered to permit or require the payment to any employee covered by this subsection at a rate in excess of the rate that would be payable were this subsection not in effect. “(8) The Office of Personnel Management may provide for exceptions to the limitations imposed by this subsection if the Office determines that such exceptions are necessary to ensure the recruitment or retention of qualified employees. “(b) Notwithstanding subsection (a), the adjustment in rates of basic pay for the statutory pay systems that take place in fiscal year 2019 under sections 5344 and 5348 of title 5, United States Code, shall be—“(1) not less than the percentage received by employees in the same location whose rates of basic pay are adjusted pursuant to the statutory pay systems under sections 5303 and 5304 of title 5, United States Code: Provided, That prevailing rate employees at locations where there are no employees whose pay is increased pursuant to sections 5303 and 5304 of title 5, United States Code, and prevailing rate employees described in [section 5343(a)(5) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5343/a/5&num=0&edition=prelim), United States Code, shall be considered to be located in the pay locality designated as ‘Rest of United States’ pursuant to [section 5304 of title 5](./chapter-053-pay-rates-and-systems.md#section-5304), United States Code, for purposes of this subsection; and “(2) effective as of the first day of the first applicable pay period beginning after September 30, 2018.”
+Pub. L. 116–260, div. E, title VII, § 737, Dec. 27, 2020, 134 Stat. 1438, provided that: “(a)(1) Notwithstanding any other provision of law, and except as otherwise provided in this section, no part of any of the funds appropriated for fiscal year 2021, by this or any other Act, may be used to pay any prevailing rate employee described in [section 5342(a)(2)(A) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5342/a/2/A&num=0&edition=prelim), United States Code—“(A) during the period from the date of expiration of the limitation imposed by the comparable section for the previous fiscal years until the normal effective date of the applicable wage survey adjustment that is to take effect in fiscal year 2021, in an amount that exceeds the rate payable for the applicable grade and step of the applicable wage schedule in accordance with such section; and “(B) during the period consisting of the remainder of fiscal year 2021, in an amount that exceeds, as a result of a wage survey adjustment, the rate payable under subparagraph (A) by more than the sum of—“(i) the percentage adjustment taking effect in fiscal year 2021 under [section 5303 of title 5](./chapter-053-pay-rates-and-systems.md#section-5303), United States Code, in the rates of pay under the General Schedule; and “(ii) the difference between the overall average percentage of the locality-based comparability payments taking effect in fiscal year 2021 under section 5304 of such title (whether by adjustment or otherwise), and the overall average percentage of such payments which was effective in the previous fiscal year under such section. “(2) Notwithstanding any other provision of law, no prevailing rate employee described in subparagraph (B) or (C) of [section 5342(a)(2) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5342/a/2&num=0&edition=prelim), United States Code, and no employee covered by section 5348 of such title, may be paid during the periods for which paragraph (1) is in effect at a rate that exceeds the rates that would be payable under paragraph (1) were paragraph (1) applicable to such employee. “(3) For the purposes of this subsection, the rates payable to an employee who is covered by this subsection and who is paid from a schedule not in existence on September 30, 2020, shall be determined under regulations prescribed by the Office of Personnel Management. “(4) Notwithstanding any other provision of law, rates of premium pay for employees subject to this subsection may not be changed from the rates in effect on September 30, 2020, except to the extent determined by the Office of Personnel Management to be consistent with the purpose of this subsection. “(5) This subsection shall apply with respect to pay for service performed after September 30, 2020. “(6) For the purpose of administering any provision of law (including any rule or regulation that provides premium pay, retirement, life insurance, or any other employee benefit) that requires any deduction or contribution, or that imposes any requirement or limitation on the basis of a rate of salary or basic pay, the rate of salary or basic pay payable after the application of this subsection shall be treated as the rate of salary or basic pay. “(7) Nothing in this subsection shall be considered to permit or require the payment to any employee covered by this subsection at a rate in excess of the rate that would be payable were this subsection not in effect. “(8) The Office of Personnel Management may provide for exceptions to the limitations imposed by this subsection if the Office determines that such exceptions are necessary to ensure the recruitment or retention of qualified employees. “(b) Notwithstanding subsection (a), the adjustment in rates of basic pay for the statutory pay systems that take place in fiscal year 2021 under sections 5344 and 5348 of title 5, United States Code, shall be—“(1) not less than the percentage received by employees in the same location whose rates of basic pay are adjusted pursuant to the statutory pay systems under sections 5303 and 5304 of title 5, United States Code: Provided, That prevailing rate employees at locations where there are no employees whose pay is increased pursuant to sections 5303 and 5304 of title 5, United States Code, and prevailing rate employees described in [section 5343(a)(5) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5343/a/5&num=0&edition=prelim), United States Code, shall be considered to be located in the pay locality designated as ‘Rest of United States’ pursuant to [section 5304 of title 5](./chapter-053-pay-rates-and-systems.md#section-5304), United States Code, for purposes of this subsection; and “(2) effective as of the first day of the first applicable pay period beginning after September 30, 2020.”
 
 Similar provisions were contained in the following prior acts:
+
+Pub. L. 116–93, div. C, title VII, § 737, Dec. 20, 2019, 133 Stat. 2492.
+
+Pub. L. 116–6, div. D, title VII, § 737, Feb. 15, 2019, 133 Stat. 195.
 
 Pub. L. 115–141, div. E, title VII, § 737, Mar. 23, 2018, 132 Stat. 595.
 

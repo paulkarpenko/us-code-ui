@@ -169,6 +169,10 @@ Section is from the appropriation act cited as the credit to this section.
 #### Prior Provisions
 Provisions similar to those in this section were contained in the following prior appropriations acts:
 
+Pub. L. 116–94, div. D, title I, Dec. 20, 2019, 133 Stat. 2704.
+
+Pub. L. 116–6, div. E, title I, Feb. 15, 2019, 133 Stat. 223.
+
 Pub. L. 115–141, div. G, title I, Mar. 23, 2018, 132 Stat. 651.
 
 Pub. L. 115–31, div. G, title I, May 5, 2017, 131 Stat. 452.

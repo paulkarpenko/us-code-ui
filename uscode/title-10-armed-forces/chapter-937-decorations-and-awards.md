@@ -9,7 +9,7 @@ source: >-
 <a id="section-9271"></a>
 ## § 9271. Medal of honor: award
 
-The President may award, and present in the name of Congress, a medal of honor of appropriate design, with ribbons and appurtenances, to a person who, while a member of the Air Force, distinguishes himself conspicuously by gallantry and intrepidity at the risk of his life above and beyond the call of duty—
+The President may award, and present in the name of Congress, a medal of honor of appropriate design, with ribbons and appurtenances, to a person who, while a member of the Air Force or the Space Force, distinguishes himself conspicuously by gallantry and intrepidity at the risk of his life above and beyond the call of duty—
 
 (1) while engaged in an action against an enemy of the United States;
 
@@ -27,6 +27,8 @@ The President may award, and present in the name of Congress, a medal of honor o
 The words “That the provisions of existing law relating to the award of medals of honor to officers, noncommissioned officers, and privates of the Army be, and they hereby are, amended so that”, in the Act of July 9, 1918, ch. 143 (8th par. under “Ordnance Department”), 40 Stat. 870, are not contained in 10:1403. They are also omitted from the revised section as surplusage. The word “member” is substituted for the words “officer or enlisted man”. The word “only” is omitted as surplusage. The word “award” is inserted for clarity, since the President determines the recipient of the medal in addition to presenting it.
 
 #### Amendments
+2021—Pub. L. 116–283 inserted “or the Space Force” after “the Air Force” in introductory provisions.
+
 2018—Pub. L. 115–232 renumbered [section 8741 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section8741&num=0&edition=prelim) as this section.
 
 1963—Pub. L. 88–77 enlarged the authority to award the medal of honor, which was limited to those cases in which persons distinguished themselves in action involving actual conflict with an enemy, to permit its award for distinguished service while engaged in an action against an enemy of the United States, while engaged in military operations involving conflict with an opposing foreign force, or while serving with friendly foreign forces engaged in an armed conflict against an opposing armed force in which the United States is not a belligerent party.
@@ -38,7 +40,7 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 <a id="section-9272"></a>
 ## § 9272. Air Force cross: award
 
-The President may award an Air Force cross of appropriate design, with ribbons and appurtenances, to a person who, while serving in any capacity with the Air Force, distinguishes himself by extraordinary heroism not justifying the award of a medal of honor—
+The President may award an Air Force cross of appropriate design, with ribbons and appurtenances, to a person who, while serving in any capacity with the Air Force or the Space Force, distinguishes himself by extraordinary heroism not justifying the award of a medal of honor—
 
 (1) while engaged in an action against an enemy of the United States;
 
@@ -56,6 +58,8 @@ The President may award an Air Force cross of appropriate design, with ribbons a
 The words “but not in the name of Congress” are omitted as surplusage, since a medal is presented in the name of Congress only if the law so directs. The words “since the 6th day of April, 1917” are omitted as executed. The word “award” is substituted for the word “present” to cover the determination of the recipients as well as the actual presentation of the medal, and to conform to other sections of this chapter. The words “or herself” are omitted, since, under [section 1 of title 1](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title1-section1&num=0&edition=prelim), words importing the masculine gender include the feminine. The words “or who shall hereafter distinguish” are omitted as surplusage.
 
 #### Amendments
+2021—Pub. L. 116–283 inserted “or the Space Force” after “the Air Force” in introductory provisions.
+
 2018—Pub. L. 115–232 renumbered [section 8742 of this title](./chapter-871-civilian-employees.md#section-8742) as this section.
 
 1963—Pub. L. 88–77 enlarged the authority to award the Air Force cross, which was limited to those cases in which persons distinguished themselves in connection with military operations against an armed enemy, to permit its award for extraordinary heroism not justifying the award of a medal of honor, while engaged in military operations involving conflict with an opposing foreign force, or while serving with friendly foreign forces engaged in an armed conflict against an opposing armed force in which the United States is not a belligerent party.
@@ -72,7 +76,7 @@ Pub. L. 86–593, § 3, July 6, 1960, 74 Stat. 332, provided that: “References
 <a id="section-9273"></a>
 ## § 9273. Distinguished-service medal: award
 
-The President may award a distinguished-service medal of appropriate design and a ribbon, together with a rosette or other device to be worn in place thereof, to a person who, while serving in any capacity with the Air Force, distinguishes himself by exceptionally meritorious service to the United States in a duty of great responsibility.
+The President may award a distinguished-service medal of appropriate design and a ribbon, together with a rosette or other device to be worn in place thereof, to a person who, while serving in any capacity with the Air Force or the Space Force, distinguishes himself by exceptionally meritorious service to the United States in a duty of great responsibility.
 
 ### Statutory Notes
 
@@ -84,6 +88,8 @@ The President may award a distinguished-service medal of appropriate design and 
 The words “but not in the name of Congress” are omitted as surplusage, since a medal is presented in the name of Congress only if the law so directs. The words “since the 6th day of April, 1917” are omitted as executed. The word “award” is substituted for the word “present” to cover the determination of the recipients as well as the actual presentation of the medal, and to conform to other sections of this chapter. The words “or herself” are omitted, since, under [section 1 of title 1](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title1-section1&num=0&edition=prelim), words importing the masculine gender include the feminine. The words “or who shall distinguish” are omitted as surplusage.
 
 #### Amendments
+2021—Pub. L. 116–283 inserted “or the Space Force” after “the Air Force”.
+
 2018—Pub. L. 115–232 renumbered [section 8743 of this title](./chapter-871-civilian-employees.md#section-8743) as this section.
 
 #### Effective Date of 2018 Amendment
@@ -94,7 +100,7 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 ## § 9274. Medal of honor; Air Force cross; distinguished-service medal: limitations on award
 **(a)** No more than one Air Force Cross or distinguished-service medal may be awarded to a person. However, for each succeeding act that would otherwise justify the award of such a medal or cross, the President may award a suitable bar or other device to be worn as he directs.
 
-**(b)** Except as provided in subsection (d), no medal of honor, Air Force cross, distinguished-service medal, or device in place thereof, may be awarded to a person unless—
+**(b)** Except as provided in subsection (c), no medal of honor, Air Force cross, distinguished-service medal, or device in place thereof, may be awarded to a person unless—
 
 (1) the award is made within five years after the date of the act justifying the award;
 
@@ -102,9 +108,7 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 (3) it appears from records of the Department of the Air Force that the person is entitled to the award.
 
-**(c)** No medal of honor, Air Force cross, distinguished-service medal, or device in place thereof, may be awarded or presented to a person whose service after he distinguished himself has not been honorable.
-
-**(d)** If the Secretary of the Air Force determines that—
+**(c)** If the Secretary of the Air Force determines that—
 
 (1) a statement setting forth the distinguished service and recommending official recognition of it was made and supported by sufficient evidence within three years after the distinguished service; and
 
@@ -126,6 +130,10 @@ In subsection (b), the word “thereof” is substituted for the words “of eit
 In subsection (c), 10:1409 (words after 3d semicolon) is omitted as executed. The words “hereinbefore authorized” are omitted as surplusage.
 
 #### Amendments
+2019—Subsec. (b). Pub. L. 116–92, § 582(b)(3)(A), substituted “subsection (c)” for “subsection (d)” in introductory provisions.
+
+Subsecs. (c), (d). Pub. L. 116–92, § 582(b)(3)(B), (C), redesignated subsec. (d) as (c) and struck out former subsec. (c) which read as follows: “No medal of honor, Air Force cross, distinguished-service medal, or device in place thereof, may be awarded or presented to a person whose service after he distinguished himself has not been honorable.”
+
 2018—Pub. L. 115–232 renumbered [section 8744 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section8744&num=0&edition=prelim) as this section.
 
 2013—Subsec. (a). Pub. L. 113–66, § 561(c), substituted “Air Force Cross” for “medal of honor, Air Force cross,”.
@@ -152,7 +160,7 @@ Pub. L. 86–593, § 2, July 6, 1960, 74 Stat. 332, as amended by Pub. L. 115–
 <a id="section-9275"></a>
 ## § 9275. Medal of honor; Air Force cross; distinguished-service medal: delegation of power to award
 
-The President may delegate his authority to award the medal of honor, Air Force cross, and distinguished-service medal, to a commanding general of a separate air force or higher unit in the field.
+The President may delegate his authority to award the medal of honor, Air Force cross, and distinguished-service medal, to a commanding general of a separate air force or higher unit in the field, or to an equivalent commander of a separate space force or higher unit in the field.
 
 ### Statutory Notes
 
@@ -164,6 +172,8 @@ The President may delegate his authority to award the medal of honor, Air Force 
 The words “under such conditions, regulations, and limitations as he shall prescribe” are omitted as surplusage. The words “his authority” are substituted for the words “the power conferred upon him by sections 1403, 1406–1408, 1409–1412, 1416, 1420, 1422, 1423, and 1424 of this title”.
 
 #### Amendments
+2021—Pub. L. 116–283 inserted before period at end “, or to an equivalent commander of a separate space force or higher unit in the field”.
+
 2018—Pub. L. 115–232 renumbered [section 8745 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section8745&num=0&edition=prelim) as this section.
 
 1960—Pub. L. 86–593 substituted “Air Force cross” for “distinguished-service cross” in section catchline and in text.
@@ -175,7 +185,7 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 <a id="section-9276"></a>
 ## § 9276. Silver star: award
 
-The President may award a silver star of appropriate design, with ribbons and appurtenances, to a person who, while serving in any capacity with the Air Force, is cited for gallantry in action that does not warrant a medal of honor or Air Force cross—
+The President may award a silver star of appropriate design, with ribbons and appurtenances, to a person who, while serving in any capacity with the Air Force or the Space Force, is cited for gallantry in action that does not warrant a medal of honor or Air Force cross—
 
 (1) while engaged in an action against an enemy of the United States;
 
@@ -193,6 +203,8 @@ The President may award a silver star of appropriate design, with ribbons and ap
 The words “may award” are inserted to conform to other sections of this chapter. The words “if the person earned” are inserted for clarity. The words “commanded by” are omitted as surplusage.
 
 #### Amendments
+2021—Pub. L. 116–283 inserted “or the Space Force” after “the Air Force” in introductory provisions.
+
 2018—Pub. L. 115–232 renumbered [section 8746 of this title](./chapter-871-civilian-employees.md#section-8746) as this section.
 
 1963—Pub. L. 88–77 substituted provisions permitting the issuance of a silver star for gallantry while engaged in an action against an enemy of the United States, while engaged in military operations involving conflict with an opposing foreign force, or while serving with friendly foreign forces engaged in an armed conflict against an opposing armed force in which the United States is not a belligerent party, and requiring it to be of appropriate design, for provisions which authorized the issuance of the silver star for gallantry in action and which required that the silver star be three-sixteenths of an inch in diameter, the citation thereof be published in orders issued from the headquarters of a force that is the appropriate command of a general officer, and that it be worn as directed by the President.
@@ -255,8 +267,6 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 **(b)** Not more than one distinguished flying cross may be awarded to a person. However, for each succeeding act that would otherwise justify the award of such a cross, the President may award a suitable bar or other device to be worn as he directs.
 
-**(c)** No distinguished flying cross, or device in place thereof, may be awarded or presented to a person whose service after he distinguished himself has not been honorable.
-
 ### Statutory Notes
 
 | Historical and Revision Notes |  |  |
@@ -267,6 +277,8 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 In subsection (a), the words “under such rules and regulations as he may prescribe” are omitted, since the President has inherent authority to issue regulations appropriate to exercising his functions. The words “but not in the name of Congress” are omitted as surplusage, since a medal is presented in the name of Congress only if the law so directs. The word “award” is substituted for the word “present” to cover the determination of the recipients as well as the actual presentation of the medal. The words “since the 6th day of April, 1917, has distinguished, or who, after July 2, 1926” and 10:1429 (proviso of 1st sentence) are omitted as executed.
 
 #### Amendments
+2019—Subsec. (c). Pub. L. 116–92 struck out subsec. (c) which read as follows: “No distinguished flying cross, or device in place thereof, may be awarded or presented to a person whose service after he distinguished himself has not been honorable.”
+
 2018—Pub. L. 115–232 renumbered [section 8749 of this title](./chapter-871-civilian-employees.md#section-8749) as this section.
 
 #### Effective Date of 2018 Amendment
@@ -308,11 +320,11 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 <a id="section-9281"></a>
 ## § 9281. Service medals: issue; replacement; availability of appropriations
-**(a)** The Secretary of the Air Force shall procure, and issue without charge to any person entitled thereto, any service medal authorized for members of the Air Force after September 26, 1947, and any ribbon, clasp, star, or similar device prescribed as a part of that medal.
+**(a)** The Secretary of the Air Force shall procure, and issue without charge to any person entitled thereto, any service medal authorized for members of the Air Force or the Space Force after September 26, 1947, and any ribbon, clasp, star, or similar device prescribed as a part of that medal.
 
-**(b)** Under such regulations as the Secretary may prescribe, any medal or other device issued under subsection (a) that is lost, destroyed, or becomes unfit for use without fault or neglect of the owner, may be replaced at cost. However, if the owner is a member of the Air Force, the medal or device may be replaced without charge.
+**(b)** Under such regulations as the Secretary may prescribe, any medal or other device issued under subsection (a) that is lost, destroyed, or becomes unfit for use without fault or neglect of the owner, may be replaced at cost. However, if the owner is a member of the Air Force or the Space Force, the medal or device may be replaced without charge.
 
-**(c)** The Secretary may spend, from any appropriation for the support of the Air Force, amounts necessary to provide medals and devices under this section.
+**(c)** The Secretary may spend, from any appropriation for the support of the Air Force or the Space Force, amounts necessary to provide medals and devices under this section.
 
 ### Statutory Notes
 
@@ -328,7 +340,9 @@ In subsection (b), the words “member of the Air Force” are substituted for t
 In subsection (c), the last 16 words are substituted for 10:1415c (last 16 words).
 
 #### Amendments
-2018—Pub. L. 115–232 renumbered [section 8751 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section8751&num=0&edition=prelim) as this section.
+2021—Pub. L. 116–283 inserted “or the Space Force” after “the Air Force” wherever appearing after the first appearance.
+
+2018—Pub. L. 115–232 renumbered [section 8751 of this title](./chapter-873-procurement-of-supplies-and-services.md#section-8751) as this section.
 
 #### Effective Date of 2018 Amendment
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
@@ -405,7 +419,7 @@ President to provide for the presentation of the Medal of Honor Flag to living r
 
 <a id="section-9286"></a>
 ## § 9286. Korea Defense Service Medal
-**(a)** The Secretary of the Air Force shall issue a campaign medal, to be known as the Korea Defense Service Medal, to each person who while a member of the Air Force served in the Republic of Korea or the waters adjacent thereto during the KDSM eligibility period and met the service requirements for the award of that medal prescribed under subsection (c).
+**(a)** The Secretary of the Air Force shall issue a campaign medal, to be known as the Korea Defense Service Medal, to each person who while a member of the Air Force or the Space Force served in the Republic of Korea or the waters adjacent thereto during the KDSM eligibility period and met the service requirements for the award of that medal prescribed under subsection (c).
 
 **(b)** In this section, the term “KDSM eligibility period” means the period beginning on July 28, 1954, and ending on such date after the date of the enactment of this section as may be determined by the Secretary of Defense to be appropriate for terminating eligibility for the Korea Defense Service Medal.
 
@@ -420,6 +434,8 @@ The date of the enactment of this section, referred to in subsec. (b), is the da
 Prior sections 9301 to 9306 were renumbered sections 9401 to 9406 of this title, respectively.
 
 #### Amendments
+2021—Subsec. (a). Pub. L. 116–283 inserted “or the Space Force” after “member of the Air Force”.
+
 2018—Pub. L. 115–232 renumbered [section 8756 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section8756&num=0&edition=prelim) as this section.
 
 2004—Pub. L. 108–375 renumbered [section 8755 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section8755&num=0&edition=prelim) as this section.

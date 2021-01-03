@@ -173,53 +173,7 @@ Par. (2). Pub. L. 115–282, § 123(b)(2), substituted “section 2504(b)” for
 
 2016—Pub. L. 114–120, § 215(b)(1), substituted “Retirement of enlisted members: increase in retired pay” for “Involuntary retirement of enlisted members” in section catchline.
 
-Pub. L. 114–120, § 215(a), struck out subsec. (i) designation before “An enlisted member” and struck out subsecs. (a) to (h) and (j) which read as follows:
-
-“(a) Enlisted Personnel Boards shall be convened as the Commandant may prescribe to review the records of enlisted members who have twenty or more years of active military service.
-
-“(b) Enlisted members who have twenty or more years of active military service may be considered by the Commandant for involuntary retirement and may be retired on recommendation of a Board—
-
-“(1) because the member’s performance is below the standards the Commandant prescribes; or
-
-“(2) because of professional dereliction.
-
-“(c) An enlisted member under review by the Board shall be—
-
-“(1) notified in writing of the reasons the member is being considered for involuntary retirement;
-
-“(2) allowed sixty days from the date on which counsel is provided under paragraph (3) to submit any matters in rebuttal;
-
-“(3) provided counsel, certified under [section 827(b) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section827/b&num=0&edition=prelim), to help prepare the rebuttal submitted under paragraph (2) and to represent the member before the Board under paragraph (5);
-
-“(4) allowed full access to and be furnished with copies of records relevant to the consideration for involuntary retirement prior to submission of the rebuttal submitted under paragraph (2); and
-
-“(5) allowed to appear before the Board and present witnesses or other documentation related to the review.
-
-“(d) A Board convened under this section shall consist of at least three commissioned officers, at least one of whom shall be of the grade of commander or above.
-
-“(e) A Board convened under this section shall recommend to the Commandant enlisted members who—
-
-“(1) have twenty or more years of active service;
-
-“(2) have been considered for involuntary retirement; and
-
-“(3) it determines should be involuntarily retired.
-
-“(f) After the Board makes its determination, each enlisted member the Commandant considers for involuntary retirement shall be—
-
-“(1) notified by certified mail of the reasons the member is being considered for involuntary retirement;
-
-“(2) allowed sixty days from the date counsel is provided under paragraph (3) to submit any matters in rebuttal;
-
-“(3) provided counsel, certified under [section 827(b) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section827/b&num=0&edition=prelim), to help prepare the rebuttal submitted under paragraph (2); and
-
-“(4) allowed full access to and be furnished with copies of records relevant to the consideration for involuntary retirement prior to submission of the rebuttal submitted under paragraph (2).
-
-“(g) If the Commandant approves the Board’s recommendation, the enlisted member shall be notified of the Commandant’s decision and shall be retired from the service within ninety days of the notification.
-
-“(h) An enlisted member, who has completed twenty years of service and who the Commandant has involuntarily retired under this section, shall receive retired pay.
-
-“(j) When the Secretary orders a reduction in force, enlisted personnel may be involuntarily separated from the service without the Board’s action.”
+Pub. L. 114–120, § 215(a), struck out subsec. (i) designation before “An enlisted member” and struck out subsecs. (a) to (h) and (j) which related to procedures and requirements for involuntary retirement of enlisted members.
 
 1991—Pub. L. 102–241 substituted “Involuntary retirement of enlisted members” for “Enlisted Personnel Board” in section catchline and amended text generally. Prior to amendment, text provided that the Commandant assemble annually a Coast Guard Enlisted Personnel Board to recommend enlisted members for retirement, that the recommendations be transmitted to the Commandant for approval, in which event the enlisted members concerned would be notified and given opportunity to file a written protest, which would require a subsequent annual Board determination and approval by the Commandant to effect the involuntary retirement of that member, and further provided that an enlisted member with twenty years’ service retired from active duty by the Commandant pursuant to this section was to receive retired pay, and that an enlisted member voluntarily or involuntarily retired by reason of twenty years’ service who had been cited for extraordinary heroism was entitled to an increase in retired pay.
 
@@ -239,7 +193,7 @@ Subsec. (a). Pub. L. 98–557, § 15(a)(3)(B), substituted reference to enlisted
 Pub. L. 88–114, § 2, Sept. 6, 1963, 77 Stat. 144, provided that: “The amendment made by subsection (1) of section 1 of this Act [amending this section] does not apply to any enlisted man in service on the effective date of this Act [Sept. 6, 1963].”
 
 #### Service Credit for Certain Enlisted Personnel
-Act June 3, 1948, ch. 394, 62 Stat. 302, provided: “That those enlisted men of the Coast Guard who, during 1940 and 1941, were discharged from the Coast Guard to accept employment as policemen and guards at the Ivigtut Cryolite Mine, Greenland, and who reenlisted in the Coast Guard within three months after the termination of their service as such policemen and guards, shall be credited with the time between discharge and reenlistment for purposes of longevity pay and retirement, but no increased retroactive pay shall accrue by reason of the enactment of this Act.”
+Act June 3, 1948, ch. 394, 62 Stat. 302, provided for special service credit for enlisted men of the Coast Guard who, in 1940 and 1941, were discharged to accept employment as policemen and guards at the Ivigtut Cryolite Mine, Greenland, and who reenlisted in the Coast Guard within three months after the termination of their service at the mine.
 
 
 <a id="section-2308"></a>
@@ -450,17 +404,23 @@ Under regulations prescribed by the Secretary, any enlisted member may be discha
 
 **(b)** Except in time of war or national emergency declared by Congress, not less than 20 percent of the aviation cadets procured in each fiscal year shall be procured from qualified enlisted members of the Coast Guard.
 
-**(c)** No persons may be enlisted or designated as an aviation cadet unless—
+**(c)** No individuals may be enlisted or designated as an aviation cadet unless—
 
-(1) the person agrees in writing that, upon successful completion of the course of training as an aviation cadet, the person will accept a commission as an ensign in the Coast Guard Reserve and will serve on active duty as such for at least three years, unless sooner released; and
+(1) the individual agrees in writing that, upon successful completion of the course of training as an aviation cadet, the individual will accept a commission as an ensign in the Coast Guard Reserve and will serve on active duty as such for at least three years, unless sooner released; and
 
-(2) if under twenty-one years of age, the person has the consent of the person’s parent or guardian to the agreement.
+(2) if under twenty-one years of age, the individual has the consent of the individual’s parent or guardian to the agreement.
 
 **(d)** Under such regulations as the Secretary prescribes, an aviation cadet may be transferred to another enlisted grade or rating in the Coast Guard, released from active duty, or discharged.
 
 ### Statutory Notes
 
 #### Amendments
+2021—Subsec. (c). Pub. L. 116–283, § 8505(a)(20)(A), substituted “individuals” for “persons” in introductory provisions.
+
+Subsec. (c)(1). Pub. L. 116–283, § 8505(a)(20)(B), substituted “individual” for “person” in two places.
+
+Subsec. (c)(2). Pub. L. 116–283, § 8505(a)(20)(B), (C), substituted “individual” for “person” and “individual’s” for “person’s”.
+
 2018—Pub. L. 115–282 renumbered [section 371 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section371&num=0&edition=prelim) as this section.
 
 1984—Subsec. (a). Pub. L. 98–557, § 15(a)(1)(A), struck out “male” before “citizens” and “enlisted members”.

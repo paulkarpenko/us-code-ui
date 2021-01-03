@@ -801,7 +801,7 @@ The effect of the act of April 23, 1930 ([5 U.S.C. 47a](https://uscode.house.gov
 
 **(c) Exclusion of Time Required To Be Made Up or Excluded.—**
 
-(1) Time required to be made up by an enlisted member of the Army or Air Force under [section 972(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section972/a&num=0&edition=prelim), or required to be made up by an enlisted member of the Navy, Marine Corps, or Coast Guard under that section with respect to a period of time after October 5, 1994, may not be counted in determining years of service under subsection (a).
+(1) Time required to be made up by an enlisted member of the Army, Air Force, or Space Force under [section 972(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section972/a&num=0&edition=prelim), or required to be made up by an enlisted member of the Navy, Marine Corps, or Coast Guard under that section with respect to a period of time after October 5, 1994, may not be counted in determining years of service under subsection (a).
 
 (2) [Section 972(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section972/b&num=0&edition=prelim) excludes from computation of an officer’s years of service for purposes of this section any time identified with respect to that officer under that section.
 
@@ -822,6 +822,8 @@ The change corrects a typographical error.
 This amends 10:1405 to correct an inadvertent error in the codification of title 10 in 1956 relating to retirement pay of warrant officers advanced on the retired list. Under provisions of law first enacted in 1948 through the codification of title 10 in 1956 and until 1965, warrant officers advanced on the retired list received credit for inactive service in the computation of retirement pay. The Comptroller General in 1965 (B–156576) held in effect that computation of such retirement pay was governed by the wording of new title 10 that based the computation on years of active service only even though this had the result of making a substantive change. The Armed Services Committee of the House of Representatives concurs that an error was made in the codification of title 10 and has indicated that corrective legislative action is properly a responsibility of the House Judiciary Committee. See, also, the amendments to 10:3992 and 8992 made by sections 1(40) and 1(52), respectively.
 
 #### Amendments
+2021—Subsec. (c). Pub. L. 116–283 substituted “, Air Force, or Space Force” for “or Air Force”.
+
 2001—Subsec. (c)(1). Pub. L. 107–107 substituted “October 5, 1994,” for “the date of the enactment of the National Defense Authorization Act for Fiscal Year 1995,”.
 
 1996—Subsec. (c). Pub. L. 104–106, as amended by Pub. L. 104–201, substituted “Made Up or Excluded” for “Made Up” in heading, designated existing provisions as par. (1), substituted “[section 972(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section972/a&num=0&edition=prelim), or required to be made up by an enlisted member of the Navy, Marine Corps, or Coast Guard under that section with respect to a period of time after the date of the enactment of the National Defense Authorization Act for Fiscal Year 1995,” for “[section 972 of this title](./chapter-049-miscellaneous-prohibitions-and-penalties.md#section-972)”, and added par. (2).
@@ -880,7 +882,7 @@ For provisions to prevent extinction or premature termination of rights, duties,
 
 (1) **Disability, warrant officer, and dopma retirement.—** — In the case of a person whose retired pay is computed under this subtitle, the retired pay base is determined in accordance with the following table. For a member entitled toretired pay under section:The retired pay base is: 1 Compute at rates applicable on date of retirement or date when member’s name was placed on temporary disability retired list, as the case may be. 2 Compute at rates applicable on date of retirement. 3 For the purposes of this subsection, determine member’s retired grade as if sections 7342 and 9342 did not apply. 1201120212041205Monthly basic pay 1 of grade to which member is entitled under section 1372 or to which he was entitled on day before retirement or placement on temporary disability retired list, whichever is higher. 580126312931305Monthly basic pay to which member would have been entitled if he had served on active duty in his retired grade on day before retirement, or if the pay of that grade is less than the pay of any warrant grade satisfactorily held by him on active duty, the monthly basic pay of that warrant officer grade. 633 634 635 636125112521253Monthly basic pay 2 of member’s retired grade.3
 
-(2) **Non-regular service retirement.—** — In the case of a person who is entitled to retired pay under [section 12731 of this title](./chapter-1223-retired-pay-for-non-regular-service.md#section-12731), the retired pay base is the monthly basic pay, determined at the rates applicable on the date when retired pay is granted (or, in the case of a person entitled to retired pay by reason of an election under [section 12741(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section12741/a&num=0&edition=prelim), at rates applicable on the date the person completes the service required under such section 12741(a)), of the highest grade held satisfactorily by the person at any time in the armed forces. For purposes of the preceding sentence, the highest grade in which a person served satisfactorily as an officer shall be determined in accordance with [section 1370(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1370/d&num=0&edition=prelim).
+(2) **Non-regular service retirement.—** — In the case of a person who is entitled to retired pay under [section 12731 of this title](./chapter-1223-retired-pay-for-non-regular-service.md#section-12731), the retired pay base is the monthly basic pay, determined at the rates applicable on the date when retired pay is granted (or, in the case of a person entitled to retired pay by reason of an election under [section 12741(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section12741/a&num=0&edition=prelim), at rates applicable on the date the person completes the service required under such section 12741(a)), of the highest grade held satisfactorily by the person at any time in the armed forces. For purposes of the preceding sentence, the highest grade in which a person served satisfactorily as an officer shall be determined in accordance with [section 1370a of this title](./chapter-069-retired-grade.md#section-1370a).
 
 **(c) Voluntary Retirement for Members of the Army.—**
 
@@ -890,7 +892,7 @@ For provisions to prevent extinction or premature termination of rights, duties,
 
 **(d) Retirement for Members of the Navy and Marine Corps.—** In the case of a member whose retired pay is computed under [section 8333 of this title](./chapter-841-voluntary-retirement.md#section-8333), who is advanced on the retired list under section 8262 or 8334 of this title, or who is entitled to retainer pay under [section 8330 of this title](./chapter-841-voluntary-retirement.md#section-8330), the retired pay base or retainer pay base is determined in accordance with the following table. For a member entitled toretired or retainer pay under section:The retired pay base orretainer pay base is: 1 If the rate specified is less than the pay of any warrant officer grade satisfactorily held by the member on active duty, use the monthly basic pay of that warrant officer grade. 8323 8325(a)8372 Basic pay of the grade in which the member retired.1 8325(b)Basic pay of the grade the officer would hold if he had not received an appointment described in section 8325(b). 8326 Basic pay of the pay grade in which the member was serving on the day before retirement. 8330 Basic pay that the member received at the time of transfer to the Fleet Reserve or Fleet Marine Corps Reserve. 8262 Basic pay of the grade to which the member is advanced under section 8262. 8334 Basic pay of the grade to which the member is advanced under section 8334.
 
-**(e) Voluntary Retirement for Members of the Air Force.—**
+**(e) Voluntary Retirement for Members of the Air Force and Space Force.—**
 
 (1) **In general.—** — In the case of a member whose retired pay is computed under [section 9361 of this title](./chapter-945-computation-of-retired-pay.md#section-9361) or who is entitled to retired pay computed under [section 9362 of this title](./chapter-945-computation-of-retired-pay.md#section-9362), the retired pay base is determined in accordance with the following table. For a member entitled toretired pay under section:The retired pay base is: 1 For the purposes of this subsection, determine member’s retired grade as if section 9342 did not apply. 9311931893209324Monthly basic pay of member’s retired grade.1 93149317Monthly basic pay to which member was entitled on day before he retired. 9362Monthly basic pay of grade to which member is advanced on retired list.
 
@@ -914,7 +916,7 @@ For provisions to prevent extinction or premature termination of rights, duties,
 
   (A) in the case of an enlisted member, is reduced in grade as the result of a court-martial sentence, nonjudicial punishment, or other administrative process; or
 
-  (B) in the case an officer, is not certified by the Secretary of Defense under [section 1370(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1370/c&num=0&edition=prelim) as having served on active duty satisfactorily in the grade of general or admiral, as the case may be, while serving in that position.
+  (B) in the case an officer, is not certified by the Secretary of Defense under section 1370(c) 1 of this title as having served on active duty satisfactorily in the grade of general or admiral, as the case may be, while serving in that position.
 
 (3) **Definitions.—** — In this subsection:
 
@@ -928,7 +930,9 @@ For provisions to prevent extinction or premature termination of rights, duties,
 
     (iv) Commandant of the Marine Corps.
 
-    (v) Commandant of the Coast Guard.
+    (v) Chief of Space Operations.
+
+    (vi) Commandant of the Coast Guard.
 
   (B) The term “senior enlisted member” means any of the following:
 
@@ -940,17 +944,29 @@ For provisions to prevent extinction or premature termination of rights, duties,
 
     (iv) Sergeant Major of the Marine Corps.
 
-    (v) Master Chief Petty Officer of the Coast Guard.
+    (v) The senior enlisted advisor of the Space Force.
+
+    (vi) Master Chief Petty Officer of the Coast Guard.
 
 ### Statutory Notes
 
 #### References in Text
 [Section 423 of title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section423&num=0&edition=prelim), referred to in subsec. (f), was redesignated [section 2504 of title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section2504&num=0&edition=prelim) by Pub. L. 115–282, title I, § 114(b), Dec. 4, 2018, 132 Stat. 4223, and references to [section 423 of title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section423&num=0&edition=prelim) deemed to refer to such redesignated section, see section 123(b)(1) of Pub. L. 115–282, set out as a References to Sections of Title 14 as Redesignated by Pub. L. 115–282 note preceding [section 101 of Title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section101&num=0&edition=prelim), Coast Guard.
 
+[Section 1370(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1370/c&num=0&edition=prelim), referred to in subsec. (i)(2)(B), was repealed and new sections 1370 and 1370a were enacted by Pub. L. 116–283, div. A, title V, § 508(a)(1), Jan. 1, 2021, 134 Stat. 3580. For provisions stating that in determining retired grade of certain commissioned officers of the Armed Forces who retire after Jan. 1, 2021, any reference to [section 1370 of title 10](./chapter-069-retired-grade.md#section-1370) in such determination with respect to such officers is deemed to be a reference to [section 1370a of title 10](./chapter-069-retired-grade.md#section-1370a), see section 508(c) of Pub. L. 116–283, set out as a note under [section 1370 of this title](./chapter-069-retired-grade.md#section-1370).
+
 #### Prior Provisions
 A prior section 1406 was renumbered [section 12738 of this title](./chapter-1223-retired-pay-for-non-regular-service.md#section-12738).
 
 #### Amendments
+2021—Subsec. (b)(2). Pub. L. 116–283, § 508(b)(1)(A), substituted “section 1370a” for “section 1370(d)”.
+
+Subsec. (e). Pub. L. 116–283, § 924(b)(26)(A), inserted “and Space Force” after “Air Force” in heading.
+
+Subsec. (i)(3)(A)(v), (vi). Pub. L. 116–283, § 924(b)(26)(B)(i), added cl. (v) and redesignated former cl. (v) as (vi).
+
+Subsec. (i)(3)(B)(v), (vi). Pub. L. 116–283, § 924(b)(26)(B)(ii), added cl. (v) and redesignated former cl. (v) as (vi).
+
 2018—Subsec. (b)(1). Pub. L. 115–232 substituted “sections 7342 and 9342” for “sections 3962 and 8962” in footnote 3 in table.
 
 Subsec. (c)(1). Pub. L. 115–232 substituted “In the case of a member whose retired pay is computed under [section 7361 of this title](./chapter-745-computation-of-retired-pay.md#section-7361) or who is entitled to retired pay computed under [section 7362 of this title](./chapter-745-computation-of-retired-pay.md#section-7362)” for “In the case of a member whose retired pay is computed under [section 3991 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section3991&num=0&edition=prelim) or who is entitled to retired pay computed under [section 3992 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section3992&num=0&edition=prelim)” in introductory provisions, “7311” for “3911”, “7318” for “3918”, “7320” for “3920”, “7324” for “3924”, “7314” for “3914”, “7317” for “3917”, and “7362” for “3992” in column 1 of table, and “section 7342” for “section 3962” in footnote 1 in table.
@@ -1020,7 +1036,9 @@ Amendment by Pub. L. 102–190 effective Feb. 1, 1992, see section 1132 of Pub. 
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).
 
 #### Grade on Transfer to Retired Reserve
-Pub. L. 103–337, div. A, title XVI, § 1688, Oct. 5, 1994, 108 Stat. 3025, provided that: “In determining the highest grade held satisfactorily by a person at any time in the Armed Forces for the purposes of paragraph (2) of [section 1406(b) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1406/b&num=0&edition=prelim), United States Code, as added by this title, the requirement for satisfactory service on the reserve active-status list contained in [section 1370(d) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1370/d&num=0&edition=prelim), United States Code, as added by this title, shall apply only to reserve commissioned officers who are promoted to a higher grade as a result of selection for promotion under chapter 36 of that title or under chapter 1405 of that title, as added by this title, or having been found qualified for Federal recognition in a higher grade under chapter 3 of title 32, United States Code, after the effective date of this title [see Effective Date note set out under [section 10001 of this title](./chapter-1001-definitions.md#section-10001)].”
+Pub. L. 103–337, div. A, title XVI, § 1688, Oct. 5, 1994, 108 Stat. 3025, provided that: “In determining the highest grade held satisfactorily by a person at any time in the Armed Forces for the purposes of paragraph (2) of [section 1406(b) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1406/b&num=0&edition=prelim), United States Code, as added by this title, the requirement for satisfactory service on the reserve active-status list contained in [former] [section 1370(d) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1370/d&num=0&edition=prelim), United States Code, as added by this title, shall apply only to reserve commissioned officers who are promoted to a higher grade as a result of selection for promotion under chapter 36 of that title or under chapter 1405 of that title, as added by this title, or having been found qualified for Federal recognition in a higher grade under chapter 3 of title 32, United States Code, after the effective date of this title [see Effective Date note set out under [section 10001 of this title](./chapter-1001-definitions.md#section-10001)].”
+
+[In determining retired grade of certain commissioned officers of the Armed Forces who retire after Jan. 1, 2021, any reference to [section 1370 of title 10](./chapter-069-retired-grade.md#section-1370) in such determination with respect to such officers deemed to be a reference to [section 1370a of title 10](./chapter-069-retired-grade.md#section-1370a), see section 508(c) of Pub. L. 116–283, set out as a note under [section 1370 of this title](./chapter-069-retired-grade.md#section-1370).]
 
 
 <a id="section-1407"></a>
@@ -1077,7 +1095,7 @@ Pub. L. 103–337, div. A, title XVI, § 1688, Oct. 5, 1994, 108 Stat. 3025, pro
 
   (A) in the case of a member retired in an enlisted grade or transferred to the Fleet Reserve or Fleet Marine Corps Reserve, was at any time reduced in grade as the result of a court-martial sentence, nonjudicial punishment, or an administrative action, unless the member was subsequently promoted to a higher enlisted grade or appointed to a commissioned or warrant grade; and
 
-  (B) in the case of an officer, is retired in a grade lower than the highest grade in which served by reason of denial of a determination or certification under [section 1370 of this title](./chapter-069-retired-grade.md#section-1370) that the officer served on active duty satisfactorily in that grade.
+  (B) in the case of an officer, is retired in a grade lower than the highest grade in which served pursuant to section 1370 or 1370a of this title that the officer served on active duty satisfactorily in that grade.
 
 (3) **Special rule for enlisted members.—** — In the case of a member who retires within three years after having been reduced in grade as described in paragraph (2)(A), who retires in an enlisted grade that is lower than the grade from which reduced, and who would be subject to paragraph (1) but for a subsequent promotion to a higher enlisted grade or a subsequent appointment to a warrant or commissioned grade, the rates of basic pay used in the computation of the member’s high-36 average for the period of the member’s service in a grade higher than the grade in which retired shall be the rates of pay that would apply if the member had been serving for that period in the grade in which retired.
 
@@ -1087,6 +1105,8 @@ Pub. L. 103–337, div. A, title XVI, § 1688, Oct. 5, 1994, 108 Stat. 3025, pro
 A prior section 1407, added Pub. L. 96–342, title VIII, § 813(a)(1), Sept. 8, 1980, 94 Stat. 1100; amended Pub. L. 96–513, title I, § 113(c), title V, §§ 501(21), 511(53), Dec. 12, 1980, 94 Stat. 2877, 2908, 2925, related to determination of retired base pay, prior to repeal by Pub. L. 99–348, § 104(b).
 
 #### Amendments
+2021—Subsec. (f)(2)(B). Pub. L. 116–283 substituted “pursuant to section 1370 or 1370a” for “by reason of denial of a determination or certification under section 1370”.
+
 2018—Subsec. (e). Pub. L. 115–232 substituted “section 7314 or 9314” for “section 3914 or 8914” and “section 8330” for “section 6330”.
 
 2009—Subsec. (d)(4). Pub. L. 111–84 inserted “or, in the case of a member or former member entitled to retired pay by reason of an election under [section 12741(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section12741/a&num=0&edition=prelim), before the member or former member completes the service required under such section 12741(a),” after “became entitled to retired pay”.
@@ -1889,7 +1909,7 @@ Repeal effective Jan. 1, 2004, and applicable to payments for months beginning o
 
 **(g) Status of Payments.—** Payments under this section are not retired pay.
 
-**(h) Source of Payments.—** Payments under this section for a member of the Army, Navy, Air Force, or Marine Corps shall be paid from the Department of Defense Military Retirement Fund. Payments under this section for any other member for any fiscal year shall be paid out of funds appropriated for pay and allowances payable by the Secretary concerned for that fiscal year.
+**(h) Source of Payments.—** Payments under this section for a member of the Army, Navy, Air Force, Marine Corps, or Space Force shall be paid from the Department of Defense Military Retirement Fund. Payments under this section for any other member for any fiscal year shall be paid out of funds appropriated for pay and allowances payable by the Secretary concerned for that fiscal year.
 
 **(i) Other Definitions.—** In this section:
 
@@ -1900,6 +1920,8 @@ Repeal effective Jan. 1, 2004, and applicable to payments for months beginning o
 ### Statutory Notes
 
 #### Amendments
+2021—Subsec. (h). Pub. L. 116–283 substituted “Marine Corps, or Space Force” for “or Marine Corps”.
+
 2016—Subsec. (b)(3)(B). Pub. L. 114–328 substituted “the retired pay percentage (determined for the member under [section 1409(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1409/b&num=0&edition=prelim))” for “2½ percent”.
 
 2015—Subsec. (b)(3). Pub. L. 114–92, § 631(d)(2), which was approved Nov. 25, 2015, provided that the amendments made by Pub. L. 113–76, § 10001(b)(1), which were effective Dec. 1, 2015, would not take effect. See 2014 Amendment notes below.

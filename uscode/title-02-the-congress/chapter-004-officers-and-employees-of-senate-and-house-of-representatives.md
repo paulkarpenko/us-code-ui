@@ -2,7 +2,7 @@
 title: 2
 chapter: '4'
 heading: OFFICERS AND EMPLOYEES OF SENATE AND HOUSE OF REPRESENTATIVES
-section_count: 353
+section_count: 354
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2&num=0&edition=prelim
 ---
@@ -99,21 +99,25 @@ In addition to these acts the following House Resolutions affected the salary of
 #### Legislative Branch Appropriation Acts
 The following acts have provided for funds for the operation of Congress:
 
-Pub. L. 115–244, div. B, Sept. 21, 2018, 132 Stat. 2923.
+Pub. L. 116–260, div. I, title I, Dec. 27, 2020, 134 Stat. 1628.
 
-Pub. L. 115–141, div. I, Mar. 23, 2018, 132 Stat. 769.
+Pub. L. 116–94, div. E, title I, Dec. 20, 2019, 133 Stat. 2753.
 
-Pub. L. 115–31, div. I, May 5, 2017, 131 Stat. 568.
+Pub. L. 115–244, div. B, title I, Sept. 21, 2018, 132 Stat. 2923.
 
-Pub. L. 114–113, div. I, Dec. 18, 2015, 129 Stat. 2654.
+Pub. L. 115–141, div. I, title I, Mar. 23, 2018, 132 Stat. 769.
 
-Pub. L. 113–235, div. H, Dec. 16, 2014, 128 Stat. 2523.
+Pub. L. 115–31, div. I, title I, May 5, 2017, 131 Stat. 568.
 
-Pub. L. 113–76, div. I, Jan. 17, 2014, 128 Stat. 417.
+Pub. L. 114–113, div. I, title I, Dec. 18, 2015, 129 Stat. 2654.
 
-Pub. L. 112–74, div. G, Dec. 23, 2011, 125 Stat. 1116.
+Pub. L. 113–235, div. H, title I, Dec. 16, 2014, 128 Stat. 2523.
 
-Pub. L. 111–68, div. A, Oct. 1, 2009, 123 Stat. 2023.
+Pub. L. 113–76, div. I, title I, Jan. 17, 2014, 128 Stat. 417.
+
+Pub. L. 112–74, div. G, title I, Dec. 23, 2011, 125 Stat. 1116.
+
+Pub. L. 111–68, div. A, title I, Oct. 1, 2009, 123 Stat. 2023.
 
 Pub. L. 111–8, div. G, title I, Mar. 11, 2009, 123 Stat. 812.
 
@@ -704,7 +708,7 @@ Section 61 was editorially reclassified as [section 4574 of this title](./chapte
 ### Statutory Notes
 
 #### Codification
-Section 61a was editorially reclassified as [section 6531 of this title](./chapter-065-senate-officers-and-administration.md#section-6531).
+Section 61a was editorially reclassified as [section 6531 of this title](./chapter-065-senate-officers-and-administration.md#section-6531). [Section 6531 of this title](./chapter-065-senate-officers-and-administration.md#section-6531) was subsequently repealed by Pub. L. 116–94, div. E, title II, § 212(a)(3)(H), Dec. 20, 2019, 133 Stat. 2776.
 
 #### Prior Provisions
 A prior section 61a, act Aug. 5, 1955, ch. 568, § 1, 69 Stat. 499, prescribed gross annual compensation of Secretary of Senate.
@@ -872,7 +876,7 @@ Section 61c–1 was editorially reclassified as [section 6540 of this title](./c
 ### Statutory Notes
 
 #### Codification
-Section 61c–2 was editorially reclassified as [section 6537 of this title](./chapter-065-senate-officers-and-administration.md#section-6537).
+Section 61c–2 was editorially reclassified as [section 6537 of this title](./chapter-065-senate-officers-and-administration.md#section-6537). [Section 6537 of this title](./chapter-065-senate-officers-and-administration.md#section-6537) was subsequently repealed by Pub. L. 116–94, div. E, title II, § 212(a)(3)(A), Dec. 20, 2019, 133 Stat. 2775.
 
 
 <a id="section-61d"></a>
@@ -881,7 +885,7 @@ Section 61c–2 was editorially reclassified as [section 6537 of this title](./c
 ### Statutory Notes
 
 #### Codification
-Section 61d was editorially reclassified as [section 6651 of this title](./chapter-065-senate-officers-and-administration.md#section-6651).
+Section 61d was editorially reclassified as [section 6651 of this title](./chapter-065-senate-officers-and-administration.md#section-6651). [Section 6651 of this title](./chapter-065-senate-officers-and-administration.md#section-6651) was subsequently repealed by Pub. L. 116–94, div. E, title II, § 212(a)(3)(G), Dec. 20, 2019, 133 Stat. 2776.
 
 #### Prior Provisions
 A prior section 61d, Pub. L. 93–145, Nov. 1, 1973, 87 Stat. 528; Pub. L. 95–26, title I, May 4, 1977, 91 Stat. 80; Pub. L. 96–38, title I, § 103, July 25, 1979, 93 Stat. 112; Pub. L. 97–51, § 121, Oct. 1, 1981, 95 Stat. 965, provided that effective October 1, 1981, the compensation of Chaplain of Senate would be $52,750.
@@ -939,7 +943,7 @@ Section 61d–4 was editorially reclassified as [section 6654 of this title](./c
 ### Statutory Notes
 
 #### Codification
-Section 61e was editorially reclassified as [section 6591 of this title](./chapter-065-senate-officers-and-administration.md#section-6591).
+Section 61e was editorially reclassified as [section 6591 of this title](./chapter-065-senate-officers-and-administration.md#section-6591). [Section 6591 of this title](./chapter-065-senate-officers-and-administration.md#section-6591) was subsequently repealed by Pub. L. 116–94, div. E, title II, § 212(a)(3)(H), Dec. 20, 2019, 133 Stat. 2776.
 
 #### Prior Provisions
 A prior section 61e, act Aug. 5, 1955, ch. 568, § 1, 69 Stat. 501, prescribed gross annual compensation of Sergeant at Arms of Senate.
@@ -1185,11 +1189,11 @@ Section 61g–8 was editorially reclassified as [section 6158 of this title](./c
 ### Statutory Notes
 
 #### Codification
-Section 61h, Pub. L. 93–371, § 4, Aug. 13, 1974, 88 Stat. 429; Pub. L. 94–59, title I, § 105, July 25, 1975, 89 Stat. 275, set forth maximum annual rate of compensation for Assistant Secretaries for Senate Majority and Minority. Pub. L. 95–94, title I, Aug. 5, 1977, 91 Stat. 658, abolished such positions, effective Oct. 1, 1977, and authorized Secretaries concerned to appoint and fix compensation of such employees as they deem appropriate. See [section 6152 of this title](./chapter-061-senate-leadership.md#section-6152).
+Section 61h, Pub. L. 93–371, § 4, Aug. 13, 1974, 88 Stat. 429; Pub. L. 94–59, title I, § 105, July 25, 1975, 89 Stat. 275; Pub. L. 116–94, div. E, title II, § 212(a)(3)(A), Dec. 20, 2019, 133 Stat. 2775, set forth maximum annual rate of compensation for Assistant Secretaries for Senate Majority and Minority. Pub. L. 95–94, title I, Aug. 5, 1977, 91 Stat. 658, abolished such positions, effective Oct. 1, 1977, and authorized Secretaries concerned to appoint and fix compensation of such employees as they deem appropriate. See [section 6152 of this title](./chapter-061-senate-leadership.md#section-6152).
 
 A prior section 61h, acts Aug. 5, 1955, ch. 568, 69 Stat. 502; June 27, 1956, ch. 453, 70 Stat. 357; Aug. 21, 1959, Pub. L. 86–176, 73 Stat. 399; Aug. 10, 1961, Pub. L. 87–130, 75 Stat. 321; July 27, 1965, Pub. L. 89–90, 79 Stat. 266, authorized basic per annum compensation of Assistant Secretaries for Senate Majority and Minority to be fixed by the respective Secretaries.
 
-Section 61h–1, Pub. L. 93–371, § 4, Aug. 13, 1974, 88 Stat. 429; Pub. L. 94–59, title I, § 105, July 25, 1975, 89 Stat. 275, set a maximum annual rate of compensation of $38,000 for administrative assistants in Offices of Senate Majority and Minority Leaders. Positions established by Legislative Branch Appropriation Act, 1970, for Offices of Senate Majority and Minority Leaders, which Act, Pub. L. 91–145, Dec. 12, 1969, 83 Stat. 339, formerly classified to this section, authorized respective leaders to appoint an administrative assistant, were abolished, see title I of Pub. L. 95–26, 91 Stat. 80, set out below. See, also, [section 6131 of this title](./chapter-061-senate-leadership.md#section-6131).
+Section 61h–1, Pub. L. 93–371, § 4, Aug. 13, 1974, 88 Stat. 429; Pub. L. 94–59, title I, § 105, July 25, 1975, 89 Stat. 275; Pub. L. 116–94, div. E, title II, § 212(a)(3)(A), Dec. 20, 2019, 133 Stat. 2775, set a maximum annual rate of compensation of $38,000 for administrative assistants in Offices of Senate Majority and Minority Leaders. Positions established by Legislative Branch Appropriation Act, 1970, for Offices of Senate Majority and Minority Leaders, which Act, Pub. L. 91–145, Dec. 12, 1969, 83 Stat. 339, formerly classified to this section, authorized respective leaders to appoint an administrative assistant, were abolished, see title I of Pub. L. 95–26, 91 Stat. 80, set out below. See, also, [section 6131 of this title](./chapter-061-senate-leadership.md#section-6131).
 
 A prior section 61h–1, Pub. L. 91–145, Dec. 12, 1969, 83 Stat. 339, authorized Senate Majority and Minority Leaders to each appoint and fix compensation of an administrative assistant, a legislative assistant, an executive secretary, and a clerical assistant in lieu of positions heretofore authorized by Senate Resolution 158, agreed to December 9, 1941, Pub. L. 86–30, approved May 20, 1959, and Senate Resolution 240, agreed to January 24, 1952.
 
@@ -1197,14 +1201,23 @@ A prior section 61h–1, Pub. L. 91–145, Dec. 12, 1969, 83 Stat. 339, authoriz
 Pub. L. 95–26, title I, May 4, 1977, 91 Stat. 80, provided in part: “That the positions established by the Legislative Branch Appropriation Act, 1970 [Pub. L. 91–145, Dec. 12, 1969, 83 Stat. 338], for the Offices of the Majority and Minority Leaders [of the Senate] are abolished effective April 1, 1977.” The positions referred to were enumerated in Pub. L. 91–145, Dec. 12, 1969, 83 Stat. 339, classified to former [section 61h–1 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section61h–1&num=0&edition=prelim), which authorized the respective leaders to appoint an administrative assistant, a legislative assistant, an executive secretary, and a clerical assistant in lieu of the positions authorized prior thereto by Senate Resolution 158, agreed to Dec. 9, 1941, Pub. L. 86–30, approved May 20, 1959, and Senate Resolution 240, agreed to Jan. 24, 1952. See [section 6131 of this title](./chapter-061-senate-leadership.md#section-6131).
 
 
-<a id="section-61h-2-61h-3"></a>
-## § 61h–2, 61h–3. Omitted
+<a id="section-61h-2"></a>
+## § 61h–2. Repealed. Pub. L. 116–94, div. E, title II, § 212(a)(3)(A), Dec. 20, 2019, 133 Stat. 2775
+
+### Statutory Notes
+
+Section, Pub. L. 94–59, title I, § 105, July 25, 1975, 89 Stat. 275, set a maximum annual rate of compensation of $36,500 for legislative assistants in Offices of Senate Majority and Minority Leaders. Positions established by Legislative Branch Appropriation Act, 1970, for Offices of Senate Majority and Minority Leaders, which Act, Pub. L. 91–145, Dec. 12, 1969, 83 Stat. 339, classified to former [section 61h–1 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section61h–1&num=0&edition=prelim), authorized the respective leaders to appoint a legislative assistant, were abolished, see Pub. L. 95–26, title I, May 4, 1977, 91 Stat. 80, set out as a note under former [section 61h–1 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section61h–1&num=0&edition=prelim). See, also, [section 6131 of this title](./chapter-061-senate-leadership.md#section-6131).
+
+#### Effective Date of Repeal
+Repeal effective on the later of the first day of the first applicable pay period beginning on or after Jan. 1, 2020, or the first day of the first applicable pay period beginning on or after Dec. 20, 2019, see section 212(c) of Pub. L. 116–94, set out as a note under [section 282b of this title](./chapter-009-office-of-legislative-counsel.md#section-282b).
+
+
+<a id="section-61h-3"></a>
+## § 61h–3. Omitted
 
 ### Statutory Notes
 
 #### Codification
-Section 61h–2, Pub. L. 94–59, title I, § 105, July 25, 1975, 89 Stat. 275, set a maximum annual rate of compensation of $36,500 for legislative assistants in Offices of Senate Majority and Minority Leaders. Positions established by Legislative Branch Appropriation Act, 1970, for Offices of Senate Majority and Minority Leaders, which Act, Pub. L. 91–145, Dec. 12, 1969, 83 Stat. 339, classified to former [section 61h–1 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section61h–1&num=0&edition=prelim), authorized the respective leaders to appoint a legislative assistant, were abolished, see Pub. L. 95–26, title I, May 4, 1977, 91 Stat. 80, set out as a note under former [section 61h–1 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section61h–1&num=0&edition=prelim). See, also, [section 6131 of this title](./chapter-061-senate-leadership.md#section-6131).
-
 Section 61h–3, Pub. L. 94–59, title I, July 25, 1975, 89 Stat. 269, authorized Senate Majority and Minority Leaders to appoint and fix compensation of an executive secretary and a clerical assistant effective July 1, 1975. Positions established by Legislative Branch Appropriation Act, 1970, for Offices of Senate Majority and Minority Leaders, which Act, Pub. L. 91–145, Dec. 12, 1969, 83 Stat. 339, classified to former [section 61h–1 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section61h–1&num=0&edition=prelim), authorized the respective leaders to appoint an executive secretary, and a clerical assistant, were abolished, see Pub. L. 95–26, title I, May 4, 1977, 91 Stat. 80, set out as a note under former [section 61h–1 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section61h–1&num=0&edition=prelim). See, also, [section 6131 of this title](./chapter-061-senate-leadership.md#section-6131).
 
 
@@ -1255,7 +1268,7 @@ Section 61h–7 was editorially reclassified as [section 6133 of this title](./c
 #### Codification
 Section 61i, Pub. L. 86–30, title I, May 20, 1959, 73 Stat. 48, which was from the Second Supplemental Appropriation Act, 1959, authorized Senate Majority and Minority Leaders to fix, effective May 1, 1959, basic salaries of research assistants authorized by S. Res. 158, agreed to Dec. 9, 1941, at not to exceed $8,820 per annum. See [section 6131 of this title](./chapter-061-senate-leadership.md#section-6131).
 
-Section 61j, Pub. L. 93–371, § 4, Aug. 13, 1974, 88 Stat. 429; Pub. L. 94–59, title I, § 105, July 25, 1975, 89 Stat. 275, set a maximum annual rate of compensation of $37,000 for administrative assistants in offices of Senate Majority and Minority Whips. Positions established by Legislative Branch Appropriation Act, 1970, for Offices of Senate Majority and Minority Whips, which Act, Pub. L. 91–145, Dec. 12, 1969, 83 Stat. 339, classified to former [section 61j of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section61j&num=0&edition=prelim), authorized the respective whips to appoint an administrative assistant, were abolished, see title I of Pub. L. 95–26, set out in part as a note under former [section 61h–1 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section61h–1&num=0&edition=prelim). See, also, [section 6134 of this title](./chapter-061-senate-leadership.md#section-6134).
+Section 61j, Pub. L. 93–371, § 4, Aug. 13, 1974, 88 Stat. 429; Pub. L. 94–59, title I, § 105, July 25, 1975, 89 Stat. 275; Pub. L. 116–94, div. E, title II, § 212(a)(3)(A), Dec. 20, 2019, 133 Stat. 2775, set a maximum annual rate of compensation of $37,000 for administrative assistants in offices of Senate Majority and Minority Whips. Positions established by Legislative Branch Appropriation Act, 1970, for Offices of Senate Majority and Minority Whips, which Act, Pub. L. 91–145, Dec. 12, 1969, 83 Stat. 339, classified to former [section 61j of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section61j&num=0&edition=prelim), authorized the respective whips to appoint an administrative assistant, were abolished, see title I of Pub. L. 95–26, set out in part as a note under former [section 61h–1 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section61h–1&num=0&edition=prelim). See, also, [section 6134 of this title](./chapter-061-senate-leadership.md#section-6134).
 
 A prior section 61j, Pub. L. 91–145, Dec. 12, 1969, 83 Stat. 339, authorized Senate Majority and Minority Whips to each appoint and fix compensation of an administrative assistant and an executive secretary.
 

@@ -1857,6 +1857,12 @@ Amendment by act Aug. 7, 1956, effective July 1, 1956, see section 606(d) of act
 
 (2) the need for such housing in the area has diminished to the extent that the purpose of the loan, providing housing for domestic farm labor, can no longer be met.
 
+**(j) Carbon monoxide alarm or detector** Housing and related facilities constructed with loans under this section shall contain installed carbon monoxide alarms or detectors that meet or exceed—
+
+(1) the standards described in chapters 9 and 11 of the 2018 publication of the International Fire Code, as published by the International Code Council; or
+
+(2) any other standards as may be adopted by the Secretary, in collaboration with the Secretary of Housing and Urban Development, including any relevant updates to the International Fire Code, through a notice published in the Federal Register.
+
 ### Statutory Notes
 
 #### References in Text
@@ -1868,6 +1874,8 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 Another section 801(b) of Pub. L. 91–609 amended [section 1460(c)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1460/c/1&num=0&edition=prelim).
 
 #### Amendments
+2020—Subsec. (j). Pub. L. 116–260 added subsec. (j).
+
 2018—Subsec. (f)(3)(A). Pub. L. 115–141 substituted “United States,” for “United States” and inserted “, or a person legally admitted to the United States and authorized to work in agriculture” before semicolon at end.
 
 2008—Subsec. (f)(3). Pub. L. 110–246, § 6205, substituted “, the handling of agricultural or aquacultural commodities in the unprocessed stage, or the processing of agricultural or aquacultural commodities” for “or the handling of such commodities in the unprocessed stage” in introductory provisions.
@@ -1910,6 +1918,9 @@ Subsec. (f)(1), (2). Pub. L. 91–609, § 801(c), substituted “structures (inc
 
 #### Effective Date of 2008 Amendment
 Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under [section 8701 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section8701&num=0&edition=prelim), Agriculture.
+
+#### Construction of 2020 Amendment
+Nothing in amendment made by Pub. L. 116–260 to be construed to preempt or limit applicability of certain State or local laws relating to carbon monoxide devices, see section 101(j) of Pub. L. 116–260, set out as a note under [section 1437a of this title](./chapter-008-low-income-housing.md#section-1437a).
 
 
 <a id="section-1485"></a>
@@ -2006,7 +2017,15 @@ After August 6, 1996, the ownership or control of a project for which a loan is 
 
   (C) during the term of such rental assistance contracts, such State or political subdivision shall make available the amounts required for such rental assistance not less than annually.
 
-**(m) Standards for housing and related facilities rehabilitated or repaired; establishment, criteria, etc.** The Secretary shall establish standards for housing and related facilities rehabilitated or repaired with amounts received under a loan made or insured under this section. Standards established by the Secretary under this subsection shall provide that except for substantial rehabilitation the particular items or systems repaired or rehabilitated must meet appropriate levels of quality or performance comparable to those levels prescribed by the Secretary of Housing and Urban Development for rehabilitation, but shall not require that such items or systems or the remainder of the property meet the standards which are applicable to new construction. The Secretary shall ensure that standards prescribed under this subsection provide decent, safe, and sanitary housing and related facilities.
+**(m) Standards for housing and related facilities rehabilitated or repaired; carbon monoxide detectors**
+
+(1) The Secretary shall establish standards for housing and related facilities rehabilitated or repaired with amounts received under a loan made or insured under this section. Standards established by the Secretary under this subsection shall provide that except for substantial rehabilitation the particular items or systems repaired or rehabilitated must meet appropriate levels of quality or performance comparable to those levels prescribed by the Secretary of Housing and Urban Development for rehabilitation, but shall not require that such items or systems or the remainder of the property meet the standards which are applicable to new construction. The Secretary shall ensure that standards prescribed under this subsection provide decent, safe, and sanitary housing and related facilities.
+
+(2) Housing and related facilities rehabilitated or repaired with amounts received under a loan made or insured under this section shall contain installed carbon monoxide alarms or detectors that meet or exceed—
+
+  (A) the standards described in chapters 9 and 11 of the 2018 publication of the International Fire Code, as published by the International Code Council; or
+
+  (B) any other standards as may be adopted by the Secretary, in collaboration with the Secretary of Housing and Urban Development, including any relevant updates to the International Fire Code, through a notice published in the Federal Register.
 
 **(n) Assistance to projects located on more than one site** The Secretary may not deny assistance under this section or [section 1490a of this title](./chapter-8a-slum-clearance-urban-renewal-and-farm-housing.md#section-1490a) on the basis that the project involved is to be located on more than one site.
 
@@ -2160,6 +2179,8 @@ The United States Housing Act of 1937, referred to in subsec. (q), is act Sept. 
 Section 203(a) of Pub. L. 100–242, as amended, which was formerly set out in a note under section 1715l of Title 12, Banks and Banking, and which provided that on Nov. 28, 1990, the amendment made by section 263 of Pub. L. 100–242 is repealed and section is to read as it would without such amendment, was omitted in the general amendment of subtitle A of title II of Pub. L. 100–242 by Pub. L. 101–625.
 
 #### Amendments
+2020—Subsec. (m). Pub. L. 116–260 designated exisiting provisions as par. (1) and added par. (2).
+
 2008—Subsec. (h). Pub. L. 110–289, which directed amendment of subsec. (h) by inserting “(1) Condition” after “(h)” and adding par. (2), was executed by making the insertion after “(h) Project transfers” and adding par. (2), to reflect the probable intent of Congress.
 
 2000—Subsec. (z). Pub. L. 106–569 added subsec. (z) and struck out heading and text of former subsec. (z). Text read as follows: “Whoever, as an owner, agent, or manager, or who is otherwise in custody, control, or possession of property that is security for a loan made or insured under this section willfully uses, or authorizes the use, of any part of the rents, assets, proceeds, income, or other fund derived from such property, for any purpose other than to meet actual or necessary expenses of the property, or for any other purpose not authorized by this subchapter or the regulations adopted pursuant to this subchapter, shall be fined not more than $250,000 or imprisoned not more than 5 years, or both.”
@@ -2415,6 +2436,9 @@ Amendment by Pub. L. 97–35 effective Oct. 1, 1981, see section 371 of Pub. L. 
 
 #### Regulations
 Section 707(f)(2) of Pub. L. 102–550 provided that: “The Secretary of Agriculture shall issue any regulations necessary to carry out the amendment made by paragraph (1) [amending this section] not later than the expiration of the 45-day period beginning on the date of the enactment of this Act [Oct. 28, 1992]. Not later than the expiration of the 30-day period beginning on the date of the enactment of this Act, the Secretary shall submit a copy of any regulations to be issued under this subsection to the Congress. The requirements of section 534(d) of the Housing Act of 1949 [[42 U.S.C. 1490n(d)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1490n/d&num=0&edition=prelim)] and subsections (b) and (c) of [section 553 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section553&num=0&edition=prelim), United States Code, shall apply to any such regulations.”
+
+#### Construction of 2020 Amendment
+Nothing in amendment made by Pub. L. 116–260 to be construed to preempt or limit applicability of certain State or local laws relating to carbon monoxide devices, see section 101(j) of Pub. L. 116–260, set out as a note under [section 1437a of this title](./chapter-008-low-income-housing.md#section-1437a).
 
 
 <a id="section-1486"></a>

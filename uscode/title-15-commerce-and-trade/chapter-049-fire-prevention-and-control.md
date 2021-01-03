@@ -318,9 +318,6 @@ For transfer of functions, personnel, assets, and liabilities of the Federal Eme
 
 Functions of National Fire Prevention and Control Administration [now United States Fire Administration] and National Academy for Fire Prevention and Control generally transferred to Federal Emergency Management Agency. For further details see Transfer of Functions note set out under [section 2202 of this title](./chapter-049-fire-prevention-and-control.md#section-2202).
 
-#### Termination of Trust Territory of the Pacific Islands
-For termination of Trust Territory of the Pacific Islands, see note set out preceding [section 1681 of Title 48](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title48-section1681&num=0&edition=prelim), Territories and Insular Possessions.
-
 
 <a id="section-2204"></a>
 ## § 2204. United States Fire Administration
@@ -593,7 +590,7 @@ Pub. L. 101–507, title III, Nov. 5, 1990, 104 Stat. 1377, provided that: “Th
 
 (2) The Administrator is authorized to conduct, directly or through contracts or grants, studies of the operations and management aspects of fire service-based emergency medical services and coordination between emergency medical services and fire services. Such studies may include the optimum protocols for on-scene care, the allocation of resources, and the training requirements for fire service-based emergency medical services.
 
-(3) The Administrator is authorized to conduct, directly or through contracts or grants, research concerning the productivity and efficiency of fire service personnel, the job categories and skills required by fire services under varying conditions, the reduction of injuries to fire service personnel, the most effective fire prevention programs and activities, and techniques for accuracy measuring and analyzing the foregoing.
+(3) The Administrator is authorized to conduct, directly or through contracts or grants, research concerning the productivity and efficiency of fire service personnel, the job categories and skills required by fire services under varying conditions, the reduction of injuries to fire service personnel, the most effective fire prevention programs and activities, and techniques for accurately measuring and analyzing the foregoing.
 
 (4) The Administrator is authorized to conduct, directly or through contracts, grants, or other forms of assistance, development, testing and demonstration projects to the extent deemed necessary to introduce and to encourage the acceptance of new technology, standards, operating methods, command techniques, and management systems for utilization by the fire services.
 
@@ -1857,7 +1854,7 @@ No funds shall be made available to a State or local government under [section 2
 
   (B) *Aggregate*
 
-    (i) *In general* — Notwithstanding subparagraphs (A) and (B) and except as provided under clause (ii), the Administrator of FEMA may not award a grant under this subsection in a fiscal year in an amount that exceeds the amount that is one percent of the available grant funds in such fiscal year.
+    (i) *In general* — Notwithstanding subparagraphs (A) and (B) 11 So in original. and except as provided under clause (ii), the Administrator of FEMA may not award a grant under this subsection in a fiscal year in an amount that exceeds the amount that is one percent of the available grant funds in such fiscal year.
 
     (ii) *Exception* — The Administrator of FEMA may waive the limitation in clause (i) with respect to a grant recipient if the Administrator of FEMA determines that such recipient has an extraordinary need for a grant in an amount that exceeds the limit under clause (i).
 
@@ -2123,7 +2120,7 @@ No funds shall be made available to a State or local government under [section 2
 
       (I) Changes in rates of unemployment from previous years.
 
-      (II) Whether the rates of unemployment of the relevant communities are currently and have consistently exceeded the annual national average rates of unemployment.
+      (II) Whether the rates of unemployment of the relevant communities are currently and have consistently exceeded 22 So in original. Probably should be “are currently exceeding and have consistently exceeded”. the annual national average rates of unemployment.
 
       (III) Changes in percentages of individuals eligible to receive food stamps from previous years.
 
@@ -2394,7 +2391,7 @@ Pub. L. 115–98, § 6, Jan. 3, 2018, 131 Stat. 2241, provided that: “(a) Fram
 
     (i) Changes in rates of unemployment from previous years.
 
-    (ii) Whether the rates of unemployment of the relevant communities are currently and have consistently exceeded the annual national average rates of unemployment.
+    (ii) Whether the rates of unemployment of the relevant communities are currently and have consistently exceeded 11 So in original. Probably should be “are currently exceeding and have consistently exceeded”. the annual national average rates of unemployment.
 
     (iii) Changes in percentages of individuals eligible to receive food stamps from previous years.
 
@@ -2418,7 +2415,7 @@ Pub. L. 115–98, § 6, Jan. 3, 2018, 131 Stat. 2241, provided that: “(a) Fram
 
 **(i) Definitions** In this section:
 
-(1) The term “firefighter” has the meaning given the term “employee in fire protection activities” under [section 203(y) of title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section203/y&num=0&edition=prelim).11 See References in Text note below.
+(1) The term “firefighter” has the meaning given the term “employee in fire protection activities” under [section 203(y) of title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section203/y&num=0&edition=prelim).22 See References in Text note below.
 
 (2) The terms “Administrator of FEMA”, “career fire department”, “combination fire department”, and “volunteer fire department” have the meanings given such terms in [section 2229(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section2229/a&num=0&edition=prelim).
 

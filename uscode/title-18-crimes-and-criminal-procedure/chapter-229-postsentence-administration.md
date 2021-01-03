@@ -573,11 +573,25 @@ In designating the place of imprisonment or making transfers under this subsecti
 
 (3) **Authorization of appropriations.—** — There are authorized to be appropriated to the Bureau of Prisons for each fiscal year such sums as may be necessary to carry out this subsection.
 
-**(g) Continued Access to Medical Care.—**
+**(g) Partnerships To Expand Access to Reentry Programs Proven To Reduce Recidivism.—**
 
-(1) **In general.—** — In order to ensure a minimum standard of health and habitability, the Bureau of Prisons should ensure that each prisoner in a community confinement facility has access to necessary medical care, mental health care, and medicine through partnerships with local health service providers and transition planning.
+(1) **Definition.—** — The term “demonstrated to reduce recidivism” means that the Director of Bureau of Prisons has determined that appropriate research has been conducted and has validated the effectiveness of the type of program on recidivism.
 
-(2) **Definition.—** — In this subsection, the term “community confinement” has the meaning given that term in the application notes under section 5F1.1 of the Federal Sentencing Guidelines Manual, as in effect on the date of the enactment of the Second Chance Act of 2007.
+(2) **Eligibility for recidivism reduction partnership.—** — A faith-based or community-based nonprofit organization that provides mentoring or other programs that have been demonstrated to reduce recidivism is eligible to enter into a recidivism reduction partnership with a prison or community-based facility operated by the Bureau of Prisons.
+
+(3) **Recidivism reduction partnerships.—** — The Director of the Bureau of Prisons shall develop policies to require wardens of prisons and community-based facilities to enter into recidivism reduction partnerships with faith-based and community-based nonprofit organizations that are willing to provide, on a volunteer basis, programs described in paragraph (2).
+
+(4) **Reporting requirement.—** — The Director of the Bureau of Prisons shall submit to Congress an annual report on the last day of each fiscal year that—
+
+  (A) details, for each prison and community-based facility for the fiscal year just ended—
+
+    (i) the number of recidivism reduction partnerships under this section that were in effect;
+
+    (ii) the number of volunteers that provided recidivism reduction programming; and
+
+    (iii) the number of recidivism reduction programming hours provided; and
+
+  (B) explains any disparities between facilities in the numbers reported under subparagraph (A).
 
 **(h) Implementation of Risk and Needs Assessment System.—**
 
@@ -621,41 +635,20 @@ In designating the place of imprisonment or making transfers under this subsecti
 
 (7) **Definitions.—** — The terms in this subsection have the meaning given those terms in section 3635.
 
+**(i) Continued Access to Medical Care.—**
+
+(1) **In general.—** — In order to ensure a minimum standard of health and habitability, the Bureau of Prisons should ensure that each prisoner in a community confinement facility has access to necessary medical care, mental health care, and medicine through partnerships with local health service providers and transition planning.
+
+(2) **Definition.—** — In this subsection, the term “community confinement” has the meaning given that term in the application notes under section 5F1.1 of the Federal Sentencing Guidelines Manual, as in effect on the date of the enactment of the Second Chance Act of 2007.
+
 ### Statutory Notes
-
-#### Amendment of Section
-Pub. L. 115–391, title V, § 504(f), Dec. 21, 2018, 132 Stat. 5234, provided that, effective 180 days after Dec. 21, 2018, this section is amended—
-
-(1) by redesignating subsection (g) as subsection (i); and
-
-(2) by inserting after subsection (f) the following:
-
-(g) Partnerships To Expand Access to Reentry Programs Proven To Reduce Recidivism.—
-
-(1) Definition.—The term “demonstrated to reduce recidivism” means that the Director of Bureau of Prisons has determined that appropriate research has been conducted and has validated the effectiveness of the type of program on recidivism.
-
-(2) Eligibility for recidivism reduction partnership.—A faith-based or community-based nonprofit organization that provides mentoring or other programs that have been demonstrated to reduce recidivism is eligible to enter into a recidivism reduction partnership with a prison or community-based facility operated by the Bureau of Prisons.
-
-(3) Recidivism reduction partnerships.—The Director of the Bureau of Prisons shall develop policies to require wardens of prisons and community-based facilities to enter into recidivism reduction partnerships with faith-based and community-based nonprofit organizations that are willing to provide, on a volunteer basis, programs described in paragraph (2).
-
-(4) Reporting requirement.—The Director of the Bureau of Prisons shall submit to Congress an annual report on the last day of each fiscal year that—
-
-(A) details, for each prison and community-based facility for the fiscal year just ended—
-
-(i) the number of recidivism reduction partnerships under this section that were in effect;
-
-(ii) the number of volunteers that provided recidivism reduction programming; and
-
-(iii) the number of recidivism reduction programming hours provided; and
-
-(B) explains any disparities between facilities in the numbers reported under subparagraph (A).
 
 #### References in Text
 The effective date of this subsection, referred to in subsec. (h)(1)(A), probably means the date of enactment of Pub. L. 115–391, which added subsec. (h) of this section and was approved Dec. 21, 2018.
 
 The date of enactment of this subsection, referred to in subsec. (h)(4), is the date of enactment of Pub. L. 115–391, which was approved Dec. 21, 2018.
 
-The date of the enactment of the Second Chance Act of 2007, referred to in subsec. (g)(2), is the date of enactment of Pub. L. 110–199, which was approved Apr. 9, 2008.
+The date of the enactment of the Second Chance Act of 2007, referred to in subsec. (i)(2), is the date of enactment of Pub. L. 110–199, which was approved Apr. 9, 2008.
 
 #### Prior Provisions
 For a prior section 3621, applicable to offenses committed prior to Nov. 1, 1987, see note set out preceding [section 3601 of this title](./chapter-229-postsentence-administration.md#section-3601).
@@ -716,6 +709,9 @@ Pub. L. 115–391, title I, § 105, Dec. 21, 2018, 132 Stat. 5214, provided that
 
 #### Construction of 2008 Amendment
 For construction of amendments by Pub. L. 110–199 and requirements for grants made under such amendments, see [section 60504 of Title 34](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section60504&num=0&edition=prelim), Crime Control and Law Enforcement.
+
+#### Bureau of Prisons
+Pub. L. 116–136, div. B, title II, § 12003, Mar. 27, 2020, 134 Stat. 515, provided that: “(a) Definitions.—In this section—“(1) the term ‘Bureau’ means the Bureau of Prisons; “(2) the term ‘covered emergency period’ means the period beginning on the date on which the President declared a national emergency under the National Emergencies Act ([50 U.S.C. 1601](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1601&num=0&edition=prelim) et seq.) with respect to the Coronavirus Disease 2019 (COVID–19) [declaration issued Mar. 13, 2020, beginning Mar. 1, 2020, see 85 F.R. 15337] and ending on the date that is 30 days after the date on which the national emergency declaration terminates; and “(3) the term ‘Secretary’ means the Secretary of Health and Human Services. “(b) Supply of Personal Protective Equipment and Test Kits to Bureau of Prisons; Home Confinement Authority.—“(1) Personal protective equipment and test kits.—“(A) Findings.—Congress finds the following:“(i) There is an urgent need for personal protective equipment and test kits to the Bureau based on the density of the inmate population, the high traffic, the high volume of inmates, the high rate of turnover of inmates and personnel, and the number of high-security areas, within the facilities of the Bureau. “(ii) The inability of the Bureau to secure the purchase of infectious disease personal protective equipment and related supplies now and in the future is a vulnerability. “(iii) The Bureau is currently competing in and engaging the same landscape of vendors as all other Federal agencies and private entities. “(iv) The ability of the Bureau to purchase needed equipment and supplies is currently subject to an individual manufacturer’s specific recognition of the Bureau as a priority and subsequent allocation of the inventory of the manufacturer to the Bureau. “(B) Consideration.—The Secretary shall appropriately consider, relative to other priorities of the Department of Health and Human Services for high-risk and high-need populations, the distribution of infectious disease personal protective equipment and COVID–19 test kits to the Bureau for use by inmates and personnel of the Bureau. “(2) Home confinement authority.—During the covered emergency period, if the Attorney General finds that emergency conditions will materially affect the functioning of the Bureau, the Director of the Bureau may lengthen the maximum amount of time for which the Director is authorized to place a prisoner in home confinement under the first sentence of [section 3624(c)(2) of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section3624/c/2&num=0&edition=prelim), United States Code, as the Director determines appropriate. “(c) Video Visitation.—“(1) In general.—During the covered emergency period, if the Attorney General finds that emergency conditions will materially affect the functioning of the Bureau, the Director of the Bureau shall promulgate rules regarding the ability of inmates to conduct visitation through video teleconferencing and telephonically, free of charge to inmates, during the covered emergency period. “(2) Exemption from notice-and-comment rulemaking requirements.—[Section 553 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section553&num=0&edition=prelim), United States Code, shall not apply to the promulgation of rules under paragraph (1) of this subsection. “(d) Emergency Requirement.—The amount provided by this section is designated by the Congress as being for an emergency requirement pursuant to section 251(b)(2)(A)(i) of the Balanced Budget and Emergency Deficit Control Act of 1985 [[2 U.S.C. 901(b)(2)(A)(i)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section901/b/2/A/i&num=0&edition=prelim)].”
 
 #### GAO Report
 Pub. L. 115–391, title I, § 103, Dec. 21, 2018, 132 Stat. 5213, provided that: “Not later than 2 years after the Director of the Bureau of Prisons implements the risk and needs assessment system under [section 3621 of title 18](./chapter-229-postsentence-administration.md#section-3621), United States Code, and every 2 years thereafter, the Comptroller General of the United States shall conduct an audit of the use of the risk and needs assessment system at Bureau of Prisons facilities. The audit shall include analysis of the following: “(1) Whether inmates are being assessed under the risk and needs assessment system with the frequency required under such [section 3621 of title 18](./chapter-229-postsentence-administration.md#section-3621), United States Code. “(2) Whether the Bureau of Prisons is able to offer recidivism reduction programs and productive activities (as such terms are defined in [section 3635 of title 18](./chapter-229-postsentence-administration.md#section-3635), United States Code, as added by section 101(a) of this Act). “(3) Whether the Bureau of Prisons is offering the type, amount, and intensity of recidivism reduction programs and productive activities for prisoners to earn the maximum amount of time credits for which they are eligible. “(4) Whether the Attorney General is carrying out the duties under [section 3631(b) of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section3631/b&num=0&edition=prelim), United States Code, as added by section 101(a) of this Act. “(5) Whether officers and employees of the Bureau of Prisons are receiving the training described in [section 3632(f) of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section3632/f&num=0&edition=prelim), United States Code, as added by section 101(a) of this Act. “(6) Whether the Bureau of Prisons offers work assignments to all prisoners who might benefit from such an assignment. “(7) Whether the Bureau of Prisons transfers prisoners to prerelease custody or supervised release as soon as they are eligible for such a transfer under [section 3624(g) of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section3624/g&num=0&edition=prelim), United States Code, as added by section 102(b) of this Act. “(8) The rates of recidivism among similarly classified prisoners to identify any unwarranted disparities, including disparities among similarly classified prisoners of different demographic groups, in such rates.”

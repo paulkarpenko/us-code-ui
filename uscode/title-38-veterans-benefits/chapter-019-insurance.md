@@ -2,7 +2,7 @@
 title: 38
 chapter: '19'
 heading: INSURANCE
-section_count: 79
+section_count: 80
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38&num=0&edition=prelim
 ---
@@ -198,11 +198,13 @@ Amendment by Pub. L. 91–291 effective June 25, 1970, see section 14(a) of Pub.
 <a id="section-1908"></a>
 ## § 1908. Premium payments
 
-The Secretary shall, by regulations, prescribe the time and method of payment of the premiums on insurance, but payments of premiums in advance shall not be required for periods of more than one month each, and may at the election of the insured be deducted from the insured’s active-service pay or be otherwise made. An amount equal to the first premium due under a National Service Life Insurance policy may be advanced from current appropriations for active-service pay to any person in the active service in the Army, Navy, Air Force, Marine Corps, or Coast Guard, which amount shall constitute a lien upon any service or other pay accruing to the person for whom such advance was made and shall be collected therefrom if not otherwise paid. No disbursing or certifying officer shall be responsible for any loss incurred by reason of such advance. Any amount so advanced in excess of available service or other pay shall constitute a lien on the policy within the provisions of [section 5301(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section5301/b&num=0&edition=prelim).
+The Secretary shall, by regulations, prescribe the time and method of payment of the premiums on insurance, but payments of premiums in advance shall not be required for periods of more than one month each, and may at the election of the insured be deducted from the insured’s active-service pay or be otherwise made. An amount equal to the first premium due under a National Service Life Insurance policy may be advanced from current appropriations for active-service pay to any person in the active service in the Army, Navy, Air Force, Marine Corps, Space Force, or Coast Guard, which amount shall constitute a lien upon any service or other pay accruing to the person for whom such advance was made and shall be collected therefrom if not otherwise paid. No disbursing or certifying officer shall be responsible for any loss incurred by reason of such advance. Any amount so advanced in excess of available service or other pay shall constitute a lien on the policy within the provisions of [section 5301(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section5301/b&num=0&edition=prelim).
 
 ### Statutory Notes
 
 #### Amendments
+2021—Pub. L. 116–283 inserted “Space Force,” after “Marine Corps,”.
+
 1991—Pub. L. 102–83 renumbered [section 708 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section708&num=0&edition=prelim) as this section and substituted “Secretary” for “Administrator”.
 
 Pub. L. 102–40 substituted “5301(b)” for “3101(b)”.
@@ -548,8 +550,8 @@ Public Law 816, Seventy-seventh Congress, referred to in subsec. (e), is act Dec
 
 
 <a id="section-1922"></a>
-## § 1922. Service disabled veterans’ insurance
-**(a)** Any person who is released from active military, naval, or air service, under other than dishonorable conditions on or after April 25, 1951, and is found by the Secretary to be suffering from a disability or disabilities for which compensation would be payable if 10 per centum or more in degree and except for which such person would be insurable according to the standards of good health established by the Secretary, shall, upon application in writing made within two years from the date service-connection of such disability is determined by the Secretary and payment of premiums as provided in this subchapter, be granted insurance by the United States against the death of such person occurring while such insurance is in force. If such a person is shown by evidence satisfactory to the Secretary to have been mentally incompetent during any part of the two-year period, application for insurance under this section may be filed within two years after a guardian is appointed or within two years after the removal of such disability as determined by the Secretary, whichever is the earlier date. If the guardian was appointed or the removal of the disability occurred before January 1, 1959, application for insurance under this section may be made within two years after that date. Insurance granted under this section shall be issued upon the same terms and conditions as are contained in the standard policies of National Service Life Insurance except (1) the premium rates for such insurance shall be based on the Commissioners 1941 Standard Ordinary Table of Mortality and interest at the rate of 2¼ per centum per annum; (2) all cash, loan, paid-up, and extended values shall be based upon the Commissioners 1941 Standard Ordinary Table of Mortality and interest at the rate of 2¼ per centum per annum; (3) all settlements on policies involving annuities shall be calculated on the basis of The Annuity Table for 1949, and interest at the rate of 2¼ per centum per annum; (4) insurance granted under this section shall be on a nonparticipating basis and all premiums and other collections therefor shall be credited directly to a revolving fund in the Treasury of the United States, and any payments on such insurance shall be made directly from such fund; and (5) administrative support financed by the appropriations for “General Operating Expenses, Department of Veterans Affairs” and “Information Technology Systems, Department of Veterans Affairs” for the program of insurance under this section shall be paid from premiums credited to the fund under paragraph (4), and payments for claims against the fund under paragraph (4) for amounts in excess of amounts credited to such fund under that paragraph (after such administrative costs have been paid) shall be paid from appropriations to the fund. Appropriations to such fund are hereby authorized. As to insurance issued under this section, waiver of premiums pursuant to section 602(n) of the National Service Life Insurance Act of 1940 and [section 1912 of this title](./chapter-019-insurance.md#section-1912) shall not be denied on the ground that the service-connected disability became total before the effective date of such insurance.
+## § 1922. Legacy service disabled veterans’ insurance
+**(a)** Any person who is released from active military, naval, air, or space service, under other than dishonorable conditions on or after April 25, 1951, and is found by the Secretary to be suffering from a disability or disabilities for which compensation would be payable if 10 per centum or more in degree and except for which such person would be insurable according to the standards of good health established by the Secretary, shall, upon application in writing made within two years from the date service-connection of such disability is determined by the Secretary and payment of premiums as provided in this subchapter, be granted insurance by the United States against the death of such person occurring while such insurance is in force. If such a person is shown by evidence satisfactory to the Secretary to have been mentally incompetent during any part of the two-year period, application for insurance under this section may be filed within two years after a guardian is appointed or within two years after the removal of such disability as determined by the Secretary, whichever is the earlier date. If the guardian was appointed or the removal of the disability occurred before January 1, 1959, application for insurance under this section may be made within two years after that date. Insurance granted under this section shall be issued upon the same terms and conditions as are contained in the standard policies of National Service Life Insurance except (1) the premium rates for such insurance shall be based on the Commissioners 1941 Standard Ordinary Table of Mortality and interest at the rate of 2¼ per centum per annum; (2) all cash, loan, paid-up, and extended values shall be based upon the Commissioners 1941 Standard Ordinary Table of Mortality and interest at the rate of 2¼ per centum per annum; (3) all settlements on policies involving annuities shall be calculated on the basis of The Annuity Table for 1949, and interest at the rate of 2¼ per centum per annum; (4) insurance granted under this section shall be on a nonparticipating basis and all premiums and other collections therefor shall be credited directly to a revolving fund in the Treasury of the United States, and any payments on such insurance shall be made directly from such fund; and (5) administrative support financed by the appropriations for “General Operating Expenses, Department of Veterans Affairs” and “Information Technology Systems, Department of Veterans Affairs” for the program of insurance under this section shall be paid from premiums credited to the fund under paragraph (4), and payments for claims against the fund under paragraph (4) for amounts in excess of amounts credited to such fund under that paragraph (after such administrative costs have been paid) shall be paid from appropriations to the fund. Appropriations to such fund are hereby authorized. As to insurance issued under this section, waiver of premiums pursuant to section 602(n) of the National Service Life Insurance Act of 1940 and [section 1912 of this title](./chapter-019-insurance.md#section-1912) shall not be denied on the ground that the service-connected disability became total before the effective date of such insurance.
 
 **(b)**
 
@@ -569,6 +571,22 @@ Public Law 816, Seventy-seventh Congress, referred to in subsec. (e), is act Dec
 
 **(c)** The premium rate of any term insurance issued under this section shall not exceed the renewal age 70 premium rate.
 
+**(d)**
+
+(1) The Secretary may not accept any application by a veteran to be insured under this section after December 31, 2022.
+
+(2)
+
+  (A) During the period beginning January 1, 2023, and ending December 31, 2025, a veteran who is insured under this section may elect to instead be insured under [section 1922B of this title](./chapter-019-insurance.md#section-1922b) based on the age of the veteran at the time of such election.
+
+  (B)
+
+    (i) A veteran who elects under subparagraph (A) to be insured under [section 1922B of this title](./chapter-019-insurance.md#section-1922b) shall be subject to the two-year waiting period specified in subsection (c) of such section.
+
+    (ii) If the veteran dies during such period, the Secretary shall pay the beneficiary under this section, and, if applicable, under section 1922A, plus the amount of premiums paid by the veteran under such section 1922B, plus interest.
+
+(3) Except as provided by paragraph (2)(B), a veteran may not be insured under this section and section 1922B simultaneously.
+
 ### Statutory Notes
 
 #### References in Text
@@ -577,6 +595,12 @@ Section 602(n) of the National Service Life Insurance Act of 1940, referred to i
 Section 620 of the National Service Life Insurance Act of 1940, referred to in subsec. (b)(1), is section 620 of act Oct. 8, 1940, ch. 757, title VI, pt. I, as added Apr. 25, 1951, ch. 39, pt. II, § 10, 65 Stat. 36, which enacted section 821 of former Title 38, Pensions, Bonuses, and Veterans’ Relief, and which was repealed and the provisions thereof reenacted as this section by Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1105.
 
 #### Amendments
+2021—Pub. L. 116–315, § 2004(c)(1), substituted “Legacy service” for “Service” in section catchline.
+
+Subsec. (a). Pub. L. 116–283 substituted “air, or space service” for “or air service”.
+
+Subsec. (d). Pub. L. 116–315, § 2004(b)(1), added subsec. (d).
+
 2009—Subsec. (a)(5). Pub. L. 111–117 substituted “administrative support financed by the appropriations for ‘General Operating Expenses, Department of Veterans Affairs’ and ‘Information Technology Systems, Department of Veterans Affairs’ for” for “administrative costs to the Government for the costs of”.
 
 2008—Subsec. (a). Pub. L. 110–389 substituted “directly from such fund; and (5) administrative costs to the Government for the costs of the program of insurance under this section shall be paid from premiums credited to the fund under paragraph (4), and payments for claims against the fund under paragraph (4) for amounts in excess of amounts credited to such fund under that paragraph (after such administrative costs have been paid) shall be paid from appropriations to the fund” for “directly from such fund”.
@@ -618,10 +642,10 @@ Pub. L. 102–86, title II, § 202(b), Aug. 14, 1991, 105 Stat. 416, provided th
 
 
 <a id="section-1922a"></a>
-## § 1922A. Supplemental service disabled veterans’ insurance for totally disabled veterans
+## § 1922A. Legacy supplemental service disabled veterans’ insurance for totally disabled veterans
 **(a)** Any person insured under [section 1922(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section1922/a&num=0&edition=prelim) who qualifies for a waiver of premiums under [section 1912 of this title](./chapter-019-insurance.md#section-1912) is eligible, as provided in this section, for supplemental insurance in an amount not to exceed $30,000.
 
-**(b)** To qualify for supplemental insurance under this section a person must file with the Secretary an application for such insurance. Such application must be filed not later than (1) October 31, 1993, or (2) the end of the one-year period beginning on the date on which the Secretary notifies the person that the person is entitled to a waiver of premiums under [section 1912 of this title](./chapter-019-insurance.md#section-1912), whichever is later.
+**(b)** To qualify for supplemental insurance under this section a person must file with the Secretary an application for such insurance. Such application must be filed not later than (1) October 31, 1993, or (2) the end of the one-year period beginning on the date on which the Secretary notifies the person that the person is entitled to a waiver of premiums under [section 1912 of this title](./chapter-019-insurance.md#section-1912), whichever is later. The Secretary may not accept any such application after December 31, 2022. Except as provided by section 1922(d)(2)(B), a veteran may not have supplemental insurance under this section and be insured under section 1922B simultaneously.
 
 **(c)** Supplemental insurance granted under this section shall be granted upon the same terms and conditions as insurance granted under [section 1922(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section1922/a&num=0&edition=prelim), except that such insurance may not be granted to a person under this section unless the application is made for such insurance before the person attains 65 years of age.
 
@@ -630,6 +654,10 @@ Pub. L. 102–86, title II, § 202(b), Aug. 14, 1991, 105 Stat. 416, provided th
 ### Statutory Notes
 
 #### Amendments
+2021—Pub. L. 116–315, § 2004(c)(2), substituted “Legacy supplemental” for “Supplemental” in section catchline.
+
+Subsec. (b). Pub. L. 116–315, § 2004(b)(2), inserted at end “The Secretary may not accept any such application after December 31, 2022. Except as provided by section 1922(d)(2)(B), a veteran may not have supplemental insurance under this section and be insured under section 1922B simultaneously.”
+
 2010—Subsec. (a). Pub. L. 111–275 substituted “$30,000” for “$20,000”.
 
 1994—Subsec. (b). Pub. L. 103–446 substituted “insurance. Such application must be filed not later than (1) October 31, 1993, or (2) the end of the one-year period beginning on the date on which the Secretary” for “insurance not later than the end of (1) the one-year period beginning on the first day of the first month following the month in which this section is enacted, or (2) the one-year period beginning on the date that the Department”.
@@ -639,6 +667,161 @@ Pub. L. 111–275, title IV, § 401(b), Oct. 13, 2010, 124 Stat. 2879, provided 
 
 #### Effective Date
 Pub. L. 102–568, title II, § 205, Oct. 29, 1992, 106 Stat. 4325, provided that: “The amendments made by this title [enacting this section and amending sections 1967, 1977, and 2106 of this title] shall take effect on December 1, 1992.”
+
+
+<a id="section-1922b"></a>
+## § 1922B. Service-disabled veterans insurance
+**(a) Insurance.—**
+
+(1) Beginning January 1, 2023, the Secretary shall carry out a service-disabled veterans insurance program under which a veteran is granted insurance by the United States against the death of such individual occurring while such insurance is in force.
+
+(2) The Secretary may only issue whole-life policies under the insurance program under paragraph (1).
+
+(3) The Secretary may not grant insurance to a veteran under paragraph (1) unless—
+
+  (A) the veteran submits the application for such insurance before the veteran attains 81 years of age; or
+
+  (B) with respect to a veteran who has attained 81 years of age—
+
+    (i) the veteran filed a claim for compensation under chapter 11 of this title before attaining such age;
+
+    (ii) based on such claim, and after the veteran attained such age, the Secretary first determines that the veteran has a service-connected disability; and
+
+    (iii) the veteran submits the application for such insurance during the two-year period following the date of such determination.
+
+(4)
+
+  (A) A veteran enrolled in the insurance program under paragraph (1) may elect to be insured in any of the following amounts:
+
+    (i) $10,000.
+
+    (ii) $20,000.
+
+    (iii) $30,000.
+
+    (iv) $40,000.
+
+    (v) In accordance with subparagraph (B), a maximum amount greater than $40,000.
+
+  (B) The Secretary may establish a maximum amount to be insured under paragraph (1) that is greater than $40,000 if the Secretary—
+
+    (i) determines that such maximum amount and the premiums for such amount—
+
+      (I) are administratively and actuarially sound for the insurance program under paragraph (1); and
+
+      (II) will not result in such program operating at a loss; and
+
+    (ii) publishes in the Federal Register, and submits to the Committee on Veterans’ Affairs of the Senate and the Committee on Veterans’ Affairs of the House of Representatives, such maximum amount and determination.
+
+(5)
+
+  (A)
+
+    (i) Insurance granted under this section shall be on a nonparticipating basis and all premiums and other collections therefor shall be credited directly to a revolving fund in the Treasury of the United States.
+
+    (ii) Any payments on such insurance shall be made directly from such fund.
+
+  (B)
+
+    (i) The Secretary of the Treasury may invest in and sell and retire special interest-bearing obligations of the United States for the account of the revolving fund under subparagraph (A).
+
+    (ii) Such obligations issued for that purpose shall—
+
+      (I) have maturities fixed with due regard for the needs of the fund; and
+
+      (II) bear interest at a rate equal to the average market yield (computed by the Secretary of the Treasury on the basis of market quotations as of the end of the calendar month preceding the date of issue) on all marketable interest-bearing obligations of the United States then forming a part of the public debt which are not due or callable until after the expiration of four years from the end of such calendar month; except that where such average market yield is not a multiple of one-eighth of one per centum, the rate of interest of such obligation shall be the multiple of one-eighth of one per centum nearest such market yield.
+
+(6)
+
+  (A) Administrative support financed by the appropriations for “General Operating Expenses, Department of Veterans Affairs” and “Information Technology Systems, Department of Veterans Affairs” for the insurance program under paragraph (1) shall be paid from premiums credited to the fund under paragraph (5).
+
+  (B) Such payment for administrative support shall be reimbursed for that fiscal year from funds that are available on such insurance after claims have been paid.
+
+**(b) Eligibility.—** A veteran is eligible to enroll in the insurance program under subsection (a)(1) if the veteran has a service-connected disability, without regard to—
+
+(1) whether such disability is compensable under chapter 11 of this title; or
+
+(2) whether the veteran meets standards of good health required for other life insurance policies.
+
+**(c) Enrollment and Waiting Period.—**
+
+(1) An eligible veteran may enroll in the insurance program under subsection (a)(1) at any time.
+
+(2) The life insurance policy of a veteran who enrolls in the insurance program under subsection (a)(1) does not go into force unless—
+
+  (A) a period of two years elapses following the date of such enrollment; and
+
+  (B) the veteran pays the premiums required during such two-year period.
+
+(3)
+
+  (A) If a veteran dies during the two-year period described in paragraph (2), the Secretary shall pay to the beneficiary of the veteran the amount of premiums paid by the veteran under this section, plus interest.
+
+  (B) The Secretary—
+
+    (i) for the initial year of the insurance program under subsection (a)(1)—
+
+      (I) shall set such interest at a rate of one percent; and
+
+      (II) may adjust such rate during such year based on program experience, except that the interest rate may not be less than zero percent;
+
+    (ii) for the second and each subsequent year of the program, shall calculate such interest at an annual rate equal to the rate of return on the revolving fund under subsection (a)(5) for the calendar year preceding the year of the veteran’s death, except that the interest rate may not be less than zero percent; and
+
+    (iii) on an annual basis, shall publish on the internet website of the Department the average interest rate calculated under clause (ii) for the preceding calendar year.
+
+**(d) Premiums.—**
+
+(1) The Secretary shall establish a schedule of basic premium rates by age per $10,000 of insurance under subsection (a)(1) consistent with basic premium rates generally charged for guaranteed acceptance life insurance policies by private life insurance companies.
+
+(2) The Secretary may adjust such schedule after the first policy year in a manner consistent with the general practice of guaranteed acceptance life insurance policies issued by private life insurance companies.
+
+(3) [Section 1912 of this title](./chapter-019-insurance.md#section-1912) shall not apply to life insurance policies under subsection (a)(1), and the Secretary may not otherwise waive premiums for such insurance policies.
+
+**(e) Beneficiaries.—**
+
+(1) A veteran who enrolls in the insurance program under subsection (a)(1) may designate a beneficiary of the life insurance policy.
+
+(2) If a veteran enrolled in the insurance program under subsection (a)(1) does not designate a beneficiary under paragraph (1) before the veteran dies, or if a designated beneficiary predeceases the veteran, the Secretary shall determine the beneficiary in the following order:
+
+  (A) The surviving spouse of the veteran.
+
+  (B) The children of the veteran and descendants of deceased children by representation.
+
+  (C) The parents of the veteran or the survivors of the parents.
+
+  (D) The duly appointed executor or administrator of the estate of the veteran.
+
+  (E) Other next of kin of the veteran entitled under the laws of domicile of the veteran at the time of the death of the veteran.
+
+**(f) Claims.—**
+
+(1) If the deceased veteran designated a beneficiary under subsection (e)(1)—
+
+  (A) the designated beneficiary is the only person who may file a claim for payment under subsection (g) during the one-year period beginning on the date of the death of the veteran; and
+
+  (B) if the designated beneficiary does not file a claim for the payment during the period described in paragraph (1), or if payment to the designated beneficiary within that period is prohibited by Federal statute or regulation, a beneficiary described in subsection (e)(2) may file a claim for such payment during the one-year period following the period described in subparagraph (A) as if the designated beneficiary had predeceased the veteran.
+
+(2) If the deceased veteran did not designate a beneficiary under subsection (e)(1), or if the designated beneficiary predeceased the veteran, a beneficiary described in subsection (e)(2) may file a claim for payment under subsection (g) during the two-year period beginning on the date of the death of the veteran.
+
+(3) If, on the date that is two years after the date of the death of the veteran, no claim for payment has been filed by any beneficiary pursuant to paragraph (1) or (2), and the Secretary has not received notice that any such claim will be so filed during the subsequent one-year period, the Secretary may make the payment to a claimant whom the Secretary determines to be equitably entitled to such payment.
+
+**(g) Payments.—**
+
+(1) In a case described in subsection (f)—
+
+  (A) in paragraph (1)(A), the Secretary shall pay the designated beneficiary not later than 90 days after the designated beneficiary files a complete and valid claim for payment;
+
+  (B) in paragraph (1)(B) or (2), the Secretary shall make any payment not later than one year after the end of the period described in the applicable such paragraph, if the Secretary receives a complete and valid claim for payment in accordance with the applicable such paragraph; or
+
+  (C) in paragraph (3), the Secretary shall make any payment not later than one year after the end of the period described in such paragraph, if the Secretary receives a complete and valid claim for payment.
+
+(2) In a case where the Secretary has not made an insurance payment under this section during the applicable period specified in paragraph (1) by reason of a beneficiary not yet having filed a claim, or the Secretary not yet making a determination under subsection (f)(3), the Secretary may make the payment after such applicable period.
+
+(3) Notwithstanding [section 1917 of this title](./chapter-019-insurance.md#section-1917), the Secretary shall make an insurance payment under this section in a lump sum.
+
+(4) The Secretary may not make an insurance payment under this section if such payment will escheat to a State.
+
+(5) Any payment under this subsection shall be a bar to recovery by any other person.
 
 
 <a id="section-1923"></a>
@@ -1324,7 +1507,7 @@ For the purpose of this subchapter—
 
   (A) full-time duty in the Armed Forces, other than active duty for training;
 
-  (B) full-time duty (other than for training purposes) as a commissioned officer of the Regular or Reserve Corps of the Public Health Service;
+  (B) full-time duty (other than for training purposes) as a commissioned officer of the Regular or Reserve Corps 11 See Change of Name note below. of the Public Health Service;
 
   (C) full-time duty as a commissioned officer of the National Oceanic and Atmospheric Administration; and
 
@@ -1334,7 +1517,7 @@ For the purpose of this subchapter—
 
   (A) full-time duty in the Armed Forces performed by Reserves for training purposes;
 
-  (B) full-time duty for training purposes performed as a commissioned officer of the Reserve Corps of the Public Health Service;
+  (B) full-time duty for training purposes performed as a commissioned officer of the Reserve Corps 1 of the Public Health Service;
 
   (C) full-time duty as a member, cadet, or midshipman of the Reserve Officers Training Corps while attending field training or practice cruises; and
 
@@ -1342,7 +1525,7 @@ For the purpose of this subchapter—
 
 (3) The term “inactive duty training” means—
 
-  (A) duty (other than full-time duty) prescribed or authorized for Reserves (including commissioned officers of the Reserve Corps of the Public Health Service) which duty is scheduled in advance by competent authority to begin at a specific time and place; and
+  (A) duty (other than full-time duty) prescribed or authorized for Reserves (including commissioned officers of the Reserve Corps 1 of the Public Health Service) which duty is scheduled in advance by competent authority to begin at a specific time and place; and
 
   (B) in the case of a member of the National Guard or Air National Guard of any State, such term means duty (other than full-time duty) which is scheduled in advance by competent authority to begin at a specific time and place under sections 316, 502, 503, 504, or 505 of title 32, United States Code.
 
@@ -1354,7 +1537,7 @@ For the purpose of this subchapter—
 
   (B) a person who volunteers for assignment to the Ready Reserve of a uniformed service and is assigned to a unit or position in which such person may be required to perform active duty, or active duty for training, and each year will be scheduled to perform at least twelve periods of inactive duty training that is creditable for retirement purposes under chapter 1223 of title 10 (or under chapter 67 of that title as in effect before the effective date of the Reserve Officer Personnel Management Act);
 
-  (C) a person who volunteers for assignment to a mobilization category in the Individual Ready Reserve, as defined in section 12304(i)(1) 11 See References in Text note below. of title 10; and
+  (C) a person who volunteers for assignment to a mobilization category in the Individual Ready Reserve, as defined in section 12304(i)(1) 22 See References in Text note below. of title 10; and
 
   (D) a member, cadet, or midshipman of the Reserve Officers Training Corps while attending field training or practice cruises.
 
@@ -1443,6 +1626,9 @@ Par. (5)(A). Pub. L. 92–315, § 1(4), expanded definition of “member” to i
 1971—Pars. (7) to (9). Pub. L. 92–185 added pars. (7) to (9) defining, respectively, “widow” or “widower”, “child”, and “parent”.
 
 1970—Pub. L. 91–291 struck out from definition of “active duty” a reference to calls or orders to duty which specify a period of 30 days or less, inserted definitions for “active duty for training” and “inactive duty training”, and, in definition of “uniformed services”, inserted provisions limiting the scope of that term in the case of personnel of the Public Health Service and the Environmental Science Services Administration to the commissioned corps thereof respectively.
+
+#### Change of Name
+Reference to Reserve Corps of the Public Health Service deemed to be a reference to the Ready Reserve Corps, see [section 402(c)(3) of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section402/c/3&num=0&edition=prelim), The Public Health and Welfare.
 
 #### Effective Date of 2005 Amendment
 Amendment by Pub. L. 109–13 effective on the first day of the first month beginning more than 180 days after May 11, 2005, see section 1032(d)(1) of Pub. L. 109–13, set out as an Effective Date note under [section 1980A of this title](./chapter-019-insurance.md#section-1980a).
@@ -1538,7 +1724,7 @@ Subsec. (d). Pub. L. 99–576, § 701(36)(B), substituted “the Administrator�
 
   (C) In no case may the amount of insurance coverage under this subsection of a member’s spouse exceed the amount of insurance coverage of the member.
 
-  (D) In the case of a member who elects under paragraph (2)(A) not to be insured under this section, or who elects under subparagraph (B) to be insured for an amount less than the maximum amount provided under subparagraph (A), and who is deployed to a combat theater of operations 11 So in original. Probably should be followed by a comma. the member—
+  (D) In the case of a member who elects under paragraph (2)(A) not to be insured under this section, or who elects under subparagraph (B) to be insured for an amount less than the maximum amount provided under subparagraph (A), and who is deployed to a combat theater of operations, the member—
 
     (i) shall be insured under this subchapter for the maximum amount provided under subparagraph (A) for the period of such deployment; and
 
@@ -1606,6 +1792,8 @@ shall be deemed to have been on active duty, active duty for training, or inacti
 ### Statutory Notes
 
 #### Amendments
+2021—Subsec. (a)(3)(D). Pub. L. 116–283 inserted a comma after “theater of operations” in introductory provisions.
+
 2018—Subsec. (a)(3)(A). Pub. L. 115–232, § 625(1), substituted “subparagraphs (B), (C), and (D)” for “subparagraphs (B) and (C)” in introductory provisions.
 
 Subsec. (a)(3)(D). Pub. L. 115–232, § 625(2), added subpar. (D).
@@ -2777,9 +2965,21 @@ Section effective 90 days after Nov. 11, 1998, see section 302(c) of Pub. L. 105
 
   (B) elect that a court of proper jurisdiction designate an individual as the member’s fiduciary or trustee for purposes of subsection (a) in the event that the member becomes medically incapacitated or experiences an extended loss of consciousness.
 
+**(l)**
+
+(1) If a claim for benefits under this section is denied, the Secretary concerned shall provide to the member at the same time as the member is informed of such denial a description of the following:
+
+  (A) Each reason for that denial, including a description of all the information upon which the denial is based and a description of the applicable laws, regulations, or policies, with appropriate citations, and an explanation of how such laws, regulations, or policies affected the denial.
+
+  (B) Each finding that is favorable to the member.
+
+(2) Any finding favorable to the member as described in paragraph (1)(B) shall be binding on all subsequent reviews or appeals of the denial of the claim, unless clear and convincing evidence is shown to the contrary to rebut such favorable finding.
+
 ### Statutory Notes
 
 #### Amendments
+2021—Subsec. (l). Pub. L. 116–315 added subsec. (l).
+
 2010—Subsec. (d). Pub. L. 111–275, § 406(a)(1), designated existing provisions as par. (1) and added par. (2).
 
 Subsec. (h). Pub. L. 111–275, § 1001(d)(2), inserted “section” before “1968(a)”.

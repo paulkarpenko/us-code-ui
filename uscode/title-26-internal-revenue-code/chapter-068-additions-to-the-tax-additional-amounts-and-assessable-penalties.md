@@ -15,7 +15,7 @@ source: >-
 (2) to pay the amount shown as tax on any return specified in paragraph (1) on or before the date prescribed for payment of such tax (determined with regard to any extension of time for payment), unless it is shown that such failure is due to reasonable cause and not due to willful neglect, there shall be added to the amount shown as tax on such return 0.5 percent of the amount of such tax if the failure is for not more than 1 month, with an additional 0.5 percent for each additional month or fraction thereof during which such failure continues, not exceeding 25 percent in the aggregate; or
 
 (3) to pay any amount in respect of any tax required to be shown on a return specified in paragraph (1) which is not so shown (including an assessment made pursuant to section 6213(b)) within 21 calendar days from the date of notice and demand therefor (10 business days if the amount for which such notice and demand is made equals or exceeds $100,000), unless it is shown that such failure is due to reasonable cause and not due to willful neglect, there shall be added to the amount of tax stated in such notice and demand 0.5 percent of the amount of such tax if the failure is for not more than 1 month, with an additional 0.5 percent for each additional month or fraction thereof during which such failure continues, not exceeding 25 percent in the aggregate.
-In the case of a failure to file a return of tax imposed by chapter 1 within 60 days of the date prescribed for filing of such return (determined with regard to any extensions of time for filing), unless it is shown that such failure is due to reasonable cause and not due to willful neglect, the addition to tax under paragraph (1) shall not be less than the lesser of $205 or 100 percent of the amount required to be shown as tax on such return.
+In the case of a failure to file a return of tax imposed by chapter 1 within 60 days of the date prescribed for filing of such return (determined with regard to any extensions of time for filing), unless it is shown that such failure is due to reasonable cause and not due to willful neglect, the addition to tax under paragraph (1) shall not be less than the lesser of $435 or 100 percent of the amount required to be shown as tax on such return.
 
 **(b) Penalty imposed on net amount due** For purposes of—
 
@@ -61,28 +61,23 @@ In the case of a failure to file a return of tax imposed by chapter 1 within 60 
 
 **(j) Adjustment for inflation**
 
-(1) **In general** — In the case of any return required to be filed in a calendar year beginning after 2014, the $205 dollar amount under subsection (a) shall be increased by an amount equal to such dollar amount multiplied by the cost-of-living adjustment determined under section 1(f)(3) for the calendar year determined by substituting “calendar year 2013” for “calendar year 2016” in subparagraph (A)(ii) thereof.
+(1) **In general** — In the case of any return required to be filed in a calendar year beginning after 2020, the $435 dollar amount under subsection (a) shall be increased by an amount equal to such dollar amount multiplied by the cost-of-living adjustment determined under section 1(f)(3) for the calendar year determined by substituting “calendar year 2019” for “calendar year 2016” in subparagraph (A)(ii) thereof.
 
 (2) **Rounding** — If any amount adjusted under paragraph (1) is not a multiple of $5, such amount shall be rounded to the next lowest multiple of $5.
 
 ### Statutory Notes
 
-#### Amendment of Section
-Pub. L. 116–25, title III, § 3201, July 1, 2019, 133 Stat. 1017, applicable to returns required to be filed after Dec. 31, 2019, amended this section as follows:
-
-(1) in subsection (a), by striking “$205” and inserting “$330”; and
-
-(2) in subsection (j)(1), by striking “2014” and inserting “2020”, striking “$205” and inserting “$330”, and striking “2013” and inserting “2019”.
-
-See 2019 Amendment notes below.
-
 #### Inflation Adjusted Items for Certain Years
 For inflation adjustment of certain items in this section, see Revenue Procedures listed in a table under [section 1 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-1).
 
 #### Amendments
-2019—Subsec. (a). Pub. L. 116–25, § 3201(a), substituted “$330” for “$205” in concluding provisions.
+2019—Subsec. (a). Pub. L. 116–94, § 402(a), substituted “$435” for “$330” in concluding provisions.
 
-Subsec. (j)(1). Pub. L. 116–25, § 3201(b), substituted “2020” for “2014”, “$330” for “$205” and “2019” for “2013”.
+Pub. L. 116–25, § 3201(a), substituted “$330” for “$205” in concluding provisions.
+
+Subsec. (j)(1). Pub. L. 116–94, § 402(b), substituted “$435” for “$330”.
+
+Pub. L. 116–25, § 3201(b), substituted “2020” for “2014”, “$330” for “$205”, and “2019” for “2013”.
 
 2018—Subsec. (i). Pub. L. 115–141, § 206(n)(1), added subsec. (i). Former subsec. (i) redesignated (j).
 
@@ -135,6 +130,8 @@ Subsecs. (c), (d). Pub. L. 91–172 added subsec. (c), redesignated former subse
 1968—Subsec. (c). Pub. L. 90–364 struck out reference to section 6016.
 
 #### Effective Date of 2019 Amendment
+Pub. L. 116–94, div. O, title IV, § 402(c), Dec. 20, 2019, 133 Stat. 3180, provided that: “The amendments made by this section [amending this section] shall apply to returns the due date for which (including extensions) is after December 31, 2019.”
+
 Pub. L. 116–25, title III, § 3201(c), July 1, 2019, 133 Stat. 1017, provided that: “The amendments made by this section [amending this section] shall apply to returns required to be filed after December 31, 2019.”
 
 #### Effective Date of 2018 Amendment
@@ -279,11 +276,11 @@ on the date prescribed therefor (determined with regard to any extension of time
 
 **(d) Annual registration and other notification by pension plan**
 
-(1) **Registration** — In the case of any failure to file a registration statement required under section 6057(a) (relating to annual registration of certain plans) which includes all participants required to be included in such statement, on the date prescribed therefor (determined without regard to any extension of time for filing), unless it is shown that such failure is due to reasonable cause, there shall be paid (on notice and demand by the Secretary and in the same manner as tax) by the person failing so to file, an amount equal to $1 for each participant with respect to whom there is a failure to file, multiplied by the number of days during which such failure continues, but the total amount imposed under this paragraph on any person for any failure to file with respect to any plan year shall not exceed $5,000.
+(1) **Registration** — In the case of any failure to file a registration statement required under section 6057(a) (relating to annual registration of certain plans) which includes all participants required to be included in such statement, on the date prescribed therefor (determined without regard to any extension of time for filing), unless it is shown that such failure is due to reasonable cause, there shall be paid (on notice and demand by the Secretary and in the same manner as tax) by the person failing so to file, an amount equal to $10 for each participant with respect to whom there is a failure to file, multiplied by the number of days during which such failure continues, but the total amount imposed under this paragraph on any person for any failure to file with respect to any plan year shall not exceed $50,000.
 
-(2) **Notification of change of status** — In the case of failure to file a notification required under section 6057(b) (relating to notification of change of status) on the date prescribed therefor (determined without regard to any extension of time for filing), unless it is shown that such failure is due to reasonable cause, there shall be paid (on notice and demand by the Secretary and in the same manner as tax) by the person failing so to file, $1 for each day during which such failure continues, but the total amounts imposed under this paragraph on any person for failure to file any notification shall not exceed $1,000.
+(2) **Notification of change of status** — In the case of failure to file a notification required under section 6057(b) (relating to notification of change of status) on the date prescribed therefor (determined without regard to any extension of time for filing), unless it is shown that such failure is due to reasonable cause, there shall be paid (on notice and demand by the Secretary and in the same manner as tax) by the person failing so to file, $10 for each day during which such failure continues, but the total amounts imposed under this paragraph on any person for failure to file any notification shall not exceed $10,000.
 
-**(e) Information required in connection with certain plans of deferred compensation, etc.** In the case of failure to file a return or statement required under section 6058 (relating to information required in connection with certain plans of deferred compensation), 6047 (relating to information relating to certain trusts and annuity and bond purchase plans), or 6039D (relating to returns and records with respect to certain fringe benefit plans) on the date and in the manner prescribed therefor (determined with regard to any extension of time for filing), unless it is shown that such failure is due to reasonable cause, there shall be paid (on notice and demand by the Secretary and in the same manner as tax) by the person failing so to file, $25 for each day during which such failure continues, but the total amount imposed under this subsection on any person for failure to file any return shall not exceed $15,000. This subsection shall not apply to any return or statement which is an information return described in section 6724(d)(1)(C)(ii) or a payee statement described in section 6724(d)(2)(AA).
+**(e) Information required in connection with certain plans of deferred compensation, etc.** In the case of failure to file a return or statement required under section 6058 (relating to information required in connection with certain plans of deferred compensation), 6047 (relating to information relating to certain trusts and annuity and bond purchase plans), or 6039D (relating to returns and records with respect to certain fringe benefit plans) on the date and in the manner prescribed therefor (determined with regard to any extension of time for filing), unless it is shown that such failure is due to reasonable cause, there shall be paid (on notice and demand by the Secretary and in the same manner as tax) by the person failing so to file, $250 for each day during which such failure continues, but the total amount imposed under this subsection on any person for failure to file any return shall not exceed $150,000. This subsection shall not apply to any return or statement which is an information return described in section 6724(d)(1)(C)(ii) or a payee statement described in section 6724(d)(2)(AA).
 
 **(f) Returns required under section 6039C**
 
@@ -300,7 +297,7 @@ on the date prescribed therefor (determined with regard to any extension of time
 
 **(g) Repealed. Pub. L. 113–295, div. A, title II, § 221(a)(39)(B), Dec. 19, 2014, 128 Stat. 4043]**
 
-**(h) Failure to give notice to recipients of certain pension, etc., distributions** In the case of each failure to provide notice as required by section 3405(e)(10)(B), at the time prescribed therefor, unless it is shown that such failure is due to reasonable cause and not to willful neglect, there shall be paid, on notice and demand of the Secretary and in the same manner as tax, by the person failing to provide such notice, an amount equal to $10 for each such failure, but the total amount imposed on such person for all such failures during any calendar year shall not exceed $5,000.
+**(h) Failure to give notice to recipients of certain pension, etc., distributions** In the case of each failure to provide notice as required by section 3405(e)(10)(B), at the time prescribed therefor, unless it is shown that such failure is due to reasonable cause and not to willful neglect, there shall be paid, on notice and demand of the Secretary and in the same manner as tax, by the person failing to provide such notice, an amount equal to $100 for each such failure, but the total amount imposed on such person for all such failures during any calendar year shall not exceed $50,000.
 
 **(i) Failure to give written explanation to recipients of certain qualifying rollover distributions** In the case of each failure to provide a written explanation as required by section 402(f), at the time prescribed therefor, unless it is shown that such failure is due to reasonable cause and not to willful neglect, there shall be paid, on notice and demand of the Secretary and in the same manner as tax, by the person failing to provide such written explanation, an amount equal to $100 for each such failure, but the total amount imposed on such person for all such failures during any calendar year shall not exceed $50,000.
 
@@ -329,6 +326,18 @@ Sections 1201(b)(2) and 1223(d) of Pub. L. 109–280, which directed the amendme
 Pub. L. 101–140, § 203(a)(1), amended this section to read as if the amendments made by section 1151(b) of Pub. L. 99–514 (enacting subsec. (l)) had not been enacted. Subsequent to enactment by Pub. L. 99–514, subsec. (l) was amended by Pub. L. 100–203, Pub. L. 100–647, and Pub. L. 101–239. See 1989, 1988, and 1987 Amendment notes below.
 
 #### Amendments
+2019—Subsec. (d)(1). Pub. L. 116–94, § 403(b)(2), substituted “$50,000” for “$5,000”.
+
+Pub. L. 116–94, § 403(b)(1), substituted “$10” for “$1”.
+
+Subsec. (d)(2). Pub. L. 116–94, § 403(b)(3), substituted “$10,000” for “$1,000”.
+
+Pub. L. 116–94, § 403(b)(1), substituted “$10” for “$1”.
+
+Subsec. (e). Pub. L. 116–94, § 403(a), substituted “$250” for “$25” and “$150,000” for “$15,000”.
+
+Subsec. (h). Pub. L. 116–94, § 403(c), substituted “$100” for “$10” and “$50,000” for “$5,000”.
+
 2018—Subsec. (c)(7)(A). Pub. L. 115–141, § 401(a)(299)(B), inserted “an amount equal to” after “increased by” and “for the calendar year” after “section 1(f)(3)”.
 
 Subsec. (e). Pub. L. 115–141, § 401(a)(300), substituted “section 6724(d)(2)(AA)” for “section 6724(d)(2)(Y)”.
@@ -536,6 +545,9 @@ Subsec. (b). Pub. L. 87–834 redesignated former subsec. (a) as (b), and substi
 Subsec. (c). Pub. L. 87–834 redesignated former subsec. (b) as (c).
 
 1958—Subsec. (a). Pub. L. 85–866 substituted “section 6042(1)” for “section 6042” and “(upon notice and demand by the Secretary or his delegate and in the same manner as tax), by the person failing to so file the statement, $1 for each such statement not so filed” for “by the person failing to file the statement, upon notice and demand by the Secretary or his delegate and in the same manner as tax, $1 for each such statement not filed”, deleted “section 6045 (relating to returns of brokers)” after “patronage dividends)” and inserted “on the date prescribed therefor (determined with regard to any extension of time for filing)” after “income tax withheld),”.
+
+#### Effective Date of 2019 Amendment
+Pub. L. 116–94, div. O, title IV, § 403(d), Dec. 20, 2019, 133 Stat. 3180, provided that: “The amendments made by this section [amending this section] shall apply to returns, statements, and notifications required to be filed, and notices required to be provided, after December 31, 2019.”
 
 #### Effective Date of 2017 Amendment
 Amendment by section 11002(d)(1)(LL) of Pub. L. 115–97 applicable to taxable years beginning after Dec. 31, 2017, see section 11002(e) of Pub. L. 115–97, set out as a note under [section 1 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-1).
@@ -2144,6 +2156,8 @@ Repeal applicable to returns the due date for which (determined without regard t
 (7) Any undisclosed foreign financial asset understatement.
 
 (8) Any inconsistent estate basis.
+
+(9) Any overstatement of the deduction provided in section 170(p).
 This section shall not apply to any portion of an underpayment on which a penalty is imposed under section 6663. Except as provided in paragraph (1) or (2)(B) of section 6662A(e), this section shall not apply to the portion of any underpayment which is attributable to a reportable transaction understatement on which a penalty is imposed under section 6662A.
 
 **(c) Negligence** For purposes of this section, the term “negligence” includes any failure to make a reasonable attempt to comply with the provisions of this title, and the term “disregard” includes any careless, reckless, or intentional disregard.
@@ -2299,9 +2313,13 @@ This section shall not apply to any portion of an underpayment on which a penalt
 
 **(k) Inconsistent estate basis reporting** For purposes of this section, the term “inconsistent estate basis” means any portion of an underpayment attributable to the failure to comply with section 1014(f).
 
+**(l) Increase in penalty in case of overstatement of qualified charitable contributions** In the case of any portion of an underpayment which is attributable to one or more overstatements of the deduction provided in section 170(p), subsection (a) shall be applied with respect to such portion by substituting “50 percent” for “20 percent”.
+
 ### Statutory Notes
 
 #### Codification
+Another section 212(b) of div. EE of Pub. L. 116–260 amended [section 63 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-63).
+
 Section 1409(b)(1), (2) of Pub. L. 111–152, which directed the amendment of section 6662 without specifying the act to be amended, was executed to this section, which is section 6662 of the Internal Revenue Code of 1986, to reflect the probable intent of Congress. See 2010 Amendment notes below.
 
 Section 1219(a)(1), (2) of Pub. L. 109–280, which directed the amendment of section 6662 without specifying the act to be amended, was executed to this section, which is section 6662 of the Internal Revenue Code of 1986, to reflect the probable intent of Congress. See 2006 Amendment notes below.
@@ -2310,6 +2328,10 @@ Section 1219(a)(1), (2) of Pub. L. 109–280, which directed the amendment of se
 A prior section 6662, acts Aug. 16, 1954, ch. 736, 68A Stat. 827, § 6659; May 14, 1960, Pub. L. 86–470, § 1, 74 Stat. 132; Dec. 30, 1969, Pub. L. 91–172, title I, § 101(j)(51), 83 Stat. 531; Sept. 2, 1974, Pub. L. 93–406, title II, § 1016(a)(19), 88 Stat. 931; renumbered § 6660, Aug. 13, 1981, Pub. L. 97–34, title VII, § 722(a)(1), 95 Stat. 341; renumbered § 6662, Sept. 3, 1982, Pub. L. 97–248, title III, § 323(a), 96 Stat. 613, directed that additions be treated as tax and set procedure for assessing certain additions to tax, prior to repeal by Pub. L. 101–239, title VII, § 7721(a), Dec. 19, 1989, 103 Stat. 2395, applicable to returns the due date for which (determined without regard to extensions) is after Dec. 31, 1989. See [section 6665 of this title](./chapter-068-additions-to-the-tax-additional-amounts-and-assessable-penalties.md#section-6665).
 
 #### Amendments
+2020—Subsec. (b)(9). Pub. L. 116–260, § 212(b)(1), added par. (9).
+
+Subsec. (l). Pub. L. 116–260, § 212(b)(2), added subsec. (l)
+
 2018—Subsec. (d)(1)(C). Pub. L. 115–141, § 101(a)(2)(A), substituted “any deduction” for “the deduction”.
 
 Subsec. (d)(3). Pub. L. 115–141, § 401(a)(303), substituted “section 6664(d)(3)” for “section 6664(d)(2)”.
@@ -2403,6 +2425,9 @@ Subsec. (e). Pub. L. 101–508, § 11312(a), substituted “misstatement” for 
 “(2) Limitation.—No penalty shall be imposed by reason of subsection (b)(3) unless the portion of the underpayment for the taxable year attributable to substantial valuation overstatements under chapter 1 exceeds $5,000 ($10,000 in the case of a corporation other than an S corporation or a personal holding company (as defined in section 542)).”
 
 Subsec. (h)(2)(A). Pub. L. 101–508, § 11312(b)(2), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “any substantial valuation overstatement under chapter 1 as determined under subsection (e) by substituting ‘400 percent’ for ‘200 percent’,”.
+
+#### Effective Date of 2020 Amendment
+Amendment by Pub. L. 116–260 applicable to taxable years beginning after Dec. 31, 2020, see section 212(d) of div. EE of Pub. L. 116–260, set out as a note under [section 62 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-62).
 
 #### Effective Date of 2018 Amendment
 Amendment by section 101(a)(2)(A) of Pub. L. 115–141 effective as if included in section 11011 of Pub. L. 115–97, see section 101(d) of Pub. L. 115–141, set out as a note under [section 62 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-62).
@@ -5870,13 +5895,22 @@ Section applicable to penalties imposed after Dec. 31, 2004, see section 863(e) 
 
 (2) **Exceptions** — Paragraph (1) shall not apply to—
 
-  (A) any addition to tax under section 6651, 6654, or 6655; or
+  (A) any addition to tax under section 6651, 6654, 6655, or 6662 (but only with respect to an addition to tax by reason of subsection (b)(9) thereof); or
 
   (B) any other penalty automatically calculated through electronic means.
 
 **(c) Penalties** For purposes of this section, the term “penalty” includes any addition to tax or any additional amount.
 
 ### Statutory Notes
+
+#### Codification
+Another section 212(b) of div. EE of Pub. L. 116–260 amended [section 63 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-63).
+
+#### Amendments
+2020—Subsec. (b)(2)(A). Pub. L. 116–260 substituted “6655, or 6662 (but only with respect to an addition to tax by reason of subsection (b)(9) thereof)” for “or 6655”.
+
+#### Effective Date of 2020 Amendment
+Amendment by Pub. L. 116–260 applicable to taxable years beginning after Dec. 31, 2020, see section 212(d) of div. EE of Pub. L. 116–260, set out as a note under [section 62 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-62).
 
 #### Effective Date
 Pub. L. 105–206, title III, § 3306(c), July 22, 1998, 112 Stat. 744, as amended by Pub. L. 106–554, § 1(a)(7) [title III, § 302(b)], Dec. 21, 2000, 114 Stat. 2763, 2763A–632, provided that: “The amendments made by this section [enacting this subchapter] shall apply to notices issued, and penalties assessed, after June 30, 2001. In the case of any notice of penalty issued after June 30, 2001, and before July 1, 2003, the requirements of section 6751(a) of the Internal Revenue Code of 1986 shall be treated as met if such notice contains a telephone number at which the taxpayer can request a copy of the taxpayer’s assessment and payment history with respect to such penalty.”

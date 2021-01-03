@@ -2,7 +2,7 @@
 title: 15
 chapter: '40'
 heading: DEPARTMENT OF COMMERCE
-section_count: 62
+section_count: 63
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15&num=0&edition=prelim
 ---
@@ -73,7 +73,7 @@ Section 307 of Reorg. Plan No. 21 of 1950, eff. May 24, 1950, 15 F.R. 3178, 64 S
 Ex. Ord. No. 13339, May 13, 2004, 69 F.R. 28037, as amended by Ex. Ord. No. 13403, § 3, May 12, 2006, 71 F.R. 28543, which established in the Department of Commerce a President’s Advisory Commission on Asian Americans and Pacific Islanders, was superseded by Ex. Ord. No. 13515, § 4(a), Oct. 14, 2009, 74 F.R. 53638, set out below.
 
 #### Executive Order No. 13515
-Ex. Ord. No. 13515, Oct. 14, 2009, 74 F.R. 53635, as amended by Ex. Ord. No. 13585, § 4, Oct. 7, 2011, 76 F.R. 62282; Ex. Ord. No. 13652, § 8, Sept. 30, 2013, 78 F.R. 61819, which established the President’s Advisory Commission on Asian Americans and Pacific Islanders and White House Initiative on Asian Americans and Pacific Islanders, was superseded by Ex. Ord. No. 13872, § 4(a), May 13, 2019, 84 F.R. 22324, set out below.
+Ex. Ord. No. 13515, Oct. 14, 2009, 74 F.R. 53635, as amended by Ex. Ord. No. 13585, § 4, Sept. 30, 2011, 76 F.R. 62282; Ex. Ord. No. 13652, § 8, Sept. 30, 2013, 78 F.R. 61819, which established the President’s Advisory Commission on Asian Americans and Pacific Islanders and White House Initiative on Asian Americans and Pacific Islanders, was superseded by Ex. Ord. No. 13872, § 4(a), May 13, 2019, 84 F.R. 22324, set out below.
 
 #### Extension of Term of Commission on Asian Americans and Pacific Islanders
 Prior to revocation of Ex. Ord. No. 13515, term of Commission on Asian Americans and Pacific Islanders was extended until Sept. 30, 2019, by Ex. Ord. No. 13811, § 1(s), Sept. 29, 2017, 82 F.R. 46363, formerly set out in a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
@@ -123,7 +123,7 @@ Sec. 2. President’s Advisory Commission on Asian Americans and Pacific Islande
 
 (c) Administration of the Commission. (i) The Secretary of Commerce, in consultation with the Secretary of Transportation, shall designate an Executive Director for the Commission. The Department of Commerce shall provide funding and administrative support for the Commission to the extent permitted by law and within existing appropriations, and shall, as necessary and appropriate under [section 1535 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1535&num=0&edition=prelim), United States Code, enter into one or more agreements to obtain goods or services from the Department of Transportation in support of the Commission. The heads of other executive departments and agencies shall assist and provide information to the Commission, consistent with applicable law, as may be necessary to carry out its functions. Each executive department and agency shall bear its own expenses of assisting the Commission.
 
-(ii) Members of the Commission shall serve without compensation, but shall be allowed travel expenses, including per diem in lieu of subsistence, as authorized by law for persons serving intermittently in the Government service ([5 U.S.C. 5701–570](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5701–570&num=0&edition=prelim)7). Insofar as the Federal Advisory Committee Act, as amended (5 U.S.C. App.) [Pub. L. 92–463] (the “Act”), may apply to the administration of the Commission, any functions of the President under the Act, except that of reporting to the Congress, shall be performed by the Secretaryof Commerce, in consultation with the Secretary of Transportation, in accordance with the guidelines issued by the Administrator of General Services.
+(ii) Members of the Commission shall serve without compensation, but shall be allowed travel expenses, including per diem in lieu of subsistence, as authorized by law for persons serving intermittently in the Government service ([5 U.S.C. 5701–570](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5701–570&num=0&edition=prelim)7). Insofar as the Federal Advisory Committee Act, as amended (5 U.S.C. App.) [Pub. L. 92–463] (the “Act”), may apply to the administration of the Commission, any functions of the President under the Act, except that of reporting to the Congress, shall be performed by the Secretary of Commerce, in consultation with the Secretary of Transportation, in accordance with the guidelines issued by the Administrator of General Services.
 
 (d) Termination Date. The Commission shall terminate 2 years from the date of this order [May 13, 2019], unless renewed by the President prior to that date.
 
@@ -204,6 +204,9 @@ Sec. 4. General Provisions. (a) This order supersedes section 1(s) of Executive 
 (e) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
 
 Donald J. Trump.
+
+#### Extension of Term of Commission on Asian Americans and Pacific Islanders
+Term of Commission on Asian Americans and Pacific Islanders extended until Sept. 30, 2021, by Ex. Ord. No. 13889, Sept. 27, 2019, 84 F.R. 52743, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
 
 
 <a id="section-1502-1503"></a>
@@ -778,6 +781,11 @@ Section was formerly classified to [section 596 of Title 5](https://uscode.house
 #### Amendments
 1981—Pub. L. 97–31 struck out references to shipping and transportation facilities.
 
+#### Assistance to Fishery Participants
+Pub. L. 116–136, div. B, title II, § 12005, Mar. 27, 2020, 134 Stat. 518, provided that: “(a) In General.—The Secretary of Commerce is authorized to provide assistance to Tribal, subsistence, commercial, and charter fishery participants affected by the novel coronavirus (COVID–19), which may include direct relief payments. “(b) Fishery Participants.—For the purposes of this section, ‘fishery participants’ include Tribes, persons, fishing communities, aquaculture businesses not otherwise eligible for assistance under part 1416 of title 7 of the Code of Federal Regulations for losses related to COVID–19, processors, or other fishery-related businesses, who have incurred, as a direct or indirect result of the coronavirus pandemic—“(1) economic revenue losses greater than 35 percent as compared to the prior 5-year average revenue; or “(2) any negative impacts to subsistence, cultural, or ceremonial fisheries. “(c) Rolling Basis.—Funds may be awarded under this section on a rolling basis, and within a fishing season, to ensure rapid delivery of funds during the COVID–19 pandemic. “(d) Appropriations.—In addition to funds that are otherwise made available to assist fishery participants under this Act [div. B of Pub. L. 116–136, see Tables for classification], there are authorized to be appropriated, and there are appropriated, $300,000,000, to remain available until September 30, 2021, to carry out this section, of which up to 2 percent may be used for administration and oversight activities. “(e) Emergency Requirement.—The amount provided by this section is designated by the Congress as being for an emergency requirement pursuant to section 251(b)(2)(A)(i) of the Balanced Budget and Emergency Deficit Control Act of 1985 [[2 U.S.C. 901(b)(2)(A)(i)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section901/b/2/A/i&num=0&edition=prelim)].”
+
+[For definition of “coronavirus” as used in section 12005 of Pub. L. 116–136, set out above, see section 23005 of Pub. L. 116–136, set out as a note under [section 162b of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section162b&num=0&edition=prelim), The Congress.]
+
 #### Emergency Preparedness Functions
 For assignment of certain emergency preparedness functions to the Secretary of Commerce, see Parts 1, 2, and 4 of Ex. Ord. No. 12656, Nov. 18, 1988, 53 F.R. 47491, set out as a note under [section 5195 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5195&num=0&edition=prelim), The Public Health and Welfare.
 
@@ -956,7 +964,11 @@ Beginning in fiscal year 2007 and for each fiscal year thereafter, the Secretary
 Section is from the Department of Commerce and Related Agencies Appropriations Act, 2006, which is title II of the Science, State, Justice, Commerce, and Related Agencies Appropriations Act, 2006.
 
 #### Similar Provisions
-Similar provisions were contained in the following prior appropriation acts:
+Similar provisions were contained in the following appropriation acts:
+
+Pub. L. 116–260, div. B, title I, Dec. 27, 2020, 134 Stat. 1241.
+
+Pub. L. 116–93, div. B, title I, Dec. 20, 2019, 133 Stat. 2392.
 
 Pub. L. 116–6, div. C, title I, Feb. 15, 2019, 133 Stat. 98.
 
@@ -991,6 +1003,10 @@ Section is from the Department of Commerce and Related Agencies Appropriations A
 
 #### Similar Provisions
 Similar provisions were contained in the following appropriation acts:
+
+Pub. L. 116–260, div. B, title I, Dec. 27, 2020, 134 Stat. 1240.
+
+Pub. L. 116–93, div. B, title I, Dec. 20, 2019, 133 Stat. 2390.
 
 Pub. L. 116–6, div. C, title I, Feb. 15, 2019, 133 Stat. 96.
 
@@ -1209,6 +1225,18 @@ Section was formerly classified to [section 607 of Title 5](https://uscode.house
 
 #### Transfer of Functions
 Functions vested by law (including reorganization plan) in Bureau of the Budget or Director of Bureau of the Budget transferred to President by section 101 of Reorg. Plan No. 2 of 1970, eff. July 1, 1970, 35 F.R. 7959, 84 Stat. 2085, set out in the Appendix to Title 5, Government Organization and Employees. Section 102 of Reorg. Plan No. 2 of 1970 redesignated Bureau of the Budget as Office of Management and Budget.
+
+
+<a id="section-1521a"></a>
+## § 1521a. Department of Commerce Nonrecurring Expenses Fund
+**(a)** There is hereby established in the Treasury of the United States a fund to be known as the “Department of Commerce Nonrecurring Expenses Fund” (the Fund): Provided, That unobligated balances of expired discretionary funds appropriated for this or any succeeding fiscal year from the General Fund of the Treasury to the Department of Commerce by this or any other Act may be transferred (not later than the end of the fifth fiscal year after the last fiscal year for which such funds are available for the purposes for which appropriated) into the Fund: Provided further, That amounts deposited in the Fund shall be available until expended, and in addition to such other funds as may be available for such purposes, for information and business technology system modernization and facilities infrastructure improvements necessary for the operation of the Department, subject to approval by the Office of Management and Budget: Provided further, That amounts in the Fund may be obligated only after the Committees on Appropriations of the House of Representatives and the Senate are notified at least 15 days in advance of the planned use of funds.
+
+**(b)** In addition to amounts otherwise made available by this Act, there is appropriated $20,000,000, to remain available until September 30, 2022, to the Fund for necessary expenses for a business application system modernization.
+
+### Statutory Notes
+
+#### References in Text
+This Act, referred to in text, is div. B of Pub. L. 116–93, Dec. 20, 2019, 133 Stat. 2385, known as the Commerce, Justice, Science, and Related Agencies Appropriations Act, 2020. For complete classification of this Act to the Code, see Tables.
 
 
 <a id="section-1522"></a>

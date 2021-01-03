@@ -2,7 +2,7 @@
 title: 10
 chapter: '767'
 heading: UTILITIES AND SERVICES
-section_count: 5
+section_count: 6
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10&num=0&edition=prelim
 ---
@@ -127,3 +127,27 @@ Prior sections 7605 and 7606 were renumbered sections 8805 and 8806 of this titl
 
 #### Effective Date of 2018 Amendment
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
+
+
+<a id="section-7596"></a>
+## § 7596. Provision of goods and services at Kwajalein Atoll
+**(a) Authority.—**
+
+(1) Except as provided in paragraph (2), the Secretary of the Army, with the concurrence of the Secretary of State, may provide goods and services, including interatoll transportation, to the Government of the Republic of the Marshall Islands and other eligible patrons, as determined by the Secretary of the Army, at Kwajalein Atoll.
+
+(2) The Secretary of the Army may not provide goods or services under this section if doing so would be inconsistent, as determined by the Secretary of State, with the Compact of Free Association between the Government of the United States and the Government of the Republic of the Marshall Islands or any subsidiary agreement or implementing arrangement.
+
+**(b) Reimbursement.—**
+
+(1) The Secretary of the Army may collect reimbursement from the Government of the Republic of the Marshall Islands and eligible patrons for the provision of goods or services under subsection (a).
+
+(2) The amount collected for goods or services under this subsection may not be greater than the total amount of actual costs to the United States for providing the goods or services.
+
+**(c) Necessary Expenses.—** Amounts appropriated to the Department of the Army may be used for necessary expenses associated with providing goods and services under this section.
+
+**(d) Regulations.—** The Secretary of the Army shall issue regulations to carry out this section.
+
+### Statutory Notes
+
+#### References in Text
+The Compact of Free Association between the Government of the United States and the Government of the Republic of the Marshall Islands, referred to in subsec. (a)(2), probably means the Compact of Free Association between the Government of the United States and the Governments of the Marshall Islands and the Federated States of Micronesia, which is contained in section 201 of Pub. L. 99–239, set out as a note under [section 1901 of Title 48](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title48-section1901&num=0&edition=prelim), Territories and Insular Possessions.

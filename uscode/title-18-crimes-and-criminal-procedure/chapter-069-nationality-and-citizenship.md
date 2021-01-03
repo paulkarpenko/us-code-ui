@@ -137,11 +137,11 @@ References to persons causing, procuring, aiding, abetting, or assisting were om
 #### Effective Date of 1996 Amendment
 Amendment by Pub. L. 104–208 applicable with respect to offenses occurring on or after Sept. 30, 1996, see section 211(c) of Pub. L. 104–208, set out as a note under [section 1028 of this title](./chapter-047-fraud-and-false-statements.md#section-1028).
 
-#### Transfer of Functions
-Functions of all other officers of Department of Justice and functions of all agencies and employees of such Department, with a few exceptions, transferred to Attorney General, with power vested in him to authorize their performance or performance of any of his functions by any of such officers, agencies, and employees, by Reorg. Plan No. 2 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3173, 64 Stat. 1261, set out in the Appendix to Title 5, Government Organization and Employees.
-
 #### Abolition of Immigration and Naturalization Service and Transfer of Functions
 For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of related references, see note set out under [section 1551 of Title 8](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1551&num=0&edition=prelim), Aliens and Nationality.
+
+#### Transfer of Functions
+Functions of all other officers of Department of Justice and functions of all agencies and employees of such Department, with a few exceptions, transferred to Attorney General, with power vested in him to authorize their performance or performance of any of his functions by any of such officers, agencies, and employees, by Reorg. Plan No. 2 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3173, 64 Stat. 1261, set out in the Appendix to Title 5, Government Organization and Employees.
 
 
 <a id="section-1427"></a>
@@ -184,11 +184,11 @@ Changes were made in phraseology.
 #### Amendments
 1994—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $5,000”.
 
-#### Transfer of Functions
-Functions of all other officers of Department of Justice and functions of all agencies and employees of such Department, with a few exceptions, transferred to Attorney General, with power vested, in him to authorize their performance or performance of any of his functions by any of such officers, agencies, and employees, by Reorg. Plan No. 2, of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3173, 64 Stat. 1261, set out in the Appendix to Title 5, Government Organization and Employees.
-
 #### Abolition of Immigration and Naturalization Service and Transfer of Functions
 For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of related references, see note set out under [section 1551 of Title 8](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1551&num=0&edition=prelim), Aliens and Nationality.
+
+#### Transfer of Functions
+Functions of all other officers of Department of Justice and functions of all agencies and employees of such Department, with a few exceptions, transferred to Attorney General, with power vested, in him to authorize their performance or performance of any of his functions by any of such officers, agencies, and employees, by Reorg. Plan No. 2, of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3173, 64 Stat. 1261, set out in the Appendix to Title 5, Government Organization and Employees.
 
 
 <a id="section-1429"></a>

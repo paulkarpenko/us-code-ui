@@ -124,7 +124,7 @@ Amendment by section 801(a)(3)(I) of Pub. L. 95–454 effective on first day of 
 Prior sections 7541 to 7541b were renumbered sections 8761 to 8761b of this title, respectively.
 
 #### Amendments
-2018—Pub. L. 115–232 renumbered [section 4541 of this title](./chapter-343-acquisition-of-services.md#section-4541) as this section.
+2018—Pub. L. 115–232 renumbered [section 4541 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section4541&num=0&edition=prelim) as this section.
 
 #### Effective Date of 2018 Amendment
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).

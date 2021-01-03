@@ -21,7 +21,7 @@ In this chapter:
 
 (3) **Defense article; defense service; training** — The terms “defense article”, “defense service”, and “training” have the meanings given those terms in [section 2794 of this title](./chapter-039-arms-export-control.md#section-2794).
 
-(4) **Financial institution** — The term “financial institution” means a financial institution specified in subparagraph (A), (B), (C), (D), (E), (F), (G), (H), (I), (J), (M), or (Y) of [section 5312(a)(2) of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section5312/a/2&num=0&edition=prelim).
+(4) **Financial institution** — The term “financial institution” means a financial institution specified in subparagraph (A), (B), (C), (D), (E), (F), (G), (H), (I), (J), (M), or (Z) of [section 5312(a)(2) of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section5312/a/2&num=0&edition=prelim).
 
 (5) **Foreign financial institution** — The term “foreign financial institution” has the meaning given that term in section 561.308 of title 31, Code of Federal Regulations (or any corresponding similar regulation or ruling).
 
@@ -44,6 +44,9 @@ In this chapter:
   (C) shale formations located in the Russian Federation.
 
 ### Statutory Notes
+
+#### Amendments
+2021—Par. (4). Pub. L. 116–283 substituted “(Z)” for “(Y)”.
 
 #### Short Title
 Pub. L. 113–272, § 1(a), Dec. 18, 2014, 128 Stat. 2952, provided that: “This Act [enacting this chapter] may be cited as the ‘Ukraine Freedom Support Act of 2014’.”
@@ -418,11 +421,11 @@ Barack Obama.
 
   (D) *Authorization of appropriations* — There are authorized to be appropriated $50,000,000 in the aggregate for fiscal years 2016 through 2018 to carry out activities under this paragraph.
 
-(3) **Support from the Overseas Private Investment Corporation** — The Overseas Private Investment Corporation shall—
+(3) **Support from the United States International Development Finance Corporation** — The United States International Development Finance Corporation shall—
 
   (A) prioritize, to the extent practicable, support for investments to help increase energy efficiency, develop domestic oil and natural gas reserves, improve and repair electricity infrastructure, and develop renewable and other sources of energy in Ukraine; and
 
-  (B) implement procedures for expedited review and, as appropriate, approval, of applications by eligible investors (as defined in [section 2198 of this title](./chapter-032-foreign-assistance.md#section-2198)) for loans, loan guarantees, and insurance for such investments.
+  (B) implement procedures for expedited review and, as appropriate, approval, of applications for loans, loan guarantees, and insurance for such investments.
 
 (4) **Support by the World Bank Group and the European Bank for Reconstruction and Development** — The President shall, to the extent practicable and as appropriate, direct the United States Executive Directors of the World Bank Group and the European Bank for Reconstruction and Development to use the voice, vote, and influence of the United States to encourage the World Bank Group and the European Bank for Reconstruction and Development and other international financial institutions—
 
@@ -454,19 +457,10 @@ Barack Obama.
 
 ### Statutory Notes
 
-#### Amendment of Subsection (c)(3)
-Pub. L. 115–254, div. F, title VI, § 1470(r), (w), Oct. 5, 2018, 132 Stat. 3518, 3519, provided that, effective at the end of the transition period, as defined in [section 9681 of this title](./chapter-103-better-utilization-of-investments-leading-to-development.md#section-9681), subsection (c)(3) of this section is amended as follows:
-
-(1) in the heading and introductory provisions, by striking “Overseas Private Investment Corporation” and inserting “United States International Development Finance Corporation”; and
-
-(2) in subparagraph (B), by striking out “by eligible investors (as defined in [section 2198 of this title](./chapter-032-foreign-assistance.md#section-2198))” after “of applications”.
-
-See 2018 Amendment notes below.
-
 #### Amendments
 2018—Subsec. (c)(3). Pub. L. 115–254, § 1470(r)(1), (2), substituted “United States International Development Finance Corporation” for “Overseas Private Investment Corporation” in heading and introductory provisions.
 
-Subsec. (c)(3)(B). Pub. L. 115–254, § 1470(r)(3), struck out “by eligible investors (as defined in [section 2198 of this title](./chapter-032-foreign-assistance.md#section-2198))” after “of applications”.
+Subsec. (c)(3)(B). Pub. L. 115–254, § 1470(r)(3), struck out “by eligible investors (as defined in [section 2198 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2198&num=0&edition=prelim))” after “of applications”.
 
 #### Effective Date of 2018 Amendment
 Amendment by Pub. L. 115–254 effective at the end of the transition period, as defined in [section 9681 of this title](./chapter-103-better-utilization-of-investments-leading-to-development.md#section-9681), see section 1470(w) of Pub. L. 115–254, set out as a note under [section 905 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section905&num=0&edition=prelim), The Congress.
@@ -494,6 +488,11 @@ Functions of President under subsec. (d) of this section delegated to Secretary 
 (1) **In general** — There are authorized to be appropriated to the Broadcasting Board of Governors $10,000,000 for each of fiscal years 2016 through 2018 to carry out activities under this section.
 
 (2) **Supplement not supplant** — Amounts authorized to be appropriated pursuant to paragraph (1) shall supplement and not supplant other amounts made available for activities described in this section.
+
+### Statutory Notes
+
+#### Change of Name
+Broadcasting Board of Governors renamed United States Agency for Global Media pursuant to [section 6204(a)(22) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section6204/a/22&num=0&edition=prelim). The renaming was effectuated by notice to congressional appropriations committees dated May 24, 2018, and became effective Aug. 22, 2018.
 
 
 <a id="section-8928"></a>
@@ -552,6 +551,8 @@ Functions of President under subsec. (c) of this section delegated to Secretary 
 
 (2) **Form** — The report required under paragraph (1) shall be submitted in unclassified form but may contain a classified annex.
 
+(3) **Sunset** — The reporting requirement under paragraph (1) shall be in effect so long as the INF Treaty remains in force.
+
 **(d) Committees specified** The committees specified in this subsection are—
 
 (1) the Committee on Foreign Relations, the Committee on Armed Services, and the Select Committee on Intelligence of the Senate; and
@@ -559,6 +560,9 @@ Functions of President under subsec. (c) of this section delegated to Secretary 
 (2) the Committee on Foreign Affairs, the Committee on Armed Services, and the Permanent Select Committee on Intelligence of the House of Representatives.
 
 ### Statutory Notes
+
+#### Amendments
+2019—Subsec. (c)(3). Pub. L. 116–92 added par. (3).
 
 #### Delegation of Functions
 Functions of President under subsec. (c) of this section delegated to Secretary of State by Memorandum of President of the United States, Feb. 19, 2015, 80 F.R. 12071, set out as a note under [section 8925 of this title](./chapter-96a-ukraine-freedom-support.md#section-8925).

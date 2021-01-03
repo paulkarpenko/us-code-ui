@@ -2,7 +2,7 @@
 title: 50
 chapter: '47'
 heading: NATIONAL SECURITY AGENCY
-section_count: 18
+section_count: 19
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50&num=0&edition=prelim
 ---
@@ -542,3 +542,10 @@ Section was formerly classified in a note under [section 402 of this title](./ch
 
 #### Codification
 Section was formerly classified in a note under [section 402 of this title](./chapter-015-national-security.md#section-402) prior to editorial reclassification as this section.
+
+
+<a id="section-3619"></a>
+## § 3619. Senior Chief Petty Officer Shannon Kent Award for Distinguished Female Personnel
+**(a) Establishment** The Director of the National Security Agency shall establish an honorary award for the recognition of female personnel of the National Security Agency for distinguished career contributions in support of the mission of the Agency as civilian employees or members of the Armed Forces assigned to the Agency. The award shall be known as the “Senior Chief Petty Officer Shannon Kent Award” and shall consist of a design determined appropriate by the Director.
+
+**(b) Award** The Director shall award the Senior Chief Petty Officer Shannon Kent Award to female civilian employees, members of the Armed Forces, or former civilian employees or members, whom the Director determines meet the criteria under subsection (a).

@@ -7,717 +7,515 @@ source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33&num=0&edition=prelim
 ---
 <a id="section-3901"></a>
-## § 3901. Definitions
+## § 3901. Hypoxia or harmful algal bloom of national significance
+(1) **Relief**
 
-In this chapter:
+  (A) *In general* — Upon a determination under paragraph (2) that there is an event of national significance, the appropriate Federal official is authorized to make sums available to the affected State or local government for the purposes of assessing and mitigating the detrimental environmental, economic, subsistence use, and public health effects of the event of national significance.
 
-(1) **Administrator** — The term “Administrator” means the Administrator of the Environmental Protection Agency.
+  (B) *Federal share* — The Federal share of the cost of any activity carried out under this paragraph for the purposes described in subparagraph (A) may not exceed 50 percent of the cost of that activity.
 
-(2) **Community water system** — The term “community water system” has the meaning given the term in [section 300f of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section300f&num=0&edition=prelim).
+  (C) *Donations* — Notwithstanding any other provision of law, an appropriate Federal official may accept donations of funds, services, facilities, materials, or equipment that the appropriate Federal official considers necessary for the purposes described in subparagraph (A). Any funds donated to an appropriate Federal official under this paragraph may be expended without further appropriation and without fiscal year limitation.
 
-(3) **Federal credit instrument** — The term “Federal credit instrument” means a secured loan or loan guarantee authorized to be made available under this chapter with respect to a project.
+(2) **Determinations**
 
-(4) **Investment-grade rating** — The term “investment-grade rating” means a rating of BBB minus, Baa3, bbb minus, BBB (low), or higher assigned by a rating agency to project obligations.
+  (A) *In general* — At the discretion of an appropriate Federal official, or at the request of the Governor of an affected State, an appropriate Federal official shall determine whether a hypoxia or harmful algal bloom event is an event of national significance.
 
-(5) **Lender**
+  (B) *Considerations* — In making a determination under subparagraph (A), the appropriate Federal official shall consider the toxicity of the harmful algal bloom, the severity of the hypoxia, its potential to spread, the economic impact, the relative size in relation to the past 5 occurrences of harmful algal blooms or hypoxia events that occur on a recurrent or annual basis, and the geographic scope, including the potential to affect several municipalities, to affect more than 1 State, or to cross an international boundary.
 
-  (A) *In general* — The term “lender” means any non-Federal qualified institutional buyer (as defined in section 230.144A(a) of title 17, Code of Federal Regulations (or a successor regulation), known as Rule 144A(a) of the Securities and Exchange Commission and issued under the Securities Act of 1933 ([15 U.S.C. 77a](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section77a&num=0&edition=prelim) et seq.)).
+(3) **Definitions** — In this subsection:
 
-  (B) *Inclusions* — The term “lender” includes—
+  (A) *Appropriate federal official* — The term “appropriate Federal official” means—
 
-    (i) a qualified retirement plan (as defined in [section 4974(c) of title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section4974/c&num=0&edition=prelim)) that is a qualified institutional buyer; and
+    (i) in the case of a marine or coastal hypoxia or harmful algal bloom event, the Under Secretary of Commerce for Oceans and Atmosphere; and
 
-    (ii) a governmental plan (as defined in [section 414(d) of title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section414/d&num=0&edition=prelim)) that is a qualified institutional buyer.
+    (ii) in the case of a freshwater hypoxia or harmful algal bloom event, the Administrator of the Environmental Protection Agency.
 
-(6) **Loan guarantee** — The term “loan guarantee” means any guarantee or other pledge by the Secretary or the Administrator to pay all or part of the principal of, and interest on, a loan or other debt obligation issued by an obligor and funded by a lender.
+  (B) *Event of national significance* — The term “event of national significance” means a hypoxia or harmful algal bloom event that has had or will likely have a significant detrimental environmental, economic, subsistence use, or public health impact on an affected State.
 
-(7) **Obligor** — The term “obligor” means an eligible entity that is primarily liable for payment of the principal of, or interest on, a Federal credit instrument.
-
-(8) **Project obligation**
-
-  (A) *In general* — The term “project obligation” means any note, bond, debenture, or other debt obligation issued by an obligor in connection with the financing of a project.
-
-  (B) *Exclusion* — The term “project obligation” does not include a Federal credit instrument.
-
-(9) **Rating agency** — The term “rating agency” means a credit rating agency registered with the Securities and Exchange Commission as a nationally recognized statistical rating organization (as defined in [section 78c(a) of title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section78c/a&num=0&edition=prelim)).
-
-(10) **Secured loan** — The term “secured loan” means a direct loan or other debt obligation issued by an obligor and funded by the Secretary or Administrator, as applicable, in connection with the financing of a project under [section 3908 of this title](./chapter-052-water-infrastructure-finance-and-innovation.md#section-3908).
-
-(11) **State** — The term “State” means—
-
-  (A) a State;
-
-  (B) the District of Columbia;
-
-  (C) the Commonwealth of Puerto Rico; and
-
-  (D) any other territory or possession of the United States.
-
-(12) **State infrastructure financing authority** — The term “State infrastructure financing authority” means the State entity established or designated by the Governor of a State to receive a capitalization grant provided by, or otherwise carry out the requirements of, title VI of the Federal Water Pollution Control Act ([33 U.S.C. 1381](./chapter-026-water-pollution-prevention-and-control.md#section-1381) et.11 So in original. The period probably should not appear. seq.) or [section 300j–12 of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section300j–12&num=0&edition=prelim).
-
-(13) **Subsidy amount** — The term “subsidy amount” means the amount of budget authority sufficient to cover the estimated long-term cost to the Federal Government of a Federal credit instrument, as calculated on a net present value basis, excluding administrative costs and any incidental effects on governmental receipts or outlays in accordance with the Federal Credit Reform Act of 1990 ([2 U.S.C. 661](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section661&num=0&edition=prelim) et seq.).
-
-(14) **Substantial completion** — The term “substantial completion”, with respect to a project, means the earliest date on which a project is considered to perform the functions for which the project is designed.
-
-(15) **Treatment works** — The term “treatment works” has the meaning given the term in section 212 of the Federal Water Pollution Control Act ([33 U.S.C. 1292](./chapter-026-water-pollution-prevention-and-control.md#section-1292)).
+  (C) *Hypoxia or harmful algal bloom event* — The term “hypoxia or harmful algal bloom event” means the occurrence of hypoxia or a harmful algal bloom as a result of a natural, anthropogenic, or undetermined cause.
 
 ### Statutory Notes
 
-#### References in Text
-The Securities Act of 1933, referred to in par. (5)(A), is title I of act May 27, 1933, ch. 38, 48 Stat. 74, which is classified generally to subchapter I (§ 77a et seq.) of chapter 2A of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see [section 77a of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section77a&num=0&edition=prelim) and Tables.
-
-The Federal Water Pollution Control Act, referred to in par. (12), is act June 30, 1948, ch. 758, as amended generally by Pub. L. 92–500, § 2, Oct. 18, 1972, 86 Stat. 816, which is classified generally to chapter 26 (§ 1251 et seq.) of this title. Title VI of the Act is classified generally to subchapter VI (§ 1381 et seq.) of chapter 26 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1251 of this title](./chapter-026-water-pollution-prevention-and-control.md#section-1251) and Tables.
-
-The Federal Credit Reform Act of 1990, referred to in par. (13), is title V of Pub. L. 93–344, as added by Pub. L. 101–508, title XIII, § 13201(a), Nov. 5, 1990, 104 Stat. 1388–609, which is classified generally to subchapter III (§ 661 et seq.) of chapter 17A of Title 2, The Congress. For complete classification of this Act to the Code, see Short Title note set out under [section 621 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section621&num=0&edition=prelim) and Tables.
-
-#### Short Title
-Pub. L. 113–121, title V, § 5021, June 10, 2014, 128 Stat. 1332, provided that: “This subtitle [subtitle C (§§ 5021–5035) of title V of Pub. L. 113–121, enacting this chapter] may be cited as the ‘Water Infrastructure Finance and Innovation Act of 2014’.”
-
-#### “Secretary” Defined
-Secretary means the Secretary of the Army, see section 2 of Pub. L. 113–121, set out as a note under [section 2201 of this title](./chapter-036-water-resources-development.md#section-2201).
+#### Codification
+This section was enacted as part of the Harmful Algal Bloom and Hypoxia Research and Control Amendments Act of 2017 and also as part of the National Integrated Drought Information System Reauthorization Act of 2018, and not as part of the Harmful Algal Bloom and Hypoxia Research and Control Act of 1998 which comprises this chapter.
 
 
 <a id="section-3902"></a>
-## § 3902. Authority to provide assistance
-**(a) In general** The Secretary and the Administrator may provide financial assistance under this chapter to carry out projects, which shall be selected to ensure a diversity of project types and geographical locations.
+## § 3902. Definitions
 
-**(b) Responsibility**
+In this chapter:
 
-(1) **Secretary** — The Secretary shall provide financial assistance to carry out all projects under this chapter that are eligible projects under [section 3905(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section3905/1&num=0&edition=prelim).
+(1) **Administration** — The term “Administration” means the National Oceanic and Atmospheric Administration.
 
-(2) **Administrator** — The Administrator shall provide financial assistance to carry out all projects under this chapter that are eligible projects under paragraphs (2), (3), (4), (5), (6), (7), and (9) of [section 3905 of this title](./chapter-052-water-infrastructure-finance-and-innovation.md#section-3905).
+(2) **Administrator** — The term “Administrator” means the Under Secretary of Commerce for Oceans and Atmosphere and Administrator of the National Oceanic and Atmospheric Administration.
 
-(3) **Other projects** — The Secretary or the Administrator, as applicable, may carry out eligible projects under paragraph (8) or (10) of [section 3905 of this title](./chapter-052-water-infrastructure-finance-and-innovation.md#section-3905).
+(3) **Cooperative activities of the Administration** — The terms 11 So in original. Probably should be “term”. “cooperative activities of the Administration” means cooperative activities between the Administration and an external entity, such as the Cooperative Institutes, Sea Grant Colleges, National Estuarine Research Reserves, the National Oceanographic Partnership Program established under chapter 665 of title 10, and regional associations of the Integrated Ocean Observing System.
+
+(4) **Data specifications** — The term “data specifications” shall refer to the type, resolution, periodicity, and quality of data required by an program of the Administration.
+
+(5) **Test or training range**
+
+  (A) *In general* — The term “test or training range” means an area designated for operating unmanned maritime systems and other types of systems for the purpose of—
+
+    (i) evaluating the performance of such systems; or
+
+    (ii) training personnel on operating procedures for such systems.
+
+  (B) *Inclusions* — The term “test or training range” may include specialized fixed or portable instrumentation for the operation of unmanned maritime systems and other types of systems.
+
+(6) **Unmanned maritime systems**
+
+  (A) *In general* — The term “unmanned maritime systems” means remotely operated or autonomous vehicles produced by the commercial sector—
+
+    (i) designed to function without an on-board human presence; and
+
+    (ii) that may include associated components such as control and communications, instrumentation, data transmission, and processing systems.
+
+  (B) *Examples* — The term “unmanned maritime systems” includes the following:
+
+    (i) Unmanned undersea vehicles.
+
+    (ii) Unmanned surface vehicles.
+
+    (iii) Autonomous underwater vehicles.
+
+    (iv) Autonomous surface vehicles.
+
+  (C) *Treatment of aerial vehicles* — The term “unmanned maritime systems” includes unmanned aerial vehicles and autonomous aerial vehicles that are used to address maritime issues to the extent the Administrator determines it is necessary and appropriate to achieve the purposes of this chapter.
 
 ### Statutory Notes
 
-#### Amendments
-2018—Subsec. (a). Pub. L. 115–270, § 4201(a)(1)(A), struck out “pilot” before “projects”.
-
-Subsec. (b)(1). Pub. L. 115–270, § 4201(a)(1), substituted “provide financial assistance to carry out all projects” for “carry out all pilot projects”.
-
-Subsec. (b)(2). Pub. L. 115–270, § 4201(a)(1)(A), struck out “pilot” after “all”.
-
-2016—Subsec. (b)(2). Pub. L. 114–322, § 5008(b)(2)(A)(i), substituted “(7), and (9)” for “and (8)”.
-
-Pub. L. 114–322, § 5008(a), substituted “provide financial assistance to carry out” for “carry out”.
-
-Subsec. (b)(3). Pub. L. 114–322, § 5008(b)(2)(A)(ii), substituted “paragraph (8) or (10)” for “paragraph (7) or (9)”.
-
-#### “Secretary” Defined
-Secretary means the Secretary of the Army, see section 2 of Pub. L. 113–121, set out as a note under [section 2201 of this title](./chapter-036-water-resources-development.md#section-2201).
+#### Short Title
+Pub. L. 115–394, § 1(a), Dec. 21, 2018, 132 Stat. 5281, provided that: “This Act [enacting this chapter] may be cited as the ‘Commercial Engagement Through Ocean Technology Act of 2018’ or the ‘CENOTE Act of 2018’.”
 
 
 <a id="section-3903"></a>
-## § 3903. Applications
-**(a) In general** To receive assistance under this chapter, an eligible entity shall submit to the Secretary or the Administrator, as applicable, an application at such time, in such manner, and containing such information as the Secretary or the Administrator may require.
+## § 3903. Coordination regarding assessment and acquisition by National Oceanic and Atmospheric Administration of unmanned maritime systems
+**(a) Establishment** The Administrator shall direct the Office of Oceanic and Atmospheric Research (in this chapter referred to as “OAR”) and the Office of Marine and Aviation Operations (in this chapter referred to as “OMAO”)—
 
-**(b) Combined projects** In the case of an eligible project described in paragraph (9) or (10) of [section 3905 of this title](./chapter-052-water-infrastructure-finance-and-innovation.md#section-3905), the Secretary or the Administrator, as applicable, shall require the eligible entity to submit a single application for the combined group of projects.
+(1) to coordinate the Administration’s research, assessment, and acquisition of unmanned maritime systems; and
 
-### Statutory Notes
+(2) to consider the use of unmanned maritime systems in cooperative activities of the Administration.
 
-#### Amendments
-2016—Subsec. (b). Pub. L. 114–322 substituted “paragraph (9) or (10)” for “paragraph (8) or (9)”.
+**(b) Coordination within the Administration**
 
-#### “Secretary” Defined
-Secretary means the Secretary of the Army, see section 2 of Pub. L. 113–121, set out as a note under [section 2201 of this title](./chapter-036-water-resources-development.md#section-2201).
+(1) **Unmanned Systems Executive Oversight Board** — In meeting the requirements described in subsection (a), the Administrator shall—
+
+  (A) utilize the Unmanned Systems Executive Oversight Board (in this chapter referred to as the “USEOB”) as the coordinating mechanism; and
+
+  (B) ensure that OAR and OMAO address requirements throughout the Administration.
+
+(2) **Included** — In utilizing the USEOB under paragraph (1), the Administrator shall ensure that representation on the USEOB is included from the following:
+
+  (A) The Office of Ocean Exploration (OER).
+
+  (B) The program office of the Integrated Ocean Observing System.
+
+  (C) Such other offices of the Administration as the Administrator determines are actively engaged with unmanned maritime systems.
+
+**(c) Coordination with the Navy**
+
+(1) **In general** — In carrying out this chapter, the Administrator shall—
+
+  (A) make efforts to coordinate with the Secretary of the Navy to leverage expertise in the development and operational transition of unmanned maritime systems;
+
+  (B) align with, utilize, and inform the Deputy Under Secretary of Commerce for Operations and the Oceanographer of the Navy’s strategic and operational priorities, particularly for missions and geography within the Administration’s purview;
+
+  (C) seek to utilize Naval unmanned systems test or training ranges, such as the Gulf of Mexico Unmanned Systems Test and Training Range of the Naval Meteorology and Oceanography Command, and maximize interagency cooperation and sharing of best practices; and
+
+  (D) to formalize coordination, execute a memorandum of understanding with the Secretary of the Navy that includes—
+
+    (i) incorporating consideration of priorities and requirements of the Administration into research and development activities conducted by the Secretary of the Navy;
+
+    (ii) consultation intended to encourage and facilitate efforts by the Administration to partner with the Navy to procure unmanned maritime systems and to establish, instrument, and operate test or training ranges and related facilities;
+
+    (iii) adopting procedures defined by the Secretary of the Navy for the Administration to access and utilize test or training ranges or related Naval facilities for purposes identified in paragraph (2)(B); and
+
+    (iv) such other topics as the Administrator considers necessary or advisable, including mapping, bathymetry, observations, and ocean exploration.
+
+(2) **Location** — The Administrator shall, if practicable, carry out the activities authorized by this chapter at a facility where the Navy and the Administration are co-located, for the following purposes:
+
+  (A) Gaining efficiencies through collaboration.
+
+  (B) Advancing development of unmanned maritime systems, including—
+
+    (i) systems research and development;
+
+    (ii) systems testing;
+
+    (iii) systems modifications; and
+
+    (iv) systems integration.
+
+  (C) Accelerating transition from concept to manufacturing and acquisition.
+
+**(d) Coordination with other Federal agencies** In carrying out this chapter, the Administrator and the Secretary of the Navy may utilize the National Oceanographic Partnership Program, established under chapter 665 of title 10, as a mechanism for providing interagency coordination for the advancement of unmanned maritime systems.
+
+**(e) Coordination with academic sector** In carrying out this chapter, the Administrator, in consultation with the Secretary of the Navy, may coordinate and co-locate with an academic research institution, or consortium of academic research institutions, for the following purposes:
+
+(1) Maximizing opportunities for research and development of unmanned maritime systems.
+
+(2) Providing training in unmanned maritime systems as part of an accredited certificate or degree program of education.
+
+(3) Facilitating the commercialization of unmanned maritime systems through public-private partnerships that includes academic research institutions, private industry, and public safety agencies.
+
+(4) Arranging access to and use of additional facilities that support testing and assessment of or training with respect to unmanned maritime systems under environmental conditions of interest, increasing operational tolerance under such conditions, certifying operational capacity under such conditions, whether real or simulated, and training operators of unmanned maritime systems in real or simulated environments.
+
+(5) Facilitating engagement with other academic institutions with interest or relevant expertise in unmanned maritime systems.
+
+(6) Promoting information sharing between the academic, environmental, and military institutions to lead to more robust, mission-oriented unmanned maritime systems.
+
+**(f) Engagement with the private sector** Other than as described in subsection (e), the Administrator, in consultation with the Secretary of the Navy, may, in carrying out this chapter, to the extent practicable, coordinate and consult with the private sector—
+
+(1) to support the commercialization of unmanned maritime systems; and
+
+(2) to assist with their assessment of commercially available unmanned maritime systems to support the missions and goals of the Navy, the Administration, and cooperative activities of the Administration.
 
 
 <a id="section-3904"></a>
-## § 3904. Eligible entities
+## § 3904. Regular assessment of unmanned maritime systems to support National Oceanic and Atmospheric Administration missions
+**(a) In general** The Administrator, acting through the Assistant Administrator for Oceanic and Atmospheric Research and the Director of the Office of Marine and Aviation Operations and the National Oceanic and Atmospheric Administration Commissioned Officer Corps, shall regularly assess publicly and commercially available unmanned maritime systems for potential use to support missions of the Administration.
 
-The following entities are eligible to receive assistance under this chapter:
+**(b) Science-based assessments** The Administrator shall carry out subsection (a) through the Assistant Administrator for all matters relating to assessment of the suitability, feasibility, and cost-effectiveness of unmanned maritime systems to meet data specifications required by programs of the Administration.
 
-(1) A corporation.
+**(c) Assessment of operational utility** The Administrator shall carry out subsection (a) through the Director for all matters relating to assessment of whether unmanned maritime systems are operationally reliable, feasible, and cost effective enough to make observations required by programs of the Administration.
 
-(2) A partnership.
+**(d) Engagement** The Assistant Administrator and the Director shall jointly—
 
-(3) A joint venture.
+(1) convene and consult the Unmanned Maritime Systems Ocean Technology Coordinating Committee established under [section 4102(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section4102/b&num=0&edition=prelim); and
 
-(4) A trust.
-
-(5) A Federal, State, or local governmental entity, agency, or instrumentality.
-
-(6) A tribal government or consortium of tribal governments.
-
-(7) A State infrastructure financing authority.
+(2) consult with the heads of other offices of the Administration, the academic sector, and developers and manufacturers of unmanned maritime systems to conduct the assessments under subsection (a).
 
 
 <a id="section-3905"></a>
-## § 3905. Projects eligible for assistance
+## § 3905. Acquisition of unmanned maritime systems
+**(a) In general** The Administrator shall coordinate and centralize the acquisition by the Administration of unmanned maritime systems to meet the prioritized list of data requirements identified by OAR and OMAO in carrying out this chapter in their regular assessments and approved by the USEOB.
 
-The following projects may be carried out with amounts made available under this chapter:
+**(b) Memoranda of understanding** In order to realize greater savings and efficiency, the Administrator may develop and execute a memorandum of agreement with the Secretary of the Navy to—
 
-(1) Any project for flood damage reduction, hurricane and storm damage reduction, environmental restoration, coastal or inland harbor navigation improvement, or inland and intracoastal waterways navigation improvement that the Secretary determines is technically sound, economically justified, and environmentally acceptable, including—
+(1) participate in procurements conducted by the signatories to the memorandum of understanding;
 
-  (A) a project to reduce flood damage;
+(2) accept decommissioned unmanned maritime systems from the Navy;
 
-  (B) a project to restore aquatic ecosystems;
+(3) develop policies and procedures to share unmanned maritime systems; or
 
-  (C) a project to improve the inland and intracoastal waterways navigation system of the United States; and
+(4) provide for other means of creating efficiency and savings in Federal acquisition of unmanned maritime systems.
 
-  (D) a project to improve navigation of a coastal or inland harbor of the United States, including channel deepening and construction of associated general navigation features.
-
-(2) 1 or more activities that are eligible for assistance under [section 1383(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1383/c&num=0&edition=prelim), notwithstanding the public ownership requirement under paragraph (1) of that subsection.
-
-(3) 1 or more activities described in [section 300j–12(a)(2) of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section300j–12/a/2&num=0&edition=prelim).
-
-(4) A project for enhanced energy efficiency in the operation of a public water system or a publicly owned treatment works.
-
-(5) A project for repair, rehabilitation, or replacement of a treatment works, community water system, or aging water distribution or waste collection facility (including a facility that serves a population or community of an Indian reservation).
-
-(6) A brackish or sea water desalination project, including chloride control, a managed aquifer recharge project, a water recycling project, or a project to provide alternative water supplies to reduce aquifer depletion.
-
-(7) A project to prevent, reduce, or mitigate the effects of drought, including projects that enhance the resilience of drought-stricken watersheds.
-
-(8) Acquisition of real property or an interest in real property—
-
-  (A) if the acquisition is integral to a project described in paragraphs (1) through (6); or
-
-  (B) pursuant to an existing plan that, in the judgment of the Administrator or the Secretary, as applicable, would mitigate the environmental impacts of water resources infrastructure projects otherwise eligible for assistance under this section.
-
-(9) A combination of projects, each of which is eligible under paragraph (2) or (3), for which a State infrastructure financing authority submits to the Administrator a single application.
-
-(10) A combination of projects secured by a common security pledge, each of which is eligible under paragraph (1), (2), (3), (4), (5), (6), (7), or (8), for which an eligible entity, or a combination of eligible entities, submits a single application.
-
-### Statutory Notes
-
-#### Amendments
-2016—Par. (6). Pub. L. 114–322, § 5008(b)(1)(A), substituted “desalination project, including chloride control” for “desalination project” and “a water recycling project, or a project to provide alternative water supplies to reduce aquifer depletion” for “or a water recycling project”.
-
-Pars. (7) to (9). Pub. L. 114–322, § 5008(b)(1)(B), (C), added par. (7) and redesignated former pars. (7) and (8) as (8) and (9), respectively. Former par. (9) redesignated (10).
-
-Par. (10). Pub. L. 114–322, § 5008(b)(1)(B), (D), redesignated par. (9) as (10) and substituted “(7), or (8)” for “or (7)”.
-
-#### “Secretary” Defined
-Secretary means the Secretary of the Army, see section 2 of Pub. L. 113–121, set out as a note under [section 2201 of this title](./chapter-036-water-resources-development.md#section-2201).
+**(c) Rule of construction** Nothing in this chapter shall be construed to modify Federal procurement law.
 
 
 <a id="section-3906"></a>
-## § 3906. Activities eligible for assistance
+## § 3906. Reports on unmanned maritime systems and usage for mission of the National Oceanic and Atmospheric Administration
+**(a) In general** In carrying out this chapter, the Administrator shall, not later than one year after December 21, 2018, and every 4 years thereafter, submit to the appropriate committees of Congress a report on the usage of unmanned maritime systems for the mission of the Administration.
 
-For purposes of this chapter, an eligible activity with respect to an eligible project includes the cost of—
+**(b) Contents** Each report submitted under subsection (a) shall include, for the period covered by the report, the following:
 
-(1) development-phase activities, including planning, feasibility analysis (including any related analysis necessary to carry out an eligible project), revenue forecasting, environmental review, permitting, preliminary engineering and design work, and other preconstruction activities;
+(1) An inventory of current unmanned maritime systems used by programs of the Administration, a summary of the data they have returned, and the benefits realized from having such data.
 
-(2) construction, reconstruction, rehabilitation, and replacement activities;
+(2) A prioritized list of data requirements of the Administration that could be met with unmanned maritime systems, and the commercially available unmanned maritime systems with the operational capabilities to collect such data.
 
-(3) the acquisition of real property or an interest in real property (including water rights, land relating to the project, and improvements to land), environmental mitigation (including acquisitions pursuant to [section 3905(8) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section3905/8&num=0&edition=prelim)), construction contingencies, and acquisition of equipment; and
+**(c) Appropriate committees of Congress defined** In this section, the term “appropriate committees of Congress” means—
 
-(4) capitalized interest necessary to meet market requirements, reasonably required reserve funds, capital issuance expenses, and other carrying costs during construction.
+(1) the Committee on Appropriations, the Committee on Armed Services, and the Committee on Commerce, Science, and Transportation of the Senate; and
 
-### Statutory Notes
-
-#### Amendments
-2016—Par. (3). Pub. L. 114–322 substituted “section 3905(8)” for “section 3905(7)”.
+(2) the Committee on Appropriations, the Committee on Armed Services, the Committee on Natural Resources, and the Committee on Science, Space, and Technology of the House of Representatives.
 
 
 <a id="section-3907"></a>
-## § 3907. Determination of eligibility and project selection
-**(a) Eligibility requirements** To be eligible to receive financial assistance under this chapter, a project shall meet the following criteria, as determined by the Secretary or Administrator, as applicable:
+## § 3907. Funding and additional authorities
+**(a) Funding** The Administrator shall carry out this chapter using existing amounts appropriated or otherwise made available to the Administration.
 
-(1) **Creditworthiness**
+**(b) Additional authorities** In carrying out this chapter, the Administrator may—
 
-  (A) *In general* — The project and obligor shall be creditworthy, which shall be determined by the Secretary or the Administrator, as applicable.
+(1) enter into contracts, cooperative agreements, and other transactions with any domestic or foreign government;
 
-  (B) *Considerations* — In determining the creditworthiness of a project and obligor, the Secretary or the Administrator, as applicable, shall take into consideration relevant factors, including—
+(2) notwithstanding [section 1342 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1342&num=0&edition=prelim), accept donations and voluntary and uncompensated services;
 
-    (i) the terms, conditions, financial structure, and security features of the proposed financing;
+(3) accept funds from other Federal departments and agencies;
 
-    (ii) the dedicated revenue sources that will secure or fund the project obligations;
+(4) utilize the National Oceanographic Partnership Program established under chapter 665 of title 10 to accept funds from other Federal departments and agencies, to accept donations, and to enter into contracts and award grants;
 
-    (iii) the financial assumptions upon which the project is based; and
+(5) under an agreement entered into under paragraph (1), transfer funds appropriated to carry our this chapter to any organization; and
 
-    (iv) the financial soundness and credit history of the obligor.
+(6) use, with their consent, with or without reimbursement, and subject to the availability of appropriations, the land, services, equipment, personnel, and facilities of—
 
-  (C) *Security features* — The Secretary or the Administrator, as applicable, shall ensure that any financing for the project has appropriate security features, such as a rate covenant, supporting the project obligations to ensure repayment.
+  (A) any department, agency, or instrumentality of the United States;
 
-  (D) *Rating opinion letters*
+  (B) any State or local government or tribal government; or
 
-    (i) *Preliminary rating opinion letter* — The Secretary or the Administrator, as applicable, shall require each project applicant to provide, at the time of application, a preliminary rating opinion letter from at least 1 rating agency indicating that the senior obligations of the project (which may be the Federal credit instrument) have the potential to achieve an investment-grade rating.
-
-    (ii) *Final rating opinion letters* — The Secretary or the Administrator, as applicable, shall require each project applicant to provide, prior to final acceptance and financing of the project, final rating opinion letters from at least 2 rating agencies indicating that the senior obligations of the project have an investment-grade rating.
-
-  (E) *Special rule for certain combined projects* — The Administrator shall develop a credit evaluation process for a Federal credit instrument provided to—
-
-    (i) a State infrastructure financing authority for a project under [section 3905(9) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section3905/9&num=0&edition=prelim), which may include requiring the provision of a final rating opinion letter from at least one rating agency; or
-
-    (ii) an entity for a project under [section 3905(10) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section3905/10&num=0&edition=prelim), which may include requiring the provision of a final rating opinion letter from at least two rating agencies.
-
-(2) **Eligible project costs**
-
-  (A) *In general* — Subject to subparagraph (B), the eligible project costs of a project shall be reasonably anticipated to be not less than $20,000,000.
-
-  (B) *Small community water infrastructure projects* — For a project described in paragraph (2) or (3) of [section 3905 of this title](./chapter-052-water-infrastructure-finance-and-innovation.md#section-3905) that serves a community of not more than 25,000 individuals, the eligible project costs of a project shall be reasonably anticipated to be not less than $5,000,000.
-
-(3) **Dedicated revenue sources** — The Federal credit instrument for the project shall be repayable, in whole or in part, from dedicated revenue sources that also secure the project obligations.
-
-(4) **Public sponsorship of private entities**
-
-  (A) *In general* — If an eligible project is carried out by an entity that is not a State or local government or an agency or instrumentality of a State or local government or a tribal government or consortium of tribal governments, the project shall be publicly sponsored.
-
-  (B) *Public sponsorship* — For purposes of this chapter, a project shall be considered to be publicly sponsored if the obligor can demonstrate, to the satisfaction of the Secretary or the Administrator, as appropriate, that the project applicant has consulted with the affected State, local, or tribal government in which the project is located, or is otherwise affected by the project, and that such government supports the proposed project.
-
-(5) **Use of existing financing mechanisms**
-
-  (A) *Notification* — For each eligible project for which the Administrator has authority under paragraph (2) or (3) of [section 3902(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section3902/b&num=0&edition=prelim) and for which the Administrator has received an application for financial assistance under this chapter, the Administrator shall notify, not later than 30 days after the date on which the Administrator receives a complete application, the applicable State infrastructure financing authority of the State in which the project is located that such application has been submitted.
-
-  (B) *Determination* — If, not later than 60 days after the date of receipt of a notification under subparagraph (A), a State infrastructure financing authority notifies the Administrator that the State infrastructure financing authority intends to commit funds to the project in an amount that is equal to or greater than the amount requested under the application, the Administrator may not provide any financial assistance for that project under this chapter unless—
-
-    (i) by the date that is 180 days after the date of receipt of a notification under subparagraph (A), the State infrastructure financing authority fails to enter into an assistance agreement to provide funds for the project; or
-
-    (ii) the financial assistance to be provided by the State infrastructure financing authority will be at rates and terms that are less favorable than the rates and terms for financial assistance provided under this chapter.
-
-(6) **Operation and maintenance plan**
-
-  (A) *In general* — The Secretary or the Administrator, as applicable, shall determine whether an applicant for assistance under this chapter has developed, and identified adequate revenues to implement, a plan for operating, maintaining, and repairing the project over the useful life of the project.
-
-  (B) *Special rule* — An eligible project described in [section 3905(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section3905/1&num=0&edition=prelim) that has not been specifically authorized by Congress shall not be eligible for Federal assistance for operations and maintenance.
-
-**(b) Selection criteria**
-
-(1) **Establishment** — The Secretary or the Administrator, as applicable, shall establish criteria for the selection of projects that meet the eligibility requirements of subsection (a), in accordance with paragraph (2).
-
-(2) **Criteria** — The selection criteria shall include the following:
-
-  (A) The extent to which the project is nationally or regionally significant, with respect to the generation of economic and public benefits, such as—
-
-    (i) the reduction of flood risk;
-
-    (ii) the improvement of water quality and quantity, including aquifer recharge;
-
-    (iii) the protection of drinking water, including source water protection; and
-
-    (iv) the support of international commerce.
-
-  (B) The extent to which the project financing plan includes public or private financing in addition to assistance under this chapter.
-
-  (C) The likelihood that assistance under this chapter would enable the project to proceed at an earlier date than the project would otherwise be able to proceed.
-
-  (D) The extent to which the project uses new or innovative approaches.
-
-  (E) The amount of budget authority required to fund the Federal credit instrument made available under this chapter.
-
-  (F) The extent to which the project—
-
-    (i) protects against extreme weather events, such as floods or hurricanes; or
-
-    (ii) helps maintain or protect the environment.
-
-  (G) The extent to which a project serves regions with significant energy exploration, development, or production areas.
-
-  (H) The extent to which a project serves regions with significant water resource challenges, including the need to address—
-
-    (i) water quality concerns in areas of regional, national, or international significance;
-
-    (ii) water quantity concerns related to groundwater, surface water, or other water sources;
-
-    (iii) significant flood risk;
-
-    (iv) water resource challenges identified in existing regional, State, or multistate agreements; or
-
-    (v) water resources with exceptional recreational value or ecological importance.
-
-  (I) The extent to which the project addresses identified municipal, State, or regional priorities.
-
-  (J) The readiness of the project to proceed toward development, including a demonstration by the obligor that there is a reasonable expectation that the contracting process for construction of the project can commence by not later than 90 days after the date on which a Federal credit instrument is obligated for the project under this chapter.
-
-  (K) The extent to which assistance under this chapter reduces the contribution of Federal assistance to the project.
-
-(3) **Special rule for certain combined projects** — For a project described in [section 3905(9) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section3905/9&num=0&edition=prelim), the Administrator shall only consider the criteria described in subparagraphs (B) through (K) of paragraph (2).
-
-**(c) Federal requirements** Nothing in this section supersedes the applicability of other requirements of Federal law (including regulations).
-
-### Statutory Notes
-
-#### Amendments
-2018—Subsec. (a)(1)(E). Pub. L. 115–270 amended subpar. (E) generally. Prior to amendment, text read as follows: “The Administrator shall develop a credit evaluation process for a Federal credit instrument provided to a State infrastructure financing authority for a project under [section 3905(9) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section3905/9&num=0&edition=prelim) or an entity for a project under [section 3905(10) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section3905/10&num=0&edition=prelim), which may include requiring the provision of a final rating opinion letter from at least 2 rating agencies.”
-
-2016—Subsec. (a)(1)(E). Pub. L. 114–322, § 5008(b)(2)(D)(i), substituted “section 3905(9)” for “section 3905(8)” and “section 3905(10)” for “section 3905(9)”.
-
-Subsec. (b)(3). Pub. L. 114–322, § 5008(b)(2)(D)(ii), substituted “section 3905(9)” for “section 3905(8)”.
-
-2015—Subsec. (a)(5) to (7). Pub. L. 114–94 redesignated pars. (6) and (7) as (5) and (6), respectively, and struck out former par. (5). Prior to amendment, text of par. (5) read as follows: “No project receiving Federal credit assistance under this chapter may be financed (directly or indirectly), in whole or in part, with proceeds of any obligation—
-
-“(A) the interest on which is exempt from the tax imposed under chapter 1 of title 26; or
-
-“(B) with respect to which credit is allowable under subpart I or J of part IV of subchapter A of chapter 1 of title 26.”
-
-#### Effective Date of 2015 Amendment
-Amendment by Pub. L. 114–94 effective Oct. 1, 2015, see section 1003 of Pub. L. 114–94, set out as a note under [section 5313 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5313&num=0&edition=prelim), Government Organization and Employees.
-
-#### “Secretary” Defined
-Secretary means the Secretary of the Army, see section 2 of Pub. L. 113–121, set out as a note under [section 2201 of this title](./chapter-036-water-resources-development.md#section-2201).
+  (C) any foreign government or international organization.
 
 
 <a id="section-3908"></a>
-## § 3908. Secured loans
-**(a) Agreements**
+## § 3908. Definitions
 
-(1) **In general** — Subject to paragraphs (2) and (3), the Secretary or the Administrator, as applicable, may enter into agreements with 1 or more obligors to make secured loans, the proceeds of which shall be used to finance eligible project costs of any project selected under [section 3907 of this title](./chapter-052-water-infrastructure-finance-and-innovation.md#section-3907).
+In this chapter:
 
-(2) **Financial risk assessment** — Before entering into an agreement under this subsection for a secured loan, the Secretary or the Administrator, as applicable, in consultation with the Director of the Office of Management and Budget and each rating agency providing a rating opinion letter under [section 3907(a)(1)(D) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section3907/a/1/D&num=0&edition=prelim), shall determine an appropriate capital reserve subsidy amount for the secured loan, taking into account each such rating opinion letter.
+(1) **Circular economy** — The term “circular economy” means an economy that uses a systems-focused approach and involves industrial processes and economic activities that—
 
-(3) **Investment-grade rating requirement** — The execution of a secured loan under this section shall be contingent on receipt by the senior obligations of the project of an investment-grade rating.
+  (A) are restorative or regenerative by design;
 
-**(b) Terms and limitations**
+  (B) enable resources used in such processes and activities to maintain their highest values for as long as possible; and
 
-(1) **In general** — A secured loan provided for a project under this section shall be subject to such terms and conditions, and contain such covenants, representations, warranties, and requirements (including requirements for audits), as the Secretary or the Administrator, as applicable, determines to be appropriate.
+  (C) aim for the elimination of waste through the superior design of materials, products, and systems (including business models).
 
-(2) **Maximum amount** — The amount of a secured loan under this section shall not exceed the lesser of—
+(2) **EPA Administrator** — The term “EPA Administrator” means the Administrator of the Environmental Protection Agency.
 
-  (A) an amount equal to 49 percent of the reasonably anticipated eligible project costs; and
+(3) **Indian Tribe** — The term “Indian Tribe” has the meaning given the term “Indian tribe” in [section 5304 of title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5304&num=0&edition=prelim), without regard to capitalization.
 
-  (B) if the secured loan does not receive an investment-grade rating, the amount of the senior project obligations of the project.
+(4) **Interagency Marine Debris Coordinating Committee** — The term “Interagency Marine Debris Coordinating Committee” means the Interagency Marine Debris Coordinating Committee established under [section 1954 of this title](./chapter-33a-marine-debris-research-prevention-and-reduction.md#section-1954).
 
-(3) **Payment** — A secured loan under this section—
+(5) **Marine debris** — The term “marine debris” has the meaning given that term in [section 1956 of this title](./chapter-33a-marine-debris-research-prevention-and-reduction.md#section-1956).
 
-  (A) shall be payable, in whole or in part, from State or local taxes, user fees, or other dedicated revenue sources that also secure the senior project obligations of the relevant project;
+(6) **Marine debris event** — The term “marine debris event” means an event or related events that affects or may imminently affect the United States involving—
 
-  (B) shall include a rate covenant, coverage requirement, or similar security feature supporting the project obligations; and
+  (A) marine debris caused by a natural event, including a tsunami, flood, landslide, hurricane, or other natural source;
 
-  (C) may have a lien on revenues described in subparagraph (A), subject to any lien securing project obligations.
+  (B) distinct, nonrecurring marine debris, including derelict vessel groundings and container spills, that have immediate or long-term impacts on habitats with high ecological, economic, or human-use values; or
 
-(4) **Interest rate** — The interest rate on a secured loan under this section shall be not less than the yield on United States Treasury securities of a similar maturity to the maturity of the secured loan on the date of execution of the loan agreement.
+  (C) marine debris caused by an intentional or grossly negligent act or acts that causes substantial economic or environmental harm.
 
-(5) **Maturity date**
+(7) **Non-Federal funds** — The term “non-Federal funds” means funds provided by—
 
-  (A) *In general* — The final maturity date of a secured loan under this section shall be the earlier of—
+  (A) a State;
 
-    (i) the date that is 35 years after the date of substantial completion of the relevant project (as determined by the Secretary or the Administrator, as applicable); and
+  (B) an Indian Tribe;
 
-    (ii) if the useful life of the project (as determined by the Secretary or Administrator, as applicable) is less than 35 years, the useful life the project.
+  (C) a territory of the United States;
 
-  (B) *Special rule for State infrastructure financing authorities* — The final maturity date of a secured loan to a State infrastructure financing authority under this section shall be not later than 35 years after the date on which amounts are first disbursed.
+  (D) one or more units of local governments or Tribal organizations (as defined in [section 5304 of title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5304&num=0&edition=prelim));
 
-(6) **Nonsubordination** — A secured loan under this section shall not be subordinated to the claims of any holder of project obligations in the event of bankruptcy, insolvency, or liquidation of the obligor of the project.
+  (E) a foreign government;
 
-(7) **Fees**
+  (F) a private for-profit entity;
 
-  (A) *In general* — Except as provided in subparagraph (B), the Secretary or the Administrator, as applicable, may establish fees at a level sufficient to cover all or a portion of the costs to the Federal Government of making a secured loan under this section.
+  (G) a nonprofit organization; or
 
-  (B) *Financing fees* — On request of an eligible entity, the Secretary or the Administrator, as applicable, shall allow the fees under subparagraph (A) to be financed as part of the loan.
+  (H) a private individual.
 
-(8) **Non-Federal share** — The proceeds of a secured loan under this section may be used to pay any non-Federal share of project costs required if the loan is repayable from non-Federal funds.
+(8) **Nonprofit organization** — The term “nonprofit organization” means an organization that is described in [section 501(c) of title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section501/c&num=0&edition=prelim) and exempt from tax under section 501(a) of such title.
 
-(9) **Maximum Federal involvement**
+(9) **Post-consumer materials management** — The term “post-consumer materials management” means the systems, operation, supervision, and long-term management of processes and equipment used for post-use material (including packaging, goods, products, and other materials), including—
 
-  (A) *In general* — Except as provided in subparagraph (B), for each project for which assistance is provided under this chapter, the total amount of Federal assistance shall not exceed 80 percent of the total project cost.
+  (A) collection;
 
-  (B) *Exceptions* — Subparagraph (A) shall not apply to any rural water project—
+  (B) transport;
 
-    (i) that is authorized to be carried out by the Secretary of the Interior;
+  (C) safe disposal of waste that cannot be recovered, reused, recycled, repaired, or refurbished; and
 
-    (ii) that includes among its beneficiaries a federally recognized Indian tribe; and
+  (D) systems and processes related to post-use materials that can be recovered, reused, recycled, repaired, or refurbished.
 
-    (iii) for which the authorized Federal share of the total project costs is greater than the amount described in subparagraph (A).
+(10) **State** — The term “State” means—
 
-  (C) *Exception for projects funded by a State infrastructure financing authority* — Notwithstanding subparagraph (A), a State infrastructure financing authority may finance up to 100 percent of the costs of a project using the proceeds of financial assistance authorized under [section 3912(e) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section3912/e&num=0&edition=prelim), provided that, in the event of a default with respect to any such assistance, the State infrastructure financing authority is solely responsible for immediate repayment of such costs.
+  (A) a State;
 
-(10) **Credit** — Any eligible project costs incurred and the value of any integral in-kind contributions made before receipt of assistance under this chapter shall be credited toward the 51 percent of project costs to be provided by sources of funding other than a secured loan under this chapter (as described in paragraph (2)(A)).
+  (B) an Indian Tribe;
 
-**(c) Repayment**
+  (C) the District of Columbia;
 
-(1) **Schedule** — The Secretary or the Administrator, as applicable, shall establish a repayment schedule for each secured loan provided under this section, based on the projected cash flow from project revenues and other repayment sources.
+  (D) a territory or possession of the United States; or
 
-(2) **Commencement**
+  (E) any political subdivision of an entity described in subparagraphs (A) through (D).
 
-  (A) *In general* — Scheduled loan repayments of principal or interest on a secured loan under this section shall commence not later than 5 years after the date of substantial completion of the project (as determined by the Secretary or Administrator, as applicable).
-
-  (B) *Special rule for State infrastructure financing authorities*
-
-    (i) *Timing of scheduled loan repayments* — Scheduled loan repayments of principal or interest on a secured loan to a State infrastructure financing authority under this chapter shall commence not later than 5 years after the date on which amounts are first disbursed.
-
-    (ii) *Repayments* — None of the funds for repayment of a secured loan under this title from a State infrastructure financing authority may come from funds provided to a State revolving loan fund under title VI of the Federal Water Pollution Control Act ([33 U.S.C. 1381](./chapter-026-water-pollution-prevention-and-control.md#section-1381) et seq.) or [section 300j–12 of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section300j–12&num=0&edition=prelim).
-
-(3) **Deferred payments**
-
-  (A) *Authorization* — If, at any time after the date of substantial completion of a project for which a secured loan is provided under this section, the project is unable to generate sufficient revenues to pay the scheduled loan repayments of principal and interest on the secured loan, the Secretary or the Administrator, as applicable, subject to subparagraph (C), may allow the obligor to add unpaid principal and interest to the outstanding balance of the secured loan.
-
-  (B) *Interest* — Any payment deferred under subparagraph (A) shall—
-
-    (i) continue to accrue interest in accordance with subsection (b)(4) until fully repaid; and
-
-    (ii) be scheduled to be amortized over the remaining term of the secured loan.
-
-  (C) *Criteria*
-
-    (i) *In general* — Any payment deferral under subparagraph (A) shall be contingent on the project meeting such criteria as the Secretary or the Administrator, as applicable, may establish.
-
-    (ii) *Repayment standards* — The criteria established under clause (i) shall include standards for reasonable assurance of repayment.
-
-(4) **Prepayment**
-
-  (A) *Use of excess revenues* — Any excess revenues that remain after satisfying scheduled debt service requirements on the project obligations and secured loan and all deposit requirements under the terms of any trust agreement, bond resolution, or similar agreement securing project obligations may be applied annually to prepay a secured loan under this section without penalty.
-
-  (B) *Use of proceeds of refinancing* — A secured loan under this section may be prepaid at any time without penalty from the proceeds of refinancing from non-Federal funding sources.
-
-**(d) Sale of secured loans**
-
-(1) **In general** — Subject to paragraph (2), as soon as practicable after the date of substantial completion of a project and after providing a notice to the obligor, the Secretary or the Administrator, as applicable, may sell to another entity or reoffer into the capital markets a secured loan for a project under this section, if the Secretary or the Administrator, as applicable, determines that the sale or reoffering can be made on favorable terms.
-
-(2) **Consent of obligor** — In making a sale or reoffering under paragraph (1), the Secretary or the Administrator, as applicable, may not change the original terms and conditions of the secured loan without the written consent of the obligor.
-
-**(e) Loan guarantees**
-
-(1) **In general** — The Secretary or the Administrator, as applicable, may provide a loan guarantee to a lender in lieu of making a secured loan under this section, if the Secretary or the Administrator, as applicable, determines that the budgetary cost of the loan guarantee is substantially the same as that of a secured loan.
-
-(2) **Terms** — The terms of a loan guarantee provided under this subsection shall be consistent with the terms established in this section for a secured loan, except that the rate on the guaranteed loan and any prepayment features shall be negotiated between the obligor and the lender, with the consent of the Secretary or the Administrator, as applicable.
+(11) **Under Secretary** — The term “Under Secretary” means the Under Secretary of Commerce for Oceans and Atmosphere and Administrator of the National Oceanic and Atmospheric Administration.
 
 ### Statutory Notes
 
 #### References in Text
-This title, referred to in subsec. (c)(2)(B)(ii), is title V of Pub. L. 113–121, June 10, 2014, 128 Stat. 1322. Subtitle C (§§ 5021–5035) of title V of Pub. L. 113–121 enacted this chapter. For complete classification of title V to the Code, see Tables.
+This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 116–224, Dec. 18, 2020, 134 Stat. 1072, known as the Save Our Seas 2.0 Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out below and Tables.
 
-The Federal Water Pollution Control Act, referred to in subsec. (c)(2)(B)(ii), is act June 30, 1948, ch. 758, as amended generally by Pub. L. 92–500, § 2, Oct. 18, 1972, 86 Stat. 816. Title VI of the Act is classified generally to subchapter VI (§ 1381 et seq.) of chapter 26 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1251 of this title](./chapter-026-water-pollution-prevention-and-control.md#section-1251) and Tables.
-
-#### Amendments
-2018—Subsec. (b)(9)(C). Pub. L. 115–270, § 4201(b)(1), added subpar. (C).
-
-Subsec. (c)(2)(B). Pub. L. 115–270, § 4201(a)(3), designated existing provisions as cl. (i), inserted heading, and added cl. (ii).
-
-2016—Subsec. (b)(7). Pub. L. 114–322, § 5008(c)(1), designated existing provisions as subpar. (A), inserted heading, substituted “Except as provided in subparagraph (B), the Secretary” for “The Secretary”, and added subpar. (B).
-
-Subsec. (b)(10). Pub. L. 114–322, § 5008(c)(2), added par. (10).
-
-#### “Secretary” Defined
-Secretary means the Secretary of the Army, see section 2 of Pub. L. 113–121, set out as a note under [section 2201 of this title](./chapter-036-water-resources-development.md#section-2201).
+#### Short Title
+Pub. L. 116–224, § 1(a), Dec. 18, 2020, 134 Stat. 1072, provided that: “This Act [enacting this chapter and [section 1959 of this title](./chapter-33a-marine-debris-research-prevention-and-reduction.md#section-1959) and amending sections 1951 and 1958 of this title] may be cited as the ‘Save Our Seas 2.0 Act’.”
 
 
 <a id="section-3909"></a>
-## § 3909. Program administration
-**(a) Requirement** The Secretary or the Administrator, as applicable, shall establish a uniform system to service the Federal credit instruments made available under this chapter.
+## § 3909. Establishment and purposes of Foundation
+**(a) Establishment** There is established the Marine Debris Foundation (in this subchapter referred to as the “Foundation”). The Foundation is a charitable and nonprofit organization and is not an agency or establishment of the United States.
 
-**(b) Fees**
+**(b) Purposes** The purposes of the Foundation are—
 
-(1) **In general** — The Secretary or the Administrator, as applicable, may collect and spend fees, contingent on authority being provided in appropriations Acts, at a level that is sufficient to cover—
+(1) to encourage, accept, and administer private gifts of property for the benefit of, or in connection with, the activities and services of the National Oceanic and Atmospheric Administration under the Marine Debris Program established under [section 1952 of this title](./chapter-33a-marine-debris-research-prevention-and-reduction.md#section-1952), and other relevant programs and agencies;
 
-  (A) the costs of services of expert firms retained pursuant to subsection (d); and
+(2) to undertake and conduct such other activities as will augment efforts of the National Oceanic and Atmospheric Administration to assess, prevent, reduce, and remove marine debris and address the adverse impacts of marine debris on the economy of the United States, the marine environment, and navigation safety;
 
-  (B) all or a portion of the costs to the Federal Government of servicing the Federal credit instruments provided under this chapter.
+(3) to participate with, and otherwise assist, State, local, and Tribal governments, foreign governments, entities, and individuals in undertaking and conducting activities to assess, prevent, reduce, and remove marine debris and address the adverse impacts of marine debris and its root causes on the economy of the United States, the marine environment (including waters in the jurisdiction of the United States, the high seas, and waters in the jurisdiction of other countries), and navigation safety;
 
-(2) **Prohibition on pass through fees** — The Administrator, in the case where a State infrastructure financing authority obtains financial assistance under [section 3912(e) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section3912/e&num=0&edition=prelim), shall require as a condition of obtaining such assistance, that the State infrastructure financing authority is prohibited from passing any portion of the fees required under [section 3908(b)(7) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section3908/b/7&num=0&edition=prelim) to any party that utilizes any portion of such assistance for a project funded by such authority.
+(4) subject to an agreement with the Secretary of Commerce, administer the Genius Prize for Save Our Seas Innovation as described in title II; 11 See References in Text note below. and
 
-**(c) Servicer**
-
-(1) **In general** — The Secretary or the Administrator, as applicable, may appoint a financial entity to assist the Secretary or the Administrator in servicing the Federal credit instruments provided under this chapter.
-
-(2) **Duties** — A servicer appointed under paragraph (1) shall act as the agent for the Secretary or the Administrator, as applicable.
-
-(3) **Fee** — A servicer appointed under paragraph (1) shall receive a servicing fee, subject to approval by the Secretary or the Administrator, as applicable.
-
-**(d) Assistance from experts** The Secretary or the Administrator, as applicable, may retain the services, including counsel, of organizations and entities with expertise in the field of municipal and project finance to assist in the underwriting and servicing of Federal credit instruments provided under this chapter.
-
-**(e) Special rule for State reviews of projects for State infrastructure financing authorities**
-
-(1) **In general** — A project described in [section 3905(9) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section3905/9&num=0&edition=prelim) for which funding is provided under this title shall comply with any applicable State environmental or engineering review requirements pursuant to, as applicable—
-
-  (A) title VI of the Federal Water Pollution Control Act ([33 U.S.C. 1381](./chapter-026-water-pollution-prevention-and-control.md#section-1381) et seq.); and
-
-  (B) [section 300j–12 of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section300j–12&num=0&edition=prelim).
-
-(2) **No new reviews required** — Nothing in this title requires any additional or new environmental or engineering review for a project described in [section 3905(9) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section3905/9&num=0&edition=prelim) for which funding is provided, other than any requirement otherwise applicable to the project.
-
-**(f) Special rule for expedited review of applications from State infrastructure financing authorities** Not later than 180 days after the date on which the Administrator receives a complete application from a State infrastructure financing authority for a project under [section 3905(9) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section3905/9&num=0&edition=prelim), the Administrator shall, through a written notice to the State infrastructure financing authority—
-
-(1) approve the application; or
-
-(2) provide detailed guidance and an explanation of any changes to the application necessary for approval of the application.
-
-**(g) Agreements**
-
-(1) **In general** — Subject to paragraphs (3) and (4), the Administrator may enter into an agreement with another relevant Federal agency to provide assistance in administering and servicing Federal credit instruments that such agency is authorized to make available.
-
-(2) **Duties** — The Administrator may act as an agent for the head of another Federal agency under paragraph (1), subject to the terms of any agreement entered into by the Administrator and the head of such other agency under such clause.
-
-(3) **Transfer of funds** — The authority of the Administrator to provide assistance under paragraph (1) is subject to—
-
-  (A) the availability of funds appropriated to the other Federal agency that may be transferred to the Administrator to carry out an agreement entered into under paragraph (1); and
-
-  (B) the transfer of such funds to the Administrator to carry out such an agreement.
-
-(4) **Limitation** — Nothing in this subsection affects the authority of the Administrator with respect to the selection of projects described in paragraphs (1), (8), or (10) of [section 3905 of this title](./chapter-052-water-infrastructure-finance-and-innovation.md#section-3905) to receive financial assistance under this chapter.
-
-**(h) Applicability of other laws** Section 513 of the Federal Water Pollution Control Act ([33 U.S.C. 1372](./chapter-026-water-pollution-prevention-and-control.md#section-1372)) applies to the construction of a project carried out, in whole or in part, with assistance made available through a Federal credit instrument under this chapter in the same manner that section applies to a treatment works for which a grant is made available under that Act [[33 U.S.C. 1251](./chapter-026-water-pollution-prevention-and-control.md#section-1251) et seq.].
+(5) to support other Federal actions to reduce marine debris.
 
 ### Statutory Notes
 
 #### References in Text
-The Federal Water Pollution Control Act, referred to in subsecs. (e)(1)(A) and (h), is act June 30, 1948, ch. 758, as amended generally by Pub. L. 92–500, § 2, Oct. 18, 1972, 86 Stat. 816, which is classified generally to chapter 26 (§ 1251 et seq.) of this title. Title VI of the Act is classified generally to subchapter VI (§ 1381 et seq.) of chapter 26 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1251 of this title](./chapter-026-water-pollution-prevention-and-control.md#section-1251) and Tables.
+This subchapter, referred to in subsec. (a), in the original “this title”, meaning title I of Pub. L. 116–224, Dec. 18, 2020, 134 Stat. 1074, which is classified principally to this subchapter. For complete classification of this title to the Code, see Tables.
 
-Under this title and nothing in this title, referred to in subsec. (e), mean title V of Pub. L. 113–121, June 10, 2014, 128 Stat. 1322. Subtitle C (§§ 5021–5035) of title V of Pub. L. 113–121 enacted this chapter. For complete classification of title V to the Code, see Tables.
-
-#### Amendments
-2018—Subsec. (b)(2). Pub. L. 115–270, § 4201(b)(2)(A), added par. (2).
-
-Subsecs. (e), (f). Pub. L. 115–270, § 4201(b)(2)(B), added subsecs. (e) and (f). Former subsec. (e) designated (h).
-
-Subsec. (g). Pub. L. 115–270, § 4201(c), added subsec. (g).
-
-Subsec. (h). Pub. L. 115–270, § 4201(b)(2)(B), redesignated subsec. (e) as (h).
-
-#### Agreement With Commissioner of Reclamation
-Pub. L. 115–270, title IV, § 4301, Oct. 23, 2018, 132 Stat. 3880, provided that: “Not later than 1 year after the date of enactment of this Act [Oct. 23, 2018], the Administrator of the Environmental Protection Agency and the Commissioner of Reclamation shall enter into an agreement under section 5030(g) of the Water Infrastructure Finance and Innovation Act [[33 U.S.C. 3909(g)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section3909/g&num=0&edition=prelim)] (as added by this Act).”
-
-#### “Secretary” Defined
-Secretary means the Secretary of the Army, see section 2 of Pub. L. 113–121, set out as a note under [section 2201 of this title](./chapter-036-water-resources-development.md#section-2201).
+Title II, referred to in subsec. (b)(4), means title II of Pub. L. 116–224, which is classified generally to subchapter II of this chapter, but probably should have been a reference to subtitle C of title I of Pub. L. 116–224, which is classified generally to part B of this subchapter and relates to the Genius Prize for Save Our Seas Innovations.
 
 
 <a id="section-3910"></a>
-## § 3910. State, tribal, and local permits
+## § 3910. Board of Directors of the Foundation
+**(a) Establishment and membership**
 
-The provision of financial assistance for a project under this chapter shall not—
+(1) **In general** — The Foundation shall have a governing Board of Directors (in this subchapter referred to as the “Board”), which shall consist of the Under Secretary and 12 additional Directors appointed in accordance with subsection (b) from among individuals who are United States citizens.
 
-(1) relieve any recipient of the assistance of any obligation to obtain any required State, local, or tribal permit or approval with respect to the project;
+(2) **Representation of diverse points of view** — To the maximum extent practicable, the membership of the Board shall represent diverse points of view relating to the assessment, prevention, reduction, and removal of marine debris.
 
-(2) limit the right of any unit of State, local, or tribal government to approve or regulate any rate of return on private equity invested in the project; or
+(3) **Not Federal employees** — Appointment as a Director of the Foundation shall not constitute employment by, or the holding of an office of, the United States for the purpose of any Federal law.
 
-(3) otherwise supersede any State, local, or tribal law (including any regulation) applicable to the construction or operation of the project.
+**(b) Appointment and terms**
+
+(1) **Appointment** — Subject to paragraph (2), after consulting with the EPA Administrator, the Director of the United States Fish and Wildlife Service, the Assistant Secretary of State for the Bureau of Oceans and International Environmental and Scientific Affairs, and the Administrator of the United States Agency for International Development, and considering the recommendations submitted by the Board, the Under Secretary shall appoint 12 Directors who meet the criteria established by subsection (a), of whom—
+
+  (A) at least 4 shall be educated or experienced in the assessment, prevention, reduction, or removal of marine debris, which may include an individual with expertise in post-consumer materials management or a circular economy;
+
+  (B) at least 2 shall be educated or experienced in the assessment, prevention, reduction, or removal of marine debris outside the United States;
+
+  (C) at least 2 shall be educated or experienced in ocean and coastal resource conservation science or policy; and
+
+  (D) at least 2 shall be educated or experienced in international trade or foreign policy.
+
+(2) **Terms**
+
+  (A) *In general* — Any Director appointed after the initial appointments are made under subparagraph (B) (other than the Under Secretary), shall be appointed for a term of 6 years.
+
+  (B) *Initial appointments to new member positions* — Of the Directors appointed by the Under Secretary under paragraph (1), the Under Secretary shall appoint, not later than 180 days after December 18, 2020—
+
+    (i) 4 Directors for a term of 6 years;
+
+    (ii) 4 Directors for a term of 4 years; and
+
+    (iii) 4 Directors for a term of 2 years.
+
+(3) **Vacancies**
+
+  (A) *In general* — The Under Secretary shall fill a vacancy on the Board.
+
+  (B) *Term of appointments to fill unexpired terms* — An individual appointed to fill a vacancy that occurs before the expiration of the term of a Director shall be appointed for the remainder of the term.
+
+(4) **Reappointment** — An individual shall not serve more than 2 consecutive terms as a Director, excluding any term of less than 6 years.
+
+(5) **Consultation before removal** — The Under Secretary may remove a Director from the Board only after consultation with the Assistant Secretary of State for the Bureau of Oceans and International Environmental and Scientific Affairs, the Director of the United States Fish and Wildlife Service, and the EPA Administrator.
+
+**(c) Chairman** The Chairman shall be elected by the Board from its members for a 2-year term.
+
+**(d) Quorum** A majority of the current membership of the Board shall constitute a quorum for the transaction of business.
+
+**(e) Meetings** The Board shall meet at the call of the Chairman at least once a year. If a Director misses 3 consecutive regularly scheduled meetings, that individual may be removed from the Board and that vacancy filled in accordance with subsection (b).
+
+**(f) Reimbursement of expenses** Members of the Board shall serve without pay, but may be reimbursed for the actual and necessary traveling and subsistence expenses incurred by them in the performance of the duties of the Foundation.
+
+**(g) General powers**
+
+(1) **In general** — The Board may complete the organization of the Foundation by—
+
+  (A) appointing officers and employees;
+
+  (B) adopting a constitution and bylaws consistent with the purposes of the Foundation and the provisions of this subchapter; and
+
+  (C) undertaking of other such acts as may be necessary to carry out the provisions of this subchapter.
+
+(2) **Limitations on appointment** — The following limitations apply with respect to the appointment of officers and employees of the Foundation:
+
+  (A) Officers and employees may not be appointed until the Foundation has sufficient funds to pay them for their service. Officers and employees of the Foundation shall be appointed without regard to the provisions of title 5 governing appointments in the competitive service, and may be paid without regard to the provisions of chapter 51 and subchapter III of chapter 53 of such title relating to classification and General Schedule pay rates.
+
+  (B) The first officer or employee appointed by the Board shall be the Secretary of the Board who—
+
+    (i) shall serve, at the direction of the Board, as its chief operating officer; and
+
+    (ii) shall be knowledgeable and experienced in matters relating to the assessment, prevention, reduction, and removal of marine debris.
+
+### Statutory Notes
+
+#### References in Text
+This subchapter, referred to in subsecs. (a)(1) and (g)(1)(B), (C), was the in the original “this title”, meaning title I of Pub. L. 116–224, Dec. 18, 2020, 134 Stat. 1074, which is classified principally to this subchapter. For complete classification of title I to the Code, see Tables.
 
 
 <a id="section-3911"></a>
-## § 3911. Regulations
+## § 3911. Rights and obligations of the Foundation
+**(a) In general** The Foundation—
 
-The Secretary or the Administrator, as applicable, may promulgate such regulations as the Secretary or Administrator determines to be appropriate to carry out this chapter.
+(1) shall have perpetual succession;
+
+(2) may conduct business throughout the several States, territories, and possessions of the United States and abroad; and
+
+(3) shall at all times maintain a designated agent authorized to accept service of process for the Foundation.
+
+**(b) Service of process** The serving of notice to, or service of process upon, the agent required under subsection (a)(3), or mailed to the business address of such agent, shall be deemed as service upon or notice to the Foundation.
+
+**(c) Powers**
+
+(1) **In general** — To carry out its purposes under [section 4211 of this title](./_uncategorized.md#section-4211), the Foundation shall have, in addition to the powers otherwise given it under this subchapter, the usual powers of a corporation acting as a trustee in the District of Columbia, including the power—
+
+  (A) to accept, receive, solicit, hold, administer, and use any gift, devise, or bequest, either absolutely or in trust, of real or personal property or any income therefrom or other interest therein;
+
+  (B) to acquire by purchase or exchange any real or personal property or interest therein;
+
+  (C) to invest any funds provided to the Foundation by the Federal Government in obligations of the United States or in obligations or securities that are guaranteed or insured by the United States;
+
+  (D) to deposit any funds provided to the Foundation by the Federal Government into accounts that are insured by an agency or instrumentality of the United States;
+
+  (E) to make use of any interest or investment income that accrues as a consequence of actions taken under subparagraph (C) or (D) to carry out the purposes of the Foundation;
+
+  (F) to use Federal funds to make payments under cooperative agreements to provide substantial long-term benefits for the assessment, prevention, reduction, and removal of marine debris;
+
+  (G) unless otherwise required by the instrument of transfer, to sell, donate, lease, invest, reinvest, retain or otherwise dispose of any property or income therefrom;
+
+  (H) to borrow money and issue bonds, debentures, or other debt instruments;
+
+  (I) to sue and be sued, and complain and defend itself in any court of competent jurisdiction, except that the Directors of the Foundation shall not be personally liable, except for gross negligence;
+
+  (J) to enter into contracts or other arrangements with, or provide financial assistance to, public agencies and private organizations and persons and to make such payments as may be necessary to carry out its functions; and
+
+  (K) to do any and all acts necessary and proper to carry out the purposes of the Foundation.
+
+(2) **Non-Federal contributions to the fund** — A gift, devise, or bequest may be accepted by the Foundation without regard to whether the gift, devise, or bequest is encumbered, restricted, or subject to beneficial interests of private persons if any current or future interest in the gift, devise, or bequest is for the benefit of the Foundation.
+
+**(d) Notice to Members of Congress** The Foundation may not make a grant of Federal funds in an amount greater than $100,000 unless, by not later than 15 days before the grant is made, the Foundation provides notice of the grant to the Member of Congress for the congressional district in which the project to be funded with the grant will be carried out.
+
+**(e) Coordination of international efforts** Any efforts of the Foundation carried out in a foreign country, and any grants provided to an individual or entity in a foreign country, shall be made only with the concurrence of the Secretary of State, in consultation, as appropriate, with the Administrator of the United States Agency for International Development.
+
+**(f) Consultation With NOAA** The Foundation shall consult with the Under Secretary during the planning of any restoration or remediation action using funds resulting from judgments or settlements relating to the damage to trust resources of the National Oceanic and Atmospheric Administration.
 
 ### Statutory Notes
 
-#### “Secretary” Defined
-Secretary means the Secretary of the Army, see section 2 of Pub. L. 113–121, set out as a note under [section 2201 of this title](./chapter-036-water-resources-development.md#section-2201).
+#### References in Text
+This subchapter, referred to in subsec. (c)(1), was the in the original “this title”, meaning title I of Pub. L. 116–224, Dec. 18, 2020, 134 Stat. 1074, which is classified principally to this subchapter. For complete classification of title I to the Code, see Tables.
 
 
 <a id="section-3912"></a>
-## § 3912. Funding
-**(a) In general**
+## § 3912. Administrative services and support
+**(a) Provision of services** The Under Secretary may provide personnel, facilities, and other administrative services to the Foundation, including reimbursement of expenses, not to exceed the current Federal Government per diem rates, for a period of up to 5 years beginning on December 18, 2020.
 
-(1) **Fiscal years 2015 through 2019** — There are authorized to be appropriated to each of the Secretary and the Administrator to carry out this chapter, to remain available until expended—
-
-  (A) $20,000,000 for fiscal year 2015;
-
-  (B) $25,000,000 for fiscal year 2016;
-
-  (C) $35,000,000 for fiscal year 2017;
-
-  (D) $45,000,000 for fiscal year 2018; and
-
-  (E) $50,000,000 for fiscal year 2019.
-
-(2) **Fiscal years 2020 and 2021** — There is authorized to be appropriated to the Administrator to carry out this chapter $50,000,000 for each of fiscal years 2020 and 2021, to remain available until expended.
-
-**(b) Administrative costs**
-
-(1) **Fiscal years 2015 through 2019** — Of the funds made available to carry out this chapter, the Secretary or the Administrator, as applicable, may use for the administration of this chapter, including for the provision of technical assistance to aid project sponsors in obtaining the necessary approvals for the project, not more than $2,200,000 for each of fiscal years 2015 through 2019.
-
-(2) **Fiscal years 2020 and 2021** — Of the funds made available to carry out this chapter, the Administrator may use for the administration of this chapter, including for the provision of technical assistance to aid project sponsors in obtaining the necessary approvals for the project, not more than $5,000,000 for each of fiscal years 2020 and 2021.
-
-**(c) Small community water infrastructure projects**
-
-(1) **In general** — For each fiscal year, the Secretary or the Administrator, as applicable, shall set aside not less than 15 percent of the amounts made available for that fiscal year under this section for small community water infrastructure projects described in [section 3907(a)(2)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section3907/a/2/B&num=0&edition=prelim).
-
-(2) **Administration** — Any amounts set aside under paragraph (1) that remain unobligated on June 1 of the fiscal year for which the amounts are set aside shall be available for obligation by the Secretary or the Administrator, as applicable, for projects other than small community water infrastructure projects.
-
-**(d) Additional funding** Notwithstanding [section 3908(b)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section3908/b/2&num=0&edition=prelim), the Secretary or the Administrator, as applicable, may make available up to 25 percent of the amounts made available for each fiscal year under this section for loans in excess of 49 percent of the total project costs.
-
-**(e) Assistance for State infrastructure financing authorities**
-
-(1) **In general** — With respect to fiscal years 2020 and 2021, if the Administrator has available for obligation in a fiscal year at least $50,000,000, there is authorized to be appropriated to the Administrator $5,000,000 for that fiscal year to provide financial assistance for projects described in [section 3905(9) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section3905/9&num=0&edition=prelim) to State infrastructure financing authorities.
-
-(2) **No impact on other Federal funding** — No funds shall be made available in a fiscal year to the Administrator for purposes of this subsection if—
-
-  (A) the total amount appropriated for the fiscal year for State loan funds under [section 300j–12 of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section300j–12&num=0&edition=prelim) is less than either the amount made available for such purpose in fiscal year 2018, or 105 percent of the previous fiscal year’s appropriation for such purpose, whichever is greater; and
-
-  (B) the total amount appropriated for the fiscal year for water pollution control revolving funds under title VI of the Federal Water Pollution Control Act [[33 U.S.C. 1381](./chapter-026-water-pollution-prevention-and-control.md#section-1381) et seq.] is less than either the amount made available for such purpose for fiscal year 2018, or 105 percent of the previous fiscal year’s appropriation for such purpose, whichever is greater.
-
-(3) **Inclusion in agreement** — If the Administrator provides financial assistance to a State infrastructure financing authority under [section 3908 of this title](./chapter-052-water-infrastructure-finance-and-innovation.md#section-3908) using funds made available pursuant to this subsection, the Administrator shall specify in the agreement under such section the amount of such assistance that is attributable to such funds.
-
-### Statutory Notes
-
-#### References in Text
-The Federal Water Pollution Control Act, referred to in subsec (e)(2)(B), is act June 30, 1948, ch. 758, as amended generally by Pub. L. 92–500, § 2, Oct. 18, 1972, 86 Stat. 816, which is classified generally to chapter 26 (§ 1251 et seq.) of this title. Title VI of the Act is classified generally to subchapter VI (§ 1381 et seq.) of chapter 26 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1251 of this title](./chapter-026-water-pollution-prevention-and-control.md#section-1251) and Tables.
-
-#### Amendments
-2018—Subsec. (a). Pub. L. 115–270, § 4201(a)(4)(A), designated existing provisions as par. (1) and inserted heading, substituted “There are” for “There is”, redesignated former pars. (1) to (5) as subpars. (A) to (E), respectively, of par. (1), realigned margins, and added par. (2).
-
-Subsec. (b). Pub. L. 115–270, § 4201(a)(4)(B), designated existing provisions as par. (1), inserted heading, and added par. (2).
-
-Subsec. (e). Pub. L. 115–270, § 4201(b)(3), added subsec. (e).
-
-#### “Secretary” Defined
-Secretary means the Secretary of the Army, see section 2 of Pub. L. 113–121, set out as a note under [section 2201 of this title](./chapter-036-water-resources-development.md#section-2201).
+**(b) Reimbursement** The Under Secretary shall require reimbursement from the Foundation for any administrative service provided under subsection (a). The Under Secretary shall deposit any reimbursement received under this subsection into the Treasury to the credit of the appropriations then current and chargeable for the cost of providing such services.
 
 
 <a id="section-3913"></a>
-## § 3913. Reports on program implementation
-**(a) Agency reporting** As soon as practicable after each fiscal year for which amounts are made available to carry out this chapter, the Secretary and the Administrator shall publish on a dedicated, publicly accessible Internet site—
+## § 3913. Volunteer status
 
-(1) each application received for assistance under this chapter; and
-
-(2) a list of the projects selected for assistance under this chapter, including—
-
-  (A) a description of each project;
-
-  (B) the amount of financial assistance provided for each project; and
-
-  (C) the basis for the selection of each project with respect to the requirements of this chapter.
-
-**(b) Reports to Congress**
-
-(1) **In general** — Not later than 3 years after October 23, 2018, the Comptroller General of the United States shall submit to the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a report summarizing for the projects that are receiving, or have received, assistance under this chapter—
-
-  (A) the applications received for assistance under this chapter;
-
-  (B) the projects selected for assistance under this chapter, including a description of the projects and the basis for the selection of those projects with respect to the requirements of this chapter;
-
-  (C) the type and amount of financial assistance provided for each project selected for assistance under this chapter;
-
-  (D) the financial performance of each project selected for assistance under this chapter, including an evaluation of whether the objectives of this chapter are being met;
-
-  (E) the benefits and impacts of implementation of this chapter, including the public benefit provided by the projects selected for assistance under this chapter, including, as applicable, water quality and water quantity improvement, the protection of drinking water, and the reduction of flood risk; and
-
-  (F) an evaluation of the feasibility of attracting non-Federal public or private financing for water infrastructure projects as a result of the implementation of this chapter.
-
-(2) **Recommendations** — The report under paragraph (1) shall include—
-
-  (A) an evaluation of the impacts (if any) of the limitation under section 3907(a)(5) 11 See References in Text note below. of this title on the ability of eligible entities to finance water infrastructure projects under this chapter;
-
-  (B) a recommendation as to whether the objectives of this chapter would be best served—
-
-    (i) by continuing the authority of the Secretary or the Administrator, as applicable, to provide assistance under this chapter;
-
-    (ii) by establishing a Government corporation or Government-sponsored enterprise to provide assistance in accordance with this chapter; or
-
-    (iii) by terminating the authority of the Secretary and the Administrator under this chapter and relying on the capital markets to fund the types of infrastructure investments assisted by this chapter without Federal participation; and
-
-  (C) any proposed changes to improve the efficiency and effectiveness of this chapter in providing financing for water infrastructure projects, taking into consideration the recommendations made under subparagraphs (A) and (B).
+The Secretary of Commerce may accept, without regard to the civil service classification laws, rules, or regulations, the services of the Foundation, the Board, and the officers and employees of the Board, without compensation from the Department of Commerce, as volunteers in the performance of the functions authorized in this subchapter.
 
 ### Statutory Notes
 
 #### References in Text
-[Section 3907(a)(5) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section3907/a/5&num=0&edition=prelim), referred to in subsec. (b)(2)(A), was struck out, and [section 3907(a)(6) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section3907/a/6&num=0&edition=prelim) was redesignated as 3907(a)(5), by Pub. L. 114–94, div. A, title I, § 1445, Dec. 4, 2015, 129 Stat. 1437. As amended, section 3907(a)(5) no longer relates to limitation.
-
-#### Amendments
-2018—Pub. L. 115–270, § 4201(d)(1), struck out “pilot” before “program” in section catchline.
-
-Subsec. (b)(1). Pub. L. 115–270, § 4201(d)(2), substituted “3 years after October 23, 2018” for “4 years after June 10, 2014” in introductory provisions.
-
-#### “Secretary” Defined
-Secretary means the Secretary of the Army, see section 2 of Pub. L. 113–121, set out as a note under [section 2201 of this title](./chapter-036-water-resources-development.md#section-2201).
+This subchapter, referred to in text, was the in the original “this title”, meaning title I of Pub. L. 116–224, Dec. 18, 2020, 134 Stat. 1074, which is classified principally to this subchapter. For complete classification of title I to the Code, see Tables.
 
 
 <a id="section-3914"></a>
-## § 3914. Requirements
-**(a) In general** Except as provided in subsection (c), none of the amounts made available under this chapter may be used for the construction, alteration, maintenance, or repair of a project eligible for assistance under this chapter unless all of the iron and steel products used in the project are produced in the United States.
+## § 3914. Report requirements; petition of Attorney General for equitable relief
+**(a) Report** The Foundation shall, as soon as practicable after the end of each fiscal year, transmit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Natural Resources, the Committee on Transportation and Infrastructure, and the Committee on Energy and Commerce of the House of Representatives a report—
 
-**(b) Definition of iron and steel products** In this section, the term “iron and steel products” means the following products made primarily of iron or steel: lined or unlined pipes and fittings, manhole covers and other municipal castings, hydrants, tanks, flanges, pipe clamps and restraints, valves, structural steel, reinforced precast concrete, and construction materials.
+(1) describing the proceedings and activities of the Foundation during that fiscal year, including a full and complete statement of its receipts, expenditures, and investments; and
 
-**(c) Application** Subsection (a) shall not apply in any case or category of cases in which the Administrator finds that—
+(2) including a detailed statement of the recipient, amount, and purpose of each grant made by the Foundation in the fiscal year.
 
-(1) applying subsection (a) would be inconsistent with the public interest;
+**(b) Relief with respect to certain Foundation acts or failure to act** If the Foundation—
 
-(2) iron and steel products are not produced in the United States in sufficient and reasonably available quantities and of a satisfactory quality; or
+(1) engages in, or threatens to engage in, any act, practice, or policy that is inconsistent with its purposes set forth in [section 4211(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section4211/b&num=0&edition=prelim); or
 
-(3) inclusion of iron and steel products produced in the United States will increase the cost of the overall project by more than 25 percent.
+(2) refuses, fails, or neglects to discharge its obligations under this subchapter, or threatens to do so,
+the Attorney General may petition in the United States District Court for the District of Columbia for such equitable relief as may be necessary or appropriate.
 
-**(d) Waiver** If the Administrator receives a request for a waiver under this section, the Administrator shall make available to the public, on an informal basis, a copy of the request and information available to the Administrator concerning the request, and shall allow for informal public input on the request for at least 15 days prior to making a finding based on the request. The Administrator shall make the request and accompanying information available by electronic means, including on the official public Internet Web site of the Environmental Protection Agency.
+### Statutory Notes
 
-**(e) International agreements** This section shall be applied in a manner consistent with United States obligations under international agreements.
+#### References in Text
+This subchapter, referred to in subsec. (b)(2), was the in the original “this title”, meaning title I of Pub. L. 116–224, Dec. 18, 2020, 134 Stat. 1074, which is classified principally to this subchapter. For complete classification of title I to the Code, see Tables.

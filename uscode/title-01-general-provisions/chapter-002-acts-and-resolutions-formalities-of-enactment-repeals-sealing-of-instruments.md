@@ -313,12 +313,16 @@ Copies of United States Treaties and Other International Agreements not availabl
 
 **(f)** The President shall, through the Secretary of State, promulgate such rules and regulations as may be necessary to carry out this section.
 
+**(g)** It is the sense of Congress that the executive branch should not prescribe or otherwise commit to or include specific legislative text in a treaty or executive agreement unless Congress has authorized such action.
+
 ### Statutory Notes
 
 #### References in Text
 Section 6(j)(1)(A) of the Export Administration Act of 1979, referred to in subsec. (e)(2)(B)(ii), which was classified to section 2405(j)(1)(A) of the former Appendix to Title 50, War and National Defense, prior to editorial reclassification and renumbering as [section 4605(j)(1)(A) of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4605/j/1/A&num=0&edition=prelim), was repealed by Pub. L. 115–232, div. A, title XVII, § 1766(a), Aug. 13, 2018, 132 Stat. 2232.
 
 #### Amendments
+2020—Subsec. (g). Pub. L. 116–260 added subsec. (g).
+
 2004—Subsec. (a). Pub. L. 108–458, § 7121(b), substituted “Committee on International Relations” for “Committee on Foreign Affairs”.
 
 Subsec. (d). Pub. L. 108–458, § 7121(c), added subsec. (d). Former subsec. (d) redesignated (e).

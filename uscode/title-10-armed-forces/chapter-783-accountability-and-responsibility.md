@@ -21,7 +21,7 @@ The Secretary of the Army has custody and charge of all books, records, papers, 
 The words “under the lawful control of the executive part of the Department of the Army” are substituted for the words “appertaining to the Department”.
 
 #### Amendments
-2018—Pub. L. 115–232 renumbered [section 4831 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section4831&num=0&edition=prelim) as this section.
+2018—Pub. L. 115–232 renumbered [section 4831 of this title](./chapter-383-development-application-and-support-of-dual-use-technologies.md#section-4831) as this section.
 
 #### Effective Date of 2018 Amendment
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
@@ -206,7 +206,7 @@ When authorized by the Secretary of the Army, a disbursing official of Army subs
 The title of Secretary of War was changed to Secretary of the Army by section 205(a) of the Act of July 26, 1947 (ch. 343, 61 Stat. 501), and by sections 1 and 53 of the Act of August 10, 1956 (ch. 1041, 70A Stat. 157, 676). The word “When” is substituted for “as shall from time to time be” to eliminate unnecessary words. The words “disbursing official” are substituted for “Officers intrusted with the disbursement” for consistency.
 
 #### Amendments
-2018—Pub. L. 115–232 renumbered [section 4841 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section4841&num=0&edition=prelim) as this section.
+2018—Pub. L. 115–232 renumbered [section 4841 of this title](./chapter-384-manufacturing-technology.md#section-4841) as this section.
 
 #### Effective Date of 2018 Amendment
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
@@ -235,7 +235,7 @@ A prior section 7911, Pub. L. 110–181, div. A, title III, § 377(a), Jan. 28, 
 Prior sections 7912, 7913, and 7921 were renumbered sections 8942, 8943, and 8951 of this title, respectively.
 
 #### Amendments
-2018—Pub. L. 115–232 renumbered [section 4842 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section4842&num=0&edition=prelim) as this section.
+2018—Pub. L. 115–232 renumbered [section 4842 of this title](./chapter-384-manufacturing-technology.md#section-4842) as this section.
 
 #### Effective Date of 2018 Amendment
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).

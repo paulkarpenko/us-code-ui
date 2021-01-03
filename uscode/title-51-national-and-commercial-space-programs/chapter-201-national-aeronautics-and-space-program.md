@@ -85,6 +85,75 @@ Pub. L. 101–611, title I, §§ 101, 102, Nov. 16, 1990, 104 Stat. 3188, 3189, 
 #### National Aeronautics and Space Capital Development Program
 Pub. L. 100–685, title I, § 101, Nov. 17, 1988, 102 Stat 4083, provided that: “Congress finds that— “(1) in accordance with section 106 of the National Aeronautics and Space Administration Authorization Act of 1988 (Public Law 100–147) [set out as a note under [section 70901 of this title](./chapter-709-international-space-station.md#section-70901)], a space station, hereafter referred to as the United States International Space Station, shall be constructed in order to establish a permanent presence for man in space for the following purposes—“(A) the conduct of scientific experiments, applications experiments, and engineering experiments; “(B) the servicing, rehabilitation, and construction of satellites and space vehicles; “(C) the development and demonstration of commercial products and processes; and “(D) the establishment of a space base for other civilian and commercial space activities including an outpost for further exploration of the solar system; “(2) expendable launch vehicles should be used to launch those payloads that do not require the presence of man; “(3) the space shuttle launches should be used to fulfill the Nation’s needs for manned access to space; “(4) preeminence in space and aeronautics is key to the national security and economic well being of the United States; “(5) United States space policy needs long-range goals and direction in order to provide understanding for near-term space projects and programs; “(6) over the next five years the National Aeronautics and Space Administration, hereafter referred to as the ‘Administration’, should pursue leadership in science through an aggressive set of major and moderate missions while maintaining a robust series of cost effective missions that can provide frequent flight opportunities to the scientific community[;] “(7) over the next five years the Administration should prepare for the transition to the United States International Space Station of those science and technology programs that can be most efficiently and effectively conducted on that facility; “(8) the Administration should encourage the United States private sector investment in space and, to the maximum extent practicable provide frequent flight opportunities for the development of technologies, processes and products that benefit from the space environment; “(9) the Administration should enhance the existing space transportation capability through a robust mixed fleet of manned and unmanned vehicles in order to increase the reliability, productivity, and efficiency and reduce the cost of the Nation’s access to space; “(10) the United States faces an increasingly successful foreign challenge to its traditional preeminent position in aeronautics which is rapidly reducing its lead in both civil and military aircraft; “(11) NASA’s personnel are an integral component and resource for the Nation’s space program, and an innovative personnel system should be developed; “(12) the establishment of a permanent presence in space leading ultimately to space settlements is fully consistent with the goals of the National Aeronautics and Space Act of 1958 [see [51 U.S.C. 20101](./chapter-201-national-aeronautics-and-space-program.md#section-20101) et seq.]; “(13) the United States civil space activities should contribute significantly to enhancing the Nation’s scientific and technological leadership, economy, pride, and sense of well-being, as well as United States world prestige and leadership; “(14) civil sector activities should be comprised of a balanced strategy of research, development, operations, and technology for science, exploration, and appropriate applications; “(15) assured access to space, sufficient to achieve all United States space goals, is an essential element of United States space policy, and the United States space transportation systems must provide a balanced, robust, and flexible capability with sufficient resiliency to allow continued operation despite failures in any single system; “(16) the goals of the United States space transportation system are—“(A) to achieve and maintain safe and reliable access to, transportation in, and return from, space; “(B) to exploit the unique attributes of manned and unmanned launch and recovery systems; “(C) to encourage, to the maximum extent feasible, the development and use of United States private sector space transportation capabilities; and “(D) to reduce the costs of space transportation and related services; “(17) recognizing that communications advancements are critical to all United States space activities, the Administration should continue research and development efforts for future advances in space communications technologies; “(18) the goal of aeronautical research and technology development and validation activities should be to contribute to a national technology base that will enhance United States preeminence in civil and military aviation and improve the safety and efficiency of the United States air transportation system; and “(19) aeronautical research and technology development and validation activities should—“(A) emphasize emerging technologies with potential for breakthrough advances; “(B) consist of—“(i) fundamental research in all aeronautical disciplines, aimed at greater understanding of aeronautical phenomena and development of new aeronautical concepts; and “(ii) technology development and validation activities aimed at laboratory-scale development and proof-of-concept demonstration of selected concepts with high payoff potential; “(C) assure maintenance of robust aeronautical laboratories, including a first-rate technical staff and modern national facilities for the conduct of research and testing activities; “(D) be conducted with the close, active participation of the United States aircraft industry so as to accelerate the transfer of research results to aviation products; “(E) include providing technical assistance and facility support to other government agencies and United States industry; “(F) include conducting joint projects with other government agencies where such projects contribute materially to the goals set forth in this section; “(G) assure strong participation of United States universities both in carrying out aeronautical research and training future aeronautical research personnel; and “(H) be conducted, where practical, so that United States industry receives research results before foreign competitors.”
 
+#### Space Policy Directive–5. Cybersecurity Principles for Space Systems
+Space Policy Directive–5, Sept. 4, 2020, 85 F.R. 56155, provided:
+
+Memorandum for the Vice President[,] the Secretary of State[,] the Secretary of Defense[,] the Attorney General[,] the Secretary of Commerce[,] the Secretary of Transportation[,] the Secretary of Homeland Security[,] the Director of the Office of Management and Budget[,] the Assistant to the President for National Security Affairs[,] the Director of National Intelligence[,] the Director of the Central Intelligence Agency[,] the Director of the National Security Agency[,] the Director of the National Reconnaissance Office[,] the Administrator of the National Aeronautics and Space Administration[,] the Director of the Office of Science and Technology Policy[,] the Chairman of the Joint Chiefs of Staff[, and] the Chairman of the Federal Communications Commission
+
+Section 1. Background. The United States considers unfettered freedom to operate in space vital to advancing the security, economic prosperity, and scientific knowledge of the Nation. Space systems enable key functions such as global communications; positioning, navigation, and timing; scientific observation; exploration; weather monitoring; and multiple vital national security applications. Therefore, it is essential to protect space systems from cyber incidents in order to prevent disruptions to their ability to provide reliable and efficient contributions to the operations of the Nation’s critical infrastructure.
+
+Space systems are reliant on information systems and networks from design conceptualization through launch and flight operations. Further, the transmission of command and control and mission information between space vehicles and ground networks relies on the use of radio-frequency-dependent wireless communication channels. These systems, networks, and channels can be vulnerable to malicious activities that can deny, degrade, or disrupt space operations, or even destroy satellites.
+
+Examples of malicious cyber activities harmful to space operations include spoofing sensor data; corrupting sensor systems; jamming or sending unauthorized commands for guidance and control; injecting malicious code; and conducting denial-of-service attacks. Consequences of such activities could include loss of mission data; decreased lifespan or capability of space systems or constellations; or the loss of positive control of space vehicles, potentially resulting in collisions that can impair systems or generate harmful orbital debris.
+
+The National Security Strategy of December 2017 states that “[t]he United States must maintain our leadership and freedom of action in space.” As the space domain is contested, it is necessary for developers, manufacturers, owners, and operators of space systems to design, build, operate, and manage them so that they are resilient to cyber incidents and radio-frequency spectrum interference.
+
+Space Policy Directive–3 (SPD–3) of June 18, 2018 (National Space Traffic Management Policy) [[51 U.S.C. 71302](./chapter-713-cooperation-for-safety-among-spacefaring-nations.md#section-71302) note], states that “[s]atellite and constellation owners should participate in a pre-launch certification process” that should consider a number of factors, including encryption of satellite command and control links and data protection measures for ground site operations.
+
+The National Cyber Strategy of September 2018 states that my Administration will enhance efforts to protect our space assets and supporting infrastructure from evolving cyber threats, and will work with industry and international partners to strengthen the cyber resilience of existing and future space systems.
+
+Sec. 2. Definitions. For the purposes of this memorandum, the following definitions shall apply:
+
+(a) “Space System” means a combination of systems, to include ground systems, sensor networks, and one or more space vehicles, that provides a space-based service. A space system typically has three segments: a ground control network, a space vehicle, and a user or mission network. These systems include Government national security space systems, Government civil space systems, and private space systems.
+
+(b) “Space Vehicle” means the portion of a space system that operates in space. Examples include satellites, space stations, launch vehicles, launch vehicle upper stage components, and spacecraft.
+
+(c) “Positive Control” means the assurance that a space vehicle will only execute commands transmitted by an authorized source and that those commands are executed in the proper order and at the intended time.
+
+(d) “Critical space vehicle functions (critical functions)” means the functions of the vehicle that the operator must maintain to ensure intended operations, positive control, and retention of custody. The failure or compromise of critical space vehicle functions could result in the space vehicle not responding to authorized commands, loss of critical capability, or responding to unauthorized commands.
+
+Sec. 3. Policy. Cybersecurity principles and practices that apply to terrestrial systems also apply to space systems. Certain principles and practices, however, are particularly important to space systems. For example, it is critical that cybersecurity measures, including the ability to perform updates and respond to incidents remotely, are integrated into the design of the space vehicle before launch, as most space vehicles in orbit cannot currently be physically accessed. For this reason, integrating cybersecurity into all phases of development and ensuring full life-cycle cybersecurity are critical for space systems. Effective cybersecurity practices arise out of cultures of prevention, active defense, risk management, and sharing best practices.
+
+The United States must manage risks to the growth and prosperity of our commercial space economy. To do so and to strengthen national resilience, it is the policy of the United States that executive departments and agencies (agencies) will foster practices within Government space operations and across the commercial space industry that protect space assets and their supporting infrastructure from cyber threats and ensure continuity of operations.
+
+The cybersecurity principles for space systems set forth in section 4 of this memorandum are established to guide and serve as the foundation for the United States Government approach to the cyber protection of space systems. Agencies are directed to work with the commercial space industry and other non-government space operators, consistent with these principles and with applicable law, to further define best practices, establish cybersecurity-informed norms, and promote improved cybersecurity behaviors throughout the Nation’s industrial base for space systems.
+
+Sec. 4. Principles. (a) Space systems and their supporting infrastructure, including software, should be developed and operated using risk-based, cybersecurity-informed engineering. Space systems should be developed to continuously monitor, anticipate, and adapt to mitigate evolving malicious cyber activities that could manipulate, deny, degrade, disrupt, destroy, surveil, or eavesdrop on space system operations. Space system configurations should be resourced and actively managed to achieve and maintain an effective and resilient cyber survivability posture throughout the space system lifecycle.
+
+(b) Space system owners and operators should develop and implement cybersecurity plans for their space systems that incorporate capabilities to ensure operators or automated control center systems can retain or recover positive control of space vehicles. These plans should also ensure the ability to verify the integrity, confidentiality, and availability of critical functions and the missions, services, and data they enable and provide. At a minimum, space system owners and operators should consider, based on risk assessment and tolerance, incorporating in their plans:
+
+(i) Protection against unauthorized access to critical space vehicle functions. This should include safeguarding command, control, and telemetry links using effective and validated authentication or encryption measures designed to remain secure against existing and anticipated threats during the entire mission lifetime;
+
+(ii) Physical protection measures designed to reduce the vulnerabilities of a space vehicle’s command, control, and telemetry receiver systems;
+
+(iii) Protection against communications jamming and spoofing, such as signal strength monitoring programs, secured transmitters and receivers, authentication, or effective, validated, and tested encryption measures designed to provide security against existing and anticipated threats during the entire mission lifetime;
+
+(iv) Protection of ground systems, operational technology, and information processing systems through the adoption of deliberate cybersecurity best practices. This adoption should include practices aligned with the National Institute of Standards and Technology’s Cybersecurity Framework to reduce the risk of malware infection and malicious access to systems, including from insider threats. Such practices include logical or physical segregation; regular patching; physical security; restrictions on the utilization of portable media; the use of antivirus software; and promoting staff awareness and training inclusive of insider threat mitigation precautions;
+
+(v) Adoption of appropriate cybersecurity hygiene practices, physical security for automated information systems, and intrusion detection methodologies for system elements such as information systems, antennas, terminals, receivers, routers, associated local and wide area networks, and power supplies; and
+
+(vi) Management of supply chain risks that affect cybersecurity of space systems through tracking manufactured products; requiring sourcing from trusted suppliers; identifying counterfeit, fraudulent, and malicious equipment; and assessing other available risk mitigation measures.
+
+(c) Implementation of these principles, through rules, regulations, and guidance, should enhance space system cybersecurity, including through the consideration and adoption, where appropriate, of cybersecurity best practices and norms of behavior.
+
+(d) Space system owners and operators should collaborate to promote the development of best practices, to the extent permitted by applicable law. They should also share threat, warning, and incident information within the space industry, using venues such as Information Sharing and Analysis Centers to the greatest extent possible, consistent with applicable law.
+
+(e) Security measures should be designed to be effective while permitting space system owners and operators to manage appropriate risk tolerances and minimize undue burden, consistent with specific mission requirements, United States national security and national critical functions, space vehicle size, mission duration, maneuverability, and any applicable orbital regimes.
+
+Sec. 5. General Provisions. (a) Nothing in this memorandum shall be construed to impair or otherwise affect:
+
+(i) the authority granted by law to an executive department or agency, or the head thereof; or
+
+(ii) the functions of the Director of the Office of Management and Budget relating to budgetary, administrative, or legislative proposals.
+
+(b) This memorandum shall be implemented consistent with applicable law and subject to the availability of appropriations.
+
+(c) This memorandum is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+
+(d) The Secretary of Commerce is authorized and directed to publish this memorandum in the Federal Register.
+
+Donald J. Trump.
+
 
 <a id="section-20103"></a>
 ## § 20103. Definitions
@@ -171,7 +240,7 @@ NOW, THEREFORE, by virtue of the authority vested in me as President of the Unit
 Ex. Ord. No. 12675, Apr. 20, 1989, 54 F.R. 17691, as amended by Ex. Ord. No. 12712, Apr. 26, 1990, 55 F.R. 18095; Ex. Ord. No. 12869, § 4(f), Sept. 30, 1993, 58 F.R. 51752, which established the National Space Council, was superseded by Ex. Ord. No. 13803, § 9(a), June 30, 2017, 82 F.R. 31431, set out below.
 
 #### Ex. Ord. No. 13803. Reviving the National Space Council
-Ex. Ord. No. 13803, June 30, 2017, 82 F.R. 31429, provided:
+Ex. Ord. No. 13803, June 30, 2017, 82 F.R. 31429, as amended by Ex. Ord. No. 13906, Feb. 13, 2020, 85 F.R. 10031, provided:
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, and in order to provide a coordinated process for developing and monitoring the implementation of national space policy and strategy, it is hereby ordered as follows:
 
@@ -191,23 +260,27 @@ Sec. 2. Revival and Composition of the National Space Council. (a) The Council i
 
 (v) The Secretary of Transportation;
 
-(vi) The Secretary of Homeland Security;
+(vi) The Secretary of Energy;
 
-(vii) The Director of National Intelligence;
+(vii) The Secretary of Homeland Security;
 
-(viii) The Director of the Office of Management and Budget;
+(viii) The Director of National Intelligence;
 
-(ix) The Assistant to the President for National Security Affairs;
+(ix) The Director of the Office of Management and Budget;
 
-(x) The Administrator of the National Aeronautics and Space Administration;
+(x) The Assistant to the President for National Security Affairs;
 
-(xi) The Director of the Office of Science and Technology Policy;
+(xi) The Assistant to the President for Economic Policy;
 
-(xii) The Assistant to the President for Homeland Security and Counterterrorism;
+(xii) The Assistant to the President for Domestic Policy;
 
-(xiii) The Chairman of the Joint Chiefs of Staff; and
+(xiii) The Administrator of the National Aeronautics and Space Administration;
 
-(xiv) The heads of other executive departments and agencies (agencies) and other senior officials within the Executive Office of the President, as determined by the Chair.
+(xiv) The Director of the Office of Science and Technology Policy;
+
+(xv) The Chairman of the Joint Chiefs of Staff; and
+
+(xvi) The heads of other executive departments and agencies (agencies) and other senior officials within the Executive Office of the President, as determined by the Chair.
 
 Sec. 3. Functions of the Council. (a) The Council shall advise and assist the President regarding national space policy and strategy, and perform such other duties as the President may, from time to time, prescribe.
 
@@ -235,7 +308,7 @@ Sec. 4. Responsibilities of the Chair. (a) The Chair shall serve as the Presiden
 
 (b) The Chair shall, in consultation with the members of the Council, establish procedures for the Council and establish the agenda for Council activities.
 
-(c) The Chair shall report to the President quarterly on the Council’s activities and recommendations. The Chair shall advise the Council, as appropriate, regarding the President’s directions with respect to the Council’s activities and national space policy and strategy.
+(c) The Chair shall advise the Council, as appropriate, regarding the President’s directions with respect to the Council’s activities and national space policy and strategy.
 
 (d) The Chair may recommend to the President candidates for the position of Executive Secretary.
 
@@ -360,7 +433,7 @@ Donald J. Trump.
 
 (5) **Possessory interests.—** — A concessioner may be accorded a possessory interest, consisting of all incidents of ownership except legal title (which shall vest in the United States), in any structure, fixture, or improvement the concessioner constructs or locates upon land owned by the United States. With the approval of the Administration, such possessory interest may be assigned, transferred, encumbered, or relinquished by the concessioner, and, unless otherwise provided by contract, shall not be extinguished by the expiration or other termination of the concession and may not be taken for public use without just compensation.
 
-**(l) Detailing Members of Armed Services.—** In the performance of its functions, the Administration is authorized, with the approval of the President, to enter into cooperative agreements under which members of the Army, Navy, Air Force, and Marine Corps may be detailed by the appropriate Secretary for services in the performance of functions under this chapter to the same extent as that to which they might be lawfully assigned in the Department of Defense.
+**(l) Detailing Members of Armed Forces.—** In the performance of its functions, the Administration is authorized, with the approval of the President, to enter into cooperative agreements under which members of the Army, Navy, Air Force, Marine Corps, and Space Force may be detailed by the appropriate Secretary for services in the performance of functions under this chapter to the same extent as that to which they might be lawfully assigned in the Department of Defense.
 
 **(m) Claims Against the United States.—** In the performance of its functions, the Administration is authorized—
 
@@ -395,6 +468,8 @@ Level III of the Executive Schedule, referred to in subsec. (b)(1), is set out i
 The Federal Property and Administrative Services Act of 1949, referred to in subsec. (c)(4), is act June 30, 1949, ch. 288, 63 Stat. 377. Title III of the Act was classified generally to subchapter IV (§ 251 et seq.) of chapter 4 of former Title 41, Public Contracts, and was substantially repealed and restated in division C (§ 3101 et seq.) of subtitle I of Title 41, Public Contracts, by Pub. L. 111–350, §§ 3, 7(b), Jan. 4, 2011, 124 Stat. 3677, 3855. For complete classification of this Act to the Code, see Short Title of 1949 Act note set out under [section 101 of Title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section101&num=0&edition=prelim) and Tables. For disposition of sections of former Title 41, see Disposition Table preceding [section 101 of Title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section101&num=0&edition=prelim).
 
 #### Amendments
+2021—Subsec. (l). Pub. L. 116–283 substituted “Forces” for “Services” in heading and “Marine Corps, and Space Force” for “and Marine Corps” in text.
+
 2017—Subsec. (g). Pub. L. 115–10, § 835(d)(2), struck out “and Congress” after “advice to the Administration”.
 
 Pub. L. 115–10, § 835(d)(1), inserted “and Congress” after “advice to the Administration”.
@@ -1011,10 +1086,14 @@ In subsection (i)(4), the words “Committee on Science and Technology” are su
 #### Change of Name
 Committee on Science and Technology of House of Representatives changed to Committee on Science, Space, and Technology of House of Representatives by House Resolution No. 5, One Hundred Twelfth Congress, Jan. 5, 2011.
 
-#### Availability of funds
-Pub. L. 116–6, div. C, title III, Feb. 15, 2019, 133 Stat. 123, provided in part that: “Funds for any announced prize otherwise authorized shall remain available, without fiscal year limitation, until a prize is claimed or the offer is withdrawn.”
+#### Availability of Funds
+Pub. L. 116–260, div. B, title III, Dec. 27, 2020, 134 Stat. 1270, provided in part that: “Funds for any announced prize otherwise authorized shall remain available, without fiscal year limitation, until a prize is claimed or the offer is withdrawn.”
 
 Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 116–93, div. B, title III, Dec. 20, 2019, 133 Stat. 2419.
+
+Pub. L. 116–6, div. C, title III, Feb. 15, 2019, 133 Stat. 123.
 
 Pub. L. 115–141, div. B, title III, Mar. 23, 2018, 132 Stat. 431.
 
@@ -1062,7 +1141,7 @@ Pub. L. 110–422, title XI, § 1105(a), Oct. 15, 2008, 122 Stat. 4809, provided
 
 (2) **Availability and use of funds for operating plan.—** — The availability and use of funds received under this section for the Administration’s operating plan.
 
-**(g) Sunset.—** The authority to enter into leases under this section shall expire December 31, 2019. The expiration under this subsection of authority to enter into leases under this section shall not affect the validity or term of leases or the Administration’s retention of proceeds from leases entered into under this section before the expiration of the authority.
+**(g) Sunset.—** The authority to enter into leases under this section shall expire December 31, 2021. The expiration under this subsection of authority to enter into leases under this section shall not affect the validity or term of leases or the Administration’s retention of proceeds from leases entered into under this section before the expiration of the authority.
 
 ### Statutory Notes
 
@@ -1076,6 +1155,8 @@ In subsection (f)(2), the word “Administration’s” is substituted for “Ag
 In subsection (g), the words “10 years after December 26, 2007” are substituted for “on the date that is ten years after the date of the enactment of the Commerce, Justice, Science, and Related Agencies Appropriations Act of 2008” for consistency and to reflect the date of enactment of the Commerce, Justice, Science, and Related Agencies Appropriations Act, 2008 (Public Law 110–161, div. B, 121 Stat. 1884).
 
 #### Amendments
+2019—Subsec. (g). Pub. L. 116–94 substituted “December 31, 2021” for “December 31, 2019”.
+
 2018—Subsec. (g). Pub. L. 115–403 substituted “December 31, 2019” for “December 31, 2018”.
 
 2017—Subsec. (g). Pub. L. 115–10 substituted “December 31, 2018” for “10 years after December 26, 2007”.
@@ -1086,6 +1167,10 @@ In subsection (g), the words “10 years after December 26, 2007” are substitu
 Pub. L. 113–6, div. B, title III, Mar. 26, 2013, 127 Stat. 263, provided in part: “That hereafter, notwithstanding section 315 of the National Aeronautics and Space Act of 1958 (see [51 U.S.C. 20145](./chapter-201-national-aeronautics-and-space-program.md#section-20145)), all proceeds from leases entered into under that section shall be deposited into this account [funds appropriated under the headings ‘National Aeronautics and Space Administration’ and ‘construction and environmental compliance and restoration’ of title III of div. B of Pub. L. 113–6]: Provided further, That such proceeds shall be available for a period of 5 years to the extent and in amounts as provided in annual appropriations Acts”.
 
 Similar provisions were contained in the following appropriation acts:
+
+Pub. L. 116–260, div. B, title III, Dec. 27, 2020, 134 Stat. 1270.
+
+Pub. L. 116–93, div. B, title III, Dec. 20, 2019, 133 Stat. 2418.
 
 Pub. L. 116–6, div. C, title III, Feb. 15, 2019, 133 Stat. 123.
 

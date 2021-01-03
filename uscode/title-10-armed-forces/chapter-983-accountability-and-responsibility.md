@@ -58,7 +58,7 @@ Section, act Aug. 10, 1956, ch. 1041, 70A Stat. 594, prohibited unauthorized dis
 
 <a id="section-9837"></a>
 ## § 9837. Settlement of accounts: remission or cancellation of indebtedness of members
-**(a) In General.—** The Secretary of the Air Force may have remitted or cancelled any part of the indebtedness of a person to the United States or any instrumentality of the United States incurred while the person was serving as a member of the Air Force, whether as a regular or a reserve in active status, but only if the Secretary considers such action to be in the best interest of the United States.
+**(a) In General.—** The Secretary of the Air Force may have remitted or cancelled any part of the indebtedness of a person to the United States or any instrumentality of the United States incurred while the person was serving as a member of the Air Force or the Space Force, whether as a regular or a reserve in active status, but only if the Secretary considers such action to be in the best interest of the United States.
 
 **(b) Retroactive Applicability to Certain Debts.—** The authority in subsection (a) may be exercised with respect to any debt covered by that subsection that is incurred on or after October 7, 2001.
 
@@ -97,6 +97,8 @@ The change [in subsec. (b)] reflects the opinion of the Judge Advocate General o
 The change [in subsec. (f)] reflects the opinion of the Assistant General Counsel (Fiscal Matters), Department of Defense (July 19, 1957), that section 1304, Revised Statutes (formerly [10 U.S.C. 872](./chapter-047-uniform-code-of-military-justice.md#section-872)), the source law for this section, applied to warrant officers as well as to commissioned officers.
 
 #### Amendments
+2021—Subsec. (a). Pub. L. 116–283 inserted “or the Space Force” after “member of the Air Force”.
+
 2016—Subsec. (a). Pub. L. 114–328 substituted “as a member of the Air Force, whether as a regular or a reserve in active status” for “on active duty as a member of the Air Force”.
 
 2008—Subsec. (a). Pub. L. 110–181 made technical correction to directory language of Pub. L. 109–364, § 673(c)(1). See 2006 Amendment note below.
@@ -185,7 +187,7 @@ The words “and other military supplies” are substituted for the words “cam
 <a id="section-9840"></a>
 ## § 9840. Final settlement of officer’s accounts
 
-Before final payment upon discharge may be made to an officer of the Air Force who has been accountable or responsible for public property, he must obtain a certificate of nonindebtedness to the United States from each officer to whom he was accountable or responsible for property. He must also make an affidavit, certified by his commanding officer to be correct, that he is not accountable or responsible for property to any other officer. An officer who has not been responsible for public property must make an affidavit of that fact, certified by his commanding officer. Compliance with this section warrants the final payment of the officer concerned.
+Before final payment upon discharge may be made to an officer of the Air Force or the Space Force who has been accountable or responsible for public property, the officer must obtain a certificate of nonindebtedness to the United States from each officer to whom the officer was accountable or responsible for property. He 11 So in original. Probably should be “The officer”. must also make an affidavit, certified by the officer’s commanding officer to be correct, that the officer is not accountable or responsible for property to any other officer. An officer who has not been responsible for public property must make an affidavit of that fact, certified by the officer’s commanding officer. Compliance with this section warrants the final payment of the officer concerned.
 
 ### Statutory Notes
 
@@ -196,11 +198,14 @@ Before final payment upon discharge may be made to an officer of the Air Force w
 
 The words “Before final payment upon discharge may be made” are substituted for the words “shall warrant their final payment”. The words “at any time” are omitted as surplusage. The word “must” is substituted for the words “shall be required * * * to”. The words “He must also make” are substituted for the words “accompanied by”. The words “from each officer to whom he was accountable or responsible for property” are substituted for the words “from only such of the bureaus of the Department of the Army to which the property for which they were accountable or responsible pertains”, since the Air Force does not have organic bureaus created by statute. The words “that he is not accountable or responsible for property to any other officer” are substituted for the words “accompanied by the affidavits of officers, of nonaccountability, or nonresponsibility to other bureaus of the Department of the Army” for the same reason. The reference to certificates from the General Accounting Office is omitted as obsolete. The last sentence is substituted for 10:878 (last 18 words). The last proviso of section 2 of the Act of January 12, 1899, ch. 46, 30 Stat. 784, is not contained in 10:878. It is also omitted from the revised section, since it related to authority of mustering officers to administer oaths, and the general authority to administer oaths is now contained in [section 936 of this title](./chapter-047-uniform-code-of-military-justice.md#section-936) (article 136 of the Uniform Code of Military Justice).
 
+#### Amendments
+2021—Pub. L. 116–283 inserted “or the Space Force” after “Air Force”, and substituted “the officer” for “he” wherever appearing and “the officer’s” for “his” in two places.
+
 
 <a id="section-9841"></a>
 ## § 9841. Payment of small amounts to public creditors
 
-When authorized by the Secretary of the Air Force, a disbursing official of Air Force subsistence funds may keep a limited amount of those funds in the personal possession and at the risk of the disbursing official to pay small amounts to public creditors.
+When authorized by the Secretary of the Air Force, a disbursing official of Air Force or Space Force subsistence funds may keep a limited amount of those funds in the personal possession and at the risk of the disbursing official to pay small amounts to public creditors.
 
 ### Statutory Notes
 
@@ -211,11 +216,14 @@ When authorized by the Secretary of the Air Force, a disbursing official of Air 
 
 The words “Secretary of the Air Force” are substituted for “Secretary of War” because of sections 205(a) and 207(a) and (f) of the Act of July 26, 1947 (ch. 343, 61 Stat. 501, 502), and sections 1 and 53 of the Act of August 10, 1956 (ch. 1041, 70A Stat. 157, 488, 676). For comparable provisions that apply to the Army, see the revision note for 10:4841.
 
+#### Amendments
+2021—Pub. L. 116–283 inserted “or Space Force” after “official of Air Force”.
+
 
 <a id="section-9842"></a>
 ## § 9842. Settlement of accounts of line officers
 
-The Comptroller General shall settle the account of a line officer of the Air Force for pay due the officer even if the officer cannot account for property entrusted to the officer or cannot make a monthly report or return, when the Comptroller General is satisfied that the inability to account for property or make a report or return was the result of the officer having been a prisoner, or of an accident or casualty of war.
+The Comptroller General shall settle the account of a line officer of the Air Force or the Space Force for pay due the officer even if the officer cannot account for property entrusted to the officer or cannot make a monthly report or return, when the Comptroller General is satisfied that the inability to account for property or make a report or return was the result of the officer having been a prisoner, or of an accident or casualty of war.
 
 ### Statutory Notes
 
@@ -226,3 +234,6 @@ The Comptroller General shall settle the account of a line officer of the Air Fo
 |  | 31:95. | R.S. § 278. |
 
 The section is made applicable to the Air Force by section 207(a) and (f) of the Act of July 26, 1947 (ch. 343, 61 Stat. 502). For comparable provisions that apply to the Army, see the revision note for 10:4842.
+
+#### Amendments
+2021—Pub. L. 116–283 inserted “or the Space Force” after “Air Force”.

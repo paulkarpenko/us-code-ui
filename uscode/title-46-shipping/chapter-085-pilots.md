@@ -149,7 +149,7 @@ For extension of territorial sea of United States, see Proc. No. 5928, set out a
 
 (2) notifies the Secretary of that fact.
 
-**(c)** For the Saint Lawrence Seaway, the Secretary may not delegate the authority under this section to an agency except the Saint Lawrence Seaway Development Corporation.
+**(c)** For the Saint Lawrence Seaway, the Secretary may not delegate the authority under this section to an agency except the Great Lakes St. Lawrence Seaway Development Corporation.
 
 **(d)** A person violating this section or a regulation prescribed under this section is liable to the United States Government for a civil penalty of not more than $25,000. Each day of a continuing violation is a separate violation. The vessel also is liable in rem for the penalty.
 
@@ -158,6 +158,8 @@ For extension of territorial sea of United States, see Proc. No. 5928, set out a
 ### Statutory Notes
 
 #### Amendments
+2020—Subsec. (c). Pub. L. 116–260 substituted “Great Lakes St. Lawrence Seaway Development Corporation” for “Saint Lawrence Seaway Development Corporation”.
+
 1998—Subsec. (a)(2). Pub. L. 105–383 added par. (2) and struck out former par. (2) which read as follows: “operating on the navigable waters of the United States.”
 
 1990—Subsec. (e). Pub. L. 101–380 substituted “commits a class D felony” for “shall be fined not more than $50,000, imprisoned for not more than five years, or both”.

@@ -1791,7 +1791,7 @@ Subsec. (c)(2). Pub. L. 102–166, § 315(2), inserted “, except for the emplo
 “Government Publishing Office” substituted for “Government Printing Office” in introductory provisions and par. (4) on authority of section 1301(b) of Pub. L. 113–235, set out as a note preceding [section 301 of Title 44](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section301&num=0&edition=prelim), Public Printing and Documents.
 
 #### Effective Date of 1995 Amendment
-Amendment by section 201(c)(3) of Pub. L. 104–1 effective 1 year after Jan. 23, 1995, see [section 1311(d) of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1311/d&num=0&edition=prelim), The Congress.
+Amendment by section 201(c)(3) of Pub. L. 104–1 effective 1 year after Jan. 23, 1995, see [section 1311(e) of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1311/e&num=0&edition=prelim), The Congress.
 
 Amendment by section 210(g) of Pub. L. 104–1 effective 1 year after transmission to Congress of study under [section 1371 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1371&num=0&edition=prelim), see [section 1331(i)(2) of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1331/i/2&num=0&edition=prelim).
 

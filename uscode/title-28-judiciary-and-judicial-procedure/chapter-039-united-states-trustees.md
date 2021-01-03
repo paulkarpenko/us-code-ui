@@ -234,7 +234,7 @@ Amendment by Pub. L. 99–554 effective 30 days after Oct. 27, 1986, see section
 
 **(d)**
 
-(1) The Attorney General shall prescribe by rule qualifications for membership on the panels established by United States trustees under paragraph (a)(1) of this section, and qualifications for appointment under subsection (b) of this section to serve as standing trustee in cases under subchapter V of chapter 11 or chapter 12 or 13 of title 11. The Attorney General may not require that an individual be an attorney in order to qualify for appointment under subsection (b) of this section to serve as standing trustee in cases undersubchapter V of chapter 11 or chapter 12 or 13 of title 11.
+(1) The Attorney General shall prescribe by rule qualifications for membership on the panels established by United States trustees under paragraph (a)(1) of this section, and qualifications for appointment under subsection (b) of this section to serve as standing trustee in cases under subchapter V of chapter 11 or chapter 12 or 13 of title 11. The Attorney General may not require that an individual be an attorney in order to qualify for appointment under subsection (b) of this section to serve as standing trustee in cases under subchapter V of chapter 11 or chapter 12 or 13 of title 11.
 
 (2) A trustee whose appointment under subsection (a)(1) or under subsection (b) is terminated or who ceases to be assigned to cases filed under title 11, United States Code, may obtain judicial review of the final agency decision by commencing an action in the district court of the United States for the district for which the panel to which the trustee is appointed under subsection (a)(1), or in the district court of the United States for the district in which the trustee is appointed under subsection (b) resides, after first exhausting all available administrative remedies, which if the trustee so elects, shall also include an administrative hearing on the record. Unless the trustee elects to have an administrative hearing on the record, the trustee shall be deemed to have exhausted all administrative remedies for purposes of this paragraph if the agency fails to make a final agency decision within 90 days after the trustee requests administrative remedies. The Attorney General shall prescribe procedures to implement this paragraph. The decision of the agency shall be affirmed by the district court unless it is unreasonable and without cause based on the administrative record before the agency.
 
@@ -464,7 +464,7 @@ Pub. L. 99–554, title I, § 114(b), Oct. 27, 1986, 100 Stat. 3093, provided th
 
 (4) one-half of the fees collected under [section 1930(a)(5) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section1930/a/5&num=0&edition=prelim);
 
-(5) 100 percent of the fees collected under [section 1930(a)(6) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section1930/a/6&num=0&edition=prelim); 11 See Deposits of Certain Fees for Fiscal Years 2018 Through 2022 note below.
+(5) 100 percent of the fees collected under [section 1930(a)(6) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section1930/a/6&num=0&edition=prelim); 11 See Deposits of Fees Under Subsection (a)(6) for Certain Fiscal Years note below.
 
 (6) three-fourths of the fees collected under the last sentence of [section 1930(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section1930/a&num=0&edition=prelim);
 
@@ -482,12 +482,28 @@ Pub. L. 99–554, title I, § 114(b), Oct. 27, 1986, 100 Stat. 3093, provided th
 
 **(e)** There are authorized to be appropriated to the Fund for any fiscal year such sums as may be necessary to supplement amounts deposited under subsection (b) for the purposes specified in subsection (a).
 
+**(f)**
+
+(1) During each of fiscal years 2021 through 2026 and notwithstanding subsections (b) and (c), the fees collected under section 1930(a)(6), less the amount specified in paragraph (2), shall be deposited as follows, in the following order:
+
+  (A) First, the amounts specified in the Department of Justice appropriations for that fiscal year, shall be deposited as discretionary offsetting collections to the “United States Trustee System Fund”, pursuant to subsection (a), to remain available until expended.
+
+  (B) Second, the amounts determined annually by the Director of the Administrative Office of the United States Courts that are necessary to reimburse the judiciary for the costs of administering payments under [section 330(e) of title 11](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title11-section330/e&num=0&edition=prelim), shall be deposited as mandatory offsetting collections to the “United States Trustee System Fund”, and transferred and deposited into the special fund established under section 1931(a), and notwithstanding subsection (a), shall be available for expenditure without further appropriation.
+
+  (C) Third, the amounts determined annually by the Director of the Administrative Office of the United States Courts that are necessary to pay trustee compensation authorized by [section 330(e)(2) of title 11](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title11-section330/e/2&num=0&edition=prelim), shall be deposited as mandatory offsetting collections to the “United States Trustee System Fund”, and transferred and deposited into the Chapter 7 Trustee Fund established under [section 330(e) of title 11](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title11-section330/e&num=0&edition=prelim) for payment to trustees serving in cases under chapter 7 of title 11 (in addition to the amounts paid under [section 330(b) of title 11](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title11-section330/b&num=0&edition=prelim)), in accordance with that section, and notwithstanding subsection (a), shall be available for expenditure without further appropriation.
+
+  (D) Fourth, any remaining amounts shall be deposited as discretionary offsetting collections to the “United States Trustee System Fund”, to remain available until expended.
+
+(2) Notwithstanding subsection (b), for each of fiscal years 2021 through 2026, $5,400,000 of the fees collected under section 1930(a)(6) shall be deposited in the general fund of the Treasury.
+
 ### Statutory Notes
 
 #### Codification
 Amendment by Pub. L. 104–91 is based on section 111(b) and (c) of H.R. 2076, One Hundred Fourth Congress, as passed by the House of Representatives on Dec. 6, 1995, which was enacted into law by Pub. L. 104–91.
 
 #### Amendments
+2021—Subsec. (f). Pub. L. 116–325 added subsec. (f).
+
 2012—Subsec. (b)(2). Pub. L. 112–121 substituted “48.89” for “55”.
 
 2007—Subsec. (b)(10). Pub. L. 110–161 added par. (10).
@@ -547,7 +563,9 @@ Pub. L. 102–140, title I, § 111, Oct. 28, 1991, 105 Stat. 795, provided that 
 #### Effective Date
 Section effective 30 days after Oct. 27, 1986, see section 302(a) of Pub. L. 99–554, set out as a note under [section 581 of this title](./chapter-039-united-states-trustees.md#section-581).
 
-#### Deposits of Certain Fees for Fiscal Years 2018 Through 2022
+#### Deposits of Fees Under Subsection (a)(6) for Certain Fiscal Years
+Pub. L. 116–325, § 3(a), Jan. 12, 2021, 134 Stat. 5087, provided that: “Notwithstanding [section 589a(b) of title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section589a/b&num=0&edition=prelim), United States Code, for each of fiscal years 2021 through 2026— “(1) the fees collected under section 1930(a)(6) of such title, less the amount specified in subparagraph (2), shall be deposited as specified in subsection (b); and “(2) $5,400,000 of the fees collected under section 1930(a)(6) of such title shall be deposited in the general fund of the Treasury.”
+
 Pub. L. 115–72, div. B, § 1004(b), Oct. 26, 2017, 131 Stat. 1232, provided that: “Notwithstanding [section 589a(b) of title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section589a/b&num=0&edition=prelim), United States Code, for each of fiscal years 2018 through 2022— “(1) 98 percent of the fees collected under section 1930(a)(6) of such title shall be deposited as offsetting collections to the appropriation ‘United States Trustee System Fund’, to remain available until expended; and “(2) 2 percent of the fees collected under section 1930(a)(6) of such title shall be deposited in the general fund of the Treasury.”
 
 

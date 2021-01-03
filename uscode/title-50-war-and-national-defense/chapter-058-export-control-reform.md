@@ -403,7 +403,7 @@ This subchapter, referred to in subsecs. (a) to (c), was in the original “this
 
 <a id="section-4817"></a>
 ## § 4817. Compliance assistance
-**(a) System for seeking assistance** The President may authorize the Secretary to establish a system to provide United States persons with assistance in complying with this subchapter, which may include a mechanism for providing information, in classified form as appropriate, who 11 So in original. are potential customers, suppliers, or business partners with respect to items controlled under this subchapter, in order to further ensure the prevention of the export, reexport, or in-country transfer of items that may pose a threat to the national security or foreign policy of the United States.
+**(a) System for seeking assistance** The President may authorize the Secretary to establish a system to provide United States persons with assistance in complying with this subchapter, which may include a mechanism for providing information, in classified form as appropriate, to persons who are potential customers, suppliers, or business partners with respect to items controlled under this subchapter, in order to further ensure the prevention of the export, reexport, or in-country transfer of items that may pose a threat to the national security or foreign policy of the United States.
 
 **(b) Security clearances** In order to carry out subsection (a), the President may issue appropriate security clearances to persons described in that subsection who are responsible for complying with this subchapter.
 
@@ -417,6 +417,12 @@ This subchapter, referred to in subsecs. (a) to (c), was in the original “this
 
 #### References in Text
 This subchapter, referred to in text, was in the original “this part”, meaning part I (§§ 1751–1768) of subtitle B of title XVII of div. A of Pub. L. 115–232, known as the Export Controls Act of 2018, which is classified principally to this subchapter. For complete classification of part I to the Code, see section 1751 of Pub. L. 115–232, set out as a Short Title note under [section 4801 of this title](./chapter-058-export-control-reform.md#section-4801) and Tables.
+
+#### Amendments
+2021—Subsec. (a). Pub. L. 116–283 inserted “to persons” before “who are potential”.
+
+#### Effective Date of 2021 Amendment
+Pub. L. 116–283, div. A, title X, § 1081(d), Jan. 1, 2021, 134 Stat. 3873, provided that the amendment made by section 1081(d)(7) is effective as of Aug. 13, 2018, and as if included in Pub. L. 115–232.
 
 #### Delegation of Authorities Under Section 1757 of the National Defense Authorization Act for Fiscal Year 2019
 Memorandum of President of the United States, Nov. 26, 2018, 83 F.R. 61503, provided:
@@ -588,9 +594,17 @@ The International Emergency Economic Powers Act, referred to in subsec. (g)(2), 
 
 (1) the scope of controls under title 15, Code of Federal Regulations, that apply to exports, reexports, and in-country transfers for military end uses and military end users in countries that are subject to a comprehensive United States arms embargo and countries that are subject to a United Nations arms embargo; and
 
-(2) entries on the Commerce Control List maintained under title 15, Code of Federal Regulations, that are not subject to a license requirement for the export, reexport, or in-country transfer of items to countries subject to a comprehensive United States arms embargo; 11 So in original. The semicolon probably should be a period.
+(2) entries on the Commerce Control List maintained under title 15, Code of Federal Regulations, that are not subject to a license requirement for the export, reexport, or in-country transfer of items to countries subject to a comprehensive United States arms embargo.
 
 **(b) Implementation of results of review** Not later than 270 days after August 13, 2018, the Secretary shall implement the results of the review conducted under subsection (a).
+
+### Statutory Notes
+
+#### Amendments
+2021—Subsec. (a)(2). Pub. L. 116–283 substituted period for semicolon at end.
+
+#### Effective Date of 2021 Amendment
+Pub. L. 116–283, div. A, title X, § 1081(d), Jan. 1, 2021, 134 Stat. 3873, provided that the amendment made by section 1081(d)(8) is effective as of Aug. 13, 2018, and as if included in Pub. L. 115–232.
 
 
 <a id="section-4820"></a>
@@ -864,7 +878,7 @@ This subchapter, referred to in subsec. (a), was in the original “this part”
 
 **(b) Report** Not later than 180 days after August 13, 2018, the President shall submit to the appropriate congressional committees a report that contains the results of the review carried out under subsection (a).
 
-**(c) Operating Committee for Export Policy** In any case in which the Operating Committee for Export Policy established by Executive Order 12981 (December 5, 1991; 11 So in original. Probably should be “1995;”. relating to Administration of Export Controls) is meeting to conduct an interagency dispute resolution relating to applications for export licenses under the Export Administration Regulations, matters relating to jet engine hot section technology, commercial communication satellites, and emerging or foundational technology may be decided by majority vote.
+**(c) Operating Committee for Export Policy** In any case in which the Operating Committee for Export Policy established by Executive Order 12981 (December 5, 1995; relating to Administration of Export Controls) is meeting to conduct an interagency dispute resolution relating to applications for export licenses under the Export Administration Regulations, matters relating to jet engine hot section technology, commercial communication satellites, and emerging or foundational technology may be decided by majority vote.
 
 **(d) Appropriate congressional committees defined** In this section, the term “appropriate congressional committees” means—
 
@@ -876,6 +890,12 @@ This subchapter, referred to in subsec. (a), was in the original “this part”
 
 #### References in Text
 Executive Order 12981, referred to in subsec. (c), is Ex. Ord. No. 12981, Dec. 5, 1995, 60 F.R. 62981, which is set out as a note under former [section 4603 of this title](./chapter-056-export-administration.md#section-4603).
+
+#### Amendments
+2021—Subsec. (c). Pub. L. 116–283 substituted “December 5, 1995” for “December 5, 1991”.
+
+#### Effective Date of 2021 Amendment
+Pub. L. 116–283, div. A, title X, § 1081(d), Jan. 1, 2021, 134 Stat. 3873, provided that the amendment made by section 1081(d)(9) is effective as of Aug. 13, 2018, and as if included in Pub. L. 115–232.
 
 #### Delegation of Authorities and Responsibilities Under Section 1763 of the National Defense Authorization Act for Fiscal Year 2019
 Memorandum of President of the United States, Jan. 15, 2019, 84 F.R. 197, provided:
@@ -1033,7 +1053,7 @@ Congress declares it is the policy of the United States—
 
 **(b) Foreign policy controls**
 
-(1) **In general** — In addition to the regulations issued pursuant to subsection (a), regulations issued under subchapter I to carry out the policies set forth in section 4811(2)(D) 11 See References in Text note below. shall implement the policies set forth in this section.
+(1) **In general** — In addition to the regulations issued pursuant to subsection (a), regulations issued under subchapter I to carry out the policies set forth in [section 4811(2)(D) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4811/2/D&num=0&edition=prelim) shall implement the policies set forth in this section.
 
 (2) **Requirements** — Such regulations shall require that any United States person receiving a request for the furnishing of information, the entering into or implementing of agreements, or the taking of any other action referred to in subsection (a) shall report that fact to the Secretary, together with such other information concerning such request as the Secretary may require for such action as the Secretary considers appropriate for carrying out the policies of that section. Such person shall also report to the Secretary whether such person intends to comply and whether such person has complied with such request. Any report filed pursuant to this paragraph shall be made available promptly for public inspection and copying, except that information regarding the quantity, description, and value of any goods or technology to which such report relates may be kept confidential if the Secretary determines that disclosure thereof would place the United States person involved at a competitive disadvantage. The Secretary shall periodically transmit summaries of the information contained in such reports to the Secretary of State for such action as the Secretary of State, in consultation with the Secretary, considers appropriate for carrying out the policies set forth in [section 4841 of this title](./chapter-058-export-control-reform.md#section-4841).
 
@@ -1044,12 +1064,16 @@ Congress declares it is the policy of the United States—
 #### References in Text
 Subchapter I, referred to in subsec. (b)(1), was in the original “part I”, meaning part I (§§ 1751–1768) of subtitle B of title XVII of div. A of Pub. L. 115–232, known as the Export Controls Act of 2018, which is classified principally to subchapter I of this chapter. For complete classification of part I to the Code, see section 1751 of Pub. L. 115–232, set out as a Short Title note under [section 4801 of this title](./chapter-058-export-control-reform.md#section-4801) and Tables.
 
-[Section 4811(2)(D) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4811/2/D&num=0&edition=prelim), referred to in subsec. (b)(1), was in the original “section 1752(1)(D)”, and was translated as meaning section 1752(2)(D) of Pub. L. 115–232, to reflect the probable intent of Congress.
+#### Amendments
+2021—Subsec. (b)(1). Pub. L. 116–283 made technical correction to reference to “[section 4811(2)(D) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4811/2/D&num=0&edition=prelim)”.
+
+#### Effective Date of 2021 Amendment
+Pub. L. 116–283, div. A, title X, § 1081(d), Jan. 1, 2021, 134 Stat. 3873, provided that the amendment made by section 1081(d)(10) is effective as of Aug. 13, 2018, and as if included in Pub. L. 115–232.
 
 
 <a id="section-4851"></a>
 ## § 4851. Enforcement
-**(a) Criminal penalty** A person who willfully commits, willfully attempts to commit, or willfully conspires to commit, or aids or abets in the commission of, an unlawful act 11 So in original. [section 4842 of this title](./chapter-058-export-control-reform.md#section-4842)—
+**(a) Criminal penalty** A person who willfully commits, willfully attempts to commit, or willfully conspires to commit, or aids or abets in the commission of, an unlawful act under [section 4842 of this title](./chapter-058-export-control-reform.md#section-4842)—
 
 (1) shall, upon conviction, be fined not more than $1,000,000; or
 
@@ -1071,6 +1095,12 @@ Subchapter I, referred to in subsec. (b)(1), was in the original “part I”, m
 
 #### References in Text
 Subchapter I, referred to in subsec. (b)(2), (3), was in the original “part I”, meaning part I (§§ 1751–1768) of subtitle B of title XVII of div. A of Pub. L. 115–232, known as the Export Controls Act of 2018, which is classified principally to subchapter I of this chapter. For complete classification of part I to the Code, see section 1751 of Pub. L. 115–232, set out as a Short Title note under [section 4801 of this title](./chapter-058-export-control-reform.md#section-4801) and Tables.
+
+#### Amendments
+2021—Subsec. (a). Pub. L. 116–283 inserted “under” before “[section 4842 of this title](./chapter-058-export-control-reform.md#section-4842)”.
+
+#### Effective Date of 2021 Amendment
+Pub. L. 116–283, div. A, title X, § 1081(d), Jan. 1, 2021, 134 Stat. 3873, provided that the amendment made by section 1081(d)(11) is effective as of Aug. 13, 2018, and as if included in Pub. L. 115–232.
 
 
 <a id="section-4852"></a>

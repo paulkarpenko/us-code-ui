@@ -9,7 +9,7 @@ source: >-
 <a id="section-9481"></a>
 ## § 9481. Establishment: purpose
 
-The Secretary of the Air Force may maintain schools and camps for the military instruction and training of persons selected, upon their application, from warrant officers and enlisted members of the Air Force and civilians, to qualify them for appointment as reserve officers, or enlistment as reserve noncommissioned officers, for service in the Air Force Reserve.
+The Secretary of the Air Force may maintain schools and camps for the military instruction and training of persons selected, upon their application, from warrant officers and enlisted members of the Air Force, the Space Force, and civilians, to qualify them for appointment as reserve officers, or enlistment as reserve noncommissioned officers, for service in the Air Force Reserve or the Space Force Reserve.
 
 ### Statutory Notes
 
@@ -21,6 +21,10 @@ The Secretary of the Air Force may maintain schools and camps for the military i
 The words “upon military reservations or elsewhere” are omitted as surplusage. The words “of the Air Force” are inserted for clarity. The words “or enlistment as” are inserted for clarity.
 
 #### Amendments
+2021—Pub. L. 116–283, § 923(d)(16)(B), inserted “or the Space Force Reserve” after “the Air Force Reserve”.
+
+Pub. L. 116–283, § 923(d)(16)(A), which directed amendment of this section by inserting “, the Space Force,” after “members of the Air Force,”, was executed by making the insertion after “members of the Air Force” to reflect the probable intent of Congress.
+
 2018—Pub. L. 115–232 renumbered [section 9411 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section9411&num=0&edition=prelim) as this section.
 
 #### Effective Date of 2018 Amendment
@@ -38,13 +42,13 @@ In maintaining camps established under [section 9481 of this title](./chapter-95
 
 (3) prescribe the courses to be taught;
 
-(4) detail members of the Regular Air Force to designated duties relating to the camps;
+(4) detail members of the Regular Air Force or the Regular Space Force to designated duties relating to the camps;
 
 (5) use necessary supplies and transportation;
 
 (6) furnish uniforms, subsistence, and medical attendance and supplies to persons attending the camp; and
 
-(7) authorize necessary expenditures from proper Air Force funds for—
+(7) authorize necessary expenditures from proper Air Force or Space Force funds for—
 
   (A) water;
 
@@ -72,6 +76,10 @@ In maintaining camps established under [section 9481 of this title](./chapter-95
 The word “supplies” is substituted for the words “such arms, ammunition, accoutrements, equipments, tentage, field equipage”, since, under the definition of the word “supplies”, in [section 101(26) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section101/26&num=0&edition=prelim), those words are covered by the word “supplies”. The words “belonging to the United States”, “and imparting military instruction and training thereat”, “during the period of their attendance”, “theoretical and practical instruction”, “persons attending the camps authorized by this section”, and “as he may deem” are omitted as surplusage. The word “detail” is substituted for the word “employ”. The word “members” is substituted for the words “officers, warrant officers, and enlisted men”.
 
 #### Amendments
+2021—Par. (4). Pub. L. 116–283, § 923(d)(17)(A), inserted “or the Regular Space Force” after Regular Air Force”.
+
+Par. (7). Pub. L. 116–283, § 923(d)(17)(B), inserted “or Space Force” after “Air Force” in introductory provisions.
+
 2018—Pub. L. 115–232 renumbered [section 9412 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section9412&num=0&edition=prelim) as this section and substituted “section 9481” for “section 9411” in introductory provisions.
 
 #### Effective Date of 2018 Amendment

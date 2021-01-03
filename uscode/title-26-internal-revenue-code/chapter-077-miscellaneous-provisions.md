@@ -415,9 +415,48 @@ George Bush.
 
 **(c) Special rules for overpayments** The rules of section 7508(b) shall apply for purposes of this section.
 
+**(d) Mandatory 60-day extension**
+
+(1) **In general** — In the case of any qualified taxpayer, the period—
+
+  (A) beginning on the earliest incident date specified in the declaration to which the disaster area referred to in paragraph (2) relates, and
+
+  (B) ending on the date which is 60 days after the latest incident date so specified,
+  shall be disregarded in the same manner as a period specified under subsection (a).
+
+(2) **Qualified taxpayer** — For purposes of this subsection, the term “qualified taxpayer” means—
+
+  (A) any individual whose principal residence (for purposes of section 1033(h)(4)) is located in a disaster area,
+
+  (B) any taxpayer if the taxpayer’s principal place of business (other than the business of performing services as an employee) is located in a disaster area,
+
+  (C) any individual who is a relief worker affiliated with a recognized government or philanthropic organization and who is assisting in a disaster area,
+
+  (D) any taxpayer whose records necessary to meet a deadline for an act described in section 7508(a)(1) are maintained in a disaster area,
+
+  (E) any individual visiting a disaster area who was killed or injured as a result of the disaster, and
+
+  (F) solely with respect to a joint return, any spouse of an individual described in any preceding subparagraph of this paragraph.
+
+(3) **Disaster area** — For purposes of this subsection, the term “disaster area” has the meaning given such term under subparagraph (B) of section 165(i)(5) with respect to a Federally declared disaster (as defined in subparagraph (A) of such section).
+
+(4) **Application to rules regarding pensions** — In the case of any person described in subsection (b), a rule similar to the rule of paragraph (1) shall apply for purposes of subsection (b) with respect to—
+
+  (A) making contributions to a qualified retirement plan (within the meaning of section 4974(c)) under section 219(f)(3), 404(a)(6), 404(h)(1)(B), or 404(m)(2),
+
+  (B) making distributions under section 408(d)(4),
+
+  (C) recharacterizing contributions under section 408A(d)(6), and
+
+  (D) making a rollover under section 402(c), 403(a)(4), 403(b)(8), or 408(d)(3).
+
+(5) **Coordination with periods specified by the Secretary** — Any period described in paragraph (1) with respect to any person (including by reason of the application of paragraph (4)) shall be in addition to (or concurrent with, as the case may be) any period specified under subsection (a) or (b) with respect to such person.
+
 ### Statutory Notes
 
 #### Amendments
+2019—Subsec. (d). Pub. L. 116–94 added subsec. (d).
+
 2018—Subsec. (a). Pub. L. 115–141 substituted “section 165(i)(5)(A)” for “section 165(h)(3)(C)(i)” in introductory provisions.
 
 2008—Subsec. (a). Pub. L. 110–343 substituted “federally declared disaster (as defined by section 165(h)(3)(C)(i))” for “Presidentially declared disaster (as defined in section 1033(h)(3))” in introductory provisions.
@@ -425,6 +464,9 @@ George Bush.
 2002—Pub. L. 107–134 amended section catchline and text generally, substituting present provisions for provisions which had: in subsec. (a), authorized Secretary to postpone certain tax-related deadlines by reason of presidentially declared disaster, and in subsec. (b), provided that subsec. (a) would not apply for the purpose of determining interest on any overpayment or underpayment.
 
 2001—Subsec. (a). Pub. L. 107–16 substituted “120 days” for “90 days” in introductory provisions.
+
+#### Effective Date of 2019 Amendment
+Pub. L. 116–94, div. Q, title II, § 205(b), Dec. 20, 2019, 133 Stat. 3246, provided that: “The amendment made by this section [amending this section] shall apply to federally declared disasters declared after the date of the enactment of this Act [Dec. 20, 2019].”
 
 #### Effective Date of 2008 Amendment
 Amendment by Pub. L. 110–343 applicable to disasters declared in taxable years beginning after Dec. 31, 2007, see section 706(d)(1) of Pub. L. 110–343, set out as a note under [section 56 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-56).
@@ -441,11 +483,47 @@ Pub. L. 105–34, title IX, § 911(c), Aug. 5, 1997, 111 Stat. 878, provided tha
 #### Savings Provision
 For provisions that nothing in amendment by Pub. L. 115–141 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Mar. 23, 2018, for purposes of determining liability for tax for periods ending after Mar. 23, 2018, see section 401(e) of Pub. L. 115–141, set out as a note under [section 23 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-23).
 
+#### Extension of Certain Deferred Payroll Taxes by Reason of Coronavirus Pandemic
+Pub. L. 116–260, div. N, title II, § 274, Dec. 27, 2020, 134 Stat. 1978, provided that: “The Secretary of the Treasury (or the Secretary’s delegate) shall ensure that Internal Revenue Service Notice 2020–65 (entitled ‘Relief with Respect to Employment Tax Deadlines Applicable to Employers Affected by the Ongoing Coronavirus (COVID–19) Disease 2019 Pandemic’) and any successor or related regulation, notice, or guidance is applied— “(1) by substituting ‘December 31, 2021’ for ‘April 30, 2021’ each place it appears therein, and “(2) by substituting ‘January 1, 2022’ for ‘May 1, 2021’ each place it appears therein.”
+
 #### Authority To Postpone Certain Tax-Related Deadlines by Reason of Y2K Failures
 Pub. L. 106–170, title V, § 522, Dec. 17, 1999, 113 Stat. 1927, provided that: “(a) In General.—In the case of a taxpayer determined by the Secretary of the Treasury (or the Secretary’s delegate) to be affected by a Y2K failure, the Secretary may disregard a period of up to 90 days in determining, under the internal revenue laws, in respect of any tax liability (including any interest, penalty, additional amount, or addition to the tax) of such taxpayer—“(1) whether any of the acts described in paragraph (1) of section 7508(a) of the Internal Revenue Code of 1986 (without regard to the exceptions in parentheses in subparagraphs (A) and (B)) were performed within the time prescribed therefor; and “(2) the amount of any credit or refund. “(b) Applicability of Certain Rules.—For purposes of this section, rules similar to the rules of subsections (b) and (e) of section 7508 of the Internal Revenue Code of 1986 shall apply.”
 
 #### Abatement of Interest on Underpayments by Taxpayers in Presidentially Declared Disaster Areas
 Pub. L. 105–34, title IX, § 915, Aug. 5, 1997, 111 Stat. 879, as amended by Pub. L. 105–277, div. J, title IV, § 4003(e)(1), Oct. 21, 1998, 112 Stat. 2681–909, provided that: “(a) In General.—If the Secretary of the Treasury extends for any period the time for filing income tax returns under section 6081 of the Internal Revenue Code of 1986 and the time for paying income tax with respect to such returns under section 6161 of such Code (and waives any penalties relating to the failure to so file or so pay) for any individual located in a Presidentially declared disaster area, the Secretary shall, notwithstanding section 7508A(b) of such Code, abate for such period the assessment of any interest prescribed under section 6601 of such Code on such income tax. “(b) Presidentially Declared Disaster Area.—For purposes of subsection (a), the term ‘Presidentially declared disaster area’ means, with respect to any individual, any area which the President has determined during 1997 or 1998 warrants assistance by the Federal Government under the Robert T. Stafford Disaster Relief and Emergency Assistance Act [[42 U.S.C. 5121](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5121&num=0&edition=prelim) et seq.]. “(c) Individual.—For purposes of this section, the term ‘individual’ shall not include any estate or trust. “(d) Effective Date.—This section shall apply to disasters declared after December 31, 1996.”
+
+#### Deferring Payroll Tax Obligations in Light of the Ongoing COVID–19 Disaster
+Memorandum of President of the United States, Aug. 8, 2020, 85 F.R. 49587, provided:
+
+Memorandum for the Secretary of the Treasury
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered as follows:
+
+Section 1. Policy. The 2019 novel coronavirus (COVID–19) that originated in the People’s Republic of China has caused significant, sudden, and unexpected disruptions to the American economy. On March 13, 2020, I determined that the COVID–19 pandemic is of sufficient severity and magnitude to warrant an emergency declaration under section 501(b) [[42 U.S.C. 5191(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5191/b&num=0&edition=prelim)] of the Robert T. Stafford Disaster Relief and Emergency Assistance Act, [42 U.S.C. 5121](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5121&num=0&edition=prelim)—5207, and that is still the case today. American workers have been particularly hard hit by this ongoing disaster. While the Department of the Treasury has already undertaken historic efforts to alleviate the hardships of our citizens, it is clear that further temporary relief is necessary to support working Americans during these challenging times. To that end, today I am directing the Secretary of the Treasury to use his authority to defer certain payroll tax obligations with respect to the American workers most in need. This modest, targeted action will put money directly in the pockets of American workers and generate additional incentives for work and employment, right when the money is needed most.
+
+Sec. 2. Deferring Certain Payroll Tax Obligations. The Secretary of the Treasury is hereby directed to use his authority pursuant to [26 U.S.C. 7508A](./chapter-077-miscellaneous-provisions.md#section-7508a) to defer the withholding, deposit, and payment of the tax imposed by [26 U.S.C. 3101(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section3101/a&num=0&edition=prelim), and so much of the tax imposed by [26 U.S.C. 3201](./chapter-022-railroad-retirement-tax-act.md#section-3201) as is attributable to the rate in effect under [26 U.S.C. 3101(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section3101/a&num=0&edition=prelim), on wages or compensation, as applicable, paid during the period of September 1, 2020, through December 31, 2020, subject to the following conditions:
+
+(a) The deferral shall be made available with respect to any employee the amount of whose wages or compensation, as applicable, payable during any bi-weekly pay period generally is less than $4,000, calculated on a pre-tax basis, or the equivalent amount with respect to other pay periods.
+
+(b) Amounts deferred pursuant to the implementation of this memorandum shall be deferred without any penalties, interest, additional amount, or addition to the tax.
+
+Sec. 3. Authorizing Guidance. The Secretary of the Treasury shall issue guidance to implement this memorandum.
+
+Sec. 4. Tax Forgiveness. The Secretary of the Treasury shall explore avenues, including legislation, to eliminate the obligation to pay the taxes deferred pursuant to the implementation of this memorandum.
+
+Sec. 5. General Provisions. (a) Nothing in this memorandum shall be construed to impair or otherwise affect:
+
+(i) the authority granted by law to an executive department or agency, or the head thereof; or
+
+(ii) the functions of the Director of the Office of Management and Budget relating to budgetary, administrative, or legislative proposals.
+
+(b) This memorandum shall be implemented consistent with applicable law and subject to the availability of appropriations.
+
+(c) This memorandum is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+
+(d) You are authorized and directed to publish this memorandum in the Federal Register.
+
+Donald J. Trump.
 
 
 <a id="section-7509"></a>

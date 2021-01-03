@@ -172,14 +172,14 @@ Provisions similar to this section were contained in [section 1118 of this title
 
 Section, Pub. L. 92–255, title II, § 206, as added Pub. L. 96–181, § 4, Jan. 2, 1980, 93 Stat. 1311, provided that this subchapter not be construed as limiting the statutory authority of the Secretary of Defense or the Administrator of Veterans’ Affairs.
 
-#### Effective Date of Repeal
-Repeal effective Jan. 21, 1989, see section 1012 of Pub. L. 100–690.
-
 A prior section 1116, Pub. L. 92–255, title II, § 206, as added Pub. L. 94–237, § 4(b), Mar. 19, 1976, 90 Stat. 242, which provided for the employment and compensation of experts and consultants, was omitted in the general revision of this subchapter by Pub. L. 96–181, § 4, Jan. 2, 1980, 93 Stat. 1309.
 
 Another prior section 1116, Pub. L. 92–255, title II, § 206, Mar. 21, 1972, 86 Stat. 68, which provided for the employment and prescription of functions for officers and employees by the Director, was repealed by Pub. L. 92–255, title I, § 104, Mar. 21, 1972, 86 Stat. 67, eff. June 30, 1975.
 
 Provisions similar to this section were contained in [section 1119 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section1119&num=0&edition=prelim) prior to the general revision of this subchapter by Pub. L. 96–181, § 4, Jan. 2, 1980, 93 Stat. 1309.
+
+#### Effective Date of Repeal
+Repeal effective Jan. 21, 1989, see section 1012 of Pub. L. 100–690.
 
 
 <a id="section-1117"></a>
@@ -479,8 +479,8 @@ Pub. L. 94–371, § 10(c)(2), July 26, 1976, 90 Stat. 1041, provided that: “T
 
 ### Statutory Notes
 
-#### National Advisory Council for Drug Abuse Prevention
-[Section 1151 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section1151&num=0&edition=prelim), which established the National Advisory Council for Drug Abuse Prevention, was repealed by Pub. L. 92–255, title I, § 104, Mar. 21, 1972, 86 Stat. 67, eff. June 30, 1975.
+#### References in Text
+The National Advisory Council for Drug Abuse Prevention, referred to in subsec. (a), was established by [section 1151 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section1151&num=0&edition=prelim), which was repealed by Pub. L. 92–255, title I, § 104, Mar. 21, 1972, 86 Stat. 67, eff. June 30, 1975.
 
 
 <a id="section-1180"></a>

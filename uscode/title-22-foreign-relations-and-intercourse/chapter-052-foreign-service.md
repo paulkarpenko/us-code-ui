@@ -454,6 +454,8 @@ Reorganization Plan Numbered 3 of 1979, referred to in subsec. (a)(3)(A), is Reo
 Pub. L. 105–277, § 1335(k)(1), substituted “Broadcasting Board of Governors” for “Director of the United States Information Agency”.
 
 #### Change of Name
+Broadcasting Board of Governors renamed United States Agency for Global Media pursuant to [section 6204(a)(22) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section6204/a/22&num=0&edition=prelim). The renaming was effectuated by notice to congressional appropriations committees dated May 24, 2018, and became effective Aug. 22, 2018.
+
 “Director of the United States Information Agency” substituted for “Director of the International Communication Agency” in subsec. (a)(1), pursuant to section 303(b) of Pub. L. 97–241, set out as a note under [section 1461 of this title](./chapter-018-united-states-information-and-educational-exchange-programs.md#section-1461).
 
 #### Effective Date of 1998 Amendment
@@ -618,9 +620,13 @@ Pub. L. 103–236, title I, § 191(a), Apr. 30, 1994, 108 Stat. 418, as amended 
 
 **(c) Promotion of United States goods and services** Each chief of mission to a foreign country shall have as a principal duty the promotion of United States goods and services for export to such country.
 
+**(d) Promotion of United States economic interests** Each chief of mission to a foreign country shall have as a principal duty the promotion of United States economic and commercial interests in such country.
+
 ### Statutory Notes
 
 #### Amendments
+2019—Subsec. (d). Pub. L. 116–94 added subsec. (d).
+
 2002—Subsecs. (a)(1), (2), (b). Pub. L. 107–228 inserted “Voice of America correspondents on official assignment and” after “except for”.
 
 1987—Subsec. (a). Pub. L. 100–204, § 136(1), (2), inserted “executive branch” after “Government” in par. (1) and after second reference to “Government” in par. (2).
@@ -823,6 +829,8 @@ Pub. L. 105–277, § 1335(k)(2), substituted “Broadcasting Board of Governors
 1985—Pub. L. 99–93 substituted “shall be chaired by an individual appointed by the President” for “shall be chaired by a career member of the Senior Foreign Service designated by the Secretary of State”.
 
 #### Change of Name
+Broadcasting Board of Governors renamed United States Agency for Global Media pursuant to [section 6204(a)(22) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section6204/a/22&num=0&edition=prelim). The renaming was effectuated by notice to congressional appropriations committees dated May 24, 2018, and became effective Aug. 22, 2018.
+
 “United States Information Agency” substituted in text for “International Communication Agency” pursuant to section 303(b) of Pub. L. 97–241, set out as a note under [section 1461 of this title](./chapter-018-united-states-information-and-educational-exchange-programs.md#section-1461).
 
 #### Effective Date of 1998 Amendment
@@ -1102,9 +1110,13 @@ A career candidate for appointment as a Foreign Service officer may not be initi
 ### Statutory Notes
 
 #### USAID Overseas Program
-Pub. L. 116–6, div. F, title VII, § 7057(a)–(e), Feb. 15, 2019, 133 Stat. 371, provided that: “(a) Authority.—Up to $93,000,000 of the funds made available in title III of this Act [title III of div. F of Pub. L. 116–6, 133 Stat. 278] pursuant to or to carry out the provisions of part I of the Foreign Assistance Act of 1961 [[22 U.S.C. 2151](./chapter-032-foreign-assistance.md#section-2151) et seq.], including funds appropriated under the heading ‘Assistance for Europe, Eurasia and Central Asia’, may be used by the United States Agency for International Development to hire and employ individuals in the United States and overseas on a limited appointment basis pursuant to the authority of sections 308 and 309 of the Foreign Service Act of 1980 ([22 U.S.C. 3948](./chapter-052-foreign-service.md#section-3948) and 3949). “(b) Restrictions.—“(1) The number of individuals hired in any fiscal year pursuant to the authority contained in subsection (a) may not exceed 175. “(2) The authority to hire individuals contained in subsection (a) shall expire on September 30, 2020. “(c) Conditions.—The authority of subsection (a) should only be used to the extent that an equivalent number of positions that are filled by personal services contractors or other non-direct hire employees of USAID [United States Agency for International Development], who are compensated with funds appropriated to carry out part I of the Foreign Assistance Act of 1961 [[22 U.S.C. 2151](./chapter-032-foreign-assistance.md#section-2151) et seq.], including funds appropriated under the heading ‘Assistance for Europe, Eurasia and Central Asia’, are eliminated. “(d) Program Account Charged.—The account charged for the cost of an individual hired and employed under the authority of this section shall be the account to which the responsibilities of such individual primarily relate: Provided, That funds made available to carry out this section may be transferred to, and merged with, funds appropriated by this Act in title II [title II of div. F of Pub. L. 116–6, 133 Stat. 277] under the heading ‘Operating Expenses’. “(e) Foreign Service Limited Extensions.—Individuals hired and employed by USAID, with funds made available in this Act [div. F of Pub. L. 116–6, 133 Stat. 267] or prior Acts making appropriations for the Department of State, foreign operations, and related programs, pursuant to the authority of section 309 of the Foreign Service Act of 1980 ([22 U.S.C. 3949](./chapter-052-foreign-service.md#section-3949)), may be extended for a period of up to 4 years notwithstanding the limitation set forth in such section.”
+Pub. L. 116–260, div. K, title VII, § 7064(a)–(d), Dec. 27, 2020, 134 Stat. 1809, provided that: “(a) Authority.—Up to $110,000,000 of the funds made available in title III of this Act [title III of div. K of Pub. L. 116–260, 134 Stat. 1702] pursuant to or to carry out the provisions of part I of the Foreign Assistance Act of 1961 [[22 U.S.C. 2151](./chapter-032-foreign-assistance.md#section-2151) et seq.], including funds appropriated under the heading ‘Assistance for Europe, Eurasia and Central Asia’, may be used by the United States Agency for International Development to hire and employ individuals in the United States and overseas on a limited appointment basis pursuant to the authority of sections 308 and 309 of the Foreign Service Act of 1980 ([22 U.S.C. 3948](./chapter-052-foreign-service.md#section-3948) and 3949). “(b) Restriction.—The authority to hire individuals contained in subsection (a) shall expire on September 30, 2022. “(c) Program Account Charged.—The account charged for the cost of an individual hired and employed under the authority of this section shall be the account to which the responsibilities of such individual primarily relate: Provided, That funds made available to carry out this section may be transferred to, and merged with, funds appropriated by this Act in title II [title II of div. K of Pub. L. 116–260, 134 Stat. 1701] under the heading ‘Operating Expenses’. “(d) Foreign Service Limited Extensions.—Individuals hired and employed by USAID [United States Agency for International Development], with funds made available in this Act [titles I to VII of div. K of Pub. L. 116–260, 134 Stat. 1691] or prior Acts making appropriations for the Department of State, foreign operations, and related programs, pursuant to the authority of section 309 of the Foreign Service Act of 1980 ([22 U.S.C. 3949](./chapter-052-foreign-service.md#section-3949)), may be extended for a period of up to 4 years notwithstanding the limitation set forth in such section.”
 
 Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 116–94, div. G, title VII, § 7064(a)–(d), Dec. 20, 2019, 133 Stat. 2928, 2929, as amended by Pub. L. 116–136, div. B, title XI, § 21004, Mar. 27, 2020, 134 Stat. 591.
+
+Pub. L. 116–6, div. F, title VII, § 7057(a)–(e), Feb. 15, 2019, 133 Stat. 371.
 
 Pub. L. 115–141, div. K, title VII, § 7057(a)–(e), Mar. 23, 2018, 132 Stat. 941.
 
@@ -1671,11 +1683,11 @@ The Secretary shall designate and classify positions in the Department and at Fo
 
 1983—Subsec. (d). Pub. L. 98–164 added subsec. (d).
 
-#### Delegation of Functions
-Functions of President under subsec. (c) delegated to Secretary of State, see section 1 of Ex. Ord. No. 12293, Feb. 23, 1981, 46 F.R. 13969, set out as a note under [section 3901 of this title](./chapter-052-foreign-service.md#section-3901).
-
 #### Report Respecting Policies and Procedures Adopted To Improve Competitive Ability of Personnel
 Pub. L. 98–164, title I, § 130(c), Nov. 22, 1983, 97 Stat. 1028, directed Secretary of State, not later than one year after Nov. 22, 1983, to submit a report to Speaker of House of Representatives and chairman of Committee on Foreign Relations of Senate describing policies and procedures adopted pursuant to the amendment made by section 130(b) of Pub. L. 98–164, adding subsec. (d) of this section, prior to repeal by Pub. L. 103–236, title I, § 139(10), Apr. 30, 1994, 108 Stat. 398.
+
+#### Delegation of Functions
+Functions of President under subsec. (c) delegated to Secretary of State, see section 1 of Ex. Ord. No. 12293, Feb. 23, 1981, 46 F.R. 13969, set out as a note under [section 3901 of this title](./chapter-052-foreign-service.md#section-3901).
 
 
 <a id="section-3983"></a>
@@ -2521,6 +2533,8 @@ Except as otherwise provided, Secretary of State to have and exercise any author
 
 **(c) Child soldiers** The Secretary of State, with the assistance of other relevant officials, shall establish as part of the standard training provided for chiefs of mission, deputy chiefs of mission, and other officers of the Service who are or will be involved in the assessment of child soldier use or the drafting of the annual Human Rights Report instruction on matters related to child soldiers, and the substance of the Child Soldiers Prevention Act of 2008.
 
+**(d) Economic and commercial diplomacy** The Secretary of State, with the assistance of other relevant officials and the private sector, shall establish as part of the standard training provided for economic and commercial officers of the Foreign Service, chiefs of mission, and deputy chiefs of mission, training on matters related to economic and commercial diplomacy, with particular attention to market access and other elements of an enabling framework for United States businesses, commercial advocacy, and United States foreign economic policy, in addition to awareness about the support of the United States Government available to United States businesses, including support provided by the Department of Agriculture, the Department of Commerce, the Export-Import Bank of the United States, the Millennium Challenge Corporation, the Trade and Development Agency, the Department of the Treasury, the United States Agency for International Development, and the United States International Development Finance Corporation.
+
 ### Statutory Notes
 
 #### References in Text
@@ -2530,6 +2544,8 @@ The Child Soldiers Prevention Act of 2008, referred to in subsec. (c), is title 
 
 #### Amendments
 2019—Subsec. (a)(1)(D). Pub. L. 115–441 added subpar. (D).
+
+Subsec. (d). Pub. L. 116–94 added subsec. (d).
 
 2016—Subsec. (a). Pub. L. 114–281, § 103(a)(1), inserted subsec. heading, designated existing provisions as par. (1) and inserted par. heading, redesignated former pars. (1) to (3) as subpars. (A) to (C), respectively, and added par. (2).
 
@@ -2588,14 +2604,14 @@ Amendment by Pub. L. 99–335 effective Jan. 1, 1987, see section 702(a) of Pub.
 #### Effective Date
 Subchapter effective Feb. 15, 1981, except regarding the rights of former spouses to any annuity under [section 4054(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section4054/a&num=0&edition=prelim) or except to the extent provided in [section 4159 of this title](./chapter-052-foreign-service.md#section-4159), regarding rights of former spouses to receive survivor annuities under this subchapter, see section 2403(a) and (e) of Pub. L. 96–465, set out as a note under [section 3901 of this title](./chapter-052-foreign-service.md#section-3901).
 
-#### Delegation of Functions
-Functions of President under this section delegated to Secretary of State, see section 1 of Ex. Ord. No. 12293, Feb. 23, 1981, 46 F.R. 13969, set out as a note under [section 3901 of this title](./chapter-052-foreign-service.md#section-3901).
-
 #### Termination of Retirement Benefits for Foreign National Employees Engaging in Hostile Intelligence Activities
 Pub. L. 100–204, title I, § 158, Dec. 22, 1987, 101 Stat. 1355, provided that: “(a) Termination.—The Secretary of State shall exercise the authorities available to him to ensure that the United States does not provide, directly or indirectly, any retirement benefits of any kind to any present or former foreign national employee of a United States diplomatic or consular post against whom the Secretary has convincing evidence that such employee has engaged in intelligence activities directed against the United States. To the extent practicable, the Secretary shall provide due process in implementing this section. “(b) Waiver.—The Secretary of State may waive the applicability of subsection (a) on a case-by-case basis with respect to an employee if he determines that it is vital to the national security of the United States to do so and he reports such waiver to the appropriate committees of the Congress.”
 
 #### Temporary Retirement Contributions and Procedures for Certain Participants
 For temporary provisions providing modified contributions and procedures for members of the Service participating in the Foreign Service Retirement and Disability System who are also required to pay employment taxes relating to benefits under title II of the Social Security Act, [42 U.S.C. 401](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section401&num=0&edition=prelim) et seq., until they are covered by a new Government retirement system or Jan. 1, 1986, whichever is earlier, see title II of Pub. L. 98–168, set out as a note under [section 8331 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section8331&num=0&edition=prelim), Government Organization and Employees.
+
+#### Delegation of Functions
+Functions of President under this section delegated to Secretary of State, see section 1 of Ex. Ord. No. 12293, Feb. 23, 1981, 46 F.R. 13969, set out as a note under [section 3901 of this title](./chapter-052-foreign-service.md#section-3901).
 
 
 <a id="section-4042"></a>
@@ -2698,7 +2714,7 @@ As used in this part, unless otherwise specified, the term—
 
   (A) in the Armed Forces of the United States,
 
-  (B) in the Regular or Reserve Corps of the Public Health Service after June 30, 1960, or
+  (B) in the Regular or Reserve Corps 11 See Change of Name note below. of the Public Health Service after June 30, 1960, or
 
   (C) as a commissioned officer of the National Oceanic and Atmospheric Administration, or a predecessor organization, after June 30, 1961,
   but does not include service in the National Guard except when ordered to active duty in the service of the United States;
@@ -2766,6 +2782,9 @@ Par. (3). Pub. L. 99–335, § 403, substituted “, the District of Columbia, t
 Par. (10). Pub. L. 99–335, § 404(a), inserted “(creditable under part I or II)” after “creditable service” in two places.
 
 Par. (14). Pub. L. 99–335, § 402(a)(3), inserted “under this part” after “payable from the Fund” in provision preceding subpar. (A).
+
+#### Change of Name
+Reference to Reserve Corps of the Public Health Service deemed to be a reference to the Ready Reserve Corps, see [section 402(c)(3) of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section402/c/3&num=0&edition=prelim), The Public Health and Welfare.
 
 #### Effective Date of 1998 Amendment
 Pub. L. 105–382, § 4, Nov. 13, 1998, 112 Stat. 3409, as amended by Pub. L. 106–554, § 1(a)(4) [div. B, title I, § 145(a)], Dec. 21, 2000, 114 Stat. 2763, 2763A–250, provided that: “(a) In General.—Except as provided in subsection (b), this Act [amending this section and sections 4045, 4046, 4052, 4071a, and 4071d of this title and enacting provisions set out as a note under [section 3901 of this title](./chapter-052-foreign-service.md#section-3901)] and the amendments made by this Act—“(1) shall take effect on the date of the enactment of this Act [Nov. 13, 1998]; and “(2) shall apply with respect to—“(A) any individual first appointed on or after that date as a special agent who will have any portion of such individual’s annuity computed in conformance with section 806(a)(6) of the Foreign Service Act [of 1980] [[22 U.S.C. 4046(a)(6)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section4046/a/6&num=0&edition=prelim)]; and “(B) any individual making an election under subsection (b), subject to the provisions of such subsection. “(b) Election for Current Participants.—“(1) Eligibility.—An election under this subsection may be made by any currently employed participant or participant who was serving as of January 1, 1997 under chapter 8 of the Foreign Service Act of 1980 [[22 U.S.C. 4041](./chapter-052-foreign-service.md#section-4041) et seq.] who is serving or has served as a special agent, or by a survivor of a special agent who was eligible to make an election under this section. “(2) Effect of an election.—“(A) In general.—If an individual makes an election under this subsection, the amendments made by this Act [amending this section and sections 4045, 4046, 4052, 4071a, and 4071d of this title] shall become applicable with respect to such individual, subject to subparagraph (B). “(B) Treatment of prior service.—“(i) Special contribution.—An individual may, after making the election under this subsection, make a special contribution up to the full amount of the difference between the contributions actually deducted from pay for prior service and the deductions that would have been required if the amendments made by this Act had then been in effect. Any special contributions under this clause shall be computed under regulations based on section 805(d) of the Foreign Service Act of 1980 [[22 U.S.C. 4045(d)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section4045/d&num=0&edition=prelim)] (as amended by section 2), including provisions relating to the computation of interest. “(ii) Actuarial reduction.— “(I) Rule if the special contribution is paid.—If the full amount of the special contribution under clause (i) is paid, no reduction under this clause shall apply. “(II) Rule if less than the entire amount is paid.—If no special contribution under clause (i) is paid, or if less than the entire amount of such special contribution is paid, the recomputed annuity shall be reduced by an amount sufficient to make up the actuarial present value of the shortfall. “(c) Regulations and Notice.—Not later than 6 months after the date of the enactment of this Act [Nov. 13, 1998], the Secretary of State—“(1) shall promulgate such regulations as may be necessary to carry out this Act; and “(2) shall take measures reasonably designed to provide notice to participants as to any rights they might have under this Act. “(d) Election Deadline.—An election under subsection (b) must be made not later than 90 days after the date on which the relevant notice under subsection (c)(2) is provided. “(e) Definition.—For purposes of this section, the term ‘special agent’ has the meaning given such term under section 804(15) of the Foreign Service Act of 1980 ([22 U.S.C. 4044(15)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section4044/15&num=0&edition=prelim)), as amended by section 2(a).”
@@ -3681,7 +3700,7 @@ Amendment by Pub. L. 99–335 effective Jan. 1, 1987, see section 702(a) of Pub.
 ### Statutory Notes
 
 #### Amendment of Section
-Section 5 of Ex. Ord. No. 12446, Oct. 17, 1983, 48 F.R. 48445, set out as a note under [section 4067 of this title](./chapter-052-foreign-service.md#section-4067), provided that:
+Ex. Ord. No. 12446, § 5, Oct. 17, 1983, 48 F.R. 48445, set out as a note under [section 4067 of this title](./chapter-052-foreign-service.md#section-4067), provided that:
 
 “(a) Section 816(a) of the Act ([22 U.S.C. 4056(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section4056/a&num=0&edition=prelim)) is deemed to be further amended so that the provisions of [section 8332(j) of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section8332/j&num=0&edition=prelim) of the United States Code, relating to credit for military service, shall not apply with respect to any individual who is entitled to an annuity under such Act [this chapter] on or before the date of approval of this Order [Oct. 17, 1983], or who is entitled to an annuity based on a separation from service occurring on or before such date.
 
@@ -3703,7 +3722,7 @@ Section 5 of Ex. Ord. No. 12446, Oct. 17, 1983, 48 F.R. 48445, set out as a note
 
 “(f) The Secretary of Health and Human Services shall furnish such information to the Secretary of State as may be necessary to carry out the preceding provisions of this section.”
 
-Section 1(b) and (c) of Ex. Ord. No. 12446 provided that subsection (d) of this section, applicable (i) to contributions for civilian service performed on or after the first day of Nov. 1983, (ii) to contributions for prior refunds to participants for which application is received by the employing agency on and after such first day of Nov. 1983, and (iii) to excess contributions under [section 4055(h) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section4055/h&num=0&edition=prelim) and voluntary contributions under [section 4065(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section4065/a&num=0&edition=prelim) from the first day of Nov. 1983, is deemed to be amended to exclude from the computation of creditable civilian service under subsec. (a) of this section any period of civilian service for which retirement deductions or contributions have not been made under [section 4045(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section4045/d&num=0&edition=prelim) unless—
+Ex. Ord. No. 12446, § 1(b), (c), provided that subsection (d) of this section, applicable (i) to contributions for civilian service performed on or after the first day of Nov. 1983, (ii) to contributions for prior refunds to participants for which application is received by the employing agency on and after such first day of Nov. 1983, and (iii) to excess contributions under [section 4055(h) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section4055/h&num=0&edition=prelim) and voluntary contributions under [section 4065(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section4065/a&num=0&edition=prelim) from the first day of Nov. 1983, is deemed to be amended to exclude from the computation of creditable civilian service under subsec. (a) of this section any period of civilian service for which retirement deductions or contributions have not been made under [section 4045(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section4045/d&num=0&edition=prelim) unless—
 
 (1) the participant makes a contribution for such period as provided in such [section 4045(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section4045/d&num=0&edition=prelim); or
 
@@ -4028,7 +4047,7 @@ Pub. L. 112–74, div. I, title VII, § 7034(m)(4), Dec. 23, 2011, 125 Stat. 121
 ### Statutory Notes
 
 #### Amendment of Section
-Section 1(a) and (c) of Ex. Ord. No. 12446, Oct. 17, 1983, 48 F.R. 48443, set out as a note under [section 4067 of this title](./chapter-052-foreign-service.md#section-4067), provided that the first sentence of subsection (a) of this section, applicable (i) to contributions for civilian service performed on or after the first day of Nov. 1983, (ii) to contributions for prior refunds to participants for which application is received by the employing agency on and after such first day of Nov. 1983, and (iii) to excess contributions under [section 4055(h) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section4055/h&num=0&edition=prelim) and voluntary contributions under [section 4065(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section4065/a&num=0&edition=prelim) from the first day of Nov. 1983, is deemed to be amended to provide that interest shall be compounded at the annual rate of 3 percent per annum through December 31, 1984, and thereafter at a rate equal to the overall average yield to the Fund during the preceding fiscal year from all obligations purchased by the Secretary of the Treasury during such fiscal year under [section 4059 of this title](./chapter-052-foreign-service.md#section-4059), as determined by the Secretary of the Treasury.
+Ex. Ord. No. 12446, § 1(a), (c), Oct. 17, 1983, 48 F.R. 48443, set out as a note under [section 4067 of this title](./chapter-052-foreign-service.md#section-4067), provided that the first sentence of subsection (a) of this section, applicable (i) to contributions for civilian service performed on or after the first day of Nov. 1983, (ii) to contributions for prior refunds to participants for which application is received by the employing agency on and after such first day of Nov. 1983, and (iii) to excess contributions under [section 4055(h) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section4055/h&num=0&edition=prelim) and voluntary contributions under [section 4065(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section4065/a&num=0&edition=prelim) from the first day of Nov. 1983, is deemed to be amended to provide that interest shall be compounded at the annual rate of 3 percent per annum through December 31, 1984, and thereafter at a rate equal to the overall average yield to the Fund during the preceding fiscal year from all obligations purchased by the Secretary of the Treasury during such fiscal year under [section 4059 of this title](./chapter-052-foreign-service.md#section-4059), as determined by the Secretary of the Treasury.
 
 #### Codification
 In subsec. (a), “February 15, 1981” substituted for “the effective date of this Act” pursuant to section 2403 of Pub. L. 96–465, set out as an Effective Date note under [section 3901 of this title](./chapter-052-foreign-service.md#section-3901).
@@ -5362,6 +5381,11 @@ Subsec. (d). Pub. L. 99–93, § 122(3), amended subsec. (d) generally. Prior to
 #### Effective Date of 1988 Amendment
 Amendment by Pub. L. 100–238 effective 90 days after Jan. 8, 1988, see section 261(a) of Pub. L. 100–238, set out as a note under [section 4054 of this title](./chapter-052-foreign-service.md#section-4054).
 
+#### Coronavirus Pandemic Response
+Pub. L. 116–136, div. B, title XI, § 21010, Mar. 27, 2020, 134 Stat. 592, provided that: “The Department of State and the United States Agency for International Development are authorized to enter into contracts with individuals for the provision of personal services (as described in section 104 of part 37 of title 48, Code of Federal Regulations and including pursuant to section 904 of the Foreign Service Act of 1980 ([22 U.S.C. 4084](./chapter-052-foreign-service.md#section-4084))) to prevent, prepare for, and respond to coronavirus, within the United States and abroad, subject to prior consultation with, and the notification procedures of, the Committee on Appropriations and the Committee on Foreign Relations of the Senate and the Committee on Appropriations and the Committee on Foreign Affairs of the House of Representatives: Provided, That such individuals may not be deemed employees of the United States for the purpose of any law administered by the Office of Personnel Management: Provided further, That not later than 15 days after utilizing this authority, the Secretary of State shall provide a report to the Committee on Appropriations and the Committee on Foreign Relations of the Senate and the Committee on Appropriations and the Committee on Foreign Affairs of the House of Representatives on the overall staffing needs for the Office of Medical Services: Provided further, That the authority made available pursuant to this section shall expire on September 30, 2022.”
+
+[For definition of “coronavirus” as used in section 21010 of Pub. L. 116–136, set out above, see section 23005 of Pub. L. 116–136, set out as a note under [section 162b of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section162b&num=0&edition=prelim), The Congress.]
+
 
 <a id="section-4085"></a>
 ## § 4085. Entertainment and representation expenses
@@ -5497,6 +5521,8 @@ As used in this subchapter, the term—
 Pub. L. 105–277, § 1335(k)(3), substituted “Broadcasting Board of Governors” for “United States Information Agency”.
 
 #### Change of Name
+Broadcasting Board of Governors renamed United States Agency for Global Media pursuant to [section 6204(a)(22) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section6204/a/22&num=0&edition=prelim). The renaming was effectuated by notice to congressional appropriations committees dated May 24, 2018, and became effective Aug. 22, 2018.
+
 “United States Information Agency” substituted for “International Communication Agency” in subsec. (a), pursuant to section 303(b) of Pub. L. 97–241, set out as a note under [section 1461 of this title](./chapter-018-united-states-information-and-educational-exchange-programs.md#section-1461).
 
 #### Effective Date of 1998 Amendment
@@ -6060,6 +6086,8 @@ Subsec. (b)(3). Pub. L. 103–236, § 181(a)(4), made technical amendment to ref
 Subsec. (b). Pub. L. 102–138, § 153(a)(2), in par. (4), substituted “section 4139(a)(2)” for “section 4139(b)” and inserted at end “Nothing in this subsection shall exclude any act, omission, or condition alleged to violate any law, rule, regulation, or policy directive referred to in subsection (a)(1)(H) from such term.”
 
 #### Change of Name
+Broadcasting Board of Governors renamed United States Agency for Global Media pursuant to [section 6204(a)(22) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section6204/a/22&num=0&edition=prelim). The renaming was effectuated by notice to congressional appropriations committees dated May 24, 2018, and became effective Aug. 22, 2018.
+
 “United States Information Agency” substituted for “International Communication Agency” in subsec. (c), pursuant to section 303(b) of Pub. L. 97–241, set out as a note under [section 1461 of this title](./chapter-018-united-states-information-and-educational-exchange-programs.md#section-1461).
 
 #### Effective Date of 1998 Amendment
@@ -6798,13 +6826,14 @@ Section was not enacted as part of the Foreign Service Act of 1980 which compris
 Section was formerly classified to [section 1174 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section1174&num=0&edition=prelim), and prior thereto to [section 74 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section74&num=0&edition=prelim).
 
 #### Transfer of Functions
-Certain shipping and navigation functions of Secretary of Commerce transferred to Commandant of Coast Guard and Commissioner of Customs by Reorg. Plan No. 3 of 1946, §§ 101 to 104, eff. July 16, 1946, 11 F.R. 7875, 60 Stat. 1097, 1098 set out in the Appendix to Title 5, Government Organization and Employees.
-
-Functions of all officers of Department of the Treasury [which included Commandant of Coast Guard and Commissioner of Customs], and functions of all agencies and employees of Department, transferred, with certain exceptions, to Secretary of the Treasury, with power vested in him to authorize their performance or performance of any of his functions, by any of such officers, agencies, and employees, by Reorg. Plan No. 26 of 1950, §§ 1, 2, eff. July 31, 1950, 15 F.R. 4935, 64 Stat. 1280, set out in the Appendix to Title 5. Coast Guard was generally a service in Department of the Treasury but such Plan excepted, from transfer, functions of Coast Guard, and of Commandant thereof, when Coast Guard was operating as a part of Navy under former section 3 (now 103) of Title 14, Coast Guard.
-
 Coast Guard transferred to Department of Transportation and functions, powers, and duties, relating to Coast Guard, of Secretary of the Treasury and of other offices and officers of Department of the Treasury transferred to Secretary of Transportation by Pub. L. 89–670, § 6(b)(1), Oct. 15, 1966, 80 Stat. 931. Section 6(b)(2) of Pub. L. 89–670, however, provided that notwithstanding such transfer of functions, Coast Guard shall operate as part of Navy in time of war or when President directs as provided in former section 3 (now 103) of Title 14. See [section 108 of Title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section108&num=0&edition=prelim), Transportation.
 
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).
+
+#### Transfer of Functions
+Certain shipping and navigation functions of Secretary of Commerce transferred to Commandant of Coast Guard and Commissioner of Customs by Reorg. Plan No. 3 of 1946, §§ 101 to 104, eff. July 16, 1946, 11 F.R. 7875, 60 Stat. 1097, 1098 set out in the Appendix to Title 5, Government Organization and Employees.
+
+Functions of all officers of Department of the Treasury [which included Commandant of Coast Guard and Commissioner of Customs], and functions of all agencies and employees of Department, transferred, with certain exceptions, to Secretary of the Treasury, with power vested in him to authorize their performance or performance of any of his functions, by any of such officers, agencies, and employees, by Reorg. Plan No. 26 of 1950, §§ 1, 2, eff. July 31, 1950, 15 F.R. 4935, 64 Stat. 1280, set out in the Appendix to Title 5. Coast Guard was generally a service in Department of the Treasury but such Plan excepted, from transfer, functions of Coast Guard, and of Commandant thereof, when Coast Guard was operating as a part of Navy under former section 3 (now 103) of Title 14, Coast Guard.
 
 
 <a id="section-4195"></a>
@@ -7296,7 +7325,7 @@ Section was formerly classified to [section 813 of this title](https://uscode.ho
 Section effective July 1, 1931, see section 7 of act Feb. 23, 1931, set out as an Effective Date of 1931 Amendment note under [section 4224 of this title](./chapter-052-foreign-service.md#section-4224).
 
 #### Transfer of Functions
-Function of disbursement of moneys of the United States of any agency (with certain exceptions) transferred to Treasury Department by Ex. Ord. No. 6166, § 4, June 10, 1933, set out as a note under [section 901 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section901&num=0&edition=prelim), Government Organization and Employees. Section 4 of Ex. Ord. No. 6166 was repealed by Pub. L .97–258, § 5(b), Sept. 13, 1982, 96 Stat. 1086, the first section of which enacted Title 31, Money and Finance. See [section 3321 of Title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section3321&num=0&edition=prelim).
+Function of disbursement of moneys of the United States of any agency (with certain exceptions) transferred to Treasury Department by Ex. Ord. No. 6166, § 4, June 10, 1933, set out as a note under [section 901 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section901&num=0&edition=prelim), Government Organization and Employees. Section 4 of Ex. Ord. No. 6166 was repealed by Pub. L. 97–258, § 5(b), Sept. 13, 1982, 96 Stat. 1086, the first section of which enacted Title 31, Money and Finance. See [section 3321 of Title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section3321&num=0&edition=prelim).
 
 
 <a id="section-4226"></a>

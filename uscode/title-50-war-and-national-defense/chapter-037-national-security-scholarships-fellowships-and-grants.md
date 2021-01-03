@@ -601,25 +601,37 @@ Amendment by Pub. L. 105–244 effective Oct. 1, 1998, except as otherwise provi
 
 **(b) Fiscal years 1995 and 1996** There is authorized to be appropriated from, and may be obligated from, the Fund for each of the fiscal years 1995 and 1996 not more than the amount credited to the Fund in interest only for the preceding fiscal year under [section 1904(e) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1904/e&num=0&edition=prelim).
 
-**(c) Funding from Intelligence Community Management Account for fiscal years beginning with fiscal year 2005** In addition to amounts that may be made available to the Secretary under the Fund for a fiscal year, the Director of National Intelligence shall transfer to the Secretary from amounts appropriated for the Intelligence Community Management Account for each fiscal year, beginning with fiscal year 2005, $8,000,000 to carry out the scholarship, fellowship, and grant programs under subparagraphs (A), (B), and (C), respectively, of [section 1902(a)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1902/a/1&num=0&edition=prelim).
+**(c) Funding from Intelligence Community Management Account for fiscal years beginning with fiscal year 2005** In addition to amounts that may be made available to the Secretary under the Fund for a fiscal year, the Director of National Intelligence shall transfer to the Secretary from amounts appropriated for the Intelligence Community Management Account for each of fiscal years 2005 through 2021 $8,000,000 to carry out the scholarship, fellowship, and grant programs under subparagraphs (A), (B), and (C), respectively, of [section 1902(a)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1902/a/1&num=0&edition=prelim).
+
+**(d) Fiscal years beginning with fiscal year 2022** In addition to amounts that may be made available to the Secretary under the Fund for a fiscal year, there is authorized to be appropriated to the Secretary for each fiscal year, beginning with fiscal year 2022, $8,000,000, to carry out the scholarship, fellowship, and grant programs under subparagraphs (A), (B), and (C), respectively, of [section 1902(a)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1902/a/1&num=0&edition=prelim).
 
 ### Statutory Notes
 
 #### Amendments
+2020—Subsec. (c). Pub. L. 116–260, § 619(a)(1), substituted “for each of fiscal years 2005 through 2021” for “for each fiscal year, beginning with fiscal year 2005,”.
+
+Subsec. (d). Pub. L. 116–260, § 619(a)(2), added subsec. (d).
+
 2004—Subsec. (c). Pub. L. 108–487 added subsec. (c).
 
 
 <a id="section-1911"></a>
 ## § 1911. Additional annual authorization of appropriations
-**(a) In general** In addition to amounts that may be made available to the Secretary under the Fund for a fiscal year, there is authorized to be appropriated to the Secretary for each fiscal year, beginning with fiscal year 2003, $10,000,000, to carry out the grant program for the National Flagship Language Initiative under [section 1902(a)(1)(D) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1902/a/1/D&num=0&edition=prelim).
+**(a) In general** In addition to amounts that may be made available to the Secretary under the Fund for a fiscal year, there is authorized to be appropriated to the Secretary for each fiscal year, beginning with fiscal year 2020, $16,000,000, to carry out the grant program for the National Flagship Language Initiative under [section 1902(a)(1)(D) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1902/a/1/D&num=0&edition=prelim).
 
-**(b) Funding from Intelligence Community Management Account for fiscal years beginning with fiscal year 2005** In addition to amounts that may be made available to the Secretary under the Fund for a fiscal year, the Director of National Intelligence shall transfer to the Secretary from amounts appropriated for the Intelligence Community Management Account for each fiscal year, beginning with fiscal year 2005, $6,000,000 to carry out the grant program for the National Flagship Language Initiative under [section 1902(a)(1)(D) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1902/a/1/D&num=0&edition=prelim).
+**(b) Funding from Intelligence Community Management Account for fiscal years beginning with fiscal year 2005** In addition to amounts that may be made available to the Secretary under the Fund for a fiscal year, the Director of National Intelligence shall transfer to the Secretary from amounts appropriated for the Intelligence Community Management Account for each of fiscal years 2005 through 2021 $6,000,000 to carry out the grant program for the National Flagship Language Initiative under [section 1902(a)(1)(D) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1902/a/1/D&num=0&edition=prelim).
 
 **(c) Availability of appropriated funds** Amounts made available under this section shall remain available until expended.
 
 ### Statutory Notes
 
 #### Amendments
+2020—Subsec. (a). Pub. L. 116–260, § 619(b)(1), which directed substitution of “$16,000,000” for “$10,000,000”, could not be executed because “$10,000,000” did not appear in text after the amendment by Pub. L. 116–92. See 2019 Amendment note below.
+
+Subsec. (b). Pub. L. 116–260, § 619(b)(2), substituted “for each of fiscal years 2005 through 2021” for “for each fiscal year, beginning with fiscal year 2005,”.
+
+2019—Subsec. (a). Pub. L. 116–92, which directed amendment of section 811(a) of the Fair Chance Act ([50 U.S.C. 1911(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1911/a&num=0&edition=prelim)) by substituting “fiscal year 2020” for “fiscal year 2003” and “$16,000,000” for “$10,000,000”, was executed to subsec. (a) of this section, which is section 811 of the David L. Boren National Security Education Act of 1991, to reflect the probable intent of Congress.
+
 2004—Subsecs. (b), (c). Pub. L. 108–487 added subsecs. (b) and (c) and struck out heading and text of former subsec. (b). Text read as follows: “Amounts appropriated pursuant to the authorization of appropriations under subsection (a) shall remain available until expended.”
 
 #### Effective Date
@@ -628,9 +640,20 @@ Section effective on the date the Secretary of Defense submits the report requir
 
 <a id="section-1912"></a>
 ## § 1912. Funding for scholarship program for advanced English language studies by heritage community citizens
-**(a) Funding from Intelligence Community Management Account** In addition to amounts that may be made available to the Secretary under the Fund for a fiscal year, the Director of National Intelligence shall transfer to the Secretary from amounts appropriated for the Intelligence Community Management Account for each fiscal year, beginning with fiscal year 2005, $2,000,000 to carry out the scholarship programs for English language studies by certain heritage community citizens under [section 1902(a)(1)(E) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1902/a/1/E&num=0&edition=prelim).
+**(a) Funding from Intelligence Community Management Account** In addition to amounts that may be made available to the Secretary under the Fund for a fiscal year, the Director of National Intelligence shall transfer to the Secretary from amounts appropriated for the Intelligence Community Management Account for each of fiscal years 2005 through 2021 $2,000,000 to carry out the scholarship programs for English language studies by certain heritage community citizens under [section 1902(a)(1)(E) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1902/a/1/E&num=0&edition=prelim).
 
-**(b) Availability of funds** Amounts made available under subsection (a) shall remain available until expended.
+**(b) Fiscal years beginning with fiscal year 2022** In addition to amounts that may be made available to the Secretary under the Fund for a fiscal year, there is authorized to be appropriated to the Secretary for each fiscal year, beginning with fiscal year 2022, $2,000,000, to carry out the scholarship programs for English language studies by certain heritage community citizens under [section 1902(a)(1)(E) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1902/a/1/E&num=0&edition=prelim).
+
+**(c) Availability of funds** Amounts made available under this section shall remain available until expended.
+
+### Statutory Notes
+
+#### Amendments
+2020—Subsec. (a). Pub. L. 116–260, § 619(c)(1), substituted “for each of fiscal years 2005 through 2021” for “for each fiscal year, beginning with fiscal year 2005,”.
+
+Subsec. (b). Pub. L. 116–260, § 619(c)(3), added subsec. (b). Former subsec. (b) redesignated (c).
+
+Subsec. (c). Pub. L. 116–260, § 619(c)(2), (4), redesignated subsec. (b) as (c) and substituted “this section” for “subsection (a)”.
 
 
 <a id="section-1913"></a>

@@ -49,7 +49,7 @@ Pub. L. 90–631, § 6(a), Oct. 23, 1968, 82 Stat. 1335, provided that: “The a
 
     (i) at the time of the Secretary’s determination under clause (ii), is a member of the Armed Forces who is hospitalized or receiving outpatient medical care, services, or treatment;
 
-    (ii) the Secretary determines has a total disability permanent in nature incurred or aggravated in the line of duty in the active military, naval, or air service; and
+    (ii) the Secretary determines has a total disability permanent in nature incurred or aggravated in the line of duty in the active military, naval, air, or space service; and
 
     (iii) is likely to be discharged or released from such service for such disability.
 
@@ -73,7 +73,7 @@ Pub. L. 90–631, § 6(a), Oct. 23, 1968, 82 Stat. 1335, provided that: “The a
 
 (11) The term “standard college degree” means an associate or higher degree awarded by (A) an institution of higher learning that is accredited as a collegiate institution by a recognized regional or national accrediting agency; or (B) an institution of higher learning that is a “candidate” for accreditation as that term is used by the regional or national accrediting agencies; or (C) an institution of higher learning upon completion of a course which is accredited by an agency recognized to accredit specialized degree-level programs. For the purpose of this section, the accrediting agency must be one recognized by the Secretary of Education under the provisions of [section 3675 of this title](./chapter-036-administration-of-educational-benefits.md#section-3675).
 
-(12) The term “qualifying service” means service in the active military, naval, or air service after the beginning of the Spanish-American War that did not terminate under dishonorable conditions.
+(12) The term “qualifying service” means service in the active military, naval, air, or space service after the beginning of the Spanish-American War that did not terminate under dishonorable conditions.
 
 **(b)** If an eligible person has attained the person’s majority and is under no known legal disability, all references in this chapter to “parent or guardian” shall refer to the eligible person.
 
@@ -84,12 +84,14 @@ Pub. L. 90–631, § 6(a), Oct. 23, 1968, 82 Stat. 1335, provided that: “The a
 ### Statutory Notes
 
 #### References in Text
-The National Apprenticeship Act, referred to in subsec. (a)(9), is act Aug. 16, 1937, ch. 663, 50 Stat. 664, as amended which is classified generally to chapter 4C (§ 50 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under [section 50 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section50&num=0&edition=prelim) and Tables.
+The National Apprenticeship Act, referred to in subsec. (a)(9), is act Aug. 16, 1937, ch. 663, 50 Stat. 664, which is classified generally to chapter 4C (§ 50 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under [section 50 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section50&num=0&edition=prelim) and Tables.
 
 #### Prior Provisions
 Prior sections 3501 to 3505 were renumbered sections 6101 to 6105 of this title, respectively.
 
 #### Amendments
+2021—Subsec. (a)(1)(E)(ii), (12). Pub. L. 116–283 substituted “air, or space service” for “or air service”.
+
 2006—Pub. L. 109–461, § 1006(b), provided that as of the enactment of Pub. L. 109–461, the amendments made by Pub. L. 109–444 were deemed for all purposes not to have taken effect and that Pub. L. 109–444 ceased to be in effect. See Amendment notes below and section 1006(b) of Pub. L. 109–461, set out as a Coordination of Provisions With Pub. L. 109–444 note under [section 101 of this title](./chapter-001-general.md#section-101).
 
 Subsec. (a)(1). Pub. L. 109–461, § 301(a)(1), (8), substituted “means any of the following:” for “means—” in introductory provisions and struck out concluding provisions, which read as follows: “arising out of active military, naval, or air service after the beginning of the Spanish-American War, but only if such service did not terminate under dishonorable conditions. The standards and criteria for determining whether or not a disability arising out of such service is service connected shall be those applicable under chapter 11 of this title.”
@@ -424,7 +426,7 @@ Amendment by Pub. L. 90–631 effective first day of second calendar month which
 
     (ii) The date on which the Secretary determines that the veteran from whom eligibility is derived died of a service-connected disability.
 
-    (iii) The date on which the Secretary notifies the member of the Armed Forces from whom eligibility is derived that the member has a total disability permanent in nature incurred or aggravated in the line of duty in the active military, naval, or air service.
+    (iii) The date on which the Secretary notifies the member of the Armed Forces from whom eligibility is derived that the member has a total disability permanent in nature incurred or aggravated in the line of duty in the active military, naval, air, or space service.
 
   (C) Notwithstanding subparagraph (A), an eligible person referred to in that subparagraph who is made eligible under [section 3501(a)(1)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section3501/a/1/B&num=0&edition=prelim) by reason of the death of a person on active duty may be afforded educational assistance under this chapter during the 20-year period beginning on the date (as determined by the Secretary) such person becomes an eligible person within the meaning of such section.
 
@@ -470,6 +472,8 @@ Amendment by Pub. L. 90–631 effective first day of second calendar month which
 Section 2 of Public Law 87–117 [75 Stat. 242], referred to in subsec. (a)(5), was set out as a note under former [section 263 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section263&num=0&edition=prelim), Armed Forces.
 
 #### Amendments
+2021—Subsec. (b)(1)(B)(iii). Pub. L. 116–283 substituted “air, or space service” for “or air service”.
+
 2011—Subsec. (c). Pub. L. 111–377 amended subsec. (c) generally. Prior to amendment, text read as follows: “Notwithstanding the provisions of subsection (a) of this section, an eligible person may be afforded educational assistance beyond the age limitation applicable to such person under such subsection if (1) such person suspends pursuit of such person’s program of education after having enrolled in such program within the time period applicable to such person under such subsection, (2) such person is unable to complete such program after the period of suspension and before attaining the age limitation applicable to such person under such subsection, and (3) the Secretary finds that the suspension was due to conditions beyond the control of such person; but in no event shall educational assistance be afforded such person by reason of this subsection beyond the age limitation applicable to such person under subsection (a) of this section plus a period of time equal to the period such person was required to suspend the pursuit of such person’s program, or beyond such person’s thirty-first birthday, whichever is earlier.”
 
 2010—Subsec. (a)(6). Pub. L. 111–275 substituted “this paragraph” for “this clause”.
@@ -1026,15 +1030,19 @@ Amendment by Pub. L. 94–502 effective Oct. 15, 1976, see section 703(b) of Pub
 
 **(g)**
 
-(1) Subject to paragraph (3), the amount of educational assistance payable under this chapter for a national test for admission or national test providing an opportunity for course credit at institutions of higher learning described in [section 3501(a)(5) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section3501/a/5&num=0&edition=prelim) is the amount of the fee charged for the test.
+(1) Subject to paragraph (3), the amount of educational assistance payable under this chapter for a national test for admission or national test providing an opportunity for course credit at institutions of higher learning described in [section 3501(a)(5) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section3501/a/5&num=0&edition=prelim) or a covered preparatory course (as that term is defined in [section 3315B(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section3315B/a&num=0&edition=prelim)) is the amount of the fee charged for the test.
 
-(2) The number of months of entitlement charged in the case of any individual for a test described in paragraph (1) is equal to the number (including any fraction) determined by dividing the total amount of educational assistance paid such individual for such test by the full-time monthly institutional rate of educational assistance, except for paragraph (1), such individual would otherwise be paid under this chapter.
+(2) The number of months of entitlement charged in the case of any individual for a test or covered preparatory course described in paragraph (1) is equal to the number (including any fraction) determined by dividing the total amount of educational assistance paid such individual for such test or covered preparatory course by the full-time monthly institutional rate of educational assistance, except for paragraph (1), such individual would otherwise be paid under this chapter.
 
-(3) In no event shall payment of educational assistance under this subsection for a test described in paragraph (1) exceed the amount of the individual’s available entitlement under this chapter.
+(3) In no event shall payment of educational assistance under this subsection for a test or covered preparatory course described in paragraph (1) exceed the amount of the individual’s available entitlement under this chapter.
 
 ### Statutory Notes
 
 #### Amendments
+2020—Subsec. (g)(1). Pub. L. 116–154, § 5(c)(1), inserted “or a covered preparatory course (as that term is defined in [section 3315B(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section3315B/a&num=0&edition=prelim))” after “[section 3501(a)(5) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section3501/a/5&num=0&edition=prelim)”.
+
+Subsec. (g)(2), (3). Pub. L. 116–154, § 5(c)(2), inserted “or covered preparatory course” after “test” wherever appearing.
+
 2017—Subsec. (a)(1). Pub. L. 115–48, § 203(a)(1)(A), substituted “$1,224” for “$788”, “$967” for “$592”, and “$710” for “$394”.
 
 Subsec. (a)(2)(B). Pub. L. 115–48, § 203(a)(1)(B), substituted “$1,224” for “$788”.

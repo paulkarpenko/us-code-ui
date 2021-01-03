@@ -2,7 +2,7 @@
 title: 12
 chapter: '21'
 heading: FINANCIAL RECORDKEEPING
-section_count: 9
+section_count: 10
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12&num=0&edition=prelim
 ---
@@ -166,3 +166,34 @@ The administrative procedure and judicial review provisions of subchapter II of 
 
 #### Effective Date
 Section effective on first day of seventh calendar month which begins after Oct. 26, 1970, except that the Secretary of the Treasury may, by regulation, provide that this section be effective on any date not earlier than the publication of such regulations in the Federal Register and not later than first day of thirteenth calendar month which begins after Oct. 26, 1970, see section 401(a), (b) of Pub. L. 91–508, set out as a note under [section 1951 of this title](./chapter-021-financial-recordkeeping.md#section-1951).
+
+
+<a id="section-1960"></a>
+## § 1960. Safe harbor with respect to keep open directives
+**(a) Definition** In this section, the term “financial institution” means an entity to which [section 1953(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1953/b&num=0&edition=prelim) applies.
+
+**(b) Safe harbor** With respect to a customer account or customer transaction of a financial institution, if a Federal law enforcement agency, after notifying FinCEN of the intent to submit a written request to the financial institution that the financial institution keep that account or transaction open (referred to in this section as a “keep open request”), or if a State, Tribal, or local law enforcement agency with the concurrence of FinCEN submits a keep open request—
+
+(1) the financial institution shall not be liable under this chapter for maintaining that account or transaction consistent with the parameters and timing of the request; and
+
+(2) no Federal or State department or agency may take any adverse supervisory action under this chapter with respect to the financial institution solely for maintaining that account or transaction consistent with the parameters of the request.
+
+**(c) Rule of construction** Nothing in this section may be construed—
+
+(1) to prevent a Federal or State department or agency from verifying the validity of a keep open request submitted under subsection (b) with the law enforcement agency submitting that request;
+
+(2) to relieve a financial institution from complying with any reporting requirements, including the reporting of suspicious transactions under [section 5318(g) of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section5318/g&num=0&edition=prelim); or
+
+(3) to extend the safe harbor described in subsection (b) to any actions taken by the financial institution—
+
+  (A) before the date of the keep open request to maintain a customer account; or
+
+  (B) after the termination date stated in the keep open request.
+
+**(d) Letter termination date** For the purposes of this section, any keep open request submitted under subsection (b) shall include a termination date after which that request shall no longer apply.
+
+**(e) Record keeping** Any Federal, State, Tribal, or local law enforcement agency that submits to a financial institution a keep open request shall, not later than 2 business days after the date on which the request is submitted to the financial institution—
+
+(1) submit to FinCEN a copy of the request; and
+
+(2) alert FinCEN as to whether the financial institution has implemented the request.

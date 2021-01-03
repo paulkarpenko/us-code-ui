@@ -7,21 +7,12 @@ source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16&num=0&edition=prelim
 ---
 <a id="section-671"></a>
-## § 671. National Bison Range
-
-There is reserved and excepted from the unallotted lands now embraced within the Flat­head Indian Reservation, in the State of Montana, a parcel not to exceed twenty thousand acres of said lands, near the confluence of the Pend d’Oreille and Jocko Rivers, for a permanent National Bison Range for the herd of bison presented by the American Bison Society. The Secretary of the Interior is authorized and directed to inclose said lands with a good and substantial fence and to erect thereon the necessary sheds and buildings for the proper care and maintenance of the said bison.
+## § 671. Repealed and Omitted
 
 ### Statutory Notes
 
 #### Codification
-Act May 23, 1908, authorized President to reserve and except 12,800 acres, only, for the purposes of this section.
-
-Act May 23, 1908, also made an appropriation to enable Secretary of the Interior to pay the confederated tribes of the Flathead, Kootenai, and Upper Pend d’Oreille, and such other Indians as rightfully belonged on the reservation, the appraised value of the lands which provision was omitted as temporary and executed.
-
-Act Mar. 4, 1909, directed President to reserve and except a sufficient area to enlarge the range to not to exceed 20,000 acres.
-
-#### Transfer of Functions
-Functions of Secretary of Agriculture relating to conservation of wildlife, game, and migratory birds transferred to Secretary of the Interior by Reorg. Plan No. II of 1939, set out in the Appendix to Title 5, Government Organization and Employees.
+Section was a composite of provisions in acts May 23, 1908, ch. 192, 35 Stat. 267, and Mar. 4, 1909, ch. 301, 35 Stat. 1051. The provision in act May 23, 1908, ch. 192, which authorized President to reserve and except 12,800 acres for a permanent National Bison Range in Montana, was repealed by Pub. L. 116–260, div. DD, § 12(g), Dec. 27, 2020, 134 Stat. 3032. The provision in act Mar. 4, 1909, ch. 301, which directed President to reserve and except a sufficient area to enlarge the Range to not to exceed 20,000 acres, was omitted in view of the probable intent to repeal the entirety of this section by section 12(g) of div. DD of Pub. L. 116—260.
 
 
 <a id="section-672"></a>
@@ -129,9 +120,9 @@ A prior section 3 of Pub. L. 94–389 was classified to [section 673f of this ti
 
 
 <a id="section-674"></a>
-## § 674. Sullys Hill National Game Preserve
+## § 674. White Horse Hill National Game Preserve
 
-The Secretary of the Interior is authorized to inclose the Sullys Hill National Game Preserve with a good and substantial fence, to construct thereon all sheds, buildings, and corrals necessary for the proper care and maintenance of the animals and birds therein, to erect a suitable headquarters, to construct and maintain roads, trails, and other structures necessary for the convenience of visitors, and to incur such other expenses as may be necessary for the proper maintenance of the preserve and the animals and birds placed therein. He is also authorized to place in the park buffalos, elk, deer, and such other wild or rare animals and birds as he may in his discretion decide.
+The Secretary of the Interior is authorized to inclose the Sullys Hill National Game Preserve 11 See Change of Name note below. with a good and substantial fence, to construct thereon all sheds, buildings, and corrals necessary for the proper care and maintenance of the animals and birds therein, to erect a suitable headquarters, to construct and maintain roads, trails, and other structures necessary for the convenience of visitors, and to incur such other expenses as may be necessary for the proper maintenance of the preserve and the animals and birds placed therein. He is also authorized to place in the park buffalos, elk, deer, and such other wild or rare animals and birds as he may in his discretion decide.
 
 ### Statutory Notes
 
@@ -139,36 +130,48 @@ The Secretary of the Interior is authorized to inclose the Sullys Hill National 
 This section was a provision of the agricultural appropriation act for the fiscal year 1915, act June 30, 1914, which, in the first sentence, made an appropriation of $5,000 for the improvement of a game preserve in Sullys Hill National Park, the same to be available until expended.
 
 #### Change of Name
-Act Mar. 3, 1931, provided that the Sullys Hill National Park should be administered as a big-game preserve, refuge and breeding grounds for wild animals and birds, which should be known as the Sullys Hill National Game Preserve.
+Act Mar. 3, 1931, provided that the Sullys Hill National Park should be administered as a big-game preserve, refuge and breeding grounds for wild animals and birds, which should be known as the Sullys Hill National Game Preserve. Sullys Hill National Game Preserve was renamed White Horse Hill National Game Preserve by Pub. L. 116–94, div. P, title IV, § 402(a), Dec. 20, 2019, 133 Stat. 3191.
+
+#### Short Title of 2019 Amendment
+Pub. L. 116–94, div. P, title IV, § 401, Dec. 20, 2019, 133 Stat. 3191, provided that: “This title [amending sections 674a and 674b of this title and enacting provisions set out as a note under [section 674a of this title](./chapter-006-game-and-bird-preserves-protection.md#section-674a)] may be cited as the ‘White Horse Hill National Game Preserve Designation Act’.”
 
 #### Transfer of Functions
 Transfer of functions of Secretary of Agriculture to Secretary of the Interior by Reorg. Plan No. II of 1939, see Transfer of Functions note set out under [section 671 of this title](./chapter-006-game-and-bird-preserves-protection.md#section-671).
 
 
 <a id="section-674a"></a>
-## § 674a. Sullys Hill National Park; transfer of control; change of name to Sullys Hill National Game Preserve; boundaries; use by public; hunting
+## § 674a. Sullys Hill National Park; transfer of control; change of name to White Horse Hill National Game Preserve; boundaries; use by public; hunting
 
-The Secretary of the Interior shall administer Sullys Hill National Park, together with all improvements thereon, in the State of North Dakota, as a big game preserve, refuge, and breeding grounds for wild animals and birds, which shall be known as the Sullys Hill National Game Preserve and shall embrace within its boundaries the lands described in the proclamation of June 2, 1904, establishing Sullys Hill Park, together with all unsurveyed or public lands uncovered by the recession of the waters of Devils Lake in front of said reservation, the preserve to be bounded on the north and northwest by the waters of Devils Lake, and on the west and southwest by a stream which flows through lands uncovered by the recession of the waters of Devils Lake, approximately midway between lots 10 and 11, section 17; lots 1, 2, 6, and 8, section 16; and lot 2, section 9; lots 3, 4, and 5, section 16, township 152 north, range 65 west, fifth principal meridian, as meandered on the official plats of survey approved June 23, 1904, and June 2, 1927: Provided, That the said game preserve is to be made available to the public for recreational purposes insofar as consistent with the use of this area as a game preserve: Provided further, That hunting shall not be permitted on said game preserve.
+The Secretary of the Interior shall administer Sullys Hill National Park, together with all improvements thereon, in the State of North Dakota, as a big game preserve, refuge, and breeding grounds for wild animals and birds, which shall be known as the White Horse Hill National Game Preserve and shall embrace within its boundaries the lands described in the proclamation of June 2, 1904, establishing Sullys Hill Park, together with all unsurveyed or public lands uncovered by the recession of the waters of Devils Lake in front of said reservation, the preserve to be bounded on the north and northwest by the waters of Devils Lake, and on the west and southwest by a stream which flows through lands uncovered by the recession of the waters of Devils Lake, approximately midway between lots 10 and 11, section 17; lots 1, 2, 6, and 8, section 16; and lot 2, section 9; lots 3, 4, and 5, section 16, township 152 north, range 65 west, fifth principal meridian, as meandered on the official plats of survey approved June 23, 1904, and June 2, 1927: Provided, That the said game preserve is to be made available to the public for recreational purposes insofar as consistent with the use of this area as a game preserve: Provided further, That hunting shall not be permitted on said game preserve.
 
 ### Statutory Notes
+
+#### Amendments
+2019—Pub. L. 116–94 substituted “White Horse Hill National Game Preserve” for “Sullys Hill National Game Preserve” in text.
+
+#### Change of Name
+Pub. L. 116–94, div. P, title IV, § 402(c), Dec. 20, 2019, 133 Stat. 3191, provided that: “Any reference in a law, map, regulation, document, paper, or other record of the United States to the Sullys Hill National Game Preserve shall be considered to be a reference to the ‘White Horse Hill National Game Preserve’.”
 
 #### Transfer of Functions
 Transfer of functions of Secretary of Agriculture to Secretary of the Interior by Reorg. Plan No. II of 1939, see Transfer of Functions note set out under [section 671 of this title](./chapter-006-game-and-bird-preserves-protection.md#section-671).
 
 
 <a id="section-674b"></a>
-## § 674b. Sullys Hill National Game Preserve; acquisition of additional lands
+## § 674b. White Horse Hill National Game Preserve; acquisition of additional lands
 
-The Secretary of the Interior is authorized to acquire, by purchase or otherwise, after July 1, 1932, an area of land not to exceed three thousand acres, at an average cost of not more than $10 per acre, with the improvements thereon, situated on the east and south of said preserve as described in [section 674a of this title](./chapter-006-game-and-bird-preserves-protection.md#section-674a), within sections 10, 11, 12, 13, 14, 15, 22, 23, and 24, township 152 north, range 65 west, fifth principal meridian, said lands, upon acquisition by the United States, to become a part of the Sullys Hill National Game Preserve.
+The Secretary of the Interior is authorized to acquire, by purchase or otherwise, after July 1, 1932, an area of land not to exceed three thousand acres, at an average cost of not more than $10 per acre, with the improvements thereon, situated on the east and south of said preserve as described in [section 674a of this title](./chapter-006-game-and-bird-preserves-protection.md#section-674a), within sections 10, 11, 12, 13, 14, 15, 22, 23, and 24, township 152 north, range 65 west, fifth principal meridian, said lands, upon acquisition by the United States, to become a part of the White Horse Hill National Game Preserve.
 
 ### Statutory Notes
+
+#### Amendments
+2019—Pub. L. 116–94 substituted “White Horse Hill National Game Preserve” for “Sullys Hill National Game Preserve” in text.
 
 #### Transfer of Functions
 Transfer of functions of Secretary of Agriculture to Secretary of the Interior by Reorg. Plan No. II of 1939, see Transfer of Functions note set out under [section 671 of this title](./chapter-006-game-and-bird-preserves-protection.md#section-671).
 
 
 <a id="section-674c"></a>
-## § 674c. Boundary and division fences for Sullys Hill National Game Preserve; buildings and improvements; supplies; employees
+## § 674c. Boundary and division fences for White Horse Hill National Game Preserve; buildings and improvements; supplies; employees
 
 The Secretary of the Interior is authorized to construct and maintain such boundary and division fences as are required to inclose and subdivide the preserve; to construct such buildings and improvements, to install and maintain a suitable water-supply and sanitary system, to purchase such supplies, and to employ such assistants as are necessary for the maintenance of the preserve and the improvements thereon and for the accommodation of visitors thereto.
 

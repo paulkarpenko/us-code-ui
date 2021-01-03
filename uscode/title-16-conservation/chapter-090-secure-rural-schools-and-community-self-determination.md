@@ -224,13 +224,13 @@ Amendment by Pub. L. 115–334 effective as if enacted as part of the Wildfire S
 
 <a id="section-7113"></a>
 ## § 7113. Secure payments for States containing Federal land
-**(a) State payment** For each of fiscal years 2008 through 2015, 2017, and 2018, the Secretary of Agriculture shall calculate for each eligible State an amount equal to the sum of the products obtained by multiplying—
+**(a) State payment** For each of fiscal years 2008 through 2015, 2017, 2018, 2019, and 2020, the Secretary of Agriculture shall calculate for each eligible State an amount equal to the sum of the products obtained by multiplying—
 
 (1) the adjusted share for each eligible county within the eligible State; by
 
 (2) the full funding amount for the fiscal year.
 
-**(b) County payment** For each of fiscal years 2008 through 2015, 2017, and 2018, the Secretary of the Interior shall calculate for each eligible county that received a 50-percent payment during the eligibility period an amount equal to the product obtained by multiplying—
+**(b) County payment** For each of fiscal years 2008 through 2015, 2017, 2018, 2019, and 2020, the Secretary of the Interior shall calculate for each eligible county that received a 50-percent payment during the eligibility period an amount equal to the product obtained by multiplying—
 
 (1) the 50-percent adjusted share for the eligible county; by
 
@@ -256,6 +256,8 @@ Amendment by Pub. L. 115–334 effective as if enacted as part of the Wildfire S
 A prior section 101 of Pub. L. 106–393 was set out in a note under [section 500 of this title](./chapter-002-national-forests.md#section-500) prior to repeal by Pub. L. 110–343, div. C, title VI, § 601(a), Oct. 3, 2008, 122 Stat. 3893.
 
 #### Amendments
+2019—Subsecs. (a), (b). Pub. L. 116–94 substituted “2018, 2019, and 2020” for “and 2018” in introductory provisions.
+
 2018—Subsecs. (a), (b). Pub. L. 115–141, § 401(a)(2)(A), substituted “2015, 2017, and 2018” for “2015” in introductory provisions.
 
 Subsec. (d). Pub. L. 115–141, § 401(a)(2)(B), added subsec. (d).
@@ -295,13 +297,13 @@ Subsec. (c). Pub. L. 114–10, § 524(a)(3), added subsec. (c).
 
   (C) *Effect of late payment for fiscal years 2014 and 2015* — The election otherwise required by subparagraph (A) shall not apply for fiscal year 2014 or 2015.
 
-  (D) *Payments for fiscal years 2017 and 2018* — The election otherwise required by subparagraph (A) shall not apply for fiscal years 2017 or 2018.
+  (D) *Payments for each of fiscal years 2017 through 2020* — The election otherwise required by subparagraph (A) shall not apply for each of fiscal years 2017 through 2020.
 
 (2) **Duration of election**
 
-  (A) *In general* — A county election to receive a share of the 25-percent payment or 50-percent payment, as applicable, shall be effective for 2 fiscal years. If such two-fiscal year period included fiscal year 2013, the county election to receive a share of the 25-percent payment or 50-percent payment, as applicable, also shall be effective for fiscal years 2014 and 2015 and for fiscal years 2017 and 2018.
+  (A) *In general* — A county election to receive a share of the 25-percent payment or 50-percent payment, as applicable, shall be effective for 2 fiscal years. If such two-fiscal year period included fiscal year 2013, the county election to receive a share of the 25-percent payment or 50-percent payment, as applicable, also shall be effective for fiscal years 2014 and 2015 and for each of fiscal years 2017 through 2020.
 
-  (B) *Full funding amount* — If a county elects to receive a share of the State payment or the county payment in 2013, the election shall be effective for all subsequent fiscal years through fiscal year 2015 and for fiscal years 2017 and 2018.
+  (B) *Full funding amount* — If a county elects to receive a share of the State payment or the county payment in 2013, the election shall be effective for all subsequent fiscal years through fiscal year 2015 and for each of fiscal years 2017 through 2020.
 
 (3) **Source of payment amounts** — The payment to an eligible State or eligible county under this section for a fiscal year shall be derived from—
 
@@ -347,7 +349,7 @@ Subsec. (c). Pub. L. 114–10, § 524(a)(3), added subsec. (c).
 
   (E) *Effect of late payment for fiscal year 2014* — The election made by an eligible county under subparagraph (B), (C), or (D) for fiscal year 2013, or deemed to be made by the county under paragraph (3)(B) for that fiscal year, shall be effective for fiscal years 2014 and 2015.
 
-  (F) *Payments for fiscal years 2017 and 2018* — The election made by an eligible county under subparagraph (B), (C), or (D) for fiscal year 2013, or deemed to be made by the county under paragraph (3)(B) for that fiscal year, shall be effective for fiscal years 2017 and 2018.
+  (F) *Payments for each of fiscal years 2017 through 2020* — The election made by an eligible county under subparagraph (B), (C), or (D) for fiscal year 2013, or deemed to be made by the county under paragraph (3)(B) for that fiscal year, shall be effective for each of fiscal years 2017 through 2020.
 
 (2) **Distribution of funds**
 
@@ -371,7 +373,7 @@ Subsec. (c). Pub. L. 114–10, § 524(a)(3), added subsec. (c).
 
   (C) *Effect of late payment for fiscal year 2014* — This paragraph does not apply for fiscal years 2014 and 2015.
 
-  (D) *Payments for fiscal years 2017 and 2018* — This paragraph does not apply for fiscal years 2017 and 2018.
+  (D) *Payments for each of fiscal years 2017 through 2020* — This paragraph does not apply for each of fiscal years 2017 through 2020.
 
 **(e) Time for payment** The payments required under this section for a fiscal year shall be made as soon as practicable after the end of that fiscal year.
 
@@ -394,9 +396,17 @@ Act of March 1, 1911, referred to in subsec. (f)(2), is act Mar. 1, 1911, ch. 18
 A prior section 102 of Pub. L. 106–393 was set out in a note under [section 500 of this title](./chapter-002-national-forests.md#section-500) prior to repeal by Pub. L. 110–343, div. C, title VI, § 601(a), Oct. 3, 2008, 122 Stat. 3893.
 
 #### Amendments
+2019—Subsec. (b)(1)(D). Pub. L. 116–94, § 301(a)(2)(A)(i), substituted “for each of fiscal years 2017 through 2020” for “for fiscal years 2017 and 2018” in heading and text.
+
+Subsec. (b)(2). Pub. L. 116–94, § 301(a)(2)(A)(ii), substituted “for each of fiscal years 2017 through 2020” for “for fiscal years 2017 and 2018” in subpars. (A) and (B).
+
+Subsec. (d)(1)(F). Pub. L. 116–94, § 301(a)(2)(B)(i), substituted “for each of fiscal years 2017 through 2020” for “for fiscal years 2017 and 2018” in heading and text.
+
+Subsec. (d)(3)(D). Pub. L. 116–94, § 301(a)(2)(B)(ii), substituted “for each of fiscal years 2017 through 2020” for “for fiscal years 2017 and 2018” in heading and text.
+
 2018—Subsec. (b)(1)(D). Pub. L. 115–141, § 401(a)(3)(A)(i), added subpar. (D).
 
-Subsec. (b)(2)(A), (B). Pub. L. 115–141, § 401(a)(3)(A)(ii), inserted “and for fiscal years 2017 and 2018” after “2015”.
+Subsec. (b)(2). Pub. L. 115–141, § 401(a)(3)(A)(ii), inserted “and for fiscal years 2017 and 2018” after “2015” in subpars. (A) and (B).
 
 Subsec. (d)(1)(B)(ii). Pub. L. 115–141, § 401(a)(3)(C)(i), substituted “any portion of the balance” for “not more than 7 percent of the total share for the eligible county of the State payment or the county payment”.
 
@@ -483,7 +493,7 @@ Subsec. (d)(3)(B). Pub. L. 112–141, § 100101(a)(3)(C)(ii)(III), added subpar.
 
 (1) Payments to the State of California under subsection (b).
 
-(2) The shares of the eligible counties of the State payment for California under [section 7112 of this title](./chapter-090-secure-rural-schools-and-community-self-determination.md#section-7112) for each of fiscal years 2011 through and 22 So in original. for fiscal years 2017 and 2018.
+(2) The shares of the eligible counties of the State payment for California under [section 7112 of this title](./chapter-090-secure-rural-schools-and-community-self-determination.md#section-7112) for each of fiscal years 2011 through 2015 and for each of fiscal years 2017 through 2020.
 
 **(e) Treatment of payments** For purposes of this chapter, any payment made under subsection (b) shall be considered to be a payment made under [section 7112(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section7112/a&num=0&edition=prelim).
 
@@ -498,6 +508,8 @@ This chapter, referred to in subsec. (e), was in the original “this Act”, me
 A prior section 103 of Pub. L. 106–393 was set out in a note under [section 500 of this title](./chapter-002-national-forests.md#section-500) prior to repeal by Pub. L. 110–343, div. C, title VI, § 601(a), Oct. 3, 2008, 122 Stat. 3893.
 
 #### Amendments
+2019—Subsec. (d)(2). Pub. L. 116–94 substituted “through 2015 and for each of fiscal years 2017 through 2020” for “through and for fiscal years 2017 and 2018”.
+
 2018—Subsec. (d)(2). Pub. L. 115–141 substituted “and for fiscal years 2017 and 2018” for “2015”.
 
 2015—Subsec. (d)(2). Pub. L. 114–10 substituted “2015” for “2013”.
@@ -706,9 +718,9 @@ A prior section 204 of Pub. L. 106–393 was set out in a note under [section 50
 
 (4) **Existing advisory committees**
 
-  (A) *In general* — An advisory committee that meets the requirements of this section, a resource advisory committee established before September 29, 2018, or an advisory committee determined by the Secretary concerned before September 29, 2018, to meet the requirements of this section may be deemed by the Secretary concerned to be a resource advisory committee for the purposes of this subchapter.
+  (A) *In general* — An advisory committee that meets the requirements of this section, a resource advisory committee established before December 20, 2021, or an advisory committee determined by the Secretary concerned before December 20, 2021, to meet the requirements of this section may be deemed by the Secretary concerned to be a resource advisory committee for the purposes of this subchapter.
 
-  (B) *Charter* — A charter for a committee described in subparagraph (A) that was filed on or before September 29, 2018, shall be considered to be filed for purposes of this chapter.
+  (B) *Charter* — A charter for a committee described in subparagraph (A) that was filed on or before December 20, 2021, shall be considered to be filed for purposes of this chapter.
 
   (C) *Bureau of land management advisory committees* — The Secretary of the Interior may deem a resource advisory committee meeting the requirements of subpart 1784 of part 1780 of title 43, Code of Federal Regulations, as a resource advisory committee for the purposes of this subchapter.
 
@@ -868,6 +880,8 @@ October 3, 2008, referred to in subsec. (c)(3), was in the original “the date 
 A prior section 205 of Pub. L. 106–393 was set out in a note under [section 500 of this title](./chapter-002-national-forests.md#section-500) prior to repeal by Pub. L. 110–343, div. C, title VI, § 601(a), Oct. 3, 2008, 122 Stat. 3893.
 
 #### Amendments
+2019—Subsec. (a)(4)(A), (B). Pub. L. 116–94 substituted “December 20, 2021” for “September 29, 2018” wherever appearing.
+
 2018—Subsec. (a)(4)(A), (B). Pub. L. 115–141 substituted “2018” for “2012” wherever appearing.
 
 Subsec. (d)(1). Pub. L. 115–334, § 8702(1)(A), substituted “Except as provided in paragraph (6), each” for “Each”.
@@ -955,9 +969,9 @@ A prior section 207 of Pub. L. 106–393 was set out in a note under [section 50
 
 <a id="section-7142"></a>
 ## § 7142. Termination of authority
-**(a) In general** The authority to initiate projects under this subchapter shall terminate on September 30, 2020.
+**(a) In general** The authority to initiate projects under this subchapter shall terminate on September 30, 2022.
 
-**(b) Deposits in Treasury** Any project funds not obligated by September 30, 2021, shall be deposited in the Treasury of the United States.
+**(b) Deposits in Treasury** Any project funds not obligated by September 30, 2023, shall be deposited in the Treasury of the United States.
 
 ### Statutory Notes
 
@@ -965,6 +979,10 @@ A prior section 207 of Pub. L. 106–393 was set out in a note under [section 50
 A prior section 208 of Pub. L. 106–393 was set out in a note under [section 500 of this title](./chapter-002-national-forests.md#section-500) prior to repeal by Pub. L. 110–343, div. C, title VI, § 601(a), Oct. 3, 2008, 122 Stat. 3893.
 
 #### Amendments
+2019—Subsec. (a). Pub. L. 116–94, § 301(b)(2)(A), substituted “2022” for “2020”.
+
+Subsec. (b). Pub. L. 116–94, § 301(b)(2)(B), substituted “2023” for “2021”.
+
 2018—Subsec. (a). Pub. L. 115–141, § 401(b)(4)(A), substituted “2020” for “2017”.
 
 Subsec. (b). Pub. L. 115–141, § 401(b)(4)(B), substituted “2021” for “2018”.
@@ -1050,13 +1068,17 @@ A prior section 303 of Pub. L. 106–393 was set out in a note under [section 50
 
 <a id="section-7152"></a>
 ## § 7152. Termination of authority
-**(a) In general** The authority to initiate projects under this subchapter terminates on September 30, 2020.
+**(a) In general** The authority to initiate projects under this subchapter terminates on September 30, 2022.
 
-**(b) Availability** Any county funds not obligated by September 30, 2021, shall be returned to the Treasury of the United States.
+**(b) Availability** Any county funds not obligated by September 30, 2023, shall be returned to the Treasury of the United States.
 
 ### Statutory Notes
 
 #### Amendments
+2019—Subsec. (a). Pub. L. 116–94, § 301(c)(1), substituted “2022” for “2020”.
+
+Subsec. (b). Pub. L. 116–94, § 301(c)(2), substituted “2023” for “2021”.
+
 2018—Subsec. (a). Pub. L. 115–141, § 401(c)(1), substituted “2020” for “2017”.
 
 Subsec. (b). Pub. L. 115–141, § 401(c)(2), substituted “2021” for “2018”.

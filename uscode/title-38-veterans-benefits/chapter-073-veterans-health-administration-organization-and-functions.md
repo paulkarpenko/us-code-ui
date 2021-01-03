@@ -2,7 +2,7 @@
 title: 38
 chapter: '73'
 heading: VETERANS HEALTH ADMINISTRATION—ORGANIZATION AND FUNCTIONS
-section_count: 48
+section_count: 50
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38&num=0&edition=prelim
 ---
@@ -70,7 +70,7 @@ source: >-
 2014—Subsec. (e). Pub. L. 113–146 added subsec. (e).
 
 #### Pilot Program on Graduate Medical Education and Residency
-Pub. L. 115–182, title IV, § 403, June 6, 2018, 132 Stat. 1472, as amended by Pub. L. 115–251, title II, § 211(b)(9), Sept. 29, 2018, 132 Stat. 3177, provided that: “(a) Establishment.—“(1) In general.—Subject to paragraph (5), the Secretary of Veterans Affairs shall establish a pilot program to establish medical residency positions authorized under section 301(b)(2) of the Veterans Access, Choice, and Accountability Act of 2014 (Public Law 113–146; [38 U.S.C. 7302](./chapter-073-veterans-health-administration-organization-and-functions.md#section-7302) note) at covered facilities. “(2) Covered facilities.—For purposes of this section, a covered facility is any of the following:“(A) A health care facility of the Department of Veterans Affairs. “(B) A health care facility operated by an Indian tribe or a tribal organization, as those terms are defined in section 4 of the Indian Self-Determination and Education Assistance Act ([25 U.S.C. 5304](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5304&num=0&edition=prelim)). “(C) A health care facility operated by the Indian Health Service. “(D) A Federally-qualified health center, as defined in section 1905(l)(2)(B) of the Social Security Act ([42 U.S.C. 1396d](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1396d&num=0&edition=prelim)(l)(2)(B)). “(E) A health care facility operated by the Department of Defense. “(F) Such other health care facility as the Secretary considers appropriate for purposes of this section. “(3) Agreements.—To carry out the pilot program under this section, the Secretary may enter into agreements with entities that operate covered facilities in which the Secretary places residents under paragraph (1). “(4) Parameters for location, affiliate sponsor, and duration.—When determining in which covered facilities to place residents under paragraph (1), the Secretary shall consider the extent to which there is a clinical need for providers in an area, as determined by the following:“(A) The ratio of veterans to health care providers of the Department for a standardized geographic area surrounding a facility, including a separate ratio for general practitioners and specialists. “(B) The range of clinical specialties of providers in standardized geographic areas surrounding a facility. “(C) Whether the specialty of a provider is included in the most recent staffing shortage determination of the Department under [section 7412 of title 38](./chapter-074-veterans-health-administration-personnel.md#section-7412), United States Code. “(D) Whether the local community is designated by the Secretary of Veterans Affairs as underserved pursuant to criteria developed under section 401 of this Act [[38 U.S.C. 8110](./chapter-081-acquisition-and-operation-of-hospital-and-domiciliary-facilities-procurement-and-supply-enhanced-use-leases-of-real-property.md#section-8110) note]. “(E) Whether the facility is located in a community that is designated by the Secretary of Health and Human Services as a health professional shortage area under section 332 of the Public Health Service Act ([42 U.S.C. 254e](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section254e&num=0&edition=prelim)). “(F) Whether the facility is located in a rural or remote area. “(G) Such other criteria as the Secretary considers important in determining which facilities are not adequately serving area veterans. “(5) Priority in placements.—During the pilot program under this section, the Secretary shall place no fewer than 100 residents in covered facilities—“(A) operated by the Indian Health Service; “(B) operated by an Indian tribe; “(C) operated by a tribal organization; or “(D) located in communities designated by the Secretary as underserved pursuant to criteria developed under section 401 of this Act [[38 U.S.C. 8110](./chapter-081-acquisition-and-operation-of-hospital-and-domiciliary-facilities-procurement-and-supply-enhanced-use-leases-of-real-property.md#section-8110) note]. “(6) Stipends and benefits.—The Secretary may pay stipends and provide benefits for residents in positions under paragraph (1), regardless of whether they have been assigned in a Department facility. “(b) Reimbursement.—If a covered facility establishes a new residency program in which the Secretary places a resident under the pilot program, the Secretary shall reimburse that covered facility for costs of the following:“(1) Curriculum development. “(2) Recruitment and retention of faculty. “(3) Accreditation of the program by the Accreditation Council for Graduate Medical Education. “(4) The portion of faculty salaries attributable to duties under an agreement under subsection (a)(3). “(5) Expenses relating to educating a resident under the pilot program. “(c) Reporting.—“(1) In general.—Not later than 1 year after the date of the enactment of this Act [June 6, 2018] and not less frequently than once each year thereafter until the termination of the pilot program, the Secretary shall submit to Congress a report on the implementation of the pilot program. “(2) Elements.—Each report submitted under paragraph (1) shall include the following with regard to the immediately preceding year, and in comparison to the year immediately preceding that year:“(A) The number of veterans who received care from residents under the pilot program. “(B) The number of veterans who received care from each resident per position described in subsection (a)(1) under the pilot program. “(C) The number of veterans who received care from residents under the pilot program expressed as a percentage of all individuals who received care from such residents. “(D) The number of clinical appointments for veterans conducted by each resident under the pilot program. “(E) The number of clinical appointments for veterans conducted by residents per position described in subsection (a)(1) under the pilot program. “(F) The number of clinical appointments for veterans expressed as a percentage of all clinical appointments conducted by residents under the pilot program. “(G) The number of positions described in subsection (a)(1) at each covered facility under the pilot program. “(H) For each position described in subsection (a)(1) in a residency program affiliated with a health care facility of the Department, the time a resident under the pilot program spent training at that facility of the Department, expressed as a percentage of the total training time for that resident position. “(I) For each residency program affiliated with a health care facility of the Department, the time all residents under the pilot program spent training at that facility of the Department, expressed as a percentage of the total training time for those residents. “(J) The time that all residents under the pilot program who are assigned to programs affiliated with health care facilities of the Department spent training at facilities of the Department, expressed as a percentage of the total training time for those residents. “(K) The cost to the Department of Veterans Affairs under the pilot program in the year immediately preceding the report and since the beginning of the pilot program. “(L) The cost to the Department of Veterans Affairs per resident placed under the pilot program at each covered facility. “(M) The number of residents under the pilot program hired by the Secretary to work in the Veterans Health Administration after completion of residency in the year immediately preceding the report and since the beginning of the pilot program. “(N) The medical specialties pursued by residents under the pilot program. “(d) Duration.—The pilot program under this section shall terminate on August 7, 2024.”
+Pub. L. 115–182, title IV, § 403, June 6, 2018, 132 Stat. 1472, as amended by Pub. L. 115–251, title II, § 211(b)(9), Sept. 29, 2018, 132 Stat. 3177; Pub. L. 116–159, div. E, title I, § 5107, Oct. 1, 2020, 134 Stat. 749, provided that: “(a) Establishment.—“(1) In general.—Subject to paragraph (5), the Secretary of Veterans Affairs shall establish a pilot program to establish medical residency positions authorized under [section 7302 of title 38](./chapter-073-veterans-health-administration-organization-and-functions.md#section-7302), United States Code, at covered facilities. “(2) Covered facilities.—For purposes of this section, a covered facility is any of the following:“(A) A health care facility of the Department of Veterans Affairs. “(B) A health care facility operated by an Indian tribe or a tribal organization, as those terms are defined in section 4 of the Indian Self-Determination and Education Assistance Act ([25 U.S.C. 5304](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5304&num=0&edition=prelim)). “(C) A health care facility operated by the Indian Health Service. “(D) A Federally-qualified health center, as defined in section 1905(l)(2)(B) of the Social Security Act ([42 U.S.C. 1396d](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1396d&num=0&edition=prelim)(l)(2)(B)). “(E) A health care facility operated by the Department of Defense. “(F) Such other health care facility as the Secretary considers appropriate for purposes of this section. “(3) Agreements.—To carry out the pilot program under this section, the Secretary may enter into agreements with entities that operate covered facilities in which the Secretary places residents under paragraph (1). “(4) Parameters for location, affiliate sponsor, and duration.—When determining in which covered facilities to place residents under paragraph (1), the Secretary shall consider the extent to which there is a clinical need for providers in an area, as determined by the following:“(A) The ratio of veterans to health care providers of the Department for a standardized geographic area surrounding a facility, including a separate ratio for general practitioners and specialists. “(B) The range of clinical specialties of providers in standardized geographic areas surrounding a facility. “(C) Whether the specialty of a provider is included in the most recent staffing shortage determination of the Department under [section 7412 of title 38](./chapter-074-veterans-health-administration-personnel.md#section-7412), United States Code. “(D) Whether the local community is designated by the Secretary of Veterans Affairs as underserved pursuant to criteria developed under section 401 of this Act [[38 U.S.C. 8110](./chapter-081-acquisition-and-operation-of-hospital-and-domiciliary-facilities-procurement-and-supply-enhanced-use-leases-of-real-property.md#section-8110) note]. “(E) Whether the facility is located in a community that is designated by the Secretary of Health and Human Services as a health professional shortage area under section 332 of the Public Health Service Act ([42 U.S.C. 254e](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section254e&num=0&edition=prelim)). “(F) Whether the facility is located in a rural or remote area. “(G) Such other criteria as the Secretary considers important in determining which facilities are not adequately serving area veterans. “(5) Priority in placements.—During the pilot program under this section, the Secretary shall place no fewer than 100 residents in covered facilities—“(A) operated by the Indian Health Service; “(B) operated by an Indian tribe; “(C) operated by a tribal organization; or “(D) located in communities designated by the Secretary as underserved pursuant to criteria developed under section 401 of this Act [[38 U.S.C. 8110](./chapter-081-acquisition-and-operation-of-hospital-and-domiciliary-facilities-procurement-and-supply-enhanced-use-leases-of-real-property.md#section-8110) note]. “(6) Stipends and benefits.—The Secretary may pay stipends and provide benefits for residents in positions under paragraph (1), regardless of whether they have been assigned in a Department facility. “(b) Reimbursement.—If a covered facility establishes a new residency program in which the Secretary places a resident under the pilot program, the Secretary shall reimburse that covered facility for costs of the following:“(1) Curriculum development. “(2) Recruitment and retention of faculty. “(3) Accreditation of the program by the Accreditation Council for Graduate Medical Education. “(4) The portion of faculty salaries attributable to duties under an agreement under subsection (a)(3). “(5) Expenses relating to educating a resident under the pilot program. “(c) Reporting.—“(1) In general.—Not later than 1 year after the date of the enactment of this Act [June 6, 2018] and not less frequently than once each year thereafter until the termination of the pilot program, the Secretary shall submit to Congress a report on the implementation of the pilot program. “(2) Elements.—Each report submitted under paragraph (1) shall include the following with regard to the immediately preceding year, and in comparison to the year immediately preceding that year:“(A) The number of veterans who received care from residents under the pilot program. “(B) The number of veterans who received care from each resident per position described in subsection (a)(1) under the pilot program. “(C) The number of veterans who received care from residents under the pilot program expressed as a percentage of all individuals who received care from such residents. “(D) The number of clinical appointments for veterans conducted by each resident under the pilot program. “(E) The number of clinical appointments for veterans conducted by residents per position described in subsection (a)(1) under the pilot program. “(F) The number of clinical appointments for veterans expressed as a percentage of all clinical appointments conducted by residents under the pilot program. “(G) The number of positions described in subsection (a)(1) at each covered facility under the pilot program. “(H) For each position described in subsection (a)(1) in a residency program affiliated with a health care facility of the Department, the time a resident under the pilot program spent training at that facility of the Department, expressed as a percentage of the total training time for that resident position. “(I) For each residency program affiliated with a health care facility of the Department, the time all residents under the pilot program spent training at that facility of the Department, expressed as a percentage of the total training time for those residents. “(J) The time that all residents under the pilot program who are assigned to programs affiliated with health care facilities of the Department spent training at facilities of the Department, expressed as a percentage of the total training time for those residents. “(K) The cost to the Department of Veterans Affairs under the pilot program in the year immediately preceding the report and since the beginning of the pilot program. “(L) The cost to the Department of Veterans Affairs per resident placed under the pilot program at each covered facility. “(M) The number of residents under the pilot program hired by the Secretary to work in the Veterans Health Administration after completion of residency in the year immediately preceding the report and since the beginning of the pilot program. “(N) The medical specialties pursued by residents under the pilot program. “(d) Duration.—The pilot program under this section shall terminate on August 7, 2031.”
 
 #### Ten-year Increase
 Pub. L. 113–146, title III, § 301(b)(2), Aug. 7, 2014, 128 Stat. 1785, as amended by Pub. L. 114–315, title VI, § 617(a), Dec. 16, 2016, 130 Stat. 1577, provided that: “(A) In general.—In carrying out [section 7302(e) of title 38](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section7302/e&num=0&edition=prelim), United States Code, as added by paragraph (1), during the 10-year period beginning on the day that is 1 year after the date of the enactment of this Act [Aug. 7, 2014], the Secretary of Veterans Affairs shall increase the number of graduate medical education residency positions at medical facilities of the Department by up to 1,500 positions. “(B) Priority.—In increasing the number of graduate medical education residency positions at medical facilities of the Department under subparagraph (A), the Secretary shall give priority to medical facilities that—“(i) as of the date of the enactment of this Act, do not have a medical residency program; and “(ii) are located in a community that has a high concentration of veterans.”
@@ -133,6 +133,9 @@ Section 204(b)(3) of the Rehabilitation Act of 1973, referred to in subsec. (b),
 1994—Pub. L. 103–452 transferred text of subsec. (c) to the end of subsec. (a)(1), struck out subsec. (c) designation, and added new subsecs. (c) and (d).
 
 1992—Subsec. (b). Pub. L. 102–405 substituted “Under Secretary for Health” for “Chief Medical Director”.
+
+#### Use by Department of Veterans Affairs of Commercial Institutional Review Boards in Sponsored Research Trials
+Pub. L. 116–171, title VII, § 704, Oct. 17, 2020, 134 Stat. 829, provided that: “(a) In General.—Not later than 90 days after the date of the enactment of this Act [Oct. 17, 2020], the Secretary of Veterans Affairs shall complete all necessary policy revisions within the directive of the Veterans Health Administration numbered 1200.05 and titled ‘Requirements for the Protection of Human Subjects in Research’, to allow sponsored clinical research of the Department of Veterans Affairs to use accredited commercial institutional review boards to review research proposal protocols of the Department. “(b) Identification of Review Boards.—Not later than 90 days after the completion of the policy revisions under subsection (a), the Secretary shall—“(1) identify accredited commercial institutional review boards for use in connection with sponsored clinical research of the Department; and “(2) establish a process to modify existing approvals in the event that a commercial institutional review board loses its accreditation during an ongoing clinical trial. “(c) Report.—“(1) In general.—Not later than 90 days after the completion of the policy revisions under subsection (a), and annually thereafter, the Secretary shall submit to the Committee on Veterans’ Affairs of the Senate and the Committee on Veterans’ Affairs of the House of Representatives a report on all approvals of institutional review boards used by the Department, including central institutional review boards and commercial institutional review boards. “(2) Elements.—The report required by paragraph (1) shall include, at a minimum, the following:“(A) The name of each clinical trial with respect to which the use of an institutional review board has been approved. “(B) The institutional review board or institutional review boards used in the approval process for each clinical trial. “(C) The amount of time between submission and approval.”
 
 #### Applicability to Fiscal Year 2002
 Pub. L. 107–135, title II, § 205(b), Jan. 23, 2002, 115 Stat. 2460, related to transfer of appropriations for fiscal year 2002 to carry out subsec. (e) of this section for that fiscal year.
@@ -217,7 +220,9 @@ The Veterans Health Administration shall include the following:
 
   (C) be responsible and report directly to the Chief Patient Care Services Officer of the Veterans Health Administration on all matters relating to the education and training, employment, appropriate use, and optimal participation of physician assistants within the programs and initiatives of the Administration.
 
-(10) Such other personnel as may be authorized by this chapter.
+(10) The Chief Officer of Women’s Health.
+
+(11) Such other personnel as may be authorized by this chapter.
 
 **(b)** Of the Assistant Under Secretaries for Health appointed under subsection (a)(3)—
 
@@ -256,6 +261,8 @@ The Veterans Health Administration shall include the following:
 ### Statutory Notes
 
 #### Amendments
+2021—Subsec. (a)(10), (11). Pub. L. 116–315 added par. (10) and redesignated former par. (10) as (11).
+
 2010—Subsec. (a)(9). Pub. L. 111–163 added par. (9) and struck out former par. (9) which read as follows: “The Advisor on Physician Assistants, who shall be a physician assistant with appropriate experience and who shall advise the Under Secretary for Health on all matters relating to the utilization and employment of physician assistants in the Administration.”
 
 2002—Subsec. (a)(5). Pub. L. 107–135 inserted “, and report directly to,” after “responsible to”.
@@ -443,13 +450,27 @@ Subsec. (d). Pub. L. 112–154 added subsec. (d).
 
   (B) A description of the workload and additional treatment capacity of the Vet Centers, including, for each Vet Center, the ratio of the number of full-time equivalent employees at such Vet Center and the number of individuals who received services or assistance at such Vet Center.
 
-  (C) A detailed analysis of demand for and unmet need for readjustment counseling services and the Secretary’s plan for meeting such unmet need.
+  (C) A detailed analysis of demand for and unmet need for readjustment counseling services and the Secretary’s plan for meeting such unmet need, including the resources required to meet such unmet need, such as additional staff, additional locations, additional infrastructure, infrastructure improvements, and additional mobile Vet Centers.
+
+(3) For each even numbered year in which the report required by paragraph (1) is submitted, the Secretary shall include in such report a prediction of—
+
+  (A) trends in demand for care;
+
+  (B) long-term investments required with respect to the provision of care;
+
+  (C) requirements relating to maintenance of infrastructure; and
+
+  (D) other capital investment requirements with respect to the Readjustment Counseling Service, including Vet Centers, mobile Vet Centers, and community access points.
 
 **(f) Vet Center Defined.—** In this section, the term “Vet Center” has the meaning given the term in [section 1712A(h)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section1712A/h/1&num=0&edition=prelim).
 
 ### Statutory Notes
 
 #### Amendments
+2020—Subsec. (e)(2)(C). Pub. L. 116–171, § 504(a), inserted before period at end “, including the resources required to meet such unmet need, such as additional staff, additional locations, additional infrastructure, infrastructure improvements, and additional mobile Vet Centers”.
+
+Subsec. (e)(3). Pub. L. 116–171, § 504(b), added par. (3).
+
 2016—Subsec. (e)(1). Pub. L. 114–315 substituted “fiscal year” for “calendar year”.
 
 2015—Subsec. (c)(1). Pub. L. 114–58 inserted “the” before “Veterans Health Administration”.
@@ -518,6 +539,176 @@ The Protection and Advocacy for Mentally Ill Individuals Act of 1986, referred t
 
 #### Date Fully Operational
 Pub. L. 114–198, title IX, § 924(c), July 22, 2016, 130 Stat. 769, provided that: “The Secretary of Veterans Affairs shall ensure that the Office of Patient Advocacy established under [section 7309A of title 38](./chapter-073-veterans-health-administration-organization-and-functions.md#section-7309a), United States Code, as added by subsection (a), is fully operational not later than the date that is one year after the date of the enactment of this Act [July 22, 2016].”
+
+
+<a id="section-7310"></a>
+## § 7310. Office of Women’s Health
+**(a) Establishment.—**
+
+(1) The Under Secretary for Health shall establish and operate in the Veterans Health Administration the Office of Women’s Health (in this section referred to as the “Office”).
+
+(2) The Office shall be located at the Central Office of the Department of Veterans Affairs.
+
+(3)
+
+  (A) The head of the Office is the Chief Officer of Women’s Health (in this section referred to as the “Chief Officer”).
+
+  (B) The Chief Officer shall report to the Under Secretary for Health.
+
+(4) The Under Secretary for Health shall provide the Office with such staff and other support as may be necessary for the Office to carry out effectively the functions of the Office under this section.
+
+(5) The Under Secretary for Health may reorganize existing offices within the Veterans Health Administration as of the date of the enactment of this section in order to avoid duplication with the functions of the Office.
+
+**(b) Functions.—** The functions of the Office include the following:
+
+(1) To provide a central office for monitoring and encouraging the activities of the Veterans Health Administration with respect to the provision, evaluation, and improvement of health care services provided to women veterans by the Department.
+
+(2) To develop and implement standards of care for the provision of health care for women veterans by the Department.
+
+(3) To monitor and identify deficiencies in standards of care for the provision of health care for women veterans by the Department, to provide technical assistance to medical facilities of the Department to address and remedy deficiencies, and to perform oversight of implementation of such standards of care.
+
+(4) To monitor and identify deficiencies in standards of care for the provision of health care for women veterans provided through the community pursuant to this title and to provide recommendations to the appropriate office to address and remedy any deficiencies.
+
+(5) To oversee distribution of resources and information related to health programming for women veterans under this title.
+
+(6) To promote the expansion and improvement of clinical, research, and educational activities of the Veterans Health Administration with respect to the health care of women veterans.
+
+(7) To provide, as part of the annual budgeting process, recommendations with respect to the amounts to be requested for furnishing hospital care and medical services to women veterans pursuant to chapter 17 of this title, including, at a minimum, recommendations that ensure that such amounts either reflect or exceed the proportion of veterans enrolled in the system of patient enrollment of the Department established and operated under [section 1705(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section1705/a&num=0&edition=prelim) who are women.
+
+(8) To provide recommendations to the Under Secretary for Health with respect to modifying the Veterans Equitable Resource Allocation system, or successor system, to ensure that resource allocations under such system, or successor system, reflect the health care needs of women veterans.
+
+(9) To carry out such other duties as the Under Secretary for Health may require.
+
+**(c) Recommendations.—**
+
+(1) If the Under Secretary for Health determines not to implement any recommendation made by the Chief Officer with respect to the allocation of resources to address the health care needs of women veterans, the Secretary shall notify the appropriate congressional committees of such determination by not later than 30 days after the date on which the Under Secretary for Health receives the recommendation.
+
+(2) Each notification under paragraph (1) relating to a determination with respect to a recommendation shall include the following:
+
+  (A) The reasoning of the Under Secretary for Health in making the determination.
+
+  (B) An alternative, if one is selected, to the recommendation that the Under Secretary for Health will carry out to fulfill the health care needs of women veterans.
+
+**(d) Standards of Care.—** For purposes of carrying out the functions of the Office under this section, the standards of care for the provision of health care for women veterans from the Department shall include, at a minimum, the following:
+
+(1) A requirement for—
+
+  (A) at least one designated women’s health primary care provider at each medical center of the Department whose duties include, to the extent practicable, providing training to other health care providers of the Department with respect to the needs of women veterans; and
+
+  (B) at least one designated women’s health primary care provider at each community-based outpatient clinic of the Department who may serve women patients as a percentage of the total duties of the provider.
+
+(2) Other requirements as determined by the Under Secretary for Health.
+
+**(e) Outreach.—** The Chief Officer shall ensure that—
+
+(1) not less frequently than biannually, each medical facility of the Department holds a public forum for women veterans that occurs outside of regular business hours; and
+
+(2) not less frequently than quarterly, each medical facility of the Department convenes a focus group of women veterans that includes a discussion of harassment occurring at such facility.
+
+**(f) Definitions.—** In this section:
+
+(1) The term “appropriate congressional committees” has the meaning given that term in [section 7310A(h) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section7310A/h&num=0&edition=prelim).
+
+(2) The term “facility of the Department” has the meaning given the term “facilities of the Department” in [section 1701(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section1701/3&num=0&edition=prelim).
+
+(3) The term “Veterans Equitable Resource Allocation system” means the resource allocation system established pursuant to section 429 of the Departments of Veterans Affairs and Housing and Urban Development, and Independent Agencies Appropriations Act, 1997 (Public Law 104–204; 110 Stat. 2929).
+
+### Statutory Notes
+
+#### References in Text
+The date of the enactment of this section, referred to in subsec. (a) (5), is the date of enactment of 116–315, which was approved Jan. 5, 2021.
+
+Section 429 of the Departments of Veterans Affairs and Housing and Urban Development, and Independent Agencies Appropriations Act, 1997, referred to in subsec. (f)(3), is section 429 of title IV of Pub. L. 104–204, Sept. 26, 1996, 110 Stat. 2929, which is not classified to the Code.
+
+#### References to Health Care and Services
+Pub. L. 116–315, title V, § 5101(b)(2), Jan. 5, 2021, 134 Stat. 5026, provided that: “The references to health care and the references to services in sections 7310 and 7310A of title 38, United States Code, as added by paragraph (1), are references to the health care and services included in the medical benefits package provided by the Department as in effect on the day before the date of the enactment of this Act [Jan. 5, 2021].”
+
+
+<a id="section-7310a"></a>
+## § 7310A. Annual reports on Women’s Health
+**(a) Annual Reports.—** Not later than December 1 of each year, the Chief Officer of Women’s Health shall submit to the appropriate congressional committees a report containing the matters under subsections (b) through (g).
+
+**(b) Office of Women’s Health.—** Each report under subsection (a) shall include a description of—
+
+(1) actions taken by the Office of Women’s Health established under [section 7310 of this title](./chapter-073-veterans-health-administration-organization-and-functions.md#section-7310) in the preceding fiscal year to improve the provision of health care by the Department to women veterans;
+
+(2) any identified deficiencies related to the provision of health care by the Department to women veterans and the standards of care established in such section and the plan of the Department to address such deficiencies;
+
+(3) the funding and personnel provided to the Office and whether additional funding or personnel are needed to meet the requirements of such section; and
+
+(4) other information that would be of interest to the appropriate congressional committees with respect to oversight of the provision of health care by the Department to women veterans.
+
+**(c) Access to Gender-specific Services.—**
+
+(1) Each report under subsection (a) shall include an analysis of the access of women veterans to gender-specific services under contracts, agreements, or other arrangements with non-Department medical providers entered into by the Secretary for the provision of hospital care or medical services to veterans.
+
+(2) The analysis under paragraph (1) shall include data and performance measures for the availability of gender-specific services described in such paragraph, including—
+
+  (A) the average wait time between the preferred appointment date of the veteran and the date on which the appointment is completed;
+
+  (B) the average driving time required for veterans to attend appointments; and
+
+  (C) reasons why appointments could not be scheduled with non-Department medical providers.
+
+**(d) Models of Care.—**
+
+(1) Each report under subsection (a) shall include an analysis of the use by the Department of general primary care clinics, separate but shared spaces, and women’s health centers as delivery of care models for women veterans.
+
+(2) The analysis under paragraph (1) shall include the following:
+
+  (A) The number of facilities of the Department that fall into each delivery of care model described in such paragraph, disaggregated by Veterans Integrated Service Network and State.
+
+  (B) A description of the criteria used by the Department to determine which such model is most appropriate for each facility of the Department.
+
+  (C) An assessment of how the Department decides to make investments to modify facilities to a different model.
+
+  (D) A description of what, if any, plans the Department has to modify facilities from general primary care clinics to another model.
+
+  (E) An assessment of whether any facilities could be modified to a separate but shared space for a women’s health center within planned investments under the strategic capital investment planning process of the Department.
+
+  (F) An assessment of whether any facilities could be modified to a separate or shared space or a women’s health center with minor modifications to existing plans under the strategic capital investment planning process of the Department.
+
+  (G) An assessment of whether the Department has a goal for how many facilities should fall into each such model.
+
+**(e) Staffing.—** Each report under subsection (a) shall include an analysis of the staffing of the Department relating to the treatment of women, including the following, disaggregated by Veterans Integrated Service Network and State (except with respect to paragraph (4)):
+
+(1) The number of women’s health centers.
+
+(2) The number of patient aligned care teams of the Department relating to women’s health.
+
+(3) The number of full- and part-time gynecologists of the Department.
+
+(4) The number of designated women’s health care providers of the Department, disaggregated by facility of the Department.
+
+(5) The number of health care providers of the Department who have completed a mini-residency for women’s health care through the Women Veterans Health Care Mini-Residency Program of the Department during the one-year period preceding the submittal of the report and the number of mini-residency training slots for such program that are available during the one-year period following such date.
+
+(6) The number of designated women’s health care providers of the Department who have sufficient women patient loads or case complexities to retain their competencies and proficiencies.
+
+**(f) Accessibility and Treatment Options.—** Each report under subsection (a) shall include an analysis of the accessibility and treatment options for women veterans, including the following:
+
+(1) An assessment of wheelchair accessibility of women’s health centers of the Department, including, with respect to each such center, an assessment of accessibility for each kind of treatment provided at the center, including with respect to radiology and mammography, that addresses all relevant factors, including door sizes, hoists, and equipment.
+
+(2) The options for women veterans to access mental health providers and primary care providers who are women.
+
+(3) The options for women veterans at medical facilities of the Department with respect to clothing sizes, including for gowns, drawstring pants, and pajamas.
+
+**(g) Definitions.—** In this section:
+
+(1) The term “appropriate congressional committees” means—
+
+  (A) the Committee on Appropriations and the Committee on Veterans’ Affairs of the Senate; and
+
+  (B) the Committee on Appropriations and the Committee on Veterans’ Affairs of the House of Representatives.
+
+(2) The term “gender-specific services” means mammography, obstetric care, gynecological care, and such other services as the Secretary determines appropriate.
+
+### Statutory Notes
+
+#### References to Health Care and Services
+For references to health care and services in this section as references to health care and services included in medical benefits package provided by the Department as in effect on the day before Jan. 5, 2021, see Pub. L. 116–315, title V, § 5101(b)(2), Jan. 5, 2021, 134 Stat. 5026, set out as a note under [section 7310 of this title](./chapter-073-veterans-health-administration-organization-and-functions.md#section-7310).
+
+#### Initial Report
+Pub. L. 116–315, title V, § 5101(c), Jan. 5, 2021, 134 Stat. 5026, provided that: “The Chief Officer of Women’s Health of the Department of Veterans Affairs shall submit the initial report under [section 7310A of title 38](./chapter-073-veterans-health-administration-organization-and-functions.md#section-7310a), United States Code, as added by subsection (b), by not later than one year after the date of the enactment of this Act [Jan. 5, 2021].”
 
 
 <a id="section-7311"></a>
@@ -1002,10 +1193,10 @@ Pub. L. 102–585, title V, § 511(c), Nov. 4, 1992, 106 Stat. 4956, as amended 
 Section 354 of the Public Health Service Act, referred to in text, is section 354 of act July 1, 1944, ch. 373, which is classified to [section 263b of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section263b&num=0&edition=prelim), The Public Health and Welfare.
 
 #### Deadline for Prescribing Standards
-Pub. L. 104–262, title III, § 321(b), Oct. 9, 1996, 110 Stat. 3195, provided that: “The Secretary of Veterans Affairs shall prescribe standards under subsection (b) of [section 7319 of title 38](./chapter-073-veterans-health-administration-organization-and-functions.md#section-7319), United States Code, as added by subsection (a), not later than the end of the 120-day period beginning on the date of the enactment of this Act [Oct. 9, 1996].”
+Pub. L. 104–262, title III, § 321(b), Oct. 9, 1996, 110 Stat. 3195, required the Secretary of Veterans Affairs to prescribe standards under subsection (b) of this section not later than the end of the 120-day period beginning on Oct. 9, 1996.
 
 #### Implementation Report
-Pub. L. 104–262, title III, § 321(c), Oct. 9, 1996, 110 Stat. 3195, provided that: “The Secretary shall submit to the Committees on Veterans’ Affairs of the Senate and House of Representatives a report on the Secretary’s implementation of [section 7319 of title 38](./chapter-073-veterans-health-administration-organization-and-functions.md#section-7319), United States Code, as added by subsection (a). The report shall be submitted not later than 120 days after the date of the enactment of this Act [Oct. 9, 1996].”
+Pub. L. 104–262, title III, § 321(c), Oct. 9, 1996, 110 Stat. 3195, required the Secretary to submit to Congress a report on the Secretary’s implementation of this section not later than 120 days after Oct. 9, 1996.
 
 
 <a id="section-7320"></a>
@@ -1107,7 +1298,7 @@ The Federal Advisory Committee Act, referred to in subsec. (e)(4), is Pub. L. 92
 2008—Subsec. (j)(2). Pub. L. 110–387 substituted “medical services account” for “medical care account”.
 
 #### Annual Reports On and Designation of Centers
-Pub. L. 104–262, title III, § 334(b), (c), Oct. 9, 1996, 110 Stat. 3203, 3204, provided that: “(b) Annual Reports.—Not later than February 1 of each of 1999, 2000, 2001, and 2002, the Secretary of Veterans Affairs shall submit to the Committees on Veterans’ Affairs of the Senate and House of Representatives a report on the status and activities during the previous fiscal year of the centers for mental illness research, education, and clinical activities established pursuant to [section 7320 of title 38](./chapter-073-veterans-health-administration-organization-and-functions.md#section-7320), United States Code (as added by subsection (a)). Each such report shall include the following:“(1) A description of the activities carried out at each center and the funding provided for such activities. “(2) A description of the advances made at each of the participating facilities of the center in research, education and training, and clinical activities relating to mental illness in veterans. “(3) A description of the actions taken by the Under Secretary for Health pursuant to subsection (h) of that section (as so added) to disseminate information derived from such activities throughout the Veterans Health Administration. “(4) The Secretary’s evaluations of the effectiveness of the centers in fulfilling the purposes of the centers. “(c) Implementation.—The Secretary of Veterans Affairs shall designate at least one center under [section 7320 of title 38](./chapter-073-veterans-health-administration-organization-and-functions.md#section-7320), United States Code, not later than January 1, 1998.”
+Pub. L. 104–262, title III, § 334(b), (c), Oct. 9, 1996, 110 Stat. 3203, 3204, required the Secretary of Veterans Affairs, by Feb. 1 of each of the years 1999 to 2002, to submit to Congress a report on the status and activities during the previous fiscal year of the centers for mental illness research, education, and clinical activities established pursuant to this section, with each report to include descriptions of activities and advances at each center and actions taken under subsec. (h) of this section, and also required the Secretary to designate at least one center under this section by Jan. 1, 1998.
 
 
 <a id="section-7321"></a>
@@ -1480,7 +1671,7 @@ Pub. L. 107–287, § 3(b), Nov. 7, 2002, 116 Stat. 2028, provided that: “The 
 Pub. L. 110–417, [div. A], title VII, § 723, Oct. 14, 2008, 122 Stat. 4508, as amended by Pub. L. 114–92, div. A, title X, § 1079(d)(2), Nov. 25, 2015, 129 Stat. 999, provided that: “(a) In General.—The Secretary of Defense and the Secretary of Veterans Affairs shall jointly establish a center of excellence in the mitigation, treatment, and rehabilitation of traumatic extremity injuries and amputations. “(b) Partnerships.—The Secretary of Defense and the Secretary of Veterans Affairs shall jointly ensure that the center collaborates with the Department of Defense, the Department of Veterans Affairs, institutions of higher education, and other appropriate public and private entities (including international entities) to carry out the responsibilities specified in subsection (c). “(c) Responsibilities.—The center shall have the responsibilities as follows:“(1) To implement a comprehensive plan and strategy for the Department of Defense and the Department of Veterans Affairs for the mitigation, treatment, and rehabilitation of traumatic extremity injuries and amputations. “(2) To conduct research to develop scientific information aimed at saving injured extremities, avoiding amputations, and preserving and restoring the function of injured extremities. Such research shall address military medical needs and include the full range of scientific inquiry encompassing basic, translational, and clinical research. “(3) To carry out such other activities to improve and enhance the efforts of the Department of Defense and the Department of Veterans Affairs for the mitigation, treatment, and rehabilitation of traumatic extremity injuries and amputations as the Secretary of Defense and the Secretary of Veterans Affairs consider appropriate.”
 
 #### Designation of Centers
-Pub. L. 108–422, title III, § 302(b), Nov. 30, 2004, 118 Stat. 2385, provided that: “The Secretary of Veterans Affairs shall designate the centers for research, education, and clinical activities on complex multi-trauma associated with combat injuries required by [section 7327 of title 38](./chapter-073-veterans-health-administration-organization-and-functions.md#section-7327), United States Code (as added by subsection (a)), not later than 120 days after the date of the enactment of this Act [Nov. 30, 2004].”
+Pub. L. 108–422, title III, § 302(b), Nov. 30, 2004, 118 Stat. 2385, required the Secretary of Veterans Affairs to designate the centers required by this section not later than 120 days after Nov. 30, 2004.
 
 
 <a id="section-7328"></a>
@@ -2381,7 +2572,7 @@ Pub. L. 102–40, § 403(a)(2), substituted “Department” for “Veterans’ 
 
 **(b) Transfer and Administration of Funds.—**
 
-(1) Except as provided in paragraph (2), any funds received by the Secretary for the conduct of research or education at a Department medical center or centers, other than funds appropriated to the Department, may be transferred to and administered by a corporation established under this subchapter for such purposes.
+(1) Except as provided in paragraph (2), any funds received by the Secretary for the conduct of research or education at a Department medical center or centers, other than funds appropriated to the Department, may be transferred to and administered by a corporation established under this subchapter for such purposes. Any amounts so transferred after September 30, 2016, shall be available without regard to fiscal year limitations, notwithstanding [section 1535(d) of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1535/d&num=0&edition=prelim).
 
 (2) A Department medical center may reimburse the corporation for all or a portion of the pay, benefits, or both of an employee of the corporation who is assigned to the Department medical center if the assignment is carried out pursuant to subchapter VI of chapter 33 of title 5.
 
@@ -2399,6 +2590,8 @@ Pub. L. 102–40, § 403(a)(2), substituted “Department” for “Veterans’ 
 Section 501(c)(3) of the Internal Revenue Code of 1986, referred to in subsec. (e), is classified to [section 501(c)(3) of Title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section501/c/3&num=0&edition=prelim), Internal Revenue Code.
 
 #### Amendments
+2021—Subsec. (b)(1). Pub. L. 116–315 inserted “Any amounts so transferred after September 30, 2016, shall be available without regard to fiscal year limitations, notwithstanding [section 1535(d) of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1535/d&num=0&edition=prelim).” at end.
+
 2010—Pub. L. 111–163 amended section generally. Prior to amendment, section related to the general powers of a corporation established under this subchapter.
 
 1999—Subsec. (c). Pub. L. 106–117 added subsec. (c).

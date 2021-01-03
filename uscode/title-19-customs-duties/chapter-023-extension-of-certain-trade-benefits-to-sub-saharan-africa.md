@@ -185,7 +185,7 @@ The President shall submit to the Congress, not later than 1 year after May 18, 
 ### Statutory Notes
 
 #### References in Text
-This chapter, referred to in text, was in the original “this title”, meaning title I of Pub. L. 106–200, May 18, 2000, 114 Stat. 252, which enacted this chapter and sections 2466a and 2466b of this title and amended [section 2463 of this title](./chapter-012-trade-act-of-1974.md#section-2463) and sections 2193 and 2293 of Title 22, Foreign Relations and Intercourse. For complete classification of title I to the Code, see Short Title note set out under [section 3701 of this title](./chapter-023-extension-of-certain-trade-benefits-to-sub-saharan-africa.md#section-3701) and Tables.
+This chapter, referred to in text, was in the original “this title”, meaning title I of Pub. L. 106–200, May 18, 2000, 114 Stat. 252, which enacted this chapter and sections 2466a and 2466b of this title and amended [section 2463 of this title](./chapter-012-trade-act-of-1974.md#section-2463) and former section 2193 and [section 2293 of Title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2293&num=0&edition=prelim), Foreign Relations and Intercourse. For complete classification of title I to the Code, see Short Title note set out under [section 3701 of this title](./chapter-023-extension-of-certain-trade-benefits-to-sub-saharan-africa.md#section-3701) and Tables.
 
 #### Delegation of Functions
 Functions of President under this section delegated to United States Trade Representative by section 1(b) of Ex. Ord. No. 13346, July 8, 2004, 69 F.R. 41905, set out as a note under [section 301 of Title 3](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title3-section301&num=0&edition=prelim), The President.
@@ -301,7 +301,7 @@ Pub. L. 115–167, title I, § 102, Apr. 23, 2018, 132 Stat. 1277, provided that
 
 (5) **Apparel articles wholly assembled from fabric or yarn not available in commercial quantities in the United States**
 
-  (A) *In general* — Apparel articles that are both cut (or knit-to-shape) and sewn or otherwise assembled in one or more beneficiary sub-Saharan African countries, to the extent that apparel articles of such fabrics or yarns would be eligible for preferential treatment, without regard to the source of the fabrics or yarns, under Annex 401 to the NAFTA.
+  (A) *In general* — Apparel articles that are both cut (or knit-to-shape) and sewn or otherwise assembled in one or more beneficiary sub-Saharan African countries, to the extent that apparel articles of such fabrics or yarns would be eligible for preferential treatment, without regard to the source of the fabrics or yarns, under Annex 4–B of the USMCA.
 
   (B) *Additional apparel articles* — At the request of any interested party and subject to the following requirements, the President is authorized to proclaim the treatment provided under subparagraph (A) for yarns or fabrics not described in subparagraph (A) if—
 
@@ -415,7 +415,7 @@ The Customs Service shall provide the necessary technical assistance to Kenya an
 
 (2) **Beneficiary sub-Saharan African country, etc.** — The terms “beneficiary sub-Saharan African country” and “beneficiary sub-Saharan African countries” have the same meaning as such terms have under [section 2466a(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section2466a/c&num=0&edition=prelim).
 
-(3) **NAFTA** — The term “NAFTA” means the North American Free Trade Agreement entered into between the United States, Mexico, and Canada on December 17, 1992.
+(3) **USMCA** — The term “USMCA” has the meaning given that term in [section 4502 of this title](./chapter-029-united-states-mexico-canada-agreement-implementation.md#section-4502).
 
 (4) **Former sub-Saharan African country** — The term “former 33 So in original. Probably should be followed by “beneficiary”. sub-Saharan African country” means a country that, after being designated as a beneficiary sub-Saharan African country under this chapter 44 See References in Text note below., ceased to be designated as such a beneficiary sub-Saharan country by reason of its entering into a free trade agreement with the United States.
 
@@ -433,6 +433,10 @@ The Harmonized Tariff Schedule of the United States, referred to in subsec. (b),
 This chapter, referred to in subsec. (f)(4), was in the original “this Act”, and was translated as reading “this title”, meaning title I of Pub. L. 106–200, May 18, 2000, 114 Stat. 252, which is classified principally to this chapter, to reflect the probable intent of Congress. For complete classification of title I to the Code, see Short Title note set out under [section 3701 of this title](./chapter-023-extension-of-certain-trade-benefits-to-sub-saharan-africa.md#section-3701) and Tables.
 
 #### Amendments
+2020—Subsec. (b)(5)(A). Pub. L. 116–260, § 602(a)(1)(A), substituted “Annex 4–B of the USMCA” for “Annex 401 to the NAFTA”.
+
+Subsec. (f)(3). Pub. L. 116–260, § 602(a)(1)(B), added par. (3) and struck out former par. (3) which defined “NAFTA”.
+
 2015—Subsec. (b)(3)(A)(i). Pub. L. 114–27, § 103(b)(2)(A), substituted “21 succeeding” for “11 succeeding”.
 
 Subsec. (b)(3)(A)(ii)(II). Pub. L. 114–27, § 103(b)(2)(B), substituted “September 30, 2025” for “September 30, 2015”.
@@ -523,6 +527,9 @@ Subsec. (b)(4)(B). Pub. L. 107–210, § 3108(a)(4), substituted “21.5 microns
 
 Subsec. (b)(7). Pub. L. 107–210, § 3108(a)(5), added par. (7).
 
+#### Effective Date of 2020 Amendment
+Amendment by Pub. L. 116–260 effective July 1, 2020, see section 602(g) of div. O of Pub. L. 116–260, set out as a note under [section 2578b of this title](./chapter-013-trade-agreements-act-of-1979.md#section-2578b).
+
 #### Effective Date of 2008 Amendment
 Pub. L. 110–436, § 3(b), Oct. 16, 2008, 122 Stat. 4980, provided that: “The amendments made by subsection (a) [amending this section] apply to goods entered, or withdrawn from warehouse for consumption, on or after the 15th day after the date of the enactment of this Act [Oct. 16, 2008].”
 
@@ -566,7 +573,7 @@ Proc. No. 7350, Oct. 2, 2000, 65 F.R. 59321, provided in par. (5) that the Unite
 
 (1) **In general**
 
-  (A) *Regulations* — Any importer that claims preferential treatment under [section 3721 of this title](./chapter-023-extension-of-certain-trade-benefits-to-sub-saharan-africa.md#section-3721) shall comply with customs procedures similar in all material respects to the requirements of Article 502(1) of the NAFTA as implemented pursuant to United States law, in accordance with regulations promulgated by the Secretary of the Treasury.
+  (A) *Regulations* — Any importer that claims preferential treatment under [section 3721 of this title](./chapter-023-extension-of-certain-trade-benefits-to-sub-saharan-africa.md#section-3721) shall comply with customs procedures similar in all material respects to the requirements of article 5.4.1 of the USMCA as implemented pursuant to United States law, in accordance with regulations promulgated by the Secretary of the Treasury.
 
   (B) *Determination*
 
@@ -575,7 +582,7 @@ Proc. No. 7350, Oct. 2, 2000, 65 F.R. 59321, provided in par. (5) that the Unite
       (I) has implemented and follows; or
 
       (II) is making substantial progress toward implementing and following,
-    procedures and requirements similar in all material respects to the relevant procedures and requirements under chapter 5 of the NAFTA.
+    procedures and requirements similar in all material respects to the relevant procedures and requirements under chapter 5 of the USMCA.
 
     (ii) *Country described* — A country is described in this clause if it is a beneficiary sub-Saharan African country—
 
@@ -583,7 +590,7 @@ Proc. No. 7350, Oct. 2, 2000, 65 F.R. 59321, provided in par. (5) that the Unite
 
       (II) in which materials used in the production of the article originate or in which the article or such materials, undergo production that contributes to a claim that the article is eligible for preferential treatment.
 
-(2) **Certificate of Origin** — The Certificate of Origin that otherwise would be required pursuant to the provisions of paragraph (1) shall not be required in the case of an article imported under [section 3721 of this title](./chapter-023-extension-of-certain-trade-benefits-to-sub-saharan-africa.md#section-3721) if such Certificate of Origin would not be required under Article 503 of the NAFTA (as implemented pursuant to United States law), if the article were imported from Mexico.
+(2) **Certificate of Origin** — The Certificate of Origin that otherwise would be required pursuant to the provisions of paragraph (1) shall not be required in the case of an article imported under [section 3721 of this title](./chapter-023-extension-of-certain-trade-benefits-to-sub-saharan-africa.md#section-3721) if such Certificate of Origin would not be required under article 5.5 of the USMCA (as implemented pursuant to United States law), if the article were imported from Mexico.
 
 (3) **Penalties for exporters** — If the President determines, based on sufficient evidence, that an exporter has engaged in transshipment as defined in paragraph (4), then the President shall deny for a period of 5 years all benefits under [section 3721 of this title](./chapter-023-extension-of-certain-trade-benefits-to-sub-saharan-africa.md#section-3721) to such exporter, any successor of such exporter, and any other entity owned or operated by the principal of the exporter.
 
@@ -610,8 +617,18 @@ Proc. No. 7350, Oct. 2, 2000, 65 F.R. 59321, provided in par. (5) that the Unite
 #### References in Text
 This chapter, referred to in subsec. (b)(4), was in the original “this Act”, and was translated as reading “this title”, meaning title I of Pub. L. 106–200, May 18, 2000, 114 Stat. 252, which is classified principally to this chapter, to reflect the probable intent of Congress. For complete classification of title I to the Code, see Short Title note set out under [section 3701 of this title](./chapter-023-extension-of-certain-trade-benefits-to-sub-saharan-africa.md#section-3701) and Tables.
 
+#### Amendments
+2020—Subsec. (b)(1)(A). Pub. L. 116–260, § 602(a)(2)(A)(i), substituted “article 5.4.1 of the USMCA” for “Article 502(1) of the NAFTA”.
+
+Subsec. (b)(1)(B)(i). Pub. L. 116–260, § 602(a)(2)(A)(ii), substituted “chapter 5 of the USMCA” for “chapter 5 of the NAFTA” in concluding provisions.
+
+Subsec. (b)(2). Pub. L. 116–260, § 602(a)(2)(B), substituted “article 5.5 of the USMCA” for “Article 503 of the NAFTA”.
+
 #### Change of Name
 “Commissioner of U.S. Customs and Border Protection” substituted for “Commissioner of Customs” in subsec. (b)(5) on authority of section 802(d)(2) of Pub. L. 114–125, set out as a note under [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim), Domestic Security.
+
+#### Effective Date of 2020 Amendment
+Amendment by Pub. L. 116–260 effective July 1, 2020, see section 602(g) of div. O of Pub. L. 116–260, set out as a note under [section 2578b of this title](./chapter-013-trade-agreements-act-of-1979.md#section-2578b).
 
 #### Transfer of Functions
 For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim). For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim), as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim).
@@ -740,7 +757,7 @@ This chapter, referred to in subsec. (a), was in the original “this title”, 
 
 <a id="section-3733"></a>
 ## § 3733. Overseas Private Investment Corporation initiatives
-**(a) Initiation of funds** It is the sense of the Congress that the Overseas Private Investment Corporation should exercise the authorities it has to initiate an equity fund or equity funds in support of projects in the countries in sub-Saharan Africa, in addition to the existing equity fund for sub-Saharan Africa created by the Corporation.
+**(a) Initiation of funds** It is the sense of the Congress that the Overseas Private Investment Corporation 11 See Transfer of Functions note below. should exercise the authorities it has to initiate an equity fund or equity funds in support of projects in the countries in sub-Saharan Africa, in addition to the existing equity fund for sub-Saharan Africa created by the Corporation.
 
 **(b) Structure and types of funds**
 
@@ -756,9 +773,12 @@ This chapter, referred to in subsec. (a), was in the original “this title”, 
 
 (1) **Omitted**
 
-(2) **Reports to Congress** — Within 6 months after May 18, 2000, and annually for each of the 4 years thereafter, the Board of Directors of the Overseas Private Investment Corporation shall submit to Congress a report on the steps that the Board has taken to implement [section 2193(e) of title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2193/e&num=0&edition=prelim) and any recommendations of the investment advisory council established pursuant to such section.
+(2) **Reports to Congress** — Within 6 months after May 18, 2000, and annually for each of the 4 years thereafter, the Board of Directors of the Overseas Private Investment Corporation 1 shall submit to Congress a report on the steps that the Board has taken to implement section 2193(e) 22 See References in Text note below. of title 22 and any recommendations of the investment advisory council established pursuant to such section.
 
 ### Statutory Notes
+
+#### References in Text
+[Section 2193(e) of title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2193/e&num=0&edition=prelim), referred to in subsec. (c)(2), was repealed by Pub. L. 115–254, div. F, title VI, § 1464(2), Oct. 5, 2018, 132 Stat. 3513.
 
 #### Codification
 Section is comprised of section 123 of Pub. L. 106–200. Subsec. (c)(1) of section 123 of Pub. L. 106–200 amended [section 2193 of Title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2193&num=0&edition=prelim), Foreign Relations and Intercourse.

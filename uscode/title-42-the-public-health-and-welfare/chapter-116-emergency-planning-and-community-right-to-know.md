@@ -427,7 +427,11 @@ Subsec. (e)(4). Pub. L. 115–270, § 2018(b)(2), added par. (4).
 
 (2) **Discretionary application to additional facilities** — The Administrator, on his own motion or at the request of a Governor of a State (with regard to facilities located in that State), may apply the requirements of this section to the owners and operators of any particular facility that manufactures, processes, or otherwise uses a toxic chemical listed under subsection (c) if the Administrator determines that such action is warranted on the basis of toxicity of the toxic chemical, proximity to other facilities that release the toxic chemical or to population centers, the history of releases of such chemical at such facility, or such other factors as the Administrator deems appropriate.
 
-**(c) Toxic chemicals covered** The toxic chemicals subject to the requirements of this section are those chemicals on the list in Committee Print Number 99–169 of the Senate Committee on Environment and Public Works, titled “Toxic Chemicals Subject to Section 313 of the Emergency Planning and Community Right-To-Know Act of 1986” [[42 U.S.C. 11023](./chapter-116-emergency-planning-and-community-right-to-know.md#section-11023)] (including any revised version of the list as may be made pursuant to subsection (d) or (e)).
+**(c) Toxic chemicals covered** The toxic chemicals subject to the requirements of this section are—
+
+(1) the chemicals on the list in Committee Print Number 99–169 of the Senate Committee on Environment and Public Works, titled “Toxic Chemicals Subject to Section 313 of the Emergency Planning and Community Right-To-Know Act of 1986” [[42 U.S.C. 11023](./chapter-116-emergency-planning-and-community-right-to-know.md#section-11023)] (including any revised version of the list as may be made pursuant to subsection (d) or (e)); and
+
+(2) the chemicals included on such list under subsections (b)(1), (c)(1), and (d)(3) of [section 8921 of title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section8921&num=0&edition=prelim).
 
 **(d) Revisions by Administrator**
 
@@ -594,6 +598,9 @@ Subsec. (e)(4). Pub. L. 115–270, § 2018(b)(2), added par. (4).
 (4) **Mass balance definition** — For purposes of this subsection, the term “mass balance” means an accumulation of the annual quantities of chemicals transported to a facility, produced at a facility, consumed at a facility, used at a facility, accumulated at a facility, released from a facility, and transported from a facility as a waste or as a commercial product or byproduct or component of a commercial product or byproduct.
 
 ### Statutory Notes
+
+#### Amendments
+2019—Subsec. (c). Pub. L. 116–92 substituted “are—” and “(1) the chemicals” for “are those chemicals”, and added par. (2).
 
 #### Expediting Community Right-to-Know Initiatives
 Memorandum of President of the United States, Aug. 8, 1995, 60 F.R. 41791, provided:

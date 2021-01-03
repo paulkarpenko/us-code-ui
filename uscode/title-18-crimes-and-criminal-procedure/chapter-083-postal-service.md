@@ -538,7 +538,7 @@ Section, act June 25, 1948, ch. 645, 62 Stat. 781, provided that certain foreign
 <a id="section-1715"></a>
 ## § 1715. Firearms as nonmailable; regulations
 
-Pistols, revolvers, and other firearms capable of being concealed on the person are nonmailable and shall not be deposited in or carried by the mails or delivered by any officer or employee of the Postal Service. Such articles may be conveyed in the mails, under such regulations as the Postal Service shall prescribe, for use in connection with their official duty, to officers of the Army, Navy, Air Force, Coast Guard, Marine Corps, or Organized Reserve Corps; to officers of the National Guard or Militia of a State, Territory, Commonwealth, Possession, or District; to officers of the United States or of a State, Territory, Commonwealth, Possession, or District whose official duty is to serve warrants of arrest or commitments; to employees of the Postal Service; to officers and employees of enforcement agencies of the United States; and to watchmen engaged in guarding the property of the United States, a State, Territory, Commonwealth, Possession, or District. Such articles also may be conveyed in the mails to manufacturers of firearms or bona fide dealers therein in customary trade shipments, including such articles for repairs or replacement of parts, from one to the other, under such regulations as the Postal Service shall prescribe.
+Pistols, revolvers, and other firearms capable of being concealed on the person are nonmailable and shall not be deposited in or carried by the mails or delivered by any officer or employee of the Postal Service. Such articles may be conveyed in the mails, under such regulations as the Postal Service shall prescribe, for use in connection with their official duty, to officers of the Army, Navy, Air Force, Coast Guard, Marine Corps, Space Force, or Organized Reserve Corps; to officers of the National Guard or Militia of a State, Territory, Commonwealth, Possession, or District; to officers of the United States or of a State, Territory, Commonwealth, Possession, or District whose official duty is to serve warrants of arrest or commitments; to employees of the Postal Service; to officers and employees of enforcement agencies of the United States; and to watchmen engaged in guarding the property of the United States, a State, Territory, Commonwealth, Possession, or District. Such articles also may be conveyed in the mails to manufacturers of firearms or bona fide dealers therein in customary trade shipments, including such articles for repairs or replacement of parts, from one to the other, under such regulations as the Postal Service shall prescribe.
 
 ### Statutory Notes
 
@@ -553,6 +553,8 @@ Minor changes were made in phraseology.
 This section [section 40] inserts “Air Force,” in [section 1715 of title 18](./chapter-083-postal-service.md#section-1715), U.S.C., in view of the establishment in 1947 of this separate branch of the armed forces, and substitutes, “Organized” for “Officers’ ”, preceding “Reserve Corps”, to conform to [section 2 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2&num=0&edition=prelim), U.S.C., as amended by the act of March 25, 1948 (ch. 157, § 1, 62 Stat. 87), which grouped all reserve branches into a reserve component called the Organized Reserve Corps.
 
 #### Amendments
+2021—Pub. L. 116–283 inserted “Space Force,” after “Marine Corps,”.
+
 1996—Pub. L. 104–294, in first par., substituted “State, Territory, Commonwealth, Possession, or District” for “State, Territory, or District” wherever appearing.
 
 1994—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $1,000” in second par.
@@ -911,6 +913,9 @@ Section 3(d) of the Prevent All Cigarette Trafficking Act of 2009, referred to i
 #### Effective Date
 Section effective on the date that is 90 days after March 31, 2010, see section 6 of Pub. L. 111–154, set out as an Effective Date of 2010 Amendment note under [section 375 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section375&num=0&edition=prelim), Commerce and Trade.
 
+#### Nonmailability of Electronic Nicotine Delivery Systems
+Pub. L. 116–260, div. FF, title VI, § 603, Dec. 27, 2020, 134 Stat. 3137, provided that: “(a) Regulations.—Not later than 120 days after the date of enactment of this Act [Dec. 27, 2020], the United States Postal Service shall promulgate regulations to clarify the applicability of the prohibition on mailing of cigarettes under [section 1716E of title 18](./chapter-083-postal-service.md#section-1716e), United States Code, to electronic nicotine delivery systems, in accordance with the amendment to the definition of ‘cigarette’ made by section 602 [amending sections 375 and 376a of Title 15, Commerce and Trade]. “(b) Effective Date.—The prohibition on mailing of cigarettes under [section 1716E of title 18](./chapter-083-postal-service.md#section-1716e), United States Code, shall apply to electronic nicotine delivery systems on and after the date on which the United States Postal Service promulgates regulations under subsection (a) of this section.”
+
 
 <a id="section-1717"></a>
 ## § 1717. Letters and writings as nonmailable
@@ -942,10 +947,13 @@ Minor changes were made in arrangement, translation, and phraseology.
 
 1970—Subsec. (b). Pub. L. 91–375 struck out “of the United States” after “Postal Service”.
 
-1960—Subsec. (c). Pub. L. 86–682 repealed subsec. (c) which related to the opening of letters, effective Sept. 1, 1960.
+1960—Subsec. (c). Pub. L. 86–682 struck out subsec. (c) which related to the opening of letters.
 
 #### Effective Date of 1970 Amendment
 Amendment by Pub. L. 91–375 effective within 1 year after Aug. 12, 1970, on date established therefor by Board of Governors of United States Postal Service and published by it in Federal Register, see section 15(a) of Pub. L. 91–375, set out as an Effective Date note preceding [section 101 of Title 39](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title39-section101&num=0&edition=prelim), Postal Service.
+
+#### Effective Date of 1960 Amendment
+Amendment by Pub. L. 86–682 effective Sept. 1, 1960, see section 11 of Pub. L. 86–682, Sept. 2, 1960, 74 Stat. 708.
 
 
 <a id="section-1718"></a>
@@ -1246,7 +1254,7 @@ Whoever, except as permitted by law, knowingly mails any periodical publication 
 Amendment by Pub. L. 91–375 effective within 1 year after Aug. 12, 1970, on date established therefor by Board of Governors of United States Postal Service and published by it in Federal Register, see section 15(a) of Pub. L. 91–375, set out as an Effective Date note preceding [section 101 of Title 39](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title39-section101&num=0&edition=prelim), Postal Service.
 
 #### Effective Date
-Section effective Sept. 1, 1960, see section 11 of Pub. L. 86–682.
+Section effective Sept. 1, 1960, see section 11 of Pub. L. 86–682, Sept. 2, 1960, 74 Stat. 708.
 
 
 <a id="section-1734"></a>
@@ -1260,7 +1268,7 @@ Whoever, being an editor or publisher, prints in a publication entered as second
 1994—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $500”.
 
 #### Effective Date
-Section effective Sept. 1, 1960, see section 11 of Pub. L. 86–682.
+Section effective Sept. 1, 1960, see section 11 of Pub. L. 86–682, Sept. 2, 1960, 74 Stat. 708.
 
 
 <a id="section-1735"></a>

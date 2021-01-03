@@ -66,6 +66,8 @@ source: >-
 This chapter, referred to in subsec. (a), was in the original “this division”, meaning division A of Pub. L. 106–386, Oct. 28, 2000, 114 Stat. 1466, known as the Trafficking Victims Protection Act of 2000, which is classified principally to this chapter. For complete classification of division A to the Code, see Short Title note set out below and Tables.
 
 #### Short Title of 2019 Amendment
+Pub. L. 116–92, div. F, title LXXI, § 7151, Dec. 20, 2019, 133 Stat. 2257, provided that: “This subtitle [subtitle B (§§ 7151–7155) of title LXXI of div. F of Pub. L. 116–92, amending [section 7103 of this title](./chapter-078-trafficking-victims-protection.md#section-7103) and [section 312 of Title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section312&num=0&edition=prelim), Money and Finance, and enacting provisions set out as a note under [section 3305 of Title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section3305&num=0&edition=prelim), Banks and Banking] may be cited as the ‘Financial Industry Guidance to Halt Trafficking Act’ or the ‘FIGHT Act’.”
+
 Pub. L. 115–427, § 1, Jan. 9, 2019, 132 Stat. 5503, provided that: “This Act [amending sections 7102, 7104, 7106, and 7107 of this title and enacting provisions set out as notes under sections 262d and 7107 of this title] may be cited as the ‘Trafficking Victims Protection Reauthorization Act of 2017’.”
 
 Pub. L. 115–425, § 1, Jan. 8, 2019, 132 Stat. 5472, provided that: “This Act [enacting [section 7104e of this title](./chapter-078-trafficking-victims-protection.md#section-7104e), amending sections 2370c to 2370c–2, 7103, 7104, 7105, 7106 to 7108, 7110, and 7112 of this title, [section 1375c of Title 8](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1375c&num=0&edition=prelim), Aliens and Nationality, sections 20705, 20709, and 21509 of Title 34, Crime Control and Law Enforcement, and [section 40118 of Title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section40118&num=0&edition=prelim), Transportation, and enacting provisions set out as notes under sections 2370c and 7107 of this title, [section 1201 of Title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section1201&num=0&edition=prelim), Public Contracts, and [section 40118 of Title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section40118&num=0&edition=prelim)] may be cited as the ‘Frederick Douglass Trafficking Victims Prevention and Protection Reauthorization Act of 2018’.”
@@ -184,7 +186,7 @@ In this chapter:
 
     (vii) humanitarian and other development assistance in support of programs of nongovernmental organizations under chapters 1 and 10 22 See References in Text note below. of that Act;
 
-    (viii) programs under title IV of chapter 2 of part I of that Act [[22 U.S.C. 2191](./chapter-032-foreign-assistance.md#section-2191) et seq.], relating to the Overseas Private Investment Corporation; and
+    (viii) any support under subchapter II of chapter 103 of this title relating to the United States International Development Finance Corporation;
 
     (ix) other programs involving trade-related or humanitarian assistance; and
 
@@ -208,19 +210,14 @@ In this chapter:
 
 (17) **Victim of trafficking** — The term “victim of trafficking” means a person subjected to an act or practice described in paragraph (9) or (10) 2.
 
+(18) **Grounds related to human trafficking** — The term “grounds related to human trafficking” means grounds related to the criteria for inadmissibility to the United States described in subsection (a)(2)(H) of [section 1182 of title 8](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1182&num=0&edition=prelim).
+
 ### Statutory Notes
-
-#### Amendment of Paragraph (8)[(10)](A)(viii)
-Pub. L. 115–254, div. F, title VI, § 1470(p), (w), Oct. 5, 2018, 132 Stat. 3518, 3519, provided that, effective at the end of the transition period, as defined in [section 9681 of this title](./chapter-103-better-utilization-of-investments-leading-to-development.md#section-9681), paragraph (8)(A)(viii) of this section (redesignated paragraph (10)(A)(viii) of this section by Pub. L. 115–427) is amended to read as follows:
-
-(viii) any support under subchapter II of chapter 103 of this title relating to the United States International Development Finance Corporation;
-
-See 2018 Amendment note below.
 
 #### References in Text
 This chapter, referred to in text, was in the original “this division”, meaning division A of Pub. L. 106–386, Oct. 28, 2000, 114 Stat. 1466, known as the Trafficking Victims Protection Act of 2000, which is classified principally to this chapter. For complete classification of division A to the Code, see Short Title note set out under [section 7101 of this title](./chapter-078-trafficking-victims-protection.md#section-7101) and Tables.
 
-The Foreign Assistance Act of 1961, referred to in par. (10)(A), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, which is classified principally to chapter 32 (§ 2151 et seq.) of this title. Part I of the Act is classified generally to subchapter I (§ 2151 et seq.) of chapter 32 of this title. Chapter 1, title IV of chapter 2, chapter 8, and chapter 9 of part I of the Act are classified generally to part I (§ 2151 et seq.), subpart iv (§ 2191 et seq.) of part II, part VIII (§ 2291 et seq.), and part IX (§ 2292 et seq.), respectively, of subchapter I of chapter 32 of this title. Chapters 4, 5, and 8 of part II of the Act are classified generally to part IV (§ 2346 et seq.), part V (§ 2347 et seq.), and part VIII (§ 2349aa et seq.), respectively, of subchapter II of chapter 32 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 2151 of this title](./chapter-032-foreign-assistance.md#section-2151) and Tables.
+The Foreign Assistance Act of 1961, referred to in par. (10)(A), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, which is classified principally to chapter 32 (§ 2151 et seq.) of this title. Part I of the Act is classified generally to subchapter I (§ 2151 et seq.) of chapter 32 of this title. Chapters 1, 8, and 9 of part I of the Act are classified generally to parts I (§ 2151 et seq.), VIII (§ 2291 et seq.), and IX (§ 2292 et seq.), respectively, of subchapter I of chapter 32 of this title. Title IV of chapter 2 of part I of the Act was classified generally to subpart iv (§ 2191 et seq.) of part II of subchapter I of chapter 32 of this title, and was repealed, except for subsections (g), (l), (m), and (n) of [section 2197 of this title](./chapter-032-foreign-assistance.md#section-2197), by Pub. L. 115–254, div. F, title VI, § 1464(2), Oct. 5, 2018, 132 Stat. 3513, effective at the end of the transition period, as defined in [section 9681 of this title](./chapter-103-better-utilization-of-investments-leading-to-development.md#section-9681). Chapters 4, 5, and 8 of part II of the Act are classified generally to part IV (§ 2346 et seq.), part V (§ 2347 et seq.), and part VIII (§ 2349aa et seq.), respectively, of subchapter II of chapter 32 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 2151 of this title](./chapter-032-foreign-assistance.md#section-2151) and Tables.
 
 Chapters 1 and 10 of that Act, referred to in par. (10)(A)(vii), probably means chapters 1 and 10 of part I of the Foreign Assistance Act of 1961, which are classified generally to parts I (§ 2151 et seq.) and X (§ 2293 et seq.), respectively, of subchapter I of chapter 32 of this title. For complete classification of these chapters to the Code, see Tables.
 
@@ -229,6 +226,8 @@ The Arms Export Control Act, referred to in par. (10)(B), is Pub. L. 90–629, O
 Paragraphs (9) and (10), referred to in pars. (16) and (17), were redesignated pars. (11) and (12), respectively, by Pub. L. 115–427, § 2(1), Jan. 9, 2019, 132 Stat. 5503. See 2019 Amendment note below.
 
 #### Amendments
+2021—Par. (18). Pub. L. 116–283 added par. (18).
+
 2019—Pars. (5) to (17). Pub. L. 115–427 added pars. (5) and (6) and redesignated former pars. (5) to (15) as (7) to (17), respectively.
 
 2018—Par. (8)(A)(viii). Pub. L. 115–254 amended cl. (viii) generally. Prior to amendment, cl. (viii) read as follows: “programs under title IV of chapter 2 of part I of that Act, relating to the Overseas Private Investment Corporation; and”.
@@ -249,7 +248,7 @@ Amendment by Pub. L. 115–254 effective at the end of the transition period, as
 ## § 7103. Interagency Task Force to Monitor and Combat Trafficking
 **(a) Establishment** The President shall establish an Interagency Task Force to Monitor and Combat Trafficking.
 
-**(b) Appointment** The President shall appoint the members of the Task Force, which shall include the Secretary of State, the Administrator of the United States Agency for International Development, the Attorney General, the Secretary of Labor, the Secretary of Health and Human Services, the Director of National Intelligence, the Secretary of Defense, the Secretary of Homeland Security, the Secretary of Education, the Secretary of the Treasury, the United States Trade Representative, and such other officials as may be designated by the President.
+**(b) Appointment** The President shall appoint the members of the Task Force, which shall include the Secretary of State, the Administrator of the United States Agency for International Development, the Attorney General, the Secretary of Labor, the Secretary of Health and Human Services, the Director of National Intelligence, the Secretary of Defense, the Secretary of Homeland Security, the Secretary of Education, the Secretary of Commerce, the Secretary of the Treasury, the United States Trade Representative, and such other officials as may be designated by the President.
 
 **(c) Chairman** The Task Force shall be chaired by the Secretary of State.
 
@@ -267,9 +266,9 @@ Amendment by Pub. L. 115–254 effective at the end of the transition period, as
 
 (6) Engage in consultation and advocacy with governmental and nongovernmental organizations, among other entities, to advance the purposes of this chapter, and make reasonable efforts to distribute information to enable all relevant Federal Government agencies to publicize the National Human Trafficking Resource Center Hotline on their websites, in all headquarters offices, and in all field offices throughout the United States.
 
-(7) Not later than May 1, 2004, and annually thereafter, the Attorney General shall submit to the Committee on Ways and Means, the Committee on Foreign Affairs, and the Committee on the Judiciary of the House of Representatives and the Committee on Finance, the Committee on Foreign Relations, and the Committee on the Judiciary of the Senate, a report on Federal agencies that are implementing any provision of this chapter, or any amendment made by this chapter, which shall include, at a minimum, information on—
+(7) Not later than May 1, 2004, and annually thereafter, the Attorney General shall submit to the Committee on Ways and Means, the Committee on Foreign Affairs 11 So in original. Probably should be followed by a comma. the Committee on Financial Services,, 22 So in original. and the Committee on the Judiciary of the House of Representatives and the Committee on Finance, the Committee on Foreign Relations, the Committee on Banking, Housing, and Urban Affairs, and the Committee on the Judiciary of the Senate, a report on Federal agencies that are implementing any provision of this chapter, or any amendment made by this chapter, which shall include, at a minimum, information on—
 
-  (A) the number of persons who received benefits or other services under subsections (b) and (f) 11 See References in Text note below. of [section 7105 of this title](./chapter-078-trafficking-victims-protection.md#section-7105) in connection with programs or activities funded or administered by the Secretary of Health and Human Services, the Secretary of Labor, the Attorney General, the Board of Directors of the Legal Services Corporation, and other appropriate Federal agencies during the preceding fiscal year;
+  (A) the number of persons who received benefits or other services under subsections (b) and (f) 33 See References in Text note below. of [section 7105 of this title](./chapter-078-trafficking-victims-protection.md#section-7105) in connection with programs or activities funded or administered by the Secretary of Health and Human Services, the Secretary of Labor, the Attorney General, the Board of Directors of the Legal Services Corporation, and other appropriate Federal agencies during the preceding fiscal year;
 
   (B) the number of persons who have been granted continued presence in the United States under [section 7105(c)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section7105/c/3&num=0&edition=prelim) during the preceding fiscal year and the mean and median time taken to adjudicate applications submitted under such section, including the time from the receipt of an application by law enforcement to the issuance of continued presence, and a description of any efforts being taken to reduce the adjudication and processing time while ensuring the safe and competent processing of the applications;
 
@@ -291,7 +290,7 @@ Amendment by Pub. L. 115–254 effective at the end of the transition period, as
 
   (K) the nature of training conducted pursuant to [section 7105(c)(4) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section7105/c/4&num=0&edition=prelim) during the preceding fiscal year;
 
-  (L) the amount, recipient, and purpose of each grant under sections 20702 and 20705 of title 34; 1
+  (L) the amount, recipient, and purpose of each grant under sections 20702 and 20705 of title 34; 3
 
   (M) activities by the Department of Defense to combat trafficking in persons, including—
 
@@ -303,7 +302,7 @@ Amendment by Pub. L. 115–254 effective at the end of the transition period, as
 
     (iv) efforts to ensure that United States Government contractors and their employees or United States Government subcontractors and their employees do not engage in trafficking in persons; and
 
-    (v) all trafficking in persons activities of contractors reported to the Under Secretary of Defense for Acquisition, Technology, and Logistics;
+    (v) all trafficking in persons activities of contractors reported to the Under Secretary of Defense for Acquisition and Sustainment;
 
   (N) activities or actions by Federal departments and agencies to enforce—
 
@@ -313,7 +312,7 @@ Amendment by Pub. L. 115–254 effective at the end of the transition period, as
 
     (iii) prohibitions on the procurement by the United States Government of items or services produced by slave labor, consistent with Executive Order 13107 (December 10, 1998);
 
-  (O) the activities undertaken by the Senior Policy Operating Group to carry out its responsibilities under subsection (g); and 22 So in original. The word “and” probably should not appear.
+  (O) the activities undertaken by the Senior Policy Operating Group to carry out its responsibilities under subsection (g); and 44 So in original. The word “and” probably should not appear.
 
   (P) the activities undertaken by Federal agencies to train appropriate State, tribal, and local government and law enforcement officials to identify victims of severe forms of trafficking, including both sex and labor trafficking;
 
@@ -331,13 +330,15 @@ Amendment by Pub. L. 115–254 effective at the end of the transition period, as
 
     (vi) the number of individuals required by a court order to pay restitution in connection with a violation of each offense under title 18, the amount of restitution required to be paid under each such order, and the amount of restitution actually paid pursuant to each such order;
 
-    (vii) the age, gender, race, country of origin, country of citizenship, and description of the role in the offense of individuals convicted under each offense; 33 So in original. Probably should be followed by “and”.
+    (vii) the age, gender, race, country of origin, country of citizenship, and description of the role in the offense of individuals convicted under each offense;
 
-    (viii) the number of convictions obtained under chapter 77 of title 18, aggregated separately by the form of offense committed with respect to the victim, including recruiting, enticing, harboring, transporting, providing, obtaining, advertising, maintaining, patronizing, or soliciting a human trafficking victim; and 2
+    (viii) the number of convictions obtained under chapter 77 of title 18, aggregated separately by the form of offense committed with respect to the victim, including recruiting, enticing, harboring, transporting, providing, obtaining, advertising, maintaining, patronizing, or soliciting a human trafficking victim; and 4
 
-  (R) the activities undertaken by the Department of Justice and the Department of Health and Human Services to meet the specific needs of minor victims of domestic trafficking, including actions taken pursuant to subsection (f) and section 20702(a) 1 of title 34, and the steps taken to increase cooperation among Federal agencies to ensure the effective and efficient use of programs for which the victims are eligible; and
+  (R) the activities undertaken by the Department of Justice and the Department of Health and Human Services to meet the specific needs of minor victims of domestic trafficking, including actions taken pursuant to subsection (f) and section 20702(a) 3 of title 34, and the steps taken to increase cooperation among Federal agencies to ensure the effective and efficient use of programs for which the victims are eligible; and
 
-  (S) tactics and strategies employed by human trafficking task forces sponsored by the Department of Justice to reduce demand for trafficking victims.
+  (S) 55 So in original. Two subpars. (S) have been enacted. tactics and strategies employed by human trafficking task forces sponsored by the Department of Justice to reduce demand for trafficking victims.
+
+  (S) 5 the efforts of the United States to eliminate money laundering related to human trafficking and the number of investigations, arrests, indictments, and convictions in money laundering cases with a nexus to human trafficking.
 
 **(e) Office To Monitor and Combat Trafficking**
 
@@ -385,9 +386,19 @@ Executive Order 13107, referred to in subsec. (d)(7)(N)(iii), is set out as a no
 Executive Order No. 13257, referred to in subsec. (g)(2)(A), is set out as a note below.
 
 #### Amendments
-2019—Subsec. (b). Pub. L. 115–425, § 201, inserted “the Secretary of the Treasury, the United States Trade Representative,” after “the Secretary of Education,”.
+2019—Subsec. (b). Pub. L. 116–92, § 3562, inserted “the Secretary of Commerce,” after “the Secretary of Education,”.
 
-Subsec. (d)(7)(S). Pub. L. 115–425, § 121(a), added subpar. (S).
+Pub. L. 115–425, § 201, inserted “the Secretary of the Treasury, the United States Trade Representative,” after “the Secretary of Education,”.
+
+Subsec. (d)(7). Pub. L. 116–92, § 7154(b)(1), inserted “the Committee on Financial Services,” after “the Committee on Foreign Affairs” and “the Committee on Banking, Housing, and Urban Affairs,” after “the Committee on Foreign Relations,” in introductory provisions.
+
+Subsec. (d)(7)(M)(v). Pub. L. 116–92, § 902(85), substituted “Under Secretary of Defense for Acquisition and Sustainment” for “Under Secretary of Defense for Acquisition, Technology, and Logistics”.
+
+Subsec. (d)(7)(Q)(vii), (R). Pub. L. 116–92, § 7154(b)(2), (3), which directed amendment of subpar. (Q)(vii) by substituting a semicolon for “; and” and subpar. (R) by substituting “; and” for the period at the end, could not be executed because of the intervening amendments by Pub. L. 115–425, § 121(a)(1), (2), made in the course of adding the first subpar. (S). See below.
+
+Subsec. (d)(7)(S). Pub. L. 116–92, § 7154(b)(4), added subpar. (S) relating to efforts of the United States to eliminate money laundering.
+
+Pub. L. 115–425, § 121(a), added subpar. (S) relating to tactics and strategies employed by human trafficking task forces.
 
 2018—Subsec. (d)(3). Pub. L. 115–392, § 18(a), inserted “and providing an annual report on the case referrals received from the national human trafficking hotline by Federal departments and agencies” after “international trafficking” and “and reporting requirements” after “Any data collection procedures”.
 
@@ -817,6 +828,16 @@ This chapter, referred to in subsec. (d)(2), was in the original “this Act”,
 
   (I) the Committee on Health, Education, Labor, and Pensions of the Senate.
 
+**(l) Information regarding human trafficking-related visa denials**
+
+(1) **In general** — The Secretary of State shall ensure that the Office to Monitor and Combat Trafficking in Persons and the Bureau of Diplomatic Security of the Department of State receive timely and regular information regarding United States visa denials based, in whole or in part, on grounds related to human trafficking.
+
+(2) **Decisions regarding allocation** — The Secretary of State shall ensure that decisions regarding the allocation of resources of the Department of State related to combating human trafficking and to law enforcement presence at United States diplomatic and consular posts appropriately take into account—
+
+  (A) the information described in paragraph (1); and
+
+  (B) the information included in the most recent report submitted in accordance with [section 7107(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section7107/b&num=0&edition=prelim).
+
 ### Statutory Notes
 
 #### References in Text
@@ -825,6 +846,8 @@ This chapter, referred to in subsec. (d)(2), was in the original “this Act”,
 Title XVII of the National Defense Authorization Act for Fiscal Year 2013, referred to in subsec. (k)(1)(A)(ii), is title XVII of div. A of Pub. L. 112–239, Jan. 2, 2013, 126 Stat. 2092. For complete classification of title XVII to the Code, see Tables.
 
 #### Amendments
+2021—Subsec. (l). Pub. L. 116–283 added subsec. (l).
+
 2019—Subsec. (b). Pub. L. 115–425, § 101(a), designated existing provisions as par. (1), inserted heading, and added par. (2).
 
 Subsec. (g)(1) to (4). Pub. L. 115–427, § 4(1), redesignated cls. (i) to (iv) as pars. (1) to (4), respectively, and realigned margins.
@@ -864,6 +887,9 @@ Committee on Oversight and Government Reform of House of Representatives changed
 
 #### Effective Date of 2013 Amendment
 Requirements of amendment by Pub. L. 112–239 applicable to grants, contracts, and cooperative agreements entered into on or after the date that is 270 days after Jan. 2, 2013, and to task and delivery orders awarded on or after Jan. 2, 2013, pursuant to contracts entered before, on, or after such date, see [section 7104d(c)(1)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section7104d/c/1/B&num=0&edition=prelim).
+
+#### Annual Reports to Congress on Human Trafficking-Related Visa Denials
+Pub. L. 116–283, div. A, title XII, § 1299R(e), (f), Jan. 1, 2021, 134 Stat. 4028, provided that: “(e) Reports to Congress.—“(1) Initial report.—Not later than 90 days after the date of the enactment of this Act [Jan. 1, 2021], the Secretary of State shall provide to the relevant congressional committees a report that—“(A) describes the actions that have been taken and that are planned to implement subsection (l) of section 106 of the Trafficking Victims Protection Act of 2000 ([22 U.S.C. 7104](./chapter-078-trafficking-victims-protection.md#section-7104)), as added by subsection (d)(1); and “(B) identifies by country and by United States diplomatic or consular post the number of visa applications denied during the previous calendar year with respect to which the basis for such denial, included grounds related to human trafficking (as such term is defined in section 103 of the Trafficking Victims Protection Act of 2000 ([22 U.S.C. 7102](./chapter-078-trafficking-victims-protection.md#section-7102)), as amended by subsection (d)(2)). “(2) Annual report.—Beginning with the first annual anti-trafficking report that is required under subsection (b)(1) of section 110 of the Trafficking Victims Protection Act of 2000 ([22 U.S.C. 7107](./chapter-078-trafficking-victims-protection.md#section-7107)) to be submitted after the date of the enactment of this Act, and concurrent with each such subsequent submission for the following 7 years, the Secretary of State shall submit to the relevant congressional committees a report that contains information relating to the number and the locations of United States visa denials based, in whole or in part, on grounds related to human trafficking (as such term is defined in section 103 of the Trafficking Victims Protection Act of 2000 ([22 U.S.C. 7102](./chapter-078-trafficking-victims-protection.md#section-7102)), as amended by subsection (d)(2)) during the period covered by each such annual anti-trafficking report. “(f) Definitions.—In this section:“(1) Location of united states visa denials.—The term ‘location of United States visa denials’ means—“(A) the United States diplomatic or consular post at which a denied United States visa application was adjudicated; and “(B) the city or locality of residence of the applicant whose visa application was so denied. “(2) Relevant congressional committees.—The term ‘relevant congressional committees’ means—“(A) the Committee on Foreign Affairs and the Committee on the Judiciary of the House of Representatives; and “(B) the Committee on Foreign Relations and the Committee on the Judiciary of the Senate.”
 
 #### Delegation of Functions
 For delegation of functions of President under this section, see section 5 of Ex. Ord. No. 13257, Feb. 13, 2002, 67 F.R. 7259, as amended, set out as a note under [section 7103 of this title](./chapter-078-trafficking-victims-protection.md#section-7103).
@@ -1521,7 +1547,7 @@ Pub. L. 109–164, title I, § 104(b)(2), Jan. 10, 2006, 119 Stat. 3564, provide
 
 **(b) Reports to Congress**
 
-(1) **Annual report** — Not later than June 1 of each year, the Secretary of State shall submit to the appropriate congressional committees a report describing the anti-trafficking efforts of the United States and foreign governments according to the minimum standards and criteria enumerated in [section 7106 of this title](./chapter-078-trafficking-victims-protection.md#section-7106), and the nature and scope of trafficking in persons in each country and analysis of the trend lines for individual governmental efforts. The report shall, to the extent concurrent reporting data is available, cover efforts and activities taking place during the period between April 1 of the year preceding the report and March 31 of the year in which the report is made, and should include—
+(1) **Annual report** — Not later than June 30 of each year, the Secretary of State shall submit to the appropriate congressional committees a report describing the anti-trafficking efforts of the United States and foreign governments according to the minimum standards and criteria enumerated in [section 7106 of this title](./chapter-078-trafficking-victims-protection.md#section-7106), and the nature and scope of trafficking in persons in each country and analysis of the trend lines for individual governmental efforts. The report shall, to the extent concurrent reporting data is available, cover efforts and activities taking place during the period between April 1 of the year preceding the report and March 31 of the year in which the report is made, and should include—
 
   (A) a list of those countries, if any, to which the minimum standards for the elimination of trafficking are applicable and whose governments fully comply with such standards based only on concrete actions taken by the country that are recorded during the reporting period;
 
@@ -1695,6 +1721,8 @@ This chapter, referred to in subsec. (d)(4), was in the original “this divisio
 [Section 7102(8) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section7102/8&num=0&edition=prelim), referred to in subsec. (e), was redesignated [section 7102(10) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section7102/10&num=0&edition=prelim) by Pub. L. 115–427, § 2(1), Jan. 9, 2019, 132 Stat. 5503.
 
 #### Amendments
+2021—Subsec. (b)(1). Pub. L. 116–283 substituted “June 30” for “June 1”.
+
 2019—Subsec. (b)(1). Pub. L. 115–427, § 6(1)(A), substituted “The report shall, to the extent concurrent reporting data is available, cover efforts and activities taking place during the period between April 1 of the year preceding the report and March 31 of the year in which the report is made, and should” for “The report should” in introductory provisions.
 
 Subsec. (b)(1)(A). Pub. L. 115–427, § 6(1)(B), inserted “based only on concrete actions taken by the country that are recorded during the reporting period” after “such standards”.
@@ -1756,32 +1784,42 @@ Pub. L. 115–425, title II, § 204(b), Jan. 8, 2019, 132 Stat. 5484, provided t
 #### Translation of Trafficking-in-Persons Report
 Pub. L. 110–457, title I, § 107(c), Dec. 23, 2008, 122 Stat. 5050, provided that: “The Secretary of State shall— “(1) timely translate the annual report submitted under section 110(b) of the Trafficking Victims Protection Act of 2000 ([22 U.S.C. 7107(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section7107/b&num=0&edition=prelim)) into the principal languages of as many countries as possible, with particular emphasis on the languages of the countries on the lists described in subparagraphs (B) and (C) of section 110(b)(1) of such Act; and “(2) ensure that the translations described in paragraph (1) are made available to the public through postings on the Internet website of the Department of State and other appropriate websites.”
 
-#### Presidential Determination With Respect to Foreign Governments’ Efforts Regarding Trafficking in Persons
-Determination of President of the United States, No. 2019–05, Nov. 29, 2018, 83 F.R. 65281, provided:Memorandum for the Secretary of State
+#### Presidential Determination With Respect to the Efforts of Foreign Governments Regarding Trafficking in Persons
+Determination of President of the United States, No. 2020–02, Oct. 18, 2019, 84 F.R. 59521, provided:
+
+Memorandum for the Secretary of State
 
 Consistent with section 110 of the Trafficking Victims Protection Act of 2000 ([22 U.S.C. 7107](./chapter-078-trafficking-victims-protection.md#section-7107)) (the “Act”), as amended, I hereby determine as follows:
 
-As provided for in section 110(d)(1)(A)(i) of the Act, I determine that the United States will not provide nonhumanitarian, nontrade-related assistance to the Governments of Belarus, Belize, Bolivia, Burma, Burundi, China, Comoros, the Republic of the Congo (ROC), the Democratic Republic of the Congo (DRC), Equatorial Guinea, Gabon, Iran, Laos, Mauritania, Papua New Guinea (PNG), South Sudan, Turkmenistan, and Venezuela for Fiscal Year (FY) 2019 until such governments comply with the minimum standards or make significant efforts to bring themselves into compliance with the Act.
+As provided for in section 110(d)(1)(A)(i) of the Act, and subject to the determinations below regarding assistance related to the Ebola virus disease and meeting minimum standards for the elimination of trafficking in persons, I determine that the United States will not provide nonhumanitarian, nontrade-related assistance to the Governments of Burundi, China, Equatorial Guinea, Eritrea, The Gambia, Iran, and Mauritania for Fiscal Year (FY) 2020 until such governments comply with the Act’s minimum standards or make significant efforts to bring themselves into compliance with the minimum standards.
 
-As provided for in section 110(d)(1)(A)(ii) of the Act, I determine that the United States will not provide nonhumanitarian, nontrade-related assistance to, or allow funding for participation in educational and cultural exchange programs by officials or employees of, the Governments of Eritrea, the Democratic People’s Republic of Korea (DPRK), Russia, and Syria for FY 2019 until such governments comply with the Act’s minimum standards or make significant efforts to bring themselves into compliance with the Act.
+As provided for in section 110(d)(1)(A)(ii) of the Act, and subject to the determinations below regarding assistance related to the Ebola virus disease and meeting minimum standards for the elimination of trafficking in persons, I determine that the United States will not provide nonhumanitarian, nontrade-related assistance to, or allow funding for participation in educational and cultural exchange programs by officials or employees of, the Governments of Cuba, the Democratic People’s Republic of Korea (DPRK), Russia, and Syria for FY 2020 until such governments comply with the Act’s minimum standards for the elimination of trafficking or make significant efforts to bring themselves into compliance with the minimum standards.
 
-As provided for in section 110(d)(1)(B) of the Act, I hereby instruct the United States Executive Director of each multilateral development bank, as defined in the Act, and of the International Monetary Fund to vote against and use best efforts to deny any loan or other utilization of the funds of the respective institution (other than for humanitarian assistance; for trade-related assistance; or for development assistance that directly addresses basic human needs, is not administered by the government of such country, and confers no benefit to that government) for the Governments of Bolivia, Burma, Burundi, China, Comoros, ROC, DRC, DPRK, Equatorial Guinea, Gabon, Iran, Laos, Mauritania, Russia, South Sudan, Syria, and Venezuela for FY 2019 until such governments comply with the minimum standards or make significant efforts to bring themselves into compliance with the Act.
+As provided for in section 110(d)(1)(B) of the Act, and subject to the determinations below regarding assistance related to the Ebola virus disease and meeting minimum standards for the elimination of trafficking in persons, I hereby instruct the United States Executive Director of each multilateral development bank, as defined in the Act, and of the International Monetary Fund to vote against and use best efforts to deny any loan or other utilization of the funds of the respective institution (other than for humanitarian assistance; for trade-related assistance; or for development assistance that directly addresses basic human needs, is not administered by the government of such country, and confers no benefit to that government) for the Governments of Burundi, China, Cuba, the DPRK, Equatorial Guinea, Eritrea, The Gambia, Iran, Mauritania, Russia, Saudi Arabia, South Sudan, and Syria for FY 2020 until such governments comply with the Act’s minimum standards or make significant efforts to bring themselves into compliance with the minimum standards.
 
-Consistent with section 110(d)(4) of the Act, I determine that a partial waiver to allow International Military Education and Training (IMET), Foreign Military Financing (FMF), and Foreign Military Sales (FMS) related to FMF with respect to Belize would promote the purposes of the Act or is otherwise in the national interest of the United States;
+Consistent with section 110(d)(4) of the Act, I determine that a partial waiver to allow assistance described in section 110(d)(1) of the Act for programs, projects, activities, and assistance to respond to the threat posed by the Ebola virus disease would promote the purposes of the Act or is otherwise in the national interest of the United States;
 
-Consistent with section 110(d)(4) of the Act, I determine that a partial waiver to allow assistance described in section 110(d)(1)(A)(i) of the Act with respect to PNG—with the exception of Peacekeeping Operations (PKO), FMS not related to FMF, and Excess Defense Articles (EDA)—would promote the purposes of the Act or is otherwise in the national interest of the United States;
+Consistent with section 110(d)(4) of the Act, I determine that a partial waiver to allow assistance described in section 110(d)(1) of the Act for programs, projects, activities, and assistance designed to meet the minimum standards for the elimination of trafficking in persons would promote the purposes of the Act or is otherwise in the national interest of the United States;
 
-Consistent with section 110(d)(4) of the Act, I determine that a partial waiver with respect to Eritrea to allow funding for educational and cultural exchange programs described in section 110(d)(1)(A)(ii) of the Act, and a partial waiver to allow assistance described in section 110(d)(1)(A)(ii) of the Act with respect to Eritrea—with the exception of FMF, FMS, IMET, EDA, and PKO—would promote the purposes of the Act or is otherwise in the national interest of the United States;
+Consistent with section 110(d)(4) of the Act, I determine that a partial waiver to allow Economic Support Fund (ESF) assistance, Democracy Fund (DF) assistance, and technical assistance under section 129 of the Foreign Assistance Act of 1961 [[22 U.S.C. 2151aa](./chapter-032-foreign-assistance.md#section-2151aa)] with respect to Burma would promote the purposes of the Act or is otherwise in the national interest of the United States;
 
-Consistent with section 110(d)(4) of the Act, I determine that the provision of all programs, projects, and activities described in section 110(d)(1)(A)(i) of the Act to the Governments of Belarus and Turkmenistan would promote the purposes of the Act or is otherwise in the national interest of the United States; and
+Consistent with section 110(d)(4) of the Act, I determine that a partial waiver to allow assistance described in section 110(d)(1)(A)(i) of the Act with respect to the Democratic Republic of the Congo (DRC)—with the exception of Foreign Military Financing, Foreign Military Sales (FMS), and excess defense articles—would promote the purposes of the Act or is otherwise in the national interest of the United States;
 
-Consistent with section 110(d)(4) of the Act, I determine that providing assistance described in section 110(d)(1)(B) of the Act to Belarus, Belize, Eritrea, PNG, and Turkmenistan would promote the purposes of the Act or is otherwise in the national interest of the United States.
+Consistent with section 110(d)(4) of the Act, I determine that a partial waiver to allow FMS with respect to Saudi Arabia would promote the purposes of the Act or is otherwise in the national interest of the United States;
 
-You are authorized and directed to submit this determination, the certification required by section 110(e) of the Act, and the Department of State’s Memorandum of Justification, on which I have relied, to the Congress, and to publish the determination in the Federal Register.
+Consistent with section 110(d)(4) of the Act, I determine that a partial waiver to allow Peacekeeping Operations (PKO) assistance with respect to South Sudan would promote the purposes of the Act or is otherwise in the national interest of the United States;
+
+Consistent with section 110(d)(4) of the Act, I determine that the provision of all programs, projects, and activities described in section 110(d)(1)(A)(i) of the Act with respect to the Governments of Belarus, Bhutan, Comoros, Papua New Guinea (PNG), Turkmenistan, and Venezuela would promote the purposes of the Act or is otherwise in the national interest of the United States; and
+
+Consistent with section 110(d)(4) of the Act, I determine that providing the assistance described in section 110(d)(1)(B) of the Act to Belarus, Bhutan, Burma, Comoros, the DRC, PNG, Turkmenistan, and Venezuela would promote the purposes of the Act or is otherwise in the national interest of the United States.
+
+You are authorized and directed to submit this determination, the certification required by section 110(e) of the Act, and the Memorandum of Justification, on which I have relied, to the Congress, and to publish the determination in the Federal Register.
 
 Donald J. Trump.
 
 Prior determinations and certifications regarding trafficking in persons were contained in the following:
+
+Determination of President of the United States, No. 2019–05, Nov. 29, 2018, 83 F.R. 65281.
 
 Determination of President of the United States, No. 2017–15, Sept. 30, 2017, 82 F.R. 50047.
 
@@ -2079,6 +2117,9 @@ This chapter, referred to in subsec. (g), was in the original “this division�
 This Act, referred to in subsec. (g)(1), is the Victims of Trafficking and Violence Protection Act of 2000, Pub. L. 106–386, Oct. 28, 2000, 114 Stat. 1464, as amended. For complete classification of this Act to the Code, see Short Title note set out under [section 7101 of this title](./chapter-078-trafficking-victims-protection.md#section-7101) and Tables.
 
 [Section 7102(9)(A) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section7102/9/A&num=0&edition=prelim), referred to in subsec. (g)(2), was redesignated [section 7102(11)(A) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section7102/11/A&num=0&edition=prelim) by Pub. L. 115–427, § 2(1), Jan. 9, 2019, 132 Stat. 5503.
+
+#### References to Diplomatic and Consular Programs Account
+References to the Diplomatic and Consular Programs account to be construed to include the Diplomatic Programs account in fiscal year 2020 and each fiscal year thereafter, see par. (7) of title I of div. G of Pub. L. 116–94, set out as a note under [section 2651 of this title](./chapter-038-department-of-state.md#section-2651).
 
 #### Amendments
 2019—Subsec. (a). Pub. L. 115–425, § 301(1), amended subsec. (a) generally. Prior to amendment, text read as follows: “To carry out the purposes of sections 7103(e), 7103(f) and 7107 of this title, there are authorized to be appropriated to the Secretary of State $2,000,000 for each of the fiscal years 2014 through 2017. In addition, there are authorized to be appropriated to the Office to Monitor and Combat Trafficking $1,500,000 for additional personnel, including regional trafficking in persons officers, for each of the fiscal years 2008 through 2011 for each of the fiscal years 2008 through 2011.”

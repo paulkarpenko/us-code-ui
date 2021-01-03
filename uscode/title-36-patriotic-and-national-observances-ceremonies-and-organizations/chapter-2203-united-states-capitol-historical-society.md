@@ -331,7 +331,7 @@ In subsection (b), the words “In addition to complying with the audit requirem
 2002—Subsec. (b). Pub. L. 107–217 substituted “[section 5108 of title 40](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40-section5108&num=0&edition=prelim)” for “section 451 of the Legislative Reorganization Act of 1970 ([40 U.S.C. 193m–1](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40-section193m–1&num=0&edition=prelim))”.
 
 #### Termination of Reporting Requirements
-For termination, effective May 15, 2000, of reporting provisions in subsec. (a) of this section, see section 3003 of Pub. L. 104–66, as amended, set out as a note under [section 1113 of Title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1113&num=0&edition=prelim), Money and Finance, and page 207 of House Document No. 103–7.
+For termination, effective May 15, 2000, of reporting provisions in subsec. (a) of this section, see section 3003 of Pub. L. 104–66, set out as a note under [section 1113 of Title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1113&num=0&edition=prelim), Money and Finance, and page 207 of House Document No. 103–7.
 
 
 <a id="section-220315"></a>

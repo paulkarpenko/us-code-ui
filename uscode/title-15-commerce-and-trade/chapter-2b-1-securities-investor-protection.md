@@ -300,9 +300,9 @@ Amendment by Pub. L. 111–203 effective 1 day after July 21, 2010, except as ot
 
   (A) *In general* — SIPC may, upon notice to a member of SIPC, file an application for a protective decree with any court of competent jurisdiction specified in section 78u(e) or 78aa of this title, except that no such application shall be filed with respect to a member, the only customers of which are persons whose claims could not be satisfied by SIPC advances pursuant to [section 78fff–3 of this title](./chapter-2b-1-securities-investor-protection.md#section-78fff-3), if SIPC determines that—
 
-  (A) 11 So in original. Probably should be “(i)”. the member (including any person who was a member within one hundred eighty days prior to such determination) has failed or is in danger of failing to meet its obligations to customers; and
+    (A) 11 So in original. Probably should be “(i)”. the member (including any person who was a member within one hundred eighty days prior to such determination) has failed or is in danger of failing to meet its obligations to customers; and
 
-  (B) 22 So in original. Probably should be “(ii)”. one or more of the conditions specified in subsection (b)(1) exist with respect to such member.
+    (B) 22 So in original. Probably should be “(ii)”. one or more of the conditions specified in subsection (b)(1) exist with respect to such member.
 
   (B) *Consent required* — No member of SIPC that has a customer may enter into an insolvency, receivership, or bankruptcy proceeding, under Federal or State law, without the specific consent of SIPC, except as provided in title II of the Dodd-Frank Wall Street Reform and Consumer Protection Act [[12 U.S.C. 5381](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section5381&num=0&edition=prelim) et seq.].
 

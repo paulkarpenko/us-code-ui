@@ -2,7 +2,7 @@
 title: 10
 chapter: '53'
 heading: MISCELLANEOUS RIGHTS AND BENEFITS
-section_count: 42
+section_count: 43
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10&num=0&edition=prelim
 ---
@@ -54,7 +54,7 @@ source: >-
 
 (2) the Secretary of the Navy, with respect to matters concerning the Navy, the Marine Corps, and the Coast Guard when it is operating as a service in the Navy;
 
-(3) the Secretary of the Air Force, with respect to matters concerning the Air Force; and
+(3) the Secretary of the Air Force, with respect to matters concerning the Air Force and the Space Force; and
 
 (4) the Secretary of Defense, with respect to personnel of the Department of Defense.
 
@@ -63,6 +63,8 @@ source: >-
 ### Statutory Notes
 
 #### Amendments
+2021—Subsec. (h)(3). Pub. L. 116–283 inserted “and the Space Force” after “concerning the Air Force”.
+
 2011—Subsec. (e)(1). Pub. L. 111–383, § 1075(b)(15), substituted “three years.” for “3 years,”.
 
 Subsec. (i). Pub. L. 111–383, § 616(1), substituted “December 31, 2011” for “December 31, 2010”.
@@ -204,7 +206,7 @@ Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Gu
 
     (i) a Member of Congress;
 
-    (ii) an Inspector General (as defined in subsection (i)) or any other Inspector General appointed under the Inspector General Act of 1978;
+    (ii) an Inspector General (as defined in subsection (j)) or any other Inspector General appointed under the Inspector General Act of 1978;
 
     (iii) a member of a Department of Defense audit, inspection, investigation, or law enforcement organization;
 
@@ -387,6 +389,8 @@ The words “prevented”, “directly or indirectly”, “concerning any subje
 The Inspector General Act of 1978, referred to in subsecs. (b)(1)(B)(ii) and (f)(2)(B), is Pub. L. 95–452, Oct. 12, 1978, 92 Stat. 1101, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Amendments
+2019—Subsec. (b)(1)(B)(ii). Pub. L. 116–92 substituted “subsection (j)” for “subsection (i)”.
+
 2017—Subsec. (c)(2)(A). Pub. L. 115–91 substituted “section 920, 920b, 920c, or 930 of this title (article 120, 120b, 120c, or 130 of the Uniform Code of Military Justice)” for “sections 920 through 920c of this title (articles 120 through 120c of the Uniform Code of Military Justice)”.
 
 2016—Subsec. (b)(2). Pub. L. 114–328, § 531(a), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “Any action prohibited by paragraph (1) (including the threat to take any unfavorable action, the withholding or threat to withhold any favorable action, or making or threatening to make a significant change in the duties or responsibilities of a member of the armed forces not commensurate with the member’s grade) shall be considered for the purposes of this section to be a personnel action prohibited by this subsection.”
@@ -893,13 +897,15 @@ Active commissioned service in the National Oceanic and Atmospheric Administrati
 
   (A) legal assistance provided under this section; and
 
-  (B) legal assistance contemplated by sections 1044a, 1044b, 1044c, 1044d, 1044e, and 1565b(a)(1)(A) of this title.
+  (B) legal assistance contemplated by sections 1044a, 1044b, 1044c, 1044d, 1044e, 1565b(a)(1)(A), and 2894(b)(4) of this title.
 
 **(e)** The Secretary concerned shall define “dependent” for the purposes of this section.
 
 ### Statutory Notes
 
 #### Amendments
+2019—Subsec. (d)(3)(B). Pub. L. 116–92 substituted “1565b(a)(1)(A), and 2894(b)(4)” for “and 1565b(a)(1)(A)”.
+
 2015—Subsec. (d)(2). Pub. L. 114–92 substituted “satisfies the additional qualifications and training requirements specified in subsection (d)” for “meets the additional qualifications specified in subsection (d)(2)”.
 
 2014—Subsec. (d)(2). Pub. L. 113–291 substituted “such section.” for “such section..”.
@@ -935,12 +941,15 @@ Subsec. (c). Pub. L. 104–201, § 583(b), substituted “uniformed services des
 #### Regulations
 Pub. L. 106–398, § 1 [[div. A], title V, § 524(c)], Oct. 30, 2000, 114 Stat. 1654, 1654A–108, provided that: “Regulations to implement the amendments made by this section [amending this section] shall be prescribed not later than 180 days after the date of the enactment of this Act [Oct. 30, 2000].”
 
+#### Legal Counsel for Victims of Alleged Domestic Violence Offenses
+Pub. L. 116–92, div. A, title V, § 548, Dec. 20, 2019, 133 Stat. 1378, provided that: “(a) In General.—Not later than December 1, 2020, the Secretary of Defense shall carry out a program to provide legal counsel (referred to in this section as ‘Counsel’) to victims of alleged domestic violence offenses who are otherwise eligible for military legal assistance under [section 1044 of title 10](./chapter-053-miscellaneous-rights-and-benefits.md#section-1044), United States Code. “(b) Form of Implementation.—The program required under subsection (a) may be carried out as part of another program of the Department of Defense or through the establishment of a separate program. “(c) Training and Terms.—The Secretary of Defense shall ensure that Counsel—“(1) receive specialized training in legal issues commonly associated with alleged domestic violence offenses; and “(2) to the extent practicable, serve as Counsel for a period of not less than 2 years. “(d) Attorney-client Relationship.—The relationship between a Counsel and a victim in the provision of legal advice and assistance shall be the relationship between an attorney and client. “(e) Paralegal Support.—The Secretary of Defense shall ensure that sufficient trained paralegal support is provided to Counsel under the program. “(f) Report Required.—“(1) In general.—Not later than 120 days after the date of the enactment of this Act [Dec. 20, 2019], the Secretary of Defense shall submit to the Committees on Armed Services of the Senate and the House of Representatives a report on the implementation of the program under subsection (a). “(2) Elements.—The report required under paragraph (1) shall include the following:“(A) A description and assessment of the manner in which the Department of Defense will implement the program required under subsection (a). “(B) An explanation of whether the program will be carried out as part of another program of the Department or through the establishment of a separate program. “(C) A comprehensive description of the additional personnel, resources, and training that will be required to implement the program, including identification of the specific number of additional billets that will be needed to staff the program. “(D) Recommendations for any modifications to law that may be necessary to effectively and efficiently implement the program. “(g) Alleged Domestic Violence Offense Defined.—In this section, the term ‘alleged domestic violence offense’ means any allegation of—“(1) a violation of section 928(b), 928b(1), 928b(5), or 930 of title 10, United States Code (article 128(b), 128b(1), 128b(5), or 130 of the Uniform Code of Military Justice), when committed against a spouse, intimate partner, or immediate family member; “(2) a violation of any other provision of subchapter X of chapter 47 of such title (the Uniform Code of Military Justice), when committed against a spouse, intimate partner, or immediate family member; or “(3) an attempt to commit an offense specified in paragraph (1) or (2) as punishable under section 880 of such title (article 80 of the Uniform Code of Military Justice).”
+
 
 <a id="section-1044a"></a>
 ## § 1044a. Authority to act as notary
 **(a)** The persons named in subsection (b) have the general powers of a notary public and of a consul of the United States in the performance of all notarial acts to be executed by any of the following:
 
-(1) Members of any of the armed forces.
+(1) Members of any of the uniformed services.
 
 (2) Other persons eligible for legal assistance under the provisions of [section 1044 of this title](./chapter-053-miscellaneous-rights-and-benefits.md#section-1044) or regulations of the Department of Defense.
 
@@ -956,7 +965,7 @@ Pub. L. 106–398, § 1 [[div. A], title V, § 524(c)], Oct. 30, 2000, 114 Stat.
 
 (3) All adjutants, assistant adjutants, and personnel adjutants, including reserve members when not in a duty status.
 
-(4) All other members of the armed forces, including reserve members when not in a duty status, who are designated by regulations of the armed forces or by statute to have those powers.
+(4) All other members of the uniformed services, including reserve members when not in a duty status, who are designated by regulations of the uniformed services or by statute to have those powers.
 
 (5) For the performance of notarial acts at locations outside the United States, all employees of a military department or the Coast Guard who are designated by regulations of the Secretary concerned or by statute to have those powers for exercise outside the United States.
 
@@ -969,6 +978,10 @@ Pub. L. 106–398, § 1 [[div. A], title V, § 524(c)], Oct. 30, 2000, 114 Stat.
 ### Statutory Notes
 
 #### Amendments
+2020—Subsec. (a)(1). Pub. L. 116–259, § 205(b)(1)(A), substituted “uniformed services” for “armed forces”.
+
+Subsec. (b)(4). Pub. L. 116–259, § 205(b)(1)(B), substituted “uniformed services” for “armed forces” in two places.
+
 2016—Subsec. (b)(6). Pub. L. 114–328 added par. (6).
 
 2001—Subsec. (b)(2). Pub. L. 107–107, § 1103(a), substituted “legal assistance attorneys” for “legal assistance officers”.
@@ -1189,7 +1202,7 @@ Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Gu
 
   (C) in understanding the availability of, and obtaining any protections offered by, civilian and military protecting or restraining orders; and
 
-  (D) in understanding the eligibility and requirements for, and obtaining, any available military and veteran benefits, such as transitional compensation benefits found in [section 1059 of this title](./chapter-053-miscellaneous-rights-and-benefits.md#section-1059) and other State and Federal victims’ compensation programs.
+  (D) in understanding the eligibility and requirements for, and obtaining, any available military and veteran benefits, such as transitional compensation benefits found in [section 1059 of this title](./chapter-053-miscellaneous-rights-and-benefits.md#section-1059), [section 1408(h) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1408/h&num=0&edition=prelim), and other State and Federal victims’ compensation programs.
 
 (9) Legal consultation and assistance in connection with—
 
@@ -1199,7 +1212,15 @@ Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Gu
 
   (C) any correspondence or other communications with Congress.
 
-(10) Such other legal assistance as the Secretary of Defense (or, in the case of the Coast Guard, the Secretary of the Department in which the Coast Guard is operating) may authorize in the regulations prescribed under subsection (h).
+(10) Legal consultation and assistance in connection with an incident of retaliation, whether such incident occurs before, during, or after the conclusion of any criminal proceedings, including—
+
+  (A) in understanding the rights and protections afforded to victims of retaliation;
+
+  (B) in the filing of complaints; and
+
+  (C) in any resulting military justice proceedings.
+
+(11) Such other legal assistance as the Secretary of Defense (or, in the case of the Coast Guard, the Secretary of the Department in which the Coast Guard is operating) may authorize in the regulations prescribed under subsection (i).
 
 **(c) Nature of Relationship.—** The relationship between a Special Victims’ Counsel and a victim in the provision of legal advice and assistance shall be the relationship between an attorney and client.
 
@@ -1219,7 +1240,7 @@ Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Gu
 
 **(e) Administrative Responsibility.—**
 
-(1) Consistent with the regulations prescribed under subsection (h), the Judge Advocate General (as defined in [section 801(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section801/1&num=0&edition=prelim)) under the jurisdiction of the Secretary concerned, and within the Marine Corps the Staff Judge Advocate to the Commandant of the Marine Corps, is responsible for the establishment and supervision of individuals designated as Special Victims’ Counsel.
+(1) Consistent with the regulations prescribed under subsection (i), the Judge Advocate General (as defined in [section 801(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section801/1&num=0&edition=prelim)) under the jurisdiction of the Secretary concerned, and within the Marine Corps the Staff Judge Advocate to the Commandant of the Marine Corps, is responsible for the establishment and supervision of individuals designated as Special Victims’ Counsel.
 
 (2) The Secretary of Defense (and, in the case of the Coast Guard, the Secretary of the Department in which the Coast Guard is operating) shall conduct a periodic evaluation of the Special Victims’ Counsel programs operated under this section.
 
@@ -1243,17 +1264,38 @@ Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Gu
 
 (3) The assistance of a Special Victims’ Counsel under this subsection shall be available to an individual described in subsection (a)(2) regardless of whether the individual elects unrestricted or restricted reporting of the alleged sex-related offense. The individual shall also be informed that the assistance of a Special Victims’ Counsel may be declined, in whole or in part, but that declining such assistance does not preclude the individual from subsequently requesting the assistance of a Special Victims’ Counsel.
 
-**(g) Alleged Sex-related Offense Defined.—** In this section, the term “alleged sex-related offense” means any allegation of—
+(4)
+
+  (A) Subject to subparagraph (B), if a Special Victims’ Counsel is not available at a military installation for access by a member of the armed forces who requests access to a Special Victims’ Counsel, a Special Victims’ Counsel shall be made available at such installation for access by such member by not later than 72 hours after such request.
+
+  (B) If the Secretary concerned determines that, due to exigent circumstances related to military activities, a Special Victims’ Counsel cannot be made available to a member of the armed forces within the time period required by subparagraph (A), the Secretary concerned shall ensure that a Special Victims’ Counsel is made available to such member as soon as is practical under such circumstances.
+
+**(g) Staffing Caseload Levels.—** Commencing not later than four years after the date of the enactment of the National Defense Authorization Act for Fiscal Year 2020, each Secretary concerned shall ensure that the number of Special Victims’ Counsel 11 So in original. Probably should be “Counsels”. serving in each military department (and with respect to the Coast Guard) is sufficient to ensure that the average caseload of a Special Victims’ Counsel does not exceed, to the extent practicable, 25 cases any given time.
+
+**(h) Alleged Sex-related Offense Defined.—** In this section, the term “alleged sex-related offense” means any allegation of—
 
 (1) a violation of section 920, 920b, 920c, or 930 of this title (article 120, 120b, 120c, or 130 of the Uniform Code of Military Justice); or
 
 (2) an attempt to commit an offense specified in a paragraph (1) as punishable under [section 880 of this title](./chapter-047-uniform-code-of-military-justice.md#section-880) (article 80 of the Uniform Code of Military Justice).
 
-**(h) Regulations.—** The Secretary of Defense and the Secretary of the Department in which the Coast Guard is operating shall prescribe regulations to carry out this section.
+**(i) Regulations.—** The Secretary of Defense and the Secretary of the Department in which the Coast Guard is operating shall prescribe regulations to carry out this section.
 
 ### Statutory Notes
 
+#### References in Text
+The date of the enactment of the National Defense Authorization Act for Fiscal Year 2020, referred to in subsec. (g), is the date of enactment of Pub. L. 116–92 which was approved Dec. 20, 2019.
+
 #### Amendments
+2021—Subsecs. (b)(11), (e). Pub. L. 116–283 substituted “subsection (i)” for “subsection (h)”.
+
+2019—Subsec. (b)(8)(D). Pub. L. 116–92, § 541(a), substituted “, [section 1408(h) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1408/h&num=0&edition=prelim), and other” for “and other”.
+
+Subsec. (b)(10), (11). Pub. L. 116–92, § 541(b), added par. (10) and redesignated former par. (10) as (11).
+
+Subsec. (f)(4). Pub. L. 116–92, § 542(a), added par. (4).
+
+Subsecs. (g) to (i). Pub. L. 116–92, § 541(c), added subsec. (g) and redesignated former subsecs. (g) and (h) as (h) and (i), respectively.
+
 2017—Subsec. (g)(1). Pub. L. 115–91 substituted “920b, 920c, or 930” for “920a, 920b, 920c, or 925” and “120b, 120c, or 130” for “120a, 120b, 120c, or 125”.
 
 2015—Subsec. (a)(2)(C). Pub. L. 114–92, § 532, added subpar. (C).
@@ -1281,11 +1323,17 @@ Subsec. (f). Pub. L. 113–291, § 533(b), substituted “described in subsectio
 #### Effective Date of 2017 Amendment
 Amendment by Pub. L. 115–91 effective immediately after the amendments made by div. E (§§ 5001–5542) of Pub. L. 114–328 take effect as provided for in section 5542 of that Act ([10 U.S.C. 801](./chapter-047-uniform-code-of-military-justice.md#section-801) note), see section 1081(c)(4) of Pub. L. 115–91, set out as a note under [section 801 of this title](./chapter-047-uniform-code-of-military-justice.md#section-801).
 
+#### Notification of Significant Events and Documentation of Preference for Prosecution Jurisdiction for Victims of Sexual Assault
+Pub. L. 116–92, div. A, title V, § 538, Dec. 20, 2019, 133 Stat. 1363, provided that: “(a) Notification to Victims of Events in Military Justice Process.—“(1) Notification required.—A member of the Armed Forces who is the victim of an alleged sexual assault by another member of the Armed Forces shall receive notification of each significant event in the military justice process that relates to the investigation, prosecution, and confinement of such other member for such assault. “(2) Documentation.—Appropriate documentation of each notification made pursuant to paragraph (1) shall be created and maintained in an appropriate system of records of the military department concerned. “(b) Documentation of Victim’s Preference for Prosecution Jurisdiction.—In the case of a member of the Armed Forces who is the victim of an alleged sexual assault committed by another member of the Armed Forces who is subject to prosecution for such offense both by court-martial under chapter 47 of title 10, United States Code (the Uniform Code of Military Justice), and by a civilian court under Federal or State law, appropriate documentation of the preference, if any, of such victim for prosecution of such offense by court-martial or by a civilian court as provided for by Rule for Courts-Martial 306(e) (as set forth in the Manual for Courts-Martial, 2019 edition, or any successor rule), shall be created and maintained in an appropriate system of records of the military department concerned. “(c) Regulations.—Not later than 180 days after the date of the enactment of this Act [Dec. 20, 2019], the Secretary of Defense shall prescribe regulations implementing this section.”
+
+#### Training for Special Victims’ Counsel on Civilian Criminal Justice Matters in the States of the Military Installations to Which Assigned
+Pub. L. 116–92, div. A, title V, § 550C, Dec. 20, 2019, 133 Stat. 1382, provided that: “(a) Training.—“(1) In general.—Except as provided in subsection (c), upon the assignment of a Special Victims’ Counsel (including a Victim Legal Counsel of the Navy) to a military installation in the United States, such Counsel shall be provided appropriate training on the law and policies of the State or States in which such military installation is located with respect to the criminal justice matters specified in paragraph (2). The purpose of the training is to assist such Counsel in providing victims of alleged sex-related offenses with information necessary to make an informed decision regarding preference as to the jurisdiction (whether court-martial or State court) in which such offenses will be prosecuted. “(2) Criminal justice matters.—The criminal justice matters specified in this paragraph, with respect to a State, are the following:“(A) Victim rights. “(B) Prosecution of criminal offenses. “(C) Sentencing for conviction of criminal offenses. “(D) Protective orders. “(b) Alleged Sex-related Offense Defined.—In this section, the term ‘alleged sex-related offense’ means any allegation of—“(1) a violation of section 920, 920b, 920c, or 930 of title 10, United States Code (article 120, 120b, 120c, or 130 of the Uniform Code of Military Justice); or “(2) an attempt to commit an offense specified in a paragraph (1) as punishable under [section 880 of title 10](./chapter-047-uniform-code-of-military-justice.md#section-880), United States Code (article 80 of the Uniform Code of Military Justice). “(c) Exception.—The requirements of this section do not apply to a Special Victims’ Counsel of the Coast Guard.”
+
 #### Special Victims’ Counsel Training Regarding the Unique Challenges Often Faced by Male Victims of Sexual Assault
 Pub. L. 115–91, div. A, title V, § 536, Dec. 12, 2017, 131 Stat. 1392, provided that: “The baseline Special Victims’ Counsel training established under [section 1044e(d)(2) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1044e/d/2&num=0&edition=prelim), United States Code, shall include training for Special Victims’ Counsel to recognize and deal with the unique challenges often faced by male victims of sexual assault.”
 
 #### Enhancement of Victims’ Rights in Connection With Prosecution of Certain Sex-Related Offenses
-Pub. L. 113–291, div. A, title V, § 534(b)–(e), Dec. 19, 2014, 128 Stat. 3367, 3368, provided that: “(b) Consultation Regarding Victim’s Preference in Prosecution Venue.—“(1) Consultation process required.—The Secretary of Defense shall establish a process to ensure consultation with the victim of an alleged sex-related offense that occurs in the United States to solicit the victim’s preference regarding whether the offense should be prosecuted by court-martial or in a civilian court with jurisdiction over the offense. “(2) Convening authority consideration of preference.—The preference expressed by the victim of an alleged sex-related offense under paragraph (1) regarding the prosecution of the offense, while not binding, should be considered by the convening authority in making the determination regarding whether to refer the charge or specification for the offense to a court-martial for trial. “(3) Notice to appropriate jurisdiction of victim’s preference for civilian prosecution.—If the victim of an alleged sex-related offense expresses a preference under paragraph (1) for prosecution of the offense in a civilian court, the convening authority described in paragraph (2) shall ensure that the civilian authority with jurisdiction over the offense is notified of the victim’s preference for civilian prosecution. “(4) Notice to victim of status of civilian prosecution when victim expresses preference for civilian prosecution.—Following notification of the civilian authority with jurisdiction over an alleged sex-related offense of the preference of the victim of the offense for prosecution of the offense in a civilian court, the convening authority shall be responsible for notifying the victim if the convening authority learns of any decision by the civilian authority to prosecute or not prosecute the offence in a civilian court. “(c) Modification of Manual for Courts-Martial.—Not later than 180 days after the date of the enactment of this Act [Dec. 19, 2014], Part III of the Manual for Courts-Martial shall be modified to provide that when a victim of an alleged sex-related offense has a right to be heard in connection with the prosecution of the alleged sex-related such offense, the victim may exercise that right through counsel, including through a Special Victims’ Counsel under [section 1044e of title 10](./chapter-053-miscellaneous-rights-and-benefits.md#section-1044e), United States Code (as amended by subsection (a)). “(d) Notice to Counsel on Scheduling of Proceedings.—The Secretary concerned shall establish policies and procedures designed to ensure that any counsel of the victim of an alleged sex-related offense, including a Special Victims’ Counsel under [section 1044e of title 10](./chapter-053-miscellaneous-rights-and-benefits.md#section-1044e), United States Code (as amended by subsection (a)), is provided prompt and adequate notice of the scheduling of any hearing, trial, or other proceeding in connection with the prosecution of such offense in order to permit such counsel the opportunity to prepare for such proceeding. “(e) Definitions.—In this section:“(1) The term ‘alleged sex-related offense’ has the meaning given that term in [section 1044e(g) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1044e/g&num=0&edition=prelim), United States Code. “(2) The term ‘Secretary concerned’ has the meaning given that term in section 101(a)(9) of such title.”
+Pub. L. 113–291, div. A, title V, § 534(b)–(e), Dec. 19, 2014, 128 Stat. 3367, 3368, provided that: “(b) Consultation Regarding Victim’s Preference in Prosecution Venue.—“(1) Consultation process required.—The Secretary of Defense shall establish a process to ensure consultation with the victim of an alleged sex-related offense that occurs in the United States to solicit the victim’s preference regarding whether the offense should be prosecuted by court-martial or in a civilian court with jurisdiction over the offense. “(2) Convening authority consideration of preference.—The preference expressed by the victim of an alleged sex-related offense under paragraph (1) regarding the prosecution of the offense, while not binding, should be considered by the convening authority in making the determination regarding whether to refer the charge or specification for the offense to a court-martial for trial. “(3) Notice to appropriate jurisdiction of victim’s preference for civilian prosecution.—If the victim of an alleged sex-related offense expresses a preference under paragraph (1) for prosecution of the offense in a civilian court, the convening authority described in paragraph (2) shall ensure that the civilian authority with jurisdiction over the offense is notified of the victim’s preference for civilian prosecution. “(4) Notice to victim of status of civilian prosecution when victim expresses preference for civilian prosecution.—Following notification of the civilian authority with jurisdiction over an alleged sex-related offense of the preference of the victim of the offense for prosecution of the offense in a civilian court, the convening authority shall be responsible for notifying the victim if the convening authority learns of any decision by the civilian authority to prosecute or not prosecute the offence in a civilian court. “(c) Modification of Manual for Courts-Martial.—Not later than 180 days after the date of the enactment of this Act [Dec. 19, 2014], Part III of the Manual for Courts-Martial shall be modified to provide that when a victim of an alleged sex-related offense has a right to be heard in connection with the prosecution of the alleged sex-related such offense, the victim may exercise that right through counsel, including through a Special Victims’ Counsel under [section 1044e of title 10](./chapter-053-miscellaneous-rights-and-benefits.md#section-1044e), United States Code (as amended by subsection (a)). “(d) Notice to Counsel on Scheduling of Proceedings.—The Secretary concerned shall establish policies and procedures designed to ensure that any counsel of the victim of an alleged sex-related offense, including a Special Victims’ Counsel under [section 1044e of title 10](./chapter-053-miscellaneous-rights-and-benefits.md#section-1044e), United States Code (as amended by subsection (a)), is provided prompt and adequate notice of the scheduling of any hearing, trial, or other proceeding in connection with the prosecution of such offense in order to permit such counsel the opportunity to prepare for such proceeding. “(e) Definitions.—In this section:“(1) The term ‘alleged sex-related offense’ has the meaning given that term in section 1044e(g) [now 1044e(h)] of title 10, United States Code. “(2) The term ‘Secretary concerned’ has the meaning given that term in section 101(a)(9) of such title.”
 
 #### Implementation
 Pub. L. 113–66, div. A, title XVII, § 1716(a)(4), Dec. 26, 2013, 127 Stat. 969, provided that: “[Section 1044e of title 10](./chapter-053-miscellaneous-rights-and-benefits.md#section-1044e), United States Code, as added by paragraph (1), shall be implemented within 180 days after the date of the enactment of this Act [Dec. 26, 2013].”
@@ -2310,17 +2358,29 @@ Pub. L. 103–160, div. A, title V, § 551(b), Nov. 30, 1993, 107 Stat. 1662, pr
 
 (3) who is 18 years of age or older but less than 23 years of age, is enrolled in a full-time course of study in an institution of higher learning approved by the Secretary of Defense and who is (or, at the time a punitive or other adverse action was executed in the case of the former member as described in subsection (b), was) dependent on the former member for over one-half of the child’s support.
 
-**(m) Exceptional Eligibility for Dependents of Former Members.—**
+**(m) Exceptional Eligibility for Dependents of Members or Former Members.—**
 
-(1) The Secretary concerned, under regulations prescribed under subsection (k), may authorize eligibility for benefits under this section for dependents and former dependents of a former member of the armed forces in a case in which the dependents or former dependents are not otherwise eligible for such benefits and the Secretary concerned determines that the former member engaged in conduct that is a dependent-abuse offense under this section and the former member was separated from active duty other than as described in subsection (b).
+(1) The Secretary concerned, under regulations prescribed under subsection (k), may authorize eligibility for benefits under this section for dependents and former dependents of a member or former member of the armed forces in a case in which the dependents or former dependents are not otherwise eligible for such benefits and the Secretary concerned determines that the member or former member engaged in conduct that is a dependent-abuse offense under this section and the member or former member was separated from active duty other than as described in subsection (b).
 
-(2) In a case in which the Secretary concerned, under the authority of paragraph (1), authorizes benefits to be provided under this section, such benefits shall be provided in the same manner as if the former member were an individual described in subsection (b), except that, under regulations prescribed under subsection (k), the Secretary shall make such adjustments to the commencement and duration of payment provisions of subsection (e), and may make adjustments to other provisions of this section, as the Secretary considers necessary in light of the circumstances in order to provide benefits substantially equivalent to the benefits provided in the case of an individual described in subsection (b).
+(2) In a case in which the Secretary concerned, under the authority of paragraph (1), authorizes benefits to be provided under this section, such benefits shall be provided in the same manner as if the member or former member were an individual described in subsection (b), except that, under regulations prescribed under subsection (k), the Secretary shall make such adjustments to the commencement and duration of payment provisions of subsection (e), and may make adjustments to other provisions of this section, as the Secretary considers necessary in light of the circumstances in order to provide benefits substantially equivalent to the benefits provided in the case of an individual described in subsection (b).
 
-(3) The authority of the Secretary concerned under paragraph (1) may not be delegated.
+(3) For purposes of the provision of benefits under this section pursuant to this subsection, a member shall be considered separated from active duty upon the earliest of—
+
+  (A) the date an administrative separation is initiated by a commander of the member;
+
+  (B) the date the court-martial sentence is adjudged if the sentence, as adjudged, includes a dismissal, dishonorable discharge, bad conduct discharge, or forfeiture of all pay and allowances; or
+
+  (C) the date the member’s term of service expires.
+
+(4) The authority of the Secretary concerned under paragraph (1) may not be delegated.
 
 ### Statutory Notes
 
 #### Amendments
+2019—Subsec. (m). Pub. L. 116–92, § 621(1), (2), inserted “Members or” before “Former Members” in heading and “member or” before “former member” wherever appearing in pars. (1) and (2).
+
+Subsec. (m)(3), (4). Pub. L. 116–92, § 621(3), (4), added par. (3) and redesignated former par. (3) as (4).
+
 2017—Subsec. (e)(1)(A)(ii). Pub. L. 115–91, § 531(l)(1), substituted “the date of entry of judgment under [section 860c of this title](./chapter-047-uniform-code-of-military-justice.md#section-860c) (article 60c of the Uniform Code of Military Justice) if the sentence includes” for “the date of the approval of the court-martial sentence by the person acting under [section 860(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section860/c&num=0&edition=prelim) (article 60(c) of the Uniform Code of Military Justice) if the sentence, as approved, includes”.
 
 Subsec. (e)(3)(A). Pub. L. 115–91, § 531(l)(2), substituted “conviction for a dependent-abuse offense and the conviction is disapproved or is otherwise not part of the judgment under [section 860c of this title](./chapter-047-uniform-code-of-military-justice.md#section-860c) (article 60c of the Uniform Code of Military Justice) or the punishment is disapproved or is otherwise not part of the judgment under such section (article),” for “conviction by a court-martial for a dependent-abuse offense and each such conviction is disapproved by the person acting under [section 860(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section860/c&num=0&edition=prelim) (article 60(c) of the Uniform Code of Military Justice) or set aside, or each such punishment applicable to the member under the sentence is disapproved by the person acting under [section 860(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section860/c&num=0&edition=prelim), remitted, set aside, suspended, or mitigated to a lesser punishment that does not include any such punishment,”.
@@ -2571,3 +2631,35 @@ Subsec. (a). Pub. L. 109–364, § 598(a), amended heading and text of subsec. (
 
 #### Effective Date
 Pub. L. 108–375, div. A, title V, § 583(b), Oct. 28, 2004, 118 Stat. 1929, provided that: “[Section 1060b of title 10](./chapter-053-miscellaneous-rights-and-benefits.md#section-1060b), United States Code, as added by subsection (a), shall take effect on October 1, 2004.”
+
+
+<a id="section-1060c"></a>
+## § 1060c. Provision of veterinary services in emergencies
+**(a) In General.—** A veterinary professional described in subsection (b) may provide veterinary services for the purposes described in subsection (c) in any State, the District of Columbia, or a territory or possession of the United States, without regard to where such veterinary professional or the patient animal are located, if the provision of such services is within the scope of the authorized duties of such veterinary professional for the Department of Defense.
+
+**(b) Veterinary Professional Described.—** A veterinary professional described in this subsection is an individual who is—
+
+(1)
+
+  (A) a member of the armed forces, a civilian employee of the Department of Defense, or otherwise credentialed and privileged at a Federal veterinary institution or location designated by the Secretary of Defense for purposes of this section; or
+
+  (B) a member of the National Guard performing training or duty under [section 502(f) of title 32](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title32-section502/f&num=0&edition=prelim);
+
+(2) certified as a veterinary professional by a certification recognized by the Secretary of Defense; and
+
+(3) currently licensed by a State, the District of Columbia, or a territory or possession of the United States to provide veterinary services.
+
+**(c) Purposes Described.—** The purposes described in this subsection are veterinary services in response to any of the following:
+
+(1) A national emergency declared by the President pursuant to the National Emergencies Act ([50 U.S.C. 1601](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1601&num=0&edition=prelim) et seq.).
+
+(2) A major disaster or an emergency (as those terms are defined in section 102 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act ([42 U.S.C. 5122](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5122&num=0&edition=prelim))).
+
+(3) A public health emergency declared by the Secretary of Health and Human Services under section 319 of the Public Health Service Act ([42 U.S.C. 247d](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section247d&num=0&edition=prelim)).
+
+(4) An extraordinary emergency, as determined by the Secretary of Agriculture under section 10407(b) of the Animal Health Protection Act ([7 U.S.C. 8306(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section8306/b&num=0&edition=prelim)).
+
+### Statutory Notes
+
+#### References in Text
+The National Emergencies Act, referred to in subsec. (c)(1), is Pub. L. 94–412, Sept. 14, 1976, 90 Stat. 1255, which is classified principally to chapter 34 (§ 1601 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under [section 1601 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1601&num=0&edition=prelim) and Tables.

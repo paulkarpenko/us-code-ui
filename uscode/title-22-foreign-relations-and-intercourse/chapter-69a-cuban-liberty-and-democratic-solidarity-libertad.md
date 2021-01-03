@@ -861,7 +861,7 @@ The policy of the United States is as follows:
 
     (iii) financing, guarantees, and other forms of assistance provided by the Export-Import Bank of the United States;
 
-    (iv) financial support provided by the Overseas Private Investment Corporation for investment projects in Cuba;
+    (iv) financial support provided by the United States International Development Finance Corporation for investment projects in Cuba;
 
     (v) assistance provided by the Trade and Development Agency;
 
@@ -899,16 +899,13 @@ The policy of the United States is as follows:
 
     (iii) negotiations regarding free trade, including the accession of Cuba to the North American Free Trade Agreement;
 
-  (C) specific trade negotiating objectives of the United States with respect to Cuba, including the objectives described in [section 3317(b)(5) of title 19](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section3317/b/5&num=0&edition=prelim); and
+  (C) specific trade negotiating objectives of the United States with respect to Cuba, including the objectives described in section 108(b)(5) of the North American Free Trade Agreement Implementation Act ([19 U.S.C. 3317(b)(5)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section3317/b/5&num=0&edition=prelim)); 11 See References in Text note below. and
 
   (D) actions proposed or anticipated to be undertaken, and any proposed legislation necessary or appropriate, to achieve any of such policy and negotiating objectives.
 
 (2) **Consultation** — The President shall consult with the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate and the appropriate congressional committees and shall seek advice from the appropriate advisory committees established under section 135 of the Trade Act of 1974 [[19 U.S.C. 2155](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section2155&num=0&edition=prelim)] regarding the policy and negotiating objectives and the legislative proposals described in paragraph (1).
 
 ### Statutory Notes
-
-#### Amendment of Subsection (b)(2)(B)(iv)
-Pub. L. 115–254, div. F, title VI, § 1470(n), (w), Oct. 5, 2018, 132 Stat. 3518, 3519, provided that, effective at the end of the transition period, as defined in [section 9681 of this title](./chapter-103-better-utilization-of-investments-leading-to-development.md#section-9681), subsection (b)(2)(B)(iv) of this section is amended by striking “Overseas Private Investment Corporation” and inserting “United States International Development Finance Corporation”. See 2018 Amendment note below.
 
 #### References in Text
 The Foreign Assistance Act of 1961, referred to in subsec. (b)(2)(B)(i), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, as amended. Chapter 1 of part I and chapter 4 of part II of the Act are classified generally to part I (§ 2151 et seq.) of subchapter I and part IV (§ 2346 et seq.) of subchapter II, respectively, of chapter 32 of this title. For provisions deeming references to part I of subchapter I to include a reference to [section 2293 of this title](./chapter-032-foreign-assistance.md#section-2293), see [section 2293(d)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2293/d/1&num=0&edition=prelim). For complete classification of this Act to the Code, see Short Title note set out under [section 2151 of this title](./chapter-032-foreign-assistance.md#section-2151) and Tables.
@@ -920,6 +917,8 @@ This chapter, referred to in subsec. (e)(1), was in the original “this Act”,
 The Trade Act of 1974, referred to in subsec. (h)(1)(B)(ii), is Pub. L. 93–618, Jan. 3, 1975, 88 Stat. 1978, as amended. Title V of the Act is classified generally to subchapter V (§ 2461 et seq.) of chapter 12 of Title 19, Customs Duties. For complete classification of this Act to the Code, see [section 2101 of Title 19](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section2101&num=0&edition=prelim) and Tables.
 
 The Caribbean Basin Economic Recovery Act, referred to in subsec. (h)(1)(B)(ii), is title II of Pub. L. 98–67, Aug. 5, 1983, 97 Stat. 384, which is classified principally to chapter 15 (§ 2701 et seq.) of Title 19. For complete classification of this Act to the Code, see Short Title note set out under [section 2701 of Title 19](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section2701&num=0&edition=prelim) and Tables.
+
+Section 108(b)(5) of the North American Free Trade Agreement Implementation Act, referred to in subsec. (b)(5)(D)(ii), is section 108(b)(5) of Pub. L. 103–182, which was classified to [section 3317(b)(5) of Title 19](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section3317/b/5&num=0&edition=prelim), Customs Duties, prior to repeal by Pub. L. 116–113, title VI, § 601, Jan. 29, 2020, 134 Stat. 78, effective on the date the USMCA entered into force (July 1, 2020).
 
 #### Amendments
 2018—Subsec. (b)(2)(B)(iv). Pub. L. 115–254 substituted “United States International Development Finance Corporation” for “Overseas Private Investment Corporation”.

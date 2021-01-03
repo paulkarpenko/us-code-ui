@@ -2,42 +2,39 @@
 title: 10
 chapter: '251'
 heading: SIMPLIFIED ACQUISITION PROCEDURES
-section_count: 1
+section_count: 3
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10&num=0&edition=prelim
 ---
-<a id="section-3551"></a>
-## § 3551. [Reserved]
+<a id="section-3571"></a>
+## § 3571. Simplified acquisition threshold
+**(a) Simplified Acquisition Threshold.—** For purposes of acquisitions by agencies named in [section 3063 of this title](./chapter-203-general-matters.md#section-3063), the simplified acquisition threshold is as specified in [section 134 of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section134&num=0&edition=prelim).
 
-[Reserved]
+**(b) Inapplicable Laws.—** No law properly listed in the Federal Acquisition Regulation pursuant to [section 1905 of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section1905&num=0&edition=prelim) shall apply to or with respect to a contract or subcontract that is not greater than the simplified acquisition threshold.
 
 ### Statutory Notes
 
-#### Prior Provisions
-A prior section 3571, acts Aug. 10, 1956, ch. 1041, 70A Stat. 204; Sept. 2, 1958, Pub. L. 85–861, § 1(85), 72 Stat. 1481; June 30, 1960, Pub. L. 86–559, § 1(21), 74 Stat. 271, provided that commissioned officers of the Army on active duty in the same grade rank among themselves according to date of rank and specified procedures for determining date of rank, prior to repeal by Pub. L. 96–513, title II, § 211, title VII, § 701, Dec. 12, 1980, 94 Stat. 2885, 2955, effective Sept. 15, 1981. See [section 741 of this title](./chapter-043-rank-and-command.md#section-741).
+#### Effective Date of 2021 Amendment
+Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
 
-A prior section 3572 was renumbered [section 7222 of this title](./chapter-725-rank-and-command.md#section-7222).
 
-Prior sections 3573 and 3574 were repealed by Pub. L. 96–513, title II, § 211, title VII, § 701, Dec. 12, 1980, 94 Stat. 2885, 2955, effective Sept. 15, 1981.
+<a id="section-3572"></a>
+## § 3572. Implementation of simplified acquisition procedures
 
-Section 3573, act Aug. 10, 1956, ch. 1041, 70A Stat. 204, specified the date of rank of an officer whose regular grade is brigadier general and the date of rank of an officer whose regular grade is major general and provided that the names of general officers of the Regular Army be carried on a seniority list in the order of seniority in both regular grade and date of rank. See [section 741 of this title](./chapter-043-rank-and-command.md#section-741).
+The simplified acquisition procedures contained in the Federal Acquisition Regulation pursuant to [section 1901 of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section1901&num=0&edition=prelim) shall apply as provided in such section to the agencies named in [section 3063 of this title](./chapter-203-general-matters.md#section-3063).
 
-Section 3574, acts Aug. 10, 1956, ch. 1041, 70A Stat. 205; Sept. 2, 1958, Pub. L. 85–861, §§ 1(86), 33(a)(24), 72 Stat. 1481, 1565, provided for determination of rank of commissioned officers of the same grade in the Regular Army who are on the same promotion list, rank of commissioned officers of the same grade in the Regular Army who are not on the same promotion list or not on a promotion list, and rank among graduates of each class at the United States Military, Naval, or Air Force Academies who, upon graduation, are appointed to the Regular Army. See [section 741 of this title](./chapter-043-rank-and-command.md#section-741).
+### Statutory Notes
 
-A prior section 3575 was renumbered [section 7225 of this title](./chapter-725-rank-and-command.md#section-7225).
+#### Effective Date of 2021 Amendment
+Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
 
-Prior sections 3576 and 3578 were repealed by Pub. L. 90–235, § 5(a)(2), Jan. 2, 1968, 81 Stat. 761.
 
-Section 3576, act Aug. 10, 1956, ch. 1041, 70A Stat. 205, provided for command when different commands of the Army and Marine Corps joined or served together. See [section 747 of this title](./chapter-043-rank-and-command.md#section-747).
+<a id="section-3573"></a>
+## § 3573. Micro-purchase threshold
 
-Section 3578, act Aug. 10, 1956, ch. 1041, 70A Stat. 205, provided for command when two or more commissioned officers of the Army in the same grade were on duty at the same place. See [section 749 of this title](./chapter-043-rank-and-command.md#section-749).
+The micro-purchase threshold for the Department of Defense is $10,000.
 
-A prior section 3579 was renumbered [section 7229 of this title](./chapter-725-rank-and-command.md#section-7229).
+### Statutory Notes
 
-A prior section 3580, act Aug. 10, 1956, ch. 1041, 70A Stat. 206, provided that the Secretary of the Army prescribe the military authority that commissioned officers of the Women’s Army Corps may exercise, prior to repeal by Pub. L. 95–485, title VIII, § 820(f), Oct. 20, 1978, 92 Stat. 1627.
-
-A prior section 3581 was renumbered [section 7231 of this title](./chapter-725-rank-and-command.md#section-7231).
-
-A prior section 3582, act Aug. 10, 1956, ch. 1041, 70A Stat. 206, provided that a retired officer has no right to command except when on active duty, prior to repeal by Pub. L. 96–513, title II, § 211, title VII, § 701, Dec. 12, 1980, 94 Stat. 2885, 2955, effective Sept. 15, 1981. See [section 750 of this title](./chapter-043-rank-and-command.md#section-750).
-
-A prior section 3583 was renumbered [section 7233 of this title](./chapter-725-rank-and-command.md#section-7233).
+#### Effective Date of 2021 Amendment
+Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).

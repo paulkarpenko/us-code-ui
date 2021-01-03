@@ -275,7 +275,7 @@ Secretary means the Secretary of the Interior, see section 2 of Pub. L. 116–9,
 ### Statutory Notes
 
 #### References in Text
-The Federal Land Policy and Management Act of 1976, referred to in subsec. (a)(3)(D), is Pub. L. 94–579, Oct. 21, 1976, 90 Stat. 2743. For complete classification of this Act to the Code, see Short Title note set out under [section 1701 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1701&num=0&edition=prelim), Public Lands, and Tables.
+The Federal Land Policy and Management Act of 1976, referred to in subsec. (a)(3)(D), is Pub. L. 94–579, Oct. 21, 1976, 90 Stat. 2743, which is classified principally to chapter 35 (§ 1701 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under [section 1701 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1701&num=0&edition=prelim), Public Lands, and Tables.
 
 #### Definition of “Secretary”
 Secretary means the Secretary of the Interior, see section 2 of Pub. L. 116–9, set out as a note under [section 1 of this title](./chapter-001-national-parks-military-parks-monuments-and-seashores.md#section-1).

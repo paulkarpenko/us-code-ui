@@ -560,7 +560,13 @@ Committee on Oversight and Government Reform of House of Representatives changed
 
   (C) opportunities for any covered person to submit comments pertaining to information about the person for inclusion in the database.
 
-(3) **Information on corporations.—** — The information in the database on a person that is a corporation shall, to the extent practicable, include information on any parent, subsidiary, or successor entities to the corporation in a manner designed to give the acquisition officials using the database a comprehensive understanding of the performance and integrity of the corporation in carrying out Federal contracts and grants.
+(3) **Information on corporations.—** — The information in the database on a person that is a corporation shall, to the extent practicable, include information on any parent, subsidiary, or successor entities to the corporation, and an identification of any beneficial owner of such corporation, in a manner designed to give the acquisition officials using the database a comprehensive understanding of the performance and integrity of the corporation in carrying out Federal contracts and grants.
+
+(4) **Definitions.—** — In this subsection:
+
+  (A) *Beneficial ownership.—* — The term “beneficial ownership” has the meaning given under section 847 of the National Defense Authorization Act for Fiscal Year 2020 (Public Law 116–92; 133 Stat. 1505; [10 U.S.C. 2509](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2509&num=0&edition=prelim) note).
+
+  (B) *Corporation.—* — The term “corporation” means any corporation, company, limited liability company, limited partnership, business trust, business association, or other similar entity.
 
 **(e) Use of Database.—**
 
@@ -604,6 +610,10 @@ In subsection (f)(2), the words “the information submitted under paragraph (1)
 Section 1704(b) of the National Defense Authorization Act for Fiscal Year 2013, referred to in subsec. (c)(1)(E)(ii), is section 1704(b) of Pub. L. 112–239, which is classified to [section 7104b(b) of Title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section7104b/b&num=0&edition=prelim), Foreign Relations and Intercourse.
 
 #### Amendments
+2021—Subsec. (d)(3). Pub. L. 116–283, § 885(1), inserted “, and an identification of any beneficial owner of such corporation,” after “to the corporation”.
+
+Subsec. (d)(4). Pub. L. 116–283, § 885(2), added par. (4).
+
 2014—Subsec. (c)(8). Pub. L. 113–291 added par. (8).
 
 2013—Subsec. (c)(1)(E). Pub. L. 112–239, § 1704(d)(2), amended subpar. (E) generally. Prior to amendment, subpar. (E), as added by Pub. L. 111–383, § 834(d), read as follows: “(E) In an administrative proceeding, a final determination of contractor fault by the Secretary of Defense pursuant to section 823(d) of the National Defense Authorization Act for Fiscal Year 2010 ([10 U.S.C. 2302](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2302&num=0&edition=prelim) note).” See Amendments Not Shown in Text note above.

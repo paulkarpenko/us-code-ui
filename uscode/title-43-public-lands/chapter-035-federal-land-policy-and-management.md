@@ -63,7 +63,7 @@ Pub. L. 94–579, title VII, § 701, Oct. 21, 1976, 90 Stat. 2786, provided that
 #### Severability
 Pub. L. 94–579, title VII, § 707, Oct. 21, 1976, 90 Stat. 2794, provided that: “If any provision of this Act [see Short Title note set out above] or the application thereof is held invalid, the remainder of the Act and the application thereof shall not be affected thereby.”
 
-#### References to Div. O of Pub. L. 115–141
+#### References to Division O of Pub. L. 115–141
 Pub. L. 115–141, div. O, § 101(b), Mar. 23, 2018, 132 Stat. 1059, as amended by Pub. L. 116–6, § 7(2), Feb. 15, 2019, 133 Stat. 15, provided that: “A reference to the Wildfire Suppression Funding and Forest Management Activities Act [div. O of Pub. L. 115–141, see Short Title of 2018 Amendment note above], including a reference in a regulation, order, or other law, is deemed to refer to the Stephen Sepp Wildfire Suppression Funding and Forest Management Activities Act.”
 
 #### Existing Rights-of-Way
@@ -724,6 +724,10 @@ Pub. L. 104–134, title I, § 101(c) [title I], Apr. 26, 1996, 110 Stat. 1321�
 
 Similar provisions were contained in the following appropriation acts:
 
+Pub. L. 116–260, div. G, title I, Dec. 27, 2020, 134 Stat. 1479.
+
+Pub. L. 116–94, div. D, title I, Dec. 20, 2019, 133 Stat. 2688.
+
 Pub. L. 116–6, div. E, title I, Feb. 15, 2019, 133 Stat. 207.
 
 Pub. L. 115–141, div. G, title I, Mar. 23, 2018, 132 Stat. 637.
@@ -922,7 +926,7 @@ Where in his judgment sufficient search, rescue, and protection forces are not o
 
   (B) composed entirely of members who, at the time of the good Samaritan search-and-recovery mission, have attained the age of majority under the law of the State where the mission takes place.
 
-(2) **Good samaritan search-and-recovery mission** — The term “good Samaritan search-and-recovery mission” means a search conducted by an eligible organization or individual for 1 or more missing individuals believed to be deceased at the time that the search is initiated.
+(2) **Good Samaritan search-and-recovery mission** — The term “good Samaritan search-and-recovery mission” means a search conducted by an eligible organization or individual for 1 or more missing individuals believed to be deceased at the time that the search is initiated.
 
 (3) **Secretary** — The term “Secretary” means the Secretary or the Secretary of Agriculture, as applicable.
 
@@ -940,11 +944,11 @@ Where in his judgment sufficient search, rescue, and protection forces are not o
 
   (B) an eligible organization or individual conducting a good Samaritan search-and-recovery mission under this section shall not be considered to be a volunteer under [section 102301(c) of title 54](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section102301/c&num=0&edition=prelim);
 
-  (C) chapter 171 of title 28 (commonly known as the “Federal Tort Claims Act”), shall not apply to an eligible organization or individual carrying out a privately requested good Samaritan search-and-recovery mission under this section; and
+  (C) chapter 171 of title 28 (commonly known as the “Federal Tort Claims Act”) shall not apply to an eligible organization or individual carrying out a privately requested good Samaritan search-and-recovery mission under this section; and
 
-  (D) chapter 81 of title 5 (commonly known as the “Federal Employees Compensation Act”), shall not apply to an eligible organization or individual conducting a good Samaritan search-and-recovery mission under this section, and the conduct of the good Samaritan search-and-recovery mission shall not constitute civilian employment.
+  (D) chapter 81 of title 5 (commonly known as the “Federal Employees Compensation Act”) shall not apply to an eligible organization or individual conducting a good Samaritan search-and-recovery mission under this section, and the conduct of the good Samaritan search-and-recovery mission shall not constitute civilian employment.
 
-**(c) Release of Federal Government From liability** The Secretary shall not require an eligible organization or individual to have liability insurance as a condition of accessing Federal land under this section, if the eligible organization or individual—
+**(c) Release of Federal Government from liability** The Secretary shall not require an eligible organization or individual to have liability insurance as a condition of accessing Federal land under this section, if the eligible organization or individual—
 
 (1) acknowledges and consents, in writing, to the provisions described in subparagraphs (A) through (D) of subsection (b)(2); and
 
@@ -1436,7 +1440,7 @@ Donald J. Trump.
 
 
 <a id="section-1748b-1"></a>
-## § 1748b–1. Wildfire Technology Modernization
+## § 1748b–1. Wildfire technology modernization
 **(a) Purpose** The purpose of this section is to promote the use of the best available technology to enhance the effective and cost-efficient response to wildfires—
 
 (1) to meet applicable protection objectives; and
@@ -1535,11 +1539,11 @@ Donald J. Trump.
 
 **(g) Omitted**
 
-**(h) Rapid response erosion database**
+**(h) Rapid Response Erosion Database**
 
 (1) **In general** — The Secretaries, in consultation with the Administrator of the National Aeronautics and Space Administration and the Secretary of Commerce, shall establish and maintain a database, to be known as the “Rapid Response Erosion Database” (referred to in this subsection as the “Database”).
 
-(2) **Open-source database**
+(2) **Open-source Database**
 
   (A) *Availability* — The Secretaries shall make the Database (including the original source code)—
 
@@ -1585,7 +1589,7 @@ Donald J. Trump.
 Section is comprised of section 1114 of Pub. L. 116–9. Subsec. (g) of section 1114 of Pub. L. 116–9 amended [section 2208 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section2208&num=0&edition=prelim), Commerce and Trade.
 
 #### Definition of “Secretary”
-“Secretary” as meaning the Secretary of the Interior, see section 2 of Pub. L. 116–9, set out as a note under [section 1 of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1&num=0&edition=prelim), Conservation.
+“Secretary” means the Secretary of the Interior, see section 2 of Pub. L. 116–9, set out as a note under [section 1 of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1&num=0&edition=prelim), Conservation.
 
 
 <a id="section-1748c"></a>
@@ -1817,7 +1821,7 @@ Section was enacted as part of the Department of the Interior, Environment, and 
 <a id="section-1748d"></a>
 ## § 1748d. Report on wildfire, insect infestation, and disease prevention on Federal land
 
-Not later than 180 days after December 20, 2018, and every year thereafter, the Secretary and the Secretary of Interior shall submit to the Committee on Agriculture of the House of Representatives, the Committee on Natural Resources of the House of Representatives, the Committee on Agriculture, Nutrition, and Forestry of the Senate, and the Committee on Energy and Natural Resources of the Senate a jointly written report on—
+Not later than 180 days after December 20, 2018, and every year thereafter, the Secretary and the Secretary of Interior 11 So in original. Probably should be preceded by “the”. shall submit to the Committee on Agriculture of the House of Representatives, the Committee on Natural Resources of the House of Representatives, the Committee on Agriculture, Nutrition, and Forestry of the Senate, and the Committee on Energy and Natural Resources of the Senate a jointly written report on—
 
 (1) the number of acres of Federal land treated by the Secretary or the Secretary of the Interior for wildfire, insect infestation, or disease prevention;
 
@@ -1847,7 +1851,7 @@ Not later than 180 days after December 20, 2018, and every year thereafter, the 
 Section was enacted as part of the Agriculture Improvement Act of 2018, and not as part of the Federal Land Policy and Management Act of 1976 which comprises this chapter.
 
 #### Definition of “Secretary”
-“Secretary” as meaning the Secretary of Agriculture, see section 2 of Pub. L. 115–334, set out as a note under [section 9001 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section9001&num=0&edition=prelim), Agriculture.
+“Secretary” means the Secretary of Agriculture, see section 2 of Pub. L. 115–334, set out as a note under [section 9001 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section9001&num=0&edition=prelim), Agriculture.
 
 
 <a id="section-1751"></a>
@@ -1874,9 +1878,13 @@ Subsec. (b)(2) of this section is comprised of second and third sentences of sec
 1978—Subsec. (b)(1). Pub. L. 95–514 inserted “or $10,000,000 per annum, whichever is greater” after “50 per centum” and substituted “sixteen contiguous Western States” for “eleven contiguous Western States”.
 
 #### Credit on Grazing Fee for Approved Conservation Practices
-Pub. L. 116–6, div. E, title III, Feb. 15, 2019, 133 Stat. 242, provided that: “That notwithstanding section 33 of the Bankhead[-]Jones Farm Tenant Act ([7 U.S.C. 1012](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1012&num=0&edition=prelim)), the Secretary of Agriculture, in calculating a fee for grazing on a National Grassland, may provide a credit of up to 50 percent of the calculated fee to a Grazing Association or direct permittee for a conservation practice approved by the Secretary in advance of the fiscal year in which the cost of the conservation practice is incurred. And, that the amount credited shall remain available to the Grazing Association or the direct permittee, as appropriate, in the fiscal year in which the credit is made and each fiscal year thereafter for use on the project for conservation practices approved by the Secretary.”
+Pub. L. 116–260, div. G, title III, Dec. 27, 2020, 134 Stat. 1518, provided in part: “That notwithstanding section 33 of the Bankhead[-]Jones Farm Tenant Act ([7 U.S.C. 1012](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1012&num=0&edition=prelim)), the Secretary of Agriculture, in calculating a fee for grazing on a National Grassland, may provide a credit of up to 50 percent of the calculated fee to a Grazing Association or direct permittee for a conservation practice approved by the Secretary in advance of the fiscal year in which the cost of the conservation practice is incurred, and, that the amount credited shall remain available to the Grazing Association or the direct permittee, as appropriate, in the fiscal year in which the credit is made and each fiscal year thereafter for use on the project for conservation practices approved by the Secretary”.
 
-Similar provisions were contained in the following prior appropriation act:
+Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 116–94, div. D, title III, Dec. 20, 2019, 133 Stat. 2725.
+
+Pub. L. 116–6, div. E, title III, Feb. 15, 2019, 133 Stat. 242.
 
 Pub. L. 115–141, div. G, title III, Mar. 23, 2018, 132 Stat. 671.
 
@@ -2196,9 +2204,11 @@ Enforcement functions of Secretary or other official in Department of Agricultur
 
 (2) **Requirements for fees collected** — Fees collected by the Forest Service under subsection (c)(3) shall be—
 
-  (A) based on the costs described in subsection (c)(3); and
+  (A) collected only to the extent provided in advance in appropriations Acts;
 
-  (B) competitively neutral, technology neutral, and nondiscriminatory with respect to other users of the communications site.
+  (B) based on the costs described in subsection (c)(3); and
+
+  (C) competitively neutral, technology neutral, and nondiscriminatory with respect to other users of the communications site.
 
 (3) **Deposit of fees** — Fees collected by the Forest Service under subsection (c)(3) shall be deposited in the special account established for the Forest Service under paragraph (1).
 
@@ -2228,8 +2238,15 @@ Section 606 of the Repack Airwaves Yielding Better Access for Users of Modern Se
 #### Codification
 Section was enacted as part of the Agriculture Improvement Act of 2018, and not as part of the Federal Land Policy and Management Act of 1976 which comprises this chapter.
 
+#### Amendments
+2019—Subsec. (f)(2). Pub. L. 116–94 added par. (2) and struck out former par. (2). Prior to amendment, text read as follows: “Fees collected by the Forest Service under subsection (c)(3) shall be—
+
+“(A) based on the costs described in subsection (c)(3); and
+
+“(B) competitively neutral, technology neutral, and nondiscriminatory with respect to other users of the communications site.”
+
 #### Definition of “Secretary”
-“Secretary” as meaning the Secretary of Agriculture, see section 2 of Pub. L. 115–334, set out as a note under [section 9001 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section9001&num=0&edition=prelim), Agriculture.
+“Secretary” means the Secretary of Agriculture, see section 2 of Pub. L. 115–334, set out as a note under [section 9001 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section9001&num=0&edition=prelim), Agriculture.
 
 
 <a id="section-1762"></a>
@@ -2414,7 +2431,7 @@ See note set out under [section 1763 of this title](./chapter-035-federal-land-p
 
 
 <a id="section-1772"></a>
-## § 1772. Vegetation managment, facility inspection, and operation and maintenance relating to electric transmission and distribution facility rights of way
+## § 1772. Vegetation managment,11 So in original. Probably should be “management,”. facility inspection, and operation and maintenance relating to electric transmission and distribution facility rights of way
 **(a) Definitions** In this section:
 
 (1) **Hazard tree** — The term “hazard tree” means any tree or part thereof (whether located inside or outside a right-of-way) that has been designated, prior to tree failure, by a certified or licensed arborist or forester under the supervision of the Secretary concerned or the owner or operator of a transmission or distribution facility to be—

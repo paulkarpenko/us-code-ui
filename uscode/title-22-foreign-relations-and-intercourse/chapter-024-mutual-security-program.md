@@ -26,7 +26,7 @@ Section 1753, acts Aug. 26, 1954, ch. 937, ch. IV, § 501, 68 Stat. 849; July 18
 Section 1753a, act Aug. 26, 1954, ch. 937, ch. IV, § 551, as added July 24, 1959, Pub. L. 86–108, ch. IV, § 401(m), 73 Stat. 255; amended Sept. 8, 1960, Pub. L. 86–735, § 4, 74 Stat. 870, provided for limitations on the use of the President’s special authority.
 
 #### Transfer of Funds To Carry Out International Educational Exchange Activities
-Section 13 of act July 18, 1956, ch. 627, 70 Stat. 565, was repealed by Pub. L. 87–195, pt. III, § 642(a)(4). Sept. 4, 1961, 75 Stat. 460.
+Section 13 of act July 18, 1956, ch. 627, § 13, 70 Stat. 565, which transferred available funds to the Department of State to carry out international educational exchange activities, was repealed by Pub. L. 87–195, pt. III, § 642(a)(4). Sept. 4, 1961, 75 Stat. 460.
 
 
 <a id="section-1754"></a>
@@ -135,11 +135,11 @@ Act Aug. 26, 1954, ch. 937, § 1, 68 Stat. 832, as amended by act June 30, 1958,
 #### Transfer of Functions
 Certain functions of Clerk of House of Representatives transferred to Director of Non-legislative and Financial Services by section 7 of House Resolution No. 423, One Hundred Second Congress, Apr. 9, 1992. Director of Non-legislative and Financial Services replaced by Chief Administrative Officer of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
 
-#### Delegation of Functions
-For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under [section 2381 of this title](./chapter-032-foreign-assistance.md#section-2381).
-
 #### International Security Assistance Act of 1978 Not To Affect Authorizations of Appropriations and Limitations of Authority Applicable to Fiscal Year 1978
 Pub. L. 95–384, § 30, Sept. 26, 1978, 92 Stat. 748, provided that: “Enactment of this Act [see Short Title of 1978 Amendment note set out under [section 2151 of this title](./chapter-032-foreign-assistance.md#section-2151)] shall not affect the authorizations of appropriations and limitations of authority applicable to the fiscal year 1978 which are contained in provisions of law amended by this Act (other than sections 31(a), (b), and (d) of the Arms Export Control Act [section 2771(a), (b), and (d) of this title]).”
+
+#### Delegation of Functions
+For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under [section 2381 of this title](./chapter-032-foreign-assistance.md#section-2381).
 
 
 <a id="section-1755-to-1759"></a>
@@ -274,11 +274,11 @@ Subsec. (c). Pub. L. 86–108, § 401(f)(2), substituted provisions making the S
 #### Repeals
 Section 707 of Pub. L. 87–195, cited as a credit to this section, was repealed by section 401 of Pub. L. 87–565, pt. IV, Aug. 1, 1962, 76 Stat. 263, except insofar as section 707 affected this section.
 
-#### Delegation of Functions
-For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under [section 2381 of this title](./chapter-032-foreign-assistance.md#section-2381).
-
 #### Study of Agencies Engaged in Foreign Economic Activities
 Pub. L. 86–472, ch. VI, § 604, May 14, 1960, 74 Stat. 141, which related to study of agencies engaged in foreign economic activities, was repealed by Pub. L. 87–195, pt. III, § 642(a)(8), Sept. 4, 1961, 75 Stat. 460.
+
+#### Delegation of Functions
+For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under [section 2381 of this title](./chapter-032-foreign-assistance.md#section-2381).
 
 
 <a id="section-1784-to-1795"></a>

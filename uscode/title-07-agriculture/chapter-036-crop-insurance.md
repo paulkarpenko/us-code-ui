@@ -417,7 +417,7 @@ References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rat
 
       (I) [section 2276 of this title](./chapter-055-department-of-agriculture.md#section-2276); and
 
-      (II) the Confidential Information Protection and Statistical Efficiency Act of 2002 ([44 U.S.C. 3501](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section3501&num=0&edition=prelim) note; Public Law 107–347).
+      (II) the Confidential Information Protection and Statistical Efficiency Act of 2002 ([44 U.S.C. 3501](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section3501&num=0&edition=prelim) note; Public Law 107–347).22 See References in Text note below.
 
   (C) *Noninsured crop disaster assistance program* — In collecting data under this subsection, the Secretary shall ensure that—
 
@@ -437,7 +437,7 @@ References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rat
 
 **(m) Submission of certain information**
 
-(1) **Social security account and employer identification numbers** — The Corporation shall require, as a condition of eligibility for participation in the multiple peril crop insurance program, submission of social security account numbers, subject to the requirements of section 405(c)(2)(C)(iii) 22 See References in Text note below. of title 42, and employer identification numbers, subject to the requirements of [section 6109(f) of title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section6109/f&num=0&edition=prelim).
+(1) **Social security account and employer identification numbers** — The Corporation shall require, as a condition of eligibility for participation in the multiple peril crop insurance program, submission of social security account numbers, subject to the requirements of section 405(c)(2)(C)(iii) 2 of title 42, and employer identification numbers, subject to the requirements of [section 6109(f) of title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section6109/f&num=0&edition=prelim).
 
 (2) **Notification by policyholders** — Each policyholder shall notify each individual or other entity that acquires or holds a substantial beneficial interest in such policyholder of the requirements and limitations under this subchapter.
 
@@ -484,7 +484,7 @@ References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rat
 ### Statutory Notes
 
 #### References in Text
-The Confidential Information Protection and Statistical Efficiency Act of 2002, referred to in subsec. (h)(2)(B)(ii)(II), is title V of Pub. L. 107–347, Dec. 17, 2002, 116 Stat. 2962, which is set out as a note under [section 3501 of Title 44](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section3501&num=0&edition=prelim), Public Printing and Documents.
+The Confidential Information Protection and Statistical Efficiency Act of 2002, referred to in subsec. (h)(2)(B)(ii)(II), is title V of Pub. L. 107–347, Dec. 17, 2002, 116 Stat. 2962, which was set out as a note under [section 3501 of Title 44](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section3501&num=0&edition=prelim), Public Printing and Documents, prior to repeal by Pub. L. 115–435, title III, § 302(c)(1), title IV, § 403, Jan. 14, 2019, 132 Stat. 5552, 5557, effective 180 days after Jan. 14, 2019. See parts A to C of subchapter III of chapter 35 of Title 44, especially [section 3572 of Title 44](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section3572&num=0&edition=prelim), which relates to confidential information protection.
 
 [Section 405(c)(2)(C)(iii) of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section405/c/2/C/iii&num=0&edition=prelim), referred to in subsec. (m)(1), was redesignated [section 405(c)(2)(C)(iv) of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section405/c/2/C/iv&num=0&edition=prelim) by Pub. L. 103–296, title III, § 321(a)(9)(B), Aug. 15, 1994, 108 Stat. 1536.
 

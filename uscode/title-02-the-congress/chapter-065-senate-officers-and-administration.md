@@ -12,7 +12,7 @@ source: >-
 
 **(b) Annual compensation** Any or all appointments under this section may be at an annual rate of compensation rather than at a daily rate of compensation, but such annual rate shall not be in excess of the highest gross rate of annual compensation which may be paid to employees of a standing committee of the Senate.
 
-(C) **11 So in original. Probably should be “(c)”. Title of position** — Each appointing authority under subsection (a) may designate the title of the position of any individual appointed under that subsection.
+**(C) 11 So in original. Probably should be “(c)”. Title of position** Each appointing authority under subsection (a) may designate the title of the position of any individual appointed under that subsection.
 
 ### Statutory Notes
 
@@ -218,13 +218,13 @@ Section was formerly classified to [section 68–6 of this title](./chapter-004-
 
 Section is from the Congressional Operations Appropriations Act, 1989, which is title I of the Legislative Branch Appropriations Act, 1989.
 
-#### Amendments
-1990—Subsec. (a). Pub. L. 101–302 designated existing provisions as cl. (1) and added cl. (2).
-
 #### Prior Provisions
 Provisions similar to those in this section were contained in the following prior appropriation act:
 
 Pub. L. 100–202, § 101(i) [title I, § 8], Dec. 22, 1987, 101 Stat. 1329–290, 1329–295.
+
+#### Amendments
+1990—Subsec. (a). Pub. L. 101–302 designated existing provisions as cl. (1) and added cl. (2).
 
 
 <a id="section-6509"></a>
@@ -428,34 +428,17 @@ Section is based on title I (2d proviso under “Senate Office Buildings”) of 
 
 
 <a id="section-6531"></a>
-## § 6531. Compensation of Secretary of Senate
-
-The Secretary of the Senate shall be paid at an annual rate of compensation of $40,000.
+## § 6531. Repealed. Pub. L. 116–94, div. E, title II, § 212(a)(3)(H), Dec. 20, 2019, 133 Stat. 2776
 
 ### Statutory Notes
 
-#### Codification
-Section was formerly classified to [section 61a of this title](./chapter-004-officers-and-employees-of-senate-and-house-of-representatives.md#section-61a) prior to editorial reclassification and renumbering as this section.
+Section, Pub. L. 88–426, title II, § 203(g), Aug. 14, 1964, 78 Stat. 415; Pub. L. 93–371, § 4, Aug. 13, 1974, 88 Stat. 429; Pub. L. 94–59, title I, § 105, July 25, 1975, 89 Stat. 275; Pub. L. 116–94, div. E, title II, § 212(a)(3)(A), Dec. 20, 2019, 133 Stat. 2775, related to compensation of Secretary of Senate.
 
-#### Amendments
-1975—Pub. L. 94–59 substituted “an annual rate of compensation of $40,000” for “a rate of $38,760 per annum”.
-
-1974—Pub. L. 93–371 increased the annual rate of compensation from $27,500 to $38,760.
+#### Effective Date of Repeal
+Repeal effective on the later of the first day of the first applicable pay period beginning on or after Jan. 1, 2020, or the first day of the first applicable pay period beginning on or after Dec. 20, 2019, see section 212(c) of Pub. L. 116–94, set out as a note under [section 282b of this title](./chapter-009-office-of-legislative-counsel.md#section-282b).
 
 #### Effective Date of 1975 Amendment
-Pub. L. 94–59, title I, § 105, July 25, 1975, 89 Stat. 275, provided that the increase in the Secretary’s rate of compensation to $40,000 is effective July 1, 1975.
-
-#### Effective Date of 1974 Amendment
-Pub. L. 93–371, § 4, Aug. 13, 1974, 88 Stat. 429, provided in part that: “This paragraph [referred to here as section 4 of Pub. L. 93–371, see Tables for classification] is effective July 1, 1974.”
-
-#### Effective Date
-Section effective first day of first pay period which begins on or after July 1, 1964, except to the extent provided in section 501(c) of Pub. L. 88–426, see section 501 of Pub. L. 88–426.
-
-#### 1974 Adjustment in Compensation Not To Supersede Adjustments in Compensation or Limitations by President Pro Tempore of the Senate
-Pub. L. 93–371, § 4, Aug. 13, 1974, 88 Stat. 429, eff. July 1, 1974, provided in part that: “This paragraph does not supersede (1) any provision of an order of the President pro tempore of the Senate authorizing a higher rate of compensation, and (2) any authority of the President pro tempore to adjust rates of compensation or limitations referred to in this paragraph under section 4 of the Federal Pay Comparability Act of 1970 [[2 U.S.C. 4571](./chapter-045-congressional-pay-and-benefits.md#section-4571)].”
-
-#### Increases in Compensation
-Increases in compensation of Secretary of Senate under authority of Federal Salary Act of 1967 (Pub. L. 90–206) and Federal Pay Comparability Act of 1970 (Pub. L. 91–656), see [section 4571 of this title](./chapter-045-congressional-pay-and-benefits.md#section-4571), and Salary Directives of President pro tempore of the Senate, set out as notes under that section.
+Pub. L. 94–59, title I, § 105, July 25, 1975, 89 Stat. 275, which provided that the increase in the Secretary’s rate of compensation to $40,000 was effective July 1, 1975, was repealed by Pub. L. 116–94, div. E, title II, § 212(a)(3)(A), Dec. 20, 2019, 133 Stat. 2775.
 
 
 <a id="section-6532"></a>
@@ -511,15 +494,20 @@ The Assistant Secretary of the Senate may be paid at a maximum annual rate of co
 Section was formerly classified to [section 61a–3 of this title](./chapter-004-officers-and-employees-of-senate-and-house-of-representatives.md#section-61a-3) prior to editorial reclassification and renumbering as this section.
 
 #### Amendments
-1975—Pub. L. 94–59 substituted “$39,000” for “$37,620”, effective July 1, 1975.
+2019—Pub. L. 116–94 repealed Pub. L. 94–59, § 105. See 1975 Amendment note below.
+
+1975—Pub. L. 94–59, which substituted “$39,000” for “$37,620”, effective July 1, 1975, was repealed by Pub. L. 116–94. See above.
 
 1974—Pub. L. 93–371 substituted provision setting maximum annual rate of compensation of Assistant Secretary at not to exceed $37,620, for provisions authorizing Secretary of Senate to fix the compensation of Assistant Secretary at not to exceed $11,826 per annum, effective July 1, 1974.
 
 #### Change of Name
 Assistant Secretary of the Senate deemed successor in references to Chief Clerk of Senate in all laws, rules, resolutions, and orders, effective July 1, 1971, under provisions of Pub. L. 92–51, July 9, 1971, 85 Stat. 125.
 
+#### Effective Date of 2019 Amendment
+Amendment by Pub. L. 116–94 effective on the later of the first day of the first applicable pay period beginning on or after Jan. 1, 2020, or the first day of the first applicable pay period beginning on or after Dec. 20, 2019, see section 212(c) of Pub. L. 116–94, set out as a note under [section 282b of this title](./chapter-009-office-of-legislative-counsel.md#section-282b).
+
 #### 1974 Adjustment in Compensation Not To Supersede Adjustments in Compensation or Limitations by President Pro Tempore of the Senate
-Adjustment in compensation by Pub. L. 93–371 not to supersede order of President pro tempore of the Senate authorizing higher rate of compensation or any authority of the President pro tempore to adjust rates of compensation or limitations under section 4 of the Federal Pay Comparability Act of 1970, see section 4 of Pub. L. 93–371, set out in part as a note under [section 6531 of this title](./chapter-065-senate-officers-and-administration.md#section-6531).
+Adjustment in compensation by Pub. L. 93–371 not to supersede order of President pro tempore of the Senate authorizing higher rate of compensation or any authority of the President pro tempore to adjust rates of compensation or limitations under section 4 of the Federal Pay Comparability Act of 1970, see section 4 of Pub. L. 93–371, set out in part as a note under [section 273 of this title](./chapter-009-office-of-legislative-counsel.md#section-273).
 
 #### Increases in Compensation
 Increases in compensation of Assistant Secretary of the Senate under authority of Federal Salary Act of 1967 (Pub. L. 90–206) and Federal Pay Comparability Act of 1970 (Pub. L. 91–656), see [section 4571 of this title](./chapter-045-congressional-pay-and-benefits.md#section-4571), and Salary Directives of President pro tempore of the Senate, set out as notes under that section.
@@ -536,14 +524,19 @@ The Parliamentarian of the Senate may be paid at a maximum annual rate of compen
 Section was formerly classified to [section 61b of this title](./chapter-004-officers-and-employees-of-senate-and-house-of-representatives.md#section-61b) prior to editorial reclassification and renumbering as this section.
 
 #### Amendments
-1975—Pub. L. 94–59 substituted “$39,000” for “$37,620”, effective July 1, 1975.
+2019—Pub. L. 116–94 repealed Pub. L. 94–59, § 105. See 1975 Amendment note below.
+
+1975—Pub. L. 94–59, which substituted “$39,000” for “$37,620”, effective July 1, 1975, was repealed by Pub. L. 116–94. See above.
 
 1974—Pub. L. 93–371 substituted provisions authorizing a maximum annual rate of compensation not to exceed $37,620 for Parliamentarian, for provisions authorizing a gross annual compensation of $15,500 for Parliamentarian and $7,620 for Assistant Parliamentarian, effective July 1, 1974.
 
 1956—Act June 27, 1956, increased compensation of Parliamentarian of Senate from $8,820 basic annual compensation to $15,500 gross annual compensation, and basic annual compensation of Assistant Parliamentarian of Senate from $7,260 to $7,620, effective July 1, 1956.
 
+#### Effective Date of 2019 Amendment
+Amendment by Pub. L. 116–94 effective on the later of the first day of the first applicable pay period beginning on or after Jan. 1, 2020, or the first day of the first applicable pay period beginning on or after Dec. 20, 2019, see section 212(c) of Pub. L. 116–94, set out as a note under [section 282b of this title](./chapter-009-office-of-legislative-counsel.md#section-282b).
+
 #### 1974 Adjustment in Compensation Not To Supersede Adjustments in Compensation or Limitations by President Pro Tempore of the Senate
-Adjustment in compensation by Pub. L. 93–371 not to supersede order of President pro tempore of the Senate authorizing higher rate of compensation or any authority of the President pro tempore to adjust rates of compensation or limitations under section 4 of the Federal Pay Comparability Act of 1970, see section 4 of Pub. L. 93–371, set out in part as a note under [section 6531 of this title](./chapter-065-senate-officers-and-administration.md#section-6531).
+Adjustment in compensation by Pub. L. 93–371 not to supersede order of President pro tempore of the Senate authorizing higher rate of compensation or any authority of the President pro tempore to adjust rates of compensation or limitations under section 4 of the Federal Pay Comparability Act of 1970, see section 4 of Pub. L. 93–371, set out in part as a note under [section 273 of this title](./chapter-009-office-of-legislative-counsel.md#section-273).
 
 #### Increases in Compensation
 Increases in compensation for Senate officers and employees under authority of Federal Salary Act of 1967 (Pub. L. 90–206) and Federal Pay Comparability Act of 1970 (Pub. L. 91–656), see [section 4571 of this title](./chapter-045-congressional-pay-and-benefits.md#section-4571), and Salary Directives of President pro tempore of the Senate set out as notes under that section.
@@ -563,38 +556,35 @@ The Financial Clerk of the Senate may be paid at a maximum annual rate of compen
 Section was formerly classified to [section 64a–1 of this title](./chapter-004-officers-and-employees-of-senate-and-house-of-representatives.md#section-64a-1) prior to editorial reclassification and renumbering as this section.
 
 #### Amendments
-1975—Pub. L. 94–59 substituted “$39,000” for “$37,620”, effective July 1, 1975.
+2019—Pub. L. 116–94 repealed Pub. L. 94–59, § 105. See 1975 Amendment note below.
+
+1975—Pub. L. 94–59, which substituted “$39,000” for “$37,620”, effective July 1, 1975, was repealed by Pub. L. 116–94. See above.
+
+#### Effective Date of 2019 Amendment
+Amendment by Pub. L. 116–94 effective on the later of the first day of the first applicable pay period beginning on or after Jan. 1, 2020, or the first day of the first applicable pay period beginning on or after Dec. 20, 2019, see section 212(c) of Pub. L. 116–94, set out as a note under [section 282b of this title](./chapter-009-office-of-legislative-counsel.md#section-282b).
 
 #### Effective Date
-Section effective July 1, 1974, see section 4 of Pub. L. 93–371, set out in part as an Effective Date of 1974 Amendment note under [section 6531 of this title](./chapter-065-senate-officers-and-administration.md#section-6531).
+Section effective July 1, 1974, see section 4 of Pub. L. 93–371, set out in part as an Effective Date of 1974 Amendment note under [section 273 of this title](./chapter-009-office-of-legislative-counsel.md#section-273).
 
 #### 1974 Adjustment in Compensation Not To Supersede Adjustments in Compensation or Limitations by President Pro Tempore of the Senate
-Adjustment in compensation by Pub. L. 93–371 not to supersede order of President pro tempore of the Senate authorizing higher rate of compensation or any authority of the President pro tempore to adjust rates of compensation or limitations under section 4 of the Federal Pay Comparability Act of 1970, see section 4 of Pub. L. 93–371, set out in part as a note under [section 6531 of this title](./chapter-065-senate-officers-and-administration.md#section-6531).
+Adjustment in compensation by Pub. L. 93–371 not to supersede order of President pro tempore of the Senate authorizing higher rate of compensation or any authority of the President pro tempore to adjust rates of compensation or limitations under section 4 of the Federal Pay Comparability Act of 1970, see section 4 of Pub. L. 93–371, set out in part as a note under [section 273 of this title](./chapter-009-office-of-legislative-counsel.md#section-273).
 
 #### Increases in Compensation
 Increases in compensation for Senate officers and employees under authority of Federal Pay Comparability Act of 1970 (Pub. L. 91–656), see Salary Directives of President pro tempore of the Senate, set out as notes under [section 4571 of this title](./chapter-045-congressional-pay-and-benefits.md#section-4571).
 
 
 <a id="section-6537"></a>
-## § 6537. Compensation of Assistants to Majority and Minority in Office of Secretary of Senate
-
-The Assistant to the Majority of the Senate and the Assistant to the Minority of the Senate in the Office of the Secretary of the Senate may each be paid a maximum annual rate of compensation not to exceed $36,500.
+## § 6537. Repealed. Pub. L. 116–94, div. E, title II, § 212(a)(3)(A), Dec. 20, 2019, 133 Stat. 2775
 
 ### Statutory Notes
 
-#### Codification
-Section was formerly classified to [section 61c–2 of this title](./chapter-004-officers-and-employees-of-senate-and-house-of-representatives.md#section-61c-2) prior to editorial reclassification and renumbering as this section.
+Section, Pub. L. 94–59, title I, § 105, July 25, 1975, 89 Stat. 275, related to compensation of Assistants to Majority and Minority in Office of Secretary of Senate.
 
-#### Prior Provisions
-Pub. L. 89–90, July 27, 1965, 79 Stat. 266, prescribed basic compensation of assistants to Majority and Minority at not more than $8,160 per annum each effective July 1, 1965.
-
-Act May 19, 1956, ch. 313, Ch. XII, 70 Stat. 175, provided that basic compensation of assistant to majority and assistant to minority may be fixed by majority and minority leaders, respectively, at a rate not to exceed $8,820 per annum.
+#### Effective Date of Repeal
+Repeal effective on the later of the first day of the first applicable pay period beginning on or after Jan. 1, 2020, or the first day of the first applicable pay period beginning on or after Dec. 20, 2019, see section 212(c) of Pub. L. 116–94, set out as a note under [section 282b of this title](./chapter-009-office-of-legislative-counsel.md#section-282b).
 
 #### Effective Date
-Pub. L. 94–59, title I, § 105, July 25, 1975, 89 Stat. 275, provided that this section is effective July 1, 1975.
-
-#### Increases in Compensation
-Increases in compensation for Senate officers and employees under authority of Federal Pay Comparability Act of 1970 (Pub. L. 91–656), see Salary Directives of the President pro tempore of the Senate, set out as notes under [section 4571 of this title](./chapter-045-congressional-pay-and-benefits.md#section-4571).
+Pub. L. 94–59, title I, § 105, July 25, 1975, 89 Stat. 275, which provided that this section was effective July 1, 1975, was repealed by Pub. L. 116–94, div. E, title II, § 212(a)(3)(A), Dec. 20, 2019, 133 Stat. 2775.
 
 
 <a id="section-6538"></a>
@@ -815,7 +805,7 @@ Section was enacted as part of Legislative Branch Appropriation Act, 1973.
 
 **(b) Effective date** The provisions of subsection (a) shall be effective in the case of expenditures for fiscal years ending after September 30, 1986.
 
-**(c) Transfer of funds** Upon the written request of the Secretary of the Senate, and upon notification to the Committee on Appropriations of the Senate, there shall be transferred any amount of funds available under subsection (a) specified in the request, but not to exceed $10,000 in any fiscal year, from the appropriation account (within the contingent fund of the Senate) for expenses of the Office of the Secretary of the Senate to the appropriation account for the expense allowance of the Secretary of the Senate. Any funds so transferred shall be available in like manner and for the same purposes as are other funds in the account to which the funds are transferred.
+**(c) Transfer of funds** Upon the written request of the Secretary of the Senate, and upon notification to the Committee on Appropriations of the Senate, there shall be transferred any amount of funds available under subsection (a) specified in the request, but not to exceed $15,000 in any fiscal year, from the appropriation account (within the contingent fund of the Senate) for expenses of the Office of the Secretary of the Senate to the appropriation account for the expense allowance of the Secretary of the Senate. Any funds so transferred shall be available in like manner and for the same purposes as are other funds in the account to which the funds are transferred.
 
 ### Statutory Notes
 
@@ -825,6 +815,8 @@ Section was formerly classified to [section 65f of this title](./chapter-004-off
 Section is from the Supplemental Appropriations Act, 1987.
 
 #### Amendments
+2019—Subsec. (c). Pub. L. 116–94 substituted “$15,000” for “$10,000”.
+
 2004—Subsec. (c). Pub. L. 108–447 substituted “and upon notification to” for “with the approval of” in first sentence.
 
 1997—Subsec. (c). Pub. L. 105–18 added subsec. (c).
@@ -1037,28 +1029,14 @@ Section is from the Congressional Operations Appropriations Act, 1999, which is 
 
 
 <a id="section-6591"></a>
-## § 6591. Compensation of Sergeant at Arms and Doorkeeper of Senate
-
-The Sergeant at Arms and Doorkeeper of the Senate shall be paid at an annual rate of compensation of $40,000.
+## § 6591. Repealed. Pub. L. 116–94, div. E, title II, § 212(a)(3)(H), Dec. 20, 2019, 133 Stat. 2776
 
 ### Statutory Notes
 
-#### Codification
-Section was formerly classified to [section 61e of this title](./chapter-004-officers-and-employees-of-senate-and-house-of-representatives.md#section-61e) prior to editorial reclassification and renumbering as this section.
+Section, Pub. L. 88–426, title II, § 203(g), Aug. 14, 1964, 78 Stat. 415; Pub. L. 93–371, § 4, Aug. 13, 1974, 88 Stat. 429; Pub. L. 94–59, title I, § 105, July 25, 1975, 89 Stat. 275; Pub. L. 116–94, div. E, title II, § 212(a)(3)(A), Dec. 20, 2019, 133 Stat. 2775, related to compensation of Sergeant at Arms and Doorkeeper of Senate.
 
-#### Amendments
-1975—Pub. L. 94–59 substituted “an annual rate of compensation of $40,000” for “a rate of $38,760 per annum”, effective July 1, 1975.
-
-1974—Pub. L. 93–371 substituted provisions authorizing Sergeant at Arms and Doorkeeper to be paid at an annual rate of compensation of $38,760, for provisions setting forth compensation of Sergeant at Arms at rate of $27,500 per annum, effective July 1, 1974.
-
-#### Effective Date
-Section effective on first day of first pay period which begins on or after July 1, 1964, except to the extent provided in section 501(c) of Pub. L. 88–426, see section 501 of Pub. L. 88–426, title V, Aug. 14, 1964, 78 Stat. 435.
-
-#### 1974 Adjustment in Compensation Not To Supersede Adjustments in Compensation or Limitations by President Pro Tempore of the Senate
-Adjustment in compensation by Pub. L. 93–371 not to supersede order of President pro tempore of the Senate authorizing higher rate of compensation or any authority of President pro tempore to adjust rates of compensation or limitations under section 4 of the Federal Pay Comparability Act of 1970, see section 4 of Pub. L. 93–371, set out in part as a note under [section 6531 of this title](./chapter-065-senate-officers-and-administration.md#section-6531).
-
-#### Increases in Compensation
-Increases in compensation for Senate officers and employees under authority of Federal Salary Act of 1967 (Pub. L. 90–206) and Federal Pay Comparability Act of 1970 (Pub. L. 91–656), see [section 4571 of this title](./chapter-045-congressional-pay-and-benefits.md#section-4571), and Salary Directives of President pro tempore of the Senate, set out as notes under that section.
+#### Effective Date of Repeal
+Repeal effective on the later of the first day of the first applicable pay period beginning on or after Jan. 1, 2020, or the first day of the first applicable pay period beginning on or after Dec. 20, 2019, see section 212(c) of Pub. L. 116–94, set out as a note under [section 282b of this title](./chapter-009-office-of-legislative-counsel.md#section-282b).
 
 
 <a id="section-6592"></a>
@@ -1164,7 +1142,7 @@ Increases in compensation for Senate officers and employees under authority of t
 <a id="section-6598"></a>
 ## § 6598. Designation by Sergeant at Arms and Doorkeeper of Senate of persons to approve vouchers for payment of moneys
 
-The Sergeant at Arms and Doorkeeper of the Senate (hereinafter in this section referred to as the “Sergeant at Arms”) may designate one or more employees in the Office of the Sergeant at Arms and Doorkeeper of the Senate to approve, on his behalf, all vouchers, for payment of moneys, which the Sergeant at Arms is authorized to approve. Whenever the Sergeant at Arms makes a designation under the authority of the preceding sentence, he shall immediately notify the Committee on Rules and Administration in writing of the designation, and thereafter any approval of any voucher, for payment of moneys, by an employee so designated shall (until such designation is revoked and the Sergeant at Arms notifies the Committee on Rules and Administration in writing of the revocation) be deemed and held to be approved by the Sergeant at Arms for all intents and purposes.
+The Sergeant at Arms and Doorkeeper of the Senate (hereinafter in this section referred to as the “Sergeant at Arms”) may designate one or more employees in the Office of the Sergeant at Arms and Doorkeeper of the Senate to approve, on his behalf, any voucher for payment of moneys, payroll action, or personnel action which the Sergeant at Arms is authorized to approve. Whenever the Sergeant at Arms makes a designation under the authority of the preceding sentence, he shall immediately notify the Committee on Rules and Administration in writing of the designation, and thereafter any approval of any voucher for payment of moneys, payroll action, or personnel action by an employee so designated shall (until such designation is revoked and the Sergeant at Arms notifies the Committee on Rules and Administration in writing of the revocation) be deemed and held to be approved by the Sergeant at Arms for all intents and purposes.
 
 ### Statutory Notes
 
@@ -1172,6 +1150,9 @@ The Sergeant at Arms and Doorkeeper of the Senate (hereinafter in this section r
 Section was formerly classified to [section 61e–4 of this title](./chapter-004-officers-and-employees-of-senate-and-house-of-representatives.md#section-61e-4) prior to editorial reclassification and renumbering as this section.
 
 Section is from the Supplemental Appropriations Act, 1984.
+
+#### Amendments
+2021—Pub. L. 116–344 substituted “on his behalf, any voucher for payment of moneys, payroll action, or personnel action” for “on his behalf, all vouchers, for payment of moneys,” and “approval of any voucher for payment of moneys, payroll action, or personnel action” for “approval of any voucher, for payment of moneys,”.
 
 
 <a id="section-6599"></a>
@@ -1292,11 +1273,13 @@ Section is from the Supplemental Appropriations Act, 1984.
 ## § 6616. Support services for Senate during emergency; memorandum of understanding with an executive agency
 **(a) Authorization** Notwithstanding any other provision of law—
 
-(1) subject to subsection (b), the Sergeant at Arms of the Senate and the head of an executive agency (as defined in [section 105 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section105&num=0&edition=prelim)) may enter into a memorandum of understanding under which the agency may provide facilities, equipment, supplies, personnel, and other support services for the use of the Senate during an emergency situation; and
+(1) subject to paragraph (3), the Sergeant at Arms of the Senate and the head of an executive agency (as defined in [section 105 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section105&num=0&edition=prelim)) may enter into a memorandum of understanding under which the agency may provide facilities, equipment, supplies, personnel, and other support services for the use of the Senate during an emergency situation;
 
-(2) the Sergeant at Arms of the Senate and the head of the agency may take any action necessary to carry out the terms of the memorandum of understanding.
+(2) the Sergeant at Arms of the Senate and the head of the agency may take any action necessary to carry out the terms of the memorandum of understanding; and
 
-**(b) Consistency with Senate Procurement Regulations** The Sergeant at Arms of the Senate may enter into a memorandum of understanding described in subsection (a)(1) consistent with the Senate Procurement Regulations.
+(3) the Sergeant at Arms of the Senate may enter into a memorandum of understanding described in paragraph (1) consistent with the Senate Procurement Regulations.
+
+**(b) Obligations and expenditures** The Sergeant at Arms of the Senate may incur obligations and make expenditures for meals, refreshments, and other support and maintenance for Members, officers, and employees of the Senate when such obligations and expenditures are necessary to respond to emergencies involving the safety of human life or the protection of property.
 
 **(c) Applicability** This section shall apply with respect to fiscal year 2002 and each succeeding fiscal year.
 
@@ -1306,6 +1289,13 @@ Section is from the Supplemental Appropriations Act, 1984.
 Section was formerly classified to [section 130g of this title](./chapter-004-officers-and-employees-of-senate-and-house-of-representatives.md#section-130g) prior to editorial reclassification and renumbering as this section.
 
 Section is from the Emergency Supplemental Act, 2002, which is div. B of the Department of Defense and Emergency Supplemental Appropriations for Recovery from and Response to Terrorist Attacks on the United States Act, 2002.
+
+#### Amendments
+2019—Subsec. (a)(1). Pub. L. 116–94, § 1502(1)(A)(i), substituted “paragraph (3)” for “subsection (b)”.
+
+Subsec. (a)(3). Pub. L. 116–94, § 1502(1)(A)(ii)–(C), added par. (3).
+
+Subsec. (b). Pub. L. 116–94, § 1502(2), added subsec. (b) and struck out former subsec. (b). Prior to amendment, text read as follows: “The Sergeant at Arms of the Senate may enter into a memorandum of understanding described in subsection (a)(1) consistent with the Senate Procurement Regulations.”
 
 
 <a id="section-6617"></a>
@@ -1499,9 +1489,43 @@ Section is from the Legislative Branch Appropriations Act, 2005, which is div. G
 
 <a id="section-6628"></a>
 ## § 6628. Treatment of electronic services provided by Sergeant at Arms
-**(a) In general** The Office of the Sergeant at Arms and Doorkeeper of the United States Senate, and any officer, employee, or agent of the Office, shall not be treated as acquiring possession, custody, or control of any electronic mail or other electronic communication, data, or information by reason of its being transmitted, processed, or stored (whether temporarily or otherwise) through the use of an electronic system established, maintained, or operated, or the use of electronic services provided, in whole or in part by the Office.
+**(a) In general** In this section—
 
-**(b) Effective date** This section shall apply to fiscal year 2005 and each fiscal year thereafter.
+(1) the term “agent of the Office of the SAA” includes a provider of electronic communication service or remote computing service commissioned or used through the Office of the SAA by a Senate office to provide such services to the Senate office;
+
+(2) the term “electronic communication service” has the meaning given that term in [section 2510 of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section2510&num=0&edition=prelim);
+
+(3) the term “Office of the SAA” means the Office of the Sergeant at Arms and Doorkeeper of the Senate;
+
+(4) the term “provider for a Senate office” means a provider of electronic communication service or remote computing service directly commissioned or used by a Senate office to provide such services;
+
+(5) the term “remote computing service” has the meaning given that term in [section 2711 of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section2711&num=0&edition=prelim);
+
+(6) the term “Senate data”, with respect to a Senate office, means any electronic mail or other electronic or data communication, other data (including metadata), or other information of the Senate office; and
+
+(7) the term “Senate office” means a committee or office of the Senate, including a Senator, an officer of the Senate, or an employee of, intern at, or other agent of a committee or office of the Senate.
+
+**(b) Treatment**
+
+(1) **Retaining possession**
+
+  (A) *In general* — A Senate office shall be deemed to retain possession of any Senate data of the Senate office, without regard to the use by the Senate office of any individual or entity described in paragraph (2) for the purposes of any function or service described in paragraph (2).
+
+  (B) *Rule of construction* — Subparagraph (A) shall not be construed to limit the use by an intended recipient of any Senate data from a Senate office.
+
+(2) **Sergeant at Arms and providers for a Senate office** — The Office of the SAA, any officer, employee, or agent of the Office of the SAA, and any provider for a Senate office shall not be treated as acquiring possession, custody, or control of any Senate data by reason of its being transmitted, processed, or stored (whether temporarily or otherwise) through the use of an electronic system established, maintained, or operated, or the use of electronic services provided, in whole or in part by the Office of the SAA, the officer, employee, or agent of the Office of the SAA, or the provider for the Senate office.
+
+**(c) Notification** Notwithstanding any other provision of law or rule of civil or criminal procedure, the Office of the SAA, any officer, employee, or agent of the Office of the SAA, and any provider for a Senate office that is providing services to or used by a Senate office shall not be barred, through operation of any court order or any statutory provision, from notifying the Senate office of any legal process seeking disclosure of Senate data of the Senate office that is transmitted, processed, or stored (whether temporarily or otherwise) through the use of an electronic system established, maintained, or operated, or the use of electronic services provided, in whole or in part by the Office of the SAA, the officer, employee, or agent of the Office of the SAA, or the provider for a Senate office.
+
+**(d) Motions to quash or modify** Upon a motion made promptly by a Senate office or provider for a Senate office, a court of competent jurisdiction shall quash or modify any legal process directed to the provider for a Senate office if compliance with the legal process would require the disclosure of Senate data of the Senate office.
+
+**(e) Information regarding implications of using providers** The Office of the SAA, in consultation with the Senate Legal Counsel, shall provide information to each Senate office that commissions or uses a provider of electronic communication service or remote computing service to provide such services to the Senate office regarding the potential constitutional implications and the potential impact on privileges that may be asserted by the Senate office.
+
+**(f) Applicable privileges** Nothing in this section shall be construed to limit or supersede any applicable privilege, immunity, or other objection that may apply to the disclosure of Senate data.
+
+**(g) Preemption** Except as provided in this section, any provision of law or rule of civil or criminal procedure of any State, political subdivision, or agency thereof, which is inconsistent with this section shall be deemed to be preempted and superseded.
+
+**(h) Effective date** This section shall apply to fiscal year 2005 and each fiscal year thereafter.
 
 ### Statutory Notes
 
@@ -1511,7 +1535,12 @@ Section was formerly classified to [section 61f–12 of this title](./chapter-00
 Section is from the Legislative Branch Appropriations Act, 2005, which is div. G of the Consolidated Appropriations Act, 2005.
 
 #### Amendments
+2020—Pub. L. 116–260 added subsecs. (a) to (g), redesignated former subsec. (b) as (h), and struck out former subsec. (a). Prior to amendment, text of subsec. (a) read as follows: “The Office of the Sergeant at Arms and Doorkeeper of the United States Senate, and any officer, employee, or agent of the Office, shall not be treated as acquiring possession, custody, or control of any electronic mail or other electronic communication, data, or information by reason of its being transmitted, processed, or stored (whether temporarily or otherwise) through the use of an electronic system established, maintained, or operated, or the use of electronic services provided, in whole or in part by the Office.”
+
 2007—Pub. L. 109–289, § 20701(c)(1), as added by Pub. L. 110–5, designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
+
+#### Effective Date of 2020 Amendment
+Pub. L. 116–260, div. FF, title IV, § 401(b), Dec. 27, 2020, 134 Stat. 3135, provided that: “(1) In this subsection, the terms ‘Senate data’ and ‘Senate office’ have the meanings given such terms in section 10 of the Legislative Branch Appropriations Act, 2005 [[2 U.S.C. 6628](./chapter-065-senate-officers-and-administration.md#section-6628)], as amended by subsection (a) of this section. “(2) The amendments made by this section shall—“(A) take effect as though included in the Legislative Branch Appropriations Act, 2005 (division G of Public Law 108–447; 118 Stat. 3166); and “(B) apply with respect to—“(i) any legal process seeking disclosure of Senate data of a Senate office that is filed, issued, or made on or after the date of enactment of this Act [Dec. 27, 2020]; and “(ii) any matter that is pending on or after the date of enactment of this Act that relates to legal process described in clause (i) that is filed, issued, or made before the date of enactment of this Act, unless the Senate data of the Senate office was disclosed in accordance with such legal process before the date of enactment of this Act.”
 
 #### Effective Date of 2007 Amendment
 Pub. L. 109–289, div. B, title II, § 20701(c)(2), as added by Pub. L. 110–5, § 2, Feb. 15, 2007, 121 Stat. 38, provided that: “The amendments made by this subsection [amending this section] shall take effect as though included in the Legislative Branch Appropriations Act, 2005 [Pub. L. 108–447, div. G].”
@@ -1744,19 +1773,14 @@ Section was formerly classified to [section 123d of this title](./chapter-004-of
 
 
 <a id="section-6651"></a>
-## § 6651. Compensation of Chaplain of Senate
-
-Effective with respect to pay periods beginning on or after December 22, 1987, the Chaplain of the Senate shall be compensated at a rate equal to the annual rate of basic pay for level IV of the Executive Schedule under [section 5315 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5315&num=0&edition=prelim).
+## § 6651. Repealed. Pub. L. 116–94, div. E, title II, § 212(a)(3)(G), Dec. 20, 2019, 133 Stat. 2776
 
 ### Statutory Notes
 
-#### Codification
-Section was formerly classified to [section 61d of this title](./chapter-004-officers-and-employees-of-senate-and-house-of-representatives.md#section-61d) prior to editorial reclassification and renumbering as this section.
+Section, Pub. L. 100–202, § 101(i) [title I, § 2(a)], Dec. 22, 1987, 101 Stat. 1329–290, 1329–294, related to compensation of Chaplain of Senate.
 
-Section is from the Congressional Operations Appropriations Act, 1988, which is title I of the Legislative Branch Appropriations Act, 1988.
-
-#### Increases in Compensation
-Increases in compensation for Senate officers and employees under authority of Federal Pay Comparability Act of 1970 (Pub. L. 91–656), see Salary Directives of President pro tempore of the Senate, set out as notes under [section 4571 of this title](./chapter-045-congressional-pay-and-benefits.md#section-4571).
+#### Effective Date of Repeal
+Repeal effective on the later of the first day of the first applicable pay period beginning on or after Jan. 1, 2020, or the first day of the first applicable pay period beginning on or after Dec. 20, 2019, see section 212(c) of Pub. L. 116–94, set out as an Effective Date of 2019 Amendment note under [section 282b of this title](./chapter-009-office-of-legislative-counsel.md#section-282b).
 
 
 <a id="section-6652"></a>

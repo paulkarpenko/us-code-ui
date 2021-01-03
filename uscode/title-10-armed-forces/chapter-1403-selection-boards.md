@@ -43,7 +43,7 @@ Section effective Oct. 1, 1996, see section 1691(b)(1) of Pub. L. 103–337, set
 ## § 14102. Selection boards: appointment and composition
 **(a) Appointment.—** Members of selection boards convened under [section 14101 of this title](./chapter-1403-selection-boards.md#section-14101) shall be appointed by the Secretary of the military department concerned in accordance with this section. Promotion boards and special selection boards shall consist of five or more officers. Selection boards convened under [section 14101(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section14101/b&num=0&edition=prelim) shall consist of three or more officers. All of the officers of any such selection board shall be of the same armed force as the officers under consideration by the board.
 
-**(b) Composition.—** At least one-half of the members of such a selection board shall be reserve officers, to include at least one reserve officer from each reserve component from which officers are to be considered by the board. Each member of a selection board must hold a permanent grade higher than the grade of the officers under consideration by the board, and no member of a board may hold a grade below major or lieutenant commander.
+**(b) Composition.—** At least one-half of the members of such a selection board shall be reserve officers, to include at least one reserve officer from each reserve component from which officers are to be considered by the board. Each member of a selection board must hold a permanent grade higher than the grade of the officers under consideration by the board, and no member of a board may hold a grade below major or lieutenant commander. The members of a selection board shall represent the diverse population of the armed force concerned to the extent practicable.
 
 **(c) Representation of Competitive Categories.—**
 
@@ -59,6 +59,8 @@ Section effective Oct. 1, 1996, see section 1691(b)(1) of Pub. L. 103–337, set
 Provisions similar to those in this section were contained in sections 3362(b), (c), 5893(a), (b), and 8362(b), (c) of this title, prior to repeal by Pub. L. 103–337, § 1629(a)(1), (b)(2), (c)(1).
 
 #### Amendments
+2021—Subsec. (b). Pub. L. 116–283 inserted at end: “The members of a selection board shall represent the diverse population of the armed force concerned to the extent practicable.”
+
 2003—Subsec. (a). Pub. L. 108–136 substituted “Selection boards convened under [section 14101(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section14101/b&num=0&edition=prelim)” for “Continuation boards”.
 
 #### Effective Date
@@ -167,7 +169,13 @@ Section effective Oct. 1, 1996, see section 1691(b)(1) of Pub. L. 103–337, set
 
   (D) A factual summary of the information described in subparagraphs (A), (B), and (C) that, in accordance with the regulations prescribed pursuant to paragraph (1) is prepared by administrative personnel for the purpose of facilitating the work of the selection board.
 
-(3) In the case of an eligible officer considered for promotion to a grade above colonel or, in the case of the Navy, captain, any credible information of an adverse nature, including any substantiated adverse finding or conclusion from an officially documented investigation or inquiry, shall be furnished to the selection board in accordance with standards and procedures set out in the regulations prescribed by the Secretary of Defense pursuant to paragraph (1).
+(3)
+
+  (A) In the case of an eligible officer considered for promotion to a grade above lieutenant colonel, or, in the case of the Navy, commander, any credible information of an adverse nature, including any substantiated adverse finding or conclusion from an officially documented investigation or inquiry, shall be furnished to the selection board in accordance with standards and procedures set out in the regulations prescribed by the Secretary of Defense pursuant to paragraph (1).
+
+  (B) The standards and procedures referred to in subparagraph (A) shall require the furnishing to the selection board, and to each individual member of the board, the information described in that subparagraph with regard to an officer in a grade specified in that subparagraph at each stage or phase of the selection board, concurrent with the screening, rating, assessment, evaluation, discussion, or other consideration by the board or member of the official military personnel file of the officer, or of the officer.
+
+  (C) With respect to the consideration of an officer for promotion to a grade at or below major general or, in the Navy, rear admiral, the requirements in subparagraphs (A) and (B) may be met through the convening and actions of a special selection board with respect to the officer under [section 14502a of this title](./chapter-1407-failure-of-selection-for-promotion-and-involuntary-separation.md#section-14502a).
 
 (4) Information provided to a promotion board in accordance with paragraphs (2) and (3) shall be made available to all members of the board and shall be made a part of the record of the board. Communication of such information shall be in a written form or in the form of an audio or video recording. If a communication is in the form of an audio or video recording, a written transcription of the recording shall also be made a part of the record of the promotion board.
 
@@ -211,6 +219,12 @@ Section effective Oct. 1, 1996, see section 1691(b)(1) of Pub. L. 103–337, set
 Provisions similar to those in subsec. (b) of this section were contained in [section 5895 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section5895&num=0&edition=prelim), prior to repeal by Pub. L. 103–337, § 1629(b)(2).
 
 #### Amendments
+2021—Subsec. (a)(3)(A). Pub. L. 116–283, § 505(d)(2), which directed amendment of subpar. (A) by substituting “lieutenant colonel, or, in the case of the Navy, commander” for “colonel, or, in the case of the Navy, captain”, was executed by making the substitution for “colonel or, in the case of the Navy, captain” to reflect the probable intent of Congress.
+
+Pub. L. 116–283, § 505(d)(1), designated existing provisions of par. (3) as subpar. (A).
+
+Subsec. (a)(3)(B), (C). Pub. L. 116–283, § 505(d)(3), added subpars. (B) and (C).
+
 2006—Subsec. (a)(3). Pub. L. 109–163, § 506(b)(1)(B), added par. (3). Former par. (3) redesignated (4).
 
 Subsec. (a)(4). Pub. L. 109–163, § 506(b)(1)(A), (2)(A), redesignated par. (3) as (4) and substituted “paragraphs (2) and (3)” for “paragraph (2)”. Former par. (4) redesignated (5).
@@ -256,12 +270,26 @@ Section effective Oct. 1, 1996, see section 1691(b)(1) of Pub. L. 103–337, set
 
 (2) attempt to coerce or, by any unauthorized means, influence any action of a promotion board or any member of a promotion board in the formulation of the board’s recommendations.
 
+**(f) Higher Placement of Officers of Particular Merit on Promotion List.—**
+
+(1) In selecting officers to be recommended for promotion, a promotion board may, when authorized by the Secretary concerned, recommend that officers of particular merit, from among those officers selected for promotion, be placed higher on the promotion list established by the Secretary under [section 14308(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section14308/a&num=0&edition=prelim).
+
+(2) A promotion board may make a recommendation under paragraph (1) only if an officer receives the recommendation of—
+
+  (A) a majority of the members of the promotion board; or
+
+  (B) an alternative requirement established by the Secretary concerned and furnished to the promotion board as part of the guidelines under [section 14107 of this title](./chapter-1403-selection-boards.md#section-14107).
+
+(3) For officers who receive recommendations under paragraph (1), the board shall recommend the order in which those officers should be placed on the promotion list.
+
 ### Statutory Notes
 
 #### Prior Provisions
 Provisions similar to those in this section were contained in sections 3362(e), 5893(c), 5896, and 8362(e) of this title, prior to repeal by Pub. L. 103–337, § 1629(a)(1), (b)(2), (c)(1).
 
 #### Amendments
+2019—Subsec. (f). Pub. L. 116–92 added subsec. (f).
+
 2018—Subsec. (b)(3). Pub. L. 115–232 substituted “section 7233, 8167, or 9233” for “section 3583, 5947, or 8583”.
 
 2006—Subsec. (b). Pub. L. 109–364, § 512(b)(1), substituted “Actions” for “Majority” in heading.
@@ -294,10 +322,19 @@ Section effective Oct. 1, 1996, see section 1691(b)(1) of Pub. L. 103–337, set
 
 (2) If such a report names an officer as having a record which indicates that the officer should be required to show cause for retention, the Secretary concerned may provide for the review of the record of that officer as provided under regulations prescribed under [section 14902 of this title](./chapter-1411-additional-provisions-relating-to-involuntary-separation.md#section-14902).
 
+**(d) Report of Officers Recommended for Higher Placement on Promotion List.—** A promotion board convened under [section 14101(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section14101/a&num=0&edition=prelim) shall, when authorized under [section 14108(f) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section14108/f&num=0&edition=prelim), include in its report to the Secretary concerned—
+
+(1) the names of those officers the promotion board recommends be placed higher on the promotion list; and
+
+(2) the order in which the promotion board recommends those officers should be placed on the promotion list.
+
 ### Statutory Notes
 
 #### Prior Provisions
 Provisions similar to those in subsecs. (a) and (b) of this section were contained in [section 5897 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section5897&num=0&edition=prelim), prior to repeal by Pub. L. 103–337, § 1629(b)(2).
+
+#### Amendments
+2019—Subsec. (d). Pub. L. 116–92 added subsec. (d).
 
 #### Effective Date
 Section effective Oct. 1, 1996, see section 1691(b)(1) of Pub. L. 103–337, set out as a note under [section 10001 of this title](./chapter-1001-definitions.md#section-10001).

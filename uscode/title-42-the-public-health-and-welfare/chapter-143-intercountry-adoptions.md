@@ -64,6 +64,9 @@ This chapter, referred to in subsec. (b), was in the original “this Act”, me
 #### Effective Dates; Transition Rule
 Pub. L. 106–279, title V, § 505, Oct. 6, 2000, 114 Stat. 844, provided that: “(a) Effective Dates.—“(1) Provisions effective upon enactment.—Sections 2, 3, 101 through 103, 202 through 205, 401(a), 403, 503, and 505(a) [enacting this section and sections 14902, 14911 to 14913, 14922 to 14924, 14941(a), 14943, and 14953 of this title and amending [section 622 of this title](./chapter-007-social-security.md#section-622)] shall take effect on the date of the enactment of this Act [Oct. 6, 2000]. “(2) Provisions effective upon the entry into force of the convention.—Subject to subsection (b), the provisions of this Act not specified in paragraph (1) [enacting sections 14914, 14921, 14931, 14932, 14941(b), (c), 14942, 14944, 14951, 14952, and 14954 of this title, amending sections 1101 and 1154 of Title 8, Aliens and Nationality, and enacting provisions set out as notes under this section] shall take effect upon the entry into force of the Convention [Convention on Protection of Children and Co-operation in Respect of Intercountry Adoption] for the United States pursuant to Article 46(2)(a) of the Convention [The Convention entered into force for the United States on Apr. 1, 2008.]. “(b) Transition Rule.—The Convention and this Act [see Short Title note below] shall not apply—“(1) in the case of a child immigrating to the United States, if the application for advance processing of an orphan petition or petition to classify an orphan as an immediate relative for the child is filed before the effective date described in subsection (a)(2); or “(2) in the case of a child emigrating from the United States, if the prospective adoptive parents of the child initiated the adoption process in their country of residence with the filing of an appropriate application before the effective date described in subsection (a)(2).”
 
+#### Short Title of 2020 Amendment
+Pub. L. 116–184, § 1, Oct. 30, 2020, 134 Stat. 897, provided that: “This Act [amending [section 14914 of this title](./chapter-143-intercountry-adoptions.md#section-14914) and enacting provisions set out as notes under [section 14914 of this title](./chapter-143-intercountry-adoptions.md#section-14914)] may be cited as the ‘Intercountry Adoption Information Act of 2019’.”
+
 #### Short Title of 2013 Amendment
 Pub. L. 112–276, § 1, Jan. 14, 2013, 126 Stat. 2466, provided that: “This Act [enacting [section 14925 of this title](./chapter-143-intercountry-adoptions.md#section-14925), amending sections 14922 and 14943 of this title, and enacting provisions set out as a note under [section 14925 of this title](./chapter-143-intercountry-adoptions.md#section-14925)] may be cited as the ‘Intercountry Adoption Universal Accreditation Act of 2012’.”
 
@@ -237,7 +240,7 @@ Section effective Oct. 6, 2000, with transition rule, see section 505(a)(1), (b)
 
 <a id="section-14922"></a>
 ## § 14922. Annual report on intercountry adoptions
-**(a) Reports required** Beginning 1 year after the date of the entry into force of the Convention for the United States and each year thereafter, the Secretary, in consultation with the Attorney General and other appropriate agencies, shall submit a report describing the activities of the central authority of the United States under this chapter during the preceding year to the Committee on International Relations, the Committee on Ways and Means, and the Committee on the Judiciary of the House of Representatives and the Committee on Foreign Relations, the Committee on Finance, and the Committee on the Judiciary of the Senate.
+**(a) Reports required** Beginning 1 year after the date of the entry into force of the Convention for the United States and each year thereafter, the Secretary, in consultation with the Attorney General and other appropriate agencies, shall submit a report describing the activities of the central authority of the United States under this chapter during the preceding year to the Committee on Foreign Affairs, the Committee on Ways and Means, and the Committee on the Judiciary of the House of Representatives and the Committee on Foreign Relations, the Committee on Finance, and the Committee on the Judiciary of the Senate.
 
 **(b) Report elements** Each report under subsection (a) shall set forth with respect to the year concerned, the following:
 
@@ -257,22 +260,51 @@ Section effective Oct. 6, 2000, with transition rule, see section 505(a)(1), (b)
 
 (8) The range of fees charged for accreditation of agencies and the approval of persons in the United States engaged in providing adoption services under the Convention.
 
+(9) A list of countries that established or maintained a significant law or regulation that prevented or prohibited adoptions involving immigration to the United States, regardless of whether such adoptions occurred under the Convention.
+
+(10) For each country listed under paragraph (9), the date on which the law or regulation was initially implemented.
+
+(11) Information on efforts taken with respect to a country listed under paragraph (9) to encourage the resumption of halted or stalled adoption proceedings involving immigration to the United States, regardless of whether the adoptions would have occurred under the Convention.
+
+(12) Information on any action the Secretary carried out that prevented, prohibited, or halted any adoptions involving immigration to the United States, regardless of whether the adoptions occurred under the Convention.
+
+(13) For each country listed pursuant to paragraph (12), a description of—
+
+  (A) what policies, procedures, resources, and safeguards the country lacks, or other shortcomings or circumstances, that caused the action to be carried out;
+
+  (B) what progress the country has made to alleviate those shortcomings; and
+
+  (C) what steps the Department of State has taken in order to assist the country to reopen intercountry adoptions.
+
+(14) An assessment of the impact of the fee schedule of the Intercountry Adoption Accreditation and Maintenance Entity on families seeking to adopt internationally, especially low-income families, families seeking to adopt sibling groups, or families seeking to adopt children with disabilities.
+
+**(c) Public availability of report** The Secretary shall make the information contained in the report required under subsection (a) available to the public on the website of the Department of State.
+
 ### Statutory Notes
 
 #### References in Text
 This chapter, referred to in subsecs. (a) and (b)(5), (6), was in the original “this Act”, meaning Pub. L. 106–279, Oct. 6, 2000, 114 Stat. 825, known as the Intercountry Adoption Act of 2000, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 14901 of this title](./chapter-143-intercountry-adoptions.md#section-14901) and Tables.
 
 #### Amendments
+2020—Subsec. (a). Pub. L. 116–184, § 2(d), substituted “Foreign Affairs” for “International Relations”.
+
+Subsec. (b)(9) to (14). Pub. L. 116–184, § 2(a), added pars. (9) to (14).
+
+Subsec. (c). Pub. L. 116–184, § 2(b), added subsec. (c).
+
 2006—Subsec. (b)(3). Pub. L. 109–288 substituted “622(b)(12)” for “622(b)(14)”.
 
-#### Change of Name
-Committee on International Relations of House of Representatives changed to Committee on Foreign Affairs of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
+#### Effective Date of 2020 Amendment
+Pub. L. 116–184, § 2(e), Oct. 30, 2020, 134 Stat. 898, provided that: “The amendments made by this section [amending this section] shall apply with respect to reports required to be submitted under section 104 of the Intercountry Adoption Act of 2000 ([42 U.S.C. 14914](./chapter-143-intercountry-adoptions.md#section-14914)) beginning on the date that is 180 days after the date of enactment of this Act [Oct. 30, 2020].”
 
 #### Effective Date of 2006 Amendment
 Amendment by Pub. L. 109–288 effective Oct. 1, 2006, and applicable to payments under parts B and E of subchapter IV of chapter 7 of this title for calendar quarters beginning on or after such date, without regard to whether implementing regulations have been promulgated, and with delay permitted if State legislation is required to meet additional requirements, see section 12(a), (b) of Pub. L. 109–288, set out as a note under [section 621 of this title](./chapter-007-social-security.md#section-621).
 
 #### Effective Date
 Section effective upon entry into force for the United States of the Convention on Protection of Children and Co-operation in Respect of Intercountry Adoption, pursuant to Article 46(2)(a) of the Convention, with transition rule, see section 505(a)(2), (b) of Pub. L. 106–279, set out as an Effective Dates; Transition Rule note under [section 14901 of this title](./chapter-143-intercountry-adoptions.md#section-14901).
+
+#### Privacy Concerns
+Pub. L. 116–184, § 2(c), Oct. 30, 2020, 134 Stat. 898, provided that: “In complying with the amendments made by subsections (a) and (b) [amending this section], the Secretary shall avoid, to the maximum extent practicable, disclosing any personally identifiable information relating to United States citizens or the adoptees of such citizens.”
 
 
 <a id="section-14923"></a>

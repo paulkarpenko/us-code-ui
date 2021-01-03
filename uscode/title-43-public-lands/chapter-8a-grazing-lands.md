@@ -239,11 +239,11 @@ Section, act June 28, 1934, ch. 865, § 17, as added June 26, 1936, ch. 842, § 
 
 ### Statutory Notes
 
-#### Transfer of Functions
-“Secretary of the Interior” substituted for “Director of Grazing” in subsec. (b) on authority of section 403 of Reorg. Plan No. 3 of 1946, which abolished Grazing Service and transferred functions of Grazing Service to a new agency in Department of the Interior to be known as Bureau of Land Management. See section 403 of Reorg. Plan No. 3 of 1946, set out as a note under [section 1 of this title](./chapter-001-bureau-of-land-management.md#section-1).
-
 #### Termination of Advisory Boards
 Advisory boards in existence on Jan. 5, 1973, to terminate not later than the expiration of the 2-year period following Jan. 5, 1973, unless, in the case of a board established by the President or an officer of the Federal Government, such board is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a board established by the Congress, its duration is otherwise provided by law. Advisory boards established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a board established by the President or an officer of the Federal Government, such board is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a board established by the Congress, its duration is otherwise provided by law. See sections 3(2) and 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, 776, set out in the Appendix to Title 5, Government Organization and Employees.
+
+#### Transfer of Functions
+“Secretary of the Interior” substituted for “Director of Grazing” in subsec. (b) on authority of section 403 of Reorg. Plan No. 3 of 1946, which abolished Grazing Service and transferred functions of Grazing Service to a new agency in Department of the Interior to be known as Bureau of Land Management. See section 403 of Reorg. Plan No. 3 of 1946, set out as a note under [section 1 of this title](./chapter-001-bureau-of-land-management.md#section-1).
 
 
 <a id="section-315o-2"></a>

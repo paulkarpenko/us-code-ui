@@ -123,7 +123,7 @@ Pub. L. 105–261, div. A, title XIV, Oct. 17, 1998, 112 Stat. 2167, as amended 
 [For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see former section 313(1) and sections 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).]
 
 #### Executive Order No. 13328
-Ex. Ord. No. 13328, Feb. 6, 2004, 69 F.R. 6901, which established the Commission on the Intelligence Capabilities of the United States Regarding Weapons of Mass Destruction, was revoked by Ex. Ord. No. 13385, § 3(a), Sept. 29, 2005, 70 F.R. 57990, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
+Ex. Ord. No. 13328, Feb. 6, 2004, 69 F.R. 6901, which established the Commission on the Intelligence Capabilities of the United States Regarding Weapons of Mass Destruction, was revoked by Ex. Ord. No. 13385, § 3(a), Sept. 29, 2005, 70 F.R. 57990, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
 
 
 <a id="section-2312"></a>

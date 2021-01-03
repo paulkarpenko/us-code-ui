@@ -23,9 +23,13 @@ In this chapter:
 
     (ii) by an Indian tribe or an individual Indian, subject to restriction against alienation under laws of the United States; or
 
-    (iii) by a dependent Indian community; and
+    (iii) by a dependent Indian community;
 
-  (C) land that is owned by an Indian tribe and was conveyed by the United States to a Native Corporation pursuant to the Alaska Native Claims Settlement Act ([43 U.S.C. 1601](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1601&num=0&edition=prelim) et seq.), or that was conveyed by the United States to a Native Corporation in exchange for such land.
+  (C) land that is owned by an Indian tribe and was conveyed by the United States to a Native Corporation pursuant to the Alaska Native Claims Settlement Act ([43 U.S.C. 1601](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1601&num=0&edition=prelim) et seq.), or that was conveyed by the United States to a Native Corporation in exchange for such land;
+
+  (D) any land located in a census tract in which the majority of residents are Natives (as defined in section 3(b) of the Alaska Native Claims Settlement Act ([43 U.S.C. 1602(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1602/b&num=0&edition=prelim))); and
+
+  (E) any land located in a census tract in which the majority of residents are persons who are enrolled members of a federally recognized Tribe or village.
 
 (3) The term “Indian reservation” includes—
 
@@ -74,7 +78,7 @@ In this chapter:
 ### Statutory Notes
 
 #### References in Text
-The Alaska Native Claims Settlement Act, referred to in par. (2)(C), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, as amended, which is classified generally to chapter 33 (§ 1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under [section 1601 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1601&num=0&edition=prelim) and Tables.
+The Alaska Native Claims Settlement Act, referred to in par. (2)(C), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, which is classified generally to chapter 33 (§ 1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under [section 1601 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1601&num=0&edition=prelim) and Tables.
 
 The Indian Self-Determination and Education Assistance Act, referred to in pars. (4)(A) and (9)(A), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203. Titles I and IV of the Act are classified principally to subchapter I (§ 5321 et seq.) and generally to subchapter IV (§ 5361 et seq.), respectively, of chapter 46 of this title. Section 4 of the Act was classified to [section 450b of this title](./chapter-014-miscellaneous.md#section-450b) prior to editorial reclassification as [section 5304 of this title](./chapter-046-indian-self-determination-and-education-assistance.md#section-5304). For complete classification of this Act to the Code, see section 1 of Pub. L. 93–638, set out as a Short Title note under [section 5301 of this title](./chapter-046-indian-self-determination-and-education-assistance.md#section-5301) and Tables.
 
@@ -82,6 +86,8 @@ The Indian Self-Determination and Education Assistance Act, referred to in pars.
 A prior section 3501, Pub. L. 102–486, title XXVI, § 2601, Oct. 24, 1992, 106 Stat. 3113, defined terms, prior to the general amendment of this chapter by Pub. L. 109–58.
 
 #### Amendments
+2020—Par. (2)(D), (E). Pub. L. 116–260 added subpars. (D) and (E).
+
 2018—Pars. (9) to (11). Pub. L. 115–325, § 105(a)(1), (2), added par. (9) and redesignated former pars. (9) and (10) as (10) and (11), respectively. Former par. (11) redesignated (12).
 
 Par. (12). Pub. L. 115–325, § 105(a)(3), added par. (12) and struck out former par. (12) which read as follows: “The term ‘tribal energy resource development organization’ means an organization of two or more entities, at least one of which is an Indian tribe, that has the written consent of the governing bodies of all Indian tribes participating in the organization to apply for a grant, loan, or other assistance under [section 3502 of this title](./chapter-037-indian-energy.md#section-3502).”
@@ -183,9 +189,13 @@ Pub. L. 109–58, title V, § 504, Aug. 8, 2005, 119 Stat. 778, provided that: �
 
   (C) In providing a grant under this subsection for an activity to provide, or expand the provision of, electricity on Indian land, the Director shall encourage cooperative arrangements between Indian tribes and utilities that provide service to Indian tribes, as the Director determines to be appropriate.
 
+  (D) The Secretary of Energy may reduce any applicable cost share required of an Indian tribe, intertribal organization, or tribal energy development organization in order to receive a grant under this subsection to not less than 10 percent if the Indian tribe, intertribal organization, or tribal energy development organization meets criteria developed by the Secretary of Energy, including financial need.
+
+  (E) [Section 16352 of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section16352&num=0&edition=prelim) shall not apply to assistance provided under this subsection.
+
 (6) The Secretary of Energy may issue such regulations as the Secretary determines to be necessary to carry out this subsection.
 
-(7) There is authorized to be appropriated to carry out this subsection $20,000,000 for each of fiscal years 2006 through 2016.
+(7) There is authorized to be appropriated to carry out this subsection $30,000,000 for each of fiscal years 2021 through 2025.
 
 **(c) Department of Energy loan guarantee program**
 
@@ -228,6 +238,10 @@ August 8, 2005, referred to in subsec. (c)(7), was in the original “the date o
 A prior section 3502, Pub. L. 102–486, title XXVI, § 2602, Oct. 24, 1992, 106 Stat. 3113, related to tribal consultation in implementing provisions, prior to the general amendment of this chapter by Pub. L. 109–58.
 
 #### Amendments
+2020—Subsec. (b)(5)(D), (E). Pub. L. 116–260, § 8013(b), added subpars. (D) and (E).
+
+Subsec. (b)(7). Pub. L. 116–260, § 8013(c), substituted “$30,000,000 for each of fiscal years 2021 through 2025” for “$20,000,000 for each of fiscal years 2006 through 2016”.
+
 2018—Subsec. (a)(1). Pub. L. 115–325, § 105(b)(1)(A), substituted “tribal energy development organizations” for “tribal energy resource development organizations”.
 
 Subsec. (a)(2). Pub. L. 115–325, § 105(b)(1)(B), substituted “tribal energy development organizations” for “tribal energy resource development organizations” wherever appearing.

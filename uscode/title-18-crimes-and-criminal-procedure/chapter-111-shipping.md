@@ -516,11 +516,11 @@ Subsec. (c). Pub. L. 104–294 inserted before period at end “, and the term �
 #### Effective Date
 Section effective Mar. 6, 1995, see section 60019(c)(1), (2)(B) of Pub. L. 103–322, set out as a note under [section 2280 of this title](./chapter-111-shipping.md#section-2280).
 
-#### Territorial Sea of United States
-For extension of territorial sea of United States, see Proc. No. 5928, set out as a note under [section 1331 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1331&num=0&edition=prelim), Public Lands.
-
 #### Definitions
 For definitions of terms used in this section, see [section 2280(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section2280/d&num=0&edition=prelim).
+
+#### Territorial Sea of United States
+For extension of territorial sea of United States, see Proc. No. 5928, set out as a note under [section 1331 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1331&num=0&edition=prelim), Public Lands.
 
 
 <a id="section-2281a"></a>
@@ -592,12 +592,15 @@ For definitions of terms used in this section, see [section 2280(d) of this titl
 <a id="section-2282b"></a>
 ## § 2282B. Violence against aids to maritime navigation
 
-Whoever intentionally destroys, seriously damages, alters, moves, or tampers with any aid to maritime navigation maintained by the Saint Lawrence Seaway Development Corporation under the authority of section 4 of the Act of May 13, 1954 ([33 U.S.C. 984](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section984&num=0&edition=prelim)), by the Coast Guard pursuant to section 81 11 See References in Text note below. of title 14, United States Code, or lawfully maintained under authority granted by the Coast Guard pursuant to [section 83 of title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section83&num=0&edition=prelim), United States Code, if such act endangers or is likely to endanger the safe navigation of a ship, shall be fined under this title or imprisoned for not more than 20 years, or both.
+Whoever intentionally destroys, seriously damages, alters, moves, or tampers with any aid to maritime navigation maintained by the Great Lakes St. Lawrence Seaway Development Corporation under the authority of section 4 of the Act of May 13, 1954 ([33 U.S.C. 984](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section984&num=0&edition=prelim)), by the Coast Guard pursuant to section 81 11 See References in Text note below. of title 14, United States Code, or lawfully maintained under authority granted by the Coast Guard pursuant to [section 83 of title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section83&num=0&edition=prelim), United States Code, if such act endangers or is likely to endanger the safe navigation of a ship, shall be fined under this title or imprisoned for not more than 20 years, or both.
 
 ### Statutory Notes
 
 #### References in Text
 [Section 81 of title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section81&num=0&edition=prelim), referred to in text, was redesignated [section 541 of title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section541&num=0&edition=prelim) by Pub. L. 115–282, title I, § 105(b), Dec. 4, 2018, 132 Stat. 4200, and references to [section 81 of title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section81&num=0&edition=prelim) deemed to refer to such redesignated section, see section 123(b)(1) of Pub. L. 115–282, set out as a References to Sections of Title 14 as Redesignated by Pub. L. 115–282 note preceding [section 101 of Title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section101&num=0&edition=prelim), Coast Guard.
+
+#### Amendments
+2020—Pub. L. 116–260 substituted “Great Lakes St. Lawrence Seaway Development Corporation” for “Saint Lawrence Seaway Development Corporation”.
 
 
 <a id="section-2283"></a>

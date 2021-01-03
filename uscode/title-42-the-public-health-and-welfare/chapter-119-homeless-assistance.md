@@ -2,7 +2,7 @@
 title: 42
 chapter: '119'
 heading: HOMELESS ASSISTANCE
-section_count: 76
+section_count: 77
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42&num=0&edition=prelim
 ---
@@ -880,9 +880,11 @@ For purposes of this subchapter:
 
 (7) **Families with children and youth defined as homeless under other Federal statutes** — The term “families with children and youth defined as homeless under other Federal statutes” means any children or youth that are defined as “homeless” under any Federal statute other than this part, but are not defined as homeless under [section 11302 of this title](./chapter-119-homeless-assistance.md#section-11302), and shall also include the parent, parents, or guardian of such children or youth under part B of subchapter VI this 11 So in original. Probably should be “of this”. chapter ([42 U.S.C. 11431](./chapter-119-homeless-assistance.md#section-11431) et seq.).
 
-(8) **Geographic area** — The term “geographic area” means a State, metropolitan city, urban county, town, village, or other nonentitlement area, or a combination or consortia of such, in the United States, as described in [section 5306 of this title](./chapter-069-community-development.md#section-5306).
+(8) **Formula area** — The term “formula area” has the meaning given the term in section 1000.302 of title 24, Code of Federal Regulations, or any successor regulation.
 
-(9) **Homeless individual with a disability**
+(9) **Geographic area** — The term “geographic area” means a State, metropolitan city, urban county, town, village, or other nonentitlement area, a formula area,or a combination or consortia of such, in the United States, as described in [section 5306 of this title](./chapter-069-community-development.md#section-5306).
+
+(10) **Homeless individual with a disability**
 
   (A) *In general* — The term “homeless individual with a disability” means an individual who is homeless, as defined in [section 11302 of this title](./chapter-119-homeless-assistance.md#section-11302), and has a disability that—
 
@@ -902,7 +904,9 @@ For purposes of this subchapter:
 
   (B) *Rule* — Nothing in clause (iii) of subparagraph (A) shall be construed to limit eligibility under clause (i) or (ii) of subparagraph (A).
 
-(10) **Legal entity** — The term “legal entity” means—
+(11) **Indian tribe** — The term “Indian Tribe” has the meaning given the term “Indian tribe” in [section 4103 of title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section4103&num=0&edition=prelim).
+
+(12) **Legal entity** — The term “legal entity” means—
 
   (A) an entity described in [section 501(c)(3) of title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section501/c/3&num=0&edition=prelim) and exempt from tax under section 501(a) of such title;
 
@@ -910,11 +914,11 @@ For purposes of this subchapter:
 
   (C) a consortium of instrumentalities of State or local governments that has constituted itself as an entity.
 
-(11) **Metropolitan city; urban county; nonentitlement area** — The terms “metropolitan city”, “urban county”, and “nonentitlement area” have the meanings given such terms in [section 5302(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5302/a&num=0&edition=prelim).
+(13) **Metropolitan city; urban county; nonentitlement area** — The terms “metropolitan city”, “urban county”, and “nonentitlement area” have the meanings given such terms in [section 5302(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5302/a&num=0&edition=prelim).
 
-(12) **New** — The term “new” means, with respect to housing, that no assistance has been provided under this subchapter for the housing.
+(14) **New** — The term “new” means, with respect to housing, that no assistance has been provided under this subchapter for the housing.
 
-(13) **Operating costs** — The term “operating costs” means expenses incurred by a project sponsor operating transitional housing or permanent housing under this subchapter with respect to—
+(15) **Operating costs** — The term “operating costs” means expenses incurred by a project sponsor operating transitional housing or permanent housing under this subchapter with respect to—
 
   (A) the administration, maintenance, repair, and security of such housing;
 
@@ -922,11 +926,11 @@ For purposes of this subchapter:
 
   (C) coordination of services as needed to ensure long-term housing stability.
 
-(14) **Outpatient health services** — The term “outpatient health services” means outpatient health care services, mental health services, and outpatient substance abuse services.
+(16) **Outpatient health services** — The term “outpatient health services” means outpatient health care services, mental health services, and outpatient substance abuse services.
 
-(15) **Permanent housing** — The term “permanent housing” means community-based housing without a designated length of stay, and includes both permanent supportive housing and permanent housing without supportive services.
+(17) **Permanent housing** — The term “permanent housing” means community-based housing without a designated length of stay, and includes both permanent supportive housing and permanent housing without supportive services.
 
-(16) **Personally identifying information** — The term “personally identifying information” means individually identifying information for or about an individual, including information likely to disclose the location of a victim of domestic violence, dating violence, sexual assault, or stalking, including—
+(18) **Personally identifying information** — The term “personally identifying information” means individually identifying information for or about an individual, including information likely to disclose the location of a victim of domestic violence, dating violence, sexual assault, or stalking, including—
 
   (A) a first and last name;
 
@@ -938,7 +942,7 @@ For purposes of this subchapter:
 
   (E) any other information, including date of birth, racial or ethnic background, or religious affiliation, that, in combination with any other non-personally identifying information, would serve to identify any individual.
 
-(17) **Private nonprofit organization** — The term “private nonprofit organization” means an organization—
+(19) **Private nonprofit organization** — The term “private nonprofit organization” means an organization—
 
   (A) no part of the net earnings of which inures to the benefit of any member, founder, contributor, or individual;
 
@@ -948,9 +952,9 @@ For purposes of this subchapter:
 
   (D) that practices nondiscrimination in the provision of assistance.
 
-(18) **Project** — The term “project” means, with respect to activities carried out under part C, eligible activities described in [section 11383(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section11383/a&num=0&edition=prelim), undertaken pursuant to a specific endeavor, such as serving a particular population or providing a particular resource.
+(20) **Project** — The term “project” means, with respect to activities carried out under part C, eligible activities described in [section 11383(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section11383/a&num=0&edition=prelim), undertaken pursuant to a specific endeavor, such as serving a particular population or providing a particular resource.
 
-(19) **Project-based** — The term “project-based” means, with respect to rental assistance, that the assistance is provided pursuant to a contract that—
+(21) **Project-based** — The term “project-based” means, with respect to rental assistance, that the assistance is provided pursuant to a contract that—
 
   (A) is between—
 
@@ -960,9 +964,9 @@ For purposes of this subchapter:
 
   (B) provides that rental assistance payments shall be made to the owner and that the units in the structure shall be occupied by eligible persons for not less than the term of the contract.
 
-(20) **Project sponsor** — The term “project sponsor” means, with respect to proposed eligible activities, the organization directly responsible for carrying out the proposed eligible activities.
+(22) **Project sponsor** — The term “project sponsor” means, with respect to proposed eligible activities, the organization directly responsible for carrying out the proposed eligible activities.
 
-(21) **Recipient** — Except as used in part B, the term “recipient” means an eligible entity who—
+(23) **Recipient** — Except as used in part B, the term “recipient” means an eligible entity who—
 
   (A) submits an application for a grant under [section 11382 of this title](./chapter-119-homeless-assistance.md#section-11382) that is approved by the Secretary;
 
@@ -974,13 +978,13 @@ For purposes of this subchapter:
 
     (ii) awards the funds to project sponsors to carry out the projects.
 
-(22) **Secretary** — The term “Secretary” means the Secretary of Housing and Urban Development.
+(24) **Secretary** — The term “Secretary” means the Secretary of Housing and Urban Development.
 
-(23) **Serious mental illness** — The term “serious mental illness” means a severe and persistent mental illness or emotional impairment that seriously limits a person’s ability to live independently.
+(25) **Serious mental illness** — The term “serious mental illness” means a severe and persistent mental illness or emotional impairment that seriously limits a person’s ability to live independently.
 
-(24) **Solo applicant** — The term “solo applicant” means an entity that is an eligible entity, directly submits an application for a grant under part C to the Secretary, and, if awarded such grant, receives such grant directly from the Secretary.
+(26) **Solo applicant** — The term “solo applicant” means an entity that is an eligible entity, directly submits an application for a grant under part C to the Secretary, and, if awarded such grant, receives such grant directly from the Secretary.
 
-(25) **Sponsor-based** — The term “sponsor-based” means, with respect to rental assistance, that the assistance is provided pursuant to a contract that—
+(27) **Sponsor-based** — The term “sponsor-based” means, with respect to rental assistance, that the assistance is provided pursuant to a contract that—
 
   (A) is between—
 
@@ -994,9 +998,9 @@ For purposes of this subchapter:
 
   (B) provides that rental assistance payments shall be made to the independent entity and that eligible persons shall occupy such assisted units.
 
-(26) **State** — Except as used in part B, the term “State” means each of the several States, the District of Columbia, the Commonwealth of Puerto Rico, the United States Virgin Islands, Guam, American Samoa, the Commonwealth of the Northern Mariana Islands, the Trust Territory of the Pacific Islands, and any other territory or possession of the United States.
+(28) **State** — Except as used in part B, the term “State” means each of the several States, the District of Columbia, the Commonwealth of Puerto Rico, the United States Virgin Islands, Guam, American Samoa, the Commonwealth of the Northern Mariana Islands, the Trust Territory of the Pacific Islands, and any other territory or possession of the United States.
 
-(27) **Supportive services** — The term “supportive services” means services that address the special needs of people served by a project, including—
+(29) **Supportive services** — The term “supportive services” means services that address the special needs of people served by a project, including—
 
   (A) the establishment and operation of a child care services program for families experiencing homelessness;
 
@@ -1022,7 +1026,7 @@ For purposes of this subchapter:
 
   (J) other supportive services necessary to obtain and maintain housing.
 
-(28) **Tenant-based** — The term “tenant-based” means, with respect to rental assistance, assistance that—
+(30) **Tenant-based** — The term “tenant-based” means, with respect to rental assistance, assistance that—
 
   (A) allows an eligible person to select a housing unit in which such person will live using rental assistance provided under part C, except that if necessary to assure that the provision of supportive services to a person participating in a program is feasible, a recipient or project sponsor may require that the person live—
 
@@ -1032,20 +1036,31 @@ For purposes of this subchapter:
 
   (B) provides that a person may receive such assistance and move to another structure, unit, or geographic area if the person has complied with all other obligations of the program and has moved out of the assisted dwelling unit in order to protect the health or safety of an individual who is or has been the victim of domestic violence, dating violence, sexual assault, or stalking, and who reasonably believed he or she was imminently threatened by harm from further violence if he or she remained in the assisted dwelling unit.
 
-(29) **Transitional housing** — The term “transitional housing” means housing the purpose of which is to facilitate the movement of individuals and families experiencing homelessness to permanent housing within 24 months or such longer period as the Secretary determines necessary.
+(31) **Transitional housing** — The term “transitional housing” means housing the purpose of which is to facilitate the movement of individuals and families experiencing homelessness to permanent housing within 24 months or such longer period as the Secretary determines necessary.
 
-(30) **Unified funding agency** — The term “unified funding agency” means a collaborative applicant that performs the duties described in [section 11360a(g) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section11360a/g&num=0&edition=prelim).
+(32) **Unified funding agency** — The term “unified funding agency” means a collaborative applicant that performs the duties described in [section 11360a(g) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section11360a/g&num=0&edition=prelim).
 
-(31) **Underserved populations** — The term “underserved populations” includes populations underserved because of geographic location, underserved racial and ethnic populations, populations underserved because of special needs (such as language barriers, disabilities, alienage status, or age), and any other population determined to be underserved by the Secretary, as appropriate.
+(33) **Underserved populations** — The term “underserved populations” includes populations underserved because of geographic location, underserved racial and ethnic populations, populations underserved because of special needs (such as language barriers, disabilities, alienage status, or age), and any other population determined to be underserved by the Secretary, as appropriate.
 
-(32) **Victim service provider** — The term “victim service provider” means a private nonprofit organization whose primary mission is to provide services to victims of domestic violence, dating violence, sexual assault, or stalking. Such term includes rape crisis centers, battered women’s shelters, domestic violence transitional housing programs, and other programs.
+(34) **Victim service provider** — The term “victim service provider” means a private nonprofit organization whose primary mission is to provide services to victims of domestic violence, dating violence, sexual assault, or stalking. Such term includes rape crisis centers, battered women’s shelters, domestic violence transitional housing programs, and other programs.
 
-(33) **Victim services** — The term “victim services” means services that assist domestic violence, dating violence, sexual assault, or stalking victims, including services offered by rape crisis centers and domestic violence shelters, and other organizations, with a documented history of effective work concerning domestic violence, dating violence, sexual assault, or stalking.
+(35) **Victim services** — The term “victim services” means services that assist domestic violence, dating violence, sexual assault, or stalking victims, including services offered by rape crisis centers and domestic violence shelters, and other organizations, with a documented history of effective work concerning domestic violence, dating violence, sexual assault, or stalking.
 
 ### Statutory Notes
 
 #### Prior Provisions
 A prior section 401 of Pub. L. 100–77 was renumbered section 403 and is classified to [section 11361 of this title](./chapter-119-homeless-assistance.md#section-11361).
+
+#### Amendments
+2020—Par. (8). Pub. L. 116–260, § 102(a)(1)(C), added par. (8). Former par. (8) redesignated (9).
+
+Par. (9). Pub. L. 116–260, § 102(a)(1)(B), (D), redesignated par. (8) as (9) and inserted “a formula area,” after “nonentitlement area,”.
+
+Par. (10). Pub. L. 116–260, § 102(a)(1)(B), redesignated par. (9) as (10). Former par. (10) redesignated (12).
+
+Par. (11). Pub. L. 116–260, § 102(a)(1)(E), added par. (11). Former par. (11) redesignated (13).
+
+Pars. (12) to (35). Pub. L. 116–260, § 102(a)(1)(A), redesignated pars. (10) to (33) as (12) to (35), respectively.
 
 #### Effective Date
 Section effective on the earlier of 18 months after May 20, 2009, or 3 months after publication of certain final regulations by Secretary of Housing and Urban Development, see section 1503 of Pub. L. 111–22, set out as an Effective Date of 2009 Amendment note under [section 11302 of this title](./chapter-119-homeless-assistance.md#section-11302).
@@ -1291,6 +1306,37 @@ Section 1105 of Pub. L. 111–22, which directed amendment of subtitle A of the 
 
 #### Effective Date
 Section effective on the earlier of 18 months after May 20, 2009, or 3 months after publication of certain final regulations by Secretary of Housing and Urban Development, see section 1503 of Pub. L. 111–22, set out as an Effective Date of 2009 Amendment note under [section 11302 of this title](./chapter-119-homeless-assistance.md#section-11302).
+
+
+<a id="section-11364a"></a>
+## § 11364a. Availability of amounts recaptured from appropriated funds
+**(a)** Amounts recaptured from funds appropriated for this or any succeeding fiscal year under the heading “Department of Housing and Urban Development—Community Planning and Development—Homeless Assistance Grants” shall become available until expended not later than the end of the fifth fiscal year after the last fiscal year for which such funds are available and shall be available, in addition to rental assistance amounts that were recaptured and made available until expended under such heading by any prior Act, and in addition to such other funds as may be available for such purposes, for the following purposes:
+
+(1) For grants under the Continuum of Care program under subtitle C of title IV of the McKinney-Vento Homeless Assistance Act ([42 U.S.C. 11381](./chapter-119-homeless-assistance.md#section-11381) et seq.);
+
+(2) For grants under the Emergency Solutions Grant program under subtitle B of title IV of such Act ([42 U.S.C. 11371](./chapter-119-homeless-assistance.md#section-11371) et seq.);
+
+(3) Not less than 10 percent of the amounts shall be used only for grants in rural areas under the Continuum of Care program, to include activities eligible under the Rural Housing Stability Assistance program under section 491 of such Act ([42 U.S.C. 11408](./chapter-119-homeless-assistance.md#section-11408)) that are not otherwise eligible under the Continuum of Care program; and
+
+(4) Not less than 10 percent of the amounts shall be for emergency solutions grants for disaster areas as authorized by subsection (c).
+
+**(b)** Prior to the use of any recaptured amounts referred to in subsection (a), including competing, awarding, or obligating such amounts, the Secretary shall submit a plan in accordance with subsection (a) that specifies the planned use of any such amounts to the Committees on Appropriations of the House of Representatives and the Senate, and receive prior written approval of such plan, except that use of amounts in the plan for the purposes specified in subsection (a)(4) may begin once such plan is submitted to such Committees.
+
+**(c)**
+
+(1) The Secretary may make grants under the Emergency Solutions Grants program under subtitle B of title IV of the McKinney-Vento Homeless Assistance Act ([42 U.S.C. 11371](./chapter-119-homeless-assistance.md#section-11371) et seq.) to States or local governments to address the needs of homeless individuals or families or individuals or families at risk of homelessness in areas affected by a major disaster declared pursuant to the Robert T. Stafford Disaster Relief and Emergency Assistance Act ([42 U.S.C. 5121](./chapter-068-disaster-relief.md#section-5121) et seq.) on or after December 20, 2019, whose needs are not otherwise served or fully met by existing Federal disaster relief programs, including the Transitional Sheltering Assistance program under such Act ([42 U.S.C. 5170b](./chapter-068-disaster-relief.md#section-5170b)).
+
+(2) For purposes of grants under paragraph (1), the Secretary may suspend all consultation, citizen participation, and matching requirements.
+
+### Statutory Notes
+
+#### References in Text
+The McKinney-Vento Homeless Assistance Act, referred to in subsecs. (a)(1), (2), and (c)(1), is Pub. L. 100–77, July 22, 1987, 101 Stat. 482. Subtitle B of title IV of the Act is classified generally to part B (§ 11371 et seq.) of this subchapter. Subtitle C of title IV of the Act is classified generally to part C (§ 11381 et seq.) of this subchapter. For complete classification of this Act to the Code, see Short Title note set out under [section 11301 of this title](./chapter-119-homeless-assistance.md#section-11301) and Tables.
+
+The Robert T. Stafford Disaster Relief and Emergency Assistance Act, referred to in subsec. (c)(1), is Pub. L. 93–288, May 22, 1974, 88 Stat. 143, which is classified principally to chapter 68 (§ 5121 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 5121 of this title](./chapter-068-disaster-relief.md#section-5121) and Tables.
+
+#### Codification
+Section was enacted as part of the Department of Housing and Urban Development Appropriations Act, 2020, and also as part of the Transportation, Housing and Urban Development, and Related Agencies Appropriations Act, 2020, and the Further Consolidated Appropriations Act, 2020, and not as part of the McKinney-Vento Homeless Assistance Act which comprises this chapter.
 
 
 <a id="section-11371"></a>
@@ -1724,6 +1770,9 @@ Another prior section 11382, Pub. L. 100–77, title IV, § 422, July 22, 1987, 
 
 #### Effective Date
 Section effective on the earlier of 18 months after May 20, 2009, or 3 months after publication of certain final regulations by Secretary of Housing and Urban Development, see section 1503 of Pub. L. 111–22, set out as an Effective Date of 2009 Amendment note under [section 11302 of this title](./chapter-119-homeless-assistance.md#section-11302).
+
+#### Homeless Assistance Grants
+Pub. L. 116–260, div. Q, title I, § 104, Dec. 27, 2020, 134 Stat. 2170, provided that: “(a) Renewal of Continuum of Care Projects.—In allocating and awarding amounts provided for the Continuum of Care program under subtitle C of title IV of the McKinney-Vento Homeless Assistance Act ([42 U.S.C. 11381](./chapter-119-homeless-assistance.md#section-11381) et seq.), the Secretary of Housing and Urban Development shall renew for one 12-month period, without additional competition, all projects with existing grants expiring during calendar year 2021, including youth homelessness demonstration projects and shelter plus care projects expiring during calendar year 2021, notwithstanding any inconsistent provisions in subtitle C of title IV of the McKinney-Vento Homeless Assistance Act or any other Act. “(b) Planning and Unified Funding Agency Awards.—Continuum of Care planning and Unified Funding Agency awards expiring in calendar year 2021 may also be renewed and the Continuum of Care may designate a new collaborative applicant to receive the award in accordance with the existing process established by the Secretary of Housing and Urban Development. “(c) Notice.—The Secretary of Housing and Urban Development shall publish a notice that identifies and lists all projects and awards eligible for such noncompetitive renewal, prescribes the format and process by which the projects and awards from the list will be renewed, makes adjustments to the renewal amount based on changes to the fair market rent, and establishes a maximum amount for the renewal of planning and Unified Funding Agency awards notwithstanding the requirement that such maximum amount be established in a notice of funding availability.”
 
 #### Definition
 For provisions relating to definition of “local government” as used in this section, see section 100261 of Pub. L. 112–141, set out as a HEARTH Act Technical Corrections note under [section 11360 of this title](./chapter-119-homeless-assistance.md#section-11360).
@@ -2264,13 +2313,19 @@ Another prior section 434 of Pub. L. 100–77 authorized appropriations for supp
 
 
 <a id="section-11389"></a>
-## § 11389. Repealed. Pub. L. 111–22, div. B, title III, § 1305(1), May 20, 2009, 123 Stat. 1690
+## § 11389. Indian tribes and tribally designated housing entities
+
+Notwithstanding any other provision of this subchapter, for purposes of this part, an Indian Tribe or tribally designated housing entity (as defined in [section 4103 of title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section4103&num=0&edition=prelim)) may—
+
+(1) be a collaborative applicant or eligible entity; or
+
+(2) receive grant amounts from another entity that receives a grant directly from the Secretary, and use the amounts in accordance with this part.
 
 ### Statutory Notes
 
-Section, Pub. L. 100–77, title IV, § 429, as added Pub. L. 102–550, title XIV, § 1403(a), Oct. 28, 1992, 106 Stat. 4021, authorized appropriations for fiscal years 1993 and 1994.
-
 #### Prior Provisions
+A prior section 11389, Pub. L. 100–77, title IV, § 429, as added Pub. L. 102–550, title XIV, § 1403(a), Oct. 28, 1992, 106 Stat. 4021, authorized appropriations for fiscal years 1993 and 1994, prior to repeal by Pub. L. 111–22, div. B, title III, § 1305(1), May 20, 2009, 123 Stat. 1690, effective on the earlier of 18 months after May 20, 2009, or 3 months after publication of certain final regulations by Secretary of Housing and Urban Development, see section 1503 of Pub. L. 111–22, set out as an Effective Date of 2009 Amendment note under [section 11302 of this title](./chapter-119-homeless-assistance.md#section-11302).
+
 Prior sections 11391 to 11407b, consisting of former parts D to F of this subchapter which related to safe havens for homeless individuals demonstration program, miscellaneous provisions, and shelter plus care program, respectively, were repealed by Pub. L. 111–22, div. B, title V, § 1501, May 20, 2009, 123 Stat. 1701, effective on the earlier of 18 months after May 20, 2009, or 3 months after publication of certain final regulations by Secretary of Housing and Urban Development, see section 1503 of Pub. L. 111–22, set out as an Effective Date of 2009 Amendment note under [section 11302 of this title](./chapter-119-homeless-assistance.md#section-11302).
 
 Section 11391, Pub. L. 100–77, title IV, § 431, as added Pub. L. 102–550, title XIV, § 1404, Oct. 28, 1992, 106 Stat. 4022, established safe havens for homeless individuals demonstration program.
@@ -2390,9 +2445,6 @@ Section 11407, Pub. L. 100–77, title IV, § 486, as added Pub. L. 102–550, t
 Section 11407a, Pub. L. 100–77, title IV, § 487, as added Pub. L. 102–550, title XIV, § 1406(f), Oct. 28, 1992, 106 Stat. 4033, related to fire and safety improvements.
 
 Section 11407b, Pub. L. 100–77, title IV, § 488, as added Pub. L. 102–550, title XIV, § 1406(f), Oct. 28, 1992, 106 Stat. 4033; amended Pub. L. 110–289, div. B, title VIII, § 2835(c)(1)(B), July 30, 2008, 122 Stat. 2874, related to requirements for annual contribution contracts.
-
-#### Effective Date of Repeal
-Repeal effective on the earlier of 18 months after May 20, 2009, or 3 months after publication of certain final regulations by Secretary of Housing and Urban Development, see section 1503 of Pub. L. 111–22, set out as an Effective Date of 2009 Amendment note under [section 11302 of this title](./chapter-119-homeless-assistance.md#section-11302).
 
 
 <a id="section-11408"></a>

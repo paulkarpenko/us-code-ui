@@ -12,6 +12,8 @@ source: >-
 
 **(b) Course Development.—** The Secretary shall provide to each State maritime academy guidance and assistance in developing courses on the operation and maintenance of new vessels, on equipment, and on innovations being introduced to the merchant marine of the United States.
 
+**(c) American Maritime Centers of Excellence.—** The Secretary shall designate each State maritime academy as an American Maritime Center of Excellence.
+
 ### Statutory Notes
 
 | Historical and Revision Notes |  |  |
@@ -19,6 +21,9 @@ source: >-
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
 | 51501(a) | 46 App.:1295c(a). | June 29, 1936, ch. 858, title XIII, § 1304(a), (d)(2), as added Pub. L. 96–453, § 2, Oct. 15, 1980, 94 Stat. 2003, 2004. |
 | 51501(b) | 46 App.:1295c(d)(2). |  |
+
+#### Amendments
+2019—Subsec. (c). Pub. L. 116–92 added subsec. (c).
 
 
 <a id="section-51502"></a>

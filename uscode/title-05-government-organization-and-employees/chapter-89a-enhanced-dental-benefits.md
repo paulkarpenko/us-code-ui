@@ -25,15 +25,16 @@ In this chapter:
 
 (7) The term “State” includes the District of Columbia.
 
-(8) The term “covered TRICARE-eligible individual” means an individual entitled to dental care under chapter 55 of title 10, pursuant to section 1076a or 1076c 11 See Applicability of Amendment note below. of such title, who the Secretary of Defense determines should be an eligible individual for purposes of this chapter.
+(8) The term “covered TRICARE-eligible individual” means an individual entitled to dental care under chapter 55 of title 10, pursuant to section 1076c of such title, who the Secretary of Defense determines should be an eligible individual for purposes of this chapter.
 
 ### Statutory Notes
 
-#### Applicability of Amendment
-Amendment of section by section 713(a) of Pub. L. 115–232 applicable with respect to the first contract year for this chapter that begins on or after Jan. 1, 2022. See 2018 Amendment note below.
-
 #### Amendments
-2018—Par. (8). Pub. L. 115–232 substituted “1076a or 1076c” for “1076c”.
+2021—Par. (8). Pub. L. 116–283, § 711(c), repealed Pub. L. 115–232, § 713(a). See 2018 Amendment note below.
+
+Pub. L. 116–283, § 711(a), struck out “1076a or” before “1076c”.
+
+2018—Par. (8). Pub. L. 115–232, § 713(a), which substituted “1076a or 1076c” for “1076c”, was repealed by Pub. L. 116–283, § 711(c).
 
 2016—Par. (3). Pub. L. 114–328, § 715(a)(1)(A), substituted “paragraph (1), (2), or (8)” for “paragraph (1) or (2)”.
 
@@ -42,7 +43,7 @@ Par. (8). Pub. L. 114–328, § 715(a)(1)(B), added par. (8).
 2006—Par. (1). Pub. L. 109–356, which directed insertion of “and an employee of the District of Columbia courts” at end of par. (1), was executed by making the insertion before the period to reflect the probable intent of Congress.
 
 #### Effective Date of 2018 Amendment
-Pub. L. 115–232, div. A, title VII, § 713(c), Aug. 13, 2018, 132 Stat. 1812, provided that: “The amendments made by this section [amending this section and [section 1076a of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1076a&num=0&edition=prelim), Armed Forces] shall apply with respect to the first contract year for chapter 89A of title 5, United States Code, that begins on or after January 1, 2022.”
+Pub. L. 115–232, div. A, title VII, § 713(c), Aug. 13, 2018, 132 Stat. 1812, which provided that the amendments made by this section (amending this section and [section 1076a of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1076a&num=0&edition=prelim), Armed Forces) applied with respect to the first contract year for chapter 89A of title 5, United States Code, that began on or after January 1, 2022, was repealed by Pub. L. 116–283, div. A, title VII, § 711(c), Jan. 1, 2021, 134 Stat. 3691.
 
 #### Effective Date of 2016 Amendment
 Pub. L. 114–328, div. A, title VII, § 715(c), Dec. 23, 2016, 130 Stat. 2223, provided that: “The amendments made by this section [amending this section, sections 8958, 8981, and 8988 of this title and [section 1076c of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1076c&num=0&edition=prelim), Armed Forces] shall apply with respect to the first contract year for chapter 89A or 89B of title 5, United States Code, as applicable, that begins on or after January 1, 2018.”
@@ -187,10 +188,21 @@ Section effective Dec. 23, 2004, and applicable to contracts that take effect wi
 
 (2) A transfer under paragraph (1) shall be subject to waiting periods provided under a new plan.
 
+**(d)** Coverage under a dental benefits plan under this chapter for any employee or a covered TRICARE-eligible individual enrolled in such a plan and who, as a result of a lapse in appropriations, is furloughed or excepted from furlough and working without pay shall continue during such lapse and may not be cancelled as a result of nonpayment of premiums or other periodic charges due to such lapse.
+
 ### Statutory Notes
+
+#### Amendments
+2019—Subsec. (d). Pub. L. 116–92 added subsec. (d)
+
+#### Effective Date of 2019 Amendment
+Pub. L. 116–92, div. A, title XI, § 1111(c), Dec. 20, 2019, 133 Stat. 1601, provided that: “The amendments made by subsection (a) [amending this section and sections 8986 and 9003 of this title] shall apply to any contract for supplemental dental, supplemental vision, or long-term care insurance under chapter 89A, 89B, or 90 (respectively) of title 5, United States Code, entered into before, on, or after the date of enactment of this Act [Dec. 20, 2019].”
 
 #### Effective Date
 Section effective Dec. 23, 2004, and applicable to contracts that take effect with respect to the calendar year 2006, see section 7 of Pub. L. 108–496, set out as a note under [section 8951 of this title](./chapter-89a-enhanced-dental-benefits.md#section-8951).
+
+#### Regulations
+Pub. L. 116–92, div. A, title XI, § 1111(b), Dec. 20, 2019, 133 Stat. 1601, provided that: “(1) In general.—Consistent with paragraph (2), the Director of the Office of Personnel Management shall prescribe regulations under which premiums for supplemental dental, supplemental vision, or long-term care insurance under chapter 89A, 89B, or 90 (respectively) of title 5, United States Code, (as amended by subsection (a)) that are unpaid by an employee, a covered TRICARE-eligible individual, or a member of the uniformed services (as the case may be), as a result of that employee, covered TRICARE-eligible individual, or member being furloughed or excepted from furlough and working without pay as a result of a lapse in appropriations, are paid to the applicable carrier from back pay made available to the employee or member as soon as practicable upon the end of such lapse. “(2) Long-term care premiums from source other than backpay.—The regulations promulgated under paragraph (1) for the amendments made by subsection (a)(3) [amending [section 9003 of this title](./chapter-090-long-term-care-insurance.md#section-9003)] may provide, with respect to any individual who elected under [section 9004(d) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section9004/d&num=0&edition=prelim), United States Code, to pay premiums directly to the carrier, that such individual may continue to pay premiums pursuant to such election instead of from back pay made available to such individual.”
 
 
 <a id="section-8957"></a>

@@ -19,7 +19,7 @@ An account of sales on credit shall be kept and the amount due reported to any b
 
 **(c)** The Secretary may sell serviceable quartermaster property, other than subsistence supplies, to an officer of another armed force for his use in the service, in the same manner as these articles are sold to an officer of the Army.
 
-**(d)** A person who has been discharged honorably or under honorable conditions from the Army, Navy, Air Force, or Marine Corps and who is receiving care and medical treatment from the Public Health Service or the Department of Veterans Affairs may buy subsistence supplies and other supplies, except articles of uniform, at the prices at which like property is sold to a member of the Army.
+**(d)** A person who has been discharged honorably or under honorable conditions from the Army, Navy, Air Force, Marine Corps, or Space Force and who is receiving care and medical treatment from the Public Health Service or the Department of Veterans Affairs may buy subsistence supplies and other supplies, except articles of uniform, at the prices at which like property is sold to a member of the Army.
 
 **(e)** Under such conditions as the Secretary may prescribe, exterior articles of uniform may be sold to a person who has been discharged from the Army honorably or under honorable conditions, at the prices at which like articles are sold to members of the Army. This subsec­tion does not modify section 772 or 773 of this title.
 
@@ -79,6 +79,8 @@ The change corrects an internal reference.
 A prior section 7621 was renumbered [section 8821 of this title](./chapter-881-claims.md#section-8821).
 
 #### Amendments
+2021—Subsec. (d). Pub. L. 116–283 substituted “Marine Corps, or Space Force” for “or Marine Corps”.
+
 2018—Pub. L. 115–232 renumbered [section 4621 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section4621&num=0&edition=prelim) as this section.
 
 1996—Subsec. (a). Pub. L. 104–106, § 375(b)(1)(A), substituted “The Secretary of the Army” for “The branch, office, or officer designated by the Secretary of the Army”.
@@ -261,7 +263,7 @@ The Secretary of the Army may sell, to civilian flying schools at which personne
 | Revised section | Source (U.S. Code) | Source (Statutes at Large) |
 | 4628 | 10:298c. | Feb. 12, 1940, ch. 27, Title I (proviso under “Air Corps”), 54 Stat. 25. |
 
-The words “under the provisions of the Act of Apr. 3, 1939, ch. 35, 53 Stat. 555” are omitted as obsolete, since training formerly performed under that act is now performed under [section 4301 of this title](./chapter-323-innovation.md#section-4301). The words “personnel of the Department of the Army or the Department of the Air Force” are substituted for the words “flying cadets”, since the authority is reciprocal, and to conform to [section 4656 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section4656&num=0&edition=prelim). The words “flying cadet” are omitted as obsolete. 10:298c (last 28 words) is omitted to reflect Title IV of the National Security Act of 1947, as amended (63 Stat. 585), which authorized the Secretary of Defense to prescribe regulations governing the use and sale of certain inventories at cost, including applicable administrative expenses. (See opinion of the Assistant General Counsel (Fiscal Matters) of the Office of the Secretary of Defense, January 4, 1955.)
+The words “under the provisions of the Act of Apr. 3, 1939, ch. 35, 53 Stat. 555” are omitted as obsolete, since training formerly performed under that act is now performed under [section 4301 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section4301&num=0&edition=prelim). The words “personnel of the Department of the Army or the Department of the Air Force” are substituted for the words “flying cadets”, since the authority is reciprocal, and to conform to [section 4656 of this title](./chapter-363-prohibition-and-penalties.md#section-4656). The words “flying cadet” are omitted as obsolete. 10:298c (last 28 words) is omitted to reflect Title IV of the National Security Act of 1947, as amended (63 Stat. 585), which authorized the Secretary of Defense to prescribe regulations governing the use and sale of certain inventories at cost, including applicable administrative expenses. (See opinion of the Assistant General Counsel (Fiscal Matters) of the Office of the Secretary of Defense, January 4, 1955.)
 
 #### Amendments
 2018—Pub. L. 115–232 renumbered [section 4628 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section4628&num=0&edition=prelim) as this section.
